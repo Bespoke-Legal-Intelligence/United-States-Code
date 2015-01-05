@@ -52,7 +52,7 @@ There is established within the Department of Education, the Historically Black 
 
 &emsp;Not later than six months after August 14, 2008, the Advisory Board shall prepare and submit a report to the authorizing committees regarding the historically Black colleges and universities described in paragraph (1)(A) that includes administrative and legislative recommendations for addressing the issues related to construction financing facing such historically Black colleges and universities.
 
-(Pub. L. 89–329, title III, §347, formerly title VII, §727, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 746; renumbered title III,§347, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), 306(e), Oct. 7, 1998, 112 Stat. 1636, 1647; Pub. L. 110–315, title III, §314(e), Aug. 14, 2008, 122 Stat. 3182.)
+(Pub. L. 89–329, title III, §347, formerly title VII, §727, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 746; renumbered title III, §347, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), 306(e), Oct. 7, 1998, 112 Stat. 1636, 1647; Pub. L. 110–315, title III, §314(e), Aug. 14, 2008, 122 Stat. 3182.)
 
 #### Codification
 

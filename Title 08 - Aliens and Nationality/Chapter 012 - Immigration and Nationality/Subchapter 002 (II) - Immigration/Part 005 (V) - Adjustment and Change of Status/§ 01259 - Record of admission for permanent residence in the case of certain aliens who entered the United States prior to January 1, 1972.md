@@ -14,17 +14,17 @@ A record of lawful admission for permanent residence may, in the discretion of t
 
 #### Amendments
 
-<b>1996</b>—Par. (d). Pub. L. 104–208 substituted “section 1227(a)(4)(B)” for “section 1251(a)(4)(B)”.
+<b>1996</b>—Par. (d). Pub. L. 104–208 substituted "section 1227(a)(4)(B)" for "section 1251(a)(4)(B)".
 
-Pub. L. 104–132 inserted “and is not deportable under section 1251(a)(4)(B) of this title” after “ineligible to citizenship”.
+Pub. L. 104–132 inserted "and is not deportable under section 1251(a)(4)(B) of this title" after "ineligible to citizenship".
 
-<b>1990</b>—Pub. L. 101–649 substituted “1182(a)(3)(E)” for “1182(a)(33)”.
+<b>1990</b>—Pub. L. 101–649 substituted "1182(a)(3)(E)" for "1182(a)(33)".
 
 <b>1988</b>—Pub. L. 100–525 amended Pub. L. 99–603. See 1986 Amendment note below.
 
-<b>1986</b>—Pub. L. 99–603, as amended by Pub. L. 100–525, inserted “under section 1182(a)(33) of this title or” in introductory provisions and substituted “January 1, 1972” for “June 30, 1948” in section heading and in par. (a).
+<b>1986</b>—Pub. L. 99–603, as amended by Pub. L. 100–525, inserted "under section 1182(a)(33) of this title or" in introductory provisions and substituted "January 1, 1972" for "June 30, 1948" in section heading and in par. (a).
 
-<b>1965</b>—Pub. L. 89–236 substituted “June 30, 1948” for “June 28, 1940”.
+<b>1965</b>—Pub. L. 89–236 substituted "June 30, 1948" for "June 28, 1940".
 
 <b>1958</b>—Pub. L. 85–616 permitted record of lawful admission to be made in the case of aliens who entered the United States prior to June 28, 1940, authorized the record to be made as of the date of the approval of the application for those who entered subsequent to July 1, 1924, and prior to June 28, 1940, and substituted provisions requiring the alien to satisfy the Attorney General that he is not inadmissible under section 1182(a) of this title insofar as it relates to criminals, procurers and other immoral persons, subversives, violators of the narcotic laws or smugglers of aliens for provisions which required the alien to satisfy the Attorney General that he was not subject to deportation.
 
@@ -52,5 +52,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Applicability of Numerical Limitations
 
-Pub. L. 99–603, title II, §203(c), Nov. 6, 1986, 100 Stat. 3405, provided that: “The numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[8 U.S.C. 1151, 1152\] shall not apply to aliens provided lawful permanent resident status under section 249 of that Act \[8 U.S.C. 1259\].”
+Pub. L. 99–603, title II, §203(c), Nov. 6, 1986, 100 Stat. 3405, provided that: "The numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[8 U.S.C. 1151, 1152\] shall not apply to aliens provided lawful permanent resident status under section 249 of that Act \[8 U.S.C. 1259\]."
 

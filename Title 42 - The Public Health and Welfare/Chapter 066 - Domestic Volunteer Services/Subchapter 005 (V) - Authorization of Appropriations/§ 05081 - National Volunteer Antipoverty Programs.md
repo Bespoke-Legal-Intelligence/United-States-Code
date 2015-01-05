@@ -8,7 +8,7 @@
 
 #### (2) Special volunteer programs
 
-&emsp;There are authorized to be appropriated to carry out part C of subchapter I such sums as may be necessary for each of fiscal years 2010 through 2014.
+&emsp;There are authorized to be appropriated to carry out part C of subchapter I such sums asmay be necessary for each of fiscal years 2010 through 2014.
 
 #### (3) Specification of budget function
 

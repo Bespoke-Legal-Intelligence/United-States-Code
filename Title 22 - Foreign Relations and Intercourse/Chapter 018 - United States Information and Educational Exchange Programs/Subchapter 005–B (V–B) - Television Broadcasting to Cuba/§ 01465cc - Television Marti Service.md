@@ -26,7 +26,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 <b>1998</b>—Pub. L. 105–277, §1325(4)(A), struck out "of the United States Information Agency" after "Service" in section catchline.
 
-Subsec. (a). Pub. L. 105–277, §1325(4)(B)(ii), which directed amendment of subsec. (a) in second sentence by substituting "Broadcasting Board of Governors" for "Director of the United States Information Agency" and "the International Broadcasting Bureau" for "the Director of the Voice of America", was executed by making the substitutions in third sentence, to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 105–277, §1325(4)(B)(ii), which directed amendment of subsec. (a) in second sentence by substituting "Broadcasting Board of Governors" for"Director of the United States Information Agency" and "the International Broadcasting Bureau" for "the Director of the Voice of America", was executed by making the substitutions in third sentence, to reflect the probable intent of Congress.
 
 Pub. L. 105–277, §1325(4)(B)(i), substituted "There is" for "The Director of the United States Information Agency shall establish" in first sentence.
 

@@ -2,7 +2,7 @@
 
 #### (a) Program authority
 
-The Secretary is authorized, in accordance with the provisions of this subpart, to make grants to States to enable the States to awardscholarships to individuals who have demonstrated outstanding academic achievement and who show promise of continued academic achievement.
+The Secretary is authorized, in accordance with the provisions of this subpart, to make grants to States to enable the States to award scholarships to individuals who have demonstrated outstanding academic achievement and who show promise of continued academic achievement.
 
 #### (b) Period of award
 
@@ -20,7 +20,7 @@ A student awarded a scholarship under this subpart may attend any institution of
 
 Individuals awarded scholarships under this subpart shall be known as "Byrd Scholars".
 
-(Pub. L. 89–329, title IV, §419C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(b), July 23, 1992, 106 Stat. 508; Pub. L. 103–208, §2(b)(28), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 111–39, title IV, §401(a)(7), July 1, 2009, 123 Stat. 1939.)
+(Pub. L. 89–329, title IV, §419C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(b), July 23, 1992, 106 Stat. 508; Pub. L. 103–208,§2(b)(28), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 111–39, title IV, §401(a)(7), July 1, 2009, 123 Stat. 1939.)
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(3) "Nonprofit institution" means an organization owned and operated exclusively for scientific or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.
 
-&emsp;(4) "Federal laboratory" means any laboratory, any federally funded research and development center, or any center established under section 3705 or 3707 of this title that is owned, leased, or otherwise used by a Federalagency and funded by the Federal Government, whether operated by the Government or by a contractor.
+&emsp;(4) "Federal laboratory" means any laboratory, any federally funded research and development center, or any center established under section 3705 or 3707 of this title that is owned, leased, or otherwise used by a Federal agency and funded by the Federal Government, whether operated by the Government or by a contractor.
 
 &emsp;(5) "Supporting agency" means either the Department of Commerce or the National Science Foundation, as appropriate.
 

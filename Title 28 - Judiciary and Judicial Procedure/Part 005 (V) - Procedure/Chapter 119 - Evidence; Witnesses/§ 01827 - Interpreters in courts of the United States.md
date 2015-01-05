@@ -84,7 +84,7 @@ Subsec. (g)(1) to (3). Pub. L. 100–702, §706(a), amended pars. (1) to (3) gen
 
 "(2) Such salaries, fees, expenses, and costs that are incurred with respect to Government witnesses shall, unless direction is made under paragraph (3) of this subsection, be paid by the Attorney General from sums appropriated to the Department of Justice.
 
-"(3) The presiding judicial officer may in such officer's discretion direct that all or part of such salaries, fees, expenses, and costs shall be apportioned between or among the parties or shall be taxed as costs in a civil action."
+"(3) The presiding judicial officer may in such officer's discretion direct that all or part of such salaries,fees, expenses, and costs shall be apportioned between or among the parties or shall be taxed as costs in a civil action."
 
 Subsec. (g)(4), (5). Pub. L. 100–702, §706(b), added par. (4) and redesignated former par. (4) as (5).
 

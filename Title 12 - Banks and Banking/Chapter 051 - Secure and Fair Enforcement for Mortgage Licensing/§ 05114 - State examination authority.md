@@ -2,7 +2,7 @@
 
 In addition to any authority allowed under State law a State licensing agency shall have the authority to conduct investigations and examinations as follows:
 
-&emsp;(1) For the purposes of investigating violations or complaints arising under this chapter, or for the purposes of examination, the Statelicensing agency may review, investigate, or examine any loan originator licensed or required to be licensed under this chapter, as often as necessary in order to carry out the purposes of this chapter.
+&emsp;(1) For the purposes of investigating violations or complaints arising under this chapter, or for the purposes of examination, the State licensing agency may review, investigate, or examine any loan originator licensed or required to be licensed under this chapter, as often as necessary in order to carry out the purposes of this chapter.
 
 &emsp;(2) Each such loan originator shall make available upon request to the State licensing agency the books and records relating to the operations of such originator. The State licensing agency may have access to such books and records and interview the officers, principals, loan originators, employees, independent contractors, agents, and customers of the licensee concerning their business.
 

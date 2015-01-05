@@ -10,7 +10,7 @@ Impaired capacity.—The defendant's capacity to appreciate the wrongfulness of 
 
 &emsp;(2)
 
-Duress.—The defendant was under unusual and substantial duress, regardless of whether the duress was of such a degree as to constitute a defense to the charge.
+Duress.—The defendant was under unusual and substantial duress, regardless ofwhether the duress was of such a degree as to constitute a defense to the charge.
 
 &emsp;(3)
 
@@ -96,7 +96,7 @@ Substantial planning and premeditation.—The defendant committed the offense af
 
 &emsp;(10)
 
-Conviction for two felony drug offenses.—The defendant has previously been convicted of 2 or more State or Federal offenses punishable by a term of imprisonment of more than one year, committed on different occasions, involving the distribution of a controlled substance.
+Conviction for two felony drug offenses.—The defendant has previously beenconvicted of 2 or more State or Federal offenses punishable by a term of imprisonment of more than one year, committed on different occasions, involving the distribution of a controlled substance.
 
 &emsp;(11)
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) at the National Security Agency Headquarters complex and at any facilities and protected property which are solely under the administration and control of, or are used exclusively by, the National Security Agency; and
 
-&emsp;(B) in the streets, sidewalks, and the open areas within the zone beginning at the outsideboundary of such facilities or protected property and extending outward 500 feet.
+&emsp;(B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such facilities or protected property and extending outward 500 feet.
 
 (2) The performance of functions and exercise of powers under subparagraph (B) of paragraph (1) shall be limited to those circumstances where such personnel can identify specific and articulable facts giving such personnel reason to believe that the performance of such functions and exercise of such powers is reasonable to protect against physical damage or injury, or threats of physical damage or injury, to agency installations, property, or employees.
 
@@ -52,7 +52,7 @@ Section was formerly classified in a note under section 402 of this title prior 
 
 Subsec. (d)(1)(D). Pub. L. 112–87, §421(b), added subpar. (D).
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–177, §377(c)(1), substituted "officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40" for "special policemen of the General Services Administration perform under the first section of the Act entitled 'An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes' (40 U.S.C. 318)".
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–177, §377(c)(1), substituted "officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40" for "special policemen of the General ServicesAdministration perform under the first section of the Act entitled 'An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes' (40 U.S.C. 318)".
 
 Subsec. (b). Pub. L. 108–177, §377(c)(2), substituted "section 1315(c)(2) of title 40" for "the fourth section of the Act referred to in subsection (a) (40 U.S.C. 318c)".
 

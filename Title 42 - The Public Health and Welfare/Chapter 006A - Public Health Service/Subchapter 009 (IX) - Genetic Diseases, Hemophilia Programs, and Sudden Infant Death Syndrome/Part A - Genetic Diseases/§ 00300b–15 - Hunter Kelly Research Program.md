@@ -8,9 +8,13 @@
 
 &emsp;&emsp;(A) identifying, developing, and testing the most promising new screening technologies, in order to improve already existing screening tests, increase the specificity of newborn screening, and expand the number of conditions for which screening tests are available;
 
-&emsp;&emsp;(B) experimental treatments and disease management strategies for additional newborn conditions, and other genetic, metabolic, hormonal, or functional conditions that can be detected through newborn screening for which treatment is not yet available; and
+&emsp;&emsp;(B) experimental treatments and disease management strategies for additional newborn conditions, and other genetic, metabolic, hormonal, or functional conditions that can be detected through newborn screening for which treatment is not yet available;
 
-&emsp;&emsp;(C) other activities that would improve newborn screening, as identified by the Director.
+&emsp;&emsp;(C) providing research findings and data for newborn conditions under review by the Advisory Committee on Heritable Disorders in Newborns and Children to be added to the recommended uniform screening panel;
+
+&emsp;&emsp;(D) conducting pilot studies on conditions recommended by the Advisory Committee on Heritable Disorders in Newborns and Children to ensure that screenings are ready for nationwide implementation; and
+
+&emsp;&emsp;(E) other activities that would improve newborn screening, as identified by the Director.
 
 #### (2) Additional newborn condition
 
@@ -18,11 +22,11 @@
 
 #### (b) Funding
 
-In carrying out the research program under this section, the Secretary and the Director shall ensure that entities receiving funding through the program will provide assurances, as practicable, that such entities will work in consultation with the appropriate State departments of health, and, as practicable, focus their research on screening technology not currently performed in the States in which the entities are located, and the conditions on the uniform screening panel (or the standard test existing on the uniform screening panel).
+In carrying out the research program under this section, the Secretary and the Director shall ensure that entities receiving funding through the program will provide assurances, as practicable, that such entities will work in consultation with the appropriate State departments of health, and, as practicable, focus their research on screening technology not currentlyperformed in the States in which the entities are located, and the conditions on the uniform screening panel (or the standard test existing on the uniform screening panel).
 
 #### (c) Reports
 
-The Director is encouraged to include information about the activities carried out under this section in the biennial report required under section 403 of the National Institutes of Health Reform Act of 2006.<sup>1</sup> If such information is included, the Director shall make such information available to be included on the Internet Clearinghouse established under section 300b–11 of this title.
+The Director is encouraged to include information about the activities carried out under this section in the biennial report required under section 283 of this title. If such information is included, the Director shall make such information available to be included on the Internet Clearinghouse established under section 300b–11 of this title.
 
 #### (d) Nonduplication
 
@@ -32,29 +36,13 @@ In carrying out programs under this section, the Secretary shall minimize duplic
 
 Nothing in this section shall be construed to interfere with the scientific peer-review process at the National Institutes of Health.
 
-(July 1, 1944, ch. 373, title XI, §1116, as added Pub. L. 110–204, §7, Apr. 24, 2008, 122 Stat. 711; amended Pub. L. 110–237, §1(a)(7), May 27, 2008, 122 Stat. 1557.)
-
-#### References in Text
-
-Section 403 of the National Institutes of Health Reform Act of 2006, referred to in subsec. (c), probably means section 403 of the Public Health Service Act, as added by section 104(a)(3) of the National Institutes of Health Reform Act of 2006, Pub. L. 109–482, which is classified to section 283 of this title.
-
-#### Prior Provisions
-
-Prior sections 300c to 300c–4 were repealed by Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 407.
-
-Section 300c, act July 1, 1944, ch. 373, title XI, §1111, as added Aug. 29, 1972, Pub. L. 92–414, §3, 86 Stat. 650, authorized Secretary to make grants and enter contracts with public and private entities for establishment of screening, treatment, and counseling programs with respect to Cooley's Anemia.
-
-Section 300c–1, act July 1, 1944, ch. 373, title XI, §1112, as added Aug. 29, 1972, Pub. L. 92–414, §3, 86 Stat. 651, required that any participation by an individual in any Cooley's Anemia programs should be on a purely voluntary basis.
-
-Section 300c–2, act July 1, 1944, ch. 373, title XI, §1113, as added Aug. 29, 1972, Pub. L. 92–414, §3, 86 Stat. 651, provided for making of grant upon application to Secretary and listed certain requirements to be met by applicant.
-
-Section 300c–3, act July 1, 1944, ch. 373, title XI, §1114, as added Aug. 29, 1972, Pub. L. 92–414, §3, 86 Stat. 652, authorized Secretary to establish a program with Public Health Service to provide for screening, counseling, and treatment with respect to Cooley's Anemia.
-
-Section 300c–4, act July 1, 1944, ch. 373, title XI, §1115, as added Aug. 29, 1972, Pub. L. 92–414, §3, 86 Stat. 652, provided for Secretary's submission of a report to President for transmittal to Congress annually.
+(July 1, 1944, ch. 373, title XI, §1116, as added Pub. L. 110–204, §7, Apr. 24, 2008, 122 Stat. 711; amended Pub. L. 110–237, §1(a)(7), May 27, 2008, 122 Stat. 1557; Pub. L. 113–240, §9, Dec. 18, 2014, 128 Stat. 2855.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–237 substituted ", or" for "and or".
+<b>2014</b>—Subsec. (a)(1)(C) to (E). Pub. L. 113–240, §9(1), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Subsec. (c). Pub. L. 113–240, §9(2), substituted "section 283 of this title" for "section 403 of the National Institutes of Health Reform Act of 2006".
+
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–237 substituted ", or" for "and or".
 

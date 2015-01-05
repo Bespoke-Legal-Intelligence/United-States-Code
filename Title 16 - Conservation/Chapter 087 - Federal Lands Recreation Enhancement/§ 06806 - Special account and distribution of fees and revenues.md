@@ -22,7 +22,7 @@ Subject to subsections (c), (d), and (e), revenues collected by each Federal lan
 
 #### (B) Reduction
 
-&emsp;&emsp;The Secretary may reduce the percentage allocation otherwise applicable under subparagraph (A) to a unit or area of a Federal land management agency, but not below 60 percent, for a fiscal year if the Secretary determines that the revenues collected at the unit or area exceed the reasonable needs ofthe unit or area for which expenditures may be made for that fiscal year.
+&emsp;&emsp;The Secretary may reduce the percentage allocation otherwise applicable under subparagraph (A) to a unit or area of a Federal land management agency, but not below 60 percent, for a fiscal year if the Secretary determines that the revenues collected at the unit or area exceed the reasonable needs of the unit or area for which expenditures may be made for that fiscal year.
 
 #### (2) Agency-wide distribution of funds
 

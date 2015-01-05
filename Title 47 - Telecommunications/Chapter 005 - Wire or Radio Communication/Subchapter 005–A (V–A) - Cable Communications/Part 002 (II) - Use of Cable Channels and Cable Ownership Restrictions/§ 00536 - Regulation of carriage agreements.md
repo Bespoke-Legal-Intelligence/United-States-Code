@@ -6,7 +6,7 @@ Within one year after October 5, 1992, the Commission shall establish regulation
 
 &emsp;(1) include provisions designed to prevent a cable operator or other multichannel video programming distributor from requiring a financial interest in a program service as a condition for carriage on one or more of such operator's systems;
 
-&emsp;(2) include provisions designed to prohibit a cable operator or other multichannel video programming distributor from coercing a video programming vendor to provide, and from retaliating against such a vendor for failing to provide, exclusive rights against othermultichannel video programming distributors as a condition of carriage on a system;
+&emsp;(2) include provisions designed to prohibit a cable operator or other multichannel video programming distributor from coercing a video programming vendor to provide, and from retaliating against such a vendor for failing to provide, exclusive rights against other multichannel video programming distributors as a condition of carriage on a system;
 
 &emsp;(3) contain provisions designed to prevent a multichannel video programming distributor from engaging in conduct the effect of which is to unreasonably restrain the ability of an unaffiliated video programming vendor to compete fairly by discriminating in video programming distribution on the basis of affiliation or nonaffiliation of vendors in the selection, terms, or conditions for carriage of video programming provided by such vendors;
 

@@ -9,11 +9,13 @@
 | [V.](Part%20005%20%28V%29%20-%20Shipowners%27%20Protection%20and%20Indemnity%20Associations/README.md) | Shipowners' protection and indemnity associations. |
 | [VI.](Part%20006%20%28VI%29%20-%20Political%20Organizations/README.md) | Political organizations. |
 | [VII.](Part%20007%20%28VII%29%20-%20Certain%20Homeowners%20Associations/README.md) | Certain homeowners associations. |
-| [VIII.](Part%20008%20%28VIII%29%20-%20Higher%20Education%20Savings%20Entities/README.md) | Higher education savings entities. |
+| [VIII.](Part%20008%20%28VIII%29%20-%20Certain%20Savings%20Entities/README.md) | Certain Savings Entities.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. B, title I, §102(e)(5), Dec. 19, 2014, 128 Stat. 4062, substituted "Certain Savings Entities" for "Higher education savings entities" in part VIII heading.
 
 <b>1997</b>—Pub. L. 105–34, title II, §211(e)(1)(B), Aug. 5, 1997, 111 Stat. 812, substituted "Higher education savings entities" for "Qualified State tuition programs" in part VIII heading.
 
@@ -24,6 +26,8 @@
 <b>1975</b>—Pub. L. 93–625, §10(d), Jan. 3, 1975, 88 Stat. 2119, added part VI heading.
 
 <b>1969</b>—Pub. L. 91–172, title I, §101(j)(58), Dec. 30, 1969, 83 Stat. 532, added part II heading, and redesignated former parts II, III and IV as parts III, IV and V, respectively.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "Certain savings entities."</i>
 
 
 ---
@@ -37,4 +41,4 @@
 - [Part 005 (V) - Shipowners' Protection and Indemnity Associations](Part%20005%20%28V%29%20-%20Shipowners%27%20Protection%20and%20Indemnity%20Associations/README.md)
 - [Part 006 (VI) - Political Organizations](Part%20006%20%28VI%29%20-%20Political%20Organizations/README.md)
 - [Part 007 (VII) - Certain Homeowners Associations](Part%20007%20%28VII%29%20-%20Certain%20Homeowners%20Associations/README.md)
-- [Part 008 (VIII) - Higher Education Savings Entities](Part%20008%20%28VIII%29%20-%20Higher%20Education%20Savings%20Entities/README.md)
+- [Part 008 (VIII) - Certain Savings Entities](Part%20008%20%28VIII%29%20-%20Certain%20Savings%20Entities/README.md)

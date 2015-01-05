@@ -12,7 +12,7 @@ Except as authorized under subsection (b) of this section, no consumer reporting
 
 (4) Accounts placed for collection or charged to profit and loss which antedate the report by more than seven years.
 
-(5) Any other adverse item of information, other than records of convictions of crimeswhich antedates the report by more than seven years.
+(5) Any other adverse item of information, other than records of convictions of crimes which antedates the report by more than seven years.
 
 (6) The name, address, and telephone number of any medical information furnisher that has notified the agency of its status, unless—
 
@@ -62,7 +62,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
+&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of thecard number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
 
 #### (2) Limitation
 
@@ -80,7 +80,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (1) In general
 
-&emsp;If a person has requested a consumer report relating to a consumer from a consumer reporting agency described in section 1681a(p) ofthis title, the request includes an address for the consumer that substantially differs from the addresses in the file of the consumer, and the agency provides a consumer report in response to the request, the consumer reporting agency shall notify the requester of the existence of the discrepancy.
+&emsp;If a person has requested a consumer report relating to a consumer from a consumer reporting agency described in section 1681a(p) of this title, the request includes an address for the consumer that substantially differs from the addresses in the file of the consumer, and the agency provides a consumer report in response to the request, the consumer reporting agency shall notify the requester of the existence of the discrepancy.
 
 #### (2) Regulations
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1978 Amendment
 

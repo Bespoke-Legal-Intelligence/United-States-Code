@@ -2,11 +2,11 @@
 
 #### (a) Requirement for restrictions
 
-The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) of this section as are applied under this chapter to the members of the missions of the Soviet Union in the United States.
+The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) as are applied under this chapter to the members of the missions of the Soviet Union in the United States.
 
 #### (b) Individuals subject to restrictions
 
-The restrictions required by subsection (a) of this section shall be applied with respect to those individuals who (as determined by the Secretary) are—
+The restrictions required by subsection (a) shall be applied with respect to those individuals who (as determined by the Secretary) are—
 
 &emsp;(1) the personnel of an international organization, if the individual is a national of any foreign country whose government engages in intelligence activities in the United States that are harmful to the national security of the United States;
 
@@ -18,7 +18,7 @@ The restrictions required by subsection (a) of this section shall be applied wit
 
 #### (c) Waivers
 
-The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) of this section if the Secretary determines that the national security and foreign policy interests of the United States so require.
+The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) if the Secretary determines that the national security and foreign policy interests of the United States so require.
 
 #### (d) Repealed. Pub. L. 103–236, title I, §139(3), Apr. 30, 1994, 108 Stat. 397
 
@@ -52,7 +52,7 @@ Pub. L. 100–204, title I, §162(b), Dec. 22, 1987, 101 Stat. 1358, provided th
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretaryof State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

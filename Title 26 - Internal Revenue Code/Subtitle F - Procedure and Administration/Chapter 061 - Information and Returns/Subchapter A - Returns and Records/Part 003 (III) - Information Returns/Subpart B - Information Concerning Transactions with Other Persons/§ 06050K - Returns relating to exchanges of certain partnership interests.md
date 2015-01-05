@@ -50,7 +50,7 @@ Amendment by section 1501(c)(13) of Pub. L. 99–514 applicable to returns the d
 
 Amendment by section 1811(b)(2) of Pub. L. 99–514 applicable to partnership taxable years beginning after Oct. 22, 1986, see section 1811(b)(1)(B) of Pub. L. 99–514, set out as a note under section 6031 of this title.
 
-Amendment by section 1811(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, seesection 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1811(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 

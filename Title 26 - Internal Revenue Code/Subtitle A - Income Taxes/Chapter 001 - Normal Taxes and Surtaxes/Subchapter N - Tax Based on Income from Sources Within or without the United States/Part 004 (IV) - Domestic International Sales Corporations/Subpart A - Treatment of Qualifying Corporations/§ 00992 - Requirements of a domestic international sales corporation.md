@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) for the taxable year following the taxable year in which made, if made after the close of such 90 days,
 
-> &emsp;&emsp;and for all succeeding taxable years of the corporation. Such termination shall be made in such manner as the Secretary shall prescribe by regulations.
+> &emsp;&emsp;and for all succeeding taxable years of the corporation. Such termination shall be madein such manner as the Secretary shall prescribe by regulations.
 
 #### (B) Continued failure to be DISC
 
@@ -66,7 +66,7 @@
 
 &emsp;The conditions under paragraph (1) shall be deemed satisfied in the case of a distribution made under such paragraph—
 
-&emsp;&emsp;(A) if the failure to meet the requirements of subsection (a)(1)(A) or (B), and the failureto make such distribution prior to the date on which made, are due to reasonable cause; and
+&emsp;&emsp;(A) if the failure to meet the requirements of subsection (a)(1)(A) or (B), and the failure to make such distribution prior to the date on which made, are due to reasonable cause; and
 
 &emsp;&emsp;(B) the corporation pays, within the 30–day period beginning with the day on which such distribution is made, to the Secretary, if such corporation makes such distribution after the 15th day of the 9th months after the close of the taxable year, an amount determined by multiplying (i) the amount equal to 4½ percent of such distribution, by (ii) the number of its taxable years which begin after the taxable year with respect to which such distribution is made and before such distribution is made. For purposes of this title, any payment made pursuant to this paragraph shall be treated as interest.
 
@@ -116,7 +116,7 @@ Section 941, referred to in subsec. (d)(6), was repealed by Pub. L. 94–455, ti
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1)(C) to (E). Pub. L. 110–172 inserted "and" at end of subpar. (C), substituted period for ", and" at end of subpar. (D), and struck out subpar. (E) which read as follows: "such corporation is not a member of any controlled group of which a FSC is a member."
+<b>2007</b>—Subsec. (a)(1)(C) to (E). Pub. L. 110–172 inserted "and" at end of subpar. (C), substituted period for", and" at end of subpar. (D), and struck out subpar. (E) which read as follows: "such corporation is not a member of any controlled group of which a FSC is a member."
 
 <b>1996</b>—Subsec. (d)(3). Pub. L. 104–188 struck out "or 593" after "section 581".
 

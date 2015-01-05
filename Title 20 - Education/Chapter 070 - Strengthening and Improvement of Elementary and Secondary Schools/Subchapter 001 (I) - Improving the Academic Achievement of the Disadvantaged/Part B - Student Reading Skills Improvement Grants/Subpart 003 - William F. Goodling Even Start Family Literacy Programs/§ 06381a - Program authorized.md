@@ -92,7 +92,7 @@
 
 #### (1) In general
 
-&emsp;From amounts appropriated under section 6302(b)(3) of this title and not reserved under subsection (a), (b), or (c) of this section, the Secretary shall make grants to State educational agencies from allocations under paragraph (2).
+&emsp;From amounts appropriated under section 6302(b)(3) of this title and not reserved undersubsection (a), (b), or (c) of this section, the Secretary shall make grants to State educational agencies from allocations under paragraph (2).
 
 #### (2) Allocations
 

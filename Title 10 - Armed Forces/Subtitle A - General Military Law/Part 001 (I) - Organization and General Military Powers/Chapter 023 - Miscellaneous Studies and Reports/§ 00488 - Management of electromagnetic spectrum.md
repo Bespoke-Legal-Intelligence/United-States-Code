@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Strategic Plan.—Every three years the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
+Requirement for Strategic Plan.—Every three years, the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
 
 &emsp;(1) An inventory of the uses of the electromagnetic spectrum for national security purposes and other purposes.
 
@@ -26,9 +26,11 @@ Submission of Plan to Congress.—(1) The Secretary of Defense shall submit to C
 
 (2) Each strategic plan submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
-(Added Pub. L. 108–136, div. A, title X, §1054(a), Nov. 24, 2003, 117 Stat. 1615; amended Pub. L. 113–66, div. A, title X, §1072(a), (b)(1), Dec. 26, 2013, 127 Stat. 868, 869.)
+(Added Pub. L. 108–136, div. A, title X, §1054(a), Nov. 24, 2003, 117 Stat. 1615; amended Pub. L. 113–66, div. A, title X, §1072(a), (b)(1), Dec. 26, 2013, 127 Stat. 868, 869; Pub. L. 113–291, div. A, title X, §1071(f)(7), Dec. 19, 2014, 128 Stat. 3510.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–291 inserted a comma after "Every three years" in introductory provisions.
 
 <b>2013</b>—Pub. L. 113–66, §1072(b)(1), struck out ": biennial strategic plan" after "spectrum" in section catchline.
 

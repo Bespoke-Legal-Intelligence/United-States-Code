@@ -10,7 +10,7 @@
 
 (e) Each officer who is considered but not continued on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on July 1 of the promotion year immediately following the promotion year in which the report of the continuation board convened under this section is approved.
 
-(f)(1) Unless retired under another provision of law, each officer who is continued on active duty under this section shall, except as provided in paragraph (2), be retired on July 1 of the promotion year immediately following the promotion year in which that officer completesseven years of combined service in the grades of rear admiral (lower half) and rear admiral, unless that officer is selected for or serving in the grade of admiral or vice admiral or the position of Superintendent of the Coast Guard Academy.
+(f)(1) Unless retired under another provision of law, each officer who is continued on active duty under this section shall, except as provided in paragraph (2), be retired on July 1 of the promotion year immediately following the promotion year in which that officer completes seven years of combined service in the grades of rear admiral (lower half) and rear admiral, unless that officer is selected for or serving in the grade of admiral or vice admiral or the position of Superintendent of the Coast Guard Academy.
 
 (2) The Commandant, with the approval of the Secretary, may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under paragraph (1). Unless selected for or serving in the grade of admiral or vice admiral or the position of Superintendent of the Coast Guard Academy, or retired under another provision of law, an officer so retained shall be retired on July 1 of the promotion year immediately following the promotion year in which no action is taken to further retain that officer under this paragraph.
 
@@ -74,5 +74,5 @@ Pub. L. 92–451, §3, Oct. 2, 1972, 86 Stat. 757, provided that: "This Act \[en
 
 #### Retired Pay on or Prior to September 24, 1963
 
-Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
+Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retiredpay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
 

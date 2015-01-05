@@ -10,7 +10,7 @@ Objectives of the Program.—The objectives of the program shall be to provide c
 
 (c)
 
-Program Strategy.—In carrying out the program, the Secretary shall develop a program strategy that encompasses those actions necessary to assure the readiness, reliability, continuity, and integrity of Defense information systems, networks, and infrastructure, including through compliance with subchapter II of chapter 35 of title 44, including through compliance with subchapter III of chapter 35 of title 44. The program strategy shall include the following:
+Program Strategy.—In carrying out the program, the Secretary shall develop a programstrategy that encompasses those actions necessary to assure the readiness, reliability, continuity, and integrity of Defense information systems, networks, and infrastructure, including through compliance with subchapter II of chapter 35 of title 44, including through compliance with subchapter III of chapter 35 of title 44. The program strategy shall include the following:
 
 &emsp;(1) A vulnerability and threat assessment of elements of the defense and supporting nondefense information infrastructures that are essential to the operations of the Department and the armed forces.
 
@@ -70,7 +70,35 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, set out as an Effective Date note under section 3531 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of Title 44, Public Printing and Documents.
+
+#### Notification of Foreign Threats to Information Technology Systems Impacting National Security
+
+Pub. L. 113–291, div. A, title X, §1078, Dec. 19, 2014, 128 Stat. 3520, provided that:
+
+"(a)
+
+Notification Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the Secretary of Defense determines, through the use of open source information or the use of existing authorities (including section 806 of the National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4260; 10 U.S.C. 2304 note)), that there is evidence of a national security threat described in paragraph (2), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notification of such threat.
+
+&emsp;"(2)
+
+National security threat.—A national security threat described in this paragraph is a threat to an information technology or telecommunications component or network by an agent of a foreign power in which the compromise of such technology, component, or network poses a significant risk to the programs and operations of the Department of Defense, as determined by the Secretary of Defense.
+
+&emsp;"(3)
+
+Form.—A notification under this subsection shall be submitted in classified form.
+
+"(b)
+
+Action Plan Required.—In the event that a notification is submitted pursuant to subsection (a), the Secretary shall work with the head of any department or agency affected by the national security threat to develop a plan of action for responding to the concerns leading to the notification.
+
+"(c)
+
+Agent of a Foreign Power.—In this section, the term 'agent of a foreign power' has the meaning given such term in section 101(b) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801(b))."
 
 #### Authorities, Capabilities, and Oversight of the United States Cyber Command
 
@@ -172,7 +200,7 @@ Pub. L. 112–239, div. A, title IX, §933, Jan. 2, 2013, 126 Stat. 1884, provid
 
 "(a)
 
-Baseline Software Assurance Policy.—The Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the Chief Information Officer of the Department of Defense, shall develop and implement a baseline software assurance policy for the entire lifecycle of covered systems. Such policy shall be included as part of the strategy for trusted defense systems of the Department of Defense.
+Baseline Software Assurance Policy.—The Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the ChiefInformation Officer of the Department of Defense, shall develop and implement a baseline software assurance policy for the entire lifecycle of covered systems. Such policy shall be included as part of the strategy for trusted defense systems of the Department of Defense.
 
 "(b)
 
@@ -216,7 +244,7 @@ Covered system.—The term 'covered system' means any Department of Defense crit
 
 &emsp;&emsp;"(A) a major system, as that term is defined in section 2302(5) of title 10, United States Code;
 
-&emsp;&emsp;"(B) a national security system, as that term is defined in section 3542(b)(2) of title 44, United States Code; or
+&emsp;&emsp;"(B) a national security system, as that term is defined in \[former\] section 3542(b)(2) of title 44, United States Code \[see now 44 U.S.C. 3552(b)(6)\]; or
 
 &emsp;&emsp;"(C) a Department of Defense information system categorized as Mission Assurance Category I in Department of Defense Directive 8500.01E that is funded by the Department of Defense.
 
@@ -304,7 +332,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Cleared defense contractor.—The term 'cleared defense contractor' means a private entitygranted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
+Cleared defense contractor.—The term 'cleared defense contractor' means a private entity granted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
 
 &emsp;"(2)
 
@@ -468,7 +496,7 @@ Covered Systems.—For purposes of this section, a covered system is any critica
 
 &emsp;"(1) A major system, as that term is defined in section 2302(5) of title 10, United States Code.
 
-&emsp;"(2) A national security system, as that term is defined in section 3542(b)(2) of title 44, United States Code.
+&emsp;"(2) A national security system, as that term is defined in \[former\] section 3542(b)(2) of title 44, United States Code \[see now 44 U.S.C. 3552(b)(6)\].
 
 &emsp;"(3) Any Department of Defense information system categorized as Mission Assurance Category I.
 

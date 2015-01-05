@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;<b>(11) Assessments of tax attributable to partnership items, see section 6229.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 807; Apr. 2, 1956, ch. 160, §4(d), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(5), 70 Stat. 397; Pub. L. 85–866,title I, §84(b), Sept. 2, 1958, 72 Stat. 1664; Pub. L. 88–272, title I, §112(d)(2), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title II, §213(c)(3), Dec. 30, 1969, 83 Stat. 572; Pub. L. 91–614, title I, §101(d)(2), Dec. 31, 1970, 84 Stat. 1837; Pub. L. 93–625, §7(d)(4), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XII, §1203(h)(2), title XIX, 1901(b)(31)(D), (36)(C), (37)(D), (39)(B), 1906(a)(32), Oct. 4, 1976, 90 Stat. 1694, 1800, 1802, 1803, 1829; Pub. L. 95–30, title I, §101(d)(16), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title IV, §405(c)(6), title VII, §703(j)(10), Nov. 6, 1978, 92 Stat. 2871, 2942; Pub. L. 95–618, title II, §233(b)(2)(D), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–248, title IV, §402(c)(6), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–424, title V, §515(b)(10), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title I, §104(b)(18), Oct. 22, 1986, 100 Stat. 2106; Pub. L. 105–34, title III, §312(d)(13), Aug. 5, 1997, 111 Stat. 840.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 807; Apr. 2, 1956, ch. 160, §4(d), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(5), 70 Stat. 397; Pub. L. 85–866, title I, §84(b), Sept. 2, 1958, 72 Stat. 1664; Pub. L. 88–272, title I, §112(d)(2), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title II, §213(c)(3), Dec. 30, 1969, 83 Stat. 572; Pub. L. 91–614, title I, §101(d)(2), Dec. 31, 1970, 84 Stat. 1837; Pub. L. 93–625, §7(d)(4), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XII, §1203(h)(2), title XIX, 1901(b)(31)(D), (36)(C), (37)(D), (39)(B), 1906(a)(32), Oct. 4, 1976, 90 Stat. 1694, 1800, 1802, 1803, 1829; Pub. L. 95–30, title I, §101(d)(16), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title IV, §405(c)(6), title VII, §703(j)(10), Nov. 6, 1978, 92 Stat. 2871, 2942; Pub. L. 95–618, title II, §233(b)(2)(D), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–248, title IV, §402(c)(6), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–424, title V, §515(b)(10), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title I, §104(b)(18), Oct. 22, 1986, 100 Stat. 2106; Pub. L. 105–34, title III, §312(d)(13), Aug. 5, 1997, 111 Stat. 840.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
+Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) ofPub. L. 97–424, set out as a note under section 34 of this title.
 
 #### Effective Date of 1982 Amendment
 

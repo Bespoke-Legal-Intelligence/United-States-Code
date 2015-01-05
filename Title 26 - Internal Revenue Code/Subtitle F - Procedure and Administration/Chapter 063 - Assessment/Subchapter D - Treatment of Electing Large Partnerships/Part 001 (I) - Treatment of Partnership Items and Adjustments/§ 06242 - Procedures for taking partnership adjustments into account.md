@@ -48,7 +48,7 @@
 
 #### (3) Penalties
 
-&emsp;A partnership shall be liable for any penalty, addition to tax, or additional amount for which it would have been liable if such partnership had been an individual subject to tax under chapter 1 for the adjusted year and the imputed underpayment determined under paragraph (4) were an actual underpayment (or understatement) for such year.
+&emsp;A partnership shall be liable for any penalty, addition to tax, or additional amount forwhich it would have been liable if such partnership had been an individual subject to tax under chapter 1 for the adjusted year and the imputed underpayment determined under paragraph (4) were an actual underpayment (or understatement) for such year.
 
 #### (4) Imputed underpayment
 

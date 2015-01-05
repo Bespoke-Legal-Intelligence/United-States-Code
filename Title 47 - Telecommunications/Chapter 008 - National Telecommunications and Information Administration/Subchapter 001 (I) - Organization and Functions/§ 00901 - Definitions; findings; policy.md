@@ -12,7 +12,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(4) The term "Commission" means the Federal Communications Commission.
 
-&emsp;(5) The term "Corporation" means the Communications Satellite Corporation authorized in title III of the Communications Satellite Act of 1962 (47 U.S.C. 731 et seq.).
+&emsp;(5) The term "Corporation" means the Communications Satellite Corporation authorizedin title III of the Communications Satellite Act of 1962 (47 U.S.C. 731 et seq.).
 
 #### (b) Findings
 
@@ -56,7 +56,7 @@ Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–53, title XXIII, §2301, Aug. 3, 2007, 121 Stat. 543, as amended by Pub. L. 110–161, div. B, title V, §539,Dec. 26, 2007, 121 Stat. 1934, provided that: "This title \[amending section 942 of this title and provisions set out as a note under section 309 of this title\] may be cited as the '911 Modernization Act'."
+Pub. L. 110–53, title XXIII, §2301, Aug. 3, 2007, 121 Stat. 543, as amended by Pub. L. 110–161, div. B, title V, §539, Dec. 26, 2007, 121 Stat. 1934, provided that: "This title \[amending section 942 of this title and provisions set out as a note under section 309 of this title\] may be cited as the '911 Modernization Act'."
 
 #### Short Title of 2004 Amendment
 
@@ -120,7 +120,7 @@ Term of the President's National Security Telecommunications Advisory Committee 
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's National Security Telecommunications Advisory Committee extended untilSept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

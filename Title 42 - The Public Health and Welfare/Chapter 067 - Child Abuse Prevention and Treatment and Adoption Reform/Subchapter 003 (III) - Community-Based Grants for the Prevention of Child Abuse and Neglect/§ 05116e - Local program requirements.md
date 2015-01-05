@@ -24,7 +24,7 @@ Grants made under this subchapter shall be used to develop, implement, operate, 
 
 &emsp;&emsp;(ii) child care, early childhood education and care, and intervention services;
 
-&emsp;&emsp;(iii) referral to services and supports to meet the additional needs of families with children with disabilities and parents who are individuals with disabilities;
+&emsp;&emsp;(iii) referral to services and supports to meet the additional needs of families withchildren with disabilities and parents who are individuals with disabilities;
 
 &emsp;&emsp;(iv) referral to job readiness services;
 

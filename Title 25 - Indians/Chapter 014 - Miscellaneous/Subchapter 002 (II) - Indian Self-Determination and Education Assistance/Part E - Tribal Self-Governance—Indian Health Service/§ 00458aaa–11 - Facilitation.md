@@ -22,9 +22,9 @@ Except as otherwise provided by law, the Secretary shall interpret all Federal l
 
 #### (c) Access to Federal property
 
-In connection with any compact or funding agreement executed pursuant to this part or an agreement negotiated under the Tribal Self-Governance Demonstration Project established under title III,<sup>1</sup> as in effect before August 18, 2000, upon the request of an Indian tribe, the Secretary—
+In connection with any compact or funding agreement executed pursuant to this part or an agreement negotiated under the Tribal Self-Governance Demonstration Project established under title III,<sup>1</sup> as in effect before August 18,2000, upon the request of an Indian tribe, the Secretary—
 
-&emsp;(1) shall permit an Indian tribe to use existing school buildings, hospitals, and other facilities and all equipment therein or appertaining thereto and other personal propertyowned by the Government within the Secretary's jurisdiction under such terms and conditions as may be agreed upon by the Secretary and the Indian tribe for their use and maintenance;
+&emsp;(1) shall permit an Indian tribe to use existing school buildings, hospitals, and other facilities and all equipment therein or appertaining thereto and other personal property owned by the Government within the Secretary's jurisdiction under such terms and conditions as may be agreed upon by the Secretary and the Indian tribe for their use and maintenance;
 
 &emsp;(2) may donate to an Indian tribe title to any personal or real property found to be excess to the needs of any agency of the Department, or the General Services Administration, except that—
 

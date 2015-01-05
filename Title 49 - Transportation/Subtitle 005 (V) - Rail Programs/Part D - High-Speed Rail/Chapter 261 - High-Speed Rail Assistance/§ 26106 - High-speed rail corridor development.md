@@ -168,7 +168,7 @@ Section 5302 of this title, referred to in subsec. (e)(2)(C)(i)(VII), was amende
 
 The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
-Section 22506 of this title, referred to in subsec. (e)(4), probably should be a reference to section 22706 of thistitle which requires the Secretary to prescribe procedures for submitting State rail plans for review. No section 22506 of this title has been enacted.
+Section 22506 of this title, referred to in subsec. (e)(4), probably should be a reference to section 22706 of this title which requires the Secretary to prescribe procedures for submitting State rail plans for review. No section 22506 of this title has been enacted.
 
 The date of enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 110–432, which was approved Oct. 16, 2008.
 

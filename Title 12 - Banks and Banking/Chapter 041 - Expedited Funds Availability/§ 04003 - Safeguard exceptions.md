@@ -14,7 +14,7 @@ Notwithstanding section 4002 of this title, in the case of any account establish
 
 &emsp;&emsp;(C) any funds deposited in such account by cashier's check, certified check, teller's check, depository check, or traveler's check; and
 
-&emsp;&emsp;(D) any funds deposited by a government check which is described in subparagraph\(A), (B), or (C) of section 4002(a)(2) of this title,
+&emsp;&emsp;(D) any funds deposited by a government check which is described in subparagraph (A), (B), or (C) of section 4002(a)(2) of this title,
 
 > &emsp;such cash or funds shall be available for withdrawal on the business day after the business day on which such cash or funds are deposited or, in the case of a wire transfer, on the business day after the business day on which such funds are received for deposit.
 

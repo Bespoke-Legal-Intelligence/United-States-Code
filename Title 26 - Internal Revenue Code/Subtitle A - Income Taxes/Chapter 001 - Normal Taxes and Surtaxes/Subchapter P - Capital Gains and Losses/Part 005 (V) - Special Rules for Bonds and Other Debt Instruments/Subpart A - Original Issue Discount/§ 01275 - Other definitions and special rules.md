@@ -54,7 +54,7 @@ For purposes of this subpart—
 
 #### (1) Sections 1274 and 483 not to apply
 
-&emsp;In the case of the obligor under any debt instrument given in consideration for the sale or exchange of property, sections 1274 and 483 shall not apply if such property is personal use property.
+&emsp;In the case of the obligor under any debt instrument given in consideration for the sale or exchange of property, sections 1274 and 483shall not apply if such property is personal use property.
 
 #### (2) Original issue discount deducted on cash basis in certain cases
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

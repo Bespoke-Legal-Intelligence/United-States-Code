@@ -10,5 +10,5 @@ Act Feb. 12, 1925, ch. 213, §7, 43 Stat. 884.
 
 #### Amendments
 
-<b>1951</b>—Act Oct. 31, 1951, substituted “United States district court for” for “United States court in and for”, and “by law for” for “on February 12, 1925, for”.
+<b>1951</b>—Act Oct. 31, 1951, substituted "United States district court for" for "United States court in and for", and "by law for" for "on February 12, 1925, for".
 

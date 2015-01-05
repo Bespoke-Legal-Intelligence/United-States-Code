@@ -2,7 +2,7 @@
 
 #### (a) Communication plan
 
-The Secretary of Health and Human Services (referred to in this section as the "Secretary"), acting through the Commissioner of Food and Drugs, shall review and modify, as necessary, the Food and Drug Administration's communication plan to inform and educate health care providers and patients on the benefits and risks of medical products, with particular focus on underrepresented subpopulations, including racial subgroups.
+The Secretary of Health and Human Services (referred to in this section as the "Secretary"),acting through the Commissioner of Food and Drugs, shall review and modify, as necessary, the Food and Drug Administration's communication plan to inform and educate health care providers and patients on the benefits and risks of medical products, with particular focus on underrepresented subpopulations, including racial subgroups.
 
 #### (b) Content
 
@@ -28,7 +28,7 @@ The communication plan described under subsection (a)—
 
 #### (2) Posting of communication plan on the office of minority health web site
 
-&emsp;The Secretary, acting through the Commissioner of Food and Drugs, shall publicly post the communication plan on the Internet Web site of the Office of Minority Health of the Food and Drug Administration, and providelinks to any other appropriate Internet Web site, and seek public comment on the communication plan.
+&emsp;The Secretary, acting through the Commissioner of Food and Drugs, shall publicly post the communication plan on the Internet Web site of the Office of Minority Health of the Food and Drug Administration, and provide links to any other appropriate Internet Web site, and seek public comment on the communication plan.
 
 (Pub. L. 112–144, title XI, §1138, July 9, 2012, 126 Stat. 1125.)
 

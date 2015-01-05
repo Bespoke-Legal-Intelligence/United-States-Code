@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) improving communications facilities and networks, including delivery of necessary information to rural areas;
 
-&emsp;&emsp;(C) improving capabilities for public health surveillance and reporting activities,taking into account the integrated system or systems of public health alert communications and surveillance networks under subsection (b) of this section; and
+&emsp;&emsp;(C) improving capabilities for public health surveillance and reporting activities, taking into account the integrated system or systems of public health alert communications and surveillance networks under subsection (b) of this section; and
 
 &emsp;&emsp;(D) improving laboratory facilities related to bioterrorism and other public health emergencies, including increasing the security of such facilities.
 
@@ -46,7 +46,7 @@
 
 #### (3) Standards
 
-&emsp;Not later than one year after June 12, 2002, the Secretary, in cooperation with health care providers and State and local public health officials, shall establish any additional technical and reporting standards (including standards for interoperability) for networks under paragraph (1) and update such standards as necessary.
+&emsp;Not later than one year after June 12, 2002, the Secretary, in cooperation with health careproviders and State and local public health officials, shall establish any additional technical and reporting standards (including standards for interoperability) for networks under paragraph (1) and update such standards as necessary.
 
 #### (c) Modernizing public health situational awareness and biosurveillance
 
@@ -96,7 +96,7 @@
 
 #### (6) Consultation with the National Biodefense Science Board
 
-&emsp;In carrying out this section and consistent with section 247d–7f of this title, the NationalBiodefense Science Board shall provide expert advice and guidance, including recommendations, regarding the measurable steps the Secretary should take to modernize and enhance biosurveillance activities pursuant to the efforts of the Department of Health and Human Services to ensure comprehensive, real-time, all-hazards biosurveillance capabilities. In complying with the preceding sentence, the National Biodefense Science Board shall—
+&emsp;In carrying out this section and consistent with section 247d–7f of this title, the National Biodefense Science Board shall provide expert advice and guidance, including recommendations, regarding the measurable steps the Secretary should take to modernize and enhance biosurveillance activities pursuant to the efforts of the Department of Health and Human Services to ensure comprehensive, real-time, all-hazards biosurveillance capabilities. In complying with the preceding sentence, the National Biodefense Science Board shall—
 
 &emsp;&emsp;(A) identify the steps necessary to achieve a national biosurveillance system for human health, with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;(E) evaluate ways to integrate the practice of telemedicine within the National Disaster Medical System; and
 
-&emsp;&emsp;(F) promote greater coordination among existing Federal interagency telemedicine and health information technology initiatives.
+&emsp;&emsp;(F) promote greater coordination among existing Federal interagency telemedicineand health information technology initiatives.
 
 #### (2) Report
 
@@ -226,7 +226,13 @@ Subsecs. (d) to (g). Pub. L. 109–417, §202(2), added subsecs. (d) to (g).
 
 #### Working Capital Fund
 
-Pub. L. 113–6, div. F, title V, §1507, Mar. 26, 2013, 127 Stat. 423, provided that: "To facilitate the implementation of the permanent Working Capital Fund ('WCF') authorized in Public Law 112–74, on or after October 1, 2013, unobligated balances of amounts appropriated for business services for fiscal year 2013 shall be transferred to the WCF: <i>Provided</i>, That on or after October 1, 2013, the CDC shall transfer other amounts available for business services to other CDC appropriations consistent with the benefit each appropriation received from the business services appropriation in fiscal year 2013: <i>Provided further</i>, That assets purchased with funds appropriated for or reimbursed to business services in this or any other Act may be transferred to the WCF and customers billed for depreciation of those assets: <i>Provided further</i>, That CDC shall, consistent with the authorities provided in 42 U.S.C. 231, ensure that the WCF is used only for administrative support services and not for programmatic activity funding: <i>Provided further</i>, That CDC shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 15 days prior to any transfer made under the authority provided in this section."
+Pub. L. 113–76, div. H, title II, Jan. 17, 2014, 128 Stat. 368, provided in part: "That to facilitate the implementation of the permanent Working Capital Fund ('WCF') authorized under this heading \[
+
+cdc-wide activities and program support\] in division F of Public Law 112–74 \[see note below\], on or after enactment of this Act \[Jan. 17, 2014\], unobligated balances of amounts appropriated for business services for fiscal year 2013 shall be transferred to the WCF: <i>Provided further</i>, That on or after enactment of this Act, CDC shall transfer amounts available for business services to other CDC appropriations consistent with the benefit each appropriation received from the business services appropriation in fiscal year 2013: <i>Provided further</i>, That once the WCF is implemented in fiscal year 2014, assets purchased in any prior fiscal year with funds appropriated for or reimbursed to business services may be transferred to the WCF and customers billed for depreciation of those assets: <i>Provided further</i>, That CDC shall, consistent with the authorities provided in 42 U.S.C. 231, ensure that the WCF is used only for administrative support services and not for programmatic activities: <i>Provided further</i>, That CDC shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 15 days prior to any transfers made with funds provided under this heading."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 113–6, div. F, title V, §1507, Mar. 26, 2013, 127 Stat. 423.
 
 Pub. L. 112–74, div. F, title II, Dec. 23, 2011, 125 Stat. 1070, provided in part: "That CDC \[Centers for Disease Control and Prevention\] may establish a Working Capital Fund, with the authorities equivalent to those provided in 42 U.S.C. 231, to improve the provision of supplies and service."
 

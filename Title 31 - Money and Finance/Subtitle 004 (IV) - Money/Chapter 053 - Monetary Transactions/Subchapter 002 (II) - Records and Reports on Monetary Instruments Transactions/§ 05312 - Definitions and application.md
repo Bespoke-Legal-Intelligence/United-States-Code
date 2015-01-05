@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(V) the United States Postal Service;
 
-&emsp;&emsp;(W) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this paragraph;
+&emsp;&emsp;(W) an agency of the United States Government or of a State or local governmentcarrying out a duty or power of a business described in this paragraph;
 
 &emsp;&emsp;(X) a casino, gambling casino, or gaming establishment with an annual gaming revenue of more than $1,000,000 which—
 
@@ -144,7 +144,7 @@ In subsection (a)(3)(B), the words "in addition", and "and such types of" are om
 
 In subsection (a)(4), the words "in addition to its meaning under section 1 of title 1" are substituted for "natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities" for consistency because 1:1 is applicable to all laws unless otherwise provided. The words "a trustee, a representative of an estate" are substituted for "trusts, estates", and the word "entity" is substituted for "department or agency", for consistency. The words "either for the purpose of this chapter generally or any particular requirement thereunder" are omitted as surplus.
 
-In subsection (a)(5), the words "used in a geographic sense" are omitted because of the restatement. The words "either for the purposes of this chapter generally or any particular requirement thereunder" are omitted as surplus. The words "territory or" are added for consistency.
+In subsection (a)(5), the words "used in a geographic sense" are omitted because of the restatement. Thewords "either for the purposes of this chapter generally or any particular requirement thereunder" are omitted as surplus. The words "territory or" are added for consistency.
 
 Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary words and for consistency.
 
@@ -186,7 +186,7 @@ Subsec. (a)(5). Pub. L. 100–690, §6185(g)(1), inserted a comma after "Puerto 
 
 <b>1986</b>—Subsec. (a)(2)(T). Pub. L. 99–570, §1362(a), which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following ", including the United States Postal Service", was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
 
-Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted "the Virgin Islands, Guam, the Northern Mariana Islands,American Samoa, the Trust Territory of the Pacific Islands," after "Puerto Rico".
+Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted "the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands," after "Puerto Rico".
 
 #### Effective Date of 2004 Amendment
 

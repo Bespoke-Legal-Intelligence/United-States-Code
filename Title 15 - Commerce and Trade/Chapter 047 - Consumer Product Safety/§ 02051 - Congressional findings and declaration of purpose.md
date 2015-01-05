@@ -4,7 +4,7 @@
 
 &emsp;(1) an unacceptable number of consumer products which present unreasonable risks of injury are distributed in commerce;
 
-&emsp;(2) complexities of consumer products and the diverse nature and abilities of consumers using them frequently result in an inability ofusers to anticipate risks and to safeguard themselves adequately;
+&emsp;(2) complexities of consumer products and the diverse nature and abilities of consumers using them frequently result in an inability of users to anticipate risks and to safeguard themselves adequately;
 
 &emsp;(3) the public should be protected against unreasonable risks of injury associated with consumer products;
 
@@ -60,7 +60,7 @@ Pub. L. 101–608, §1, Nov. 16, 1990, 104 Stat. 3110, provided that: "This Act 
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–35, title XII, §1201(a), Aug. 13, 1981, 95 Stat. 703, provided that: "This subtitle \[subtitle A (§§1201–1215) of title XII of Pub. L. 97–35, enacting sections 1204, 1276, 2077, and 2083 of this title, amending sections 1193, 1201, 1262, 1263, 1274, 2052, 2054 to 2058, 2060, 2061, 2064, 2069, 2072, 2073, 2076, 2080, and 2081 of this title, repealing sections 1204, 1475, 2059, 2062, and 2077 of this title, and enacting provisions set out as a note under section 2052 of this title\] may be cited as the 'Consumer Product Safety Amendments of 1981'."
+Pub. L. 97–35, title XII, §1201(a), Aug. 13, 1981, 95 Stat. 703, provided that: "This subtitle \[subtitle A (§§1201–1215) of title XII of Pub. L. 97–35, enacting sections 1204, 1276, 2077, and 2083 of this title, amendingsections 1193, 1201, 1262, 1263, 1274, 2052, 2054 to 2058, 2060, 2061, 2064, 2069, 2072, 2073, 2076, 2080, and 2081 of this title, repealing sections 1204, 1475, 2059, 2062, and 2077 of this title, and enacting provisions set out as a note under section 2052 of this title\] may be cited as the 'Consumer Product Safety Amendments of 1981'."
 
 #### Short Title of 1978 Amendment
 

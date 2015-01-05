@@ -142,7 +142,7 @@ Act Aug. 10, 1956, ch. 1041, §51, 70A Stat. 640, provided that: "Chapter 47 of 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XI, §1101, Feb. 10, 1996, 110 Stat. 461, provided that: "This title \[enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the 'Military Justice Amendments of 1995'."
+Pub. L. 104–106, div. A, title XI, §1101, Feb. 10, 1996, 110 Stat. 461, provided that: "This title \[enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the 'Military Justice Amendments of 1995'."
 
 #### Short Title of 1986 Amendment
 
@@ -158,7 +158,7 @@ Pub. L. 97–81, §1(a), Nov. 20, 1981, 95 Stat. 1085, provided that: "This Act 
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–632, §1, Oct. 24, 1968, 82 Stat. 1335, provided: "That this Act \[amending this section and sections 806,816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the 'Military Justice Act of 1968'."
+Pub. L. 90–632, §1, Oct. 24, 1968, 82 Stat. 1335, provided: "That this Act \[amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the 'Military Justice Act of 1968'."
 
 #### Redesignation of Navy Law Specialists as Judge Advocates
 
@@ -288,7 +288,7 @@ Pub. L. 112–239, div. A, title X, §1028, Jan. 2, 2013, 126 Stat. 1914, relate
 
 #### Rights Unaffected
 
-Pub. L. 112–239, div. A, title X, §1029, Jan. 2, 2013, 126 Stat. 1917, provided that: "Nothing in the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note) or the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81 \[see Tables for classification\]) shall be construed to deny the availability of the writ of habeas corpus or to deny any Constitutional rights in a court ordained or established by or under Article III of the Constitution to any person inside the United States who would be entitled to the availability of such writ or to such rights in the absence of such laws."
+Pub. L. 112–239, div. A, title X, §1029, Jan. 2, 2013, 126 Stat. 1917, provided that: "Nothing in the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note) or the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81 \[see Tables for classification\]) shall be construed to deny the availability of the writ of habeas corpus or to deny any Constitutional rights in a court ordained or established by or under Article III of the Constitution to any personinside the United States who would be entitled to the availability of such writ or to such rights in the absence of such laws."
 
 #### Notification of Transfer of a Detainee Held at United States Naval Station, Guantanamo Bay, Cuba
 
@@ -318,7 +318,7 @@ Construction With Other Requirements.—Nothing in this section shall be constru
 
 &emsp;"(2) Section 8120 of the Department of Defense Appropriations Act, 2012 \[div. A of Pub. L. 112–74, 125 Stat. 833\]."
 
-\[Memorandum of President of the United States, Jan. 27, 2012, 77 F.R. 11371, delegated to the Secretary of State, in consultation with the Secretary of Defense, the function to provide to Congress the informationspecified in section 308(a) of Pub. L. 112–87, set out above.\]
+\[Memorandum of President of the United States, Jan. 27, 2012, 77 F.R. 11371, delegated to the Secretary of State, in consultation with the Secretary of Defense, the function to provide to Congress the information specified in section 308(a) of Pub. L. 112–87, set out above.\]
 
 #### Detention Authority and Procedures, Transfer Certifications and Prosecution Consultation Requirement
 
@@ -636,7 +636,7 @@ Pub. L. 111–84, div. A, title X, §1080, Oct. 28, 2009, 123 Stat. 2479, as ame
 
 "(a)
 
-Videotaping or Other Electronic Recording Required.—In accordance with the Army Field Manualon Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded.
+Videotaping or Other Electronic Recording Required.—In accordance with the Army Field Manual on Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded.
 
 "(b)
 
@@ -810,7 +810,7 @@ Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, 
 
 In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
 
-&emsp;&emsp;"(A) the procedures of the Combatant Status Review Tribunals and the Administrative Review Boards established by direction of the Secretary of Defense that are in operation at Guantanamo Bay, Cuba, for determining the status of the detainees held at Guantanamo Bay or to provide an annual review to determine the need to continue to detain an alien who is a detainee; and
+&emsp;&emsp;"(A) the procedures of the Combatant Status Review Tribunals and the Administrative Review Boards established by direction of the Secretary ofDefense that are in operation at Guantanamo Bay, Cuba, for determining the status of the detainees held at Guantanamo Bay or to provide an annual review to determine the need to continue to detain an alien who is a detainee; and
 
 &emsp;&emsp;"(B) the procedures in operation in Afghanistan and Iraq for a determination of the status of aliens detained in the custody or under the physical control of the Department of Defense in those countries.
 
@@ -1072,7 +1072,7 @@ Termination on release from custody.—The jurisdiction of the United States Cou
 
 &emsp;"(4)
 
-Respondent.—The Secretary of Defense shall be the named respondent in any appeal to the UnitedStates Court of Appeals for the District of Columbia Circuit under this subsection.
+Respondent.—The Secretary of Defense shall be the named respondent in any appeal to the United States Court of Appeals for the District of Columbia Circuit under this subsection.
 
 "(f)
 
@@ -1154,7 +1154,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;"(6) the Constitution, laws, and treaties of the United States and the applicable guidance and regulations of the United States Government prohibit the torture or cruel, inhuman, or degrading treatment of foreign prisoners held in custody by the United States;
 
-&emsp;"(7) the alleged crimes of a handful of individuals should not detract from the commendable sacrifices of over 300,000 members of the Armed Forces who have served, or who are serving, in Operation Iraqi Freedom; and
+&emsp;"(7) the alleged crimes of a handful of individuals should not detract from the commendable sacrifices of over 300,000 members of the Armed Forces whohave served, or who are serving, in Operation Iraqi Freedom; and
 
 &emsp;"(8) no detainee shall be subject to torture or cruel, inhuman, or degrading treatment or punishment that is prohibited by the Constitution, laws, or treaties of United States.
 
@@ -1180,7 +1180,7 @@ Detainees.—For purposes of this section, the term 'detainee' means a person in
 
 "(a)
 
-Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that membersof the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
+Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
 
 "(b)
 
@@ -1322,7 +1322,7 @@ Section 1. <i>Definitions</i>. As used in this order:
 
 Sec. 2. <i>Findings</i>.
 
-(a) Over the past 7 years, approximately 800 individuals whom the Department of Defense has ever determined to be, or treated as, enemy combatants have been detained at Guantanamo. The Federal Government has moved more than 500 such detainees from Guantanamo, either by returning them to their home country or by releasing or transferring them to a third country. The Department of Defense has determined that a number of the individuals currently detained at Guantanamo are eligible for such transfer or release.
+(a) Over the past 7 years, approximately 800 individuals whom the Department of Defense has ever determined to be, or treated as, enemy combatants have been detained at Guantanamo. The Federal Government has moved more than 500 such detainees from Guantanamo, either by returning them to their homecountry or by releasing or transferring them to a third country. The Department of Defense has determined that a number of the individuals currently detained at Guantanamo are eligible for such transfer or release.
 
 (b) Some individuals currently detained at Guantanamo have been there for more than 6 years, and most have been detained for at least 4 years. In view of the significant concerns raised by these detentions, both within the United States and internationally, prompt and appropriate disposition of the individuals currently detained at Guantanamo and closure of the facilities in which they are detained would further the national security and foreign policy interests of the United States and the interests of justice. Merely closing the facilities without promptly determining the appropriate disposition of the individuals detained would not adequately serve those interests. To the extent practicable, the prompt and appropriate disposition of the individuals detained at Guantanamo should precede the closure of the detention facilities at Guantanamo.
 
@@ -1374,7 +1374,7 @@ Sec. 5. <i>Diplomatic Efforts</i>. The Secretary of State shall expeditiously pu
 
 Sec. 6. <i>Humane Standards of Confinement</i>. No individual currently detained at Guantanamo shall be held in the custody or under the effective control of any officer, employee, or other agent of the United States Government, or at a facility owned, operated, or controlled by a department or agency of the United States, except in conformity with all applicable laws governing the conditions of such confinement, including Common Article 3 of the Geneva Conventions. The Secretary of Defense shall immediately undertake a review of the conditions of detention at Guantanamo to ensure full compliance with this directive. Such review shall be completed within 30 days and any necessary corrections shall be implemented immediately thereafter.
 
-Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section 4 of this order, no charges are sworn, or referred to a military commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissions to which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
+Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section 4 of this order, no charges are sworn, or referred to amilitary commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissions to which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
 
 Sec. 8. <i>General Provisions</i>.
 
@@ -1392,7 +1392,7 @@ Ex. Ord. No. 13567, Mar. 7, 2011, 76 F.R. 13277, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Authorization for Use of Military Force of September 2001 (AUMF), Public Law 107–40, and in order to ensure that military detention of individuals now held at the U.S. Naval Station, Guantánamo Bay, Cuba (Guantánamo), who were subject to the interagency review under section 4 of Executive Order 13492 of January 22, 2009, continues to be carefully evaluated and justified, consistent with the national security and foreign policy interests of the United States and the interests of justice, I hereby order as follows:
 
-Section 1. <i>Scope and Purpose</i>. (a) The periodic review described in section 3 of this order applies only to those detainees held at Guantánamo on the date of this order, whom the interagency review established by Executive Order 13492 has (i) designated for continued lawof war detention; or (ii) referred for prosecution, except for those detainees against whom charges are pending or a judgment of conviction has been entered.
+Section 1. <i>Scope and Purpose</i>. (a) The periodic review described in section 3 of this order applies only to those detainees held at Guantánamo on the date of this order, whom the interagency review established by Executive Order 13492 has (i) designated for continued law of war detention; or (ii) referred for prosecution, except for those detainees against whom charges are pending or a judgment of conviction has been entered.
 
 (b) This order is intended solely to establish, as a discretionary matter, a process to review on a periodic basis the executive branch's continued, discretionary exercise of existing detention authority in individual cases. It does not create any additional or separate source of detention authority, and it does not affect the scope of detention authority under existing law. Detainees at Guantánamo have the constitutional privilege of the writ of habeas corpus, and nothing in this order is intended to affect the jurisdiction of Federal courts to determine the legality of their detention.
 
@@ -1426,7 +1426,7 @@ Sec. 3. <i>Periodic Review</i>. The Secretary of Defense shall coordinate a proc
 
 (d) <i>Review of PRB Determinations</i>. The Review Committee (Committee), as defined in section 9(d) of this order, shall conduct a review if (i) a member of the Committee seeks review of a PRB determination within 30 days of that determination; or (ii) consensus within the PRB cannot be reached.
 
-Sec. 4. <i>Effect of Determination to Transfer</i>. (a) If a final determination is made that a detainee does not meet the standard in section 2 of this order, the Secretaries of State and Defense shall be responsible for ensuring that vigorous efforts are undertaken to identify a suitable transfer location for any such detainee, outside of the United States, consistent with the national security and foreign policy interests of the United States and the commitment set forth in section 2242(a) of theForeign Affairs Reform and Restructuring Act of 1998 (Public Law 105–277).
+Sec. 4. <i>Effect of Determination to Transfer</i>. (a) If a final determination is made that a detainee does not meet the standard in section 2 of this order, the Secretaries of State and Defense shall be responsible for ensuring that vigorous efforts are undertaken to identify a suitable transfer location for any such detainee, outside of the United States, consistent with the national security and foreign policy interests of the United States and the commitment set forth in section 2242(a) of the Foreign Affairs Reform and Restructuring Act of 1998 (Public Law 105–277).
 
 (b) The Secretary of State, in consultation with the Secretary of Defense, shall be responsible for obtaining appropriate security and humane treatment assurances regarding any detainee to be transferred to another country, and for determining, after consultation with members of the Committee, that it is appropriate to proceed with the transfer.
 

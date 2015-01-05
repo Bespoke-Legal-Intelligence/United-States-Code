@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) citizens of the United States must own not less than 75 percent of the interest in the entity or, in the case of a nonprofit entity, exercise control in the entity that is determined by the Secretary to be the equivalent of such ownership, and
 
-&emsp;&emsp;&emsp;(iii) nationals of the United States and citizens of the Northern Mariana Islands shall be treated as citizens of the United States in meeting the ownership and control requirements referred to in clause (ii).
+&emsp;&emsp;&emsp;(iii) nationals of the United States and citizens of the Northern Mariana Islandsshall be treated as citizens of the United States in meeting the ownership and control requirements referred to in clause (ii).
 
 &emsp;(2) The term "Secretary" means the Secretary of Commerce.
 
@@ -86,9 +86,9 @@ As used in this section—
 
 &emsp;(C) The recipient of the grant must submit to the Secretary periodic project status reports.
 
-(5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept, as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
+(5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept,as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
 
-(B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission to use real or personal property owned by others\(for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission to use real or personal property owned by others (for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be conclusive.
 

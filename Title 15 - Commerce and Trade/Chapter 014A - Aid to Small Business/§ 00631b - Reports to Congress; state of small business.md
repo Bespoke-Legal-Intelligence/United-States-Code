@@ -38,7 +38,7 @@ The information and data required to be reported pursuant to subsection (a) of t
 
 &emsp;(3) <sup>2</sup> small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, and small business concerns owned and controlled by service-disabled veterans, as defined in such section 632(q) of this title.
 
-(Pub. L. 96–302, title III, §303, July 2, 1980, 94 Stat. 848; Pub. L. 100–533, title V, §503, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 100–590, title I, §124, Nov. 3, 1988, 102 Stat. 3000; Pub. L. 101–574, title III, §305, Nov. 15, 1990, 104 Stat. 2829; Pub. L. 105–135, title VI, §604(c), title VII, §705, Dec. 2, 1997, 111 Stat. 2633, 2637; Pub. L. 106–50, title VI, §602, Aug. 17, 1999, 113 Stat. 248.)
+(Pub. L. 96–302, title III, §303, July 2, 1980, 94 Stat. 848; Pub. L. 100–533, title V, §503, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 100–590, title I, §124,Nov. 3, 1988, 102 Stat. 3000; Pub. L. 101–574, title III, §305, Nov. 15, 1990, 104 Stat. 2829; Pub. L. 105–135, title VI, §604(c), title VII, §705, Dec. 2, 1997, 111 Stat. 2633, 2637; Pub. L. 106–50, title VI, §602, Aug. 17, 1999, 113 Stat. 248.)
 
 #### References in Text
 

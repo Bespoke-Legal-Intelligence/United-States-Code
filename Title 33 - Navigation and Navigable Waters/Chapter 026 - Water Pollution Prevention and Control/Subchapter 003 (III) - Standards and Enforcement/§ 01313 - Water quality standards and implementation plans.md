@@ -46,7 +46,7 @@
 
 (B) Each State shall identify those waters or parts thereof within its boundaries for which controls on thermal discharges under section 1311 of this title are not stringent enough to assure protection and propagation of a balanced indigenous population of shellfish, fish, and wildlife.
 
-(C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection, and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 1314(a)(2) of this title as suitable for such calculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality.
+(C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection, and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 1314(a)(2) of this title as suitable for suchcalculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality.
 
 (D) Each State shall estimate for the waters identified in paragraph (1)(B) of this subsection the total maximum daily thermal load required to assure protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife. Such estimates shall take into account the normal water temperatures, flow rates, seasonal variations, existing sources of heat input, and the dissipative capacity of the identified waters or parts thereof. Such estimates shall include a calculation of the maximum heat input that can be made into each such part and shall include a margin of safety which takes into account any lack of knowledge concerning the development of thermal water quality criteria for such protection and propagation in the identified waters or parts thereof.
 
@@ -118,7 +118,7 @@ For the purposes of this chapter the term "water quality standards" includes the
 
 #### (A) In general
 
-&emsp;&emsp;If a State fails to adopt water quality criteria and standards in accordance with paragraph (1)(A) that are as protective of human health as the criteria for pathogens and pathogen indicators for coastal recreation waters published by the Administrator, the Administrator shall promptly propose regulations for the State setting forth revised ornew water quality standards for pathogens and pathogen indicators described in paragraph (1)(A) for coastal recreation waters of the State.
+&emsp;&emsp;If a State fails to adopt water quality criteria and standards in accordance with paragraph (1)(A) that are as protective of human health as the criteria for pathogens and pathogen indicators for coastal recreation waters published by the Administrator, the Administrator shall promptly propose regulations for the State setting forth revised or new water quality standards for pathogens and pathogen indicators described in paragraph (1)(A) for coastal recreation waters of the State.
 
 #### (B) Exception
 

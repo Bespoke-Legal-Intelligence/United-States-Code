@@ -52,7 +52,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 #### (1) In general
 
-&emsp;The State educational agency shall, in accordance with the requirements of this part and from amounts made available to it under section 11435 of this title, make competitive subgrants to local educational agencies that submit applications under subsection (b) of this section. Such subgrants shall be awarded on the basis of the need of such agencies for assistance under this part and the quality of the applications submitted.
+&emsp;The State educational agency shall, in accordance with the requirements of this part and from amounts made available to it under section 11435 of this title, make competitive subgrants to local educational agencies thatsubmit applications under subsection (b) of this section. Such subgrants shall be awarded on the basis of the need of such agencies for assistance under this part and the quality of the applications submitted.
 
 #### (2) Need
 
@@ -136,7 +136,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2
 
 #### Prior Provisions
 
-A prior section 11433, Pub. L. 100–77, title VII, §723, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3962, related to local educational agency grantsfor education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
+A prior section 11433, Pub. L. 100–77, title VII, §723, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3962, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11433, Pub. L. 100–77, title VII, §723, July 22, 1987, 101 Stat. 527; Pub. L. 100–628, title VII, §702(b), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(c), Nov. 29, 1990, 104 Stat. 4739, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
 

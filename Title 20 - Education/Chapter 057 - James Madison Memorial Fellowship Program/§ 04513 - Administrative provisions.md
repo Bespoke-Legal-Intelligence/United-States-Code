@@ -6,11 +6,11 @@ The Foundation is authorized—
 
 &emsp;(1) to appoint and fix the compensation of such personnel as may be necessary to carry out this chapter,<sup>1</sup> without regard to the provisions of title 5 governing appointments in the competitive service, but at General Schedule pay rates not in excess of the maximum rate for grade GS–15 of the General Schedule under section 5332 of that title;
 
-&emsp;(2) to procure temporary and intermittent services of such experts and consultants as arenecessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS–18 in section 5332 of such title;
+&emsp;(2) to procure temporary and intermittent services of such experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS–18 in section 5332 of such title;
 
 &emsp;(3) to prescribe such regulations as it deems necessary governing the manner in which its functions shall be carried out;
 
-&emsp;(4) to receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used for the purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
+&emsp;(4) to receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used forthe purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
 
 &emsp;(5) to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 

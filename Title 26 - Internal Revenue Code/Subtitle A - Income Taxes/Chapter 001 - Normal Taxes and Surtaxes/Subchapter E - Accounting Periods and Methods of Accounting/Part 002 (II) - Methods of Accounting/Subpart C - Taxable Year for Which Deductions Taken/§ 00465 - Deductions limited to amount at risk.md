@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, in the case of an activity of holding real property, a taxpayer shall be considered at risk with respect to the taxpayer's share of any qualified nonrecourse financing which is secured by real property used in such activity.
+&emsp;&emsp;Notwithstanding any other provision of this subsection, in the case of an activity ofholding real property, a taxpayer shall be considered at risk with respect to the taxpayer's share of any qualified nonrecourse financing which is secured by real property used in such activity.
 
 #### (B) Qualified nonrecourse financing
 
@@ -182,7 +182,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of taxable years beginning after December 31, 1978, this section also applies to each activity—
+&emsp;&emsp;This section also applies to each activity—
 
 &emsp;&emsp;&emsp;(i) engaged in by the taxpayer in carrying on a trade or business or for the production of income, and
 
@@ -426,9 +426,11 @@ For purposes of this section, the term "loss" means the excess of the deductions
 
 &emsp;&emsp;(B) the amounts previously included in gross income with respect to such activity under this subsection.
 
-(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507.)
+(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(3)(A). Pub. L. 113–295 substituted "This" for "In the case of taxable years beginning after December 31, 1978, this".
 
 <b>2004</b>—Subsec. (c)(7)(B). Pub. L. 108–357 inserted "or" at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: "a foreign personal holding company (as defined in section 552(a)), or".
 
@@ -440,7 +442,7 @@ Subsec. (c)(1)(E). Pub. L. 101–508, §11815(b)(3), substituted "section 613(e)
 
 Subsec. (b)(6). Pub. L. 99–514, §503(b), added par. (6).
 
-Subsec. (c)(3)(D), (E). Pub. L. 99–514, §503(a), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: "In the case of activities described in subparagraph (A), the holding of real property (other than mineral property) shall be treated as a separate activity, and subsection (a) shall not apply to losses from such activity. For purposes of the preceding sentence, personal property and services which are incidental to making real property available as living accommodations shall be treated as part of the activity of holding such real property."
+Subsec. (c)(3)(D), (E). Pub. L. 99–514, §503(a), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: "In the case of activities described in subparagraph (A), the holding of real property (other than mineral property) shall be treated as a separate activity, and subsection (a) shall not apply to losses from such activity. For purposes of the preceding sentence, personal property and services whichare incidental to making real property available as living accommodations shall be treated as part of the activity of holding such real property."
 
 Subsec. (c)(7)(D)(v)(II). Pub. L. 99–514, §1011(b)(1), substituted "section 806(b)(3)" for "section 806(c)(3)".
 
@@ -488,6 +490,10 @@ Subsec. (d). Pub. L. 95–600, §701(k)(2), substituted "(determined without reg
 
 Subsec. (e). Pub. L. 95–600, §203, added subsec. (e).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
@@ -516,7 +522,7 @@ Special rule for losses of s corporation, partnership, or pass-thru entity.—In
 
 Special rule for athletic stadium.—The amendments made by this section shall not apply to any losses incurred by a taxpayer with respect to the holding of a multi-use athletic stadium in Pittsburgh, Pennsylvania, which the taxpayer acquired in a sale for which a letter of understanding was entered into before April 16, 1986."
 
-Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1011(c)(1) of Pub. L. 99–514, set out as a note under section 453B of this title.
+Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 1011(c)(1) of Pub. L. 99–514, set out as a note under section 453B of this title.
 
 #### Effective Date of 1984 Amendment
 

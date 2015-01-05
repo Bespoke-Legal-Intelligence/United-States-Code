@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (a), was in the original a reference to "th
 
 <b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" wherever appearing in text.
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–137 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Upon making the determination referred to in subsection (a) of this section, and at least thirty daysprior to implementing the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, the Director shall make a report to the Congress and such report shall—
+<b>1989</b>—Subsec. (b). Pub. L. 101–137 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Upon making the determination referred to in subsection (a) of this section, and at least thirty days prior to implementing the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, the Director shall make a report to the Congress and such report shall—
 
 &emsp;"(1) state the reasons for such determination,
 

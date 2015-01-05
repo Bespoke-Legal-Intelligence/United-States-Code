@@ -60,7 +60,7 @@ Types of Assistance.—The Secretary may use amounts made available under this s
 
 &emsp;(2) to provide assistance to an underserved airport to obtain service to and from the underserved airport; and
 
-&emsp;(3) to provide assistance to an underserved airport to implement such other measures as the Secretary, in consultation with such airport, considers appropriate to improve air service both in terms of the cost of such service to consumers and the availability of suchservice, including improving air service through marketing and promotion of air service and enhanced utilization of airport facilities.
+&emsp;(3) to provide assistance to an underserved airport to implement such other measures as the Secretary, in consultation with such airport, considers appropriate to improve air service both in terms of the cost of such service to consumers and the availability of such service, including improving air service through marketing and promotion of air service and enhanced utilization of airport facilities.
 
 (e)
 

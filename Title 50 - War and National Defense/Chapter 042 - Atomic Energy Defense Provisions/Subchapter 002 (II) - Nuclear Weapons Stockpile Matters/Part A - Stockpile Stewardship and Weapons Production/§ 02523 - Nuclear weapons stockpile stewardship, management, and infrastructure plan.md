@@ -2,7 +2,7 @@
 
 #### (a) Plan requirement
 
-The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile surveillance, program direction,infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
+The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile surveillance, program direction, infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
 
 #### (b) Submissions to Congress
 
@@ -22,7 +22,7 @@ Each summary of the plan submitted under subsection (b)(1) shall include, at a m
 
 &emsp;(3) A summary of the methods and information used to determine that the nuclear weapons stockpile is safe and reliable, as well as the relationship of science-based tools to the collection and interpretation of such information.
 
-&emsp;(4) A summary of the status of the nuclear security enterprise, including programs and plans for infrastructure modernization and retention of human capital, as well as associated budgets and schedules.
+&emsp;(4) A summary of the status of the nuclear security enterprise, including programs andplans for infrastructure modernization and retention of human capital, as well as associated budgets and schedules.
 
 &emsp;(5) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
 
@@ -86,13 +86,13 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;&emsp;(i) the number of scientists, engineers, and technicians, by discipline, required to maintain such competencies; and
 
-&emsp;&emsp;&emsp;(ii) a description of any shortage of such individuals that exists at the time of the assessment compared with any shortage expected to exist during the period covered by the future-years nuclear security program.
+&emsp;&emsp;&emsp;(ii) a description of any shortage of such individuals that exists at the time of the assessment compared with any shortage expected to exist during the period coveredby the future-years nuclear security program.
 
 &emsp;(4) With respect to the nuclear security infrastructure—
 
 &emsp;&emsp;(A) a description of the modernization and refurbishment measures the Administrator determines necessary to meet the requirements prescribed in—
 
-&emsp;&emsp;&emsp;(i) the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 404a of this title if such strategy has been submitted as of the date of the plan;
+&emsp;&emsp;&emsp;(i) the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 3043 of this title if such strategy has been submitted as of the date of the plan;
 
 &emsp;&emsp;&emsp;(ii) the most recent quadrennial defense review if such strategy has not been submitted as of the date of the plan; and
 
@@ -158,7 +158,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 In this section:
 
-&emsp;(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+&emsp;(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal yearthat is submitted to Congress by the President under section 1105(a) of title 31.
 
 &emsp;(2) The term "future-years nuclear security program" means the program required by section 2453 of this title.
 
@@ -180,7 +180,7 @@ In this section:
 
 &emsp;&emsp;(E) nuclear incident response.
 
-(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072.)
+(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072; Pub. L. 113–291, div. C, title XXXI, §3142(c), Dec. 19, 2014, 128 Stat. 3900.)
 
 #### Codification
 
@@ -193,6 +193,8 @@ Provisions similar to those in this section were contained in the following prio
 Pub. L. 104–106, div. C, title XXXI, §3153, Feb. 10, 1996, 110 Stat. 624; repealed Pub. L. 105–85, div. C, title XXXI, §3152(c), Nov. 18, 1997, 111 Stat. 2042.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(4)(A)(i). Pub. L. 113–291 substituted "section 3043 of this title" for "section 404a of this title".
 
 <b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, section related to the plan for stewardship, management, and certification of warheads in the nuclear weapons stockpile.
 
@@ -230,7 +232,7 @@ Elements.—The report required under paragraph (1) shall include the following:
 
 &emsp;&emsp;"(C) A description of the plan to maintain delivery platforms for nuclear weapons.
 
-&emsp;&emsp;"(D) An estimate of budget requirements, including the costs associated with the plans outlinedunder subparagraphs (A) through (C), over a 10-year period.
+&emsp;&emsp;"(D) An estimate of budget requirements, including the costs associated with the plans outlined under subparagraphs (A) through (C), over a 10-year period.
 
 "(b)
 

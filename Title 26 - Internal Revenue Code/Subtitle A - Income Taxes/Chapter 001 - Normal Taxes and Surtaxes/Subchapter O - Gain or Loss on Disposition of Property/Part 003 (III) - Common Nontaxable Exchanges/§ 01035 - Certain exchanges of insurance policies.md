@@ -38,7 +38,7 @@ To the extent provided in regulations, subsection (a) shall not apply to any exc
 
 &emsp;&emsp;<b>(2) For rules relating to the basis of property acquired in an exchange described in subsection (a), see subsection (d) of section 1031.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 309; Pub. L. 98–369, div. A, title II, §§211(b)(15), 224(a), July 18, 1984, 98 Stat. 756, 776; Pub. L. 99–514, title XVIII, §1828, Oct. 22, 1986, 100 Stat. 2851; Pub. L. 105–34,title XI, §1131(b)(1), Aug. 5, 1997, 111 Stat. 979; Pub. L. 109–280, title VIII, §844(b), Aug. 17, 2006, 120 Stat. 1010.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 309; Pub. L. 98–369, div. A, title II, §§211(b)(15), 224(a), July 18, 1984, 98 Stat. 756, 776; Pub. L. 99–514, title XVIII, §1828, Oct. 22, 1986, 100 Stat. 2851; Pub. L. 105–34, title XI, §1131(b)(1), Aug. 5, 1997, 111 Stat. 979; Pub. L. 109–280, title VIII, §844(b), Aug. 17, 2006, 120 Stat. 1010.)
 
 #### Codification
 

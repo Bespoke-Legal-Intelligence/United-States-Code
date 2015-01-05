@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;(7) Implementation of the Additional Protocol in the United States in a manner consistent with United States obligations under the Nuclear Non-Proliferation Treaty may encourage other parties to the Nuclear Non-Proliferation Treaty, especially non-nuclear-weapon State Parties, to conclude Additional Protocols and thereby strengthen the Nuclear Non-Proliferation Treaty safeguards system and help reduce the threat of nuclear proliferation, which is of direct and substantial benefit to the United States.
 
-&emsp;(8) Implementation of the Additional Protocol by the United States is not required and iscompletely voluntary given its status as a nuclear-weapon State Party, but the United States has acceded to the Additional Protocol to demonstrate its commitment to the nuclear nonproliferation regime and to make United States civil nuclear activities available to the same IAEA inspections as are applied in the case of non-nuclear-weapon State Parties.
+&emsp;(8) Implementation of the Additional Protocol by the United States is not required and is completely voluntary given its status as a nuclear-weapon State Party, but the United States has acceded to the Additional Protocol to demonstrate its commitment to the nuclear nonproliferation regime and to make United States civil nuclear activities available to the same IAEA inspections as are applied in the case of non-nuclear-weapon State Parties.
 
 &emsp;(9) In accordance with the national security exclusion contained in Article 1.b of its Additional Protocol, the United States will not allow any inspection activities, nor make any declaration of any information with respect to, locations, information, and activities of direct national security significance to the United States.
 
@@ -26,7 +26,7 @@ Congress makes the following findings:
 
 #### Short Title
 
-Pub. L. 109–401, title II, §201, Dec. 18, 2006, 120 Stat. 2741, provided that: "This title \[enacting this chapter\] may be cited as the 'United States Additional Protocol Implementation Act'."
+Pub. L. 109–401, title II, §201, Dec. 18, 2006, 120 Stat. 2741, provided that: "This title \[enacting this chapter\]may be cited as the 'United States Additional Protocol Implementation Act'."
 
 #### Ex. Ord. No. 13458. Implementation of the Protocol Additional to the Agreement Between the United States and the International Atomic Energy Agency for the Application of Safeguards in the United States of America
 

@@ -2,7 +2,7 @@
 
 (a) Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease to the Congress subject to section 4103 of this title.
 
-(b) Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
+(b) Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
 (Pub. L. 104–197, title I, §104, Sept. 16, 1996, 110 Stat. 2404.)
 
@@ -12,7 +12,7 @@ Section 4103 of this title, referred to in subsec. (a), was in the original a re
 
 #### Codification
 
-Section was enacted as part of the appropriation act cited as the credit to this section, and not as part oftitle II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
+Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
 #### Prior Provisions
 

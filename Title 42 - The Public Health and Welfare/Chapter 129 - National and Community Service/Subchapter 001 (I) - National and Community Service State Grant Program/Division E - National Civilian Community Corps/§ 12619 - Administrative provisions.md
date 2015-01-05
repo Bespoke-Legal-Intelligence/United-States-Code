@@ -72,7 +72,7 @@ The Chief Executive Officer shall—
 
 #### (E) Training
 
-&emsp;&emsp;The Director shall provide to other members of the permanent cadre appropriatetraining in youth development techniques, including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
+&emsp;&emsp;The Director shall provide to other members of the permanent cadre appropriate training in youth development techniques, including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
 
 #### (3) Inapplicability of certain civil service laws
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 104(b), (e)(2)(E) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.103–82, set out as a note under section 1701 of Title 16, Conservation.
+Amendment by section 104(b), (e)(2)(E) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
 Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
 

@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§341, 371(7), (8) (Mar. 3, 1911, ch. 231, §§233, 256, 36 Stat. 1156, 1160; Oct. 6, 1917, ch. 97, §2, 40 Stat. 395; June 10, 1922, ch. 216, §2, 42 Stat. 635).
+Based on title 28, U.S.C., 1940 ed., §§341, 371(7), (8) (Mar. 3, 1911, ch. 231, §§233, 256, 36 Stat. 1156, 1160; Oct.6, 1917, ch. 97, §2, 40 Stat. 395; June 10, 1922, ch. 216, §2, 42 Stat. 635).
 
 This section reconciles provisions of sections 341 and 371(7), (8) of title 28, U.S.C., 1940 ed., with Article 3, section 2 and Amendment 11 of the Constitution.
 

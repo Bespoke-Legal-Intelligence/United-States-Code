@@ -78,7 +78,7 @@ Applicability of antitrust laws.—Any charge for an estimate of charges provide
 
 (c)
 
-Flexibility in Weighing Shipments.—The Secretary shall issue regulations that provide motor carriers providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 with the maximum possible flexibility in weighing shipments, consistent with assurance to the shipper of accurate weighing practices. The Secretary shall not prohibit such carriers from backweighing shipments or from basing their charges on the reweigh weights if the shipper observes both thetare and gross weighings (or, prior to such weighings, waives in writing the opportunity to observe such weighings) and such weighings are performed on the same scale.
+Flexibility in Weighing Shipments.—The Secretary shall issue regulations that provide motor carriers providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 with the maximum possible flexibility in weighing shipments, consistent with assurance to the shipper of accurate weighing practices. The Secretary shall not prohibit such carriers from backweighing shipments or from basing their charges on the reweigh weights if the shipper observes both the tare and gross weighings (or, prior to such weighings, waives in writing the opportunity to observe such weighings) and such weighings are performed on the same scale.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 891; amended Pub. L. 109–59, title IV, §4205, Aug. 10, 2005, 119 Stat. 1753.)
 

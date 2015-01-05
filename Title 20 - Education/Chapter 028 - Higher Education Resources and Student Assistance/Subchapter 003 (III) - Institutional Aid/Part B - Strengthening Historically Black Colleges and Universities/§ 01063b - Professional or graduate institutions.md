@@ -144,7 +144,7 @@ Subject to subsection (g) of this section, of the amount appropriated to carry o
 
 #### (g) Hold harmless rule
 
-Notwithstanding paragraphs (2) and (3) of subsection (f) of this section, no institution or qualified program identified in subsection (e)(1) of this section that received a grant for fiscal year 2008 and that is eligible to receive a grant in a subsequent fiscal year shall receive a grant amount in any such subsequent fiscal year that is less than the grant amount received for fiscal year 2008, unless the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.
+Notwithstanding paragraphs (2) and (3) of subsection (f) of this section, no institution or qualified program identified in subsection (e)(1) of this section that received a grant for fiscal year 2008 and that is eligible to receive a grant in a subsequent fiscal year shall receive a grant amount in any such subsequent fiscal year thatis less than the grant amount received for fiscal year 2008, unless the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.
 
 #### (h) Interaction with other grant programs
 
@@ -184,7 +184,7 @@ Subsec. (h). Pub. L. 110–315, §311(f), added subsec. (h).
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted "in mathematics, engineering, or the physical or natural sciences" after "graduate education opportunities".
 
-Subsec. (a)(2). Pub. L. 105–244, §304(b)(1)(A)(ii), substituted "$1,000,000 may" for "$500,000 may" and ", except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure ofan institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement." for "except that the Morehouse School of Medicine shall receive at least $3,000,000."
+Subsec. (a)(2). Pub. L. 105–244, §304(b)(1)(A)(ii), substituted "$1,000,000 may" for "$500,000 may" and ", except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement." for "except that the Morehouse School of Medicine shall receive at least $3,000,000."
 
 Subsec. (c). Pub. L. 105–244, §304(b)(2), added pars. (1) to (7) and struck out former pars. (1) to (3) which read as follows:
 

@@ -100,5 +100,5 @@ Act Aug. 6, 1956, ch. 1018, 70 Stat. 1074, provided that: "Upon compliance with 
 
 "
 
-Sec. 2. This Act shall become effective if and when the Mikveh Israel Congregation, through its duly authorized representatives, has executed an agreement in terms and conditions satisfactory to the Secretary of the Interior, providing for the continuing administration, care, and maintenance, without expense to the United States, of the Mikveh Israel Cemetery, whereupon said Secretary shall issue a notice declaring that said requirement has been met and that Mikveh Israel Cemetery is formally designated a unit of the Independence National Historical Park."
+Sec. 2. This Act shall become effective if and when the Mikveh Israel Congregation, through its duly authorized representatives, has executed an agreement in terms and conditions satisfactory to the Secretary of the Interior, providing for the continuing administration, care, and maintenance, without expense to the United States, of the Mikveh Israel Cemetery, whereupon said Secretary shall issue a notice declaring thatsaid requirement has been met and that Mikveh Israel Cemetery is formally designated a unit of the Independence National Historical Park."
 

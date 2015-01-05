@@ -30,15 +30,17 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;&emsp;(B) paid to the employee contingent on, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
 
-&emsp;(12) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
+&emsp;(12) Costs of commercial insurance that protects against the costs of the contractor forcorrection of the contractor's own defects in materials or workmanship.
 
 &emsp;(13) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
-&emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility inthat country at the request of the government of that country.
+&emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
 
 &emsp;(15) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in section 4310 of this title.
 
-&emsp;(16) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under section 1127 of this title.
+&emsp;(16) <sup>1</sup> Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+
+&emsp;(16) <sup>1</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
 (b)
 
@@ -72,20 +74,6 @@ Establishment of Definitions, Exclusions, Limitations, and Qualifications.—The
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3785; Pub. L. 113–66, div. A, title VIII, §811(b), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(1), Dec. 26, 2013, 127 Stat. 1189.)
 
-#### Amendment of Subsection (a)(16)
-
-<i>Pub. L. 113–67, div. A, title VII, §702(a)(1), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (a)(16) of this section is amended to read as follows:</i>
-
-&emsp;<i>"(16) Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities."</i>
-
-<i>See 2013 Amendment note below.</i>
-
-<i>Pub. L. 113–66, div. A, title VIII, §811(b), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (a)(16) of this section is amended to read as follows:</i>
-
-&emsp;<i>"(16) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities."</i>
-
-<i>See 2013 Amendment note below.</i>
-
 Historical and Revision Notes
 
 <i>Revised</i>
@@ -104,7 +92,7 @@ June 30, 1949, ch. 288, title III, §306(e), as added Pub. L. 100–700, §8(a)(
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(16). Pub. L. 113–66 and Pub. L. 113–67 amended par. (16) generally. Prior to amendment, par.\(16) read as follows: "Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under section 1127 of this title."
+<b>2013</b>—Subsec. (a)(16). Pub. L. 113–66 and Pub. L. 113–67 amended par. (16) generally. Prior to amendment, par. (16) read as follows: "Costs of compensation of seniorexecutives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under section 1127 of this title." See Effective Date of 2013 Amendment notes below.
 
 #### Effective Date of 2013 Amendment
 
@@ -201,4 +189,6 @@ Sec. 7. (a) This order shall be implemented consistent with applicable law and s
 Sec. 8. This order shall become effective immediately, and shall apply to contracts resulting from solicitations issued on or after the effective date of the action taken by the FAR Council under section 5 of this order.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Two pars. (16) have been enacted.</i>
 

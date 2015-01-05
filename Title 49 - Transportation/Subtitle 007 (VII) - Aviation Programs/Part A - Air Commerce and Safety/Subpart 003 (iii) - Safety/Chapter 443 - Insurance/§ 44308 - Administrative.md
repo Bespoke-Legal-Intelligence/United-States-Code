@@ -94,7 +94,7 @@ In subsection (b)(2), before clause (A), the words "the Secretary" are added bec
 
 In subsection (c)(1), the words "and when practical shall" are substituted for "and whenever he finds it practical to do so shall" to eliminate unnecessary words. The word "his" is omitted as surplus. The words "The Secretary may use" are substituted for "may be utilized" for consistency. The words "The services of" are omitted as unnecessary.
 
-In subsection (c)(2), the words "pay reasonable compensation" are substituted for "allow . . . fair and reasonable compensation" for consistency in the revised title. The words "an underwriting agent" are substituted for "such companies or groups of companies", and the words "the agent writes" are substituted for "written by such companies or groups of companies as underwriting agent", for clarity. The word "payment" is substituted for "allowance" for consistency.
+In subsection (c)(2), the words "pay reasonable compensation" are substituted for "allow . . . fair and reasonable compensation" for consistency in the revised title. The words "an underwriting agent" are substituted for "such companies or groups of companies",and the words "the agent writes" are substituted for "written by such companies or groups of companies as underwriting agent", for clarity. The word "payment" is substituted for "allowance" for consistency.
 
 In subsection (c)(3), the words "intermediary" and "fee or other" are omitted as surplus. The word "for" is substituted for "by virtue of his participation in" to eliminate unnecessary words.
 

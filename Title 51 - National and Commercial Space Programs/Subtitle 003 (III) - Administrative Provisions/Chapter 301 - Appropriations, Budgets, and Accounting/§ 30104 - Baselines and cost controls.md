@@ -18,7 +18,7 @@ Life-cycle cost.—The term "life-cycle cost" means the total of the direct, ind
 
 &emsp;(4)
 
-Major program.—The term "major program" means an activity approved to proceedto implementation that has an estimated life-cycle cost of more than $250,000,000.
+Major program.—The term "major program" means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000.
 
 (b)
 

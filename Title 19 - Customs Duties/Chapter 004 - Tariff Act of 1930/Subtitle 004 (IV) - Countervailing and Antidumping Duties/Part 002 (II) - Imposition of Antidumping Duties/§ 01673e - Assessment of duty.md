@@ -70,7 +70,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;&emsp;(A) make all business proprietary information supplied to the administering authority under paragraph (1) available under a protective order in accordance with section 1677f(c) of this title to all interested parties described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title, and
 
-&emsp;&emsp;(B) afford all interested parties an opportunity to file written comments on whether the posting of bond or other security underparagraph (1) in lieu of the deposit of estimated antidumping duties should be permitted.
+&emsp;&emsp;(B) afford all interested parties an opportunity to file written comments on whether the posting of bond or other security under paragraph (1) in lieu of the deposit of estimated antidumping duties should be permitted.
 
 #### (d) Special rule for regional industries
 

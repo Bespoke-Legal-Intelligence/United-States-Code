@@ -10,7 +10,7 @@ Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance o
 
 #### Hawai‘i Volcanoes National Park
 
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes NationalPark, effective Sept. 22, 1961, see section 391d of this title.
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
 #### Haleakalā National Park
 

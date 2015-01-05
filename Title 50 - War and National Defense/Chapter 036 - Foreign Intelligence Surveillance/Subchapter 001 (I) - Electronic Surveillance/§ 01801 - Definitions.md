@@ -30,7 +30,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(D) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor; or
 
-&emsp;&emsp;&emsp;(E) engages in the international proliferation of weapons of mass destruction,or activities in preparation therefor for or on behalf of a foreign power; or
+&emsp;&emsp;&emsp;(E) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor for or on behalf of a foreign power; or
 
 &emsp;&emsp;(2) any person who—
 
@@ -84,13 +84,13 @@ As used in this subchapter:
 
 &emsp;&emsp;(3) the intentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States; or
 
-&emsp;&emsp;(4) the installation or use of an electronic, mechanical, or other surveillance device in the United States for monitoring to acquire information, other than from a wire or radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes.
+&emsp;&emsp;(4) the installation or use of an electronic, mechanical, or other surveillance device in the United States for monitoring to acquire information, other than from a wire or radiocommunication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes.
 
 &emsp;(g) "Attorney General" means the Attorney General of the United States (or Acting Attorney General), the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28.
 
 &emsp;(h) "Minimization procedures", with respect to electronic surveillance, means—
 
-&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain,produce, and disseminate foreign intelligence information;
+&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
 
 &emsp;&emsp;(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1) of this section, shall not be disseminated in a manner that identifies any United States person, without such person's consent, unless such person's identity is necessary to understand foreign intelligence information or assess its importance;
 
@@ -152,7 +152,7 @@ Subsec. (h)(4). Pub. L. 107–108, §314(a)(1), substituted "72 hours" for "twen
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that: "Except as provided in section 404\[set out as a note under this section\], the amendments made by this Act \[see Short Title of 2008 Amendment note below\] shall take effect on the date of the enactment of this Act \[July 10, 2008\]."
+Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that: "Except as provided in section 404 \[set out as a note under this section\], the amendments made by this Act \[see Short Title of 2008 Amendment note below\] shall take effect on the date of the enactment of this Act \[July 10, 2008\]."
 
 #### Termination Date of 2004 Amendment
 
@@ -202,7 +202,7 @@ Pub. L. 95–511, §1, Oct. 25, 1978, 92 Stat. 1783, provided in part: "That thi
 
 #### Severability
 
-Pub. L. 110–261, title IV, §401, July 10, 2008, 122 Stat. 2473, provided that: "If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
+Pub. L. 110–261, title IV, §401, July 10, 2008, 122 Stat. 2473, provided that: "If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, thevalidity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
 
 Pub. L. 106–567, title VI, §608, Dec. 27, 2000, 114 Stat. 2856, provided that: "If any provision of this title \[see Short Title of 2000 Amendment note above\] (including an amendment made by this title), or the application thereof, to any person or circumstance, is held invalid, the remainder of this title (including the amendments made by this title), and the application thereof, to other persons or circumstances shall not be affected thereby."
 

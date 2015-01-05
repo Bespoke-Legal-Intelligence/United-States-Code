@@ -42,7 +42,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (3) Sources of compensation
 
-&emsp;Each State desiring a grant under subsection (a) shall identify the sources from and methods by which compensation would be paid for claims resolved under the proposed alternative to current tort litigation, which may include public or private funding sources, or a combination of such sources. Funding methods shall to the extent practicable provide financial incentives for activities that improve patient safety.
+&emsp;Each State desiring a grant under subsection (a) shall identify the sources from and methods by which compensation would be paid for claims resolved under the proposed alternativeto current tort litigation, which may include public or private funding sources, or a combination of such sources. Funding methods shall to the extent practicable provide financial incentives for activities that improve patient safety.
 
 #### (4) Scope
 
@@ -204,7 +204,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (i) Option to provide for initial planning grants
 
-Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting the criteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
+Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting thecriteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
 
 #### (j) Definitions
 

@@ -22,11 +22,11 @@ Section is based on section 1 of House Resolution No. 10, Ninety-fourth Congress
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–447, §107(b)(2), substituted a period for “for a period not to exceed the shorter of the following—
+<b>2004</b>—Subsec. (b). Pub. L. 108–447, §107(b)(2), substituted a period for "for a period not to exceed the shorter of the following—
 
-&emsp;“(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or
+&emsp;"(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or
 
-&emsp;“(ii) fourteen days.”
+&emsp;"(ii) fourteen days."
 
 Subsec. (c). Pub. L. 108–447, §107(c)(2), added subsec. (c).
 

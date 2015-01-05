@@ -6,7 +6,7 @@ The Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) shall not apply to the
 
 #### (b) Games of chance generally
 
-The Tribe shall have the rights and responsibilities set forth in the Settlement Agreement and the State Act with respect to the conduct of games of chance. Except as specifically set forth in the Settlement Agreement and the State Act, all laws, ordinances, and regulations of the State, and its political subdivisions, shall govern the regulation of gambling devices and the conduct of gambling or wagering by the Tribe on and off the Reservation.
+The Tribe shall have the rights and responsibilities set forth in the Settlement Agreement and the State Act with respect to the conduct of games of chance. Except as specifically set forthin the Settlement Agreement and the State Act, all laws, ordinances, and regulations of the State, and its political subdivisions, shall govern the regulation of gambling devices and the conduct of gambling or wagering by the Tribe on and off the Reservation.
 
 (Pub. L. 103–116, §14, Oct. 27, 1993, 107 Stat. 1136.)
 

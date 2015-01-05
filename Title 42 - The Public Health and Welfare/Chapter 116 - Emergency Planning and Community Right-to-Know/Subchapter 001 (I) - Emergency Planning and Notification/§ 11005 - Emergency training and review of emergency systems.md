@@ -8,11 +8,11 @@
 
 #### (2) State and local program support
 
-&emsp;There is authorized to be appropriated to the Federal Emergency Management Agency for each of the fiscal years 1987, 1988, 1989, and 1990, $5,000,000 for making grants to support programs of State and local governments, and to support university-sponsored programs, which are designed to improve emergency planning, preparedness, mitigation, response, and recovery capabilities. Such programs shall provide special emphasis with respect to emergencies associated with hazardous chemicals. Such grants may not exceed 80 percent of thecost of any such program. The remaining 20 percent of such costs shall be funded from non-Federal sources.
+&emsp;There is authorized to be appropriated to the Federal Emergency Management Agency for each of the fiscal years 1987, 1988, 1989, and 1990, $5,000,000 for making grants to support programs of State and local governments, and to support university-sponsored programs, which are designed to improve emergency planning, preparedness, mitigation, response, and recovery capabilities. Such programs shall provide special emphasis with respect to emergencies associated with hazardous chemicals. Such grants may not exceed 80 percent of the cost of any such program. The remaining 20 percent of such costs shall be funded from non-Federal sources.
 
 #### (3) Other programs
 
-&emsp;Nothing in this section shall affect the availability of appropriations to the Federal Emergency Management Agency for any programs carried out by such agency other than the programs referred to in paragraph (2).
+&emsp;Nothing in this section shall affect the availability of appropriations to the FederalEmergency Management Agency for any programs carried out by such agency other than the programs referred to in paragraph (2).
 
 #### (b) Review of emergency systems
 

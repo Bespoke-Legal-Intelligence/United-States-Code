@@ -60,13 +60,13 @@ In general.—The Secretary may lend, lease, donate, or otherwise provide equipm
 
 Conditions.—The Secretary—
 
-&emsp;&emsp;(A) may provide such assistance based upon an assessment of the risks to the security of the United States and the inability of the owner or operator of the port or facility to bring the port or facility into compliance with those standards and to maintain compliance with, or exceed, such standards;
+&emsp;&emsp;(A) may provide such assistance based upon an assessment of the risks to the security of the United States and the inability of the owner or operator of the port or facility to bring the port or facility into compliancewith those standards and to maintain compliance with, or exceed, such standards;
 
 &emsp;&emsp;(B) may not provide such assistance unless the port or facility has been subjected to a comprehensive port security assessment by the Coast Guard; and
 
 &emsp;&emsp;(C) may only lend, lease, or otherwise provide equipment that the Secretary has first determined is not required by the Coast Guard for the performance of its missions.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title II, §233(b), Oct. 13, 2006, 120 Stat. 1917; Pub. L. 111–281, title VIII, §806(a)(3)–(c)(2)(A), Oct. 15,2010, 124 Stat. 2992, 2993; Pub. L. 111–330, §1(12), Dec. 22, 2010, 124 Stat. 3570.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title II, §233(b), Oct. 13, 2006, 120 Stat. 1917; Pub. L. 111–281, title VIII, §806(a)(3)–(c)(2)(A), Oct. 15, 2010, 124 Stat. 2992, 2993; Pub. L. 111–330, §1(12), Dec. 22, 2010, 124 Stat. 3570.)
 
 #### Amendments
 

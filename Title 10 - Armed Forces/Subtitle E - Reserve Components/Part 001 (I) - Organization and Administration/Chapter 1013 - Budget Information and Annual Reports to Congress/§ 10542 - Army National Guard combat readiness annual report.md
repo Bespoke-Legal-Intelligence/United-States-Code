@@ -34,7 +34,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(9) The number of members of the Army National Guard, shown for each State, that were discharged during the previous fiscal year pursuant to section 1115(c)(1) of ANGCRRA for not completing the minimum training required for deployment within 24 months after entering the National Guard.
 
-&emsp;(10) The number of waivers, shown for each State, that were granted by the Secretary during the previous fiscal year under section 1115(c)(2) of ANGCRRA of the requirement in section 1115(c)(1) of ANGCRRA described in paragraph (9), together with the reason for each waiver.
+&emsp;(10) The number of waivers, shown for each State, that were granted by the Secretary during the previous fiscal year under section1115(c)(2) of ANGCRRA of the requirement in section 1115(c)(1) of ANGCRRA described in paragraph (9), together with the reason for each waiver.
 
 &emsp;(11) The number of members, shown for each State, who were screened during the preceding fiscal year to determine whether they meet minimum physical profile standards required for deployment and, of those members—
 

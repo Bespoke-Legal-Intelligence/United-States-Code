@@ -48,7 +48,7 @@ If an application is made under this chapter for a license to construct a deepwa
 
 #### (e) Additional conditions; removal requirements, waiver; Outer Continental Shelf Lands Act applicable to utilization of components upon waiver of removal requirements
 
-(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter <sup>2</sup> orwhich are otherwise required by any Federal department or agency pursuant to the terms of this chapter.<sup>2</sup> To the extent practicable, conditions required to carry out the provisions and requirements of this chapter <sup>2</sup> shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter <sup>2</sup> or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.<sup>2</sup> To the extent practicable, conditions required to carry out the provisions and requirements of this chapter <sup>2</sup> shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
 (2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
 
@@ -68,13 +68,13 @@ A license issued under this chapter remains in effect unless suspended or revoke
 
 #### (i) Liquefied natural gas facilities
 
-To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with liquefied natural gas by United States flag vessels.
+To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with or that will supply liquefied natural gas by United States flag vessels.
 
-(Pub. L. 93–627, §4, Jan. 3, 1975, 88 Stat. 2128; Pub. L. 98–419, §2(b)–(e), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 101–380, title II, §2003(a)(1), Aug. 18, 1990, 104 Stat. 507; Pub. L. 104–324, title V, §504, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, §106(a)(2), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–241, title III, §304(b), July 11, 2006, 120 Stat. 527.)
+(Pub. L. 93–627, §4, Jan. 3, 1975, 88 Stat. 2128; Pub. L. 98–419, §2(b)–(e), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 101–380, title II, §2003(a)(1), Aug. 18, 1990, 104 Stat. 507; Pub. L. 104–324, title V, §504, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, §106(a)(2), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–241, title III, §304(b), July 11, 2006, 120 Stat. 527; Pub. L. 113–281, title III, §307(c), Dec. 18, 2014, 128 Stat. 3045.)
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
@@ -84,9 +84,11 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title
 
 This chapter, referred to first three times in subsec. (e)(1) and first time in subsec. (f), was in the original "this title" and was translated as reading "this Act", meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i). Pub. L. 113–281 inserted "or that will supply" after "be supplied with".
 
 <b>2006</b>—Subsec. (i). Pub. L. 109–241 added subsec. (i).
 
@@ -94,7 +96,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–324, §504(a), struck out at end "A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
 
-&emsp;"(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in theconstruction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
+&emsp;"(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
 
 &emsp;"(2) for the transshipment of commodities or materials, to the United States, other than oil,
 
@@ -124,11 +126,11 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### LNG Tankers
 
-Pub. L. 109–241, title III, §304(a), July 11, 2006, 120 Stat. 527, provided that: "The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to the United States on United States flag vessels."
+Pub. L. 109–241, title III, §304(a), July 11, 2006, 120 Stat. 527, as amended by Pub. L. 113–281, title III, §307(b), Dec. 18, 2014, 128 Stat. 3045, provided that: "The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

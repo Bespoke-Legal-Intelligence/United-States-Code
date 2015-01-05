@@ -33,7 +33,7 @@ A prior chapter 5, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 830, co
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141, div. E, title II, §§52002(b), 52003(b), 52006(b), 52007(b), 52008(b), title III, §§53002(b), 53003(b), 53004(b), 53005(b), 53006(b), July 6, 2012, 126 Stat. 872, 880, 882, 899, 901–903, 905, substituted "Surface transportation research, development, and technology" for "Surface transportation research" in item 502 and "Research and technology development and deployment" for "Technology deployment program" in item 503, struck out items 506 "International highway transportation outreach program", 507 "Surface transportation environment and planning cooperative research program", and 509 "National cooperative freight transportation research program", and added items 514 to 518.
+<b>2012</b>—Pub. L. 112–141, div. E, title II, §§52002(b), 52003(b), 52006(b), 52007(b), 52008(b), title III, §§53002(b),53003(b), 53004(b), 53005(b), 53006(b), July 6, 2012, 126 Stat. 872, 880, 882, 899, 901–903, 905, substituted "Surface transportation research, development, and technology" for "Surface transportation research" in item 502 and "Research and technology development and deployment" for "Technology deployment program" in item 503, struck out items 506 "International highway transportation outreach program", 507 "Surface transportation environment and planning cooperative research program", and 509 "National cooperative freight transportation research program", and added items 514 to 518.
 
 <b>2008</b>—Pub. L. 110–244, title I, §111(b)(2)(B), June 6, 2008, 122 Stat. 1605, amended Pub. L. 109–59, §5210. See 2005 Amendment note below.
 

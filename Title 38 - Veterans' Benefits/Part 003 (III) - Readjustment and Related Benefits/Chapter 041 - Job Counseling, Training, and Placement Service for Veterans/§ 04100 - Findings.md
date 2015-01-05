@@ -54,7 +54,7 @@ Monthly Certification.—Each veteran who participates in the program establishe
 
 "(d)
 
-Amount of Assistance.—The monthly amount of the retraining assistance payable under this section isthe amount in effect under section 3015(a)(1) of title 38, United States Code.
+Amount of Assistance.—The monthly amount of the retraining assistance payable under this section is the amount in effect under section 3015(a)(1) of title 38, United States Code.
 
 "(e)
 

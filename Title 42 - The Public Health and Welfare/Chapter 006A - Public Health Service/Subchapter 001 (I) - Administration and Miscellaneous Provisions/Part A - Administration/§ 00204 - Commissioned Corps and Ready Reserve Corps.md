@@ -80,7 +80,7 @@ Pub. L. 111–148, title V, §5701, Mar. 23, 2010, 124 Stat. 684, provided that:
 
 "(a)
 
-Reports by Secretary of Health and Human Services.—On an annual basis, the Secretary of Health and Human Services shall submit to the appropriate Committees of Congress a report on the activities carried out under the amendments made by this title \[see Tables for classification\], and the effectiveness of such activities.
+Reports by Secretary of Health and Human Services.—On an annual basis, the Secretary of Health and Human Services shall submit to the appropriateCommittees of Congress a report on the activities carried out under the amendments made by this title \[see Tables for classification\], and the effectiveness of such activities.
 
 "(b)
 
@@ -108,7 +108,7 @@ Memorandum of President of the United States, Mar. 29, 2013, 78 F.R. 20225, prov
 
 Memorandum for the Secretary of Health and Human Services
 
-By virtue of the authority vested in me as President by the Constitution and the laws of the United States,including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 203 of the Public Health Service Act, as amended by Public Law 111–148, to appoint commissioned officers of the Ready Reserve Corps of the Public Health Service. Commissions issued under this delegation of authority may not be for a term longer than 6 months except for commissions that place officers in the Centers for Disease Control and Prevention's Epidemiological Intelligence Service, the Senior Commissioned Officer Student Training and Extern Program, the Indian Health Service Pharmacy Residency Program, the Indian Health Service Health Professions Scholarship Program, or the National Health Service Corps Scholarship Program, which may not be for a term longer than 2 years. Officers appointed pursuant to this delegation may not be appointed to the Ready Reserve Corps of the Public Health Service for a term greater than those outlined in this memorandum other than by the President. This authority may not be re-delegated.
+By virtue of the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 203 of the Public Health Service Act, as amended by Public Law 111–148, to appoint commissioned officers of the Ready Reserve Corps of the Public Health Service. Commissions issued under this delegation of authority may not be for a term longer than 6 months except for commissions that place officers in the Centers for Disease Control and Prevention's Epidemiological Intelligence Service, the Senior Commissioned Officer Student Training and Extern Program, the Indian Health Service Pharmacy Residency Program, the Indian Health Service Health Professions Scholarship Program, or the National Health Service Corps Scholarship Program, which may not be for a term longer than 2 years. Officers appointed pursuant to this delegation may not be appointed to the Ready Reserve Corps of the Public Health Service for a term greater than those outlined in this memorandum other than by the President. This authority may not be re-delegated.
 
 My memorandum of May 31, 2011 (Delegation of Authority to Appoint Commissioned Officers of the Ready Reserve Corps of the Public Health Service), is hereby revoked.
 

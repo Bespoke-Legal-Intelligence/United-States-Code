@@ -38,7 +38,7 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
 
-&emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
+&emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by theUnder Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
 
 &emsp;&emsp;(i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees;
 
@@ -108,7 +108,7 @@ Development of Plan and Enforcement and Approval Mechanisms.—The Secretary of 
 
 (g)
 
-Inspector General Report.—Not later than May 1 of each year, beginning with 2014 and ending with 2016, the Inspector General of theDepartment of Defense shall submit to the congressional defense committees a report containing the Inspector General's assessment of—
+Inspector General Report.—Not later than May 1 of each year, beginning with 2014 and ending with 2016, the Inspector General of the Department of Defense shall submit to the congressional defense committees a report containing the Inspector General's assessment of—
 
 &emsp;(1) the efforts by the Department of Defense to compile the inventory pursuant to subsection (c); and
 
@@ -126,7 +126,7 @@ Rule of Construction.—Nothing in this section shall be construed to authorize 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "performance-based", with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
+&emsp;(1) The term "performance-based", with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use ofperformance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
 
 &emsp;(2) The definitions set forth in section 2225(f) of this title for the terms "simplified acquisition threshold", "small business concern", "small business concern owned and controlled by socially and economically disadvantaged individuals", and "small business concern owned and controlled by women" shall apply.
 
@@ -182,7 +182,7 @@ Pub. L. 110–417, \[div. A\], title VIII, §831, Oct. 14, 2008, 122 Stat. 4534,
 
 "(a)
 
-Guidance Required.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14,2008\], the Secretary of Defense shall develop guidance related to personal services contracts to—
+Guidance Required.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall develop guidance related to personal services contracts to—
 
 &emsp;"(1) require a clear distinction between employees of the Department of Defense and employees of Department of Defense contractors;
 

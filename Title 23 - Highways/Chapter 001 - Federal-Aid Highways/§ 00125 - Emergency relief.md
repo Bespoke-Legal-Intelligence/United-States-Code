@@ -36,7 +36,7 @@ In general.—Subject to the limitations described in paragraph (2), there are a
 
 Limitations.—The limitations referred to in paragraph (1) are that—
 
-&emsp;&emsp;(A) not more than $100,000,000 is authorized to be obligated in any 1 fiscal year commencing after September 30, 1980, to carry out this section, except that, if for any fiscal year the total of all obligations under thissection is less than the amount authorized to be obligated for the fiscal year, the unobligated balance of that amount shall—
+&emsp;&emsp;(A) not more than $100,000,000 is authorized to be obligated in any 1 fiscal year commencing after September 30, 1980, to carry out this section, except that, if for any fiscal year the total of all obligations under this section is less than the amount authorized to be obligated for the fiscal year, the unobligated balance of that amount shall—
 
 &emsp;&emsp;&emsp;(i) remain available until expended; and
 
@@ -120,7 +120,7 @@ Treatment of Territories.—For purposes of this section, the Virgin Islands, Gu
 
 (g)
 
-Protecting Public Safety and Maintaining Roadways.—The Secretary may use not more than 5 percent of amounts from the emergency fund authorized by this section to carry out projects that the Secretary determines are necessary to protect the public safety or to maintain or protect roadways that are includedwithin the scope of an emergency declaration by the Governor of the State or by the President, in accordance with this section, and the Governor deems to be an ongoing concern in order to maintain vehicular traffic on the roadway.
+Protecting Public Safety and Maintaining Roadways.—The Secretary may use not more than 5 percent of amounts from the emergency fund authorized by this section to carry out projects that the Secretary determines are necessary to protect the public safety or to maintain or protect roadways that are included within the scope of an emergency declaration by the Governor of the State or by the President, in accordance with this section, and the Governor deems to be an ongoing concern in order to maintain vehicular traffic on the roadway.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 86–342, title I, §107(a), Sept. 21, 1959, 73 Stat. 612; Pub. L. 89–574, §9(b), (c), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §27(a), Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §109(a), Dec. 31, 1970, 84 Stat. 1718; Pub. L. 92–361, Aug. 3, 1972, 86 Stat. 503; Pub. L. 94–280, title I, §119, May 5, 1976, 90 Stat. 437; Pub. L. 95–599, title I, §119, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 96–106, §19, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–424, title I, §153(a), (c), (d), (h), Jan. 6, 1983, 96 Stat. 2132, 2133; Pub. L. 99–190, §101(e) \[title III, §334\], Dec. 19, 1985, 99 Stat. 1267, 1290; Pub. L. 99–272, title IV, §4103, Apr. 7, 1986, 100 Stat. 114; Pub. L. 100–17, title I, §§118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, 101 Stat. 156, 171; Pub. L. 100–707, §109(k), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–240, title I, §1022(b), Dec. 18, 1991, 105 Stat. 1951; Pub. L. 102–302, §101, June 22, 1992, 106 Stat. 252; Pub. L. 105–178, title I, §§1113(b), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 151, 193; Pub. L. 112–141, div. A, title I, §1107, July 6, 2012, 126 Stat. 437.)
 
@@ -184,7 +184,7 @@ Subsec. (c). Pub. L. 97–424, §153(h)(2), substituted "routes functionally cla
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–599 inserted "prior to the fiscal year ending September 30, 1978" after "such years, and (2)", and inserted provision authorizing appropriations of 100 percent of expenditures out of the Highway Trust Fund.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–280, §119(a)(1)–(3), inserted ", and ending before June 1, 1976," after "June 30, 1972,", authorized expenditure of not more than $25,000,000 for the three-month period beginning July 1, 1976, and ending September 30, 1976, and not more than$100,000,000 in any one fiscal year commencing after September 30, 1976, and inserted provision that for the purposes of this section the period beginning July 1, 1976, and ending September 30, 1976, shall be deemed to be a part of the fiscal year ending September 30, 1977.
+<b>1976</b>—Subsec. (a). Pub. L. 94–280, §119(a)(1)–(3), inserted ", and ending before June 1, 1976," after "June 30, 1972,", authorized expenditure of not more than $25,000,000 for the three-month period beginning July 1, 1976, and ending September 30, 1976, and not more than $100,000,000 in any one fiscal year commencing after September 30, 1976, and inserted provision that for the purposes of this section the period beginning July 1, 1976, and ending September 30, 1976, shall be deemed to be a part of the fiscal year ending September 30, 1977.
 
 Subsec. (b). Pub. L. 94–280, §119(b), excepted from the requirement of a concurrence by the Secretary an emergency declared by the President to be a major disaster for purposes of the Disaster Relief Act of 1974.
 
@@ -220,7 +220,7 @@ Pub. L. 97–424, title I, §153(e), Jan. 6, 1983, 96 Stat. 2133, provided that:
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–495, §27(c), Aug. 23, 1968, 82 Stat. 829, provided that: "The amendments made by this section \[amending this section and section 120 of this title\] shall be applicable to repair or reconstruction with respect to which project agreements have been entered into on or after January 1, 1968."
+Pub. L. 90–495, §27(c), Aug. 23, 1968, 82 Stat. 829, provided that: "The amendments made by this section\[amending this section and section 120 of this title\] shall be applicable to repair or reconstruction with respect to which project agreements have been entered into on or after January 1, 1968."
 
 #### Effective Date of 1966 Amendment
 

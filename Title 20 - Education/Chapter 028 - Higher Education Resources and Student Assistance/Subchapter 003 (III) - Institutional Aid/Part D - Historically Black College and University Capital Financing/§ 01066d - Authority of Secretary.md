@@ -22,7 +22,7 @@ In the performance of, and with respect to, the functions vested in the Secretar
 
 &emsp;(4) shall require that the first loans for capital projects authorized under section 1066b of this title be made no later than March 31, 1994;
 
-&emsp;(5) may sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and any action instituted under this part without regard to the amount in controversy, and any action instituted under this section by or against the Secretary shall survive notwithstanding any change in the person occupying the office of the Secretary or any vacancy in such office;
+&emsp;(5) may sue and be sued in any court of record of a State having general jurisdictionor in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and any action instituted under this part without regard to the amount in controversy, and any action instituted under this section by or against the Secretary shall survive notwithstanding any change in the person occupying the office of the Secretary or any vacancy in such office;
 
 &emsp;(6)(A) may foreclose on any property and bid for and purchase at any foreclosure, or any other sale, any property in connection with which the Secretary has been assigned a loan pursuant to this part; and
 

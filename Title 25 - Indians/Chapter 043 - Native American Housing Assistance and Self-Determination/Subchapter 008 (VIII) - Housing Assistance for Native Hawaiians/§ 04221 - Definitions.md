@@ -162,7 +162,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;&emsp;"(D) the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.);
 
-&emsp;&emsp;"(E) the National Historic Preservation Act (16 U.S.C. 470 et seq.);
+&emsp;&emsp;"(E) the National Historic Preservation Act (16 U.S.C. 470 et seq.) \[see 54 U.S.C. 300101 et seq.\];
 
 &emsp;&emsp;"(F) the Native American Languages Act of 1992 (106 Stat. 3434 \[Pub. L. 102–524, see Short Title of 1992 Amendment note set out under section 2991 of Title 42, The Public Health and Welfare\]);
 

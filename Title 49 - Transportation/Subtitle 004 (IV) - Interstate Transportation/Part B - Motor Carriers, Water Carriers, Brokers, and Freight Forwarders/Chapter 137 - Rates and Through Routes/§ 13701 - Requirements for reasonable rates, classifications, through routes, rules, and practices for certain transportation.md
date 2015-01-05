@@ -6,7 +6,7 @@ Reasonableness.—
 
 &emsp;(1)
 
-Certain household goods transportation; joint rates involving water transportation.—A rate, classification, rule, or practice related to transportation or service provided by a carrier subject to jurisdiction under chapter 135 for transportation or service involving—
+Certain household goods transportation; joint rates involving water transportation.—A rate, classification, rule, orpractice related to transportation or service provided by a carrier subject to jurisdiction under chapter 135 for transportation or service involving—
 
 &emsp;&emsp;(A) a movement of household goods,
 

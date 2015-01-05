@@ -30,7 +30,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;t
 
-> in which "A" is the amount the United States is entitled to recover, "φ" is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; "t" is the total number of months in the individual's period of obligated service; and "s" is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
+> in which "A" is the amount the United States is entitled to recover, "φ" is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; "t" is the total number of months in the individual's period of obligated service; and "s" is the number of months of such period servedby him in accordance with section 254m of this title or a written agreement under section 254n of this title.
 
 (B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) of this section shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
 
@@ -74,7 +74,7 @@
 
 #### (d) Cancellation of obligation upon death of individual; waiver or suspension of obligation for impossibility, hardship, or unconscionability; release of debt by discharge in bankruptcy, time limitations
 
-(1) Any obligation of an individual under the Scholarship Program (or a contract thereunder)or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
+(1) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
 
 (2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
@@ -144,7 +144,7 @@ Subsec. (e). Pub. L. 107–251, §313(a)(5), added subsec. (e).
 
 Subsec. (a). Pub. L. 100–177, §202(e)(1), designated existing provisions as par. (1), and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 100–177, §202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted "under section 254l of this title" after first reference to "service obligation" as the probable intent of Congress, struck out at end "Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.", and added subpar. (B).
+Subsec. (b)(1). Pub. L. 100–177, §202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted "under section 254l of this title" after first reference to "service obligation" as the probable intent ofCongress, struck out at end "Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.", and added subpar. (B).
 
 Subsec. (b)(1)(B)(i). Pub. L. 100–203, as amended by Pub. L. 100–360, inserted at end "Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title."
 

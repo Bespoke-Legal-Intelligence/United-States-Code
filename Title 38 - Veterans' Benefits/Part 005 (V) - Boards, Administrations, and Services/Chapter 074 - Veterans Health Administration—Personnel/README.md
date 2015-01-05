@@ -15,6 +15,7 @@
 | [7409\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007409%20-%20Contracts%20for%20scarce%20medical%20specialist%20services.md) | Contracts for scarce medical specialist services. |
 | [7410\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007410%20-%20Additional%20pay%20authorities.md) | Additional pay authorities. |
 | [7411\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007411%20-%20Full-time%20board-certified%20physicians%20and%20dentists%20reimbursement%20of%20continuing%20professional%20education%20expenses.md) | Full-time board-certified physicians and dentists: reimbursement of continuing professional education expenses. |
+| [7412\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007412%20-%20Annual%20determination%20of%20staffing%20shortages%3B%20recruitment%20and%20appointment%20for%20needed%20occupations.md) | Annual determination of staffing shortages; recruitment and appointment for needed occupations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -81,6 +82,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–146, §301(a)(2), Aug. 7, 2014, 128 Stat. 1784, added item 7412.
 
 <b>2010</b>—Pub. L. 111–163, title VI, §602(a)(2), May 5, 2010, 124 Stat. 1173, added item 7459.
 

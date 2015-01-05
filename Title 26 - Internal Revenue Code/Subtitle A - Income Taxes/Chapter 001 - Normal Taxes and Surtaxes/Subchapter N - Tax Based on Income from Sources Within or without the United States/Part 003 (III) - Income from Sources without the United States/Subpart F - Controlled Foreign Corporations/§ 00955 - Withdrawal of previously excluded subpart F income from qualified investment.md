@@ -4,7 +4,7 @@
 
 #### (1) Amount withdrawn
 
-&emsp;For purposes of this subpart, the amount of previously excluded subpart F income of any controlled foreign corporation withdrawn from investment in foreign base company shipping operations for any taxable year is an amount equal to the decrease in the amount of qualified investments in foreign base company shipping operations of the controlled foreign corporation for such year, but only to the extent that the amount of such decrease does not exceed an amount equal to—
+&emsp;For purposes of this subpart, the amount of previously excluded subpart F income of anycontrolled foreign corporation withdrawn from investment in foreign base company shipping operations for any taxable year is an amount equal to the decrease in the amount of qualified investments in foreign base company shipping operations of the controlled foreign corporation for such year, but only to the extent that the amount of such decrease does not exceed an amount equal to—
 
 &emsp;&emsp;(A) the sum of the amounts excluded under section 954(b)(2) from the foreign base company income of such corporation for all prior taxable years beginning before 1987, reduced by
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) the amount of qualified investments in foreign base company shipping operations of the controlled foreign corporation at the close of the taxable year,
 
-> &emsp;to the extent that the amount of such decrease does not exceed the sum of the earnings andprofits for the taxable year and the earnings and profits accumulated for prior taxable years beginning after December 31, 1975, and the amount of previously excluded subpart F income invested in less developed country corporations described in section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975) to the extent attributable to earnings and profits accumulated for taxable years beginning after December 31, 1962. For purposes of this paragraph, if qualified investments in foreign base company shipping operations are disposed of by the controlled foreign corporation during the taxable year, the amount of the decrease in qualified investments in foreign base company shipping operations of such controlled foreign corporations for such year shall be reduced by an amount equal to the amount (if any) by which the losses on such dispositions during such year exceed the gains on such dispositions during such year.
+> &emsp;to the extent that the amount of such decrease does not exceed the sum of the earnings and profits for the taxable year and the earnings and profits accumulated for prior taxable years beginning after December 31, 1975, and the amount of previously excluded subpart F income invested in less developed country corporations described in section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975) to the extent attributable to earnings and profits accumulated for taxable years beginning after December 31, 1962. For purposes of this paragraph, if qualified investments in foreign base company shipping operations are disposed of by the controlled foreign corporation during the taxable year, the amount of the decrease in qualified investments in foreign base company shipping operations of such controlled foreign corporations for such year shall be reduced by an amount equal to the amount (if any) by which the losses on such dispositions during such year exceed the gains on such dispositions during such year.
 
 #### (3) Pro rata share of amount withdrawn
 
@@ -76,7 +76,7 @@ Subsec. (a)(2)(A). Pub. L. 99–514, §1221(c)(3)(C), substituted "as of the clo
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

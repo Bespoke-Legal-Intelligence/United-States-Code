@@ -14,7 +14,7 @@
 
 #### (A) Members of SIPC
 
-&emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all persons registered as brokers or dealers under section 78o(b) of this title, other than—
+&emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all personsregistered as brokers or dealers under section 78o(b) of this title, other than—
 
 &emsp;&emsp;&emsp;(i) persons whose principal business, in the determination of SIPC, taking into account business of affiliated entities, is conducted outside the United States and its territories and possessions;
 
@@ -24,7 +24,7 @@
 
 #### (B) Commission review
 
-&emsp;&emsp;SIPC shall file with the Commission a copy of any determination made pursuant tosubparagraph (A)(i). Within thirty days after the date of such filing, or within such longer period as the Commission may designate of not more than ninety days after such date if it finds such longer period to be appropriate and publishes its reasons for so finding, the Commission shall, consistent with the public interest and the purposes of this chapter, affirm, reverse, or amend any such determination of SIPC.
+&emsp;&emsp;SIPC shall file with the Commission a copy of any determination made pursuant to subparagraph (A)(i). Within thirty days after the date of such filing, or within such longer period as the Commission may designate of not more than ninety days after such date if it finds such longer period to be appropriate and publishes its reasons for so finding, the Commission shall, consistent with the public interest and the purposes of this chapter, affirm, reverse, or amend any such determination of SIPC.
 
 #### (C) Additional members
 
@@ -140,11 +140,11 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (C) Proceedings
 
-&emsp;&emsp;Proceedings instituted with respect to a proposed rule change pursuant to subparagraph (B)(ii) shall include notice of the grounds for disapproval under consideration and opportunity for hearing, and shall be concluded within one hundred eighty days after the date of publication of notice of the filing of such proposed rule change. At the conclusion of such proceedings, the Commission shall, by order, approve or disapprove such proposed rule change. The Commission may extend the time for conclusion of such proceedings for not more than sixty days if it finds good cause for such extension and publishes its reasons for so finding, or for such longer period as to which SIPC consents.
+&emsp;&emsp;Proceedings instituted with respect to a proposed rule change pursuant to subparagraph (B)(ii) shall include notice of the grounds for disapproval under consideration and opportunity for hearing, and shall be concluded within one hundred eighty daysafter the date of publication of notice of the filing of such proposed rule change. At the conclusion of such proceedings, the Commission shall, by order, approve or disapprove such proposed rule change. The Commission may extend the time for conclusion of such proceedings for not more than sixty days if it finds good cause for such extension and publishes its reasons for so finding, or for such longer period as to which SIPC consents.
 
 #### (D) Grounds for approval or disapproval
 
-&emsp;&emsp;The Commission shall approve a proposed rule change if it finds that such proposed rule change is in the public interest and is consistent with the purposes of this chapter, and any proposed rule change so approved shall be given force and effect as if promulgated by the Commission. The Commission shall disapprove a proposed rule change if it does not make the finding referred to in the preceding sentence. The Commission shallnot approve any proposed rule change prior to thirty days after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
+&emsp;&emsp;The Commission shall approve a proposed rule change if it finds that such proposed rule change is in the public interest and is consistent with the purposes of this chapter, and any proposed rule change so approved shall be given force and effect as if promulgated by the Commission. The Commission shall disapprove a proposed rule change if it does not make the finding referred to in the preceding sentence. The Commission shall not approve any proposed rule change prior to thirty days after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
 
 #### (E) Exception
 

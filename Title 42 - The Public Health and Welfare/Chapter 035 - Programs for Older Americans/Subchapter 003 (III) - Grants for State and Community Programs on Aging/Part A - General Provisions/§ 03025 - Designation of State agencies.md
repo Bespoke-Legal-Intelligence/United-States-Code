@@ -14,7 +14,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(D) serve as an effective and visible advocate for older individuals by reviewing and commenting upon all State plans, budgets, and policies which affect older individuals and providing technical assistance to any agency, organization, association, or individual representing the needs of older individuals; and
 
-&emsp;&emsp;(E) divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5)(A) of this section, designate the entire State as a single planning and service area), in accordancewith guidelines issued by the Assistant Secretary, after considering the geographical distribution of older individuals in the State, the incidence of the need for supportive services, nutrition services, multipurpose senior centers, and legal assistance, the distribution of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who are Indians residing in such areas, the distribution of resources available to provide such services or centers, the boundaries of existing areas within the State which were drawn for the planning or administration of supportive services programs, the location of units of general purpose local government within the State, and any other relevant factors;
+&emsp;&emsp;(E) divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5)(A) of this section, designate the entire State as a single planning and service area), in accordance with guidelines issued by the Assistant Secretary, after considering the geographical distribution of older individuals in the State, the incidence of the need for supportive services, nutrition services, multipurpose senior centers, and legal assistance, the distribution of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who are Indians residing in such areas, the distribution of resources available to provide such services or centers, the boundaries of existing areas within the State which were drawn for the planning or administration of supportive services programs, the location of units of general purpose local government within the State, and any other relevant factors;
 
 &emsp;(2) the State agency shall—
 
@@ -104,7 +104,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;(II) procedural grounds.
 
-(iv) In deciding an appeal described in clause (ii)(V), the Assistant Secretary may affirm orset aside the decision of the State agency. If the Assistant Secretary sets aside the decision, and the State agency has taken an action described in subclauses (I) through (III) of clause (i), the State agency shall nullify the action.
+(iv) In deciding an appeal described in clause (ii)(V), the Assistant Secretary may affirm or set aside the decision of the State agency. If the Assistant Secretary sets aside the decision, and the State agency has taken an action described in subclauses (I) through (III) of clause (i), the State agency shall nullify the action.
 
 #### (c) Eligible State area agencies; development of area; preferred area agency on aging designees
 
@@ -164,7 +164,7 @@ Subsec. (a)(2)(G)(ii). Pub. L. 106–501, §304(2)(C), which directed the insert
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-Subsec. (b)(1). Pub. L. 103–171, §2(8), substituted "area under subsection (a)(1) of this section" for "area under clause (1) of subsection (a) of this section" and "designated under subsection (a)(1) of this section" for"designated under clause (1) of subsection (a) of this section".
+Subsec. (b)(1). Pub. L. 103–171, §2(8), substituted "area under subsection (a)(1) of this section" for "area under clause (1) of subsection (a) of this section" and "designated under subsection (a)(1) of this section" for "designated under clause (1) of subsection (a) of this section".
 
 Subsec. (b)(2). Pub. L. 103–171, §2(8), substituted "requirement of subsection (a)(1) of this section" for "requirement of clause (1) of subsection (a) of this section".
 
@@ -252,7 +252,7 @@ Subsec. (c)(5). Pub. L. 97–115, §5(d), added par. (5).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 305 of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b)of Pub. L. 103–171, set out as a note under section 3001 of this title.
+Amendment by section 305 of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
 Amendment by section 305 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 

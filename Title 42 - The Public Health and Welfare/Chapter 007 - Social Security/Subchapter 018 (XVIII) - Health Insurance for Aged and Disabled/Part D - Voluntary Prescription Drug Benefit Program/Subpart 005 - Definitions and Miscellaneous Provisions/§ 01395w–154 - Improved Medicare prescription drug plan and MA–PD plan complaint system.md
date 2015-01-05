@@ -6,11 +6,11 @@ The Secretary shall develop and maintain a complaint system, that is widely know
 
 #### (b) Model electronic complaint form
 
-The Secretary shall develop a model electronic complaint form to be used for reporting plan complaints under the system. Such form shall be prominently displayed on the front page of the Medicare.gov Internet website and on the Internet website of the Medicare Beneficiary Ombudsman.
+The Secretary shall develop a model electronic complaint form to be used for reporting plan complaints under the system. Such formshall be prominently displayed on the front page of the Medicare.gov Internet website and on the Internet website of the Medicare Beneficiary Ombudsman.
 
 #### (c) Annual reports by the Secretary
 
-The Secretary shall submit to Congress annual reports on the system. Such reports shallinclude an analysis of the number and types of complaints reported in the system, geographic variations in such complaints, the timeliness of agency or plan responses to such complaints, and the resolution of such complaints.
+The Secretary shall submit to Congress annual reports on the system. Such reports shall include an analysis of the number and types of complaints reported in the system, geographic variations in such complaints, the timeliness of agency or plan responses to such complaints, and the resolution of such complaints.
 
 #### (d) Definitions
 

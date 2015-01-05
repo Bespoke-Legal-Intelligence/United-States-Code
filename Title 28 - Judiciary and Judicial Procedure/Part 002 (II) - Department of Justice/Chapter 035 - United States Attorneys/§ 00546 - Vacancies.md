@@ -36,7 +36,7 @@ Act
 
 Words "United States attorney" were substituted for "district attorney." (See Reviser's Note under section 501 \[now 541\] of this title.)
 
-Words "The Supreme Court of the Territory, and the district court of the United States for the District ofColumbia" were omitted as obsolete. This section, as revised, applies to all districts enumerated in chapter 5 of this title. There were no provisions respecting vacancies in Hawaii and Puerto Rico. Therefore this section remedies this situation and establishes a uniform method to fill interim vacancies.
+Words "The Supreme Court of the Territory, and the district court of the United States for the District of Columbia" were omitted as obsolete. This section, as revised, applies to all districts enumerated in chapter 5 of this title. There were no provisions respecting vacancies in Hawaii and Puerto Rico. Therefore this section remedies this situation and establishes a uniform method to fill interim vacancies.
 
 Words "and a copy shall be entered on the journal of the court" after "filed in the clerk's office of said court", in section 511 of title 28, U.S.C., 1940 ed., were omitted as unnecessary.
 

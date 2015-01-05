@@ -18,7 +18,7 @@
 
 #### (b) Effective date of regulations
 
-Any regulation prescribed under this section (and any revision thereof) shall take effect after such period as the Administrator finds necessary (after consultation with the Secretary of Transportation) to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
+Any regulation prescribed under this section (and any revision thereof) shall take effect after such period as the Administrator finds necessary (after consultation with the Secretary of Transportation) to permit the development andapplication of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
 
 #### (c) Regulations which create hazards to aircraft safety
 

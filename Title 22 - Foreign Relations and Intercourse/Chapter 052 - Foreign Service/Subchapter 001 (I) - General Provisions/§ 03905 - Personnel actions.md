@@ -14,7 +14,7 @@
 
 The Secretary shall administer the provisions of this chapter and shall prescribe such regulations as may be necessary to ensure that members of the Service, as well as applicants for appointments in the Service—
 
-&emsp;(1) are free from discrimination on the basis of race, color, religion, sex, national origin, age, handicapping condition, marital status, geographic or educational affiliation within the United States, or political affiliation, as prohibited under section 2302(b)(1) of title 5;
+&emsp;(1) are free from discrimination on the basis of race, color, religion, sex, national origin, age, handicapping condition, marital status,geographic or educational affiliation within the United States, or political affiliation, as prohibited under section 2302(b)(1) of title 5;
 
 &emsp;(2) are free from reprisal for—
 

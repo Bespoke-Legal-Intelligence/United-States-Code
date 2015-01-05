@@ -30,7 +30,7 @@ Removal.—An individual serving as Director may be removed from office by the P
 
 &emsp;(4)
 
-Personnel actions.—Except as provided under paragraph (3), nothing in this subsectionshall prohibit a personnel action otherwise authorized by law with respect to the Director of the Census, other than removal.
+Personnel actions.—Except as provided under paragraph (3), nothing in this subsection shall prohibit a personnel action otherwise authorized by law with respect to the Director of the Census, other than removal.
 
 (c)
 

@@ -14,7 +14,7 @@ The purpose of this subchapter is to provide funds to States to enable them to i
 
 A State is not eligible for payment under section 1397ee of this title unless the State has submitted to the Secretary under section 1397ff of this title a plan that—
 
-&emsp;(1) sets forth how the State intends to use the funds provided under this subchapter to provide child health assistance to needy children consistent with the provisions of this subchapter, and
+&emsp;(1) sets forth how the State intends to use the funds provided under this subchapter toprovide child health assistance to needy children consistent with the provisions of this subchapter, and
 
 &emsp;(2) has been approved under section 1397ff of this title.
 

@@ -2,7 +2,7 @@
 
 (a)(1) There is established in the Treasury of the United States the E-Government Fund.
 
-(2) The Fund shall be administered by the Administrator of the General Services Administration to support projects approved by the Director, assisted by the Administrator of the Office of Electronic Government, that enable the Federal Government to expand its ability, throughthe development and implementation of innovative uses of the Internet or other electronic methods, to conduct activities electronically.
+(2) The Fund shall be administered by the Administrator of the General Services Administration to support projects approved by the Director, assisted by the Administrator of the Office of Electronic Government, that enable the Federal Government to expand its ability, through the development and implementation of innovative uses of the Internet or other electronic methods, to conduct activities electronically.
 
 (3) Projects under this subsection may include efforts to—
 

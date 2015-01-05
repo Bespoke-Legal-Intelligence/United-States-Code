@@ -16,11 +16,11 @@
 
 &emsp;(1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee or any other person having an interest in obtaining a waiver of the claim;
 
-&emsp;(2) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
+&emsp;(2) except in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
 
-&emsp;(3) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
+&emsp;(3) except in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
 
-&emsp;(4) in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
+&emsp;(4) in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
 
 &emsp;(5) in the case of a claim involving an erroneous payment of travel, transportation or relocation expenses and allowances, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment was discovered.
 
@@ -32,11 +32,11 @@
 
 (f) This section does not affect any authority under any other statute to litigate, settle, compromise, or waive any claim of the United States.
 
-(g) For the purpose of this section, “agency” means—
+(g) For the purpose of this section, "agency" means—
 
 &emsp;(1) an Executive agency;
 
-&emsp;(2) the Government Printing Office;
+&emsp;(2) the Government Publishing Office;
 
 &emsp;(3) the Library of Congress;
 
@@ -50,53 +50,57 @@
 
 > For purposes of this section, the Director of the Administrative Office of the United States Courts shall be the head of the agency in the case of those entities set forth in paragraph (6) of this subsection.
 
-(g) <sup>1</sup> For the purpose of this section, the term “authorized official” means—
+(g) <sup>1</sup> For the purpose of this section, the term "authorized official" means—
 
 &emsp;(1) the head of an agency, with respect to an agency or employee in the legislative branch; or
 
 &emsp;(2) the Director of the Office of Management and Budget, with respect to any other agency or employee.
 
-(Added Pub. L. 90–616, §1(a), Oct. 21, 1968, 82 Stat. 1212; amended Pub. L. 92–453, §3(1), Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–359, §1, July 25, 1974, 88 Stat. 393; Pub. L. 96–54, §2(a)(35), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–224, §1(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–702, title X, §1009(a), Nov. 19, 1988, 102 Stat. 4667; Pub. L. 102–190, div. A, title VI, §657(a), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §103(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 109–55, title I, §1100(a), Aug. 2, 2005, 119 Stat. 577.)
+(Added Pub. L. 90–616, §1(a), Oct. 21, 1968, 82 Stat. 1212; amended Pub. L. 92–453, §3(1), Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–359, §1, July 25, 1974, 88 Stat. 393; Pub. L. 96–54, §2(a)(35), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–224, §1(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–702, title X, §1009(a), Nov. 19, 1988, 102 Stat. 4667; Pub. L. 102–190, div. A, title VI, §657(a), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §103(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 109–55, title I, §1100(a), Aug. 2, 2005, 119 Stat. 577; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Amendments
 
-<b>2005</b>—Subsec. (g)(7). Pub. L. 109–55 added par. (7) in subsec. (g) defining “agency”.
+<b>2005</b>—Subsec. (g)(7). Pub. L. 109–55 added par. (7) in subsec. (g) defining "agency".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–316, §103(d)(1), in par. (1) substituted “authorized official” for “Comptroller General of the United States”, and in par. (2) inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “authorized official” for “Comptroller General”, and struck out former subpar. (B) which read as follows: “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable official; and”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316, §103(d)(1), in par. (1) substituted "authorized official" for "Comptroller General of the United States", and in par. (2) inserted "and" at end of subpar. (A), redesignated subpar. (C) as (B) and substituted "authorized official" for "Comptroller General", and struck out former subpar. (B) which read as follows: "the claim is not the subject of an exception made by the Comptroller General in the account of any accountable official; and".
 
-Subsec. (b). Pub. L. 104–316, §103(d)(2), substituted “authorized official” for “Comptroller General” in introductory provisions.
+Subsec. (b). Pub. L. 104–316, §103(d)(2), substituted "authorized official" for "Comptroller General" in introductory provisions.
 
-Subsec. (g). Pub. L. 104–316, §103(d)(3), added subsec. (g) defining “authorized official”.
+Subsec. (g). Pub. L. 104–316, §103(d)(3), added subsec. (g) defining "authorized official".
 
-<b>1991</b>—Subsec. (a)(2)(A). Pub. L. 102–190 substituted “$1,500” for “$500”.
+<b>1991</b>—Subsec. (a)(2)(A). Pub. L. 102–190 substituted "$1,500" for "$500".
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–702, §1009(a)(1), added par. (3).
 
 Subsec. (g). Pub. L. 100–702, §1009(a)(2), added par. (6) and last sentence.
 
-<b>1985</b>—Pub. L. 99–224, §1(a)(1), substituted “and of travel, transportation and relocation expenses and allowances” for “other than travel and transportation expenses and allowances and relocation expenses” in section catchline.
+<b>1985</b>—Pub. L. 99–224, §1(a)(1), substituted "and of travel, transportation and relocation expenses and allowances" for "other than travel and transportation expenses and allowances and relocation expenses" in section catchline.
 
-Subsec. (a). Pub. L. 99–224, §1(a)(2), substituted “made on or after July 1, 1960, or arising out of an erroneous payment of travel, transportation or relocation expenses and allowances” for “, other than travel and transportation expenses and allowances and relocation expenses payable under section 5724a of this title, on or after July 1, 1960”.
+Subsec. (a). Pub. L. 99–224, §1(a)(2), substituted "made on or after July 1, 1960, or arising out of an erroneous payment of travel, transportation or relocation expenses and allowances" for ", other than travel and transportation expenses and allowances and relocation expenses payable under section 5724a of this title, on or after July 1, 1960".
 
 Subsec. (b). Pub. L. 99–224, §1(a)(3), added par. (5).
 
-<b>1979</b>—Subsec. (b)(4). Pub. L. 96–54 substituted “July 25, 1974” for “the date on which this clause (4) is enacted into law”.
+<b>1979</b>—Subsec. (b)(4). Pub. L. 96–54 substituted "July 25, 1974" for "the date on which this clause (4) is enacted into law".
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–359, §1(1), substituted “agency” for “executive agency” in provisions preceding cl. (1) and in cl. (2) preceding subcl. (A).
+<b>1974</b>—Subsec. (a). Pub. L. 93–359, §1(1), substituted "agency" for "executive agency" in provisions preceding cl. (1) and in cl. (2) preceding subcl. (A).
 
-Subsec. (b). Pub. L. 93–359, §1(1)–(4), substituted “agency” for “executive agency” in provisions preceding cl. (1), inserted “except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden,” immediately following the designation “(2)” in cl. (2) and immediately following the designation “(3)” in cl. (3), struck out “or” at end of cl. (2), substituted “October 2, 1972, whichever is later; or” for “the effective date of the amendment authorizing the waiver of allowances, whichever is later” in cl. (3) and struck out the period at end of cl. (3), and added cl. (4).
+Subsec. (b). Pub. L. 93–359, §1(1)–(4), substituted "agency" for "executive agency" in provisions preceding cl. (1), inserted "except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden," immediately following the designation "(2)" in cl. (2) and immediately following the designation "(3)" in cl. (3), struck out "or" at end of cl. (2), substituted "October 2, 1972, whichever is later; or" for "the effective date of the amendment authorizing the waiver of allowances, whichever is later" in cl. (3)and struck out the period at end of cl. (3), and added cl. (4).
 
 Subsec. (g). Pub. L. 93–359, §1(5), added subsec. (g).
 
-<b>1972</b>—Pub. L. 92–453 inserted “and allowances, other than travel and transportation expenses and allowances and relocation expenses” in section catchline, and substituted “payment of pay or allowances, other than travel and transportation expenses and allowances and relocation expenses payable under section 5724a of this title” for “payment of pay” in subsec. (a).
+<b>1972</b>—Pub. L. 92–453 inserted "and allowances, other than travel and transportation expenses and allowances and relocation expenses" in section catchline, and substituted "payment of pay or allowances, other than travel and transportation expenses and allowances and relocation expenses payable under section 5724a of this title" for "payment of pay" in subsec. (a).
 
-Subsec. (b)(2). Pub. L. 92–453 inserted “if application for waiver is received in his office” in cl. (2), and substituted “October 21, 1968” for “the effective date of this section.”
+Subsec. (b)(2). Pub. L. 92–453 inserted "if application for waiver is received in his office" in cl. (2), and substituted "October 21, 1968" for "the effective date of this section."
 
 Subsec. (b)(3). Pub. L. 92–453 added cl. (3).
 
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (b)(2) to (4) and (g)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–55, title I, §1100(b), Aug. 2, 2005, 119 Stat. 577, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2006 and each succeeding fiscal year.”
+Pub. L. 109–55, title I, §1100(b), Aug. 2, 2005, 119 Stat. 577, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2006 and each succeeding fiscal year."
 
 #### Effective Date of 1996 Amendment
 
@@ -104,15 +108,15 @@ Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see sectio
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–702, title X, §1009(b), Nov. 19, 1988, 102 Stat. 4668, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any claim arising before the date of the enactment of this Act \[Nov. 19, 1988\] which is pending on such date, and to any claim which arises on or after such date of enactment.”
+Pub. L. 100–702, title X, §1009(b), Nov. 19, 1988, 102 Stat. 4668, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to any claim arising before the date of the enactment of this Act \[Nov. 19, 1988\] which is pending on such date, and to any claim which arises on or after such date of enactment."
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–224, §4, Dec. 28, 1985, 99 Stat. 1742, provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply to any claim arising out of an erroneous payment of travel, transportation, or relocation expenses and allowances made on or after the date of the enactment of this Act \[Dec. 28, 1985\]. The amendments made by sections 2 and 3 of this Act \[amending section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\] shall apply to any claim arising out of an erroneous payment of travel and transportation allowances made on or after the date of the enactment of this Act.”
+Pub. L. 99–224, §4, Dec. 28, 1985, 99 Stat. 1742, provided that: "The amendments made by section 1 of this Act \[amending this section\] shall apply to any claim arising out of an erroneous payment of travel, transportation, or relocation expenses and allowances made on or after the date of the enactment of this Act \[Dec. 28, 1985\]. The amendments made by sections 2 and 3 of this Act \[amending section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\] shall apply to any claim arising out of an erroneous payment of travel and transportation allowances made on or after the date of the enactment of this Act."
 
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54. set out as a note under section 305 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(h)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(h)".</i>
 

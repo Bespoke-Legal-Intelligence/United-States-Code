@@ -62,13 +62,13 @@ A franchising authority may require a cable operator to do any one or more of th
 
 &emsp;(1) Provide 30 days' advance written notice of any change in channel assignment or in the video programming service provided over any such channel.
 
-&emsp;(2) Inform subscribers, via written notice, that comments on programming and channel position changes are being recorded by a designated office of the franchising authority.
+&emsp;(2) Inform subscribers, via written notice, that comments on programming and channelposition changes are being recorded by a designated office of the franchising authority.
 
 #### (i) Disposition of cable upon termination of service
 
 Within 120 days after October 5, 1992, the Commission shall prescribe rules concerning the disposition, after a subscriber to a cable system terminates service, of any cable installed by the cable operator within the premises of such subscriber.
 
-(June 19, 1934, ch. 652, title VI, §624, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2789;amended Pub. L. 102–385, §§15, 16, Oct. 5, 1992, 106 Stat. 1490; Pub. L. 103–414, title III, §§303(a)(23), 304(a)(12), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 104–104, title III, §301(e), Feb. 8, 1996, 110 Stat. 116.)
+(June 19, 1934, ch. 652, title VI, §624, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2789; amended Pub. L. 102–385, §§15, 16, Oct. 5, 1992, 106 Stat. 1490; Pub. L. 103–414, title III, §§303(a)(23), 304(a)(12), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 104–104, title III, §301(e), Feb. 8, 1996, 110 Stat. 116.)
 
 #### References in Text
 

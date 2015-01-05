@@ -54,7 +54,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(C) will maintain equipment and facilities;
 
-&emsp;&emsp;(D) will ensure that, during non-peak hours for transportation using or involving a facility or equipment of a project financed under this section, a fare that is not more than 50 percent of the peak hour fare will be charged for any—
+&emsp;&emsp;(D) will ensure that, during non-peak hours for transportation using or involving afacility or equipment of a project financed under this section, a fare that is not more than 50 percent of the peak hour fare will be charged for any—
 
 &emsp;&emsp;&emsp;(i) senior;
 
@@ -342,7 +342,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(r); added Dec. 18, 1991, Pub. 
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(e)(1); added Jan. 6, 1983, Pub. L. 97–424, §303, 96 Stat. 2143; Apr. 2, 1987, Pub. L. 100–17, §327(b), 101 Stat. 238; Dec. 18, 1991, Pub. L. 102–240, §3013(c), 105 Stat. 2106.
 
-In subsection (a)(2)(A), the word "required" is omitted as surplus. The word "apportion" is substituted for"dispense" for consistency in this chapter. The word "appropriated" is omitted for clarity.
+In subsection (a)(2)(A), the word "required" is omitted as surplus. The word "apportion" is substituted for "dispense" for consistency in this chapter. The word "appropriated" is omitted for clarity.
 
 In subsection (a)(2)(B), the word "authority" is substituted for "agency" for consistency in the revised title and with other titles of the United States Code. The words "by lease, contract, or otherwise" are omitted as surplus.
 
@@ -436,7 +436,7 @@ Pub. L. 112–102, §302(2), substituted "2011 and the period beginning on Octob
 
 Subsec. (b)(2)(E). Pub. L. 112–141, §113002(3), substituted "
 
-Maximum amounts in fiscal years 2008through 2012" for "
+Maximum amounts in fiscal years 2008 through 2012" for "
 
 Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012" in heading and "2012" for "2011 and during the period beginning on October 1, 2011, and ending on June 30, 2012" in introductory provisions.
 
@@ -580,7 +580,7 @@ Subsec. (d)(1)(A). Pub. L. 109–59, §3009(d)(1), inserted ", including safety
 
 Subsec. (d)(1)(E)(iv). Pub. L. 109–59, §3009(d)(2), added cl. (iv).
 
-Subsec. (d)(1)(H). Pub. L. 109–59, §3009(d)(3), substituted "section 5301(a), section 5301(d), and sections5303 through 5306" for "sections 5301(a) and (d), 5303–5306, and 5310(a)–(d) of this title".
+Subsec. (d)(1)(H). Pub. L. 109–59, §3009(d)(3), substituted "section 5301(a), section 5301(d), and sections 5303 through 5306" for "sections 5301(a) and (d), 5303–5306, and 5310(a)–(d) of this title".
 
 Subsec. (d)(1)(J)(i). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" wherever appearing.
 
@@ -724,7 +724,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Pilot Program for Cooperative Procurement of Major Capital Equipment
 
-Pub. L. 108–447, div. H, title I, §167, Dec. 8, 2004, 118 Stat. 3228, required the Secretary to continue the pilot program authorized under section 166 of Pub. L. 108–199, increased the program to 5 pilot projects, and required reports on the results of the projects.
+Pub. L. 108–447, div. H, title I, §167, Dec. 8, 2004, 118 Stat. 3228, required the Secretary to continue the pilotprogram authorized under section 166 of Pub. L. 108–199, increased the program to 5 pilot projects, and required reports on the results of the projects.
 
 Pub. L. 108–199, div. F, title I, §166, Jan. 23, 2004, 118 Stat. 309, required the Secretary to establish a pilot program consisting of 3 pilot projects related to cooperative procurement of major capital equipment and required reports on the results of the projects.
 

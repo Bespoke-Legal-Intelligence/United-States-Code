@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, a group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, may not adjust premium or contribution amountsfor the group covered under such plan on the basis of genetic information.
+&emsp;&emsp;For purposes of this section, a group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, may not adjust premium or contribution amounts for the group covered under such plan on the basis of genetic information.
 
 #### (B) Rule of construction
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(A) The request is made, in writing, pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
-&emsp;&emsp;(B) The plan or issuer clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
+&emsp;&emsp;(B) The plan or issuer clearly indicates to each participant or beneficiary, or in thecase of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
 
 &emsp;&emsp;&emsp;(i) compliance with the request is voluntary; and
 

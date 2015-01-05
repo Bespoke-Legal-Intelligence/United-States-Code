@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1954</b>—Subsec. (b). Act Sept. 3, 1954, substituted “personnel of any branch of the Armed Forces of the United States” for “Army or Navy personnel”.
+<b>1954</b>—Subsec. (b). Act Sept. 3, 1954, substituted "personnel of any branch of the Armed Forces of the United States" for "Army or Navy personnel".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “purchasers”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "purchasers".</i>
 

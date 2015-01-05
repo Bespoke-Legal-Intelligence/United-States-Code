@@ -20,7 +20,7 @@ Each production credit association shall be a body corporate and, subject to sup
 
 &emsp;(9) contribute to the capital of the bank or other production credit associations;
 
-&emsp;(10) invest funds of the association as may be approved by the Farm Credit Bank under regulations of the Farm Credit Administration and deposit the current funds and securities of such with the Farm Credit Bank, a member bank of the Federal Reserve System, or any bank insured under the Federal Deposit Insurance Corporation, and may pay fees therefor and receive interest thereon as may be agreed;
+&emsp;(10) invest funds of the association as may be approved by the Farm Credit Bank under regulations of the Farm Credit Administration and deposit the current funds and securities of such with the Farm Credit Bank, a memberbank of the Federal Reserve System, or any bank insured under the Federal Deposit Insurance Corporation, and may pay fees therefor and receive interest thereon as may be agreed;
 
 &emsp;(11) buy and sell obligations of or insured by the United States or of any agency thereof or of any banks of the Farm Credit System and buy from and sell to such banks, interests in loans and in other financial assistance extended and nonvoting stock, as may be authorized by the Farm Credit Bank in accordance with regulations of the Farm Credit Administration;
 

@@ -44,37 +44,19 @@ Any completed permit application under section 7410 of this title for a major em
 
 (iv) In the case of a permit issued pursuant to clause (iii), such facility shall comply with such emission limitations under such permit as may be necessary to assure that emissions of sulfur oxides and particulates from such facility will not cause or contribute to concentrations of such pollutant which exceed the following maximum allowable increases over the baseline concentration for such pollutants:
 
-Maximum allowable increase (in
+&nbsp;
 
-micrograms per cubic meter)
+| &nbsp; | Maximum allowable increase (in micrograms per cubic meter) |
+| :--- | ---: |
+| Particulate matter: |  |
+| Annual geometric mean | 19&nbsp;&nbsp; |
+| Twenty-four-hour maximum | 37&nbsp;&nbsp; |
+| Sulfur dioxide: |  |
+| Annual arithmetic mean | 20&nbsp;&nbsp; |
+| Twenty-four-hour maximum | 91&nbsp;&nbsp; |
+| Three-hour maximum | 325&nbsp;&nbsp; |
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> Particulate matter:
-
-&nbsp;&nbsp;Annual geometric mean
-
-&nbsp;&nbsp;&nbsp;19
-
-&nbsp;&nbsp;Twenty-four-hour maximum
-
-&nbsp;&nbsp;&nbsp;37
-
-> Sulfur dioxide:
-
-&nbsp;&nbsp;Annual arithmetic mean
-
-&nbsp;&nbsp;&nbsp;20
-
-&nbsp;&nbsp;Twenty-four-hour maximum
-
-&nbsp;&nbsp;&nbsp;91
-
-&nbsp;&nbsp;Three-hour maximum
-
-&nbsp;&nbsp;325
-
-(D)(i) In any case where the owner or operator of a proposed major emitting facility who has been denied a certification under subparagraph (C)(iii) demonstrates to the satisfaction of the Governor, after notice and public hearing, and the Governor finds, that the facility cannot be constructed by reason of any maximum allowable increase for sulfur dioxide for periods of twenty-four hours or less applicable to any class I area and, in the case of Federal mandatory class I areas, that a variance under this clause will not adversely affect the air quality related values of the area (including visibility), the Governor, after consideration of the Federal Land Manager's recommendation (if any) and subject to his concurrence, may grant a variance from such maximum allowable increase. If such variance is granted, a permit may be issued to such source pursuant to the requirements of this subparagraph.
+(D)(i) In any case where the owner or operator of a proposed major emitting facility who has been denied a certification under subparagraph (C)(iii) demonstrates to the satisfaction of the Governor, after notice and public hearing, and the Governor finds, that the facility cannot be constructed by reason of any maximum allowable increase for sulfur dioxide for periods of twenty-four hours or less applicable to any class I area and, in the case of Federal mandatory class I areas, that a variance under this clause will not adversely affect the air quality related values of the area (including visibility), the Governor, after consideration of the Federal Land Manager's recommendation (if any) and subject to his concurrence, may grant a variance fromsuch maximum allowable increase. If such variance is granted, a permit may be issued to such source pursuant to the requirements of this subparagraph.
 
 (ii) In any case in which the Governor recommends a variance under this subparagraph in which the Federal Land Manager does not concur, the recommendations of the Governor and the Federal Land Manager shall be transmitted to the President. The President may approve the Governor's recommendation if he finds that such variance is in the national interest. No Presidential finding shall be reviewable in any court. The variance shall take effect if the President approves the Governor's recommendations. The President shall approve or disapprove such recommendation within ninety days after his receipt of the recommendations of the Governor and the Federal Land Manager.
 
@@ -103,7 +85,7 @@ MAXIMUM ALLOWABLE INCREASE<br>(In micrograms per cubic meter)
 
 &emsp;(C) shall require the results of such analysis shall be available at the time of the public hearing on the application for such permit, and
 
-&emsp;(D) shall specify with reasonable particularity each air quality model or models to beused under specified sets of conditions for purposes of this part.
+&emsp;(D) shall specify with reasonable particularity each air quality model or models to be used under specified sets of conditions for purposes of this part.
 
 > Any model or models designated under such regulations may be adjusted upon a determination, after notice and opportunity for public hearing, by the Administrator that such adjustment is necessary to take into account unique terrain or meteorological characteristics of an area potentially affected by emissions from a source applying for a permit required under this part.
 
@@ -119,5 +101,5 @@ Subsec. (b). Pub. L. 95–190, §14(a)(46), inserted "cause or" before "contribu
 
 Subsec. (d)(2)(C). Pub. L. 95–190, §14(a)(47)–(49), in cl. (ii) substituted "contribute" for "contrbute", in cl. (iii) substituted "quality-related" for "quality related" and "concentrations which" for "concentrations, which", and in cl. (iv) substituted "such facility" for "such sources" and "will not cause or contribute to concentrations of such pollutant which exceed" for "together with all other sources, will not exceed".
 
-Subsec. (d)(2)(D). Pub. L. 95–190, §14(a)(50), (51), in cl. (iii) substituted provisions relating to determinations of amounts of emissions of sulfur oxides from facilities, for provisions relating to determinations of amounts of emissions of sulfur oxides from sources operating under permits issued pursuant to this subpar., together with all other sources, and added cl. (iv).
+Subsec. (d)(2)(D). Pub. L. 95–190, §14(a)(50), (51), in cl. (iii) substituted provisions relating to determinations of amounts of emissions of sulfur oxides from facilities,for provisions relating to determinations of amounts of emissions of sulfur oxides from sources operating under permits issued pursuant to this subpar., together with all other sources, and added cl. (iv).
 

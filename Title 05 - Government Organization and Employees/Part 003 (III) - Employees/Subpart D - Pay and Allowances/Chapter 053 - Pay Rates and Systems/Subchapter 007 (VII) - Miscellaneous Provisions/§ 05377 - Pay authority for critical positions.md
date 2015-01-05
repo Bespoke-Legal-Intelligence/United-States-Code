@@ -2,9 +2,9 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) the term “agency” has the meaning given it by section 5102; and
+&emsp;(1) the term "agency" has the meaning given it by section 5102; and
 
-&emsp;(2) the term “position” means—
+&emsp;(2) the term "position" means—
 
 &emsp;&emsp;(A) a position to which chapter 51 applies, including a position in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) a position in a category as to which a designation is in effect under subsection (i); and
 
-&emsp;&emsp;(G) a position at the Federal Bureau of Investigation, the primary duties and responsibilities of which relate to intelligencefunctions (as determined by the Director of the Federal Bureau of Investigation).
+&emsp;&emsp;(G) a position at the Federal Bureau of Investigation, the primary duties and responsibilities of which relate to intelligence functions (as determined by the Director of the Federal Bureau of Investigation).
 
 (b) Authority under this section—
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) may be granted or exercised only to the extent necessary to recruit or retain an individual exceptionally well qualified for the position.
 
-(c) The Office of Personnel Management, in consultation with the Office of Management and Budget, may, upon the request of the head of an agency, grant authority to fix the rate of basic pay for 1 or more positions in such agency in accordance with this section.
+(c) The Office of Personnel Management, in consultation with the Office of Management andBudget, may, upon the request of the head of an agency, grant authority to fix the rate of basic pay for 1 or more positions in such agency in accordance with this section.
 
 (d)(1) The rate of basic pay fixed under this section by an agency head may not be less than the rate of basic pay (including any comparability payments) which would then otherwise be payable for the position involved if this section had never been enacted.
 
@@ -52,7 +52,7 @@
 
 &emsp;(2) the name of each employee to whom a higher rate of pay was paid under this section during any portion of the period covered by such report, the rate on rates paid under this section during such period, the dates between which each such higher rate was paid, and the rate or rates that would have been paid but for this section.
 
-(i)(1) For the purpose of this subsection, the term “position” means the work, consisting of the duties and responsibilities, assignable to an employee, except that such term does not include any position under subsection (a)(2)(A)–(E).
+(i)(1) For the purpose of this subsection, the term "position" means the work, consisting of the duties and responsibilities, assignable to an employee, except that such term does not include any position under subsection (a)(2)(A)–(E).
 
 (2) At the request of an agency head, the President may designate 1 or more categories of positions within such agency to be treated, for purposes of this section, as positions within the meaning of subsection (a)(2).
 
@@ -66,13 +66,13 @@ Level I of the Executive Schedule, referred to in subsec. (d)(2), is set out in 
 
 <b>2004</b>—Subsec. (a)(2)(G). Pub. L. 108–447 added subpar. (G).
 
-Subsec. (c). Pub. L. 108–411, §102(1), (2), substituted “Office of Management and Budget” for “Office of Personnel Management” and “Office of Personnel Management” for “Office of Management and Budget”.
+Subsec. (c). Pub. L. 108–411, §102(1), (2), substituted "Office of Management and Budget" for "Office of Personnel Management" and "Office of Personnel Management" for "Office of Management and Budget".
 
-Subsec. (e)(1), (f). Pub. L. 108–411, §102(2), substituted “Office of Personnel Management” for “Office of Management and Budget”.
+Subsec. (e)(1), (f). Pub. L. 108–411, §102(2), substituted "Office of Personnel Management" for "Office of Management and Budget".
 
-Subsec. (g). Pub. L. 108–411, §102(1)–(3), substituted “Office of Personnel Management” for “Office of Management and Budget” and “Office of Management and Budget” for “Office of Personnel Management” and struck out “prescribing regulations under this section or” before “making any decision”.
+Subsec. (g). Pub. L. 108–411, §102(1)–(3), substituted "Office of Personnel Management" for "Office of Management and Budget" and "Office of Management and Budget" for "Office of Personnel Management" and struck out "prescribing regulations under this section or" before "making any decision".
 
-Subsec. (h). Pub. L. 108–411, §102(2), (4), in introductory provisions, substituted “Office of Personnel Management” for “Office of Management and Budget” and “Committee on Government Reform” for “Committee on Post Office and Civil Service”.
+Subsec. (h). Pub. L. 108–411, §102(2), (4), in introductory provisions, substituted "Office of Personnel Management" for "Office of Management and Budget" and "Committee on Government Reform" for "Committee on Post Office and Civil Service".
 
 <b>1992</b>—Subsec. (a)(2)(E), (F). Pub. L. 102–378, §2(34)(A), added subpars. (E) and (F).
 
@@ -90,5 +90,5 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Delegation of Functions
 
-Functions of President under this section assigned to the Director of the Office of Personnel Management bysection 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
+Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 

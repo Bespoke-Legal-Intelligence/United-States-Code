@@ -6,7 +6,7 @@
 
 &emsp;(2) from any place where there is imminent danger to the life of the employee or the lives of the dependents or immediate family of the employee.
 
-(b) Subject to adjustment of the account of an employee under section 5524 of this title and other applicable statute, the advance paymentof pay, allowances, and differentials is at rates currently authorized with respect to the employee on the date the advance payment is made under agency procedures governing advance payments under this subsection. The rates so authorized may not exceed the rates to which the employee was entitled immediately before issuance of the departure order.
+(b) Subject to adjustment of the account of an employee under section 5524 of this title andother applicable statute, the advance payment of pay, allowances, and differentials is at rates currently authorized with respect to the employee on the date the advance payment is made under agency procedures governing advance payments under this subsection. The rates so authorized may not exceed the rates to which the employee was entitled immediately before issuance of the departure order.
 
 (c) An advance of funds under subsection (a) of this section is recoverable by the Government of the United States or the government of the District of Columbia, as the case may be, from the employee or his estate by—
 
@@ -36,9 +36,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted “departure” for “evacuation”, substituted “is officially authorized or ordered” for “is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family”, and added pars. (1) and (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted "departure" for "evacuation", substituted "is officially authorized or ordered" for "is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family", and added pars. (1) and (2).
 
-Subsec. (b). Pub. L. 96–465, §2303(b), substituted “departure” for “evacuation” after “issuance of the”.
+Subsec. (b). Pub. L. 96–465, §2303(b), substituted "departure" for "evacuation" after "issuance of the".
 
 #### Effective Date of 1980 Amendment
 

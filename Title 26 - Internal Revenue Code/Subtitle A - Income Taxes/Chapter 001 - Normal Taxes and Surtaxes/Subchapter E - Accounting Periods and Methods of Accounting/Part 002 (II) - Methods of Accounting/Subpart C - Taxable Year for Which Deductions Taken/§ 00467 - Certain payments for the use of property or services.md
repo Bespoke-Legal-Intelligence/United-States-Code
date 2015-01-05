@@ -130,43 +130,17 @@ For purposes of this section—
 
 #### (A) In general
 
-<b> </b>
+&nbsp;
 
-<b>The statutory</b>
-
-<b> In the case of:</b>
-
-<b>recovery period is:</b>
-
-&nbsp;&nbsp;3-year property
-
-3 years&nbsp;&nbsp;
-
-&nbsp;&nbsp;5-year property
-
-5 years&nbsp;&nbsp;
-
-&nbsp;&nbsp;7-year property
-
-7 years&nbsp;&nbsp;
-
-&nbsp;&nbsp;10-year property
-
-10 years&nbsp;&nbsp;
-
-&nbsp;&nbsp;15-year and 20-year property
-
-15 years&nbsp;&nbsp;
-
-&nbsp;&nbsp;Residential rental property and nonresi-     dential real property
-
-19 years&nbsp;&nbsp;
-
-&nbsp;&nbsp;Any railroad grading or tunnel bore
-
-50 years.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> In the case of:</b> | <b>The statutory recoveryperiod is:</b> |
+| :--- | ---: |
+| 3-year property | 3 years&nbsp;&nbsp; |
+| 5-year property | 5 years&nbsp;&nbsp; |
+| 7-year property | 7 years&nbsp;&nbsp; |
+| 10-year property | 10 years&nbsp;&nbsp; |
+| 15-year and 20-year property | 15 years&nbsp;&nbsp; |
+| Residential rental property and nonresidential real property | 19 years&nbsp;&nbsp; |
+| Any railroad grading or tunnel bore | 50 years. |
 
 #### (B) Special rule for property not depreciable under section 168
 
@@ -190,7 +164,7 @@ Under regulations prescribed by the Secretary, rules comparable to the rules of 
 
 #### (g) Comparable rules for services
 
-Under regulations prescribed by the Secretary, rules comparable to the rules of subsection (a)(2) shall also apply in the case of payments for services which meet requirements comparable to the requirements of subsection (d). The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.
+Under regulations prescribed by the Secretary, rules comparable to the rules of subsection (a)(2) shall also apply in the case of payments for services which meet requirements comparable to the requirements of subsection (d). The preceding sentence shall not apply to any amount to whichsection 404 or 404A (or any other provision specified in regulations) applies.
 
 #### (h) Regulations
 
@@ -310,39 +284,15 @@ Schedule.—
 
 In general.—The schedule under this subparagraph is as follows:
 
-<b> </b>
+&nbsp;
 
-<b>Cumulative percentage</b>
-
-<b> </b>
-
-<b>of total rent</b>
-
-<b>   "Portion of lease term:</b>
-
-<b>deemed paid:</b>
-
-&emsp;&emsp;1st 1/5
-
-10&nbsp;&nbsp;
-
-&emsp;&emsp;2nd 1/5
-
-25&nbsp;&nbsp;
-
-&emsp;&emsp;3rd 1/5
-
-45&nbsp;&nbsp;
-
-&emsp;&emsp;4th 1/5
-
-70&nbsp;&nbsp;
-
-&emsp;&emsp;Last 1/5
-
-100\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> "Portion of lease term:</b> | <b>Cumulative percentage of total rent deemed paid:</b> |
+| :--- | ---: |
+| 1st 1/5 | 10&nbsp;&nbsp; |
+| 2nd 1/5 | 25&nbsp;&nbsp; |
+| 3rd 1/5 | 45&nbsp;&nbsp; |
+| 4th 1/5 | 70&nbsp;&nbsp; |
+| Last 1/5 | 100\. |
 
 &emsp;&emsp;"(ii)
 

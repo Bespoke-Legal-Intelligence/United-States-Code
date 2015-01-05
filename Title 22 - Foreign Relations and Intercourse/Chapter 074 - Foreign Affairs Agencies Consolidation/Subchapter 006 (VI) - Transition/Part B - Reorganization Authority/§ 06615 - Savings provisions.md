@@ -30,7 +30,7 @@ All orders, determinations, rules, regulations, permits, agreements, grants, con
 
 #### (c) No effect on judicial or administrative proceedings
 
-Except as provided in subsection (e) of this section and section 6543(d) of this title—
+Except as provided in subsection (e) and section 6543(d) of this title—
 
 &emsp;(1) the provisions of this chapter shall not affect suits commenced prior to the effective dates of the respective subchapters of this chapter; and
 
@@ -42,7 +42,7 @@ No suit, action, or other proceeding commenced by or against any officer in the 
 
 #### (e) Continuation of proceeding with substitution of parties
 
-If, before the effective date of any subchapter of this chapter, any Federal agency, or officer thereof in the official capacity of such officer, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary or any other official of the Department, then effective on such date such suit shall be continued with the Secretary or other appropriate official of the Department substituted or added as a party.
+If, before the effective date of any subchapter of this chapter, any Federal agency, or officerthereof in the official capacity of such officer, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary or any other official of the Department, then effective on such date such suit shall be continued with the Secretary or other appropriate official of the Department substituted or added as a party.
 
 #### (f) Reviewability of orders and actions under transferred functions
 

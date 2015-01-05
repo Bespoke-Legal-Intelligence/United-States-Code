@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of ensuring compliance with the Customs laws of the United States and other laws enforced by the Customs Service, including the provisions of law described inparagraph (2), a Customs officer may, subject to the provisions of this section, stop and search at the border, without a search warrant, mail of domestic origin transmitted for export by the United States Postal Service and foreign mail transiting the United States that is being imported or exported by the United States Postal Service.
+&emsp;For purposes of ensuring compliance with the Customs laws of the United States and other laws enforced by the Customs Service, including the provisions of law described in paragraph (2), a Customs officer may, subject to the provisions of this section, stop and search at the border, without a search warrant, mail of domestic origin transmitted for export by the United States Postal Service and foreign mail transiting the United States that is being imported or exported by the United States Postal Service.
 
 #### (2) Provisions of law described
 
@@ -70,8 +70,6 @@ Notwithstanding any other provision of this section, subsection (a)(1) of this s
 
 #### References in Text
 
-The Customs laws of the United States, referred to in subsec. (a)(1), are classified generally to this title.
-
 The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(F) and (c)(1)(I), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
@@ -96,7 +94,7 @@ Pub. L. 107–210, div. A, title III, §344(c), Aug. 6, 2002, 116 Stat. 987, pro
 
 "(1)
 
-In general.—Except as provided in paragraph (2), this section \[enacting this section and provisions setout as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Aug. 6, 2002\].
+In general.—Except as provided in paragraph (2), this section \[enacting this section and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Aug. 6, 2002\].
 
 "(2)
 

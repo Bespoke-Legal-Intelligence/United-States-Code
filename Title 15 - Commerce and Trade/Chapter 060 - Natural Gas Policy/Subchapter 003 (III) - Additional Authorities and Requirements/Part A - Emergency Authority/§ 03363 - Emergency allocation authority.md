@@ -110,7 +110,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 #### (e) Limitation
 
-No order may be issued under this section unless the President determines that such order will not require transportation of natural gas by any pipeline in excess of its available transportation capacity.
+No order may be issued under this section unless the President determines that such orderwill not require transportation of natural gas by any pipeline in excess of its available transportation capacity.
 
 #### (f) Industry assistance
 
@@ -134,7 +134,7 @@ The President may request that representatives of pipelines, local distribution 
 
 &emsp;For the purpose of any supplemental order under paragraph (1), if the party making emergency deliveries pursuant to subsection (c) or (d) of this section—
 
-&emsp;&emsp;(A) indicates a preference for compensation in kind, the President shall direct thatcompensation in kind be provided as expeditiously as practicable;
+&emsp;&emsp;(A) indicates a preference for compensation in kind, the President shall direct that compensation in kind be provided as expeditiously as practicable;
 
 &emsp;&emsp;(B) indicates a preference for compensation, or the President determines that, notwithstanding paragraph (A) of this subsection, any portion thereof cannot practicably be compensated in kind, the President shall calculate the amount of compensation—
 

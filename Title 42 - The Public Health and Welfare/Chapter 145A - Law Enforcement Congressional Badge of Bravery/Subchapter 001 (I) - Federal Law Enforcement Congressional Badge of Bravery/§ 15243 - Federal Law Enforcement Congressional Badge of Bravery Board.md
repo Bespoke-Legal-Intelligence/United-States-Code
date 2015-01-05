@@ -72,7 +72,7 @@ The Federal Board shall do the following:
 
 #### (3) Voting and rules
 
-&emsp;A majority of Federal Board members shall constitute a quorum to conduct business, but the Federal Board may establish a lesser quorum for conducting hearings scheduled bythe Federal Board. The Federal Board may establish by majority vote any other rules for the conduct of the business of the Federal Board, if such rules are not inconsistent with this subchapter or other applicable law.
+&emsp;A majority of Federal Board members shall constitute a quorum to conduct business, but the Federal Board may establish a lesser quorum for conducting hearings scheduled by the Federal Board. The Federal Board may establish by majority vote any other rules for the conduct of the business of the Federal Board, if such rules are not inconsistent with this subchapter or other applicable law.
 
 #### (e) Powers
 
@@ -102,7 +102,7 @@ The Federal Board shall do the following:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), each Federal Board member shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such Federal Board member is engaged in the performance of the duties of the Federal Board.
+&emsp;Except as provided in paragraph (2), each Federal Board member shall be compensatedat a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such Federal Board member is engaged in the performance of the duties of the Federal Board.
 
 #### (2) Prohibition of compensation for government employees
 

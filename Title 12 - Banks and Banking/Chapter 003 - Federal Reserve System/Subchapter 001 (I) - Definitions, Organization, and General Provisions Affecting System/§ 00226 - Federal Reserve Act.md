@@ -42,7 +42,7 @@ Pub. L. 96–221, §1, Mar. 31, 1980, 94 Stat. 132, provided that: "This Act \[e
 
 Pub. L. 96–221, title I, §101, Mar. 31, 1980, 94 Stat. 132, provided that: "This title \[enacting section 248a of this title, amending sections 248, 342, 347b, 355, 360, 412, 461, 463, and 1425a of this title and enacting provisions set out as notes under sections 248 and 355 of this title\] may be cited as the 'Monetary Control Act of 1980'."
 
-Pub. L. 96–221, title III, §301, Mar. 31, 1980, 94 Stat. 145, provided that: "This title \[amending sections 371a, 1431, 1464, 1724, 1728, 1752, 1757, 1763, 1785, 1787, 1795 to 1795i, 1813, 1817, 1821, 1828, and 1832 of this title and enacting provisions set out as notes under sections 371a, 1724, 1787, 1813, and 1817 of this title\] may be cited as the 'Consumer Checking Account Equity Act of 1980'."
+Pub. L. 96–221, title III, §301, Mar. 31, 1980, 94 Stat. 145, provided that: "This title \[amending sections 371a, 1431, 1464, 1724, 1728, 1752, 1757, 1763, 1785, 1787, 1795 to 1795i, 1813, 1817, 1821, 1828, and 1832 of this title and enacting provisions set out as notes under sections 371a, 1724,1787, 1813, and 1817 of this title\] may be cited as the 'Consumer Checking Account Equity Act of 1980'."
 
 #### Short Title of 1978 Amendment
 

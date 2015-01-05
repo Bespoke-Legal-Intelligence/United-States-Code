@@ -34,7 +34,7 @@ The requirements of this subsection are as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) in addition to such requirements, no person shall, in selling or offering to sell a qualified long-term care insurance contract, misrepresent a material fact; and
 
-&emsp;&emsp;&emsp;&emsp;(II) no such requirements shall include a requirement to inquire or identifywhether a prospective applicant or enrollee for long-term care insurance has accident and sickness insurance.
+&emsp;&emsp;&emsp;&emsp;(II) no such requirements shall include a requirement to inquire or identify whether a prospective applicant or enrollee for long-term care insurance has accident and sickness insurance.
 
 &emsp;&emsp;&emsp;(v) Section 22 (relating to appropriateness of recommended purchase).
 
@@ -84,7 +84,7 @@ For purposes of this section, the term "qualified long-term care insurance contr
 
 #### (f) Coordination with State requirements
 
-If a State imposes any requirement which is more stringent than the analogous requirement imposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
+If a State imposes any requirement which is more stringent than the analogous requirementimposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
 
 (Added Pub. L. 104–191, title III, §326(a), Aug. 21, 1996, 110 Stat. 2065.)
 

@@ -656,9 +656,11 @@ Pub. L. 107–73, title I, §108, Nov. 26, 2001, 115 Stat. 658.
 
 #### Department of Homeland Security Working Capital Fund
 
-Pub. L. 113–6, div. D, title V, §504, Mar. 26, 2013, 127 Stat. 367, provided that: "The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2013: <i>Provided</i>, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President's fiscal year 2013 budget: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: <i>Provided further</i>, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: <i>Provided further</i>, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: <i>Provided further</i>, That the Working Capital Fund shall be subject to the requirements of section 503 of this Act \[127 Stat. 366\]."
+Pub. L. 113–76, div. F, title V, §504, Jan. 17, 2014, 128 Stat. 270, provided that: "The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2014: <i>Provided</i>, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President's fiscal year 2014 budget: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: <i>Provided further</i>, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: <i>Provided further</i>, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: <i>Provided further</i>, That the Committees on Appropriations of the Senate and House of Representatives shall be notified of any activity added to or removed from the fund: <i>Provided further</i>, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–6, div. D, title V, §504, Mar. 26, 2013, 127 Stat. 367.
 
 Pub. L. 112–74, div. D, title V, §504, Dec. 23, 2011, 125 Stat. 969.
 
@@ -690,7 +692,7 @@ Establishment.—There is authorized to be established on a pilot program basis 
 
 "(b)
 
-Uses.—Each such fund may provide, consistent with guidelines established by the Director of the Office of Management and Budget, such common administrative support services to the agency and to other agencies as the head of such agency, with the concurrence of the Director, determines can be provided more efficiently through such a fund than by other means. To provide such services, each such fund is authorized to acquire the capital equipment, automated data processing systems, and financial management and management information systems needed. Services shall be provided by such funds on a competitive basis.
+Uses.—Each such fund may provide, consistent with guidelines established by the Director of the Office of Management and Budget, such common administrative support services to the agency and to otheragencies as the head of such agency, with the concurrence of the Director, determines can be provided more efficiently through such a fund than by other means. To provide such services, each such fund is authorized to acquire the capital equipment, automated data processing systems, and financial management and management information systems needed. Services shall be provided by such funds on a competitive basis.
 
 "(c)
 
@@ -776,7 +778,7 @@ Findings.—The Congress finds the following:
 
 Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note above\] are the following:
 
-&emsp;"(1) Bring more effective general and financial management practices to the Federal Government through statutory provisions which would establish in the Office of Management and Budget a Deputy Director for Management, establish an Office of Federal Financial Management headed by a Controller, and designate a Chief Financial Officer in each executive department and in each major executive agency in the Federal Government.
+&emsp;"(1) Bring more effective general and financial management practices to the Federal Governmentthrough statutory provisions which would establish in the Office of Management and Budget a Deputy Director for Management, establish an Office of Federal Financial Management headed by a Controller, and designate a Chief Financial Officer in each executive department and in each major executive agency in the Federal Government.
 
 &emsp;"(2) Provide for improvement, in each agency of the Federal Government, of systems of accounting, financial management, and internal controls to assure the issuance of reliable financial information and to deter fraud, waste, and abuse of Government resources.
 
@@ -872,9 +874,9 @@ Last April, I created a President's Advisory Council on Executive Organization a
 
 The past 30 years have seen enormous changes in the size, structure and functions of the Federal Government. The budget has grown from less than $10 billion to $200 billion. The number of civilian employees has risen from one million to more than two and a half million. Four new Cabinet departments have been created, along with more than a score of independent agencies. Domestic policy issues have become increasingly complex. The interrelationships among Government programs have become more intricate. Yet the organization of the President's policy and management arms has not kept pace.
 
-Over three decades, the Executive Office of the President has mushroomed but not by conscious design. In many areas it does not provide the kind of staff assistance and support the President needs in order to deal with the problems of government in the 1970s. We confront the 1970s with a staff organization geared in large measure to the tasks of the 1940s and 1950s.
+Over three decades, the Executive Office of the President has mushroomed but not by conscious design. In many areas it does not provide the kind of staff assistance and support the President needs in order to dealwith the problems of government in the 1970s. We confront the 1970s with a staff organization geared in large measure to the tasks of the 1940s and 1950s.
 
-One result, over the years, has been a tendency to enlarge the immediate White House staff—that is, the President's personal staff, as distinct from the institutional structure—to assist with management functions for which the President is responsible. This has blurred the distinction between personal staff and managementinstitutions; it has left key management functions to be performed only intermittently and some not at all. It has perpetuated outdated structures.
+One result, over the years, has been a tendency to enlarge the immediate White House staff—that is, the President's personal staff, as distinct from the institutional structure—to assist with management functions for which the President is responsible. This has blurred the distinction between personal staff and management institutions; it has left key management functions to be performed only intermittently and some not at all. It has perpetuated outdated structures.
 
 Another result has been, paradoxically, to inhibit the delegation of authority to Departments and agencies.
 
@@ -930,7 +932,7 @@ Under the reorganization plan, the technical and formal means by which the Offic
 
 As soon as the reorganization plan takes effect, I intend to delegate those statutory functions to the Director of the new Office of Management and Budget, including those under section 212 of the Budget and Accounting Act, 1921 \[31 U.S.C. 1113\].
 
-However, creation of the Office of Management and Budget represents far more than a mere change of name for the Bureau of the Budget. It represents a basic change in concept and emphasis, reflecting the broader management needs of the Office of the President.
+However, creation of the Office of Management and Budget represents far more than a mere change of name for the Bureau of the Budget. It represents a basic change in concept and emphasis, reflecting thebroader management needs of the Office of the President.
 
 The new Office will still perform the key function of assisting the President in the preparation of the annual Federal budget and overseeing its execution. It will draw upon the skills and experience of the extraordinarily able and dedicated career staff developed by the Bureau of the Budget. But preparation of the budget as such will no longer be its dominant, overriding concern.
 
@@ -972,7 +974,7 @@ The White House, March 12, 1970.
 
 #### Abolition of Domestic Council
 
-Domestic Council, established by Reorg. Plan No. 2 of 1970, §201, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2086, set out above, abolished by Reorg. Plan No. 1 of 1977, §3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified byPresident. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in Domestic Council to President with power to delegate performance of such transferred functions within Executive Office of President.
+Domestic Council, established by Reorg. Plan No. 2 of 1970, §201, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2086, set out above, abolished by Reorg. Plan No. 1 of 1977, §3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by President. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in Domestic Council to President with power to delegate performance of such transferred functions within Executive Office of President.
 
 #### Ex. Ord. No. 11541. Prescribing Duties of Office of Management and Budget and Domestic Council
 
@@ -1028,7 +1030,7 @@ Section 1. There are hereby transferred to the Administrator of General Services
 
 Sec. 2. There are hereby transferred to the Secretary of Commerce all functions being performed on the date of this order in the Office of Management and Budget relating to the establishment of Government-wide automatic data processing standards, including the function of approving standards on behalf of the President pursuant to section 111(f)(2) of the Federal Property and Administrative Services Act of 1949, as amended \[former 40 U.S.C. 759(f)(2)\].
 
-Sec. 3. (a) The functions transferred to the Administrator of the General Services Administration and tothe Secretary of Commerce by this order do not include those performed in connection with the general oversight responsibilities of the Director of the Office of Management and Budget, as the head of that agency and as Assistant to the President for executive management, and the functions transferred by this order shall be performed subject to such general oversight to the same extent that other functions of the General Services Administration and the Department of Commerce, respectively, are so performed.
+Sec. 3. (a) The functions transferred to the Administrator of the General Services Administration and to the Secretary of Commerce by this order do not include those performed in connection with the general oversight responsibilities of the Director of the Office of Management and Budget, as the head of that agency and as Assistant to the President for executive management, and the functions transferred by this order shall be performed subject to such general oversight to the same extent that other functions of the General Services Administration and the Department of Commerce, respectively, are so performed.
 
 (b) The functions vested in the President by the first sentence of section 111(g) of the Federal Property and Administrative Services Act of 1949, as amended \[former 40 U.S.C. 759(g)\], with respect to fiscal control of automatic data processing activities shall continue to be performed by the Director of the Office of Management and Budget. No function vested by statute in the Director shall be deemed to be affected by the provisions of this order.
 
@@ -1082,9 +1084,9 @@ Sec. 3. Executive Order No. 11491, as amended \[5 U.S.C. 7101 note\], is further
 
 "The Office of Personnel Management, in conjunction with the Director of the Office of Management and Budget, shall establish and maintain a program for the policy guidance of agencies on labor-management relations in the Federal service and shall periodically review the implementation of these policies. The Office of Personnel Management shall be responsible for the day-to-day policy guidance under that program. The Office of Personnel Management also shall continuously review the operation of the Federal labor-management relations program to assist in assuring adherence to its provisions and merit system requirements; implement technical advice and information programs for the agencies; assist in the development of programs for training agency personnel and management officials in labor-management relations; and, from time to time, report to the Council on the state of the program with any recommendations for its improvement.".
 
-Sec. 4. Section 5(a) of Executive Order No. 11636 of December 17, 1971 \[formerly set out as a note under 22 U.S.C. 801\], establishing an Employee-Management Relations Commission as a committee of the Board of the Foreign Service, is amended by deleting: "The representative of the Office of Management and Budget shall be the Chairman of the Commission" and substituting therefor "The representative of the Office of Personnel Management shall be the Chairman of the Commission".
+Sec. 4. Section 5(a) of Executive Order No. 11636 of December 17, 1971 \[formerly set out as a note under 22 U.S.C. 801\], establishing an Employee-Management Relations Commission as a committee of the Board of theForeign Service, is amended by deleting: "The representative of the Office of Management and Budget shall be the Chairman of the Commission" and substituting therefor "The representative of the Office of Personnel Management shall be the Chairman of the Commission".
 
-Sec. 5. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred or reassigned by this Order from the Office of Management and Budget to the Office of PersonnelManagement, are hereby transferred to the Office of Personnel Management.
+Sec. 5. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred or reassigned by this Order from the Office of Management and Budget to the Office of Personnel Management, are hereby transferred to the Office of Personnel Management.
 
 Sec. 6. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
@@ -1226,7 +1228,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (e) "State and local governments" means the government of any State of the United States, the District of Columbia, any commonwealth, territory, or possession of the United States, and any county, municipality, city, town, township, local public authority, school district, special district, intrastate district, regional or interstate governmental entity, council of governments, and any agency or instrumentality of a local government, and any federally recognized Indian Tribe.
 
-Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[formerly set out under section 601 of Title 5, Government Organization and Employees\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State and local governments should have greater freedom to privatize infrastructure assets.
+Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[formerly set out under section 601of Title 5, Government Organization and Employees\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State and local governments should have greater freedom to privatize infrastructure assets.
 
 (b) Private enterprise and competitively driven improvements are the foundation of our Nation's economy and economic growth. Federal financing of infrastructure assets should not act as a barrier to the achievement of economic efficiencies through additional private market financing or competitive practices, or both.
 
@@ -1274,11 +1276,11 @@ Sec. 2. The purpose of this order is to achieve real reductions in the administr
 
 (a) For fiscal year 1994, all agencies shall submit budget requests that reflect no less than a 3 percent reduction in administrative expenses from the amount made available for fiscal year 1993 adjusted for inflation;
 
-(b) For fiscal year 1995, all agencies shall submit budget requests that reflect no less than a 6 percent reduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation;
+(b) For fiscal year 1995, all agencies shall submit budget requests that reflect no less than a 6 percent reduction in administrative expenses from the amountsmade available for fiscal year 1993 adjusted for inflation;
 
 (c) For fiscal year 1996, all agencies shall submit budget requests that reflect no less than a 9 percent reduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation;
 
-(d) For fiscal year 1997, all agencies shall submit budget requests that reflect no less than a 14 percentreduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation.
+(d) For fiscal year 1997, all agencies shall submit budget requests that reflect no less than a 14 percent reduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation.
 
 Sec. 3. The Director shall review agency requests for administrative expenses. The Director shall ensure that all agency requests for such expenses are reduced in accordance with section 2. To the extent that any agency fails to comply with the mandates of section 2, the Director is authorized to reduce the request for administrative expenses in that agency's budget to achieve the appropriate reduction.
 

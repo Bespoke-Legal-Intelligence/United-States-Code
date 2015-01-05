@@ -1,6 +1,6 @@
 ### §4725. Relationship to other laws
 
-All actions taken by Federal agencies in implementing the provisions of section 4722 of thistitle shall be consistent with all applicable Federal, State, and local environmental laws. Nothing in this chapter shall affect the authority of any State or political subdivision thereof to adopt or enforce control measures for aquatic nuisance species, or diminish or affect the jurisdiction of any State over species of fish and wildlife. Compliance with the control and eradication measures of any State or political subdivision thereof regarding aquatic nuisance species shall not relieve any person of the obligation to comply with the provisions of this subchapter.
+All actions taken by Federal agencies in implementing the provisions of section 4722 of this title shall be consistent with all applicable Federal, State, and local environmental laws. Nothing in this chapter shall affect the authority of any State or political subdivision thereof to adopt or enforce control measures for aquatic nuisance species, or diminish or affect the jurisdiction of any State over species of fish and wildlife. Compliance with the control and eradication measures of any State or political subdivision thereof regarding aquatic nuisance species shall not relieve any person of the obligation to comply with the provisions of this subchapter.
 
 (Pub. L. 101–646, title I, §1205, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 

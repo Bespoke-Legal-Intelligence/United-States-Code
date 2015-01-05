@@ -34,7 +34,7 @@ In addition to the activities described in subsection (a) of this section, a rec
 
 &emsp;(3) Acquiring proven and effective courses and curricula that include integrated technology and are designed to help students meet challenging State academic content and student academic achievement standards.
 
-&emsp;(4) Utilizing technology to develop or expand efforts to connect schools and teachers with parents and students to promote meaningful parental involvement, to foster increased communication about curricula, assignments, and assessments between students, parents, and teachers, and to assist parents to understand the technology being applied in their child's education, so that parents are able to reinforce at home the instruction their child receives at school.
+&emsp;(4) Utilizing technology to develop or expand efforts to connect schools and teachers with parents and students to promote meaningful parental involvement, to foster increased communication about curricula, assignments, and assessments between students, parents, and teachers, and to assist parents to understand the technology being applied in their child'seducation, so that parents are able to reinforce at home the instruction their child receives at school.
 
 &emsp;(5) Preparing one or more teachers in elementary schools and secondary schools as technology leaders who are provided with the means to serve as experts and train other teachers in the effective use of technology, and providing bonus payments to the technology leaders.
 

@@ -120,7 +120,7 @@ Offense.—A person commits an offense if, in violation of a statute, or a regul
 
 &emsp;&emsp;"(F) any other object; or
 
-&emsp;"(2) being an inmate of a Federal penal or correctional facility, he makes, possesses, procures, orotherwise provides himself with, or attempts to make, possess, procure, or otherwise provide himself with, anything described in paragraph (1).
+&emsp;"(2) being an inmate of a Federal penal or correctional facility, he makes, possesses, procures, or otherwise provides himself with, or attempts to make, possess, procure, or otherwise provide himself with, anything described in paragraph (1).
 
 "(b)
 

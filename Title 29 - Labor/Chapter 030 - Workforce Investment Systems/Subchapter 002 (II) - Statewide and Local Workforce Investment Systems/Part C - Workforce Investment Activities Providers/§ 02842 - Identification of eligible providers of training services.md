@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) shall submit an application, to the local board for the local area in which the provider desires to provide training services, at such time and in such manner as may be required, and containing a description of the program;
 
-&emsp;&emsp;&emsp;(ii) if the provider provides training services through a program on the date of application, shall include in the application an appropriate portion of the performance information and program cost information described in subsection (d) of this sectionfor the program, as specified in the procedure, and shall meet appropriate levels of performance for the program, as specified in the procedure; and
+&emsp;&emsp;&emsp;(ii) if the provider provides training services through a program on the date of application, shall include in the application an appropriate portion of the performance information and program cost information described in subsection (d) of this section for the program, as specified in the procedure, and shall meet appropriate levels of performance for the program, as specified in the procedure; and
 
 &emsp;&emsp;&emsp;(iii) if the provider does not provide training services on such date, shall meet appropriate requirements, as specified in the procedure.
 
@@ -80,7 +80,7 @@
 
 &emsp;In establishing the procedure, the Governor shall require that, to be eligible to continue to receive funds as described in subsection (a) of this section for a program after the initial period of eligibility, a provider described in subsection (a)(2) of this section shall—
 
-&emsp;&emsp;(A) submit the performance information and program cost information described in subsection (d)(1) of this section for the program and any additional information required to be submitted in accordance with subsection (d)(2) of this section for the program annually to the appropriate local board at such time and in such manner as may be required; and
+&emsp;&emsp;(A) submit the performance information and program cost information described insubsection (d)(1) of this section for the program and any additional information required to be submitted in accordance with subsection (d)(2) of this section for the program annually to the appropriate local board at such time and in such manner as may be required; and
 
 &emsp;&emsp;(B) annually meet the performance levels described in paragraph (6) for the program, as demonstrated utilizing quarterly records described in section 2871 of this title, in a manner consistent with section 2871 of this title.
 
@@ -204,13 +204,17 @@ The Governor shall establish procedures for providers of training services to ap
 
 #### (2) Collection and dissemination of information
 
-&emsp;A one-stop operator in a local area shall collect such performance information from on-the-job training and customized training providers as the Governor may require, determine whether the providers meet such performance criteria as the Governor may require, and disseminate information identifying providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
+&emsp;A one-stop operator in a local area shall collect such performance information from on-the-job training and customized training providers as the Governor may require, determinewhether the providers meet such performance criteria as the Governor may require, and disseminate information identifying providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
 
 #### (i) Administration
 
 The Governor shall designate a State agency to make the determinations described in subsection (e)(2) of this section, take the enforcement actions described in subsection (f) of this section, and carry out other duties described in this section.
 
 (Pub. L. 105–220, title I, §122, Aug. 7, 1998, 112 Stat. 965.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
 
 #### References in Text
 
@@ -219,4 +223,8 @@ The Higher Education Act of 1965, referred to in subsecs. (a)(2)(A)(i) and (d)(3
 The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 This Act, referred to in subsec. (f)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

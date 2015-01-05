@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (D) The purchasers of the stocks of Burley tobacco from the 1984 crop shall pay the full carrying charges that have accrued to such tobacco from April 7, 1986, to the date such tobacco is removed from the inventories of the associations.
 
-(3)(A) After the 2-year period specified in subsection (a)(3)(B) of this section has expired, if the Commodity Credit Corporation offers to sell the stocks of the Corporation of Burley tobacco from the 1983 crop to domestic manufacturers of cigarettes, such stocks shall be offered for sale at the costs of the association, including carrying charges, as of the date on which the Corporation calls the loans on such tobacco, reduced by 90 percent.
+(3)(A) After the 2-year period specified in subsection (a)(3)(B) has expired, if the Commodity Credit Corporation offers to sell the stocks of the Corporation of Burley tobacco from the 1983 crop to domestic manufacturers of cigarettes, such stocks shall be offered for sale at the costs of the association, including carrying charges, as of the date on which the Corporation calls the loans on such tobacco, reduced by 90 percent.
 
 (B) Neither tobacco producers nor tobacco purchasers shall be responsible for carrying charges that accrue to the 1983 crop of Burley tobacco after the date on which the Commodity Credit Corporation calls the loans on such tobacco.
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (1)(A) Each domestic manufacturer of cigarettes may enter into agreements to purchase inventory stocks of Flue-cured and Burley tobacco, in accordance with this section.
 
-(B) To be eligible for the reductions in price specified in this section, such manufacturer shall enter into such agreements as soon as practicable, but not later than 90 days after April 7, 1986, except that, with respect to the 1983 crop of Burley tobacco, if the Corporation offers to sell the stocks of such tobacco pursuant to subsection (b)(3)(A) of this section, such agreements shall be entered into as soon as practicable, but not later than 90 days after the end of the 2-year period referred to in subsection (a)(3)(B) of this section.
+(B) To be eligible for the reductions in price specified in this section, such manufacturer shall enter into such agreements as soon as practicable, but not later than 90 days after April 7, 1986, except that, with respect to the 1983 crop of Burley tobacco, if the Corporation offers to sell the stocks of such tobacco pursuant to subsection (b)(3)(A), such agreements shall be entered into as soon as practicable, but not later than 90 days after the end of the 2-year period referred to in subsection (a)(3)(B).
 
 (C)(i) Such agreements shall provide that, over a period of time, each participating domestic manufacturer of cigarettes shall purchase a percentage of the stocks of Flue-cured and Burley tobacco held—
 
@@ -54,9 +54,9 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 &emsp;(II) in the case of Burley tobacco from the 1982 and 1984 crops, 5 years from April 7, 1986; and
 
-&emsp;(III) in the case of the 1983 crop of Burley tobacco, 5 years from the end of the 2-year period referred to in subsection (a)(3)(B) of this section.
+&emsp;(III) in the case of the 1983 crop of Burley tobacco, 5 years from the end of the 2-year period referred to in subsection (a)(3)(B).
 
-(2)(A)(i) The percentage to be purchased by each participating manufacturer shall be at least equal to the respective percentage of the participating manufacturer of the total quantity of net cigarettes manufactured for use asdetermined by the Secretary of Agriculture under this paragraph on the basis of the monthly reports ("Manufacturer of Tobacco Products—Monthly Reports") submitted by manufacturers of tobacco products to the Tax and Trade Bureau of the Department of the Treasury.
+(2)(A)(i) The percentage to be purchased by each participating manufacturer shall be at least equal to the respective percentage of the participating manufacturer of the total quantity of net cigarettes manufactured for use as determined by the Secretary of Agriculture under this paragraph on the basis of the monthly reports ("Manufacturer of Tobacco Products—Monthly Reports") submitted by manufacturers of tobacco products to the Tax and Trade Bureau of the Department of the Treasury.
 
 (ii) The Secretary of Agriculture shall request from the Secretary of the Treasury copies of such monthly reports necessary to make the determinations required under this section.
 
@@ -132,7 +132,7 @@ Section 1314g of this title, referred to in subsec. (e), was repealed by Pub. L.
 
 #### Codification
 
-Section was enacted as part of the Consolidated Omnibus Budget Reconciliation Act of 1985, and not as part of the Agricultural Act of 1949 which is classifiedprincipally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Consolidated Omnibus Budget Reconciliation Act of 1985, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 

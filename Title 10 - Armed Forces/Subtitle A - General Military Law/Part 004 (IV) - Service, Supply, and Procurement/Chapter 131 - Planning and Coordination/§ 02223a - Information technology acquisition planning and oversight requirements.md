@@ -28,6 +28,106 @@ Program Components.—The program established under subsection (a) shall include
 
 (Added Pub. L. 111–383, div. A, title VIII, §805(a)(1), Jan. 7, 2011, 124 Stat. 4259.)
 
+#### Modular Open Systems Approaches in Acquisition Programs
+
+Pub. L. 113–291, div. A, title VIII, §801, Dec. 19, 2014, 128 Stat. 3425, provided that:
+
+"(a)
+
+Plan for Modular Open Systems Approach Through Development and Adoption of Standards and Architectures.—Not later than January 1, 2016, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit a report to the Committees on Armed Services of the Senate and the House of Representatives detailing a plan to develop standards and define architectures necessary to enable open systems approaches in the key mission areas of the Department of Defense with respect to which the Under Secretary determines that such standards and architectures would be feasible and cost effective.
+
+"(b)
+
+Consideration of Modular Open Systems Approaches.—
+
+&emsp;"(1) Review of acquisition guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall review current acquisition guidance, and modify such guidance as necessary, to—
+
+&emsp;&emsp;"(A) ensure that acquisition programs include open systems approaches in the product design and acquisition of information technology systems to the maximum extent practicable; and
+
+&emsp;&emsp;"(B) for any information technology system not using an open systems approach, ensure that written justification is provided in the contract file for the system detailing why an open systems approach was not used.
+
+&emsp;"(2)
+
+Elements.—The review required in paragraph (1) shall—
+
+&emsp;&emsp;"(A) consider whether the guidance includes appropriate exceptions for the acquisition of—
+
+&emsp;&emsp;&emsp;"(i) commercial items; and
+
+&emsp;&emsp;&emsp;"(ii) solutions addressing urgent operational needs;
+
+&emsp;&emsp;"(B) determine the extent to which open systems approaches should be addressed in analysis of alternatives, acquisition strategies, system engineering plans, and life cycle sustainment plans; and
+
+&emsp;&emsp;"(C) ensure that increments of acquisition programs consider the extent to which the increment will implement open systems approaches as a whole.
+
+&emsp;"(3)
+
+Deadline for review.—The review required in this subsection shall be completed no later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\].
+
+"(c)
+
+Treatment of Ongoing and Legacy Programs.—
+
+&emsp;"(1)
+
+Report requirement.—Not later than one year after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report covering the matters specified in paragraph (2).
+
+&emsp;"(2)
+
+Matters covered.—Subject to paragraph (3), the report required in this subsection shall—
+
+&emsp;&emsp;"(A) identify all information technology systems that are in development, production, or deployed status as of the date of the enactment of this Act, that are or were major defense acquisition programs or major automated information systems, and that are not using an open systems approach;
+
+&emsp;&emsp;"(B) identify gaps in standards and architectures necessary to enable open systems approaches in the key mission areas of the Department of Defense, as determined pursuant to the plan submitted under subsection (a); and
+
+&emsp;&emsp;"(C) outline a process for potential conversion to an open systems approach for each information technology system identified under subparagraph (A).
+
+&emsp;"(3)
+
+Limitations.—The report required in this subsection shall not include information technology systems—
+
+&emsp;&emsp;"(A) having a planned increment before fiscal year 2021 that will result in conversion to an open systems approach; and
+
+&emsp;&emsp;"(B) that will be in operation for fewer than 15 years after the date of the enactment of this Act.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Information technology.—The term 'information technology' has the meaning given the term in section 11101(6) of title 40, United States Code.
+
+&emsp;"(2)
+
+Open systems approach.—The term 'open systems approach' means, with respect to an information technology system, an integrated business and technical strategy that—
+
+&emsp;&emsp;"(A) employs a modular design and uses widely supported and consensus-based standards for key interfaces;
+
+&emsp;&emsp;"(B) is subjected to successful validation and verification tests to ensure key interfaces comply with widely supported and consensus-based standards; and
+
+&emsp;&emsp;"(C) uses a system architecture that allows components to be added, modified, replaced, removed, or supported by different vendors throughout the lifecycle of the system to afford opportunities for enhanced competition and innovation while yielding—
+
+&emsp;&emsp;&emsp;"(i) significant cost and schedule savings; and
+
+&emsp;&emsp;&emsp;"(ii) increased interoperability."
+
+#### Operational Metrics for Joint Information Environment and Supporting Activities
+
+Pub. L. 113–291, div. A, title VIII, §854, Dec. 19, 2014, 128 Stat. 3459, provided that:
+
+"(a)
+
+Guidance.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense, acting through the Chief Information Officer of the Department of Defense, shall issue guidance for measuring the operational effectiveness and efficiency of the Joint Information Environment within the military departments, Defense Agencies, and combatant commands. The guidance shall include a definition of specific metrics for data collection, and a requirement for each military department, Defense Agency, and combatant command to regularly collect and assess data on such operational effectiveness and efficiency and report the results to such Chief Information Officer on a regular basis.
+
+"(b)
+
+Baseline Architecture.—The Chief Information Officer of the Department of Defense shall identify a baseline architecture for the Joint Information Environment by identifying and reporting to the Secretary of Defense any information technology programs or other investments that support that architecture.
+
+"(c)
+
+Joint Information Environment Defined.—In this section, the term 'Joint Information Environment' means the initiative of the Department of Defense to modernize the information technology networks and systems within the Department."
+
 #### Supervision of the Acquisition of Cloud Computing Capabilities
 
 Pub. L. 113–66, div. A, title IX, §938, Dec. 26, 2013, 127 Stat. 835, provided that:
@@ -78,7 +178,7 @@ Limitations.—
 
 &emsp;&emsp;"(A)
 
-Before performance plan.—During the period beginning on the date of the enactment of this Act \[Dec. 31, 2011\] and ending on May 1, 2012, a department, agency, or component of the Department of Defense may not obligate funds for a data serverfarm or data center unless approved by the Chief Information Officer of the Department of Defense or the Chief Information Officer of a component of the Department to whom the Chief Information Officer of the Department has specifically delegated such approval authority.
+Before performance plan.—During the period beginning on the date of the enactment of this Act \[Dec. 31, 2011\] and ending on May 1, 2012, a department, agency, or component of the Department of Defense may not obligate funds for a data server farm or data center unless approved by the Chief Information Officer of the Department of Defense or the Chief Information Officer of a component of the Department to whom the Chief Information Officer of the Department has specifically delegated such approval authority.
 
 &emsp;&emsp;"(B)
 

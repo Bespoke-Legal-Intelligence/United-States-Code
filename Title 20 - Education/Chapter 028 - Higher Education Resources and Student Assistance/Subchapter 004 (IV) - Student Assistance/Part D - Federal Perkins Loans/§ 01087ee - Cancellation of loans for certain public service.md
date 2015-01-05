@@ -24,7 +24,7 @@
 
 &emsp;(E) as a volunteer under the Peace Corps Act \[22 U.S.C. 2501 et seq.\] or a volunteer under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\];
 
-&emsp;(F) as a full-time law enforcement officer or corrections officer for service to local, State,or Federal law enforcement or corrections agencies, or as a full-time attorney employed in a defender organization established in accordance with section 3006A(g)(2) of title 18;
+&emsp;(F) as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies, or as a full-time attorney employed in a defender organization established in accordance with section 3006A(g)(2) of title 18;
 
 &emsp;(G) as a full-time teacher of mathematics, science, foreign languages, bilingual education, or any other field of expertise where the State educational agency determines there is a shortage of qualified teachers;
 
@@ -86,7 +86,7 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 > &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such <sup>1</sup> subsequent years.
 
-(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e),Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947.)
+(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92�
 
 <b>2009</b>—Subsec. (a)(6). Pub. L. 111–39 substituted "12601" for "12571".
 
-<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–315, §465(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;".
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–315, §465(1)(A), added subpar. (A) and struck out former subpar. (A)which read as follows: "as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;".
 
 Subsec. (a)(2)(B). Pub. L. 110–315, §465(1)(B), substituted "Head Start Act, or in a prekindergarten or child care program that is licensed or regulated by the State, that" for "Head Start Act which".
 

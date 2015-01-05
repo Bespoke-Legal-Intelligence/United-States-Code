@@ -14,7 +14,7 @@ Subject to the provisions of this section and other applicable law, the Director
 
 &emsp;(5) review the Plan not less than annually, and revise the Plan as appropriate; and
 
-&emsp;(6) ensure that the Plan serves as a broad, binding statement of policies regarding AIDS activities of the agencies, but does not remove the responsibility of the heads of the agencies for the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the Plan.
+&emsp;(6) ensure that the Plan serves as a broad, binding statement of policies regarding AIDSactivities of the agencies, but does not remove the responsibility of the heads of the agencies for the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the Plan.
 
 #### (b) Certain components of Plan
 
@@ -50,7 +50,7 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 &emsp;&emsp;(ii) A budget estimate developed on the assumption that the amounts appropriated will be sufficient only for—
 
-&emsp;&emsp;&emsp;(I) continuing the conduct by the agencies of the National Institutes of Health of existing AIDS activities (if approved for continuation), and continuing the support of such activities by the agencies in the case of projects or programs for which theagencies have made a commitment of continued support; and
+&emsp;&emsp;&emsp;(I) continuing the conduct by the agencies of the National Institutes of Health of existing AIDS activities (if approved for continuation), and continuing the support of such activities by the agencies in the case of projects or programs for which the agencies have made a commitment of continued support; and
 
 &emsp;&emsp;&emsp;(II) carrying out, of activities that are in addition to activities specified in subclause (I), only such activities for which the Director determines there is the most substantial need.
 

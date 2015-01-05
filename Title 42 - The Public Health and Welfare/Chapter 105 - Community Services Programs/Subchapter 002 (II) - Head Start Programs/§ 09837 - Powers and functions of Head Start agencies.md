@@ -104,7 +104,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;(v) Exceptions shall be made to the requirements of clauses (i) through (iv) for members of a governing body when those members oversee a public entity and are selected to their positions with the public entity by public election or political appointment.
 
-&emsp;&emsp;&emsp;(vi) If a person described in clause (i), (ii), or (iii) is not available to serve as a member of the governing body, the governing body shall use a consultant, or an other individual with relevant expertise, with the qualifications described in that clause, who shall work directly with the governing body.
+&emsp;&emsp;&emsp;(vi) If a person described in clause (i), (ii), or (iii) is not available to serve as a member of the governing body, the governing body shall use a consultant, or another individual with relevant expertise, with the qualifications described in that clause, who shall work directly with the governing body.
 
 #### (C) Conflict of interest
 
@@ -284,7 +284,7 @@ To be so designated, a Head Start agency shall collaborate and coordinate with p
 
 &emsp;&emsp;(iii) ensure a smooth transition to school for such children.
 
-&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C.9858 et seq.), the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
+&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\], the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
 
 &emsp;(4) Take steps to coordinate activities with the local educational agency serving the community involved and with schools in which children participating in the Head Start program will enroll following the program, including—
 
@@ -352,7 +352,7 @@ To be so designated, each Head Start agency shall—
 
 &emsp;(5) use research-based assessment methods that reflect the characteristics described in section 9836a(b)(2) of this title in order to support the educational instruction and school readiness of children in the program;
 
-&emsp;(6) use research-based developmental screening tools that have been demonstrated to be standardized, reliable, valid, and accurate for the child being assessed, to the maximum extent practicable, for the purpose of meetingthe relevant standards described in section 9836a(a)(1) of this title;
+&emsp;(6) use research-based developmental screening tools that have been demonstrated to be standardized, reliable, valid, and accurate for the child being assessed, to the maximum extent practicable, for the purpose of meeting the relevant standards described in section 9836a(a)(1) of this title;
 
 &emsp;(7) adopt, in consultation with experts in child development and with classroom teachers, an evaluation to assess whether classroom teachers have mastered the functions discussed in section 9843a(a)(1) of this title;
 
@@ -382,7 +382,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15), and (e)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(3), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(3), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
 The Social Security Act, referred to in subsec. (e)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Social Security Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -416,7 +416,7 @@ Subsec. (b)(11). Pub. L. 105–285, §109(2)(G), added par. (11).
 
 Subsec. (c). Pub. L. 105–285, §109(3), inserted "and collaborate" after "shall coordinate" and "and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)" after "(20 U.S.C. 2741 et seq.)" and substituted "the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), and other early childhood education and development" for "section 602(g) of this title, and other".
 
-Subsec. (d)(1). Pub. L. 105–285, §109(4)(A), substituted "take steps to ensure, to the maximum extent possible,that children maintain" for "carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain" and "build" for "to build" and inserted "and educational" after "developmental".
+Subsec. (d)(1). Pub. L. 105–285, §109(4)(A), substituted "take steps to ensure, to the maximum extent possible, that children maintain" for "carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain" and "build" for "to build" and inserted "and educational" after "developmental".
 
 Subsec. (d)(2), (3). Pub. L. 105–285, §109(4)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to coordination between Head Start agency and local education agency and schools.
 

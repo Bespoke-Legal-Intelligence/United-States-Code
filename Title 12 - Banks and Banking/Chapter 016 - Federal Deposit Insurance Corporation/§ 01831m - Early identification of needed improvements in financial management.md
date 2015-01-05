@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(A) the information required to be provided by—
 
-&emsp;&emsp;&emsp;(i) the institution's management under subsection (b) of this section; and
+&emsp;&emsp;&emsp;(i) the institution's management under subsection (b); and
 
-&emsp;&emsp;&emsp;(ii) an independent public accountant under subsections (c) and (d) of this section; and
+&emsp;&emsp;&emsp;(ii) an independent public accountant under subsections (c) and (d); and
 
 &emsp;&emsp;(B) such other information as the Corporation and the appropriate Federal banking agency may determine to be necessary to assess the financial condition and management of the institution.
 
@@ -48,7 +48,7 @@ Each insured depository institution shall prepare—
 
 #### (1) In general
 
-&emsp;With respect to any internal control report required by subsection (b)(2) of this section of any institution, the institution's independent public accountant shall attest to, and report separately on, the assertions of the institution's management contained in such report.
+&emsp;With respect to any internal control report required by subsection (b)(2) of any institution, the institution's independent public accountant shall attest to, and report separately on, the assertions of the institution's management contained in such report.
 
 #### (2) Attestation requirements
 
@@ -94,7 +94,7 @@ Each insured depository institution shall prepare—
 
 #### (B) Duties
 
-&emsp;&emsp;An independent audit committee's duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
+&emsp;&emsp;An independent audit committee's duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d).
 
 #### (C) Criteria applicable to committees of large insured depository institutions
 
@@ -198,7 +198,7 @@ Each insured depository institution shall prepare—
 
 #### (1) In general
 
-&emsp;Except with respect to any audit requirements established under or pursuant to subsection (d) of this section, the requirements of this section may be satisfied for insured depository institutions that are subsidiaries of a holding company, if—
+&emsp;Except with respect to any audit requirements established under or pursuant to subsection (d), the requirements of this section may be satisfied for insured depository institutions that are subsidiaries of a holding company, if—
 
 &emsp;&emsp;(A) services and functions comparable to those required under this section are provided at the holding company level; and
 

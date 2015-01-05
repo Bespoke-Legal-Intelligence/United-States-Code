@@ -2,13 +2,13 @@
 
 #### (a) Contributions to State unemployment funds
 
-(1) The taxpayer may, to the extent provided in this subsection and subsection (c), creditagainst the tax imposed by section 3301 the amount of contributions paid by him into an unemployment fund maintained during the taxable year under the unemployment compensation law of a State which is certified as provided in section 3304 for the 12-month period ending on October 31 of such year.
+(1) The taxpayer may, to the extent provided in this subsection and subsection (c), credit against the tax imposed by section 3301 the amount of contributions paid by him into an unemployment fund maintained during the taxable year under the unemployment compensation law of a State which is certified as provided in section 3304 for the 12-month period ending on October 31 of such year.
 
 (2) The credit shall be permitted against the tax for the taxable year only for the amount of contributions paid with respect to such taxable year.
 
 (3) The credit against the tax for any taxable year shall be permitted only for contributions paid on or before the last day upon which the taxpayer is required under section 6071 to file a return for such year; except that credit shall be permitted for contributions paid after such last day, but such credit shall not exceed 90 percent of the amount which would have been allowable as credit on account of such contributions had they been paid on or before such last day.
 
-(4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
+(4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of creditagainst the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
 
 (5) In the case of wages paid by the trustee of an estate under title 11 of the United States Code, if the failure to pay contributions on time was without fault by the trustee, paragraph (3) shall be applied by substituting "100 percent" for "90 percent".
 
@@ -38,7 +38,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;&emsp;(ii) the average employer contribution rate for such State for the calendar year preceding such taxable year.
 
-> The provisions of the preceding sentence shall not be applicable with respect to the taxable year beginning January 1, 1975, or any succeeding taxable year which begins before January 1, 1980; and, for purposes of such sentence, January 1, 1980, shall be deemed to be the first January 1 occurring after January 1, 1974, and consecutive taxable years in the period commencing January 1, 1980, shall be determined as if the taxable year which begins on January 1, 1980, were the taxable year immediately succeedingthe taxable year which began on January 1, 1974. Subparagraph (C) shall not apply with respect to any taxable year to which it would otherwise apply (but subparagraph (B) shall apply to such taxable year) if the Secretary of Labor determines (on or before November 10 of such taxable year) that the State meets the requirements of subsection (f)(2)(B) for such taxable year.
+> The provisions of the preceding sentence shall not be applicable with respect to the taxable year beginning January 1, 1975, or any succeeding taxable year which begins before January 1, 1980; and, for purposes of such sentence, January 1, 1980, shall be deemed to be the first January 1 occurring after January 1, 1974, and consecutive taxable years in the period commencing January 1, 1980, shall be determined as if the taxable year which begins on January 1, 1980, were the taxable year immediately succeeding the taxable year which began on January 1, 1974. Subparagraph (C) shall not apply with respect to any taxable year to which it would otherwise apply (but subparagraph (B) shall apply to such taxable year) if the Secretary of Labor determines (on or before November 10 of such taxable year) that the State meets the requirements of subsection (f)(2)(B) for such taxable year.
 
 (3) If the Secretary of Labor determines that a State, or State agency, has not—
 
@@ -98,7 +98,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;(2) such other person is not an employer for the calendar year in which the acquisition takes place,
 
-> then, for the calendar year in which the acquisition takes place, in addition to the credits allowed under subsections (a) and (b), such employer may credit against the tax imposed bysection 3301 for such year an amount equal to the credits which (without regard to subsection (c)) would have been allowable to such other person under subsections (a) and (b) and this subsection for such year, if such other person had been an employer, with respect to remuneration subject to contributions under the unemployment compensation law of a State paid by such other person to the individual or individuals described in paragraph (1).
+> then, for the calendar year in which the acquisition takes place, in addition to the credits allowed under subsections (a) and (b), such employer may credit against the tax imposed by section 3301 for such year an amount equal to the credits which (without regard to subsection (c)) would have been allowable to such other person under subsections (a) and (b) and this subsection for such year, if such other person had been an employer, with respect to remuneration subject to contributions under the unemployment compensation law of a State paid by such other person to the individual or individuals described in paragraph (1).
 
 #### (f) Limitation on credit reduction
 
@@ -130,25 +130,11 @@ Subject to the limits provided by subsection (c), if—
 
 #### (4) State unemployment tax rate
 
-&emsp;For purposes of this subsection—
+&emsp;For purposes of this subsection, the State unemployment tax rate for any taxable year is the percentage obtained by dividing—
 
-#### (A) In general
+&emsp;&emsp;(A) the total amount of contributions paid into the State unemployment fund with respect to such taxable year, by
 
-&emsp;&emsp;The State unemployment tax rate for any taxable year is the percentage obtained by dividing—
-
-&emsp;&emsp;&emsp;(i) the total amount of contributions paid into the State unemployment fund with respect to such taxable year, by
-
-&emsp;&emsp;&emsp;(ii) the total amount of the remuneration subject to contributions under the State unemployment compensation law with respect to such taxable year (determined without regard to any limitation on the amount of wages subject to contribution under the State law).
-
-#### (B) Treatment of additional tax under this chapter
-
-#### (i) Taxable year 1983
-
-&emsp;&emsp;&emsp;In the case of taxable year 1983, any additional tax imposed under this chapter with respect to any State by reason of subsection (c)(2) shall be treated as contributions paid into the State unemployment fund with respect to such taxable year.
-
-#### (ii) Taxable year 1984
-
-&emsp;&emsp;&emsp;In the case of taxable year 1984, any additional tax imposed under this chapter with respect to any State by reason of subsection (c)(2) shall (to the extent such additional tax is attributable to a credit reduction in excess of 0.6 of wages attributable to such State) be treated as contributions paid into the State unemployment fund with respect to such taxable year.
+&emsp;&emsp;(B) the total amount of the remuneration subject to contributions under the State unemployment compensation law with respect to such taxable year (determined without regard to any limitation on the amount of wages subject to contribution under the State law).
 
 #### (5) Benefit cost ratio
 
@@ -174,17 +160,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;&emsp;The term "reimbursing employer" means any governmental entity or other organization (or group of governmental entities or any other organizations) which makes reimbursements in lieu of contributions to the State unemployment fund.
 
-#### (D) Special rules for years before 1985
-
-#### (i) Taxable year 1983
-
-&emsp;&emsp;&emsp;For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
-
-#### (ii) Taxable year 1984
-
-&emsp;&emsp;&emsp;For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1984, only regular compensation (as so defined) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1981.
-
-#### (E) Rounding
+#### (D) Rounding
 
 &emsp;&emsp;If any percentage determined under subparagraph (A) is not a multiple of .1 percent, such percentage shall be reduced to the nearest multiple of .1 percent.
 
@@ -240,7 +216,11 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;The Secretary of Labor may require a State to furnish such information at such time and in such manner as may be necessary for purposes of paragraph (2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919.)
+#### (h) Treatment of certified professional employer organizations
+
+If a certified professional employer organization (as defined in section 7705), or a customer of such organization, makes a contribution to the State's unemployment fund with respect to wages paid to a work site employee, such certified professional employer organization shall be eligible for the credits available under this section with respect to such contribution.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 113–295, div. A, title II, §221(a)(101), div. B, title II, §206(c)(1), Dec. 19, 2014, 128 Stat. 4052, 4070.)
 
 #### References in Text
 
@@ -250,11 +230,15 @@ Section 239 of the Trade Act of 1974, referred to in subsec. (c)(3)(A), (B), is 
 
 The date of the enactment of this subsection, referred to in subsec. (f)(2)(A), (B), means the date of the enactment of Pub. L. 97–35 which was approved Aug. 13, 1981.
 
-Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(5)(D)(i), is section 205 of Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, which is set out as a note under section 3304 of this title.
-
 The date of the enactment of this subsection, referred to in subsec. (g)(2)(C), means the date of the enactment of Pub. L. 97–248, which was approved Sept. 3, 1982.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(4). Pub. L. 113–295, §221(a)(101)(A), substituted "subsection, the" for "subsection—", subpar. (A) designation and heading "In general", and "The"; redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigned margins; and struck out former subpar. (B) which related to treatment of additional tax under this chapter for taxable years 1983 and 1984.
+
+Subsec. (f)(5)(D), (E). Pub. L. 113–295, §221(a)(101)(B), redesignated subpar. (E) as (D) and struck out former subpar. (D) which related to special rules for years before 1985.
+
+Subsec. (h). Pub. L. 113–295, §206(c)(1), added subsec. (h).
 
 <b>1986</b>—Subsec. (c)(2)(B). Pub. L. 99–514, §1884(1), substituted "denominator" for second reference to "determination", and in cl. (i) inserted "percent" after "2.7" and struck out "percent" after "is to be made".
 
@@ -328,6 +312,12 @@ Subsec. (e). Pub. L. 87–321 added subsec. (e).
 
 Subsec. (d). Pub. L. 86–778 added subsec. (d).
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. B, title II, §206(g)(1), Dec. 19, 2014, 128 Stat. 4071, provided that: "The amendments made by this section \[enacting sections 3511 and 7705 of this title and amending this section and sections 3303, 6053, 6652, and 7528 of this title\] shall apply with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
+
+Amendment by section 221(a)(101) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 1983 Amendment
 
 Pub. L. 98–21, title V, §512(a)(2), Apr. 20, 1983, 97 Stat. 146, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxable year 1983 and taxable years thereafter."
@@ -361,6 +351,14 @@ Pub. L. 88–173, §1(d), Nov. 7, 1963, 77 Stat. 306, provided that: "The amendm
 #### Effective Date of 1961 Amendment
 
 Pub. L. 87–321, §1(b), Sept. 26, 1961, 75 Stat. 683, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to the calendar year 1961 and each calendar year thereafter."
+
+#### Construction
+
+Pub. L. 113–295, div. B, title II, §206(h), Dec. 19, 2014, 128 Stat. 4071, provided that: "Nothing contained in this section \[enacting sections 3511 and 7705 of this title, amending this section and sections 3303, 6053, 6652, and 7528 of this title, and enacting provisions set out as notes under this section and section 7705 of this title\] or the amendments made by this section shall be construed to create any inference with respect to the determination of who is an employee or employer—
+
+&emsp;"(1) for Federal tax purposes (other than the purposes set forth in the amendments made by this section), or
+
+&emsp;"(2) for purposes of any other provision of law."
 
 #### Extension of Period for Repayment of Federal Loans to State Unemployment Funds
 
@@ -442,7 +440,7 @@ Transitional rule for certain small businesses.—
 
 &emsp;"(A)
 
-In general.—Notwithstanding section 3303 of the Internal Revenue Code of 1986, in the case of taxable years beginning after December 31, 1984, and before January 1, 1989, a taxpayer shall be allowed the additional credit under section 3302(b) of such Code with respect to any employee covered by a qualified small business provision if the requirements of subparagraph (B) are met with respect to such employee.
+In general.—Notwithstanding section 3303 of the Internal Revenue Code of 1986, in the case of taxable years beginning after December 31, 1984, and before January 1, 1989, a taxpayer shall be allowed the additional credit under section 3302(b) of such Code with respect to any employee covered by a qualifiedsmall business provision if the requirements of subparagraph (B) are met with respect to such employee.
 
 &emsp;"(B)
 

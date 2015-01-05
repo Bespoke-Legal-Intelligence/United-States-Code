@@ -1,36 +1,12 @@
 ### §199. Income attributable to domestic production activities
 
-#### (a) Allowance of deduction
+#### (a) (a) <sup>1</sup> Allowance of deduction
 
-#### (1) In general
+There shall be allowed as a deduction an amount equal to 9 percent of the lesser of—
 
-&emsp;There shall be allowed as a deduction an amount equal to 9 percent of the lesser of—
+&emsp;(1) the qualified production activities income of the taxpayer for the taxable year, or
 
-&emsp;&emsp;(A) the qualified production activities income of the taxpayer for the taxable year, or
-
-&emsp;&emsp;(B) taxable income (determined without regard to this section) for the taxable year.
-
-#### (2) Phasein
-
-&emsp;In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentagecontained therein the transition percentage determined under the following table:
-
-<b>For taxable years</b>
-
-<b>The transition</b>
-
-<b>beginning in:</b>
-
-<b>percentage is:</b>
-
-&nbsp;2005 or 2006
-
-3&nbsp;&nbsp;
-
-&nbsp;2007, 2008, or 2009
-
-6\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;(2) taxable income (determined without regard to this section) for the taxable year.
 
 #### (b) Deduction limited to wages paid
 
@@ -58,9 +34,9 @@
 
 &emsp;&emsp;In the case of a qualified film, such term shall include compensation for services performed in the United States by actors, production personnel, directors, and producers.
 
-#### (3) Acquisitions and dispositions
+#### (3) Acquisitions, dispositions, and short taxable years
 
-&emsp;The Secretary shall provide for the application of this subsection in cases where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
+&emsp;The Secretary shall provide for the application of this subsection in cases of a short taxable year or where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
 
 #### (c) Qualified production activities income
 
@@ -190,7 +166,7 @@ For purposes of this section—
 
 #### (2) Application to individuals
 
-&emsp;In the case of an individual, subsections (a)(1)(B) and (d)(9)(A)(iii) shall be applied by substituting "adjusted gross income" for "taxable income". For purposes of the preceding sentence, adjusted gross income shall be determined—
+&emsp;In the case of an individual, subsections (a)(2) and (d)(9)(A)(iii) shall be applied by substituting "adjusted gross income" for "taxable income". For purposes of the preceding sentence, adjusted gross income shall be determined—
 
 &emsp;&emsp;(A) after application of sections 86, 135, 137, 219, 221, 222, and 469, and
 
@@ -264,7 +240,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) qualified production activities income shall be determined without regard to any adjustments under sections 56 through 59, and
 
-&emsp;&emsp;(B) in the case of a corporation, subsection (a)(1)(B) shall be applied by substituting "alternative minimum taxable income" for "taxable income".
+&emsp;&emsp;(B) in the case of a corporation, subsection (a)(2) shall be applied by substituting "alternative minimum taxable income" for "taxable income".
 
 #### (7) Unrelated business taxable income
 
@@ -278,11 +254,11 @@ For purposes of this section—
 
 #### (B) Special rule for applying wage limitation
 
-&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section3401(a)(8) for remuneration paid for services performed in Puerto Rico.
+&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
 
 #### (C) Termination
 
-&emsp;&emsp;This paragraph shall apply only with respect to the first 8 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2014.
+&emsp;&emsp;This paragraph shall apply only with respect to the first 9 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2015.
 
 #### (9) Special rule for taxpayers with oil related qualified production activities income
 
@@ -308,13 +284,21 @@ For purposes of this section—
 
 &emsp;The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i).
 
-(Added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–343, div. B, title IV, §401(a), (b), div. C, title III, §312(a), title V, §502(c), Oct. 3, 2008, 122 Stat. 3851, 3869, 3876; Pub. L. 111–312, title VII, §746(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §318(a), Jan. 2, 2013, 126 Stat. 2331.)
+(Added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–343, div. B, title IV, §401(a), (b), div. C, title III, §312(a), title V, §502(c), Oct. 3, 2008, 122 Stat. 3851, 3869, 3876; Pub. L. 111–312, title VII, §746(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §318(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §130(a), title II, §§219(b), 221(a)(37), Dec. 19, 2014, 128 Stat. 4018, 4035, 4043.)
 
 #### References in Text
 
 Section 927(a)(2)(C) of this title, referred to in subsec. (d)(9)(C), was repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
 
 #### Amendments
+
+Subsec. (a). Pub. L. 113–295, §221(a)(37)(A), struck out par. (1) designation and heading, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned margins, and struck out former par. (2), which related to phasein of deduction for taxable years 2005 to 2009.
+
+Subsec. (b)(3). Pub. L. 113–295, §219(b), substituted ", dispositions, and short taxable years" for "and dispositions" in heading and inserted "of a short taxable year or" after "in cases" in text.
+
+Subsec. (d)(2), (6)(B). Pub. L. 113–295, §221(a)(37)(B), substituted "(a)(2)" for "(a)(1)(B)".
+
+Subsec. (d)(8)(C). Pub. L. 113–295, §130(a), substituted "first 9 taxable years" for "first 8 taxable years" and "January 1, 2015" for "January 1, 2014".
 
 <b>2013</b>—Subsec. (d)(8)(C). Pub. L. 112–240 substituted "first 8 taxable years" for "first 6 taxable years" and "January 1, 2014" for "January 1, 2012".
 
@@ -386,6 +370,14 @@ Subsec. (d)(7). Pub. L. 109–135, §403(a)(12), added par. (7). Former par. (7)
 
 Subsec. (d)(8). Pub. L. 109–135, §403(a)(12), (13), redesignated par. (7) as (8) and inserted before period at end ", including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i)".
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §130(b), Dec. 19, 2014, 128 Stat. 4018, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
+
+Pub. L. 113–295, div. A, title II, §219(d), Dec. 19, 2014, 128 Stat. 4035, provided that: "The amendments made by this section \[amending this section, section 904 of this title, and provisions set out as a note under section 114 of this title\] shall take effect as if included in the provision of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which they relate."
+
+Amendment by section 221(a)(37) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–240, title III, §318(b), Jan. 2, 2013, 126 Stat. 2331, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011."
@@ -415,4 +407,6 @@ Amendments by Pub. L. 109–135 effective as if included in the provisions of th
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 2004, subject to transition rule, see section 102(e) of Pub. L. 108–357, as amended, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

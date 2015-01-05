@@ -110,7 +110,7 @@ The following softwood lumber products shall not be subject to the importer decl
 
 &emsp;&emsp;Softwood lumber or softwood lumber products contained in a single family home package or kit, regardless of the classification under the HTS, if the importer declares that the following requirements have been met:
 
-&emsp;&emsp;&emsp;(i) The package or kit constitutes a full package of the number of wooden piecesspecified in the plan, design, or blueprint necessary to produce a home of at least 700 square feet produced to a specified plan, design, or blueprint.
+&emsp;&emsp;&emsp;(i) The package or kit constitutes a full package of the number of wooden pieces specified in the plan, design, or blueprint necessary to produce a home of at least 700 square feet produced to a specified plan, design, or blueprint.
 
 &emsp;&emsp;&emsp;(ii) The package or kit contains—
 

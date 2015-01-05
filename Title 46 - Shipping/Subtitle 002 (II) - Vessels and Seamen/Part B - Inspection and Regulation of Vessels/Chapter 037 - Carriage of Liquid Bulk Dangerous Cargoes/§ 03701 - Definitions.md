@@ -54,7 +54,7 @@ Section 3701 contains definitions that are of a special nature with limited appl
 
 #### Amendments
 
-<b>1988</b>—Par. (2). Pub. L. 100–424 struck out par. (2) which read as follows: " 'major conversion' means a conversion of an existing vessel that substantially changes the dimensions or carrying capacity of the vessel or changes the type of vessel or substantially prolongs itslife or that otherwise so changes the vessel that it is essentially a new vessel, as decided by the Secretary."
+<b>1988</b>—Par. (2). Pub. L. 100–424 struck out par. (2) which read as follows: " 'major conversion' means a conversion of an existing vessel that substantially changes the dimensions or carrying capacity of the vessel or changes the type of vessel or substantially prolongs its life or that otherwise so changes the vessel that it is essentially a new vessel, as decided by the Secretary."
 
 <b>1986</b>—Pars. (5), (6). Pub. L. 99–509 struck out par. (5) defining "State" as including Trust Territory of the Pacific Islands in addition to its meaning under section 2101(36) of this title, and struck out par. (6) defining "United States" as including the Trust Territory of the Pacific Islands in addition to its meaning under section 2101(44) of this title.
 

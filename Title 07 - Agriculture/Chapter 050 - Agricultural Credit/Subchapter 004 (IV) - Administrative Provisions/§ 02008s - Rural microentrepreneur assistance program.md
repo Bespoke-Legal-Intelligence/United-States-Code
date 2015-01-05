@@ -84,7 +84,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) establish a loan loss reserve fund; and
 
-&emsp;&emsp;&emsp;(ii) maintain the reserve fund in an amount equal to at least 5 percent of the outstanding balance of such loans owed by the microenterprise development organization, until all obligations owed to the Secretary under this paragraph are repaid.
+&emsp;&emsp;&emsp;(ii) maintain the reserve fund in an amount equal to at least 5 percent of the outstanding balance of such loans owed bythe microenterprise development organization, until all obligations owed to the Secretary under this paragraph are repaid.
 
 #### (D) Deferral of interest and principal
 
@@ -162,19 +162,27 @@ In this section:
 
 &emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
 
-&emsp;&emsp;(A) $4,000,000 for each of fiscal years 2009 through 2011; and
+&emsp;&emsp;(A) $4,000,000 for each of fiscal years 2009 through 2011;
 
-&emsp;&emsp;(B) $3,000,000 for fiscal year 2012.
+&emsp;&emsp;(B) $3,000,000 for fiscal year 2012; and
+
+&emsp;&emsp;(C) $3,000,000 for each of fiscal years 2014 through 2018.
 
 #### (2) Discretionary funding
 
-&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2009 through 2012.
+&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2009 through 2018.
 
-(Pub. L. 87–128, title III, §379E, as added Pub. L. 110–234, title VI, §6022, May 22, 2008, 122 Stat. 1173, and Pub. L. 110–246, §4(a), title VI, §6022, June 18, 2008, 122 Stat. 1664, 1934.)
+(Pub. L. 87–128, title III, §379E, as added Pub. L. 110–234, title VI, §6022, May 22, 2008, 122 Stat. 1173, and Pub. L. 110–246, §4(a), title VI, §6022, June 18, 2008, 122 Stat. 1664, 1934; amended Pub. L. 113–79, title VI, §6023, Feb. 7, 2014, 128 Stat. 848.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (d)(1)(C). Pub. L. 113–79, §6023(1), added subpar. (C).
+
+Subsec. (d)(2). Pub. L. 113–79, §6023(2), substituted "2018" for "2012".
 
 #### Effective Date
 

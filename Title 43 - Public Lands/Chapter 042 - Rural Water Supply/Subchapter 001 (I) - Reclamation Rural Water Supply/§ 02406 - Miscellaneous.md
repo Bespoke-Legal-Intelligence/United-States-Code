@@ -14,11 +14,11 @@ Nothing in this subchapter supersedes or amends any Federal law associated with 
 
 #### (d) Interagency coordination
 
-The Secretary shall coordinate the Program carried out under this subchapter with existing Federal and State rural water and wastewaterprograms to facilitate the most efficient and effective solution to meeting the water needs of the non-Federal project sponsors.
+The Secretary shall coordinate the Program carried out under this subchapter with existing Federal and State rural water and wastewater programs to facilitate the most efficient and effective solution to meeting the water needs of the non-Federal project sponsors.
 
 #### (e) Multiple Indian tribes
 
-In any case in which a contract is entered into with, or a grant is made, to <sup>1</sup> an organization to perform services benefitting more than 1 Indian tribe under this subchapter, the approval of each such Indian tribe shall be a prerequisite to entering into the contract or making the grant.
+In any case in which a contract is entered into with, or a grant is made, to <sup>1</sup> an organization toperform services benefitting more than 1 Indian tribe under this subchapter, the approval of each such Indian tribe shall be a prerequisite to entering into the contract or making the grant.
 
 #### (f) Ownership of facilities
 

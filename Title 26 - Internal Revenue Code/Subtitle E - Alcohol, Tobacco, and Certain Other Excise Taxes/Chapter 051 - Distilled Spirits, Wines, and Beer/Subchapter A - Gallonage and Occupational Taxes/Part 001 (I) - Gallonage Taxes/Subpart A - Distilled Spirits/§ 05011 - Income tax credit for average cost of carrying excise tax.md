@@ -12,7 +12,7 @@ For purposes of section 38, the amount of the distilled spirits credit for any t
 
 &emsp;&emsp;&emsp;(ii) which are purchased by such wholesaler during the taxable year directly from the bottler of such spirits, or
 
-&emsp;&emsp;(B) any person which is subject to section 5005 and which is not an eligible wholesaler, the number of cases of bottled distilled spirits which are stored in a warehouse operatedby, or on behalf of, a State or political subdivision thereof, or an agency of either, on which title has not passed on an unconditional sale basis, and
+&emsp;&emsp;(B) any person which is subject to section 5005 and which is not an eligible wholesaler, the number of cases of bottled distilled spirits which are stored in a warehouse operated by, or on behalf of, a State or political subdivision thereof, or an agency of either, on which title has not passed on an unconditional sale basis, and
 
 &emsp;(2) the average tax-financing cost per case for the most recent calendar year ending before the beginning of such taxable year.
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, as amended, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977,as amended, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 #### Prior Provisions
 

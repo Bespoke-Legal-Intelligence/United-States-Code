@@ -114,7 +114,11 @@ A State plan submitted to the Secretary under this section by a Governor shall b
 
 A State may submit modifications to a State plan in accordance with the requirements of this section and section 2821 of this title as necessary during the 5-year period covered by the plan.
 
-(Pub. L. 105–220, title I, §112, Aug. 7, 1998, 112 Stat. 948; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(4), Aug. 12, 2006,120 Stat. 748; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 105–220, title I, §112, Aug. 7, 1998, 112 Stat. 948; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(4), Aug. 12, 2006, 120 Stat. 748; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
 
 #### References in Text
 
@@ -149,6 +153,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2006</b>—Subsec. (b)(8)(A)(iii). Pub. L. 109–270 substituted "career and technical education activities at the postsecondary level" for "postsecondary vocational education activities" and "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Applied Technology Education Act".
 
 <b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted "; or" for "; and".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 2008 Amendment
 

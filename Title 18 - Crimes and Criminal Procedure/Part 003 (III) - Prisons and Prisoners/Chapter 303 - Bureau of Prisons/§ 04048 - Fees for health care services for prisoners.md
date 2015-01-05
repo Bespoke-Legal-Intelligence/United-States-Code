@@ -100,7 +100,7 @@ Notice Before Public Comment Period.—Before the beginning of any period a prop
 
 (k)
 
-Reports to Congress.—Not later than 1 year after the date of the enactment of the Federal Prisoner Health Care Copayment Act of2000, and annually thereafter, the Director shall transmit to Congress a report, which shall include—
+Reports to Congress.—Not later than 1 year after the date of the enactment of the Federal Prisoner Health Care Copayment Act of 2000, and annually thereafter, the Director shall transmit to Congress a report, which shall include—
 
 &emsp;(1) a description of the amounts collected under this section during the preceding 12-month period;
 

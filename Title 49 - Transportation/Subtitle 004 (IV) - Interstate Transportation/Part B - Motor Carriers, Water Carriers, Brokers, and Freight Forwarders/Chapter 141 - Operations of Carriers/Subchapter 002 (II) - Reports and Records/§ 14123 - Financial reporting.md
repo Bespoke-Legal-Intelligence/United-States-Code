@@ -38,7 +38,7 @@ From public release.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall allow, upon request, a filer of a report undersubsection (a) that is not a publicly held corporation or that is not subject to financial reporting requirements of the Securities and Exchange Commission, an exemption from the public release of such report.
+In general.—The Secretary shall allow, upon request, a filer of a report under subsection (a) that is not a publicly held corporation or that is not subject to financial reporting requirements of the Securities and Exchange Commission, an exemption from the public release of such report.
 
 &emsp;&emsp;(B)
 

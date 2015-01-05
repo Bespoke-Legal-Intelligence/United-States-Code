@@ -50,7 +50,7 @@ For the purpose of this section—
 
 #### (1) Actuarial method
 
-&emsp;The term "actuarial method" means the method of allocating payments made on a debt between the amount financed and the finance charge pursuant to which a payment is applied first to the accumulated finance charge and any remainder is subtracted from, or any deficiency is added to, the unpaid balance of the amount financed.
+&emsp;The term "actuarial method" means the method of allocating payments made on a debt between the amount financed and the financecharge pursuant to which a payment is applied first to the accumulated finance charge and any remainder is subtracted from, or any deficiency is added to, the unpaid balance of the amount financed.
 
 #### (2) Consumer, credit
 
@@ -68,7 +68,7 @@ For the purpose of this section—
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of theConsumer Credit Protection Act which comprises this chapter.
+Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the Consumer Credit Protection Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "de minimis".</i>
 

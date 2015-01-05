@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
+&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an applicationto the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
 
 #### (B) Deadline for approval
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;The budget neutrality requirement applicable with respect to expenditures for medical assistance under a Medicaid nonpregnant childless adults waiver shall—
 
-&emsp;&emsp;&emsp;(i) in the case of fiscal year 2010, allow expenditures for medical assistance under subchapter XIX for all such adults to notexceed the total amount of payments made to the State under paragraph (2)(B) for fiscal year 2009, increased by the percentage increase (if any) in the projected nominal per capita amount of National Health Expenditures for 2010 over 2009, as most recently published by the Secretary; and
+&emsp;&emsp;&emsp;(i) in the case of fiscal year 2010, allow expenditures for medical assistance under subchapter XIX for all such adults to not exceed the total amount of payments made to the State under paragraph (2)(B) for fiscal year 2009, increased by the percentage increase (if any) in the projected nominal per capita amount of National Health Expenditures for 2010 over 2009, as most recently published by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) in the case of any succeeding fiscal year, allow such expenditures to not exceed the amount in effect under this subparagraph for the preceding fiscal year, increased by the percentage increase (if any) in the projected nominal per capita amount of National Health Expenditures for the calendar year that begins during the year involved over the preceding calendar year, as most recently published by the Secretary.
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 #### References in Text
 
-Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub. L. 109–171, which is set out as a note under section 1397gg of this title.
+Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub.L. 109–171, which is set out as a note under section 1397gg of this title.
 
 #### Effective Date
 

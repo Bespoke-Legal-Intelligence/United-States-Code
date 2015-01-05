@@ -6,7 +6,7 @@ There is authorized to be appropriated to the President to carry out this subcha
 
 #### (b) Availability
 
-Amounts appropriated pursuant to the authorization of appropriations under subsection (a) of this section are—
+Amounts appropriated pursuant to the authorization of appropriations under subsection (a) are—
 
 &emsp;(1) authorized to remain available until expended; and
 
@@ -16,7 +16,7 @@ Amounts appropriated pursuant to the authorization of appropriations under subse
 
 #### References in Text
 
-The Food for Peace Act, referred to in subsec. (b)(2), is act July 10, 1954, ch. 469, 68 Stat. 454. Title II of the Act is classified generally to subchapter III (§1721 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (b)(2), is act July 10, 1954, ch. 469, 68 Stat. 454. Title II of the Act is classified generally to subchapter III (§1721 etseq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### Amendments
 

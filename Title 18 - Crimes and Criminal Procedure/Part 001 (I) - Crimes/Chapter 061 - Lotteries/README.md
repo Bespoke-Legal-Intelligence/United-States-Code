@@ -9,10 +9,13 @@
 | [1305\.](%C2%A7%2001305%20-%20Fishing%20contests.md) | Fishing contests. |
 | [1306\.](%C2%A7%2001306%20-%20Participation%20by%20financial%20institutions.md) | Participation by financial institutions. |
 | [1307\.](%C2%A7%2001307%20-%20Exceptions%20relating%20to%20certain%20advertisements%20and%20other%20information%20and%20to%20State-conducted%20lotteries.md) | Exceptions relating to certain advertisements and other information and to State-conducted lotteries. |
+| [1308\.](%C2%A7%2001308%20-%20Limitation%20of%20applicability.md) | Limitation of applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–251, §4(b), Dec. 18, 2014, 128 Stat. 2890, added item 1308.
 
 <b>1988</b>—Pub. L. 100–625, §3(a)(2), Nov. 7, 1988, 102 Stat. 3206, substituted "Exceptions relating to certain advertisements and other information and to State-conducted lotteries" for "State-conducted lotteries" in item 1307.
 
@@ -36,3 +39,4 @@
 - [&sect; 01305 - Fishing contests](%C2%A7%2001305%20-%20Fishing%20contests.md)
 - [&sect; 01306 - Participation by financial institutions](%C2%A7%2001306%20-%20Participation%20by%20financial%20institutions.md)
 - [&sect; 01307 - Exceptions relating to certain advertisements and other information and to State-conducted lotteries](%C2%A7%2001307%20-%20Exceptions%20relating%20to%20certain%20advertisements%20and%20other%20information%20and%20to%20State-conducted%20lotteries.md)
+- [&sect; 01308 - Limitation of applicability](%C2%A7%2001308%20-%20Limitation%20of%20applicability.md)

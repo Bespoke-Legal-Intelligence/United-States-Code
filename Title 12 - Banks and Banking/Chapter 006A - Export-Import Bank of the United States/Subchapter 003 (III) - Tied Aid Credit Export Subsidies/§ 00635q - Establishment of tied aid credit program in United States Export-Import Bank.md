@@ -22,7 +22,7 @@ The Chairman of the Bank is authorized to establish a fund, as necessary, for ca
 
 #### (d) Availability of concessional financing or grants
 
-Concessional financing or grants made available under section 635r(d) of this title for thepurposes of the mixed financing program established under this section shall be made available in accordance with the provisions of section 635r(c) of this title.
+Concessional financing or grants made available under section 635r(d) of this title for the purposes of the mixed financing program established under this section shall be made available in accordance with the provisions of section 635r(c) of this title.
 
 (Pub. L. 98–181, title I \[title VI, §644\], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, §2204(c)(1)(A), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, §202(c)(1), Oct. 28, 1992, 106 Stat. 3658.)
 

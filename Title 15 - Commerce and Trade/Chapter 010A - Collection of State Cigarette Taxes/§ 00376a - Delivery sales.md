@@ -28,7 +28,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (2) Failure to label
 
-&emsp;Any shipping package described in paragraph (1) that is not labeled in accordance with that paragraph shall be treated as nondeliverable matter by a common carrier orother delivery service, if the common carrier or other delivery service knows or should know the package contains cigarettes or smokeless tobacco. If a common carrier or other delivery service believes a package is being submitted for delivery in violation of paragraph (1), it may require the person submitting the package for delivery to establish that it is not being sent in violation of paragraph (1) before accepting the package for delivery. Nothing in this paragraph shall require the common carrier or other delivery service to open any package to determine its contents.
+&emsp;Any shipping package described in paragraph (1) that is not labeled in accordance with that paragraph shall be treated as nondeliverable matter by a common carrier or other delivery service, if the common carrier or other delivery service knows or should know the package contains cigarettes or smokeless tobacco. If a common carrier or other delivery service believes a package is being submitted for delivery in violation of paragraph (1), it may require the person submitting the package for delivery to establish that it is not being sent in violation of paragraph (1) before accepting the package for delivery. Nothing in this paragraph shall require the common carrier or other delivery service to open any package to determine its contents.
 
 #### (3) Weight restriction
 
@@ -94,7 +94,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (A) Initial list
 
-&emsp;&emsp;Not later than 90 days after this subsection goes into effect under the PreventAll Cigarette Trafficking Act of 2009, the Attorney General of the United States shall compile a list of delivery sellers of cigarettes or smokeless tobacco that have not registered with the Attorney General of the United States pursuant to section 376(a) of this title, or that are otherwise not in compliance with this chapter, and—
+&emsp;&emsp;Not later than 90 days after this subsection goes into effect under the Prevent All Cigarette Trafficking Act of 2009, the Attorney General of the United States shall compile a list of delivery sellers of cigarettes or smokeless tobacco that have not registered with the Attorney General of the United States pursuant to section 376(a) of this title, or that are otherwise not in compliance with this chapter, and—
 
 &emsp;&emsp;&emsp;(i) distribute the list to—
 
@@ -272,7 +272,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 &emsp;&emsp;(A) include any delivery seller identified and submitted by a State, local, or tribal government under paragraph (6) in any list or update that is distributed or made available under paragraph (1) on or after the date that is 30 days after the date on which the information is received by the Attorney General of the United States; and
 
-&emsp;&emsp;(B) distribute any list or update described in subparagraph (A) to any common carrier or other person who makes deliveries of cigarettes or smokeless tobacco that has been identified and submitted by a government pursuant to paragraph (6).
+&emsp;&emsp;(B) distribute any list or update described in subparagraph (A) to any common carrier or other person who makes deliveries of cigarettes or smokeless tobacco that hasbeen identified and submitted by a government pursuant to paragraph (6).
 
 #### (8) Notice to delivery sellers
 

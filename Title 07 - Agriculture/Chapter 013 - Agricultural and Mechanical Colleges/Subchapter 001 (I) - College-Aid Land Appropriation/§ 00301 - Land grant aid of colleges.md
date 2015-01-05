@@ -18,35 +18,35 @@ Pub. L. 107–171, title VII, §7201(e), May 13, 2002, 116 Stat. 437, provided t
 
 Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: "That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes."
 
-Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437; Pub. L. 108–204, title I, §128, Mar. 2, 2004, 118 Stat. 547; Pub. L. 108–447, div. A, title VII, §777, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title VII, §7402(a)–(e), May 22, 2008, 122 Stat. 1245, 1246; Pub. L. 110–246, §4(a), title VII, §7402(a)–(e), June 18, 2008, 122 Stat. 1664, 2007; Pub. L. 110–315, title IX, §941(k)(2)(A), Aug. 14, 2008, 122 Stat. 3465, provided that:
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437; Pub. L. 108–204, title I, §128, Mar. 2, 2004, 118 Stat. 547; Pub. L. 108–447, div. A, title VII, §777, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title VII, §7402(a)–(e), May 22, 2008, 122 Stat. 1245, 1246; Pub. L. 110–246, §4(a), title VII, §7402(a)–(e), June 18, 2008, 122 Stat. 1664, 2007; Pub. L. 110–315, title IX, §941(k)(2)(A), Aug. 14, 2008, 122 Stat. 3465; Pub. L. 113–79, title VII, §7402(a)(1), (b)–(d), Feb. 7, 2014, 128 Stat. 893, 894, provided that:
 
 #### "SEC. 531. SHORT TITLE.
 
 "This part may be cited as the 'Equity in Educational Land-Grant Status Act of 1994'.
 
-#### "SEC. 532. DEFINITION.
+#### "SEC. 532. DEFINITION OF 1994 INSTITUTION.
 
-"As used in this part, the term '1994 Institutions' means any one of the following colleges:
+"In this part, the term '1994 Institution' means any of the following colleges:
 
-&emsp;"(1) Bay Mills Community College.
+&emsp;"(1) Aaniiih Nakoda College.
 
-&emsp;"(2) Blackfeet Community College.
+&emsp;"(2) Bay Mills Community College.
 
-&emsp;"(3) Cankdeska Cikana Community College.
+&emsp;"(3) Blackfeet Community College.
 
-&emsp;"(4) College of Menominee Nation.
+&emsp;"(4) Cankdeska Cikana Community College.
 
-&emsp;"(5) Crownpoint Institute of Technology.
+&emsp;"(5) Chief Dull Knife College.
 
-&emsp;"(6) D–Q University.
+&emsp;"(6) College of Menominee Nation.
 
-&emsp;"(7) Dine College.
+&emsp;"(7) College of the Muscogee Nation.
 
-&emsp;"(8) Chief Dull Knife Memorial College.
+&emsp;"(8) D–Q University.
 
-&emsp;"(9) Fond du Lac Tribal and Community College.
+&emsp;"(9) Dine College.
 
-&emsp;"(10) Fort Belknap College.
+&emsp;"(10) Fond du Lac Tribal and Community College.
 
 &emsp;"(11) Fort Berthold Community College.
 
@@ -54,47 +54,49 @@ Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by
 
 &emsp;"(13) Haskell Indian Nations University.
 
-&emsp;"(14) Institute of American Indian and Alaska Native Culture and Arts Development.
+&emsp;"(14) Ilisagvik College.
 
-&emsp;"(15) Lac Courte Oreilles Ojibwa Community College.
+&emsp;"(15) Institute of American Indian and Alaska Native Culture and Arts Development.
 
-&emsp;"(16) Leech Lake Tribal College.
+&emsp;"(16) Keweenaw Bay Ojibwa Community College.
 
-&emsp;"(17) Little Big Horn College.
+&emsp;"(17) Lac Courte Oreilles Ojibwa Community College.
 
-&emsp;"(18) Little Priest Tribal College.
+&emsp;"(18) Leech Lake Tribal College.
 
-&emsp;"(19) Nebraska Indian Community College.
+&emsp;"(19) Little Big Horn College.
 
-&emsp;"(20) Northwest Indian College.
+&emsp;"(20) Little Priest Tribal College.
 
-&emsp;"(21) Oglala Lakota College.
+&emsp;"(21) Navajo Technical College.
 
-&emsp;"(22) Saginaw Chippewa Tribal College.
+&emsp;"(22) Nebraska Indian Community College.
 
-&emsp;"(23) Tohono O'odham Community College.
+&emsp;"(23) Northwest Indian College.
 
-&emsp;"(24) Salish Kootenai College.
+&emsp;"(24) Oglala Lakota College.
 
-&emsp;"(25) Sinte Gleska University.
+&emsp;"(25) Saginaw Chippewa Tribal College.
 
-&emsp;"(26) Sisseton Wahpeton Community College.
+&emsp;"(26) Salish Kootenai College.
 
-&emsp;"(27) Si Tanka/Huron University.
+&emsp;"(27) Sinte Gleska University.
 
-&emsp;"(28) Sitting Bull College.
+&emsp;"(28) Sisseton Wahpeton College.
 
-&emsp;"(29) Southwestern Indian Polytechnic Institute.
+&emsp;"(29) Sitting Bull College.
 
-&emsp;"(30) Stone Child College.
+&emsp;"(30) Southwestern Indian Polytechnic Institute.
 
-&emsp;"(31) Turtle Mountain Community College.
+&emsp;"(31) Stone Child College.
 
-&emsp;"(32) United Tribes Technical College.
+&emsp;"(32) Tohono O'odham Community College.
 
-&emsp;"(33) White Earth Tribal and Community College.
+&emsp;"(33) Turtle Mountain Community College.
 
-&emsp;"(34) Ilisagvik College.
+&emsp;"(34) United Tribes Technical College.
+
+&emsp;"(35) White Earth Tribal and Community College.
 
 #### "SEC. 533. LAND-GRANT STATUS FOR 1994 INSTITUTIONS.
 
@@ -128,7 +130,7 @@ Accreditation.—To receive funding under this section and sections 534, 535, an
 
 "(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2018. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
 
 "(c)
 
@@ -152,7 +154,7 @@ Investments.—The Secretary shall invest the endowment fund corpus and income i
 
 &emsp;"(4)
 
-Withdrawals and expenditures.—The Secretary may not make a withdrawal or expenditurefrom the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
+Withdrawals and expenditures.—The Secretary may not make a withdrawal or expenditure from the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
 
 &emsp;&emsp;"(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a))).
 
@@ -194,7 +196,7 @@ In general.—Except as provided in subparagraph (B), the amounts authorized to 
 
 &emsp;&emsp;"(B)
 
-Redistribution.—Funds that would be paid to a 1994 Institution under paragraph (2) shall be withheld from that 1994 Institution and redistributed among the other 1994 Institutions if that 1994 Institution—
+Redistribution.—Funds that would be paid to a 1994 Institution under paragraph (2) shall bewithheld from that 1994 Institution and redistributed among the other 1994 Institutions if that 1994 Institution—
 
 &emsp;&emsp;&emsp;"(i) declines to accept funds under paragraph (2); or
 
@@ -228,7 +230,7 @@ In General.—
 
 &emsp;"(1)
 
-Institutional capacity building grants.—For each of fiscal years 1996 through 2012, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
+Institutional capacity building grants.—For each of fiscal years 1996 through 2018, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
 
 &emsp;"(2)
 
@@ -248,7 +250,7 @@ Payment of non-federal share.—A grant awarded under this subsection shall be m
 
 "(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2012.
+Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2018.
 
 #### "SEC. 536. RESEARCH GRANTS.
 
@@ -258,11 +260,23 @@ Research Grants Authorized.—The Secretary of Agriculture may make grants under
 
 "(b)
 
-Requirements.—Grant applications submitted under this section shall certify that the research to be conducted will be performed under a cooperative agreement with at least 1 other land-grant college or university (exclusive of another 1994 Institution).
+Requirements.—Grant applications submitted under this section shall certify that the research to be conducted will be performed under a cooperative agreement with—
+
+&emsp;"(1) the Agricultural Research Service of the Department of Agriculture; or
+
+&emsp;"(2) at least 1—
+
+&emsp;&emsp;"(A) other land-grant college or university (exclusive of another 1994 Institution);
+
+&emsp;&emsp;"(B) non-land-grant college of agriculture (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103)); or
+
+&emsp;&emsp;"(C) cooperating forestry school (as defined in that section).
 
 "(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012. Amounts appropriated shall remain available until expended."
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018. Amounts appropriated shall remain available until expended."
+
+\[Pub. L. 113–79, title VII, §7402(a)(2), Feb. 7, 2014, 128 Stat. 894, provided that: "The amendments made by paragraph (1) \[amending section 532 of Pub. L. 103–382, set out above\] shall take effect on October 1, 2014."\]
 
 \[Pub. L. 110–234, title VII, §7402(f), May 22, 2008, 122 Stat. 1246, and Pub. L. 110–246, §4(a), title VII, §7402(f), June 18, 2008, 122 Stat. 1664, 2007, provided that: "The amendment made by subsection (a) \[amending section 532 of Pub. L. 103–382, set out above\] takes effect on October 1, 2008."
 
@@ -284,7 +298,7 @@ Pub. L. 92–318, title V, §506(a), (b), June 23, 1972, 86 Stat. 350, as amende
 
 "(a) The College of the Virgin Islands, the Community College of American Samoa, the College of Micronesia\[,\] the Northern Marianas College, and the University of Guam shall be considered land-grant colleges established for the benefit or agriculture and mechanic arts in accordance with the provisions of the Act of July 2, 1862, as amended (12 Stat. 503; 7 U.S.C. 301–305, 307, 308).
 
-"(b) In lieu of extending to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands those provisions of the Act of July 2, 1862, as amended, relating to donations of public land or land scrip for the endowment and maintenance of colleges or the benefit of agriculture and the mechanic arts, there is authorized to be appropriated $3,000,000 to the Virgin Islands and $3,000,000 to Guam and an equal amount to American Samoa, Micronesia, and to the Northern Mariana Islands. Amounts appropriated pursuant to this section shall be held and considered to have been granted to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands subject to the provisions of that Act applicable to the proceeds from the sale of land or land scrip."
+"(b) In lieu of extending to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands those provisions of the Act of July 2, 1862, as amended, relating to donations of public land or land scrip for the endowment and maintenance of colleges or the benefit of agriculture and the mechanic arts, there is authorized to be appropriated $3,000,000 to the Virgin Islands and $3,000,000 to Guam and an equal amount to American Samoa, Micronesia, and to the Northern Mariana Islands. Amounts appropriated pursuant to this section shall be held and considered to have been granted to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands subjectto the provisions of that Act applicable to the proceeds from the sale of land or land scrip."
 
 #### Exchange of Land in Missouri
 

@@ -28,7 +28,7 @@ The Secretary shall report annually to the President and the Congress on actions
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–469 amended section generally. Prior to amendment, section required the Secretary to report to the President and to Congress, not later than one year after the transmittal of the Strategic Petroleum Reserve Plan to the Congress and each year thereafter, on all actions taken to implement this part.
+<b>2000</b>—Pub. L. 106–469 amended section generally. Prior to amendment, section required the Secretary to report to the President and to Congress, not later than oneyear after the transmittal of the Strategic Petroleum Reserve Plan to the Congress and each year thereafter, on all actions taken to implement this part.
 
 <b>1995</b>—Pub. L. 104–66 struck out subsec. (a) designation before "The Secretary shall", and struck out subsec. (b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
 

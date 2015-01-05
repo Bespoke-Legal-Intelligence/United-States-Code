@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan shall permit an employee who is eligible, but not enrolled, forcoverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+&emsp;&emsp;A group health plan shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
 
 #### (i) Termination of Medicaid or CHIP coverage
 
@@ -344,7 +344,7 @@ Period of coverage.—
 
 &emsp;&emsp;"(i)
 
-In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under chapter 100 of the Internal Revenue Code of 1986 (as added by this section) in determining creditable coverage.
+In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under chapter 100 of the Internal Revenue Code of1986 (as added by this section) in determining creditable coverage.
 
 &emsp;&emsp;"(ii)
 

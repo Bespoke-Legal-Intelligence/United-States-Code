@@ -6,7 +6,7 @@
 
 (3) Payment of benefits under this chapter may be made only for periods of time during which an eligible veteran is actually enrolled in and pursuing an approved program of education and, except as provided in paragraph (4), only after an eligible veteran has been discharged or released from active duty.
 
-(4) Payment of benefits under this chapter may be made after a participant has completed his or her first obligated period of active duty (which began after December 31, 1976), or 6 yearsof active duty (which began after December 31, 1976), whichever period is less.
+(4) Payment of benefits under this chapter may be made after a participant has completed his or her first obligated period of active duty (which began after December 31, 1976), or 6 years of active duty (which began after December 31, 1976), whichever period is less.
 
 (5)(A) Notwithstanding any other provision of this chapter or chapter 36 of this title, any payment of an educational assistance allowance described in subparagraph (B) of this paragraph—
 
@@ -34,7 +34,7 @@
 
 > had not been made or paid.
 
-(b) Any enlisted member of the Armed Forces participating in the program shall be eligible to enroll in a course, courses, or program of education for the purpose of attaining a secondary school diploma (or an equivalency certificate), as authorized by section 3491(a) of this title, during the last six months of such member's first enlistment and at any time thereafter.
+(b) Any enlisted member of the Armed Forces participating in the program shall be eligible toenroll in a course, courses, or program of education for the purpose of attaining a secondary school diploma (or an equivalency certificate), as authorized by section 3491(a) of this title, during the last six months of such member's first enlistment and at any time thereafter.
 
 (c) When an eligible veteran is pursuing a program of education under this chapter by correspondence, such eligible veteran's entitlement shall be charged at the rate of 1 month's entitlement for each month of benefits paid to the eligible veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
 
@@ -134,7 +134,7 @@ Pub. L. 97–35, title XX, §2006, Aug. 13, 1981, 95 Stat. 783, provided that:
 
 "(a) Except as provided in subsection (b), the amendments made by sections 2003 \[amending this section and sections 1641, 1662, 1673, 1681, 1682, and 1780 \[now 3241, 3462, 3473, 3481, 3482, and 3680\] of this title and repealing section 1677 of this title\] and 2005 \[amending this section and sections 1686 \[repealed\], 1737 \[repealed\], and 1798 \[now 3698\] of this title\] shall take effect on October 1, 1981.
 
-"(b) The amendments made by such sections shall not apply to any person receiving educational assistance under section 1677 \[now 3477\] of title 38, United States Code, as such section was in effect on August 31, 1981,for the pursuit of a program of education (as defined in section 1652(b) \[now 3452(b)\] of such title) in which such person was enrolled on that date, for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of chapters 34 and 36 of such title, as in effect on that date."
+"(b) The amendments made by such sections shall not apply to any person receiving educational assistance under section 1677 \[now 3477\] of title 38, United States Code, as such section was in effect on August 31, 1981, for the pursuit of a program of education (as defined in section 1652(b) \[now 3452(b)\] of such title) in which such person was enrolled on that date, for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of chapters 34 and 36 of such title, as in effect on that date."
 
 #### Effective Date of 1980 Amendment
 

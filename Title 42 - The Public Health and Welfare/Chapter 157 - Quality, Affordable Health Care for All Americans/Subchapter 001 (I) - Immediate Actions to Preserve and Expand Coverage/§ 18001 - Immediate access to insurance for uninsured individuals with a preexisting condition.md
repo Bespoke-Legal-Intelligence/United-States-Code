@@ -72,13 +72,13 @@ An individual shall be deemed to be an eligible individual for purposes of this 
 
 &emsp;An issuer or employment-based health plan shall be responsible for reimbursing the program under this section for the medical expenses incurred by the program for an individual who, based on criteria established by the Secretary, the Secretary finds was encouraged by the issuer to disenroll from health benefits coverage prior to enrolling in coverage through the program. The criteria shall include at least the following circumstances:
 
-&emsp;&emsp;(A) In the case of prior coverage obtained through an employer, the provision by the employer, group health plan, or the issuer ofmoney or other financial consideration for disenrolling from the coverage.
+&emsp;&emsp;(A) In the case of prior coverage obtained through an employer, the provision by the employer, group health plan, or the issuer of money or other financial consideration for disenrolling from the coverage.
 
 &emsp;&emsp;(B) In the case of prior coverage obtained directly from an issuer or under an employment-based health plan—
 
 &emsp;&emsp;&emsp;(i) the provision by the issuer or plan of money or other financial consideration for disenrolling from the coverage; or
 
-&emsp;&emsp;&emsp;(ii) in the case of an individual whose premium for the prior coverage exceeded the premium required by the program (adjusted based on the age factors applied to the prior coverage)—
+&emsp;&emsp;&emsp;(ii) in the case of an individual whose premium for the prior coverage exceededthe premium required by the program (adjusted based on the age factors applied to the prior coverage)—
 
 &emsp;&emsp;&emsp;&emsp;(I) the prior coverage is a policy that is no longer being actively marketed (as defined by the Secretary) by the issuer; or
 
@@ -131,6 +131,10 @@ The Secretary shall establish—
 This Act, referred to in subsec. (c)(2)(C)(i), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The date on which such amendments take effect, referred to in subsec. (c)(2)(C)(i), is the date on which the amendments by Pub. L. 111–148 to section 300gg of this title take effect, which is Jan. 1, 2014. See section 1255 of Pub. L. 111–148, set out as an Effective Date note under section 300gg of this title.
+
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–235, div. M, §1, Dec. 16, 2014, 128 Stat. 2767, provided that: "This division \[enacting section 18014 of this title\] may be cited as the 'Expatriate Health Coverage Clarification Act of 2014'."
 
 #### Short Title
 

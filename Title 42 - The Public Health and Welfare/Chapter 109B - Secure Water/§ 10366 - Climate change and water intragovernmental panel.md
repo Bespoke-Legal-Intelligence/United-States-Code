@@ -4,7 +4,7 @@
 
 The Secretary and the Administrator shall establish and lead a climate change and water intragovernmental panel—
 
-&emsp;(1) to review the current scientific understanding of each impact of global climate change on the quantity and quality of freshwater resources of the United States; and
+&emsp;(1) to review the current scientific understanding of each impact of global climatechange on the quantity and quality of freshwater resources of the United States; and
 
 &emsp;(2) to develop any strategy that the panel determines to be necessary to improve observational capabilities, expand data acquisition, or take other actions—
 

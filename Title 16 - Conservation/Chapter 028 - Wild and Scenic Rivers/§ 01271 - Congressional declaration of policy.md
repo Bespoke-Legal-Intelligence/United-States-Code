@@ -8,6 +8,10 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–244, §1, Dec. 18, 2014, 128 Stat. 2864, provided that: "This Act \[amending section 1274 of this title and section 615i of Title 43, Public Lands, and enacting provisions classified as a note under section 1274 of this title\] may be cited as the 'Crooked River Collaborative Water Security and Jobs Act of 2014'."
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–11, title V, §5002(a), Mar. 30, 2009, 123 Stat. 1147, provided that: "This section \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the 'Craig Thomas Snake Headwaters Legacy Act of 2008'."
@@ -38,7 +42,7 @@ Pub. L. 106–357, §1, Oct. 24, 2000, 114 Stat. 1393, provided that: "This Act 
 
 Pub. L. 106–318, §1, Oct. 19, 2000, 114 Stat. 1278, provided that: "This Act \[amending section 1276 of this title\] may be cited as the 'Taunton River Wild and Scenic River Study Act of 2000'."
 
-Pub. L. 106–299, §1, Oct. 13, 2000, 114 Stat. 1050, provided that: "This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the 'Wekiva Wild and Scenic River Act of 2000'."
+Pub. L. 106–299, §1, Oct. 13, 2000, 114 Stat. 1050, provided that: "This Act \[amending section 1274 of thistitle and enacting provisions classified as a note under section 1274 of this title\] may be cited as the 'Wekiva Wild and Scenic River Act of 2000'."
 
 Pub. L. 106–192, §1, May 2, 2000, 114 Stat. 233, provided that: "This Act \[amending section 1274 of this title and provisions classified as a note under section 1274 of this title\] may be cited as the 'Lamprey Wild and Scenic River Extension Act'."
 

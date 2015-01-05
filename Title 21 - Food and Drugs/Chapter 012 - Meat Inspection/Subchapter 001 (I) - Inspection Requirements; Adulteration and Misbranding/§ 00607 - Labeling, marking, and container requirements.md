@@ -14,7 +14,7 @@ The Secretary, whenever he determines such action is necessary for the protectio
 
 #### (d) Sales under false or misleading name, other marking or labeling or in containers of misleading form or size; trade names, and other marking, labeling, and containers approved by Secretary
 
-No article subject to this subchapter shall be sold or offered for sale by any person, firm, or corporation, in commerce, under any name or other marking or labeling which is false or misleading, or in any container of a misleading form or size, but established trade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
+No article subject to this subchapter shall be sold or offered for sale by any person, firm, or corporation, in commerce, under any name orother marking or labeling which is false or misleading, or in any container of a misleading form or size, but established trade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
 
 #### (e) Use withholding directive respecting false or misleading marking, labeling, or container; modification of false or misleading matter; hearing; withholding use pending proceedings; finality of Secretary's action; judicial review; application of section 194 of title 7
 

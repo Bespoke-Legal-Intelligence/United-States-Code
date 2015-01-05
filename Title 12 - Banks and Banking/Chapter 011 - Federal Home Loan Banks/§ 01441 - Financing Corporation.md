@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the Director shall charter a corpora
 
 #### (4) Equal representation of banks
 
-&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional term on the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms on the Directorate as the president of such bank (before the appointment of such president to such additional term).
+&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional term on the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms on theDirectorate as the president of such bank (before the appointment of such president to such additional term).
 
 #### (5) Chairperson
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the Director shall charter a corpora
 
 &emsp;&emsp;The amount each Federal Home Loan Bank shall pay shall be determined by the Director by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
 
-&emsp;&emsp;&emsp;(i) the aggregate amount the Director required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5)of subsection (d) of this section (as computed without regard to paragraph (3) or (6) of such subsection); by
+&emsp;&emsp;&emsp;(i) the aggregate amount the Director required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (d) (as computed without regard to paragraph (3) or (6) of such subsection); by
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount the Director required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
 
@@ -62,11 +62,11 @@ Notwithstanding any other provision of law, the Director shall charter a corpora
 
 &emsp;&emsp;For purposes of this paragraph, the term "administrative expenses" does not include—
 
-&emsp;&emsp;&emsp;(i) issuance costs (as such term is defined in subsection (g)(5)(A) of this section);
+&emsp;&emsp;&emsp;(i) issuance costs (as such term is defined in subsection (g)(5)(A));
 
 &emsp;&emsp;&emsp;(ii) any interest on (and any redemption premium with respect to) any obligation of the Financing Corporation; or
 
-&emsp;&emsp;&emsp;(iii) custodian fees (as such term is defined in subsection (g)(5)(B) of this section).
+&emsp;&emsp;&emsp;(iii) custodian fees (as such term is defined in subsection (g)(5)(B)).
 
 #### (8) Regulation by Director
 
@@ -86,7 +86,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 &emsp;(3) To issue debentures, bonds, or other obligations and to borrow, to give security for any amount borrowed, and to pay interest on (and any redemption premium with respect to) any such obligation or amount.
 
-&emsp;(4) To impose assessments in accordance with subsection (f) of this section.
+&emsp;(4) To impose assessments in accordance with subsection (f).
 
 &emsp;(5) To adopt, alter, and use a corporate seal.
 
@@ -190,7 +190,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (E) Transfer to account for purchase of stock required
 
-&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Director shall prescribe by regulations) the balance in which shall be available only for such purchases.
+&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Director shall prescribeby regulations) the balance in which shall be available only for such purchases.
 
 #### (7) Undivided profits defined
 
@@ -228,7 +228,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 &emsp;&emsp;&emsp;(i) 5 times the amount of the nonvoting capital stock of the Financing Corporation which is outstanding at such time; or
 
-&emsp;&emsp;&emsp;(ii) the sum of the face amounts (the amount of principal payable at maturity) of securities described in subsection (g)(2) of this section which are held at such time in the segregated account established pursuant to such subsection; or
+&emsp;&emsp;&emsp;(ii) the sum of the face amounts (the amount of principal payable at maturity) of securities described in subsection (g)(2) which are held at such time in the segregated account established pursuant to such subsection; or
 
 &emsp;&emsp;(B) $10,825,000,000.
 
@@ -294,7 +294,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (1) In general
 
-&emsp;Subject to such regulations, restrictions, and limitations as may be prescribed by theDirector, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in—
+&emsp;Subject to such regulations, restrictions, and limitations as may be prescribed by the Director, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in—
 
 &emsp;&emsp;(A) direct obligations of the United States;
 
@@ -352,7 +352,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (1) Treatment for certain purposes
 
-&emsp;Except as provided in subsection (e)(8)(B) of this section, the Financing Corporation shall be treated as a Federal Home Loan Bank for purposes of sections 1433 and 1443 of this title.
+&emsp;Except as provided in subsection (e)(8)(B), the Financing Corporation shall be treated as a Federal Home Loan Bank for purposes of sections 1433 and 1443 of this title.
 
 #### (2) Federal Reserve banks as depositaries and fiscal agents
 
@@ -378,7 +378,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (j) Regulations
 
-The Director may prescribe such regulations as may be necessary to carry out the provisionsof this section, including regulations defining terms used in this section.
+The Director may prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations defining terms used in this section.
 
 #### (k) Definitions
 
@@ -386,7 +386,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Directorate
 
-&emsp;The term "Directorate" means the directorate established in the manner provided in subsection (b)(1) of this section to manage the Financing Corporation.
+&emsp;The term "Directorate" means the directorate established in the manner provided in subsection (b)(1) to manage the Financing Corporation.
 
 #### (2) Net earnings
 

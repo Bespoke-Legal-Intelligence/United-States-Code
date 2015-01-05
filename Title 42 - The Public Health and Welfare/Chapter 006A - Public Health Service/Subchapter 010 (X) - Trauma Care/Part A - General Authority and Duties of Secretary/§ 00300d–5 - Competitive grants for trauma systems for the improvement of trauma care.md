@@ -16,7 +16,7 @@ The Secretary may make a grant under this section only if the applicant agrees t
 
 &emsp;(4) to improve data collection and retention; or
 
-&emsp;(5) to increase education, training, and technical assistance opportunities, such as training and continuing education in the management of emergency medical services accessibleto emergency medical personnel in rural areas through telehealth, home studies, and other methods.
+&emsp;(5) to increase education, training, and technical assistance opportunities, such as training and continuing education in the management of emergency medical services accessible to emergency medical personnel in rural areas through telehealth, home studies, and other methods.
 
 #### (c) Preference
 

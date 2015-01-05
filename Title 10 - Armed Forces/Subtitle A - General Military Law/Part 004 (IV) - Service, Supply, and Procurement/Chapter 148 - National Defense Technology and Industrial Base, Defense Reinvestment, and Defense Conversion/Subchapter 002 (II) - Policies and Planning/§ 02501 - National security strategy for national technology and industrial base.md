@@ -6,7 +6,7 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 &emsp;(1) Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
 
-&emsp;&emsp;(A) the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a); <sup>1</sup>
+&emsp;&emsp;(A) the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 3043);
 
 &emsp;&emsp;(B) the policy guidance of the Secretary of Defense provided pursuant to section 113(g) of this title; and
 
@@ -20,7 +20,7 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 &emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
 
-&emsp;(6) Providing for the generation of services capabilities that are not core functions of the armed forces and that are critical to militaryoperations within the national technology and industrial base.
+&emsp;(6) Providing for the generation of services capabilities that are not core functions of the armed forces and that are critical to military operations within the national technology and industrial base.
 
 &emsp;(7) Providing for the development, production, and integration of information technology within the national technology and industrial base.
 
@@ -28,7 +28,7 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 &emsp;(9) Ensuring reliable sources of materials that are critical to national security, such as specialty metals, essential minerals, armor plate, and rare earth elements.
 
-&emsp;(10) Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
+&emsp;(10) Reducing, to the maximum extent practicable, the presence of counterfeit parts inthe supply chain and the risk associated with such parts.
 
 (b)
 
@@ -40,11 +40,7 @@ Civil-Military Integration Policy.—It is the policy of Congress that the Unite
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062.)
-
-#### References in Text
-
-The National Security Act of 1947, referred to in subsec. (a)(1)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508.)
 
 #### Prior Provisions
 
@@ -53,6 +49,8 @@ A prior section 2501, added Pub. L. 100–456, div. A, title VIII, §821(b)(1)(B
 Another prior section 2501 was renumbered section 2533 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1)(A). Pub. L. 113–291 substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
 
 <b>2013</b>—Pub. L. 112–239, §1603(a)(1)(A), substituted "strategy for" for "objectives concerning" in section catchline.
 
@@ -104,7 +102,7 @@ Outreach to Local Firms Near Defense Installations.—The program established un
 
 "(d)
 
-Industrial Base Review.—The program established under subsection (a) shall include a continuouseffort to review the industrial base supporting the Department of Defense, including the identification of markets of importance to the Department of Defense in which firms that are not traditional suppliers can make a significant contribution.
+Industrial Base Review.—The program established under subsection (a) shall include a continuous effort to review the industrial base supporting the Department of Defense, including the identification of markets of importance to the Department of Defense in which firms that are not traditional suppliers can make a significant contribution.
 
 "(e)
 
@@ -160,7 +158,7 @@ Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, pro
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509, provided that:
 
 #### "SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
@@ -190,7 +188,7 @@ Use of Existing Data.—(1) At a minimum, with respect to each prime contract wi
 
 &emsp;"(D) The dollar value of the contract.
 
-"(2) The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 405(d)(4)(A)) \[now 41 U.S.C. 1122(a)(4)(A)\], or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
+"(2) The Federal Procurement Data System described in section 1122(a)(4)(A) of title 41, United States Code, or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
 
 "(3) Information obtained in the implementation of this section is subject to the same limitations on disclosure, and penalties for violation of such limitations, as is provided under section 2507 of title 10, United States Code. Such information also shall be exempt from release under section 552 of title 5, United States Code.
 
@@ -204,7 +202,7 @@ Public Availability.—The Secretary of Defense shall make the report submitted 
 
 "(e)
 
-Applicability.—This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\].
+Applicability.—This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
 
 #### "\[SEC. 813. Repealed. Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420.\]
 
@@ -212,7 +210,7 @@ Applicability.—This section shall not apply to acquisitions made by an agency,
 
 "(a)
 
-Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the 'Fund').
+Establishment of Fund.—There is established in the Treasury of the United States a separate fund tobe known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the 'Fund').
 
 "(b)
 
@@ -314,7 +312,7 @@ Matters Studied.—(1) The study shall review and assess whether such changes as
 
 &emsp;"(B) Whether the applied technology councils are effective in contributing the input of all levels beneath the senior leadership into the coordination, focus, and content of the science and technology program.
 
-&emsp;"(C) Whether the designation of the commander of the Air Force Materiel Command as the science and technology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
+&emsp;"(C) Whether the designation of the commander of the Air Force Materiel Command as the science andtechnology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
 
 &emsp;"(D) Whether the revised development planning process is effective to aid in the coordination of the needs of the Air Force warfighters with decisions on science and technology investments and the establishment of priorities among different science and technology programs.
 
@@ -396,7 +394,7 @@ Short-Term Objectives.—(1) The Secretary of the Air Force shall establish a ta
 
 &emsp;"(A) consider the work of the integrated product team conducted pursuant to paragraph (5); and
 
-&emsp;"(B) identify the science and technology work of the Air Force that should be undertaken to eliminateeach deficiency in enabling capabilities that is identified by the integrated product team pursuant to subparagraph (B) of that paragraph.
+&emsp;"(B) identify the science and technology work of the Air Force that should be undertaken to eliminate each deficiency in enabling capabilities that is identified by the integrated product team pursuant to subparagraph (B) of that paragraph.
 
 "(e)
 
@@ -406,7 +404,7 @@ Comptroller General Review.—(1) Not later than 90 days after the Secretary of 
 
 #### Report by Under Secretary of Defense for Acquisition, Technology, and Logistics
 
-Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit to the congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
+Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit tothe congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
 
 #### Sense of Congress on Defense Science and Technology Program
 
@@ -653,6 +651,4 @@ Definitions.—For purposes of this section:
 &emsp;"(1) The term 'major defense program' means a program that is carried out to produce or acquire a major system (as defined in section 2302(5) of title 10, United States Code).
 
 &emsp;"(2) The terms 'substantial reduction' and 'substantially reduced', with respect to a defense contract under a major defense program, mean a reduction of 25 percent or more in the total dollar value of the funds obligated by the contract."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

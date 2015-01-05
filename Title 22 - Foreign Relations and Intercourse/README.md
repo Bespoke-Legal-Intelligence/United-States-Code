@@ -109,6 +109,10 @@
 | [<b>93.</b>](Chapter%20093%20-%20United%20States-Israel%20Cooperation/README.md) | <b>United States-Israel Cooperation</b> | <b>8601</b> |
 | [<b>94.</b>](Chapter%20094%20-%20Iran%20Threat%20Reduction%20and%20Syria%20Human%20Rights/README.md) | <b>Iran Threat Reduction and Syria Human Rights</b> | <b>8701</b> |
 | [<b>95.</b>](Chapter%20095%20-%20Iran%20Freedom%20and%20Counterproliferation/README.md) | <b>Iran Freedom and Counterproliferation</b> | <b>8801</b> |
+| [<b>96.</b>](Chapter%20096%20-%20Sovereignty%2C%20Integrity%2C%20Democracy%2C%20and%20Economic%20Stability%20of%20Ukraine/README.md) | <b>Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine</b> | <b>8901</b> |
+| [<b>96A.</b>](Chapter%20096A%20-%20Ukraine%20Freedom%20Support/README.md) | <b>Ukraine Freedom Support</b> | <b>8921</b> |
+| [<b>97.</b>](Chapter%20097%20-%20International%20Child%20Abduction%20Remedies/README.md) | <b>International Child Abduction Remedies</b> | <b>9001</b> |
+| [<b>98.</b>](Chapter%20098%20-%20International%20Child%20Abduction%20Prevention%20and%20Return/README.md) | <b>International Child Abduction Prevention and Return</b> | <b>9101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -223,3 +227,7 @@
 - [Chapter 093 - United States-Israel Cooperation](Chapter%20093%20-%20United%20States-Israel%20Cooperation/README.md)
 - [Chapter 094 - Iran Threat Reduction and Syria Human Rights](Chapter%20094%20-%20Iran%20Threat%20Reduction%20and%20Syria%20Human%20Rights/README.md)
 - [Chapter 095 - Iran Freedom and Counterproliferation](Chapter%20095%20-%20Iran%20Freedom%20and%20Counterproliferation/README.md)
+- [Chapter 096 - Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine](Chapter%20096%20-%20Sovereignty%2C%20Integrity%2C%20Democracy%2C%20and%20Economic%20Stability%20of%20Ukraine/README.md)
+- [Chapter 096A - Ukraine Freedom Support](Chapter%20096A%20-%20Ukraine%20Freedom%20Support/README.md)
+- [Chapter 097 - International Child Abduction Remedies](Chapter%20097%20-%20International%20Child%20Abduction%20Remedies/README.md)
+- [Chapter 098 - International Child Abduction Prevention and Return](Chapter%20098%20-%20International%20Child%20Abduction%20Prevention%20and%20Return/README.md)

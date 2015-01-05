@@ -44,7 +44,7 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 &emsp;(2) payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; and other similar payments to an employee which are not made as compensation for his hours of employment;
 
-&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
+&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) boththe fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
 
 &emsp;(4) contributions irrevocably made by an employer to a trustee or third person pursuant to a bona fide plan for providing old-age, retirement, life, accident, or health insurance or similar benefits for employees;
 
@@ -96,7 +96,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 #### (j) Employment in hospital or establishment engaged in care of sick, aged, or mentally ill
 
-No employer engaged in the operation of a hospital or an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises shall be deemed to have violated subsection (a) of this section if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, a work period of fourteen consecutive days is accepted in lieu of the workweek of seven consecutive days for purposes of overtime computation and if, for hisemployment in excess of eight hours in any workday and in excess of eighty hours in such fourteen-day period, the employee receives compensation at a rate not less than one and one-half times the regular rate at which he is employed.
+No employer engaged in the operation of a hospital or an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises shall be deemed to have violated subsection (a) of this section if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, a work period of fourteen consecutive days is accepted in lieu of the workweek of seven consecutive days for purposes of overtime computation and if, for his employment in excess of eight hours in any workday and in excess of eighty hours in such fourteen-day period, the employee receives compensation at a rate not less than one and one-half times the regular rate at which he is employed.
 
 #### (k) Employment by public agency engaged in fire protection or law enforcement activities
 
@@ -152,7 +152,7 @@ In the case of an employee of an employer engaged in the business of operating a
 
 &emsp;(B) if the employee has not accrued compensatory time in excess of the limit applicable to the employee prescribed by paragraph (3).
 
-> In the case of employees described in clause (A)(ii) hired prior to April 15, 1986, the regular practice in effect on April 15, 1986, with respect to compensatory time off for such employees in lieu of the receipt of overtime compensation, shall constitute an agreement or understanding under such clause (A)(ii). Except as provided inthe previous sentence, the provision of compensatory time off to such employees for hours worked after April 14, 1986, shall be in accordance with this subsection.
+> In the case of employees described in clause (A)(ii) hired prior to April 15, 1986, the regular practice in effect on April 15, 1986, with respect to compensatory time off for such employees in lieu of the receipt of overtime compensation, shall constitute an agreement or understanding under such clause (A)(ii). Except as provided in the previous sentence, the provision of compensatory time off to such employees for hours worked after April 14, 1986, shall be in accordance with this subsection.
 
 (3)(A) If the work of an employee for which compensatory time may be provided included work in a public safety activity, an emergency response activity, or a seasonal activity, the employee engaged in such work may accrue not more than 480 hours of compensatory time for hours worked after April 15, 1986. If such work was any other work, the employee engaged in such work may accrue not more than 240 hours of compensatory time for hours worked after April 15, 1986. Any such employee who, after April 15, 1986, has accrued 480 or 240 hours, as the case may be, of compensatory time off shall, for additional overtime hours of work, be paid overtime compensation.
 
@@ -206,7 +206,7 @@ In the case of an employee of an employer engaged in the business of operating a
 
 (2) If an employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency undertakes, on an occasional or sporadic basis and solely at the employee's option, part-time employment for the public agency which is in a different capacity from any capacity in which the employee is regularly employed with the public agency, the hours such employee was employed in performing the different employment shall be excluded by the public agency in the calculation of the hours for which the employee is entitled to overtime compensation under this section.
 
-(3) If an individual who is employed in any capacity by a public agency which is a State, political subdivision of a State, or an interstate governmental agency, agrees, with the approval of the public agency and solely at the option of such individual, to substitute during scheduledwork hours for another individual who is employed by such agency in the same capacity, the hours such employee worked as a substitute shall be excluded by the public agency in the calculation of the hours for which the employee is entitled to overtime compensation under this section.
+(3) If an individual who is employed in any capacity by a public agency which is a State, political subdivision of a State, or an interstate governmental agency, agrees, with the approval of the public agency and solely at the option of such individual, to substitute during scheduled work hours for another individual who is employed by such agency in the same capacity, the hours such employee worked as a substitute shall be excluded by the public agency in the calculation of the hours for which the employee is entitled to overtime compensation under this section.
 
 #### (q) Maximum hour exemption for employees receiving remedial education
 
@@ -298,7 +298,7 @@ Subsec. (j). Pub. L. 89–601, §403, added subsec. (j).
 
 Subsec. (b)(2). Pub. L. 87–30, §6(b), substituted "in excess of the maximum workweek applicable to such employee under subsection (a) of this section" for "in excess of forty hours in the workweek".
 
-Subsec. (d)(5), (7). Pub. L. 87–30, §6(c), (d), substituted "in excess of the maximum workweek applicable to such employee under subsection (a) of this section" for "forty in a workweek" in par. (5) and "the maximum workweek applicable to such employee under subsection (a) of this section" for "forty hours" in par. (7).
+Subsec. (d)(5), (7). Pub. L. 87–30, §6(c), (d), substituted "in excess of the maximum workweek applicable tosuch employee under subsection (a) of this section" for "forty in a workweek" in par. (5) and "the maximum workweek applicable to such employee under subsection (a) of this section" for "forty hours" in par. (7).
 
 Subsec. (e). Pub. L. 87–30, §6(e), substituted "the maximum workweek applicable to such employee under subsection (a) of this section", "subsection (a) or (b) of section 206 of this title (whichever may be applicable" and "such maximum" for "forty hours", "section 206(a) of this title" and "forty in any", respectively.
 
@@ -348,7 +348,7 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961,except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
+Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961, except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
 
 #### Effective Date of 1949 Amendment
 
@@ -434,7 +434,7 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 
 #### Study by Secretary of Labor of Excessive Overtime
 
-Pub. L. 89–601, title VI, §603, Sept. 23, 1966, 80 Stat. 844, directed Secretary of Labor to make a completestudy of practices dealing with overtime payments for work in excess of forty hours per week and the extent to which such overtime work impeded the creation of new job opportunities in American industry and instructed him to report to the Congress by July 1, 1967, the findings of such survey with appropriate recommendations.
+Pub. L. 89–601, title VI, §603, Sept. 23, 1966, 80 Stat. 844, directed Secretary of Labor to make a complete study of practices dealing with overtime payments for work in excess of forty hours per week and the extent to which such overtime work impeded the creation of new job opportunities in American industry and instructed him to report to the Congress by July 1, 1967, the findings of such survey with appropriate recommendations.
 
 #### Ex. Ord. No. 9607. Forty-Eight Hour Wartime Workweek
 

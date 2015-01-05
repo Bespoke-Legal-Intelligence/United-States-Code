@@ -104,7 +104,7 @@
 
 #### (8) Direct provision of benefits provided to alternate recipients
 
-&emsp;Any payment for benefits made by a group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
+&emsp;Any payment for benefits made by a group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardianshall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
 
 #### (9) Payment to State official treated as satisfaction of plan's obligation to make payment to alternate recipient
 
@@ -304,7 +304,7 @@ Qualified medical child support order.—The term 'qualified medical child suppo
 
 Medical child support order.—The term 'medical child support order' means any judgment, decree, or order (including approval of a settlement agreement) which—
 
-&emsp;&emsp;&emsp;"(i) provides for child support with respect to a child of a participant under a church group health plan or provides for health benefit coverage tosuch a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan; or
+&emsp;&emsp;&emsp;"(i) provides for child support with respect to a child of a participant under a church group health plan or provides for health benefit coverage to such a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan; or
 
 &emsp;&emsp;&emsp;"(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]) with respect to a church group health plan,
 
@@ -358,7 +358,7 @@ Establishment of procedures for determining qualified status of orders.—Each c
 
 &emsp;&emsp;&emsp;"(i) shall be in writing;
 
-&emsp;&emsp;&emsp;"(ii) shall provide for the notification of each person specified in a medical child support order as eligible to receive benefits under the plan (at the address included in the medical child support order) of such procedures promptly upon receipt by the plan of the medical child support order; and
+&emsp;&emsp;&emsp;"(ii) shall provide for the notification of each person specified in a medical child support orderas eligible to receive benefits under the plan (at the address included in the medical child support order) of such procedures promptly upon receipt by the plan of the medical child support order; and
 
 &emsp;&emsp;&emsp;"(iii) shall permit an alternate recipient to designate a representative for receipt of copies of notices that are sent to the alternate recipient with respect to a medical child support order.
 
@@ -388,7 +388,7 @@ Direct provision of benefits provided to alternate recipients.—Any payment for
 
 &emsp;"(7)
 
-Payment to state official treated as satisfaction of plan's obligation to make payment to alternate recipient.—Payment of benefits by a church group health plan to an official of a State ora political subdivision thereof whose name and address have been substituted for the address of an alternate recipient in a medical child support order, pursuant to paragraph (3)(A), shall be treated, for purposes of this subsection and part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\], as payment of benefits to the alternate recipient.
+Payment to state official treated as satisfaction of plan's obligation to make payment to alternate recipient.—Payment of benefits by a church group health plan to an official of a State or a political subdivision thereof whose name and address have been substituted for the address of an alternate recipient in a medical child support order, pursuant to paragraph (3)(A), shall be treated, for purposes of this subsection and part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\], as payment of benefits to the alternate recipient.
 
 &emsp;"(8)
 

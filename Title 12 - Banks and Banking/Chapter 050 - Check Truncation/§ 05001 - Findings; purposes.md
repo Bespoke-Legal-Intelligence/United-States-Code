@@ -38,5 +38,5 @@ Pub. L. 108–100, §20, Oct. 28, 2003, 117 Stat. 1194, provided that: "This Act
 
 #### Short Title
 
-Pub. L. 108–100, §1(a), Oct. 28, 2003, 117 Stat. 1177, provided that: "This Act \[enacting this chapter, amending section 412 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Check Clearing for the 21st Century Act' or the 'Check 21 Act'."
+Pub. L. 108–100, §1(a), Oct. 28, 2003, 117 Stat. 1177, provided that: "This Act \[enacting this chapter, amendingsection 412 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Check Clearing for the 21st Century Act' or the 'Check 21 Act'."
 

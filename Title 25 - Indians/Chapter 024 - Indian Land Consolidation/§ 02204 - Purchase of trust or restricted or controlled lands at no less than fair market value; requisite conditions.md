@@ -18,7 +18,7 @@
 
 #### (B) Interest owned by tribe
 
-&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation ofthe percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
+&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
 
 #### (b) Conditions applicable to purchase
 
@@ -90,7 +90,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (F) Notice to owners on completion of appraisal
 
-&emsp;&emsp;Upon completion of the appraisal, the Secretary shall give notice of the requested partition and appraisal to all owners of undivided interests in the parcel, in accordance with principles of due process. Such notice shall include the following requirements:
+&emsp;&emsp;Upon completion of the appraisal, the Secretary shall give notice of the requested partition and appraisal to all owners of undivided interests in the parcel, in accordancewith principles of due process. Such notice shall include the following requirements:
 
 #### (i) Written notice
 
@@ -138,7 +138,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After reviewing and considering comments or information timely submitted byany owner of an interest in the parcel in response to the notice required under subparagraph (F), the Secretary may, consistent with the provisions of this chapter for establishing fair market value—
+&emsp;&emsp;&emsp;After reviewing and considering comments or information timely submitted by any owner of an interest in the parcel in response to the notice required under subparagraph (F), the Secretary may, consistent with the provisions of this chapter for establishing fair market value—
 
 &emsp;&emsp;&emsp;&emsp;(I) order a new appraisal; or
 
@@ -280,7 +280,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
-(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1),Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
+(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
 
 #### References in Text
 
@@ -292,7 +292,7 @@ This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original
 
 <b>2008</b>—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted "by the Secretary" for "by Secretary" in concluding provisions.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
+<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation ofthe percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
 
 Subsec. (c). Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
 

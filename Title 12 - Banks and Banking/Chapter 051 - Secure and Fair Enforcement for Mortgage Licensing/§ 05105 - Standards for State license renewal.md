@@ -12,7 +12,7 @@ The minimum standards for license renewal for State-licensed loan originators sh
 
 #### (1) In general
 
-&emsp;In order to meet the annual continuing education requirements referred to in subsection\(a)(2), a State-licensed loan originator shall complete at least 8 hours of education approved in accordance with paragraph (2), which shall include at least—
+&emsp;In order to meet the annual continuing education requirements referred to in subsection (a)(2), a State-licensed loan originator shall complete at least 8 hours of education approved in accordance with paragraph (2), which shall include at least—
 
 &emsp;&emsp;(A) 3 hours of Federal law and regulations;
 
@@ -44,7 +44,7 @@ The minimum standards for license renewal for State-licensed loan originators sh
 
 #### (B) Standards
 
-&emsp;&emsp;In approving courses under this section, the Nationwide Mortgage Licensing System and Registry shall apply reasonable standards in the review and approval of courses.
+&emsp;&emsp;In approving courses under this section, the Nationwide Mortgage Licensing Systemand Registry shall apply reasonable standards in the review and approval of courses.
 
 (Pub. L. 110–289, div. A, title V, §1506, July 30, 2008, 122 Stat. 2816.)
 

@@ -10,7 +10,7 @@ Pub. L. 110–132, §1, Dec. 6, 2007, 121 Stat. 1360, provided that: "This Act \
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–111, §1, Jan. 8, 2002, 115 Stat. 2095, provided that: "This Act \[enacting section 4214 of this title,amending sections 4211, 4212, and 4244 to 4246 of this title, and repealing section 4243 of this title\] may be cited as the 'African Elephant Conservation Reauthorization Act of 2001'."
+Pub. L. 107–111, §1, Jan. 8, 2002, 115 Stat. 2095, provided that: "This Act \[enacting section 4214 of this title, amending sections 4211, 4212, and 4244 to 4246 of this title, and repealing section 4243 of this title\] may be cited as the 'African Elephant Conservation Reauthorization Act of 2001'."
 
 #### Short Title of 1998 Amendment
 

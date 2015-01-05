@@ -26,7 +26,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (D) Procedure
 
-&emsp;&emsp;In the event of consent under subparagraph (C), or if, upon the record, made at any such hearing, the Bureau finds that any violation specified in the notice of charges has been established, the Bureau may issue and serve upon the covered person or service provider an order to cease and desist from the violation or practice. Such order may, by provisions which may be mandatory or otherwise, require the covered person or service provider to cease and desist from the subject activity, and to take affirmative action to correct the conditions resulting from any such violation.
+&emsp;&emsp;In the event of consent under subparagraph (C), or if, upon the record, made at any such hearing, the Bureau finds that any violation specified in the notice of charges has been established, the Bureau may issue and serve upon the covered person or service provider an order to cease and desist fromthe violation or practice. Such order may, by provisions which may be mandatory or otherwise, require the covered person or service provider to cease and desist from the subject activity, and to take affirmative action to correct the conditions resulting from any such violation.
 
 #### (2) Effectiveness of order
 
@@ -58,7 +58,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (A) Temporary order
 
-&emsp;&emsp;If a notice of charges served under subsection (b) specifies, on the basis of particular facts and circumstances, that the books and records of a covered person or service provider are so incomplete or inaccurate that the Bureau is unable to determine the financial condition of that person or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that person, the Bureau may issue a temporary order requiring—
+&emsp;&emsp;If a notice of charges served under subsection (b) specifies, on the basis of particular facts and circumstances, that the books and records of a covered person or serviceprovider are so incomplete or inaccurate that the Bureau is unable to determine the financial condition of that person or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that person, the Bureau may issue a temporary order requiring—
 
 &emsp;&emsp;&emsp;(i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
 

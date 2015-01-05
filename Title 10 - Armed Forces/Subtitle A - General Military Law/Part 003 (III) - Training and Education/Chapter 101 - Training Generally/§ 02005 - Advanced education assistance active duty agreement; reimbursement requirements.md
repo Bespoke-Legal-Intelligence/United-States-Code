@@ -1,6 +1,6 @@
 ### §2005. Advanced education assistance: active duty agreement; reimbursement requirements
 
-(a) The Secretary concerned may require, as a condition to the Secretary providing advancededucation assistance to any person, that such person enter into a written agreement with the Secretary concerned under the terms of which such person shall agree—
+(a) The Secretary concerned may require, as a condition to the Secretary providing advanced education assistance to any person, that such person enter into a written agreement with the Secretary concerned under the terms of which such person shall agree—
 
 &emsp;(1) to complete the educational requirements specified in the agreement and to serve on active duty for a period specified in the agreement;
 

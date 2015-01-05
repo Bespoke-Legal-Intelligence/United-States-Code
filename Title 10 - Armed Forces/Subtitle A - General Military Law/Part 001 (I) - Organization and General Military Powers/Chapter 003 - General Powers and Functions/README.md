@@ -27,12 +27,19 @@
 | [130b.](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md) | Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information. |
 | [130c.](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md) | Nondisclosure of information: certain sensitive information of foreign governments and international organizations. |
 | [130d.](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md) | Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel. |
-| [130e.](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20critical%20infrastructure%20security%20information.md) | Treatment under Freedom of Information Act of critical infrastructure security information. |
-| [130f.](%C2%A7%2000130f%20-%20Congressional%20notification%20of%20sensitive%20military%20operations.md) | Congressional notification regarding sensitive military operations.<sup>1</sup> |
+| [130e.](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20critical%20infrastructure%20security%20information.md) | Treatment under Freedom of Information Act of certain critical infrastructure security information.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [130f.](%C2%A7%2000130f%20-%20Congressional%20notification%20of%20sensitive%20military%20operations.md) | Congressional notification of sensitive military operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title X, §1071(f)(2), Dec. 19, 2014, 128 Stat. 3510, substituted "Treatment under Freedom of Information Act of certain critical infrastructure security information" for "Treatment under Freedom of Information Act of critical infrastructure security information" in item 130e and "Congressional notification of sensitive military operations" for "Congressional notification regarding sensitive military operations" in item 130f.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title X, §§1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130f and substituted "Treatment under Freedom of Information Act of critical infrastructure security information" for "Treatment under Freedom of Information Act of certain critical infrastructure security information" in item 130e.
 

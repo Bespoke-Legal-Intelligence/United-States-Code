@@ -30,7 +30,7 @@ The Coordinator shall cooperate with the Secretary of Transportation and the Fed
 
 #### (e) Report
 
-Not later than March 1, 2005, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State thathas implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.
+Not later than March 1, 2005, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.
 
 (Pub. L. 108–21, title III, §301, Apr. 30, 2003, 117 Stat. 660.)
 

@@ -278,7 +278,7 @@ A State that receives an allotment under this section may reserve not more than 
 
 #### (f) Statutory and regulatory relief for institutions of higher education
 
-The Secretary may grant, upon the request of an institution of higher education that is in a partnership described in subsection (b)(2)(B)(ii) and that receives an allotment under this section, a waiver for such institution from statutory or regulatory requirements that inhibit the ability of the institution to successfully and efficiently participate in the activities of the partnership.
+The Secretary may grant, upon the request of an institution of higher education that is in apartnership described in subsection (b)(2)(B)(ii) and that receives an allotment under this section, a waiver for such institution from statutory or regulatory requirements that inhibit the ability of the institution to successfully and efficiently participate in the activities of the partnership.
 
 #### (g) Applicability rule
 
@@ -316,7 +316,7 @@ Another prior section 415E of Pub. L. 89–329 was classified to section 1070c�
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(1) \[title III, §316(2)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsec. (c) and striking out former subsec. (c), was executed to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress. Prior to amendment, subsec. (c) listed the activities for which States receiving a grant under this section were authorized to use the grant funds.
 
-Subsecs. (f), (g). Pub. L. 106–554, §1(a)(1) \[title III, §316(3)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by addingsubsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
+Subsecs. (f), (g). Pub. L. 106–554, §1(a)(1) \[title III, §316(3)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
 
 #### Effective Date of 2009 Amendment
 

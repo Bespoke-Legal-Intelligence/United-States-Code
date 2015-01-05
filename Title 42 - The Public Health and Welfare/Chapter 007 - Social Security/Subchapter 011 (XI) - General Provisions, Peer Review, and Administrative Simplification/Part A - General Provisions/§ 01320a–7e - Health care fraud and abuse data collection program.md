@@ -38,7 +38,7 @@ The Secretary shall maintain a national health care fraud and abuse data collect
 
 #### (A) Health plans
 
-&emsp;&emsp;Any health plan that fails to report information on an adverse action required to be reported under this subsection shall be subject to a civil money penalty of not more than $25,000 for each such adverse action not reported. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
+&emsp;&emsp;Any health plan that fails to report information on an adverse action required to bereported under this subsection shall be subject to a civil money penalty of not more than $25,000 for each such adverse action not reported. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
 
 #### (B) Governmental agencies
 
@@ -62,7 +62,7 @@ The Secretary shall maintain a national health care fraud and abuse data collect
 
 #### (1) Availability
 
-&emsp;The information collected under this section shall be available from the National Practitioner Data Bank to the agencies, authorities,and officials which are provided under section 1396r–2(b) of this title information reported under section 1396r–2(a) of this title.
+&emsp;The information collected under this section shall be available from the National Practitioner Data Bank to the agencies, authorities, and officials which are provided under section 1396r–2(b) of this title information reported under section 1396r–2(a) of this title.
 
 #### (2) Fees for disclosure
 
@@ -216,7 +216,7 @@ Funding.—
 
 &emsp;"(A)
 
-Availability of fees.—Fees collected pursuant to section 1128E(d)(2) of the Social Security Act \[42 U.S.C. 1320a–7e(d)(2)\] prior to the effective date specified in paragraph (6) for the disclosure of information in the Healthcare Integrity and Protection Data Bank shall be available to the Secretary, without fiscal year limitation, for payment of costs related to the transition process described in paragraph (1). Any such fees remaining after the transition period is complete shall be available to the Secretary, without fiscal year limitation, for payment of the costs of operating the National Practitioner Data Bank.
+Availability of fees.—Fees collected pursuant to section 1128E(d)(2) of the Social Security Act \[42 U.S.C. 1320a–7e(d)(2)\] prior to the effective date specified in paragraph (6) for the disclosure of information in the Healthcare Integrity and ProtectionData Bank shall be available to the Secretary, without fiscal year limitation, for payment of costs related to the transition process described in paragraph (1). Any such fees remaining after the transition period is complete shall be available to the Secretary, without fiscal year limitation, for payment of the costs of operating the National Practitioner Data Bank.
 
 &emsp;"(B)
 

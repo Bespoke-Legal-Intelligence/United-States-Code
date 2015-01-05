@@ -10,7 +10,7 @@ Section was formerly classified to section 64a–1 of this title prior to editor
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
+<b>1975</b>—Pub. L. 94–59 substituted "$39,000" for "$37,620", effective July 1, 1975.
 
 #### Effective Date
 

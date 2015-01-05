@@ -34,7 +34,7 @@ A prior section 1581, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–107 struck out par. (2) designation and "on or after December 5, 1991," after "all amounts obligated" and struck out par. (1) which read as follows: "The Secretary of the Treasury shalldeposit into the account all amounts that were obligated by the Secretary of Defense before December 5, 1991, and that remain unexpended for separation pay for foreign nationals referred to in subsection (e)."
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 struck out par. (2) designation and "on or after December 5, 1991," after "all amounts obligated" and struck out par. (1) which read as follows: "The Secretary of the Treasury shall deposit into the account all amounts that were obligated by the Secretary of Defense before December 5, 1991, and that remain unexpended for separation pay for foreign nationals referred to in subsection (e)."
 
 <b>1994</b>—Subsecs. (a), (b). Pub. L. 103–337, §346(1), substituted "foreign nationals referred to in subsection (e)" for "foreign national employees of the Department of Defense" wherever appearing.
 

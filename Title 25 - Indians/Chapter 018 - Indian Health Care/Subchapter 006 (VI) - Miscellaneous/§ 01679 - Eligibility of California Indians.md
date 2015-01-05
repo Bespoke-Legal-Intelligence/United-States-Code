@@ -28,7 +28,7 @@ Act of August 18, 1958, referred to in subsec. (a)(4), is Pub. L. 85–671, Aug.
 
 #### Codification
 
-Section 809 of Pub. L. 94–437 is based on section 192(3) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Section 809 of Pub. L. 94–437 is based on section 192(3) of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Prior Provisions
 

@@ -10,11 +10,11 @@ In general.—The rights and protections established by subsections (a)(1) and (
 
 &emsp;(2)
 
-Interns and volunteers.—For the purposes of this section, the term “covered employee” does not include an intern or a volunteer as defined in regulations under subsection (c).
+Interns and volunteers.—For the purposes of this section, the term "covered employee" does not include an intern or a volunteer as defined in regulations under subsection (c).
 
 &emsp;(3)
 
-Compensatory time.—Except as provided in regulations under subsection (c)(3), covered employees may not receive compensatory time in lieu of overtime compensation.
+Compensatory time.—Except as provided in regulations under subsection (c)(3), coveredemployees may not receive compensatory time in lieu of overtime compensation.
 
 (b)
 
@@ -30,7 +30,7 @@ In general.—The President, or the designee of the President, shall issue regul
 
 &emsp;(2)
 
-Agency regulations.—Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, thata modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+Agency regulations.—Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 &emsp;(3)
 

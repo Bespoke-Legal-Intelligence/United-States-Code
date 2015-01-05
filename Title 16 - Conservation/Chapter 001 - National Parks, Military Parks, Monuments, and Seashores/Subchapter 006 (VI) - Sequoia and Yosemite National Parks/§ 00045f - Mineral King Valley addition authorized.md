@@ -40,9 +40,9 @@ It is the purpose of this section to—
 
 #### (d) Administration; statutory authorities applicable; leases or permits: renewals or extensions, review; termination
 
-(1) The area added to the park by this section shall be administered in accordance with this section and the provisions of law generally applicable to units of the National Park System including sections 1, 2, 3, 4, 41, and 43 of this title. Any other statutory authority available to the Secretary for the conservation and management of wildlife, wildlife habitat, and natural resources may be utilized to the extent he finds such authority will further the purposes of this section.
+(1) The area added to the park by this section shall be administered in accordance with this section and the provisions of law generally applicable to units of the National Park System including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. and following) <sup>1</sup> and sections 41 and 43 of this title. Any other statutory authority available to the Secretary for the conservation and management of wildlife, wildlife habitat, and natural resources may be utilized to the extent he finds such authority will further the purposes of this section.
 
-(2)(A) Except in the case of a lease or permit which the Secretary determines to be incompatible with the administration of the park pursuant to this section, any lease or permit on Federal land within the area added to the park under this section which is in effect immediately before November 10, 1978, shall continue in effect pursuant to its terms and conditionsfollowing the expansion of the park under this section.
+(2)(A) Except in the case of a lease or permit which the Secretary determines to be incompatible with the administration of the park pursuant to this section, any lease or permit on Federal land within the area added to the park under this section which is in effect immediately before November 10, 1978, shall continue in effect pursuant to its terms and conditions following the expansion of the park under this section.
 
 (B) In the case of a lease or permit which is continued under subparagraph (A), upon notice to the Secretary by the lessee or permittee of his intention to seek renewal or extension of such lease or permit, the lease or permit shall be reviewed by the Secretary, and may be renewed or extended for an additional period of five years. Any such lease or permit shall be reviewed at the end of such renewal or extension period and may also be renewed or extended in the same manner for additional five-year periods thereafter. Any renewals or extensions of leases or permits shall be granted only to those persons who were lessees or permittees of record on November 10, 1978, and to their heirs, successors, and assigns, and any such lease or permit shall provide that the lease or permit may be terminated by the Secretary at any time if the Secretary determines that such lease or permit is incompatible with the administration of the park pursuant to this section or that the land is needed for park purposes.
 
@@ -54,7 +54,7 @@ It is the purpose of this section to—
 
 (2)(A) In preparing the comprehensive management plan required by this subsection and in preparing any subsequent revision of such plan, the Secretary shall provide for full public participation and shall consider the comments and views of all interested agencies, organizations, and individuals.
 
-(B) For purposes of insuring such full public participation, the Secretary shall provide reasonable advance notice to State and local governments, interested Federal agencies, private organizations, and the general public of hearings, workshops, meetings, and other opportunities available for such participation. Such notice shall be published in newspapers of general circulation in the localities affected by the development and management of the park, published in the Federal Register, and communicated by other appropriate means. The Western Regional Advisory Committee of the National Park Service (or a subcommittee thereof) shall also be utilized for purposes of facilitating public involvement.
+(B) For purposes of insuring such full public participation, the Secretary shall provide reasonable advance notice to State and local governments, interested Federal agencies, private organizations, and the general public of hearings, workshops, meetings, and other opportunities available for such participation. Such notice shall be published in newspapers of general circulation in the localities affected by the development and management of the park, published in the Federal Register, and communicated by other appropriate means. The Western Regional Advisory Committee of the National Park Service (or a subcommittee thereof)shall also be utilized for purposes of facilitating public involvement.
 
 (C) The Secretaries or Directors of all Federal departments, agencies, and commissions having a relevant expertise are hereby authorized and directed to cooperate with the Secretary in his development of such plan and to make such studies as the Secretary may request on a cost reimbursable basis.
 
@@ -76,6 +76,8 @@ The Congress recognizes that the Mineral King Valley area has outstanding potent
 
 This section, referred to in text, other than as appearing with a reference to a subsection of this section, means section 314 of Pub. L. 95–625, which in addition to enacting this section, repealed sections 45a–3 and 688 of this title, enacted provisions set out as a note under section 688 of this title, and amended provisions set out as a note under section 45a–1 of this title.
 
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. and following), referred to in subsec. (d)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
 #### Codification
 
 Section is comprised of section 314 of Pub. L. 95–625. Subsec. (d)(3) of section 314 of Pub. L. 95–625 amended Pub. L. 93–522, which is set out as a note under section 45a–1 of this title. Subsec. (g) of section 314 of Pub. L. 95–625 repealed sections 45a–3 and 688 of this title and enacted provisions set out as notes under section 688 of this title.
@@ -90,9 +92,11 @@ Subsec. (d)(2)(B). Pub. L. 108–447, §139(b)(2), inserted "and to their heirs,
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee onNatural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### "Secretary" Defined
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Pub. L. 95–625, §2, Nov. 10, 1978, 92 Stat. 3470, provided that: "As used in this Act \[see Tables for classification\], except as otherwise specifically provided, the term 'Secretary' means the Secretary of the Interior."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

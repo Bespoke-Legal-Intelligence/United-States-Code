@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (C) Contributions to qualified tuition program and Coverdell education savings accounts
 
-&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
+&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined insection 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
 
 #### (3) Eligible educational institution
 
@@ -232,5 +232,5 @@ Pub. L. 100–647, title VI, §6009(b), Nov. 10, 1988, 102 Stat. 3690, provided 
 
 #### Parental Assistance With Tuition Stamp Study
 
-Pub. L. 100–647, title VI, §6009(e), Nov. 10, 1988, 102 Stat. 3690, directed Secretary of the Treasury or his delegate, after consultation with Secretary of Education or his delegate, to conduct a study of feasibility of using stamps or similar programs to encourage and facilitate savings by parents towards purchase of Series EE bonds eligible for exclusion and to submit, not later than Dec. 31, 1989, results of such study, together with any recommendations deemed appropriate, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
+Pub. L. 100–647, title VI, §6009(e), Nov. 10, 1988, 102 Stat. 3690, directed Secretary of the Treasury or his delegate, after consultation with Secretary of Education or his delegate, to conduct a study of feasibility of using stamps or similar programs to encourage and facilitate savings by parents towards purchase of SeriesEE bonds eligible for exclusion and to submit, not later than Dec. 31, 1989, results of such study, together with any recommendations deemed appropriate, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
 

@@ -42,7 +42,7 @@ A certification under the procedures authorized by this section shall—
 
 #### (4) Approval by States
 
-In cases in which a unit of general local government carries out the responsibilities described in paragraph (1), the Secretary may permit the State to perform those actions of the Secretary described in paragraph (2) and the performance of such actions by the State, where permitted by the Secretary, shall be deemed tosatisfy the Secretary's responsibilities referred to in the second sentence of paragraph (2).
+In cases in which a unit of general local government carries out the responsibilities described in paragraph (1), the Secretary may permit the State to perform those actions of the Secretary described in paragraph (2) and the performance of such actions by the State, where permitted by the Secretary, shall be deemed to satisfy the Secretary's responsibilities referred to in the second sentence of paragraph (2).
 
 (Pub. L. 103–233, title III, §305(c), Apr. 11, 1994, 108 Stat. 372.)
 
@@ -54,5 +54,5 @@ The Departments of Veterans Affairs and Housing and Urban Development, and Indep
 
 #### Codification
 
-Section was enacted as part of the Multifamily Housing Property Disposition Reform Act of 1994, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+Section was enacted as part of the Multifamily Housing Property Disposition Reform Act of 1994, and not aspart of the Department of Housing and Urban Development Act which comprises this chapter.
 

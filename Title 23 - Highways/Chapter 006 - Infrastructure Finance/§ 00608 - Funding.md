@@ -22,7 +22,7 @@ In general.—Of the total amount of funds made available to carry out this chap
 
 &emsp;&emsp;(B)
 
-Reobligation.—Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary onprojects other than rural infrastructure projects.
+Reobligation.—Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary on projects other than rural infrastructure projects.
 
 &emsp;(4)
 
@@ -110,7 +110,7 @@ Pub. L. 109–20, §4(a)(10)(C), substituted "$2,080,000,000" for "$1,950,000,00
 
 Pub. L. 109–14, §4(a)(10)(C), substituted "$1,950,000,000" for "$1,733,333,333" in item relating to fiscal year 2005 in table.
 
-<b>2004</b>—Subsec. (a)(1)(F). Pub. L. 108–280, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F)which read as follows: "$116,666,667 for the period of October 1, 2003, through July 31, 2004."
+<b>2004</b>—Subsec. (a)(1)(F). Pub. L. 108–280, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: "$116,666,667 for the period of October 1, 2003, through July 31, 2004."
 
 Pub. L. 108–263, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: "$105,000,000 for the period of October 1, 2003, through June 30, 2004."
 

@@ -10,7 +10,7 @@ If the injury causes death, the compensation therefore shall be known as a death
 
 (d) If there be no surviving wife or husband or child, or if the amount payable to a surviving wife or husband and to children shall be less in the aggregate than 662/3 per centum of the average wages of the deceased; then for the support of grandchildren or brothers and sisters, if dependent upon the deceased at the time of the injury, and any other persons who satisfy the definition of the term "dependent" in section 152 of title 26, but are not otherwise eligible under this section, 20 per centum of such wages for the support of each such person during such dependency and for the support of each parent, or grandparent, of the deceased if dependent upon him at the time of the injury, 25 per centum of such wages during such dependency. But in no case shall the aggregate amount payable under this subsection exceed the difference between 662/3 per centum of such wages and the amount payable as hereinbefore provided to widow or widower and for the support of surviving child or children.
 
-(e) In computing death benefits, the average weekly wages of the deceased shall not be lessthan the national average weekly wage as prescribed in section 906(b) of this title, but—
+(e) In computing death benefits, the average weekly wages of the deceased shall not be less than the national average weekly wage as prescribed in section 906(b) of this title, but—
 
 &emsp;(1) the total weekly benefits shall not exceed the lesser of the average weekly wages of the deceased or the benefit which the deceased employee would have been eligible to receive under section 906(b)(1) of this title; and
 

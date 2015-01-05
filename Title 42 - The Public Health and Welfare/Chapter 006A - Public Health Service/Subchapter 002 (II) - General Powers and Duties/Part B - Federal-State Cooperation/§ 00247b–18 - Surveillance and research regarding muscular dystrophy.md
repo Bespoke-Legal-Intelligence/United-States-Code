@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants and cooperative agreements to public or nonprofit private entities (including health departments of States and political subdivisions of States, and including universities and other educational entities) for the collection, analysis, and reporting of data on Duchenne and other forms of muscular dystrophy. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants and cooperative agreements to public or nonprofit private entities (including health departments of States and political subdivisions of States, and including universitiesand other educational entities) for the collection, analysis, and reporting of data on Duchenne and other forms of muscular dystrophy. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
 
 #### (b) National muscular dystrophy epidemiology program
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to public or nonprofit private entities (including health departments of States and political subdivisions of States, and including universities and other educational entities) for the purpose of carrying out epidemiological activities regarding Duchenne and other forms of muscular dystrophies, including collecting and analyzing information on the number, incidence, correlates, and symptoms of cases. In carrying out the preceding sentence, the Secretary shall provide for a national surveillance program. In making awards under this subsection, the Secretary may provide direct technical assistance in lieu of cash.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to public or nonprofit private entities (including health departments of States and political subdivisions of States, and including universities and other educational entities) for the purpose of carrying out epidemiological activities regarding Duchenne and other forms of muscular dystrophies, including collecting and analyzing information on the number, incidence, correlates, and symptoms of cases. In carrying out the preceding sentence, the Secretary shall provide for a national surveillance program and, to the extent possible, ensure that data be representative of all affected populations and shared in a timely manner. In making awards under this subsection, the Secretary may provide direct technical assistance in lieu of cash.
 
 #### (c) Coordination with centers of excellence
 
@@ -36,9 +36,11 @@ In carrying out this section, the Secretary may ensure that any data on patients
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828; amended Pub. L. 110–361, §3, Oct. 8, 2008, 122 Stat. 4010.)
+(July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828; amended Pub. L. 110–361, §3, Oct. 8, 2008, 122 Stat. 4010; Pub. L. 113–166, §3, Sept. 26, 2014, 128 Stat. 1880.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–166 inserted "and, to the extent possible, ensure that data be representative of all affected populations and shared in a timely manner" after "surveillance program".
 
 <b>2008</b>—Subsecs. (d) to (f). Pub. L. 110–361 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 

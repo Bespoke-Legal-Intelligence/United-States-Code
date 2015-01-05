@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President shall impose sanctions in accordance with subsection (c) with respect to each person on the list required by subsection (b).
+The President shall impose sanctions in accordance with subsection (c) with respect toeach person on the list required by subsection (b).
 
 #### (b) List
 

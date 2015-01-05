@@ -1,6 +1,6 @@
 ### §11704. Rights and remedies of persons injured by rail carriers
 
-(a) A person injured because a rail carrier providing transportation or service subject to the jurisdiction of the Board under this part does not obey an order of the Board, except an order for the payment of money, may bring a civil action in a United States District Court to enforce that order under this subsection.
+(a) A person injured because a rail carrier providing transportation or service subject to the jurisdiction of the Board under this part does not obey an order of the Board, except an orderfor the payment of money, may bring a civil action in a United States District Court to enforce that order under this subsection.
 
 (b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part is liable for damages sustained by a person as a result of an act or omission of that carrier in violation of this part. A rail carrier providing transportation subject to the jurisdiction of the Board under this part is liable to a person for amounts charged that exceed the applicable rate for the transportation.
 

@@ -8,35 +8,16 @@
 
 (c) The age and service requirements for retirement under this section are as follows:
 
-<b>Attained age:</b>
+&nbsp;
 
-Years of service:
-
-&emsp;&emsp;65
-
-15&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;66
-
-14&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;67
-
-13&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;68
-
-12&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;69
-
-11&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;70
-
-10&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>Attained age:</b> | <b>Years of service:</b> |
+| :--- | ---: |
+| 65 | 15 |
+| 66 | 14 |
+| 67 | 13 |
+| 68 | 12 |
+| 69 | 11 |
+| 70 | 10 |
 
 (d) The President shall appoint, by and with the advice and consent of the Senate, a successor to a justice or judge who retires under this section.
 

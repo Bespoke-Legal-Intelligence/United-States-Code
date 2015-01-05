@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the labeling of a pesticide contain requirements and procedures for the transportation, storage, and disposal of the pesticide, any container of the pesticide, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide; and
 
-&emsp;&emsp;(C) the registrant of a pesticide provide evidence of sufficient financial and other resources to carry out a recall plan under subsection (b) of this section, and provide for the disposition of the pesticide, in the event of suspension and cancellation of the pesticide.
+&emsp;&emsp;(C) the registrant of a pesticide provide evidence of sufficient financial and other resources to carry out a recall plan under subsection (b), and provide for the disposition of the pesticide, in the event of suspension and cancellation of the pesticide.
 
 #### (2) Pesticides
 
@@ -72,13 +72,13 @@
 
 #### (6) Requirements or procedures
 
-&emsp;No requirement or procedure imposed in accordance with paragraph (2) of subsection (a) of this section may require the recall of existing stocks of the pesticide except as provided by this subsection.
+&emsp;No requirement or procedure imposed in accordance with paragraph (2) of subsection (a) may require the recall of existing stocks of the pesticide except as provided by this subsection.
 
 #### (c) Storage costs
 
 #### (1) Submission of plan
 
-&emsp;A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) of this section for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meets criteria established by the Administrator by regulation.
+&emsp;A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meets criteria established by the Administrator by regulation.
 
 #### (2) Reimbursement
 
@@ -102,7 +102,7 @@
 
 #### (2) Rule and regulation review
 
-&emsp;Section 136w(a)(4) of this title shall not apply to any regulation issued under subsection (a)(2) or (b) of this section.
+&emsp;Section 136w(a)(4) of this title shall not apply to any regulation issued under subsection (a)(2) or (b).
 
 #### (3) Limitations
 
@@ -110,7 +110,7 @@
 
 #### (4) Seizure and penalties
 
-&emsp;If the Administrator finds that a person who is subject to a regulation or order under subsection (a)(2) or (b) of this section has failed substantially to comply with that regulation or order, the Administrator may take action under section 136k or 136l of this title or obtain injunctive relief under section 136n(c) of this title against such person or any successor in interest of any such person.
+&emsp;If the Administrator finds that a person who is subject to a regulation or order under subsection (a)(2) or (b) has failed substantially to comply with that regulation or order, the Administrator may take action under section 136k or 136l of this title or obtain injunctive relief under section 136n(c) of this title against such person or any successor in interest of any such person.
 
 #### (e) Container design
 
@@ -178,7 +178,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 2 years after the effective date of this subsection, the Administratorshall submit to Congress a report describing the results of the study required under paragraph (1).
+&emsp;Not later than 2 years after the effective date of this subsection, the Administrator shall submit to Congress a report describing the results of the study required under paragraph (1).
 
 #### (h) Relationship to Solid Waste Disposal Act
 
@@ -188,7 +188,7 @@
 
 #### (2) Antimicrobial products
 
-&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
+&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
 
 (June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507; Pub. L. 110–234, title XIV, §14209(b), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, §4(a), title XIV, §14209(b), June 18, 2008, 122 Stat. 1664, 2225.)
 

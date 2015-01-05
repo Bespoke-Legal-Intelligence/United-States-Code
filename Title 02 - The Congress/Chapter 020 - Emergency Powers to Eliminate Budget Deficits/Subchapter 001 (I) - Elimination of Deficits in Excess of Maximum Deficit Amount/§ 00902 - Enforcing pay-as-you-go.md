@@ -14,15 +14,15 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 &emsp;OMB shall calculate the amount of deficit increase or decrease by adding—
 
-&emsp;&emsp;(A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d) of this section;
+&emsp;&emsp;(A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d);
 
 &emsp;&emsp;(B) the estimated amount of savings in direct spending programs applicable to the budget year resulting from the prior year's sequestration under this section or section 903 of this title, if any, as published in OMB's final sequestration report for that prior year; and
 
-&emsp;&emsp;(C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) of this section that were not reflected in the final OMB sequestration report for the current year.
+&emsp;&emsp;(C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) that were not reflected in the final OMB sequestration report for the current year.
 
 #### (c) Eliminating a deficit increase
 
-(1) The amount required to be sequestered in a fiscal year under subsection (b) of this section shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
+(1) The amount required to be sequestered in a fiscal year under subsection (b) shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
 
 #### (A) First
 
@@ -66,7 +66,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 &emsp;&emsp;(A) full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates; and
 
-&emsp;&emsp;(B) emergency provisions as designated under subsection (e) of this section.
+&emsp;&emsp;(B) emergency provisions as designated under subsection (e).
 
 #### (5) Scorekeeping guidelines
 
@@ -78,7 +78,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (e) Emergency legislation
 
-If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
 (Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702; Pub. L. 113–67, div. A, title I, §121(1), (2), Dec. 26, 2013, 127 Stat. 1174, 1175.)
 
@@ -90,33 +90,33 @@ Section 906(c) of this title, referred to in subsec. (c)(1)(B), was repealed by 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(2)(B). Pub. L. 113–67, §121(1), substituted “applicable to the budget year” for “applicable to budget year”.
+<b>2013</b>—Subsec. (b)(2)(B). Pub. L. 113–67, §121(1), substituted "applicable to the budget year" for "applicable to budget year".
 
-Subsec. (c)(1)(C)(i). Pub. L. 113–67, §121(2), substituted “subsection (b)” for “paragraph (1)”.
+Subsec. (c)(1)(C)(i). Pub. L. 113–67, §121(2), substituted "subsection (b)" for "paragraph (1)".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration."
 
 Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
 
-Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted “and direct” after “guaranteed”.
+Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted "and direct" after "guaranteed".
 
-Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
+Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB."
 
-Subsec. (e). Pub. L. 105–33, §10205(4), struck out “, for any fiscal year from 1991 through 1998,” after “If” and “through 1995” after “receipts in all fiscal years”.
+Subsec. (e). Pub. L. 105–33, §10205(4), struck out ", for any fiscal year from 1991 through 1998," after "If" and "through 1995" after "receipts in all fiscal years".
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–354 inserted at end “This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.”
+<b>1994</b>—Subsec. (e). Pub. L. 103–354 inserted at end "This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14003(a)(1), which directed the substitution of "Fiscal year 1992–1998 enforcement" for "Fiscal year 1992–1995 enforcement" in heading, was executed by substituting "Fiscal years 1992–1998 enforcement" for "Fiscal years 1992–1995 enforcement", to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 103–66, §14003(a)(2), substituted “through fiscal year 1998” for “through fiscal year 1995” in two places.
+Subsec. (d). Pub. L. 103–66, §14003(a)(2), substituted "through fiscal year 1998" for "through fiscal year 1995" in two places.
 
-Subsec. (e). Pub. L. 103–66, §14003(a)(3), substituted “for any fiscal year from 1991 through 1998” for “for fiscal year 1991, 1992, 1993, 1994, or 1995”.
+Subsec. (e). Pub. L. 103–66, §14003(a)(3), substituted "for any fiscal year from 1991 through 1998" for "for fiscal year 1991, 1992, 1993, 1994, or 1995".
 
 <b>1990</b>—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
 
 <b>1987</b>—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
 
-Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” for “made”.
+Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted "proposed" for "made".
 
 #### Effective Date of 1994 Amendment
 
@@ -124,31 +124,31 @@ Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208, provided
 
 #### Congressional Budget Office Excepted From Certain Requirements
 
-Pub. L. 112–25, title I, §104(b), Aug. 2, 2011, 125 Stat. 246, provided that: “Sections 252(d)(1), 254(c), 254(f)(3), and 254(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)(1), 904(c), (f)(3), (i)\] shall not apply to the Congressional Budget Office.”
+Pub. L. 112–25, title I, §104(b), Aug. 2, 2011, 125 Stat. 246, provided that: "Sections 252(d)(1), 254(c), 254(f)(3), and 254(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)(1), 904(c), (f)(3), (i)\] shall not apply to the Congressional Budget Office."
 
 #### Reduction of Preexisting Paygo Balances
 
-Pub. L. 107–312, §1, Dec. 2, 2002, 116 Stat. 2456, provided that: “Upon enactment of this Act \[Dec. 2, 2002\], the Director of the Office of Management and Budget shall reduce any balances of direct spending and receipts legislation for all fiscal years under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] to zero.”
+Pub. L. 107–312, §1, Dec. 2, 2002, 116 Stat. 2456, provided that: "Upon enactment of this Act \[Dec. 2, 2002\], the Director of the Office of Management and Budget shall reduce any balances of direct spending and receipts legislation for all fiscal years under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] to zero."
 
 #### Pay-As-You-Go Adjustment
 
-Pub. L. 107–117, div. C, §102, Jan. 10, 2002, 115 Stat. 2342, provided that: “In preparing the final sequestration report for fiscal year 2002 required by section 254(f)(3) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 904(f)(3)\], the Director of the Office of Management and Budget shall change any balance of direct spending and receipts legislation for fiscal years 2001 and 2002 under section 252 of that Act \[2 U.S.C. 902\] to zero.”
+Pub. L. 107–117, div. C, §102, Jan. 10, 2002, 115 Stat. 2342, provided that: "In preparing the final sequestration report for fiscal year 2002 required by section 254(f)(3) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 904(f)(3)\], the Director of the Office of Management and Budget shall change any balance of direct spending and receipts legislation for fiscal years 2001 and 2002 under section 252 of that Act \[2 U.S.C. 902\] to zero."
 
 #### Conforming Paygo Scorecard With Transportation Equity Act for 21st Century
 
-Pub. L. 105–178, title VIII, §8102, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 105–206, title IX, §9013(c), July 22, 1998, 112 Stat. 865, provided that: “Upon the enactment of this Act \[June 9, 1998\], the Director of the Office of Management and Budget shall not make any estimates under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\] of changes in direct spending outlays and receipts for any fiscal year resulting from this title \[see Tables for classification\] or from section 1102 of this Act \[former 23 U.S.C. 104 note\].”
+Pub. L. 105–178, title VIII, §8102, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 105–206, title IX, §9013(c), July 22, 1998, 112 Stat. 865, provided that: "Upon the enactment of this Act \[June 9, 1998\], the Director of the Office of Management and Budget shall not make any estimates under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\] of changes in direct spending outlays and receipts for any fiscal year resulting from this title \[see Tables for classification\] or from section 1102 of this Act \[former 23 U.S.C. 104 note\]."
 
 #### Reduction of Preexisting Balances and Exclusion of Effects of Pub. L. 105–33 From Paygo Scorecard
 
-Pub. L. 105–33, title X, §10213, Aug. 5, 1997, 111 Stat. 712, provided that: “Upon the enactment of this Act \[Aug. 5, 1997\], the Director of the Office of Management and Budget shall—
+Pub. L. 105–33, title X, §10213, Aug. 5, 1997, 111 Stat. 712, provided that: "Upon the enactment of this Act \[Aug. 5, 1997\], the Director of the Office of Management and Budget shall—
 
-&emsp;“(1) reduce any balances of direct spending and receipts legislation for any fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] to zero; and
+&emsp;"(1) reduce any balances of direct spending and receipts legislation for any fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] to zero; and
 
-&emsp;“(2) not make any estimates of changes in direct spending outlays and receipts under subsection (d) of that section for any fiscal year resulting from the enactment of this Act \[see Tables for classification\] or of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, see Tables for classification\].”
+&emsp;"(2) not make any estimates of changes in direct spending outlays and receipts under subsection (d) of that section for any fiscal year resulting from the enactment of this Act \[see Tables for classification\] or of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, see Tables for classification\]."
 
 #### Reduction of Direct Spending and Receipts Legislation Balances
 
-Pub. L. 103–66, title XIV, §14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: “Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year.”
+Pub. L. 103–66, title XIV, §14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: "Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

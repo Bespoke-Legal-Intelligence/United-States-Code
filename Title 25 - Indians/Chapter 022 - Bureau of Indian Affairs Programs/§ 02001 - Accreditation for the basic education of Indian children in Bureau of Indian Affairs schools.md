@@ -46,7 +46,7 @@
 
 #### (B) Entities through which assistance may be provided
 
-&emsp;&emsp;The Secretary may provide such assistance directly or through the Department of Education, an institution of higher education, a private not-for-profit organization or for-profit organization, an educational service agency, or another entity with demonstrated experience in assisting schools in obtaining accreditation.
+&emsp;&emsp;The Secretary may provide such assistance directly or through the Department of Education, an institution of higher education, a private not-for-profit organizationor for-profit organization, an educational service agency, or another entity with demonstrated experience in assisting schools in obtaining accreditation.
 
 #### (4) Application of current standards during accreditation
 
@@ -220,7 +220,7 @@
 
 #### (2) Plan
 
-&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools a detailed plan to ensure that all Bureau-funded schools are accredited, or if such schools are in the process of obtaining accreditation that such schools meet the Bureau standards in effect on the day before January 8, 2002, to the extent that such standards do not conflict with the standards of the accrediting agency. Such plan shall include detailed information on the status of each school's educational program in relation to the applicable standards, specific cost estimates for meeting such standards at each school, and specific timelines for bringing each school up to the level required by such standards.
+&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools a detailedplan to ensure that all Bureau-funded schools are accredited, or if such schools are in the process of obtaining accreditation that such schools meet the Bureau standards in effect on the day before January 8, 2002, to the extent that such standards do not conflict with the standards of the accrediting agency. Such plan shall include detailed information on the status of each school's educational program in relation to the applicable standards, specific cost estimates for meeting such standards at each school, and specific timelines for bringing each school up to the level required by such standards.
 
 #### (d) Closure or consolidation of schools
 
@@ -302,7 +302,7 @@
 
 #### (ii) No denial based on geographic proximity
 
-&emsp;&emsp;&emsp;With respect to applications described in this subparagraph, the Secretary shall give consideration to all factors described in subparagraph (B), but no such application shall be denied based primarily upon the geographic proximity of comparable public education.
+&emsp;&emsp;&emsp;With respect to applications described in this subparagraph, the Secretary shall giveconsideration to all factors described in subparagraph (B), but no such application shall be denied based primarily upon the geographic proximity of comparable public education.
 
 #### (B) Factors
 

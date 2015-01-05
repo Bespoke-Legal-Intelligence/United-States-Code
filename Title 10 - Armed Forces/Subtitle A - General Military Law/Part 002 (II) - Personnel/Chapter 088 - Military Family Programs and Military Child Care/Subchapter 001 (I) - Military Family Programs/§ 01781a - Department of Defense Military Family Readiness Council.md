@@ -16,7 +16,7 @@ Members.—(1) The Council shall consist of the following members:
 
 &emsp;&emsp;(ii) One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard.
 
-&emsp;&emsp;(iii) One spouse or parent of a member of each of the Army, Navy, Marine Corps, and Air Force, two of whom shall be the spouse or parent of an active component memberand two of whom shall be the spouse or parent of a reserve component member.
+&emsp;&emsp;(iii) One spouse or parent of a member of each of the Army, Navy, Marine Corps, and Air Force, two of whom shall be the spouse or parent of an active component member and two of whom shall be the spouse or parent of a reserve component member.
 
 &emsp;(C) Three individuals appointed by the Secretary of Defense from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
 

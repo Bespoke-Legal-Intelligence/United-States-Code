@@ -176,7 +176,7 @@ Prevention of degradation.—Pursuant to the requirements of the Federal Water P
 
 &emsp;&emsp;"(B)
 
-Prevention and abatement.—The Tribe shall prevent and abate disruption of the restoration or preservation of the quantity, timing, or distribution of surface or groundwater that would enter the MRA and flow, directly or indirectly, into other parts of the Park, but only to the extent that such disruption is caused by conditions, activities, or structures within the MRA.
+Prevention and abatement.—The Tribe shall prevent and abate disruption of the restoration or preservation of the quantity, timing, or distribution of surface or groundwater that would enter the MRA and flow, directly or indirectly, into other parts of the Park, but only to the extent thatsuch disruption is caused by conditions, activities, or structures within the MRA.
 
 &emsp;&emsp;"(C)
 
@@ -310,7 +310,7 @@ In general.—The use and occupancy of the MRA by the Tribe shall be perpetually
 
 &emsp;&emsp;&emsp;"(i) bounded on the north and south by the boundaries of the MRA, specified in the legal description under section 4(4); and
 
-&emsp;&emsp;&emsp;"(ii) bounded on the east and west by boundaries that run perpendicular to the northern and southern boundaries of the MRA, as provided in the description under subparagraph (B).
+&emsp;&emsp;&emsp;"(ii) bounded on the east and west by boundaries that run perpendicular to the northern andsouthern boundaries of the MRA, as provided in the description under subparagraph (B).
 
 &emsp;&emsp;"(B)
 
@@ -422,7 +422,7 @@ Use of noneasement lands.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary may use all or any part of the MRA lands to the extent necessaryto restore or preserve the quality, quantity, timing, or distribution of surface or groundwater, if other reasonable alternative measures to achieve the same purpose are impractical.
+In general.—The Secretary may use all or any part of the MRA lands to the extent necessary to restore or preserve the quality, quantity, timing, or distribution of surface or groundwater, if other reasonable alternative measures to achieve the same purpose are impractical.
 
 &emsp;&emsp;"(B)
 

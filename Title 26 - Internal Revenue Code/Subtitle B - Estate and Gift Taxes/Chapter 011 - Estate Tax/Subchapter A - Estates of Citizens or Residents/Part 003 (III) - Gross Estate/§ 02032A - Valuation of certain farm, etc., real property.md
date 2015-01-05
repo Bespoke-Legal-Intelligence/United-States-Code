@@ -220,7 +220,7 @@
 
 #### (8) Qualified conservation contribution is not a disposition
 
-&emsp;A qualified conservation contribution (as defined in section 170(h)) by gift or otherwiseshall not be deemed a disposition under subsection (c)(1)(A).
+&emsp;A qualified conservation contribution (as defined in section 170(h)) by gift or otherwise shall not be deemed a disposition under subsection (c)(1)(A).
 
 #### (d) Election; agreement
 
@@ -388,7 +388,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any qualified replacement property, any period during which there was ownership, qualified use, or material participation with respect to the replaced propertyby the decedent or any member of his family shall be treated as a period during which there was such ownership, use, or material participation (as the case may be) with respect to the qualified replacement property.
+&emsp;&emsp;In the case of any qualified replacement property, any period during which there was ownership, qualified use, or material participation with respect to the replaced property by the decedent or any member of his family shall be treated as a period during which there was such ownership, use, or material participation (as the case may be) with respect to the qualified replacement property.
 
 #### (B) Limitation
 
@@ -420,7 +420,7 @@ For purposes of this section—
 
 If qualified real property is disposed of or ceases to be used for a qualified use, then—
 
-&emsp;(1) the statutory period for the assessment of any additional tax under subsection (c) attributable to such disposition or cessation shall not expire before the expiration of 3 years from the date the Secretary is notified (in such manner as the Secretary may by regulations prescribe) of such disposition or cessation (or if later in the case of an involuntary conversion or exchange to which subsection (h) or (i) applies, 3 years from the date the Secretary is notified of the replacement of the converted property or of an intention not to replace or of the exchange of property), and
+&emsp;(1) the statutory period for the assessment of any additional tax under subsection (c) attributable to such disposition or cessation shall not expire before the expiration of 3 yearsfrom the date the Secretary is notified (in such manner as the Secretary may by regulations prescribe) of such disposition or cessation (or if later in the case of an involuntary conversion or exchange to which subsection (h) or (i) applies, 3 years from the date the Secretary is notified of the replacement of the converted property or of an intention not to replace or of the exchange of property), and
 
 &emsp;(2) such additional tax may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
@@ -552,7 +552,7 @@ Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–508 amended par. (2) generally, substituting present provisions for provisions which established graduated increase in applicable limit on aggregate reduction in fair market value from $600,000 in the case of decedents dying in 1981 to $750,000 in the case of decedents dying in 1983 or thereafter.
 
-<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647 inserted at end "For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents suchproperty to a member of such spouse's family on a net cash basis."
+<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647 inserted at end "For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents such property to a member of such spouse's family on a net cash basis."
 
 <b>1986</b>—Subsec. (c)(7)(D). Pub. L. 99–514 substituted "section 151(c)(4)" for "section 151(e)(4)".
 
@@ -674,7 +674,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–34, title IV, §421(k), Aug. 13, 1981, 95 Stat. 313, as amended by Pub. L. 97–448, title I, §104(b)(4), Jan. 12, 1983, 96 Stat. 2382; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title IV, §421(k), Aug. 13, 1981, 95 Stat. 313, as amended by Pub. L. 97–448, title I, §104(b)(4), Jan.12, 1983, 96 Stat. 2382; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 

@@ -30,7 +30,7 @@ Act Feb. 20, 1905, ch. 592, §13, 33 Stat. 728.
 
 <b>1999</b>—Pub. L. 106–43 inserted ", including as a result of dilution under section 1125(c) of this title," after "damaged" in introductory provisions.
 
-<b>1998</b>—Pub. L. 105–330, §301, inserted at end "Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied."
+<b>1998</b>—Pub. L. 105–330, §301, inserted at end "Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertisingor promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied."
 
 Par. (3). Pub. L. 105–330, §201(a)(4), inserted "or is functional," before "or has been abandoned".
 

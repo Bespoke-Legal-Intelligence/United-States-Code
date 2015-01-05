@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-Not later than 64 months after January 7, 1983, the Secretary is authorized to, to the extent practicable, begin at a site evaluated under section 10194 of this title, as part of and as an extension of siting research activities of such site under such section, the mining and construction of a test and evaluation facility. Prior to the mining and construction of such facility, theSecretary shall prepare an environmental assessment. The purpose of such facility shall be—
+Not later than 64 months after January 7, 1983, the Secretary is authorized to, to the extent practicable, begin at a site evaluated under section 10194 of this title, as part of and as an extension of siting research activities of such site under such section, the mining and construction of a test and evaluation facility. Prior to the mining and construction of such facility, the Secretary shall prepare an environmental assessment. The purpose of such facility shall be—
 
 &emsp;(1) to supplement and focus the repository site characterization process;
 
@@ -74,7 +74,7 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 (B) Such understanding shall also establish the conditions under which the Commission may have access to the test and evaluation facility for the purpose of assessing any public health and safety concerns that it may have. No shafts may be excavated for the test and evaluation until the Secretary and the Commission enter into such understanding.
 
-(2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, and demonstration facilities, and shall not be subject to licensing under section 5842 of this title.
+(2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, anddemonstration facilities, and shall not be subject to licensing under section 5842 of this title.
 
 (3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy of the consideration of public health and safety issues.
 

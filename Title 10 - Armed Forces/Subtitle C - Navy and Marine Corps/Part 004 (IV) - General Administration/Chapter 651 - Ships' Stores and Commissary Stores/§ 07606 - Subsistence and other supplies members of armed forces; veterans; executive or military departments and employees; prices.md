@@ -22,7 +22,7 @@
 
 &emsp;(A) at military installations outside the United States; and
 
-&emsp;(B) subject to paragraph (2), at military installations inside the United States where theSecretary determines that it is impracticable for those civilian officers, employees, and persons to obtain such stores from commercial enterprises without impairing the efficient operation of military activities.
+&emsp;(B) subject to paragraph (2), at military installations inside the United States where the Secretary determines that it is impracticable for those civilian officers, employees, and persons to obtain such stores from commercial enterprises without impairing the efficient operation of military activities.
 
 (2) Sales to civilian officers and employees inside the United States may be made under paragraph (1) only to civilian officers and employees residing within military installations.
 

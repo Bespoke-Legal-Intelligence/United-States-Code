@@ -1,12 +1,28 @@
 ### §289. Institutional review boards; ethics guidance program
 
-(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research involving human subjects submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to the Secretary that it has established (in accordance with regulations which the Secretary shall prescribe) a board (to be known as an "Institutional Review Board") to review biomedical and behavioral research involving human subjects conducted at or supported by such entity in order to protect the rights of the human subjects of such research.
+(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research involving human subjects submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to theSecretary that it has established (in accordance with regulations which the Secretary shall prescribe) a board (to be known as an "Institutional Review Board") to review biomedical and behavioral research involving human subjects conducted at or supported by such entity in order to protect the rights of the human subjects of such research.
 
 (b)(1) The Secretary shall establish a program within the Department of Health and Human Services under which requests for clarification and guidance with respect to ethical issues raised in connection with biomedical or behavioral research involving human subjects are responded to promptly and appropriately.
 
 (2) The Secretary shall establish a process for the prompt and appropriate response to information provided to the Director of NIH respecting incidences of violations of the rights of human subjects of research for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such violations.
 
 (July 1, 1944, ch. 373, title IV, §491, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 873.)
+
+#### Informed Consent for Newborn Screening Research
+
+Pub. L. 113–240, §12, Dec. 18, 2014, 128 Stat. 2857, provided that:
+
+"(a)
+
+In General.—Research on newborn dried blood spots shall be considered research carried out on human subjects meeting the definition of section 46.102(f)(2) of title 45, Code of Federal Regulations, for purposes of Federally funded research conducted pursuant to the Public Health Service Act \[42 U.S.C. 201 et seq.\] until such time as updates to the Federal Policy for the Protection of Human Subjects (the Common Rule) are promulgated pursuant to subsection (c). For purposes of this subsection, sections 46.116(c) and 46.116(d) of title 45, Code of Federal Regulations, shall not apply.
+
+"(b)
+
+Effective Date.—Subsection (a) shall apply only to newborn dried blood spots used for purposes of Federally funded research that were collected not earlier than 90 days after the date of enactment of this Act \[Dec. 18, 2014\].
+
+"(c)
+
+Regulations.—Not later than 6 months after the date of enactment of this Act, the Secretary of Health and Human Services shall promulgate proposed regulations related to the updating of the Federal Policy for the Protection of Human Subjects (the Common Rule), particularly with respect to informed consent. Not later than 2 years after such date of enactment, the Secretary shall promulgate final regulations based on such proposed regulations."
 
 #### Study Concerning Research Involving Children
 

@@ -95,7 +95,7 @@
 
 <b>2011</b>—Pub. L. 112–81, div. A, title III, §363(b), Dec. 31, 2011, 125 Stat. 1379, added item for chapter 669.
 
-<b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 andstruck out former item for chapter 667 "Issue of serviceable material other than to Armed Forces".
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 and struck out former item for chapter 667 "Issue of serviceable material other than to Armed Forces".
 
 Pub. L. 110–181, div. A, title III, §377(b), Jan. 28, 2008, 122 Stat. 85, added item for chapter 667.
 

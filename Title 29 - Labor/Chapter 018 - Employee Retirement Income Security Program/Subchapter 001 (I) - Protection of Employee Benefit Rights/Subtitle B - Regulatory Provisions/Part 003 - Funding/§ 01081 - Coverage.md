@@ -24,7 +24,7 @@ This part shall apply to any employee pension benefit plan described in section 
 
 &emsp;(9) an excess benefit plan; or
 
-&emsp;(10) any plan, fund or program under which an employer, all of whose stock is directly orindirectly owned by employees, former employees or their beneficiaries, proposes through an unfunded arrangement to compensate retired employees for benefits which were forfeited by such employees under a pension plan maintained by a former employer prior to the date such pension plan became subject to this chapter.
+&emsp;(10) any plan, fund or program under which an employer, all of whose stock is directly or indirectly owned by employees, former employees or their beneficiaries, proposes through an unfunded arrangement to compensate retired employees for benefits which were forfeited by such employees under a pension plan maintained by a former employer prior to the date such pension plan became subject to this chapter.
 
 #### (b) "Insurance contract plan" defined
 

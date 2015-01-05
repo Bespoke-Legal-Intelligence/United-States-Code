@@ -92,5 +92,5 @@ Section applicable to obligations issued after Feb. 17, 2009, see section 1531(e
 
 #### Transitional Coordination With State Law
 
-Pub. L. 111–5, div. B, title I, §1531(d), Feb. 17, 2009, 123 Stat. 360, provided that: "Except as otherwise provided by a State after the date of the enactment of this Act \[Feb. 17, 2009\], the interest on any build America bond (as defined in section 54AA of the Internal Revenue Code of 1986, as added by this section) and the amount of any credit determined under such section with respect to such bond shall be treated for purposes of the income tax laws of such State as being exempt from Federal income tax."
+Pub. L. 111–5, div. B, title I, §1531(d), Feb. 17, 2009, 123 Stat. 360, provided that: "Except as otherwise providedby a State after the date of the enactment of this Act \[Feb. 17, 2009\], the interest on any build America bond (as defined in section 54AA of the Internal Revenue Code of 1986, as added by this section) and the amount of any credit determined under such section with respect to such bond shall be treated for purposes of the income tax laws of such State as being exempt from Federal income tax."
 

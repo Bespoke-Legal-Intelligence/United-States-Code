@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) to the maximum extent practicable—
 
-&emsp;&emsp;&emsp;(i) assist Head Start agencies in the development of collaborative initiatives with States and other entities within the States, to foster effective professional development systems for early childhood education and development services;
+&emsp;&emsp;&emsp;(i) assist Head Start agencies in the development of collaborative initiatives with States and other entities within theStates, to foster effective professional development systems for early childhood education and development services;
 
 &emsp;&emsp;&emsp;(ii) provide technical assistance and training, either directly or through a grant, contract, or cooperative agreement with an entity that has experience in the development and operation of successful family literacy services programs, for the purpose of—
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(iii) assist Head Start agencies and programs in conducting and participating in communitywide strategic planning and needs assessments, including the needs of homeless children and their families, and in conducting self-assessments;
 
-&emsp;&emsp;&emsp;(iv) assist Head Start agencies and programs in developing and implementing full-working-day and full calendar year programs where community need is clearly identified and making the transition to such programs, with particular attention to involving parents and programming for children throughout the day, and assist the agencies and programs in expeditingthe sharing of information about innovative models for providing full-working-day, full calendar year services for children;
+&emsp;&emsp;&emsp;(iv) assist Head Start agencies and programs in developing and implementing full-working-day and full calendar year programs where community need is clearly identified and making the transition to such programs, with particular attention to involving parents and programming for children throughout the day, and assist the agencies and programs in expediting the sharing of information about innovative models for providing full-working-day, full calendar year services for children;
 
 &emsp;&emsp;&emsp;(v) assist Head Start agencies in better serving the needs of families with very young children, including providing support and program planning and implementation assistance for Head Start agencies that apply to serve or are serving additional infants and toddlers, in accordance with section 9840(a)(5) of this title;
 
@@ -106,7 +106,7 @@ The Secretary shall provide, either directly or through grants, contracts or oth
 
 #### (c) Outreach
 
-The Secretary shall develop and implement a program of outreach to recruit and train professionals from diverse backgrounds to become Head Start teachers in order to reflect the communities in which Head Start children live andto increase the provision of quality services and instruction to children with diverse backgrounds.
+The Secretary shall develop and implement a program of outreach to recruit and train professionals from diverse backgrounds to become Head Start teachers in order to reflect the communities in which Head Start children live and to increase the provision of quality services and instruction to children with diverse backgrounds.
 
 #### (d) Funds to agencies
 
@@ -142,7 +142,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(D) the literacy training shall include specific methods to best address the needs of children who are limited English proficient;
 
-&emsp;&emsp;(E) the literacy training shall include training on how to best address the language and literacy needs of children with disabilities, including training on how to work with specialists in language development; and
+&emsp;&emsp;(E) the literacy training shall include training on how to best address the languageand literacy needs of children with disabilities, including training on how to work with specialists in language development; and
 
 &emsp;&emsp;(F) the literacy training shall be tailored to the early childhood literacy background and experience of the teachers involved;
 
@@ -260,7 +260,7 @@ Subsec. (e). Pub. L. 105–285, §114(b), inserted "(including services to promo
 
 <b>1994</b>—Pub. L. 103–252, §114(1), substituted "Technical assistance and training" for "Technical assistance, training, and staff qualifications" in section catchline.
 
-Subsec. (a). Pub. L. 103–252, §114(3)(A), redesignated as subsec. (e) the last sentence which read as follows: "The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled children."
+Subsec. (a). Pub. L. 103–252, §114(3)(A), redesignated as subsec. (e) the last sentence which read as follows: "The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel inhelping children cope with community violence, and resource access projects for personnel working with disabled children."
 
 Pub. L. 103–252, §114(2), substituted "(2) training for specialized or other personnel needed in connection with Head Start programs, in accordance with the process, and the provisions for allocating resources, set forth in subsections (b) and (c) of this section. The Secretary shall provide, either directly or through grants or other arrangements," for "(2) training for specialized or other personnel needed in connection with Head Start programs, including".
 

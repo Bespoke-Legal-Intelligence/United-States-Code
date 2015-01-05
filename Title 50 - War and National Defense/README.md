@@ -54,6 +54,7 @@
 | [<b>45.</b>](Chapter%20045%20-%20Miscellaneous%20Intelligence%20Community%20Authorities/README.md) | <b>Miscellaneous Intelligence Community Authorities</b> | <b>3301</b> |
 | [<b>46.</b>](Chapter%20046%20-%20Central%20Intelligence%20Agency/README.md) | <b>Central Intelligence Agency</b> | <b>3501</b> |
 | [<b>47.</b>](Chapter%20047%20-%20National%20Security%20Agency/README.md) | <b>National Security Agency</b> | <b>3601</b> |
+| [<b>48.</b>](Chapter%20048%20-%20Department%20of%20Defense%20Cooperative%20Threat%20Reduction/README.md) | <b>Department of Defense Cooperative Threat Reduction</b> | <b>3701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1619,3 +1620,4 @@ The Treaty of Peace with Japan, signed at San Francisco on Sept. 8, 1951, was ra
 - [Chapter 045 - Miscellaneous Intelligence Community Authorities](Chapter%20045%20-%20Miscellaneous%20Intelligence%20Community%20Authorities/README.md)
 - [Chapter 046 - Central Intelligence Agency](Chapter%20046%20-%20Central%20Intelligence%20Agency/README.md)
 - [Chapter 047 - National Security Agency](Chapter%20047%20-%20National%20Security%20Agency/README.md)
+- [Chapter 048 - Department of Defense Cooperative Threat Reduction](Chapter%20048%20-%20Department%20of%20Defense%20Cooperative%20Threat%20Reduction/README.md)

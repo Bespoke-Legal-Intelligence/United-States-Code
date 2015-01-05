@@ -146,7 +146,7 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title II, §203(b)(3), Feb. 10, 1996, 110 Stat. 218, provided that: "The amendments made bythis subsection \[amending this section\] shall apply with respect to the annual report prepared during fiscal year 1997 and each fiscal year thereafter."
+Pub. L. 104–106, div. A, title II, §203(b)(3), Feb. 10, 1996, 110 Stat. 218, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to the annual report prepared during fiscal year 1997 and each fiscal year thereafter."
 
 #### Transfer of Functions
 

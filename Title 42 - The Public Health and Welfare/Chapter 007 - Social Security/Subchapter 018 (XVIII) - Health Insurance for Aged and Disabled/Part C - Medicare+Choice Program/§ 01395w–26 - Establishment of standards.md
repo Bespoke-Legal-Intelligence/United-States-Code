@@ -40,11 +40,11 @@
 
 &emsp;&emsp;(A) the appointment of a negotiated rulemaking committee under section 565(a) of such title by not later than 30 days after the end of the comment period provided for under section 564(c) of such title (as shortened under paragraph (4)), and
 
-&emsp;&emsp;(B) the nomination of a facilitator under section 566(c) of such title by not later than 10 days after the date of appointment of the committee.
+&emsp;&emsp;(B) the nomination of a facilitator under section 566(c) of such title by not later than10 days after the date of appointment of the committee.
 
 #### (6) Preliminary committee report
 
-&emsp;The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failedto make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+&emsp;The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 #### (7) Final committee report
 

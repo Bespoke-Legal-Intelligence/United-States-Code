@@ -44,7 +44,7 @@
 
 #### (D) Report to Congress
 
-&emsp;&emsp;On or before March 1 of each year, the United States Interdiction Coordinator shall provide a report on behalf of the Director tothe appropriate congressional committees, to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate, which shall include—
+&emsp;&emsp;On or before March 1 of each year, the United States Interdiction Coordinator shall provide a report on behalf of the Director to the appropriate congressional committees, to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate, which shall include—
 
 &emsp;&emsp;&emsp;(i) a copy of that year's National Interdiction Command and Control Plan;
 

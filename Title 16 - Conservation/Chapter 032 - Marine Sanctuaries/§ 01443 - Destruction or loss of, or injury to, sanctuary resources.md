@@ -80,7 +80,7 @@ Response costs and damages recovered by the Secretary under this section shall b
 
 An action for response costs or damages under subsection (c) of this section shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
 
-(Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, §9(e), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§13, 19(c), Nov. 13, 2000, 114 Stat. 2389, 2393.)
+(Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat.3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, §9(e), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§13, 19(c), Nov. 13, 2000, 114 Stat. 2389, 2393.)
 
 #### References in Text
 

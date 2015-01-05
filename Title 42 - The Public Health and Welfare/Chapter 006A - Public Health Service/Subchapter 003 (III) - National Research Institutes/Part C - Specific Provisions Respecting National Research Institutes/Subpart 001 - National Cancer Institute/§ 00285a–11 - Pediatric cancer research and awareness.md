@@ -42,7 +42,7 @@ Nothing in this section shall be construed as being inconsistent with the goals 
 
 #### (d) Authorization of appropriations
 
-For purposes of carrying out this section and section 280e–3a of this title, there are authorized to be appropriated $30,000,000 for each of fiscal years 2009 through 2013. Such authorization of appropriations is in addition to the authorization of appropriations established in section 282a of this title with respect to such purpose. Funds appropriated under this subsection shall remain available until expended.
+For purposes of carrying out this section and section 280e–3a of this title, there are authorizedto be appropriated $30,000,000 for each of fiscal years 2009 through 2013. Such authorization of appropriations is in addition to the authorization of appropriations established in section 282a of this title with respect to such purpose. Funds appropriated under this subsection shall remain available until expended.
 
 (July 1, 1944, ch. 373, title IV, §417E, as added Pub. L. 110–285, §4(a), July 29, 2008, 122 Stat. 2629.)
 

@@ -24,13 +24,13 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 #### (1) Onsite verifications
 
-&emsp;(A) Subject to subparagraph (B), an export may be made under subsection (c) of this section only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
+&emsp;(A) Subject to subparagraph (B), an export may be made under subsection (c) only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
 
 &emsp;(B) Subparagraph (A) does not apply to donations to nongovernmental organizations in Cuba of medicines for humanitarian purposes.
 
 #### (2) Licenses
 
-&emsp;Exports permitted under subsection (c) of this section shall be made pursuant to specific licenses issued by the United States Government.
+&emsp;Exports permitted under subsection (c) shall be made pursuant to specific licenses issued by the United States Government.
 
 #### (e) Telecommunications services and facilities
 
@@ -54,7 +54,7 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 #### (5) Prohibition on investment in domestic telecommunications services
 
-&emsp;Nothing in this subsection shall be construed to authorize the investment by any United States person in the domestic telecommunications network within Cuba. For purposes of this paragraph, an "investment" in the domestic telecommunications network within Cuba includes the contribution (including by donation) of funds or anything of value to or for, and the making of loans to or for, such network.
+&emsp;Nothing in this subsection shall be construed to authorize the investment by any United States person in the domestic telecommunications network within Cuba. Forpurposes of this paragraph, an "investment" in the domestic telecommunications network within Cuba includes the contribution (including by donation) of funds or anything of value to or for, and the making of loans to or for, such network.
 
 #### (6) Reports to Congress
 

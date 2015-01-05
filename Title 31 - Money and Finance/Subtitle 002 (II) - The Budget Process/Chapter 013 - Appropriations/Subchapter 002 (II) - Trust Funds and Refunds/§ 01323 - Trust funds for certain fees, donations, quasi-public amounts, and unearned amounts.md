@@ -42,5 +42,5 @@ In subsection (a), before clause (1), the words "Effective July 1, 1935" are omi
 
 The words related to Patent Office (subsequently changed to Patent and Trademark Office because of section 3 of the Act of January 2, 1975 (Pub. L. 93–596, 88 Stat. 1949)), are omitted as superseded by 35:42.
 
-In subsection (c), the words "officers and employees of the United States Government" are substituted for"officers of the United States by virtue of their official capacity" for consistency and to eliminate unnecessary words.
+In subsection (c), the words "officers and employees of the United States Government" are substituted for "officers of the United States by virtue of their official capacity" for consistency and to eliminate unnecessary words.
 

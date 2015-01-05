@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Populations served
 
-&emsp;The Secretary shall award the grants under paragraph (1) in a manner that distributes the grants so as to serve equitably the populations described in subparagraphs (A) and (B) of subsection (a)(3) of this section.
+&emsp;The Secretary shall award the grants under paragraph (1) in a manner that distributes the grants so as to serve equitably the populationsdescribed in subparagraphs (A) and (B) of subsection (a)(3) of this section.
 
 #### (c) Use of funds
 

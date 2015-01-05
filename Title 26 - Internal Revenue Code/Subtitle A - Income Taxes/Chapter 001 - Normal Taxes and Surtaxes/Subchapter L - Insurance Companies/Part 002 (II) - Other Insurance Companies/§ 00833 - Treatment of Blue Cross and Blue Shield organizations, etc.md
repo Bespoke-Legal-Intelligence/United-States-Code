@@ -70,9 +70,9 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;&emsp;(i) any tax-exempt interest received or accrued during the taxable year, reduced by any amount (not otherwise deductible) which would have been allowable as a deduction for the taxable year if such interest were not tax-exempt, and
 
-&emsp;&emsp;&emsp;(ii) the aggregate amount allowed as a deduction for the taxable year under sections 243, 244, and 245.
+&emsp;&emsp;&emsp;(ii) the aggregate amount allowed as a deduction for the taxable year under sections 243 and 245.
 
-> &emsp;&emsp;The amount determined under clause (ii) shall be reduced by the amount of any decrease in deductions allowable for the taxable year by reason of section 832(b)(5)(B) to the extent such decrease is attributable to deductions under sections 243, 244, and 245.
+> &emsp;&emsp;The amount determined under clause (ii) shall be reduced by the amount of any decrease in deductions allowable for the taxable year by reason of section 832(b)(5)(B) to the extent such decrease is attributable to deductions under sections 243 and 245.
 
 #### (4) Only health-related items taken into account
 
@@ -146,15 +146,19 @@ In the case of any organization to which this section applies—
 
 #### (5) Nonapplication of section in case of low medical loss ratio
 
-&emsp;Notwithstanding the preceding paragraphs, this section shall not apply to any organization unless such organization's percentage of total premium revenue expended on reimbursement for clinical services provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
+&emsp;Notwithstanding the preceding paragraphs, paragraphs (2) and (3) of subsection (a) shall not apply to any organization unless such organization's percentage of total premium revenue expended on reimbursement for clinical services and for activities that improve health care quality provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
 
-(Added Pub. L. 99–514, title X, §1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, title III, §351(a), Aug. 21, 1996, 110 Stat. 2071; Pub. L. 105–34, title XVI, §1604(d)(2)(A), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 111–148, title IX, §9016(a), Mar. 23, 2010, 124 Stat. 872.)
+(Added Pub. L. 99–514, title X, §1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, title III, §351(a), Aug. 21, 1996, 110 Stat. 2071; Pub. L. 105–34, title XVI, §1604(d)(2)(A), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 111–148, title IX, §9016(a), Mar. 23, 2010, 124 Stat. 872; Pub. L. 113–235, div. N, §102(a), Dec. 16, 2014, 128 Stat. 2773; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### References in Text
 
 Section 2718 of the Public Health Service Act, referred to in subsec. (c)(5), is classified to section 300gg–18 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(3)(E). Pub. L. 113–295 struck out ", 244," after "sections 243" in cl. (ii) and in concluding provisions.
+
+Subsec. (c)(5). Pub. L. 113–235 substituted "paragraphs (2) and (3) of subsection (a)" for "this section" and inserted "and for activities that improve health care quality" after "clinical services".
 
 <b>2010</b>—Subsec. (c)(5). Pub. L. 111–148 added par. (5).
 
@@ -163,6 +167,14 @@ Section 2718 of the Public Health Service Act, referred to in subsec. (c)(5), is
 Subsec. (b)(1)(A)(ii). Pub. L. 105–34, §1604(d)(2)(A)(ii), inserted "or in connection with the administration of cost-plus contracts" before the last comma.
 
 <b>1996</b>—Subsec. (c)(4). Pub. L. 104–191 added par. (4).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
+Pub. L. 113–235, div. N, §102(b), Dec. 16, 2014, 128 Stat. 2773, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2010 Amendment
 
@@ -246,7 +258,7 @@ Special Rules.—In the case of an organization to which section 501(m) of the I
 
 &emsp;"(1) no adjustment shall be made under section 481 (or any other provision) of such Code on account of a change in its method of accounting for its first taxable year beginning after December 31, 1997, and
 
-&emsp;"(2) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
+&emsp;"(2) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of suchtaxable year shall be treated as equal to its fair market value as of such day.
 
 "(c)
 

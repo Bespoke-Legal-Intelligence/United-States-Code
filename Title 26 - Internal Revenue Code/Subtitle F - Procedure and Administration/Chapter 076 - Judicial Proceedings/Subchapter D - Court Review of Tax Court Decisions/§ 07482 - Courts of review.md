@@ -22,7 +22,7 @@
 
 #### (3) Certain orders entered under section 6213(a)
 
-&emsp;An order of the Tax Court which is entered under authority of section 6213(a) and which resolves a proceeding to restrain assessment or collection shall be treated as a decision of the Tax Court for purposes of this section and shall be subject to the same review by the United States Court of Appeals as a similar order of a district court.
+&emsp;An order of the Tax Court which is entered under authority of section 6213(a) and which resolves a proceeding to restrain assessment or collection shall be treated as a decision of the Tax Court for purposes of this section andshall be subject to the same review by the United States Court of Appeals as a similar order of a district court.
 
 #### (b) Venue
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(C) in the case of a person seeking a declaratory decision under section 7476, the principal place of business, or principal office or agency of the employer,
 
-&emsp;&emsp;(D) in the case of an organization seeking a declaratory decision under section 7428,the principal office or agency of the organization,
+&emsp;&emsp;(D) in the case of an organization seeking a declaratory decision under section 7428, the principal office or agency of the organization,
 
 &emsp;&emsp;(E) in the case of a petition under section 6226, 6228(a), 6247, or 6252, the principal place of business of the partnership, or
 
@@ -94,7 +94,7 @@ Subsec. (b)(1). Pub. L. 99–514, §1810(g)(2), substituted "section 7428 or 747
 
 Subsec. (b)(1)(E). Pub. L. 99–514, §1899A(60), substituted "partnership." for "partnership,".
 
-<b>1984</b>—Subsec. (b)(1)(D) to (F). Pub. L. 98–369 struck out subpar. (D) which provided that venue in the case of a person seeking declaratory judgment under section 7477 be the legal residence of such person if such person is not a corporation, or the principal place of business or principal office or agency of such person if such person is a corporation, and redesignated subpars. (E) and (F) as (D) and (E), respectively.
+<b>1984</b>—Subsec. (b)(1)(D) to (F). Pub. L. 98–369 struck out subpar. (D) which provided that venue in the caseof a person seeking declaratory judgment under section 7477 be the legal residence of such person if such person is not a corporation, or the principal place of business or principal office or agency of such person if such person is a corporation, and redesignated subpars. (E) and (F) as (D) and (E), respectively.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–164 inserted "(other than the United States Court of Appeals for the Federal Circuit)" after "The United States Courts of Appeals".
 
@@ -112,7 +112,7 @@ Subsec. (b)(1). Pub. L. 94–455, §§1042(d)(2)(B), 1306(b)(5), in provisions f
 
 Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-<b>1974</b>—Subsec. (b)(1). Pub. L. 93–406 added subpar. (C) and, in provisions following subpar. (C), substituted "If for any reason subparagraph (A), (B), and (C) do notapply" for "If for any reason neither subparagraph (A) nor (B) applies", and inserted provisions referring to the time the petition seeking a declaratory decision under section 7476 was filed with the Tax Court.
+<b>1974</b>—Subsec. (b)(1). Pub. L. 93–406 added subpar. (C) and, in provisions following subpar. (C), substituted "If for any reason subparagraph (A), (B), and (C) do not apply" for "If for any reason neither subparagraph (A) nor (B) applies", and inserted provisions referring to the time the petition seeking a declaratory decision under section 7476 was filed with the Tax Court.
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–172 substituted "section 2072 of title 28" for "section 2074 of title 28" in par. (2) and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under section 2072 of title 28 become effective and, in par. (4), substituted "notice of appeal" for "petition".
 

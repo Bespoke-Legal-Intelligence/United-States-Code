@@ -96,7 +96,7 @@ Pub. L. 104–106, div. A, title III, §355, Feb. 10, 1996, 110 Stat. 269, provi
 
 "(a)
 
-Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents' education system established undersection 1402(a) of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921(a)).
+Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents' education system established under section 1402(a) of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921(a)).
 
 "(b)
 

@@ -8,7 +8,7 @@
 
 #### (2) Corporate powers
 
-&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
+&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District ofColumbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
 
 #### (3) Limitation on ownership of stock
 
@@ -78,7 +78,7 @@
 
 #### (5) Requirements until stock sale
 
-&emsp;Notwithstanding subsection (d) of this section, the requirements of sections 1132f–3 and 1132f–9 of this title, as such sections were in effect on the day before September 30, 1996, shall continue to be effective until the day immediately following the date of closing of thepurchase of the Secretary of Education's stock (or the date of closing of the final purchase, in the case of multiple transactions) pursuant to subsection (c)(1) of this Act.<sup>1</sup>
+&emsp;Notwithstanding subsection (d) of this section, the requirements of sections 1132f–3 and 1132f–9 of this title, as such sections were in effect on the day before September 30, 1996, shall continue to be effective until the day immediately following the date of closing of the purchase of the Secretary of Education's stock (or the date of closing of the final purchase, in the case of multiple transactions) pursuant to subsection (c)(1) of this Act.<sup>1</sup>
 
 #### (c) Sale of federally owned stock
 
@@ -144,13 +144,13 @@
 
 #### (ii) Administration
 
-&emsp;&emsp;&emsp;Subject to subparagraph (F), the Mayor shall administer the program of grants under this subparagraph, except that if the committee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
+&emsp;&emsp;&emsp;Subject to subparagraph (F), the Mayor shall administer the program of grants under this subparagraph, except that if thecommittee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
 
 #### (C) Other grants
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District ofColumbia shall make grants to entities to carry out the purposes described in subparagraph (E).
+&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District of Columbia shall make grants to entities to carry out the purposes described in subparagraph (E).
 
 #### (ii) Participation of schools
 
@@ -218,7 +218,7 @@ Subsec. (e)(3)(E)(i)(IV). Pub. L. 108–335, §340, as amended by Pub. L. 108–
 
 Subsec. (e)(3)(F). Pub. L. 108–7, §143(c)(2), added subpar. (F).
 
-<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting "revolving" after "enhancement" in second sentence of par. (2)(B), was executed by revising theamendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
+<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting "revolving" after "enhancement" in second sentence of par. (2)(B), was executed by revising the amendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
 Subsec. (e)(3). Pub. L. 107–96, pars. (1), (3), amended Pub. L. 106–522, §161(2). See 2000 Amendment note below.
 

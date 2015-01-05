@@ -22,7 +22,7 @@ If the Secretary determines, based on information gathered through the reportabl
 
 #### (A) In general
 
-&emsp;&emsp;If an article of food covered by a recall order issued under paragraph (1)(B) has been distributed to a warehouse-based third party logistics provider without providing such provider sufficient information to know or reasonably determine the precise identity of the article of food covered by a recall order that is in its possession, the notice provided by the responsible party subject to the order issued under paragraph (1)(B) shall include such information as is necessary for the warehouse-based third party logistics provider to identify the food.
+&emsp;&emsp;If an article of food covered by a recall order issued under paragraph (1)(B) has been distributed to a warehouse-based third party logistics provider without providing such provider sufficient information to know or reasonably determine the precise identity of the article of food covered by a recall order that is in its possession, the notice providedby the responsible party subject to the order issued under paragraph (1)(B) shall include such information as is necessary for the warehouse-based third party logistics provider to identify the food.
 
 #### (B) Rules of construction
 
@@ -34,7 +34,7 @@ If the Secretary determines, based on information gathered through the reportabl
 
 #### (3) Determination to limit areas affected
 
-&emsp;If the Secretary requires a responsible party to cease distribution under paragraph (1)(A) of an article of food identified in subsection (a), the Secretary may limit the size of the geographic area and the markets affected by suchcessation if such limitation would not compromise the public health.
+&emsp;If the Secretary requires a responsible party to cease distribution under paragraph (1)(A) of an article of food identified in subsection (a), the Secretary may limit the size of the geographic area and the markets affected by such cessation if such limitation would not compromise the public health.
 
 #### (c) Hearing on order
 

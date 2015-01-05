@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;For fiscal year 2003 and each fiscal year thereafter, the Secretary shall use 99.6 percent of the funds made available under subparagraph (A) for payment to the Commonwealth of Puerto Rico to pay—
 
-&emsp;&emsp;&emsp;&emsp;(I) 100 percent of the expenditures by the Commonwealth for the fiscal year for the provision of nutrition assistance included in the plan of the Commonwealth approved under subsection (b) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) 100 percent of the expenditures by the Commonwealth for the fiscal year for the provision of nutrition assistance included in the plan of the Commonwealth approved under subsection (b); and
 
 &emsp;&emsp;&emsp;&emsp;(II) 50 percent of the related administrative expenses.
 
@@ -46,15 +46,15 @@
 
 #### (D) Carryover of funds
 
-&emsp;&emsp;For fiscal year 2002 and each fiscal year thereafter, not more than 2 percent of the funds made available under this paragraph for the fiscal year to each governmental entity may be carried over to the following fiscal year.
+&emsp;&emsp;For fiscal year 2002 and each fiscal year thereafter, not more than 2 percent of thefunds made available under this paragraph for the fiscal year to each governmental entity may be carried over to the following fiscal year.
 
 #### (3) Time and manner of payments to Commonwealth of Puerto Rico
 
-&emsp;The Secretary shall, subject to the provisions of subsection (b) of this section, pay to the Commonwealth for the applicable fiscal year, at such times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv) of this section, reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
+&emsp;The Secretary shall, subject to the provisions of subsection (b), pay to the Commonwealth for the applicable fiscal year, at such times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv), reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
 
 #### (b) Plan for provision of assistance; approval; noncompliance
 
-(1)(A) In order to receive payments under this chapter for any fiscal year, the Commonwealth shall have a plan for that fiscal year approved by the Secretary under this section. By July 1 of each year, if the Commonwealth wishes to receive payments, it shall submit a plan for the provision of the assistance described in subsection (a)(2)(B) of this section for the following fiscal year which—
+(1)(A) In order to receive payments under this chapter for any fiscal year, the Commonwealth shall have a plan for that fiscal year approved by the Secretary under this section. By July 1 of each year, if the Commonwealth wishes to receive payments, it shall submit a plan for the provision of the assistance described in subsection (a)(2)(B) for the following fiscal year which—
 
 &emsp;(i) designates the agency or agencies directly responsible for the administration, or supervision of the administration, of the program for the provision of such assistance;
 
@@ -62,41 +62,87 @@
 
 &emsp;(iii) describes the program for the provision of such assistance, including the assistance to be provided and the persons to whom such assistance will be provided, and any agencies designated to provide such assistance, which program must meet such requirements as the Secretary may by regulation prescribe for the purpose of assuring that assistance is provided to the most needy persons in the jurisdiction;
 
-&emsp;(iv) estimates the amount of expenditures necessary for the provision of the assistance described in the program and related administrative expenses, up to the amount provided for payment by subsection (a)(2)(B) of this section; and
+&emsp;(iv) estimates the amount of expenditures necessary for the provision of the assistance described in the program and related administrative expenses, up to the amount provided for payment by subsection (a)(2)(B); and
 
 &emsp;(v) includes such other information as the Secretary may require.
 
-(B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the year in which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any of the requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) of this section for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
+(B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the year in which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any of the requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
 
-(ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a) of this section, in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that there is no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
+(ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a), in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that there is no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
 
-(2)(A) The Commonwealth shall provide for a biennial audit of expenditures under its program for the provision of the assistance described in subsection (a)(2)(B) of this section, and within 120 days of the end of each fiscal year in which the audit is made, shall report to the Secretary the findings of such audit.
+(2)(A) The Commonwealth shall provide for a biennial audit of expenditures under its program for the provision of the assistance described in subsection (a)(2)(B), and within 120 days of the end of each fiscal year in which the audit is made, shall report to the Secretary the findings of such audit.
 
-(B) Within 120 days of the end of the fiscal year, the Commonwealth shall provide the Secretary with a statement as to whether the payments received under subsection (a) of this section for that fiscal year exceeded the expenditures by it during that year for which payment is authorized under this section, and if so, by how much, and such other information as the Secretary may require.
+(B) Within 120 days of the end of the fiscal year, the Commonwealth shall provide the Secretary with a statement as to whether the payments received under subsection (a) for that fiscal year exceeded the expenditures by it during that year for which payment is authorized under this section, and if so, by how much, and such other information as the Secretary may require.
 
-(C)(i) If the Secretary finds that there is a substantial failure by the Commonwealth to comply with any of the requirements of subparagraphs (A) and (B), or to comply with the requirements of subsection (b)(1)(A) of this section in the administration of a plan approved under subsection (b)(1)(B) of this section, the Secretary shall, except as provided in subparagraph (C)(ii), notify the appropriate agency in the Commonwealth that further payments will not be made to it under subsection (a) of this section until the Secretary is satisfied that there will no longer be any such failure to comply, and until the Secretary is so satisfied, the Secretary shall make no further payments.
+(C)(i) If the Secretary finds that there is a substantial failure by the Commonwealth to comply with any of the requirements of subparagraphs (A) and (B), or to comply with the requirements of subsection (b)(1)(A) in the administration of a plan approved under subsection (b)(1)(B), the Secretary shall, except as provided in subparagraph (C)(ii), notify the appropriate agency in the Commonwealth that further payments will not be made to it under subsection (a) until the Secretary is satisfied that there will no longer be any such failure to comply, and until the Secretary is so satisfied, the Secretary shall make no further payments.
 
-(ii) The Secretary may suspend the termination of payments under subparagraph (C)(i) for such period as the Secretary determines appropriate, and instead withhold payments provided for under subsection (a) of this section, in whole or in part, until the Secretary is satisfied that there will no longer be any failure to comply with the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A) of this section, at which time such withheld payments shall be paid.
+(ii) The Secretary may suspend the termination of payments under subparagraph (C)(i) for such period as the Secretary determines appropriate, and instead withhold payments provided for under subsection (a), in whole or in part, until the Secretary is satisfied that there will no longer be any failure to comply with the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A), at which time such withheld payments shall be paid.
 
-(iii) Upon a finding under subparagraph (C)(i) of a substantial failure to comply with any of the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A) of this section, the Secretary may, in addition to or in lieu of any action taken under subparagraphs (C)(i) and (C)(ii), refer the matter to the Attorney General with a request that injunctive relief be sought to require compliance by the Commonwealth of Puerto Rico, and upon suit by the Attorney General in an appropriate district court of the United States and a showing that noncompliance has occurred, appropriate injunctive relief shall issue.
+(iii) Upon a finding under subparagraph (C)(i) of a substantial failure to comply with any of the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A), the Secretary may, in addition to or in lieu of any action taken under subparagraphs (C)(i) and (C)(ii), refer the matter to the Attorney General with a request that injunctive relief be sought to require compliance by the Commonwealth of Puerto Rico, and upon suit by the Attorney General in an appropriate district court of the United States and a showing that noncompliance has occurred, appropriate injunctive relief shall issue.
 
 #### (c) Review; technical assistance
 
-(1) The Secretary shall provide for the review of the programs for the provision of the assistance described in subsection (a)(2)(A) of this section for which payments are made under this chapter.
+(1) The Secretary shall provide for the review of the programs for the provision of the assistance described in subsection (a)(2)(A) for which payments are made under this chapter.
 
-(2) The Secretary is authorized as the Secretary deems practicable to provide technical assistance with respect to the programs for the provision of the assistance described in subsection (a)(2)(A) of this section.
+(2) The Secretary is authorized as the Secretary deems practicable to provide technical assistance with respect to the programs for the provision of the assistance described in subsection (a)(2)(A).
 
 #### (d) Penalty for violations
 
 Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
 
-(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902.)
+#### (e) Review, report, and regulation of cash nutrition assistance program benefits provided in Puerto Rico
+
+#### (1) Review
+
+&emsp;The Secretary, in consultation with the Secretary of Health and Human Services, shall carry out a review of the provision of nutrition assistance in Puerto Rico in the form of cash benefits under this section that shall include—
+
+&emsp;&emsp;(A) an examination of the history of and purpose for distribution of a portion of monthly benefits in the form of cash;
+
+&emsp;&emsp;(B) an examination of current barriers to the redemption of non-cash benefits by current program participants and retailers;
+
+&emsp;&emsp;(C) an examination of current usage of cash benefits for the purchase of non-food and other prohibited items;
+
+&emsp;&emsp;(D) an identification and assessment of potential adverse effects of the discontinuation of a portion of benefits in the form of cash for program participants and retailers; and
+
+&emsp;&emsp;(E) an examination of such other factors as the Secretary determines to be relevant.
+
+#### (2) Report
+
+&emsp;Not later than 18 months after February 7, 2014, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that describes the results of the review conducted under this subsection.
+
+#### (3) Regulation
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), and notwithstanding the second sentence of subsection (b)(1)(B)(i), the Secretary shall disapprove any plan submitted pursuant to subsection (b)(1)(A)—
+
+&emsp;&emsp;&emsp;(i) for fiscal year 2017 that provides for the distribution of more than 20 percent of the nutrition assistance benefit of a participant in the form of cash;
+
+&emsp;&emsp;&emsp;(ii) for fiscal year 2018 that provides for the distribution of more than 15 percent of the nutrition assistance benefit of a participant in the form of cash;
+
+&emsp;&emsp;&emsp;(iii) for fiscal year 2019 that provides for the distribution of more than 10 percent of the nutrition assistance benefit of a participant in the form of cash;
+
+&emsp;&emsp;&emsp;(iv) for fiscal year 2020 that provides for the distribution of more than 5 percent of the nutrition assistance benefit of a participant in the form of cash; and
+
+&emsp;&emsp;&emsp;(v) for fiscal year 2021 that provides for the distribution of any portion of the nutrition assistance benefit of a participant in the form of cash.
+
+#### (B) Exception
+
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary, informed by the report required under paragraph (2), may approve a plan that exempts participants or categories of participants if the Secretary determines that discontinuation of benefits in the form of cash is likely to have significant adverse effects.
+
+#### (4) Funding
+
+&emsp;Out of any funds made available under section 2027 of this title for fiscal year 2014, the Secretary shall make available to carry out the review and report described in paragraphs (1) and (2) $1,000,000, to remain available until expended.
+
+(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902; Pub. L. 113–79, title IV, §4025, Feb. 7, 2014, 128 Stat. 809.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e). Pub. L. 113–79 added subsec. (e).
 
 <b>2008</b>—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§4115(b)(13), 4406(a)(6), substituted "subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter" for "for each of fiscal years 2004 through 2007" and "section 2012(u)(4)" for "section 2012(o)(4)".
 
@@ -116,13 +162,13 @@ Subsec. (a). Pub. L. 107–171, §4124(a)(1), inserted heading, added pars. (1) 
 
 "(B) The payments to the Commonwealth for any fiscal year shall not exceed the expenditures by that jurisdiction during that year for the provision of the assistance the provision of which is included in the plan of the Commonwealth approved under subsection (b) of this section and 50 per centum of the related administrative expenses."
 
-Subsec. (b). Pub. L. 107–171, §4124(a)(2), substituted "subsection (a)(2)(B) of this section" for "subsection (a)(1)(A) of this section" wherever appearing.
+Subsec. (b). Pub. L. 107–171, §4124(a)(2), substituted "subsection (a)(2)(B)" for "subsection (a)(1)(A)" wherever appearing.
 
-Subsec. (c). Pub. L. 107–171, §4124(a)(3), substituted "subsection (a)(2)(A) of this section" for "subsection (a)(1)(A) of this section" in two places.
+Subsec. (c). Pub. L. 107–171, §4124(a)(3), substituted "subsection (a)(2)(A)" for "subsection (a)(1)(A)" in two places.
 
 <b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–387 substituted "Puerto Rico—" and cls. (i) to (iii) for "Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,".
 
-<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–127 substituted "$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscalyear 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002" for "$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995".
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–127 substituted "$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002" for "$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995".
 
 <b>1993</b>—Subsec. (a)(1)(A). Pub. L. 103–66 substituted "$1,097,000,000" for "$1,091,000,000" and "$1,143,000,000" for "$1,133,000,000".
 
@@ -206,7 +252,7 @@ Pub. L. 101–624, title XVII, §1762(a), Nov. 28, 1990, 104 Stat. 3804, provide
 
 #### Nutritional Needs of Puerto Ricans; Study and Report to Congress
 
-Pub. L. 101–624, title XVII, §1762(c), (d), Nov. 28, 1990, 104 Stat. 3805, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(KK), May 22, 2008, 122 Stat.1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 101–624, title XVII, §1762(c), (d), Nov. 28, 1990, 104 Stat. 3805, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(KK), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 "(c)
 

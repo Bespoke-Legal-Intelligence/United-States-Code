@@ -56,7 +56,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 (4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the Deposit Insurance Fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
-(5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only as provided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
+(5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only asprovided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
 
 #### (d) Insurance fees
 
@@ -140,7 +140,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (i) Overpayment
 
-&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1 or more such commonly controlled depository institutions is greater than the actual loss incurred by the Corporation, the Corporation shall reimburse each such commonly controlled depository institution its pro rata share of any overpayment.
+&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1or more such commonly controlled depository institutions is greater than the actual loss incurred by the Corporation, the Corporation shall reimburse each such commonly controlled depository institution its pro rata share of any overpayment.
 
 #### (ii) Underpayment
 
@@ -208,7 +208,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(C) such affiliate—
 
-&emsp;&emsp;&emsp;(i) is in default or in need of assistance solely as a result of the failure to meet the payment obligations referred to in subparagraph (B); and
+&emsp;&emsp;&emsp;(i) is in default or in need of assistance solely as a result of the failure to meet thepayment obligations referred to in subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) is not otherwise in breach of the terms of any assistance agreement or note which would authorize the Federal Savings and Loan Insurance Corporation or such other successor entity, pursuant to the terms of such assistance agreement or note, to refuse to make such payments.
 
@@ -220,7 +220,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(B) 1 depository institution is controlled by another depository institution.
 
-(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288;Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(2)–(6), Feb. 15, 2006, 119 Stat. 3610, 3611; Pub. L. 109–351, title VII, §703, Oct. 13, 2006, 120 Stat. 1986.)
+(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(2)–(6), Feb. 15, 2006, 119 Stat. 3610, 3611; Pub. L. 109–351, title VII, §703, Oct. 13, 2006, 120 Stat. 1986.)
 
 #### Prior Provisions
 
@@ -282,7 +282,7 @@ Subsec. (d)(3)(E)(i). Pub. L. 103–325, §319(b)(2)(A), struck out "(and, in th
 
 Subsec. (d)(3)(E)(ii). Pub. L. 103–325, §319(b)(2)(B), struck out "or Board" after "responsible agency".
 
-Subsec. (d)(3)(E)(iv). Pub. L. 103–325, §319(b)(2)(C), struck out ", and the appropriate Federal bankingagency for any depository institution holding company," after "responsible agency", "each" before "such agency determines", and ", and any depository institution holding company which controls such institution," after "resulting depository institution".
+Subsec. (d)(3)(E)(iv). Pub. L. 103–325, §319(b)(2)(C), struck out ", and the appropriate Federal banking agency for any depository institution holding company," after "responsible agency", "each" before "such agency determines", and ", and any depository institution holding company which controls such institution," after "resulting depository institution".
 
 Subsec. (d)(3)(F). Pub. L. 103–325, §319(b)(3), substituted "A Bank" for "The Board may not approve any transaction under subparagraph (A) in which the acquiring, assuming, or resulting depository institution is a Bank" and "may not be the acquiring, assuming, or resulting depository institution in a transaction under subparagraph (A) unless" for "unless the Board determines that".
 
@@ -360,7 +360,7 @@ Pub. L. 102–242, title V, §501(b), Dec. 19, 1991, 105 Stat. 2391, provided th
 
 #### Repeal of Duplicative Provisions
 
-Pub. L. 102–558, title III, §305, Oct. 28, 1992, 106 Stat. 4226, provided that: "In the event of the enactment ofH.R. 5334 (An Act to amend and extend certain laws relating to housing and community development, and for other purposes) \[enacted as Pub. L. 102–550\], the following provisions of that Act, and the amendments made by such provisions, are repealed, effective on the date of enactment of this Act \[Oct. 28, 1992\]:
+Pub. L. 102–558, title III, §305, Oct. 28, 1992, 106 Stat. 4226, provided that: "In the event of the enactment of H.R. 5334 (An Act to amend and extend certain laws relating to housing and community development, and for other purposes) \[enacted as Pub. L. 102–550\], the following provisions of that Act, and the amendments made by such provisions, are repealed, effective on the date of enactment of this Act \[Oct. 28, 1992\]:
 
 &emsp;"(1) Section 1603(a)(3) of such Act \[amending section 1817 of this title and enacting provisions set out as a note under section 1817 of this title\].
 
@@ -436,7 +436,7 @@ Pub. L. 101–73, title II, §206(b), Aug. 9, 1989, 103 Stat. 205, provided that
 
 #### Definition of "Commercial Firm"
 
-Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: "For purposes of this title \[see Short Title note set out under section 1811 of this title\], a company is a 'commercial firm' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company."
+Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: "For purposes of this title \[seeShort Title note set out under section 1811 of this title\], a company is a 'commercial firm' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company."
 
 \[For definitions of terms used in section 602 of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

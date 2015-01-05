@@ -16,7 +16,7 @@ Within 1 year after December 15, 2010, the Federal Communications Commission sha
 
 #### (3) Waiver authority
 
-&emsp;Nothing in this section affects the Commission's authority under section 1.3 of its rules (47 C.F.R. 1.3) to waive any rule required by this Act, or the application of any such rule, for good cause shown to a television broadcast station, cable operator, or other multichannel video programming distributor, or to a class of such stations, operators, or distributors.
+&emsp;Nothing in this section affects the Commission's authority under section 1.3 of its rules\(47 C.F.R. 1.3) to waive any rule required by this Act, or the application of any such rule, for good cause shown to a television broadcast station, cable operator, or other multichannel video programming distributor, or to a class of such stations, operators, or distributors.
 
 #### (c) Compliance
 

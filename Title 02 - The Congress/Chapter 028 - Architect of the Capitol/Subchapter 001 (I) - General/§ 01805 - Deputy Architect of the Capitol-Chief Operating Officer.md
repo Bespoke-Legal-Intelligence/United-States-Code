@@ -34,7 +34,7 @@ The Architect of the Capitol may delegate to the Deputy Architect such additiona
 
 #### (1) In general
 
-&emsp;No later than 90 days after the appointment, the Deputy Architect shall prepare and submitto the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate, an action plan describing the policies, procedures, and actions the Deputy Architect will implement and timeframes for carrying out the responsibilities under this section.
+&emsp;No later than 90 days after the appointment, the Deputy Architect shall prepare and submit to the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate, an action plan describing the policies, procedures, and actions the Deputy Architect will implement and timeframes for carrying out the responsibilities under this section.
 
 #### (2) Action plan
 
@@ -50,7 +50,7 @@ The Government Accountability Office shall evaluate annually the implementation 
 
 #### (g) Removal
 
-The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i) of this section. Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
+The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i). Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
 
 #### (h) Compensation
 
@@ -72,17 +72,17 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(3). Pub. L. 111–316 struck out par. (3). Text read as follows: “Notwithstanding section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, the Architect of the Capitol may fix the rate of basic pay for not more than 3 additional positions at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5 for the locality involved.”
+<b>2010</b>—Subsec. (e)(3). Pub. L. 111–316 struck out par. (3). Text read as follows: "Notwithstanding section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, the Architect of the Capitol may fix the rate of basic pay for not more than 3 additional positions at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5 for the locality involved."
 
-<b>2004</b>—Subsecs. (f), (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (f), (j). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–11, substituted “not later than 180 days” for “not later than 90 days”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–11, substituted "not later than 180 days" for "not later than 90 days".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–316, §1(c), Dec. 18, 2010, 124 Stat. 3452, provided that: “The amendments made by this section \[amending this section and section 1849 of this title\] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act \[Dec. 18, 2010\].”
+Pub. L. 111–316, §1(c), Dec. 18, 2010, 124 Stat. 3452, provided that: "The amendments made by this section \[amending this section and section 1849 of this title\] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act \[Dec. 18, 2010\]."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–11, title II, §2601(b), Apr. 16, 2003, 117 Stat. 599, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 \[Pub. L. 108–7, div. H\].”
+Pub. L. 108–11, title II, §2601(b), Apr. 16, 2003, 117 Stat. 599, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 \[Pub. L. 108–7, div. H\]."
 

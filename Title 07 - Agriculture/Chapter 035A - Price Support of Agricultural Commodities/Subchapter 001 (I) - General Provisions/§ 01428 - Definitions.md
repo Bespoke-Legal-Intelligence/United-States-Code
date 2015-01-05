@@ -16,7 +16,7 @@ For the purposes of this Act—
 
 (g) "Carry-over" of any nonbasic agricultural commodity for any marketing year shall be the quantity of the commodity on hand in the United States at the beginning of such marketing year, not including any part of the crop or production of such commodity which was produced in the United States during the calendar year then current. The carryover of any such commodity may also include the quantity of such commodity in processed form on hand in the United States at the beginning of such marketing year, if the Secretary determines that the inclusion of such processed quantity of the commodity is necessary to effectuate the purposes of this Act.
 
-(h) "Normal supply" of any nonbasic agricultural commodity for any marketing year shall be (1) the estimated domestic consumption of the commodity for the marketing year for which such normal supply is being determined, plus (2) the estimated exports of the commodity for such marketing year, plus (3) an allowance for carry-over. The allowance for carry-over shall be the average carry-over of the commodity for the five marketing years immediately preceding the marketing year in which such normal supply is determined, adjusted for surpluses or deficiencies caused by abnormal conditions, changes in marketing conditions, or the operation of any agricultural program. In determining normal supply, the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
+(h) "Normal supply" of any nonbasic agricultural commodity for any marketing year shall be (1) the estimated domestic consumption of the commodity for the marketing year for which such normal supply is being determined, plus (2) the estimated exports of the commodity for such marketing year, plus (3) an allowance for carry-over. The allowance for carry-over shall be the average carry-over of the commodity for the five marketing years immediately preceding the marketing year in which such normal supply isdetermined, adjusted for surpluses or deficiencies caused by abnormal conditions, changes in marketing conditions, or the operation of any agricultural program. In determining normal supply, the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
 
 (i) "Marketing year" for any nonbasic agricultural commodity means any period determined by the Secretary during which substantially all of a crop or production of such commodity is normally marketed by the producers thereof.
 
@@ -30,7 +30,7 @@ For the purposes of this Act—
 
 (l) "Producer" shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
-(Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, §1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §408, title VI, §§604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, Sept. 29, 1977, 91Stat. 927, 939, 944; Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, §1310(a)(2)(B), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, §612(c), Oct. 22, 2004, 118 Stat. 1524.)
+(Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, §1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §408, title VI, §§604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, Sept. 29, 1977, 91 Stat. 927, 939, 944; Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, §1310(a)(2)(B), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, §612(c), Oct. 22, 2004, 118 Stat. 1524.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ Subsecs. (k), (l). Pub. L. 91–524, §§408, 607, temporarily added subsecs. (k
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub.L. 108–357, set out as an Effective Date note under section 518 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -115,6 +115,10 @@ Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197, as amended by
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(10) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(10) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 

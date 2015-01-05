@@ -38,7 +38,7 @@ The Secretary shall award grants to eligible applicants under this subpart on th
 
 #### (c) Peer review
 
-The Secretary, and each State educational agency receiving a grant under this subpart, shall use a peer review process to review applications for assistance under this subpart.
+The Secretary, and each State educational agency receiving a grant under this subpart,shall use a peer review process to review applications for assistance under this subpart.
 
 #### (d) Diversity of projects
 
@@ -98,7 +98,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 #### (5) Revolving loan funds
 
-&emsp;Each State educational agency receiving a grant pursuant to this subpart may reserve not more than 10 percent of the grant funds for the establishment of a revolving loan fund. Such fund may be used to make loans to eligible applicants that have received a subgrantunder this subpart, under such terms as may be determined by the State educational agency, for the initial operation of the charter school grant program of the eligible applicant until such time as the recipient begins receiving ongoing operational support from State or local financing sources.
+&emsp;Each State educational agency receiving a grant pursuant to this subpart may reserve not more than 10 percent of the grant funds for the establishment of a revolving loan fund. Such fund may be used to make loans to eligible applicants that have received a subgrant under this subpart, under such terms as may be determined by the State educational agency, for the initial operation of the charter school grant program of the eligible applicant until such time as the recipient begins receiving ongoing operational support from State or local financing sources.
 
 #### (6) Dissemination
 
@@ -116,7 +116,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 &emsp;&emsp;A charter school described in subparagraph (A) may use funds reserved under paragraph (1) to assist other schools in adapting the charter school's program (or certain aspects of the charter school's program), or to disseminate information about the charter school, through such activities as—
 
-&emsp;&emsp;&emsp;(i) assisting other individuals with the planning and start-up of one or more new public schools, including charter schools, that are independent of the assisting charter school and the assisting charter school's developers, and that agree to be held to at least as high a level of accountability as the assisting charter school;
+&emsp;&emsp;&emsp;(i) assisting other individuals with the planning and start-up of one or more new public schools, including charter schools,that are independent of the assisting charter school and the assisting charter school's developers, and that agree to be held to at least as high a level of accountability as the assisting charter school;
 
 &emsp;&emsp;&emsp;(ii) developing partnerships with other public schools, including charter schools, designed to improve student academic achievement in each of the schools participating in the partnership;
 

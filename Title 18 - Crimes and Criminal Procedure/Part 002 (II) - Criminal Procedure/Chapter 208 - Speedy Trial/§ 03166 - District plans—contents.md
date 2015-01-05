@@ -1,6 +1,6 @@
 ### §3166. District plans—contents
 
-(a) Each plan shall include a description of the time limits, procedural techniques, innovations, systems and other methods, including the development of reliable methods for gathering and monitoring information and statistics, by which the district court, the United States attorney, the Federal public defender, if any, and private attorneys experienced in the defense of criminal cases, have expedited or intend to expedite the trial or other disposition of criminal cases, consistent with the time limits and other objectives of this chapter.
+(a) Each plan shall include a description of the time limits, procedural techniques, innovations,systems and other methods, including the development of reliable methods for gathering and monitoring information and statistics, by which the district court, the United States attorney, the Federal public defender, if any, and private attorneys experienced in the defense of criminal cases, have expedited or intend to expedite the trial or other disposition of criminal cases, consistent with the time limits and other objectives of this chapter.
 
 (b) Each plan shall include information concerning the implementation of the time limits and other objectives of this chapter, including:
 

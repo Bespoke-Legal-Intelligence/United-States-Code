@@ -78,7 +78,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(ii) if possible regarding the provision of services under this subchapter, enter into arrangements and coordinate with organizations that have a proven record of providing services to older individuals, that—
 
-&emsp;&emsp;&emsp;(I) were officially designated as community action agencies or community action programs under section 210 of the Economic Opportunity Act of 1964 (42 U.S.C. 2790) <sup>2</sup> for fiscal year 1981, and did not lose the designation as a result of failure to comply with such Act; or
+&emsp;&emsp;&emsp;(I) were officially designated as community action agencies or community actionprograms under section 210 of the Economic Opportunity Act of 1964 (42 U.S.C. 2790) <sup>2</sup> for fiscal year 1981, and did not lose the designation as a result of failure to comply with such Act; or
 
 &emsp;&emsp;&emsp;(II) came into existence during fiscal year 1982 as direct successors in interest to such community action agencies or community action programs; and
 
@@ -90,7 +90,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(E) establish effective and efficient procedures for coordination of—
 
-&emsp;&emsp;&emsp;(i) entities conducting programs that receive assistance under this chapter withinthe planning and service area served by the agency; and
+&emsp;&emsp;&emsp;(i) entities conducting programs that receive assistance under this chapter within the planning and service area served by the agency; and
 
 &emsp;&emsp;&emsp;(ii) entities conducting other Federal programs for older individuals at the local level, with particular emphasis on entities conducting programs described in section 3013(b) of this title, within the area;
 
@@ -146,7 +146,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(C) an assurance that the area agency on aging will make services under the area plan available, to the same extent as such services are available to older individuals within the planning and service area, to older Native Americans; and <sup>3</sup>
 
-&emsp;(12) provide that the area agency on aging will establish procedures for coordination ofservices with entities conducting other Federal or federally assisted programs for older individuals at the local level, with particular emphasis on entities conducting programs described in section 3013(b) of this title within the planning and service area.<sup>4</sup>
+&emsp;(12) provide that the area agency on aging will establish procedures for coordination of services with entities conducting other Federal or federally assisted programs for older individuals at the local level, with particular emphasis on entities conducting programs described in section 3013(b) of this title within the planning and service area.<sup>4</sup>
 
 &emsp;(13) provide assurances that the area agency on aging will—
 
@@ -190,7 +190,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(D) an analysis of how the change in the number of individuals age 85 and older in the planning and service area is expected to affect the need for supportive services.
 
-(3) An area agency on aging, in cooperation with government officials, State agencies, tribal organizations, or local entities, may make recommendations to government officials in the planning and service area and the State, on actions determined by the area agency to build the capacity in the planning and service area to meet the needs of older individuals for—
+(3) An area agency on aging, in cooperation with government officials, State agencies, tribalorganizations, or local entities, may make recommendations to government officials in the planning and service area and the State, on actions determined by the area agency to build the capacity in the planning and service area to meet the needs of older individuals for—
 
 &emsp;(A) health and human services;
 
@@ -220,7 +220,7 @@ Each State, in approving area agency on aging plans under this section, shall wa
 
 #### (d) Transportation services; funds
 
-(1) Subject to regulations prescribed by the Assistant Secretary, an area agency on aging designated under section 3025(a)(2)(A) of this title or, in areas of a State where no such agency has been designated, the State agency, may enter into agreements with agencies administering programs under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and titles XIX and XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\] for the purpose of developing and implementing plans for meeting the commonneed for transportation services of individuals receiving benefits under such Acts and older individuals participating in programs authorized by this subchapter.
+(1) Subject to regulations prescribed by the Assistant Secretary, an area agency on aging designated under section 3025(a)(2)(A) of this title or, in areas of a State where no such agency has been designated, the State agency, may enter into agreements with agencies administering programs under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and titles XIX and XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\] for the purpose of developing and implementing plans for meeting the common need for transportation services of individuals receiving benefits under such Acts and older individuals participating in programs authorized by this subchapter.
 
 (2) In accordance with an agreement entered into under paragraph (1), funds appropriated under this subchapter may be used to purchase transportation services for older individuals and may be pooled with funds made available for the provision of transportation services under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and titles XIX and XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\].
 
@@ -406,7 +406,7 @@ Subsec. (a)(5)(A)(ii). Pub. L. 102–375, §102(b)(10)(C), substituted "area age
 
 Subsec. (a)(5)(A)(ii)(I). Pub. L. 102–375, §306(c)(2)(A)(ii)(I), struck out "and" at end.
 
-Subsec. (a)(5)(ii)(II). Pub. L. 102–375, §306(c)(2)(A)(ii)(II), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "attempt toprovide services to low-income minority individuals in at least the same proportion as the population of low-income minority older individuals bears to the population of older individuals of the area served by such provider; and".
+Subsec. (a)(5)(ii)(II). Pub. L. 102–375, §306(c)(2)(A)(ii)(II), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "attempt to provide services to low-income minority individuals in at least the same proportion as the population of low-income minority older individuals bears to the population of older individuals of the area served by such provider; and".
 
 Subsec. (a)(5)(A)(ii)(III). Pub. L. 102–375, §306(c)(2)(A)(ii)(III), added subcl. (III).
 
@@ -464,7 +464,7 @@ Subsec. (e). Pub. L. 102–375, §306(g), added subsec. (e).
 
 Subsec. (a)(1). Pub. L. 100–175, §134(a)(2), inserted ", and the number of older Indians residing in such area," before last reference to "and" in parenthetical.
 
-Pub. L. 100–175, §132(b)(1), inserted ", the number of older individuals who have greatest economic need (with particular attention to low-income minority individuals) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such area," after "residing in such area".
+Pub. L. 100–175, §132(b)(1), inserted ", the number of older individuals who have greatest economic need\(with particular attention to low-income minority individuals) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such area," after "residing in such area".
 
 Subsec. (a)(2). Pub. L. 100–175, §130(a)(1), inserted ", as required under section 3027(a)(22) of this title," after "adequate proportion".
 
@@ -544,7 +544,7 @@ Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fisca
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
+Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29,1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 

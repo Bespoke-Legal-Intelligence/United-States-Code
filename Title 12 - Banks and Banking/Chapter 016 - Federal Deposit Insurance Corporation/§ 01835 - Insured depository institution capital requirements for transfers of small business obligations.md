@@ -14,7 +14,7 @@ With respect to the transfer of a small business loan or lease of personal prope
 
 #### (c) Qualified institutions criteria
 
-An insured depository institution is a qualified insured depository institution for purposes of this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b) of this section, the institution is—
+An insured depository institution is a qualified insured depository institution for purposes of this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b), the institution is—
 
 &emsp;(1) well capitalized; or
 
@@ -22,7 +22,7 @@ An insured depository institution is a qualified insured depository institution 
 
 #### (d) Aggregate amount of recourse
 
-The total outstanding amount of recourse retained by a qualified insured depository institution with respect to transfers of small business loans and leases of personal property under subsections (a) and (b) of this section shall not exceed—
+The total outstanding amount of recourse retained by a qualified insured depository institution with respect to transfers of small business loans and leases of personal property under subsections (a) and (b) shall not exceed—
 
 &emsp;(1) 15 percent of the risk-based capital of the institution; or
 
@@ -30,7 +30,7 @@ The total outstanding amount of recourse retained by a qualified insured deposit
 
 #### (e) Institutions that cease to be qualified or exceed aggregate limits
 
-If an insured depository institution ceases to be a qualified insured depository institution or exceeds the limits under subsection (d) of this section, this section shall remain applicable to any transfers of small business loans or leases of personal property that occurred during the time that the institution was qualified and did not exceed such limit.
+If an insured depository institution ceases to be a qualified insured depository institution or exceeds the limits under subsection (d), this section shall remain applicable to any transfers of small business loans or leases of personal property that occurred during the time that the institution was qualified and did not exceed such limit.
 
 #### (f) Prompt corrective action not affected
 
@@ -38,17 +38,17 @@ The capital of an insured depository institution shall be computed without regar
 
 #### (g) Regulations required
 
-Not later than 180 days after September 23, 1994, each appropriate Federal banking agencyshall promulgate final regulations implementing this section.
+Not later than 180 days after September 23, 1994, each appropriate Federal banking agency shall promulgate final regulations implementing this section.
 
 #### (h) Alternative system permitted
 
 #### (1) In general
 
-&emsp;At the discretion of the appropriate Federal banking agency, this section shall not apply if the regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b) of this section.
+&emsp;At the discretion of the appropriate Federal banking agency, this section shall not apply if the regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b).
 
 #### (2) Existing transactions not affected
 
-&emsp;Notwithstanding paragraph (1), this section shall remain in effect with respect to transfers of small business loans and leases of personal property with recourse by qualified insured depository institutions occurring before the effective date of regulations referred to in paragraph (1).
+&emsp;Notwithstanding paragraph (1), this section shall remain in effect with respect to transfers of small business loans and leases of personalproperty with recourse by qualified insured depository institutions occurring before the effective date of regulations referred to in paragraph (1).
 
 #### (i) Definitions
 

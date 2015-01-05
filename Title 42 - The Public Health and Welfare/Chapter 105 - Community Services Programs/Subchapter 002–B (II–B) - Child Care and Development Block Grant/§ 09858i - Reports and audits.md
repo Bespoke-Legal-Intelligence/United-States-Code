@@ -10,7 +10,7 @@
 
 #### (B) Required information
 
-&emsp;&emsp;The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter information concerning—
+&emsp;&emsp;The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter <sup>1</sup> information concerning—
 
 &emsp;&emsp;&emsp;(i) family income;
 
@@ -42,9 +42,11 @@
 
 &emsp;&emsp;&emsp;(viii) whether the child care provider involved was a relative;
 
-&emsp;&emsp;&emsp;(ix) the cost of child care for such families; and
+&emsp;&emsp;&emsp;(ix) the cost of child care for such families;
 
-&emsp;&emsp;&emsp;(x) the average hours per month of such care;
+&emsp;&emsp;&emsp;(x) the average hours per month of such care; and
+
+&emsp;&emsp;&emsp;(xi) whether the children receiving assistance under this subchapter are homeless children;
 
 > &emsp;&emsp;during the period for which such information is required to be submitted.
 
@@ -62,11 +64,15 @@
 
 &emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
 
+#### (E) Prohibition
+
+&emsp;&emsp;Reports submitted to the Secretary under subparagraph (C) shall not contain personally identifiable information.
+
 #### (2) Annual reports
 
-&emsp;Not later than December 31, 1997, and every 12 months thereafter, a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
+&emsp;Not later than 1 year after November 19, 2014, and annually thereafter,,<sup>2</sup> a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
 
-&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in section 9858n(5) of this title;
+&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in section 9858n(6) of this title;
 
 &emsp;&emsp;(B) the monthly cost of child care services, and the portion of such cost that is paid for with assistance provided under this subchapter, listed by the type of child care services provided;
 
@@ -74,7 +80,9 @@
 
 &emsp;&emsp;(D) the manner in which consumer education information was provided to parents and the number of parents to whom such information was provided; and
 
-&emsp;&emsp;(E) the total number (without duplication) of children and families served under this subchapter;
+&emsp;&emsp;(E) the total number (without duplication) of children and families served under this subchapter; and
+
+&emsp;&emsp;(F) the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in section 9858n(6)(B) of this title) are licensed or license-exempt.<sup>3</sup>
 
 > &emsp;during the period for which such report is required to be submitted.
 
@@ -94,9 +102,9 @@
 
 #### (4) Repayment of amounts
 
-&emsp;Each State shall repay to the United States any amounts determined through an auditunder this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
+&emsp;Each State shall repay to the United States any amounts determined through an audit under this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
 
-(Pub. L. 97–35, title VI, §658K, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §611, Aug. 22, 1996, 110 Stat. 2284; Pub. L. 105–33, title V, §5602(2), Aug. 5, 1997, 111 Stat. 646; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(FF), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(FF), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 97–35, title VI, §658K, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §611, Aug. 22, 1996, 110 Stat. 2284; Pub. L. 105–33, title V, §5602(2), Aug. 5, 1997, 111 Stat. 646; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(FF), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(FF), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 113–186, §8(c), (e), Nov. 19, 2014, 128 Stat. 1996, 1998.)
 
 #### References in Text
 
@@ -109,6 +117,18 @@ The Food and Nutrition Act of 2008, referred to in subsec. (a)(1)(B)(v)(IV), is 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1)(B)(xi). Pub. L. 113–186, §8(c)(1), which directed amendment of par. (1)(B) by adding cl. (xi) "at the end", was executed by adding cl. (xi) after cl. (x), to reflect the probable intent of Congress and the presence of concluding provisions in par. (1)(B).
+
+Subsec. (a)(1)(E). Pub. L. 113–186, §8(e), added subpar. (E).
+
+Subsec. (a)(2). Pub. L. 113–186, §8(c)(2)(A), substituted "1 year after November 19, 2014, and annually thereafter," for "December 31, 1997, and every 12 months thereafter" in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 113–186, §8(c)(2)(B), substituted "section 9858n(6)" for "section 9858n(5)".
+
+Subsec. (a)(2)(E). Pub. L. 113–186, §8(c)(2)(C), which directed substitution of "; and" for period at end, was executed by making the substitution for semicolon at end, to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(F). Pub. L. 113–186, §8(c)(2)(D), which directed amendment of par. (2) by adding subpar. (F) "at the end", was executed by adding subpar. (F) after subpar. (E), to reflect the probable intent of Congress and the presence of concluding provisions in par. (2).
 
 <b>2008</b>—Subsec. (a)(1)(B)(v)(IV). Pub. L. 110–246, §4002(b)(1)(B), (2)(FF), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
@@ -149,4 +169,10 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

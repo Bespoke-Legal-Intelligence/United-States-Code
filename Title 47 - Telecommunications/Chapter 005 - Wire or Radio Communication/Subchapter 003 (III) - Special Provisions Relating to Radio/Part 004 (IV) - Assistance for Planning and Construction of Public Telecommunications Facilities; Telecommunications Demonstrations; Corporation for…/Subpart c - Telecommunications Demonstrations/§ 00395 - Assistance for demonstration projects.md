@@ -22,7 +22,7 @@ Upon approving any application under this subpart with respect to any project, t
 
 #### (d) Use of funds
 
-Funds made available pursuant to this subpart shall not be available for the construction, remodeling, or repair of structures to house the facilities or equipment acquired or developed with such funds, except that such funds may be used for minor remodeling which is necessaryfor and incidental to the installation of such facilities or equipment.
+Funds made available pursuant to this subpart shall not be available for the construction, remodeling, or repair of structures to house the facilities or equipment acquired or developed with such funds, except that such funds may be used for minor remodeling which is necessary for and incidental to the installation of such facilities or equipment.
 
 #### (e) "Nonbroadcast telecommunications facilities" defined
 
@@ -52,7 +52,7 @@ The Commission is authorized to provide such assistance in carrying out the prov
 
 #### (k) Authorization of appropriations
 
-There are authorized to be appropriated $1,000,000 for each of the fiscal years 1979, 1980, and 1981, to be used by the Secretary to carry out the provisions of this subpart. Sums appropriated under this subsection for any fiscal year shall remain available for payment of grants or contracts for projects for which applications approved under this subpart have been submitted within one year after the last day of such fiscal year.
+There are authorized to be appropriated $1,000,000 for each of the fiscal years 1979, 1980,and 1981, to be used by the Secretary to carry out the provisions of this subpart. Sums appropriated under this subsection for any fiscal year shall remain available for payment of grants or contracts for projects for which applications approved under this subpart have been submitted within one year after the last day of such fiscal year.
 
 (June 19, 1934, ch. 652, title III, §395, as added Pub. L. 95–567, title II, §201, Nov. 2, 1978, 92 Stat. 2409.)
 

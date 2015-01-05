@@ -22,7 +22,7 @@ Availability of Allowance.—(1) Under regulations prescribed by the Secretary o
 
 Allowance Authorized.—(1) A member described in subsection (a) may be paid a transportation allowance for each eligible dependent child of the member of one annual trip between the school being attended by that child and the member's duty station outside the continental United States and return. The allowance authorized by this section may be transportation in kind or reimbursement therefor, as prescribed by the Secretaries concerned. However, the transportation authorized by this section may not be paid a member for a child attending a school in the continental United States for the purpose of obtaining a secondary education if the child is eligible to attend a secondary school for dependents that is located at or in the vicinity of the duty station of the member and is operated under the Defense Dependents' Education Act of 1978 (20 U.S.C. 921 et seq.).
 
-(2) The allowance authorized under paragraph (1) for the travel of an eligible dependent may include reimbursement for costs incurred by or on behalf of the dependent for lodging of the dependent that is necessitated by an interruption in the travel caused by extraordinary circumstances prescribed in the regulations under subsection (a). The amount of the reimbursementshall be determined using the rate applicable to such circumstances.
+(2) The allowance authorized under paragraph (1) for the travel of an eligible dependent may include reimbursement for costs incurred by or on behalf of the dependent for lodging of the dependent that is necessitated by an interruption in the travel caused by extraordinary circumstances prescribed in the regulations under subsection (a). The amount of the reimbursement shall be determined using the rate applicable to such circumstances.
 
 (3) At the option of the member, in lieu of the transportation of baggage of a dependent child under paragraph (1) from the dependent's school in the continental United States, the Secretary concerned may pay or reimburse the member for costs incurred to store the baggage at or in the vicinity of the school during the dependent's annual trip between the school and the member's duty station or during a different period in the same fiscal year selected by the member. The amount of the payment or reimbursement may not exceed the cost that the Government would incur to transport the baggage.
 
@@ -66,7 +66,7 @@ Termination.—No transportation, allowance, reimbursement, or per diem may be p
 
 #### References in Text
 
-The Defense Dependents' Education Act of 1978, referred to in subsec. (b)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents' Education Act of 1978, referred to in subsec. (b)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. Forcomplete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
 

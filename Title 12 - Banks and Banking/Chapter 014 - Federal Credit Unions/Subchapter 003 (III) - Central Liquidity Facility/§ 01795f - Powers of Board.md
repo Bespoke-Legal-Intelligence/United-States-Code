@@ -62,7 +62,7 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 <b>1982</b>—Subsec. (a)(17), (18). Pub. L. 97–320 added pars. (17) and (18).
 
-<b>1980</b>—Pub. L. 96–221, §§309(a)(3), (4), (b)(2), (3), 312, designated existing provisions as subsec. (a) substituted "Board" for "Administrator", such change having been made previously by Pub. L. 95–630, and "title" and "titles" for "subchapter" and "subchapters", which for purposes of codification has been editorially translated as "subchapter" or "subchapters" thereby requiring no further change in text, in par. (15) struck out requirement respecting advance appropriation of amounts, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–221, §§309(a)(3), (4), (b)(2), (3), 312, designated existing provisions as subsec. (a) substituted "Board" for "Administrator", such change having been made previously by Pub. L. 95–630, and "title" and "titles" for "subchapter" and "subchapters", which forpurposes of codification has been editorially translated as "subchapter" or "subchapters" thereby requiring no further change in text, in par. (15) struck out requirement respecting advance appropriation of amounts, and added subsec. (b).
 
 <b>1978</b>—Pub. L. 95–630, §502(b), substituted "Board" for "Administrator".
 

@@ -10,7 +10,7 @@
 
 (3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
-(b) The Chief of Naval Operations, while so serving, has the grade of admiral without vacating his permanent grade. In the performance of his duties within the Department of the Navy, the Chief of Naval Operations takes precedence above all other officers of the naval service.
+(b) The Chief of Naval Operations, while so serving, has the grade of admiral without vacating his permanent grade. In the performance of his duties within the Department of the Navy,the Chief of Naval Operations takes precedence above all other officers of the naval service.
 
 (c) Except as otherwise prescribed by law and subject to section 5013(f) of this title, the Chief of Naval Operations performs his duties under the authority, direction, and control of the Secretary of the Navy and is directly responsible to the Secretary.
 
@@ -32,7 +32,7 @@
 
 (2) To the extent that such action does not impair the independence of the Chief of Naval Operations in the performance of his duties as a member of the Joint Chiefs of Staff, the Chief of Naval Operations shall inform the Secretary regarding military advice rendered by members of the Joint Chiefs of Staff on matters affecting the Department of the Navy.
 
-(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief ofNaval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
+(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Naval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
 (Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1049; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–136, div. A, title V, §501(a), Nov. 24, 2003, 117 Stat. 1456.)
 

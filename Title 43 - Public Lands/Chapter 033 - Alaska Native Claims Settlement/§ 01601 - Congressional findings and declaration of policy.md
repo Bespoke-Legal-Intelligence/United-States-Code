@@ -56,7 +56,7 @@ Pub. L. 92–203, §26, Dec. 18, 1971, 85 Stat. 715, provided that: "To the exte
 
 #### Severability
 
-Pub. L. 92–203, §27, Dec. 18, 1971, 85 Stat. 716, as amended by Pub. L. 100–241, §13, Feb. 3, 1988, 101 Stat.1810, provided that: "The provisions of this Act, as amended \[enacting this chapter\], and the Alaska Native Claims Settlement Act Amendments of 1987 \[Pub. L. 100–241, see Short Title of 1988 Amendment note above\] are severable. If any provision of either Act is determined by a court of competent jurisdiction to be invalid, such invalidity shall not affect the validity of any other provision of either Act."
+Pub. L. 92–203, §27, Dec. 18, 1971, 85 Stat. 716, as amended by Pub. L. 100–241, §13, Feb. 3, 1988, 101 Stat. 1810, provided that: "The provisions of this Act, as amended \[enacting this chapter\], and the Alaska Native Claims Settlement Act Amendments of 1987 \[Pub. L. 100–241, see Short Title of 1988 Amendment note above\] are severable. If any provision of either Act is determined by a court of competent jurisdiction to be invalid, such invalidity shall not affect the validity of any other provision of either Act."
 
 #### Congressional Findings and Declaration of Policy
 
@@ -108,7 +108,7 @@ Statute of Limitations.—(1) Notwithstanding any other provision of law, a civi
 
 "(3) Any other civil action described in paragraph (1) shall be barred unless it is filed within two years of the date of the enactment of this Act \[Feb. 3, 1988\].
 
-"(4) No Native Corporation taking an action described in paragraph (2)(A), (2)(B), or (2)(C) shall issue or distribute stock sooner than fourteen days after the date of the shareholder vote authorizing such action.
+"(4) No Native Corporation taking an action described in paragraph (2)(A), (2)(B), or (2)(C) shall issueor distribute stock sooner than fourteen days after the date of the shareholder vote authorizing such action.
 
 "(b)
 

@@ -18,7 +18,7 @@ If sufficient funds are made available under section 7241 of this title to carry
 
 &emsp;&emsp;(C) the Peabody-Essex Museum in Massachusetts.
 
-&emsp;(3) For internship and apprenticeship programs (including the Museum Action Corps of the Peabody-Essex Museum), not less than $1,000,000 each to—
+&emsp;(3) For internship and apprenticeship programs (including the Museum Action Corps ofthe Peabody-Essex Museum), not less than $1,000,000 each to—
 
 &emsp;&emsp;(A) the Alaska Native Heritage Center in Alaska;
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;The Secretary, in consultation with the guaranty agencies operating under voluntary flexible agreements, shall report on an annual basis to the authorizing committees regarding the program outcomes that the voluntary flexible agreements have had with respect to—
 
-&emsp;&emsp;&emsp;(i) program integrity and program and cost efficiencies, delinquency prevention, and default aversion, including a comparison of such outcomes to such outcomes for each guaranty agency operating under an agreement under subsection (b) or (c) of section 1078 of this title;
+&emsp;&emsp;&emsp;(i) program integrity and program and cost efficiencies, delinquency prevention,and default aversion, including a comparison of such outcomes to such outcomes for each guaranty agency operating under an agreement under subsection (b) or (c) of section 1078 of this title;
 
 &emsp;&emsp;&emsp;(ii) consumer education programs described in section 1083a of this title; and
 
@@ -106,7 +106,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (2) Agreement notice
 
-&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to concluding an agreement under this section. The notice shall contain—
+&emsp;The Secretary shall notify the members of the authorizing committees not later than 30days prior to concluding an agreement under this section. The notice shall contain—
 
 &emsp;&emsp;(A) a description of the voluntary flexible agreement and the performance goals established by the Secretary for the agreement;
 

@@ -26,7 +26,7 @@ The prohibition under subsection (a) shall not apply to—
 
 &emsp;(4) an increase due solely to the fact that a minimum payment by the obligor has not been received by the creditor within 60 days after the due date for such payment, provided that the creditor shall—
 
-&emsp;&emsp;(A) include, together with the notice of such increase required under section 1637(i) of this title, a clear and conspicuous written statement of the reason for the increase and that the increase will terminate not later than 6 months after the date on which it is imposed, if the creditor receives the required minimum payments on time from the obligor during that period; and
+&emsp;&emsp;(A) include, together with the notice of such increase required under section 1637(i) of this title, a clear and conspicuous written statement of the reason for the increase andthat the increase will terminate not later than 6 months after the date on which it is imposed, if the creditor receives the required minimum payments on time from the obligor during that period; and
 
 &emsp;&emsp;(B) terminate such increase not later than 6 months after the date on which it is imposed, if the creditor receives the required minimum payments on time during that period.
 

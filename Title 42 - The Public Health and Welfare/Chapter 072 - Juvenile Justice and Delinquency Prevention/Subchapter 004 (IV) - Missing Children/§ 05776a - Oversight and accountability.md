@@ -4,7 +4,7 @@ All grants awarded by the Department of Justice that are authorized under this s
 
 #### (1) Audit requirement
 
-&emsp;For 2 of the fiscal years in the period of fiscal years 2014 through 2018, the Inspector General of the Department of Justice shall conduct audits of the recipient of grants under this subchapter to prevent waste, fraud, and abuse by the grantee.
+&emsp;For 2 of the fiscal years in the period of fiscal years 2014 through 2018, the Inspector General of the Department of Justice shall conduct audits of the recipient of grants underthis subchapter to prevent waste, fraud, and abuse by the grantee.
 
 #### (2) Mandatory exclusion
 

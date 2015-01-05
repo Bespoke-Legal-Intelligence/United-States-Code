@@ -18,7 +18,7 @@ Notwithstanding section 442, an entity which has not engaged in any active trade
 
 #### Prior Provisions
 
-A prior section 859, added Pub. L. 94–455, title XVI, §1601(a)(1), Oct. 4, 1976, 90 Stat. 1742; amended Pub. L.95–600, title VII, §701(t)(4), Nov. 6, 1978, 92 Stat. 2912, related to a deduction for deficiency dividends, prior to repeal by Pub. L. 95–600, title III, §362(d)(6), Nov. 6, 1978, 92 Stat. 2852. See section 860 of this title.
+A prior section 859, added Pub. L. 94–455, title XVI, §1601(a)(1), Oct. 4, 1976, 90 Stat. 1742; amended Pub. L. 95–600, title VII, §701(t)(4), Nov. 6, 1978, 92 Stat. 2912, related to a deduction for deficiency dividends, prior to repeal by Pub. L. 95–600, title III, §362(d)(6), Nov. 6, 1978, 92 Stat. 2852. See section 860 of this title.
 
 #### Amendments
 

@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistance under this part in any year in which the average adjusted gross income (as defined in section 1308–3a(a) of title 7) of the producer exceeds the level set forth in subparagraph (A) or (B) of section 1308–3a(b)(1) of title 7, whichever is applicable.
+&emsp;&emsp;Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistance under this part in any year in which the average adjusted gross income (as defined in section 1308–3a(a) of title 7) of the producer exceeds the level set forth in subparagraph (A) or (B) of section 1308–3a(b)(1) <sup>1</sup> of title 7, whichever is applicable.
 
 #### (B) Demonstration of compliance
 
@@ -134,6 +134,10 @@ An agricultural commodity producer that receives benefits under this part (other
 
 <i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
 
+#### References in Text
+
+Section 1308–3a of title 7, referred to in subsec. (a)(2)(A), was amended by Pub. L. 113–79, title I, §1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708, and, as so amended, provisions which formerly appeared in subpars. (A) and (B) of subsec. (b)(1) of section 1308–3a were struck out.
+
 #### Codification
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
@@ -158,9 +162,11 @@ For temporary revival and applicability of provisions as in effect on Feb. 12, 2
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that thissection be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and financial assistance may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2014, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

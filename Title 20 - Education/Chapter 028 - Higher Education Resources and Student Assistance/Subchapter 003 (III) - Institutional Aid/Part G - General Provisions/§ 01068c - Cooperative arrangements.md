@@ -12,7 +12,7 @@ The Secretary may make grants to encourage cooperative arrangements—
 
 #### (b) Priority
 
-The Secretary shall give priority to grants for the purposes described under subsection (a) of this section whenever the Secretary determines that the cooperative arrangement is geographically and economically sound or will benefit the applicant institution.
+The Secretary shall give priority to grants for the purposes described under subsection (a) ofthis section whenever the Secretary determines that the cooperative arrangement is geographically and economically sound or will benefit the applicant institution.
 
 #### (c) Duration
 

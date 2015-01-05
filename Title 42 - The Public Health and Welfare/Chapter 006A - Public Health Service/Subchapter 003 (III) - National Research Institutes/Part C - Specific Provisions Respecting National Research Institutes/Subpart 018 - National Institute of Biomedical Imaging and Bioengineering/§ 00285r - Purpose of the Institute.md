@@ -46,7 +46,7 @@ The establishment under section 284a of this title of an advisory council for th
 
 &emsp;&emsp;(B) six members shall be scientists, engineers, physicians, and other health professionals who represent other disciplines and are knowledgeable about the applications of biomedical imaging and bioengineering in medicine, and who are not officers or employees of the United States.
 
-&emsp;(3) In addition to the ex officio members specified in section 284a(b)(2) of this title, the ex officio members of the advisory council shall include the Director of the Centers for Disease Control and Prevention, the Director of the National Science Foundation, and the Director of the National Institute of Standards and Technology (or the designees of such officers).
+&emsp;(3) In addition to the ex officio members specified in section 284a(b)(2) of this title, the ex officio members of the advisory council shall include the Director of the Centers for Disease Control and Prevention, the Directorof the National Science Foundation, and the Director of the National Institute of Standards and Technology (or the designees of such officers).
 
 (July 1, 1944, ch. 373, title IV, §464z, as added Pub. L. 106–580, §3(a), Dec. 29, 2000, 114 Stat. 3089; amended Pub. L. 109–482, title I, §103(b)(37), Jan. 15, 2007, 120 Stat. 3688.)
 

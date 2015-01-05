@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (A) Income items
 
-&emsp;&emsp;Any item of income which is properly taken into account during the recognition period but which is attributable to periods before the 1st taxable year for which the corporation was an S corporation shall be treated as a recognized built-in gain for the taxable year in which it is properly taken into account.
+&emsp;&emsp;Any item of income which is properly taken into account during the recognition period but which is attributable to periodsbefore the 1st taxable year for which the corporation was an S corporation shall be treated as a recognized built-in gain for the taxable year in which it is properly taken into account.
 
 #### (B) Deduction items
 
@@ -134,9 +134,9 @@ For purposes of this section—
 
 > &emsp;&emsp;The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.
 
-#### (C) Special rule for 2012 and 2013
+#### (C) Special rule for 2012, 2013, and 2014
 
-&emsp;&emsp;For purposes of determining the net recognized built-in gain for taxable years beginning in 2012 or 2013, subparagraphs (A) and (D) shall be applied by substituting "5-year" for "10-year".
+&emsp;&emsp;For purposes of determining the net recognized built-in gain for taxable years beginning in 2012, 2013, or 2014, subparagraphs (A) and (D) shall be applied by substituting "5-year" for "10-year".
 
 #### (D) Special rule for distributions to shareholders
 
@@ -182,13 +182,15 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2014(a), Sept. 27, 2010, 124 Stat. 2556; Pub. L. 112–240, title III, §326(a), (b), Jan. 2, 2013, 126 Stat. 2334.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A),Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2014(a), Sept. 27, 2010, 124 Stat. 2556; Pub. L. 112–240, title III, §326(a), (b), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, §138(a), Dec. 19, 2014, 128 Stat. 4020.)
 
 #### Prior Provisions
 
 A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1653; amended Pub. L. 86–376, §2(b), Sept. 23, 1959, 73 Stat. 699; Pub. L. 94–455, title XIX, §1901(a)(150), Oct. 4, 1976, 90 Stat. 1788, related to allowance to shareholders of corporation net operating loss, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(7)(C). Pub. L. 113–295 substituted "2012, 2013, and 2014" for "2012 and 2013" in heading and "2012, 2013, or 2014" for "2012 or 2013" in text.
 
 <b>2013</b>—Subsec. (d)(2)(B). Pub. L. 112–240, §326(b), inserted "described in subparagraph (A)" after "for any taxable year".
 
@@ -238,6 +240,10 @@ Subsec. (c)(4). Pub. L. 98–369, §102(d)(1), added par. (4).
 
 <b>1983</b>—Subsec. (d). Pub. L. 97–448 substituted "this section" for "subsections (a)(2) and (b)(2)".
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §138(b), Dec. 19, 2014, 128 Stat. 4020, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–240, title III, §326(c), Jan. 2, 2013, 126 Stat. 2334, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011."
@@ -248,7 +254,7 @@ Pub. L. 111–240, title II, §2014(b), Sept. 27, 2010, 124 Stat. 2556, provided
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1251(b), Feb. 17, 2009, 123 Stat. 342, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
+Pub. L. 111–5, div. B, title I, §1251(b), Feb. 17, 2009, 123 Stat. 342, provided that: "The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 #### Effective Date of 1997 Amendment
 

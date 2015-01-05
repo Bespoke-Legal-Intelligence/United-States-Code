@@ -22,7 +22,7 @@
 
 #### (3) Inapplicability of ship stores general license
 
-&emsp;No commodities which may be exported under a general license described in section771.9 of title 15, Code of Federal Regulations, as in effect on May 1, 1992, may be exported under a general license to any vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest.
+&emsp;No commodities which may be exported under a general license described in section 771.9 of title 15, Code of Federal Regulations, as in effect on May 1, 1992, may be exported under a general license to any vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest.
 
 #### (4) Definitions
 
@@ -40,7 +40,7 @@ The President shall establish strict limits on remittances to Cuba by United Sta
 
 #### (d) Clarification of applicability of sanctions
 
-The prohibitions contained in subsections (a), (b), and (c) of this section shall not apply with respect to any activity otherwise permitted by section 6004 of this title or section 6006 of this title or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act \[12 U.S.C. 95a(4), 50 U.S.C. App. 5(b)(4)\].
+The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by section 6004 of this title or section 6006 of this title or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With theEnemy Act \[12 U.S.C. 95a(4), 50 U.S.C. App. 5(b)(4)\].
 
 (Pub. L. 102–484, div. A, title XVII, §1706, Oct. 23, 1992, 106 Stat. 2578.)
 

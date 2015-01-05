@@ -16,5 +16,5 @@ Section was formerly classified to section 55 of this title prior to editorial r
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–607 substituted “United States Code Service” for “Federal Code Annotated” in two places.
+<b>1972</b>—Pub. L. 92–607 substituted "United States Code Service" for "Federal Code Annotated" in two places.
 

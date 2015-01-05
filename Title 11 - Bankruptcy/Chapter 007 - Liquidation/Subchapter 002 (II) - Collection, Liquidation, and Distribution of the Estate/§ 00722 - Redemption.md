@@ -12,7 +12,7 @@ Section 722 of the House amendment adopts the position taken in H.R. 8200 as pas
 
 #### senate report no. 95–989
 
-This section is new and is broader than rights of redemption under the Uniform Commercial Code. It authorizes an individual debtor to redeem tangible personal property intended primarily for personal, family, or household use, from a lien securing a nonpurchase money dischargeable consumer debt. It applies only ifthe debtor's interest in the property is exempt or has been abandoned.
+This section is new and is broader than rights of redemption under the Uniform Commercial Code. It authorizes an individual debtor to redeem tangible personal property intended primarily for personal, family, or household use, from a lien securing a nonpurchase money dischargeable consumer debt. It applies only if the debtor's interest in the property is exempt or has been abandoned.
 
 This right to redeem is a very substantial change from current law. To prevent abuses such as may occur when the debtor deliberately allows the property to depreciate in value, the debtor will be required to pay the fair market value of the goods or the amount of the claim if the claim is less. The right is personal to the debtor and not assignable.
 

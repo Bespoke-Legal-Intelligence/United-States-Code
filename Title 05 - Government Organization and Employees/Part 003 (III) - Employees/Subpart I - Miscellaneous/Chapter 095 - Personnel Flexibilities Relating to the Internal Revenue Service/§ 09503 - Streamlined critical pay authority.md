@@ -32,9 +32,9 @@ The provisions of this title governing appointments in the competitive service, 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–6, which directed substitution of “Before September 30, 2013” for “Before July 23, 2013” wherever appearing, was executed by making the substitution for “before July 23, 2013” in introductory provisions to reflect the probable intent of Congress.
+<b>2013</b>—Subsec. (a). Pub. L. 113–6, which directed substitution of "Before September 30, 2013" for "Before July 23, 2013" wherever appearing, was executed by making the substitution for "before July 23, 2013" in introductory provisions to reflect the probable intent of Congress.
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “before July 23, 2013” for “for a period of 10 years after the date of enactment of this section” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted "before July 23, 2013" for "for a period of 10 years after the date of enactment of this section" in introductory provisions.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

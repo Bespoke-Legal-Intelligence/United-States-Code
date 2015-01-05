@@ -34,7 +34,7 @@ SIPC shall consult and cooperate with the self-regulatory organizations toward t
 
 The Commission may, by such rules as it determines necessary or appropriate in the public interest and to carry out the purposes of this chapter, require any self-regulatory organization to furnish SIPC with reports and records (or copies thereof) relating to the financial condition of members of or participants in such self-regulatory organization.
 
-(Pub. L. 91–598, §13, formerly §9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, §26, June 4,1975, 89 Stat. 163; renumbered §13 and amended Pub. L. 95–283, §§9, 12, May 21, 1978, 92 Stat. 260, 269.)
+(Pub. L. 91–598, §13, formerly §9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, §26, June 4, 1975, 89 Stat. 163; renumbered §13 and amended Pub. L. 95–283, §§9, 12, May 21, 1978, 92 Stat. 260, 269.)
 
 #### References in Text
 

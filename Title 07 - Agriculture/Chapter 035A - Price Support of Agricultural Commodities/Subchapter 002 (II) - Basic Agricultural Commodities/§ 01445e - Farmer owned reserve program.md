@@ -20,9 +20,9 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 &emsp;&emsp;(A) repayment of the extended price support loan 27 months from the date on which the original loan expired unless, at the discretion of the Secretary, the loan has been extended for one 6-month period;
 
-&emsp;&emsp;(B) a rate of interest as provided under subsection (c) of this section; and
+&emsp;&emsp;(B) a rate of interest as provided under subsection (c); and
 
-&emsp;&emsp;(C) payments to producers for storage as provided in subsection (d) of this section.
+&emsp;&emsp;(C) payments to producers for storage as provided in subsection (d).
 
 #### (4) Regional differences
 
@@ -128,7 +128,7 @@ The Secretary of Agriculture shall issue such regulations as are necessary to ca
 
 #### (o) Review
 
-In announcing the terms and conditions of the producer storage program under this section, the Secretary shall review standards concerning the quality of grain that shall be allowed to be stored under the program, and such standardsshould encourage only quality grain, as determined by the Secretary, to be pledged as collateral for such loans. The Secretary shall review inspection, maintenance, and stock rotation requirements and take the necessary steps to maintain the quality of such grain.
+In announcing the terms and conditions of the producer storage program under this section, the Secretary shall review standards concerning the quality of grain that shall be allowed to be stored under the program, and such standards should encourage only quality grain, as determined by the Secretary, to be pledged as collateral for such loans. The Secretary shall review inspection, maintenance, and stock rotation requirements and take the necessary steps to maintain the quality of such grain.
 
 #### (p) Crops
 
@@ -148,7 +148,7 @@ Pub. L. 102–237, §113(7)(B), redesignated subsec. (o) as (p).
 
 Subsec. (p). Pub. L. 102–237, §113(7)(B), redesignated subsec. (o) as (p).
 
-<b>1990</b>—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
+<b>1990</b>—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to theestablishment and maintenance of the producer reserve program for wheat and feed grains.
 
 Subsec. (k). Pub. L. 101–624, §2010, added subsec. (k) relating to review.
 
@@ -239,6 +239,10 @@ Amendment by sections 204 and 205 of Pub. L. 96–494 effective Dec. 3, 1980, se
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(5) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(5) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(5) of this title.
 

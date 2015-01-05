@@ -8,7 +8,7 @@
 
 &emsp;(3) chapters 11, 13 (except section 1312(a)), 23, and 24 (to the extent provided for in section 2402(a)(8)) of this title.
 
-> Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments made before February 18, 1946, to any such member under such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the Armed Forces or any component thereof within the meaning of any such law.
+> Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments made before February 18, 1946, to any such member under such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the ArmedForces or any component thereof within the meaning of any such law.
 
 (b) Service in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of 1945 shall not be deemed to have been active military, naval, or air service for the purposes of any of the laws administered by the Secretary except—
 
@@ -18,7 +18,7 @@
 
 > Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar.
 
-(c) In the case of benefits under subchapters II and IV of chapter 11 of this title and subchapter II of chapter 13 (except section 1312(a)) of this title paid by reason of service described in subsection (a) or (b) to an individual residing in the United States who is a citizen of, or an alienlawfully admitted for permanent residence in, the United States, the second sentence of the applicable subsection shall not apply.
+(c) In the case of benefits under subchapters II and IV of chapter 11 of this title and subchapter II of chapter 13 (except section 1312(a)) of this title paid by reason of service described in subsection (a) or (b) to an individual residing in the United States who is a citizen of, or an alien lawfully admitted for permanent residence in, the United States, the second sentence of the applicable subsection shall not apply.
 
 (d)(1) With respect to benefits under chapter 23 of this title, in the case of an individual described in paragraph (2), the second sentence of subsection (a) or (b), as otherwise applicable, shall not apply.
 
@@ -94,7 +94,7 @@ Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "ad
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–275, title V, §502(e), Oct. 13, 2010, 124 Stat. 2883, provided that: "The amendments made by this section \[amending this section and sections 2301, 2306,and 2402 of this title and enacting provisions set out as notes under sections 101 and 2402 of this title\] shall apply with respect to the death, on or after the date of the enactment of this Act \[Oct. 13, 2010\], of the parent of a person described in paragraph (9)(B) of subsection (a) of section 2402 of title 38, United States Code, as added by subsection (b), who dies on or after October 7, 2001."
+Pub. L. 111–275, title V, §502(e), Oct. 13, 2010, 124 Stat. 2883, provided that: "The amendments made by this section \[amending this section and sections 2301, 2306, and 2402 of this title and enacting provisions set out as notes under sections 101 and 2402 of this title\] shall apply with respect to the death, on or after the date of the enactment of this Act \[Oct. 13, 2010\], of the parent of a person described in paragraph (9)(B) of subsection (a) of section 2402 of title 38, United States Code, as added by subsection (b), who dies on or after October 7, 2001."
 
 #### Effective Date of 2003 Amendment
 
@@ -182,7 +182,7 @@ Eligible Persons.—An eligible person is any person who—
 
 &emsp;&emsp;"(A) before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States; or
 
-&emsp;&emsp;"(B) in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of1945 (59 Stat. 538 \[543\])\[enacting section 637 of former Title 10, Army and Air Force\]; and
+&emsp;&emsp;"(B) in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of 1945 (59 Stat. 538 \[543\])\[enacting section 637 of former Title 10, Army and Air Force\]; and
 
 &emsp;"(2) was discharged or released from service described in paragraph (1) under conditions other than dishonorable.
 

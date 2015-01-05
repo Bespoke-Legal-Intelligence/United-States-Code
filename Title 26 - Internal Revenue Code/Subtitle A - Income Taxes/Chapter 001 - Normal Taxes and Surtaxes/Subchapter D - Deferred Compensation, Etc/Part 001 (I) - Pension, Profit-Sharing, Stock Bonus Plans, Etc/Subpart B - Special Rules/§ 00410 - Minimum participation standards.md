@@ -122,7 +122,7 @@
 
 #### (v) Information required to be filed
 
-&emsp;&emsp;&emsp;A plan shall not fail to satisfy the requirements of this subparagraph solely because it provides that no credit will begiven pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish—
+&emsp;&emsp;&emsp;A plan shall not fail to satisfy the requirements of this subparagraph solely because it provides that no credit will be given pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish—
 
 &emsp;&emsp;&emsp;&emsp;(I) that the absence from work is for reasons referred to in clause (i), and
 
@@ -164,7 +164,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "benefit percentage" means the employer-provided contribution or benefit of an employee under all qualified plans maintained by the employer, expressed as a percentage of such employee's compensation (within the meaning of section 414(s)).
+&emsp;&emsp;&emsp;The term "benefit percentage" means the employer-provided contribution or benefit of an employee under all qualifiedplans maintained by the employer, expressed as a percentage of such employee's compensation (within the meaning of section 414(s)).
 
 #### (ii) Period for computing percentage
 
@@ -312,7 +312,7 @@
 
 &emsp;An election under this subsection with respect to any church plan shall be binding with respect to such plan, and, once made, shall be irrevocable.
 
-(Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I, §1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063; Pub. L. 109–280, title IV, §402(h)(1), Aug. 17, 2006, 120 Stat. 927.)
+(Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I,§1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063; Pub. L. 109–280, title IV, §402(h)(1), Aug. 17, 2006, 120 Stat. 927.)
 
 #### References in Text
 
@@ -464,7 +464,7 @@ Application of funding rules.—
 
 &emsp;&emsp;"(A)
 
-In general.—In the case of a plan maintained on January 1, 1974, pursuant to one or moreagreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, section 412 of the Internal Revenue Code of 1986, and other amendments made by this part to the extent such amendments relate to such section 412, shall not apply during the special temporary waiver period (as defined in paragraph (1)(B)).
+In general.—In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, section 412 of the Internal Revenue Code of 1986, and other amendments made by this part to the extent such amendments relate to such section 412, shall not apply during the special temporary waiver period (as defined in paragraph (1)(B)).
 
 &emsp;&emsp;"(B)
 
@@ -538,9 +538,21 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission shall each issue before Feb. 1, 1988, final regulations to carry out amendments made by section 9203 of Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
 
+#### Deemed Election
+
+Pub. L. 113–97, title I, §103(c), Apr. 7, 2014, 128 Stat. 1120, provided that: "For purposes of the Internal Revenue Code of 1986, sections 4(b)(2) and 4021(b)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1003(b)(2), 1321(b)(3)\], and all other purposes, a plan shall be deemed to have made an irrevocable election under section 410(d) of the Internal Revenue Code of 1986 if—
+
+&emsp;"(1) the plan was established before January 1, 2014;
+
+&emsp;"(2) the plan falls within the definition of a CSEC plan;
+
+&emsp;"(3) the plan sponsor does not make an election under section 210(f)(3)(A) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1060(f)(3)(A)\] and section 414(y)(3)(A) of the Internal Revenue Code of 1986, as added by this Act; and
+
+&emsp;"(4) the plan, plan sponsor, administrator, or fiduciary remits one or more premium payments for the plan to the Pension Benefit Guaranty Corporation for a plan year beginning after December 31, 2013."
+
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 For provisions directing that if any amendments made by section 9203(a)(2) of Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
 

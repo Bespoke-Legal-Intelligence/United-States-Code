@@ -8,7 +8,7 @@ For purposes of sections 263a–1 to 263a–7 of this title:
 
 #### (2) Embryo laboratory
 
-&emsp;The term "embryo laboratory" means a facility in which human oocytes are subject toassisted reproductive technology treatment or procedures based on manipulation of oocytes or embryos which are subject to implantation.
+&emsp;The term "embryo laboratory" means a facility in which human oocytes are subject to assisted reproductive technology treatment or procedures based on manipulation of oocytes or embryos which are subject to implantation.
 
 #### (3) Secretary
 

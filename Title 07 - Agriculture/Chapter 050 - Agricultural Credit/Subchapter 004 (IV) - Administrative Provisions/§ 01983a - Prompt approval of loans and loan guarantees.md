@@ -4,19 +4,19 @@
 
 (1) The Secretary shall approve or disapprove an application for a loan or loan guarantee made under this chapter, and notify the applicant of such action, not later than 60 days after the Secretary has received a complete application for such loan or loan guarantee.
 
-(2)(A) If an application for a loan or loan guarantee under this chapter (other than under subchapter II of this chapter) is incomplete, the Secretary shall inform the applicant of the reasons such application is incomplete not later than 20 days after the Secretary has received such application.
+(2)(A) If an application for a loan or loan guarantee under this chapter (other than under subchapter II) is incomplete, the Secretary shall inform the applicant of the reasons such application is incomplete not later than 20 days after the Secretary has received such application.
 
-(B)(i) Not later than 10 calendar days after the Secretary receives an application for an operating loan or loan guarantee under subchapter II of this chapter, the Secretary shall notify the applicant of any information required before a decision may be made on the application. On receipt of an application, the Secretary shall request from other parties such information as may be needed in connection with the application.
+(B)(i) Not later than 10 calendar days after the Secretary receives an application for an operating loan or loan guarantee under subchapter II, the Secretary shall notify the applicant of any information required before a decision may be made on the application. On receipt of an application, the Secretary shall request from other parties such information as may be needed in connection with the application.
 
 (ii) Not later than 15 calendar days after the date an agency of the Department of Agriculture receives a request for information made pursuant to clause (i), the agency shall provide the Secretary with the requested information.
 
 (iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i) with respect to an application, the Secretary has not received the information requested, the Secretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
 
-(iv) A county office shall notify the district office of the Farmers Home Administration of each application for an operating loan or loan guarantee under subchapter II of this chapter that is pending more than 45 days after receipt, and the reasons the application is pending.
+(iv) A county office shall notify the district office of the Farmers Home Administration of each application for an operating loan or loan guarantee under subchapter II that is pending more than 45 days after receipt, and the reasons the application is pending.
 
 (v) A district office that receives a notice provided under clause (iv) with respect to an application shall immediately take steps to ensure that final action is taken on the application not later than 15 days after the date of the receipt of the notice.
 
-(vi) The district office shall report to the State office of the Farmers Home Administration on each application for an operating loan or loan guarantee under subchapter II of this chapter that is pending more than 45 days after receipt by the county committee, and the reasons the application is pending.
+(vi) The district office shall report to the State office of the Farmers Home Administration on each application for an operating loan or loan guarantee under subchapter II that is pending more than 45 days after receipt by the county committee, and the reasons the application is pending.
 
 (vii) Each month, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on a State-by-State basis, as to each application for an operating loan or loan guarantee under subchapter II of this chapter on which final action had not been taken within 60 calendar days after receipt by the Secretary, and the reasons final action had not been taken.
 
@@ -50,7 +50,7 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 &emsp;(A) the Agricultural Credit Insurance Fund established under section 1929 of this title; and
 
-&emsp;(B) the employment procedures used in connection with the emergency loan program established under subchapter III of this chapter.
+&emsp;(B) the employment procedures used in connection with the emergency loan program established under subchapter III.
 
 #### (f) Graduation of seasoned direct loan borrowers to loan guarantee program
 
@@ -58,7 +58,7 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 &emsp;(A) The term "approved lender" means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under section 1989 <sup>1</sup> of this title.
 
-&emsp;(B) The term "seasoned direct loan borrower" means a borrower receiving a direct loan under this chapter who has been classified as "commercial" or "standard" undersubpart W of part 2006 of the Instruction Manual (as in effect on January 1, 1991).
+&emsp;(B) The term "seasoned direct loan borrower" means a borrower receiving a direct loan under this chapter who has been classified as "commercial" or "standard" under subpart W of part 2006 of the Instruction Manual (as in effect on January 1, 1991).
 
 (2) The Secretary, or a contracting third party, shall annually review under section 2006b of this title the loans of each seasoned loan borrower. If, based on the review, it is determined that a borrower would be able to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender at reasonable rates and terms for loans for similar purposes and periods of time, the Secretary shall assist the borrower in applying for the commercial or cooperative loan.
 
@@ -78,9 +78,9 @@ Notification.—The Secretary shall notify each borrower of a loan that a prospe
 
 &emsp;(C)
 
-Credit extended.—If the Secretary receives an offer from an approved lender to extend credit to the seasoned direct loan borrower under terms and conditions contained in the prospectus, the seasoned direct loan borrower shall not be eligible for an insured loan from the Secretary under subchapter I or II of this chapter, except as otherwise provided in this subsection.
+Credit extended.—If the Secretary receives an offer from an approved lender to extend credit to the seasoned direct loan borrower under terms and conditions contained in the prospectus, the seasoned direct loan borrower shall not be eligible for an insured loan from the Secretary under subchapter I or II, except as otherwise provided in this subsection.
 
-(5) If the Secretary is unable to provide loan guarantees and, if necessary, interest assistance to the seasoned direct loan borrower under this subsection in amounts sufficient to enable the seasoned direct loan borrower to borrow from commercial sources the amount required to carry out a financially viable farming plan, or if the Secretary does not receive an offer from an approved lender to extend credit to a seasoned direct loan borrower under the terms and conditions contained in the prospectus, the Secretary shall make an insured loan to the seasoned direct loan borrower under subchapter I or II of this chapter, whichever is applicable.
+(5) If the Secretary is unable to provide loan guarantees and, if necessary, interest assistance to the seasoned direct loan borrower under this subsection in amounts sufficient to enable the seasoned direct loan borrower to borrow from commercial sources the amount required to carry out a financially viable farming plan, or if the Secretary does not receive an offer from an approved lender to extend credit to a seasoned direct loan borrower under the terms and conditions contained in the prospectus, the Secretary shall make an insured loan to the seasoned direct loan borrower under subchapter I or II, whichever is applicable.
 
 (6) To the extent necessary for the borrower to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender, the Secretary shall provide interest rate reductions as provided for under section 1999 of this title.
 
@@ -122,7 +122,11 @@ Credit extended.—If the Secretary receives an offer from an approved lender to
 
 &emsp;&emsp;&emsp;(iv) the form can be completed and processed in an expeditious manner.
 
-(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927.)
+#### (h) Simplified application forms
+
+Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1932(f), 1936b, 2008p, and 2008s of this title.
+
+(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, §6020(a), Feb. 7, 2014, 128 Stat. 847.)
 
 #### References in Text
 
@@ -135,6 +139,8 @@ Section 1989 of this title, referred to in subsec. (f)(1)(A), was in the origina
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h). Pub. L. 113–79 added subsec. (h).
 
 <b>2008</b>—Subsec. (g)(1)(B). Pub. L. 110–246, §6012(b)(3), substituted "1932(a)(2)(A)" for "1932(a)(1)" in introductory provisions.
 

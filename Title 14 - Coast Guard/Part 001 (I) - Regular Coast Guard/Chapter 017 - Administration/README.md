@@ -22,18 +22,19 @@
 | [648\.](%C2%A7%2000648%20-%20Accounting%20for%20industrial%20work.md) | Accounting for industrial work. |
 | [649\.](%C2%A7%2000649%20-%20Supplies%20and%20equipment%20from%20stock.md) | Supplies and equipment from stock. |
 | [650\.](%C2%A7%2000650%20-%20Coast%20Guard%20Supply%20Fund.md) | Coast Guard Supply Fund. |
-| [651\.](%C2%A7%2000651%20-%20Annual%20report.md) | Annual report. |
+| \[651. | Repealed.\] |
 | [652\.](%C2%A7%2000652%20-%20Removing%20restrictions.md) | Removing restrictions. |
 | [653\.](%C2%A7%2000653%20-%20Employment%20of%20draftsmen%20and%20engineers.md) | Employment of draftsmen and engineers. |
 | [654\.](%C2%A7%2000654%20-%20Public%20and%20commercial%20vessels%20and%20other%20watercraft%3B%20sale%20of%20fuel%2C%20supplies%2C%20and%20services.md) | Public and commercial vessels and other watercraft; sale of fuel, supplies, and services. |
 | [655\.](%C2%A7%2000655%20-%20Arms%20and%20ammunition%3B%20immunity%20from%20taxation.md) | Arms and ammunition; immunity from taxation. |
 | [656\.](%C2%A7%2000656%20-%20Use%20of%20certain%20appropriated%20funds.md) | Use of certain appropriated funds. |
-| [657\.](%C2%A7%2000657%20-%20Dependent%20school%20children.md) | Dependent school children. |
+| \[657. | Renumbered.\] |
 | [658\.](%C2%A7%2000658%20-%20Confidential%20investigative%20expenses.md) | Confidential investigative expenses. |
 | [659\.](%C2%A7%2000659%20-%20Assistance%20to%20film%20producers.md) | Assistance to film producers. |
 | [660\.](%C2%A7%2000660%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment.md) | Transportation to and from certain places of employment. |
 | [661\.](%C2%A7%2000661%20-%20Authorization%20of%20personnel%20end%20strengths.md) | Authorization of personnel end strengths. |
 | [662\.](%C2%A7%2000662%20-%20Requirement%20for%20prior%20authorization%20of%20appropriations.md) | Requirement for prior authorization of appropriations. |
+| [662a.](%C2%A7%2000662a%20-%20Transmission%20of%20annual%20Coast%20Guard%20authorization%20request.md) | Transmission of annual Coast Guard authorization request. |
 | [663\.](%C2%A7%2000663%20-%20Capital%20investment%20plan.md) | Capital investment plan. |
 | [664\.](%C2%A7%2000664%20-%20User%20fees.md) | User fees. |
 | [665\.](%C2%A7%2000665%20-%20Restriction%20on%20construction%20of%20vessels%20in%20foreign%20shipyards.md) | Restriction on construction of vessels in foreign shipyards. |
@@ -51,10 +52,14 @@
 | [676\.](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md) | Search and rescue center standards. |
 | [677\.](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md) | Turnkey selection procedures. |
 | [678\.](%C2%A7%2000678%20-%20Aircraft%20accident%20investigations.md) | Aircraft accident investigations. |
+| [679\.](%C2%A7%2000679%20-%20Inventory%20of%20real%20property.md) | Inventory of real property. |
+| 680\.<sup>1</sup> | Retired service members and dependents serving on advisory committees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–281, title II, §§214(b)(2)(D), 216(b), 217(b), 218(b), 221(a)(2), Dec. 18, 2014, 128 Stat. 3034–3037, added items 662a, 679, and 680 and struck out items 651 "Annual report" and 657 "Dependent school children".
 
 <b>2012</b>—Pub. L. 112–213, title II, §§212(b)(2), 213(c)(1), 214(b), 217(9), Dec. 20, 2012, 126 Stat. 1552, 1553, 1555, 1558, added items 656, 663, 669, 674, and 678 and struck out former items 656 "Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters", 663 "Submission of plans to Congress", 669 "Telephone Installation and Charges", and 674 "Small boat station capability".
 
@@ -114,6 +119,8 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 
 <b>1956</b>—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted "Coast Guard Supply Fund" for "Coast Guard supply fund and supply account" in item 650.
 
+<i><sup>1</sup></i><i> Another item 680 appears in the analysis for chapter 18 of this title.</i>
+
 
 ---
 
@@ -139,18 +146,19 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00648 - Accounting for industrial work](%C2%A7%2000648%20-%20Accounting%20for%20industrial%20work.md)
 - [&sect; 00649 - Supplies and equipment from stock](%C2%A7%2000649%20-%20Supplies%20and%20equipment%20from%20stock.md)
 - [&sect; 00650 - Coast Guard Supply Fund](%C2%A7%2000650%20-%20Coast%20Guard%20Supply%20Fund.md)
-- [&sect; 00651 - Annual report](%C2%A7%2000651%20-%20Annual%20report.md)
+- [&sect; 00651 - Repealed. Pub. L. 113&#8211;281, title II, &sect;221(a)(2), Dec. 18, 2014, 128 Stat. 3037](%C2%A7%2000651%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93281%2C%20title%20II%2C%20%C2%A7221%28a%29%282%29%2C%20Dec.%2018%2C%202014%2C%20128%20Stat.%203037.md)
 - [&sect; 00652 - Removing restrictions](%C2%A7%2000652%20-%20Removing%20restrictions.md)
 - [&sect; 00653 - Employment of draftsmen and engineers](%C2%A7%2000653%20-%20Employment%20of%20draftsmen%20and%20engineers.md)
 - [&sect; 00654 - Public and commercial vessels and other watercraft; sale of fuel, supplies, and services](%C2%A7%2000654%20-%20Public%20and%20commercial%20vessels%20and%20other%20watercraft%3B%20sale%20of%20fuel%2C%20supplies%2C%20and%20services.md)
 - [&sect; 00655 - Arms and ammunition; immunity from taxation](%C2%A7%2000655%20-%20Arms%20and%20ammunition%3B%20immunity%20from%20taxation.md)
 - [&sect; 00656 - Use of certain appropriated funds](%C2%A7%2000656%20-%20Use%20of%20certain%20appropriated%20funds.md)
-- [&sect; 00657 - Dependent school children](%C2%A7%2000657%20-%20Dependent%20school%20children.md)
+- [&sect; 00657 - Renumbered &sect;544](%C2%A7%2000657%20-%20Renumbered%20%C2%A7544.md)
 - [&sect; 00658 - Confidential investigative expenses](%C2%A7%2000658%20-%20Confidential%20investigative%20expenses.md)
 - [&sect; 00659 - Assistance to film producers](%C2%A7%2000659%20-%20Assistance%20to%20film%20producers.md)
 - [&sect; 00660 - Transportation to and from certain places of employment](%C2%A7%2000660%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment.md)
 - [&sect; 00661 - Authorization of personnel end strengths](%C2%A7%2000661%20-%20Authorization%20of%20personnel%20end%20strengths.md)
 - [&sect; 00662 - Requirement for prior authorization of appropriations](%C2%A7%2000662%20-%20Requirement%20for%20prior%20authorization%20of%20appropriations.md)
+- [&sect; 00662a - Transmission of annual Coast Guard authorization request](%C2%A7%2000662a%20-%20Transmission%20of%20annual%20Coast%20Guard%20authorization%20request.md)
 - [&sect; 00663 - Capital investment plan](%C2%A7%2000663%20-%20Capital%20investment%20plan.md)
 - [&sect; 00664 - User fees](%C2%A7%2000664%20-%20User%20fees.md)
 - [&sect; 00665 - Restriction on construction of vessels in foreign shipyards](%C2%A7%2000665%20-%20Restriction%20on%20construction%20of%20vessels%20in%20foreign%20shipyards.md)
@@ -168,3 +176,5 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00676 - Search and rescue center standards](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md)
 - [&sect; 00677 - Turnkey selection procedures](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md)
 - [&sect; 00678 - Aircraft accident investigations](%C2%A7%2000678%20-%20Aircraft%20accident%20investigations.md)
+- [&sect; 00679 - Inventory of real property](%C2%A7%2000679%20-%20Inventory%20of%20real%20property.md)
+- [&sect; 00680 - 1 Retired service members and dependents serving on advisory committees](%C2%A7%2000680%20-%201%20Retired%20service%20members%20and%20dependents%20serving%20on%20advisory%20committees.md)

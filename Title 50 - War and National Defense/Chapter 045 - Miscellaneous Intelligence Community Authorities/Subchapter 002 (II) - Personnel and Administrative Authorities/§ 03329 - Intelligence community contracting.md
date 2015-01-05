@@ -60,7 +60,7 @@ Covered procurement action.—The term 'covered procurement action' means any of
 
 &emsp;"(5)
 
-Covered system.—The term 'covered system' means a national security system, as that term is defined in section 3542(b) of title 44, United States Code.
+Covered system.—The term 'covered system' means a national security system, as that term is defined in \[former\] section 3542(b) of title 44, United States Code \[see now 44 U.S.C. 3552(b)\].
 
 &emsp;"(6)
 
@@ -72,7 +72,7 @@ Authority.—Subject to subsection (c) and in consultation with the Director of 
 
 &emsp;"(1) carry out a covered procurement action; and
 
-&emsp;"(2) limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
+&emsp;"(2) limit, notwithstanding any other provision of law, in whole or in part, the disclosure of informationrelating to the basis for carrying out a covered procurement action.
 
 "(c)
 

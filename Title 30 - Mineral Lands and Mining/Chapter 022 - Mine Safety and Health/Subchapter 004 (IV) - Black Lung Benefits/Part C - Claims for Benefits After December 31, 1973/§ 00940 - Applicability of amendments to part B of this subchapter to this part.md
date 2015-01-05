@@ -6,7 +6,7 @@ The amendments made by the Black Lung Benefits Act of 1972, the Black Lung Benef
 
 #### References in Text
 
-The Black Lung Benefits Act of 1972, referred to in text, is Pub. L. 92–303, May 19, 1972, 86 Stat. 150, asamended, which is classified generally to sections 901, 902, 921 to 925, 931 to 934, and 936 to 941 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
+The Black Lung Benefits Act of 1972, referred to in text, is Pub. L. 92–303, May 19, 1972, 86 Stat. 150, as amended, which is classified generally to sections 901, 902, 921 to 925, 931 to 934, and 936 to 941 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
 The Black Lung Benefits Reform Act of 1977, referred to in text, is Pub. L. 95–239, Mar. 1, 1978, 92 Stat. 95. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 801 of this title and Tables.
 
@@ -16,7 +16,7 @@ The Black Lung Benefits Amendments of 1981, referred to in text, is Pub. L. 97�
 
 <b>1981</b>—Pub. L. 97–119 inserted ", and the Black Lung Benefits Amendments of 1981".
 
-<b>1978</b>—Pub. L. 95–239 inserted reference to amendments made by the Black Lung Benefits Reform Act of 1977 and struck out provision that, for the purpose of determining the applicability of the presumption established by 921(c)(4) of this title to claims filed under this part, no period of employment after June 30, 1971, could be considered in determining whether a miner was employed at least fifteen years in one or more underground mines.
+<b>1978</b>—Pub. L. 95–239 inserted reference to amendments made by the Black Lung Benefits Reform Act of 1977 and struck out provision that, for the purpose of determining the applicability of the presumption established by 921(c)(4) of this title to claims filed under this part, no period of employment after June 30, 1971, could beconsidered in determining whether a miner was employed at least fifteen years in one or more underground mines.
 
 #### Effective Date of 1981 Amendment
 

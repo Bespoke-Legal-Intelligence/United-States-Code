@@ -28,7 +28,7 @@ If—
 
 &emsp;&emsp;(B) the amount of money and the fair market value of other property (other than obligations of the purchaser received with respect to the sale of such property) paid or transferred by the seller in connection with the reacquisition of such property.
 
-> &emsp;For purposes of this paragraph, the price at which real property is sold is the gross sales price reduced by the selling commissions,legal fees, and other expenses incident to the sale of such property which are properly taken into account in determining gain or loss on such sale.
+> &emsp;For purposes of this paragraph, the price at which real property is sold is the gross sales price reduced by the selling commissions, legal fees, and other expenses incident to the sale of such property which are properly taken into account in determining gain or loss on such sale.
 
 #### (3) Gain recognized
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 199
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) ofPub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -62,7 +62,7 @@ Factors.—In conducting the review and analysis under paragraph (1), the Secret
 
 Rulemaking.—After completing the review and analysis under paragraph (1) and after providing notice and opportunity for public comment, the Secretary shall either institute a rulemaking to incorporate the special permit into the hazardous materials regulations or publish in the Federal Register the Secretary's justification for why the special permit is not appropriate for incorporation into the regulations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 776; Pub. L. 103–311, title I, §120(a), Aug. 26, 1994, 108Stat. 1680; Pub. L. 109–59, title VII, §§7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, 119 Stat. 1901, 1909; Pub. L. 112–141, div. C, title III, §33012(c), July 6, 2012, 126 Stat. 839.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 776; Pub. L. 103–311, title I, §120(a), Aug. 26, 1994, 108 Stat. 1680; Pub. L. 109–59, title VII, §§7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, 119 Stat. 1901, 1909; Pub. L. 112–141, div. C, title III, §33012(c), July 6, 2012, 126 Stat. 839.)
 
 Historical and Revision Notes
 

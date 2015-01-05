@@ -64,7 +64,7 @@ In General.—The Secretary of Commerce shall establish an assistance program fo
 
 "(b)
 
-Allocation of Funds.—Under the program, the Secretary shall allocate funds appropriated to carry out the program among the States of Alabama, Louisiana, Florida, Mississippi, and Texas in proportion to the percentage of the fishery (including crawfish) catch landed by each State before August 29, 2005, except that the amount allocated to Florida shall be based exclusively on the proportion of such catch landed by the Florida Gulf Coast fishery.
+Allocation of Funds.—Under the program, the Secretary shall allocate funds appropriated to carryout the program among the States of Alabama, Louisiana, Florida, Mississippi, and Texas in proportion to the percentage of the fishery (including crawfish) catch landed by each State before August 29, 2005, except that the amount allocated to Florida shall be based exclusively on the proportion of such catch landed by the Florida Gulf Coast fishery.
 
 "(c)
 

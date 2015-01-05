@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-The chief executive officer of a State desiring to receive a grant under this subchapter shalldesignate, in an application submitted to the Secretary under section 9858c of this title, an appropriate State agency that complies with the requirements of subsection (b) of this section to act as the lead agency.
+The Governor of a State desiring to receive a grant under this subchapter shall designate an agency (which may be an appropriate collaborative agency), or establish a joint interagency office, that complies with the requirements of subsection (b) to serve as the lead agency for the State under this subchapter.
 
 #### (b) Duties
 
@@ -14,17 +14,23 @@ The chief executive officer of a State desiring to receive a grant under this su
 
 &emsp;&emsp;(B) develop the State plan to be submitted to the Secretary under section 9858c(a) of this title;
 
-&emsp;&emsp;(C) in conjunction with the development of the State plan as required under subparagraph (B), hold at least one hearing in the State with sufficient time and Statewide distribution of the notice of such hearing, to provide to the public an opportunity to comment on the provision of child care services under the State plan; and
+&emsp;&emsp;(C) in conjunction with the development of the State plan as required under subparagraph (B), hold at least one hearing in the State with sufficient time and Statewide distribution of the notice of such hearing, to provide to the public an opportunity to comment on the provision of child care services under the State plan;
 
-&emsp;&emsp;(D) coordinate the provision of services under this subchapter with other Federal, State and local child care and early childhood development programs.
+&emsp;&emsp;(D) coordinate the provision of services under this subchapter with other Federal, State and local child care and early childhood development programs; and
+
+&emsp;&emsp;(E) at the option of an Indian tribe or tribal organization in the State, collaborate and coordinate with such Indian tribe or tribal organization in the development of the State plan in a timely manner.
 
 #### (2) Development of plan
 
 &emsp;In the development of the State plan described in paragraph (1)(B), the lead agency shall consult with appropriate representatives of units of general purpose local government.
 
-(Pub. L. 97–35, title VI, §658D, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §604, Aug. 22, 1996, 110 Stat. 2281.)
+(Pub. L. 97–35, title VI, §658D, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat.1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §604, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 113–186, §4, Nov. 19, 2014, 128 Stat. 1972.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–186, §4(a), substituted "Governor" for "chief executive officer" and "designate an agency (which may be an appropriate collaborative agency), or establish a joint interagency office, that complies with the requirements of subsection (b) to serve as the lead agency for the State under this subchapter" for "designate, in an application submitted to the Secretary under section 9858c of this title, an appropriate State agency that complies with the requirements of subsection (b) of this section to act as the lead agency".
+
+Subsec. (b)(1)(E). Pub. L. 113–186, §4(b), added subpar. (E).
 
 <b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–193, §604(1)(A), substituted "governmental or nongovernmental agencies" for "State agencies".
 

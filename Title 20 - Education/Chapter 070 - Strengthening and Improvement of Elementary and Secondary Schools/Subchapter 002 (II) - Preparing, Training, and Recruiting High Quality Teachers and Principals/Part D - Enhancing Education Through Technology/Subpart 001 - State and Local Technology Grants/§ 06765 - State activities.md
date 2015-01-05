@@ -4,7 +4,7 @@ From funds made available under section 6762(a)(1) of this title, a State educat
 
 &emsp;(1) Developing, or assisting applicants or recipients of funds under this subpart in the development and utilization of, innovative strategies for the delivery of specialized or rigorous academic courses and curricula through the use of technology, including distance learning technologies, and providing other technical assistance to such applicants or recipients throughout the State, with priority given to high-need local educational agencies.
 
-&emsp;(2) Establishing or supporting public-private initiatives (such as interest-free or reduced-cost loans) for the acquisition of educational technology for high-need local educational agencies and students attending schools served by such agencies.
+&emsp;(2) Establishing or supporting public-private initiatives (such as interest-free or reduced-cost loans) for the acquisition of educational technology for high-need local educationalagencies and students attending schools served by such agencies.
 
 &emsp;(3) Assisting recipients of funds under this subpart in providing sustained and intensive, high-quality professional development based on a review of relevant research in the integration of advanced technologies, including emerging technologies, into curricula and instruction and in using those technologies to create new learning environments, including training in the use of technology to—
 

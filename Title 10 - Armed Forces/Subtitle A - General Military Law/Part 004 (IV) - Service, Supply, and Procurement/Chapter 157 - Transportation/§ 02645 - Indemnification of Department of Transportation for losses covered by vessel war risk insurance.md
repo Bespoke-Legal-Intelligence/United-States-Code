@@ -44,7 +44,7 @@ Vessel war risk insurance.—The term "vessel war risk insurance" means insuranc
 
 &emsp;(2)
 
-Vessel war risk insurance fund.—The term "Vessel War Risk Insurance Fund" means the insurance fund referred to in section 53909(a) of title 46.
+Vessel war risk insurance fund.—The term "Vessel War Risk Insurance Fund"means the insurance fund referred to in section 53909(a) of title 46.
 
 &emsp;(3)
 

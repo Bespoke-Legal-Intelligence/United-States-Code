@@ -22,11 +22,11 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 Pub. L. 110–81, title I, §105(c), Sept. 14, 2007, 121 Stat. 741, provided that:
 
-“(1)
+"(1)
 
 Notification of post-employment restrictions.—Subsection (a) of section 103 \[2 U.S.C. 4702(a)\] shall take effect on the 60th day after the date of the enactment of this Act \[Sept. 14, 2007\].
 
-“(2)
+"(2)
 
-Posting of information.—Subsection (b) of section 103 \[2 U.S.C. 4702(b)\] shall take effect January 1, 2008, except that the Secretary of the Senate and the Clerk of the House of Representatives shall post the information contained in notifications required by that subsection that are made on or after the effective date provided under paragraph (1) of this subsection.”
+Posting of information.—Subsection (b) of section 103 \[2 U.S.C. 4702(b)\] shall take effect January 1, 2008, except that the Secretary of the Senate and the Clerk of the House of Representatives shall post the information contained in notifications required by that subsection that are made on or after the effective date provided under paragraph (1) of this subsection."
 

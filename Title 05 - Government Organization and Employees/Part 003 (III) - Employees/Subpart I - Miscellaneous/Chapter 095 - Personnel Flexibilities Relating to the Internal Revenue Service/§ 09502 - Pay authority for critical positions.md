@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “Office of Personnel Management” for “Office of Management and Budget”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted "Office of Personnel Management" for "Office of Management and Budget".
 

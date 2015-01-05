@@ -10,7 +10,7 @@ Of the Members of Congress appointed for purposes of this section—
 
 &emsp;(1) half shall be appointed by the Speaker of the House of Representatives from among Members of the House (not less than 4 of whom shall be members of the Committee on Foreign Affairs), and
 
-&emsp;(2) half shall be appointed by the President Pro Tempore of the Senate, upon recommendations of the majority and minority leaders of the Senate, from among Members of the Senate (not less than 4 of whom shall be members of the Committee on Foreign Relations) unless the majority and minority leaders of the Senate determine otherwise.
+&emsp;(2) half shall be appointed by the President Pro Tempore of the Senate, upon recommendations of the majority and minority leaders of the Senate, from among Members of the Senate (not less than 4 of whom shall be members of the Committee on Foreign Relations)unless the majority and minority leaders of the Senate determine otherwise.
 
 #### (c) Chair and Vice Chair
 

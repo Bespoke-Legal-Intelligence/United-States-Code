@@ -8,7 +8,7 @@ The Secretary may make grants to, or enter into contracts with, any eligible ent
 
 #### (1) Eligible entity
 
-&emsp;The term "eligible entity" indicates an accredited educational institution that offers a course of study, certificate program, or professional training program in public or allied health or a related discipline, as determined by the Secretary <sup>1</sup>
+&emsp;The term "eligible entity" indicates an accredited educational institution that offers a course of study, certificate program, or professional training program in public or alliedhealth or a related discipline, as determined by the Secretary <sup>1</sup>
 
 #### (2) Eligible individuals
 

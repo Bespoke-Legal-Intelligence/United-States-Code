@@ -196,7 +196,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Shortfall States described
 
-&emsp;For purposes of paragraph (1), a shortfall State described in this paragraph is a Statewith a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of December 16, 2005, that the projected expenditures under such plan for such State for fiscal year 2006 will exceed the sum of—
+&emsp;For purposes of paragraph (1), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of December 16, 2005, that the projected expenditures under such plan for such State for fiscal year 2006 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2004 and 2005 that will not be expended by the end of fiscal year 2005;
 
@@ -266,7 +266,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a State that expends all of its allotment under subsection (b) or (c) ofthis section for fiscal year 1998 by the end of fiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) of this section (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
+&emsp;&emsp;In the case of a State that expends all of its allotment under subsection (b) or (c) of this section for fiscal year 1998 by the end of fiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) of this section (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
 
 #### (i) State
 
@@ -458,7 +458,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) Funding of any retrospective adjustments only from unexpended 2005 allotments
 
-&emsp;&emsp;Notwithstanding subsections (e) and (f), to the extent the Secretary determines it necessary to adjust the estimates and determinations made for purposes of paragraphs (1), (2), and (3), the Secretary may use only the allotments for fiscal year 2005 under subsection (b) that remain unexpended through the end of fiscal year 2007 for providing any additional amounts to States described in paragraph (2)(B) (without regard to whethersuch unexpended allotments are from States described in paragraph (3)(B)).
+&emsp;&emsp;Notwithstanding subsections (e) and (f), to the extent the Secretary determines it necessary to adjust the estimates and determinations made for purposes of paragraphs (1), (2), and (3), the Secretary may use only the allotments for fiscal year 2005 under subsection (b) that remain unexpended through the end of fiscal year 2007 for providing any additional amounts to States described in paragraph (2)(B) (without regard to whether such unexpended allotments are from States described in paragraph (3)(B)).
 
 #### (C) Rules of construction
 
@@ -580,7 +580,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Shortfall States described
 
-&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved underthis subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
+&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2007 and 2008 that will not be expended by the end of fiscal year 2008;
 
@@ -624,7 +624,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) For the commonwealths and territories
 
-&emsp;&emsp;Subject to the succeeding provisions of this paragraph and paragraph (4), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12) to each of the commonwealths and territories described in subsection (c)(3) an amount equal to the highest amount of Federal payments to the commonwealth or territory under this subchapter for any fiscal year occurring during the period of fiscal years 1999 through 2008, multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009, except that subparagraph (B) thereof shall be applied by substituting "the United States" for "the State".
+&emsp;&emsp;Subject to the succeeding provisions of this paragraph and paragraph (4), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection\(a)(12) to each of the commonwealths and territories described in subsection (c)(3) an amount equal to the highest amount of Federal payments to the commonwealth or territory under this subchapter for any fiscal year occurring during the period of fiscal years 1999 through 2008, multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009, except that subparagraph (B) thereof shall be applied by substituting "the United States" for "the State".
 
 #### (C) Adjustment for qualifying States
 
@@ -776,7 +776,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (D) Availability of excess funds for performance bonuses
 
-&emsp;&emsp;Any amounts in excess of the aggregate cap described in subparagraph (B) for a fiscal year or period shall be made available forpurposes of carrying out section 1397ee(a)(3) of this title for any succeeding fiscal year and the Secretary of the Treasury shall reduce the amount in the Fund by the amount so made available.
+&emsp;&emsp;Any amounts in excess of the aggregate cap described in subparagraph (B) for a fiscal year or period shall be made available for purposes of carrying out section 1397ee(a)(3) of this title for any succeeding fiscal year and the Secretary of the Treasury shall reduce the amount in the Fund by the amount so made available.
 
 #### (3) Child Enrollment Contingency Fund payments
 
@@ -806,7 +806,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (D) Proration rule
 
-&emsp;&emsp;If the amounts available for payment from the Fund for a fiscal year or period are less than the total amount of payments determined under subparagraph (A) for the fiscal year or period, the amount to be paid under such subparagraph to each eligible State shall be reduced proportionally.
+&emsp;&emsp;If the amounts available for payment from the Fund for a fiscal year or period are less than the total amount of payments determined under subparagraph (A) for the fiscal year or period, the amount to be paid undersuch subparagraph to each eligible State shall be reduced proportionally.
 
 #### (E) Timely payment; reconciliation
 
@@ -820,7 +820,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth's or territory's eligibility for, and amount of payment, under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113,div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930.)
 
 #### References in Text
 
@@ -980,7 +980,7 @@ Subsec. (b)(3)(B). Pub. L. 106–113, §1000(a)(6) \[title VII, §705(a)\], subs
 
 Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(4)\], substituted "the calendar year in which such fiscal year begins" for "the fiscal year involved".
 
-Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(2)\], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "In no case shall the amount of the allotment under this subsection for one of the 50 States or the District of Columbia for a year be less than $2,000,000. To the extent that the application of the previous sentence results in an increase in the allotment to a State above the amount otherwise provided, the allotments for the other States and the District of Columbia under this subsection shall be reduced in a pro rata manner (but not below $2,000,000) so that the total of such allotments in a fiscal year does not exceed the amount otherwise provided for allotment under paragraph (1) for that fiscal year."
+Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(2)\], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "In no case shall the amount of the allotment under this subsection for one of the 50 States or the District of Columbia for a year be less than $2,000,000. To the extent that the application of the previous sentence results in an increase in the allotment to a State above theamount otherwise provided, the allotments for the other States and the District of Columbia under this subsection shall be reduced in a pro rata manner (but not below $2,000,000) so that the total of such allotments in a fiscal year does not exceed the amount otherwise provided for allotment under paragraph (1) for that fiscal year."
 
 Subsec. (c)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title VII, §702\], inserted before period at end ", $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for fiscal year 2007".
 
@@ -1044,7 +1044,7 @@ Pub. L. 106–554, §1(a)(6) \[title VIII, §802(c)\], Dec. 21, 2000, 114 Stat. 
 
 Pub. L. 105–277, div. A, §101(f) \[title VII, §707\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: "Notwithstanding any other provision of law, for purposes of determining the product under section 2104(b)(1)(A) of the Social Security Act (42 U.S.C. 1397dd(b)(1)(A)) for a State for each of fiscal years 1998 and 1999—
 
-&emsp;"(1) the number of children under clause (i) of such section shall be the number of low-income children specified for the State in Column B of the table on pages 48101–48102 of the Federal Register published on September 12, 1997, adjusted by the Census Bureau as necessary to treat children as being without health insurance if they have access to health care funded by the Indian Health Service but do not have health insurance; and
+&emsp;"(1) the number of children under clause (i) of such section shall be the number of low-income children specified for the State in Column B of the table on pages 48101–48102 of the Federal Register published on September 12, 1997, adjusted by the Census Bureau as necessary to treat children as being without healthinsurance if they have access to health care funded by the Indian Health Service but do not have health insurance; and
 
 &emsp;"(2) the State cost factor under clause (ii) of such section shall be the State cost factor specified for the State in Column C of such table."
 

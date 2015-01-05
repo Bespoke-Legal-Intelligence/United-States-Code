@@ -110,7 +110,7 @@ Amendment by Pub. L. 98–369 applicable to estates of decedents which are requi
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 401(c)(1)of Pub. L. 97–34, set out as a note under section 2010 of this title.
+Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 401(c)(1) of Pub. L. 97–34, set out as a note under section 2010 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -42,7 +42,7 @@ Pub. L. 105–34, title XI, §1143(c), Aug. 5, 1997, 111 Stat. 984, provided tha
 
 #### Effective Date
 
-Pub. L. 97–248, title IV, §407(b), Sept. 3, 1982, 96 Stat. 671, provided that: "The amendments made by section405 \[enacting this section and amending section 6679 of this title\] shall apply with respect to acquisitions or dispositions of, or substantial changes in, interests in foreign partnerships occurring after the date of the enactment of this Act \[Sept. 3, 1982\]."
+Pub. L. 97–248, title IV, §407(b), Sept. 3, 1982, 96 Stat. 671, provided that: "The amendments made by section 405 \[enacting this section and amending section 6679 of this title\] shall apply with respect to acquisitions or dispositions of, or substantial changes in, interests in foreign partnerships occurring after the date of the enactment of this Act \[Sept. 3, 1982\]."
 
 #### Special Rule for Certain International Satellite Partnerships
 

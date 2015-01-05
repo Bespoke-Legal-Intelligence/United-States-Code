@@ -40,7 +40,7 @@
 
 #### (2) Applicability
 
-&emsp;This subsection shall not apply to any water resources study primarily designed for the purposes of navigational improvements in the nature of dams, locks, and channels on the Nation's system of inland waterways.
+&emsp;This subsection shall not apply to any water resources study primarily designed for thepurposes of navigational improvements in the nature of dams, locks, and channels on the Nation's system of inland waterways.
 
 #### (3) Detailed project reports
 
@@ -52,7 +52,7 @@
 
 #### (b) Planning and engineering
 
-The Secretary shall not initiate any planning or engineering for a water resources projectuntil appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the planning and engineering during the period of the planning and engineering. Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.
+The Secretary shall not initiate any planning or engineering for a water resources project until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the planning and engineering during the period of the planning and engineering. Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.
 
 #### (c) Design
 

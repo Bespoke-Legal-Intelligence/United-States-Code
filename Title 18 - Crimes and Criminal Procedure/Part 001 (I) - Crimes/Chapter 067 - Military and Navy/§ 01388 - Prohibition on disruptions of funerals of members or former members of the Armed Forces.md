@@ -72,7 +72,7 @@ In general.—In addition to any penalty imposed under subsection (b), a violato
 
 &emsp;(2)
 
-Actions by private persons.—A person bringing an action under subsection (c)(3) may elect, at any time before final judgment is rendered, to recover the actual damages suffered by him or her as a result of the violation or, instead of actual damages, an award of statutory damages for each violation involved in the action.
+Actions by private persons.—A person bringing an action under subsection (c)(3) may elect, at any time before final judgment is rendered, to recover the actual damages sufferedby him or her as a result of the violation or, instead of actual damages, an award of statutory damages for each violation involved in the action.
 
 &emsp;(3)
 
@@ -80,7 +80,7 @@ Actions by attorney general.—In any action under subsection (c)(2), the Attorn
 
 &emsp;(4)
 
-Statutory damages.—A court may award, as the court considers just, statutorydamages in a sum of not less than $25,000 or more than $50,000 per violation.
+Statutory damages.—A court may award, as the court considers just, statutory damages in a sum of not less than $25,000 or more than $50,000 per violation.
 
 (e)
 

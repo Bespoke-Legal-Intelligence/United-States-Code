@@ -46,7 +46,7 @@ As used in this subchapter—
 
 &emsp;(11) The term "project" means any individually described activity in a field related to ocean, coastal, and Great Lakes resources involving research, education, training, or extension services administered by a person with expertise in such a field.
 
-&emsp;(12) The term "sea grant college" means any institution, or any association or alliance oftwo or more such institutions, designated as such by the Secretary under section 1126 of this title.
+&emsp;(12) The term "sea grant college" means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
 &emsp;(13) The term "sea grant institute" means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
@@ -60,7 +60,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 1123 of this title, referred to in par. (2), was amended generally by Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
+Section 1123 of this title, referred to in par. (2), was amended generally by Pub. L. 105–160, §5, Mar. 6, 1998,112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
 
 #### Amendments
 

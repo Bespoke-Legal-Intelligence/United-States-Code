@@ -30,7 +30,7 @@ An opportunity for public comment shall be provided, as appropriate—
 
 #### (e) Issuance of order
 
-If the administering authority makes an affirmative determination under paragraph (1) of subsection (c) of this section, and the Commission makes an affirmative determination under paragraph (2) of subsection (c) of this section, the administering authority shall issue an antidumping duty order in accordance with section 1673e of this title and take such other actions as are required by section 1673e of this title.
+If the administering authority makes an affirmative determination under paragraph (1) ofsubsection (c) of this section, and the Commission makes an affirmative determination under paragraph (2) of subsection (c) of this section, the administering authority shall issue an antidumping duty order in accordance with section 1673e of this title and take such other actions as are required by section 1673e of this title.
 
 #### (f) Reviews of determinations
 

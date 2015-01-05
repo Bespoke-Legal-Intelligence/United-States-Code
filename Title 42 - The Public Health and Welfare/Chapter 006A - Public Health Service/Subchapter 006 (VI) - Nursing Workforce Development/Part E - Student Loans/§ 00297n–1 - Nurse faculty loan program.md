@@ -32,7 +32,7 @@ Loans from any student loan fund established by a school pursuant to an agreemen
 
 &emsp;(1) such terms and conditions are subject to any conditions, limitations, and requirements prescribed by the Secretary;
 
-&emsp;(2) in the case of any individual, the total of the loans for any academic year made by schools of nursing from loan funds established pursuant to agreements under subsection (a) of this section may not exceed $35,500,<sup>1</sup> during fiscal years 2010 and 2011 fiscal years <sup>2</sup> (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan; <sup>3</sup>
+&emsp;(2) in the case of any individual, the total of the loans for any academic year made byschools of nursing from loan funds established pursuant to agreements under subsection (a) of this section may not exceed $35,500,<sup>1</sup> during fiscal years 2010 and 2011 fiscal years <sup>2</sup> (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan; <sup>3</sup>
 
 &emsp;(3) an amount up to 85 percent of any such loan (plus interest thereon) shall be canceled by the school as follows:
 

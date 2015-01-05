@@ -32,7 +32,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 #### (D) Revenues
 
-&emsp;&emsp;Damages equal to the net loss of taxes, royalties, rents, fees, or net profit shares dueto the injury, destruction, or loss of real property, personal property, or natural resources, which shall be recoverable by the Government of the United States, a State, or a political subdivision thereof.
+&emsp;&emsp;Damages equal to the net loss of taxes, royalties, rents, fees, or net profit shares due to the injury, destruction, or loss of real property, personal property, or natural resources, which shall be recoverable by the Government of the United States, a State, or a political subdivision thereof.
 
 #### (E) Profits and earning capacity
 

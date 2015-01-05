@@ -10,7 +10,7 @@ In this chapter—
 
 &emsp;&emsp;(B) issue, deny, revoke, suspend, or cancel a motor vehicle operator's license issued by the State.
 
-&emsp;(3) "controlled substance" has the same meaning given that term in section 102 of theComprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
+&emsp;(3) "controlled substance" has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
 
 &emsp;(4) "motor vehicle" means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on public streets, roads, or highways, but does not include a vehicle operated only on a rail line.
 
@@ -210,7 +210,7 @@ Renewal.—A temporary driver's license or temporary identification card issued 
 
 Verification of documents.—To meet the requirements of this section, a State shall implement the following procedures:
 
-&emsp;&emsp;"(A) Before issuing a driver's license or identification card to a person, the State shall verify, with the issuing agency, the issuance, validity, and completeness of each document required to be presented by the person under paragraph (1) or (2).
+&emsp;&emsp;"(A) Before issuing a driver's license or identification card to a person, the State shall verify,with the issuing agency, the issuance, validity, and completeness of each document required to be presented by the person under paragraph (1) or (2).
 
 &emsp;&emsp;"(B) The State shall not accept any foreign document, other than an official passport, to satisfy a requirement of paragraph (1) or (2).
 

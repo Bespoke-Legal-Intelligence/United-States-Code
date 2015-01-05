@@ -16,7 +16,7 @@
 
 (3)
 
-Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2011 through 2015.
+Authorization of appropriations.—There is authorized to be appropriated to carry outthis subsection $2,000,000 for each of fiscal years 2011 through 2015.
 
 #### (b) Marijuana eradication and interdiction
 

@@ -12,5 +12,5 @@ Section is based on House Resolution No. 487, Eighty-seventh Congress, Jan. 10, 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
+<b>1996</b>—Pub. L. 104–186 substituted "applicable accounts of the House of Representatives" for "contingent fund of the House".
 

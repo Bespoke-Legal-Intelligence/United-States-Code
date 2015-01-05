@@ -82,7 +82,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (2) Such order shall be based upon a fair evaluation of the entire record at such hearing, and shall include a statement setting forth in detail the findings and conclusions upon which the order is based.
 
-(3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
+(3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions existnecessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
 
 #### (g) Judicial review
 
@@ -116,13 +116,13 @@ Any order, including any regulation established by such order, issued under subs
 
 &emsp;(I) an appropriation equal to or exceeding the applicable amount under clause (iv) is made for such fiscal year for carrying out such program in such fiscal year; and
 
-&emsp;(II) the Secretary certifies that the amount appropriated for such fiscal year for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause (I)) equals or exceeds the amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
+&emsp;(II) the Secretary certifies that the amount appropriated for such fiscal year for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause\(I)) equals or exceeds the amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
 
 (ii) The Secretary shall, not later than April 1, 1999, begin accepting and reviewing notifications submitted under the notification program established under this subsection if—
 
 &emsp;(I) an appropriation equal to or exceeding the applicable amount under clause (iii) is made for the last six months of fiscal year 1999 for carrying out such program during such period; and
 
-&emsp;(II) the Secretary certifies that the amount appropriated for such period for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause (I)) equals or exceeds an amount equivalent to one-halfthe amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
+&emsp;(II) the Secretary certifies that the amount appropriated for such period for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause (I)) equals or exceeds an amount equivalent to one-half the amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
 
 (iii) For the last six months of fiscal year 1999, the applicable amount under this clause is $1,500,000, or the amount specified in the budget request of the President for the six-month period involved for carrying out the notification program in fiscal year 1999, whichever is less.
 
@@ -166,7 +166,7 @@ Subsec. (j). Pub. L. 105–115, §309(b)(1), (4), redesignated subsec. (i) as (j
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce ofHouse of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1962 Amendment; Exceptions
 

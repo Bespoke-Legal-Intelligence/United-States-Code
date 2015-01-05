@@ -40,7 +40,7 @@
 
 #### (B) Leaking Underground Storage Tank Trust Fund tax
 
-&emsp;&emsp;The rates of tax specified in subparagraph (A) shall each be increased by 0.1 cent per gallon. The increase in tax under this subparagraph shall in this title be referred to as the Leaking Underground Storage Tank Trust Fund financing rate.
+&emsp;&emsp;The rates of tax specified in subparagraph (A) shall each be increased by 0.1 cent pergallon. The increase in tax under this subparagraph shall in this title be referred to as the Leaking Underground Storage Tank Trust Fund financing rate.
 
 #### (C) Taxes imposed on fuel used in aviation
 
@@ -292,7 +292,7 @@ Subsec. (d)(1). Pub. L. 104–188, §1609(a)(2)(B), (g)(4)(B), substituted "the 
 
 Subsec. (d)(2), (3). Pub. L. 104–188, §1609(a)(2)(A), (g)(2), added par. (3) relating to aviation gasoline, redesignated former par. (2), relating to leaking underground storage tank trust fund financing rate, as another par. (3), and added new par. (2) relating to aviation gasoline.
 
-<b>1993</b>—Pub. L. 103–66, §13242(a), amended section generally, substituting, in subsec. (a), provisions imposing tax on taxable fuels for provisions imposing tax on gasoline, in subsec. (b), provisions relating to treatment of removal or subsequent sale of taxable fuels by blender for provisions relating to treatment of removal or subsequent sale of gasoline by blender or compounder, in subsec. (c), provisions relating to taxable fuels mixed with alcohol for provisions relating to gasoline mixed with alcohol at refinery etc., in subsec. (d), provisions decreasing tax rate imposed on taxable fuels to 4.3 cents per gallon beginning on and after Oct. 1, 1999, for provisions terminating the Highway Trust Fund financing and deficit reduction rates on and after Oct. 1, 1999, and Oct. 1, 1995, respectively, and, in subsec. (e), "taxable fuel" for "gasoline" in two places.
+<b>1993</b>—Pub. L. 103–66, §13242(a), amended section generally, substituting, in subsec. (a), provisions imposing tax on taxable fuels for provisions imposing tax on gasoline, in subsec. (b), provisions relating to treatment of removal or subsequent sale of taxable fuels by blender for provisions relating to treatment of removal or subsequent sale of gasoline by blender or compounder, insubsec. (c), provisions relating to taxable fuels mixed with alcohol for provisions relating to gasoline mixed with alcohol at refinery etc., in subsec. (d), provisions decreasing tax rate imposed on taxable fuels to 4.3 cents per gallon beginning on and after Oct. 1, 1999, for provisions terminating the Highway Trust Fund financing and deficit reduction rates on and after Oct. 1, 1999, and Oct. 1, 1995, respectively, and, in subsec. (e), "taxable fuel" for "gasoline" in two places.
 
 Subsec. (a)(2)(B)(iii). Pub. L. 103–66, §13241(a), amended cl. (iii) generally, substituting "6.8 cents per gallon" for "2.5 cents a gallon".
 
@@ -456,13 +456,13 @@ Subsec. (b). Act June 29, 1956, redesignated second sentence as subsec. (b) and 
 
 #### Effective and Termination Dates of 2012 Amendment
 
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 4041 of this title.
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 4041 of this title.
 
 Pub. L. 112–95, title XI, §1101(c), Feb. 14, 2012, 126 Stat. 148, provided that: "The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on February 18, 2012."
 
@@ -470,7 +470,7 @@ Pub. L. 112–91, §2(c), Jan. 31, 2012, 126 Stat. 3, provided that: "The amendm
 
 #### Effective Date of 2011 Amendment
 
-Amendment by section 142(a)(1)(C), (2)(D) of Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by section 142(a)(1)(C), (2)(D) of Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 4041 of this title.
 
 Pub. L. 112–30, title II, §202(c), Sept. 16, 2011, 125 Stat. 357, provided that: "The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on September 17, 2011."
 
@@ -798,7 +798,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;"(A)
 
-Held by a person.—Kerosene shall be considered as 'held by a person' if title thereto has passedto such person (whether or not delivery to the person has been made).
+Held by a person.—Kerosene shall be considered as 'held by a person' if title thereto has passed to such person (whether or not delivery to the person has been made).
 
 &emsp;"(B)
 
@@ -822,7 +822,7 @@ In general.—No tax shall be imposed by paragraph (1) on kerosene held on July 
 
 &emsp;"(B)
 
-Exempt fuel.—For purposes of subparagraph (A), there shall not be taken into account fuel held by any person which is exempt from the tax imposed by paragraph (1) by reason of paragraph (4) or (5).
+Exempt fuel.—For purposes of subparagraph (A), there shall not be taken into account fuel held byany person which is exempt from the tax imposed by paragraph (1) by reason of paragraph (4) or (5).
 
 &emsp;"(C)
 
@@ -998,7 +998,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Treasury or his del
 
 "(4)
 
-Exception for exempt uses.—The tax imposed by paragraph (1) shall not apply to gasoline, diesel fuel, or aviation fuel held by any person exclusively for any use to the extent a credit or refund of the tax imposed by section 4081 or 4091 of such Code, as the case may be, is allowable for such use.
+Exception for exempt uses.—The tax imposed by paragraph (1) shall not apply to gasoline, diesel fuel,or aviation fuel held by any person exclusively for any use to the extent a credit or refund of the tax imposed by section 4081 or 4091 of such Code, as the case may be, is allowable for such use.
 
 "(5)
 
@@ -1114,7 +1114,7 @@ Pub. L. 99–514, title XVII, §1703(g), Oct. 22, 1986, 100 Stat. 2778, directed
 
 #### Extension of Payment Due Date for Certain Fuel Taxes
 
-Pub. L. 97–424, title V, §518, Jan. 6, 1983, 96 Stat. 2184, as amended by Pub. L. 98–369, div. A, title VII, §734(i),July 18, 1984, 98 Stat. 980; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–424, title V, §518, Jan. 6, 1983, 96 Stat. 2184, as amended by Pub. L. 98–369, div. A, title VII, §734(i), July 18, 1984, 98 Stat. 980; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(a) 14-
 

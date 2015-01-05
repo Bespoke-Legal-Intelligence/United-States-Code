@@ -6,7 +6,7 @@ The Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\], is hereby mad
 
 #### (b) Authority of Secretary
 
-The Secretary is authorized and directed to accept no more than one hundred acres of land in Maverick County, Texas which shall be offered for the benefit of the Band with the approval of the Tribe. Nothing in this subsection shall be construed as limiting the authority of the Secretary under section 5 of the Act of June 18, 1934 (48 Stat. 985) \[25 U.S.C. 465\].
+The Secretary is authorized and directed to accept no more than one hundred acres of landin Maverick County, Texas which shall be offered for the benefit of the Band with the approval of the Tribe. Nothing in this subsection shall be construed as limiting the authority of the Secretary under section 5 of the Act of June 18, 1934 (48 Stat. 985) \[25 U.S.C. 465\].
 
 (Pub. L. 97–429, §5, Jan. 8, 1983, 96 Stat. 2270.)
 

@@ -10,7 +10,7 @@
 
 &emsp;(1) the Vice Chief of Naval Operations shall perform the duties of the Chief of Naval Operations until a successor is appointed or the absence or disability ceases; or
 
-&emsp;(2) if there is a vacancy in the office of the Vice Chief of Naval Operations or the Vice Chief of Naval Operations is absent or disabled, unless the President directs otherwise, the most senior officer of the Navy in the Office of the Chief of Naval Operations who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Naval Operations until a successor to the Chief of Naval Operations or the Vice Chief of Naval Operations is appointed or until the absence or disability of the Chief of Naval Operations or Vice Chief of Naval Operations ceases, whichever occurs first.
+&emsp;(2) if there is a vacancy in the office of the Vice Chief of Naval Operations or the Vice Chief of Naval Operations is absent or disabled, unless the President directs otherwise, the most senior officer of the Navy in the Office of the Chief of Naval Operations who isnot absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Naval Operations until a successor to the Chief of Naval Operations or the Vice Chief of Naval Operations is appointed or until the absence or disability of the Chief of Naval Operations or Vice Chief of Naval Operations ceases, whichever occurs first.
 
 (Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1050.)
 

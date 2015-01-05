@@ -20,7 +20,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;&emsp;(B) Not later than 45 days before the Secretary appoints any personnel for a class of health care occupations that is not specifically listed in this paragraph, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Office of Management and Budget notice of such appointment.
 
-&emsp;&emsp;(C) Before submitting notice under subparagraph (B), the Secretary shall solicitcomments from any labor organization representing employees in such class and include such comments in such notice.
+&emsp;&emsp;(C) Before submitting notice under subparagraph (B), the Secretary shall solicit comments from any labor organization representing employees in such class and include such comments in such notice.
 
 (Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167.)
 
@@ -52,7 +52,7 @@ Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day per
 
 #### Prior Appointments of Certain Personnel
 
-Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: "Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3)."
+Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: "Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) ofthis subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3)."
 
 <i><sup>1</sup></i><i> So in original. The word "that" probably should not appear.</i>
 

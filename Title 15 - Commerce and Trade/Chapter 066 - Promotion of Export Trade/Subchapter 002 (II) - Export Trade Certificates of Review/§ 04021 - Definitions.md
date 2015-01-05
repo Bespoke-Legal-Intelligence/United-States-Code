@@ -16,7 +16,7 @@ As used in this subchapter—
 
 &emsp;(4) the term "methods of operation" means any method by which a person conducts or proposes to conduct export trade,
 
-&emsp;(5) the term "person" means an individual who is a resident of the United States; a partnership that is created under and exists pursuant to the laws of any State or of the United States; a State or local government entity; a corporation, whether organized as a profit or nonprofit corporation, that is created under and exists pursuant to the laws of any State or of the United States; or any association or combination, by contract or other arrangement, between or among such persons,
+&emsp;(5) the term "person" means an individual who is a resident of the United States; a partnership that is created under and exists pursuant to the laws of any State or of the United States; a State or local government entity; a corporation, whether organized as a profit or nonprofit corporation, that is created under and exists pursuant to the laws of any State or of the United States; or any association orcombination, by contract or other arrangement, between or among such persons,
 
 &emsp;(6) the term "antitrust laws" means the antitrust laws, as such term is defined in section 12 of this title, and section 45 of this title (to the extent that section 45 of this title prohibits unfair methods of competition), and any State antitrust or unfair competition law,
 

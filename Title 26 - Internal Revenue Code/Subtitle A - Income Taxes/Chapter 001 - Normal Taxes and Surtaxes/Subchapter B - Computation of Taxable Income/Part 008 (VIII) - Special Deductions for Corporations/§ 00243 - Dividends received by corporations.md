@@ -36,7 +36,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;The requirements of paragraph (1)(A) shall not be treated as being met with respect to any dividend received by a corporation if, for any taxable year which includes the day on which such dividend is received—
 
-&emsp;&emsp;&emsp;(i) 1 or more members of the affiliated group referred to in paragraph (1)(A)choose to any extent to take the benefits of section 901, and
+&emsp;&emsp;&emsp;(i) 1 or more members of the affiliated group referred to in paragraph (1)(A) choose to any extent to take the benefits of section 901, and
 
 &emsp;&emsp;&emsp;(ii) 1 or more other members of such group claim to any extent a deduction for taxes otherwise creditable under section 901.
 
@@ -62,13 +62,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 #### (1) In general
 
-&emsp;In the case of any dividend received from a 20-percent owned corporation—
-
-&emsp;&emsp;(A) subsection (a)(1) of this section, and
-
-&emsp;&emsp;(B) subsections (a)(3) and (b)(2) of section 244,
-
-> &emsp;shall be applied by substituting "80 percent" for "70 percent".
+&emsp;In the case of any dividend received from a 20-percent owned corporation, subsection (a)(1) shall be applied by substituting "80 percent" for "70 percent".
 
 #### (2) 20-percent owned corporation
 
@@ -84,13 +78,11 @@ For purposes of subsection (a)—
 
 &emsp;(3) Any dividend received from a real estate investment trust which, for the taxable year of the trust in which the dividend is paid, qualifies under part II of subchapter M (section 856 and following) shall not be treated as a dividend.
 
-&emsp;(4) Any dividend received which is described in section 244 (relating to dividends received on preferred stock of a public utility) shall not be treated as a dividend.
-
 #### (e) Certain dividends from foreign corporations
 
 For purposes of subsection (a) and for purposes of section 245, any dividend from a foreign corporation from earnings and profits accumulated by a domestic corporation during a period with respect to which such domestic corporation was subject to taxation under this chapter (or corresponding provisions of prior law) shall be treated as a dividend from a domestic corporation which is subject to taxation under this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 85–866, title I, §57(b), Sept. 2, 1958, 72 Stat. 1645; Pub. L. 86–779, §§3(a), 10(g), Sept. 14, 1960, 74 Stat. 998, 1009; Pub. L. 88–272, title II, §214(a), Feb. 26, 1964, 78 Stat. 52; Pub. L. 90–364, title I, §103(e)(2), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title V, §504(c)(1), Dec. 30, 1969, 83 Stat. 633; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), Oct. 4, 1976, 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title II, §211(b)(3), July 18, 1984, 98 Stat. 754; Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), Oct. 22, 1986, 100 Stat. 2227, 2249; Pub. L. 100–203, title X, §10221(a)(1), (b), Dec. 22, 1987, 101 Stat. 1330–408; Pub. L. 100–647, title I, §1010(f)(4), Nov. 10, 1988, 102 Stat. 3454; Pub. L. 101–508, title XI, §11814(a), Nov. 5, 1990, 104 Stat. 1388–556; Pub. L. 104–188, title I, §1702(h)(4), (8), Aug. 20, 1996, 110 Stat. 1873, 1874.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 85–866, title I, §57(b), Sept. 2, 1958, 72 Stat. 1645; Pub. L. 86–779, §§3(a), 10(g), Sept. 14, 1960, 74 Stat. 998, 1009; Pub. L. 88–272, title II, §214(a), Feb. 26, 1964, 78 Stat. 52; Pub. L. 90–364, title I, §103(e)(2), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title V, §504(c)(1), Dec. 30, 1969, 83 Stat. 633; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), Oct. 4, 1976, 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title II, §211(b)(3), July 18, 1984, 98 Stat. 754; Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), Oct. 22, 1986, 100 Stat. 2227, 2249; Pub. L. 100–203, title X, §10221(a)(1), (b), Dec. 22, 1987, 101 Stat. 1330–408; Pub. L. 100–647, title I, §1010(f)(4), Nov. 10, 1988, 102 Stat. 3454; Pub. L. 101–508, title XI, §11814(a), Nov. 5, 1990, 104 Stat. 1388–556; Pub. L. 104–188, title I, §1702(h)(4), (8), Aug. 20, 1996, 110 Stat. 1873, 1874; Pub. L. 113–295, div. A, title II, §221(a)(41)(C), (D), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### References in Text
 
@@ -99,6 +91,16 @@ The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub
 Section 1562, referred to in subsec. (b)(1)(B)(i), was repealed by Pub. L. 91–172, title IV, §401(a)(2), Dec. 30, 1969, 83 Stat. 600.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–295, §221(a)(41)(C), amended par. (1) generally. Prior to amendment, par.\(1) read as follows:"In the case of any dividend received from a 20-percent owned corporation—
+
+&emsp;"(A) subsection (a)(1) of this section, and
+
+&emsp;"(B) subsections (a)(3) and (b)(2) of section 244,
+
+> shall be applied by substituting '80 percent' for '70 percent'."
+
+Subsec. (d)(4). Pub. L. 113–295, §221(a)(41)(D), struck out par. (4) which read as follows: "Any dividend received which is described in section 244 (relating to dividends received on preferred stock of a public utility) shall not be treated as a dividend."
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–188, §1702(h)(8), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of this subsection, the term 'affiliated group' has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2), 1504(b)(4), and 1504(c) shall not apply."
 
@@ -158,6 +160,12 @@ Subsec. (d). Pub. L. 86–779, §3(a), added subsec. (d).
 
 Subsecs. (b), (c). Pub. L. 85–866, §57(b)(2), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted "subsections (a) and (b)" for "subsection (a)".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
@@ -168,7 +176,7 @@ Pub. L. 101–508, title XI, §11814(c), Nov. 5, 1990, 104 Stat. 1388–557, pro
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and section 1504 of this title\] shall apply to taxable years beginning after December 31, 1990.
+In general.—The amendments made by this section \[amending this section and section 1504 of thistitle\] shall apply to taxable years beginning after December 31, 1990.
 
 "(2)
 

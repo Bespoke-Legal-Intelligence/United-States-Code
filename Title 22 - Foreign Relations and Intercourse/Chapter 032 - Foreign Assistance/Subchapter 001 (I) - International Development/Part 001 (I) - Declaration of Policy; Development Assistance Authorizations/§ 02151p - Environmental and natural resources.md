@@ -6,7 +6,7 @@ The Congress finds that if current trends in the degradation of natural resource
 
 #### (b) Assistance authority and emphasis
 
-In order to address the serious problems described in subsection (a) of this section, the President is authorized to furnish assistanceunder subchapter I of this chapter for developing and strengthening the capacity of developing countries to protect and manage their environment and natural resources. Special efforts shall be made to maintain and where possible to restore the land, vegetation, water, wildlife, and other resources upon which depend economic growth and human well-being, especially of the poor.
+In order to address the serious problems described in subsection (a), the President is authorized to furnish assistance under subchapter I of this chapter for developing and strengthening the capacity of developing countries to protect and manage their environment and natural resources. Special efforts shall be made to maintain and where possible to restore the land, vegetation, water, wildlife, and other resources upon which depend economic growth and human well-being, especially of the poor.
 
 #### (c) Implementation considerations applicable to programs and projects
 
@@ -118,7 +118,7 @@ Location.—In determining whether to locate a TEAM in a country, the President,
 
 #### "SEC. 646. PROMOTION OF WATER QUALITY, WATER TREATMENT SYSTEMS, AND ENERGY EFFICIENCY.
 
-"Subject to the availability of appropriations, the President is authorized to provide matching grants to United States associations and United States nonprofit entities for the purpose of promoting water quality, water treatment systems, and energy efficiency in the region. The grants shall be used to support joint projects, including professional exchanges, academic fellowships, training programs in the United States or in the region, cooperation in regulatory review, development of training materials, the establishment and development in the region of local chapters of the associations or nonprofit entities, and the development of online exchanges.
+"Subject to the availability of appropriations, the President is authorized to provide matching grants to United States associations and United States nonprofit entities for the purpose of promoting water quality,water treatment systems, and energy efficiency in the region. The grants shall be used to support joint projects, including professional exchanges, academic fellowships, training programs in the United States or in the region, cooperation in regulatory review, development of training materials, the establishment and development in the region of local chapters of the associations or nonprofit entities, and the development of online exchanges.
 
 #### "SEC. 647. GRANTS FOR PREFEASIBILITY STUDIES WITHIN A DESIGNATED SUBREGION.
 

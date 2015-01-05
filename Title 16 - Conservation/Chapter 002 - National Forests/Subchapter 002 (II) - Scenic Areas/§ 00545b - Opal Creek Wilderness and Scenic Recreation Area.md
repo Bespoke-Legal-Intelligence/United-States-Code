@@ -60,7 +60,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited to administrative use if an alternative access route, adequate and appropriate for public use, is provided.
 
-&emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record as of March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
+&emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record asof March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
 
 &emsp;&emsp;&emsp;(i) The lode mining claims known as Princess Lode, Black Prince Lode, and King Number 4 Lode, embracing portions of sections 29 and 32, township 8 south, range 5 east, Willamette Meridian, Marion County, Oregon, the claims being more particularly described in the field notes and depicted on the plat of mineral survey number 887, Oregon; and
 
@@ -128,7 +128,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iv) allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2) of this section, to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
 
-&emsp;&emsp;&emsp;(v) restricts construction or improvement of forest road 2209 beyond the gate to the Scenic Recreation Area to maintaining the character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
+&emsp;&emsp;&emsp;(v) restricts construction or improvement of forest road 2209 beyond the gate tothe Scenic Recreation Area to maintaining the character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
 
 > &emsp;In order to comply with subsection (f)(2) of this section, the Secretary may make improvements to forest road 2209 and its bridge structures consistent with the character of the road as it existed on November 12, 1996.
 
@@ -248,7 +248,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(D) 1 member from a city within a 25-mile radius of the Opal Creek Scenic Recreation Area, to be designated by the Governor of the State of Oregon from a list of candidates provided by the mayors of the cities located within a 25-mile radius of the Opal Creek Scenic Recreation Area; and
 
-&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal CreekWilderness and Scenic Recreation Area, economic development interests and Indian tribes.
+&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal Creek Wilderness and Scenic Recreation Area, economic development interests and Indian tribes.
 
 #### (3) Staggered terms
 
@@ -304,7 +304,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after November 12, 1996, the Secretary shall file a map and a boundary description for the Opal Creek Wilderness and for the Scenic Recreation Area with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+&emsp;&emsp;As soon as practicable after November 12, 1996, the Secretary shall file a map and aboundary description for the Opal Creek Wilderness and for the Scenic Recreation Area with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
 #### (B) Force and effect
 
@@ -404,7 +404,7 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Codification
 
-Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of section 1023 of Pub. L. 104–333 alsoenacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. Subsec. (h) of section 1023 of Pub. L. 104–333 amended section 1274 of this title.
+Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of section 1023 of Pub. L. 104–333 also enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. Subsec. (h) of section 1023 of Pub. L. 104–333 amended section 1274 of this title.
 
 Provisions substantially identical to the text of this section were enacted by title I of div. B of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–523, known as the Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996.
 

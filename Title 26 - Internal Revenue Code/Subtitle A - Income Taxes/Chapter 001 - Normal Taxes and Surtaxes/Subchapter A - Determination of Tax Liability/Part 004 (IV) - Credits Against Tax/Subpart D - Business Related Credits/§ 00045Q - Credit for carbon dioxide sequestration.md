@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (2) Secure geological storage
 
-&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency <sup>1</sup> the Secretary of Energy, and the Secretary of the Interior,,<sup>2</sup> shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
+&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
 
 #### (3) Tertiary injectant
 
@@ -86,15 +86,17 @@ For purposes of this section—
 
 #### (e) Application of section
 
-The credit under this section shall apply with respect to qualified carbon dioxide before theend of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).
+The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).
 
-(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325.)
+(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.</i>
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(2). Pub. L. 113–295 substituted "Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish" for "Administrator of the Environmental Protection Agency the Secretary of Energy, and the Secretary of the Interior,, shall establish".
 
 <b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–5, §1131(b)(2), inserted "and not used by the taxpayer as described in paragraph (2)(B)" after "storage".
 
@@ -104,6 +106,10 @@ Subsec. (d)(2). Pub. L. 111–5, §1131(b)(1), inserted "the Secretary of Energy
 
 Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted "taken into account in accordance with subsection (a)" for "captured and disposed of or used as a tertiary injectant".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–5, div. B, title I, §1131(c), Feb. 17, 2009, 123 Stat. 325, provided that: "The amendments made by this section \[amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Feb. 17, 2009\]."
@@ -112,9 +118,11 @@ Pub. L. 111–5, div. B, title I, §1131(c), Feb. 17, 2009, 123 Stat. 325, provi
 
 Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 115(d) of Pub. L. 110–343, set out as an Effective Date of 2008 Amendment note under section 38 of this title.
 
-#### Inflation Adjusted Items for Certain Tax Years
+#### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2014</b>—Internal Revenue Notice 2014–40.
 
 <b>2013</b>—Internal Revenue Notice 2013–34.
 
@@ -123,8 +131,4 @@ Provisions relating to inflation adjustment of items in this section for certain
 <b>2011</b>—Internal Revenue Notice 2011–50.
 
 <b>2010</b>—Internal Revenue Notice 2010–75.
-
-<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

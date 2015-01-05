@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 Sept. 28, 1959, Pub. L. 86–382, §11, 73 Stat. 716.
 
-In subsection (b), the word “agency” is substituted for “department, agency, and independent establishment”.
+In subsection (b), the word "agency" is substituted for "department, agency, and independent establishment".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -38,11 +38,11 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–508 added subsec. (d).
 
-<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
 
 #### Effective Date of 1990 Amendment
 

@@ -94,7 +94,7 @@ Pub. L. 98–473, title II, §235, Oct. 12, 1984, 98 Stat. 2031, as amended by P
 
 \[Pub. L. 104–232, §3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: "Effective on the date the plan \[alternative plan by Attorney General for transfer of United States Parole Commission's functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under section 4201 of this title\] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out above\] (98 Stat. 2032) are repealed."\]
 
-\[Pub. L. 113–47, §2, Oct. 31, 2013, 127 Stat. 572, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '26 years' or '26-year period' shall be deemed a reference to '31 years' or '31-year period', respectively."\]
+\[Pub. L. 113–47, §2, Oct. 31, 2013, 127 Stat. 572, provided that: "For purposes of section 235(b) of the SentencingReform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '26 years' or '26-year period' shall be deemed a reference to '31 years' or '31-year period', respectively."\]
 
 \[Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '24 years' or '24-year period' shall be deemed a reference to '26 years' or '26-year period', respectively."\]
 
@@ -118,7 +118,7 @@ Pub. L. 109–76, §1, Sept. 29, 2005, 119 Stat. 2035, provided that: "This Act 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: "This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613,3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Mandatory Victims Restitution Act of 1996'."
+Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: "This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613, 3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Mandatory Victims Restitution Act of 1996'."
 
 #### Short Title of 1987 Amendment
 

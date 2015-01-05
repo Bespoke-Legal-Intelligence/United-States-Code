@@ -16,7 +16,7 @@
 
 #### (A) Health Extension Agent
 
-&emsp;&emsp;The term "Health Extension Agent" means any local, community-based health worker who facilitates and provides assistance to primary care practices by implementing quality improvement or system redesign, incorporating the principles of the patient-centered medical home to providehigh-quality, effective, efficient, and safe primary care and to provide guidance to patients in culturally and linguistically appropriate ways, and linking practices to diverse health system resources.
+&emsp;&emsp;The term "Health Extension Agent" means any local, community-based health worker who facilitates and provides assistance to primary care practices by implementing quality improvement or system redesign, incorporating the principles of the patient-centered medical home to provide high-quality, effective, efficient, and safe primary care and to provide guidance to patients in culturally and linguistically appropriate ways, and linking practices to diverse health system resources.
 
 #### (B) Primary care provider
 
@@ -84,7 +84,7 @@
 
 &emsp;Grants awarded under subsection (b) shall be—
 
-&emsp;&emsp;(A) program grants, that are awarded to State or multistate entities that submit fully-developed plans for the implementation of a Hub, for a period of 6 years; or
+&emsp;&emsp;(A) program grants, that are awarded to State or multistate entities that submitfully-developed plans for the implementation of a Hub, for a period of 6 years; or
 
 &emsp;&emsp;(B) planning grants, that are awarded to State or multistate entities with the goal of developing a plan for a Hub, for a period of 2 years.
 

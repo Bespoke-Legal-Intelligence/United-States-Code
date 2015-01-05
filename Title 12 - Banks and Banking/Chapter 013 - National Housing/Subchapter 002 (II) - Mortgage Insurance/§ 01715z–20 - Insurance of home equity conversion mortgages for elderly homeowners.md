@@ -28,7 +28,7 @@ Mortgage.—The term "mortgage" means a first mortgage or first lien on real est
 
 &emsp;(5)
 
-First mortgage.—The term "first mortgage" means such classes of first liens as arecommonly given to secure advances on, or the unpaid purchase price of, real estate or a first or subordinate lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
+First mortgage.—The term "first mortgage" means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate or a first or subordinate lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
 
 #### (c) Insurance authority
 
@@ -74,7 +74,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;(A) the net sales proceeds from the dwelling that are subject to the mortgage (based upon the amount of the accumulated equity selected by the mortgagor to be subject to the mortgage, as agreed upon by the mortgagor and mortgagee); or
 
-&emsp;&emsp;(B) the insurance benefits paid pursuant to subsection (i)(1)(C) of this section;
+&emsp;&emsp;(B) the insurance benefits paid pursuant to subsection (i)(1)(C);
 
 &emsp;(8) contain such terms and provisions with respect to insurance, repairs, alterations, payment of taxes, default reserve, delinquency charges, foreclosure proceedings, anticipation of maturity, additional and secondary liens, and other matters as the Secretary may prescribe;
 
@@ -92,7 +92,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;(F) on any other basis that the Secretary considers appropriate;
 
-&emsp;(10) provide that the mortgagor may convert the method of payment under paragraph (9) to any other method during the term of the mortgage, except that in the case of a fixed rate mortgage, the Secretary may, by regulation, limit such convertibility; and
+&emsp;(10) provide that the mortgagor may convert the method of payment under paragraph (9) toany other method during the term of the mortgage, except that in the case of a fixed rate mortgage, the Secretary may, by regulation, limit such convertibility; and
 
 &emsp;(11) have been made with such restrictions as the Secretary determines to be appropriate to ensure that the mortgagor does not fund any unnecessary or excessive costs for obtaining the mortgage, including any costs of estate planning, financial advice, or other related services.
 
@@ -100,9 +100,9 @@ To be eligible for insurance under this section, a mortgage shall—
 
 The Secretary shall require each mortgagee of a mortgage insured under this section to make available to the homeowner—
 
-&emsp;(1) at the time of the loan application, a written list of the names and addresses of third-party information sources who are approved by the Secretary as responsible and able to provide the information required by subsection (f) of this section;
+&emsp;(1) at the time of the loan application, a written list of the names and addresses of third-party information sources who are approved by the Secretary as responsible and able to provide the information required by subsection (f);
 
-&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies with respect to temporary absences from the home, late payments, and payment default by thelender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
+&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies with respect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
@@ -150,7 +150,7 @@ The Secretary may—
 
 &emsp;(B) to obtain repayment of disbursements provided under subparagraph (A) from any source; and
 
-&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitations in subsection (g) of this section to which the mortgagee is entitled under the terms of the insured mortgage or ancillary contracts authorized in this section.
+&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitationsin subsection (g) to which the mortgagee is entitled under the terms of the insured mortgage or ancillary contracts authorized in this section.
 
 (2) Actions under paragraph (1) may include—
 
@@ -166,7 +166,7 @@ The Secretary may—
 
 #### (j) Safeguard to prevent displacement of homeowner
 
-The Secretary may not insure a home equity conversion mortgage under this section unlesssuch mortgage provides that the homeowner's obligation to satisfy the loan obligation is deferred until the homeowner's death, the sale of the home, or the occurrence of other events specified in regulations of the Secretary. For purposes of this subsection, the term "homeowner" includes the spouse of a homeowner. Section 1647(b) of title 15 and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.
+The Secretary may not insure a home equity conversion mortgage under this section unless such mortgage provides that the homeowner's obligation to satisfy the loan obligation is deferred until the homeowner's death, the sale of the home, or the occurrence of other events specified in regulations of the Secretary. For purposes of this subsection, the term "homeowner" includes the spouse of a homeowner. Section 1647(b) of title 15 and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.
 
 #### (k) Insurance authority for refinancings
 
@@ -180,7 +180,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (3) Waiver of counseling requirement
 
-&emsp;The mortgagor under a mortgage insured under this subsection may waive the applicability, with respect to such mortgage, of the requirements under subsection (d)(2)(B) of this section (relating to third party counseling), but only if—
+&emsp;The mortgagor under a mortgage insured under this subsection may waive the applicability, with respect to such mortgage, of the requirements under subsection (d)(2)(B) (relating to third party counseling), but only if—
 
 &emsp;&emsp;(A) the mortgagor has received the disclosure required under paragraph (2);
 
@@ -198,7 +198,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 &emsp;&emsp;(A) a reduction in the single premium payment collected at the time of the insurance of a mortgage refinanced and insured under this subsection;
 
-&emsp;&emsp;(B) the establishment of a single national limit on the benefits of insurance under subsection (g) of this section (relating to limitation on insurance authority); and
+&emsp;&emsp;(B) the establishment of a single national limit on the benefits of insurance under subsection (g) (relating to limitation on insurance authority); and
 
 &emsp;&emsp;(C) the combined effect of reduced insurance premiums and a single national limitation on insurance authority.
 
@@ -214,7 +214,7 @@ The Secretary may use a portion of the mortgage insurance premiums collected und
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be used to purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as a primary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
+&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be used to purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as aprimary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
 
 #### (2) Limitation on principal obligation
 
@@ -282,7 +282,7 @@ Subsec. (b)(5). Pub. L. 110–289, §2122(b)(2), inserted "a first or subordinat
 
 Subsec. (d)(1). Pub. L. 110–289, §2122(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "have been made to a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;".
 
-Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;".
+Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;".
 
 Subsec. (f). Pub. L. 110–289, §2122(a)(4), substituted "Counseling services and information for mortgagors" for "Information services for mortgagors" in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—".
 
@@ -382,7 +382,7 @@ Pub. L. 105–276, title V, §593(e)(2), Oct. 21, 1998, 112 Stat. 2655, provided
 
 "(A)
 
-Notice.—The Secretary of Housing and Urban Development shall, by interim notice, implement theamendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
+Notice.—The Secretary of Housing and Urban Development shall, by interim notice, implement the amendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
 
 "(B)
 

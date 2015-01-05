@@ -28,7 +28,7 @@ Pub. L. 107–273, div. C, title I, §11011, Nov. 2, 2002, 116 Stat. 1823, provi
 
 "(a)
 
-Study.—The Attorney General shall commission a study of offenders, or a sampling of such offenders,with mental illness released from prison or jail in 2 or more jurisdictions, including at least 1 State or local and 1 Federal, to determine the extent to which participation in public benefit programs correlates with successful reentry and improved public safety.
+Study.—The Attorney General shall commission a study of offenders, or a sampling of such offenders, with mental illness released from prison or jail in 2 or more jurisdictions, including at least 1 State or local and 1 Federal, to determine the extent to which participation in public benefit programs correlates with successful reentry and improved public safety.
 
 "(b)
 

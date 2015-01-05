@@ -88,7 +88,7 @@ The Institute may charge and collect subscription fees and develop, for publicat
 
 #### (j) Participation fees and costs
 
-The Institute may charge and collect fees and other participation costs from persons and institutions participating in the Institute's direct activities authorized in subsection (b) of this section.
+The Institute may charge and collect fees and other participation costs from persons and institutions participating in the Institute's direct activities authorized in subsection (b).
 
 #### (k) Civil actions
 
@@ -132,7 +132,7 @@ Subsec. (h)(2). Pub. L. 102–325, §1554(c)(1), amended par. (2) generally. Pri
 
 &emsp;&emsp;"(i) a natural person who is a citizen of a foreign country or who owes permanent allegiance to a foreign country; and
 
-&emsp;&emsp;"(ii) a corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50percent of the outstanding capital stock or other beneficial interest in such legal entity; and
+&emsp;&emsp;"(ii) a corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity; and
 
 &emsp;"(B) 'person' means a natural person, partnership, association, other unincorporated body, or corporation."
 

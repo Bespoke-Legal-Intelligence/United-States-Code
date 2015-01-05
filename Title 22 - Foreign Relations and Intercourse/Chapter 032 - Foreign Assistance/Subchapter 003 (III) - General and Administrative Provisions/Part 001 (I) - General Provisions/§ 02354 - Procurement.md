@@ -32,7 +32,7 @@ In providing assistance in the procurement of commodities in the United States, 
 
 #### (e) Parity for domestic commodities prior to use of funds outside United States
 
-No funds made available under this chapter shall be used for the procurement of any agricultural commodity or product thereof outside the United States when the domestic price of such commodity is less than parity, unless the commodity to be financed could not reasonably be procured in the United States in fulfillment of the objectives of a particular assistance program under which such commodity procurement is to be financed.
+No funds made available under this chapter shall be used for the procurement of any agricultural commodity or product thereof outside theUnited States when the domestic price of such commodity is less than parity, unless the commodity to be financed could not reasonably be procured in the United States in fulfillment of the objectives of a particular assistance program under which such commodity procurement is to be financed.
 
 #### (f) Commodity eligibility
 
@@ -40,7 +40,7 @@ No funds authorized to be made available to carry out subchapter I of this chapt
 
 #### (g) Construction or engineering services; applicability to advanced developing country
 
-(1) None of the funds authorized to be appropriated or made available for obligation or expenditure under this chapter may be made available for the procurement of construction or engineering services from advanced developingcountries, eligible under the Geographic Code 941, which have attained a competitive capability in international markets for construction services or engineering services.
+(1) None of the funds authorized to be appropriated or made available for obligation or expenditure under this chapter may be made available for the procurement of construction or engineering services from advanced developing countries, eligible under the Geographic Code 941, which have attained a competitive capability in international markets for construction services or engineering services.
 
 (2) Paragraph (1) does not apply with respect to an advanced developing country which—
 

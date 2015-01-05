@@ -6,7 +6,7 @@ A homeownership program under this subchapter shall provide for acquisition by e
 
 #### (b) Affordability
 
-A homeownership program under this subchapter shall provide for the establishment of sales prices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property from the public housing agency if the applicant is not a public housing agency, and for sales to eligible families, such that an eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
+A homeownership program under this subchapter shall provide for the establishment ofsales prices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property from the public housing agency if the applicant is not a public housing agency, and for sales to eligible families, such that an eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
 
 #### (c) Plan
 
@@ -42,7 +42,7 @@ Acquisition or rehabilitation of public housing projects under a homeownership p
 
 &emsp;&emsp;(C) any debt obligation can be serviced from project income, including operating assistance; and
 
-&emsp;&emsp;(D) the proceeds of such encumbrance will be used only to meet housing standards inaccordance with subsection (f) of this section or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
+&emsp;&emsp;(D) the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) of this section or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
 
 #### (3) Opportunity to cure
 
@@ -76,7 +76,7 @@ The application shall include a plan ensuring that the unit—
 
 &emsp;Tenants renting a unit in a project transferred under this subchapter shall have all rights provided to tenants of public housing under this chapter.
 
-(Sept. 1, 1937, ch. 896, title III, §304, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4153; amended Pub. L. 102–550, title I, §181(g)(1)(A), Oct. 28, 1992, 106 Stat. 3736; Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236; Pub. L. 105–276, title V, §531(b)(1), Oct. 21, 1998, 112 Stat. 2573.)
+(Sept. 1, 1937, ch. 896, title III, §304, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4153; amended Pub. L. 102–550, title I,§181(g)(1)(A), Oct. 28, 1992, 106 Stat. 3736; Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236; Pub. L. 105–276, title V, §531(b)(1), Oct. 21, 1998, 112 Stat. 2573.)
 
 #### References in Text
 

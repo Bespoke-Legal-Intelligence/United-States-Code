@@ -240,7 +240,7 @@
 
 #### (ii) Deposit required
 
-&emsp;&emsp;&emsp;(I) The retired participant shall, within one year after the date of the remarriage (or by August 14, 1993 for any remarriagethat occurred before August 14, 1991), deposit in the fund an amount determined by the Director, as nearly as may be administratively feasible, to reflect the amount by which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced, plus interest.
+&emsp;&emsp;&emsp;(I) The retired participant shall, within one year after the date of the remarriage (or by August 14, 1993 for any remarriage that occurred before August 14, 1991), deposit in the fund an amount determined by the Director, as nearly as may be administratively feasible, to reflect the amount by which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced, plus interest.
 
 &emsp;&emsp;&emsp;(II) The annual rate of interest for each year during which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced shall be 6 percent.
 

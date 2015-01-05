@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of section 15001 of this title) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c) of this section.
+Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of section 15001 of this title) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement ofthe purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c) of this section.
 
 #### (b) Council membership
 
@@ -134,7 +134,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;&emsp;(ii) through education; and
 
-&emsp;&emsp;&emsp;(iii) by enabling neighborhoods and communities to offer such individuals andtheir families access to and use of services, resources, and opportunities.
+&emsp;&emsp;&emsp;(iii) by enabling neighborhoods and communities to offer such individuals and their families access to and use of services, resources, and opportunities.
 
 #### (F) Interagency collaboration and coordination
 
@@ -152,7 +152,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (H) Barrier elimination, systems design and redesign
 
-&emsp;&emsp;The Council may support and conduct activities to eliminate barriers to access and use of community services by individuals with developmental disabilities, enhance systems design and redesign, and enhance citizen participation to address issues identified in the State plan.
+&emsp;&emsp;The Council may support and conduct activities to eliminate barriers to access and use of community services by individuals with developmental disabilities, enhance systems design and redesign, and enhancecitizen participation to address issues identified in the State plan.
 
 #### (I) Coalition development and citizen participation
 

@@ -52,7 +52,7 @@ To be eligible to enter into a contract to receive a contract payment under this
 
 #### (f) Death of tobacco quota holder
 
-If a tobacco quota holder who is entitled to contract payments under this section dies and is survived by a spouse or one or more dependents,the right to receive the payments shall transfer to the surviving spouse or, if there is no surviving spouse, to the estate of the tobacco quota holder.
+If a tobacco quota holder who is entitled to contract payments under this section dies and is survived by a spouse or one or more dependents, the right to receive the payments shall transfer to the surviving spouse or, if there is no surviving spouse, to the estate of the tobacco quota holder.
 
 (Pub. L. 108–357, title VI, §622, Oct. 22, 2004, 118 Stat. 1525.)
 

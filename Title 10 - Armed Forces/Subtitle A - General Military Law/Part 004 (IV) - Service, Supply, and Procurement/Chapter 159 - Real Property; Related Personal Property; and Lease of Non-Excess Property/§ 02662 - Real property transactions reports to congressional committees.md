@@ -26,7 +26,7 @@ General Notice and Wait Requirements.—(1) The Secretary of a military departme
 
 &emsp;(A) the end of the 30-day period beginning on the first day of the month with respect to which the report containing the facts concerning such transaction, and all other such proposed transactions for that month, is submitted under paragraph (1); or
 
-&emsp;(B) the end of the 14-day period beginning on the first day of that month when a copy of the report is provided in an electronic medium pursuant to section 480 of this title on or before the first day of that month.
+&emsp;(B) the end of the 14-day period beginning on the first day of that month when a copy of the report is provided in an electronic mediumpursuant to section 480 of this title on or before the first day of that month.
 
 (4) The report for a month under this subsection may not be submitted later than the first day of that month.
 
@@ -92,7 +92,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 &emsp;(E) A contingency operation.
 
-(2) The reporting requirement set forth in subsection (a) shall not apply with respect to a real property transaction otherwise covered by that subsection if the Secretary concerned determines that—
+(2) The reporting requirement set forth in subsection (a) shall not apply with respect to a realproperty transaction otherwise covered by that subsection if the Secretary concerned determines that—
 
 &emsp;(A) an event listed in paragraph (1) is imminent; and
 
@@ -166,7 +166,7 @@ Subsec. (b)(1), (2)(A), (3)(C), (D). Pub. L. 112–81, §2812(2), substituted "l
 
 Subsec. (c). Pub. L. 111–383, §2811(c), substituted "Excepted Projects" for "Geographic Scope; Excepted Projects" in heading and "This section does not" for "This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not" in text.
 
-Subsecs. (e), (f). Pub. L. 111–383, §2811(d), (f)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: "No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $750,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title."
+Subsecs. (e), (f). Pub. L. 111–383, §2811(d), (f)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment,text read as follows: "No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $750,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title."
 
 Subsec. (f)(1). Pub. L. 111–383, §2811(f)(3)(A), struck out ", and the reporting requirement set forth in subsection (e) shall not apply with respect to a real property transaction otherwise covered by that subsection," before "if the Secretary" in introductory provisions.
 

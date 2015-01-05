@@ -84,7 +84,7 @@
 
 #### (17) Husband and wife
 
-&emsp;As used in sections 682 and 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such sections, the term "wife" shall be read "former wife" and the term "husband" shall be read "former husband"; and, if the payments described in such sections are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such sections, the term "husband" shall be read "wife" and the term "wife" shall be read "husband."
+&emsp;As used in sections 682 and 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such sections, the term "wife" shall be read "former wife" and the term "husband" shall be read "former husband"; and, if the payments described in such sections are made by or on behalf of the wife or former wife to thehusband or former husband instead of vice versa, wherever appropriate to the meaning of such sections, the term "husband" shall be read "wife" and the term "wife" shall be read "husband."
 
 #### (18) International organization
 
@@ -122,11 +122,11 @@
 
 &emsp;&emsp;&emsp;(xi) any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify.
 
-> &emsp;&emsp;At the election of the taxpayer, the percentage specified in this subparagraph shall be applied on the basis of the average assets outstanding during the taxable year, in lieu of the close of the taxable year, computedunder regulations prescribed by the Secretary. For purposes of clause (v), if a multifamily structure securing a loan is used in part for nonresidential purposes, the entire loan is deemed a residential real property loan if the planned residential use exceeds 80 percent of the property's planned use (determined as of the time the loan is made). For purposes of clause (v), loans made to finance the acquisition or development of land shall be deemed to be loans secured by an interest in residential real property if, under regulations prescribed by the Secretary, there is reasonable assurance that the property will become residential real property within a period of 3 years from the date of acquisition of such land; but this sentence shall not apply for any taxable year unless, within such 3-year period, such land becomes residential real property. For purposes of determining whether any interest in a REMIC qualifies under clause (xi), any regular interest in another REMIC held by such REMIC shall be treated as a loan described in a preceding clause under principles similar to the principles of clause (xi); except that, if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of clause (xi).
+> &emsp;&emsp;At the election of the taxpayer, the percentage specified in this subparagraph shall be applied on the basis of the average assets outstanding during the taxable year, in lieu of the close of the taxable year, computed under regulations prescribed by the Secretary. For purposes of clause (v), if a multifamily structure securing a loan is used in part for nonresidential purposes, the entire loan is deemed a residential real property loan if the planned residential use exceeds 80 percent of the property's planned use (determined as of the time the loan is made). For purposes of clause (v), loans made to finance the acquisition or development of land shall be deemed to be loans secured by an interest in residential real property if, under regulations prescribed by the Secretary, there is reasonable assurance that the property will become residential real property within a period of 3 years from the date of acquisition of such land; but this sentence shall not apply for any taxable year unless, within such 3-year period, such land becomes residential real property. For purposes of determining whether any interest in a REMIC qualifies under clause (xi), any regular interest in another REMIC held by such REMIC shall be treated as a loan described in a preceding clause under principles similar to the principles of clause (xi); except that, if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of clause (xi).
 
 #### (20) Employee
 
-&emsp;For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term "employee" shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951, who would be considered an employee if his services were performed during 1951.
+&emsp;For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term "employee" shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21.
 
 #### (21) Levy
 
@@ -218,7 +218,7 @@
 
 &emsp;&emsp;&emsp;(iii) transportation (not included in clause (ii)) by motor vehicle—
 
-> &emsp;&emsp;if the rates for such furnishing or sale, as the case may be, have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, by a public service or public utility commission or other similar body of the District of Columbia or of any State or political subdivision thereof, or by a foreign country or an agency or instrumentality or political subdivision thereof.
+> &emsp;&emsp;if the rates for such furnishing or sale, as the case may be, have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, by a public service orpublic utility commission or other similar body of the District of Columbia or of any State or political subdivision thereof, or by a foreign country or an agency or instrumentality or political subdivision thereof.
 
 &emsp;&emsp;(B) A corporation engaged as a common carrier in the furnishing or sale of transportation of gas by pipe line, if subject to the jurisdiction of the Federal Energy Regulatory Commission.
 
@@ -436,29 +436,15 @@
 
 &emsp;&emsp;&emsp;(i) such individual was present in the United States on at least 31 days during the calendar year, and
 
-&emsp;&emsp;&emsp;(ii) the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days:
+&emsp;&emsp;&emsp;(ii) the sum of the number of days on which such individual was present in theUnited States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days:
 
-<b> </b>
+&nbsp;
 
-<b>The applicable</b>
-
-<b>   In the case of days in:</b>
-
-<b>multiplier is:</b>
-
-&emsp;&emsp;&nbsp;Current year
-
-1&nbsp;
-
-&emsp;&emsp;&nbsp;1st preceding year
-
-1/3
-
-&emsp;&emsp;&nbsp;2nd preceding year
-
-1/6
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>   In the case of days in:</b> | <b>The applicable multiplier is:</b> |
+| :--- | ---: |
+| Current year | 1&nbsp; |
+| 1st preceding year | 1/3&nbsp; |
+| 2nd preceding year | 1/6&nbsp; |
 
 #### (B) Exception where individual is present in the United States during less than one-half of current year and closer connection to foreign country is established
 
@@ -508,7 +494,7 @@
 
 &emsp;(E) An election under subparagraph (B) shall be made on the individual's tax return for the election year, provided that such election may not be made before the individual has met the substantial presence test of paragraph (3) with respect to the calendar year immediately following the election year.
 
-&emsp;(F) An election once made under subparagraph (B) remains in effect for the electionyear, unless revoked with the consent of the Secretary.
+&emsp;(F) An election once made under subparagraph (B) remains in effect for the election year, unless revoked with the consent of the Secretary.
 
 #### (5) Exempt individual defined
 
@@ -858,7 +844,7 @@ For purposes of subtitle A, in determining the amount of gain or loss (or deemed
 
 &emsp;&emsp;(B) any contribution to, or distribution from, the Thrift Savings Fund shall be treated in the same manner as contributions to or distributions from such a trust; and
 
-&emsp;&emsp;(C) subject to section 401(k)(4)(B) and any dollar limitation on the application of section 402(e)(3), contributions to the Thrift Savings Fund shall not be treated as distributed or made available to an employee or Member nor as a contribution made to theFund by an employee or Member merely because the employee or Member has, under the provisions of subchapter III of chapter 84 of title 5, United States Code, and section 8351 of such title 5, an election whether the contribution will be made to the Thrift Savings Fund or received by the employee or Member in cash.
+&emsp;&emsp;(C) subject to section 401(k)(4)(B) and any dollar limitation on the application of section 402(e)(3), contributions to the Thrift Savings Fund shall not be treated as distributed or made available to an employee or Member nor as a contribution made to the Fund by an employee or Member merely because the employee or Member has, under the provisions of subchapter III of chapter 84 of title 5, United States Code, and section 8351 of such title 5, an election whether the contribution will be made to the Thrift Savings Fund or received by the employee or Member in cash.
 
 #### (2) Nondiscrimination requirements
 
@@ -870,7 +856,7 @@ For purposes of subtitle A, in determining the amount of gain or loss (or deemed
 
 #### (4) Definitions
 
-&emsp;For purposes of this subsection, the terms "Member", "employee", and "Thrift Savings Fund" shall have the same respective meanings as when used in subchapter III of chapter 84 of title 5, United States Code.
+&emsp;For purposes of this subsection, the terms "Member", "employee", and "Thrift SavingsFund" shall have the same respective meanings as when used in subchapter III of chapter 84 of title 5, United States Code.
 
 #### (5) Coordination with other provisions of law
 
@@ -974,7 +960,7 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(l)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646; Pub. L. 111–152, title I, §1409(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(l)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646; Pub. L. 111–152, title I, §1409(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(119), Dec. 19, 2014, 128 Stat. 4055.)
 
 #### References in Text
 
@@ -1007,6 +993,8 @@ The date of the enactment of the Commodity Futures Modernization Act of 2000, re
 Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of section 7701 without specifying the act to be amended, were executed to this section, which is section 7701 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(20). Pub. L. 113–295 substituted "chapter 21." for "chapter 21, or in the case of services performed before January 1, 1951, who would be considered an employee if his services were performed during 1951."
 
 <b>2010</b>—Subsec. (a)(47). Pub. L. 111–312 amended subsec. (a) to read as if amendment by Pub. L. 107–16, §542(e)(3), had never been enacted.
 
@@ -1262,9 +1250,13 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 
 Subsec. (a)(10). Pub. L. 86–70, §22(h), substituted "Territory of Hawaii" for "Territories".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31,2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 Amendment by Pub. L. 111–152 applicable to transactions entered into after Mar. 30, 2010, see section 1409(e)(1) of Pub. L. 111–152, set out as a note under section 6662 of this title.
 
@@ -1354,7 +1346,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15, 1994, see section 320(c) ofPub. L. 103–296, set out as a note under section 871 of this title.
+Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15, 1994, see section 320(c) of Pub. L. 103–296, set out as a note under section 871 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -1366,11 +1358,11 @@ Amendment by Pub. L. 102–90 effective Jan. 1, 1992, see section 314(g)(1) of P
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11812(b)(13) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11812(b)(13) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec.\(f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–194, title VI, §603, Nov. 30, 1989, 103 Stat. 1763, provided that: "The amendments made by this title \[amending this section, sections 31–1 and 441i of Title 2, The Congress, and title V of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect on January 1, 1991. Such amendments shall cease to be effective if the provisions of section 703 \[5 U.S.C. 5318 note\] are subsequently repealed, in which case the laws in effect before such amendments shall be deemed to be reenacted."
+Pub. L. 101–194, title VI, §603, Nov. 30, 1989, 103 Stat. 1763, provided that: "The amendments made by this title \[amending this section, sections 31–1 and former 441i of Title 2, The Congress, and title V of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect on January 1, 1991. Such amendments shall cease to be effective if the provisions of section 703 \[5 U.S.C. 5318 note\] are subsequently repealed, in which case the laws in effect before such amendments shall be deemed to be reenacted."
 
 #### Effective Date of 1988 Amendment
 

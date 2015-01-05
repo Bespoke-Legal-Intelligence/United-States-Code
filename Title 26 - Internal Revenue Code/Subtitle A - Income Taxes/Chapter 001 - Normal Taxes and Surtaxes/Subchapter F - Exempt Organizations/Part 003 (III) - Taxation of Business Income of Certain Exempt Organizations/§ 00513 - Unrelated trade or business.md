@@ -56,7 +56,7 @@ For purposes of this section, the term "trade or business" includes any activity
 
 #### (A) Convention and trade show activities
 
-&emsp;&emsp;The term "convention and trade show activity" means any activity of a kind traditionally conducted at conventions, annual meetings, or trade shows, including, but not limited to, any activity one of the purposes of which is to attract persons in an industry generally (without regard to membership in the sponsoring organization) as well asmembers of the public to the show for the purpose of displaying industry products or to stimulate interest in, and demand for, industry products or services, or to educate persons engaged in the industry in the development of new products and services or new rules and regulations affecting the industry.
+&emsp;&emsp;The term "convention and trade show activity" means any activity of a kind traditionally conducted at conventions, annual meetings, or trade shows, including, but not limited to, any activity one of the purposes of which is to attract persons in an industry generally (without regard to membership in the sponsoring organization) as well as members of the public to the show for the purpose of displaying industry products or to stimulate interest in, and demand for, industry products or services, or to educate persons engaged in the industry in the development of new products and services or new rules and regulations affecting the industry.
 
 #### (B) Qualified convention and trade show activity
 
@@ -186,7 +186,7 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 #### (3) Allocation of portions of single payment
 
-&emsp;For purposes of this subsection, to the extent that a portion of a payment would (if made as a separate payment) be a qualified sponsorship payment, such portion of such payment and the other portion of such payment shall be treated as separate payments.
+&emsp;For purposes of this subsection, to the extent that a portion of a payment would (ifmade as a separate payment) be a qualified sponsorship payment, such portion of such payment and the other portion of such payment shall be treated as separate payments.
 
 #### (j) Debt management plan services
 

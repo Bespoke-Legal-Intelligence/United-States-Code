@@ -52,7 +52,7 @@
 
 #### (A) Supply
 
-&emsp;&emsp;The term "supply" means, using the latest official data of the Bureau of the Census, theDepartment of Agriculture, and the Department of the Treasury—
+&emsp;&emsp;The term "supply" means, using the latest official data of the Bureau of the Census, the Department of Agriculture, and the Department of the Treasury—
 
 &emsp;&emsp;&emsp;(i) the carry-over of upland cotton at the beginning of the marketing year (adjusted to 480-pound bales) in which the quota is established;
 

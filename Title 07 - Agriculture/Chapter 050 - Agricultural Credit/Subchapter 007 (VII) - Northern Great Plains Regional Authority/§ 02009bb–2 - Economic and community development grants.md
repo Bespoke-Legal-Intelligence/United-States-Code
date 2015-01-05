@@ -18,7 +18,7 @@ The Authority may approve grants to States, Indian tribes, local governments, an
 
 #### (1) In general
 
-&emsp;Funds for grants under subsection (a) of this section may be provided—
+&emsp;Funds for grants under subsection (a) may be provided—
 
 &emsp;&emsp;(A) entirely from appropriations to carry out this section;
 

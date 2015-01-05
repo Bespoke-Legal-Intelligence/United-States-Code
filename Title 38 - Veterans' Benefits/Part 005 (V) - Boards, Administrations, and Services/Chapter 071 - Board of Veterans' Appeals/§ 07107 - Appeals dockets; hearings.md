@@ -16,7 +16,7 @@
 
 (c) A hearing docket shall be maintained and formal recorded hearings shall be held by such member or members of the Board as the Chairman may designate. Such member or members designated by the Chairman to conduct the hearing shall, except in the case of a reconsideration of a decision under section 7103 of this title, participate in making the final determination of the claim.
 
-(d)(1) An appellant may request that a hearing before the Board be held at its principal locationor at a facility of the Department located within the area served by a regional office of the Department.
+(d)(1) An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.
 
 (2) A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.
 

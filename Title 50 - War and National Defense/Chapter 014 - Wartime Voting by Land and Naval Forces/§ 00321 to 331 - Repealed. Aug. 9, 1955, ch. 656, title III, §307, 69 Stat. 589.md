@@ -10,13 +10,13 @@ Section 324, act Sept. 16, 1942, ch. 561, title II, §204, as added Apr. 1, 1944
 
 Section 325, act Sept. 16, 1942, ch. 561, title II, §205, as added Apr. 1, 1944, ch. 150, 58 Stat. 138; amended Apr. 19, 1946, ch. 142, 60 Stat. 97, related to signature and oath of voter.
 
-Section 326, act Sept. 16, 1942, ch. 561, title II, §206, as added Apr. 1, 1944, ch. 150, 58 Stat. 139; amended Apr. 19, 1946, ch. 142, 60 Stat. 98, related to instructions for marking ballots.
+Section 326, act Sept. 16, 1942, ch. 561, title II, §206, as added Apr. 1, 1944, ch. 150, 58 Stat. 139; amended Apr. 19,1946, ch. 142, 60 Stat. 98, related to instructions for marking ballots.
 
 Section 327, act Sept. 16, 1942, ch. 561, title II, §207, as added Apr. 1, 1944, ch. 150, 58 Stat. 139; amended Apr. 19, 1946, ch. 142, 60 Stat. 99, related to extension of State's time limits.
 
 Section 328, act Sept. 16, 1942, ch. 561, title II, §208, as added Apr. 19, 1946, ch. 142, 60 Stat. 99, provided for notification of forthcoming elections by secretaries of states.
 
-Section 329, act Sept. 16, 1942, ch. 561, title II, §209, as added Apr. 19, 1946, ch. 142, 60 Stat. 99; amended Sept.29, 1950, ch. 1111, 64 Stat. 1082, provided for cooperation with States, printing and transmitting of post cards, and content of post cards.
+Section 329, act Sept. 16, 1942, ch. 561, title II, §209, as added Apr. 19, 1946, ch. 142, 60 Stat. 99; amended Sept. 29, 1950, ch. 1111, 64 Stat. 1082, provided for cooperation with States, printing and transmitting of post cards, and content of post cards.
 
 Section 330, act Sept. 16, 1942, ch. 561, title II, §210, as added Apr. 19, 1946, ch. 142, 60 Stat. 101; amended July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501, related to transmission of post cards.
 

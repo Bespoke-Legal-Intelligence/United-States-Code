@@ -88,7 +88,7 @@ Passenger.—The term "passenger" includes—
 
 &emsp;&emsp;(A) an employee of an air carrier or foreign air carrier aboard an aircraft; and
 
-&emsp;&emsp;(B) any other person aboard the aircraft without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the flight.
+&emsp;&emsp;(B) any other person aboard the aircraft without regard to whether the person paidfor the transportation, occupied a seat, or held a reservation for the flight.
 
 (i)
 
@@ -104,7 +104,7 @@ General rule.—This section (other than subsection (g)) shall not apply to an a
 
 &emsp;(2)
 
-Board assistance.—If this section does not apply to an aircraft accident because the Board has relinquished investigative prioritywith respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+Board assistance.—If this section does not apply to an aircraft accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 
 (Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265; amended Pub. L. 106–181, title IV, §401(a)(1), (b)–(d), Apr. 5, 2000, 114 Stat. 129; Pub. L. 108–168, §3(a), Dec. 6, 2003, 117 Stat. 2033.)
 

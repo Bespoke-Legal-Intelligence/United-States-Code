@@ -14,7 +14,7 @@
 
 #### (2) Existing assessments
 
-&emsp;The assessments required of the Inspector General under section 3545 of title 44 shall evaluate the effectiveness of the system described in this subsection.
+&emsp;The assessments required of the Inspector General under section 3545 <sup>1</sup> of title 44 shall evaluate the effectiveness of the system described in this subsection.
 
 #### (b) Information security awareness and education
 
@@ -37,4 +37,10 @@
 In this section, the term "information infrastructure" means the underlying framework that information systems and assets rely on to process, transmit, receive, or store information electronically, including programmable electronic devices and communications networks and any associated hardware, software, or data.
 
 (Pub. L. 111–267, title XII, §1207, Oct. 11, 2010, 124 Stat. 2844.)
+
+#### References in Text
+
+Section 3545 of title 44, referred to in subsec. (a)(2), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to section 3545 of title 44 are now contained in section 3555 of title 44, as enacted by Pub. L. 113–283.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

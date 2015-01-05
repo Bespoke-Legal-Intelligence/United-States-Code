@@ -2,7 +2,7 @@
 
 #### (a) Authority for programs at nuclear weapons productions facilities
 
-The Administrator for Nuclear Security shall authorize the head of each nuclear weapons production facility to establish an Engineering and Manufacturing Research, Development, and Demonstration Program under this section.
+The Administrator shall authorize the head of each nuclear weapons production facility to establish an Engineering and Manufacturing Research, Development, and Demonstration Program under this section.
 
 #### (b) Projects and activities
 
@@ -14,13 +14,15 @@ The projects and activities carried out through the program at a nuclear weapons
 
 &emsp;(3) training, recruitment, or retention of essential personnel in critical engineering and manufacturing disciplines.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4832, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3156\], Oct. 30, 2000, 114 Stat. 1654, 1654A–467; renumbered Pub. L. 107–314, div. D, title XLVIII, §4832, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(12), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 112–239, div. C, title XXXI, §3131(z), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 113–66, div. C, title XXXI, §3146(i)(7)(A), Dec. 26, 2013, 127 Stat. 1083.)
+(Pub. L. 107–314, div. D, title XLVIII, §4832, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3156\], Oct. 30, 2000, 114 Stat. 1654, 1654A–467; renumbered Pub. L. 107–314, div. D, title XLVIII, §4832, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(12), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 112–239, div. C, title XXXI, §3131(z), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 113–66, div. C, title XXXI, §3146(i)(7)(A), Dec. 26, 2013, 127 Stat. 1083; Pub. L. 113–291, div. C, title XXXI, §3142(u), Dec. 19, 2014, 128 Stat. 3902.)
 
 #### Codification
 
 Section was formerly set out as a note under section 7274r of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–291 struck out "for Nuclear Security" after "The Administrator".
 
 <b>2013</b>—Pub. L. 113–66 substituted "managers of certain nuclear weapons production facilities" for "plant managers of certain nuclear weapons production plants" in section catchline.
 
@@ -30,7 +32,7 @@ Subsecs. (c) to (e). Pub. L. 112–239, §3131(z)(2), struck out subsecs. (c) to
 
 #### Activities at Covered Nuclear Weapons Facilities
 
-Pub. L. 108–447, div. C, title III, §308, Dec. 8, 2004, 118 Stat. 2959, provided that: "The Administrator of the National Nuclear Security Administration may authorize the manager of a covered nuclear weapons research, development, testing or production facility to engage in research, development, and demonstration activities with respect to the engineering and manufacturing capabilities at such facility in order to maintain and enhance such capabilities at such facility: <i>Provided</i>, That of the amount allocated to a covered nuclear weaponsfacility each fiscal year from amounts available to the Department of Energy for such fiscal year for national security programs, not more than an amount equal to 2 percent of such amount may be used for these activities: <i>Provided further</i>, That for purposes of this section, the term 'covered nuclear weapons facility' means the following:
+Pub. L. 108–447, div. C, title III, §308, Dec. 8, 2004, 118 Stat. 2959, provided that: "The Administrator of the National Nuclear Security Administration may authorize the manager of a covered nuclear weapons research, development, testing or production facility to engage in research, development, and demonstration activities with respect to the engineering and manufacturing capabilities at such facility in order to maintain and enhance such capabilities at such facility: <i>Provided</i>, That of the amount allocated to a covered nuclear weapons facility each fiscal year from amounts available to the Department of Energy for such fiscal year for national security programs, not more than an amount equal to 2 percent of such amount may be used for these activities: <i>Provided further</i>, That for purposes of this section, the term 'covered nuclear weapons facility' means the following:
 
 &emsp;"(1) The Kansas City Plant, Kansas City, Missouri.
 

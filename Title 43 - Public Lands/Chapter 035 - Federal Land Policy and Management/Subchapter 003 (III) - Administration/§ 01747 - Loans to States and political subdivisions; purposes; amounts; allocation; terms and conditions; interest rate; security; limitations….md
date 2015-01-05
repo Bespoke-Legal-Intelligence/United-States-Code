@@ -30,7 +30,7 @@ Act of February 25, 1920, as amended, referred to in par. (1), is act Feb. 25, 1
 
 #### Codification
 
-Section is comprised of subsec. (c) of section 317 of Pub. L. 94–579. Subsecs. (a) and (b) of section 317 of Pub. L. 94–579 are classified to section 191 of Title 30, Mineral Lands and Mining, and a note set out under that section; respectively.
+Section is comprised of subsec. (c) of section 317 of Pub. L. 94–579. Subsecs. (a) and (b) of section 317 of Pub.L. 94–579 are classified to section 191 of Title 30, Mineral Lands and Mining, and a note set out under that section; respectively.
 
 #### Amendments
 

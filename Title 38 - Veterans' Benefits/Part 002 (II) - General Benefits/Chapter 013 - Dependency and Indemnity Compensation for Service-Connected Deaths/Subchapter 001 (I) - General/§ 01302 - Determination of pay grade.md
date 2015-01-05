@@ -36,7 +36,7 @@ Subsec. (d). Pub. L. 94–433, §405(2), substituted "such veteran's surviving s
 
 Subsec. (e). Pub. L. 94–433, §405(3), substituted "such person's" for "his" in two places and "such person" for "he".
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–169 provided, with regard to determination of veteran's pay grade at date of hisdeath, that in the case of a promotion after death while the veteran is in a missing status, the pay grade determination date is the date of such promotion.
+<b>1971</b>—Subsec. (a). Pub. L. 92–169 provided, with regard to determination of veteran's pay grade at date of his death, that in the case of a promotion after death while the veteran is in a missing status, the pay grade determination date is the date of such promotion.
 
 <b>1969</b>—Pub. L. 91–96 substituted "Determination of pay grade" for "Computation of basic pay" in section catchline.
 

@@ -6,7 +6,7 @@ In complying with sections 1022d and 1022e of this title, the Secretary shall en
 
 #### (b) Special rule
 
-For each State that does not use content assessments as a means of ensuring that all teachers teaching in core academic subjects within the State are highly qualified, as required under section 6319 of this title, in accordance with the State plan submitted or revised under section 6311 of this title, and that each person employed as a special education teacher in the State who teaches elementary school or secondary school is highly qualified by the deadline, as required under section 1412(a)(14)(C) of this title, the Secretary shall—
+For each State that does not use content assessments as a means of ensuring that all teachers teaching in core academic subjects within the State are highly qualified, as required under section 6319 of this title, in accordance with the State plan submitted or revised under section 6311 of this title, and that each person employed as a special education teacher in the State who teaches elementary school or secondary schoolis highly qualified by the deadline, as required under section 1412(a)(14)(C) of this title, the Secretary shall—
 
 &emsp;(1) to the extent practicable, collect data comparable to the data required under this part from States, local educational agencies, institutions of higher education, or other entities that administer such assessments to teachers or prospective teachers; and
 

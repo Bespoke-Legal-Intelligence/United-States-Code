@@ -52,7 +52,7 @@ The system required under subsection (a) shall include collection of and reporti
 
 &emsp;(A) A summary of the quarterly reports required under section 2311(j) of this title.
 
-&emsp;(B) A summary of the data on workers in the quarterly reports required under section2311(j) of this title classified by the age, pre-program educational level, and post-program credential attainment of the workers.
+&emsp;(B) A summary of the data on workers in the quarterly reports required under section 2311(j) of this title classified by the age, pre-program educational level, and post-program credential attainment of the workers.
 
 &emsp;(C) The average earnings of workers described in section 2311(j)(2)(A)(i) of this title in the second, third, and fourth calendar quarters following the calendar quarter in which such workers cease receiving benefits under this part, expressed as a percentage of the average earnings of such workers in the 3 calendar quarters before the calendar quarter in which such workers began receiving benefits under this part.
 
@@ -144,7 +144,7 @@ Except as otherwise provided and subject to certain applicability provisions, se
 
 Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, section not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if this section had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
 
 #### Deadline for Updating Data Reporting System
 

@@ -1,0 +1,20 @@
+### §2286<i>l</i>. Authority of Inspector General
+
+Notwithstanding any other provision of law, in this fiscal year and each fiscal year thereafter, the Inspector General of the Nuclear Regulatory Commission is authorized to exercise the same authorities with respect to the Defense Nuclear Facilities Safety Board, as determined by the Inspector General of the Nuclear Regulatory Commission, as the Inspector General exercises under the Inspector General Act of 1978 (5 U.S.C. App.) with respect to the Nuclear Regulatory Commission.
+
+(Pub. L. 113–235, div. D, title IV, Dec. 16, 2014, 128 Stat. 2330.)
+
+#### References in Text
+
+The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is setout in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+Section was enacted as part of the appropriation act cited in the credit of this section, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Similar Provisions
+
+Provisions similar to the text of this section were contained in the following prior appropriation act:
+
+Pub. L. 113–76, div. D, title IV, §401, Jan. 17, 2014, 128 Stat. 182.
+

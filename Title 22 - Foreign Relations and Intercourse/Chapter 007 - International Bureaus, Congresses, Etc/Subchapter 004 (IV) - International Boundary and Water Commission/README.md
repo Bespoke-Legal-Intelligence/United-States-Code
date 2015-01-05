@@ -63,3 +63,4 @@
 - [&sect; 00277g&#8211;2 - Consultation with Administrator of Environmental Protection Agency and other authorities](%C2%A7%2000277g%E2%80%932%20-%20Consultation%20with%20Administrator%20of%20Environmental%20Protection%20Agency%20and%20other%20authorities.md)
 - [&sect; 00277g&#8211;3 - Authorization of appropriations](%C2%A7%2000277g%E2%80%933%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00277h - Authority of the International Boundary and Water Commission to assist State and local governments](%C2%A7%2000277h%20-%20Authority%20of%20the%20International%20Boundary%20and%20Water%20Commission%20to%20assist%20State%20and%20local%20governments.md)
+- [&sect; 00277i - Report on water sharing](%C2%A7%2000277i%20-%20Report%20on%20water%20sharing.md)

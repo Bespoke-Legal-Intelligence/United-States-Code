@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
+In the case of an individual, there shall be allowed as a credit against the tax imposed bythis chapter for the taxable year an amount equal to the sum of—
 
 &emsp;(1) 10 percent of the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year, and
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (C) Requirements and standards for air conditioners and heat pumps
 
-&emsp;&emsp;The standards and requirements prescribed by the Secretary under subparagraph (B) with respect to the energy efficiency ratio (EER) for central air conditioners and electric heat pumps—
+&emsp;&emsp;The standards and requirements prescribed by the Secretary under subparagraph (B) with respect to the energy efficiency ratio\(EER) for central air conditioners and electric heat pumps—
 
 &emsp;&emsp;&emsp;(i) shall require measurements to be based on published data which is tested by manufacturers at 95 degrees Fahrenheit, and
 
@@ -158,15 +158,17 @@ This section shall not apply with respect to any property placed in service—
 
 &emsp;(1) after December 31, 2007, and before January 1, 2009, or
 
-&emsp;(2) after December 31, 2013..<sup>3</sup>
+&emsp;(2) after December 31, 2014..<sup>3</sup>
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021.)
 
 #### References in Text
 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(1), is the date of the enactment of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(2). Pub. L. 113–295 substituted "December 31, 2014" for "December 31, 2013".
 
 <b>2013</b>—Subsec. (g)(2). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
@@ -253,6 +255,10 @@ Subsec. (g). Pub. L. 110–343, §302(a), substituted "placed in service—" for
 <b>2007</b>—Subsec. (c)(3). Pub. L. 110–172 substituted "part 3280" for "section 3280".
 
 <b>2005</b>—Subsec. (b)(2). Pub. L. 109–135 substituted "subsection (c)(2)(B)" for "subsection (c)(3)(B)".
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §151(b), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 

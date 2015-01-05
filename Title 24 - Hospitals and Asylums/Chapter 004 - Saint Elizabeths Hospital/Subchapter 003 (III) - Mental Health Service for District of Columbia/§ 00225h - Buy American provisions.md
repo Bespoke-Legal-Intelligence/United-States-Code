@@ -8,11 +8,11 @@ The Mayor shall insure that the requirements of the Buy American Act of 1933, as
 
 (1) If the Mayor, after consultation with the United States Trade Representative, determines that a foreign country which is party to an agreement described in paragraph (2) has violated the terms of the agreement by discriminating against certain types of products produced in the United States that are covered by the agreement, the United States Trade Representative shall rescind the waiver of the Buy American Act with respect to such types of products produced in that foreign country.
 
-(2) An agreement referred to in paragraph (1) is any agreement,<sup>1</sup> between the United Statesand a foreign country pursuant to which the head of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
+(2) An agreement referred to in paragraph (1) is any agreement,<sup>1</sup> between the United States and a foreign country pursuant to which thehead of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
 
 #### (c) Report to Congress
 
-The Mayor shall submit to Congress a report on the amount of purchases from foreign entities under this subchapter from foreign entities in fiscal years 1992 and 1993. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2) of this section, the Trade Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any international agreement to which the United States is a party.
+The Mayor shall submit to Congress a report on the amount of purchases from foreign entities under this subchapter from foreign entities in fiscal years 1992 and 1993. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2), the Trade Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any international agreement to which the United States is a party.
 
 #### (d) "Buy American Act" defined
 

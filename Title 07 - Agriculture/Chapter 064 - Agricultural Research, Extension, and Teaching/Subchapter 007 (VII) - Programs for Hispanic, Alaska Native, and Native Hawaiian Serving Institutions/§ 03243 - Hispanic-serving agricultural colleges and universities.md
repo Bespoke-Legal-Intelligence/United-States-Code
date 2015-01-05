@@ -100,7 +100,7 @@ In this section, the term "endowment fund" means the Hispanic-Serving Agricultur
 
 #### (C) Payment of non-Federal share
 
-&emsp;&emsp;A grant awarded under this subsection shall be made only if the recipient of the grant pays a non-Federal share in an amount that is specified by the Secretary and based on assessed institutional needs.
+&emsp;&emsp;A grant awarded under this subsection shall be made only if the recipient of thegrant pays a non-Federal share in an amount that is specified by the Secretary and based on assessed institutional needs.
 
 #### (3) Authorization of appropriations
 
@@ -110,13 +110,17 @@ In this section, the term "endowment fund" means the Hispanic-Serving Agricultur
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a competitive grants program to fund fundamental and applied research at Hispanic-serving agricultural colleges and universities in agriculture, human nutrition, food science, bioenergy, and environmental science.
+&emsp;The Secretary shall establish a competitive grants program—
+
+&emsp;&emsp;(A) to fund fundamental and applied research and extension at Hispanic-serving agricultural colleges and universities in agriculture, human nutrition, food science, bioenergy, and environmental science; and
+
+&emsp;&emsp;(B) to award competitive grants to Hispanic-serving agricultural colleges and universities to provide for training in the food and agricultural sciences of Hispanic agricultural workers and Hispanic youth working in the food and agricultural sciences.
 
 #### (2) Authorization of appropriations
 
 &emsp;There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this subsection for fiscal year 2008 and each fiscal year thereafter.
 
-(Pub. L. 95–113, title XIV, §1456, as added Pub. L. 110–234, title VII, §7129(a), May 22, 2008, 122 Stat. 1224, and Pub. L. 110–246, §4(a), title VII, §7129(a), June 18, 2008, 122 Stat. 1664, 1985.)
+(Pub. L. 95–113, title XIV, §1456, as added Pub. L. 110–234, title VII, §7129(a), May 22, 2008, 122 Stat. 1224, and Pub. L. 110–246, §4(a), title VII, §7129(a), June 18, 2008, 122 Stat. 1664, 1985; amended Pub. L. 113–79, title VII, §7116, Feb. 7, 2014, 128 Stat. 875.)
 
 #### References in Text
 
@@ -129,6 +133,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 For prior section 1456 of Pub. L. 95–113, see note set out preceding section 3241.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (e)(1). Pub. L. 113–79 amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary shall establish a competitive grants program to fund fundamental and applied research at Hispanic-serving agricultural colleges and universities in agriculture, human nutrition, food science, bioenergy, and environmental science."
 
 #### Effective Date
 

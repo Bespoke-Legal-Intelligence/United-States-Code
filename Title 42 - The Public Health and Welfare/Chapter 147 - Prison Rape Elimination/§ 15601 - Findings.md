@@ -14,7 +14,7 @@ Congress makes the following findings:
 
 &emsp;(6) Prison rape often goes unreported, and inmate victims often receive inadequate treatment for the severe physical and psychological effects of sexual assault—if they receive treatment at all.
 
-&emsp;(7) HIV and AIDS are major public health problems within America's correctional facilities. In 2000, 25,088 inmates in Federal and State prisons were known to be infected with HIV/AIDS. In 2000, HIV/AIDS accounted for more than 6 percent of all deaths in Federal and State prisons. Infection rates for othersexually transmitted diseases, tuberculosis, and hepatitis B and C are also far greater for prisoners than for the American population as a whole. Prison rape undermines the public health by contributing to the spread of these diseases, and often giving a potential death sentence to its victims.
+&emsp;(7) HIV and AIDS are major public health problems within America's correctional facilities. In 2000, 25,088 inmates in Federal and State prisons were known to be infected with HIV/AIDS. In 2000, HIV/AIDS accounted for more than 6 percent of all deaths in Federal and State prisons. Infection rates for other sexually transmitted diseases, tuberculosis, and hepatitis B and C are also far greater for prisoners than for the American population as a whole. Prison rape undermines the public health by contributing to the spread of these diseases, and often giving a potential death sentence to its victims.
 
 &emsp;(8) Prison rape endangers the public safety by making brutalized inmates more likely to commit crimes when they are released—as 600,000 inmates are each year.
 

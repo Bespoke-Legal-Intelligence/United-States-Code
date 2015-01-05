@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-As a condition of receiving a license or approval under this chapter (including regulationspromulgated under this chapter), the person applying for the license or approval shall execute and file with the Secretary a bond, or provide such other financial assurance as the Secretary determines appropriate, to secure the person's performance of the activities so licensed or approved.
+As a condition of receiving a license or approval under this chapter (including regulations promulgated under this chapter), the person applying for the license or approval shall execute and file with the Secretary a bond, or provide such other financial assurance as the Secretary determines appropriate, to secure the person's performance of the activities so licensed or approved.
 
 #### (b) Service of process
 
-To qualify as a suitable bond or other financial assurance under subsection (a) of this section, the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.
+To qualify as a suitable bond or other financial assurance under subsection (a), the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.
 
 #### (c) Additional assurances
 

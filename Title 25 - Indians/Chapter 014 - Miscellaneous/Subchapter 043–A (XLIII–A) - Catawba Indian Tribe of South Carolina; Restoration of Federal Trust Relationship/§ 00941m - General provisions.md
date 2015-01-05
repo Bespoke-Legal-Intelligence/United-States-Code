@@ -6,7 +6,7 @@ If any provision of section 941b(a), 941c, or 941d of this title is rendered inv
 
 #### (b) Interpretation consistent with Settlement Agreement
 
-To the extent possible, this subchapter shall be construed in a manner consistent with the Settlement Agreement and the State Act. In the event of a conflict between the provisions of this subchapter and the Settlement Agreement or the State Act, the terms of this subchapter shall govern. In the event of a conflict between theState Act and the Settlement Agreement, the terms of the State Act shall govern. The Settlement Agreement and the State Act shall be maintained on file and available for public inspection at the Department of the Interior.
+To the extent possible, this subchapter shall be construed in a manner consistent with the Settlement Agreement and the State Act. In the event of a conflict between the provisions of this subchapter and the Settlement Agreement or the State Act, the terms of this subchapter shall govern. In the event of a conflict between the State Act and the Settlement Agreement, the terms of the State Act shall govern. The Settlement Agreement and the State Act shall be maintained on file and available for public inspection at the Department of the Interior.
 
 #### (c) Laws and regulations of United States
 

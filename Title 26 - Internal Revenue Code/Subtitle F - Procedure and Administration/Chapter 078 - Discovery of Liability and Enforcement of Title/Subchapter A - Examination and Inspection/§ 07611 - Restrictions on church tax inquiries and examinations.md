@@ -148,7 +148,7 @@
 
 #### (C) Exception where shorter statute of limitations otherwise applicable
 
-&emsp;&emsp;Subparagraphs (A) and (B) shall not be construed to increase the period otherwiseapplicable under subchapter A of chapter 66 (relating to limitations on assessment and collection).
+&emsp;&emsp;Subparagraphs (A) and (B) shall not be construed to increase the period otherwise applicable under subchapter A of chapter 66 (relating to limitations on assessment and collection).
 
 #### (e) Information not collected in substantial compliance with procedures to stay summons proceeding
 

@@ -14,7 +14,7 @@ Grants under this part shall be awarded on a competitive basis.
 
 #### (c) Equitable geographic distribution
 
-In awarding grants under this part, the Secretary shall take into consideration providing an equitable geographic distribution of such grants.
+In awarding grants under this part, the Secretary shall take into consideration providingan equitable geographic distribution of such grants.
 
 #### (d) Duration
 

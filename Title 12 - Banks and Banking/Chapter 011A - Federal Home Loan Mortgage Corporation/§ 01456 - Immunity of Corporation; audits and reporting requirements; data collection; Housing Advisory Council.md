@@ -2,13 +2,13 @@
 
 #### (a) Rights and remedies of Corporation; State qualifications or similar statutes
 
-All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of thesubject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
+All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
 
 #### (b) Government audits; procedure; access to records, etc.; reimbursement of costs
 
 (1) The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the Government Accountability Office shall have access to all books, accounts, financial records, reports, files and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositaries, fiscal agents, and custodians. A report on each such audit shall be made by the Comptroller General to the Congress. The Corporation shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General.
 
-(2) To carry out this subsection, the representatives of the Government Accountability Office shall have access, upon request to the Corporation or any auditor for an audit of the Corporation under subsection (d) of this section, to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the Corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
+(2) To carry out this subsection, the representatives of the Government Accountability Office shall have access, upon request to the Corporation or any auditor for an audit of the Corporation under subsection (d), to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the Corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
 
 #### (c) Financial reports; submission to Director; contents
 
@@ -34,7 +34,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (1) The Corporation shall have an annual independent audit made of its financial statements by an independent public accountant in accordance with generally accepted auditing standards.
 
-(2) In conducting an audit under this subsection, the independent public accountant shall determine and report on whether the financial statements of the Corporation (A) are presented fairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (c)(2)(B) of this section.
+(2) In conducting an audit under this subsection, the independent public accountant shall determine and report on whether the financial statements of the Corporation (A) are presented fairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (c)(2)(B).
 
 #### (e) Mortgage data collection and reporting requirements
 
@@ -70,7 +70,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (3)(A) Except as provided in subparagraph (B), this subsection shall apply only to mortgages purchased by the Corporation after December 31, 1992.
 
-(B) This subsection shall apply to any mortgage purchased by the Corporation after thedate determined under subparagraph (A) if the mortgage was originated before such date, but only to the extent that the data referred in paragraph (1) or (2), as applicable, is available to the Corporation.
+(B) This subsection shall apply to any mortgage purchased by the Corporation after the date determined under subparagraph (A) if the mortgage was originated before such date, but only to the extent that the data referred in paragraph (1) or (2), as applicable, is available to the Corporation.
 
 #### (f) Report on housing activities; contents; public disclosure
 
@@ -86,7 +86,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 &emsp;(D) include statements of the proportion of mortgages on housing consisting of 1 to 4 dwelling units purchased by the Corporation that have been made to first-time homebuyers, as soon as providing such data is practicable, and identifying any special programs (or revisions to conventional practices) facilitating homeownership opportunities for first-time homebuyers;
 
-&emsp;(E) include, in aggregate form and by appropriate category, the data provided to the Director of the Federal Housing Finance Agency under subsection (e)(1)(B) of this section;
+&emsp;(E) include, in aggregate form and by appropriate category, the data provided to the Director of the Federal Housing Finance Agency under subsection (e)(1)(B);
 
 &emsp;(F) compare the level of securitization versus portfolio activity;
 
@@ -120,7 +120,7 @@ The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, refe
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(1). Pub. L. 110–289, §1161(c)(1), substituted "Director of the Federal Housing FinanceAgency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–289, §1161(c)(1), substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
 
 Subsec. (e)(1), (2). Pub. L. 110–289, §1161(c)(3)(A), substituted "to the Director of the Federal Housing Finance Agency, in a form determined by the Director" for "to the Secretary, in a form determined by the Secretary" in introductory provisions.
 

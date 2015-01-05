@@ -22,7 +22,7 @@ Area identification; project description.—The list of priority coastal wetland
 
 &emsp;&emsp;(i) identification, by map or other means, of the coastal area to be covered by the coastal wetlands restoration project; and
 
-&emsp;&emsp;(ii) a detailed description of each proposed coastal wetlands restoration project including a justification for including such project on the list, the proposed activities to be carried out pursuant to each coastal wetlands restoration project, the benefits to be realized by such project, the identification of the lead Task Force member to undertake each proposed coastal wetlands restoration project and the responsibilities of each other participating Task Force member, an estimated timetable for the completion of each coastal wetlands restoration project, and the estimated cost of each project.
+&emsp;&emsp;(ii) a detailed description of each proposed coastal wetlands restoration project including a justification for including such project on the list, the proposed activities to be carried out pursuant to each coastal wetlands restoration project, the benefits to be realized by such project, the identification of the lead Task Force member to undertakeeach proposed coastal wetlands restoration project and the responsibilities of each other participating Task Force member, an estimated timetable for the completion of each coastal wetlands restoration project, and the estimated cost of each project.
 
 &emsp;(B)
 
@@ -74,7 +74,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 &emsp;&emsp;(K) consultation with the public and provision for public review during development of the plan; and
 
-&emsp;&emsp;(L) evaluation of the effectiveness of each coastal wetlands restoration project inachieving long-term solutions to arresting coastal wetlands loss in Louisiana.
+&emsp;&emsp;(L) evaluation of the effectiveness of each coastal wetlands restoration project in achieving long-term solutions to arresting coastal wetlands loss in Louisiana.
 
 #### (5) Plan modification
 

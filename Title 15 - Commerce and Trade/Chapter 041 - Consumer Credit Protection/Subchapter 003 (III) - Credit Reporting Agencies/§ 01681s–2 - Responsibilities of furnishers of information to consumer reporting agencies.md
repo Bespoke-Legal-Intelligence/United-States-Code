@@ -50,7 +50,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;For purposes of this paragraph only, and provided that the consumer does not dispute the information, a person that furnishes information on a delinquent account that is placed for collection, charged for profit or loss, or subjected to any similar action, complies with this paragraph, if—
+&emsp;&emsp;For purposes of this paragraph only, and provided that the consumer does not disputethe information, a person that furnishes information on a delinquent account that is placed for collection, charged for profit or loss, or subjected to any similar action, complies with this paragraph, if—
 
 &emsp;&emsp;&emsp;(i) the person reports the same date of delinquency as that provided by the creditor to which the account was owed at the time at which the commencement of the delinquency occurred, if the creditor previously reported that date of delinquency to a consumer reporting agency;
 
@@ -204,7 +204,7 @@
 
 #### (9) Duty to provide notice of status as medical information furnisher
 
-&emsp;A person whose primary business is providing medical services, products, or devices, or the person's agent or assignee, who furnishes information to a consumer reporting agencyon a consumer shall be considered a medical information furnisher for purposes of this subchapter, and shall notify the agency of such status.
+&emsp;A person whose primary business is providing medical services, products, or devices, or the person's agent or assignee, who furnishes information to a consumer reporting agency on a consumer shall be considered a medical information furnisher for purposes of this subchapter, and shall notify the agency of such status.
 
 #### (b) Duties of furnishers of information upon notice of dispute
 
@@ -268,7 +268,7 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 &emsp;&emsp;(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
 
-(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090.)
+(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, titleI, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090.)
 
 #### Prior Provisions
 

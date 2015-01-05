@@ -18,7 +18,7 @@ Reporting of Information for the Database.—The Secretary shall require that th
 
 #### Improvements to Department of Defense Domestic Violence Programs
 
-Pub. L. 111–383, div. A, title V, §543, Jan. 7, 2011, 124 Stat. 4218, provided that:
+Pub. L. 111–383, div. A, title V, §543, Jan. 7, 2011, 124 Stat. 4218, as amended by Pub. L. 113–291, div. A, title V, §544(b), Dec. 19, 2014, 128 Stat. 3374, provided that:
 
 "(a)
 
@@ -26,17 +26,13 @@ Implementation of Outstanding Comptroller General Recommendations.—Consistent 
 
 &emsp;"(1)
 
-Defense incident-based reporting system.—The Secretary of Defense shall develop a comprehensive management plan to address deficiencies in the data captured in the Defense Incident-Based Reporting System to ensure the system can provide an accurate count of domestic violence incidents, and any consequent disciplinary action, that are reported throughout the Department of Defense.
+Adequate personnel.—The Secretary of Defense shall develop a plan to ensure that adequate personnel are available to implement recommendations made by the Defense Task Force on Domestic Violence.
 
 &emsp;"(2)
 
-Adequate personnel.—The Secretary of Defense shall develop a plan to ensure that adequate personnel are available to implement recommendations made by the Defense Task Force on Domestic Violence.
-
-&emsp;"(3)
-
 Domestic violence training data for chaplains.—The Secretary of Defense shall develop a plan to collect domestic violence training data for chaplains.
 
-&emsp;"(4)
+&emsp;"(3)
 
 Oversight framework.—The Secretary of Defense shall develop an oversight framework for Department of Defense domestic violence programs, to include oversight of implementation of recommendations made by the Defense Task Force on Domestic Violence, including budgeting, communication initiatives, and policy compliance.
 

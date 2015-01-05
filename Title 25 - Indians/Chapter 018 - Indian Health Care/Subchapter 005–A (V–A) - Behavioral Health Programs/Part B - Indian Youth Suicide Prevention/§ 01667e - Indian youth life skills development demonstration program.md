@@ -152,7 +152,7 @@ The purpose of this section is to authorize the Secretary, acting through the Ad
 
 #### (c) Evaluations
 
-Using such amounts made available pursuant to subsection (e) as the Secretary determines to be appropriate, the Secretary shall conduct, directly or through a grant, contract, or cooperative agreement with an entity that has experience regarding the development and operation ofsuccessful culturally compatible, school-based, life skills suicide prevention and intervention programs or evaluations, an annual evaluation of the demonstration program under this section, including an evaluation of—
+Using such amounts made available pursuant to subsection (e) as the Secretary determines to be appropriate, the Secretary shall conduct, directly or through a grant, contract, or cooperative agreement with an entity that has experience regarding the development and operation of successful culturally compatible, school-based, life skills suicide prevention and intervention programs or evaluations, an annual evaluation of the demonstration program under this section, including an evaluation of—
 
 &emsp;(1) the effectiveness of the curriculum in preventing Indian and Alaska Native adolescent suicide;
 

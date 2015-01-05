@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(i) it has a net worth ratio of not less than 7 percent; and
 
-&emsp;&emsp;&emsp;(ii) it meets any applicable risk-based net worth requirement under subsection (d) of this section.
+&emsp;&emsp;&emsp;(ii) it meets any applicable risk-based net worth requirement under subsection (d).
 
 #### (B) Adequately capitalized
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(i) it has a net worth ratio of not less than 6 percent; and
 
-&emsp;&emsp;&emsp;(ii) it meets any applicable risk-based net worth requirement under subsection (d) of this section.
+&emsp;&emsp;&emsp;(ii) it meets any applicable risk-based net worth requirement under subsection (d).
 
 #### (C) Undercapitalized
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(i) it has a net worth ratio of less than 6 percent; or
 
-&emsp;&emsp;&emsp;(ii) it fails to meet any applicable risk-based net worth requirement under subsection (d) of this section.
+&emsp;&emsp;&emsp;(ii) it fails to meet any applicable risk-based net worth requirement under subsection (d).
 
 #### (D) Significantly undercapitalized
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) it—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) fails to submit an acceptable net worth restoration plan within the time allowed under subsection (f) of this section; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) fails to submit an acceptable net worth restoration plan within the time allowed under subsection (f); or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) materially fails to implement a net worth restoration plan accepted by the Board.
 
@@ -128,7 +128,7 @@
 
 #### (1) In general
 
-&emsp;The regulations required under subsection (b)(1) of this section shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
+&emsp;The regulations required under subsection (b)(1) shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
 
 #### (2) Standard
 
@@ -352,7 +352,7 @@ Material supervisory determinations, including decisions to require prompt corre
 
 #### (2) Evaluating net worth restoration plan
 
-&emsp;In evaluating any net worth restoration plan submitted by a State-chartered insured credit union, the Board shall seek the views of theState official having jurisdiction over the credit union.
+&emsp;In evaluating any net worth restoration plan submitted by a State-chartered insured credit union, the Board shall seek the views of the State official having jurisdiction over the credit union.
 
 #### (3) Deciding whether to appoint conservator or liquidating agent
 
@@ -432,7 +432,7 @@ For purposes of this section the following definitions shall apply:
 
 #### References in Text
 
-Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A), is section 8L of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A), is section 8L of Pub. L.95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

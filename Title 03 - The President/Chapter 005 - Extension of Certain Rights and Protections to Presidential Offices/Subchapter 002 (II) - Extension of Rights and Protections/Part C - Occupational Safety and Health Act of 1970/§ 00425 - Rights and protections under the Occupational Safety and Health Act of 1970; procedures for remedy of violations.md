@@ -12,9 +12,9 @@ In general.—Each employing office and each covered employee shall comply with 
 
 Definitions.—For purposes of the application under this section of the Occupational Safety and Health Act of 1970—
 
-&emsp;&emsp;(A) the term “employer” as used in such Act means an employing office; and
+&emsp;&emsp;(A) the term "employer" as used in such Act means an employing office; and
 
-&emsp;&emsp;(B) the term “employee” as used in such Act means a covered employee.
+&emsp;&emsp;(B) the term "employee" as used in such Act means a covered employee.
 
 (b)
 

@@ -36,7 +36,7 @@
 
 #### (C) Secretary of Defense
 
-&emsp;&emsp;The Secretary of Defense shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Defense.
+&emsp;&emsp;The Secretary of Defense shall, by July 1 of each year, submit to the Director and theappropriate congressional committees information for the preceding year regarding the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Defense.
 
 #### (D) Attorney General
 
@@ -52,7 +52,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding any proposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shallpromptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
+&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding any proposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shall promptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
 
 #### (2) Exception
 

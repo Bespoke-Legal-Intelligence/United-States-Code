@@ -24,7 +24,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Scholarship Program, the Secretary shall include with such forms—
 
-&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o of this title in the case of the individual's breach of the contract; and
+&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o ofthis title in the case of the individual's breach of the contract; and
 
 &emsp;(B) information respecting meeting a service obligation through private practice under an agreement under section 254n of this title and such other information as may be necessary for the individual to understand the individual's prospective participation in the Scholarship Program and service in the Corps, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program.
 
@@ -114,7 +114,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035; Pub. L. 107–251, title III, §309,Oct. 26, 2002, 116 Stat. 1649; Pub. L. 108–163, §2(j), Dec. 6, 2003, 117 Stat. 2022.)
+(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035; Pub. L. 107–251, title III, §309, Oct. 26, 2002, 116 Stat. 1649; Pub. L. 108–163, §2(j), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### References in Text
 
@@ -126,7 +126,7 @@ The General Schedule, referred to in subsec. (g)(3), is set out under section 53
 
 #### Codification
 
-In subsec. (g)(2), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (g)(2), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 294t of this title prior to its renumbering by Pub. L. 97–35.
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1985 Amendment
 

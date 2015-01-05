@@ -30,7 +30,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;"(2) was subject to the tax imposed by a different part of this subchapter for a prior taxable year beginning after December 31, 1962,
 
-> then any operations loss carryover under section 810 (or the corresponding provisions of prior law), unused loss carryover under section 825, or net operating loss carryover under section 172, as the case may be, arising in such prior taxable year shall be included in its operations loss deduction under section 810(a), unused loss deduction under section 825(a), or net operating loss deduction under section 832(c)(10), as the case may be."
+> then any operations loss carryover under section 810 (or the corresponding provisions of prior law), unused losscarryover under section 825, or net operating loss carryover under section 172, as the case may be, arising in such prior taxable year shall be included in its operations loss deduction under section 810(a), unused loss deduction under section 825(a), or net operating loss deduction under section 832(c)(10), as the case may be."
 
 Pub. L. 99–514, §1899A(20), substituted "prior law), unused loss" for "prior law),, unused loss" in concluding provisions.
 

@@ -22,7 +22,7 @@
 
 (3)(A) Except as provided in subparagraph (C), the administrator of an employee benefit plan shall engage, on behalf of all plan participants, an independent qualified public accountant, who shall conduct such an examination of any financial statements of the plan, and of other books and records of the plan, as the accountant may deem necessary to enable the accountant to form an opinion as to whether the financial statements and schedules required to be included in the annual reports by subsection (b) of this section are presented fairly in conformity with generally accepted accounting principles applied on a basis consistent with that of the preceding year. Such examination shall be conducted in accordance with generally accepted auditing standards, and shall involve such tests of the books and records of the plan as are considered necessary by the independent qualified public accountant. The independent qualified public accountant shall also offer his opinion as to whether the separate schedules specified in subsection (b)(3) of this section and the summary material required under section 1024(b)(3) of this title present fairly, and in all material respects the information contained therein when considered in conjunction with the financial statements taken as a whole. The opinion by the independent qualified public accountant shall be made a part of the annual report. In a case where a plan is not required to file an annual report, the requirements of this paragraph shall not apply. In a case where by reason of section 1024(a)(2) of this title a plan is required only to file a simplified annual report, the Secretary may waive the requirements of this paragraph.
 
-(B) In offering his opinion under this section the accountant may rely on the correctness of any actuarial matter certified to by an enrolled actuary, if he so states his reliance.
+(B) In offering his opinion under this section the accountant may rely on the correctness ofany actuarial matter certified to by an enrolled actuary, if he so states his reliance.
 
 (C) The opinion required by subparagraph (A) need not be expressed as to any statements required by subsection (b)(3)(G) of this section prepared by a bank or similar institution or insurance carrier regulated and supervised and subject to periodic examination by a State or Federal agency if such statements are certified by the bank, similar institution, or insurance carrier as accurate and are made a part of the annual report.
 
@@ -64,9 +64,9 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;(C) a schedule of all assets held for investment purposes aggregated and identified by issuer, borrower, or lessor, or similar party to the transaction (including a notation as to whether such party is known to be a party in interest), maturity date, rate of interest, collateral, par or maturity value, cost, and current value;
 
-&emsp;(D) a schedule of each transaction involving a person known to be party in interest, the identity of such party in interest and his relationship or that of any other party in interest to the plan, a description of each asset to which the transaction relates; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expense incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction;
+&emsp;(D) a schedule of each transaction involving a person known to be party in interest, the identity of such party in interest and his relationship or that of any other party in interest to the plan, a description of each asset to which the transaction relates; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expenseincurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction;
 
-&emsp;(E) a schedule of all loans or fixed income obligations which were in default as of theclose of the plan's fiscal year or were classified during the year as uncollectable and the following information with respect to each loan on such schedule (including a notation as to whether parties involved are known to be parties in interest): the original principal amount of the loan, the amount of principal and interest received during the reporting year, the unpaid balance, the identity and address of the obligor, a detailed description of the loan (including date of making and maturity, interest rate, the type and value of collateral, and other material terms), the amount of principal and interest overdue (if any) and an explanation thereof;
+&emsp;(E) a schedule of all loans or fixed income obligations which were in default as of the close of the plan's fiscal year or were classified during the year as uncollectable and the following information with respect to each loan on such schedule (including a notation as to whether parties involved are known to be parties in interest): the original principal amount of the loan, the amount of principal and interest received during the reporting year, the unpaid balance, the identity and address of the obligor, a detailed description of the loan (including date of making and maturity, interest rate, the type and value of collateral, and other material terms), the amount of principal and interest overdue (if any) and an explanation thereof;
 
 &emsp;(F) a list of all leases which were in default or were classified during the year as uncollectable; and the following information with respect to each lease on such schedule (including a notation as to whether parties involved are known to be parties in interest): the type of property leased (and, in the case of fixed assets such as land, buildings, leasehold, and so forth, the location of the property), the identity of the lessor or lessee from or to whom the plan is leasing, the relationship of such lessors and lessees, if any, to the plan, the employer, employee organization, or any other party in interest, the terms of the lease regarding rent, taxes, insurance, repairs, expenses, and renewal options; the date the leased property was purchased and its cost, the date the property was leased and its approximate value at such date, the gross rental receipts during the reporting period, expenses paid for the leased property during the reporting period, the net receipts from the lease, the amounts in arrears, and a statement as to what steps have been taken to collect amounts due or otherwise remedy the default;
 
@@ -100,7 +100,7 @@ The administrator shall furnish as a part of a report under this section the fol
 
 #### (d) Actuarial statement
 
-With respect to an employee pension benefit plan (other than (A) a profit sharing, savings, orother plan, which is an individual account plan, (B) a plan described in section 1081(b) of this title, or (C) a plan described both in section 1321(b) of this title and in paragraph (1), (2), (3), (4), (5), (6), or (7) of section 1081(a) of this title) an annual report under this section for a plan year shall include a complete actuarial statement applicable to the plan year which shall include the following:
+With respect to an employee pension benefit plan (other than (A) a profit sharing, savings, or other plan, which is an individual account plan, (B) a plan described in section 1081(b) of this title, or (C) a plan described both in section 1321(b) of this title and in paragraph (1), (2), (3), (4), (5), (6), or (7) of section 1081(a) of this title) an annual report under this section for a plan year shall include a complete actuarial statement applicable to the plan year which shall include the following:
 
 &emsp;(1) The date of the plan year, and the date of the actuarial valuation applicable to the plan year for which the report is filed.
 
@@ -130,7 +130,7 @@ With respect to an employee pension benefit plan (other than (A) a profit sharin
 
 &emsp;&emsp;(A) that to the best of his knowledge the report is complete and accurate, and
 
-&emsp;&emsp;(B) the applicable requirements of sections 1083(h) and 1084(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
+&emsp;&emsp;(B) the applicable requirements of sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
 
 &emsp;(9) A copy of the opinion required by subsection (a)(4) of this section.
 
@@ -164,7 +164,7 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;(1) the premium rate or subscription charge and the total premium or subscription charges paid to each such carrier, insurance service, or other similar organization and the approximate number of persons covered by each class of such benefits; and
 
-&emsp;(2) the total amount of premiums received, the approximate number of persons covered by each class of benefits, and the total claims paid by such company, service, or other organization; dividends or retroactive rate adjustments, commissions, and administrative service or other fees or other specific acquisition costs paid by such company, service, or other organization; any amounts held to provide benefits after retirement; the remainder of such premiums; and the names and addresses of the brokers, agents, or other persons to whom commissions or fees were paid, the amount paid to each, and for what purpose. If any such company, service, or other organization does not maintain separate experience records covering the specific groups it serves,the report shall include in lieu of the information required by the foregoing provisions of this paragraph (A) a statement as to the basis of its premium rate or subscription charge, the total amount of premiums or subscription charges received from the plan, and a copy of the financial report of the company, service, or other organization and (B) if such company, service, or organization incurs specific costs in connection with the acquisition or retention of any particular plan or plans, a detailed statement of such costs.
+&emsp;(2) the total amount of premiums received, the approximate number of persons covered by each class of benefits, and the total claims paid by such company, service, or other organization; dividends or retroactive rate adjustments, commissions, and administrative service or other fees or other specific acquisition costs paid by such company, service, or other organization; any amounts held to provide benefits after retirement; the remainder of such premiums; and the names and addresses of the brokers, agents, or other persons to whom commissions or fees were paid, theamount paid to each, and for what purpose. If any such company, service, or other organization does not maintain separate experience records covering the specific groups it serves, the report shall include in lieu of the information required by the foregoing provisions of this paragraph (A) a statement as to the basis of its premium rate or subscription charge, the total amount of premiums or subscription charges received from the plan, and a copy of the financial report of the company, service, or other organization and (B) if such company, service, or organization incurs specific costs in connection with the acquisition or retention of any particular plan or plans, a detailed statement of such costs.
 
 #### (f) Additional information with respect to defined benefit plans
 
@@ -208,9 +208,17 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;&emsp;(I) In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
 
-(Pub. L. 93–406, title I, §103, Sept. 2, 1974, 88 Stat. 841; Pub. L. 96–364, title III, §307, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title XI, §11016(b)(1), Apr. 7, 1986, 100 Stat. 272; Pub. L. 100–203, title IX, §9342(a)(1), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7881(j)(1), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 109–280, title I, §108(a)(2), (3), formerly §107(a)(2), (3), title V, §503(a)(1), (b), Aug. 17, 2006, 120 Stat. 818, 942, 943, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(d)(1)(A), Dec. 23, 2008, 122 Stat. 5098.)
+#### (g) Additional information with respect to multiple employer plans
+
+With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.
+
+(Pub. L. 93–406, title I, §103, Sept. 2, 1974, 88 Stat. 841; Pub. L. 96–364, title III, §307, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title XI, §11016(b)(1), Apr. 7, 1986, 100 Stat. 272; Pub. L. 100–203, title IX, §9342(a)(1), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7881(j)(1), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 109–280, title I, §108(a)(2), (3), formerly §107(a)(2), (3), title V, §503(a)(1), (b), Aug. 17, 2006, 120 Stat. 818, 942, 943, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(d)(1)(A), Dec. 23, 2008, 122 Stat. 5098; Pub. L. 113–97, title I, §§102(b)(5), 104(c), Apr. 7, 2014, 128 Stat. 1116, 1121.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(8)(B). Pub. L. 113–97, §102(b)(5), substituted "sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title" for "sections 1083(h) and 1084(c)(3) of this title".
+
+Subsec. (g). Pub. L. 113–97, §104(c), added subsec. (g).
 
 <b>2008</b>—Subsec. (d)(3). Pub. L. 110–458, §101(d)(1)(A)(i), substituted "the normal costs or target normal costs, the accrued liabilities or funding target" for "the normal costs, the accrued liabilities".
 
@@ -220,7 +228,7 @@ Subsec. (d)(7). Pub. L. 110–458, §101(d)(1)(A)(ii), added par. (7) and struck
 
 Subsec. (d)(8)(B). Pub. L. 109–280, §108(a)(2), formerly §107(a)(2), as renumbered by Pub. L. 111–192, substituted "the applicable requirements of sections 1083(h) and 1084(c)(3)" for "the requirements of section 1082(c)(3)".
 
-Subsec. (d)(11). Pub. L. 109–280, §108(a)(3), formerly §107(a)(3), as renumbered by Pub. L. 111–192, added par.\(11) and struck out former par. (11) which read as follows: "If the current value of the assets of the plan is less than 70 percent of the current liability under the plan (within the meaning of section 1082(d)(7) of this title), the percentage which such value is of such liability.."
+Subsec. (d)(11). Pub. L. 109–280, §108(a)(3), formerly §107(a)(3), as renumbered by Pub. L. 111–192, added par. (11) and struck out former par. (11) which read as follows: "If the current value of the assets of the plan is less than 70 percent of the current liability under the plan (within the meaning of section 1082(d)(7) of this title), the percentage which such value is of such liability.."
 
 Subsec. (d)(12) to (14). Pub. L. 109–280, §503(b), added par. (12) and redesignated former pars. (12) and (13) as (13) and (14), respectively.
 
@@ -233,6 +241,10 @@ Subsec. (f). Pub. L. 109–280, §503(a)(1)(B), added subsec. (f).
 <b>1986</b>—Subsec. (d)(6). Pub. L. 99–272 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The present value of all of the plan's liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in section 1344 of this title, and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) 'termination priority categories' and acceptable methods, including approximate methods, for allocating the plan's liabilities to such termination priority categories."
 
 <b>1980</b>—Subsec. (d)(10) to (12). Pub. L. 96–364 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 

@@ -96,7 +96,7 @@
 
 #### (b) Rulemaking
 
-The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992. Such rules shall be prescribed in accordance with section 553 of title 5.
+The Commission shall prescribe the rules under subsection (a) of this section within 270days after October 28, 1992. Such rules shall be prescribed in accordance with section 553 of title 5.
 
 #### (c) Enforcement
 

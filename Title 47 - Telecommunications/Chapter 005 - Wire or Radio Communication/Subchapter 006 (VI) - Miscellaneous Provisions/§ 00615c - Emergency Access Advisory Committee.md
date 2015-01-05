@@ -48,7 +48,7 @@ Within 1 year after the completion of the member appointment process by the Chai
 
 &emsp;(6) for deadlines by which providers of interconnected and non-interconnected VoIP services and manufacturers of equipment used for such services shall achieve the actions required in paragraphs (1) through (5), where achievable, and for the possible phase out of the use of current-generation TTY technology to the extent that this technology is replaced with more effective and efficient technologies and methods to enable access to emergency services by individuals with disabilities;
 
-&emsp;(7) for the establishment of rules to update the Commission's rules with respect to 9–1–1 services and E–911 services (as defined in section 158(e)(4) <sup>1</sup> of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942(e)(4))), for users of telecommunications relay services as new technologies and methods for providing such relay services are adopted by providers of such relay services; and
+&emsp;(7) for the establishment of rules to update the Commission's rules with respect to 9–1–1 services and E–911 services (as defined in section 158(e)(4) <sup>1</sup> of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942(e)(4))), for users of telecommunications relay services as new technologies and methods for providing suchrelay services are adopted by providers of such relay services; and
 
 &emsp;(8) that take into account what is technically and economically feasible.
 
@@ -60,7 +60,7 @@ Within 1 year after the completion of the member appointment process by the Chai
 
 #### (2) Other meetings
 
-&emsp;After the initial meeting, the Advisory Committee shall meet at the call of the chairs, butno less than monthly until the recommendations required pursuant to subsection (c) are completed and submitted.
+&emsp;After the initial meeting, the Advisory Committee shall meet at the call of the chairs, but no less than monthly until the recommendations required pursuant to subsection (c) are completed and submitted.
 
 #### (3) Notice; open meetings
 

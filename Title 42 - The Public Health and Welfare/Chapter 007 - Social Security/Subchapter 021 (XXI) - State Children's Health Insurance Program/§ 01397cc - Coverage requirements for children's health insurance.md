@@ -2,7 +2,7 @@
 
 #### (a) Required scope of health insurance coverage
 
-The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
+The child health assistance provided to a targeted low-income child under the plan in theform described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
 
 #### (1) Benchmark coverage
 
@@ -124,7 +124,7 @@ The benchmark benefit packages are as follows:
 
 #### (iii) Coverage offered through commercial dental plan
 
-&emsp;&emsp;&emsp;A dental benefits plan that has the largest insured commercial, non-medicaid enrollment of dependent covered lives ofsuch plans that is offered in the State involved.
+&emsp;&emsp;&emsp;A dental benefits plan that has the largest insured commercial, non-medicaid enrollment of dependent covered lives of such plans that is offered in the State involved.
 
 #### (6) Mental health services parity
 
@@ -202,7 +202,7 @@ The benchmark benefit packages are as follows:
 
 &emsp;&emsp;The State child health plan—
 
-&emsp;&emsp;&emsp;(i) shall afford individuals enrolled under the plan a grace period of at least 30 daysfrom the beginning of a new coverage period to make premium payments before the individual's coverage under the plan may be terminated; and
+&emsp;&emsp;&emsp;(i) shall afford individuals enrolled under the plan a grace period of at least 30 days from the beginning of a new coverage period to make premium payments before the individual's coverage under the plan may be terminated; and
 
 &emsp;&emsp;&emsp;(ii) shall provide to such an individual, not later than 7 days after the first day of such grace period, notice—
 
@@ -278,7 +278,7 @@ Subsec. (f)(3). Pub. L. 111–3, §403(a), added par. (3).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by sections 111(b)(1), 502, and 505(a) of Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance providedon or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
+Amendment by sections 111(b)(1), 502, and 505(a) of Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
 Pub. L. 111–3, title IV, §403(b), Feb. 4, 2009, 123 Stat. 84, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to contract years for health plans beginning on or after July 1, 2009."
 

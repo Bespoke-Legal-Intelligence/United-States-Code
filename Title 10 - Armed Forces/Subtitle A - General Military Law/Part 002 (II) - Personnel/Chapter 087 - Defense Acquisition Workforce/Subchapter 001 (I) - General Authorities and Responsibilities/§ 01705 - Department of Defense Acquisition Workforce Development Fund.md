@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish a fund to be known as the "Department of Defense Acquisition Workforce Development Fund" (in this section referred to asthe "Fund") to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
+Establishment.—The Secretary of Defense shall establish a fund to be known as the "Department of Defense Acquisition Workforce Development Fund" (in this section referred to as the "Fund") to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
 
 (b)
 
@@ -170,7 +170,7 @@ Subsec. (d)(2)(B). Pub. L. 111–84, §832(d)(1), (2)(A), substituted "Subject t
 
 Pub. L. 111–84, §832(c), inserted ", from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance," after "remit to the Secretary of Defense".
 
-Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages for fiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
+Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages forfiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
 
 Subsec. (d)(3). Pub. L. 111–84, §832(a)(2), added par. (3).
 

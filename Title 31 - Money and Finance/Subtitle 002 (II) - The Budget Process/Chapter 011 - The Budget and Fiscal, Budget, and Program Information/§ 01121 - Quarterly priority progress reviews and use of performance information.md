@@ -16,7 +16,7 @@ Use of Performance Information To Achieve Federal Government Priority Goals.—N
 
 (b)
 
-Agency Use of Performance Information To Achieve Agency Priority Goals.—Not less than quarterly, at each agency required to develop agency priority goals required by section 1120(b) of this title, the head of the agency and Chief Operating Officer, with the support of the agency Performance Improvement Officer, shall—
+Agency Use of Performance Information To Achieve Agency Priority Goals.—Not lessthan quarterly, at each agency required to develop agency priority goals required by section 1120(b) of this title, the head of the agency and Chief Operating Officer, with the support of the agency Performance Improvement Officer, shall—
 
 &emsp;(1) for each agency priority goal, review with the appropriate goal leader the progress achieved during the most recent quarter, overall trend data, and the likelihood of meeting the planned level of performance;
 

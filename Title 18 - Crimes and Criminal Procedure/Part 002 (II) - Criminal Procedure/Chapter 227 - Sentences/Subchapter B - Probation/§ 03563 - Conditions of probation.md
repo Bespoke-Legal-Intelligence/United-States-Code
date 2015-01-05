@@ -52,7 +52,7 @@ Discretionary Conditions.—The court may provide, as further conditions of a se
 
 &emsp;(10) remain in the custody of the Bureau of Prisons during nights, weekends, or other intervals of time, totaling no more than the lesser of one year or the term of imprisonment authorized for the offense, during the first year of the term of probation or supervised release;
 
-&emsp;(11) reside at, or participate in the program of, a community corrections facility (including a facility maintained or under contract tothe Bureau of Prisons) for all or part of the term of probation;
+&emsp;(11) reside at, or participate in the program of, a community corrections facility (including a facility maintained or under contract to the Bureau of Prisons) for all or part of the term of probation;
 
 &emsp;(12) work in community service as directed by the court;
 
@@ -80,7 +80,7 @@ Discretionary Conditions.—The court may provide, as further conditions of a se
 
 (c)
 
-Modifications of Conditions.—The court may modify, reduce, or enlarge the conditions of a sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the conditions of probation.
+Modifications of Conditions.—The court may modify, reduce, or enlarge the conditions of a sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to themodification of probation and the provisions applicable to the initial setting of the conditions of probation.
 
 (d)
 
@@ -96,7 +96,7 @@ Results of Drug Testing.—The results of a drug test administered in accordance
 
 The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(8) and (b)(23), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
 
-Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is classified tosection 14135a of Title 42, The Public Health and Welfare.
+Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is classified to section 14135a of Title 42, The Public Health and Welfare.
 
 Section 238(d)(5) of the Immigration and Nationality Act, referred to in subsec. (b)(21), is classified to section 1228(d)(5) of Title 8, Aliens and Nationality.
 

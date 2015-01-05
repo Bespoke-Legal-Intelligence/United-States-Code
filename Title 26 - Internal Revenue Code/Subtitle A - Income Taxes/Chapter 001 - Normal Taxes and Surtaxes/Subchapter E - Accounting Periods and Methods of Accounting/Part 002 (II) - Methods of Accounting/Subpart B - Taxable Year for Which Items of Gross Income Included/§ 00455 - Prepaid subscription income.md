@@ -16,7 +16,7 @@ In the case of any prepaid subscription income to which this section applies—
 
 #### (1) Election of benefits
 
-&emsp;This section shall apply to prepaid subscription income if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such income is received. The election shall be made in such manner as the Secretary may by regulations prescribe. No election may be made with respect to a trade or business if in computing taxable income the cash receipts and disbursements method of accounting is used with respect to such trade or business.
+&emsp;This section shall apply to prepaid subscription income if and only if the taxpayer makesan election under this section with respect to the trade or business in connection with which such income is received. The election shall be made in such manner as the Secretary may by regulations prescribe. No election may be made with respect to a trade or business if in computing taxable income the cash receipts and disbursements method of accounting is used with respect to such trade or business.
 
 #### (2) Scope of election
 

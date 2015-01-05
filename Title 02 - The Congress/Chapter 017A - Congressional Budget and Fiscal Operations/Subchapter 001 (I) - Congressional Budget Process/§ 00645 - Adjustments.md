@@ -6,7 +6,7 @@ After the reporting of a bill or joint resolution or the offering of an amendmen
 
 #### (b) Application of adjustments
 
-The adjustments made pursuant to subsection (a) of this section for legislation shall—
+The adjustments made pursuant to subsection (a) for legislation shall—
 
 &emsp;(1) apply while that legislation is under consideration;
 
@@ -16,7 +16,7 @@ The adjustments made pursuant to subsection (a) of this section for legislation 
 
 #### (c) Reporting revised suballocations
 
-Following any adjustment made under subsection (a) of this section, the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under section 633(b) of this title to carry out this section.
+Following any adjustment made under subsection (a), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under section 633(b) of this title to carry out this section.
 
 #### (d) Emergencies in the House of Representatives
 
@@ -36,7 +36,7 @@ Following any adjustment made under subsection (a) of this section, the Committe
 
 #### (A) Waiver
 
-&emsp;&emsp;Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote of three-fifths of the Members, duly chosen and sworn.
+&emsp;&emsp;Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote ofthree-fifths of the Members, duly chosen and sworn.
 
 #### (B) Appeals
 
@@ -56,13 +56,13 @@ Following any adjustment made under subsection (a) of this section, the Committe
 
 #### (f) Enforcement of discretionary spending caps
 
-It shall not be in order in the House of Representatives or the Senate to consider any bill,joint resolution, amendment, motion, or conference report that would cause the discretionary spending limits as set forth in section 901 of this title to be exceeded.
+It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause the discretionary spending limits as set forth in section 901 of this title to be exceeded.
 
 (Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 112–25, title I, §105(a), Aug. 2, 2011, 125 Stat. 246; Pub. L. 112–78, title V, §511, Dec. 23, 2011, 125 Stat. 1291; Pub. L. 113–67, div. A, title I, §122(10), Dec. 26, 2013, 127 Stat. 1176.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted “under paragraph (1)” for “under subparagraph (A)”, redesignated subpar. (C) as (B) and substituted “under subparagraph (A)” for “under subparagraph (B)”, and struck out former subpar. (A) which read as follows: “In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.”
+<b>2013</b>—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted "under paragraph (1)" for "under subparagraph (A)", redesignated subpar. (C) as (B) and substituted "under subparagraph (A)" for "under subparagraph (B)", and struck out former subpar. (A) which read as follows: "In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives."
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–25, §105(a)(1), added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
 
@@ -70,7 +70,7 @@ Subsecs. (b) to (d). Pub. L. 112–25, §105(a)(2), (3), added subsec. (d), rede
 
 Subsec. (e). Pub. L. 112–78, §511(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 112–25, §105(a)(2), (3), added subsec. (e) and struck out former subsec. (e) which defined “continuing disability reviews” and “new budget authority” as used in former subsec. (b)(2).
+Pub. L. 112–25, §105(a)(2), (3), added subsec. (e) and struck out former subsec. (e) which defined "continuing disability reviews" and "new budget authority" as used in former subsec. (b)(2).
 
 Subsec. (f). Pub. L. 112–78, §511(1), redesignated subsec. (e) as (f).
 
@@ -80,5 +80,5 @@ Subsec. (f). Pub. L. 112–78, §511(1), redesignated subsec. (e) as (f).
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of Title 42, The Public Health and Welfare.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by the word “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by the word "section".</i>
 

@@ -28,7 +28,7 @@ No person may be held liable for any violation of subsection (a) or (b) of this 
 
 #### (2) Inquiries
 
-&emsp;A consumer reporting agency shall not make an inquiry for the purpose of preparing an investigative consumer report on a consumer for employment purposes if the making of the inquiry by an employer or prospective employer of the consumer would violate any applicableFederal or State equal employment opportunity law or regulation.
+&emsp;A consumer reporting agency shall not make an inquiry for the purpose of preparing an investigative consumer report on a consumer for employment purposes if the making of the inquiry by an employer or prospective employer of the consumer would violate any applicable Federal or State equal employment opportunity law or regulation.
 
 #### (3) Certain public record information
 

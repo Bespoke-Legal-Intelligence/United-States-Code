@@ -20,7 +20,7 @@ Except as provided in subsection (c), for the purposes of determining average in
 
 #### (c) Proportional allocation
 
-For the purpose of determining average indexed monthly earnings, average monthly wage,and quarters of coverage in the case of any individual who elects the option described in clause (ii) or (iv) in the matter following section 411(a)(16) of this title for any taxable year that does not begin with or during a particular calendar year and end with or during such year, the self-employment income of such individual deemed to be derived during such taxable year shall be allocated to the two calendar years, portions of which are included within such taxable year, in the same proportion to the total of such deemed self-employment income as the sum of the amounts applicable under section 413(d) of this title for the calendar quarters ending with or within each such calendar year bears to the lower limit for such taxable year specified in section 411(k)(1) of this title.
+For the purpose of determining average indexed monthly earnings, average monthly wage, and quarters of coverage in the case of any individual who elects the option described in clause (ii) or (iv) in the matter following section 411(a)(16) of this title for any taxable year that does not begin with or during a particular calendar year and end with or during such year, the self-employment income of such individual deemed to be derived during such taxable year shall be allocated to the two calendar years, portions of which are included within such taxable year, in the same proportion to the total of such deemed self-employment income as the sum of the amounts applicable under section 413(d) of this title for the calendar quarters ending with or within each such calendar year bears to the lower limit for such taxable year specified in section 411(k)(1) of this title.
 
 (Aug. 14, 1935, ch. 531, title II, §212, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 504; amended Pub. L. 95–216, title III, §351(b), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 110–234, title XV, §15352(b)(3), May 22, 2008, 122 Stat. 1526; Pub. L. 110–246, §4(a), title XV, §15352(b)(3), June 18, 2008, 122 Stat. 1664, 2288.)
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 110–246, §15352(b)(3)(B), added subsec. (c).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 15352(b)(3) of Pub. L. 110–246 applicable to taxable years beginning after Dec. 31, 2007, see section 15352(c) of Pub. L. 110–246, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 15352(b)(3) of Pub. L. 110–246 applicable to taxable years beginning after Dec. 31,2007, see section 15352(c) of Pub. L. 110–246, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1977 Amendment
 

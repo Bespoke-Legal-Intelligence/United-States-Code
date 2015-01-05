@@ -30,7 +30,7 @@ The policies developed under subsection (a) shall—
 
 #### (d) Cost projections
 
-The Office of Science and Technology Policy, in consultation with relevant Federal agencies, shall develop a common set of methodologies to be used by Federal agencies for the assessment and projection of costs associated with the management and preservation of their scientific collections.
+The Office of Science and Technology Policy, in consultation with relevant Federal agencies,shall develop a common set of methodologies to be used by Federal agencies for the assessment and projection of costs associated with the management and preservation of their scientific collections.
 
 #### (e) Scientific collection defined
 

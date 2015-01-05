@@ -66,7 +66,7 @@ Subsec. (f). Act Oct. 10, 1949, §2, added subsec. (f).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 2021 of this title\] shall apply to individuals appointed on or after the date of enactment of this Act \[Nov. 29, 1999\]."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462, provided that: "The amendments made by subsections (a) and (b)\[amending this section and section 2021 of this title\] shall apply to individuals appointed on or after the date of enactment of this Act \[Nov. 29, 1999\]."
 
 #### Effective Date of 1980 Amendment
 
@@ -138,7 +138,7 @@ Pub. L. 98–164, title I, §115, Nov. 22, 1983, 97 Stat. 1021, as amended by Pu
 
 #### International Year of the Child
 
-Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not laterthan Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
+Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion oflasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
 
 Pub. L. 97–35, title V, §511(b)(1), Aug. 13, 1981, 95 Stat. 443, provided that: "No funds are authorized to be appropriated to carry out part A of title XV of the Education Amendments of 1978 \[sections 1501 to 1507 of Pub. L. 95–561, see note above\] for fiscal year 1982, 1983, or 1984."
 
@@ -200,7 +200,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 "Whereas the aforesaid agreement provides that it shall be brought into effect by an exchange of notes between the United States and the Secretary-General of the United Nations: Therefore be it
 
-<i>"Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the 'agreement'), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations onthe United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
+<i>"Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, Thatthe President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the 'agreement'), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
 
 #### "AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS
 
@@ -284,7 +284,7 @@ In the event that the United Nations should propose to organize its own postal s
 
 (b) Except as otherwise provided in this agreement or in the General Convention, the federal, state and local law of the United States shall apply within the headquarters district.
 
-(c) Except as otherwise provided in this agreement or in the General Convention, the federal, state and local courts of the United States shall have jurisdiction over acts done and transactions taking place in the headquarters district as provided in applicable federal, state and local laws.
+(c) Except as otherwise provided in this agreement or in the General Convention, the federal, state and localcourts of the United States shall have jurisdiction over acts done and transactions taking place in the headquarters district as provided in applicable federal, state and local laws.
 
 (d) The federal, state and local courts of the United States, when dealing with cases arising out of or relating to acts done or transactions taking place in the headquarters district, shall take into account the regulations enacted by the United Nations under Section 8.
 
@@ -388,7 +388,7 @@ The Secretary-General and the appropriate American authorities shall settle by a
 
 #### section 22
 
-(a) The United Nations shall not dispose of all or any part of the land owned by it in the headquarters district without the consent of the United States. If the United States is unwilling to consent to a dispositionwhich the United Nations wishes to make of all or any part of such land, the United States shall buy the same from the United Nations at a price to be determined as provided in paragraph (d) of this section.
+(a) The United Nations shall not dispose of all or any part of the land owned by it in the headquarters district without the consent of the United States. If the United States is unwilling to consent to a disposition which the United Nations wishes to make of all or any part of such land, the United States shall buy the same from the United Nations at a price to be determined as provided in paragraph (d) of this section.
 
 (b) If the seat of the United Nations is removed from the headquarters district, all right, title and interest of the United Nations in and to real property in the headquarters district or any part of it shall, on request of either the United Nations or the United States, be assigned and conveyed to the United States. In the absence of such request, the same shall be assigned and conveyed to the subdivision of a state in which it is located or, if such subdivision shall not desire it, then to the state in which it is located. If none of the foregoing desires the same, it may be disposed of as provided in paragraph (a) of this section.
 
@@ -458,9 +458,9 @@ Sec. 2. For the purpose of carrying out the obligations of the United States und
 
 (b) Upon the request of the President, or such officer as the President may designate, the Attorney General of the United States shall cause such condemnation or other proceedings to be instituted in the name of the United States in the district court of the United States for the district in which the property is situated and such court shall have full jurisdiction of such proceedings, and any condemnation proceedings shall be conducted in accordance with the Act of August 1, 1888 (25 Stat. 357), as amended \[now 40 U.S.C. 3113\] and the Act of February 26, 1931 (46 Stat. 1421), as amended \[now 40 U.S.C. 3114–3116, 3118\].
 
-(c) After the institution of any such condemnation proceedings, possession of the property may be taken at any time the President, or such officer as he may designate, determines is necessary, and the court shall enter such orders as may be necessary to effect entry and occupancy of the property.
+(c) After the institution of any such condemnation proceedings, possession of the property may be taken at any time the President, or such officer as he maydesignate, determines is necessary, and the court shall enter such orders as may be necessary to effect entry and occupancy of the property.
 
-(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transfer or convey possession of and title to any interest in anyproperty acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
+(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transfer or convey possession of and title to any interest in any property acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
 
 (e) There are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be required to enable the United States to carry out the undertakings hereby authorized: <i>Provided</i>, That any money appropriated under this authorization shall be spent only on a basis of reimbursement by the United Nations in accordance with section 3 of the agreement, and that the money thus reimbursed shall be deposited and covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -528,7 +528,7 @@ By virtue of the authority vested in me by the United Nations Participation Act 
 
 4\. The Deputy Representative of the United States to the United Nations shall be the Deputy Chief of Mission, who shall act as Chief of Mission in the absence of the Representative of the United States to the United Nations.
 
-5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled "Designating the United StatesMission to the United Nations and Providing for Its Direction and Administration."
+5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled "Designating the United States Mission to the United Nations and Providing for Its Direction and Administration."
 
 #### Ex. Ord. No. 10422. Loyalty Procedures for Employees
 
@@ -568,7 +568,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 (e) Performing or attempting to perform his duties, or otherwise acting, while an employee of the United States Government during a previous period, so as to serve the interests of another government in preference to the interests of the United States.
 
-(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks tooverthrow the Government of the United States or any State or subdivision thereof by unlawful means.
+(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks to overthrow the Government of the United States or any State or subdivision thereof by unlawful means.
 
 #### part iii—other international organizations
 

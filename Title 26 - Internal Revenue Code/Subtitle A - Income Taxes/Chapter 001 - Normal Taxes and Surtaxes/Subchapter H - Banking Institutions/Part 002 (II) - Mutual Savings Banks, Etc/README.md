@@ -17,7 +17,7 @@
 
 <b>1989</b>—Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549, repealed amendment made by Pub. L. 99–514, §904(b)(2), see 1986 Amendment note below.
 
-Pub. L. 101–73, title XIV, §1401(a)(3)(C), Aug. 9, 1989, 103 Stat. 549, substituted "Treatment of transactions in which Federal financial assistance provided" for "FSLIC or FDIC financial assistance" in item 597.
+Pub. L. 101–73, title XIV, §1401(a)(3)(C), Aug. 9, 1989, 103 Stat. 549, substituted "Treatment of transactions inwhich Federal financial assistance provided" for "FSLIC or FDIC financial assistance" in item 597.
 
 <b>1988</b>—Pub. L. 100–647, title IV, §4012(b)(2)(D)(ii), Nov. 10, 1988, 102 Stat. 3658, substituted "FSLIC or FDIC" for "FSLIC" in item 597.
 

@@ -50,7 +50,7 @@ Each institution of higher education or consortium receiving a grant under this 
 
 &emsp;&emsp;(E) acquisition and installation of access control, video surveillance, intrusion detection, and perimeter security technologies and systems.
 
-&emsp;(3) Coordinating with appropriate local entities for the provision of mental health services for students and staff of the institution of higher education or consortium, including mental health crisis response and interventionservices for students and staff affected by a campus or community emergency.
+&emsp;(3) Coordinating with appropriate local entities for the provision of mental health services for students and staff of the institution of higher education or consortium, including mental health crisis response and intervention services for students and staff affected by a campus or community emergency.
 
 #### (d) Application
 

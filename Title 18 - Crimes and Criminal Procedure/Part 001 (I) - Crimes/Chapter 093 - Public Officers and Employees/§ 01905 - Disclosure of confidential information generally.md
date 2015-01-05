@@ -38,7 +38,3 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-#### Short Title
-
-This section is popularly known as the "Trade Secrets Act".
-

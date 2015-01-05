@@ -62,7 +62,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) Financial disclosure
 
-&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated asserving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
 
 #### (B) Restrictions on post-employment
 
@@ -96,7 +96,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (4) Quorum
 
-&emsp;Five members of the Oversight Board shall constitute a quorum. A majority of memberspresent and voting shall be required for the Oversight Board to take action.
+&emsp;Five members of the Oversight Board shall constitute a quorum. A majority of members present and voting shall be required for the Oversight Board to take action.
 
 #### (5) Removal
 
@@ -144,7 +144,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 &emsp;The Oversight Board shall have no responsibilities or authority with respect to—
 
-&emsp;&emsp;(A) the development and formulation of Federal tax policy relating to existing or proposed internal revenue laws, related statutes, and tax conventions,
+&emsp;&emsp;(A) the development and formulation of Federal tax policy relating to existing orproposed internal revenue laws, related statutes, and tax conventions,
 
 &emsp;&emsp;(B) specific law enforcement activities of the Internal Revenue Service, including specific compliance activities such as examinations, collection activities, and criminal investigations,
 

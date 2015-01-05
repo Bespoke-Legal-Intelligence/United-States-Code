@@ -40,7 +40,7 @@ Subsec. (d)(2). Pub. L. 109–364, §331(b)(1), amended par. (2) generally. Prio
 
 "(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding two fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
 
-"(2) Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that are projected to be expended during each of the next five fiscal years forperformance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
+"(2) Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that are projected to be expended during each of the next five fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
 
 "(3) Not later than 60 days after the date on which the Secretary submits a report under this subsection, the Comptroller General shall submit to Congress the Comptroller General's views on whether—
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 103–337, §332(b), inserted "and repair" after "maintenan
 
 Subsec. (e). Pub. L. 103–337, §332(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-"(1) Not later than January 15, 1992, and January 15, 1993, the Secretary of the Army and the Secretary of the Air Force shall jointly submit to Congress a report describing the progress during the preceding fiscal year to achieve and maintain the percentage of depot-level maintenance required to be performed by employees of the Department of Defense pursuant to subsection (a).
+"(1) Not later than January 15, 1992, and January 15, 1993, the Secretary of the Army and the Secretary of the Air Force shall jointly submit to Congress a reportdescribing the progress during the preceding fiscal year to achieve and maintain the percentage of depot-level maintenance required to be performed by employees of the Department of Defense pursuant to subsection (a).
 
 "(2) Not later than January 15, 1994, the Secretary of each military department and the Secretary of Defense, with respect to the Defense Agencies, shall jointly submit to Congress a report described in paragraph (1)."
 

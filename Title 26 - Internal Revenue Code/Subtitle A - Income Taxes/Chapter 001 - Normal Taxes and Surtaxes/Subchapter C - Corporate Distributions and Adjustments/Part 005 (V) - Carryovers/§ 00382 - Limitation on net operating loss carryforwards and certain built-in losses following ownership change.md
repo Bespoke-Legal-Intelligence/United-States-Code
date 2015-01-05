@@ -548,47 +548,17 @@ For purposes of this section—
 
 #### (E) Only certain stock taken into account
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock is transferred in satisfaction of indebtedness and only if such indebtedness—
+&emsp;&emsp;For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock istransferred in satisfaction of indebtedness and only if such indebtedness—
 
 &emsp;&emsp;&emsp;(i) was held by the creditor at least 18 months before the date of the filing of the title 11 or similar case, or
 
 &emsp;&emsp;&emsp;(ii) arose in the ordinary course of the trade or business of the old loss corporation and is held by the person who at all times held the beneficial interest in such indebtedness.
 
-#### (F) Special rule for certain financial institutions
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;In the case of any ownership change to which this subparagraph applies, this paragraph shall be applied—
-
-&emsp;&emsp;&emsp;&emsp;(I) by substituting "1504(a)(2)(B)" for "1504(a)(2)" and "20 percent" for "50 percent" in subparagraph (A)(ii), and
-
-&emsp;&emsp;&emsp;&emsp;(II) without regard to subparagraphs (B) and (C).
-
-#### (ii) Special rule for depositors
-
-&emsp;&emsp;&emsp;For purposes of applying this paragraph to an ownership change to which this subparagraph applies—
-
-&emsp;&emsp;&emsp;&emsp;(I) a depositor in the old loss corporation shall be treated as a stockholder in such loss corporation immediately before the change,
-
-&emsp;&emsp;&emsp;&emsp;(II) deposits which, after the change, become deposits of the new loss corporation shall be treated as stock of the new loss corporation, and
-
-&emsp;&emsp;&emsp;&emsp;(III) the fair market value of the outstanding stock of the new loss corporation shall include the amount of deposits in the new loss corporation immediately after the change.
-
-#### (iii) Changes to which subparagraph applies
-
-&emsp;&emsp;&emsp;This subparagraph shall apply to—
-
-&emsp;&emsp;&emsp;&emsp;(I) an equity structure shift which is a reorganization described in section 368(a)(3)(D)(ii) <sup>1</sup> (as modified by section 368(a)(3)(D)(iv)),<sup>1</sup> or
-
-&emsp;&emsp;&emsp;&emsp;(II) any other equity structure shift (or transaction to which section 351 applies) which occurs as an integral part of a transaction involving a change to which subclause (I) applies.
-
-&emsp;&emsp;&nbsp;This subparagraph shall not apply to any equity structure shift or transaction occurring on or after May 10, 1989.
-
-#### (G) Title 11 or similar case
+#### (F) Title 11 or similar case
 
 &emsp;&emsp;For purposes of this paragraph, the term "title 11 or similar case" has the meaning given such term by section 368(a)(3)(A).
 
-#### (H) Election not to have paragraph apply
+#### (G) Election not to have paragraph apply
 
 &emsp;&emsp;A new loss corporation may elect, subject to such terms and conditions as the Secretary may prescribe, not to have the provisions of this paragraph apply.
 
@@ -652,15 +622,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) such persons are members of a group of persons acting in concert.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66,title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042.)
 
 #### References in Text
-
-Section 368(a)(3)(D), referred to in subsec. (l)(5)(F)(iii)(I), was amended generally by Pub. L. 99–514, title IX, §904(a), Oct. 22, 1986, 100 Stat. 2385, and, as so amended, does not contain a cl. (ii) or (iv).
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (l)(5)(F) to (H). Pub. L. 113–295 redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which related to a special rule for certain financial institutions for certain equity structure shifts and transactions occurring before May 10, 1989.
 
 <b>2009</b>—Subsec. (n). Pub. L. 111–5 added subsec. (n).
 
@@ -734,7 +704,7 @@ Subsec. (k)(2). Pub. L. 100–647, §1006(d)(5)(B), amended par. (2) generally. 
 
 &emsp;"(B) with respect to which there is a pre-change loss described in subsection (d)(1)(B)."
 
-Subsec. (l)(3)(A)(iv), (v). Pub. L. 100–647, §1006(d)(6), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: "except to the extent provided in regulations, paragraph (4) of section 318(a) shall apply to an option if such application results in an ownership change."
+Subsec. (l)(3)(A)(iv), (v). Pub. L. 100–647, §1006(d)(6), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: "except to the extent provided in regulations, paragraph (4) of section 318(a) shall applyto an option if such application results in an ownership change."
 
 Subsec. (l)(3)(C)(ii). Pub. L. 100–647, §5077(a), added subcl. (III) and concluding provisions.
 
@@ -788,6 +758,10 @@ Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e).
 
 <b>1964</b>—Subsec. (a)(3). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–5, div. B, title I, §1262(b), Feb. 17, 2009, 123 Stat. 344, provided that: "The amendment made by this section \[amending this section\] shall apply to ownership changes after the date of the enactment of this Act \[Feb. 17, 2009\]."
@@ -806,7 +780,7 @@ Amendment by Pub. L. 103–66 applicable to stock transferred after Dec. 31, 199
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7205(a) of Pub. L. 101–239 applicable, except as otherwise provided, to ownership changes and acquisitions after Oct. 2, 1989, in taxable years ending after such date, see section 7205(c) of Pub. L. 101–239, set out as a note under section 56 of this title.
+Amendment by section 7205(a) of Pub. L. 101–239 applicable, except as otherwise provided, to ownershipchanges and acquisitions after Oct. 2, 1989, in taxable years ending after such date, see section 7205(c) of Pub. L. 101–239, set out as a note under section 56 of this title.
 
 Pub. L. 101–239, title VII, §7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: "The amendments made by this subsection \[amending this section\] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition."
 
@@ -974,7 +948,7 @@ Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1,
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396, provided that the amendment made by section 2(b) of Pub. L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
+Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396, provided that the amendment made by section 2(b) of Pub.L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
 
 Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other than transactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section 7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
@@ -1031,6 +1005,4 @@ Binding contracts.—Notwithstanding paragraph (1), Internal Revenue Service Not
 #### Report on Depreciation and Built-In Deductions; Report on Bankruptcy Workouts
 
 Pub. L. 99–514, title VI, §621(d), Oct. 22, 1986, 100 Stat. 2266, directed Secretary of the Treasury or his delegate to, not later than Jan. 1, 1989, conduct a study and report to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate with respect to treatment of depreciation, amortization, depletion, and other built-in deductions for purposes of sections 382 and 383 of this title, and, not later than Jan. 1, 1988, conduct a study and report to committees referred to above with respect to treatment of informal bankruptcy workouts for purposes of sections 108 and 382 of this title, prior to repeal by Pub. L. 101–508, title XI, §11832(3), Nov. 5, 1990, 104 Stat. 1388–559.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

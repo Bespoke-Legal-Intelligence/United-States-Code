@@ -8,7 +8,7 @@ The gain from the sale or other disposition of property shall be the excess of t
 
 The amount realized from the sale or other disposition of property shall be the sum of any money received plus the fair market value of the property (other than money) received. In determining the amount realized—
 
-&emsp;(1) there shall not be taken into account any amount received as reimbursement for real property taxes which are treated under section 164(d) as imposed on the purchaser, and
+&emsp;(1) there shall not be taken into account any amount received as reimbursement for realproperty taxes which are treated under section 164(d) as imposed on the purchaser, and
 
 &emsp;(2) there shall be taken into account amounts representing real property taxes which are treated under section 164(d) as imposed on the taxpayer if such taxes are to be paid by the purchaser.
 

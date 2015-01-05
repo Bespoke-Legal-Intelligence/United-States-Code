@@ -122,7 +122,7 @@ Subsec. (b)(1)(B), (2)(B). Pub. L. 102–375, §904(a)(14)(A), inserted "United 
 
 Subsec. (b)(3)(B)(iii). Pub. L. 102–375, §§102(b)(9)(C), (10)(A), 904(a)(14)(B), inserted "on aging" after "area agencies", struck out "designated under section 3025 of this title" after "such State", and substituted "objectives" for "purposes".
 
-Subsec. (b)(4). Pub. L. 102–375, §§308(2)(A), 904(a)(14)(B), designated existing provisions as subpar. (A), inserted "and except as provided in subparagraph (B)" after "provision of this subchapter", substituted "received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the" for "received under section 3023(b)(1) and (2) of this title, a", "not more than 30 percent ofthe funds so received" for "a portion of the funds appropriated", and "objectives" for "purposes", and added subpar. (B).
+Subsec. (b)(4). Pub. L. 102–375, §§308(2)(A), 904(a)(14)(B), designated existing provisions as subpar. (A), inserted "and except as provided in subparagraph (B)" after "provision of this subchapter", substituted "received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the" for "received under section 3023(b)(1) and (2) of this title, a", "not more than 30 percent of the funds so received" for "a portion of the funds appropriated", and "objectives" for "purposes", and added subpar. (B).
 
 Subsec. (b)(5) to (7). Pub. L. 102–375, §308(2)(B), added pars. (5) to (7) and struck out former par. (5) which read as follows:
 

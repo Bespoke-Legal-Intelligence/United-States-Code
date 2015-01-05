@@ -42,7 +42,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (B) Core indicators of performance for career and technical education students at the postsecondary level
 
-&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
+&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performancefor career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
 &emsp;&emsp;&emsp;(i) Student attainment of challenging career and technical skill proficiencies, including student achievement on technical assessments, that are aligned with industry-recognized standards, if available and appropriate.
 
@@ -102,7 +102,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;The agreement described in clause (iii) or (v) shall take into account—
 
-&emsp;&emsp;&emsp;&emsp;(I) how the levels of performance involved compare with the State adjusted levels of performance established for other States, taking into account factorsincluding the characteristics of participants when the participants entered the program and the services or instruction to be provided; and
+&emsp;&emsp;&emsp;&emsp;(I) how the levels of performance involved compare with the State adjusted levels of performance established for other States, taking into account factors including the characteristics of participants when the participants entered the program and the services or instruction to be provided; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the extent to which such levels of performance promote continuous improvement on the indicators of performance by such State.
 
@@ -158,7 +158,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (i) Content of report
 
-&emsp;&emsp;&emsp;Each eligible recipient that receives an allocation described in section 2322 of this title shall annually prepare and submit to the eligible agency a report, which shallinclude the data described in clause (ii)(I), regarding the progress of such recipient in achieving the local adjusted levels of performance on the core indicators of performance.
+&emsp;&emsp;&emsp;Each eligible recipient that receives an allocation described in section 2322 of this title shall annually prepare and submit to the eligible agency a report, which shall include the data described in clause (ii)(I), regarding the progress of such recipient in achieving the local adjusted levels of performance on the core indicators of performance.
 
 #### (ii) Data
 

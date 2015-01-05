@@ -86,7 +86,7 @@ Findings.—The Congress finds that—
 
 Purposes.—The purposes of this section are—
 
-&emsp;"(A) to assure a simple, meaningful disclosure of leasing terms so that the consumer will be able tocompare more readily the various leasing terms available to the consumer and avoid the uninformed use of leasing, and to protect the consumer against inaccurate and unfair leasing practices;
+&emsp;"(A) to assure a simple, meaningful disclosure of leasing terms so that the consumer will be able to compare more readily the various leasing terms available to the consumer and avoid the uninformed use of leasing, and to protect the consumer against inaccurate and unfair leasing practices;
 
 &emsp;"(B) to provide for adequate cost disclosures that reflect the marketplace without impairing competition and the development of new leasing products; and
 

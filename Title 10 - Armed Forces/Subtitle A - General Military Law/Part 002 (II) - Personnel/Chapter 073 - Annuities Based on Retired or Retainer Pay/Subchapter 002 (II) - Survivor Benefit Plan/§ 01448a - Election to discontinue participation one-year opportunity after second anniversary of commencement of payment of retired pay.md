@@ -18,7 +18,7 @@ Exceptions.—A participant may make such an election without the concurrence of
 
 &emsp;(3)
 
-Form of concurrence.—The concurrence of a spouse under paragraph (1) shall be made in such written form and shall contain such information as may be required under regulations prescribed by the Secretary of Defense.
+Form of concurrence.—The concurrence of a spouse under paragraph (1) shall be made in such written form and shall contain suchinformation as may be required under regulations prescribed by the Secretary of Defense.
 
 (c)
 
@@ -34,7 +34,7 @@ Consequences of Discontinuation.—Section 1448(b)(1)(E) of this title applies t
 
 (f)
 
-Notice to Affected Beneficiaries.—The Secretary concerned shall notify any formerspouse or other natural person previously designated under section 1448(b) of this title of an election to discontinue participation under subsection (a).
+Notice to Affected Beneficiaries.—The Secretary concerned shall notify any former spouse or other natural person previously designated under section 1448(b) of this title of an election to discontinue participation under subsection (a).
 
 (g)
 

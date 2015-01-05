@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;If the affected parties reach agreement on the appropriate unit and the exclusive representative for such unit under subsection (a) of this section, the Federal Labor Relations Authority shall certify the terms of such agreement, subject to paragraph (2)(A). Nothing in this subsection shall be considered to require the holding of any hearing or election as a condition for certification.
+&emsp;If the affected parties reach agreement on the appropriate unit and the exclusive representative for such unit under subsection (a), the Federal Labor Relations Authority shall certify the terms of such agreement, subject to paragraph (2)(A). Nothing in this subsection shall be considered to require the holding of any hearing or election as a condition for certification.
 
 #### (2) Restrictions
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;The Federal Labor Relations Authority may not certify the terms of an agreement under paragraph (1) if—
 
-&emsp;&emsp;&emsp;(i) it determines that any of the criteria referred to in subsection (a)(2) of this section (disregarding section 7112(a) of title 5) have not been met; or
+&emsp;&emsp;&emsp;(i) it determines that any of the criteria referred to in subsection (a)(2) (disregarding section 7112(a) of title 5) have not been met; or
 
 &emsp;&emsp;&emsp;(ii) after the Secretary's exercise of authority and before certification under this section, a valid election under section 7111(b) of title 5 is held covering any employees who would be included in the unit proposed for certification.
 

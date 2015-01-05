@@ -36,7 +36,7 @@
 
 #### (5) Surveys
 
-&emsp;In carrying out the review and analysis under paragraph (1), the Bureau shall, in addition to such other methods as the Bureau considers appropriate, use surveys and other statistical studies of current and former inmates from a sample of Federal, State, county, andmunicipal prisons. The Bureau shall ensure the confidentiality of each survey participant, except as authorized in paragraph (7).
+&emsp;In carrying out the review and analysis under paragraph (1), the Bureau shall, in addition to such other methods as the Bureau considers appropriate, use surveys and other statistical studies of current and former inmates from a sample of Federal, State, county, and municipal prisons. The Bureau shall ensure the confidentiality of each survey participant, except as authorized in paragraph (7).
 
 #### (6) Participation in survey
 

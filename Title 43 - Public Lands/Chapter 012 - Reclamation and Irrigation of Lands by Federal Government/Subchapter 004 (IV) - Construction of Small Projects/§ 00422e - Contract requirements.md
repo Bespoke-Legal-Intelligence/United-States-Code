@@ -8,7 +8,7 @@ Upon approval of any project proposal by the Secretary under the provisions of s
 
 &emsp;(c) a plan of repayment by the organization of (1) the sums lent to it in not more than forty years from the date when the principal benefits of the project first become available; (2) interest, as determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which the contract is executed, on the basis of the average market yields on outstanding marketable obligations of the United States with remaining periods of maturity comparable to the applicable reimbursement period of the project, adjusted to the nearest one-eighth of 1 percent on the unamortized balance of any portion of the loan—
 
-&emsp;&emsp;(A) which is attributable to furnishing irrigation benefits in each particular year to land held in private ownership by a qualified recipient or by a limited recipient, as such terms are defined in section 390bb of this title, in excess of three hundred and twenty irrigable acres; or,
+&emsp;&emsp;(A) which is attributable to furnishing irrigation benefits in each particular year toland held in private ownership by a qualified recipient or by a limited recipient, as such terms are defined in section 390bb of this title, in excess of three hundred and twenty irrigable acres; or,
 
 &emsp;&emsp;(B) which is allocated to domestic, industrial, or municipal water supply, commercial power, fish and wildlife enhancement, or public recreation except that portion of such allocation attributable to furnishing benefits to a facility operated by an agency of the United States, which portion shall bear no interest.<sup>1</sup>
 
@@ -30,7 +30,7 @@ Subsec. (c)(2). Pub. L. 99–546, §307(b), amended cl. (2) generally. Prior to 
 
 Subsec. (c)(3). Pub. L. 99–546, §307(c), struck out cl. (3) which read as follows: "in the case of any project involving an allocation to domestic, industrial, or municipal water supply, commercial power, fish and wildlife enhancement, or public recreation, interest on the unamortized balance of an appropriate portion of the loan at a rate as determined in (2) above; Except that portion of said allocation attributable to furnishing benefits to a facility operated by an agency of the United States, which portion shall bear no interest;".
 
-<b>1982</b>—Subsec. (c)(2). Pub. L. 97–293 substituted "by a qualified recipient, as such term is defined in section390bb of this title, in excess of nine hundred and sixty irrigable acres, or by a limited recipient, as such term is defined in section 390bb of this title, in excess of three hundred and twenty irrigable acres" for "by any one owner in excess of one hundred and sixty irrigable acres".
+<b>1982</b>—Subsec. (c)(2). Pub. L. 97–293 substituted "by a qualified recipient, as such term is defined in section 390bb of this title, in excess of nine hundred and sixty irrigable acres, or by a limited recipient, as such term is defined in section 390bb of this title, in excess of three hundred and twenty irrigable acres" for "by any one owner in excess of one hundred and sixty irrigable acres".
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–336 inserted "Except that portion of said allocation attributable to furnishing benefits to a facility operated by an agency of the United States, which portion shall bear no interest;" at end of subsec. (c).
 

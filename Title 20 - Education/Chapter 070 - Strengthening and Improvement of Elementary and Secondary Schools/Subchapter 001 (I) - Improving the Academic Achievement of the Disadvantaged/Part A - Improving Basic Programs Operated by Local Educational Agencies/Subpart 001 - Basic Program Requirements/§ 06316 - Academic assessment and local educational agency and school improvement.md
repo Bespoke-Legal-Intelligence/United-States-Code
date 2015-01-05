@@ -36,7 +36,7 @@
 
 #### (D) Targeted assistance schools
 
-&emsp;&emsp;To determine if an elementary school or a secondary school that is conducting a targeted assistance program under section 6315 of this title should be identified for schoolimprovement, corrective action, or restructuring under this section, a local educational agency may choose to review the progress of only the students in the school who are served, or are eligible for services, under this part.
+&emsp;&emsp;To determine if an elementary school or a secondary school that is conducting a targeted assistance program under section 6315 of this title should be identified for school improvement, corrective action, or restructuring under this section, a local educational agency may choose to review the progress of only the students in the school who are served, or are eligible for services, under this part.
 
 #### (E) Public school choice
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(iv) specify how the funds described in clause (iii) will be used to remove the school from school improvement status;
 
-&emsp;&emsp;&emsp;(v) establish specific annual, measurable objectives for continuous and substantial progress by each group of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school that will ensure that all such groups of students will, in accordance with adequate yearly progress as defined in section 6311(b)(2) of this title, meet the State's proficient level ofachievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
+&emsp;&emsp;&emsp;(v) establish specific annual, measurable objectives for continuous and substantial progress by each group of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school that will ensure that all such groups of students will, in accordance with adequate yearly progress as defined in section 6311(b)(2) of this title, meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
 
 &emsp;&emsp;&emsp;(vi) describe how the school will provide written notice about the identification to parents of each student enrolled in such school, in a format and, to the extent practicable, in a language that the parents can understand;
 
@@ -150,7 +150,7 @@
 
 #### (5) Failure to make adequate yearly progress after identification
 
-&emsp;In the case of any school served under this part that fails to make adequate yearly progress, as set out in the State's plan under section 6311(b)(2) of this title, by the end of the first full school year after identification under paragraph (1), the local educational agency serving such school—
+&emsp;In the case of any school served under this part that fails to make adequate yearlyprogress, as set out in the State's plan under section 6311(b)(2) of this title, by the end of the first full school year after identification under paragraph (1), the local educational agency serving such school—
 
 &emsp;&emsp;(A) shall continue to provide all students enrolled in the school with the option to transfer to another public school served by the local educational agency in accordance with subparagraphs (E) and (F);
 
@@ -290,7 +290,7 @@
 
 #### (C) Insufficient funds
 
-&emsp;&emsp;If the amount of funds described in subparagraph (A)(ii) or (iii) and available to provide services under this subsection is insufficient to provide supplemental educational services to each child whose parents request the services, the local educational agency shall give priority to providing the services to the lowest-achieving children.
+&emsp;&emsp;If the amount of funds described in subparagraph (A)(ii) or (iii) and available toprovide services under this subsection is insufficient to provide supplemental educational services to each child whose parents request the services, the local educational agency shall give priority to providing the services to the lowest-achieving children.
 
 #### (D) Prohibition
 
@@ -298,7 +298,7 @@
 
 #### (11) Cooperative agreement
 
-&emsp;In any case described in paragraph (1)(E), (5)(A), (7)(C)(i), or (8)(A)(i), or subsection (c)(10)(C)(vii) of this section if all publicschools served by the local educational agency to which a child may transfer are identified for school improvement, corrective action or restructuring, the agency shall, to the extent practicable, establish a cooperative agreement with other local educational agencies in the area for a transfer.
+&emsp;In any case described in paragraph (1)(E), (5)(A), (7)(C)(i), or (8)(A)(i), or subsection (c)(10)(C)(vii) of this section if all public schools served by the local educational agency to which a child may transfer are identified for school improvement, corrective action or restructuring, the agency shall, to the extent practicable, establish a cooperative agreement with other local educational agencies in the area for a transfer.
 
 #### (12) Duration
 
@@ -350,11 +350,11 @@
 
 #### (B) Evidence
 
-&emsp;&emsp;If the local educational agency believes that the proposed identification is in error for statistical or other substantive reasons, the agency may provide supporting evidence to the State educational agency, which shall consider the evidence before making a final determination not later than 30 days after the State educational agency provides the local educational agency with the opportunity to review such data under subparagraph (A).
+&emsp;&emsp;If the local educational agency believes that the proposed identification is in error for statistical or other substantive reasons,the agency may provide supporting evidence to the State educational agency, which shall consider the evidence before making a final determination not later than 30 days after the State educational agency provides the local educational agency with the opportunity to review such data under subparagraph (A).
 
 #### (6) Notification to parents
 
-&emsp;The State educational agency shall promptly provide to the parents (in a format and, to the extent practicable, in a language the parents can understand) of each student enrolled in a school served by a local educational agency identified for improvement, the results of the review under paragraph (1) and, if the agency is identified for improvement, the reasons for that identification and how parentscan participate in upgrading the quality of the local educational agency.
+&emsp;The State educational agency shall promptly provide to the parents (in a format and, to the extent practicable, in a language the parents can understand) of each student enrolled in a school served by a local educational agency identified for improvement, the results of the review under paragraph (1) and, if the agency is identified for improvement, the reasons for that identification and how parents can participate in upgrading the quality of the local educational agency.
 
 #### (7) Local educational agency revisions
 
@@ -412,7 +412,7 @@
 
 &emsp;&emsp;After providing technical assistance under paragraph (9) and subject to subparagraph (E), the State—
 
-&emsp;&emsp;&emsp;(i) may take corrective action at any time with respect to a local educational agency that has been identified under paragraph (3);
+&emsp;&emsp;&emsp;(i) may take corrective action at any time with respect to a local educationalagency that has been identified under paragraph (3);
 
 &emsp;&emsp;&emsp;(ii) shall take corrective action with respect to any local educational agency that fails to make adequate yearly progress, as defined by the State, by the end of the second full school year after the identification of the agency under paragraph (3); and
 
@@ -482,7 +482,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (3) Agreement
 
-&emsp;In the case of the selection of an approved provider by a parent, the local educationalagency shall enter into an agreement with such provider. Such agreement shall—
+&emsp;In the case of the selection of an approved provider by a parent, the local educational agency shall enter into an agreement with such provider. Such agreement shall—
 
 &emsp;&emsp;(A) require the local educational agency to develop, in consultation with parents (and the provider chosen by the parents), a statement of specific achievement goals for the student, how the student's progress will be measured, and a timetable for improving achievement that, in the case of a student with disabilities, is consistent with the student's individualized education program under section 1414(d) of this title;
 
@@ -544,7 +544,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (A) Requirement
 
-&emsp;&emsp;At the request of a local educational agency, a State educational agency may waive, in whole or in part, the requirement of this subsection to provide supplemental educational services if the State educational agency determines that—
+&emsp;&emsp;At the request of a local educational agency, a State educational agency may waive,in whole or in part, the requirement of this subsection to provide supplemental educational services if the State educational agency determines that—
 
 &emsp;&emsp;&emsp;(i) none of the providers of those services on the list approved by the State educational agency under paragraph (4)(C) makes those services available in the area served by the local educational agency or within a reasonable distance of that area; and
 
@@ -622,7 +622,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (i) Definition
 
-&emsp;&emsp;&emsp;The Secretary of the Interior, in consultation with the Secretary if the Secretary of <sup>4</sup> Interior requests the consultation, using the process set out in section 2018(b) of title 25, shall define adequateyearly progress, consistent with section 6311(b) of this title, for the schools funded by the Bureau of Indian Affairs on a regional or tribal basis, as appropriate, taking into account the unique circumstances and needs of such schools and the students served by such schools.
+&emsp;&emsp;&emsp;The Secretary of the Interior, in consultation with the Secretary if the Secretary of <sup>4</sup> Interior requests the consultation, using the process set out in section 2018(b) of title 25, shall define adequate yearly progress, consistent with section 6311(b) of this title, for the schools funded by the Bureau of Indian Affairs on a regional or tribal basis, as appropriate, taking into account the unique circumstances and needs of such schools and the students served by such schools.
 
 #### (ii) Use of definition
 

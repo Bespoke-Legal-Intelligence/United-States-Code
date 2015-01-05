@@ -26,5 +26,5 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in
 
 #### Effective Date
 
-Pub. L. 101–650, title III, §310(c), Dec. 1, 1990, 104 Stat. 5114, provided that: "The amendments made by thissection \[enacting this section\] shall apply to civil actions commenced on or after the date of the enactment of this Act \[Dec. 1, 1990\]."
+Pub. L. 101–650, title III, §310(c), Dec. 1, 1990, 104 Stat. 5114, provided that: "The amendments made by this section \[enacting this section\] shall apply to civil actions commenced on or after the date of the enactment of this Act \[Dec. 1, 1990\]."
 

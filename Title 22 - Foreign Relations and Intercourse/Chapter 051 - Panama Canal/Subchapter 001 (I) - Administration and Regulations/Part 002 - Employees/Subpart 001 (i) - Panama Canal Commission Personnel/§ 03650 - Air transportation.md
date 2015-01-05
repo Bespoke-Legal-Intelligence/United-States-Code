@@ -1,16 +1,16 @@
 ### §3650. Air transportation
 
-(a) Notwithstanding any other provision of law (except subsection (b) of this section), the Commission may contract with Panamanian carriers registered under the laws of the Republic of Panama to provide air transportation to officials and employees of the Commission who are citizens of the Republic of Panama.
+(a) Notwithstanding any other provision of law (except subsection (b)), the Commission may contract with Panamanian carriers registered under the laws of the Republic of Panama to provide air transportation to officials and employees of the Commission who are citizens of the Republic of Panama.
 
 (b) An official or employee of the Commission who is a citizen of the Republic of Panama may elect, for security or other reasons, to travel by an air carrier holding a certificate under section 41102 of title 49.
 
-(Pub. L. 96–70, title I, §1210, as added Pub. L. 99–223, §5(b)(1), Dec. 28, 1985, 99 Stat. 1739;amended Pub. L. 104–201, div. C, title XXXV, §3528, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3524(a)(1), (b), Nov. 18, 1997, 111 Stat. 2065.)
+(Pub. L. 96–70, title I, §1210, as added Pub. L. 99–223, §5(b)(1), Dec. 28, 1985, 99 Stat. 1739; amended Pub. L. 104–201, div. C, title XXXV, §3528, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3524(a)(1), (b), Nov. 18, 1997, 111 Stat. 2065.)
 
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–85, §3524(b)(2), substituted "Air transportation" for "Travel and transportation" in section catchline.
 
-Subsec. (a). Pub. L. 105–85, §3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a) and substituted "subsection (b) of this section" for "paragraph (2)".
+Subsec. (a). Pub. L. 105–85, §3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a) and substituted "subsection (b)" for "paragraph (2)".
 
 Pub. L. 105–85, §3524(a)(1), struck out subsec. (a) which read as follows: "Subject to subsections (b) and (c) of this section, the Commission may pay travel and transportation expenses for employees in accordance with subchapter II of chapter 57 of title 5."
 

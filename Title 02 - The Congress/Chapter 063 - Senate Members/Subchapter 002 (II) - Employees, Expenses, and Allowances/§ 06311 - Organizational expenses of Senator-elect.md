@@ -6,9 +6,9 @@ Upon the recommendation of a Senator-elect (other than an incumbent Senator or a
 
 #### (b) Payment of salaries of appointed employees; funding; maximum amount
 
-(1) Salaries of employees appointed under subsection (a) shall be paid from the appropriation for “Administrative, Clerical, and Legislative Assistance to Senators”.
+(1) Salaries of employees appointed under subsection (a) shall be paid from the appropriation for "Administrative, Clerical, and Legislative Assistance to Senators".
 
-(2) Salaries paid to employees appointed upon recommendation of a Senator-elect under subsection (a) shall be charged against the amount of compensation which may be paid to employees in his office under section 4575(d) of this title (hereinafter referred to as the “clerk-hire allowance”), for the fiscal year in which his service as a Senator commences. The total amount of salaries paid to employees so appointed upon recommendation of a Senator-elect shall be charged against his clerk-hire allowance for each month in such fiscal year beginning with the month in which his service as a Senator commences (until the total amount has been charged) by whichever of the following amounts is greater: (1) one-ninth of the amount of salaries so paid, or (2) the amount by which the aggregate amount of his clerk-hire allowance which may be paid as of the close of such month under section 4575(d)(1)(B) of this title exceeds the aggregate amount of his clerk-hire allowance actually paid as of the close of such month.
+(2) Salaries paid to employees appointed upon recommendation of a Senator-elect under subsection (a) shall be charged against the amount of compensation which may be paid to employees in his office under section 4575(d) of this title (hereinafter referred to as the "clerk-hire allowance"), for the fiscal year in which his service as a Senator commences. The total amount of salaries paid to employees so appointed upon recommendation of a Senator-elect shall be charged against his clerk-hire allowance for each month in such fiscal year beginning with the month in which his service as a Senator commences (until the total amount has been charged) by whichever of the following amounts is greater: (1) one-ninth of the amount of salaries so paid, or (2) the amount by which the aggregate amount of his clerk-hire allowance which may be paid as of the close of such month under section 4575(d)(1)(B) of this title exceeds the aggregate amount of his clerk-hire allowance actually paid as of the close of such month.
 
 #### (c) Payment of transportation and per diem expenses of Senator-elect and appointed employees for one round trip from home State to Washington, D.C. for business of impending Congress; funding; maximum amount
 
@@ -18,7 +18,7 @@ Each Senator-elect and each employee appointed under subsection (a) is authorize
 
 (1) Each Senator-elect is authorized to be reimbursed for expenses incurred for telegrams, telephone services, and stationery related to his position as a Senator-elect in an amount not exceeding one-twelfth of the total amount of expenses authorized to be paid to or on behalf of a Senator from the State which he will represent under section 6314 of this title. Reimbursement to a Senator-elect under this subsection shall be paid from the contingent fund of the Senate upon itemized vouchers certified by such Senator-elect and approved by the Secretary of the Senate.
 
-(2) Amounts reimbursed to a Senator-elect under this subsection shall be charged against the amount of expenses which are authorized to be paid to him or on his behalf under section 6314 of this title, for each of the twelve months beginning with the month in which his service as a Senator commences (until all of such amounts have been charged) by whichever of the following amounts is greater: (1) one-twelfth of the amounts so reimbursed, or (2) the amount by which the aggregate amount authorized to be so paid under section 6314(c) of this title as of theclose of such month exceeds the aggregate amount actually paid under such section 6314 as of the close of such month.
+(2) Amounts reimbursed to a Senator-elect under this subsection shall be charged against the amount of expenses which are authorized to be paid to him or on his behalf under section 6314 of this title, for each of the twelve months beginning with the month in which his service as a Senator commences (until all of such amounts have been charged) by whichever of the following amounts is greater: (1) one-twelfth of the amounts so reimbursed, or (2) the amount by which the aggregate amount authorized to be so paid under section 6314(c) of this title as of the close of such month exceeds the aggregate amount actually paid under such section 6314 as of the close of such month.
 
 #### (e) Effective Date
 
@@ -32,9 +32,9 @@ Section was formerly classified to section 43d of this title prior to editorial 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–197 substituted “, telephone services, and stationery” for “and telephone services”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–197 substituted ", telephone services, and stationery" for "and telephone services".
 
-#### Senators’ Official Personnel and Office Expense Account
+#### Senators' Official Personnel and Office Expense Account
 
-References in any law, rule, regulation, or order to Senate appropriation account for Administrative, Clerical, and Legislative Assistance Allowance to Senators deemed references to the “Senators’ Official Personnel and Office Expense Account”, see section 6313(2) of this title.
+References in any law, rule, regulation, or order to Senate appropriation account for Administrative, Clerical, and Legislative Assistance Allowance to Senators deemed references to the "Senators' Official Personnel and Office Expense Account", see section 6313(2) of this title.
 

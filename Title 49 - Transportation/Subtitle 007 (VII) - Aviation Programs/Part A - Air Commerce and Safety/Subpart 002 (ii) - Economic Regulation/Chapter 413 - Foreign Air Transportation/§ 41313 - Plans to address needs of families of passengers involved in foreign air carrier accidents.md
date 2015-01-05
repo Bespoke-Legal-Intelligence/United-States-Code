@@ -38,7 +38,7 @@ Notice provided as soon as possible.—An assurance that the notice required by 
 
 &emsp;(4)
 
-List of passengers.—An assurance that the foreign air carrier shall provide, immediately upon request, and update a list (basedon the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), to—
+List of passengers.—An assurance that the foreign air carrier shall provide, immediately upon request, and update a list (based on the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), to—
 
 &emsp;&emsp;(A) the director of family support services designated for the accident under section 1136(a)(1); and
 
@@ -46,7 +46,7 @@ List of passengers.—An assurance that the foreign air carrier shall provide, i
 
 &emsp;(5)
 
-Consultation regarding disposition of remains and effects.—An assurance that the family of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
+Consultation regarding disposition of remains and effects.—An assurance that thefamily of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
 
 &emsp;(6)
 

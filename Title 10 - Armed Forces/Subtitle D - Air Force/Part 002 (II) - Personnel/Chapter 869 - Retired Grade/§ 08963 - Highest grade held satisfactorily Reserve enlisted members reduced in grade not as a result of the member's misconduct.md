@@ -4,7 +4,7 @@
 
 (b) This section applies to a Reserve enlisted member who—
 
-&emsp;(1) at the time of retirement is serving on active duty (or, in the case of a member of the National Guard, on full-time National Guardduty) in a grade lower than the highest enlisted grade held by the member while on active duty (or full-time National Guard duty); and
+&emsp;(1) at the time of retirement is serving on active duty (or, in the case of a member of the National Guard, on full-time National Guard duty) in a grade lower than the highest enlisted grade held by the member while on active duty (or full-time National Guard duty); and
 
 &emsp;(2) was previously administratively reduced in grade not as a result of the member's own misconduct, as determined by the Secretary of the Air Force.
 

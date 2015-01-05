@@ -2,7 +2,7 @@
 
 #### (a) Report by Administrator on activities of Administration
 
-The Administrator shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to theCongress on the activities of the Administration during the preceding fiscal year. Such report shall include a statement of the short-range and long-range goals, priorities, and plans of the Administration together with an assessment of the progress made toward the attainment of those objectives and toward the more effective and efficient management of the Administration and the coordination of its functions.
+The Administrator shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to the Congress on the activities of the Administration during the preceding fiscal year. Such report shall include a statement of the short-range and long-range goals, priorities, and plans of the Administration together with an assessment of the progress made toward the attainment of those objectives and toward the more effective and efficient management of the Administration and the coordination of its functions.
 
 #### (b) Review of desirability and feasibility of transferring functions of Administrator respecting military application and restricted data to Department of Defense or other Federal agencies; report by Administrator
 
@@ -32,7 +32,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 #### Transfer of Functions
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 

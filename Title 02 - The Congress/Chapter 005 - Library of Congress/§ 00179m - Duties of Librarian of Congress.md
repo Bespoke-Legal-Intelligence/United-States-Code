@@ -6,7 +6,7 @@
 
 &emsp;The Librarian shall, after consultation with the Board established pursuant to section 179n of this title—
 
-&emsp;&emsp;(A) continue the implementation of the comprehensive national film preservation program for motion pictures established under the National Film Preservation Act of 1992, in conjunction with other film archivists, educators and historians, copyright owners, film industry representatives, and others involved in activities related to film preservation, taking into account the objectives of the national film preservation study and the comprehensive national plan conducted under the National Film Preservation Act of 1992. This program shall—
+&emsp;&emsp;(A) continue the implementation of the comprehensive national film preservation program for motion pictures established under the National Film Preservation Act of 1992, in conjunction with other film archivists, educators and historians, copyright owners, film industry representatives, and others involved in activities related to film preservation, taking into account the objectives of the national film preservation studyand the comprehensive national plan conducted under the National Film Preservation Act of 1992. This program shall—
 
 &emsp;&emsp;&emsp;(i) coordinate activities to assure that efforts of archivists and copyright owners, and others in the public and private sector, are effective and complementary;
 
@@ -28,11 +28,11 @@
 
 #### (3) Seal
 
-&emsp;The Librarian shall provide a seal to indicate that a film has been included in the National Film Registry and is the Registry version of that film. The Librarian shall establish guidelines for approval of the use of the seal in accordance with subsection (b) of this section.
+&emsp;The Librarian shall provide a seal to indicate that a film has been included in the National Film Registry and is the Registry version of that film. The Librarian shall establish guidelines for approval of the use of the seal in accordance with subsection (b).
 
 #### (b) Use of seal
 
-The seal provided under subsection (a)(3) of this section may only be used on film or other approved copies of the Registry version of a film. Such seal may be used only after the Librarian has given approval to those persons seeking to apply the seal in accordance with the guidelines under subsection (a)(3) of this section. In the case of copyrighted, mass distributed, broadcast, or published works, only the copyright owner or an authorized licensee of the copyright owner may place or authorize the placement of the seal on any film or other approved copy of a Registry version of a film selected for inclusion in the National Film Registry, and the Librarian may place the seal on any film or other approved copy of the Registry version of any film that is maintained in the National Film Registry Collection in the Library of Congress. Anyone authorized to place the seal on any film or other approved copy of any Registry version of a film may accompany such seal with the following language: “This film was selected for inclusion in the National Film Registry by the National Film Preservation Board of the Library of Congress because of its cultural, historical, or aesthetic significance.”. The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry.
+The seal provided under subsection (a)(3) may only be used on film or other approved copies of the Registry version of a film. Such seal may be used only after the Librarian has given approval to those persons seeking to apply the seal in accordance with the guidelines under subsection (a)(3). In the case of copyrighted, mass distributed, broadcast, or published works, only the copyright owner or an authorized licensee of the copyright owner may place or authorize the placement of the seal on any film or other approved copy of a Registry version of a film selected for inclusion in the National Film Registry, and the Librarian may place the seal on any film or other approved copy of the Registry version of any film that is maintained in the National Film Registry Collection in the Library of Congress. Anyone authorized to place the seal on any film or other approved copy of any Registry version of a film may accompany such seal with the following language: "This film was selected for inclusion in the National Film Registry by the National Film Preservation Board of the Library of Congress because of its cultural, historical, or aesthetic significance.". The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry.
 
 #### (c) Coordination of program with other collection, preservation, and accessibility activities
 
@@ -52,9 +52,9 @@ The National Film Preservation Act of 1992, referred to in subsecs. (a)(1)(A) an
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–336 inserted at end “The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–336 inserted at end "The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry."
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–9, §302(a)(1), substituted “film or other approved copies” for “film copies” and “copyrighted, mass distributed, broadcast, or published” for “copyrighted” and substituted “film or other approved copy” for “film copy” wherever appearing.
+<b>2005</b>—Subsec. (b). Pub. L. 109–9, §302(a)(1), substituted "film or other approved copies" for "film copies" and "copyrighted, mass distributed, broadcast, or published" for "copyrighted" and substituted "film or other approved copy" for "film copy" wherever appearing.
 
 Subsec. (c). Pub. L. 109–9, §302(a)(2), added subsec. (c).
 

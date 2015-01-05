@@ -20,7 +20,7 @@ The Secretary shall approve an application if the Secretary finds that—
 
 <b>1986</b>—Pub. L. 99–576 substituted "Approval of application" for "Final approval of application" in section catchline, struck out "finally" before "approve an application" in introductory provisions, struck out former cl. (1) which read "section 1720 of this title has been complied with;", and redesignated cls. (2) to (5) as cls. (1) to (4), respectively.
 
-<b>1980</b>—Pub. L. 96–466, among other changes, inserted provision conditioning approval of an application upon the educational institution's or training establishment's compliance with all the requirements of this chapter and chapter 36 of this title and substituted reference to the enrollment in or pursuit of such person's program of education violating any provisions of this chapter or chapter 36 of this title for reference to the pursuit of such program violating any provision of this chapter.
+<b>1980</b>—Pub. L. 96–466, among other changes, inserted provision conditioning approval of an application uponthe educational institution's or training establishment's compliance with all the requirements of this chapter and chapter 36 of this title and substituted reference to the enrollment in or pursuit of such person's program of education violating any provisions of this chapter or chapter 36 of this title for reference to the pursuit of such program violating any provision of this chapter.
 
 <b>1976</b>—Pub. L. 94–502 substituted "if the Administrator finds" for "if he finds".
 

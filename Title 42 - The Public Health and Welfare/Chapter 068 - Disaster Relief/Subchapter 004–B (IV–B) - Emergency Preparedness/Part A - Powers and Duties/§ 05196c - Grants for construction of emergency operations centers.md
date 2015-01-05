@@ -8,7 +8,7 @@ The Administrator of the Federal Emergency Management Agency may make grants to 
 
 Notwithstanding any other provision of this subchapter, the Federal share of the cost of an activity carried out using amounts from grants made under this section shall not exceed 75 percent.
 
-(Pub. L. 93–288, title VI, §614, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5,1994, 108 Stat. 3107; amended Pub. L. 110–53, title II, §202, Aug. 3, 2007, 121 Stat. 295.)
+(Pub. L. 93–288, title VI, §614, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3107; amended Pub. L. 110–53, title II, §202, Aug. 3, 2007, 121 Stat. 295.)
 
 #### Prior Provisions
 

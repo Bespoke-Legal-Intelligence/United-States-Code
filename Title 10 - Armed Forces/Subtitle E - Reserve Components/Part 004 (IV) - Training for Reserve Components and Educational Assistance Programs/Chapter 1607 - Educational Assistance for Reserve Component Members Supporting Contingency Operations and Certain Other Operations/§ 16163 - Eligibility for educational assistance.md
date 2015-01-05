@@ -20,7 +20,7 @@ Written Notification.—(1) Each member who becomes entitled to educational assi
 
 (d)
 
-Bar From Dual Eligibility.—A member who qualifies for educational assistance under this chapter may not receive credit for such service under both the program established by chapter 30 of title 38 and the program established by this chapter but shall make an irrevocable election (in such form and manner as the Secretary of Veterans Affairs may prescribe) as to the program to which such service is to be credited.
+Bar From Dual Eligibility.—A member who qualifies for educational assistance under this chapter may not receive credit for such service under both the program established by chapter 30 of title 38 and the program established by this chapter but shall make an irrevocable election (in such form and manner as theSecretary of Veterans Affairs may prescribe) as to the program to which such service is to be credited.
 
 (e)
 

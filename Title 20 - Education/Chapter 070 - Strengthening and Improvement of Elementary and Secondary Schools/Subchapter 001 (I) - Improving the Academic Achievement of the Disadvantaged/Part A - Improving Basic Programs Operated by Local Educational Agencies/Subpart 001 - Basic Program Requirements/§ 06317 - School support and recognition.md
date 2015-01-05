@@ -114,7 +114,7 @@ Priority.—The State educational agency shall give priority to the approach des
 
 #### (A) Awards program
 
-&emsp;&emsp;For the purpose of carrying out subsection (b)(1) of this section, each State receiving agrant under this part may reserve, from the amount (if any) by which the funds received by the State under subpart 2 of this part for a fiscal year exceed the amount received by the State under that subpart for the preceding fiscal year, not more than 5 percent of such excess amount.
+&emsp;&emsp;For the purpose of carrying out subsection (b)(1) of this section, each State receiving a grant under this part may reserve, from the amount (if any) by which the funds received by the State under subpart 2 of this part for a fiscal year exceed the amount received by the State under that subpart for the preceding fiscal year, not more than 5 percent of such excess amount.
 
 #### (B) Teacher awards
 

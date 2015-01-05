@@ -48,7 +48,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 &emsp;&emsp;&emsp;&emsp;(V) the anticipated cost and schedule for its design, procurement, manufacture, and delivery to the ISS.
 
-&emsp;&emsp;&emsp;(iii) A detailed summary of the delivery schedule and associated delivery vehicle requirements necessary to transport all spare and replacement elements considered essential for the ongoing and sustained functionality of all critical systems of the ISS, both in and of themselves and as an element of an integrated, mutually dependent essential capability, including an assessment of the current schedule for delivery, the availability of delivery vehicles to meet that schedule, and the likelihood of meeting that schedule through such vehicles.
+&emsp;&emsp;&emsp;(iii) A detailed summary of the delivery schedule and associated delivery vehicle requirements necessary to transport all spare and replacement elements considered essential for the ongoing and sustained functionality of all critical systemsof the ISS, both in and of themselves and as an element of an integrated, mutually dependent essential capability, including an assessment of the current schedule for delivery, the availability of delivery vehicles to meet that schedule, and the likelihood of meeting that schedule through such vehicles.
 
 #### (2) GAO report
 
@@ -58,7 +58,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 #### (B) Cooperation with GAO
 
-&emsp;&emsp;The Administrator shall provide for the monitoring and participation of the Comptroller General in the assessment in a manner that permits the Comptroller General toprepare and submit the report required by subparagraph (A).
+&emsp;&emsp;The Administrator shall provide for the monitoring and participation of the Comptroller General in the assessment in a manner that permits the Comptroller General to prepare and submit the report required by subparagraph (A).
 
 #### (d) Utilization of research facilities and capabilities
 

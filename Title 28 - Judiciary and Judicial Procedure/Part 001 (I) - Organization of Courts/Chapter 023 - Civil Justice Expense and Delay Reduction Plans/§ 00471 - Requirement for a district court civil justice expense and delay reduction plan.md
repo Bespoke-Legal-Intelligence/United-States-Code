@@ -64,7 +64,7 @@ Early Implementation District Courts.—
 
 #### Demonstration Program
 
-Pub. L. 101–650, title I, §104, Dec. 1, 1990, 104 Stat. 5097, as amended by Pub. L. 104–33, §1, Oct. 3, 1995, 109 Stat.292; Pub. L. 104–317, title VI, §608(a), Oct. 19, 1996, 110 Stat. 3860, provided that:
+Pub. L. 101–650, title I, §104, Dec. 1, 1990, 104 Stat. 5097, as amended by Pub. L. 104–33, §1, Oct. 3, 1995, 109 Stat. 292; Pub. L. 104–317, title VI, §608(a), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 "(a)
 

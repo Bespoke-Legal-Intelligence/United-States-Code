@@ -8,7 +8,7 @@
 
 #### (2) Private applicator
 
-&emsp;Any private applicator or other person not included in paragraph (1) who violates anyprovision of this subchapter subsequent to receiving a written warning from the Administrator or following a citation for a prior violation, may be assessed a civil penalty by the Administrator of not more than $1,000 for each offense, except that any applicator not included under paragraph (1) of this subsection who holds or applies registered pesticides, or uses dilutions of registered pesticides, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served, and who violates any provision of this subchapter may be assessed a civil penalty by the Administrator of not more than $500 for the first offense nor more than $1,000 for each subsequent offense.
+&emsp;Any private applicator or other person not included in paragraph (1) who violates any provision of this subchapter subsequent to receiving a written warning from the Administrator or following a citation for a prior violation, may be assessed a civil penalty by the Administrator of not more than $1,000 for each offense, except that any applicator not included under paragraph (1) of this subsection who holds or applies registered pesticides, or uses dilutions of registered pesticides, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served, and who violates any provision of this subchapter may be assessed a civil penalty by the Administrator of not more than $500 for the first offense nor more than $1,000 for each subsequent offense.
 
 #### (3) Hearing
 
@@ -16,7 +16,7 @@
 
 #### (4) Determination of penalty
 
-&emsp;In determining the amount of the penalty, the Administrator shall consider the appropriateness of such penalty to the size of the business of the person charged, the effect on the person's ability to continue in business, and the gravity of the violation. Whenever the Administrator finds that the violation occurred despite the exercise of due care or did not cause significant harm to health or the environment, the Administrator may issue a warning in lieu of assessing a penalty.
+&emsp;In determining the amount of the penalty, the Administrator shall consider the appropriateness of such penalty to the size of the business of the person charged, the effect on the person's ability to continue in business, and the gravity of the violation. Whenever the Administrator finds that the violation occurred despite the exercise of due care or didnot cause significant harm to health or the environment, the Administrator may issue a warning in lieu of assessing a penalty.
 
 #### (5) References to Attorney General
 

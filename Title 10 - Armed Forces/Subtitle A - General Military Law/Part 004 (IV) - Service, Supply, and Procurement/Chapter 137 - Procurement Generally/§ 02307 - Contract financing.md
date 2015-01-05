@@ -50,7 +50,7 @@ Certain Navy Contracts.—(1) The Secretary of the Navy shall provide that the r
 
 &emsp;(B) 90 percent, in the case of any other firm.
 
-(2) The Secretary of the Navy may advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations. Advances under this paragraph shall be made onterms that the Secretary considers adequate for the protection of the United States.
+(2) The Secretary of the Navy may advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations. Advances under this paragraph shall be made on terms that the Secretary considers adequate for the protection of the United States.
 
 (3) The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
 

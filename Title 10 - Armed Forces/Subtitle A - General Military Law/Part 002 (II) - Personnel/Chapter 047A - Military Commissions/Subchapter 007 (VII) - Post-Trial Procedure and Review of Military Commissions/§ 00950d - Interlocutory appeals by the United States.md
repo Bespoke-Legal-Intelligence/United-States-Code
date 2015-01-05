@@ -20,7 +20,7 @@ Interlocutory Appeal.—Except as provided in subsection (b), in a trial by mili
 
 (b)
 
-Limitation.—The United States may not appeal under subsection (a) an order or rulingthat is, or amounts to, a finding of not guilty by the military commission with respect to a charge or specification.
+Limitation.—The United States may not appeal under subsection (a) an order or ruling that is, or amounts to, a finding of not guilty by the military commission with respect to a charge or specification.
 
 (c)
 

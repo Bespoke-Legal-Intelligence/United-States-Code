@@ -10,13 +10,13 @@ The application of nondiscriminatory treatment shall be limited to the period of
 
 #### (c) Suspension or withdrawal of extensions of nondiscriminatory treatment
 
-The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause allproducts of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
+The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause all products of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
 
 (Pub. L. 93–618, title IV, §404, Jan. 3, 1975, 88 Stat. 2060; Pub. L. 96–39, title XI, §1106(f)(2), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1214(j)(3), Aug. 23, 1988, 102 Stat. 1158.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (c), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (c), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Amendments
 
@@ -102,7 +102,7 @@ In general.—If, in preparing a report required by paragraph (1), the Trade Rep
 
 &emsp;&emsp;"(B)
 
-Classified information.—If any information regarding a planned action referred to in subparagraph (A) is classifiable under Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) \[50 U.S.C. 3161 note\] or a subsequent Executive order, the Trade Representative shall report that information to the Committee on Finance of the Senate and the Committee onWays and Means of the House of Representatives by—
+Classified information.—If any information regarding a planned action referred to in subparagraph (A) is classifiable under Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) \[50 U.S.C. 3161 note\] or a subsequent Executive order, the Trade Representative shall report that information to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives by—
 
 &emsp;&emsp;&emsp;"(i) including the information in a classified annex to the report required by paragraph (1); or
 
@@ -484,7 +484,7 @@ Findings.—The Congress finds that Mongolia—
 
 &emsp;"(3) has held four national elections under the new constitution, two presidential and two parliamentary, thereby solidifying the nation's transition to democracy;
 
-&emsp;"(4) has undertaken significant market-based economic reforms, including privatization, the reductionof government subsidies, the elimination of most price controls and virtually all import tariffs, and the closing of insolvent banks;
+&emsp;"(4) has undertaken significant market-based economic reforms, including privatization, the reduction of government subsidies, the elimination of most price controls and virtually all import tariffs, and the closing of insolvent banks;
 
 &emsp;"(5) has concluded a bilateral trade treaty with the United States in 1991, and a bilateral investment treaty in 1994;
 
@@ -684,7 +684,7 @@ Congressional Findings.—The Congress finds that Bulgaria—
 
 &emsp;"(2) has reversed many years of Communist dictatorship and instituted a constitutional republic ruled by a democratically elected government as well as basic market-oriented reforms, including privatization;
 
-&emsp;"(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and the World Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
+&emsp;"(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and theWorld Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
 
 &emsp;"(4) has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
 

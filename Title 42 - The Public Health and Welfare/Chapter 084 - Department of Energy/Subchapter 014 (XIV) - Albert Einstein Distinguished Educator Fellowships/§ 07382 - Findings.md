@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) elementary and secondary school mathematics and science teachers can provide practical insight to the legislative and executive branches in establishing and operating education programs; and
 
-&emsp;(4) a pilot program that placed elementary and secondary school mathematics and science teachers in professional staff positions in the Senate and the House of Representatives has proven successful and demonstrated the value of expanding the program.
+&emsp;(4) a pilot program that placed elementary and secondary school mathematics and scienceteachers in professional staff positions in the Senate and the House of Representatives has proven successful and demonstrated the value of expanding the program.
 
 (Pub. L. 103–382, title V, §512, Oct. 20, 1994, 108 Stat. 4042.)
 

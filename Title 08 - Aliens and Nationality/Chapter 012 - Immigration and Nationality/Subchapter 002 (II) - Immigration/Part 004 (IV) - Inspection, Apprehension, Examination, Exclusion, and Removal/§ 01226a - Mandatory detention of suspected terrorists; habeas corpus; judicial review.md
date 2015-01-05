@@ -8,7 +8,7 @@
 
 #### (2) Release
 
-&emsp;Except as provided in paragraphs (5) and (6), the Attorney General shall maintain custodyof such an alien until the alien is removed from the United States. Except as provided in paragraph (6), such custody shall be maintained irrespective of any relief from removal for which the alien may be eligible, or any relief from removal granted the alien, until the Attorney General determines that the alien is no longer an alien who may be certified under paragraph (3). If the alien is finally determined not to be removable, detention pursuant to this subsection shall terminate.
+&emsp;Except as provided in paragraphs (5) and (6), the Attorney General shall maintain custody of such an alien until the alien is removed from the United States. Except as provided in paragraph (6), such custody shall be maintained irrespective of any relief from removal for which the alien may be eligible, or any relief from removal granted the alien, until the Attorney General determines that the alien is no longer an alien who may be certified under paragraph (3). If the alien is finally determined not to be removable, detention pursuant to this subsection shall terminate.
 
 #### (3) Certification
 
@@ -74,7 +74,7 @@ The provisions of this section shall not be applicable to any other provision of
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -82,23 +82,23 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Reports
 
-Pub. L. 107–56, title IV, §412(c), Oct. 26, 2001, 115 Stat. 352, provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 26, 2001\], and every 6 months thereafter, the Attorney General shall submit a report to the Committee on the Judiciary ofthe House of Representatives and the Committee on the Judiciary of the Senate, with respect to the reporting period, on—
+Pub. L. 107–56, title IV, §412(c), Oct. 26, 2001, 115 Stat. 352, provided that: "Not later than 6 months after the date of the enactment of this Act \[Oct. 26, 2001\], and every 6 months thereafter, the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, with respect to the reporting period, on—
 
-&emsp;“(1) the number of aliens certified under section 236A(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1226a(a)(3)\], as added by subsection (a);
+&emsp;"(1) the number of aliens certified under section 236A(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1226a(a)(3)\], as added by subsection (a);
 
-&emsp;“(2) the grounds for such certifications;
+&emsp;"(2) the grounds for such certifications;
 
-&emsp;“(3) the nationalities of the aliens so certified;
+&emsp;"(3) the nationalities of the aliens so certified;
 
-&emsp;“(4) the length of the detention for each alien so certified; and
+&emsp;"(4) the length of the detention for each alien so certified; and
 
-&emsp;“(5) the number of aliens so certified who—
+&emsp;"(5) the number of aliens so certified who—
 
-&emsp;&emsp;“(A) were granted any form of relief from removal;
+&emsp;&emsp;"(A) were granted any form of relief from removal;
 
-&emsp;&emsp;“(B) were removed;
+&emsp;&emsp;"(B) were removed;
 
-&emsp;&emsp;“(C) the Attorney General has determined are no longer aliens who may be so certified; or
+&emsp;&emsp;"(C) the Attorney General has determined are no longer aliens who may be so certified; or
 
-&emsp;&emsp;“(D) were released from detention.”
+&emsp;&emsp;"(D) were released from detention."
 

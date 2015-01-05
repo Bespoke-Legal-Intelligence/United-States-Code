@@ -8,15 +8,15 @@
 
 #### (2) Interns
 
-&emsp;For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c) of this section.
+&emsp;For the purposes of this section, the term "covered employee" does not include an intern as defined in regulations under subsection (c).
 
 #### (3) Compensatory time
 
-&emsp;Except as provided in regulations under subsection (c)(3) of this section and in subsection (c)(4) of this section, covered employees may not receive compensatory time in lieu of overtime compensation.
+&emsp;Except as provided in regulations under subsection (c)(3) and in subsection (c)(4), covered employees may not receive compensatory time in lieu of overtime compensation.
 
 #### (b) Remedy
 
-The remedy for a violation of subsection (a) of this section shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)).
+The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)).
 
 #### (c) Regulations to implement section
 
@@ -26,7 +26,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (3) Irregular work schedules
 
@@ -40,7 +40,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (e) Effective date
 
-Subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 (Pub. L. 104–1, title II, §203, Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–197, title III, §312, Sept. 16, 1996, 110 Stat. 2415.)
 
@@ -54,7 +54,7 @@ Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 2
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–197, §312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–197, §312(a), inserted "and in subsection (c)(4) of this section" after "subsection (c)(3) of this section".
 
 Subsec. (c)(4). Pub. L. 104–197, §312(b), added par. (4).
 
@@ -62,19 +62,19 @@ Subsec. (c)(4). Pub. L. 104–197, §312(b), added par. (4).
 
 Pub. L. 101–157, §8, Nov. 17, 1989, 103 Stat. 944, provided that:
 
-“(a)
+"(a)
 
 House Employees.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) shall apply with respect to any employee in an employment position in the House of Representatives and to any employing authority of the House of Representatives.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Administration.—In the administration of this subsection, the remedies and procedures under the Fair Employment Practices Resolution shall be applied. As used in this paragraph, the term “Fair Employment Practices Resolution” means House Resolution 558, One Hundredth Congress, agreed to October 4, 1988, as continued in effect by House Resolution 15, One Hundred First Congress, agreed to January 3, 1989.
+Administration.—In the administration of this subsection, the remedies and procedures under the Fair Employment Practices Resolution shall be applied. As used in this paragraph, the term "Fair Employment Practices Resolution" means House Resolution 558, One Hundredth Congress, agreed to October 4, 1988, as continued in effect by House Resolution 15, One Hundred First Congress, agreed to January 3, 1989.
 
-“(b)
+"(b)
 
-Architect of the Capitol Employees.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) shall apply with respect to individuals employed under the Office of the Architect of the Capitol.”
+Architect of the Capitol Employees.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) shall apply with respect to individuals employed under the Office of the Architect of the Capitol."
 

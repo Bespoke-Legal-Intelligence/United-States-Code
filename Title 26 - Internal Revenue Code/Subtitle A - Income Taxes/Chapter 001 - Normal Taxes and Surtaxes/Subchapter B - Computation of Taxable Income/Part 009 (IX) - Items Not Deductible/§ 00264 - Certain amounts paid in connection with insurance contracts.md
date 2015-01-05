@@ -36,7 +36,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;(1) if no part of 4 of the annual premiums due during the 7-year period (beginning with the date the first premium on the contract to which such plan relates was paid) is paid under such plan by means of indebtedness,
 
-&emsp;(2) if the total of the amounts paid or accrued by such person during such taxable year for which (without regard to this paragraph) no deduction would be allowable by reason of subsection (a)(3) does not exceed $100.
+&emsp;(2) if the total of the amounts paid or accrued by such person during such taxable year for which (without regard to this paragraph)no deduction would be allowable by reason of subsection (a)(3) does not exceed $100.
 
 &emsp;(3) if such amount was paid or accrued on indebtedness incurred because of an unforeseen substantial loss of income or unforeseen substantial increase in his financial obligations, or
 
@@ -226,7 +226,7 @@ The date of the enactment of this sentence, referred to in subsec. (e)(2)(B)(ii)
 
 #### Codification
 
-Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title. Another section1084(c) of Pub. L. 105–34 amended section 265 of this title.
+Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title. Another section 1084(c) of Pub. L. 105–34 amended section 265 of this title.
 
 #### Amendments
 
@@ -336,27 +336,17 @@ Qualified interest.—For purposes of subparagraph (A), the qualified interest w
 
 Applicable percentage.—For purposes of subparagraph (B), the applicable percentage is as follows:
 
-<b>For calendar year:</b>
+&nbsp;
 
-<b>The percentage is:</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;1996
-
-&nbsp;100 percent&nbsp;
-
-&nbsp;1997
-
-&nbsp;90 percent&nbsp;
-
-&nbsp;1998
-
-&nbsp;80 percent."
+| <b> For calendar year:</b> | <b>The percentage is:</b> |
+| :--- | ---: |
+| 1996 | 100 percent&nbsp; |
+| 1997 | 90 percent&nbsp; |
+| 1998 | 80 percent." |
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title X, §1003(c), Oct. 22, 1986, 100 Stat. 2388, provided that: "The amendments made by thissection \[amending this section\] shall apply to contracts purchased after June 20, 1986, in taxable years ending after such date."
+Pub. L. 99–514, title X, §1003(c), Oct. 22, 1986, 100 Stat. 2388, provided that: "The amendments made by this section \[amending this section\] shall apply to contracts purchased after June 20, 1986, in taxable years ending after such date."
 
 #### Effective Date of 1964 Amendment
 

@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(B) include as part of the reviews, a review and assessment of program strengths and areas in need of improvement;
 
-&emsp;&emsp;(C) include as part of the reviews, a review and assessment of whether programs have adequately addressed population and community needs (including those of limited English proficient children and children of migrant or seasonal farmworker families);
+&emsp;&emsp;(C) include as part of the reviews, a review and assessment of whether programs haveadequately addressed population and community needs (including those of limited English proficient children and children of migrant or seasonal farmworker families);
 
 &emsp;&emsp;(D) include as part of the reviews, an assessment of the extent to which the programs address the communitywide strategic planning and needs assessment described in section 9835(g)(1)(C) of this title;
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(F) include as part of the reviews, a valid and reliable research-based observational instrument, implemented by qualified individuals with demonstrated reliability, that assesses classroom quality, including assessing multiple dimensions of teacher-child interactions that are linked to positive child development and later achievement;
 
-&emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted ina manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
+&emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted in a manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
 
 &emsp;&emsp;(H) in the case of reviews of Early Head Start agencies and programs, are conducted by a review team that includes individuals who are knowledgeable about the development of infants and toddlers;
 
@@ -276,7 +276,7 @@
 
 #### (1) Determination
 
-&emsp;If the Secretary determines, on the basis of a review pursuant to subsection (c), that aHead Start agency designated pursuant to this subchapter fails to meet the standards described in subsection (a)(1) or fails to address the communitywide strategic planning and needs assessment, the Secretary shall—
+&emsp;If the Secretary determines, on the basis of a review pursuant to subsection (c), that a Head Start agency designated pursuant to this subchapter fails to meet the standards described in subsection (a)(1) or fails to address the communitywide strategic planning and needs assessment, the Secretary shall—
 
 &emsp;&emsp;(A) inform the agency of the deficiencies that shall be corrected and identify the assistance to be provided consistent with paragraph (3);
 
@@ -358,7 +358,7 @@
 
 #### (A) Goals
 
-&emsp;&emsp;An agency conducting a self-assessment shall establish agency-determined programgoals for improving the school readiness of children participating in a program under this subchapter, including school readiness goals that are aligned with the Head Start Child Outcomes Framework, State early learning standards as appropriate, and requirements and expectations of the schools the children will be attending.
+&emsp;&emsp;An agency conducting a self-assessment shall establish agency-determined program goals for improving the school readiness of children participating in a program under this subchapter, including school readiness goals that are aligned with the Head Start Child Outcomes Framework, State early learning standards as appropriate, and requirements and expectations of the schools the children will be attending.
 
 #### (B) Improvement plan
 
@@ -434,7 +434,7 @@
 
 &emsp;&emsp;The Secretary may, as appropriate, waive or reduce the percentage recapturing, withholding, or reduction otherwise required by subparagraph (A), if, after the implementation of the plan described in paragraph (3)(B), the Secretary finds that—
 
-&emsp;&emsp;&emsp;(i) the causes of the enrollment shortfall, or a portion of the shortfall, are related tothe agency's serving significant numbers of highly mobile children, or are other significant causes as determined by the Secretary;
+&emsp;&emsp;&emsp;(i) the causes of the enrollment shortfall, or a portion of the shortfall, are related to the agency's serving significant numbers of highly mobile children, or are other significant causes as determined by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) the shortfall can reasonably be expected to be temporary; or
 

@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with subparagraph (B), the Commission shall prescribe standards that specify the data elements for each swap that shall be collected and maintained by each registered swap data repository.
+&emsp;&emsp;In accordance with subparagraph (B), the Commission shall prescribe standards that specify the data elements for each swap thatshall be collected and maintained by each registered swap data repository.
 
 #### (B) Requirement
 
@@ -134,7 +134,7 @@ Before the swap data repository may share information with any entity described 
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officershall annually prepare and sign a report that contains a description of—
+&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officer shall annually prepare and sign a report that contains a description of—
 
 &emsp;&emsp;&emsp;(i) the compliance of the swap data repository of the chief compliance officer with respect to this chapter (including regulations); and
 

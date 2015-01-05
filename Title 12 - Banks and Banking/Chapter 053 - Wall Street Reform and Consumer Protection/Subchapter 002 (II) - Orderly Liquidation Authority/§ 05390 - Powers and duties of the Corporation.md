@@ -168,7 +168,7 @@
 
 #### (ii) Extension of time
 
-&emsp;&emsp;&emsp;By written agreement executed not later than 180 days after the date on which a claim against a covered financial company is filed with the Corporation, the period described in clause (i) may be extended by written agreement between the claimant and the Corporation. Failure to notify the claimant of any disallowance within the time period set forth in clause (i), as itmay be extended by agreement under this clause, shall be deemed to be a disallowance of such claim, and the claimant may file or continue an action in court, as provided in paragraph (4).
+&emsp;&emsp;&emsp;By written agreement executed not later than 180 days after the date on which a claim against a covered financial company is filed with the Corporation, the period described in clause (i) may be extended by written agreement between the claimant and the Corporation. Failure to notify the claimant of any disallowance within the time period set forth in clause (i), as it may be extended by agreement under this clause, shall be deemed to be a disallowance of such claim, and the claimant may file or continue an action in court, as provided in paragraph (4).
 
 #### (iii) Mailing of notice sufficient
 
@@ -254,7 +254,7 @@
 
 #### (C) Statute of limitations
 
-&emsp;&emsp;If any claimant fails to file suit on such claim (or to continue an action on such claim commenced before the date of appointment of the Corporation as receiver) prior to the end of the 60-day period described in subparagraph (B), the claim shall be deemed to be disallowed (other than any portion ofsuch claim which was allowed by the receiver) as of the end of such period, such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+&emsp;&emsp;If any claimant fails to file suit on such claim (or to continue an action on such claim commenced before the date of appointment of the Corporation as receiver) prior to the end of the 60-day period described in subparagraph (B), the claim shall be deemed to be disallowed (other than any portion of such claim which was allowed by the receiver) as of the end of such period, such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
 
 #### (5) Expedited determination of claims
 
@@ -426,7 +426,7 @@
 
 #### (A) Fraudulent transfers
 
-&emsp;&emsp;The Corporation, as receiver for any covered financial company, may avoid a transfer of any interest of the covered financialcompany in property, or any obligation incurred by the covered financial company, that was made or incurred at or within 2 years before the date on which the Corporation was appointed receiver, if—
+&emsp;&emsp;The Corporation, as receiver for any covered financial company, may avoid a transfer of any interest of the covered financial company in property, or any obligation incurred by the covered financial company, that was made or incurred at or within 2 years before the date on which the Corporation was appointed receiver, if—
 
 &emsp;&emsp;&emsp;(i) the covered financial company voluntarily or involuntarily—
 
@@ -508,7 +508,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the term "insider" has the same meaning as in section 101(31) of the Bankruptcy Code;
 
-&emsp;&emsp;&emsp;&emsp;(II) a transfer is made when such transfer is so perfected that a bona fide purchaser from the covered financial company against whom applicable law permits such transfer to be perfected cannot acquire an interest in the propertytransferred that is superior to the interest in such property of the transferee, but if such transfer is not so perfected before the date on which the Corporation is appointed as receiver for the covered financial company, such transfer is made immediately before the date of such appointment; and
+&emsp;&emsp;&emsp;&emsp;(II) a transfer is made when such transfer is so perfected that a bona fide purchaser from the covered financial company against whom applicable law permits such transfer to be perfected cannot acquire an interest in the property transferred that is superior to the interest in such property of the transferee, but if such transfer is not so perfected before the date on which the Corporation is appointed as receiver for the covered financial company, such transfer is made immediately before the date of such appointment; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the term "value" means property, or satisfaction or securing of a present or antecedent debt of the covered financial company, but does not include an unperformed promise to furnish support to the covered financial company; and
 
@@ -712,7 +712,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the date of the appointment of the Corporation as receiver; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any contract or agreement referred to in paragraph (8),the date of the disaffirmance or repudiation of such contract or agreement.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any contract or agreement referred to in paragraph (8), the date of the disaffirmance or repudiation of such contract or agreement.
 
 #### (B) No liability for other damages
 
@@ -954,7 +954,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) means any option to enter into any agreement or transaction referred to in subclause (I) or (III);
 
-&emsp;&emsp;&emsp;&emsp;(V) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this clause, except that the master agreement shall be considered to be a repurchase agreement under this subclause only with respect to each agreement or transaction under the master agreementthat is referred to in subclause (I), (III), or (IV); and
+&emsp;&emsp;&emsp;&emsp;(V) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this clause, except that the master agreement shall be considered to be a repurchase agreement under this subclause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), or (IV); and
 
 &emsp;&emsp;&emsp;&emsp;(VI) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
@@ -1000,7 +1000,7 @@
 
 #### (ix) Transfer
 
-&emsp;&emsp;&emsp;The term "transfer" means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing ofor parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the equity of redemption of the covered financial company.
+&emsp;&emsp;&emsp;The term "transfer" means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the equity of redemption of the covered financial company.
 
 #### (x) Person
 
@@ -1048,7 +1048,7 @@
 
 #### (iv) Categorization and tiering
 
-&emsp;&emsp;&emsp;The joint regulations prescribed under clause (i) shall, as appropriate, differentiate among financial companies by taking into consideration their size, risk, complexity, leverage, frequency and dollaramount of qualified financial contracts, interconnectedness to the financial system, and any other factors deemed appropriate.
+&emsp;&emsp;&emsp;The joint regulations prescribed under clause (i) shall, as appropriate, differentiate among financial companies by taking into consideration their size, risk, complexity, leverage, frequency and dollar amount of qualified financial contracts, interconnectedness to the financial system, and any other factors deemed appropriate.
 
 #### (9) Transfer of qualified financial contracts
 
@@ -1056,7 +1056,7 @@
 
 &emsp;&emsp;In making any transfer of assets or liabilities of a covered financial company in default, which includes any qualified financial contract, the Corporation as receiver for such covered financial company shall either—
 
-&emsp;&emsp;&emsp;(i) transfer to one financial institution, other than a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding—
+&emsp;&emsp;&emsp;(i) transfer to one financial institution, other than a financial institution forwhich a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding—
 
 &emsp;&emsp;&emsp;&emsp;(I) all qualified financial contracts between any person or any affiliate of such person and the covered financial company in default;
 
@@ -1112,7 +1112,7 @@
 
 #### (ii) Notice
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the Corporation as receiver for a covered financialcompany shall be deemed to have notified a person who is a party to a qualified financial contract with such covered financial company, if the Corporation has taken steps reasonably calculated to provide notice to such person by the time specified in subparagraph (A).
+&emsp;&emsp;&emsp;For purposes of this paragraph, the Corporation as receiver for a covered financial company shall be deemed to have notified a person who is a party to a qualified financial contract with such covered financial company, if the Corporation has taken steps reasonably calculated to provide notice to such person by the time specified in subparagraph (A).
 
 #### (C) Treatment of bridge financial company
 
@@ -1242,7 +1242,7 @@ Except as provided in this subchapter, no court may take any action to restrain 
 
 #### (1) In general
 
-&emsp;A director or officer of a covered financial company may be held personally liable for monetary damages in any civil action described in paragraph (2) by, on behalf of, or at the request or direction of the Corporation, which action is prosecuted wholly or partially for the benefit of the Corporation—
+&emsp;A director or officer of a covered financial company may be held personally liable formonetary damages in any civil action described in paragraph (2) by, on behalf of, or at the request or direction of the Corporation, which action is prosecuted wholly or partially for the benefit of the Corporation—
 
 &emsp;&emsp;(A) acting as receiver for such covered financial company;
 
@@ -1306,11 +1306,11 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of Federal or State law, the Corporation mayprovide for a bridge financial company to succeed to and assume any rights, powers, authorities, or privileges of the covered financial company with respect to which the bridge financial company was established and, upon such determination by the Corporation, the bridge financial company shall immediately and by operation of law succeed to and assume such rights, powers, authorities, and privileges.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of Federal or State law, the Corporation may provide for a bridge financial company to succeed to and assume any rights, powers, authorities, or privileges of the covered financial company with respect to which the bridge financial company was established and, upon such determination by the Corporation, the bridge financial company shall immediately and by operation of law succeed to and assume such rights, powers, authorities, and privileges.
 
 #### (ii) Effective without approval
 
-&emsp;&emsp;&emsp;Any succession to or assumption by a bridge financial company of rights, powers, authorities, or privileges of a covered financial company under clause (i) or otherwise shall be effective without any further approval under Federal or State law, assignment, or consent with respect thereto.
+&emsp;&emsp;&emsp;Any succession to or assumption by a bridge financial company of rights, powers, authorities, or privileges of a coveredfinancial company under clause (i) or otherwise shall be effective without any further approval under Federal or State law, assignment, or consent with respect thereto.
 
 #### (F) Corporate governance and election and designation of body of law
 
@@ -1362,9 +1362,9 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 &emsp;Notwithstanding paragraph (1) or (2) or any other provision of law—
 
-&emsp;&emsp;(A) a bridge financial company shall assume, acquire, or succeed to the assets or liabilities of a covered financial company (including the assets or liabilities associatedwith any trust or custody business) only to the extent that such assets or liabilities are transferred by the Corporation to the bridge financial company in accordance with, and subject to the restrictions set forth in, paragraph (1)(B); and
+&emsp;&emsp;(A) a bridge financial company shall assume, acquire, or succeed to the assets or liabilities of a covered financial company (including the assets or liabilities associated with any trust or custody business) only to the extent that such assets or liabilities are transferred by the Corporation to the bridge financial company in accordance with, and subject to the restrictions set forth in, paragraph (1)(B); and
 
-&emsp;&emsp;(B) a bridge financial company shall not assume, acquire, or succeed to any obligation that a covered financial company for which the Corporation has been appointed receiver may have to any shareholder, member, general partner, limited partner, or other person with an interest in the equity of the covered financial company that arises as a result of the status of that person having an equity claim in the covered financial company.
+&emsp;&emsp;(B) a bridge financial company shall not assume, acquire, or succeed to any obligation that a covered financial company for which the Corporation has been appointed receiver may have to any shareholder, member, general partner, limited partner, or other person with an interest in the equity of the covered financial company that arisesas a result of the status of that person having an equity claim in the covered financial company.
 
 #### (4) Bridge financial company treated as being in default for certain purposes
 
@@ -1472,11 +1472,11 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (B) Charter conversion
 
-&emsp;&emsp;Following the sale of a majority of the capital stock of the bridge financial company, as provided in paragraph (13)(B), the Corporation may amend the charter of the bridge financial company to reflect the termination of the status of the bridge financial company as such, whereupon the company shall have all of the rights, powers, and privileges under its constituent documents and applicable Federal or State law. In connection therewith, the Corporation may take such steps as may be necessary or convenient to reincorporate the bridge financial company under the laws of a State and, notwithstanding any provisions of Federal orState law, such State-chartered corporation shall be deemed to succeed by operation of law to such rights, titles, powers, and interests of the bridge financial company as the Corporation may provide, with the same effect as if the bridge financial company had merged with the State-chartered corporation under provisions of the corporate laws of such State.
+&emsp;&emsp;Following the sale of a majority of the capital stock of the bridge financial company, as provided in paragraph (13)(B), the Corporation may amend the charter of the bridge financial company to reflect the termination of the status of the bridge financial company as such, whereupon the company shall have all of the rights, powers, and privileges under its constituent documents and applicable Federal or State law. In connection therewith, the Corporation may take such steps as may be necessary or convenient to reincorporate the bridge financial company under the laws of a State and, notwithstanding any provisions of Federal or State law, such State-chartered corporation shall be deemed to succeed by operation of law to such rights, titles, powers, and interests of the bridge financial company as the Corporation may provide, with the same effect as if the bridge financial company had merged with the State-chartered corporation under provisions of the corporate laws of such State.
 
 #### (C) Sale of stock
 
-&emsp;&emsp;Following the sale of 80 percent or more of the capital stock of a bridge financial company, as provided in paragraph (13)(C), the company shall have all of the rights, powers, and privileges under its constituent documents and applicable Federal or State law. In connection therewith, the Corporation may take such steps as may be necessary or convenient to reincorporate the bridge financial company under the laws of a State and, notwithstanding any provisions of Federal or State law, the State-chartered corporation shall be deemed to succeed by operation of law to such rights, titles, powers and interests of the bridge financial company as the Corporation may provide, with the same effect as if the bridge financial company had merged with the State-chartered corporation under provisions of the corporate laws of such State.
+&emsp;&emsp;Following the sale of 80 percent or more of the capital stock of a bridge financial company, as provided in paragraph (13)(C), thecompany shall have all of the rights, powers, and privileges under its constituent documents and applicable Federal or State law. In connection therewith, the Corporation may take such steps as may be necessary or convenient to reincorporate the bridge financial company under the laws of a State and, notwithstanding any provisions of Federal or State law, the State-chartered corporation shall be deemed to succeed by operation of law to such rights, titles, powers and interests of the bridge financial company as the Corporation may provide, with the same effect as if the bridge financial company had merged with the State-chartered corporation under provisions of the corporate laws of such State.
 
 #### (D) Assumption of liabilities and sale of assets
 
@@ -1536,7 +1536,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (E) Qualified financial contracts
 
-&emsp;&emsp;No credit or debt obtained or issued by a bridge financial company may contain terms that impair the rights of a counterparty to a qualified financial contract upon a default by the bridge financial company, other than the priority of such counterparty's unsecured claim (after the exercise of rights) relative to the priority of the bridge financial company's obligations in respect of such credit or debt, unless such counterparty consents in writing to any such impairment.
+&emsp;&emsp;No credit or debt obtained or issued by a bridge financial company may contain terms that impair the rights of a counterparty to a qualified financial contract upon a default by the bridge financial company, other than the priority of such counterparty's unsecured claim (after the exercise of rights) relative to the priority of the bridge financial company's obligations in respect of suchcredit or debt, unless such counterparty consents in writing to any such impairment.
 
 #### (17) Effect on debts and liens
 
@@ -1594,7 +1594,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (1) Establishment
 
-&emsp;There is established in the Treasury of the United States a separate fund to be known asthe "Orderly Liquidation Fund", which shall be available to the Corporation to carry out the authorities contained in this subchapter, for the cost of actions authorized by this subchapter, including the orderly liquidation of covered financial companies, payment of administrative expenses, the payment of principal and interest by the Corporation on obligations issued under paragraph (5), and the exercise of the authorities of the Corporation under this subchapter.
+&emsp;There is established in the Treasury of the United States a separate fund to be known as the "Orderly Liquidation Fund", which shall be available to the Corporation to carry out the authorities contained in this subchapter, for the cost of actions authorized by this subchapter, including the orderly liquidation of covered financial companies, payment of administrative expenses, the payment of principal and interest by the Corporation on obligations issued under paragraph (5), and the exercise of the authorities of the Corporation under this subchapter.
 
 #### (2) Proceeds
 
@@ -1728,7 +1728,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 &emsp;&emsp;To meet the requirements of subparagraph (B), the Corporation shall—
 
-&emsp;&emsp;&emsp;(i) impose assessments, as soon as practicable, on any claimant that received additional payments or amounts from theCorporation pursuant to subsection (b)(4), (d)(4), or (h)(5)(E), except for payments or amounts necessary to initiate and continue operations essential to implementation of the receivership or any bridge financial company, to recover on a cumulative basis, the entire difference between—
+&emsp;&emsp;&emsp;(i) impose assessments, as soon as practicable, on any claimant that received additional payments or amounts from the Corporation pursuant to subsection (b)(4), (d)(4), or (h)(5)(E), except for payments or amounts necessary to initiate and continue operations essential to implementation of the receivership or any bridge financial company, to recover on a cumulative basis, the entire difference between—
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate value the claimant received from the Corporation on a claim pursuant to this subchapter (including pursuant to subsection <sup>4</sup> (b)(4), (d)(4), and (h)(5)(E)), as of the date on which such value was received; and
 
@@ -1862,7 +1862,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 &emsp;&emsp;(B) any person who participated, as an officer or director of such covered financial company or of any affiliate of such company, in a material way in any transaction that resulted in a substantial loss to such covered financial company; or
 
-&emsp;&emsp;(C) any person who has demonstrated a pattern or practice of defalcation regardingobligations to such covered financial company.
+&emsp;&emsp;(C) any person who has demonstrated a pattern or practice of defalcation regarding obligations to such covered financial company.
 
 #### (2) Convicted debtors
 

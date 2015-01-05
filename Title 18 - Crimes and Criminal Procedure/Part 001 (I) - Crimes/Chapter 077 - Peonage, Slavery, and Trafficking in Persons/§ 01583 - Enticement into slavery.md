@@ -38,5 +38,5 @@ Minor changes were made in paragraphing of section.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 218(d) of Pub. L. 104–208, set out as a note under section 1581 of this title.
+Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, seesection 218(d) of Pub. L. 104–208, set out as a note under section 1581 of this title.
 

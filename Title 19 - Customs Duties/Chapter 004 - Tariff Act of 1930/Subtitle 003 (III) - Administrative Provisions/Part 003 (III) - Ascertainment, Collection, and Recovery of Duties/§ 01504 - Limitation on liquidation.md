@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) if a reconciliation is filed, or should have been filed, the date of the filing under section 1484 of this title or the date the reconciliation should have been filed, whichever is earlier; or
 
-&emsp;&emsp;(E) <sup>1</sup> if a reconfigured entry is filed under an import activity summary statement, thedate the import activity summary statement is filed or should have been filed, whichever is earlier;
+&emsp;&emsp;(E) <sup>1</sup> if a reconfigured entry is filed under an import activity summary statement, the date the import activity summary statement is filed or should have been filed, whichever is earlier;
 
 > &emsp;shall be deemed liquidated at the rate of duty, value, quantity, and amount of duties asserted by the importer of record. Notwithstanding section 1500(e) of this title, notice of liquidation need not be given of an entry deemed liquidated.
 
@@ -48,7 +48,7 @@ The Secretary of the Treasury may extend the period in which to liquidate an ent
 
 #### (c) Notice of suspension
 
-If the liquidation of any entry is suspended, the Secretary shall by regulation require that notice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record or drawback claimant, as the case may be, and to any authorized agent and surety of such importer of record or drawback claimant.
+If the liquidation of any entry is suspended, the Secretary shall by regulation require thatnotice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record or drawback claimant, as the case may be, and to any authorized agent and surety of such importer of record or drawback claimant.
 
 #### (d) Removal of suspension
 
@@ -64,7 +64,7 @@ A prior section 1504, act June 17, 1930, ch. 497, title IV, §504, 46 Stat. 732,
 
 <b>2004</b>—Pub. L. 108–429, §2102(2), struck out "at the time of entry" after "duties asserted" in subsec. (a)(1) (concluding provisions), after "asserted by the claimant" in subsec. (a)(2)(A), and after "of duty asserted" and "drawback amount asserted" in subsecs. (b) (concluding provisions) and (d).
 
-Subsec. (a). Pub. L. 108–429, §2102(1), which directed striking "or" at end of par. (3), substituting "filed, whichever is earlier; or" for "filed;" in par. (4), and adding par. (5) after par. (4), was executed by striking"or" at end of par. (1)(C), substituting "filed, whichever is earlier; or" for "filed," in par. (1)(D), and adding the text of par. (5) after par. (1)(D) and editorially redesignating it as par. (1)(E). Pub. L. 108–429, §2102(1), was technically incapable of execution subsequent to the amendments by Pub. L. 108–429, §1563(e)(1). See below.
+Subsec. (a). Pub. L. 108–429, §2102(1), which directed striking "or" at end of par. (3), substituting "filed, whichever is earlier; or" for "filed;" in par. (4), and adding par. (5) after par. (4), was executed by striking "or" at end of par. (1)(C), substituting "filed, whichever is earlier; or" for "filed," in par. (1)(D), and adding the text of par. (5) after par. (1)(D) and editorially redesignating it as par. (1)(E). Pub. L. 108–429, §2102(1), was technically incapable of execution subsequent to the amendments by Pub. L. 108–429, §1563(e)(1). See below.
 
 Pub. L. 108–429, §1563(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Unless an entry is extended under subsection (b) of this section or suspended as required by statute or court order, except as provided in section 1675(a)(3) of this title, an entry of merchandise not liquidated within one year from:
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to articles entered on or after 15th day after Oct. 30,1984, see section 195(a) of Pub. L. 98–573, set out as a note under section 1322 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to articles entered on or after 15th day after Oct. 30, 1984, see section 195(a) of Pub. L. 98–573, set out as a note under section 1322 of this title.
 
 #### Effective Date
 

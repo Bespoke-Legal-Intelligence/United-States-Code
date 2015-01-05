@@ -26,7 +26,7 @@
 
 &emsp;(2) costs incurred by the District of Columbia government may be paid from amounts available to the United States Government officer or employee to whom the services were provided.
 
-(d) When requested by the Director of the United States Secret Service, the Chief of the Metropolitan Police shall assist the Secret Service and the Secret Service Uniformed Divisionon a non-reimbursable basis in carrying out their protective duties under sections 3056 and 3056A of title 18.
+(d) When requested by the Director of the United States Secret Service, the Chief of the Metropolitan Police shall assist the Secret Service and the Secret Service Uniformed Division on a non-reimbursable basis in carrying out their protective duties under sections 3056 and 3056A of title 18.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 934; Pub. L. 109–177, title VI, §605(d)(1), Mar. 9, 2006, 120 Stat. 255.)
 

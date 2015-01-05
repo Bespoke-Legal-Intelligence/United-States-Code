@@ -4,7 +4,7 @@
 
 &emsp;(1) $10,000; or
 
-&emsp;(2) an amount equal to 1 percent of the agency's cost savings which the Inspector General, or other employee designated under subsection (b), determines to be the total savings attributable to the employee's disclosure.
+&emsp;(2) an amount equal to 1 percent of the agency's cost savings which the Inspector General, or other employee designated under subsection\(b), determines to be the total savings attributable to the employee's disclosure.
 
 > For purposes of paragraph (2), the Inspector General or other designated employee may take into account agency cost savings projected for subsequent fiscal years which will be attributable to such disclosure.
 

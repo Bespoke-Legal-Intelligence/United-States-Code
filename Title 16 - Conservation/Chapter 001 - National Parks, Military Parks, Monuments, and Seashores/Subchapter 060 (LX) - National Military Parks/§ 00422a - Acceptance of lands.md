@@ -10,5 +10,5 @@ The establishment of the Moores Creek National Battlefield shall be carried forw
 
 #### Transfer of Functions
 
-Administrative functions of Moores Creek National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as a noteunder section 901 of Title 5, Government Organization and Employees.
+Administrative functions of Moores Creek National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as a note under section 901 of Title 5, Government Organization and Employees.
 

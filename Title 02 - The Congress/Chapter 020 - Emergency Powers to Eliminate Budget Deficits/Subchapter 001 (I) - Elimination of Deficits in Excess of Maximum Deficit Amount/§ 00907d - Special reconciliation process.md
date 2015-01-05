@@ -32,11 +32,11 @@
 
 #### (6) Treatment of certain amendments
 
-&emsp;In the Senate, an amendment which adds to a resolution reported under paragraph (2) an instruction of the type referred to in suchparagraph shall be in order during the consideration of such resolution if such amendment would be in order but for the fact that it would be held to be non-germane on the basis that the instruction constitutes new matter.
+&emsp;In the Senate, an amendment which adds to a resolution reported under paragraph (2) an instruction of the type referred to in such paragraph shall be in order during the consideration of such resolution if such amendment would be in order but for the fact that it would be held to be non-germane on the basis that the instruction constitutes new matter.
 
-#### (7) “Day” defined
+#### (7) "Day" defined
 
-&emsp;For purposes of paragraphs (1), (2), and (3), the term “day” shall mean any calendar day on which the Senate is in session.
+&emsp;For purposes of paragraphs (1), (2), and (3), the term "day" shall mean any calendar day on which the Senate is in session.
 
 #### (b) Procedures
 
@@ -46,7 +46,7 @@
 
 #### (2) Limit on debate
 
-&emsp;Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
+&emsp;Debate in the Senate on any resolution reported pursuant to subsection (a)(2), and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
 
 #### (3) Limitation on amendments
 
@@ -56,9 +56,9 @@
 
 &emsp;Any bill or resolution received in the Senate from the House, which is a companion to a reconciliation bill or reconciliation resolution of the Senate for the purposes of this subsection, shall be considered in the Senate pursuant to the provisions of this subsection.
 
-#### (5) “Resolution” defined
+#### (5) "Resolution" defined
 
-&emsp;For purposes of this subsection, the term “resolution” means a simple, joint, or concurrent resolution.
+&emsp;For purposes of this subsection, the term "resolution" means a simple, joint, or concurrent resolution.
 
 (Pub. L. 99–177, title II, §258C, as added Pub. L. 101–508, title XIII, §13101(g), Nov. 5, 1990, 104 Stat. 1388–600.)
 

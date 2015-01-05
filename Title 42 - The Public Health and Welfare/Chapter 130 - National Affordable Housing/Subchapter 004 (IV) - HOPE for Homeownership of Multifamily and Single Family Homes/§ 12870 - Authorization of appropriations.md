@@ -38,7 +38,7 @@ The United States Housing Act of 1937, referred to in subsecs. (a)(1), (b)(1), a
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–281 struck out the second sentence, which read as follows: "Of the amountsappropriated pursuant to this subsection, up to $40,000,000, but not less than 5 percent, shall be available for activities authorized under part C of this subchapter."
+<b>2006</b>—Subsec. (a). Pub. L. 109–281 struck out the second sentence, which read as follows: "Of the amounts appropriated pursuant to this subsection, up to $40,000,000, but not less than 5 percent, shall be available for activities authorized under part C of this subchapter."
 
 Subsec. (b). Pub. L. 109–281 struck out the second sentence, which read as follows: "Of the amounts appropriated pursuant to this subsection, up to $41,680,000, but not less than 5 percent, shall be available for activities authorized under part C of this subchapter."
 

@@ -24,11 +24,11 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) standard informational material related to a loan, default aversion, default prevention, or financial literacy;
 
-&emsp;&emsp;&emsp;(ii) food, refreshments, training, or informational material furnished to an officer, employee, or agent of a covered educational institution, as an integral part of a training session or through participation in an advisory council that is designed to improve the service of the private educational lender to the covered educational institution, if such training or participation contributes to the professional development of the officer, employee, or agent of the covered educational institution;
+&emsp;&emsp;&emsp;(ii) food, refreshments, training, or informational material furnished to an officer,employee, or agent of a covered educational institution, as an integral part of a training session or through participation in an advisory council that is designed to improve the service of the private educational lender to the covered educational institution, if such training or participation contributes to the professional development of the officer, employee, or agent of the covered educational institution;
 
 &emsp;&emsp;&emsp;(iii) favorable terms, conditions, and borrower benefits on a private education loan provided to a student employed by the covered educational institution, if such terms, conditions, or benefits are not provided because of the student's employment with the covered educational institution;
 
-&emsp;&emsp;&emsp;(iv) the provision of financial literacy counseling or services, including counseling or services provided in coordinationwith a covered educational institution, to the extent that such counseling or services are not undertaken to secure—
+&emsp;&emsp;&emsp;(iv) the provision of financial literacy counseling or services, including counseling or services provided in coordination with a covered educational institution, to the extent that such counseling or services are not undertaken to secure—
 
 &emsp;&emsp;&emsp;&emsp;(I) applications for private education loans or private education loan volume;
 

@@ -32,7 +32,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 #### (1) In general
 
-&emsp;The Deputy Director shall ensure that a portion of the tribal set-aside funds from any grant awarded under this Act, the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), or the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491) is used to enhance the capacity of Indian tribes to address the safety of Indian women.
+&emsp;The Deputy Director shall ensure that a portion of the tribal set-aside funds from anygrant awarded under this Act, the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), or the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491) is used to enhance the capacity of Indian tribes to address the safety of Indian women.
 
 #### (2) Accountability
 

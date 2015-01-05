@@ -34,7 +34,7 @@ Owner Manual Requirements.—In amending Standard 208, the Secretary of Transpor
 
 &emsp;(2) the "airbag" is a supplemental restraint and is not a substitute for lap and shoulder belts;
 
-&emsp;(3) lap and shoulder belts also must be used correctly by an occupant in a front outboardseating position to provide restraint or protection from frontal crashes as well as other types of crashes or accidents; and
+&emsp;(3) lap and shoulder belts also must be used correctly by an occupant in a front outboard seating position to provide restraint or protection from frontal crashes as well as other types of crashes or accidents; and
 
 &emsp;(4) occupants should always wear their lap and shoulder belts, if available, or other safety belts, whether or not there is an inflatable restraint.
 
@@ -58,7 +58,7 @@ Temporary Exemptions.—(1) On application of a manufacturer, the Secretary of T
 
 (f)
 
-Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automatic crash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
+Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automaticcrash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
 
 &emsp;(A) affecting another provision of law carried out by the Secretary of Transportation applicable to passenger cars, buses, multipurpose passenger vehicles, or trucks; or
 
@@ -176,7 +176,7 @@ In subsection (h)(2), the words "for both front outboard seating positions" are 
 
 #### References in Text
 
-The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
+The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed byPub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
 
 #### Amendments
 
@@ -240,7 +240,7 @@ Final Rule.—
 
 &emsp;"(1)
 
-In general.—Except as provided under paragraph (2) and section 31505 \[set out as a note below\],the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
+In general.—Except as provided under paragraph (2) and section 31505 \[set out as a note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
 
 &emsp;"(2)
 
@@ -454,7 +454,7 @@ Notice of proposed rulemaking.—Not later than September 1, 1998, the Secretary
 
 &emsp;"(2)
 
-Final rule.—Notwithstanding any other provision of law, the Secretary shall complete the rulemaking required by this subsection by issuing, not later than September 1, 1999, a final rule with any provision the Secretary deems appropriate, consistent with paragraph (1) and the requirements of section 30111, title 49, United States Code. If the Secretary determines that the final rule cannot be completed by that date to meet the purposes of paragraph\(1), the Secretary may extend the date for issuing the final rule to not later than March 1, 2000.
+Final rule.—Notwithstanding any other provision of law, the Secretary shall complete the rulemaking required by this subsection by issuing, not later than September 1, 1999, a final rule with any provision the Secretary deems appropriate, consistent with paragraph (1) and the requirements of section 30111, title 49, United States Code. If the Secretary determines that the final rule cannot be completed by that date to meet the purposes of paragraph (1), the Secretary may extend the date for issuing the final rule to not later than March 1, 2000.
 
 &emsp;"(3)
 

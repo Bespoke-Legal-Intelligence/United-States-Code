@@ -78,7 +78,7 @@ Subsection (a) shall not apply—
 
 #### (A) Distributed to seller
 
-&emsp;&emsp;Stock (other than common stock issued with respect to common stock) which was distributed to the shareholder selling or otherwise disposing of such stock if, by reason of section 305(a), any part of such distribution was not includible in the gross income of the shareholder.
+&emsp;&emsp;Stock (other than common stock issued with respect to common stock) which wasdistributed to the shareholder selling or otherwise disposing of such stock if, by reason of section 305(a), any part of such distribution was not includible in the gross income of the shareholder.
 
 #### (B) Received in a corporate reorganization or separation
 
@@ -128,7 +128,7 @@ For purposes of subsection (c)—
 
 #### (f) Source of gain
 
-The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under thepreceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
+The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under the preceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
 
 #### (g) Change in terms and conditions of stock
 

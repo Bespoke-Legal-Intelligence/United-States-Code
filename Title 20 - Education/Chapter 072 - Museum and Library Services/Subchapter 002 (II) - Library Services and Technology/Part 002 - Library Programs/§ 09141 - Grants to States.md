@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Of the funds provided to a State library administrative agency under section 9123 of this title, such agency shall expend, either directly or through subgrants or cooperative agreements, at least 96 percent of such funds for—
+Of the funds provided to a State library administrative agency under section 9123 of thistitle, such agency shall expend, either directly or through subgrants or cooperative agreements, at least 96 percent of such funds for—
 
 &emsp;(1) expanding services for learning and access to information and educational resources in a variety of formats, in all types of libraries, for individuals of all ages in order to support such individuals' needs for education, lifelong learning, workforce development, and digital literacy skills;
 

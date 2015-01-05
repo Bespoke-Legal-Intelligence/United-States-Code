@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Senate Commission on Art (referred to in this section as the “Commission”) may—
+&emsp;The Senate Commission on Art (referred to in this section as the "Commission") may—
 
 &emsp;&emsp;(A) accept gifts of money; and
 
@@ -70,7 +70,7 @@
 
 #### (5) Terms for additional advisory board members
 
-&emsp;Members appointed to the other advisory boards created under paragraph (2) shall servefor terms as stated in their appointment, but no longer than a term of 4 years, except that any member may be reappointed upon the expiration of their term.
+&emsp;Members appointed to the other advisory boards created under paragraph (2) shall serve for terms as stated in their appointment, but no longer than a term of 4 years, except that any member may be reappointed upon the expiration of their term.
 
 #### (6) Regulations
 
@@ -84,21 +84,21 @@
 
 #### (1) Establishment
 
-&emsp;There is established in the Treasury a fund, to be known as the “Senate Preservation Fund” (in this section referred to as the “fund”), which shall consist of amounts deposited and credited under paragraph (3).
+&emsp;There is established in the Treasury a fund, to be known as the "Senate Preservation Fund" (in this section referred to as the "fund"), which shall consist of amounts deposited and credited under paragraph (3).
 
 #### (2) Payment of costs
 
-&emsp;The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a) of this section, for official activities of any advisory board established under subsection (b) of this section, for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
+&emsp;The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a), for official activities of any advisory board established under subsection (b), for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
 
 #### (3) Deposits, credits, and disbursements
 
 #### (A) Deposits
 
-&emsp;&emsp;The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a) of this section.
+&emsp;&emsp;The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a).
 
 #### (B) Credits
 
-&emsp;&emsp;The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund.
+&emsp;&emsp;The Secretary of the Treasury shall credit to the fund the interest on, and the proceedsfrom sale or redemption of, obligations held in the fund.
 
 #### (C) Disbursements
 
@@ -136,7 +136,7 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(6). Pub. L. 112–234 substituted “periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date,” for “annual audits of the Senate Preservation Fund”.
+<b>2012</b>—Subsec. (c)(6). Pub. L. 112–234 substituted "periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date," for "annual audits of the Senate Preservation Fund".
 
-<b>2005</b>—Subsec. (c)(2). Pub. L. 109–55 substituted “for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities” for “and for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title”.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–55 substituted "for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities" for "and for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title".
 

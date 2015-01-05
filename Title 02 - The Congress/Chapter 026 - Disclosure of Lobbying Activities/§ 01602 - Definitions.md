@@ -4,15 +4,15 @@ As used in this chapter:
 
 #### (1) Agency
 
-&emsp;The term “agency” has the meaning given that term in section 551(1) of title 5.
+&emsp;The term "agency" has the meaning given that term in section 551(1) of title 5.
 
 #### (2) Client
 
-&emsp;The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+&emsp;The term "client" means any person or entity that employs or retains another personfor financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
 
 #### (3) Covered executive branch official
 
-&emsp;The term “covered executive branch official” means—
+&emsp;The term "covered executive branch official" means—
 
 &emsp;&emsp;(A) the President;
 
@@ -28,7 +28,7 @@ As used in this chapter:
 
 #### (4) Covered legislative branch official
 
-&emsp;The term “covered legislative branch official” means—
+&emsp;The term "covered legislative branch official" means—
 
 &emsp;&emsp;(A) a Member of Congress;
 
@@ -50,7 +50,7 @@ As used in this chapter:
 
 #### (5) Employee
 
-&emsp;The term “employee” means any individual who is an officer, employee, partner, director, or proprietor of a person or entity, but does not include—
+&emsp;The term "employee" means any individual who is an officer, employee, partner, director, or proprietor of a person or entity, but does not include—
 
 &emsp;&emsp;(A) independent contractors; or
 
@@ -58,17 +58,17 @@ As used in this chapter:
 
 #### (6) Foreign entity
 
-&emsp;The term “foreign entity” means a foreign principal (as defined in section 1(b) of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611(b)).
+&emsp;The term "foreign entity" means a foreign principal (as defined in section 1(b) of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611(b)).
 
 #### (7) Lobbying activities
 
-&emsp;The term “lobbying activities” means lobbying contacts and efforts in support of such contacts, including preparation and planning activities, research and other background work that is intended, at the time it is performed, for use in contacts, and coordination with the lobbying activities of others.
+&emsp;The term "lobbying activities" means lobbying contacts and efforts in support of such contacts, including preparation and planning activities, research and other background work that is intended, at the time it is performed, for use in contacts, and coordination with the lobbying activities of others.
 
 #### (8) Lobbying contact
 
 #### (A) Definition
 
-&emsp;&emsp;The term “lobbying contact” means any oral or written communication (including an electronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—
+&emsp;&emsp;The term "lobbying contact" means any oral or written communication (including an electronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—
 
 &emsp;&emsp;&emsp;(i) the formulation, modification, or adoption of Federal legislation (including legislative proposals);
 
@@ -80,7 +80,7 @@ As used in this chapter:
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “lobbying contact” does not include a communication that is—
+&emsp;&emsp;The term "lobbying contact" does not include a communication that is—
 
 &emsp;&emsp;&emsp;(i) made by a public official acting in the public official's official capacity;
 
@@ -98,7 +98,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(viii) information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
 
-&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
+&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelledby statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
 
 &emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
 
@@ -122,7 +122,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) a covered executive branch official, or
 
-&emsp;&emsp;&emsp;&emsp;(II) a covered legislative branch official (other than the individual's elected Members of Congress or employees who work under such Members’ direct supervision),
+&emsp;&emsp;&emsp;&emsp;(II) a covered legislative branch official (other than the individual's elected Members of Congress or employees who work under such Members' direct supervision),
 
 &emsp;&emsp;&nbsp;with respect to the formulation, modification, or adoption of private legislation for the relief of that individual;
 
@@ -144,31 +144,31 @@ As used in this chapter:
 
 #### (9) Lobbying firm
 
-&emsp;The term “lobbying firm” means a person or entity that has 1 or more employees who are lobbyists on behalf of a client other than that person or entity. The term also includes a self-employed individual who is a lobbyist.
+&emsp;The term "lobbying firm" means a person or entity that has 1 or more employees who are lobbyists on behalf of a client other than that person or entity. The term also includes a self-employed individual who is a lobbyist.
 
 #### (10) Lobbyist
 
-&emsp;The term “lobbyist” means any individual who is employed or retained by a client for financial or other compensation for services that include more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a 3-month period.
+&emsp;The term "lobbyist" means any individual who is employed or retained by a client for financial or other compensation for services that include more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a 3-month period.
 
 #### (11) Media organization
 
-&emsp;The term “media organization” means a person or entity engaged in disseminating information to the general public through a newspaper, magazine, other publication, radio, television, cable television, or other medium of mass communication.
+&emsp;The term "media organization" means a person or entity engaged in disseminating information to the general public through a newspaper, magazine, other publication, radio, television, cable television, or other medium of mass communication.
 
 #### (12) Member of Congress
 
-&emsp;The term “Member of Congress” means a Senator or a Representative in, or Delegate or Resident Commissioner to, the Congress.
+&emsp;The term "Member of Congress" means a Senator or a Representative in, or Delegate or Resident Commissioner to, the Congress.
 
 #### (13) Organization
 
-&emsp;The term “organization” means a person or entity other than an individual.
+&emsp;The term "organization" means a person or entity other than an individual.
 
 #### (14) Person or entity
 
-&emsp;The term “person or entity” means any individual, corporation, company, foundation, association, labor organization, firm, partnership, society, joint stock company, group of organizations, or State or local government.
+&emsp;The term "person or entity" means any individual, corporation, company, foundation, association, labor organization, firm, partnership, society, joint stock company, group of organizations, or State or local government.
 
 #### (15) Public official
 
-&emsp;The term “public official” means any elected official, appointed official, or employee of—
+&emsp;The term "public official" means any elected official, appointed official, or employee of—
 
 &emsp;&emsp;(A) a Federal, State, or local unit of government in the United States other than—
 
@@ -194,13 +194,13 @@ As used in this chapter:
 
 #### (16) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+&emsp;The term "State" means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (Pub. L. 104–65, §3, Dec. 19, 1995, 109 Stat. 691; Pub. L. 105–166, §§2, 3, Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, §201(b)(1), Sept. 14, 2007, 121 Stat. 742.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 Levels I, II, III, IV, and V of the Executive Schedule, referred to in par. (3)(D), are set out in sections 5312, 5313, 5314, 5315, and 5316, respectively, of Title 5, Government Organization and Employees.
 
@@ -220,17 +220,17 @@ The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 19
 
 #### Amendments
 
-<b>2007</b>—Par. (10). Pub. L. 110–81 substituted “3-month period” for “six month period”.
+<b>2007</b>—Par. (10). Pub. L. 110–81 substituted "3-month period" for "six month period".
 
-<b>1998</b>—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
+<b>1998</b>—Par. (3)(F). Pub. L. 105–166, §2, substituted "7511(b)(2)(B)" for "7511(b)(2)".
 
-Par. (8)(B)(ix). Pub. L. 105–166, §3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
+Par. (8)(B)(ix). Pub. L. 105–166, §3(a), inserted before semicolon at end ", including any communication compelled by a Federal contract, grant, loan, permit, or license".
 
-Par. (15)(F). Pub. L. 105–166, §3(b), inserted before period at end “, or a group of governments acting together as an international organization”.
+Par. (15)(F). Pub. L. 105–166, §3(b), inserted before period at end ", or a group of governments acting together as an international organization".
 
 #### Effective Date of 2007 Amendment
 
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 434 of this title.
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

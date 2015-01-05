@@ -102,7 +102,7 @@ One-time Authority to Transfer.—The Secretary of the Navy may transfer, to Pia
 
 "(d)
 
-Applicable Law.—The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limitedto, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], continued under Executive Order 12924 \[listed in a table under 50 U.S.C. 1701\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[act June 15, 1917, ch. 30, 40 Stat. 217, see Tables for classification\].
+Applicable Law.—The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], continued under Executive Order 12924 \[listed in a table under 50 U.S.C. 1701\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[act June 15, 1917, ch. 30, 40 Stat. 217, see Tables for classification\].
 
 "(e)
 

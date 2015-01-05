@@ -28,9 +28,9 @@ For purposes of this subtitle—
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) a corporation is included (or required to be included) in a consolidated return filed by an affiliated group for a taxable year which includes any period after December 31, 1984, and
+&emsp;&emsp;&emsp;(i) a corporation is included (or required to be included) in a consolidated return filed by an affiliated group, and
 
-&emsp;&emsp;&emsp;(ii) such corporation ceases to be a member of such group in a taxable year beginning after December 31, 1984,
+&emsp;&emsp;&emsp;(ii) such corporation ceases to be a member of such group,
 
 > &emsp;&emsp;with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group with the same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
 
@@ -92,7 +92,7 @@ Notwithstanding the provisions of paragraph (2) of subsection (b)—
 
 &emsp;(1) Two or more domestic insurance companies each of which is subject to tax under section 801 shall be treated as includible corporations for purposes of applying subsection (a) to such insurance companies alone.
 
-&emsp;(2)(A) If an affiliated group (determined without regard to subsection (b)(2)) includesone or more domestic insurance companies taxed under section 801, the common parent of such group may elect (pursuant to regulations prescribed by the Secretary) to treat all such companies as includible corporations for purposes of applying subsection (a) except that no such company shall be so treated until it has been a member of the affiliated group for the 5 taxable years immediately preceding the taxable year for which the consolidated return is filed.
+&emsp;(2)(A) If an affiliated group (determined without regard to subsection (b)(2)) includes one or more domestic insurance companies taxed under section 801, the common parent of such group may elect (pursuant to regulations prescribed by the Secretary) to treat all such companies as includible corporations for purposes of applying subsection (a) except that no such company shall be so treated until it has been a member of the affiliated group for the 5 taxable years immediately preceding the taxable year for which the consolidated return is filed.
 
 &emsp;(B) If an election under this paragraph is in effect for a taxable year—
 
@@ -120,13 +120,15 @@ In determining the consolidated taxable income of an affiliated group for any ta
 
 &emsp;(2) any amount treated as received under section 805(b)(3) of such Act.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I, §64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I, §64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874; Pub. L. 113–295, div. A, title II, §221(a)(93), Dec. 19, 2014, 128 Stat. 4050.)
 
 #### References in Text
 
 Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section 805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under section 991 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(3)(A). Pub. L. 113–295 struck out "for a taxable year which includes any period after December 31, 1984" after "affiliated group" in cl. (i) and struck out "in a taxable year beginning after December 31, 1984" after "such group" in cl. (ii).
 
 <b>1996</b>—Subsec. (b)(8). Pub. L. 104–188, §1308(d)(2), added par. (8).
 
@@ -142,7 +144,7 @@ Subsec. (f). Pub. L. 100–647, §1018(d)(10)(B), added subsec. (f).
 
 Subsec. (b)(2). Pub. L. 99–514, §1024(c)(15), struck out "or 821" after "section 802".
 
-Subsec. (b)(7). Pub. L. 99–514, §1804(e)(10), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "A DISC or former DISC (as defined in section 992(a))."
+Subsec. (b)(7). Pub. L. 99–514, §1804(e)(10), amended par. (7) generally. Prior to amendment, par. (7) read asfollows: "A DISC or former DISC (as defined in section 992(a))."
 
 Subsec. (c)(2)(A). Pub. L. 99–514, §1899A(35), struck out "or 821" after "section 801".
 
@@ -179,6 +181,10 @@ Subsec. (b)(8). Pub. L. 86–376 struck out par. (8) which excepted an electing 
 <b>1958</b>—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
 
 <b>1956</b>—Subsec. (b)(2), Act Mar. 13, 1956, inserted reference to section 811.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -238,7 +244,7 @@ Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)
 
 Native corporations.—
 
-&emsp;"(A) In the case of a Native Corporation established under the Alaska Native Claims Settlement Act (43U.S.C. 1601 et seq.), or a corporation all of whose stock is owned directly by such a corporation, during any taxable year (beginning after the effective date of these amendments and before 1992), or any part thereof, in which the Native Corporation is subject to the provisions of section 7(h)(1) of such Act (43 U.S.C. 1606(h)(1))—
+&emsp;"(A) In the case of a Native Corporation established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or a corporation all of whose stock is owned directly by such a corporation, during any taxable year (beginning after the effective date of these amendments and before 1992), or any part thereof, in which the Native Corporation is subject to the provisions of section 7(h)(1) of such Act (43 U.S.C. 1606(h)(1))—
 
 &emsp;&emsp;"(i) the amendment made by subsection (a) \[amending this section\] shall not apply, and
 
@@ -298,7 +304,7 @@ Amendment by Pub. L. 95–600 effective with respect to qualified investment for
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974, see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
+Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974,see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
 
 Amendment by section 1051(g) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
@@ -312,7 +318,7 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) ofPub. L. 91–172, set out as a note under section 511 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -420,7 +426,7 @@ Failures.—For purposes of the 1986 Code, any failure by the Secretary of the T
 
 "(d)
 
-Disqualified Income Defined.—For purposes of subsection (a), the term 'disqualified income' means any income assigned (or attributable to property contributed) after April 26, 1988, by a person who is not aNative Corporation or a corporation all the stock of which is owned directly by a Native Corporation.
+Disqualified Income Defined.—For purposes of subsection (a), the term 'disqualified income' means any income assigned (or attributable to property contributed) after April 26, 1988, by a person who is not a Native Corporation or a corporation all the stock of which is owned directly by a Native Corporation.
 
 "(e)
 

@@ -26,7 +26,7 @@ As used in this part:
 
 #### (4) Person
 
-&emsp;The term "person" means any State or local subdivision of a State, agency of such State or subdivision, corporation, or partnership that owns or operates or otherwise controls and provides children's services or any individual who owns or operates or otherwise controls and provides such services.
+&emsp;The term "person" means any State or local subdivision of a State, agency of such State or subdivision, corporation, or partnership thatowns or operates or otherwise controls and provides children's services or any individual who owns or operates or otherwise controls and provides such services.
 
 #### (5) Secretary
 

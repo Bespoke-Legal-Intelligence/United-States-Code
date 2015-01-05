@@ -6,7 +6,7 @@ Except as otherwise provided in this section, amounts received by an employee th
 
 #### (b) Amounts expended for medical care
 
-Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection\(a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, his dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), and any child (as defined in section 152(f)(1)) of the taxpayer who as of the end of the taxable year has not attained age 27. Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
+Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection (a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, his dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), and any child (as defined in section 152(f)(1)) of the taxpayer who as of the end of the taxable year has not attained age 27. Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
 
 #### (c) Payments unrelated to absence from work
 
@@ -30,7 +30,7 @@ For purposes of this section and section 104—
 
 #### (f) Rules for application of section 213
 
-For purposes of section 213(a) (relating to medical, dental, etc., expenses) amounts excluded from gross income under subsection (c) or (d) shall not be considered as compensation (by insurance or otherwise) for expenses paid for medical care.
+For purposes of section 213(a) (relating to medical, dental, etc., expenses) amounts excluded from gross income under subsection (c) shall not be considered as compensation (by insurance or otherwise) for expenses paid for medical care.
 
 #### (g) Self-employed individual not considered an employee
 
@@ -136,13 +136,15 @@ Notwithstanding any other provision of law, gross income includes benefits paid 
 
 &emsp;&emsp;(B) has received a favorable ruling from the Internal Revenue Service that the trust's income is not includible in gross income under section 115.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 111–152, title I, §1004(d)(1), Mar. 30, 2010, 124 Stat. 1035.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 111–152, title I, §1004(d)(1), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(16), Dec. 19, 2014, 128 Stat. 4039.)
 
 #### References in Text
 
 Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (i), is classified to section 352(a) of Title 45, Railroads.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–295 struck out "or (d)" after "subsection (c)".
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–152 substituted "his dependents" for "and his dependents" and inserted ", and any child (as defined in section 152(f)(1)) of the taxpayer who as of the end of the taxable year has not attained age 27" after "thereof)".
 
@@ -190,6 +192,10 @@ Subsec. (e)(2). Pub. L. 94–455, §1901(c)(2), struck out "a territory" after "
 
 <b>1962</b>—Subsec. (g). Pub. L. 87–792 added subsec. (g).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–458, title I, §124(b), Dec. 23, 2008, 122 Stat. 5115, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to payments before, on, or after the date of the enactment of this Act \[Dec. 23, 2008\]."
@@ -220,7 +226,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1983, see section 202(c) of Pub. L. 97–248, set out as a note under section 213 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1983, see section 202(c) ofPub. L. 97–248, set out as a note under section 213 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -290,7 +296,7 @@ Pub. L. 94–455, title V, §505(c), Oct. 4, 1976, 90 Stat. 1567, as amended by 
 
 #### Special Rule for Coordination With Section 72 of This Title
 
-Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by Pub. L. 95–30, title III, §301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of an individual who—
+Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by Pub. L. 95–30, title III,§301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of an individual who—
 
 &emsp;"(1) retired on disability before January 1, 1977, and
 

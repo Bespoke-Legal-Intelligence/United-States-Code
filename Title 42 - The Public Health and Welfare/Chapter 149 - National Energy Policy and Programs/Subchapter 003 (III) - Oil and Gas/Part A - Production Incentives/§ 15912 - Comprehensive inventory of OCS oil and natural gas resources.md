@@ -12,7 +12,7 @@ The Secretary shall conduct an inventory and analysis of oil and natural gas res
 
 &emsp;(4) estimate the effect that understated oil and gas resource inventories have on domestic energy investments; and
 
-&emsp;(5) identify and explain how legislative, regulatory, and administrative programs or processes restrict or impede the development of identified resources and the extent that they affect domestic supply, such as moratoria, lease terms and conditions, operational stipulations and requirements, approval delays by the Federal Government and coastal States, and local zoning restrictions for onshore processing facilities and pipeline landings.
+&emsp;(5) identify and explain how legislative, regulatory, and administrative programs or processes restrict or impede the development of identified resources and the extent that they affect domestic supply, such as moratoria,lease terms and conditions, operational stipulations and requirements, approval delays by the Federal Government and coastal States, and local zoning restrictions for onshore processing facilities and pipeline landings.
 
 #### (b) Reports
 

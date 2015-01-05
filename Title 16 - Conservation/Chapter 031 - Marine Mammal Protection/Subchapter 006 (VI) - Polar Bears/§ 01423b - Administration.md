@@ -18,7 +18,7 @@ The Secretary, acting through the Director of the United States Fish and Wildlif
 
 #### (1) Subchapter II authorities
 
-&emsp;The Secretary may use authorities granted under subchapter II for enforcement, imposition of penalties, and the seizure of cargo for violations under this subchapter, provided that any polar bear or any part or product of a polar bear taken, imported, exported, possessed, transported, sold, received, acquired, purchased, exchanged, or bartered, or offered for sale, purchase, exchange, or barter in violation of this subchapter, shall be subject to seizure and forfeiture to the United States without any showing that may be required for assessment of a civil penalty or for criminal prosecution under this chapter.
+&emsp;The Secretary may use authorities granted under subchapter II for enforcement, imposition of penalties, and the seizure of cargo for violations under this subchapter, provided that any polar bear or any part or product of a polar bear taken, imported, exported, possessed, transported, sold, received, acquired, purchased, exchanged, or bartered, or offered for sale, purchase, exchange, or barter in violation of this subchapter, shall be subject to seizure and forfeiture to the United Stateswithout any showing that may be required for assessment of a civil penalty or for criminal prosecution under this chapter.
 
 #### (2) Additional authorities
 

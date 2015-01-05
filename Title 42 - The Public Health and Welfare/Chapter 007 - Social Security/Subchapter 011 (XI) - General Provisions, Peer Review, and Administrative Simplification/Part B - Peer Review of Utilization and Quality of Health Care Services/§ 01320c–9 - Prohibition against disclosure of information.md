@@ -44,7 +44,7 @@ No patient record in the possession of an organization having a contract with th
 
 For purposes of this section and section 1320c–6 of this title, the term "organization with a contract with the Secretary under this part" includes an entity with a contract with the Secretary under section 1320c–3(a)(4)(C) <sup>1</sup> of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1160, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 391; amended Pub. L. 99–509, title IX, §9353(d)(1), Oct. 21, 1986, 100 Stat. 2047; Pub. L. 100–203, title IV, §4039(h)(6), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), Nov. 5, 1990, 104 Stat. 1388–113, 1388–114; Pub. L. 103–432, title I, §156(b)(2)(B), (4), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XI, §1160, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat.391; amended Pub. L. 99–509, title IX, §9353(d)(1), Oct. 21, 1986, 100 Stat. 2047; Pub. L. 100–203, title IV, §4039(h)(6), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), Nov. 5, 1990, 104 Stat. 1388–113, 1388–114; Pub. L. 103–432, title I, §156(b)(2)(B), (4), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
 
 #### References in Text
 

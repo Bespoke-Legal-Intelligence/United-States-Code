@@ -10,6 +10,7 @@
 | [13002\.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013002%20-%20Local%20children%27s%20advocacy%20centers.md) | Local children's advocacy centers. |
 | [13003\.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013003%20-%20Grants%20for%20specialized%20technical%20assistance%20and%20training%20programs.md) | Grants for specialized technical assistance and training programs. |
 | [13004\.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013004%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [13005\.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013005%20-%20Accountability.md) | Accountability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

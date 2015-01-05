@@ -64,7 +64,7 @@ In providing scholarships under subsection (b) of this section, the Secretary an
 
 > in lieu of any service obligation arising under such contract, shall be liable to the United States for the Federal share of the amount which has been paid to him, or on his behalf, under the contract.
 
-(2) If for any reason not specified in paragraph (1), an individual breaches his written contractby failing either to begin such individual's service obligation required under such contract or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (l) of section 1616a of this title in the manner provided for in such subsection.
+(2) If for any reason not specified in paragraph (1), an individual breaches his written contract by failing either to begin such individual's service obligation required under such contract or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (l) of section 1616a of this title in the manner provided for in such subsection.
 
 (3) The Secretary may carry out this subsection on the basis of information submitted by the tribes or tribal organizations involved, or on the basis of information collected through such other means as the Secretary determines to be appropriate.
 

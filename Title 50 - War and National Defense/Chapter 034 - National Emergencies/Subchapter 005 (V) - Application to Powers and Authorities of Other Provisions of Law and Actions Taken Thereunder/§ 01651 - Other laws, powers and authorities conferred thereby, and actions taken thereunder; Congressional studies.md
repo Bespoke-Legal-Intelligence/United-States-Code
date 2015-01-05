@@ -24,7 +24,7 @@ Section 2304(a)(1) of title 10, referred to in subsec. (a)(5), originally author
 
 #### Codification
 
-In subsec. (a)(1), "Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,4710, and 4711) of subtitle I of title 41" substituted for "Act of June 30, 1949 (41 U.S.C. 252)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), "Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "Act of June 30, 1949 (41 U.S.C. 252)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (a)(2), "Section 3727(a)–(e)(1) of title 31" substituted for "Section 3477 of the Revised Statutes, as amended (31 U.S.C. 203)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

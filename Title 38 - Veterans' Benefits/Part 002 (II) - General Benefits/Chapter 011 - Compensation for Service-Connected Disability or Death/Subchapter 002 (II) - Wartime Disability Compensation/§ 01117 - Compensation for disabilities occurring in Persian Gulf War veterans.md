@@ -66,7 +66,7 @@
 
 &emsp;(13) Menstrual disorders.
 
-(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the project without the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
+(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the projectwithout the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
 
 (2) Paragraph (1) does not apply in a case in which—
 
@@ -264,7 +264,7 @@ Subsequent Reviews.—(1) Under the agreement under subsection (b), the National
 
 "(h)
 
-Reports by Academy.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives and the Secretary of Veterans Affairs periodic written reports regarding the Academy's activities under the agreement.
+Reports by Academy.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall submit to the Committees on Veterans' Affairs ofthe Senate and the House of Representatives and the Secretary of Veterans Affairs periodic written reports regarding the Academy's activities under the agreement.
 
 "(2) The first report under paragraph (1) shall be submitted not later than 2 years after entry into the agreement under subsection (b). That report shall include—
 
@@ -324,7 +324,7 @@ Assessment by National Academy of Sciences.—Not later than April 1, 1999, the 
 
 "(b)
 
-Action on Report.—(1) After receiving the final report of the National Academy of Sciences under subsection (a), the Secretary shall, if a reasonable and scientifically feasible methodology is identified by the Academy, develop an appropriate mechanism to monitor and study the effectiveness of treatments furnished to, and health outcomes of, Persian Gulf War veteranswho suffer from diagnosed and undiagnosed illnesses which may be associated with their service in the Persian Gulf War.
+Action on Report.—(1) After receiving the final report of the National Academy of Sciences under subsection (a), the Secretary shall, if a reasonable and scientifically feasible methodology is identified by the Academy, develop an appropriate mechanism to monitor and study the effectiveness of treatments furnished to, and health outcomes of, Persian Gulf War veterans who suffer from diagnosed and undiagnosed illnesses which may be associated with their service in the Persian Gulf War.
 
 "(2) The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the implementation of paragraph (1).
 
@@ -348,7 +348,7 @@ Agreement.—The Secretary of Veterans Affairs shall seek to enter into an agree
 
 Identification of Agents and Illnesses.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall—
 
-&emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, or preventive medicines or vaccines to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations; and
+&emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, orpreventive medicines or vaccines to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations; and
 
 &emsp;"(B) identify the illnesses (including diagnosed illnesses and undiagnosed illnesses) that are manifest in such members.
 
@@ -552,13 +552,13 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;"(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experienceand Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;"(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 
 &emsp;"(5) In response to concerns regarding the health-care needs of Persian Gulf War veterans, particularly those who suffer from illnesses or conditions for which no diagnosis has been made, the Congress, in Public Law 102–585 \[see Short Title of 1992 Amendments note under section 101 of this title\], directed the establishment of a Persian Gulf War Veterans Health Registry, authorized health examinations for veterans of the Persian Gulf War, and provided for the National Academy of Sciences to conduct a comprehensive review and assessment of information regarding the health consequences of military service in the Persian Gulf theater of operations and to develop recommendations on avenues for research regarding such health consequences. In Public Law 103–210 \[see Tables for classification\], the Congress authorized the Department of Veterans Affairs to provide health care services on a priority basis to Persian Gulf War veterans. The Congress also provided in Public Law 103–160 (the National Defense Authorization Act for Fiscal Year 1994) \[see Tables for classification\] for the establishment of a specialized environmental medical facility for the conduct of research into the possible health effects of exposure to low levels of hazardous chemicals, especially among Persian Gulf veterans, and for research into the possible health effects of battlefield exposure in such veterans to depleted uranium.
 
-&emsp;"(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
+&emsp;"(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress includedresearch provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
 
 &emsp;"(7) Further research and studies must be undertaken to determine the underlying causes of the illnesses suffered by Persian Gulf War veterans and, pending the outcome of such research, veterans who are seriously ill as the result of such illnesses should be given the benefit of the doubt and be provided compensation benefits to offset the impairment in earnings capacities they may be experiencing.
 
@@ -716,7 +716,7 @@ Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not 
 
 #### Executive Order No. 12961
 
-Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans' Illnesses, was revoked by Ex. Ord. No. 13138, §3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee onGulf War Veterans' Illnesses, was revoked by Ex. Ord. No. 13138, §3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13034. Extension of Presidential Advisory Committee on Gulf War Veterans' Illnesses
 

@@ -20,7 +20,7 @@ The Commissioner of Social Security shall exclude from participation in the soci
 
 (B) Subject to subparagraph (C), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be 5 years, except that the Commissioner may waive the exclusion in the case of an individual who is the sole source of essential services in a community. The Commissioner's decision whether to waive the exclusion shall not be reviewable.
 
-(C) In the case of an exclusion of an individual under subsection (a) of this section based on a conviction or a determination described in subsection (a)(3) of this section occurring on or after December 14, 1999, if the individual has (before, on, or after December 14, 1999) been convicted, or if such a determination has been made with respect to the individual—
+(C) In the case of an exclusion of an individual under subsection (a) of this section based on aconviction or a determination described in subsection (a)(3) of this section occurring on or after December 14, 1999, if the individual has (before, on, or after December 14, 1999) been convicted, or if such a determination has been made with respect to the individual—
 
 &emsp;(i) on one previous occasion of one or more offenses for which an exclusion may be effected under such subsection, the period of the exclusion shall be not less than 10 years; or
 
@@ -88,7 +88,7 @@ For purposes of this section:
 
 #### (2) Social security program
 
-&emsp;The term "social security programs" means the program providing for monthly insurance benefits under subchapter II of this chapter, and the program providing for monthly supplemental security income benefits to individuals under subchapter XVI of this chapter (including State supplementary payments made by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66).
+&emsp;The term "social security programs" means the program providing for monthly insurance benefits under subchapter II of this chapter,and the program providing for monthly supplemental security income benefits to individuals under subchapter XVI of this chapter (including State supplementary payments made by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66).
 
 #### (3) Convicted
 

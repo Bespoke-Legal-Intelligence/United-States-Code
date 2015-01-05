@@ -22,7 +22,7 @@ Pub. L. 110–246, §7101(b)(4), substituted "section 3103(18)" for "section 310
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Amendment by section 7406(d)(1) of Pub. L. 110–246 inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education,and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as a note under section 450i of this title.
+Amendment by section 7406(d)(1) of Pub. L. 110–246 inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as a note under section 450i of this title.
 
 #### Effective Date
 

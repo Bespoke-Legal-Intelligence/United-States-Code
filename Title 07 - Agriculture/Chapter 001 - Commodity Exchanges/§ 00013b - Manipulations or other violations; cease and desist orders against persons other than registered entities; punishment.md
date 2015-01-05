@@ -16,7 +16,7 @@ Pub. L. 111–203, §741(b)(4), inserted "or of any swap," before "or otherwise 
 
 <b>2000</b>—Pub. L. 106–554 substituted "registered entity" for "contract market" in two places.
 
-<b>1992</b>—Pub. L. 102–546 made technical amendment to references to sections 9 and 15 of this title to reflectchange in reference to corresponding section of original act and substituted "the higher of $100,000 or triple the monetary gain to such person" for "$100,000".
+<b>1992</b>—Pub. L. 102–546 made technical amendment to references to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act and substituted "the higher of $100,000 or triple the monetary gain to such person" for "$100,000".
 
 <b>1974</b>—Pub. L. 93–463, §§103(a), 212(c), substituted "Commission" for "Secretary" before "may" and substituted "not more than $100,000" for "not less than $500 nor more than $10,000".
 

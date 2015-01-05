@@ -8,43 +8,59 @@ The Secretary shall establish a committee, to be known as the "Interagency Autis
 
 In carrying out its duties under this section, the Committee shall—
 
-&emsp;(1) develop and annually update a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, intervention, and access to services and supports for individuals with autism spectrum disorder;
+&emsp;(1) monitor autism spectrum disorder research, and to the extent practicable services and support activities, across all relevant Federal departments and agencies, including coordination of Federal activities with respect to autism spectrum disorder;
 
-&emsp;(2) monitor Federal activities with respect to autism spectrum disorder;
+&emsp;(2) develop a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions, and access to services and supports for individuals with autism spectrum disorder;
 
-&emsp;(3) make recommendations to the Secretary regarding any appropriate changes to such activities, including recommendations to the Director of NIH with respect to the strategic plan developed under paragraph (5);
+&emsp;(3) make recommendations to the Secretary regarding any appropriate changes to such activities, including with <sup>1</sup> respect to the strategic plan developed under paragraph (5);
 
-&emsp;(4) make recommendations to the Secretary regarding public participation in decisions relating to autism spectrum disorder;
+&emsp;(4) make recommendations to the Secretary regarding public participation in decisions relating to autism spectrum disorder, and the process by which public feedback can be better integrated into such decisions;
 
-&emsp;(5) develop and annually update a strategic plan for the conduct of, and support for, autism spectrum disorder research, including proposed budgetary requirements; and
+&emsp;(5) develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, including as practicable for services and supports, for individuals with an autism spectrum disorder and the families of such individuals, which shall include—
 
-&emsp;(6) submit to the Congress such strategic plan and any updates to such plan.
+&emsp;&emsp;(A) proposed budgetary requirements; and
+
+&emsp;&emsp;(B) recommendations to ensure that autism spectrum disorder research, and services and support activities to the extent practicable, of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative; and
+
+&emsp;(6) submit to Congress and the President—
+
+&emsp;&emsp;(A) an annual update on the summary of advances described in paragraph (2); and
+
+&emsp;&emsp;(B) an annual update to the strategic plan described in paragraph (5), including any progress made in achieving the goals outlined in such strategic plan.
 
 #### (c) Membership
 
-#### (1) In general
+#### (1) Federal membership
 
-&emsp;The Committee shall be composed of—
+&emsp;The Committee shall be composed of the following Federal members—
 
 &emsp;&emsp;(A) the Director of the Centers for Disease Control and Prevention;
 
 &emsp;&emsp;(B) the Director of the National Institutes of Health, and the Directors of such national research institutes of the National Institutes of Health as the Secretary determines appropriate;
 
-&emsp;&emsp;(C) the heads of such other agencies as the Secretary determines appropriate;
+&emsp;&emsp;(C) the heads of such other agencies as the Secretary determines appropriate, such as the Administration for Community Living, Administration for Children and Families, the Centers for Medicare \& Medicaid Services, the Food and Drug Administration, and the Health Resources and Services Administration; and
 
-&emsp;&emsp;(D) representatives of other Federal Governmental agencies that serve individuals with autism spectrum disorder such as the Department of Education; and
+&emsp;&emsp;(D) representatives of other Federal Governmental agencies that serve individuals with autism spectrum disorder such as the Department of Education and the Department of Defense.
 
-&emsp;&emsp;(E) the additional members appointed under paragraph (2).
+#### (2) Non-Federal members
 
-#### (2) Additional members
+&emsp;Not more than ½, but not fewer than 1/3, of the total membership of the Committee,<sup>2</sup> shall be composed of non-Federal public members to be appointed by the Secretary, of which—
 
-&emsp;Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater, shall be composed of non-Federal public members to be appointed by the Secretary, of which—
+&emsp;&emsp;(A) at least two such members shall be individuals with a diagnosis of autism spectrum disorder;
 
-&emsp;&emsp;(A) at least one such member shall be an individual with a diagnosis of autism spectrum disorder;
+&emsp;&emsp;(B) at least two such members shall be parents or legal guardians of an individual with an autism spectrum disorder; and
 
-&emsp;&emsp;(B) at least one such member shall be a parent or legal guardian of an individual with an autism spectrum disorder; and
+&emsp;&emsp;(C) at least two such members shall be representatives of leading research, advocacy, and service organizations for individuals with autism spectrum disorder.
 
-&emsp;&emsp;(C) at least one such member shall be a representative of leading research, advocacy, and service organizations for individuals with autism spectrum disorder.
+#### (3) Period of appointment; vacancies
+
+#### (A) Period of appointment for non-Federal members
+
+&emsp;&emsp;Non-Federal members shall serve for a term of 4 years, and may be reappointed for one or more additional 4-year terms.
+
+#### (B) Vacancies
+
+&emsp;&emsp;A vacancy on the Committee shall be filled in the manner in which the original appointment was made and shall not affect the powers or duties of the Committee. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has been appointed.
 
 #### (d) Administrative support; terms of service; other provisions
 
@@ -52,11 +68,9 @@ The following provisions shall apply with respect to the Committee:
 
 &emsp;(1) The Committee shall receive necessary and appropriate administrative support from the Secretary.
 
-&emsp;(2) Members of the Committee appointed under subsection (c)(2) shall serve for a term of 4 years, and may be reappointed for one or more additional 4 year term. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office.
+&emsp;(2) The Committee shall meet at the call of the chairperson or upon the request of the Secretary. The Committee shall meet not fewer than 2 times each year.
 
-&emsp;(3) The Committee shall meet at the call of the chairperson or upon the request of the Secretary. The Committee shall meet not fewer than 2 times each year.
-
-&emsp;(4) All meetings of the Committee shall be public and shall include appropriate time periods for questions and presentations by the public.
+&emsp;(3) All meetings of the Committee shall be public and shall include appropriate time periods for questions and presentations by the public.
 
 #### (e) Subcommittees; establishment and membership
 
@@ -64,11 +78,53 @@ In carrying out its functions, the Committee may establish subcommittees and con
 
 #### (f) Sunset
 
-This section shall not apply after September 30, 2014, and the Committee shall be terminated on such date.
+This section shall not apply after September 30, 2019, and the Committee shall be terminated on such date.
 
-(July 1, 1944, ch. 373, title III, §399CC, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2827; amended Pub. L. 112–32, §2(3), Sept. 30, 2011, 125 Stat. 361.)
+(July 1, 1944, ch. 373, title III, §399CC, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2827; amended Pub. L. 112–32, §2(3), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §5, Aug. 8, 2014, 128 Stat. 1832.)
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–157, §5(1)(C), added par. (1). Former par. (1) redesignated (2).
+
+Pub. L. 113–157, §5(1)(A), struck out "and annually update" after "develop" and substituted "interventions, including school and community-based interventions" for "intervention".
+
+Subsec. (b)(2). Pub. L. 113–157, §5(1)(B), (C), redesignated par. (1) as (2) and struck out former par. (2) which read as follows: "monitor Federal activities with respect to autism spectrum disorder;".
+
+Subsec. (b)(3). Pub. L. 113–157, §5(1)(D), struck out "recommendations to the Director of NIH" after "including".
+
+Subsec. (b)(4). Pub. L. 113–157, §5(1)(E), inserted before semicolon ", and the process by which public feedback can be better integrated into such decisions".
+
+Subsec. (b)(5), (6). Pub. L. 113–157, §5(1)(F), added pars. (5) and (6) and struck out former pars. (5) and (6) which read as follows:
+
+"(5) develop and annually update a strategic plan for the conduct of, and support for, autism spectrum disorder research, including proposed budgetary requirements; and
+
+"(6) submit to the Congress such strategic plan and any updates to such plan."
+
+Subsec. (c)(1). Pub. L. 113–157, §5(2)(A)(i), substituted "Federal membership" for "In general" in heading and "The Committee shall be composed of the following Federal members—" for "The Committee shall be composed of—" in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 113–157, §5(2)(A)(ii), inserted ", such as the Administration for Community Living, Administration for Children and Families, the Centers for Medicare \& Medicaid Services, the Food and Drug Administration, and the Health Resources and Services Administration" before semicolon and inserted "and" at end.
+
+Subsec. (c)(1)(D). Pub. L. 113–157, §5(2)(A)(iii), inserted "and the Department of Defense" after "Department of Education" and substituted period at end for "; and".
+
+Subsec. (c)(1)(E). Pub. L. 113–157, §5(2)(A)(iv), struck out subpar. (E) which read as follows: "the additional members appointed under paragraph (2)."
+
+Subsec. (c)(2). Pub. L. 113–157, §5(2)(B)(i), (ii), substituted "Non-Federal" for "Additional" in heading and "Not more than ½, but not fewer than 1/3, of the total membership of the Committee" for "Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater" in introductory provisions. Substitution in text was executed as the probable intent of Congress, notwithstanding directory language that struck out "1/3" instead of "1/3" as it appeared in the original.
+
+Subsec. (c)(2)(A). Pub. L. 113–157, §5(2)(B)(iii), substituted "two such members shall be individuals" for "one such member shall be an individual".
+
+Subsec. (c)(2)(B). Pub. L. 113–157, §5(2)(B)(iv), substituted "two such members shall be parents or legal guardians" for "one such member shall be a parent or legal guardian".
+
+Subsec. (c)(2)(C). Pub. L. 113–157, §5(2)(B)(v), substituted "two such members shall be representatives" for "one such member shall be a representative".
+
+Subsec. (c)(3). Pub. L. 113–157, §5(2)(C), added par. (3).
+
+Subsec. (d)(2) to (4). Pub. L. 113–157, §5(3), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "Members of the Committee appointed under subsection (c)(2) shall serve for a term of 4 years, and may be reappointed for one or more additional 4 year term. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office."
+
+Subsec. (f). Pub. L. 113–157, §5(4), substituted "2019" for "2014".
+
 <b>2011</b>—Subsec. (f). Pub. L. 112–32 substituted "2014" for "2011".
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "recommendations".</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

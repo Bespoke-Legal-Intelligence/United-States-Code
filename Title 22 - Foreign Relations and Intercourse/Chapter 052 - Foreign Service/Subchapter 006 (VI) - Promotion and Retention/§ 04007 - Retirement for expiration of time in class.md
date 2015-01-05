@@ -20,7 +20,7 @@
 
 #### (b) Limited career extension
 
-Members of the Service whose maximum time in class under subsection (a) of this section expires—
+Members of the Service whose maximum time in class under subsection (a) expires—
 
 &emsp;(1) after they have attained the highest salary class for their respective occupational categories, or
 
@@ -32,9 +32,9 @@ Members of the Service whose maximum time in class under subsection (a) of this 
 
 Any member of the Service—
 
-&emsp;(1) whose maximum time in class under subsection (a) of this section expires and who is not promoted to a higher class or combination of classes, as the case may be, or
+&emsp;(1) whose maximum time in class under subsection (a) expires and who is not promoted to a higher class or combination of classes, as the case may be, or
 
-&emsp;(2) whose limited career extension under subsection (b) of this section expires and is not renewed,
+&emsp;(2) whose limited career extension under subsection (b) expires and is not renewed,
 
 > shall be retired from the Service and receive benefits in accordance with section 4009 of this title, subject to any career extension under subsection (d) of this section.
 
@@ -42,7 +42,7 @@ Any member of the Service—
 
 Notwithstanding any other provision of this section—
 
-&emsp;(1) the career appointment of a member of the Service whose maximum time in class under subsection (a) of this section expires, or whose limited career extension under subsection (b) of this section expires, while that member is occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, shall be extended until the appointment to that position is terminated; and
+&emsp;(1) the career appointment of a member of the Service whose maximum time in classunder subsection (a) expires, or whose limited career extension under subsection (b) expires, while that member is occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, shall be extended until the appointment to that position is terminated; and
 
 &emsp;(2) if the Secretary determines it to be in the public interest, the Secretary may extend temporarily the career appointment of a career member of the Service whose maximum time in class or limited career extension expires, but in no case may any extension under this paragraph exceed one year and such extensions may be granted only in special circumstances.
 

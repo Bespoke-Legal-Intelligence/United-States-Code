@@ -14,17 +14,17 @@ In the case of any individual in the Foreign Service who, immediately before Feb
 
 #### (b) United States Information Agency individuals
 
-In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980, are covered by a collective bargaining agreement between the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) of this section shall begin on July 1, 1981.
+In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980, are covered by a collective bargaining agreement between the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) shall begin on July 1, 1981.
 
 #### (c) Department of State security officers
 
-The three-year period referred to in subsection (a) of this section shall be extended for an additional period not to exceed one year from November 22, 1983, in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
+The three-year period referred to in subsection (a) shall be extended for an additional period not to exceed one year from November 22, 1983, in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
 
 (Pub. L. 96–465, title II, §2104, Oct. 17, 1980, 94 Stat. 2150; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title I, §132, Nov. 22, 1983, 97 Stat. 1028.)
 
 #### Codification
 
-In subsec. (a), "February 15, 1981" substituted for "the effective date of this Act" pursuant to section 2403of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+In subsec. (a), "February 15, 1981" substituted for "the effective date of this Act" pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
 In subsec. (c), "November 22, 1983" was in the original "the date of enactment of this section" which was translated as meaning the date of enactment of this subsection, as the probable intent of Congress.
 

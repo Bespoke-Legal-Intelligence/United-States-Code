@@ -14,7 +14,7 @@
 
 > who has suffered an injury or contracted a disease in line of duty while en route to or from, or at, a place for final acceptance or entry upon active duty, will, for the purposes of chapters 11, 13, 19, 21, 31, and 39 of this title, and for purposes of determining service-connection of a disability under chapter 17 of this title, be considered to have been on active duty and to have incurred such disability in the active military, naval, or air service.
 
-(c) For the purposes of this title, an individual discharged or released from a period of activeduty shall be deemed to have continued on active duty during the period of time immediately following the date of such discharge or release from such duty determined by the Secretary concerned to have been required for that individual to proceed to that individual's home by the most direct route, and in any event that individual shall be deemed to have continued on active duty until midnight of the date of such discharge or release.
+(c) For the purposes of this title, an individual discharged or released from a period of active duty shall be deemed to have continued on active duty during the period of time immediately following the date of such discharge or release from such duty determined by the Secretary concerned to have been required for that individual to proceed to that individual's home by the most direct route, and in any event that individual shall be deemed to have continued on active duty until midnight of the date of such discharge or release.
 
 (d)(1) For the purposes of this title, any individual—
 

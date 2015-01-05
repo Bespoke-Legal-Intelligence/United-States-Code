@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) the amount of unpaid tax;
 
-&emsp;&emsp;(B) the right of the person to request a hearing during the 30-day period beginningon the day after the 5-day period described in paragraph (2);
+&emsp;&emsp;(B) the right of the person to request a hearing during the 30-day period beginning on the day after the 5-day period described in paragraph (2);
 
 &emsp;&emsp;(C) the administrative appeals available to the taxpayer with respect to such lien and the procedures relating to such appeals; and
 

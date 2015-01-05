@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(B) the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes;
 
-&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities for maintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
+&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities formaintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
 
 &emsp;(3) develop and oversee the implementation of Governmentwide policies, principles, standards, and guidelines concerning—
 
@@ -140,7 +140,7 @@
 
 &emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654,1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
 
 #### References in Text
 
@@ -192,13 +192,13 @@ Subsec. (h)(2). Pub. L. 104–106, §5605(c), substituted "the Information Techn
 
 #### Effective Date of 2002 Amendments
 
-Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date note under section 3541 of this title.
+Pub. L. 107–347, title IV, §402(b), Dec. 17, 2002, 116 Stat. 2962, provided that: "Title III \[see Short Title of 2002 Amendments note set out under section 101 of this title\] and this title \[enacting provisions set out as a note under section 3601 of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\]."
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -220,7 +220,7 @@ Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, prov
 
 "(a)
 
-In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
 "(b)
 
@@ -234,7 +234,7 @@ Requirements for Procedures.—(1) The procedures developed under subsection (a)
 
 &emsp;"(D) shall provide for the electronic acknowledgment of electronic forms that are successfully submitted; and
 
-&emsp;"(E) shall, to the extent feasible and appropriate, require an Executive agency that anticipates receiptby electronic means of 50,000 or more submittals of a particular form to take all steps necessary to ensure that multiple methods of electronic signatures are available for the submittal of such form.
+&emsp;"(E) shall, to the extent feasible and appropriate, require an Executive agency that anticipates receipt by electronic means of 50,000 or more submittals of a particular form to take all steps necessary to ensure that multiple methods of electronic signatures are available for the submittal of such form.
 
 "(2) The Director shall ensure the compatibility of the procedures under paragraph (1)(A) in consultation with appropriate private bodies and State government entities that set standards for the use and acceptance of electronic signatures.
 

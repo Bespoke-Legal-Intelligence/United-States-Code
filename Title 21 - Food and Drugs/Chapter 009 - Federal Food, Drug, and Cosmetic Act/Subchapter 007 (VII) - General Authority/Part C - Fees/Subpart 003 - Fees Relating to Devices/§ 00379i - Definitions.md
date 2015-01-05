@@ -132,7 +132,7 @@ Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, provided th
 
 Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: "The amendments made by this title \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment."
 
-Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, which provided that the amendments made bytitle I of Pub. L. 107–250 (enacting this subpart) would cease to be effective Oct. 1, 2007, except that section 103 of Pub. L. 107–250, set out as a note below, would cease to be effective Jan. 31, 2008, was repealed by Pub. L. 112–144, title II, §207(c)(1), July 9, 2012, 126 Stat. 1007.
+Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, which provided that the amendments made by title I of Pub. L. 107–250 (enacting this subpart) would cease to be effective Oct. 1, 2007, except that section 103 of Pub. L. 107–250, set out as a note below, would cease to be effective Jan. 31, 2008, was repealed by Pub. L. 112–144, title II, §207(c)(1), July 9, 2012, 126 Stat. 1007.
 
 \[Pub. L. 112–144, title II, §207(c), July 9, 2012, 126 Stat. 1007, provided that the repeal of section 107 of Pub. L. 107–250, formerly set out above, is effective Sept. 30, 2007.\]
 

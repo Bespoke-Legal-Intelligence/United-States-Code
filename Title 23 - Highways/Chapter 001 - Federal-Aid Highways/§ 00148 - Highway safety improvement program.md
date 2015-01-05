@@ -86,7 +86,7 @@ Model inventory of roadway elements.—The term "model inventory of roadway elem
 
 &emsp;(6)
 
-Project to maintain minimum levels of retroreflectivity.—The term "project to maintain minimum levels of retroreflectivity" means a project that is designed to maintain a highway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
+Project to maintain minimum levels of retroreflectivity.—The term "project to maintain minimum levels of retroreflectivity" means a project that is designed to maintain ahighway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
 
 &emsp;(7)
 
@@ -302,7 +302,7 @@ Approval of updated strategic highway safety plans.—
 
 In general.—Each State shall—
 
-&emsp;&emsp;&emsp;(i) update the strategic highway safety plans of the State in accordance with the requirements established by the Secretary under this subsection; and
+&emsp;&emsp;&emsp;(i) update the strategic highway safety plans of the State in accordance with therequirements established by the Secretary under this subsection; and
 
 &emsp;&emsp;&emsp;(ii) submit the updated plans to the Secretary, along with a detailed description of the process used to update the plan.
 
@@ -476,7 +476,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 129(d) of Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6,1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
+Amendment by section 129(d) of Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
 
 #### Study of High-risk Rural Roads Best Practices
 

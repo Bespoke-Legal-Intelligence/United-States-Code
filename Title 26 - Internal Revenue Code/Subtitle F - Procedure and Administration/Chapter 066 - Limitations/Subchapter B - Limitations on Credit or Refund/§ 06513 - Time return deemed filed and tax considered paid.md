@@ -58,7 +58,7 @@ Amendment by Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 19
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–76 applicable to remuneration paid after June 30, 1986, see section 231(d) of Pub.L. 98–76, set out as an Effective Date note under section 3321 of this title.
+Amendment by Pub. L. 98–76 applicable to remuneration paid after June 30, 1986, see section 231(d) of Pub. L. 98–76, set out as an Effective Date note under section 3321 of this title.
 
 #### Effective Date of 1969 Amendment
 

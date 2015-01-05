@@ -1,6 +1,6 @@
 ### §271. International Labor Organization; membership
 
-The President is authorized to accept membership for the Government of the United States of America in the International Labor Organization, which, through its general conference of representatives of its members and through its International Labor Office, collects information concerning labor throughout the world and prepares international conventions for the consideration of member governments with a view to improving conditions of labor.
+The President is authorized to accept membership for the Government of the United States ofAmerica in the International Labor Organization, which, through its general conference of representatives of its members and through its International Labor Office, collects information concerning labor throughout the world and prepares international conventions for the consideration of member governments with a view to improving conditions of labor.
 
 (June 19, 1934, ch. 676, §1, 48 Stat. 1182.)
 
@@ -56,7 +56,7 @@ Funding and Expenses
 
 1–301. Each member of the Committee who is not otherwise employed full-time by the Federal government may receive, to the extent permitted by law, compensation for each day he is engaged in the work of the Committee at a rate not to exceed the maximum daily rate now or hereafter prescribed by law, and may also receive transportation and travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5702 and 5703).
 
-1–302. The Chairman of the Committee is authorized to establish such additional advisory committees asmay be deemed appropriate to carry out the purposes of this Order.
+1–302. The Chairman of the Committee is authorized to establish such additional advisory committees as may be deemed appropriate to carry out the purposes of this Order.
 
 1–303. All necessary administrative staff services, support, facilities and expenses of the Committee shall be furnished by the Department of Labor to the extent permitted by law.
 
@@ -74,7 +74,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30,1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

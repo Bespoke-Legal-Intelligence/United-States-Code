@@ -10,7 +10,7 @@ Subject to subsection (b) of this section, whenever the Commissioner of Social S
 
 &emsp;In carrying out subsection (a) of this section, the Commissioner of Social Security may not decrease the monthly amount payable to an individual under a program described in subsection (e) of this section that is paid when regularly due—
 
-&emsp;&emsp;(A) in the case of benefits under subchapter II or VIII of this chapter, by more than 10 percent of the amount of the benefit payable to the person for that month under such subchapter; and
+&emsp;&emsp;(A) in the case of benefits under subchapter II or VIII of this chapter, by more than 10 percent of the amount of the benefitpayable to the person for that month under such subchapter; and
 
 &emsp;&emsp;(B) in the case of benefits under subchapter XVI of this chapter, by an amount greater than the lesser of—
 

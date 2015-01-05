@@ -36,7 +36,7 @@ Requirements; Removal Based on Diversity of Citizenship.—(1) A case may not be
 
 (d)
 
-Notice to Adverse Parties and State Court.—Promptly after the filing of such notice of removal of a civil action the defendant or defendants shall give written notice thereof to all adverse parties and shall file a copy of the notice with the clerk of such State court, which shall effect the removal and the State court shall proceed no further unless and until the case is remanded.
+Notice to Adverse Parties and State Court.—Promptly after the filing of such noticeof removal of a civil action the defendant or defendants shall give written notice thereof to all adverse parties and shall file a copy of the notice with the clerk of such State court, which shall effect the removal and the State court shall proceed no further unless and until the case is remanded.
 
 (e)
 
@@ -86,7 +86,7 @@ Subsection (b) of section 1446 of title 28, U.S.C., as revised, has been found t
 
 The first paragraph of the amendment to subsection (b) corrects this situation by providing that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading.
 
-This provision, however, without more, would create further difficulty in those States, such as Kentucky, where suit is commenced by the filing of the plaintiff's initial pleading and the issuance and service of a summons without any requirement that a copy of the pleading be served upon or otherwise furnished to the defendant. Accordingly the first paragraph of the amendment provides that in such cases the petition for removal shall be filed within 20 days after the service of the summons.
+This provision, however, without more, would create further difficulty in those States, such as Kentucky, where suit is commenced by the filing of the plaintiff's initial pleading and the issuance and service of a summons without any requirement that a copy of the pleading be served upon or otherwise furnished to the defendant. Accordingly the first paragraph of theamendment provides that in such cases the petition for removal shall be filed within 20 days after the service of the summons.
 
 The first paragraph of the amendment conforms to the amendment of rule 81(c) of the Federal Rules of Civil Procedure, relating to removed actions, adopted by the Supreme Court on December 29, 1948, and reported by the Court to the present session of Congress.
 

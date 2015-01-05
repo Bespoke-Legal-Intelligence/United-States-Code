@@ -2,7 +2,7 @@
 
 (a)
 
-Responsible Officials.—(1) Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when theCoast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
+Responsible Officials.—(1) Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
 
 (2) Except as otherwise provided in this chapter, the Secretary of Defense shall have responsibility for administering the TRICARE program and making any decision affecting such program.
 
@@ -82,7 +82,7 @@ Pub. L. 111–84, div. A, title VII, §713, Oct. 28, 2009, 123 Stat. 2380, provi
 
 "(a)
 
-Authority.—The Secretary of Defense may establish cooperative health care agreements between military installations and local or regional health care systems.
+Authority.—The Secretary of Defense may establish cooperative health care agreements betweenmilitary installations and local or regional health care systems.
 
 "(b)
 
@@ -92,7 +92,7 @@ Requirements.—In establishing an agreement under subsection (a), the Secretary
 
 &emsp;&emsp;"(A) the Secretary of the military department concerned;
 
-&emsp;&emsp;"(B) representatives from the military installation selected for the agreement, including theTRICARE managed care support contractor with responsibility for such installation; and
+&emsp;&emsp;"(B) representatives from the military installation selected for the agreement, including the TRICARE managed care support contractor with responsibility for such installation; and
 
 &emsp;&emsp;"(C) Federal, State, and local government officials;
 
@@ -122,7 +122,7 @@ Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, p
 
 #### Surveys on Continued Viability of TRICARE Standard and TRICARE Extra
 
-Pub. L. 110–181, div. A, title VII, §711, Jan. 28, 2008, 122 Stat. 190, as amended by Pub. L. 112–81, div. A, title VII, §721, Dec. 31, 2011, 125 Stat. 1478, provided that:
+Pub. L. 110–181, div. A, title VII, §711, Jan. 28, 2008, 122 Stat. 190, as amended by Pub. L. 112–81, div. A, title VII, §721, Dec. 31, 2011, 125 Stat. 1478; Pub. L. 113–291, div. A, title VII, §712, Dec. 19, 2014, 128 Stat. 3414, provided that:
 
 "(a)
 
@@ -190,13 +190,13 @@ Ongoing review.—The Comptroller General shall, on an ongoing basis, review—
 
 &emsp;&emsp;&emsp;"(i) that currently accept TRICARE Standard or TRICARE Extra beneficiaries as patients under TRICARE Standard in each TRICARE area as of the date of completion of the review; and
 
-&emsp;&emsp;&emsp;"(ii) that would accept TRICARE Standard or TRICARE Extra beneficiaries as new patientsunder TRICARE Standard or TRICARE Extra, as applicable, within a reasonable time after the date of completion of the review; and
+&emsp;&emsp;&emsp;"(ii) that would accept TRICARE Standard or TRICARE Extra beneficiaries as new patients under TRICARE Standard or TRICARE Extra, as applicable, within a reasonable time after the date of completion of the review; and
 
 &emsp;&emsp;"(B) the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care and mental health care under TRICARE Standard in each TRICARE area, including any pending or resolved requests for waiver of payment limits in order to improve access to health care or mental health care in a specific geographic area.
 
 &emsp;"(2)
 
-Reports.—The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives on a biennial basis a report on the results of the review under paragraph (1). Each report shall include the following:
+Reports.—The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review under paragraph (1) during 2017 and 2020. Each report shall include the following:
 
 &emsp;&emsp;"(A) An analysis of the adequacy of the surveys under subsection (a).
 
@@ -402,7 +402,7 @@ Pub. L. 109–163, div. A, title VII, §717, Jan. 6, 2006, 119 Stat. 3345, provi
 
 "(a)
 
-Qualifications.—Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual may be selected to serve in the position of Regional Director under the TRICARE program unless the individual—
+Qualifications.—Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual maybe selected to serve in the position of Regional Director under the TRICARE program unless the individual—
 
 &emsp;"(1) is—
 
@@ -524,11 +524,11 @@ Definition.—In this section the term 'TRICARE program' has the meaning given s
 
 Pub. L. 107–107, div. A, title VII, §735(e), Dec. 28, 2001, 115 Stat. 1172, directed the Secretary of Defense to submit to committees of Congress, not later than Mar. 1, 2002, a report on the Secretary's plans for implementing Pub. L. 106–398, §1 \[\[div. A\], title VII, §721\], as amended, set out below.
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §721\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, as amended by Pub. L. 107–107, div. A, title VII, §735(a)–(d), Dec. 28, 2001, 115 Stat. 1171, 1172, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §721\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, as amended by Pub. L. 107–107, div. A, title VII, §735(a)–(d), Dec. 28, 2001, 115 Stat. 1171, 1172; Pub. L. 113–291, div. A, title VII, §703(b), Dec. 19, 2014, 128 Stat. 3411, provided that:
 
 "(a)
 
-Waiver of Nonavailability Statement or Preauthorization.—In the case of a covered beneficiary under TRICARE Standard pursuant to chapter 55 of title 10, United States Code, the Secretary of Defense may not require with regard to authorized health care services (other than mental health services) under such chapter that the beneficiary—
+Waiver of Nonavailability Statement or Preauthorization.—In the case of a covered beneficiary under TRICARE Standard pursuant to chapter 55 of title 10, United States Code, the Secretary of Defense may not require with regard to authorized health care services under such chapter that the beneficiary—
 
 &emsp;"(1) obtain a nonavailability statement or preauthorization from a military medical treatment facility in order to receive the services from a civilian provider; or
 
@@ -634,7 +634,7 @@ Suspension of Implementation of Program.—The Secretary shall suspend any plan 
 
 &emsp;"(2) the Secretary implements cost-saving reforms with respect to the military and contractor retail and mail order pharmacy system."
 
-Pub. L. 105–261, div. A, title VII, §723, Oct. 17, 1998, 112 Stat. 2068, as amended by Pub. L. 106–65, div. A, title X,§1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title VII, §711(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that:
+Pub. L. 105–261, div. A, title VII, §723, Oct. 17, 1998, 112 Stat. 2068, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title VII, §711(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that:
 
 "(a)
 
@@ -788,7 +788,7 @@ Completion of Existing Orders.—Subsection (a) shall not apply to orders for op
 
 #### Inclusion of Certain Designated Providers in Uniformed Services Health Care Delivery System
 
-Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592, as amended by Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8131(a)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117; Pub. L. 105–85, div. A, title VII, §§721–723, Nov. 18, 1997, 111 Stat. 1809, 1810; Pub. L. 106–65, div. A, title VII, §707, Oct. 5, 1999, 113 Stat. 684; Pub. L. 107–296, title XVII, §1704(e)(2), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–136, div. A, title VII, §714, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 108–199, div. H, §109, Jan. 23, 2004, 118 Stat. 438; Pub. L. 112–81, div. A, title VII, §708, Dec. 31, 2011, 125 Stat. 1474, provided that:
+Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592, as amended by Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8131(a)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117; Pub. L. 105–85, div. A, title VII, §§721–723, Nov. 18, 1997, 111 Stat. 1809, 1810; Pub. L. 106–65, div. A, title VII, §707, Oct. 5, 1999, 113 Stat. 684; Pub. L. 107–296, title XVII, §1704(e)(2), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–136, div. A, title VII, §714, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 108–199, div. H, §109, Jan. 23, 2004, 118 Stat. 438; Pub. L. 112–81, div. A, title VII, §708, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 113–291, div. A, title X, §1071(b)(11), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 #### "SEC. 721. DEFINITIONS.
 
@@ -822,7 +822,7 @@ Inclusion in System.—The health care delivery system of the uniformed services
 
 Agreements to Provide Managed Health Care Services.—(1) After consultation with the other administering Secretaries, the Secretary of Defense shall negotiate and enter into an agreement with each designated provider under which the designated provider will provide health care services in or through managed care plans to covered beneficiaries who enroll with the designated provider.
 
-"(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to section 25(c) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421(c)) \[now 41 U.S.C. 1303(a)\] shall apply to the agreements as acquisitions of commercial items.
+"(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to section 1303(a) of title 41, United States Code\[,\] shall apply to the agreements as acquisitions of commercial items.
 
 "(3) The implementation of an agreement is subject to availability of funds for such purpose.
 
@@ -834,7 +834,7 @@ Effective Date of Agreements.—(1) Unless an earlier effective date is agreed u
 
 &emsp;"(B) October 1, 1997.
 
-"(2) The Secretary may modify the effective date established under paragraph (1) for an agreement to permit a transition period of not more than six months between the date on which the agreement is executed bythe parties and the date on which the designated provider commences the delivery of health care services under the agreement.
+"(2) The Secretary may modify the effective date established under paragraph (1) for an agreement to permit a transition period of not more than six months between the date on which the agreement is executed by the parties and the date on which the designated provider commences the delivery of health care services under the agreement.
 
 "(d)
 
@@ -914,7 +914,7 @@ Additional Enrollment Authority.—(1) Subject to paragraph (2), other covered b
 
 Special Rule for Medicare-Eligible Beneficiaries.—(1) Except as provided in paragraph (2), if a covered beneficiary who desires to enroll in the managed care program of a designated provider is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), the covered beneficiary shall elect whether to receive health care services as an enrollee or under part A of title XVIII of the Social Security Act. The Secretary may disenroll an enrollee who subsequently violates the election made under this subsection and receives benefits under part A of title XVIII of the Social Security Act.
 
-"(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10, United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
+"(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10,United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
 
 "(f)
 
@@ -998,7 +998,7 @@ Provision of Training.—The Secretary of Defense shall implement a professional
 
 Limitation on Assignment Until Completion of Training.—No person may be assigned as the commander, deputy commander, or managed care coordinator of a military medical treatment facility or as a TRICARE lead agent or senior member of the staff of a TRICARE lead agent office until the Secretary of the military department concerned submits a certification to the Secretary of Defense that such person has completed the training described in subsection (a)."
 
-\[Pub. L. 106–398, §1 \[\[div. A\], title VII, §760(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that: "Theamendments made by subsection (a) to section 715 of such Act \[section 715 of Pub. L. 104–106, set out above\]—
+\[Pub. L. 106–398, §1 \[\[div. A\], title VII, §760(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that: "The amendments made by subsection (a) to section 715 of such Act \[section 715 of Pub. L. 104–106, set out above\]—
 
 &emsp;\["(1) shall apply to a deputy commander, a managed care coordinator of a military medical treatment facility, or a lead agent for coordinating the delivery of health care by military and civilian providers under the TRICARE program, who is assigned to such position on or after the date that is one year after the date of the enactment of this Act \[Oct. 30, 2000\]; and
 
@@ -1082,7 +1082,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(1) The term 'covered beneficiary' means a beneficiary under chapter 55 of title 10, United States Code, other than a beneficiary under section 1074(a) of such title.
 
-&emsp;"(2) The term 'TRICARE program' means the managed health care program that is established by theSecretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
+&emsp;"(2) The term 'TRICARE program' means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
 
 "(e)
 
@@ -1128,7 +1128,7 @@ Definitions.—For purposes of this section:
 
 #### Alternative Health Care Delivery Methodologies
 
-Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure thecontinuation of the CHAMPUS reform initiative in the States of California and Hawaii.
+Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
 
 #### Military Health Care for Persons Reliant on Health Care Facilities at Bases Being Closed or Realigned
 

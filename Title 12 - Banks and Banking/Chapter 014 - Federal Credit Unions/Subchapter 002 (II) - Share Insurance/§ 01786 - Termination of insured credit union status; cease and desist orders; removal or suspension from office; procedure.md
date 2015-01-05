@@ -8,7 +8,7 @@
 
 #### (b) Unsound condition of credit union; notice to correct condition; hearing; judicial review
 
-(1) Whenever, in the opinion of the Board, any insured credit union is engaging or has engaged in unsafe or unsound practices in conducting the business of such credit union, or is in an unsafe or unsound condition to continue operations as an insured credit union, or is violating or has violated an applicable law, rule, regulation, order, or any condition imposed in writing by the Board in connection with any action on any application, notice, or other request by the credit union or institution-affiliated party,, <sup>1</sup> or isviolating or has violated any written agreement entered into with the Board, the Board shall serve upon the credit union a statement with respect to such practices or conditions or violations for the purpose of securing the correction thereof. In the case of an insured State-chartered credit union, the Board shall send a copy of such statement to the commission, board, or authority, if any, having supervision of such credit union. Unless such correction shall be made within one hundred and twenty days after service of such statement, or within such shorter period of not less than twenty days after such service as the Board shall require in any case where it determines that the insurance risk with respect to such credit union could be unduly jeopardized by further delay in the correction of such practices or conditions or violations, or as the commission, board, or authority having supervision of such credit union, if any, shall require in the case of an insured State-chartered credit union, the Board, if it shall determine to proceed further, shall give to the credit union not less than thirty days' written notice of its intention to terminate the status of the credit union as an insured credit union. Such notice shall contain a statement of the facts constituting the alleged unsafe and unsound practices or conditions or violations and shall fix a time and place for a hearing thereon. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or a later date is set by the Board at the request of the credit union. Unless the credit union shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the termination of its status as an insured credit union. In the event of such consent, or if upon the record made at any such hearing the Board shall find that any unsafe or unsound practice or condition or violation specified in the notice has been established and has not been corrected within the time above-prescribed in which to make such correction, the Board may issue and serve upon the credit union an order terminating its status as an insured credit union on a date subsequent to the date of such finding and subsequent to the expiration of the time specified in the notice.
+(1) Whenever, in the opinion of the Board, any insured credit union is engaging or has engaged in unsafe or unsound practices in conducting the business of such credit union, or is in an unsafe or unsound condition to continue operations as an insured credit union, or is violating or has violated an applicable law, rule, regulation, order, or any condition imposed in writing by the Board in connection with any action on any application, notice, or other request by the credit union or institution-affiliated party,, <sup>1</sup> or is violating or has violated any written agreement entered into with the Board, the Board shall serve upon the credit union a statement with respect to such practices or conditions or violations for the purpose of securing the correction thereof. In the case of an insured State-chartered credit union, the Board shall send a copy of such statement to the commission, board, or authority, if any, having supervision of such credit union. Unless such correction shall be made within one hundred and twenty days after service of such statement, or within such shorter period of not less than twenty days after such service as the Board shall require in any casewhere it determines that the insurance risk with respect to such credit union could be unduly jeopardized by further delay in the correction of such practices or conditions or violations, or as the commission, board, or authority having supervision of such credit union, if any, shall require in the case of an insured State-chartered credit union, the Board, if it shall determine to proceed further, shall give to the credit union not less than thirty days' written notice of its intention to terminate the status of the credit union as an insured credit union. Such notice shall contain a statement of the facts constituting the alleged unsafe and unsound practices or conditions or violations and shall fix a time and place for a hearing thereon. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or a later date is set by the Board at the request of the credit union. Unless the credit union shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the termination of its status as an insured credit union. In the event of such consent, or if upon the record made at any such hearing the Board shall find that any unsafe or unsound practice or condition or violation specified in the notice has been established and has not been corrected within the time above-prescribed in which to make such correction, the Board may issue and serve upon the credit union an order terminating its status as an insured credit union on a date subsequent to the date of such finding and subsequent to the expiration of the time specified in the notice.
 
 (2) Any credit union whose insured status has been terminated by order of the Board under this subsection shall have the right of judicial review of such order only to the same extent as provided for the review of orders under subsection (j) of this section.
 
@@ -32,7 +32,7 @@ In the event of the termination of a credit union's status as an insured credit 
 
 (3)
 
-Affirmative action to correct conditions resulting from violations or practices.—The authority to issue an order under this subsection and subsection (f) of this section which requires an insured credit union or any institution-affiliated party to take affirmative action to correct any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such insured credit union or such party to—
+Affirmative action to correct conditions resulting from violations or practices.—The authority to issue an order under this subsection and subsection (f) which requires an insured credit union or any institution-affiliated party to take affirmative action to correct any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such insured credit union or such party to—
 
 &emsp;(A) make restitution or provide reimbursement, indemnification, or guarantee against loss if—
 
@@ -52,13 +52,13 @@ Affirmative action to correct conditions resulting from violations or practices.
 
 (4)
 
-Authority to limit activities.—The authority to issue an order under this subsection or subsection (f) of this section includes the authority to place limitations on the activities or functions of an insured credit union or any institution-affiliated party.
+Authority to limit activities.—The authority to issue an order under this subsection or subsection (f) includes the authority to place limitations on the activities or functions of an insured credit union or any institution-affiliated party.
 
 #### (f) Temporary cease and desist order; injunctive procedure
 
-(1) Whenever the Board shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the credit union or any institution-affiliated party pursuant to paragraph (1) of subsection (e) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the credit union, or is likely to weaken the condition of the credit union or otherwise prejudice the interests of its insured members prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (e) of this section, the Board may issue a temporary order requiring the credit union or such party to cease and desist from any such violation or practice and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order may include any requirement authorized under subsection (e)(3) of this section. Such order shall become effective upon service upon the credit union or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Administration shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the credit union or such party, until the effective date of such order.
+(1) Whenever the Board shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the credit union or any institution-affiliated party pursuant to paragraph (1) of subsection (e) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the credit union, or is likely to weaken the condition of the credit union or otherwise prejudice the interests of its insured members prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (e) of this section, the Board may issue a temporary order requiring the credit union or such party to cease and desist from any such violation or practice and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order may include any requirement authorized under subsection (e)(3). Such order shall become effective upon service upon the credit union or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Administration shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the credit union or such party, until the effective date of such order.
 
-(2) Within ten days after the credit union concerned or any institution-affiliated party has been served with a temporary cease-and-desistorder, the credit union or such party may apply to the United States district court for the judicial district in which the home office of the credit union is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the credit union or such party under paragraph (1) of subsection (e) of this section, and such court shall have jurisdiction to issue such injunction.
+(2) Within ten days after the credit union concerned or any institution-affiliated party has been served with a temporary cease-and-desist order, the credit union or such party may apply to the United States district court for the judicial district in which the home office of the credit union is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the credit union or such party under paragraph (1) of subsection (e) of this section, and such court shall have jurisdiction to issue such injunction.
 
 (3)
 
@@ -66,11 +66,11 @@ Incomplete or inaccurate records.—
 
 &emsp;(A)
 
-Temporary order.—If a notice of charges served under subsection (e)(1) of this section specifies, on the basis of particular facts and circumstances, that an insured credit union's books and records are so incomplete or inaccurate that the Board is unable, through the normal supervisory process, to determine the financial condition of that insured credit union or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that insured credit union, the Board may issue a temporary order requiring—
+Temporary order.—If a notice of charges served under subsection (e)(1) specifies, on the basis of particular facts and circumstances, that an insured credit union's books and records are so incomplete or inaccurate that the Board is unable, through the normal supervisory process, to determine the financial condition of that insured credit union or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that insured credit union, the Board may issue a temporary order requiring—
 
 &emsp;&emsp;(i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
 
-&emsp;&emsp;(ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (e)(1) of this section.
+&emsp;&emsp;(ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (e)(1).
 
 &emsp;(B)
 
@@ -80,7 +80,7 @@ Effective period.—Any temporary order issued under subparagraph (A)—
 
 &emsp;&emsp;(ii) unless set aside, limited, or suspended by a court in proceedings under paragraph (2), shall remain in effect and enforceable until the earlier of—
 
-&emsp;&emsp;&emsp;(I) the completion of the proceeding initiated under subsection (e)(1) of this section in connection with the notice of charges; or
+&emsp;&emsp;&emsp;(I) the completion of the proceeding initiated under subsection (e)(1) in connection with the notice of charges; or
 
 &emsp;&emsp;&emsp;(II) the date the Board determines, by examination or otherwise, that the insured credit union's books and records are accurate and reflect the financial condition of the credit union.
 
@@ -134,7 +134,7 @@ In general.—Whenever the Board determines that—
 
 &emsp;&emsp;(i) an institution-affiliated party has committed a violation of any provision of subchapter II of chapter 53 of title 31, unless such violation was inadvertent or unintentional;
 
-&emsp;&emsp;(ii) an officer or director of an insured credit union has knowledge that an institution-affiliated party of the insured credit union has violated any such provision or any provision of law referred to in subsection (i)(1)(A)(ii) of this section; or
+&emsp;&emsp;(ii) an officer or director of an insured credit union has knowledge that an institution-affiliated party of the insured credit union has violated any such provision or any provision of law referred to in subsection (i)(1)(A)(ii); or
 
 &emsp;&emsp;(iii) an officer or director of an insured credit union has committed any violation of the Depository Institution Management Interlocks Act \[12 U.S.C. 3201 et seq.\],
 
@@ -194,7 +194,7 @@ Industrywide Prohibition.—
 
 &emsp;(A)
 
-In general.—Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (i) of this section, has been removed or suspended from office in an insured credit union or prohibited from participating in the conduct of the affairs of an insured credit union may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
+In general.—Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (i), has been removed or suspended from office in an insured credit union or prohibited from participating in the conduct of the affairs of an insured credit union may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
 
 &emsp;&emsp;(i) any insured depository institution;
 
@@ -210,7 +210,7 @@ In general.—Except as provided in subparagraph (B), any person who, pursuant t
 
 &emsp;(B)
 
-Exception if agency provides written consent.—If, on or after the date an order is issued under this subsection which removes or suspends from office any institution-affiliated party or prohibits such party from participating in the conduct of the affairs of an insuredcredit union, such party receives the written consent of—
+Exception if agency provides written consent.—If, on or after the date an order is issued under this subsection which removes or suspends from office any institution-affiliated party or prohibits such party from participating in the conduct of the affairs of an insured credit union, such party receives the written consent of—
 
 &emsp;&emsp;(i) the Board; and
 
@@ -354,7 +354,7 @@ Continuation of authority.—The Board may issue an order under this paragraph w
 
 &emsp;&emsp;(ii) whether the credit union at which the individual was an institution-affiliated party at the time of the offense remains in existence at the time the order is considered or issued by the Board.
 
-(2) If at any time, because of the suspension of one or more directors pursuant to this section, there shall be on the board of directors of a Federal credit union less than a quorum of directors not so suspended, all powers and functions vested in or exercisable by such board shall vest in and be exercisable by the director or directors on the board not so suspended, until such time as there shall be a quorum of the board of directors. In the event all of the directors of a Federal credit union are suspended pursuant to this section, the Board shall appoint persons to serve temporarily as directors in their place and stead pending the termination of such suspensions, or until such time as those who have been suspended cease to be directors of the credit union and their respective successors have been elected by the members at an annual or special meeting and have taken office. Directors appointed temporarily by the Board shall, within thirty days following their appointment, call a special meeting for the election of new directors, unless during the thirty-day period (A) the regular annual meeting is scheduled, or (B) the suspensions giving rise to the appointment of temporary directors are terminated.
+(2) If at any time, because of the suspension of one or more directors pursuant to this section, there shall be on the board of directors of a Federal credit union less than a quorum of directors not so suspended, all powers and functions vested in or exercisable by such board shall vest in and be exercisable by the director or directors on the board not so suspended, until such time as there shall be a quorum of the board of directors. In the event all of the directors of a Federal credit union are suspended pursuant to this section, the Board shall appoint persons to serve temporarily as directors in their place and stead pending the termination of such suspensions, or until such time as those who have been suspended cease to be directors of the credit union and their respective successors have been elected by the members at an annual or special meeting and have taken office. Directors appointedtemporarily by the Board shall, within thirty days following their appointment, call a special meeting for the election of new directors, unless during the thirty-day period (A) the regular annual meeting is scheduled, or (B) the suspensions giving rise to the appointment of temporary directors are terminated.
 
 (3) Within thirty days from service of any notice of suspension or order of removal issued pursuant to paragraph (1) of this subsection, the institution-affiliated party concerned may request in writing an opportunity to appear before the Board to show that the continued service to or participation in the conduct of the affairs of the credit union by such party does not, or is not likely to, pose a threat to the interests of the credit union's members or threaten to impair public confidence in the credit union. Upon receipt of any such request, the Board shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of such party) and place at which such party may appear, personally or through counsel, before the Board or its designee to submit written materials (or, at the discretion of the Board, oral testimony) and oral argument. Within sixty days of such hearing, the Board shall notify such party whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the credit union will be continued, terminated or otherwise modified, or whether the order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the credit union will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for the Board's decision, if adverse to such party. The Board is authorized to prescribe such rules as may be necessary to effectuate the purposes of this subsection.
 
@@ -368,7 +368,7 @@ Continuation of authority.—The Board may issue an order under this paragraph w
 
 #### (k) Jurisdiction and enforcement; penalty
 
-(1) The Board may in its discretion apply to the United States district court, or the United States court of any territory within the jurisdiction of which the principal office of the credit union is located, for the enforcement of any effective and outstanding notice or order issued under this section or section 1790d of this title, and such courts shall have jurisdiction and power to order and require compliance therewith. However, except as otherwise provided in this section or section 1790d of this title, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement ofany notice or order under this section or section 1790d of this title or to review, modify, suspend, terminate, or set aside any such notice or order.
+(1) The Board may in its discretion apply to the United States district court, or the United States court of any territory within the jurisdiction of which the principal office of the credit union is located, for the enforcement of any effective and outstanding notice or order issued under this section or section 1790d of this title, and such courts shall have jurisdiction and power to order and require compliance therewith. However, except as otherwise provided in this section or section 1790d of this title, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section or section 1790d of this title or to review, modify, suspend, terminate, or set aside any such notice or order.
 
 (2)
 
@@ -380,7 +380,7 @@ First tier.—Any insured credit union which, and any institution-affiliated par
 
 &emsp;&emsp;(i) violates any law or regulation;
 
-&emsp;&emsp;(ii) violates any final order or temporary order issued pursuant to subsection (e), (f), (g), (i), or (q) of this section, or any final order under section 1790d of this title;
+&emsp;&emsp;(ii) violates any final order or temporary order issued pursuant to subsection (e), (f), (g), (i), or (q), or any final order under section 1790d of this title;
 
 &emsp;&emsp;(iii) violates any condition imposed in writing by the Board in connection with any action on any application, notice, or other request by the credit union or institution-affiliated party; or
 
@@ -500,9 +500,9 @@ Notice under this section after separation from service.—The resignation, term
 
 Whoever—
 
-&emsp;(1) under this chapter, is suspended or removed from, or prohibited from participating in the affairs of any credit union described in subsection (g)(5) of this section; and
+&emsp;(1) under this chapter, is suspended or removed from, or prohibited from participating in the affairs of any credit union described in subsection (g)(5); and
 
-&emsp;(2) knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order or in subsection (g)(5) of this section) in the conduct of the affairs of such a credit union;
+&emsp;(2) knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order or in subsection (g)(5)) in the conduct of the affairs of such a credit union;
 
 > shall be fined not more than $1,000,000, imprisoned for not more than 5 years, or both.
 
@@ -546,7 +546,7 @@ In the course of or in connection with any proceeding under this section or in c
 
 &emsp;&emsp;(B) has failed to correct any problem with the procedures maintained by such credit union which was previously reported to the credit union by the Board,
 
-> &emsp;the Board shall issue an order in the manner prescribed in subsection (e) or (f) of this section requiring such credit union to cease and desist from its violation of this subsection or regulations prescribed under this subsection.
+> &emsp;the Board shall issue an order in the manner prescribed in subsection (e) or (f) requiring such credit union to cease and desist from its violation of this subsection or regulations prescribed under this subsection.
 
 #### (r) "Institution-affiliated party" defined
 
@@ -588,7 +588,7 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 #### (4) Transcript of hearing
 
-&emsp;A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (k) of this section. A transcript of public hearings shall be made available to the public pursuant to section 552 of title 5.
+&emsp;A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (k). A transcript of public hearings shall be made available to the public pursuant to section 552 of title 5.
 
 #### (5) Delay of publication under exceptional circumstances
 
@@ -694,7 +694,7 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 #### (B) Certain payments in contemplation of an event
 
-&emsp;&emsp;Any payment which would be a golden parachute payment but for the fact that such payment was made before the date referred to in subparagraph (A)(ii) shall be treated as a golden parachute payment if the payment was made in contemplation of theoccurrence of an event described in any subclause of such subparagraph.
+&emsp;&emsp;Any payment which would be a golden parachute payment but for the fact that such payment was made before the date referred to in subparagraph (A)(ii) shall be treated as a golden parachute payment if the payment was made in contemplation of the occurrence of an event described in any subclause of such subparagraph.
 
 #### (C) Certain payments not included
 
@@ -712,13 +712,13 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 #### (A) Indemnification payment
 
-&emsp;&emsp;Subject to paragraph (6), the term "indemnification payment" means any payment (or any agreement to make any payment) by any credit union for the benefit of any person who is or was an institution-affiliated party, to pay or reimburse such person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Board which results in a final order under which such person—
+&emsp;&emsp;Subject to paragraph (6), the term "indemnification payment" means any payment (orany agreement to make any payment) by any credit union for the benefit of any person who is or was an institution-affiliated party, to pay or reimburse such person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Board which results in a final order under which such person—
 
 &emsp;&emsp;&emsp;(i) is assessed a civil money penalty;
 
 &emsp;&emsp;&emsp;(ii) is removed or prohibited from participating in conduct of the affairs of the credit union; or
 
-&emsp;&emsp;&emsp;(iii) is required to take any affirmative action described in subsection (e)(3) of this section with respect to such credit union.
+&emsp;&emsp;&emsp;(iii) is required to take any affirmative action described in subsection (e)(3) with respect to such credit union.
 
 #### (B) Liability or legal expense
 
@@ -828,7 +828,7 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 #### (4) Temporary insurance of previously insured deposits
 
-&emsp;Upon termination of the insured status of any State credit union pursuant to paragraph (1), the deposits of such credit union shall be treated in accordance with subsection (d)(2) of this section.
+&emsp;Upon termination of the insured status of any State credit union pursuant to paragraph (1), the deposits of such credit union shall be treated in accordance with subsection (d)(2).
 
 #### (5) Successor liability
 
@@ -872,7 +872,7 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 #### (i) Industry-wide prohibition order
 
-&emsp;&emsp;&emsp;The Board shall serve a written notice or order in accordance with and subject to the provisions of subsection (g)(4) of this section for written notices or orders under paragraph (1) or (2) of subsection (g) of this section, upon such person of the intention of the Board—
+&emsp;&emsp;&emsp;The Board shall serve a written notice or order in accordance with and subject to the provisions of subsection (g)(4) for written notices or orders under paragraph (1) or (2) of subsection (g), upon such person of the intention of the Board—
 
 &emsp;&emsp;&emsp;&emsp;(I) to remove such person from office or to prohibit such person from further participation in the conduct of the affairs of the insured credit union for a period of up to 5 years; and
 
@@ -880,11 +880,11 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 #### (ii) Civil monetary penalty
 
-&emsp;&emsp;&emsp;The Board may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with subsection (k) of this section. In lieu of an action by the Board under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
+&emsp;&emsp;&emsp;The Board may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with subsection (k). In lieu of an action by the Board under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
 
 #### (B) Scope of prohibition order
 
-&emsp;&emsp;Any person subject to an order issued under this subparagraph (A)(i) shall be subject to paragraphs (5) and (7) of subsection (g) of this section in the same manner and to the same extent as a person subject to an order issued under subsection (g) of this section.
+&emsp;&emsp;Any person subject to an order issued under this subparagraph (A)(i) shall be subject to paragraphs (5) and (7) of subsection (g) in the same manner and to the same extent as a person subject to an order issued under subsection (g).
 
 (June 26, 1934, ch. 750, title II, §206, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1003; amended Pub. L. 93–383, title VII, §728, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, §307, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title I, §§107(a)(4), (c)(4), (d)(4), (e)(4), 111(d), title V, §502(b), Nov. 10, 1978, 92 Stat. 3652, 3656, 3659, 3663, 3670, 3681; Pub. L. 97–320, title I, §§132, 141(a)(8), title IV, §§424(a), (d)(9), (e), 427(c), Oct. 15, 1982, 96 Stat. 1487, 1489, 1522, 1523, 1525; Pub. L. 98–369, div. B, title VIII, §2812, July 18, 1984, 98 Stat. 1206; Pub. L. 99–570, title I, §1359(d), Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §509(a), title VII, §§709–713, Aug. 10, 1987, 101 Stat. 635, 653, 654; Pub. L. 101–73, title IX, §§901(a), (b)(2), 902(b), 903(b), 904(b), 905(b), 906(b), 907(b), 908(b), 913(b), 915(b), 920(b), title XII, §1217(b), Aug. 9, 1989, 103 Stat. 446, 448, 451, 455, 458, 460, 462, 464, 477, 484, 486, 488, 546; Pub. L. 101–647, title XXV, §§2523(b), 2532(c), 2547(b), Nov. 29, 1990, 104 Stat. 4870, 4881, 4887; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XV, §§1501(b), 1503(b), 1504(b), Oct. 28, 1992, 106 Stat. 4044, 4050, 4053; Pub. L. 103–325, title IV, §411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 105–219, title III, §301(b)(1), (g)(1), (2), Aug. 7, 1998, 112 Stat. 930, 931; Pub. L. 108–458, title VI, §6303(c), Dec. 17, 2004, 118 Stat. 3753; Pub. L. 109–351, title VII, §§708(b), 715(b), 716(b), 723(b), 726(14)–(19), Oct. 13, 2006, 120 Stat. 1989, 1995, 1996, 2000, 2002, 2003; Pub. L. 111–203, title III, §362(3), July 21, 2010, 124 Stat. 1549.)
 
@@ -932,7 +932,7 @@ Subsec. (i)(1)(D)(i). Pub. L. 109–351, §708(b)(1)(D), substituted "upon the c
 
 Subsec. (i)(1)(E). Pub. L. 109–351, §708(b)(1)(E), added subpar. (E).
 
-Subsec. (k)(2)(A)(iii). Pub. L. 109–351, §716(b)(3), substituted "any action on any application, notice, or other request by the credit union or institution-affiliated party" for "the grant of any application or other request by such credit union".
+Subsec. (k)(2)(A)(iii). Pub. L. 109–351, §716(b)(3), substituted "any action on any application, notice, orother request by the credit union or institution-affiliated party" for "the grant of any application or other request by such credit union".
 
 Subsec. (k)(3). Pub. L. 109–351, §715(b), inserted "or order" after "notice" in two places.
 
@@ -992,7 +992,7 @@ Subsec. (u). Pub. L. 101–647, §2532(c), added subsec. (u).
 
 Subsec. (e)(3), (4). Pub. L. 101–73, §902(b)(1), added pars. (3) and (4).
 
-Subsec. (f)(1). Pub. L. 101–73, §902(b)(2)(B), substituted "significant" for "substantial", struck out "seriously" before "weaken the condition of" and before "prejudice the interests of", and inserted after first sentence "Such order may include any requirement authorized under subsection (e)(3)(B) of this section."
+Subsec. (f)(1). Pub. L. 101–73, §902(b)(2)(B), substituted "significant" for "substantial", struck out "seriously" before "weaken the condition of" and before "prejudice the interests of", and inserted after first sentence "Such order may include any requirement authorized under subsection (e)(3)(B)."
 
 Pub. L. 101–73, §901(b)(2)(B), (C), substituted references to institution-affiliated parties for references to directors, officers, committee members, employees, agents, or other persons participating in the conduct of the affairs of credit unions.
 
@@ -1000,7 +1000,7 @@ Subsec. (f)(2). Pub. L. 101–73, §901(b)(2)(B), substituted references to inst
 
 Subsec. (f)(3), (4). Pub. L. 101–73, §902(b)(2)(A), (C), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (g)(1). Pub. L. 101–73, §903(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Whenever, in the opinion of the Board, any director, officer, committee member, or employee of an insured credit union has committed any violation of law, rule, or regulation, or of a cease-and-desist order which has become final, or has engaged or participated in any unsafe or unsound practice in connection with the credit union, or has committed or engaged in any act, omission, or practice which constitutes a breach of his fiduciary duty as such director, officer, committee member, or employee and the Board determines that the credit union has suffered or will probably suffersubstantial financial loss or other damage or that the interests of its insured members could be seriously prejudiced by reason of such violation or practice or breach of fiduciary duty, the Board may serve upon such director, officer, committee member, or employee a written notice of its intention to remove him from office."
+Subsec. (g)(1). Pub. L. 101–73, §903(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Whenever, in the opinion of the Board, any director, officer, committee member, or employee of an insured credit union has committed any violation of law, rule, or regulation, or of a cease-and-desist order which has become final, or has engaged or participated in any unsafe or unsound practice in connection with the credit union, or has committed or engaged in any act, omission, or practice which constitutes a breach of his fiduciary duty as such director, officer, committee member, or employee and the Board determines that the credit union has suffered or will probably suffer substantial financial loss or other damage or that the interests of its insured members could be seriously prejudiced by reason of such violation or practice or breach of fiduciary duty, the Board may serve upon such director, officer, committee member, or employee a written notice of its intention to remove him from office."
 
 Subsec. (g)(2). Pub. L. 101–73, §903(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "Whenever, in the opinion of the Board, any director, officer, committee member, or employee of an insured credit union, by conduct or practice with respect to another insured credit union or other business institution which resulted in substantial financial loss or other damage, has evidenced his personal dishonesty or unfitness to continue as a director, officer, committee member, or employee, and, whenever, in the opinion of the Board, any agent or other person participating in the conduct of the affairs of an insured credit union, by conduct or practice with respect to such credit union or other insured credit union or other business institution which resulted in substantial financial loss or other damage, has evidenced his personal dishonesty or unfitness to participate in the conduct of the affairs of such insured credit union, the Board may serve upon such director, officer, committee member, employee, agent, or other person a written notice of its intention to remove him from office and/or to prohibit his further participation in any manner in the conduct of the affairs of such credit union."
 
@@ -1062,7 +1062,7 @@ Subsec. (h)(8), (9). Pub. L. 100–86, §713, added par. (8) and redesignated fo
 
 Subsec. (q). Pub. L. 99–570, §1359(d)(1), added subsec. (q).
 
-<b>1984</b>—Subsec. (d)(1). Pub. L. 98–369 inserted "(1)" after "subsection (a)", "maintain its deposit with and", andprovisions relating to termination of insured status and the obtaining of comparable insurance coverage from another source.
+<b>1984</b>—Subsec. (d)(1). Pub. L. 98–369 inserted "(1)" after "subsection (a)", "maintain its deposit with and", and provisions relating to termination of insured status and the obtaining of comparable insurance coverage from another source.
 
 <b>1982</b>—Subsec. (b)(2). Pub. L. 97–320, §132(b), substituted "subsection (j)" for "subsection (i)".
 
@@ -1106,7 +1106,7 @@ Subsec. (f). Pub. L. 95–630, §§107(c)(4), 502(b), substituted "Board" for "A
 
 Subsec. (g). Pub. L. 95–630, §§107(d)(4), 502(b), substituted "Board" for "Administrator" wherever appearing, in pars. (1), (2) "its" for "his", in par. (3) "it" for "he", "or prohibit him" for "and/or prohibit him", "suspension or prohibition" for "suspension and/or prohibition", and "removal and prohibition" for "removal and/or prohibition", and in par. (4) "or to prohibit" for "and/or to prohibit", "removal or prohibition" for "removal and/or prohibition", and "or prohibition" for "and/or prohibition".
 
-Subsec. (h). Pub. L. 95–630, §§111(d)(1), 502(b), among other changes, substituted "Board" for "Administrator" wherever appearing, in par. (1) substituted "Crime" for "felony" in two places and "subsection (g) of this section" for "paragraph (1) or (2) of subsection (g) of this section", inserted "which is punishable by imprisonment for a term exceeding one year under State or Federal law" after "or breach of trust" and ", if continued service or participation by the individual may pose a threat to the interests of the credit union's members or may threaten to impair public confidence in the credit union" after "the Board may" intwo places, and inserted provision that any notice of suspension or order of removal issued under this paragraph remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) hereof unless terminated by the Board, and added par. (3).
+Subsec. (h). Pub. L. 95–630, §§111(d)(1), 502(b), among other changes, substituted "Board" for "Administrator" wherever appearing, in par. (1) substituted "Crime" for "felony" in two places and "subsection (g) of this section" for "paragraph (1) or (2) of subsection (g) of this section", inserted "which is punishable by imprisonment for a term exceeding one year under State or Federal law" after "or breach of trust" and ", if continued service or participation by the individual may pose a threat to the interests of the credit union's members or may threaten to impair public confidence in the credit union" after "the Board may" in two places, and inserted provision that any notice of suspension or order of removal issued under this paragraph remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) hereof unless terminated by the Board, and added par. (3).
 
 Subsec. (i). Pub. L. 95–630, §§111(d)(2), (3), 502(b), substituted "Board" for "Administrator" wherever appearing, in par. (1) substituted "its" for "his" and "it" for "he" and "him" and inserted "(other than the hearing provided for in subsection (h)(3) of this section)" after "provided for in this section", and in par. (2) substituted "subsection (h)(1)" for "subsection (h)".
 

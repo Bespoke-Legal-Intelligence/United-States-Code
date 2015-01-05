@@ -4,27 +4,47 @@
 
 In General.—There are authorized to be appropriated to the Secretary to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119)—
 
-&emsp;(1) $42,338,000 for fiscal year 2013; and
+&emsp;(1) $42,338,000 for fiscal year 2013;
 
-&emsp;(2) $42,762,000 for fiscal year 2014.
+&emsp;(2) $42,762,000 for fiscal year 2014; and
+
+&emsp;(3) $28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 (b)
 
-Hazardous Materials Emergency Preparedness Fund.—From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend, during each of fiscal years 2013 and 2014—
+Hazardous Materials Emergency Preparedness Fund.—
 
-&emsp;(1) $188,000 to carry out section 5115;
+&emsp;(1)
 
-&emsp;(2) $21,800,000 to carry out subsections (a) and (b) of section 5116, of which not less than $13,650,000 shall be available to carry out section 5116(b);
+Fiscal years 2013 and 2014.—From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend, during each of fiscal years 2013 and 2014—
 
-&emsp;(3) $150,000 to carry out section 5116(f);
+&emsp;&emsp;(A) $188,000 to carry out section 5115;
 
-&emsp;(4) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+&emsp;&emsp;(B) $21,800,000 to carry out subsections (a) and (b) of section 5116, of which not less than $13,650,000 shall be available to carry out section 5116(b);
 
-&emsp;(5) $1,000,000 to carry out section 5116(j).
+&emsp;&emsp;(C) $150,000 to carry out section 5116(f);
+
+&emsp;&emsp;(D) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+&emsp;&emsp;(E) $1,000,000 to carry out section 5116(j).
+
+&emsp;(2)
+
+Fiscal year 2015.—From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on May 31, 2015—
+
+&emsp;&emsp;(A) $125,162 to carry out section 5115;
+
+&emsp;&emsp;(B) $14,513,425 to carry out subsections (a) and (b) of section 5116, of which not less than$9,087,534 shall be available to carry out section 5116(b);
+
+&emsp;&emsp;(C) $99,863 to carry out section 5116(f);
+
+&emsp;&emsp;(D) $416,096 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+&emsp;&emsp;(E) $665,753 to carry out section 5116(j).
 
 (c)
 
-Hazardous Materials Training Grants.—From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 to carry out section 5107(e).
+Hazardous Materials Training Grants.—From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015, to carry out section 5107(e).
 
 (d)
 
@@ -38,7 +58,7 @@ Expenses.—In addition to amounts otherwise made available to carry out this ch
 
 Availability of amounts.—Amounts made available under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 783, §5127; Pub. L. 103–311, title I, §§103, 119(b), (c)(4), Aug. 26, 1994, 108 Stat. 1673, 1680; renumbered §5128 and amended Pub. L. 109–59, title VII, §§7123(b), 7125, Aug. 10, 2005, 119 Stat. 1907, 1908; Pub. L. 110–244, title III, §302(f), June 6, 2008, 122 Stat. 1618; Pub. L. 112–141, div. C, title III, §33017, July 6, 2012, 126 Stat. 841.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 783, §5127; Pub. L. 103–311, title I, §§103, 119(b), (c)(4), Aug. 26, 1994, 108 Stat. 1673, 1680; renumbered §5128 and amended Pub. L. 109–59, title VII, §§7123(b), 7125, Aug. 10, 2005, 119 Stat. 1907, 1908; Pub. L. 110–244, title III, §302(f), June 6, 2008, 122 Stat. 1618; Pub. L. 112–141, div. C, title III, §33017, July 6, 2012, 126 Stat. 841; Pub. L. 113–159, title I, §1301, Aug. 8, 2014, 128 Stat. 1847.)
 
 Historical and Revision Notes
 
@@ -99,6 +119,12 @@ In subsection (c), the text of 49 App.:1815(i)(3)(A) is omitted as obsolete.
 In subsection (c)(2), the words "relating to dissemination of the curriculum" are omitted as surplus.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(3). Pub. L. 113–159, §1301(a), added par. (3).
+
+Subsec. (b). Pub. L. 113–159, §1301(b), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Subsec. (c). Pub. L. 113–159, §1301(c), inserted "and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015," after "2014".
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2005 to 2008.
 

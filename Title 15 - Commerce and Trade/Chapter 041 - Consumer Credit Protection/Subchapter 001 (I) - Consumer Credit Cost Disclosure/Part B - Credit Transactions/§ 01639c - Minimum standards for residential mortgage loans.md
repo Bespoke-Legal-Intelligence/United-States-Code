@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(D) The interest rate on the refinanced loan is lower than the interest rate of the original loan, unless the borrower is refinancing from an adjustable rate to a fixed-rate loan, under guidelines that the department or agency shall establish for loans they make, guarantee, or issue.
 
-&emsp;&emsp;(E) The refinancing is subject to a payment schedule that will fully amortize the refinancing in accordance with the regulations prescribed by the department or agency making, guaranteeing, or insuring the refinancing.
+&emsp;&emsp;(E) The refinancing is subject to a payment schedule that will fully amortize therefinancing in accordance with the regulations prescribed by the department or agency making, guaranteeing, or insuring the refinancing.
 
 &emsp;&emsp;(F) The terms of the refinancing do not result in a balloon payment, as defined in subsection (b)(2)(A)(ii).
 
@@ -48,7 +48,7 @@
 
 #### (B) Interest-only loans
 
-&emsp;&emsp;For purposes of determining, under this subsection, a consumer's ability to repay a residential mortgage loan that permits or requires the payment of interest only, thecreditor shall use the payment amount required to amortize the loan by its final maturity.
+&emsp;&emsp;For purposes of determining, under this subsection, a consumer's ability to repay a residential mortgage loan that permits or requires the payment of interest only, the creditor shall use the payment amount required to amortize the loan by its final maturity.
 
 #### (C) Calculation for negative amortization
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&emsp;(iv) in the case of a fixed rate loan, for which the underwriting process is based on a payment schedule that fully amortizes the loan over the loan term and takes into account all applicable taxes, insurance, and assessments;
 
-&emsp;&emsp;&emsp;(v) in the case of an adjustable rate loan, for which the underwriting is based on the maximum rate permitted under the loan during the first 5 years, and a payment schedule that fully amortizes the loan over the loan term and takes into account allapplicable taxes, insurance, and assessments;
+&emsp;&emsp;&emsp;(v) in the case of an adjustable rate loan, for which the underwriting is based on the maximum rate permitted under the loan during the first 5 years, and a payment schedule that fully amortizes the loan over the loan term and takes into account all applicable taxes, insurance, and assessments;
 
 &emsp;&emsp;&emsp;(vi) that complies with any guidelines or regulations established by the Bureau relating to ratios of total monthly debt to monthly income or alternative measures of ability to pay regular expenses after payment of total monthly debt, taking into account the income levels of the borrower and such other factors as the Bureau may determine relevant and consistent with the purposes described in paragraph (3)(B)(i);
 
@@ -182,7 +182,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Bureau may prescribe regulations that revise, add to, or subtract from thecriteria that define a qualified mortgage upon a finding that such regulations are necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section, necessary and appropriate to effectuate the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections.
+&emsp;&emsp;&emsp;The Bureau may prescribe regulations that revise, add to, or subtract from the criteria that define a qualified mortgage upon a finding that such regulations are necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section, necessary and appropriate to effectuate the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections.
 
 #### (ii) Loan definition
 
@@ -290,7 +290,7 @@ No creditor may extend credit to a borrower in connection with a consumer credit
 
 #### (2) Notice at time of consummation
 
-&emsp;In the case of any residential mortgage loan that is, or upon consummation will be, subject to protection under an anti-deficiency law, the creditor or mortgage originator shall provide a written notice to the consumer describing the protection provided by the anti-deficiency law and the significance for the consumer of the loss of such protection before such loan is consummated.
+&emsp;In the case of any residential mortgage loan that is, or upon consummation will be, subject to protection under an anti-deficiency law, the creditor or mortgage originator shall provide a written notice to the consumer describing the protection provided by the anti-deficiencylaw and the significance for the consumer of the loss of such protection before such loan is consummated.
 
 #### (3) Notice before refinancing that would cause loss of protection
 

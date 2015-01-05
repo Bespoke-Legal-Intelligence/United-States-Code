@@ -6,7 +6,7 @@ The President may guarantee any individual, corporation, partnership, or other j
 
 #### (b) Sale of promissory notes of friendly countries and international organizations; guaranty of payment
 
-The President may sell to any individual, corporation, partnership, or other juridical entity\(excluding United States Government agencies other than the Federal Financing Bank) promissory notes issued by friendly countries and international organizations as evidence of their obligations to make repayments to the United States on account of credit sales financed under section 2763 of this title, and may guarantee payment thereof.
+The President may sell to any individual, corporation, partnership, or other juridical entity (excluding United States Government agencies other than the Federal Financing Bank) promissory notes issued by friendly countries and international organizations as evidence of their obligations to make repayments to the United States on account of credit sales financed under section 2763 of this title, and may guarantee payment thereof.
 
 #### (c) Guaranty Reserve Fund; payment of guaranties; guaranty reserve below prescribed amount
 
@@ -56,7 +56,7 @@ Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214.
 
 Pub. L. 100–461, title III, Oct. 1, 1988, 102 Stat. 2268–18.
 
-Pub. L. 100–202, §101(e) \[title III\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–148, as amended by Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93, provided in part that:
+Pub. L. 100–202, §101(e) \[title III\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–148, as amended by Pub. L. 101–167,title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93, provided in part that:
 
 "(a)
 

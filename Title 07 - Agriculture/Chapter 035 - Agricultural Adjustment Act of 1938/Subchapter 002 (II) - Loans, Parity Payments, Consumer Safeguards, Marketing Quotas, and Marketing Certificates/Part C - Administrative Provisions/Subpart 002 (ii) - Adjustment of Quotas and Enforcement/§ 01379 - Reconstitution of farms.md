@@ -14,7 +14,7 @@ In any case in which the ownership of a tract of land is transferred from a pare
 
 &emsp;(6) neither the tract transferred from the parent farm nor the remaining portion of the parent farm receives allotments in excess of allotments for similar farms in the community having allotments of the commodity or commodities involved and such allotments are consistent with good land uses.
 
-(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat.1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, §803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178; Pub. L. 108–357, title VI, §611(m), Oct. 22, 2004, 118 Stat. 1523.)
+(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, §803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178; Pub. L. 108–357, title VI, §611(m), Oct. 22, 2004, 118 Stat. 1523.)
 
 #### Amendments
 

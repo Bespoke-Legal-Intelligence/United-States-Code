@@ -26,7 +26,7 @@ Subsec. (b)(1). Pub. L. 109–241, §207(2), added par. (1) and struck out forme
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore" wherever appearing.
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–557 designated existing provisions as par. (1), struck out provisions authorizing number of Reserve officers in an active status not on active duty in the combined grades of commodore and rear admiral as two, and added par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–557 designated existing provisions as par. (1), struck out provisions authorizingnumber of Reserve officers in an active status not on active duty in the combined grades of commodore and rear admiral as two, and added par. (2).
 
 <b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted "commodore" for "rear admiral" and "combined grades of commodore and real admiral" for "grade of rear admiral".
 

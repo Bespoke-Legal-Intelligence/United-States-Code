@@ -16,7 +16,7 @@ On or before February 1, 2013, and every 3 years thereafter,,<sup>1</sup> the Di
 
 &emsp;(6) specific policies and steps implemented to ensure compliance with title IV of this Act;
 
-&emsp;(7) steps taken to ensure that the national media campaign will secure, to the maximumextent possible, no cost matches of advertising time and space or in-kind contributions that are directly related to the campaign in accordance with title IV of this Act; and
+&emsp;(7) steps taken to ensure that the national media campaign will secure, to the maximum extent possible, no cost matches of advertising time and space or in-kind contributions that are directly related to the campaign in accordance with title IV of this Act; and
 
 &emsp;(8) a review and evaluation of the effectiveness of the national media campaign strategy for the past year.
 

@@ -48,7 +48,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (ii) Procedure
 
-&emsp;&emsp;&emsp;Any election under this paragraph shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extensionof time) for filing the return for the taxpayer's last taxable year beginning in 2009. Any such election, once made, shall be irrevocable.
+&emsp;&emsp;&emsp;Any election under this paragraph shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extension of time) for filing the return for the taxpayer's last taxable year beginning in 2009. Any such election, once made, shall be irrevocable.
 
 #### (D) Limitation on amount of loss carryback to 5th preceding taxable year
 
@@ -74,17 +74,17 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the operations loss deduction shall not be allowed, and
 
-&emsp;&emsp;(B) the deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
+&emsp;&emsp;(B) the deductions allowed by sections 243 (relating to dividends received by corporations),<sup>1</sup> and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
 
 #### (d) Offset defined
 
 #### (1) In general
 
-&emsp;For purposes of subsection (b)(2), the term "offset" means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804) <sup>1</sup> or such year to zero.
+&emsp;For purposes of subsection (b)(2), the term "offset" means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804) <sup>2</sup> or such year to zero.
 
 #### (2) Operations loss deduction
 
-&emsp;For purposes of paragraph (1), the operations loss deduction for any taxable year shall be computed without regard to the loss from operations for the loss year or for any taxable year thereafter.
+&emsp;For purposes of paragraph (1), the operations loss deduction for any taxable year shall becomputed without regard to the loss from operations for the loss year or for any taxable year thereafter.
 
 #### (e) New company defined
 
@@ -92,13 +92,13 @@ For purposes of this part, a life insurance company is a new company for any tax
 
 #### (f) Application of subtitles A and F in respect of operation losses
 
-Except as provided in section 805(b)(5),<sup>1</sup> subtitles A and F shall apply in respect of operation loss carrybacks, operation loss carryovers, and the operations loss deduction under this part, in the same manner and to the same extent as such subtitles apply in respect of net operating loss carrybacks, net operating loss carryovers, and the net operating loss deduction.
+Except as provided in section 805(b)(5),<sup>2</sup> subtitles A and F shall apply in respect of operation loss carrybacks, operation loss carryovers, and the operations loss deduction under this part, in the same manner and to the same extent as such subtitles apply in respect of net operating loss carrybacks, net operating loss carryovers, and the net operating loss deduction.
 
 #### (g) Transitional rule
 
 For purposes of this section and section 812 (as in effect before the enactment of the Life Insurance Tax Act of 1984), this section shall be treated as a continuation of such section 812.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 738; amended Pub. L. 111–92, §13(c), Nov. 6, 2009, 123 Stat. 2994.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 738; amended Pub. L. 111–92, §13(c), Nov. 6, 2009, 123 Stat. 2994; Pub. L. 113–295, div. A, title II, §221(a)(41)(J), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### References in Text
 
@@ -114,7 +114,15 @@ A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125;
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(2)(B). Pub. L. 113–295, which directed amendment of subpar. (B) by striking out "244 (relating to dividends on certain preferred stock of public utilities)," was amended by striking out "244 (relating to dividends received on certain preferred stock of public utilities)," after "received by corporations)," to reflect the probable intent of Congress.
+
 <b>2009</b>—Subsec. (b)(4). Pub. L. 111–92 added par. (4).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -124,5 +132,7 @@ Amendment by Pub. L. 111–92 applicable to losses arising in taxable years endi
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

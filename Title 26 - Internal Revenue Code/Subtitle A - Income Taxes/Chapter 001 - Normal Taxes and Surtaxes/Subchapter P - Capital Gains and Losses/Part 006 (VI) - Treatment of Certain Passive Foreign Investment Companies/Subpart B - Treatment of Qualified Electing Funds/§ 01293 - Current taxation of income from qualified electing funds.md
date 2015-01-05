@@ -110,5 +110,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
+Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
 

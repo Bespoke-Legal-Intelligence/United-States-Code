@@ -2,13 +2,13 @@
 
 #### (a) Transfer of functions
 
-There are transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the effective date specified in subsection (d) of this section.
+There are transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the effective date specified in subsection (d).
 
 #### (b) Functions
 
 #### (1) In general
 
-&emsp;Pursuant to the transfer made by subsection (a) of this section, the Director of the Office of Refugee Resettlement shall be responsible for—
+&emsp;Pursuant to the transfer made by subsection (a), the Director of the Office of Refugee Resettlement shall be responsible for—
 
 &emsp;&emsp;(A) coordinating and implementing the care and placement of unaccompanied alien children who are in Federal custody by reason of their immigration status, including developing a plan to be submitted to Congress on how to ensure that qualified and independent legal counsel is timely appointed to represent the interests of each such child, consistent with the law regarding appointment of counsel that is in effect on November 25, 2002;
 
@@ -86,7 +86,7 @@ With respect to any function transferred by this section, any reference in any o
 
 #### (1) Exercise of authorities
 
-&emsp;Except as otherwise provided by law, a Federal official to whom a function is transferred by this section may, for purposes of performing the function, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date specified in subsection (d) of this section.
+&emsp;Except as otherwise provided by law, a Federal official to whom a function is transferred by this section may, for purposes of performing the function, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date specified in subsection (d).
 
 #### (2) Savings provisions
 
@@ -100,9 +100,9 @@ With respect to any function transferred by this section, any reference in any o
 
 As used in this section—
 
-&emsp;(1) the term “placement” means the placement of an unaccompanied alien child in either a detention facility or an alternative to such a facility; and
+&emsp;(1) the term "placement" means the placement of an unaccompanied alien child in either a detention facility or an alternative to such a facility; and
 
-&emsp;(2) the term “unaccompanied alien child” means a child who—
+&emsp;(2) the term "unaccompanied alien child" means a child who—
 
 &emsp;&emsp;(A) has no lawful immigration status in the United States;
 
@@ -118,21 +118,21 @@ As used in this section—
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, asamended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 Section 4, referred to in subsec. (d), is section 4 of Pub. L. 107–296, which is set out as an Effective Date note under section 101 of this title.
 
-This chapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (f)(2), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Codification
 
-In subsec. (f)(3), “section 1531 of title 31” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (f)(3), "section 1531 of title 31" substituted for "section 202 of the Budget and Accounting Procedures Act of 1950" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1)(L). Pub. L. 110–457, §235(f)(1), substituted “, including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements.” for period at end.
+<b>2008</b>—Subsec. (b)(1)(L). Pub. L. 110–457, §235(f)(1), substituted ", including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements." for period at end.
 
-Subsec. (b)(3). Pub. L. 110–457, §235(f)(2)(A), substituted “paragraph (1),” for “paragraph (1)(G),”.
+Subsec. (b)(3). Pub. L. 110–457, §235(f)(2)(A), substituted "paragraph (1)," for "paragraph (1)(G),".
 
 Subsec. (b)(4). Pub. L. 110–457, §235(f)(2)(B), added par. (4).
 

@@ -64,7 +64,7 @@ In this section:
 
 Funds made available to carry out this subpart may be used for one or more of the following purposes:
 
-&emsp;(1) To provide training for elementary school and secondary school administrators, faculty, and staff that addresses issues concerning elementary school and secondary school students who experience domestic violence in dating relationships or who witness domestic violence,and the impact of such violence on those students.
+&emsp;(1) To provide training for elementary school and secondary school administrators, faculty, and staff that addresses issues concerning elementary school and secondary school students who experience domestic violence in dating relationships or who witness domestic violence, and the impact of such violence on those students.
 
 &emsp;(2) To provide education programs for elementary school and secondary school students that are developmentally appropriate for the students' grade levels and are designed to meet any unique cultural and language needs of the particular student populations.
 

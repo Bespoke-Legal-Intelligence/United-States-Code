@@ -40,11 +40,11 @@ Under regulations prescribed by the Secretary—
 
 #### (D) Coordination with paragraph (1)
 
-&emsp;&emsp;If, after property is placed in service, there is a disposition or other cessation describedin paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
+&emsp;&emsp;If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
 
 #### (E) Special rules
 
-&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b).
+&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4).
 
 #### (3) Carrybacks and carryovers adjusted
 
@@ -174,7 +174,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (d) Certain rules made applicable
 
-For purposes of this subpart, rules similar to the rules of the following provisions (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
+For purposes of this subpart, rules similar to the rules of the following provisions (as in effecton the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
 
 &emsp;(1) Section 46(e) (relating to limitations with respect to certain persons).
 
@@ -192,7 +192,7 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 > Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
 
-(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638.)
+(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036.)
 
 #### References in Text
 
@@ -203,6 +203,8 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat. 498, related to restoration of credit for investment in certain depreciable property, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2)(E). Pub. L. 113–295 inserted ", 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4)" after "in section 48(b)".
 
 <b>2005</b>—Subsec. (a)(2)(E). Pub. L. 109–135 substituted "section 48(b)" for "section 48(a)(5)".
 
@@ -222,7 +224,7 @@ Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or i
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

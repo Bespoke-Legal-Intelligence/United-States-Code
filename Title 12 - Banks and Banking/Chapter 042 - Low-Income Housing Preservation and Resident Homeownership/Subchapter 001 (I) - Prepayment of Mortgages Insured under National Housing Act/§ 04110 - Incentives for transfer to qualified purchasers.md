@@ -16,7 +16,7 @@ With respect to any eligible low-income housing for which an owner has submitted
 
 #### (3) Information
 
-&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
+&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with informationon the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
 
 #### (c) Right of refusal for other qualified purchasers
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than December 15, 2012, and annually thereafter, the Secretary shall prepare a report containing data regarding the trade adjustment assistance for firms program under this part forthe preceding fiscal year. The data shall include the following:
+Not later than December 15, 2012, and annually thereafter, the Secretary shall prepare a report containing data regarding the trade adjustment assistance for firms program under this part for the preceding fiscal year. The data shall include the following:
 
 &emsp;(1) The number of firms that inquired about the program.
 
@@ -58,7 +58,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;The Secretary may not release information described in subsection (a) that the Secretary considers to be confidential business information unless the person submitting the confidential business information had notice, at the time of submission, that such information would be released by the Secretary, or such person subsequently consents to the release of the information.
+&emsp;The Secretary may not release information described in subsection (a) that the Secretary considers to be confidential business information unless the person submitting the confidential business information had notice, at the time of submission, that such informationwould be released by the Secretary, or such person subsequently consents to the release of the information.
 
 #### (2) Rule of construction
 
@@ -74,5 +74,5 @@ The Secretary shall—
 
 For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
 
-Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see section 285 of Pub. L. 93–618 and section 541(b) of Pub. L. 113–235, set out as notes preceding section 2271 of this title.
 

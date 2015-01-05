@@ -90,5 +90,5 @@ Nothing in this section may be construed to restrict—
 
 #### Prior Provisions
 
-A prior section 4541, Pub. L. 102–550, title XIII, §1321, Oct. 28, 1992, 106 Stat. 3952, related to the Secretary ofHousing and Urban Development's regulatory authority, prior to repeal by Pub. L. 110–289, div. A, title I, §1121(2), July 30, 2008, 122 Stat. 2689.
+A prior section 4541, Pub. L. 102–550, title XIII, §1321, Oct. 28, 1992, 106 Stat. 3952, related to the Secretary of Housing and Urban Development's regulatory authority, prior to repeal by Pub. L. 110–289, div. A, title I, §1121(2), July 30, 2008, 122 Stat. 2689.
 

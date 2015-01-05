@@ -12,7 +12,7 @@ Independent Advice to Secretary of Defense.—(1) The Director of Cost Assessmen
 
 &emsp;(B) Matters assigned to the Director by the Secretary pursuant to section 113 of this title.
 
-(2) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtainingthe approval or concurrence of any other official within the Department of Defense.
+(2) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.
 
 (c)
 

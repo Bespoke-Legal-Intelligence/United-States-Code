@@ -64,5 +64,5 @@ Pub. L. 100–647, title II, §2004(o)(1)(B)(ii), Nov. 10, 1988, 102 Stat. 3608,
 
 #### Effective Date
 
-Pub. L. 100–203, title X, §10228(d), Dec. 22, 1987, 101 Stat. 1330–418, provided that: "The amendments madeby this section \[enacting this chapter and amending section 275 of this title\] shall apply to consideration received after the date of the enactment of this Act \[Dec. 22, 1987\] in taxable years ending after such date; except that such amendments shall not apply in the case of any acquisition pursuant to a written binding contract in effect on December 15, 1987, and at all times thereafter before the acquisition."
+Pub. L. 100–203, title X, §10228(d), Dec. 22, 1987, 101 Stat. 1330–418, provided that: "The amendments made by this section \[enacting this chapter and amending section 275 of this title\] shall apply to consideration received after the date of the enactment of this Act \[Dec. 22, 1987\] in taxable years ending after such date; except that such amendments shall not apply in the case of any acquisition pursuant to a written binding contract in effect on December 15, 1987, and at all times thereafter before the acquisition."
 

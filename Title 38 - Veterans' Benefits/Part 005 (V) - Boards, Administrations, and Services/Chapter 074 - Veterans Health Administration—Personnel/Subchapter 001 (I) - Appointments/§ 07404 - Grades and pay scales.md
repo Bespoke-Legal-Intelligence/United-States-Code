@@ -46,7 +46,7 @@ Full grade.
 
 Associate grade.
 
-(c) Notwithstanding the provisions of section 7425(a) of this title, a person appointed undersection 7306 of this title who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
+(c) Notwithstanding the provisions of section 7425(a) of this title, a person appointed under section 7306 of this title who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 
 (d) Except as provided under subsection (e), subchapter III, and section 7457 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
 
@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 109–461, §202(2), added subsec. (e).
 
 Subsec. (b). Pub. L. 108–445, §3(a)(1), struck out "(1)" after "(b)", inserted items relating to Physician grade and Dentist grade under heading "
 
-physician and dentist schedule" and struck out former items under that heading, which read "Director grade", "Executive grade", "Chief grade", "Senior grade", "Intermediate grade", "Full grade", and "Associate grade", and struck out par. (2). Prior to amendment, par. (2) read as follows: "A person may not hold the director grade in the Physician and Dentist Schedule unless the person is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position."
+physician and dentist schedule" and struck out former items under that heading, which read "Director grade", "Executive grade", "Chief grade", "Senior grade", "Intermediate grade", "Full grade", and "Associate grade", and struck out par. (2). Prior to amendment, par. (2) read as follows: "A person may not hold the director grade in the Physician and Dentist Schedule unless the personis serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position."
 
 Subsec. (c). Pub. L. 108–445, §3(f)(1), substituted "pay" for "special pay".
 

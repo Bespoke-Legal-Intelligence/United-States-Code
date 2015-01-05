@@ -24,7 +24,7 @@ Limits on royalties.—Notwithstanding paragraph (1) or (2), the amount of the r
 
 (b)
 
-Digital Audio Recording Media.—The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States,shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium.
+Digital Audio Recording Media.—The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium.
 
 (Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4241; amended Pub. L. 103–198, §6(b)(1), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 108–419, §5(i)(1), Nov. 30, 2004, 118 Stat. 2368.)
 

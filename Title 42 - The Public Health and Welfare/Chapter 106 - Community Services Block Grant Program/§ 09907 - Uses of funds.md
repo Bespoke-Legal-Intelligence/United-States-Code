@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) providing training and technical assistance to those entities in need of such training and assistance;
 
-&emsp;&emsp;(B) coordinating State-operated programs and services, and at the option of the State, locally-operated programs and services, targeted to low-income children and families with services provided by eligible entities and other organizations funded under this chapter, including detailing appropriate employees of State or local agencies to entities funded under this chapter, to ensure increased access to services provided by such State or local agencies;
+&emsp;&emsp;(B) coordinating State-operated programs and services, and at the option of the State,locally-operated programs and services, targeted to low-income children and families with services provided by eligible entities and other organizations funded under this chapter, including detailing appropriate employees of State or local agencies to entities funded under this chapter, to ensure increased access to services provided by such State or local agencies;
 
 &emsp;&emsp;(C) supporting statewide coordination and communication among eligible entities;
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) maintains separate accounting for revenues and expenses; and
 
-&emsp;&emsp;&emsp;&emsp;(II) makes available to the public information on the administrative andfundraising costs of the organization, and information as to the organizations receiving funds from the organization and the amount of such funds.
+&emsp;&emsp;&emsp;&emsp;(II) makes available to the public information on the administrative and fundraising costs of the organization, and information as to the organizations receiving funds from the organization and the amount of such funds.
 
 #### (vii) Special rule for States requiring tax uniformity
 

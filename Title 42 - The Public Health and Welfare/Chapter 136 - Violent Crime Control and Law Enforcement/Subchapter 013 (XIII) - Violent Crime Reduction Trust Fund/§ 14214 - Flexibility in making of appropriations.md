@@ -156,7 +156,7 @@ This Act, referred to in subsecs. (a) to (c), is Pub. L. 103–322, Sept. 13, 19
 
 Section 190001, referred to in subsec. (d), is section 190001 of Pub. L. 103–322, 108 Stat. 2048, which is not classified to the Code.
 
-Section 130002, referred to in subsec. (d), is section 130002 of Pub. L. 103–322, 108 Stat. 2023, which is set outas a note under section 1226 of Title 8, Aliens and Nationality.
+Section 130002, referred to in subsec. (d), is section 130002 of Pub. L. 103–322, 108 Stat. 2023, which is set out as a note under section 1226 of Title 8, Aliens and Nationality.
 
 Section 130005, referred to in subsec. (d), is section 130005 of Pub. L. 103–322, 108 Stat. 2028, which amended section 1158 of Title 8 and enacted provisions set out as a note under section 1158 of Title 8.
 
@@ -194,7 +194,7 @@ Sections 13801–13802 of this title, referred to in subsec. (d), were repealed 
 
 Section 31101, referred to in subsec. (d), is section 31101 of Pub. L. 103–322, 108 Stat. 1882, which is set out as a note under section 13701 of this title.
 
-Sections 31501–31505, referred to in subsec. (d), are sections 31501–31505 of Pub. L. 103–322, 108 Stat. 1888, 1889, which amended sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation.
+Sections 31501–31505, referred to in subsec. (d), are sections 31501–31505 of Pub. L. 103–322, 108 Stat. 1888, 1889, which amended former sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation.
 
 Section 31901, referred to in subsec. (d), is section 31901 of Pub. L. 103–322, 108 Stat. 1892, which enacted provisions set out as a note under section 13701 of this title.
 

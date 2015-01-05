@@ -82,13 +82,13 @@ There are transferred to the Secretary all functions of the Secretary of Health,
 
 #### (d) Reservation of functions relating to Project Head Start
 
-Nothing in the provisions of this section or in the provisions of this chapter shall authorizethe transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
+Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
 
 (Pub. L. 96–88, title III, §301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 
 #### References in Text
 
-The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 90–247, Jan. 2,1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 

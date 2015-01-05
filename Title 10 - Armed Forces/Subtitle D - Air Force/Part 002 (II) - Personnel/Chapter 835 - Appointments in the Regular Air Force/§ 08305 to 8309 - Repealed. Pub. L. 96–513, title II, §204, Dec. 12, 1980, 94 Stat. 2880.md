@@ -4,7 +4,7 @@ Section 8305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 516; Aug. 21, 1957, Pub. L
 
 Section 8306, act Aug. 10, 1956, ch. 1041, 70A Stat. 516, related to promotion of officers in regular grade of colonel to grade of brigadier general. See section 619 et seq. of this title.
 
-Section 8307, act Aug. 10, 1956, ch. 1041, 70A Stat. 517, related to promotion of officers in regular grade of brigadier general to grade of major general. See section 619 et seq. of this title.
+Section 8307, act Aug. 10, 1956, ch. 1041, 70A Stat. 517, related to promotion of officers in regular grade ofbrigadier general to grade of major general. See section 619 et seq. of this title.
 
 Section 8308, act Aug. 10, 1956, ch. 1041, 70A Stat. 518, related to effect of removal from recommended list by President of name of any promotion-list officer or brigadier general of Regular Air Force who in President's opinion is not qualified for promotion or who is not confirmed by Senate. See section 629 of this title.
 

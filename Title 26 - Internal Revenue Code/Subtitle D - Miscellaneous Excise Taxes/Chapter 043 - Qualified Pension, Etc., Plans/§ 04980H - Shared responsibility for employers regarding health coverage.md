@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "applicable large employer" means, with respect to a calendar year, anemployer who employed an average of at least 50 full-time employees on business days during the preceding calendar year.
+&emsp;&emsp;The term "applicable large employer" means, with respect to a calendar year, an employer who employed an average of at least 50 full-time employees on business days during the preceding calendar year.
 
 #### (B) Exemption for certain employers
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (ii) Aggregation
 
-&emsp;&emsp;&emsp;In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) <sup>1</sup> shall be allowed with respect to such persons and such reduction shall be allocated among such persons ratably on the basis of the number of full-time employees employed by each such person.
+&emsp;&emsp;&emsp;In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) <sup>1</sup> shall be allowed with respect to such persons and such reduction shall be allocated amongsuch persons ratably on the basis of the number of full-time employees employed by each such person.
 
 #### (E) Full-time equivalents treated as full-time employees
 

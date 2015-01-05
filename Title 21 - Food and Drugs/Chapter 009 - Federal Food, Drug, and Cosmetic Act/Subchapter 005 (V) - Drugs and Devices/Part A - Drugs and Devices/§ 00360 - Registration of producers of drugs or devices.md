@@ -18,7 +18,7 @@ As used in this section—
 
 #### (c) New producers
 
-Every person upon first engaging in the manufacture, preparation, propagation, compounding,or processing of a drug or drugs or a device or devices in any establishment which he owns or operates in any State shall immediately register with the Secretary—
+Every person upon first engaging in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs or a device or devices in any establishment which he owns or operates in any State shall immediately register with the Secretary—
 
 &emsp;(1) with respect to drugs, the information described under subsection (b)(1); and
 
@@ -26,7 +26,7 @@ Every person upon first engaging in the manufacture, preparation, propagation, c
 
 #### (d) Additional establishments
 
-Every person duly registered in accordance with the foregoing subsections of this section shall immediately register with the Secretary any additional establishment which he owns or operates in any State and in which he begins the manufacture, preparation, propagation, compounding, or processing of a drug or drugs or a device or devices.
+Every person duly registered in accordance with the foregoing subsections of this sectionshall immediately register with the Secretary any additional establishment which he owns or operates in any State and in which he begins the manufacture, preparation, propagation, compounding, or processing of a drug or drugs or a device or devices.
 
 #### (e) Registration number; uniform system for identification of devices intended for human use
 
@@ -84,7 +84,7 @@ The foregoing subsections of this section shall not apply to—
 
 #### (5) Effect of status
 
-&emsp;In determining the risk associated with an establishment for purposes of establishing a risk-based schedule under paragraph (3), the Secretary shall not consider whether the drugs manufactured, prepared, propagated, compounded, or processed by such establishment are drugs described in section 353(b) of this title.
+&emsp;In determining the risk associated with an establishment for purposes of establishing arisk-based schedule under paragraph (3), the Secretary shall not consider whether the drugs manufactured, prepared, propagated, compounded, or processed by such establishment are drugs described in section 353(b) of this title.
 
 #### (6) Annual report on inspections of establishments
 
@@ -156,7 +156,7 @@ Each person who is required to register under this section and who proposes to b
 
 &emsp;(2) action taken by such person to comply with requirements under section 360d or 360e of this title which are applicable to the device.
 
-> A notification submitted under this subsection that contains clinical trial data for an applicable device clinical trial (as defined in section 282(j)(1) of title 42) shall be accompanied by the certification required under section 282(j)(5)(B)of such title. Such certification shall not be considered an element of such notification.
+> A notification submitted under this subsection that contains clinical trial data for an applicable device clinical trial (as defined in section 282(j)(1) of title 42) shall be accompanied by the certification required under section 282(j)(5)(B) of such title. Such certification shall not be considered an element of such notification.
 
 #### (l) Exemption from reporting requirements
 
@@ -186,9 +186,9 @@ A report under subsection (k) of this section is not required for a device inten
 
 (1) With respect to reprocessed single-use devices for which reports are required under subsection (k) of this section:
 
-&emsp;(A) The Secretary shall identify such devices or types of devices for which reports under such subsection must, in order to ensure that the device is substantially equivalent to a predicate device, include validation data, the types of which shall be specified by the Secretary, regarding cleaning and sterilization, and functional performance demonstrating that the single-use device will remain substantially equivalent to its predicate device after the maximum number of times the device isreprocessed as intended by the person submitting the premarket notification. Within six months after October 26, 2002, the Secretary shall publish in the Federal Register a list of the types so identified, and shall revise the list as appropriate. Reports under subsection (k) of this section for devices or types of devices within a type included on the list are, upon publication of the list, required to include such validation data.
+&emsp;(A) The Secretary shall identify such devices or types of devices for which reports under such subsection must, in order to ensure that the device is substantially equivalent to a predicate device, include validation data, the types of which shall be specified by the Secretary, regarding cleaning and sterilization, and functional performance demonstrating that the single-use device will remain substantially equivalent to its predicate device after the maximum number of times the device is reprocessed as intended by the person submitting the premarket notification. Within six months after October 26, 2002, the Secretary shall publish in the Federal Register a list of the types so identified, and shall revise the list as appropriate. Reports under subsection (k) of this section for devices or types of devices within a type included on the list are, upon publication of the list, required to include such validation data.
 
-&emsp;(B) In the case of each report under subsection (k) of this section that was submitted to the Secretary before the publication of the initial list under subparagraph (A), or any revision thereof, and was for a device or type of device included on such list, the person who submitted the report under subsection (k) of this section shall submit validation data as described in subparagraph (A) to the Secretary not later than nine months after the publication of the list. During such nine-month period, the Secretary may not take any action under this chapter against such device solely on the basis that the validation data for the device have not been submitted to the Secretary. After the submission of the validation data to the Secretary, the Secretary may not determine that the device is misbranded under section 352(o) of this title or adulterated under section 351(f)(1)(B) of this title, or take action against the device under section 331(p) of this title for failure to provide any information required by subsection (k) of this section until (i) the review is terminated by withdrawal of the submission of the report under subsection (k) of this section; (ii) the Secretary finds the data to be acceptable and issues a letter; or (iii) the Secretary determines that the device is not substantially equivalent to a predicate device. Upon a determination that a device is not substantially equivalent to a predicate device, or if such submission is withdrawn, the device can no longer be legally marketed.
+&emsp;(B) In the case of each report under subsection (k) of this section that was submitted to the Secretary before the publication of the initial list under subparagraph (A), or any revision thereof, and was for a device or type of device included on such list, the person whosubmitted the report under subsection (k) of this section shall submit validation data as described in subparagraph (A) to the Secretary not later than nine months after the publication of the list. During such nine-month period, the Secretary may not take any action under this chapter against such device solely on the basis that the validation data for the device have not been submitted to the Secretary. After the submission of the validation data to the Secretary, the Secretary may not determine that the device is misbranded under section 352(o) of this title or adulterated under section 351(f)(1)(B) of this title, or take action against the device under section 331(p) of this title for failure to provide any information required by subsection (k) of this section until (i) the review is terminated by withdrawal of the submission of the report under subsection (k) of this section; (ii) the Secretary finds the data to be acceptable and issues a letter; or (iii) the Secretary determines that the device is not substantially equivalent to a predicate device. Upon a determination that a device is not substantially equivalent to a predicate device, or if such submission is withdrawn, the device can no longer be legally marketed.
 
 &emsp;(C) In the case of a report under subsection (k) of this section for a device identified under subparagraph (A) that is of a type for which the Secretary has not previously received a report under such subsection, the Secretary may, in advance of revising the list under subparagraph (A) to include such type, require that the report include the validation data specified in subparagraph (A).
 
@@ -268,7 +268,7 @@ Subsec. (j)(2). Pub. L. 110–85, §223, in introductory provisions, substituted
 
 Subsec. (k). Pub. L. 110–85, §801(b)(3)(C), inserted concluding provisions.
 
-Subsec. (p). Pub. L. 110–85, §224, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: "Registrations under subsections (b), (c), (d), and (i) of this section (including the submission of updated information) shall be submitted to the Secretary by electronic means, upon a finding by the Secretary thatthe electronic receipt of such registrations is feasible, unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver."
+Subsec. (p). Pub. L. 110–85, §224, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: "Registrations under subsections (b), (c), (d), and (i) of this section (including the submission of updated information) shall be submitted to the Secretary by electronic means, upon a finding by the Secretary that the electronic receipt of such registrations is feasible, unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver."
 
 <b>2004</b>—Subsec. (o)(1)(B), (2)(B). Pub. L. 108–214, §2(c)(2)(A), (B)(i), substituted "or adulterated" for ", adulterated".
 
@@ -276,7 +276,7 @@ Subsec. (o)(2)(E). Pub. L. 108–214, §2(c)(2)(B)(ii), substituted "semi-critic
 
 <b>2002</b>—Subsec. (h). Pub. L. 107–250, §201(e), inserted ", or by persons accredited to conduct inspections under section 374(g) of this title," after "duly designated by the Secretary".
 
-Subsec. (i)(1). Pub. L. 107–188, §321(a)(1), substituted "On or before December 31 of each year, any establishment" for "Any establishment" and "shall, through electronic means in accordance with the criteria of the Secretary, register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation" for "shall register with the Secretary the name and place of business of the establishment and the name of the United States agent for the establishment".
+Subsec. (i)(1). Pub. L. 107–188, §321(a)(1), substituted "On or before December 31 of each year, any establishment" for "Any establishment" and "shall, through electronic means in accordance with the criteria of the Secretary, register with the Secretary the name and place of business of the establishment, the name of theUnited States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation" for "shall register with the Secretary the name and place of business of the establishment and the name of the United States agent for the establishment".
 
 Subsec. (j)(1). Pub. L. 107–188, §321(a)(2), substituted "subsection (b), (c), (d), or (i)" for "subsection (b), (c), or (d)" in first sentence.
 
@@ -342,7 +342,7 @@ Subsec. (j). Pub. L. 92–387, §3, added subsec. (j).
 
 Subsec. (b). Pub. L. 91–513 struck out provisions covering establishments engaged in the wholesaling, jobbing, or distributing of depressant or stimulant drugs and the inclusion of the fact of such activity in the annual registration.
 
-Subsec. (c). Pub. L. 91–513 struck out provisions covering new registrations of persons first engaging in the wholesaling, jobbing, or distributing of depressant or stimulant drugs and the inclusion of the fact of such activity in the registration.
+Subsec. (c). Pub. L. 91–513 struck out provisions covering new registrations of persons first engaging in thewholesaling, jobbing, or distributing of depressant or stimulant drugs and the inclusion of the fact of such activity in the registration.
 
 Subsec. (d). Pub. L. 91–513 struck out number designation "(1)" preceding first sentence, struck out portion of such redesignated provisions covering the wholesaling, jobbing, or distributing of depressant or stimulant drugs, and struck out par. (2) covering the filing of supplemental registration whenever a person not previously engaged or involved with depressant or stimulant drugs goes into the manufacturing, preparation, or processing thereof.
 

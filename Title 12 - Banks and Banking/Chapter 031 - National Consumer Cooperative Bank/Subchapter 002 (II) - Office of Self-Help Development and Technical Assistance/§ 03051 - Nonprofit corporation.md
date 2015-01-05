@@ -18,7 +18,7 @@
 
 &emsp;(B) set the compensation of such executive director and the other employees of such nonprofit corporation;
 
-&emsp;(C) promulgate and publish the policies of such nonprofit corporation and make such policies available at all times to eligible cooperatives; and
+&emsp;(C) promulgate and publish the policies of such nonprofit corporation and make suchpolicies available at all times to eligible cooperatives; and
 
 &emsp;(D) perform the functions specified in subparagraphs (A) and (C) of paragraph (3).
 
@@ -52,7 +52,7 @@
 
 (2) During any period in which the nonprofit corporation described in subsection (b) of this section is qualified as an organization described in section 501(c)(3) of title 26, contributions made by the Bank pursuant to paragraph (1) shall be treated as charitable contributions within the meaning of section 170(c)(2) of title 26, and may be deducted notwithstanding the provisions of section 170(b)(2) of title 26.
 
-(3) During any period in which the nonprofit corporation described in subsection (b) of this section is qualified as an organization describedin section 501(c)(3) of title 26, contributions to such nonprofit corporation by any person shall qualify as charitable contributions, as defined in section 170(c) of title 26, for purposes of the charitable contribution deduction provided for in section 170(a) of title 26, and shall also qualify for the deductions for estate and gift tax purposes provided for in sections 2055 and 2522 of title 26.
+(3) During any period in which the nonprofit corporation described in subsection (b) of this section is qualified as an organization described in section 501(c)(3) of title 26, contributions to such nonprofit corporation by any person shall qualify as charitable contributions, as defined in section 170(c) of title 26, for purposes of the charitable contribution deduction provided for in section 170(a) of title 26, and shall also qualify for the deductions for estate and gift tax purposes provided for in sections 2055 and 2522 of title 26.
 
 #### (e) Conflict of interest rules
 

@@ -10,7 +10,7 @@ Provisions similar to those comprising this section were contained in a prior se
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 amended text of section generally. Prior to amendment, text read as follows: "For provisions requiring payment of special (occupational)tax as wholesale liquor dealer, see section 5111, or as retail liquor dealer, see section 5121."
+<b>2005</b>—Pub. L. 109–59 amended text of section generally. Prior to amendment, text read as follows: "For provisions requiring payment of special (occupational) tax as wholesale liquor dealer, see section 5111, or as retail liquor dealer, see section 5121."
 
 <b>1979</b>—Pub. L. 96–39 struck out "as rectifier, see section 5081, or" after "(occupational) tax".
 

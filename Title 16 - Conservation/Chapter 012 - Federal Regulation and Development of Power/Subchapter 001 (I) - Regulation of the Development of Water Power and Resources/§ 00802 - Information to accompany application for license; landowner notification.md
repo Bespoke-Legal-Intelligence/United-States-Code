@@ -26,7 +26,7 @@ Former subsec. (c), included in the provisions designated as subsec. (a) by Pub.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
+Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under thischapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

@@ -78,7 +78,7 @@ Each person entitled to reimbursement under subsection (a) for any period shall 
 
 &emsp;(1) an attestation of involuntary termination of employment for each covered employee on the basis of whose termination entitlement to reimbursement is claimed under subsection (a),
 
-&emsp;(2) a report of the amount of payroll taxes offset under subsection (a) for the reporting period and the estimated offsets of such taxes for the subsequent reporting period in connection with reimbursements under subsection (a), and
+&emsp;(2) a report of the amount of payroll taxes offset under subsection (a) for the reportingperiod and the estimated offsets of such taxes for the subsequent reporting period in connection with reimbursements under subsection (a), and
 
 &emsp;(3) a report containing the TINs of all covered employees, the amount of subsidy reimbursed with respect to each covered employee and qualified beneficiaries, and a designation with respect to each covered employee as to whether the subsidy reimbursement is for coverage of 1 individual or 2 or more individuals.
 
@@ -124,7 +124,7 @@ Section applicable to premiums to which section 3001(a)(1)(A) of Pub. L. 111–5
 
 #### Premium Assistance for COBRA Benefits
 
-Pub. L. 111–5, div. B, title III, §3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B, §1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473; Pub. L. 111–144, §3(a), (b)(1)–(4), Mar. 2, 2010, 124 Stat. 43, 44; Pub. L. 111–157, §3(a), (b), Apr. 15, 2010, 124 Stat. 1117, provided that:
+Pub. L. 111–5, div. B, title III, §3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B, §1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473; Pub. L. 111–144, §3(a), (b)(1)–(4), Mar. 2, 2010, 124 Stat. 43, 44; Pub. L. 111–157, §3(a), (b), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031, provided that:
 
 "(a)
 
@@ -154,7 +154,7 @@ Requirements.—An assistance eligible individual may elect to enroll in differe
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the premium for such different coverage does not exceed the premium for coverage in which the individual was enrolled at the time the qualifying event occurred;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the different coverage in which the individual elects to enroll is coverage that is also offered to the active employees of the employer at the time at which such election is made; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the different coverage in which the individual elects to enroll is coverage that is alsooffered to the active employees of the employer at the time at which such election is made; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the different coverage is not—
 
@@ -232,7 +232,7 @@ Preexisting conditions.—With respect to a qualified beneficiary who elects COB
 
 &emsp;"(5)
 
-Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual's eligibility within 15 business days after receipt of such individual's application for review under this paragraph. Either Secretary's determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary's determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for purposes of part 5 of subtitle B of such title \[29 U.S.C. 1131 et seq.\]. In addition to civil actions that may be brought to enforce applicable provisions of such Act \[29 U.S.C. 1001 et seq.\] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penalty against a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor's or issuer's receipt of the determination.
+Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual's eligibility within 15 business days after receipt of such individual's application for review under this paragraph. Either Secretary's determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary's determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for purposes of part 5 of subtitle B of such title \[29 U.S.C. 1131 et seq.\]. In addition to civil actions that may be brought to enforce applicable provisions of such Act \[29 U.S.C. 1001 et seq.\] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penaltyagainst a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor's or issuer's receipt of the determination.
 
 &emsp;"(6)
 
@@ -248,7 +248,7 @@ General notice.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—In the case of notices provided under section 606(a)(4) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1166\[(a)\](4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, section 2206(4) of the Public Health Service Act (42 U.S.C. 300bb–6(4)), or section 8905a(f)(2)(A) of title 5, United States Code, with respect to individuals who, during the period described in paragraph (3)(A), have a qualifying event relating to COBRA continuation coverage, the requirements of such sections shall not betreated as met unless such notices include an additional notification to the recipient of—
+In general.—In the case of notices provided under section 606(a)(4) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1166\[(a)\](4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, section 2206(4) of the Public Health Service Act (42 U.S.C. 300bb–6(4)), or section 8905a(f)(2)(A) of title 5, United States Code, with respect to individuals who, during the period described in paragraph (3)(A), have a qualifying event relating to COBRA continuation coverage, the requirements of such sections shall not be treated as met unless such notices include an additional notification to the recipient of—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the availability of premium reduction with respect to such coverage under this subsection, and
 
@@ -340,7 +340,7 @@ Reports.—
 
 &emsp;&emsp;"(A)
 
-Interim report.—The Secretary of the Treasury shall submit an interim report to the Committee on Education and Labor \[now Committee on Education and the Workforce\], the Committee on Ways and Means, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor,and Pensions and the Committee on Finance of the Senate regarding the premium reduction provided under this subsection that includes—
+Interim report.—The Secretary of the Treasury shall submit an interim report to the Committee on Education and Labor \[now Committee on Education and the Workforce\], the Committee on Ways and Means, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate regarding the premium reduction provided under this subsection that includes—
 
 &emsp;&emsp;&emsp;"(i) the number of individuals provided such assistance as of the date of the report; and
 
@@ -564,7 +564,7 @@ Phase-in percentage.—For purposes of this subsection, the term 'phase-in perce
 
 Option for high-income individuals to waive assistance and avoid recapture.—Notwithstanding subsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—
 
-&emsp;&emsp;"(A) makes a permanent election (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to waive the right to the premium assistance provided under this section, and
+&emsp;&emsp;"(A) makes a permanent election (at such time and in such form and manner as the Secretary ofthe Treasury may prescribe) to waive the right to the premium assistance provided under this section, and
 
 &emsp;&emsp;"(B) notifies the entity to whom premiums are reimbursed under section 6432(a) of such Code of such election.
 

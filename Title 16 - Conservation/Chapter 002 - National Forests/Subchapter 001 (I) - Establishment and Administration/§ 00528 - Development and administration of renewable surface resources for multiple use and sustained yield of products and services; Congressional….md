@@ -10,7 +10,7 @@ Section 5 of Pub. L. 86–517, as added Pub. L. 94–588, §19, Oct. 22, 1976, 9
 
 #### Pilot Program of Charges and Fees for Harvest of Forest Botanical Products
 
-Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §339\], Nov. 29, 1999, 113 Stat. 1535, 1501A–199, as amended by Pub. L. 108–108, title III, §335, Nov. 10, 2003, 117 Stat. 1312; Pub. L. 111–88, div. A, title IV, §420, Oct. 30, 2009, 123 Stat. 2960, provided that:
+Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §339\], Nov. 29, 1999, 113 Stat. 1535, 1501A–199, as amended by Pub. L. 108–108, title III, §335, Nov. 10, 2003, 117 Stat. 1312; Pub. L. 111–88, div. A, title IV, §420, Oct. 30, 2009, 123 Stat. 2960; Pub. L. 113–76, div. G, title IV, §432, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–287, §5(d)(11), Dec. 19, 2014, 128 Stat. 3265, provided that:
 
 "(a)
 
@@ -34,7 +34,7 @@ Security.—The Secretary may require a person assessed a fee under this subsect
 
 "(d)
 
-Sustainable Harvest Levels for Forest Botanical Products.—The Secretary of Agriculture shall conduct appropriate analyses to determine whether and how the harvest of forest botanical products on National Forest System lands can be conducted on a sustainable basis. The Secretary may not permit under the pilot program the harvest of forest botanical products at levels in excess of sustainable harvest levels, as defined pursuant to the Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 528 et seq.). The Secretary shall establish procedures and timeframes to monitor and revise the harvest levels established for forest botanical products.
+Sustainable Harvest Levels for Forest Botanical Products.—The Secretary of Agriculture shallconduct appropriate analyses to determine whether and how the harvest of forest botanical products on National Forest System lands can be conducted on a sustainable basis. The Secretary may not permit under the pilot program the harvest of forest botanical products at levels in excess of sustainable harvest levels, as defined pursuant to the Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 528 et seq.). The Secretary shall establish procedures and timeframes to monitor and revise the harvest levels established for forest botanical products.
 
 "(e)
 
@@ -86,7 +86,7 @@ Treatment of fees.—Funds collected under subsection (c) shall not be taken int
 
 &emsp;&emsp;"(G) Section 401 of the Act of June 15, 1935 (16 U.S.C. 715s).
 
-&emsp;&emsp;"(H) Section 4 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a).
+&emsp;&emsp;"(H) Section 100904 of title 54, United States Code.
 
 &emsp;&emsp;"(I) Any other provision of law relating to revenue allocation.
 
@@ -100,7 +100,7 @@ Duration of Pilot Program.—
 
 &emsp;"(1)
 
-Collection of fees.—The Secretary of Agriculture may collect fees under the authority of subsection (c) until September 30, 2014.
+Collection of fees.—The Secretary of Agriculture may collect fees under the authority of subsection (c) through fiscal year 2019.
 
 &emsp;"(2)
 

@@ -53,8 +53,7 @@
 | [511\.](%C2%A7%2000511%20-%20Compensatory%20absence%20from%20duty%20for%20military%20personnel%20at%20isolated%20duty%20stations.md) | Compensatory absence from duty for military personnel at isolated duty stations. |
 | [512\.](%C2%A7%2000512%20-%20Monetary%20allowance%20for%20transportation%20of%20household%20effects.md) | Monetary allowance for transportation of household effects. |
 | [513\.](%C2%A7%2000513%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md) | Retroactive payment of pay and allowances delayed by administrative error or oversight. |
-| [514\.](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md) | Reimbursement for adoption expenses. |
-| [515\.](%C2%A7%2000515%20-%20Child%20development%20services.md) | Child development services. |
+| \[514, 515. | Renumbered.\] |
 | [516\.](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
 | [517\.](%C2%A7%2000517%20-%20Travel%20card%20management.md) | Travel card management. |
 | [518\.](%C2%A7%2000518%20-%20Reimbursement%20for%20medical-related%20travel%20expenses%20for%20certain%20persons%20residing%20on%20islands%20in%20the%20continental%20United%20States.md) | Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States. |
@@ -66,6 +65,8 @@
 Chapter 13 of this title deals with pay, allowances, awards, and other rights and benefits for personnel of the Coast Guard. Some of these sections are new as applied to the Coast Guard, some clarify and consolidate existing law, and others merely restate existing law. There is no intention to amend, enlarge or curtail the Pay Readjustment Act of 1942, as amended. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–281, title II, §214(b)(2)(B), Dec. 18, 2014, 128 Stat. 3033, struck out items 514 "Reimbursement for adoption expenses" and 515 "Child development services".
 
 <b>2010</b>—Pub. L. 111–281, title II, §§203(b), 224(d), Oct. 15, 2010, 124 Stat. 2910, 2922, added items 491a, 492a, 492b, and 518 and struck out former item 492a "Distinguished flying cross".
 
@@ -183,8 +184,8 @@ Act May 5, 1950, ch. 169, §16(b), 64 Stat. 149, added items 508 and 509.
 - [&sect; 00511 - Compensatory absence from duty for military personnel at isolated duty stations](%C2%A7%2000511%20-%20Compensatory%20absence%20from%20duty%20for%20military%20personnel%20at%20isolated%20duty%20stations.md)
 - [&sect; 00512 - Monetary allowance for transportation of household effects](%C2%A7%2000512%20-%20Monetary%20allowance%20for%20transportation%20of%20household%20effects.md)
 - [&sect; 00513 - Retroactive payment of pay and allowances delayed by administrative error or oversight](%C2%A7%2000513%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md)
-- [&sect; 00514 - Reimbursement for adoption expenses](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md)
-- [&sect; 00515 - Child development services](%C2%A7%2000515%20-%20Child%20development%20services.md)
+- [&sect; 00514 - Renumbered &sect;541](%C2%A7%2000514%20-%20Renumbered%20%C2%A7541.md)
+- [&sect; 00515 - Renumbered &sect;552](%C2%A7%2000515%20-%20Renumbered%20%C2%A7552.md)
 - [&sect; 00516 - Presentation of United States flag upon retirement](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
 - [&sect; 00517 - Travel card management](%C2%A7%2000517%20-%20Travel%20card%20management.md)
 - [&sect; 00518 - Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States](%C2%A7%2000518%20-%20Reimbursement%20for%20medical-related%20travel%20expenses%20for%20certain%20persons%20residing%20on%20islands%20in%20the%20continental%20United%20States.md)

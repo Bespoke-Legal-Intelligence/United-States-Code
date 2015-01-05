@@ -2,7 +2,7 @@
 
 #### (a) Treatment as expenses
 
-A taxpayer may elect to treat the cost of any section 179 property as an expense which is notchargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
+A taxpayer may elect to treat the cost of any section 179 property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
 
 #### (b) Limitations
 
@@ -12,9 +12,9 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;(A) $250,000 in the case of taxable years beginning after 2007 and before 2010,
 
-&emsp;&emsp;(B) $500,000 in the case of taxable years beginning in 2010, 2011, 2012, or 2013, and
+&emsp;&emsp;(B) $500,000 in the case of taxable years beginning after 2009 and before 2015, and
 
-&emsp;&emsp;(C) $25,000 in the case of taxable years beginning after 2013.
+&emsp;&emsp;(C) $25,000 in the case of taxable years beginning after 2014.
 
 #### (2) Reduction in limitation
 
@@ -22,9 +22,9 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;(A) $800,000 in the case of taxable years beginning after 2007 and before 2010,
 
-&emsp;&emsp;(B) $2,000,000 in the case of taxable years beginning in 2010, 2011, 2012, or 2013, and
+&emsp;&emsp;(B) $2,000,000 in the case of taxable years beginning after 2009 and before 2015, and
 
-&emsp;&emsp;(C) $200,000 in the case of taxable years beginning after 2013.
+&emsp;&emsp;(C) $200,000 in the case of taxable years beginning after 2014.
 
 #### (3) Limitation based on income from trade or business
 
@@ -100,7 +100,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (2) Election irrevocable
 
-&emsp;Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable yearbeginning after 2002 and before 2014 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
+&emsp;Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2015 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
 
 #### (d) Definitions and special rules
 
@@ -112,7 +112,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;(i) tangible property (to which section 168 applies), or
 
-&emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2014,
+&emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015,
 
 &emsp;&emsp;(B) which is section 1245 property (as defined in section 1245(a)(3)), and
 
@@ -208,7 +208,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (1) In general
 
-&emsp;If a taxpayer elects the application of this subsection for any taxable year beginning in 2010, 2011, 2012, or 2013, the term "section 179 property" shall include any qualified real property which is—
+&emsp;If a taxpayer elects the application of this subsection for any taxable year beginning after 2009 and before 2015, the term "section 179 property" shall include any qualified real property which is—
 
 &emsp;&emsp;(A) of a character subject to an allowance for depreciation,
 
@@ -234,15 +234,15 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (b)(3)(B), no amount attributable to qualified real property may be carried over to a taxable year beginning after 2013.
+&emsp;&emsp;Notwithstanding subsection (b)(3)(B), no amount attributable to qualified real property may be carried over to a taxable year beginning after 2014.
 
 #### (B) Treatment of disallowed amounts
 
-&emsp;&emsp;Except as provided in subparagraph (C), to the extent that any amount is not allowed to be carried over to a taxable year beginning after 2013 by reason of subparagraph (A), this title shall be applied as if no election under this section had been made with respect to such amount.
+&emsp;&emsp;Except as provided in subparagraph (C), to the extent that any amount is not allowed to be carried over to a taxable year beginning after 2014 by reason of subparagraph (A), this title shall be applied as if no election under this section had been made with respect to such amount.
 
-#### (C) Amounts carried over from 2010, 2011 and 2012
+#### (C) Amounts carried over from 2010, 2011, 2012, and 2013
 
-&emsp;&emsp;If subparagraph (B) applies to any amount (or portion of an amount) which is carried over from a taxable year other than the taxpayer's last taxable year beginning in 2013, such amount (or portion of an amount) shall be treated for purposes of this title as attributable to property placed in service on the first day of the taxpayer's last taxable year beginning in 2013. For the last taxable year beginning in 2013, the amount determined under subsection (b)(3)(A) for such taxable year shall be determined without regard to this paragraph.
+&emsp;&emsp;If subparagraph (B) applies to any amount (or portion of an amount) which is carried over from a taxable year other than the taxpayer's last taxable year beginning in 2014, such amount (or portion of an amount) shall be treated for purposes of this title as attributable to property placed in service on the first day of the taxpayer's last taxable year beginning in 2014. For the last taxable year beginning in 2014, the amount determined under subsection (b)(3)(A) for such taxable year shall be determined without regard to this paragraph.
 
 #### (D) Allocation of amounts
 
@@ -254,9 +254,27 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 > &emsp;&emsp;For purposes of the preceding sentence, only section 179 property with respect to which an election was made under subsection (c)(1) (determined without regard to subparagraph (B) of this paragraph) shall be taken into account.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII,§711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330, 2331.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330, 2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(B). Pub. L. 113–295, §127(a)(1)(A), substituted "beginning after 2009 and before 2015" for "beginning in 2010, 2011, 2012, or 2013".
+
+Subsec. (b)(1)(C). Pub. L. 113–295, §127(a)(1)(B), substituted "2014" for "2013".
+
+Subsec. (b)(2)(B). Pub. L. 113–295, §127(a)(2)(A), substituted "beginning after 2009 and before 2015" for "beginning in 2010, 2011, 2012, or 2013".
+
+Subsec. (b)(2)(C). Pub. L. 113–295, §127(a)(2)(B), substituted "2014" for "2013".
+
+Subsec. (c)(2). Pub. L. 113–295, §127(c), substituted "2015" for "2014".
+
+Subsec. (d)(1)(A)(ii). Pub. L. 113–295, §127(b), substituted "2015" for "2014".
+
+Subsec. (f)(1). Pub. L. 113–295, §127(d)(1), substituted "beginning after 2009 and before 2015" for "beginning in 2010, 2011, 2012, or 2013" in introductory provisions.
+
+Subsec. (f)(4). Pub. L. 113–295, §127(d)(2)(A), substituted "2014" for "2013" wherever appearing.
+
+Subsec. (f)(4)(C). Pub. L. 113–295, §127(d)(2)(B), substituted "2011, 2012, and 2013" for "2011 and 2012" in heading.
 
 <b>2013</b>—Subsec. (b)(1)(B). Pub. L. 112–240, §315(a)(1)(A), substituted "2010, 2011, 2012, or 2013, and" for "2010 or 2011,".
 
@@ -404,13 +422,17 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted "section 167(g)" for "section 167(f)".
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §127(e), Dec. 19, 2014, 128 Stat. 4018, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–240, title III, §315(e), Jan. 2, 2013, 126 Stat. 2331, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title IV, §402(f), Dec. 17, 2010, 124 Stat. 3307, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011."
+Pub. L. 111–312, title IV, §402(f), Dec. 17, 2010, 124 Stat. 3307, provided that: "The amendments made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2011."
 
 Amendment by section 737(b)(3) of Pub. L. 111–312 applicable to property placed in service after Dec. 31, 2009, see section 737(c) of Pub. L. 111–312, set out as a note under section 168 of this title.
 
@@ -502,7 +524,7 @@ Amendment by Pub. L. 87–834 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date
 
-Pub. L. 85–866, title II, §204(c), Sept. 2, 1958, 72 Stat. 1680, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to taxable years ending after June 30, 1958."
+Pub. L. 85–866, title II, §204(c), Sept. 2, 1958, 72 Stat. 1680, provided that: "The amendments made by thissection \[enacting this section\] shall apply with respect to taxable years ending after June 30, 1958."
 
 #### Savings Provision
 

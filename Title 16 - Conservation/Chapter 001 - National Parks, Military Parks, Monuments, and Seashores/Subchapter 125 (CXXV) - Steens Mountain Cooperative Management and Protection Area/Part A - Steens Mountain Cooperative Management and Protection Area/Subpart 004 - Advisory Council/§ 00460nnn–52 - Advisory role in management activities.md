@@ -2,7 +2,7 @@
 
 #### (a) Management recommendations
 
-The advisory committee <sup>1</sup> shall utilize sound science, existing plans for the management ofFederal lands included in the Cooperative Management and Protection Area, and other tools to formulate recommendations for the Secretary regarding—
+The advisory committee <sup>1</sup> shall utilize sound science, existing plans for the management of Federal lands included in the Cooperative Management and Protection Area, and other tools to formulate recommendations for the Secretary regarding—
 
 &emsp;(1) new and unique approaches to the management of lands within the boundaries of the Cooperative Management and Protection Area; and
 

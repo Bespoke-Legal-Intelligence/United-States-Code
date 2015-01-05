@@ -1,0 +1,62 @@
+### §1755b. Pulse crop products
+
+#### (a) Purpose
+
+The purpose of this section is to encourage greater awareness and interest in the number and variety of pulse crop products available to schoolchildren, as recommended by the most recent Dietary Guidelines for Americans published under section 5341 of title 7.
+
+#### (b) Definitions
+
+In this section:
+
+#### (1) Eligible pulse crop
+
+&emsp;The term "eligible pulse crop" means dry beans, dry peas, lentils, and chickpeas.
+
+#### (2) Pulse crop product
+
+&emsp;The term "pulse crop product" means a food product derived in whole or in part from an eligible pulse crop.
+
+#### (c) Purchase of pulse crops and pulse crop products
+
+In addition to the commodities delivered under section 6 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1755), subject to the availability of appropriations, the Secretary shall purchase eligible pulse crops and pulse crop products for use in—
+
+&emsp;(1) the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.); and
+
+&emsp;(2) the school breakfast program established by section 1773 of this title.
+
+#### (d) Evaluation
+
+Not later than September 30, 2016, the Secretary shall conduct an evaluation of the activities conducted under subsection (c), including—
+
+&emsp;(1) an evaluation of whether children participating in the school lunch and breakfast programs described in subsection (c) increased overall consumption of eligible pulse crops as a result of the activities;
+
+&emsp;(2) an evaluation of which eligible pulse crops and pulse crop products are most acceptable for use in the school lunch and breakfast programs;
+
+&emsp;(3) any recommendations of the Secretary regarding the integration of the use of pulse crop products in carrying out the school lunch and breakfast programs;
+
+&emsp;(4) an evaluation of any change in the nutrient composition in the school lunch and breakfast programs due to the activities; and
+
+&emsp;(5) an evaluation of any other outcomes determined to be appropriate by the Secretary.
+
+#### (e) Report
+
+As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and the Workforce of the House of Representative a report describing the results of the evaluation.
+
+#### (f) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section $10,000,000, to remain available until expended.
+
+(Pub. L. 113–79, title IV, §4213, Feb. 7, 2014, 128 Stat. 830.)
+
+#### References in Text
+
+The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(1), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+
+#### Codification
+
+Section was enacted as part of the Agricultural Act of 2014, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
+
+#### Definition of "Secretary"
+
+"Secretary" as meaning the Secretary of Agriculture, see section 9001 of Title 7, Agriculture.
+

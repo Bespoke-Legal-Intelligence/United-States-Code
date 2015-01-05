@@ -46,7 +46,7 @@ Subsec. (d)(1). Pub. L. 98–369, §54(a)(1), substituted "This subsection shall
 
 Subsec. (d)(1)(A). Pub. L. 98–369, §54(a)(1), struck out "of part or all of his stock in such corporation" before "and".
 
-Subsec. (d)(2)(A). Pub. L. 98–369, §54(a)(2)(A), substituted provisions relating to a distribution which is made with respect to qualified stock if section 302(b)(4)applies to such distribution or such distribution is a qualified distribution for provisions which had related to a distribution to a corporate shareholder if the basis of the property distributed was determined under section 301(d)(2).
+Subsec. (d)(2)(A). Pub. L. 98–369, §54(a)(2)(A), substituted provisions relating to a distribution which is made with respect to qualified stock if section 302(b)(4) applies to such distribution or such distribution is a qualified distribution for provisions which had related to a distribution to a corporate shareholder if the basis of the property distributed was determined under section 301(d)(2).
 
 Subsec. (d)(2)(B) to (F). Pub. L. 98–369, §54(a)(2)(A), (B), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which related to distributions to which section 302(b)(4) applied and which were made with respect to qualified stock.
 
@@ -162,7 +162,7 @@ Exception for certain distributions.—
 
 &emsp;"(A)
 
-In general.—The amendments made by this section \[amending this section and sections 301 and 1223 of this title\] shall not apply to distributions before February 1, 1986, if—
+In general.—The amendments made by this section \[amending this section and sections 301 and1223 of this title\] shall not apply to distributions before February 1, 1986, if—
 
 &emsp;&emsp;"(i) the distribution consists of property held on March 7, 1984 (or property acquired thereafter in the ordinary course of a trade or business) by—
 

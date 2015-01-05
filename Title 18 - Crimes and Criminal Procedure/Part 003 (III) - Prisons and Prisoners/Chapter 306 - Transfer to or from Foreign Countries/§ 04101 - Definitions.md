@@ -24,7 +24,7 @@ As used in this chapter the term—
 
 &emsp;(g) "probation" means any form of a sentence under which the offender is permitted to remain at liberty under supervision and subject to conditions for the breach of which a penalty of imprisonment may be ordered executed;
 
-&emsp;(h) "sentence" means not only the penalty imposed but also the judgment of convictionin a criminal case or a judgment of acquittal in the same proceeding, or the adjudication of delinquency in a juvenile delinquency proceeding or dismissal of allegations of delinquency in the same proceedings;
+&emsp;(h) "sentence" means not only the penalty imposed but also the judgment of conviction in a criminal case or a judgment of acquittal in the same proceeding, or the adjudication of delinquency in a juvenile delinquency proceeding or dismissal of allegations of delinquency in the same proceedings;
 
 &emsp;(i) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States;
 

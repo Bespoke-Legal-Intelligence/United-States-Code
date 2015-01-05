@@ -2,7 +2,7 @@
 
 #### (a) Cooperation between Federal Government and State fish and game departments; expenditure of funds
 
-The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution tomake laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
+The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
 
 #### (b) Allocation of amounts by coastal States between marine fish projects and freshwater fish projects
 
@@ -20,7 +20,7 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 &emsp;As used in this subsection, the term "coastal State" means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. The term also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Aug. 9, 1950, ch. 658, §1, 64 Stat. 430; Pub. L. 98–369, div. A, title X, §1014(a)(1), July 18, 1984, 98 Stat. 1015; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–448, §6(c)(1), Sept. 28, 1988, 102 Stat. 1840.)
+(Aug. 9, 1950, ch. 658, §1, 64 Stat. 430; Pub. L. 98–369, div. A, title X, §1014(a)(1), July 18, 1984, 98Stat. 1015; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–448, §6(c)(1), Sept. 28, 1988, 102 Stat. 1840.)
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Determination of Eligibility.—In determining the eligibility of a project unde
 
 "(a)
 
-Non-Federal Share.—The non-Federal share of the cost of development and implementation of anyproject under the Program on land or at a facility that is not owned by the United States shall be 35 percent.
+Non-Federal Share.—The non-Federal share of the cost of development and implementation of any project under the Program on land or at a facility that is not owned by the United States shall be 35 percent.
 
 "(b)
 

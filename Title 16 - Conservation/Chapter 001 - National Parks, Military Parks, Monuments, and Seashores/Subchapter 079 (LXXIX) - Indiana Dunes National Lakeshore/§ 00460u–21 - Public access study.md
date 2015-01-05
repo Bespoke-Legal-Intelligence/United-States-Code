@@ -14,7 +14,7 @@ The study shall address the adequacy of access facilities for members of the pub
 
 #### (d) Access proposals; retention of lakeshore values
 
-The study shall include proposals deemed necessary to assure equitable visitor access and public enjoyment by all segments of the population, including those who are physically or economically disadvantaged. It shall provide for retention of the natural, scenic, and historic values for which the lakeshore was established, and shall propose plans and alternatives for the protection and maintenance of these values as they relate to transportation improvements.
+The study shall include proposals deemed necessary to assure equitable visitor access and public enjoyment by all segments of the population, including those who are physically or economically disadvantaged. It shall provide for retention of the natural, scenic, and historic values for which the lakeshore was established,and shall propose plans and alternatives for the protection and maintenance of these values as they relate to transportation improvements.
 
 #### (e) Renovation and preservation of South Shore Railroad
 

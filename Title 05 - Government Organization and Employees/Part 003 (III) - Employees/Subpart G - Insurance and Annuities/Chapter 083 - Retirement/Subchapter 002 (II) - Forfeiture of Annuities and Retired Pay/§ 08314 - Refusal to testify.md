@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 5 U.S.C. 2283(a).
 
-Sept. 26, 1961, Pub. L. 87–299, §1 “Sec. 2(a)”, 75 Stat. 642.
+Sept. 26, 1961, Pub. L. 87–299, §1 "Sec. 2(a)", 75 Stat. 642.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

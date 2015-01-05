@@ -146,7 +146,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;&emsp;&emsp;(I) the fees collected and disbursed under this section;
 
-&emsp;&emsp;&emsp;&emsp;(II) the reasonableness of the fee structure in place as of the date of the auditto meet current and projected costs of the system;
+&emsp;&emsp;&emsp;&emsp;(II) the reasonableness of the fee structure in place as of the date of the audit to meet current and projected costs of the system;
 
 &emsp;&emsp;&emsp;&emsp;(III) the level of use of the system by users; and
 
@@ -178,7 +178,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;(B) identifies objective outcomes; and
 
-&emsp;&emsp;(C) contains performance standards that may be used to measure achievement and goals to evaluate the success of a contractor in performing under the contract and the right of the contractor to payment for services under the contract, taking into consideration that a primary measure of successful performance shall be the development of a hazardous waste electronic manifest system that—
+&emsp;&emsp;(C) contains performance standards that may be used to measure achievement andgoals to evaluate the success of a contractor in performing under the contract and the right of the contractor to payment for services under the contract, taking into consideration that a primary measure of successful performance shall be the development of a hazardous waste electronic manifest system that—
 
 &emsp;&emsp;&emsp;(i) meets the needs of the user community (including States that rely on data contained in manifests);
 
@@ -244,7 +244,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (B) Inclusions
 
-&emsp;&emsp;The regulations promulgated pursuant to subparagraph (A) may include such requirements as the Administrator determines tobe necessary to facilitate the transition from the use of paper manifests to the use of electronic manifests, or to accommodate the processing of data from paper manifests in the electronic manifest system, including a requirement that users of paper manifests submit to the system copies of the paper manifests for data processing purposes.
+&emsp;&emsp;The regulations promulgated pursuant to subparagraph (A) may include such requirements as the Administrator determines to be necessary to facilitate the transition from the use of paper manifests to the use of electronic manifests, or to accommodate the processing of data from paper manifests in the electronic manifest system, including a requirement that users of paper manifests submit to the system copies of the paper manifests for data processing purposes.
 
 #### (C) Requirements
 

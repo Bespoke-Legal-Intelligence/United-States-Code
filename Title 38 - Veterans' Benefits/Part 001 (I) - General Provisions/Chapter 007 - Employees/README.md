@@ -9,10 +9,13 @@
 | [709\.](%C2%A7%2000709%20-%20Employment%20restrictions.md) | Employment restrictions. |
 | [711\.](%C2%A7%2000711%20-%20Grade%20reductions.md) | Grade reductions. |
 | \[712. | Repealed.\] |
+| [713\.](%C2%A7%2000713%20-%20Senior%20executives%20removal%20based%20on%20performance%20or%20misconduct.md) | Senior executives: removal based on performance or misconduct. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–146, title VII, §707(a)(2), Aug. 7, 2014, 128 Stat. 1800, added item 713.
 
 <b>2001</b>—Pub. L. 107–103, title V, §509(a)(2), Dec. 27, 2001, 115 Stat. 997, struck out item 712 "Full-time equivalent positions: limitation on reduction".
 
@@ -30,3 +33,4 @@
 - [&sect; 00709 - Employment restrictions](%C2%A7%2000709%20-%20Employment%20restrictions.md)
 - [&sect; 00711 - Grade reductions](%C2%A7%2000711%20-%20Grade%20reductions.md)
 - [&sect; 00712 - Repealed. Pub. L. 107&#8211;103, title V, &sect;509(a)(1), Dec. 27, 2001, 115 Stat. 997](%C2%A7%2000712%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93103%2C%20title%20V%2C%20%C2%A7509%28a%29%281%29%2C%20Dec.%2027%2C%202001%2C%20115%20Stat.%20997.md)
+- [&sect; 00713 - Senior executives removal based on performance or misconduct](%C2%A7%2000713%20-%20Senior%20executives%20removal%20based%20on%20performance%20or%20misconduct.md)

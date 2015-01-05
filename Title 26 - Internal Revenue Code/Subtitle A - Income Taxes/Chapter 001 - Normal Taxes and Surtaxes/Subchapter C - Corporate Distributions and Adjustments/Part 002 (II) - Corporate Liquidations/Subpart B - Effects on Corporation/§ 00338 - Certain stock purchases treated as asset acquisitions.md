@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this subtitle, if a purchasing corporation makes an election under this section (or is treated under subsection (e) as having made such an election), then, in the case of anyqualified stock purchase, the target corporation—
+For purposes of this subtitle, if a purchasing corporation makes an election under this section (or is treated under subsection (e) as having made such an election), then, in the case of any qualified stock purchase, the target corporation—
 
 &emsp;(1) shall be treated as having sold all of its assets at the close of the acquisition date at fair market value in a single transaction, and
 
@@ -38,7 +38,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 #### (4) Grossed-up basis
 
-&emsp;For purposes of paragraph (1), the grossed-up basis shall be an amount equal to the basis of the corporation's recently purchased stock, multiplied by a fraction—
+&emsp;For purposes of paragraph (1), the grossed-up basis shall be an amount equal to the basis ofthe corporation's recently purchased stock, multiplied by a fraction—
 
 &emsp;&emsp;(A) the numerator of which is 100 percent, minus the percentage of stock (by value) in the target corporation attributable to the purchasing corporation's nonrecently purchased stock, and
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) such acquisition was before September 1, 1982, or
 
-&emsp;&emsp;(D) such acquisition is described in regulations prescribed by the Secretary and meetssuch conditions as such regulations may provide.
+&emsp;&emsp;(D) such acquisition is described in regulations prescribed by the Secretary and meets such conditions as such regulations may provide.
 
 #### (3) Anti-avoidance rule
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (B) Extension where there is plan
 
-&emsp;&emsp;The period referred to in subparagraph (A) shall also include any period during whichthe Secretary determines that there was in effect a plan to make a qualified stock purchase plus 1 or more other qualified stock purchases (or asset acquisitions described in subsection (e)) with respect to the target corporation or any target affiliate.
+&emsp;&emsp;The period referred to in subparagraph (A) shall also include any period during which the Secretary determines that there was in effect a plan to make a qualified stock purchase plus 1 or more other qualified stock purchases (or asset acquisitions described in subsection (e)) with respect to the target corporation or any target affiliate.
 
 #### (5) Affiliated group
 
@@ -354,7 +354,7 @@ Subsec. (h)(3)(C). Pub. L. 98–369, §712(k)(5)(B), added subpar. (C).
 
 Subsec. (h)(7). Pub. L. 98–369, §712(k)(6)(A), added par. (7) and struck out former par. (7) which had provided that acquisitions by purchasing corporation include acquisitions by corporations affiliated with purchasing corporation. See subsec. (h)(8).
 
-Subsec. (h)(8). Pub. L. 98–369, §712(k)(6)(A), added par. (8) incorporating former par. (7) provision stating that "Except as otherwise provided in regulations, an acquisition of stock or assets by any member of an affiliated group which includes a purchasing corporation shall be treated as made by the purchasing corporation." Former par. (8) redesignated (9).
+Subsec. (h)(8). Pub. L. 98–369, §712(k)(6)(A), added par. (8) incorporating former par. (7) provision stating that"Except as otherwise provided in regulations, an acquisition of stock or assets by any member of an affiliated group which includes a purchasing corporation shall be treated as made by the purchasing corporation." Former par. (8) redesignated (9).
 
 Subsec. (h)(9). Pub. L. 98–369, §712(k)(6)(A), (B), redesignated former par. (8) as (9) and substituted therein "paragraph (10)" for "paragraph (9)". Former par. (9) redesignated (10).
 
@@ -406,7 +406,7 @@ Pub. L. 98–369, div. A, title VII, §712(k)(9), July 18, 1984, 98 Stat. 952, a
 
 "(A)
 
-In general.—The amendments made by this subsection \[amending this section and sections 269 and 318 of this title\] shall not apply to any qualified stock purchase (as defined in section 338(d)(3) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\]) where the acquisition date (as defined in section 338(h)(2) of such Code) is before September 1, 1982.
+In general.—The amendments made by this subsection \[amending this section and sections 269 and 318 of this title\] shall not apply to any qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) where the acquisition date (as defined in section 338(h)(2) of such Code) is before September 1, 1982.
 
 "(B)
 

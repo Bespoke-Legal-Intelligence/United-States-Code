@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;(9) While commercial transportation systems have the promise to contribute valuable services, it is in the United States national interest to maintain a government operated space transportation system for crew and cargo delivery to space.
 
-&emsp;(10) Congress restates its commitment, expressed in the National Aeronautics and Space Administration Authorization Act of 2005 <sup>1</sup> (Public Law 109–155) and the National Aeronautics and Space Administration Authorization Act of 2008 <sup>1</sup> (Public Law 110–422), to thedevelopment of commercially developed launch and delivery systems to the ISS for crew and cargo missions. Congress reaffirms that NASA shall make use of United States commercially provided ISS crew transfer and crew rescue services to the maximum extent practicable.
+&emsp;(10) Congress restates its commitment, expressed in the National Aeronautics and Space Administration Authorization Act of 2005 <sup>1</sup> (Public Law 109–155) and the National Aeronautics and Space Administration Authorization Act of 2008 <sup>1</sup> (Public Law 110–422), to the development of commercially developed launch and delivery systems to the ISS for crew and cargo missions. Congress reaffirms that NASA shall make use of United States commercially provided ISS crew transfer and crew rescue services to the maximum extent practicable.
 
 &emsp;(11) It is critical to identify an appropriate combination of NASA and related United States Government programs, while providing a framework that allows partnering, leveraging and stimulation of the existing and emerging commercial and international efforts in both near Earth space and the regions beyond.
 

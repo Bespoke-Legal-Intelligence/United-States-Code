@@ -20,7 +20,7 @@ General.—Section 30112(a) of this title does not apply to a motor vehicle if�
 
 &emsp;(2) the vehicle is imported by a registered importer; and
 
-&emsp;(3) the registered importer pays the annual fee the Secretary of Transportation establishes under subsection (e) of this section topay for the costs of carrying out the registration program for importers under subsection (c) of this section and any other fees the Secretary of Transportation establishes to pay for the costs of—
+&emsp;(3) the registered importer pays the annual fee the Secretary of Transportation establishes under subsection (e) of this section to pay for the costs of carrying out the registration program for importers under subsection (c) of this section and any other fees the Secretary of Transportation establishes to pay for the costs of—
 
 &emsp;&emsp;(A) processing bonds provided to the Secretary of the Treasury under subsection (d) of this section; and
 
@@ -48,7 +48,7 @@ Registration.—(1) The Secretary of Transportation shall establish procedures f
 
 (4) The Secretary of Transportation shall establish procedures for—
 
-&emsp;(A) revoking or suspending a registration issued under paragraph (1) of this subsection for not complying with a requirement of this subchapter or any of sections 30112, 30115, 30117–30122, 30125(c), 30127, or 30166 of this title or regulations prescribed under this subchapter or any of those sections;
+&emsp;(A) revoking or suspending a registration issued under paragraph (1) of this subsection for not complying with a requirement of this subchapter or any of sections 30112, 30115,30117–30122, 30125(c), 30127, or 30166 of this title or regulations prescribed under this subchapter or any of those sections;
 
 &emsp;(B) automatically suspending a registration for not paying a fee under subsection (a)(3) of this section in a timely manner or for knowingly filing a false or misleading certification under section 30146 of this title; and
 
@@ -110,7 +110,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(c)(2), (3)(A)–(D); added 
 
 In subsection (a)(1)(A)(iv), the words "prescribed under this chapter" are substituted for "Federal" for consistency in this chapter.
 
-In subsection (a)(3), before clause (A), the words "any other fees" are substituted for "such other annual feeor fees" to eliminate unnecessary words. In clause (B), the words "this subchapter" are substituted for "this section" for clarity. See H. Rept. No. 100–431, 100th Cong., 1st Sess., p. 19 (1987).
+In subsection (a)(3), before clause (A), the words "any other fees" are substituted for "such other annual fee or fees" to eliminate unnecessary words. In clause (B), the words "this subchapter" are substituted for "this section" for clarity. See H. Rept. No. 100–431, 100th Cong., 1st Sess., p. 19 (1987).
 
 In subsection (b)(1), the words "procedures for making a decision under subsection (a)(1) of this section" are substituted for "procedures for considering such petitions" and "procedures for determinations made on the Secretary's initiative" because of the restatement. The words "(whether or not confidential)" are omitted as unnecessary because of the restatement.
 

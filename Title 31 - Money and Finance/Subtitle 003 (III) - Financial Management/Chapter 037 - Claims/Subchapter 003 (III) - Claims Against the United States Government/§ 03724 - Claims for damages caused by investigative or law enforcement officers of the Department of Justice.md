@@ -4,7 +4,7 @@
 
 (b) A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975; Pub. L. 101–203, §1(a), (b)(1), Dec. 7, 1989, 103 Stat. 1805;Pub. L. 105–362, title X, §1001(c), Nov. 10, 1998, 112 Stat. 3291.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975; Pub. L. 101–203, §1(a), (b)(1), Dec. 7, 1989, 103 Stat. 1805; Pub. L. 105–362, title X, §1001(c), Nov. 10, 1998, 112 Stat. 3291.)
 
 Historical and Revision Notes
 

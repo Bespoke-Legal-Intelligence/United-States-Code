@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) for fiscal year 2007 and subsequent fiscal years is—
 
-&emsp;&emsp;&emsp;(i) the number of children with disabilities in the 2004–2005 school year in theState who received special education and related services—
+&emsp;&emsp;&emsp;(i) the number of children with disabilities in the 2004–2005 school year in the State who received special education and related services—
 
 &emsp;&emsp;&emsp;&emsp;(I) aged 3 through 5 if the State is eligible for a grant under section 1419 of this title; and
 
@@ -200,7 +200,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State waseligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
 #### (ii) Small State adjustment
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;&emsp;For the purpose of assisting local educational agencies (including a charter school that is a local educational agency or a consortium of local educational agencies) in addressing the needs of high need children with disabilities, each State shall have the option to reserve for each fiscal year 10 percent of the amount of funds the State reserves for State-level activities under paragraph (2)(A)—
 
-&emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to local educational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
+&emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to localeducational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to support innovative and effective ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies, as determined by the State in coordination with representatives from local educational agencies, subject to subparagraph (B)(ii).
 
@@ -386,7 +386,7 @@
 
 #### (3) Reallocation of funds
 
-&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in thearea served by that local educational agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local educational agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas served by those other local educational agencies.
+&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in the area served by that local educational agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local educational agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas served by those other local educational agencies.
 
 #### (g) Definitions
 
@@ -442,7 +442,7 @@ In this section:
 
 &emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entities to facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs, including child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
 
-&emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise ofmonitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
+&emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise of monitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
 
 #### (3) Applicability
 
@@ -482,7 +482,7 @@ In this section:
 
 &emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shall be selected by the Secretary of the Interior. The advisory board shall—
 
-&emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State,and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
+&emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State, and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
 
 &emsp;&emsp;(B) advise and assist the Secretary of the Interior in the performance of the Secretary of the Interior's responsibilities described in this subsection;
 
@@ -539,4 +539,14 @@ Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84
 #### Effective Date
 
 Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under section 1400 of this title.
+
+#### Effect of Reduction
+
+Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2499, provided in part: "That the Secretary may, in any fiscal year in which a State's allocation under section 611 \[20 U.S.C. 1411\] is reduced in accordance with section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\], reduce the amount a State may reserve under section 611(e)(1) \[20 U.S.C. 1411(e)(1)\] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) \[20 U.S.C. 1411(d)\] in the absence of the reduction: <i>Provided further</i>, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) \[20 U.S.C. 1412(a)(18)(A)\] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act (20 U.S.C. 1234a)".
+
+Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2499, provided in part: "That the amount by which a State's allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, 20 U.S.C. 1411(d)\] is reduced under section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years".
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
 

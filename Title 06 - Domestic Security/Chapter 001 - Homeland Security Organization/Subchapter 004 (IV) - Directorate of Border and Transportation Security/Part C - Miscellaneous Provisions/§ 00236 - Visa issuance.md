@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this subsection,<sup>1</sup> the term “consular office” <sup>2</sup> has the meaning given that term under section 101(a)(9) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(9)).
+In this subsection,<sup>1</sup> the term "consular office" <sup>2</sup> has the meaning given that term under section 101(a)(9) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(9)).
 
 #### (b) In general
 
@@ -16,11 +16,11 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (b) of this section, the Secretary of State may direct a consular officer to refuse a visa to an alien if the Secretary of State deems such refusal necessary or advisable in the foreign policy or security interests of the United States.
+&emsp;Notwithstanding subsection (b), the Secretary of State may direct a consular officer to refuse a visa to an alien if the Secretary of State deems such refusal necessary or advisable in the foreign policy or security interests of the United States.
 
 #### (2) Construction regarding authority
 
-&emsp;Nothing in this section, consistent with the Secretary of Homeland Security's authority to refuse visas in accordance with law, shall be construed as affecting the authorities of the Secretary of State under the following provisions of law:
+&emsp;Nothing in this section, consistent with the Secretary of Homeland Security's authority to refuse visas in accordance with law, shall beconstrued as affecting the authorities of the Secretary of State under the following provisions of law:
 
 &emsp;&emsp;(A) Section 101(a)(15)(A) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(A)).
 
@@ -172,11 +172,11 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “ ‘consular officer’ ”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be " 'consular officer' ".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “Governmental”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "Governmental".</i>
 

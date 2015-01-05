@@ -24,7 +24,7 @@ Any payments made to discharge liabilities under investment insurance or reinsur
 
 #### (e) Reserves from predecessor guaranty authority
 
-There is hereby authorized to be transferred to the Corporation at its call, for the purposes specified in section 2196 of this title, all fees and other revenues collected under predecessor guaranty authority from December 31, 1968, available as of the date of such transfer.
+There is hereby authorized to be transferred to the Corporation at its call, for the purposesspecified in section 2196 of this title, all fees and other revenues collected under predecessor guaranty authority from December 31, 1968, available as of the date of such transfer.
 
 #### (f) Authorization of appropriations; issuance, etc., of obligations by Corporation for purchase by Secretary of the Treasury
 

@@ -48,23 +48,33 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 #### (B) Use of procedures
 
-&emsp;&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
+
+#### (ii) Determination
+
+&emsp;&emsp;&emsp;Not later than 180 days after June 10, 2014, the Secretary shall issue guidance on the procedures described in clause (i).
 
 #### (2) Credit
 
 &emsp;The Secretary may credit toward the non-Federal share of the costs of a study under subsection (b) of this section the cost of services, studies, supplies, or other in-kind contributions provided by the non-Federal interest if the Secretary determines that the services, studies, supplies, and other in-kind contributions will facilitate completion of the study.
 
-#### (e) Authorization of appropriations
+#### (e) Restrictions
 
-There is authorized to be appropriated to carry out subsection (b) of this section $5,000,000 for each of fiscal years 2002 through 2012, of which not more than $1,000,000 may be used with respect to any 1 Indian tribe.
+The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2024.
 
-(Pub. L. 106–541, title II, §203, Dec. 11, 2000, 114 Stat. 2588; Pub. L. 110–114, title II, §2011, Nov. 8, 2007, 121 Stat. 1074.)
+(Pub. L. 106–541, title II, §203, Dec. 11, 2000, 114 Stat. 2588; Pub. L. 110–114, title II, §2011, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 113–121, title I, §1031(a), June 10, 2014, 128 Stat. 1232.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(1)(B). Pub. L. 113–121, §1031(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (e). Pub. L. 113–121, §1031(a)(2), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 2002 to 2012.
 
 <b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §2011(a)(1), inserted "carry out water-related planning activities and" after "the Secretary may" in introductory provisions.
 

@@ -30,7 +30,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (iii) Notice regarding carryover submissions
 
-&emsp;&emsp;&emsp;In making a notification under subparagraph (C), the person involved shall in addition notify the Secretary if under subparagraph (F)(i) the person intends to submit a DTC advertisement for which the advisory review fee has already been paid. If the person does not so notify the Secretary, each DTC advertisement submitted by the person for advisory review in the fiscal year involved shall be subject to the advisory review fee.
+&emsp;&emsp;&emsp;In making a notification under subparagraph (C), the person involved shall in addition notify the Secretary if under subparagraph (F)(i) the person intends to submit a DTC advertisement for which the advisory review fee has already been paid. Ifthe person does not so notify the Secretary, each DTC advertisement submitted by the person for advisory review in the fiscal year involved shall be subject to the advisory review fee.
 
 #### (E) Modification of advisory review fee
 
@@ -46,7 +46,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) Submissions
 
-&emsp;&emsp;&emsp;For each advisory review fee paid by a person for a fiscal year, the person is entitled to acceptance for advisory review by the Secretary of one DTC advertisementand acceptance of one resubmission for advisory review of the same advertisement. The advertisement shall be submitted for review in the fiscal year for which the fee was assessed, except that a person may carry over not more than one paid advisory review submission to the next fiscal year. Resubmissions may be submitted without regard to the fiscal year of the initial advisory review submission.
+&emsp;&emsp;&emsp;For each advisory review fee paid by a person for a fiscal year, the person is entitled to acceptance for advisory review by the Secretary of one DTC advertisement and acceptance of one resubmission for advisory review of the same advertisement. The advertisement shall be submitted for review in the fiscal year for which the fee was assessed, except that a person may carry over not more than one paid advisory review submission to the next fiscal year. Resubmissions may be submitted without regard to the fiscal year of the initial advisory review submission.
 
 #### (ii) No refunds
 
@@ -94,7 +94,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (iii) Amount
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, an operating reserve fee that is regarded as late under this subparagraph shall be equal to 150 percent of the operating reserve fee that otherwise would have applied pursuant to subsection (d).
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, an operating reserve fee thatis regarded as late under this subparagraph shall be equal to 150 percent of the operating reserve fee that otherwise would have applied pursuant to subsection (d).
 
 #### (b) Advisory review fee revenue amounts
 

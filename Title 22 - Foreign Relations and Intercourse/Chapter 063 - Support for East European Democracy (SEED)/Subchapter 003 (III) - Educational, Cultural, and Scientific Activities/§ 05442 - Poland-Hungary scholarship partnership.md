@@ -22,7 +22,7 @@ The Federal share for each year for which a State receives payments under this s
 
 #### (f) Non-Federal share
 
-The non-Federal share of payments under this section may be in cash, including the waiver of tuition or the offering of in-State tuition or housing waivers or subsidies, or in-kind fairly evaluated, including the provision of books or supplies.
+The non-Federal share of payments under this section may be in cash, including the waiver of tuition or the offering of in-State tuition orhousing waivers or subsidies, or in-kind fairly evaluated, including the provision of books or supplies.
 
 #### (g) Forgiveness of scholarship assistance
 
@@ -38,7 +38,7 @@ Grants to States pursuant to this section shall be made with funds made availabl
 
 #### (j) Restrictions not applicable
 
-Prohibitions on the use of foreign assistance funds for assistance for Poland and Hungaryshall not apply with respect to the funds made available to carry out this section.
+Prohibitions on the use of foreign assistance funds for assistance for Poland and Hungary shall not apply with respect to the funds made available to carry out this section.
 
 #### (k) "State" defined
 

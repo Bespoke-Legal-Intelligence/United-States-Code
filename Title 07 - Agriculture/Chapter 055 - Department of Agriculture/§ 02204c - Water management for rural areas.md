@@ -36,9 +36,9 @@ In implementing this section, the Secretary—
 
 (2) Such regulations shall—
 
-&emsp;(A) specify the terms and conditions that the entities described in subsections (a) and (c) of this section must meet in order to participate in programs carried out under this section;
+&emsp;(A) specify the terms and conditions that the entities described in subsections (a) and (c) must meet in order to participate in programs carried out under this section;
 
-&emsp;(B) establish a procedure under which entities described in subsections (a) and (c) of this section may apply for assistance under this section; and
+&emsp;(B) establish a procedure under which entities described in subsections (a) and (c) may apply for assistance under this section; and
 
 &emsp;(C) foster cooperation between such entities and other Federal, State, or local agencies for the purposes of carrying out the provisions of this section.
 
@@ -46,7 +46,7 @@ In implementing this section, the Secretary—
 
 As used in this section, the term "university" means—
 
-&emsp;(1) a land grant university established under the Act of July 2, 1862 (known as the "FirstMorrill Act"; 12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.);
+&emsp;(1) a land grant university established under the Act of July 2, 1862 (known as the "First Morrill Act"; 12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.);
 
 &emsp;(2) a land grant university established under the Act of August 30, 1890 (known as the "Second Morrill Act"; 26 Stat. 419, chapter 841; 7 U.S.C. 321 et seq.);
 

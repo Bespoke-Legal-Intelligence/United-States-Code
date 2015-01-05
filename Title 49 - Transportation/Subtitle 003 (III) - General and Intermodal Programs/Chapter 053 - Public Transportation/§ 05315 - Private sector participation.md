@@ -114,7 +114,7 @@ Identify impediments.—The Secretary shall—
 
 &emsp;"(B) develop and implement on a project basis procedures and approaches that—
 
-&emsp;&emsp;"(i) address such impediments in a manner similar to the Special Experimental Project Number 15 of the Federal Highway Administration (commonly referred to as 'SEP-15'); and
+&emsp;&emsp;"(i) address such impediments in a manner similar to the Special Experimental Project Number 15of the Federal Highway Administration (commonly referred to as 'SEP-15'); and
 
 &emsp;&emsp;"(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or private investment in public transportation capital projects.
 

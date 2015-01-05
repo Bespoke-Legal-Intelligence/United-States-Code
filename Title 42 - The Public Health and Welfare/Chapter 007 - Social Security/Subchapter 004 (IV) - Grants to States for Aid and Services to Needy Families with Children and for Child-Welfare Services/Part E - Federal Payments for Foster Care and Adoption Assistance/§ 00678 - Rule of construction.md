@@ -10,5 +10,5 @@ A prior section 678, act Aug. 14, 1935, ch. 531, title IV, §478, as added Oct. 
 
 #### Effective Date
 
-Section effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as anEffective Date of 1997 Amendments note under section 622 of this title.
+Section effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as an Effective Date of 1997 Amendments note under section 622 of this title.
 

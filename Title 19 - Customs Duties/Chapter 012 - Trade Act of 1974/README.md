@@ -137,10 +137,10 @@
 
 |  |  |
 | :--- | ---: |
-| [2291\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/%C2%A7%2002291%20-%20Qualifying%20requirements%20for%20workers.md) | Qualifying requirements for workers. |
-| [2292\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/%C2%A7%2002292%20-%20Weekly%20amounts%20of%20readjustment%20allowance.md) | Weekly amounts of readjustment allowance. |
-| [2293\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/%C2%A7%2002293%20-%20Limitations%20on%20trade%20readjustment%20allowances.md) | Limitations on trade readjustment allowances. |
-| [2294\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/%C2%A7%2002294%20-%20Application%20of%20State%20laws.md) | Application of State laws. |
+| [2291\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/%C2%A7%2002291%20-%20Qualifying%20requirements%20for%20workers.md) | Qualifying requirements for workers. |
+| [2292\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/%C2%A7%2002292%20-%20Weekly%20amounts%20of%20readjustment%20allowance.md) | Weekly amounts of readjustment allowance. |
+| [2293\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/%C2%A7%2002293%20-%20Limitations%20on%20trade%20readjustment%20allowances.md) | Limitations on trade readjustment allowances. |
+| [2294\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/%C2%A7%2002294%20-%20Application%20of%20State%20laws.md) | Application of State laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -148,11 +148,11 @@
 
 |  |  |
 | :--- | ---: |
-| [2295\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002295%20-%20Employment%20and%20case%20management%20services.md) | Employment and case management services. |
-| [2295a.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002295a%20-%20Limitations%20on%20administrative%20expenses%20and%20employment%20and%20case%20management%20services.md) | Limitations on administrative expenses and employment and case management services. |
-| [2296\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002296%20-%20Training.md) | Training. |
-| [2297\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002297%20-%20Job%20search%20allowances.md) | Job search allowances. |
-| [2298\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002298%20-%20Relocation%20allowances.md) | Relocation allowances. |
+| [2295\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002295%20-%20Employment%20and%20case%20management%20services.md) | Employment and case management services. |
+| [2295a.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002295a%20-%20Limitations%20on%20administrative%20expenses%20and%20employment%20and%20case%20management%20services.md) | Limitations on administrative expenses and employment and case management services. |
+| [2296\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002296%20-%20Training.md) | Training. |
+| [2297\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002297%20-%20Job%20search%20allowances.md) | Job search allowances. |
+| [2298\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/%C2%A7%2002298%20-%20Relocation%20allowances.md) | Relocation allowances. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -286,11 +286,9 @@
 
 #### Part 2—Relief From Market Disruption to Industries and Diversion of Trade to the United States Market
 
-|  |  |
-| :--- | ---: |
-| [2451\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20002%20-%20Relief%20from%20Market%20Disruption%20to%20Industries%20and%20Diversion%20of%20Trade%20to%20the%20United%20States%20Market/%C2%A7%2002451%20-%20Action%20to%20address%20market%20disruption.md) | Action to address market disruption. |
-| [2451a.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20002%20-%20Relief%20from%20Market%20Disruption%20to%20Industries%20and%20Diversion%20of%20Trade%20to%20the%20United%20States%20Market/%C2%A7%2002451a%20-%20Action%20in%20response%20to%20trade%20diversion.md) | Action in response to trade diversion. |
-| [2451b.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20002%20-%20Relief%20from%20Market%20Disruption%20to%20Industries%20and%20Diversion%20of%20Trade%20to%20the%20United%20States%20Market/%C2%A7%2002451b%20-%20Regulations%3B%20termination%20of%20provision.md) | Regulations; termination of provision. |
+|  |
+| :--- |
+| 2451 to 2451b. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

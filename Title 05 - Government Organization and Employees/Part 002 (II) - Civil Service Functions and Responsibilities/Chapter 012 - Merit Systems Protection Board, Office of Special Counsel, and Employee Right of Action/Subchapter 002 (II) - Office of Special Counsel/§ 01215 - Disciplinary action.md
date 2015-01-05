@@ -36,7 +36,7 @@
 
 (5) In the case of any State or local officer or employee under chapter 15, the Board shall consider the case in accordance with the provisions of such chapter.
 
-(b) In the case of an employee in a confidential, policy-making, policy-determining, or policy-advocating position appointed by the President, by and with the advice and consent of the Senate (other than an individual in the Foreign Service of the United States), the complaint and statement referred to in subsection (a)(1), together with any response of the employee, shall be presented to the President for appropriate action in lieu of being presented under subsection (a).
+(b) In the case of an employee in a confidential, policy-making, policy-determining, or policy-advocating position appointed by the President, by and with the advice and consent of the Senate (other than an individual in the ForeignService of the United States), the complaint and statement referred to in subsection (a)(1), together with any response of the employee, shall be presented to the President for appropriate action in lieu of being presented under subsection (a).
 
 (c)(1) In the case of members of the uniformed services and individuals employed by any person under contract with an agency to provide goods or services, the Special Counsel may transmit recommendations for disciplinary or other appropriate action (including the evidence on which such recommendations are based) to the head of the agency concerned.
 
@@ -46,7 +46,7 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(3). Pub. L. 112–199 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A final order of the Board may impose disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, reprimand, or an assessment of a civil penalty not to exceed $1,000.”
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–199 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "A final order of the Board may impose disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, reprimand, or an assessment of a civil penalty not to exceed $1,000."
 
 #### Effective Date of 2012 Amendment
 

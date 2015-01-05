@@ -26,7 +26,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(G) defense research and development.
 
-&emsp;(4) The term "candidate site" means an area, within a geologic and hydrologic system, that is recommended by the Secretary undersection 10132 of this title for site characterization, approved by the President under section 10132 of this title for site characterization, or undergoing site characterization under section 10133 of this title.
+&emsp;(4) The term "candidate site" means an area, within a geologic and hydrologic system, that is recommended by the Secretary under section 10132 of this title for site characterization, approved by the President under section 10132 of this title for site characterization, or undergoing site characterization under section 10133 of this title.
 
 &emsp;(5) The term "civilian nuclear activity" means any atomic energy activity other than an atomic energy defense activity.
 
@@ -36,7 +36,7 @@ For purposes of this chapter:
 
 &emsp;(8) The term "Department" means the Department of Energy.
 
-&emsp;(9) The term "disposal" means the emplacement in a repository of high-level radioactive waste, spent nuclear fuel, or other highly radioactive material with no foreseeable intent of recovery, whether or not such emplacement permits the recovery of such waste.
+&emsp;(9) The term "disposal" means the emplacement in a repository of high-level radioactive waste, spent nuclear fuel, or other highlyradioactive material with no foreseeable intent of recovery, whether or not such emplacement permits the recovery of such waste.
 
 &emsp;(10) The terms "disposal package" and "package" mean the primary container that holds, and is in contact with, solidified high-level radioactive waste, spent nuclear fuel, or other radioactive materials, and any overpacks that are emplaced at a repository.
 

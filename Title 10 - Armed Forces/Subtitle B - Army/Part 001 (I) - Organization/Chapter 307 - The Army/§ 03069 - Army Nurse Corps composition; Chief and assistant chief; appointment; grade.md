@@ -4,7 +4,7 @@
 
 (b) The Secretary of the Army shall appoint the Chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel and who are recommended by the Surgeon General. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed to the same position.
 
-(c) The Surgeon General shall appoint the assistant chief from the officers of the Regular Army in that corps whose regular grade is abovelieutenant colonel. The assistant chief serves during the pleasure of the Surgeon General, but not for more than four years and may not be reappointed to the same position.
+(c) The Surgeon General shall appoint the assistant chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel. The assistant chief serves during the pleasure of the Surgeon General, but not for more than four years and may not be reappointed to the same position.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 168; Pub. L. 85–155, title I, §101(1), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(1), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(A), Nov. 8, 1967, 81 Stat. 374; Pub. L. 104–201, div. A, title V, §502(a), Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title V, §504(a)(1), Dec. 2, 2002, 116 Stat. 2531.)
 

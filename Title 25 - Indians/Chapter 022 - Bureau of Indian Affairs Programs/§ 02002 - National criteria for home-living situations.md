@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of Education, Indian organizations andtribes, and Bureau-funded schools, shall revise the national standards for home-living (dormitory) situations to include such factors as heating, lighting, cooling, adult-child ratios, needs for counselors (including special needs related to off-reservation home-living (dormitory) situations), therapeutic programs, space, and privacy.
+&emsp;The Secretary, in consultation with the Secretary of Education, Indian organizations and tribes, and Bureau-funded schools, shall revise the national standards for home-living (dormitory) situations to include such factors as heating, lighting, cooling, adult-child ratios, needs for counselors (including special needs related to off-reservation home-living (dormitory) situations), therapeutic programs, space, and privacy.
 
 #### (2) Implementation
 

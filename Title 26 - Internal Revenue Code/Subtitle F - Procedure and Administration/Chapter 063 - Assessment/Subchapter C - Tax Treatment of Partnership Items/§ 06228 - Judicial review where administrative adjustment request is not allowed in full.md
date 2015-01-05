@@ -58,7 +58,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If an action is brought by the tax matters partner under paragraph (1) with respect to any request for an adjustment of a partnership item for any taxable year—
+&emsp;&emsp;If an action is brought by the tax matters partner under paragraph (1) with respect toany request for an adjustment of a partnership item for any taxable year—
 
 &emsp;&emsp;&emsp;(i) each person who was a partner in such partnership at any time during the partnership taxable year involved shall be treated as a party to such action, and
 

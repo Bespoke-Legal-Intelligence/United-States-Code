@@ -72,7 +72,7 @@ For purposes of this section, the term "net direct interest expense" means, with
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–188 struck out "or to which section 593 applies" after "585(a)(2))" in closing provisions.
 
-<b>1993</b>—Subsec. (d). Pub. L. 103–66 struck out heading and text of subsec. (d). Text read as follows: "In the case of a market discount bond issued on or before July 18, 1984, any gain recognized by the taxpayer on any disposition of such bond shall be treated as ordinary income to the extent the amount of such gain does not exceed the amount allowable with respect to such bond under subsection (b)(2) for the taxable year in which such bond is disposed of."
+<b>1993</b>—Subsec. (d). Pub. L. 103–66 struck out heading and text of subsec. (d). Text read as follows: "In thecase of a market discount bond issued on or before July 18, 1984, any gain recognized by the taxpayer on any disposition of such bond shall be treated as ordinary income to the extent the amount of such gain does not exceed the amount allowable with respect to such bond under subsection (b)(2) for the taxable year in which such bond is disposed of."
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647 inserted a closing parenthesis after "section 585(a)(2)".
 

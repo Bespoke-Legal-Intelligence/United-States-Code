@@ -8,7 +8,7 @@ For the purpose of making grants under section 300ff–51 of this title, there a
 
 <b>2009</b>—Pub. L. 111–87, §2(d), substituted "$235,100,000 for fiscal year 2009, $246,855,000 for fiscal year 2010, $259,198,000 for fiscal year 2011, $272,158,000 for fiscal year 2012, and $285,766,000 for fiscal year 2013" for "and $235,100,000 for fiscal year 2009".
 
-Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment noteand Effective Date of 2009 Amendment; Revival Section note below.
+Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 

@@ -16,7 +16,7 @@
 
 (e) Information about a financial transaction exempt under subsection (c) of this section or a financial transaction under section 8(b) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j(b)) <sup>1</sup> may be reviewed by the Permanent Select Committee on Intelligence of the House and the Select Committee on Intelligence of the Senate.
 
-(f) Subsections (a)(1) and (d)(1) of this section may be superseded only by a law enacted afterApril 3, 1980, specifically repealing or amending this section.
+(f) Subsections (a)(1) and (d)(1) of this section may be superseded only by a law enacted after April 3, 1980, specifically repealing or amending this section.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 963.)
 
@@ -58,7 +58,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(f); added Apr. 3, 1980, Pub. L. 96�
 
 31:67(f)(1)(2d sentence).
 
-In subsection (a)(1), the words "Notwithstanding any provision of law" are omitted as unnecessary. The words "may audit" are added for clarity and for consistency in the revised section and chapter. The words "as may be necessary to enable him" and "in fact, actually" are omitted as surplus. The words "Records . . . shall be made available" are substituted for "shall have access to such books, documents, papers, records" for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the words "Notwithstanding any provision of law" are omitted as unnecessary. The words "may audit" are added for clarity and for consistency in the revised section and chapter. The words"as may be necessary to enable him" and "in fact, actually" are omitted as surplus. The words "Records . . . shall be made available" are substituted for "shall have access to such books, documents, papers, records" for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(2), the words "With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency and notwithstanding any provision of law" are omitted because of the restatement. The words "in question" are omitted as surplus.
 

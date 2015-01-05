@@ -6,7 +6,7 @@ Whenever during any calendar year the Secretary determines that the total supply
 
 #### Amendments
 
-<b>1958</b>—Pub. L. 85–835, §103(1), substituted proviso prescribing, beginning with the 1961 crop, a minimum national marketing quota for cotton equal to estimated domestic consumption and exports less imports subject to adjustment assuring maintenance of adequate but not excessive stocks, the adjustment not to reduce the national marketing quota for any year below the larger of (1) estimated domestic consumption and exports less one million bales or (2) ten million bales, for provisions prescribing for a national marketing quota not less than the smaller of ten million bales or one million bales less than estimated domestic consumption plus exports and providing for 1950 a national marketing quota based on a twenty-one million national acreage allotment.
+<b>1958</b>—Pub. L. 85–835, §103(1), substituted proviso prescribing, beginning with the 1961 crop, a minimum national marketing quota for cotton equal to estimated domestic consumption and exports less imports subject to adjustment assuring maintenance of adequate but not excessive stocks, the adjustment not to reduce the national marketing quota for any year below the larger of (1) estimated domestic consumption and exports less one million bales or (2) ten million bales, for provisions prescribing for a national marketing quota not less than the smaller of ten million bales or one million bales less than estimated domestic consumption plus exports and providing for 1950 a national marketingquota based on a twenty-one million national acreage allotment.
 
 Pub. L. 85–835, §103(2), provided for a national marketing quota for upland cotton for 1959 and subsequent years based on a sixteen million national acreage allotment.
 
@@ -15,6 +15,10 @@ Pub. L. 85–835, §103(2), provided for a national marketing quota for upland c
 <b>1949</b>—Act Aug. 29, 1949, amended section generally to set up a national marketing quota and to provide for amount and proclamation of such quota.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
 

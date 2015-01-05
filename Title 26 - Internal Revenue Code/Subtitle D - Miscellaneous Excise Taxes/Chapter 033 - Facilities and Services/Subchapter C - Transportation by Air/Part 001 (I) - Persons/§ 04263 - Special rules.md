@@ -56,7 +56,7 @@ Subsec. (f). Pub. L. 87–508 substituted "subchapter" for "part", struck out pa
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to transportation beginning on or after Oct. 1, 1997, with special rule for applicability to amounts paid before Oct. 1, 1997, see section 1031(e)(2) of Pub. L. 105–34, set out as a note under section 4261 of this title.
+Amendment by Pub. L. 105–34 applicable to transportation beginning on or after Oct. 1, 1997, with specialrule for applicability to amounts paid before Oct. 1, 1997, see section 1031(e)(2) of Pub. L. 105–34, set out as a note under section 4261 of this title.
 
 #### Effective Date of 1962 Amendment
 

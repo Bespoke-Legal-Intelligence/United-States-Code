@@ -30,7 +30,7 @@
 
 #### (4) Supplement, not supplant
 
-&emsp;Funds received under this part shall be used to supplement, and not supplant, funds that would otherwise be used for activities authorized under this part.
+&emsp;Funds received under this part shall be used to supplement, and not supplant, funds thatwould otherwise be used for activities authorized under this part.
 
 #### (b) Application requirements
 
@@ -154,7 +154,7 @@ Each eligible partnership receiving a grant or subgrant under this part shall re
 
 #### References in Text
 
-Section 1023 of this title, referred to in subsec. (d)(1), was in the original a reference to section 203 of theHigher Education Act of 1965, Pub. L. 89–329. Section 203 of Pub. L. 89–329 was repealed by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133. Pub. L. 110–315 enacted a new section 203 of Pub. L. 89–329, which relates to administrative provisions, and is classified to section 1022b of this title.
+Section 1023 of this title, referred to in subsec. (d)(1), was in the original a reference to section 203 of the Higher Education Act of 1965, Pub. L. 89–329. Section 203 of Pub. L. 89–329 was repealed by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133. Pub. L. 110–315 enacted a new section 203 of Pub. L. 89–329, which relates to administrative provisions, and is classified to section 1022b of this title.
 
 #### Prior Provisions
 

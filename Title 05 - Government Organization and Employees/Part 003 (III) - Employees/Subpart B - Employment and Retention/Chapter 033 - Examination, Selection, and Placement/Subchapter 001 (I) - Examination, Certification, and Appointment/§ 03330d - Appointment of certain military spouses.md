@@ -4,7 +4,7 @@
 
 Definitions.—In this section:
 
-&emsp;(1) The term “active duty”—
+&emsp;(1) The term "active duty"—
 
 &emsp;&emsp;(A) has the meaning given that term in section 101(d)(1) of title 10;
 
@@ -12,15 +12,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) for a member of a reserve component (as described in section 10101 of title 10), does not include training duties or attendance at a service school.
 
-&emsp;(2) The term “agency”—
+&emsp;(2) The term "agency"—
 
-&emsp;&emsp;(A) has the meaning given the term “Executive agency” in section 105 of this title; and
+&emsp;&emsp;(A) has the meaning given the term "Executive agency" in section 105 of this title; and
 
 &emsp;&emsp;(B) does not include the Government Accountability Office.
 
-&emsp;(3) The term “geographic area of the permanent duty station” means the area from which individuals reasonably can be expected to travel daily to and from work at the location of a member's permanent duty station.
+&emsp;(3) The term "geographic area of the permanent duty station" means the area from which individuals reasonably can be expected to travel daily to and from work at the location of a member's permanent duty station.
 
-&emsp;(4) The term “permanent change of station” means the assignment, detail, or transfer of a member of the Armed Forces who is on active duty and serving at a permanent duty station under a competent authorization or order that does not—
+&emsp;(4) The term "permanent change of station" means the assignment, detail, or transfer of a member of the Armed Forces who is on active duty and serving at a permanent duty station under a competent authorization or order that does not—
 
 &emsp;&emsp;(A) specify the duty as temporary;
 
@@ -28,7 +28,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) direct return to the initial permanent duty station.
 
-&emsp;(5) The term “relocating spouse of a member of the Armed Forces” means an individual who—
+&emsp;(5) The term "relocating spouse of a member of the Armed Forces" means an individual who—
 
 &emsp;&emsp;(A) is married to a member of the Armed Forces (on or prior to a permanent change of station of the member) who is ordered to active duty for a period of more than 180 consecutive days;
 
@@ -36,7 +36,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) before relocating as described in subparagraph (B), resided outside the geographic area of the permanent duty station.
 
-&emsp;(6) The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
+&emsp;(6) The term "spouse of a disabled or deceased member of the Armed Forces" means an individual—
 
 &emsp;&emsp;(A) who is married to a member of the Armed Forces who—
 
@@ -86,5 +86,5 @@ Single permanent appointment.—A spouse of a disabled or deceased member of the
 
 #### Regulations
 
-Pub. L. 112–239, div. A, title V, §566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: “Not later than 180 after the date of the enactment of this Act \[Jan. 2, 2013\], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) \[enacting this section\] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a).”
+Pub. L. 112–239, div. A, title V, §566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: "Not later than 180 after the date of the enactment of this Act \[Jan. 2, 2013\], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) \[enacting this section\] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a)."
 

@@ -38,7 +38,7 @@ Detection and prosecution initiatives.—A description of operational initiative
 
 &emsp;(4)
 
-Enhancement of the role of the private financial sector in prevention.—Theenhancement of partnerships between the private financial sector and law enforcement agencies with regard to the prevention and detection of money laundering and related financial crimes, including providing incentives to strengthen internal controls and to adopt on an industrywide basis more effective policies.
+Enhancement of the role of the private financial sector in prevention.—The enhancement of partnerships between the private financial sector and law enforcement agencies with regard to the prevention and detection of money laundering and related financial crimes, including providing incentives to strengthen internal controls and to adopt on an industrywide basis more effective policies.
 
 &emsp;(5)
 
@@ -80,7 +80,7 @@ Data regarding funding of terrorism.—Data concerning money laundering efforts 
 
 (c)
 
-Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to the Congress (other than the first transmission of any such strategy) pursuant to subsection (a), the Secretary shall submit a report containing an evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
+Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to theCongress (other than the first transmission of any such strategy) pursuant to subsection (a), the Secretary shall submit a report containing an evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
 
 (d)
 

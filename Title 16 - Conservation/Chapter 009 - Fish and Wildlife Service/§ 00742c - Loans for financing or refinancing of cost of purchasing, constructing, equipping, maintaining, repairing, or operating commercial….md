@@ -30,7 +30,7 @@ Any loans made under the provisions of this section shall be subject to the foll
 
 #### (c) Fisheries loan fund; interest payments on appropriations available as capital to the fund less average undispersed cash balance
 
-There is created a fisheries loan fund, which shall be used by the Secretary as a revolving fund to make loans for financing and refinancing under this section. Any funds received by the Secretary on or before September 30, 1986, in payment of principal or interest on any loans so made shall be deposited in the fund and be available for making additional loans under this section. Any funds received in the fisheries loan fund after September 30, 1986, shall be covered into the Treasury as miscellaneous receipts. There is authorized to be appropriated to the fisheries loan fund the sum of $20,000,000 to provide initial capital.
+There is created a fisheries loan fund, which shall be used by the Secretary as a revolving fund to make loans for financing and refinancing under this section. Any funds received by the Secretary on or before September 30, 1986, in payment of principal or interest on any loans somade shall be deposited in the fund and be available for making additional loans under this section. Any funds received in the fisheries loan fund after September 30, 1986, shall be covered into the Treasury as miscellaneous receipts. There is authorized to be appropriated to the fisheries loan fund the sum of $20,000,000 to provide initial capital.
 
 #### (d) Modification of loan contract
 
@@ -56,7 +56,7 @@ In subsec. (b)(8), "section 50501 of title 46" substituted for "section 2 of the
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–347 substituted "September 30, 1983" for "September 30, 1982" wherever appearing.
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–478 substituted "September 30, 1982" for "September 30, 1980" wherever appearing and struck out interest payment provisions respecting, payment at close of each fiscal year from fisheries loan fund into miscellaneous receipts of the Treasury on cumulative amount of appropriations available as capital to the fund from and after July 1, 1965, less average undispersed balance in the fund during the year, determination of interest rate on basis of average market yield during month preceding each fiscal year onoutstanding Treasury obligations of maturity comparable to average maturity of loans made from the fund, and interest payment deferrals approved by the Secretary of the Treasury subject to interest on deferred amounts.
+<b>1980</b>—Subsec. (c). Pub. L. 96–478 substituted "September 30, 1982" for "September 30, 1980" wherever appearing and struck out interest payment provisions respecting, payment at close of each fiscal year from fisheries loan fund into miscellaneous receipts of the Treasury on cumulative amount of appropriations available as capital to the fund from and after July 1, 1965, less average undispersed balance in the fund during the year, determination of interest rate on basis of average market yield during month preceding each fiscal year on outstanding Treasury obligations of maturity comparable to average maturity of loans made from the fund, and interest payment deferrals approved by the Secretary of the Treasury subject to interest on deferred amounts.
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–273 substituted "September" for "June" wherever appearing.
 

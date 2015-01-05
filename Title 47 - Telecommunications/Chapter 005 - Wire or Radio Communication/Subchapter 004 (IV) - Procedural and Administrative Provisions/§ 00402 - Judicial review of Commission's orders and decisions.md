@@ -2,7 +2,7 @@
 
 #### (a) Procedure
 
-Any proceeding to enjoin, set aside, annul, or suspend any order of the Commission under this chapter (except those appealable under subsection (b) of this section) shall be brought as provided by and in the manner prescribed in chapter 158 of title 28.
+Any proceeding to enjoin, set aside, annul, or suspend any order of the Commission under this chapter (except those appealable under subsection (b) of this section) shall be brought asprovided by and in the manner prescribed in chapter 158 of title 28.
 
 #### (b) Right to appeal
 

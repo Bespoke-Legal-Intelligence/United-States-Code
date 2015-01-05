@@ -4,7 +4,7 @@
 
 #### (1) Development of uniform methodology
 
-&emsp;The Secretary shall direct the Commissioner of Education Statistics to convene a series offorums to develop nationally consistent methodologies for reporting costs incurred by postsecondary institutions in providing postsecondary education.
+&emsp;The Secretary shall direct the Commissioner of Education Statistics to convene a series of forums to develop nationally consistent methodologies for reporting costs incurred by postsecondary institutions in providing postsecondary education.
 
 #### (2) Redesign of data systems
 
@@ -88,7 +88,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 #### (1) Implementation
 
-&emsp;The Secretary shall continue to improve the usefulness and accessibility of the informationprovided by the Department on college planning and student financial aid.
+&emsp;The Secretary shall continue to improve the usefulness and accessibility of the information provided by the Department on college planning and student financial aid.
 
 #### (2) Dissemination
 
@@ -236,7 +236,7 @@ Another prior section 1015, Pub. L. 89–329, title I, §115, as added Pub. L. 9
 
 Another prior section 1015, Pub. L. 89–329, title I, §131, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2086, set out the Congressional findings with regard to the lifelong learning program, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286,related to National Advisory Council on Continuing Education and was classified to section 1017 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, related to National Advisory Council on Continuing Education and was classified to section 1017 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ In providing employment to individuals pursuant to contracts under subsection (a
 
 #### (1) Duration of service
 
-&emsp;For purposes of subparagraph (B) of subsection (a)(1) of this section, the period of service for which an individual is obligated to serve as an employee of the National Institutes of Health is, subject to paragraph (2)(A), 12 months for each academic year for which the scholarship under such subsection is provided.
+&emsp;For purposes of subparagraph (B) of subsection (a)(1) of this section, the period ofservice for which an individual is obligated to serve as an employee of the National Institutes of Health is, subject to paragraph (2)(A), 12 months for each academic year for which the scholarship under such subsection is provided.
 
 #### (2) Schedule for service
 

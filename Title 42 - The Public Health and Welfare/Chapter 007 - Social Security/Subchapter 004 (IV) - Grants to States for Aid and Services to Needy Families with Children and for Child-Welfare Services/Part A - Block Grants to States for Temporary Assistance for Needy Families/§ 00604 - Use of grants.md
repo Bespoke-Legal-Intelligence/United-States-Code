@@ -4,7 +4,7 @@
 
 Subject to this part, a State to which a grant is made under section 603 of this title may use the grant—
 
-&emsp;(1) in any manner that is reasonably calculated to accomplish the purpose of this part, including to provide low income households with assistance in meeting home heating and cooling costs; or
+&emsp;(1) in any manner that is reasonably calculated to accomplish the purpose of this part,including to provide low income households with assistance in meeting home heating and cooling costs; or
 
 &emsp;(2) in any manner that the State was authorized to use amounts received under part A or F of this subchapter, as such parts were in effect on September 30, 1995, or (at the option of the State) August 21, 1996.
 
@@ -30,7 +30,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 &emsp;&emsp;(A) Division A of subchapter XX of this chapter.
 
-&emsp;&emsp;(B) The Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\].
+&emsp;&emsp;(B) The Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\].
 
 #### (2) Limitation on amount transferable to division A <sup>1</sup> of subchapter XX programs
 
@@ -78,11 +78,11 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (B) Qualified purpose
 
-&emsp;&emsp;A qualified purpose described in this subparagraph is 1 or more of the following, as provided by the qualified entity providing assistance to the individual under this subsection:
+&emsp;&emsp;A qualified purpose described in this subparagraph is 1 or more of the following, asprovided by the qualified entity providing assistance to the individual under this subsection:
 
 #### (i) Postsecondary educational expenses
 
-&emsp;&emsp;&emsp;Postsecondary educational expenses paid from an individual development accountdirectly to an eligible educational institution.
+&emsp;&emsp;&emsp;Postsecondary educational expenses paid from an individual development account directly to an eligible educational institution.
 
 #### (ii) First home purchase
 
@@ -180,11 +180,11 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (i) Sanction welfare recipients for failing to ensure that minor dependent children attend school
 
-A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) of title 7, if such adult fails to ensure that the minor dependent children of such adult attend school as required by the law of the State in which the minor children reside.
+A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) <sup>1</sup> of title 7, if such adult fails to ensure that the minor dependent children of such adult attend school as required by the law of the State in which the minor children reside.
 
 #### (j) Requirement for high school diploma or equivalent
 
-A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
+A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) <sup>1</sup> of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
 
 #### (k) Limitations on use of grant for matching under certain Federal transportation program
 
@@ -222,7 +222,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 Part F of this subchapter, referred to in subsec. (a)(2), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (d)(1)(B), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (d)(1)(B), is subchapter C\(§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
 Division A of subchapter XX, referred to in subsec. (d)(2), (3)(B), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
@@ -233,6 +233,8 @@ Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed a
 Section 1141(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
 
 Section 2471 of title 20, referred to in subsec. (h)(5)(A)(ii), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+
+Section 2012(l) of title 7, referred to in subsecs. (i) and (j), was struck out, and a new section 2012(t) of title 7 similarly defining "supplemental nutrition assistance program" was enacted, by Pub. L. 113–79, title IV, §4030(a)(3), (5), Feb. 7, 2014, 128 Stat. 813.
 
 Section 3037 of the Transportation Equity Act for the 21st Century, referred to in subsec. (k)(1), (3), is section 3037 of Pub. L. 105–178, title III, June 9, 1998, 112 Stat. 387, which was formerly set out as a note under section 5309 of Title 49, Transportation, and was repealed by Pub. L. 109–59, title III, §3018(c), Aug. 10, 2005, 119 Stat. 1605, effective Oct. 1, 2005.
 
@@ -298,7 +300,7 @@ Pub. L. 105–178, title VIII, §8401(c), June 9, 1998, 112 Stat. 499, provided 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5002(b), Aug. 5, 1997, 111 Stat. 594, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5002(b), Aug. 5, 1997, 111 Stat. 594, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by section 5503 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
@@ -306,7 +308,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Assets for Independence
 
@@ -392,7 +394,7 @@ In general.—The term 'individual development account' means a trust created or
 
 &emsp;&emsp;"(B)
 
-Custodial accounts.—For purposes of subparagraph (A), a custodial account shall be treated as a trust if the assets of the custodial account are held by a bank (as defined in section 408(n) of the Internal Revenue Code of 1986 \[26 U.S.C. 408(n)\]) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which such person will administer the custodial account will be consistent with the requirements of this title, and if the custodial account would, except for the fact that it is not a trust, constitute an individual development account described in subparagraph (A). For purposes of this title, in the case of a custodial account treated as a trust by reason of thepreceding sentence, the custodian of that custodial account shall be treated as the trustee of the account.
+Custodial accounts.—For purposes of subparagraph (A), a custodial account shall be treated as a trust if the assets of the custodial account are held by a bank (as defined in section 408(n) of the Internal Revenue Code of 1986 \[26 U.S.C. 408(n)\]) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which such person will administer the custodial account will be consistent with the requirements of this title, and if the custodial account would, except for the fact that it is not a trust, constitute an individual development account described in subparagraph (A). For purposes of this title, in the case of a custodial account treated as a trust by reason of the preceding sentence, the custodian of that custodial account shall be treated as the trustee of the account.
 
 &emsp;"(6)
 
@@ -742,7 +744,7 @@ Reimbursement.—An individual shall reimburse an individual development account
 
 #### "SEC. 411. LOCAL CONTROL OVER DEMONSTRATION PROJECTS.
 
-"A qualified entity under this title, other than a State or local government agency or a tribal government, shall, subject to the provisions of section 413, have sole authority over the administration of the project. The Secretary may prescribe only such regulations or guidelines with respect to demonstration projects conducted under this title as are necessary toensure compliance with the approved applications and the requirements of this title.
+"A qualified entity under this title, other than a State or local government agency or a tribal government, shall, subject to the provisions of section 413, have sole authority over the administration of the project. The Secretary may prescribe only such regulations or guidelines with respect to demonstration projects conducted under this title as are necessary to ensure compliance with the approved applications and the requirements of this title.
 
 #### "SEC. 412. ANNUAL PROGRESS REPORTS.
 
@@ -852,7 +854,7 @@ Reports by the Secretary.—
 
 &emsp;"(1)
 
-Interim reports.—Not later than 90 days after the end of the project year in which the Secretary first authorizes a qualified entity to conduct a demonstration project under this title, and every 12 months thereafter until all demonstration projects conducted under this title are completed, the Secretary shall submit to Congress an interim reportsetting forth the results of the reports submitted pursuant to section 412(b).
+Interim reports.—Not later than 90 days after the end of the project year in which the Secretary first authorizes a qualified entity to conduct a demonstration project under this title, and every 12 months thereafter until all demonstration projects conducted under this title are completed, the Secretary shall submit to Congress an interim report setting forth the results of the reports submitted pursuant to section 412(b).
 
 &emsp;"(2)
 

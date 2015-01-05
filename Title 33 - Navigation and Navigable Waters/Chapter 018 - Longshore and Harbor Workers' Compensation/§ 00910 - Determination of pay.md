@@ -10,7 +10,7 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 (d)(1) The average weekly wages of an employee shall be one fifty-second part of his average annual earnings.
 
-(2) Notwithstanding paragraph (1), with respect to any claim based on a death or disability due to an occupational disease for which the time of injury (as determined under subsection (i) of this section) occurs—
+(2) Notwithstanding paragraph (1), with respect to any claim based on a death or disabilitydue to an occupational disease for which the time of injury (as determined under subsection (i) of this section) occurs—
 
 &emsp;(A) within the first year after the employee has retired, the average weekly wages shall be one fifty-second part of his average annual earnings during the 52-week period preceding retirement; or
 
@@ -32,7 +32,7 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 (3) For the purposes of subsections (f) and (g) of this section an injury which resulted in permanent total disability or death which occurred prior to October 27, 1972, shall be considered to have occurred on the day following such date.
 
-(i) For purposes of this section with respect to a claim for compensation for death or disability due to an occupational disease which does not immediately result in death or disability, the time of injury shall be deemed to be the date on which the employee or claimant becomes aware,or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability.
+(i) For purposes of this section with respect to a claim for compensation for death or disability due to an occupational disease which does not immediately result in death or disability, the time of injury shall be deemed to be the date on which the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability.
 
 (Mar. 4, 1927, ch. 509, §10, 44 Stat. 1431; June 24, 1948, ch. 623, §4, 62 Stat. 603; Pub. L. 92–576, §11, Oct. 27, 1972, 86 Stat. 1258; Pub. L. 98–426, §10, Sept. 28, 1984, 98 Stat. 1647.)
 

@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary, in coordination with the appropriate State agency of the State in which an establishment is located, may select the establishment to ship carcasses, portions of carcasses, and meat items in interstate commerce, and place on each carcass, portion of a carcass, and meat item shipped in interstate commerce a Federal mark, stamp, tag, or label of inspection, if—
+&emsp;Subject to paragraph (2), the Secretary, in coordination with the appropriate State agency of the State in which an establishment is located, may select the establishment to ship carcasses, portions of carcasses, and meatitems in interstate commerce, and place on each carcass, portion of a carcass, and meat item shipped in interstate commerce a Federal mark, stamp, tag, or label of inspection, if—
 
 &emsp;&emsp;(A) the carcass, portion of carcass, or meat item qualifies for the mark, stamp, tag, or label of inspection under the requirements of this chapter;
 
@@ -140,7 +140,7 @@ The Secretary shall reimburse a State for costs related to the inspection of sel
 
 #### (1) Establishment
 
-&emsp;Not later than 180 days after the effective date described in subsection (j), the Secretaryshall establish in the Food Safety and Inspection Service of the Department of Agriculture a technical assistance division to coordinate the initiatives of any other appropriate agency of the Department of Agriculture to provide—
+&emsp;Not later than 180 days after the effective date described in subsection (j), the Secretary shall establish in the Food Safety and Inspection Service of the Department of Agriculture a technical assistance division to coordinate the initiatives of any other appropriate agency of the Department of Agriculture to provide—
 
 &emsp;&emsp;(A) outreach, education, and training to very small or certain small establishments (as defined by the Secretary); and
 

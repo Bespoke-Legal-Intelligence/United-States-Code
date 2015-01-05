@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a regional innovation program to encourage and support the development of regional innovation strategies, including regional innovation clusters and science and research parks.
+The Secretary shall establish a regional innovation program to encourage and support the development of regional innovation strategies, including regional innovation clusters.
 
 #### (b) Cluster grants
 
@@ -82,151 +82,15 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 &emsp;The Secretary may not provide more than 50 percent of the total cost of any activity funded under this subsection.
 
-#### (7) Use and application of research and information program
+#### (7) Outreach to rural communities
 
-&emsp;To the maximum extent practicable, the Secretary shall ensure that activities funded under this subsection use and apply any relevant research, best practices, and metrics developed under the program established in subsection (c).
+&emsp;The Secretary shall conduct outreach to public and private sector entities in rural communities to encourage those entities to participate in regional innovation cluster activities under this subsection.
 
-#### (c) Science and research park development grants
+#### (8) Funding
 
-#### (1) In general
+&emsp;The Secretary may accept funds from other Federal agencies to support grants and activities under this subsection.
 
-&emsp;As part of the program established under subsection (a), the Secretary may award grants for the development of feasibility studies and plans for the construction of new science parks or the renovation or expansion of existing science parks.
-
-#### (2) Limitation on amount of grants
-
-&emsp;The amount of a grant awarded under this subsection may not exceed $750,000.
-
-#### (3) Award
-
-#### (A) Competition required
-
-&emsp;&emsp;The Secretary shall award grants under this subsection pursuant to a full and open competition.
-
-#### (B) Geographic dispersion
-
-&emsp;&emsp;In conducting a competitive process, the Secretary shall consider the need to avoid undue geographic concentration among any one category of States based on their predominant rural or urban character as indicated by population density.
-
-#### (C) Selection criteria
-
-&emsp;&emsp;The Secretary shall publish the criteria to be utilized in any competition for the selection of recipients of grants under this subsection, which shall include requirements relating to the—
-
-&emsp;&emsp;&emsp;(i) effect the science park will have on regional economic growth and development;
-
-&emsp;&emsp;&emsp;(ii) number of jobs to be created at the science park and the surrounding regional community each year during its first 3 years;
-
-&emsp;&emsp;&emsp;(iii) funding to be required to construct, renovate or expand the science park during its first 3 years;
-
-&emsp;&emsp;&emsp;(iv) amount and type of financing and access to capital available to the applicant;
-
-&emsp;&emsp;&emsp;(v) types of businesses and research entities expected in the science park and surrounding regional community;
-
-&emsp;&emsp;&emsp;(vi) letters of intent by businesses and research entities to locate in the science park;
-
-&emsp;&emsp;&emsp;(vii) capability to attract a well trained workforce to the science park;
-
-&emsp;&emsp;&emsp;(viii) the management of the science park during its first 5 years;
-
-&emsp;&emsp;&emsp;(ix) expected financial risks in the construction and operation of the science park and the risk mitigation strategy;
-
-&emsp;&emsp;&emsp;(x) physical infrastructure available to the science park, including roads, utilities, and telecommunications;
-
-&emsp;&emsp;&emsp;(xi) utilization of energy-efficient building technology including nationally recognized green building design practices, renewable energy, cogeneration, and other methods that increase energy efficiency and conservation;
-
-&emsp;&emsp;&emsp;(xii) consideration to the transformation of military bases affected by the base realignment and closure process or the redevelopment of existing buildings, structures, or brownfield sites that are abandoned, idled, or underused into single or multiple building facilities for science and technology companies and institutions;
-
-&emsp;&emsp;&emsp;(xiii) ability to collaborate with other science parks throughout the world;
-
-&emsp;&emsp;&emsp;(xiv) consideration of sustainable development practices and the quality of life at the science park; and
-
-&emsp;&emsp;&emsp;(xv) other such criteria as the Secretary shall prescribe.
-
-#### (4) Allocation constraints
-
-&emsp;The Secretary may not allocate less than one-third of the total grant funding allocated under this section for any fiscal year to grants under subsection (b) or this subsection without written notification to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committees on Science and Technology and on Energy and Commerce.
-
-#### (d) Loan guarantees for science park infrastructure
-
-#### (1) In general
-
-&emsp;Subject to paragraph (2), the Secretary may guarantee up to 80 percent of the loan amount for projects for the construction or expansion, including renovation and modernization, of science park infrastructure.
-
-#### (2) Limitations on guarantee amounts
-
-&emsp;The maximum amount of loan principal guaranteed under this subsection may not exceed—
-
-&emsp;&emsp;(A) $50,000,000 with respect to any single project; and
-
-&emsp;&emsp;(B) $300,000,000 with respect to all projects.
-
-#### (3) Selection of guarantee recipients
-
-&emsp;The Secretary shall select recipients of loan guarantees under this subsection based upon the ability of the recipient to collateralize the loan amount through bonds, equity, property, and such other things of values as the Secretary shall deem necessary. Recipients of grants under subsection (c) are not eligible for a loan guarantee during the period of the grant. To the extent that the Secretary determines it to be feasible, the Secretary may select recipients of guarantee assistance in accord with a competitive process that takes into account the factors set out in subsection (c)(3)(C) of this section.
-
-#### (4) Terms and conditions for loan guarantees
-
-&emsp;The loans guaranteed under this subsection shall be subject to such terms and conditions as the Secretary may prescribe, except that—
-
-&emsp;&emsp;(A) the final maturity of such loans made or guaranteed may not exceed the lesser of—
-
-&emsp;&emsp;&emsp;(i) 30 years; or
-
-&emsp;&emsp;&emsp;(ii) 90 percent of the useful life of any physical asset to be financed by the loan;
-
-&emsp;&emsp;(B) a loan guaranteed under this subsection may not be subordinated to another debt contracted by the borrower or to any other claims against the borrowers in the case of default;
-
-&emsp;&emsp;(C) a loan may not be guaranteed under this subsection unless the Secretary determines that the lender is responsible and that provision is made for servicing the loan on reasonable terms and in a manner that adequately protects the financial interest of the United States;
-
-&emsp;&emsp;(D) a loan may not be guaranteed under this subsection if—
-
-&emsp;&emsp;&emsp;(i) the income from the loan is excluded from gross income for purposes of chapter 1 of title 26; or
-
-&emsp;&emsp;&emsp;(ii) the guarantee provides significant collateral or security, as determined by the Secretary in coordination with the Secretary of the Treasury, for other obligations the income from which is so excluded;
-
-&emsp;&emsp;(E) any guarantee provided under this subsection shall be conclusive evidence that—
-
-&emsp;&emsp;&emsp;(i) the guarantee has been properly obtained;
-
-&emsp;&emsp;&emsp;(ii) the underlying loan qualified for the guarantee; and
-
-&emsp;&emsp;&emsp;(iii) absent fraud or material misrepresentation by the holder, the guarantee is presumed to be valid, legal, and enforceable;
-
-&emsp;&emsp;(F) the Secretary may not extend credit assistance unless the Secretary has determined that there is a reasonable assurance of repayment; and
-
-&emsp;&emsp;(G) new loan guarantees may not be committed except to the extent that appropriations of budget authority to cover their costs are made in advance, as required under section 661c of title 2.
-
-#### (5) Payment of losses
-
-#### (A) In general
-
-&emsp;&emsp;If, as a result of a default by a borrower under a loan guaranteed under this subsection, after the holder has made such further collection efforts and instituted such enforcement proceedings as the Secretary may require, the Secretary determines that the holder has suffered a loss, the Secretary shall pay to the holder the percentage of the loss specified in the guarantee contract. Upon making any such payment, the Secretary shall be subrogated to all the rights of the recipient of the payment. The Secretary shall be entitled to recover from the borrower the amount of any payments made pursuant to any guarantee entered into under this section.
-
-#### (B) Enforcement of rights
-
-&emsp;&emsp;The Attorney General shall take such action as may be appropriate to enforce any right accruing to the United States as a result of the issuance of any guarantee under this section.
-
-#### (C) Forbearance
-
-&emsp;&emsp;Nothing in this section may be construed to preclude any forbearance for the benefit of the borrower which may be agreed upon by the parties to the guaranteed loan and approved by the Secretary, if budget authority for any resulting subsidy costs (as defined in section 661a(5) of title 2) is available.
-
-#### (6) Evaluation of credit risk
-
-&emsp;(A) The Secretary shall periodically assess the credit risk of new and existing direct loans or guaranteed loans.
-
-&emsp;(B) Not later than 2 years after January 4, 2011, the Comptroller General of the United States shall—
-
-&emsp;&emsp;(i) conduct a review of the subsidy estimates for the loan guarantees under this section; and
-
-&emsp;&emsp;(ii) submit to Congress a report on the review conducted under this paragraph.
-
-#### (7) Termination
-
-&emsp;A loan may not be guaranteed under this section after September 30, 2013.
-
-#### (8) Authorization of appropriations
-
-&emsp;There are authorized to be appropriated $7,000,000 for each of fiscal years 2011 through 2013 for the cost (as defined in section 661a(5) of title 2) of guaranteeing $300,000,000 in loans under this section, such sums to remain available until expended.
-
-#### (e) Regional innovation research and information program
+#### (c) Regional innovation research and information program
 
 #### (1) In general
 
@@ -256,9 +120,9 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (4) Regional innovation grant program
 
-&emsp;The Secretary shall incorporate data and analysis relating to any grant under subsection (b) or (c) and any loan guarantee under subsection (d) into the program established under this subsection.
+&emsp;The Secretary shall incorporate data and analysis relating to any grant under subsection (b) into the program established under this subsection.
 
-#### (f) Interagency coordination
+#### (d) Interagency coordination
 
 #### (1) In general
 
@@ -274,11 +138,11 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 &emsp;&emsp;The Secretary shall ensure that such collaboration with Federal agencies prioritizes the needs and challenges of small businesses.
 
-#### (g) Evaluation
+#### (e) Evaluation
 
 #### (1) In general
 
-&emsp;Not later than 3 years after January 4, 2011, the Secretary shall enter into a contract with an independent entity, such as the National Academy of Sciences, to conduct an evaluation of the program established under subsection (a).
+&emsp;Not later than 3 years after December 16, 2014, the Secretary shall enter into a contract with an independent entity, such as the National Academy of Sciences, to conduct an evaluation of the program established under subsection (a).
 
 #### (2) Requirements
 
@@ -290,7 +154,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 &emsp;&emsp;(C) a recommendation as to whether the program should be continued or terminated.
 
-#### (h) Definitions
+#### (f) Definitions
 
 In this section:
 
@@ -298,7 +162,7 @@ In this section:
 
 &emsp;The term "regional innovation cluster" means a geographically bounded network of similar, synergistic, or complementary entities that—
 
-&emsp;&emsp;(A) are engaged in or with a particular industry sector;
+&emsp;&emsp;(A) are engaged in or with a particular industry sector and its related sectors;
 
 &emsp;&emsp;(B) have active channels for business transactions and communication;
 
@@ -306,33 +170,27 @@ In this section:
 
 &emsp;&emsp;(D) leverage the region's unique competitive strengths to stimulate innovation and create jobs.
 
-#### (2) Science park
-
-&emsp;The term "Science <sup>1</sup> park" means a property-based venture, which has—
-
-&emsp;&emsp;(A) master-planned property and buildings designed primarily for private-public research and development activities, high technology and science-based companies, and research and development support services;
-
-&emsp;&emsp;(B) a contractual or operational relationship with one or more science- or research-related institution of higher education or governmental or non-profit research laboratories;
-
-&emsp;&emsp;(C) a primary mission to promote research and development through industry partnerships, assisting in the growth of new ventures and promoting innovation-driven economic development;
-
-&emsp;&emsp;(D) a role in facilitating the transfer of technology and business skills between researchers and industry teams; and
-
-&emsp;&emsp;(E) a role in promoting technology-led economic development for the community or region in which the science park is located. A science park may be owned by a governmental or not-for-profit entity, but it may enter into partnerships or joint ventures with for-profit entities for development or management of specific components of the park.
-
-#### (3) State
+#### (2) State
 
 &emsp;The term "State" means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
-#### (i) Authorization of appropriations
+#### (g) Funding
 
-Except as provided in subsection (d)(8), there are authorized to be appropriated $100,000,000 for each of fiscal years 2011 through 2013 to carry out this section (other than for loan guarantees under subsection (d)).
+#### (1) General rule
 
-(Pub. L. 96–480, §27, as added Pub. L. 111–358, title VI, §603, Jan. 4, 2011, 124 Stat. 4030.)
+&emsp;Except as provided in paragraph (2), no funds are authorized to be appropriated by the Revitalize American Manufacturing and Innovation Act of 2014 for carrying out this section.
 
-#### Change of Name
+#### (2) Authority
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+&emsp;To the extent provided for in advance by appropriations Acts, the Secretary may use not to exceed $10,000,000 for each of the fiscal years 2015 through 2019 to carry out this section from amounts appropriated for economic development assistance programs.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+(Pub. L. 96–480, §27, as added Pub. L. 111–358, title VI, §603, Jan. 4, 2011, 124 Stat. 4030; amended Pub. L. 113–235, div. B, title VII, §705, Dec. 16, 2014, 128 Stat. 2230.)
+
+#### References in Text
+
+The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec. (g)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under section 271 of this title and Tables.
+
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–235 amended section generally. Prior to amendment, text related to regional innovation program and consisted of subsecs. (a) to (i), including provisions relating to establishment of program, cluster grants, science and research park development grants, loan guarantees for science park infrastructure, regional innovation research and information program, interagency coordination, evaluation of program, definitions, and authorization of appropriations.
 

@@ -164,7 +164,7 @@
 
 #### (3) Exception for certain land acquired for environmental purposes, etc.
 
-&emsp;Any land acquired by a governmental unit (or issuing authority) in connection with an airport, mass commuting facility, high-speed intercity rail facility, dock, or wharf shall not be taken into account under paragraph (1) if—
+&emsp;Any land acquired by a governmental unit (or issuing authority) in connection with anairport, mass commuting facility, high-speed intercity rail facility, dock, or wharf shall not be taken into account under paragraph (1) if—
 
 &emsp;&emsp;(A) such land is acquired for noise abatement or wetland preservation, or for future use as an airport, mass commuting facility, high-speed intercity rail facility, dock, or wharf, and
 
@@ -320,7 +320,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;Subsection (c) shall not apply to any exempt facility bond issued as part of an issue described in section 142(a)(13) (relating to qualified public educational facilities).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279; Pub. L. 112–95, title XI, §1105(a), Feb. 14, 2012, 126 Stat. 152.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3),Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279; Pub. L. 112–95, title XI, §1105(a), Feb. 14, 2012, 126 Stat. 152.)
 
 #### Inflation Adjusted Items for Certain Years
 

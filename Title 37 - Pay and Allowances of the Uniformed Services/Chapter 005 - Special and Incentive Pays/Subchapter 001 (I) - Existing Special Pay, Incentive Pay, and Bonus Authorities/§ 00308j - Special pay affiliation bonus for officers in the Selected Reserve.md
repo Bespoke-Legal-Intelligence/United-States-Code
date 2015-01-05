@@ -72,7 +72,7 @@ Repayment.—A person who enters into an agreement under this section and receiv
 
 <b>2006</b>—Pub. L. 109–163, §634(c)(1), substituted "Special pay: affiliation bonus for officers in the Selected Reserve" for "Special pay: bonus for certain initial service of officers in the Selected Reserve".
 
-Subsec. (a)(2)(B), (C). Pub. L. 109–163, §634(a), redesignated subpar. (C) as (B) and struck out former subpar.\(B) which read as follows: "has not previously served in the Selected Reserve of the Ready Reserve; and".
+Subsec. (a)(2)(B), (C). Pub. L. 109–163, §634(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "has not previously served in the Selected Reserve of the Ready Reserve; and".
 
 Subsec. (d). Pub. L. 109–163, §634(b), substituted "$10,000" for "$6,000".
 

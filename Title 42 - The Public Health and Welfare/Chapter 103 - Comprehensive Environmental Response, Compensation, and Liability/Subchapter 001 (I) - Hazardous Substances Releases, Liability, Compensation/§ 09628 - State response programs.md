@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) Mechanisms and resources to provide meaningful opportunities for public participation, including—
 
-&emsp;&emsp;&emsp;(i) public access to documents that the State, Indian tribe, or party conducting the cleanup is relying on or developing inmaking cleanup decisions or conducting site activities;
+&emsp;&emsp;&emsp;(i) public access to documents that the State, Indian tribe, or party conducting the cleanup is relying on or developing in making cleanup decisions or conducting site activities;
 
 &emsp;&emsp;&emsp;(ii) prior notice and opportunity for comment on proposed cleanup plans and site activities; and
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) wait 48 hours for a reply from the State under clause (ii); or
 
-&emsp;&emsp;&emsp;&emsp;(bb) if the State fails to reply to the notification or if the Administratormakes a determination under clause (iii), take immediate action under that clause.
+&emsp;&emsp;&emsp;&emsp;(bb) if the State fails to reply to the notification or if the Administrator makes a determination under clause (iii), take immediate action under that clause.
 
 #### (ii) State reply
 

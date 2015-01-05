@@ -2,7 +2,7 @@
 
 #### (a) Accreditation by American Osteopathic Association or other national accreditation body
 
-(1) If the Secretary finds that accreditation of a provider entity (as defined in paragraph (4)) by the American Osteopathic Association or any other national accreditation body demonstrates that all of the applicable conditions or requirements of this subchapter (other than the requirements of section 1395m(j) of this title or the conditions and requirements under section 1395rr(b) of this title) are met or exceeded—
+(1) If the Secretary finds that accreditation of a provider entity (as defined in paragraph (4)) by the American Osteopathic Association or any other national accreditation body demonstrates that all of the applicable conditions or requirements of this subchapter (other than the requirements of section 1395m(j) of this title orthe conditions and requirements under section 1395rr(b) of this title) are met or exceeded—
 
 &emsp;(A) in the case of a provider entity not described in paragraph (3)(B), the Secretary shall treat such entity as meeting those conditions or requirements with respect to which the Secretary made such finding; or
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 110–275, §125(a), redesignated subsec. (e) as (d).
 
 <b>2003</b>—Subsec. (b)(3)(B). Pub. L. 108–173 substituted "sections" for "section".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101(d) \[title V, §516(b)(2), (3)\], struck out after second sentence: "In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions with respect to which he made such finding." and redesignated fourth sentence as subsec. (c).
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101(d) \[title V, §516(b)(2), (3)\], struck out after second sentence: "In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions withrespect to which he made such finding." and redesignated fourth sentence as subsec. (c).
 
 Subsec. (b). Pub. L. 104–134, §101(d) \[title V, §516(b)(3)\], added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 204(c)(3), (d)(3) of Pub. L. 100–360 applicable to screening mammography performed on or after Jan. 1, 1990, see section 204(e) of Pub.L. 100–360, set out as a note under section 1395m of this title.
+Amendment by section 204(c)(3), (d)(3) of Pub. L. 100–360 applicable to screening mammography performed on or after Jan. 1, 1990, see section 204(e) of Pub. L. 100–360, set out as a note under section 1395m of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(d)(4)(B)(ii) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 

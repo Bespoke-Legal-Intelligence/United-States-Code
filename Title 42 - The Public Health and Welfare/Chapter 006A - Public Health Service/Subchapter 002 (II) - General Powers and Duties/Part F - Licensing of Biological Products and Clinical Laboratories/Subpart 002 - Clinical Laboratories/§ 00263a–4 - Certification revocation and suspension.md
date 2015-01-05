@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A certification issued by a State or an accreditation organization for an embryo laboratoryshall be revoked or suspended if the State or organization finds, on the basis of inspections and after reasonable notice and opportunity for hearing to the owner or operator of the laboratory, that the owner or operator or any employee of the laboratory—
+A certification issued by a State or an accreditation organization for an embryo laboratory shall be revoked or suspended if the State or organization finds, on the basis of inspections and after reasonable notice and opportunity for hearing to the owner or operator of the laboratory, that the owner or operator or any employee of the laboratory—
 
 &emsp;(1) has been guilty of misrepresentation in obtaining the certification,
 

@@ -44,6 +44,10 @@ Each eligible agency that is using assistance provided under this section to car
 
 (Pub. L. 105–220, title II, §225, Aug. 7, 1998, 112 Stat. 1069; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(d)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1204 of this title prior to repeal by Pub. L. 105–220.
@@ -53,4 +57,8 @@ Provisions similar to this section were contained in section 1204 of this title 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(1)\], substituted "and education" for "or education".
 
 Subsec. (c). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(2)\], substituted "within" for "with" before "5 years".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

@@ -8,7 +8,7 @@
 
 (d) Funds available for forest development roads and trails shall be available for adjacent vehicular parking areas, which may include electric vehicle charging stations or natural gas vehicle refueling stations, and for sanitary, water, and fire control facilities.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 86–657, §8(c), July 14, 1960, 74 Stat. 524; Pub. L.88–423, §4(d), Aug. 13, 1964, 78 Stat. 398; Pub. L. 90–495, §9, Aug. 23, 1968, 82 Stat. 820; Pub. L. 102–240, title I, §1032(c), Dec. 18, 1991, 105 Stat. 1975; Pub. L. 112–141, div. A, title I, §1513(c), July 6, 2012, 126 Stat. 572.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 86–657, §8(c), July 14, 1960, 74 Stat. 524; Pub. L. 88–423, §4(d), Aug. 13, 1964, 78 Stat. 398; Pub. L. 90–495, §9, Aug. 23, 1968, 82 Stat. 820; Pub. L. 102–240, title I, §1032(c), Dec. 18, 1991, 105 Stat. 1975; Pub. L. 112–141, div. A, title I, §1513(c), July 6, 2012, 126 Stat. 572.)
 
 #### Amendments
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated ormade available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Effective Date of 1968 Amendment
 

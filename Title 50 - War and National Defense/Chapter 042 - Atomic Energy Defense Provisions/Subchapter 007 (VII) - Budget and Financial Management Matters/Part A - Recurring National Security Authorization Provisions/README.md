@@ -19,3 +19,4 @@ Part A—Recurring National Security Authorization Provisions
 - [&sect; 02751 - Transfer of weapons activities funds](%C2%A7%2002751%20-%20Transfer%20of%20weapons%20activities%20funds.md)
 - [&sect; 02752 - Funds available for all national security programs of the Department of Energy](%C2%A7%2002752%20-%20Funds%20available%20for%20all%20national%20security%20programs%20of%20the%20Department%20of%20Energy.md)
 - [&sect; 02753 - Notification of cost overruns for certain Department of Energy projects](%C2%A7%2002753%20-%20Notification%20of%20cost%20overruns%20for%20certain%20Department%20of%20Energy%20projects.md)
+- [&sect; 02754 - Life-cycle cost estimates of certain atomic energy defense capital assets](%C2%A7%2002754%20-%20Life-cycle%20cost%20estimates%20of%20certain%20atomic%20energy%20defense%20capital%20assets.md)

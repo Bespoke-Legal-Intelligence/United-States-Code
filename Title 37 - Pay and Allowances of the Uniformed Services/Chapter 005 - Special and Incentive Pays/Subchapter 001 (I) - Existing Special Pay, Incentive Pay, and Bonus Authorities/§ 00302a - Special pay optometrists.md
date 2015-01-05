@@ -40,7 +40,7 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows:"The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount."
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount."
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–314 substituted "$15,000" for "$6,000".
 
@@ -88,7 +88,7 @@ In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amo
 
 #### Implementation of Subsection (b)
 
-Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, provided that the Secretary of Defense could not implement subsec. (b) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report justifying the need of the military departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
+Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, provided that the Secretary of Defense could not implement subsec. (b) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives areport justifying the need of the military departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
 
 #### Pay Continuation
 

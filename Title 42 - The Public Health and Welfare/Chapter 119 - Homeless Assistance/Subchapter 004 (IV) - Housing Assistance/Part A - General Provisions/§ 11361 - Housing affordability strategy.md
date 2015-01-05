@@ -50,7 +50,7 @@ Subsec. (g). Pub. L. 100–628, §404, added subsec. (g).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 ofPub. L. 111–22, set out as a note under section 11302 of this title.
+Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as a note under section 11302 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -8,7 +8,7 @@ In all suits or actions (other than those arising under section 1592 of this tit
 
 &emsp;(3) The fact that a vessel of any description is found, or discovered to have been, in the vicinity of any hovering vessel and under any circumstances indicating contact or communication therewith, whether by proceeding to or from such vessel, or by coming to in the vicinity of such vessel, or by delivering to or receiving from such vessel any merchandise, person, or communication, or by any other means effecting contact or communication therewith, shall be prima facie evidence that the vessel in question has visited such hovering vessel.
 
-(June 17, 1930, ch. 497, title IV, §615, 46 Stat. 757; Aug. 5, 1935, ch. 438, title II, §207, 49 Stat. 525; Pub. L. 95–410, title I, §110(d), Oct. 3, 1978, 92 Stat. 896; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(13), Oct. 30, 1984, 98 Stat. 2987.)
+(June 17, 1930, ch. 497, title IV, §615, 46 Stat. 757; Aug. 5, 1935, ch. 438, title II, §207, 49 Stat. 525; Pub. L. 95–410, title I, §110(d), Oct. 3, 1978, 92Stat. 896; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(13), Oct. 30, 1984, 98 Stat. 2987.)
 
 #### Prior Provisions
 

@@ -284,7 +284,7 @@ Report to Congress.—Not later than April 1, 2010, the Secretary shall submit t
 
 #### Temporary Authority for Performance of Medical Disabilities Examinations by Contract Physicians
 
-Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, §809, Oct. 13, 2010, 124 Stat. 2894; Pub. L. 112–191, title II, §207, Oct. 5, 2012, 126 Stat. 1440; Pub. L. 113–59, §14, Dec. 20, 2013, 127 Stat. 663, provided that:
+Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, §809, Oct. 13, 2010, 124 Stat. 2894; Pub. L. 112–191, title II, §207, Oct. 5, 2012, 126 Stat. 1440; Pub. L. 113–59, §14, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title I, §106, Sept. 26, 2014, 128 Stat. 1903, provided that:
 
 "(a)
 
@@ -296,15 +296,15 @@ Performance by Contract.—Examinations under the authority provided in subsecti
 
 "(c)
 
-Expiration.—The authority in subsection (a) shall expire on December 31, 2014. No examination may be carried out under the authority provided in that subsection after that date.
+Expiration.—The authority in subsection (a) shall expire on December 31, 2015. No examination may be carried out under the authority provided in that subsection after that date.
 
 "(d)
 
-Report.—Not later than four years after the date of the enactment of this Act \[Dec. 16, 2003\], the Secretary shall submit to Congress a report on the useof the authority provided in subsection (a). The Secretary shall include in the report an assessment of the effect of examinations under that authority on the cost, timeliness, and thoroughness of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary."
+Report.—Not later than four years after the date of the enactment of this Act \[Dec. 16, 2003\], theSecretary shall submit to Congress a report on the use of the authority provided in subsection (a). The Secretary shall include in the report an assessment of the effect of examinations under that authority on the cost, timeliness, and thoroughness of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary."
 
 #### Pilot Program for Use of Contract Physicians for Disability Examinations
 
-Pub. L. 104–275, title V, §504, Oct. 9, 1996, 110 Stat. 3341, provided that:
+Pub. L. 104–275, title V, §504, Oct. 9, 1996, 110 Stat. 3341, as amended by Pub. L. 113–235, div. I, title II, §241, Dec. 16, 2014, 128 Stat. 2568, provided that:
 
 "(a)
 
@@ -312,7 +312,15 @@ Authority.—The Secretary of Veterans Affairs, acting through the Under Secreta
 
 "(b)
 
-Limitation.—The Secretary may carry out the pilot program under this section through not more than 10 regional offices of the Department of Veterans Affairs.
+Limitation.—The Secretary may carry out the pilot program under this section as follows:
+
+&emsp;"(1) In fiscal years before fiscal year 2015, through not more than 10 regional offices of the Department of Veterans Affairs.
+
+&emsp;"(2) In fiscal year 2015, through not more than 12 regional offices of the Department.
+
+&emsp;"(3) In fiscal year 2016, through not more than 15 regional offices of the Department.
+
+&emsp;"(4) In fiscal year 2017 and each fiscal year thereafter, through such regional offices of the Department as the Secretary considers appropriate."
 
 "(c)
 

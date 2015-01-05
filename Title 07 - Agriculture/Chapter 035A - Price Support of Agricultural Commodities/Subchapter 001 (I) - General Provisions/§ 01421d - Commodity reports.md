@@ -8,7 +8,7 @@ The Secretary of Agriculture (hereafter in this section referred to as the "Secr
 
 #### (1) In general
 
-&emsp;In addition to the reports compiled pursuant to subsection (a) of this section, the Secretary shall annually survey producers for information for reports regarding supply, acreage, production, disposition, and prices for the following commodities as determined by the Secretary:
+&emsp;In addition to the reports compiled pursuant to subsection (a), the Secretary shall annually survey producers for information for reports regarding supply, acreage, production, disposition, and prices for the following commodities as determined by the Secretary:
 
 &emsp;&emsp;(A) 25 fresh market vegetables;
 

@@ -40,7 +40,7 @@ A prior section 2709 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §1563(c)(10)(A), formerly §1562(c)(10)(A), as renumbered by Pub. L. 111–148,§10107(b)(1), in introductory provisions substituted "small employer or an individual" for "small employer", in par. (1) inserted ", or individual, as applicable," after "employer", and in par. (2) substituted "employer, or individual, as applicable," for "small employer".
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §1563(c)(10)(A), formerly §1562(c)(10)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), in introductory provisions substituted "small employer or an individual" for "small employer", in par. (1) inserted ", or individual, as applicable," after "employer", and in par. (2) substituted "employer, or individual, as applicable," for "small employer".
 
 Subsec. (b)(1). Pub. L. 111–148, §1563(c)(10)(B)(i), formerly §1562(c)(10)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), in introductory provisions substituted "employer, or individual, as applicable," for "small employer", in subpar. (A), inserted "and" at end, struck out subpars. (B) and (C) which related to provisions of coverage relating to renewability of coverage and preexisting condition exclusions, respectively, in subpar. (D), inserted ", or individual, as applicable," after "employer", and redesignated subpar. (D) as (B).
 

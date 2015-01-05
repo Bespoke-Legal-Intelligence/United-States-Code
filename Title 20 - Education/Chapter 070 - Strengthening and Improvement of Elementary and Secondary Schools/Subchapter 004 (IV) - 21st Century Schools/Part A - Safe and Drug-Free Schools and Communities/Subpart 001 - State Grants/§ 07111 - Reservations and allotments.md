@@ -66,7 +66,7 @@ Section 4111 as such section was in effect the day preceding January 8, 2002, re
 
 #### Prior Provisions
 
-A prior section 7111, Pub. L. 89–10, title IV, §4011 \[4111\], as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3674, related to reservations and allotments, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7111, Pub. L. 89–10, title IV, §4011 \[4111\], as added Pub. L. 103–382, title I, §101, Oct. 20,1994, 108 Stat. 3674, related to reservations and allotments, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

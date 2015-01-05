@@ -10,7 +10,7 @@
 
 > &emsp;by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as the Chief Administrative Officer considers appropriate, to the percentage of the adjustment under such section 5303;
 
-&emsp;(2) shall determine, with respect to the employees and classes of employees within the purview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined by the Chief Administrative Officer, made by the pay adjustment by the President; and
+&emsp;(2) shall determine, with respect to the employees and classes of employees within thepurview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined by the Chief Administrative Officer, made by the pay adjustment by the President; and
 
 &emsp;(3) shall transmit to the appropriate pay-fixing authority concerned in the House of Representatives a copy of his determinations with respect to the pay of those employees whose pay is fixed and adjusted by that authority.
 
@@ -28,41 +28,41 @@
 
 Section was formerly classified to section 60a–2 of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (b), “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31” substituted for “section 665 of title 31, United States Code” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), "sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31" substituted for "section 665 of title 31, United States Code" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(1)(A), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(1)(A), substituted "Chief Administrative Officer of the House of Representatives" for "Clerk of the House of Representatives" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 104–186, §204(1)(D), substituted “Chief Administrative Officer” for “Clerk” in concluding provisions.
+Subsec. (a)(1). Pub. L. 104–186, §204(1)(D), substituted "Chief Administrative Officer" for "Clerk" in concluding provisions.
 
-Subsec. (a)(1)(A). Pub. L. 104–186, §204(1)(B), substituted “Chief Administrative Officer” for “Clerk of the House”.
+Subsec. (a)(1)(A). Pub. L. 104–186, §204(1)(B), substituted "Chief Administrative Officer" for "Clerk of the House".
 
-Subsec. (a)(1)(B). Pub. L. 104–186, §204(1)(C), struck out “, including but not limited to—
+Subsec. (a)(1)(B). Pub. L. 104–186, §204(1)(C), struck out ", including but not limited to—
 
-&emsp;“(i) the clerk hire allowance for each Member of the House of Representatives and the Resident Commissioner from Puerto Rico; and
+&emsp;"(i) the clerk hire allowance for each Member of the House of Representatives and the Resident Commissioner from Puerto Rico; and
 
-&emsp;“(ii) the allowances for additional office personnel in the offices of the Speaker, the majority leader, the minority leader, the majority whip, and the minority whip, of the House of Representatives”
+&emsp;"(ii) the allowances for additional office personnel in the offices of the Speaker, the majority leader, the minority leader, the majority whip, and the minority whip, of the House of Representatives"
 
-> after “class of employees”.
+> after "class of employees".
 
-Subsec. (a)(2). Pub. L. 104–186, §204(1)(E), substituted “Chief Administrative Officer” for “Clerk” in two places.
+Subsec. (a)(2). Pub. L. 104–186, §204(1)(E), substituted "Chief Administrative Officer" for "Clerk" in two places.
 
-Subsec. (b). Pub. L. 104–186, §204(1)(F), substituted “Chief Administrative Officer” for “Clerk of the House”.
+Subsec. (b). Pub. L. 104–186, §204(1)(F), substituted "Chief Administrative Officer" for "Clerk of the House".
 
-Subsec. (d). Pub. L. 104–186, §204(1)(G), substituted “Chief Administrative Officer” for “Clerk of the House of Representatives”.
+Subsec. (d). Pub. L. 104–186, §204(1)(G), substituted "Chief Administrative Officer" for "Clerk of the House of Representatives".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–378 inserted “of title 5” after “section 5303”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 inserted "of title 5" after "section 5303".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(i)\], substituted “(a) Whenever an adjustment under section 5303 becomes effective with respect to rates of pay under the General Schedule,” for “(a) Whenever a pay adjustment by the President under section 5305 of title 5 is made effective pursuant to subsection (a)(2), or subsections (c) to (m), inclusive, as the case may be, of such section 5305, or section 3(c) of this Act, then”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(i)\], substituted "(a) Whenever an adjustment under section 5303 becomes effective with respect to rates of pay under the General Schedule," for "(a) Whenever a pay adjustment by the President under section 5305 of title 5 is made effective pursuant to subsection (a)(2), or subsections (c) to (m), inclusive, as the case may be, of such section 5305, or section 3(c) of this Act, then".
 
 Subsec. (a)(1). Pub. L. 101–509, §529 \[title I, §101(b)(10)\], made technical correction to Pub. L. 92–298 and Pub. L. 92–392, see 1972 Amendment note below.
 
-Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(iii)\], in closing provisions, substituted “adjustment under such section 5303;” for “pay adjustment made by the President;”.
+Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(iii)\], in closing provisions, substituted "adjustment under such section 5303;" for "pay adjustment made by the President;".
 
-Subsec. (a)(1)(A). Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(ii)\], substituted “adjustment)” for “pay adjustment by the President)”.
+Subsec. (a)(1)(A). Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(ii)\], substituted "adjustment)" for "pay adjustment by the President)".
 
-<b>1972</b>—Subsec. (a)(1). Pub. L. 92–298 and Pub. L. 92–392, as amended by Pub. L. 101–509, §529 \[title I, §101(b)(10)\], made identical substitutions in introductory provisions of “effective on the first day of the month in which such pay adjustments by the President” for “effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President”.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–298 and Pub. L. 92–392, as amended by Pub. L. 101–509, §529 \[title I, §101(b)(10)\], made identical substitutions in introductory provisions of "effective on the first day of the month in which such pay adjustments by the President" for "effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President".
 
 #### Effective Date of 1990 Amendment
 

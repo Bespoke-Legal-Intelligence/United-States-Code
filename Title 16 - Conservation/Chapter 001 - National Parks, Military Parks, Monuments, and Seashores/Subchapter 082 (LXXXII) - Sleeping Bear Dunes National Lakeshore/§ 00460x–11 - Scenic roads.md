@@ -6,7 +6,7 @@ In order to facilitate visitor travel, provide scenic overlooks for public enjoy
 
 #### (b) Exchange or sale of lands in Leelanau County
 
-Except as provided in subsection (c) of this section, any lands in Leelanau County acquired by the Secretary under this section before October 22, 1982, which are within the parkway zone depicted on the map specified in section 460x–1(a) of this title but which are not within,or contiguous to, the lakeshore zone as depicted on such map may be exchanged by the Secretary for other lands of approximately equal value in the lakeshore. If the Secretary is unable to effect such an exchange, such lands may be offered for sale to the person who owned such lands immediately before their acquisition by the Secretary. If such previous owner declines such offer, the Secretary may sell such lands to any buyer. Proceeds from any sale under this subsection shall be credited to the account established under section 17 of this Act.
+Except as provided in subsection (c) of this section, any lands in Leelanau County acquired by the Secretary under this section before October 22, 1982, which are within the parkway zone depicted on the map specified in section 460x–1(a) of this title but which are not within, or contiguous to, the lakeshore zone as depicted on such map may be exchanged by the Secretary for other lands of approximately equal value in the lakeshore. If the Secretary is unable to effect such an exchange, such lands may be offered for sale to the person who owned such lands immediately before their acquisition by the Secretary. If such previous owner declines such offer, the Secretary may sell such lands to any buyer. Proceeds from any sale under this subsection shall be credited to the account established under section 17 of this Act.
 
 #### (c) Administration of certain lands as Resource Preservation Areas
 
@@ -34,7 +34,7 @@ The Secretary is authorized to obtain and administer, according to the provision
 
 (2) The Secretary may negotiate with willing sellers for the transfer of fee title to other lesser interests to lands described in subsection (c) of this section. If the Secretary and such willing seller are unable to agree to a fair purchase price, that question may, by mutual consent be submitted to the appropriate United States District Court for adjudication.
 
-(3) If the owner of any lands described in subsection (c) of this section intends to transfer any interest in such lands except by gift, donation, or bequest, such owner must notify the Secretary of such intention. The Secretary shall have 90 days after notification in which to exercise a right of first refusal to match any bona fide offer to obtain such interest under the same terms and conditions as are contained in such offer. If the Secretary has not exercised such right within 90 days, the owner may transfer such interest.
+(3) If the owner of any lands described in subsection (c) of this section intends to transfer any interest in such lands except by gift, donation, or bequest, such owner must notify the Secretary of such intention. The Secretary shall have 90 days after notification in which to exercise a right of first refusal to match any bona fide offer to obtain such interest under the sameterms and conditions as are contained in such offer. If the Secretary has not exercised such right within 90 days, the owner may transfer such interest.
 
 (4) Condemnation may be used with respect to any lands described in subsection (c) of this section only—
 
@@ -60,7 +60,7 @@ The Secretary may, upon request in writing by any owner or occupier of lands in 
 
 #### References in Text
 
-Section 17 of this Act, referred to in subsec. (b), probably means proposed section 17 of Pub. L. 91–479, whichwas contained in H.R. 3787, 97th Congress, 2d Session, as reported in House Report No. 97–882, page 4, but was omitted in the final version enacted by Congress as Pub. L. 97–361.
+Section 17 of this Act, referred to in subsec. (b), probably means proposed section 17 of Pub. L. 91–479, which was contained in H.R. 3787, 97th Congress, 2d Session, as reported in House Report No. 97–882, page 4, but was omitted in the final version enacted by Congress as Pub. L. 97–361.
 
 #### Amendments
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
+&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by theState under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
 
 #### (3) Schedule for payment
 
@@ -138,7 +138,7 @@
 
 &emsp;(A) Each State that is a party to a compliance agreement or an enforcement agreement under this subsection shall establish an interest bearing account, to be known as a Clean Oceans Fund, into which a person shall pay fees and penalties in accordance with subsections (b)(2)(C) and (d)(2)(C)(i) of this section, respectively.
 
-&emsp;(B) A State which establishes a Clean Oceans Fund pursuant to this paragraph shall allocateand pay from the fund each year, to each person in the State which has entered into a compliance agreement or enforcement agreement under this subsection, a portion of amounts in the fund on the last day of that year which is equal to the sum of—
+&emsp;(B) A State which establishes a Clean Oceans Fund pursuant to this paragraph shall allocate and pay from the fund each year, to each person in the State which has entered into a compliance agreement or enforcement agreement under this subsection, a portion of amounts in the fund on the last day of that year which is equal to the sum of—
 
 &emsp;&emsp;(i) amounts paid by the person into the fund in that year as fees pursuant to subsection (b)(2)(C) of this section and as penalties pursuant to subsection (d)(2)(C)(i) of this section;
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to paragraph (4), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount; and
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
+&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located asum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
 
 &emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3) of this section.
 
@@ -282,7 +282,7 @@
 
 &emsp;&emsp;&emsp;(II) for developing and implementing a conservation and management plan under section 320 of such Act \[33 U.S.C. 1330\]; or
 
-&emsp;&emsp;&emsp;(III) for implementing technologies and management practices necessary for controlling pollutant inputs adversely affecting the New York Bight, as such inputs areidentified in the New York Bight Restoration Plan prepared under section 2301 of the Marine Plastic Pollution Research and Control Act of 1987; and
+&emsp;&emsp;&emsp;(III) for implementing technologies and management practices necessary for controlling pollutant inputs adversely affecting the New York Bight, as such inputs are identified in the New York Bight Restoration Plan prepared under section 2301 of the Marine Plastic Pollution Research and Control Act of 1987; and
 
 &emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
 
@@ -350,7 +350,7 @@
 
 &emsp;&emsp;(A) progress being made by persons issued permits under section 1412 of this title for transportation or dumping of sewage sludge or industrial waste in developing alternative systems for managing sewage sludge and industrial waste;
 
-&emsp;&emsp;(B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the personpursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
+&emsp;&emsp;(B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
 &emsp;&emsp;(C) progress being made by the Administrator and others in identifying and implementing alternative systems for the management of sewage sludge and industrial waste; and
 

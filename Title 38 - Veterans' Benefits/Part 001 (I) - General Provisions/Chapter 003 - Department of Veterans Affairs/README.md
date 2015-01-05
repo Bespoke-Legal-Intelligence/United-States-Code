@@ -44,7 +44,7 @@ Section 211, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–214, �
 
 Section 212, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–361, §2, Mar. 7, 1966, 80 Stat. 30; Pub. L. 99–576, title VII, §701(10), Oct. 28, 1986, 100 Stat. 3291, related to delegation of authority and assignment of duties. See section 512 of this title.
 
-Section 213, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–785, title III, §302, Nov. 7, 1966, 80 Stat. 1376;Pub. L. 91–24, §2(c), June 11, 1969, 83 Stat. 33; Pub. L. 99–576, title VII, §701(11), Oct. 28, 1986, 100 Stat. 3291, related to contracts and acceptance of personal services. See section 513 of this title.
+Section 213, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–785, title III, §302, Nov. 7, 1966, 80 Stat. 1376; Pub. L. 91–24, §2(c), June 11, 1969, 83 Stat. 33; Pub. L. 99–576, title VII, §701(11), Oct. 28, 1986, 100 Stat. 3291, related to contracts and acceptance of personal services. See section 513 of this title.
 
 Section 214, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115, required an annual report to Congress by Administrator. See section 529 of this title.
 
@@ -106,7 +106,7 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 
 <b>2003</b>—Pub. L. 108–136, div. A, title V, §583(a)(2), Nov. 24, 2003, 117 Stat. 1491, added item 320.
 
-<b>1998</b>—Pub. L. 105–368, title IV, §403(c)(1)(B), Nov. 11, 1998, 112 Stat. 3338, substituted "Under Secretary forMemorial Affairs" for "Director of the National Cemetery System" in item 307.
+<b>1998</b>—Pub. L. 105–368, title IV, §403(c)(1)(B), Nov. 11, 1998, 112 Stat. 3338, substituted "Under Secretary for Memorial Affairs" for "Director of the National Cemetery System" in item 307.
 
 <b>1997</b>—Pub. L. 105–114, title I, §102(a)(2), Nov. 21, 1997, 111 Stat. 2281, added item 319.
 

@@ -26,7 +26,7 @@ Exclusions.—The scenic area shall not include the approximately 29 acres of la
 
 (2) The boundaries of the special management areas designated by paragraph (1)—
 
-&emsp;(A) shall be generally depicted on the map entitled "Special Management Areas, Columbia River Gorge National Scenic Area", numbered SMA–002 sheets 1 through 17, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service; and
+&emsp;(A) shall be generally depicted on the map entitled "Special Management Areas, Columbia River Gorge National Scenic Area", numbered SMA–002 sheets 1 through 17, and dated September 1986, which shall be on file andavailable for public inspection in the offices of the Commission and of the Chief, Forest Service; and
 
 &emsp;(B) shall include all islands within the boundaries of the scenic area.
 

@@ -38,7 +38,7 @@
 
 #### (ii) Types of intervention activities
 
-&emsp;&emsp;&emsp;Intervention activities conducted under this subparagraph may include efforts to improve nutrition, increase physical activity, reduce tobacco use and substanceabuse, improve mental health, and promote healthy lifestyles among the target population.
+&emsp;&emsp;&emsp;Intervention activities conducted under this subparagraph may include efforts to improve nutrition, increase physical activity, reduce tobacco use and substance abuse, improve mental health, and promote healthy lifestyles among the target population.
 
 #### (C) Community preventive screenings
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall evaluate community prevention and wellness programs including those that are sponsored by the Administration on Aging, are evidence-based, and have demonstrated potential to help Medicare beneficiaries (particularly beneficiaries that have attained 65 years of age) reduce their risk of disease, disability, and injury by making healthy lifestyle choices, includingexercise, diet, and self-management of chronic diseases.
+&emsp;&emsp;The Secretary shall evaluate community prevention and wellness programs including those that are sponsored by the Administration on Aging, are evidence-based, and have demonstrated potential to help Medicare beneficiaries (particularly beneficiaries that have attained 65 years of age) reduce their risk of disease, disability, and injury by making healthy lifestyle choices, including exercise, diet, and self-management of chronic diseases.
 
 #### (B) Evaluation
 
@@ -160,7 +160,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

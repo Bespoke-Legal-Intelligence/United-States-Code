@@ -20,7 +20,7 @@
 | [3413\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003413%20-%20Office%20for%20Civil%20Rights.md) | Office for Civil Rights. |
 | [3414\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003414%20-%20Office%20of%20Elementary%20and%20Secondary%20Education%3B%20inclusion%20of%20Office%20of%20Migrant%20Education.md) | Office of Elementary and Secondary Education; inclusion of Office of Migrant Education. |
 | [3415\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003415%20-%20Office%20of%20Postsecondary%20Education.md) | Office of Postsecondary Education. |
-| [3416\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003416%20-%20Office%20of%20Vocational%20and%20Adult%20Education.md) | Office of Vocational and Adult Education. |
+| [3416\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003416%20-%20Office%20of%20Career%2C%20Technical%2C%20and%20Adult%20Education.md) | Office of Career, Technical, and Adult Education. |
 | [3417\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003417%20-%20Office%20of%20Special%20Education%20and%20Rehabilitative%20Services.md) | Office of Special Education and Rehabilitative Services. |
 | [3418\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003418%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20XII%2C%20%C2%A71204%28a%29%281%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20720.md) | Repealed. |
 | [3419\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003419%20-%20Institute%20of%20Education%20Sciences.md) | Institute of Education Sciences. |

@@ -44,7 +44,7 @@ Any contract entered into under subsection (b) of this section shall contain eac
 
 #### (d) Restriction on payments
 
-The Secretary shall make no payment of the Federal share of the cost of acquiring and distributing books under any contract under this section unless the Secretary determines that the contractor or subcontractor, as the casemay be, has made arrangements with book publishers or distributors to obtain books at discounts at least as favorable as discounts that are customarily given by such publisher or distributor for book purchases made under similar circumstances in the absence of Federal assistance.
+The Secretary shall make no payment of the Federal share of the cost of acquiring and distributing books under any contract under this section unless the Secretary determines that the contractor or subcontractor, as the case may be, has made arrangements with book publishers or distributors to obtain books at discounts at least as favorable as discounts that are customarily given by such publisher or distributor for book purchases made under similar circumstances in the absence of Federal assistance.
 
 #### (e) Special rules for certain subcontractors
 

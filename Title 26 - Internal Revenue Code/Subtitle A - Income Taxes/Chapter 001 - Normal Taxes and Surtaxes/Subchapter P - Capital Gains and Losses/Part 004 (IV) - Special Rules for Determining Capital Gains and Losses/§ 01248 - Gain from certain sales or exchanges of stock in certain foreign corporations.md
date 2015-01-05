@@ -16,11 +16,11 @@ In the case of an individual, if the stock sold or exchanged is a capital asset 
 
 &emsp;(1) a pro rata share of the excess of—
 
-&emsp;&emsp;(A) the taxes that would have been paid by the foreign corporation with respect to its income had it been taxed under this chapter as a domestic corporation (but without allowance for deduction of, or credit for, taxes described in subparagraph (B)), for the period or periods the stock sold or exchanged was held by the United States person in taxable years beginning after December 31, 1962,while the foreign corporation was a controlled foreign corporation, adjusted for distributions and amounts previously included in gross income of a United States shareholder under section 951, over
+&emsp;&emsp;(A) the taxes that would have been paid by the foreign corporation with respect to its income had it been taxed under this chapter as a domestic corporation (but without allowance for deduction of, or credit for, taxes described in subparagraph (B)), for the period or periods the stock sold or exchanged was held by the United States person in taxable years beginning after December 31, 1962, while the foreign corporation was a controlled foreign corporation, adjusted for distributions and amounts previously included in gross income of a United States shareholder under section 951, over
 
 &emsp;&emsp;(B) the income, war profits, or excess profits taxes paid by the foreign corporation with respect to such income; and
 
-&emsp;(2) an amount equal to the tax that would result by including in gross income, as gain from the sale or exchange of a capital asset held for more than 1 year, an amount equal to the excess of (A) the amount included in gross income as a dividend under subsection (a), over (B) the amount determined under paragraph (1).
+&emsp;(2) an amount equal to the tax that would result by including in gross income, as gain from the sale or exchange of a capital asset held for more than 1 year, an amount equal to the excess of (A) the amount included in gross income as a dividend under subsection (a),over (B) the amount determined under paragraph (1).
 
 #### (c) Determination of earnings and profits
 
@@ -78,11 +78,11 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 &emsp;&emsp;(B) would not (but for section 923(a)(4)) be treated as exempt foreign trade income.
 
-> &emsp;For purposes of the preceding sentence, the terms "foreign trade income" and "exemptforeign trade income" have the respective meanings given such terms by section 923. Any reference in this paragraph to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
+> &emsp;For purposes of the preceding sentence, the terms "foreign trade income" and "exempt foreign trade income" have the respective meanings given such terms by section 923. Any reference in this paragraph to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
 
 #### (6) Amounts included in gross income under section 1293
 
-&emsp;Earnings and profits of the foreign corporation attributable to any amount previously included in the gross income of such person under section 1293 with respect to the stock sold or exchanged, but only to the extent the inclusion of such amount did not result in an exclusion of an amount under section 1293(c).
+&emsp;Earnings and profits of the foreign corporation attributable to any amount previously included in the gross income of such person under section 1293 with respect to the stock sold or exchanged, but only to the extent theinclusion of such amount did not result in an exclusion of an amount under section 1293(c).
 
 #### (e) Sales or exchanges of stock in certain domestic corporations
 
@@ -158,7 +158,7 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 &emsp;&emsp;<b>For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).</b>
 
-(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491.)
+(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668,996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491.)
 
 #### References in Text
 
@@ -232,7 +232,7 @@ Subsec. (c)(1). Pub. L. 94–455, §§1901(b)(32)(B)(iii), 1906(b)(13(A), substi
 
 Subsec. (c)(2)(A). Pub. L. 94–455, §1042(c)(3)(A), substituted "subsection (a) or (f) applies to a sale, exchange, or distribution" for "subsection (a) applies to a sale or exchange".
 
-Subsec. (c)(2)(C). Pub. L. 94–455, §1042(b), inserted "(or on the date of any sale or exchange of the stock of such other foreign corporation occurring during the 5–yearperiod ending on the date of the sale or exchange of the stock of such foreign corporation, to the extent not otherwise taken into account under this section but not in excess of the fair market value of the stock of such other foreign corporation sold or exchanged over the basis of such stock (for determining gain) in the hands of the transferor)". §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
+Subsec. (c)(2)(C). Pub. L. 94–455, §1042(b), inserted "(or on the date of any sale or exchange of the stock of such other foreign corporation occurring during the 5–year period ending on the date of the sale or exchange of the stock of such foreign corporation, to the extent not otherwise taken into account under this section but not in excess of the fair market value of the stock of such other foreign corporation sold or exchanged over the basis of such stock (for determining gain) in the hands of the transferor)". §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -286,7 +286,7 @@ Amendment by section 1001(b)(22) of Pub. L. 98–369 applicable to property acqu
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, seesection 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -294,7 +294,7 @@ Pub. L. 94–455, title X, §1022(b), Oct. 4, 1976, 90 Stat. 1619, provided that
 
 For effective date of amendment by section 1042 of Pub. L. 94–455, see section 1042(e) of Pub. L. 94–455, set out as a note under section 367 of this title.
 
-Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by thatsection is effective with respect to taxable years beginning in 1977.
 
 Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 

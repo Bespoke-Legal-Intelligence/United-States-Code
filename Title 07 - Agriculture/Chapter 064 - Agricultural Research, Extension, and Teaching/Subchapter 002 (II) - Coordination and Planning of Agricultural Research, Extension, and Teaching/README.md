@@ -14,6 +14,7 @@
 - [&sect; 03124a - Federal-State partnership and coordination](%C2%A7%2003124a%20-%20Federal-State%20partnership%20and%20coordination.md)
 - [&sect; 03125 - Annual report of Secretary of Agriculture to President and Congress](%C2%A7%2003125%20-%20Annual%20report%20of%20Secretary%20of%20Agriculture%20to%20President%20and%20Congress.md)
 - [&sect; 03125a - National Agricultural Library](%C2%A7%2003125a%20-%20National%20Agricultural%20Library.md)
+- [&sect; 03125a&#8211;1 - Agricultural and food law research, legal tools, and information](%C2%A7%2003125a%E2%80%931%20-%20Agricultural%20and%20food%20law%20research%2C%20legal%20tools%2C%20and%20information.md)
 - [&sect; 03125b - National Rural Information Center Clearinghouse](%C2%A7%2003125b%20-%20National%20Rural%20Information%20Center%20Clearinghouse.md)
 - [&sect; 03125c - Repealed. Pub. L. 104&#8211;127, title VIII, &sect;859(a), Apr. 4, 1996, 110 Stat. 1173](%C2%A7%2003125c%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7859%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201173.md)
 - [&sect; 03126 - Libraries and information network](%C2%A7%2003126%20-%20Libraries%20and%20information%20network.md)

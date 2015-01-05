@@ -44,7 +44,7 @@ Project Selection Criteria.—The Secretary, in selecting the recipients of fina
 
 &emsp;&emsp;(A) that are anticipated to result in significant improvements to intercity rail passenger service, including, but not limited to, consideration of—
 
-&emsp;&emsp;&emsp;(i) the project's levels of estimated ridership, increased on-time performance, reduced trip time, additional service frequency to meet anticipated or existing demand, or other significant service enhancements as measured against minimumstandards developed under section 207 of the Passenger Rail Investment and Improvement Act of 2008;
+&emsp;&emsp;&emsp;(i) the project's levels of estimated ridership, increased on-time performance, reduced trip time, additional service frequency to meet anticipated or existing demand, or other significant service enhancements as measured against minimum standards developed under section 207 of the Passenger Rail Investment and Improvement Act of 2008;
 
 &emsp;&emsp;&emsp;(ii) the project's anticipated favorable impact on air or highway traffic congestion, capacity, or safety; and
 

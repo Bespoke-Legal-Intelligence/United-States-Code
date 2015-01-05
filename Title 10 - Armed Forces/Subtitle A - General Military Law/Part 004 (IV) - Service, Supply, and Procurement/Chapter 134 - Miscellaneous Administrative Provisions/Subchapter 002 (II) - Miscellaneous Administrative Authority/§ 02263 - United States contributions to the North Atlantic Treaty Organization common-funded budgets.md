@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The total amount contributed by the Secretary of Defense in any fiscal year for the common-funded budgets of NATO may be an amount in excess of the maximum amount that would otherwise be applicable to those contributions in such fiscal year under the fiscal year 1998 baseline limitation.
+In General.—The total amount contributed by the Secretary of Defense in any fiscal year for the common-funded budgets of NATO may be an amount in excess of the maximum amount that would otherwise be applicable tothose contributions in such fiscal year under the fiscal year 1998 baseline limitation.
 
 (b)
 

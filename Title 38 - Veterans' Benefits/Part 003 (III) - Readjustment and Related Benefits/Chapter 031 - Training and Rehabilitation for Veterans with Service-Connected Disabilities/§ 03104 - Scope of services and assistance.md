@@ -44,7 +44,7 @@
 
 (b) A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 andamended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(d), Oct. 9, 1996, 110 Stat. 3324.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(d), Oct. 9, 1996, 110 Stat. 3324.)
 
 #### Prior Provisions
 
@@ -150,7 +150,7 @@ Selection of Facilities.—In identifying the most appropriate facilities to rec
 
 "(d)
 
-Coordination.—The Secretary shall coordinate the provision of blind rehabilitation services for veterans with services for the care of the visually impaired offered by State and local agencies, especially to theextent to which such State and local agencies can provide necessary services to blind veterans in settings located closer to the residences of such veterans at similar quality and cost to the veteran.
+Coordination.—The Secretary shall coordinate the provision of blind rehabilitation services for veterans with services for the care of the visually impaired offered by State and local agencies, especially to the extent to which such State and local agencies can provide necessary services to blind veterans in settings located closer to the residences of such veterans at similar quality and cost to the veteran.
 
 "(e)
 

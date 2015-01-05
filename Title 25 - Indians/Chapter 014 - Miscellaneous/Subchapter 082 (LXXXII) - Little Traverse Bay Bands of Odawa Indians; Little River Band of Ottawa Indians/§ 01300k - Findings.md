@@ -6,7 +6,7 @@ Congress finds the following:
 
 &emsp;(2) The Grand Traverse Band of Ottawa and Chippewa Indians, the Sault Ste. Marie Tribe of Chippewa Indians, and the Bay Mills Band of Chippewa Indians, whose members are also descendants of the signatories to the 1836 Treaty of Washington and the 1855 Treaty of Detroit, have been recognized by the Federal Government as distinct Indian tribes.
 
-&emsp;(3) The Little Traverse Bay Bands of Odawa Indians consists of at least 1,000 eligible members who continue to reside close to their ancestral homeland as recognized in the Little Traverse Reservation in the 1836 Treaty of Washington and 1855 Treaty of Detroit, whicharea is now known as Emmet and Charlevoix Counties, Michigan.
+&emsp;(3) The Little Traverse Bay Bands of Odawa Indians consists of at least 1,000 eligible members who continue to reside close to their ancestral homeland as recognized in the Little Traverse Reservation in the 1836 Treaty of Washington and 1855 Treaty of Detroit, which area is now known as Emmet and Charlevoix Counties, Michigan.
 
 &emsp;(4) The Little River Band of Ottawa Indians consists of at least 500 eligible members who continue to reside close to their ancestral homeland as recognized in the Manistee Reservation in the 1836 Treaty of Washington and reservation in the 1855 Treaty of Detroit, which area is now known as Manistee and Mason Counties, Michigan.
 

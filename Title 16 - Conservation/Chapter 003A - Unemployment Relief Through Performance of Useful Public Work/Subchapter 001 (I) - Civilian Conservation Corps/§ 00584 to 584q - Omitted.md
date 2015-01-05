@@ -92,7 +92,7 @@ Ex. Ord. No. 7677–A, §3, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by
 
 #### Medical and Burial Expenses
 
-Acts July 12, 1943, ch. 221, title III, 57 Stat. 514; June 28, 1944, ch. 302, title III, 58 Stat. 567; July 3, 1945, ch. 263, title III, 59 Stat. 377; July 26, 1946, ch. 672, title III, §301, 60 Stat. 697, provided for medical and burial expenses of certain enrollees of the Civilian Conservation Corps.
+Acts July 12, 1943, ch. 221, title III, 57 Stat. 514; June 28, 1944, ch. 302, title III, 58 Stat. 567; July 3, 1945, ch.263, title III, 59 Stat. 377; July 26, 1946, ch. 672, title III, §301, 60 Stat. 697, provided for medical and burial expenses of certain enrollees of the Civilian Conservation Corps.
 
 #### Projects on Private Lands
 

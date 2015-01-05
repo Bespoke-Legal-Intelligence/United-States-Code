@@ -10,7 +10,7 @@ To encourage large-scale experimentation in the use of new technologies, methods
 
 #### (c) Acquisition, use, and disposal of property; transfer of excess property
 
-Notwithstanding any other provision of law, the Secretary is authorized, in connection with projects under this title \[12 U.S.C. 1701z–1 et seq.\], to acquire, use and dispose of any land and other property required for the project as he deems necessary. Notwithstanding the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any land which is excess property within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 and which is determined by the Secretary to be suitable in furtherance of the purposes of subsection (b) of this section may be transferred to the Secretary upon his request.
+Notwithstanding any other provision of law, the Secretary is authorized, in connection with projects under this title \[12 U.S.C. 1701z–1 et seq.\], to acquire, use and dispose of any land and other property required for the project as he deems necessary. Notwithstanding the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any land which is excess property within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 and which is determined by the Secretary to be suitable in furtherance of the purposes of subsection (b) may be transferred to the Secretary upon his request.
 
 #### (d) Technical assistance; reports; general dissemination and form of reports, data, and information
 
@@ -32,7 +32,7 @@ The Secretary is authorized to request and receive such information or data as h
 
 #### References in Text
 
-This title, referred to in subsecs. (c), (d), and (f) following "under", is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq., of this title. For complete classification of this Act to the Code, see Short Title of 1970Amendments note set out under section 1701 of this title and Tables.
+This title, referred to in subsecs. (c), (d), and (f) following "under", is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq., of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under section 1701 of this title and Tables.
 
 For effective date of section 3204 of title 39 as provided in section 15(a) of the Postal Reorganization Act, referred to in subsec. (d), see notes preceding section 101 and under section 3204 of Title 39, Postal Service.
 

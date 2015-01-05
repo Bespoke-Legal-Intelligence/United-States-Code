@@ -14,7 +14,7 @@ In General.—The Secretary of Transportation shall survey the merchant marine o
 
 (b)
 
-Cooperation With Secretary of Navy.—In carrying out subsection (a)(1), the Secretaryof Transportation shall cooperate closely with the Secretary of the Navy as to national defense requirements.
+Cooperation With Secretary of Navy.—In carrying out subsection (a)(1), the Secretary of Transportation shall cooperate closely with the Secretary of the Navy as to national defense requirements.
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1557.)
 

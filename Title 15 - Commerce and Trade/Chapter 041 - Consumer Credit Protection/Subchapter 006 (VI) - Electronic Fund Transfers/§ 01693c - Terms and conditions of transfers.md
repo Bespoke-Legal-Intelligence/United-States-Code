@@ -6,7 +6,7 @@ The terms and conditions of electronic fund transfers involving a consumer's acc
 
 &emsp;(1) the consumer's liability for unauthorized electronic fund transfers and, at the financial institution's option, notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of a card, code, or other means of access;
 
-&emsp;(2) the telephone number and address of the person or office to be notified in the event theconsumer believes than <sup>1</sup> an unauthorized electronic fund transfer has been or may be effected;
+&emsp;(2) the telephone number and address of the person or office to be notified in the event the consumer believes than <sup>1</sup> an unauthorized electronic fund transfer has been or may be effected;
 
 &emsp;(3) the type and nature of electronic fund transfers which the consumer may initiate, including any limitations on the frequency or dollar amount of such transfers, except that the details of such limitations need not be disclosed if their confidentiality is necessary to maintain the security of an electronic fund transfer system, as determined by the Bureau;
 

@@ -100,7 +100,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (1) Guidelines
 
-&emsp;The Federal banking agencies, the National Credit Union Administration, the FederalTrade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
+&emsp;The Federal banking agencies, the National Credit Union Administration, the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
 
 &emsp;&emsp;(A) establish and maintain guidelines for use by each financial institution and each creditor regarding identity theft with respect to account holders at, or customers of, such entities, and update such guidelines as often as necessary;
 
@@ -158,7 +158,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;Nothing in this subsection shall be construed to prohibit—
 
-&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
+&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires suchrepurchase because the debt has resulted from identity theft;
 
 &emsp;&emsp;(B) the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a borrowing; or
 
@@ -246,7 +246,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 &emsp;&emsp;This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.
 
-(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat.1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
+(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
 
 #### Amendments
 

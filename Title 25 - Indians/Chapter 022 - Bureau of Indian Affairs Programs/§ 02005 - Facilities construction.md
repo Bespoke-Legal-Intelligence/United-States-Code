@@ -28,7 +28,7 @@
 
 #### (4) Submission
 
-&emsp;Not later than 2 years after January 8, 2002, the Government Accountability Office shall submit the results of the national survey conducted under paragraph (1) to the Committee on Indian Affairs, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on Resources, the Committee on Education and the Workforce, and the Committee on Appropriations of the House of Representatives and to the Secretary. The Secretary shall submit the results of the national survey to school boards of Bureau-funded schools and their respective tribes.
+&emsp;Not later than 2 years after January 8, 2002, the Government Accountability Office shallsubmit the results of the national survey conducted under paragraph (1) to the Committee on Indian Affairs, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on Resources, the Committee on Education and the Workforce, and the Committee on Appropriations of the House of Representatives and to the Secretary. The Secretary shall submit the results of the national survey to school boards of Bureau-funded schools and their respective tribes.
 
 #### (5) Negotiated rulemaking committee
 
@@ -168,7 +168,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (G) General closure report
 
-&emsp;&emsp;If a Bureau-funded school is temporarily closed or consolidated or the programs of a Bureau-funded school are temporarily substantially curtailed under this subsection and the Secretary determines that the closure, consolidation, or curtailment will exceed 1 year, the Secretary shall submit to the appropriate committees of Congress, the affected tribe, and the local school board, not later than 90 days after the date on which the closure, consolidation, or curtailment was initiated, a report that specifies—
+&emsp;&emsp;If a Bureau-funded school is temporarily closed or consolidated or the programs of a Bureau-funded school are temporarily substantially curtailed under this subsection and the Secretary determines that the closure, consolidation, or curtailment will exceed 1 year, the Secretary shall submit to the appropriate committees of Congress, the affected tribe, and the local school board, not later than 90 days after the date onwhich the closure, consolidation, or curtailment was initiated, a report that specifies—
 
 &emsp;&emsp;&emsp;(i) the reasons for such temporary action;
 
@@ -228,7 +228,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), i
 
 #### Prior Provisions
 
-A prior section 2005, Pub. L. 95–561, title XI, §1125, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 3986, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2005, Pub. L. 95–561, title XI, §1125, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3986, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, §5103, Apr. 28, 1988, 102 Stat. 364, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 103–382.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Providing Information and Notice.—The Secretary of Transportation may require that each manufacturer of a motor vehicle or motor vehicle equipment provide technical information related to performance and safety required to carry out this chapter. The Secretary may require the manufacturer to give the following notice of that information when the Secretary decides it is necessary:
+Providing Information and Notice.—The Secretary of Transportation may require thateach manufacturer of a motor vehicle or motor vehicle equipment provide technical information related to performance and safety required to carry out this chapter. The Secretary may require the manufacturer to give the following notice of that information when the Secretary decides it is necessary:
 
 &emsp;(1) to each prospective purchaser of a vehicle or equipment before the first sale other than for resale at each location at which the vehicle or equipment is offered for sale by a person having a legal relationship with the manufacturer, in a way the Secretary decides is appropriate.
 
@@ -24,7 +24,7 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 &emsp;(iii) whether to prescribe for manufacturers, distributors, or dealers other requirements that the Secretary decides will increase significantly the percentage of first purchasers of tires about whom records are maintained.
 
-(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraphonly if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
+(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
 
 &emsp;(i) the cost of the requirement to manufacturers and the burden of the requirement on distributors and dealers, compared to the increase in the percentage of first purchasers of tires about whom records would be maintained as a result of the requirement;
 

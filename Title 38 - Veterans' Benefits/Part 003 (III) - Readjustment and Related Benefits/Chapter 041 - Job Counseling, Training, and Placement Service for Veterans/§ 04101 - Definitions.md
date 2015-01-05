@@ -26,7 +26,11 @@ For the purposes of this chapter—
 
 &emsp;(9) The term "intensive services" means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §5(a)(1)(A), (c)(1), Nov. 7, 2002, 116 Stat. 2044, 2045.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §5(a)(1)(A), (c)(1), Nov. 7, 2002, 116 Stat. 2044, 2045; Pub. L. 113–128, title V, §512(gg)(1), July 22, 2014, 128 Stat. 1719.)
+
+#### Amendment of Paragraph (9)
+
+<i>Pub. L. 113–128, title V, §§506, 512(gg)(1), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking "The term 'intensive services' means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998" and inserting "The term 'career services' means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -39,6 +43,8 @@ Section 134(d)(3) of the Workforce Investment Act of 1998, referred to in par. (
 Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, §101, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, §201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, §105(a), title III, §302, title IV, §408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, §4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, §104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, §135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, §1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
 
 #### Amendments
+
+<b>2014</b>—Par. (9). Pub. L. 113–128 substituted "The term 'career services' means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act" for "The term 'intensive services' means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998".
 
 <b>2002</b>—Par. (7). Pub. L. 107–288, §5(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "The term 'local employment service office' means a service delivery point which has an intrinsic management structure and at which employment services are offered in accordance with the Wagner-Peyser Act."
 
@@ -64,6 +70,10 @@ Par. (6). Pub. L. 96–466, §§503(2), 801(h)(2), redesignated former par. (3) 
 
 <b>1966</b>—Pub. L. 89–358 inserted "or of service after January 31, 1955" after "veterans of any war".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–288, §5(a)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: "The amendments made by paragraph (1) \[amending this section and sections 4102, 4106, 4107, and 4109 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\]."
@@ -86,7 +96,7 @@ Pub. L. 92–540, title VI, §601(b), Oct. 24, 1972, 86 Stat. 1099, provided tha
 
 #### Savings Provision
 
-Pub. L. 87–675, §1(e), Sept. 19, 1962, 76 Stat. 559, provided that: "Claims for benefits under \[former\] sections 2001 through 2009 of chapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed \[Sept. 19, 1962\], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended."
+Pub. L. 87–675, §1(e), Sept. 19, 1962, 76 Stat. 559, provided that: "Claims for benefits under \[former\] sections 2001 through 2009 of chapter 41 of title 38, United StatesCode, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed \[Sept. 19, 1962\], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended."
 
 #### Termination of Trust Territory of the Pacific Islands
 

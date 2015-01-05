@@ -12,7 +12,7 @@ No cooperative agreement shall be entered into or continued in force under the a
 
 (e) Subject to the approval of the National Forest Reservation Commission, the Secretary of Agriculture is authorized to pay out of any available money appropriated for carrying out the purposes of sections 567a to 567c of this title any State, county, and/or town taxes, exclusive of penalties, due or accrued on any forest lands acquired by the United States under donations from the owners thereof and which lands are to be included in a State or other public forest pursuant to said sections.
 
-(f) The State shall prepare such standards of forest administration, development, and management as are necessary to insure maximum feasible utility for timber production and watershed protection, and are acceptable to the Secretary of Agriculture and shall apply the same to lands acquired and placed under the jurisdiction of the State pursuant to sections 567a to 567c of this title.
+(f) The State shall prepare such standards of forest administration, development, and management as are necessary to insure maximumfeasible utility for timber production and watershed protection, and are acceptable to the Secretary of Agriculture and shall apply the same to lands acquired and placed under the jurisdiction of the State pursuant to sections 567a to 567c of this title.
 
 (g) That with the exception of such Federal expenditures as may be made for unemployment relief, the State shall pay without assistance from the Federal Government the entire future cost of administering, developing, and managing all forest lands acquired and over which it has been given jurisdiction under sections 567a to 567c of this title.
 

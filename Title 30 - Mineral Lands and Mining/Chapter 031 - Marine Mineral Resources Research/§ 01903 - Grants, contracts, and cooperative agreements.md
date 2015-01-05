@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;An entity shall not be eligible to receive a grant or contract, or participate in a cooperative agreement, under subsection (a) of this section unless—
+&emsp;An entity shall not be eligible to receive a grant or contract, or participate in a cooperative agreement, under subsection (a) unless—
 
 &emsp;&emsp;(A) the entity submits a proposal to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require; and
 

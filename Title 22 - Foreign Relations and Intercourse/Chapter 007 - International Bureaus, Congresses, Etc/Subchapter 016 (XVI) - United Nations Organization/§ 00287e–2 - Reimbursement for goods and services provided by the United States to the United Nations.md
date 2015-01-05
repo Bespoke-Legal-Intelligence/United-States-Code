@@ -68,7 +68,7 @@ Subsection (a) of this section applies to assistance provided under the followin
 
 #### (A) In general
 
-&emsp;&emsp;The President may authorize the furnishing of assistance covered by this section without regard to subsection (a) of this section if the President determines, and so notifies in writing the Committee on ForeignRelations of the Senate and the Speaker of the House of Representatives, that to do so is important to the security interests of the United States.
+&emsp;&emsp;The President may authorize the furnishing of assistance covered by this section without regard to subsection (a) of this section if the President determines, and so notifies in writing the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives, that to do so is important to the security interests of the United States.
 
 #### (B) Congressional notification
 

@@ -30,7 +30,7 @@ In the case of a common-law trust of the character described in section 80a–16
 
 #### (A) Rule of construction
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to create, imply, diminish, change, or affect in any way whether or not a private right of action exists under subsection (a) or any other provision of this chapter.
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to create, imply, diminish, change, oraffect in any way whether or not a private right of action exists under subsection (a) or any other provision of this chapter.
 
 #### (B) Disclosures
 

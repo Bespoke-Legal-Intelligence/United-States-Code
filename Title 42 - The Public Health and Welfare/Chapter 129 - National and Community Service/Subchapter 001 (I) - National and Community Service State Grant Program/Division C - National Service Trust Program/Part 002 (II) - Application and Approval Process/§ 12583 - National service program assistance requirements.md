@@ -34,7 +34,7 @@ An application submitted under section 12582 of this title shall also include an
 
 &emsp;(2) prior to the placement of participants, consult with the appropriate local labor organization, if any, representing employees in the area who are engaged in the same or similar work as that proposed to be carried out by such program to ensure compliance with the nondisplacement requirements specified in section 12637 of this title; and
 
-&emsp;(3) in the case of a program that is not funded through a State (including a national service program that a nonprofit organization seeks to operate in 2 or more States), consult with and coordinate activities with the State Commission for each State in which the program will operate, and the Corporation shall obtain confirmation from the State Commission that the applicant seeking assistance under this chapter has consulted with and coordinated with the State Commission when seeking to operate the program in that State.
+&emsp;(3) in the case of a program that is not funded through a State (including a national service program that a nonprofit organization seeks to operate in 2 or more States), consult with and coordinate activities with the State Commission for each State in which the program will operate, and the Corporation shall obtain confirmation from the State Commission that the applicant seeking assistanceunder this chapter has consulted with and coordinated with the State Commission when seeking to operate the program in that State.
 
 #### (d) Evaluation and performance goals
 

@@ -60,7 +60,7 @@ In this part:
 
 #### (8) State
 
-&emsp;The term "State" means the several States, the District of Columbia, the Commonwealthof Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (9) Verified technology
 

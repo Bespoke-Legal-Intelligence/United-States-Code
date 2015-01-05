@@ -156,7 +156,7 @@ Steward's department.—The term "steward's department" means the department tha
 
 Large passenger vessel.—The term "large passenger vessel" means a vessel of more than 70,000 gross tons, as measured under section 14302 of this title, with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006,120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006, 120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604.)
 
 Historical and Revision Notes
 
@@ -252,7 +252,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Distant Water Tuna Fleet
 
-Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579, provided that:
+Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579; Pub. L. 113–281, title VI, §601, Dec. 18, 2014, 128 Stat. 3060, provided that:
 
 "(a)
 
@@ -272,17 +272,9 @@ Treatment of credential.—An equivalent credential under paragraph (1) shall be
 
 "(c)
 
-Limitation.—Subsection (a) applies only to vessels operating in and out of American Samoa or Guam.
-
-"(d)
-
 Expiration.—This section expires on the date the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America ceases to have effect for any party under Article 12.6 or 12.7 of such treaty, as in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 \[Dec. 20, 2012\].
 
-"(e)
-
-Safety Inspections.—A vessel may not engage a foreign citizen to meet a manning requirement under this section unless it has an annual safety examination by an individual authorized to enforce part B of subtitle II of title 46, United States Code.
-
-"(f)
+"(d)
 
 Reports.—On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
 

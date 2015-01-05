@@ -30,7 +30,7 @@
 
 (e) In time of war, or time of emergency declared by Congress or the President, the President may suspend the provisions of subsection (a).
 
-(Added Pub. L. 97–295, §1(14)(A), Oct. 12, 1982, 96 Stat. 1289; amended Pub. L. 100–180, div. A, title V, §513(a)(1), Dec. 4, 1987, 101 Stat. 1091; Pub. L. 100–456, div. A, title V, §521(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 101–189, div. A, title V, §513(a)–(c), Nov. 29, 1989, 103 Stat. 1440; Pub. L. 101–510, div. A, title XIV, §1484(k)(4), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 103–160, div. A, title V, §572, Nov. 30, 1993, 107 Stat. 1673; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 97–295, §1(14)(A), Oct. 12, 1982, 96 Stat. 1289; amended Pub. L. 100–180, div. A, title V, §513(a)(1), Dec. 4, 1987, 101 Stat. 1091; Pub. L. 100–456, div. A, title V, §521(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 101–189, div. A, title V, §513(a)–(c), Nov. 29, 1989, 103 Stat. 1440; Pub. L. 101–510, div. A, title XIV, §1484(k)(4), Nov. 5, 1990,104 Stat. 1719; Pub. L. 103–160, div. A, title V, §572, Nov. 30, 1993, 107 Stat. 1673; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 

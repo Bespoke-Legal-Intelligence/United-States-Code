@@ -44,7 +44,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(A) offering academic courses and clinical teaching experiences leading to a master's degree and designed to prepare individuals to teach in elementary schools and secondary schools, including such preparation as is necessary to meet the requirements for certification or licensing; and
 
-&emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
+&emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including therequirements of subsection (e), and to exchange ideas with others in their fields; and
 
 &emsp;(3) in the case of National Science Foundation Master Teaching Fellowships—
 

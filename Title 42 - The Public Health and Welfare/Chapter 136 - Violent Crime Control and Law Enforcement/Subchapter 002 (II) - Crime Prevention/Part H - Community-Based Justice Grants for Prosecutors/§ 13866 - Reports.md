@@ -2,7 +2,7 @@
 
 #### (a) Report to Attorney General
 
-State and local prosecutors that receive funds under this part shall submit to the Attorney General a report not later than March 1 of each year that describes progress achieved in carrying out the plan described under section 13863(c) of this title.
+State and local prosecutors that receive funds under this part shall submit to the AttorneyGeneral a report not later than March 1 of each year that describes progress achieved in carrying out the plan described under section 13863(c) of this title.
 
 #### (b) Report to Congress
 

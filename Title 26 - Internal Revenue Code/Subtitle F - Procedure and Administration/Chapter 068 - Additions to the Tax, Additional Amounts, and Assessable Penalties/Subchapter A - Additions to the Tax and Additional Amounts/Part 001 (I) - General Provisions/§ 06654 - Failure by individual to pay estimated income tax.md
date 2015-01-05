@@ -81,37 +81,13 @@ For purposes of this section—
 
 &nbsp;
 
-<b>The</b>
-
-<b>If the preceding taxable</b>
-
-<b>applicable</b>
-
-<b> year begins in:</b>
-
-<b>percentage is:</b>
-
-&nbsp;&nbsp;1998
-
-105&nbsp;&nbsp;
-
-&nbsp;&nbsp;1999
-
-108\.6&nbsp;&nbsp;
-
-&nbsp;&nbsp;2000
-
-110&nbsp;&nbsp;
-
-&nbsp;&nbsp;2001
-
-112&nbsp;&nbsp;
-
-&nbsp;&nbsp;2002 or thereafter
-
-110\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>  If the preceding taxable year   begins in:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| 1998 | 105&nbsp;&nbsp; |
+| 1999 | 108\.6&nbsp;&nbsp; |
+| 2000 | 110&nbsp;&nbsp; |
+| 2001 | 112&nbsp;&nbsp; |
+| 2002 or thereafter | 110\. |
 
 &emsp;&emsp;&nbsp;This clause shall not apply in the case of a preceding taxable year beginning in calendar year 1997.
 
@@ -145,7 +121,7 @@ For purposes of this section—
 
 #### (iv) Separate returns
 
-&emsp;&emsp;&emsp;In the case of a married individual (within the meaning of section 7703) who files aseparate return for the taxable year for which the amount of the installment is being determined, clause (ii)(I) shall be applied by substituting "$250,000" for "$500,000".
+&emsp;&emsp;&emsp;In the case of a married individual (within the meaning of section 7703) who files a separate return for the taxable year for which the amount of the installment is being determined, clause (ii)(I) shall be applied by substituting "$250,000" for "$500,000".
 
 #### (v) Estates and trusts
 
@@ -179,31 +155,14 @@ For purposes of this section—
 
 #### (ii) Applicable percentage
 
-<b> In the case of the following</b>
+&nbsp;
 
-<b>The applicable</b>
-
-<b>  required installments:</b>
-
-<b>percentage is:</b>
-
-&emsp;&emsp;1st
-
-22\.5&nbsp;&nbsp;
-
-&emsp;&emsp;2nd
-
-45&nbsp;&nbsp;
-
-&emsp;&emsp;3rd
-
-67\.5&nbsp;&nbsp;
-
-&emsp;&emsp;4th
-
-90\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>  In the case of the following   required installments:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| 1st | 22\.5&nbsp;&nbsp; |
+| 2nd | 45&nbsp;&nbsp; |
+| 3rd | 67\.5&nbsp;&nbsp; |
+| 4th | 90\. |
 
 #### (iii) Adjusted self-employment income
 
@@ -347,27 +306,14 @@ In the case of a nonresident alien described in section 6072(c):
 
 &emsp;&emsp;The applicable percentage for purposes of subsection (d)(2) shall be determined under the following table:
 
-<b> In the case of the following</b>
+&nbsp;
 
-<b>The applicable</b>
-
-<b>  required installments:</b>
-
-<b>percentage is:</b>
-
-&emsp;&emsp;1st
-
-45&nbsp;&nbsp;
-
-&emsp;&emsp;2nd
-
-67\.5&nbsp;&nbsp;
-
-&emsp;&emsp;3rd
-
-90\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> In the case of the following  required installments:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| 1st | 22\.5&nbsp;&nbsp; |
+| 2nd | 45&nbsp;&nbsp; |
+| 3rd | 67\.5&nbsp;&nbsp; |
+| 4th | 90\. |
 
 #### (k) Fiscal years and short years
 

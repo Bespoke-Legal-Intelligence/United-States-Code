@@ -6,7 +6,7 @@ There is established within the Executive Office of the President the Office of 
 
 #### (b) United States Trade Representative; Deputy United States Trade Representatives
 
-(1) The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive the same allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
+(1) The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to theCommittee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive the same allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
 
 (2) There shall be in the Office three Deputy United States Trade Representatives and one Chief Agricultural Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative or the Chief Agricultural Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative and the Chief Agricultural Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
 
@@ -28,7 +28,7 @@ There is established within the Executive Office of the President the Office of 
 
 &emsp;(F) report directly to the President and the Congress regarding, and be responsible to the President and the Congress for the administration of, trade agreements programs;
 
-&emsp;(G) advise the President and Congress with respect to nontariff barriers to international trade, international commodity agreements,and other matters which are related to the trade agreements programs;
+&emsp;(G) advise the President and Congress with respect to nontariff barriers to international trade, international commodity agreements, and other matters which are related to the trade agreements programs;
 
 &emsp;(H) be responsible for making reports to Congress with respect to matters referred to in subparagraphs (C) and (F);
 
@@ -94,7 +94,7 @@ There is established within the Executive Office of the President the Office of 
 
 The United States Trade Representative may, for the purpose of carrying out his functions under this section—
 
-&emsp;(1) subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their authority and duties, except that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceedthe rate of pay for level IV of the Executive Schedule in section 5314 <sup>1</sup> of title 5;
+&emsp;(1) subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their authority and duties, except that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule in section 5314 <sup>1</sup> of title 5;
 
 &emsp;(2) employ experts and consultants in accordance with section 3109 of title 5 and compensate individuals so employed for each day (including traveltime) at rates not in excess of the maximum rate of pay for grade GS–18 as provided in section 5332 of title 5 and while such experts and consultants are so serving away from their homes or regular place of business, to pay such employees travel expenses and per diem in lieu of subsistence at rates authorized by section 5703 of title 5 for persons in Government service employed intermittently;
 
@@ -194,7 +194,7 @@ Subsec. (c)(1)(D). Pub. L. 103–465, §621(a)(8)(B), inserted ", including any
 
 <b>1989</b>—Subsec. (g)(1). Pub. L. 101–207, in subpar. (A), substituted "1990" for "1988" and "$19,651,000" for "$15,172,000", and in subpar. (B), substituted "1990" for "1988" in introductory provisions, and "$89,000" for "$69,000" in cl. (i).
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–418, §1601(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The United States Trade Representative shall—
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–418, §1601(a)(1), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: "The United States Trade Representative shall—
 
 &emsp;"(A) be the chief representative of the United States for each trade negotiation under this subchapter or section 2411 of this title;
 
@@ -230,7 +230,7 @@ Subsec. (f)(1). Pub. L. 98–573, §703, substituted provisions authorizing appr
 
 Subsec. (b)(1). Pub. L. 97–456, §3(d)(1)(D), substituted "United States Trade Representative" for "Special Representative for Trade Negotiations" wherever appearing.
 
-Subsec. (b)(2). Pub. L. 97–456, §3(c), (d)(2)(A), (B), substituted "three Deputy United States Trade Representatives" for "two Deputy Special Representatives for Trade Negotiations" after "in the Office", "a Deputy United States Trade Representative" for "a Deputy Special Representative" after "any nomination of a",and "Deputy United States Trade Representative" for "Deputy Special Representative for Trade Negotiations" after "Each".
+Subsec. (b)(2). Pub. L. 97–456, §3(c), (d)(2)(A), (B), substituted "three Deputy United States Trade Representatives" for "two Deputy Special Representatives for Trade Negotiations" after "in the Office", "a Deputy United States Trade Representative" for "a Deputy Special Representative" after "any nomination of a", and "Deputy United States Trade Representative" for "Deputy Special Representative for Trade Negotiations" after "Each".
 
 Subsec. (c)(1). Pub. L. 97–456, §3(d)(1)(D), substituted "United States Trade Representative" for "Special Representative for Trade Negotiations" in provisions preceding subpar. (A).
 
@@ -370,7 +370,7 @@ The Trade Representative and the Secretary shall serve, ex officio and without v
 
 &emsp;(E) with respect to the functions transferred by subparagraph (C) of this paragraph, section 318 of the Tariff Act of 1930 (19 U.S.C. 1318), to be exercised in consultation with the Secretary of the Treasury;
 
-&emsp;(F) with respect to the functions transferred by subparagraph (C) of this paragraph, section 502(b) of the Tariff Act of 1930 (19 U.S.C. 1502(b)), and, insofar as it provides authority to issue regulations and disseminate information, to be exercised in consultation with the Secretary of the Treasury to the extent that the Secretary of the Treasury has responsibilityunder subparagraph (C), section 502(a) of such Act (19 U.S.C. 1502(a));
+&emsp;(F) with respect to the functions transferred by subparagraph (C) of this paragraph, section 502(b) of the Tariff Act of 1930 (19 U.S.C. 1502(b)), and, insofar as it provides authority to issue regulations and disseminate information, to be exercised in consultation with the Secretary of the Treasury to the extent that the Secretary of the Treasury has responsibility under subparagraph (C), section 502(a) of such Act (19 U.S.C. 1502(a));
 
 &emsp;(G) with respect to the functions transferred by subparagraph (C) of this paragraph, section 617 of the Tariff Act of 1930 (19 U.S.C. 1617); and
 
@@ -430,7 +430,7 @@ The trade machinery we now have cannot do this job effectively. Although the Spe
 
 This reorganization is designed to correct such deficiencies and to prepare us for strong enforcement of the MTN codes. It aims to improve our export promotion activities so that United States exporters can take full advantage of trade opportunities in foreign markets. It provides for the timely and efficient administration of our unfair trade laws. It also establishes an efficient mechanism for shaping an effective, comprehensive United States trade policy.
 
-To achieve these objectives, I propose to place policy coordination and negotiation—those international trade functions that most require comprehensiveness,influence, and Government-wide perspective—in the Executive Office of the President. I propose to place operational and implementation responsibilities, which are staff-intensive, in line departments that have the requisite resources and knowledge of the major sectors of our economy to handle them. I have concluded that building our trade structure on STR and Commerce, respectively, best satisfies these considerations.
+To achieve these objectives, I propose to place policy coordination and negotiation—those international trade functions that most require comprehensiveness, influence, and Government-wide perspective—in the Executive Office of the President. I propose to place operational and implementation responsibilities, which are staff-intensive, in line departments that have the requisite resources and knowledge of the major sectors of our economy to handle them. I have concluded that building our trade structure on STR and Commerce, respectively, best satisfies these considerations.
 
 I propose to enhance STR, to be renamed the Office of the United States Trade Representative, by centralizing in it international trade policy development, coordination and negotiation functions. The Commerce Department will become the focus of non-agricultural operational trade responsibilities by adding to its existing duties those for commercial representation abroad, antidumping and countervailing duty cases, the non-agricultural aspects of MTN implementation, national security investigations, and embargoes.
 
@@ -452,7 +452,7 @@ The Trade Representative, with the advice of the Trade Policy Committee, will be
 
 The Trade Representative will have the lead role in bilateral and multilateral trade, commodity, and direct investment negotiations. The Trade Representative will represent the United States in General Agreement on Tariffs and Trade (GATT) matters. Since the GATT will be the principal international forum for implementing and interpreting the MTN agreements and since GATT meetings, including committee and working group meetings, occur almost continuously, the Trade Representative will have a limited number of permanent staff in Geneva. In some cases, it may be necessary to assign a small number of USTR staff abroad to assist in oversight of MTN enforcement. In this event, appropriate positions will be authorized. In recognition of the responsibility of the Secretary of State regarding our foreign policy, the activities of overseas personnel of the Trade Representative and the Commerce Department will be fully coordinated with other elements of our diplomatic missions.
 
-In addition to his role with regard to GATT matters, the Trade Representative will have the lead responsibility for trade and commodity matters considered in the Organization for Economic Cooperation and Development (OECD) and the United Nations Conference on Trade and Development (UNCTAD) when such matters are the primary issues under negotiation. Because of the Secretary of State's foreign policy responsibilities, and the responsibilities of the Director of the International Development Cooperation Agency as the President's principal advisor on development, the Trade Representative will exercise his OECD and UNCTAD responsibilities in close cooperation with these officials.
+In addition to his role with regard to GATT matters, the Trade Representative will have the lead responsibility for trade and commodity matters considered inthe Organization for Economic Cooperation and Development (OECD) and the United Nations Conference on Trade and Development (UNCTAD) when such matters are the primary issues under negotiation. Because of the Secretary of State's foreign policy responsibilities, and the responsibilities of the Director of the International Development Cooperation Agency as the President's principal advisor on development, the Trade Representative will exercise his OECD and UNCTAD responsibilities in close cooperation with these officials.
 
 To ensure that all trade negotiations are handled consistently and that our negotiating leverage is employed to the maximum, the Trade Representative will manage the negotiation of particular issues. Where appropriate, the Trade Representative may delegate responsibility for negotiations to other agencies with expertise on the issues under consideration. He will coordinate the operational aspects of negotiations through a Trade Negotiating Committee, chaired by the Trade Representative and including the Departments of Commerce, State, Treasury, Agriculture and Labor.
 

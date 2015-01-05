@@ -84,7 +84,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(i) to pay on behalf of the individual loans in accordance with subsection (g) of this section; and
 
-&emsp;&emsp;&emsp;(ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h of this title and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+&emsp;&emsp;&emsp;(ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h of this title and section 254j of this title) the individualinto the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 &emsp;&emsp;(B) subject to paragraph (3), the individual agrees—
 
@@ -148,7 +148,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic or other training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 111–148, title X, §10501(n)(4), Mar. 23, 2010, 124 Stat. 1003.)
+(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 111–148, title X, §10501(n)(4), Mar. 23, 2010, 124 Stat. 1003.)
 
 #### Prior Provisions
 
@@ -234,7 +234,7 @@ Subsec. (g)(1). Pub. L. 101–597, §202(f)(1), inserted "regarding the undergra
 
 Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in cls. (ii) and (iii).
 
-Pub. L. 101–597, §202(f)(2)(A), substituted "For each year" for "Except as provided in subparagraph (B) and paragraph (3), for each year" and "$35,000" for "$20,000", inserted at end "In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—", and added immediately thereafter cls. (i) to (iii).
+Pub. L. 101–597, §202(f)(2)(A), substituted "For each year" for "Except as provided in subparagraph (B) and paragraph (3), for each year" and "$35,000" for "$20,000", inserted at end "In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent towhich each such determination—", and added immediately thereafter cls. (i) to (iii).
 
 Subsec. (g)(2)(B), (C). Pub. L. 101–597, §202(f)(2)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "For each year of obligated service that an individual contracts under subsection (f) of this section to serve in the Indian Health Service, or to serve in a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (25 U.S.C. 450f et seq.), the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1)."
 

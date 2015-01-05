@@ -26,7 +26,7 @@ In carrying out the provisions of this section, the Administrator shall conduct,
 
 &emsp;(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recycling water and confining pollutants so they will not migrate to cause water or other environmental pollution; and
 
-&emsp;(3) improved methods and procedures to identify and measure the effects of pollutants on the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
+&emsp;(3) improved methods and procedures to identify and measure the effects of pollutantson the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
 
 #### (e) Research and demonstration projects covering agricultural pollution and pollution from sewage in rural areas; dissemination of information
 
@@ -54,7 +54,7 @@ For the purpose of this section there is authorized to be appropriated $75,000,0
 
 #### (i) Assistance for research and demonstration projects
 
-The Administrator is authorized to make grants to a municipality to assist in the costs ofoperating and maintaining a project which received a grant under this section, section 1254 of this title, or section 1263 of this title prior to December 27, 1977, so as to reduce the operation and maintenance costs borne by the recipients of services from such project to costs comparable to those for projects assisted under subchapter II of this chapter.
+The Administrator is authorized to make grants to a municipality to assist in the costs of operating and maintaining a project which received a grant under this section, section 1254 of this title, or section 1263 of this title prior to December 27, 1977, so as to reduce the operation and maintenance costs borne by the recipients of services from such project to costs comparable to those for projects assisted under subchapter II of this chapter.
 
 #### (j) Assistance for recycle, reuse, and land treatment projects
 

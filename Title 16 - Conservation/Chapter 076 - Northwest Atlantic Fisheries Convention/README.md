@@ -12,7 +12,7 @@
 | [5608\.](%C2%A7%2005608%20-%20Administrative%20matters.md) | Administrative matters. |
 | [5609\.](%C2%A7%2005609%20-%20Definitions.md) | Definitions. |
 | [5610\.](%C2%A7%2005610%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [5611\.](%C2%A7%2005611%20-%20Annual%20report.md) | Annual report. |
+| [5611\.](%C2%A7%2005611%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93188%2C%20title%20II%2C%20%C2%A7201%28f%29%2C%20Nov.%2026%2C%202014%2C%20128%20Stat.%202018.md) | Repealed. |
 | [5612\.](%C2%A7%2005612%20-%20Quota%20allocation%20practice.md) | Quota allocation practice. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,5 +32,5 @@
 - [&sect; 05608 - Administrative matters](%C2%A7%2005608%20-%20Administrative%20matters.md)
 - [&sect; 05609 - Definitions](%C2%A7%2005609%20-%20Definitions.md)
 - [&sect; 05610 - Authorization of appropriations](%C2%A7%2005610%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 05611 - Annual report](%C2%A7%2005611%20-%20Annual%20report.md)
+- [&sect; 05611 - Repealed. Pub. L. 113&#8211;188, title II, &sect;201(f), Nov. 26, 2014, 128 Stat. 2018](%C2%A7%2005611%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93188%2C%20title%20II%2C%20%C2%A7201%28f%29%2C%20Nov.%2026%2C%202014%2C%20128%20Stat.%202018.md)
 - [&sect; 05612 - Quota allocation practice](%C2%A7%2005612%20-%20Quota%20allocation%20practice.md)

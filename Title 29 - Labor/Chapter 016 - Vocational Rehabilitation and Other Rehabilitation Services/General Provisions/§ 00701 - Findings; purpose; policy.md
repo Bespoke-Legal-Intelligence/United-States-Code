@@ -22,15 +22,19 @@ Congress finds that—
 
 &emsp;&emsp;(F) enjoy full inclusion and integration in the economic, political, social, cultural, and educational mainstream of American society;
 
-&emsp;(4) increased employment of individuals with disabilities can be achieved through implementation of statewide workforce investment systems under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] that provide meaningful and effective participation for individuals with disabilities in workforce investment activities and activities carried out under the vocational rehabilitation program established under subchapter I of this chapter, and through the provision of independent living services, support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
+&emsp;(4) increased employment of individuals with disabilities can be achieved through implementation of statewide workforce development systems defined in section 3102 of this title that provide meaningful and effective participation for individuals with disabilities in workforce investment activities and activities carried out under the vocational rehabilitation program established under subchapter I of this chapter, and through the provision of independent living services, support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
 
-&emsp;(5) individuals with disabilities continually encounter various forms of discrimination in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and public services; and
+&emsp;(5) individuals with disabilities continually encounter various forms of discrimination in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and public services;
 
 &emsp;(6) the goals of the Nation properly include the goal of providing individuals with disabilities with the tools necessary to—
 
 &emsp;&emsp;(A) make informed choices and decisions; and
 
-&emsp;&emsp;(B) achieve equality of opportunity, full inclusion and integration in society, employment, independent living, and economic and social self-sufficiency, for such individuals.
+&emsp;&emsp;(B) achieve equality of opportunity, full inclusion and integration in society, employment, independent living, and economic and social self-sufficiency, for such individuals; and
+
+&emsp;(7)(A) a high proportion of students with disabilities is leaving secondary education without being employed in competitive integrated employment, or being enrolled in postsecondary education; and
+
+&emsp;(B) there is a substantial need to support such students as they transition from school to postsecondary life.
 
 #### (b) Purpose
 
@@ -38,7 +42,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to empower individuals with disabilities to maximize employment, economic self-sufficiency, independence, and inclusion and integration into society, through—
 
-&emsp;&emsp;(A) statewide workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] that include, as integral components, comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
+&emsp;&emsp;(A) statewide workforce development systems defined in section 3102 of this title that include, as integral components, comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
 
 &emsp;&emsp;(B) independent living centers and services;
 
@@ -48,9 +52,15 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(E) demonstration projects; and
 
-&emsp;&emsp;(F) the guarantee of equal opportunity; and
+&emsp;&emsp;(F) the guarantee of equal opportunity;
 
-&emsp;(2) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with significant disabilities, and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living.
+&emsp;(2) to maximize opportunities for individuals with disabilities, including individuals with significant disabilities, for competitive integrated employment;
+
+&emsp;(3) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with significant disabilities, and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living;
+
+&emsp;(4) to increase employment opportunities and employment outcomes for individuals with disabilities, including through encouraging meaningful input by employers and vocational rehabilitation service providers on successful and prospective employment and placement strategies; and
+
+&emsp;(5) to ensure, to the greatest extent possible, that youth with disabilities and students with disabilities who are transitioning from receipt of special education services under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) and receipt of services under section 794 of this title have opportunities for postsecondary success.
 
 #### (c) Policy
 
@@ -66,17 +76,25 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(5) support for individual and systemic advocacy and community involvement.
 
-(Pub. L. 93–112, §2, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1095; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
+(Pub. L. 93–112, §2, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1095; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, §402, July 22, 2014, 128 Stat. 1631.)
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(4) and (b)(1)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(5), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Prior Provisions
 
 A prior section 701, Pub. L. 93–112, §2, Sept. 26, 1973, 87 Stat. 357; Pub. L. 95–602, title I, §122(a)(1), Nov. 6, 1978, 92 Stat. 2984; Pub. L. 99–506, title I, §101, Oct. 21, 1986, 100 Stat. 1808; Pub. L. 102–569, title I, §101, Oct. 29, 1992, 106 Stat. 4346, related to findings, purpose, and policy, prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(4). Pub. L. 113–128, §402(a)(1), substituted "workforce development systems defined in section 3102 of this title" for "workforce investment systems under title I of the Workforce Investment Act of 1998".
+
+Subsec. (a)(7). Pub. L. 113–128, §402(a)(2)–(4), added par. (7).
+
+Subsec. (b)(1)(A). Pub. L. 113–128, §402(b)(1)(A), substituted "workforce development systems defined in section 3102 of this title" for "workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998".
+
+Subsec. (b)(2) to (5). Pub. L. 113–128, §402(b)(1)(B), (2)–(5), added par. (2), redesignated former par. (2) as (3), and added pars. (4) and (5).
 
 <b>1998</b>—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
 
@@ -88,9 +106,11 @@ Pub. L. 111–213, §1, July 29, 2010, 124 Stat. 2343, provided that: "This Act 
 
 Pub. L. 105–220, title IV, §401, Aug. 7, 1998, 112 Stat. 1092, provided that: "This title \[see Tables for classification\] may be cited as the 'Rehabilitation Act Amendments of 1998'."
 
+<i>\[Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], section 401 of Pub. L. 105–220, set out above, is repealed.\]</i>
+
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–73, §1, Aug. 11, 1993, 107 Stat. 718, provided that: "This Act \[enacting sections 753 and 753a of this title, amending sections 706, 718 to 718b, 721 to 723, 725,730 to 732, 744, 761a, 762, 771a, 777, 777a, 777f, 783, 791, 792, 794e, 795l, 796, 796c, 796d to 796e–2, 796f to 796f–4, and 796k of this title, sections 1431, 4301 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of Title 20, Education, and section 46 of Title 41, Public Contracts, enacting provisions set out as notes under section 725 of this title and section 4301 of Title 20, and amending provisions set out as a note under this section\] may be cited as the 'Rehabilitation Act Amendments of 1993'."
+Pub. L. 103–73, §1, Aug. 11, 1993, 107 Stat. 718, provided that: "This Act \[enacting sections 753 and 753a of this title, amending sections 706, 718 to 718b, 721 to 723, 725, 730 to 732, 744, 761a, 762, 771a, 777, 777a, 777f, 783, 791, 792, 794e, 795l, 796, 796c, 796d to 796e–2, 796f to 796f–4, and 796k of this title, sections 1431, 4301 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of Title 20, Education, and section 46 of Title 41, Public Contracts, enacting provisions set out as notes under section 725 of this title and section 4301 of Title 20, and amending provisions set out as a note under this section\] may be cited as the 'Rehabilitation Act Amendments of 1993'."
 
 #### Short Title of 1992 Amendment
 
@@ -190,7 +210,7 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (a) To ensure that the Federal Government is a model employer of adults with disabilities, by November 15, 1998, the Office of Personnel Management, the Department of Labor, and the Equal Employment Opportunity Commission shall submit to the Task Force a review of Federal Government personnel laws, regulations, and policies and, as appropriate, shall recommend or implement changes necessary to improve Federal employment policy for adults with disabilities. This review shall include personnel practices and actions such as: hiring, promotion, benefits, retirement, workers' compensation, retention, accessible facilities, job accommodations, layoffs, and reductions in force.
 
-(b) The Departments of Justice, Labor, Education, and Health and Human Services shall report to the Task Force by November 15, 1998, on their work with the States and others to ensure that the Personal Responsibility and Work Opportunity Reconciliation Act \[probably means the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see Tables for classification\] is carried out in accordance with section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], as amended, and the Americans withDisabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], so that individuals with disabilities and their families can realize the full promise of welfare reform by having an equal opportunity for employment.
+(b) The Departments of Justice, Labor, Education, and Health and Human Services shall report to the Task Force by November 15, 1998, on their work with the States and others to ensure that the Personal Responsibility and Work Opportunity Reconciliation Act \[probably means the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193,see Tables for classification\] is carried out in accordance with section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], as amended, and the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], so that individuals with disabilities and their families can realize the full promise of welfare reform by having an equal opportunity for employment.
 
 (c) The Departments of Education, Labor, Commerce, and Health and Human Services, the Small Business Administration, and the President's Committee on Employment of People with Disabilities shall work together and report to the Task Force by November 15, 1998, on their work to develop small business and entrepreneurial opportunities for adults with disabilities and strategies for assisting low-income adults, including those with disabilities\[,\] to create small businesses and micro-enterprises. These same agencies, in consultation with the Committee for Purchase from People Who Are Blind or Severely Disabled, shall assess the impact of the Randolph-Sheppard Act \[20 U.S.C. 107 et seq.\] vending program and the Javits-Wagner-O'Day Act \[now 41 U.S.C. 8501 et seq.\] on employment and small business opportunities for people with disabilities.
 
@@ -232,7 +252,7 @@ Sec. 2. <i>Functions</i>. (a) The Board shall provide advice and information to 
 
 &emsp;(ii) identify strategies that may be used by employers, labor unions, national and international organizations, and Federal, State, and local officials to increase employment opportunities for people with disabilities; and
 
-&emsp;(iii) coordinate with the Office of Disability Employment Policy in the Department of Labor in promoting the collaborative use of public and private resources to assist people with disabilities in forming and expanding small business concerns and in enhancing their access to Federal procurement and other relevant business opportunities. Public resources include those of the Department of Labor, the Small Business Administration, the Department of Commerce, the Department of Education, the Department of Defense, the Department of Treasury, the Department of Veterans Affairs, the Federal Communications Commission, and of executive departments and agency offices responsible for small, disadvantaged businesses utilization.
+&emsp;(iii) coordinate with the Office of Disability Employment Policy in the Department of Labor in promoting the collaborative use of public and private resources to assist people with disabilities in formingand expanding small business concerns and in enhancing their access to Federal procurement and other relevant business opportunities. Public resources include those of the Department of Labor, the Small Business Administration, the Department of Commerce, the Department of Education, the Department of Defense, the Department of Treasury, the Department of Veterans Affairs, the Federal Communications Commission, and of executive departments and agency offices responsible for small, disadvantaged businesses utilization.
 
 (c) The Board shall submit annual written reports to the President, who may apprise the Congress and other interested organizations and individuals on its activities, progress, and problems relating to maximizing employment opportunities for people with disabilities.
 

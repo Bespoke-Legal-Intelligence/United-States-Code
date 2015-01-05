@@ -40,7 +40,7 @@ Factors.—In establishing or revising such system, the Postal Regulatory Commis
 
 &emsp;(5) the degree of preparation of mail for delivery into the postal system performed by the mailer and its effect upon reducing costs to the Postal Service;
 
-&emsp;(6) simplicity of structure for the entire schedule and simple, identifiable relationshipsbetween the rates or fees charged the various classes of mail for postal services;
+&emsp;(6) simplicity of structure for the entire schedule and simple, identifiable relationships between the rates or fees charged the various classes of mail for postal services;
 
 &emsp;(7) the importance of pricing flexibility to encourage increased mail volume and operational efficiency;
 

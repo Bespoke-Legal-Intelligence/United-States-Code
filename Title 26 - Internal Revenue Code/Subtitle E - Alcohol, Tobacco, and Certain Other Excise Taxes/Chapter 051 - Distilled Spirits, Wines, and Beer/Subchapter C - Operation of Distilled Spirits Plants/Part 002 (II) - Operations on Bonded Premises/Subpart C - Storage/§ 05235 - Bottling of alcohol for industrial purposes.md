@@ -1,6 +1,6 @@
 ### §5235. Bottling of alcohol for industrial purposes
 
-Alcohol for industrial purposes may be bottled, labeled, and cased on bonded premises of a distilled spirits plant prior to payment or determination of tax, under such regulations as the Secretary may prescribe.
+Alcohol for industrial purposes may be bottled, labeled, and cased on bonded premises of adistilled spirits plant prior to payment or determination of tax, under such regulations as the Secretary may prescribe.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(36), July 26, 1979, 93 Stat. 286; Pub. L. 98–369, div. A, title IV, §454(c)(8), July 18, 1984, 98 Stat. 821.)
 

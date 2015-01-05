@@ -6,7 +6,7 @@ Record of Service.—The Secretary, or in the case of personnel of the Army Tran
 
 &emsp;(1) issue a certificate of honorable service to a person who, as determined by that Secretary, engaged in qualified service of a nature and duration that warrants issuance of the certificate; and
 
-&emsp;(2) correct, or request the appropriate official of the Federal Government to correct, the service records of that person to the extent necessary to reflect the qualified service and the issuance of the certificate of honorable service.
+&emsp;(2) correct, or request the appropriate official of the Federal Government to correct, the service records of that person to the extent necessary to reflect the qualified service andthe issuance of the certificate of honorable service.
 
 (b)
 

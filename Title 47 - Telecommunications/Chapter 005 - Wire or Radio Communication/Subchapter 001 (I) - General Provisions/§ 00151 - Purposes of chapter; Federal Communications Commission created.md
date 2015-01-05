@@ -16,7 +16,7 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 #### Moratorium on Internet Taxes
 
-Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618; Pub. L. 110–108, §§2–6, Oct. 31, 2007, 121 Stat. 1024–1026, provided that:
+Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618; Pub. L. 110–108, §§2–6, Oct. 31, 2007, 121 Stat. 1024–1026; Pub. L. 113–235, div. E, title VI, §624, Dec. 16, 2014, 128 Stat. 2377, provided that:
 
 #### "SEC. 1100. SHORT TITLE.
 
@@ -26,7 +26,7 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as ame
 
 "(a)
 
-Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending November 1, 2014:
+Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending October 1, 2015:
 
 &emsp;"(1) Taxes on Internet access.
 
@@ -34,7 +34,7 @@ Moratorium.—No State or political subdivision thereof may impose any of the fo
 
 "(b)
 
-Preservation of State and Local Taxing Authority.—Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, orsuperseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
+Preservation of State and Local Taxing Authority.—Except as provided in this section, nothingin this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
 
 "(c)
 
@@ -290,7 +290,7 @@ Termination.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), this subsection shall not apply after November 1, 2014.
+In general.—Except as provided in subparagraph (B), this subsection shall not apply after October 1, 2015.
 
 &emsp;&emsp;"(B)
 

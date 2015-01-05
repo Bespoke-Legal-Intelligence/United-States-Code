@@ -10,7 +10,7 @@ No person shall—
 
 &emsp;&emsp;(B) which, after removal without payment of tax pursuant to section 5704, have been diverted from the applicable purpose or use specified in that section; or
 
-&emsp;(2) with intent to defraud the United States, purchase, receive, possess, offer for sale, orsell or otherwise dispose of, after removal, any tobacco products or cigarette papers or tubes, which are not put up in packages as required under section 5723 or which are put up in packages not bearing the marks, labels, and notices, as required under such section; or
+&emsp;(2) with intent to defraud the United States, purchase, receive, possess, offer for sale, or sell or otherwise dispose of, after removal, any tobacco products or cigarette papers or tubes, which are not put up in packages as required under section 5723 or which are put up in packages not bearing the marks, labels, and notices, as required under such section; or
 
 &emsp;(3) otherwise than with intent to defraud the United States, purchase, receive, possess, offer for sale, or sell or otherwise dispose of, after removal, any tobacco products or cigarette papers or tubes, which are not put up in packages as required under section 5723 or which are put up in packages not bearing the marks, labels, and notices, as required under such section. This paragraph shall not prevent the sale or delivery of tobacco products or cigarette papers or tubes directly to consumers from proper packages, nor apply to such articles when so sold or delivered.
 
@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 85–859 substituted "tobacco products or cigarette papers 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
 #### Effective Date of 1958 Amendment
 

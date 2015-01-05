@@ -12,7 +12,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 #### (1) Records and accounts to be maintained
 
-&emsp;The Secretary may by regulations require each person who is, or has been, a UnitedStates shareholder of a controlled foreign corporation to maintain such records and accounts as may be prescribed by such regulations as necessary to carry out the provisions of this subpart and subpart G.
+&emsp;The Secretary may by regulations require each person who is, or has been, a United States shareholder of a controlled foreign corporation to maintain such records and accounts as may be prescribed by such regulations as necessary to carry out the provisions of this subpart and subpart G.
 
 #### (2) Two or more persons required to maintain or furnish the same records and accounts with respect to the same foreign corporation
 
@@ -88,7 +88,7 @@ Pub. L. 105–34, title XI, §1111(c)(1), Aug. 5, 1997, 111 Stat. 969, provided 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VI, §6129(b), Nov. 10, 1988, 102 Stat. 3716, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1988."
+Pub. L. 100–647, title VI, §6129(b), Nov. 10, 1988, 102 Stat. 3716, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1988."
 
 #### Effective Date of 1982 Amendment
 

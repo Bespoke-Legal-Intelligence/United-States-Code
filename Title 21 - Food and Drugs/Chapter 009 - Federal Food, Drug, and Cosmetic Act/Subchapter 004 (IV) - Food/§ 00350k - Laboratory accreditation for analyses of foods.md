@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(A) shall periodically, and in no case less than once every 5 years, reevaluate accreditation bodies recognized under paragraph (1) and may accompany auditors from an accreditation body to assess whether the accreditation body meets the criteria for recognition; and
 
-&emsp;&emsp;(B) shall promptly revoke the recognition of any accreditation body found not to be in compliance with the requirements of this section, specifying, as appropriate, any terms and conditions necessary for laboratories accredited by such body to continue to perform testing as described in this section.
+&emsp;&emsp;(B) shall promptly revoke the recognition of any accreditation body found not to be incompliance with the requirements of this section, specifying, as appropriate, any terms and conditions necessary for laboratories accredited by such body to continue to perform testing as described in this section.
 
 #### (b) Testing procedures
 

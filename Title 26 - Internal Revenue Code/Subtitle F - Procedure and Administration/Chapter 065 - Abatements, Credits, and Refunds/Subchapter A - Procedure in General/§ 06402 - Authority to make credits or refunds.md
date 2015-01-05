@@ -124,7 +124,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (7) Erroneous payment to State
 
-&emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to suchState under such paragraph have been paid to such State).
+&emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
 
 #### (f) Collection of unemployment compensation debts
 
@@ -182,7 +182,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may issue regulations prescribing the time and manner in which States must submit notices of covered unemployment compensation debt and the necessary information that must be contained in or accompany such notices. The regulations may specify the minimum amount of debt to which the reduction procedure established by paragraph (1) may be applied.
+&emsp;&emsp;The Secretary may issue regulations prescribing the time and manner in which States must submit notices of covered unemployment compensation debt and the necessary information that must be containedin or accompany such notices. The regulations may specify the minimum amount of debt to which the reduction procedure established by paragraph (1) may be applied.
 
 #### (B) Fee payable to Secretary
 
@@ -194,7 +194,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (6) Erroneous payment to State
 
-&emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordancewith such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
+&emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
 
 #### (g) Review of reductions
 
@@ -230,7 +230,7 @@ The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), i
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–291, §801(a)(1), struck out "resulting from fraud" after "debts" in heading.
 
-Subsec. (f)(3). Pub. L. 111–291, §801(a)(2), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: "Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset."
+Subsec. (f)(3). Pub. L. 111–291, §801(a)(2), redesignated par. (4) as (3) and struck out former par. (3). Prior toamendment, text of par. (3) read as follows: "Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset."
 
 Subsec. (f)(3)(A). Pub. L. 111–291, §801(a)(3)(A), struck out "by certified mail with return receipt" after "notifies".
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 109–171 effective Oct. 1, 2009, and applicable to payment
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3505(b), July 22, 1998, 112 Stat. 771, provided that: "The amendment made by thissection \[amending this section\] shall apply to disallowances after the 180th day after the date of the enactment of this Act \[July 22, 1998\]."
+Pub. L. 105–206, title III, §3505(b), July 22, 1998, 112 Stat. 771, provided that: "The amendment made by this section \[amending this section\] shall apply to disallowances after the 180th day after the date of the enactment of this Act \[July 22, 1998\]."
 
 Amendment by section 3711 of Pub. L. 105–206 applicable to refunds payable under this section after Dec. 31, 1999, see section 3711(d) of Pub. L. 105–206, set out as a note under section 6103 of this title.
 
@@ -410,7 +410,7 @@ Pub. L. 100–203, title IX, §9402(b), Dec. 22, 1987, 101 Stat. 1330–376, pro
 
 "(1) Nothing in the amendments made by section 2653 of the Deficit Reduction Act of 1984 \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\] shall be construed as exempting debts of corporations or any other category of persons from the application of such amendments.
 
-"(2) It is the intent of the Congress that, to the extent practicable, the amendments made by section 2653 of the Deficit Reduction Act of 1984 shall extend to all Federal agencies (as defined in the amendments made by such section).
+"(2) It is the intent of the Congress that, to the extent practicable, the amendments made by section 2653of the Deficit Reduction Act of 1984 shall extend to all Federal agencies (as defined in the amendments made by such section).
 
 "(3) The Secretary of the Treasury shall issue regulations to carry out the purposes of this subsection."
 

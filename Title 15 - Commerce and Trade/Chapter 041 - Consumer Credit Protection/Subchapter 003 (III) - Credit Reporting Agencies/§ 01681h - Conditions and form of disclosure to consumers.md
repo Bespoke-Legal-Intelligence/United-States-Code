@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 104–208, §2408(e)(1), inserted heading and amended text 
 
 &emsp;"(2) by telephone if he has made a written request, with proper identification, for telephone disclosure and the toll charge, if any, for the telephone call is prepaid by or charged directly to the consumer."
 
-Subsec. (e). Pub. L. 104–208, §2408(e)(4), inserted "or based on information disclosed by a user of a consumer report to or for a consumer against whom the user hastaken adverse action, based in whole or in part on the report" before "except".
+Subsec. (e). Pub. L. 104–208, §2408(e)(4), inserted "or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report" before "except".
 
 #### Effective Date of 1996 Amendment
 

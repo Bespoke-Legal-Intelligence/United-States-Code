@@ -82,7 +82,7 @@ In carrying out the grant program established under this section, the Assistant 
 
 #### (iv) Disapproval
 
-&emsp;&emsp;&emsp;If the Commission disapproves a plan under this subparagraph, the construction,maintenance, operation, and improvements of the network within the State shall proceed in accordance with the plan proposed by the First Responder Network Authority.
+&emsp;&emsp;&emsp;If the Commission disapproves a plan under this subparagraph, the construction, maintenance, operation, and improvements of the network within the State shall proceed in accordance with the plan proposed by the First Responder Network Authority.
 
 #### (D) Funding requirements
 

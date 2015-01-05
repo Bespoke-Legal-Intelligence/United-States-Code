@@ -1,6 +1,6 @@
 ### §553. Setoff
 
-(a) Except as otherwise provided in this section and in sections 362 and 363 of this title, this title does not affect any right of a creditor to offset a mutual debt owing by such creditor to the debtor that arose before the commencement of the case under this title against a claim of such creditor against the debtor that arose before the commencement of the case, except to the extent that—
+(a) Except as otherwise provided in this section and in sections 362 and 363 of this title, thistitle does not affect any right of a creditor to offset a mutual debt owing by such creditor to the debtor that arose before the commencement of the case under this title against a claim of such creditor against the debtor that arose before the commencement of the case, except to the extent that—
 
 &emsp;(1) the claim of such creditor against the debtor is disallowed;
 
@@ -26,7 +26,7 @@
 
 &emsp;(B) the first date during the 90 days immediately preceding the date of the filing of the petition on which there is an insufficiency.
 
-(2) In this subsection, "insufficiency" means amount, if any, by which a claim against thedebtor exceeds a mutual debt owing to the debtor by the holder of such claim.
+(2) In this subsection, "insufficiency" means amount, if any, by which a claim against the debtor exceeds a mutual debt owing to the debtor by the holder of such claim.
 
 (c) For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
 

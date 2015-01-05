@@ -1,0 +1,24 @@
+### §312103. Principal office
+
+The National Trust shall have its principal office in the District of Columbia and shall be deemed, for purposes of venue in civil actions, to be a resident of the District of Columbia. The National Trust may establish offices in other places as it may consider necessary or appropriate in the conduct of its business.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3249.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+312103
+
+16 U.S.C. 468a.
+
+Oct. 26, 1949, ch. 735, §2, 63 Stat. 927.
+
+The words "inhabitant and" are omitted as unnecessary.
+

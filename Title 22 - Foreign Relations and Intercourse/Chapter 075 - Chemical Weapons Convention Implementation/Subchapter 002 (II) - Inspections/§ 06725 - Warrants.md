@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in section 6724(a) of this title. If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b) of this section, the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
+The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in section 6724(a) of this title. If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b), the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
 
 #### (b) Routine inspections
 
@@ -28,13 +28,13 @@ The United States Government shall seek the consent of the owner or the operator
 
 &emsp;&emsp;(D) the items, documents, and areas to be searched and seized;
 
-&emsp;&emsp;(E) in the case of a facility related to Schedule 2 or Schedule 3 chemical agents or unscheduled discrete organic chemicals, the plant site has not been subject to more than 1 routine inspection in the current calendar year, and, in the case of facilities related to Schedule 3 chemical agents or unscheduled discrete organic chemicals, the inspection will not cause the number of routine inspections in the United States to exceed 20 in a calendar year;
+&emsp;&emsp;(E) in the case of a facility related to Schedule 2 or Schedule 3 chemical agents or unscheduled discrete organic chemicals, the plant site has not been subject to more than 1 routine inspection in the current calendar year, and, in the case of facilities related to Schedule 3 chemical agents or unscheduled discrete organic chemicals, the inspectionwill not cause the number of routine inspections in the United States to exceed 20 in a calendar year;
 
 &emsp;&emsp;(F) the selection of the site was made in accordance with procedures established under the Convention and, in particular—
 
 &emsp;&emsp;&emsp;(i) in the case of any facility owned or operated by a non-Government entity related to Schedule 1 chemical agents, the intensity, duration, timing, and mode of the requested inspection is based on the risk to the object and purpose of the Convention by the quantities of chemical produced, the characteristics of the facility and the nature of activities carried out at the facility, and the requested inspection, when considered with previous such inspections of the facility undertaken in the current calendar year, shall not exceed the number reasonably required based on the risk to the object and purpose of the Convention as described above;
 
-&emsp;&emsp;&emsp;(ii) in the case of any facility related to Schedule 2 chemical agents, the Technical Secretariat gave due consideration to the risk to the object and purpose of the Convention posed by the relevant chemical, the characteristics of the plant site andthe nature of activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections; and
+&emsp;&emsp;&emsp;(ii) in the case of any facility related to Schedule 2 chemical agents, the Technical Secretariat gave due consideration to the risk to the object and purpose of the Convention posed by the relevant chemical, the characteristics of the plant site and the nature of activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections; and
 
 &emsp;&emsp;&emsp;(iii) in the case of any facility related to Schedule 3 chemical agents or unscheduled discrete organic chemicals, the facility was selected randomly by the Technical Secretariat using appropriate mechanisms, such as specifically designed computer software, on the basis of two weighting factors: (I) equitable geographical distribution of inspections; and (II) the information on the declared sites available to the Technical Secretariat, related to the relevant chemical, the characteristics of the plant site, and the nature of activities carried out there;
 

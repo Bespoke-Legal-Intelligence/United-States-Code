@@ -104,7 +104,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &emsp;&emsp;&emsp;"(aa) the State family assistance grant; multiplied by
 
-&emsp;&emsp;&emsp;"(bb) 1/366 of the number of days during the period that begins on the date the Secretaryof Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[42 U.S.C. 602(a)\] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and
+&emsp;&emsp;&emsp;"(bb) 1/366 of the number of days during the period that begins on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[42 U.S.C. 602(a)\] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for fiscal year 1997, shall be an amount equal to the lesser of—
 
@@ -114,7 +114,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &emsp;&emsp;&emsp;"(iii)
 
-Child care obligations excluded in determining federal afdc obligations.—As used in this subparagraph, the term 'obligations of the Federal Government to the State under part A of title IV of the Social Security Act' does not include any obligation of the Federal Government with respect to child care expenditures by the State.
+Child care obligations excluded in determining federal afdc obligations.—As used in this subparagraph, the term 'obligations of the Federal Government to the State under part A of title IV of the Social Security Act' does not include any obligation of the Federal Governmentwith respect to child care expenditures by the State.
 
 &emsp;&emsp;"(C)
 
@@ -276,5 +276,5 @@ Provisions of Law.—The provisions of law specified in this subsection are the 
 
 &emsp;"(1) Part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (relating to block grants for temporary assistance for needy families).
 
-&emsp;"(2) The Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\] (relating to block grants for child care)."
+&emsp;"(2) The Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\] (relating to block grants for child care)."
 

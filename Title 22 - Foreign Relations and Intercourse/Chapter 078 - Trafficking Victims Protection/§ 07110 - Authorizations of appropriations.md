@@ -70,7 +70,7 @@ To carry out the purposes of section 7105(b) of this title, there are authorized
 
 #### (1) Restriction on programs
 
-&emsp;No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to promote, support, or advocate the legalization or practice of prostitution. Nothing in the preceding sentence shall be construed to preclude assistance designed to promote the purposes of this Act byameliorating the suffering of, or health risks to, victims while they are being trafficked or after they are out of the situation that resulted from such victims being trafficked.
+&emsp;No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to promote, support, or advocate the legalization or practice of prostitution. Nothing in the preceding sentence shall be construed to preclude assistance designed to promote the purposes of this Act by ameliorating the suffering of, or health risks to, victims while they are being trafficked or after they are out of the situation that resulted from such victims being trafficked.
 
 #### (2) Restriction on organizations
 
@@ -84,7 +84,7 @@ There are authorized to be appropriated to the Director of the Federal Bureau of
 
 There are authorized to be appropriated to the Secretary of Homeland Security, <sup>4</sup> $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
-(Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 110–457, title II, §213(a)(2), title III, §301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155.)
+(Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572;Pub. L. 110–457, title II, §213(a)(2), title III, §301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Subsec. (i). Pub. L. 113–4, §1251(2)(G), substituted "$10,000,000 for each of
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–457, §301(1)(A)(ii), (B), in first sentence, substituted "$5,500,000 for each of the fiscal years 2008 through 2011" for "$1,500,000 for fiscal year 2001, $3,000,000 for each of the fiscal years 2002 and 2003, $5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007" and, in second sentence, substituted "$1,500,000 for additional personnel for each of the fiscal years 2008 through 2011, and $3,000 for official reception and representation expenses" for "for official reception and representation expenses $3,000" and "2008 through 2011" for "2006 and 2007".
 
-Pub. L. 110–457, §301(1)(A)(i), which directed striking out "section 104, and", was executed by striking out"section 104 and" after "the purposes of", to reflect the probable intent of Congress.
+Pub. L. 110–457, §301(1)(A)(i), which directed striking out "section 104, and", was executed by striking out "section 104 and" after "the purposes of", to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 110–457, §213(a)(2)(A), designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
@@ -164,7 +164,7 @@ Subsec. (d)(A). Pub. L. 110–457, §301(4)(A), substituted "$10,000,000 for eac
 
 Subsec. (d)(B). Pub. L. 110–457, §301(4)(B), substituted "2008 through 2011" for "2004, 2005, 2006, and 2007".
 
-Subsec. (e)(1). Pub. L. 110–457, §301(5)(A), substituted "$15,000,000 for each of the fiscal years 2008 through 2011." for "$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007."
+Subsec. (e)(1). Pub. L. 110–457, §301(5)(A), substituted "$15,000,000 for each of the fiscal years 2008 through 2011." for "$5,000,000 for fiscal year 2001, $10,000,000 forfiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007."
 
 Subsec. (e)(2). Pub. L. 110–457, §301(5)(B), made technical amendment to reference in original act which appears in text as reference to section 2152d of this title and substituted "$15,000,000 for each of the fiscal years 2008 through 2011." for "$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007."
 

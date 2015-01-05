@@ -90,7 +90,7 @@ Amendment by Pub. L. 97–247 effective Oct. 1, 1982, see section 17(a) of Pub. 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–517 effective on first day of first fiscal year beginning on or after one calendar year after Dec. 12, 1980, subject to authorization of appropriation account credits from collected reexamination fees prior to the effective date, made available for payment of reexamination proceedings costs, see section8(c) of Pub. L. 96–517, set out as a note under section 41 of this title.
+Amendment by Pub. L. 96–517 effective on first day of first fiscal year beginning on or after one calendar year after Dec. 12, 1980, subject to authorization of appropriation account credits from collected reexamination fees prior to the effective date, made available for payment of reexamination proceedings costs, see section 8(c) of Pub. L. 96–517, set out as a note under section 41 of this title.
 
 #### Effective Date of 1975 Amendment
 

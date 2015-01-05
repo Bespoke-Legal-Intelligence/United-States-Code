@@ -34,7 +34,7 @@
 
 (2)(A) A warrant officer who is selected for continuation on active duty under this subsection but declines to continue on active duty shall be discharged, retired, or retained on active duty, as appropriate, in accordance with this section.
 
-(B) A warrant officer in the grade of chief warrant officer, W–4, who is retained on active dutypursuant to procedures prescribed under paragraph (1)(B) is eligible for further consideration for promotion while remaining on active duty.
+(B) A warrant officer in the grade of chief warrant officer, W–4, who is retained on active duty pursuant to procedures prescribed under paragraph (1)(B) is eligible for further consideration for promotion while remaining on active duty.
 
 (3) Each warrant officer who is continued on active duty under this subsection, not subsequently promoted or continued on active duty, and not on a list of warrant officers recommended for continuation or for promotion to the next higher regular grade shall, unless sooner retired or discharged under another provision of law—
 

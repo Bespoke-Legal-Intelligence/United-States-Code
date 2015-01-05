@@ -90,7 +90,7 @@ Subsec. (c)(2)(C). Pub. L. 105–276, §599C(e)(2)(C)(iv), inserted "or operatin
 
 Subsec. (b). Pub. L. 102–550, §701(b), amended subsec. (b) generally, inserting heading and substituting provisions authorizing appropriations for fiscal years 1993 and 1994 for provisions authorizing appropriations for fiscal years 1991 and 1992.
 
-Subsec. (c). Pub. L. 102–550, §701(c), inserted heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary, to the extentapproved in appropriation Acts for fiscal years 1991 and 1992, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $397,000,000 for fiscal year 1991 and $414,100,000 for fiscal year 1992."
+Subsec. (c). Pub. L. 102–550, §701(c), inserted heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary, to the extent approved in appropriation Acts for fiscal years 1991 and 1992, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $397,000,000 for fiscal year 1991 and $414,100,000 for fiscal year 1992."
 
 Subsec. (d). Pub. L. 102–550, §701(d), inserted heading and amended text generally. Prior to amendment, text read as follows: "The Secretary, to the extent approved in appropriation Acts for fiscal years 1991 and 1992, may enter into 5-year supplemental rental assistance contracts under section 1472(c)(5)(D) of this title aggregating $5,200,000 for fiscal year 1991 and $5,500,000 for fiscal year 1992."
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 102–550, §701(f), amended subsec. (e) generally, substit
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–625, §701(a), amended par. (1) generally, substituting provisions relating to aggregate amounts for which Secretary may insure and guarantee loans for fiscal years 1991 and 1992 for provisions authorizing aggregate amounts for fiscal years 1988 and 1989.
 
-Subsec. (b). Pub. L. 101–625, §701(b), amended subsec. (b) generally, substituting provisions authorizing appropriations for fiscal years 1991 and 1992 for provisions authorizing appropriations for fiscal years 1988 and 1989.
+Subsec. (b). Pub. L. 101–625, §701(b), amended subsec. (b) generally, substituting provisions authorizing appropriations for fiscal years 1991 and 1992 for provisionsauthorizing appropriations for fiscal years 1988 and 1989.
 
 Subsec. (c)(1). Pub. L. 101–625, §701(c), amended par. (1) generally, substituting provisions authorizing appropriations for rental assistance payment contracts for fiscal years 1991 and 1992 for provisions authorizing appropriations for such contracts for fiscal years 1988 and 1989.
 
@@ -162,7 +162,7 @@ Subsec. (b). Pub. L. 98–181 amended subsec. (b) generally, substituting "There
 
 Subsec. (c). Pub. L. 98–181 added subsec. (c).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §351(a)(1)–(3), in introductory text substituted provisions authorizing appropriations for the fiscal year ending Sept. 30, 1982, for provisions authorizing appropriations for the fiscal year ending Sept. 30, 1981, in par. (1) substituted"$3,170,000,000" for "$3,120,000,000", and in par. (3) substituted "none" for "not more than $100,000,000".
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §351(a)(1)–(3), in introductory text substituted provisions authorizing appropriations for the fiscal year ending Sept. 30, 1982, for provisions authorizing appropriations for the fiscal year ending Sept. 30, 1981, in par. (1) substituted "$3,170,000,000" for "$3,120,000,000", and in par. (3) substituted "none" for "not more than $100,000,000".
 
 Subsec. (b). Pub. L. 97–35, §351(a)(4)–(7), in par. (2) substituted "$50,000,000" for "$49,000,000" and "1982" for "1981", in par. (3) substituted "1982" for "1981", in par. (4) substituted "1982" for "1981", and added par. (6).
 

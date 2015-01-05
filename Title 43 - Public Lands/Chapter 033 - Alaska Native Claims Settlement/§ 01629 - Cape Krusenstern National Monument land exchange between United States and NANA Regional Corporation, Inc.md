@@ -28,7 +28,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 &emsp;(i) if it is relinquished to the United States; or
 
-&emsp;(ii) if construction of the transportation system has not commenced within 20 years of September 25, 1985. Computation of the 20-year period shall exclude periods when construction could not commence because of force majeure, act of God or order of a court; or
+&emsp;(ii) if construction of the transportation system has not commenced within 20 years of September 25, 1985. Computation of the 20-year period shall exclude periods when constructioncould not commence because of force majeure, act of God or order of a court; or
 
 &emsp;(iii) upon completion of reclamation pursuant to the reclamation plan required by Exhibit B to the Agreement.
 
@@ -38,7 +38,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 #### (e) Compliance with local laws
 
-The easement granted by this section makes available land for the transportation system, and is intended to be sufficient to permit NANA to comply with the laws of the State of Alaska which may be necessary to secure financing of the construction of the transportation systemand the operation, maintenance or expansion thereof by the State of Alaska or by the Alaska Industrial Development Authority.
+The easement granted by this section makes available land for the transportation system, and is intended to be sufficient to permit NANA to comply with the laws of the State of Alaska which may be necessary to secure financing of the construction of the transportation system and the operation, maintenance or expansion thereof by the State of Alaska or by the Alaska Industrial Development Authority.
 
 #### (f) Reconveyance of easement by NANA
 

@@ -20,7 +20,7 @@ For the purposes of sections 312(2)(A)(i) and 322(a)(2)(A)(i) of the Higher Educ
 
 Notwithstanding any other provision of law, funds provided under this subchapter to the tribally controlled college or university may be treated as non-Federal, private funds of the college or university for purposes of any provision of Federal law which requires that non-Federal or private funds of the college or university be used in a project or for a specific purpose.
 
-(Pub. L. 95–471, title I, §109, formerly §108, Oct. 17, 1978, 92 Stat. 1328; renumbered §109 and amended Pub. L. 98–192, §§4(a)(1), 8, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, §5, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5403(a), Apr. 28, 1988, 102 Stat. 416; Pub. L. 105–244, title IX, §901(b)(5), (6), (8), (10), (12), (e), Oct. 7, 1998, 112 Stat. 1828, 1829.)
+(Pub. L. 95–471, title I, §109, formerly §108, Oct. 17, 1978, 92 Stat. 1328; renumbered §109 and amended Pub. L. 98–192, §§4(a)(1), 8, Dec. 1, 1983,97 Stat. 1336, 1337; Pub. L. 99–428, §5, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5403(a), Apr. 28, 1988, 102 Stat. 416; Pub. L. 105–244, title IX, §901(b)(5), (6), (8), (10), (12), (e), Oct. 7, 1998, 112 Stat. 1828, 1829.)
 
 #### References in Text
 

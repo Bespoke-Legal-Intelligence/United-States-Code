@@ -22,7 +22,7 @@ With respect to analyzing and assessing the risk of acts of terrorism, the Admin
 
 #### (e) Preparedness priorities
 
-In establishing the guidelines under subsection (a), the Administrator shall establish preparedness priorities that appropriately balance the risk of all hazards, including natural disasters, acts of terrorism, and other man-made disasters, with the resources required to prevent, respond to, recover from, and mitigate against the hazards.
+In establishing the guidelines under subsection (a), the Administrator shall establishpreparedness priorities that appropriately balance the risk of all hazards, including natural disasters, acts of terrorism, and other man-made disasters, with the resources required to prevent, respond to, recover from, and mitigate against the hazards.
 
 #### (f) Mutual aid agreements
 

@@ -6,7 +6,7 @@ Rebuilt in the United States.—In this chapter, a vessel is deemed to have been
 
 (b)
 
-Related Terms in Other Laws.—When the following terms are used in a law, regulation, document, ruling, or other official act referring to the documentation of a vessel, the following definitions apply:
+Related Terms in Other Laws.—When the following terms are used in a law, regulation,document, ruling, or other official act referring to the documentation of a vessel, the following definitions apply:
 
 &emsp;(1)
 

@@ -46,7 +46,7 @@ Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provid
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable with respect to petitions filed under this part on or after the date that is 90 days after Aug. 6, 2002, except with respect to certain workers, see section 123(c) of Pub. L. 107–210, set out as an Effective Date of Repeal note under section 2331 of this title.
+Amendment by Pub. L. 107–210 applicable with respect to petitions filed under this part on or after the date that is 90 days after Aug. 6, 2002, except with respect to certain workers, see section 123(c) of Pub. L.107–210, set out as an Effective Date of Repeal note under section 2331 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -62,5 +62,5 @@ Section effective Aug. 13, 1981, with transition provisions applicable, see sect
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
 

@@ -6,13 +6,13 @@ The appropriate Federal banking agencies shall prescribe uniform regulations eff
 
 #### (b) Guidelines for meeting credit needs
 
-Regulations issued under subsection (a) of this section shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
+Regulations issued under subsection (a) shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
 
 #### (c) Limitation on out-of-State loans
 
 #### (1) Limitation
 
-&emsp;Regulations issued under subsection (a) of this section shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank's level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency's sampling of the bank's loan files during an examination or such data as is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—
+&emsp;Regulations issued under subsection (a) shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank's level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency's sampling of the bank's loan files during an examination or such data as is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—
 
 &emsp;&emsp;(A) the appropriate Federal banking agency for the out-of-State bank shall review the loan portfolio of the bank and determine whether the bank is reasonably helping to meet the credit needs of the communities served by the bank in the host State; and
 
@@ -28,7 +28,7 @@ Regulations issued under subsection (a) of this section shall include guidelines
 
 &emsp;&emsp;(A) whether the interstate branch or branches of the out-of-State bank were formerly part of a failed or failing depository institution;
 
-&emsp;&emsp;(B) whether the interstate branch was acquired under circumstances where there was a low loan-to-deposit ratio because of thenature of the acquired institution's business or loan portfolio;
+&emsp;&emsp;(B) whether the interstate branch was acquired under circumstances where there was a low loan-to-deposit ratio because of the nature of the acquired institution's business or loan portfolio;
 
 &emsp;&emsp;(C) whether the interstate branch or branches of the out-of-State bank have a higher concentration of commercial or credit card lending, trust services, or other specialized activities;
 

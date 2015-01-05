@@ -28,11 +28,11 @@ Funds available for the purposes of this chapter shall be available for—
 
 &emsp;(6) exchange of funds and loss by exchange;
 
-&emsp;(7) expenditures (not to exceed $20,000 in any fiscal year except as may be otherwise provided in an appropriation or other Act) not otherwise authorized by law to meet unforeseen emergencies or contingencies arising in the Peace Corps: <i>Provided</i>, That a certificate of the amount only of each such expenditure and that such expenditure was necessary to meet an unforeseen emergency or contingency, made by the Director of the Peace Corps or his designee, shall be deemed a sufficient voucher for the amount therein specified;
+&emsp;(7) expenditures (not to exceed $20,000 in any fiscal year except as may be otherwise provided in an appropriation or other Act) not otherwise authorized by law to meet unforeseen emergencies or contingencies arising in the Peace Corps: <i>Provided</i>, That a certificate ofthe amount only of each such expenditure and that such expenditure was necessary to meet an unforeseen emergency or contingency, made by the Director of the Peace Corps or his designee, shall be deemed a sufficient voucher for the amount therein specified;
 
 &emsp;(8) insurance of official motor vehicles acquired for use abroad;
 
-&emsp;(9) rent or lease abroad for not to exceed five years of offices, health facilities, buildings,grounds, and living quarters, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for its use abroad; and costs of fuel, water, and utilities for such properties;
+&emsp;(9) rent or lease abroad for not to exceed five years of offices, health facilities, buildings, grounds, and living quarters, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for its use abroad; and costs of fuel, water, and utilities for such properties;
 
 &emsp;(10) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in activities under this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities under this chapter;
 

@@ -2,7 +2,7 @@
 
 #### (a) Complete liquidation
 
-For purposes of this subchapter, a distribution shall be treated as in complete liquidation of a corporation if the distribution is one of a series of distributions in redemption of all of the stock of the corporation pursuant to a plan.
+For purposes of this subchapter, a distribution shall be treated as in complete liquidation of acorporation if the distribution is one of a series of distributions in redemption of all of the stock of the corporation pursuant to a plan.
 
 #### (b) Transactions which might reach same result as partial liquidations
 

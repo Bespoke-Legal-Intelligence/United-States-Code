@@ -2,13 +2,43 @@
 
 #### (a) Persons eligible for program benefits in connection with production or reduced production of crops on certain lands; eligibility based upon compliance with conservation plan by January 1, 1995; minimization of documentation
 
-(1) During the period beginning on December 23, 1985, and ending on the later of January 1, 1990, or the date that is 2 years after the date land on which a crop of an agricultural commodity is produced was mapped by the Soil Conservation Service for purposes of classifying such land under the land capability classification system in effect on December 23, 1985, except as provided in paragraph (2), no person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity on any land that was—
+(1) During the period beginning on December 23, 1985, and ending on the later of January 1,1990, or the date that is 2 years after the date land on which a crop of an agricultural commodity is produced was mapped by the Soil Conservation Service for purposes of classifying such land under the land capability classification system in effect on December 23, 1985, except as provided in paragraph (2), no person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity on any land that was—
 
 &emsp;(A) cultivated to produce any of the 1981 through 1985 crops of an agricultural commodity; or
 
 &emsp;(B) set aside, diverted or otherwise not cultivated under a program administered by the Secretary for any such crops to reduce production of an agricultural commodity.
 
-(2) If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility. In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
+(2)
+
+Eligibility based on compliance with conservation plan.—
+
+&emsp;(A)
+
+In general.—If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility.
+
+&emsp;(B)
+
+Minimization of documentation.—In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
+
+&emsp;(C)
+
+Crop insurance.—
+
+&emsp;&emsp;(i)
+
+Operations new to compliance.—Notwithstanding section 3811(a) of this title, in the case of a person that is subject to section 3811 of this title for the first time solely due to the amendment made by section 2611(a) of the Agricultural Act of 2014, any person who produces an agricultural commodity on the land that is the basis of the payments described in section 3811(a)(1)(E) of this title shall have 5 reinsurance years after the date on which such payments become subject to section 3811 of this title to develop and comply with an approved conservation plan so as to maintain eligibility for such payments.
+
+&emsp;&emsp;(ii)
+
+Existing operations with prior violations.—Notwithstanding section 3811(a) of this title, in the case of a person that the Secretary determines would have been in violation of section 3811(a) of this title if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of section 3811(a) of this title, the person shall have 2 reinsurance years after the date on which the payments described in section 3811(a)(1)(E) of this title become subject to section 3811 of this title to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
+
+&emsp;&emsp;(iii)
+
+Applicable reinsurance year.—Ineligibility for the payment described in section 3811(a)(1)(E) of this title for a violation under this subparagraph during a crop year shall—
+
+&emsp;&emsp;&emsp;(I) only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
+
+&emsp;&emsp;&emsp;(II) not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
 
 (3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
@@ -32,7 +62,7 @@ No person shall become ineligible under section 3811 of this title for program l
 
 &emsp;&emsp;(B) not within a conservation district, under a conservation system determined by the Secretary to be adequate for the protection of highly erodible land that has been set aside or for the production of such agricultural commodity on any highly erodible land subject to this chapter; or
 
-&emsp;(2) on highly erodible land that is planted or set aside in reliance on a determination by the Soil Conservation Service that such land was not highly erodible land, except that this paragraph shall not apply to any agricultural commodity that was planted or set aside on any land after the Soil Conservation Service determines that such land is highly erodible land; or
+&emsp;(2) on highly erodible land that is planted or set aside in reliance on a determination by theSoil Conservation Service that such land was not highly erodible land, except that this paragraph shall not apply to any agricultural commodity that was planted or set aside on any land after the Soil Conservation Service determines that such land is highly erodible land; or
 
 &emsp;(3) on highly erodible land planted to alfalfa during each of the 1981 through 1985 crop years as part of a rotation practice approved by the Secretary, if the person has submitted a conservation plan, in which case, such person shall have until June 1, 1988, to comply with the plan without being subject to program ineligibility under section 3811 of this title.
 
@@ -106,9 +136,11 @@ The Secretary, in providing assistance to an individual in the preparation or re
 
 Section 3811 of this title shall not apply to the noncommercial production of agricultural commodities on a farm if such production is limited to two acres or less and if the Secretary determines that such production is not intended to circumvent the conservation requirements otherwise applicable to lands under this subchapter.
 
-(Pub. L. 99–198, title XII, §1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§2, 3, Apr. 24, 1987, 101 Stat. 291; Pub. L. 101–624, title XIV, §1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983; Pub. L. 110–234, title II, §2002, May 22, 2008, 122 Stat. 1027; Pub. L. 110–246, §4(a), title II, §2002, June 18, 2008, 122 Stat. 1664, 1755.)
+(Pub. L. 99–198, title XII, §1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§2, 3, Apr. 24, 1987, 101 Stat. 291; Pub. L. 101–624, title XIV, §1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983; Pub. L. 110–234, title II, §2002, May 22, 2008, 122 Stat. 1027; Pub. L. 110–246, §4(a), title II, §2002, June 18, 2008, 122 Stat. 1664, 1755; Pub. L. 113–79, title II, §2611(a)(2), Feb. 7, 2014, 128 Stat. 762.)
 
 #### References in Text
+
+Section 2611(a) of the Agricultural Act of 2014, referred to in subsec. (a)(2)(C)(i), is section 2611(a) of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 762, which amended this section and sections 3811 and 3812a of this title.
 
 This chapter, referred to in subsec. (c)(1)(B), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
@@ -119,6 +151,8 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–79 inserted par. (2) heading, designated first sentence as subpar. (A) and inserted heading, designated second sentence as subpar. (B) and inserted heading, and added subpar. (C).
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–246, §2002, added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
 
@@ -172,7 +206,7 @@ Subsec. (d). Pub. L. 101–624, §1412(b)(3), redesignated subsec. (c) as (d).
 
 Subsecs. (e) to (h). Pub. L. 101–624, §1412(c)–(f), added subsecs. (e) to (h).
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–28, §3, inserted "that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is" after "conservation plan", and inserted at end "In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph."
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–28, §3, inserted "that documents the decisions of the person with respect to location, land use, tillage systems, and conservationtreatment measures and schedule and that is" after "conservation plan", and inserted at end "In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph."
 
 Subsec. (b)(5). Pub. L. 100–28, §2(b), added par. (5).
 

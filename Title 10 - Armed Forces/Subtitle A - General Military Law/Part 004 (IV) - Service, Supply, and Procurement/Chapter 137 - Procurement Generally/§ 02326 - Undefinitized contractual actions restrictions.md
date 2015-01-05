@@ -10,7 +10,7 @@ Limitations on Obligation of Funds.—(1) A contracting officer of the Departmen
 
 &emsp;(A) the end of the 180-day period beginning on the date on which the contractor submits a qualifying proposal to definitize the contractual terms, specifications, and price; or
 
-&emsp;(B) the date on which the amount of funds obligated under the contractual action is equal to more than 50 percent of the negotiated overall ceiling price for the contractual action.
+&emsp;(B) the date on which the amount of funds obligated under the contractual action isequal to more than 50 percent of the negotiated overall ceiling price for the contractual action.
 
 (2) Except as provided in paragraph (3), the contracting officer for an undefinitized contractual action may not obligate with respect to such contractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
@@ -174,7 +174,7 @@ report.—Not later than two years after the date of the enactment of this Act, 
 
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
-Pub. L. 99–500, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–139, 1783–140, 1783–142, Pub. L. 99–591, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 3341–82, 3341–139, 3341–140, 3341–142, and Pub. L. 99–661, div. A, title IX, formerly title IV, §908(a)–(c), (e), Nov. 14, 1986, 100 Stat. 3918, 3919, 3921, renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21,1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
+Pub. L. 99–500, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–139, 1783–140, 1783–142, Pub. L. 99–591, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 3341–82, 3341–139, 3341–140, 3341–142, and Pub. L. 99–661, div. A, title IX, formerly title IV, §908(a)–(c), (e), Nov. 14, 1986, 100 Stat. 3918, 3919, 3921, renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
 
 "(a)
 

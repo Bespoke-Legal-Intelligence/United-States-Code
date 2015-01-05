@@ -118,7 +118,7 @@
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–81, in table, increased number of officers authorized to serve on active duty in the Marine Corps in each grade covered as follows: Major to 2,802, 3,247, 3,691, 4,135, 4,579, 5,024, and 5,468 from 2,525, 2,900, 3,275, 3,650, 4,025, 4,400, and 4,775, respectively; Lieutenant Colonel to 1,615, 1,768, 1,922, 2,076, 2,230, 2,383, and 2,537 from 1,480, 1,600, 1,720, 1,840, 1,960, 2,080, and 2,200, respectively; and Colonel to 633, 658, 684, 710, 736, 762, and 787 from 571, 632, 653, 673, 694, 715, and 735, respectively.
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §404, in table, increased number of officers authorized to serve on active duty in the Army in the grade of Major to 7,768, 8,689, 9,611, 10,532, 11,454, 12,375, 13,297, 14,218, 15,140, 16,061, 16,983, 17,903, 18,825, 19,746, 20,668, 21,589, 22,511, 24,354, 26,197, 28,040, and 35,412 from 6,948, 7,539, 8,231, 8,922, 9,614, 10,305, 10,997, 11,688, 12,380, 13,071, 13,763, 14,454, 15,146, 15,837, 16,529, 17,220, 17,912, 19,295, 20,678, 22,061, and 27,593, respectively.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §404, in table, increased number of officers authorized to serve on active duty in the Army in the grade of Major to 7,768, 8,689, 9,611, 10,532, 11,454, 12,375, 13,297, 14,218, 15,140, 16,061, 16,983, 17,903, 18,825, 19,746, 20,668, 21,589, 22,511, 24,354, 26,197, 28,040, and 35,412 from 6,948, 7,539, 8,231, 8,922,9,614, 10,305, 10,997, 11,688, 12,380, 13,071, 13,763, 14,454, 15,146, 15,837, 16,529, 17,220, 17,912, 19,295, 20,678, 22,061, and 27,593, respectively.
 
 Subsec. (a)(2). Pub. L. 110–181, §405, amended table generally, extensively revising the numbers in each grade covered.
 

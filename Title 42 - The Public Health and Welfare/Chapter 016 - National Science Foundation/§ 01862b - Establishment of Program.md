@@ -14,7 +14,7 @@
 
 #### (b) Improvement projects; maximum amounts
 
-(1) The Program shall be carried out through projects which involve the repair, renovation,or, in exceptional cases, replacement of specific science and engineering facilities devoted primarily to research at eligible institutions, or consortia thereof, and for which funds are awarded in response to specific proposals submitted by such eligible institutions or consortia in accordance with procedures prescribed by the Director pursuant to section 1862c of this title.
+(1) The Program shall be carried out through projects which involve the repair, renovation, or, in exceptional cases, replacement of specific science and engineering facilities devoted primarily to research at eligible institutions, or consortia thereof, and for which funds are awarded in response to specific proposals submitted by such eligible institutions or consortia in accordance with procedures prescribed by the Director pursuant to section 1862c of this title.
 
 (2) Awards made under the Program shall not exceed $7,000,000 to any institution or consortium over any period of 5 years for the repair, renovation, or, in exceptional cases, replacement of academic research facilities.
 
@@ -42,7 +42,7 @@ Criteria for the award of funds to any institution for a project under the Progr
 
 #### Codification
 
-Section was enacted as part of the Academic Research Facilities Modernization Act of 1988, and also as part of the National Science Foundation Authorization Act of 1988, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the Academic Research Facilities Modernization Act of 1988, and also aspart of the National Science Foundation Authorization Act of 1988, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Prior Provisions
 

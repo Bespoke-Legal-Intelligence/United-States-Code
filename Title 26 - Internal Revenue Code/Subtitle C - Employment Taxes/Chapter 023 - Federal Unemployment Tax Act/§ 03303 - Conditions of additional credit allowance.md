@@ -22,9 +22,11 @@ A taxpayer shall be allowed an additional credit under section 3302(b) with resp
 
 &emsp;&emsp;(C) the balance of such account amounts to not less than 2½ percent of that part of the payroll or payrolls for the 3 years preceding such date by which contributions to such account were measured, and
 
-&emsp;&emsp;(D) such contributions were payable to such account with respect to the 3 years preceding the computation date.
+&emsp;&emsp;(D) such contributions were payable to such account with respect to the 3 years preceding the computation date; and
 
-> For any person (or group of persons) who has (or have) not been subject to the State law for a period of time sufficient to compute the reduced rates permitted by paragraphs (1), (2), and (3) of this subsection on a 3–year basis (i) the period of time required may be reduced to the amount of time the person (or group of persons) has (or have) had experience under or has (or have) been subject to the State law, whichever is appropriate, but in no case less than 1 year immediately preceding the computation date, or (ii) a reduced rate (not less than 1 percent) may be permitted by the State law on a reasonable basis other than as permitted by paragraph (1), (2), or (3).
+&emsp;(4) if the taxpayer is a certified professional employer organization (as defined in section 7705) that is treated as the employer under section 3511, such certified professional employer organization is permitted to collect and remit, in accordance with paragraphs (1), (2), and (3), contributions during the taxable year to theState unemployment fund with respect to a work site employee.
+
+> For any person (or group of persons) who has (or have) not been subject to the State law for a period of time sufficient to compute the reduced rates permitted by paragraphs (1), (2), (3), and (4) of this subsection on a 3–year basis (i) the period of time required may be reduced to the amount of time the person (or group of persons) has (or have) had experience under or has (or have) been subject to the State law, whichever is appropriate, but in no case less than 1 year immediately preceding the computation date, or (ii) a reduced rate (not less than 1 percent) may be permitted by the State law on a reasonable basis other than as permitted by paragraph (1), (2), (3), or (4).
 
 #### (b) Certification by the Secretary of Labor with respect to additional credit allowance
 
@@ -96,9 +98,13 @@ A State may, without being deemed to violate the standards set forth in subsecti
 
 &emsp;Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, §252(a), Oct. 21, 2011, 125 Stat. 421.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, §252(a), Oct. 21, 2011, 125 Stat. 421; Pub. L. 113–295, div. B, title II, §206(c)(2), Dec. 19, 2014, 128 Stat. 4070.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–295, §206(c)(2)(B), substituted "paragraphs (1), (2), (3), and (4)" for "paragraphs (1), (2), and (3)" and "paragraph (1), (2), (3), or (4)" for "paragraph (1), (2), or (3)" in concluding provisions.
+
+Subsec. (a)(4). Pub. L. 113–295, §206(c)(2)(A), added par. (4).
 
 <b>2011</b>—Subsecs. (f), (g). Pub. L. 112–40 added subsec. (f) and struck out former subsecs. (f) and (g) which contained transitional provisions enacted by prior amendments.
 
@@ -108,13 +114,17 @@ Subsec. (f). Pub. L. 94–566, §122(b), substituted "which elects before April 
 
 Subsec. (g). Pub. L. 94–566, §122(a), added subsec. (g).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–373, §122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
+<b>1970</b>—Subsec. (a). Pub. L. 91–373, §122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
 
 Subsec. (b). Pub. L. 91–373, §142(c)–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month period in the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
 
 Subsecs. (e), (f). Pub. L. 91–373, §104(c), added subsecs. (e) and (f).
 
 <b>1954</b>—Subsec. (a). Act Sept. 1, 1954, inserted sentence relating to reduced rates for new employers.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under section 3302 of this title.
 
 #### Effective Date of 2011 Amendment
 

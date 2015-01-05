@@ -12,15 +12,15 @@ The Secretary may make such investigations as the Secretary considers necessaryâ
 
 #### (1) Investigations
 
-&emsp;For the purpose of an investigation made under subsection (a) of this section, the Secretary may administer oaths and affirmations and may issue a subpoena to require the production of any records that are relevant to the inquiry. The production of any such records may be required from any place in the United States.
+&emsp;For the purpose of an investigation made under subsection (a), the Secretary may administer oaths and affirmations and may issue a subpoena to require the production of any records that are relevant to the inquiry. The production of any such records may be required from any place in the United States.
 
 #### (2) Administrative hearings
 
-&emsp;For the purpose of an administrative hearing held under section 6206 or 6207 of this title,the presiding officer is authorized to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States.
+&emsp;For the purpose of an administrative hearing held under section 6206 or 6207 of this title, the presiding officer is authorized to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States.
 
 #### (c) Aid of courts
 
-In case of contumacy by, or refusal to obey a subpoena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b) of this section. The court may issue an order requiring such person to comply with such a subpoena.
+In case of contumacy by, or refusal to obey a subpoena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b). The court may issue an order requiring such person to comply with such a subpoena.
 
 #### (d) Contempt
 

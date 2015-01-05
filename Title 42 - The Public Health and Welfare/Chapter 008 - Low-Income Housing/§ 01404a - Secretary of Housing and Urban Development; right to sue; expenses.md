@@ -20,7 +20,7 @@ Section consists of section 502(b) of act Aug. 10, 1948. Section 502 of act Aug.
 
 <b>1988</b>—Pub. L. 100–242 substituted "Secretary of Housing and Urban Development" for "United States Housing Authority" in three places and for "Authority" in two places.
 
-<b>1967</b>—Pub. L. 90–19 substituted "United States Housing Authority" for "Public Housing Administration" wherever appearing in first and fourth sentences, "Authority" for "Administration" wherever appearing in third sentence, and "may sue" for "shall sue" in first sentence, and struck out former second sentence authorizing the Public Housing Commissioner to appoint necessary officers and employees subject to the civil-service and classification laws, to delegate his functions and powers, and to make rules and regulations, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted "United States Housing Authority" for "Public Housing Administration" wherever appearing in first and fourth sentences, "Authority" for "Administration" wherever appearing in third sentence, and "may sue" for "shall sue" in firstsentence, and struck out former second sentence authorizing the Public Housing Commissioner to appoint necessary officers and employees subject to the civil-service and classification laws, to delegate his functions and powers, and to make rules and regulations, respectively.
 
 <b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 

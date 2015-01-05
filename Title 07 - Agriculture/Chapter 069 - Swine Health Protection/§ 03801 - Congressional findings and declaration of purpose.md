@@ -16,7 +16,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(7) it is impossible to assure that all garbage fed to swine is properly treated to kill disease organisms unless such treatment is closely regulated;
 
-&emsp;(8) therefore, in order to protect the commerce of the United States and the health and welfare of the people of this country, it is necessary to regulate the treatment of garbage to be fed to swine and the feeding thereof in accordance with the provisions of this chapter.
+&emsp;(8) therefore, in order to protect the commerce of the United States and the health andwelfare of the people of this country, it is necessary to regulate the treatment of garbage to be fed to swine and the feeding thereof in accordance with the provisions of this chapter.
 
 (Pub. L. 96–468, §2, Oct. 17, 1980, 94 Stat. 2229.)
 

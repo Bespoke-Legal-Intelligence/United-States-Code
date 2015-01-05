@@ -6,7 +6,7 @@
 
 #### (A) Operators
 
-&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency, an area vocational education school or residential vocational school, or a private organization, for the operation of each Job Corps center.
+&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency,an area vocational education school or residential vocational school, or a private organization, for the operation of each Job Corps center.
 
 #### (B) Providers
 
@@ -16,7 +16,7 @@
 
 #### (A) Competitive basis
 
-&emsp;&emsp;Except as provided in subsections (a) to (c) of section 3304 of title 41, the Secretary shallselect on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this subchapter to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the industry council for the Job Corps center (if established), and the applicable local board regarding the contents of such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
+&emsp;&emsp;Except as provided in subsections (a) to (c) of section 3304 of title 41, the Secretary shall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this subchapter to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the industry council for the Job Corps center (if established), and the applicable local board regarding the contents of such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
 
 #### (B) Recommendations and considerations
 
@@ -62,6 +62,10 @@ Job Corps centers may be residential or nonresidential in character, and shall b
 
 (Pub. L. 105–220, title I, §147, Aug. 7, 1998, 112 Stat. 1010.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### Codification
 
 In subsec. (a)(2)(A), "subsections (a) to (c) of section 3304 of title 41" substituted for "subsections (c) and (d) of section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -69,4 +73,8 @@ In subsec. (a)(2)(A), "subsections (a) to (c) of section 3304 of title 41" subst
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1697 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

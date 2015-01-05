@@ -52,7 +52,7 @@ Subject to subsection (b) of this section and in accordance with regulations iss
 
 Subsec. (c). Pub. L. 108–136, §563(a), designated existing provisions as par. (1) and added par. (2).
 
-<b>1989</b>—Subsec. (d)(1)(A). Pub. L. 101–189 substituted "(other than civilian officers and employees who are sponsors under section 932(2) of this title)" for "(including employees of nonappropriated fund activities of the Department of Defense)".
+<b>1989</b>—Subsec. (d)(1)(A). Pub. L. 101–189 substituted "(other than civilian officers and employees who aresponsors under section 932(2) of this title)" for "(including employees of nonappropriated fund activities of the Department of Defense)".
 
 <b>1985</b>—Subsec. (d). Pub. L. 99–145 added subsec. (d).
 

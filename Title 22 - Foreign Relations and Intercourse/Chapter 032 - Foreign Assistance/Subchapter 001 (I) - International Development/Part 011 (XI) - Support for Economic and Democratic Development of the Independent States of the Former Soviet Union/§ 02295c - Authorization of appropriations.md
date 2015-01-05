@@ -8,17 +8,17 @@ To carry out this part, there are authorized to be appropriated to the President
 
 #### (1) Authority to transfer program funds
 
-&emsp;Subject to paragraph (2), funds made available under subsection (a) of this section may be transferred to, and merged with, funds appropriated for "Operating Expenses of the Agency for International Development". Funds so transferred may be expended for administrative costs in carrying out this part, including reimbursement of the Department of State for its incremental costs associated with assistance provided under this part.
+&emsp;Subject to paragraph (2), funds made available under subsection (a) may be transferred to, and merged with, funds appropriated for "Operating Expenses of the Agency for International Development". Funds so transferred may be expended for administrative costs in carrying out this part, including reimbursement of the Department of State for its incremental costs associated with assistance provided under this part.
 
 #### (2) Limitation on amount transferred
 
-&emsp;Not more than 2 percent of the funds made available for a fiscal year under subsection (a) of this section may be transferred pursuant to paragraph (1) unless, at least 15 days before transferring any additional amount, the President notifies the appropriate congressional committees in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
+&emsp;Not more than 2 percent of the funds made available for a fiscal year under subsection (a) may be transferred pursuant to paragraph (1) unless, at least 15 days before transferring any additional amount, the President notifies the appropriate congressional committees in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
 
 (Pub. L. 87–195, pt. I, §498C, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3330.)
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 For delegation of certain functions of President under subsec. (b)(2), see section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
 

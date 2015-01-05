@@ -24,13 +24,13 @@ Historical and Revision Notes
 
 Sept. 1, 1954, ch. 1208, §304(b), 68 Stat. 1113.
 
-The words “In instances determined by the President to warrant such action” are omitted as surplusage. The word “employee” is substituted for “civilian officers and employees of the Government” in view of the definition of “employee” in section 4501.
+The words "In instances determined by the President to warrant such action" are omitted as surplusage. The word "employee" is substituted for "civilian officers and employees of the Government" in view of the definition of "employee" in section 4501.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1978</b>—Par. (1). Pub. L. 95–454 inserted “or achieves a significant reduction in paperwork”.
+<b>1978</b>—Par. (1). Pub. L. 95–454 inserted "or achieves a significant reduction in paperwork".
 
 #### Effective Date of 1978 Amendment
 
@@ -66,7 +66,7 @@ Sec. 4. <i>Functions of the Board</i>. (a) Any individual or group may make reco
 
 (b) With due regard for the provisions of Section 2 of this Order, the Board shall screen such recommendations and, on the basis of such recommendations or upon its own motion, shall from time to time submit to the President nominations of individuals for award of the Medal, in appropriate degrees.
 
-Sec. 5. <i>Expenses</i>. Necessary administrative expenses of the Board incurred in connection with the recommendation of persons to receive the Presidential Medal of Freedom, including expenses of travel of members of the Board appointed under Section 3(a) of this Order, during the fiscal year 1963, may be paid from the appropriation provided under the heading “Special Projects” in the Executive Office Appropriation Act, 1963, 76 Stat. 315, and during subsequent fiscal years, to the extent permitted by law, from any corresponding or like appropriation made available for such fiscal years. Such payments shall be without regard to the provisions of section 3681 of the Revised Statutes and section 9 of the Act of March 4, 1909, 35 Stat. 1027 (31 U.S.C. 672 and 673) \[31 U.S.C. 1346(a) and (c)\]. Members of the Board appointed under Section 3(a) of this Order shall serve without compensation.
+Sec. 5. <i>Expenses</i>. Necessary administrative expenses of the Board incurred in connection with the recommendation of persons to receive the Presidential Medal of Freedom, including expenses of travel of members of the Board appointed under Section 3(a) of this Order, during the fiscal year 1963, may be paid from the appropriation provided under the heading "Special Projects" in the Executive Office Appropriation Act, 1963, 76 Stat. 315, and during subsequent fiscal years, to the extent permitted by law, from any corresponding or like appropriation made available for such fiscal years. Such payments shall be without regard to the provisions of section 3681 of the Revised Statutes and section 9 of the Act of March 4, 1909, 35 Stat. 1027 (31 U.S.C. 672 and 673) \[31 U.S.C. 1346(a) and (c)\]. Members of the Board appointed under Section 3(a) of this Order shall serve without compensation.
 
 Sec. 6. <i>Design of the Medal</i>. The Army Institute of Heraldry shall prepare for the approval of the President a design of the Medal in each of its degrees.
 
@@ -86,7 +86,7 @@ Sec. 2. (a) The President's Award for Distinguished Federal Civilian Service sha
 
 (4) Long and distinguished career service.
 
-(b) The importance of the achievements to the Government and to the public interest shall be so outstanding that the officer or employee is deserving of greater public recognition than that which can be accorded by the head of the department or agency in which he is employed. Generally, not more than five awards shall be made in any one year. Presentation of the award shall be made at such times as the President may determine.
+(b) The importance of the achievements to the Government and to the public interest shall be so outstanding that the officer or employee is deserving of greaterpublic recognition than that which can be accorded by the head of the department or agency in which he is employed. Generally, not more than five awards shall be made in any one year. Presentation of the award shall be made at such times as the President may determine.
 
 Sec. 3. The Director of the Office of Personnel Management shall advise and assist the President in selecting persons to receive this award. In performing this function, the Director shall carefully review nominations submitted pursuant to the provisions of Section 4 of this Order and decide which of them, if any, warrant presentation to the President. The Director shall thereupon transmit to the President the names of those persons who, in the opinion of the Director, merit the award, together with a statement of the reasons therefor. Recipients for the award shall be selected by the President.
 

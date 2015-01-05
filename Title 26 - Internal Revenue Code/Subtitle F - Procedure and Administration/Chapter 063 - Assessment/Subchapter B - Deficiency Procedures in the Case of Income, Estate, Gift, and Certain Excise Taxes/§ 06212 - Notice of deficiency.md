@@ -154,7 +154,7 @@ Amendment by section 214(b) of Pub. L. 94–455 applicable to taxable years begi
 
 Amendment by section 1204(c)(5) of Pub. L. 94–455 applicable with respect to action taken under section 6851, 6861, or 6862 of this title where the notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 
-Amendment by section 1206(c)(3) of Pub. L. 94–455 applicable to returns filed after Dec. 31, 1976, see section1206(d) of Pub. L. 94–455, set out as a note under section 6213 of this title.
+Amendment by section 1206(c)(3) of Pub. L. 94–455 applicable to returns filed after Dec. 31, 1976, see section 1206(d) of Pub. L. 94–455, set out as a note under section 6213 of this title.
 
 Amendment by section 1307(d)(2)(F)(ii), (G) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section 1307(e)(6) of Pub. L. 94–455, set out as a note under section 501 of this title.
 

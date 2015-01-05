@@ -6,7 +6,7 @@ Conditions for Obligation of Funds for Covered Defense Business System Programs.
 
 &emsp;(1) the appropriate pre-certification authority for the covered defense business system program has determined that—
 
-&emsp;&emsp;(A) the defense business system program is in compliance with the enterprise architecture developed under subsection (c) and appropriate business process re-engineering efforts have been undertaken to ensure that—
+&emsp;&emsp;(A) the defense business system program is in compliance with the enterprise architecture developed under subsection (c) and appropriate business process re-engineering efforts, including business process mapping, have been undertaken to ensure that—
 
 &emsp;&emsp;&emsp;(i) the business process supported by the defense business system program is or will be as streamlined and efficient as practicable; and
 
@@ -14,19 +14,17 @@ Conditions for Obligation of Funds for Covered Defense Business System Programs.
 
 &emsp;&emsp;(B) the defense business system program is necessary to achieve a critical national security capability or address a critical requirement in an area such as safety or security; or
 
-&emsp;&emsp;(C) the defense business system program is necessary to prevent a significant adverse effect on a project that is needed to achieve an essential capability, taking into consideration the alternative solutions for preventing such adverse effect;
+&emsp;&emsp;(C) the defense business system program is necessary to prevent a significant adverse effect on a project that is needed to achieve an essential capability, taking into consideration the alternative solutions for preventing such adverse effect; and
 
-&emsp;(2) the covered defense business system program has been reviewed and certified by the investment review board established under subsection (g); and
-
-&emsp;(3) the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by section 186 of this title.
+&emsp;(2) the covered defense business system program has been reviewed and certified by the investment review board established under subsection (g).
 
 (b)
 
-Obligation of Funds in Violation of Requirements.—The obligation of Department of Defense funds for a covered defense business system program that has not been certified and approved in accordance with subsection (a) is a violation of section 1341(a)(1)(A) of title 31.
+Obligation of Funds in Violation of Requirements.—The obligation of Department ofDefense funds for a covered defense business system program that has not been certified and approved in accordance with subsection (a) is a violation of section 1341(a)(1)(A) of title 31.
 
 (c)
 
-Enterprise Architecture for Defense Business Systems.—(1) The Secretary of Defense, acting through the Defense Business Systems Management Committee, shall develop—
+Enterprise Architecture for Defense Business Systems.—(1) The Secretary of Defense, acting through the investment review board established under subsection (g), shall develop—
 
 &emsp;(A) an enterprise architecture, known as the defense business enterprise architecture, to cover all defense business systems, and the functions and activities supported by defense business systems, which shall be sufficiently defined to effectively guide, constrain, and permit implementation of interoperable defense business system solutions and consistent with the policies and procedures established by the Director of the Office of Management and Budget; and
 
@@ -100,7 +98,7 @@ Designation of Appropriate Pre-certification Authorities and Senior Officials.�
 
 (g)
 
-Defense Business System Investment Review.—(1) The Secretary of Defense shall require the Deputy Chief Management Officer of the Department of Defense, not later than March 15, 2012, to establish an investment review board and investment management process, consistent with section 11312 of title 40, to review and certify the planning, design, acquisition, development, deployment, operation, maintenance, modernization, and project cost benefits and risks of covered defense business systems programs. The investment review board and investment management process so established shall specifically address the requirements of subsection (a).
+Defense Business System Investment Review.—(1) The Secretary of Defense shall require the Deputy Chief Management Officer of the Department of Defense to establish an investment review board and investment management process, consistent with section 11312 of title 40, to review and certify the planning, design, acquisition, development, deployment, operation, maintenance, modernization, and project cost benefits and risks of covered defense business systems programs. The investment review board and investment management process so established shall specifically address the requirements of subsection (a).
 
 (2) The review of defense business systems programs under the investment management process shall include the following:
 
@@ -108,7 +106,7 @@ Defense Business System Investment Review.—(1) The Secretary of Defense shall 
 
 &emsp;(B) Periodic review, but not less than annually, of all covered defense business system programs, grouped in portfolios of defense business systems.
 
-&emsp;(C) Representation on each investment review board by appropriate officials from among the Office of the Secretary of Defense, the armed forces, the combatant commands, the Joint Chiefs of Staff, and the Defense Agencies, including representation from each of the following:
+&emsp;(C) Representation on the investment review board by appropriate officials from among the Office of the Secretary of Defense, the armed forces, the combatant commands, the Joint Chiefs of Staff, and the Defense Agencies, including representation from each of the following:
 
 &emsp;&emsp;(i) The appropriate pre-certification authority for the defense business system under review.
 
@@ -120,9 +118,9 @@ Defense Business System Investment Review.—(1) The Secretary of Defense shall 
 
 &emsp;(E) Use of procedures for making certifications in accordance with the requirements of subsection (a).
 
-&emsp;(F) Use of procedures for ensuring consistency with the guidance issued by the Secretary of Defense and the Defense Business Systems Management Committee, as required by section 186(c) of this title, and incorporation of common decision criteria, including standards, requirements, and priorities that result in the integration of defense business systems.
+&emsp;(F) Use of procedures for ensuring consistency with the guidance issued by the Secretary of Defense and incorporation of common decision criteria, including standards, requirements, and priorities that result in the integration of defense business systems.
 
-(3)(A) <sup>1</sup> The investment management process required by paragraph (1) shall include requirements for the military departments and the Defense Agencies to make available to the Deputy Chief Management Officer such information on covered defense business system programs and other business functions as the Deputy Chief Management Officer shall require for the review of defense business system programs under the process. Such information shall be made available to the Deputy Chief Management Officer through existing data sources or in a standardized format established by the Deputy Chief Management Officer for purposes of this paragraph.
+(3) The investment management process required by paragraph (1) shall include requirements for the military departments and the Defense Agencies to make available to the Deputy Chief Management Officer such information on covered defense business system programs and other business functions as the Deputy Chief Management Officer shall require for the review of defense business system programs under the process. Such information shall be made available to the Deputy Chief Management Officer through existing data sources or in a standardized format established by the Deputy Chief Management Officer for purposes of this paragraph.
 
 (h)
 
@@ -162,7 +160,13 @@ Congressional Reports.—Not later than March 15 of each year from 2012 through 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "defense business system" means an information system, other than a national security system, operated by, for, or on behalf of the Department of Defense, including financial systems, mixed systems, financial data feeder systems, and information technology and information assurance infrastructure, used to support business activities, such as acquisition, financial management, logistics, strategic planning and budgeting, installations and environment, and human resource management.
+&emsp;(1)(A) The term "defense business system" means an information system operated by, for, or on behalf of the Department of Defense, including financial systems, mixed systems, financial data feeder systems, and information technology and information assurance infrastructure, used to support business activities, such as acquisition, financial management, logistics, strategic planning and budgeting, installations and environment, and human resource management.
+
+&emsp;(B) The term does not include—
+
+&emsp;&emsp;(i) a national security system; or
+
+&emsp;&emsp;(ii) an information system used exclusively by and within the defense commissary system or the exchange system or other instrumentality of the Department of Defense conducted for the morale, welfare, and recreation of members of the armed forces using nonappropriated funds.
 
 &emsp;(2) The term "covered defense business system program" means any defense business system program that is expected to have a total cost in excess of $1,000,000 over the period of the current future-years defense program submitted to Congress under section 221 of this title.
 
@@ -170,15 +174,57 @@ Definitions.—In this section:
 
 &emsp;(4) The terms "information system" and "information technology" have the meanings given those terms in section 11101 of title 40.
 
-&emsp;(5) The term "national security system" has the meaning given that term in section 3542(b)(2) of title 44.
+&emsp;(5) The term "national security system" has the meaning given that term in section 3552(b)(5) <sup>1</sup> of title 44.
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815.)
+&emsp;(6) The term "business process mapping" means a procedure in which the steps in a business process are clarified and documented in both written form and in a flow chart.
+
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, §2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, §803, title IX, §901(d), (k)(3), title X, §1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–291, div. A, title IX, §901(k)(3), Dec. 19, 2014, 128 Stat. 3468, provided that, effective Feb. 1, 2017, this section is amended—</i>
+
+<i>(1) in subsections (c)(2)(E), (f)(1)(D), (f)(1)(E), (f)(2)(E), and (g)(1), by striking "the Deputy Chief Management Officer of the Department of Defense" and inserting "the Under Secretary of Defense for Business Management and Information" wherever appearing; and</i>
+
+<i>(2) in subsection (g)(3)(A), by striking "Deputy Chief Management Officer" the first place appearing and inserting "Under Secretary of Defense for Business Management and Information" and by striking "Deputy Chief Management Officer" the second, third, and fourth places appearing and inserting "Under Secretary".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### Prior Provisions
 
 A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–291, §901(d)(1), inserted "and" at end of par. (1), substituted period for "; and" at end of par. (2), and struck out par. (3) which read as follows: "the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by section 186 of this title."
+
+Subsec. (a)(1)(A). Pub. L. 113–291, §803(b)(1), inserted ", including business process mapping," after "re-engineering efforts".
+
+Subsec. (c)(1). Pub. L. 113–291, §901(d)(2), substituted "investment review board established under subsection (g)" for "Defense Business Systems Management Committee" in introductory provisions.
+
+Subsec. (c)(2)(E). Pub. L. 113–291, §901(k)(3)(A), which directed substitution of "the Under Secretary of Defense for Business Management and Information" for "the Under Secretary of Defense for Business Management and Information", was executed by substituting "The Under Secretary of Defense for Business Management and Information" for "The Deputy Chief Management Officer of the Department of Defense", to reflect the probable intent of Congress.
+
+Subsec. (f)(1)(D), (E). Pub. L. 113–291, §901(k)(3)(A), substituted "the Under Secretary of Defense for Business Management and Information" for "the Deputy Chief Management Officer of the Department of Defense".
+
+Subsec. (f)(2)(E). Pub. L. 113–291, §901(k)(3)(A), which directed substitution of "the Under Secretary of Defense for Business Management and Information" for "the Under Secretary of Defense for Business Management and Information", was executed by substituting "The Under Secretary of Defense for Business Management and Information" for "The Deputy Chief Management Officer of the Department of Defense", to reflect the probable intent of Congress.
+
+Subsec. (g)(1). Pub. L. 113–291, §901(k)(3)(A), substituted "the Under Secretary of Defense for Business Management and Information" for "the Deputy Chief Management Officer of the Department of Defense".
+
+Pub. L. 113–291, §901(d)(3)(A), struck out ", not later than March 15, 2012," before "to establish an investment review board".
+
+Subsec. (g)(2)(C). Pub. L. 113–291, §901(d)(3)(B), substituted "the investment review" for "each investment review" in introductory provisions.
+
+Subsec. (g)(2)(F). Pub. L. 113–291, §901(d)(3)(C), struck out "and the Defense Business Systems Management Committee, as required by section 186(c) of this title," after "Secretary of Defense".
+
+Subsec. (g)(3). Pub. L. 113–291, §1071(f)(16), struck out "(A)" after "(3)".
+
+Pub. L. 113–291, §901(k)(3)(B), which directed substitution of "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" the first time appearing and "Under Secretary" for "Deputy Chief Management Officer" in the three other places appearing in subsec. (g)(3)(A) (effective Feb. 1, 2017), was executed by making the substitution in subsec. (g)(3), to reflect the probable intent of Congress and the amendment by section 1071(f)(16) of Pub. L. 113–291 (effective Dec. 19, 2014). See above.
+
+Subsec. (j)(1). Pub. L. 113–291, §803(a), designated existing provisions as subpar. (A), struck out ", other than a national security system," after "information system", and added subpar. (B).
+
+Subsec. (j)(5). Pub. L. 113–283 substituted "section 3552(b)(5)" for "section 3542(b)(2)".
+
+Subsec. (j)(6). Pub. L. 113–291, §803(b)(2), added par. (6).
 
 <b>2013</b>—Subsec. (e)(1). Pub. L. 113–66, §901(1), substituted "target defense business systems computing environment described in subsection (d)(3)" for "defense business enterprise architecture".
 
@@ -204,13 +250,21 @@ Subsec. (f). Pub. L. 111–84, §1072(a)(2), designated existing provisions as p
 
 <b>2006</b>—Subsec. (j)(6). Pub. L. 109–364 substituted "in section 3542(b)(2) of title 44" for "in section 2315 of this title".
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–291, div. A, title IX, §901(k)(3), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(k)(3) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
+
+#### Deadline for Establishment of Investment Review Board and Investment Management Process
+
+Pub. L. 113–291, div. A, title IX, §901(e), Dec. 19, 2014, 128 Stat. 3464, provided that: "The investment review board and investment management process required by section 2222(g) of title 10, United States Code, as amended by subsection (d)(3), shall be established not later than March 15, 2015."
+
 #### Audit of Department of Defense Fiscal Year 2018 Financial Statements
 
 Pub. L. 113–66, div. A, title X, §1003(a), Dec. 26, 2013, 127 Stat. 842, provided that: "In addition to the requirement under section 1003(a)(2)(A)(ii) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 2222 note) that the Financial Improvement and Audit Readiness Plan describe specific actions to be taken and the costs associated with ensuring that the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, upon the conclusion of fiscal year 2018, the Secretary of Defense shall ensure that a full audit is performed on the financial statements of the Department of Defense for such fiscal year. The Secretary shall submit to Congress the results of that audit by not later than March 31, 2019."
 
 #### Review of Obligation and Expenditure Thresholds
 
-Pub. L. 111–383, div. A, title VIII, §882, Jan. 7, 2011, 124 Stat. 4308, provided that:
+Pub. L. 111–383, div. A, title VIII, §882, Jan. 7, 2011, 124 Stat. 4308, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that:
 
 "(a)
 
@@ -224,11 +278,13 @@ Process Review.—Not later than one year after the date of the enactment of thi
 
 "(b)
 
-Training.—The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Under Secretary of Defense (Comptroller) shall ensure that, as part of the training required for program managers and business managers, an emphasis is placed on obligating and expending appropriated funds in a manner that achieves the best value for the Government and that the purpose and limitations of obligation and expenditure benchmarks are made clear.
+Training.—The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Under Secretary of Defense (Comptroller) shall ensure that, as part of the training required for program managers and business managers, an emphasis is placed on obligating and expending appropriated funds in a mannerthat achieves the best value for the Government and that the purpose and limitations of obligation and expenditure benchmarks are made clear.
 
 "(c)
 
 Report.—The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 275; 10 U.S.C. note prec. 2201) after the completion of the review."
+
+<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title.\]</i>
 
 #### Audit Readiness of Financial Statements of the Department of Defense
 
@@ -254,7 +310,7 @@ Additional elements in fiar plan report.—Each semi-annual report on the Financ
 
 &emsp;&emsp;"(iii) a description of the plan of the military department for meeting the alternative deadline."
 
-Pub. L. 112–81, div. A, title X, §1003, Dec. 31, 2011, 125 Stat. 1555, provided that:
+Pub. L. 112–81, div. A, title X, §1003, Dec. 31, 2011, 125 Stat. 1555, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that:
 
 "(a)
 
@@ -298,7 +354,9 @@ Matters covered.—The report shall include a corrective action plan for any ide
 
 &emsp;&emsp;"(D) provide timeframes for implementation of such measures."
 
-Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, provided that:
+<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title.\]</i>
+
+Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that:
 
 "(a)
 
@@ -306,7 +364,7 @@ Interim Milestones.—
 
 &emsp;"(1)
 
-Requirement.—Not later than 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Under Secretary of Defense (Comptroller), in consultation with the Deputy Chief Management Officer of the Department of Defense, the secretaries of themilitary departments, and the heads of the defense agencies and defense field activities, shall establish interim milestones for achieving audit readiness of the financial statements of the Department of Defense, consistent with the requirements of section 1003 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note).
+Requirement.—Not later than 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Under Secretary of Defense (Comptroller), in consultation with the Deputy Chief Management Officer of the Department of Defense, the secretaries of the military departments, and the heads of the defense agencies and defense field activities, shall establish interim milestones for achieving audit readiness of the financial statements of the Department of Defense, consistent with the requirements of section 1003 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note).
 
 &emsp;"(2)
 
@@ -389,6 +447,8 @@ Report.—The Under Secretary shall include a discussion of the review performed
 &emsp;&emsp;&emsp;"(ii) would contribute to the achievement of Department of Defense goals to prepare auditable financial statements; and
 
 &emsp;&emsp;"(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended."
+
+<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title.\]</i>
 
 Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, §1005(a), Jan. 2, 2013, 126 Stat. 1904; Pub. L. 113–66, div. A, title X, §1003(b), Dec. 26, 2013, 127 Stat. 842, provided that:
 
@@ -506,7 +566,7 @@ Objectives.—The objectives of the business transformation initiative of a mili
 
 &emsp;"(1) The development of a comprehensive business transformation plan, with measurable performance goals and objectives, to achieve an integrated management system for the business operations of the military department.
 
-&emsp;"(2) The development of a well-defined enterprise-wide business systems architecture and transition plan encompassing end-to-end business processes and capable of providing accurately and timely information in support of business decisions of the military department.
+&emsp;"(2) The development of a well-defined enterprise-wide business systems architecture and transitionplan encompassing end-to-end business processes and capable of providing accurately and timely information in support of business decisions of the military department.
 
 &emsp;"(3) The implementation of the business transformation plan developed pursuant to paragraph (1) and the business systems architecture and transition plan developed pursuant to paragraph (2).
 
@@ -696,5 +756,5 @@ Milestone decision authority.—The term 'milestone decision authority' has the 
 
 Milestone a.—The term 'Milestone A' has the meaning given that term in Department of Defense Instruction 5000.2, dated May 12, 2003."
 
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "3552(b)(6)".</i>
 

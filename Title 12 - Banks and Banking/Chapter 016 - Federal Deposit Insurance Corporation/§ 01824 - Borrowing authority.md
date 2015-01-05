@@ -32,7 +32,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 #### (1) In general
 
-&emsp;No amount may be provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section unless an agreement is in effect between the Secretary and the Corporation which—
+&emsp;No amount may be provided by the Secretary of the Treasury to the Corporation under subsection (a) unless an agreement is in effect between the Secretary and the Corporation which—
 
 &emsp;&emsp;(A) provides a schedule for the repayment of the outstanding amount of any borrowing under such subsection; and
 
@@ -44,7 +44,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 &emsp;&emsp;(A) consult with the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the terms of any repayment schedule agreement described in paragraph (1) relating to repayment, including terms relating to any emergency special assessment under section 1817(b)(7) of this title; and
 
-&emsp;&emsp;(B) submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section.
+&emsp;&emsp;(B) submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a).
 
 #### (d) Borrowing for the Deposit Insurance Fund from insured depository institutions
 
@@ -64,11 +64,11 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 #### (B) Applicability of FDIC borrowing limit
 
-&emsp;&emsp;For purposes of the dollar amount limitation established in subsection (a) of this section, any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an amount borrowed from the Treasury under such subsection.
+&emsp;&emsp;For purposes of the dollar amount limitation established in subsection (a), any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an amount borrowed from the Treasury under such subsection.
 
 #### (C) Interest rate limit
 
-&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph\(1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 #### (D) Obligations to be held only by BIF members <sup>1</sup>
 

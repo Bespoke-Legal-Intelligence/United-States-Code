@@ -40,7 +40,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (E) Reapportionment of seats
 
-&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Secretary, if necessary, shall adjust any unit to conform with subparagraphs (A) and (B). If the Secretary makes such an adjustment, the Secretary shall reapportion the seats on the Board to conform with subparagraph (C) and any modifications made under subparagraph (F). If payment of refunds following the initial referendum conducted under section 6305(a) of this title is authorized by producers, in making such adjustments, the Secretary shall exclude, from each State's annual soybean production, those bushels of soybeans on which such refunds are paid.
+&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Secretary, if necessary, shall adjust any unit to conform with subparagraphs (A) and (B). If the Secretary makes such an adjustment, the Secretary shall reapportion the seats on the Board to conform with subparagraph (C) and any modifications made under subparagraph\(F). If payment of refunds following the initial referendum conducted under section 6305(a) of this title is authorized by producers, in making such adjustments, the Secretary shall exclude, from each State's annual soybean production, those bushels of soybeans on which such refunds are paid.
 
 #### (F) Adjustment of levels of production
 
@@ -98,7 +98,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (7) Meetings
 
-&emsp;The order shall provide for at least one meeting of the Board annually and specify the circumstances under which additional special meetings of the Board may be held.
+&emsp;The order shall provide for at least one meeting of the Board annually and specify thecircumstances under which additional special meetings of the Board may be held.
 
 #### (c) Powers and duties of Board
 
@@ -108,11 +108,11 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;(2) to make regulations to effectuate the terms and provisions of the order;
 
-&emsp;(3) if the Board exercises its authority to establish the Committee described in subsection (g) of this section—
+&emsp;(3) if the Board exercises its authority to establish the Committee described in subsection (g)—
 
 &emsp;&emsp;(A) to elect members of the Board to serve on the Committee; and
 
-&emsp;&emsp;(B) if the Board assigns to the Committee the power to develop and submit budgets as provided for in subsection (h)(1) of this section, to approve, modify, or reject budgets submitted by the Committee;
+&emsp;&emsp;(B) if the Board assigns to the Committee the power to develop and submit budgets as provided for in subsection (h)(1), to approve, modify, or reject budgets submitted by the Committee;
 
 &emsp;(4) to submit budgets to the Secretary for the approval or disapproval of the Secretary;
 
@@ -148,7 +148,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (i) Assessment level
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), each unit shall be allotted one vote for each percent, or portion of a percent, of the total amount of assessments remitted to the Board that was remitted from the unit (net of any refunds made under subsection (l)(2) of this section), on the average, during each of the 3 previous fiscal years of the Board.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), each unit shall be allotted one vote for each percent, or portion of a percent, of the total amount of assessments remitted to the Board that was remitted from the unit (net of any refunds made under subsection (l)(2)), on the average, during each of the 3 previous fiscal years of the Board.
 
 #### (ii) First three fiscal years
 
@@ -242,11 +242,11 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (1) Budgets
 
-&emsp;The Board may assign to the Committee the power to develop and submit to the Board, for approval, budgets on a fiscal year basis, as provided for in subsection (e) of this section. The Board shall review and approve, reject, modify, or substitute a budget proposed by the Committee, and submit budgets to the Secretary for the Secretary's approval under subsection (e) of this section.
+&emsp;The Board may assign to the Committee the power to develop and submit to the Board, for approval, budgets on a fiscal year basis, as provided for in subsection (e). The Board shall review and approve, reject, modify, or substitute a budget proposed by the Committee, and submit budgets to the Secretary for the Secretary's approval under subsection (e).
 
 #### (2) Plans and projects
 
-&emsp;The Board may assign to the Committee the power to review, or on its own initiative develop, plans or projects for promotion, research, consumer information, and industry information activities, to be paid for with funds received by the Board as provided for in subsection (f) of this section. Each such plan or project shall be presented to the Board for approval.
+&emsp;The Board may assign to the Committee the power to review, or on its own initiative develop, plans or projects for promotion, research, consumer information, and industry information activities, to be paid for with funds received by the Board as provided for in subsection (f). Each such plan or project shall be presented to the Board for approval.
 
 #### (3) Voting
 
@@ -266,11 +266,11 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (B) Limitation on salaries
 
-&emsp;&emsp;If the Board establishes an administrative staff of its own, the Board is authorized to expend for administrative staff salaries and benefits an amount not to exceed one percent of the projected level of assessments to be collected by the Board, net of any refunds to be made under subsection (l)(2) of this section, for that fiscal year.
+&emsp;&emsp;If the Board establishes an administrative staff of its own, the Board is authorized to expend for administrative staff salaries and benefits an amount not to exceed one percent of the projected level of assessments to be collected by the Board, net of any refunds to be made under subsection (l)(2), for that fiscal year.
 
 #### (C) Reimbursement of organization
 
-&emsp;&emsp;If the staff of national, nonprofit, producer-governed organizations that representproducers of soybeans are used by the Board, the staff of such organizations shall not receive compensation directly from the Board, but such organizations shall be reimbursed for the reasonable expenses of their staffs, including salaries, incurred in performing staff duties on behalf of, and authorized by, the Board.
+&emsp;&emsp;If the staff of national, nonprofit, producer-governed organizations that represent producers of soybeans are used by the Board, the staff of such organizations shall not receive compensation directly from the Board, but such organizations shall be reimbursed for the reasonable expenses of their staffs, including salaries, incurred in performing staff duties on behalf of, and authorized by, the Board.
 
 #### (3) Limitation on administrative costs
 
@@ -328,7 +328,7 @@ The order shall require the Board to—
 
 &emsp;(3) account for the receipt and disbursement of all funds entrusted to the Board.
 
-> The Board shall cause its books and records to be audited by an independent auditor at the end of each fiscal year and a report of such audit to be submitted to the Secretary. The Secretaryshall make such report available to the public upon request.
+> The Board shall cause its books and records to be audited by an independent auditor at the end of each fiscal year and a report of such audit to be submitted to the Secretary. The Secretary shall make such report available to the public upon request.
 
 #### (l) Assessments
 
@@ -338,7 +338,7 @@ The order shall require the Board to—
 
 #### (i) Collection
 
-&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to the Board. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
+&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to theBoard. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
 
 #### (ii) Rate
 
@@ -458,7 +458,7 @@ The order shall require the Board to—
 
 #### (4) Credit for contributions to qualified State soybean boards
 
-&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualified State soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
+&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualifiedState soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
 
 #### (5) Single process of assessment
 
@@ -466,7 +466,7 @@ The order shall require the Board to—
 
 #### (m) Credit for certain costs to States
 
-The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l) of this section.
+The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
 
 #### (n) Minimum level of assessments to States
 
@@ -480,11 +480,11 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 &emsp;&emsp;(A) the amount equal to 1 cent times the average number of bushels of soybeans produced in the State during each of the preceding 5 years (excluding the year in which the production is the highest and the year in which the production is the lowest); exceeds
 
-&emsp;&emsp;(B) the total amount collected by the qualified State soybean board from assessments on producers minus the amount of assessments remitted to the Board during such year under subsection (l) of this section.
+&emsp;&emsp;(B) the total amount collected by the qualified State soybean board from assessments on producers minus the amount of assessments remitted to the Board during such year under subsection (l).
 
 #### (3) Limitation
 
-&emsp;The total amount of credits under paragraph (1) or (2) and assessments retained by the qualified State soybean board for a year may not exceed the total amount of assessments collected in that State under subsection (l) of this section (net of any refunds made under paragraph (2) of subsection (l) of this section) in that year.
+&emsp;The total amount of credits under paragraph (1) or (2) and assessments retained by the qualified State soybean board for a year may not exceed the total amount of assessments collected in that State under subsection (l) (net of any refunds made under paragraph (2) of subsection (l)) in that year.
 
 #### (o) Investment of funds
 
@@ -536,7 +536,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (A) In general
 
-&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretary as is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
+&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretaryas is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
 
 #### (B) Other information
 
@@ -572,7 +572,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (r) Incidental terms and conditions
 
-The order shall provide terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order, including provisions for the assessment of a penalty for each late payment of assessments under subsection (l) of this section.
+The order shall provide terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order, including provisions for the assessment of a penalty for each late payment of assessments under subsection (l).
 
 (Pub. L. 101–624, title XIX, §1969, Nov. 28, 1990, 104 Stat. 3884; Pub. L. 102–237, title VIII, §806(1), Dec. 13, 1991, 105 Stat. 1883.)
 

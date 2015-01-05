@@ -18,7 +18,7 @@
 
 <b>1984</b>—Pub. L. 98–620, title IV, §416(b), Nov. 8, 1984, 98 Stat. 3364, added item 798.
 
-<b>1982</b>—Pub. L. 97–164, title I, §121(b), (c)(2), (d)(2), (f)(2), (g)(2), Apr. 2, 1982, 96 Stat. 34–36, substituted "UNITED STATES CLAIMS COURT" for "COURT OF CLAIMS" as chapter heading and, in analysis of sections in the chapter, struck out item 792 "Commissioners" substituted "Law clerks and secretaries" for "Stenographers and clerical employees" in item 794, substituted "Bailiffs and messengers" for "Bailiff and messenger" in item 795, and substituted "judges" for "commissioners" in item 797.
+<b>1982</b>—Pub. L. 97–164, title I, §121(b), (c)(2), (d)(2), (f)(2), (g)(2), Apr. 2, 1982, 96 Stat. 34–36, substituted "UNITEDSTATES CLAIMS COURT" for "COURT OF CLAIMS" as chapter heading and, in analysis of sections in the chapter, struck out item 792 "Commissioners" substituted "Law clerks and secretaries" for "Stenographers and clerical employees" in item 794, substituted "Bailiffs and messengers" for "Bailiff and messenger" in item 795, and substituted "judges" for "commissioners" in item 797.
 
 <b>1972</b>—Pub. L. 92–375, §1, Aug. 10, 1972, 86 Stat. 529, added item 797.
 

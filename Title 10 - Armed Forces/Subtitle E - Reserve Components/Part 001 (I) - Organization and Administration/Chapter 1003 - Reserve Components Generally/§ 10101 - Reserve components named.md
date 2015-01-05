@@ -70,7 +70,7 @@ Duration.—The duration of the pilot program may not exceed three years.
 
 "(e)
 
-Report.—Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements ofthe pilot program with respect to research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention."
+Report.—Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements of the pilot program with respect to research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention."
 
 #### Behavioral Health Support
 
@@ -182,7 +182,7 @@ Establishment.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Under Secretary of Defense for Personnel and Readiness shall establish the Office for Reintegration Programs within the Office of the Secretary of Defense. The office shall administer all reintegration programs in coordination with State National Guard organizations. The office shall be responsible for coordination with existing National Guard and Reserve family and support programs. The Directors of the Army National Guard and Air National Guard and the Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve may appoint liaison officers to coordinate with the permanent office staff.
+In general.—The Under Secretary of Defense for Personnel and Readiness shall establish the Office for Reintegration Programs within the Office of the Secretary of Defense. The office shalladminister all reintegration programs in coordination with State National Guard organizations. The office shall be responsible for coordination with existing National Guard and Reserve family and support programs. The Directors of the Army National Guard and Air National Guard and the Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve may appoint liaison officers to coordinate with the permanent office staff.
 
 &emsp;&emsp;"(B)
 
@@ -206,7 +206,7 @@ Advisory Board.—
 
 &emsp;"(1)
 
-Appointment.—The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. The advisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs, an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
+Appointment.—The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. The advisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\], an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
 
 &emsp;"(2)
 
@@ -262,7 +262,7 @@ In general.—The Demobilization Phase shall constitute the period from arrival 
 
 &emsp;&emsp;"(B)
 
-Initial reintegration activity.—The purpose of this reintegration program is to educatemembers about the resources that are available to them and to connect members to service providers who can assist them in overcoming the challenges of reintegration.
+Initial reintegration activity.—The purpose of this reintegration program is to educate members about the resources that are available to them and to connect members to service providers who can assist them in overcoming the challenges of reintegration.
 
 &emsp;"(5)
 
@@ -374,7 +374,7 @@ Pub. L. 108–375, div. A, title V, §513(h), Oct. 28, 2004, 118 Stat. 1882, pro
 
 #### Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status
 
-Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated forDepartment of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
+Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 Similar provisions were contained in the following prior appropriation acts:
 

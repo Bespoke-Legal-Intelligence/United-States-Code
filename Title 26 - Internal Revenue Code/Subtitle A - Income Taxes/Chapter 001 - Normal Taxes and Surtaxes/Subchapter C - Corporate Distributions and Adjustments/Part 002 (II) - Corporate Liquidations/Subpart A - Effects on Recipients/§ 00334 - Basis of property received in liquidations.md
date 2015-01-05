@@ -12,7 +12,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 &emsp;&emsp;(A) the basis of such property shall be the fair market value of the property at the time of the distribution in any case in which gain or loss is recognized by the liquidating corporation with respect to such property, and
 
-&emsp;&emsp;(B) the basis of any property described in section 362(e)(1)(B) shall be the fair marketvalue of the property at the time of the distribution in any case in which such distributee's aggregate adjusted basis of such property would (but for this subparagraph) exceed the fair market value of such property immediately after such liquidation.
+&emsp;&emsp;(B) the basis of any property described in section 362(e)(1)(B) shall be the fair market value of the property at the time of the distribution in any case in which such distributee's aggregate adjusted basis of such property would (but for this subparagraph) exceed the fair market value of such property immediately after such liquidation.
 
 #### (2) Corporate distributee
 
@@ -28,7 +28,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 "(B) in any case in which the liquidating corporation is a foreign corporation, the corporate distributee is a domestic corporation, and the corporate distributee's aggregate adjusted bases of property described in section 362(e)(1)(B) which is distributed in such liquidation would (but for this subparagraph) exceed the fair market value of such property immediately after such liquidation."
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–357 reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "If property is received by a corporate distributee in a distribution in a complete liquidation to which section 332 applies (or in a transfer described in section 337(b)(1)), the basis of such property in the hands of such distributee shall be the same as it would be in the hands of the transferor; except that, in any case in which gain or loss is recognized by the liquidating corporation with respect to such property, the basis of such property in the hands of such distributee shall be the fair market value of the property at the time of the distribution."
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–357 reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "If property is received by a corporate distributee in a distribution in a complete liquidation to which section 332 applies (or in a transfer described in section 337(b)(1)), the basis of such property in the hands of such distributee shallbe the same as it would be in the hands of the transferor; except that, in any case in which gain or loss is recognized by the liquidating corporation with respect to such property, the basis of such property in the hands of such distributee shall be the fair market value of the property at the time of the distribution."
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–277 substituted "section 332" for "section 332(a)".
 
@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 97–248, §224(b), struck out heading to par. (1) "In gene
 
 <b>1966</b>—Subsec. (b)(2)(B). Pub. L. 89–809, §202(b), inserted provisions for the determination of the date on which to commence the running of the 12-month period during which the distributee must have acquired the stock by purchase by adding clauses (i) and (ii).
 
-Subsec. (b)(3). Pub. L. 89–809, §202(a), inserted provision that, for purposes of par. (2)(B), "purchase" alsomeans an acquisition of stock from a corporation when ownership of such stock would be attributed under section 318(a) to the person acquiring such stock, if the stock of such corporation by reason of which such ownership would be attributed was acquired by purchase.
+Subsec. (b)(3). Pub. L. 89–809, §202(a), inserted provision that, for purposes of par. (2)(B), "purchase" also means an acquisition of stock from a corporation when ownership of such stock would be attributed under section 318(a) to the person acquiring such stock, if the stock of such corporation by reason of which such ownership would be attributed was acquired by purchase.
 
 #### Effective Date of 2005 Amendment
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 99–514 applicable to any distribution in complete liquida
 
 Amendment by section 222(e)(1)(C) of Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
 
-Amendment by section 224(b) of Pub. L. 97–248 applicable to any target corporation with respect to which the acquisition date occurs after Aug. 31, 1982, with special rules for certain acquisitions before Sept. 1, 1982, and certain acquisitions of financial institutions in which there was a binding contract on July 22, 1982, to acquire control, see section 224(d) of Pub. L. 97–248, set out as an Effective Date note under section 338 of this title.
+Amendment by section 224(b) of Pub. L. 97–248 applicable to any target corporation with respect to whichthe acquisition date occurs after Aug. 31, 1982, with special rules for certain acquisitions before Sept. 1, 1982, and certain acquisitions of financial institutions in which there was a binding contract on July 22, 1982, to acquire control, see section 224(d) of Pub. L. 97–248, set out as an Effective Date note under section 338 of this title.
 
 #### Effective Date of 1976 Amendment
 

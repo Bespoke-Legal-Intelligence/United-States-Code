@@ -10,7 +10,7 @@ The Secretary may not make a grant under section 280c–3(a) of this title to a 
 
 &emsp;(1) the State submits to the Secretary a description of the purposes for which the State intends to expend the grant; and
 
-&emsp;(2) such description provides information relating to the programs and activities to be supported and services to be provided, including—
+&emsp;(2) such description provides information relating to the programs and activities to besupported and services to be provided, including—
 
 &emsp;&emsp;(A) the number of individuals who will receive services pursuant to section 280c–3(a) of this title and the average costs of providing such services to each such individual; and
 

@@ -28,7 +28,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 &emsp;&emsp;(E) one member representing the general public, nominated by the Board; and
 
-&emsp;&emsp;(F) at the option of the Board, a consultant or advisor representing the views of pecan producers in a country other than the United States who may be chosen to attend Board functions as a nonvoting member.
+&emsp;&emsp;(F) at the option of the Board, a consultant or advisor representing the views ofpecan producers in a country other than the United States who may be chosen to attend Board functions as a nonvoting member.
 
 #### (4) Representation of members
 
@@ -88,7 +88,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 #### (D) Certification
 
-&emsp;&emsp;Except for the establishment of the initial Board, the nominations made under subparagraph (C) and subsections (b)(3)(D) and (b)(3)(E) of this section shall be certified by the Board and submitted to the Secretary no later than May 1 or such other date recommended by the Board and approved by the Secretary preceding the commencement of the term of office for Board membership, as established in paragraph (9).
+&emsp;&emsp;Except for the establishment of the initial Board, the nominations made under subparagraph (C) and subsections (b)(3)(D) and (b)(3)(E) shall be certified by the Board and submitted to the Secretary no later than May 1 or such other date recommended by the Board and approved by the Secretary preceding the commencement of the term of office for Board membership, as established in paragraph (9).
 
 #### (E) Appointment
 
@@ -150,9 +150,9 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 &emsp;(6) to prepare and submit for the approval of the Secretary, prior to the beginning of each fiscal period, a recommended rate of assessment under section 6007 of this title, and a fiscal period budget of the anticipated expenses in the administration of the plan, including the probable costs of all programs and projects;
 
-&emsp;(7) to develop programs and projects, subject to subsection (d) of this section;
+&emsp;(7) to develop programs and projects, subject to subsection (d);
 
-&emsp;(8) to enter into contracts or agreements, subject to subsection (e) of this section, to develop and carry out programs or projects of promotion, research, industry information and consumer information;
+&emsp;(8) to enter into contracts or agreements, subject to subsection (e), to develop and carry out programs or projects of promotion, research, industry information and consumer information;
 
 &emsp;(9) to carry out research, promotion, industry information, and consumer information, and to pay the costs of such projects with assessments collected pursuant to section 6007 of this title;
 
@@ -188,7 +188,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 #### (2) Budgets
 
-&emsp;The plan shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of such fiscal year, to submit to the Secretary for approval budgets of its anticipated expenses (including reimbursements under subsection (b)(10) of this section) and disbursements in the implementation of the plan, including projected costs of promotion, research, consumer information, and industry information programs and projects.
+&emsp;The plan shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of such fiscal year, to submit to the Secretary for approval budgets of its anticipated expenses (including reimbursements under subsection (b)(10)) and disbursements in the implementation of the plan, including projected costs of promotion, research, consumer information, and industry information programs and projects.
 
 #### (3) Incurring expenses
 
@@ -196,7 +196,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 #### (4) Paying expenses
 
-&emsp;The funds to cover the expenses referred to in paragraph (3) shall be paid by the Boardfrom assessments collected under section 6007 of this title or funds borrowed pursuant to paragraph (5).
+&emsp;The funds to cover the expenses referred to in paragraph (3) shall be paid by the Board from assessments collected under section 6007 of this title or funds borrowed pursuant to paragraph (5).
 
 #### (5) Authority to borrow
 
@@ -298,7 +298,7 @@ The Board shall not engage in any action to, nor shall any funds received by the
 
 #### (A) Exception
 
-&emsp;&emsp;Except as provided in this chapter, information obtained under this chapter may be made available to another agency of the Federal Government for a civil or criminal law enforcement activity if the activity is authorized by law and if the head of the agency has made a written request to the Secretary specifying the particular information desired and the law enforcement activity for which the information is sought.
+&emsp;&emsp;Except as provided in this chapter, information obtained under this chapter may bemade available to another agency of the Federal Government for a civil or criminal law enforcement activity if the activity is authorized by law and if the head of the agency has made a written request to the Secretary specifying the particular information desired and the law enforcement activity for which the information is sought.
 
 #### (B) Penalty
 

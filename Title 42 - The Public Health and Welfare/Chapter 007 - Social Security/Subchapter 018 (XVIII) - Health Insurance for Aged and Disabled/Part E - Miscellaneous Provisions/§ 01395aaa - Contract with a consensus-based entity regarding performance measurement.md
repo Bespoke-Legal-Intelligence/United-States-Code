@@ -62,7 +62,7 @@ The duties described in this subsection are the following:
 
 &emsp;&emsp;By not later than March 1 of each year (beginning with 2009), the entity shall submit to Congress and the Secretary a report containing a description of—
 
-&emsp;&emsp;&emsp;(i) the implementation of quality measurement initiatives under this chapter and the coordination of such initiatives with quality initiatives implemented by other payers;
+&emsp;&emsp;&emsp;(i) the implementation of quality measurement initiatives under this chapter and the coordination of such initiatives withquality initiatives implemented by other payers;
 
 &emsp;&emsp;&emsp;(ii) the recommendations made under paragraph (1);
 
@@ -106,7 +106,7 @@ The duties described in this subsection are the following:
 
 &emsp;&emsp;&emsp;Subject to clause (ii), the quality and efficiency measures described in this subparagraph are quality and efficiency measures—
 
-&emsp;&emsp;&emsp;&emsp;(I) for use pursuant to sections 1395f(i)(5)(D), 1395l(i)(7), 1395l(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii), 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(o)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) for use pursuant to sections 1395f(i)(5)(D), 1395l(i)(7), 1395l(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii),<sup>1</sup> 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(o)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) for use in reporting performance information to the public; and
 
@@ -170,7 +170,7 @@ The requirements described in this subsection are the following:
 
 #### (5) Voluntary consensus standards setting organization
 
-&emsp;The entity operates as a voluntary consensus standards setting organization as defined for purposes of section 12(d) of the National Technology Transfer and Advancement Act of1995 (Public Law 104–113) and Office of Management and Budget Revised Circular A–119 (published in the Federal Register on February 10, 1998).
+&emsp;The entity operates as a voluntary consensus standards setting organization as defined for purposes of section 12(d) of the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113) and Office of Management and Budget Revised Circular A–119 (published in the Federal Register on February 10, 1998).
 
 #### (6) Experience
 
@@ -182,11 +182,15 @@ The requirements described in this subsection are the following:
 
 #### (d) Funding
 
-For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
+(1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197.)
+(2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare \& Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014 and $15,000,000 for the first 6 months of fiscal year 2015. Amounts transferred under the preceding sentence shall remain available until expended.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043.)
 
 #### References in Text
+
+Clause (iii) of section 1395rr(h)(2)(A) of this title, referred to in subsec. (b)(7)(B)(i)(I), was redesignated clause (iv) by Pub. L. 113–93, title II, §217(d)(1)(B), Apr. 1, 2014, 128 Stat. 1062.
 
 Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (c)(5), is section 12(d) of Pub. L. 104–113, which is set out as a note under section 272 of Title 15, Commerce and Trade.
 
@@ -199,6 +203,8 @@ In subsec. (a)(4), "section 132 of title 41" substituted for "section 4(5) of th
 A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Aug. 18, 1987, Pub. L. 100–93, §10, 101 Stat. 696, which related to limitation of liability of beneficiaries with respect to services furnished by excluded individuals and entities, was amended and transferred to section 1862(e)(2) of act Aug. 14, 1935, by Pub. L. 100–360, title IV, §411(i)(4)(D)(ii), July 1, 1988, 102 Stat. 790, as amended by Pub. L. 100–485, title VI, §608(d)(24)(C)(ii), Oct. 13, 1988, 102 Stat. 2421, and is classified to section 1395y(e)(2) of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–93 designated existing provisions as par. (1) and added par. (2).
 
 <b>2013</b>—Subsec. (b)(4). Pub. L. 112–240, §609(a)(2), struck out par. (4). Text read as follows: "The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information."
 
@@ -219,4 +225,6 @@ Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of "q
 Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted "1395ww(s)(4)(D)," after "1395ww(o)(2),".
 
 Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

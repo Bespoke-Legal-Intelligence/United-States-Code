@@ -22,7 +22,7 @@ The Secretary is authorized to award a competitive grant to a national nonprofit
 
 &emsp;The grantee shall use 75 percent of the funds made available through the grant for a fiscal year to award subgrants to State educational agencies or local educational agencies, and State or local economic, personal finance, or entrepreneurial education organizations (referred to in this section as the "recipient"). The grantee shall award such a subgrant to pay for the Federal share of the cost of enabling the recipient to work in partnership with one or more of the entities described in paragraph (3) for one or more of the following purposes:
 
-&emsp;&emsp;(A) Collaboratively establishing and conducting teacher training programs that use effective and innovative approaches to the teaching of economics, personal finance, and entrepreneurship.
+&emsp;&emsp;(A) Collaboratively establishing and conducting teacher training programs that useeffective and innovative approaches to the teaching of economics, personal finance, and entrepreneurship.
 
 &emsp;&emsp;(B) Providing resources to school districts that desire to incorporate economics and personal finance into the curricula of the schools in the districts.
 

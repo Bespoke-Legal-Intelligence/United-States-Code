@@ -6,7 +6,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 &emsp;(1) the Secretary may waive compliance with any of the requirements of section 302, 602, 654, 1202, 1352, 1382, or 1396a of this title, as the case may be, to the extent and for the period he finds necessary to enable such State or States to carry out such project, and
 
-&emsp;(2)(A) costs of such project which would not otherwise be included as expenditures under section 303, 655, 1203, 1353, 1383, or 1396b of this title, as the case may be, and which are not included as part of the costs of projects undersection 1310 of this title, shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under the State plan or plans approved under such subchapter, or for administration of such State plan or plans, as may be appropriate, and
+&emsp;(2)(A) costs of such project which would not otherwise be included as expenditures under section 303, 655, 1203, 1353, 1383, or 1396b of this title, as the case may be, and which are not included as part of the costs of projects under section 1310 of this title, shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under the State plan or plans approved under such subchapter, or for administration of such State plan or plans, as may be appropriate, and
 
 &emsp;(B) costs of such project which would not otherwise be a permissible use of funds under part A of subchapter IV of this chapter and which are not included as part of the costs of projects under section 1310 of this title, shall to the extent and for the period prescribed by the Secretary, be regarded as a permissible use of funds under such part.
 
@@ -14,13 +14,15 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 #### (b) Child support enforcement programs
 
-In the case of any experimental, pilot, or demonstration project undertaken under subsection (a) of this section to assist in promoting the objectives of part D of subchapter IV of this chapter, the project—
+(1) In the case of any experimental, pilot, or demonstration project undertaken under subsection (a) of this section to assist in promoting the objectives of part D of subchapter IV, the project—
 
-&emsp;(1) must be designed to improve the financial well-being of children or otherwise improve the operation of the child support program;
+&emsp;(A) must be designed to improve the financial well-being of children or otherwise improve the operation of the child support program;
 
-&emsp;(2) may not permit modifications in the child support program which would have the effect of disadvantaging children in need of support; and
+&emsp;(B) may not permit modifications in the child support program which would have the effect of disadvantaging children in need of support; and
 
-&emsp;(3) must not result in increased cost to the Federal Government under part A of such subchapter.
+&emsp;(C) must not result in increased cost to the Federal Government under part A of such subchapter.
+
+(2) An Indian tribe or tribal organization operating a program under section 655(f) of this title shall be considered a State for purposes of authority to conduct an experimental, pilot, or demonstration project under subsection (a) to assist in promoting the objectives of part D of subchapter IV and receiving payments under the second sentence of that subsection. The Secretary may waive compliance with any requirements of section 655(f) of this title or regulations promulgated under that section to the extent and for the period the Secretary finds necessary for an Indian tribe or tribal organization to carry out such project. Costs of the project which would not otherwise be included as expenditures of a program operating under section 655(f) of this title and which are not included as part of the costs of projects under section 1310 of this title, shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under a tribal plan or plans approved under such section, or for the administration of such tribal plan or plans, as may be appropriate. An Indian tribe or tribal organization applying for or receiving start-up program development funding pursuant to section 309.16 of title 45, Code of Federal Regulations, shall not be considered to be an Indian tribe or tribal organization operating a program under section 655(f) of this title for purposes of this paragraph.
 
 #### (c) Demonstration projects to test alternative definitions of unemployment
 
@@ -34,7 +36,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 (4) A demonstration project under this subsection may be commenced any time after September 30, 1990, and shall be conducted for such period of time as the agreement with the Secretary may provide; except that, in no event may a demonstration project under this section be conducted after September 30, 1995.
 
-(5)(A) Any State with an agreement under this subsection shall evaluate the comparative cost and employment effects of the use of the definition of unemployment in its demonstration project under this section by use of experimental and control groups comprised of a random sample of individuals receiving aid under section 607 of this title and shall furnish the Secretary with such information as the Secretary determines to be necessary to evaluate the results of the project conducted by the State.
+(5)(A) Any State with an agreement under this subsection shall evaluate the comparative cost and employment effects of the use of the definition of unemployment in its demonstration project under this section by use of experimental and control groups comprised of a random sample of individuals receiving aid under section 607 of this title and shall furnish theSecretary with such information as the Secretary determines to be necessary to evaluate the results of the project conducted by the State.
 
 (B) The Secretary shall report the results of the demonstration projects conducted under this subsection to the Congress not later than 6 months after all such projects are completed.
 
@@ -90,7 +92,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(4) During the 30-day period that begins on the date information described in paragraph (3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
 
-&emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiver project is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
+&emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiverproject is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
 
 &emsp;&emsp;(i) approve the application subject to such modifications in the terms and conditions—
 
@@ -106,13 +108,15 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(7) An extension of a waiver project under this subsection shall be subject to the final reporting and evaluation requirements of paragraphs (4) and (5) of subsection (e) of this section (taking into account the extension under this subsection with respect to any timing requirements imposed under those paragraphs).
 
-(Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat.192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527; Pub. L. 106–554, §1(a)(6) \[title VII, §703(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574; Pub. L. 111–148, title II, §2601(b)(2), title X, §10201(i), Mar. 23, 2010, 124 Stat. 315, 922.)
+(Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat. 192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527; Pub. L. 106–554, §1(a)(6) \[title VII, §703(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574; Pub. L. 111–148, title II, §2601(b)(2), title X, §10201(i), Mar. 23, 2010, 124 Stat. 315, 922; Pub. L. 113–183, title III, §302(b), Sept. 29, 2014, 128 Stat. 1945.)
 
 #### References in Text
 
 Sections 1382 and 1383 of this title, referred to in subsec. (a)(1), (2), respectively, are references to sections 1382 and 1383 of this title as they existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior sections (which are set out as notes under sections 1382 and 1383, respectively, of this title) continue in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–183 designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), realigned margins, and added par. (2).
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–148, §10201(i), added subsec. (d).
 
@@ -190,7 +194,7 @@ Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see Pub. L. 99–272, tit
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date,see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -332,7 +336,7 @@ Evaluation and Report.—(1) Each State conducting a demonstration project under
 
 "(f)
 
-Funding.—(1) Three-fifths of the total amount appropriated pursuant to this section for any fiscal year for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated project home base, and 5 percent of such three-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
+Funding.—(1) Three-fifths of the total amount appropriated pursuant to this section for any fiscalyear for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated project home base, and 5 percent of such three-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
 
 "(2) Two-fifths of the total amounts appropriated pursuant to this section for any fiscal year for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated peripheral area, and 5 percent of such two-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
 
@@ -350,7 +354,7 @@ Pub. L. 93–233, §11, Dec. 31, 1973, 87 Stat. 958, provided that:
 
 "(a) If any State (other than the Commonwealth of Puerto Rico, the Virgin Islands, or Guam) has any experimental, pilot, or demonstration project (referred to in section 1115 of the Social Security Act \[42 U.S.C. 1315\])—
 
-&emsp;"(1) which (prior to October 1, 1973) has been approved by the Secretary of Health, Education, andWelfare \[now Health and Human Services\] (hereinafter in this section referred to as the 'Secretary'), for a period which ends on or after December 31, 1973, as being a project with respect to which the authority conferred upon him by subsection (a) or (b) of such section 1115 \[42 U.S.C. 1315(a), (b)\] will be exercised, and
+&emsp;"(1) which (prior to October 1, 1973) has been approved by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the 'Secretary'), for a period which ends on or after December 31, 1973, as being a project with respect to which the authority conferred upon him by subsection (a) or (b) of such section 1115 \[42 U.S.C. 1315(a), (b)\] will be exercised, and
 
 &emsp;"(2) with respect to the costs of which Federal financial participation would (except for the provisions of this section) be denied or reduced on account of the enactment of section 301 of the Social Security Amendments of 1972 \[enacting subchapter XVI of this chapter\],
 

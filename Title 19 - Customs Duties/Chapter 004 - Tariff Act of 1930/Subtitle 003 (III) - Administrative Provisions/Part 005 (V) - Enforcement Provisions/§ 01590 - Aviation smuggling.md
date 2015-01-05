@@ -48,7 +48,7 @@ In this section, the term "aircraft"—
 
 #### (h) Intent of transfer of merchandise
 
-For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) of this section or section 1595a of this title, shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
+For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible forsuch merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) of this section or section 1595a of this title, shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
 
 &emsp;(1) The operation of an aircraft or a vessel without lights during such times as lights are required to be displayed under applicable law.
 

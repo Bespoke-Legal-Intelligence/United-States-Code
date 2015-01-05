@@ -18,7 +18,7 @@ The purposes of the program under subsection (a) shall be the following:
 
 The Secretary of Energy shall carry out the program provided for in subsection (a). The program shall be carried out with the participation of representatives of the Department of Defense, the nuclear weapons production facilities, and the national security laboratories.
 
-(Pub. L. 107–314, div. D, title XLII, §4207, formerly Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075; Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, title XLII, §4207, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(8), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 113–66, div. C, title XXXI, §3146(c)(4), Dec. 26, 2013, 127 Stat. 1074.)
+(Pub. L. 107–314, div. D, title XLII, §4207, formerly Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075; Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, titleXLII, §4207, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(8), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 113–66, div. C, title XXXI, §3146(c)(4), Dec. 26, 2013, 127 Stat. 1074.)
 
 #### Codification
 

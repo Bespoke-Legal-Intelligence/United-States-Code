@@ -36,7 +36,7 @@
 
 #### (b) United States shareholder defined
 
-For purposes of this subpart, the term "United States shareholder" means, with respect to anyforeign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation.
+For purposes of this subpart, the term "United States shareholder" means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation.
 
 #### (c) Coordination with passive foreign investment company provisions
 
@@ -102,7 +102,7 @@ Pub. L. 105–34, title XI, §1112(a)(2), Aug. 5, 1997, 111 Stat. 969, provided 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31,1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -8,183 +8,52 @@ There is hereby imposed a tax on any taxable chemical sold by the manufacturer, 
 
 The amount of the tax imposed by subsection (a) shall be determined in accordance with the following table:
 
-<b> </b>
-
-<b>The tax is the following</b>
-
-<b>  In the case of:</b>
-
-<b>amount per ton</b>
-
-Acetylene
-
-$4.87
-
-Benzene
-
-4\.87
-
-Butane
-
-4\.87
-
-Butylene
-
-4\.87
-
-Butadiene
-
-4\.87
-
-Ethylene
-
-4\.87
-
-Methane
-
-3\.44
-
-Naphthalene
-
-4\.87
-
-Propylene
-
-4\.87
-
-Toluene
-
-4\.87
-
-Xylene
-
-4\.87
-
-Ammonia
-
-2\.64
-
-Antimony
-
-4\.45
-
-Antimony trioxide
-
-3\.75
-
-Arsenic
-
-4\.45
-
-Arsenic trioxide
-
-3\.41
-
-Barium sulfide
-
-2\.30
-
-Bromine
-
-4\.45
-
-Cadmium
-
-4\.45
-
-Chlorine
-
-2\.70
-
-Chromium
-
-4\.45
-
-Chromite
-
-1\.52
-
-Potassium dichromate
-
-1\.69
-
-Sodium dichromate
-
-1\.87
-
-Cobalt
-
-4\.45
-
-Cupric sulfate
-
-1\.87
-
-Cupric oxide
-
-3\.59
-
-Cuprous oxide
-
-3\.97
-
-Hydrochloric acid
-
-0\.29
-
-Hydrogen fluoride
-
-4\.23
-
-Lead oxide
-
-4\.14
-
-Mercury
-
-4\.45
-
-Nickel
-
-4\.45
-
-Phosphorus
-
-4\.45
-
-Stannous chloride
-
-2\.85
-
-Stannic chloride
-
-2\.12
-
-Zinc chloride
-
-2\.22
-
-Zinc sulfate
-
-1\.90
-
-Potassium hydroxide
-
-0\.22
-
-Sodium hydroxide
-
-0\.28
-
-Sulfuric acid
-
-0\.26
-
-Nitric acid
-
-0\.24
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+
+| In the case of: | <b>The tax is the following amount per ton</b> |
+| :--- | ---: |
+| Acetylene | $4.87 |
+| Benzene | 4\.87 |
+| Butane | 4\.87 |
+| Butylene | 4\.87 |
+| Butadiene | 4\.87 |
+| Ethylene | 4\.87 |
+| Methane | 3\.44 |
+| Naphthalene | 4\.87 |
+| Propylene | 4\.87 |
+| Toluene | 4\.87 |
+| Xylene | 4\.87 |
+| Ammonia | 2\.64 |
+| Antimony | 4\.45 |
+| Antimony trioxide | 3\.75 |
+| Arsenic | 4\.45 |
+| Arsenic trioxide | 3\.41 |
+| Barium sulfide | 2\.30 |
+| Bromine | 4\.45 |
+| Cadmium | 4\.45 |
+| Chlorine | 2\.70 |
+| Chromium | 4\.45 |
+| Chromite | 1\.52 |
+| Potassium dichromate | 1\.69 |
+| Sodium dichromate | 1\.87 |
+| Cobalt | 4\.45 |
+| Cupric sulfate | 1\.87 |
+| Cupric oxide | 3\.59 |
+| Cuprous oxide | 3\.97 |
+| Hydrochloric acid | 0\.29 |
+| Hydrogen fluoride | 4\.23 |
+| Lead oxide | 4\.14 |
+| Mercury | 4\.45 |
+| Nickel | 4\.45 |
+| Phosphorus | 4\.45 |
+| Stannous chloride | 2\.85 |
+| Stannic chloride | 2\.12 |
+| Zinc chloride | 2\.22 |
+| Zinc sulfate | 1\.90 |
+| Potassium hydroxide | 0\.22 |
+| Sodium hydroxide | 0\.28 |
+| Sulfuric acid | 0\.26 |
+| Nitric acid | 0\.24 |
 
 > For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting "10.13" for "4.87".
 
@@ -202,7 +71,7 @@ Amendment by Pub. L. 99–509, title VIII, §8031(d)(2), Oct. 21, 1986, 100 Stat
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–499 inserted at end "For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting '10.13' for '4.87'."
 
-Subsec. (c). Pub. L. 99–509 substituted "the Hazardous Substance Superfund financing rate under section 4611does not apply" for "no tax is imposed under section 4611(a)".
+Subsec. (c). Pub. L. 99–509 substituted "the Hazardous Substance Superfund financing rate under section 4611 does not apply" for "no tax is imposed under section 4611(a)".
 
 #### Effective Date of 1986 Amendments
 
@@ -256,7 +125,7 @@ Exception where manufacturer paid tax.—In the case of any inventory exchange b
 
 &emsp;"(D)
 
-Registration requirements.—Section 4662(c)(2)(B) of such Code (as added by subsection (f)) shall apply to exchanges made after December 31, 1986.
+Registration requirements.—Section 4662(c)(2)(B) of such Code (as added by subsection (f))shall apply to exchanges made after December 31, 1986.
 
 "(4)
 

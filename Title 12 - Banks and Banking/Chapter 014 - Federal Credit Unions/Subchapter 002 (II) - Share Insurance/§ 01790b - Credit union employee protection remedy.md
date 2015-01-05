@@ -18,11 +18,11 @@
 
 #### (b) Enforcement
 
-Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) of this section may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the Board.
+Any employee or former employee who believes he has been discharged or discriminatedagainst in violation of subsection (a) may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the Board.
 
 #### (c) Remedies
 
-If the district court determines that a violation of subsection (a) of this section has occurred, it may order the credit union or the Administration which committed the violation—
+If the district court determines that a violation of subsection (a) has occurred, it may order the credit union or the Administration which committed the violation—
 
 &emsp;(1) to reinstate the employee to his former position,
 
@@ -38,7 +38,7 @@ The protections of this section shall not apply to any employee who—
 
 &emsp;(2) knowingly or recklessly provides substantially false information to such an agency or the Attorney General.
 
-(June 26, 1934, ch. 750, title II, §213, as added Pub. L. 101–73, title IX, §932(b), Aug. 9, 1989, 103Stat. 494; amended Pub. L. 102–242, title II, §251(b)(1), (2), Dec. 19, 1991, 105 Stat. 2332, 2333; Pub. L. 102–550, title XVI, §1604(d), Oct. 28, 1992, 106 Stat. 4084.)
+(June 26, 1934, ch. 750, title II, §213, as added Pub. L. 101–73, title IX, §932(b), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, §251(b)(1), (2), Dec. 19, 1991, 105 Stat. 2332, 2333; Pub. L. 102–550, title XVI, §1604(d), Oct. 28, 1992, 106 Stat. 4084.)
 
 #### Amendments
 

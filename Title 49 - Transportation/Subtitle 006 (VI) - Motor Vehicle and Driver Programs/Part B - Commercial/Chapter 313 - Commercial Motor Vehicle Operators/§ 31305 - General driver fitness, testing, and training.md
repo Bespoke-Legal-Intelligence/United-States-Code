@@ -208,7 +208,7 @@ Pub. L. 105–178, title IV, §4019, June 9, 1998, 112 Stat. 414, provided that:
 
 "(a)
 
-Review.—Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall complete a review of the procedures established and implemented by States under section 31305 of title 49, United States Code, to determine if the current system for testing is an accurate measure and reflection of an individual's knowledge and skills as an operator of a commercial motor vehicle and to identify methods to improve testing and licensing standards, including identifying the benefits and costs of a graduated licensing system.
+Review.—Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Secretary \[ofTransportation\] shall complete a review of the procedures established and implemented by States under section 31305 of title 49, United States Code, to determine if the current system for testing is an accurate measure and reflection of an individual's knowledge and skills as an operator of a commercial motor vehicle and to identify methods to improve testing and licensing standards, including identifying the benefits and costs of a graduated licensing system.
 
 "(b)
 

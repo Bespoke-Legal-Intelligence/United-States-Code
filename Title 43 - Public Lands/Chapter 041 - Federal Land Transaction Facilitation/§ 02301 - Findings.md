@@ -18,7 +18,7 @@ Congress finds that—
 
 &emsp;&emsp;(C) allow for increased effectiveness of the allocation of fiscal and human resources within the Federal land management agencies;
 
-&emsp;(6) a more expeditious process for disposal and acquisition of land, established to facilitate a more effective configuration of land ownership patterns, would benefit the public interest;
+&emsp;(6) a more expeditious process for disposal and acquisition of land, established to facilitate a more effective configuration of landownership patterns, would benefit the public interest;
 
 &emsp;(7) many private individuals own land within the boundaries of Federal land management units and desire to sell the land to the Federal Government;
 

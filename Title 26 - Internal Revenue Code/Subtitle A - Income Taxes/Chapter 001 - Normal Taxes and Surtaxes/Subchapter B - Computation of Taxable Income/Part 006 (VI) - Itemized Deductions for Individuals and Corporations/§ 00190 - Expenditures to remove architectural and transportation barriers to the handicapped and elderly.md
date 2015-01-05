@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (3) Handicapped individual
 
-&emsp;The term "handicapped individual" means any individual who has a physical or mental disability (including, but not limited to, blindness or deafness) which for such individual constitutes or results in a functional limitation to employment, or who has any physical or mental impairment (including, but not limited to, a sight or hearing impairment) which substantially limits one or more major life activities of such individual.
+&emsp;The term "handicapped individual" means any individual who has a physical or mentaldisability (including, but not limited to, blindness or deafness) which for such individual constitutes or results in a functional limitation to employment, or who has any physical or mental impairment (including, but not limited to, a sight or hearing impairment) which substantially limits one or more major life activities of such individual.
 
 #### (c) Limitation
 

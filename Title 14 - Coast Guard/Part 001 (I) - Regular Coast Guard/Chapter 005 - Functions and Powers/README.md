@@ -8,10 +8,15 @@
 | [84\.](%C2%A7%2000084%20-%20Interference%20with%20aids%20to%20navigation%3B%20penalty.md) | Interference with aids to navigation; penalty. |
 | [85\.](%C2%A7%2000085%20-%20Aids%20to%20maritime%20navigation%3B%20penalty.md) | Aids to maritime navigation; penalty. |
 | [86\.](%C2%A7%2000086%20-%20Marking%20of%20obstructions.md) | Marking of obstructions. |
-| \[87. | Repealed.\] |
+| [87\.](%C2%A7%2000087%20-%20Icebreaking%20in%20polar%20regions.md) | Icebreaking in polar regions. |
 | [88\.](%C2%A7%2000088%20-%20Saving%20life%20and%20property.md) | Saving life and property. |
 | [89\.](%C2%A7%2000089%20-%20Law%20enforcement.md) | Law enforcement. |
-| \[90. | Repealed.\] |
+| [90\.](%C2%A7%2000090%20-%20Arctic%20maritime%20transportation.md) | Arctic maritime transportation <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [91\.](%C2%A7%2000091%20-%20Safety%20of%20naval%20vessels.md) | Safety of naval vessels. |
 | [92\.](%C2%A7%2000092%20-%20Secretary%3B%20general%20powers.md) | Secretary; general powers. |
 | [93\.](%C2%A7%2000093%20-%20Commandant%3B%20general%20powers.md) | Commandant; general powers. |
@@ -23,10 +28,14 @@
 | [99\.](%C2%A7%2000099%20-%20Enforcement%20authority.md) | Enforcement authority. |
 | [100\.](%C2%A7%2000100%20-%20Enforcement%20of%20coastwise%20trade%20laws.md) | Enforcement of coastwise trade laws. |
 | [101\.](%C2%A7%2000101%20-%20Appeals%20and%20waivers.md) | Appeals and waivers. |
+| [102\.](%C2%A7%2000102%20-%20Agreements.md) | Agreements. |
+| [103\.](%C2%A7%2000103%20-%20Notification%20of%20certain%20determinations.md) | Notification of certain determinations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–281, title II, §§206(c), 210(b), title V, §§501(b), 506(b), Dec. 18, 2014, 128 Stat. 3026, 3027, 3057, 3060, added items 87, 90, 102, and 103.
 
 <b>2012</b>—Pub. L. 112–213, title II, §216(b), (c), Dec. 20, 2012, 126 Stat. 1555, struck out items 82 "Cooperation with Administrator of the Federal Aviation Administration" and 90 "Ocean stations".
 
@@ -56,6 +65,8 @@ Pub. L. 111–281, title II, §208(c), Oct. 15, 2010, 124 Stat. 2912, as amended
 
 <b>1956</b>—Act June 4, 1956, ch. 351, §3, 70 Stat. 227, substituted "Aids to maritime navigation on fixed structures" for "Failure to maintain lights" in item 85.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -67,10 +78,10 @@ Pub. L. 111–281, title II, §208(c), Oct. 15, 2010, 124 Stat. 2912, as amended
 - [&sect; 00084 - Interference with aids to navigation; penalty](%C2%A7%2000084%20-%20Interference%20with%20aids%20to%20navigation%3B%20penalty.md)
 - [&sect; 00085 - Aids to maritime navigation; penalty](%C2%A7%2000085%20-%20Aids%20to%20maritime%20navigation%3B%20penalty.md)
 - [&sect; 00086 - Marking of obstructions](%C2%A7%2000086%20-%20Marking%20of%20obstructions.md)
-- [&sect; 00087 - Repealed. Pub. L. 94&#8211;546, &sect;1(6), (7), Oct. 18, 1976, 90 Stat. 2519](%C2%A7%2000087%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93546%2C%20%C2%A71%286%29%2C%20%287%29%2C%20Oct.%2018%2C%201976%2C%2090%20Stat.%202519.md)
+- [&sect; 00087 - Icebreaking in polar regions](%C2%A7%2000087%20-%20Icebreaking%20in%20polar%20regions.md)
 - [&sect; 00088 - Saving life and property](%C2%A7%2000088%20-%20Saving%20life%20and%20property.md)
 - [&sect; 00089 - Law enforcement](%C2%A7%2000089%20-%20Law%20enforcement.md)
-- [&sect; 00090 - Repealed. Pub. L. 112&#8211;213, title II, &sect;216(c), Dec. 20, 2012, 126 Stat. 1555](%C2%A7%2000090%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93213%2C%20title%20II%2C%20%C2%A7216%28c%29%2C%20Dec.%2020%2C%202012%2C%20126%20Stat.%201555.md)
+- [&sect; 00090 - Arctic maritime transportation](%C2%A7%2000090%20-%20Arctic%20maritime%20transportation.md)
 - [&sect; 00091 - Safety of naval vessels](%C2%A7%2000091%20-%20Safety%20of%20naval%20vessels.md)
 - [&sect; 00092 - Secretary; general powers](%C2%A7%2000092%20-%20Secretary%3B%20general%20powers.md)
 - [&sect; 00093 - Commandant; general powers](%C2%A7%2000093%20-%20Commandant%3B%20general%20powers.md)
@@ -82,3 +93,5 @@ Pub. L. 111–281, title II, §208(c), Oct. 15, 2010, 124 Stat. 2912, as amended
 - [&sect; 00099 - Enforcement authority](%C2%A7%2000099%20-%20Enforcement%20authority.md)
 - [&sect; 00100 - Enforcement of coastwise trade laws](%C2%A7%2000100%20-%20Enforcement%20of%20coastwise%20trade%20laws.md)
 - [&sect; 00101 - Appeals and waivers](%C2%A7%2000101%20-%20Appeals%20and%20waivers.md)
+- [&sect; 00102 - Agreements](%C2%A7%2000102%20-%20Agreements.md)
+- [&sect; 00103 - Notification of certain determinations](%C2%A7%2000103%20-%20Notification%20of%20certain%20determinations.md)

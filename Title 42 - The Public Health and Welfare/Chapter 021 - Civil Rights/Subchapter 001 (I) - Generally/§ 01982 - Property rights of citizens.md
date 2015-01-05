@@ -1,6 +1,6 @@
 ### §1982. Property rights of citizens
 
-All citizens of the United States shall have the same right, in every State and Territory, as isenjoyed by white citizens thereof to inherit, purchase, lease, sell, hold, and convey real and personal property.
+All citizens of the United States shall have the same right, in every State and Territory, as is enjoyed by white citizens thereof to inherit, purchase, lease, sell, hold, and convey real and personal property.
 
 (R.S. §1978.)
 
@@ -60,7 +60,7 @@ Sec. 302. If any executive department or agency subject to this order concludes 
 
 It may—
 
-(a) cancel or terminate in whole or in part any agreement or contract with such person, firm, or State or local public agency providing for a loan, grant, contribution, or other Federal aid, or for the payment of a commission or fee;
+(a) cancel or terminate in whole or in part any agreement or contract with such person, firm, or State orlocal public agency providing for a loan, grant, contribution, or other Federal aid, or for the payment of a commission or fee;
 
 (b) refrain from extending any further aid under any program administered by it and affected by this order until it is satisfied that the affected person, firm, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order, and any nondiscrimination provisions included in any agreement or contract;
 

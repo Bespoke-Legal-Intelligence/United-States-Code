@@ -6,9 +6,9 @@ As soon as practicable after October 24, 1992, the coordinator designated pursua
 
 #### (b) Assistance plan
 
-The report submitted pursuant to subsection (a) of this section shall include a plan specifying—
+The report submitted pursuant to subsection (a) shall include a plan specifying—
 
-&emsp;(1) the amount of the funds authorized to be appropriated for fiscal year 1993 by chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] proposed to be allocated for each of the categories of activities authorized by section 498 of that Act \[22 U.S.C. 2295\] and to carry out section 5821 of this title (relating to American Business Centers), section5823 of this title (relating to export promotion activities and capital projects), and subchapter III of this chapter (relating to the Democracy Corps);
+&emsp;(1) the amount of the funds authorized to be appropriated for fiscal year 1993 by chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] proposed to be allocated for each of the categories of activities authorized by section 498 of that Act \[22 U.S.C. 2295\] and to carry out section 5821 of this title (relating to American Business Centers), section 5823 of this title (relating to export promotion activities and capital projects), and subchapter III of this chapter (relating to the Democracy Corps);
 
 &emsp;(2) the amount of other funds made available for fiscal year 1993 to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] proposed to be allocated for assistance under that Act for the independent states of the former Soviet Union; and
 

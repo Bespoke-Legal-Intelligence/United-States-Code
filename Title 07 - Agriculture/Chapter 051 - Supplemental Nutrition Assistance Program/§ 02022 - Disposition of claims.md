@@ -4,7 +4,7 @@
 
 #### (1) Determination of claims
 
-&emsp;Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under section 2025 of this title to collect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under section 2023 of this title.
+&emsp;Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(II) of this title, the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under section 2025 of this title to collect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under section 2023 of this title.
 
 #### (2) Claims established under quality control system
 
@@ -26,9 +26,9 @@
 
 &emsp;&emsp;(A) reducing the allotment of the household;
 
-&emsp;&emsp;(B) withholding amounts from unemployment compensation from a member of the household under subsection (c) of this section;
+&emsp;&emsp;(B) withholding amounts from unemployment compensation from a member of the household under subsection (c);
 
-&emsp;&emsp;(C) recovering from Federal pay or a Federal income tax refund under subsection (d) of this section; or
+&emsp;&emsp;(C) recovering from Federal pay or a Federal income tax refund under subsection (d); or
 
 &emsp;&emsp;(D) any other means.
 
@@ -102,7 +102,7 @@
 
 #### (c) Intercept of unemployment benefits
 
-(1) As used in this subsection, the term "uncollected overissuance" means the amount of an overissuance of benefits, as determined under subsection (b)(1) of this section, that has not been recovered pursuant to subsection (b)(1) of this section.
+(1) As used in this subsection, the term "uncollected overissuance" means the amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to subsection (b)(1).
 
 (2) A State agency may determine on a periodic basis, from information supplied pursuant to section 49b(b) of title 29, whether an individual receiving compensation under the State's unemployment compensation law (including amounts payable pursuant to an agreement under a Federal unemployment compensation law) owes an uncollected overissuance.
 
@@ -118,9 +118,9 @@
 
 #### (d) Recovery of overissuance of benefits
 
-The amount of an overissuance of benefits, as determined under subsection (b)(1) of this section, that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
+The amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
 
-(Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, §4118(b), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4115(b)(9), 4133, May 22, 2008, 122 Stat. 1107, 1116; Pub. L. 110–246, §4(a), title IV, §§4115(b)(9), 4133, June 18, 2008, 122 Stat. 1664, 1869, 1877.)
+(Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, titleXV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, §4118(b), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4115(b)(9), 4133, May 22, 2008, 122 Stat. 1107, 1116; Pub. L. 110–246, §4(a), title IV, §§4115(b)(9), 4133, June 18, 2008, 122 Stat. 1664, 1869, 1877; Pub. L. 113–79, title IV, §4020(b)(1), Feb. 7, 2014, 128 Stat. 798.)
 
 #### Codification
 
@@ -128,15 +128,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–79 substituted "section 2025(c)(1)(D)(i)(II) of this title" for "section 2025(c)(1)(D)(i)(III) of this title".
+
 <b>2008</b>—Pub. L. 110–246, §4115(b)(9), substituted "benefits" for "coupons" wherever appearing.
 
 Subsec. (b)(5). Pub. L. 110–246, §4133, added par. (5).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171, inserted subsec. (a) heading, redesignated par. (2) as (4) and inserted heading, designated existing provisions of par. (1) as pars. (1) to (3) and inserted headings, in par. (1) substituted "Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary" for "The Secretary" and struck out "In determining whether to settle, adjust, compromise, or waivea claim arising against a State agency pursuant to section 2025(c) of this title, the Secretary shall review a State agency's plans for new dollar investment in activities to improve program administration in order to reduce payment error, and shall take the State agency's plans for new dollar investment in such activities into consideration as the Secretary considers appropriate." after "section 2023 of this title.", and in par. (2) substituted "claim established under section 2025(c)(1) of this title" for "claim established under section 2025(c)(1)(C) of this title".
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, inserted subsec. (a) heading, redesignated par. (2) as (4) and inserted heading, designated existing provisions of par. (1) as pars. (1) to (3) and inserted headings, in par. (1) substituted "Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary" for "The Secretary" and struck out "In determining whether to settle, adjust, compromise, or waive a claim arising against a State agency pursuant to section 2025(c) of this title, the Secretary shall review a State agency's plans for new dollar investment in activities to improve program administration in order to reduce payment error, and shall take the State agency's plans for new dollar investment in such activities into consideration as the Secretary considers appropriate." after "section 2023 of this title.", and in par. (2) substituted "claim established under section 2025(c)(1) of this title" for "claim established under section 2025(c)(1)(C) of this title".
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–193, §844(a)(1), added subsec. (b) and struck out former subsec. (b) which provided for reduction of allotment for households with ineligible individuals and collection by State agencies of claims against households arising from overissuance of coupons.
 
-Subsec. (d). Pub. L. 104–193, §844(a)(2), substituted ", as determined under subsection (b)(1) of this section," for "as determined under subsection (b) of this section and except for claims arising from an error of the State agency," and inserted before period at end "or a Federal income tax refund as authorized by section 3720A of title 31".
+Subsec. (d). Pub. L. 104–193, §844(a)(2), substituted ", as determined under subsection (b)(1)," for "as determined under subsection (b) and except for claims arising from an error of the State agency," and inserted before period at end "or a Federal income tax refund as authorized by section 3720A of title 31".
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §13951(a), in fifth sentence, struck out "(after a determination on any request for a waiver for good cause related to the claim has been made by the Secretary)" after "30 days from the date on which the bill for collection" and in sixth sentence substituted "1 year" for "2 years".
 
@@ -186,7 +188,7 @@ Amendment by Pub. L. 102–237 effective Dec. 13, 1991, see section 1101(d)(4) o
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this title for quality control review periods after such date, and provisions of this section that relate to claims against State agencies and that were in effect for any quality control review period or periods through fiscal year 1985 to remain in effect for claims arising with respect to such periods, see section 701(b)(5)(B), (D)(i) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this title for quality control review periods after such date, and provisions of this section that relate to claims against State agencies and that were in effect for any quality control review period or periods through fiscal year 1985 to remain in effect for claims arising with respectto such periods, see section 701(b)(5)(B), (D)(i) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 

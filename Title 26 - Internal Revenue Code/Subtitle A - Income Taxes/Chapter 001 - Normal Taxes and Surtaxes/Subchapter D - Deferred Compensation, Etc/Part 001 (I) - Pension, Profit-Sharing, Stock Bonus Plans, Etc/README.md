@@ -4,13 +4,17 @@
 | :--- | ---: |
 | A. | General rule. |
 | B. | Special rules. |
-| C. | Special rules for multiemployer plans. |
+| C. | Insolvent plans. |
 | D. | Treatment of welfare benefit funds. |
 | E. | Treatment of transfers to retiree health accounts.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–235, div. O, title I, §108(b)(3)(D), Dec. 16, 2014, 128 Stat. 2789, which directed amendment of thetable of subparts for part I of subchapter D of chapter 1 of the Internal Revenue Code of 1986 by striking the heading and inserting "
+
+insolvent plans" without specifying the subpart, was executed to the heading for subpart C by substituting "Insolvent plans" for "Special rules for multiemployer plans", to reflect the probable intent of Congress.
 
 <b>1984</b>—Pub. L. 98–369, div. A, title V, §511(d), July 18, 1984, 98 Stat. 862, added heading for subpart D.
 
@@ -25,6 +29,6 @@
 
 - [Subpart A - General Rule](Subpart%20A%20-%20General%20Rule/README.md)
 - [Subpart B - Special Rules](Subpart%20B%20-%20Special%20Rules/README.md)
-- [Subpart C - Special Rules for Multiemployer Plans](Subpart%20C%20-%20Special%20Rules%20for%20Multiemployer%20Plans/README.md)
+- [Subpart C - Insolvent Plans](Subpart%20C%20-%20Insolvent%20Plans/README.md)
 - [Subpart D - Treatment of Welfare Benefit Funds](Subpart%20D%20-%20Treatment%20of%20Welfare%20Benefit%20Funds/README.md)
 - [Subpart E - Treatment of Transfers to Retiree Health Accounts](Subpart%20E%20-%20Treatment%20of%20Transfers%20to%20Retiree%20Health%20Accounts/README.md)

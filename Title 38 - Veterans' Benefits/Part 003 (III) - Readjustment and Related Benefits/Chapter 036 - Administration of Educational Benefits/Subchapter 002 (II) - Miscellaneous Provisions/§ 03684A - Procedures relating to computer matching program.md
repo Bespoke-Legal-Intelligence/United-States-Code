@@ -4,7 +4,7 @@
 
 (2) The Secretary may not take any action referred to in paragraph (1) of this subsection until—
 
-&emsp;(A) the individual concerned has been provided a written notice containing a statement of the findings of the Secretary based on the matching program, a description of the proposed action, and notice of the individual'sright to contest such findings within 10 days after the date of the notice; and
+&emsp;(A) the individual concerned has been provided a written notice containing a statement of the findings of the Secretary based on the matching program, a description of the proposed action, and notice of the individual's right to contest such findings within 10 days after the date of the notice; and
 
 &emsp;(B) the 10-day period referred to in subparagraph (A) of this paragraph has expired.
 

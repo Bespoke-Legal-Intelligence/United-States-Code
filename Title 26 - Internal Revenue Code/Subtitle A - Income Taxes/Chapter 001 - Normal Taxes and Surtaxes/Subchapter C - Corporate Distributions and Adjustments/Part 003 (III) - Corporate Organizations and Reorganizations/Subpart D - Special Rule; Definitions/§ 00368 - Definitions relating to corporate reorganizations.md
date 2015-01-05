@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stock of the controlling corporation distributed in the transaction); and
 
-&emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock of the controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
+&emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock ofthe controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
 
 #### (F) Certain transactions involving 2 or more investment companies
 
@@ -80,7 +80,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A transaction shall fail to meet the requirements of paragraph (1)(C) unless the acquired corporation distributes the stock, securities, and other properties it receives, as well as its other properties, in pursuance of the plan of reorganization. For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connectionwith such liquidation shall be treated as pursuant to the plan of reorganization.
+&emsp;&emsp;&emsp;A transaction shall fail to meet the requirements of paragraph (1)(C) unless the acquired corporation distributes the stock, securities, and other properties it receives, as well as its other properties, in pursuance of the plan of reorganization. For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.
 
 #### (ii) Exception
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, the term "control" has the meaning given such term by section 304(c), and
 
-&emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section 355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
+&emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
 
 #### (3) Additional rules relating to title 11 and similar cases
 
@@ -148,7 +148,7 @@ For purposes of this part, the term "a party to a reorganization" includes—
 
 For purposes of part I (other than section 304), part II, this part, and part V, the term "control" means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c),Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(l)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(l)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Subsec. (a)(3). Pub. L. 96–589, §4(b), added par. (3).
 
 Subsec. (b). Pub. L. 96–589, §4(h)(4), substituted "paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C)" and "paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D)" for "paragraph (1)(A), (1)(B), or (1)(C) of subsection (a) by reason of paragraph (2)(C)" and "paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D)", respectively.
 
-<b>1978</b>—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, "50 percent or more" and "80 percent or more" for "more than 50 percent" and "more than 80 percent"; substituted in cl. (vi), first sentence, "does not meet the requirements" for "is not diversified within the meaning"; struck from cl. (vi), second sentence, "(hereafter referred to as the ('actual acquisition')" after "section 368(a)(1)(B)" and "and security holders" after "the shareholders" and substituted "stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange" for "stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition"; and added cls. (vii) and (viii).
+<b>1978</b>—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, "50 percent or more" and "80percent or more" for "more than 50 percent" and "more than 80 percent"; substituted in cl. (vi), first sentence, "does not meet the requirements" for "is not diversified within the meaning"; struck from cl. (vi), second sentence, "(hereafter referred to as the ('actual acquisition')" after "section 368(a)(1)(B)" and "and security holders" after "the shareholders" and substituted "stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange" for "stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition"; and added cls. (vii) and (viii).
 
 <b>1976</b>—Subsec. (a)(2)(F). Pub. L. 94–455, §2131(a), added subpar. (F).
 
@@ -278,7 +278,7 @@ Pub. L. 99–514, title XVIII, §1879(l)(2), Oct. 22, 1986, 100 Stat. 2910, prov
 
 Amendment by section 63(a) of Pub. L. 98–369 applicable to transactions pursuant to plans adopted after July 18, 1984, see section 63(c) of Pub. L. 98–369, set out as a note under section 312 of this title.
 
-Pub. L. 98–369, div. A, title I, §64(b), July 18, 1984, 98 Stat. 584, provided that: "The amendments made by this section \[amending this section\] shall apply totransactions pursuant to plans adopted after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. A, title I, §64(b), July 18, 1984, 98 Stat. 584, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions pursuant to plans adopted after the date of the enactment of this Act \[July 18, 1984\]."
 
 Amendment by section 174(b)(5)(D) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1983, in taxable years ending after that date, see section 174(c)(2)(A) of Pub. L. 98–369, set out as a note under section 267 of this title.
 
@@ -296,7 +296,7 @@ In general.—Except as provided in paragraph (2), the amendment made by subsect
 
 "(2)
 
-Plans adopted on or before august 31, 1982.—The amendment made by subsection (a) shall not apply with respect to plans of reorganization adopted on or before August 31, 1982, but only if the transaction occurs before January 1, 1983."
+Plans adopted on or before august 31, 1982.—The amendment made by subsection (a) shall not applywith respect to plans of reorganization adopted on or before August 31, 1982, but only if the transaction occurs before January 1, 1983."
 
 #### Effective Date of 1981 Amendment
 

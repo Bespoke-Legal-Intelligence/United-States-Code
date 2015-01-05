@@ -56,7 +56,7 @@ Allotment of Clothing, Funds, and Transportation.—Upon the release of a prison
 
 &emsp;(2) an amount of money, not more than $500, determined by the Director to be consistent with the needs of the offender and the public interest, unless the Director determines that the financial position of the offender is such that no sum should be furnished; and
 
-&emsp;(3) transportation to the place of the prisoner's conviction, to the prisoner's bona fideresidence within the United States, or to such other place within the United States as may be authorized by the Director.
+&emsp;(3) transportation to the place of the prisoner's conviction, to the prisoner's bona fide residence within the United States, or to such other place within the United States as may be authorized by the Director.
 
 (e)
 
@@ -82,7 +82,7 @@ Mandatory Functional Literacy Requirement.—
 
 &emsp;(5) The Chief Executive Officer of each institution shall have authority to grant waivers for good cause as determined and documented on an individual basis.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, §505, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, §251(a), Apr. 9, 2008, 122 Stat. 692.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646,§§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, §505, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, §251(a), Apr. 9, 2008, 122 Stat. 692.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 110–177 substituted "Upon the release of a prisoner by th
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(A)\], struck out at beginning "A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner's life, shall receive credit toward the service of the prisoner's sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner."
 
-Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second sentence substituted "Subject to paragraph (2), a prisoner" for "A prisoner", struck out "for a crime ofviolence," after "1 year", and struck out "such" after "compliance with".
+Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second sentence substituted "Subject to paragraph (2), a prisoner" for "A prisoner", struck out "for a crime of violence," after "1 year", and struck out "such" after "compliance with".
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(C)\], in third sentence substituted "Subject to paragraph (2), if the Bureau" for "If the Bureau".
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 101–647, §2904, added subsec. (f).
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–646, §16(a), substituted "beginning at the end of" for "beginning after".
 
-Subsec. (e). Pub. L. 99–646, §17(a), substituted "imprisonment and runs concurrently" for "imprisonment. The term runs concurrently" and "supervised released. A term of supervised release does not run" for "supervised release, except that it does not run", struck out ", other than during limited intervals as a condition of probation or supervised release," after "person is imprisoned", and inserted "unless the imprisonment is for a period of less than 30 consecutive days" before the period at end of third sentence.
+Subsec. (e). Pub. L. 99–646, §17(a), substituted "imprisonment and runs concurrently" for "imprisonment. The term runs concurrently" and "supervised released. A term of supervised release does not run" for "supervised release, except that it does not run", struck out ", other than during limited intervals as a condition of probation or supervised release," after "person is imprisoned", and inserted "unless the imprisonment is fora period of less than 30 consecutive days" before the period at end of third sentence.
 
 #### Effective Date of 1990 Amendment
 

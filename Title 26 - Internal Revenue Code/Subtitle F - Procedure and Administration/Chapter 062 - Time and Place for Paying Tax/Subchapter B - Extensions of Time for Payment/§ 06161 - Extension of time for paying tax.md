@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;The Secretary, except as otherwise provided in this title, may extend the time for payment of the amount of the tax shown, or required to be shown, on any return or declaration required under authority of this title (or any installment thereof), for a reasonable period not to exceed 6 months (12 months in the case of estate tax) from the date fixed for payment thereof. Such extension may exceed 6 months in the case of a taxpayer who is abroad.
+&emsp;The Secretary, except as otherwise provided in this title, may extend the time for payment of the amount of the tax shown, or required to be shown, on any return or declaration required under authority of this title (or any installment thereof), for a reasonable period not to exceed 6 months (12 months in the case ofestate tax) from the date fixed for payment thereof. Such extension may exceed 6 months in the case of a taxpayer who is abroad.
 
 #### (2) Estate tax
 
@@ -76,7 +76,7 @@ Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–172 inserted references to chapter 42.
 
-<b>1958</b>—Subsec. (a)(2). Pub. L. 85–866 inserted provisions allowing Secretary or his delegate to extend time for payment for reasonable period, not exceeding 10 years from date prescribed by section 6151(a), if he finds that payment on date fixed for payment of any installment under section 6166, or any part of such installment, or payment of any part of a deficiency prorated under section 6166 to installments the date for payment of which had arrived would result in undue hardship.
+<b>1958</b>—Subsec. (a)(2). Pub. L. 85–866 inserted provisions allowing Secretary or his delegate to extend time for payment for reasonable period, not exceeding 10 yearsfrom date prescribed by section 6151(a), if he finds that payment on date fixed for payment of any installment under section 6166, or any part of such installment, or payment of any part of a deficiency prorated under section 6166 to installments the date for payment of which had arrived would result in undue hardship.
 
 #### Effective Date of 2002 Amendment
 

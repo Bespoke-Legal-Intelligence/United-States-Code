@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (3) Reserved works
 
-&emsp;The term "reserved works" mean <sup>2</sup> any project facility at which the Secretary carriesout the operation and maintenance of the project facility.
+&emsp;The term "reserved works" mean <sup>2</sup> any project facility at which the Secretary carries out the operation and maintenance of the project facility.
 
 #### (4) Secretary
 

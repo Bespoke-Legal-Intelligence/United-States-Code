@@ -2,7 +2,7 @@
 
 #### (a) Research sites
 
-The Director shall award grants, on a merit-reviewed, competitive basis, to institutions ofhigher education, nonprofit organizations, or consortia of such institutions and organizations, for sites designated by the Director to provide research experiences for 6 or more undergraduate STEM students for sites designated at primarily undergraduate institutions of higher education and 10 or more undergraduate STEM students for all other sites, with consideration given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title. The Director shall ensure that—
+The Director shall award grants, on a merit-reviewed, competitive basis, to institutions of higher education, nonprofit organizations, or consortia of such institutions and organizations, for sites designated by the Director to provide research experiences for 6 or more undergraduate STEM students for sites designated at primarily undergraduate institutions of higher education and 10 or more undergraduate STEM students for all other sites, with consideration given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title. The Director shall ensure that—
 
 &emsp;(1) at least half of the students participating in a program funded by a grant under this subsection at each site shall be recruited from institutions of higher education where research opportunities in STEM are limited, including 2-year institutions;
 

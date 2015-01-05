@@ -14,7 +14,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;&emsp;(A) the agencies will exchange with each other information in their possession which may be of use in establishing or verifying eligibility or benefit amounts under any other such program;
 
-&emsp;&emsp;(B) such information shall be made available to assist in the child support program under part D of subchapter IV of this chapter, and to assist the Secretary of Health and Human Services in establishing or verifying eligibility or benefit amounts under subchapters II and XVI of this chapter, but subject to the safeguards and restrictions established by the Secretary of the Treasury with respect to information released pursuant to section 6103(l) of the Internal Revenue Code of 1986; and
+&emsp;&emsp;(B) such information shall be made available to assist in the child support program under part D of subchapter IV of this chapter, and to assist the Secretary of Healthand Human Services in establishing or verifying eligibility or benefit amounts under subchapters II and XVI of this chapter, but subject to the safeguards and restrictions established by the Secretary of the Treasury with respect to information released pursuant to section 6103(l) of the Internal Revenue Code of 1986; and
 
 &emsp;&emsp;(C) the use of such information shall be targeted to those uses which are most likely to be productive in identifying and preventing ineligibility and incorrect payments, and no State shall be required to use such information to verify the eligibility of all recipients;
 
@@ -38,7 +38,7 @@ The programs which must participate in the income and eligibility verification s
 
 &emsp;(3) the unemployment compensation program under section 3304 of the Internal Revenue Code of 1986;
 
-&emsp;(4) the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\]; and
+&emsp;(4) the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.); and
 
 &emsp;(5) any State program under a plan approved under subchapter I, X, XIV, or XVI of this chapter.
 
@@ -126,19 +126,23 @@ Each Federal agency responsible for administration of a program described in sub
 
 Subsections (a)(1) and (d) of this section shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under section 1396b(v)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–79, title IV, §4030(q), Feb. 7, 2014, 128 Stat. 815.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (3), (4)(B), (5), (b)(3), and (c)(1), is classified generally to Title 26, Internal Revenue Code.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (b)(4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b)(4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat.703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(5)(B). Pub. L. 113–79, §4030(q)(1), which directed substitution of "supplemental nutrition assistance" for "food stamp", could not be executed because the words "supplemental nutrition assistance" already appeared in text after the amendment by Pub. L. 110–246, §4002(b)(1)(A), (2)(V). See 2008 Amendment note below.
+
+Subsec. (b)(4). Pub. L. 113–79, §4030(q)(2), which directed substitution of "supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.)" for "food stamp program under the Food Stamp Act of 1977", was executed by making the substitution for "supplemental nutrition assistance program under the Food and Nutrition Act of 2008", to reflect the probable intent of Congress and the amendment by Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V). See 2008 Amendment note below.
 
 <b>2008</b>—Subsec. (a)(2), (5)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(V), substituted "supplemental nutrition assistance program" for "food stamp program".
 
@@ -156,7 +160,7 @@ Pub. L. 106–169, substituted "653a(a)(2)(B)(ii) of this title))" for "653a(a)(
 
 Subsec. (b)(1). Pub. L. 104–193, §108(g)(8)(A), added par. (1) and struck out former par. (1) which read as follows: "the aid to families with dependent children program under part A of subchapter IV of this chapter;".
 
-Subsec. (d)(1)(B). Pub. L. 104–193, §108(g)(8)(B), substituted "In this subsection, in" for "In this subsection—", struck out "(ii) in" before "the case of the program described in subsection (b)(4)", redesignatedsubcls. (I) to (III) as cls. (i) to (iii), respectively, realigned margins, and struck out former cl. (i) which read as follows: "in the case of the program described in subsection (b)(1) of this section, any reference to an individual's eligibility for benefits under the program shall be considered a reference to the individual's being considered a dependent child or to the individual's being treated as a caretaker relative or other person whose needs are to be taken into account in making the determination under section 602(a)(7) of this title,".
+Subsec. (d)(1)(B). Pub. L. 104–193, §108(g)(8)(B), substituted "In this subsection, in" for "In this subsection—", struck out "(ii) in" before "the case of the program described in subsection (b)(4)", redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively, realigned margins, and struck out former cl. (i) which read as follows: "in the case of the program described in subsection (b)(1) of this section, any reference to an individual's eligibility for benefits under the program shall be considered a reference to the individual's being considered a dependent child or to the individual's being treated as a caretaker relative or other person whose needs are to be taken into account in making the determination under section 602(a)(7) of this title,".
 
 Subsec. (d)(4)(B)(i). Pub. L. 104–208 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "the State shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents for official verification,".
 
@@ -196,7 +200,7 @@ Amendment by section 401(p) of Pub. L. 106–169 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating toState options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 For effective date of amendment by section 313(c) of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
@@ -298,7 +302,7 @@ Pub. L. 98–369, div. B, title VI, §2651(l), July 18, 1984, 98 Stat. 1151, pro
 
 "(1) The amendments made by subsections (j) and (k) \[amending section 1383 of this title and section 6103 of Title 26, Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
 
-"(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[42 U.S.C. 1320b–7(c)\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986."
+"(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985.In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[42 U.S.C. 1320b–7(c)\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986."
 
 #### Construction of 1999 Amendment
 

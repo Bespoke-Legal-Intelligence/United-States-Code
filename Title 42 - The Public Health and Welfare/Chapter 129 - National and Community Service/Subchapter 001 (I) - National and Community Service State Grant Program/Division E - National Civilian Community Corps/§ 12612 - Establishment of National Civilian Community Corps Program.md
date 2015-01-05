@@ -56,7 +56,7 @@ Pub. L. 102–484, div. A, title X, §1093, Oct. 23, 1992, 106 Stat. 2534, as am
 
 "(a)
 
-Coordinated Administration.—To the maximum extent practicable, the Chief of the National Guard Bureau, the Board of Directors and Chief Executive Officer of the Corporation for National and Community Service, and the Director of the Civilian Community Corps shall coordinate the National GuardYouth Opportunities Program established pursuant to section 1091 \[of Pub. L. 102–484, 32 U.S.C. 501 note\] and the Civilian Community Corps Demonstration Program established pursuant to the authorization contained in section 152 of the National and Community Service Act of 1990 \[42 U.S.C. 12612\] (as added by section 1092(a)).
+Coordinated Administration.—To the maximum extent practicable, the Chief of the National Guard Bureau, the Board of Directors and Chief Executive Officer of the Corporation for National and Community Service, and the Director of the Civilian Community Corps shall coordinate the National Guard Youth Opportunities Program established pursuant to section 1091 \[of Pub. L. 102–484, 32 U.S.C. 501 note\] and the Civilian Community Corps Demonstration Program established pursuant to the authorization contained in section 152 of the National and Community Service Act of 1990 \[42 U.S.C. 12612\] (as added by section 1092(a)).
 
 "(b)
 

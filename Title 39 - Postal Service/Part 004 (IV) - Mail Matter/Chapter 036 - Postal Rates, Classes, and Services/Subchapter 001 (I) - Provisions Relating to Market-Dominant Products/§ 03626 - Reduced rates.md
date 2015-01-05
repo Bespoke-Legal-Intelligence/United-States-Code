@@ -1,6 +1,6 @@
 ### §3626. Reduced rates
 
-(a)(1) Except as otherwise provided in this section, rates of postage for a class of mail or kindof mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with section 3622.
+(a)(1) Except as otherwise provided in this section, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with section 3622.
 
 (2) For the purpose of this subsection, the term "regular-rate category" means any class of mail or kind of mailer, other than a class or kind referred to in section 2401(c).
 
@@ -38,7 +38,7 @@
 
 (2) For purposes of this subsection—
 
-&emsp;(A) the term "qualified political committee" means a national or State committee of a political party, the Republican and Democratic Senatorial Campaign Committees, the Democratic National Congressional Committee, and the National Republican Congressional Committee;
+&emsp;(A) the term "qualified political committee" means a national or State committee of a political party, the Republican and DemocraticSenatorial Campaign Committees, the Democratic National Congressional Committee, and the National Republican Congressional Committee;
 
 &emsp;(B) the term "national committee" means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the national level; and
 
@@ -46,7 +46,7 @@
 
 (f) In the administration of this chapter, the rates for mail under former section 4358(g) of this title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
 
-(g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within thecounty of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
+(g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within the county of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
@@ -90,7 +90,7 @@
 
 &emsp;(B) such matter contains, but is not primarily devoted to, references to and a response card or other instructions for making inquiries concerning services or benefits available as a result of membership in the authorized organization: <i>Provided</i>, That advertising, promotional, or application materials specifically concerning such services or benefits are not included.
 
-(3)(A) Upon request, an organization authorized to mail at the rates for mail under formersection 4452(b) or 4452(c) of this title shall furnish evidence to the Postal Service concerning the eligibility of any of its mail matter or mailings to be sent at those rates.
+(3)(A) Upon request, an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title shall furnish evidence to the Postal Service concerning the eligibility of any of its mail matter or mailings to be sent at those rates.
 
 (B) The Postal Service shall establish procedures to carry out this paragraph, including procedures for mailer certification of compliance with the conditions specified in paragraph (1)(D) or subsection (m), as applicable, and verification of such compliance.
 
@@ -126,7 +126,7 @@ The phrase "shall take effect immediately and shall stay in effect hereafter", r
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1) to (3). Pub. L. 109–435, §1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined "costs attributable", "regular-rate category", and "institutional-costs contribution", and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
+<b>2006</b>—Subsec. (a)(1) to (3). Pub. L. 109–435, §1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined "costs attributable", "regular-rate category", and "institutional-costs contribution", and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in amanner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
 
 Subsec. (g)(3), (4). Pub. L. 109–435, §1003(2), added pars. (3) and (4).
 
@@ -140,7 +140,7 @@ Subsec. (a)(3)(A). Pub. L. 106–384, §1(b), amended subpar. (A) generally. Pri
 
 &emsp;"(ii) the product derived by multiplying the estimated costs referred to in clause (i) by the applicable percentage under subparagraph (B)."
 
-Subsec. (a)(4). Pub. L. 106–384, §1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this titleshall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion."
+Subsec. (a)(4). Pub. L. 106–384, §1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion."
 
 Subsec. (a)(6). Pub. L. 106–384, §1(d), added par. (6).
 

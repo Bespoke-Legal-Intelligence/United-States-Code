@@ -18,7 +18,7 @@
 
 <b>1985</b>—Pub. L. 99–145, title VI, §683(a)(3), (b)(2), Nov. 8, 1985, 99 Stat. 665, 666, included reference to the Navy and Marine Corps in item 701, and struck out item 702 "Allotments: officers of Navy or Marine Corps" and item 705 "Assignments: enlisted members of naval service".
 
-<b>1980</b>—Pub. L. 96–513, title V, §516(18)(C), Dec. 12, 1980, 94 Stat. 2939, substituted "Allotments: commissioned officers of the National Oceanic and Atmospheric Administration" for "Commissioned officers of Environmental Science Services Administration" in item 706.
+<b>1980</b>—Pub. L. 96–513, title V, §516(18)(C), Dec. 12, 1980, 94 Stat. 2939, substituted "Allotments: commissionedofficers of the National Oceanic and Atmospheric Administration" for "Commissioned officers of Environmental Science Services Administration" in item 706.
 
 <b>1974</b>—Pub. L. 93–289, §11(c), May 24, 1974, 88 Stat. 173, added item 707.
 

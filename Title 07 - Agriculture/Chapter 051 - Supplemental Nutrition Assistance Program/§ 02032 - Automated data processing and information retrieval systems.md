@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after November 28, 1990, the Secretary shall complete a review of regulations and standards (in effect on November 28, 1990) for the approval of an automated data processing and information retrieval system maintained by a State (hereinafter in this section referred to as a "system") to determine the extent to which the regulations and standards contribute to a more effective and efficient program.
+&emsp;&emsp;Not later than 1 year after November 28, 1990, the Secretary shall complete a review of regulations and standards (in effect on November 28, 1990) for the approval of an automated data processing and information retrieval system maintained by a State (hereinafter in this section referred to as a"system") to determine the extent to which the regulations and standards contribute to a more effective and efficient program.
 
 #### (B) Revision of regulations
 
@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;After conducting the review required under subsection (a) of this section, the Secretary shall establish standards for approval of systems.
+&emsp;After conducting the review required under subsection (a), the Secretary shall establish standards for approval of systems.
 
 #### (2) Implementation
 

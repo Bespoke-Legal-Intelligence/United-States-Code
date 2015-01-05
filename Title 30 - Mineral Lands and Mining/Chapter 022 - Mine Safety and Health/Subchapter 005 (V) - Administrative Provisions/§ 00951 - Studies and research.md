@@ -50,7 +50,7 @@ The Secretary is authorized to grant on a mine-by-mine basis an exception to any
 
 #### (g) Grants for research and development of respiratory equipment
 
-The Secretary of Health and Human Services is authorized to make grants to any public or private agency, institution, or organization, and operators or individuals for research and experiments to develop effective respiratory equipment.
+The Secretary of Health and Human Services is authorized to make grants to any public orprivate agency, institution, or organization, and operators or individuals for research and experiments to develop effective respiratory equipment.
 
 (Pub. L. 91–173, title V, §501, Dec. 30, 1969, 83 Stat. 798; Pub. L. 95–164, title III, §303(a), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

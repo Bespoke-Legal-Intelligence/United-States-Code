@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a National Training Program in Sustainable Agriculture toprovide education and training for Cooperative Extension Service agents and other professionals involved in the education and transfer of technical information concerning sustainable agriculture in order to develop their understanding, competence, and ability to teach and communicate the concepts of sustainable agriculture to Cooperative Extension Service agents and to farmers and urban residents who need information on sustainable agriculture.
+The Secretary shall establish a National Training Program in Sustainable Agriculture to provide education and training for Cooperative Extension Service agents and other professionals involved in the education and transfer of technical information concerning sustainable agriculture in order to develop their understanding, competence, and ability to teach and communicate the concepts of sustainable agriculture to Cooperative Extension Service agents and to farmers and urban residents who need information on sustainable agriculture.
 
 #### (b) Administration
 
@@ -16,7 +16,7 @@ The National Training Program shall be organized and administered by the Nationa
 
 #### (2) Proof of training
 
-&emsp;Beginning three years after November 28, 1990, the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agents have completed the training program established in subsection (a) of this section.
+&emsp;Beginning three years after November 28, 1990, the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agents have completed the training program established in subsection (a).
 
 #### (d) Regional training centers
 
@@ -66,7 +66,7 @@ The Cooperative Extension Service within each State shall transfer information d
 
 &emsp;(4) provide technical assistance to individual farmers in the design and implementation of farm management plans and strategies for making a transition to more sustainable agricultural systems;
 
-&emsp;(5) consult and work closely with the Soil Conservation Service and the AgriculturalStabilization and Conservation Service in carrying out the information, technical assistance, and related programs;
+&emsp;(5) consult and work closely with the Soil Conservation Service and the Agricultural Stabilization and Conservation Service in carrying out the information, technical assistance, and related programs;
 
 &emsp;(6) develop, coordinate, and direct special education and outreach programs in areas highly susceptible to groundwater contamination, linking sustainable agriculture information with water quality improvement information;
 
@@ -86,9 +86,9 @@ For purposes of this section, the term "appropriate field office personnel" incl
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program.
+There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2018.
 
-(Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 105–185, title VI, §606(f), June 23, 1998, 112 Stat. 604; Pub. L. 110–234, title VII, §7511(c)(17), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(17), June 18, 2008, 122 Stat. 1664, 2030.)
+(Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 105–185, title VI, §606(f), June 23, 1998, 112 Stat. 604; Pub. L. 110–234, title VII, §7511(c)(17), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(17), June 18, 2008, 122 Stat. 1664, 2030; Pub. L. 113–79, title VII, §7204, Feb. 7, 2014, 128 Stat. 880.)
 
 #### References in Text
 
@@ -99,6 +99,8 @@ Chapter 86 of this title, referred to in subsecs. (f) and (g), was in the origin
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i). Pub. L. 113–79 amended subsec. (i) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program."
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–246, §7511(c)(17)(A), substituted "the National Institute of Food and Agriculture" for "the Extension Service" in first sentence.
 

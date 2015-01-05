@@ -12,7 +12,7 @@ The Office shall have a Director who shall be appointed by the President, by and
 
 The Secretary, acting through the Office, shall—
 
-&emsp;(1) administer the programs for controlling surface coal mining operations which are required by this chapter; review and approve or disapprove State programs for controlling surface coal mining operations and reclaiming abandoned mined lands; make those investigations and inspections necessary to insure compliance with this chapter; conduct hearings, administer oaths, issue subpenas, and compel the attendance of witnesses and production of written or printed material as provided for in this chapter; issue cease-and-desist orders; review and vacate or modify or approve orders and decisions; and order the suspension, revocation, or withholding of any permit for failure to comply with any of the provisions of this chapter or any rules and regulations adopted pursuant thereto;
+&emsp;(1) administer the programs for controlling surface coal mining operations which are required by this chapter; review and approve or disapprove State programs for controlling surface coal mining operations and reclaiming abandoned mined lands; make those investigations and inspections necessary to insure compliance with this chapter; conduct hearings, administer oaths, issue subpenas, and compel the attendance of witnesses and production of written or printed material as provided for inthis chapter; issue cease-and-desist orders; review and vacate or modify or approve orders and decisions; and order the suspension, revocation, or withholding of any permit for failure to comply with any of the provisions of this chapter or any rules and regulations adopted pursuant thereto;
 
 &emsp;(2) publish and promulgate such rules and regulations as may be necessary to carry out the purposes and provisions of this chapter;
 
@@ -91,6 +91,10 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: "That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training".
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 113–235, div. F, title I, Dec. 16, 2014, 128 Stat. 2406.
+
+Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 298.
 
 Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 995.
 

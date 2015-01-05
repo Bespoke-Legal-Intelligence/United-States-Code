@@ -34,13 +34,13 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (e). Pub. L. 104–66 struck out at end “The Committee shall make an annual report to the Office and the President for transmittal to Congress, including recommendations and other matters considered appropriate. Any member of the Committee may include in the annual report recommendations and other matters he considers appropriate.”
+<b>1995</b>—Subsec. (e). Pub. L. 104–66 struck out at end "The Committee shall make an annual report to the Office and the President for transmittal to Congress, including recommendations and other matters considered appropriate. Any member of the Committee may include in the annual report recommendations and other matters he considers appropriate."
 
-<b>1992</b>—Subsec. (g). Pub. L. 102–378 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), members” for “Members”, struck out second sentence which read as follows: “The Chairman is entitled to a rate of pay equal to the maximum rate currently paid, from time to time, under the General Schedule.”, and added par. (2).
+<b>1992</b>—Subsec. (g). Pub. L. 102–378 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), members" for "Members", struck out second sentence which read as follows: "The Chairman is entitled to a rate of pay equal to the maximum rate currently paid, from time to time, under the General Schedule.", and added par. (2).
 
-<b>1979</b>—Subsec. (e). Pub. L. 96–54 substituted “Office” for “Commission”.
+<b>1979</b>—Subsec. (e). Pub. L. 96–54 substituted "Office" for "Commission".
 
-<b>1978</b>—Subsecs. (a) to (e), (h). Pub. L. 95–454 substituted “Director of the Office of Personnel Management” for “Chairman of the Civil Service Commission” and “Office of Personnel Management” for “Civil Service Commission”, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (e), (h). Pub. L. 95–454 substituted "Director of the Office of Personnel Management" for "Chairman of the Civil Service Commission" and "Office of Personnel Management" for "Civil Service Commission", wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

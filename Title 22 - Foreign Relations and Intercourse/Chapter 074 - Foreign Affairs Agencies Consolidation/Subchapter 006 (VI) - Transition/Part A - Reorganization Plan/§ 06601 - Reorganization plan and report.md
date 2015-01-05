@@ -6,7 +6,7 @@ Not later than 60 days after October 21, 1998, the President shall transmit to t
 
 &emsp;(1) the abolition of the United States Arms Control and Disarmament Agency, the United States Information Agency, and the United States International Development Cooperation Agency in accordance with this chapter;
 
-&emsp;(2) with respect to the Agency for International Development, the consolidation andstreamlining of the Agency and the transfer of certain functions of the Agency to the Department in accordance with section 6581 of this title;
+&emsp;(2) with respect to the Agency for International Development, the consolidation and streamlining of the Agency and the transfer of certain functions of the Agency to the Department in accordance with section 6581 of this title;
 
 &emsp;(3) the termination of functions of each covered agency as may be necessary to effectuate the reorganization under this chapter, and the termination of the affairs of each agency abolished under this chapter;
 
@@ -28,7 +28,7 @@ The agencies covered by this section are the following:
 
 #### (c) Plan elements
 
-The plan transmitted under subsection (a) of this section shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
+The plan transmitted under subsection (a) shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
 
 &emsp;(1) identify the functions of each covered agency that will be transferred to the Department under the plan;
 
@@ -42,7 +42,7 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 #### (d) Reorganization plan of Agency for International Development
 
-In addition to applicable provisions of subsection (c) of this section, the reorganization plan transmitted under this section for the Agency for International Development—
+In addition to applicable provisions of subsection (c), the reorganization plan transmitted under this section for the Agency for International Development—
 
 &emsp;(1) may provide for the abolition of the Agency for International Development and the transfer of all its functions to the Department of State; or
 
@@ -60,7 +60,7 @@ In addition to applicable provisions of subsection (c) of this section, the reor
 
 #### (e) Modification of plan
 
-The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) of this section until that part of the plan becomes effective in accordance with subsection (g) of this section.
+The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) until that part of the plan becomes effective in accordance with subsection (g).
 
 #### (f) Report
 
@@ -74,7 +74,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 &emsp;&emsp;(C) any preliminary actions which have been taken in the implementation process;
 
-&emsp;(2) the number of personnel and positions of each covered agency (including civil service personnel, Foreign Service personnel, and detailees) that are expected to be transferred to the Department, separated from service with such agency, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
+&emsp;(2) the number of personnel and positions of each covered agency (including civil servicepersonnel, Foreign Service personnel, and detailees) that are expected to be transferred to the Department, separated from service with such agency, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
 
 &emsp;(3) the number of personnel and positions of the Department (including civil service personnel, Foreign Service personnel, and detailees) that are expected to be transferred within the Department, separated from service with the Department, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
 
@@ -86,7 +86,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 #### (1) In general
 
-&emsp;The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (e) of this section, shall become effective on the earlier of the date for the respective covered agency specified in paragraph (2) or the date announced by the President under paragraph (3).
+&emsp;The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (e), shall become effective on the earlier of the date for the respective covered agency specified in paragraph (2) or the date announced by the President under paragraph (3).
 
 #### (2) Statutory effective dates
 
@@ -100,7 +100,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 #### (3) Effective date by Presidential determination
 
-&emsp;An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a) of this section.
+&emsp;An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a).
 
 #### (4) Statutory construction
 

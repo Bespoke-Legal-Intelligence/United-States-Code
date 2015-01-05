@@ -40,7 +40,7 @@ Security Clearances.—The Secretary shall sponsor and expedite individuals part
 
 (d)
 
-Security Incidents.—During a transportation security incident on or adjacent to waters subject to the jurisdiction of the United States, the Coast Guard Captain of the Port designated by the Commandant of the Coast Guard in a maritime security command center described insubsection (a) shall act as the incident commander, unless otherwise directed by the President.
+Security Incidents.—During a transportation security incident on or adjacent to waters subject to the jurisdiction of the United States, the Coast Guard Captain of the Port designated by the Commandant of the Coast Guard in a maritime security command center described in subsection (a) shall act as the incident commander, unless otherwise directed by the President.
 
 (e)
 

@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out any audit under this chapter (other than any initial audit survey orany audit investigating possible criminal or fraudulent conduct), either directly or through grant or contract, the Secretary, the Inspector General of the Department of Labor, or the Comptroller General of the United States shall furnish to the State, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not later than 14 days (or as soon as practicable), prior to the commencement of the audit.
+&emsp;&emsp;In carrying out any audit under this chapter (other than any initial audit survey or any audit investigating possible criminal or fraudulent conduct), either directly or through grant or contract, the Secretary, the Inspector General of the Department of Labor, or the Comptroller General of the United States shall furnish to the State, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not later than 14 days (or as soon as practicable), prior to the commencement of the audit.
 
 #### (B) Notification requirement
 
@@ -72,7 +72,7 @@ Each State, each local board, and each recipient (other than a subrecipient, sub
 
 &emsp;(1) shall make readily accessible such reports concerning its operations and expenditures as shall be prescribed by the Secretary;
 
-&emsp;(2) shall prescribe and maintain comparable management information systems, in accordance with guidelines that shall be prescribed by the Secretary, designed to facilitate the uniform compilation, cross tabulation, and analysis of programmatic, participant, and financial data, on statewide, local area, and other appropriate bases, necessary for reporting, monitoring, and evaluating purposes, including data necessary to comply with section 2938 of this title; and
+&emsp;(2) shall prescribe and maintain comparable management information systems, in accordance with guidelines that shall be prescribed by the Secretary, designed to facilitate the uniform compilation, cross tabulation, and analysis of programmatic, participant, and financial data, on statewide, local area, andother appropriate bases, necessary for reporting, monitoring, and evaluating purposes, including data necessary to comply with section 2938 of this title; and
 
 &emsp;(3) shall monitor the performance of providers in complying with the terms of grants, contracts, or other agreements made pursuant to this chapter.
 
@@ -120,6 +120,10 @@ In requiring entities to maintain records of costs by category under this chapte
 
 (Pub. L. 105–220, title I, §185, Aug. 7, 1998, 112 Stat. 1046.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
@@ -129,4 +133,8 @@ The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1575 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

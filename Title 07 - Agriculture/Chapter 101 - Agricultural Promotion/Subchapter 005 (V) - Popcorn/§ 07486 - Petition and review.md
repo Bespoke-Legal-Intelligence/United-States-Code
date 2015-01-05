@@ -20,13 +20,13 @@
 
 #### (4) Ruling
 
-&emsp;After a hearing under paragraph (3), the Secretary shall issue a ruling on the petition that is the subject of the hearing, which shall befinal if the ruling is in accordance with applicable law.
+&emsp;After a hearing under paragraph (3), the Secretary shall issue a ruling on the petition that is the subject of the hearing, which shall be final if the ruling is in accordance with applicable law.
 
 #### (b) Review
 
 #### (1) Commencement of action
 
-&emsp;The district court of the United States for any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition, if the person files a complaint not later than 20 days after the date of issuance of the ruling under subsection (a)(4) of this section.
+&emsp;The district court of the United States for any district in which a person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review a ruling on the petition, if the person files a complaint not later than 20 days after the date of issuance of the ruling under subsection (a)(4).
 
 #### (2) Process
 
@@ -34,7 +34,7 @@
 
 #### (3) Remands
 
-&emsp;If the court determines, under paragraph (1), that a ruling issued under subsection (a)(4) of this section is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions—
+&emsp;If the court determines, under paragraph (1), that a ruling issued under subsection (a)(4) is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions—
 
 &emsp;&emsp;(A) to make such ruling as the court shall determine to be in accordance with law; or
 
@@ -42,7 +42,7 @@
 
 #### (c) Enforcement
 
-The pendency of proceedings instituted under subsection (a) of this section may not impede, hinder, or delay the Secretary or the Attorney General from taking action under section 7487 of this title.
+The pendency of proceedings instituted under subsection (a) may not impede, hinder, or delay the Secretary or the Attorney General from taking action under section 7487 of this title.
 
 (Pub. L. 104–127, title V, §577, Apr. 4, 1996, 110 Stat. 1082.)
 

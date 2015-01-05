@@ -2,7 +2,7 @@
 
 (a)
 
-Granting of Extensions.—Notwithstanding any other provision of law, the Secretary may extend for not more than one year a medical certificate issued to an individual holding a license, merchant mariner's document, or certificate of registry issued under chapter 71 or 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for medical certificates or is in response to a national emergency or natural disaster.
+Granting of Extensions.—Notwithstanding any other provision of law, the Secretary may extend for not more than one year a medical certificate issued to an individual holding a license, merchant mariner's document, or certificate of registry issued under chapter 71 or 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications formedical certificates or is in response to a national emergency or natural disaster.
 
 (b)
 

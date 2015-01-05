@@ -72,7 +72,7 @@ Pub. L. 96–516, §20, Dec. 12, 1980, 94 Stat. 3010, provided that: "The Direct
 
 Pub. L. 95–434, §8, Oct. 10, 1978, 92 Stat. 1050, provided that:
 
-"(a) The Director of the National Science Foundation, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, and technical experts in public agencies, private organizations, and academicinstitutions, is authorized to determine the need to provide support under this Act for a study of the feasibility of transmitting solar energy to Earth by using orbital structures manufactured from lunar or asteroidal materials, and the impact of such a feasibility study, if any, on existing National Science Foundation programs.
+"(a) The Director of the National Science Foundation, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, and technical experts in public agencies, private organizations, and academic institutions, is authorized to determine the need to provide support under this Act for a study of the feasibility of transmitting solar energy to Earth by using orbital structures manufactured from lunar or asteroidal materials, and the impact of such a feasibility study, if any, on existing National Science Foundation programs.
 
 "(b)(1) If the Foundation determines that such a feasibility study is necessary, the Foundation is authorized to conduct such a study directly or by grants or contracts with public agencies, private organizations, or academic institutions.
 

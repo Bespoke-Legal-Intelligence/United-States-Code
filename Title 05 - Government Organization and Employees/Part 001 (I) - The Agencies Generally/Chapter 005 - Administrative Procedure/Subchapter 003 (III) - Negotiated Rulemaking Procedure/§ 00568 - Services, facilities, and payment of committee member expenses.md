@@ -38,5 +38,5 @@ Section 7(d) of the Federal Advisory Committee Act, referred to in subsec. (c), 
 
 <b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 588 of this title as this section.
 
-Subsec. (d). Pub. L. 102–354, §3(a)(4), substituted “section 569” for “section 589”.
+Subsec. (d). Pub. L. 102–354, §3(a)(4), substituted "section 569" for "section 589".
 

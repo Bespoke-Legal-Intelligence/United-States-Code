@@ -14,7 +14,7 @@ The Secretary is authorized to award grants to, or enter into contracts with—
 
 #### (1) Limitation
 
-&emsp;Not more than 40 percent of the amount appropriated under section 6716 of this title for afiscal year shall be used to carry out section 6715 of this title.
+&emsp;Not more than 40 percent of the amount appropriated under section 6716 of this title for a fiscal year shall be used to carry out section 6715 of this title.
 
 #### (2) Distribution
 
@@ -48,7 +48,7 @@ Establishment.—The Secretary of Education (referred to in this Act as the 'Sec
 
 "(b)
 
-Application.—An entity that desires to receive a grant under subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+Application.—An entity that desires to receive a grant under subsection (a) shall submit an applicationto the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 "(c)
 

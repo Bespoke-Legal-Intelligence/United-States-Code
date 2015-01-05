@@ -2,11 +2,11 @@
 
 (a)
 
-Crediting of Contributions.—Whenever the United States participates in a cooperativeproject with a friendly foreign country or the North Atlantic Treaty Organization (NATO) on a cost-sharing basis, any contribution received by the United States from that foreign country or NATO to meet its share of the costs of the project may be credited to appropriations available to an appropriate military department or another appropriate organization within the Department of Defense, as determined by the Secretary of Defense.
+Crediting of Contributions.—Whenever the United States participates in a cooperative project with a friendly foreign country or the North Atlantic Treaty Organization (NATO) on a cost-sharing basis, any contribution received by the United States from that foreign country or NATO to meet its share of the costs of the project may be credited to appropriations available to an appropriate military department or another appropriate organization within the Department of Defense, as determined by the Secretary of Defense.
 
 (b)
 
-Use of Amounts Credited.—The amount of a contribution credited pursuant to subsection (a) to an appropriation account in connection with a cooperative project referred to in that subsection shall be available only for payment of the share of the project expenses allocated to the foreign country or NATO making the contribution. Payments for which such amount is available include the following:
+Use of Amounts Credited.—The amount of a contribution credited pursuant to subsection (a) to an appropriation account in connection with a cooperative project referred to in thatsubsection shall be available only for payment of the share of the project expenses allocated to the foreign country or NATO making the contribution. Payments for which such amount is available include the following:
 
 &emsp;(1) Payments to contractors and other suppliers (including the Department of Defense and other participants acting as suppliers) for necessary articles and services.
 

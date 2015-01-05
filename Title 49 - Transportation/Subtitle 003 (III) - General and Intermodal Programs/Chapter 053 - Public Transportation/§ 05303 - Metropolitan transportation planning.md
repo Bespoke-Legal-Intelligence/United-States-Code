@@ -94,7 +94,7 @@ Redesignation procedures.—
 
 &emsp;&emsp;(A)
 
-In general.—A metropolitan planning organization may be redesignated by agreement between the Governor and units of general purpose local government that togetherrepresent at least 75 percent of the existing planning area population (including the largest incorporated city (based on population) as determined by the Bureau of the Census) as appropriate to carry out this section.
+In general.—A metropolitan planning organization may be redesignated by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the existing planning area population (including the largest incorporated city (based on population) as determined by the Bureau of the Census) as appropriate to carry out this section.
 
 &emsp;&emsp;(B)
 
@@ -154,7 +154,7 @@ Coordination in Multistate Areas.—
 
 &emsp;(1)
 
-In general.—The Secretary shall encourage each Governor with responsibility for a portion of a multistate metropolitan area and the appropriate metropolitan planning organizations to provide coordinated transportation planning for the entire metropolitan area.
+In general.—The Secretary shall encourage each Governor with responsibility for a portion of a multistate metropolitan area andthe appropriate metropolitan planning organizations to provide coordinated transportation planning for the entire metropolitan area.
 
 &emsp;(2)
 
@@ -252,7 +252,7 @@ Public transportation performance targets.—Selection of performance targets by
 
 &emsp;&emsp;(C)
 
-Timing.—Each metropolitan planning organization shall establish the performance targets under subparagraph (B) not later than 180 days after the date on which the relevant State or provider of public transportation establishes the performance targets.
+Timing.—Each metropolitan planning organization shall establish the performance targets under subparagraph (B) not later than 180 days after the date on which therelevant State or provider of public transportation establishes the performance targets.
 
 &emsp;&emsp;(D)
 
@@ -350,7 +350,7 @@ Inclusions.—The financial plan may include, for illustrative purposes, additio
 
 &emsp;&emsp;&emsp;(iii)
 
-Cooperative development.—For the purpose of developing the transportation plan, the metropolitan planning organization, transit operator, and State shall cooperatively develop estimates of funds that will be available to support plan implementation.
+Cooperative development.—For the purpose of developing the transportation plan, the metropolitan planning organization, transit operator, and State shall cooperatively develop estimates offunds that will be available to support plan implementation.
 
 &emsp;&emsp;(F)
 
@@ -394,7 +394,7 @@ Recommended components.—A metropolitan planning organization that chooses to d
 
 &emsp;&emsp;(C)
 
-Metrics.—In addition to the performance measures identified in section 150(c) oftitle 23, metropolitan planning organizations may evaluate scenarios developed under this paragraph using locally-developed measures.
+Metrics.—In addition to the performance measures identified in section 150(c) of title 23, metropolitan planning organizations may evaluate scenarios developed under this paragraph using locally-developed measures.
 
 &emsp;(5)
 
@@ -456,7 +456,7 @@ Development.—
 
 &emsp;&emsp;(A)
 
-In general.—In cooperation with the State and any affected public transportation operator, the metropolitan planning organization designated for a metropolitan area shall develop a TIP for the metropolitan planning area that—
+In general.—In cooperation with the State and any affected public transportationoperator, the metropolitan planning organization designated for a metropolitan area shall develop a TIP for the metropolitan planning area that—
 
 &emsp;&emsp;&emsp;(i) contains projects consistent with the current metropolitan transportation plan;
 
@@ -678,7 +678,7 @@ Report on Performance-based Planning Processes.—
 
 &emsp;(1)
 
-In general.—The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection <sup>1</sup>
+In general.—The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations underthis section, taking into consideration the requirements of this subsection <sup>1</sup>
 
 &emsp;(2)
 
@@ -854,7 +854,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (q), is Pu
 
 <b>2012</b>—Pub. L. 112–141 amended section generally, substituting provisions consisting of subsecs. (a) to (q), including requirement to submit report on performance-based planning processes, for former provisions consisting of subsecs. (a) to (p).
 
-<b>2008</b>—Subsec. (f)(3)(C)(ii)(II). Pub. L. 110–244, §201(b)(1), added subcl. (II) and struck out former subcl. (II). Prior to amendment, text read as follows: "In addition to funds made available to the metropolitan planning organization for the Lake Tahoe region under other provisions of this chapter and title 23, 1 percent of the funds allocated under section 202 of title 23 shallbe used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph."
+<b>2008</b>—Subsec. (f)(3)(C)(ii)(II). Pub. L. 110–244, §201(b)(1), added subcl. (II) and struck out former subcl. (II). Prior to amendment, text read as follows: "In addition to funds made available to the metropolitan planning organization for the Lake Tahoe region under other provisions of this chapter and title 23, 1 percent of the funds allocated under section 202 of title 23 shall be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph."
 
 Subsec. (j)(3)(D). Pub. L. 110–244, §201(b)(2), inserted "or the identified phase" after "the project" in two places.
 
@@ -992,7 +992,7 @@ Eligibility.—A State or local governmental authority that desires to participa
 
 #### Guidance on Documenting Compliance With Requirements of Private Enterprise Participation in Public Transportation Planning and Transportation Improvement Programs
 
-Pub. L. 112–141, div. B, §20013(d), July 6, 2012, 126 Stat. 694, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall publish in the Federal Register policy guidance regarding how to best document compliance by recipients of Federal assistance under chapter 53 of title 49, United States Code, with the requirements regarding private enterprise participation in public transportation planning and transportation improvement programs under sections 5303(i)(6), 5306(a), and 5307(c) of such title 49."
+Pub. L. 112–141, div. B, §20013(d), July 6, 2012, 126 Stat. 694, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall publish in the Federal Register policy guidance regardinghow to best document compliance by recipients of Federal assistance under chapter 53 of title 49, United States Code, with the requirements regarding private enterprise participation in public transportation planning and transportation improvement programs under sections 5303(i)(6), 5306(a), and 5307(c) of such title 49."
 
 #### Schedule for Implementation
 

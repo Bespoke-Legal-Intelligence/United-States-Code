@@ -98,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699.)
+(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amendedPub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699.)
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Subsec. (e)(1)(E). Pub. L. 112–239, §341(1)(B), substituted "For the fiscal y
 
 Subsec. (e)(1)(F). Pub. L. 112–239, §341(1)(C), added subpar. (F).
 
-Subsec. (e)(2), (3). Pub. L. 112–239, §341(2), (3), redesignated par. (3) as (2) and struck out former par. (2) whichread as follows: "Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
+Subsec. (e)(2), (3). Pub. L. 112–239, §341(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
 
 &emsp;"(A) an analysis of the budget submission for corrosion control and prevention by the Department of Defense; and
 
@@ -182,7 +182,7 @@ Pub. L. 110–417, \[div. A\], title IX, §903, Oct. 14, 2008, 122 Stat. 4566, a
 
 "(a)
 
-Requirement to Designate Corrosion Control and Prevention Executive.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Assistant Secretary of each military department with responsibility for acquisition, technology, and logistics shall designate an employee of the military department as the corrosion control and prevention executive. Such executive shall be the senior official in the department with responsibility for coordinating department-level corrosion control and prevention program activities (including budget programming) with the military department and the Office ofthe Secretary of Defense, the program executive officers of the military departments, and relevant major subordinate commands of the military departments.
+Requirement to Designate Corrosion Control and Prevention Executive.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Assistant Secretary of each military department with responsibility for acquisition, technology, and logistics shall designate an employee of the military department as the corrosion control and prevention executive. Such executive shall be the senior official in the department with responsibility for coordinating department-level corrosion control and prevention program activities (including budget programming) with the military department and the Office of the Secretary of Defense, the program executive officers of the military departments, and relevant major subordinate commands of the military departments.
 
 "(b)
 

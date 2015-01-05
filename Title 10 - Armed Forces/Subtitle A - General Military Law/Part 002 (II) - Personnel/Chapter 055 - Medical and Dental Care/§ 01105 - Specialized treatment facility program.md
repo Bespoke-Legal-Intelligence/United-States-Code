@@ -10,7 +10,7 @@ Facilities Authorized To Be Used.—Under the specialized treatment facility pro
 
 (c)
 
-Waiver of Nonemergency Health Care Restriction.—Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service, the 40-mile radius restriction set forth in section 1079(a)(7) of this title if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
+Waiver of Nonemergency Health Care Restriction.—Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service, the 40-mile radius restriction set forth in section 1079(a)(6) of this title if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
 
 (d)
 
@@ -36,9 +36,11 @@ Payment of Costs Related to Care in Specialized Treatment Facilities.—(1) Subj
 
 Covered Beneficiary Defined.—In this section, the term "covered beneficiary" means a person covered under section 1079 or 1086 of this title.
 
-(Added Pub. L. 102–190, div. A, title VII, §715(a), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 103–160, div. A, title VII, §716(a)(1), Nov. 30, 1993, 107 Stat. 1691; Pub. L. 104–106, div. A, title VII, §706, Feb. 10, 1996, 110 Stat. 373.)
+(Added Pub. L. 102–190, div. A, title VII, §715(a), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 103–160, div. A, title VII, §716(a)(1), Nov. 30, 1993, 107 Stat. 1691; Pub. L. 104–106, div. A, title VII, §706, Feb. 10, 1996, 110 Stat. 373; Pub. L. 113–291, div. A, title VII, §703(c)(3), Dec. 19, 2014, 128 Stat. 3412.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–291 substituted "section 1079(a)(6)" for "section 1079(a)(7)".
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–106 struck out subsec. (h) which read as follows: "
 

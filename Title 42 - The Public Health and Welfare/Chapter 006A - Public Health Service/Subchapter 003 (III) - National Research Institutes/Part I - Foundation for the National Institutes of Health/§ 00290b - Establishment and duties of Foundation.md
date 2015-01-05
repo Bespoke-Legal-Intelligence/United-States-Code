@@ -190,7 +190,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (2) Financial conflicts of interest
 
-&emsp;Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of anybusiness organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
+&emsp;Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
 
 #### (3) Audits; availability of records
 
@@ -220,7 +220,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (6) Relationship with existing entities
 
-&emsp;The Foundation may, pursuant to appropriate agreements, merge with, acquire, or use the resources of existing nonprofit private corporations with missions similar to the purposes of the Foundation, such as the Foundation for Advanced Education in the Sciences.
+&emsp;The Foundation may, pursuant to appropriate agreements, merge with, acquire, or usethe resources of existing nonprofit private corporations with missions similar to the purposes of the Foundation, such as the Foundation for Advanced Education in the Sciences.
 
 #### (7) Intellectual property rights
 
@@ -264,7 +264,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (10) Transfer of funds
 
-&emsp;The Foundation may transfer funds to the National Institutes of Health and the NationalInstitutes of Health may accept transfers of funds from the Foundation. Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.
+&emsp;The Foundation may transfer funds to the National Institutes of Health and the National Institutes of Health may accept transfers of funds from the Foundation. Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.
 
 #### (k) Duties of Director
 
@@ -284,7 +284,7 @@ From amounts appropriated to the National Institutes of Health, for each fiscal 
 
 #### References in Text
 
-Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) ofPub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, as amended, which enacted this section, section 285g–4 of this title, and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
 
@@ -328,7 +328,7 @@ Subsec. (c)(1)(C), (D). Pub. L. 107–109, §13(2), added subpar. (C) and redesi
 
 Subsec. (d)(1)(B)(iv). Pub. L. 107–109, §13(3)(A)(i), added cl. (iv).
 
-Subsec. (d)(1)(C). Pub. L. 107–109, §13(3)(A)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: "The ex officio members of the Boardunder subparagraph (B) shall appoint to the Board 11 individuals from among a list of candidates to be provided by the National Academy of Science. Of such appointed members—
+Subsec. (d)(1)(C). Pub. L. 107–109, §13(3)(A)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: "The ex officio members of the Board under subparagraph (B) shall appoint to the Board 11 individuals from among a list of candidates to be provided by the National Academy of Science. Of such appointed members—
 
 &emsp;"(i) 4 shall be representative of the general biomedical field;
 
@@ -372,7 +372,7 @@ Subsec. (c). Pub. L. 103–43, §1701(3), added subsec. (c). Former subsec. (c) 
 
 Subsec. (d). Pub. L. 103–43, §1701(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted "appointed members of the Board" for "members of the Foundation" in subpar. (A), "Board" for "Council" in subpar. (B), and "appoint to the Board" for "appoint to the Council" in subpar. (C), and added subpars. (D) to (G).
+Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted "appointed members of the Board" for "members of the Foundation" in subpar. (A), "Board" for "Council" insubpar. (B), and "appoint to the Board" for "appoint to the Council" in subpar. (C), and added subpars. (D) to (G).
 
 Subsec. (d)(2). Pub. L. 103–43, §1701(4)(B), designated existing provisions as subpar. (A), substituted "an individual to serve as the initial Chair" for "an appointed member of the Board to serve as the Chair", and added subpar. (B).
 
@@ -436,7 +436,7 @@ Pub. L. 103–43, §1701(2), redesignated subsec. (i) as (m).
 
 Subsec. (n). Pub. L. 103–43, §1701(8), added subsec. (n).
 
-<b>1992</b>—Subsec. (g)(9). Pub. L. 102–321 struck out "or the Administrator of the Alcohol, Drug Abuse, and MentalHealth Administration" after "Director of the National Institutes of Health" and "and the Alcohol, Drug Abuse, and Mental Health Administration" after "research programs of the National Institutes of Health".
+<b>1992</b>—Subsec. (g)(9). Pub. L. 102–321 struck out "or the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration" after "Director of the National Institutes of Health" and "and the Alcohol, Drug Abuse, and Mental Health Administration" after "research programs of the National Institutes of Health".
 
 <b>1991</b>—Subsec. (c)(1)(C). Pub. L. 102–170, §216(1), substituted "11" for "9".
 

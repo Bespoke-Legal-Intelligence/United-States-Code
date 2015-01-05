@@ -42,7 +42,7 @@ Applications to establish spacing units for the drilling and operation of coalbe
 
 #### (g) Development under pooling arrangement
 
-Following issuance of an order establishing a spacing unit under subsection (f) of this section, and pursuant to an application for pooling filed by the entity claiming a coalbed methane ownership interest and proposing to drill a coalbed methane gas well, the Secretary of the Interior shall hold a hearing to consider the application for pooling and shall, if the criteria of this section are met, issue an order allowing the proposed pooling of acreage within the designated spacing unit for purposes of drilling and production of coalbed methane from the spacing unit. The pooling order shall not be issued before notice or a reasonable and diligent effort to provide notice has been made to each entity which may claim an ownership interest in the coalbed methane gas within such spacing unit and each such entity has been offered an opportunity to appear before the Secretary of the Interior at the hearing. Upon issuance of a pooling order, each owner or claimant of an ownership interest shall be allowed to make one of the following elections:
+Following issuance of an order establishing a spacing unit under subsection (f) of this section,and pursuant to an application for pooling filed by the entity claiming a coalbed methane ownership interest and proposing to drill a coalbed methane gas well, the Secretary of the Interior shall hold a hearing to consider the application for pooling and shall, if the criteria of this section are met, issue an order allowing the proposed pooling of acreage within the designated spacing unit for purposes of drilling and production of coalbed methane from the spacing unit. The pooling order shall not be issued before notice or a reasonable and diligent effort to provide notice has been made to each entity which may claim an ownership interest in the coalbed methane gas within such spacing unit and each such entity has been offered an opportunity to appear before the Secretary of the Interior at the hearing. Upon issuance of a pooling order, each owner or claimant of an ownership interest shall be allowed to make one of the following elections:
 
 &emsp;(1) An election to sell or lease its coalbed methane ownership interest to the unit operator at a rate determined by the Secretary of the Interior as set forth in the pooling order.
 
@@ -56,7 +56,7 @@ Following issuance of an order establishing a spacing unit under subsection (f) 
 
 (1) Each pooling order issued under subsection (g) of this section shall provide for the establishment of an escrow account into which the payment of costs and proceeds attributable to the conflicting interests shall be deposited and held for the interest of the claimants as follows:
 
-&emsp;(A) Each participating working interest owner, except for the unit operator, shall deposit in the escrow account its proportionate share of the costs allocable to the ownership interest claimed by each such participating working interest owner as set forth in thepooling order issued by the Secretary of the Interior.
+&emsp;(A) Each participating working interest owner, except for the unit operator, shall deposit in the escrow account its proportionate share of the costs allocable to the ownership interest claimed by each such participating working interest owner as set forth in the pooling order issued by the Secretary of the Interior.
 
 &emsp;(B) The unit operator shall deposit in the escrow account all proceeds attributable to the conflicting interests of lessees, plus all proceeds in excess of ongoing operational expenses (including reasonable overhead costs) attributable to conflicting working interests.
 
@@ -96,7 +96,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 (4) The consent required under this subsection shall in no way be deemed to impair, abridge, or affect any contractual rights or objections arising out of a coalbed methane gas contract or coalbed methane gas lease in existence as of October 24, 1992,<sup>1</sup> between the coalbed methane operator and the coal operator, and the existence of such lease or contractual agreement and any extensions or renewals of such lease shall be deemed to fully meet the requirements of this section.
 
-(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operatorfrom seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
+(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operator from seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
 
 #### (k) Notice and objection
 

@@ -48,7 +48,7 @@ For purposes of this title, the terms "real estate mortgage investment conduit" 
 
 > &emsp;&emsp;then, notwithstanding such terminating event, such entity shall be treated as continuing to be a REMIC (or such cessation shall be disregarded for purposes of subparagraph (A)) whichever the Secretary determines to be appropriate.
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(2)(A), (16)(A), (19), Nov. 10, 1988, 102 Stat. 3419, 3423, 3426; Pub. L. 101–508, title XI, §11704(a)(8), Nov. 5, 1990, 104 Stat. 1388–518.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, titleI, §1006(t)(2)(A), (16)(A), (19), Nov. 10, 1988, 102 Stat. 3419, 3423, 3426; Pub. L. 101–508, title XI, §11704(a)(8), Nov. 5, 1990, 104 Stat. 1388–518.)
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Subsec. (a)(6). Pub. L. 100–647, §1006(t)(16)(A), added par. (6).
 
 Pub. L. 100–647, title I, §1006(t)(2)(B), Nov. 10, 1988, 102 Stat. 3419, provided that: "The amendment made by subparagraph (A)(ii) \[amending this section\] shall take effect on January 1, 1988."
 
-Pub. L. 100–647, title I, §1006(t)(16)(D)(i), Nov. 10, 1988, 102 Stat. 3425, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply in the case of any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code, as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is after March 31, 1988; except that such amendments shall not apply in the case of aREMIC formed pursuant to a binding written contract in effect on such date."
+Pub. L. 100–647, title I, §1006(t)(16)(D)(i), Nov. 10, 1988, 102 Stat. 3425, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply in the case of any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code, as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is after March 31, 1988; except that such amendments shall not apply in the case of a REMIC formed pursuant to a binding written contract in effect on such date."
 
 Amendment by section 1006(t)(2)(A)(i), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

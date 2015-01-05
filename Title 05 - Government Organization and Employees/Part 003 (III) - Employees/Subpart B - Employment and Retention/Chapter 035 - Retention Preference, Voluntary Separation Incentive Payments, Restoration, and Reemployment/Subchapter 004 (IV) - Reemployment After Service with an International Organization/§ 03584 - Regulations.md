@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Aug. 28, 1958, Pub. L. 85–795, §5, 72 Stat. 961.
 
-The words “civil service employment rights” are substituted for “Federal employment rights”. The word “including” is substituted for “such as, but not limited to”.
+The words "civil service employment rights" are substituted for "Federal employment rights". The word "including" is substituted for "such as, but not limited to".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -50,7 +50,7 @@ Sec. 3. <i>Delegations</i>. (a) Except as otherwise provided in this order, ther
 
 (1) The authority vested in the President by sections 3343 and 3581 of title 5, United States Code, to determine whether it is in the national interest to extend a detail or transfer of an employee beyond five years.
 
-(2) The authority vested in the President by section 3582(b) of title 5, United States Code, to define and specify “pay, allowances, post differential, and other monetary benefits” to be paid by the agency upon reemployment, disability, or death.
+(2) The authority vested in the President by section 3582(b) of title 5, United States Code, to define and specify "pay, allowances, post differential, and other monetary benefits" to be paid by the agency upon reemployment, disability, or death.
 
 Sec. 4. <i>Revocation</i>. Executive Order No. 10804 of February 12, 1959, is hereby revoked.
 

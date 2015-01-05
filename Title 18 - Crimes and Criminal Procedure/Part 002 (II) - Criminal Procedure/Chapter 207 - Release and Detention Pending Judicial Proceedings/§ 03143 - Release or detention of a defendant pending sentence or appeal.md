@@ -14,7 +14,7 @@ Release or Detention Pending Sentence.—(1) Except as provided in paragraph (2)
 
 (b)
 
-Release or Detention Pending Appeal by the Defendant.—(1) Except as provided in paragraph (2), the judicial officer shall order that aperson who has been found guilty of an offense and sentenced to a term of imprisonment, and who has filed an appeal or a petition for a writ of certiorari, be detained, unless the judicial officer finds—
+Release or Detention Pending Appeal by the Defendant.—(1) Except as provided in paragraph (2), the judicial officer shall order that a person who has been found guilty of an offense and sentenced to a term of imprisonment, and who has filed an appeal or a petition for a writ of certiorari, be detained, unless the judicial officer finds—
 
 &emsp;(A) by clear and convincing evidence that the person is not likely to flee or pose a danger to the safety of any other person or the community if released under section 3142(b) or (c) of this title; and
 

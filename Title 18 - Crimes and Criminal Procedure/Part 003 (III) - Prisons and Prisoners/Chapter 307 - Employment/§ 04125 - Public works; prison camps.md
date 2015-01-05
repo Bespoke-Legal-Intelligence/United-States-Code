@@ -18,7 +18,7 @@ Based on title 18, U.S.C., 1940 ed., §§744b, 851, 853, 854, 855 (Feb. 26, 1929
 
 Section consolidates section 744b of title 18, U.S.C., 1940 ed., with those portions of sections 851, 853–855 of title 18, U.S.C., 1940 ed., which may not have been superseded by section 744b of said title.
 
-Section 851 of title 18, U.S.C., 1940 ed., was superseded except for the proviso which formed the basis for theadded words "elsewhere than upon Indian reservations".
+Section 851 of title 18, U.S.C., 1940 ed., was superseded except for the proviso which formed the basis for the added words "elsewhere than upon Indian reservations".
 
 Section 855 of title 18, U.S.C., 1940 ed., was superseded by section 744b of title 18, U.S.C., 1940 ed., except as to the specific mention in section 855 of said title of expense for maintenance and operation of camps. Hence a reference to operation was added in subsection (c) of this section.
 

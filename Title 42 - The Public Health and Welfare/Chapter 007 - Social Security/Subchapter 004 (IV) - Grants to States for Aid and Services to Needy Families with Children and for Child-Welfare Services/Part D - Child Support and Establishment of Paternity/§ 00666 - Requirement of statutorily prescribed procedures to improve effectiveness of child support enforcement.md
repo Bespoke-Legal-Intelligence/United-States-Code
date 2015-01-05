@@ -6,7 +6,7 @@ In order to satisfy section 654(20)(A) of this title, each State must have in ef
 
 &emsp;(1)(A) Procedures described in subsection (b) of this section for the withholding from income of amounts payable as support in cases subject to enforcement under the State plan.
 
-&emsp;(B) Procedures under which the income of a person with a support obligation imposed by asupport order issued (or modified) in the State before January 1, 1994, if not otherwise subject to withholding under subsection (b) of this section, shall become subject to withholding as provided in subsection (b) of this section if arrearages occur, without the need for a judicial or administrative hearing.
+&emsp;(B) Procedures under which the income of a person with a support obligation imposed by a support order issued (or modified) in the State before January 1, 1994, if not otherwise subject to withholding under subsection (b) of this section, shall become subject to withholding as provided in subsection (b) of this section if arrearages occur, without the need for a judicial or administrative hearing.
 
 &emsp;(2) Expedited administrative and judicial procedures (including the procedures specified in subsection (c) of this section) for establishing paternity and for establishing, modifying, and enforcing support obligations. The Secretary may waive the provisions of this paragraph with respect to one or more political subdivisions within the State on the basis of the effectiveness and timeliness of support order issuance and enforcement or paternity establishment within the political subdivision (in accordance with the general rule for exemptions under subsection (d) of this section).
 
@@ -14,7 +14,7 @@ In order to satisfy section 654(20)(A) of this title, each State must have in ef
 
 &emsp;&emsp;(A) any refund of State income tax which would otherwise be payable to a noncustodial parent will be reduced, after notice has been sent to that noncustodial parent of the proposed reduction and the procedures to be followed to contest it (and after full compliance with all procedural due process requirements of the State), by the amount of any overdue support owed by such noncustodial parent;
 
-&emsp;&emsp;(B) the amount by which such refund is reduced shall be distributed in accordance with section 657 of this title in the case of overdue support assigned to a State pursuant to section 608(a)(3) or 671(a)(17) of this title, or, in any other case, shall be distributed, after deduction of any fees imposed by the State to cover the costs of collection, to the child or parent to whom such support is owed; and
+&emsp;&emsp;(B) the amount by which such refund is reduced shall be distributed in accordance with section 657 of this title in the case of overdue support assigned to a State pursuant to section 608(a)(3) or 671(a)(17) of this title, or, in any other case, shall be distributed, after deduction of any fees imposed by the State to cover the costs of collection, tothe child or parent to whom such support is owed; and
 
 &emsp;&emsp;(C) notice of the noncustodial parent's social security account number (or numbers, if he has more than one such number) and home address shall be furnished to the State agency requesting the refund offset, and to the State agency enforcing the order.
 
@@ -156,7 +156,7 @@ Temporary support order based on probable paternity in contested cases.—Proced
 
 &emsp;&emsp;(K)
 
-Proof of certain support and paternity establishment costs.—Proceduresunder which bills for pregnancy, childbirth, and genetic testing are admissible as evidence without requiring third-party foundation testimony, and shall constitute prima facie evidence of amounts incurred for such services or for testing on behalf of the child.
+Proof of certain support and paternity establishment costs.—Procedures under which bills for pregnancy, childbirth, and genetic testing are admissible as evidence without requiring third-party foundation testimony, and shall constitute prima facie evidence of amounts incurred for such services or for testing on behalf of the child.
 
 &emsp;&emsp;(L)
 
@@ -222,7 +222,7 @@ In general.—Procedures under which every 3 years (or such shorter cycle as the
 
 &emsp;&emsp;&emsp;&emsp;(II) apply a cost-of-living adjustment to the order in accordance with a formula developed by the State; or
 
-&emsp;&emsp;&emsp;&emsp;(III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment,and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
+&emsp;&emsp;&emsp;&emsp;(III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment, and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -240,7 +240,7 @@ Proof of substantial change in circumstances necessary in request for review out
 
 Notice of right to review.—Procedures which require the State to provide notice not less than once every 3 years to the parents subject to the order informing the parents of their right to request the State to review and, if appropriate, adjust the order pursuant to this paragraph. The notice may be included in the order.
 
-&emsp;(11) Procedures under which a State must give full faith and credit to a determination of paternity made by any other State, whether established through voluntary acknowledgment or through administrative or judicial processes.
+&emsp;(11) Procedures under which a State must give full faith and credit to a determination ofpaternity made by any other State, whether established through voluntary acknowledgment or through administrative or judicial processes.
 
 &emsp;(12)
 
@@ -294,7 +294,7 @@ High-volume automated administrative enforcement.—In this part, the term "high
 
 &emsp;(15)
 
-Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overduesupport with respect to a child receiving assistance under a State program funded under part A of this subchapter, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
+Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overdue support with respect to a child receiving assistance under a State program funded under part A of this subchapter, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
 
 &emsp;&emsp;(A) pay such support in accordance with a plan approved by the court, or, at the option of the State, a plan approved by the State agency administering the State program under this part; or
 
@@ -412,7 +412,7 @@ The procedures referred to in subsection (a)(1)(A) of this section (relating to 
 
 &emsp;(iii) As used in this subparagraph, the term "business day" means a day on which State offices are open for regular business.
 
-&emsp;(B) Methods must be established by the State to simplify the withholding process for employers to the greatest extent possible, including permitting any employer to combine all withheld amounts into a single payment to each appropriate agency or entity (with the portion thereof which is attributable to each individual employee being separately designated).
+&emsp;(B) Methods must be established by the State to simplify the withholding process foremployers to the greatest extent possible, including permitting any employer to combine all withheld amounts into a single payment to each appropriate agency or entity (with the portion thereof which is attributable to each individual employee being separately designated).
 
 &emsp;(C) The employer must be held liable to the State for any amount which such employer fails to withhold from income due an employee following receipt by such employer of proper notice under subparagraph (A), but such employer shall not be required to vary the normal pay and disbursement cycles in order to comply with this paragraph.
 
@@ -562,7 +562,19 @@ In order to satisfy section 654(20)(A) of this title, each State must have in ef
 
 &emsp;&emsp;(B) obtain a settlement in the best interests of the child support creditor.
 
-(Aug. 14, 1935, ch. 531, title IV, §466, as added Pub. L. 98–378, §3(b), Aug. 16, 1984, 98 Stat. 1306; amended Pub. L. 99–509, title IX, §9103(a), Oct. 21, 1986, 100 Stat. 1973; Pub. L. 100–485, title I, §§101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, 102 Stat. 2344–2346, 2349, 2350; Pub. L. 100–647, title VIII, §8105(4), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 103–66, title XIII, §13721(b), Aug. 10, 1993, 107 Stat. 659; Pub. L. 103–432, title II, §212(a), Oct. 31, 1994, 108 Stat. 4460; Pub. L. 104–193, title I, §108(c)(14), (15), title III, §§301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, 110 Stat. 2166, 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; Pub. L. 105–33, title V, §§5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, 111 Stat. 627, 629–631, 633, 634, 637; Pub. L. 105–200, title IV, §§401(c)(1), 404(a), 406(a), July 16, 1998, 112 Stat. 661, 671; Pub. L. 106–169, title IV, §401(f), (m), (n), Dec. 14, 1999, 113 Stat. 1858, 1859; Pub. L. 109–171, title VII, §§7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, 120 Stat. 145, 146.)
+(Aug. 14, 1935, ch. 531, title IV, §466, as added Pub. L. 98–378, §3(b), Aug. 16, 1984, 98 Stat. 1306; amended Pub. L. 99–509, title IX, §9103(a), Oct. 21, 1986, 100 Stat. 1973; Pub. L. 100–485, title I, §§101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, 102 Stat. 2344–2346, 2349, 2350; Pub. L. 100–647, title VIII, §8105(4), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 103–66, title XIII, §13721(b), Aug. 10, 1993, 107 Stat. 659; Pub. L. 103–432, title II, §212(a), Oct. 31, 1994, 108 Stat. 4460; Pub. L. 104–193, title I, §108(c)(14), (15), title III, §§301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, 110 Stat. 2166, 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; Pub. L. 105–33, title V, §§5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, 111 Stat. 627, 629–631, 633, 634, 637; Pub. L. 105–200, title IV, §§401(c)(1), 404(a), 406(a), July 16, 1998, 112 Stat. 661, 671; Pub. L. 106–169, title IV, §401(f), (m), (n), Dec. 14, 1999, 113 Stat. 1858, 1859; Pub. L. 109–171, title VII, §§7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 113–183, title III, §301(f)(1), Sept. 29, 2014, 128 Stat. 1944.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 113–183, title III, §301(f)(1), (3)(A), Sept. 29, 2014, 128 Stat. 1944, 1945, provided that, effective with respect to the grace periods provided to States (see Effective Date of 2014 Amendment note below), subsection (f) of this section is amended as follows:</i>
+
+<i>(1) by striking "on and after January 1, 1998,";</i>
+
+<i>(2) by striking "and as in effect on August 22, 1996,"; and</i>
+
+<i>(3) by striking "adopted as of such date" and inserting "adopted as of September 30, 2008".</i>
+
+<i>See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -572,9 +584,11 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 
 #### Codification
 
-October 13, 1988, referred to in subsec. (b)(3)(A), was in the original "the date of enactment of this paragraph", which was translated as meaning the date of enactmentof Pub. L. 100–485, which amended par. (3) of this section generally, to reflect the probable intent of Congress.
+October 13, 1988, referred to in subsec. (b)(3)(A), was in the original "the date of enactment of this paragraph", which was translated as meaning the date of enactment of Pub. L. 100–485, which amended par. (3) of this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–183 struck out "on and after January 1, 1998," before "each State" and "and as in effect on August 22, 1996," before "including any amendments" and substituted "adopted as of September 30, 2008" for "adopted as of such date".
 
 <b>2006</b>—Subsec. (a)(10)(A)(i). Pub. L. 109–171, §7302(a), in introductory provisions, substituted "parent or" for "parent, or," and struck out "upon the request of the State agency under the State plan or of either parent," after "under part A of this subchapter,".
 
@@ -650,7 +664,7 @@ Pub. L. 104–193, §108(c)(14), substituted "section 608(a)(3)" for "section 60
 
 Subsec. (a)(4). Pub. L. 104–193, §368, inserted heading and amended text of par. (4) generally. Prior to amendment, text read as follows: "Procedures under which liens are imposed against real and personal property for amounts of overdue support owed by an absent parent who resides or owns property in the State."
 
-Subsec. (a)(5). Pub. L. 104–193, §331(a), inserted heading and amended text of par. (5) generally. Prior toamendment, text related to establishment of child's paternity prior to child's eighteenth birthday.
+Subsec. (a)(5). Pub. L. 104–193, §331(a), inserted heading and amended text of par. (5) generally. Prior to amendment, text related to establishment of child's paternity prior to child's eighteenth birthday.
 
 Subsec. (a)(6). Pub. L. 104–193, §395(d)(1)(H), (2)(D), substituted "a noncustodial parent give security" for "an absent parent give security" and "noncustodial parent of the proposed action" for "absent parent of the proposed action".
 
@@ -658,7 +672,7 @@ Subsec. (a)(7). Pub. L. 104–193, §367, inserted heading and amended text of p
 
 Subsec. (a)(8)(A). Pub. L. 104–193, §314(b)(2)(A), substituted "income" for "wages".
 
-Subsec. (a)(8)(B)(i). Pub. L. 104–193, §§314(b)(2)(A), 395(d)(2)(D), substituted "income" for "wages" in two places and "a noncustodial parent" for "an absent parent".
+Subsec. (a)(8)(B)(i). Pub. L. 104–193, §§314(b)(2)(A), 395(d)(2)(D), substituted "income" for "wages" in twoplaces and "a noncustodial parent" for "an absent parent".
 
 Subsec. (a)(8)(B)(ii). Pub. L. 104–193, §395(d)(1)(H), substituted "noncustodial parent" for "absent parent".
 
@@ -708,7 +722,7 @@ Subsec. (b)(6)(A)(iii). Pub. L. 104–193, §314(a)(2)(D)(iii), added cl. (iii).
 
 Subsec. (b)(6)(C). Pub. L. 104–193, §314(b)(2)(A), substituted "income" for "wages".
 
-Subsec. (b)(6)(D). Pub. L. 104–193, §314(a)(2)(E), substituted "any employer who—" for "any employer who discharges from employment, refuses to employ, or takes disciplinary action against any absent parent subject to wage withholding required by this subsection because of the existence of such withholding and theobligations or additional obligations which it imposes upon the employer." and added cls. (i) and (ii).
+Subsec. (b)(6)(D). Pub. L. 104–193, §314(a)(2)(E), substituted "any employer who—" for "any employer who discharges from employment, refuses to employ, or takes disciplinary action against any absent parent subject to wage withholding required by this subsection because of the existence of such withholding and the obligations or additional obligations which it imposes upon the employer." and added cls. (i) and (ii).
 
 Subsec. (b)(7). Pub. L. 104–193, §314(b)(2)(A), substituted "income" for "wages".
 
@@ -755,6 +769,14 @@ Subsec. (b)(3). Pub. L. 100–485, §101(a), amended par. (3) generally. Prior t
 &emsp;"(C) such earlier date as the State may select."
 
 <b>1986</b>—Subsec. (a)(9). Pub. L. 99–509 added par. (9).
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–183, title III, §301(f)(3)(A), Sept. 29, 2014, 128 Stat. 1945, provided that:
+
+"(i) The amendments made by paragraph (1) \[amending this section\] shall take effect with respect to a State no later than the effective date of laws enacted by the legislature of the State implementing such paragraph, but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\].
+
+"(ii) For purposes of clause (i), in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 2006 Amendment
 

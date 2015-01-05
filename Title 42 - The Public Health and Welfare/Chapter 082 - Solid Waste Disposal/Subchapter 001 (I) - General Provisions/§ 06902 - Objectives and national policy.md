@@ -8,7 +8,7 @@ The objectives of this chapter are to promote the protection of health and the e
 
 &emsp;(2) providing training grants in occupations involving the design, operation, and maintenance of solid waste disposal systems;
 
-&emsp;(3) prohibiting future open dumping on the land and requiring the conversion of existing open dumps to facilities which do not pose a danger to the environment or to health;
+&emsp;(3) prohibiting future open dumping on the land and requiring the conversion of existingopen dumps to facilities which do not pose a danger to the environment or to health;
 
 &emsp;(4) assuring that hazardous waste management practices are conducted in a manner which protects human health and the environment;
 

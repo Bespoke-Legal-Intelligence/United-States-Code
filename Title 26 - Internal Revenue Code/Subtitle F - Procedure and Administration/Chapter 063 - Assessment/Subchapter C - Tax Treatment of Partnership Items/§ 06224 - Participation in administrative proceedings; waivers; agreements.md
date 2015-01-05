@@ -34,7 +34,7 @@ In the absence of a showing of fraud, malfeasance, or misrepresentation of fact�
 
 #### (A) In general
 
-&emsp;&emsp;A partner who is not a notice partner (and not a member of a notice group described in subsection (b)(2) of section 6223) shall be bound by any settlement agreement—
+&emsp;&emsp;A partner who is not a notice partner (and not a member of a notice group described insubsection (b)(2) of section 6223) shall be bound by any settlement agreement—
 
 &emsp;&emsp;&emsp;(i) which is entered into by the tax matters partner, and
 

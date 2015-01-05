@@ -12,7 +12,7 @@ On a <sup>1</sup> annual basis, the Secretary of the Treasury (acting through t
 
 #### (b) Immediate notification for emergency designation
 
-In the case of a designation of an individual or entity, or the assets of an individual or entity, as having been found to have engaged in terrorist activities, the Secretary of the Treasury shall report such designation within 24 hours of such a designation to the appropriate congressional committees.
+In the case of a designation of an individual or entity, or the assets of an individual or entity,as having been found to have engaged in terrorist activities, the Secretary of the Treasury shall report such designation within 24 hours of such a designation to the appropriate congressional committees.
 
 #### (c) Submittal date of reports to congressional intelligence committees
 

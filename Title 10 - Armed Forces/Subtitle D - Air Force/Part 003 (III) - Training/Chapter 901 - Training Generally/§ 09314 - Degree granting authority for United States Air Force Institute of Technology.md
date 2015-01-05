@@ -62,7 +62,7 @@ Acceptance of Research Grants.—(1) The Secretary of the Air Force may authoriz
 
 (6) The Secretary shall prescribe regulations for the administration of this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 99–145, title V, §504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, §510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, titleV, §529 \[title I, §106(b)(6)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, §1102, Oct. 17, 1998, 112 Stat. 2141; Pub. L. 108–136, div. A, title V, §533, Nov. 24, 2003, 117 Stat. 1473; Pub. L. 109–163, div. A, title V, §522(e), Jan. 6, 2006, 119 Stat. 3243; Pub. L. 110–417, \[div. A\], title V, §§543(h)(1), 544, Oct. 14, 2008, 122 Stat. 4463, 4465.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 99–145, title V, §504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, §510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, title V, §529 \[title I, §106(b)(6)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, §1102, Oct. 17, 1998, 112 Stat. 2141; Pub. L. 108–136, div. A, title V, §533, Nov. 24, 2003, 117 Stat. 1473; Pub. L. 109–163, div. A, title V, §522(e), Jan. 6, 2006, 119 Stat. 3243; Pub. L. 110–417, \[div. A\], title V, §§543(h)(1), 544, Oct. 14, 2008, 122 Stat. 4463, 4465.)
 
 Historical and Revision Notes
 

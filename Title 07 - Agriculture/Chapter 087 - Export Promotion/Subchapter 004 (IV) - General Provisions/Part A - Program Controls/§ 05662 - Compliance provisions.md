@@ -8,7 +8,7 @@
 
 #### (2) Confidentiality
 
-&emsp;The personally identifiable information contained in reports under subsection (a) of thissection may be withheld in accordance with section 552(b)(4) of title 5. Any officer or employee of the Department of Agriculture who knowingly discloses confidential information as defined by section 1905 of title 18 shall be subject to section 1905 of title 18. Nothing in this subsection shall be construed to authorize the withholding of information from Congress.
+&emsp;The personally identifiable information contained in reports under subsection (a) may be withheld in accordance with section 552(b)(4) of title 5. Any officer or employee of the Department of Agriculture who knowingly discloses confidential information as defined by section 1905 of title 18 shall be subject to section 1905 of title 18. Nothing in this subsection shall be construed to authorize the withholding of information from Congress.
 
 #### (b) Violation
 
@@ -24,7 +24,7 @@ If any exporter, assignee, or other participant has engaged in fraud with respec
 
 #### (c) Suspension and debarment
 
-The Commodity Credit Corporation may suspend or debar for 1 or more years any exporter, assignee, or other participant from participation in one or more of the programs authorized by this chapter if the Corporation determines, after opportunity for a hearing, that such exporter, assignee, or other participant has violated the terms and conditions of the program or of this chapter and that the violation is of such a nature as to warrant suspension or debarment.
+The Commodity Credit Corporation may suspend or debar for 1 or more years any exporter, assignee, or other participant from participation in one or more of the programs authorized bythis chapter if the Corporation determines, after opportunity for a hearing, that such exporter, assignee, or other participant has violated the terms and conditions of the program or of this chapter and that the violation is of such a nature as to warrant suspension or debarment.
 
 #### (d) False certifications
 

@@ -4,37 +4,41 @@
 
 #### (1) In general
 
-&emsp;Unless the director of a designated State unit awards grants under section 796f–2 of thistitle to eligible agencies in a State for a fiscal year, the Commissioner shall award grants under this section to such eligible agencies for such fiscal year from the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
+&emsp;Unless the director of a designated State unit awards grants under section 796f–2 of this title to eligible agencies in a State for a fiscal year, the Administrator shall award grants under this section to such eligible agencies for such fiscal year from the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
 
 #### (2) Grants
 
-&emsp;The Commissioner shall award such grants, from the amount of funds so allotted, to such eligible agencies for the planning, conduct, administration, and evaluation of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title.
+&emsp;The Administrator shall award such grants, from the amount of funds so allotted, to such eligible agencies for the planning, conduct, administration, and evaluation of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (b) Eligible agencies
 
-In any State in which the Commissioner has approved the State plan required by section 796c of this title, the Commissioner may make a grant under this section to any eligible agency that—
+In any State in which the Administrator has approved the State plan required by section 796c of this title, the Administrator may make a grant under this section to any eligible agency that—
 
 &emsp;(1) has the power and authority to carry out the purpose of this subpart and perform the functions set forth in section 796f–4 of this title within a community and to receive and administer funds under this subpart, funds and contributions from private or public sources that may be used in support of a center for independent living, and funds from other public and private programs;
 
-&emsp;(2) is determined by the Commissioner to be able to plan, conduct, administer, and evaluate a center for independent living consistent with the standards and assurances set forth in section 796f–4 of this title; and
+&emsp;(2) is determined by the Administrator to be able to plan, conduct, administer, and evaluate a center for independent living consistent with the standards and assurances set forth in section 796f–4 of this title; and
 
-&emsp;(3) submits an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require.
+&emsp;(3) submits an application to the Administrator at such time, in such manner, and containing such information as the Administrator may require.
 
 #### (c) Existing eligible agencies
 
-In the administration of the provisions of this section, the Commissioner shall award grants to any eligible agency that has been awarded a grant under this subpart by September 30, 1997, unless the Commissioner makes a finding that the agency involved fails to meet program and fiscal standards and assurances set forth in section 796f–4 of this title.
+In the administration of the provisions of this section, the Administrator shall award grants for a fiscal year to any eligible agency that has been awarded a grant under this subpart for the preceding fiscal year, unless the Administrator makes a finding that the agency involved fails to meet program and fiscal standards and assurances set forth in section 796f–4 of this title.
 
 #### (d) New centers for independent living
 
 #### (1) In general
 
-&emsp;If there is no center for independent living serving a region of the State or a region is underserved, and the increase in the allotment of the State is sufficient to support an additional center for independent living in the State, the Commissioner may award a grant under this section to the most qualified applicant proposing to serve such region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.
+&emsp;If there is no center for independent living serving a region of the State or a region is underserved, and the increase in the allotment of the State is sufficient to support an additional center for independent living in the State, theAdministrator may award a grant under this section to the most qualified applicant proposing to serve such region. The Administrator's determination of the most qualified applicant shall be consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.
 
 #### (2) Selection
 
-&emsp;In selecting from among applicants for a grant under this section for a new center for independent living, the Commissioner—
+&emsp;In selecting from among applicants for a grant under this section for a new center for independent living, the Administrator—
 
-&emsp;&emsp;(A) shall consider comments regarding the application, if any, by the Statewide Independent Living Council in the State in which the applicant is located;
+&emsp;&emsp;(A) shall consider comments regarding the application—
+
+&emsp;&emsp;&emsp;(i) by individuals with disabilities and other interested parties within the new region proposed to be served; and
+
+&emsp;&emsp;&emsp;(ii) if any, by the Statewide Independent Living Council in the State in which the applicant is located;
 
 &emsp;&emsp;(B) shall consider the ability of each such applicant to operate a center for independent living based on—
 
@@ -60,13 +64,13 @@ In the administration of the provisions of this section, the Commissioner shall 
 
 #### (e) Order of priorities
 
-The Commissioner shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
+The Administrator shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
-&emsp;(1) The Commissioner shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
+&emsp;(1) The Administrator shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
 
-&emsp;(2) The Commissioner shall provide for a cost-of-living increase for such existing centers for independent living.
+&emsp;(2) The Administrator shall provide for a cost-of-living increase for such existing centers for independent living.
 
-&emsp;(3) The Commissioner shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title.
+&emsp;(3) The Administrator shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (f) Nonresidential agencies
 
@@ -76,21 +80,31 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 #### (1) In general
 
-&emsp;The Commissioner shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances set forth in section 796f–4 of this title. If the Commissioner determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title, the Commissioner shall immediately notify such center that it is out of compliance.
+&emsp;The Administrator shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances set forth in section 796f–4 of this title. If the Administrator determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title, the Administrator shall immediately notify such center that it is out of compliance.
 
 #### (2) Enforcement
 
-&emsp;The Commissioner shall terminate all funds under this section to such center 90 days after the date of such notification unless the center submits a plan to achieve compliance within 90 days of such notification and such plan is approved by the Commissioner.
+&emsp;The Administrator shall terminate all funds under this section to such center 90 days after the date of such notification unless the center submits a plan to achieve compliance within 90 days of such notification and such plan is approved by the Administrator.
 
-(Pub. L. 93–112, title VII, §722, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1229.)
-
-#### References in Text
-
-This subpart, referred to in subsec. (c), means subpart 3 (§796f et seq.) of part A of this subchapter, prior to the general amendment of this subchapter by Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1217.
+(Pub. L. 93–112, title VII, §722, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1229; amended Pub. L. 113–128, title IV, §482(a), July 22, 2014, 128 Stat. 1692.)
 
 #### Prior Provisions
 
 A prior section 796f–1, Pub. L. 93–112, title VII, §722, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4456; amended Pub. L. 103–73, title I, §114(i), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which Federal funding exceeds State funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
+
+#### Amendments
+
+<b>2014</b>—Subsecs. (a), (b). Pub. L. 113–128, §482(a)(1), substituted "Administrator" for "Commissioner" wherever appearing.
+
+Subsec. (c). Pub. L. 113–128, §482(a)(1), (2), substituted "Administrator" for "Commissioner" in two places, "grants for a fiscal year" for "grants", and "for the preceding fiscal year" for "by September 30, 1997".
+
+Subsec. (d)(1). Pub. L. 113–128, §482(a)(3)(A), substituted "Administrator" for "Commissioner" and "region. The Administrator's determination of the most qualified applicant shall be consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living." for "region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living."
+
+Subsec. (d)(2). Pub. L. 113–128, §482(a)(3)(B)(i), substituted "Administrator" for "Commissioner" in introductory provisions.
+
+Subsec. (d)(2)(A). Pub. L. 113–128, §482(a)(3)(B)(ii), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "shall consider comments regarding the application, if any, by the Statewide Independent Living Council in the State in which the applicant is located;".
+
+Subsecs. (e), (g). Pub. L. 113–128, §482(a)(4), which directed substitution of "Administrator." for "Commissioner" wherever appearing, was executed by substituting "Administrator" for "Commissioner" wherever appearing, to reflect the probable intent of Congress.
 
 #### Grants to Centers for Independent Living in States in Which Federal Funding Exceeds State Funding
 

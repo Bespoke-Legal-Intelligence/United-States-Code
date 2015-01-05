@@ -26,13 +26,14 @@
 | [1266\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001266%20-%20Hudson%20River%20reclamation%20demonstration%20project.md) | Hudson River reclamation demonstration project. |
 | [1267\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001267%20-%20Chesapeake%20Bay.md) | Chesapeake Bay. |
 | [1268\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001268%20-%20Great%20Lakes.md) | Great Lakes. |
+| [1268a.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001268a%20-%20Great%20Lakes%20restoration%20activities%20report.md) | Great Lakes restoration activities report. |
 | [1269\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001269%20-%20Long%20Island%20Sound.md) | Long Island Sound. |
 | [1270\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001270%20-%20Lake%20Champlain%20Basin%20Program.md) | Lake Champlain Basin Program. |
 | [1271\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001271%20-%20Sediment%20survey%20and%20monitoring.md) | Sediment survey and monitoring. |
 | [1271a.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001271a%20-%20Research%20and%20development%20program.md) | Research and development program. |
 | [1272\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001272%20-%20Environmental%20dredging.md) | Environmental dredging. |
 | [1273\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001273%20-%20Lake%20Pontchartrain%20Basin.md) | Lake Pontchartrain Basin. |
-| [1274\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001274%20-%20Wet%20weather%20watershed%20pilot%20projects.md) | Wet weather watershed pilot projects. |
+| [1274\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001274%20-%20Watershed%20pilot%20projects.md) | Watershed pilot projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -147,6 +148,7 @@
 | [1385\.](Subchapter%20006%20%28VI%29%20-%20State%20Water%20Pollution%20Control%20Revolving%20Funds/%C2%A7%2001385%20-%20Corrective%20action.md) | Corrective action. |
 | [1386\.](Subchapter%20006%20%28VI%29%20-%20State%20Water%20Pollution%20Control%20Revolving%20Funds/%C2%A7%2001386%20-%20Audits%2C%20reports%2C%20and%20fiscal%20controls%3B%20intended%20use%20plan.md) | Audits, reports, and fiscal controls; intended use plan. |
 | [1387\.](Subchapter%20006%20%28VI%29%20-%20State%20Water%20Pollution%20Control%20Revolving%20Funds/%C2%A7%2001387%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1388\.](Subchapter%20006%20%28VI%29%20-%20State%20Water%20Pollution%20Control%20Revolving%20Funds/%C2%A7%2001388%20-%20Requirements.md) | Requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

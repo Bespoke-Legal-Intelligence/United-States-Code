@@ -36,7 +36,7 @@
 
 #### (B) Additional identifications
 
-&emsp;&emsp;At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing or illegal, unreported, or unregulated fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall—
+&emsp;&emsp;At any time after January 10, 1993, whenever the Secretary of Commerce has reasonto believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing or illegal, unreported, or unregulated fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall—
 
 &emsp;&emsp;&emsp;(i) identify that nation; and
 
@@ -114,7 +114,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) The United Nations, via General Assembly Resolutions numbered 44–225, 45–197, and most recently 46–215 (adopted on December 20, 1991), has called for a worldwide moratorium on all high seas driftnet fishing by December 31, 1992, in all the world's oceans, including enclosed seas and semi-enclosed seas.
 
-&emsp;"(5) The United Nations has commended the unilateral, regional, and international efforts undertaken by members of the international community and international organizations to implement and support the objectives of the General Assembly resolutions.
+&emsp;"(5) The United Nations has commended the unilateral, regional, and international efforts undertakenby members of the international community and international organizations to implement and support the objectives of the General Assembly resolutions.
 
 &emsp;"(6) Operative paragraph (4) of United Nations General Assembly Resolution numbered 46–215 specifically 'encourages all members of the international community to take measures individually and collectively to prevent large-scale pelagic driftnet fishing operations on the high seas of the world's oceans and seas'.
 

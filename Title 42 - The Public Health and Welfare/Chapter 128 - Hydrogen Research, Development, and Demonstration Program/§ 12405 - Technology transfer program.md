@@ -20,7 +20,7 @@ The Secretary, in carrying out the program authorized by subsection (a) of this 
 
 &emsp;&emsp;(D) expression of industrial needs to research organizations.
 
-> The information exchange program may consist of workshops, publications, conferences, and a data base for the use by the public and private sectors. The Secretary shall also foster the exchange of generic, nonproprietary information and technology, developed pursuant to this chapter, among industry, academia, and the Federal Government, to help the United States economy attain the economic benefits of this information and technology.
+> The information exchange program may consist of workshops, publications, conferences, and adata base for the use by the public and private sectors. The Secretary shall also foster the exchange of generic, nonproprietary information and technology, developed pursuant to this chapter, among industry, academia, and the Federal Government, to help the United States economy attain the economic benefits of this information and technology.
 
 (Pub. L. 101–566, §106, Nov. 15, 1990, 104 Stat. 2799; Pub. L. 104–271, title I, §105, Oct. 9, 1996, 110 Stat. 3306.)
 

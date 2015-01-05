@@ -16,13 +16,13 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–162 designated existing provisions as subsec. (a), substituted “Secretary of Homeland Security” for “Attorney General”, inserted “(subject to subsection (b) of this section)” after “except” in introductory provisions, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–162 designated existing provisions as subsec. (a), substituted "Secretary of Homeland Security" for "Attorney General", inserted "(subject to subsection (b) of this section)" after "except" in introductory provisions, and added subsec. (b).
 
-<b>1996</b>—Pub. L. 104–208, §301(b)(2), in introductory provisions, inserted “and who is not inadmissible under section 1182(a)(9)(B)(i) of this title (or whose inadmissibility under such section is waived under section 1182(a)(9)(B)(v) of this title)” after “maintain that status”.
+<b>1996</b>—Pub. L. 104–208, §301(b)(2), in introductory provisions, inserted "and who is not inadmissible under section 1182(a)(9)(B)(i) of this title (or whose inadmissibility under such section is waived under section 1182(a)(9)(B)(v) of this title)" after "maintain that status".
 
 Par. (1). Pub. L. 104–208, §671(a)(2), made technical amendment to directory language of Pub. L. 103–322, §130003(b)(3). See 1994 Amendment note below.
 
-<b>1994</b>—Par. (1). Pub. L. 103–322, §130003(b)(3), as amended by Pub. L. 104–208, §671(a)(2), substituted “(K), or (S)” for “or (K)”.
+<b>1994</b>—Par. (1). Pub. L. 103–322, §130003(b)(3), as amended by Pub. L. 104–208, §671(a)(2), substituted "(K), or (S)" for "or (K)".
 
 <b>1986</b>—Par. (4). Pub. L. 99–603 added par. (4).
 

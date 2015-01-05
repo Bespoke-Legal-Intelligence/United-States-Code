@@ -60,7 +60,7 @@ Subsec. (m). Pub. L. 92–576, §5(e), repealed subsec. (m) limiting aggregate m
 
 <b>1961</b>—Subsec. (m). Pub. L. 87–87 increased limitation on total money allowance as compensation for injury from "$17,280" to "$24,000".
 
-<b>1956</b>—Subsec. (m). Act July 26, 1956, provided for maximum money allowance of $17,280 in lieu of total compensation of $11,000, struck out additional former limit of $10,000 for disabilities compensable under section 908(c)(21) of this title, and inserted provision excepting from $17,280 limitation, amounts payable under section 908(g) of this title for maintenance during rehabilitation, and amounts payable under this section for delay or default in payment of compensation or interest collectible under section 918 of this title.
+<b>1956</b>—Subsec. (m). Act July 26, 1956, provided for maximum money allowance of $17,280 in lieu of total compensation of $11,000, struck out additional former limit of $10,000 for disabilities compensable under section908(c)(21) of this title, and inserted provision excepting from $17,280 limitation, amounts payable under section 908(g) of this title for maintenance during rehabilitation, and amounts payable under this section for delay or default in payment of compensation or interest collectible under section 918 of this title.
 
 <b>1948</b>—Subsec. (m). Act June 24, 1948, increased overall statutory maximum limitation upon compensation for disability from $7,500 to $11,000, and fixed a sublimitation of $10,000 upon that particular compensation for permanent partial disability which is payable when the case is classified as one in which compensation shall be payable under section 908(c)(21) of this title, but neither limitation shall apply for permanent total disability or death.
 

@@ -66,7 +66,7 @@ Notwithstanding any power granted to any Federal agency under this subchapter, t
 
 #### (i) Authority of the Board to prescribe rules
 
-Notwithstanding subsection (a), the Board shall have authority to prescribe rules under this subchapter with respect to a person described in section 5519(a) of title 12. Regulations prescribed under this subsection may contain such classifications, differentiations, or other provisions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
+Notwithstanding subsection (a), the Board shall have authority to prescribe rules under this subchapter with respect to a person described in section 5519(a) of title 12. Regulations prescribed under this subsection may contain such classifications, differentiations, or otherprovisions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
 (Pub. L. 90–321, title I, §105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, §605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, §152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 104–208, div. A, title II, §§2102(b), 2104, Sept. 30, 1996, 110 Stat. 3009–399, 3009–401; Pub. L. 111–203, title X, §1100A(2), (4)–(7), title XIV, §1472(c), July 21, 2010, 124 Stat. 2107, 2108, 2190.)
 
@@ -78,7 +78,7 @@ The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), i
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100A(2), (4), substituted "Bureau" for "Board" in two places, substituted "Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations maycontain such additional requirements,"for "Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such", and inserted "all or" after "exceptions for".
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100A(2), (4), substituted "Bureau" for "Board" in two places, substituted "Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations may contain such additional requirements,"for "Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such", and inserted "all or" after "exceptions for".
 
 Subsec. (b). Pub. L. 111–203, §1100A(2), (5), substituted "Bureau" for "Board" wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: "The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures."
 

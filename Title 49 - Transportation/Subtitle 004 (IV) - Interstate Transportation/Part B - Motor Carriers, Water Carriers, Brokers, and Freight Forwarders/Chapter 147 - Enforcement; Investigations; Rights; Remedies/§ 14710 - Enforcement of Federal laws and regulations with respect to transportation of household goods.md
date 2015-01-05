@@ -32,7 +32,7 @@ Pub. L. 109–115, div. A, title I, §173(e), Nov. 30, 2005, 119 Stat. 2426, pro
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National andCommercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Working Group for Development of Practices and Procedures To Enhance Federal-State Relations
 

@@ -28,7 +28,7 @@
 
 #### (b) Functions
 
-The Council shall advise, consult with, and make recommendations to the Secretary, through the Coast Guard Commandant, on matters relating to maritime collisions, rammings, groundings, Inland Rules of the Road, International Rules of the Road, navigation regulations and equipment, routing measures, marine information, diving safety, and aids to navigation systems. Any advice and recommendations made by the Council to the Secretary shall reflect the independent judgment of the Council on the matter concerned. The Council shall meet at the call of the Coast Guard Commandant, but in any event not less than twice during each calendar year. All proceedings of the Council shall be public, and a record of the proceedings shall be made available for public inspection.
+The Council shall advise, consult with, and make recommendations to the Secretary, through the Coast Guard Commandant, on matters relating to maritime collisions, rammings, groundings, Inland Rules of the Road, International Rules of the Road, navigation regulations and equipment, routing measures, marine information, diving safety, and aids to navigation systems. Any advice and recommendations made by the Council to the Secretary shall reflect the independent judgment of the Councilon the matter concerned. The Council shall meet at the call of the Coast Guard Commandant, but in any event not less than twice during each calendar year. All proceedings of the Council shall be public, and a record of the proceedings shall be made available for public inspection.
 
 #### (c) Executive secretary; staff; travel expenses and status of members
 

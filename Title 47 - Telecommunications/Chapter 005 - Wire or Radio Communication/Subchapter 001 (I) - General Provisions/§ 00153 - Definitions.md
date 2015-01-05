@@ -412,6 +412,16 @@ The United States was a party to the International Convention for the Safety of 
 
 #### Definitions
 
+Pub. L. 113–200, title I, §112, Dec. 4, 2014, 128 Stat. 2066, provided that: "In this title \[amending sections 325, 338, 534, and 543 of this title and enacting provisions set out as notes under sections 325, 338, and 534 of this title\]:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on the Judiciary of the Senate.
+
+&emsp;"(2)
+
+Commission.—The term 'Commission' means the Federal Communications Commission."
+
 Pub. L. 111–260, title II, §206, Oct. 8, 2010, 124 Stat. 2776, provided that: "In this title \[amending sections 303, 330, and 613 of this title and enacting provisions set out as notes under sections 303 and 613 of this title\]:
 
 &emsp;"(1)

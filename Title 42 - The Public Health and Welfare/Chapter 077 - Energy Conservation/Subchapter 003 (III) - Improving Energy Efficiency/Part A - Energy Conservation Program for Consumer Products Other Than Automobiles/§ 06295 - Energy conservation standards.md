@@ -758,23 +758,14 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 (1)(A) Except as provided in subparagraph (B), the maximum water use allowed in gallons per flush for any of the following water closets manufactured after January 1, 1994, is the following:
 
-&emsp;&emsp;Gravity tank-type toilets
+&nbsp;
 
-1\.6 gpf.
-
-&emsp;&emsp;Flushometer tank toilets
-
-1\.6 gpf.
-
-&emsp;&emsp;Electromechanical hydraulic toilets
-
-1\.6 gpf.
-
-&emsp;&emsp;Blowout toilets
-
-3\.5 gpf.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| Gravity tank-type toilets | 1\.6 gpf. |
+| Flushometer tank toilets | 1\.6 gpf. |
+| Electromechanical hydraulic toilets | 1\.6 gpf. |
+| Blowout toilets | 3\.5 gpf. |
 
 (B) The maximum water use allowed for any gravity tank-type white 2-piece toilet which bears an adhesive label conspicuous upon installation consisting of the words "Commercial Use Only" manufactured after January 1, 1994, and before January 1, 1997, is 3.5 gallons per flush.
 
@@ -1510,6 +1501,62 @@ Administration.—In carrying out this subparagraph, the Secretary shall—
 
 End-use products.—An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
 
+(5)
+
+Exempt supplies.—
+
+&emsp;(A)
+
+February 10, 2014, rule.—
+
+&emsp;&emsp;(i)
+
+In general.—An external power supply shall not be subject to the final rule entitled "Energy Conservation Program: Energy Conservation Standards for External Power Supplies", published at 79 Fed. Reg. 7845 (February 10, 2014), if the external power supply—
+
+&emsp;&emsp;&emsp;(I) is manufactured during the period beginning on February 10, 2016, and ending on February 10, 2020;
+
+&emsp;&emsp;&emsp;(II) is marked in accordance with the External Power Supply International Efficiency Marking Protocol, as in effect on February 10, 2016;
+
+&emsp;&emsp;&emsp;(III) meets, where applicable, the standards under paragraph (3)(A), and has been certified to the Secretary as meeting International Efficiency Level IV or higher of the External Power Supply International Efficiency Marking Protocol, as in effect on February 10, 2016; and
+
+&emsp;&emsp;&emsp;(IV) is made available by the manufacturer as a service part or a spare part for an end-use product that—
+
+&emsp;&emsp;&emsp;&emsp;(aa) constitutes the primary load; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) was manufactured before February 10, 2016.
+
+&emsp;&emsp;(ii)
+
+Reporting.—The Secretary may require manufacturers of products exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that fall below International Efficiency Level VI.
+
+&emsp;&emsp;(iii)
+
+Limitation of exemption.—The Secretary may issue a rule, after providing public notice and opportunity for public comment, to limit the applicability of the exemption established under clause (i) if the Secretary determines that the exemption is resulting in a significant reduction of the energy savings that would otherwise result from the final rule described in such clause.
+
+&emsp;(B)
+
+Amended standards.—
+
+&emsp;&emsp;(i)
+
+In general.—The Secretary may exempt an external power supply from any amended standard under this subsection if the external power supply—
+
+&emsp;&emsp;&emsp;(I) is manufactured within four years of the compliance date of the amended standard;
+
+&emsp;&emsp;&emsp;(II) complies with applicable marking requirements adopted by the Secretary prior to the amendment;
+
+&emsp;&emsp;&emsp;(III) meets the standards that were in effect prior to the amendment; and
+
+&emsp;&emsp;&emsp;(IV) is made available by the manufacturer as a service part or a spare part for an end-use product that—
+
+&emsp;&emsp;&emsp;&emsp;(aa) constitutes the primary load; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) was manufactured before the compliance date of the amended standard.
+
+&emsp;&emsp;(ii)
+
+Reporting.—The Secretary may require manufacturers of a product exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that do not meet the amended standard.
+
 #### (v) Refrigerated beverage vending machines
 
 (1) Not later than 4 years after August 8, 2005, the Secretary shall prescribe, by rule, energy conservation standards for refrigerated bottle or canned beverage vending machines.
@@ -1576,43 +1623,15 @@ A unit heater manufactured on or after the date that is 3 years after August 8, 
 
 (1) Dehumidifiers manufactured on or after October 1, 2007, shall have an Energy Factor that meets or exceeds the following values:
 
-<b>Product Capacity (pints/day):</b>
-
-<b>Minimum</b>
-
 &nbsp;
 
-<b>Energy</b>
-
-&nbsp;
-
-<b>Factor</b>
-
-&nbsp;
-
-<b>(Liters/kWh)</b>
-
-&nbsp;&nbsp;25.00 or less
-
-1\.00&nbsp;&nbsp;
-
-&nbsp;&nbsp;25.01 – 35.00
-
-1\.20&nbsp;&nbsp;
-
-&nbsp;&nbsp;35.01 – 54.00
-
-1\.30&nbsp;&nbsp;
-
-&nbsp;&nbsp;54.01 – 74.99
-
-1\.50&nbsp;&nbsp;
-
-&nbsp;&nbsp;75.00 or more
-
-2\.25.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>   Product Capacity (pints/day):</b> | <b>Minimum Energy Factor (Liters/kWh)</b> |
+| :--- | ---: |
+| 25\.00 or less | 1\.00&nbsp;&nbsp; |
+| 25\.01 – 35.00 | 1\.20&nbsp;&nbsp; |
+| 35\.01 – 54.00 | 1\.30&nbsp;&nbsp; |
+| 54\.01 – 74.99 | 1\.50&nbsp;&nbsp; |
+| 75\.00 or more | 2\.25. |
 
 (2)
 
@@ -1622,11 +1641,11 @@ Dehumidifiers manufactured on or after october 1, 2012.—Dehumidifiers manufact
 
 | <b>   Product Capacity (pints/day):</b> | <b>Minimum Energy Factor (liters/kWh)</b> |
 | :--- | ---: |
-| Up to 35.00 | 1\.35&nbsp;&nbsp; |
-| 35\.01–45.00 | 1\.50&nbsp;&nbsp; |
-| 45\.01–54.00 | 1\.60&nbsp;&nbsp; |
-| 54\.01–75.00 | 1\.70&nbsp;&nbsp; |
-| Greater than 75.00 | 2\.5.&nbsp;&nbsp;&nbsp; |
+| Up to 35.00 | 1\.35&nbsp;&nbsp;&nbsp; |
+| 35\.01–45.00 | 1\.50&nbsp;&nbsp;&nbsp; |
+| 45\.01–54.00 | 1\.60&nbsp;&nbsp;&nbsp; |
+| 54\.01–75.00 | 1\.70&nbsp;&nbsp;&nbsp; |
+| Greater than 75.00 | 2\.5. |
 
 #### (dd) Commercial prerinse spray valves
 
@@ -1856,7 +1875,7 @@ Section 6297 of this title applies—
 
 &emsp;(2) to products for which energy conservation standards are established under subsections (w) through (hh) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) of this section take effect.
 
-(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat. 628; Pub. L. 110–140, title III, §§301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, 121 Stat. 1550, 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; Pub. L. 111–360, §1, Jan. 4, 2011, 124 Stat. 4051; Pub. L. 112–210, §§3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, 126 Stat. 1514, 1517, 1519, 1522, 1524, 1525.)
+(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat. 628; Pub. L. 110–140, title III, §§301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, 121 Stat. 1550, 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; Pub. L. 111–360, §1, Jan. 4, 2011, 124 Stat. 4051; Pub. L. 112–210, §§3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, 126 Stat. 1514, 1517, 1519, 1522, 1524, 1525; Pub. L. 113–263, §2, Dec. 18, 2014, 128 Stat. 2937.)
 
 #### References in Text
 
@@ -1869,6 +1888,8 @@ Paragraph (19) of section 6292(a) of this title, referred to in subsec. (l)(1), 
 Subsection (i), referred to in subsec. (l)(4)(F)(ii)(I), was amended by Pub. L. 110–140, title III, §322(b), Dec. 19, 2007, 121 Stat. 1588, by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (u)(5). Pub. L. 113–263 added par. (5).
 
 <b>2012</b>—Subsec. (d)(4). Pub. L. 112–210, §5(a), added par. (4).
 
@@ -2046,7 +2067,7 @@ Subsec. (d). Pub. L. 95–619 substituted provisions relating to a determination
 
 Subsecs. (e) to (j). Pub. L. 95–619 added subsecs. (e) to (j).
 
-<b>1976</b>—Subsec. (a)(1)(A). Pub. L. 94–385, §161(a), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted 90 days after August 14, 1976, for 180 daysafter December 22, 1975, for the promulgation of rules by the Administrator.
+<b>1976</b>—Subsec. (a)(1)(A). Pub. L. 94–385, §161(a), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted 90 days after August 14, 1976, for 180 days after December 22, 1975, for the promulgation of rules by the Administrator.
 
 Subsec. (a)(2). Pub. L. 94–385, §161(b), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted one year after August 14, 1976, for one year after December 22, 1975, for the promulgation of rules by the Administrator.
 

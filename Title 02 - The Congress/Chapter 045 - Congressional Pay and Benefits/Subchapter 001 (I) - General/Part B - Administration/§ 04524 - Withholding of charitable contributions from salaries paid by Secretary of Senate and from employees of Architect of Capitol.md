@@ -4,9 +4,9 @@
 
 For purposes of this section, the term—
 
-&emsp;(1) “Secretary” means the Secretary of the Senate; and
+&emsp;(1) "Secretary" means the Secretary of the Senate; and
 
-&emsp;(2) “Architect” means the Architect of the Capitol.
+&emsp;(2) "Architect" means the Architect of the Capitol.
 
 #### (b) Notice; deduction and transmission
 
@@ -42,7 +42,7 @@ This section imposes no duty, burden, or requirement upon the United States, the
 
 #### (f) Rules and regulations
 
-The Secretary and the Architect are authorized to issue rules and regulations they considerappropriate in carrying out their duties under this section.
+The Secretary and the Architect are authorized to issue rules and regulations they consider appropriate in carrying out their duties under this section.
 
 (Pub. L. 95–470, Oct. 17, 1978, 92 Stat. 1323; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
@@ -58,5 +58,5 @@ Section was formerly classified to section 60c–4 of this title prior to editor
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Chairman of the Civil Service Commission” in subsec. (b)(1) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Chairman of the Civil Service Commission" in subsec. (b)(1) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

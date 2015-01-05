@@ -16,17 +16,17 @@
 
 #### (3) Ruling
 
-&emsp;After the hearing, the Secretary shall make a ruling on the petition. The ruling shall be final, subject to review as set forth in subsection (b) of this section.
+&emsp;After the hearing, the Secretary shall make a ruling on the petition. The ruling shall be final, subject to review as set forth in subsection (b).
 
 #### (4) Limitation on petition
 
-&emsp;Any petition filed under this subsection challenging an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed within 2 years after the effective date of the order, provision, or obligation subject to challenge in the petition.
+&emsp;Any petition filed under this subsection challenging an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed within 2 yearsafter the effective date of the order, provision, or obligation subject to challenge in the petition.
 
 #### (b) Review
 
 #### (1) Commencement of action
 
-&emsp;The district court of the United States for any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review the final ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date of the entry of the final ruling by the Secretary under subsection (a)(3) of this section.
+&emsp;The district court of the United States for any district in which a person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review the final ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date of the entry of the final ruling by the Secretary under subsection (a)(3).
 
 #### (2) Process
 
@@ -42,7 +42,7 @@
 
 #### (c) Effect on enforcement proceedings
 
-The pendency of a petition filed under subsection (a) of this section or an action commenced under subsection (b) of this section shall not operate as a stay of any action authorized by section 7419 of this title to be taken to enforce this subchapter, including any rule, order, or penalty in effect under this subchapter.
+The pendency of a petition filed under subsection (a) or an action commenced under subsection (b) shall not operate as a stay of any action authorized by section 7419 of this title to be taken to enforce this subchapter, including any rule, order, or penalty in effect under this subchapter.
 
 (Pub. L. 104–127, title V, §519, Apr. 4, 1996, 110 Stat. 1044.)
 

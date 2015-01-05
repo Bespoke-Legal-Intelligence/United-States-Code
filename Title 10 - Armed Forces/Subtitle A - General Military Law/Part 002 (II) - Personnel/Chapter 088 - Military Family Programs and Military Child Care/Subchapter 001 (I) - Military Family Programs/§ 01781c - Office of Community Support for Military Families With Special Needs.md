@@ -108,7 +108,7 @@ Military Family With Special Needs.—For purposes of this section, a military f
 
 <b>2011</b>—Subsec. (c). Pub. L. 111–383, §582(a), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
-"(1) The head of the Office shall be the Director of the Office of Community Support for Military FamiliesWith Special Needs, who shall be appointed by the Secretary of Defense from among civilian employees of the Department of Defense who are members of the Senior Executive Service or members of the armed forces in a general or flag grade.
+"(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be appointed by the Secretary of Defense from among civilian employees of the Department of Defense who are members of the Senior Executive Service or members of the armed forces in a general or flag grade.
 
 "(2) The Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness in the discharge of the responsibilities of the Office, and shall report directly to the Under Secretary regarding the discharge of such responsibilities."
 

@@ -46,7 +46,7 @@ The Secretary may by regulations require any individual who receives allowances 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall require than <sup>1</sup> any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
+&emsp;&emsp;The Secretary shall require that any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
 
 &emsp;&emsp;&emsp;(i) such return is filed by such tax return preparer, and
 
@@ -82,13 +82,15 @@ Any taxable party to a prohibited tax shelter transaction (as defined in section
 
 &emsp;&emsp;<b>For requirement that returns of income, estate, and gift taxes be made whether or not there is tax liability, see subparts B and C.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §522(a), Mar. 18, 2010, 124 Stat. 112.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §522(a), Mar. 18, 2010, 124 Stat. 112; Pub. L. 113–295, div. A, title II, §220(t), Dec. 19, 2014, 128 Stat. 4036.)
 
 #### References in Text
 
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(1), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(3)(A). Pub. L. 113–295 substituted "shall require that" for "shall require than" in introductory provisions.
 
 <b>2010</b>—Subsec. (e)(4). Pub. L. 111–147 added par. (4).
 
@@ -188,7 +190,7 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–128, §4(i)(4), Nov. 26, 1969, 83 Stat. 269, provided that: "The amendments made by this section\[amending this section and sections 4912, 4914, 4915, 4919, 4920, and 6680 of this title\] shall apply with respect to acquisitions of debt obligations made after the date of the enactment of this Act \[Nov. 26, 1969\]."
+Pub. L. 91–128, §4(i)(4), Nov. 26, 1969, 83 Stat. 269, provided that: "The amendments made by this section \[amending this section and sections 4912, 4914, 4915, 4919, 4920, and 6680 of this title\] shall apply with respect to acquisitions of debt obligations made after the date of the enactment of this Act \[Nov. 26, 1969\]."
 
 #### Effective Date of 1967 Amendment
 
@@ -230,7 +232,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Electronic commerce advisory group.—To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretary shall convene an electronic commerce advisory group to include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry.
+Electronic commerce advisory group.—To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretary shall convene an electronic commerce advisory groupto include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry.
 
 "(d)
 
@@ -267,6 +269,4 @@ Pub. L. 95–600, title V, §551, Nov. 6, 1978, 92 Stat. 2890, required a study 
 Pub. L. 89–243, §3(d)(1), Oct. 9, 1965, 79 Stat. 955, provided that the first period for which returns were to be made under subsec. (d)(1) of this section with respect to acquisitions made subject to tax by this section was the period commencing Feb. 11, 1965, and ending at the close of the calendar quarter in which the enactment of Pub. L. 89–243 \[Oct. 9, 1965\] occurred.
 
 Pub. L. 88–563, §3(e), Sept. 2, 1964, 78 Stat. 845, provided that the first period for which returns were to be made under subsec. (d)(1) of this section was the period commencing July 19, 1963, and ending at the close of the calendar quarter in which the enactment of Pub. L. 88–563 \[Sept. 2, 1964\] occurred.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "that".</i>
 

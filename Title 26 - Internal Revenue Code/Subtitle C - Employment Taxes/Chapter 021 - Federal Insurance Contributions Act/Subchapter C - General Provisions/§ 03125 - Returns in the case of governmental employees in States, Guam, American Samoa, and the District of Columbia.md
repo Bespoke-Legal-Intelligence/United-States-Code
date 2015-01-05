@@ -2,11 +2,11 @@
 
 #### (a) States
 
-Except as otherwise provided in this section, in the case of the taxes imposed by sections 3101(b) and 3111(b) with respect to service performed in the employ of a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby), the return and payment of such taxes may be made by the head of the agency or instrumentality having the control of such service, or by such agents as such head may designate. The person making such return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
+Except as otherwise provided in this section, in the case of the taxes imposed by sections 3101(b) and 3111(b) with respect to service performed in the employ of a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby), the return and payment of such taxes may be made by the head of the agency or instrumentality having the control of such service, or by such agents as such head may designate. The person making such return may, for convenience of administration, make paymentsof the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
 
 #### (b) Guam
 
-The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of Guam or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of Guam or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed undersection 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
+The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of Guam or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of Guam or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
 
 #### (c) American Samoa
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 92–5 applicable only with respect to remuneration paid af
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–248 applicable only with respect to remuneration paid after December 1967, seesection 108(c) of Pub. L. 90–248, set out as a note under section 409 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 90–248 applicable only with respect to remuneration paid after December 1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1965 Amendment
 

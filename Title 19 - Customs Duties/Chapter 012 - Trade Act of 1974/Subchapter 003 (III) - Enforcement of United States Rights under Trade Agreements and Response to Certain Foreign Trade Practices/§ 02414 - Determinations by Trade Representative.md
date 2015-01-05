@@ -56,7 +56,7 @@
 
 The Trade Representative shall publish in the Federal Register any determination made under subsection (a)(1) of this section, together with a description of the facts on which such determination is based.
 
-(Pub. L. 93–618, title III, §304, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 297; amended Pub. L. 98–573, title III, §§304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, 98 Stat. 3005, 3012; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1170; Pub. L. 103–465, title III, §314(d), Dec. 8, 1994, 108 Stat. 4940; Pub. L. 104–295, §20(c)(6), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–429, title II, §2201(a), (b), Dec. 3, 2004, 118 Stat. 2598, 2599.)
+(Pub. L. 93–618, title III, §304, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 297; amended Pub. L. 98–573, title III, §§304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, 98 Stat. 3005, 3012; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102Stat. 1170; Pub. L. 103–465, title III, §314(d), Dec. 8, 1994, 108 Stat. 4940; Pub. L. 104–295, §20(c)(6), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–429, title II, §2201(a), (b), Dec. 3, 2004, 118 Stat. 2598, 2599.)
 
 #### Amendments
 

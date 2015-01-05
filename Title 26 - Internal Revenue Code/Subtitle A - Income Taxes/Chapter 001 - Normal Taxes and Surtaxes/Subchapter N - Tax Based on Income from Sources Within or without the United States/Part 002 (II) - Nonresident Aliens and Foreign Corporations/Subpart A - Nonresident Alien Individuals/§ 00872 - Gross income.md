@@ -26,7 +26,7 @@ The following items shall not be included in gross income of a nonresident alien
 
 &emsp;&emsp;(A) a nonresident alien individual, foreign partnership, or foreign corporation, or
 
-&emsp;&emsp;(B) an office or place of business maintained in a foreign country or in a possession of the United States by a domestic corporation, a domestic partnership, or an individual who is a citizen or resident of the United States.
+&emsp;&emsp;(B) an office or place of business maintained in a foreign country or in a possessionof the United States by a domestic corporation, a domestic partnership, or an individual who is a citizen or resident of the United States.
 
 #### (4) Certain bond income of residents of the Ryukyu Islands or the Trust Territory of the Pacific Islands
 

@@ -22,7 +22,7 @@ In this section:
 
 #### (b) Establishment of Trail Route
 
-The Secretary, with concurrence of the agency having jurisdiction over the relevant roads, may designate a vehicular tour route, to be known asthe "Votes for Women History Trail Route", to link properties in the State that are historically and thematically associated with the struggle for women's suffrage in the United States.
+The Secretary, with concurrence of the agency having jurisdiction over the relevant roads, may designate a vehicular tour route, to be known as the "Votes for Women History Trail Route", to link properties in the State that are historically and thematically associated with the struggle for women's suffrage in the United States.
 
 #### (c) Administration
 
@@ -54,7 +54,7 @@ Subject to the consent of the owner of the property, the Secretary may designate
 
 #### (1) In general
 
-&emsp;To facilitate the establishment of the Trail and to ensure effective coordination of the Federal and non-Federal properties designated as stops along the Trail, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical and financial assistance to, other Federal agencies, the State, localities, regional governmental bodies, and private entities.
+&emsp;To facilitate the establishment of the Trail and to ensure effective coordination of the Federal and non-Federal properties designated as stops along the Trail, the Secretary mayenter into cooperative agreements and memoranda of understanding with, and provide technical and financial assistance to, other Federal agencies, the State, localities, regional governmental bodies, and private entities.
 
 #### (2) Authorization of appropriations
 

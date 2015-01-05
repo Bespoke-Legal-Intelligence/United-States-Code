@@ -40,7 +40,7 @@ A prior section 206 of Pub. L. 89–73 was renumbered section 205 and is classif
 
 #### Amendments
 
-<b>2006</b>—Subsec. (g). Pub. L. 109–365 substituted "From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts." for "The Secretary may use such sums as may be necessary, but not to exceed $3,000,000 (of which not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter III of this chapter and not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter IV of this chapter), to conduct directly evaluations under this section."
+<b>2006</b>—Subsec. (g). Pub. L. 109–365 substituted "From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts." for "The Secretary may use such sums as may be necessary, but not to exceed $3,000,000\(of which not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter III of this chapter and not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter IV of this chapter), to conduct directly evaluations under this section."
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–501, §203(1), inserted "and older individuals residing in rural areas" after "low-income minority individuals" in two places.
 

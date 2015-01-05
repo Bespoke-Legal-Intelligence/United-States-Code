@@ -1,8 +1,6 @@
 ### §140402. Purposes
 
-(a) <sup>1</sup>
-
-General.—The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
+The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
 
 &emsp;(1) to inculcate and stimulate love of the United States and the flag;
 
@@ -22,7 +20,11 @@ General.—The purposes of the corporation are as provided in its bylaws and art
 
 &emsp;(9) to encourage recruitment and appointment in the Armed Forces.
 
-(Added Pub. L. 111–95, §1(a), Nov. 6, 2009, 123 Stat. 3001.)
+(Added Pub. L. 111–95, §1(a), Nov. 6, 2009, 123 Stat. 3001; amended Pub. L. 113–237, §3(c)(4), Dec. 18, 2014, 128 Stat. 2840.)
 
-<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–237 struck out subsec. (a) designation and heading "
+
+General" before "The purposes" in introductory provisions.
 

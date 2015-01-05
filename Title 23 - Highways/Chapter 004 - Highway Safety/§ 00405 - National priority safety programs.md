@@ -518,7 +518,7 @@ Grants authorized.—Subject to the requirements under this subsection, the Secr
 
 &emsp;(2)
 
-Allocation.—The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of theamount apportioned to the State for fiscal year 2003 under section 402.
+Allocation.—The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.
 
 &emsp;(3)
 

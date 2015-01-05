@@ -38,15 +38,15 @@
 
 #### (B) Program requirements
 
-&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
+&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a), exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
 
 #### (C) Tight domestic supply
 
-&emsp;&emsp;During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a) of this section.
+&emsp;&emsp;During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a).
 
 #### (D) Season-ending United States stocks-to-use ratio
 
-&emsp;&emsp;For the purposes of making estimates under subparagraph (C), the Secretary shall,on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
+&emsp;&emsp;For the purposes of making estimates under subparagraph (C), the Secretary shall, on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
 
 #### (2) Quantity
 
@@ -58,7 +58,7 @@
 
 #### (4) Overlap
 
-&emsp;A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c) of this section.
+&emsp;A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c).
 
 #### (5) Preferential tariff treatment
 
@@ -142,7 +142,7 @@
 
 #### (2) No overlap
 
-&emsp;Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.
+&emsp;Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).
 
 (Pub. L. 104–127, title I, §136, Apr. 4, 1996, 110 Stat. 909; Pub. L. 105–86, title VII, §731, Nov. 18, 1997, 111 Stat. 2108; Pub. L. 105–277, div. A, §101(a) \[title VII, §762\], Oct. 21, 1998, 112 Stat. 2681, 2681–36; Pub. L. 106–78, title VIII, §806, Oct. 22, 1999, 113 Stat. 1179.)
 

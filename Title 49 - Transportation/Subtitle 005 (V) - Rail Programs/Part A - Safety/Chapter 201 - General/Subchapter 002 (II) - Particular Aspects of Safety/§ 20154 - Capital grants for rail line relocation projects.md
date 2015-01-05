@@ -14,7 +14,7 @@ Eligibility.—A State is eligible for a grant under this section for any constr
 
 (c)
 
-Considerations for Approval of Grant Applications.—In determining whether to award a grant to an eligible State under this section, the Secretary shall consider the following factors:
+Considerations for Approval of Grant Applications.—In determining whether toaward a grant to an eligible State under this section, the Secretary shall consider the following factors:
 
 &emsp;(1) The capability of the State to fund the rail line relocation project without Federal grant funding.
 

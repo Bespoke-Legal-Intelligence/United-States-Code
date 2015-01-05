@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) the sharing of data and information associated with Arctic research, subject to section 552 of title 5; and
 
-&emsp;(10) provide public notice of its meetings and an opportunity for the public to participate inthe development and implementation of national Arctic research policy.
+&emsp;(10) provide public notice of its meetings and an opportunity for the public to participate in the development and implementation of national Arctic research policy.
 
 (b) Not later than January 31, 1986, and biennially thereafter, the Interagency Committee shall submit to the Congress through the President, a brief, concise report containing—
 
@@ -60,7 +60,7 @@ Memorandum of President of the United States, Feb. 17, 2005, 70 F.R. 9841, provi
 
 Memorandum for the Director of the National Science Foundation
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by Public Law 98–373 (15 U.S.C. 4107(b) and 4108(a)), to provide the specified report and plan to the Congress.
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I herebydelegate to you the functions and authority conferred upon the President by Public Law 98–373 (15 U.S.C. 4107(b) and 4108(a)), to provide the specified report and plan to the Congress.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

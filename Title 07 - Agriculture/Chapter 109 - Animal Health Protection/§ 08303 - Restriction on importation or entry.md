@@ -8,13 +8,13 @@ With notice to the Secretary of the Treasury and public notice as soon as practi
 
 &emsp;(2) the further movement of any animal that has strayed into the United States if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock; and
 
-&emsp;(3) the use of any means of conveyance in connection with the importation or entry oflivestock if the Secretary determines that the prohibition or restriction is necessary because the means of conveyance has not been maintained in a clean and sanitary condition or does not have accommodations for the safe and proper movement of livestock.
+&emsp;(3) the use of any means of conveyance in connection with the importation or entry of livestock if the Secretary determines that the prohibition or restriction is necessary because the means of conveyance has not been maintained in a clean and sanitary condition or does not have accommodations for the safe and proper movement of livestock.
 
 #### (b) Regulations
 
 #### (1) Restrictions on import and entry
 
-&emsp;The Secretary may issue such orders and promulgate such regulations as are necessary to carry out subsection (a) of this section.
+&emsp;The Secretary may issue such orders and promulgate such regulations as are necessary to carry out subsection (a).
 
 #### (2) Post importation quarantine
 

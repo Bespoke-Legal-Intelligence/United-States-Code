@@ -40,7 +40,7 @@ Any person or entity convicted of a violation of subsection (a) of this section 
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–203, §209(c)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 108–203, §209(c)(1), (3), redesignated subsec. (b) as (c), struck out "(2)" before "Any person", and struck out par (1) which read as follows: "If a person or entity violates subsection (a) of this section in the person's or entity's role as, or in applying to become, a representative payee under section 1383(a)(2) of this title on behalf of another individual (other than the person's eligible spouse), and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to such other individual."
+Subsec. (c). Pub. L. 108–203, §209(c)(1), (3), redesignated subsec. (b) as (c), struck out "(2)" before "Any person", and struck out par (1) which read as follows: "If a person or entity violates subsection (a) of this section in the person's or entity's role as, or in applyingto become, a representative payee under section 1383(a)(2) of this title on behalf of another individual (other than the person's eligible spouse), and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to such other individual."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–296, §206(c)(1), inserted closing provisions and struck out former closing provisions which read as follows: "shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than one year, or both."
 

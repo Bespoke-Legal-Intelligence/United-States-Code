@@ -174,7 +174,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (d) <i>Attorney General</i>. The Attorney General shall:
 
-(i) Develop procedures to notify, to the extent possible, each claimant (or the survivor of that claimant if deceased) whose claim for compensation under section 5 of the Radiation Exposure Compensation Act\[Pub. L. 101–426, 42 U.S.C. 2210 note\] has been or is approved by the Department of Justice, of the availability of supplemental compensation and benefits under the Energy Employees Occupational Illness Compensation Program;
+(i) Develop procedures to notify, to the extent possible, each claimant (or the survivor of that claimant if deceased) whose claim for compensation under section 5 of the Radiation Exposure Compensation Act \[Pub. L. 101–426, 42 U.S.C. 2210 note\] has been or is approved by the Department of Justice, of the availability of supplemental compensation and benefits under the Energy Employees Occupational Illness Compensation Program;
 
 (ii) Identify and notify eligible covered uranium employees or their survivors of the availability of supplemental compensation under the Program; and
 

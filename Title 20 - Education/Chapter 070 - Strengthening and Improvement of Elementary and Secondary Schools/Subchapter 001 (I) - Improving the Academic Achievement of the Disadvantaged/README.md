@@ -12,6 +12,7 @@ Title I of the Elementary and Secondary Education Act of 1965, comprising this s
 - [&sect; 06301 - Statement of purpose](%C2%A7%2006301%20-%20Statement%20of%20purpose.md)
 - [&sect; 06302 - Authorization of appropriations](%C2%A7%2006302%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 06303 - School improvement](%C2%A7%2006303%20-%20School%20improvement.md)
+- [&sect; 06303a - Whole-school reform strategy](%C2%A7%2006303a%20-%20Whole-school%20reform%20strategy.md)
 - [&sect; 06304 - State administration](%C2%A7%2006304%20-%20State%20administration.md)
 - [Part A - Improving Basic Programs Operated by Local Educational Agencies](Part%20A%20-%20Improving%20Basic%20Programs%20Operated%20by%20Local%20Educational%20Agencies/README.md)
 - [Part B - Student Reading Skills Improvement Grants](Part%20B%20-%20Student%20Reading%20Skills%20Improvement%20Grants/README.md)

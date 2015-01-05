@@ -16,7 +16,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;&emsp;(ii) after the end of the last fiscal year covered by a set of goals, will perform a final review of progress toward accomplishment of the goals, and on the basis of the final review (I) will prepare, transmit to the Secretary, and make available to the public a final report on progress toward accomplishment of the goals, and (II) will develop (in consultation with the entities required to be consulted pursuant to subsection (b) of this section) and add to the plan a statement of the goals intended to be accomplished by the end of the 5th succeeding fiscal year;
 
-&emsp;(3) provides for coordination, to the extent feasible and appropriate, of the provision of services under the plan and the provision of services or benefits under other Federal or federally assisted programs serving the same populations;
+&emsp;(3) provides for coordination, to the extent feasible and appropriate, of the provision ofservices under the plan and the provision of services or benefits under other Federal or federally assisted programs serving the same populations;
 
 &emsp;(4) contains assurances that not more than 10 percent of expenditures under the plan for any fiscal year with respect to which the State is eligible for payment under section 629d of this title for the fiscal year shall be for administrative costs, and that the remaining expenditures shall be for programs of family preservation services, community-based family support services, time-limited family reunification services, and adoption promotion and support services, with significant portions of such expenditures for each such program;
 

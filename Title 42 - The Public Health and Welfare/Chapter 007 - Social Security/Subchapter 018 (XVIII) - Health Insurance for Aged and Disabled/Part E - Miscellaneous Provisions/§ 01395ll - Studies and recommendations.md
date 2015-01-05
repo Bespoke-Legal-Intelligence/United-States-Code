@@ -8,7 +8,7 @@ The Secretary shall carry on studies and develop recommendations to be submitted
 
 The Secretary shall make a continuing study of the operation and administration of this subchapter (including a validation of the accreditation process of national accreditation bodies under section 1395bb(a) of this title <sup>1</sup> the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972 \[42 U.S.C. 1395mm\], the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1\] and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972 \[42 U.S.C. 1395b–1 note\]), and shall transmit to the Congress annually a report concerning the operation of such programs.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1875, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 332; amended Pub. L. 90–248, title IV, §402(c), Jan. 2, 1968, 81 Stat. 931; Pub. L. 92–603, title II, §§201(c)(7), 222(c), 226(d), 244(d), Oct. 30, 1972, 86 Stat. 1373, 1393, 1404, 1423; Pub. L. 98–369, div. B, title III, §2354(b)(17), July 18, 1984, 98 Stat. 1101; Pub. L. 99–509, title IX, §9316(a), Oct. 21, 1986, 100 Stat. 2006; Pub. L. 100–203, title IV, §4085(i)(20), Dec. 22, 1987, 101 Stat. 1330–133; Pub. L. 100–647, title VIII, §8413, Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–234, title III, §301(b)(5), (d)(2), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L.101–239, title VI, §6103(b)(3)(A), Dec. 19, 1989, 103 Stat. 2199; Pub. L. 108–173, title I, §101(e)(7), Dec. 8, 2003, 117 Stat. 2152; Pub. L. 110–275, title I, §125(b)(4), July 15, 2008, 122 Stat. 2519.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1875, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 332; amended Pub. L. 90–248, title IV, §402(c), Jan. 2, 1968, 81 Stat. 931; Pub. L. 92–603, title II, §§201(c)(7), 222(c), 226(d), 244(d), Oct. 30, 1972, 86 Stat. 1373, 1393, 1404, 1423; Pub. L. 98–369, div. B, title III, §2354(b)(17), July 18, 1984, 98 Stat. 1101; Pub. L. 99–509, title IX, §9316(a), Oct. 21, 1986, 100 Stat. 2006; Pub. L. 100–203, title IV, §4085(i)(20), Dec. 22, 1987, 101 Stat. 1330–133; Pub. L. 100–647, title VIII, §8413, Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–234, title III, §301(b)(5), (d)(2), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §6103(b)(3)(A), Dec. 19, 1989, 103 Stat. 2199; Pub. L. 108–173, title I, §101(e)(7), Dec. 8, 2003, 117 Stat. 2152; Pub. L. 110–275, title I, §125(b)(4), July 15, 2008, 122 Stat. 2519.)
 
 #### References in Text
 
@@ -92,7 +92,7 @@ Specific matters evaluated.—In conducting the evaluation under paragraph (1), 
 
 &emsp;"(3)
 
-Scope of health care performance measures.—The health care performance measures described in paragraph (2)(A) shall encompass a variety of perspectives, including physicians, hospitals, other health care providers, health plans, purchasers, and patients.
+Scope of health care performance measures.—The health care performance measures described in paragraph (2)(A) shall encompass a varietyof perspectives, including physicians, hospitals, other health care providers, health plans, purchasers, and patients.
 
 &emsp;"(4)
 
@@ -100,7 +100,7 @@ Consultation with medpac.—In evaluating the matters described in paragraph (2)
 
 "(b)
 
-Report.—Not later than the date that is 18 months after the date of enactment of this Act \[Dec. 8, 2003\], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j etseq.\], the Medicare Advantage program under part C of such title \[42 U.S.C. 1395w–21 et seq.\], and any other programs under such title XVIII \[42 U.S.C. 1395 et seq.\].
+Report.—Not later than the date that is 18 months after the date of enactment of this Act \[Dec. 8, 2003\], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\], the Medicare Advantage program under part C of such title \[42 U.S.C. 1395w–21 et seq.\], and any other programs under such title XVIII \[42 U.S.C. 1395 et seq.\].
 
 "(c)
 
@@ -208,7 +208,7 @@ Issues to be studied.—The issues specified in this paragraph are the following
 
 &emsp;&emsp;"(iv) geographic changes in locations where medicare beneficiaries receive benefits under such program.
 
-&emsp;"(B) The rate of usage of physicians' services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) among beneficiaries between ages 65 and 74, 75 and 84, 85 and over, and disabled beneficiaries under age 65.
+&emsp;"(B) The rate of usage of physicians' services under the original medicare fee-for-service program underparts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) among beneficiaries between ages 65 and 74, 75 and 84, 85 and over, and disabled beneficiaries under age 65.
 
 &emsp;"(C) Other factors that may be reliable predictors of beneficiary utilization of physicians' services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
@@ -254,7 +254,7 @@ Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secreta
 
 #### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
 
-Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban orrural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
 
 #### Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress
 
@@ -262,7 +262,7 @@ Pub. L. 95–142, §12, Oct. 25, 1977, 91 Stat. 1197, directed Comptroller Gener
 
 #### Report by Secretary of Health, Education, and Welfare on Delivery of Home Health and Other In-Home Services; Contents; Consultation Requirements; Submission to Congress
 
-Pub. L. 95–142, §18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Health, Education, and Welfare, not laterthan one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in-home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
+Pub. L. 95–142, §18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Health, Education, and Welfare, not later than one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in-home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

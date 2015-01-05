@@ -44,7 +44,7 @@ Process for selecting special measures.—In selecting which special measure or 
 
 &emsp;(5)
 
-No limitation on other authority.—This section shall not be construed as supersedingor otherwise restricting any other authority granted to the Secretary, or to any other agency, by this subchapter or otherwise.
+No limitation on other authority.—This section shall not be construed as superseding or otherwise restricting any other authority granted to the Secretary, or to any other agency, by this subchapter or otherwise.
 
 (b)
 
@@ -72,7 +72,7 @@ Form of records and reports.—Such records and reports shall be made and retain
 
 &emsp;(2)
 
-Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
+Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, theSecretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
 
 &emsp;(3)
 
@@ -92,7 +92,7 @@ Information relating to certain correspondent accounts.—If the Secretary finds
 
 &emsp;(5)
 
-Prohibitions or conditions on opening or maintaining certain correspondent or payable-through accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to beof primary money laundering concern, the Secretary, in consultation with the Secretary of State, the Attorney General, and the Chairman of the Board of Governors of the Federal Reserve System, may prohibit, or impose conditions upon, the opening or maintaining in the United States of a correspondent account or payable-through account by any domestic financial institution or domestic financial agency for or on behalf of a foreign banking institution, if such correspondent account or payable-through account involves any such jurisdiction or institution, or if any such transaction may be conducted through such correspondent account or payable-through account.
+Prohibitions or conditions on opening or maintaining certain correspondent or payable-through accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary, in consultation with the Secretary of State, the Attorney General, and the Chairman of the Board of Governors of the Federal Reserve System, may prohibit, or impose conditions upon, the opening or maintaining in the United States of a correspondent account or payable-through account by any domestic financial institution or domestic financial agency for or on behalf of a foreign banking institution, if such correspondent account or payable-through account involves any such jurisdiction or institution, or if any such transaction may be conducted through such correspondent account or payable-through account.
 
 (c)
 
@@ -114,7 +114,7 @@ Jurisdictional factors.—In the case of a particular jurisdiction—
 
 &emsp;&emsp;&emsp;(ii) the extent to which that jurisdiction or financial institutions operating in that jurisdiction offer bank secrecy or special regulatory advantages to nonresidents or nondomiciliaries of that jurisdiction;
 
-&emsp;&emsp;&emsp;(iii) the substance and quality of administration of the bank supervisory and counter-money laundering laws of that jurisdiction;
+&emsp;&emsp;&emsp;(iii) the substance and quality of administration of the bank supervisory andcounter-money laundering laws of that jurisdiction;
 
 &emsp;&emsp;&emsp;(iv) the relationship between the volume of financial transactions occurring in that jurisdiction and the size of the economy of the jurisdiction;
 
@@ -160,7 +160,7 @@ Correspondent account.—The term "correspondent account" means an account estab
 
 &emsp;&emsp;(C)
 
-Payable-through account.—The term "payable-through account" means an account, including a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act), opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in bankingactivities usual in connection with the business of banking in the United States.
+Payable-through account.—The term "payable-through account" means an account, including a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act), opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in banking activities usual in connection with the business of banking in the United States.
 
 &emsp;(2)
 

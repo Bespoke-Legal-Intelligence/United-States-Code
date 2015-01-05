@@ -10,7 +10,7 @@
 
 &emsp;(3) the application sets forth such fiscal control and accounting procedures as may be necessary to assure proper disbursement of, and accounting for, Federal funds expended under this subchapter; and
 
-&emsp;(4) the application provides for making such reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, and for keeping such records andfor affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
+&emsp;(4) the application provides for making such reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, and for keeping such records and for affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
 
 (Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1106, §5093; amended Pub. L. 94–581, title II, §210(f)(5), Oct. 21, 1976, 90 Stat. 2866; Pub. L. 96–330, title IV, §405, Aug. 26, 1980, 94 Stat. 1052; renumbered §8233, Pub. L. 102–40, title IV, §402(b)(2)(D), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

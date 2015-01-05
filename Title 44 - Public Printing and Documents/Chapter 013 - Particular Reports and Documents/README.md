@@ -46,7 +46,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1340\.](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md) | Public Printer: annual report. |
+| [1340\.](%C2%A7%2001340%20-%20Director%20of%20the%20Government%20Publishing%20Office%20annual%20report.md) | Director of the Government Publishing Office: annual report. |
 | [1341\.](%C2%A7%2001341%20-%20Smithsonian%20Institution%20report.md) | Smithsonian Institution: report. |
 | [1342\.](%C2%A7%2001342%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IV%2C%20%C2%A7384%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201016.md) | Soil area surveys: reports; congressional allotments.<sup>2</sup> |
 
@@ -61,6 +61,8 @@
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 1340.
+
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575, substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in item 1336.
 
 <b>2000</b>—Pub. L. 106–181, title VI, §606(d), Apr. 5, 2000, 114 Stat. 154, struck out "and aeronautical" after "nautical" in item 1307.
@@ -69,7 +71,7 @@
 
 <b>1996</b>—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 "Comptroller General: decisions".
 
-Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted "National Imagery and Mapping Agency" for "Naval Oceanographic Office" in item 1336.
+Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted "National Imagery andMapping Agency" for "Naval Oceanographic Office" in item 1336.
 
 <b>1986</b>—Pub. L. 99–272, title VI, §6011(b), Apr. 7, 1986, 100 Stat. 122, substituted "National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution" for "Environmental Science Service Administration: charts; sale and distribution" in item 1307.
 
@@ -127,7 +129,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 01336 - National Geospatial-Intelligence Agency special publications](%C2%A7%2001336%20-%20National%20Geospatial-Intelligence%20Agency%20special%20publications.md)
 - [&sect; 01337, 1338 - Repealed. Pub. L. 106&#8211;113, div. B, &sect;1000(a)(9) \[title IV, &sect;4732(b)(25)\], Nov. 29, 1999, 113 Stat. 1536, 1501A&#8211;585](%C2%A7%2001337%2C%201338%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%289%29%20%5Btitle%20IV%2C%20%C2%A74732%28b%29%2825%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201536%2C%201501A%E2%80%93585.md)
 - [&sect; 01339 - Printing of the President's Message](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md)
-- [&sect; 01340 - Public Printer annual report](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md)
+- [&sect; 01340 - Director of the Government Publishing Office annual report](%C2%A7%2001340%20-%20Director%20of%20the%20Government%20Publishing%20Office%20annual%20report.md)
 - [&sect; 01341 - Smithsonian Institution report](%C2%A7%2001341%20-%20Smithsonian%20Institution%20report.md)
 - [&sect; 01342 - Repealed. Pub. L. 104&#8211;127, title IV, &sect;384, Apr. 4, 1996, 110 Stat. 1016](%C2%A7%2001342%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IV%2C%20%C2%A7384%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201016.md)
 - [&sect; 01343 - Statistical Abstract of the United States](%C2%A7%2001343%20-%20Statistical%20Abstract%20of%20the%20United%20States.md)

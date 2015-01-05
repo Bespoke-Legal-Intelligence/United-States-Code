@@ -48,7 +48,7 @@ Subpart D—Business Related Credits
 
 <b>2010</b>—Pub. L. 111–148, title I, §1421(e), Mar. 23, 2010, 124 Stat. 242, added item 45R.
 
-<b>2008</b>—Pub. L. 110–343, div. B, title I, §115(c), Oct. 3, 2008, 122 Stat. 3831, which directed amendment of table of sections for subpart B by adding item 45Q at end, was executed by adding item 45Q at end of table of sectionsfor this subpart to reflect the probable intent of Congress.
+<b>2008</b>—Pub. L. 110–343, div. B, title I, §115(c), Oct. 3, 2008, 122 Stat. 3831, which directed amendment of table of sections for subpart B by adding item 45Q at end, was executed by adding item 45Q at end of table of sections for this subpart to reflect the probable intent of Congress.
 
 Pub. L. 110–245, title I, §111(d), June 17, 2008, 122 Stat. 1635, added item 45P.
 

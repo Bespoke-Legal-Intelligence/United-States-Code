@@ -2,7 +2,7 @@
 
 #### (a) Acquisition
 
-The Secretary is authorized to acquire by purchase, donation, exchange, or otherwise lands, waters, or interests therein (including scenic or other easements), and structures or other improvements thereon, within the boundaries of the recreation area as the Secretary determines appropriate for the purposes of this subchapter. In exercising this authority, the Secretary is directed to give prompt and careful consideration to any offer to sell, exchange, or otherwise dispose of such property made by an individual or organization. The Secretary shall not acquire any land or interest in land owned by the State of California or any of its political subdivisions within the recreation area except by donation or exchange. All lands acquired by the Secretary pursuant to this subchapter shall be subject to the laws and regulations pertaining to the National Forest System and this subchapter.
+The Secretary is authorized to acquire by purchase, donation, exchange, or otherwise lands, waters, or interests therein (including scenic or other easements), and structures or other improvements thereon, within the boundaries of the recreation area as the Secretary determines appropriate for the purposes of this subchapter. In exercising this authority, the Secretary is directed to give prompt and careful consideration to any offer to sell, exchange, or otherwise dispose of such property made by an individual or organization. The Secretary shall not acquire any land or interest in land owned by the State of California or any of its political subdivisions within the recreation area except by donation orexchange. All lands acquired by the Secretary pursuant to this subchapter shall be subject to the laws and regulations pertaining to the National Forest System and this subchapter.
 
 #### (b) Transfers to Del Norte County
 
@@ -12,7 +12,7 @@ The Secretary is authorized to acquire by purchase, donation, exchange, or other
 
 &emsp;(A) Lands north of tract 37, T. 17 N., R. 3 E., H.M., containing 6 acres, more or less, and more particularly described as:
 
-&emsp;&emsp;Commencing at the N.E. corner of tract 37, T. 17 N., R. 3 E., H.M.; thence, northerly on a line continuing the eastern boundary ofsaid tract 37 to a point where it intersects the southern boundary of the easement for State highway conveyed to the State of California, Department of Transportation, on the 17th day of May 1977, and recorded on June 22, 1977 at book 206 of Official Records, page 256; thence, southwesterly along the southern boundary of said easement to the point where it intersects the northern boundary of said tract 37; thence, easterly along the northern boundary of said tract 37 to the point of beginning.
+&emsp;&emsp;Commencing at the N.E. corner of tract 37, T. 17 N., R. 3 E., H.M.; thence, northerly on a line continuing the eastern boundary of said tract 37 to a point where it intersects the southern boundary of the easement for State highway conveyed to the State of California, Department of Transportation, on the 17th day of May 1977, and recorded on June 22, 1977 at book 206 of Official Records, page 256; thence, southwesterly along the southern boundary of said easement to the point where it intersects the northern boundary of said tract 37; thence, easterly along the northern boundary of said tract 37 to the point of beginning.
 
 &emsp;(B) Lands east of tract 37, T. 17 N., R. 3 E., H.M., containing 6 acres, more or less, and more particularly described as:
 

@@ -52,7 +52,7 @@ Information clearinghouse.—The Secretary shall include, as part of the motor c
 
 &emsp;(2)
 
-Design.—The program shall link Federal motor carrier safety information systems withState commercial vehicle registration and licensing systems and shall be designed to enable a State to—
+Design.—The program shall link Federal motor carrier safety information systems with State commercial vehicle registration and licensing systems and shall be designed to enable a State to—
 
 &emsp;&emsp;(A) determine the safety fitness of a motor carrier or registrant when licensing or registering the registrant or motor carrier or while the license or registration is in effect; and
 

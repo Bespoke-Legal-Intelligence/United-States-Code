@@ -48,11 +48,11 @@
 
 (i) For purposes of this section—
 
-&emsp;(1) the term “cost of attendance” has the meaning given that term in section 472 of the Higher Education Act of 1965;
+&emsp;(1) the term "cost of attendance" has the meaning given that term in section 472 of the Higher Education Act of 1965;
 
-&emsp;(2) the term “institution of higher education” has the meaning given that term in section 101(a) of the Higher Education Act of 1965; and
+&emsp;(2) the term "institution of higher education" has the meaning given that term in section 101(a) of the Higher Education Act of 1965; and
 
-&emsp;(3) the term “Program” means the National Aeronautics and Space Administration Science and Technology Scholarship Program established under this section.
+&emsp;(3) the term "Program" means the National Aeronautics and Space Administration Science and Technology Scholarship Program established under this section.
 
 (j)(1) There is authorized to be appropriated to the Administration for the Program $10,000,000 for each fiscal year.
 
@@ -66,11 +66,11 @@ Sections 101(a) and 472 of the Higher Education Act of 1965, referred to in subs
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(2). Pub. L. 109–155, §703(a)(1), substituted “Act (42 U.S.C. 1885a or 1885b).” for “Act.”
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–155, §703(a)(1), substituted "Act (42 U.S.C. 1885a or 1885b)." for "Act."
 
-Subsec. (c). Pub. L. 109–155, §703(a)(2), substituted “require to carry out this section.” for “require.”
+Subsec. (c). Pub. L. 109–155, §703(a)(2), substituted "require to carry out this section." for "require."
 
-Subsec. (f)(1). Pub. L. 109–155, §703(a)(3), struck out at end “Under no circumstances shall the total period of obligated service be more than 4 years.”
+Subsec. (f)(1). Pub. L. 109–155, §703(a)(3), struck out at end "Under no circumstances shall the total period of obligated service be more than 4 years."
 
-Subsec. (g)(2). Pub. L. 109–155, §703(a)(4), substituted a period for a comma at end of subpar. (B) and struck out concluding provisions which read: “multiplied by 3.”
+Subsec. (g)(2). Pub. L. 109–155, §703(a)(4), substituted a period for a comma at end of subpar. (B) and struck out concluding provisions which read: "multiplied by 3."
 

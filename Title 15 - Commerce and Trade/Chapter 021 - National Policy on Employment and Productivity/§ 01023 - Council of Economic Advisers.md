@@ -56,7 +56,7 @@ In exercising its powers, functions and duties under this chapter—
 
 #### (f) Appropriations
 
-To enable the Council to exercise its powers, functions, and duties under this chapter, there are authorized to be appropriated such sums as may be necessary.
+To enable the Council to exercise its powers, functions, and duties under this chapter, thereare authorized to be appropriated such sums as may be necessary.
 
 (Feb. 20, 1946, ch. 33, §10, formerly §4, 60 Stat. 24; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 87–49, June 16, 1961, 75 Stat. 93; renumbered §10 and amended Pub. L. 95–523, title I, §§104, 110, Oct. 27, 1978, 92 Stat. 1893, 1899; Pub. L. 112–166, §2(o), Aug. 10, 2012, 126 Stat. 1287.)
 
@@ -68,7 +68,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e),
 
 In subsec. (a), provisions that fixed the compensation of members of the Council have been omitted as obsolete. The positions of chairman and members of the Council are under the Executive Schedule, see sections 5313 and 5315 of Title 5, Government Organization and Employees.
 
-In subsec. (b), provisions that authorized the Council to fix the compensation of such specialists and otherexperts as may be necessary for the carrying out of its functions under this chapter, without regard to "the Classification Act of 1923, as amended", were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+In subsec. (b), provisions that authorized the Council to fix the compensation of such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to "the Classification Act of 1923, as amended", were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 "Chapter 51 and subchapter III of chapter 53 of title 5" substituted in subsec. (b) for "the Classification Act of 1949" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
@@ -118,7 +118,7 @@ Ex. Ord. No. 10802, Jan. 23, 1959, 24 F.R. 557, which established the Committee 
 
 #### Executive Order No. 11453
 
-Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet Committee on Economic Policy, was revoked by Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, set out as a note under section 887d of Title 20, Education.
+Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet Committee on Economic Policy,was revoked by Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, set out as a note under section 887d of Title 20, Education.
 
 #### Executive Order No. 12296
 
@@ -128,7 +128,7 @@ Term of the President's Economic Policy Advisory Board extended until Sept. 30, 
 
 Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as anote under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

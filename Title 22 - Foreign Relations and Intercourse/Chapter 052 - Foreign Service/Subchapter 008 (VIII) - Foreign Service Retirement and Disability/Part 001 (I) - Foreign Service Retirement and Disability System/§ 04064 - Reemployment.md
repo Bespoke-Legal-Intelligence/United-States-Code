@@ -2,9 +2,9 @@
 
 #### (a) Termination of annuity; coverage under same retirement system or another contributory retirement system; rights and benefits
 
-(1)(A) <sup>1</sup> Except in the case of an annuitant who makes an election under subsection (b) of this section or in the case of a waiver under subsection (g) of this section, if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
+(1)(A) <sup>1</sup> Except in the case of an annuitant who makes an election under subsection (b) or in the case of a waiver under subsection (g), if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
 
-(B) If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirementsystem from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
+(B) If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirement system from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
 
 (C) If the annuity is terminated and the individual becomes covered under another contributory retirement system for Government employees pursuant to paragraph (A), the individual shall be entitled to benefits under the rules of that system. In addition, the individual shall be entitled to a resumption of any annuity terminated by reason of the employment.
 
@@ -34,7 +34,7 @@
 
 #### (c) Amount of annuity on resumption; amount resulting from redetermination of rights
 
-The amount of annuity which has been terminated or reduced under this section by reason of the reemployment of the annuitant and is resumed under this section shall be the amount of the annuity which would have been payable if the annuitant had not accepted the reemployment. The amount of an annuity resulting from a redetermination of rights pursuant to subsection (a) of this section shall not be less than the amount of an annuity resumed under the previous sentence.
+The amount of annuity which has been terminated or reduced under this section by reason of the reemployment of the annuitant and is resumed under this section shall be the amount of the annuity which would have been payable if the annuitant had not accepted the reemployment. The amount of an annuity resulting from a redetermination of rights pursuant to subsection (a) shall not be less than the amount of an annuity resumed under the previous sentence.
 
 #### (d) Annuity rights to be determined under this section
 
@@ -62,7 +62,7 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 (2)(A) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
 
-(B) The authority of the Secretary to waive the application of subsections (a) through (d) foran annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009.
+(B) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009.
 
 (C) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009.
 
@@ -70,7 +70,7 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 #### (h) Effects of waiver
 
-A reemployed annuitant as to whom a waiver under subsection (g) of this section is in effect shall not be considered a participant for purposes of this part or part II of this subchapter, or an employee for purposes of chapter 83 or 84 of title 5.
+A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part or part II, or an employee for purposes of chapter 83 or 84 of title 5.
 
 (Pub. L. 96–465, title I, §824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, §403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, §103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, §1602(a), June 15, 2006, 120 Stat. 440; Pub. L. 109–289, div. B, title II, §20941, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 46; Pub. L. 110–50, §2, July 30, 2007, 121 Stat. 261; Pub. L. 110–321, §1, Sept. 19, 2008, 122 Stat. 3535; Pub. L. 111–32, title XI, §1115(c)(1), June 24, 2009, 123 Stat. 1905.)
 
@@ -96,7 +96,7 @@ Subsec. (g)(3). Pub. L. 109–289, §20941(3), as added by Pub. L. 110–5, subs
 
 <b>2006</b>—Subsec. (g). Pub. L. 109–234 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "The Secretary of State may waive the application of the paragraphs (a) through (d) of this section, on a case-by-case basis, for an annuitant reemployed on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances."
 
-<b>1998</b>—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting "or in the case of a waiver under subsection (g) of this section" after "subsection (b) of this section", and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting "or in the case of a waiver under subsection (g)" after "subsection (b)", and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–335, §410, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Notwithstanding any other law, any member of the Service who has retired and is receiving an annuity under this part, and who is reemployed in the Government service in any part-time or full-time appointive position, shall be entitled to receive the salary of the position in which he or she is serving plus so much of the annuity payable under this part which when combined with such salary does not exceed during any calendar year the basic salary the member was entitled to receive under this chapter on the date of retirement from the Service. Any such reemployed member of the Service who receives salary during any calendar year in excess of the maximum amount which he or she may be entitled to receive under this subsection shall be entitled to such salary in lieu of benefits under this part."
 
@@ -124,7 +124,13 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Extension of Authority
 
-Pub. L. 112–74, div. I, title VII, §7034(m)(4), Dec. 23, 2011, 125 Stat. 1216, provided that: "Section 824(g) of the Foreign Service Act of 1980 (22 U.S.C. 4064(g)) shall be applied by substituting 'September 30, 2012' for 'October 1, 2010' in paragraph (2)."
+Pub. L. 113–235, div. J, title VII, §7034(l)(4), Dec. 16, 2014, 128 Stat. 2625, provided that: "Section 824(g) of the Foreign Service Act of 1980 (22 U.S.C. 4064(g)) shall be applied by substituting 'September 30, 2015' for 'October 1, 2010' in paragraph (2)."
+
+Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–76, div. K, title VII, §7034(m)(4), Jan. 17, 2014, 128 Stat. 515.
+
+Pub. L. 112–74, div. I, title VII, §7034(m)(4), Dec. 23, 2011, 125 Stat. 1216.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

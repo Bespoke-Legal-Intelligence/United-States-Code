@@ -106,7 +106,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (A) In general
 
-&emsp;&emsp;A plan which otherwise meets the requirements of this subsection or of section4975(e)(7) shall not be considered to have failed to meet the requirements of section 401(a) merely because under the plan the benefits may be distributed in cash or in the form of employer securities.
+&emsp;&emsp;A plan which otherwise meets the requirements of this subsection or of section 4975(e)(7) shall not be considered to have failed to meet the requirements of section 401(a) merely because under the plan the benefits may be distributed in cash or in the form of employer securities.
 
 #### (B) Exception for certain plans restricted from distributing securities
 
@@ -238,7 +238,7 @@ No gain or loss shall be recognized to the taxpayer with respect to the transfer
 
 #### (1) In general
 
-&emsp;A plan to which section 1042 applies and an eligible worker-owned cooperative (within themeaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of) employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
+&emsp;A plan to which section 1042 applies and an eligible worker-owned cooperative (within the meaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of) employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
 
 &emsp;&emsp;(A) during the nonallocation period, for the benefit of—
 
@@ -324,7 +324,7 @@ A plan meets the requirements of this subsection if—
 
 #### (2) Cost-of-living adjustment
 
-&emsp;The Secretary shall adjust the dollar amounts under paragraph (1)(C) at the sametime and in the same manner as under section 415(d).
+&emsp;The Secretary shall adjust the dollar amounts under paragraph (1)(C) at the same time and in the same manner as under section 415(d).
 
 #### (p) Prohibited allocations of securities in an S corporation
 
@@ -452,15 +452,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;The Secretary may, by regulation or other guidance of general applicability, provide that a nonallocation year occurs in any case in which the principal purpose of the ownership structure of an S corporation constitutes an avoidance or evasion of this subsection.
 
-#### (q) Cross references
-
-&emsp;&emsp;<b>(1) For requirements for allowance of employee plan credit, see section 48(n).</b><b><sup>1</sup></b>
-
-&emsp;&emsp;<b>(2) For assessable penalties for failure to meet requirements of this section, or for failure to make contributions required with respect to the allowance of an employee plan credit or employee stock ownership credit, see section 6699.</b><b><sup>1</sup></b>
-
-&emsp;&emsp;<b>(3) For requirements for allowance of an employee stock ownership credit, see section 41.</b><b><sup>1</sup></b>
-
-(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029.)
+(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III,§§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029; Pub. L. 113–295, div. A, title II, §221(a)(54), Dec. 19, 2014, 128 Stat. 4045.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -468,7 +460,7 @@ A plan meets the requirements of this subsection if—
 
 #### References in Text
 
-Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), (m), and (p), which related to employee stock ownership credit, was repealed by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513. Section 30 of this title, relating to credit for increasing research activities, was renumbered section 41.
+Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), and (m), which related to employee stock ownership credit, was repealed by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513. Section 30 of this title, relating to credit for increasing research activities, was renumbered section 41.
 
 Section 12 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4), is classified to section 78l of Title 15, Commerce and Trade.
 
@@ -476,9 +468,7 @@ Section 403(c)(1) of the Employee Retirement Income Security Act of 1974, referr
 
 The enactment of the Tax Reform Act of 1984, referred to in subsecs. (g) and (k), means the enactment of div. A of Pub. L. 98–369, which was approved July 18, 1984.
 
-Subsec. (n) of section 48, referred to in subsecs. (g), (m), and (p)(1), was repealed by section 474(o)(15) of Pub. L. 98–369.
-
-Section 6699, referred to in subsec. (p)(2), was repealed by Pub. L. 99–514, title XI, §1171(b)(7)(A), Oct. 22, 1986, 100 Stat. 2513.
+Subsec. (n) of section 48, referred to in subsecs. (g) and (m), was repealed by section 474(o)(15) of Pub. L. 98–369.
 
 #### Prior Provisions
 
@@ -486,13 +476,15 @@ A prior section 409, added Pub. L. 93–406, title II, §2002(c), Sept. 2, 1974,
 
 #### Amendments
 
+<b>2014</b>—Subsec. (q). Pub. L. 113–295 struck out subsec. (q) which related to cross-references.
+
 <b>2006</b>—Subsec. (h)(7). Pub. L. 109–280 inserted "or subparagraph (B) or (C) of section 401(a)(35)" before period at end.
 
 <b>2002</b>—Subsec. (o)(1)(C)(ii). Pub. L. 107–147 substituted "$800,000" for "$500,000" in two places and "$160,000" for "$100,000".
 
 <b>2001</b>—Subsecs. (p), (q). Pub. L. 107–16 added subsec. (p) and redesignated former subsec. (p) as (q).
 
-<b>1997</b>—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading,struck out "In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B)." after "employer securities.", and added subpar. (B).
+<b>1997</b>—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out "In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B)." after "employer securities.", and added subpar. (B).
 
 <b>1989</b>—Subsec. (l)(5). Pub. L. 101–239, §7811(h)(1), substituted "the second sentence" for "the last sentence".
 
@@ -620,6 +612,10 @@ Subsec. (m). Pub. L. 96–222, §101(a)(7)(D), (L)(i), substituted provisions re
 
 Subsec. (n). Pub. L. 96–222, §101(a)(7)(L)(iii)(V), substituted "employee plan credit" for "ESOP credit" in pars. (1) and (2).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2006, with special rules for collectively bargained agreements and certain employer securities held in an ESOP, see section 901(c) of Pub. L. 109–280, set out as a note under section 401 of this title.
@@ -666,7 +662,7 @@ Pub. L. 99–514, title XI, §1172(c), Oct. 22, 1986, 100 Stat. 2515, provided t
 
 Pub. L. 99–514, title XI, §1174(a)(2), Oct. 22, 1986, 100 Stat. 2516, as amended by Pub. L. 100–647, title I, §1011B(i)(2), Nov. 10, 1988, 102 Stat. 3492, provided that: "The amendment made by this subsection \[amending this section\] shall apply to distributions after December 31, 1984."
 
-Pub. L. 99–514, title XI, §1174(b)(3), Oct. 22, 1986, 100 Stat. 2517, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to distributions attributable to stock acquired after December 31, 1986."
+Pub. L. 99–514, title XI, §1174(b)(3), Oct. 22, 1986, 100 Stat. 2517, provided that: "The amendments made by this subsection \[amending this section\] shall apply to distributions attributable to stock acquired after December 31, 1986."
 
 Pub. L. 99–514, title XI, §1174(c)(1)(B), Oct. 22, 1986, 100 Stat. 2518, provided that: "The amendment made by this paragraph \[amending this section\] shall apply to distributions attributable to stock acquired after December 31, 1986, except that a plan may elect to have such amendment apply to all distributions after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
@@ -700,7 +696,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Amendment by section 331(c)(1) of Pub. L. 97–34 applicable to taxable years ending after Dec. 31, 1982, see section 331(f)(2) of Pub. L. 97–34, set out as a note under section 404 of this title.
 
-Pub. L. 97–34, title III, §337(b), Aug. 13, 1981, 95 Stat. 298, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions described in section 409A(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or any corresponding provision of prior law) made after March 29, 1975."
+Pub. L. 97–34, title III, §337(b), Aug. 13, 1981, 95 Stat. 298, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions described in section 409A(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or any corresponding provision of prior law) made after March 29, 1975."
 
 Amendment by sections 334 and 336 of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 339 of Pub. L. 97–34, set out as a note under section 401 of this title.
 

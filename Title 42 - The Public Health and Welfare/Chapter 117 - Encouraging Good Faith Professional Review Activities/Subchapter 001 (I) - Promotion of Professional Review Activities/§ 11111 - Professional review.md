@@ -18,7 +18,7 @@
 
 #### (2) Protection for those providing information to professional review bodies
 
-&emsp;Notwithstanding any other provision of law, no person (whether as a witness or otherwise) providing information to a professional review body regarding the competence or professional conduct of a physician shall be held, by reason of having provided such information, to be liable in damages under any law of the United States or of any State (or political subdivision thereof) unless such information is false and the person providing it knew that such information was false.
+&emsp;Notwithstanding any other provision of law, no person (whether as a witness or otherwise) providing information to a professional reviewbody regarding the competence or professional conduct of a physician shall be held, by reason of having provided such information, to be liable in damages under any law of the United States or of any State (or political subdivision thereof) unless such information is false and the person providing it knew that such information was false.
 
 #### (b) Exception
 

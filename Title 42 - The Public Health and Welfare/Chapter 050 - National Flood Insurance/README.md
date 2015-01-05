@@ -4,8 +4,9 @@
 | :--- | ---: |
 | [4001\.](%C2%A7%2004001%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
 | [4002\.](%C2%A7%2004002%20-%20Additional%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Additional Congressional findings and declaration of purpose. |
-| [4003\.](%C2%A7%2004003%20-%20Additional%20definitions.md) | Additional definitions. |
-| [4004\.](%C2%A7%2004004%20-%20Definitions.md) | Definitions. |
+| [4003\.](%C2%A7%2004003%20-%20Definitions%20applicable%20to%20Flood%20Disaster%20Protection%20Act%20of%201973.md) | Definitions applicable to Flood Disaster Protection Act of 1973. |
+| [4004\.](%C2%A7%2004004%20-%20Definitions%20applicable%20to%20Biggert-Waters%20Flood%20Insurance%20Reform%20Act%20of%202012.md) | Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012. |
+| [4005\.](%C2%A7%2004005%20-%20Definitions%20applicable%20to%20Homeowner%20Flood%20Insurance%20Affordability%20Act%20of%202014.md) | Definitions applicable to Homeowner Flood Insurance Affordability Act of 2014. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,6 +21,7 @@
 | [4013a.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004013a%20-%20Policy%20disclosures.md) | Policy disclosures. |
 | [4014\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004014%20-%20Estimates%20of%20premium%20rates.md) | Estimates of premium rates. |
 | [4015\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004015%20-%20Chargeable%20premium%20rates.md) | Chargeable premium rates. |
+| [4015a.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004015a%20-%20Premium%20surcharge.md) | Premium surcharge. |
 | [4016\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004016%20-%20Financing.md) | Financing. |
 | [4017\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004017%20-%20National%20Flood%20Insurance%20Fund.md) | National Flood Insurance Fund. |
 | [4017a.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004017a%20-%20Reserve%20Fund.md) | Reserve Fund. |
@@ -40,6 +42,7 @@
 | [4030\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004030%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20F%2C%20title%20II%2C%20%C2%A7100225%28b%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20941.md) | Repealed. |
 | [4031\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004031%20-%20Treatment%20of%20certain%20payments.md) | Treatment of certain payments. |
 | [4032\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004032%20-%20Treatment%20of%20swimming%20pool%20enclosures%20outside%20of%20hurricane%20season.md) | Treatment of swimming pool enclosures outside of hurricane season. |
+| [4033\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004033%20-%20Designation%20of%20Flood%20Insurance%20Advocate.md) | Designation of Flood Insurance Advocate. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -93,6 +96,8 @@
 | [4101a.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004101a%20-%20Technical%20Mapping%20Advisory%20Council.md) | Technical Mapping Advisory Council. |
 | [4101b.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004101b%20-%20National%20Flood%20Mapping%20Program.md) | National Flood Mapping Program. |
 | [4101c.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004101c%20-%20Coordination.md) | Coordination. |
+| [4101d.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004101d%20-%20Flood%20insurance%20rate%20map%20certification.md) | Flood insurance rate map certification. |
+| [4101e.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004101e%20-%20Exemption%20from%20fees%20for%20certain%20map%20change%20requests.md) | Exemption from fees for certain map change requests. |
 | [4102\.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004102%20-%20Criteria%20for%20land%20management%20and%20use.md) | Criteria for land management and use. |
 | 4102a, 4103. | Repealed. |
 | [4104\.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004104%20-%20Flood%20elevation%20determinations.md) | Flood elevation determinations. |
@@ -121,6 +126,7 @@
 | [4128\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2004128%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [4129\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2004129%20-%20Federal%20Insurance%20Administrator%3B%20establishment%20of%20position.md) | Federal Insurance Administrator; establishment of position. |
 | [4130\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2004130%20-%20No%20cause%20of%20action.md) | No cause of action. |
+| [4131\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2004131%20-%20Levee%20certifications.md) | Levee certifications. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -131,8 +137,9 @@
 
 - [&sect; 04001 - Congressional findings and declaration of purpose](%C2%A7%2004001%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md)
 - [&sect; 04002 - Additional Congressional findings and declaration of purpose](%C2%A7%2004002%20-%20Additional%20Congressional%20findings%20and%20declaration%20of%20purpose.md)
-- [&sect; 04003 - Additional definitions](%C2%A7%2004003%20-%20Additional%20definitions.md)
-- [&sect; 04004 - Definitions](%C2%A7%2004004%20-%20Definitions.md)
+- [&sect; 04003 - Definitions applicable to Flood Disaster Protection Act of 1973](%C2%A7%2004003%20-%20Definitions%20applicable%20to%20Flood%20Disaster%20Protection%20Act%20of%201973.md)
+- [&sect; 04004 - Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012](%C2%A7%2004004%20-%20Definitions%20applicable%20to%20Biggert-Waters%20Flood%20Insurance%20Reform%20Act%20of%202012.md)
+- [&sect; 04005 - Definitions applicable to Homeowner Flood Insurance Affordability Act of 2014](%C2%A7%2004005%20-%20Definitions%20applicable%20to%20Homeowner%20Flood%20Insurance%20Affordability%20Act%20of%202014.md)
 - [Subchapter 001 (I) - The National Flood Insurance Program](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/README.md)
 - [Subchapter 002 (II) - Organization and Administration of Flood Insurance Program](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administration%20of%20Flood%20Insurance%20Program/README.md)
 - [Subchapter 003 (III) - Coordination of Flood Insurance with Land-Management Programs in Flood-Prone Areas](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/README.md)

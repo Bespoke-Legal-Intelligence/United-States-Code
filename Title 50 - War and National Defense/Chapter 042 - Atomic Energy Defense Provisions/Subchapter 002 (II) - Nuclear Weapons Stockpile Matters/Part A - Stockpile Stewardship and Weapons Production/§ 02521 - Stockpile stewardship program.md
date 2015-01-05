@@ -50,13 +50,13 @@ Pub. L. 112–239, §3131(bb)(1)(C), which directed substitution of "Nevada Nati
 
 Subsec. (b)(5). Pub. L. 113–66, §3146(c)(1)(B)(ii), added subpar. (A), redesignated subpar. (E) as (B), and struck out former subpars. (A) to (D) which read as follows:
 
-&emsp;"(A) the Pantex Plant;
+"(A) the Pantex Plant;
 
-&emsp;"(B) the Y–12 National Security Complex;
+"(B) the Y–12 National Security Complex;
 
-&emsp;"(C) the Kansas City Plant;
+"(C) the Kansas City Plant;
 
-&emsp;"(D) the Savannah River Site; and".
+"(D) the Savannah River Site; and".
 
 Subsec. (b)(5)(E). Pub. L. 112–239, §3131(b), struck out "(as defined in section 2471 of this title)" after "laboratories".
 

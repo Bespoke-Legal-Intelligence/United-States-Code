@@ -12,7 +12,7 @@
 
 (b) There is a United States Air Force within the Department of the Air Force.
 
-(c) In general, the Air Force includes aviation forces both combat and service not otherwise assigned. It shall be organized, trained, and equipped primarily for prompt and sustained offensive and defensive air operations. It is responsible for the preparation of the air forces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Air Force to meet the needs of war.
+(c) In general, the Air Force includes aviation forces both combat and service not otherwise assigned. It shall be organized, trained, and equipped primarily for prompt and sustained offensive and defensive air operations. It is responsible for the preparation of the air forces necessary for the effective prosecution of war except as otherwise assigned and, in accordancewith integrated joint mobilization plans, for the expansion of the peacetime components of the Air Force to meet the needs of war.
 
 (d) The Air Force consists of—
 
@@ -106,7 +106,7 @@ In subsection (d)(1), 10:20r(a) is omitted as superseded by 10:1831. The words "
 
 In subsection (d)(2), the words "or inducted" are omitted as covered by the word "conscripted".
 
-In subsection (e), the words "Effective on July 10, 1950" are omitted as executed. The words "the limitations imposed by" are omitted as surplusage. The words "not to exceed" are omitted as surplusage, sincethe revised section states the authorized number and any number over that would not be authorized. The words "and chapter 31 of this title" are substituted for the reference to 10:20s to make it clear that the authority for a 70 group Air Force is subject to all provisions which prescribe the authorized personnel strength of the Air Force.
+In subsection (e), the words "Effective on July 10, 1950" are omitted as executed. The words "the limitations imposed by" are omitted as surplusage. The words "not to exceed" are omitted as surplusage, since the revised section states the authorized number and any number over that would not be authorized. The words "and chapter 31 of this title" are substituted for the reference to 10:20s to make it clear that the authority for a 70 group Air Force is subject to all provisions which prescribe the authorized personnel strength of the Air Force.
 
 In subsection (f), the word "considers" is substituted for the words "may determine is more". The words "aggregate" and "amount" are omitted as surplusage. The words "carry out this section" are substituted for the words "fulfill the requirements of the Air Force of the United States for aircraft necessary to carry out the purposes of this chapter, section 481 of this title, and sections 235, 235a, 628, and 628a of title 5", since the purposes to which the reference is made are stated in the revised section. The last sentence is substituted for 10:20t (proviso).
 
@@ -116,7 +116,7 @@ Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g)(1). Pub. L. 112–239, §141(a), inserted at end "Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft."
+<b>2013</b>—Subsec. (g)(1). Pub. L. 112–239, §141(a), inserted at end "Effective on the date that is 45 days after thedate on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft."
 
 Subsec. (h). Pub. L. 112–239, §142(a), added subsec. (h).
 
@@ -184,7 +184,7 @@ Report on Criteria.—Not later than 30 days after the date of the enactment of 
 
 "(c)
 
-Report on Feasibility Study.—At least 90 days before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the findings of the Rand Corporation feasibility study and the Rand Corporation's recommendations, the Air Force's assessment of the findings and recommendations, any plans developed forimplementation of the consolidation, and a delineation of all infrastructure costs anticipated as a result of implementation.
+Report on Feasibility Study.—At least 90 days before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the findings of the Rand Corporation feasibility study and the Rand Corporation's recommendations, the Air Force's assessment of the findings and recommendations, any plans developed for implementation of the consolidation, and a delineation of all infrastructure costs anticipated as a result of implementation.
 
 "(d)
 

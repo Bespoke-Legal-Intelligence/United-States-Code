@@ -24,7 +24,7 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 
 &emsp;(10) The Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.).
 
-&emsp;(11) Chapter 43 (relating to veterans’ employment and reemployment) of title 38.
+&emsp;(11) Chapter 43 (relating to veterans' employment and reemployment) of title 38.
 
 #### (b) Laws which may be made applicable
 
@@ -50,7 +50,7 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 

@@ -90,7 +90,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;&emsp;&emsp;(II) income, asset, and medical expense criteria will be established and applied by the State to identify those individuals who qualify for assistance under such program, and information concerning such criteria shall be made available to the public;
 
-&emsp;&emsp;(C) the State will provide for periodic independent peer review to assess the quality and appropriateness of health and support services provided by entities that receive funds from the State under section 300ff–21 of this title;
+&emsp;&emsp;(C) the State will provide for periodic independent peer review to assess the quality and appropriateness of health and supportservices provided by entities that receive funds from the State under section 300ff–21 of this title;
 
 &emsp;&emsp;(D) the State will permit and cooperate with any Federal investigations undertaken regarding programs conducted under section 300ff–21 of this title;
 
@@ -178,7 +178,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (A) In general
 
-&emsp;&emsp;Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, and any portion of any service subsidized by the Federal Government, maynot be included in determining the amount of such non-Federal contributions.
+&emsp;&emsp;Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, and any portion of any service subsidized by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 #### (B) Inclusion of certain amounts
 

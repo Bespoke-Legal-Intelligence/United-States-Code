@@ -24,7 +24,7 @@ The Inspector General of the Peace Corps shall—
 
 &emsp;&emsp;(C) a report, not later than two years after November 21, 2011, describing how Peace Corps representatives are hired, how Peace Corps representatives are terminated, and how Peace Corps representatives hire staff, including an assessment of the implementation of the performance plans described in subsection (b); and
 
-&emsp;(2) when conducting audits or evaluations of Peace Corps programs overseas, notify the Director of the Peace Corps about the results of such evaluations, including concerns the Inspector General has noted, if any, about the performance of Peace Corps representatives, for appropriate action.
+&emsp;(2) when conducting audits or evaluations of Peace Corps programs overseas, notify the Director of the Peace Corps about the results of such evaluations, including concerns the Inspector General has noted, if any, about theperformance of Peace Corps representatives, for appropriate action.
 
 #### (e) Portfolio reviews
 

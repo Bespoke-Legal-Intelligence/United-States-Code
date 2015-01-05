@@ -2,7 +2,7 @@
 
 #### (a) Transfer of unrestricted control
 
-The Secretary is authorized and directed to transfer within four years from August 13, 1954, to each member of the tribe unrestricted controlof funds or other personal property held in trust for such member by the United States.
+The Secretary is authorized and directed to transfer within four years from August 13, 1954, to each member of the tribe unrestricted control of funds or other personal property held in trust for such member by the United States.
 
 #### (b) Removal of restrictions on sales or encumbrances; fee simple title
 

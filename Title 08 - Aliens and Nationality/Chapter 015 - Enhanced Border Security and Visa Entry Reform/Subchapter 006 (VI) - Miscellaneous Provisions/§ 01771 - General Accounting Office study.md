@@ -8,7 +8,7 @@
 
 #### (2) Nonimmigrant alien defined
 
-&emsp;In paragraph (1), the term “nonimmigrant alien” means an alien described in section 1101(a)(15) of this title.
+&emsp;In paragraph (1), the term "nonimmigrant alien" means an alien described in section 1101(a)(15) of this title.
 
 #### (b) Report
 

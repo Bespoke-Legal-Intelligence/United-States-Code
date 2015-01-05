@@ -1,6 +1,6 @@
 ### §1859. Surveys interrupted
 
-Whoever, by threats or force, interrupts, hinders, or prevents the surveying of the publiclands, or of any private land claim which has been or may be confirmed by the United States, by the persons authorized to survey the same in conformity with the instructions of the Director of the Bureau of Land Management, shall be fined under this title or imprisoned not more than three years, or both.
+Whoever, by threats or force, interrupts, hinders, or prevents the surveying of the public lands, or of any private land claim which has been or may be confirmed by the United States, by the persons authorized to survey the same in conformity with the instructions of the Director of the Bureau of Land Management, shall be fined under this title or imprisoned not more than three years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 789; May 24, 1949, ch. 139, §42, 63 Stat. 95; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 

@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 42 U.S.C. 1371(e).
 
-Aug. 28, 1958, Pub. L. 85–848, §3 “Sec. 1511(e)”, 72 Stat. 1088.
+Aug. 28, 1958, Pub. L. 85–848, §3 "Sec. 1511(e)", 72 Stat. 1088.
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–566 struck out “or to the Virgin Islands, as the case may be,” after “shall be assigned to the State”.
+<b>1976</b>—Pub. L. 94–566 struck out "or to the Virgin Islands, as the case may be," after "shall be assigned to the State".
 
 #### Effective Date of 1976 Amendment
 

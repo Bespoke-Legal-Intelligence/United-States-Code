@@ -94,7 +94,7 @@ Amendment by section 1903(a)(7) of Pub. L. 94–455 applicable with respect to c
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid for services rendered on or after Oct. 1, 1973; and applicable to railway labor organization covered by a private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium agreed to on or before Mar. 8, 1973, forchanges in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid for services rendered on or after Oct. 1, 1973; and applicable to railway labor organization covered by a private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium agreed to on or before Mar. 8, 1973, for changes in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1965 Amendment
 

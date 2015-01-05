@@ -4,7 +4,7 @@
 
 (b) An employee against whom an action is proposed is entitled to—
 
-&emsp;(1) at least 30 days’ advance written notice, unless there is reasonable cause to believe the employee has committed a crime for which a sentence of imprisonment may be imposed, stating the specific reasons for the proposed action;
+&emsp;(1) at least 30 days' advance written notice, unless there is reasonable cause to believe the employee has committed a crime for which a sentence of imprisonment may be imposed, stating the specific reasons for the proposed action;
 
 &emsp;(2) a reasonable time, but not less than 7 days, to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer;
 

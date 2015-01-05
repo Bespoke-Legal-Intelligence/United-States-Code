@@ -2,7 +2,7 @@
 
 #### (a) General requirements
 
-Each local educational agency that receives a grant under this subpart shall use the grant funds, in a manner consistent with the purposespecified in section 7421 of this title, for services and activities that—
+Each local educational agency that receives a grant under this subpart shall use the grant funds, in a manner consistent with the purpose specified in section 7421 of this title, for services and activities that—
 
 &emsp;(1) are designed to carry out the comprehensive program of the local educational agency for Indian students, and described in the application of the local educational agency submitted to the Secretary under section 7424(a) of this title;
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(i) is identified in the report of the Lowell Historic Canal District Commission as a property which should be preserved, restored, managed, developed, or maintained in a manner consistent with the purpose of this subchapter;
 
-&emsp;&emsp;(ii) is listed in the National Register of Historic Places, as maintained by the Secretary pursuant to section 470a(a) of this title, and section 462(b) of this title; or
+&emsp;&emsp;(ii) is listed in the National Register of Historic Places, as maintained by the Secretary pursuant to chapter 3021 and section 320102(c) of title 54; or
 
 &emsp;&emsp;(iii) is determined by the Secretary to be of national significance;
 
@@ -97,4 +97,8 @@ The Commission shall establish, within one year after the date on which the Comm
 (4) The Secretary shall publish the standards and criteria established under paragraphs (1) and (2) of this subsection, and any revisions thereof, in the Federal Register.
 
 (Pub. L. 95–290, title III, §302, June 5, 1978, 92 Stat. 297.)
+
+#### Codification
+
+In subsec. (b)(3)(C)(ii), "chapter 3021 and section 320102(c) of title 54" substituted for "section 101(a) of the Act entitled 'An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes', approved October 15, 1966 (16 U.S.C. 470a), and section 2(b) of the Act entitled 'An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes', approved August 21, 1935 (16 U.S.C. 462)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 

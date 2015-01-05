@@ -152,7 +152,7 @@ Subsec. (e)(2)(B)(ii). Pub. L. 110–379, §5(b)(1), added cl. (ii).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–379, §5(a)(2), Oct. 8, 2008, 122 Stat. 4078, provided that: "The amendments made by paragraph (1)\[amending this section\] shall take effect as if included in the enactment of section 1936 of the Social Security Act \[42 U.S.C. 1396u–6\], as added by section 6034(a) of the Deficit Reduction Act of 2005 (Public Law 109–171)."
+Pub. L. 110–379, §5(a)(2), Oct. 8, 2008, 122 Stat. 4078, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 1936 of the Social Security Act \[42 U.S.C. 1396u–6\], as added by section 6034(a) of the Deficit Reduction Act of 2005 (Public Law 109–171)."
 
 Pub. L. 110–379, §5(b)(2), Oct. 8, 2008, 122 Stat. 4079, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to conferences conducted under the authority of section 1936(b)(4) of the Social Security Act (42 U.S.C. 1396u–6(b)(4)) after the date of enactment of this Act \[Oct. 8, 2008\]."
 

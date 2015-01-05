@@ -32,7 +32,7 @@ The authority in subsection (a) to obligate and expend funds for a project or ac
 
 Except as otherwise provided in subsections (a) and (b), the exercise of the authority in subsection (a) shall be subject to any requirement or limitation under another provision of law as follows:
 
-&emsp;(1) Any requirement for prior notice or other reports to Congress on the use of internationalnuclear materials protection and cooperation program funds or on international nuclear materials protection and cooperation program projects or activities.
+&emsp;(1) Any requirement for prior notice or other reports to Congress on the use of international nuclear materials protection and cooperation program funds or on international nuclear materials protection and cooperation program projects or activities.
 
 &emsp;(2) Any limitation on the obligation or expenditure of international nuclear materials protection and cooperation program funds.
 

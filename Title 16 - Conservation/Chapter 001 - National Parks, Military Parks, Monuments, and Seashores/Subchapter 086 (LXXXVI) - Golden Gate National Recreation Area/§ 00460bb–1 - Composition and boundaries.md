@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) Lands acquired under the Golden Gate National Recreation Area Addition Act of 1992 (16 U.S.C. 460bb–1 note; Public Law 102–299).
 
-&emsp;&emsp;(D) Lands generally depicted on the map entitled "Additions to Golden Gate National Recreation Area", numbered NPS–80–076, and dated July 2000/PWR–PLRPC.
+&emsp;&emsp;(D) Lands generally depicted on the map entitled "Additions to Golden Gate NationalRecreation Area", numbered NPS–80–076, and dated July 2000/PWR–PLRPC.
 
 &emsp;&emsp;(E) Lands generally depicted on the map entitled "Rancho Corral de Tierra Additions to the Golden Gate National Recreation Area", numbered NPS–80,079E, and dated March 2004.
 
@@ -44,7 +44,7 @@ The Golden Gate National Recreational Area Addition Act of 1992, referred to in 
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–299, §2(b)(1), inserted at end "The recreation area shall also include those lands acquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992."
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–607, §1001(1), included within the recreation area the lands and waters in SanMateo County depicted on the map entitled Sweeney Ridge Addition, Golden Gate National Recreation Area, numbered NRA GG–80,000–A, dated May 1980.
+<b>1980</b>—Subsec. (a). Pub. L. 96–607, §1001(1), included within the recreation area the lands and waters in San Mateo County depicted on the map entitled Sweeney Ridge Addition, Golden Gate National Recreation Area, numbered NRA GG–80,000–A, dated May 1980.
 
 Pub. L. 96–344 designated the southern end of the town of Marshall as the Marshall Boat Works and specified additional lands to be included within the boundaries of the recreation area.
 

@@ -34,7 +34,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any residence with respect to which financing is provided from the proceeds of a tax-exempt qualified mortgage bond or qualified veterans' mortgage bond, if there is a continuous period of at least 1 year during which such residence is not the principal residence of at least 1 of the mortgagors who received such financing, then no deduction shall be allowed under this chapter for interest on such financing which accrues on or after the date such period began and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing.
+&emsp;&emsp;In the case of any residence with respect to which financing is provided from the proceeds of a tax-exempt qualified mortgage bond or qualified veterans' mortgage bond, if there is a continuous period of at least 1 year during which such residence is not the principal residence of at least 1 of the mortgagors who received such financing, then no deduction shall be allowed under this chapter for interest on such financing which accrues on or after the date such period began and before the date such residence is againthe principal residence of at least 1 of the mortgagors who received such financing.
 
 #### (B) Exception
 
@@ -86,7 +86,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) such facility is not so owned,
 
-> &emsp;then no deduction shall be allowed under this chapter for interest on such financing whichaccrues during the period beginning on the date such facility is not so owned and ending on the date such facility is so owned.
+> &emsp;then no deduction shall be allowed under this chapter for interest on such financing which accrues during the period beginning on the date such facility is not so owned and ending on the date such facility is so owned.
 
 #### (6) Small issue bonds which exceed capital expenditure limitation
 
@@ -166,7 +166,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;For purposes of this paragraph, the term "senior stock" means stock—
 
-&emsp;&emsp;&emsp;(i) which participates pro rata and fully in the equity value of the corporation with all other common stock of the corporationbut which has the right to payment of liquidation proceeds prior to payment of liquidation proceeds in respect of other common stock of the corporation;
+&emsp;&emsp;&emsp;(i) which participates pro rata and fully in the equity value of the corporation with all other common stock of the corporation but which has the right to payment of liquidation proceeds prior to payment of liquidation proceeds in respect of other common stock of the corporation;
 
 &emsp;&emsp;&emsp;(ii) which has a fixed right upon liquidation and upon redemption to an amount equal to the greater of—
 
@@ -186,7 +186,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;&emsp;(ii) for services as a member of the board of directors or as an officer of such transferee corporation.
 
-> &emsp;&emsp;For purposes of clause (ii), the term "officer" includes any individual having powers or responsibilities similar to those of officers.
+> &emsp;&emsp;For purposes of clause (ii), the term "officer" includes any individual having powersor responsibilities similar to those of officers.
 
 #### (F) Coordination with certain private foundation taxes
 
@@ -230,7 +230,7 @@ For purposes of this part and section 103—
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (d)(2)(A), (3)(F)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(2)(A), (3)(F)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

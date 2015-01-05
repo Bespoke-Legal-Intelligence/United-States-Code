@@ -104,7 +104,13 @@ In this subpart:
 
 &emsp;For definitions of other terms used in this part, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248; Pub. L. 110–351, title II, §205, Oct. 7, 2008, 122 Stat. 3961; Pub. L. 111–148, title II, §2955(c), title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 352, 803; Pub. L. 112–34, title I, §101(b), Sept. 30, 2011, 125 Stat. 369.)
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248; Pub. L. 110–351, title II, §205, Oct. 7, 2008, 122 Stat. 3961; Pub. L. 111–148, title II, §2955(c), title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 352, 803; Pub. L. 112–34, title I, §101(b), Sept. 30, 2011, 125 Stat. 369; Pub. L. 113–183, title I, §112(a)(2), (b)(2)(A)(i), Sept. 29, 2014, 128 Stat. 1926, 1927.)
+
+#### Amendment of Subsection (b)(8)
+
+<i>Pub. L. 113–183, title I, §112(b)(2)(A)(i), (c), Sept. 29, 2014, 128 Stat. 1927, 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, subsection (b)(8)(A)(ii) of this section is amended by inserting "and in accordance with the requirements of section 675a of this title" after "section 675(5) of this title". See 2014 Amendment note below.</i>
+
+<i>Pub. L. 113–183, title I, §112(a)(2), (3), (c), Sept. 29, 2014, 128 Stat. 1926, 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, subsection (b)(8)(A)(iii)(II) of this section is amended by inserting ", subject to the requirements of sections 675(5)(C) and 675a(a) of this title" after "arrangement". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -115,6 +121,10 @@ Section 103(d) of the Adoption Assistance and Child Welfare Act of 1980, referre
 The Indian Child Welfare Act, referred to in subsec. (b)(9), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(8)(A)(ii). Pub. L. 113–183, §112(b)(2)(A)(i), inserted "and in accordance with the requirements of section 675a of this title" after "section 675(5) of this title".
+
+Subsec. (b)(8)(A)(iii)(II). Pub. L. 113–183, §112(a)(2), inserted ", subject to the requirements of sections 675(5)(C) and 675a(a) of this title" after "arrangement".
 
 <b>2011</b>—Subsec. (b)(15)(A)(ii). Pub. L. 112–34, §101(b)(1), inserted ", including emotional trauma associated with a child's maltreatment and removal from home" before the semicolon.
 
@@ -134,7 +144,7 @@ Subsec. (b)(15)(A)(vii). Pub. L. 111–148, §2955(c), added cl. (vii).
 
 &emsp;"(B) determining appropriate medical treatment for the children;".
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–288, §6(c)(1)(A), added par. (3) and struck out former par. (3) which read as follows: "provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day care services under this subpart, except insofar as eligibility for such services is involved;".
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–288, §6(c)(1)(A), added par. (3) and struck out former par. (3) which read as follows: "provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day careservices under this subpart, except insofar as eligibility for such services is involved;".
 
 Subsec. (b)(4). Pub. L. 109–288, §6(c)(1)(A), (B), added par. (4) and struck out former par. (4) which read as follows: "provide for the training and effective use of paid paraprofessional staff, with particular emphasis on the full-time or part-time employment of persons of low income, as community service aides, in the administration of the plan, and for the use of nonpaid or partially paid volunteers in providing services and in assisting any advisory committees established by the State agency;".
 
@@ -252,6 +262,20 @@ Subsec. (c). Pub. L. 93–647, §3(h), added subsec. (c).
 
 <b>1968</b>—Subsec. (a)(1). Pub. L. 90–248, §240(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–183, title I, §112(a)(3), Sept. 29, 2014, 128 Stat. 1926, provided that:"In the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), the amendments made by this subsection \[amending this section and section 675 of this title\] shall not apply until the date that is 3 years after the date of the enactment of this Act \[Sept. 29, 2014\]."
+
+Pub. L. 113–183, title I, §112(c), Sept. 29, 2014, 128 Stat. 1928, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[enacting section 675a of this title and amending this section and sections 671 and 675 of this title\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Sept. 29, 2014\].
+
+"(2)
+
+Delay permitted if state legislation required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–34, title I, §107, Sept. 30, 2011, 125 Stat. 378, provided that:
@@ -302,7 +326,7 @@ In General.—Except as otherwise provided in this Act \[enacting sections 673b,
 
 "(b)
 
-Delay Permitted if State Legislation Required.—In the case of a State plan under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State planshall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Nov. 19, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
+Delay Permitted if State Legislation Required.—In the case of a State plan under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Nov. 19, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
 Pub. L. 105–33, title V, §5593, Aug. 5, 1997, 111 Stat. 644, provided that: "The amendments made by this chapter \[chapter 5 (§§5591–5593) of subtitle F of title V of Pub. L. 105–33, amending this section and sections 624, 625, 628b, 671, and 672 of this title\] shall take effect as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2277)."
 
@@ -368,7 +392,7 @@ Pub. L. 96–272, title I, §103(c), June 17, 1980, 94 Stat. 521, provided that 
 
 #### Administration of State Plan for Child Welfare Services by Non-Designated Agency
 
-Pub. L. 96–272, title I, §103(d), June 17, 1980, 94 Stat. 521, provided that: "Notwithstanding section 422(b)(1) ofthe Social Security Act (as amended by subsection (a) of this section) \[42 U.S.C. 622(b)(1)\] if on December 1, 1974, the agency of a State administering its plan for child welfare services under part B of title IV of that Act \[42 U.S.C. 620 et seq.\] was not the agency designated pursuant to section 402(a)(3) of that Act \[42 U.S.C. 602(a)(3)\], such section 422(b)(1) shall not apply with respect to such agency, but only so long as such agency is not the agency designated under section 2003(d)(1)(C) of that Act \[42 U.S.C. 1397b(d)(1)(C)\]; and if on December 1, 1974, the local agency administering the plan of a State under part B of title IV of that Act in a subdivision of the State was not the local agency in such subdivision administering the plan of such State under part A of that title \[42 U.S.C. 601 et seq.\], such section 422(b)(1) shall not apply with respect to such local agency, but only so long as such local agency is not the local agency administering the program of the State for the provision of services under title XX of that Act \[42 U.S.C. 1397 et seq.\]."
+Pub. L. 96–272, title I, §103(d), June 17, 1980, 94 Stat. 521, provided that: "Notwithstanding section 422(b)(1) of the Social Security Act (as amended by subsection (a) of this section) \[42 U.S.C. 622(b)(1)\] if on December 1, 1974, the agency of a State administering its plan for child welfare services under part B of title IV of that Act \[42 U.S.C. 620 et seq.\] was not the agency designated pursuant to section 402(a)(3) of that Act \[42 U.S.C. 602(a)(3)\], such section 422(b)(1) shall not apply with respect to such agency, but only so long as such agency is not the agency designated under section 2003(d)(1)(C) of that Act \[42 U.S.C. 1397b(d)(1)(C)\]; and if on December 1, 1974, the local agency administering the plan of a State under part B of title IV of that Act in a subdivision of the State was not the local agency in such subdivision administering the plan of such State under part A of that title \[42 U.S.C. 601 et seq.\], such section 422(b)(1) shall not apply with respect to such local agency, but only so long as such local agency is not the local agency administering the program of the State for the provision of services under title XX of that Act \[42 U.S.C. 1397 et seq.\]."
 
 #### Overpayments or Underpayments
 

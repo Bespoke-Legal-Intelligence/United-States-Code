@@ -2,6 +2,10 @@
 
 Section, act Mar. 16, 1934, ch. 71, §9, 48 Stat. 452, defined subchapter terms.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–264, §1, Dec. 18, 2014, 128 Stat. 2939, provided that: "This Act \[amending sections 718a, 718b, and 718d of this title\] may be cited as the 'Federal Duck Stamp Act of 2014'."
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–266, §1, Aug. 3, 2006, 120 Stat. 670, provided that: "This Act \[enacting sections 718g to 718j of this title, amending sections 718a to 718f of this title, repealing this section and former sections 718g, 718h, and 718j of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Electronic Duck Stamp Act of 2005'."
@@ -22,7 +26,7 @@ Pub. L. 109–266, §§2–9, Aug. 3, 2006, 120 Stat. 670–673, provided that:
 
 "Congress finds that—
 
-&emsp;"(1) on March 16, 1934, Congress passed and President Roosevelt signed the Act of March 16, 1934 (16 U.S.C. 718a \[718\] et seq.) (popularly known as the 'Duck Stamp Act'), which requires all migratory waterfowl hunters 16 years of age or older to buy a Federal migratory bird hunting and conservation stamp annually;
+&emsp;"(1) on March 16, 1934, Congress passed and President Roosevelt signed the Act of March 16, 1934 (16U.S.C. 718a \[718\] et seq.) (popularly known as the 'Duck Stamp Act'), which requires all migratory waterfowl hunters 16 years of age or older to buy a Federal migratory bird hunting and conservation stamp annually;
 
 &emsp;"(2) the Federal Duck Stamp program has become one of the most popular and successful conservation programs ever initiated;
 

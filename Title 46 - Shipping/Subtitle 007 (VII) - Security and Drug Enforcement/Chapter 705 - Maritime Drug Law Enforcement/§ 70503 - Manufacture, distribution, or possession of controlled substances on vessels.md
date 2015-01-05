@@ -10,7 +10,7 @@ Prohibitions.—An individual may not knowingly or intentionally manufacture or 
 
 (b)
 
-Extension Beyond Territorial Jurisdiction.—Subsection (a) applies even though the act is committed outside the territorial jurisdiction of the United States.
+Extension Beyond Territorial Jurisdiction.—Subsection (a) applies even though theact is committed outside the territorial jurisdiction of the United States.
 
 (c)
 

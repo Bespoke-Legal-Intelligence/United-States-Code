@@ -34,5 +34,5 @@ Pub. L. 96–486, §4, Dec. 1, 1980, 94 Stat. 2370, provided: "This Act \[amendi
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–554, §3, July 25, 1958, 72 Stat. 415, provided that: "This Act \[amending this section and sections1332 and 1345 of this title\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\]."
+Pub. L. 85–554, §3, July 25, 1958, 72 Stat. 415, provided that: "This Act \[amending this section and sections 1332 and 1345 of this title\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\]."
 

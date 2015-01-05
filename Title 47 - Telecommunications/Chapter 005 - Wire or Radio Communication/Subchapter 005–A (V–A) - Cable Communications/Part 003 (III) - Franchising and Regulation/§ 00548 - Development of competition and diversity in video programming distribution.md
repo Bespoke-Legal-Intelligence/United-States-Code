@@ -12,7 +12,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (1) Proceeding required
 
-&emsp;Within 180 days after October 5, 1992, the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
+&emsp;Within 180 days after October 5, 1992, the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations tospecify particular conduct that is prohibited by subsection (b) of this section.
 
 #### (2) Minimum contents of regulations
 

@@ -212,15 +212,19 @@ Pub. L. 112–95, title V, §508, Feb. 14, 2012, 126 Stat. 106, provided that: "
 
 #### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
 
-Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 646, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 578.
+
+Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 646.
 
 Pub. L. 111–117, div. A, title I, Dec. 16, 2009, 123 Stat. 3040.
 
 #### Pilot Program for Innovative Financing of Air Traffic Control Equipment
 
-Pub. L. 108–176, title I, §182, Dec. 12, 2003, 117 Stat. 2515, provided that:
+Pub. L. 108–176, title I, §182, Dec. 12, 2003, 117 Stat. 2515, as amended by Pub. L. 113–188, title XV, §1501(d), Nov. 26, 2014, 128 Stat. 2024, provided that:
 
 "(a)
 
@@ -240,11 +244,7 @@ Limitation.—The Administrator may not amend a contract under this section unti
 
 "(e)
 
-Annual Reports.—At the end of each fiscal year during the term of the pilot program, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on how the Administrator has implemented in such fiscal year the pilot program, the number and types of contracts or contract amendments that are entered into under the program, and the program's cost effectiveness.
-
-"(f)
-
-Funding.—Out of amounts appropriated under section 48101 \[probably means section 48101 of title 49, United States Code\] for fiscal year 2004, such sums asmay be necessary shall be available to carry out this section."
+Funding.—Out of amounts appropriated under section 48101 \[probably means section 48101 of title 49, United States Code\] for fiscal year 2004, such sums as may be necessary shall be available to carry out this section."
 
 #### Enhanced Vision Technologies
 

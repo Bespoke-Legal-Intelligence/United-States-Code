@@ -6,7 +6,7 @@ From funds made available to carry out this subpart under section 7103(2) of thi
 
 #### (b) Duties
 
-The Center shall carry out emergency response, anonymous student hotline, consultation, and information and outreach activities with respect to elementary and secondary school safety, including the following:
+The Center shall carry out emergency response, anonymous student hotline, consultation, and information and outreach activitieswith respect to elementary and secondary school safety, including the following:
 
 #### (1) Emergency response
 

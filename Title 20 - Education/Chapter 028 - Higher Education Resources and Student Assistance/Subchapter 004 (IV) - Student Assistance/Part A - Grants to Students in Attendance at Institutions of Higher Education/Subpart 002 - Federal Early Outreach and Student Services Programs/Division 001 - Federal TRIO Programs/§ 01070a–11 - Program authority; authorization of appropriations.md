@@ -70,7 +70,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;Not later than 180 days after August 14, 2008, the Secretary shall issue nonregulatory guidance regarding the rights and responsibilities of applicants with respect to the application and evaluation process for programs and projects assisted under this division, including applicant access to peer review comments. The guidance shall describe the procedures for the submission, processing, and scoring of applications for grants under this division, including—
 
-&emsp;&emsp;&emsp;(i) the responsibility of applicants to submit materials in a timely manner andin accordance with the processes established by the Secretary under the authority of the General Education Provisions Act \[20 U.S.C. 1221 et seq.\];
+&emsp;&emsp;&emsp;(i) the responsibility of applicants to submit materials in a timely manner and in accordance with the processes established by the Secretary under the authority of the General Education Provisions Act \[20 U.S.C. 1221 et seq.\];
 
 &emsp;&emsp;&emsp;(ii) steps the Secretary will take to ensure that the materials submitted by applicants are processed in a proper and timely manner;
 
@@ -330,7 +330,7 @@ For the purpose of this division:
 
 #### (6) Waiver
 
-&emsp;The Secretary may waive the service requirements in subparagraph (A), (B), or (C) of paragraph (5) if the Secretary determines the application of the service requirements to a veteran will defeat the purpose of a program under this division.
+&emsp;The Secretary may waive the service requirements in subparagraph (A), (B), or (C) of paragraph (5) if the Secretary determines theapplication of the service requirements to a veteran will defeat the purpose of a program under this division.
 
 (Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I, §102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat. 1622, 1652; Pub. L. 110–315, title IV, §403(a), Aug. 14, 2008, 122 Stat. 3191; Pub. L. 111–39, title IV, §401(a)(4), July 1, 2009, 123 Stat. 1938.)
 

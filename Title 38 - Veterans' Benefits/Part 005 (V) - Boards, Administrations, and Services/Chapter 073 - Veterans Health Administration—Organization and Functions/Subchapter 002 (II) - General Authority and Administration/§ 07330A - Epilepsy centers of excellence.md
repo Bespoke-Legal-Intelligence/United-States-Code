@@ -68,7 +68,7 @@ National Coordinator for Epilepsy Programs.—(1) To assist the Secretary and th
 
 &emsp;(E) To develop jointly a national consortium of providers with interest in treating epilepsy at Department health care facilities lacking an epilepsy center of excellence in order to ensure better access to state-of-the-art diagnosis, research, clinical care, and education for traumatic brain injury and epilepsy throughout the health care system of the Department. Such consortium should include a designated epilepsy referral clinic in each Veterans Integrated Service Network.
 
-(3) In carrying out duties under this subsection, the national coordinator for epilepsyprograms shall report to the official of the Veterans Health Administration responsible for neurology.
+(3) In carrying out duties under this subsection, the national coordinator for epilepsy programs shall report to the official of the Veterans Health Administration responsible for neurology.
 
 (f)
 

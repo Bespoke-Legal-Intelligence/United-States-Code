@@ -14,7 +14,7 @@ Grants allocated under this chapter shall be available only for approved activit
 
 &emsp;(6) carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under section 12903(c)(3) of this title.
 
-> The Secretary shall establish standards and guidelines for approved activities. The Secretaryshall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
+> The Secretary shall establish standards and guidelines for approved activities. The Secretary shall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
 
 (Pub. L. 101–625, title VIII, §855, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(e), (h)(2), (j)(3), Oct. 28, 1992, 106 Stat. 3808, 3810.)
 

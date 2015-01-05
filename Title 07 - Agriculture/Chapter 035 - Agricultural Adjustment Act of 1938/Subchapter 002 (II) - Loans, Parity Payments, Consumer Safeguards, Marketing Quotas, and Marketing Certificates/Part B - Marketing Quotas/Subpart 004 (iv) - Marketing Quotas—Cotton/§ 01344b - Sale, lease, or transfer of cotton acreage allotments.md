@@ -30,7 +30,7 @@ If the sale or lease occurs during a period in which the farm is covered by a co
 
 #### (h) Exchange of cotton acreage allotments for rice acreage allotments
 
-The Secretary shall by regulations authorize the exchange between farms in the same county, or between farms in adjoining counties within a State, of cotton acreage allotment for rice acreage allotment. Any such exchange shall be made on the basis of application filed with the countycommittee by the owners and operators of the farms, and the transfer of allotment between the farms shall include transfer of the related acreage history for the commodity. The exchange shall be acre for acre or on such other basis as the Secretary determines is fair and reasonable, taking into consideration the comparative productivity of the soil for the farms involved and other relevant factors. No farm from which the entire cotton or rice allotment has been transferred shall be eligible for an allotment of cotton or rice as a new farm within a period of five crop years after the date of such exchange.
+The Secretary shall by regulations authorize the exchange between farms in the same county, or between farms in adjoining counties within a State, of cotton acreage allotment for rice acreage allotment. Any such exchange shall be made on the basis of application filed with the county committee by the owners and operators of the farms, and the transfer of allotment between the farms shall include transfer of the related acreage history for the commodity. The exchange shall be acre for acre or on such other basis as the Secretary determines is fair and reasonable, taking into consideration the comparative productivity of the soil for the farms involved and other relevant factors. No farm from which the entire cotton or rice allotment has been transferred shall be eligible for an allotment of cotton or rice as a new farm within a period of five crop years after the date of such exchange.
 
 #### (i) Applicability to cotton restricted to upland cotton
 
@@ -57,6 +57,10 @@ Pub. L. 91–524, title VI, §601(3), Nov. 30, 1970, 84 Stat. 1372, as amended b
 #### Inapplicability of Section
 
 Section inapplicable to 1984 and subsequent crops of extra long staple cotton, see section 3 of Pub. L. 98–88, set out as a note under section 1342 of this title.
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
 

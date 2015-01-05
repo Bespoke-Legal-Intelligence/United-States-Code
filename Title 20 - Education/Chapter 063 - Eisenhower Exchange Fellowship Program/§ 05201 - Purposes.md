@@ -16,13 +16,13 @@ The purposes of this chapter are—
 
 &emsp;(7) to deepen and expand relationships with European nations developing democracy and self-determination; and
 
-&emsp;(8) to honor President Dwight D. Eisenhower on the occasion of the centennial of his birth through permanent endowment of an established fellowship program, the Eisenhower Exchange Fellowships, to increase educationalopportunities for young leaders in preparation for and enhancement of their professional careers, and advancement of peace through international understanding.
+&emsp;(8) to honor President Dwight D. Eisenhower on the occasion of the centennial of his birth through permanent endowment of an established fellowship program, the Eisenhower Exchange Fellowships, to increase educational opportunities for young leaders in preparation for and enhancement of their professional careers, and advancement of peace through international understanding.
 
 (Pub. L. 101–454, §2, Oct. 24, 1990, 104 Stat. 1063.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–454, Oct. 24, 1990, 104 Stat. 1063, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–454, Oct. 24, 1990, 104Stat. 1063, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

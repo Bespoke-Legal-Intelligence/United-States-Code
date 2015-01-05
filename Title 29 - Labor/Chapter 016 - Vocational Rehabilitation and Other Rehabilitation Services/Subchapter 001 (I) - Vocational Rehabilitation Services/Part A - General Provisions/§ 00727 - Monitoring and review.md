@@ -44,19 +44,21 @@
 
 &emsp;&emsp;(D) reviews of individual case files, including individualized plans for employment and ineligibility determinations; and
 
-&emsp;&emsp;(E) meetings with qualified vocational rehabilitation counselors and other personnel.
+&emsp;&emsp;(E) meetings with qualified vocational rehabilitation counselors and other personnel, including personnel of a client assistance program under section 732 of this title, and past or current recipients of vocational rehabilitation services.
 
 #### (4) Areas of inquiry
 
 &emsp;In conducting the review and monitoring, the Commissioner shall examine—
 
-&emsp;&emsp;(A) the eligibility process;
+&emsp;&emsp;(A) the eligibility process, including the process related to the determination of ineligibility under section 722(a)(5) of this title;
 
-&emsp;&emsp;(B) the provision of services, including, if applicable, the order of selection;
+&emsp;&emsp;(B) the provision of services, including supported employment services and pre-employment transition services, and, if applicable, the order of selection;
 
-&emsp;&emsp;(C) such other areas as may be identified by the public or through meetings with the State Rehabilitation Council, if the State has such a Council or with the commission described in section 721(a)(21)(A)(i) of this title, if the State has such a commission; and
+&emsp;&emsp;(C) such other areas as may be identified by the public or through meetings with the State Rehabilitation Council, if the State has such a Council or with the commission described in section 721(a)(21)(A)(i) of this title, if the State has such a commission;
 
-&emsp;&emsp;(D) such other areas of inquiry as the Commissioner may consider appropriate.
+&emsp;&emsp;(D) data reported under section 721(a)(10)(C)(i) of this title; and
+
+&emsp;&emsp;(E) such other areas of inquiry as the Commissioner may consider appropriate.
 
 #### (5) Reports
 
@@ -66,9 +68,19 @@
 
 The Commissioner shall—
 
-&emsp;(1) provide technical assistance to programs under this subchapter regarding improving the quality of vocational rehabilitation services provided; and
+&emsp;(1) provide technical assistance to programs under this subchapter regarding improving the quality of vocational rehabilitation services provided;
 
-&emsp;(2) provide technical assistance and establish a corrective action plan for a program under this subchapter if the Commissioner finds that the program fails to comply substantially with the provisions of the State plan, or with evaluation standards or performance indicators established under section 726 of this title, in order to ensure that such failure is corrected as soon as practicable.
+&emsp;(2) provide technical assistance and establish a corrective action plan for a program under this subchapter if the Commissioner finds that the program fails to comply substantially with the provisions of the State plan, or with evaluation standards or performance indicators established under section 726 of this title, in order to ensure that such failure is corrected as soon as practicable; and
+
+&emsp;(3) provide technical assistance to programs under this subchapter to—
+
+&emsp;&emsp;(A) promote high-quality employment outcomes for individuals with disabilities;
+
+&emsp;&emsp;(B) integrate veterans who are individuals with disabilities into their communities and to support the veterans to obtain and retain competitive integrated employment;
+
+&emsp;&emsp;(C) develop, improve, and disseminate information on procedures, practices, and strategies, including for the preparation of personnel, to better enable individuals with intellectual disabilities and other individuals with disabilities to participate in postsecondary educational experiences and to obtain and retain competitive integrated employment; and
+
+&emsp;&emsp;(D) apply evidence-based findings to facilitate systemic improvements in the transition of youth with disabilities to postsecondary life.
 
 #### (c) Failure to comply with plan
 
@@ -98,7 +110,7 @@ The Commissioner shall—
 
 #### (2) Submissions and determinations
 
-&emsp;If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return of such submissions and presentations. The court shall thereafter review such new or modified determination.
+&emsp;If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return ofsuch submissions and presentations. The court shall thereafter review such new or modified determination.
 
 #### (3) Standards of review
 
@@ -114,9 +126,27 @@ The Commissioner shall—
 
 &emsp;&emsp;Section 706 of title 5 shall apply to the review of any determination under this subsection, except that the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such determination if the court finds that the determination is not supported by substantial evidence in the record of the proceeding submitted pursuant to paragraph (1), as supplemented by any additional submissions and presentations filed under paragraph (2).
 
-(Pub. L. 93–112, title I, §107, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1157.)
+(Pub. L. 93–112, title I, §107, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1157; amended Pub. L. 113–128, title IV, §417(a), July 22, 2014, 128 Stat. 1654.)
 
 #### Prior Provisions
 
 A prior section 727, Pub. L. 93–112, title I, §107, as added Pub. L. 102–569, title I, §128(a), Oct. 29, 1992, 106 Stat. 4386, related to monitoring and review, prior to the general amendment of this subchapter by Pub. L. 105–220.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(3)(E). Pub. L. 113–128, §417(a)(1)(A), inserted ", including personnel of a client assistance program under section 732 of this title, and past or current recipients of vocational rehabilitation services" before period at end.
+
+Subsec. (a)(4)(A), (B). Pub. L. 113–128, §417(a)(1)(B)(i), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+"(A) the eligibility process;
+
+"(B) the provision of services, including, if applicable, the order of selection;".
+
+Subsec. (a)(4)(D), (E). Pub. L. 113–128, §417(a)(1)(B)(ii)–(iv), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (b)(3). Pub. L. 113–128, §417(a)(2), added par. (3).
+
+#### Definitions of Terms in Pub. L. 113–128
+
+Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(C) evidence that the applicant has the capability to administer the program in accordance with the provisions of this section, which may include a description of any existing programs at the applicant eligible entity (and participating institutions of higher education of the consortium, if applicable) that are targeted to the education of mathematics and science teachers and the number of teachers graduated annually from such programs;
 
-&emsp;&emsp;(D) a description of the academic courses and clinical teaching experiences requiredunder subparagraphs (A)(ii) and (B)(ii) of subsection (a)(3), as applicable, including—
+&emsp;&emsp;(D) a description of the academic courses and clinical teaching experiences required under subparagraphs (A)(ii) and (B)(ii) of subsection (a)(3), as applicable, including—
 
 &emsp;&emsp;&emsp;(i) a description of the undergraduate program that will enable a student to graduate within 5 years with a major in science, technology, engineering, or mathematics and to obtain teacher certification or licensing;
 
@@ -258,7 +258,7 @@ Not later than 4 years after August 9, 2007, the Director shall transmit to the 
 
 #### (l) Evaluation
 
-Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary of Education, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and section 1862n–1a of this title have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
+Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary ofEducation, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and section 1862n–1a of this title have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
 
 (Pub. L. 107–368, §10, Dec. 19, 2002, 116 Stat. 3049; Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 698.)
 

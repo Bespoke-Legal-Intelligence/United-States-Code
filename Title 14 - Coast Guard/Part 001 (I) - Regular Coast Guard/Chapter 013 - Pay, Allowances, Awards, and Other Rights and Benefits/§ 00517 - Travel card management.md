@@ -6,7 +6,7 @@ In General.—The Secretary may require that travel or transportation allowances
 
 (b)
 
-Withholding of Nondisputed Obligations.—The Secretary may also establish requirements similar to those established by the Secretary of Defense pursuant to section 2784a of title 10 for deduction or withholding of pay or retired pay from a Coast Guard employee, member, or retired member who is delinquent in payment under the terms of the contract under which the card was issued and does not dispute the amount of the delinquency.
+Withholding of Nondisputed Obligations.—The Secretary may also establish requirements similar to those established by the Secretary of Defense pursuant to section 2784a of title 10 for deduction or withholding of pay orretired pay from a Coast Guard employee, member, or retired member who is delinquent in payment under the terms of the contract under which the card was issued and does not dispute the amount of the delinquency.
 
 (Added Pub. L. 108–293, title II, §210(a), Aug. 9, 2004, 118 Stat. 1036.)
 

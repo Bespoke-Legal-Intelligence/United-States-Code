@@ -54,7 +54,7 @@ The Federal Home Loan Banks shall be exempt from periodic reporting requirements
 
 #### (e) Tender offers
 
-Commission rules relating to tender offers shall not apply in connection with transactions in the capital stock of the Federal Home Loan Banks.
+Commission rules relating to tender offers shall not apply in connection with transactionsin the capital stock of the Federal Home Loan Banks.
 
 #### (f) Regulations
 

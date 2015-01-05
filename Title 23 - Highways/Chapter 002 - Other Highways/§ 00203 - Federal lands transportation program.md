@@ -8,7 +8,7 @@ Use of Funds.—
 
 In general.—Funds made available under the Federal lands transportation program shall be used by the Secretary of Transportation and the Secretary of the appropriate Federal land management agency to pay the costs of—
 
-&emsp;&emsp;(A) program administration, transportation planning, research, preventive maintenance, engineering, rehabilitation, restoration, construction, and reconstruction ofFederal lands transportation facilities, and—
+&emsp;&emsp;(A) program administration, transportation planning, research, preventive maintenance, engineering, rehabilitation, restoration, construction, and reconstruction of Federal lands transportation facilities, and—
 
 &emsp;&emsp;&emsp;(i) adjacent vehicular parking areas;
 
@@ -32,7 +32,7 @@ In general.—Funds made available under the Federal lands transportation progra
 
 &emsp;&emsp;(C) any transportation project eligible for assistance under this title that is on a public road within or adjacent to, or that provides access to, Federal lands open to the public; and
 
-&emsp;&emsp;(D) not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv).
+&emsp;&emsp;(D) not more $10,000,000 of the amounts made available per fiscal year to carry outthis section for activities eligible under subparagraph (A)(iv).
 
 &emsp;(2)
 
@@ -160,7 +160,7 @@ Review.—A decision to add or remove a facility from the inventory shall not be
 
 (d)
 
-Bicycle Safety.—The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that the bicycle level of service on that roadway is rated B or higher.
+Bicycle Safety.—The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that thebicycle level of service on that roadway is rated B or higher.
 
 (Added Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 486.)
 

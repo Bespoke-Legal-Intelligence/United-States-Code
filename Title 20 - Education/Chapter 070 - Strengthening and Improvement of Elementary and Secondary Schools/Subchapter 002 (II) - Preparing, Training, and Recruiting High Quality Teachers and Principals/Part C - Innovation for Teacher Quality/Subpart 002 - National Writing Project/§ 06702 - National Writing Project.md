@@ -70,7 +70,7 @@ The teacher training programs authorized in subsection (a) of this section shall
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct an independent evaluation by grant or contract of the teacher training programs administered pursuant to this subpart. Such evaluation shall specify the amount of funds expended by the National Writing Project and each contractor receiving assistance under this section for administrative costs. The results of such evaluation shall be made available to the appropriate committees of Congress.
+&emsp;The Secretary shall conduct an independent evaluation by grant or contract of the teacher training programs administered pursuant to this subpart. Such evaluation shall specify the amount of funds expended by the National Writing Project and each contractor receiving assistance under this section for administrative costs. The results of such evaluation shallbe made available to the appropriate committees of Congress.
 
 #### (2) Funding limitation
 

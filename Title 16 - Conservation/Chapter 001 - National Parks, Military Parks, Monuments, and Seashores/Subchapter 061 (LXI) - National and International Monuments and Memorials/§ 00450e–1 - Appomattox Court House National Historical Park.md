@@ -10,7 +10,7 @@ Within the boundaries of the park, the Secretary may acquire lands and interests
 
 #### (c) Owner's reservation of right of use and occupancy of improved property for residential purposes for life or fixed term of years; compensation at fair market value; termination of right retained by owner; "improved property" defined; waiver of rights and benefits by owner
 
-(1) The owner of an improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for himself and his heirs and assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a definite term of not more than twenty-five years or, in lieu thereof, for a term ending at the death ofthe owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless this property is wholly or partially donated to the United States, the Secretary shall pay the owner the fair market value of the property on the date of acquisition, less the fair market value, on that date, of the right retained by the owner. A right retained pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of this section, and it shall terminate by operation of law upon the Secretary's notifying the holder of the right of such determination and tendering to him an amount equal to the fair market value of that portion of the right which remains unexpired.
+(1) The owner of an improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for himself and his heirs and assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a definite term of not more than twenty-five years or, in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless this property is wholly or partially donated to the United States, the Secretary shall pay the owner the fair market value of the property on the date of acquisition, less the fair market value, on that date, of the right retained by the owner. A right retained pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of this section, and it shall terminate by operation of law upon the Secretary's notifying the holder of the right of such determination and tendering to him an amount equal to the fair market value of that portion of the right which remains unexpired.
 
 (2) As used in this section, the term "improved property" means a detached, single-family dwelling, construction of which was begun before June 8, 1976, which is used for noncommercial residential purposes, together with such additional lands or interests therein as the Secretary deems to be reasonably necessary for access thereto, such lands being in the same ownership as the dwelling, together with any structures accessory to the dwelling which are situated on such land.
 
@@ -18,7 +18,7 @@ Within the boundaries of the park, the Secretary may acquire lands and interests
 
 #### (d) Administration
 
-The Secretary shall administer the park in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented, and sections 461 to 467 of this title.
+The Secretary shall administer the park in accordance with the Acts of August 25, 1916 (39 Stat. 535),<sup>1</sup> as amended and supplemented, and August 21, 1935 (49 Stat. 666) <sup>1</sup> as amended.
 
 #### (e) Omitted
 
@@ -27,6 +27,12 @@ The Secretary shall administer the park in accordance with sections 1, 2, 3, and
 There are authorized to be appropriated not to exceed $1,335,000 to carry out the purposes of this section.
 
 (Pub. L. 94–578, title III, §308, Oct. 21, 1976, 90 Stat. 2735; Pub. L. 102–541, §3(a), Oct. 27, 1992, 106 Stat. 3565.)
+
+#### References in Text
+
+The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (d), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a),100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act of August 21, 1935 (49 Stat. 666), referred to in subsec. (d), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Codification
 
@@ -43,4 +49,6 @@ Pub. L. 102–541, §3(a), Oct. 27, 1992, 106 Stat. 3565, provided in part: "Tha
 #### Acquisition of Certain Lands by Donation Only
 
 Pub. L. 102–541, §3(b), Oct. 27, 1992, 106 Stat. 3566, provided that: "Lands included within the boundaries of the Appomattox Court House National Historical Park pursuant to this section \[amending this section and enacting provisions set out above\] may be acquired only by donation."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

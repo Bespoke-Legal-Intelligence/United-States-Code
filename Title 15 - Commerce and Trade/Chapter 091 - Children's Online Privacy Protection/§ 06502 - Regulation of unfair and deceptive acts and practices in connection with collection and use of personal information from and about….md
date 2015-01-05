@@ -78,7 +78,7 @@ Subject to sections 6503 and 6505 of this title, a violation of a regulation pre
 
 #### (d) Inconsistent State law
 
-No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
+No State or local government may impose any liability for commercial activities or actions byoperators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
 
 (Pub. L. 105–277, div. C, title XIII, §1303, Oct. 21, 1998, 112 Stat. 2681–730.)
 

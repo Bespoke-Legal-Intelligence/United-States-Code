@@ -46,7 +46,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, and for purposes of reviewing the performance of the TARP, the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things, or property belonging to or in use by the TARP, any entity establishedby the Secretary under this chapter, any entity that is established by a Federal reserve bank and receives funding from the TARP, or any entity (other than a governmental unit) participating in a program established under the authority of this chapter, and to the officers, employees, directors, independent public accountants, financial advisors and any and all other agents and representatives thereof, at such time as the Comptroller General may request.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, and for purposes of reviewing the performance of the TARP, the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things, or property belonging to or in use by the TARP, any entity established by the Secretary under this chapter, any entity that is established by a Federal reserve bank and receives funding from the TARP, or any entity (other than a governmental unit) participating in a program established under the authority of this chapter, and to the officers, employees, directors, independent public accountants, financial advisors and any and all other agents and representatives thereof, at such time as the Comptroller General may request.
 
 #### (ii) Verification
 
@@ -86,7 +86,7 @@
 
 #### (1) Annual audit
 
-&emsp;The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General. Such reimbursements shall be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31.
+&emsp;The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor bythe Comptroller General. Such reimbursements shall be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31.
 
 #### (2) Authority
 
@@ -116,7 +116,7 @@
 
 &emsp;In conjunction with each annual financial statement issued under this section, the TARP shall—
 
-&emsp;&emsp;(A) state the responsibility of management for establishing and maintaining adequateinternal control over financial reporting; and
+&emsp;&emsp;(A) state the responsibility of management for establishing and maintaining adequate internal control over financial reporting; and
 
 &emsp;&emsp;(B) state its assessment, as of the end of the most recent year covered by such financial statement of the TARP, of the effectiveness of the internal control over financial reporting.
 

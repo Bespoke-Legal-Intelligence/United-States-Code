@@ -9,6 +9,7 @@
 | [<b>9.</b>](Chapter%20009%20-%20Coast%20Guard%20Academy/README.md) | <b>Coast Guard Academy</b> | <b>181</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Personnel/README.md) | <b>Personnel</b> | <b>211</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Pay%2C%20Allowances%2C%20Awards%2C%20and%20Other%20Rights%20and%20Benefits/README.md) | <b>Pay, Allowances, Awards, and Other Rights and Benefits</b> | <b>461</b> |
+| [<b>14.</b>](Chapter%20014%20-%20Coast%20Guard%20Family%20Support%20and%20Child%20Care/README.md) | <b>Coast Guard Family Support and Child Care</b> | <b>531</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Acquisitions/README.md) | <b>Acquisitions</b> | <b>561</b> |
 |  |  |  |
 | [<b>17.</b>](Chapter%20017%20-%20Administration/README.md) | <b>Administration</b> | <b>631</b> |
@@ -18,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–281, title II, §214(b)(2)(A), Dec. 18, 2014, 128 Stat. 3033, added item for chapter 14.
 
 <b>2010</b>—Pub. L. 111–281, title IV, §402(b), Oct. 15, 2010, 124 Stat. 2950, added item for chapter 15.
 
@@ -41,6 +44,7 @@
 - [Chapter 009 - Coast Guard Academy](Chapter%20009%20-%20Coast%20Guard%20Academy/README.md)
 - [Chapter 011 - Personnel](Chapter%20011%20-%20Personnel/README.md)
 - [Chapter 013 - Pay, Allowances, Awards, and Other Rights and Benefits](Chapter%20013%20-%20Pay%2C%20Allowances%2C%20Awards%2C%20and%20Other%20Rights%20and%20Benefits/README.md)
+- [Chapter 014 - Coast Guard Family Support and Child Care](Chapter%20014%20-%20Coast%20Guard%20Family%20Support%20and%20Child%20Care/README.md)
 - [Chapter 015 - Acquisitions](Chapter%20015%20-%20Acquisitions/README.md)
 - [Chapter 017 - Administration](Chapter%20017%20-%20Administration/README.md)
 - [Chapter 018 - Coast Guard Housing Authorities](Chapter%20018%20-%20Coast%20Guard%20Housing%20Authorities/README.md)

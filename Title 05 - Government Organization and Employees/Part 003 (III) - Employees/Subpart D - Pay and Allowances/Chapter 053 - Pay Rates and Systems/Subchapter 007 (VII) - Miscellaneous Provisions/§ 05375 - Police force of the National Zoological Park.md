@@ -18,29 +18,29 @@ General Schedule, referred to in text, is set out under section 5332 of this tit
 
 #### Amendments
 
-<b>1992</b>—Par. (2). Pub. L. 102–378 substituted “GS–8” for “GS–8,”.
+<b>1992</b>—Par. (2). Pub. L. 102–378 substituted "GS–8" for "GS–8,".
 
-<b>1990</b>—Pub. L. 101–263 inserted “the” before “National” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Smithsonian Institution shall fix the per annum rates of basic pay of positions on the police force of the National Zoological Park in accordance with the following provisions:
+<b>1990</b>—Pub. L. 101–263 inserted "the" before "National" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary of the Smithsonian Institution shall fix the per annum rates of basic pay of positions on the police force of the National Zoological Park in accordance with the following provisions:
 
-&emsp;“(1) Private—not more than the rate for GS–7, Step 5;
+&emsp;"(1) Private—not more than the rate for GS–7, Step 5;
 
-&emsp;“(2) Sergeant—not more than the rate for GS–8, Step 5;
+&emsp;"(2) Sergeant—not more than the rate for GS–8, Step 5;
 
-&emsp;“(3) Lieutenant—not more than the rate for GS–9, Step 5;
+&emsp;"(3) Lieutenant—not more than the rate for GS–9, Step 5;
 
-&emsp;“(4) Captain—not more than the rate for GS–10, Step 5.”
+&emsp;"(4) Captain—not more than the rate for GS–10, Step 5."
 
-<b>1975</b>—Pub. L. 94–183 struck out designation “(a)” at beginning.
+<b>1975</b>—Pub. L. 94–183 struck out designation "(a)" at beginning.
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–263, §2, Apr. 4, 1990, 104 Stat. 125, provided that: “The amendments made by section 1 \[amending this section\] shall apply with respect to pay periods beginning after the date of the enactment of this Act \[Apr. 4, 1990\].”
+Pub. L. 101–263, §2, Apr. 4, 1990, 104 Stat. 125, provided that: "The amendments made by section 1 \[amending this section\] shall apply with respect to pay periods beginning after the date of the enactment of this Act \[Apr. 4, 1990\]."
 
 #### Effective Date
 
-Pub. L. 91–34, §3(a), June 30, 1969, 83 Stat. 41, provided that: “The foregoing provisions of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\] shall become effective at the beginning of the first pay period which commences on or after the date of enactment of this Act \[June 30, 1969\].”
+Pub. L. 91–34, §3(a), June 30, 1969, 83 Stat. 41, provided that: "The foregoing provisions of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\] shall become effective at the beginning of the first pay period which commences on or after the date of enactment of this Act \[June 30, 1969\]."
 
 #### Reduction of Basic Pay Rate
 
-Pub. L. 91–34, §3(b), June 30, 1969, 83 Stat. 41, provided that: “No rate of basic pay shall be reduced by reason of the enactment of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\].”
+Pub. L. 91–34, §3(b), June 30, 1969, 83 Stat. 41, provided that: "No rate of basic pay shall be reduced by reason of the enactment of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\]."
 

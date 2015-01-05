@@ -16,7 +16,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the "Secreta
 
 &emsp;(4) to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;
 
-&emsp;(5) to provide United States industry, Government, and educational institutions with anational clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
+&emsp;(5) to provide United States industry, Government, and educational institutions with a national clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
 
 &emsp;(6) to assist industry in the development of measurements, measurement methods, and basic measurement technology;
 
@@ -66,33 +66,91 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(14) perform research to develop standards and test methods to advance the effective use of computers and related systems and to protect the information stored, processed, and transmitted by such systems and to provide advice in support of policies affecting Federal computer and related telecommunications systems;
 
-&emsp;(15) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
+&emsp;(15) on an ongoing basis, facilitate and support the development of a voluntary, consensus-based, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to cost-effectively reduce cyber risks to critical infrastructure (as defined under subsection (e));
 
-&emsp;(16) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
+&emsp;(16) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
 
-&emsp;(17) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
+&emsp;(17) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
 
-&emsp;(18) collect, create, analyze, and maintain specimens of scientific value;
+&emsp;(18) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
 
-&emsp;(19) operate national user facilities;
+&emsp;(19) collect, create, analyze, and maintain specimens of scientific value;
 
-&emsp;(20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+&emsp;(20) operate national user facilities;
 
-&emsp;(21) demonstrate the results of the Institute's activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+&emsp;(21) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
 
-&emsp;(22) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
+&emsp;(22) demonstrate the results of the Institute's activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+
+&emsp;(23) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
 
 #### (d) Management costs
 
 In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278l, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
 
-(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598.)
+#### (e) Cyber risks
+
+#### (1) In general
+
+&emsp;In carrying out the activities under subsection (c)(15), the Director—
+
+&emsp;&emsp;(A) shall—
+
+&emsp;&emsp;&emsp;(i) coordinate closely and regularly with relevant private sector personnel and entities, critical infrastructure owners and operators, and other relevant industry organizations, including Sector Coordinating Councils and Information Sharing and Analysis Centers, and incorporate industry expertise;
+
+&emsp;&emsp;&emsp;(ii) consult with the heads of agencies with national security responsibilities, sector-specific agencies and other appropriate agencies, State and local governments, the governments of other nations, and international organizations;
+
+&emsp;&emsp;&emsp;(iii) identify a prioritized, flexible, repeatable, performance-based, and cost-effective approach, including information security measures and controls, that may be voluntarily adopted by owners and operators of critical infrastructure to help them identify, assess, and manage cyber risks;
+
+&emsp;&emsp;&emsp;(iv) include methodologies—
+
+&emsp;&emsp;&emsp;&emsp;(I) to identify and mitigate impacts of the cybersecurity measures or controls on business confidentiality; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to protect individual privacy and civil liberties;
+
+&emsp;&emsp;&emsp;(v) incorporate voluntary consensus standards and industry best practices;
+
+&emsp;&emsp;&emsp;(vi) align with voluntary international standards to the fullest extent possible;
+
+&emsp;&emsp;&emsp;(vii) prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes; and
+
+&emsp;&emsp;&emsp;(viii) include such other similar and consistent elements as the Director considers necessary; and
+
+&emsp;&emsp;(B) shall not prescribe or otherwise require—
+
+&emsp;&emsp;&emsp;(i) the use of specific solutions;
+
+&emsp;&emsp;&emsp;(ii) the use of specific information or communications technology products or services; or
+
+&emsp;&emsp;&emsp;(iii) that information or communications technology products or services be designed, developed, or manufactured in a particular manner.
+
+#### (2) Limitation
+
+&emsp;Information shared with or provided to the Institute for the purpose of the activities described under subsection (c)(15) shall not be used by any Federal, State, tribal, or local department or agency to regulate the activity of any entity. Nothing in this paragraph shall be construed to modify any regulatory requirement to report or submit information to a Federal, State, tribal, or local department or agency.
+
+#### (3) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Critical infrastructure
+
+&emsp;&emsp;The term "critical infrastructure" has the meaning given the term in section 5195c(e) of title 42.
+
+#### (B) Sector-specific agency
+
+&emsp;&emsp;The term "sector-specific agency" means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.
+
+(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598; Pub. L. 113–274, title I, §101(a), (b), Dec. 18, 2014, 128 Stat. 2972.)
 
 #### References in Text
 
 Section 278g–3 of this title, referred to in subsec. (c)(13), was amended, and no longer defines the term "computer systems".
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(15) to (23). Pub. L. 113–274, §101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
+
+Subsec. (e). Pub. L. 113–274, §101(b), added subsec. (e).
 
 <b>2007</b>—Subsec. (b). Pub. L. 110–69, §3002(c)(2)(A)(i), struck out "and, if appropriate, through other officials," before "is authorized" in introductory provisions.
 

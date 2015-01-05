@@ -132,7 +132,7 @@
 
 &emsp;&emsp;In no case may the cost sharing under paragraph (1)(A) with respect to a non-preferred drug exceed—
 
-&emsp;&emsp;&emsp;(i) in the case of an individual whose family income does not exceed 150 percent of the poverty line applicable to a family of the size involved, the amount of nominal cost sharing (as otherwise determined under section 1396o of this title); or
+&emsp;&emsp;&emsp;(i) in the case of an individual whose family income does not exceed 150 percent of the poverty line applicable to a familyof the size involved, the amount of nominal cost sharing (as otherwise determined under section 1396o of this title); or
 
 &emsp;&emsp;&emsp;(ii) in the case of an individual whose family income exceeds 150 percent of the poverty line applicable to a family of the size involved, 20 percent of the cost of the drug.
 
@@ -174,7 +174,7 @@
 
 #### (B) Notice
 
-&emsp;&emsp;The hospital must inform the beneficiary after receiving an appropriate medical screening examination under section 1395ddof this title and after a determination has been made that the individual does not have an emergency medical condition, but before providing the non-emergency services, of the following:
+&emsp;&emsp;The hospital must inform the beneficiary after receiving an appropriate medical screening examination under section 1395dd of this title and after a determination has been made that the individual does not have an emergency medical condition, but before providing the non-emergency services, of the following:
 
 &emsp;&emsp;&emsp;(i) The hospital may require the payment of the State specified cost sharing before the service can be provided.
 
@@ -190,7 +190,7 @@
 
 #### (A) Individuals with family income between 100 and 150 percent of the poverty line
 
-&emsp;&emsp;In the case of an individual described in subsection (b)(1) who is not described in subparagraph (B), the cost sharing imposed under this subsection may not exceed twice the amount determined to be nominal under section 1396o of this title, subject to the percent of income limitation otherwise applicable under subsection (b)(1)(B)(ii).
+&emsp;&emsp;In the case of an individual described in subsection (b)(1) who is not described in subparagraph (B), the cost sharing imposed under this subsection may not exceed twice the amount determined to be nominal undersection 1396o of this title, subject to the percent of income limitation otherwise applicable under subsection (b)(1)(B)(ii).
 
 #### (B) Application to exempt populations
 
@@ -240,7 +240,7 @@ Subsec. (a)(2), (3). Pub. L. 109–432, §405(a)(1)(B), (C), added par. (2) and 
 
 Subsec. (b)(1), (2). Pub. L. 109–432, §405(a)(2)(A), struck out ", subject to subsections (c)(2) and (e)(2)(A)" after "involved" in introductory provisions.
 
-Subsec. (b)(3)(A)(i). Pub. L. 109–432, §405(a)(4)(A), substituted "child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care" for "aid or assistance is madeavailable under part B of subchapter IV to children in foster care".
+Subsec. (b)(3)(A)(i). Pub. L. 109–432, §405(a)(4)(A), substituted "child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care" for "aid or assistance is made available under part B of subchapter IV to children in foster care".
 
 Subsec. (b)(3)(A)(vi). Pub. L. 109–432, §405(a)(3)(B)(i), added cl. (vi).
 
@@ -264,7 +264,7 @@ Subsec. (e)(2)(A). Pub. L. 109–432, §405(a)(2)(E), substituted "Individuals w
 
 Pub. L. 109–432, §405(a)(1)(E), inserted "who is not described in subparagraph (B)" after "in subsection (b)(1)".
 
-Subsec. (e)(2)(B). Pub. L. 109–432, §405(a)(2)(F), substituted "described in subsection (a)(2)(A) or who is not subject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1)" for "who is otherwise not subject to cost sharing under subsection (b)(3)".
+Subsec. (e)(2)(B). Pub. L. 109–432, §405(a)(2)(F), substituted "described in subsection (a)(2)(A) or who is notsubject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1)" for "who is otherwise not subject to cost sharing under subsection (b)(3)".
 
 Subsec. (e)(2)(C). Pub. L. 109–432, §405(a)(2)(G), inserted "or section 1396o of this title" after "subsection (a)".
 

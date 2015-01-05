@@ -48,7 +48,7 @@ Right to Revert.—Congress retains the right to revert the Daylight Saving Time
 
 Pub. L. 99–359, §2(a), July 8, 1986, 100 Stat. 764, provided that: "The Congress finds—
 
-&emsp;"(1) that various studies of governmental and nongovernmental agencies indicate that daylight saving time over an expanded period would produce a significant energy savings in electrical power consumption;
+&emsp;"(1) that various studies of governmental and nongovernmental agencies indicate that daylight savingtime over an expanded period would produce a significant energy savings in electrical power consumption;
 
 &emsp;"(2) that daylight saving time may yield energy savings in other areas besides electrical power consumption;
 

@@ -40,7 +40,7 @@ In carrying out the flood insurance program the Administrator shall, to the maxi
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as theNational Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Effective dates.—Notwithstanding section 1306(c) of the National Flood Insuran
 
 &emsp;&emsp;"(A) be deemed to take effect on the date that is 30 days after the date on which all obligations for the eligible coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed; and
 
-&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri River that commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
+&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri Riverthat commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
 
 "(c)
 
@@ -140,7 +140,7 @@ Pub. L. 108–264, §2, June 30, 2004, 118 Stat. 712, provided that: "The Congre
 
 &emsp;&emsp;"(B) provides flood risk information to the public;
 
-&emsp;&emsp;"(C) encourages State and local governments to make appropriate land use adjustments to constrictthe development of land which is exposed to flood damage and minimize damage caused by flood losses; and
+&emsp;&emsp;"(C) encourages State and local governments to make appropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses; and
 
 &emsp;&emsp;"(D) makes flood insurance available on a nationwide basis that would otherwise not be available, to accelerate recovery from floods, mitigate future losses, save lives, and reduce the personal and national costs of flood disasters;
 
@@ -384,7 +384,7 @@ Officers.—The chairperson of the Task Force may appoint any officers to carry 
 
 "(h)
 
-Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b)(1) may detail, on a nonreimbursable basis,any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
+Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b)(1) may detail, on a nonreimbursable basis, any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
 
 "(i)
 

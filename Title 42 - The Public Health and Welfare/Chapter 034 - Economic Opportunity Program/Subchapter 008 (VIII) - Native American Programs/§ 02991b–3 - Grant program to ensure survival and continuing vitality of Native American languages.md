@@ -108,7 +108,7 @@ If a tribal organization or other eligible applicant decides that the objectives
 
 &emsp;&emsp;&emsp;(II) from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
 
-&emsp;&emsp;&emsp;(III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act (25 U.S.C. 450f et seq.) or tribal budget priority system.
+&emsp;&emsp;&emsp;(III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in thesettlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act (25 U.S.C. 450f et seq.) or tribal budget priority system.
 
 #### (2) Duration
 

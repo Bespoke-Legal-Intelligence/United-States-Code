@@ -140,7 +140,7 @@ In addition to the authority conferred on the Chief Executive Officer under any 
 
 &emsp;(5) disseminate, without regard to the provisions of section 3204 of title 39, data and information, in such form as the Chief Executive Officer shall determine to be appropriate to public agencies, private organizations, and the general public;
 
-&emsp;(6) collect or compromise all obligations to or held by the Chief Executive Officer and alllegal or equitable rights accruing to the Chief Executive Officer in connection with the payment of obligations in accordance with chapter 37 of title 31 (commonly known as the "Federal Claims Collection Act of 1966");
+&emsp;(6) collect or compromise all obligations to or held by the Chief Executive Officer and all legal or equitable rights accruing to the Chief Executive Officer in connection with the payment of obligations in accordance with chapter 37 of title 31 (commonly known as the "Federal Claims Collection Act of 1966");
 
 &emsp;(7) file a civil action in any court of record of a State having general jurisdiction or in any district court of the United States, with respect to a claim arising under this chapter;
 
@@ -212,7 +212,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### (ii) Total income
 
-&emsp;&emsp;&emsp;The term "total income" has the meaning given the term in section 480(a) of theHigher Education Act of 1965 (20 U.S.C. 1087vv(a)).
+&emsp;&emsp;&emsp;The term "total income" has the meaning given the term in section 480(a) of the Higher Education Act of 1965 (20 U.S.C. 1087vv(a)).
 
 #### (g) Recruitment and public awareness functions
 
@@ -264,7 +264,7 @@ For the effective date of this subsection, referred to in subsec. (g)(3), see Ef
 
 Subsec. (b)(1). Pub. L. 111–13, §1704(1)(B), inserted ", including a plan for having 50 percent of all approved national service positions be full-time positions by 2012," after "a strategic plan".
 
-Subsec. (b)(2)(B). Pub. L. 111–13, §1704(1)(C), inserted ", approved summer of service positions, and approved silver scholar positions" after "approved national service positions".
+Subsec. (b)(2)(B). Pub. L. 111–13, §1704(1)(C), inserted ", approved summer of service positions, and approvedsilver scholar positions" after "approved national service positions".
 
 Subsec. (b)(7) to (9). Pub. L. 111–13, §1704(1)(D), (E), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
 

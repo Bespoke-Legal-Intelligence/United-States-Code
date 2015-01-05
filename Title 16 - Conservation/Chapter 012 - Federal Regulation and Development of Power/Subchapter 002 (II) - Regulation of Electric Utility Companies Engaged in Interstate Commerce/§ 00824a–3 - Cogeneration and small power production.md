@@ -56,7 +56,7 @@ For purposes of this section, the term "incremental cost of alternative electric
 
 (1) Judicial review may be obtained respecting any proceeding conducted by a State regulatory authority or nonregulated electric utility for purposes of implementing any requirement of a rule under subsection (a) of this section in the same manner, and under the same requirements, as judicial review may be obtained under section 2633 of this title in the case of a proceeding to which section 2633 of this title applies.
 
-(2) Any person (including the Secretary) may bring an action against any electric utility, qualifying small power producer, or qualifying cogenerator to enforce any requirement established by a State regulatory authority or nonregulated electric utility pursuant to subsection (f) of this section. Any such action shall be brought only in the manner, and under the requirements, as provided under section 2633 of this title with respect to an action to which section 2633 of this title applies.
+(2) Any person (including the Secretary) may bring an action against any electric utility,qualifying small power producer, or qualifying cogenerator to enforce any requirement established by a State regulatory authority or nonregulated electric utility pursuant to subsection (f) of this section. Any such action shall be brought only in the manner, and under the requirements, as provided under section 2633 of this title with respect to an action to which section 2633 of this title applies.
 
 #### (h) Commission enforcement
 
@@ -72,7 +72,7 @@ For purposes of this section, the term "incremental cost of alternative electric
 
 #### (i) Federal contracts
 
-No contract between a Federal agency and any electric utility for the sale of electric energy by such Federal agency for resale which is enteredinto after November 9, 1978, may contain any provision which will have the effect of preventing the implementation of any rule under this section with respect to such utility. Any provision in any such contract which has such effect shall be null and void.
+No contract between a Federal agency and any electric utility for the sale of electric energy by such Federal agency for resale which is entered into after November 9, 1978, may contain any provision which will have the effect of preventing the implementation of any rule under this section with respect to such utility. Any provision in any such contract which has such effect shall be null and void.
 
 #### (j) New dams and diversions
 
@@ -100,7 +100,7 @@ For purposes of this section, the term "new dam or diversion" means a dam or div
 
 #### (l) Definitions
 
-For purposes of this section, the terms "small power production facility", "qualifying small power production facility", "qualifying small power producer", "primary energy source", "cogeneration facility", "qualifying cogeneration facility", and "qualifying cogenerator" have the respective meanings provided for such terms under section 3(17) and (18) of the Federal Power Act \[16 U.S.C. 796(17), (18)\].
+For purposes of this section, the terms "small power production facility", "qualifying smallpower production facility", "qualifying small power producer", "primary energy source", "cogeneration facility", "qualifying cogeneration facility", and "qualifying cogenerator" have the respective meanings provided for such terms under section 3(17) and (18) of the Federal Power Act \[16 U.S.C. 796(17), (18)\].
 
 #### (m) Termination of mandatory purchase and sale requirements
 
@@ -172,7 +172,7 @@ For purposes of this section, the terms "small power production facility", "qual
 
 #### References in Text
 
-The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41Stat. 1063, as amended, which is classified generally to this chapter (§791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter (§791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
@@ -208,7 +208,7 @@ Pub. L. 99–495, §8(b), Oct. 16, 1986, 100 Stat. 1250, provided that:
 
 "(2) Subsection (j) shall not apply to the project if the application for license or exemption for the project was filed, and accepted for filing by the Commission, before the enactment of this Act \[Oct. 16, 1986\].
 
-"(3) Paragraphs (1) and (3) of such subsection (j) shall not apply if the application for the license or exemption for the project was filed before the enactment of this Act \[Oct. 16, 1986\] and accepted for filing by the Commission (in accordance with the Commission's regulations and procedures in effect on January 1, 1986, including those relating to the requirement for environmental consultation) within 3 years after such enactment.
+"(3) Paragraphs (1) and (3) of such subsection (j) shall not apply if the application for the license or exemption for the project was filed before the enactment ofthis Act \[Oct. 16, 1986\] and accepted for filing by the Commission (in accordance with the Commission's regulations and procedures in effect on January 1, 1986, including those relating to the requirement for environmental consultation) within 3 years after such enactment.
 
 "(4)(A) Paragraph (3) of subsection (j) shall not apply for projects where the license or exemption application was filed after enactment of this Act \[Oct. 16, 1986\] if, based on a petition filed by the applicant for such project within 18 months after such enactment, the Commission determines (after public notice and opportunity for public comment of at least 45 days) that the applicant has demonstrated that he had committed (prior to the enactment of this Act) substantial monetary resources directly related to the development of the project and to the diligent and timely completion of all requirements of the Commission for filing an acceptable application for license or exemption. Such petition shall be publicly available and shall be filed in such form as the Commission shall require by rule issued within 120 days after the enactment of this Act. The public notice required under this subparagraph shall include written notice by the petitioner to affected Federal and State agencies.
 

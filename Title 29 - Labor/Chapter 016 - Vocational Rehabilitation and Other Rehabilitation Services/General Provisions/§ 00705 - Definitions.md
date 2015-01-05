@@ -42,13 +42,13 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(I) to determine whether an individual is eligible for vocational rehabilitation services; and
 
-&emsp;&emsp;&emsp;(II) to assign priority for an order of selection described in section 721(a)(5)(A) of this title in the States that use an order of selection pursuant to section 721(a)(5)(A) of this title; and
+&emsp;&emsp;&emsp;(II) to assign priority for an order of selection described in section 721(a)(5)(A) ofthis title in the States that use an order of selection pursuant to section 721(a)(5)(A) of this title; and
 
 &emsp;&emsp;(ii) to the extent necessary, the provision of appropriate assessment activities to obtain necessary additional data to make such determination and assignment;
 
 &emsp;&emsp;(B) to the extent additional data is necessary to make a determination of the employment outcomes, and the nature and scope of vocational rehabilitation services, to be included in the individualized plan for employment of an eligible individual, a comprehensive assessment to determine the unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, including the need for supported employment, of the eligible individual, which comprehensive assessment—
 
-&emsp;&emsp;&emsp;(i) is limited to information that is necessary to identify the rehabilitation needsof the individual and to develop the individualized plan for employment of the eligible individual;
+&emsp;&emsp;&emsp;(i) is limited to information that is necessary to identify the rehabilitation needs of the individual and to develop the individualized plan for employment of the eligible individual;
 
 &emsp;&emsp;&emsp;(ii) uses, as a primary source of such information, to the maximum extent possible and appropriate and in accordance with confidentiality requirements—
 
@@ -56,27 +56,35 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) such information as can be provided by the individual and, where appropriate, by the family of the individual;
 
-&emsp;&emsp;&emsp;(iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual; and
+&emsp;&emsp;&emsp;(iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual;
 
-&emsp;&emsp;&emsp;(iv) may include, to the degree needed, an appraisal of the patterns of work behavior of the individual and services needed for the individual to acquire occupational skills, and to develop work attitudes, work habits, work tolerance, and social and behavior patterns necessary for successful job performance, including the utilization of work in real job situations to assess and develop the capacities of the individual to perform adequately in a work environment;
+&emsp;&emsp;&emsp;(iv) may include, to the degree needed, an appraisal of the patterns of work behavior of the individual and services needed for the individual to acquire occupational skills, and to develop work attitudes, work habits, work tolerance, and social and behavior patterns necessary for successful job performance, including the utilization of work in real job situations to assess and develop the capacities of the individual to perform adequately in a work environment; and
+
+&emsp;&emsp;&emsp;(v) to the maximum extent possible, relies on information obtained from experiences in integrated employment settings in the community, and other integrated community settings;
 
 &emsp;&emsp;(C) referral, for the provision of rehabilitation technology services to the individual, to assess and develop the capacities of the individual to perform in a work environment; and
 
 &emsp;&emsp;(D) an exploration of the individual's abilities, capabilities, and capacity to perform in work situations, which shall be assessed periodically during trial work experiences, including experiences in which the individual is provided appropriate supports and training.
 
-#### (3) Assistive technology device
+#### (3) Assistive technology terms
 
-&emsp;The term "assistive technology device" has the meaning given such term in section 3002 of this title, except that the reference in such section to the term "individuals with disabilities" shall be deemed to mean more than one individual with a disability as defined in paragraph (20)(A).
+#### (A) Assistive technology
 
-#### (4) Assistive technology service
+&emsp;&emsp;The term "assistive technology" has the meaning given such term in section 3002 of this title.
 
-&emsp;The term "assistive technology service" has the meaning given such term in section 3002 of this title, except that the reference in such section—
+#### (B) Assistive technology device
 
-&emsp;&emsp;(A) to the term "individual with a disability" shall be deemed to mean an individual with a disability, as defined in paragraph (20)(A); and
+&emsp;&emsp;The term "assistive technology device" has the meaning given such term in section 3002 of this title, except that the reference in such section to the term "individuals with disabilities" shall be deemed to mean more than 1 individual with a disability as defined in paragraph (20)(A)).<sup>1</sup>
 
-&emsp;&emsp;(B) to the term "individuals with disabilities" shall be deemed to mean more than one such individual.
+#### (C) Assistive technology service
 
-#### (5) Community rehabilitation program
+&emsp;&emsp;The term "assistive technology service" has the meaning given such term in section 3002 of this title, except that the reference in such section—
+
+&emsp;&emsp;&emsp;(i) to the term "individual with a disability" shall be deemed to mean an individual with a disability, as defined in paragraph (20)(A); and
+
+&emsp;&emsp;&emsp;(ii) to the term "individuals with disabilities" shall be deemed to mean more than 1 such individual.
+
+#### (4) Community rehabilitation program
 
 &emsp;The term "community rehabilitation program" means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
 
@@ -108,11 +116,33 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(N) supported employment services and extended services;
 
-&emsp;&emsp;(O) services to family members when necessary to the vocational rehabilitation of the individual;
+&emsp;&emsp;(O) customized employment;
 
-&emsp;&emsp;(P) personal assistance services; or
+&emsp;&emsp;(P) services to family members when necessary to the vocational rehabilitation of the individual;
 
-&emsp;&emsp;(Q) services similar to the services described in one of subparagraphs (A) through (P).
+&emsp;&emsp;(Q) personal assistance services; or
+
+&emsp;&emsp;(R) services similar to the services described in one of subparagraphs (A) through (Q).
+
+#### (5) Competitive integrated employment
+
+&emsp;The term "competitive integrated employment" means work that is performed on a full-time or part-time basis (including self-employment)—
+
+&emsp;&emsp;(A) for which an individual—
+
+&emsp;&emsp;&emsp;(i) is compensated at a rate that—
+
+&emsp;&emsp;&emsp;&emsp;(I)(aa) shall be not less than the higher of the rate specified in section 206(a)(1) of this title or the rate specified in the applicable State or local minimum wage law; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) is not less than the customary rate paid by the employer for the same or similar work performed by other employees who are not individuals with disabilities, and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills; or
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an individual who is self-employed, yields an income that is comparable to the income received by other individuals who are not individuals with disabilities, and who are self-employed in similar occupations or on similar tasks and who have similar training, experience, and skills; and
+
+&emsp;&emsp;&emsp;(ii) is eligible for the level of benefits provided to other employees;
+
+&emsp;&emsp;(B) that is at a location where the employee interacts with other persons who are not individuals with disabilities (not including supervisory personnel or individuals who are providing services to such employee) to the same extent that individuals who are not individuals with disabilities and who are in comparable positions interact with other persons; and
+
+&emsp;&emsp;(C) that, as appropriate, presents opportunities for advancement that are similar to those for other employees who are not individuals with disabilities and who have similar positions.
 
 #### (6) Construction; cost of construction
 
@@ -130,7 +160,21 @@ For the purposes of this chapter:
 
 &emsp;&emsp;The term "cost of construction" includes architects' fees and the cost of acquisition of land in connection with construction but does not include the cost of offsite improvements.
 
-#### (7) Repealed. Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(1)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415
+#### (7) Customized employment
+
+&emsp;The term "customized employment" means competitive integrated employment, for an individual with a significant disability, that is based on an individualized determination of the strengths, needs, and interests of the individual with a significant disability, is designed to meet the specific abilities of the individual with a significant disability and the business needs of the employer, and is carried out through flexible strategies, such as—
+
+&emsp;&emsp;(A) job exploration by the individual;
+
+&emsp;&emsp;(B) working with an employer to facilitate placement, including—
+
+&emsp;&emsp;&emsp;(i) customizing a job description based on current employer needs or on previously unidentified and unmet employer needs;
+
+&emsp;&emsp;&emsp;(ii) developing a set of job duties, a work schedule and job arrangement, and specifics of supervision (including performance evaluation and review), and determining a job location;
+
+&emsp;&emsp;&emsp;(iii) representation by a professional chosen by the individual, or self-representation of the individual, in working with an employer to facilitate placement; and
+
+&emsp;&emsp;&emsp;(iv) providing services and supports at the job location.
 
 #### (8) Designated State agency; designated State unit
 
@@ -162,7 +206,7 @@ For the purposes of this chapter:
 
 #### (B) Illegal use of drugs
 
-&emsp;&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
+&emsp;&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Suchterm does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
 
 #### (11) Employment outcome
 
@@ -172,13 +216,13 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(B) satisfying the vocational outcome of supported employment; or
 
-&emsp;&emsp;(C) satisfying any other vocational outcome the Secretary may determine to be appropriate (including satisfying the vocational outcome of self-employment, telecommuting, or business ownership),
+&emsp;&emsp;(C) satisfying any other vocational outcome the Secretary of Education may determine to be appropriate (including satisfying the vocational outcome of customized employment, self-employment, telecommuting, or business ownership),
 
 > &emsp;in a manner consistent with this chapter.
 
 #### (12) Establishment of a community rehabilitation program
 
-&emsp;The term "establishment of a community rehabilitation program" includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary may determine, in accordance with regulations the Secretary shall prescribe, in order to prevent impairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
+&emsp;The term "establishment of a community rehabilitation program" includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary of Education may determine, in accordance with regulations the Secretary of Education shall prescribe, in order to prevent impairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
 
 #### (13) Extended services
 
@@ -202,7 +246,7 @@ For the purposes of this chapter:
 
 #### (C) Relationship to expenditures by a political subdivision
 
-&emsp;&emsp;For the purpose of determining the non-Federal share with respect to a State, expenditures by a political subdivision thereof or by a local agency shall be regarded as expenditures by such State, subject to such limitations and conditions as the Secretary shall by regulation prescribe.
+&emsp;&emsp;For the purpose of determining the non-Federal share with respect to a State, expenditures by a political subdivision thereof or by a local agency shall be regarded as expenditures by such State, subject to such limitations and conditions as the Secretary of Education shall by regulation prescribe.
 
 #### (15) Governor
 
@@ -236,9 +280,17 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(B) independent living skills training;
 
-&emsp;&emsp;(C) peer counseling (including cross-disability peer counseling); and
+&emsp;&emsp;(C) peer counseling (including cross-disability peer counseling);
 
-&emsp;&emsp;(D) individual and systems advocacy.
+&emsp;&emsp;(D) individual and systems advocacy; and
+
+&emsp;&emsp;(E) services that—
+
+&emsp;&emsp;&emsp;(i) facilitate the transition of individuals with significant disabilities from nursing homes and other institutions to home and community-based residences, with the requisite supports and services;
+
+&emsp;&emsp;&emsp;(ii) provide assistance to individuals with significant disabilities who are at risk of entering institutions so that the individuals may remain in the community; and
+
+&emsp;&emsp;&emsp;(iii) facilitate the transition of youth who are individuals with significant disabilities, who were eligible for individualized education programs under section 614(d) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)), and who have completed their secondary education or otherwise left school, to postsecondary life.
 
 #### (18) Independent living services
 
@@ -292,11 +344,11 @@ For the purposes of this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The terms "Indian", "American Indian", and "Indian American" mean an individual who is a member of an Indian tribe.
+&emsp;&emsp;The terms "Indian", "American Indian", and "Indian American" mean an individual who is a member of an Indian tribe and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602).
 
 #### (B) Indian tribe
 
-&emsp;&emsp;The term "Indian tribe" means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]).
+&emsp;&emsp;The term "Indian tribe" means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]) and a tribal organization (as defined in section 450b(l) of title 25).
 
 #### (20) Individual with a disability
 
@@ -378,7 +430,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) whose vocational rehabilitation can be expected to require multiple vocational rehabilitation services over an extended period of time; and
 
-&emsp;&emsp;&emsp;(iii) who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, intellectual disability, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), paraplegia, quadriplegia, and other spinal cord conditions, sickle cell anemia, specific learning disability, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessmentfor determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (B) of paragraph (2) to cause comparable substantial functional limitation.
+&emsp;&emsp;&emsp;(iii) who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, intellectual disability, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), paraplegia, quadriplegia, and other spinal cord conditions, sickle cell anemia, specific learning disability, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessment for determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (B) of paragraph (2) to cause comparable substantial functional limitation.
 
 #### (B) Independent living services and centers for independent living
 
@@ -408,15 +460,15 @@ For the purposes of this chapter:
 
 #### (23) Institution of higher education
 
-&emsp;The term "institution of higher education" has the meaning given the term in section 1001 of title 20.
+&emsp;The term "institution of higher education" has the meaning given the term in section 1002 of title 20.
 
 #### (24) Local agency
 
 &emsp;The term "local agency" means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
 
-#### (25) Local workforce investment board
+#### (25) Local workforce development board
 
-&emsp;The term "local workforce investment board" means a local workforce investment board established under section 117 of the Workforce Investment Act of 1998 \[29 U.S.C. 2832\].
+&emsp;The term "local workforce development board" means a local board, as defined in section 3 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3102\].
 
 #### (26) Nonprofit
 
@@ -456,71 +508,105 @@ For the purposes of this chapter:
 
 #### (28) Personal assistance services
 
-&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individualwith a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
-#### (29) Public or nonprofit
+#### (30) <sup>2</sup> Pre-employment transition services
+
+&emsp;The term "pre-employment transition services" means services provided in accordance with section 733 of this title.
+
+#### (31) Public or nonprofit
 
 &emsp;The term "public or nonprofit", used with respect to an agency or organization, includes an Indian tribe.
 
-#### (30) Rehabilitation technology
+#### (32) Rehabilitation technology
 
 &emsp;The term "rehabilitation technology" means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of and address the barriers confronted by individuals with disabilities in areas which include education, rehabilitation, employment, transportation, independent living, and recreation. The term includes rehabilitation engineering, assistive technology devices, and assistive technology services.
 
-#### (31) Secretary
+#### (33) Secretary
 
-&emsp;The term "Secretary", except when the context otherwise requires, means the Secretary of Education.
+&emsp;Unless where the context otherwise requires, the term "Secretary"—
 
-#### (32) State
+&emsp;&emsp;(A) used in subchapter I, III, IV, V, VI, or part B of subchapter VII, means the Secretary of Education; and
+
+&emsp;&emsp;(B) used in subchapter II or part A of subchapter VII, means the Secretary of Health and Human Services.
+
+#### (34) State
 
 &emsp;The term "State" includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-#### (33) State workforce investment board
+#### (35) State workforce development board
 
-&emsp;The term "State workforce investment board" means a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 \[29 U.S.C. 2821\].
+&emsp;The term "State workforce development board" means a State board, as defined in section 3 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3102\].
 
-#### (34) Statewide workforce investment system
+#### (36) Statewide workforce development system
 
-&emsp;The term "statewide workforce investment system" means a system described in section 111(d)(2) of the Workforce Investment Act of 1998 \[29 U.S.C. 2821(d)(2)\].
+&emsp;The term "statewide workforce development system" means a workforce development system, as defined in section 3 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3102\].
 
-#### (35) Supported employment
+#### (37) Student with a disability
 
 #### (A) In general
 
-&emsp;&emsp;The term "supported employment" means competitive work in integrated work settings, or employment in integrated work settings in which individuals are working toward competitive work, consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individuals, for individuals with the most significant disabilities—
+&emsp;&emsp;The term "student with a disability" means an individual with a disability who—
 
-&emsp;&emsp;&emsp;(i)(I) for whom competitive employment has not traditionally occurred; or
+&emsp;&emsp;&emsp;(i)(I)(aa) is not younger than the earliest age for the provision of transition services under section 614(d)(1)(A)(i)(VIII) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)(1)(A)(i)(VIII)); or
 
-&emsp;&emsp;&emsp;(II) for whom competitive employment has been interrupted or intermittent as a result of a significant disability; and
+&emsp;&emsp;&emsp;(bb) if the State involved elects to use a lower minimum age for receipt of pre-employment transition services under this chapter, is not younger than that minimum age; and
 
-&emsp;&emsp;&emsp;(ii) who, because of the nature and severity of their disability, need intensive supported employment services for the period, and any extension, described in paragraph (36)(C) and extended services after the transition described in paragraph (13)(C) in order to perform such work.
+&emsp;&emsp;&emsp;(II)(aa) is not older than 21 years of age; or
 
-#### (B) Certain transitional employment
+&emsp;&emsp;&emsp;(bb) if the State law for the State provides for a higher maximum age for receipt of services under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), is not older than that maximum age; and
 
-&emsp;&emsp;Such term includes transitional employment for persons who are individuals with the most significant disabilities due to mental illness.
+&emsp;&emsp;&emsp;(ii)(I) is eligible for, and receiving, special education or related services under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.); or
 
-#### (36) Supported employment services
+&emsp;&emsp;&emsp;(II) is an individual with a disability, for purposes of section 794 of this title.
 
-&emsp;The term "supported employment services" means ongoing support services and other appropriate services needed to support and maintain an individual with a most significant disability in supported employment, that—
+#### (B) Students with disabilities
 
-&emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive employment;
+&emsp;&emsp;The term "students with disabilities" means more than 1 student with a disability.
+
+#### (38) Supported employment
+
+&emsp;The term "supported employment" means competitive integrated employment, including customized employment, or employment in an integrated work setting in which individuals are working on a short-term basis toward competitive integrated employment, that is individualized and customized consistent with the strengths, abilities, interests, and informed choice of the individuals involved, for individuals with the most significant disabilities—
+
+&emsp;&emsp;(A)(i) for whom competitive integrated employment has not historically occurred; or
+
+&emsp;&emsp;(ii) for whom competitive integrated employment has been interrupted or intermittent as a result of a significant disability; and
+
+&emsp;&emsp;(B) who, because of the nature and severity of their disability, need intensive supported employment services and extended services after the transition described in paragraph (13)(C), in order to perform the work involved.
+
+#### (39) Supported employment services
+
+&emsp;The term "supported employment services" means ongoing support services, including customized employment, needed to support and maintain an individual with a most significant disability in supported employment, that—
+
+&emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive integrated employment;
 
 &emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specified in an individualized plan for employment; and
 
-&emsp;&emsp;(C) are provided by the designated State unit for a period of time not to extend beyond 18 months, unless under special circumstances the eligible individual and the rehabilitation counselor or coordinator involved jointly agree to extend the time in order to achieve the employment outcome identified in the individualized plan for employment.
+&emsp;&emsp;(C) are provided by the designated State unit for a period of not more than 24 months, except that period may be extended, if necessary, in order to achieve the employment outcome identified in the individualized plan for employment.
 
-#### (37) Transition services
-
-&emsp;The term "transition services" means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
-
-#### (38) Vocational rehabilitation services
+#### (40) Vocational rehabilitation services
 
 &emsp;The term "vocational rehabilitation services" means those services identified in section 723 of this title which are provided to individuals with disabilities under this chapter.
 
-#### (39) Workforce investment activities
+#### (41) Workforce investment activities
 
-&emsp;The term "workforce investment activities" means workforce investment activities, as defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\], that are carried out under that Act.
+&emsp;The term "workforce investment activities" means workforce investment activities, as defined in section 3 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3102\], that are carried out under that Act.
 
-(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L.105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643.)
+#### (42) Youth with a disability
+
+#### (A) In general
+
+&emsp;&emsp;The term "youth with a disability" means an individual with a disability who—
+
+&emsp;&emsp;&emsp;(i) is not younger than 14 years of age; and
+
+&emsp;&emsp;&emsp;(ii) is not older than 24 years of age.
+
+#### (B) Youth with disabilities
+
+&emsp;&emsp;The term "youth with disabilities" means more than 1 youth with a disability.
+
+(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §404, July 22, 2014, 128 Stat. 1632.)
 
 #### References in Text
 
@@ -528,7 +614,9 @@ The Controlled Substances Act, referred to in par. (10)(B), is title II of Pub. 
 
 The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Workforce Investment Act of 1998, referred to in par. (39), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (37)(A)(i)(II)(bb), (ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+The Workforce Innovation and Opportunity Act, referred to in par. (41), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of this title, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Prior Provisions
 
@@ -541,6 +629,76 @@ A prior section 7 of Pub. L. 93–112 was renumbered section 8 and is classified
 Another prior section 7 of Pub. L. 93–112 was classified to section 706 of this title prior to repeal by Pub. L. 105–220.
 
 #### Amendments
+
+<b>2014</b>—Par. (2)(B)(v). Pub. L. 113–128, §404(1), added cl. (v).
+
+Par. (3). Pub. L. 113–128, §404(2), added par. (3) and struck out former par. (3) which defined "assistive technology device".
+
+Par. (4). Pub. L. 113–128, §404(3), redesignated par. (5) as (4).
+
+Pub. L. 113–128, §404(2), struck out par. (4) which defined "assistive technology service".
+
+Par. (4)(O). Pub. L. 113–128, §404(4)(B), added subpar. (O). Former subpar. (O) redesignated (P).
+
+Par. (4)(P), (Q). Pub. L. 113–128, §404(4)(A), redesignated subpars. (O) and (P) as (P) and (Q), respectively. Former subpar. (Q) redesignated (R).
+
+Par. (4)(R). Pub. L. 113–128, §404(4)(C), substituted "(Q)" for "(P)".
+
+Pub. L. 113–128, §404(4)(A), redesignated subpar. (Q) as (R).
+
+Par. (5). Pub. L. 113–128, §404(5), added par. (5). Former par. (5) redesignated (4).
+
+Par. (6)(B). Pub. L. 113–128, §404(6), substituted "includes architects' fees" for "includes architects' fees".
+
+Par. (7). Pub. L. 113–128, §404(7), added par. (7).
+
+Par. (11)(C). Pub. L. 113–128, §404(8), inserted "of Education" after "Secretary" and "customized employment," after "vocational outcome of".
+
+Par. (12). Pub. L. 113–128, §404(9), inserted "of Education" after "Secretary" in two places.
+
+Par. (14)(C). Pub. L. 113–128, §404(10), inserted "of Education" after "Secretary".
+
+Par. (17)(E). Pub. L. 113–128, §404(11), added subpar. (E).
+
+Par. (18). Pub. L. 113–128, §404(12), substituted "term 'independent living services' includes—" for "term 'independent living services' includes—" in introductory provisions.
+
+Par. (19)(A). Pub. L. 113–128, §404(13)(A), inserted "and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602)" before period at end.
+
+Par. (19)(B). Pub. L. 113–128, §404(13)(B), inserted "and a tribal organization (as defined in section 450b(l) of title 25)" before period at end.
+
+Par. (23). Pub. L. 113–128, §404(14), substituted "section 1002" for "section 1001".
+
+Par. (25). Pub. L. 113–128, §404(15), added par. (25) and struck out former par. (25) which defined "local workforce investment board".
+
+Par. (29). Pub. L. 113–128, §404(17), redesignated par. (29) as (31).
+
+Par. (30). Pub. L. 113–128, §404(18), added par. (30). Former par. (30) redesignated (32).
+
+Pars. (31), (32). Pub. L. 113–128, §404(17), redesignated pars. (29) and (30) as (31) and (32), respectively. Former pars. (31) and (32) redesignated (33) and (34), respectively.
+
+Par. (33). Pub. L. 113–128, §404(19), added par. (33) and struck out former par. (33) which defined "Secretary".
+
+Pub. L. 113–128, §404(17), redesignated par. (31) as (33). Former par. (33) redesignated (35).
+
+Par. (34). Pub. L. 113–128, §404(17), redesignated par. (32) as (34). Former par. (34) redesignated (36).
+
+Pars. (35), (36). Pub. L. 113–128, §404(20), added pars. (35) and (36) and struck out former pars. (35) and (36), which defined "State workforce investment board" and"statewide workforce investment system", respectively.
+
+Pub. L. 113–128, §404(17), redesignated pars. (33) and (34) as (35) and (36), respectively. Former pars. (35) and (36) redesignated (38) and (39), respectively.
+
+Par. (37). Pub. L. 113–128, §404(16), (21), added par. (37) and struck out former par. (37) which defined "transition services".
+
+Pars. (38), (39). Pub. L. 113–128, §404(22), added pars. (38) and (39) and struck out former pars. (38) and (39) which defined "supported employment" and "supported employment services", respectively.
+
+Pub. L. 113–128, §404(17), redesignated pars. (35) and (36) as (38) and (39), respectively. Former pars. (38) and (39) redesignated (40) and (41), respectively.
+
+Par. (40). Pub. L. 113–128, §404(17), redesignated par. (38) as (40).
+
+Par. (41). Pub. L. 113–128, §404(23), substituted "as defined in section 3 of the Workforce Innovation and Opportunity Act" for "as defined in section 101 of the Workforce Investment Act of 1998".
+
+Pub. L. 113–128, §404(17), redesignated par. (39) as (41).
+
+Par. (42). Pub. L. 113–128, §404(24), added par. (42).
 
 <b>2010</b>—Par. (21)(A)(iii). Pub. L. 111–256 substituted "intellectual disability," for "mental retardation,".
 
@@ -581,4 +739,8 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Definitions
 
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
+
+<i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. There is no par. (29).</i>
 

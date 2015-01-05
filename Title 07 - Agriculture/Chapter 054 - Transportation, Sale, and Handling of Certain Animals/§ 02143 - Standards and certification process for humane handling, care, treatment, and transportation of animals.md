@@ -36,7 +36,7 @@
 
 &emsp;(E) that exceptions to such standards may be made only when specified by research protocol and that any such exception shall be detailed and explained in a report outlined under paragraph (7) and filed with the Institutional Animal Committee.
 
-(4) The Secretary shall also promulgate standards to govern the transportation in commerce,and the handling, care, and treatment in connection therewith, by intermediate handlers, air carriers, or other carriers, of animals consigned by any dealer, research facility, exhibitor, operator of an auction sale, or other person, or any department, agency, or instrumentality of the United States or of any State or local government, for transportation in commerce. The Secretary shall have authority to promulgate such rules and regulations as he determines necessary to assure humane treatment of animals in the course of their transportation in commerce including requirements such as those with respect to containers, feed, water, rest, ventilation, temperature, and handling.
+(4) The Secretary shall also promulgate standards to govern the transportation in commerce, and the handling, care, and treatment in connection therewith, by intermediate handlers, air carriers, or other carriers, of animals consigned by any dealer, research facility, exhibitor, operator of an auction sale, or other person, or any department, agency, or instrumentality of the United States or of any State or local government, for transportation in commerce. The Secretary shall have authority to promulgate such rules and regulations as he determines necessary to assure humane treatment of animals in the course of their transportation in commerce including requirements such as those with respect to containers, feed, water, rest, ventilation, temperature, and handling.
 
 (5) In promulgating and enforcing standards established pursuant to this section, the Secretary is authorized and directed to consult experts, including outside consultants where indicated.
 
@@ -98,7 +98,7 @@
 
 &emsp;(iv) include any other information pertinent to the activities of the Committee.
 
-(B) Such report shall remain on file for at least three years at the research facility andshall be available for inspection by the Animal and Plant Health Inspection Service and any funding Federal agency.
+(B) Such report shall remain on file for at least three years at the research facility and shall be available for inspection by the Animal and Plant Health Inspection Service and any funding Federal agency.
 
 (C) In order to give the research facility an opportunity to correct any deficiencies or deviations discovered by reason of paragraph (3), the Committee shall notify the administrative representative of the research facility of any deficiencies or deviations from the provisions of this chapter. If, after notification and an opportunity for correction, such deficiencies or deviations remain uncorrected, the Committee shall notify (in writing) the Animal and Plant Health Inspection Service and the funding Federal agency of such deficiencies or deviations.
 
@@ -106,7 +106,7 @@
 
 #### (c) Federal research facilities; establishment, composition, and responsibilities of Federal Committee
 
-In the case of Federal research facilities, a Federal Committee shall be established and shall have the same composition and responsibilities provided in subsection (b) of this section, except that the Federal Committee shall report deficiencies or deviations to the head of the Federal agency conducting the research rather than to the Animal and Plant Health Inspection Service. The head of the Federal agency conducting the research shall be responsible for—
+In the case of Federal research facilities, a Federal Committee shall be established and shall have the same composition and responsibilities provided in subsection (b), except that the Federal Committee shall report deficiencies or deviations to the head of the Federal agency conducting the research rather than to the Animal and Plant Health Inspection Service. The head of the Federal agency conducting the research shall be responsible for—
 
 &emsp;(1) all corrective action to be taken at the facility; and
 
@@ -120,13 +120,13 @@ Each research facility shall provide for the training of scientists, animal tech
 
 &emsp;(2) research or testing methods that minimize or eliminate the use of animals or limit animal pain or distress;
 
-&emsp;(3) utilization of the information service at the National Agricultural Library, established under subsection (e) of this section; and
+&emsp;(3) utilization of the information service at the National Agricultural Library, established under subsection (e); and
 
 &emsp;(4) methods whereby deficiencies in animal care and treatment should be reported.
 
 #### (e) Establishment of information service at National Agricultural Library; service functions
 
-The Secretary shall establish an information service at the National Agricultural Library. Such service shall, in cooperation with the National Library of Medicine, provide information—
+The Secretary shall establish an information service at the National Agricultural Library.Such service shall, in cooperation with the National Library of Medicine, provide information—
 
 &emsp;(1) pertinent to employee training;
 
@@ -148,7 +148,7 @@ No dogs or cats, or additional kinds or classes of animals designated by regulat
 
 #### (g) Age of animals delivered to registered research facilities; power of Secretary to designate additional classes of animals and age limits
 
-No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any person to any intermediate handler or carrier for transportation in commerce except to registered research facilities if they are less than such age asthe Secretary may by regulation prescribe. The Secretary shall designate additional kinds and classes of animals and may prescribe different ages for particular kinds or classes of dogs, cats, or designated animals, for the purposes of this section, when he determines that such action is necessary or adequate to assure their humane treatment in connection with their transportation in commerce.
+No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any person to any intermediate handler or carrier for transportation in commerce except to registered research facilities if they are less than such age as the Secretary may by regulation prescribe. The Secretary shall designate additional kinds and classes of animals and may prescribe different ages for particular kinds or classes of dogs, cats, or designated animals, for the purposes of this section, when he determines that such action is necessary or adequate to assure their humane treatment in connection with their transportation in commerce.
 
 #### (h) Prohibition of C.O.D. arrangements for transportation of animals in commerce; exceptions
 

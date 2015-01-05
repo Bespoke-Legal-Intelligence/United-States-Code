@@ -32,7 +32,7 @@ The Secretary is authorized to establish and carry out a national teacher recrui
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to support activities to encourage and support teachers seeking advanced certification or advanced credentialing through high quality professional teacher enhancement programs designed to improve teaching and learning.
+&emsp;The Secretary is authorized to support activities to encourage and support teachersseeking advanced certification or advanced credentialing through high quality professional teacher enhancement programs designed to improve teaching and learning.
 
 #### (2) Implementation
 
@@ -76,7 +76,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(II) another public or private entity that provides such professional development;
 
-&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
+&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 <sup>2</sup> et seq.), Head Start agencies, or private organizations; and
 
 &emsp;&emsp;&emsp;(iii) to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
 
@@ -186,7 +186,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (i) Annual reports
 
-&emsp;&emsp;&emsp;Each partnership receiving a grant under this subsection shall report annually to the Secretary on the partnership's progress toward attaining the achievement indicators.
+&emsp;&emsp;&emsp;Each partnership receiving a grant under this subsection shall report annually tothe Secretary on the partnership's progress toward attaining the achievement indicators.
 
 #### (ii) Termination
 
@@ -248,7 +248,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (2) Membership
 
-&emsp;The panel shall be composed of 12 members appointed by the Secretary. The Secretaryshall appoint the members from among practitioners and experts with experience relating to teacher mobility, such as teachers, members of teacher certification or licensing bodies, faculty of institutions of higher education that prepare teachers, and State policymakers with such experience.
+&emsp;The panel shall be composed of 12 members appointed by the Secretary. The Secretary shall appoint the members from among practitioners and experts with experience relating to teacher mobility, such as teachers, members of teacher certification or licensing bodies, faculty of institutions of higher education that prepare teachers, and State policymakers with such experience.
 
 #### (3) Period of appointment; vacancies
 
@@ -308,7 +308,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### References in Text
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(2)(A)(ii), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(2)(A)(ii), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -317,4 +317,6 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(7),
 A prior section 6651, Pub. L. 89–10, title II, §2211, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3632, related to higher education activities, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 <i><sup>1</sup></i><i> So in original. There is no closing parenthesis.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

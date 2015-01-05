@@ -42,7 +42,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 (2) The Director shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives a report on the transfer of sums described in paragraph (1) each time that authority is exercised.
 
-(June 20, 1949, ch. 227, §5, formerly §6, 63 Stat. 211; June 26, 1951, ch. 151, 65 Stat. 89; renumbered §5, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 88–448, title IV, §402(a)(28), Aug. 19, 1964, 78 Stat. 494; Pub. L. 97–89, title V, §502, Dec. 4, 1981, 95 Stat. 1153; Pub. L. 98–215, title IV, §401, Dec. 9, 1983, 97 Stat. 1477; Pub. L. 103–178, title V, §501(1), Dec. 3, 1993, 107 Stat. 2038; Pub. L. 105–107, title IV, §401(a), Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title IV,§§401, 403(a)(1), Oct. 20, 1998, 112 Stat. 2403, 2404; Pub. L. 106–567, title IV, §405(a), (b), Dec. 27, 2000, 114 Stat. 2849; Pub. L. 107–306, title VIII, §841(c), Nov. 27, 2002, 116 Stat. 2431; Pub. L. 108–177, title III, §377(b)(1), Dec. 13, 2003, 117 Stat. 2630; Pub. L. 111–259, title IV, §421, title VIII, §802(1), Oct. 7, 2010, 124 Stat. 2727, 2746.)
+(June 20, 1949, ch. 227, §5, formerly §6, 63 Stat. 211; June 26, 1951, ch. 151, 65 Stat. 89; renumbered §5, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 88–448, title IV, §402(a)(28), Aug. 19, 1964, 78 Stat. 494; Pub. L. 97–89, title V, §502, Dec. 4, 1981, 95 Stat. 1153; Pub. L. 98–215, title IV, §401, Dec. 9, 1983, 97 Stat. 1477; Pub. L. 103–178, title V, §501(1), Dec. 3, 1993, 107 Stat. 2038; Pub. L. 105–107, title IV, §401(a), Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title IV, §§401, 403(a)(1), Oct. 20, 1998, 112 Stat. 2403, 2404; Pub. L. 106–567, title IV, §405(a), (b), Dec. 27, 2000, 114 Stat. 2849; Pub. L. 107–306, title VIII, §841(c), Nov. 27, 2002, 116 Stat. 2431; Pub. L. 108–177, title III, §377(b)(1), Dec. 13, 2003, 117 Stat. 2630; Pub. L. 111–259, title IV, §421, title VIII, §802(1), Oct. 7, 2010, 124 Stat. 2727, 2746.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Subsec. (a)(4). Pub. L. 105–272, §401, substituted "and the protection of cur
 
 <b>1997</b>—Pub. L. 105–107 designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively, of subsec. (a), in par. (5) substituted semicolon for "without regard to limitations on expenditures contained in the Act of June 30, 1932, as amended: <i>Provided</i>, That in each case the Director shall certify that exception from such limitations is necessary to the successful performance of the Agency's functions or to the security of its activities; and", and added par. (7) and subsec. (b).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–178 substituted "Office of Management and Budget" for "Bureau of the Budget" and "subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title" for "sections 403 and 405 of this title".
+<b>1993</b>—Subsec. (a). Pub. L. 103–178 substituted "Office of Management and Budget" for "Bureau of the Budget" and "subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) and (d) of section 403–3 ofthis title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title" for "sections 403 and 405 of this title".
 
 <b>1983</b>—Subsec. (f). Pub. L. 98–215 added subsec. (f).
 
@@ -102,9 +102,13 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 113–6, div. C, title VIII, §8045(b), Mar. 26, 2013, 127 Stat. 308, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 113–235, div. C, title VIII, §8045(b), Dec. 16, 2014, 128 Stat. 2264, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. C, title VIII, §8045(b), Jan. 17, 2014, 128 Stat. 115.
+
+Pub. L. 113–6, div. C, title VIII, §8045(b), Mar. 26, 2013, 127 Stat. 308.
 
 Pub. L. 112–74, div. A, title VIII, §8045(b), Dec. 23, 2011, 125 Stat. 817.
 

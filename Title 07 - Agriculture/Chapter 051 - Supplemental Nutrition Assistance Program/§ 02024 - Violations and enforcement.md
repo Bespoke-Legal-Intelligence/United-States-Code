@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter, the Secretary may provide f
 
 #### (b) Unauthorized use, transfer, acquisition, alteration, or possession of benefits
 
-(1) Subject to the provisions of paragraph (2) of this subsection, whoever knowingly uses, transfers, acquires, alters, or possesses benefits in any manner contrary to this chapter or the regulations issued pursuant to this chapter shall, if such benefits are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall, if such benefits are of a value of $100 or more, but less than $5,000, or if the item used, transferred, acquired, altered, or possessed is an <sup>1</sup> benefit that has a value of $100 or more, but less than $5,000, be guilty of a felony and shall, upon the first conviction thereof, be fined not more than $10,000 or imprisoned for not more than five years, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not less than six months nor more than five years and may also be fined not more than $10,000 or, if such benefits are of a value of less than $100, or if the item used, transferred, acquired, altered, or processed is an <sup>1</sup> benefit that has a value of less than $100, shall be guilty of a misdemeanor, and, upon the first conviction thereof, shall be fined not more than $1,000 or imprisoned for not more than one year, or both, and upon the second and any subsequent conviction thereof, shall be imprisoned for not more than one year and may also be fined not more than $1,000. In addition to such penalties, any person convicted of a felony or misdemeanor violation under this subsection may be suspended by the court from participation in the supplemental nutrition assistance program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title.
+(1) Subject to the provisions of paragraph (2) of this subsection, whoever knowingly uses, transfers, acquires, alters, or possesses benefits in any manner contrary to this chapter or the regulations issued pursuant to this chapter shall, if such benefits are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall, if such benefits are of a value of $100 or more, but less than $5,000, or if the item used, transferred, acquired, altered, or possessed is a benefit that has a value of $100 or more, but less than $5,000, be guilty of a felony and shall, upon the first conviction thereof, be fined not more than $10,000 or imprisoned for not more than five years, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not less than six months nor more than five years and may also be fined not more than $10,000 or, if such benefits are of a value of less than $100, or if the item used, transferred, acquired, altered, or processed <sup>1</sup> is a benefit that has a value of less than $100, shall be guilty of a misdemeanor, and, upon the first conviction thereof, shall be fined not more than $1,000 or imprisoned for not more than one year, or both, and upon the second and any subsequent conviction thereof, shall be imprisoned for not more than one year and may also be fined not more than $1,000. In addition to such penalties, any person convicted of a felony or misdemeanor violation under this subsection may be suspended by the court from participation in the supplemental nutrition assistance program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title.
 
 (2) In the case of any individual convicted of an offense under paragraph (1) of this subsection, the court may permit such individual to perform work approved by the court for the purpose of providing restitution for losses incurred by the United States and the State agency as a result of the offense for which such individual was convicted. If the court permits such individual to perform such work and such individual agrees thereto, the court shall withhold the imposition of the sentence on the condition that such individual perform the assigned work. Upon the successful completion of the assigned work the court may suspend such sentence.
 
@@ -26,11 +26,11 @@ The Secretary may subject to forfeiture and denial of property rights any nonfoo
 
 #### (1) In general
 
-&emsp;In imposing a sentence on a person convicted of an offense in violation of subsection (b) or (c) of this section, a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
+&emsp;In imposing a sentence on a person convicted of an offense in violation of subsection\(b) or (c), a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
 
 #### (2) Property subject to forfeiture
 
-&emsp;All property, real and personal, used in a transaction or attempted transaction, to commit, or to facilitate the commission of, a violation (other than a misdemeanor) of subsection (b) or (c) of this section, or proceeds traceable to a violation of subsection (b) or (c) of this section, shall be subject to forfeiture to the United States under paragraph (1).
+&emsp;All property, real and personal, used in a transaction or attempted transaction, to commit, or to facilitate the commission of, a violation (other than a misdemeanor) of subsection (b) or (c), or proceeds traceable to a violation of subsection (b) or (c), shall be subject to forfeiture to the United States under paragraph (1).
 
 #### (3) Interest of owner
 
@@ -48,13 +48,15 @@ The Secretary may subject to forfeiture and denial of property rights any nonfoo
 
 &emsp;&emsp;(D) fourth, by the Secretary to carry out the approval, reauthorization, and compliance investigations of retail stores and wholesale food concerns under section 2018 of this title.
 
-(Pub. L. 88–525, §15, Aug. 31, 1964, 78 Stat. 708; Pub. L. 91–671, §8, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–347, §2, July 12, 1974, 88 Stat. 341; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 975; Pub. L. 96–249, title I, §124, May 26, 1980, 94 Stat. 363; Pub. L. 97–98, title XIII, §1324, Dec. 22, 1981, 95 Stat. 1288; Pub. L. 101–624, title XVII, §§1747(a), (c), 1748, 1749, Nov. 28, 1990, 104 Stat. 3796, 3797; Pub. L. 104–193, title VIII, §846, Aug. 22, 1996, 110 Stat. 2334; Pub. L. 110–234, title IV, §§4001(b), 4115(b)(10), May 22, 2008 122 Stat. 1092, 1107; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4115(b)(10), June 18, 2008, 122 Stat. 1664, 1853, 1869.)
+(Pub. L. 88–525, §15, Aug. 31, 1964, 78 Stat. 708; Pub. L. 91–671, §8, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–347, §2, July 12, 1974, 88 Stat. 341; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 975; Pub. L. 96–249, title I, §124, May 26, 1980, 94 Stat. 363; Pub. L. 97–98, title XIII, §1324, Dec. 22, 1981, 95 Stat. 1288; Pub. L. 101–624, title XVII, §§1747(a), (c), 1748, 1749, Nov. 28, 1990, 104 Stat. 3796, 3797; Pub. L. 104–193, title VIII, §846, Aug. 22, 1996, 110 Stat. 2334; Pub. L. 110–234, title IV, §§4001(b), 4115(b)(10), May 22, 2008 122 Stat. 1092, 1107; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4115(b)(10), June 18, 2008, 122 Stat. 1664, 1853, 1869; Pub. L. 113–79, title IV, §4030(h), Feb. 7, 2014, 128 Stat. 814.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–79 substituted "a benefit" for "an benefit" in two places.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §4115(b)(10)(A), substituted "benefits" for "coupons".
 
@@ -86,7 +88,7 @@ Subsec. (c). Pub. L. 101–624, §1749, substituted "$20,000" for "$10,000" in t
 
 Subsec. (g). Pub. L. 101–624, §1747(c), substituted ", authorization cards or access devices, or anything of value obtained by use of an access device, in any manner contrary to" for "or authorization cards in any manner not authorized by".
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–98 designated existing provision as par. (1), inserted provisions specifying the minimum and maximum sentences for the second and any subsequent convictions for felonies and misdemeanors and provision authorizing the court to suspend a person convicted of a felony or misdemeanor under this subsection from participation in the food stamp program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title, and added par. (2).
+<b>1981</b>—Subsec. (b). Pub. L. 97–98 designated existing provision as par. (1), inserted provisions specifying the minimum and maximum sentences for the second and any subsequent convictions for felonies and misdemeanors and provision authorizing the court to suspend a person convicted of a felony or misdemeanor under this subsection from participation in the food stamp program for an additional period of up to eighteen months consecutive to that period of suspensionmandated by section 2015(b)(1) of this title, and added par. (2).
 
 Subsec. (c). Pub. L. 97–98 inserted provisions specifying the minimum and maximum sentences for the second and any subsequent convictions for felonies and misdemeanors and provision authorizing the court to suspend a person convicted of a felony or misdemeanor under this subsection from participation in the food stamp program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title.
 
@@ -114,5 +116,5 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "possessed".</i>
 

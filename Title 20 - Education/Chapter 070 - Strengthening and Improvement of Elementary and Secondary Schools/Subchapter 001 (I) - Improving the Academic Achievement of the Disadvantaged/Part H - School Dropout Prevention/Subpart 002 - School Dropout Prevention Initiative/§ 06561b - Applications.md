@@ -32,7 +32,7 @@ To receive—
 
 &emsp;&emsp;(F) provide an assurance that funds provided under this subpart will supplement, and not supplant, other State and local funds available for school dropout prevention and reentry programs; and
 
-&emsp;&emsp;(G) describe how the activities to be assisted conform with research knowledgeabout school dropout prevention and reentry.
+&emsp;&emsp;(G) describe how the activities to be assisted conform with research knowledge about school dropout prevention and reentry.
 
 #### (2) Local educational agency
 

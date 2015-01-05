@@ -8,7 +8,7 @@ With respect to the frequencies made available for immediate reallocation pursua
 
 With respect to the frequencies made available for reallocation pursuant to section 923(e)(3) of this title, the Commission shall, not later than 1 year after receipt of the initial reallocation report required by section 923(a) of this title, prepare, submit to the President and the Congress, and implement, a plan for the allocation and assignment under the 1934 Act \[47 U.S.C. 151 et seq.\] of such frequencies. Such plan shall—
 
-&emsp;(1) not propose the immediate allocation and assignment of all such frequencies but, takinginto account the timetable recommended by the Secretary pursuant to section 923(e) of this title, shall propose—
+&emsp;(1) not propose the immediate allocation and assignment of all such frequencies but, taking into account the timetable recommended by the Secretary pursuant to section 923(e) of this title, shall propose—
 
 &emsp;&emsp;(A) gradually to allocate and assign the frequencies remaining, after making the reservation required by subparagraph (B), over the course of 10 years beginning on the date of submission of such plan; and
 
@@ -38,7 +38,7 @@ With respect to the frequencies made available for reallocation pursuant to sect
 
 &emsp;The plan prepared by the Commission under paragraph (1) shall consist of a schedule of allocation and assignment of those frequencies in accordance with section 309(j) of the 1934 Act in time for the assignment of those licenses or permits by September 30, 2002.
 
-(Pub. L. 102–538, title I, §115, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 385; amended Pub. L. 105–33, title III, §3002(e)(4), Aug. 5, 1997, 111 Stat. 265.)
+(Pub. L. 102–538, title I, §115, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat.385; amended Pub. L. 105–33, title III, §3002(e)(4), Aug. 5, 1997, 111 Stat. 265.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Pen Registers.—Upon the request of an attorney for the Government or an officer of a law enforcement agency authorized to install and use a pen register under this chapter, a provider of wire or electronic communication service, landlord, custodian, or other person shall furnish such investigative or law enforcement officer forthwith all information, facilities, and technical assistance necessary to accomplish the installation of the pen register unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such assistance is directed by a court order as provided in section 3123(b)(2) of this title.
+Pen Registers.—Upon the request of an attorney for the Government or an officer of a lawenforcement agency authorized to install and use a pen register under this chapter, a provider of wire or electronic communication service, landlord, custodian, or other person shall furnish such investigative or law enforcement officer forthwith all information, facilities, and technical assistance necessary to accomplish the installation of the pen register unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such assistance is directed by a court order as provided in section 3123(b)(2) of this title.
 
 (b)
 
@@ -24,7 +24,7 @@ Defense.—A good faith reliance on a court order under this chapter, a request 
 
 Communications Assistance Enforcement Orders.—Pursuant to section 2522, an order may be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1870; amended Pub. L. 100–690, title VII, §§7040, 7092(b), (d), Nov. 18, 1988, 102 Stat. 4399, 4411; Pub. L. 101–647, title XXXV, §3575, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–414, titleII, §201(b)(2), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 107–56, title II, §216(c)(5), (6), Oct. 26, 2001, 115 Stat. 290.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1870; amended Pub. L. 100–690, title VII, §§7040, 7092(b), (d), Nov. 18, 1988, 102 Stat. 4399, 4411; Pub. L. 101–647, title XXXV, §3575, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–414, title II, §201(b)(2), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 107–56, title II, §216(c)(5), (6), Oct. 26, 2001, 115 Stat. 290.)
 
 #### References in Text
 

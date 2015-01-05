@@ -8,7 +8,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (1) Application
 
-&emsp;To be eligible to participate in the Premier Certified Lenders Program established under subsection (a) of this section, a certified development company shall prepare and submit tothe Administration an application at such time, in such manner, and containing such information as the Administration may require.
+&emsp;To be eligible to participate in the Premier Certified Lenders Program established under subsection (a) of this section, a certified development company shall prepare and submit to the Administration an application at such time, in such manner, and containing such information as the Administration may require.
 
 #### (2) Designation
 
@@ -44,7 +44,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;Each loss reserve established under paragraph (1) shall be comprised of—
 
-&emsp;&emsp;(A) segregated funds on deposit in an account or accounts with a federally insured depository institution or institutions selected by the company, subject to a collateral assignment in favor of, and in a format acceptable to, the Administration;
+&emsp;&emsp;(A) segregated funds on deposit in an account or accounts with a federally insureddepository institution or institutions selected by the company, subject to a collateral assignment in favor of, and in a format acceptable to, the Administration;
 
 &emsp;&emsp;(B) irrevocable letter or letters of credit, with a collateral assignment in favor of, and a commercially reasonable format acceptable to, the Administration; or
 
@@ -118,7 +118,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (E) Risk management
 
-&emsp;&emsp;If a qualified high loss reserve PCL fails to meet the requirement of subparagraph (F)(iii) during any period for which an election is in effect under subparagraph (A) and such failure continues for 180 days, the requirements of paragraphs (2), (4), and (6) shall apply to such PCL as of the end of such 180-day period and such PCL shall make the contribution to its loss reserve described in subparagraph (D). The Administrator may waive the requirements of this subparagraph.
+&emsp;&emsp;If a qualified high loss reserve PCL fails to meet the requirement of subparagraph\(F)(iii) during any period for which an election is in effect under subparagraph (A) and such failure continues for 180 days, the requirements of paragraphs (2), (4), and (6) shall apply to such PCL as of the end of such 180-day period and such PCL shall make the contribution to its loss reserve described in subparagraph (D). The Administrator may waive the requirements of this subparagraph.
 
 #### (F) Qualified high loss reserve PCL
 
@@ -356,7 +356,7 @@ Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted "other lenders, spec
 
 #### Change of Name
 
-Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date of 1997 Amendment
 

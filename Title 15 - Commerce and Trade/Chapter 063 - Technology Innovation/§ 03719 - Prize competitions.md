@@ -90,7 +90,7 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 &emsp;Participants shall be required to obtain liability insurance or demonstrate financial responsibility, in amounts determined by the head of an agency, for claims by—
 
-&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additionalinsured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
+&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
 
 &emsp;&emsp;(B) the Federal Government for damage or loss to Government property resulting from such an activity.
 
@@ -138,7 +138,7 @@ The head of an agency may enter into an agreement with a private, nonprofit enti
 
 #### (1) In general
 
-&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The head of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.
+&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. Thehead of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.
 
 #### (2) Availability of funds
 
@@ -170,7 +170,7 @@ The head of an agency may enter into an agreement with a private, nonprofit enti
 
 #### (n) General Service <sup>1</sup> Administration assistance
 
-Not later than 180 days after January 4, 2011, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit ofthe marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
+Not later than 180 days after January 4, 2011, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit of the marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
 
 #### (o) Compliance with existing law
 

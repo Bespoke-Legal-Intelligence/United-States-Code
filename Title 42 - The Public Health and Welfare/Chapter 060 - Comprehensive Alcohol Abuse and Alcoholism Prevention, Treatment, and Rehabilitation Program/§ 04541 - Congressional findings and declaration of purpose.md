@@ -8,7 +8,7 @@
 
 &emsp;(3) it is estimated that alcoholism and other alcohol related problems cost the United States over $43,000,000,000 annually in lost production, medical and public assistance expenditures, police and court costs, and motor vehicle and other accidents;
 
-&emsp;(4) alcohol abuse is found with increasing frequency among persons who are multiple-drug abusers and among former heroin userswho are being treated in methadone maintenance programs;
+&emsp;(4) alcohol abuse is found with increasing frequency among persons who are multiple-drug abusers and among former heroin users who are being treated in methadone maintenance programs;
 
 &emsp;(5) alcohol abuse is being discovered among growning numbers of youth;
 

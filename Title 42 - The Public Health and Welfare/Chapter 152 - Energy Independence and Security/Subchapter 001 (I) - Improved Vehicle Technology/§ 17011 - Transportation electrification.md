@@ -110,7 +110,7 @@ In this section:
 
 #### (2) Priority
 
-&emsp;In providing grants under this subsection, the Secretary shall give priority to large-scaleprojects and large-scale aggregators of projects.
+&emsp;In providing grants under this subsection, the Secretary shall give priority to large-scale projects and large-scale aggregators of projects.
 
 #### (3) Cost sharing
 

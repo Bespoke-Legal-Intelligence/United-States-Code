@@ -18,7 +18,7 @@ Disability and nonregular service retirees.—In the case of a person who is ent
 
 &emsp;&emsp;&emsp;(ii)
 
-Members as of enactment of flat-rate reduction.—In the case of a person who first became a member of a uniformed service before March 1, 1990, the reduction shall be in whichever of the alternative reduction amounts is more favorable to that person.
+Members as of enactment of flat-rate reduction.—In the case of a person who first became a member of a uniformed service before March 1, 1990, the reductionshall be in whichever of the alternative reduction amounts is more favorable to that person.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -106,7 +106,7 @@ Reduction for Insurable Interest Coverage.—
 
 &emsp;(1)
 
-Required reduction in retired pay.—The retired pay of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title shall be reduced as follows:
+Required reduction in retired pay.—The retired pay of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(4) <sup>1</sup> of this title shall be reduced as follows:
 
 &emsp;&emsp;(A)
 
@@ -122,7 +122,7 @@ Limitation on total reduction.—The total reduction under paragraph (1) may not
 
 &emsp;(3)
 
-Duration of reduction.—The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired pay changes his election under section 1450(f) of this title.
+Duration of reduction.—The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) <sup>1</sup> of this title or until the person receiving retired pay changes his election under section 1450(f) of this title.
 
 &emsp;(4)
 
@@ -130,7 +130,7 @@ Rule for computation.—Computation of a member's retired pay for purposes of th
 
 &emsp;(5)
 
-Rule for designation of new insurable interest beneficiary following death of original beneficiary.—The Secretary of Defense shall prescribe in regulations premiumswhich a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
+Rule for designation of new insurable interest beneficiary following death of original beneficiary.—The Secretary of Defense shall prescribe in regulations premiums which a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
 
 &emsp;&emsp;(A) The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as the new beneficiary designated under the election.
 
@@ -184,7 +184,7 @@ Conditions.—Notwithstanding any other provision of this subchapter but subject
 
 &emsp;&emsp;(B)
 
-Effective date.—Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation in the Plan, such person may discontinue making such deposits effective on such date.
+Effective date.—Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation inthe Plan, such person may discontinue making such deposits effective on such date.
 
 &emsp;&emsp;(C)
 
@@ -216,7 +216,7 @@ Resumption of participation in plan.—
 
 &emsp;&emsp;(A)
 
-Conditions for resumption.—A person described in paragraph (1) who discontinuedparticipation in the Plan may elect to participate again in the Plan if—
+Conditions for resumption.—A person described in paragraph (1) who discontinued participation in the Plan may elect to participate again in the Plan if—
 
 &emsp;&emsp;&emsp;(i) after having discontinued participation in the Plan the Secretary of Veterans Affairs reduces that person's service-connected disability rating to a rating of less than total; and
 
@@ -264,9 +264,11 @@ Years and Age 70.—Effective October 1, 2008, no reduction may be made under th
 
 &emsp;(2) the month during which the participant attains 70 years of age.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct.9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782.)
 
 #### References in Text
+
+Section 1450(a)(4) of this title, referred to in subsec. (c)(1), (3), was redesignated section 1450(a)(5) of this title by Pub. L. 113–291, div. A, title VI, §624(a)(1)(A), Dec. 19, 2014, 128 Stat. 3403.
 
 Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (h)(2)(A), was set out as a note under section 1401a of this title prior to repeal by Pub. L. 104–201, div. A, title VI, §631(b), Sept. 23, 1996, 110 Stat. 2549.
 
@@ -423,4 +425,6 @@ Amount of recomputed premium.—The amount of an SBP premium recomputed under th
 "(4)
 
 SBP premium defined.—For purposes of this subsection, the term 'SBP premium' means a reduction in retired pay under section 1452 of title 10, United States Code."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

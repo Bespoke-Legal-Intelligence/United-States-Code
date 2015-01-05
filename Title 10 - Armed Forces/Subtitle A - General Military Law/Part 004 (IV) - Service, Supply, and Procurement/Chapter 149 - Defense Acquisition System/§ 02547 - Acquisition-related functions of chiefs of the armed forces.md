@@ -8,7 +8,7 @@ Performance of Certain Acquisition-related Functions.—The Secretary of Defense
 
 &emsp;(2) The coordination of measures to control requirements creep in the defense acquisition system.
 
-&emsp;(3) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
+&emsp;(3) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver bestvalue in meeting the approved military requirements.
 
 &emsp;(4) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
 

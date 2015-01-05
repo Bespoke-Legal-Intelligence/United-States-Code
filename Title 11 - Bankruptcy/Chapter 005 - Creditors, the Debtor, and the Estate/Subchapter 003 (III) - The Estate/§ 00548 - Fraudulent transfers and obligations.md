@@ -70,7 +70,7 @@
 
 &emsp;(B) fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78l and 78o(d)) or under section 6 of the Securities Act of 1933 (15 U.S.C. 77f).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2600; Pub. L. 97–222, §5, July 27, 1982, 96 Stat. 236; Pub. L.98–353, title III, §§394, 463, July 10, 1984, 98 Stat. 365, 378; Pub. L. 99–554, title II, §283(n), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–311, title I, §104, title II, §204, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title V, §501(b)(5), Oct. 22, 1994, 108 Stat. 4142; Pub. L. 105–183, §§2, 3(a), June 19, 1998, 112 Stat. 517; Pub. L. 109–8, title IX, §907(f), (o)(4)–(6), title XIV, §1402, Apr. 20, 2005, 119 Stat. 177, 182, 214.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2600; Pub. L. 97–222, §5, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§394, 463, July 10, 1984, 98 Stat. 365, 378; Pub. L. 99–554, title II, §283(n), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–311, title I, §104, title II, §204, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title V, §501(b)(5), Oct. 22, 1994, 108 Stat. 4142; Pub. L. 105–183, §§2, 3(a), June 19, 1998, 112 Stat. 517; Pub. L. 109–8, title IX, §907(f), (o)(4)–(6), title XIV, §1402, Apr. 20, 2005, 119 Stat. 177, 182, 214.)
 
 #### Historical and Revision Notes
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 105–183 applicable to any case brought under an applicabl
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

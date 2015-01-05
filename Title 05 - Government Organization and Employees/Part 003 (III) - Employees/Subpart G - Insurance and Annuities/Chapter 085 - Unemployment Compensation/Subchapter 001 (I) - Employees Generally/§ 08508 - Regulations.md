@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 42 U.S.C. 1369.
 
-Sept. 1, 1954, ch. 1212, §4(a) “Sec. 1509”, 68 Stat. 1135.
+Sept. 1, 1954, ch. 1212, §4(a) "Sec. 1509", 68 Stat. 1135.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

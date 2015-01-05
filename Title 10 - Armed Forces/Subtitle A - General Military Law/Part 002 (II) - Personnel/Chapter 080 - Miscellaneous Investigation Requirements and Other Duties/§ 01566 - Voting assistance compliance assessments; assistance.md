@@ -8,7 +8,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to require t
 
 Voting Assistance Programs Defined.—In this section, the term "voting assistance programs" means—
 
-&emsp;(1) the Federal Voting Assistance Program carried out under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.); and
+&emsp;(1) the Federal Voting Assistance Program carried out under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.); <sup>1</sup> and
 
 &emsp;(2) any similar program.
 
@@ -32,13 +32,13 @@ Annual Effectiveness and Compliance Reviews.—(1) The Inspector General of each
 
 (e)
 
-Regular Military Department Assessments.—The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) and with Department of Defense regulations regarding the Federal Voting Assistance Program.
+Regular Military Department Assessments.—The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) <sup>1</sup> and with Department of Defense regulations regarding the Federal Voting Assistance Program.
 
 (f)
 
 Voting Assistance Officers.—(1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertaining to a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
 
-(2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, be given the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
+(2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officershall, to the maximum extent practicable, be given the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
 
 (g)
 
@@ -58,13 +58,13 @@ Registration and Voting Information for Members and Dependents.—(1) The Secret
 
 (2) The Secretary of each military department shall make the national voter registration form prepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
 
-(3) Where practicable, a special day or days shall be designated at each military installationfor the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
+(3) Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
 
 (Added Pub. L. 107–107, div. A, title XVI, §1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, §701, Oct. 29, 2002, 116 Stat. 1722; Pub. L. 108–375, div. A, title X, §1084(d)(13), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §596(a), (d), Oct. 17, 2006, 120 Stat. 2235, 2236.)
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of Title 42 and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -87,4 +87,6 @@ Subsec. (i). Pub. L. 107–252, §701(d), added subsec. (i).
 #### Initial Report
 
 Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, directed that the first report under subsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

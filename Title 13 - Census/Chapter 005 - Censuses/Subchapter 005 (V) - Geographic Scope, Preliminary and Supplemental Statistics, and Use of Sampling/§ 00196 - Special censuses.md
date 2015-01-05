@@ -1,6 +1,6 @@
 ### §196. Special censuses
 
-The Secretary may conduct special censuses for the government of any State, or of any county, city, or other political subdivision within a State, for the government of the District of Columbia, and for the government of any possession or area (including political subdivisions thereof) referred to in section 191(a) of this title,on subjects covered by the censuses provided for in this title, upon payment to the Secretary of the actual or estimated cost of each such special census. The results of each such special census shall be designated "Official Census Statistics". These statistics may be used in the manner provided by applicable law.
+The Secretary may conduct special censuses for the government of any State, or of any county, city, or other political subdivision within a State, for the government of the District of Columbia, and for the government of any possession or area (including political subdivisions thereof) referred to in section 191(a) of this title, on subjects covered by the censuses provided for in this title, upon payment to the Secretary of the actual or estimated cost of each such special census. The results of each such special census shall be designated "Official Census Statistics". These statistics may be used in the manner provided by applicable law.
 
 (Added Pub. L. 94–521, §11(a), Oct. 17, 1976, 90 Stat. 2464.)
 
@@ -14,5 +14,5 @@ Pub. L. 96–369, §118, Oct. 1, 1980, 94 Stat. 1357, provided that: "Notwithsta
 
 #### Executive Order No. 12256
 
-Ex. Ord. No. 12256, Dec. 15, 1980, 45 F.R. 83189, which required the Bureau of the Census to supply estimates of the number of legal immigrants within certain jurisdictions, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 12256, Dec. 15, 1980, 45 F.R. 83189, which required the Bureau of the Census to supply estimatesof the number of legal immigrants within certain jurisdictions, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

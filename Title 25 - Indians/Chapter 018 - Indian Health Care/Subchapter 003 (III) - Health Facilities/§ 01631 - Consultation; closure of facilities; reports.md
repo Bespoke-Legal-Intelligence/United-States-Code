@@ -176,7 +176,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (e) Funding condition
 
-All funds appropriated under section 13 of this title, for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f) or sections 504 and 505 of that Act (25 U.S.C. 458aaa–3, 458aaa–4).
+All funds appropriated under section 13 of this title, for the planning, design, construction, orrenovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f) or sections 504 and 505 of that Act (25 U.S.C. 458aaa–3, 458aaa–4).
 
 #### (f) Development of innovative approaches
 

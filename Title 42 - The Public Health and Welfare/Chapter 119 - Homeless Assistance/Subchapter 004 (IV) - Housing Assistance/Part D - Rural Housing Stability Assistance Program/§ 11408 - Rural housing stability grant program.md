@@ -28,7 +28,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;(F) leasing of property, or portions of property, not owned by the recipient or project sponsor involved, for use in providing transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness, or providing supportive services to such homeless and at-risk individuals and families;
 
-&emsp;&emsp;(G) provision of rental assistance to provide transitional or permanent housing tohomeless individuals and families and individuals and families at risk of homelessness, such rental assistance may include tenant-based or project-based rental assistance;
+&emsp;&emsp;(G) provision of rental assistance to provide transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness, such rental assistance may include tenant-based or project-based rental assistance;
 
 &emsp;&emsp;(H) payment of operating costs for housing units assisted under this subchapter;
 
@@ -108,7 +108,7 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 &emsp;(5) an agreement by the organization that the organization will collect data on the projects conducted by the organization, including assistance provided, number and characteristics of persons served, and causes of homelessness for persons served;
 
-&emsp;(6) a description of how individuals and families who are homeless or who have the lowest incomes in the community will be involved by the organization through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section;
+&emsp;(6) a description of how individuals and families who are homeless or who have the lowest incomes in the community will be involved bythe organization through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section;
 
 &emsp;(7) a description of consultations that took place within the community to ascertain the most important uses for funding under this section, including the involvement of potential beneficiaries of the project; and
 
@@ -122,7 +122,7 @@ Organizations eligible to receive a grant under subsection (a) of this section s
 
 #### (1) In general
 
-&emsp;An organization eligible to receive a grant under subsection (a) shall specify matching contributions from any source other than a grant awarded under this part, that shall be made available in the geographic area in anamount equal to not less than 25 percent of the funds provided for the project or activity, except that grants for leasing shall not be subject to any match requirement.
+&emsp;An organization eligible to receive a grant under subsection (a) shall specify matching contributions from any source other than a grant awarded under this part, that shall be made available in the geographic area in an amount equal to not less than 25 percent of the funds provided for the project or activity, except that grants for leasing shall not be subject to any match requirement.
 
 #### (2) Limitations on in-kind match
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall determine the total amount of funding attributable under section11386a(b)(2) of this title to meet the needs of any geographic area in the Nation that applies for funding under this section. The Secretary shall transfer any amounts determined under this subsection from the Community Homeless Assistance Program and consolidate such transferred amounts for grants under this section, except that the Secretary shall transfer an amount not less than 5 percent of the amount available under part C for grants under this section. Any amounts so transferred and not used for grants under this section due to an insufficient number of applications shall be transferred to be used for grants under part C.
+&emsp;The Secretary shall determine the total amount of funding attributable under section 11386a(b)(2) of this title to meet the needs of any geographic area in the Nation that applies for funding under this section. The Secretary shall transfer any amounts determined under this subsection from the Community Homeless Assistance Program and consolidate such transferred amounts for grants under this section, except that the Secretary shall transfer an amount not less than 5 percent of the amount available under part C for grants under this section. Any amounts so transferred and not used for grants under this section due to an insufficient number of applications shall be transferred to be used for grants under part C.
 
 #### (2) Availability
 
@@ -278,5 +278,5 @@ Amendment by Pub. L. 104–330 applicable with respect to amounts made available
 
 #### Definition
 
-For provisions relating to definition of "local government" as used in this section, see section 100261 of Pub.L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
+For provisions relating to definition of "local government" as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
 

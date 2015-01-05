@@ -4,7 +4,3 @@ The agreement, including without limitation articles 41 through 50, shall have f
 
 (Pub. L. 94–302, title II, §209, May 31, 1976, 90 Stat. 594.)
 
-#### References in Text
-
-The agreement and articles 41 through 50 and article 58, referred to in text, mean the Bretton Woods Agreement and the articles thereof.
-

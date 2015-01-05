@@ -604,7 +604,7 @@
 | [280i.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20R%20-%20Programs%20Relating%20to%20Autism/%C2%A7%2000280i%20-%20Developmental%20disabilities%20surveillance%20and%20research%20program.md) | Developmental disabilities surveillance and research program. |
 | 280i–1. | Autism education, early detection, and intervention. |
 | 280i–2. | Interagency Autism Coordinating Committee. |
-| 280i–3. | Report to Congress. |
+| 280i–3. | Reports to Congress. |
 | 280i–4. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1056,7 +1056,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 5—national center for complementary and alternative medicine
+#### subpart 5—national center for complementary and integrative health
 
 |  |  |
 | :--- | ---: |
@@ -1750,13 +1750,15 @@
 | 300b–6. | Applied technology. |
 | 300b–7. | Tourette Syndrome. |
 | 300b–8. | Improved newborn and child screening for heritable disorders. |
-| 300b–9. | Evaluating the effectiveness of newborn and child screening programs. |
+| 300b–9. | Evaluating the effectiveness of newborn and child screening and followup programs. |
 | 300b–10. | Advisory Committee on Heritable Disorders in Newborns and Children. |
 | 300b–11. | Clearinghouse of newborn screening information. |
-| 300b–12. | Laboratory quality. |
+| 300b–12. | Laboratory quality and surveillance. |
 | 300b–13. | Interagency Coordinating Committee on Newborn and Child Screening. |
 | 300b–14. | National contingency plan for newborn screening. |
 | 300b–15. | Hunter Kelly Research Program. |
+| 300b–16. | Authorization of appropriations for newborn screening programs and activities. |
+| 300b–17. | Report by Secretary. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1766,6 +1768,7 @@
 | :--- | ---: |
 | 300c–11. | Repealed. |
 | 300c–12. | Sudden infant death syndrome research. |
+| 300c–13. | Continuing activities related to stillbirth, sudden unexpected infant death and sudden unexplained death in childhood. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

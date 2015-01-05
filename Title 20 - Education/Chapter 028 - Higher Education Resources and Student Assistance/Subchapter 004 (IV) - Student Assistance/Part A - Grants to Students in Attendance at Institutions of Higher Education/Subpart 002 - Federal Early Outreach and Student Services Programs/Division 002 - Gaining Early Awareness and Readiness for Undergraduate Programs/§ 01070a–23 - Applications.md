@@ -10,7 +10,7 @@
 
 &emsp;Each application submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may reasonably require. Each such application shall, at a minimum—
 
-&emsp;&emsp;(A) describe the activities for which assistance under this division is sought, includinghow the eligible entity will carry out the required activities described in section 1070a–24(a) of this title;
+&emsp;&emsp;(A) describe the activities for which assistance under this division is sought, including how the eligible entity will carry out the required activities described in section 1070a–24(a) of this title;
 
 &emsp;&emsp;(B) describe, in the case of an eligible entity described in section 1070a–21(c)(2) of this title that chooses to provide scholarships, or an eligible entity described in section 1070a–21(c)(1) of this title, how the eligible entity will meet the requirements of section 1070a–25 of this title;
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(I) provide information about the activities that will be carried out by the eligible entity to support systemic changes from which future cohorts of students will benefit; and
 
-&emsp;&emsp;(J) describe the sources of matching funds that will enable the eligible entity to meet the matching requirement described in subsection (b).
+&emsp;&emsp;(J) describe the sources of matching funds that will enable the eligible entity to meetthe matching requirement described in subsection (b).
 
 #### (b) Matching requirement
 
@@ -104,7 +104,7 @@ Subsec. (b)(1)(A). Pub. L. 110–315, §404(c)(3)(B), which directed insertion o
 
 Subsec. (b)(2). Pub. L. 110–315, §404(c)(3)(C), inserted at end "The Secretary may approve an eligible entity's request for a reduced match percentage—" and subpars. (A) and (B).
 
-Subsec. (c)(1). Pub. L. 110–315, §404(c)(4)(A), substituted "obligated to students from State, local, institutional, or private funds under this division, including pre-existing non-Federal financial assistance programs, including—" and subpars. (A) and (B) for "paid to students from State, local, institutional, or private funds under this division;".
+Subsec. (c)(1). Pub. L. 110–315, §404(c)(4)(A), substituted "obligated to students from State, local, institutional, or private funds under this division, includingpre-existing non-Federal financial assistance programs, including—" and subpars. (A) and (B) for "paid to students from State, local, institutional, or private funds under this division;".
 
 Subsec. (c)(4). Pub. L. 110–315, §404(c)(4)(B)–(D), added par. (4).
 

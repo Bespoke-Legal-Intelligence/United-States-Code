@@ -64,7 +64,7 @@ Property for Use as a Public Park or Recreation Area.—
 
 &emsp;(1)
 
-Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe,may assign to the Secretary of the Interior for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for use as a public park or recreation area.
+Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe, may assign to the Secretary of the Interior for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for use as a public park or recreation area.
 
 &emsp;(2)
 
@@ -136,7 +136,7 @@ Sale, lease, or donation.—Subject to disapproval by the Administrator within 3
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the useof the property by the entity receiving the property.
 
 (h)
 
@@ -152,7 +152,7 @@ In general.—Without monetary consideration to the Government, the Administrato
 
 &emsp;&emsp;(B)
 
-Recommendation by national park system advisory board.—Property may be determined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act). Only the portion of the property that is necessary for the preservation and proper observation of the property's historic features may be determined to be suitable and desirable for use as a historic monument.
+Recommendation by national park system advisory board.—Property may be determined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under section 102303 of title 54. Only the portion of the property that is necessary for the preservation and proper observation of the property's historic features may be determined to be suitable and desirable for use as a historic monument.
 
 &emsp;(2)
 
@@ -186,7 +186,7 @@ Deed of conveyance.—The deed of conveyance of any surplus real property dispos
 
 &emsp;&emsp;(B) may contain additional terms, reservations, restrictions, and conditions the Administrator determines are necessary to safeguard the interests of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1094.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1094; Pub. L. 113–287, §5(j)(2), Dec. 19, 2014, 128 Stat. 3269.)
 
 Historical and Revision Notes
 
@@ -251,4 +251,8 @@ In subsection (h)(3), the words "this subsection" are used to reflect the probab
 #### References in Text
 
 The National and Community Service Act of 1990, referred to in subsec.(g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (h)(1)(B). Pub. L. 113–287, §5(j)(2), substituted "section 102303 of title 54" for "section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act)".
 

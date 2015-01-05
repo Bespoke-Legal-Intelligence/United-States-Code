@@ -12,7 +12,7 @@
 
 &emsp;(5) The term "officer" means a member of the naval service serving in a commissioned or warrant officer grade. It includes, unless otherwise specified, a member who holds a permanent enlisted grade and a temporary appointment in a commissioned or warrant officer grade.
 
-&emsp;(6) The term "commissioned officer" means a member of the naval service serving in agrade above warrant officer, W–1. It includes, unless otherwise specified, a member who holds a permanent enlisted grade or the permanent grade of warrant officer, W–1, and a temporary appointment in a grade above warrant officer, W–1.
+&emsp;(6) The term "commissioned officer" means a member of the naval service serving in a grade above warrant officer, W–1. It includes, unless otherwise specified, a member who holds a permanent enlisted grade or the permanent grade of warrant officer, W–1, and a temporary appointment in a grade above warrant officer, W–1.
 
 &emsp;(7) The term "warrant officer" means a member of the naval service serving in a warrant officer grade. It includes, unless otherwise specified, a member who holds a permanent enlisted grade and a temporary appointment in a warrant officer grade.
 

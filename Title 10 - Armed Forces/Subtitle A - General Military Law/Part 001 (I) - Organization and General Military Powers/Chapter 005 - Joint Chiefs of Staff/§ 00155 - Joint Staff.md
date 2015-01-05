@@ -24,7 +24,7 @@ Management of Joint Staff.—The Chairman of the Joint Chiefs of Staff manages t
 
 (d)
 
-Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 (50 U.S.C. 401) <sup>1</sup> to provide—
+Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 (50 U.S.C. 3002) to provide—
 
 &emsp;(1) for the unified strategic direction of the combatant forces;
 
@@ -56,13 +56,11 @@ Composition of Joint Staff.—(1) The Joint Staff is composed of all members of 
 
 (2) The Joint Staff does not include members of the armed forces or civilian employees assigned or detailed to permanent duty in a military department.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, §902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, §911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, §202(a)(8), May 31, 1993, 107 Stat. 101.)
-
-#### References in Text
-
-The National Security Act of 1947, referred to in subsec. (d), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 2 of the Act is now classified to section 3002 of Title 50. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, §902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, §911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, §202(a)(8), May 31, 1993, 107 Stat. 101; Pub. L. 113–291, div. A, title X, §1071(c)(1), Dec. 19, 2014, 128 Stat. 3508.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–291 substituted "(50 U.S.C. 3002)" for "(50 U.S.C. 401)" in introductory provisions.
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484. See 1992 Amendment note below.
 
@@ -110,7 +108,5 @@ Supplement Not Supplant.—Any amounts made available by the Chairman of the Joi
 
 #### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
 
-Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as section 155a of this title by Pub. L. 112–239, §511(a), (c), Jan. 2, 2013, 126 Stat. 1717, 1718.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, titleV, §515(h), Jan. 6, 2006, 119 Stat. 3237, which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as section 155a of this title by Pub. L. 112–239, §511(a), (c), Jan. 2, 2013, 126 Stat. 1717, 1718.
 

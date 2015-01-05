@@ -44,7 +44,7 @@ The Administrator shall—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;If any State described in clause (i) does not qualify for an allocation under this paragraph, the share of funds otherwise allocated for that State under clause (i)shall be reallocated pursuant to subparagraph (C).
+&emsp;&emsp;&emsp;If any State described in clause (i) does not qualify for an allocation under this paragraph, the share of funds otherwise allocated for that State under clause (i) shall be reallocated pursuant to subparagraph (C).
 
 #### (C) Reallocation
 
@@ -96,7 +96,7 @@ The Administrator shall—
 
 #### (5) Public notification
 
-&emsp;Not later than 60 days after the date of the award of a grant, rebate, or loan by a State, the State shall publish on the Web site of the State—
+&emsp;Not later than 60 days after the date of the award of a grant, rebate, or loan by a State,the State shall publish on the Web site of the State—
 
 &emsp;&emsp;(A) for rebates, grants, and loans provided to the owner of a diesel vehicle or fleet, the total number and dollar amount of rebates, grants, or loans provided, as well as a breakdown of the technologies funded through the rebates, grants, or loans; and
 

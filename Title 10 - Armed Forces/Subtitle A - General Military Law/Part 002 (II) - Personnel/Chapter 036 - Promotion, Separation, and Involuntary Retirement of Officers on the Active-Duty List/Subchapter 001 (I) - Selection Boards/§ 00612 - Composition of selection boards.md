@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 97–22, §4(a)(4), inserted "convened under section 611(a)
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §504(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102, provided that: "Theamendments made by subsection (a) \[amending this section\] shall apply to any selection board convened under section 611(a) of title 10, United States Code, on or after August 1, 1981."
+Pub. L. 106–398, §1 \[\[div. A\], title V, §504(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to any selection board convened under section 611(a) of title 10, United States Code, on or after August 1, 1981."
 
 #### Effective Date of 1986 Amendment
 

@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (2) Requirement for new qualified employer plans
 
-&emsp;Such term shall not include an employer if, during the 3-taxable year period immediatelypreceding the 1st taxable year for which the credit under this section is otherwise allowable for a qualified employer plan of the employer, the employer or any member of any controlled group including the employer (or any predecessor of either) established or maintained a qualified employer plan with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are in the qualified employer plan.
+&emsp;Such term shall not include an employer if, during the 3-taxable year period immediately preceding the 1st taxable year for which the credit under this section is otherwise allowable for a qualified employer plan of the employer, the employer or any member of any controlled group including the employer (or any predecessor of either) established or maintained a qualified employer plan with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are in the qualified employer plan.
 
 #### (d) Other definitions
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (1) Aggregation rules
 
-&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or (o) of section 414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.
+&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52, orsubsection (m) or (o) of section 414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.
 
 #### (2) Disallowance of deduction
 

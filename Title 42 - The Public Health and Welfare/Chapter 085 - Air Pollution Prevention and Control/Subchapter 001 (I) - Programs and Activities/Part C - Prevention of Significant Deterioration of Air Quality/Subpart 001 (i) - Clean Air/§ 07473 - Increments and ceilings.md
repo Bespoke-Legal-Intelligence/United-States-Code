@@ -8,99 +8,45 @@ In the case of sulfur oxide and particulate matter, each applicable implementati
 
 (1) For any class I area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Pollutant        Maximum allowable increase (in
+&nbsp;
 
-micrograms per cubic meter)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> Particulate matter:
-
-&nbsp;&nbsp;Annual geometric mean
-
-&nbsp;&nbsp;&nbsp;5
-
-&nbsp;&nbsp;Twenty-four-hour maximum
-
-&nbsp;&nbsp;10
-
-> Sulfur dioxide:
-
-&nbsp;&nbsp;Annual arithmetic mean
-
-&nbsp;&nbsp;&nbsp;2
-
-&nbsp;&nbsp;Twenty-four-hour maximum
-
-&nbsp;&nbsp;&nbsp;5
-
-&nbsp;&nbsp;Three-hour maximum
-
-&nbsp;&nbsp;25
+| &nbsp;&nbsp;Pollutant&nbsp; | Maximum allowable increase (in micrograms per cubic meter) |
+| :--- | ---: |
+| Particulate matter: |  |
+| Annual geometric mean | 5&nbsp;&nbsp; |
+| Twenty-four-hour maximum | 10&nbsp;&nbsp; |
+| Sulfur dioxide: |  |
+| Annual arithmetic mean | 2&nbsp;&nbsp; |
+| Twenty-four-hour maximum | 5&nbsp;&nbsp; |
+| Three-hour maximum | 25&nbsp;&nbsp; |
 
 (2) For any class II area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Pollutant        Maximum allowable increase (in
+&nbsp;
 
-micrograms per cubic meter)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> Particulate matter:
-
-&nbsp;&nbsp;Annual geometric mean
-
-&nbsp;&nbsp;&nbsp;19
-
-&nbsp;&nbsp;Twenty-four-hour maximum
-
-&nbsp;&nbsp;&nbsp;37
-
-> Sulfur dioxide:
-
-&nbsp;&nbsp;Annual arithmetic mean
-
-&nbsp;&nbsp;&nbsp;20
-
-&nbsp;&nbsp;Twenty-four-hour maximum
-
-&nbsp;&nbsp;&nbsp;91
-
-&nbsp;&nbsp;Three-hour maximum
-
-&nbsp;&nbsp;512
+| &nbsp;&nbsp;Pollutant&nbsp; | Maximum allowable increase (in micrograms per cubic meter) |
+| :--- | ---: |
+| Particulate matter: |  |
+| Annual geometric mean | 19&nbsp;&nbsp; |
+| Twenty-four-hour maximum | 37&nbsp;&nbsp; |
+| Sulfur dioxide: |  |
+| Annual arithmetic mean | 20&nbsp;&nbsp; |
+| Twenty-four-hour maximum | 91&nbsp;&nbsp; |
+| Three-hour maximum | 512&nbsp;&nbsp; |
 
 (3) For any class III area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Pollutant        Maximum allowable increase (in
+&nbsp;
 
-micrograms per cubic meter)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> Particulate matter:
-
-&nbsp;&nbsp;Annual geometric mean
-
-&nbsp;&nbsp;&nbsp;37
-
-&nbsp;&nbsp;Twenty-four-hour maximum
-
-&nbsp;&nbsp;&nbsp;75
-
-> Sulfur dioxide:
-
-&nbsp;&nbsp;Annual arithmetic mean
-
-&nbsp;&nbsp;&nbsp;40
-
-&nbsp;&nbsp;Twenty-four-hour maximum
-
-&nbsp;&nbsp;182
-
-&nbsp;&nbsp;Three-hour maximum
-
-&nbsp;&nbsp;700
+| &nbsp;&nbsp;Pollutant&nbsp; | Maximum allowable increase (in micrograms per cubic meter) |
+| :--- | ---: |
+| Particulate matter: |  |
+| Annual geometric mean | 37&nbsp;&nbsp; |
+| Twenty-four-hour maximum | 75&nbsp;&nbsp; |
+| Sulfur dioxide: |  |
+| Annual arithmetic mean | 40&nbsp;&nbsp; |
+| Twenty-four-hour maximum | 182&nbsp;&nbsp; |
+| Three-hour maximum | 700&nbsp;&nbsp; |
 
 (4) The maximum allowable concentration of any air pollutant in any area to which this part applies shall not exceed a concentration for such pollutant for each period of exposure equal to—
 

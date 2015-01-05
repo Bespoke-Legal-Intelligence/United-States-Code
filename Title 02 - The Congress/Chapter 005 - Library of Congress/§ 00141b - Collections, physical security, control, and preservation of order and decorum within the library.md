@@ -8,7 +8,7 @@ The Librarian of Congress shall establish standards and regulations for the phys
 
 #### (1) Responsibility for security systems
 
-&emsp;In accordance with the authority of the Capitol Police and the Librarian of Congress established under this Act, the amendments made by this Act, and the provisions of law referred to in paragraph (3), the Chief of the Capitol Police and the Librarian of Congress shall be responsible for the operation of security systems at the Library of Congress buildings and grounds described under section 167j of this title, in consultation and coordination with each other, subject to the following:
+&emsp;In accordance with the authority of the Capitol Police and the Librarian of Congress established under this Act, the amendments made by this Act, and the provisions of law referred to in paragraph (3), the Chief of the Capitol Police and the Librarian of Congress shall be responsible for the operation of securitysystems at the Library of Congress buildings and grounds described under section 167j of this title, in consultation and coordination with each other, subject to the following:
 
 &emsp;&emsp;(A) The Librarian of Congress shall be responsible for the design of security systems for the control and preservation of Library collections and property, subject to the review and approval of the Chief of the Capitol Police.
 

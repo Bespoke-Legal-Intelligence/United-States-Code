@@ -16,9 +16,11 @@
 
 &emsp;&emsp;(C) section 223(h) (relating to health savings accounts),
 
-&emsp;&emsp;(D) section 529(d) (relating to qualified tuition programs), and
+&emsp;&emsp;(D) section 529(d) (relating to qualified tuition programs),
 
-&emsp;&emsp;(E) section 530(h) (relating to Coverdell education savings accounts).
+&emsp;&emsp;(E) section 529A(d) (relating to qualified ABLE programs), and
+
+&emsp;&emsp;(F) section 530(h) (relating to Coverdell education savings accounts).
 
 > This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(X).
 
@@ -60,9 +62,11 @@
 
 Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) does not apply to the assessment or collection of any penalty imposed by this section.
 
-(Added Pub. L. 93–406, title II, §2002(f), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 96–222, title I,§101(a)(10)(H), Apr. 1, 1980, 94 Stat. 203; Pub. L. 98–369, div. A, title I, §147(b), July 18, 1984, 98 Stat. 687; Pub. L. 99–514, title XI, §1102(d)(1), (2)(A), (B), Oct. 22, 1986, 100 Stat. 2416; Pub. L. 100–647, title I, §1011(b)(4)(A), (B)(i), Nov. 10, 1988, 102 Stat. 3456, 3457; Pub. L. 104–188, title I, §§1421(b)(4)(B), 1455(d)(3), Aug. 20, 1996, 110 Stat. 1796, 1818; Pub. L. 104–191, title III, §301(g), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 105–34, title II, §§211(e)(2)(B), (C), 213(c), title XVI, §§1601(d)(1)(C)(ii), 1602(a)(4), Aug. 5, 1997, 111 Stat. 812, 816, 1087, 1094; Pub. L. 105–277, div. J, title IV, §4006(c)(4), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(E)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §402(a)(4)(A), June 7, 2001, 115 Stat. 60; Pub. L. 107–22, §1(b)(2)(C), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(g), Dec. 8, 2003, 117 Stat. 2479.)
+(Added Pub. L. 93–406, title II, §2002(f), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 96–222, title I, §101(a)(10)(H), Apr. 1, 1980, 94 Stat. 203; Pub. L. 98–369, div. A, title I, §147(b), July 18, 1984, 98 Stat. 687; Pub. L. 99–514, title XI, §1102(d)(1), (2)(A), (B), Oct. 22, 1986, 100 Stat. 2416; Pub. L. 100–647, title I, §1011(b)(4)(A), (B)(i), Nov. 10, 1988, 102 Stat. 3456, 3457; Pub. L. 104–188, title I, §§1421(b)(4)(B), 1455(d)(3), Aug. 20, 1996, 110 Stat. 1796, 1818; Pub. L. 104–191, title III, §301(g), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 105–34, title II, §§211(e)(2)(B), (C), 213(c), title XVI, §§1601(d)(1)(C)(ii), 1602(a)(4), Aug. 5, 1997, 111 Stat. 812, 816, 1087, 1094; Pub. L. 105–277, div. J, title IV, §4006(c)(4), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(E)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §402(a)(4)(A), June 7, 2001, 115 Stat. 60; Pub. L. 107–22, §1(b)(2)(C), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(g), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 113–295, div. B, title I, §102(c), Dec. 19, 2014, 128 Stat. 4062.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2)(E), (F). Pub. L. 113–295 added subpar. (E) and redesignated former subpar. (E) as (F).
 
 <b>2003</b>—Subsec. (a)(2)(C) to (E). Pub. L. 108–173 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
@@ -110,6 +114,10 @@ Subsec. (c). Pub. L. 99–514, §1102(d)(1), (2)(A), redesignated former subsec.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–222 substituted "subsection (i) or (l) of section 408 to file" for "section 408(i) to file", and "such subsection shall pay" for "section 408(i) shall pay".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
@@ -144,7 +152,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to contributions and distributions for taxable years beginningafter Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
+Amendment by Pub. L. 99–514 applicable to contributions and distributions for taxable years beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -1,6 +1,6 @@
 ### §606. Intimidation to secure political contributions
 
-Whoever, being one of the officers or employees of the United States mentioned in section 602 of this title, discharges, or promotes, or degrades, or in any manner changes the official rank or compensation of any other officer or employee, or promises or threatens so to do, for giving or withholding or neglecting to make any contribution of money or other valuable thing for any political purpose, shall be fined under this title or imprisoned not more than three years, or both.
+Whoever, being one of the officers or employees of the United States mentioned in section602 of this title, discharges, or promotes, or degrades, or in any manner changes the official rank or compensation of any other officer or employee, or promises or threatens so to do, for giving or withholding or neglecting to make any contribution of money or other valuable thing for any political purpose, shall be fined under this title or imprisoned not more than three years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 722; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 

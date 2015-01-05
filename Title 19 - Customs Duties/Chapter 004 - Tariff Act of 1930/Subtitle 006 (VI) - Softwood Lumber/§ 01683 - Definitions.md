@@ -8,7 +8,7 @@ In this subtitle:
 
 #### (2) Country of export
 
-&emsp;The term "country of export" means the country (including any political subdivision ofthe country) from which softwood lumber or a softwood lumber product is exported before entering the United States.
+&emsp;The term "country of export" means the country (including any political subdivision of the country) from which softwood lumber or a softwood lumber product is exported before entering the United States.
 
 #### (3) Customs laws of the United States
 

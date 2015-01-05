@@ -32,7 +32,7 @@ For the purposes of this chapter—
 
 &emsp;(8) The term "political committee" means any individual, committee, association, or organization (whether or not incorporated) which accepts contributions or incurs qualified campaign expenses for the purpose of influencing, or attempting to influence, the nomination of any person for election to the office of President of the United States.
 
-&emsp;(9) The term "qualified campaign expense" means a purchase, payment, distribution, loan, advance, deposit, or gift of money or of anything of value—
+&emsp;(9) The term "qualified campaign expense" means a purchase, payment, distribution,loan, advance, deposit, or gift of money or of anything of value—
 
 &emsp;&emsp;(A) incurred by a candidate, or by his authorized committee, in connection with his campaign for nomination for election, and
 
@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to section 437c(a)(1) of Title 2, The Congress.
+Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to section 30106(a)(1) of Title 52, Voting and Elections.
 
 #### Amendments
 

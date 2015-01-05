@@ -1,6 +1,6 @@
 ### §7371. Statement of purpose
 
-The purpose of this subchapter is to establish incentives for the use of renewable energy resources, to improve and coordinate the dissemination of information to the public with respect to renewable energy resources, to encourage the use of certain cost effective solar energy systems and conservation measures by the Federal Government, to establish a program for the promotion of local energy self-sufficiency, to broaden the existing program for accelerating the procurement and use of photovoltaic systems, and to provide further encouragement for thedevelopment of small hydroelectric power projects.
+The purpose of this subchapter is to establish incentives for the use of renewable energy resources, to improve and coordinate the dissemination of information to the public with respect to renewable energy resources, to encourage the use of certain cost effective solar energy systems and conservation measures by the Federal Government, to establish a program for the promotion of local energy self-sufficiency, to broaden the existing program for accelerating the procurement and use of photovoltaic systems, and to provide further encouragement for the development of small hydroelectric power projects.
 
 (Pub. L. 96–294, title IV, §402, June 30, 1980, 94 Stat. 715.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Architect of the Capitol Inspector General Act of 2007”.
+This section may be cited as the "Architect of the Capitol Inspector General Act of 2007".
 
 #### (b) Office of Inspector General
 
@@ -20,7 +20,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (A) In general
 
-&emsp;&emsp;There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Architect of the Capitol, in consultation with the Inspectors General of the Library of Congress, Government Printing Office, Government Accountability Office, and United States Capitol Police. The appointment shall be made without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Architect of the Capitol.
+&emsp;&emsp;There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Architect of the Capitol, in consultation with the Inspectors General of the Library of Congress, Government Publishing Office, Government Accountability Office, and United States Capitol Police. The appointment shall be made without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Architect of the Capitol.
 
 #### (B) Audits, investigations, reports, and other duties and responsibilities
 
@@ -48,9 +48,9 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 &emsp;Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
 
-&emsp;&emsp;(A) “Office of the Architect of the Capitol” for “establishment”; and
+&emsp;&emsp;(A) "Office of the Architect of the Capitol" for "establishment"; and
 
-&emsp;&emsp;(B) “Architect of the Capitol” for “head of the establishment”.
+&emsp;&emsp;(B) "Architect of the Capitol" for "head of the establishment".
 
 #### (2) Employees
 
@@ -78,7 +78,7 @@ By the date occurring 180 days after December 26, 2007, the Architect of the Cap
 
 &emsp;Subsection (g) shall take effect on December 26, 2007, and the Architect of the Capitol shall take such actions as necessary after December 26, 2007, to carry out that subsection.
 
-(Pub. L. 110–161, div. H, title I, §1301, Dec. 26, 2007, 121 Stat. 2240.)
+(Pub. L. 110–161, div. H, title I, §1301, Dec. 26, 2007, 121 Stat. 2240; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
@@ -87,4 +87,8 @@ The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95�
 #### Codification
 
 Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (c)(1)(A) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 

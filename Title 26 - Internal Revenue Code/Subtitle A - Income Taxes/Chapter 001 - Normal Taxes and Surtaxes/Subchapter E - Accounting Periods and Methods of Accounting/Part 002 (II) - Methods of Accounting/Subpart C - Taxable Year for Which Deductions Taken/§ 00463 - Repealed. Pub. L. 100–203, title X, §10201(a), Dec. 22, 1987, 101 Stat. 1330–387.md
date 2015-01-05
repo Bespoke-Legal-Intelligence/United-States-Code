@@ -22,29 +22,12 @@ Pub. L. 100–203, title X, §10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388, 
 
 &nbsp;
 
-<b>The percentage taken</b>
-
-&nbsp;&nbsp;<b>"In the case of the:</b>
-
-<b>into account is:</b>
-
-&emsp;&emsp;1st year
-
-25&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2nd year
-
-5&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;3rd year
-
-35&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;4th year
-
-35\.&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> "In the case of the:</b> | <b>The percentage taken intoaccount is:</b> |
+| :--- | ---: |
+| 1st year | 25&nbsp;&nbsp; |
+| 2nd year | 5&nbsp;&nbsp; |
+| 3rd year | 35&nbsp;&nbsp; |
+| 4th year | 35\. |
 
 > &emsp;Notwithstanding subparagraph (C)(ii), if the period the adjustments are required to be taken into account under section 481 of such Code is less than 4 years, such adjustments shall be taken into account ratably over such shorter period."
 

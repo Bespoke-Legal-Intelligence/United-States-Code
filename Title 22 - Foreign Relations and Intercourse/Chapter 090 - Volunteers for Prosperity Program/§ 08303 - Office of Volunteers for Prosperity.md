@@ -6,7 +6,7 @@ The VfP Office shall pursue the objectives of the VfP Program described in subse
 
 &emsp;(1) implementing the VfPServe Program to provide eligible skilled professionals with matching grants to offset the travel and living expenses of volunteering abroad with nonprofit organizations;
 
-&emsp;(2) otherwise promoting short- and long-term international volunteer service by skilled American professionals, including connecting such professionals with nonprofit organizations, to achieve such objectives;
+&emsp;(2) otherwise promoting short- and long-term international volunteer service byskilled American professionals, including connecting such professionals with nonprofit organizations, to achieve such objectives;
 
 &emsp;(3) helping nonprofit organizations in the United States recruit and effectively manage additional skilled American professionals for volunteer assignments throughout the developing world;
 

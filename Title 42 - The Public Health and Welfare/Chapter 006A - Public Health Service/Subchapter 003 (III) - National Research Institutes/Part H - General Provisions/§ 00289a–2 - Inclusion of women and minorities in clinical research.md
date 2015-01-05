@@ -26,7 +26,7 @@ The requirement established in subsection (a) of this section regarding women an
 
 #### (c) Design of clinical trials
 
-In the case of any clinical trial in which women or members of minority groups will under subsection (a) of this section be included as subjects, the Director of NIH shall ensurethat the trial is designed and carried out in a manner sufficient to provide for a valid analysis of whether the variables being studied in the trial affect women or members of minority groups, as the case may be, differently than other subjects in the trial.
+In the case of any clinical trial in which women or members of minority groups will under subsection (a) of this section be included as subjects, the Director of NIH shall ensure that the trial is designed and carried out in a manner sufficient to provide for a valid analysis of whether the variables being studied in the trial affect women or members of minority groups, as the case may be, differently than other subjects in the trial.
 
 #### (d) Guidelines
 

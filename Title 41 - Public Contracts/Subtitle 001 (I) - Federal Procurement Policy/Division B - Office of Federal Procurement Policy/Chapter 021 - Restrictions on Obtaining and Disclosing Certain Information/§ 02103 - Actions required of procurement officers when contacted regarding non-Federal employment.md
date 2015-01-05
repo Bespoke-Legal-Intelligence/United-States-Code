@@ -24,7 +24,7 @@ Persons Subject to Penalties.—The following are subject to the penalties and a
 
 &emsp;(1) An official who knowingly fails to comply with the requirements of this section.
 
-&emsp;(2) A bidder or offeror that engages in employment discussions with an official who issubject to the restrictions of this section, knowing that the official has not complied with paragraph (1) or (2) of subsection (a).
+&emsp;(2) A bidder or offeror that engages in employment discussions with an official who is subject to the restrictions of this section, knowing that the official has not complied with paragraph (1) or (2) of subsection (a).
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3728.)
 

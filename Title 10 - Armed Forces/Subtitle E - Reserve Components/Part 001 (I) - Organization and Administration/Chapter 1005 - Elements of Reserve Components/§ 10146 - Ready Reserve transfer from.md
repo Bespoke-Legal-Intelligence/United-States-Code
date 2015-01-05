@@ -4,7 +4,7 @@
 
 (b) A Reserve who is qualified and so requests may be transferred to the Retired Reserve under regulations prescribed by the Secretary concerned and, in the case of the Secretary of a military department, approved by the Secretary of Defense.
 
-(c) A member of the Army National Guard of the United States or the Air National Guard of the United States may be transferred to the Standby Reserve only with the consent of thegovernor or other appropriate authority of the State.
+(c) A member of the Army National Guard of the United States or the Air National Guard of the United States may be transferred to the Standby Reserve only with the consent of the governor or other appropriate authority of the State.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2973; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 

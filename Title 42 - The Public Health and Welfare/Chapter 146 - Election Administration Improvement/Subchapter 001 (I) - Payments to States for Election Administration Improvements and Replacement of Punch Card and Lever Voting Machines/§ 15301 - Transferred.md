@@ -1,0 +1,6 @@
+### §15301. Transferred
+
+#### Codification
+
+Section 15301 was editorially reclassified as section 20901 of Title 52, Voting and Elections.
+

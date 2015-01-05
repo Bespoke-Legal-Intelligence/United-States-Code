@@ -100,7 +100,7 @@ Training and educational programs.—The training and educational programs devel
 
 &emsp;(3)
 
-Providing education and training.—Education and training of Government, State,and local transportation employees under this subsection shall be provided—
+Providing education and training.—Education and training of Government, State, and local transportation employees under this subsection shall be provided—
 
 &emsp;&emsp;(A) by the Secretary at no cost to the States and local governments for subjects that are a Government program responsibility; or
 

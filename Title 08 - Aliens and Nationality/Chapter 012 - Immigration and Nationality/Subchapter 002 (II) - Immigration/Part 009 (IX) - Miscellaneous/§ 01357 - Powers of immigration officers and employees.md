@@ -6,7 +6,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 &emsp;(1) to interrogate any alien or person believed to be an alien as to his right to be or to remain in the United States;
 
-&emsp;(2) to arrest any alien who in his presence or view is entering or attempting to enter the United States in violation of any law or regulation made in pursuance of law regulating the admission, exclusion, expulsion, or removal of aliens, or to arrest any alien in the UnitedStates, if he has reason to believe that the alien so arrested is in the United States in violation of any such law or regulation and is likely to escape before a warrant can be obtained for his arrest, but the alien arrested shall be taken without unnecessary delay for examination before an officer of the Service having authority to examine aliens as to their right to enter or remain in the United States;
+&emsp;(2) to arrest any alien who in his presence or view is entering or attempting to enter the United States in violation of any law or regulation made in pursuance of law regulating the admission, exclusion, expulsion, or removal of aliens, or to arrest any alien in the United States, if he has reason to believe that the alien so arrested is in the United States in violation of any such law or regulation and is likely to escape before a warrant can be obtained for his arrest, but the alien arrested shall be taken without unnecessary delay for examination before an officer of the Service having authority to examine aliens as to their right to enter or remain in the United States;
 
 &emsp;(3) within a reasonable distance from any external boundary of the United States, to board and search for aliens any vessel within the territorial waters of the United States and any railway car, aircraft, conveyance, or vehicle, and within a distance of twenty-five miles from any such external boundary to have access to private lands, but not dwellings, for the purpose of patrolling the border to prevent the illegal entry of aliens into the United States;
 
@@ -40,11 +40,11 @@ In the case of an alien who is arrested by a Federal, State, or local law enforc
 
 &emsp;(3) requests the Service to determine promptly whether or not to issue a detainer to detain the alien,
 
-> the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney General shall effectively and expeditiously take custody of the alien.
+> the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney Generalshall effectively and expeditiously take custody of the alien.
 
 #### (e) Restriction on warrantless entry in case of outdoor agricultural operations
 
-Notwithstanding any other provision of this section other than paragraph (3) of subsection (a) of this section, an officer or employee of the Service may not enter without the consent ofthe owner (or agent thereof) or a properly executed warrant onto the premises of a farm or other outdoor agricultural operation for the purpose of interrogating a person believed to be an alien as to the person's right to be or to remain in the United States.
+Notwithstanding any other provision of this section other than paragraph (3) of subsection (a) of this section, an officer or employee of the Service may not enter without the consent of the owner (or agent thereof) or a properly executed warrant onto the premises of a farm or other outdoor agricultural operation for the purpose of interrogating a person believed to be an alien as to the person's right to be or to remain in the United States.
 
 #### (f) Fingerprinting and photographing of certain aliens
 
@@ -86,31 +86,31 @@ An alien described in section 1101(a)(27)(J) of this title who has been battered
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
 <b>2006</b>—Subsecs. (h), (i). Pub. L. 109–271 redesignated subsec. (i) as (h).
 
-Subsec. (i). Pub. L. 109–162, which directed the amendment of this section “as amended by section 726” by adding cl. (i) at end, was executed by adding subsec. (i)at end to reflect the probable intent of Congress. Pub. L. 109–162 does not contain a section 726.
+Subsec. (i). Pub. L. 109–162, which directed the amendment of this section "as amended by section 726" by adding cl. (i) at end, was executed by adding subsec. (i) at end to reflect the probable intent of Congress. Pub. L. 109–162 does not contain a section 726.
 
-<b>1996</b>—Subsec. (a)(2), (4). Pub. L. 104–208, §308(d)(4)(L)(i), substituted “expulsion, or removal” for “or expulsion”.
+<b>1996</b>—Subsec. (a)(2), (4). Pub. L. 104–208, §308(d)(4)(L)(i), substituted "expulsion, or removal" for "or expulsion".
 
-Subsec. (c). Pub. L. 104–208, §308(d)(4)(L)(ii), substituted “denial of admission to” for “exclusion from”.
+Subsec. (c). Pub. L. 104–208, §308(d)(4)(L)(ii), substituted "denial of admission to" for "exclusion from".
 
-Subsec. (f)(1). Pub. L. 104–208, §308(g)(5)(A)(i), substituted “section 1229a” for “section 1252”.
+Subsec. (f)(1). Pub. L. 104–208, §308(g)(5)(A)(i), substituted "section 1229a" for "section 1252".
 
-Subsec. (g). Pub. L. 104–208, §308(e)(1)(M), which directed amendment of subsec. (g) by substituting “removal” for “deportation” wherever appearing, could not be executed because the word “deportation” did not appear in subsec. (g).
+Subsec. (g). Pub. L. 104–208, §308(e)(1)(M), which directed amendment of subsec. (g) by substituting "removal" for "deportation" wherever appearing, could not be executed because the word "deportation" did not appear in subsec. (g).
 
 Pub. L. 104–208, §133, added subsec. (g).
 
 <b>1991</b>—Subsec. (a)(4). Pub. L. 102–232 substituted a semicolon for comma at end.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall also have the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §503(a), struck out "and" at end of par. (3), substituted "United States, and" for "United States. Any such employee shall also have the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens." at end of par. (4), and added par. (5) and concluding provisions.
 
 Subsec. (f). Pub. L. 101–649, §503(b)(1), added subsec. (f).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–525, §5, added par. (3) and closing provisions and struck out former par. (3) which read as follows: “requests the Service to determine promptly whether or not to issue a detainer to detain the alien, the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney General shall effectively and expeditiously take custody of the alien.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–525, §5, added par. (3) and closing provisions and struck out former par. (3) which read as follows: "requests the Service to determine promptly whether or not to issue a detainer to detain the alien, the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney General shall effectively and expeditiously take custody of the alien."
 
 Subsec. (e). Pub. L. 100–525, §2(e)(2), made technical amendment to directory language of Pub. L. 99–603, §116, and redesignated the subsec. (d) added by such §116, as (e). See 1986 Amendment note below.
 
@@ -118,7 +118,7 @@ Subsec. (e). Pub. L. 100–525, §2(e)(2), made technical amendment to directory
 
 Subsec. (e). Pub. L. 99–603, as amended by Pub. L. 100–525, §2(e), added subsec. (e), which prior to amendment by Pub. L. 100–525, was designated as a second subsec. (d) of this section.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–550 inserted “(or who has executed an unsworn declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28)” after “to whom such oath has been administered” and “(or subscribe under penalty of perjury as permitted under section 1746 of title 28)” after “give false evidence or swear”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–550 inserted "(or who has executed an unsworn declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28)" after "to whom such oath has been administered" and "(or subscribe under penalty of perjury as permitted under section 1746 of title 28)" after "give false evidence or swear".
 
 #### Effective Date of 1996 Amendment
 

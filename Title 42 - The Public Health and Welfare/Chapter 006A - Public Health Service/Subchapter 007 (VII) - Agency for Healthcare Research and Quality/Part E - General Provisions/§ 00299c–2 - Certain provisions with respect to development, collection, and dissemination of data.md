@@ -12,7 +12,7 @@
 
 #### (2) Relationship with other Department programs
 
-&emsp;In any case where standards under paragraph (1) may affect the administration ofother programs carried out by the Department of Health and Human Services, including the programs under title XVIII, XIX or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], or may affect health information that is subject to a standard developed under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\], they shall be in the form of recommendations to the Secretary for such program.
+&emsp;In any case where standards under paragraph (1) may affect the administration of other programs carried out by the Department of Health and Human Services, including the programs under title XVIII, XIX or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], or may affect health information that is subject to a standard developed under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\], they shall be in the form of recommendations to the Secretary for such program.
 
 #### (b) Statistics and analyses
 
@@ -24,7 +24,7 @@ The Director shall—
 
 #### (c) Authority regarding certain requests
 
-Upon request of a public or private entity, the Director may conduct or support research or analyses otherwise authorized by this subchapter pursuant to arrangements under which such entity will pay the cost of the services provided. Amounts received by the Director under such arrangements shall be available to the Director for obligation until expended.
+Upon request of a public or private entity, the Director may conduct or support research oranalyses otherwise authorized by this subchapter pursuant to arrangements under which such entity will pay the cost of the services provided. Amounts received by the Director under such arrangements shall be available to the Director for obligation until expended.
 
 (July 1, 1944, ch. 373, title IX, §943, formerly §923, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1666; renumbered §933, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §943, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
 

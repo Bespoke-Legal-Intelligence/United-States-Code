@@ -2,7 +2,7 @@
 
 #### (a) Performance report
 
-Beginning with fiscal year 2013, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House ofRepresentatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 401(b) of the Biosimilar User Fee Act of 2012 during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort.
+Beginning with fiscal year 2013, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 401(b) of the Biosimilar User Fee Act of 2012 during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort.
 
 #### (b) Fiscal report
 

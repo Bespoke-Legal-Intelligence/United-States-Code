@@ -22,7 +22,7 @@ The Secretary concerned may make a decision to approve a project submitted by a 
 
 #### (2) Conduct of environmental review
 
-&emsp;If a payment is requested under paragraph (1) and the resource advisory committee agrees to the expenditure of funds for this purpose, the Secretary concerned shall conduct environmental review, consultation, or other compliance responsibilities in accordance with Federal laws (including regulations).
+&emsp;If a payment is requested under paragraph (1) and the resource advisory committeeagrees to the expenditure of funds for this purpose, the Secretary concerned shall conduct environmental review, consultation, or other compliance responsibilities in accordance with Federal laws (including regulations).
 
 #### (3) Effect of refusal to pay
 

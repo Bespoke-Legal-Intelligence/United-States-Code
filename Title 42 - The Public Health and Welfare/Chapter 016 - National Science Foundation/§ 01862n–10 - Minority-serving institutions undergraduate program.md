@@ -14,7 +14,7 @@ Grants awarded under this section shall support—
 
 &emsp;(3) stipends for undergraduate students participating in research; and
 
-&emsp;(4) other activities consistent with subsection (a) of this section, as determined by the Director.
+&emsp;(4) other activities consistent with subsection (a), as determined by the Director.
 
 #### (c) Program coordination
 

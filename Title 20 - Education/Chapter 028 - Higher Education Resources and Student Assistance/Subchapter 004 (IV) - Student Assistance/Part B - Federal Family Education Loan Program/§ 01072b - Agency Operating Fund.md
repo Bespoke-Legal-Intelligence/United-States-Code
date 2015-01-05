@@ -20,7 +20,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 &emsp;(4) the default aversion fee paid in accordance with section 1078(l) of this title;
 
-&emsp;(5) amounts remaining pursuant to section 1078(c)(6)(B) <sup>1</sup> of this title from collection on defaulted loans held by the agency, after payment of the Secretary's equitable share, excluding amounts deposited in the Federal Fund pursuant to section 1072a(c)(2) of this title; and
+&emsp;(5) amounts remaining pursuant to section 1078(c)(6)(B) <sup>1</sup> of this title from collection ondefaulted loans held by the agency, after payment of the Secretary's equitable share, excluding amounts deposited in the Federal Fund pursuant to section 1072a(c)(2) of this title; and
 
 &emsp;(6) other receipts as specified in regulations of the Secretary.
 
@@ -76,7 +76,7 @@ Section 1078(c)(6)(B) of this title, referred to in subsec. (c)(5), was redesign
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

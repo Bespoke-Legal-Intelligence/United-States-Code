@@ -72,9 +72,5 @@ For purposes of this chapter—
 
 (Pub. L. 98–623, title III, §303, Nov. 8, 1984, 98 Stat. 3398.)
 
-#### References in Text
-
-The customs laws of the United States, referred to in par. (7), are classified generally to Title 19, Customs Duties.
-
 <i><sup>1</sup></i><i> So in original. Probably should be a comma.</i>
 

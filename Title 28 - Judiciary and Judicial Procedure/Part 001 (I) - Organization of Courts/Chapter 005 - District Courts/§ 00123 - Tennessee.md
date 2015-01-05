@@ -26,11 +26,11 @@ Tennessee is divided into three judicial districts to be known as the Eastern, M
 
 (b) The Middle District comprises three divisions.
 
-&emsp;&emsp;(1) The Nashville Division comprises the counties of Cannon, Cheatham, Davidson, Dickson, Houston, Humphreys, Montgomery, Robertson, Rutherford, Stewart, Sumner, Trousdale, Williamson, and Wilson.
+&emsp;&emsp;(1) The Nashville Division comprises the counties of Cannon, Cheatham, Davidson, Dickson, Houston, Humphreys, Montgomery, Robertson, Rutherford,Stewart, Sumner, Trousdale, Williamson, and Wilson.
 
 &emsp;&emsp;Court for the Nashville Division shall be held at Nashville.
 
-&emsp;&emsp;(2) The Northeastern Division comprises the counties of Clay, Cumberland, De Kalb,Fentress, Jackson, Macon, Overton, Pickett, Putnam, Smith, and White.
+&emsp;&emsp;(2) The Northeastern Division comprises the counties of Clay, Cumberland, De Kalb, Fentress, Jackson, Macon, Overton, Pickett, Putnam, Smith, and White.
 
 &emsp;&emsp;Court for the Northeastern Division shall be held at Cookeville.
 

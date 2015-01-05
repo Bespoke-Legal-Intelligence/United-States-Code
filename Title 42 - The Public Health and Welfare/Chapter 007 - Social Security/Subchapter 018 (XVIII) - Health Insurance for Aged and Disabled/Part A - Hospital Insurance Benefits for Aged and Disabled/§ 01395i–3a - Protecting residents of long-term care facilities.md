@@ -40,7 +40,7 @@
 
 #### (A) In general
 
-&emsp;The Secretary of Health and Human Services shall make grants to State agencies thatperform surveys of skilled nursing facilities or nursing facilities under sections 1819 or 1919, respectively, of the Social Security Act (42 U.S.C. 1395i–3; 1395r \[1396r\]).
+&emsp;The Secretary of Health and Human Services shall make grants to State agencies that perform surveys of skilled nursing facilities or nursing facilities under sections 1819 or 1919, respectively, of the Social Security Act (42 U.S.C. 1395i–3; 1395r \[1396r\]).
 
 #### (B) Use of funds
 

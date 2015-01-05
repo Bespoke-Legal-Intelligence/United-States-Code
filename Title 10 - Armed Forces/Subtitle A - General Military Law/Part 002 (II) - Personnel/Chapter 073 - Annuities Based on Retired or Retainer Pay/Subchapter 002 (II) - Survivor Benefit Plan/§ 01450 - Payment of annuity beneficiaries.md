@@ -18,6 +18,10 @@ Dependent children.—The dependent children in equal shares if the person to wh
 
 &emsp;(4)
 
+Special needs trusts for sole benefit of certain dependent children.—Notwithstanding subsection (i), a supplemental or special needs trust established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act (42 U.S.C. 1396p(d)(4)) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act (42U.S.C. 1382c(a)(3)) who is incapable of self-support because of mental or physical incapacity.
+
+&emsp;(5)
+
 Natural person designated under "insurable interest" coverage.—The natural person designated under section 1448(b)(1) of this title, unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
 
 (b)
@@ -36,7 +40,7 @@ Termination of spouse annuity upon death or remarriage before age 55.—An annui
 
 &emsp;(3)
 
-Effect of termination of subsequent marriage before age 55.—If the survivingspouse or former spouse remarries before reaching age 55 and that marriage is terminated by death, annulment, or divorce, payment of the annuity shall be resumed effective as of the first day of the month in which the marriage is so terminated. However, if the surviving spouse or former spouse is also entitled to an annuity under the Plan based upon the marriage so terminated, the surviving spouse or former spouse may not receive both annuities but must elect which to receive.
+Effect of termination of subsequent marriage before age 55.—If the surviving spouse or former spouse remarries before reaching age 55 and that marriage is terminated by death, annulment, or divorce, payment of the annuity shall be resumed effective as of the first day of the month in which the marriage is so terminated. However, if the surviving spouse or former spouse is also entitled to an annuity under the Plan based upon the marriage so terminated, the surviving spouse or former spouse may not receive both annuities but must elect which to receive.
 
 (c)
 
@@ -102,7 +106,7 @@ Procedures, effective date, etc.—Any such change of election is subject to the
 
 Limitation on change in beneficiary when former spouse coverage in effect.—A person who, incident to a proceeding of divorce, dissolution, or annulment, is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement, may not change that election under paragraph (1) unless, of the following requirements, whichever are applicable in a particular case are satisfied:
 
-&emsp;&emsp;(A) In a case in which the election is required by a court order, or in which anagreement to make the election has been incorporated in or ratified or approved by a court order, the person—
+&emsp;&emsp;(A) In a case in which the election is required by a court order, or in which an agreement to make the election has been incorporated in or ratified or approved by a court order, the person—
 
 &emsp;&emsp;&emsp;(i) furnishes to the Secretary concerned a certified copy of a court order which is regular on its face and which modifies the provisions of all previous court orders relating to such election, or the agreement to make such election, so as to permit the person to change the election; and
 
@@ -176,7 +180,7 @@ Treatment of Annuities Under Other Laws.—Except as provided in section 1451 of
 
 (i)
 
-Annuities Exempt From Certain Legal Process.—Except as provided in subsection (l)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
+Annuities Exempt From Certain Legal Process.—Except as provided in subsection (a)(4) or (l)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 
 (j)
 
@@ -332,9 +336,13 @@ Source of funds.—The special survivor indemnity allowance shall be paid from a
 
 Effective date and duration.—This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on September 30, 2017. Effective on October 1, 2017, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after October 1, 2017.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166; Pub. L. 110–181, div. A, title VI, §§643(a), 644, Jan. 28, 2008, 122 Stat. 157, 158; Pub. L. 110–417, \[div. A\], title VI, §631(a), Oct. 14, 2008, 122 Stat. 4492; Pub. L. 111–31, div. B, title II, §201, June 22, 2009, 123 Stat. 1857; Pub. L. 112–239, div. A, title VI, §641(b), Jan. 2, 2013, 126 Stat. 1783.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166; Pub. L. 110–181, div. A, title VI, §§643(a), 644, Jan. 28, 2008, 122 Stat. 157, 158; Pub. L. 110–417, \[div. A\], title VI, §631(a), Oct. 14, 2008, 122 Stat. 4492; Pub. L. 111–31, div. B, title II, §201, June 22, 2009, 123 Stat. 1857; Pub. L. 112–239, div. A, title VI, §641(b), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–291, div. A, title VI, §624(a)(1), (2)(A), Dec. 19, 2014, 128 Stat. 3403.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(4), (5). Pub. L. 113–291, §624(a)(1), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (i). Pub. L. 113–291, §624(a)(2)(A), inserted "(a)(4) or" after "subsection".
 
 <b>2013</b>—Subsec. (d). Pub. L. 112–239 inserted "or chapter 84 of such title" after "chapter 83 of title 5", "or 8416(a)" after "8339(j)", and "or 8442(a)" after "8341(b)".
 
@@ -376,7 +384,7 @@ Subsec. (k)(1). Pub. L. 100–180 substituted "55 years of age" for "60 years of
 
 Subsec. (c). Pub. L. 99–661, §1343(a)(8)(C), substituted "entitled to dependency and indemnity compensation" for "entitled to compensation".
 
-Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted "is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order oragreement," for "enters into a voluntary written agreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement".
+Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted "is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement," for "enters into a voluntary written agreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement".
 
 Subsec. (f)(2)(A). Pub. L. 99–661, §641(b)(2)(B), substituted "in a case in which the election is required by a court order, or in which an agreement to make the election" for "in a case in which such agreement".
 
@@ -448,7 +456,7 @@ Subsec. (f)(2). Pub. L. 98–94, §941(c)(3)(B), substituted "or annulment," for
 
 <b>1982</b>—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted "former spouse or other natural person" for "natural person" and "unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)" for "if there is no eligible beneficiary under clause (1) or clause (2)".
 
-Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted "A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection," for "An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,", inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
+Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted "A person who elects to provide an annuity to a person designated byhim under section 1448(b) of this title may, subject to paragraph (2) of this subsection," for "An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,", inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
 
 <b>1981</b>—Subsec. (d). Pub. L. 97–22 substituted "Office of Personnel Management" for "Civil Service Commission".
 

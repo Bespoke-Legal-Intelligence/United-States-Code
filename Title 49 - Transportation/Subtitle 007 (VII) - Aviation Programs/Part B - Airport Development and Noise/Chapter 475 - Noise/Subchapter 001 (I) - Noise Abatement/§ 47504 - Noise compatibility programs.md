@@ -56,7 +56,7 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(B) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airport—
+&emsp;(B) to an airport operator and unit of local government referred to in paragraph (1)(A) or\(1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airport—
 
 &emsp;&emsp;(i) if the airport operator amended an existing local aircraft noise regulation during calendar year 1993 to increase the maximum permitted noise levels for scheduled air carrier aircraft as a direct result of implementation of revised aircraft noise departure procedures mandated for aircraft safety purposes by the Administrator of the Federal Aviation Administration for standardized application at airports served by scheduled air carriers;
 
@@ -118,7 +118,7 @@ Receipts credited as offsetting collections.—Notwithstanding section 3302 of t
 
 Determination of Fair Market Value of Residential Properties.—In approving a project to acquire residential real property using financial assistance made available under this section or chapter 471, the Secretary shall ensure that the appraisal of the property to be acquired disregards any decrease or increase in the fair market value of the real property caused by the project for which the property is to be acquired, or by the likelihood that the property would be acquired for the project, other than that due to physical deterioration within the reasonable control of the owner.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr.5, 2000, 114 Stat. 88; Pub. L. 108–176, title I, §189, title III, §306, Dec. 12, 2003, 117 Stat. 2519, 2539; Pub. L. 112–95, title V, §§504, 505, Feb. 14, 2012, 126 Stat. 104.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr. 5, 2000, 114 Stat. 88; Pub. L. 108–176, title I, §189, title III, §306, Dec. 12, 2003, 117 Stat. 2519, 2539; Pub. L. 112–95, title V, §§504, 505, Feb. 14, 2012, 126 Stat. 104.)
 
 Historical and Revision Notes
 

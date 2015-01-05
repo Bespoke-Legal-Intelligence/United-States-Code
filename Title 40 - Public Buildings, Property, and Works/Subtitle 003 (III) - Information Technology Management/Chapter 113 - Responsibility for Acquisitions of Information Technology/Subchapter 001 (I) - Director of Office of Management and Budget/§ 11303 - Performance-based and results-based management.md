@@ -24,7 +24,7 @@ Direction for executive agency action.—The Director shall issue to the head of
 
 &emsp;&emsp;&emsp;(ii) whether the function should be performed by the executive agency and, if so, whether the function should be performed by a private sector source under contract or by executive agency personnel;
 
-&emsp;&emsp;(C) analyze the missions of the executive agency and, based on the analysis, revise the executive agency's mission-related processes and administrative processes, as appropriate, before making significant investments in information technology to be used in support of those missions; and
+&emsp;&emsp;(C) analyze the missions of the executive agency and, based on the analysis, revise the executive agency's mission-related processesand administrative processes, as appropriate, before making significant investments in information technology to be used in support of those missions; and
 
 &emsp;&emsp;(D) ensure that the information security policies, procedures, and practices are adequate.
 

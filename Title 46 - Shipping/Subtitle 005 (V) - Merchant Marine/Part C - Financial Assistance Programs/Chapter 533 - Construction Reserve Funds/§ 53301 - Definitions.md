@@ -70,5 +70,5 @@ Subsection (a)(2)(B) is substituted for the source provision to state more direc
 
 #### References in Text
 
-The Merchant Marine Act, 1936, referred to in subsec. (a)(2)(A)(i), is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936Amendment note set out under section 101 of this title and Tables.
+The Merchant Marine Act, 1936, referred to in subsec. (a)(2)(A)(i), is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
 

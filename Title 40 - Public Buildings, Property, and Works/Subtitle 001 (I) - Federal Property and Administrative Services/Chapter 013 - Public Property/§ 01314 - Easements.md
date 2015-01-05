@@ -16,7 +16,7 @@ Real property of the government.—The term "real property of the Government" ex
 
 &emsp;&emsp;&emsp;(i) land reserved or dedicated for national forest purposes;
 
-&emsp;&emsp;&emsp;(ii) land the Secretary of the Interior administers or supervises in accordance with the Act of August 25, 1916 (16 U.S.C. 1, 2, 3, 4) (known as the National Park Service Organic Act);
+&emsp;&emsp;&emsp;(ii) land the Secretary of the Interior administers or supervises in accordance with section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54;
 
 &emsp;&emsp;&emsp;(iii) Indian-owned trust and restricted land; and
 
@@ -68,7 +68,7 @@ Additional Easement Authority.—The authority conferred by this section is in a
 
 Limitation on Issuance of Rights of Way.—Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this section.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1139.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1139; Pub. L. 113–287, §5(j)(4), Dec. 19, 2014, 128 Stat. 3269.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,7 @@ In subsection (b), the words "for a right-of-way or other purpose" are omitted a
 
 In subsection (c), the words "affected" and "concerned" before "a notice" are omitted as unnecessary. The words "chief executive officer" are substituted for "Governor" for clarity.
 
-#### References in Text
+#### Amendments
 
-The National Park Service Organic Act, referred to in subsec. (a)(2)(A)(ii), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, as amended, which is classified generally to sections 1, 2, 3, and 4 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 16 and Tables.
+<b>2014</b>—Subsec. (a)(2)(A)(ii). Pub. L. 113–287 substituted "section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54" for "the Act of August 25, 1916 (16 U.S.C. 1, 2, 3, 4) (known as the National Park Service Organic Act)".
 

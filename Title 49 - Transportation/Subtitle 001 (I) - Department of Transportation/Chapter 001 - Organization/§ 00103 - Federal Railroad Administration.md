@@ -40,7 +40,7 @@ Limitation.—A duty or power specified in subsection (g)(1) may be transferred 
 
 (i)
 
-Authorities.—Subject to the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) ofsubtitle I of title 41, the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions at the Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
+Authorities.—Subject to the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions at the Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
 
 (j)
 
@@ -128,7 +128,7 @@ In subsection (a), the words "To carry out" are substituted for "for purposes of
 
 In subsection (b), the words "Each of these components" are omitted as surplus.
 
-In subsection (c), the words "vested in the Secretary" are substituted for "as set forth in the statutes transferred to the Secretary" in 49:1655(f)(3)(A) for clarity and consistency. The words "section 6(e)(1), (2), and (6)(A) of the Department of Transportation Act (49 U.S.C. 1655(e)(1), (2), and (6)(A))" are substituted for "subsection (e) of this section (other than subsection (e)(4) of this section)" in 49:1655(f)(3)(A) for clarity.
+In subsection (c), the words "vested in the Secretary" are substituted for "as set forth in the statutes transferred to the Secretary" in 49:1655(f)(3)(A) for clarity and consistency. The words "section 6(e)(1), (2), and\(6)(A) of the Department of Transportation Act (49 U.S.C. 1655(e)(1), (2), and (6)(A))" are substituted for "subsection (e) of this section (other than subsection (e)(4) of this section)" in 49:1655(f)(3)(A) for clarity.
 
 In subsection (d), the word "law" is substituted for "statute" in 49:1652(e)(4) for consistency. The words after "administratively final" in 49:1655(f)(3)(C) are omitted as unnecessary because of the restatement of the revised title and those laws giving a right to appeal.
 

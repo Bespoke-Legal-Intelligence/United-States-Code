@@ -126,7 +126,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 #### (f) Treatment of anticipated and predicted activities
 
-For fiscal year 2011 and subsequent fiscal years, the Secretary concerned shall request funds within the Wildland Fire Management appropriation account of that Secretary for regular wildfire suppression activities that do not meet the criteria specified in subsection (e)(2)(B)(i).
+For fiscal year 2011 and subsequent fiscal years, the Secretary concerned shall requestfunds within the Wildland Fire Management appropriation account of that Secretary for regular wildfire suppression activities that do not meet the criteria specified in subsection (e)(2)(B)(i).
 
 #### (g) Prohibition on other transfers
 

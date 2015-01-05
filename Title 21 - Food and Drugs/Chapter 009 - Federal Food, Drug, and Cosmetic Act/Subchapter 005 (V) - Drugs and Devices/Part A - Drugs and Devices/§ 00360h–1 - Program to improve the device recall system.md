@@ -8,7 +8,7 @@ The Secretary shall—
 
 &emsp;(2) clarify procedures for conducting device recall audit checks to improve the ability of investigators to perform those checks in a consistent manner;
 
-&emsp;(3) develop detailed criteria for assessing whether a person performing a device recallhas performed an effective correction or action plan for the recall; and
+&emsp;(3) develop detailed criteria for assessing whether a person performing a device recall has performed an effective correction or action plan for the recall; and
 
 &emsp;(4) document the basis for each termination by the Food and Drug Administration of a device recall.
 

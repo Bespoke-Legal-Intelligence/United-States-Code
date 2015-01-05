@@ -162,7 +162,7 @@ Resolution of Disapproval.—Notwithstanding the requirements in subsection (b) 
 
 "(a)
 
-Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to the appropriate congressional committees that it is the policy of the United States to work with members of the Nuclear Suppliers Group (NSG), individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
+Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to the appropriate congressional committees that it is the policy of the United States to work with members of the Nuclear Suppliers Group\(NSG), individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
 
 "(b)
 

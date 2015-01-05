@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(ii) mischaracterizing or suborning the mischaracterization of the appraised value of the property securing the extension of credit; or
 
-&emsp;&emsp;&emsp;(iii) if unable to suggest, offer, or recommend to a consumer a loan that is notmore expensive than a loan for which the consumer qualifies, discouraging a consumer from seeking a residential mortgage loan secured by a consumer's principal dwelling from another mortgage originator.
+&emsp;&emsp;&emsp;(iii) if unable to suggest, offer, or recommend to a consumer a loan that is not more expensive than a loan for which the consumer qualifies, discouraging a consumer from seeking a residential mortgage loan secured by a consumer's principal dwelling from another mortgage originator.
 
 #### (4) Rules of construction
 
@@ -130,7 +130,7 @@ Section effective on the date on which final regulations implementing such secti
 
 #### Rule of Construction
 
-Pub. L. 111–203, title XIV, §1415, July 21, 2010, 124 Stat. 2153, provided that: "Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act \[15 U.S.C. 1639b, 1639c\] (as added by thistitle), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] or any other provision of Federal or State law."
+Pub. L. 111–203, title XIV, §1415, July 21, 2010, 124 Stat. 2153, provided that: "Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act \[15 U.S.C. 1639b, 1639c\] (as added by this title), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] or any other provision of Federal or State law."
 
 \[For definition of "State" as used in section 1415 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 

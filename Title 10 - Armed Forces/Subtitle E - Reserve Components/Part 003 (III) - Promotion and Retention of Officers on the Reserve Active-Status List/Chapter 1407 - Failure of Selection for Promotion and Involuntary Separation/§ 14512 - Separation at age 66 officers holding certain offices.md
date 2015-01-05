@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 110–181, §1825(b)(2), designated existing provisions as 
 
 <b>2006</b>—Pub. L. 109–364, §503(d)(2), substituted "66" for "64" in section catchline.
 
-Subsec. (a). Pub. L. 109–163, §511, designated existing provisions as par. (1), substituted "who is specified inparagraph (2)" for "who is Chief of the National Guard Bureau, an adjutant general, or if a reserve officer of the Army, commanding general of the troops of a State,", and added par. (2).
+Subsec. (a). Pub. L. 109–163, §511, designated existing provisions as par. (1), substituted "who is specified in paragraph (2)" for "who is Chief of the National Guard Bureau, an adjutant general, or if a reserve officer of the Army, commanding general of the troops of a State,", and added par. (2).
 
 Subsec. (a)(1). Pub. L. 109–364, §503(d)(1), substituted "66" for "64".
 

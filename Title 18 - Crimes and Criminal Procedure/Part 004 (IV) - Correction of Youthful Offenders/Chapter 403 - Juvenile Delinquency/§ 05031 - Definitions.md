@@ -1,6 +1,6 @@
 ### §5031. Definitions
 
-For the purposes of this chapter, a "juvenile" is a person who has not attained his eighteenthbirthday, or for the purpose of proceedings and disposition under this chapter for an alleged act of juvenile delinquency, a person who has not attained his twenty-first birthday, and "juvenile delinquency" is the violation of a law of the United States committed by a person prior to his eighteenth birthday which would have been a crime if committed by an adult or a violation by such a person of section 922(x).
+For the purposes of this chapter, a "juvenile" is a person who has not attained his eighteenth birthday, or for the purpose of proceedings and disposition under this chapter for an alleged act of juvenile delinquency, a person who has not attained his twenty-first birthday, and "juvenile delinquency" is the violation of a law of the United States committed by a person prior to his eighteenth birthday which would have been a crime if committed by an adult or a violation by such a person of section 922(x).
 
 (June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, §501, Sept. 7, 1974, 88 Stat. 1133; Pub. L. 103–322, title XI, §110201(c)(1), Sept. 13, 1994, 108 Stat. 2012.)
 

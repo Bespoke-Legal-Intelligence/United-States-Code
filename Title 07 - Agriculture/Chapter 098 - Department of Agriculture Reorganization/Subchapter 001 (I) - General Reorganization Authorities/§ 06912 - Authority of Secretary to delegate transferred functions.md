@@ -38,7 +38,7 @@ To the extent that the implementation of the authority provided to the Secretary
 
 #### (1) Related transfers
 
-&emsp;Subject to paragraph (2), as part of the transfer or delegation of a function of the Department made or authorized by this chapter,the Secretary may transfer within the Department—
+&emsp;Subject to paragraph (2), as part of the transfer or delegation of a function of the Department made or authorized by this chapter, the Secretary may transfer within the Department—
 
 &emsp;&emsp;(A) any of the records, property, or personnel affected by the transfer or delegation of the function; and
 

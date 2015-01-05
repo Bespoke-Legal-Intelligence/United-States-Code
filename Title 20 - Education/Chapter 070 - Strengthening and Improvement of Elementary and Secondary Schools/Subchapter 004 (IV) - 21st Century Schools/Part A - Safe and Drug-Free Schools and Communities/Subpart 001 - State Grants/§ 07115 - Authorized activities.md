@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(viii) Conflict resolution programs, including peer mediation programs that educate and train peer mediators and a designated faculty supervisor, and youth anti-crime and anti-drug councils and activities.
 
-&emsp;&emsp;&emsp;(ix) Alternative education programs or services for violent or drug abusing students that reduce the need for suspension or expulsion or that serve students who have been suspended or expelled from the regular educational settings, includingprograms or services to assist students to make continued progress toward meeting the State academic achievement standards and to reenter the regular education setting.
+&emsp;&emsp;&emsp;(ix) Alternative education programs or services for violent or drug abusing students that reduce the need for suspension or expulsion or that serve students who have been suspended or expelled from the regular educational settings, including programs or services to assist students to make continued progress toward meeting the State academic achievement standards and to reenter the regular education setting.
 
 &emsp;&emsp;&emsp;(x) Counseling, mentoring, referral services, and other student assistance practices and programs, including assistance provided by qualified school-based mental health services providers and the training of teachers by school-based mental health services providers in appropriate identification and intervention techniques for students at risk of violent behavior and illegal use of drugs.
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;(xiv) Consistent with the fourth amendment to the Constitution of the United States, the testing of a student for illegal drug use or the inspecting of a student's locker for weapons or illegal drugs or drug paraphernalia, including at the request of or with the consent of a parent or legal guardian of the student, if the local educational agency elects to so test or inspect.
 
-&emsp;&emsp;&emsp;(xv) Emergency intervention services following traumatic crisis events, such as a shooting, major accident, or a drug-related incident that have disrupted the learning environment.
+&emsp;&emsp;&emsp;(xv) Emergency intervention services following traumatic crisis events, such asa shooting, major accident, or a drug-related incident that have disrupted the learning environment.
 
 &emsp;&emsp;&emsp;(xvi) Establishing or implementing a system for transferring suspension and expulsion records, consistent with section 1232g of this title, by a local educational agency to any public or private elementary school or secondary school.
 

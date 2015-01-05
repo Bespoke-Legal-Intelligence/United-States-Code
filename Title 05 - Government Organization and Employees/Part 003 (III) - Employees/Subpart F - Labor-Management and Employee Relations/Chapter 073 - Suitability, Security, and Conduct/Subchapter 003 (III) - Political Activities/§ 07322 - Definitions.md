@@ -2,7 +2,7 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) “employee” means any individual, other than the President and the Vice President, employed or holding office in—
+&emsp;(1) "employee" means any individual, other than the President and the Vice President, employed or holding office in—
 
 &emsp;&emsp;(A) an Executive agency other than the Government Accountability Office; or
 
@@ -10,9 +10,9 @@ For the purpose of this subchapter—
 
 > &emsp;but does not include a member of the uniformed services or an individual employed or holding office in the government of the District of Columbia;
 
-&emsp;(2) “partisan political office” means any office for which any candidate is nominated or elected as representing a party any of whose candidates for Presidential elector received votes in the last preceding election at which Presidential electors were selected, but shall exclude any office or position within a political party or affiliated organization; and
+&emsp;(2) "partisan political office" means any office for which any candidate is nominated or elected as representing a party any of whose candidates for Presidential elector receivedvotes in the last preceding election at which Presidential electors were selected, but shall exclude any office or position within a political party or affiliated organization; and
 
-&emsp;(3) “political contribution”—
+&emsp;(3) "political contribution"—
 
 &emsp;&emsp;(A) means any gift, subscription, loan, advance, or deposit of money or anything of value, made for any political purpose;
 
@@ -30,11 +30,11 @@ A prior section 7322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 
 #### Amendments
 
-<b>2012</b>—Par. (1). Pub. L. 112–230, §3(e)(4), substituted “services or an individual employed or holding office in the government of the District of Columbia;” for “services;” in concluding provisions.
+<b>2012</b>—Par. (1). Pub. L. 112–230, §3(e)(4), substituted "services or an individual employed or holding office in the government of the District of Columbia;" for "services;" in concluding provisions.
 
-Pub. L. 112–230, §3(e)(1)–(3), inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the government of the District of Columbia, other than the Mayor or a member of the City Council or the Recorder of Deeds;”.
+Pub. L. 112–230, §3(e)(1)–(3), inserted "or" at end of subpar. (A), struck out "or" at end of subpar. (B), and struck out subpar. (C) which read as follows: "the government of the District of Columbia, other than the Mayor or a member of the City Council or the Recorder of Deeds;".
 
-<b>2004</b>—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 #### Effective Date of 2012 Amendment
 

@@ -14,7 +14,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 &emsp;&emsp;(B) one member elected by the voting stockholders of each district bank for cooperatives that is not a constituent of the consolidated bank; and
 
-&emsp;&emsp;(C) one member appointed by the members chosen under subparagraphs (A) and (B) who shall not be a stockholder or borrower of a System institution or an officer or director of any such stockholder or borrower.
+&emsp;&emsp;(C) one member appointed by the members chosen under subparagraphs (A) and (B) who shall not be a stockholder or borrower of aSystem institution or an officer or director of any such stockholder or borrower.
 
 #### (2) Nomination and election
 
@@ -28,7 +28,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The nomination and election of the second member from each district shall be carried out with each voting stockholder of the consolidated bank located in the district having one vote, plus a number of votes (or fractional part thereof) equal to the number of stockholders eligible to vote in that district multiplied by the percentage (or fractional part thereof) of the total equity interest (including allocated, but not unallocated, surplus and reserves) inthe consolidated bank of all such stockholders located in that district held by the individual voting stockholder—
+&emsp;&emsp;&emsp;The nomination and election of the second member from each district shall be carried out with each voting stockholder of the consolidated bank located in the district having one vote, plus a number of votes (or fractional part thereof) equal to the number of stockholders eligible to vote in that district multiplied by the percentage (or fractional part thereof) of the total equity interest (including allocated, but not unallocated, surplus and reserves) in the consolidated bank of all such stockholders located in that district held by the individual voting stockholder—
 
 &emsp;&emsp;&emsp;&emsp;(I) at the close of the immediately preceding fiscal year of the consolidated bank; or
 

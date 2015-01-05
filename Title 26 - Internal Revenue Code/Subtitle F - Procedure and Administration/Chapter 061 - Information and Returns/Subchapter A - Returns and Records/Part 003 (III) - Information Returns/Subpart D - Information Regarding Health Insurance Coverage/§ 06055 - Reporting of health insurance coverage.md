@@ -52,7 +52,7 @@ Every person who provides minimum essential coverage to an individual during a c
 
 #### (d) Coverage provided by governmental units
 
-In the case of coverage provided by any governmental unit or any agency or instrumentality thereof, the officer or employee who enters into the agreement to provide such coverage (orthe person appropriately designated for purposes of this section) shall make the returns and statements required by this section.
+In the case of coverage provided by any governmental unit or any agency or instrumentality thereof, the officer or employee who enters into the agreement to provide such coverage (or the person appropriately designated for purposes of this section) shall make the returns and statements required by this section.
 
 #### (e) Minimum essential coverage
 

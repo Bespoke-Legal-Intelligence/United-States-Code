@@ -92,7 +92,7 @@ In subsection (a)(2), the word "civilian" is omitted as unnecessary. The words "
 
 In subsection (a)(4), the words "imposed or compromised" are substituted for "finally determined or fixed by order of the Board, or the amount agreed upon in compromise" in 49 App.:1471(a)(2) for consistency and to eliminate unnecessary words.
 
-In subsection (a)(5), the words "imposed or assessed" are omitted as surplus. The words "civil action against the person" are substituted for "proceedings in personam against the person" in 49 App.:1473(b)(1) for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.) and to eliminate unnecessary words. The text of 49 App.:1473(b)(1) (1st sentence words after 1st comma and last sentence) is omitted as unnecessary because penalties imposed by the National Transportation Safety Board do not involve liens on aircraft. The text of 49 App.:1473(b)(4) is omitted as unnecessary because of 28:ch. 131.
+In subsection (a)(5), the words "imposed or assessed" are omitted as surplus. The words "civil action against the person" are substituted for "proceedings in personam against the person" in 49 App.:1473(b)(1) for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.) and to eliminate unnecessary words. The text of 49 App.:1473(b)(1) (1st sentence words after 1st comma and last sentence) is omitted as unnecessary because penalties imposed by the National Transportation Safety Board do not involve liens onaircraft. The text of 49 App.:1473(b)(4) is omitted as unnecessary because of 28:ch. 131.
 
 #### References in Text
 

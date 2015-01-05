@@ -20,7 +20,7 @@ Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000,
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–405, §309, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A person who knowingly—
+<b>2004</b>—Subsec. (c). Pub. L. 108–405, §309, reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "A person who knowingly—
 
 &emsp;"(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
 

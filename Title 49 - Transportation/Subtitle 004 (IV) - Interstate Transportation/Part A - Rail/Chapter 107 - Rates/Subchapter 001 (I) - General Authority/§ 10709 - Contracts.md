@@ -34,7 +34,7 @@
 
 (C) For purposes of this paragraph, the term "unreasonable discrimination" has the same meaning as such term has under section 10741 of this title.
 
-(3)(A) Within 30 days after the date a proceeding is commenced under paragraph (1) of this subsection, or within such shorter time period after such date as the Board may establish, the Board shall determine whether the contract that is the subject of such proceeding is in violation of this section.
+(3)(A) Within 30 days after the date a proceeding is commenced under paragraph (1) of this subsection, or within such shorter time period after such date as the Board may establish, the Board shall determine whether the contractthat is the subject of such proceeding is in violation of this section.
 
 (B) If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
 

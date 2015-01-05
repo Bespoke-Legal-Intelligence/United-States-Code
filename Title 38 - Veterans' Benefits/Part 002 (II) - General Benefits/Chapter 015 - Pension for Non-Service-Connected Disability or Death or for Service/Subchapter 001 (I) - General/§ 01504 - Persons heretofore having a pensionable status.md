@@ -1,6 +1,6 @@
 ### §1504. Persons heretofore having a pensionable status
 
-The pension benefits of subchapters II and III of this chapter shall, notwithstanding the service requirements of such subchapters, be granted to persons heretofore recognized by law as having a pensionable status.
+The pension benefits of subchapters II and III of this chapter shall, notwithstanding the service requirements of such subchapters, be grantedto persons heretofore recognized by law as having a pensionable status.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §504; renumbered §1504, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

@@ -142,11 +142,11 @@ In the case of stock of a passive foreign investment company which is acquired b
 
 #### (A) In general
 
-&emsp;&emsp;If a regulated investment company elects the application of this section with respect to any marketable stock in a corporation after the beginning of the taxpayer's holding period in such stock, then, with respect to such company's first taxable year for which such company elects the application of this section with respect to such stock—
+&emsp;&emsp;If a regulated investment company elects the application of this section with respectto any marketable stock in a corporation after the beginning of the taxpayer's holding period in such stock, then, with respect to such company's first taxable year for which such company elects the application of this section with respect to such stock—
 
 &emsp;&emsp;&emsp;(i) section 1291 shall not apply to such stock with respect to any distribution or disposition during, or amount included in gross income under this section for, such first taxable year, but
 
-&emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such firsttaxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
+&emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such first taxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
 
 > &emsp;&emsp;Clause (ii) shall not apply if for the preceding taxable year the company elected to mark to market the stock held by such company as of the last day of such preceding taxable year.
 

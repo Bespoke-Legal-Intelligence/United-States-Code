@@ -62,7 +62,7 @@ Elements.—The assessment submitted under this subsection shall include the fol
 
 &emsp;&emsp;"(A) An estimate of the number of man-portable air-defense systems that were in Libya as of March 19, 2011.
 
-&emsp;&emsp;"(B) An estimate of the number of man-portable air-defense systems in Libya as of March 19, 2011, that are currently in the secure custody of the Government of Libya, the United States, an ally of the United States, a member of the North Atlantic Treaty Organization (NATO), or the United Nations.
+&emsp;&emsp;"(B) An estimate of the number of man-portable air-defense systems in Libya as of March 19, 2011,that are currently in the secure custody of the Government of Libya, the United States, an ally of the United States, a member of the North Atlantic Treaty Organization (NATO), or the United Nations.
 
 &emsp;&emsp;"(C) An estimate of the number of man-portable air-defense systems in Libya as of March 19, 2011, that were destroyed, disabled, or otherwise rendered unusable during Operation Unified Protector and since the end of Operation Unified Protector.
 
@@ -72,7 +72,7 @@ Elements.—The assessment submitted under this subsection shall include the fol
 
 &emsp;&emsp;"(F) A list of any organizations designated as terrorist organizations by the Department of State, or affiliate organizations or members of such organizations, that are known or believed to have custody of any man-portable air-defense systems that were in the custody of the Government of Libya as of March 19, 2011.
 
-&emsp;&emsp;"(G) An assessment of the threat posed to United States citizens and citizens of allies of the United States from unsecured man-portable air-defense systems (as defined in section 11 of the Departmentof State Authorities Act of 2006) originating from Libya.
+&emsp;&emsp;"(G) An assessment of the threat posed to United States citizens and citizens of allies of the United States from unsecured man-portable air-defense systems (as defined in section 11 of the Department of State Authorities Act of 2006) originating from Libya.
 
 &emsp;&emsp;"(H) An assessment of the effect of the proliferation of man-portable air-defense systems that were in Libya as of March 19, 2011, on the price and availability of man-portable air-defense systems that are on the global arms market.
 

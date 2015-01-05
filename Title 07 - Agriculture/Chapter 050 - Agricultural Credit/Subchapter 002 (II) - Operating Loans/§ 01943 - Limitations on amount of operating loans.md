@@ -16,13 +16,73 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 &emsp;(2) the average of such index (as so defined) for the 12-month period ending on August 31, 1996.
 
-(Pub. L. 87–128, title III, §313, Aug. 8, 1961, 75 Stat. 310; Pub. L. 90–488, §9, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §122, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §116, Aug. 4, 1978, 92 Stat. 426; Pub. L. 98–258, title VI, §604(a), Apr. 10, 1984, 98 Stat. 139; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, §5102, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, §4(a), title V, §5102, June 18, 2008, 122 Stat. 1664, 1908.)
+#### (c) Microloans
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), the Secretary may establish a program to make or guarantee microloans.
+
+#### (2) Limitations
+
+&emsp;The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this chapter to any 1 borrower to exceed $50,000.
+
+#### (3) Applications
+
+&emsp;To the maximum extent practicable, the Secretary shall limit the administrative burdens and streamline the application and approval process for microloans under this subsection.
+
+#### (4) Cooperative lending pilot projects
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), during each of the 2014 through 2018 fiscal years, the Secretary may carry out a pilot project to make loans to community development financial institutions, as the Secretary determines appropriate—
+
+&emsp;&emsp;&emsp;(i) to make or guarantee microloans consistent with the terms provided under this subsection; and
+
+&emsp;&emsp;&emsp;(ii) to provide business, financial, marketing, and credit management services to microloan borrowers.
+
+#### (B) Requirements
+
+&emsp;&emsp;Prior to making a loan to an institution described in subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) review and approve—
+
+&emsp;&emsp;&emsp;&emsp;(I) the loan loss reserve fund for microloans established by the institution; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the underwriting standards for microloans of the institution; and
+
+&emsp;&emsp;&emsp;(ii) establish such other requirements for making a loan to the institution as the Secretary determines necessary.
+
+#### (C) Eligibility
+
+&emsp;&emsp;To be eligible for a loan under subparagraph (A), an institution described in subparagraph (A) shall, as determined by the Secretary—
+
+&emsp;&emsp;&emsp;(i) have the legal authority necessary to carry out the actions described in subparagraph (A);
+
+&emsp;&emsp;&emsp;(ii) have a proven track record of successfully assisting agricultural borrowers; and
+
+&emsp;&emsp;&emsp;(iii) have the services of a staff with appropriate loan making and servicing expertise.
+
+#### (D) Oversight
+
+&emsp;&emsp;Not less often than annually, on a date determined by the Secretary, an institution that has a loan under this paragraph shall provide to the Secretary such information as the Secretary may require to ensure that the services provided by the institution are serving the purposes of this subsection.
+
+#### (E) Limitation
+
+&emsp;&emsp;The Secretary shall not make more than $10,000,000 in loans under this paragraph in any fiscal year.
+
+(Pub. L. 87–128, title III, §313, Aug. 8, 1961, 75 Stat. 310; Pub. L. 90–488, §9, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §122, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §116, Aug. 4, 1978, 92 Stat. 426; Pub. L. 98–258, title VI, §604(a), Apr. 10, 1984, 98 Stat. 139; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, §5102, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, §4(a), title V, §5102, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, §5106(a), Feb. 7, 2014, 128 Stat. 837.)
+
+#### References in Text
+
+For definition of "this chapter", referred to in subsec. (c), see note set out under section 1921 of this title.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–79 added subsec. (c).
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5102, substituted "$300,000" for "$200,000".
 
@@ -38,5 +98,5 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

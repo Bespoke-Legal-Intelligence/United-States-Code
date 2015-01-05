@@ -36,7 +36,7 @@ General Limitations.—(1) Except as provided in this section, a State may not p
 
 &emsp;(D) imposes a vehicle length limitation of not less than or more than 97 feet on all driveaway saddlemount vehicle transporter combinations;
 
-&emsp;(E) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State; or
+&emsp;(E) has the effect of prohibiting the use of an existing semitrailer or trailer, of not morethan 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State; or
 
 &emsp;(F) imposes a limitation of less than 46 feet on the distance from the kingpin to the center of the rear axle on trailers used exclusively or primarily in connection with motorsports competition events.
 

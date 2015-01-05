@@ -28,37 +28,7 @@ Passenger fees.—The Under Secretary of Transportation for Security shall impos
 
 > &emsp;The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term "Federal law enforcement personnel" includes State and local law enforcement officers who are deputized under section 44922.
 
-&emsp;(2)
-
-Air carrier fees.—
-
-&emsp;&emsp;(A)
-
-Authority.—In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limitedonly to additional amounts collected by the Secretary before October 1, 2007.
-
-&emsp;&emsp;(B)
-
-Limitations.—
-
-&emsp;&emsp;&emsp;(i)
-
-Overall limit.—The amounts of fees collected under this paragraph for each fiscal year may not exceed, in the aggregate, the amounts paid in calendar year 2000 by carriers described in subparagraph (A) for screening passengers and property, as determined by the Under Secretary.
-
-&emsp;&emsp;&emsp;(ii)
-
-Per-carrier limit.—The amount of fees collected under this paragraph from an air carrier described in subparagraph (A) for each of fiscal years 2002, 2003, and 2004 may not exceed the amount paid in calendar year 2000 by that carrier for screening passengers and property, as determined by the Under Secretary.
-
-&emsp;&emsp;&emsp;(iii)
-
-Adjustment of per-carrier limit.—For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu of actual screening costs in calendar year 2000.
-
-&emsp;&emsp;&emsp;(iv)
-
-Finality of determinations.—Determinations of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
-
-&emsp;&emsp;(C)
-
-Special rule for fiscal year 2002.—The amount of fees collected under this paragraph from any carrier for fiscal year 2002 may not exceed the amounts paid by that carrier for screening passengers and property for a period of time in calendar year 2000 proportionate to the period of time in fiscal year 2002 during which fees are collected under this paragraph.
+&emsp;\[(2) Repealed. Pub. L. 113–67, div. A, title VI, §601(a)(1), Dec. 26, 2013, 127 Stat. 1187.\]
 
 (b)
 
@@ -66,7 +36,15 @@ Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary s
 
 (c)
 
-Limitation on Fee.—Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.
+Limitation on Fee.—
+
+&emsp;(1)
+
+Amount.—Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States, except that the fee imposed per round trip shall not exceed $11.20.
+
+&emsp;(2)
+
+Definition of round trip.—In this subsection, the term "round trip" means a trip on an air travel itinerary that terminates or has a stopover at the origin point (or co-terminal).
 
 (d)
 
@@ -74,7 +52,7 @@ Imposition of Fee.—
 
 &emsp;(1)
 
-In general.—Notwithstanding section 9701 of title 31 and the procedural requirements of section 553 of title 5, the Under Secretary shall impose the fee under subsection (a)(1), and may impose a fee under subsection (a)(2), through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
+In general.—Notwithstanding section 9701 of title 31 and the procedural requirements of section 553 of title 5, the Under Secretary shall impose the fee under subsection (a)(1) through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
 
 &emsp;(2)
 
@@ -132,7 +110,7 @@ Refunds.—The Under Secretary may refund any fee paid by mistake or any amount 
 
 (h)
 
-Exemptions.—The Under Secretary may exempt from the passenger fee imposed undersubsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
+Exemptions.—The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
 (i)
 
@@ -174,17 +152,7 @@ Fiscal year amounts.—For purposes of paragraphs (1) and (2), the fiscal year a
 
 &emsp;&emsp;(J) $1,520,000,000 for fiscal year 2023.
 
-(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 113–67, div. A, title VI, §601(a)(1), (2), (b), (c), Dec. 26, 2013, 127 Stat. 1187.)
-
-#### Amendment of Subsections (a)(2) and (d)(1)
-
-<i>Pub. L. 113–67, div. A, title VI, §601(a), Dec. 26, 2013, 127 Stat. 1187, provided that, effective Oct. 1, 2014, this section is amended:</i>
-
-<i>(1) by repealing subsection (a)(2), and</i>
-
-<i>(2) in subsection (d)(1), by striking ", and may impose a fee under subsection (a)(2),".</i>
-
-<i>See 2013 Amendment notes below.</i>
+(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 113–67, div. A, title VI, §601(a)(1), (2), (b), (c), Dec. 26, 2013, 127 Stat. 1187; Pub. L. 113–294, §1(a), Dec. 19, 2014, 128 Stat. 4009.)
 
 #### References in Text
 
@@ -195,6 +163,8 @@ The date of enactment of this Act, referred to in subsec. (d)(1), probably means
 Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–294 amended subsec. (c) generally. Prior to amendment, text read as follows: "Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States."
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 113–67, §601(a)(1), struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
 
@@ -215,6 +185,10 @@ Subsec. (i). Pub. L. 110–53, §1601(2), added subsec. (i).
 Subsec. (a)(1)(H), (I). Pub. L. 108–176, §605(b)(1), added subpars. (H) and (I).
 
 Subsec. (d)(4). Pub. L. 108–176, §605(b)(2), substituted "appropriations Act or in section 44923" for "appropriations Act".
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–294, §1(b), Dec. 19, 2014, 128 Stat. 4009, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to a trip in air transportation or intrastate air transportation that is purchased on or after the date of the enactment of this Act \[Dec. 19, 2014\]."
 
 #### Effective Date of 2013 Amendment
 

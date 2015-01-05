@@ -16,7 +16,7 @@ The heads of the executive departments created by this chapter shall be appointe
 
 #### Amendments
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–496 substituted provisions that members of school boards which have been duly organized by the government of the Virgin Islands be popularly elected for provisions that required the approval of the Secretary of the Interior for the establishment of any new department, agency, or other instrumentality by the Governor or the legislature, unless such department, agency, etc., was required by Federal law for participation in Federal programs.
+<b>1968</b>—Subsec. (a). Pub. L. 90–496 substituted provisions that members of school boards which have beenduly organized by the government of the Virgin Islands be popularly elected for provisions that required the approval of the Secretary of the Interior for the establishment of any new department, agency, or other instrumentality by the Governor or the legislature, unless such department, agency, etc., was required by Federal law for participation in Federal programs.
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–289 provided that the head of the department of law should be known as the attorney general of the Virgin Islands.
 

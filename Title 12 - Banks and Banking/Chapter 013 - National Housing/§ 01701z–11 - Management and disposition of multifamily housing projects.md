@@ -74,7 +74,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) by very low-income families, the rent does not exceed 30 percent of 50 percent of the area median income, as determined by the Secretary, with adjustments for smaller and larger families; and
 
-&emsp;&emsp;&emsp;(ii) by low-income families other than very low-income families, the rent does not exceed 30 percent of 80 percent of the area median income, as determined by the Secretary, with adjustments for smaller and larger families; or
+&emsp;&emsp;&emsp;(ii) by low-income families other than very low-income families, the rent does not exceed 30 percent of 80 percent of thearea median income, as determined by the Secretary, with adjustments for smaller and larger families; or
 
 &emsp;&emsp;(B) the unit, or the family residing in the unit, is receiving assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
 
@@ -98,7 +98,7 @@ For purposes of this section:
 
 #### (1) Disposition to purchasers
 
-&emsp;In carrying out this section, the Secretary may dispose of a multifamily housing project owned by the Secretary on a negotiated, competitive bid, or other basis, on such terms as the Secretary deems appropriate considering the low-income character of the project and consistent with the goals in subsection (a) of this section, only to a purchaser determined by the Secretary to be capable of—
+&emsp;In carrying out this section, the Secretary may dispose of a multifamily housing project owned by the Secretary on a negotiated, competitive bid, or other basis, on such terms as the Secretary deems appropriate considering the low-income character of the project and consistent with the goals in subsection (a), only to a purchaser determined by the Secretary to be capable of—
 
 &emsp;&emsp;(A) satisfying the conditions of the disposition plan developed under paragraph (2) for the project;
 
@@ -118,11 +118,11 @@ For purposes of this section:
 
 #### (B) Market-wide plans
 
-&emsp;&emsp;In developing the initial disposition plan under this subsection for a multifamily housing project located in a market area in which at least 1 other multifamily housing project owned by the Secretary is located, the Secretary may coordinate the disposition of all such multifamily housing projects located within the same market area to the extent and in such manner as the Secretary determines appropriate to carry out the goals under subsection (a) of this section.
+&emsp;&emsp;In developing the initial disposition plan under this subsection for a multifamily housing project located in a market area in which at least 1 other multifamily housing project owned by the Secretary is located, the Secretary may coordinate the disposition of all such multifamily housing projects located within the same market area to the extent and in such manner as the Secretary determines appropriate to carry out the goals under subsection (a).
 
 #### (C) Sales price
 
-&emsp;&emsp;The initial sales price shall be reasonably related to the intended use of the projectafter sale, any rehabilitation requirements for the project, the rents for units in the project that can be supported by the market, the amount of rental assistance available for the project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], the occupancy profile of the project (including family size and income levels for tenant families), and any other factors that the Secretary considers appropriate.
+&emsp;&emsp;The initial sales price shall be reasonably related to the intended use of the project after sale, any rehabilitation requirements for the project, the rents for units in the project that can be supported by the market, the amount of rental assistance available for the project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], the occupancy profile of the project (including family size and income levels for tenant families), and any other factors that the Secretary considers appropriate.
 
 #### (D) Community and tenant input
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 #### (E) Technical assistance
 
-&emsp;&emsp;To carry out the procedures developed under subparagraph (D), the Secretary may provide technical assistance, directly or indirectly, and may use amounts available for technical assistance under the Emergency Low Income Housing Preservation Act of 1987, subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4141 et seq.\], subtitle B of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12871 et seq.\], or this section, for the provision of technical assistance under this paragraph. Recipients of technical assistance funding under the provisions referred to in this subparagraph shall be permitted to provide technical assistance to the extent of such funding under any of such provisions or under this subparagraph, notwithstanding the source of the funding.
+&emsp;&emsp;To carry out the procedures developed under subparagraph (D), the Secretary may provide technical assistance, directly or indirectly, and may use amounts available for technical assistance under the Emergency Low Income Housing Preservation Act of 1987, subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4141 et seq.\], subtitle B of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12871 et seq.\], or this section, for the provision of technical assistance under this paragraph. Recipients of technical assistance funding under the provisions referred to in this subparagraph shall be permitted to provide technical assistance to the extent of suchfunding under any of such provisions or under this subparagraph, notwithstanding the source of the funding.
 
 #### (3) Foreclosure sale
 
@@ -178,7 +178,7 @@ For purposes of this section:
 
 #### (e) Required assistance
 
-In disposing of multifamily housing property under this section, consistent with the goal ofsubsection (a)(3)(A) of this section, the Secretary shall take, separately or in combination with other actions under this subsection or subsection (f) of this section, one or more of the following actions:
+In disposing of multifamily housing property under this section, consistent with the goal of subsection (a)(3)(A), the Secretary shall take, separately or in combination with other actions under this subsection or subsection (f), one or more of the following actions:
 
 #### (1) Contract with owner for project-based assistance
 
@@ -186,17 +186,17 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (A) Subsidized or formerly subsidized projects receiving mortgage-related assistance
 
-&emsp;&emsp;In the case of a subsidized or formerly subsidized project referred to in subparagraphs (A) through (C) of subsection (b)(2) of this section—
+&emsp;&emsp;In the case of a subsidized or formerly subsidized project referred to in subparagraphs (A) through (C) of subsection (b)(2)—
 
-&emsp;&emsp;&emsp;(i) the contract shall be sufficient to assist at least all units covered by an assistance contract under any of the authorities referred to in subsection (b)(2)(D) of this section before acquisition or foreclosure, unless the Secretary acts pursuant to the provisions of subparagraph (C);
+&emsp;&emsp;&emsp;(i) the contract shall be sufficient to assist at least all units covered by an assistance contract under any of the authorities referred to in subsection (b)(2)(D) before acquisition or foreclosure, unless the Secretary acts pursuant to the provisions of subparagraph (C);
 
 &emsp;&emsp;&emsp;(ii) the contract shall provide that, when a vacancy occurs in any unit in the project requiring project-based rental assistance pursuant to this subparagraph that is occupied by a family who is not eligible for assistance under such section 8 \[42 U.S.C. 1437f\], the owner shall lease the available unit to a family eligible for assistance under such section 8; and
 
-&emsp;&emsp;&emsp;(iii) the Secretary shall take actions to ensure that any unit in any such project that does not otherwise receive project-based assistance under this subparagraph remains available and affordable for the remaining useful life of the project, as defined by the Secretary; to carry out this clause, the Secretary may require purchasers to establish use or rent restrictions maintaining the affordability of such units.
+&emsp;&emsp;&emsp;(iii) the Secretary shall take actions to ensure that any unit in any such project that does not otherwise receive project-based assistance under this subparagraph remains available and affordable for the remaining useful life of the project, as defined by the Secretary; to carry out thisclause, the Secretary may require purchasers to establish use or rent restrictions maintaining the affordability of such units.
 
 #### (B) Subsidized or formerly subsidized projects receiving rental assistance
 
-&emsp;&emsp;In the case of a subsidized or formerly subsidized project referred to in subsection (b)(2)(D) of this section that is not subject to subparagraph (A)—
+&emsp;&emsp;In the case of a subsidized or formerly subsidized project referred to in subsection (b)(2)(D) that is not subject to subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) the contract shall be sufficient to assist at least all units in the project that are covered, or were covered immediately before foreclosure on or acquisition of the project by the Secretary, by an assistance contract under any of the provisions referred to in such subsection, unless the Secretary acts pursuant to provisions of subparagraph (C); and
 
@@ -260,7 +260,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the authority provided under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may provide other assistance pursuant to subsection (f) of this section to the owners of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure, or after sale by the Secretary, on terms that ensure that—
+&emsp;&emsp;In accordance with the authority provided under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may provide other assistance pursuant to subsection (f) to the owners of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure, or after sale by the Secretary, on terms that ensure that—
 
 &emsp;&emsp;&emsp;(i) at least the units in the project otherwise required to receive project-based assistance pursuant to subparagraphs (A), (B), or (D) of paragraph (1) are available to and affordable by low-income persons; and
 
@@ -272,7 +272,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (f) Discretionary assistance
 
-In addition to the actions required under subsection (e) of this section for a subsidized, formerly subsidized, or unsubsidized multifamily housing project, the Secretary may, pursuant to the disposition plan and the goals in subsection (a) of this section, take one or more of the following actions:
+In addition to the actions required under subsection (e) for a subsidized, formerly subsidized, or unsubsidized multifamily housing project, the Secretary may, pursuant to the disposition plan and the goals in subsection (a), take one or more of the following actions:
 
 #### (1) Discounted sales price
 
@@ -296,7 +296,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 #### (4) Up-front grants
 
-&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2) of this section, the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
+&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2), the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
 
 #### (5) Tenant-based assistance
 
@@ -310,7 +310,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 &emsp;&emsp;&emsp;(i) 10 percent of the total number of units in multifamily housing projects that are disposed of by the Secretary during any fiscal year to be made available for uses other than rental or cooperative uses, including low-income homeownership opportunities, or in any particular project, community space, office space for tenant or housing-related service providers or security programs, or small business uses, if such uses benefit the tenants of the project; and
 
-&emsp;&emsp;&emsp;(ii) 5 percent of the total number of units in multifamily housing projects that are disposed of by the Secretary during any fiscal year to be used in any manner, if the Secretary and the unit of general local government or area-wide governing body determine that such use will further fair housing, community development, or neighborhood revitalization goals.
+&emsp;&emsp;&emsp;(ii) 5 percent of the total number of units in multifamily housing projects that are disposed of by the Secretary during any fiscal year to be used in any manner, if theSecretary and the unit of general local government or area-wide governing body determine that such use will further fair housing, community development, or neighborhood revitalization goals.
 
 #### (B) Displacement protection
 
@@ -324,7 +324,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the provisions of subsection (e) of this section, the Secretary may, pursuant to an agreement under subparagraph (B), transfer a multifamily housing project—
+&emsp;&emsp;Notwithstanding the provisions of subsection (e), the Secretary may, pursuant to an agreement under subparagraph (B), transfer a multifamily housing project—
 
 &emsp;&emsp;&emsp;(i) to a public housing agency for use of the project as public housing; or
 
@@ -350,7 +350,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 &emsp;&emsp;(D) the rebuilding is a part of a local neighborhood revitalization plan approved by the unit of general local government.
 
-> &emsp;The provisions of subsection (j)(2) of this section shall apply to any tenants of the project who are displaced.
+> &emsp;The provisions of subsection (j)(2) shall apply to any tenants of the project who are displaced.
 
 #### (9) Emergency assistance funds
 
@@ -378,7 +378,7 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 &emsp;The contract shall have a term of 15 years, except that the term may be less than 15 years—
 
-&emsp;&emsp;(A) to the extent that the Secretary finds that, based on the rental charges and financing for the multifamily housing project to which the contract relates, the financial viability of the project can be maintained under a contract having such a term; except that the Secretary shall require that the amount of rent payable by tenants of the project for units assisted under such contract shall not exceed the amount payable for rent under section 3(a) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)\] for a period of at least 15 years; or
+&emsp;&emsp;(A) to the extent that the Secretary finds that, based on the rental charges and financing for the multifamily housing project to which the contract relates, the financial viability of the project can be maintained under a contract having such a term; except that the Secretary shall require that the amount of rent payable by tenants of the project for units assisted under such contract shall not exceed the amount payable for rent under section 3(a) of the United States HousingAct of 1937 \[42 U.S.C. 1437a(a)\] for a period of at least 15 years; or
 
 &emsp;&emsp;(B) if such assistance is provided—
 
@@ -440,7 +440,7 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 #### (3) Mortgage sales to State and local governments
 
-&emsp;Notwithstanding any provision of law that requires competitive sales or bidding, the Secretary may carry out negotiated sales of mortgages held by the Secretary, without the competitive selection of purchasers or intermediaries, to units of general local government or State agencies, or groups of investors that include at least one such unit of general local government or State agency, if the negotiations are conducted with such agencies, except that—
+&emsp;Notwithstanding any provision of law that requires competitive sales or bidding, the Secretary may carry out negotiated sales of mortgages held by the Secretary, without the competitive selection of purchasers or intermediaries, to units of general local government or State agencies, or groups of investors that include at least one such unit of generallocal government or State agency, if the negotiations are conducted with such agencies, except that—
 
 &emsp;&emsp;(A) the terms of any such sale shall include the agreement of the purchasing agency or unit of local government or State agency to act as mortgagee or owner of a beneficial interest in such mortgages, in a manner consistent with maintaining the projects that are subject to such mortgages for occupancy by the general tenant group intended to be served by the applicable mortgage insurance program, including, to the extent the Secretary determines appropriate, authorizing such unit of local government or State agency to enforce the provisions of any regulatory agreement or other program requirements applicable to the related projects; and
 
@@ -484,11 +484,11 @@ Not later than June 1 of each year, the Secretary shall submit to the Congress a
 
 &emsp;(11) a description of actions undertaken pursuant to this section, including a description of the effectiveness of such actions and any impediments to the disposition or management of multifamily housing projects;
 
-&emsp;(12) a description of the extent to which the provisions of this section and actions takenunder this section have displaced tenants of multifamily housing projects;
+&emsp;(12) a description of the extent to which the provisions of this section and actions taken under this section have displaced tenants of multifamily housing projects;
 
 &emsp;(13) a description of any of the functions performed in connection with this section that are contracted out to public or private entities or to States; and
 
-&emsp;(14) a description of the activities carried out under subsection (i) of this section during the preceding year.
+&emsp;(14) a description of the activities carried out under subsection (i) during the preceding year.
 
 (Pub. L. 95–557, title II, §203, Oct. 31, 1978, 92 Stat. 2088; Pub. L. 96–153, title II, §208, Dec. 21, 1979, 93 Stat. 1109; Pub. L. 96–399, title II, §213, Oct. 8, 1980, 94 Stat. 1636; Pub. L. 100–242, title I, §181, Feb. 5, 1988, 101 Stat. 1868; Pub. L. 100–628, title X, §1010, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–235, title II, §204(a), Dec. 15, 1989, 103 Stat. 2039; Pub. L. 101–625, title V, §579, Nov. 28, 1990, 104 Stat. 4245; Pub. L. 103–120, §6(c)(2), Oct. 27, 1993, 107 Stat. 1149; Pub. L. 103–233, title I, §101(b), Apr. 11, 1994, 108 Stat. 343; Pub. L. 105–276, title V, §514(b)(2)(C), Oct. 21, 1998, 112 Stat. 2548; Pub. L. 109–171, title II, §2003(b), Feb. 8, 2006, 120 Stat. 9.)
 
@@ -536,7 +536,7 @@ Subsec. (d)(2), (3). Pub. L. 101–625, §579(b)(2), (3), added par. (2) and red
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–628, §1010(a), substituted "occupied by low- and moderate-income persons on the date of assignment or foreclosure (whichever is greater)" for ", on the date of assignment, occupied by low- and moderate-income persons" in par. (1)(C).
 
-Pub. L. 100–242, §181(a), substituted introductory provisions and par. (1) for former introductory provisions and par. (1) which read as follows: "It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the 'Secretary') shall manage and dispose of multifamily housing projects which are owned by the Secretary in a manner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and disposeof projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
+Pub. L. 100–242, §181(a), substituted introductory provisions and par. (1) for former introductory provisions and par. (1) which read as follows: "It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the 'Secretary') shall manage and dispose of multifamily housing projects which are owned by the Secretary in a manner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and dispose of projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
 
 &emsp;"(1) preserving the housing units so that at least those units which are occupied by low- and moderate-income persons or which are vacant, at the time of acquisition, are available to and affordable by such persons;".
 
@@ -600,7 +600,7 @@ Pub. L. 109–171, title II, §§2001, 2002, Feb. 8, 2006, 120 Stat. 7, 8, provi
 
 #### "SEC. 2001. DEFINITIONS.
 
-"For purposes of this subtitle \[subtitle A (§§2001–2003) of title II of Pub. L. 109–171, amending this section andsection 1715z–11a of this title and enacting provisions set out as notes under this section\], the following definitions shall apply:
+"For purposes of this subtitle \[subtitle A (§§2001–2003) of title II of Pub. L. 109–171, amending this section and section 1715z–11a of this title and enacting provisions set out as notes under this section\], the following definitions shall apply:
 
 &emsp;"(1) The term 'affordability requirements' means any requirements or restrictions imposed by the Secretary, at the time of sale, on a multifamily real property or a multifamily loan, such as use restrictions, rent restrictions, and rehabilitation requirements.
 

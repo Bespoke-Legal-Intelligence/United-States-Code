@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(ii) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) any taxable income of such branch for a taxable year after the taxable yearin which the loss was incurred and through the close of the taxable year of the transfer, and
+&emsp;&emsp;&emsp;&emsp;(I) any taxable income of such branch for a taxable year after the taxable year in which the loss was incurred and through the close of the taxable year of the transfer, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount which is recognized under section 904(f)(3) on account of the transfer.
 

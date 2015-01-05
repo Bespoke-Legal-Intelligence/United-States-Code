@@ -24,7 +24,7 @@ The following deductions shall be allowed whether or not they are connected with
 
 &emsp;&emsp;<b>For rule that certain foreign taxes are not to be taken into account in determining deduction or credit, see section 906(b)(1).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 89–809, title I, §103(c)(1), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 92–580, §1(b), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §1906(b)(13)(A),Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–30, title I, §101(d)(11), May 23, 1977, 91 Stat. 134; Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(iv), July 18, 1984, 98 Stat. 945; Pub. L. 105–277, div. J, title IV, §4004(b)(3), Oct. 21, 1998, 112 Stat. 2681–911.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 89–809, title I, §103(c)(1), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 92–580, §1(b), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–30, title I, §101(d)(11), May 23, 1977, 91 Stat. 134; Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(iv), July 18, 1984, 98 Stat. 945; Pub. L. 105–277, div. J, title IV, §4004(b)(3), Oct. 21, 1998, 112 Stat. 2681–911.)
 
 #### Amendments
 

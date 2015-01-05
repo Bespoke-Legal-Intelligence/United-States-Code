@@ -44,7 +44,7 @@ June 30, 1936, ch. 881, §2, 49 Stat. 2037.
 
 In subsection (b)(1), the words "individual under 16 years of age" are substituted for "male person under sixteen years of age or each female person under eighteen years of age" to reflect the interpretation of this provision subsequent to enactment of civil rights laws such as section 703 of the Civil Rights Act of 1964 (42:2000e–2), as carried out by the Department of Labor through 41 C.F.R. Part 50–201.104. The words "incarcerated individual" are substituted for "convict laborer" because of the exception to convict labor that satisfies the conditions of 18:1761(c). Section 1761 does not apply to non-incarcerated convicts.
 
-Subsection (b)(2) is substituted for "a sum equal to the amount of any deductions, rebates, refunds, orunderpayment of wages due to any employee engaged in the performance of such contract" for consistency in the chapter.
+Subsection (b)(2) is substituted for "a sum equal to the amount of any deductions, rebates, refunds, or underpayment of wages due to any employee engaged in the performance of such contract" for consistency in the chapter.
 
 In subsection (c), the words "made the contract" and "make other contracts" are substituted for "entering into such contract" and "enter into other contracts", respectively, for consistency in the revised title.
 

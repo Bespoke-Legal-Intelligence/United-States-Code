@@ -6,7 +6,7 @@ The Secretary of Health and Human Services shall in accordance with sections 254
 
 #### (b) Recipients of grants
 
-A grant under subsection (a) of this section may be made to an entity only if the entity is a public or nonprofit private entity, which may include a State or local government; a public or nonprofit private hospital, community-based organization, hospice, ambulatory care facility, community health center, migrant health center, or homeless health center; or other appropriate public or nonprofit private entity.
+A grant under subsection (a) of this section may be made to an entity only if the entity is a public or nonprofit private entity, which may include a State or local government; a public or nonprofit private hospital, community-based organization, hospice, ambulatory care facility,community health center, migrant health center, or homeless health center; or other appropriate public or nonprofit private entity.
 
 #### (c) Certain activities
 

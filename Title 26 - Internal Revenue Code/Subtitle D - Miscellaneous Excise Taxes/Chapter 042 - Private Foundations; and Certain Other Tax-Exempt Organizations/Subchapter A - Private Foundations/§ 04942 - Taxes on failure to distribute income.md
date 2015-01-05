@@ -54,7 +54,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 #### (B) Reductions in value for blockage or similar factors
 
-&emsp;&emsp;In determining the value of any securities under this paragraph, the fair market valueof such securities (determined without regard to any reduction in value) shall not be reduced unless, and only to the extent that, the private foundation establishes that as a result of—
+&emsp;&emsp;In determining the value of any securities under this paragraph, the fair market value of such securities (determined without regard to any reduction in value) shall not be reduced unless, and only to the extent that, the private foundation establishes that as a result of—
 
 &emsp;&emsp;&emsp;(i) the size of the block of such securities,
 
@@ -118,7 +118,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 #### (A) In general
 
-&emsp;&emsp;For all taxable years beginning on or after January 1, 1975, subject to such terms and conditions as may be prescribed by the Secretary, an amount set aside for a specific project which comes within one or more purposes described in section 170(c)(2)(B) may be treated as a qualifying distribution if it meets the requirements of subparagraph (B).
+&emsp;&emsp;Subject to such terms and conditions as may be prescribed by the Secretary, an amount set aside for a specific project which comes within one or more purposes described in section 170(c)(2)(B) may be treated as a qualifying distribution if it meets the requirements of subparagraph (B).
 
 #### (B) Requirements
 
@@ -128,7 +128,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;&emsp;&emsp;(ii)(I) the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made,
 
-&emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable yearfollowing the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determined under subsection (d) (without regard to subsection (i)) for purposes described in section 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
+&emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable year following the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determined under subsection (d) (without regard to subsection (i)) for purposes described in section 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
 
 &emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second preceding taxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
 
@@ -148,7 +148,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 #### (E) Adjustment period
 
-&emsp;&emsp;For purposes of subparagraph (D), with respect to any taxable year of a private foundation, the taxable years in the adjustment period are the taxable years (not exceeding 5) beginning after December 31, 1975, and immediately preceding the taxable year.
+&emsp;&emsp;For purposes of subparagraph (D), with respect to any taxable year of a private foundation, the taxable years in the adjustmentperiod are the taxable years (not exceeding 5) beginning after December 31, 1975, and immediately preceding the taxable year.
 
 > &emsp;In the case of a set-aside which satisfies the requirements of clause (i) of subparagraph (B), for good cause shown, the period for paying the amount set aside may be extended by the Secretary.
 
@@ -218,7 +218,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 #### (2) Taxable years in adjustment period
 
-&emsp;For purposes of paragraph (1), with respect to any taxable year of a private foundation the taxable years in the adjustment period are the taxable years (not exceeding 5) beginning after December 31, 1969, and immediately preceding the taxable year.
+&emsp;For purposes of paragraph (1), with respect to any taxable year of a private foundation the taxable years in the adjustment period are the taxable years (not exceeding 5) immediately preceding the taxable year.
 
 #### (j) Other definitions
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iii) substantially all of the support (other than gross investment income as defined in section 509(e)) of which is normally received from the general public and from 5 or more exempt organizations which are not described in section 4946(a)(1)(H) with respect to each other or the recipient foundation; not more than 25 percent of the support (other than gross investment income) of which is normally received from any one such exempt organization; and not more than half of the support of which is normally received from gross investment income.
 
-> &emsp;Notwithstanding the provisions of subparagraph (A), if the qualifying distributions\(within the meaning of paragraph (1) or (2) of subsection (g)) of an organization for the taxable year exceed the minimum investment return for the taxable year, clause (ii) of subparagraph (A) shall not apply unless substantially all of such qualifying distributions are made directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated.
+> &emsp;Notwithstanding the provisions of subparagraph (A), if the qualifying distributions (within the meaning of paragraph (1) or (2) of subsection (g)) of an organization for the taxable year exceed the minimum investment return for the taxable year, clause (ii) of subparagraph (A) shall not apply unless substantially all of such qualifying distributions are made directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated.
 
 #### (4) Functionally related business
 
@@ -270,13 +270,17 @@ For purposes of this section—
 
 &emsp;For purposes of this section (but no other provisions of this title), the term "operating foundation" includes any organization which, on May 26, 1969, and at all times thereafter before the close of the taxable year, operated and maintained as its principal functional purpose facilities for the long-term care, comfort, maintenance, or education of permanently and totally disabled persons, elderly persons, needy widows, or children but only if such organization meets the requirements of paragraph (3)(B)(ii).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, §11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, §11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 113–295, div. A, title II, §221(a)(105), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### Codification
 
 Sections 1212(b) and 1244(a) of Pub. L. 109–280, which directed the amendment of section 4942 without specifying the act to be amended, were executed to this section, which is section 4942 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(2)(A). Pub. L. 113–295, §221(a)(105)(A), substituted "Subject" for "For all taxable years beginning on or after January 1, 1975, subject".
+
+Subsec. (i)(2). Pub. L. 113–295, §221(a)(105)(B), struck out "beginning after December 31, 1969, and" after "(not exceeding 5)".
 
 <b>2007</b>—Subsec. (i)(1)(A). Pub. L. 110–172 substituted "section 170(b)(1)(F)(ii)" for "section 170(b)(1)(E)(ii)".
 
@@ -327,6 +331,10 @@ Subsec. (f)(2)(D). Pub. L. 94–455, §1310(a), added subpar. (D).
 Subsec. (g)(2). Pub. L. 94–455, §1302(a), among other changes, inserted reference to all taxable years beginning on or after Jan. 1, 1975, requirement that the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made, and subpars. (C) to (E).
 
 Subsecs. (h)(2), (j)(2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2006 Amendment
 

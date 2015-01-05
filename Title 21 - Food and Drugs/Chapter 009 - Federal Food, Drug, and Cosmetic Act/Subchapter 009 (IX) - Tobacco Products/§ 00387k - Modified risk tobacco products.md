@@ -40,7 +40,7 @@ In this section:
 
 #### (3) Effective date
 
-&emsp;The provisions of paragraph (2)(A)(ii) shall take effect 12 months after June 22, 2009, for those products whose label, labeling, or advertising contains the terms described in such paragraph on June 22, 2009. The effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with paragraph (2)(A)(ii).
+&emsp;The provisions of paragraph (2)(A)(ii) shall take effect 12 months after June 22, 2009, for those products whose label, labeling, or advertising contains the terms described in such paragraph on June 22, 2009. The effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturershall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with paragraph (2)(A)(ii).
 
 #### (c) Tobacco dependence products
 
@@ -82,7 +82,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (1) Modified risk products
 
-&emsp;Except as provided in paragraph (2), the Secretary shall, with respect to an application submitted under this section, issue an orderthat a modified risk product may be commercially marketed only if the Secretary determines that the applicant has demonstrated that such product, as it is actually used by consumers, will—
+&emsp;Except as provided in paragraph (2), the Secretary shall, with respect to an application submitted under this section, issue an order that a modified risk product may be commercially marketed only if the Secretary determines that the applicant has demonstrated that such product, as it is actually used by consumers, will—
 
 &emsp;&emsp;(A) significantly reduce harm and the risk of tobacco-related disease to individual tobacco users; and
 
@@ -260,5 +260,5 @@ Except as provided in this section, no distributor may take any action, after Ju
 
 #### Modification of Deadlines for Secretarial Action
 
-With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
+With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin onJune 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
 

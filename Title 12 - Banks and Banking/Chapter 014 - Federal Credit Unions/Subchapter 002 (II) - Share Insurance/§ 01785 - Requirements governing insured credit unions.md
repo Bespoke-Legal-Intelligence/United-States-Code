@@ -38,7 +38,7 @@ Conversion of insured credit unions to mutual savings banks.—
 
 &emsp;(A)
 
-In general.—Notwithstanding paragraph (1), an insured credit union may convert to a mutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
+In general.—Notwithstanding paragraph (1), an insured credit union may convert to amutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
 
 &emsp;(B)
 
@@ -184,7 +184,7 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 #### (i) Emergency purchase of assets; conversion to insured deposits
 
-(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
+(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h).
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 

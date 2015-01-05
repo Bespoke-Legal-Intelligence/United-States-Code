@@ -14,7 +14,7 @@ Section 1874(d)(2) of this title, referred to in subsec. (a), was redesignated s
 
 #### Amendments
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–159, §110(a)(16), inserted "or engineering" after "scientific" the first threeplaces appearing and "or engineers" after "scientists" and substituted "study and research in the sciences or in engineering" for "scientific study or scientific work".
+<b>1985</b>—Subsec. (a). Pub. L. 99–159, §110(a)(16), inserted "or engineering" after "scientific" the first three places appearing and "or engineers" after "scientists" and substituted "study and research in the sciences or in engineering" for "scientific study or scientific work".
 
 Subsec. (b)(1). Pub. L. 99–159, §110(a)(17), inserted reference to engineering.
 

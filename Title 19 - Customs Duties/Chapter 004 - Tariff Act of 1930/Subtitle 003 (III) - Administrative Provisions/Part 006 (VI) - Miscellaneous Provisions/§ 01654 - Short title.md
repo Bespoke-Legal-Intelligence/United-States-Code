@@ -36,7 +36,7 @@ Pub. L. 106–387, §1(a) \[title X, §1001\], Oct. 28, 2000, 114 Stat. 1549, 15
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–36, §1(a), June 25, 1999, 113 Stat. 127, provided that: "This Act \[enacting section 1484b of this title, amending sections 58c, 81c, 81i, 1304, 1313, 1411, 1441, 1505, 1514, 1515, 1520, 1555, 1557, 1558, 1584, 1592, 1631, 1675, 2171, 2194, 2293, 2436, 2463, 2492, 2494, and 2495 of this title, sections 620 and 620c of Title 16, Conservation, sections 262n–2, 286gg, 1978, and 5712 of Title 22, Foreign Relations and Intercourse, sections 351, 357, 358, 362, 368, 584, and 1031 of Title 26, Internal Revenue Code, section 891e of Title 33, Navigation and Navigable Waters, sections 2296b, 2296b–6, and 6374 of Title 42, The Public Health and Welfare, and section 50103 of Title 49, Transportation, repealing sections 1708 and 2441 of this title, and enacting provisions set out as notes under sections 58c, 1304, 1313, 1484b, 1514, and 2434 of this title and section 351 of Title 26\] may be cited as the 'Miscellaneous Trade and Technical Corrections Act of 1999'."
+Pub. L. 106–36, §1(a), June 25, 1999, 113 Stat. 127, provided that: "This Act \[enacting section 1484b of this title, amending sections 58c, 81c, 81i, 1304, 1313, 1411, 1441, 1505, 1514, 1515, 1520, 1555, 1557, 1558, 1584, 1592, 1631, 1675, 2171, 2194, 2293, 2436, 2463, 2492, 2494, and 2495 of this title, sections 620 and 620c of Title 16, Conservation,sections 262n–2, 286gg, 1978, and 5712 of Title 22, Foreign Relations and Intercourse, sections 351, 357, 358, 362, 368, 584, and 1031 of Title 26, Internal Revenue Code, section 891e of Title 33, Navigation and Navigable Waters, sections 2296b, 2296b–6, and 6374 of Title 42, The Public Health and Welfare, and section 50103 of Title 49, Transportation, repealing sections 1708 and 2441 of this title, and enacting provisions set out as notes under sections 58c, 1304, 1313, 1484b, 1514, and 2434 of this title and section 351 of Title 26\] may be cited as the 'Miscellaneous Trade and Technical Corrections Act of 1999'."
 
 #### Short Title of 1998 Amendment
 
@@ -90,7 +90,7 @@ Act June 21, 1955, ch. 169, §1, 69 Stat. 162, provided: "That this Act \[amendi
 
 #### Short Title of 1954 Amendment
 
-Act Sept. 1, 1954, ch. 1213, §1, 68 Stat. 1136, provided: "That this Act \[enacting sections 1301a and 1595a of this title, amending sections 161, 1001, 1201, 1441, 1451, 1581, 1605, 1607, 1610, 1612 of this title, section 545 of Title 18, Crimes and Criminal Procedure, section 91 of Title 46, Appendix, Shipping, sections 1421e, 1644 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 160 and 1332 of this title\] may be cited as the 'Customs Simplification Act of 1954'."
+Act Sept. 1, 1954, ch. 1213, §1, 68 Stat. 1136, provided: "That this Act \[enacting sections 1301a and 1595a of this title, amending sections 161, 1001, 1201, 1441, 1451, 1581, 1605, 1607, 1610, 1612 of this title, section 545 of Title 18, Crimes and Criminal Procedure, section 91 ofTitle 46, Appendix, Shipping, sections 1421e, 1644 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 160 and 1332 of this title\] may be cited as the 'Customs Simplification Act of 1954'."
 
 #### Short Title of 1953 Amendments
 

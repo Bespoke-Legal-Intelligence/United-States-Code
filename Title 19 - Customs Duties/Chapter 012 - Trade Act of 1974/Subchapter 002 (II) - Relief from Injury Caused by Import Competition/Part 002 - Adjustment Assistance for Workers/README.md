@@ -2,6 +2,34 @@ Part 2
 
 —Adjustment Assistance for Workers
 
+#### Applicability of Provisions During Calendar Year 2015
+
+Pub. L. 113–235, div. B, title V, §541, Dec. 16, 2014, 128 Stat. 2217, provided that:
+
+"(a)
+
+In General.—During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) \[part 3 of this subchapter\], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act \[19 U.S.C. 2346(b)\] shall be applied and administered by substituting '$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015' for '$16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007'.
+
+"(b)
+
+Termination.—During the period beginning on January 1, 2015, and ending on December 31, 2015, section 285 of the Trade Act of 1974 \[Pub. L. 93–618\] (19 U.S.C. 2271 note \[prec.\]) \[set out as a Termination Date note below\], as in effect on December 31, 2014, shall apply, except that in applying and administering that section, subsection (b) of that section shall be applied and administered as if paragraph (1) read as follows:
+
+&emsp;" '(1)
+
+Assistance for firms.—
+
+&emsp;" '(A)
+
+In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2015.
+
+&emsp;" '(B)
+
+Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2015, may be provided—
+
+&emsp;&emsp;" '(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+&emsp;&emsp;" '(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.'."
+
 #### Effective and Termination Dates of 2011 Revival
 
 Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, provided that:
@@ -166,7 +194,7 @@ Qualified period.—For purposes of this subsection, the term 'qualified period'
 
 #### Termination Date
 
-Pub. L. 93–618, title II, ch. 5, §285, formerly §284, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152; Pub. L. 105–277, div. J, title I, §1012(d), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §111(c), Aug. 6, 2002, 116 Stat. 936; Pub. L. 110–89, §1(d), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1892(b), Feb. 17, 2009, 123 Stat. 421; Pub. L. 111–344, title I, §101(c)(11), Dec. 29, 2010, 124 Stat. 3614; Pub. L. 112–40, title II, §§201(b), (c), 232, Oct. 21, 2011, 125 Stat. 403, 416, provided that:
+Pub. L. 93–618, title II, ch. 5, §285, formerly §284, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152; Pub. L. 105–277, div. J, title I, §1012(d), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §111(c), Aug. 6, 2002, 116 Stat. 936; Pub. L. 110–89, §1(d), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5,div. B, title I, §1892(b), Feb. 17, 2009, 123 Stat. 421; Pub. L. 111–344, title I, §101(c)(11), Dec. 29, 2010, 124 Stat. 3614; Pub. L. 112–40, title II, §§201(b), (c), 232, Oct. 21, 2011, 125 Stat. 403, 416, provided that:
 
 "(a)
 
@@ -219,6 +247,24 @@ Exception.—Notwithstanding subparagraph (A), any technical or financial assist
 &emsp;&emsp;&emsp;"(i) to the extent funds are available pursuant to such chapter for such purpose; and
 
 &emsp;&emsp;&emsp;"(ii) to the extent the recipient of the technical or financial assistance is otherwise eligible to receive such technical or financial assistance, as the case may be."
+
+\[Pub. L. 113–235, div. B, title V, §541(b), Dec. 16, 2014, 128 Stat. 2217, provided that, during the period beginning on Jan. 1, 2015, and ending on Dec. 31, 2015, section 285 of Pub. L. 93–618, set out above, as in effect on Dec. 31, 2014, shall apply, except that subsec. (b) of that section shall be applied and administered as if par. (1) read as follows:
+
+\["(1)
+
+Assistance for firms.—
+
+&emsp;\["(A)
+
+In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2015.
+
+&emsp;\["(B)
+
+Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2015, may be provided—
+
+&emsp;&emsp;\["(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+&emsp;&emsp;\["(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance."\]
 
 \[Pub. L. 112–40, title II, §233(a), Oct. 21, 2011, 125 Stat. 416, provided that, beginning Jan. 1, 2014, subject to section 233(b), set out as an Effective and Termination Dates of 2011 Revival note above, section 285 of Pub. L. 93–618, set out above, as in effect on Feb. 13, 2011, shall be applied and administered—
 
@@ -323,7 +369,5 @@ Exception.—Notwithstanding subparagraph (A), any assistance approved under cha
 
 - [Subpart a - Petitions and Determinations](Subpart%20a%20-%20Petitions%20and%20Determinations/README.md)
 - [Subpart b - Program Benefits](Subpart%20b%20-%20Program%20Benefits/README.md)
-- [Division 001 (I) - Trade Readjustment Allowances](Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/README.md)
-- [Division 002 (II) - Training, Other Employment Services, and Allowances](Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/README.md)
 - [Subpart c - General Provisions](Subpart%20c%20-%20General%20Provisions/README.md)
 - [Subpart d - NAFTA Transitional Adjustment Assistance Program](Subpart%20d%20-%20NAFTA%20Transitional%20Adjustment%20Assistance%20Program/README.md)

@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a capital project described in this subsection is anycapital project overseas for an overseas contingency operation for the benefit of a host country and funded by the Department of Defense, the Department of State, or the United States Agency for International Development, as applicable, if the capital project—
+&emsp;Except as provided in paragraph (2), a capital project described in this subsection is any capital project overseas for an overseas contingency operation for the benefit of a host country and funded by the Department of Defense, the Department of State, or the United States Agency for International Development, as applicable, if the capital project—
 
 &emsp;&emsp;(A) in the case of a project that directly supports building the capacity of indigenous security forces in the host country, has an estimated value in excess of $10,000,000;
 

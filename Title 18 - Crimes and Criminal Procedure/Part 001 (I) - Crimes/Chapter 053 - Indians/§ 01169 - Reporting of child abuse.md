@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) a child was abused in Indian country, or
 
-&emsp;&emsp;(B) actions are being taken, or are going to be taken, that would reasonably be expected to result in abuse of a child in Indian country; and
+&emsp;&emsp;(B) actions are being taken, or are going to be taken, that would reasonably be expectedto result in abuse of a child in Indian country; and
 
 &emsp;(3) fails to immediately report such abuse or actions described in paragraph (2) to the local child protective services agency or local law enforcement agency,
 

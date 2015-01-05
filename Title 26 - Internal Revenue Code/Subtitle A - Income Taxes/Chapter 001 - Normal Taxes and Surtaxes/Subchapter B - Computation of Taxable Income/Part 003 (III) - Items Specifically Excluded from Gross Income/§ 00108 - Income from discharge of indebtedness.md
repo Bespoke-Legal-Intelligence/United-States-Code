@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness, or
 
-&emsp;&emsp;(E) the indebtedness discharged is qualified principal residence indebtedness which is discharged before January 1, 2014.
+&emsp;&emsp;(E) the indebtedness discharged is qualified principal residence indebtedness which is discharged before January 1, 2015.
 
 #### (2) Coordination of exclusions
 
@@ -82,7 +82,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the reductions described in paragraph (2) shall be one dollar for each dollar excluded by subsection (a).
+&emsp;&emsp;Except as provided in subparagraph (B), the reductions described in paragraph (2)shall be one dollar for each dollar excluded by subsection (a).
 
 #### (B) Credit carryover reduction
 
@@ -100,7 +100,7 @@
 
 #### (C) Reductions under subparagraphs (B) and (G) of paragraph (2)
 
-&emsp;&emsp;The reductions described in subparagraphs (B) and (G) of paragraph (2) shall be made inthe order in which carryovers are taken into account under this chapter for the taxable year of the discharge.
+&emsp;&emsp;The reductions described in subparagraphs (B) and (G) of paragraph (2) shall be made in the order in which carryovers are taken into account under this chapter for the taxable year of the discharge.
 
 #### (5) Election to apply reduction first against depreciable property
 
@@ -274,7 +274,7 @@ For purposes of this title—
 
 #### (6) Indebtedness contributed to capital
 
-&emsp;Except as provided in regulations, for purposes of determining income of the debtorfrom discharge of indebtedness, if a debtor corporation acquires its indebtedness from a shareholder as a contribution to capital—
+&emsp;Except as provided in regulations, for purposes of determining income of the debtor from discharge of indebtedness, if a debtor corporation acquires its indebtedness from a shareholder as a contribution to capital—
 
 &emsp;&emsp;(A) section 118 shall not apply, but
 
@@ -338,7 +338,7 @@ For purposes of this title—
 
 #### (B) Issue price
 
-&emsp;&emsp;For purposes of subparagraph (A), the issue price of any debt instrument shall be determined under sections 1273 and 1274. For purposes of the preceding sentence, section 1273(b)(4) shall be applied by reducing the stated redemption price of any instrument by the portion of such stated redemption price which is treated as interest for purposes of this chapter.
+&emsp;&emsp;For purposes of subparagraph (A), the issue price of any debt instrument shall bedetermined under sections 1273 and 1274. For purposes of the preceding sentence, section 1273(b)(4) shall be applied by reducing the stated redemption price of any instrument by the portion of such stated redemption price which is treated as interest for purposes of this chapter.
 
 #### (f) Student loans
 
@@ -410,7 +410,7 @@ For purposes of this title—
 
 #### (B) Adjusted tax attributes
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "adjusted tax attributes" means the sum of the tax attributes described in subparagraphs (A), (B), (C), (D), (F), and (G) of subsection (b)(2) determined by taking into account $3 for each $1 of the attributes described in subparagraphs (B), (C), and (G) of subsection (b)(2) and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover.
+&emsp;&emsp;For purposes of subparagraph (A), the term "adjusted tax attributes" means the sum of the tax attributes described in subparagraphs (A), (B), (C), (D), (F), and (G) of subsection (b)(2) determined by taking into account $3 for each $1 of the attributes described in subparagraphs (B), (C), and (G) ofsubsection (b)(2) and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover.
 
 #### (C) Qualified property
 
@@ -428,7 +428,7 @@ For purposes of this title—
 
 #### (2) Qualified principal residence indebtedness
 
-&emsp;For purposes of this section, the term "qualified principal residence indebtedness"means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting "$2,000,000 ($1,000,000" for "$1,000,000 ($500,000" in clause (ii) thereof) with respect to the principal residence of the taxpayer.
+&emsp;For purposes of this section, the term "qualified principal residence indebtedness" means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting "$2,000,000 ($1,000,000" for "$1,000,000 ($500,000" in clause (ii) thereof) with respect to the principal residence of the taxpayer.
 
 #### (3) Exception for certain discharges not related to taxpayer's financial condition
 
@@ -502,7 +502,7 @@ For purposes of this title—
 
 #### (B) Acquisition
 
-&emsp;&emsp;The term "acquisition" shall, with respect to any applicable debt instrument, include an acquisition of the debt instrument for cash, the exchange of the debt instrument for another debt instrument (including anexchange resulting from a modification of the debt instrument), the exchange of the debt instrument for corporate stock or a partnership interest, and the contribution of the debt instrument to capital. Such term shall also include the complete forgiveness of the indebtedness by the holder of the debt instrument.
+&emsp;&emsp;The term "acquisition" shall, with respect to any applicable debt instrument, include an acquisition of the debt instrument for cash, the exchange of the debt instrument for another debt instrument (including an exchange resulting from a modification of the debt instrument), the exchange of the debt instrument for corporate stock or a partnership interest, and the contribution of the debt instrument to capital. Such term shall also include the complete forgiveness of the indebtedness by the holder of the debt instrument.
 
 #### (5) Other definitions and rules
 
@@ -558,13 +558,15 @@ For purposes of this title—
 
 &emsp;&emsp;(C) rules for the application of this subsection to partnerships, S corporations, and other pass-thru entities, including for the allocation of deferred deductions.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338; Pub. L. 111–148, title X, §10908(a), Mar. 23, 2010, 124 Stat.1021; Pub. L. 112–240, title II, §202(a), Jan. 2, 2013, 126 Stat. 2323.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19,1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338; Pub. L. 111–148, title X, §10908(a), Mar. 23, 2010, 124 Stat. 1021; Pub. L. 112–240, title II, §202(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §102(a), Dec. 19, 2014, 128 Stat. 4013.)
 
 #### References in Text
 
 Sections 338B(g) and 338I of the Public Health Service Act, referred to in subsec. (f)(4), are classified to sections 254l–1(g) and 254q–1, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1)(E). Pub. L. 113–295 substituted "January 1, 2015" for "January 1, 2014".
 
 <b>2013</b>—Subsec. (a)(1)(E). Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2013".
 
@@ -636,7 +638,7 @@ Subsec. (e)(8). Pub. L. 103–66, §13226(a)(1)(B), amended heading and text of 
 
 &emsp;"(A) to the issuance of nominal or token shares, or
 
-&emsp;"(B) with respect to an unsecured creditor, where the ratio of the value of the stock received by such unsecured creditor to the amount of his indebtedness cancelled or exchanged for stock in the workout is less than 50 percent of a similar ratio computed for all unsecured creditors participating in the workout.
+&emsp;"(B) with respect to an unsecured creditor, where the ratio of the value of the stock received by such unsecured creditor to the amount of his indebtedness cancelled or exchanged for stock in the workout isless than 50 percent of a similar ratio computed for all unsecured creditors participating in the workout.
 
 > Any stock which is disqualified stock (as defined in paragraph (10)(B)(ii)) shall not be treated as stock for purposes of this paragraph."
 
@@ -654,7 +656,7 @@ Subsec. (g)(1)(B). Pub. L. 101–508, §11813(b)(6), substituted "section 49(a)(
 
 <b>1988</b>—Subsec. (a)(1)(C). Pub. L. 100–647, §1004(a)(1), added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 100–647, §1004(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "Subparagraph (B) of paragraph (1) shall not apply to a discharge which occurs in a title 11 case."
+Subsec. (a)(2). Pub. L. 100–647, §1004(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Subparagraph (B) of paragraph (1) shall not apply to a discharge which occurs in a title 11 case."
 
 Subsec. (b). Pub. L. 100–647, §1004(a)(3), struck out "in title 11 case or insolvency" after "Reduction of tax attributes" in heading and substituted "subparagraph (A), (B), or (C)" for "subparagraph (A) or (B)" in text of par. (1).
 
@@ -740,7 +742,7 @@ Subsec. (e)(7)(A)(iii). Pub. L. 97–448, §304(d), added cl. (iii).
 
 <b>1982</b>—Subsec. (d)(6). Pub. L. 97–354 inserted "or S corporation shareholder level" in heading and inserted "In the case of an S corporation, subsections (a), (b), and (c) shall be applied at the shareholder level."
 
-<b>1980</b>—Pub. L. 96–589 completely revised and expanded provisions by specifying the types of indebtedness andby setting out priorities among the exclusions, to reflect the revision of Title 11, Bankruptcy, in 1978.
+<b>1980</b>—Pub. L. 96–589 completely revised and expanded provisions by specifying the types of indebtedness and by setting out priorities among the exclusions, to reflect the revision of Title 11, Bankruptcy, in 1978.
 
 <b>1976</b>—Pub. L. 94–455, §1951(b)(2)(A), struck out "(a) Special rule of exclusion.—" after "Income from discharge of indebtedness" and struck out subsec. (b) which related to discharge, cancellation, or modification of indebtedness of certain railroad corporations.
 
@@ -749,6 +751,10 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretar
 <b>1960</b>—Subsec. (b). Pub. L. 86–496 provided that if the discharge, cancellation, or modification of any indebtedness is effected pursuant to a court order in a receivership proceeding or in a proceeding under section 77 of the Bankruptcy Act, commenced before Jan. 1, 1960, then no amount is to be included in gross income with respect to it, and struck out provisions which made subsection inapplicable to discharges occurring in a taxable year beginning after Dec. 31, 1957.
 
 <b>1956</b>—Subsec. (b). Act June 29, 1956, substituted "December 31, 1957" for "December 31, 1955".
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §102(b), Dec. 19, 2014, 128 Stat. 4013, provided that: "The amendment made by this section \[amending this section\] shall apply to indebtedness discharged after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 
@@ -808,7 +814,7 @@ Pub. L. 103–66, title XIII, §13226(a)(3), Aug. 10, 1993, 107 Stat. 487, provi
 
 "(A)
 
-In general.—Except as otherwise provided in this paragraph, the amendments made by this subsection \[amending this section and section 382 of this title\] shall apply to stock transferred after December 31, 1994, in satisfaction of any indebtedness.
+In general.—Except as otherwise provided in this paragraph, the amendments made by this subsection \[amending this section and section 382 of thistitle\] shall apply to stock transferred after December 31, 1994, in satisfaction of any indebtedness.
 
 "(B)
 
@@ -926,7 +932,7 @@ For Section 2
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by section 2 \[amending this section and sections 111, 118, 382, 703 and 1017 of this title\] shall apply to any transaction which occurs after December 31, 1980, other than a transactionwhich occurs in a proceeding in a bankruptcy case or similar judicial proceeding (or in a proceeding under the Bankruptcy Act) \[Title 11, Bankruptcy\] commencing on or before December 31, 1980.
+In general.—Except as provided in paragraph (2), the amendments made by section 2 \[amending this section and sections 111, 118, 382, 703 and 1017 of this title\] shall apply to any transaction which occurs after December 31, 1980, other than a transaction which occurs in a proceeding in a bankruptcy case or similar judicial proceeding (or in a proceeding under the Bankruptcy Act) \[Title 11, Bankruptcy\] commencing on or before December 31, 1980.
 
 &emsp;"(2)
 

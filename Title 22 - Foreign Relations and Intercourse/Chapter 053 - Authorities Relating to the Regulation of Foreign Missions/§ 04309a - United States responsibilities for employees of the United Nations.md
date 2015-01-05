@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) the implied obligation to permit and to facilitate the acquisition of facilities in order to conduct such activities within or in proximity to the United Nations Headquarters District, subject to reasonable regulation including regulation of the location and size of such facilities; and
 
-&emsp;(2) taking into account paragraph (1) and consistent with the obligation of the United States to facilitate the functioning of the United Nations, the United States has no additional obligation to permit the conduct of anyother activities, including nonofficial activities, by such individuals outside of the United Nations Headquarters District.
+&emsp;(2) taking into account paragraph (1) and consistent with the obligation of the United States to facilitate the functioning of the United Nations, the United States has no additional obligation to permit the conduct of any other activities, including nonofficial activities, by such individuals outside of the United Nations Headquarters District.
 
 #### (b) Activities of United Nations employees
 

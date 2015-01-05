@@ -100,7 +100,7 @@ Required Elements of Information Program.—In conducting the program under subs
 
 &emsp;"(3) make publications and other suitable materials containing such information readily available in Department of Veterans Affairs health-care facilities and such other Department of Veterans Affairs facilities as the Secretary considers appropriate; and
 
-&emsp;"(4) disseminate information (including the Surgeon General's Report on AIDS) on the risk of transmission of the human immunodeficiency virus, and information on preventing the transmission of such virus, to Department of Veterans Affairs substance abuse treatment personnel, to each person being furnished treatment by the Department of Veterans Affairs for drug abuse, and to each person receiving care or services from the Department of Veterans Affairs whom the Secretary believes to be at high risk for AIDS.
+&emsp;"(4) disseminate information (including the Surgeon General's Report on AIDS) on the risk of transmission of the human immunodeficiency virus, and information on preventing the transmission of such virus, to Department of Veterans Affairs substanceabuse treatment personnel, to each person being furnished treatment by the Department of Veterans Affairs for drug abuse, and to each person receiving care or services from the Department of Veterans Affairs whom the Secretary believes to be at high risk for AIDS.
 
 "(c)
 

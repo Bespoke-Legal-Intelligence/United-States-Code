@@ -8,7 +8,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Each person that submits, on or after September 1, 2003, an animal drug application or a supplemental animal drug application shall be subject to a fee as follows:
+&emsp;&emsp;Each person that submits, on or after September 1, 2003, an animal drug application ora supplemental animal drug application shall be subject to a fee as follows:
 
 &emsp;&emsp;&emsp;(i) A fee established in subsection (c) for an animal drug application, except an animal drug application subject to the criteria set forth in section 360b(d)(4) of this title.
 
@@ -32,7 +32,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (E) Refund of fee if application withdrawn
 
-&emsp;&emsp;If an animal drug application or a supplemental animal drug application is withdrawn after the application or supplement was filed, the Secretary may refund the fee or portion of the fee paid under subparagraph (B) if no substantial work was performed on the application or supplement after the application or supplement was filed. The Secretary shall have the sole discretion to refund the fee under this paragraph. A determination by the Secretaryconcerning a refund under this paragraph shall not be reviewable.
+&emsp;&emsp;If an animal drug application or a supplemental animal drug application is withdrawn after the application or supplement was filed, the Secretary may refund the fee or portion of the fee paid under subparagraph (B) if no substantial work was performed on the application or supplement after the application or supplement was filed. The Secretary shall have the sole discretion to refund the fee under this paragraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.
 
 #### (2) Animal drug product fee
 
@@ -222,7 +222,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for animal drug applications, supplemental animal drug applications, investigational animal drug submissions, animal drug sponsors, animal drug establishments and animal drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess andcollect such fees, without any modification in the rate, for animal drug applications, supplemental animal drug applications, investigational animal drug submissions, animal drug sponsors, animal drug establishments and animal drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (g) Crediting and availability of fees
 
@@ -246,7 +246,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 &emsp;&emsp;&emsp;(i) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
 
-&emsp;&emsp;&emsp;(ii)(I) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for the fiscal year followingthe subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in subparagraph (A)(ii); and
+&emsp;&emsp;&emsp;(ii)(I) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for the fiscal year following the subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in subparagraph (A)(ii); and
 
 &emsp;&emsp;&emsp;(II) such costs are not more than 5 percent below the level specified in subparagraph (A)(ii).
 
@@ -280,7 +280,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (h) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shallbe treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (i) Written requests for waivers, reductions, and refunds
 
@@ -312,7 +312,7 @@ The Secretary shall—
 
 Subsec. (a)(1)(A)(ii). Pub. L. 110–316, §103(a)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i)."
 
-Subsec. (b)(1). Pub. L. 110–316, §103(b)(1), substituted "and supplemental and other animal drug applicationfees" for "and supplemental animal drug application fees" and "$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013." for "$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008."
+Subsec. (b)(1). Pub. L. 110–316, §103(b)(1), substituted "and supplemental and other animal drug application fees" for "and supplemental animal drug application fees" and "$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013." for "$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008."
 
 Subsec. (b)(2). Pub. L. 110–316, §103(b)(2), substituted "$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013." for "$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008."
 

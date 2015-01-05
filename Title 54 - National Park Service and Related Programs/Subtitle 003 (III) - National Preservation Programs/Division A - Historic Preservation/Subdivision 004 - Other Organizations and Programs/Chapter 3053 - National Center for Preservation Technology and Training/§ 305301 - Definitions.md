@@ -1,0 +1,30 @@
+### §305301. Definitions
+
+In this chapter:
+
+&emsp;(1)
+
+Board.—The term "Board" means the Preservation Technology and Training Board established pursuant to section 305303 of this title.
+
+&emsp;(2)
+
+Center.—The term "Center" means the National Center for Preservation Technology and Training established pursuant to section 305302 of this title.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3220.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+305301
+
+16 U.S.C. 470x–1.
+
+Pub. L. 89–665, title IV, §402, as added Pub. L. 102–575, title XL, §4022, Oct. 30, 1992, 106 Stat. 4766.
+

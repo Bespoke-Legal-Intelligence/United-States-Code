@@ -202,7 +202,7 @@ For purposes of this subchapter:
 
 #### (24) Solo applicant
 
-&emsp;The term "solo applicant" means an entity that is an eligible entity, directly submits an application for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
+&emsp;The term "solo applicant" means an entity that is an eligible entity, directly submits anapplication for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
 
 #### (25) Sponsor-based
 
@@ -306,7 +306,7 @@ Pub. L. 112–141, div. F, title II, §100261, July 6, 2012, 126 Stat. 978, prov
 
 &emsp;"(2) the term 'State' includes any instrumentality of any of the several States designated by the Governor to act on behalf of the State and does not include the District of Columbia;
 
-&emsp;"(3) for purposes of environmental review, the Secretary of Housing and Urban Development shall continue to permit assistance and projects to be treated as assistance for special projects that are subject to section 305(c) of the Multifamily Housing PropertyDisposition Reform Act of 1994 (42 U.S.C. 3547), and subject to the regulations issued by the Secretary of Housing and Urban Development to implement such section; and
+&emsp;"(3) for purposes of environmental review, the Secretary of Housing and Urban Development shall continue to permit assistance and projects to be treated as assistance for special projects that are subject to section 305(c) of the Multifamily Housing Property Disposition Reform Act of 1994 (42 U.S.C. 3547), and subject to the regulations issued by the Secretary of Housing and Urban Development to implement such section; and
 
 &emsp;"(4) a metropolitan city and an urban county that each receive an allocation under such title IV and are located within a geographic area that is covered by a single continuum of care may jointly request the Secretary of Housing and Urban Development to permit the urban county or the metropolitan city, as agreed to by such county and city, to receive and administer their combined allocations under a single grant."
 

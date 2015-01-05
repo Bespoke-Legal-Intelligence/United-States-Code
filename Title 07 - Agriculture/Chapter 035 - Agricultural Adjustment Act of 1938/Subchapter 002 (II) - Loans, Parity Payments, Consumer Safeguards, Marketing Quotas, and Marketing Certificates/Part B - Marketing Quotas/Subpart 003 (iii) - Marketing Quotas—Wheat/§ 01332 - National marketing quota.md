@@ -22,7 +22,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall proclai
 
 <b>1985</b>—Pub. L. 99–198 temporarily substituted "Proclamation of marketing quotas" for "National marketing quota" in section catchline. See Effective and Termination Dates of 1985 Amendment note below.
 
-Subsec. (a). Pub. L. 99–198 amended subsec. (a) generally, temporarily substituting provisions defining the terms "base period" and "marketing quota period" for provisions which authorized the Secretary to proclaim a national marketing quota for wheat for either a two- or three-year period. See Effective and Termination Dates of 1985 Amendment note below.
+Subsec. (a). Pub. L. 99–198 amended subsec. (a) generally, temporarily substituting provisions defining theterms "base period" and "marketing quota period" for provisions which authorized the Secretary to proclaim a national marketing quota for wheat for either a two- or three-year period. See Effective and Termination Dates of 1985 Amendment note below.
 
 Subsec. (b). Pub. L. 99–198 amended subsec. (b) generally, temporarily substituting provisions authorizing the proclamation of a national marketing quota for each marketing year, not later than June 15, 1986, in an amount which the Secretary determines is required to meet anticipated needs during such marketing year, and the conducting of a marketing quota referendum not later than Aug. 1, 1986 for provisions which had authorized the proclamation of a national marketing quota upon a determination made between Jan. 1 and Apr. 15 of the calendar year preceding the year in which the marketing year began, which determination had to provide a minimum of one billion bushels for any marketing year, and investigation of stocks to adjust for imports and excessive or insufficient amounts generally. See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -53,6 +53,10 @@ Pub. L. 89–321, title V, §501, Nov. 3, 1965, 79 Stat. 1199, provided that the
 Amendment by Pub. L. 87–703 effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
 

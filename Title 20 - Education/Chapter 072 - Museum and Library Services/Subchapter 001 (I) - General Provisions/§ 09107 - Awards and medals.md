@@ -1,6 +1,6 @@
 ### §9107. Awards and medals
 
-The Director, with the advice of the Museum and Library Services Board, may annually award national awards and medals for library and museum services to outstanding libraries and museums that have made significant contributions in service to their communities.
+The Director, with the advice of the Museum and Library Services Board, may annuallyaward national awards and medals for library and museum services to outstanding libraries and museums that have made significant contributions in service to their communities.
 
 (Pub. L. 94–462, title II, §209, as added Pub. L. 108–81, title I, §105, Sept. 25, 2003, 117 Stat. 996; amended Pub. L. 111–340, title I, §105, Dec. 22, 2010, 124 Stat. 3598.)
 

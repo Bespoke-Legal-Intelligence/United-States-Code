@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There shall be in the Department a bureau to be known as the “Bureau of Citizenship and Immigration Services”.
+&emsp;There shall be in the Department a bureau to be known as the "Bureau of Citizenship and Immigration Services".
 
 #### (2) Director
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) shall establish national immigration services policies and priorities;
 
-&emsp;&emsp;(E) shall meet regularly with the Ombudsman described in section 272 of this title to correct serious service problems identified by the Ombudsman; and
+&emsp;&emsp;(E) shall meet regularly with the Ombudsman described in section 272 of this title tocorrect serious service problems identified by the Ombudsman; and
 
 &emsp;&emsp;(F) shall establish procedures requiring a formal response to any recommendations submitted in the Ombudsman's annual report to Congress within 3 months after its submission to Congress.
 
@@ -52,7 +52,7 @@
 
 #### (b) Transfer of functions from Commissioner
 
-In accordance with subchapter XII of this chapter (relating to transition provisions), there are transferred from the Commissioner of Immigration and Naturalization to the Director of the Bureau of Citizenship and Immigration Services the following functions, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions immediately before the effective date specified in section 455: <sup>1</sup>
+In accordance with subchapter XII (relating to transition provisions), there are transferred from the Commissioner of Immigration and Naturalization to the Director of the Bureau of Citizenship and Immigration Services the following functions, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions immediately before the effective date specified in section 455: <sup>1</sup>
 
 &emsp;(1) Adjudications of immigrant visa petitions.
 
@@ -124,7 +124,7 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (a)(3)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov.25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 For the effective date specified in section 455, referred to in subsecs. (a)(4) and (b), see Effective Date note below.
 
@@ -138,11 +138,11 @@ Bureau of Border Security, referred to in subsecs. (a)(2)(C), (3)(C), and (c)(2)
 
 #### Termination Date of 2008 Amendment
 
-Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that: “This Act \[amending this section and section 1439 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section and section 1101 of Title 8\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 9, 2008\].”
+Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that: "This Act \[amending this section and section 1439 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section and section 1101 of Title 8\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 9, 2008\]."
 
 #### Effective Date
 
-Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that: “Notwithstanding section 4 \[enacting provisions set out as a note under section 101 of this title\], sections 451 through 456 \[enacting this section and sections 272 to 275 of this title\], and the amendments made by such sections, shall take effect on the date on which the transfer of functions specified under section 441 \[enacting section 251 of this title\] takes effect.” \[For date on which transfer of functions specified under section 441 takes effect, see section 251 of this title and Department of Homeland Security Reorganization Plan, Nov. 25, 2002, set out as a note under section 542 of this title.\]
+Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that: "Notwithstanding section 4 \[enacting provisions set out as a note under section 101 of this title\], sections 451 through 456 \[enacting this section and sections 272 to 275 of this title\], and the amendments made by such sections, shall take effect on the date on which the transfer of functions specified under section 441 \[enacting section 251 of this title\] takes effect." \[For date on which transfer of functions specified under section 441 takes effect, see section 251 of this title and Department of Homeland Security Reorganization Plan, Nov. 25, 2002, set out as a note under section 542 of this title.\]
 
 #### Rulemaking
 

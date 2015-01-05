@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Homeland security grant
 
-&emsp;The term “homeland security grant” means any grant made or administered by the Department, including—
+&emsp;The term "homeland security grant" means any grant made or administered by the Department, including—
 
 &emsp;&emsp;(A) the State Homeland Security Grant Program;
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (2) Local government
 
-&emsp;The term “local government” has the meaning given the term in section 101 of this title.
+&emsp;The term "local government" has the meaning given the term in section 101 of this title.
 
 #### (b) Required disclosures
 
@@ -34,5 +34,5 @@ Section was enacted as part of the Security and Accountability For Every Port Ac
 
 #### Definitions
 
-For definitions of “Department” and “Secretary” as used in this section, see section 901 of this title.
+For definitions of "Department" and "Secretary" as used in this section, see section 901 of this title.
 

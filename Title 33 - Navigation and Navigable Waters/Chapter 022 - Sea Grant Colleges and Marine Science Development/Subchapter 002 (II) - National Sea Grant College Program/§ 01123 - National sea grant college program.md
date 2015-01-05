@@ -42,7 +42,7 @@ The national sea grant college program shall consist of the financial assistance
 
 #### (d) Director of National Sea Grant College Program
 
-(1) The Secretary shall appoint, as the Director of the National Sea Grant College Program,a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to ocean, coastal, and Great Lakes resources. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5.
+(1) The Secretary shall appoint, as the Director of the National Sea Grant College Program, a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to ocean, coastal, and Great Lakes resources. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5.
 
 (2) Subject to the supervision of the Secretary, the Director shall administer the national sea grant college program and oversee the operation of the national sea grant office. In addition to any other duty prescribed by law or assigned by the Secretary, the Director shall—
 

@@ -6,7 +6,7 @@ The Attorney General shall by regulation remove from exemption under section 802
 
 #### (b) Factors to be considered
 
-In removing a drug or group of drugs from exemption under subsection (a) of this section, the Attorney General shall consider, with respect toa drug or group of drugs that is proposed to be removed from exemption—
+In removing a drug or group of drugs from exemption under subsection (a) of this section, the Attorney General shall consider, with respect to a drug or group of drugs that is proposed to be removed from exemption—
 
 &emsp;(1) the scope, duration, and significance of the diversion;
 

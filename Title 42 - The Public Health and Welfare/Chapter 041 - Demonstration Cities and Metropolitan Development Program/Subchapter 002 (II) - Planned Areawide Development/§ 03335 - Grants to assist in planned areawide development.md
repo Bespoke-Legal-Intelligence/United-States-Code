@@ -40,7 +40,7 @@ Nothing in this section shall authorize the Secretary to require (or condition t
 
 Subsec. (b). Pub. L. 90–448, §602(d)(1)–(3), substituted "areawide development projects in areas" for "metropolitan development projects in metropolitan areas", "areawide comprehensive planning" for "metropolitanwide comprehensive planning" in three places, "public areawide" for "public metropolitanwide", and "adequate areawide" for "adequate metropolitanwide".
 
-Subsec. (c). Pub. L. 90–448, §602(d)(3)–(5), substituted "public areawide" for "public metropolitanwide", and "areawide planning" for "metropolitan planning" in two places, and inserted "where appropriate," after "(B)".
+Subsec. (c). Pub. L. 90–448, §602(d)(3)–(5), substituted "public areawide" for "public metropolitanwide", and "areawide planning" for "metropolitan planning" intwo places, and inserted "where appropriate," after "(B)".
 
 Subsec. (d). Pub. L. 90–448, §602(d)(2), substituted "programing for the area" for "programing for the metropolitan area".
 

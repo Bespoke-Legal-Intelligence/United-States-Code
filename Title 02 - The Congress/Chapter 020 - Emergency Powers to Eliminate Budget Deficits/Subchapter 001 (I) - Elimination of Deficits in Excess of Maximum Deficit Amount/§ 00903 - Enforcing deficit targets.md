@@ -12,9 +12,9 @@ The excess deficit is, if greater than zero, the estimated deficit for the budge
 
 &emsp;(2) the amounts for that year designated as emergency direct spending or receipts legislation under section 902(e) of this title; and
 
-&emsp;(3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h) of this section.
+&emsp;(3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h).
 
-> The “margin” for fiscal year 1992 or 1993 is zero and for fiscal year 1994 or 1995 is $15,000,000,000.
+> The "margin" for fiscal year 1992 or 1993 is zero and for fiscal year 1994 or 1995 is $15,000,000,000.
 
 #### (c) Dividing sequestration
 
@@ -22,7 +22,7 @@ To eliminate the excess deficit in a budget year, half of the required outlay re
 
 #### (d) Defense
 
-Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c) of this section, except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in section 901(a)(3) of this title.
+Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c), except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in section 901(a)(3) of this title.
 
 #### (e) Non-defense
 
@@ -38,7 +38,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (3) Third
 
-&emsp;(A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
+&emsp;(A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c), except that—
 
 &emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
 
@@ -52,11 +52,11 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (1) Budget assumptions
 
-&emsp;For purposes of subsections (b), (c), (d), and (e) of this section, accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
+&emsp;For purposes of subsections (b), (c), (d), and (e), accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
 
 #### (2) Part-year appropriations
 
-&emsp;If, on the date specified in subsection (a) of this section, there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e) of this section, as applicable, shall be subtracted from—
+&emsp;If, on the date specified in subsection (a), there is in effect an Act making or continuingappropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e), as applicable, shall be subtracted from—
 
 &emsp;&emsp;(A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
 
@@ -118,13 +118,13 @@ Section 665 of this title, referred to in subsec. (g)(1), (2)(A), (D), was repea
 
 #### Codification
 
-November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
+November 5, 1990, referred to in subsec. (g)(2)(B), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–508 amended section generally, substituting provisions relating to enforcement of deficit targets for provisions relating to compliance report by Comptroller General.
 
-<b>1987</b>—Pub. L. 100–119 amended section generally, designating existing provisions as par. (1), substituting “(or December 15, 1987, in the case of the fiscal year 1988)” for “(or on or before April 1, 1986, in the case of the fiscal year 1986)”, and adding pars. (2) and (3).
+<b>1987</b>—Pub. L. 100–119 amended section generally, designating existing provisions as par. (1), substituting "(or December 15, 1987, in the case of the fiscal year 1988)" for "(or on or before April 1, 1986, in the case of the fiscal year 1986)", and adding pars. (2) and (3).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

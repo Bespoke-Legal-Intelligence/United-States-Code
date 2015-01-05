@@ -8,7 +8,7 @@ The Secretary shall establish a program for making grants to eligible private op
 
 A recipient of a grant received under subsection (a) shall use the grant funds for one or more of the following:
 
-&emsp;(1) Constructing and modifying terminals, garages, and facilities, including terminalsand other over-the-road bus facilities owned by State or local governments, to increase their security.
+&emsp;(1) Constructing and modifying terminals, garages, and facilities, including terminals and other over-the-road bus facilities owned by State or local governments, to increase their security.
 
 &emsp;(2) Modifying over-the-road buses to increase their security.
 

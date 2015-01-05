@@ -12,7 +12,7 @@ Within one year after October 11, 1996, the Secretary shall promulgate regulatio
 
 The Secretary, in cooperation with the appropriate States and the National Sea Grant College Program, shall—
 
-&emsp;(1) establish programs to ensure that each observer receives adequate training in collecting and analyzing the information necessary for the conservation and management purposes of the fishery to which such observer is assigned;
+&emsp;(1) establish programs to ensure that each observer receives adequate training in collecting and analyzing the information necessaryfor the conservation and management purposes of the fishery to which such observer is assigned;
 
 &emsp;(2) require that an observer demonstrate competence in fisheries science and statistical analysis at a level sufficient to enable such person to fulfill the responsibilities of the position;
 

@@ -34,9 +34,111 @@ Upon the request of a State water pollution control agency, personnel of the Env
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–4 inserted provision at end authorizing Administrator to enter into noncompetitive procurement contracts with independent State audit organizations, consistent with chapter 75 of title 31, but only to extent and in such amounts as provided in advance in appropriations Acts.
 
+#### Applicability of Spill Prevention, Control, and Countermeasure Rule
+
+Pub. L. 113–121, title I, §1049, June 10, 2014, 128 Stat. 1257, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Environmental Protection Agency.
+
+&emsp;"(2)
+
+Farm.—The term 'farm' has the meaning given the term in section 112.2 of title 40, Code of Federal Regulations (or successor regulations).
+
+&emsp;"(3)
+
+Gallon.—The term 'gallon' means a United States gallon.
+
+&emsp;"(4)
+
+Oil.—The term 'oil' has the meaning given the term in section 112.2 of title 40, Code of Federal Regulations (or successor regulations).
+
+&emsp;"(5)
+
+Oil discharge.—The term 'oil discharge' has the meaning given the term 'discharge' in section 112.2 of title 40, Code of Federal Regulations (or successor regulations).
+
+&emsp;"(6)
+
+Reportable oil discharge history.—
+
+&emsp;&emsp;"(A)
+
+In general.—Subject to subparagraph (B), the term 'reportable oil discharge history' means a single oil discharge, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that exceeds 1,000 gallons or 2 oil discharges, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that each exceed 42 gallons within any 12-month period—
+
+&emsp;&emsp;&emsp;"(i) in the 3 years prior to the certification date of the Spill Prevention, Control, and Countermeasure plan (as described in section 112.3 of title 40, Code of Federal Regulations (including successor regulations); or
+
+&emsp;&emsp;&emsp;"(ii) since becoming subject to part 112 of title 40, Code of Federal Regulations, if the facility has been in operation for less than 3 years.
+
+&emsp;&emsp;"(B)
+
+Exclusions.—The term 'reportable oil discharge history' does not include an oil discharge, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that is the result of a natural disaster, an act of war, or terrorism.
+
+&emsp;"(7)
+
+Spill prevention, control, and countermeasure rule.—The term 'Spill Prevention, Control, and Countermeasure rule' means the regulation, including amendments, promulgated by the Administrator under part 112 of title 40, Code of Federal Regulations (or successor regulations).
+
+"(b)
+
+Certification.—In implementing the Spill Prevention, Control, and Countermeasure rule with respect to any farm, the Administrator shall—
+
+&emsp;"(1) require certification by a professional engineer for a farm with—
+
+&emsp;&emsp;"(A) an individual tank with an aboveground storage capacity greater than 10,000 gallons;
+
+&emsp;&emsp;"(B) an aggregate aboveground storage capacity greater than or equal to 20,000 gallons; or
+
+&emsp;&emsp;"(C) a reportable oil discharge history; or
+
+&emsp;"(2) allow certification by the owner or operator of the farm (via self-certification) for a farm with—
+
+&emsp;&emsp;"(A) an aggregate aboveground storage capacity less than 20,000 gallons and greater than the lesser of—
+
+&emsp;&emsp;&emsp;"(i) 6,000 gallons; and
+
+&emsp;&emsp;&emsp;"(ii) the adjustment quantity established under subsection (d)(2); and
+
+&emsp;&emsp;"(B) no reportable oil discharge history; and
+
+&emsp;"(3) not require compliance with the rule by any farm—
+
+&emsp;&emsp;"(A) with an aggregate aboveground storage capacity greater than 2,500 gallons and less than the lesser of—
+
+&emsp;&emsp;&emsp;"(i) 6,000 gallons; and
+
+&emsp;&emsp;&emsp;"(ii) the adjustment quantity established under subsection (d)(2); and
+
+&emsp;&emsp;"(B) no reportable oil discharge history; and
+
+&emsp;"(4) not require compliance with the rule by any farm with an aggregate aboveground storage capacity of less than 2,500 gallons.
+
+"(c)
+
+Calculation of Aggregate Aboveground Storage Capacity.—For purposes of subsection (b), the aggregate aboveground storage capacity of a farm excludes—
+
+&emsp;"(1) all containers on separate parcels that have a capacity that is 1,000 gallons or less; and
+
+&emsp;"(2) all containers holding animal feed ingredients approved for use in livestock feed by the Commissioner of Food and Drugs.
+
+"(d)
+
+Study.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[June 10, 2014\], the Administrator, in consultation with the Secretary of Agriculture, shall conduct a study to determine the appropriate exemption under paragraphs (2) and (3) of subsection (b), which shall be not more than 6,000 gallons and not less than 2,500 gallons, based on a significant risk of discharge to water.
+
+&emsp;"(2)
+
+Adjustment.—Not later than 18 months after the date on which the study described in paragraph (1) is complete, the Administrator, in consultation with the Secretary of Agriculture, shall promulgate a rule to adjust the exemption levels described in paragraphs (2) and (3) of subsection (b) in accordance with the study."
+
 #### Environmental Court Feasibility Study
 
-Section 9 of Pub. L. 92–500 authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
+Pub. L. 92–500, §9, Oct. 18, 1972, 86 Stat. 899, authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
 
 #### Transfer of Public Health Service Officers
 

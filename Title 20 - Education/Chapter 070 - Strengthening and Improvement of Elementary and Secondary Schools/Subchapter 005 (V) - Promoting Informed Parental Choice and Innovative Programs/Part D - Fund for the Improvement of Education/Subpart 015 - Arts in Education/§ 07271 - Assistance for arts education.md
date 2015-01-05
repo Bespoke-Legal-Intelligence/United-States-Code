@@ -60,7 +60,7 @@ If the amount made available to the Secretary to carry out this subpart for any 
 
 As conditions of receiving assistance made available under this subpart, the Secretary shall require each entity receiving such assistance—
 
-&emsp;(1) to coordinate, to the extent practicable, each project or program carried out with such assistance with appropriate activities of public or private cultural agencies, institutions, and organizations, including museums, arts education associations, libraries, and theaters; and
+&emsp;(1) to coordinate, to the extent practicable, each project or program carried out with suchassistance with appropriate activities of public or private cultural agencies, institutions, and organizations, including museums, arts education associations, libraries, and theaters; and
 
 &emsp;(2) to use such assistance only to supplement, and not to supplant, any other assistance or funds made available from non-Federal sources for the activities assisted under this subpart.
 

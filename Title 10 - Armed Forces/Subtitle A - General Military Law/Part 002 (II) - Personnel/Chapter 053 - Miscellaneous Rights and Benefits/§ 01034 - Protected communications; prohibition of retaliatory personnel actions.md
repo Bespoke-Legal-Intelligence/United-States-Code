@@ -44,7 +44,7 @@ Inspector General Investigation of Allegations of Prohibited Personnel Actions.�
 
 (3) A communication described in paragraph (2) shall not be excluded from the protections provided in this section because—
 
-&emsp;(A) the communication was made to a person who participated in an activity that themember reasonably believed to be covered by paragraph (2);
+&emsp;(A) the communication was made to a person who participated in an activity that the member reasonably believed to be covered by paragraph (2);
 
 &emsp;(B) the communication revealed information that had previously been disclosed;
 
@@ -82,9 +82,9 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
 
-(2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
+(2) In the copy of the report transmitted to the member, the Inspector General shall ensure themaximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
-(3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when theCoast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
+(3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
 &emsp;(A) of that determination (including the reasons why the report may not be submitted within that time); and
 
@@ -140,7 +140,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 (h)
 
-Review by Secretary of Defense.—Upon the completion of all administrative review under subsection (f), the member or former member of the armed forces (except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) who made the allegation referred to in subsection (c)(1), if not satisfied with the disposition of the matter, may submit the matter to the Secretary of Defense. The Secretary shall make a decision to reverse or uphold the decision of the Secretary of the military department concerned in the matter within 90 days after receipt of such a submittal.
+Review by Secretary of Defense.—Upon the completion of all administrative review under subsection (f), the member or former member of the armed forces (except for a member or former member of the Coast Guard whenthe Coast Guard is not operating as a service in the Navy) who made the allegation referred to in subsection (c)(1), if not satisfied with the disposition of the matter, may submit the matter to the Secretary of Defense. The Secretary shall make a decision to reverse or uphold the decision of the Secretary of the military department concerned in the matter within 90 days after receipt of such a submittal.
 
 (i)
 
@@ -156,7 +156,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) The Inspector General of the Department of Defense.
 
-&emsp;&emsp;(B) The Inspector General of the Department of Homeland Security, in the case of amember of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+&emsp;&emsp;(B) The Inspector General of the Department of Homeland Security, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 &emsp;&emsp;(C) Any officer of the armed forces or employee of the Department of Defense who is assigned or detailed to serve as an Inspector General at any level in the Department of Defense.
 
@@ -374,7 +374,7 @@ Pub. L. 102–190, div. A, title VIII, §843, Dec. 5, 1991, 105 Stat. 1449, prov
 
 "(a)
 
-Regulations Required.—The Secretary of Defense shall prescribe regulations prohibiting members of the Armed Forces from taking or threatening to take any unfavorable personnel action, or withholding or threatening to withhold a favorable personnel action, as a reprisal against any member of the Armed Forces for making or preparing a lawful communication to any employee of the Department of Defense or any member of the Armed Forces who is assigned to or belongs to an organization which has as its primary responsibility audit, inspection, investigation, or enforcement of any law or regulation.
+Regulations Required.—The Secretary of Defense shall prescribe regulations prohibiting members of the Armed Forces from taking or threatening totake any unfavorable personnel action, or withholding or threatening to withhold a favorable personnel action, as a reprisal against any member of the Armed Forces for making or preparing a lawful communication to any employee of the Department of Defense or any member of the Armed Forces who is assigned to or belongs to an organization which has as its primary responsibility audit, inspection, investigation, or enforcement of any law or regulation.
 
 "(b)
 

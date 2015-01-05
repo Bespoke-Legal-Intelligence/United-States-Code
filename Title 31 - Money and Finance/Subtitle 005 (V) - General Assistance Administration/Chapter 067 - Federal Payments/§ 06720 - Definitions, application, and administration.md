@@ -8,7 +8,7 @@ Definitions.—In this chapter—
 
 &emsp;&emsp;(A) a county, township, city, or political subdivision of a county, township, or city, that is a unit of general local government as determined by the Secretary of Commerce for general statistical purposes; and
 
-&emsp;&emsp;(B) the District of Columbia and the recognized governing body of an Indian tribe orAlaskan Native village that carries out substantial governmental duties and powers;
+&emsp;&emsp;(B) the District of Columbia and the recognized governing body of an Indian tribe or Alaskan Native village that carries out substantial governmental duties and powers;
 
 &emsp;(2) "payment period" means each 1-year period beginning on October 1 of the years 1994 through 2000;
 

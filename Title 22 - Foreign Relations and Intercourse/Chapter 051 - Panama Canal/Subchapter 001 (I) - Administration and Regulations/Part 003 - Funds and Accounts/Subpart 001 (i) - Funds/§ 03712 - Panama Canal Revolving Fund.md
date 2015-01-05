@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States a revolving fund to be known as "Panama Canal Revolving Fund". The Panama Canal Revolving Fund shall, subject to subsection (b) of this section, be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
+There is established in the Treasury of the United States a revolving fund to be known as "Panama Canal Revolving Fund". The Panama Canal Revolving Fund shall, subject to subsection (b), be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
 
 &emsp;(1) The hire of passenger motor vehicles and aircraft.
 
@@ -58,7 +58,7 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d)(1), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d)(1), was in the original "this Act", meaning Pub. L. 96–70, Sept.27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 Section 3504 of Public Law 106–65, referred to in subsec. (e)(1), is section 3504 of Pub. L. 106–65, div. C, title XXXV, Oct. 5, 1999, 113 Stat. 975, which amended section 3714a of this title and enacted provisions set out as a note under section 3714a of this title.
 
@@ -76,7 +76,7 @@ Subsec. (a)(9). Pub. L. 105–85, §3528(b)(2), capitalized initial letter of fi
 
 Subsec. (a)(10). Pub. L. 105–85, §3528(a), added par. (10).
 
-<b>1996</b>—Pub. L. 104–201 amended section generally, reenacting section catchline without change, revising and restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of formersubsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
+<b>1996</b>—Pub. L. 104–201 amended section generally, reenacting section catchline without change, revising and restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of former subsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
 
 Subsec. (c)(1). Pub. L. 104–106, §3525(1)(A), struck out "and subject to paragraph (2)" after "section 3713 of this title".
 

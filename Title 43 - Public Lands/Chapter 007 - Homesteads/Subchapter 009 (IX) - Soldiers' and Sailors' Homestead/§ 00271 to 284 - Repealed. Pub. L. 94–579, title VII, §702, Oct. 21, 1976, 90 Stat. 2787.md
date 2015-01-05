@@ -18,13 +18,13 @@ Section 277, R.S. §2309, related to additional entry by agent.
 
 Section 278, R.S. §2307; Feb. 25, 1919, ch. 37, 40 Stat. 1161; Sept. 21, 1922, ch. 357, 42 Stat. 990, set forth rights of veteran's widow to make entry, and rights of children upon her death.
 
-Section 279, acts Sept. 27, 1944, ch. 421, §1, 58 Stat. 747; June 25, 1946, ch. 474, 60 Stat. 308; May 31, 1947, ch. 88, §1, 61 Stat. 123; June 18, 1954, ch. 306, §1(a), (b), 68 Stat. 253, set forth preference rights of entry of World War II or Korean conflict veterans.
+Section 279, acts Sept. 27, 1944, ch. 421, §1, 58 Stat. 747; June 25, 1946, ch. 474, 60 Stat. 308; May 31, 1947, ch. 88,§1, 61 Stat. 123; June 18, 1954, ch. 306, §1(a), (b), 68 Stat. 253, set forth preference rights of entry of World War II or Korean conflict veterans.
 
 Section 280, acts Sept. 27, 1944, ch. 421, §2, 58 Stat. 748; May 31, 1947, ch. 88, §2, 61 Stat. 123, related to rights of dependents of World War II or Korean conflict veterans.
 
 Section 281, act Sept. 27, 1944, ch. 421, §3, 58 Stat. 748, related to death of World War II or Korean conflict veteran as affecting patent rights of minor children.
 
-Section 282, acts Sept. 27, 1944, ch. 421, §4, 58 Stat. 748; May 31, 1947, ch. 88, §3, 61 Stat. 124; June 18, 1954, ch.306, §1(c), 68 Stat. 254, related to rights of World War II or Korean conflict veteran on revocation of withdrawal order.
+Section 282, acts Sept. 27, 1944, ch. 421, §4, 58 Stat. 748; May 31, 1947, ch. 88, §3, 61 Stat. 124; June 18, 1954, ch. 306, §1(c), 68 Stat. 254, related to rights of World War II or Korean conflict veteran on revocation of withdrawal order.
 
 Section 283, acts Sept. 27, 1944, ch. 421, §6, formerly §5, 58 Stat. 748, renumbered §6, June 3, 1948, ch. 399, 62 Stat. 305, related to promulgation of rules and regulations respecting preference right of entry of World War II or Korean conflict veteran.
 

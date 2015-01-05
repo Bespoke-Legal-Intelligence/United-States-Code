@@ -44,19 +44,21 @@ To receive a payment under this section, an eligible producer shall meet any oth
 
 &emsp;&emsp;(B) $55,000,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $85,000,000 for fiscal year 2011; and
+&emsp;&emsp;(C) $85,000,000 for fiscal year 2011;
 
-&emsp;&emsp;(D) $105,000,000 for fiscal year 2012.
+&emsp;&emsp;(D) $105,000,000 for fiscal year 2012; and
+
+&emsp;&emsp;(E) $15,000,000 for each of fiscal years 2014 through 2018.
 
 #### (2) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2013.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
 
 #### (3) Limitation
 
-&emsp;Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
+&emsp;Of the funds provided for each fiscal year, not more than 5 percent of the funds shall bemade available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
 
-(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, §4(a), title IX, §9001(a),June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365.)
+(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9005, Feb. 7, 2014, 128 Stat. 930.)
 
 #### Codification
 
@@ -67,6 +69,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8105, Pub. L. 107–171, title IX, §9005, May 13, 2002, 116 Stat. 480, related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(1)(E). Pub. L. 113–79, §9005(1), added subpar. (E).
+
+Subsec. (g)(2). Pub. L. 113–79, §9005(2), substituted "$20,000,000 for each of fiscal years 2014 through 2018" for "$25,000,000 for each of fiscal years 2009 through 2013".
 
 <b>2013</b>—Subsec. (g)(2). Pub. L. 112–240 substituted "2013" for "2012".
 

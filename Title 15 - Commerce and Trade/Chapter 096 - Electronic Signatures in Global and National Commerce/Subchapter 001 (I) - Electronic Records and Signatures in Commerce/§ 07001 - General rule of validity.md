@@ -20,7 +20,7 @@ This subchapter does not—
 
 #### (1) Consent to electronic records
 
-&emsp;Notwithstanding subsection (a) of this section, if a statute, regulation, or other rule of law requires that information relating to a transaction or transactions in or affecting interstate or foreign commerce be provided ormade available to a consumer in writing, the use of an electronic record to provide or make available (whichever is required) such information satisfies the requirement that such information be in writing if—
+&emsp;Notwithstanding subsection (a) of this section, if a statute, regulation, or other rule of law requires that information relating to a transaction or transactions in or affecting interstate or foreign commerce be provided or made available to a consumer in writing, the use of an electronic record to provide or make available (whichever is required) such information satisfies the requirement that such information be in writing if—
 
 &emsp;&emsp;(A) the consumer has affirmatively consented to such use and has not withdrawn such consent;
 
@@ -32,7 +32,7 @@ This subchapter does not—
 
 &emsp;&emsp;&emsp;(iii) describing the procedures the consumer must use to withdraw consent as provided in clause (i) and to update information needed to contact the consumer electronically; and
 
-&emsp;&emsp;&emsp;(iv) informing the consumer (I) how, after the consent, the consumer may, upon request, obtain a paper copy of an electronic record, and (II) whether any fee will be charged for such copy;
+&emsp;&emsp;&emsp;(iv) informing the consumer (I) how, after the consent, the consumer may, uponrequest, obtain a paper copy of an electronic record, and (II) whether any fee will be charged for such copy;
 
 &emsp;&emsp;(C) the consumer—
 
@@ -80,7 +80,7 @@ This subchapter does not—
 
 &emsp;&emsp;(A) accurately reflects the information set forth in the contract or other record; and
 
-&emsp;&emsp;(B) remains accessible to all persons who are entitled to access by statute, regulation, or rule of law, for the period required bysuch statute, regulation, or rule of law, in a form that is capable of being accurately reproduced for later reference, whether by transmission, printing, or otherwise.
+&emsp;&emsp;(B) remains accessible to all persons who are entitled to access by statute, regulation, or rule of law, for the period required by such statute, regulation, or rule of law, in a form that is capable of being accurately reproduced for later reference, whether by transmission, printing, or otherwise.
 
 #### (2) Exception
 
@@ -166,7 +166,7 @@ Certain guaranteed and insured loans.—With regard to any transaction involving
 
 &emsp;"(3)
 
-Student loans.—With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made,pursuant to title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], section 101(c) of this Act \[15 U.S.C. 7001(c)\] shall not apply until the earlier of—
+Student loans.—With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], section 101(c) of this Act \[15 U.S.C. 7001(c)\] shall not apply until the earlier of—
 
 &emsp;&emsp;"(A) such time as the Secretary of Education publishes revised promissory notes under section 432(m) of the Higher Education Act of 1965 \[20 U.S.C. 1082(m)\]; or
 

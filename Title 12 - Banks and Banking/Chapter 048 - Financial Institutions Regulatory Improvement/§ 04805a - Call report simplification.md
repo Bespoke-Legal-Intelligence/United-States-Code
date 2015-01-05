@@ -36,7 +36,7 @@ In this section, the term "Federal banking agency" has the same meaning as in se
 
 #### Codification
 
-Section was enacted as part of the Financial Regulatory Relief and Economic Efficiency Act of 2000, andalso as part of the American Homeownership and Economic Opportunity Act of 2000, and not as part of title III of Pub. L. 103–325 which comprises this chapter.
+Section was enacted as part of the Financial Regulatory Relief and Economic Efficiency Act of 2000, and also as part of the American Homeownership and Economic Opportunity Act of 2000, and not as part of title III of Pub. L. 103–325 which comprises this chapter.
 
 Provisions similar to this section are contained in section 4805 of this title.
 

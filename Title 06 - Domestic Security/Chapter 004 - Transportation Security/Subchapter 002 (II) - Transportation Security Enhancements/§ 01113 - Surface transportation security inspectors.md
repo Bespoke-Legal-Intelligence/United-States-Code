@@ -28,7 +28,7 @@ The Secretary shall require that surface transportation security inspectors have
 
 &emsp;&emsp;(A) In the case of a public transportation agency that is found to be in violation of a regulation or order issued by the Secretary, the Secretary shall seek correction of the violation through a written notice to the public transportation agency and shall give the public transportation agency reasonable opportunity to correct the violation or propose an alternative means of compliance acceptable to the Secretary.
 
-&emsp;&emsp;(B) If the public transportation agency does not correct the violation or propose an alternative means of compliance acceptable to the Secretary within a reasonable time period that is specified in the written notice, the Secretary may take any action authorized in section 114 of title 49.
+&emsp;&emsp;(B) If the public transportation agency does not correct the violation or propose analternative means of compliance acceptable to the Secretary within a reasonable time period that is specified in the written notice, the Secretary may take any action authorized in section 114 of title 49.
 
 #### (3) Limitation on Secretary
 
@@ -54,7 +54,7 @@ The Secretary shall ensure that the mission of the surface transportation securi
 
 The Secretary shall periodically consult with the surface transportation entities which are or may be inspected by the surface transportation security inspectors, including, as appropriate, railroad carriers, over-the-road bus operators and terminal owners and operators, motor carriers, public transportation agencies, owners or operators of highways, and pipeline operators on—
 
-&emsp;(1) the inspectors’ duties, responsibilities, authorities, and mission; and
+&emsp;(1) the inspectors' duties, responsibilities, authorities, and mission; and
 
 &emsp;(2) strategies to improve transportation security and to ensure compliance with transportation security requirements.
 

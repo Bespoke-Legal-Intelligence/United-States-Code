@@ -10,7 +10,7 @@ Authorized Support Services.—The support services referred to in subsection (a
 
 (c)
 
-Immediate Family Members.—In this section, the term "immediate family members",with respect to a member of the armed forces, means—
+Immediate Family Members.—In this section, the term "immediate family members", with respect to a member of the armed forces, means—
 
 &emsp;(1) the member's spouse; and
 

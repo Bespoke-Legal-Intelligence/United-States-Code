@@ -2,7 +2,7 @@
 
 #### (a) Approval of projects; rules and regulations
 
-In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
+In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other publicand nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
 
 &emsp;(1) volunteers will not be reimbursed for other than transportation, meals, and other out-of-pocket expenses incident to the provision of services under this part;
 
@@ -178,7 +178,7 @@ Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by
 
 "(1) In order to provide maximum coordination between programs carried out under title III and title VII of the Older Americans Act of 1965 (42 U.S.C. 3021 et seq.; 42 U.S.C. 3045 et seq.) and National Senior Volunteer Corps \[now National Senior Service Corps\] programs carried out under title II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 5001 et seq.) \[42 U.S.C. 5000 et seq.\], in order to enhance the effectiveness of the support provided to such National Senior Volunteer Corps programs by the Corporation for National and Community Service, the Chief Executive Officer of the Corporation shall designate an aging resource specialist with respect to programs carried out in each State under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\].
 
-"(2)(A) Each aging resource specialist designated under paragraph (1) shall be qualified to serve in suchcapacity by appropriate experience and training, and shall be stationed in a State office of the Corporation.
+"(2)(A) Each aging resource specialist designated under paragraph (1) shall be qualified to serve in such capacity by appropriate experience and training, and shall be stationed in a State office of the Corporation.
 
 "(B) The primary responsibility of each aging resource specialist shall be—
 

@@ -4,7 +4,7 @@
 
 Not later than 2 years after February 17, 2009, and annually thereafter, the Secretary of Health and Human Services shall submit to the appropriate committees of jurisdiction of the House of Representatives and the Senate a report that—
 
-&emsp;(1) describes the specific actions that have been taken by the Federal Government and private entities to facilitate the adoption of a nationwide system for the electronic use and exchange of health information;
+&emsp;(1) describes the specific actions that have been taken by the Federal Government andprivate entities to facilitate the adoption of a nationwide system for the electronic use and exchange of health information;
 
 &emsp;(2) describes barriers to the adoption of such a nationwide system; and
 

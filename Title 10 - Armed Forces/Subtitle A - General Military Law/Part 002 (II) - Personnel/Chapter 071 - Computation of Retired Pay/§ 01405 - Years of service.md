@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—For the purposes of the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
+In General.—For the purposes of the computation of the years of service of a member ofthe armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
 
 &emsp;(1) his years of active service;
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any pe
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title VI, §635(e), Oct. 5, 1994, 108 Stat. 2789, provided that: "This section \[amending this section and sections 3925, 3991, 3992, 6333, 8925, 8991, and 8992 of this title\] shall apply to—
+Pub. L. 103–337, div. A, title VI, §635(e), Oct. 5, 1994, 108 Stat. 2789, provided that: "This section \[amendingthis section and sections 3925, 3991, 3992, 6333, 8925, 8991, and 8992 of this title\] shall apply to—
 
 &emsp;"(1) the computation of the retired pay of any enlisted member who retires on or after the date of the enactment of this Act \[Oct. 5, 1994\];
 

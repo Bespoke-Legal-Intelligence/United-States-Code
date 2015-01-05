@@ -36,7 +36,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (A) Subpart F income limited to current earnings and profits
 
-&emsp;&emsp;For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceedthe earnings and profits of such corporation for such taxable year.
+&emsp;&emsp;For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such taxable year.
 
 #### (B) Certain prior year deficits may be taken into account
 
@@ -102,9 +102,9 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (ii) Qualified chain member
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified chain member" means, with respect to any controlled foreign corporation, any other corporation which is created or organized under the laws of the same foreign country as the controlled foreign corporation but only if—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified chain member" means,with respect to any controlled foreign corporation, any other corporation which is created or organized under the laws of the same foreign country as the controlled foreign corporation but only if—
 
-&emsp;&emsp;&emsp;&emsp;(I) all the stock of such other corporation (other than directors' qualifyingshares) is owned at all times during the taxable year in which the deficit arose (directly or through 1 or more corporations other than the common parent) by such controlled foreign corporation, or
+&emsp;&emsp;&emsp;&emsp;(I) all the stock of such other corporation (other than directors' qualifying shares) is owned at all times during the taxable year in which the deficit arose (directly or through 1 or more corporations other than the common parent) by such controlled foreign corporation, or
 
 &emsp;&emsp;&emsp;&emsp;(II) all the stock of such controlled foreign corporation (other than directors' qualifying shares) is owned at all times during the taxable year in which the deficit arose (directly or through 1 or more corporations other than the common parent) by such other corporation.
 

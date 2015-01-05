@@ -2,7 +2,7 @@
 
 #### (a) Use of sustainable development assistance to support further economic growth
 
-It is the sense of the Congress that sustained economic growth in sub-Saharan Africa depends in large measure upon the development of a receptive environment for trade and investment, and that to achieve this objective the United States Agency for International Development should continue to support programs which help to create this environment. Investments in human resources, development, and implementation of free market policies, including policies to liberalize agricultural markets and improve food security, and the support for the rule of law and democratic governance should continue to be encouraged and enhanced on a bilateral and regional basis.
+It is the sense of the Congress that sustained economic growth in sub-Saharan Africa depends in large measure upon the development of a receptive environment for trade and investment, and that to achieve this objective the United States Agency for International Development should continue to support programs which help to create this environment. Investments in human resources, development, and implementation of free market policies, including policies to liberalize agricultural markets and improve food security, and the support for the rule of lawand democratic governance should continue to be encouraged and enhanced on a bilateral and regional basis.
 
 #### (b) Declarations of policy
 
@@ -41,4 +41,8 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87
 #### Codification
 
 Section is comprised of section 127 of Pub. L. 106–200. Subsec. (c) of section 127 of Pub. L. 106–200 amended section 2293 of Title 22, Foreign Relations and Intercourse.
+
+#### Change of Name
+
+African Development Foundation changed to United States African Development Foundation by Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482. See section 290h–1 of Title 22, Foreign Relations and Intercourse.
 

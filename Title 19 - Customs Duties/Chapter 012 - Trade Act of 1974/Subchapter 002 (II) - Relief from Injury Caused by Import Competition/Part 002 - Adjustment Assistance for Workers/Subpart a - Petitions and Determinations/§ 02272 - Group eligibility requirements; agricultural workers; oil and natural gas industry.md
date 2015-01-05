@@ -98,7 +98,7 @@ Supplier.—The term "supplier" means a firm that produces and supplies directly
 
 &emsp;&emsp;&emsp;(i) all information obtained under paragraph (1) from the firm or customer (as the case may be) through questionnaires; and
 
-&emsp;&emsp;&emsp;(ii) all other information obtained under paragraph (1) from the firm or customer (as the case may be) on which the Secretary relies in making a determination under section 2273 of this title, unless the Secretary has a reasonable basis for determining that such information is accurate and complete without being certified.
+&emsp;&emsp;&emsp;(ii) all other information obtained under paragraph (1) from the firm or customer\(as the case may be) on which the Secretary relies in making a determination under section 2273 of this title, unless the Secretary has a reasonable basis for determining that such information is accurate and complete without being certified.
 
 #### (B) Use of subpoenas
 
@@ -110,7 +110,7 @@ Supplier.—The term "supplier" means a firm that produces and supplies directly
 
 #### (e) Firms identified by the International Trade Commission
 
-Notwithstanding any other provision of this part, a group of workers covered by a petitionfiled under section 2271 of this title shall be certified under subsection (a) as eligible to apply for adjustment assistance under this part if—
+Notwithstanding any other provision of this part, a group of workers covered by a petition filed under section 2271 of this title shall be certified under subsection (a) as eligible to apply for adjustment assistance under this part if—
 
 &emsp;(1) the workers' firm is publicly identified by name by the International Trade Commission as a member of a domestic industry in an investigation resulting in—
 
@@ -132,11 +132,15 @@ Notwithstanding any other provision of this part, a group of workers covered by 
 
 &emsp;&emsp;(B) notwithstanding section 2273(b) of this title, the one-year period preceding the one-year period described in paragraph (2).
 
-(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(5), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §§1801(b), (c), (e)(2), 1802, Feb. 17, 2009, 123 Stat. 367, 368, 370, 371; Pub. L. 112–40, title II, §§201(b), (c), 211(a), Oct. 21, 2011, 125 Stat. 403.)
+(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(5), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §§1801(b), (c), (e)(2), 1802, Feb. 17, 2009, 123 Stat. 367, 368, 370, 371; Pub. L. 112–40, title II, §§201(b), (c), 211(a), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–128, title V, §512(hh)(2), July 22, 2014, 128 Stat. 1720.)
 
 #### Reversion to Provisions in Effect on February 13, 2011
 
 <i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Amendment of Subsection (d)(2)(A)(iv)
+
+<i>Pub. L. 113–128, title V, §§506, 512(hh)(2), July 22, 2014, 128 Stat. 1703, 1720, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d)(2)(A)(iv) of this section is amended by striking "one-stop operators or one-stop partners (as defined in section 2801 of title 29" and inserting "one-stop operators or one-stop partners (as defined in section 3102 of title 29)". See note above and 2014 Amendment note below.</i>
 
 #### Codification
 
@@ -144,9 +148,11 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments
 
+<b>2014</b>—Subsec. (d)(2)(A)(iv). Pub. L. 113–128 substituted "one-stop operators or one-stop partners (as defined in section 3102 of title 29)" for "one-stop operators or one-stop partners (as defined in section 2801 of title 29)".
+
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (b). Pub. L. 112–40, §§211(a)(1), (2), 233, temporarily redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "A group of workers in a public agency shall be certified by the Secretary as eligible to apply for adjustment assistance under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
+Subsec. (b). Pub. L. 112–40, §§211(a)(1), (2), 233, temporarily redesignated subsec. (c) as (b) and struck outformer subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "A group of workers in a public agency shall be certified by the Secretary as eligible to apply for adjustment assistance under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
 
 &emsp;"(1) a significant number or proportion of the workers in the public agency have become totally or partially separated, or are threatened to become totally or partially separated;
 
@@ -212,7 +218,7 @@ Subsec. (d)(4). Pub. L. 111–5, §§1801(e)(2)(D)(iv), 1893, temporarily struck
 
 Subsec. (d)(5). Pub. L. 111–5, §§1801(e)(2)(D)(v), 1893, temporarily added par. (5). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsecs. (e), (f). Pub. L. 111–5, §§1801(c), 1802, 1893, temporarily added subsecs. (e) and (f). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsecs. (e), (f). Pub. L. 111–5, §§1801(c), 1802, 1893, temporarily added subsecs. (e) and (f). See Codificationnote above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–429 made technical amendment to heading and inserted "pursuant to a petition filed under section 2271 of this title" after "under this part" in introductory provisions.
 
@@ -246,6 +252,10 @@ Par. (3). Pub. L. 98–120, §3(a)(1), substituted "contributed importantly to s
 
 <b>1981</b>—Pub. L. 97–35 substituted provisions defining "substantial cause" and applicability of such term in par. (3) for provisions defining "contributed importantly" and applicability of such term in par. (3).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
 #### Effective and Termination Dates of 2011 Revival
 
 For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
@@ -274,7 +284,7 @@ Amendment by Pub. L. 97–35 applicable to petitions filed on or after Oct. 1, 1
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
 
 #### Workers Covered by Certification Notwithstanding Other Law
 

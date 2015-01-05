@@ -4,7 +4,7 @@
 
 (1) The Secretary is authorized to provide, or contract with public or private organizations to provide, information, advice, and technical assistance, including but not limited to—
 
-&emsp;(i) the assembly, correlation, publication, and dissemination of information with respect to the construction, rehabilitation, and operation of low- and moderate-income housing;
+&emsp;(i) the assembly, correlation, publication, and dissemination of information with respectto the construction, rehabilitation, and operation of low- and moderate-income housing;
 
 &emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation of low- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
 
@@ -64,7 +64,7 @@ Grantmaking process.—In making assistance available under this paragraph, the 
 
 &emsp;(F)
 
-Authorization of appropriations.—There are authorized to be appropriated$45,000,000 for each of fiscal years 2009 through 2012 for—
+Authorization of appropriations.—There are authorized to be appropriated $45,000,000 for each of fiscal years 2009 through 2012 for—
 
 &emsp;&emsp;(i) the operations of the Office of Housing Counseling of the Department of Housing and Urban Development;
 
@@ -220,7 +220,7 @@ Authorization of appropriations.—There are authorized to be appropriated$45,00
 
 #### (8) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year 1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D). Any amount appropriated under this subsection shall remain available until expended.
+&emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year 1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D).Any amount appropriated under this subsection shall remain available until expended.
 
 #### (d) Prepurchase and foreclosure-prevention counseling demonstration
 
@@ -282,13 +282,13 @@ Authorization of appropriations.—There are authorized to be appropriated$45,00
 
 &emsp;&emsp;Under the demonstration program, the Secretary shall require the creditor of any eligible homeowner who is delinquent (as described in subparagraph (A)) to send written notice by registered or certified mail within 5 days (excluding Saturdays, Sundays, and legal public holidays) after the occurrence of such delinquency—
 
-&emsp;&emsp;&emsp;(i) notifying the homeowner of the delinquency and the name, address, and phonenumber of the counseling organization for the counseling target area; and
+&emsp;&emsp;&emsp;(i) notifying the homeowner of the delinquency and the name, address, and phone number of the counseling organization for the counseling target area; and
 
 &emsp;&emsp;&emsp;(ii) notifying any counseling organization for the counseling target area of the delinquency and the name, address, and phone number of the delinquent homeowner.
 
 #### (C) Coordination with emergency homeownership counseling program
 
-&emsp;&emsp;The Secretary may coordinate the provision of assistance under subsection (c) of this section with the demonstration program under this subsection.
+&emsp;&emsp;The Secretary may coordinate the provision of assistance under subsection (c) with the demonstration program under this subsection.
 
 #### (D) Eligibility for counseling
 
@@ -364,7 +364,7 @@ Authorization of appropriations.—There are authorized to be appropriated$45,00
 
 &emsp;&emsp;&emsp;(iii) is a single parent who, except for owning a residence with his or her spouse or residing in a residence owned by the spouse while married, meets the requirements of clause (i).
 
-&emsp;&emsp;(I) The term "home" includes any dwelling or dwelling unit eligible for a qualified mortgage, and includes a unit in a condominium project, a membership interest and occupancy agreement in a cooperative housing project, and a manufactured home and the lot on which the home is situated.
+&emsp;&emsp;(I) The term "home" includes any dwelling or dwelling unit eligible for a qualifiedmortgage, and includes a unit in a condominium project, a membership interest and occupancy agreement in a cooperative housing project, and a manufactured home and the lot on which the home is situated.
 
 &emsp;&emsp;(J) The term "metropolitan area" means a standard metropolitan statistical area as designated by the Director of the Office of Management and Budget.
 
@@ -400,7 +400,7 @@ Authorization of appropriations.—There are authorized to be appropriated$45,00
 
 #### (2) Standards and examination
 
-&emsp;The Secretary shall, by regulation, establish standards and procedures for testing and certifying counselors and for certifying organizations. Such standards and procedures shall require, for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual, that the individual shall demonstrate, by written examination (as provided under subsection (f)(4) of this section), competence to provide counseling in each of the following areas:
+&emsp;The Secretary shall, by regulation, establish standards and procedures for testing and certifying counselors and for certifying organizations. Such standards and procedures shall require, for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual, that the individual shall demonstrate, by written examination (as provided under subsection (f)(4)), competence to provide counseling in each of the following areas:
 
 &emsp;&emsp;(A) Financial management.
 
@@ -430,7 +430,7 @@ Authorization of appropriations.—There are authorized to be appropriated$45,00
 
 #### (1) Establishment
 
-&emsp;To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriate entity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) of this section and certify individuals under such subsection.
+&emsp;To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriate entity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) and certify individuals under such subsection.
 
 #### (2) Eligibility and selection
 
@@ -450,15 +450,15 @@ Authorization of appropriations.—There are authorized to be appropriated$45,00
 
 #### (3) Training
 
-&emsp;The Secretary shall require that training of counselors under the program under this subsection be designed and coordinated to prepare individuals for successful completion of the examination for certification under subsection (e)(2) of this section. The Secretary, in consultation with the entity selected under paragraph (2)(B), shall establish the curriculum and standards for training counselors under the program.
+&emsp;The Secretary shall require that training of counselors under the program under this subsection be designed and coordinated to prepareindividuals for successful completion of the examination for certification under subsection (e)(2). The Secretary, in consultation with the entity selected under paragraph (2)(B), shall establish the curriculum and standards for training counselors under the program.
 
 #### (4) Certification
 
-&emsp;The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) of this section and, on behalf of the Secretary, certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
+&emsp;The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) and, on behalf of the Secretary, certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
 
 #### (5) Fees
 
-&emsp;Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certification under subsection (e)(2) of this section, in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
+&emsp;Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certification under subsection (e)(2), in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
 
 #### (6) Timing
 
@@ -680,7 +680,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) require any organization or entity, as a condition of receipt of any covered assistance, to agree to comply with such requirements regarding covered assistance as the Secretary shall establish, which shall include—
 
-&emsp;&emsp;&emsp;(i) appropriate periodic financial and grant activity reporting, record retention,and audit requirements for the duration of the covered assistance to the organization or entity to ensure compliance with the limitations and requirements of this section, the regulations under this section, and any requirements or conditions under which such amounts were provided; and
+&emsp;&emsp;&emsp;(i) appropriate periodic financial and grant activity reporting, record retention, and audit requirements for the duration of the covered assistance to the organization or entity to ensure compliance with the limitations and requirements of this section, the regulations under this section, and any requirements or conditions under which such amounts were provided; and
 
 &emsp;&emsp;&emsp;(ii) any other requirements that the Secretary determines are necessary to ensure appropriate administration and compliance.
 
@@ -688,7 +688,7 @@ For purposes of this section:
 
 &emsp;If any organization or entity that receives any covered assistance is determined by the Secretary to have used any covered assistance in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such assistance was provided—
 
-&emsp;&emsp;(A) the Secretary shall require that, within 12 months after the determination of such misuse, the organization or entity shall reimburse the Secretary for such misused amounts and return to the Secretary any such amounts that remain unused or uncommitted for use; and
+&emsp;&emsp;(A) the Secretary shall require that, within 12 months after the determination of suchmisuse, the organization or entity shall reimburse the Secretary for such misused amounts and return to the Secretary any such amounts that remain unused or uncommitted for use; and
 
 &emsp;&emsp;(B) such organization or entity shall be ineligible, at any time after such determination, to apply for or receive any further covered assistance.
 
@@ -732,7 +732,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 
 Subsec. (c)(5)(A)(ii)(V). Pub. L. 111–203, §1443(b), added subcl. (V).
 
-Subsec. (e)(1). Pub. L. 111–203, §1445(1), added par. (1) and struck out former subpar. (1). Prior to amendment, text read as follows: "An organization may not receiveassistance for counseling activities under subsection (a)(1)(iii), (a)(2), (c), or (d) of this section, unless the organization provides such counseling, to the extent practicable, by individuals who have been certified by the Secretary under this subsection as competent to provide such counseling."
+Subsec. (e)(1). Pub. L. 111–203, §1445(1), added par. (1) and struck out former subpar. (1). Prior to amendment, text read as follows: "An organization may not receive assistance for counseling activities under subsection (a)(1)(iii), (a)(2), (c), or (d) of this section, unless the organization provides such counseling, to the extent practicable, by individuals who have been certified by the Secretary under this subsection as competent to provide such counseling."
 
 Subsec. (e)(2). Pub. L. 111–203, §1445(2), in introductory provisions, inserted "and for certifying organizations" before period at end of first sentence and substituted ", for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual," for "for certification".
 
@@ -818,7 +818,7 @@ Subsec. (d). Pub. L. 101–625, §577(c), added subsec. (d).
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–628 inserted before period at end of first sentence "or guaranteed or insured under chapter 37 of title 38".
 
-Subsec. (a)(3). Pub. L. 100–242, §169(a), substituted "except that for each of the fiscal years 1988 and 1989 there are authorized to be appropriated $3,500,000 for such purposes" for "except that for the fiscal year 1984,there are authorized to be appropriated not to exceed $3,500,000 for such purposes".
+Subsec. (a)(3). Pub. L. 100–242, §169(a), substituted "except that for each of the fiscal years 1988 and 1989 there are authorized to be appropriated $3,500,000 for such purposes" for "except that for the fiscal year 1984, there are authorized to be appropriated not to exceed $3,500,000 for such purposes".
 
 Subsec. (c). Pub. L. 100–242, §169(b), added subsec. (c).
 

@@ -4,7 +4,7 @@ The provisions of this chapter shall not apply to any of the following activitie
 
 &emsp;(1) the extraction of coal by a landowner for his own noncommercial use from land owned or leased by him; and
 
-&emsp;(2) the extraction of coal as an incidental part of Federal, State or local government-financed highway or other construction under regulations established by the regulatory authority.
+&emsp;(2) the extraction of coal as an incidental part of Federal, State or local government-financed highway or other construction underregulations established by the regulatory authority.
 
 (Pub. L. 95–87, title V, §528, Aug. 3, 1977, 91 Stat. 514; Pub. L. 100–34, title II, §201(a), May 7, 1987, 101 Stat. 300.)
 

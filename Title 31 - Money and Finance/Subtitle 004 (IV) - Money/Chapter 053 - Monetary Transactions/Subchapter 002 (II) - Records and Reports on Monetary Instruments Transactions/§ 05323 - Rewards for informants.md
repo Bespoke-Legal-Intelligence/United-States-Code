@@ -1,6 +1,6 @@
 ### §5323. Rewards for informants
 
-(a) The Secretary may pay a reward to an individual who provides original information whichleads to a recovery of a criminal fine, civil penalty, or forfeiture, which exceeds $50,000, for a violation of this chapter.
+(a) The Secretary may pay a reward to an individual who provides original information which leads to a recovery of a criminal fine, civil penalty, or forfeiture, which exceeds $50,000, for a violation of this chapter.
 
 (b) The Secretary shall determine the amount of a reward under this section. The Secretary may not award more than 25 per centum of the net amount of the fine, penalty, or forfeiture collected or $150,000, whichever is less.
 

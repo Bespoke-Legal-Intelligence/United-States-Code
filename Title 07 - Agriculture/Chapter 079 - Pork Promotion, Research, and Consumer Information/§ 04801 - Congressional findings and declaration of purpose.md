@@ -22,7 +22,7 @@
 
 &emsp;(6) pork and pork products that do not move in such channels of commerce directly burden or affect interstate commerce in pork and pork products; and
 
-&emsp;(7) in recent years, increasing quantities of low-cost, imported pork and pork products have been brought into the United States and replaced domestic pork and pork products in normal channels of trade.
+&emsp;(7) in recent years, increasing quantities of low-cost, imported pork and pork productshave been brought into the United States and replaced domestic pork and pork products in normal channels of trade.
 
 (b)(1) It is the purpose of this chapter to authorize the establishment of an orderly procedure for financing, through adequate assessments, and carrying out an effective and coordinated program of promotion, research, and consumer information designed to—
 

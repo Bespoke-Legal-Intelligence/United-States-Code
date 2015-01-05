@@ -46,7 +46,7 @@
 
 #### (D) Annual appropriations
 
-&emsp;&emsp;For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget yearin accounts for which funding is provided in that legislation that result from previously enacted legislation.
+&emsp;&emsp;For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
 
 #### (b) Adjustments to discretionary spending limits
 
@@ -70,7 +70,7 @@
 
 #### (B) Continuing disability reviews and redeterminations
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\] and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted thatspecifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\] and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 2012, $623,000,000 in additional new budget authority;
 
@@ -94,11 +94,11 @@
 
 &emsp;&emsp;(ii) As used in this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the term “continuing disability reviews” means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act \[42 U.S.C. 421(i), 1382c(a)(4)\];
+&emsp;&emsp;&emsp;(I) the term "continuing disability reviews" means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act \[42 U.S.C. 421(i), 1382c(a)(4)\];
 
-&emsp;&emsp;&emsp;(II) the term “redetermination” means redetermination of eligibility under sections 1611(c)(1) and 1614(a)(3)(H) of the Social Security Act \[42 U.S.C. 1382(c)(1), 1382c(a)(3)(H)\]; and
+&emsp;&emsp;&emsp;(II) the term "redetermination" means redetermination of eligibility under sections 1611(c)(1) and 1614(a)(3)(H) of the Social Security Act \[42 U.S.C. 1382(c)(1), 1382c(a)(3)(H)\]; and
 
-&emsp;&emsp;&emsp;(III) the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews and redeterminations under the heading “Limitation on Administrative Expenses” for the Social Security Administration.
+&emsp;&emsp;&emsp;(III) the term "additional new budget authority" means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews and redeterminations under the heading "Limitation on Administrative Expenses" for the Social Security Administration.
 
 #### (C) Health care fraud and abuse control
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(X) for fiscal year 2021, $496,000,000 in additional new budget authority.
 
-&emsp;&emsp;(ii) As used in this subparagraph, the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $311,000,000, in an appropriation Act and specified to pay for the costs of the health care fraud and abuse control program.
+&emsp;&emsp;(ii) As used in this subparagraph, the term "additional new budget authority" means the amount provided for a fiscal year, in excess of $311,000,000, in an appropriation Act and specified to pay for the costs of the health care fraud and abuse control program.
 
 #### (D) Disaster funding
 
@@ -136,13 +136,13 @@
 
 &emsp;&emsp;(ii) OMB shall report to the Committees on Appropriations and Budget in each House the average calculated pursuant to clause (i)(II), not later than 30 days after August 2, 2011.
 
-&emsp;&emsp;(iii) For the purposes of this subparagraph, the term “disaster relief” means activities carried out pursuant to a determination under section 5122(2) of title 42.
+&emsp;&emsp;(iii) For the purposes of this subparagraph, the term "disaster relief" means activities carried out pursuant to a determination under section 5122(2) of title 42.
 
 &emsp;&emsp;(iv) Appropriations considered disaster relief under this subparagraph in a fiscal year shall not be eligible for adjustments under subparagraph (A) for the fiscal year.
 
 #### (c) Discretionary spending limit
 
-As used in this subchapter, the term “discretionary spending limit” means—
+As used in this subchapter, the term "discretionary spending limit" means—
 
 &emsp;(1) for fiscal year 2014—
 
@@ -206,49 +206,49 @@ Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c). Pub. L. 113–67 added pars. (1) to (8) and struck out former pars. (1) to (10) which defineddiscretionary spending limits for fiscal years 2012 to 2021.
+<b>2013</b>—Subsec. (c). Pub. L. 113–67 added pars. (1) to (8) and struck out former pars. (1) to (10) which defined discretionary spending limits for fiscal years 2012 to 2021.
 
 Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
-“(2) with respect to fiscal year 2013—
+"(2) with respect to fiscal year 2013—
 
-&emsp;“(A) for the security category, $686,000,000,000 in new budget authority; and
+&emsp;"(A) for the security category, $686,000,000,000 in new budget authority; and
 
-&emsp;“(B) for the nonsecurity category, $361,000,000,000 in new budget authority;
+&emsp;"(B) for the nonsecurity category, $361,000,000,000 in new budget authority;
 
-“(3) with respect to fiscal year 2014, for the discretionary category, $1,066,000,000,000 in new budget authority;”.
+"(3) with respect to fiscal year 2014, for the discretionary category, $1,066,000,000,000 in new budget authority;".
 
 <b>2011</b>—Pub. L. 112–25 amended section generally. Prior to amendment, section related to enforcing discretionary spending limits.
 
 <b>2005</b>—Subsec. (b)(1)(B) to (E). Pub. L. 109–59, §8002, reenacted heading of subpar. (B) without change and amended text of subpars. (B) to (E) generally. Prior to amendment, subpar. (B) provided for adjustments to align highway spending with revenues using amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century and estimates of receipts for fiscal years 1998 through 2003, subpar. (C) provided for additional adjustments required in budget submissions for fiscal years 2000 through 2003, subpar. (D) provided for a final sequester report for fiscal year 1999 and an adjustment of estimates upon submission of the budget for fiscal years 2000 through 2003, and subpar. (E) required consultation with the Committees on the Budget and inclusion of a report on adjustments under subparagraphs (B) and (C) in the preview report.
 
-Subsec. (c). Pub. L. 109–59, §8001(a), added pars. (1) to (5), redesignated former pars. (2) to (9) as (6) to (13), respectively, and struck out former par. (1) which read as follows: “with respect to fiscal year 2004—
+Subsec. (c). Pub. L. 109–59, §8001(a), added pars. (1) to (5), redesignated former pars. (2) to (9) as (6) to (13), respectively, and struck out former par. (1) which read as follows: "with respect to fiscal year 2004—
 
-&emsp;“(A) for the highway category: $31,834,000,000 in outlays;
+&emsp;"(A) for the highway category: $31,834,000,000 in outlays;
 
-&emsp;“(B) for the mass transit category: $1,462,000,000 in new budget authority and $6,629,000,000 in outlays; and
+&emsp;"(B) for the mass transit category: $1,462,000,000 in new budget authority and $6,629,000,000 in outlays; and
 
-&emsp;“(C) for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;”.
+&emsp;"(C) for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;".
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–310, §10(a), which directed amendment of par. (2) by striking out “through 2002” in introductory provisions, could not be executed because the phrase “through 2002” did not appear subsequent to amendment by Pub. L. 108–88, §10(a). See 2003 Amendment note below.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–310, §10(a), which directed amendment of par. (2) by striking out "through 2002" in introductory provisions, could not be executed because the phrase "through 2002" did not appear subsequent to amendment by Pub. L. 108–88, §10(a). See 2003 Amendment note below.
 
-Subsec. (c). Pub. L. 108–310, §10(b), which directed the amendment of subsec. (c) by redesignating par. (8) as par. (1), substituting “with respect to fiscal year 2005—” for “with respect to fiscal year 2005” and adding subpars. (A) and (B) in par. (1), redesignating remaining provisions of par. (1) as subpar. (C), redesignating pars. (9) to (16) as (2) to (9), respectively, and striking out former pars. (1) to (7), which defined “discretionary spending limit” with respect to fiscal years 2002 to 2006, either could not be executed or could not be executed as intended because of prior amendments by Pub. L. 108–88, §10(b). See 2003 Amendment notes below.
+Subsec. (c). Pub. L. 108–310, §10(b), which directed the amendment of subsec. (c) by redesignating par. (8) as par. (1), substituting "with respect to fiscal year 2005—" for "with respect to fiscal year 2005" and adding subpars. (A) and (B) in par. (1), redesignating remaining provisions of par. (1) as subpar. (C), redesignating pars. (9) to (16) as (2) to (9), respectively, and striking out former pars. (1) to (7), which defined "discretionary spending limit" with respect to fiscal years 2002 to 2006, either could not be executed or could not be executed as intended because of prior amendments by Pub. L. 108–88, §10(b). See 2003 Amendment notes below.
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–88, §10(a), struck out “through 2002” after “succeeding year” in introductory provisions.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–88, §10(a), struck out "through 2002" after "succeeding year" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 108–88, §10(b)(1), redesignated par. (8) as (1), substituted “with respect to fiscal year 2004—” for “with respect to fiscal year 2004”, added subpars. (A) and (B), redesignated remaining provisions of par. (1) as subpar. (C), and struck out former par. (1), which defined “discretionary spending limit” with respect to fiscal year 1997.
+Subsec. (c)(1). Pub. L. 108–88, §10(b)(1), redesignated par. (8) as (1), substituted "with respect to fiscal year 2004—" for "with respect to fiscal year 2004", added subpars. (A) and (B), redesignated remaining provisions of par. (1) as subpar. (C), and struck out former par. (1), which defined "discretionary spending limit" with respect to fiscal year 1997.
 
-Subsec. (c)(2) to (16). Pub. L. 108–88, §10(b), redesignated pars. (9) to (16) as (2) to (9), respectively, and struck out former pars. (2) to (7), which defined “discretionary spending limit” with respect to fiscal years 1998 to 2003.
+Subsec. (c)(2) to (16). Pub. L. 108–88, §10(b), redesignated pars. (9) to (16) as (2) to (9), respectively, and struck out former pars. (2) to (7), which defined "discretionary spending limit" with respect to fiscal years 1998 to 2003.
 
-<b>2002</b>—Subsec. (c)(6)(A). Pub. L. 107–117, §101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;”.
+<b>2002</b>—Subsec. (c)(6)(A). Pub. L. 107–117, §101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;".
 
-Subsec. (c)(6)(C). Pub. L. 107–117, §101(a)(2), struck out second “and” at end.
+Subsec. (c)(6)(C). Pub. L. 107–117, §101(a)(2), struck out second "and" at end.
 
-Subsec. (c)(6)(D). Pub. L. 107–117, §101(a)(3), substituted “$1,473,000,000” for “$1,232,000,000”.
+Subsec. (c)(6)(D). Pub. L. 107–117, §101(a)(3), substituted "$1,473,000,000" for "$1,232,000,000".
 
 <b>2000</b>—Subsec. (b)(2)(H). Pub. L. 106–291, §801(b), added subpar. (H).
 
-Subsec. (c)(5)(A). Pub. L. 106–429 added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays;”.
+Subsec. (c)(5)(A). Pub. L. 106–429 added subpar. (A) and struck out former subpar. (A) which read as follows: "for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays;".
 
 Subsec. (c)(6)(D). Pub. L. 106–291, §801(a)(1), added subpar. (D).
 
@@ -262,17 +262,17 @@ Subsec. (c)(3)(D), (E). Pub. L. 105–178, §8101(a)(1), added subpars. (D) and 
 
 Subsec. (c)(4)(C), (D). Pub. L. 105–178, §8101(a)(2), added subpars. (C) and (D).
 
-Subsec. (c)(5). Pub. L. 105–178, §8101(a)(3), substituted a dash for comma after “2001”, designated remaining provisions as subpar. (A), realigned margins, struck out “and” at end, and added subpars. (B) and (C).
+Subsec. (c)(5). Pub. L. 105–178, §8101(a)(3), substituted a dash for comma after "2001", designated remaining provisions as subpar. (A), realigned margins, struck out "and" at end, and added subpars. (B) and (C).
 
-Subsec. (c)(6). Pub. L. 105–178, §8101(a)(4), substituted a dash for comma after “2002”, designated remaining provisions as subpar. (A), realigned margins, and added subpars. (B) and (C).
+Subsec. (c)(6). Pub. L. 105–178, §8101(a)(4), substituted a dash for comma after "2002", designated remaining provisions as subpar. (A), realigned margins, and added subpars. (B) and (C).
 
 Subsec. (c)(7). Pub. L. 105–178, §8101(a)(5), added par. (7).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10203(a)(1), struck out “Fiscal Years 1991–1998” before “Enforcement” in heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10203(a)(1), struck out "Fiscal Years 1991–1998" before "Enforcement" in heading.
 
-Subsec. (a)(3). Pub. L. 105–33, §10203(a)(2), substituted “section 905(f)” for “section 905(h)” in two places.
+Subsec. (a)(3). Pub. L. 105–33, §10203(a)(2), substituted "section 905(f)" for "section 905(h)" in two places.
 
-Subsec. (a)(7). Pub. L. 105–33, §10203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: “As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation. Within 5 calendar days after the enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the two estimates. For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for those years in accounts for which funding is provided in that legislation that result from previously enacted legislation. Those OMB estimates shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph for the purposes of this subsection. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
+Subsec. (a)(7). Pub. L. 105–33, §10203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: "As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation. Within 5 calendar days after the enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the two estimates. For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for those years in accounts for which funding is provided in that legislation that result from previously enacted legislation. Those OMB estimates shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph for the purposes of this subsection. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB."
 
 Subsec. (b). Pub. L. 105–33, §10203(a)(4), added subsec. (b) and struck out heading and text of former subsec. (b) which provided that when the President submitted the budget for a budget year from 1992 to 1998, OMB was to calculate, and the budget was to include, adjustments to discretionary spending limits reflecting certain enumerated factors and provided that when OMB submitted a sequestration report for a fiscal year from 1991 to 1998, OMB was to calculate, and the sequestration report and subsequent budgets were to include, adjustments to discretionary spending limits reflecting certain enumerated factors.
 
@@ -280,31 +280,31 @@ Subsec. (b)(2)(G). Pub. L. 105–89 added subpar. (G).
 
 Subsec. (c). Pub. L. 105–33, §10203(b), added subsec. (c).
 
-<b>1996</b>—Subsec. (b)(2)(G). Pub. L. 104–208 substituted “fiscal years 1994, 1995, and 1997” for “fiscal year 1994 and 1995” in two places.
+<b>1996</b>—Subsec. (b)(2)(G). Pub. L. 104–208 substituted "fiscal years 1994, 1995, and 1997" for "fiscal year 1994 and 1995" in two places.
 
 Subsec. (b)(2)(H). Pub. L. 104–121 added subpar. (H).
 
-Subsec. (b)(2)(H)(i). Pub. L. 104–193, §211(d)(5)(B)(i), substituted “$175,000,000” for “$25,000,000” and “$310,000,000” for “$160,000,000” in subcl. (II), and “$245,000,000” for “$145,000,000” and “$470,000,000” for “$370,000,000” in subcl. (III).
+Subsec. (b)(2)(H)(i). Pub. L. 104–193, §211(d)(5)(B)(i), substituted "$175,000,000" for "$25,000,000" and "$310,000,000" for "$160,000,000" in subcl. (II), and "$245,000,000" for "$145,000,000" and "$470,000,000" for "$370,000,000" in subcl. (III).
 
-Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
+Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "the term 'continuing disability reviews' has the meaning given such term by section 401(g)(1)(A) of title 42;".
 
-<b>1994</b>—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
+<b>1994</b>—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end "This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance."
 
-Subsec. (b)(2)(G). Pub. L. 103–306 substituted “1994 and 1995” for “1994” in two places.
+Subsec. (b)(2)(G). Pub. L. 103–306 substituted "1994 and 1995" for "1994" in two places.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted “1998” for “1995” in heading.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted "1998" for "1995" in heading.
 
-Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
+Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted "1995, 1996, 1997, or 1998" for "or 1995" and "outyear through 1998" for "outyear through 1995".
 
 Subsec. (b)(1)(B)(iii). Pub. L. 103–66, §14002(c)(1)(B)(ii), added cl. (iii).
 
-Subsec. (b)(2). Pub. L. 103–66, §14002(c)(1)(B)(iii), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “year through 1998” for “year through 1995”.
+Subsec. (b)(2). Pub. L. 103–66, §14002(c)(1)(B)(iii), in introductory provisions, substituted "1995, 1996, 1997, or 1998" for "or 1995" and "year through 1998" for "year through 1995".
 
-Subsec. (b)(2)(D)(i). Pub. L. 103–66, §14002(c)(1)(B)(iv), substituted “for any fiscal year,” for “for fiscal year 1991, 1992, 1993, 1994, or 1995,”.
+Subsec. (b)(2)(D)(i). Pub. L. 103–66, §14002(c)(1)(B)(iv), substituted "for any fiscal year," for "for fiscal year 1991, 1992, 1993, 1994, or 1995,".
 
 Subsec. (b)(2)(E)(iv). Pub. L. 103–66, §14002(c)(1)(B)(v), added cl. (iv).
 
-Subsec. (b)(2)(F). Pub. L. 103–66, §14002(c)(1)(B)(vi), inserted before period at end “, and not to exceed 0.5 percent of the adjusted descretionary \[sic\] spending limit on outlays for the fiscal year in fiscal year 1996, 1997, or 1998”.
+Subsec. (b)(2)(F). Pub. L. 103–66, §14002(c)(1)(B)(vi), inserted before period at end ", and not to exceed 0.5 percent of the adjusted descretionary \[sic\] spending limit on outlays for the fiscal year in fiscal year 1996, 1997, or 1998".
 
 Subsec. (b)(2)(G). Pub. L. 103–87 added subpar. (G).
 
@@ -314,11 +314,11 @@ Subsec. (a)(6)(I). Pub. L. 101–508, §13101(e)(2), redesignated subsec. (a)(6)
 
 <b>1987</b>—Pub. L. 100–119 amended section generally, substituting provisions consisting of subsecs. (a) to (e) relating to reports by Director of CBO to Director of OMB and to Congress and by Director of OMB to President and Congress for provisions consisting of subsecs. (a) to (g) relating to joint reports by Directors of CBO and OMB to Comptroller General and report by Comptroller General to President and Congress.
 
-Subsec. (a)(6)(B). Pub. L. 100–203, §8003(f), struck out “and” before “contract authority” and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
+Subsec. (a)(6)(B). Pub. L. 100–203, §8003(f), struck out "and" before "contract authority" and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L.105–89, set out as a note under section 622 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -338,43 +338,43 @@ Pub. L. 105–178, title VIII, §8101(b), June 9, 1998, 112 Stat. 489, as amende
 
 Pub. L. 109–59, title VIII, §8003, Aug. 10, 2005, 119 Stat. 1917, as amended by Pub. L. 111–147, title IV, §446(a), (b), Mar. 18, 2010, 124 Stat. 95, 96; Pub. L. 111–322, title II, §2308, Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, §308, Mar. 4, 2011, 125 Stat. 21, provided that:
 
-“(a)
+"(a)
 
 Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
 
-&emsp;“(1) for fiscal year 2005, $35,164,292,000;
+&emsp;"(1) for fiscal year 2005, $35,164,292,000;
 
-&emsp;“(2) for fiscal year 2006, $37,220,843,903;
+&emsp;"(2) for fiscal year 2006, $37,220,843,903;
 
-&emsp;“(3) for fiscal year 2007, $39,460,710,516;
+&emsp;"(3) for fiscal year 2007, $39,460,710,516;
 
-&emsp;“(4) for fiscal year 2008, $40,824,075,404;
+&emsp;"(4) for fiscal year 2008, $40,824,075,404;
 
-&emsp;“(5) for fiscal year 2009, $42,469,970,178;
+&emsp;"(5) for fiscal year 2009, $42,469,970,178;
 
-&emsp;“(6) for fiscal year 2010, $42,469,970,178; and
+&emsp;"(6) for fiscal year 2010, $42,469,970,178; and
 
-&emsp;“(7) for fiscal year 2011, $42,469,970,178.
+&emsp;"(7) for fiscal year 2011, $42,469,970,178.
 
-“(b)
+"(b)
 
 Mass Transit Category.—For the purposes of section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985, the level of obligation limitations for the mass transit category is—
 
-&emsp;“(1) for fiscal year 2005, $7,646,336,000;
+&emsp;"(1) for fiscal year 2005, $7,646,336,000;
 
-&emsp;“(2) for fiscal year 2006, $8,622,931,000;
+&emsp;"(2) for fiscal year 2006, $8,622,931,000;
 
-&emsp;“(3) for fiscal year 2007, $8,974,775,000;
+&emsp;"(3) for fiscal year 2007, $8,974,775,000;
 
-&emsp;“(4) for fiscal year 2008, $9,730,893,000;
+&emsp;"(4) for fiscal year 2008, $9,730,893,000;
 
-&emsp;“(5) for fiscal year 2009, $10,338,065,000;
+&emsp;"(5) for fiscal year 2009, $10,338,065,000;
 
-&emsp;“(6) for fiscal year 2010, $10,338,065,000; and
+&emsp;"(6) for fiscal year 2010, $10,338,065,000; and
 
-&emsp;“(7) for fiscal year 2011, $10,338,065,000.
+&emsp;"(7) for fiscal year 2011, $10,338,065,000.
 
-> For purposes of this subsection, the term ‘obligation limitations’ means the sum of budget authority and obligation limitations.”
+> For purposes of this subsection, the term 'obligation limitations' means the sum of budget authority and obligation limitations."
 
 Similar provisions for prior fiscal years were contained in the following prior act:
 

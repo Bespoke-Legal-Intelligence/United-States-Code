@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Child labor.—The term 'child labor' means the worst forms of child labor as defined in InternationalLabor Convention 182, the Convention Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor, done at Geneva on June 17, 1999.
+Child labor.—The term 'child labor' means the worst forms of child labor as defined in International Labor Convention 182, the Convention Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor, done at Geneva on June 17, 1999.
 
 &emsp;"(2)
 
@@ -88,7 +88,7 @@ Duties.—
 
 &emsp;"(1)
 
-In general.—Not later than 2 years after the date of enactment of this Act \[June 18, 2008\] and in accordance with section 105(d) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)), as applicable to the importation of agricultural products made with the use of child labor or forced labor, the Consultative Group shall develop, and submit to the Secretary \[of Agriculture\], recommendations relating to a standard set of practices for independent, third-party monitoring and verification for the production, processing, and distribution of agricultural products or commodities to reduce the likelihood that agricultural products or commodities imported into the United States are produced with the use of forced labor or child labor.
+In general.—Not later than 2 years after the date of enactment of this Act \[June 18, 2008\] and in accordance with section 105(d) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)), as applicable to the importation of agricultural products made with the use of child labor or forced labor, the Consultative Group shall develop, and submit to the Secretary \[of Agriculture\], recommendations relating to a standard set of practices for independent, third-party monitoring and verification for the production,processing, and distribution of agricultural products or commodities to reduce the likelihood that agricultural products or commodities imported into the United States are produced with the use of forced labor or child labor.
 
 &emsp;"(2)
 

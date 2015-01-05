@@ -6,11 +6,11 @@ The Secretary is authorized to establish and maintain within the Department a Na
 
 #### (b) Functions
 
-If the Secretary establishes the Natural Resources Conservation Service under subsection (a) of this section, the Secretary is authorized to assign to the Service jurisdiction over the following:
+If the Secretary establishes the Natural Resources Conservation Service under subsection (a), the Secretary is authorized to assign to the Service jurisdiction over the following:
 
 &emsp;(1) The Water Bank Act (16 U.S.C. 1301 et seq.).
 
-&emsp;(2) The forest land enhancement program under section 2103 of title 16.
+&emsp;(2) The forest land enhancement program under section 2103 of title 16.<sup>1</sup>
 
 &emsp;(3) Title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.), except subchapter B of chapter 1 of subtitle D of such title \[16 U.S.C. 3831 et seq.\].
 
@@ -22,7 +22,7 @@ If the Secretary establishes the Natural Resources Conservation Service under su
 
 #### (c) Special concurrence requirements for certain functions
 
-In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) of this section and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837–3837f), the Secretary shall—
+In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837–3837f),<sup>1</sup> the Secretary shall—
 
 &emsp;(1) acting on the recommendations of the Natural Resources Conservation Service, with the concurrence of the Consolidated Farm Service Agency, issue regulations to carry out such programs;
 
@@ -58,7 +58,9 @@ For purposes of subsections (c) and (d) of this section:
 
 The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
 
-The Food Security Act of 1985, referred to in subsecs. (b)(3), (6) and (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16. Subchapters B and C of chapter 1 of subtitle D of title XII of the Act are classified generally to subparts B (§3831 et seq.) and C (§3837 et seq.), respectively, of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+Section 2103 of title 16, referred to in subsec. (b)(2), was repealed by Pub. L. 113–79, title VIII, §8001(a), Feb. 7, 2014, 128 Stat. 913.
+
+The Food Security Act of 1985, referred to in subsecs. (b)(3), (6) and (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. Subchapter C of chapter 1 of subtitle D of title XII of the Act was classified generally to subpart C (§3837 et seq.) of part I of subchapter IV of chapter 58 of Title 16, prior to repeal by Pub. L. 113–79, title II, §2703(a), Feb. 7, 2014, 128 Stat. 767. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The Farms for the Future Act of 1990, referred to in subsec. (b)(5), is Pub. L. 101–624, title XIV, ch. 2, §§1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended, which is set out as a note under section 4201 of this title.
 
@@ -85,4 +87,6 @@ Subsec. (b)(6). Pub. L. 104–127, §336(a)(2)(D), (d)(2)(A)(ii), redesignated p
 Subsec. (b)(7), (8). Pub. L. 104–127, §336(d)(2)(A)(ii), redesignated pars. (7) and (8) as (5) and (6), respectively.
 
 Subsec. (c). Pub. L. 104–127, §336(d)(2)(B), in introductory provisions, substituted "(1), (2), and (4)" for "(2), (3), (4), and (6)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

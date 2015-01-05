@@ -6,7 +6,7 @@
 
 &emsp;(2) all surveyed and unsurveyed islands, above the point of lowest low tide, lying off the coast of the State of Washington in the Pacific Ocean between latitudes 48 degrees 23 minutes north and 47 degrees 34 minutes north: <i>Provided</i>, That such lands as are identified in this paragraph shall continue to be open to fishing and to the taking of shellfish in conformity with the laws and regulations of the State of Washington;
 
-&emsp;(3) those lands between mean high tide and the lowest low tide beginning in section 22, township 24 north, range 13 west Willamettemeridian, at the common boundary between the Olympic National Park and the Quinault Indian Reservation, to section 18, township 32 north, range 15 west Willamette meridian, at the common boundary between the Olympic National Park and the Makah Indian Reservation, except those lands directly adjacent to and west of the Hoh, Ozette, and Quillayute Indian Reservations: <i>Provided</i>, That such lands as are identified in this paragraph shall continue to be open to fishing and to the taking of shellfish in conformity with the laws and regulations of the State of Washington; and
+&emsp;(3) those lands between mean high tide and the lowest low tide beginning in section 22, township 24 north, range 13 west Willamette meridian, at the common boundary between the Olympic National Park and the Quinault Indian Reservation, to section 18, township 32 north, range 15 west Willamette meridian, at the common boundary between the Olympic National Park and the Makah Indian Reservation, except those lands directly adjacent to and west of the Hoh, Ozette, and Quillayute Indian Reservations: <i>Provided</i>, That such lands as are identified in this paragraph shall continue to be open to fishing and to the taking of shellfish in conformity with the laws and regulations of the State of Washington; and
 
 &emsp;(4) approximately nine thousand six hundred and thirty-eight acres, and to exclude from the park approximately three thousand three hundred and fifty-two acres, as generally depicted on the maps entitled "Boundary Modifications, Olympic National Forest and Olympic National Park", numbered 149/60,030A, sheets 1 through 9, and dated September 1986, which shall be on file and available for public inspection in the office of the National Park Service, United States Department of the Interior.
 
@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 100–668, §104(c)(3), substituted "sheets 1 through 9" fo
 
 #### Transfer of Administrative Jurisdiction of Exchanged Park and Forest Lands; Authorization of Appropriations
 
-Sections 2 to 5 of Pub. L. 99–635, as amended by Pub. L. 100–668, title I, §104(c)(4)–(6), Nov. 16, 1988, 102 Stat. 3962, provided that:
+Pub. L. 99–635, §§2–5, Nov. 7, 1986, 100 Stat. 3528, 3529, as amended by Pub. L. 100–668, title I, §104(c)(4)–(6), Nov. 16, 1988, 102 Stat. 3962, provided that:
 
 "
 
@@ -34,7 +34,7 @@ Sec. 2. (a) Federal lands, waters, and interests therein formerly within the bou
 
 Sec. 3. (a) The Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, exchange, bequest or otherwise any non-Federal lands, waters, and interests therein included within the boundary of Olympic National Park pursuant to section 1 of this Act \[16 U.S.C. 251n\]: <i>Provided</i>: That any lands, waters, or interests therein owned by the State of Washington or any political subdivision thereof may be acquired only by donation or exchange.
 
-"(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 (78 Stat. 903, as amended; 16 U.S.C. 460l–9), the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act \[16 U.S.C. 251n\], shall be treated as if it was the boundary of that national forest on January 1, 1965.
+"(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 (78 Stat. 903, as amended; \[former\] 16 U.S.C. 460l–9) \[see 54 U.S.C. 100506(c), 200306\], the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act \[16 U.S.C. 251n\], shall be treated as if it was the boundary of that national forest on January 1, 1965.
 
 "Sec. 4. Effective upon acceptance thereof by the State of Washington, the jurisdiction which the United States acquired over those lands excluded from the boundaries of Olympic National Park by this Act \[enacting this section and this note\] is hereby retroceded to the State.
 

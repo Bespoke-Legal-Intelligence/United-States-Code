@@ -20,7 +20,7 @@ Following consultation with the Secretary, the Secretary of State may make a dec
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–220, §2106(1), substituted "International Maritime Organization" for "Inter-Governmental Maritime Consultative Organization".
 
-Subsec. (b). Pub. L. 100–220, §2106(2), substituted "Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention" for "Annex I or II, appendices to the Annexes, or Protocol I of the MARPOL Protocol," and "International Maritime Organization" for "Inter-Governmental Maritime Consultative Organization".
+Subsec. (b). Pub. L. 100–220, §2106(2), substituted "Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention" for"Annex I or II, appendices to the Annexes, or Protocol I of the MARPOL Protocol," and "International Maritime Organization" for "Inter-Governmental Maritime Consultative Organization".
 
 #### Effective Date of 1987 Amendment
 

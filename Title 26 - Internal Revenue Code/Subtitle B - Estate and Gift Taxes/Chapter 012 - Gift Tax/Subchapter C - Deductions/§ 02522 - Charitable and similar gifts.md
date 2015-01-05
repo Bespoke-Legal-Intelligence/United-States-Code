@@ -10,7 +10,7 @@ In computing taxable gifts for the calendar year, there shall be allowed as a de
 
 &emsp;(3) a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
 
-&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings insures to the benefit of any private shareholder or individual.
+&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such postsor organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings insures to the benefit of any private shareholder or individual.
 
 > Rules similar to the rules of section 501(j) shall apply for purposes of paragraph (2).
 
@@ -80,7 +80,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 #### (B) Exceptions
 
-&emsp;&emsp;The Secretary may, by regulation, provide for exceptions to subparagraph (A) in cases where all persons who hold an interest in the property make proportional contributions ofan undivided portion of the entire interest held by such persons.
+&emsp;&emsp;The Secretary may, by regulation, provide for exceptions to subparagraph (A) in cases where all persons who hold an interest in the property make proportional contributions of an undivided portion of the entire interest held by such persons.
 
 #### (2) Recapture of deduction in certain cases; addition to tax
 
@@ -244,7 +244,7 @@ Amendment by section 201(d)(4)(C), (D) of Pub. L. 91–172 applicable to gifts a
 
 #### Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
-For inclusion of provisions comparable to section 2055(e)(3) of this title in this section, see section 514(b) of Pub. L. 95–600, set out as a note under section 2055 of this title.
+For inclusion of provisions comparable to section 2055(e)(3) of this title in this section, see section 514(b)of Pub. L. 95–600, set out as a note under section 2055 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "or".</i>
 

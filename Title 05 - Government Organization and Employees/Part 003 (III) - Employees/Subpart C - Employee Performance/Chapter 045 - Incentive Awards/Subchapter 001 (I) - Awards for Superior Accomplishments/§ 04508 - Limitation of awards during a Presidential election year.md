@@ -2,9 +2,9 @@
 
 (a) For purposes of this section, the term—
 
-&emsp;(1) “Presidential election period” means any period beginning on June 1 in a calendar year in which the popular election of the President occurs, and ending on January 20 following the date of such election; and
+&emsp;(1) "Presidential election period" means any period beginning on June 1 in a calendar year in which the popular election of the President occurs, and ending on January 20 following the date of such election; and
 
-&emsp;(2) “senior politically appointed officer” means any officer who during a Presidential election period serves—
+&emsp;(2) "senior politically appointed officer" means any officer who during a Presidential election period serves—
 
 &emsp;&emsp;(A) in a Senior Executive Service position and is not a career appointee as defined under section 3132(a)(4); or
 

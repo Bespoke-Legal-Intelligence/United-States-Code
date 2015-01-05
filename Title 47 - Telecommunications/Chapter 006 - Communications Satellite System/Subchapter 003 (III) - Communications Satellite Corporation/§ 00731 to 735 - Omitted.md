@@ -10,7 +10,7 @@ A prior section 731, Pub. L. 87–624, title III, §301, Aug. 31, 1962, 76 Stat.
 
 Section 732, Pub. L. 87–624, title III, §302, as added Pub. L. 103–414, title III, §304(b)(2), Oct. 25, 1994, 108 Stat. 4297, related to laws applicable to the corporation.
 
-A prior section 732, Pub. L. 87–624, title III, §302, Aug. 31, 1962, 76 Stat. 423, related to process of organizationof the communications satellite corporation, prior to repeal by Pub. L. 103–414, §304(b)(2).
+A prior section 732, Pub. L. 87–624, title III, §302, Aug. 31, 1962, 76 Stat. 423, related to process of organization of the communications satellite corporation, prior to repeal by Pub. L. 103–414, §304(b)(2).
 
 Sections 733 and 734 ceased to be effective Mar. 17, 2000, pursuant to section 765d(1) of this title.
 

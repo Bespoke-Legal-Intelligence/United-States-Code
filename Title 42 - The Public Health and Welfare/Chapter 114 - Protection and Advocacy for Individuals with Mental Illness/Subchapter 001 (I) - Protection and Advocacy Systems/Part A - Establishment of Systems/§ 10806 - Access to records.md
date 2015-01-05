@@ -20,7 +20,7 @@
 
 &emsp;(ii) an individual who has a legal guardian, conservator, or other legal representative other than the State if such guardian, conservator, or representative does not, within a reasonable time after such individual is denied access to information under paragraph (1), select a mental health professional under subparagraph (A) to review such information.
 
-(C) If the laws of a State prohibit an eligible system from obtaining access to the records of individuals with mental illness in accordance with section 10805(a)(4) of this title and this section, section 10805(a)(4) of this title and this section shall not apply to such system before—
+(C) If the laws of a State prohibit an eligible system from obtaining access to the records ofindividuals with mental illness in accordance with section 10805(a)(4) of this title and this section, section 10805(a)(4) of this title and this section shall not apply to such system before—
 
 &emsp;(i) the date such system is no longer subject to such a prohibition; or
 

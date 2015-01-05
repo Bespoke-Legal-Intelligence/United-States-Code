@@ -10,7 +10,7 @@ In this section, the following definitions shall apply:
 
 #### (2) Collaboration program
 
-&emsp;The term "collaboration program" means a program to promote public safety by ensuring access to adequate mental health and othertreatment services for mentally ill adults or juveniles that is overseen cooperatively by—
+&emsp;The term "collaboration program" means a program to promote public safety by ensuring access to adequate mental health and other treatment services for mentally ill adults or juveniles that is overseen cooperatively by—
 
 &emsp;&emsp;(A) a criminal or juvenile justice agency or a mental health court; and
 
@@ -28,7 +28,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Appropriate use
 
-&emsp;&emsp;In this paragraph, the term "appropriate use" includes the discretion of the judge or supervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
+&emsp;&emsp;In this paragraph, the term "appropriate use" includes the discretion of the judge orsupervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
 
 #### (C) Graduated sanctions
 
@@ -86,7 +86,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) mental health courts or other court-based programs for preliminarily qualified offenders;
 
-&emsp;&emsp;(B) programs that offer specialized training to the officers and employees of a criminal or juvenile justice agency and mental health personnel serving those with co-occurring mental illness and substance abuseproblems in procedures for identifying the symptoms of preliminarily qualified offenders in order to respond appropriately to individuals with such illnesses;
+&emsp;&emsp;(B) programs that offer specialized training to the officers and employees of a criminal or juvenile justice agency and mental health personnel serving those with co-occurring mental illness and substance abuse problems in procedures for identifying the symptoms of preliminarily qualified offenders in order to respond appropriately to individuals with such illnesses;
 
 &emsp;&emsp;(C) programs that support cooperative efforts by criminal and juvenile justice agencies and mental health agencies to promote public safety by offering mental health treatment services and, where appropriate, substance abuse treatment services for—
 
@@ -100,7 +100,7 @@ In this section, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;To receive a planning grant or an implementation grant, the joint applicants shall prepare and submit a single application to the Attorney General at such time, in such manner, and containing such information as the Attorney General and the Secretary shall reasonably require. An application under subchapter XII–J of this chapter may be made in conjunction with an application under this section.
+&emsp;&emsp;To receive a planning grant or an implementation grant, the joint applicants shall prepare and submit a single application to the Attorney General at such time, in suchmanner, and containing such information as the Attorney General and the Secretary shall reasonably require. An application under subchapter XII–J of this chapter may be made in conjunction with an application under this section.
 
 #### (B) Combined planning and implementation grant application
 
@@ -176,7 +176,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(IV) determine eligibility for Federal benefits;
 
-&emsp;&emsp;&emsp;&emsp;(V) ensure that preliminarily qualified offenders served by the collaboration program will have adequate supervision and access to effective and appropriate community-based mental health services, including, in the case of individuals with co-occurring mental health and substance abuse disorders, coordinated services, which may range from consultation or collaboration to integration in a single setting treatment model;
+&emsp;&emsp;&emsp;&emsp;(V) ensure that preliminarily qualified offenders served by the collaboration program will have adequate supervision and access to effective and appropriate community-based mental health services, including, in the case of individualswith co-occurring mental health and substance abuse disorders, coordinated services, which may range from consultation or collaboration to integration in a single setting treatment model;
 
 &emsp;&emsp;&emsp;&emsp;(VI) make available, to the extent practicable, other support services that will ensure the preliminarily qualified offender's successful reintegration into the community (such as housing, education, job placement, mentoring, and health care and benefits, as well as the services of faith-based and community organizations for mentally ill individuals served by the collaboration program); and
 
@@ -232,7 +232,7 @@ In this section, the following definitions shall apply:
 
 #### (iii) Service delivery
 
-&emsp;&emsp;&emsp;Funds may be used to create or expand programs that promote public safety byproviding the services described in subparagraph (C)(ii) to preliminarily qualified offenders.
+&emsp;&emsp;&emsp;Funds may be used to create or expand programs that promote public safety by providing the services described in subparagraph (C)(ii) to preliminarily qualified offenders.
 
 #### (iv) In-jail and transitional services
 
@@ -334,7 +334,7 @@ Unless all eligible applications submitted by any State or unit of local governm
 
 #### (E) Campus security personnel training
 
-&emsp;&emsp;To provide for programs that offer campus security personnel training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
+&emsp;&emsp;To provide for programs that offer campus security personnel training in procedures toidentify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
 
 #### (2) BJA training models
 

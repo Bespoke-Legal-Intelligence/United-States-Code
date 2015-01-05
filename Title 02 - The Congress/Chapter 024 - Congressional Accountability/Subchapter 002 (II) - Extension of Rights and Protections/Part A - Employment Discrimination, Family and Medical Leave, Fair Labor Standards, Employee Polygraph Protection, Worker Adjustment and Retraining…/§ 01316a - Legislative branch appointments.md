@@ -2,7 +2,7 @@
 
 #### (1) Definitions
 
-For the purposes of this section, the terms “covered employee” and “Board” shall each have the meaning given such term by section 101 of the Congressional Accountability Act of 1995 (2 U.S.C. 1301).
+For the purposes of this section, the terms "covered employee" and "Board" shall each have the meaning given such term by section 101 of the Congressional Accountability Act of 1995 (2 U.S.C. 1301).
 
 #### (2) Rights and protections
 
@@ -26,7 +26,7 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (B) Agency regulations
 
-&emsp;The regulations issued under subparagraph (A) shall be the same as the most relevant substantive regulations (applicable with respect to the executive branch) promulgated to implement the statutory provisions referred to in paragraph (2) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under subparagraph (A) shall be the same as the most relevant substantive regulations (applicable with respectto the executive branch) promulgated to implement the statutory provisions referred to in paragraph (2) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (C) Coordination
 
@@ -34,7 +34,7 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (5) Applicability
 
-Notwithstanding any other provision of this section, the term “covered employee” shall not, for purposes of this section, include an employee—
+Notwithstanding any other provision of this section, the term "covered employee" shall not, for purposes of this section, include an employee—
 
 &emsp;(A) whose appointment is made by the President with the advice and consent of the Senate;
 

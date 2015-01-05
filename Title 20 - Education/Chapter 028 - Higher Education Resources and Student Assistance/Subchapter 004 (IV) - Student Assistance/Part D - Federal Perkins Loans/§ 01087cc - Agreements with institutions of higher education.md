@@ -40,7 +40,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;(5) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collection costs) among other institutions in accordance with section 1087bb of this title;
 
-&emsp;(6) provide that, notwithstanding any other provision of law, the Secretary will provide to the institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
+&emsp;(6) provide that, notwithstanding any other provision of law, the Secretary will provide tothe institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
 
 &emsp;(7) provide assurances that the institution will comply with the provisions of section 1087cc–1 of this title;
 
@@ -64,7 +64,7 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 &emsp;(C) the date of cancellation of the note upon completion of repayment by the borrower of any such loan, or upon cancellation or discharge of the borrower's obligation on the loan for any reason.
 
-(3) Notwithstanding paragraphs (4) and (5) of subsection (a) of section 1681c of title 15, a consumer reporting agency may make a report containing information received from the Secretaryor an institution regarding the status of a borrower's account on a loan made under this part until the loan is paid in full.
+(3) Notwithstanding paragraphs (4) and (5) of subsection (a) of section 1681c of title 15, a consumer reporting agency may make a report containing information received from the Secretary or an institution regarding the status of a borrower's account on a loan made under this part until the loan is paid in full.
 
 (4)(A) Except as provided in subparagraph (B), an institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any consumer reporting agency with which the Secretary has such an agreement the information set forth in paragraph (2), and shall disclose promptly to such consumer reporting agency any changes to the information previously disclosed.
 
@@ -88,7 +88,7 @@ Subsection (a)(5) of this section relating to due diligence, referred to in subs
 
 #### Prior Provisions
 
-A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV, §§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV,§§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 &emsp;(B) A service obligation in a component of the Selected Reserve for a period not less than twice as long as the member's remaining active duty service obligation.
 
-&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred bythe Secretary under this subchapter on behalf of the member pursuant to the repayment provisions of section 303a(e) of title 37.
+&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred by the Secretary under this subchapter on behalf of the member pursuant to the repayment provisions of section 303a(e) of title 37.
 
 (2) In addition to the alternative obligations specified in paragraph (1), if the member is relieved of an active duty obligation by reason of the separation of the member because of a physical disability, the Secretary of the military department concerned may give the member a service obligation as a civilian employee employed as a health care professional in a facility of the uniformed services for a period of time equal to the member's remaining active duty service obligation.
 

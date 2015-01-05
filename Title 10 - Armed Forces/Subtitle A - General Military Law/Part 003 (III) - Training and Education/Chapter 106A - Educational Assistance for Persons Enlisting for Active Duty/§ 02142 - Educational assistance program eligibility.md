@@ -8,7 +8,7 @@
 
 (B) Entitlement to educational assistance under this chapter may not be used until a member has completed two years of active service of the enlistment which is the basis for entitlement to such educational assistance.
 
-(b) In establishing requirements for eligibility for an educational assistance program under this chapter, the Secretary concerned shall limit eligibility to persons who—
+(b) In establishing requirements for eligibility for an educational assistance program underthis chapter, the Secretary concerned shall limit eligibility to persons who—
 
 &emsp;(1) enlist or reenlist for service on active duty as a member of the Army, Navy, Air Force, or Marine Corps after September 30, 1980, and before October 1, 1981;
 

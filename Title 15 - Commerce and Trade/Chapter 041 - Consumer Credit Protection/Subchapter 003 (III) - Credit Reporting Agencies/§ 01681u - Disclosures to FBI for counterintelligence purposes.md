@@ -58,7 +58,7 @@ If a court determines that any agency or department of the United States has vio
 
 #### (k) Good-faith exception
 
-Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or identifying information pursuant to this subsection in good-faith reliance upon a certification of the Federal Bureau of Investigation pursuant to provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
+Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or identifying information pursuant to this subsection in good-faith reliance upon a certification of the Federal Bureau of Investigation pursuant to provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation ofany State or any political subdivision of any State.
 
 #### (l) Limitation of remedies
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of this subchapter, the remedies and sanctio
 
 In addition to any other remedy contained in this section, injunctive relief shall be available to require compliance with the procedures of this section. In the event of any successful action under this subsection, costs together with reasonable attorney fees, as determined by the court, may be recovered.
 
-(Pub. L. 90–321, title VI, §626, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amendedPub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, §811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426; renumbered §626, Pub. L. 108–159, title II, §214(a)(1), Dec. 4, 2003, 117 Stat. 1980; Pub. L. 109–177, title I, §116(b), Mar. 9, 2006, 120 Stat. 214; Pub. L. 109–178, §4(c)(1), Mar. 9, 2006, 120 Stat. 280.)
+(Pub. L. 90–321, title VI, §626, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amended Pub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, §811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426; renumbered §626, Pub. L. 108–159, title II, §214(a)(1), Dec. 4, 2003, 117 Stat. 1980; Pub. L. 109–177, title I, §116(b), Mar. 9, 2006, 120 Stat. 214; Pub. L. 109–178, §4(c)(1), Mar. 9, 2006, 120 Stat. 280.)
 
 #### References in Text
 

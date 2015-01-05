@@ -66,7 +66,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;(9) require a final adjustment of the penalty within 180 days after such source comes into compliance in accordance with subsection (d)(4) of this section.
 
-> In any case in which the State establishes a noncompliance penalty under this section, the State shall provide notice thereof to the Administrator. A noncompliance penalty established by a State under this section shall apply unless the Administrator, within ninety days after the date of receipt of notice of the State penalty assessment under this section, objects in writing to the amount of the penalty as less than would be required to comply with guidelines established by the Administrator. If the Administrator objects, he shall immediately establish a substitute noncompliance penalty applicable to such source.
+> In any case in which the State establishes a noncompliance penalty under this section, the State shall provide notice thereof to the Administrator. A noncompliance penalty established by a State under this section shall apply unless the Administrator, within ninety days after the date of receipt of notice of the State penalty assessment under this section, objects in writing tothe amount of the penalty as less than would be required to comply with guidelines established by the Administrator. If the Administrator objects, he shall immediately establish a substitute noncompliance penalty applicable to such source.
 
 #### (c) Contract to assist in determining amount of penalty assessment or payment schedule
 

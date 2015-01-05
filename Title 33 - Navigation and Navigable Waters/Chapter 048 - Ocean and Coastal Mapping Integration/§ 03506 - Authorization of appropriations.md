@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to the amounts authorized by section 892d of this title, there are authorized to be appropriated to the Administrator to carry out this chapter—
+In addition to the amounts authorized by section 892d of this title, there are authorized to beappropriated to the Administrator to carry out this chapter—
 
 &emsp;(1) $26,000,000 for fiscal year 2009;
 

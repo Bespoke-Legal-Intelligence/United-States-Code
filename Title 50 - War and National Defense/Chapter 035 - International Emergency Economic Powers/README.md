@@ -9,6 +9,7 @@
 | [1705\.](%C2%A7%2001705%20-%20Penalties.md) | Penalties. |
 | [1706\.](%C2%A7%2001706%20-%20Savings%20provisions.md) | Savings provisions. |
 | [1707\.](%C2%A7%2001707%20-%20Multinational%20economic%20embargoes%20against%20governments%20in%20armed%20conflict%20with%20the%20United%20States.md) | Multinational economic embargoes against governments in armed conflict with the United States. |
+| [1708\.](%C2%A7%2001708%20-%20Actions%20to%20address%20economic%20or%20industrial%20espionage%20in%20cyberspace.md) | Actions to address economic or industrial espionage in cyberspace. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,3 +25,4 @@
 - [&sect; 01705 - Penalties](%C2%A7%2001705%20-%20Penalties.md)
 - [&sect; 01706 - Savings provisions](%C2%A7%2001706%20-%20Savings%20provisions.md)
 - [&sect; 01707 - Multinational economic embargoes against governments in armed conflict with the United States](%C2%A7%2001707%20-%20Multinational%20economic%20embargoes%20against%20governments%20in%20armed%20conflict%20with%20the%20United%20States.md)
+- [&sect; 01708 - Actions to address economic or industrial espionage in cyberspace](%C2%A7%2001708%20-%20Actions%20to%20address%20economic%20or%20industrial%20espionage%20in%20cyberspace.md)

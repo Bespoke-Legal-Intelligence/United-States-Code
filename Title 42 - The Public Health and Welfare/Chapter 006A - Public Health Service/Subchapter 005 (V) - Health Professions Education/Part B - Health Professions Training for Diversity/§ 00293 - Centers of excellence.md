@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make grants to, and enter into contracts with, designated health professions schools described in subsection (c) of this section, and other public and nonprofit health or educational entities, for the purpose of assisting the schools in supporting programs of excellence in health professions education for under-represented minority individuals.
+The Secretary shall make grants to, and enter into contracts with, designated health professions schools described in subsection (c) of this section, and other public and nonprofit health or educational entities, for the purpose of assistingthe schools in supporting programs of excellence in health professions education for under-represented minority individuals.
 
 #### (b) Required use of funds
 
@@ -170,7 +170,7 @@ In this section:
 
 #### (2) Program of excellence
 
-&emsp;The term "program of excellence" means any program carried out by a designatedhealth professions school with a grant made under subsection (a) of this section, if the program is for purposes for which the school involved is authorized in subsection (b) or (c) of this section to expend the grant.
+&emsp;The term "program of excellence" means any program carried out by a designated health professions school with a grant made under subsection (a) of this section, if the program is for purposes for which the school involved is authorized in subsection (b) or (c) of this section to expend the grant.
 
 #### (3) Native Americans
 

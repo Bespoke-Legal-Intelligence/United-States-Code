@@ -188,7 +188,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated, to remain available until the expiration of the pilot program under subsection (l) of this section—
+&emsp;There is authorized to be appropriated, to remain available until the expiration of thepilot program under subsection (l) of this section—
 
 &emsp;&emsp;(A) $12,000,000 for fiscal year 2000;
 
@@ -286,7 +286,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-yearperiods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied by such information as the Administrator may establish.
+&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-year periods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied by such information as the Administrator may establish.
 
 #### (B) Unlimited renewals
 
@@ -296,7 +296,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (1) In general
 
-&emsp;A women's business center may not disclose the name, address, or telephone number of any individual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
+&emsp;A women's business center may not disclose the name, address, or telephone number of anyindividual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
 
 &emsp;&emsp;(A) the Administrator is ordered to make such a disclosure by a court in any civil or criminal enforcement action initiated by a Federal or State agency; or
 
@@ -322,9 +322,9 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (2) Report
 
-&emsp;Not later than 5 years after January 2, 2013, and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
+&emsp;Not later than 3 years after January 2, 2013, and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
 
-(Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798; Pub. L. 110–28, title VIII, §8305(a), (b), May 25, 2007, 121 Stat. 209, 210; Pub. L. 111–240, title I, §1401(b), (c)(2), Sept. 27, 2010, 124 Stat. 2549, 2550; Pub. L. 112–239, div. A, title XVI, §1697(b), Jan. 2, 2013, 126 Stat. 2091.)
+(Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798; Pub. L. 110–28, title VIII, §8305(a), (b), May 25, 2007, 121 Stat. 209, 210; Pub. L. 111–240, title I, §1401(b), (c)(2), Sept. 27, 2010, 124 Stat. 2549, 2550; Pub. L. 112–239, div. A, title XVI, §1697(b), Jan. 2, 2013, 126 Stat. 2091; Pub. L. 113–291, div. A, title VIII, §825(c), Dec. 19, 2014, 128 Stat. 3438.)
 
 #### References in Text
 
@@ -335,6 +335,8 @@ Subsec. (l), referred to in subsecs. (h)(2), (k)(1), (4), and (m)(2), (3)(B), (4
 May 25, 2007, referred to in subsec. (m)(3)(B), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 110–28, which enacted subsec. (m), to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (o)(2). Pub. L. 113–291 substituted "3 years after January 2, 2013" for "5 years after January 2, 2013".
 
 <b>2013</b>—Subsec. (o). Pub. L. 112–239 added subsec. (o).
 
@@ -382,7 +384,7 @@ Subsec. (j). Pub. L. 106–165, §3(2), added subsec. (j) and struck out heading
 
 &emsp;"(5) the employment increases or decreases of assisted concerns."
 
-Subsec. (k)(1). Pub. L. 106–165, §4(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "There is authorized to be appropriated $11,000,000 for each fiscal year to carry out the projectsauthorized under this section, of which, for fiscal year 1998, not more than 5 percent may be used for administrative expenses related to the program under this section."
+Subsec. (k)(1). Pub. L. 106–165, §4(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "There is authorized to be appropriated $11,000,000 for each fiscal year to carry out the projects authorized under this section, of which, for fiscal year 1998, not more than 5 percent may be used for administrative expenses related to the program under this section."
 
 Pub. L. 106–17, §3, substituted "$11,000,000" for "$8,000,000".
 

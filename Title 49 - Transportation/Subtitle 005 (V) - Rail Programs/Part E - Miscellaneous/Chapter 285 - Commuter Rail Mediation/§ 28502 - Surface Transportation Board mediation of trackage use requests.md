@@ -1,6 +1,6 @@
 ### §28502. Surface Transportation Board mediation of trackage use requests
 
-If, after a reasonable period of negotiation, a public transportation authority cannot reach agreement with a rail carrier to use trackage of, and have related services provided by, the rail carrier for purposes of commuter rail passenger transportation, the public transportation authority or the rail carrier may apply to the Board for nonbinding mediation. The Boardshall conduct the nonbinding mediation in accordance with the mediation process of section 1109.4 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this section.
+If, after a reasonable period of negotiation, a public transportation authority cannot reach agreement with a rail carrier to use trackage of, and have related services provided by, the rail carrier for purposes of commuter rail passenger transportation, the public transportation authority or the rail carrier may apply to the Board for nonbinding mediation. The Board shall conduct the nonbinding mediation in accordance with the mediation process of section 1109.4 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this section.
 
 (Added Pub. L. 110–432, div. B, title IV, §401(a), Oct. 16, 2008, 122 Stat. 4955.)
 

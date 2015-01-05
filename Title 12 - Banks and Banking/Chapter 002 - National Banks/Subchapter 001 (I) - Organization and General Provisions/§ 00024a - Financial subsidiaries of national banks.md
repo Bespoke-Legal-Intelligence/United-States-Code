@@ -194,7 +194,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Appropriate Federal banking agency, depository institution, insured bank, and insured depository institution
 
-&emsp;The terms "appropriate Federal banking agency", "depository institution", "insured bank", and "insured depository institution" have the meanings given those terms in section 1813 of this title.
+&emsp;The terms "appropriate Federal banking agency", "depository institution", "insuredbank", and "insured depository institution" have the meanings given those terms in section 1813 of this title.
 
 #### (3) Financial subsidiary
 

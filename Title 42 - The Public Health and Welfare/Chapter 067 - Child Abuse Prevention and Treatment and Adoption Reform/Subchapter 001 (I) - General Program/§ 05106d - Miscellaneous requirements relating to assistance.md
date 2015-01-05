@@ -32,9 +32,9 @@ It is the sense of Congress that the Secretary should encourage all States and p
 
 #### (e) Annual report
 
-A State that receives funds under section 5106a(a) of this title shall annually prepare andsubmit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III of this chapter, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of section 5106a of this title.
+A State that receives funds under section 5106a(a) of this title shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III of this chapter, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of section 5106a of this title.
 
-(Pub. L. 93–247, title I, §108, formerly §11, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 115; renumbered title I, §110, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; renumbered §108 and amended Pub. L. 104–235, title I, §§109, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §116, June 25, 2003, 117 Stat. 812; Pub. L. 111–320, title I, §117, Dec. 20, 2010, 124 Stat. 3475.)
+(Pub. L. 93–247, title I, §108, formerly §11, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 115; renumbered title I, §110, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; renumbered §108 and amended Pub. L. 104–235, title I, §§109, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §116, June 25, 2003, 117Stat. 812; Pub. L. 111–320, title I, §117, Dec. 20, 2010, 124 Stat. 3475.)
 
 #### Prior Provisions
 

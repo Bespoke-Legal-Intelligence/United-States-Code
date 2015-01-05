@@ -34,7 +34,7 @@ Beginning with the fiscal year ending September 30, 1979—
 
 #### (c) Comprehensive program of extension for each State
 
-The State director of the cooperative extension service and the extension administrator at the eligible institution in each State where aneligible institution is located shall jointly develop, by mutual agreement, a comprehensive program of extension for such State to be submitted for approval by the Secretary within one year after September 29, 1977 and each five years thereafter.
+The State director of the cooperative extension service and the extension administrator at the eligible institution in each State where an eligible institution is located shall jointly develop, by mutual agreement, a comprehensive program of extension for such State to be submitted for approval by the Secretary within one year after September 29, 1977 and each five years thereafter.
 
 #### (d) Ascertainment of entitlement to funds; time and manner of payment; State reporting requirements; plans of work
 
@@ -82,7 +82,7 @@ If any portion of the moneys received by any eligible institution for the suppor
 
 To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
 
-(Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543; Pub. L. 107–171, title VII, §7203(a), May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, 122 Stat. 1222, 1246, 1247, 1268; Pub. L.110–246, §4(a), title VII, §§7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, 122 Stat. 1664, 1983, 2008, 2029.)
+(Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543; Pub. L. 107–171, title VII, §7203(a), May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, 122 Stat. 1222, 1246, 1247, 1268; Pub. L. 110–246, §4(a), title VII, §§7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, 122 Stat. 1664, 1983, 2008, 2029.)
 
 #### References in Text
 
@@ -110,7 +110,7 @@ Subsecs. (a), (b). Pub. L. 105–185, §226(c)(2)(B), substituted "Tuskegee Univ
 
 Subsec. (d). Pub. L. 105–185, §225(a), inserted subsec. heading, designated existing provisions as pars. (1) and (2) and inserted par. headings, in par. (2) substituted "The amount to which an eligible institution is entitled" for "Such sums", and added pars. (3) to (5).
 
-Subsecs. (f), (g). Pub. L. 105–185, §103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus."
+Subsecs. (f), (g). Pub. L. 105–185, §103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal toCongress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–127 inserted before period at end of third sentence ", except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary".
 

@@ -50,7 +50,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions relating to initiation and pursuit of agricultural trade consultations among major agricultural producing countries, providing for sense of Congress concerning objectives of such consultations, and requiring annual reports by Secretary of Agriculture on progress of such consultations.
+<b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions relating toinitiation and pursuit of agricultural trade consultations among major agricultural producing countries, providing for sense of Congress concerning objectives of such consultations, and requiring annual reports by Secretary of Agriculture on progress of such consultations.
 
 #### Agricultural Trade Negotiating Objectives and Consultations With Congress
 

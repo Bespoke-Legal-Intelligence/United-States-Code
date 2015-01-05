@@ -50,7 +50,7 @@ Children's metal jewelry.—Not later than 120 days after August 14, 2008, the C
 
 &emsp;&emsp;(v)
 
-Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies toassess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
+Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
 
 &emsp;&emsp;(vi)
 
@@ -84,7 +84,7 @@ Rulemaking.—Until the date that is 3 years after August 14, 2008, Commission p
 
 &emsp;(ii) the ultimate purchaser to ascertain the manufacturer or private labeler, location and date of production of the product, and cohort information (including the batch, run number, or other identifying characteristic).
 
-(B) The Commission may, by regulation, exclude a specific product or class of products from the requirements in subparagraph (A) if the Commission determines that it is not practicable for such product or class of products to bear the marks required by such subparagraph. The Commission may establish alternative requirements for any product or class of products excluded under the preceding sentence consistent with the purposes described in clauses (i) and (ii) of subparagraph (A).
+(B) The Commission may, by regulation, exclude a specific product or class of productsfrom the requirements in subparagraph (A) if the Commission determines that it is not practicable for such product or class of products to bear the marks required by such subparagraph. The Commission may establish alternative requirements for any product or class of products excluded under the preceding sentence consistent with the purposes described in clauses (i) and (ii) of subparagraph (A).
 
 #### (b) Rules to establish reasonable testing programs
 
@@ -194,7 +194,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term "covered product" means a consumer product manufactured by a small batch manufacturer where no more than 7,500 units of the same product were manufactured in the previous calendar year; and
+&emsp;&emsp;&emsp;(i) the term "covered product" means a consumer product manufactured by a small batch manufacturer where no more than 7,500 units of the same product weremanufactured in the previous calendar year; and
 
 &emsp;&emsp;&emsp;(ii) the term "small batch manufacturer" means a manufacturer that had no more than $1,000,000 in total gross revenue from sales of all consumer products in the previous calendar year. The dollar amount contained in this paragraph shall be adjusted annually by the percentage increase in the Consumer Price Index for all urban consumers published by the Department of Labor.
 
@@ -294,7 +294,7 @@ In this section:
 
 &emsp;&emsp;Upon request, the Commission may accredit a conformity assessment body that is owned, managed, or controlled by a manufacturer or private labeler as a third party conformity assessment body if the Commission by order finds that—
 
-&emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's useof an independent third party conformity assessment body; and
+&emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's use of an independent third party conformity assessment body; and
 
 &emsp;&emsp;&emsp;(ii) the conformity assessment body has established procedures to ensure that—
 

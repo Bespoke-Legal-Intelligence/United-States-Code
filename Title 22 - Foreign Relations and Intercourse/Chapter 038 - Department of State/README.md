@@ -23,7 +23,7 @@
 | [2657\.](%C2%A7%2002657%20-%20Custody%20of%20seals%20and%20property.md) | Custody of seals and property. |
 | [2658\.](%C2%A7%2002658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md) | Repealed. |
 | [2659\.](%C2%A7%2002659%20-%20State%20statutes%20to%20be%20procured.md) | State statutes to be procured. |
-| [2660\.](%C2%A7%2002660%20-%20Copies%20of%20treaties%20furnished%20to%20Public%20Printer.md) | Copies of treaties furnished to Public Printer. |
+| [2660\.](%C2%A7%2002660%20-%20Copies%20of%20treaties%20furnished%20to%20Director%20of%20the%20Government%20Publishing%20Office.md) | Copies of treaties furnished to Director of the Government Publishing Office. |
 | [2661\.](%C2%A7%2002661%20-%20Procurement%20of%20information%20for%20corporations%2C%20firms%20and%20individuals%3B%20expense%20of%20cablegrams%20and%20telephone%20service%20involved%3B%20appropriation.md) | Procurement of information for corporations, firms and individuals; expense of cablegrams and telephone service involved; appropriation. |
 | [2661a.](%C2%A7%2002661a%20-%20Foreign%20contracts%20or%20arrangements%3B%20discrimination.md) | Foreign contracts or arrangements; discrimination. |
 | [2661b.](%C2%A7%2002661b%20-%20Services%20provided%20to%20the%20press.md) | Services provided to the press. |
@@ -151,7 +151,7 @@
 - [&sect; 02657 - Custody of seals and property](%C2%A7%2002657%20-%20Custody%20of%20seals%20and%20property.md)
 - [&sect; 02658 - Repealed. Pub. L. 103&#8211;236, title I, &sect;162(a), Apr. 30, 1994, 108 Stat. 405](%C2%A7%2002658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md)
 - [&sect; 02659 - State statutes to be procured](%C2%A7%2002659%20-%20State%20statutes%20to%20be%20procured.md)
-- [&sect; 02660 - Copies of treaties furnished to Public Printer](%C2%A7%2002660%20-%20Copies%20of%20treaties%20furnished%20to%20Public%20Printer.md)
+- [&sect; 02660 - Copies of treaties furnished to Director of the Government Publishing Office](%C2%A7%2002660%20-%20Copies%20of%20treaties%20furnished%20to%20Director%20of%20the%20Government%20Publishing%20Office.md)
 - [&sect; 02661 - Procurement of information for corporations, firms and individuals; expense of cablegrams and telephone service involved; appropriation](%C2%A7%2002661%20-%20Procurement%20of%20information%20for%20corporations%2C%20firms%20and%20individuals%3B%20expense%20of%20cablegrams%20and%20telephone%20service%20involved%3B%20appropriation.md)
 - [&sect; 02661a - Foreign contracts or arrangements; discrimination](%C2%A7%2002661a%20-%20Foreign%20contracts%20or%20arrangements%3B%20discrimination.md)
 - [&sect; 02661b - Services provided to the press](%C2%A7%2002661b%20-%20Services%20provided%20to%20the%20press.md)

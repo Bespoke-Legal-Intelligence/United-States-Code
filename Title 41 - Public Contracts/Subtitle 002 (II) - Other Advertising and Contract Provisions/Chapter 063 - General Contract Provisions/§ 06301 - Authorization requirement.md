@@ -26,7 +26,7 @@ Current year limitation.—A contract or purchase made by a defined Secretary un
 
 &emsp;(4)
 
-Reports.—The defined Secretary shall immediately advise Congress when authority is exercised under this subsection. The defined Secretary shall report quarterly on the estimated obligations incurred pursuant to the authority granted in this subsection.
+Reports.—The defined Secretary shall immediately advise Congress when authorityis exercised under this subsection. The defined Secretary shall report quarterly on the estimated obligations incurred pursuant to the authority granted in this subsection.
 
 (c)
 

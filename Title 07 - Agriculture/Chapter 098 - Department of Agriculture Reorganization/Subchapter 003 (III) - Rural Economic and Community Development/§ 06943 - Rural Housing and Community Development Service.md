@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the Secretary is authorized to estab
 
 #### (b) Functions
 
-If the Secretary establishes the Rural Housing and Community Development Service under subsection (a) of this section, the Secretary is authorized to assign to the Service jurisdiction over the following:
+If the Secretary establishes the Rural Housing and Community Development Service under subsection (a), the Secretary is authorized to assign to the Service jurisdiction over the following:
 
 &emsp;(1) Programs and activities under title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.).
 
@@ -16,7 +16,7 @@ If the Secretary establishes the Rural Housing and Community Development Service
 
 #### References in Text
 
-The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapterIII (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### Amendments
 

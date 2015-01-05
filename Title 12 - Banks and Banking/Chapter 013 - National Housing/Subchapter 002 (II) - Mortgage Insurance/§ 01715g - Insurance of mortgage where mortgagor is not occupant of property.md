@@ -12,7 +12,7 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 <b>1988</b>—Pub. L. 100–242 substituted "with respect to the occupancy of the mortgagor" for "that the mortgagor be the occupant" and "meet such requirement" for "occupy the property" wherever appearing.
 
-<b>1970</b>—Pub. L. 91–621 substituted "on active duty in a uniformed service" and "release from active duty" for "into military service" and "discharge from military service".
+<b>1970</b>—Pub. L. 91–621 substituted "on active duty in a uniformed service" and "release from active duty" for"into military service" and "discharge from military service".
 
 <b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 

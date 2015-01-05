@@ -24,7 +24,7 @@
 
 #### (2) Program name
 
-&emsp;The program under this section shall be known as the “Homeland Security Information Sharing Fellows Program”.
+&emsp;The program under this section shall be known as the "Homeland Security Information Sharing Fellows Program".
 
 #### (b) Eligibility
 
@@ -44,7 +44,7 @@
 
 #### (2) Eligible entities
 
-&emsp;In this subsection, the term “eligible entity” means—
+&emsp;In this subsection, the term "eligible entity" means—
 
 &emsp;&emsp;(A) a State, local, or regional fusion center;
 

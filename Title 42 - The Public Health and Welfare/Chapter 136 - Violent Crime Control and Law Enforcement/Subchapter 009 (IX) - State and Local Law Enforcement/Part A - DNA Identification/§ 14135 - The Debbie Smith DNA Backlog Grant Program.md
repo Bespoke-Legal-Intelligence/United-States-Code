@@ -64,9 +64,9 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;&emsp;(A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
 
-&emsp;&emsp;(B) For each of the fiscal years 2010 through 2018, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
+&emsp;&emsp;(B) For each of the fiscal years 2014 through 2019, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
-&emsp;&emsp;(C) For each of fiscal years 2014 through 2018, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
+&emsp;&emsp;(C) For each of fiscal years 2014 through 2019, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
 
 #### (4) Allocation of grant awards for audits
 
@@ -76,7 +76,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (1) In general
 
-&emsp;A plan pursuant to subsection (b)(1) of this section shall require that, except as providedin paragraph (3), each DNA analysis be carried out in a laboratory that satisfies quality assurance standards and is—
+&emsp;A plan pursuant to subsection (b)(1) of this section shall require that, except as provided in paragraph (3), each DNA analysis be carried out in a laboratory that satisfies quality assurance standards and is—
 
 &emsp;&emsp;(A) operated by the State or a unit of local government; or
 
@@ -122,7 +122,7 @@ Each State or unit of local government which receives a grant under this section
 
 #### (g) Reports to Congress
 
-Not later than 90 days after the end of each fiscal year for which grants are made under this section, the Attorney General shall submit to the Congress a report that includes—
+Not later than 90 days after the end of each fiscal year for which grants are made under thissection, the Attorney General shall submit to the Congress a report that includes—
 
 &emsp;(1) the aggregate amount of grants made under this section to each State or unit of local government for such fiscal year;
 
@@ -146,7 +146,7 @@ For purposes of this section, the term "State" means a State of the United State
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2009 through 2014.
+There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2015 through 2019.
 
 #### (k) Use of funds for accreditation and audits
 
@@ -266,7 +266,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;&emsp;The Attorney General shall—
 
-&emsp;&emsp;&emsp;(i) at the discretion of a State or unit of local government required to file a report under subparagraph (A), allow such State or unit of local government, at their sole discretion, to submit such reports on a more frequent basis; and
+&emsp;&emsp;&emsp;(i) at the discretion of a State or unit of local government required to file a reportunder subparagraph (A), allow such State or unit of local government, at their sole discretion, to submit such reports on a more frequent basis; and
 
 &emsp;&emsp;&emsp;(ii) make available to all States and units of local government the reporting form created pursuant to subparagraph (A), whether or not they are required to submit such reports, and allow such States or units of local government, at their sole discretion, to submit such reports for publication.
 
@@ -342,7 +342,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;In this subsection, the terms "awaiting testing" and "possession" have the meanings given those terms in subsection (n).
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918.)
 
 #### Amendment of Section
 
@@ -360,6 +360,12 @@ Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000,
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(3)(B). Pub. L. 113–182, §2(1)(A), substituted "2014 through 2019" for "2010 through 2018".
+
+Subsec. (c)(3)(C). Pub. L. 113–182, §2(1)(B), substituted "2019" for "2018".
+
+Subsec. (j). Pub. L. 113–182, §2(2), substituted "2015 through 2019" for "2009 through 2014".
+
 <b>2013</b>—Subsec. (a)(6). Pub. L. 113–4, §1006, struck out par. (6) which read as follows: "To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title." See Termination Date of 2013 Amendment note below.
 
 Pub. L. 112–253 added par. (6).
@@ -374,9 +380,9 @@ Subsec. (c)(4). Pub. L. 113–4, §1002(2), added par. (4).
 
 Subsec. (n).Pub. L. 113–4, §1006, struck out subsec. (n) which related to use of funds for auditing sexual assault evidence backlogs. See Termination Date of 2013 Amendment note below.
 
-Pub. L. 113–4, §1002(3), added subsecs. (n).
+Pub. L. 113–4, §1002(3), added subsec. (n).
 
-(o). Pub. L. 113–4, §1002(3), added subsec. (o).
+Subsec. (o). Pub. L. 113–4, §1002(3), added subsec. (o).
 
 <b>2008</b>—Subsec. (c)(3). Pub. L. 110–360, §2(1)(B), which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
 
@@ -392,7 +398,7 @@ Subsec. (c)(3)(B) to (D). Pub. L. 110–360, §2(1)(A), (C), added subpar. (B) a
 
 Subsec. (j). Pub. L. 110–360, §2(2), amended subsec. (j) generally. Prior to amendment, subsec. (j) authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2005 through 2009.
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 substituted "collected under applicable legal authority" for "takenfrom individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section)".
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 substituted "collected under applicable legal authority" for "taken from individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section)".
 
 <b>2004</b>—Pub. L. 108–405, §202(a)(1), substituted "The Debbie Smith DNA Backlog Grant Program" for "Authorization of grants" in section catchline.
 
@@ -514,7 +520,7 @@ Definition.—For purposes of this section and the grant programs described in t
 
 &emsp;&emsp;"(B)
 
-Prohibition.—The Attorney General shall not award a grant under any grant program described in this title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986.
+Prohibition.—The Attorney General shall not award a grant under any grant program described in this title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 511(a)\].
 
 &emsp;&emsp;"(C)
 
@@ -594,7 +600,7 @@ Findings.—Congress finds that—
 
 &emsp;"(13) States that accept such financial assistance should not deny the promise of truth and justice for both sides of our adversarial system that DNA testing offers;
 
-&emsp;"(14) post-conviction DNA testing and other post-conviction investigative techniques have shown thatinnocent people have been sentenced to death in this country;
+&emsp;"(14) post-conviction DNA testing and other post-conviction investigative techniques have shown that innocent people have been sentenced to death in this country;
 
 &emsp;"(15) a constitutional error in capital cases is incompetent defense lawyers who fail to present important evidence that the defendant may have been innocent or does not deserve to be sentenced to death; and
 

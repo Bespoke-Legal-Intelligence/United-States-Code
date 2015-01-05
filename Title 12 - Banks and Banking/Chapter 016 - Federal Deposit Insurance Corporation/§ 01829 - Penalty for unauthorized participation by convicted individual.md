@@ -44,7 +44,7 @@
 
 #### (b) Penalty
 
-Whoever knowingly violates subsection (a) of this section shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
 #### (d) <sup>2</sup> Bank holding companies
 

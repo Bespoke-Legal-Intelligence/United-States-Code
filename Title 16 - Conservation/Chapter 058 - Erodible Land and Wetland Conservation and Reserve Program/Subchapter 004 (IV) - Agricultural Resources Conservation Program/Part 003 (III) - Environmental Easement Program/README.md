@@ -5,8 +5,4 @@ Part III—Environmental Easement Program
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03839 - Environmental easement program](%C2%A7%2003839%20-%20Environmental%20easement%20program.md)
-- [&sect; 03839a - Duties of owners; components of plan](%C2%A7%2003839a%20-%20Duties%20of%20owners%3B%20components%20of%20plan.md)
-- [&sect; 03839b - Duties of Secretary](%C2%A7%2003839b%20-%20Duties%20of%20Secretary.md)
-- [&sect; 03839c - Payments](%C2%A7%2003839c%20-%20Payments.md)
-- [&sect; 03839d - Changes in ownership; modification of easement](%C2%A7%2003839d%20-%20Changes%20in%20ownership%3B%20modification%20of%20easement.md)
+- [&sect; 03839 to 3839d - Repealed. Pub. L. 113&#8211;79, title II, &sect;2711, Feb. 7, 2014, 128 Stat. 771](%C2%A7%2003839%20to%203839d%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72711%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20771.md)

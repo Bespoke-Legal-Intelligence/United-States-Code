@@ -92,7 +92,7 @@ Redesignation of primary freight network.—Effective beginning 10 years after t
 
 (e)
 
-Critical Rural Freight Corridors.—A State may designate a road within the bordersof the State as a critical rural freight corridor if the road—
+Critical Rural Freight Corridors.—A State may designate a road within the borders of the State as a critical rural freight corridor if the road—
 
 &emsp;(1) is a rural principal arterial roadway and has a minimum of 25 percent of the annual average daily traffic of the road measured in passenger vehicle equivalent units from trucks (FHWA vehicle class 8 to 13);
 

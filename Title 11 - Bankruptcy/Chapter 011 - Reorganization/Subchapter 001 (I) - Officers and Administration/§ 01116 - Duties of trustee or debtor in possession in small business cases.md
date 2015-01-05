@@ -8,7 +8,7 @@ In a small business case, a trustee or the debtor in possession, in addition to 
 
 &emsp;&emsp;(B) a statement made under penalty of perjury that no balance sheet, statement of operations, or cash-flow statement has been prepared and no Federal tax return has been filed;
 
-&emsp;(2) attend, through its senior management personnel and counsel, meetings scheduled by the court or the United States trustee, including initial debtor interviews, scheduling conferences, and meetings of creditors convened under section 341 unless the court, after notice and a hearing, waives that requirement upon a finding of extraordinary and compelling circumstances;
+&emsp;(2) attend, through its senior management personnel and counsel, meetings scheduled by the court or the United States trustee, including initial debtor interviews, scheduling conferences, and meetings of creditors convenedunder section 341 unless the court, after notice and a hearing, waives that requirement upon a finding of extraordinary and compelling circumstances;
 
 &emsp;(3) timely file all schedules and statements of financial affairs, unless the court, after notice and a hearing, grants an extension, which shall not extend such time period to a date later than 30 days after the date of the order for relief, absent extraordinary and compelling circumstances;
 

@@ -56,7 +56,7 @@ This subtitle, referred to in subsec. (a), is subtitle D (§§141–147) of titl
 
 #### Codification
 
-Section was enacted as part of the Small Business Reauthorization and Manufacturing Assistance Act of2004, and also as part of the Consolidated Appropriations Act, 2005, and not as part of the Small Business Act which comprises this chapter.
+Section was enacted as part of the Small Business Reauthorization and Manufacturing Assistance Act of 2004, and also as part of the Consolidated Appropriations Act, 2005, and not as part of the Small Business Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

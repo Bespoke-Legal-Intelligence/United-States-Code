@@ -84,7 +84,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (13) Insured community development financial institution
 
-&emsp;The term "insured community development financial institution" means any community development financial institution that is aninsured depository institution or an insured credit union.
+&emsp;The term "insured community development financial institution" means any community development financial institution that is an insured depository institution or an insured credit union.
 
 #### (14) Insured credit union
 

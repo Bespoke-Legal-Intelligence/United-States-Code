@@ -20,7 +20,7 @@
 
 #### (iii) Easements
 
-&emsp;&emsp;&emsp;To ensure adequate hurricane protection of the communities located in the area, any land identified on the map describedin section 230 of this title that is acquired or transferred shall be subject to any easements that have been agreed to by the Secretary and the Secretary of the Army.
+&emsp;&emsp;&emsp;To ensure adequate hurricane protection of the communities located in the area, any land identified on the map described in section 230 of this title that is acquired or transferred shall be subject to any easements that have been agreed to by the Secretary and the Secretary of the Army.
 
 #### (C) Transfer of administration jurisdiction
 
@@ -28,7 +28,7 @@
 
 #### (2) French Quarter
 
-&emsp;The Secretary may acquire by any of the methods referred to in paragraph (1)(A) such lands and interests therein, including leasehold interests, as he may designate in the French Quarter of New Orleans for development and operation as an interpretive and administrative facility.
+&emsp;The Secretary may acquire by any of the methods referred to in paragraph (1)(A) suchlands and interests therein, including leasehold interests, as he may designate in the French Quarter of New Orleans for development and operation as an interpretive and administrative facility.
 
 #### (3) Acquisition of State land
 
@@ -88,5 +88,5 @@ Subsec. (g). Pub. L. 111–11, §7105(b)(3), redesignated subsec. (g) as (d).
 
 #### "Secretary" Defined
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 45f of this title.
 

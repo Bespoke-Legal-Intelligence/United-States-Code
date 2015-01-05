@@ -14,7 +14,7 @@ Merchant Mariner Documents.—Notwithstanding section 7302(g), the Secretary may
 
 &emsp;(1) extend for not more than one year an expiring merchant mariner's document issued for an individual under chapter 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for those licenses or certificates of registry or in response to a national emergency or natural disaster, as deemed necessary by the Secretary; or
 
-&emsp;(2) issue for not more than five years an expiring merchant mariner's document issuedfor an individual under chapter 73 for the exclusive purpose of aligning the expiration date of such merchant mariner's document with the expiration date of a merchant mariner's document.
+&emsp;(2) issue for not more than five years an expiring merchant mariner's document issued for an individual under chapter 73 for the exclusive purpose of aligning the expiration date of such merchant mariner's document with the expiration date of a merchant mariner's document.
 
 (c)
 

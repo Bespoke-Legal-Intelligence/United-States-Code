@@ -2,7 +2,7 @@
 
 #### (a) Imposition and rate of tax
 
-There is hereby imposed on taxable tires sold by the manufacturer, producer, or importer thereof a tax at the rate of 9.45 cents (4.725 cents in the case of a biasply tire or super single tire) for each 10 pounds so much of the maximum rated load capacity thereof as exceeds 3,500 pounds.
+There is hereby imposed on taxable tires sold by the manufacturer, producer, or importerthereof a tax at the rate of 9.45 cents (4.725 cents in the case of a biasply tire or super single tire) for each 10 pounds so much of the maximum rated load capacity thereof as exceeds 3,500 pounds.
 
 #### (b) Special rule for manufacturers who sell at retail
 
@@ -54,7 +54,7 @@ Subsec. (e). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c).
 
 Subsec. (c). Pub. L. 98–369, §735(c)(2)(B), substituted "on total weight exclusive" for "on total weight, except that in the case of tires such total weight shall be exclusive".
 
-Subsec. (e). Pub. L. 98–369, §735(c)(2)(C), struck out "or inner tubes (other than bicycle tires and inner tubes)" after "equipped with tires" in provisions preceding par. (1), struck out "and inner tubes" before "with which such article is equipped" in pars. (1) and\(2), and substituted "sale of an automobile bus chassis or an automobile bus body" for "sale of an article if a tax on such sale is imposed under section 4061 or if such article is an automobile bus chassis or an automobile bus body" in provisions following par. (2).
+Subsec. (e). Pub. L. 98–369, §735(c)(2)(C), struck out "or inner tubes (other than bicycle tires and inner tubes)" after "equipped with tires" in provisions preceding par. (1), struck out "and inner tubes" before "with which such article is equipped" in pars. (1) and (2), and substituted "sale of an automobile bus chassis or an automobile bus body" for "sale of an article if a tax on such sale is imposed under section 4061 or if such article is an automobile bus chassis or an automobile bus body" in provisions following par. (2).
 
 Subsec. (f). Pub. L. 98–369, §735(c)(2)(D), struck out subsec. (f) which related to imported recapped or retreaded United States tires.
 
@@ -70,7 +70,7 @@ Subsec. (f). Pub. L. 98–369, §735(c)(2)(D), struck out subsec. (f) which rela
 
 &emsp;"(5) Laminated tires (not of the type used on highway vehicles) which consist wholly of scrap rubber from used tire casings with an internal metal fastening agent, 1 cent a pound."
 
-Subsec. (d). Pub. L. 97–424, §516(a)(2), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by subsec. (a) shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by subsec. (a)(1) would be 4.875 cents a pound, that by subsec. (a)(3) would be 9 cents a pound, and that subsec. (a)(4) would not apply.
+Subsec. (d). Pub. L. 97–424, §516(a)(2), substituted provision that, on and after Oct. 1, 1988, the taxes imposedby subsec. (a) shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by subsec. (a)(1) would be 4.875 cents a pound, that by subsec. (a)(3) would be 9 cents a pound, and that subsec. (a)(4) would not apply.
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–596, §4(a)(1)(A), substituted "9.75 cents" for "10 cents".
 
@@ -110,17 +110,17 @@ Subsec. (a)(5). Pub. L. 86–440, §1(a)(2), added par. (5).
 
 #### Effective and Termination Dates of 2012 Amendment
 
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 4041 of this title.
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 4041 of this title.
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 4041 of this title.
 
 #### Effective Date of 2004 Amendment
 

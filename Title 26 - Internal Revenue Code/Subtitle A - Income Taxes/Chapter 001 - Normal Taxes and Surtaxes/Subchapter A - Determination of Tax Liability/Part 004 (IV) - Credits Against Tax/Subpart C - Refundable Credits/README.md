@@ -8,7 +8,7 @@ Subpart C—Refundable Credits
 | [34\.](%C2%A7%2000034%20-%20Certain%20uses%20of%20gasoline%20and%20special%20fuels.md) | Certain uses of gasoline and special fuels. |
 | [35\.](%C2%A7%2000035%20-%20Health%20insurance%20costs%20of%20eligible%20individuals.md) | Health insurance costs of eligible individuals. |
 | [36\.](%C2%A7%2000036%20-%20First-time%20homebuyer%20credit.md) | First-time homebuyer credit. |
-| [36A.](%C2%A7%2000036A%20-%20Making%20work%20pay%20credit.md) | Making work pay credit. |
+| \[36A. | Repealed.\] |
 | [36B.](%C2%A7%2000036B%20-%20Refundable%20credit%20for%20coverage%20under%20a%20qualified%20health%20plan.md) | Refundable credit for coverage under a qualified health plan. |
 | \[36C. | Renumbered.\] |
 | [37\.](%C2%A7%2000037%20-%20Overpayments%20of%20tax.md) | Overpayments of tax. |
@@ -16,6 +16,8 @@ Subpart C—Refundable Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037, struck out item 36A "Making work pay credit".
 
 <b>2010</b>—Pub. L. 111–148, title X, §10909(b)(2)(Q), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily added item 36C "Adoption expenses". See Effective and Termination Dates of 2010 Amendment note set out under section 1 of this title.
 
@@ -40,7 +42,7 @@ Pub. L. 111–148, title I, §1401(d)(2), Mar. 23, 2010, 124 Stat. 220, added it
 - [&sect; 00034 - Certain uses of gasoline and special fuels](%C2%A7%2000034%20-%20Certain%20uses%20of%20gasoline%20and%20special%20fuels.md)
 - [&sect; 00035 - Health insurance costs of eligible individuals](%C2%A7%2000035%20-%20Health%20insurance%20costs%20of%20eligible%20individuals.md)
 - [&sect; 00036 - First-time homebuyer credit](%C2%A7%2000036%20-%20First-time%20homebuyer%20credit.md)
-- [&sect; 00036A - Making work pay credit](%C2%A7%2000036A%20-%20Making%20work%20pay%20credit.md)
+- [&sect; 00036A - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037](%C2%A7%2000036A%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%285%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204037.md)
 - [&sect; 00036B - Refundable credit for coverage under a qualified health plan](%C2%A7%2000036B%20-%20Refundable%20credit%20for%20coverage%20under%20a%20qualified%20health%20plan.md)
 - [&sect; 00036C - Renumbered &sect;23](%C2%A7%2000036C%20-%20Renumbered%20%C2%A723.md)
 - [&sect; 00037 - Overpayments of tax](%C2%A7%2000037%20-%20Overpayments%20of%20tax.md)

@@ -26,7 +26,7 @@ Notwithstanding any other provision of this Act, an individual who is eligible t
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended, known as the “Personal Responsibility and Work Opportunity Reconciliation Act of 1996”. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended, known as the "Personal Responsibility and Work Opportunity Reconciliation Act of 1996". For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsecs. (a) and (b)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -42,5 +42,5 @@ Section was enacted as part of title VII of the Personal Responsibility and Work
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” in section catchline and in two places in text.
+<b>1999</b>—Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act" in section catchline and in two places in text.
 

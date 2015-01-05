@@ -54,7 +54,7 @@ Report.—Not later than February 1, 2000, the Secretary shall submit to the Com
 
 #### Laboratory Funding Plan
 
-Pub. L. 106–60, title III, §310, Sept. 29, 1999, 113 Stat. 496, which provided that no funds in an Energy andWater Development Appropriations Act were to be expended after December 31 of each year under certain contracts unless the funds were expended pursuant to a Laboratory Funding Plan approved by the Secretary of Energy, and which also provided for directives, approval, and exceptions by the Secretary, was repealed by Pub. L. 108–7, div. D, title III, §310, Feb. 20, 2003, 117 Stat. 155.
+Pub. L. 106–60, title III, §310, Sept. 29, 1999, 113 Stat. 496, which provided that no funds in an Energy and Water Development Appropriations Act were to be expended after December 31 of each year under certain contracts unless the funds were expended pursuant to a Laboratory Funding Plan approved by the Secretary of Energy, and which also provided for directives, approval, and exceptions by the Secretary, was repealed by Pub. L. 108–7, div. D, title III, §310, Feb. 20, 2003, 117 Stat. 155.
 
 #### Termination or Changes in Activities of Government-Owned and Contractor-Operated Facilities, National Laboratories, Etc.; Reports by Secretary of Energy Concerning Proposals Prior to Implementation; Contents; Submission Date
 

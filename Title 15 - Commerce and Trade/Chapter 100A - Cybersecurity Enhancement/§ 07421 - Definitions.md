@@ -1,0 +1,22 @@
+### §7421. Definitions
+
+In this chapter:
+
+#### (1) Cybersecurity mission
+
+&emsp;The term "cybersecurity mission" means activities that encompass the full range of threat reduction, vulnerability reduction, deterrence, international engagement, incident response, resiliency, and recovery policies and activities, including computer network operations, information assurance, law enforcement, diplomacy, military, and intelligence missions as such activities relate to the security and stability of cyberspace.
+
+#### (2) Information system
+
+&emsp;The term "information system" has the meaning given that term in section 3502 of title 44.
+
+(Pub. L. 113–274, §2, Dec. 18, 2014, 128 Stat. 2971.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2971, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title
+
+Pub. L. 113–274, §1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: "This Act \[enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of this title\] may be cited as the 'Cybersecurity Enhancement Act of 2014'."
+

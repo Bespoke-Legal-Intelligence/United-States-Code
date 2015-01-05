@@ -44,7 +44,7 @@ Subsec. (a). Pub. L. 109–364, §593(a)(1), substituted "Chief of the Dental Co
 
 Subsec. (b). Pub. L. 109–364, §593(a)(2), substituted "Dental Corps" for "Dental Division".
 
-Subsec. (c). Pub. L. 109–364, §593(c), substituted "shall be defined" for "shall be so defined" and "so that all such functions are" for "that all such functions will be".
+Subsec. (c). Pub. L. 109–364, §593(c), substituted "shall be defined" for "shall be so defined" and "so that allsuch functions are" for "that all such functions will be".
 
 Pub. L. 109–364, §593(a)(3), substituted "Dental Corps" for "Dental Division" in first sentence and "the Chief of the Dental Corps" for "that Division" in second sentence.
 

@@ -16,7 +16,7 @@ R.S. §5199 derived from act June 3, 1864, ch. 106, §33, 13 Stat. 109, which wa
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–351 amended section generally. Prior to amendment, section related to periodic declarationsof dividends subject to certain surplus fund requirements and to the approval of the Comptroller of the Currency in certain situations.
+<b>2006</b>—Pub. L. 109–351 amended section generally. Prior to amendment, section related to periodic declarations of dividends subject to certain surplus fund requirements and to the approval of the Comptroller of the Currency in certain situations.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–325, §602(h)(2)(A), (B), substituted "undivided profits of the association, subject to the limitations in subsection (b) of this section," for "net profits of the association" in first sentence and "net income" for "net profits" wherever subsequently appearing.
 

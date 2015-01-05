@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) 95 percent or more of the proceeds devoted to owner-financing was devoted to residences with respect to which (at the time the mortgages were executed) all such requirements were met, and
 
-&emsp;&emsp;&emsp;(iii) any failure to meet the requirements of such subsections is correctedwithin a reasonable period after such failure is first discovered.
+&emsp;&emsp;&emsp;(iii) any failure to meet the requirements of such subsections is corrected within a reasonable period after such failure is first discovered.
 
 #### (C) Good faith effort to comply with other requirements
 
@@ -254,7 +254,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 &emsp;&emsp;&emsp;&emsp;(I) any expected rebate of arbitrage profits, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any application fee, survey fee, credit report fee, insurance charge, or similar amount to the extent such amount does not exceed amounts charged in such area in cases where owner-financing is not provided through the use of qualified mortgage bonds or qualified veterans' mortgage bonds.
+&emsp;&emsp;&emsp;&emsp;(II) any application fee, survey fee, credit report fee, insurance charge, orsimilar amount to the extent such amount does not exceed amounts charged in such area in cases where owner-financing is not provided through the use of qualified mortgage bonds or qualified veterans' mortgage bonds.
 
 &emsp;&emsp;&nbsp;Subclause (II) shall not apply to origination fees, points, or similar amounts.
 
@@ -304,7 +304,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (ii) Unused paragraph (2) amount
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the unused paragraph (2) amount is the amount which\(if it were treated as an interest payment made by mortgagors) would result in the excess referred to in paragraph (2)(A) being equal to 1.125 percentage points. Such amount shall be fixed and determined as of the yield determination date.
+&emsp;&emsp;&emsp;For purposes of clause (i), the unused paragraph (2) amount is the amount which (if it were treated as an interest payment made by mortgagors) would result in the excess referred to in paragraph (2)(A) being equal to 1.125 percentage points. Such amount shall be fixed and determined as of the yield determination date.
 
 #### (D) Election to pay United States
 
@@ -338,7 +338,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (A) In general
 
-&emsp;&emsp;An issue meets the requirements of this subsection only if no part of the proceeds of such issue is used to acquire or replace existing mortgages.
+&emsp;&emsp;An issue meets the requirements of this subsection only if no part of the proceeds ofsuch issue is used to acquire or replace existing mortgages.
 
 #### (B) Exceptions
 
@@ -446,7 +446,7 @@ For purposes of this section—
 
 #### (D) Designation where no county
 
-&emsp;&emsp;In the case of any portion of a State which is not within a county, subparagraphs (A)(ii) and (C) shall be applied by substituting for "county" an area designated by the Secretary which is the equivalent of a county.
+&emsp;&emsp;In the case of any portion of a State which is not within a county, subparagraphs (A)(ii)and (C) shall be applied by substituting for "county" an area designated by the Secretary which is the equivalent of a county.
 
 #### (3) Acquisition cost
 
@@ -504,7 +504,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the expenditures for such rehabilitation are 25 percent or more of the mortgagor's adjusted basis in the residence.
 
-> &emsp;&emsp;For purposes of clause (iii), the mortgagor's adjusted basis shall be determined as of thecompletion of the rehabilitation or, if later, the date on which the mortgagor acquires the residence.
+> &emsp;&emsp;For purposes of clause (iii), the mortgagor's adjusted basis shall be determined as of the completion of the rehabilitation or, if later, the date on which the mortgagor acquires the residence.
 
 #### (6) Determinations on actuarial basis
 
@@ -610,7 +610,7 @@ For purposes of this section—
 
 > &emsp;The preceding sentence shall apply only with respect to bonds issued after May 1, 2008, and before January 1, 2010.
 
-#### (12) <sup>1</sup> Special rules for subprime refinancings
+#### (12) Special rules for subprime refinancings
 
 #### (A) In general
 
@@ -634,7 +634,7 @@ For purposes of this section—
 
 &emsp;&emsp;This paragraph shall not apply to any bonds issued after December 31, 2010.
 
-#### (12) <sup>1</sup> Special rules for residences destroyed in federally declared disasters
+#### (13) Special rules for residences destroyed in federally declared disasters
 
 #### (A) Principal residence destroyed
 
@@ -662,7 +662,7 @@ For purposes of this section—
 
 #### (C) Federally declared disaster
 
-&emsp;&emsp;For purposes of this paragraph, the term "federally declared disaster" has the meaning given such term by section 165(h)(3)(C)(i).
+&emsp;&emsp;For purposes of this paragraph, the term "federally declared disaster" has the meaning given such term by section 165(h)(3)(C)(i).<sup>1</sup>
 
 #### (D) Election; denial of double benefit
 
@@ -700,7 +700,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) in such period for which the amount of such bonds so issued was the lowest), divided by
 
-&emsp;&emsp;&emsp;&emsp;(II) the number (not to exceed 5) of calendar years after 1979 and before 1985 during which the State issued qualified veterans bonds (determined by only taking into account bonds issued on or before June 22, 1984).
+&emsp;&emsp;&emsp;&emsp;(II) the number (not to exceed 5) of calendar years after 1979 and before 1985during which the State issued qualified veterans bonds (determined by only taking into account bonds issued on or before June 22, 1984).
 
 #### (ii) Alaska, Oregon, and Wisconsin
 
@@ -718,12 +718,12 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &nbsp;
 
-| <b>    For Calendar Year:</b> | <b>Applicable percentage is:</b> |
-| :--- | ---: |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 percent&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40 percent&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60 percent&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;2009 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80 percent. |
+| &nbsp; | <b>For Calendar Year:</b> | <b>Applicable percentage is:</b> |
+| :--- | :---: | ---: |
+| &nbsp; | 2006 | 20 percent&nbsp;&nbsp; |
+| &nbsp; | 2007 | 40 percent&nbsp;&nbsp; |
+| &nbsp; | 2008 | 60 percent&nbsp;&nbsp; |
+| &nbsp; | 2009 | &nbsp;80 percent. |
 
 #### (C) Treatment of refunding issues
 
@@ -765,7 +765,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (1) In general
 
-&emsp;If, during the taxable year, any taxpayer disposes of an interest in a residence with respectto which there is or was any federally-subsidized indebtedness for the payment of which the taxpayer was liable in whole or part, then the taxpayer's tax imposed by this chapter for such taxable year shall be increased by the lesser of—
+&emsp;If, during the taxable year, any taxpayer disposes of an interest in a residence with respect to which there is or was any federally-subsidized indebtedness for the payment of which the taxpayer was liable in whole or part, then the taxpayer's tax imposed by this chapter for such taxable year shall be increased by the lesser of—
 
 &emsp;&emsp;(A) the recapture amount with respect to such indebtedness, or
 
@@ -819,55 +819,19 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;The term "holding period percentage" means the percentage determined in accordance with the following table:
 
-<b>If the disposition occurs</b>
-
 &nbsp;
 
-<b>  during a year after the</b>
-
-<b>The holding period</b>
-
-<b>  testing date which is:</b>
-
-<b>percentage is:</b>
-
-&nbsp;&nbsp;The 1st such year
-
-20&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;The 2d such year
-
-40&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;The 3d such year
-
-60&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;The 4th such year
-
-80&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;The 5th such year
-
-100&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;The 6th such year
-
-80&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;The 7th such year
-
-60&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;The 8th such year
-
-40&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;The 9th such year
-
-20\.&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp; | <b>If the disposition occurs during a year after the testing date which is:</b> | <b>The holding period percentage is:</b> |
+| :--- | :---: | ---: |
+| &nbsp; | The 1st such year | 20 |
+| &nbsp; | The 2d such year | 40 |
+| &nbsp; | The 3d such year | 60 |
+| &nbsp; | The 4th such year | 80 |
+| &nbsp; | The 5th such year | 100 |
+| &nbsp; | The 6th such year | 80 |
+| &nbsp; | The 7th such year | 60 |
+| &nbsp; | The 8th such year | 40 |
+| &nbsp; | The 9th such year | 20\. |
 
 #### (ii) Retirements of indebtedness
 
@@ -911,7 +875,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;For purposes of paragraph (4), the term "modified adjusted gross income" means adjusted gross income—
 
-&emsp;&emsp;&emsp;(i) increased by the amount of interest received or accrued by the taxpayer duringthe taxable year which is excluded from gross income under section 103, and
+&emsp;&emsp;&emsp;(i) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is excluded from gross income under section 103, and
 
 &emsp;&emsp;&emsp;(ii) decreased by the amount of gain (if any) included in gross income of the taxpayer by reason of the disposition to which this subsection applies.
 
@@ -959,7 +923,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this subsection, including regulations dealing with dispositions of partial interests in a residence.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2610; amended Pub. L. 100–647, title I, §1013(a)(2), (3), title IV, §4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, 102 Stat. 3537, 3645–3651; Pub. L. 101–239, title VII, §7104(a), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(a), (c), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(a), (c)–(e), Aug. 10, 1993, 107 Stat. 436, 437; Pub. L. 104–188, title I, §§1702(d)(2), 1703(n)(3), Aug. 20, 1996, 110 Stat. 1870, 1877; Pub. L. 105–34, title III, §312(d)(1), (3), title IX, §914, Aug. 5, 1997, 111 Stat. 839, 840, 878; Pub. L. 109–222, title II, §203(a)(1), (b)(1), May 17, 2006, 120 Stat. 348, 349; Pub. L. 109–432, div. A, title IV, §§411(a), 416(a), Dec. 20, 2006, 120 Stat. 2963, 2965; Pub. L. 110–245, title I, §103(a)–(c), June 17, 2008, 122 Stat. 1625; Pub. L. 110–289, div. C, title I, §§3021(b)(1), 3026(a), July 30, 2008, 122 Stat. 2893, 2897; Pub. L. 110–343, div. C, title VII, §709(a), Oct. 3, 2008, 122 Stat. 3925.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2610; amended Pub. L. 100–647, title I, §1013(a)(2), (3), title IV, §4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, 102 Stat. 3537, 3645–3651; Pub. L. 101–239, title VII, §7104(a), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(a), (c), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(a), (c)–(e), Aug. 10, 1993, 107 Stat. 436, 437; Pub. L. 104–188, title I, §§1702(d)(2), 1703(n)(3), Aug. 20, 1996, 110 Stat. 1870, 1877; Pub. L. 105–34, title III, §312(d)(1), (3), title IX, §914, Aug. 5, 1997, 111 Stat. 839, 840, 878; Pub. L. 109–222, title II, §203(a)(1), (b)(1), May 17, 2006, 120 Stat. 348, 349; Pub. L. 109–432, div. A, title IV, §§411(a), 416(a), Dec. 20, 2006, 120 Stat. 2963, 2965; Pub. L. 110–245, title I, §103(a)–(c), June 17, 2008, 122 Stat. 1625; Pub. L. 110–289, div. C, title I, §§3021(b)(1), 3026(a), July 30, 2008, 122 Stat. 2893, 2897; Pub. L. 110–343, div. C, title VII, §709(a), Oct. 3, 2008, 122 Stat. 3925; Pub. L. 113–295, div. A, title II, §211(c)(2), Dec. 19, 2014, 128 Stat. 4033.)
 
 #### References in Text
 
@@ -969,17 +933,21 @@ Section 8 of the United States Housing Act of 1937, referred to in subsec. (f)(2
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (k)(11), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as in effect on the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997. The Act is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
+Par. (3) of section 165(h), referred to in subsec. (k)(13)(C), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(27)(A), Dec. 19, 2014, 128 Stat. 4040. However, the term "federally declared disaster" is defined elsewhere in that section.
+
 The date of the enactment of this subsection, referred to in subsec. (l)(5)(B), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 Section 1034(e) (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997), referred to in subsec. (m)(6)(A), means section 1034(e) of this title as in effect on the day before the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, §312(b), Aug. 5, 1997, 111 Stat. 839.
 
 #### Prior Provisions
 
-A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(b),83 Stat. 677; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(22), 90 Stat. 1767; May 23, 1977, Pub. L. 95–30, title I, §101(d)(4), 91 Stat. 133; July 18, 1984, Pub. L. 98–369, div. A, title IV, §423(c)(1), 98 Stat. 800, related to determination of marital status, prior to the general revision of this part by Pub. L. 99–514. See section 7703 of this title.
+A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(b), 83 Stat. 677; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(22), 90 Stat. 1767; May 23, 1977, Pub. L. 95–30, title I, §101(d)(4), 91 Stat. 133; July 18, 1984, Pub. L. 98–369, div. A, title IV, §423(c)(1), 98 Stat. 800, related to determination of marital status, prior to the general revision of this part by Pub. L. 99–514. See section 7703 of this title.
 
 Provisions similar to this section were contained in section 103A of this title prior to repeal by Pub. L. 99–514.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (k)(12), (13). Pub. L. 113–295 redesignated par. (12), relating to special rules for residences destroyed in federally declared disasters, as (13).
 
 <b>2008</b>—Subsec. (d)(2)(D). Pub. L. 110–245, §103(a), struck out "and before January 1, 2008" after "enactment of this subparagraph".
 
@@ -1009,7 +977,7 @@ Subsec. (m)(6)(A). Pub. L. 105–34, §312(d)(3), inserted "(as in effect on the
 
 <b>1996</b>—Subsec. (d)(2)(C). Pub. L. 104–188, §1703(n)(3), substituted "thereon," for "thereon.".
 
-Subsec. (m)(4)(C)(ii). Pub. L. 104–188, §1702(d)(2), substituted "any year of the 4-year period" for "any month of the 10-year period", "succeeding years" for "succeeding months", and "to zero over the succeeding 5 years" for "over the remainder of such period (or, if lesser, over 5 years)".
+Subsec. (m)(4)(C)(ii). Pub. L. 104–188, §1702(d)(2), substituted "any year of the 4-year period" for "any month of the 10-year period", "succeeding years" for "succeeding months", and "to zero over the succeeding5 years" for "over the remainder of such period (or, if lesser, over 5 years)".
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §13141(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
@@ -1101,9 +1069,13 @@ Subsec. (g)(2)(B)(iv). Pub. L. 100–647, §4005(g)(6), inserted at end "The Sec
 
 Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165, 168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
+
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title VII, §709(b), Oct. 3, 2008, 122 Stat. 3926, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 2007."
+Pub. L. 110–343, div. C, title VII, §709(b), Oct. 3, 2008, 122 Stat. 3926, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 2007."
 
 Pub. L. 110–289, div. C, title I, §3021(c), July 30, 2008, 122 Stat. 2893, provided that: "The amendments made by this section \[amending this section and section 146 of this title\] shall apply to bonds issued after the date of the enactment of this Act \[July 30, 2008\]."
 
@@ -1167,7 +1139,7 @@ Pub. L. 100–647, title IV, §4005(h), Nov. 10, 1988, 102 Stat. 3651, provided 
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and sections 25, 26, 148, 6045, and 6654 of this title\] shall apply to bonds issued, and nonissued bond amounts elected, after December 31, 1988.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 25, 26, 148, 6045, and 6654 of this title\] shall apply to bonds issued, and nonissued bond amounts elected, after December 31, 1988.
 
 "(2)
 
@@ -1205,5 +1177,5 @@ Pub. L. 100–647, title I, §1013(a)(27), Nov. 10, 1988, 102 Stat. 3543, provid
 
 Pub. L. 100–647, title IV, §4005(i), Nov. 10, 1988, 102 Stat. 3651, provided that: "The Comptroller General of the United States shall conduct a study of section 143(m) of the 1986 Code (as added by this section) and of alternatives to accomplish the purposes of such section. A report of such study shall be submitted not later than July 1, 1990, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate."
 
-<i><sup>1</sup></i><i> So in original. Two pars. (12) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

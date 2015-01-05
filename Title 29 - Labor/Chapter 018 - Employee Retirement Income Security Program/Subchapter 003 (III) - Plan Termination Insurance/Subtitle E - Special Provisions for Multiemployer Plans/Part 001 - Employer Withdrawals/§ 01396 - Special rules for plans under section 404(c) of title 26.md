@@ -12,7 +12,7 @@ In the case of a plan described in subsection (b) of this section—
 
 &emsp;&emsp;&emsp;(i) the number of contribution base units for which the employer would have been required to make contributions for the prior plan year if the employer had not withdrawn, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the contribution rate for the plan year which would be required to meet the amortization schedules contained in section 1423(d)(3)(B)(ii) of this title (determined without regard to any limitation on such rate otherwise provided by this subchapter)
+&emsp;&emsp;&emsp;(ii) the contribution rate for the plan year which would be required to meet the amortization schedules contained in section 1423(d)(3)(B)(ii) <sup>1</sup> of this title (determined without regard to any limitation on such rate otherwise provided by this subchapter)
 
 > &emsp;except that an employer shall not be required to pay an amount in excess of the withdrawal liability computed with interest; and
 
@@ -22,7 +22,7 @@ In the case of a plan described in subsection (b) of this section—
 
 &emsp;&emsp;(B) at least 50 percent of the withdrawal liability attributable to the first 33 percent decline described in subparagraph (A) has been determined by the plan sponsor to be uncollectible within the meaning of regulations of the corporation of general applicability; and
 
-&emsp;&emsp;(C) the rate of employer contributions under the plan for each plan year following the first plan year beginning after September 26, 1980 and preceding the termination date equals or exceeds the rate described in section 1423(d)(3) of this title.
+&emsp;&emsp;(C) the rate of employer contributions under the plan for each plan year following the first plan year beginning after September 26, 1980 and preceding the termination date equals or exceeds the rate described in section 1423(d)(3) <sup>1</sup> of this title.
 
 #### (b) Covered plans
 
@@ -47,4 +47,10 @@ A plan is described in this subsection if—
 (2) For purposes of paragraph (1), the term "a year of signatory service" means a year during any portion of which a participant was employed for an employer who was obligated to contribute in that year, or who was subsequently obligated to contribute.
 
 (Pub. L. 93–406, title IV, §4216, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1234.)
+
+#### References in Text
+
+Section 1423 of this title, referred to in subsec. (a)(1)(B)(ii), (2)(C), was repealed by Pub. L. 113–235, div. O, title I, §108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

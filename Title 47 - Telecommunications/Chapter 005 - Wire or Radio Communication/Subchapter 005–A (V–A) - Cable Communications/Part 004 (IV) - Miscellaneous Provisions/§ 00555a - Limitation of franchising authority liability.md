@@ -10,11 +10,11 @@ The limitation contained in subsection (a) of this section shall not apply to ac
 
 #### (c) Discrimination claims permitted
 
-Nothing in this section shall be construed as limiting the relief authorized with respect to any claim against a franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity, to the extent such claim involves discrimination on the basis of race, color, sex, age, religion, national origin, or handicap.
+Nothing in this section shall be construed as limiting the relief authorized with respect toany claim against a franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity, to the extent such claim involves discrimination on the basis of race, color, sex, age, religion, national origin, or handicap.
 
 #### (d) Rule of construction
 
-Nothing in this section shall be construed as creating or authorizing liability of any kind, under any law, for any action or failure to act relating to cable service or the granting of afranchise by any franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity.
+Nothing in this section shall be construed as creating or authorizing liability of any kind, under any law, for any action or failure to act relating to cable service or the granting of a franchise by any franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity.
 
 (June 19, 1934, ch. 652, title VI, §635A, as added Pub. L. 102–385, §24(a), Oct. 5, 1992, 106 Stat. 1500.)
 

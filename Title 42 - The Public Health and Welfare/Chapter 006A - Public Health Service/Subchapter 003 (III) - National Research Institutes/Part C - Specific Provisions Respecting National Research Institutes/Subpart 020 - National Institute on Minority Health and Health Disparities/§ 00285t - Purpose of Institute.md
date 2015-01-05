@@ -30,11 +30,11 @@ For purposes of this subpart:
 
 For purposes of this subpart:
 
-&emsp;(1) A population is a health disparity population if, as determined by the Director of the Institute after consultation with the Director of the Agency for Healthcare Research and Quality, there is a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates in the population as compared to the health status of the general population.
+&emsp;(1) A population is a health disparity population if, as determined by the Director of the Institute after consultation with the Director of the Agency for Healthcare Research and Quality, there is a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates in thepopulation as compared to the health status of the general population.
 
 &emsp;(2) The Director shall give priority consideration to determining whether minority groups qualify as health disparity populations under paragraph (1).
 
-&emsp;(3) The term "health disparities research" means basic, clinical, and behavioral research on health disparity populations (including individual members and communities of such populations) that relates to health disparitiesas defined under paragraph (1), including the causes of such disparities and methods to prevent, diagnose, and treat such disparities.
+&emsp;(3) The term "health disparities research" means basic, clinical, and behavioral research on health disparity populations (including individual members and communities of such populations) that relates to health disparities as defined under paragraph (1), including the causes of such disparities and methods to prevent, diagnose, and treat such disparities.
 
 #### (e) Coordination of activities
 
@@ -174,7 +174,7 @@ Subsecs. (i), (j). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted "Instit
 
 &emsp;"(4) contain such recommendations as the Director considers appropriate."
 
-Subsec. (l). Pub. L. 109–482, §103(b)(44), struck out heading and text of subsec. (l). Text read as follows: "For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations ofappropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health."
+Subsec. (l). Pub. L. 109–482, §103(b)(44), struck out heading and text of subsec. (l). Text read as follows: "For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health."
 
 #### Effective Date of 2007 Amendment
 

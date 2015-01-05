@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to establish a Community Health Center Fund (referred to in this section as the "CHC Fund"), to be administered through the Office of the Secretary of the Department of Health and Human Services toprovide for expanded and sustained national investment in community health centers under section 254b of this title and the National Health Service Corps.
+It is the purpose of this section to establish a Community Health Center Fund (referred to in this section as the "CHC Fund"), to be administered through the Office of the Secretary of the Department of Health and Human Services to provide for expanded and sustained national investment in community health centers under section 254b of this title and the National Health Service Corps.
 
 #### (b) Funding
 

@@ -44,7 +44,7 @@ In the case of natural resource damages under section 2702(b)(2)(A) of this titl
 
 &emsp;&emsp;(B) may, upon request of and reimbursement from a State or Indian tribe and at the Federal officials' discretion, assess damages for the natural resources under the State's or tribe's trusteeship; and
 
-&emsp;&emsp;(C) shall develop and implement a plan for the restoration, rehabilitation, replacement,or acquisition of the equivalent, of the natural resources under their trusteeship.
+&emsp;&emsp;(C) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
 
 #### (2) State trustees
 
@@ -60,7 +60,7 @@ In the case of natural resource damages under section 2702(b)(2)(A) of this titl
 
 &emsp;&emsp;(A) shall assess natural resource damages under section 2702(b)(2)(A) of this title for the purposes of this Act for the natural resources under their trusteeship; and
 
-&emsp;&emsp;(B) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
+&emsp;&emsp;(B) shall develop and implement a plan for the restoration, rehabilitation, replacement,or acquisition of the equivalent, of the natural resources under their trusteeship.
 
 #### (4) Foreign trustees
 
@@ -128,7 +128,7 @@ Pub. L. 102–567, title II, §205, Oct. 29, 1992, 106 Stat. 4282, provided that
 
 "(a)
 
-Treatment of Amounts Received as Reimbursement of Expenses.—Notwithstanding any otherprovision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—
+Treatment of Amounts Received as Reimbursement of Expenses.—Notwithstanding any other provision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—
 
 &emsp;"(1) shall be deposited into the Fund;
 

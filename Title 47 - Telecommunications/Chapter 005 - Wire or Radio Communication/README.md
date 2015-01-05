@@ -371,6 +371,7 @@
 | [619\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000619%20-%20Internet%20browsers%20built%20into%20telephones%20used%20with%20public%20mobile%20services.md) | Internet browsers built into telephones used with public mobile services. |
 | [620\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000620%20-%20Relay%20services%20for%20deaf-blind%20individuals.md) | Relay services for deaf-blind individuals. |
 | [621\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000621%20-%20Rulemaking%20on%20loud%20commercials%20required.md) | Rulemaking on loud commercials required. |
+| [622\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000622%20-%20Optional%20electronic%20labeling%20of%20communications%20equipment.md) | Optional electronic labeling of communications equipment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

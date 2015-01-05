@@ -108,7 +108,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (1) Jurisdiction
 
-&emsp;The United States district court for the district within which the person to be summoned resides or is found shall have jurisdiction tohear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
+&emsp;The United States district court for the district within which the person to be summoned resides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
 
 #### (2) Special rule for proceedings under subsections (f) and (g)
 
@@ -254,7 +254,7 @@ Pub. L. 95–599 substituted "6427(g)(2)" for "6427(e)(2)".
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–135, title IV, §408(b), Dec. 21, 2005, 119 Stat. 2635, provided that: "The amendments made by thissection \[amending this section\] shall take effect as if included in section 3415 of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
+Pub. L. 109–135, title IV, §408(b), Dec. 21, 2005, 119 Stat. 2635, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in section 3415 of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
 
 #### Effective Date of 1998 Amendment
 

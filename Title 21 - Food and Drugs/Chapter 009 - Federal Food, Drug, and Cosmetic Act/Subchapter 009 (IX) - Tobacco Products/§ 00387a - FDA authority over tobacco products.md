@@ -22,7 +22,7 @@ This subchapter shall apply to all cigarettes, cigarette tobacco, roll-your-own 
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), if a producer of tobacco leaf is also a tobacco product manufacturer or controlled by a tobacco product manufacturer, the producer shall be subject to this subchapter in the producer's capacity as a manufacturer. The exception in this subparagraph shall not apply to a producer of tobacco leaf who grows tobacco under a contract with a tobacco product manufacturer and who is not otherwise engaged in the manufacturing process.
+&emsp;&emsp;Notwithstanding subparagraph (A), if a producer of tobacco leaf is also a tobaccoproduct manufacturer or controlled by a tobacco product manufacturer, the producer shall be subject to this subchapter in the producer's capacity as a manufacturer. The exception in this subparagraph shall not apply to a producer of tobacco leaf who grows tobacco under a contract with a tobacco product manufacturer and who is not otherwise engaged in the manufacturing process.
 
 #### (C) Rule of construction
 

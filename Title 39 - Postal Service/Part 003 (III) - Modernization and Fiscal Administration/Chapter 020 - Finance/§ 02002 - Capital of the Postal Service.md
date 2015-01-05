@@ -4,7 +4,7 @@
 
 &emsp;(1) Assets shall be valued on the basis of original cost less depreciation, to the extent that such value can be determined. The value recorded on the former Post Office Department's books of account shall be prima facie evidence of asset value.
 
-&emsp;(2) All liabilities attributable to operations of the former Post Office Department shall remain liabilities of the Government of the United States, except that upon commencement of operations of the Postal Service, the unexpended balances of appropriations made to, held or used by, or available to the former Post Office Department and all liabilitieschargeable thereto shall become assets and liabilities, respectively, of the Postal Service.
+&emsp;(2) All liabilities attributable to operations of the former Post Office Department shall remain liabilities of the Government of the United States, except that upon commencement of operations of the Postal Service, the unexpended balances of appropriations made to, held or used by, or available to the former Post Office Department and all liabilities chargeable thereto shall become assets and liabilities, respectively, of the Postal Service.
 
 (b) The capital of the Postal Service at any time shall consist of its assets, including the balance in the Fund and the balance in the Competitive Products Fund, less its liabilities.
 
@@ -52,7 +52,7 @@ Sec. 2. Property transferred to the Postal Service under this order shall be sub
 
 Sec. 3. Reimbursement of fair market value required for property transfers to the Postal Service under this order may consist of cash payments or, subject to approval by the Director of the Office of Management and Budget, property transferred from the Postal Service to other departments, agencies, or independent establishments of the Government of the United States, or both cash and approved properties.
 
-Sec. 4. Heads of agencies furnishing property to the Postal Service under section 411 of title 39 of the United States Code shall require reimbursement at fair market value of such property or at a rate based on appropriate commercial charges for comparable property, as agreed to by the agency head and the Postmaster General, unless the Director of the Office of Management and Budget finds that a different basis of valuation is more equitable or better serves the public interest.
+Sec. 4. Heads of agencies furnishing property to the Postal Service under section 411 of title 39 of the United States Code shall require reimbursement at fairmarket value of such property or at a rate based on appropriate commercial charges for comparable property, as agreed to by the agency head and the Postmaster General, unless the Director of the Office of Management and Budget finds that a different basis of valuation is more equitable or better serves the public interest.
 
 Sec. 5. Delegations of authority made in this order may be redelegated.
 

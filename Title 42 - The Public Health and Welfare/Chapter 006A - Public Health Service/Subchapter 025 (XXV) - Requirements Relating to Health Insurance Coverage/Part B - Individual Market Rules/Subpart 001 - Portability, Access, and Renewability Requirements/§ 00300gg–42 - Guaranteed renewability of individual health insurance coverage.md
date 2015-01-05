@@ -38,7 +38,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 &emsp;&emsp;(B) the issuer offers to each individual in the individual market provided coverage of this type, the option to purchase any other individual health insurance coverage currently being offered by the issuer for individuals in such market; and
 
-&emsp;&emsp;(C) in exercising the option to discontinue coverage of this type and in offering the option of coverage under subparagraph (B), the issuer acts uniformly without regard to anyhealth status-related factor of enrolled individuals or individuals who may become eligible for such coverage.
+&emsp;&emsp;(C) in exercising the option to discontinue coverage of this type and in offering the option of coverage under subparagraph (B), the issuer acts uniformly without regard to any health status-related factor of enrolled individuals or individuals who may become eligible for such coverage.
 
 #### (2) Discontinuance of all coverage
 

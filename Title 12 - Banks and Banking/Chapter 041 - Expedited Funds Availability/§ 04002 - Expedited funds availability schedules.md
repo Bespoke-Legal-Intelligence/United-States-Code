@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) funds are received by a depository institution by wire transfer for deposit in an account at such institution,
 
-> &emsp;such cash or funds shall be available for withdrawal not later than the business day after the business day on which such cash is deposited or such funds are received for deposit.
+> &emsp;such cash or funds shall be available for withdrawal not later than the business day afterthe business day on which such cash is deposited or such funds are received for deposit.
 
 #### (2) Government checks; certain other checks
 
@@ -120,7 +120,7 @@
 
 #### (2) Extension for certain deposits in noncontiguous States or territories
 
-&emsp;Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) of this section shall be extendedby 1 business day in the case of any deposit which is both—
+&emsp;Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) of this section shall be extended by 1 business day in the case of any deposit which is both—
 
 &emsp;&emsp;(A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
 

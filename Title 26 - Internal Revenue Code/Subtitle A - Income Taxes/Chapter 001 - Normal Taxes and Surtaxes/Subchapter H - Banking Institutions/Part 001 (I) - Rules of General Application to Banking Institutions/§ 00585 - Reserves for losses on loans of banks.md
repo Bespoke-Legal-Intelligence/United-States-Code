@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (c), a bank shall be allowed a deduction for a reasonable addition to a reserve for bad debts. Such deduction shall be in lieu of any deduction under section 166(a).
+&emsp;Except as provided in subsection (c), a bank shall be allowed a deduction for a reasonableaddition to a reserve for bad debts. Such deduction shall be in lieu of any deduction under section 166(a).
 
 #### (2) Bank
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) no adjustment shall be taken into account under subparagraph (A) for such taxable year, and
 
-&emsp;&emsp;&emsp;&emsp;(II) such taxable year shall be disregarded in determining whether any other taxable year is a taxable year for which an adjustment is required to be taken into account under subparagraph (A) or the amount of such adjustment.
+&emsp;&emsp;&emsp;&emsp;(II) such taxable year shall be disregarded in determining whether any other taxable year is a taxable year forwhich an adjustment is required to be taken into account under subparagraph (A) or the amount of such adjustment.
 
 #### (ii) Exception for elective recapture for 1st year
 
@@ -216,7 +216,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 

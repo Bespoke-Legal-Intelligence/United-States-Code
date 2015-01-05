@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 #### (1) Duty to notify
 
-&emsp;In the event of the transfer of any property described in paragraph (3), the transferorshall, not later than the date on which such transfer occurs, notify the transferee in writing of the requirements to—
+&emsp;In the event of the transfer of any property described in paragraph (3), the transferor shall, not later than the date on which such transfer occurs, notify the transferee in writing of the requirements to—
 
 &emsp;&emsp;(A) obtain flood insurance in accordance with applicable Federal law with respect to such property, if the property is not so insured as of the date on which the property is transferred; and
 
@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 #### (2) Failure to notify
 
-&emsp;If a transferor described in paragraph (1) fails to make a notification in accordance with such paragraph and, subsequent to the transfer of the property—
+&emsp;If a transferor described in paragraph (1) fails to make a notification in accordancewith such paragraph and, subsequent to the transfer of the property—
 
 &emsp;&emsp;(A) the transferee fails to obtain or maintain flood insurance in accordance with applicable Federal law with respect to the property,
 

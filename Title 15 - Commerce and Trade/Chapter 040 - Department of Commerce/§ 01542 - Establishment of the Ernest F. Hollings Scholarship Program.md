@@ -46,7 +46,7 @@ The amount of each Ernest F. Hollings Scholarship shall be provided directly to 
 
 #### (f) Funding
 
-Of the total amount appropriated for fiscal year 2005 and annually hereafter to the National Oceanic and Atmospheric Administration, the Administrator shall make available for the Ernest F. Hollings Scholarship program one-tenth of 1 percent of such appropriations.
+Of the total amount appropriated for fiscal year 2005 and annually hereafter to the NationalOceanic and Atmospheric Administration, the Administrator shall make available for the Ernest F. Hollings Scholarship program one-tenth of 1 percent of such appropriations.
 
 #### (g) Scholarship repayment requirement
 

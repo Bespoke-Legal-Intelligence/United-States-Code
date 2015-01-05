@@ -1,8 +1,12 @@
 ### §442. George Washington Birthplace National Monument
 
-The land owned by the United States at Wakefield, Westmoreland County, Virginia, and all structures thereon shall constitute the George Washington Birthplace National Monument at Wakefield, Virginia, which is established and set apart for the preservation of the historical associations connected therewith, for the benefit and enjoyment of the people, and the said national monument shall be after January 23, 1930, administered by the National Park Service under the direction of the Secretary of the Interior subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The land owned by the United States at Wakefield, Westmoreland County, Virginia, and all structures thereon shall constitute the George Washington Birthplace National Monument at Wakefield, Virginia, which is established and set apart for the preservation of the historical associations connected therewith, for the benefit and enjoyment of the people, and the said national monument shall be after January 23, 1930, administered by the National Park Service under the direction of the Secretary of the Interior subject to the provisions of the Act of August 25, 1916 (Thirty-ninth Statutes, page 535),<sup>1</sup> as amended.
 
 (Jan. 23, 1930, ch. 24, §§1, 2, 46 Stat. 58.)
+
+#### References in Text
+
+The Act of August 25, 1916 (Thirty-ninth Statutes, page 535), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Transfer of Functions
 
@@ -54,7 +58,7 @@ Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that:
 
 #### "SECTION 1. ADDITION TO NATIONAL MONUMENT.
 
-"The boundaries of the George Washington Birthplace National Monument (hereinafter referred to asthe 'National Monument') are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled 'George Washington Birthplace National Monument Boundary Map', numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
+"The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the 'National Monument') are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled 'George Washington Birthplace National Monument Boundary Map', numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
 #### "SEC. 2. ACQUISITION OF LANDS.
 
@@ -71,4 +75,6 @@ Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that:
 #### Additional Lands
 
 Additional lands were added to and made part of the monument by Presidential Proc. No. 1944, Mar. 30, 1931, 47 Stat. 2446.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ There is established, under the supervision of the Attorney General of the Unite
 
 &emsp;&emsp;(A) not fewer than 3 of whom shall be representatives of law enforcement agencies;
 
-&emsp;&emsp;(B) not fewer than 4 of whom shall be representatives of nongovernmental and nonprofit organizations providing services or training and implementing programs orstrategies related to methamphetamines; and
+&emsp;&emsp;(B) not fewer than 4 of whom shall be representatives of nongovernmental and nonprofit organizations providing services or training and implementing programs or strategies related to methamphetamines; and
 
 &emsp;&emsp;(C) 1 of whom shall be a representative of the Department of Health and Human Services.
 

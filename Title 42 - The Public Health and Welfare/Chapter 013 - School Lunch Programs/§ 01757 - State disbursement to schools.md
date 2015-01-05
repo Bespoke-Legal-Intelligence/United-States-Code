@@ -28,7 +28,7 @@ In any fiscal year in which the national average payment per lunch determined un
 
 Lunch assistance disbursements to schools under this section and under section 1759a of this title may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
 
-(June 4, 1946, ch. 281, §8, 60 Stat. 232; Pub. L. 92–433, §8, Sept. 26, 1972, 86 Stat. 729; Pub. L. 93–150, §2(b), Nov. 7, 1973, 87 Stat. 560; Pub. L. 95–166, §3, Nov. 10, 1977, 91 Stat. 1332; Pub. L. 95–627, §10(d)(1), Nov. 10, 1978, 92 Stat. 3624; Pub. L. 97–35, title VIII, §819(d), Aug. 13, 1981, 95 Stat. 533; Pub. L. 101–147, title II, §201, title III, §§304, 312(1), Nov. 10, 1989, 103 Stat. 908, 914, 916; Pub. L. 104–193, title VII, §701(a), Aug. 22, 1996, 110 Stat. 2287.)
+(June 4, 1946, ch. 281, §8, 60 Stat. 232; Pub. L. 92–433, §8, Sept. 26, 1972, 86 Stat. 729; Pub. L. 93–150, §2(b), Nov. 7, 1973, 87 Stat. 560; Pub. L. 95–166, §3, Nov. 10, 1977, 91 Stat. 1332; Pub. L. 95–627, §10(d)(1), Nov. 10, 1978, 92 Stat. 3624; Pub. L. 97–35, title VIII, §819(d), Aug. 13, 1981, 95 Stat. 533; Pub. L. 101–147, title II, §201, title III, §§304,312(1), Nov. 10, 1989, 103 Stat. 908, 914, 916; Pub. L. 104–193, title VII, §701(a), Aug. 22, 1996, 110 Stat. 2287.)
 
 #### Amendments
 

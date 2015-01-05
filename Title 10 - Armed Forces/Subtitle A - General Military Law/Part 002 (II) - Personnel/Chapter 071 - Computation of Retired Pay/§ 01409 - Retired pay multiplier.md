@@ -28,7 +28,7 @@ General rule.—Subject to paragraphs (2) and (3), the percentage to be used und
 
 &emsp;(2)
 
-Reduction applicable to certain new-retirement members with less than 30 years of service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
+Reduction applicable to certain new-retirement members with less than 30 years of service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
 
 &emsp;&emsp;(A) 1 percentage point for each full year that the member's years of creditable service are less than 30; and
 
@@ -82,5 +82,5 @@ Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 

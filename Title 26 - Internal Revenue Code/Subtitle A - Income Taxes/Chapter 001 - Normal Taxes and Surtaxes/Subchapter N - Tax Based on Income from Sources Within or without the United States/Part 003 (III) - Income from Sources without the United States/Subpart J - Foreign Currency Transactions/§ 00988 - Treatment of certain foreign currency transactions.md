@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (II) Time for making election
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in regulations, an election under subclause (I) for any taxable year shall be made on or before the 1st day of such taxable year (or, if later, on or before the 1st day during such year on which the taxpayer holds a contract described in clause (i)).
+&emsp;&emsp;&emsp;&emsp;Except as provided in regulations, an election under subclause (I) for any taxable year shall be made on or before the 1st day of such taxable year (or, if later,on or before the 1st day during such year on which the taxpayer holds a contract described in clause (i)).
 
 #### (III) Special rule for partnerships, etc.
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) at all times during the taxable year (and during each preceding taxable year to which an election under subclause (V) applied), such partnership has at least 20 partners and no single partner owns more than 20 percent of the interests in the capital or profits of the partnership,
 
-&emsp;&emsp;&emsp;&emsp;(II) the principal activity of such partnership for such taxable year (and each such preceding taxable year) consists ofbuying and selling options, futures, or forwards with respect to commodities,
+&emsp;&emsp;&emsp;&emsp;(II) the principal activity of such partnership for such taxable year (and each such preceding taxable year) consists of buying and selling options, futures, or forwards with respect to commodities,
 
 &emsp;&emsp;&emsp;&emsp;(III) at least 90 percent of the gross income of the partnership for the taxable year (and for each such preceding taxable year) consisted of income or gains described in subparagraph (A), (B), or (G) of section 7704(d)(1) or gain from the sale or disposition of capital assets held for the production of interest or dividends,
 
@@ -234,7 +234,7 @@ For purposes of this section—
 
 #### (5) Special rules where taxpayer takes or makes delivery
 
-&emsp;If the taxpayer takes or makes delivery in connection with any section 988 transactiondescribed in paragraph (1)(B)(iii), any gain or loss (determined as if the taxpayer sold the contract, option, or instrument on the date on which he took or made delivery for its fair market value on such date) shall be recognized in the same manner as if such contract, option, or instrument were so sold.
+&emsp;If the taxpayer takes or makes delivery in connection with any section 988 transaction described in paragraph (1)(B)(iii), any gain or loss (determined as if the taxpayer sold the contract, option, or instrument on the date on which he took or made delivery for its fair market value on such date) shall be recognized in the same manner as if such contract, option, or instrument were so sold.
 
 #### (d) Treatment of 988 hedging transactions
 

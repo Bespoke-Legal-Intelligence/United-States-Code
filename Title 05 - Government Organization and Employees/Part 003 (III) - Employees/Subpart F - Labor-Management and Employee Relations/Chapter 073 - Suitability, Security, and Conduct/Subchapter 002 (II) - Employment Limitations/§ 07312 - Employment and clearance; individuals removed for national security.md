@@ -18,13 +18,13 @@ Historical and Revision Notes
 
 Aug. 26, 1950, ch. 803, §1 (4th and 5th provisos), 64 Stat. 477.
 
-The words “Removal under section 7532 of this title” and “so removed” are coextensive with and substituted for “termination of employment herein provided” and “whose employment has been terminated under the provisions of said sections”, respectively.
+The words "Removal under section 7532 of this title" and "so removed" are coextensive with and substituted for "termination of employment herein provided" and "whose employment has been terminated under the provisions of said sections", respectively.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
 
 #### Effective Date of 1978 Amendment
 

@@ -12,7 +12,7 @@ In addition to the amounts authorized in subsection (a) of this section, there a
 
 &emsp;(2) the funds authorized to be appropriated under this subsection shall not be available to the Secretary for use as grants for chartering fishing vessels; and
 
-&emsp;(3) the Federal share of the cost of any activity carried out with an amount appropriatedunder the authority of this subsection shall be 75 percent of the cost of that activity.
+&emsp;(3) the Federal share of the cost of any activity carried out with an amount appropriated under the authority of this subsection shall be 75 percent of the cost of that activity.
 
 > Amounts appropriated under this subsection shall remain available until expended.
 
@@ -28,7 +28,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 #### (d) Assistance to commercial fishermen
 
-(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
+(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary tohave been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
 
 (2) The Secretary shall determine the extent, and the beginning and ending dates, of any fishery resource disaster under this subsection.
 

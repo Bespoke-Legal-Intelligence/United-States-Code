@@ -2,13 +2,13 @@
 
 #### (a) Deadline for declassification
 
-(1) Except as provided in subsection (b) of this section, each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 30 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at theNational Archives for public inspection and copying.
+(1) Except as provided in subsection (b), each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 30 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
 
 (2) Nothing in this subsection may be construed to require the declassification of a record wholly prepared by a foreign government.
 
 #### (b) Exempted records
 
-Subsection (a) of this section shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
+Subsection (a) shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
 
 &emsp;(1) would compromise weapons technology important to the national defense of the United States or reveal sensitive information relating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;
 
@@ -32,7 +32,7 @@ Subsection (a) of this section shall not apply to any record (or portion thereof
 
 #### (d) Annual reports by the Advisory Committee
 
-The Advisory Committee shall annually submit to the Secretary of State and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report setting forth its findings from the review conducted under subsection (c) of this section.
+The Advisory Committee shall annually submit to the Secretary of State and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report setting forth its findings from the review conducted under subsection (c).
 
 #### (e) Annual reports by the Secretary
 
@@ -64,5 +64,5 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Compliance With Declassification of State Department Records; Notification to Congressional Committees on Inability To Comply; Final Deadline
 
-Pub. L. 102–138, title I, §198(c)(1), Oct. 28, 1991, 105 Stat. 691, provided that: "The Secretary of State shall ensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 4354\] (as amended by this section) are met not later than one year after the date of enactment of this Act \[Oct. 28, 1991\]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act."
+Pub. L. 102–138, title I, §198(c)(1), Oct. 28, 1991, 105 Stat. 691, provided that: "The Secretary of State shallensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 4354\] (as amended by this section) are met not later than one year after the date of enactment of this Act \[Oct. 28, 1991\]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act."
 

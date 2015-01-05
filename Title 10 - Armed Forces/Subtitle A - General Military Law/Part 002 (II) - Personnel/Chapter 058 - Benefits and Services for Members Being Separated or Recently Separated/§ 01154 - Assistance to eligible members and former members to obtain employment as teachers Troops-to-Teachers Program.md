@@ -16,7 +16,7 @@ Eligible school.—The term "eligible school" means—
 
 &emsp;&emsp;&emsp;(i) at least 30 percent of the students enrolled in the school are from families with incomes below 185 percent of poverty level (as defined by the Office of Management and Budget and revised at least annually in accordance with section 9(b)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)(1)) applicable to a family of the size involved; or
 
-&emsp;&emsp;&emsp;(ii) at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act (20 U.S.C.1411 <sup>1</sup> et seq.); or
+&emsp;&emsp;&emsp;(ii) at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.); or
 
 &emsp;&emsp;(B) a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 (25 U.S.C. 2021(3)).
 
@@ -100,7 +100,7 @@ Eligible members.—The following members of the armed forces are eligible for s
 
 Submission of applications.—(A) Selection of eligible members of the armed forces to participate in the Program shall be made on the basis of applications submitted to the Secretary within the time periods specified in subparagraph (B). An application shall be in such form and contain such information as the Secretary may require.
 
-&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, separated, or released from active duty, whichever applies to the member.
+&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i),\(B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, separated, or released from active duty, whichever applies to the member.
 
 &emsp;(3)
 
@@ -166,7 +166,7 @@ Violation of participation agreement; exceptions.—A participant shall not be c
 
 &emsp;(3)
 
-Stipend and bonus for participants.—(A) Subject to subparagraph (C), the Secretary may pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
+Stipend and bonus for participants.—(A) Subject to subparagraph (C), the Secretarymay pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
 
 &emsp;(B)(i) Subject to subparagraph (C), the Secretary may pay a bonus to a participant who agrees in the participation agreement under paragraph (1) to accept full-time employment as an elementary school teacher, secondary school teacher, or career or technical teacher for not less than three school years in an eligible school.
 
@@ -230,7 +230,7 @@ Assistance to states.—(A) Subject to subparagraph (B), the Secretary may make 
 
 Limitation on Total Fiscal-year Obligations.—The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
-(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729.)
+(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510.)
 
 #### References in Text
 
@@ -243,6 +243,10 @@ The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935,
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20 and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(2)(A)(ii). Pub. L. 113–291 substituted "20 U.S.C. 1411" for "20 U.S.C.1411".
 
 #### Transfer of Functions for Troops-to-Teachers Program
 
@@ -273,6 +277,4 @@ Effective date.—The transfer of responsibility and authority for operation and
 &emsp;"(A) on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\]; or
 
 &emsp;"(B) on such earlier date as the Secretary of Education and the Secretary of Defense may jointly provide."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

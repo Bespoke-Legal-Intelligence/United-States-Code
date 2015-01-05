@@ -2,7 +2,7 @@
 
 #### (a) Ascertainment of entitlement
 
-On or about the first day of October in each year after June 26, 1953, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriation for cooperative agricultural extension work under this subchapter and the amount which it is entitled to receive. Before the funds herein provided shall become available to any college for any fiscal year, plans for the work to be carried on under this subchapter shall be submitted by the proper officials of eachcollege and approved by the Secretary of Agriculture. The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.
+On or about the first day of October in each year after June 26, 1953, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriation for cooperative agricultural extension work under this subchapter and the amount which it is entitled to receive. Before the funds herein provided shall become available to any college for any fiscal year, plans for the work to be carried on under this subchapter shall be submitted by the proper officials of each college and approved by the Secretary of Agriculture. The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.
 
 #### (b) Time and manner of payment; related reports
 
@@ -10,7 +10,7 @@ The amount to which a State is entitled shall be paid in equal quarterly payment
 
 #### (c) Requirements related to plan of work
 
-Each extension plan of work for a State required under subsection (a) of this section shall contain descriptions of the following:
+Each extension plan of work for a State required under subsection (a) shall contain descriptions of the following:
 
 &emsp;(1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned extension programs and projects targeted to address the issues.
 
@@ -26,7 +26,7 @@ Each extension plan of work for a State required under subsection (a) of this se
 
 #### (1) Development
 
-&emsp;The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary extension activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (a) of this section.
+&emsp;The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary extension activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (a).
 
 #### (2) Consultation
 
@@ -34,7 +34,7 @@ Each extension plan of work for a State required under subsection (a) of this se
 
 #### (e) Treatment of plans of work for other purposes
 
-To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (a) of this section to satisfy other appropriate Federal reporting requirements.
+To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (a) to satisfy other appropriate Federal reporting requirements.
 
 (May 8, 1914, ch. 79, §4, 38 Stat. 374; June 26, 1953, ch. 157, §1, 67 Stat. 85; Pub. L. 87–749, §1(f), Oct. 5, 1962, 76 Stat. 745; Pub. L. 94–273, §15, Apr. 21, 1976, 90 Stat. 379; Pub. L. 101–624, title XVI, §1617, Nov. 28, 1990, 104 Stat. 3732; Pub. L. 105–185, title II, §202(a), June 23, 1998, 112 Stat. 531.)
 

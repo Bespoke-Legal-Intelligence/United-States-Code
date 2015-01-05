@@ -10,7 +10,7 @@ Approved Programs of Education.—A program of education is an approved program 
 
 (c)
 
-Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
+Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—Theamounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
 &emsp;(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), or (9) of section 3311(b), amounts as follows:
 
@@ -56,7 +56,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) 1.0; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the number of course hours borne by the individual in pursuit of the program of education, divided by the minimum number of course hours required for full-time pursuit of theprogram of education, rounded to the nearest multiple of 10.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the number of course hours borne by the individual in pursuit of the program of education, divided by the minimum number of course hours required for full-time pursuit of the program of education, rounded to the nearest multiple of 10.
 
 &emsp;&emsp;&emsp;(iii) In the case of an individual pursuing a program of education solely through distance learning on more than a half-time basis, a monthly housing stipend equal to 50 percent of the amount payable under clause (ii) if the individual were otherwise entitled to a monthly housing stipend under that clause for pursuit of the program of education.
 
@@ -68,7 +68,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;(2) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(3), amounts equal to 90 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-&emsp;(3) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+&emsp;(3) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individualwere entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
 &emsp;(4) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
@@ -134,7 +134,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(i) $1,000, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the fraction of a complete academic year under the program of education that such quarter, semester, or term constitutes.
+&emsp;&emsp;&emsp;(ii) the fraction of a complete academic year under the program of education thatsuch quarter, semester, or term constitutes.
 
 &emsp;&emsp;(C) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable to the individual pursuant to subparagraphs (A)(i), (A)(ii), and (B) shall be the amounts otherwise determined pursuant to such subparagraphs multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
@@ -188,7 +188,7 @@ Programs of Education Other Than Programs of Education Leading to a Degree.—
 
 &emsp;(1)
 
-In general.—Educational assistance is payable under this chapter for pursuit of an approved program of education other than a program of education leading to a degree at an institution other than an institution of higherlearning (as that term is defined in section 3452(f)).
+In general.—Educational assistance is payable under this chapter for pursuit of an approved program of education other than a program of education leading to a degree at an institution other than an institution of higher learning (as that term is defined in section 3452(f)).
 
 &emsp;(2)
 
@@ -260,7 +260,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher EducationAct of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount equal to—
 
@@ -318,7 +318,7 @@ Lump sum payments.—
 
 &emsp;&emsp;(D)
 
-Quarterly payments.—Payment of the amounts payable under paragraph (3)(D) for pursuit of a program of education shall be made quarterly on a pro rata basis for thelessons completed by the individual and serviced by the institution.
+Quarterly payments.—Payment of the amounts payable under paragraph (3)(D) for pursuit of a program of education shall be made quarterly on a pro rata basis for the lessons completed by the individual and serviced by the institution.
 
 &emsp;(5)
 
@@ -342,7 +342,7 @@ Payment of Established Charges to Educational Institutions.—Amounts payable un
 
 (i)
 
-Determination of Housing Stipend Payments for Academic Years.—Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under section 403 of title 37 in effect as of January 1 of such calendar year.
+Determination of Housing Stipend Payments for Academic Years.—Any monthlyhousing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under section 403 of title 37 in effect as of January 1 of such calendar year.
 
 (Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121.)
 
@@ -422,7 +422,7 @@ Pub. L. 111–377, title I, §103(c), Jan. 4, 2011, 124 Stat. 4112, provided tha
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Jan. 4, 2011\], and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after such effective date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Jan. 4,2011\], and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after such effective date.
 
 "(2)
 

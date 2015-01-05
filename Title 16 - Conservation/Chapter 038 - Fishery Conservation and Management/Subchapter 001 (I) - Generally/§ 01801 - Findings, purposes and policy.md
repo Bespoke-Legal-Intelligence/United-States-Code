@@ -32,7 +32,7 @@ The Congress finds and declares the following:
 
 It is therefore declared to be the purposes of the Congress in this chapter—
 
-&emsp;(1) to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fisheryresources of the United States, by exercising (A) sovereign rights for the purposes of exploring, exploiting, conserving, and managing all fish, within the exclusive economic zone established by Presidential Proclamation 5030, dated March 10, 1983, and (B) exclusive fishery management authority beyond the exclusive economic zone over such anadromous species and Continental Shelf fishery resources;
+&emsp;(1) to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by exercising (A) sovereign rights for the purposes of exploring, exploiting, conserving, and managing all fish, within the exclusive economic zone established by Presidential Proclamation 5030, dated March 10, 1983, and (B) exclusive fishery management authority beyond the exclusive economic zone over such anadromous species and Continental Shelf fishery resources;
 
 &emsp;(2) to support and encourage the implementation and enforcement of international fishery agreements for the conservation and management of highly migratory species, and to encourage the negotiation and implementation of additional such agreements as necessary;
 
@@ -50,7 +50,7 @@ It is therefore declared to be the purposes of the Congress in this chapter—
 
 It is further declared to be the policy of the Congress in this chapter—
 
-&emsp;(1) to maintain without change the existing territorial or other ocean jurisdiction of the United States for all purposes other than the conservation and management of fishery resources, as provided for in this chapter;
+&emsp;(1) to maintain without change the existing territorial or other ocean jurisdiction of the United States for all purposes other than theconservation and management of fishery resources, as provided for in this chapter;
 
 &emsp;(2) to authorize no impediment to, or interference with, recognized legitimate uses of the high seas, except as necessary for the conservation and management of fishery resources, as provided for in this chapter;
 
@@ -82,7 +82,7 @@ Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under 
 
 Subsec. (a)(12). Pub. L. 109–479, §402, added par. (12).
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: "As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point wheretheir survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened."
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: "As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened."
 
 Subsec. (a)(6). Pub. L. 104–297, §101(2), inserted "to facilitate long-term protection of essential fish habitats," after "to insure conservation,".
 
@@ -152,7 +152,7 @@ Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: "This A
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: "This Act \[enacting sections 1803, 1861a, 1881to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the 'Sustainable Fisheries Act'."
+Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: "This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the 'Sustainable Fisheries Act'."
 
 #### Short Title of 1995 Amendment
 
@@ -172,7 +172,7 @@ Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: "This Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
+Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, ForeignRelations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
 
 #### Short Title of 1977 Amendment
 
@@ -190,7 +190,7 @@ Pub. L. 94–265, §1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–5
 
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (16 U.S.C. 1 <i>et seq</i>.), the National Historic Preservation Act (16 U.S.C. 470 <i>et seq</i>.), \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 

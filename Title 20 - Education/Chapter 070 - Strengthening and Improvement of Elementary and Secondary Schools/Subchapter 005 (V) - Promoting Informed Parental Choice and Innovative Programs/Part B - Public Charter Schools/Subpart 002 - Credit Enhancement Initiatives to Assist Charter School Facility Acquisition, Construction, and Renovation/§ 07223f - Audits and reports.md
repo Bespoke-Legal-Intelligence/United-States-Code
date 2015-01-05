@@ -16,7 +16,7 @@ The financial records of each eligible entity receiving a grant under this subpa
 
 &emsp;&emsp;(A) a copy of the most recent financial statements, and any accompanying opinion on such statements, prepared by the independent public accountant reviewing the financial records of the eligible entity;
 
-&emsp;&emsp;(B) a copy of any report made on an audit of the financial records of the eligible entity that was conducted under subsection (a) of this section during the reporting period;
+&emsp;&emsp;(B) a copy of any report made on an audit of the financial records of the eligible entitythat was conducted under subsection (a) of this section during the reporting period;
 
 &emsp;&emsp;(C) an evaluation by the eligible entity of the effectiveness of its use of the Federal funds provided under this subpart in leveraging private funds;
 

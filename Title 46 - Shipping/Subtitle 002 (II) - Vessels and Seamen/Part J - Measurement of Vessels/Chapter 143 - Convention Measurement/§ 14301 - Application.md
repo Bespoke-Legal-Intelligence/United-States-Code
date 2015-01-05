@@ -8,7 +8,7 @@
 
 &emsp;(2) a vessel of less than 24 meters (79 feet) overall in length.
 
-&emsp;(3) a vessel of United States or Canadian registry or nationality, or a vessel operated under the authority of the United States or Canada, and that is operating only on the Great Lakes, unless the owner requests.
+&emsp;(3) a vessel of United States or Canadian registry or nationality, or a vessel operated underthe authority of the United States or Canada, and that is operating only on the Great Lakes, unless the owner requests.
 
 &emsp;(4) a vessel of United States registry or nationality, or one operated under the authority of the United States (except a vessel that engages on a foreign voyage) the keel of which was laid or that was at a similar stage of construction before January 1, 1986, unless—
 
@@ -22,7 +22,7 @@
 
 (d) This chapter does not affect an international agreement to which the United States Government is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
 
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; Pub. L. 101–595, title III, §305, Nov. 16,1990, 104 Stat. 2985; Pub. L. 111–281, title III, §303(c), Oct. 15, 2010, 124 Stat. 2924.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; Pub. L. 101–595, title III, §305, Nov. 16, 1990, 104 Stat. 2985; Pub. L. 111–281, title III, §303(c), Oct. 15, 2010, 124 Stat. 2924.)
 
 #### Historical and Revision Notes
 

@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) failure to meet the opportunities presented by these developments could threaten United States national security interests and jeopardize substantial savings in United States defense that these developments have made possible;
 
-&emsp;(5) the independent states of the former Soviet Union face unprecedented environmentalproblems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries, and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
+&emsp;(5) the independent states of the former Soviet Union face unprecedented environmental problems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries, and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
 
 &emsp;(6) the success of United States assistance for the independent states of the former Soviet Union depends on—
 
@@ -56,7 +56,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(7) Sergei Leonidovich Magnitsky died on November 16, 2009, at the age of 37, in Matrosskaya Tishina Prison in Moscow, Russia, and is survived by a mother, a wife, and 2 sons.
 
-&emsp;"(8) On July 6, 2011, Russian President Dimitry Medvedev's Human Rights Council announced the results of its independent investigation into the death of Sergei Magnitsky. The Human Rights Council concluded that Sergei Magnitsky's arrest and detention was illegal; he was denied access to justice by the courts and prosecutors of the Russian Federation; he was investigated by the same law enforcement officers whom he had accused of stealing Hermitage Fund companies and illegally obtaining a fraudulent $230,000,000 tax refund; he was denied necessary medical care in custody; he was beaten by 8 guards with rubber batons on the last day of his life; and the ambulance crew that was called to treat him as he was dying was deliberately kept outside of his cell for one hour and 18 minutes until he was dead. The report of the Human Rights Council also states the officials falsified their accounts of what happened to Sergei Magnitsky and, 18 months after his death, no officials had been brought to trial for his false arrest or the crime he uncovered. The impunity continued in April 2012, when Russian authorities dropped criminal charges against Larisa Litvinova, the head doctor at the prison where Magnitsky died.
+&emsp;"(8) On July 6, 2011, Russian President Dimitry Medvedev's Human Rights Council announced the results of its independent investigation into the death of Sergei Magnitsky. The Human Rights Council concluded that Sergei Magnitsky's arrest and detention was illegal; he was denied access to justice by the courts and prosecutors of the Russian Federation; he was investigated by the same law enforcement officers whom he had accused of stealing Hermitage Fund companies and illegally obtaining a fraudulent $230,000,000 tax refund; he was denied necessary medical care in custody; he was beaten by 8 guards with rubber batons on the last day of his life; and the ambulance crew that was called to treat him as he was dying was deliberately kept outside of his cell for onehour and 18 minutes until he was dead. The report of the Human Rights Council also states the officials falsified their accounts of what happened to Sergei Magnitsky and, 18 months after his death, no officials had been brought to trial for his false arrest or the crime he uncovered. The impunity continued in April 2012, when Russian authorities dropped criminal charges against Larisa Litvinova, the head doctor at the prison where Magnitsky died.
 
 &emsp;"(9) The systematic abuse of Sergei Magnitsky, including his repressive arrest and torture in custody by officers of the Ministry of the Interior of the Russian Federation that Mr. Magnitsky had implicated in the embezzlement of funds from the Russian Treasury and the misappropriation of 3 companies from his client, Hermitage Capital Management, reflects how deeply the protection of human rights is affected by corruption.
 
@@ -144,7 +144,7 @@ Exception.—The name of a person to be included in the list required by subsect
 
 &emsp;&emsp;"(B) uses the annex in such a manner consistent with congressional intent and the purposes of this Act; and
 
-&emsp;&emsp;"(C) 15 days prior to submitting the name in a classified annex, provides to the appropriate congressional committees notice of, and a justification for, including or continuing to include each personin the classified annex despite any publicly available credible information indicating that the person engaged in an activity described in paragraph (1), (2), or (3) of subsection (a).
+&emsp;&emsp;"(C) 15 days prior to submitting the name in a classified annex, provides to the appropriate congressional committees notice of, and a justification for, including or continuing to include each person in the classified annex despite any publicly available credible information indicating that the person engaged in an activity described in paragraph (1), (2), or (3) of subsection (a).
 
 &emsp;"(3)
 
@@ -316,7 +316,7 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–48
 
 &emsp;"(19) After the December 19, 2010, presidential election, the Government of Belarus has convicted political detainees to harsh prison sentences.
 
-&emsp;"(20) After the December 19, 2010, presidential election, the United States expanded its visa ban list, imposed additional financial sanctions on certain state-owned enterprises, and initiated preparations to freeze the assets of several individuals in Belarus.The European Union imposed targeted travel and financial sanctions on an expanded list of officials of the Government of Belarus.
+&emsp;"(20) After the December 19, 2010, presidential election, the United States expanded its visa ban list, imposed additional financial sanctions on certain state-owned enterprises, and initiated preparations to freeze the assets of several individuals in Belarus. The European Union imposed targeted travel and financial sanctions on an expanded list of officials of the Government of Belarus.
 
 &emsp;"(21) After the December 19, 2010, presidential election, the United States fully restored sanctions against Belarus's largest state-owned petroleum and chemical conglomerate and all of its subsidiaries.
 
@@ -412,7 +412,7 @@ Application of Sanctions.—The sanctions described in subsections (c) through (
 
 Conditions.—The conditions referred to in subsection (a) are the following:
 
-&emsp;"(1) The release of individuals in Belarus who have been jailed based on political or religious beliefs or expression, including those individuals jailed based on political beliefs or expression in connection withrepression that attended the presidential election of December 19, 2010.
+&emsp;"(1) The release of individuals in Belarus who have been jailed based on political or religious beliefs or expression, including those individuals jailed based on political beliefs or expression in connection with repression that attended the presidential election of December 19, 2010.
 
 &emsp;"(2) The withdrawal of politically motivated legal charges against all opposition activists and independent journalists in Belarus, including politically motivated legal charges made in connection with repression that attended the presidential election of December 19, 2010.
 

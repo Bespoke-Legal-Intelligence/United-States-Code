@@ -16,7 +16,7 @@
 
 (b) The Director may exchange any of the publications specified in items 3, 4, 5, and 6 of subsection (a) of this section for publications desirable for the use of the Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 794, §11; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; renumbered §10 and amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(1), 4717(1), 4732(a)(10)(A), 4804(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§13205(2)(A),13206(b)(1)(B), (3)(A), Nov. 2, 2002, 116 Stat. 1903, 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 794, §11; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; renumbered §10 and amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(1), 4717(1), 4732(a)(10)(A), 4804(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§13205(2)(A), 13206(b)(1)(B), (3)(A), Nov. 2, 2002, 116 Stat. 1903, 1906.)
 
 #### Historical and Revision Notes
 

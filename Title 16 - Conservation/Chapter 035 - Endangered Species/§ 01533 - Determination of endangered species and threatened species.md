@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(II) expeditious progress is being made to add qualified species to either of the lists published under subsection (c) of this section and to remove from such lists species for which the protections of this chapter are no longer necessary,
 
-> &emsp;in which case the Secretary shall promptly publish such finding in the Federal Register,together with a description and evaluation of the reasons and data on which the finding is based.
+> &emsp;in which case the Secretary shall promptly publish such finding in the Federal Register, together with a description and evaluation of the reasons and data on which the finding is based.
 
 (C)(i) A petition with respect to which a finding is made under subparagraph (B)(iii) shall be treated as a petition that is resubmitted to the Secretary under subparagraph (A) on the date of such finding and that presents substantial scientific or commercial information that the petitioned action may be warranted.
 
@@ -126,7 +126,7 @@
 
 (iii) If the one-year period specified in subparagraph (A) is extended under clause (i) with respect to a proposed regulation, then before the close of such extended period the Secretary shall publish in the Federal Register either a final regulation to implement the determination or revision concerned, a finding that the revision should not be made, or a notice of withdrawal of the regulation under clause (ii), together with the finding on which the withdrawal is based.
 
-(C) A final regulation designating critical habitat of an endangered species or a threatened species shall be published concurrently with thefinal regulation implementing the determination that such species is endangered or threatened, unless the Secretary deems that—
+(C) A final regulation designating critical habitat of an endangered species or a threatened species shall be published concurrently with the final regulation implementing the determination that such species is endangered or threatened, unless the Secretary deems that—
 
 &emsp;(i) it is essential to the conservation of such species that the regulation implementing such determination be promptly published; or
 

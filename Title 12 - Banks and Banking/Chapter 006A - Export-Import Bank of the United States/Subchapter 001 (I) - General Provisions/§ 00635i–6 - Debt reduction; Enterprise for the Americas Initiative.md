@@ -4,7 +4,7 @@
 
 For purposes of this section—
 
-&emsp;(1) the term "eligible country" means a country designated by the President in accordance with subsection (b) of this section;
+&emsp;(1) the term "eligible country" means a country designated by the President in accordance with subsection (b);
 
 &emsp;(2) the term "Facility" means the entity established in the Department of the Treasury by section 1738 of title 7; and
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (4) Administration
 
-&emsp;The Facility shall notify the Bank of purchasers that the President has determined tobe eligible, and shall direct the Bank to carry out the sale, reduction, or cancellation of a loan pursuant to this section. The Bank shall make an adjustment in its accounts to reflect the sale, reduction, or cancellation.
+&emsp;The Facility shall notify the Bank of purchasers that the President has determined to be eligible, and shall direct the Bank to carry out the sale, reduction, or cancellation of a loan pursuant to this section. The Bank shall make an adjustment in its accounts to reflect the sale, reduction, or cancellation.
 
 #### (5) Limitations
 
@@ -66,7 +66,7 @@ The proceeds from the sale, reduction, or cancellation of any loan sold, reduced
 
 #### (e) Eligible purchasers
 
-A loan may be sold pursuant to subsection (c)(1)(A) of this section only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
+A loan may be sold pursuant to subsection (c)(1)(A) only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 
 #### (f) Debtor consultation
 

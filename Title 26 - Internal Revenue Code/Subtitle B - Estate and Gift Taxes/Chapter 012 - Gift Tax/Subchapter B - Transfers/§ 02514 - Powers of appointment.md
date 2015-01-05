@@ -14,7 +14,7 @@ The exercise or release of a general power of appointment created after October 
 
 #### (c) Definition of general power of appointment
 
-For purposes of this section, the term "general power of appointment" means a power which is exercisable in favor of the individual possessingthe power (hereafter in this subsection referred to as the "possessor"), his estate, his creditors, or the creditors of his estate; except that—
+For purposes of this section, the term "general power of appointment" means a power which is exercisable in favor of the individual possessing the power (hereafter in this subsection referred to as the "possessor"), his estate, his creditors, or the creditors of his estate; except that—
 
 &emsp;(1) A power to consume, invade, or appropriate property for the benefit of the possessor which is limited by an ascertainable standard relating to the health, education, support, or maintenance of the possessor shall not be deemed a general power of appointment.
 

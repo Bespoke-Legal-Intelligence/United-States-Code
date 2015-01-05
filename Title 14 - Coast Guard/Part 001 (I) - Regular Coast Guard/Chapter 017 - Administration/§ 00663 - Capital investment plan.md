@@ -54,7 +54,7 @@ The words "with the fiscal year 1982 budget request" and "subsequent" are omitte
 
 <b>1990</b>—Pub. L. 101–595 substituted "Shore Facilities Plan, and Information Resources Management Plan." for "and Shore Facilities Plan."
 
-<b>1988</b>—Pub. L. 100–448 inserted at end "Not later than 30 days after the date on which the President submitsto the Congress a budget under section 1105 of title 31 which includes a proposed 2-year budget for the Coast Guard, the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives, detailed Coast Guard budget estimates for the fiscal years covered by such proposed 2-year budget."
+<b>1988</b>—Pub. L. 100–448 inserted at end "Not later than 30 days after the date on which the President submits to the Congress a budget under section 1105 of title 31 which includes a proposed 2-year budget for the Coast Guard, the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives, detailed Coast Guard budget estimates for the fiscal years covered by such proposed 2-year budget."
 
 #### Capital Investment Plan
 
@@ -142,7 +142,7 @@ Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 351, provided in par
 
 &emsp;&emsp;"(D) aligns the acquisition of each asset to mission requirements by defining existing capabilities of comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps;
 
-&emsp;&emsp;"(E) defines life-cycle costs for each asset and the date of the estimate on which such costs are based,including all associated costs of major acquisitions systems infrastructure and transition to operations, delineated by purpose and fiscal year for the projected service life of the asset;
+&emsp;&emsp;"(E) defines life-cycle costs for each asset and the date of the estimate on which such costs are based, including all associated costs of major acquisitions systems infrastructure and transition to operations, delineated by purpose and fiscal year for the projected service life of the asset;
 
 &emsp;&emsp;"(F) includes the earned value management system summary schedule performance index and cost performance index for each asset, if applicable; and
 
@@ -150,7 +150,9 @@ Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 351, provided in par
 
 > <i>Provided further</i>, That the Commandant of the Coast Guard shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President's budget as submitted under section 1105(a) of title 31, United States Code, for that fiscal year: <i>Provided further</i>, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified".
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–76, div. F, title II, Jan. 17, 2014, 128 Stat. 256.
 
 Pub. L. 112–74, div. D, title II, Dec. 23, 2011, 125 Stat. 954.
 

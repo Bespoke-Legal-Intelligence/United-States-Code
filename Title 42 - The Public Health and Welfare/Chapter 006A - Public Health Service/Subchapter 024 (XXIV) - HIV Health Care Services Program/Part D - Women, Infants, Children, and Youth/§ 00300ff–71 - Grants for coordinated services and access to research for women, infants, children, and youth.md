@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to public and nonprofit private entities (including a health facility operated by or pursuant to a contract with the Indian Health Service) for the purpose of providing family-centered care involving outpatient or ambulatory care (directly or through contracts or memoranda of understanding) for women, infants, children, and youth with HIV/AIDS.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to public and nonprofit private entities (including a health facility operated by or pursuant to a contract with the Indian Health Service) for the purpose of providing family-centered care involving outpatient or ambulatory care (directly or through contracts or memoranda of understanding) forwomen, infants, children, and youth with HIV/AIDS.
 
 #### (b) Additional services for patients and families
 
@@ -36,7 +36,7 @@ A grant may only be awarded to an entity under subsection (a) if an application 
 
 &emsp;(1) Information regarding how the expected expenditures of the grant are related to the planning process for localities funded under part A (including the planning process outlined in section 300ff–12 of this title) and for States funded under part B (including the planning process outlined in section 300ff–27(b) of this title).
 
-&emsp;(2) A specification of the expected expenditures and how those expenditures will improve overall patient outcomes, as outlined as part of the State plan (under section 300ff–27(b) ofthis title) or through additional outcome measures.
+&emsp;(2) A specification of the expected expenditures and how those expenditures will improve overall patient outcomes, as outlined as part of the State plan (under section 300ff–27(b) of this title) or through additional outcome measures.
 
 #### (e) Annual review of programs; evaluations
 
@@ -112,7 +112,7 @@ Section 300ff–73, act July 1, 1944, ch. 373, title XXVI, §2673, as added Pub.
 
 Section 300ff–74, act July 1, 1944, ch. 373, title XXVI, §2674, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 104–146, §3(f), May 20, 1996, 110 Stat. 1362; Pub. L. 106–345, title IV, §411, Oct. 20, 2000, 114 Stat. 1350, related to evaluations and reports.
 
-Section 300ff–75, act July 1, 1944, ch. 373, title XXVI, §2675, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 102–531, title III, §312(d)(34), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 106–345, title IV, §§413, 414, Oct. 20, 2000, 114 Stat. 1350, 1351; Pub. L. 108–173, title IX, §900(e)(2)(G), Dec. 8, 2003, 117 Stat.2372, related to coordination of Federal HIV programs. See section 300ff–81 of this title.
+Section 300ff–75, act July 1, 1944, ch. 373, title XXVI, §2675, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 102–531, title III, §312(d)(34), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 106–345, title IV, §§413, 414, Oct. 20, 2000, 114 Stat. 1350, 1351; Pub. L. 108–173, title IX, §900(e)(2)(G), Dec. 8, 2003, 117 Stat. 2372, related to coordination of Federal HIV programs. See section 300ff–81 of this title.
 
 Section 300ff–75a, act July 1, 1944, ch. 373, title XXVI, §2675A, as added Pub. L. 106–345, title IV, §415, Oct. 20, 2000, 114 Stat. 1351, related to audits. See section 300ff–82 of this title.
 

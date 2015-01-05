@@ -40,7 +40,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (3) In no case may a function being performed by Department of Defense personnel be—
 
-&emsp;(A) modified, reorganized, divided, or in any way changed for the purpose of exempting theconversion of the function from the requirements of this section; or
+&emsp;(A) modified, reorganized, divided, or in any way changed for the purpose of exempting the conversion of the function from the requirements of this section; or
 
 &emsp;(B) converted to performance by a contractor to circumvent a civilian personnel ceiling.
 
@@ -66,7 +66,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time for filing a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
 
-(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the final decision and shall be binding on the Department.
+(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the finaldecision and shall be binding on the Department.
 
 (E) For the purposes of this paragraph, preliminary planning with respect to a public-private competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort, or formally assigns Department of Defense personnel, to carry out any of the following activities:
 
@@ -122,7 +122,7 @@ Congressional Notification.—(1) Before commencing a public-private competition
 
 &emsp;(ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
 
-(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
+(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not includedin the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
 
 (d)
 
@@ -320,7 +320,7 @@ Limitation on Amount.—The amount of a contract under subsection (a) may not ex
 
 Provision of Government Insurance.—A commercial air operator contracting with the Department of Defense under the pilot program referred to in subsection (a) shall be eligible to receive Government-provided insurance pursuant to chapter 443 of title 49, United States Code, if commercial insurance is unavailable on reasonable terms and conditions."
 
-Pub. L. 110–181, div. A, title X, §1081, Jan. 28, 2008, 122 Stat. 335, as amended by Pub. L. 111–84, div. A, title X, §1081, Oct. 28, 2009, 123 Stat. 2481, provided that:
+Pub. L. 110–181, div. A, title X, §1081, Jan. 28, 2008, 122 Stat. 335, as amended by Pub. L. 111–84, div. A, title X, §1081, Oct. 28, 2009, 123 Stat. 2481; Pub. L. 113–291, div. A, title X, §1061, Dec. 19, 2014, 128 Stat. 3503, provided that:
 
 "(a)
 
@@ -362,19 +362,11 @@ Annual Report.—The Secretary of the Air Force shall provide to the congression
 
 &emsp;"(2) an assessment of the impact of outsourcing air refueling on the Air Force's flying hour program and aircrew training; and
 
-&emsp;"(3) any other data that the Secretary determines is appropriate for evaluating the performance of the commercial air refueling providers participating in the pilot program.
-
-"(d)
-
-Comptroller General Review.—The Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]—
-
-&emsp;"(1) an annual review of the conduct of the pilot program under this section and any recommendations of the Comptroller General for improving the program; and
-
-&emsp;"(2) not later than 90 days after the completion of the pilot program, a final assessment of the results of the pilot program and the recommendations of the Comptroller General for whether the Secretary of the Air Force should continue to utilize fee-for-service air refueling."
+&emsp;"(3) any other data that the Secretary determines is appropriate for evaluating the performance of the commercial air refueling providers participating in the pilot program."
 
 #### Inapplicability of Subsection (a)(1)(E) to Best-Value Source Selection Pilot Program
 
-Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, provided that: "Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note)."
+Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, providedthat: "Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note)."
 
 #### Performance of Certain Work by Federal Government Employees
 
@@ -462,7 +454,7 @@ Required Examination Under Pilot Project.—Under the pilot program, the Secreta
 
 "(c)
 
-Exemption for Pilot Program.—Section 2462(a) of title 10, United States Code, does not apply to the procurement of information technology services under the pilot program.
+Exemption for Pilot Program.—\[Former\] Section 2462(a) of title 10, United States Code, does not apply to the procurement of information technology services under the pilot program.
 
 "(d)
 
@@ -484,7 +476,7 @@ Information Technology Service Defined.—In this section, the term 'information
 
 #### Pilot Manpower Reporting System in Department of the Army
 
-Pub. L. 107–107, div. A, title III, §345(a)–(c), Dec. 28, 2001, 115 Stat. 1061, 1062, provided that, not later thanMar. 1 of each of the fiscal years 2002 through 2004, the Secretary of the Army was to submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
+Pub. L. 107–107, div. A, title III, §345(a)–(c), Dec. 28, 2001, 115 Stat. 1061, 1062, provided that, not later than Mar. 1 of each of the fiscal years 2002 through 2004, the Secretary of the Army was to submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
 
 #### Pilot Program for Commercial Services
 
@@ -530,7 +522,7 @@ GAO Report.—Not later than June 1, 1999, the Comptroller General shall submit 
 
 Military Installation Defined.—For purposes of this section, the term 'military installation' means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility."
 
-\[Pub. L. 105–261, div. A, title X, §1069(b), Oct. 17, 1998, 112 Stat. 2136, provided that the amendment made by that section to section 389 of Pub. L. 105–85, set out above, is effective as of Nov. 18, 1997, and as if included in the National Defense Authorization Act for Fiscal Year 1998, Pub. L. 105–85, as enacted.\]
+\[Pub. L. 105–261, div. A, title X, §1069(b), Oct. 17, 1998, 112 Stat. 2136, provided that the amendment made by that section to section 389 of Pub. L. 105–85, set out above, is effective as of Nov. 18, 1997, and as if includedin the National Defense Authorization Act for Fiscal Year 1998, Pub. L. 105–85, as enacted.\]
 
 #### Private-Sector Operation of Certain Payroll, Finance, and Accounting Functions of Department of Defense; Plan; Report
 
@@ -560,7 +552,7 @@ Pub. L. 104–106, div. A, title III, §353(b), Feb. 10, 1996, 110 Stat. 267, pr
 
 "(2) The payroll and other accounting and finance functions designated by the Secretary for performance by private-sector sources under the pilot program shall include at least one major payroll, accounting, or finance function.
 
-"(3) To carry out the pilot program, the Secretary shall enter into discussions with private-sector sourcesfor the purpose of developing a request for proposals to be issued for performance by those sources of functions designated by the Secretary under paragraph (2). The discussions shall be conducted on a schedule that accommodates issuance of a request for proposals within 60 days after the date of the enactment of this Act \[Feb. 10, 1996\].
+"(3) To carry out the pilot program, the Secretary shall enter into discussions with private-sector sources for the purpose of developing a request for proposals to be issued for performance by those sources of functions designated by the Secretary under paragraph (2). The discussions shall be conducted on a schedule that accommodates issuance of a request for proposals within 60 days after the date of the enactment of this Act \[Feb. 10, 1996\].
 
 "(4) A goal of the pilot program is to reduce by at least 25 percent the total costs incurred by the Department annually for the performance of a function referred to in paragraph (2) through the performance of that function by a private-sector source.
 
@@ -642,7 +634,7 @@ Conduct of Tests.—(1) The Secretary shall conduct a test at an installation re
 
 "(2) The Secretary shall conduct a test at an installation referred to in subsection (a)(2) under which the Secretary—
 
-&emsp;"(A) enters into one or more contracts with a private-sector source pursuant to which the private-sector source manages the Department of Defense travel process (except for functions referred to in subparagraph (B)), provides for responsive, reasonably pricedservices as part of the travel process, and uniformly applies the travel process throughout the Department; and
+&emsp;"(A) enters into one or more contracts with a private-sector source pursuant to which the private-sector source manages the Department of Defense travel process (except for functions referred to in subparagraph (B)), provides for responsive, reasonably priced services as part of the travel process, and uniformly applies the travel process throughout the Department; and
 
 &emsp;"(B) provides for the performance by employees of the Department of only those travel functions, such as travel authorization, that the Secretary considers to be necessary to be performed by such employees.
 

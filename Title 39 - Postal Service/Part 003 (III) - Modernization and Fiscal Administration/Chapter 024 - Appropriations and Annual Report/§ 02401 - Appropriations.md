@@ -24,7 +24,7 @@
 
 (d) As reimbursement to the Postal Service for losses which it incurred as a result of insufficient amounts appropriated under section 2401(c) for fiscal years 1991 through 1993, and to compensate for the additional revenues it is estimated the Postal Service would have received under the provisions of section 3626(a) (as last in effect before enactment of the Postal Accountability and Enhancement Act), for the period beginning on October 1, 1993, and ending on September 30, 1998, if the fraction specified in subclause (VI) of section 3626(a)(3)(B)(ii) (as last in effect before enactment of the Postal Accountability and Enhancement Act) were applied with respect to such period (instead of the respective fractions specified in subclauses (I) through (V) thereof), there are authorized to be appropriated to the Postal Service $29,000,000 for each of fiscal years 1994 through 2035.
 
-(e) The Postal Service shall present to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives, at the same time it submits its annual budget under section 2009 of this title, sufficient copies of the budget of thePostal Service for the fiscal year for which funds are requested to be appropriated, and a comprehensive statement relating to the following matters:
+(e) The Postal Service shall present to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives, at the same time it submits its annual budget under section 2009 of this title, sufficient copies of the budget of the Postal Service for the fiscal year for which funds are requested to be appropriated, and a comprehensive statement relating to the following matters:
 
 &emsp;(1) the plans, policies, and procedures of the Postal Service designed to comply with all of the provisions of section 101 of this title;
 
@@ -104,7 +104,7 @@ Pub. L. 103–123, title VII, §703(b), Oct. 28, 1993, 107 Stat. 1267, provided 
 
 Pub. L. 103–123, title VII, §704(c)(2), Oct. 28, 1993, 107 Stat. 1271, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993."
 
-Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 1973gg et seq. of Title 42, The Public Health and Welfare, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 1973gg et seq. of Title 42 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 1973gg of Title 42.
+Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Voting and Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 20501 of Title 52.
 
 #### Effective Date of 1990 Amendment
 
@@ -114,7 +114,7 @@ Pub. L. 101–509, title II, §1(c), Nov. 5, 1990, 104 Stat. 1398, provided that
 
 Amendment by Pub. L. 99–509 effective Jan. 1, 1989, or effective date of next general change in rates and fees under sections 3622 and 3625 of this title \[Apr. 3, 1988\], whichever is sooner, see section 6003(c) of Pub. L. 99–509 set out as a note under section 3626 of this title.
 
-Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 1973ff of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 20301 of Title 52, Voting and Elections.
 
 #### Effective Date of 1981 Amendment
 

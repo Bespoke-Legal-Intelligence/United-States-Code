@@ -30,7 +30,7 @@ Information required.—With respect to any extension of consumer credit (includ
 
 &emsp;(2)
 
-Terms.—Such disclosures shall be presented in accordance with terms prescribed by the regulations issued by the Board of Governors of the Federal Reserve System to implement the Truth in Lending Act (15 U.S.C. 1601 et seq.).
+Terms.—Such disclosures shall be presented in accordance with terms prescribed bythe regulations issued by the Board of Governors of the Federal Reserve System to implement the Truth in Lending Act (15 U.S.C. 1601 et seq.).
 
 (d)
 
@@ -124,7 +124,7 @@ Jurisdiction, venue, and statute of limitations.—An action for civil liability
 
 &emsp;(6)
 
-Administrative enforcement.—The provisions of this section (other than paragraph (1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act (15 U.S.C. 1607) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
+Administrative enforcement.—The provisions of this section (other than paragraph\(1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act (15 U.S.C. 1607) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
 
 (g)
 
@@ -138,7 +138,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 &emsp;(A) Disclosures required of any creditor that extends consumer credit to a covered member or dependent of such a member.
 
-&emsp;(B) The method for calculating the applicable annual percentage rate of interest on suchobligations, in accordance with the limit established under this section.
+&emsp;(B) The method for calculating the applicable annual percentage rate of interest on such obligations, in accordance with the limit established under this section.
 
 &emsp;(C) A maximum allowable amount of all fees, and the types of fees, associated with any such extension of credit, to be expressed and disclosed to the borrower as a total amount and as a percentage of the principal amount of the obligation, at the time at which the transaction is entered into.
 
@@ -260,7 +260,7 @@ Authority to prescribe regulations.—Subsection (h) of such section shall take 
 
 "(3)
 
-Publication of earlier effective date.—If the Secretary of Defense prescribes an effective date for section 987 of title 10, United States Code, as added by subsection (a), earlier than October 1, 2007, the Secretary shall publish that date in the Federal Register. Such publication shall be made not less than 90 days before that earlier effective date \[Final rule implementing provisions of section 670 of Pub. L. 109–364, which enacted 10 U.S.C. 987, effective Oct. 1, 2007, see 72 F.R. 50580.\]."
+Publication of earlier effective date.—If the Secretary of Defense prescribes an effective date for section 987 of title 10, United States Code, as added by subsection (a), earlier than October 1, 2007, the Secretary shall publish that date in the Federal Register. Such publication shall be made not less than 90 days before that earlier effective date."
 
 #### Interim Regulations
 

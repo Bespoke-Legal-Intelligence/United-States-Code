@@ -34,19 +34,19 @@ Historical and Revision Notes
 
 5 U.S.C. 118k(a) (less 1st 41 words).
 
-July 19, 1940, ch. 640, §4 “Sec. 12(a) (less 1st 41 words)”, 54 Stat. 767.
+July 19, 1940, ch. 640, §4 "Sec. 12(a) (less 1st 41 words)", 54 Stat. 767.
 
-In subsection (a), the term “State or local officer or employee”, defined in section 1501, is substituted for the first 41 words of former section 118k(a). The words “any part of his salary or compensation” are omitted as included in “anything of value”.
+In subsection (a), the term "State or local officer or employee", defined in section 1501, is substituted for the first 41 words of former section 118k(a). The words "any part of his salary or compensation" are omitted as included in "anything of value".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(3). Pub. L. 112–230, §2, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be a candidate for elective office.”
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–230, §2, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "be a candidate for elective office."
 
-Subsec. (c)(3). Pub. L. 112–230, §3(c), which directed the substitution of “, municipality, or the District of Columbia’ ” for “ ‘or municipality” and “, municipal, or the District of Columbia’ ” for “ ‘or municipal”, was executed by substituting “, municipality, or the District of Columbia” for “or municipality” and “, municipal, or the District of Columbia” for “or municipal”, to reflect the probable intent of Congress.
+Subsec. (c)(3). Pub. L. 112–230, §3(c), which directed the substitution of ", municipality, or the District of Columbia' " for " 'or municipality" and ", municipal, or the District of Columbia' " for " 'or municipal", was executed by substituting ", municipality, or the District of Columbia" for "or municipality" and ", municipal, or the District of Columbia" for "or municipal", to reflect the probable intent of Congress.
 
-<b>1974</b>—Subsec. (a)(3). Pub. L. 93–443 substituted “be a candidate for elective office” for “take an active part in political management or in political campaigns”.
+<b>1974</b>—Subsec. (a)(3). Pub. L. 93–443 substituted "be a candidate for elective office" for "take an active part in political management or in political campaigns".
 
 #### Effective Date of 2012 Amendment
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see sectio
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
+Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 

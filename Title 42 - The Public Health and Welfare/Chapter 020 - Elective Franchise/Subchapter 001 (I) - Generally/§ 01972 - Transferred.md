@@ -1,0 +1,6 @@
+### §1972. Transferred
+
+#### Codification
+
+Section 1972 was editorially reclassified as section 10102 of Title 52, Voting and Elections.
+

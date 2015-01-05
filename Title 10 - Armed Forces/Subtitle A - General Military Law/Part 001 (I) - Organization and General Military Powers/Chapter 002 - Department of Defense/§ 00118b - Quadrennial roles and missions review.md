@@ -12,7 +12,7 @@ Independent Military Assessment of Roles and Missions.—(1) In each year in whi
 
 &emsp;(A) organize the significant missions of the armed forces into core mission areas that cover broad areas of military activity;
 
-&emsp;(B) ensure that core mission areas are defined and functions are assigned so as to avoid unnecessary duplication of effort among the armed forces; and
+&emsp;(B) ensure that core mission areas are defined and functions are assigned so as to avoidunnecessary duplication of effort among the armed forces; and
 
 &emsp;(C) provide the Chairman's recommendations with regard to issues to be addressed by the Secretary of Defense under subsection (c).
 
@@ -37,6 +37,14 @@ Identification of Core Mission Areas and Core Competencies and Capabilities.—U
 Report.—The Secretary shall submit a report on the quadrennial roles and missions review to the Committees on Armed Services of the Senate and the House of Representatives. The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31.
 
 (Added Pub. L. 110–181, div. A, title IX, §941(a), Jan. 28, 2008, 122 Stat. 286.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–291, div. A, title X, §1072(b)(1), (c), Dec. 19, 2014, 128 Stat. 3516, 3517, provided that, effective Oct. 1, 2015, this section is repealed.</i>
+
+#### Effective Date of Repeal
+
+Repeal effective Oct. 1, 2015, see section 1072(c) of Pub. L. 113–291, set out as an Effective Date of 2014 Amendment note under section 118 of this title.
 
 #### Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy
 

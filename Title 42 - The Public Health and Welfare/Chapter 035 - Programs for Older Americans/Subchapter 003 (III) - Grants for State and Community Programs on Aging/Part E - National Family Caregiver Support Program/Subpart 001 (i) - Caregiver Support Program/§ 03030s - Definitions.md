@@ -22,7 +22,7 @@ In this subpart:
 
 In providing services under this subpart—
 
-&emsp;(1) for family caregivers who provide care for individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder; and
+&emsp;(1) for family caregivers who provide care for individuals with Alzheimer's disease and related disorders with neurological and organicbrain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder; and
 
 &emsp;(2) for grandparents or older individuals who are relative caregivers, the State involved shall give priority to caregivers who provide care for children with severe disabilities.
 

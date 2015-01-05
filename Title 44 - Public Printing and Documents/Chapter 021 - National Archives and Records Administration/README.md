@@ -15,7 +15,7 @@
 | [2111\.](%C2%A7%2002111%20-%20Material%20accepted%20for%20deposit.md) | Material accepted for deposit. |
 | [2112\.](%C2%A7%2002112%20-%20Presidential%20archival%20depository.md) | Presidential archival depository. |
 | [2113\.](%C2%A7%2002113%20-%20Depository%20for%20agreements%20between%20States.md) | Depository for agreements between States. |
-| [2114\.](%C2%A7%2002114%20-%20Preservation%20of%20motion-picture%20films%2C%20still%20pictures%2C%20and%20sound%20recordings.md) | Preservation of motion-picture films, still pictures, and sound recordings. |
+| [2114\.](%C2%A7%2002114%20-%20Preservation%20of%20audio%20and%20visual%20records.md) | Preservation of audio and visual records. |
 | [2115\.](%C2%A7%2002115%20-%20Reports%3B%20correction%20of%20violations.md) | Reports; correction of violations. |
 | [2116\.](%C2%A7%2002116%20-%20Legal%20status%20of%20reproductions%3B%20official%20seal%3B%20fees%20for%20copies%20and%20reproductions.md) | Legal status of reproductions; official seal; fees for copies and reproductions. |
 | [2117\.](%C2%A7%2002117%20-%20Limitation%20on%20liability.md) | Limitation on liability. |
@@ -26,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–187, §3(c)(2), Nov. 26, 2014, 128 Stat. 2008, substituted "Preservation of audio and visual records" for "Preservation of motion-picture films, still pictures, and sound recordings" in item 2114.
 
 <b>2008</b>—Pub. L. 110–404, §4(c), Oct. 13, 2008, 122 Stat. 4283, added item 2120.
 
@@ -51,7 +53,7 @@
 - [&sect; 02111 - Material accepted for deposit](%C2%A7%2002111%20-%20Material%20accepted%20for%20deposit.md)
 - [&sect; 02112 - Presidential archival depository](%C2%A7%2002112%20-%20Presidential%20archival%20depository.md)
 - [&sect; 02113 - Depository for agreements between States](%C2%A7%2002113%20-%20Depository%20for%20agreements%20between%20States.md)
-- [&sect; 02114 - Preservation of motion-picture films, still pictures, and sound recordings](%C2%A7%2002114%20-%20Preservation%20of%20motion-picture%20films%2C%20still%20pictures%2C%20and%20sound%20recordings.md)
+- [&sect; 02114 - Preservation of audio and visual records](%C2%A7%2002114%20-%20Preservation%20of%20audio%20and%20visual%20records.md)
 - [&sect; 02115 - Reports; correction of violations](%C2%A7%2002115%20-%20Reports%3B%20correction%20of%20violations.md)
 - [&sect; 02116 - Legal status of reproductions; official seal; fees for copies and reproductions](%C2%A7%2002116%20-%20Legal%20status%20of%20reproductions%3B%20official%20seal%3B%20fees%20for%20copies%20and%20reproductions.md)
 - [&sect; 02117 - Limitation on liability](%C2%A7%2002117%20-%20Limitation%20on%20liability.md)

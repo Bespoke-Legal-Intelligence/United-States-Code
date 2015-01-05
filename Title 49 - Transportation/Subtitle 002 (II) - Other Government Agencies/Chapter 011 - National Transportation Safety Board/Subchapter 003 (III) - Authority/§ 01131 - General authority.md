@@ -38,7 +38,7 @@ Accidents Involving Public Vessels.—(1) The Board or the head of the departmen
 
 (c)
 
-Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When askedby the Board, the Secretary of Transportation or the Secretary of the department in which the Coast Guard is operating may—
+Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked by the Board, the Secretary of Transportation or the Secretary of the department in which the Coast Guard is operating may—
 
 &emsp;(A) investigate an accident described under subsection (a) or (b) of this section in which misfeasance or nonfeasance by the Government has not been alleged; and
 
@@ -160,7 +160,7 @@ Subsec. (c)(1). Pub. L. 109–443, §9(c), inserted "or the Secretary of the dep
 
 Subsec. (d). Pub. L. 106–424, §7, substituted "1134(a), (b), (d), and (f)" for "1134(b)(2)".
 
-<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end "or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States".
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end "or an aircraft accident involving a public aircraft as defined by section40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States".
 
 Subsecs. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -170,7 +170,7 @@ Pub. L. 103–411, §3(d), Oct. 25, 1994, 108 Stat. 4237, provided that: "The am
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Revision of 1977 Agreement
 

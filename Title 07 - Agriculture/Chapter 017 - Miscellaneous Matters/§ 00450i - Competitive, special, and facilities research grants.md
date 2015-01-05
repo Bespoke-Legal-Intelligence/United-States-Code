@@ -52,9 +52,17 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;&emsp;(vi) improved nutritional performance of animals;
 
-&emsp;&emsp;&emsp;(vii) improved nutrient qualities of animal products and uses; and
+&emsp;&emsp;&emsp;(vii) improved nutrient qualities of animal products and uses;
 
-&emsp;&emsp;&emsp;(viii) the development of new and improved animal husbandry and production systems that take into account production efficiency, animal well-being, and animal systems applicable to aquaculture.
+&emsp;&emsp;&emsp;(viii) the development of new and improved animal husbandry and production systems that take into account production efficiency, animal well-being, and animal systems applicable to aquaculture;
+
+&emsp;&emsp;&emsp;(ix) the research and development of surveillance methods, vaccines, vaccination delivery systems, or diagnostic tests for pests and diseases, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) epizootic diseases in domestic livestock (including deer, elk, bison, and other animals of the family Cervidae); and
+
+&emsp;&emsp;&emsp;&emsp;(II) zoonotic diseases (including bovine brucellosis and bovine tuberculosis) in domestic livestock or wildlife reservoirs that present a potential concern to public health; and
+
+&emsp;&emsp;&emsp;(x) the identification of animal drug needs and the generation and dissemination of data for safe and effective therapeutic applications of animal drugs for minor species and minor uses of such drugs in major species.
 
 #### (C) Food safety, nutrition, and health
 
@@ -70,7 +78,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;&emsp;(v) improved processing technologies.
 
-#### (D) Renewable energy, natural resources, and environment
+#### (D) Bioenergy, natural resources, and environment
 
 &emsp;&emsp;Natural resources and the environment, including—
 
@@ -80,11 +88,13 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;&emsp;(iii) minimizing soil and water losses and sustaining surface water and ground water quality;
 
-&emsp;&emsp;&emsp;(iv) global climate effects on agriculture;
+&emsp;&emsp;&emsp;(iv) the effectiveness of conservation practices and technologies designed to address nutrient losses and improve water quality;
 
-&emsp;&emsp;&emsp;(v) forestry; and
+&emsp;&emsp;&emsp;(v) global climate effects on agriculture;
 
-&emsp;&emsp;&emsp;(vi) biological diversity.
+&emsp;&emsp;&emsp;(vi) forestry; and
+
+&emsp;&emsp;&emsp;(vii) biological diversity.
 
 #### (E) Agriculture systems and technology
 
@@ -100,7 +110,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 #### (F) Agriculture economics and rural communities
 
-&emsp;&emsp;Markets, trade, and policy, including—
+&emsp;&emsp;Markets, trade, economics, and policy, including—
 
 &emsp;&emsp;&emsp;(i) strategies for entering into and being competitive in domestic and overseas markets;
 
@@ -110,9 +120,11 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;&emsp;(iv) choices and applications of technology;
 
-&emsp;&emsp;&emsp;(v) technology assessment; and
+&emsp;&emsp;&emsp;(v) the economic costs, benefits, and viability of producers adopting conservation practices and technologies designed to improve water quality;
 
-&emsp;&emsp;&emsp;(vi) new approaches to rural development, including rural entrepreneurship.
+&emsp;&emsp;&emsp;(vi) technology assessment; and
+
+&emsp;&emsp;&emsp;(vii) new approaches to rural development, including rural entrepreneurship.
 
 #### (3) Term
 
@@ -128,9 +140,11 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;(C) award grants on the basis of merit, quality, and relevance;
 
-&emsp;&emsp;(D) solicit and consider input from persons who conduct or use agricultural research, extension, or education in accordance with section 7612(b) of this title; and
+&emsp;&emsp;(D) solicit and consider input from persons who conduct or use agricultural research, extension, or education in accordance with section 7612(b) of this title;
 
-&emsp;&emsp;(E) in seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, seek the widest participation of qualified individuals in the Federal Government, colleges and universities, State agricultural experiment stations, and the private sector.
+&emsp;&emsp;(E) in seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, seek the widest participation of qualified individuals in the Federal Government, colleges and universities, State agricultural experiment stations, and the private sector; and
+
+&emsp;&emsp;(F) establish procedures, including timelines, under which an entity established under a commodity promotion law (as such term is defined under section 7401(a) of this title) or a State commodity board (or other equivalent State entity) may directly submit to the Secretary for consideration proposals for requests for applications that specifically address particular issues related to the priority areas specified in paragraph (2).
 
 #### (5) Allocation of funds
 
@@ -150,11 +164,13 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;(A) to an institution to allow for the improvement of the research, development, technology transfer, and education capacity of the institution through the acquisition of special research equipment and the improvement of agricultural education and teaching, except that the Secretary shall use not less than 25 percent of the funds made available for grants under this subparagraph to provide fellowships to outstanding pre- and post-doctoral students for research in the agricultural sciences;
 
-&emsp;&emsp;(B) to a single investigator or coinvestigators who are beginning research careers anddo not have an extensive research publication record, except that, to be eligible for a grant under this subparagraph, an individual shall be within 5 years of the beginning of the initial career track position of the individual;
+&emsp;&emsp;(B) to a single investigator or coinvestigators who are beginning research careers and do not have an extensive research publication record, except that, to be eligible for a grant under this subparagraph, an individual shall be within 5 years of the beginning of the initial career track position of the individual;
 
-&emsp;&emsp;(C) to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants; and
+&emsp;&emsp;(C) to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants;
 
-&emsp;&emsp;(D) to improve research, extension, and education capabilities in States (as defined in section 3103 of this title) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels.
+&emsp;&emsp;(D) to improve research, extension, and education capabilities in States (as defined in section 3103 of this title) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels; and
+
+&emsp;&emsp;(E) to eligible entities to carry out the specific proposals submitted under procedures established under paragraph (4)(F) only if such specific proposals are consistent with a priority area specified in paragraph (2).
 
 #### (7) Eligible entities
 
@@ -172,7 +188,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;(F) national laboratories;
 
-&emsp;&emsp;(G) private organizations or corporations;
+&emsp;&emsp;(G) private organizations, foundations, or corporations;
 
 &emsp;&emsp;(H) individuals; or
 
@@ -194,13 +210,41 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;&emsp;The Secretary may waive all or part of the matching requirement under clause (i) in the case of a college, university, or research foundation maintained by a college or university that ranks in the lowest 1/3 of such colleges, universities, and research foundations on the basis of Federal research funds received, if the equipment to be acquired using funds from the grant costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.
 
-#### (B) Applied research
+#### (iii) Exemption
 
-&emsp;&emsp;As a condition of making a grant under paragraph (5)(B), the Secretary shall require the funding of the grant to be matched with equal matching funds from a non-Federal source if the grant is for applied research that is—
+&emsp;&emsp;&emsp;The matching funds requirement under section 3371 of this title shall not apply in the case of a grant made under paragraph (6)(A).
 
-&emsp;&emsp;&emsp;(i) commodity-specific; and
+#### (B) Contribution requirement for commodity promotion grants
 
-&emsp;&emsp;&emsp;(ii) not of national scope.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), as a condition of funding a grant under paragraph (6)(E), the Secretary shall require that the grant be matched with an equal contribution of funds from the entities described in paragraph (4)(F) submitting proposals under procedures established under such paragraph.
+
+#### (ii) Availability of funds
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Contributions required by clause (i) shall be available to the Secretary for obligation and remain available until expended for the purpose of making grants under paragraph (6)(E).
+
+#### (II) Administration
+
+&emsp;&emsp;&emsp;&emsp;Of amounts contributed to the Secretary under clause (i), not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary in carrying out this subsection.
+
+#### (III) Restriction
+
+&emsp;&emsp;&emsp;&emsp;Funds contributed to the Secretary by an entity under clause (i) in connection with a proposal submitted by that entity under procedures established under paragraph (4)(F) may only be used to fund grants in connection with that proposal.
+
+#### (IV) Remaining funds
+
+&emsp;&emsp;&emsp;&emsp;Funds contributed to the Secretary by an entity under clause (i) that remain unobligated at the time of grant closeout shall be returned to that entity.
+
+#### (V) Indirect costs
+
+&emsp;&emsp;&emsp;&emsp;The indirect cost rate applicable to appropriated funds for a grant funded under paragraph (6)(E) shall apply to amounts contributed by an entity under clause (i).
+
+#### (iii) Other matching funds requirements
+
+&emsp;&emsp;&emsp;The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by section 3371 of this title.
 
 #### (10) Program administration
 
@@ -210,7 +254,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 #### (A) In general
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this subsection $700,000,000 for each of fiscal years 2008 through 2012, of which—
+&emsp;&emsp;There is authorized to be appropriated to carry out this subsection $700,000,000 for each of fiscal years 2008 through 2018, of which—
 
 &emsp;&emsp;&emsp;(i) not less than 30 percent shall be made available for integrated research pursuant to section 7626 of this title; and
 
@@ -244,7 +288,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 Limitations.—The Secretary may not make a grant under this subsection—
 
-&emsp;(A) for any purpose for which a grant may be made under subsection (d) of this section; or
+&emsp;(A) for any purpose for which a grant may be made under subsection (d); or
 
 &emsp;(B) for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
 
@@ -298,7 +342,7 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 (1) The Secretary of Agriculture shall establish an Inter-Regional Research Project Number 4 (hereinafter referred to in this subsection as the "IR–4 Program") to assist in the collection of residue and efficacy data in support of—
 
-&emsp;(A) the registration or reregistration of minor use pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.); and
+&emsp;(A) the registration or reregistration of pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note)), under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.); and
 
 &emsp;(B) tolerances for residues of minor use chemicals in or on raw agricultural commodities under sections 346a and 348 of title 21.
 
@@ -308,11 +352,19 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 (4) As part of carrying out the IR–4 Program, the Secretary shall—
 
-&emsp;(A) participate in research activities aimed at reducing residues of pesticides registered for minor agricultural use;
+&emsp;(A) participate in research activities aimed at reducing residues of pesticides registered for minor agricultural use and for use on specialty crops;
 
-&emsp;(B) develop analytical techniques applicable to residues of pesticides registered for minor agricultural use, including automation techniques and validation of analytical methods; and
+&emsp;(B) develop analytical techniques applicable to residues of pesticides registered for minor agricultural use, including automation techniques and validation of analytical methods;
 
-&emsp;(C) coordinate with other programs within the Department of Agriculture and the Environmental Protection Agency designed to develop and promote biological and other alternative control measures.
+&emsp;(C) prioritize potential pest management technology for minor agricultural use and for use on specialty crops;
+
+&emsp;(D) conduct research to develop the data necessary to facilitate pesticide registrations, reregistrations, and associated tolerances;
+
+&emsp;(E) assist in removing trade barriers caused by residues of pesticides registered for minor agricultural use and for use on domestically grown specialty crops;
+
+&emsp;(F) assist in the registration and reregistration of pest management technologies forminor agricultural use and for use on specialty crops; and
+
+&emsp;(G) coordinate with other programs within the Department of Agriculture and the Environmental Protection Agency designed to develop and promote biological and other alternative control measures.
 
 (5) The Secretary shall prepare and submit, to appropriate Committees of Congress, a report on an annual basis that contains—
 
@@ -334,7 +386,7 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 #### (f) Record keeping
 
-Each recipient of assistance under this section shall keep such records as the Secretary of Agriculture shall, by regulation, prescribe, includingrecords which fully disclose the amount and disposition by such recipient of the proceeds of such grants, the total cost of the project or undertaking in connection with which such funds are given or used, and the amount of that portion of the costs of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit. The Secretary of Agriculture and the Comptroller General of the United States or any of their duly authorized representatives shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this section.
+Each recipient of assistance under this section shall keep such records as the Secretary of Agriculture shall, by regulation, prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grants, the total cost of the project or undertaking in connection with which such funds are given or used, and the amount of that portion of the costs of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit. The Secretary of Agriculture and the Comptroller General of the United States or any of their duly authorized representatives shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this section.
 
 #### (g) Limits on overhead costs
 
@@ -342,7 +394,7 @@ The Secretary of Agriculture shall limit allowable overhead costs, with respect 
 
 #### (h) Authorization of appropriations
 
-Except as otherwise provided in subsections (b) and (e) of this section, there are hereby authorized to be appropriated such sums as are necessary to carry out this section.
+Except as otherwise provided in subsections (b) and (e), there are hereby authorized to be appropriated such sums as are necessary to carry out this section.
 
 #### (i) Rules
 
@@ -354,13 +406,15 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (k) Emphasis on sustainable agriculture
 
-The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term "sustainable agriculture" has the meaning given that term in section 3103 of this title.
+The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term "sustainable agriculture" has the meaning given that term in section 3103 of this title.
 
-(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013.)
+(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895.)
 
 #### References in Text
 
 Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+
+Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in subsec. (e)(1)(A), is section 3 of Pub. L. 108–465, which is set out as a note under section 1621 of this title.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
@@ -373,6 +427,36 @@ The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95�
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(B)(ix), (x). Pub. L. 113–79, §7404(b)(1), added cls. (ix) and (x).
+
+Subsec. (b)(2)(D). Pub. L. 113–79, §7404(b)(2)(A), substituted "Bioenergy" for "Renewable energy" in heading.
+
+Subsec. (b)(2)(D)(iv) to (vii). Pub. L. 113–79, §7404(b)(2)(B), (C), added cl. (iv) and redesignated former cls. (iv) to (vi) as (v) to (vii), respectively.
+
+Subsec. (b)(2)(F). Pub. L. 113–79, §7404(b)(3)(A), inserted "economics," after "trade," in introductory provisions.
+
+Subsec. (b)(2)(F)(v) to (vii). Pub. L. 113–79, §7404(b)(3)(B), (C), added cl. (v) and redesignated former cls. (v) and (vi) as (vi) and (vii), respectively.
+
+Subsec. (b)(4)(F). Pub. L. 113–79, §7404(c), added subpar. (F).
+
+Subsec. (b)(6)(E). Pub. L. 113–79, §7404(d), added subpar. (E).
+
+Subsec. (b)(7)(G). Pub. L. 113–79, §7404(e), substituted ", foundations, or corporations" for "or corporations".
+
+Subsec. (b)(9)(A)(iii). Pub. L. 113–79, §7128(b)(4)(A), added cl. (iii).
+
+Subsec. (b)(9)(B). Pub. L. 113–79, §7404(f), added subpar. (B).
+
+Pub. L. 113–79, §7128(b)(4)(B), struck out subpar. (B) which related to applied research.
+
+Subsec. (b)(11)(A). Pub. L. 113–79, §7404(a), substituted "2018" for "2012" in introductory provisions.
+
+Subsec. (e)(1)(A). Pub. L. 113–79, §7404(g)(1), substituted "pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note))," for "minor use pesticides".
+
+Subsec. (e)(4)(A). Pub. L. 113–79, §7404(g)(2)(A), inserted "and for use on specialty crops" after "minor agricultural use".
+
+Subsec. (e)(4)(C) to (G). Pub. L. 113–79, §7404(g)(2)(B)–(D), added subpars. (C) to (F) and redesignated former subpar. (C) as (G).
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–246, §7406(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Secretary to make competitive grants for research to further Department of Agriculture programs and to conduct a program to improve research capabilities in the agricultural, food, and environmental sciences and required an annual report to Congress describing the operations of the program during the preceding fiscal year.
 
@@ -390,7 +474,7 @@ Subsec. (b)(10). Pub. L. 107–171, §7136, substituted "2007" for "2002" in int
 
 Subsec. (b)(10)(C). Pub. L. 107–76, §775(2), substituted ", (F), and (G) of paragraph (3) for" for "and (F) of paragraph (3) for awarding grants in".
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §§211(1), 606(h)(1), in first sentence, inserted "national laboratories,"after "Federal agencies," and in second sentence, substituted "National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)" for "Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board".
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §§211(1), 606(h)(1), in first sentence, inserted "national laboratories," after "Federal agencies," and in second sentence, substituted "National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)" for "Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board".
 
 Subsec. (b)(2). Pub. L. 105–185, §211(2), substituted "multistate" for "regional" in introductory provisions.
 
@@ -446,7 +530,7 @@ Subsec. (f). Pub. L. 102–237, §401(b)(3), substituted "Record keeping" for "L
 
 Subsec. (g). Pub. L. 102–237, §401(b)(4), substituted "Limits on overhead costs" for "Authorization of appropriations" as heading.
 
-Subsec. (h). Pub. L. 102–237, §401(b)(5), substituted "Authorization of appropriations" for "Rules" as heading and "subsections (b) and (e) of this section" for "subsection (b) of this section" and struck out "the provisions of" after "to carry out".
+Subsec. (h). Pub. L. 102–237, §401(b)(5), substituted "Authorization of appropriations" for "Rules" as heading and "subsections (b) and (e)" for "subsection (b) of this section" and struck out "the provisions of" after "to carry out".
 
 Subsec. (i). Pub. L. 102–237, §401(b)(6), substituted "Rules" for "Application of other laws" as heading, substituted "may" for "is authorized to", and struck out "the provisions of" after "to carry out".
 
@@ -482,7 +566,7 @@ Pub. L. 101–624, §1497(1), redesignated subsec. (i), relating to application 
 
 Subsecs. (k) and (l). Pub. L. 101–624, §1615(b), added subsecs. (k) and (l).
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1409(a)(1), (2), substituted in third sentence par. "(2) research, with emphasis on biotechnology," for "(2) research" and addedpars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1409(a)(1), (2), substituted in third sentence par. "(2) research, with emphasis on biotechnology," for "(2) research" and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
 
 Pub. L. 99–198, §1409(a)(3), in concluding provisions substituted appropriations authorization of $70,000,000 annually for fiscal years ending Sept. 30, 1986, through Sept. 30, 1990 for prior authorization of 25, 30, 35, and 40 million dollars for fiscal years ending Sept. 30, 1978, through Sept. 30, 1981, and 50 million dollars annually for fiscal years ending Sept. 30, 1982, through Sept. 30, 1985, and for any subsequent fiscal year not in excess of such sums as may be authorized by law; and authorized retention of four percent of appropriated funds for payment of administrative costs.
 

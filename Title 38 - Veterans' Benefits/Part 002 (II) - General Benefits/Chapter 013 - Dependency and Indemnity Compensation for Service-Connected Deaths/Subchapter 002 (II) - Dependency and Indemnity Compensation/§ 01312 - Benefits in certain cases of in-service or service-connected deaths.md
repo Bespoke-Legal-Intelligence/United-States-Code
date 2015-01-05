@@ -16,7 +16,7 @@
 
 (b) In any case where the amount of dependency and indemnity compensation payable under this chapter to a surviving spouse who has children is less than the amount of pension which would be payable to (1) such surviving spouse, or (2) such children if the surviving spouse were not entitled, under chapter 15 of this title had the death occurred under circumstances authorizing payment of death pension, the Secretary shall pay dependency and indemnity compensation to such surviving spouse in an amount equal to such amount of pension.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1128, §412; Pub. L. 87–268, §1(a), Sept. 21, 1961, 75 Stat. 566;Pub. L. 89–466, June 22, 1966, 80 Stat. 217; Pub. L. 94–433, title IV, §405(9), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–223, title II, §213(2), Mar. 2, 1984, 98 Stat. 46; Pub. L. 102–54, §14(b)(3), June 13, 1991, 105 Stat. 283; renumbered §1312 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1128, §412; Pub. L. 87–268, §1(a), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–466, June 22, 1966, 80 Stat. 217; Pub. L. 94–433, title IV, §405(9), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–223, title II, §213(2), Mar. 2, 1984, 98 Stat. 46; Pub. L. 102–54, §14(b)(3), June 13, 1991, 105 Stat. 283; renumbered §1312 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### References in Text
 

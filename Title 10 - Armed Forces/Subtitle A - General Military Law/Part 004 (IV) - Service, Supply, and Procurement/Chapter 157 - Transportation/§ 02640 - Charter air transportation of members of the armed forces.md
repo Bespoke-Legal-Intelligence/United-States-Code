@@ -70,7 +70,7 @@ Waiver.—After considering recommendations by the Commercial Airlift Review Boa
 
 (h)
 
-Authority To Protect Safety-Related Information Voluntarily Provided by an Air Carrier.—(1) Subject to paragraph (2), the Secretary of Defense may (notwithstanding any other provision of law) withhold from public disclosure safety-related information that is provided to the Secretary voluntarily by an air carrier for the purposes of this section.
+Authority To Protect Safety-Related Information Voluntarily Provided by an AirCarrier.—(1) Subject to paragraph (2), the Secretary of Defense may (notwithstanding any other provision of law) withhold from public disclosure safety-related information that is provided to the Secretary voluntarily by an air carrier for the purposes of this section.
 
 (2) Information may be withheld under paragraph (1) from public disclosure only if the Secretary determines that—
 

@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term “covered employee” means—
+In this section, the term "covered employee" means—
 
 &emsp;(1) an employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives; or
 
@@ -12,7 +12,7 @@ In this section, the term “covered employee” means—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), funds appropriated to the Architect of the Capitol under the heading “Capitol Power Plant” under the heading “ARCHITECT OF THE CAPITOL” in any fiscal year are available to construct, operate, and maintain on a reimbursable basis battery recharging stations in parking areas under the jurisdiction of the House of Representatives on Capitol Grounds for use by privately owned vehicles used by Members of the House of Representatives (including the Delegates or Resident Commissioner to the Congress) or covered employees.
+&emsp;Subject to paragraph (3), funds appropriated to the Architect of the Capitol under the heading "Capitol Power Plant" under the heading "ARCHITECT OF THE CAPITOL" in any fiscal year are available to construct, operate, and maintain on a reimbursable basis battery recharging stations in parking areas under the jurisdiction of the House of Representatives on Capitol Grounds for use by privately owned vehicles used by Members of the House of Representatives (including the Delegates or Resident Commissioner to the Congress) or covered employees.
 
 #### (2) Vendors authorized
 
@@ -36,7 +36,7 @@ In this section, the term “covered employee” means—
 
 &emsp;The Architect of the Capitol may establish and adjust fees or charges under paragraph (1) after—
 
-&emsp;&emsp;(A) submission of written notice detailing the amount of the fee or charge to be established or adjusted to the Committee onHouse Administration of the House of Representatives; and
+&emsp;&emsp;(A) submission of written notice detailing the amount of the fee or charge to be established or adjusted to the Committee on House Administration of the House of Representatives; and
 
 &emsp;&emsp;(B) approval by that Committee.
 

@@ -2,7 +2,7 @@
 
 The Secretary of Commerce is authorized to—
 
-&emsp;(1) conduct research on all of the telecommunications sciences, including wave propagation and reception, the conditions which affect electromagnetic wave propagation and reception, electromagnetic noise and interference, radio system characteristics, operating techniques affecting the use of the electromagnetic spectrum, and methods for improving the use of the electromagnetic spectrum for telecommunications purposes;
+&emsp;(1) conduct research on all of the telecommunications sciences, including wave propagation and reception, the conditions which affect electromagnetic wave propagation and reception, electromagnetic noise andinterference, radio system characteristics, operating techniques affecting the use of the electromagnetic spectrum, and methods for improving the use of the electromagnetic spectrum for telecommunications purposes;
 
 &emsp;(2) prepare and issue predictions of electromagnetic wave propagation conditions and warnings of disturbances in such conditions;
 

@@ -72,7 +72,7 @@ A member of the Board shall be designated by the President to serve as Chairman 
 
 #### (f) Compensation, expenses, and per diem
 
-A member of the Board shall, for each day (including traveltime) during which the member is attending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board awayfrom their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
+A member of the Board shall, for each day (including traveltime) during which the member isattending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
 
 #### (g) Meetings
 
@@ -154,11 +154,11 @@ Repeals.—The repeals made by section 5525(c) \[repealing provisions set out as
 
 Section 5526
 
-Amendments.—The amendments made by section 5526 of this Act \[amending this section\] shall take effect as if included in the enactment of section 108 of the Contract with America Advancement Act of 1996 (Public Law 104–121; 110 Stat. 857).
+Amendments.—The amendments made by section 5526 of this Act \[amending this section\] shall take effect as if included in the enactmentof section 108 of the Contract with America Advancement Act of 1996 (Public Law 104–121; 110 Stat. 857).
 
 "(e)
 
-Section 5227.—Section 5227 \[probably means section 5527 of this Act which is set out as a note undersection 909 of this title\] shall take effect on the date of the enactment of this Act."
+Section 5227.—Section 5227 \[probably means section 5527 of this Act which is set out as a note under section 909 of this title\] shall take effect on the date of the enactment of this Act."
 
 #### Effective Date of 1984 Amendment
 

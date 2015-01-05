@@ -160,7 +160,7 @@ Pub. L. 97–200, §1, June 23, 1982, 96 Stat. 122, provided: "That this Act \[s
 
 #### Short Title of 1949 Amendment
 
-Act Aug. 10, 1949, ch. 412, §1, 63 Stat. 578, provided that: "This Act \[see Tables for classification\] may be cited as the 'National Security Act Amendments of 1949'."
+Act Aug. 10, 1949, ch. 412, §1, 63 Stat. 578, provided that: "This Act \[see Tables for classification\] may becited as the 'National Security Act Amendments of 1949'."
 
 Sections of National Security Act of 1947, which were classified to former Title 5, were repealed and restated in Title 10, Armed Forces, except as noted, as follows:
 
@@ -241,7 +241,7 @@ Pub. L. 108–487, title VIII, §802, Dec. 23, 2004, 118 Stat. 3962, provided th
 
 #### Charter for the National Reconnaissance Office
 
-Pub. L. 111–84, div. A, title X, §1035, Oct. 28, 2009, 123 Stat. 2450, provided that: "Not later than February 1, 2010, the Director of National Intelligence and the Secretary of Defense shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a revised charter for the National Reconnaissance Office (in this section referred to as the 'NRO'). The charter shall include the following:
+Pub. L. 111–84, div. A, title X, §1035, Oct. 28, 2009, 123 Stat. 2450, provided that: "Not later than February 1, 2010, the Director of National Intelligence and the Secretary of Defense shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senatea revised charter for the National Reconnaissance Office (in this section referred to as the 'NRO'). The charter shall include the following:
 
 &emsp;"(1) The organizational and governance structure of the NRO.
 
@@ -429,7 +429,7 @@ Gifts.—The Commission may accept, use, and dispose of gifts or donations of se
 
 In General.—(1) The co-chairs of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of such title.
 
-"(2) Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+"(2) Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain therights, status, and privileges of his or her regular employment without interruption.
 
 "(3) All staff of the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
 
@@ -445,7 +445,7 @@ Consultant Services.—(1) The Commission may procure the services of experts an
 
 Compensation.—(1) Except as provided in paragraph (2), each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission under this title.
 
-"(2) Members of the Commission who are officers or employees of the United States or Members of Congressshall receive no additional pay by reason of their service on the Commission.
+"(2) Members of the Commission who are officers or employees of the United States or Members of Congress shall receive no additional pay by reason of their service on the Commission.
 
 "(b)
 
@@ -519,7 +519,7 @@ Pub. L. 106–120, title VII, Dec. 3, 1999, 113 Stat. 1620, established the Nati
 
 #### Commission on Roles and Capabilities of United States Intelligence Community
 
-Pub. L. 103–359, title IX, Oct. 14, 1994, 108 Stat. 3456, related to establishment, composition, duties, reports, powers, payment of expenses, and termination, not later than Mar. 1, 1996, of the Commission on the Roles and Capabilities of the United States Intelligence Community.
+Pub. L. 103–359, title IX, Oct. 14, 1994, 108 Stat. 3456, related to establishment, composition, duties, reports, powers, payment of expenses, and termination, not later than Mar. 1, 1996, of the Commission on the Rolesand Capabilities of the United States Intelligence Community.
 
 #### National Commission on Defense and National Security
 
@@ -649,7 +649,7 @@ Additional and Minority Views.—Each report may include such additional and min
 
 "(a)
 
-Director.—The Commission shall, without regard to section 5311(b) of title 5, United States Code, have a Director who shall be appointed by the Chairman and who shall be paid at a rate not to exceed the maximum rate of basic pay payable for GS–18 of the General Schedule.
+Director.—The Commission shall, without regard to section 5311(b) of title 5, United States Code,have a Director who shall be appointed by the Chairman and who shall be paid at a rate not to exceed the maximum rate of basic pay payable for GS–18 of the General Schedule.
 
 "(b)
 
@@ -665,7 +665,7 @@ Experts and Consultants.—Subject to such rules as may be prescribed by the Com
 
 "(e)
 
-Staff of Federal Agencies.—Upon request of the Commission, the head of any Federal agency maydetail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this Act.
+Staff of Federal Agencies.—Upon request of the Commission, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this Act.
 
 #### "SEC. 8. POWERS OF COMMISSION
 
@@ -743,7 +743,7 @@ Pursuant to Paragraph 2 of Executive Order 10431, the following regulations are 
 
 #### Executive Order No. 11905
 
-Ex. Ord. No. 11905, Feb. 18, 1976, 41 F.R. 7703, as amended by Ex. Ord. No. 11985, May 13, 1977, 42 F.R. 25487; Ex. Ord. No. 11994, June 1, 1977, 42 F.R. 28869,which related to United States foreign intelligence activities, was superseded by Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, formerly set out below.
+Ex. Ord. No. 11905, Feb. 18, 1976, 41 F.R. 7703, as amended by Ex. Ord. No. 11985, May 13, 1977, 42 F.R. 25487; Ex. Ord. No. 11994, June 1, 1977, 42 F.R. 28869, which related to United States foreign intelligence activities, was superseded by Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, formerly set out below.
 
 #### Executive Order No. 12036
 
@@ -903,7 +903,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (1) Except for the Director of the Central Intelligence Agency, whose removal the Director may recommend to the President, the Director and the relevant department head shall consult on the removal, or recommendation to the President for removal, as the case may be, of: the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, the Director of the Defense Intelligence Agency, the Under Secretary of Homeland Security for Intelligence and Analysis, the Assistant Secretary of State for Intelligence and Research, and the Assistant Secretary for Intelligence and Analysis of the Department of the Treasury. If the Director and the department head do not agree on removal, or recommendation for removal, either may make a recommendation to the President for the removal of the individual.
 
-(2) The Director and the relevant department or bureau head shall consult on the removal of: the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Director of the National Reconnaissance Office, the Assistant Commandant of the Coast Guard for Intelligence, and the Under Secretary of Defense for Intelligence. With respect to an individual appointed by a department head, the department head may remove the individual upon the request of the Director; if the department head chooses not to remove the individual, either the Director or the department head may advise the President of the department head's intention to retain the individual. In the case of the Under Secretary of Defense for Intelligence, the Secretary of Defense may recommend to the President either the removal or the retention of the individual. For uniformed heads of the intelligence elements of the Army, the Navy, the AirForce, and the Marine Corps, the Director may make a recommendation for removal to the Secretary of Defense.
+(2) The Director and the relevant department or bureau head shall consult on the removal of: the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Director of the National Reconnaissance Office, the Assistant Commandant of the Coast Guard for Intelligence, and the Under Secretary of Defense for Intelligence. With respect to an individual appointed by a department head, the department head may remove the individual upon the request of the Director; if the department head chooses not to remove the individual, either the Director or the department head may advise the President of the department head's intention to retain the individual. In the case of the Under Secretary of Defense for Intelligence, the Secretary of Defense may recommend to the President either the removal or the retention of the individual. For uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps, the Director may make a recommendation for removal to the Secretary of Defense.
 
 (3) Nothing in this subsection shall be construed to limit or otherwise affect the authority of the President to nominate, appoint, assign, or terminate the appointment or assignment of any individual, with or without a consultation, recommendation, or concurrence.
 
@@ -1301,7 +1301,7 @@ The duties and responsibilities of the Director and the heads of other departmen
 
 Implementation
 
-The President, supported by the NSC, and the Director shall issue such appropriate directives, procedures,and guidance as are necessary to implement this order. Heads of elements within the Intelligence Community shall issue appropriate procedures and supplementary directives consistent with this order. No procedures to implement Part 2 of this order shall be issued without the Attorney General's approval, after consultation with the Director. The Attorney General shall provide a statement of reasons for not approving any procedures established by the head of an element in the Intelligence Community (or the head of the department containing such element) other than the FBI. In instances where the element head or department head and the Attorney General are unable to reach agreements on other than constitutional or other legal grounds, the Attorney General, the head of department concerned, or the Director shall refer the matter to the NSC.
+The President, supported by the NSC, and the Director shall issue such appropriate directives, procedures, and guidance as are necessary to implement this order. Heads of elements within the Intelligence Community shall issue appropriate procedures and supplementary directives consistent with this order. No procedures to implement Part 2 of this order shall be issued without the Attorney General's approval, after consultation with the Director. The Attorney General shall provide a statement of reasons for not approving any procedures established by the head of an element in the Intelligence Community (or the head of the department containing such element) other than the FBI. In instances where the element head or department head and the Attorney General are unable to reach agreements on other than constitutional or other legal grounds, the Attorney General, the head of department concerned, or the Director shall refer the matter to the NSC.
 
 #### 3\.3
 
@@ -1387,7 +1387,7 @@ For the purposes of this Order, the following terms shall have these meanings:
 
 Revocation
 
-Executive Orders 13354 and 13355 of August 27, 2004, are revoked; and paragraphs 1.3(b)(9) and (10) of Part 1supersede provisions within Executive Order 12958, as amended, to the extent such provisions in Executive Order 12958, as amended, are inconsistent with this Order.
+Executive Orders 13354 and 13355 of August 27, 2004, are revoked; and paragraphs 1.3(b)(9) and (10) of Part 1 supersede provisions within Executive Order 12958, as amended, to the extent such provisions in Executive Order 12958, as amended, are inconsistent with this Order.
 
 #### 3\.7
 
@@ -1471,7 +1471,7 @@ Sec. 4. <i>Responsibilities</i>. The head of each agency with national security 
 
 Sec. 5. <i>Additional Responsibilities</i>. (a) Except for employees excluded by law, and subject to subsections (b), (c), and (d) of this section, the Director of the Office of Personnel Management, after consultation with the Steering Committee, shall:
 
-(i) consistent with applicable merit-based hiring and advancement principles, lead the establishment of a national security professional development program in accordance with the National Strategy and the plan that provides for interagency and intergovernmentalassignments and fellowship opportunities and provides for professional development guidelines for career advancement; and
+(i) consistent with applicable merit-based hiring and advancement principles, lead the establishment of a national security professional development program in accordance with the National Strategy and the plan that provides for interagency and intergovernmental assignments and fellowship opportunities and provides for professional development guidelines for career advancement; and
 
 (ii) issue to agencies rules and guidance or apply existing rules and guidance relating to the establishment of national security professional development programs to implement the National Strategy and the plan;
 
@@ -1525,7 +1525,7 @@ Sec. 3. <i>Establishment of the President's Intelligence Advisory Board</i>. (a)
 
 Sec. 4. <i>Functions of the PIAB</i>. Consistent with the policy set forth in section 1 of this order, the PIAB shall have the authority to, as the PIAB determines appropriate, or shall, when directed by the President:
 
-(a) assess the quality, quantity, and adequacy of intelligence collection, of analysis and estimates, and of counterintelligence and other intelligence activities, assess the adequacy of management, personnel and organization in the intelligence community, and review the performance of all agencies of the Federal Government that are engaged in the collection, evaluation, or production of intelligence or the execution of intelligence policy and report the results of such assessments or reviews:
+(a) assess the quality, quantity, and adequacy of intelligence collection, of analysis and estimates, and of counterintelligence and other intelligence activities, assess the adequacy of management, personnel and organization in the intelligence community, and review the performance of all agencies of the Federal Government that are engaged in the collection, evaluation, orproduction of intelligence or the execution of intelligence policy and report the results of such assessments or reviews:
 
 (i) to the President, as necessary but not less than twice each year; and
 
@@ -1607,7 +1607,7 @@ Sec. 8. <i>Functions of Heads of Departments Concerned and Additional Functions 
 
 Sec. 9. <i>References and Transition</i>. (a) References in Executive Orders other than this order, or in any other presidential guidance, to the "President's Foreign Intelligence Advisory Board" shall be deemed to be references to the President's Intelligence Advisory Board established by this order.
 
-(b) Individuals who are members of the President's Foreign Intelligence Advisory Board under Executive Order 12863 of September 13, 1993, as amended, immediately prior to the signing of this order shall be members of the President's Intelligence Advisory Board immediately upon the signing of this order, to serve as such consistent with this order until the date that is 15 months following the date of this order.
+(b) Individuals who are members of the President's Foreign Intelligence Advisory Board under ExecutiveOrder 12863 of September 13, 1993, as amended, immediately prior to the signing of this order shall be members of the President's Intelligence Advisory Board immediately upon the signing of this order, to serve as such consistent with this order until the date that is 15 months following the date of this order.
 
 (c) Individuals who are members of the Intelligence Oversight Board under Executive Order 12863 immediately prior to the signing of this order shall be members of the Intelligence Oversight Board under this order, to serve as such consistent with this order until the date that is 15 months following the date of this order.
 

@@ -38,7 +38,7 @@ A return is described in this subsection if such return—
 
 #### (2) Transactions occurring outside the United States
 
-&emsp;Except to the extent provided in regulations prescribed by the Secretary, subsection (a)shall not apply to any transaction if the entire transaction occurs outside the United States.
+&emsp;Except to the extent provided in regulations prescribed by the Secretary, subsection (a) shall not apply to any transaction if the entire transaction occurs outside the United States.
 
 #### (d) Cash includes foreign currency and certain monetary instruments
 

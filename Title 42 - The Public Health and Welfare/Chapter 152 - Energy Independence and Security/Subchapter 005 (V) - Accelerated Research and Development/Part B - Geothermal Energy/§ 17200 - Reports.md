@@ -18,7 +18,7 @@ Not later than 3 years and 5 years after December 19, 2007, the Secretary shall 
 
 #### (b) Progress reports
 
-(1) Not later than 36 months after December 19, 2007, the Secretary shall submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an interim report describing the progress made under this part. At the end of 60 months, the Secretary shall submit to Congress a report on the results of projects undertaken under this part and other such information the Secretary considers appropriate.
+(1) Not later than 36 months after December 19, 2007, the Secretary shall submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an interim report describing the progress made under this part. At the end of 60 months, the Secretary shall submit to Congress a report on the results of projects undertaken under this part and othersuch information the Secretary considers appropriate.
 
 (2) As necessary, the Secretary shall report to the Congress on any legal, regulatory, or other barriers encountered that hinder economic development of these resources, and provide recommendations on legislative or other actions needed to address such impediments.
 

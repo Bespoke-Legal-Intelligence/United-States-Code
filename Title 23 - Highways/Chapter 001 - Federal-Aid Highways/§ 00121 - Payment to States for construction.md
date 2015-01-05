@@ -14,7 +14,7 @@ Project Agreement.—No payment shall be made under this chapter except for a pr
 
 (c) Such payments shall be made to such official or officials or depository as may be designated by the State transportation department and authorized under the laws of the State to receive public funds of the State.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 899; Pub. L. 88–157, §7(b), Oct. 24, 1963, 77 Stat. 278; Pub. L. 93–87, title I, §117, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §118(a), May 5, 1976, 90 Stat. 437; Pub. L. 100–17, title I, §133(b)(6), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §1018(b), Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §§1212(a)(2)(A)(i), 1302, June 9, 1998, 112 Stat. 193, 226.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 899; Pub. L. 88–157, §7(b), Oct. 24, 1963, 77 Stat. 278; Pub. L. 93–87, title I, §117, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §118(a), May 5, 1976, 90 Stat. 437; Pub. L. 100–17, title I, §133(b)(6), Apr. 2, 1987, 101Stat. 171; Pub. L. 102–240, title I, §1018(b), Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §§1212(a)(2)(A)(i), 1302, June 9, 1998, 112 Stat. 193, 226.)
 
 #### Amendments
 

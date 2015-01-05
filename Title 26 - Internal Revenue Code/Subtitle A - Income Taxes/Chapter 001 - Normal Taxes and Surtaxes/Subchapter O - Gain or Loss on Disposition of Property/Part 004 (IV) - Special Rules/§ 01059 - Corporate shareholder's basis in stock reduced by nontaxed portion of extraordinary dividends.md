@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the portion of such dividend includible in gross income, reduced by
 
-&emsp;&emsp;(B) the amount of any deduction allowable with respect to such dividend under section 243, 244, or 245.
+&emsp;&emsp;(B) the amount of any deduction allowable with respect to such dividend under section 243 or 245.
 
 #### (c) Extraordinary dividend defined
 
@@ -250,7 +250,7 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(2) providing that the rules of subsection (f) shall apply in the case of stock which is not preferred as to dividends in cases where stock is structured to avoid the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title I, §53(a), July 18, 1984, 98 Stat. 565; amended Pub. L. 99–514, title VI, §614(a)–(e), Oct. 22, 1986, 100 Stat. 2251–2253; Pub. L. 100–647, title I, §1006(c), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 101–239, title VII, §7206(a), Dec. 19, 1989, 103 Stat. 2336; Pub. L. 105–34, title X, §§1011(a)–(c), 1013(b), title XVI, §1604(d)(1), Aug. 5, 1997, 111 Stat. 912, 913, 918, 1098; Pub. L. 105–206, title VI, §6010(b), July 22, 1998, 112 Stat. 813.)
+(Added Pub. L. 98–369, div. A, title I, §53(a), July 18, 1984, 98 Stat. 565; amended Pub. L. 99–514, title VI, §614(a)–(e), Oct. 22, 1986, 100 Stat. 2251–2253; Pub. L. 100–647, title I, §1006(c), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 101–239, title VII, §7206(a), Dec. 19, 1989, 103 Stat. 2336; Pub. L. 105–34, title X, §§1011(a)–(c), 1013(b), title XVI, §1604(d)(1), Aug. 5, 1997, 111 Stat. 912, 913, 918, 1098; Pub. L. 105–206, title VI, §6010(b), July 22, 1998, 112 Stat. 813; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### References in Text
 
@@ -261,6 +261,8 @@ Section 246(c)(3) of this title, referred to in subsec. (d)(3), was amended by P
 A prior section 1059 was renumbered section 1061 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(B). Pub. L. 113–295 struck out ", 244," after "243".
 
 <b>1998</b>—Subsec. (g)(1). Pub. L. 105–206 substituted ", in the case of stock held by pass-thru entities, and in the case of consolidated groups" for "and in the case of stock held by pass-thru entities".
 
@@ -278,7 +280,7 @@ Special rule for computing extraordinary dividend.—In determining a taxpayer's
 
 Subsec. (d)(3). Pub. L. 105–34, §1604(d)(1), substituted "subsection (a)" for "subsection (a)(2)".
 
-Subsec. (e)(1). Pub. L. 105–34, §1011(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "Except as otherwise provided in regulations, in the case of any redemption of stock which is—
+Subsec. (e)(1). Pub. L. 105–34, §1011(b), amended heading and text of par. (1) generally. Prior to amendment,text read as follows: "Except as otherwise provided in regulations, in the case of any redemption of stock which is—
 
 &emsp;"(A) part of a partial liquidation (within the meaning of section 302(e)) of the redeeming corporation, or
 
@@ -347,6 +349,12 @@ Subsec. (d)(6). Pub. L. 99–514, §614(a)(2), added par. (6).
 Subsec. (d)(7). Pub. L. 99–514, §614(d), added par. (7).
 
 Subsecs. (e), (f). Pub. L. 99–514, §614(e), added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

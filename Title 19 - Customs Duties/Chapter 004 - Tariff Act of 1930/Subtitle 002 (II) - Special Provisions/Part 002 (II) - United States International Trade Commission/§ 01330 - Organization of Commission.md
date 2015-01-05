@@ -14,7 +14,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 #### (c) Chairman and vice chairman; quorum
 
-(1) The chairman and the vice chairman of the Commission shall be designated by the President from among the members of the Commission not ineligible, under paragraph (3), for designation. The President shall notify the Congress of his designations under this paragraph. If, as of the date on which a term begins under paragraph (2), the President has not designatedthe chairman of the Commission for such term, the Commissioner <sup>1</sup> who, as of such date—
+(1) The chairman and the vice chairman of the Commission shall be designated by the President from among the members of the Commission not ineligible, under paragraph (3), for designation. The President shall notify the Congress of his designations under this paragraph. If, as of the date on which a term begins under paragraph (2), the President has not designated the chairman of the Commission for such term, the Commissioner <sup>1</sup> who, as of such date—
 
 &emsp;(A) is a member of a different political party than the chairman of the Commission for the immediately preceding term, and
 
@@ -64,7 +64,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 (4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: "The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_." The three blank spaces shall be filled with the names of the appropriate Commissioners.
 
-(5) Whenever, in any case in which the Commission is authorized to make an investigationupon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
+(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
 
 #### (e) Authorization of appropriations
 
@@ -206,7 +206,7 @@ Pub. L. 102–185, §1(c)(2), Dec. 4, 1991, 105 Stat. 1281, provided that: "The 
 
 Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 
-Amendment by section 1401(b)(4) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title on or after thatdate, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by section 1401(b)(4) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -218,7 +218,7 @@ Pub. L. 95–106, §2(b), Aug. 17, 1977, 91 Stat. 868, provided that: "The amend
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XVIII, §1801(c), Oct. 4, 1976, 90 Stat. 1763, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to determinations, findings, and recommendations made under sections 201 and 406 of the Trade Act of 1974 \[sections 2251 and 2436 of this title\] after the date of the enactment of this Act \[Oct. 4, 1976\]."
+Pub. L. 94–455, title XVIII, §1801(c), Oct. 4, 1976, 90 Stat. 1763, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to determinations, findings, and recommendations madeunder sections 201 and 406 of the Trade Act of 1974 \[sections 2251 and 2436 of this title\] after the date of the enactment of this Act \[Oct. 4, 1976\]."
 
 #### Appointment of Chairman in 1992
 

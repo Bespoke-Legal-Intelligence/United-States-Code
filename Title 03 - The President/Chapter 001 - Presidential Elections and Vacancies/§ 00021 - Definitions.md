@@ -2,9 +2,9 @@
 
 As used in this chapter the term—
 
-&emsp;(a) “State” includes the District of Columbia.
+&emsp;(a) "State" includes the District of Columbia.
 
-&emsp;(b) “executives of each State” includes the Board of Commissioners of the District of Columbia.
+&emsp;(b) "executives of each State" includes the Board of Commissioners of the District of Columbia.
 
 (Added Pub. L. 87–389, §2(a), Oct. 4, 1961, 75 Stat. 820.)
 

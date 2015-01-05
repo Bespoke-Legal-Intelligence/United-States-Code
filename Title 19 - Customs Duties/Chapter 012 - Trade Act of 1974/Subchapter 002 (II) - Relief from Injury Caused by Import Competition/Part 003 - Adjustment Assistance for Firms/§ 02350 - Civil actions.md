@@ -2,7 +2,7 @@
 
 In providing technical assistance under this part the Secretary may sue and be sued in any court of record of a State having general jurisdiction or in any United States district court, and jurisdiction is conferred upon such district court to determine such controversies without regard to the amount in controversy; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against him or his property. Nothing in this section shall be construed to except the activities pursuant to section 2343 of this title from the application of sections 516, 547, and 2679 of title 28.
 
-(Pub. L. 93–618, title II, §258, formerly §260, Jan. 3, 1975, 88 Stat. 2034; renumbered §258 and amended Pub. L. 111–5, div. B, title I, §1864(a)(2), (c)(2), Feb. 17, 2009, 123 Stat. 397, 398; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
+(Pub. L. 93–618, title II, §258, formerly §260, Jan. 3, 1975, 88 Stat. 2034; renumbered §258 and amended Pub. L. 111–5, div. B, title I, §1864(a)(2), (c)(2), Feb. 17, 2009, 123 Stat. 397, 398; Pub. L.112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
 #### Reversion to Provisions in Effect on February 13, 2011
 
@@ -38,5 +38,5 @@ Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provid
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see section 285 of Pub. L. 93–618 and section 541(b) of Pub. L. 113–235, set out as notes preceding section 2271 of this title.
 

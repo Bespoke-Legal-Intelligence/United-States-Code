@@ -6,7 +6,7 @@ In connection with any project constructed pursuant to the provisions of this su
 
 #### (b) Contracts, land acquisitions, etc.
 
-In connection with the construction or operation and maintenance of a project undertaken pursuant to the authority of this subchapter, the Secretary shall have with respect to construction and supply contracts, and with respect to the acquisition, exchange, and disposition of lands, interest in lands, water rights, and other property and the relocation thereof, the same authority, including authority to acquire lands and interests in land and water rights with titles and at prices satisfactory to him, which he has in connection with projects under the Federal reclamation laws.
+In connection with the construction or operation and maintenance of a project undertakenpursuant to the authority of this subchapter, the Secretary shall have with respect to construction and supply contracts, and with respect to the acquisition, exchange, and disposition of lands, interest in lands, water rights, and other property and the relocation thereof, the same authority, including authority to acquire lands and interests in land and water rights with titles and at prices satisfactory to him, which he has in connection with projects under the Federal reclamation laws.
 
 (Aug. 11, 1939, ch. 717, §10, as added Oct. 14, 1940, ch. 861, 54 Stat. 1125.)
 

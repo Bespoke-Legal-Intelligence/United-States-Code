@@ -4,18 +4,20 @@
 | :--- | ---: |
 | [480\.](%C2%A7%2000480%20-%20Reports%20to%20Congress%20submission%20in%20electronic%20form.md) | Reports to Congress: submission in electronic form. |
 | [481\.](%C2%A7%2000481%20-%20Racial%20and%20ethnic%20issues%3B%20gender%20issues%20surveys.md) | Racial and ethnic issues; gender issues: surveys. |
+| [481a.](%C2%A7%2000481a%20-%20Workplace%20and%20gender%20relations%20issues%20surveys%20of%20Department%20of%20Defense%20civilian%20employees.md) | Workplace and gender relations issues: surveys of Department of Defense civilian employees. |
 | [482\.](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md) | Quarterly reports: personnel and unit readiness. |
 | \[483. | Repealed.\] |
 | [484\.](%C2%A7%2000484%20-%20Quarterly%20cyber%20operations%20briefings.md) | Quarterly cyber operations briefings. |
 | [485\.](%C2%A7%2000485%20-%20Quarterly%20counterterrorism%20operations%20briefings.md) | Quarterly counterterrorism operations briefings. |
 | \[486, 487. | Repealed.\] |
 | [488\.](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum.md) | Management of electromagnetic spectrum. |
-| [489\.](%C2%A7%2000489%20-%20Annual%20report%20on%20Department%20of%20Defense%20operation%20and%20financial%20support%20for%20military%20museums.md) | Annual report on Department of Defense operation and financial support for military museums. |
-| \[490 to 491. Repealed or Renumbered.\] |  |
+| \[489 to 491. Repealed or Renumbered.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title III, §331(b), title X, §1073(a)(2), Dec. 19, 2014, 128 Stat. 3344, 3518, added item 481a and struck out item 489 "Annual report on Department of Defense operation and financial support for military museums".
 
 <b>2013</b>—Pub. L. 113–66, div. A, title X, §§1042(a)(2), 1072(b)(2), 1084(a)(1)(B), Dec. 26, 2013, 127 Stat. 857, 869, 871, added item 485, substituted "Management of electromagnetic spectrum" for "Management of electromagnetic spectrum: biennial strategic plan" in item 488, and struck out item 483 "Reports on transfers from high-priority readiness appropriations".
 
@@ -43,7 +45,7 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 
 <b>1997</b>—Pub. L. 105–85, div. A, title III, §§322(a)(2), 323(b), 324(a)(2), Nov. 18, 1997, 111 Stat. 1675, 1677, substituted "Quarterly reports: personnel and unit readiness" for "Quarterly readiness reports" in item 482 and added items 483 and 484.
 
-<b>1996</b>—Pub. L. 104–201, div. A, title V, §571(c)(2), title XI, §§1112(a)(1), 1123(a)(4), Sept. 23, 1996, 110 Stat. 2532, 2677, 2688, substituted "Race relations, gender discrimination, and hate group activity: annual survey and report" for "Racial and ethnic issues; biennial survey; biennial report" in item 451, renumbered chapter 22 of this title as this chapter, and redesignated items 451 and 452 as 481 and 482, respectively.
+<b>1996</b>—Pub. L. 104–201, div. A, title V, §571(c)(2), title XI, §§1112(a)(1), 1123(a)(4), Sept. 23, 1996, 110 Stat. 2532,2677, 2688, substituted "Race relations, gender discrimination, and hate group activity: annual survey and report" for "Racial and ethnic issues; biennial survey; biennial report" in item 451, renumbered chapter 22 of this title as this chapter, and redesignated items 451 and 452 as 481 and 482, respectively.
 
 Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273, added item 452.
 
@@ -54,6 +56,7 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 
 - [&sect; 00480 - Reports to Congress submission in electronic form](%C2%A7%2000480%20-%20Reports%20to%20Congress%20submission%20in%20electronic%20form.md)
 - [&sect; 00481 - Racial and ethnic issues; gender issues surveys](%C2%A7%2000481%20-%20Racial%20and%20ethnic%20issues%3B%20gender%20issues%20surveys.md)
+- [&sect; 00481a - Workplace and gender relations issues surveys of Department of Defense civilian employees](%C2%A7%2000481a%20-%20Workplace%20and%20gender%20relations%20issues%20surveys%20of%20Department%20of%20Defense%20civilian%20employees.md)
 - [&sect; 00482 - Quarterly reports personnel and unit readiness](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md)
 - [&sect; 00483 - Repealed. Pub. L. 113&#8211;66, div. A, title X, &sect;1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871](%C2%A7%2000483%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71084%28a%29%281%29%28A%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%20871.md)
 - [&sect; 00484 - Quarterly cyber operations briefings](%C2%A7%2000484%20-%20Quarterly%20cyber%20operations%20briefings.md)
@@ -61,6 +64,6 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 - [&sect; 00486 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(8)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000486%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%288%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00487 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(9)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000487%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%289%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00488 - Management of electromagnetic spectrum](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum.md)
-- [&sect; 00489 - Annual report on Department of Defense operation and financial support for military museums](%C2%A7%2000489%20-%20Annual%20report%20on%20Department%20of%20Defense%20operation%20and%20financial%20support%20for%20military%20museums.md)
+- [&sect; 00489 - Repealed. Pub. L. 113&#8211;291, div. A, title III, &sect;331(a), Dec. 19, 2014, 128 Stat. 3344](%C2%A7%2000489%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7331%28a%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203344.md)
 - [&sect; 00490 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(10)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000490%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%2810%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00490a - Renumbered &sect;492](%C2%A7%2000490a%20-%20Renumbered%20%C2%A7492.md)

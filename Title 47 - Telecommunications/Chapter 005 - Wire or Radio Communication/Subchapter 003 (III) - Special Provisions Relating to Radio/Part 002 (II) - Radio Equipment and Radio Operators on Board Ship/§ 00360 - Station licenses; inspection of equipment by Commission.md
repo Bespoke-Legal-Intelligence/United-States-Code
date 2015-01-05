@@ -8,7 +8,7 @@
 
 &emsp;(2) waive the annual inspection required under this section for a vessel that is in compliance with the radio provisions of the Safety Convention and that is operating solely in waters beyond the jurisdiction of the United States: <i>Provided</i>, That such inspection shall be performed within 30 days of such vessel's return to the United States.
 
-(June 19, 1934, ch. 652, title III, §362, formerly §360, as added May 20, 1937, ch. 229, §10(b), 50Stat. 196; renumbered §362, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 87–811, Oct. 15, 1962, 76 Stat. 922; Pub. L. 104–104, title IV, §403(n), Feb. 8, 1996, 110 Stat. 132.)
+(June 19, 1934, ch. 652, title III, §362, formerly §360, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 196; renumbered §362, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 87–811, Oct. 15, 1962, 76 Stat. 922; Pub. L. 104–104, title IV, §403(n), Feb. 8, 1996, 110 Stat. 132.)
 
 #### References in Text
 

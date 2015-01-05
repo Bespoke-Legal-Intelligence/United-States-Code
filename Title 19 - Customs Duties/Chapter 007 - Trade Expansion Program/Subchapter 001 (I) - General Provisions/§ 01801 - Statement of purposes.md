@@ -28,5 +28,5 @@ For provisions relating to establishment of President's Export Council and the C
 
 #### Executive Order No. 11075
 
-Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, as amended by Ex. Ord. No. 11106, Apr. 18, 1963, 28 F.R. 3911; Ex. Ord. No. 11113, June 15, 1963, 28 F.R. 6183, which related to the administration of the trade agreements program, was revoked by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under section 2111 of this title.
+Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, as amended by Ex. Ord. No. 11106, Apr. 18, 1963, 28 F.R. 3911; Ex.Ord. No. 11113, June 15, 1963, 28 F.R. 6183, which related to the administration of the trade agreements program, was revoked by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under section 2111 of this title.
 

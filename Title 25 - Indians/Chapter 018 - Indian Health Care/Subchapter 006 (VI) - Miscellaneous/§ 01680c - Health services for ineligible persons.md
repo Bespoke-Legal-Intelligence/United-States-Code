@@ -66,7 +66,7 @@ The Service may provide health services under this subsection to individuals who
 
 #### (1) In general
 
-&emsp;Hospital privileges in health facilities operated and maintained by the Service or operated under a contract or compact pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) may be extended to non-Service health care practitioners who provide services to individuals described in subsection (a), (b), (c), or (d). Such non-Service health care practitioners may, as part of the privileging process, be designated as employees of the Federal Government for purposes of section 1346(b) and chapter 171 of title 28 (relating to Federal tort claims) only with respect to acts or omissions which occur in the course of providing services to eligible individuals as a part of the conditions under which such hospital privileges are extended.
+&emsp;Hospital privileges in health facilities operated and maintained by the Service or operated under a contract or compact pursuant to the Indian Self-Determination and EducationAssistance Act (25 U.S.C. 450 et seq.) may be extended to non-Service health care practitioners who provide services to individuals described in subsection (a), (b), (c), or (d). Such non-Service health care practitioners may, as part of the privileging process, be designated as employees of the Federal Government for purposes of section 1346(b) and chapter 171 of title 28 (relating to Federal tort claims) only with respect to acts or omissions which occur in the course of providing services to eligible individuals as a part of the conditions under which such hospital privileges are extended.
 
 #### (2) Definition
 

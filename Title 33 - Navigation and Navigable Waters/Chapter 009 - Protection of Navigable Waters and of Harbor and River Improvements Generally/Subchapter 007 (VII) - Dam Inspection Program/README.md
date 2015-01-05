@@ -15,6 +15,7 @@
 - [&sect; 00467f&#8211;1 - Lock and dam security](%C2%A7%2000467f%E2%80%931%20-%20Lock%20and%20dam%20security.md)
 - [&sect; 00467g - Research](%C2%A7%2000467g%20-%20Research.md)
 - [&sect; 00467g&#8211;1 - Dam safety training](%C2%A7%2000467g%E2%80%931%20-%20Dam%20safety%20training.md)
+- [&sect; 00467g&#8211;2 - Public awareness and outreach for dam safety](%C2%A7%2000467g%E2%80%932%20-%20Public%20awareness%20and%20outreach%20for%20dam%20safety.md)
 - [&sect; 00467h - Reports](%C2%A7%2000467h%20-%20Reports.md)
 - [&sect; 00467i - Statutory construction](%C2%A7%2000467i%20-%20Statutory%20construction.md)
 - [&sect; 00467j - Authorization of appropriations](%C2%A7%2000467j%20-%20Authorization%20of%20appropriations.md)

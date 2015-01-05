@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-If any portion of the qualified business credits determined for any taxable year has not, afterthe application of section 38(c), been allowed to the taxpayer as a credit under section 38 for any taxable year, an amount equal to the credit not so allowed shall be allowed to the taxpayer as a deduction for the first taxable year following the last taxable year for which such credit could, under section 39, have been allowed as a credit.
+If any portion of the qualified business credits determined for any taxable year has not, after the application of section 38(c), been allowed to the taxpayer as a credit under section 38 for any taxable year, an amount equal to the credit not so allowed shall be allowed to the taxpayer as a deduction for the first taxable year following the last taxable year for which such credit could, under section 39, have been allowed as a credit.
 
 #### (b) Taxpayer's dying or ceasing to exist
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable ye
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I, §121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
+Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I,§121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -202,7 +202,7 @@ Certain projects with respect to historic structures.—In the case of any certi
 
 &emsp;&emsp;"(I) before July 1, 1982, a public offering with respect to interests in such property was registered with the Securities and Exchange Commission,
 
-&emsp;&emsp;"(II) before such date an application with respect to such property was filed under section 8 of theUnited States Housing Act of 1937 \[section 1437f of Title 42, The Public Health and Welfare\], and
+&emsp;&emsp;"(II) before such date an application with respect to such property was filed under section 8 of the United States Housing Act of 1937 \[section 1437f of Title 42, The Public Health and Welfare\], and
 
 &emsp;&emsp;"(III) such property is placed in service before July 1, 1984."
 

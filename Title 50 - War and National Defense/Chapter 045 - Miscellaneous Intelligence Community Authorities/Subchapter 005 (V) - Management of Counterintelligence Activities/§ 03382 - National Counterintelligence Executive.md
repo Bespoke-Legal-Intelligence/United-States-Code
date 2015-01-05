@@ -44,7 +44,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Purpose
 
-Pub. L. 107–306, title IX, §901(b), Nov. 27, 2002, 116 Stat. 2432, provided that: "The purpose of this title \[see Tables for classification\] is to facilitate the enhancement of the counterintelligence activities of the United States Government by—
+Pub. L. 107–306, title IX, §901(b), Nov. 27, 2002, 116 Stat. 2432, provided that: "The purpose of this title \[seeTables for classification\] is to facilitate the enhancement of the counterintelligence activities of the United States Government by—
 
 &emsp;"(1) enabling the counterintelligence community of the United States Government to fulfill better its mission of identifying, assessing, prioritizing, and countering the intelligence threats to the United States;
 

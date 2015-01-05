@@ -1,6 +1,6 @@
 ### §5436. Continuation of services
 
-Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, that was, before the transfer date, providing support services to the Office of Thrift Supervision in connection with functions transferred to the Office of the Comptroller of the Currency,the Corporation or the Board of Governors under this title,<sup>1</sup> shall—
+Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, that was, before the transfer date, providing support services to the Office of Thrift Supervision in connection with functions transferred to the Office of the Comptroller of the Currency, the Corporation or the Board of Governors under this title,<sup>1</sup> shall—
 
 &emsp;(1) continue to provide such services, subject to reimbursement by the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, until the transfer of functions under this title <sup>1</sup> is complete; and
 

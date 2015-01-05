@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Until September 30, 2013, and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+Until September 30, 2014, and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
 #### (1) In general
 
@@ -24,7 +24,7 @@ The Secretary may—
 
 #### (1) In general
 
-&emsp;The authority of the Secretary under this section shall terminate September 30, 2013, unless before that date the Secretary—
+&emsp;The authority of the Secretary under this section shall terminate September 30, 2014, unless before that date the Secretary—
 
 &emsp;&emsp;(A) issues policy guidance detailing the appropriate use of that authority; and
 
@@ -36,9 +36,9 @@ The Secretary may—
 
 #### (d) Definition of nontraditional Government contractor
 
-In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+In this section, the term "nontraditional Government contractor" has the same meaning as the term "nontraditional defense contractor" as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
-(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174; Pub. L. 112–10, div. B, title VI, §1651, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §527, Dec. 23, 2011, 125 Stat. 974; Pub. L. 113–6, div. D, title V, §525, Mar. 26, 2013, 127 Stat. 371.)
+(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174; Pub. L. 112–10, div. B, title VI, §1651, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §527, Dec. 23, 2011, 125 Stat. 974; Pub. L. 113–6, div. D, title V, §525, Mar. 26, 2013, 127 Stat. 371; Pub. L. 113–76, div. F, title V, §525, Jan. 17, 2014, 128 Stat. 273.)
 
 #### References in Text
 
@@ -46,41 +46,45 @@ Section 845 of the National Defense Authorization Act for Fiscal Year 1994, refe
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–6, §525(1), substituted “Until September 30, 2013,” for “Until September 30, 2012,” in introductory provisions.
+<b>2014</b>—Subsec. (a). Pub. L. 113–76, §525(1), substituted "Until September 30, 2014," for "Until September 30, 2013," in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 113–6, §525(2), substituted “September 30, 2013,” for “September 30, 2012,” in introductory provisions.
+Subsec. (c)(1). Pub. L. 113–76, §525(2), substituted "September 30, 2014," for "September 30, 2013," in introductory provisions.
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–74, §527(1), substituted “Until September 30, 2012,” for “Until September 30, 2011” in introductory provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 113–6, §525(1), substituted "Until September 30, 2013," for "Until September 30, 2012," in introductory provisions.
 
-Pub. L. 112–10, §1651(1), substituted “Until September 30, 2011” for “Until September 30, 2010” in introductory provisions.
+Subsec. (c)(1). Pub. L. 113–6, §525(2), substituted "September 30, 2013," for "September 30, 2012," in introductory provisions.
 
-Subsec. (b). Pub. L. 112–74, §527(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b). Text read as follows: “Not later than 2 years after the effective date of this chapter, and annually thereafter, the Comptroller General shall report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate on—
+<b>2011</b>—Subsec. (a). Pub. L. 112–74, §527(1), substituted "Until September 30, 2012," for "Until September 30, 2011" in introductory provisions.
 
-&emsp;“(1) whether use of the authorities described in subsection (a) of this section attracts nontraditional Government contractors and results in the acquisition of needed technologies; and
+Pub. L. 112–10, §1651(1), substituted "Until September 30, 2011" for "Until September 30, 2010" in introductory provisions.
 
-&emsp;“(2) if such authorities were to be made permanent, whether additional safeguards are needed with respect to the use of such authorities.”.
+Subsec. (b). Pub. L. 112–74, §527(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b). Text read as follows: "Not later than 2 years after the effective date of this chapter, and annually thereafter, the Comptroller General shall report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate on—
+
+&emsp;"(1) whether use of the authorities described in subsection (a) of this section attracts nontraditional Government contractors and results in the acquisition of needed technologies; and
+
+&emsp;"(2) if such authorities were to be made permanent, whether additional safeguards are needed with respect to the use of such authorities.".
 
 Subsec. (c). Pub. L. 112–74, §527(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(1). Pub. L. 112–74, §527(4), substituted “September 30, 2012,” for “September 30, 2011” in introductory provisions.
+Subsec. (c)(1). Pub. L. 112–74, §527(4), substituted "September 30, 2012," for "September 30, 2011" in introductory provisions.
 
 Subsec. (d). Pub. L. 112–74, §527(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 112–10, §1651(2), substituted “September 30, 2011” for “September 30, 2010” in introductory provisions.
+Subsec. (d)(1). Pub. L. 112–10, §1651(2), substituted "September 30, 2011" for "September 30, 2010" in introductory provisions.
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–83, §531(1), substituted “September 30, 2010,” for “September 30, 2009” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–83, §531(1), substituted "September 30, 2010," for "September 30, 2009" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 111–83, §531(2), substituted “September 30, 2010,” for “September 30, 2009,” in introductory provisions.
+Subsec. (d)(1). Pub. L. 111–83, §531(2), substituted "September 30, 2010," for "September 30, 2009," in introductory provisions.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–329, §537(1), substituted “Until September 30, 2009 and subject to subsection (d),” for “Until September 30, 2008,” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–329, §537(1), substituted "Until September 30, 2009 and subject to subsection (d)," for "Until September 30, 2008," in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 110–329, §537(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “Until September 30, 2008” for “During the 5-year period following the effective date of this chapter” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted "Until September 30, 2008" for "During the 5-year period following the effective date of this chapter" in introductory provisions.
 
 #### Change of Name
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

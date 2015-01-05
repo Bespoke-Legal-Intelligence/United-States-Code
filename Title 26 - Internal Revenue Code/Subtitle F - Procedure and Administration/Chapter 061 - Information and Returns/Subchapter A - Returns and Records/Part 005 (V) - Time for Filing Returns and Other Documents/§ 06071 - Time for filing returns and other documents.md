@@ -26,7 +26,7 @@ Returns made under subparts B and C of part III of this subchapter which are fil
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
+Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods beforesuch date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
 
 #### Effective Date of 1998 Amendment
 

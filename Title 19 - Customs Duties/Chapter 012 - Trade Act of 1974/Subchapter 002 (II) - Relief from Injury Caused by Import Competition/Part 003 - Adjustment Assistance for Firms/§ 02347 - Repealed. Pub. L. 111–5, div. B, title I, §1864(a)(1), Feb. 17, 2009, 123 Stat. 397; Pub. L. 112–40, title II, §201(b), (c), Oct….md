@@ -8,7 +8,7 @@ Section, Pub. L. 93–618, title II, §257, Jan. 3, 1975, 88 Stat. 2033; Pub. L.
 
 #### Effective and Termination Dates of Repeal
 
-For temporary revival and applicability of repeal, as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as Effective and Termination Dates of 2011 Revival notes preceding section 2271 of this title. For termination of repeal and reinstatement of former section 2347 of this title beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
+For temporary revival and applicability of repeal, as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233of Pub. L. 112–40, set out as Effective and Termination Dates of 2011 Revival notes preceding section 2271 of this title. For termination of repeal and reinstatement of former section 2347 of this title beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
 
 Repeal effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1864(e) of Pub. L. 111–5, set out as an Effective and Termination Dates note under section 2344 of this title.
 
@@ -18,7 +18,7 @@ Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provid
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see section 285 of Pub. L. 93–618 and section 541(b) of Pub. L. 113–235, set out as notes preceding section 2271 of this title.
 
 #### Deposit of Receipts From Transactions Under This Part Into Economic Development Revolving Fund
 

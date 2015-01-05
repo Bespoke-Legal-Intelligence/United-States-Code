@@ -40,7 +40,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (3) Varying rates
 
-&emsp;The loan documents may provide for the interest rate or rates to vary from time to time during the repayment period of the loan in accordance with the rate or rates currently being charged by the association.
+&emsp;The loan documents may provide for the interest rate or rates to vary from time to timeduring the repayment period of the loan in accordance with the rate or rates currently being charged by the association.
 
 #### (4) Prior approval
 

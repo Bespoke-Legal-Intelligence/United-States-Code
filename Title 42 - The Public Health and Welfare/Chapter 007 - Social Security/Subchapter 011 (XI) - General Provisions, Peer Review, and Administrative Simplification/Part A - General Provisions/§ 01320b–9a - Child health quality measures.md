@@ -130,7 +130,7 @@
 
 #### (6) Definition of pediatric quality measure
 
-&emsp;In this subsection, the term "pediatric quality measure" means a measurement of clinical care that is capable of being examined through the collection and analysis of relevant information, that is developed in order to assess 1 or more aspects of pediatric health care quality in various institutional and ambulatory health care settings, including the structure of the clinical care system, the process of care, the outcome of care, or patient experiences in care.
+&emsp;In this subsection, the term "pediatric quality measure" means a measurement of clinicalcare that is capable of being examined through the collection and analysis of relevant information, that is developed in order to assess 1 or more aspects of pediatric health care quality in various institutional and ambulatory health care settings, including the structure of the clinical care system, the process of care, the outcome of care, or patient experiences in care.
 
 #### (7) Construction
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;&emsp;(iii) planning and implementing a healthy lifestyle curriculum or program with an emphasis on healthy eating behaviors and physical activity; and
 
-&emsp;&emsp;&emsp;(iv) planning and implementing healthy lifestyle classes or programs for parents or guardians, with an emphasis on healthyeating behaviors and physical activity for children;
+&emsp;&emsp;&emsp;(iv) planning and implementing healthy lifestyle classes or programs for parents or guardians, with an emphasis on healthy eating behaviors and physical activity for children;
 
 &emsp;&emsp;(C) carry out educational, counseling, promotional, and training activities through the local health care delivery systems including by—
 
@@ -378,7 +378,7 @@
 
 #### (1) In general
 
-&emsp;Not later than July 1, 2010, the Institute of Medicine shall study and report to Congress on the extent and quality of efforts to measure child health status and the quality of health care for children across the age span and in relation to preventive care, treatments for acute conditions, and treatments aimed at ameliorating or correcting physical, mental, and developmental conditions in children. In conducting such study and preparing such report, the Institute of Medicine shall—
+&emsp;Not later than July 1, 2010, the Institute of Medicine shall study and report to Congress on the extent and quality of efforts to measure child health status and the quality of healthcare for children across the age span and in relation to preventive care, treatments for acute conditions, and treatments aimed at ameliorating or correcting physical, mental, and developmental conditions in children. In conducting such study and preparing such report, the Institute of Medicine shall—
 
 &emsp;&emsp;(A) consider all of the major national population-based reporting systems sponsored by the Federal Government that are currently in place, including reporting requirements under Federal grant programs and national population surveys and estimates conducted directly by the Federal Government;
 
@@ -400,7 +400,7 @@ Notwithstanding any other provision in this section, no evidence based quality m
 
 Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e)). Funds appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), titleV, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587.)
+(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587.)
 
 #### Amendments
 

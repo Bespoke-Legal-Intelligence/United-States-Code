@@ -18,7 +18,7 @@
 
 #### (C) Previous asylum applications
 
-&emsp;&emsp;Subject to subparagraph (D), paragraph (1) shall not apply to an alien if the alien has previously applied for asylum and had such application denied.
+&emsp;&emsp;Subject to subparagraph (D), paragraph (1) shall not apply to an alien if the alien haspreviously applied for asylum and had such application denied.
 
 #### (D) Changed circumstances
 
@@ -76,7 +76,7 @@
 
 #### (i) Conviction of aggravated felony
 
-&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), an alien who has been convictedof an aggravated felony shall be considered to have been convicted of a particularly serious crime.
+&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), an alien who has been convicted of an aggravated felony shall be considered to have been convicted of a particularly serious crime.
 
 #### (ii) Offenses
 
@@ -146,7 +146,7 @@
 
 #### (3) Fees
 
-&emsp;The Attorney General may impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status under section 1159(b) of this title. Such fees shall notexceed the Attorney General's costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title.
+&emsp;The Attorney General may impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status under section 1159(b) of this title. Such fees shall not exceed the Attorney General's costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title.
 
 #### (4) Notice of privilege of counsel and consequences of frivolous application
 
@@ -192,7 +192,7 @@ The provisions of this section and section 1159(b) of this title shall apply to 
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(5)(B), (6), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (d)(5)(B), (6), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -202,19 +202,19 @@ Subsec. (b)(3)(C). Pub. L. 110–457, §235(d)(7)(B), added subpar. (C).
 
 Subsec. (e). Pub. L. 110–229 added subsec. (e).
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–13, §101(a)(1), (2), designated existing provisions as subpar. (A), inserted subpar. heading, and substituted “The Secretary of Homeland Security or the Attorney General” for “The Attorney General” and “the Secretary of Homeland Security or the Attorney General” for “the Attorney General” in two places.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–13, §101(a)(1), (2), designated existing provisions as subpar. (A), inserted subpar. heading, and substituted "The Secretary of Homeland Security or the Attorney General" for "The Attorney General" and "the Secretary of Homeland Security or the Attorney General" for "the Attorney General" in two places.
 
 Subsec. (b)(1)(B). Pub. L. 109–13, §101(a)(3), added subpar. (B)
 
-Subsec. (b)(2)(A)(v). Pub. L. 109–13, §101(b), substituted “described in” for “inadmissible under” in two places and struck out “removable under” before “section 1227(a)(4)(B)”.
+Subsec. (b)(2)(A)(v). Pub. L. 109–13, §101(b), substituted "described in" for "inadmissible under" in two places and struck out "removable under" before "section 1227(a)(4)(B)".
 
-<b>2002</b>—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A spouse or child (asdefined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.”
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A spouse or child (asdefined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien."
 
-<b>2001</b>—Subsec. (b)(2)(A)(v). Pub. L. 107–56 substituted “(III), (IV), or (VI)” for “(III), or (IV)”.
+<b>2001</b>—Subsec. (b)(2)(A)(v). Pub. L. 107–56 substituted "(III), (IV), or (VI)" for "(III), or (IV)".
 
-<b>1996</b>—Pub. L. 104–208 substituted “Asylum” for “Asylum procedure” as section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (e).
+<b>1996</b>—Pub. L. 104–208 substituted "Asylum" for "Asylum procedure" as section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (e).
 
-Subsec. (a). Pub. L. 104–132, §421(a), inserted at end “The Attorney General may not grant an alien asylum if the Attorney General determines that the alien is excludable under subclause (I), (II), or (III) of section 1182(a)(3)(B)(i) of this title or deportable under section 1251(a)(4)(B) of this title, unless the Attorney General determines, in the discretion of the Attorney General, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States.”
+Subsec. (a). Pub. L. 104–132, §421(a), inserted at end "The Attorney General may not grant an alien asylum if the Attorney General determines that the alien is excludable under subclause (I), (II), or (III) of section 1182(a)(3)(B)(i) of this title or deportable under section 1251(a)(4)(B) of this title, unless the Attorney General determines, in the discretion of the Attorney General, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States."
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
@@ -228,9 +228,9 @@ Amendment by Pub. L. 110–229 effective on the transition program effective dat
 
 Pub. L. 109–13, div. B, title I, §101(h)(1), (2), May 11, 2005, 119 Stat. 305, provided that:
 
-“(1) The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall take effect as if enacted on March 1, 2003.
+"(1) The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall take effect as if enacted on March 1, 2003.
 
-“(2) The amendments made by subsections (a)(3), (b), (c), and (d) \[amending this section and sections 1229a and 1231 of this title\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to applications for asylum, withholding, or other relief from removal made on or after such date.”
+"(2) The amendments made by subsections (a)(3), (b), (c), and (d) \[amending this section and sections 1229a and 1231 of this title\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to applications for asylum, withholding, or other relief from removal made on or after such date."
 
 #### Effective Date of 2002 Amendment
 
@@ -242,17 +242,17 @@ Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions
 
 #### Effective Date of 1996 Amendments
 
-Pub. L. 104–208, div. C, title VI, §604(c), Sept. 30, 1996, 110 Stat. 3009–694, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to applications for asylum filed on or after the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].
+Pub. L. 104–208, div. C, title VI, §604(c), Sept. 30, 1996, 110 Stat. 3009–694, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to applications for asylum filed on or after the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].
 
-Pub. L. 104–132, title IV, §421(b), Apr. 24, 1996, 110 Stat. 1270, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 24, 1996\] and apply to asylum determinations made on or after such date.”
+Pub. L. 104–132, title IV, §421(b), Apr. 24, 1996, 110 Stat. 1270, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 24, 1996\] and apply to asylum determinations made on or after such date."
 
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–649, title V, §515(b), Nov. 29, 1990, 104 Stat. 5053, as amended by Pub. L. 102–232, title III, §306(a)(13), Dec. 12, 1991, 105 Stat. 1752, provided that:
 
-“(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for asylum made on or after such date.
+"(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for asylum made on or after such date.
 
-“(2) The amendment made by subsection (a)(2) \[amending section 1253 of this title\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for withholding of deportation made on or after such date.”
+"(2) The amendment made by subsection (a)(2) \[amending section 1253 of this title\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for withholding of deportation made on or after such date."
 
 #### Effective Date
 
@@ -262,13 +262,13 @@ Section effective Mar. 17, 1980, and applicable to fiscal years beginning with t
 
 Pub. L. 110–340, §2(d), Oct. 3, 2008, 122 Stat. 3736, provided that:
 
-“(1)
+"(1)
 
 Issuance of regulations.—Not later than 60 days after the date of enactment of this Act \[Oct. 3, 2008\], the Attorney General and the Secretary of Homeland Security shall promulgate final regulations establishing that, for purposes of sections 241(b)(3)(B)(iii) and 208(b)(2)(A)(iii) of the Immigration and Nationality Act (8 U.S.C. 1231(b)(3)(B)(iii); 8 U.S.C. 1158(b)(2)(A)(iii)), an alien who is deportable under section 237(a)(4)(F) of such Act (8 U.S.C. 1227(a)(4)(F)) or inadmissible under section 212(a)(3)(G) of such Act (8 U.S.C. 1182(a)(3)(G)) shall be considered an alien with respect to whom there are serious reasons to believe that the alien committed a serious nonpolitical crime.
 
-“(2)
+"(2)
 
-Authority to waive certain regulatory requirements.—The requirements of chapter 5 of title 5, United States Code (commonly referred to as the ‘Administrative Procedure Act’), chapter 35 of title 44, United States Code (commonly referred to as the ‘Paperwork Reduction Act’), or any other law relating to rulemaking, information collection, or publication in the Federal Register, shall not apply to any action to implement paragraph (1) to the extent the Attorney General or the Secretary Homeland of \[sic\] Security determines that compliance with any such requirement would impede the expeditious implementation of such paragraph.”
+Authority to waive certain regulatory requirements.—The requirements of chapter 5 of title 5, United States Code (commonly referred to as the 'Administrative Procedure Act'), chapter 35 of title 44, United States Code (commonly referred to as the 'Paperwork Reduction Act'), or any other law relating to rulemaking, information collection, or publication in the Federal Register, shall not apply to any action to implement paragraph (1) to the extent the Attorney General or the Secretary Homeland of \[sic\] Security determines that compliance with any such requirement would impede the expeditious implementation of such paragraph."
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -278,29 +278,29 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Pub. L. 103–322, title XIII, §130005, Sept. 13, 1994, 108 Stat. 2028, as amended by Pub. L. 104–208, div. C, title III, §308(e)(1)(P), (17), Sept. 30, 1996, 110 Stat. 3009–620, 3009–621, provided:
 
-“(a)
+"(a)
 
 In General.—The Attorney General may provide for the expeditious adjudication of asylum claims and the expeditious removal of asylum applicants whose applications have been finally denied, unless the applicant remains in an otherwise valid nonimmigrant status.
 
-“(b)
+"(b)
 
 Employment Authorization.—\[Amended this section.\]
 
-“(c)
+"(c)
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out this section—
 
-&emsp;“(1) $64,000,000 for fiscal year 1995;
+&emsp;"(1) $64,000,000 for fiscal year 1995;
 
-&emsp;“(2) $90,000,000 for fiscal year 1996;
+&emsp;"(2) $90,000,000 for fiscal year 1996;
 
-&emsp;“(3) $93,000,000 for fiscal year 1997; and
+&emsp;"(3) $93,000,000 for fiscal year 1997; and
 
-&emsp;“(4) $91,000,000 for fiscal year 1998.”
+&emsp;"(4) $91,000,000 for fiscal year 1998."
 
 #### Time for Establishment of Asylum Procedure by Attorney General
 
-Pub. L. 96–212, title II, §204(d)(2), Mar. 17, 1980, 94 Stat. 109, provided that: “The Attorney General shall establish the asylum procedure referred to in section 208(a) of the Immigration and Nationality Act (as added by section 201(b) of this title) \[former subsec. (a) of this section\] not later than June 1, 1980.”
+Pub. L. 96–212, title II, §204(d)(2), Mar. 17, 1980, 94 Stat. 109, provided that: "The Attorney General shall establish the asylum procedure referred to in section 208(a) of the Immigration and Nationality Act (as added by section 201(b) of this title) \[former subsec. (a) of this section\] not later than June 1, 1980."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

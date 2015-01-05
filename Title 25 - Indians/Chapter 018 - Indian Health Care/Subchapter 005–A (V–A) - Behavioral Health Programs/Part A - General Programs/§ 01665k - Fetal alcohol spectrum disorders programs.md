@@ -30,7 +30,7 @@
 
 #### (B) Additional uses
 
-&emsp;&emsp;In addition to any purpose under subparagraph (A), funding provided pursuant to thissection may be used for 1 or more of the following:
+&emsp;&emsp;In addition to any purpose under subparagraph (A), funding provided pursuant to this section may be used for 1 or more of the following:
 
 &emsp;&emsp;&emsp;(i) Early childhood intervention projects from birth on to mitigate the effects of fetal alcohol spectrum disorders among Indians.
 

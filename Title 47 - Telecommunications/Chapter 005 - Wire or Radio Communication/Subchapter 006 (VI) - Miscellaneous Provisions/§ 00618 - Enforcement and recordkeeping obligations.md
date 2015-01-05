@@ -52,7 +52,7 @@ No violation.—If a determination is made that a violation has not occurred, th
 
 #### (6) Failure to act
 
-&emsp;If the Commission fails to carry out any of its responsibilities to act upon a complaint in the manner prescribed in paragraph (3), the person that filed such complaint may bring an action in the nature of mandamus in the United States Court of Appeals for the District of Columbia to compel the Commission to carry out any such responsibility.
+&emsp;If the Commission fails to carry out any of its responsibilities to act upon a complaint in the manner prescribed in paragraph (3), the person that filed such complaint may bring an action in the nature of mandamus in the United States Court of Appeals for the Districtof Columbia to compel the Commission to carry out any such responsibility.
 
 #### (7) Commission jurisdiction
 
@@ -60,7 +60,7 @@ No violation.—If a determination is made that a violation has not occurred, th
 
 #### (8) Private resolutions of complaints
 
-&emsp;Nothing in the Commission's rules or this chapter shall be construed to preclude a person who files a complaint and a manufacturer or provider from resolving a formal or informal complaint prior to the Commission's final determination in a complaint proceeding. Inthe event of such a resolution, the parties shall jointly request dismissal of the complaint and the Commission shall grant such request.
+&emsp;Nothing in the Commission's rules or this chapter shall be construed to preclude a person who files a complaint and a manufacturer or provider from resolving a formal or informal complaint prior to the Commission's final determination in a complaint proceeding. In the event of such a resolution, the parties shall jointly request dismissal of the complaint and the Commission shall grant such request.
 
 #### (b) Reports to Congress
 

@@ -6,7 +6,7 @@ A Technical Panel of the Energy Research Advisory Board shall be established to 
 
 #### (b) Membership
 
-(1) The Technical Panel shall be comprised of such representatives from domestic industry, universities, Government laboratories, financial, environmental and other organizations as the Chairman of the Energy Research Advisory Board deems appropriate based on his assessment of the technical and other qualifications of such representative.
+(1) The Technical Panel shall be comprised of such representatives from domestic industry,universities, Government laboratories, financial, environmental and other organizations as the Chairman of the Energy Research Advisory Board deems appropriate based on his assessment of the technical and other qualifications of such representative.
 
 (2) Members of the Technical Panel need not be members of the full Energy Research Advisory Board.
 

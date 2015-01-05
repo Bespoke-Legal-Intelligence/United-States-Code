@@ -128,7 +128,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (d) <sup>5</sup> Authority
 
-The Comptroller of the Currency may act in the Comptroller's own name and through theComptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
+The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
 (R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
 

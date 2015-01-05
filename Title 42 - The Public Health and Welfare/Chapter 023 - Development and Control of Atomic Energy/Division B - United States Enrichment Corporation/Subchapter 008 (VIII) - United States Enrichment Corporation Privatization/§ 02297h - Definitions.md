@@ -6,11 +6,11 @@ Except as provided in section 2297h–10a of this title, for purposes of this su
 
 &emsp;(2) The term "Corporation" means the United States Enrichment Corporation and, unless the context otherwise requires, includes the private corporation and any successor thereto following privatization.
 
-&emsp;(3) The term "gaseous diffusion plants" means the Paducah Gaseous Diffusion Plant atPaducah, Kentucky and the Portsmouth Gaseous Diffusion Plant at Piketon, Ohio.
+&emsp;(3) The term "gaseous diffusion plants" means the Paducah Gaseous Diffusion Plant at Paducah, Kentucky and the Portsmouth Gaseous Diffusion Plant at Piketon, Ohio.
 
 &emsp;(4) The term "highly enriched uranium" means uranium enriched to 20 percent or more of the uranium-235 isotope.
 
-&emsp;(5) The term "low-enriched uranium" means uranium enriched to less than 20 percent of the uranium-235 isotope, including that which is derived from highly enriched uranium.
+&emsp;(5) The term "low-enriched uranium" means uranium enriched to less than 20 percent ofthe uranium-235 isotope, including that which is derived from highly enriched uranium.
 
 &emsp;(6) The term "low-level radioactive waste" has the meaning given such term in section 2021b(9) of this title.
 

@@ -18,7 +18,7 @@ The following data elements are considered in determining the expected family co
 
 &emsp;(2) the number of dependents in the family of the student;
 
-&emsp;(3) the number of dependents in the family of the student, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title and for whom the family may reasonably be expected to contribute to their postsecondary education;
+&emsp;(3) the number of dependents in the family of the student, excluding the student's parents,who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title and for whom the family may reasonably be expected to contribute to their postsecondary education;
 
 &emsp;(4) the net assets of (A) the student and the student's spouse, and (B) the student and the student's parents, in the case of a dependent student;
 

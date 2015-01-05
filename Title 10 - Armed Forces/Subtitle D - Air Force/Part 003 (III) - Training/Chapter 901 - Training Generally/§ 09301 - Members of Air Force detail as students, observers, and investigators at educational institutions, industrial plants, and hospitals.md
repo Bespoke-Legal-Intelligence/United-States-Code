@@ -4,7 +4,7 @@
 
 (b) An officer, other than one of the Regular Air Force on the active-duty list, who is detailed under subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
 
-(c) No Reserve of the Air Force may be detailed as a student, observer, or investigator, orordered to active duty under this section, without his consent and, if a member of the Air National Guard of the United States, without the approval of the governor or other appropriate authority of the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands of whose Air National Guard he is a member.
+(c) No Reserve of the Air Force may be detailed as a student, observer, or investigator, or ordered to active duty under this section, without his consent and, if a member of the Air National Guard of the United States, without the approval of the governor or other appropriate authority of the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands of whose Air National Guard he is a member.
 
 (d) The Secretary may require, as a condition of a detail under subsection (a), that an enlisted member accept a discharge and be reenlisted in his component for at least three years.
 
@@ -12,7 +12,7 @@
 
 (f) At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
 
-(g) Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Air Force.
+(g) Expenses incident to the detail of members under this section shall be paid from any fundsappropriated for the Department of the Air Force.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 559; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §504(23), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(a)(9), Jan. 6, 2006, 119 Stat. 3441.)
 

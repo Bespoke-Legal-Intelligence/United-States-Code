@@ -1,6 +1,6 @@
 ### §2223e. "Emergency response personnel" defined
 
-As used in sections 2223a to 2223e of this title, the term "emergency response personnel" means personnel responsible for mitigation activities in a medical emergency, fire emergency,hazardous material emergency, or natural disaster.
+As used in sections 2223a to 2223e of this title, the term "emergency response personnel" means personnel responsible for mitigation activities in a medical emergency, fire emergency, hazardous material emergency, or natural disaster.
 
 (Pub. L. 101–446, §6, Oct. 22, 1990, 104 Stat. 1046.)
 

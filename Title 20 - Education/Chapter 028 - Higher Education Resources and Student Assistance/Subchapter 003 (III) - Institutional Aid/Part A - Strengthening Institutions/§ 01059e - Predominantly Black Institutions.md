@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;(D) is legally authorized to provide, and provides, within the State an educational program for which the institution of higher education awards a baccalaureate degree or, in the case of a junior or community college, an associate's degree;
 
-&emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation; and
+&emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliableauthority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation; and
 
 &emsp;&emsp;(F) is not receiving assistance under—
 
@@ -138,7 +138,7 @@ In this section:
 
 #### (2) Graduates basis
 
-&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretaryshall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
+&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretary shall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
 
 #### (3) Graduates seeking a higher degree basis
 

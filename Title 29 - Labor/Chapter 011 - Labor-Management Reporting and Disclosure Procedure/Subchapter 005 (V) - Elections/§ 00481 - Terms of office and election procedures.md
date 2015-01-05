@@ -14,7 +14,7 @@ Every national or international labor organization, except a federation of natio
 
 #### (d) Officers of intermediate bodies; manner of election
 
-Officers of intermediate bodies, such as general committees, system boards, joint boards, or joint councils, shall be elected not less oftenthan once every four years by secret ballot among the members in good standing or by labor organization officers representative of such members who have been elected by secret ballot.
+Officers of intermediate bodies, such as general committees, system boards, joint boards, or joint councils, shall be elected not less often than once every four years by secret ballot among the members in good standing or by labor organization officers representative of such members who have been elected by secret ballot.
 
 #### (e) Nomination of candidates; eligibility; notice of election; voting rights; counting and publication of results; preservation of ballots and records
 

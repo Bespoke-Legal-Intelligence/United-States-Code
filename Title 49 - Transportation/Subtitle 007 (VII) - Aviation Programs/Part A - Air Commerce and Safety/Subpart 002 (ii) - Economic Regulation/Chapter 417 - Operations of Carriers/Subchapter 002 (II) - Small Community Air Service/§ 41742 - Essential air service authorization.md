@@ -14,7 +14,7 @@ Additional funds.—In addition to amounts authorized under paragraph (1), there
 
 &emsp;(3)
 
-Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for the office responsible for carrying out the essential air service program.
+Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for theoffice responsible for carrying out the essential air service program.
 
 (b)
 

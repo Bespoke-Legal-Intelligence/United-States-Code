@@ -34,7 +34,7 @@ A plan submitted under this section shall—
 
 #### (2) Consultation
 
-&emsp;In developing a catastrophic incident annex submitted under subsection (b)(3), a Stateshall consult with and seek appropriate comments from local governments, emergency response providers, locally governed multijurisdictional councils of government, and regional planning commissions.
+&emsp;In developing a catastrophic incident annex submitted under subsection (b)(3), a State shall consult with and seek appropriate comments from local governments, emergency response providers, locally governed multijurisdictional councils of government, and regional planning commissions.
 
 #### (d) Terms and conditions
 

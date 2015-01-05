@@ -34,7 +34,7 @@ Any plan developed under this section for the enlargement of the reservation for
 
 &emsp;(1) the enlargement of the reservation will not grant or restore to the tribe or any member of the tribe any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, on such addition to the reservation;
 
-&emsp;(2) the Secretary shall not accept any real property in trust for the benefit of the tribe or bands unless such real property is located either within Beaver, Iron, Millard, Sevier, or Washington Counties, State of Utah;
+&emsp;(2) the Secretary shall not accept any real property in trust for the benefit of the tribe orbands unless such real property is located either within Beaver, Iron, Millard, Sevier, or Washington Counties, State of Utah;
 
 &emsp;(3) the transfer of any real property to the Secretary in trust for the benefit of the tribe or bands as an addition to the reservation shall be exempt from all Federal, State, and local taxation, and all such real property shall, as of the date of such transfer, be exempt from Federal, State, and local taxation; and
 
@@ -174,7 +174,7 @@ Failure to Make Conveyance.—If after the Secretary takes the Property out of t
 
 #### "SEC. 3. TRUST LAND FOR SHIVWITS OR KANOSH BANDS.
 
-"If requested to do so by a tribal resolution of the Tribe, the Secretary shall take land held in trust by the United States for the benefit of the Tribe out of such trust status and take that land into trust for the Shivwits or Kanosh Bands of the Paiute Indian Tribe of Utah, as so requested by the Tribe.
+"If requested to do so by a tribal resolution of the Tribe, the Secretary shall take land held in trust bythe United States for the benefit of the Tribe out of such trust status and take that land into trust for the Shivwits or Kanosh Bands of the Paiute Indian Tribe of Utah, as so requested by the Tribe.
 
 #### "SEC. 4. CEDAR BAND OF PAIUTES TECHNICAL CORRECTION.
 
@@ -190,7 +190,7 @@ City.—The term 'City' means the City of Richfield, Utah.
 
 &emsp;"(2)
 
-Property.—The term 'Property' means the parcel of land held by the United States in trust forthe Paiute Indian Tribe of Utah located in Section 2, Township 24 South, Range 3 West, Salt Lake Base and Meridian, Sevier County, Utah and more particularly described as follows: Beginning at a point on the East line of the Highway which is West 0.50 chains, more or less, and South 8° 21° West, 491.6 feet from the Northeast Corner of the Southwest Quarter of Section 2, Township 24 South, Range 3 West, Salt Lake Base and Meridian, and running thence South 81° 39° East, perpendicular to the highway, 528.0 feet; thence South 26° 31° West, 354.6 feet; thence North 63° 29° West, 439.3 feet to said highway; thence North 8° 21° East, along Easterly line of said highway 200.0 feet to the point of beginning, containing 3.0 acres more or less.
+Property.—The term 'Property' means the parcel of land held by the United States in trust for the Paiute Indian Tribe of Utah located in Section 2, Township 24 South, Range 3 West, Salt Lake Base and Meridian, Sevier County, Utah and more particularly described as follows: Beginning at a point on the East line of the Highway which is West 0.50 chains, more or less, and South 8° 21° West, 491.6 feet from the Northeast Corner of the Southwest Quarter of Section 2, Township 24 South, Range 3 West, Salt Lake Base and Meridian, and running thence South 81° 39° East, perpendicular to the highway, 528.0 feet; thence South 26° 31° West, 354.6 feet; thence North 63° 29° West, 439.3 feet to said highway; thence North 8° 21° East, along Easterly line of said highway 200.0 feet to the point of beginning, containing 3.0 acres more or less.
 
 &emsp;"(3)
 
@@ -236,7 +236,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, as amended by Pub. L. 109–126, �
 
 "Sec. 2. The lands which are declared to be held in trust for the benefit of the tribe or bands under this Act shall be subject to the laws of the United States relating to Indian land to the same extent and in the same manner as the lands comprising the reservation of the tribe or bands on the day before the date of the enactment of this Act \[Feb. 17, 1984\].
 
-"Sec. 3. (a) The Secretary of Agriculture shall not deny the tribe or any member of the tribe the right to use and occupy, on a nonexclusive basis, the national forest land described in subsection (b) for religious and ceremonial purposes for such periods of time and under such reasonable terms and conditions as the Secretary may prescribe: <i>Provided</i>, That the Secretary shall permit the tribe to use and occupy, on an exclusive basis, so much of the national forest land in subsection (b) abutting Fish Lake as is necessary for such religious and ceremonial purposes during and including the second and third weeks of June and the first and second weeks of September of each year, under such reasonable terms and conditions as the Secretary may prescribe.
+"Sec. 3. (a) The Secretary of Agriculture shall not deny the tribe or any member of the tribe the right touse and occupy, on a nonexclusive basis, the national forest land described in subsection (b) for religious and ceremonial purposes for such periods of time and under such reasonable terms and conditions as the Secretary may prescribe: <i>Provided</i>, That the Secretary shall permit the tribe to use and occupy, on an exclusive basis, so much of the national forest land in subsection (b) abutting Fish Lake as is necessary for such religious and ceremonial purposes during and including the second and third weeks of June and the first and second weeks of September of each year, under such reasonable terms and conditions as the Secretary may prescribe.
 
 "(b) The land referred to in subsection (a) is the parcel of land depicted on the map contained in the document entitled 'Proposed Paiute Indian Tribe of Utah Reservation Plan', dated January 24, 1982, and published by the United States Department of the Interior, Bureau of Indian Affairs, as follows: Parcel numbered 6: Fish Lake; figure 9, page 117.
 

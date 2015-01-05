@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 &emsp;(A) the total equity of the subsidiary corporation, joint venture, or partnership; and
 
-&emsp;(B) the total voting power of the subsidiary corporation, joint venture, or partnership forthe purpose of electing directors, the general partner, or principal officers.
+&emsp;(B) the total voting power of the subsidiary corporation, joint venture, or partnership for the purpose of electing directors, the general partner, or principal officers.
 
 (3) No provision of this subsection shall—
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 102–415, §11, substituted "of entities excluded from the
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(A), (C), (2)(GG) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

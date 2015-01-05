@@ -58,7 +58,7 @@ In this section:
 
 #### (c) Program
 
-In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President shall enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f) of this section.
+In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President shall enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f).
 
 #### (d) Consideration for agreements
 
@@ -80,7 +80,7 @@ In determining whether to enter into an agreement under this section, the Presid
 
 (1) The Corporation shall make available to the President such eligible commodities as the President may request for purposes of furnishing eligible commodities under this section.
 
-(2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\] in carrying out this section with respect to eligible commodities made available under that Act \[7 U.S.C. 1691\], and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
+(2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\] in carrying out this section with respect to eligible commodities made available under that Act \[7 U.S.C. 1691\], and subsection (g) does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
 
 (3) The Corporation may finance the sale and exportation of eligible commodities, made available under the Food for Peace Act \[7 U.S.C. 1691 et seq.\], which are furnished under this section. Payment for eligible commodities made available under that Act which are purchased on credit terms under this section shall be on the same basis as the terms provided in section 103 of that Act \[7 U.S.C. 1703\].
 
@@ -106,33 +106,17 @@ No effect on domestic programs.—The President shall not make an eligible commo
 
 &emsp;(B) Corporation stocks are insufficient to satisfy commitments made in agreements entered into under this section and such eligible commodities are needed to fulfill such commitments.
 
-(3) No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2012 to carry out this section with respect to eligible commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
+(3) No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2018 to carry out this section with respect to eligible commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
 
-(4) The cost of eligible commodities made available under section 1431(b) of this title which are furnished under this section, and the expenses incurred in connection with furnishing such eligible commodities, shall be in addition to the level of assistance programmed under the Food for Peace Act \[7 U.S.C. 1691 et seq.\] andmay not be considered expenditures for international affairs and finance.
+(4) The cost of eligible commodities made available under section 1431(b) of this title which are furnished under this section, and the expenses incurred in connection with furnishing such eligible commodities, shall be in addition to the level of assistance programmed under the Food for Peace Act \[7 U.S.C. 1691 et seq.\] and may not be considered expenditures for international affairs and finance.
 
 (5)
 
 Sale procedure.—In making sales of eligible eligible <sup>1</sup> commodities under this section, the Secretary shall follow the sale procedure described in section 403(l) of the Food for Peace Act \[7 U.S.C. 1733(l)\].
 
-(6)
-
-Project in malawi.—
-
-&emsp;(A)
-
-In general.—In carrying out this section during fiscal year 2009, the President shall approve not less than 1 multiyear project for Malawi—
-
-&emsp;&emsp;(i) to promote sustainable agriculture; and
-
-&emsp;&emsp;(ii) to increase the number of women in leadership positions.
-
-&emsp;(B)
-
-Use of eligible commodities.—Of the eligible commodities used to carry out this section during the period in which the project described in subparagraph (A) is carried out, the President shall carry out the project using eligible commodities with a total value of not less than $3,000,000 during the course of the project.
-
 #### (g) Minimum tonnage
 
-Subject to subsection (f)(3) of this section, not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2012.
+Subject to subsection (f)(3), not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2018.
 
 #### (h) Prohibition on resale or transshipment of eligible commodities
 
@@ -162,11 +146,11 @@ In entering into agreements under this section, the President shall take reasona
 
 #### (k) Effective and termination dates
 
-This section shall be effective during the period beginning October 1, 1985, and ending December 31, 2012.
+This section shall be effective during the period beginning October 1, 1985, and ending December 31, 2018.
 
 #### (l) Administrative expenses
 
-(1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2012, use in addition to any amounts or eligible commodities otherwise made available under this section for such activities, not to exceed $15,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Corporation funds (or eligible commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
+(1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2018, use in addition to any amounts or eligible commodities otherwise made available under this section for such activities, not to exceed $15,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Corporation funds (or eligible commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
 
 (2) To carry out this subsection, the President may provide eligible commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such eligible commodities.
 
@@ -246,13 +230,13 @@ In carrying out this section, the President shall approve, as determined appropr
 
 #### (o) Private voluntary organizations and other private entities
 
-In entering into agreements described in subsection (c) of this section, the President (acting through the Secretary)—
+In entering into agreements described in subsection (c), the President (acting through the Secretary)—
 
-&emsp;(1) shall enter into agreements with eligible entities described in subparagraphs (C) and (F) of subsection (b)(5) of this section; and
+&emsp;(1) shall enter into agreements with eligible entities described in subparagraphs (C) and (F) of subsection (b)(5); and
 
 &emsp;(2) shall not discriminate against such eligible entities.
 
-(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, §101(a) \[title XI, §1125\], Oct. 21, 1998, 112 Stat. 2681, 2681–45; Pub. L. 107–171, title III, §§3009(b)(2), 3106, May 13, 2002, 116 Stat. 283, 291; Pub. L. 108–7, div. A, title VII, §745, Feb. 20, 2003, 117 Stat. 44; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, 122 Stat. 1820, 1826, 1833.)
+(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, §101(a) \[title XI, §1125\], Oct. 21, 1998, 112 Stat. 2681, 2681–45; Pub. L. 107–171, title III, §§3009(b)(2), 3106, May 13, 2002, 116 Stat. 283, 291; Pub. L. 108–7, div. A, title VII, §745, Feb. 20, 2003, 117 Stat. 44; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, 122 Stat. 1820, 1826, 1833; Pub. L. 113–79, title III, §3201, Feb. 7, 2014, 128 Stat. 779.)
 
 #### References in Text
 
@@ -263,6 +247,12 @@ The Food for Peace Act, referred to in subsecs. (e) and (f)(4), is act July 10, 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Food for Peace Act which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(3). Pub. L. 113–79, §3201(a)(1), substituted "2018" for "2012".
+
+Subsec. (f)(6). Pub. L. 113–79, §3201(b), struck out par. (6) which related to approval of project for Malawi during fiscal year 2009.
+
+Subsecs. (g), (k), (l)(1). Pub. L. 113–79, §3201(a)(2)–(4), substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–246, §3001(b)(1)(A), (2)(F), substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954" wherever appearing.
 
@@ -290,7 +280,7 @@ Subsec. (o). Pub. L. 108–7, §745(2), added subsec. (o).
 
 Subsec. (d). Pub. L. 107–171, §3106(b)(2)(A), (D), (c), inserted heading, in introductory provisions struck out "food" after "domestic production of" and substituted "eligible commodities" for "commodities" in two places, and in par. (2) substituted "eligible commodities" for "commodities".
 
-Subsec. (e). Pub. L. 107–171, §3106(b)(2)(D), (E), (d), inserted heading, substituted "eligible commodities" for "commodities" and "Corporation" for "Commodity Credit Corporation" wherever appearing, inserted ", and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title" before period at end of par. (2), and added par. (5).
+Subsec. (e). Pub. L. 107–171, §3106(b)(2)(D), (E), (d), inserted heading, substituted "eligible commodities" for "commodities" and "Corporation" for "Commodity Credit Corporation" wherever appearing, inserted ", and subsection (g) does not apply to eligible commodities furnished on a grant basis or on credit terms under that title" before period at end of par. (2), and added par. (5).
 
 Subsec. (f). Pub. L. 107–171, §3106(b)(2)(D), (E), (e)(1), inserted heading and substituted "eligible commodities" for "commodities" and "Corporation" for "Commodity Credit Corporation" wherever appearing.
 

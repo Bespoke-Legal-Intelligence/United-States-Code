@@ -28,7 +28,7 @@
 
 #### (B) Health care group
 
-&emsp;&emsp;The term "health care group" means a group of physicians (as defined in subparagraph (A)) organized at least in part for the purpose of providing physicians' services under this subchapter. As the Secretary finds appropriate, a health care group may include a hospital and any other individual or entity furnishing items or services for which payment may be made under this subchapter that is affiliated with the health care group under an arrangement structuredso that such individual or entity participates in a demonstration under this section and will share in any bonus earned under subsection (d) of this section.
+&emsp;&emsp;The term "health care group" means a group of physicians (as defined in subparagraph (A)) organized at least in part for the purpose of providing physicians' services under this subchapter. As the Secretary finds appropriate, a health care group may include a hospital and any other individual or entity furnishing items or services for which payment may be made under this subchapter that is affiliated with the healthcare group under an arrangement structured so that such individual or entity participates in a demonstration under this section and will share in any bonus earned under subsection (d) of this section.
 
 #### (b) Eligibility criteria
 

@@ -40,7 +40,7 @@
 
 #### (A) Least-cost resolution
 
-&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to the Corporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriate the opportunity to submit information relating to the determination.
+&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to theCorporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriate the opportunity to submit information relating to the determination.
 
 #### (B) Determining least costly approach
 
@@ -60,7 +60,7 @@
 
 #### (ii) Rule for liquidations
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the determination of the costs of liquidation ofany insured System bank shall be made as of the earliest of—
+&emsp;&emsp;&emsp;For purposes of this subsection, the determination of the costs of liquidation of any insured System bank shall be made as of the earliest of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the date on which a conservator is appointed for the insured System bank;
 
@@ -122,7 +122,7 @@ As used in this section, the terms "insured System bank" and "bank" include each
 
 The Corporation shall not exercise any authority under this section during the 5-year period prior to January 1, 1993.
 
-(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
+(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989,103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
 
 #### Amendments
 
@@ -142,5 +142,5 @@ Subsec. (a)(3)(B) to (F). Pub. L. 104–105, §217(a), added subpars. (B) to (E)
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System InsuranceCorporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System Insurance Corporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
 

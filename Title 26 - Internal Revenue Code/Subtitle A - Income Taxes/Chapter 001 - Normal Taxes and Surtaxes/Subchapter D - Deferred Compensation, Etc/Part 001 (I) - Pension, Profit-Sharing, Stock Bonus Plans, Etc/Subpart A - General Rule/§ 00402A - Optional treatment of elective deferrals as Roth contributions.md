@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) such transfer shall be treated as a distribution to which this paragraph applies which was contributed in a qualified rollover contribution (within the meaning of section 408A(e)) to such account, and
 
-&emsp;&emsp;&emsp;(iii) the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), or 457(d)(1)(A), or of section 8433 of title 5, United States Code, solely by reason of such transfer.
+&emsp;&emsp;&emsp;(iii) the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), or 457(d)(1)(A), or of section 8433 of title 5, United States Code, solely by reason of such transfer.
 
 #### (d) Distribution rules
 
@@ -156,9 +156,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
 
-(Added Pub. L. 107–16, title VI, §617(a), June 7, 2001, 115 Stat. 103; amended Pub. L. 111–240, title II, §§2111(a), (b), 2112(a), Sept. 27, 2010, 124 Stat. 2565, 2566; Pub. L. 112–240, title IX, §902(a), Jan. 2, 2013, 126 Stat. 2371.)
+(Added Pub. L. 107–16, title VI, §617(a), June 7, 2001, 115 Stat. 103; amended Pub. L. 111–240, title II, §§2111(a), (b), 2112(a), Sept. 27, 2010, 124 Stat. 2565, 2566; Pub. L. 112–240, title IX, §902(a), Jan. 2, 2013, 126 Stat. 2371; Pub. L. 113–295, div. A, title II, §220(k), Dec. 19, 2014, 128 Stat. 4036.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(4)(E)(iii). Pub. L. 113–295 substituted "403(b)(7)(A)(ii)" for "403(b)(7)(A)(i)".
 
 <b>2013</b>—Subsec. (c)(4)(E). Pub. L. 112–240 added subpar. (E).
 

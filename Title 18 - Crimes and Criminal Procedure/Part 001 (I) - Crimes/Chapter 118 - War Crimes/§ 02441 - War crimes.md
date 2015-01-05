@@ -90,7 +90,7 @@ Definitions.—In the case of an offense under subsection (a) by reason of subse
 
 &emsp;&emsp;&emsp;(i) the term "serious" shall replace the term "severe" where it appears; and
 
-&emsp;&emsp;&emsp;(ii) as to conduct occurring after the date of the enactment of the Military Commissions Act of 2006, the term "serious and non-transitory mental harm (which need not be prolonged)" shall replace the term "prolonged mental harm" where it appears.
+&emsp;&emsp;&emsp;(ii) as to conduct occurring after the date of the enactment of the Military Commissions Act of 2006, the term "seriousand non-transitory mental harm (which need not be prolonged)" shall replace the term "prolonged mental harm" where it appears.
 
 &emsp;(3)
 

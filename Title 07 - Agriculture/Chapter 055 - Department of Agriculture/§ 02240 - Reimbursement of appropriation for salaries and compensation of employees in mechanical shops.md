@@ -1,6 +1,6 @@
 ### §2240. Reimbursement of appropriation for salaries and compensation of employees in mechanical shops
 
-The Secretary of Agriculture may, by transfer settlements through the Government Accountability Office, reimburse any appropriation made for the salaries and compensation of employees in the mechanical shops of the department from the appropriation made for the bureau, office, or division for which any work in said shops is performed, and such reimbursement shall be at the actual cost of labor for such work.
+The Secretary of Agriculture may, by transfer settlements through the Government Accountability Office, reimburse any appropriationmade for the salaries and compensation of employees in the mechanical shops of the department from the appropriation made for the bureau, office, or division for which any work in said shops is performed, and such reimbursement shall be at the actual cost of labor for such work.
 
 (May 11, 1922, ch. 185, 42 Stat. 508; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

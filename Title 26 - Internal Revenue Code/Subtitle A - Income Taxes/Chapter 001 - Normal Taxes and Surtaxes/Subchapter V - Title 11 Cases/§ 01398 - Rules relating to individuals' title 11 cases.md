@@ -50,7 +50,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (C) No election where debtor has no assets
 
-&emsp;&emsp;No election may be made under subparagraph (A) by a debtor who has no assetsother than property which the debtor may treat as exempt property under section 522 of title 11 of the United States Code.
+&emsp;&emsp;No election may be made under subparagraph (A) by a debtor who has no assets other than property which the debtor may treat as exempt property under section 522 of title 11 of the United States Code.
 
 #### (D) Time for making election
 

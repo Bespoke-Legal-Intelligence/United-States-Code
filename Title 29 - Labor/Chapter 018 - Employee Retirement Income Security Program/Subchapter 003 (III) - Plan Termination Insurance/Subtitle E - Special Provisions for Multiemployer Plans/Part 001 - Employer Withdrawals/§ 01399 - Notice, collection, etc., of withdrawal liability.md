@@ -36,7 +36,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (1)(A)(i) Except as provided in subparagraphs (B) and (D) of this paragraph and in paragraphs (4) and (5), an employer shall pay the amount determined under section 1391 of this title, adjusted if appropriate first under section 1389 of this title and then under section 1386 of this title over the period of years necessary to amortize the amount in level annual payments determined under subparagraph (C), calculated as if the first payment were made on the first day of the plan year following the plan year in which the withdrawal occurs and as if each subsequent payment were made on the first day of each subsequent plan year. Actual payment shall commence in accordance with paragraph (2).
 
-(ii) The determination of the amortization period described in clause (i) shall be based on theassumptions used for the most recent actuarial valuation for the plan.
+(ii) The determination of the amortization period described in clause (i) shall be based on the assumptions used for the most recent actuarial valuation for the plan.
 
 (B) In any case in which the amortization period described in subparagraph (A) exceeds 20 years, the employer's liability shall be limited to the first 20 annual payments determined under subparagraph (C).
 
@@ -88,7 +88,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (6) Except as provided in paragraph (1)(A)(ii), interest under this subsection shall be charged at rates based on prevailing market rates for comparable obligations, in accordance with regulations prescribed by the corporation.
 
-(7) A multiemployer plan may adopt rules for other terms and conditions for the satisfactionof an employer's withdrawal liability if such rules—
+(7) A multiemployer plan may adopt rules for other terms and conditions for the satisfaction of an employer's withdrawal liability if such rules—
 
 &emsp;(A) are consistent with this chapter, and
 
@@ -98,15 +98,17 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 #### (d) Applicability of statutory prohibitions
 
-The prohibitions provided in section 1106(a) of this title do not apply to any action required or permitted under this part.
+The prohibitions provided in section 1106(a) of this title do not apply to any action required or permitted under this part or to any arrangement relating to withdrawal liability involving the plan.
 
-(Pub. L. 93–406, title IV, §4219, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1236; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(B), July 18, 1984, 98 Stat. 899.)
+(Pub. L. 93–406, title IV, §4219, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1236; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(B), July 18, 1984, 98 Stat. 899; Pub. L. 113–235, div. O, title II, §201(a)(7)(B), Dec. 16, 2014, 128 Stat. 2810.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (c)(7)(A), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–235 inserted "or to any arrangement relating to withdrawal liability involving the plan" before period at end.
 
 <b>1984</b>—Subsec. (c)(1)(C)(iii). Pub. L. 98–369 substituted "September 26, 1980" for "April 29, 1980".
 

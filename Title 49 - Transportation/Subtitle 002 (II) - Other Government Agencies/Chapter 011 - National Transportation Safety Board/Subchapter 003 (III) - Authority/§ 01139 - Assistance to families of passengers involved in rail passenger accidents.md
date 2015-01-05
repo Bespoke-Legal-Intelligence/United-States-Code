@@ -154,7 +154,7 @@ Model Plan and Recommendations.—The task force established pursuant to subsect
 
 &emsp;"(2) recommendations on methods to improve the timeliness of the notification provided by passenger rail carriers to the families of passengers involved in a passenger rail accident;
 
-&emsp;"(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and
+&emsp;"(3) recommendations on methods to ensure that the families of passengers involved in a passenger railaccident who are not citizens of the United States receive appropriate assistance; and
 
 &emsp;"(4) recommendations on methods to ensure that emergency services personnel have as immediate and accurate a count of the number of passengers onboard the train as possible.
 

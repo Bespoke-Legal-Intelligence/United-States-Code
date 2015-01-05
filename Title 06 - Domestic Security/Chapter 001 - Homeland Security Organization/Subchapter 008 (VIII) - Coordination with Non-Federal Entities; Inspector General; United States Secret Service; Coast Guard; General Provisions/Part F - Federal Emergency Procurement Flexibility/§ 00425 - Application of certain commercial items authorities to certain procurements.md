@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;The $5,000,000 limitation provided in section 1901(a)(2) of title 41, section 2304(g)(1)(B) of title 10, and section 3305(a)(2) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) of this section are applied under the authority of this section.
+&emsp;The $5,000,000 limitation provided in section 1901(a)(2) of title 41, section 2304(g)(1)(B) of title 10, and section 3305(a)(2) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) are applied under the authority of this section.
 
 #### (2) OMB guidance
 
@@ -28,7 +28,7 @@
 
 #### (c) Continuation of authority for simplified purchase procedures
 
-Authority under a provision of law referred to in subsection (a)(2) of this section that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106; 10 U.S.C. 2304 note) shall, notwithstanding such section, continue to apply for use by the head of an executive agency as provided in subsections (a) and (b) of this section.
+Authority under a provision of law referred to in subsection (a)(2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106; 10 U.S.C. 2304 note) shall, notwithstanding such section, continue to apply for use by the head of an executive agency as provided in subsections (a) and (b).
 
 (Pub. L. 107–296, title VIII, §855, Nov. 25, 2002, 116 Stat. 2236.)
 
@@ -38,9 +38,9 @@ Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (c), is
 
 #### Codification
 
-In subsec. (a)(2)(A), “Sections 1901 and 1906 of title 41” substituted for “Sections 31 and 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 427, 430)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(2)(A), "Sections 1901 and 1906 of title 41" substituted for "Sections 31 and 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 427, 430)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(2)(C), “Section 3305 of title 41” substituted for “Section 303(g) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(2)(C), "Section 3305 of title 41" substituted for "Section 303(g) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1), “section 1901(a)(2) of title 41” substituted for “section 31(a)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(2))” and “section 3305(a)(2) of title 41” substituted for “section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(B))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1), "section 1901(a)(2) of title 41" substituted for "section 31(a)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(2))" and "section 3305(a)(2) of title 41" substituted for "section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(B))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

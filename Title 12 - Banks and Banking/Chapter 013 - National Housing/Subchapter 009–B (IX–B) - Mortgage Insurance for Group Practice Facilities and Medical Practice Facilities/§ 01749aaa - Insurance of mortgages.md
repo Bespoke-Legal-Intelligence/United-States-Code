@@ -6,7 +6,7 @@ The Secretary is authorized (1) to insure mortgages (including advances on such 
 
 #### (b) Eligibility for insurance
 
-To be eligible for insurance under this subchapter, the mortgage shall (1) be executed by a mortgagor that is a group practice unit or organization or other mortgagor approved by the Secretary, (2) be made to and held by a mortgagee approved by the Secretary as responsible and able to service the mortgage properly, and (3) cover a property or project which is approved for mortgage insurance prior to the beginning of construction or rehabilitation and is designed for use as a group practice facility or medical practice facility which the Secretary finds will be constructed in an economical manner, will not be of elaborate or extravagant design or materials, and will be adequate and suitable for carrying out the purposes of this subchapter. No mortgage shall be insured under this subchapter unless it is shown to the satisfaction of the Secretary that the applicant would be unable to obtain the mortgage loan without such insurance on terms comparable to those specified in subsection (c) of this section.
+To be eligible for insurance under this subchapter, the mortgage shall (1) be executed by a mortgagor that is a group practice unit or organization or other mortgagor approved by the Secretary, (2) be made to and held by a mortgagee approved by the Secretary as responsible and able to service the mortgage properly, and (3) cover a property or project which is approved for mortgage insurance prior to the beginning of construction or rehabilitation and is designed for use as a group practice facility or medical practice facility which the Secretary finds will be constructed in an economical manner, will not be of elaborate or extravagant design or materials, and will be adequate and suitable for carrying out the purposes of this subchapter. No mortgage shall be insured under this subchapter unless it is shown to the satisfaction of the Secretary that the applicant would be unable to obtain the mortgage loan without such insurance on terms comparable to those specified in subsection (c).
 
 #### (c) Replacement cost of property; maturity; amortization; interest rate
 
@@ -22,7 +22,7 @@ The mortgage shall—
 
 #### (d) Conclusiveness of insurance contract as to eligibility; validity of contract incontestable
 
-Any contract of insurance executed by the Secretary under this subchapter shall be conclusive evidence of the eligibility of the mortgage for insurance, and the validity of any contract for insurance so executed shall be incontestable in the hands of an approved mortgagee from thedate of the execution of such contract, except for fraud or misrepresentation on the part of such approved mortgagee.
+Any contract of insurance executed by the Secretary under this subchapter shall be conclusive evidence of the eligibility of the mortgage for insurance, and the validity of any contract for insurance so executed shall be incontestable in the hands of an approved mortgagee from the date of the execution of such contract, except for fraud or misrepresentation on the part of such approved mortgagee.
 
 #### (e) Undertaking
 

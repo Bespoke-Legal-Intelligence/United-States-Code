@@ -64,7 +64,7 @@ Provision effective July 18, 1966, see section 109(1) of Pub. L. 89–504.
 
 #### Compensation of Incumbent United States Attorneys and Assistant United States Attorneys
 
-Pub. L. 88–426, §306(a)(2), Aug. 14, 1962, 78 Stat. 428, as amended by Pub. L. 88–631, §3(c), Oct. 6, 1964, 78 Stat. 1008, provided that: "Subject to section 303(f) and (g) of this Act \[see sections 5315 to 5317 of Title 5, Government Organization and Employees\], each incumbent United States attorney and assistant United States attorney shall be paid compensation at a rate equal to that of attorneys of comparable responsibility and professional qualifications, as determined by the Attorney General, whose compensation is prescribed in the General Schedule of the Classification Act of 1949, as amended \[now covered by chapter 51 and subchapter III of chapter 53 of Title 5\]."
+Pub. L. 88–426, §306(a)(2), Aug. 14, 1962, 78 Stat. 428, as amended by Pub. L. 88–631, §3(c), Oct. 6, 1964, 78 Stat. 1008, provided that: "Subject to section 303(f) and (g) of this Act \[see sections 5315 to 5317 of Title 5, Government Organization and Employees\], each incumbent United States attorney and assistant United States attorney shall be paid compensation at a rate equal to that of attorneys of comparable responsibility and professional qualifications, as determined by the AttorneyGeneral, whose compensation is prescribed in the General Schedule of the Classification Act of 1949, as amended \[now covered by chapter 51 and subchapter III of chapter 53 of Title 5\]."
 
 #### Alaska, Canal Zone and Virgin Islands
 

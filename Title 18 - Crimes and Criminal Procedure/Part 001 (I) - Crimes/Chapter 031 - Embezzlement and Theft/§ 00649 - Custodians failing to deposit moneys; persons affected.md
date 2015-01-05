@@ -2,7 +2,7 @@
 
 (a) Whoever, having money of the United States in his possession or under his control, fails to deposit it with the Treasurer or some public depositary of the United States, when required so to do by the Secretary of the Treasury or the head of any other proper department or agency or by the Government Accountability Office, is guilty of embezzlement, and shall be fined under this title or in a sum equal to the amount of money embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled is $1,000 or less, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(b) This section and sections 643, 648, 650 and 653 of this title shall apply to all persons charged with the safe-keeping, transfer, or disbursement of the public money, whether such persons be charged as receivers or depositaries of the same.
+(b) This section and sections 643, 648, 650 and 653 of this title shall apply to all personscharged with the safe-keeping, transfer, or disbursement of the public money, whether such persons be charged as receivers or depositaries of the same.
 
 (June 25, 1948, ch. 645, 62 Stat. 727; Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -32,5 +32,5 @@ Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fin
 
 #### Transfer of Functions
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Treasurer of the United States, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Treasurer of the United States, referred to in this section, is an officer of Department of the Treasury.
 

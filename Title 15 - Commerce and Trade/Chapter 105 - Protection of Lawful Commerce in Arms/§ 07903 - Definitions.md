@@ -16,7 +16,7 @@ In this chapter:
 
 #### (4) Qualified product
 
-&emsp;The term "qualified product" means a firearm (as defined in subparagraph (A) or (B) ofsection 921(a)(3) of title 18), including any antique firearm (as defined in section 921(a)(16) of such title), or ammunition (as defined in section 921(a)(17)(A) of such title), or a component part of a firearm or ammunition, that has been shipped or transported in interstate or foreign commerce.
+&emsp;The term "qualified product" means a firearm (as defined in subparagraph (A) or (B) of section 921(a)(3) of title 18), including any antique firearm (as defined in section 921(a)(16) of such title), or ammunition (as defined in section 921(a)(17)(A) of such title), or a component part of a firearm or ammunition, that has been shipped or transported in interstate or foreign commerce.
 
 #### (5) Qualified civil liability action
 

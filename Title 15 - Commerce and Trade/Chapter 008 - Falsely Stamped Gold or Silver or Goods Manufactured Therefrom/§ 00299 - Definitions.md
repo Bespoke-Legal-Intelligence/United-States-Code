@@ -22,5 +22,5 @@ For separability provision of Pub. L. 91–366, see section 2 of Pub. L. 91–36
 
 #### Construction of 1970 Amendment
 
-Amendment by Pub. L. 91–366 to be held to be in addition to and not in substitution for or limitation of theprovisions of any other Act of the United States, see section 3 of Pub. L. 91–366, set out as a note under section 297 of this title.
+Amendment by Pub. L. 91–366 to be held to be in addition to and not in substitution for or limitation of the provisions of any other Act of the United States, see section 3 of Pub. L. 91–366, set out as a note under section 297 of this title.
 

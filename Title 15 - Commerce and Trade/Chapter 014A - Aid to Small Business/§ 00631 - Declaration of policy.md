@@ -2,7 +2,7 @@
 
 #### (a) Aid, counsel, assistance, etc., to small business concerns
 
-The essence of the American economic system of private enterprise is free competition. Only through full and free competition can free markets, free entry into business, and opportunitiesfor the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
+The essence of the American economic system of private enterprise is free competition. Only through full and free competition can free markets, free entry into business, and opportunities for the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
 
 #### (b) Assistance to compete in international markets
 
@@ -40,7 +40,7 @@ It is the declared policy of the Congress that the Government, through the Small
 
 &emsp;(iv) that such development of business ownership among groups that presently own and control little productive capital will be greatly facilitated through the creation of a small business ownership development program, which shall provide services, including, but not limited to, financial, management, and technical assistance.<sup>1</sup>
 
-&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool for development of business ownership among groups that own and control little productive capital; and
+&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool fordevelopment of business ownership among groups that own and control little productive capital; and
 
 &emsp;(vi) that the procurement authority under section 637(a) of this title shall be used only as a tool for developing business ownership among groups that own and control little productive capital.
 
@@ -102,7 +102,7 @@ In administering the disaster loan program authorized by section 636 of this tit
 
 &emsp;(G) increased numbers of small business concerns owned and controlled by women will directly benefit the United States Government by expanding the potential number of suppliers of goods and services to the Government; and
 
-&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting the rights of socially and economically disadvantaged individuals.
+&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting therights of socially and economically disadvantaged individuals.
 
 (2) It is, therefore, the purpose of those programs and activities conducted under the authority of this chapter that assist women entrepreneurs to—
 
@@ -188,7 +188,7 @@ Subsec. (b). Pub. L. 87–70 included small-business concerns which are displace
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–135, §3, Dec. 2, 1997, 111 Stat. 2593, provided that: "This Act \[see Short Title of 1997 Amendmentnote below\] and the amendments made by this Act shall take effect on October 1, 1997."
+Pub. L. 105–135, §3, Dec. 2, 1997, 111 Stat. 2593, provided that: "This Act \[see Short Title of 1997 Amendment note below\] and the amendments made by this Act shall take effect on October 1, 1997."
 
 #### Effective Date of 1989 Amendment
 
@@ -260,13 +260,13 @@ Pub. L. 96–302, title V, §507, July 2, 1980, 94 Stat. 854, provided that: "Th
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–81, div. E, title L, §5001, Dec. 31, 2011, 125 Stat. 1822, provided that: "This division \[enacting sections 638a and 638b of this title, amending sections 632 and 638 of this title, enacting provisions set out as notes under sections 638 and 638b of this title, and amending provisions set out as a note under section 638 of this title\] may be cited as the 'SBIR/STTR Reauthorization Act of 2011'."
+Pub. L. 112–81, div. E, title L, §5001, Dec. 31, 2011, 125 Stat. 1822, provided that: "This division \[enacting sections 638a and 638b of this title, amending sections 632and 638 of this title, enacting provisions set out as notes under sections 638 and 638b of this title, and amending provisions set out as a note under section 638 of this title\] may be cited as the 'SBIR/STTR Reauthorization Act of 2011'."
 
 Pub. L. 112–17, §1, June 1, 2011, 125 Stat. 221, provided that: "This Act \[amending section 638 of this title\] may be cited as the 'Small Business Additional Temporary Extension Act of 2011'."
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–240, §1, Sept. 27, 2010, 124 Stat. 2504, provided that: "This Act \[enacting sections 634g, 648b, and 657q of this title, chapter 54 and section 4713a of Title 12, Banks and Banking, and section 1320a–7m of Title 42, The Public Health and Welfare, amending this section, sections 278k, 632 to 634, 634c, 636, 637, 644, 648, 649, 656, 657a, 689d, 695, and 696 of this title, section 604 of Title 5, Government Organization and Employees, section 2382 of Title 10, Armed Forces, and sections 38 to 40, 55, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 862, 864, 1202, 1374, 1400L, 1400N, 6041, 6330, 6707A, 6721, and 6722 ofTitle 26, Internal Revenue Code, repealing former section 634g of this title, enacting provisions set out as notes under this section, sections 271, 278n, 632, 636, 637, 644, 649, 649b, and 696 of this title, sections 4741 and 5701 of Title 12, sections 1, 38 to 40, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 1202, 1374, 6041, 6330, 6655, 6662A, 6707A, and 6721 of Title 26, and sections 428 and 433 of Title 41, Public Contracts, amending provisions set out as notes under this section, and repealing provisions set out as notes under section 644 of this title\] may be cited as the 'Small Business Jobs Act of 2010'."
+Pub. L. 111–240, §1, Sept. 27, 2010, 124 Stat. 2504, provided that: "This Act \[enacting sections 634g, 648b, and 657q of this title, chapter 54 and section 4713a of Title 12, Banks and Banking, and section 1320a–7m of Title 42, The Public Health and Welfare, amending this section, sections 278k, 632 to 634, 634c, 636, 637, 644, 648, 649, 656, 657a, 689d, 695, and 696 of this title, section 604 of Title 5, Government Organization and Employees, section 2382 of Title 10, Armed Forces, and sections 38 to 40, 55, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 862, 864, 1202, 1374, 1400L, 1400N, 6041, 6330, 6707A, 6721, and 6722 of Title 26, Internal Revenue Code, repealing former section 634g of this title, enacting provisions set out as notes under this section, sections 271, 278n, 632, 636, 637, 644, 649, 649b, and 696 of this title, sections 4741 and 5701 of Title 12, sections 1, 38 to 40, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 1202, 1374, 6041, 6330, 6655, 6662A, 6707A, and 6721 of Title 26, and sections 428 and 433 of Title 41, Public Contracts, amending provisions set out as notes under this section, and repealing provisions set out as notes under section 644 of this title\] may be cited as the 'Small Business Jobs Act of 2010'."
 
 Pub. L. 111–240, title I, §1101, Sept. 27, 2010, 124 Stat. 2507, provided that: "This subtitle \[subtitle A (§§1101–1136) of title I of Pub. L. 111–240, enacting section 4713a of Title 12, Banks and Banking, amending sections 632, 634, 636, 689d, 695, and 696 of this title, and enacting provisions set out as notes under sections 632, 636, and 696 of this title\] may be cited as the 'Small Business Job Creation and Access to Capital Act of 2010'."
 
@@ -364,7 +364,7 @@ Pub. L. 102–191, §1, Dec. 5, 1991, 105 Stat. 1589, provided that: "This Act \
 
 Pub. L. 101–574, §1, Nov. 15, 1990, 104 Stat. 2814, provided that: "This Act \[enacting sections 653 and 654 of this title, amending sections 633, 636, 637, 639, 644, 648, 683, 695, and 696 of this title, enacting provisions set out as notes under this section and sections 633, 637, 648, 648a, 653, and 683 of this title and section 601 of Title 5, Government Organization and Employees, amending provisions set out as notes under this section and sections 633, 636, 637, 644, and 694b of this title and section 502 of Title 44, Public Printing and Documents, and repealing provisions set out as a note under section 648 of this title\] may be cited as the 'Small Business Administration Reauthorization and Amendments Act of 1990'."
 
-Pub. L. 101–574, title III, §301, Nov. 15, 1990, 104 Stat. 2827, provided that: "This title \[enacting sections 653 and 654 of this title, amending sections 631b, 636, and 648 of this title, and enacting provisions set out as notes under section 653 of this title and section 601 of Title 5,Government Organization and Employees\] may be cited as the 'Rural Small Business Enhancement Act of 1990'."
+Pub. L. 101–574, title III, §301, Nov. 15, 1990, 104 Stat. 2827, provided that: "This title \[enacting sections 653 and 654 of this title, amending sections 631b, 636, and 648 of this title, and enacting provisions set out as notes under section 653 of this title and section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Rural Small Business Enhancement Act of 1990'."
 
 #### Short Title of 1989 Amendment
 
@@ -420,7 +420,7 @@ Pub. L. 90–104, title I, §101, Oct. 11, 1967, 81 Stat. 268, provided that: "T
 
 #### Short Title of 1961 Amendment
 
-Pub. L. 87–305, §1, Sept. 26, 1961, 75 Stat. 666, provided: "That this Act \[amending this section, sections 633, 634, 636, 637, and 639 of this title, and section 2158 of Appendix to Title 50, War and National Defense\] may be cited as the 'Small Business Act Amendments of 1961'."
+Pub. L. 87–305, §1, Sept. 26, 1961, 75 Stat. 666, provided: "That this Act \[amending this section, sections 633, 634,636, 637, and 639 of this title, and section 2158 of Appendix to Title 50, War and National Defense\] may be cited as the 'Small Business Act Amendments of 1961'."
 
 #### Short Title
 
@@ -428,7 +428,7 @@ Pub. L. 85–536, §2\[1\], July 18, 1958, 72 Stat. 384, provided that this chap
 
 #### Repeal of Inconsistent Laws
 
-Pub. L. 85–536, §2\[47\], formerly §2\[21\], July 18, 1958, 72 Stat. 396, renumbered §2\[30\] by Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; renumbered §2\[31\] by Pub. L. 104–121, title II, §222(1), Mar. 29, 1996, 110 Stat. 860; renumbered §2\[32\] by Pub. L. 105–135, title VI, §602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629; renumbered §2\[34\] by Pub. L. 106–50, title II, §201(b)(1), Aug. 17, 1999,113 Stat. 235; renumbered §2\[36\] by Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; renumbered §2\[37\] by Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; renumbered §2\[44\] by Pub. L. 110–234, title XII, §12062(1), May 22, 2008, 122 Stat. 1407; Pub. L. 110–246, §4(a), title XII, §12062(1), June 18, 2008, 122 Stat. 1664, 2169; renumbered §2\[45\] by Pub. L. 111–240, title I, §1313(a)(1), Sept. 27, 2010, 124 Stat. 2538; renumbered §2\[47\] by Pub. L. 112–239, div. A, title XVI, §1641(1), Jan. 2, 2013, 126 Stat. 2076, provided that: "All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency."
+Pub. L. 85–536, §2\[47\], formerly §2\[21\], July 18, 1958, 72 Stat. 396, renumbered §2\[30\] by Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; renumbered §2\[31\] by Pub. L. 104–121, title II, §222(1), Mar. 29, 1996, 110 Stat. 860; renumbered §2\[32\] by Pub. L. 105–135, title VI, §602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629; renumbered §2\[34\] by Pub. L. 106–50, title II, §201(b)(1), Aug. 17, 1999, 113 Stat. 235; renumbered §2\[36\] by Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; renumbered §2\[37\] by Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; renumbered §2\[44\] by Pub. L. 110–234, title XII, §12062(1), May 22, 2008, 122 Stat. 1407; Pub. L. 110–246, §4(a), title XII, §12062(1), June 18, 2008, 122 Stat. 1664, 2169; renumbered §2\[45\] by Pub. L. 111–240, title I, §1313(a)(1), Sept. 27, 2010, 124 Stat. 2538; renumbered §2\[47\] by Pub. L. 112–239, div. A, title XVI, §1641(1), Jan. 2, 2013, 126 Stat. 2076, provided that: "All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency."
 
 #### Regulations
 
@@ -478,7 +478,7 @@ Pub. L. 85–536, §2\[20\], July 18, 1958, 72 Stat. 396, as amended by Pub. L. 
 
 &emsp;"(B) shall be available for a national program, except that the Administration may use not more than an amount equal to 10 percent of the amount authorized each year for any special or pilot program directed to identified sectors of the small business community or to specific geographic regions of the United States.
 
-"(b) There are authorized to be appropriated to the Administration for fiscal year 1991 such sums as may be necessary to carry out the provisions of this Act \[thischapter\] and the Small Business Investment Act of 1958 \[chapter 14B of this title\]. There also are hereby authorized to be appropriated such sums as may be necessary and appropriate for the carrying out of the provisions and purposes, including administrative expenses, of sections 7(b)(1) and 7(b)(2) of this Act \[section 636(b)(1), (2) of this title\]; and there are authorized to be transferred from the disaster loan revolving fund such sums as may be necessary and appropriate for such administrative expenses.
+"(b) There are authorized to be appropriated to the Administration for fiscal year 1991 such sums as may be necessary to carry out the provisions of this Act \[this chapter\] and the Small Business Investment Act of 1958 \[chapter 14B of this title\]. There also are hereby authorized to be appropriated such sums as may be necessary and appropriate for the carrying out of the provisions and purposes, including administrative expenses, of sections 7(b)(1) and 7(b)(2) of this Act \[section 636(b)(1), (2) of this title\]; and there are authorized to be transferred from the disaster loan revolving fund such sums as may be necessary and appropriate for such administrative expenses.
 
 "(c)
 
@@ -572,7 +572,7 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 Additional authorizations.—
 
-&emsp;&emsp;"(A) There are authorized to be appropriated to the Administration for fiscal year 2006 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
+&emsp;&emsp;"(A) There are authorized to be appropriated to the Administration for fiscal year 2006 such sums asmay be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
 
 &emsp;&emsp;"(B) Notwithstanding any other provision of this paragraph, for fiscal year 2006—
 
@@ -676,7 +676,7 @@ In general.—Not later than 9 months after the date of enactment of this Act \[
 
 &emsp;"(2)
 
-Contents.—The report under paragraph (1) shall include recommendations to Congress concerning the need for legislation and recommendations to the Office of Management and Budget, relevant offices within the Administration, and the Department of Veterans Affairs.
+Contents.—The report under paragraph (1) shall include recommendations to Congress concerning the need for legislation and recommendations tothe Office of Management and Budget, relevant offices within the Administration, and the Department of Veterans Affairs.
 
 "(b)
 
@@ -786,7 +786,7 @@ Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of C
 
 (3) Convene, for purposes of coordination, meetings of the heads of such departments and agencies, or their designees, whose programs and activities may affect or contribute to the purposes of this order.
 
-(4) Convene business leaders, educators, and other representatives of the private sector who are engaged in assisting the development of minority business enterprise or who could contribute to its development, for the purpose of proposing, evaluating and coordinating governmental and private activities in furtherance of the objectives of this order.
+(4) Convene business leaders, educators, and other representatives of the private sector who are engagedin assisting the development of minority business enterprise or who could contribute to its development, for the purpose of proposing, evaluating and coordinating governmental and private activities in furtherance of the objectives of this order.
 
 (5) Confer with and advise officials of State and local governments.
 
@@ -796,7 +796,7 @@ Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of C
 
 Sec. 2. \[Revoked by Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839.\]
 
-Sec. 3. <i>Responsibilities of Other Federal Departments and Agencies</i>. (a) The head of each Federal departmentand agency, or a representative designated by him, when and in the manner so requested by the Secretary, shall furnish information, assistance, and reports to, and shall otherwise cooperate with, the Secretary in the performance of his functions hereunder.
+Sec. 3. <i>Responsibilities of Other Federal Departments and Agencies</i>. (a) The head of each Federal department and agency, or a representative designated by him, when and in the manner so requested by the Secretary, shall furnish information, assistance, and reports to, and shall otherwise cooperate with, the Secretary in the performance of his functions hereunder.
 
 (b) The head of each Federal department or agency shall, when so requested by the Secretary, designate his Under Secretary or such other similar official to have primary and continuing responsibility for the participation and cooperation of that department or agency in matters concerning minority business enterprise.
 
@@ -850,7 +850,7 @@ Section 1. <i>Minority Business Development Plans</i>. (a) Minority business ent
 
 (e) The Secretary of Commerce shall provide an annual report to the President, through the Cabinet Council on Commerce and Trade, on activities under this Order and agency implementation of minority business development programs.
 
-Sec. 2. <i>Minority Business Development Responsibilities of Federal Agencies</i>. (a) To the extent permitted by lawand consistent with its primary mission, each Federal agency which is required to develop a minority business development plan under Section 1 of this Order shall, to accomplish the objectives set forth in its plan, establish programs concerning provision of direct assistance, procurement assistance, and management and technical assistance to minority business enterprises.
+Sec. 2. <i>Minority Business Development Responsibilities of Federal Agencies</i>. (a) To the extent permitted by law and consistent with its primary mission, each Federal agency which is required to develop a minority business development plan under Section 1 of this Order shall, to accomplish the objectives set forth in its plan, establish programs concerning provision of direct assistance, procurement assistance, and management and technical assistance to minority business enterprises.
 
 (b) Each Federal agency shall, to the extent permitted by law and consistent with its primary mission, establish minority business development programs, consistent with Section 211 of Public Law 95–507 \[amending 15 U.S.C. 637(d)\] to develop and implement incentive techniques to encourage greater minority business subcontracting by Federal prime contractors.
 
@@ -894,7 +894,7 @@ Sec. 4. <i>Office of Small and Disadvantaged Business Utilization ("OSDBU").</i>
 
 (b) Because of the importance of the OSDBU function, each department and agency shall also, to the extent not prohibited by law, comply with the Office of Federal Procurement Policy Letter No. 79–1 of March 7, 1979, which provides implementation guidance on section 15k \[15(k)\] and the organizational placement and functions of the OSDBU.
 
-Sec. 5. <i>Anti-fraud Enforcement</i>. All department and agency heads shall ensure that in enforcing the laws and requirements mentioned in this order, Federal benefits or contracts intended for SDBs, HBCUs, and MIs are not awarded to entities that are not legitimate SDBs, HBCUs, and MIs. Department and agency anti-fraud enforcement, however, shall not diminish agency vigor in achieving the aforementioned participation goals, which exist to promote the development of legitimate SDBs, HBCUs, and MIs. Nothing herein is intended to change self-certification requirements.
+Sec. 5. <i>Anti-fraud Enforcement</i>. All department and agency heads shall ensure that in enforcing the laws and requirements mentioned in this order, Federal benefits or contracts intended for SDBs, HBCUs, and MIs are not awarded to entities that are not legitimateSDBs, HBCUs, and MIs. Department and agency anti-fraud enforcement, however, shall not diminish agency vigor in achieving the aforementioned participation goals, which exist to promote the development of legitimate SDBs, HBCUs, and MIs. Nothing herein is intended to change self-certification requirements.
 
 Sec. 6. <i>Periodic Reports to the President</i>. The Administrator of the Small Business Administration and the Administrator of the Office of Federal Procurement Policy shall report to the President periodically on the progress of all departments and agencies in complying with the laws and requirements mentioned in this order.
 
@@ -1018,7 +1018,7 @@ The Federal Government is the world's largest purchaser of goods and services, w
 
 The Congress has established a number of statutory goals designed to help small businesses compete for Federal contracts. In addition to the goal of awarding at least 23 percent of all Federal prime contracting dollars to small businesses, the Congress also established Government-wide contracting goals for participation by small businesses that are located in Historically Underutilized Business Zones (at least 3 percent) or that are owned by women (at least 5 percent), socially and economically disadvantaged individuals (at least 5 percent), and service-disabled veterans (at least 3 percent). These aspirational goals help ensure that all Americans share in the jobs and opportunities created by Federal procurement.
 
-In recent years, the Federal Government has not consistently reached its small business contracting goals. Although we have made some progress—particularly with respect to Recovery Act contracts—more work can and should be done. I am committed to ensuring that small businesses, including firms owned by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans, have fair access to Federal Government contracting. Indeed, where small businesses have the capacity to do more, we should strive to exceed the statutory goals. While Chief Acquisition Officers and Senior Procurement Executives have many priorities, small business contracting should always be a high priority in the procurement process.
+In recent years, the Federal Government has not consistently reached its small business contracting goals. Although we have made some progress—particularly with respect to Recovery Act contracts—more work can and should be done. I am committed to ensuring that small businesses, including firms owned by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans, have fair access to Federal Government contracting. Indeed, where small businesses have the capacity to domore, we should strive to exceed the statutory goals. While Chief Acquisition Officers and Senior Procurement Executives have many priorities, small business contracting should always be a high priority in the procurement process.
 
 Obtaining tangible results will require an honest and accurate accounting of our progress so that we can have transparency and accountability through Federal small business procurement data. Additionally, we must expand outreach strategies to alert small firms to Federal contracting opportunities.
 

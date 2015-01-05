@@ -76,13 +76,13 @@ If any person uses taxable fuel (other than in the production of taxable fuels o
 
 #### (A) Forfeiture
 
-&emsp;&emsp;The penalty provided by section 7342 shall apply to any refusal to admit entry or otherrefusal to permit an action by the Secretary authorized by paragraph (1), except that section 7342 shall be applied by substituting "$1,000" for "$500" for each such refusal.
+&emsp;&emsp;The penalty provided by section 7342 shall apply to any refusal to admit entry or other refusal to permit an action by the Secretary authorized by paragraph (1), except that section 7342 shall be applied by substituting "$1,000" for "$500" for each such refusal.
 
 #### (B) Assessable penalty
 
 &emsp;&emsp;For additional assessable penalty for the refusal to admit entry or other refusal to permit an action by the Secretary authorized by paragraph (1), see section 6717.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 105–34, title IX, §902(b)(3), title X, §1032(a), (e)(4), Aug. 5, 1997, 111 Stat. 873, 933, 935; Pub. L. 105–206, title VI, §6010(h)(1), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title III, §301(c)(8), title VIII, §§853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, 118 Stat. 1461, 1611, 1617, 1618, 1623; Pub. L. 109–59, title XI, §11123(b), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, §1103(b), Feb. 14, 2012, 126 Stat. 151.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XVII, §1703(a),Oct. 22, 1986, 100 Stat. 2776; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 105–34, title IX, §902(b)(3), title X, §1032(a), (e)(4), Aug. 5, 1997, 111 Stat. 873, 933, 935; Pub. L. 105–206, title VI, §6010(h)(1), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title III, §301(c)(8), title VIII, §§853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, 118 Stat. 1461, 1611, 1617, 1618, 1623; Pub. L. 109–59, title XI, §11123(b), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, §1103(b), Feb. 14, 2012, 126 Stat. 151.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Enter Into Agreements.—(1) The Secretary concerned, without regard to section 6101(b)–(d) of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
+Authority To Enter Into Agreements.—(1) The Secretary concerned, without regard to section 6101 of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
 
 (2) In this section, the term "non-Government facility" means any of the following:
 
@@ -28,7 +28,7 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 &emsp;&emsp;(A) Travel and per diem instead of subsistence under sections 474 and 475 of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
-&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimatedcosts of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
+&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
 
 &emsp;&emsp;(C) Tuition and matriculation fees.
 
@@ -42,9 +42,11 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 Certain Expenses Excluded.—The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 
-(Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, §5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, §5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, §1071(a)(1), Dec. 19, 2014, 128 Stat. 3504.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–291 substituted "section 6101 of title 41" for "section 6101(b)–(d) of title 41".
 
 <b>2013</b>—Subsec. (b)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 

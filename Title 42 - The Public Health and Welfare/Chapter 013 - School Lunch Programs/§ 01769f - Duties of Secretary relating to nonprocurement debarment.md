@@ -124,7 +124,7 @@ Notwithstanding any other provision of this section, the Secretary shall initiat
 
 &emsp;(2) will interfere with the ability of a local agency to procure a needed product for a child nutrition program;
 
-&emsp;(3) is unfair to a person, subsidiary corporation, affiliate, parent company, or local division of a corporation that is not involved inthe improper activity that would otherwise result in the debarment;
+&emsp;(3) is unfair to a person, subsidiary corporation, affiliate, parent company, or local division of a corporation that is not involved in the improper activity that would otherwise result in the debarment;
 
 &emsp;(4) is likely to have significant adverse economic impacts on the local economy in a manner that is unfair to innocent parties;
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 6 months after August 3, 2007, consistent with the findings of the Transportation Security Administration's hazardous materials truck security pilot program, the Secretary, through the Administrator of theTransportation Security Administration and in consultation with the Secretary of Transportation, shall develop a program to facilitate the tracking of motor carrier shipments of security-sensitive materials and to equip vehicles used in such shipments with technology that provides—
+&emsp;Not later than 6 months after August 3, 2007, consistent with the findings of the Transportation Security Administration's hazardous materials truck security pilot program, the Secretary, through the Administrator of the Transportation Security Administration and in consultation with the Secretary of Transportation, shall develop a program to facilitate the tracking of motor carrier shipments of security-sensitive materials and to equip vehicles used in such shipments with technology that provides—
 
 &emsp;&emsp;(A) frequent or continuous communications;
 

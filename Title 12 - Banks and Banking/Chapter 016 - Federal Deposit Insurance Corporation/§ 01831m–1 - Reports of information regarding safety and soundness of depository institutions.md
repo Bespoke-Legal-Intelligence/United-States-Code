@@ -38,11 +38,11 @@
 
 #### (1) In general
 
-&emsp;Within 90 days after October 28, 1992, each appropriate Federal banking agency shall establish procedures for receipt of a disclosure report by an agency or instrumentality made in accordance with subsection (a)(1) of this section. The procedures established in accordance with this subsection shall ensure adequate protection of information disclosed, including access control and information accountability.
+&emsp;Within 90 days after October 28, 1992, each appropriate Federal banking agency shall establish procedures for receipt of a disclosure report by an agency or instrumentality made in accordance with subsection (a)(1). The procedures established in accordance with this subsection shall ensure adequate protection of information disclosed, including access control and information accountability.
 
 #### (2) Procedures related to each disclosure report
 
-&emsp;Upon receipt of a report in accordance with subsection (a)(1) of this section, the appropriate Federal banking agency shall—
+&emsp;Upon receipt of a report in accordance with subsection (a)(1), the appropriate Federal banking agency shall—
 
 &emsp;&emsp;(A) consult with the agency or instrumentality that made the disclosure regarding the adequacy of the procedures established pursuant to paragraph (1), and
 
@@ -68,7 +68,7 @@ Section was enacted as part of the Annunzio-Wylie Anti-Money Laundering Act and 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: "The Attorney General and the Secretary of the Treasury shallreport to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section."
+<b>1998</b>—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: "The Attorney General and the Secretary of the Treasury shall report to the Committee on Banking, Housing, andUrban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section."
 
 #### Change of Name
 

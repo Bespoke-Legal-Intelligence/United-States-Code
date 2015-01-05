@@ -64,7 +64,7 @@ In the case of a defendant sentenced in accordance with subsections (b) and (c),
 
 &emsp;&emsp;(A) in a tribal correctional center that has been approved by the Bureau of Indian Affairs for long-term incarceration, in accordance with guidelines to be developed by the Bureau of Indian Affairs (in consultation with Indian tribes) not later than 180 days after July 29, 2010;
 
-&emsp;&emsp;(B) in the nearest appropriate Federal facility, at the expense of the United States pursuant to the Bureau of Prisons tribal prisoner pilot program described in section 304(c) <sup>1</sup> of the Tribal Law and Order Act of 2010;
+&emsp;&emsp;(B) in the nearest appropriate Federal facility, at the expense of the United States pursuant to the Bureau of Prisons tribalprisoner pilot program described in section 304(c) <sup>1</sup> of the Tribal Law and Order Act of 2010;
 
 &emsp;&emsp;(C) in a State or local government-approved detention or correctional center pursuant to an agreement between the Indian tribe and the State or local government; or
 
@@ -96,7 +96,7 @@ Subsec. (a)(7). Pub. L. 111–211, §234(a)(2)(B), added par. (7) and struck out
 
 Subsecs. (b) to (f). Pub. L. 111–211, §234(a)(3), added subsecs. (b) to (f).
 
-<b>1986</b>—Par. (7). Pub. L. 99–570, which directed that "for a term of one year and a fine of $5,000, or both" be substituted for "for a term of six months and a fine of $500,or both", was executed by making the substitution for "for a term of six months or a fine of $500, or both" as the probable intent of Congress.
+<b>1986</b>—Par. (7). Pub. L. 99–570, which directed that "for a term of one year and a fine of $5,000, or both" be substituted for "for a term of six months and a fine of $500, or both", was executed by making the substitution for "for a term of six months or a fine of $500, or both" as the probable intent of Congress.
 
 #### Bureau of Prisons Tribal Prisoner Pilot Program
 

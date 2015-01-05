@@ -6,7 +6,7 @@ Violations Regarding Circumvention of Technological Measures.—(1)(A) No person
 
 (B) The prohibition contained in subparagraph (A) shall not apply to persons who are users of a copyrighted work which is in a particular class of works, if such persons are, or are likely to be in the succeeding 3-year period, adversely affected by virtue of such prohibition in their ability to make noninfringing uses of that particular class of works under this title, as determined under subparagraph (C).
 
-(C) During the 2-year period described in subparagraph (A), and during each succeeding 3-year period, the Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall make the determination in a rulemaking proceeding for purposes of subparagraph (B) of whether persons who are users of a copyrighted work are, or are likely to be in the succeeding 3-year period, adversely affected by the prohibition under subparagraph (A) in their ability to make noninfringing uses under this title of a particular class of copyrighted works. In conducting such rulemaking, the Librarian shall examine—
+(C) During the 2-year period described in subparagraph (A), and during each succeeding 3-year period, the Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall make the determination in a rulemaking proceeding for purposes of subparagraph\(B) of whether persons who are users of a copyrighted work are, or are likely to be in the succeeding 3-year period, adversely affected by the prohibition under subparagraph (A) in their ability to make noninfringing uses under this title of a particular class of copyrighted works. In conducting such rulemaking, the Librarian shall examine—
 
 &emsp;(i) the availability for use of copyrighted works;
 
@@ -34,7 +34,7 @@ Violations Regarding Circumvention of Technological Measures.—(1)(A) No person
 
 &emsp;(A) to "circumvent a technological measure" means to descramble a scrambled work, to decrypt an encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair a technological measure, without the authority of the copyright owner; and
 
-&emsp;(B) a technological measure "effectively controls access to a work" if the measure, in the ordinary course of its operation, requires the application of information, or a process ora treatment, with the authority of the copyright owner, to gain access to the work.
+&emsp;(B) a technological measure "effectively controls access to a work" if the measure, in the ordinary course of its operation, requires the application of information, or a process or a treatment, with the authority of the copyright owner, to gain access to the work.
 
 (b)
 
@@ -94,7 +94,7 @@ Law Enforcement, Intelligence, and Other Government Activities.—This section d
 
 Reverse Engineering.—(1) Notwithstanding the provisions of subsection (a)(1)(A), a person who has lawfully obtained the right to use a copy of a computer program may circumvent a technological measure that effectively controls access to a particular portion of that program for the sole purpose of identifying and analyzing those elements of the program that are necessary to achieve interoperability of an independently created computer program with other programs, and that have not previously been readily available to the person engaging in the circumvention, to the extent any such acts of identification and analysis do not constitute infringement under this title.
 
-(2) Notwithstanding the provisions of subsections (a)(2) and (b), a person may develop and employ technological means to circumvent a technological measure, or to circumvent protection afforded by a technological measure, in order to enable the identification and analysisunder paragraph (1), or for the purpose of enabling interoperability of an independently created computer program with other programs, if such means are necessary to achieve such interoperability, to the extent that doing so does not constitute infringement under this title.
+(2) Notwithstanding the provisions of subsections (a)(2) and (b), a person may develop and employ technological means to circumvent a technological measure, or to circumvent protection afforded by a technological measure, in order to enable the identification and analysis under paragraph (1), or for the purpose of enabling interoperability of an independently created computer program with other programs, if such means are necessary to achieve such interoperability, to the extent that doing so does not constitute infringement under this title.
 
 (3) The information acquired through the acts permitted under paragraph (1), and the means permitted under paragraph (2), may be made available to others if the person referred to in paragraph (1) or (2), as the case may be, provides such information or means solely for the purpose of enabling interoperability of an independently created computer program with other programs, and to the extent that doing so does not constitute infringement under this title or violate applicable law other than this section.
 
@@ -204,7 +204,7 @@ Factors in determining exemption.—In determining whether a person qualifies fo
 
 &emsp;(4)
 
-Use of technological means for security testing.—Notwithstanding the provisions of subsection (a)(2), it is not a violation of that subsection for a person to develop, produce, distribute or employ technological means for the sole purpose of performing the acts of security testing described in subsection (2),<sup>1</sup> provided such technological means does not otherwise violate section <sup>2</sup> (a)(2).
+Use of technological means for security testing.—Notwithstanding the provisions of subsection (a)(2), it is not a violation ofthat subsection for a person to develop, produce, distribute or employ technological means for the sole purpose of performing the acts of security testing described in subsection (2),<sup>1</sup> provided such technological means does not otherwise violate section <sup>2</sup> (a)(2).
 
 (k)
 
@@ -291,6 +291,64 @@ The Computer Fraud and Abuse Act of 1986, referred to in subsecs. (g)(2)(D) and 
 #### Amendments
 
 <b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–113 struck out "on the record" after "determination in a rulemaking proceeding" in first sentence.
+
+#### Unlocking Consumer Choice and Wireless Competition
+
+Pub. L. 113–144, Aug. 1, 2014, 128 Stat. 1751, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Unlocking Consumer Choice and Wireless Competition Act'.
+
+#### "SEC. 2. REPEAL OF EXISTING RULE AND ADDITIONAL RULEMAKING BY LIBRARIAN OF CONGRESS.
+
+"(a)
+
+Repeal and Replace.—As of the date of the enactment of this Act \[Aug. 1, 2014\], paragraph (3) of section 201.40(b) of title 37, Code of Federal Regulations, as amended and revised by the Librarian of Congress on October 28, 2012, pursuant to the Librarian's authority under section 1201(a) of title 17, United States Code, shall have no force and effect, and such paragraph shall read, and shall be in effect, as such paragraph was in effect on July 27, 2010.
+
+"(b)
+
+Rulemaking.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under section 1201(a)(1) of title 17, United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall be made in the first rulemaking under section 1201(a)(1)(C) of title 17, United States Code, that begins on or after the date of enactment of this Act.
+
+"(c)
+
+Unlocking at Direction of Owner.—Circumvention of a technological measure that restricts wireless telephone handsets or other wireless devices from connecting to a wireless telecommunications network—
+
+&emsp;"(1)(A) as authorized by paragraph (3) of section 201.40(b) of title 37, Code of Federal Regulations, as made effective by subsection (a); and
+
+&emsp;"(B) as may be extended to other wireless devices pursuant to a determination in the rulemaking conducted under subsection (b); or
+
+&emsp;"(2) as authorized by an exemption adopted by the Librarian of Congress pursuant to a determination made on or after the date of enactment of this Act under section 1201(a)(1)(C) of title 17, United States Code,
+
+> may be initiated by the owner of any such handset or other device, by another person at the direction of the owner, or by a provider of a commercial mobile radio service or a commercial mobile data service at the direction of such owner or other person, solely in order to enable such owner or a family member of such owner to connect to a wireless telecommunications network, when such connection is authorized by the operator of such network.
+
+"(d)
+
+Rule of Construction.—
+
+&emsp;"(1)
+
+In general.—Except as expressly provided herein, nothing in this Act shall be construed to alter the scope of any party's rights under existing law.
+
+&emsp;"(2)
+
+Librarian of congress.—Nothing in this Act alters, or shall be construed to alter, the authority of the Librarian of Congress under section 1201(a)(1) of title 17, United States Code.
+
+"(e)
+
+Definitions.—In this Act:
+
+&emsp;"(1)
+
+Commercial mobile data service; commercial mobile radio service.—The terms 'commercial mobile data service' and 'commercial mobile radio service' have the respective meanings given those terms in section 20.3 of title 47, Code of Federal Regulations, as in effect on the date of the enactment of this Act.
+
+&emsp;"(2)
+
+Wireless telecommunications network.—The term 'wireless telecommunications network' means a network used to provide a commercial mobile radio service or a commercial mobile data service.
+
+&emsp;"(3)
+
+Wireless telephone handsets; wireless devices.—The terms 'wireless telephone handset' and 'wireless device' mean a handset or other device that operates on a wireless telecommunications network."
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection "(a)(2),".</i>
 

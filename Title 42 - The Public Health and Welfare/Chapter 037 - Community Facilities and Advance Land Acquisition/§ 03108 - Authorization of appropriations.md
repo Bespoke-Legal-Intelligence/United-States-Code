@@ -2,7 +2,7 @@
 
 (a) There are authorized to be appropriated for each fiscal year commencing after June 30, 1965, and ending prior to July 1, 1969, not to exceed (1) $200,000,000 (or $350,000,000 in the case of the fiscal year commencing July 1, 1968) for grants under section 3102 of this title, (2) $50,000,000 for grants under section 3103 of this title, and (3) $25,000,000 for grants under section 3104 of this title. In addition, there is authorized to be appropriated for grants under section 3102 of this title not to exceed $115,000,000 for the fiscal year commencing July 1, 1969, and not to exceed $100,000,000 for the fiscal year commencing July 1, 1970. In addition, upon the enactment of the Emergency Community Facilities Act of 1970, there is authorized to be appropriated for grants under section 3102 of this title not to exceed $1,000,000,000 for the fiscal year commencing July 1, 1970. In addition, there is authorized to be appropriated for the fiscal year commencing July 1, 1971, not to exceed $50,000,000 for grants under section 3103 of this title. In addition, there are authorized to be appropriated for the fiscal year commencing July 1, 1973, not to exceed $40,000,000 for grants under section 3103 of this title.
 
-(b) Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year commencing prior to July 1, 1974.
+(b) Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal yearunder this section but not appropriated may be appropriated for any succeeding fiscal year commencing prior to July 1, 1974.
 
 (Pub. L. 89–117, title VII, §708, Aug. 10, 1965, 79 Stat. 493; Pub. L. 90–448, title VI, §605, Aug. 1, 1968, 82 Stat. 534; Pub. L. 91–152, title III, §305(b), (c), Dec. 24, 1969, 83 Stat. 391; Pub. L. 91–431, §3(a), (b), Oct. 6, 1970, 84 Stat. 886; Pub. L. 91–609, title III, §304, Dec. 31, 1970, 84 Stat. 1780; Pub. L. 92–335, §3, July 1, 1972, 86 Stat. 405; Pub. L. 93–117, §8, Oct. 2, 1973, 87 Stat. 422.)
 
@@ -42,7 +42,7 @@ Pub. L. 91–431, §2, Oct. 6, 1970, 84 Stat. 886, provided that:
 
 "(a) The Congress finds that a large number of municipalities and other entities of local government throughout the Nation are unable to finance construction of vital and urgently needed public facilities because of the shortage of funds for long-term borrowing.
 
-"(b) The Congress further finds that there is an immediate need for such facilities in order to providebasic safeguards for the health and well-being of the people of the United States, to check widespread pollution of irreplaceable water sources, and to provide an effective and practical method of combating rising unemployment."
+"(b) The Congress further finds that there is an immediate need for such facilities in order to provide basic safeguards for the health and well-being of the people of the United States, to check widespread pollution of irreplaceable water sources, and to provide an effective and practical method of combating rising unemployment."
 
 #### Administrative Priority for Applications Relating to Activities in Areas Affected by Base Closings
 

@@ -10,7 +10,7 @@ Pub. L. 108–186, title I, §101, Dec. 16, 2003, 117 Stat. 2685, provided that:
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title I, §101, Dec. 27, 2000, 114 Stat. 2946, provided that: "This title \[amending sections 5307, 12705c, and 12705d of this title\] may be cited as the 'Housing Affordability Barrier Removal Act of 2000'."
+Pub. L. 106–569, title I, §101, Dec. 27, 2000, 114 Stat. 2946, provided that: "This title \[amending sections 5307,12705c, and 12705d of this title\] may be cited as the 'Housing Affordability Barrier Removal Act of 2000'."
 
 #### Short Title
 
@@ -52,7 +52,7 @@ Number and Appointment.—The Commission shall be composed of 22 members, appoin
 
 &emsp;&emsp;&emsp;"(i) one co-chairperson appointed by a committee consisting of the chairmen of the Subcommittees on the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies of the Committees on Appropriations of the House of Representatives and the Senate, and the chairman of the Subcommittee on Housing and Community Opportunities of the House of Representatives and the chairman of the Subcommittee on Housing and Transportation of the Senate; and
 
-&emsp;&emsp;&emsp;"(ii) one co-chairperson appointed by a committee consisting of the ranking minority members of the Subcommittees on the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies of the Committees on Appropriations of the House of Representatives and the Senate, and the ranking minority member of the Subcommittee on Housing and Community Opportunities of the House of Representatives and the ranking minority member ofthe Subcommittee on Housing and Transportation of the Senate.
+&emsp;&emsp;&emsp;"(ii) one co-chairperson appointed by a committee consisting of the ranking minority members of the Subcommittees on the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies of the Committees on Appropriations of the House of Representatives and the Senate, and the ranking minority member of the Subcommittee on Housing and Community Opportunities of the House of Representatives and the ranking minority member of the Subcommittee on Housing and Transportation of the Senate.
 
 &emsp;&emsp;"(B) Ten members appointed by the Chairman and Ranking Minority Member of the Committee on Appropriations of the House of Representatives and the Chairman and Ranking Minority Member of the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives.
 

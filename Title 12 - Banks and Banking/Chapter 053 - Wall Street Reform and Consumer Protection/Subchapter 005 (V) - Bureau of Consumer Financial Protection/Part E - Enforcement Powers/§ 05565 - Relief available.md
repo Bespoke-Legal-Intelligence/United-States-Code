@@ -52,11 +52,11 @@ In any action brought by the Bureau, a State attorney general, or any State regu
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), for any person that knowingly violates a Federal consumer financial law, a civil penalty may not exceed $1,000,000 for each day during which such violation continues.
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), for any person that knowingly violates aFederal consumer financial law, a civil penalty may not exceed $1,000,000 for each day during which such violation continues.
 
 #### (3) Mitigating factors
 
-&emsp;In determining the amount of any penalty assessed under paragraph (2), the Bureau orthe court shall take into account the appropriateness of the penalty with respect to—
+&emsp;In determining the amount of any penalty assessed under paragraph (2), the Bureau or the court shall take into account the appropriateness of the penalty with respect to—
 
 &emsp;&emsp;(A) the size of financial resources and good faith of the person charged;
 

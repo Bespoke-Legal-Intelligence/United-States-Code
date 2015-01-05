@@ -2,7 +2,7 @@
 
 (a)
 
-Criminal Proceedings.—Except as expressly provided otherwise in this title, nocriminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose.
+Criminal Proceedings.—Except as expressly provided otherwise in this title, no criminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose.
 
 (b)
 

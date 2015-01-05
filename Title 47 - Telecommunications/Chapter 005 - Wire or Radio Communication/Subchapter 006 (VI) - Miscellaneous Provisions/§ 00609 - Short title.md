@@ -6,7 +6,13 @@ This chapter may be cited as the "Communications Act of 1934."
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–200, §1(a), Dec. 4, 2014, 128 Stat. 2059, provided that: "This Act \[amending sections 325, 338, 534, and 543 of this title and sections 111, 119, and 122 of Title 17, Copyrights, enacting provisions set out as notes under sections 153, 325, 338, and 534 of this title and section 111 of Title 17, and repealing provisions set out as a note under section 119 of Title 17\] may be cited as the 'STELA Reauthorization Act of 2014'."
+
+Pub. L. 113–197, §1, Nov. 26, 2014, 128 Stat. 2055, provided that: "This Act \[enacting section 622 of this title and provisions set out as notes under section 622 of this title\] may be cited as the 'Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014' or the 'E–LABEL Act'."
 
 #### Short Title of 2010 Amendment
 
@@ -146,7 +152,7 @@ Pub. L. 91–437, §1, Oct. 7, 1970, 84 Stat. 888, provided: "That this Act \[am
 
 #### Short Title of 1969 Amendment
 
-Pub. L. 91–97, §1, Oct. 27, 1969, 83 Stat. 146, provided: "That this Act \[amending sections 391 and 396 of thistitle\] may be cited as the 'Educational Television and Radio Amendments of 1969'."
+Pub. L. 91–97, §1, Oct. 27, 1969, 83 Stat. 146, provided: "That this Act \[amending sections 391 and 396 of this title\] may be cited as the 'Educational Television and Radio Amendments of 1969'."
 
 #### Short Title of 1967 Amendment
 

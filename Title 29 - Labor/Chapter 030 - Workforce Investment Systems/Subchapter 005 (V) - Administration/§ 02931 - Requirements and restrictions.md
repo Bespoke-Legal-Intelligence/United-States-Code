@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;Each State and local area receiving an allotment under this chapter shall establish andmaintain a procedure for grievances or complaints alleging violations of the requirements of this chapter from participants and other interested or affected parties. Such procedure shall include an opportunity for a hearing and be completed within 60 days after the filing of the grievance or complaint.
+&emsp;Each State and local area receiving an allotment under this chapter shall establish and maintain a procedure for grievances or complaints alleging violations of the requirements of this chapter from participants and other interested or affected parties. Such procedure shall include an opportunity for a hearing and be completed within 60 days after the filing of the grievance or complaint.
 
 #### (2) Investigation
 
@@ -150,6 +150,10 @@ No funds available under this chapter shall be used for employment generating ac
 
 (Pub. L. 105–220, title I, §181, Aug. 7, 1998, 112 Stat. 1038.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
@@ -161,6 +165,10 @@ The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 1551 to 1554 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

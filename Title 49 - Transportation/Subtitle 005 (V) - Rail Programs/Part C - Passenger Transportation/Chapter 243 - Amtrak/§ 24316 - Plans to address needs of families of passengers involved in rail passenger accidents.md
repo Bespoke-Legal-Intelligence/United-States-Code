@@ -12,7 +12,7 @@ Contents of Plans.—A plan to be submitted by a rail passenger carrier under su
 
 &emsp;(2) A process for notifying the families of the passengers, before providing any public notice of the names of the passengers, either by utilizing the services of the organization designated for the accident under section 1139(a)(2) of this title or the services of other suitably trained individuals.
 
-&emsp;(3) A plan for creating and publicizing a reliable, toll-free telephone number within 4hours after such an accident occurs, and for providing staff, to handle calls from the families of the passengers.
+&emsp;(3) A plan for creating and publicizing a reliable, toll-free telephone number within 4 hours after such an accident occurs, and for providing staff, to handle calls from the families of the passengers.
 
 &emsp;(4) A process for providing the notice described in paragraph (2) to the family of a passenger as soon as the rail passenger carrier has verified that the passenger was aboard the train (whether or not the names of all of the passengers have been verified).
 
@@ -44,7 +44,7 @@ Limitation on Statutory Construction.—
 
 &emsp;(1)
 
-Rail passenger carriers.—Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carrier may have, in providing assistance to the families of passengers involved in a rail passenger accident.
+Rail passenger carriers.—Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carriermay have, in providing assistance to the families of passengers involved in a rail passenger accident.
 
 &emsp;(2)
 

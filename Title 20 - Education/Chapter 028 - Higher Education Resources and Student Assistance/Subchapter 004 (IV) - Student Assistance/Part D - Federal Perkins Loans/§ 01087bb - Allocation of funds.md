@@ -118,7 +118,7 @@
 
 (4)(A) For purposes of paragraphs (2) and (3), the term "average cost of attendance" means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
-(B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institutionto the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
+(B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
 (C) The standard living expense described in subparagraph (A)(ii) is equal to 150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college for a single independent student.
 
@@ -190,7 +190,7 @@
 
 #### (g) "Cohort default rate" defined
 
-(1)(A) The term "cohort default rate" means, for any award year in which 30 or more currentand former students at the institution enter repayment on loans under this part (received for attendance at the institution), the percentage of those current and former students who enter repayment on such loans (received for attendance at that institution) in that award year who default before the end of the following award year.
+(1)(A) The term "cohort default rate" means, for any award year in which 30 or more current and former students at the institution enter repayment on loans under this part (received for attendance at the institution), the percentage of those current and former students who enter repayment on such loans (received for attendance at that institution) in that award year who default before the end of the following award year.
 
 (B) For any award year in which less than 30 of the institution's current and former students enter repayment, the term "cohort default rate" means the percentage of such current and former students who entered repayment on such loans in any of the three most recent award years and who default before the end of the award year immediately following the year in which they entered repayment.
 
@@ -264,7 +264,7 @@ A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92�
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–39 added subpar. (A) and struck out former subpar. (A), resulting in textidentical to that after execution of the amendment by Pub. L. 105–244, §462(a)(1)(A). See 1998 Amendment note below.
+<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–39 added subpar. (A) and struck out former subpar. (A), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §462(a)(1)(A). See 1998 Amendment note below.
 
 <b>2008</b>—Subsec. (c)(4)(D). Pub. L. 110–315 substituted "$600" for "$450".
 
@@ -410,7 +410,7 @@ Subsec. (g). Pub. L. 102–325, §462(d), amended subsec. (g) generally. Prior t
 
 "(2) For award year 1991 and subsequent years, the applicable maximum default rate is 15 percent."
 
-Subsec. (h). Pub. L. 102–325, §462(e), substituted "Definitions of default rate and cohort default rate" for "Definition of default rate" in heading, in par. (1) substituted "For any award year prior to award year 1994, for the purpose" for "For the purpose", added par. (3), redesignated former par. (3) as (4), substituted "240" for "120" in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: "180 days (in the case of a loan repayable quarterly),".
+Subsec. (h). Pub. L. 102–325, §462(e), substituted "Definitions of default rate and cohort default rate" for"Definition of default rate" in heading, in par. (1) substituted "For any award year prior to award year 1994, for the purpose" for "For the purpose", added par. (3), redesignated former par. (3) as (4), substituted "240" for "120" in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: "180 days (in the case of a loan repayable quarterly),".
 
 Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions."
 

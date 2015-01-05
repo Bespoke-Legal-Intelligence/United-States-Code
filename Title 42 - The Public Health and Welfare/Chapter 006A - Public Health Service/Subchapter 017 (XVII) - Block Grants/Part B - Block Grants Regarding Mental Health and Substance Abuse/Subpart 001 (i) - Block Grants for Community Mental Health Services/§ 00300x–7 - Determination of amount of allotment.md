@@ -150,7 +150,7 @@ A prior section 1918 of act July 1, 1944, was classified to section 300x–6 of 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "With respect to fiscal year 2000, the amount of the allotment of a State under section 300x of this title shall not be less than the amount the State received under section 300x of this title for fiscal year 1998."
+<b>2000</b>—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "With respect to fiscal year 2000, the amount of the allotment of a State under section 300x of this title shall not be less than the amount the State received under section 300x of this title for fiscal year 1998."
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x of this title for a State for the fiscal year involved shall be the greater of—
 

@@ -10,11 +10,13 @@ Upon receipt of a certification from the Commission under section 9005 for payme
 
 #### (c) Insufficient amounts in fund
 
-If at the time of a certification by the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay such amounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(b)(3), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
+If at the time of a certification by the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay suchamounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(i)(2), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 567; amended Pub. L. 93–53, §6(b), July 1, 1973, 87 Stat. 138; Pub. L. 93–443, title IV, §§403(a), 404(c)(8), Oct. 15, 1974, 88 Stat. 1291, 1292; Pub. L. 94–283, title III, §302, May 11, 1976, 90 Stat. 498; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 110–172, §11(a)(43), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 567; amended Pub. L. 93–53, §6(b), July 1, 1973, 87 Stat. 138; Pub. L. 93–443, title IV, §§403(a), 404(c)(8), Oct. 15, 1974, 88 Stat. 1291, 1292; Pub. L. 94–283, title III, §302, May 11, 1976, 90 Stat. 498; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 110–172, §11(a)(43), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 113–94, §2(b)(1), Apr. 3, 2014, 128 Stat. 1085.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–94 substituted "section 9008(i)(2)," for "section 9008(b)(3),".
 
 <b>2007</b>—Pub. L. 110–172, which directed substitution of "Commission" for "Comptroller General" wherever appearing, could not be executed, because "Comptroller General" did not appear subsequent to amendment by Pub. L. 93–443, §404(c)(8). See 1974 Amendment note below.
 
@@ -42,13 +44,13 @@ Subsec. (d). Pub. L. 93–53 substituted provisions for payments to eligible can
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 
 #### Additional Appropriations to Campaign Fund
 
 Pub. L. 93–443, title IV, §403(b), Oct. 15, 1974, 88 Stat. 1291, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In addition to the amounts appropriated to the Presidential Election Campaign Fund established under section 9006 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to payments to eligible candidates) by the last sentence of subsection (a) of such section (as amended by subsection (a) of this section), there is appropriated to such fund an amount equal to the sum of the amounts designated for payment under section 6096 of such Code (relating to designation by individuals to the Presidential Election Campaign Fund) before January 1, 1975, not otherwise taken into account under the provisions of such section 9006, as amended by this section."
 
-Provision effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
+\[Provision effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.\]
 
 #### Designation to the Presidential Election Campaign Fund
 

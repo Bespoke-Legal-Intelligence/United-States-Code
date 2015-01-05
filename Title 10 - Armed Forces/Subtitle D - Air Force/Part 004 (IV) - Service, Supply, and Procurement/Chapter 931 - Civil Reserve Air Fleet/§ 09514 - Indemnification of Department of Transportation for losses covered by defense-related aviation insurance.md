@@ -40,7 +40,7 @@ Defense-related aviation insurance.—The term "defense-related aviation insuran
 
 &emsp;(2)
 
-Loss.—The term "loss" includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the defense-related aviation insurance.
+Loss.—The term "loss" includes damage to or destruction of property, personal injury or death, and other liabilities and expensescovered by the defense-related aviation insurance.
 
 (Added Pub. L. 104–201, div. A, title X, §1079(a)(1), Sept. 23, 1996, 110 Stat. 2667; amended Pub. L. 108–136, div. A, title X, §1031(a)(60), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 112–81, div. A, title X, §1064(10), Dec. 31, 2011, 125 Stat. 1587.)
 

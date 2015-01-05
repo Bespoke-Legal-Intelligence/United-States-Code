@@ -34,13 +34,13 @@ Education and Experience Requirements.—(1) An officer may not be designated as
 
 &emsp;&emsp;(ii) such other assignments and experiences in a manner that demonstrate the officer's mastery of knowledge, skills, and abilities in joint matters, as determined under such regulations and policy as the Secretary of Defense may prescribe.
 
-(2) Subject to paragraphs (3) through (6), the Secretary of Defense may waive the requirementunder paragraph (1)(A) that an officer has successfully completed a program of education, as described in subsections (b) and (c) of section 2155 of this title.
+(2) Subject to paragraphs (3) through (6), the Secretary of Defense may waive the requirement under paragraph (1)(A) that an officer has successfully completed a program of education, as described in subsections (b) and (c) of section 2155 of this title.
 
 (3) In the case of an officer in a grade below brigadier general or rear admiral (lower half), a waiver under paragraph (2) may be granted only if—
 
 &emsp;(A) the officer has completed two full tours of duty in a joint duty assignment, as described in section 664(f) of this title, in such a manner as to demonstrate the officer's mastery of knowledge, skills, and abilities on joint matters; and
 
-&emsp;(B) the Secretary of Defense determines that the types of joint duty experiences completed by the officer have been of sufficient breadth to prepare the officer adequately for service as a general or flag officer in a joint duty assignment position.
+&emsp;(B) the Secretary of Defense determines that the types of joint duty experiences completedby the officer have been of sufficient breadth to prepare the officer adequately for service as a general or flag officer in a joint duty assignment position.
 
 (4) In the case of a general or flag officer, a waiver under paragraph (2) may be granted only—
 
@@ -106,7 +106,7 @@ Subsec. (f). Pub. L. 109–364, §516(d), substituted "619a" for "619(e)(1)".
 
 Subsec. (c)(3)(E). Pub. L. 107–314, §502(c), substituted "paragraph" for "subparagraph".
 
-<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted "Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—" for "The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—".
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted "Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list aftersuch date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—" for "The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—".
 
 <b>1996</b>—Subsec. (c)(3)(D). Pub. L. 104–106, §501(d)(1), in third sentence, substituted "In the case of officers in grades below brigadier general and rear admiral (lower half), the total number" for "The total number".
 
@@ -178,7 +178,7 @@ Pub. L. 107–314, div. A, title V, §502(a), (b), Dec. 2, 2002, 116 Stat. 2530,
 
 #### Independent Study of Joint Officer Management and Joint Professional Military Education Reforms
 
-Pub. L. 107–107, div. A, title V, §526, Dec. 28, 2001, 115 Stat. 1099, directed the Secretary of Defense to provide for an independent study of the joint officer management system and the joint professional military education system and to require the entity conducting the study to submit a report to Congress on the study not later than one year after Dec. 28, 2001.
+Pub. L. 107–107, div. A, title V, §526, Dec. 28, 2001, 115 Stat. 1099, directed the Secretary of Defense to providefor an independent study of the joint officer management system and the joint professional military education system and to require the entity conducting the study to submit a report to Congress on the study not later than one year after Dec. 28, 2001.
 
 #### Study of Distribution of General and Flag Officer Positions in Joint Duty Assignments
 

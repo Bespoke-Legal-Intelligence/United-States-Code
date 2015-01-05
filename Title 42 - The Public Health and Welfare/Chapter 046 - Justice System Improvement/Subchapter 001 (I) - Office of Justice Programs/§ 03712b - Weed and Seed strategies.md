@@ -26,7 +26,7 @@ The Director shall issue guidelines for the development and implementation of We
 
 &emsp;&emsp;&emsp;(i) appropriate law enforcement agencies; and
 
-&emsp;&emsp;&emsp;(ii) other public and private agencies, and neighborhood and community-based organizations, interested in criminal justice and community-based development and revitalization in the community; and
+&emsp;&emsp;&emsp;(ii) other public and private agencies, and neighborhood and community-basedorganizations, interested in criminal justice and community-based development and revitalization in the community; and
 
 &emsp;&emsp;(B) in a voting capacity, both—
 

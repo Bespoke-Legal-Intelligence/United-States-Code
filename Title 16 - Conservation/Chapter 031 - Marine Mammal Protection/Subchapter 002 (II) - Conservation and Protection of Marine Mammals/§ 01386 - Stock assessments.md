@@ -6,7 +6,7 @@ Not later than August 1, 1994, the Secretary shall, in consultation with the app
 
 &emsp;(1) describe the geographic range of the affected stock, including any seasonal or temporal variation in such range;
 
-&emsp;(2) provide for such stock the minimum population estimate, current and maximum net productivity rates, and current population trend, including a description of the information upon which these are based;
+&emsp;(2) provide for such stock the minimum population estimate, current and maximum netproductivity rates, and current population trend, including a description of the information upon which these are based;
 
 &emsp;(3) estimate the annual human-caused mortality and serious injury of the stock by source and, for a strategic stock, other factors that may be causing a decline or impeding recovery of the stock, including effects on marine mammal habitat and prey;
 

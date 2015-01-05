@@ -44,7 +44,7 @@ delegate, as appropriate, to the Under Secretary for Arms Control and Internatio
 
 #### (i) Rules and regulations
 
-make, promulgate, issue, rescind, and amend such rules and regulations as may be necessaryor desirable to the exercise of any authority conferred upon the Secretary of State by the provisions of this chapter.
+make, promulgate, issue, rescind, and amend such rules and regulations as may be necessary or desirable to the exercise of any authority conferred upon the Secretary of State by the provisions of this chapter.
 
 (Pub. L. 87–297, title IV, §401, formerly §41, Sept. 26, 1961, 75 Stat. 635; Pub. L. 93–332, §1(a), July 8, 1974, 88 Stat. 289; Pub. L. 95–108, §5, Aug. 17, 1977, 91 Stat. 872; Pub. L. 102–228, title IV, §401(b), Dec. 12, 1991, 105 Stat. 1698; Pub. L. 103–236, title VII, §715, Apr. 30, 1994, 108 Stat. 498; renumbered §401 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(13), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
 
@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 105–277, §1223(13)(G), amended subsec. (f) generally. Pr
 
 Subsec. (g). Pub. L. 105–277, §1223(13)(B), (E), (F), redesignated subsec. (h) as (g), substituted "Secretary of State's" for "Director's", and struck out former subsec. (g) which read as follows: "permit, under such terms and conditions as he may prescribe, any officer or employee of the Agency, in connection with the attendance by such officer or employee at meetings or in performing advisory services concerned with the functions or activities of the Agency, to accept payment, in cash or in kind, from any private agency or organization, or from any individual affiliated with such agency or organization, for travel and subsistence expenses, such payment to be retained by such officer or employee to cover the cost thereof or to be deposited to the credit of the appropriation from which the cost thereof is paid;".
 
-Subsec. (h). Pub. L. 105–277, §1223(13)(B), (F), (H), redesignated subsec. (i) as (h) and substituted "Under Secretary for Arms Control and International Security" for "Deputy Director", "Department of State" for "Agency", and "Secretary of State" for "Director". Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 105–277, §1223(13)(B), (F), (H), redesignated subsec. (i) as (h) and substituted "UnderSecretary for Arms Control and International Security" for "Deputy Director", "Department of State" for "Agency", and "Secretary of State" for "Director". Former subsec. (h) redesignated (g).
 
 Subsec. (i). Pub. L. 105–277, §1223(13)(B), (F), redesignated subsec. (j) as (i) and substituted "Secretary of State" for "Director". Former subsec. (i) redesignated (h).
 

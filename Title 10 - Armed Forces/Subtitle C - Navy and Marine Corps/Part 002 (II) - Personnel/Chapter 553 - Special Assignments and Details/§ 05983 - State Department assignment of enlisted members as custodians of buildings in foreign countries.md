@@ -18,6 +18,66 @@ Historical and Revision Notes
 
 Aug. 13, 1946, ch. 957, §562, 60 Stat. 1011.
 
+#### Department of Defense Support to Security of United States Diplomatic Facilities
+
+Pub. L. 113–291, div. A, title XII, §1269, Dec. 19, 2014, 128 Stat. 3586, provided that:
+
+"(a)
+
+Marine Corps Security Guard Program.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall—
+
+&emsp;&emsp;"(A) develop and implement a plan to incorporate the additional Marine Corps Security Guard personnel authorized under section 404 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 10 U.S.C. 5983 note) at United States embassies, consulates, and other facilities;
+
+&emsp;&emsp;"(B) conduct an annual review of the Marine Corps Security Guard Program, including—
+
+&emsp;&emsp;&emsp;"(i) an evaluation of whether the size and composition of the Marine Corps Security Guard Program is adequate to meet global diplomatic security requirements;
+
+&emsp;&emsp;&emsp;"(ii) an assessment of whether Marine Corps security guards are appropriately deployed among facilities to respond to evolving security developments and potential threats to United States diplomatic facilities abroad; and
+
+&emsp;&emsp;&emsp;"(iii) an assessment of the mission objectives of the Marine Corps Security Guard Program and the procedural rules of engagement to protect diplomatic personnel under the Program; and
+
+&emsp;&emsp;"(C) provide an assessment of the effectiveness of Department of Defense-provided Security Augmentation Units utilized during the previous year to improve security at high threat, high risk facilities, including an evaluation of any impediments to the effectiveness of such units.
+
+&emsp;"(2)
+
+Reporting requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense, in consultation with the Secretary of State, shall submit to the appropriate congressional committees an unclassified report, with a classified annex as necessary, that addresses the requirements set forth in paragraph (1).
+
+"(b)
+
+Report on 'New Normal' and General Mission Requirements of United States Africa Command.—
+
+&emsp;"(1)
+
+In general.—Not later than March 1, 2015, the Secretary of Defense, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report on what changes, if any, have been made to the force posture and structure of the United States Africa Command or adjacent combatant commands to respond, if requested, to a diplomatic facility's security requirements (so-called 'new normal' requirements) and general mission of United States Africa Command.
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include the following elements:
+
+&emsp;&emsp;"(A) A detailed description of the 'new normal' requirements in the area of responsibility of the United States Africa Command.
+
+&emsp;&emsp;"(B) A description of any changes required for the United States Africa Command or adjacent combatant commands to meet the 'new normal' and general mission requirements in the United States Africa Command area of responsibility, including the gaps in capability, size, posture, agreements, basing, and enabler support of crisis response forces and associated assets to respond to requests for support from the Secretary of State.
+
+&emsp;&emsp;"(C) A discussion and estimate of the military forces required to support mission requirements of the United States Africa Command and the shortfall, if any, in meeting such requirements.
+
+&emsp;&emsp;"(D) A discussion and estimate of the annual intelligence, surveillance, and reconnaissance requirements of the United States Africa Command and the shortfall, if any, in meeting such requirements.
+
+&emsp;"(3)
+
+Form.—The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+"(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
+
 #### Additional Marine Corps Personnel for the Marine Corps Security Guard Program
 
 Pub. L. 112–239, div. A, title IV, §404, Jan. 2, 2013, 126 Stat. 1708, provided that:
@@ -42,7 +102,7 @@ Consultation.—The Secretary of Defense shall develop and implement the plan re
 
 Supporting Information for Budget Requests.—The material submitted in support of the budget of the President for each fiscal year after fiscal year 2013, as submitted to Congress pursuant to section 1105(a) of title 31, United States Code, shall include the following with regard to the Marine Corps Security Guard Program:
 
-&emsp;"(1) A description of the expanded security support to be provided by Marine Corps Security Guards to the Department of State during that fiscal year, including—
+&emsp;"(1) A description of the expanded security support to be provided by Marine Corps Security Guards tothe Department of State during that fiscal year, including—
 
 &emsp;&emsp;"(A) any increased internal security to be provided at United States embassies, consulates, and other diplomatic facilities;
 

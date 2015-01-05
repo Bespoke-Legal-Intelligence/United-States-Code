@@ -46,7 +46,7 @@ In general.—In this chapter, the term "vessel subject to the jurisdiction of t
 
 &emsp;(2)
 
-Consent or waiver of objection.—Consent or waiver of objection by a foreign nation to the enforcement of United States law by the United States under paragraph (1)(C) or (E)—
+Consent or waiver of objection.—Consent or waiver of objection by a foreign nationto the enforcement of United States law by the United States under paragraph (1)(C) or (E)—
 
 &emsp;&emsp;(A) may be obtained by radio, telephone, or similar oral or electronic means; and
 

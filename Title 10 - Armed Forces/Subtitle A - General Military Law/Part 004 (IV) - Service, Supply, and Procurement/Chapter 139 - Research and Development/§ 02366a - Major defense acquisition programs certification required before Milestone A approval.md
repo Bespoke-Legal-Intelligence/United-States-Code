@@ -148,7 +148,7 @@ Pub. L. 112–81, div. A, title VIII, §801(c), Dec. 31, 2011, 125 Stat. 1483, a
 
 #### Guidance
 
-Pub. L. 112–81, div. A, title VIII, §801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) \[amending this section and section 2366b of this title\], and subsection (c) \[set out above\], in a manner that is consistent across the Department of Defense."
+Pub. L. 112–81, div. A, title VIII, §801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 31,2011\], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) \[amending this section and section 2366b of this title\], and subsection (c) \[set out above\], in a manner that is consistent across the Department of Defense."
 
 #### Application to Ongoing Programs
 

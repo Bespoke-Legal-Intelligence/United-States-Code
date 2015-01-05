@@ -16,7 +16,7 @@ For each type of adjudication to be undertaken by the Director of the Bureau of 
 
 #### (c) Consultation
 
-In carrying out subsection (a) of this section, the Secretary shall consult with the Secretary of State, the Secretary of Labor, the Assistant Secretary of the Bureau of Border Security of the Department, and the Director of the Executive Office for Immigration Review to determine how to streamline and improve the process for applying for and making adjudications described in section 271(b) of this title and related processes.
+In carrying out subsection (a), the Secretary shall consult with the Secretary of State, the Secretary of Labor, the Assistant Secretary of the Bureau of Border Security of the Department, and the Director of the Executive Office for Immigration Review to determine how to streamline and improve the process for applying for and making adjudications described in section 271(b) of this title and related processes.
 
 (Pub. L. 107–296, title IV, §459, Nov. 25, 2002, 116 Stat. 2201.)
 
@@ -26,5 +26,5 @@ The effective date of this chapter, referred to in subsec. (a), is 60 days after
 
 #### Change of Name
 
-Bureau of Border Security, referred to in subsec. (c), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
+Bureau of Border Security, referred to in subsec. (c), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H.Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 

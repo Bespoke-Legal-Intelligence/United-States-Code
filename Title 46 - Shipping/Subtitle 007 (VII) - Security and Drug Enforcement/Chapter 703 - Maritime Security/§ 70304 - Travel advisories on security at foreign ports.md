@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—On being notified by the Secretary that the Secretary has determined that a condition exists that threatens the safety or security of passengers, passenger vessels, or crew traveling to or from a foreign port that the Secretary has determined under section 70303(b) of this title does not maintain and administer effective security measures, the Secretary of State immediately shall issue a travel advisory for that port. The Secretary of State shall take the necessary steps to widely publicize the travel advisory.
+General Requirements.—On being notified by the Secretary that the Secretary has determined that a condition exists that threatensthe safety or security of passengers, passenger vessels, or crew traveling to or from a foreign port that the Secretary has determined under section 70303(b) of this title does not maintain and administer effective security measures, the Secretary of State immediately shall issue a travel advisory for that port. The Secretary of State shall take the necessary steps to widely publicize the travel advisory.
 
 (b)
 
@@ -10,7 +10,7 @@ Lifting Advisories.—A travel advisory issued under subsection (a) may be lifte
 
 (c)
 
-Notice to Congress.—The Secretary of State shall notify Congress immediately of anychange in the status of a travel advisory issued under this section.
+Notice to Congress.—The Secretary of State shall notify Congress immediately of any change in the status of a travel advisory issued under this section.
 
 (Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1684.)
 

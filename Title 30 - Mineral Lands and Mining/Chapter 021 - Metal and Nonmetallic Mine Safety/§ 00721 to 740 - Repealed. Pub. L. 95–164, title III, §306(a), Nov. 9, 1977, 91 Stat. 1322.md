@@ -32,7 +32,7 @@ Section 734, Pub. L. 89–577, §15, Sept. 16, 1966, 80 Stat. 782, related to pr
 
 Section 735, Pub. L. 89–577, §16, Sept. 16, 1966, 80 Stat. 782, related to State plans and cooperation with State agencies. See section 811 of this title.
 
-Section 736, Pub. L. 89–577, §17, Sept. 16, 1966, 80 Stat. 783, related to administration of chapter by Bureau ofMines of Department of the Interior. See section 557a of Title 29, Labor.
+Section 736, Pub. L. 89–577, §17, Sept. 16, 1966, 80 Stat. 783, related to administration of chapter by Bureau of Mines of Department of the Interior. See section 557a of Title 29, Labor.
 
 Section 737, Pub. L. 89–577, §18, Sept. 16, 1966, 80 Stat. 784, related to non-applicability of Administrative Procedure Act to proceedings under chapter. See section 815 of this title.
 

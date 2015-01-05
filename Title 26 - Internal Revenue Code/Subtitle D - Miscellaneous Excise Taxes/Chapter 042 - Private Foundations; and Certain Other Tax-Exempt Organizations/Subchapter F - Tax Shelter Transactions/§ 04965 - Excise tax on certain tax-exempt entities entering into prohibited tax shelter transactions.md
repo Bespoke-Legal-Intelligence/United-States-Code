@@ -50,7 +50,7 @@
 
 #### (2) Entity manager
 
-&emsp;In the case of each entity manager, the amount of the tax imposed under subsection (a)(2) shall be $20,000 for each approval (or other act causing participation) described in subsection (a)(2).
+&emsp;In the case of each entity manager, the amount of the tax imposed under subsection (a)(2) shall be $20,000 for each approval (orother act causing participation) described in subsection (a)(2).
 
 #### (c) Tax-exempt entity
 
@@ -66,9 +66,11 @@ For purposes of this section, the term "tax-exempt entity" means an entity which
 
 &emsp;(5) a program described in section 529,
 
-&emsp;(6) an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A), or
+&emsp;(6) an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A),
 
-&emsp;(7) an arrangement described in section 4973(a).
+&emsp;(7) an arrangement described in section 4973(a), or
+
+&emsp;(8) a program described in section 529A.
 
 #### (d) Entity manager
 
@@ -116,7 +118,7 @@ The Secretary is authorized to promulgate regulations which provide guidance reg
 
 The tax imposed by this section is in addition to any other tax, addition to tax, or penalty imposed under this title.
 
-(Added Pub. L. 109–222, title V, §516(a)(1), May 17, 2006, 120 Stat. 368; amended Pub. L. 110–172, §11(a)(30), Dec. 29, 2007, 121 Stat. 2487.)
+(Added Pub. L. 109–222, title V, §516(a)(1), May 17, 2006, 120 Stat. 368; amended Pub. L. 110–172, §11(a)(30), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. B, title I, §102(e)(3), Dec. 19, 2014, 128 Stat. 4062.)
 
 #### References in Text
 
@@ -124,7 +126,13 @@ The date of the enactment of this section, referred to in subsecs. (b)(1)(B) and
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(8). Pub. L. 113–295 added par. (8).
+
 <b>2007</b>—Subsec. (c)(6). Pub. L. 110–172 substituted "section 457(e)(1)(A)" for "section 4457(e)(1)(A)".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@
 
 (c) A district court may order any civil action to be tried at any place within the division in which it is pending.
 
-(d) Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the Virgin Islands shall not be permitted under this section. As otherwise used in this section, the term "district court" includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands, and the term "district" includes the territorial jurisdiction of each such court.
+(d) Transfers from a district court of the United States to the District Court of Guam, theDistrict Court for the Northern Mariana Islands, or the District Court of the Virgin Islands shall not be permitted under this section. As otherwise used in this section, the term "district court" includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands, and the term "district" includes the territorial jurisdiction of each such court.
 
 (June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 87–845, §9, Oct. 18, 1962, 76A Stat. 699; Pub. L. 104–317, title VI, §610(a), Oct. 19, 1996, 110 Stat. 3860; Pub. L. 112–63, title II, §204, Dec. 7, 2011, 125 Stat. 764.)
 

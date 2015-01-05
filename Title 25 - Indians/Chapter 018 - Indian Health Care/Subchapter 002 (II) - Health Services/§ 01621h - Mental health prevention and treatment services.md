@@ -132,7 +132,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (h) Mental health research
 
-The Secretary, acting through the Service and in consultation with the National Institute of Mental Health, shall enter into contracts with, or make grants to, appropriate institutions for the conduct of research on the incidence and prevalence of mental disorders among Indianson Indian reservations and in urban areas. Research priorities under this subsection shall include—
+The Secretary, acting through the Service and in consultation with the National Institute of Mental Health, shall enter into contracts with, or make grants to, appropriate institutions for the conduct of research on the incidence and prevalence of mental disorders among Indians on Indian reservations and in urban areas. Research priorities under this subsection shall include—
 
 &emsp;(1) the inter-relationship and inter-dependence of mental disorders with alcoholism, suicide, homicides, accidents, and the incidence of family violence, and
 
@@ -220,7 +220,7 @@ The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, ref
 
 This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(3)(A), is Pub. L.93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -268,7 +268,7 @@ Pub. L. 101–630, title V, §503(a), Nov. 28, 1990, 104 Stat. 4556, provided th
 
 &emsp;"(3) assist Indian tribes to identify services and resources available to address mental illness and dysfunctional and self-destructive behavior;
 
-&emsp;"(4) provide authority and opportunities for Indian tribes to develop and implement, and coordinatewith, community-based mental health programs which include identification, prevention, education, referral, and treatment services, including through multidisciplinary resource teams;
+&emsp;"(4) provide authority and opportunities for Indian tribes to develop and implement, and coordinate with, community-based mental health programs which include identification, prevention, education, referral, and treatment services, including through multidisciplinary resource teams;
 
 &emsp;"(5) ensure that Indians, as citizens of the United States and of the States in which they reside, have the same access to mental health services to which all such citizens have access; and
 

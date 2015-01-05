@@ -72,7 +72,7 @@ Unless exempted by the Commission pursuant to subsection (c) or by subsection (e
 
 #### (c) Public interest exemptions
 
-(1) In order to promote responsible economic or financial innovation and fair competition, the Commission by rule, regulation, or order, after notice and opportunity for hearing, may (on its own initiative or on application of any person, including any board of trade designated or registered as a contract market or derivatives transaction execution facility for transactions for future delivery in any commodity under section 7 of this title) exempt any agreement, contract, or transaction (or class thereof) that is otherwise subject to subsection (a) of this section (including any person or class of persons offering, entering into, rendering advice or rendering other services with respect to, the agreement, contract, or transaction), either unconditionally or on stated terms or conditions or for stated periods and either retroactively or prospectively, or both, from any of the requirements of subsection (a) of this section, or from any other provision of this chapter (except subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title, <sup>2</sup> except that—
+(1) In order to promote responsible economic or financial innovation and fair competition, the Commission by rule, regulation, or order, after notice and opportunity for hearing, may (on its own initiative or on application of any person, including any board of trade designated or registered as a contract market or derivatives transaction execution facility for transactions for future delivery in any commodity under section 7 of this title) exempt any agreement, contract, or transaction (or class thereof) that is otherwise subject to subsection (a) (including any person or class of persons offering, entering into, rendering advice or rendering other services with respect to, the agreement, contract, ortransaction), either unconditionally or on stated terms or conditions or for stated periods and either retroactively or prospectively, or both, from any of the requirements of subsection (a), or from any other provision of this chapter (except subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title, <sup>2</sup> except that—
 
 &emsp;(A) unless the Commission is expressly authorized by any provision described in this subparagraph to grant exemptions, with respect to amendments made by subtitle A of the Wall Street Transparency and Accountability Act of 2010—
 
@@ -86,7 +86,7 @@ Unless exempted by the Commission pursuant to subsection (c) or by subsection (e
 
 &emsp;(B) the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title) <sup>6</sup> if the Commissions determine that the exemption would be consistent with the public interest.
 
-(2) The Commission shall not grant any exemption under paragraph (1) from any of the requirements of subsection (a) of this section unless the Commission determines that—
+(2) The Commission shall not grant any exemption under paragraph (1) from any of the requirements of subsection (a) unless the Commission determines that—
 
 &emsp;(A) the requirement should not be applied to the agreement, contract, or transaction for which the exemption is sought and that the exemption would be consistent with the public interest and the purposes of this chapter; and
 
@@ -130,7 +130,7 @@ Unless exempted by the Commission pursuant to subsection (c) or by subsection (e
 
 &emsp;(A) promptly following October 28, 1992, or upon application by any person, exercise the exemptive authority granted under paragraph (1) with respect to classes of hybrid instruments that are predominantly securities or depository instruments, to the extent that such instruments may be regarded as subject to the provisions of this chapter; or
 
-&emsp;(B) promptly following October 28, 1992, or upon application by any person, exercise theexemptive authority granted under paragraph (1) effective as of October 23, 1974, with respect to classes of swap agreements (as defined in section 101 of title 11) that are not part of a fungible class of agreements that are standardized as to their material economic terms, to the extent that such agreements may be regarded as subject to the provisions of this chapter.
+&emsp;(B) promptly following October 28, 1992, or upon application by any person, exercise the exemptive authority granted under paragraph\(1) effective as of October 23, 1974, with respect to classes of swap agreements (as defined in section 101 of title 11) that are not part of a fungible class of agreements that are standardized as to their material economic terms, to the extent that such agreements may be regarded as subject to the provisions of this chapter.
 
 > Any exemption pursuant to this paragraph shall be subject to such terms and conditions as the Commission shall determine to be appropriate pursuant to paragraph (1).
 
@@ -186,7 +186,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act Ju
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §738(b)(1), inserted "or by subsection (e)" after "Unless exempted by the Commission pursuant to subsection (c)" in introductory provisions.
 
-Subsec. (b). Pub. L. 111–203, §738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted "Rules and regulations described in subparagraph (A)" for "Such rules and regulations", in the introductory provisions of subpar. (C), substituted "Except as provided in paragraphs (1) and (2), no rule orregulation" for "No rule or regulation" and "that—" for "that", and, in subpar. (C)(i), substituted "market; or" for "market, or".
+Subsec. (b). Pub. L. 111–203, §738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted "Rules and regulations described in subparagraph (A)" for "Such rules and regulations", in the introductory provisions of subpar. (C), substituted "Except as provided in paragraphs (1) and (2), no rule or regulation" for "No rule or regulation" and "that—" for "that", and, in subpar. (C)(i), substituted "market; or" for "market, or".
 
 Subsec. (b)(1). Pub. L. 111–203, §738(a)(4), added par. (1).
 

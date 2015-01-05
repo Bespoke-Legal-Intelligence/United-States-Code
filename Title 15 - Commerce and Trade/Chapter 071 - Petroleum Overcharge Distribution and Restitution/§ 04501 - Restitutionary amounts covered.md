@@ -22,7 +22,7 @@ Subsection (a)(2) of this section does not apply to—
 
 &emsp;(1) any amount actually disbursed before October 21, 1986, to any person or class of persons pursuant to section 155 of Public Law 97–377 or any final judicial or administrative order or judgment (including any settlement agreement or declaratory judgment);
 
-&emsp;(2) any amount to which any person or class of persons has an enforceable right, created orvested, or governed by the terms and conditions of the settlement approved on July 7, 1986, in In Re: the Department of Energy Stripper Well Exemption Litigation, M.D.L. No. 378, in the United States District Court for the District of Kansas; and
+&emsp;(2) any amount to which any person or class of persons has an enforceable right, created or vested, or governed by the terms and conditions of the settlement approved on July 7, 1986, in In Re: the Department of Energy Stripper Well Exemption Litigation, M.D.L. No. 378, in the United States District Court for the District of Kansas; and
 
 &emsp;(3) any amount designated by judicial or administrative order or judgment (including any settlement agreement or declaratory judgment) for disbursement at any time to any specific person or class of persons—
 
@@ -42,7 +42,7 @@ Consistent with the disbursement requirements of this chapter, the Secretary of 
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title,which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 

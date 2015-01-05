@@ -14,7 +14,7 @@ A manufacturer of a drug—
 
 &emsp;(2) that is not a radio pharmaceutical drug product or any other product as designated by the Secretary,
 
-> shall notify the Secretary, in accordance with subsection (b), of a permanent discontinuance inthe manufacture of the drug or an interruption of the manufacture of the drug that is likely to lead to a meaningful disruption in the supply of that drug in the United States, and the reasons for such discontinuance or interruption.
+> shall notify the Secretary, in accordance with subsection (b), of a permanent discontinuance in the manufacture of the drug or an interruption of the manufacture of the drug that is likely to lead to a meaningful disruption in the supply of that drug in the United States, and the reasons for such discontinuance or interruption.
 
 #### (b) Timing
 
@@ -154,7 +154,7 @@ The Food and Drug Administration (FDA) in the Department of Health and Human Ser
 
 Many different factors contribute to drug shortages, and solving this critical public health problem will require a multifaceted approach. An important factor in many of the recent shortages appears to be an increase in demand that exceeds current manufacturing capacity. While manufacturers are in the process of expanding capacity, one important step is ensuring that the FDA and the public receive adequate advance notice of shortages whenever possible. The FDA cannot begin to work with manufacturers or use the other tools at its disposal until it knows there is a potential problem. Similarly, early disclosure of a shortage can help hospitals, doctors, and patients make alternative arrangements before a shortage becomes a crisis. However, drug manufacturers have not consistently provided the FDA with adequate notice of potential shortages.
 
-As part of my Administration's broader effort to work with manufacturers, health care providers, andother stakeholders to prevent drug shortages, this order directs the FDA to take steps that will help to prevent and reduce current and future disruptions in the supply of lifesaving medicines.
+As part of my Administration's broader effort to work with manufacturers, health care providers, and other stakeholders to prevent drug shortages, this order directs the FDA to take steps that will help to prevent and reduce current and future disruptions in the supply of lifesaving medicines.
 
 Sec. 2. <i>Broader Reporting of Manufacturing Discontinuances</i>. To the extent permitted by law, the FDA shall use all appropriate administrative tools, including its authority to interpret and administer the reporting requirements in 21 U.S.C. 356c, to require drug manufacturers to provide adequate advance notice of manufacturing discontinuances that could lead to shortages of drugs that are life-supporting or life-sustaining, or that prevent debilitating disease.
 

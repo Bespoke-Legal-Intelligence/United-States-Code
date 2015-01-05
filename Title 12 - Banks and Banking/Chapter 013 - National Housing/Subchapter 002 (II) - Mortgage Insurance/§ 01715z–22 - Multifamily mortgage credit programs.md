@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (B) Mortgage insurance and reinsurance
 
-&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
+&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance throughthe Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
 
 #### (C) Risk apportionment
 
@@ -130,7 +130,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (E) Underwriting standards
 
-&emsp;&emsp;The Secretary shall allow any qualified housing finance agency to use its own underwriting standards and loan terms and conditions for purposes of underwriting loans to be insured under this subsection without further review by the Secretary, except that the Secretary may impose additional underwriting criteria and loan terms and conditions for contractual agreements where the Secretary retains more than 50 percent of the risk of loss.
+&emsp;&emsp;The Secretary shall allow any qualified housing finance agency to use its own underwriting standards and loan terms and conditions for purposes of underwriting loans to be insured under this subsection without further review by the Secretary, except thatthe Secretary may impose additional underwriting criteria and loan terms and conditions for contractual agreements where the Secretary retains more than 50 percent of the risk of loss.
 
 #### (F) Disclosure of records
 
@@ -166,7 +166,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;(I) In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2) of this section, and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) of this section upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
+&emsp;&emsp;&emsp;(I) In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2), and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
 
 &emsp;&emsp;&emsp;(II) The Secretary shall issue regulations to carry out this subparagraph only after consultation with the Council on Environmental Quality. Such regulations shall, among other matters, provide—
 
@@ -188,7 +188,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 &emsp;&emsp;&emsp;&emsp;(I) be in a form acceptable to the Secretary;
 
-&emsp;&emsp;&emsp;&emsp;(II) be executed by the chief executive officer or other officer of the State or unit of general local government who qualifies under regulations of the Secretary;
+&emsp;&emsp;&emsp;&emsp;(II) be executed by the chief executive officer or other officer of the State orunit of general local government who qualifies under regulations of the Secretary;
 
 &emsp;&emsp;&emsp;&emsp;(III) specify that the State or unit of general local government under this section has fully carried out its responsibilities as described under clause (i); and
 

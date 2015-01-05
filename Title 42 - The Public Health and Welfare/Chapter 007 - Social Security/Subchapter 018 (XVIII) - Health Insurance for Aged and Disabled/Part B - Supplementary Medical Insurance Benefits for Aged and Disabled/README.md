@@ -9,6 +9,7 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled
 - [&sect; 01395k - Scope of benefits; definitions](%C2%A7%2001395k%20-%20Scope%20of%20benefits%3B%20definitions.md)
 - [&sect; 01395l - Payment of benefits](%C2%A7%2001395l%20-%20Payment%20of%20benefits.md)
 - [&sect; 01395m - Special payment rules for particular items and services](%C2%A7%2001395m%20-%20Special%20payment%20rules%20for%20particular%20items%20and%20services.md)
+- [&sect; 01395m&#8211;1 - Improving policies for clinical diagnostic laboratory tests](%C2%A7%2001395m%E2%80%931%20-%20Improving%20policies%20for%20clinical%20diagnostic%20laboratory%20tests.md)
 - [&sect; 01395n - Procedure for payment of claims of providers of services](%C2%A7%2001395n%20-%20Procedure%20for%20payment%20of%20claims%20of%20providers%20of%20services.md)
 - [&sect; 01395o - Eligible individuals](%C2%A7%2001395o%20-%20Eligible%20individuals.md)
 - [&sect; 01395p - Enrollment periods](%C2%A7%2001395p%20-%20Enrollment%20periods.md)

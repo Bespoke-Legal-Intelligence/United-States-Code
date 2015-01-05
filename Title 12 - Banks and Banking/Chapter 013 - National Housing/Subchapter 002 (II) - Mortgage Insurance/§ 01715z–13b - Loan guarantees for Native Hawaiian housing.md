@@ -18,7 +18,7 @@ In this section:
 
 #### (4) Guarantee Fund
 
-&emsp;The term "Guarantee Fund" means the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j) of this section.
+&emsp;The term "Guarantee Fund" means the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j).
 
 #### (5) Hawaiian Home Lands
 
@@ -48,7 +48,7 @@ In this section:
 
 #### (b) Authority
 
-To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan under subsection (c) of this section.
+To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan under subsection (c).
 
 #### (c) Eligible loans
 
@@ -108,7 +108,7 @@ Under this section, a loan is an eligible loan if that loan meets the following 
 
 &emsp;&emsp;(A) be made for a term not exceeding 30 years;
 
-&emsp;&emsp;(B) bear interest (exclusive of the guarantee fee under subsection (e) of this section and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, but not to exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
+&emsp;&emsp;(B) bear interest (exclusive of the guarantee fee under subsection (e) and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, but not to exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
 
 &emsp;&emsp;(C) involve a principal obligation not exceeding—
 
@@ -176,7 +176,7 @@ Under this section, a loan is an eligible loan if that loan meets the following 
 
 #### (3) Deposit
 
-&emsp;The Secretary shall deposit any fees collected under this subsection in the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j) of this section.
+&emsp;The Secretary shall deposit any fees collected under this subsection in the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j).
 
 #### (f) Liability under guarantee
 
@@ -192,7 +192,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) Grounds for action
 
-&emsp;&emsp;The Secretary may take action under subparagraph (B) if the Secretary determines that any lender or holder of a guarantee certificate under subsection (d) of this section—
+&emsp;&emsp;The Secretary may take action under subparagraph (B) if the Secretary determines that any lender or holder of a guarantee certificate under subsection (d)—
 
 &emsp;&emsp;&emsp;(i) has failed—
 
@@ -206,7 +206,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (B) Actions
 
-&emsp;&emsp;Upon a determination by the Secretary that a holder of a guarantee certificate under subsection (d) of this section has failed to carry out an activity described in subparagraph (A)(i) or has engaged in practices described in subparagraph (A)(ii), the Secretary may—
+&emsp;&emsp;Upon a determination by the Secretary that a holder of a guarantee certificate under subsection (d) has failed to carry out an activity described in subparagraph (A)(i) or has engaged in practices described in subparagraph (A)(ii), the Secretary may—
 
 &emsp;&emsp;&emsp;(i) refuse, either temporarily or permanently, to guarantee any further loans made by such lender or holder;
 
@@ -218,7 +218,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may impose a civil monetary penalty on a lender or holder of a guarantee certificate under subsection (d) of this section if the Secretary determines that the holder or lender has intentionally failed—
+&emsp;&emsp;The Secretary may impose a civil monetary penalty on a lender or holder of a guarantee certificate under subsection (d) if the Secretary determines that the holder or lender has intentionally failed—
 
 &emsp;&emsp;&emsp;(i) to maintain adequate accounting records;
 
@@ -256,7 +256,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (bb) Payment
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (f) of this section) plus reasonable fees and expenses as approved by the Secretary.
+&emsp;&emsp;&emsp;&emsp;&emsp;Upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (f)) plus reasonable fees and expenses as approved by the Secretary.
 
 #### (cc) Subrogation
 
@@ -266,11 +266,11 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
+&emsp;&emsp;&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee.The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
 
 #### (bb) Payment
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (f) of this section).
+&emsp;&emsp;&emsp;&emsp;&emsp;Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (f)).
 
 #### (cc) Subrogation
 
@@ -304,7 +304,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;(B) any amounts appropriated pursuant to paragraph (7);
 
-&emsp;&emsp;(C) any guarantee fees collected under subsection (e) of this section; and
+&emsp;&emsp;(C) any guarantee fees collected under subsection (e); and
 
 &emsp;&emsp;(D) any interest or earnings on amounts invested under paragraph (4).
 
@@ -376,7 +376,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;&emsp;(iv) contain an electrical system using wiring and equipment properly installed to safely supply electrical energy for adequate lighting and for operation of appliances that conforms to any appropriate county, State, or national code;
 
-&emsp;&emsp;&emsp;(v) be not less than the size provided under the applicable locally adopted standards for size of dwelling units, except thatthe Secretary, upon request of the Department of Hawaiian Home Lands may waive the size requirements under this paragraph; and
+&emsp;&emsp;&emsp;(v) be not less than the size provided under the applicable locally adopted standards for size of dwelling units, except that the Secretary, upon request of the Department of Hawaiian Home Lands may waive the size requirements under this paragraph; and
 
 &emsp;&emsp;&emsp;(vi) conform with the energy performance requirements for new construction established by the Secretary under section 526(a) of the National Housing Act \[12 U.S.C. 1735f–4(a)\], unless the Secretary determines that the requirements are not applicable.
 

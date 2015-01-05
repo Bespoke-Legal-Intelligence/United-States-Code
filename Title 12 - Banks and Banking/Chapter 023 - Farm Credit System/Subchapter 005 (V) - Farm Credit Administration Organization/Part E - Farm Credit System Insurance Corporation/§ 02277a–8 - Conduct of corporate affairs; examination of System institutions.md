@@ -20,7 +20,7 @@
 
 #### (5) Use of Farm Credit Administration personnel
 
-&emsp;To the extent practicable, the Corporation shall use the personnel and resources of the Farm Credit Administration to minimize duplication of effort and to reduce costs.
+&emsp;To the extent practicable, the Corporation shall use the personnel and resources of theFarm Credit Administration to minimize duplication of effort and to reduce costs.
 
 #### (b) Examination of System institutions
 

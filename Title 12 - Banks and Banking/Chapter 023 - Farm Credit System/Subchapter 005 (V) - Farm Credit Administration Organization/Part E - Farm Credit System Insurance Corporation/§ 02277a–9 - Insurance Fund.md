@@ -8,7 +8,7 @@ There is hereby established a Farm Credit Insurance Fund (hereinafter referred t
 
 #### (1) Revolving fund
 
-&emsp;All amounts in the revolving fund established by section 2151 of this title shall be transferred into the Farm Credit Insurance Fund on January 1, 1989, or 12 months after January 6, 1988, whichever is later, except that the obligations to, and rights of, any person in such revolving fund arising out of any event or transaction before January 6, 1988, shall remain unimpaired.
+&emsp;All amounts in the revolving fund established by section 2151 of this title shall be transferred into the Farm Credit Insurance Fund on January 1, 1989, or 12 months after January 6, 1988, whichever is later, except thatthe obligations to, and rights of, any person in such revolving fund arising out of any event or transaction before January 6, 1988, shall remain unimpaired.
 
 #### (2) Deposit of premiums
 

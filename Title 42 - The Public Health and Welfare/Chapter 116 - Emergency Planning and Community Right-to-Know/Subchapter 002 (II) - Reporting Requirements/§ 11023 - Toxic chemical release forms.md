@@ -112,7 +112,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Revisions
 
-&emsp;The Administrator may establish a threshold amount for a toxic chemical different fromthe amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
+&emsp;The Administrator may establish a threshold amount for a toxic chemical different from the amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
 
 #### (g) Form
 
@@ -184,7 +184,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (5) Notification to Congress
 
-&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for a modification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
+&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for a modification under this subsection. After suchnotification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
 
 #### (6) Judicial review
 
@@ -242,7 +242,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (4) Mass balance definition
 
-&emsp;For purposes of this subsection, the term "mass balance" means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed ata facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
+&emsp;For purposes of this subsection, the term "mass balance" means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
 
 (Pub. L. 99–499, title III, §313, Oct. 17, 1986, 100 Stat. 1741.)
 

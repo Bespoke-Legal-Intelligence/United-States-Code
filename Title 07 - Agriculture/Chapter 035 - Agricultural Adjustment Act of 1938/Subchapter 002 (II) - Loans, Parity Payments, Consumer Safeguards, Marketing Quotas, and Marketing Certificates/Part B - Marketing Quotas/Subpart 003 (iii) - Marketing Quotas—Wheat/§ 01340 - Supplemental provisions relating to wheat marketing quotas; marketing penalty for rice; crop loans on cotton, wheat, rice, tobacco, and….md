@@ -12,7 +12,7 @@ Notwithstanding the other provisions of this chapter—
 
 &emsp;(5) The penalty upon wheat stored shall be paid by the producer at the time, and to the extent, of any depletion in the amount of the commodity so stored, except depletion resulting from some cause beyond the control of the producer.
 
-&emsp;(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotmentexceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
+&emsp;(6) Whenever the planted acreage of the then current crop of wheat on any farm is less thanthe farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotment exceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
 
 &emsp;(7) Until the farm marketing excess of wheat is stored or delivered to the Secretary or the penalty thereon is paid, each bushel of the commodity produced on the farm which is sold by the producer to any person within the United States shall be subject to the penalty as specified in paragraph (2) of this section. Such penalty shall be paid by the buyer, who may deduct an amount equivalent to the penalty from the price paid to the producer. If the buyer fails to collect such penalty, such buyer and all persons entitled to share in the wheat marketed from the farm or the proceeds thereof shall be jointly and severally liable for such penalty.
 
@@ -56,7 +56,7 @@ Par. (4). Pub. L. 87–703, §319(4), inserted "and any subsequent crop of wheat
 
 Pars. (5), (6). Pub. L. 87–703, §319(5), (6), struck out reference to corn. Act Aug. 28, 1954, had made section inapplicable to corn.
 
-Par. (7). Pub. L. 87–703, §319(7), (8), redesignated par. (8) as (7), and inserted provision for joint and several liability for penalty and struck out reference to corn, respectively. Act Aug. 28, 1954, had made section inapplicable to corn. Provisions of former par. (7), which provided a 15-acre exemption but provided for a farm marketing quota on 1962 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 13.5 acres, or (2) of the highest number of acres actually planted to, wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961 and provisions of former par. (7), added by Pub. L. 87–703, §309, which provided for a farm marketing quota on 1963 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 15 acres, or (2) the highest number of acres actually planted to wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961, or 1963 (provided by Pub. L. 87–801), were repealed by such section 319(7) and are covered by section 1335 of this title.
+Par. (7). Pub. L. 87–703, §319(7), (8), redesignated par. (8) as (7), and inserted provision for joint and several liability for penalty and struck out reference to corn, respectively. Act Aug. 28, 1954, had made section inapplicable to corn. Provisions of former par. (7), which provided a 15-acre exemption but provided for a farm marketing quota on 1962 crop of wheat to any farm on which the acreage of wheat exceeded the smaller of (1) 13.5 acres, or (2) of the highest number of acres actually planted to, wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961 and provisions of former par. (7), added by Pub. L. 87–703, §309, which provided for a farm marketing quota on 1963 crop of wheat to any farm on which the acreage of wheat exceededthe smaller of (1) 15 acres, or (2) the highest number of acres actually planted to wheat on the farm for harvest in any of the calendar years 1959, 1960, or 1961, or 1963 (provided by Pub. L. 87–801), were repealed by such section 319(7) and are covered by section 1335 of this title.
 
 Pars. (8) to (10). Pub. L. 87–703, §319(7), redesignated pars. (9) to (11) as (8) to (10). Former par. (8) redesignated (7).
 
@@ -93,6 +93,10 @@ Administration of program of Commodity Credit Corporation transferred to Secreta
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to crops of wheat planted for harvest in calendar years 2014 through 2018, see section 9092(c) of this title.
+
+Section inapplicable to crops of wheat planted for harvest in calendar years 2008 through 2012, see section 8782(c) of this title.
 
 Section inapplicable to crops of wheat planted for harvest in calendar years 2002 through 2007, see section 7992(c) of this title.
 

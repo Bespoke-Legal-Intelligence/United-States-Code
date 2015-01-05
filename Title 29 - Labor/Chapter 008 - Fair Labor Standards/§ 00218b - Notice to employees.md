@@ -24,5 +24,5 @@ Subsection (a) shall take effect with respect to employers in a State beginning 
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, theprovisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of Title 26, Internal Revenue Code.
 

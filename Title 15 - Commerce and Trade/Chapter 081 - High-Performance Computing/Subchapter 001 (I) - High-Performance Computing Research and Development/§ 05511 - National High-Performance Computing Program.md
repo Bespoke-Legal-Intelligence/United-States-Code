@@ -18,7 +18,7 @@
 
 &emsp;(G) provide for the technical support of, and research and development on, high-performance computing systems and software required to address Grand Challenges;
 
-&emsp;(H) provide for educating and training additional undergraduate and graduate students insoftware engineering, computer science, computer and network security, applied mathematics, library and information science, and computational science; and
+&emsp;(H) provide for educating and training additional undergraduate and graduate students in software engineering, computer science, computer and network security, applied mathematics, library and information science, and computational science; and
 
 &emsp;(I) provide for improving the security of computing and networking systems, including Federal systems, including providing for research required to establish security standards and practices for these systems.
 
@@ -96,7 +96,7 @@
 
 &emsp;(B) states the portion of its request for appropriations that is allocated to each such element.
 
-(2) The Office of Management and Budget shall review each such report in light of the goals,priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(2)(D) of this section, and shall include, in the President's annual budget estimate, a statement of the portion of each appropriate agency's or department's annual budget estimate relating to its activities undertaken pursuant to the Program.
+(2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(2)(D) of this section, and shall include, in the President's annual budget estimate, a statement of the portion of each appropriate agency's or department's annual budget estimate relating to its activities undertaken pursuant to the Program.
 
 (Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, §4, Oct. 28, 1998, 112 Stat. 2921; Pub. L. 110–69, title VII, §7024(a)(1)(B)–(D), Aug. 9, 2007, 121 Stat. 686–689.)
 
@@ -162,7 +162,7 @@ Ex. Ord. No. 13035, Feb. 11, 1997, 62 F.R. 7131, as amended by Ex. Ord. No. 1309
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the High-Performance Computing Act of 1991 (Public Law 102–194) ("Act") \[15 U.S.C. 5501 et seq.\], as amended by the Next Generation Internet Research Act of 1998 (Public Law 105–305) ("Research Act") \[see Short Title of 1998 Amendment note set out under section 5501 of this title\], and in order to establish an advisory committee on high-performance computing and communications, Information Technology \[sic\], and the Next Generation Internet, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the "President's Information Technology Advisory Committee" ("Committee"). The Committee shall consist of not more than 30 nonfederal members appointed by the President, including representatives of the research, education, and library communities, network providers, and representatives from critical industries. Members appointed prior to June 1, 2001, shall serve until December 1, 2001, unless reappointed by the President. Members appointed or reappointed on or after June 1, 2001, shall serve for no more than 2 years from the date of their appointment, unless their period of service is extended by the President. The President shall designate two co-chairs from among the members of the Committee. A co-chair may serve for a term of2 years or until the end of his or her service as a member of the Committee, whichever is the shorter period.
+Section 1. <i>Establishment</i>. There is established the "President's Information Technology Advisory Committee" ("Committee"). The Committee shall consist of not more than 30 nonfederal members appointed by the President, including representatives of the research, education, and library communities, network providers, and representatives from critical industries. Members appointed prior to June 1, 2001, shall serve until December 1, 2001, unless reappointed by the President. Members appointed or reappointed on or after June 1, 2001, shall serve for no more than 2 years from the date of their appointment, unless their period of service is extended by the President. The President shall designate two co-chairs from among the members of the Committee. A co-chair may serve for a term of 2 years or until the end of his or her service as a member of the Committee, whichever is the shorter period.
 
 Sec. 2. <i>Functions</i>. (a) The Committee shall provide the National Science and Technology Council (NSTC), through the Director of the Office of Science and Technology Policy ("Director"), with advice and information on high-performance computing and communications, information technology, and the Next Generation Internet. The Committee shall provide an independent assessment of:
 

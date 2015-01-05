@@ -38,7 +38,7 @@ Postmarket studies and clinical trials; labeling; risk evaluation and mitigation
 
 #### (b) Falsely labeling or marking package or container; altering label or mark
 
-No person shall falsely label or mark any package or container of any biological product or alter any label or mark on the package orcontainer of the biological product so as to falsify the label or mark.
+No person shall falsely label or mark any package or container of any biological product or alter any label or mark on the package or container of the biological product so as to falsify the label or mark.
 
 #### (c) Inspection of establishment for propagation and preparation
 
@@ -60,7 +60,7 @@ Any person who shall violate, or aid or abet in violating, any of the provisions
 
 #### (g) Construction with other laws
 
-Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of theFederal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
 #### (h) Exportation of partially processed biological products
 
@@ -180,7 +180,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (6) Exclusivity for first interchangeable biological product
 
-&emsp;Upon review of an application submitted under this subsection relying on the same reference product for which a prior biologicalproduct has received a determination of interchangeability for any condition of use, the Secretary shall not make a determination under paragraph (4) that the second or subsequent biological product is interchangeable for any condition of use until the earlier of—
+&emsp;Upon review of an application submitted under this subsection relying on the same reference product for which a prior biological product has received a determination of interchangeability for any condition of use, the Secretary shall not make a determination under paragraph (4) that the second or subsequent biological product is interchangeable for any condition of use until the earlier of—
 
 &emsp;&emsp;(A) 1 year after the first commercial marketing of the first interchangeable biosimilar biological product to be approved as interchangeable for that reference product;
 
@@ -204,7 +204,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (B) Filing period
 
-&emsp;&emsp;An application under this subsection may not be submitted to the Secretary until the date that is 4 years after the date on which the reference product was first licensed under subsection (a).
+&emsp;&emsp;An application under this subsection may not be submitted to the Secretary until thedate that is 4 years after the date on which the reference product was first licensed under subsection (a).
 
 #### (C) First licensure
 
@@ -258,7 +258,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (iii) No effect on ability to deny license
 
-&emsp;&emsp;&emsp;Clause (i) shall not be construed to require the Secretary to approve a productwith respect to which the Secretary has not indicated in a guidance document that the science and experience, as described in clause (i), does not allow approval of such an application.
+&emsp;&emsp;&emsp;Clause (i) shall not be construed to require the Secretary to approve a product with respect to which the Secretary has not indicated in a guidance document that the science and experience, as described in clause (i), does not allow approval of such an application.
 
 #### (l) Patents
 
@@ -284,7 +284,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (II) In-house counsel
 
-&emsp;&emsp;&emsp;&emsp;One attorney that represents the reference product sponsor who is an employee of the reference product sponsor, provided that such attorney does not engage, formally or informally, in patent prosecution relevant or related to the reference product.
+&emsp;&emsp;&emsp;&emsp;One attorney that represents the reference product sponsor who is an employee of the reference product sponsor, provided that such attorney does not engage, formally or informally, in patentprosecution relevant or related to the reference product.
 
 #### (iii) Patent owner access
 
@@ -316,7 +316,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (H) Effect of violation
 
-&emsp;&emsp;The disclosure of any confidential information in violation of this paragraph shallbe deemed to cause the subsection (k) applicant to suffer irreparable harm for which there is no adequate legal remedy and the court shall consider immediate injunctive relief to be an appropriate and necessary remedy for any violation or threatened violation of this paragraph.
+&emsp;&emsp;The disclosure of any confidential information in violation of this paragraph shall be deemed to cause the subsection (k) applicant to suffer irreparable harm for which there is no adequate legal remedy and the court shall consider immediate injunctive relief to be an appropriate and necessary remedy for any violation or threatened violation of this paragraph.
 
 #### (2) Subsection (k) application information
 
@@ -374,7 +374,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On a date agreed to by the subsection (k) applicant and the reference product sponsor, but in no case later than 5 days afterthe subsection (k) applicant notifies the reference product sponsor under subparagraph (A), the subsection (k) applicant and the reference product sponsor shall simultaneously exchange—
+&emsp;&emsp;&emsp;On a date agreed to by the subsection (k) applicant and the reference product sponsor, but in no case later than 5 days after the subsection (k) applicant notifies the reference product sponsor under subparagraph (A), the subsection (k) applicant and the reference product sponsor shall simultaneously exchange—
 
 &emsp;&emsp;&emsp;&emsp;(I) the list of patents that the subsection (k) applicant believes should be the subject of an action for patent infringement under paragraph (6); and
 
@@ -404,7 +404,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) Notification to Secretary
 
-&emsp;&emsp;&emsp;Not later than 30 days after a complaint is served to a subsection (k) applicant in an action for patent infringement described under this paragraph, the subsection (k) applicant shall provide the Secretary with notice and a copy of such complaint.
+&emsp;&emsp;&emsp;Not later than 30 days after a complaint is served to a subsection (k) applicant inan action for patent infringement described under this paragraph, the subsection (k) applicant shall provide the Secretary with notice and a copy of such complaint.
 
 #### (ii) Publication by Secretary
 
@@ -446,7 +446,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (A) Subsection (k) application provided
 
-&emsp;&emsp;If a subsection (k) applicant provides the application and information required under paragraph (2)(A), neither the reference product sponsor nor the subsection (k) applicant may, prior to the date notice is received under paragraph (8)(A), bring any actionunder section 2201 of title 28 for a declaration of infringement, validity, or enforceability of any patent that is described in clauses (i) and (ii) of paragraph (8)(B).
+&emsp;&emsp;If a subsection (k) applicant provides the application and information required under paragraph (2)(A), neither the reference product sponsor nor the subsection (k) applicant may, prior to the date notice is received under paragraph (8)(A), bring any action under section 2201 of title 28 for a declaration of infringement, validity, or enforceability of any patent that is described in clauses (i) and (ii) of paragraph (8)(B).
 
 #### (B) Subsequent failure to act by subsection (k) applicant
 
@@ -464,7 +464,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (2) Market exclusivity for new biological products
 
-&emsp;If, prior to approval of an application that is submitted under subsection (a), the Secretary determines that information relating to the use of a new biological product in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
+&emsp;If, prior to approval of an application that is submitted under subsection (a), the Secretary determines that information relating to the use of a new biological product in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing suchstudies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
@@ -656,7 +656,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and
 
-&emsp;"(4) efforts to protect the public from exposure to such agents should ensure that individuals andgroups with legitimate objectives continue to have access to such agents for clinical and research purposes.
+&emsp;"(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes.
 
 "(b)
 

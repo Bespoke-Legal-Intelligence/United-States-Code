@@ -8,15 +8,17 @@ For purposes of section 38, the amount of the investment credit determined under
 
 &emsp;(3) the qualifying advanced coal project credit,
 
-&emsp;(4) the qualifying gasification project credit <sup>1</sup>
+&emsp;(4) the qualifying gasification project credit,
 
 &emsp;(5) the qualifying advanced energy project credit, and
 
 &emsp;(6) the qualifying therapeutic discovery project credit.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 963; amended Pub. L. 88–272, title II, §201(d)(4), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–384, §1(c)(1), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–389, §2(b)(5), Apr. 14, 1966, 80 Stat. 114; Pub. L. 89–800, §3, Nov. 8, 1966, 80 Stat. 1514; Pub. L. 90–225, §2(a), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title III, §301(b)(4), title IV, §401(e)(1), title VII, §703(b), Dec. 30, 1969, 83 Stat. 585, 603, 666; Pub. L. 92–178, title I, §§102(a)(1), (b), 105(a)–(c), 106(a)–(c), 107(a)(1), 108(a), Dec. 10, 1971, 85 Stat. 499, 503, 506, 507; Pub. L. 93–406, title II, §§2001(g)(2)(B), 2002(g)(2), 2005(c)(4), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title III, §301(a), (b)(1)–(3), 302(a), (b)(1), Mar. 29, 1975, 89 Stat. 36, 37, 40, 43; Pub. L. 94–455, title V, §503(b)(4), title VIII, §§802(a), (b)(1)–(5), 803(a), (b)(1), 805(a), title XVI, §1607(b)(1)(B), title XVII, §§1701(b), 1703, title XIX, §§1901(a)(4), (b)(1)(C), 1906(b)(13)(A), title XXI, §2112(a)(2), Oct. 4, 1976, 90 Stat. 1562, 1580–1583, 1596, 1756, 1759, 1761, 1764, 1790, 1834, 1905; Pub. L. 95–600, title I, §141(e), (f)(2), title III, §§311(a), (c), 312(a), (b), (c)(2), 313(a), 316(a), (b)(1), (2), title VII, §703(a)(1), (2), (j)(9), Nov. 6, 1978, 92 Stat. 2794, 2795, 2824–2826, 2829, 2939, 2941; Pub. L. 95–618, title II, §241(a), title III, §301(a), (c)(1), Nov. 9, 1978, 92 Stat. 3192, 3194, 3199; Pub. L. 96–222, title I, §§101(a)(7)(A), (L)(iii)(I), (v)(I), (M)(i), 103(a)(2)(A), (B)(i)–(iii), (3), (4)(A), 107(a)(3)(A), Apr. 1, 1980, 94 Stat. 197, 200, 201, 208, 209, 223; Pub. L. 96–223, title II, §§221(a), 222(e)(2), 223(b)(1), Apr. 2, 1980, 94 Stat. 260, 263, 266; Pub. L. 97–34, title II, §§207(c)(1), 211(a)(1), (b), (d), (e)(1), (2), (f)(1), 212(a)(1), (2), title III, §§302(c)(3), (d)(1), 332(a), Aug. 13, 1981, 95 Stat. 225, 227–229, 235, 236, 272, 274, 296; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §§205(b), 265(b)(2)(A)(i), Sept. 3, 1982, 96 Stat. 420, 430, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–354, §5(a)(4)–(6), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §§541(b), 546(b), Jan. 6, 1983, 96 Stat. 2192, 2199; Pub. L. 97–448, title I, §102(e)(1), (f)(5), title II, §202(f), Jan. 12, 1983, 96 Stat. 2370, 2372, 2396; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§16(a), 31(f), 113(b)(2)(B), title IV, §§431(a), (b)(1), (d)(1)–(3), 474(o)(1)–(7), title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 505, 521, 637, 805, 807, 810, 834–836, 957; Pub. L. 99–514, title II, §§201(d)(7)(B), 251(a), title IV, §421(a), (b), title XVIII, §§1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a), Oct. 22, 1986, 100 Stat. 2141, 2183, 2229, 2789, 2855, 2857; Pub. L. 100–647, title I, §§1002(a)(4), (15), (17), (25), 1009(a)(1), 1013(a)(44), title IV, §4006, Nov. 10, 1988, 102 Stat. 3353, 3355, 3356, 3445, 3545, 3652; Pub. L. 101–239, title VII, §§7106, 7814(d), Dec. 19, 1989, 103 Stat. 2306, 2413; Pub. L. 101–508, title XI, §§11406, 11813(a), Nov. 5, 1990, 104 Stat. 1388–474, 1388–536; Pub. L. 108–357, title III, §322(d)(1), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–58, title XIII, §1307(a), Aug. 8, 2005, 119 Stat. 999; Pub. L. 111–5, div. B, title I, §1302(a), Feb. 17, 2009, 123 Stat. 345; Pub. L. 111–148, title IX, §9023(b), Mar. 23, 2010, 124 Stat. 880.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 963; amended Pub. L. 88–272, title II, §201(d)(4), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–384, §1(c)(1), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–389, §2(b)(5), Apr. 14, 1966, 80 Stat. 114; Pub. L. 89–800, §3, Nov. 8, 1966, 80 Stat. 1514; Pub. L. 90–225, §2(a), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title III, §301(b)(4), title IV, §401(e)(1), title VII, §703(b), Dec. 30, 1969, 83 Stat. 585, 603, 666; Pub. L. 92–178, title I, §§102(a)(1), (b), 105(a)–(c), 106(a)–(c), 107(a)(1), 108(a), Dec. 10, 1971, 85 Stat. 499, 503, 506, 507; Pub. L. 93–406, title II, §§2001(g)(2)(B), 2002(g)(2), 2005(c)(4), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title III, §301(a), (b)(1)–(3), 302(a), (b)(1), Mar. 29, 1975, 89 Stat. 36, 37, 40, 43; Pub. L. 94–455, title V, §503(b)(4), title VIII, §§802(a), (b)(1)–(5), 803(a), (b)(1), 805(a), title XVI, §1607(b)(1)(B), title XVII, §§1701(b), 1703, title XIX, §§1901(a)(4), (b)(1)(C), 1906(b)(13)(A), title XXI, §2112(a)(2), Oct. 4, 1976, 90 Stat. 1562, 1580–1583, 1596, 1756, 1759, 1761, 1764, 1790, 1834, 1905; Pub. L. 95–600, title I, §141(e), (f)(2), title III, §§311(a), (c), 312(a), (b), (c)(2), 313(a), 316(a), (b)(1), (2), title VII, §703(a)(1), (2), (j)(9), Nov. 6, 1978, 92 Stat. 2794, 2795, 2824–2826, 2829, 2939, 2941; Pub. L. 95–618, title II, §241(a), title III, §301(a), (c)(1), Nov. 9, 1978, 92 Stat. 3192, 3194, 3199; Pub. L. 96–222, title I, §§101(a)(7)(A), (L)(iii)(I), (v)(I), (M)(i), 103(a)(2)(A), (B)(i)–(iii), (3), (4)(A), 107(a)(3)(A), Apr. 1, 1980, 94 Stat. 197, 200, 201, 208, 209, 223; Pub. L. 96–223, title II, §§221(a), 222(e)(2), 223(b)(1), Apr. 2, 1980, 94 Stat. 260, 263, 266; Pub. L. 97–34, title II, §§207(c)(1), 211(a)(1), (b), (d), (e)(1), (2), (f)(1), 212(a)(1), (2), title III, §§302(c)(3), (d)(1), 332(a), Aug. 13, 1981, 95 Stat. 225, 227–229, 235, 236, 272, 274, 296; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §§205(b), 265(b)(2)(A)(i), Sept. 3, 1982, 96 Stat. 420, 430, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–354, §5(a)(4)–(6), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §§541(b), 546(b), Jan. 6, 1983, 96 Stat. 2192, 2199; Pub. L. 97–448, title I, §102(e)(1), (f)(5), title II, §202(f), Jan. 12, 1983, 96 Stat. 2370, 2372, 2396; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§16(a), 31(f), 113(b)(2)(B), title IV, §§431(a), (b)(1), (d)(1)–(3), 474(o)(1)–(7), title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 505, 521, 637, 805, 807, 810, 834–836, 957; Pub. L. 99–514, title II, §§201(d)(7)(B), 251(a), title IV, §421(a), (b), title XVIII, §§1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a), Oct. 22, 1986, 100 Stat. 2141, 2183, 2229, 2789, 2855, 2857; Pub. L. 100–647, title I, §§1002(a)(4), (15), (17), (25), 1009(a)(1), 1013(a)(44), title IV, §4006, Nov. 10, 1988, 102 Stat. 3353, 3355, 3356, 3445, 3545, 3652; Pub. L. 101–239, title VII, §§7106, 7814(d), Dec. 19, 1989, 103 Stat. 2306, 2413; Pub. L. 101–508, title XI, §§11406, 11813(a), Nov. 5, 1990, 104 Stat. 1388–474, 1388–536; Pub. L. 108–357, title III, §322(d)(1), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–58, title XIII, §1307(a), Aug. 8, 2005,119 Stat. 999; Pub. L. 111–5, div. B, title I, §1302(a), Feb. 17, 2009, 123 Stat. 345; Pub. L. 111–148, title IX, §9023(b), Mar. 23, 2010, 124 Stat. 880; Pub. L. 113–295, div. A, title II, §220(c), Dec. 19, 2014, 128 Stat. 4035.)
 
 #### Amendments
+
+<b>2014</b>—Par. (4). Pub. L. 113–295 inserted a comma at end.
 
 <b>2010</b>—Par. (2). Pub. L. 111–148, §9023(b)(1), inserted a comma at end.
 
@@ -226,7 +228,7 @@ Subsec. (a)(3). Pub. L. 95–600, §312(a), increased the present 50 percent tax
 
 Subsec. (a)(7). Pub. L. 95–600, §312(b)(1), in subpar. (A) substituted "the taxable year ending in 1979" for "a taxable year ending after calendar year 1974 and before calendar year 1981", "subparagraph (B)" for "subparagraph (C)", and "for '60 percent' the taxpayer's" for "for 50 percent his" and inserted "the application of this paragraph results in a percentage higher than 60 percent," before "then subparagraph (B)"; in subpar. (B) substituted "70 percent" for "50 percent plus the tentative percentage for such year"; struck out former subpar. (C), which related to the determination of the tentative percentage, and redesignated former subpar. (D) as (C).
 
-Subsec. (a)(8). Pub. L. 95–600, §312(b)(2), in subpar. (A) substituted "the taxable year ending in 1979" for "a taxable year ending after calendar year 1976, and before calendar year 1983", "subparagraph (B)" for "subparagraph (C)", and "for '60 percent' ('70 percent' in the case of a taxable year ending in 1980) the taxpayer's" for "for 50 percent his" and inserted reference to airline property and "the application of this paragraph results in a percentage higher than 60 percent (70 percent in the case of a taxable year ending in 1980)," before "then subparagraph (B)"; in subpar. (B) inserted reference to airline property and substituted "90 percent (80 percent in the case of a taxable year ending in 1980)" for "50 percent plus the tentative percentage for such year"; in subpar. (C) table struck out tentative percentage of 50 for 1977 or 1978, 20 for 1981, and 10 for 1982; and added subpar. (E).
+Subsec. (a)(8). Pub. L. 95–600, §312(b)(2), in subpar. (A) substituted "the taxable year ending in 1979" for "a taxable year ending after calendar year 1976, and before calendar year 1983", "subparagraph (B)" for "subparagraph (C)", and "for '60 percent' ('70 percent' in the case of a taxable year ending in 1980) the taxpayer's" for "for 50 percent his" and inserted reference to airline property and "the application of this paragraph results in a percentage higher than 60 percent (70 percent in the case of a taxable year ending in 1980)," before "then subparagraph (B)"; in subpar. (B) inserted reference to airline property and substituted "90 percent (80 percent in the case of a taxable year ending in 1980)" for "50 percent plus the tentative percentage for such year"; in subpar. (C) table struck out tentative percentage of 50for 1977 or 1978, 20 for 1981, and 10 for 1982; and added subpar. (E).
 
 Subsec. (a)(9). Pub. L. 95–600, §312(b)(2), struck out par. (9) which related to the alternative limitation in the case of certain airlines.
 
@@ -390,7 +392,7 @@ Pub. L. 99–514, title II, §251(d), Oct. 22, 1986, 100 Stat. 2186, as amended 
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and section 48 of this title\] shall apply to property placed in service after December 31, 1986, in taxable years ending after such date.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and section 48 of this title\] shallapply to property placed in service after December 31, 1986, in taxable years ending after such date.
 
 "(2)
 
@@ -630,7 +632,7 @@ In general.—Subject to the provisions of paragraphs (3) and (4), notwithstandi
 
 &emsp;&emsp;"(ii) any adjustments to the taxpayer's rate of return,
 
-> &emsp;shall not be treated as inconsistent with the requirements of subparagraph (G) of such section 167(l)(3) nor inconsistent with the requirements of paragraph (1) or (2) of such section 46(f), where such estimates orprojections, or such rate of return adjustments, were included in a qualified order.
+> &emsp;shall not be treated as inconsistent with the requirements of subparagraph (G) of such section 167(l)(3) nor inconsistent with the requirements of paragraph (1) or (2) of such section 46(f), where such estimates or projections, or such rate of return adjustments, were included in a qualified order.
 
 &emsp;"(B)
 
@@ -740,7 +742,7 @@ In general.—The amendment made by subsection (f) \[amending this section and s
 
 &emsp;"(B)
 
-Binding contract.—For purposes of subparagraph (A)(ii), property acquired pursuant to a binding contract shall, under regulations prescribed by the Secretary, include property acquired in a manner so that it would have qualified as pretermination property under section 49(b) (as in effect before its repeal by the Revenue Act of 1978) \[Pub. L. 95–600\].
+Binding contract.—For purposes of subparagraph (A)(ii), property acquired pursuant to a bindingcontract shall, under regulations prescribed by the Secretary, include property acquired in a manner so that it would have qualified as pretermination property under section 49(b) (as in effect before its repeal by the Revenue Act of 1978) \[Pub. L. 95–600\].
 
 "(6)
 
@@ -832,7 +834,7 @@ Pub. L. 94–455, title XXI, §2112(d)(1), Oct. 4, 1976, 90 Stat. 1906, provided
 
 Pub. L. 94–12, title III, §301(b)(4), Mar. 29, 1975, 89 Stat. 38, provided that: "The amendment made by paragraph (1) of this subsection \[amending this section\] shall apply to property placed in service after January 21, 1975, in taxable years ending after January 21, 1975. The amendments made by paragraphs (2) and (3) \[amending this section\] shall apply to taxable years ending after December 31, 1974."
 
-Pub. L. 94–12, title III, §305(a), Mar. 29, 1975, 89 Stat. 45, provided that: "The amendments made by section 302 \[amending this section and sections 47, 48, and 50B of this title\] shall apply to taxable years ending after December 31, 1974."
+Pub. L. 94–12, title III, §305(a), Mar. 29, 1975, 89 Stat. 45, provided that: "The amendments made by section302 \[amending this section and sections 47, 48, and 50B of this title\] shall apply to taxable years ending after December 31, 1974."
 
 #### Effective Date of 1974 Amendment
 
@@ -850,7 +852,7 @@ Pub. L. 92–178, title I, §102(d)(1), (2), Dec. 10, 1971, 85 Stat. 500, as ame
 
 "(2) In redetermining qualified investment for purposes of section 47(a) of the Internal Revenue Code of 1986 in the case of any property which ceases to be section 38 property with respect to the taxpayer after August 15, 1971, or which becomes public utility property after such date, section 46(c)(2) of such Code shall be applied as amended by subsection (a)."
 
-Pub. L. 92–178, title I, §105(d), Dec. 10, 1971, 85 Stat. 505, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendments made by this section \[amending this section and enacting provisions set out below\] shall apply to property described in section 50 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]."
+Pub. L. 92–178, title I, §105(d), Dec. 10, 1971, 85 Stat. 505, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and enacting provisions set out below\] shall apply to property described in section 50 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]."
 
 Pub. L. 92–178, title I, §106(d), Dec. 10, 1971, 85 Stat. 506, provided that: "The amendments made by subsections (a), (b), and (c)(2) \[amending this section\] shall apply to taxable years beginning after December 31, 1970. The amendments made by subsection (c)(1) \[amending this section\] shall apply to taxable years ending after August 15, 1971."
 
@@ -906,7 +908,5 @@ Pub. L. 94–12, title III, §301(d)–(f), Mar. 29, 1975, 89 Stat. 38, as amend
 
 #### Public Utility Property Subject to Subsec. (e); Provisions Respecting Treatment of Investment Credit by Federal Regulatory Agencies Inapplicable
 
-Pub. L. 92–178, title I, §105(e), Dec. 10, 1971, 85 Stat. 506, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Section 203(e) of the Revenue Act of 1964 \[set out as note under section 38 of thistitle\] shall not apply to public utility property to which section 46(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c)) \[subsec. (e) of this section\] applies."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+Pub. L. 92–178, title I, §105(e), Dec. 10, 1971, 85 Stat. 506, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Section 203(e) of the Revenue Act of 1964 \[set out as note under section 38 of this title\] shall not apply to public utility property to which section 46(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c)) \[subsec. (e) of this section\] applies."
 

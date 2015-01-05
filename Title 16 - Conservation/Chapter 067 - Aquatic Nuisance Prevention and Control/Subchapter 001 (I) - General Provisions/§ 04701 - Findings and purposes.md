@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) the discharge of untreated water in the ballast tanks of vessels and through other means results in unintentional introductions of nonindigenous species to fresh, brackish, and saltwater environments;
 
-&emsp;(2) when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carry diseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
+&emsp;(2) when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carrydiseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
 
 &emsp;(3) the zebra mussel was unintentionally introduced into the Great Lakes and has infested—
 
@@ -60,7 +60,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to prevent unintentional introduction and dispersal of nonindigenous species into waters of the United States through ballast water management and other requirements;
 
-&emsp;(2) to coordinate federally conducted, funded or authorized research, prevention <sup>1</sup> control,information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
+&emsp;(2) to coordinate federally conducted, funded or authorized research, prevention <sup>1</sup> control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
 
 &emsp;(3) to develop and carry out environmentally sound control methods to prevent, monitor and control unintentional introductions of nonindigenous species from pathways other than ballast water exchange;
 
@@ -97,6 +97,44 @@ Pub. L. 104–332, §1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: "This A
 #### Short Title
 
 Pub. L. 101–646, title I, §1001, Nov. 29, 1990, 104 Stat. 4761, as amended by Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: "This title \[enacting this chapter and amending section 42 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990'."
+
+#### Aquatic Invasive Species Prevention
+
+Pub. L. 113–121, title I, §1039(b), June 10, 2014, 128 Stat. 1237, provided that:
+
+"(1)
+
+Multiagency effort to slow the spread of asian carp in the upper mississippi and ohio river basins and tributaries.—
+
+&emsp;"(A)
+
+In general.—The Director of the United States Fish and Wildlife Service, in coordination with the Secretary \[of the Army\], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp.
+
+&emsp;"(B)
+
+Best practices.—To the maximum extent practicable, the multiagency effort shall apply lessons learned and best practices such as those described in the document prepared by the Asian Carp Working Group entitled 'Management and Control Plan for Bighead, Black, Grass, and Silver Carps in the United States' and dated November 2007, and the document prepared by the Asian Carp Regional Coordinating Committee entitled 'FY 2012 Asian Carp Control Strategy Framework' and dated February 2012.
+
+"(2)
+
+Report to congress.—
+
+&emsp;"(A)
+
+In general.—Not later than December 31 of each year, the Director of the United States Fish and Wildlife Service, in coordination with the Secretary, shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the coordinated strategies established and progress made toward the goals of controlling and eliminating Asian carp in the Upper Mississippi and Ohio River basins and tributaries.
+
+&emsp;"(B)
+
+Contents.—Each report submitted under subparagraph (A) shall include—
+
+&emsp;&emsp;"(i) any observed changes in the range of Asian carp in the Upper Mississippi and Ohio River basins and tributaries during the 2-year period preceding submission of the report;
+
+&emsp;&emsp;"(ii) a summary of Federal agency efforts, including cooperative efforts with non-Federal partners, to control the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries;
+
+&emsp;&emsp;"(iii) any research that the Director determines could improve the ability to control the spread of Asian carp;
+
+&emsp;&emsp;"(iv) any quantitative measures that the Director intends to use to document progress in controlling the spread of Asian carp; and
+
+&emsp;&emsp;"(v) a cross-cut accounting of Federal and non-Federal expenditures to control the spread of Asian carp."
 
 #### Construction of 1996 Amendment
 

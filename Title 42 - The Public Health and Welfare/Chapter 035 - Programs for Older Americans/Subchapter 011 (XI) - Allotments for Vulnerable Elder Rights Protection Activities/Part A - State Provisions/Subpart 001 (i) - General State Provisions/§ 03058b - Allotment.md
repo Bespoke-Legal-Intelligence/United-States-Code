@@ -48,7 +48,7 @@
 
 #### (c) Withholding
 
-If the Assistant Secretary finds that any State has failed to carry out this subchapter in accordance with the assurances made and description provided under section 3058d of this title, the Assistant Secretary shall withhold the allotment of funds to the State. The Assistant Secretary shall disburse the funds withheld directly to any public or nonprofit private institution or organization, agency, or political subdivision of the State submitting an approved plan containing the assurances and description.
+If the Assistant Secretary finds that any State has failed to carry out this subchapter in accordance with the assurances made and description provided under section 3058d of this title,the Assistant Secretary shall withhold the allotment of funds to the State. The Assistant Secretary shall disburse the funds withheld directly to any public or nonprofit private institution or organization, agency, or political subdivision of the State submitting an approved plan containing the assurances and description.
 
 (Pub. L. 89–73, title VII, §703, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1271; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title VII, §702, title VIII, §801(e)(1), Nov. 13, 2000, 114 Stat. 2289, 2293.)
 

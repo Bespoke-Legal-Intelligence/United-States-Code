@@ -6,7 +6,7 @@ Notwithstanding section 6013(d)(3)—
 
 &emsp;(1) an individual who has made a joint return may elect to seek relief under the procedures prescribed under subsection (b); and
 
-&emsp;(2) if such individual is eligible to elect the application of subsection (c), such individual may, in addition to any election under paragraph (1), elect to limit such individual's liability for any deficiency with respect to such joint return in the manner prescribed under subsection (c).
+&emsp;(2) if such individual is eligible to elect the application of subsection (c), such individual may, in addition to any election under paragraph (1), elect to limit such individual's liability for any deficiency with respect to suchjoint return in the manner prescribed under subsection (c).
 
 > Any determination under this section shall be made without regard to community property laws.
 
@@ -82,7 +82,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "disqualified asset" means any property or right to property transferred to an individual making the election under this subsection with respect to a joint return by the other individual filing such joint return if the principal purpose of the transfer was the avoidance of tax or payment of tax.
+&emsp;&emsp;&emsp;The term "disqualified asset" means any property or right to property transferredto an individual making the election under this subsection with respect to a joint return by the other individual filing such joint return if the principal purpose of the transfer was the avoidance of tax or payment of tax.
 
 #### (ii) Presumption
 
@@ -126,7 +126,7 @@ For purposes of subsection (c)—
 
 #### (C) Exception for fraud
 
-&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribedby subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
+&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribed by subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
 
 #### (4) Limitations on separate returns disregarded
 
@@ -158,7 +158,7 @@ For purposes of subsection (c)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in section 6851 or 6861, no levy or proceeding in court shall be made, begun, or prosecuted against the individual making an election under subsection (b) or (c) or requesting equitable relief under subsection (f) for collection of any assessment to which such election or request relates until the close of the 90th day referred to in subparagraph (A)(ii), or, if a petition has been filed with the Tax Court under subparagraph (A), until the decision of the Tax Court has become final. Rules similar to the rules of section 7485 shall apply with respect to the collection of such assessment.
+&emsp;&emsp;&emsp;Except as otherwise provided in section 6851 or 6861, no levy or proceeding in court shall be made, begun, or prosecuted against the individual making an election under subsection (b) or (c) or requesting equitable relief under subsection (f) for collection of any assessment to which such election or request relates until the close of the 90th day referred to in subparagraph (A)(ii), or, if a petition has been filed with the Tax Court under subparagraph (A),until the decision of the Tax Court has become final. Rules similar to the rules of section 7485 shall apply with respect to the collection of such assessment.
 
 #### (ii) Authority to enjoin collection actions
 
@@ -224,7 +224,7 @@ The Secretary shall prescribe such regulations as are necessary to carry out the
 
 #### Prior Provisions
 
-A prior section 6015, acts Aug. 16, 1954, ch. 736, 68A Stat. 737; Sept. 2, 1958, Pub. L. 85–866, title I, §74, 72 Stat. 1660; Sept. 14, 1960, Pub. L. 86–779, §5(a), 74 Stat. 1000; Sept. 25, 1962, Pub. L. 87–682, §1(a)(1), 76 Stat. 575; Mar. 15, 1966, Pub. L. 89–368, title I, §102(a), 80 Stat. 62; Nov. 13, 1966, Pub. L. 89–809, title I, §103(j), 80 Stat. 1554; Dec. 30, 1969, Pub. L. 91–172, title III, §301(b)(12), title VIII, §803(d)(7), title IX, §944(a), 83 Stat. 586, 684, 729; Dec. 10, 1971, Pub. L. 92–178, title II, §209(a), 85 Stat. 517; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(2), (b)(13)(A), 90 Stat. 1824, 1834; Nov. 6, 1978, Pub. L. 95–600, title IV, §421(e)(7), 92 Stat. 2876; Aug. 13, 1981, Pub. L. 97–34, title VII, §725(a), (c)(2), 95 Stat. 345, 346; Sept. 3, 1982, Pub. L. 97–248, title II, §201(d)(7), formerly §201(c)(7), title III, §§307(a)(6), 308(a), 328(b)(1), 96 Stat. 420, 589, 591, 618, redesignated and amended Jan. 12, 1983, Pub. L. 97–448, title I, §107(c)(2), title II, §201(j)(1), title III, §306(a)(1)(A)(i), 96 Stat. 2391, 2395, 2400; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369, related to declaration of estimated income tax by individuals, prior to repeal by Pub. L. 98–369, div. A, title IV, §§412(a)(1), 414(a)(1), July 18, 1984, 98 Stat. 792, 793, applicable with respect to taxable years beginning after Dec. 31, 1984.
+A prior section 6015, acts Aug. 16, 1954, ch. 736, 68A Stat. 737; Sept. 2, 1958, Pub. L. 85–866, title I, §74, 72 Stat. 1660; Sept. 14, 1960, Pub. L. 86–779, §5(a), 74 Stat. 1000; Sept. 25, 1962, Pub. L. 87–682, §1(a)(1), 76 Stat. 575; Mar. 15, 1966, Pub. L. 89–368, title I, §102(a), 80 Stat. 62; Nov. 13, 1966, Pub. L. 89–809, title I, §103(j), 80 Stat. 1554; Dec. 30, 1969, Pub. L. 91–172, title III, §301(b)(12), title VIII, §803(d)(7), title IX, §944(a), 83 Stat. 586, 684, 729; Dec. 10, 1971, Pub. L. 92–178, title II, §209(a), 85 Stat. 517; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(2), (b)(13)(A), 90 Stat. 1824, 1834; Nov. 6, 1978, Pub. L. 95–600, title IV, §421(e)(7), 92 Stat. 2876; Aug. 13, 1981, Pub. L.97–34, title VII, §725(a), (c)(2), 95 Stat. 345, 346; Sept. 3, 1982, Pub. L. 97–248, title II, §201(d)(7), formerly §201(c)(7), title III, §§307(a)(6), 308(a), 328(b)(1), 96 Stat. 420, 589, 591, 618, redesignated and amended Jan. 12, 1983, Pub. L. 97–448, title I, §107(c)(2), title II, §201(j)(1), title III, §306(a)(1)(A)(i), 96 Stat. 2391, 2395, 2400; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369, related to declaration of estimated income tax by individuals, prior to repeal by Pub. L. 98–369, div. A, title IV, §§412(a)(1), 414(a)(1), July 18, 1984, 98 Stat. 792, 793, applicable with respect to taxable years beginning after Dec. 31, 1984.
 
 #### Amendments
 
@@ -264,7 +264,7 @@ Subsecs. (g), (h). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(2)(A)\], a
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. C, title IV, §408(c), Dec. 20, 2006, 120 Stat. 3062, provided that: "The amendments madeby this section \[amending this section\] shall apply with respect to liability for taxes arising or remaining unpaid on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
+Pub. L. 109–432, div. C, title IV, §408(c), Dec. 20, 2006, 120 Stat. 3062, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to liability for taxes arising or remaining unpaid on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
 #### Effective Date of 2000 Amendment
 

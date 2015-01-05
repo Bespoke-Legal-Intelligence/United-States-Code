@@ -12,7 +12,7 @@
 
 &emsp;(A) with respect to the personnel performing functions transferred to the Department of Commerce from the Department of State by Reorganization Plan Numbered 3 of 1979, and
 
-&emsp;(B) with respect to other personnel of the Department of Commerce to the extent the President determines to be necessary in orderto enable the Department of Commerce to carry out functions which require service abroad.
+&emsp;(B) with respect to other personnel of the Department of Commerce to the extent the President determines to be necessary in order to enable the Department of Commerce to carry out functions which require service abroad.
 
 (4)(A) Whenever (and to the extent) the Secretary of State considers it in the best interests of the United States Government, the Secretary of State may authorize the head of any agency or other Government establishment (including any establishment in the legislative or judicial branch) to appoint under section 3943 of this title individuals described in subparagraph (B) as members of the Service and to utilize the Foreign Service personnel system with respect to such individuals under such regulations as the Secretary of State may prescribe.
 
@@ -20,7 +20,7 @@
 
 (b) Subject to section 3921(b) of this title—
 
-&emsp;(1) the agency heads referred to in subsection (a) of this section, and
+&emsp;(1) the agency heads referred to in subsection (a), and
 
 &emsp;(2) the head of any other agency (to the extent authority to utilize the Foreign Service personnel system is granted to such agency head under any other chapter),
 

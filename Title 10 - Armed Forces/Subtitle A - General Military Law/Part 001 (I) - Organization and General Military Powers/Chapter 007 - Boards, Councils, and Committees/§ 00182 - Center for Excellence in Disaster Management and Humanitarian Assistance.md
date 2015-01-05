@@ -48,7 +48,7 @@ Acceptance of Donations.—(1) Except as provided in paragraph (2), the Secretar
 
 #### Payments for Education and Training of Personnel of Foreign Countries
 
-Pub. L. 107–248, title VIII, §8093, Oct. 23, 2002, 116 Stat. 1558, provided that: "During the current fiscal year and hereafter, under regulations prescribed by the Secretary of Defense, the Center of Excellence for DisasterManagement and Humanitarian Assistance \[probably should be Center for Excellence in Disaster Management and Humanitarian Assistance\] may also pay, or authorize payment for, the expenses of providing or facilitating education and training for appropriate military and civilian personnel of foreign countries in disaster management, peace operations, and humanitarian assistance."
+Pub. L. 107–248, title VIII, §8093, Oct. 23, 2002, 116 Stat. 1558, provided that: "During the current fiscal year and hereafter, under regulations prescribed by the Secretary of Defense, the Center of Excellence for Disaster Management and Humanitarian Assistance \[probably should be Center for Excellence in Disaster Management and Humanitarian Assistance\] may also pay, or authorize payment for, the expenses of providing or facilitating education and training for appropriate military and civilian personnel of foreign countries in disaster management, peace operations, and humanitarian assistance."
 
 Similar provisions were contained in the following prior appropriation acts:
 

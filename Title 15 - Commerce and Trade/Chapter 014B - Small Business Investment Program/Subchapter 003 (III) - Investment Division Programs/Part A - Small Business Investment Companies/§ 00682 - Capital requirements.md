@@ -34,7 +34,7 @@
 
 #### (1) Certain banks
 
-&emsp;Notwithstanding the provisions of section 1845(a)(1) <sup>2</sup> of title 12, any national bank, or any member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any 1 or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank.
+&emsp;Notwithstanding the provisions of section 1845(a)(1) <sup>2</sup> of title 12, any national bank, orany member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any 1 or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank.
 
 #### (2) Certain savings associations
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 104–208, §208(c)(3), inserted heading and amended text o
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–305, §106(e), struck out "of incorporation" after "its articles".
 
-Subsec. (b). Pub. L. 94–305, §107, struck out provisions prohibiting the bank from acquiring shares in a smallbusiness investment company if the bank would hold 50 percent or more of any class of equity securities issued by that investment company and having actual or potential voting rights.
+Subsec. (b). Pub. L. 94–305, §107, struck out provisions prohibiting the bank from acquiring shares in a small business investment company if the bank would hold 50 percent or more of any class of equity securities issued by that investment company and having actual or potential voting rights.
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–104, §203(a), substituted small business investment company minimum capital requirement, a combined private paid-in capital and paid-in surplus, of $150,000 and adequate to assure reasonable prospect of sound and profitable company operations and active and prudent management in accordance with the articles of incorporation for former requirement of a paid-in capital and surplus equal to at least $300,000, and eliminated provisions for purchase of debentures of such companies in an amount not to exceed the lesser of $700,000 or the amount of paid-in capital and surplus of the company from other sources and for subordination of debentures (both incorporated in section 686(b) of this title), for such purchases by the Administration only during certain prescribed period, and deeming the debentures part of the capital and surplus for certain purposes.
 

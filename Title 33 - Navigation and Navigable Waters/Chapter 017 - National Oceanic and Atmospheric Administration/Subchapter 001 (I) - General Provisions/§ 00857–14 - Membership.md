@@ -16,7 +16,7 @@ The members of the Committee, who may not be full-time officers or employees of 
 
 #### (c) Chairman
 
-The President shall designate one of the members of the Committee as the Chairman and one of the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
+The President shall designate one of the members of the Committee as the Chairman and oneof the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
 
 #### (d) Duties
 

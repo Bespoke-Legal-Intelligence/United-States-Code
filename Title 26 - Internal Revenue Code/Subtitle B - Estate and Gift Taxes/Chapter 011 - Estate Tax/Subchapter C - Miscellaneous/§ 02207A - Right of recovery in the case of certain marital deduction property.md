@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the total tax under this chapter which has been paid, exceeds
 
-&emsp;&emsp;(B) the total tax under this chapter which would have been payable if the value of suchproperty had not been included in the gross estate.
+&emsp;&emsp;(B) the total tax under this chapter which would have been payable if the value of such property had not been included in the gross estate.
 
 #### (2) Decedent may otherwise direct
 

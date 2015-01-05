@@ -6,7 +6,7 @@
 
 &emsp;(A) the dissemination of information about the research program and the solicitation of proposals for research contracts from American institutions of higher education and not-for-profit corporations, such contracts to contain shared-cost provisions; and
 
-&emsp;(B) the awarding of contracts for such research projects as the respective institutiondetermines will best serve to carry out the purposes of this chapter after reviewing proposals submitted under subparagraph (A).
+&emsp;(B) the awarding of contracts for such research projects as the respective institution determines will best serve to carry out the purposes of this chapter after reviewing proposals submitted under subparagraph (A).
 
 (2) One part of the payments made in each fiscal year shall be used—
 

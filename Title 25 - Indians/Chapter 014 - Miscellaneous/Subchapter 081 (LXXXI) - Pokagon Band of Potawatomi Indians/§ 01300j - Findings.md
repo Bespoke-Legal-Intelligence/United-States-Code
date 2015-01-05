@@ -8,7 +8,7 @@ The Congress finds the following:
 
 &emsp;(3) Two of the Potawatomi bands later returned to the Great Lakes area, the Forest County Potawatomi of Wisconsin and the Hannahville Indian Community of Michigan.
 
-&emsp;(4) The Hannahville Indian Community of Michigan, the Forest County PotawatomiCommunity of Wisconsin, the Prairie Band of Potawatomi Indians of Kansas, and the Citizen Band Potawatomi Indian Tribe of Oklahoma, whose members are also descendants of the signatories to one or more of the aforementioned treaties, have been recognized by the Federal Government as Indian tribes eligible to receive services from the Secretary of the Interior.
+&emsp;(4) The Hannahville Indian Community of Michigan, the Forest County Potawatomi Community of Wisconsin, the Prairie Band of Potawatomi Indians of Kansas, and the Citizen Band Potawatomi Indian Tribe of Oklahoma, whose members are also descendants of the signatories to one or more of the aforementioned treaties, have been recognized by the Federal Government as Indian tribes eligible to receive services from the Secretary of the Interior.
 
 &emsp;(5) Beginning in 1935, the Pokagon Band of Potawatomi Indians petitioned for reorganization and assistance pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq., commonly referred to as the "Indian Reorganization Act"). Because of the financial condition of the Federal Government during the Great Depression it relied upon the State of Michigan to provide services to the Pokagon Band. Other Potawatomi bands, including the Forest County Potawatomi and the Hannahville Indian Community were provided services pursuant to the Indian Reorganization Act.
 

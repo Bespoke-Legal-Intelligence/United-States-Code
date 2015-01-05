@@ -4,7 +4,7 @@
 
 (B)(i) Not less than 180 days before the date scheduled for initial loading of fuel into a plant by a licensee that has been issued a combined construction permit and operating license under section 2235(b) of this title, the Commission shall publish in the Federal Register notice of intended operation. That notice shall provide that any person whose interest may be affected by operation of the plant, may within 60 days request the Commission to hold a hearing on whether the facility as constructed complies, or on completion will comply, with the acceptance criteria of the license.
 
-(ii) A request for hearing under clause (i) shall show, prima facie, that one or more of the acceptance criteria in the combined license have not been, or will not be met, and the specific operational consequences of nonconformancethat would be contrary to providing reasonable assurance of adequate protection of the public health and safety.
+(ii) A request for hearing under clause (i) shall show, prima facie, that one or more of the acceptance criteria in the combined license have not been, or will not be met, and the specific operational consequences of nonconformance that would be contrary to providing reasonable assurance of adequate protection of the public health and safety.
 
 (iii) After receiving a request for a hearing under clause (i), the Commission expeditiously shall either deny or grant the request. If the request is granted, the Commission shall determine, after considering petitioners' prima facie showing and any answers thereto, whether during a period of interim operation, there will be reasonable assurance of adequate protection of the public health and safety. If the Commission determines that there is such reasonable assurance, it shall allow operation during an interim period under the combined license.
 
@@ -16,7 +16,7 @@
 
 (B) The Commission shall periodically (but not less frequently than once every thirty days) publish notice of any amendments issued, or proposed to be issued, as provided in subparagraph (A). Each such notice shall include all amendments issued, or proposed to be issued, since the date of publication of the last such periodic notice. Such notice shall, with respect to each amendment or proposed amendment (i) identify the facility involved; and (ii) provide a brief description of such amendment. Nothing in this subsection shall be construed to delay the effective date of any amendment.
 
-(C) The Commission shall, during the ninety-day period following the effective date of this paragraph, promulgate regulations establishing (i) standards for determining whether any amendment to an operating license or any amendment to a combined construction and operating license involves no significant hazards consideration; (ii) criteria for providing or, in emergency situations, dispensing with prior notice and reasonable opportunity for public comment on any such determination, which criteria shall take into account the exigency of the need for the amendment involved; and (iii) procedures for consultation on any such determination with the State in which the facility involved is located.
+(C) The Commission shall, during the ninety-day period following the effective date of this paragraph, promulgate regulations establishing (i) standards for determining whether any amendment to an operating license or any amendment to a combined construction and operating license involves no significant hazards consideration; (ii) criteria for providing or, inemergency situations, dispensing with prior notice and reasonable opportunity for public comment on any such determination, which criteria shall take into account the exigency of the need for the amendment involved; and (iii) procedures for consultation on any such determination with the State in which the facility involved is located.
 
 (b) The following Commission actions shall be subject to judicial review in the manner prescribed in chapter 158 of title 28 and chapter 7 of title 5:
 
@@ -44,7 +44,7 @@ The USEC Privatization Act, referred to in subsec. (b)(3), (4), is subchapter A 
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §2802, designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(2)(A), (C). Pub. L. 102–486, §2804, inserted "or any amendment to a combined construction andoperating license" after "any amendment to an operating license".
+Subsec. (a)(2)(A), (C). Pub. L. 102–486, §2804, inserted "or any amendment to a combined construction and operating license" after "any amendment to an operating license".
 
 Subsec. (b). Pub. L. 102–486, §2805, inserted "or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license" before "shall be subject to judicial review".
 

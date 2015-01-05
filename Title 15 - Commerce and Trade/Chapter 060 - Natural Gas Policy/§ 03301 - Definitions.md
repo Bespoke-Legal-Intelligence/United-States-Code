@@ -44,7 +44,7 @@ For purposes of this chapter—
 
 #### (A) General rule
 
-&emsp;&emsp;The term "completion location" means any subsurface location from which naturalgas is being or has been produced in commercial quantities.
+&emsp;&emsp;The term "completion location" means any subsurface location from which natural gas is being or has been produced in commercial quantities.
 
 #### (B) Marker well
 

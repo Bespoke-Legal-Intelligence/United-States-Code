@@ -8,7 +8,7 @@ Whoever—
 
 &emsp;(2) at any time knowingly and willfully makes or causes to be made any false statement or representation of a material fact for use in determining rights to such benefit or payment,
 
-&emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continuedright to any such benefit or payment, or (B) the initial or continued right to any such benefit or payment of any other individual in whose behalf he has applied for or is receiving such benefit or payment, conceals or fails to disclose such event with an intent fraudulently to secure such benefit or payment either in a greater amount or quantity than is due or when no such benefit or payment is authorized,
+&emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit or payment, or (B) the initial or continued right to any such benefit or payment of any other individual in whose behalf he has applied for or is receiving such benefit or payment, conceals or fails to disclose such event with an intent fraudulently to secure such benefit or payment either in a greater amount or quantity than is due or when no such benefit or payment is authorized,
 
 &emsp;(4) having made application to receive any such benefit or payment for the use and benefit of another and having received it, knowingly and willfully converts such benefit or payment or any part thereof to a use other than for the use and benefit of such other person,
 
@@ -34,7 +34,7 @@ Whoever—
 
 &emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
-> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 orimprisoned for not more than five years, or both.
 
 (3) Paragraphs (1) and (2) shall not apply to—
 
@@ -70,7 +70,7 @@ Whoever knowingly and willfully makes or causes to be made, or induces or seeks 
 
 Whoever knowingly and willfully—
 
-&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
+&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate inexcess of the rate permitted under such contract), or
 
 &emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
@@ -340,7 +340,7 @@ Appointment of negotiated rulemaking committee and facilitator.—The Secretary 
 
 "(6)
 
-Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not laterthan October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 "(7)
 

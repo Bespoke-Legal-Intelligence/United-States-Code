@@ -24,7 +24,7 @@ The Commission is authorized to establish classes of special nuclear material an
 
 Special nuclear material, as defined in section 2014 of this title, produced in facilities licensed under section 2133 or 2134 of this title may not be transferred, reprocessed, used, or otherwise made available by any instrumentality of the United States or any other person for nuclear explosive purposes.
 
-(Aug. 1, 1946, ch. 724, title I, §57, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 932; amended Pub.L. 88–489, §12, Aug. 26, 1964, 78 Stat. 605; Pub. L. 93–377, §3, Aug. 17, 1974, 88 Stat. 475; Pub. L. 95–242, title III, §302, Mar. 10, 1978, 92 Stat. 126; Pub. L. 97–415, §14, Jan. 4, 1983, 96 Stat. 2075; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–277, div. G, title XII, §1225(d)(1), Oct. 21, 1998, 112 Stat. 2681–774; Pub. L. 108–458, title VI, §6803(a), Dec. 17, 2004, 118 Stat. 3768.)
+(Aug. 1, 1946, ch. 724, title I, §57, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 932; amended Pub. L. 88–489, §12, Aug. 26, 1964, 78 Stat. 605; Pub. L. 93–377, §3, Aug. 17, 1974, 88 Stat. 475; Pub. L. 95–242, title III, §302, Mar. 10, 1978, 92 Stat. 126; Pub. L. 97–415, §14, Jan. 4, 1983, 96 Stat. 2075; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–277, div. G, title XII, §1225(d)(1), Oct. 21, 1998, 112 Stat. 2681–774; Pub. L. 108–458, title VI, §6803(a), Dec. 17, 2004, 118 Stat. 3768.)
 
 #### Prior Provisions
 

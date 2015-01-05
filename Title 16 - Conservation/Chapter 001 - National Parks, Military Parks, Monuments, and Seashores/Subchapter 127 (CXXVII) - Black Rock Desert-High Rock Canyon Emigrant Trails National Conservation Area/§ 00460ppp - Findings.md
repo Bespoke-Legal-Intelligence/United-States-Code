@@ -6,7 +6,7 @@ The Congress finds the following:
 
 &emsp;(2) The relative absence of development in the Black Rock Desert and high <sup>2</sup> Rock Canyon areas from emigrant times to the present day offers a unique opportunity to capture the terrain, sights, and conditions of the overland trails as they were experienced by the emigrants and to make available to both present and future generations of Americans the opportunity of experiencing emigrant conditions in an unaltered setting.
 
-&emsp;(3) The Black Rock Desert and High Rock Canyon areas are unique segments of theNorthern Great Basin and contain broad representation of the Great Basin's land forms and plant and animal species, including golden eagles and other birds of prey, sage grouse, mule deer, pronghorn antelope, bighorn sheep, free roaming horses and burros, threatened fish and sensitive plants.
+&emsp;(3) The Black Rock Desert and High Rock Canyon areas are unique segments of the Northern Great Basin and contain broad representation of the Great Basin's land forms and plant and animal species, including golden eagles and other birds of prey, sage grouse, mule deer, pronghorn antelope, bighorn sheep, free roaming horses and burros, threatened fish and sensitive plants.
 
 &emsp;(4) The Black Rock-High Rock region contains a number of cultural and natural resources that have been declared eligible for National Historic Landmark and Natural Landmark status, including a portion of the 1843–44 John Charles Fremont exploration route, the site of the death of Peter Lassen, early military facilities, and examples of early homesteading and mining.
 

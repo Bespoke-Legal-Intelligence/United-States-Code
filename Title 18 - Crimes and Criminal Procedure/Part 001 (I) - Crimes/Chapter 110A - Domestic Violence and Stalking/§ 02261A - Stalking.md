@@ -22,7 +22,7 @@ Whoever—
 
 > &emsp;shall be punished as provided in section 2261(b) of this title.
 
-(Added Pub. L. 104–201, div. A, title X, §1069(a), Sept. 23, 1996, 110 Stat. 2655; amended Pub. L.106–386, div. B, title I, §1107(b)(1), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, §114(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title I, §107(b), Mar. 7, 2013, 127 Stat. 77.)
+(Added Pub. L. 104–201, div. A, title X, §1069(a), Sept. 23, 1996, 110 Stat. 2655; amended Pub. L. 106–386, div. B, title I, §1107(b)(1), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, §114(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title I, §107(b), Mar. 7, 2013, 127 Stat. 77.)
 
 #### Amendments
 

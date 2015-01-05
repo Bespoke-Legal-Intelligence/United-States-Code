@@ -18,7 +18,7 @@ Delegation of Responsibilities.—The Secretary shall delegate responsibility fo
 
 &emsp;(3) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
 
-&emsp;(4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviationsfrom such policies and procedures that are recommended in the budget.
+&emsp;(4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 
 (d)
 
@@ -196,7 +196,7 @@ Service Contractor Workforce Defined.—In this section, the term 'service contr
 
 "(h)
 
-Comptroller General Review and Report.—For each fiscal year from fiscal year 2015 through fiscal year 2018, the Comptroller General of the United States shall review the status reports submitted by the Secretary as required by subsection (d)(2) to determine whether the savings required by subsection (b) are being achieved in the civilian personnel workforce and the service contractor workforce and whether the plan required under subsection (a) is being implementedconsistent with sourcing and workforce management laws, including sections 129, 129a, 2330a, 2461, and 2463 of title 10, United States Code. The Comptroller General shall submit a report on the findings of each review to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not later than 120 days after the end of each fiscal year covered by this subsection."
+Comptroller General Review and Report.—For each fiscal year from fiscal year 2015 through fiscal year 2018, the Comptroller General of the United States shall review the status reports submitted by the Secretary as required by subsection (d)(2) to determine whether the savings required by subsection (b) are being achieved in the civilian personnel workforce and the service contractor workforce and whether the plan required under subsection (a) is being implemented consistent with sourcing and workforce management laws, including sections 129, 129a, 2330a, 2461, and 2463 of title 10, United States Code. The Comptroller General shall submit a report on the findings of each review to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not later than 120 days after the end of each fiscal year covered by this subsection."
 
 #### Conversion of Military Positions to Civilian Positions
 

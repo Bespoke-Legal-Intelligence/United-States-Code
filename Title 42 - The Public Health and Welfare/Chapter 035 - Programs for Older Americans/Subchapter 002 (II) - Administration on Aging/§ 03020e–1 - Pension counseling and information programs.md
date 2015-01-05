@@ -64,7 +64,7 @@ To be eligible to receive a grant under this section, an entity shall submit an 
 
 &emsp;&emsp;(H) provides training programs for staff members, including volunteer staff members, of pension and other retirement benefits programs;
 
-&emsp;&emsp;(I) makes recommendations to the Administration, the Department of Labor and other Federal, State, and local agencies concerning issues for older individuals related to pension and other retirement benefits; and
+&emsp;&emsp;(I) makes recommendations to the Administration, the Department of Labor andother Federal, State, and local agencies concerning issues for older individuals related to pension and other retirement benefits; and
 
 &emsp;&emsp;(J) establishes or continues an outreach program to provide information, counseling, referral and assistance regarding pension and other retirement benefits, with particular emphasis on outreach to women, minorities, older individuals residing in rural areas, low-income retirees, and older individuals with limited English proficiency; and
 

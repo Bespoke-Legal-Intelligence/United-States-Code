@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To carry out this chapter, the Secretary may cooperate with other Federal agencies, States or political subdivisions of States, national governments of foreign countries, local governments offoreign countries, domestic or international organizations, domestic or international associations, Indian tribes, and other persons.
+To carry out this chapter, the Secretary may cooperate with other Federal agencies, States or political subdivisions of States, national governments of foreign countries, local governments of foreign countries, domestic or international organizations, domestic or international associations, Indian tribes, and other persons.
 
 #### (b) Responsibility
 

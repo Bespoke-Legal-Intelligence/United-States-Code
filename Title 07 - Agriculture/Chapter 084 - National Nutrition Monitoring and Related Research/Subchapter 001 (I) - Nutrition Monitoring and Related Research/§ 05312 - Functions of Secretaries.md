@@ -34,11 +34,11 @@ The Secretaries shall submit to the President for transmittal to Congress by Jan
 
 &emsp;(2) summarize the results of such coordinated program components as are developed under section 5313 of this title;
 
-&emsp;(3) describe and evaluate any policy implications of the analytical findings in the scientific reports required under subsection (a)(8) of this section, and future priorities for nutrition monitoring and related research;
+&emsp;(3) describe and evaluate any policy implications of the analytical findings in the scientific reports required under subsection (a)(8), and future priorities for nutrition monitoring and related research;
 
 &emsp;(4) include in full the annual reports of the Council provided for in section 5332 of this title; and
 
-&emsp;(5) include an executive summary of the report most recently published by the scientific body, as provided for in subsection (a)(8) of this section.
+&emsp;(5) include an executive summary of the report most recently published by the scientific body, as provided for in subsection (a)(8).
 
 (Pub. L. 101–445, title I, §102, Oct. 22, 1990, 104 Stat. 1036.)
 

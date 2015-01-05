@@ -156,7 +156,7 @@
 
 (3) If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in paragraphs (1) and (2) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded. Such objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
 
-(4)(A) Whenever the head of an agency requires that proposals described in paragraph (1)(B) or (2)(B) be submitted by an offeror in its offer, the offeror shall not be required to provide a proposal that enables the United States to acquire competitively in the future an identical item if the item was developed exclusively at private expense unless the head of the agency determines that—
+(4)(A) Whenever the head of an agency requires that proposals described in paragraph (1)(B) or\(2)(B) be submitted by an offeror in its offer, the offeror shall not be required to provide a proposal that enables the United States to acquire competitively in the future an identical item if the item was developed exclusively at private expense unless the head of the agency determines that—
 
 &emsp;(i) the original supplier of such item will be unable to satisfy program schedule or delivery requirements; or
 
@@ -366,7 +366,7 @@ Pub. L. 101–510, div. A, title VIII, §802(e), Nov. 5, 1990, 104 Stat. 1589, p
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–500, §101(c) \[title X, §924(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, Pub. L. 99–591, §101(c) \[title X,§924(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153, and Pub. L. 99–661, div. A, title IX, formerly title IV, §924(c), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §924(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, Pub. L. 99–591, §101(c) \[title X, §924(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153, and Pub. L. 99–661, div. A, title IX, formerly title IV, §924(c), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Effective Date of 1984 Amendments
 

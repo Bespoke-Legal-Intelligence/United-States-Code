@@ -2,7 +2,7 @@
 
 #### (a) Guidelines for identification of regions
 
-For purposes of encouraging and facilitating the development of regional planning for solid waste management, the Administrator, within one hundred and eighty days after October 21, 1976, and after consultation with appropriate Federal, State, and local authorities, shall by regulation publish guidelines for the identification of those areas which have common solid waste management problems and are appropriate units for planning regional solid waste management services. Such guidelines shall consider—
+For purposes of encouraging and facilitating the development of regional planning for solid waste management, the Administrator, within one hundred and eighty days after October 21, 1976, and after consultation with appropriate Federal, State, and local authorities, shall by regulation publish guidelines for the identification of those areas which have common solidwaste management problems and are appropriate units for planning regional solid waste management services. Such guidelines shall consider—
 
 &emsp;(1) the size and location of areas which should be included,
 

@@ -250,9 +250,9 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
+&emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 <sup>2</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
 
-&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[7 U.S.C. 8715\];
+&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 <sup>2</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 <sup>2</sup> of that Act \[7 U.S.C. 8715\];
 
 &emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C <sup>2</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8731 et seq., 8751 et seq.\] or successor subtitles;
 
@@ -306,7 +306,7 @@ In this section:
 
 #### (A) Normal production on the farm
 
-&emsp;&emsp;The normal production on the farm shall equal the sum of the expected revenue foreach crop on a farm as determined under paragraph (5).
+&emsp;&emsp;The normal production on the farm shall equal the sum of the expected revenue for each crop on a farm as determined under paragraph (5).
 
 #### (B) Actual production on the farm
 
@@ -412,17 +412,11 @@ In this section:
 
 #### (A) Eligible losses
 
-#### (i) In general
+&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
 
-&emsp;&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
+&emsp;&emsp;&emsp;(i) is native or improved pastureland with permanent vegetative cover; or
 
-&emsp;&emsp;&emsp;&emsp;(I) is native or improved pastureland with permanent vegetative cover; or
-
-&emsp;&emsp;&emsp;&emsp;(II) is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.
-
-#### (ii) Exclusions
-
-&emsp;&emsp;&emsp;An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
+&emsp;&emsp;&emsp;(ii) is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.
 
 #### (B) Monthly payment rate
 
@@ -494,7 +488,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B); or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the county is rated as having a D3 (extreme drought) intensity inany area of the county for at least 4 weeks during the normal grazing period for the county, or is rated as having a D4 (exceptional drought) intensity in any area of the county at any time during the normal grazing period, in an amount equal to 3 monthly payments using the monthly payment rate determined under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the county is rated as having a D3 (extreme drought) intensity in any area of the county for at least 4 weeks during the normal grazing period for the county, or is rated as having a D4 (exceptional drought) intensity in any area of the county at any time during the normal grazing period, in an amount equal to 3 monthly payments using the monthly payment rate determined under subparagraph (B).
 
 #### (4) Assistance for losses due to fire on public managed land
 
@@ -802,13 +796,17 @@ In implementing any other program which makes disaster assistance payments (exce
 
 &emsp;Paragraph (1) shall not apply to a specific reference in this subchapter to a provision of subchapter I.
 
-(Feb. 16, 1938, ch. 30, title V, §531, as added Pub. L. 110–234, title XII, §12033(a), May 22, 2008, 122 Stat. 1392, and Pub. L. 110–246, §4(a), title XII, §12033(a), June 18, 2008, 122 Stat. 1664, 2154; amended Pub. L. 110–398, §2(a), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 111–5, div. A, title I, §102(a), Feb. 17, 2009, 123 Stat. 121; Pub. L. 111–80, title VII, §745(a), Oct. 21, 2009, 123 Stat. 2129; Pub. L. 112–240, title VII, §702(a), Jan. 2, 2013, 126 Stat. 2368.)
+(Feb. 16, 1938, ch. 30, title V, §531, as added Pub. L. 110–234, title XII, §12033(a), May 22, 2008, 122 Stat. 1392, and Pub. L. 110–246, §4(a), title XII, §12033(a), June 18, 2008, 122 Stat. 1664, 2154; amended Pub. L. 110–398, §2(a), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 111–5, div. A, title I, §102(a), Feb. 17, 2009, 123 Stat. 121; Pub. L. 111–80, title VII, §745(a), Oct. 21, 2009, 123 Stat. 2129; Pub. L. 112–240, title VII, §702(a), Jan. 2, 2013, 126 Stat. 2368; Pub. L. 113–79, title XI, §11028(c), Feb. 7, 2014, 128 Stat. 978.)
 
 #### References in Text
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iv), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.) of chapter 113 of this title. Section 1603 of the Act amended section 1308 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by Pub. L. 113–79, title I, §1101, Feb. 7, 2014, 128 Stat. 658.
 
-The Food Security Act of 1985, referred to in subsec. (d)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), were repealed by Pub. L. 113–79, title I, §1102(a), Feb. 7, 2014, 128 Stat. 658.
+
+Section 1105 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
+
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iv), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.) of chapter 113 of this title. Section 1603 of the Act amended section 1308 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
 The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C), (D)(ii) and (g)(4)(A), (5)(B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -819,6 +817,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section 2(a) of Pub. L. 110–398, which directed amendment of section 531 of the Federal Crop Insurance Act, was executed to this section, which is section 531 of subtitle B of title V of act Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(3)(A). Pub. L. 113–79 struck out cl. (i) designation and heading, redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Text read as follows: "An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.)."
 
 <b>2013</b>—Subsec. (a)(5). Pub. L. 112–240, §702(a)(1), struck out "under" first time appearing after "established" in introductory provisions, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and realigned margins.
 

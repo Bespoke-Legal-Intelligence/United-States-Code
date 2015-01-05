@@ -34,7 +34,7 @@ The Financial Assistance Corporation shall have the power to—
 
 &emsp;(11) borrow from any commercial bank on its own individual responsibility and on such terms and conditions as it may determine with the approval of the Farm Credit Administration;
 
-&emsp;(12) deposit its securities and its current funds with any member bank of the Federal Reserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) and pay fees therefor and receive interest thereon as may be agreed; and
+&emsp;(12) deposit its securities and its current funds with any member bank of the FederalReserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) and pay fees therefor and receive interest thereon as may be agreed; and
 
 &emsp;(13) exercise such other incidental powers as are necessary to carry out its powers, duties, and functions in accordance with its charter and this part.
 
@@ -52,5 +52,5 @@ Subsec. (b). Pub. L. 100–399, §201(b), substituted "exclusive" for "original"
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

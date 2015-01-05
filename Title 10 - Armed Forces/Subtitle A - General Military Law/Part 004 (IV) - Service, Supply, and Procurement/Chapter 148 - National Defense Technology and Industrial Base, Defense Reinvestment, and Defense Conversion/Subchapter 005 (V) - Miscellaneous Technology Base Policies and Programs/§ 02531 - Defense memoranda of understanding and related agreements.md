@@ -42,7 +42,7 @@ Policy.—It is the policy of Congress that procurement regulations used in the 
 
 "(b)
 
-Requirement.—The Secretary of Defense shall make every effort to ensure that the policies and practices of the Department of Defense reflect the goal of establishing an equitable trading relationship between the United States and its foreign defense trade partners, including ensuring that United States firms and United States employment in the defense sector are not disadvantaged by unilateral procurement practices by foreign governments, such as the imposition of offset agreements in a manner that undermines the UnitedStates defense industrial base. In pursuing this goal, the Secretary shall—
+Requirement.—The Secretary of Defense shall make every effort to ensure that the policies and practices of the Department of Defense reflect the goal of establishing an equitable trading relationship between the United States and its foreign defense trade partners, including ensuring that United States firms and United States employment in the defense sector are not disadvantaged by unilateral procurement practices by foreign governments, such as the imposition of offset agreements in a manner that undermines the United States defense industrial base. In pursuing this goal, the Secretary shall—
 
 &emsp;"(1) develop a comprehensive defense acquisition trade policy that provides the necessary guidance and incentives for the elimination of any adverse effects of offset agreements in defense trade; and
 

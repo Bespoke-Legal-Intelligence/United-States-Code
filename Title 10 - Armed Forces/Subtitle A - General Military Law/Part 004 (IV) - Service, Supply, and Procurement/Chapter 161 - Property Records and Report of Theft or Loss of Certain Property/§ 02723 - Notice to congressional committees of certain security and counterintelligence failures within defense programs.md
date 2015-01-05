@@ -6,7 +6,7 @@ Required Notification.—The Secretary of Defense shall submit to the Committees
 
 (b)
 
-Manner of Notification.—Notification of a failure or compromise of classified information under subsection (a) shall be provided, inaccordance with the procedures established pursuant to subsection (c), not later than 30 days after the date on which the Department of Defense determines that the failure or compromise has taken place.
+Manner of Notification.—Notification of a failure or compromise of classified information under subsection (a) shall be provided, in accordance with the procedures established pursuant to subsection (c), not later than 30 days after the date on which the Department of Defense determines that the failure or compromise has taken place.
 
 (c)
 
@@ -16,15 +16,13 @@ Procedures.—The Secretary of Defense and the Committees on Armed Services of t
 
 Statutory Construction.—(1) Nothing in this section shall be construed as authority to withhold any information from the Committees on Armed Services of the Senate and House of Representatives on the grounds that providing the information to those committees would constitute the unauthorized disclosure of classified information, information relating to intelligence sources and methods, or sensitive law enforcement information.
 
-(2) Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 (50 U.S.C. 413).<sup>1</sup>
+(2) Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 (50 U.S.C. 3091).
 
-(Added Pub. L. 106–65, div. A, title X, §1042(a), Oct. 5, 1999, 113 Stat. 759; amended Pub. L. 110–181, div. A, title IX, §931(a)(13), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(12), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
-
-#### References in Text
-
-The National Security Act of 1947, referred to in subsec. (d)(2), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 501 of the Act is now classified to section 3091 of Title 50. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 106–65, div. A, title X, §1042(a), Oct. 5, 1999, 113 Stat. 759; amended Pub. L. 110–181, div. A, title IX, §931(a)(13), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(12), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, §1071(c)(12), Dec. 19, 2014, 128 Stat. 3509.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(2). Pub. L. 113–291 substituted "(50 U.S.C. 3091)" for "(50 U.S.C. 413)".
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(12). See 2008 Amendment note below.
 
@@ -33,6 +31,4 @@ The National Security Act of 1947, referred to in subsec. (d)(2), is act July 26
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided in part that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

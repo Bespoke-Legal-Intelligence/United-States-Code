@@ -30,7 +30,7 @@ General.—It is the policy of the United States—
 
 &emsp;(10) that special emphasis should be placed on converting appropriate former military air bases to civil use and identifying and improving additional joint-use facilities;
 
-&emsp;(11) that the airport improvement program should be administered to encourage projects that employ innovative technology (including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices), concepts, and approaches that will promote safety, capacity, and efficiency improvements in the construction of airports and in the air transportation system (including the development and use of innovative concrete and other materials in the construction of airport facilities to minimize initial laydown costs, minimize time out of service, and maximize lifecycle durability) and to encourage and solicit innovative technology proposals and activities in the expenditure of funding pursuant to this subchapter;
+&emsp;(11) that the airport improvement program should be administered to encourage projects that employ innovative technology (including integrated in-pavement lighting systems for runways and taxiways and other runway andtaxiway incursion prevention devices), concepts, and approaches that will promote safety, capacity, and efficiency improvements in the construction of airports and in the air transportation system (including the development and use of innovative concrete and other materials in the construction of airport facilities to minimize initial laydown costs, minimize time out of service, and maximize lifecycle durability) and to encourage and solicit innovative technology proposals and activities in the expenditure of funding pursuant to this subchapter;
 
 &emsp;(12) that airport fees, rates, and charges must be reasonable and may only be used for purposes not prohibited by this subchapter; and
 
@@ -132,7 +132,7 @@ Consultation.—To carry out the policy of subsection (a)(6) of this section, th
 
 &emsp;(4) another factor affecting the environment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994,108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220; Pub. L. 106–181, title I, §§121(a), (b), 137(a), Apr. 5, 2000, 114 Stat. 74, 85; Pub. L. 112–95, title I, §131, Feb. 14, 2012, 126 Stat. 21.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994, 108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220; Pub. L. 106–181, title I, §§121(a), (b), 137(a), Apr. 5, 2000, 114 Stat. 74, 85; Pub. L. 112–95, title I, §131, Feb. 14, 2012, 126 Stat. 21.)
 
 Historical and Revision Notes
 
@@ -292,7 +292,7 @@ Subsec. (a)(13). Pub. L. 103–305, §110, added par. (13).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -348,7 +348,7 @@ Plan for Installation and Deployment of Systems To Provide Alerts of Potential R
 
 #### Availability of Gates and Other Essential Services
 
-Pub. L. 106–181, title I, §155(d), Apr. 5, 2000, 114 Stat. 89, provided that: "The Secretary \[of Transportation\] shall ensure that gates and other facilities are made available at costs that are fair and reasonable to air carriers at covered airports (as defined in section 47106(f)(4) \[47106(f)(3)\] of title 49, United States Code) where a 'majority-in-interest clause' of a contract or other agreement or arrangement inhibits the ability of the local airport authority to provide or build new gates or other facilities."
+Pub. L. 106–181, title I, §155(d), Apr. 5, 2000, 114 Stat. 89, provided that: "The Secretary \[of Transportation\] shall ensure that gates and other facilities are made available at costs that are fair and reasonable to aircarriers at covered airports (as defined in section 47106(f)(4) \[47106(f)(3)\] of title 49, United States Code) where a 'majority-in-interest clause' of a contract or other agreement or arrangement inhibits the ability of the local airport authority to provide or build new gates or other facilities."
 
 #### Construction of Runways
 

@@ -12,7 +12,7 @@ Exchange Authorized.—(1) The Secretary concerned may enter into an agreement t
 
 (b)
 
-Conditions on Conveyance Authority.—The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real propertyby the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
+Conditions on Conveyance Authority.—The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
 
 (c)
 
@@ -34,7 +34,7 @@ Advance Notice of Use of Authority.—(1) Notice of the proposed use of the conv
 
 &emsp;(B) the waiting period applicable to that notice under paragraph (3) expires.
 
-(3) If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed or realigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title, the Secretary concerned may enter into the agreement under subsection (a) for the conveyance of the property after a period of 21 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title. In the case of other real property to be conveyed under subsection (a), the Secretary concerned may enter into the agreement only after a period of 60 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 45 days has elapsed from the date on which the electronic copy is provided.
+(3) If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed orrealigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title, the Secretary concerned may enter into the agreement under subsection (a) for the conveyance of the property after a period of 21 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title. In the case of other real property to be conveyed under subsection (a), the Secretary concerned may enter into the agreement only after a period of 60 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 45 days has elapsed from the date on which the electronic copy is provided.
 
 (e)
 

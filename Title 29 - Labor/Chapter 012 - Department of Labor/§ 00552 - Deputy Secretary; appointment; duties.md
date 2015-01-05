@@ -28,5 +28,5 @@ Pub. L. 99–619, §2(f)(1), Nov. 6, 1986, 100 Stat. 3492, provided that: "The i
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable toperform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 

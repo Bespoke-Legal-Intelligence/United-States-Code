@@ -12,7 +12,7 @@ Each production credit association shall continue as a Federally chartered instr
 
 #### (2) Articles of association
 
-&emsp;The proposed articles of association shall be forwarded to the Farm Credit Bank for thedistrict accompanied by an agreement to subscribe on behalf of the association for stock in the bank in such amounts as may be required by the bank.
+&emsp;The proposed articles of association shall be forwarded to the Farm Credit Bank for the district accompanied by an agreement to subscribe on behalf of the association for stock in the bank in such amounts as may be required by the bank.
 
 #### (3) Contents of articles
 

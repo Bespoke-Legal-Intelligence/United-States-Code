@@ -38,7 +38,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
-&emsp;(10) Any dollar charge or percentage amount which may be imposed by a creditor solely onaccount of a late payment, other than a deferral or extension charge.
+&emsp;(10) Any dollar charge or percentage amount which may be imposed by a creditor solely on account of a late payment, other than a deferral or extension charge.
 
 &emsp;(11) A statement indicating whether or not the consumer is entitled to a rebate of any finance charge upon refinancing or prepayment in full pursuant to acceleration or otherwise, if the obligation involves a precomputed finance charge. A statement indicating whether or not a penalty will be imposed in those same circumstances if the obligation involves a finance charge computed from time to time by application of a rate to the unpaid principal balance.
 
@@ -258,7 +258,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;&emsp;(ii) provide for clear and conspicuous disclosures;
 
-&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to comparesuch terms among private education loans; and
+&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to compare such terms among private education loans; and
 
 &emsp;&emsp;&emsp;(iv) be succinct, and use an easily readable type font.
 
@@ -330,7 +330,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;Paragraph (1) shall not apply to any fixed rate residential mortgage loan where the creditor, assignee, or servicer provides the obligor with a coupon book that provides the obligor with substantially the same information as required in paragraph (1).
 
-(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31,1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
+(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
 
 #### References in Text
 
@@ -402,7 +402,7 @@ Pub. L. 110–289, div. B, title V, §2502(c), July 30, 2008, 122 Stat. 2857, pr
 
 "(1)
 
-General disclosures.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall become effective 12 months after the date of enactment of this Act \[July 30, 2008\].
+General disclosures.—Except as provided in paragraph (2), the amendments made by subsection (a)\[amending this section\] shall become effective 12 months after the date of enactment of this Act \[July 30, 2008\].
 
 "(2)
 
@@ -418,7 +418,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Regulations
 

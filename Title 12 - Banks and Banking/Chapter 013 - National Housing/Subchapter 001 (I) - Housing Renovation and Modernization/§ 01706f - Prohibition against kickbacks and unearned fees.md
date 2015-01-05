@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (d) Unfair and deceptive practices
 
-In connection with the purchase of a manufactured home financed with a loan or extension of credit insured by the Federal Housing Administration under this subchapter, the Secretary shall prohibit acts or practices in connection with loans or extensions of credit that the Secretary finds to be unfair, deceptive, or otherwise not in the interests of the borrower.
+In connection with the purchase of a manufactured home financed with a loan or extension ofcredit insured by the Federal Housing Administration under this subchapter, the Secretary shall prohibit acts or practices in connection with loans or extensions of credit that the Secretary finds to be unfair, deceptive, or otherwise not in the interests of the borrower.
 
 (June 27, 1934, ch. 847, title I, §10, as added Pub. L. 110–289, div. B, title I, §2149, July 30, 2008, 122 Stat. 2847.)
 

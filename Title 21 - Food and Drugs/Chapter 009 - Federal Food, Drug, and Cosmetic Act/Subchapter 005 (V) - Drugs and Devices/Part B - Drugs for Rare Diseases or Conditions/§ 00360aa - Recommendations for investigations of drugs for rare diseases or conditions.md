@@ -48,7 +48,7 @@ Pub. L. 111–80, title VII, §740, Oct. 21, 2009, 123 Stat. 2127, provided that
 
 &emsp;"(1) submit, not later than 1 year after the date of the establishment of review groups under subsections (a) and (b), a report to Congress that describes both the findings and recommendations made by the review groups under subsections (a) and (b);
 
-&emsp;"(2) issue, not later than 180 days after submission of the report to Congress under paragraph (1), guidance based on such recommendations for articles for use in the prevention, diagnosis, and treatment of rare diseases and for such uses in neglected diseases of the developing world; and
+&emsp;"(2) issue, not later than 180 days after submission of the report to Congress under paragraph (1), guidance based on such recommendations for articles for use in the prevention, diagnosis, and treatment ofrare diseases and for such uses in neglected diseases of the developing world; and
 
 &emsp;"(3) develop, not later than 180 days after submission of the report to Congress under paragraph (1), internal review standards based on such recommendations for articles for use in the prevention, diagnosis, and treatment of rare diseases and for such uses in neglected diseases of the developing world."
 

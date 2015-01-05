@@ -10,7 +10,7 @@ The President shall designate, within the Department of State, a coordinator who
 
 &emsp;(3) pursuing coordination with other countries and international organizations with respect to assistance to independent states;
 
-&emsp;(4) ensuring that United States assistance programs for the independent states are consistent with this Act (including the amendments made by this Act and chapter 12 of partI of the Foreign Assistance Act of 1961 \[22 U.S.C. 2296 et seq.\]);
+&emsp;(4) ensuring that United States assistance programs for the independent states are consistent with this Act (including the amendments made by this Act and chapter 12 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2296 et seq.\]);
 
 &emsp;(5) ensuring proper management, implementation, and oversight by agencies responsible for assistance programs for the independent states; and
 
@@ -18,11 +18,11 @@ The President shall designate, within the Department of State, a coordinator who
 
 #### (b) Export promotion activities
 
-Consistent with subsection (a) of this section, coordination of activities related to the promotion of exports of United States goods and services to the independent states of the former Soviet Union shall continue to be primarily the responsibility of the Secretary of Commerce, in the Secretary's role as Chair of the Trade Promotion Coordination Committee.
+Consistent with subsection (a), coordination of activities related to the promotion of exports of United States goods and services to the independent states of the former Soviet Union shall continue to be primarily the responsibility of the Secretary of Commerce, in the Secretary's role as Chair of the Trade Promotion Coordination Committee.
 
 #### (c) International economic activities
 
-Consistent with subsection (a) of this section, coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary's role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
+Consistent with subsection (a), coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary's role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
 
 #### (d) Accountability for funds
 
@@ -212,7 +212,7 @@ Pub. L. 102–511, title X, §1007, Oct. 24, 1992, 106 Stat. 3361, directed Secr
 
 Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, §3, Dec. 12, 1996, 61 F.R. 66187; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §10(1), Mar. 31, 1999, 64 F.R. 16598, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the "Act") \[22 U.S.C. 5801 et seq.\], theForeign Assistance Act of 1961, as amended (the "Foreign Assistance Act") \[22 U.S.C. 2151 et seq.\], the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1993 (Public Law 102–391) \[see Tables for classification\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the "Act") \[22 U.S.C. 5801 et seq.\], the Foreign Assistance Act of 1961, as amended (the "Foreign Assistance Act") \[22 U.S.C. 2151 et seq.\], the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1993 (Public Law 102–391) \[see Tables for classification\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Secretary of State</i>. (a) There are delegated to the Secretary of State the functions conferred upon the President by:
 

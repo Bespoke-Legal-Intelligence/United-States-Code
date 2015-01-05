@@ -52,7 +52,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub.L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date of 1959 Amendment
 
@@ -82,7 +82,19 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
 
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2337.
+
+Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
+
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 889, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter."
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2337.
+
+Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
 
 #### Elimination of User Fee for Requests to IRS Regarding Pension Plans
 
@@ -218,7 +230,7 @@ Savings Provisions.—
 
 &emsp;"(1)
 
-Preservation of specific tax rights and remedies.—Nothing in the plan developed and implemented under subsection (a) shall be considered to impair any right or remedy, including trial by jury, to recover any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or any penalty claimed to have been collected without authority, or any sum alleged to have been excessive or in any manner wrongfully collected under the internal revenue laws. For the purpose of any action to recover any such tax, penalty, or sum, all statutes, rules, and regulations referring to the collector of internal revenue, the principal officer for the internalrevenue district, or the Secretary, shall be deemed to refer to the officer whose act or acts referred to in the preceding sentence gave rise to such action. The venue of any such action shall be the same as under existing law.
+Preservation of specific tax rights and remedies.—Nothing in the plan developed and implemented under subsection (a) shall be considered to impair any right or remedy, including trial by jury, to recover any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or any penalty claimed to have been collected without authority, or any sum alleged to have been excessive or in any manner wrongfully collected under the internal revenue laws. For the purpose of any action to recover any such tax, penalty, or sum, all statutes, rules, and regulations referring to the collector of internal revenue, the principal officer for the internal revenue district, or the Secretary, shall be deemed to refer to the officer whose act or acts referred to in the preceding sentence gave rise to such action. The venue of any such action shall be the same as under existing law.
 
 &emsp;"(2)
 
@@ -526,7 +538,7 @@ Staff of the Commission.—
 
 &emsp;"(1)
 
-In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enablethe Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 &emsp;"(2)
 
@@ -570,7 +582,7 @@ Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 sh
 
 \[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(f)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: "The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\]."\]
 
-\[Pub. L. 104–134, title II, §2904(b), Apr. 26, 1996, 110 Stat. 1321–333, provided that: "The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\]."\]
+\[Pub. L. 104–134, title II, §2904(b), Apr. 26, 1996, 110 Stat. 1321–333, provided that: "The amendments madeby this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\]."\]
 
 #### Fees for Services Rendered
 

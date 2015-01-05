@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) "mortgage" means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument under which any interest in property, real, personal or mixed, or any interest in property including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subjectto a lien, for the purpose of securing the payment of money or the performance of an obligation;
+&emsp;(1) "mortgage" means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument under which any interest in property, real, personal or mixed, or any interest in property including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien, for the purpose of securing the payment of money or the performance of an obligation;
 
 &emsp;(2) "multifamily mortgage" means a mortgage held by the Secretary pursuant to—
 
@@ -36,7 +36,7 @@ As used in this chapter—
 
 #### References in Text
 
-The National Housing Act, referred to in par. (2)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§1749aa et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–235, title I, §133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (2)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended.Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§1749aa et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–235, title I, §133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 Section 312 of the Housing Act of 1964, referred to in par. (2)(B), is section 312 of Pub. L. 88–560, which was classified to section 1452b of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 101–625, title II, §289(b)(1), Nov. 28, 1990, 104 Stat. 4128.
 

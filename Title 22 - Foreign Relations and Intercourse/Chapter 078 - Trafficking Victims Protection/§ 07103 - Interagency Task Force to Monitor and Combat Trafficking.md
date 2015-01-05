@@ -74,7 +74,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;&emsp;(iii) prohibitions on the procurement by the United States Government of items or services produced by slave labor, consistent with Executive Order 13107 (December 10, 1998);
 
-&emsp;&emsp;(O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and
+&emsp;&emsp;(O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and <sup>2</sup>
 
 &emsp;&emsp;(P) the activities undertaken by Federal agencies to train appropriate State, tribal, and local government and law enforcement officials to identify victims of severe forms of trafficking, including both sex and labor trafficking;
 
@@ -305,4 +305,6 @@ Sec. 8. <i>Judicial Review</i>. This order does not create any rights or benefit
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

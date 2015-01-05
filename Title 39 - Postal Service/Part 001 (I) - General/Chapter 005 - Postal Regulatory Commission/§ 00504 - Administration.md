@@ -1,6 +1,6 @@
 ### §504. Administration
 
-(a) The Chairman of the Postal Regulatory Commission shall be the principal executive officer of the Commission. The Chairman shall exercise or direct the exercise of all the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment of personnel employed under the Commission, except that the appointment of heads of major administrative units under the Commission shall require the approval of a majority of the members of the Commission, (2) the supervision of the personnel employed under the Commission and the distribution of business among them and among the Commissioners, and (3) the use and expenditure of funds.
+(a) The Chairman of the Postal Regulatory Commission shall be the principal executive officer of the Commission. The Chairman shall exercise or direct the exercise of all the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment of personnel employed under the Commission, except that the appointment of heads of major administrative units under the Commission shall requirethe approval of a majority of the members of the Commission, (2) the supervision of the personnel employed under the Commission and the distribution of business among them and among the Commissioners, and (3) the use and expenditure of funds.
 
 (b) In carrying out any of his functions under this section, the Chairman shall be governed by the general policies of the Commission.
 
@@ -60,7 +60,7 @@ Subsecs. (f), (g). Pub. L. 109–435, §602, added subsecs. (f) and (g).
 
 Subsec. (h). Pub. L. 109–435, §605(b), added subsec. (h).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–421 increased the authority of the Chairman to the exercise of all executive and administrative functions, including appointment ofpersonnel and control over use and expenditure of funds, and struck out requirement that all final acts of the Commissioners be by a vote of an absolute majority.
+<b>1976</b>—Subsec. (a). Pub. L. 94–421 increased the authority of the Chairman to the exercise of all executive and administrative functions, including appointment of personnel and control over use and expenditure of funds, and struck out requirement that all final acts of the Commissioners be by a vote of an absolute majority.
 
 Subsec. (b). Pub. L. 94–421 added subsec. (b). Former subsec. (b) redesignated (c) and amended.
 

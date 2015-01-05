@@ -14,9 +14,9 @@ R.S. §48 derived from act Sept. 30, 1850, ch. 90, §1, 9 Stat. 523.
 
 R.S. §47 constitutes first clause and R.S. §48 constitutes remainder.
 
-Words “mileage accounts” substituted for words “accounts for traveling expenses in going to and returning from Congress” based on text of section 17 of act July 28, 1866, ch. 296, 14 Stat. 323.
+Words "mileage accounts" substituted for words "accounts for traveling expenses in going to and returning from Congress" based on text of section 17 of act July 28, 1866, ch. 296, 14 Stat. 323.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–447 substituted “of Representatives and Delegates shall be certified” for “of Senators shallbe certified by the President of the Senate, and those of Representatives and Delegates”.
+<b>2004</b>—Pub. L. 108–447 substituted "of Representatives and Delegates shall be certified" for "of Senators shall be certified by the President of the Senate, and those of Representatives and Delegates".
 

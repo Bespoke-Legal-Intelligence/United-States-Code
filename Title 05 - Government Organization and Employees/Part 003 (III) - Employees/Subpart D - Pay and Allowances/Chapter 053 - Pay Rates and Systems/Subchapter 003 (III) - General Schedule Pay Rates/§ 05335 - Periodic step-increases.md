@@ -1,6 +1,6 @@
 ### §5335. Periodic step-increases
 
-(a) An employee paid on an annual basis, and occupying a permanent position within thescope of the General Schedule, who has not reached the maximum rate of pay for the grade in which his position is placed, shall be advanced in pay successively to the next higher rate within the grade at the beginning of the next pay period following the completion of—
+(a) An employee paid on an annual basis, and occupying a permanent position within the scope of the General Schedule, who has not reached the maximum rate of pay for the grade in which his position is placed, shall be advanced in pay successively to the next higher rate within the grade at the beginning of the next pay period following the completion of—
 
 &emsp;(1) each 52 calendar weeks of service in pay rates 1, 2, and 3;
 
@@ -16,7 +16,7 @@
 
 (b) Under regulations prescribed by the Office of Personnel Management, the benefit of successive step-increases shall be preserved for employees whose continuous service is interrupted in the public interest by service with the armed forces or by service in essential non-Government civilian employment during a period of war or national emergency.
 
-(c) When a determination is made under subsection (a) of this section that the work of an employee is not of an acceptable level of competence, the employee is entitled to prompt written notice of that determination and an opportunity for reconsideration of the determination within his agency under uniform procedures prescribed by the Office of Personnel Management. If the determination is affirmed on reconsideration, the employee is entitled to appeal to the Merit Systems Protection Board. If the reconsideration or appeal results in a reversal of the earlier determination, the new determination supersedes the earlier determination and is deemed to have been made as of the date of the earlier determination. The authority of the Office to prescribe procedures and the entitlement of the employee to appeal to the Board do not apply to a determination of acceptable level of competence made by the Librarian of Congress.
+(c) When a determination is made under subsection (a) of this section that the work of an employee is not of an acceptable level of competence, the employee is entitled to prompt written notice of that determination and an opportunity for reconsideration of the determination within his agency under uniform procedures prescribed by the Office of Personnel Management. If the determination is affirmed on reconsideration, the employee is entitled to appeal to the Merit Systems Protection Board. If the reconsideration or appeal results in a reversal of the earlier determination, the new determination supersedes the earlier determination and is deemed to have been made as of the date of theearlier determination. The authority of the Office to prescribe procedures and the entitlement of the employee to appeal to the Board do not apply to a determination of acceptable level of competence made by the Librarian of Congress.
 
 (d) An increase in pay granted by statute is not an equivalent increase in pay within the meaning of subsection (a) of this section.
 
@@ -42,17 +42,17 @@ Act
 
 5 U.S.C. 1121.
 
-Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 701”, 76 Stat. 847.
+Oct. 11, 1962, Pub. L. 87–793, §603 "Sec. 701", 76 Stat. 847.
 
 (d)
 
 5 U.S.C. 1123 (as applicable to 5 U.S.C. 1121).
 
-Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 703 (as applicable to §701)”, 76 Stat. 847.
+Oct. 11, 1962, Pub. L. 87–793, §603 "Sec. 703 (as applicable to §701)", 76 Stat. 847.
 
-In subsection (a), the words “General Schedule” are substituted for “compensation schedules fixed by this chapter” since the General Schedule is now the only compensation schedule in that chapter. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
+In subsection (a), the words "General Schedule" are substituted for "compensation schedules fixed by this chapter" since the General Schedule is now the only compensation schedule in that chapter. The word "scheduled" is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
 
-In subsection (a)(B), the words “except a hearing examiner appointed under section 3105 of this title” are added on authority of the third sentence of former section 1010 and the fifth sentence of former section 1011, which are carried into sections 5362 and 559, respectively, and of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
+In subsection (a)(B), the words "except a hearing examiner appointed under section 3105 of this title" are added on authority of the third sentence of former section 1010 and the fifth sentence of former section 1011, which are carried into sections 5362 and 559, respectively, and of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
 Title VII (sections 701–705) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 967–969, as amended by the following Acts is omitted from the derivation and repealed (see Table II) as superseded by the Act of Oct. 11, 1962, Pub. L. 87–793, §603, 76 Stat. 847, which is carried into this section and section 5336:
 
@@ -84,7 +84,7 @@ Act
 
 Oct. 29, 1965, Pub. L. 89–301, §3, 79 Stat. 1112.
 
-The word “officer” is omitted as included in “employee”, and the word “agency” is substituted for “department” to conform to the definition in 5 U.S.C. 5331.
+The word "officer" is omitted as included in "employee", and the word "agency" is substituted for "department" to conform to the definition in 5 U.S.C. 5331.
 
 #### References in Text
 
@@ -92,23 +92,23 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 #### Amendments
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–89, §3(b)(1)(H)(i), struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
+<b>1993</b>—Subsec. (e). Pub. L. 103–89, §3(b)(1)(H)(i), struck out "covered by the performance management and recognition system established under chapter 54 of this title, or," after "individual".
 
-Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section,was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
+Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section, was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title."
 
-<b>1990</b>—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed under section 3105 of this title,” after “work of the employee”.
+<b>1990</b>—Subsec. (a)(B). Pub. L. 101–509 struck out ", except an administrative law judge appointed under section 3105 of this title," after "work of the employee".
 
 Subsec. (g). Pub. L. 101–508 added subsec. (g).
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–615, §204(a)(1), substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–615, §204(a)(1), substituted "the performance management and recognition system established under chapter 54" for "the merit pay system established under section 5402".
 
 Subsec. (f). Pub. L. 98–615, §203, added subsec. (f).
 
-<b>1979</b>—Subsec. (a)(3)(B). Pub. L. 96–54 substituted “an administrative law judge” for “a administrative law judge”.
+<b>1979</b>—Subsec. (a)(3)(B). Pub. L. 96–54 substituted "an administrative law judge" for "a administrative law judge".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–251 substituted "administrative law judge" for "hearing examiner".
 
-Subsec. (b). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+Subsec. (b). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
 Subsec. (c). Pub. L. 95–454, §906(a)(8), substituted references to Office of Personnel Management and Merit Systems Protection Board and Office and Board, respectively, for references to Civil Service Commission wherever appearing in text.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that isnot described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -144,5 +144,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Pay Increases Deemed Equivalent Increases in Pay
 
-Pub. L. 103–89, §5(a), Sept. 30, 1993, 107 Stat. 984, provided that: “Notwithstanding the amendment made by section 3(b)(1)(H)(ii) \[amending this section\], an increase in pay granted under section 5404 of title 5, United States Code, before November 1, 1993, shall be deemed to be an equivalent increase in pay within the meaning of section 5335(a) of such title.”
+Pub. L. 103–89, §5(a), Sept. 30, 1993, 107 Stat. 984, provided that: "Notwithstanding the amendment made by section 3(b)(1)(H)(ii) \[amending this section\], an increase in pay granted under section 5404 of title 5, United States Code, before November 1, 1993, shall be deemed to be an equivalent increase in pay within the meaning of section 5335(a) of such title."
 

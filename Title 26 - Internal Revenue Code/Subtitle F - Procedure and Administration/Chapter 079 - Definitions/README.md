@@ -8,10 +8,13 @@
 | [7702B.](%C2%A7%2007702B%20-%20Treatment%20of%20qualified%20long-term%20care%20insurance.md) | Treatment of qualified long-term care insurance. |
 | [7703\.](%C2%A7%2007703%20-%20Determination%20of%20marital%20status.md) | Determination of marital status. |
 | [7704\.](%C2%A7%2007704%20-%20Certain%20publicly%20traded%20partnerships%20treated%20as%20corporations.md) | Certain publicly traded partnerships treated as corporations. |
+| [7705\.](%C2%A7%2007705%20-%20Certified%20professional%20employer%20organizations.md) | Certified professional employer organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. B, title II, §206(d)(2), Dec. 19, 2014, 128 Stat. 4071, added item 7705.
 
 <b>1996</b>—Pub. L. 104–191, title III, §321(e), Aug. 21, 1996, 110 Stat. 2059, added item 7702B.
 
@@ -34,3 +37,4 @@
 - [&sect; 07702B - Treatment of qualified long-term care insurance](%C2%A7%2007702B%20-%20Treatment%20of%20qualified%20long-term%20care%20insurance.md)
 - [&sect; 07703 - Determination of marital status](%C2%A7%2007703%20-%20Determination%20of%20marital%20status.md)
 - [&sect; 07704 - Certain publicly traded partnerships treated as corporations](%C2%A7%2007704%20-%20Certain%20publicly%20traded%20partnerships%20treated%20as%20corporations.md)
+- [&sect; 07705 - Certified professional employer organizations](%C2%A7%2007705%20-%20Certified%20professional%20employer%20organizations.md)

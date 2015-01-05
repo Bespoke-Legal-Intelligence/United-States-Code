@@ -1,6 +1,6 @@
 ### §§1870 to 1876. Repealed. Pub. L. 87–195, pt. III, §642(a)(2), (4), Sept. 4, 1961, 75 Stat. 460
 
-Section 1870, act July 18, 1956, ch. 627, §14, 70 Stat. 566, stated Congressional declaration of policy to promote economic development of underdeveloped countries. See section 2151 of this title.
+Section 1870, act July 18, 1956, ch. 627, §14, 70 Stat. 566, stated Congressional declaration of policy to promoteeconomic development of underdeveloped countries. See section 2151 of this title.
 
 Section 1871, act Aug. 26, 1954, ch. 937, ch. II, §201, as added Aug. 14, 1957, Pub. L. 85–141, §6, 71 Stat. 357; amended May 14, 1960, Pub. L. 86–472, ch. II, §202(a), 74 Stat. 135, stated Congressional declaration of purpose for development loan program. See section 2151 of this title.
 

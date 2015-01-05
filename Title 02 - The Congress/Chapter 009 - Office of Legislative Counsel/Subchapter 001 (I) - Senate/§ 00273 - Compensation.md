@@ -10,7 +10,7 @@ Provisions setting forth authority for the allocation of the positions of legisl
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a gross annual compensation of $38,760 per annum” as the rate of compensation of the Legislative Counsel of the Senate, effective July 1, 1975.
+<b>1975</b>—Pub. L. 94–59 substituted "an annual rate of compensation of $40,000" for "a gross annual compensation of $38,760 per annum" as the rate of compensation of the Legislative Counsel of the Senate, effective July 1, 1975.
 
 <b>1974</b>—Pub. L. 93–371 substituted provisions authorizing the Legislative Counsel of the Senate to be paid at an annual rate of compensation of $38,760, for provisions setting forth the gross annual compensation of the Legislative Counsel as $27,500 per annum, effective July 1, 1974.
 
@@ -22,13 +22,13 @@ Provisions setting forth authority for the allocation of the positions of legisl
 
 <b>1949</b>—Act Oct. 15, 1949, increased the compensation of the Legislative Counsel of both House and the Senate from $10,000 to $12,000 per annum.
 
-<b>1941</b>—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate”.
+<b>1941</b>—Act Sept. 20, 1941, substituted "President pro tempore of the Senate" for "President of the Senate".
 
 <b>1940</b>—Act June 18, 1940, provided that thereafter the compensation of the Legislative Counsel of the Senate shall be at the rate of $10,000 per annum so long as the present incumbent held the position.
 
 #### Effective Date of 1949 Amendment
 
-Act Oct. 15, 1949, ch. 695, §9, 63 Stat. 882, provided that: “This Act shall take effect on the first day of the first pay period which begins after the date of enactment of this Act \[Oct. 15, 1949\].”
+Act Oct. 15, 1949, ch. 695, §9, 63 Stat. 882, provided that: "This Act shall take effect on the first day of the first pay period which begins after the date of enactment of this Act \[Oct. 15, 1949\]."
 
 #### Repeals
 

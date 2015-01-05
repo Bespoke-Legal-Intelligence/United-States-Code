@@ -2,7 +2,7 @@
 
 (a)
 
-Affirmative Defense.—It is an affirmative defense in a trial by military commissionunder this chapter that, at the time of the commission of the acts constituting the offense, the accused, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of the acts. Mental disease or defect does not otherwise constitute a defense.
+Affirmative Defense.—It is an affirmative defense in a trial by military commission under this chapter that, at the time of the commission of the acts constituting the offense, the accused, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of the acts. Mental disease or defect does not otherwise constitute a defense.
 
 (b)
 

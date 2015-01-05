@@ -12,7 +12,7 @@ On the exportation of distilled spirits or wines manufactured, produced, bottled
 
 #### (1) Allowance of tax
 
-&emsp;Upon the exportation of imported distilled spirits, wines, and beer upon which the duties and internal revenue taxes have been paid or determined incident to their importation into the United States, and which have been found after entry to be unmerchantable or not to conform to sample or specifications, and which have been returned to customs custody,the Secretary shall, under such regulations as he shall prescribe, refund, remit, abate, or credit, without interest, to the importer thereof, the full amount of the internal revenue taxes paid or determined with respect to such distilled spirits, wines, or beer.
+&emsp;Upon the exportation of imported distilled spirits, wines, and beer upon which the duties and internal revenue taxes have been paid or determined incident to their importation into the United States, and which have been found after entry to be unmerchantable or not to conform to sample or specifications, and which have been returned to customs custody, the Secretary shall, under such regulations as he shall prescribe, refund, remit, abate, or credit, without interest, to the importer thereof, the full amount of the internal revenue taxes paid or determined with respect to such distilled spirits, wines, or beer.
 
 #### (2) Destruction in lieu of exportation
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days after Nov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
+Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days afterNov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
 
 #### Effective Date of 1968 Amendment
 

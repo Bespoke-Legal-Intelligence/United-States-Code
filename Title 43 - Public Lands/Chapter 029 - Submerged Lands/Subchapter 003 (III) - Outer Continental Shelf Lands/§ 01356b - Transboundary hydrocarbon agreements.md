@@ -34,7 +34,7 @@ The Secretary may take actions as necessary to implement the terms of the Agreem
 
 &emsp;(1) approving unitization agreements and related arrangements for the exploration, development, or production of oil and natural gas from transboundary reservoirs or geological structures;
 
-&emsp;(2) making available, in the limited manner necessary under the agreement and subject to the protections of confidentiality provided by the agreement, information relating to the exploration, development, and production of oil and natural gas from a transboundary reservoir or geological structure that may be considered confidential, privileged, or proprietary information under law;
+&emsp;(2) making available, in the limited manner necessary under the agreement and subject to the protections of confidentiality provided by the agreement, information relating to the exploration, development, and production of oiland natural gas from a transboundary reservoir or geological structure that may be considered confidential, privileged, or proprietary information under law;
 
 &emsp;(3) taking actions consistent with an expert determination under the agreement; and
 

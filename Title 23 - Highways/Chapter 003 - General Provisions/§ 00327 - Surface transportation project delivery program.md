@@ -14,7 +14,7 @@ Assumption of responsibility.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to the other provisions of this section, with the written agreement of the Secretary and a State, which may be in the form of a memorandum of understanding, the Secretary may assign, and the State may assume, the responsibilities of the Secretary with respect to one or more highway projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+In general.—Subject to the other provisions of this section, with the writtenagreement of the Secretary and a State, which may be in the form of a memorandum of understanding, the Secretary may assign, and the State may assume, the responsibilities of the Secretary with respect to one or more highway projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 &emsp;&emsp;(B)
 
@@ -68,7 +68,7 @@ Application.—Not later than 270 days after the date on which amendments to thi
 
 &emsp;&emsp;(B) verification of the financial resources necessary to carry out the authority that may be granted under the program; and
 
-&emsp;&emsp;(C) evidence of the notice and solicitation of public comment by the State relating to participation of the State in the program,including copies of comments received from that solicitation.
+&emsp;&emsp;(C) evidence of the notice and solicitation of public comment by the State relating to participation of the State in the program, including copies of comments received from that solicitation.
 
 &emsp;(3)
 
@@ -194,7 +194,7 @@ Termination by the secretary.—The Secretary may terminate the participation of
 
 &emsp;&emsp;&emsp;(i) notification of the determination of noncompliance; and
 
-&emsp;&emsp;&emsp;(ii) a period of at least 30 days during which to take such corrective action asthe Secretary determines is necessary to comply with the applicable agreement; and
+&emsp;&emsp;&emsp;(ii) a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
 
 &emsp;&emsp;(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 

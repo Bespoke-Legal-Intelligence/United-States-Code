@@ -80,7 +80,7 @@ A service provider to a person described in subsection (a) shall be subject to t
 
 #### (A) Request
 
-&emsp;&emsp;If the proposed supervisory determinations of the Bureau and a prudential regulator (in this section referred to collectively as the "agencies") are conflicting, an insured depository institution, insured credit union, orother covered person described in subsection (a) may request the agencies to coordinate and present a joint statement of coordinated supervisory action.
+&emsp;&emsp;If the proposed supervisory determinations of the Bureau and a prudential regulator (in this section referred to collectively as the "agencies") are conflicting, an insured depository institution, insured credit union, or other covered person described in subsection (a) may request the agencies to coordinate and present a joint statement of coordinated supervisory action.
 
 #### (B) Joint statement
 

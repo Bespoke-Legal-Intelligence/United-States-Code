@@ -46,7 +46,7 @@
 
 #### (b) Other members
 
-In addition to the members appointed under subsection (a) of this section, the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.
+In addition to the members appointed under subsection (a), the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.
 
 #### (c) Chair
 
@@ -64,11 +64,11 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (3) Vacancies
 
-&emsp;A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member's predecessor.
+&emsp;A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member's predecessor.
 
 (Pub. L. 106–474, title I, §122, Nov. 9, 2000, 114 Stat. 2088; Pub. L. 110–336, §2(a)(2), Oct. 2, 2008, 122 Stat. 3726.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(2). Pub. L. 110–336 amended par. (2) generally. Prior to amendment, text of par. (2) read as follows: “The Librarian shall have the authority to remove any member of the Board (or, in the case of a member appointed under subsection (a)(1) of this section, the organization that such member represents) if the member or organization over any consecutive 2-year period fails to attend at least one regularly scheduled Board meeting.”
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–336 amended par. (2) generally. Prior to amendment, text of par. (2) read as follows: "The Librarian shall have the authority to remove any member of the Board (or, in the case of a member appointed under subsection (a)(1) of this section, the organization that such member represents) if the member or organization over any consecutive 2-year period fails to attend at least one regularly scheduled Board meeting."
 

@@ -8,7 +8,7 @@ Section 2475a, Pub. L. 106–391, title I, §126, Oct. 30, 2000, 114 Stat. 1585,
 
 Section 2475b, Pub. L. 106–391, title III, §305, Oct. 30, 2000, 114 Stat. 1592, related to foreign contract limitation. See section 30702 of Title 51.
 
-Section 2476, Pub. L. 85–568, title II, §206, July 29, 1958, 72 Stat. 432; Pub. L. 92–68, §7, Aug. 6, 1971, 85 Stat. 177;Pub. L. 106–391, title III, §302(b), Oct. 30, 2000, 114 Stat. 1591, related to reports to Congress. See section 20116 of Title 51.
+Section 2476, Pub. L. 85–568, title II, §206, July 29, 1958, 72 Stat. 432; Pub. L. 92–68, §7, Aug. 6, 1971, 85 Stat. 177; Pub. L. 106–391, title III, §302(b), Oct. 30, 2000, 114 Stat. 1591, related to reports to Congress. See section 20116 of Title 51.
 
 Section 2476a, Pub. L. 85–568, title II, §207, as added Pub. L. 93–74, §7, July 23, 1973, 87 Stat. 175; amended Pub. L. 103–437, §15(j), Nov. 2, 1994, 108 Stat. 4593, related to disposal of excess land and approval by congressional committees. See section 20117 of Title 51.
 

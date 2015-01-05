@@ -10,7 +10,7 @@ The Board of Directors of the Association shall take or cause to be taken all su
 
 #### (b) Shareholder approval
 
-The plan of reorganization adopted by the Board of Directors pursuant to subsection (a) of this section shall be submitted to commonshareholders of the Association for their approval. The reorganization shall occur on the reorganization effective date, provided that the plan of reorganization has been approved by the affirmative votes, cast in person or by proxy, of the holders of a majority of the issued and outstanding shares of the Association common stock.
+The plan of reorganization adopted by the Board of Directors pursuant to subsection (a) of this section shall be submitted to common shareholders of the Association for their approval. The reorganization shall occur on the reorganization effective date, provided that the plan of reorganization has been approved by the affirmative votes, cast in person or by proxy, of the holders of a majority of the issued and outstanding shares of the Association common stock.
 
 #### (c) Transition
 
@@ -36,7 +36,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to prohibit the Association from transferring remaining property from time to time to the Holding Company or any subsidiary of the Holding Company, subject to the provisions of paragraph (4).
+&emsp;&emsp;Nothing in this paragraph shall be construed to prohibit the Association fromtransferring remaining property from time to time to the Holding Company or any subsidiary of the Holding Company, subject to the provisions of paragraph (4).
 
 #### (3) Transfer of personnel
 
@@ -62,7 +62,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 &emsp;&emsp;&emsp;(iii) the Association serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title; and
 
-&emsp;&emsp;&emsp;(iv) the Association's purchase of loans insured under this part, if the Secretary, with the approval of the Secretary of the Treasury, enters into an agreement with the Association for the continuation or resumption of the Association's secondarymarket purchase program because the Secretary determines there is inadequate liquidity for loans made under this part.
+&emsp;&emsp;&emsp;(iv) the Association's purchase of loans insured under this part, if the Secretary, with the approval of the Secretary of the Treasury, enters into an agreement with the Association for the continuation or resumption of the Association's secondary market purchase program because the Secretary determines there is inadequate liquidity for loans made under this part.
 
 #### (B) Agreement
 
@@ -84,7 +84,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Summary reports
 
-&emsp;&emsp;The Secretary of the Treasury may require summary reports of the information described in subparagraph (A) to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and subparagraph (A), require the Association to make reports concerning the activities of any associated person whose business activities are reasonably likely to have a material impact on the financial or operational condition of the Association.
+&emsp;&emsp;The Secretary of the Treasury may require summary reports of the information described in subparagraph (A) to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and subparagraph (A), require the Association to make reports concerning the activities of any associated person whose business activities are reasonably likely tohave a material impact on the financial or operational condition of the Association.
 
 #### (C) Separate operation of corporations
 
@@ -122,7 +122,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (D) Encumbrance of assets
 
-&emsp;&emsp;Notwithstanding any Federal or State law, rule, or regulation, or legal or equitableprinciple, doctrine, or theory to the contrary, under no circumstances shall the assets of the Association be available or used to pay claims or debts of or incurred by the Holding Company. Nothing in this subparagraph shall be construed to limit the right of the Association to pay dividends not otherwise prohibited under this subparagraph or to limit any liability of the Holding Company explicitly provided for in this section.
+&emsp;&emsp;Notwithstanding any Federal or State law, rule, or regulation, or legal or equitable principle, doctrine, or theory to the contrary, under no circumstances shall the assets of the Association be available or used to pay claims or debts of or incurred by the Holding Company. Nothing in this subparagraph shall be construed to limit the right of the Association to pay dividends not otherwise prohibited under this subparagraph or to limit any liability of the Holding Company explicitly provided for in this section.
 
 #### (E) Holding Company activities
 
@@ -160,7 +160,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (1) Establishment of a trust
 
-&emsp;The Association shall, under the terms of an irrevocable trust agreement that is in form and substance satisfactory to the Secretary of the Treasury, the Association and the appointed trustee, irrevocably transfer all remaining obligations of the Association to the trust and irrevocably deposit or cause to be deposited into such trust, to be held as trust funds solely for the benefit of holders of the remaining obligations, money or direct noncallable obligations of the United States or any agency thereof for which payment the full faith and credit of the United States is pledged, maturing as to principal and interest in such amounts and at such times as are determined by the Secretary of the Treasury to be sufficient, without consideration of any significant reinvestment of such interest, to pay the principal of, and interest on, the remaining obligations in accordance with theirterms. To the extent the Association cannot provide money or qualifying obligations in the amount required, the Holding Company shall be required to transfer money or qualifying obligations to the trust in the amount necessary to prevent any deficiency.
+&emsp;The Association shall, under the terms of an irrevocable trust agreement that is in form and substance satisfactory to the Secretary of the Treasury, the Association and the appointed trustee, irrevocably transfer all remaining obligations of the Association to the trust and irrevocably deposit or cause to be deposited into such trust, to be held as trust funds solely for the benefit of holders of the remaining obligations, money or direct noncallable obligations of the United States or any agency thereof for which payment the full faith and credit of the United States is pledged, maturing as to principal and interest in such amounts and at such times as are determined by the Secretary of the Treasury to be sufficient, without consideration of any significant reinvestment of such interest, to pay the principal of, and interest on, the remaining obligations in accordance with their terms. To the extent the Association cannot provide money or qualifying obligations in the amount required, the Holding Company shall be required to transfer money or qualifying obligations to the trust in the amount necessary to prevent any deficiency.
 
 #### (2) Use of trust assets
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, anydebt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
 
 #### (4) Disclosure required
 
@@ -228,7 +228,7 @@ For purposes of this section:
 
 #### (3) Holding Company
 
-&emsp;The term "Holding Company" means the new business corporation established pursuantto this section by the Association under the laws of any State of the United States or the District of Columbia for the purposes of the reorganization and restructuring described in subsection (a) of this section.
+&emsp;The term "Holding Company" means the new business corporation established pursuant to this section by the Association under the laws of any State of the United States or the District of Columbia for the purposes of the reorganization and restructuring described in subsection (a) of this section.
 
 #### (4) Remaining obligations
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 #### Repeal of Section
 
-<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
+<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reor</i><i>ganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
 
 #### References in Text
 

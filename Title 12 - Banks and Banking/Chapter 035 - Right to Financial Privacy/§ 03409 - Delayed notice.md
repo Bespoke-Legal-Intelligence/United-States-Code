@@ -28,7 +28,7 @@ Upon application of the Government authority, the customer notice required under
 
 (2) Extensions of the delay of notice provided in paragraph (1) of up to ninety days each may be granted by the court upon application, but only in accordance with this subsection.
 
-(3) Upon expiration of the period of delay of notification under paragraph (1) or (2), the customer shall be served with or mailed a copy of the process or request together with the following notice which shall state with reasonablespecificity the nature of the law enforcement inquiry:
+(3) Upon expiration of the period of delay of notification under paragraph (1) or (2), the customer shall be served with or mailed a copy of the process or request together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry:
 
 "Records or information concerning your transactions which are held by the financial institution named in the attached process or request were supplied to or requested by the Government authority named in the process or request on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] that such notice might (state reason).        The purpose of the investigation or official proceeding was        .".
 

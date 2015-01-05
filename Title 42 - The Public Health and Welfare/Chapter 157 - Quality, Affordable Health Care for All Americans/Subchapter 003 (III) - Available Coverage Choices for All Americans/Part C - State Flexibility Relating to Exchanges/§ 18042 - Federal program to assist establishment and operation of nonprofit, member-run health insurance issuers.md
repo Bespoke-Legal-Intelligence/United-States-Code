@@ -224,7 +224,7 @@ This Act, referred to in subsec. (i)(1), is Pub. L. 111–148, Mar. 23, 2010, 12
 
 #### Codification
 
-Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of section 1322 of Pub. L. 111–148 amended sections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
+Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of section 1322 of Pub. L. 111–148 amendedsections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
 
 #### Amendments
 

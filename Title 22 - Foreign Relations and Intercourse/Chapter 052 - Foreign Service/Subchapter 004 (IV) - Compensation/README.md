@@ -19,3 +19,5 @@
 - [&sect; 03972 - Special differentials](%C2%A7%2003972%20-%20Special%20differentials.md)
 - [&sect; 03973 - Death gratuities](%C2%A7%2003973%20-%20Death%20gratuities.md)
 - [&sect; 03974 - Border equalization pay adjustment](%C2%A7%2003974%20-%20Border%20equalization%20pay%20adjustment.md)
+- [&sect; 03975 - Group life insurance supplement applicable to those killed in terrorist attacks](%C2%A7%2003975%20-%20Group%20life%20insurance%20supplement%20applicable%20to%20those%20killed%20in%20terrorist%20attacks.md)
+- [&sect; 03976 - Survivors' and dependents' educational assistance](%C2%A7%2003976%20-%20Survivors%27%20and%20dependents%27%20educational%20assistance.md)

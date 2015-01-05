@@ -22,7 +22,7 @@ If the Board finds that the grievance is meritorious, the Board shall have the a
 
 #### (c) Finality of decisions; judicial review
 
-Except as provided in subsection (d) of this section, decisions of the Board under this subchapter shall be final, subject only to judicial review as provided in section 4140 of this title.
+Except as provided in subsection (d), decisions of the Board under this subchapter shall be final, subject only to judicial review as provided in section 4140 of this title.
 
 #### (d) Recommendations
 
@@ -44,7 +44,7 @@ Except as provided in subsection (d) of this section, decisions of the Board und
 
 #### (e) Record of grievances; copy to committee of Congress; right of review
 
-(1) The Board shall maintain records of all grievances awarded in favor of the grievant in which the grievance concerns gross misconduct by a supervisor. Subject to paragraph (2), the Committee on Foreign Relations of the Senate shall be provided with a copy of the grievance decision whenever such a supervisor is nominated for any position requiring the advice and consent of the Senate and the Board shall provide access to the entire record of any proceedings of the Board concerning such a grievance decision to any Member of the Committee on Foreign Relations upon a request by the Chairman or Ranking Minority Member of such committee.
+(1) The Board shall maintain records of all grievances awarded in favor of the grievant in which the grievance concerns gross misconduct by a supervisor. Subject to paragraph (2), the Committee on Foreign Relations of the Senateshall be provided with a copy of the grievance decision whenever such a supervisor is nominated for any position requiring the advice and consent of the Senate and the Board shall provide access to the entire record of any proceedings of the Board concerning such a grievance decision to any Member of the Committee on Foreign Relations upon a request by the Chairman or Ranking Minority Member of such committee.
 
 (2)(A) Except as provided in subparagraph (B), all decisions, proceedings, and other records disclosed pursuant to paragraph (1) shall be treated as confidential and may be disclosed only to Committee members and appropriate staff.
 

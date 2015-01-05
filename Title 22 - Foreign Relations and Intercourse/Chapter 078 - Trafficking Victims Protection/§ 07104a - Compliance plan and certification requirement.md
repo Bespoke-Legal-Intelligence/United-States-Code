@@ -16,7 +16,7 @@ Any plan or procedures implemented pursuant to subsection (a) shall be appropria
 
 #### (c) Disclosure
 
-The recipient shall provide a copy of the plan to the contracting or grant officer upon request,and as appropriate, shall post the useful and relevant contents of the plan or related materials on its website and at the workplace.
+The recipient shall provide a copy of the plan to the contracting or grant officer upon request, and as appropriate, shall post the useful and relevant contents of the plan or related materials on its website and at the workplace.
 
 #### (d) Guidance
 

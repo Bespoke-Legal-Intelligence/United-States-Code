@@ -2,7 +2,7 @@
 
 #### (a) Creation; appointment of Director
 
-There is created an independent agency to be known as the Federal Mediation and Conciliation Service (herein referred to as the "Service", except that for sixty days after June 23, 1947, such term shall refer to the Conciliation Service of the Department of Labor). The Service shall be under the direction of a Federal Mediation and Conciliation Director (hereinafter referred to as the "Director"), who shall be appointed by the President by and with the advice and consent of the Senate. The Director shall not engage in any other business, vocation, or employment.
+There is created an independent agency to be known as the Federal Mediation and Conciliation Service (herein referred to as the "Service", except that for sixty days after June 23, 1947, such term shall refer to the Conciliation Service of the Department of Labor). The Service shall be under the direction of a Federal Mediation and Conciliation Director (hereinafter referred to as the "Director"), who shall be appointed by the President by and with the advice and consent of the Senate. The Director shallnot engage in any other business, vocation, or employment.
 
 #### (b) Appointment of officers and employees; expenditures for supplies, facilities, and services
 
@@ -24,7 +24,7 @@ Section 51 of this title, referred to in subsec. (d), was repealed by Pub. L. 89
 
 #### Codification
 
-Provisions of subsec. (a) which prescribed the basic annual compensation of the Director were omitted toconform to the provisions of the Executive Schedule. See section 5314 of Title 5, Government Organization and Employees.
+Provisions of subsec. (a) which prescribed the basic annual compensation of the Director were omitted to conform to the provisions of the Executive Schedule. See section 5314 of Title 5, Government Organization and Employees.
 
 In subsec. (b), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 

@@ -42,7 +42,7 @@ To ensure that the Initiative is conducted through a comprehensive science strat
 
 #### (2) Cooperative agreements
 
-&emsp;The Secretary shall enter into cooperative agreements with the State of Alaska, the North Slope Borough, the Arctic Slope Regional Corporation, and other Federal agencies as appropriate to coordinate efforts, share resources, and fund projects under this section.
+&emsp;The Secretary shall enter into cooperative agreements with the State of Alaska, the North Slope Borough, the Arctic Slope Regional Corporation, and other Federal agencies as appropriate to coordinate efforts, shareresources, and fund projects under this section.
 
 #### (d) Science technical advisory panel
 

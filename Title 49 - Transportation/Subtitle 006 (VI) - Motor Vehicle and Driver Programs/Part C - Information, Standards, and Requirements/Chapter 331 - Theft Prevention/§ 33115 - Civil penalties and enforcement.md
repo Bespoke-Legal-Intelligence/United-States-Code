@@ -2,7 +2,7 @@
 
 (a)
 
-General Penalty and Civil Actions To Collect.—(1) A person that violates section33114(a)(1)–(4) of this title is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. The failure of more than one part of a single motor vehicle to conform to an applicable standard under section 33102 or 33103 of this title is only a single violation. The maximum penalty under this subsection for a related series of violations is $250,000.
+General Penalty and Civil Actions To Collect.—(1) A person that violates section 33114(a)(1)–(4) of this title is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. The failure of more than one part of a single motor vehicle to conform to an applicable standard under section 33102 or 33103 of this title is only a single violation. The maximum penalty under this subsection for a related series of violations is $250,000.
 
 (2) The Secretary of Transportation imposes a civil penalty under this subsection. The Secretary may compromise the amount of a penalty.
 
@@ -14,7 +14,7 @@ General Penalty and Civil Actions To Collect.—(1) A person that violates secti
 
 (b)
 
-Chop Shop Penalty and Enforcement.—(1) A person that violates section 33114(a)(5) of this title is liable to the Government for a civil penalty of not more than $100,000 a day for each violation.
+Chop Shop Penalty and Enforcement.—(1) A person that violates section 33114(a)(5) of this title is liable to the Government for a civilpenalty of not more than $100,000 a day for each violation.
 
 (2) As appropriate and in consultation with the Attorney General, the Secretary shall—
 

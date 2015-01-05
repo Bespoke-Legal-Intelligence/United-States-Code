@@ -8,7 +8,7 @@ As used in this subchapter:
 
 #### (2) Mohegan Tribe
 
-&emsp;The term "Mohegan Tribe" means the Mohegan Tribe of Indians of Connecticut, a tribe of American Indians recognized by the UnitedStates pursuant to part 83 of title 25, Code of Federal Regulations, and the State of Connecticut pursuant to section 47–59a(b) of the Connecticut General Statutes.
+&emsp;The term "Mohegan Tribe" means the Mohegan Tribe of Indians of Connecticut, a tribe of American Indians recognized by the United States pursuant to part 83 of title 25, Code of Federal Regulations, and the State of Connecticut pursuant to section 47–59a(b) of the Connecticut General Statutes.
 
 #### (3) Secretary
 

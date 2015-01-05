@@ -38,7 +38,7 @@
 
 &emsp;The contingency plan required under this subsection shall include—
 
-&emsp;&emsp;(A) a list of persons, including stranding network participants, at a regional, State, and local level, who can assist the Secretaryin implementing a coordinated and effective response to an unusual mortality event;
+&emsp;&emsp;(A) a list of persons, including stranding network participants, at a regional, State, and local level, who can assist the Secretary in implementing a coordinated and effective response to an unusual mortality event;
 
 &emsp;&emsp;(B) the types of marine mammal tissues and analyses necessary to assist in diagnosing causes of unusual mortality events;
 

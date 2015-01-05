@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) At-risk infant or toddler
 
-&emsp;The term "at-risk infant or toddler" means an individual under 3 years of age who wouldbe at risk of experiencing a substantial developmental delay if early intervention services were not provided to the individual.
+&emsp;The term "at-risk infant or toddler" means an individual under 3 years of age who would be at risk of experiencing a substantial developmental delay if early intervention services were not provided to the individual.
 
 #### (2) Council
 
@@ -114,7 +114,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) an educational component that promotes school readiness and incorporates pre-literacy, language, and numeracy skills; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a written notification to parents of their rights and responsibilities in determining whether their child will continue to receive services under this subchapter or participate in preschool programs under section 1419 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) a written notification to parents of their rights and responsibilities in determining whether their child will continueto receive services under this subchapter or participate in preschool programs under section 1419 of this title.
 
 (Pub. L. 91–230, title VI, §632, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2744.)
 
@@ -122,5 +122,5 @@ In this subchapter:
 
 A prior section 1432, Pub. L. 91–230, title VI, §632, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 106, set out definitions for this subchapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1432, Pub. L. 91–230, title VI, §632, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, §309, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, §104(c), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, §402, title IX, §901(b)(143), Oct. 30, 1990, 104 Stat.1132, 1148; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to grants to State educational agencies and institutions for traineeships, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1432, Pub. L. 91–230, title VI, §632, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, §309, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, §104(c), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, §402, title IX, §901(b)(143), Oct. 30, 1990, 104 Stat. 1132, 1148; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to grants to State educational agencies and institutions for traineeships, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

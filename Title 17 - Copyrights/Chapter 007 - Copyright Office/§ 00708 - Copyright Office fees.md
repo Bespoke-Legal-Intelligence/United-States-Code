@@ -160,7 +160,7 @@ Prior claims.—Claims to original, supplementary, and renewal copyright receive
 
 #### Effective Date of 1982 Amendment; Transitional Rule
 
-Pub. L. 97–366, §2, Oct. 25, 1982, 96 Stat. 1759, provided that: "This Act \[amending this section, section 110 of this title, and section 3 of Title 35, Patents\] shall take effect thirty days after its enactment \[Oct. 25, 1982\] and shall apply to claims to original, supplementary, and renewal copyright received for registration in the Copyright Office on or after the effective date. Claims to original, supplementary, and renewal copyright received for registration in acceptable form in the Copyright Office before the effective date shall be governed by the provisions of section 708(a)(1) and (2) in effect prior to this enactment."
+Pub. L. 97–366, §2, Oct. 25, 1982, 96 Stat. 1759, provided that: "This Act \[amending this section, section 110 ofthis title, and section 3 of Title 35, Patents\] shall take effect thirty days after its enactment \[Oct. 25, 1982\] and shall apply to claims to original, supplementary, and renewal copyright received for registration in the Copyright Office on or after the effective date. Claims to original, supplementary, and renewal copyright received for registration in acceptable form in the Copyright Office before the effective date shall be governed by the provisions of section 708(a)(1) and (2) in effect prior to this enactment."
 
 #### Effective Date of 1977 Amendment
 

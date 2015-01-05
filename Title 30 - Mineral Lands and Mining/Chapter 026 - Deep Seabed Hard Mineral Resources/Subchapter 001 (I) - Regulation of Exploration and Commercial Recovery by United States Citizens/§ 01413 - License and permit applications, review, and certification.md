@@ -18,7 +18,7 @@
 
 (E) For purposes of subparagraph (D), "logical mining unit" means—
 
-&emsp;(i) in the case of a license for exploration, an area of the deep seabed which can be explored under the license in an efficient, economical, and orderly manner with due regard for conservation and protection of the environment, taking into consideration the resource data, other relevant physical and environmental characteristics, and the state of the technology of the applicant as set forth in the exploration plan; or
+&emsp;(i) in the case of a license for exploration, an area of the deep seabed which can be exploredunder the license in an efficient, economical, and orderly manner with due regard for conservation and protection of the environment, taking into consideration the resource data, other relevant physical and environmental characteristics, and the state of the technology of the applicant as set forth in the exploration plan; or
 
 &emsp;(ii) in the case of a permit, an area of the deep seabed—
 
@@ -70,7 +70,7 @@ All time periods for the review of an application for issuance or transfer of a 
 
 #### (g) Application certification
 
-Upon making the applicable determinations and findings required in sections 1411, 1412 of this title, and this section with respect to anyapplicant for the issuance or transfer of a license or a permit and the exploration or commercial recovery proposed by such applicant, after completion of procedures for receiving the application required by this chapter, and upon payment by the applicant of the fee required under section 1414 of this title, the Administrator shall certify the application for the issuance or transfer of the license or permit. The Administrator, to the maximum extent possible, shall endeavor to complete certification action on the application within 100 days after its submission. If final certification or denial of certification has not occurred within 100 days after submission of the application, the Administrator shall inform the applicant in writing of the then pending unresolved issues, the Administrator's efforts to resolve them, and an estimate of the time required to do so.
+Upon making the applicable determinations and findings required in sections 1411, 1412 of this title, and this section with respect to any applicant for the issuance or transfer of a license or a permit and the exploration or commercial recovery proposed by such applicant, after completion of procedures for receiving the application required by this chapter, and upon payment by the applicant of the fee required under section 1414 of this title, the Administrator shall certify the application for the issuance or transfer of the license or permit. The Administrator, to the maximum extent possible, shall endeavor to complete certification action on the application within 100 days after its submission. If final certification or denial of certification has not occurred within 100 days after submission of the application, the Administrator shall inform the applicant in writing of the then pending unresolved issues, the Administrator's efforts to resolve them, and an estimate of the time required to do so.
 
 (Pub. L. 96–283, title I, §103, June 28, 1980, 94 Stat. 560; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(E), Nov. 2, 2002, 116 Stat. 1921.)
 

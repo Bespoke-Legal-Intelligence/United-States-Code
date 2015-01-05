@@ -18,7 +18,7 @@
 
 &emsp;(D) contain adequate provisions—
 
-&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or othertype of emissions activity within the State from emitting any air pollutant in amounts which will—
+&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or other type of emissions activity within the State from emitting any air pollutant in amounts which will—
 
 &emsp;&emsp;&emsp;(I) contribute significantly to nonattainment in, or interfere with maintenance by, any other State with respect to any such national primary or secondary ambient air quality standard, or
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) periodic reports on the nature and amounts of emissions and emissions-related data from such sources, and
 
-&emsp;&emsp;(iii) correlation of such reports by the State agency with any emission limitations or standards established pursuant to this chapter, which reports shall be available at reasonable times for public inspection;
+&emsp;&emsp;(iii) correlation of such reports by the State agency with any emission limitationsor standards established pursuant to this chapter, which reports shall be available at reasonable times for public inspection;
 
 &emsp;(G) provide for authority comparable to that in section 7603 of this title and adequate contingency plans to implement such authority;
 
@@ -174,7 +174,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 > which the Administrator has not approved or disapproved under this section within 12 months of submission of the proposed plan revision, the Governor may issue a temporary emergency suspension of the part of the applicable implementation plan for such State which is proposed to be revised with respect to such source. The determination under subparagraph (B) may not be made with respect to a source which would close without regard to whether or not the proposed plan revision is approved.
 
-(2) A temporary emergency suspension issued by a Governor under this subsection shall remain in effect for a maximum of four months or such lesser period as may be specified in a disapproval order of the Administrator. The Administrator may disapprove such suspension if he determines that it does not meet the requirements of this subsection.
+(2) A temporary emergency suspension issued by a Governor under this subsection shall remain in effect for a maximum of four months or such lesser period as may be specified in a disapproval order of the Administrator. The Administrator may disapprove such suspension ifhe determines that it does not meet the requirements of this subsection.
 
 (3) The Governor may include in any temporary emergency suspension issued under this subsection a provision delaying for a period identical to the period of such suspension any compliance schedule (or increment of progress) to which such source is subject under section 1857c–10 <sup>2</sup> of this title as in effect before August 7, 1977, or under section 7413(d) <sup>2</sup> of this title upon a finding that such source is unable to comply with such schedule (or increment) solely because of the conditions on the basis of which a suspension was issued under this subsection.
 
@@ -202,7 +202,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (B) Completeness finding
 
-&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receiptof the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
+&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receipt of the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
 
 #### (C) Effect of finding of incompleteness
 
@@ -258,7 +258,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 #### (o) Indian tribes
 
-If an Indian tribe submits an implementation plan to the Administrator pursuant to section 7601(d) of this title, the plan shall be reviewed in accordance with the provisions for review set forth in this section for State plans, except as otherwise provided by regulation promulgated pursuant to section 7601(d)(2) of this title. When such plan becomes effective in accordance with the regulations promulgated under section 7601(d) of this title, the plan shall become applicable to all areas (except as expressly provided otherwise in the plan) located within the exterior boundaries of the reservation, notwithstanding the issuance of any patent and including rights-of-way running through the reservation.
+If an Indian tribe submits an implementation plan to the Administrator pursuant to section7601(d) of this title, the plan shall be reviewed in accordance with the provisions for review set forth in this section for State plans, except as otherwise provided by regulation promulgated pursuant to section 7601(d)(2) of this title. When such plan becomes effective in accordance with the regulations promulgated under section 7601(d) of this title, the plan shall become applicable to all areas (except as expressly provided otherwise in the plan) located within the exterior boundaries of the reservation, notwithstanding the issuance of any patent and including rights-of-way running through the reservation.
 
 #### (p) Reports
 
@@ -286,7 +286,7 @@ A prior section 110 of act July 14, 1955, was renumbered section 117 by Pub. L. 
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §101(d)(8), substituted "3 years (or such shorter period as the Administrator may prescribe)" for "nine months" in two places.
 
-Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereofand listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
+Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereof and listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
 
 Subsec. (a)(3)(A). Pub. L. 101–549, §101(d)(1), struck out subpar. (A) which directed Administrator to approve any revision of an implementation plan if it met certain requirements and had been adopted by the State after reasonable notice and public hearings.
 

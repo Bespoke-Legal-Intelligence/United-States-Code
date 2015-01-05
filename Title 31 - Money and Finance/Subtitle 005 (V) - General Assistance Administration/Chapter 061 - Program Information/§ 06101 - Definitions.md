@@ -108,9 +108,27 @@ Par. (7). Pub. L. 98–169, §3(a), added par. (7).
 
 Pub. L. 104–287, §6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–101, §1, May 9, 2014, 128 Stat. 1146, provided that: "This Act \[amending sections 3512 and 3716 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the 'Digital Accountability and Transparency Act of 2014' or the 'DATA Act'."
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–252, title VI, §6201, June 30, 2008, 122 Stat. 2387, provided that: "This chapter \[chapter 2 (§§6201, 6202) of title VI of Pub. L. 110–252, enacting and amending provisions set out as notes under this section\] may be cited as the 'Government Funding Transparency Act of 2008'."
+
+#### Purposes
+
+Pub. L. 113–101, §2, May 9, 2014, 128 Stat. 1146, provided that: "The purposes of this Act \[see Short Title of 2014 Amendment note above\] are to—
+
+&emsp;"(1) expand the Federal Funding Accountability and Transparency Act of 2006 \[Pub. L. 109–282\] (31 U.S.C. 6101 note) by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies to enable taxpayers and policy makers to track Federal spending more effectively;
+
+&emsp;"(2) establish Government-wide data standards for financial data and provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov (or a successor system that displays the data);
+
+&emsp;"(3) simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency;
+
+&emsp;"(4) improve the quality of data submitted to USASpending.gov by holding Federal agencies accountable for the completeness and accuracy of the data submitted; and
+
+&emsp;"(5) apply approaches developed by the Recovery Accountability and Transparency Board to spending across the Federal Government."
 
 #### Requirements and Limitations for Suspension and Debarment Officials of the Department of Defense, the Department of State, and the United States Agency for International Development
 
@@ -128,7 +146,7 @@ Requirements.—Not later than 180 days after the date of the enactment of this 
 
 &emsp;&emsp;"(C) for the United States Agency for International Development.
 
-&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to the supervision of the acquisition office or the Inspector General—
+&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to thesupervision of the acquisition office or the Inspector General—
 
 &emsp;&emsp;"(A) in the case of the Department of Defense, of either the Department of Defense or the military department or Defense Agency concerned; and
 
@@ -198,7 +216,7 @@ Definitions.—In this section:
 
 Pub. L. 110–252, title VI, §6202(b), June 30, 2008, 122 Stat. 2387, provided that: "The Director of the Office of Management and Budget shall promulgate regulations to implement the amendment made by this chapter \[amending Pub. L. 109–282, set out below\]. Such regulations shall include a definition of 'total compensation' that is consistent with regulations of the Securities and Exchange Commission at section 402 of part 229 of title 17 of the Code of Federal Regulations (or any subsequent regulation)."
 
-Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–252, title VI, §6202(a), June 30, 2008, 122 Stat. 2387, provided that:
+Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–252, title VI, §6202(a), June 30, 2008, 122 Stat. 2387; Pub. L. 113–101, §3, May 9, 2014, 128 Stat. 1146, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -208,9 +226,13 @@ Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–2
 
 "(a)
 
-Definitions.—In this section:
+Definitions.—In this Act:
 
 &emsp;"(1)
+
+Director.—The term 'Director' means the Director of the Office of Management and Budget.
+
+&emsp;"(2)
 
 Entity.—The term 'entity'—
 
@@ -242,7 +264,11 @@ Entity.—The term 'entity'—
 
 &emsp;&emsp;&emsp;"(ii) a Federal employee.
 
-&emsp;"(2)
+&emsp;"(3)
+
+Federal agency.—The term 'Federal agency' has the meaning given the term 'Executive agency' under section 105 of title 5, United States Code.
+
+&emsp;"(4)
 
 Federal award.—The term 'Federal award'—
 
@@ -256,7 +282,15 @@ Federal award.—The term 'Federal award'—
 
 &emsp;&emsp;"(C) before October 1, 2008, does not include credit card transactions.
 
-&emsp;"(3)
+&emsp;"(5)
+
+Object class.—The term 'object class' means the category assigned for purposes of the annual budget of the President submitted under section 1105(a) of title 31, United States Code, to the type of property or services purchased by the Federal Government.
+
+&emsp;"(6)
+
+Program activity.—The term 'program activity' has the meaning given that term under section 1115(h) of title 31, United States Code.
+
+&emsp;"(7)
 
 Searchable website.—The term 'searchable website' means a website that allows the public to—
 
@@ -267,6 +301,10 @@ Searchable website.—The term 'searchable website' means a website that allows 
 &emsp;&emsp;"(C) ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(ii), by fiscal year; and
 
 &emsp;&emsp;"(D) download data included in subparagraph (A) included in the outcome from searches.
+
+&emsp;"(8)
+
+Secretary.—The term 'Secretary' means the Secretary of the Treasury.
 
 "(b)
 
@@ -304,11 +342,11 @@ Scope of data.—The website shall include data for fiscal year 2007, and each f
 
 &emsp;"(3)
 
-Designation of agencies.—The Director of the Office of Management and Budget is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.
+Designation of agencies.—The Director is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.
 
 &emsp;"(4)
 
-Agency responsibilities.—Federal agencies shall comply with the instructions and guidance issued by the Director of the Office of Management and Budget under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.
+Agency responsibilities.—Federal agencies shall comply with the instructions and guidance issued by the Director under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.
 
 "(c)
 
@@ -324,9 +362,19 @@ Website.—The website established under this section—
 
 &emsp;"(3) shall provide an opportunity for the public to provide input about the utility of the site and recommendations for improvements;
 
-&emsp;"(4) shall be updated not later than 30 days after the award of any Federal award requiring a posting; and
+&emsp;"(4) shall be updated not later than 30 days after the award of any Federal award requiring a posting;
 
-&emsp;"(5) shall provide for separate searches for Federal awards described in subsection (a) to distinguish between the Federal awards described in subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii).
+&emsp;"(5) shall provide for separate searches for Federal awards described in subsection (a) to distinguish between the Federal awards described in subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii);
+
+&emsp;"(6) shall have the ability to aggregate data for the categories described in paragraphs (1) through (5) without double-counting data; and
+
+&emsp;"(7) shall ensure that all information published under this section is available—
+
+&emsp;&emsp;"(A) in machine-readable and open formats;
+
+&emsp;&emsp;"(B) to be downloaded in bulk; and
+
+&emsp;&emsp;"(C) to the extent practicable, for automated processing.
 
 "(d)
 
@@ -338,7 +386,7 @@ Pilot program.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than July 1, 2007, the Director of the Office of Management and Budget shall commence a pilot program to—
+In general.—Not later than July 1, 2007, the Director shall commence a pilot program to—
 
 &emsp;&emsp;&emsp;"(i) test the collection and accession of data about subgrants and subcontracts; and
 
@@ -358,7 +406,7 @@ Reporting of subawards.—
 
 &emsp;&emsp;"(A)
 
-In general.—Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than January 1, 2009, the Director of the Office of Management and Budget—
+In general.—Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than January 1, 2009, the Director—
 
 &emsp;&emsp;&emsp;"(i) shall ensure that data regarding subawards are disclosed in the same manner as data regarding other Federal awards, as required by this Act; and
 
@@ -372,11 +420,11 @@ In general.—Based on the pilot program conducted under paragraph (1), and, exc
 
 &emsp;&emsp;"(B)
 
-Extension of deadline.—For subaward recipients that receive Federal funds through State,local, or tribal governments, the Director of the Office of Management and Budget may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
+Extension of deadline.—For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
 
 "(e)
 
-Exception.—Any entity that demonstrates to the Director of the Office of Management and Budget that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.
+Exception.—Any entity that demonstrates to the Director that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.
 
 "(f)
 
@@ -388,7 +436,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
+In general.—The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
 
 &emsp;"(2)
 
@@ -402,15 +450,279 @@ Contents.—Each report submitted under paragraph (1) shall include—
 
 &emsp;"(3)
 
-Publication.—The Director of the Office of Management and Budget shall make each report submitted under paragraph (1) publicly available on the website established under this section.
+Publication.—The Director shall make each report submitted under paragraph (1) publicly available on the website established under this section.
 
-#### "SEC. 3. CLASSIFIED INFORMATION.
+#### "SEC. 3. FULL DISCLOSURE OF FEDERAL FUNDS.
 
-"Nothing in this Act shall require the disclosure of classified information.
+"(a)
 
-#### "SEC. 4. GOVERNMENT ACCOUNTABILITY OFFICE REPORTING REQUIREMENT.
+In General.—Not later than 3 years after the date of enactment of the Digital Accountability and Transparency Act of 2014 \[May 9, 2014\], and monthly when practicable but not less than quarterly thereafter, the Secretary, in consultation with the Director, shall ensure that the information in subsection (b) is posted on the website established under section 2.
 
-"Not later than January 1, 2010, the Comptroller General shall submit to Congress a report on compliance with this Act."
+"(b)
+
+Information To Be Posted.—For any funds made available to or expended by a Federal agency or component of a Federal agency, the information to be posted shall include—
+
+&emsp;"(1) for each appropriations account, including an expired or unexpired appropriations account, the amount—
+
+&emsp;&emsp;"(A) of budget authority appropriated;
+
+&emsp;&emsp;"(B) that is obligated;
+
+&emsp;&emsp;"(C) of unobligated balances; and
+
+&emsp;&emsp;"(D) of any other budgetary resources;
+
+&emsp;"(2) from which accounts and in what amount—
+
+&emsp;&emsp;"(A) appropriations are obligated for each program activity; and
+
+&emsp;&emsp;"(B) outlays are made for each program activity;
+
+&emsp;"(3) from which accounts and in what amount—
+
+&emsp;&emsp;"(A) appropriations are obligated for each object class; and
+
+&emsp;&emsp;"(B) outlays are made for each object class; and
+
+&emsp;"(4) for each program activity, the amount—
+
+&emsp;&emsp;"(A) obligated for each object class; and
+
+&emsp;&emsp;"(B) of outlays made for each object class.
+
+#### "SEC. 4. DATA STANDARDS.
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Establishment of standards.—The Secretary and the Director, in consultation with the heads of Federal agencies, shall establish Government-wide financial data standards for any Federal funds made available to or expended by Federal agencies and entities receiving Federal funds.
+
+&emsp;"(2)
+
+Data elements.—The financial data standards established under paragraph (1) shall include common data elements for financial and payment information required to be reported by Federal agencies and entities receiving Federal funds.
+
+"(b)
+
+Requirements.—The data standards established under subsection (a) shall, to the extent reasonable and practicable—
+
+&emsp;"(1) incorporate widely accepted common data elements, such as those developed and maintained by—
+
+&emsp;&emsp;"(A) an international voluntary consensus standards body;
+
+&emsp;&emsp;"(B) Federal agencies with authority over contracting and financial assistance; and
+
+&emsp;&emsp;"(C) accounting standards organizations;
+
+&emsp;"(2) incorporate a widely accepted, nonproprietary, searchable, platform-independent computer-readable format;
+
+&emsp;"(3) include unique identifiers for Federal awards and entities receiving Federal awards that can be consistently applied Government-wide;
+
+&emsp;"(4) be consistent with and implement applicable accounting principles;
+
+&emsp;"(5) be capable of being continually upgraded as necessary;
+
+&emsp;"(6) produce consistent and comparable data, including across program activities; and
+
+&emsp;"(7) establish a standard method of conveying the reporting period, reporting entity, unit of measure, and other associated attributes.
+
+"(c)
+
+Deadlines.—
+
+&emsp;"(1)
+
+Guidance.—Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2014 \[May 9, 2014\], the Director and the Secretary shall issue guidance to Federal agencies on the data standards established under subsection (a).
+
+&emsp;"(2)
+
+Agencies.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), not later than 2 years after the date on which the guidance under paragraph (1) is issued, each Federal agency shall report financial and payment information data in accordance with the data standards established under subsection (a).
+
+&emsp;&emsp;"(B)
+
+Noninterference with auditability of department of defense financial statements.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Upon request by the Secretary of Defense, the Director may grant an extension of the deadline under subparagraph (A) to the Department of Defense for a period of not more than 6 months to report financial and payment information data in accordance with the data standards established under subsection (a).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Limitation.—The Director may not grant more than 3 extensions to the Secretary of Defense under clause (i).
+
+&emsp;&emsp;&emsp;"(iii)
+
+Notification.—The Director of the Office of Management and Budget shall notify the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform and the Committee on Armed Services of the House of Representatives of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) each grant of an extension under clause (i); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the reasons for granting such an extension.
+
+&emsp;"(3)
+
+Website.—Not later than 3 years after the date on which the guidance under paragraph (1) is issued, the Director and the Secretary shall ensure that the data standards established under subsection (a) are applied to the data made available on the website established under section 2.
+
+"(d)
+
+Consultation.—The Director and the Secretary shall consult with public and private stakeholders in establishing data standards under this section.
+
+#### "SEC. 5. SIMPLIFYING FEDERAL AWARD REPORTING.
+
+"(a)
+
+In General.—The Director, in consultation with relevant Federal agencies, recipients of Federal awards, including State and local governments, and institutions of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)), shall review the information required to be reported by recipients of Federal awards to identify—
+
+&emsp;"(1) common reporting elements across the Federal Government;
+
+&emsp;"(2) unnecessary duplication in financial reporting; and
+
+&emsp;"(3) unnecessarily burdensome reporting requirements for recipients of Federal awards.
+
+"(b)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2014 \[May 9, 2014\], the Director, or a Federal agency designated by the Director, shall establish a pilot program (in this section referred to as the 'pilot program') with the participation of appropriate Federal agencies to facilitate the development of recommendations for—
+
+&emsp;&emsp;"(A) standardized reporting elements across the Federal Government;
+
+&emsp;&emsp;"(B) the elimination of unnecessary duplication in financial reporting; and
+
+&emsp;&emsp;"(C) the reduction of compliance costs for recipients of Federal awards.
+
+&emsp;"(2)
+
+Requirements.—The pilot program shall—
+
+&emsp;&emsp;"(A) include a combination of Federal contracts, grants, and subawards, the aggregate value of which is not less than $1,000,000,000 and not more than $2,000,000,000;
+
+&emsp;&emsp;"(B) include a diverse group of recipients of Federal awards; and
+
+&emsp;&emsp;"(C) to the extent practicable, include recipients who receive Federal awards from multiple programs across multiple agencies.
+
+&emsp;"(3)
+
+Data collection.—The pilot program shall include data collected during a 12-month reporting cycle.
+
+&emsp;"(4)
+
+Reporting and evaluation requirements.—Each recipient of a Federal award participating in the pilot program shall submit to the Office of Management and Budget or the Federal agency designated under paragraph (1), as appropriate, any requested reports of the selected Federal awards.
+
+&emsp;"(5)
+
+Termination.—The pilot program shall terminate on the date that is 2 years after the date on which the pilot program is established.
+
+&emsp;"(6)
+
+Report to congress.—Not later than 90 days after the date on which the pilot program terminates under paragraph (5), the Director shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
+
+&emsp;&emsp;"(A) a description of the data collected under the pilot program, the usefulness of the data provided, and the cost to collect the data from recipients; and
+
+&emsp;&emsp;"(B) a discussion of any legislative action required and recommendations for—
+
+&emsp;&emsp;&emsp;"(i) consolidating aspects of Federal financial reporting to reduce the costs to recipients of Federal awards;
+
+&emsp;&emsp;&emsp;"(ii) automating aspects of Federal financial reporting to increase efficiency and reduce the costs to recipients of Federal awards;
+
+&emsp;&emsp;&emsp;"(iii) simplifying the reporting requirements for recipients of Federal awards; and
+
+&emsp;&emsp;&emsp;"(iv) improving financial transparency.
+
+&emsp;"(7)
+
+Government-wide implementation.—Not later than 1 year after the date on which the Director submits the report under paragraph (6), the Director shall issue guidance to the heads of Federal agencies as to how the Government-wide financial data standards established under section 4(a) shall be applied to the information required to be reported by entities receiving Federal awards to—
+
+&emsp;&emsp;"(A) reduce the burden of complying with reporting requirements; and
+
+&emsp;&emsp;"(B) simplify the reporting process, including by reducing duplicative reports.
+
+#### "SEC. 6. ACCOUNTABILITY FOR FEDERAL FUNDING.
+
+"(a)
+
+Inspector General Reports.—
+
+&emsp;"(1)
+
+In general.—In accordance with paragraph (2), the Inspector General of each Federal agency, in consultation with the Comptroller General of the United States, shall—
+
+&emsp;&emsp;"(A) review a statistically valid sampling of the spending data submitted under this Act by the Federal agency; and
+
+&emsp;&emsp;"(B) submit to Congress and make publically available a report assessing the completeness, timeliness, quality, and accuracy of the data sampled and the implementation and use of data standards by the Federal agency.
+
+&emsp;"(2)
+
+Deadlines.—
+
+&emsp;&emsp;"(A)
+
+First report.—Not later than 18 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), the Inspector General of each Federal agency shall submit and make publically available a report as described in paragraph (1).
+
+&emsp;&emsp;"(B)
+
+Subsequent reports.—On the same date as the Inspector General of each Federal agency submits the second and fourth reports under sections 3521(f) and 9105(a)(3) of title 31, United States Code, that are submitted after the report under subparagraph (A), the Inspector General shall submit and make publically available a report as described in paragraph (1). The report submitted under this subparagraph may be submitted as a part of the report submitted under section 3521(f) or 9105(a)(3) of title 31, United States Code.
+
+"(b)
+
+Comptroller General Reports.—
+
+&emsp;"(1)
+
+In general.—In accordance with paragraph (2) and after a review of the reports submitted under subsection (a), the Comptroller General of the United States shall submit to Congress and make publically available a report assessing and comparing the data completeness, timeliness, quality, and accuracy of the data submitted under this Act by Federal agencies and the implementation and use of data standards by Federal agencies.
+
+&emsp;"(2)
+
+Deadlines.—Not later than 30 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), and every 2 years thereafter until the date that is 4 years after the date on which the first report is submitted under this subsection, the Comptroller General of the United States shall submit and make publically available a report as described in paragraph (1).
+
+"(c)
+
+Recovery Accountability and Transparency Board Data Analysis Center.—
+
+&emsp;"(1)
+
+In general.—The Secretary may establish a data analysis center or expand an existing service to provide data, analytic tools, and data management techniques to support—
+
+&emsp;&emsp;"(A) the prevention and reduction of improper payments by Federal agencies; and
+
+&emsp;&emsp;"(B) improving efficiency and transparency in Federal spending.
+
+&emsp;"(2)
+
+Data availability.—The Secretary shall enter into memoranda of understanding with Federal agencies, including Inspectors General and Federal law enforcement agencies—
+
+&emsp;&emsp;"(A) under which the Secretary may provide data from the data analysis center for—
+
+&emsp;&emsp;&emsp;"(i) the purposes set forth under paragraph (1);
+
+&emsp;&emsp;&emsp;"(ii) the identification, prevention, and reduction of waste, fraud, and abuse relating to Federal spending; and
+
+&emsp;&emsp;&emsp;"(iii) use in the conduct of criminal and other investigations; and
+
+&emsp;&emsp;"(B) which may require the Federal agency, Inspector General, or Federal law enforcement agency to provide reimbursement to the Secretary for the reasonable cost of carrying out the agreement.
+
+&emsp;"(3)
+
+Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transferthat the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+
+#### "SEC. 7. CLASSIFIED AND PROTECTED INFORMATION.
+
+"Nothing in this Act shall require the disclosure to the public of—
+
+&emsp;"(1) information that would be exempt from disclosure under section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act'); or
+
+&emsp;"(2) information protected under section 552a of title 5, United States Code (commonly known as the 'Privacy Act of 1974'), or section 6103 of the Internal Revenue Code of 1986 \[26 U.S.C. 6103\].
+
+#### "SEC. 8. NO PRIVATE RIGHT OF ACTION.
+
+"Nothing in this Act shall be construed to create a private right of action for enforcement of any provision of this Act."
 
 #### Federal Financial Assistance Management Improvement
 
@@ -620,7 +932,7 @@ Authority To Grant Exception.—The regulations issued pursuant to subsection (a
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'procurement activities' means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 431(c)) \[now 41 U.S.C. 104\]), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
+&emsp;"(1) The term 'procurement activities' means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) ofthe Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 431(c)) \[now 41 U.S.C. 104\]), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
 
 &emsp;"(2) The term 'nonprocurement activities' means all programs and activities involving Federal financial and nonfinancial assistance and benefits, as covered by Executive Order No. 12549 and the Office of Management and Budget guidelines implementing that order.
 
@@ -678,7 +990,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 Sec. 2. <i>Governmentwide Effect.</i>
 
-(a) To the extent permitted by law and upon resolution of differences and promulgation of final regulations pursuant to section 3 of this order, the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549, shall have governmentwide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
+(a) To the extent permitted by law and upon resolution of differences and promulgation of final regulations pursuant to section 3 of this order, the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549, shall have governmentwide effect. No agency shallallow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
 (b) An agency may grant an exception permitting a debarred, suspended, or otherwise excluded party to participate in procurement activities of that agency to the extent exceptions are authorized under the Federal Acquisition Regulation, or to participate in nonprocurement activities of that agency to the extent exceptions are authorized under regulations issued pursuant to Executive Order No. 12549.
 

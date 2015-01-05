@@ -52,7 +52,7 @@ Changes were made in phraseology.
 
 <b>2013</b>—Subsecs. (c), (d). Pub. L. 112–239 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: "As used in subsection (a), the terms 'civil action' and 'criminal prosecution' include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court."
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–51, §2(a)(1), inserted "that is" after "or criminal prosecution", "and that is" after "in a State court", and "or directed to" after "against" in introductory provisions.
+<b>2011</b>—Subsec. (a). Pub. L. 112–51, §2(a)(1), inserted "that is" after "or criminal prosecution", "and thatis" after "in a State court", and "or directed to" after "against" in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 112–51, §2(b)(1), substituted "capacity, for or relating to" for "capacity for" and struck out "sued" after "thereof,".
 

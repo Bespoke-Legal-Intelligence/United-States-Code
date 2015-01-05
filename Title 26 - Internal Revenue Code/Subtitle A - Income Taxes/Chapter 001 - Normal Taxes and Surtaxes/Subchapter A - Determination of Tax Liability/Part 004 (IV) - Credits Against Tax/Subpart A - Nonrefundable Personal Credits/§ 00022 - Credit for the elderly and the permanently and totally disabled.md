@@ -42,7 +42,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;In the case of a joint return where both spouses are qualified individuals and at least one spouse has not attained age 65 before the close of the taxable year—
 
-&emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of such spouses' disability income, or
+&emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceedthe sum of such spouses' disability income, or
 
 &emsp;&emsp;&emsp;&emsp;(II) if one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who has not attained age 65 before the close of the taxable year.
 
@@ -124,7 +124,7 @@ Subsec. (c). Pub. L. 98–369, §474(d)(2), substituted "Section 22 amount" for 
 
 Subsec. (c)(1). Pub. L. 98–369, §474(d)(1), substituted "section 22 amount" for "section 37 amount".
 
-Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading "Limitations" and designation "(1)" before "Adjusted gross income limitation" thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
+Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading "Limitations" anddesignation "(1)" before "Adjusted gross income limitation" thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
 
 <b>1983</b>—Pub. L. 98–21 inserted reference to permanently and totally disabled in section catchline.
 

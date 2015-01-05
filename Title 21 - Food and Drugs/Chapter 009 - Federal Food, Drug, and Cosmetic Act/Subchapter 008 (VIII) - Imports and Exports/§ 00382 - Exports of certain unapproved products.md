@@ -24,7 +24,7 @@ A drug or device—
 
 #### (b) List of eligible countries for export; criteria for addition to list; direct export; petition for exemption
 
-(1)(A) A drug or device described in subsection (a) of this section may be exported to any country, if the drug or device complies with the laws of that country and has valid marketing authorization by the appropriate authority—
+(1)(A) A drug or device described in subsection (a) of this section may be exported to any country, if the drug or device complies with the lawsof that country and has valid marketing authorization by the appropriate authority—
 
 &emsp;(i) in Australia, Canada, Israel, Japan, New Zealand, Switzerland, or South Africa; or
 
@@ -40,7 +40,7 @@ A drug or device—
 
 &emsp;&emsp;(II) the manufacture, preproduction design validation, packing, storage, and installation of a device are adequate to assure that the device will be safe and effective.
 
-&emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugsand devices and procedures to withdraw approval and remove drugs and devices found not to be safe or effective.
+&emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugs and devices and procedures to withdraw approval and remove drugs and devices found not to be safe or effective.
 
 &emsp;(iv) Statutory or regulatory requirements that the labeling and promotion of drugs and devices must be in accordance with the approval of the drug or device.
 
@@ -78,7 +78,7 @@ A drug or device—
 
 &emsp;&emsp;(ii) certifies that the health authority understands that the drug is not approved under this chapter or in a country described in clause (i) or (ii) of paragraph (1)(A); and
 
-&emsp;&emsp;(iii) concurs that the scientific evidence provided pursuant to subparagraph (A) is credible scientific evidence that the drug would be reasonably safe and effective in such country.
+&emsp;&emsp;(iii) concurs that the scientific evidence provided pursuant to subparagraph (A) iscredible scientific evidence that the drug would be reasonably safe and effective in such country.
 
 > The Secretary shall take action on a request for export of a drug under this paragraph within 60 days of receiving such request.
 
@@ -140,7 +140,7 @@ A drug or device may not be exported under this section—
 
 #### (g) Notification of Secretary
 
-The exporter of a drug or device exported under subsection (b)(1) of this section shall provide a simple notification to the Secretary identifying the drug or device when the exporter first begins to export such drug or device to any country listed in clause (i) or (ii) of subsection (b)(1)(A) of this section. When an exporter of a drug or device first begins to export a drug or device to a country which is not listed in clause (i) or (ii) of subsection (b)(1)A) <sup>1</sup> of this section, the exporter shall provide a simple notification to the Secretary identifying the drug or device and the country to which such drug or device is being exported. Any exporter of a drug or device shall maintain records of all drugs or devices exported and the countries to which they were exported.
+The exporter of a drug or device exported under subsection (b)(1) of this section shall provide a simple notification to the Secretary identifying the drug or device when the exporter first begins to export such drug or device to any country listed in clause (i) or (ii) of subsection (b)(1)(A) of this section. When an exporter of a drug or device first begins to export a drug or device to a country which is not listed in clause\(i) or (ii) of subsection (b)(1)A) <sup>1</sup> of this section, the exporter shall provide a simple notification to the Secretary identifying the drug or device and the country to which such drug or device is being exported. Any exporter of a drug or device shall maintain records of all drugs or devices exported and the countries to which they were exported.
 
 #### (h) References to Secretary and term "drug"
 
@@ -158,7 +158,7 @@ Insulin and antibiotic drugs may be exported without regard to the requirements 
 
 #### References in Text
 
-Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsecs. (a)(1)(A)(ii), (C), (2)(C) and (h), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 151 of this title and Tables.
+Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsecs. (a)(1)(A)(ii), (C), (2)(C) and (h), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
 
 #### Amendments
 

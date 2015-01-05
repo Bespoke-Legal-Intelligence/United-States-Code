@@ -8,7 +8,7 @@ FEHBP Option Demonstration.—The Secretary of Defense, after consulting with th
 
 Eligible Beneficiaries; Coverage.—(1) An eligible beneficiary under this subsection is—
 
-&emsp;(A) a member or former member of the uniformed services described in section 1074(b) of this title who is entitled to hospital insurancebenefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.);
+&emsp;(A) a member or former member of the uniformed services described in section 1074(b) of this title who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.);
 
 &emsp;(B) an individual who is an unremarried former spouse of a member or former member described in section 1072(2)(F) or 1072(2)(G));
 
@@ -74,7 +74,7 @@ Separate Risk Pools; Charges.—(1) The Director of the Office of Personnel Mana
 
 (i)
 
-Government Contributions.—The Secretary of Defense shall be responsible for the Government contribution for an eligible beneficiary who enrolls in a health benefits plan under chapter 89 of title 5 in accordance with this section, except that the amount of the contribution may not exceed the amount of the Government contribution which would be payable if the electing beneficiary were an employee (as defined for purposes of such chapter)enrolled in the same health benefits plan and level of benefits.
+Government Contributions.—The Secretary of Defense shall be responsible for the Government contribution for an eligible beneficiary who enrolls in a health benefits plan under chapter 89 of title 5 in accordance with this section, except that the amount of the contribution may not exceed the amount of the Government contribution which would be payable if the electing beneficiary were an employee (as defined for purposes of such chapter) enrolled in the same health benefits plan and level of benefits.
 
 (j)
 

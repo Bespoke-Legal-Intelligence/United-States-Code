@@ -96,7 +96,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;&emsp;(i) double the period of obligated service that would otherwise be required; or
 
-&emsp;&emsp;(ii) in the case of contracts entered into under section 254l–1 of this title, accept a minimum service obligation of 2 years with an award amount equal to 50 percent of the amount that would otherwise be payable for full-time service; and
+&emsp;&emsp;(ii) in the case of contracts entered into under section 254l–1 of this title, accept a minimum service obligation of 2 years with an award amount equal to 50 percent of theamount that would otherwise be payable for full-time service; and
 
 &emsp;(F) the Corps member agrees in writing that if the Corps member begins providing half-time service but fails to begin or complete the period of obligated service, the method stated in 254o(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
 
@@ -144,7 +144,7 @@ Subsec. (i)(3). Pub. L. 111–148, §10501(n)(1)(C), substituted "In evaluating 
 
 Subsec. (j)(5), (6). Pub. L. 111–148, §10501(n)(2), added pars. (5) and (6).
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–417 inserted before period at end ", except when such members are Commissioned Corps officers who entered into a contract withSecretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services".
+<b>2006</b>—Subsec. (f). Pub. L. 109–417 inserted before period at end ", except when such members are Commissioned Corps officers who entered into a contract with Secretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services".
 
 <b>2002</b>—Subsec. (a)(3)(E). Pub. L. 107–251, §301(a)(1), added subpar. (E).
 
@@ -158,7 +158,7 @@ Subsecs. (i), (j). Pub. L. 107–251, §301(b), added subsec. (i) and redesignat
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in pars. (1), (2), and (3)(C).
 
-Pub. L. 101–597, §101(a), designated existing provisions as par. (1), substituted "For the purpose of eliminating health manpower shortages in health manpower shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—" for "There is established, within the Service, the National Health Service Corps (hereinafter in this subpart referred to as the 'Corps') which (1) shall consist of—", substituted "States." for "States," at end of subpar. (C), struck out closing provisions which read "(such officers, employees, and individuals hereinafter in this subpart referred to as 'Corps members'), and (2) shall be utilized by the Secretary to improve the delivery of health services in health manpower shortage areas as defined in section 254e(a) of this title.", and added pars. (2) and (3).
+Pub. L. 101–597, §101(a), designated existing provisions as par. (1), substituted "For the purpose of eliminatinghealth manpower shortages in health manpower shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—" for "There is established, within the Service, the National Health Service Corps (hereinafter in this subpart referred to as the 'Corps') which (1) shall consist of—", substituted "States." for "States," at end of subpar. (C), struck out closing provisions which read "(such officers, employees, and individuals hereinafter in this subpart referred to as 'Corps members'), and (2) shall be utilized by the Secretary to improve the delivery of health services in health manpower shortage areas as defined in section 254e(a) of this title.", and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2).
 
@@ -214,7 +214,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 
-Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed tomeet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
 #### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
 

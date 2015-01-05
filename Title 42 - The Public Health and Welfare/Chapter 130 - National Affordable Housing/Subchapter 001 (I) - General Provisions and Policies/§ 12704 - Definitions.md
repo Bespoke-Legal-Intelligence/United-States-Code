@@ -54,7 +54,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;(14) The term "first-time homebuyer" means an individual and his or her spouse who have not owned a home during the 3-year period prior to purchase of a home with assistance under subchapter II of this chapter, except that—
 
-&emsp;&emsp;(A) any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while a homemaker, owned a home with his or her spouse or resided in a home owned by the spouse;
+&emsp;&emsp;(A) any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while a homemaker, owned a home withhis or her spouse or resided in a home owned by the spouse;
 
 &emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
 
@@ -126,7 +126,7 @@ Pub. L. 102–229 added par. (24) defining "insular area".
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out subchapter II (§12721 et seq.) of this chapter after Apr. 11, 1994, and any amounts made available to carry out that subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out subchapter II (§12721 et seq.) of this chapter after Apr. 11, 1994, and any amounts made available to carry out thatsubchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1992 Amendment
 

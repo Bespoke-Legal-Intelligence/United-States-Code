@@ -14,5 +14,5 @@ Subsec. (a)(1). Pub. L. 100–439, §1, struck out last sentence which directed 
 
 Subsec. (a)(3). Pub. L. 100–439, §1, struck out par. (3) which related to contracts for purchase of natural gas produced from reservoirs on Outer Continental Shelf.
 
-Subsecs. (b), (c). Pub. L. 100–439, §2(a), redesignated subsec. (c) as (b) and struck out former subsec. (b)which related to certain rights of first refusal with respect to certain natural gas committed or dedicated to interstate commerce on November 8, 1978.
+Subsecs. (b), (c). Pub. L. 100–439, §2(a), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to certain rights of first refusal with respect to certain natural gas committed or dedicated to interstate commerce on November 8, 1978.
 

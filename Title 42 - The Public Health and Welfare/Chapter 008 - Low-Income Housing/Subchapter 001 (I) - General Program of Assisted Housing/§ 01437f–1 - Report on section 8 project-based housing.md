@@ -1,0 +1,16 @@
+### §1437f–1. Report on section 8 project-based housing
+
+The Secretary of Housing and Urban Development shall report annually to the House and Senate Committees on Appropriations on the status of all section 8 \[42 U.S.C. 1437f\] project-based housing, including the number of all project-based units by region as well as an analysis of all federally subsidized housing being refinanced under the Mark-to-Market program. The Secretary shall identify all existing units maintained by region as section 8 project-based units, all project-based units that have opted out or have otherwise been eliminated, and the reasons these units opted out or otherwise were lost as section 8 project-based units.
+
+(Pub. L. 113–235, div. K, title II, §221, Dec. 16, 2014, 128 Stat. 2754.)
+
+#### Codification
+
+Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the United States Housing Act of 1937 which comprises this chapter.
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in the following prior acts:
+
+Pub. L. 113–76, div. L, title II, §225, Jan. 17, 2014, 128 Stat. 632.
+

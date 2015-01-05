@@ -11,6 +11,7 @@ Subtitle E of title XII of the Food Security Act, comprising this subchapter, wa
 
 - [&sect; 03841 - Commodity Credit Corporation](%C2%A7%2003841%20-%20Commodity%20Credit%20Corporation.md)
 - [&sect; 03842 - Delivery of technical assistance](%C2%A7%2003842%20-%20Delivery%20of%20technical%20assistance.md)
-- [&sect; 03843 - Cooperative conservation partnership initiative](%C2%A7%2003843%20-%20Cooperative%20conservation%20partnership%20initiative.md)
+- [&sect; 03843 - Repealed. Pub. L. 113&#8211;79, title II, &sect;2710(a), Feb. 7, 2014, 128 Stat. 770](%C2%A7%2003843%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72710%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20770.md)
 - [&sect; 03844 - Administrative requirements for conservation programs](%C2%A7%2003844%20-%20Administrative%20requirements%20for%20conservation%20programs.md)
 - [&sect; 03845 - Environmental services markets](%C2%A7%2003845%20-%20Environmental%20services%20markets.md)
+- [&sect; 03846 - Regulations](%C2%A7%2003846%20-%20Regulations.md)

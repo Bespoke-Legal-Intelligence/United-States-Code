@@ -2,11 +2,21 @@
 
 In order to promote the establishment and maintenance of a national system of public employment offices, the United States Employment Service shall be established and maintained within the Department of Labor.
 
-(June 6, 1933, ch. 49, §1, 48 Stat. 113; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §1, 48 Stat. 113; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 113–128, title III, §301, July 22, 2014, 128 Stat. 1624.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–128, title III, §301, title V, §506, July 22, 2014, 128 Stat. 1624, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended by inserting "service" before "offices". See 2014 Amendment note below.</i>
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–128 inserted "service" before "offices".
+
 <b>1982</b>—Pub. L. 97–300 substituted "the United States Employment Service shall be established and maintained within the Department of Labor" for "there is created in the Department of Labor a bureau to be known as the United States Employment Service".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -18,7 +28,7 @@ Act June 6, 1933, ch. 49, §16, formerly §15, as added by Pub. L. 97–300, tit
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Secretary of Labor under this chapter, insofar as relates to prescription ofpersonnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(2)(A) of Title 42, The Public Health and Welfare.
+Functions, powers, and duties of Secretary of Labor under this chapter, insofar as relates to prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(2)(A) of Title 42, The Public Health and Welfare.
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department were, with exception of functions vested by Administrative Procedure Act (see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by such Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 

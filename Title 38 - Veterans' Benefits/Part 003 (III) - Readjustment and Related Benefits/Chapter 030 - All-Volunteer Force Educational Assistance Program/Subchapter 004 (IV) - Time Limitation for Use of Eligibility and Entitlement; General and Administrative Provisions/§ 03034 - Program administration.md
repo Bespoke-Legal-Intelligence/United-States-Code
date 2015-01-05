@@ -4,7 +4,7 @@
 
 (2) The term "eligible veteran", as used in the provisions of the sections enumerated in paragraph (1) of this subsection, shall be deemed to include an individual who is eligible for educational assistance under this chapter.
 
-(3) The Secretary may, without regard to the application to this chapter of so much of the provisions of section 3471 of this title as prohibit the enrollment of an eligible veteran in a program of education in which the veteran is "already qualified", and pursuant to such regulations as the Secretary shall prescribe, approve the enrollment of such individual in refresher courses (including courses which will permit such individual to update knowledge and skills or be instructed in the technological advances which have occurred in the individual's field of employment during and since the period of such veteran's active military service), deficiency courses, or other preparatory or special education or training courses necessary to enable the individual to pursue an approved program of education.
+(3) The Secretary may, without regard to the application to this chapter of so much of the provisions of section 3471 of this title as prohibit the enrollment of an eligible veteran in a program of education in which the veteran is "already qualified", and pursuant to such regulations as the Secretary shall prescribe, approve the enrollment of such individual in refresher courses (including courses which will permit such individual to update knowledge and skills or be instructed in the technological advances which have occurred in the individual's field of employment during and since the period of suchveteran's active military service), deficiency courses, or other preparatory or special education or training courses necessary to enable the individual to pursue an approved program of education.
 
 (b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform for the Armed Forces under the jurisdiction of the Secretary of a military department.
 
@@ -26,7 +26,7 @@
 
 (4) The Secretary shall use amounts appropriated for readjustment benefits to carry out this subsection and section 5102 of this title with respect to application forms under that section for basic educational assistance under this chapter.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L.99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §§204(a), 206(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 111–377, title II, §203(a)(2)(A), Jan. 4, 2011, 124 Stat. 4125.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L. 99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §§204(a), 206(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 111–377, title II, §203(a)(2)(A), Jan. 4, 2011, 124 Stat. 4125.)
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsec. (a)(3). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "
 
 Pub. L. 101–237, §423(a)(5)(A), substituted "employment during and since the period of such veteran's active military service)" for "employment)".
 
-Subsec. (b). Pub. L. 101–237, §415(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The Administrator may, pursuant to regulations which the Administrator shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education by an individual enrolled in or pursuing a program of education under this chapter for any period for which the individual receives educational assistance under this chapter. Subject to such reports and proof as the Administrator may require to show an individual's enrollment in and satisfactory pursuit of such individual's program, the Administrator may withhold payment of benefits to such individual until the required proof is received and the amount of the payment is appropriately adjusted."
+Subsec. (b). Pub. L. 101–237, §415(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The Administrator may, pursuant to regulations which the Administrator shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education by an individual enrolled in or pursuing a program of education under this chapter for any period for which the individual receives educational assistance under this chapter. Subject to such reports and proof as the Administrator may require to show an individual's enrollment in and satisfactory pursuit of such individual's program, the Administrator may withhold payment of benefits to such individual until the required proof isreceived and the amount of the payment is appropriately adjusted."
 
 Subsec. (c). Pub. L. 101–237, §423(a)(6)(B), added subsec. (c).
 
@@ -108,7 +108,7 @@ Amendment by section 422(a)(1) of Pub. L. 101–237 effective Sept. 30, 1990, se
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–689, title I, §106(d), Nov. 18, 1988, 102 Stat. 4167, provided that: "The amendments made by thissection \[amending this section and sections 1641 and 1733 \[now 3241 and 3533\] of this title\] shall take effect on August 15, 1989."
+Pub. L. 100–689, title I, §106(d), Nov. 18, 1988, 102 Stat. 4167, provided that: "The amendments made by this section \[amending this section and sections 1641 and 1733 \[now 3241 and 3533\] of this title\] shall take effect on August 15, 1989."
 
 #### Savings Provision
 

@@ -28,7 +28,7 @@ The Secretary shall develop criteria to review the applications of States submit
 
 #### (d) Quality assurance
 
-A State selected by the Secretary to provide services under this section shall in order to continue to receive Federal financial participationfor providing services under this section be required to establish and maintain a quality assurance program, that provides that—
+A State selected by the Secretary to provide services under this section shall in order to continue to receive Federal financial participation for providing services under this section be required to establish and maintain a quality assurance program, that provides that—
 
 &emsp;(1) the State will certify and survey providers of services under this section (such surveys to be unannounced and average at least 1 a year);
 
@@ -116,7 +116,7 @@ Pub. L. 101–508, title IV, §4712(b)(1), Nov. 5, 1990, 104 Stat. 1388–187, w
 
 #### Amendments
 
-<b>2000</b>—Subsec. (d)(7). Pub. L. 106–402 substituted "State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 and the protection and advocacy system established under subtitle C of that Act" for "State Planning Council established under section 6024 of this title, and the Protection and Advocacy System established under section 6042 of this title".
+<b>2000</b>—Subsec. (d)(7). Pub. L. 106–402 substituted "State Council on Developmental Disabilities establishedunder section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 and the protection and advocacy system established under subtitle C of that Act" for "State Planning Council established under section 6024 of this title, and the Protection and Advocacy System established under section 6042 of this title".
 
 #### Effective Date
 

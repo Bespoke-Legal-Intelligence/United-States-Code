@@ -4,7 +4,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 #### (1) Type of benefit coverage
 
-&emsp;The coverage must consist of coverage which, as of the time the coverage is being provided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part <sup>1</sup> in connection with such group.
+&emsp;The coverage must consist of coverage which, as of the time the coverage is beingprovided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part <sup>1</sup> in connection with such group.
 
 #### (2) Period of coverage
 
@@ -30,7 +30,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 #### (v) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employeeshall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
 #### (vi) Special rule for disability
 
@@ -118,7 +118,7 @@ Par. (3). Pub. L. 101–239, §6801(b)(3)(A), which directed the general amendme
 
 Pub. L. 101–239, §6702(b), inserted at end of concluding provision "In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to '102 percent' is deemed a reference to '150 percent' for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A)." See Amendment note above.
 
-<b>1986</b>—Par. (1). Pub. L. 99–514, §1895(d)(1)(C), inserted at end "If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group."
+<b>1986</b>—Par. (1). Pub. L. 99–514, §1895(d)(1)(C), inserted at end "If coverage is modified under the plan for anygroup of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group."
 
 Par. (2)(A). Pub. L. 99–514, §1895(d)(2)(C), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "
 

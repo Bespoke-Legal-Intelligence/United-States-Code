@@ -22,7 +22,7 @@ Except as provided in subsection (b), the status of any organization as a privat
 
 &emsp;&emsp;(B)(i) such organization meets the requirements of paragraph (1), (2), or (3) of section 509(a) by the end of the 12-month period beginning with its first taxable year which begins after December 31, 1969, or for a continuous period of 60 calendar months beginning with the first day of any taxable year which begins after December 31, 1969,
 
-&emsp;&emsp;(ii) such organization notifies the Secretary (in such manner as the Secretary may by regulations prescribe) before the commencement of such 12-month or 60-month period (or before the 90th day after the day on which regulations first prescribed under this subsection become final) that it is terminating its private foundation status, and
+&emsp;&emsp;(ii) such organization notifies the Secretary (in such manner as the Secretary may by regulations prescribe) before the commencement of such 12-month or 60-month period (or before the 90th day after the day on which regulations first prescribed underthis subsection become final) that it is terminating its private foundation status, and
 
 &emsp;&emsp;(iii) such organization establishes to the satisfaction of the Secretary (in such manner as the Secretary may by regulations prescribe) immediately after the expiration of such 12-month or 60-month period that such organization has complied with clause (i).
 
@@ -86,7 +86,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 #### (ii) Related person
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "related person" means, with respect to any person, any other person who would be a disqualified person (within the meaning of section 4946) by reason of his relationship to such person. In the case of a contributor which is a corporation, the term also includes any officer or director of such corporation.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "related person" means, with respect to any person, any other person who would be a disqualified person (within the meaning ofsection 4946) by reason of his relationship to such person. In the case of a contributor which is a corporation, the term also includes any officer or director of such corporation.
 
 #### (3) Regulations
 

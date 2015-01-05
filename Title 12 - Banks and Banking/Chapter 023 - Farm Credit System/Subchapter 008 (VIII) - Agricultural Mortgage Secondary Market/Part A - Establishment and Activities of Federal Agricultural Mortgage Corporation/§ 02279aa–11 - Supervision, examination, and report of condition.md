@@ -30,7 +30,7 @@
 
 &emsp;(B) The Farm Credit Administration Board shall carry out the authority set forth in this section through the Office of Secondary Market Oversight.
 
-&emsp;(C) The Office of Secondary Market Oversight shall be managed by a full-time Directorwho shall be selected by and report to the Farm Credit Administration Board.
+&emsp;(C) The Office of Secondary Market Oversight shall be managed by a full-time Director who shall be selected by and report to the Farm Credit Administration Board.
 
 #### (b) Examinations and audits
 

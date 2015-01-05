@@ -22,7 +22,7 @@ After each review pursuant to subsection (a) of this section, the Secretary shal
 
 &emsp;(4) interpretive and educational opportunities for the public;
 
-&emsp;(5) a program for continued scientific investigation and study to provide information to support sound management in accordance with this subchapter, to advance knowledge of raptor species and the resources and values ofthe conservation area, and to provide a process for transferring to other areas of the public lands and elsewhere this knowledge and management experience;
+&emsp;(5) a program for continued scientific investigation and study to provide information to support sound management in accordance with this subchapter, to advance knowledge of raptor species and the resources and values of the conservation area, and to provide a process for transferring to other areas of the public lands and elsewhere this knowledge and management experience;
 
 &emsp;(6) such vegetative enhancement and other measures as may be necessary to restore or enhance prey habitat;
 
@@ -44,7 +44,7 @@ In addition to the visitors center, the Secretary may provide for visitor use of
 
 (2) Upon completion of the ongoing research concerning military use of lands in the conservation area, the Secretary shall review the management plan and make such additional revisions therein as may be required to assure that it meets the requirements of this subchapter.
 
-(3) Upon completion of the ongoing research concerning military use of lands in the conservation area, the Secretary shall submit to the Committees on Natural Resources and Merchant Marine and Fisheries of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report of the results of such research.
+(3) Upon completion of the ongoing research concerning military use of lands in the conservation area, the Secretary shall submit to the Committees on Natural Resources and Merchant Marine and Fisheries of the House of Representatives and the Committee on Energy andNatural Resources of the Senate a report of the results of such research.
 
 (4) Nothing in this subchapter shall preclude minor adjustment of the boundaries of the Orchard Training Area in accordance with provisions of the Memorandum of Understanding.
 

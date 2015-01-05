@@ -10,7 +10,7 @@ The Administrator, in consultation with the Administrator of the Federal Emergen
 
 #### (c) Completion; revision
 
-The initial regulations shall be completed not later than 270 days after the date of the enactment of the Small Business Disaster Response and Loan Improvements Act of 2008. Thereafter, the regulations shall be revised on an annual basis.
+The initial regulations shall be completed not later than 270 days after the date of the enactment of the Small Business Disaster Responseand Loan Improvements Act of 2008. Thereafter, the regulations shall be revised on an annual basis.
 
 #### (d) Report
 

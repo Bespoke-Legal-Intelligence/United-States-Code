@@ -76,7 +76,7 @@ This Act, referred to in subsecs. (b)(1) and (c)(3)(C), is Pub. L. 94–579, Oct
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–486, §2401(1), inserted "(including public lands, as defined in section 1702(e) of this title, which are reserved from entry pursuant to section 24 of the Federal Power Act (16 U.S.C. 818))".
 
-Subsec. (a)(4). Pub. L. 102–486, §2401(2), substituted "Federal Energy Regulatory Commission under theFederal Power Act, including part 1 thereof (41 Stat. 1063, 16 U.S.C. 791a–825r)." for "Federal Power Commission under the Federal Power Act of 1935 (49 Stat. 847; 16 U.S.C. 791)". The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be struck out.
+Subsec. (a)(4). Pub. L. 102–486, §2401(2), substituted "Federal Energy Regulatory Commission under the Federal Power Act, including part 1 thereof (41 Stat. 1063, 16 U.S.C. 791a–825r)." for "Federal Power Commission under the Federal Power Act of 1935 (49 Stat. 847; 16 U.S.C. 791)". The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be struck out.
 
 Subsec. (d). Pub. L. 102–486, §2401(3), added subsec. (d).
 

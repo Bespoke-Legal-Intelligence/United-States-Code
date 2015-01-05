@@ -18,7 +18,7 @@ The Secretary shall grant a waiver of the requirements of section 13251 or 13257
 
 #### (c) Reporting requirement
 
-Not later than December 31 of a model year, any State or covered person granted a waiver under this section for the preceding model year shall submit to the Secretary an annual report that—
+Not later than December 31 of a model year, any State or covered person granted a waiverunder this section for the preceding model year shall submit to the Secretary an annual report that—
 
 &emsp;(1) certifies the quantity of the petroleum motor fuel reduction of the State or covered person during the preceding model year; and
 

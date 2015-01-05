@@ -254,9 +254,9 @@ Updated plans.—Performance plans shall be updated biennially and include a sep
 
 (m)
 
-Operating Assistance.—A State may obligate funds apportioned under section 104(b)(2) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system that was previously eligible under this section.
+Operating Assistance.—A State may obligate funds apportioned under section 104(b)(2) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation.
 
-(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957; Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460.)
+(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957; Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587.)
 
 #### References in Text
 
@@ -270,7 +270,9 @@ The date of enactment of this subsection, referred to in subsec. (g)(2)(B), is t
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1113(a)(1), (5), in introductory provisions, substituted "in subsection (d)" for "in subsection (c)" and "section 104(b)(4)" for "section 104(b)(2)" and struck out concluding provisions which read as follows: "No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2)without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses."
+<b>2014</b>—Subsec. (m). Pub. L. 113–76 substituted "for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation" for "that was previously eligible under this section".
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1113(a)(1), (5), in introductory provisions, substituted "in subsection (d)" for "in subsection (c)" and "section 104(b)(4)" for "section 104(b)(2)" and struck out concluding provisions which read as follows: "No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses."
 
 Subsec. (b)(5). Pub. L. 112–141, §1113(a)(2), inserted "add turning lanes," after "improve intersections," and substituted "paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;" for "paragraph;".
 
@@ -372,7 +374,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Determination by Secretary; Water-Phased Hydrocarbon Fuel Emulsion Technologies
 
-Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: "For the purposes of section 149(e) \[now 149(f)\] of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles."
+Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX,§9002(g), July 22, 1998, 112 Stat. 836, provided that: "For the purposes of section 149(e) \[now 149(f)\] of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles."
 
 #### Study of CMAQ Program
 

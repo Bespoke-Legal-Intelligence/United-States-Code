@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Consumer Education Program for Members.—(1) The Secretary concerned shall carry out a program to provide comprehensive education to members of thearmed forces under the jurisdiction of the Secretary on—
+Requirement for Consumer Education Program for Members.—(1) The Secretary concerned shall carry out a program to provide comprehensive education to members of the armed forces under the jurisdiction of the Secretary on—
 
 &emsp;(A) financial services that are available under law to members;
 
@@ -66,7 +66,7 @@ Financial Services Defined.—In this section, the term "financial services" inc
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\]."
+Pub. L. 109–163, div. A, title V, §578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month that begins more than120 days after the date of the enactment of this Act \[Jan. 6, 2006\]."
 
 #### Counseling on Mortgage Foreclosures for Members of the Armed Forces Returning From Service Abroad
 
@@ -88,7 +88,7 @@ Elements.—The program required by subsection (a) shall include the following:
 
 "(c)
 
-Timing of Provision of Counseling.—Counseling and other information under the program required bysubsection (a) shall be provided to a member of the Armed Forces covered by the program as soon as practicable after the return of the member from service as described in subsection (a)."
+Timing of Provision of Counseling.—Counseling and other information under the program required by subsection (a) shall be provided to a member of the Armed Forces covered by the program as soon as practicable after the return of the member from service as described in subsection (a)."
 
 #### Military Personnel Financial Services Protection
 

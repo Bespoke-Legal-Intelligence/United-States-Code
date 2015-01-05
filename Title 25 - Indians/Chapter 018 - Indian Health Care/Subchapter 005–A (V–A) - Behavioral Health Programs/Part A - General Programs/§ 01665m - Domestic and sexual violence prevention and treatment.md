@@ -28,7 +28,7 @@ Funds made available to carry out this section shall be used—
 
 #### (2) Report
 
-&emsp;Not later than 18 months after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the means and extent to which the Secretary has carried out paragraph (1).
+&emsp;Not later than 18 months after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and theCommittee on Natural Resources of the House of Representatives a report that describes the means and extent to which the Secretary has carried out paragraph (1).
 
 #### (d) Coordination
 

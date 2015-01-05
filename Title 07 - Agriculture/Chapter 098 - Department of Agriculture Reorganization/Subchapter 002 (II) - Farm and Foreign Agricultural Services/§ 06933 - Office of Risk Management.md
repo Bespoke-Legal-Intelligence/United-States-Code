@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Subject to subsection (e) <sup>1</sup> of this section, the Secretary shall establish and maintain in the Department an independent Office of Risk Management.
+Subject to subsection (e),<sup>1</sup> the Secretary shall establish and maintain in the Department an independent Office of Risk Management.
 
 #### (b) Functions of Office of Risk Management
 
@@ -40,7 +40,7 @@ The Office of Risk Management shall have jurisdiction over the following functio
 
 #### References in Text
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle A of title V of act Feb. 16,1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. There is no subsection (e).</i>
 

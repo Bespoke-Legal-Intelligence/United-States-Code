@@ -32,7 +32,7 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
 
-(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1, 1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 108–189, §2(e), Dec. 19, 2003, 117 Stat. 2866.)
+(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1,1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 108–189, §2(e), Dec. 19, 2003, 117 Stat. 2866.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17,
 
 #### Effective Date of 1956 Amendment; Applicability
 
-Act Aug. 1, 1956, ch. 837, title V, §501(b)(2), 70 Stat. 882, provided that: "The amendment made by this subsection \[amending this section\] (A) shall apply onlywith respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans' Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[42 U.S.C. 402(i)\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957."
+Act Aug. 1, 1956, ch. 837, title V, §501(b)(2), 70 Stat. 882, provided that: "The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans' Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[42 U.S.C. 402(i)\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957."
 
 #### Transfer of Functions
 
@@ -84,7 +84,7 @@ Recovery, care, and disposition of the remains of deceased members of the unifor
 
 #### Burial of Certain Commissioned Officers
 
-Act Apr. 30, 1956, ch. 227, 70 Stat. 124, provided: "That burial in national cemeteries of the remains of commissioned officers of the United States Public Health Service who were detailed for duty with the Army or Navy during World War I pursuant to the act of July 1, 1902 (32 Stat. 712, 713), as amended, and Executive Order Numbered 2571 dated April 3, 1917, and of the wife, widow, minor child and, in the discretion of the Secretary of the Army, unmarried adult child of these officers is authorized: <i>Provided</i>, That the remains of the wife, widow, and children may, in the discretion of the Secretary of the Army, be removed from a national cemetery proper and interred in the post section of a national cemetery if, upon death, the related officer is not buried in the same or an adjoining gravesite."
+Act Apr. 30, 1956, ch. 227, 70 Stat. 124, provided: "That burial in national cemeteries of the remains of commissioned officers of the United States Public Health Service who were detailed for duty with the Army or Navy during World War I pursuant to the act of July 1, 1902 (32 Stat. 712, 713), as amended, and Executive Order Numbered 2571 dated April 3, 1917, and of the wife, widow, minor child and, in the discretion of the Secretary of the Army, unmarried adult child of these officers is authorized: <i>Provided</i>, That the remains of the wife, widow, and children may, in the discretion of the Secretary of the Army, be removed from a national cemetery proper and interred in the post section of anational cemetery if, upon death, the related officer is not buried in the same or an adjoining gravesite."
 
 #### Delegation of Authority
 

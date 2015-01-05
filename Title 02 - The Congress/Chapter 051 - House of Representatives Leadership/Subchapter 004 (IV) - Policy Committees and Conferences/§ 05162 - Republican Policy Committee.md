@@ -6,7 +6,7 @@ There is established in the House of Representatives an office to be known as th
 
 #### (b) Salaries and expenses
 
-There shall be a lump sum allowance for the salaries and expenses of the Republican Policy Committee, which shall be treated as a category of House leadership offices for purposes of section 5507(c) of this title, and which shall be obligated and expended as directed by the Speaker\(or, if the Speaker is not a member of the Republican party, the Minority Leader).
+There shall be a lump sum allowance for the salaries and expenses of the Republican Policy Committee, which shall be treated as a category of House leadership offices for purposes of section 5507(c) of this title, and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the Republican party, the Minority Leader).
 
 #### (c) Applicability
 
@@ -22,11 +22,11 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–74, §102(a), substituted “the Speaker of the House of Representatives (or, if the Speaker is not a member of the Republican Party, the Minority Leader of the House of Representatives)” for “the chair of the Republican Conference”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–74, §102(a), substituted "the Speaker of the House of Representatives (or, if the Speaker is not a member of the Republican Party, the Minority Leader of the House of Representatives)" for "the chair of the Republican Conference".
 
-Subsec. (b). Pub. L. 112–74, §102(b), inserted “, and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the Republican party, the Minority Leader)” before period at end.
+Subsec. (b). Pub. L. 112–74, §102(b), inserted ", and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the Republican party, the Minority Leader)" before period at end.
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–74, div. G, title I, §102(c), Dec. 23, 2011, 125 Stat. 1121, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2012 and each succeeding fiscal year.”
+Pub. L. 112–74, div. G, title I, §102(c), Dec. 23, 2011, 125 Stat. 1121, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2012 and each succeeding fiscal year."
 

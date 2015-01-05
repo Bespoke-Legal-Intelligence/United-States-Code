@@ -26,7 +26,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
 
-&emsp;&emsp;&emsp;&emsp;(III) Subject to clause (iii), for periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause (ii) had been in effect, updated under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(III) Subject to clause (iii), for periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction inlimits described in clause (ii) had been in effect, updated under subparagraph (B).
 
 &emsp;&emsp;&nbsp;Each such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and area wage adjustments among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.
 
@@ -76,15 +76,33 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (I) Adjustment
 
-&emsp;&emsp;&emsp;&emsp;For purposes of clause (ii)(V), for 2007 and each subsequent year, in the case of a home health agency that does not submit data to the Secretary in accordance with subclause (II) with respect to such a year, the home health market basket percentage increase applicable under such clause for such year shall be reduced by 2 percentage points. Such reduction shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the prospective payment amount under this section for a subsequent year, and the Medicare Payment Advisory Commission shall carry out the requirements under section 5201(d) of the Deficit Reduction Act of 2005.
+&emsp;&emsp;&emsp;&emsp;For purposes of clause (ii)(V), for 2007 and each subsequent year, in the case of a home health agency that does not submit data to the Secretary in accordance with subclauses (II) and (IV) with respect to such a year, the home health market basket percentage increase applicable under such clause for such year shall bereduced by 2 percentage points. Such reduction shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the prospective payment amount under this section for a subsequent year, and the Medicare Payment Advisory Commission shall carry out the requirements under section 5201(d) of the Deficit Reduction Act of 2005.
 
 #### (II) Submission of quality data
 
-&emsp;&emsp;&emsp;&emsp;For 2007 and each subsequent year, each home health agency shall submit to the Secretary such data that the Secretary determines are appropriate for the measurement of health care quality. Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this clause.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (V), for 2007 and each subsequent year, each home health agency shall submit to the Secretary such data that the Secretary determines are appropriate for the measurement of health care quality. Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this clause.
 
 #### (III) Public availability of data submitted
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall establish procedures for making data submitted under subclause (II) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall establish procedures for making data submitted under subclause (II) and subclause (IV)(aa) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
+
+#### (IV) Submission of additional data
+
+#### (aa) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;For the year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to home health agencies and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent year, in addition to the data described in subclause (II), each home health agency shall submit to the Secretary data on such quality measures and any necessary data specified by the Secretary under such subsection (d)(1).
+
+#### (bb) Standardized patient assessment data
+
+&emsp;&emsp;&emsp;&emsp;&emsp;For 2019 and each subsequent year, in addition to such data described in item (aa), each home health agency shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1395lll of this title.
+
+#### (cc) Submission
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Data shall be submitted under items (aa) and (bb) in the form and manner, and at the time, specified by the Secretary for purposes of this clause.
+
+#### (V) Non-duplication
+
+&emsp;&emsp;&emsp;&emsp;To the extent data submitted under subclause (IV) duplicates other data required to be submitted under subclause (II), the submission of such data under subclause (IV) shall be in lieu of the submission of such data under subclause (II). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1395lll of this title, taking into account the different specified application dates under subsection (a)(2)(E) of such section.
 
 #### (vi) Adjustments
 
@@ -112,7 +130,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (ii) Area wage adjustment
 
-&emsp;&emsp;&emsp;The portion of such amount that the Secretary estimates to be attributable to wages and wage-related costs shall be adjusted for geographic differences in suchcosts by an area wage adjustment factor (established under subparagraph (C)) for the area in which the services are furnished or such other area as the Secretary may specify.
+&emsp;&emsp;&emsp;The portion of such amount that the Secretary estimates to be attributable to wages and wage-related costs shall be adjusted for geographic differences in such costs by an area wage adjustment factor (established under subparagraph (C)) for the area in which the services are furnished or such other area as the Secretary may specify.
 
 #### (B) Establishment of case mix adjustment factors
 
@@ -174,13 +192,21 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962.)
 
 #### References in Text
 
-Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is section 5201(d) oftitle V of Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 47, which is not classified to the Code.
+Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is section 5201(d) of title V of Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 47, which is not classified to the Code.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(3)(B)(v)(I). Pub. L. 113–185, §2(c)(1)(A), substituted "subclauses (II) and (IV)" for "subclause (II)".
+
+Subsec. (b)(3)(B)(v)(II). Pub. L. 113–185, §2(c)(1)(B), substituted "Subject to subclause (V), for 2007" for "For 2007".
+
+Subsec. (b)(3)(B)(v)(III). Pub. L. 113–185, §2(c)(1)(C), inserted "and subclause (IV)(aa)" after "subclause (II)".
+
+Subsec. (b)(3)(B)(v)(IV), (V). Pub. L. 113–185, §2(c)(1)(D), added subcls. (IV) and (V).
 
 <b>2010</b>—Subsec. (b)(3)(A)(i)(III). Pub. L. 111–148, §3131(a)(1)(A), substituted "Subject to clause (iii), for periods" for "For periods".
 
@@ -270,7 +296,7 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(19)\] of Pub. L. 106–113
 
 #### Effective Date
 
-Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V,§5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: "Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395l, 1395u, and 1395y of this title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000."
+Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: "Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395l, 1395u, and 1395y of this title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000."
 
 #### Study and Report on the Development of Home Health Payment Revisions in Order To Ensure Access to Care and Payment for Severity of Illness
 
@@ -680,11 +706,11 @@ Pub. L. 105–33, title IV, §4602(d), Aug. 5, 1997, 111 Stat. 467, provided tha
 
 #### Case Mix System; Submission of Data
 
-Pub. L. 105–33, title IV, §4602(e), Aug. 5, 1997, 111 Stat. 467, provided that: "Effective for cost reporting periods beginning on or after October 1, 1997, the Secretary of Health and Human Services may require all home health agencies to submit additional information thatthe Secretary considers necessary for the development of a reliable case mix system."
+Pub. L. 105–33, title IV, §4602(e), Aug. 5, 1997, 111 Stat. 467, provided that: "Effective for cost reporting periods beginning on or after October 1, 1997, the Secretary of Health and Human Services may require all home health agencies to submit additional information that the Secretary considers necessary for the development of a reliable case mix system."
 
 #### Prospective Payment System Contingency
 
-Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(3), Oct. 21, 1998, 112 Stat. 2681–914, provided that if the Secretary of Health and Human Services did not establish and implement the prospective payment system for home health services described in subsec. (b) of this section for portions of cost reporting periods described in section 4603(d) of Pub. L. 105–33 (set out as a note above), for such portions the Secretary was to provide for a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits would otherwise have been in effect on Sept. 30, 2000, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359.
+Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(3), Oct. 21, 1998, 112 Stat. 2681–914, provided that if the Secretary of Health and Human Services did not establish and implement the prospective payment system for home health services described in subsec. (b) ofthis section for portions of cost reporting periods described in section 4603(d) of Pub. L. 105–33 (set out as a note above), for such portions the Secretary was to provide for a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits would otherwise have been in effect on Sept. 30, 2000, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359.
 
 #### Reports to Congress Regarding Home Health Cost Containment
 

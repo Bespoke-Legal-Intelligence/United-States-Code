@@ -8,7 +8,7 @@
 
 &emsp;(3) personal injury to, or death of, any inhabitant of a foreign country;
 
-> if the damage, loss, personal injury, or death occurs outside the United States, or the Commonwealths or possessions, and is caused by, or is otherwise incident to noncombat activities of, the armed forces under his jurisdiction, or is caused by a member thereof or by a civilian employee of the military department concerned or the Coast Guard, as the case may be. The claim of an insured, but not that of a subrogee, may be considered under this subsection. In this section, "foreign country" includes any place under the jurisdiction of the United States in a foreign country. An officer or employee may serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, butshall perform his duties under regulations of the department appointing the commission.
+> if the damage, loss, personal injury, or death occurs outside the United States, or the Commonwealths or possessions, and is caused by, or is otherwise incident to noncombat activities of, the armed forces under his jurisdiction, or is caused by a member thereof or by a civilian employee of the military department concerned or the Coast Guard, as the case may be. The claim of an insured, but not that of a subrogee, may be considered under this subsection. In this section, "foreign country" includes any place under the jurisdiction of the United States in a foreign country. An officer or employee may serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, but shall perform his duties under regulations of the department appointing the commission.
 
 (b) A claim may be allowed under subsection (a) only if—
 
@@ -138,7 +138,7 @@ Pub. L. 98–564, §2(2), inserted "or employee" after "An officer" in last sent
 
 Subsec. (c). Pub. L. 98–564, §2(3), substituted provisions whereby the Secretary may appoint officers and employees to act as approval authority for claims in excess of $10,000 for provisions which provided that allowance of a claim for more than $2,500 may be subject to the approval of any commissioned officer designated by the Secretary concerned.
 
-Subsec. (d). Pub. L. 98–564, §2(4), substituted provisions providing that if the Secretary considers a claim in excess of $100,000 meritorious, the Secretary may pay $100,000 and report any excess amount to the Comptroller General for provisions which provided that for claims in excess of $25,000 the Secretary may pay $25,000 and certify any excess to Congress as a legal claim to be paid from appropriations.
+Subsec. (d). Pub. L. 98–564, §2(4), substituted provisions providing that if the Secretary considers a claimin excess of $100,000 meritorious, the Secretary may pay $100,000 and report any excess amount to the Comptroller General for provisions which provided that for claims in excess of $25,000 the Secretary may pay $25,000 and certify any excess to Congress as a legal claim to be paid from appropriations.
 
 <b>1980</b>—Subsec. (g). Pub. L. 96–513 substituted "Department of Transportation" for "Department of the Treasury".
 

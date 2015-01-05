@@ -58,7 +58,7 @@ Government-wide training standards and certification.—The Administrator, actin
 
 (d)
 
-Authority and Responsibility of Senior Procurement Executive.—Subject to the authority, direction, and control of the head of an executive agency, the senior procurement executive of the agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementing this section. The senior procurement executive shall ensure that the policies of the head of the executive agency established in accordance with this section are implemented throughout the agency.
+Authority and Responsibility of Senior Procurement Executive.—Subject to the authority, direction, and control of the head of an executive agency, the senior procurement executive of the agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementing this section. The senior procurement executive shall ensure thatthe policies of the head of the executive agency established in accordance with this section are implemented throughout the agency.
 
 (e)
 
@@ -150,7 +150,7 @@ Purposes.—The purposes of this subsection are to ensure that the Federal acqui
 
 &emsp;(2)
 
-Establishment and management of fund.—There is an acquisition workforce training fund. The Administrator of General Services shall manage the fund through the Federal Acquisition Institute to support the activities set forth in section 1201(a) of this title, except as provided in paragraph (5). The Administrator of General Services shall consult with the Administrator in managing the fund.
+Establishment and management of fund.—There is an acquisition workforce training fund. The Administrator of GeneralServices shall manage the fund through the Federal Acquisition Institute to support the activities set forth in section 1201(a) of this title, except as provided in paragraph (5). The Administrator of General Services shall consult with the Administrator in managing the fund.
 
 &emsp;(3)
 

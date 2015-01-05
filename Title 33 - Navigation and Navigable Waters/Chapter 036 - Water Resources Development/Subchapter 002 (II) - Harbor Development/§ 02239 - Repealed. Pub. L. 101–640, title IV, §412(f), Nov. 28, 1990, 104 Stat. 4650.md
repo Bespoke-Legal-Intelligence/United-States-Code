@@ -32,7 +32,7 @@ Assistance by the secretary.—The Secretary shall assist the project to ensure 
 
 "(b)
 
-Decontamination Defined.—For purposes of this section, 'decontamination' may include local or remote prototype or production and laboratory decontamination technologies, sediment pre-treatment and post-treatment processes, and siting, economic, or othermeasures necessary to develop a matrix for selection of interim prototype of long-term processes. Decontamination techniques need not be preproven in terms of likely success.
+Decontamination Defined.—For purposes of this section, 'decontamination' may include local or remote prototype or production and laboratory decontamination technologies, sediment pre-treatment and post-treatment processes, and siting, economic, or other measures necessary to develop a matrix for selection of interim prototype of long-term processes. Decontamination techniques need not be preproven in terms of likely success.
 
 "(c)
 

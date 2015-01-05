@@ -34,7 +34,7 @@ The Secretary shall provide from the funds appropriated under subsection (d)(1)(
 
 #### (4) Limitation for territories
 
-&emsp;In no case shall the aggregate amount allotted and made available under paragraph (2) fora fiscal year to States that are not the 50 States or the District of Columbia exceed $1,000,000.
+&emsp;In no case shall the aggregate amount allotted and made available under paragraph (2) for a fiscal year to States that are not the 50 States or the District of Columbia exceed $1,000,000.
 
 #### (c) Bonus grants for supplemental consumer benefits
 
@@ -122,7 +122,7 @@ In this section:
 
 &emsp;The term "standard risk rate" means a rate—
 
-&emsp;&emsp;(A) determined under the State high risk pool by considering the premium ratescharged by other health insurers offering health insurance coverage to individuals in the insurance market served;
+&emsp;&emsp;(A) determined under the State high risk pool by considering the premium rates charged by other health insurers offering health insurance coverage to individuals in the insurance market served;
 
 &emsp;&emsp;(B) that is established using reasonable actuarial techniques; and
 

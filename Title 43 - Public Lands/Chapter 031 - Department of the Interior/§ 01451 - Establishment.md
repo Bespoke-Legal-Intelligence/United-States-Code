@@ -12,7 +12,7 @@ Section was formerly classified to section 481 of Title 5 prior to the general r
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–125, §1, Dec. 7, 2005, 119 Stat. 2544, provided that: "This Act \[enacting section 1475b of this title and provisions set out as a note under section 1475b of this title\] may be cited as the 'Department of the Interior Volunteer Recruitment Act of 2005'."
+Pub. L. 109–125, §1, Dec. 7, 2005, 119 Stat. 2544, provided that: "This Act \[enacting section 1475b of this title andprovisions set out as a note under section 1475b of this title\] may be cited as the 'Department of the Interior Volunteer Recruitment Act of 2005'."
 
 #### Transfer of Functions
 

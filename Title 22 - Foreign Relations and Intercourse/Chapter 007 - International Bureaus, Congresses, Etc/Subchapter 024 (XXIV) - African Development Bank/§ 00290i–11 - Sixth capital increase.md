@@ -4,7 +4,7 @@
 
 (1) The United States Governor of the Bank may subscribe on behalf of the United States to 289,391 additional shares of the capital stock of the Bank.
 
-(2) Any subscription by the United States to the capital stock of the Bank shall be effective only to such extent and in such amounts as are provided in advance in appropriations Acts.
+(2) Any subscription by the United States to the capital stock of the Bank shall be effectiveonly to such extent and in such amounts as are provided in advance in appropriations Acts.
 
 #### (b) Limitations on authorization of appropriations
 

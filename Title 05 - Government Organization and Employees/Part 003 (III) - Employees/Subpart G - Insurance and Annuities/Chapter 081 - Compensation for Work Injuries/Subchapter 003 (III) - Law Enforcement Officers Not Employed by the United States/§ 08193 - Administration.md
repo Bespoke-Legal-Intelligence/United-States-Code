@@ -4,9 +4,9 @@
 
 Definitions and Rules of Construction.—For the purpose of this subchapter—
 
-&emsp;(1) The term “Attorney General” includes any person to whom the Attorney General has delegated any function pursuant to subsection (b) of this section.
+&emsp;(1) The term "Attorney General" includes any person to whom the Attorney General has delegated any function pursuant to subsection (b) of this section.
 
-&emsp;(2) The term “Secretary of Labor” includes any person to whom the Secretary of Labor has delegated any function pursuant to subsection (b) of this section.
+&emsp;(2) The term "Secretary of Labor" includes any person to whom the Secretary of Labor has delegated any function pursuant to subsection (b) of this section.
 
 (b)
 

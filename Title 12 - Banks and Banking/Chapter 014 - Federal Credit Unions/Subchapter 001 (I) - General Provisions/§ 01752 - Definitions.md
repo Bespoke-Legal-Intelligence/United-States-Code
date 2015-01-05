@@ -52,7 +52,7 @@ Pars. (6) to (8). Pub. L. 95–630, §503(a), redesignated former pars. (5) to (
 
 Par. (9). Pub. L. 95–630, §503(a), (c), redesignated former par. (8) as (9), inserted ", including the trust territories," after "several territories", and inserted provision that term "branch" also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
-<b>1977</b>—Par. (4). Pub. L. 95–22 inserted provision that such terms mean those accounts of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof in which payments are received by a credit union pursuant to section 1757(6) of this title.
+<b>1977</b>—Par. (4). Pub. L. 95–22 inserted provision that such terms mean those accounts of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof inwhich payments are received by a credit union pursuant to section 1757(6) of this title.
 
 <b>1970</b>—Par. (2). Pub. L. 91–206 substituting "Administrator" as meaning Administrator of the National Credit Union Administration for "Bureau" as meaning the Bureau of Federal Credit Unions.
 

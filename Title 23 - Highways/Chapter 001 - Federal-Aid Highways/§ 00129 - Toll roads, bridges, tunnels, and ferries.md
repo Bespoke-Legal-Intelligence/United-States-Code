@@ -6,7 +6,7 @@ Basic Program.—
 
 &emsp;(1)
 
-Authorization for federal participation.—Subject to the provisions of this section, Federal participation shall be permitted on the same basis and in the same manner asconstruction of toll-free highways is permitted under this chapter in the—
+Authorization for federal participation.—Subject to the provisions of this section, Federal participation shall be permitted on the same basis and in the same manner as construction of toll-free highways is permitted under this chapter in the—
 
 &emsp;&emsp;(A) initial construction of a toll highway, bridge, or tunnel or approach to the highway, bridge, or tunnel;
 
@@ -228,7 +228,7 @@ The date of enactment of the MAP–21, referred to in subsec. (a)(9), is deemed 
 
 Subsec. (c)(3). Pub. L. 105–178, §1207(a), substituted "owned or operated or majority publicly owned if the Secretary determines with respect to a majority publicly owned ferry or ferry terminal facility that such ferry boat or ferry terminal facility provides substantial public benefits." for "owned."
 
-Subsec. (d). Pub. L. 105–178, §1211(f), formerly §1211(g), as renumbered by Pub. L. 105–206, §9003(d)(5), struck outsubsec. (d) which related to pilot toll collection program.
+Subsec. (d). Pub. L. 105–178, §1211(f), formerly §1211(g), as renumbered by Pub. L. 105–206, §9003(d)(5), struck out subsec. (d) which related to pilot toll collection program.
 
 <b>1995</b>—Subsec. (a)(5). Pub. L. 104–59, §313(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
 
@@ -240,7 +240,7 @@ Subsec. (a)(7). Pub. L. 104–59, §313(b), amended par. (7) generally. Prior to
 
 "(7)
 
-Loans.—A State may loan all or part of the Federal share of a toll project under this section to a public or private agency constructing a toll facility. Such loan may be made only after all Federal environmental requirements have been complied with and permits obtained. The amount loaned shall be subordinated to other debt financing for the facility except for loans made by the State or any other public agency to the agency constructing the facility. Funds loaned pursuant to this section may be obligated for projects eligible under this section. The repayment of any such loan shall commence not more than 5 years after the facility has opened to traffic. Any such loan shall bear interest at the average rate the State's pooled investment fund earned in the 52 weeks preceding the start of repayment. The term of any such loan shall not exceed 30 years from the time the loan was obligated. Amounts repaid to a State from any loan made under this section may be obligated for any purpose for which the loaned funds were available. The Secretary shall establish procedures and guidelines for making such loans."
+Loans.—A State may loan all or part of the Federal share of a toll project under this section to a public or private agency constructing a toll facility. Such loan may be made only after all Federal environmental requirements have been complied with and permits obtained. The amount loaned shall be subordinated to other debt financing for the facility except for loans made by the State or any other public agency to the agency constructing the facility. Funds loaned pursuant to this section may be obligated for projects eligible under this section. The repayment of any such loan shall commence not more than 5 years after the facilityhas opened to traffic. Any such loan shall bear interest at the average rate the State's pooled investment fund earned in the 52 weeks preceding the start of repayment. The term of any such loan shall not exceed 30 years from the time the loan was obligated. Amounts repaid to a State from any loan made under this section may be obligated for any purpose for which the loaned funds were available. The Secretary shall establish procedures and guidelines for making such loans."
 
 Subsec. (c)(5). Pub. L. 104–59, §313(c), inserted before period at end of first sentence "or between a point in a State and a point in the Dominion of Canada" and in second sentence substituted "Hawaii," for "Hawaii and" and inserted ", operations between a point in a State and a point in the Dominion of Canada," after "Puerto Rico".
 
@@ -266,7 +266,7 @@ Subsec. (i). Pub. L. 102–240, §1012(c)(1), struck out subsec. (i) which autho
 
 Subsec. (j). Pub. L. 102–240, §1012(c)(2), redesignated subsec. (j) as (d).
 
-Subsec. (k). Pub. L. 102–240, §1012(c)(1), struck out subsec. (k) which required operators of toll roads, tunnels, ferries and bridges on Federal-aid highway system to biennially certify to Governor of State that facilities were adequately maintained and that operator had ability to fund such facilities that were not adequately maintained without using Federal-aid highway funds,and which required Governor of each State to report biennially to Secretary on facilities required to so certify.
+Subsec. (k). Pub. L. 102–240, §1012(c)(1), struck out subsec. (k) which required operators of toll roads, tunnels, ferries and bridges on Federal-aid highway system to biennially certify to Governor of State that facilities were adequately maintained and that operator had ability to fund such facilities that were not adequately maintained without using Federal-aid highway funds, and which required Governor of each State to report biennially to Secretary on facilities required to so certify.
 
 <b>1988</b>—Subsec. (j)(1), (3). Pub. L. 100–457, §335, amended Pub. L. 100–202, §101(l) \[title III, §347(d)(1), (2)(A), (C)\], see 1987 Amendment note below.
 
@@ -638,7 +638,7 @@ Eligibility.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;"(A) An identification of the facility on the Interstate System proposed to be a toll facility, including the age, condition, and intensity of use of the facility.
 
-&emsp;"(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitan planning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
+&emsp;"(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitanplanning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
 
 &emsp;"(C) An analysis demonstrating that the facility could not be maintained or improved to meet current or future needs from the State's apportionments and allocations made available by this Act \[see Tables for classification\] (including amendments made by this Act) and from revenues for highways from any other source without toll revenues.
 

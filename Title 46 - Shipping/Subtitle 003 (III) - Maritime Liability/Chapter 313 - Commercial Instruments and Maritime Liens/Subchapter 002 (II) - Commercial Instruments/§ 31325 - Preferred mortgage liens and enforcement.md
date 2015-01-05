@@ -8,7 +8,7 @@
 
 &emsp;(2) enforce a claim for the outstanding indebtedness secured by the mortgaged vessel in—
 
-&emsp;&emsp;(A) a civil action in personam in admiralty against the mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
+&emsp;&emsp;(A) a civil action in personam in admiralty against the mortgagor, maker, comaker, orguarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
 
 &emsp;&emsp;(B) a civil action against the mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
 
@@ -84,7 +84,7 @@ Section 31325 provides for the enforcement of a preferred mortgage lien.
 
 Section 31325(a) makes a "preferred mortgage" a lien on the vessel in the amount of the mortgage indebtedness secured by the vessel outstanding at foreclosure. This subsection makes no substantive change to law.
 
-Section 31325(b) provides that, on default of any term, the mortgagee may enforce the preferred mortgage lien in a civil action <i>in rem</i>, or <i>in personam</i> in admiralty against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This subsection makes a substantive change to law by allowing a nonadmiralty civil action to be brought against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This change allows an action to be brought even when the vessel is outside U.S. jurisdiction. This section will also allow the action to be brought against the comaker or guarantor of the mortgage.
+Section 31325(b) provides that, on default of any term, the mortgagee may enforce the preferred mortgage lien in a civil action <i>in rem</i>, or <i>in personam</i> in admiralty against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This subsection makes a substantive change to law by allowing a nonadmiralty civil action to be brought against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This change allows an action to be brought even when the vessel is outside U.S. jurisdiction. Thissection will also allow the action to be brought against the comaker or guarantor of the mortgage.
 
 Section 31325(c) provides for original and exclusive jurisdiction by a district court, to the exclusion of the courts of a State for civil actions brought <i>in rem</i>. It also provides for original jurisdiction for civil actions brought <i>in personam</i> in admiralty and civil actions brought under subsection (b)(3). This subsection makes a substantive change to law by broadening the jurisdiction to courts in the territories, as defined in section 31301, as well as giving original jurisdiction to the district courts in nonadmiralty civil actions brought to enforce the preferred mortgage lien.
 

@@ -10,7 +10,7 @@ Section was formerly classified to section 74a–2 of this title prior to editor
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Joint Committee on Taxation” for “Joint Committee on Internal Revenue Taxation”.
+<b>1994</b>—Pub. L. 103–437 substituted "Joint Committee on Taxation" for "Joint Committee on Internal Revenue Taxation".
 
 #### Effective Date
 

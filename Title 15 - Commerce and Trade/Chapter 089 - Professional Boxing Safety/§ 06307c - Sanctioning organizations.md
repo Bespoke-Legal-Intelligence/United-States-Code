@@ -44,7 +44,7 @@ A sanctioning organization shall not be entitled to receive any compensation, di
 
 #### (3) Federal Trade Commission to make information available to public
 
-&emsp;The Federal Trade Commission shall make information received under this subsectionavailable to the public. The Commission may assess sanctioning organizations a fee to offset the costs it incurs in processing the information and making it available to the public.
+&emsp;The Federal Trade Commission shall make information received under this subsection available to the public. The Commission may assess sanctioning organizations a fee to offset the costs it incurs in processing the information and making it available to the public.
 
 #### (4) Internet alternative
 

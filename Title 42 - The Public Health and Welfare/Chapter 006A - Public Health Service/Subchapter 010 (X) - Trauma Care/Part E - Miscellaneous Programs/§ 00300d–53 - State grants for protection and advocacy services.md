@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the "Administrator"), shall make grants to protection and advocacy systems for the purpose of enabling such systems to provide services to individuals with traumatic brain injury.
+The Secretary shall make grants to protection and advocacy systems for the purpose of enabling such systems to provide services to individuals with traumatic brain injury.
 
 #### (b) Services provided
 
@@ -18,13 +18,13 @@ Services provided under this section may include the provision of—
 
 #### (c) Application
 
-To be eligible to receive a grant under this section, a protection and advocacy system shall submit an application to the Administrator at such time, in such form and manner, and accompanied by such information and assurances as the Administrator may require.
+To be eligible to receive a grant under this section, a protection and advocacy system shall submit an application to the Secretary at such time, in such form and manner, and accompanied by such information and assurances as the Secretary may require.
 
 #### (d) Appropriations less than $2,700,000
 
 #### (1) In general
 
-&emsp;With respect to any fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is less than $2,700,000, the Administrator shall make grants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
+&emsp;With respect to any fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is less than $2,700,000, the Secretary shall make grants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
 
 #### (2) Amount
 
@@ -34,7 +34,7 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (1) Population basis
 
-&emsp;Except as provided in paragraph (2), with respect to each fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is $2,700,000 or more, the Administrator shall make a grant to a protection and advocacy system within each State.
+&emsp;Except as provided in paragraph (2), with respect to each fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is $2,700,000 or more, the Secretary shall make a grant to a protection and advocacy system within each State.
 
 #### (2) Amount
 
@@ -50,29 +50,35 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (4) Inflation adjustment
 
-&emsp;For each fiscal year in which the total amount appropriated under subsection (l) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Administrator shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (l) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
+&emsp;For each fiscal year in which the total amount appropriated under subsection (l) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Secretary shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (l) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (f) Carryover
 
-Any amount paid to a protection and advocacy system that serves a State or the American Indian consortium for a fiscal year under this section that remains unobligated at the end of such fiscal year shall remain available to such system for obligation during the next fiscal year for the purposes for which such amount was originally provided.
+Any amount paid to a protection and advocacy system that serves a State or the American Indian consortium for a fiscal year under this section that remains unobligated at the end of suchfiscal year shall remain available to such system for obligation during the next fiscal year for the purposes for which such amount was originally provided.
 
 #### (g) Direct payment
 
-Notwithstanding any other provision of law, each fiscal year not later than October 1, theAdministrator shall pay directly to any protection and advocacy system that complies with the provisions of this section, the total amount of the grant for such system, unless the system provides otherwise for such payment.
+Notwithstanding any other provision of law, each fiscal year not later than October 1, the Secretary shall pay directly to any protection and advocacy system that complies with the provisions of this section, the total amount of the grant for such system, unless the system provides otherwise for such payment.
 
-#### (h) Annual report
+#### (h) Reporting
 
-Each protection and advocacy system that receives a payment under this section shall submit an annual report to the Administrator concerning the services provided to individuals with traumatic brain injury by such system.
+#### (1) Reports by systems
+
+&emsp;Each protection and advocacy system that receives a payment under this section shall submit an annual report to the Secretary concerning the services provided to individuals with traumatic brain injury by such system.
+
+#### (2) Report by Secretary
+
+&emsp;Not later than 1 year after November 26, 2014, the Secretary shall prepare and submit to the appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
 
 #### (i) Data collection
 
-The Administrator of the Health Resources and Services Administration and the Commissioner of the Administration on Developmental Disabilities shall enter into an agreement to coordinate the collection of data by the Administrator and the Commissioner regarding protection and advocacy services.
+The Secretary shall facilitate agreements to coordinate the collection of data by agencies within the Department of Health and Human Services regarding protection and advocacy services.
 
 #### (j) Training and technical assistance
 
 #### (1) Grants
 
-&emsp;For any fiscal year for which the amount appropriated to carry out this section is $6,000,000 or greater, the Administrator shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
+&emsp;For any fiscal year for which the amount appropriated to carry out this section is $6,000,000 or greater, the Secretary shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
 
 #### (2) Definition
 
@@ -80,11 +86,11 @@ The Administrator of the Health Resources and Services Administration and the Co
 
 #### (k) System authority
 
-In providing services under this section, a protection and advocacy system shall have the same authorities, including access to records, as such system would have for purposes of providing services under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\].
+In providing services under this section, a protection and advocacy system shall have the same authorities, including access to records, as such system would have for purposes of providing services under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).
 
 #### (l) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2001, and such sums as may be necessary for each <sup>2</sup> the fiscal years 2009 through 2012.
+There are authorized to be appropriated to carry out this section $3,100,000 for each of the fiscal years 2015 through 2019.
 
 #### (m) Definitions
 
@@ -92,25 +98,41 @@ In this section:
 
 #### (1) American Indian consortium
 
-&emsp;The term "American Indian consortium" means a consortium established under part C of the Developmental Disabilities Assistance <sup>3</sup> Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>4</sup>
+&emsp;The term "American Indian consortium" means a consortium established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).
 
 #### (2) Protection and advocacy system
 
-&emsp;The term "protection and advocacy system" means a protection and advocacy system established under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>4</sup>
+&emsp;The term "protection and advocacy system" means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).
 
 #### (3) State
 
 &emsp;The term "State", unless otherwise specified, means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(July 1, 1944, ch. 373, title XII, §1253, as added Pub. L. 106–310, div. A, title XIII, §1305, Oct. 17, 2000, 114 Stat. 1141; amended Pub. L. 110–206, §6(b), Apr. 28, 2008, 122 Stat. 717.)
+(July 1, 1944, ch. 373, title XII, §1253, as added Pub. L. 106–310, div. A, title XIII, §1305, Oct. 17, 2000, 114 Stat. 1141; amended Pub. L. 110–206, §6(b), Apr. 28, 2008, 122 Stat. 717; Pub. L. 113–196, §4, Nov. 26, 2014, 128 Stat. 2053.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (k), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
-
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (m)(1), (2), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (k) and (m)(1), (2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–196, §4(1), struck out ", acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the 'Administrator')," after "The Secretary".
+
+Subsecs. (c), (d)(1), (e)(1), (4), (g). Pub. L. 113–196, §4(2), substituted "Secretary" for "Administrator" wherever appearing.
+
+Subsec. (h). Pub. L. 113–196, §4(2), (3), substituted "Reporting" for "Annual report" in heading; designated existing provisions as par. (1), inserted heading, and substituted "Secretary" for "Administrator"; and added par. (2).
+
+Subsec. (i). Pub. L. 113–196, §4(4), substituted "The Secretary shall facilitate agreements to coordinate the collection of data by agencies within the Department of Health and Human Services regarding" for "The Administrator of the Health Resources and Services Administration and the Commissioner of the Administration on Developmental Disabilities shall enter into an agreement to coordinate the collection of data by the Administrator and the Commissioner regarding".
+
+Subsec. (j)(1). Pub. L. 113–196, §4(2), substituted "Secretary" for "Administrator".
+
+Subsec. (k). Pub. L. 113–196, §4(5), substituted "subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.)" for "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000".
+
+Subsec. (l). Pub. L. 113–196, §4(6), substituted "$3,100,000 for each of the fiscal years 2015 through 2019" for "$5,000,000 for fiscal year 2001, and such sums as may be necessary for each the fiscal years 2009 through 2012".
+
+Subsec. (m)(1). Pub. L. 113–196, §4(7)(A), substituted "subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.)" for "part C of the Developmental Disabilities Assistance Bill of Rights Act (42 U.S.C. 6042 et seq.)".
+
+Subsec. (m)(2). Pub. L. 113–196, §4(7)(B), substituted "subtitle C of title I of the Developmental DisabilitiesAssistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.)" for "part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042 et seq.)".
 
 <b>2008</b>—Subsecs. (d), (e). Pub. L. 110–206, §6(b)(1), substituted "subsection (l)" for "subsection (i)" wherever appearing.
 
@@ -123,10 +145,4 @@ Subsec. (l). Pub. L. 110–206, §6(b)(3), (5), redesignated subsec. (i) as (l) 
 Subsec. (m). Pub. L. 110–206, §6(b)(3), redesignated subsec. (j) as (m).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "of".</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by "and".</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
 

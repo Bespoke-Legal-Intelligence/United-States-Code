@@ -1,6 +1,6 @@
 ### §1642. Issuance of credit cards
 
-No credit card shall be issued except in response to a request or application therefor. Thisprohibition does not apply to the issuance of a credit card in renewal of, or in substitution for, an accepted credit card.
+No credit card shall be issued except in response to a request or application therefor. This prohibition does not apply to the issuance of a credit card in renewal of, or in substitution for, an accepted credit card.
 
 (Pub. L. 90–321, title I, §132, as added Pub. L. 91–508, title V, §502(a), Oct. 26, 1970, 84 Stat. 1126.)
 

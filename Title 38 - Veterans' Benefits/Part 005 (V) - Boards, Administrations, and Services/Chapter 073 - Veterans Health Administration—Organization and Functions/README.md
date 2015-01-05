@@ -110,7 +110,7 @@ Pub. L. 107–135, title I, §125(a)(2), Jan. 23, 2002, 115 Stat. 2453, added it
 
 Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substituted "Under Secretary for Health" for "Chief Medical Director" in item 7306.
 
-<b>1991</b>—Pub. L. 102–40, title IV, §401(a)(1), (3), May 7, 1991, 105 Stat. 210, substituted "VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS" for "DEPARTMENT OF MEDICINE AND SURGERY" as chapter heading, added analysis for subchapters I to IV, and struck out former analysis consisting of subchapter I containing items 4101 to 4119 and 4210, subchapter II containing items 4121 to 4124, subchapter III containing items 4131 to 4134, subchapter IV containing items 4141 and 4142, subchapter V containing items 4151 and 4152, and subchapter VI containing items 4161 to 4168.
+<b>1991</b>—Pub. L. 102–40, title IV, §401(a)(1), (3), May 7, 1991, 105 Stat. 210, substituted "VETERANS HEALTHADMINISTRATION—ORGANIZATION AND FUNCTIONS" for "DEPARTMENT OF MEDICINE AND SURGERY" as chapter heading, added analysis for subchapters I to IV, and struck out former analysis consisting of subchapter I containing items 4101 to 4119 and 4210, subchapter II containing items 4121 to 4124, subchapter III containing items 4131 to 4134, subchapter IV containing items 4141 and 4142, subchapter V containing items 4151 and 4152, and subchapter VI containing items 4161 to 4168.
 
 <b>1990</b>—Pub. L. 101–366, title I, §102(d), Aug. 15, 1990, 104 Stat. 436, added heading for subchapter IV and items 4141 and 4142.
 

@@ -16,7 +16,7 @@ The administering authority shall provide information to the public upon request
 
 #### (2) Request by interested party regarding prohibited subsidy
 
-&emsp;An interested party may request that the administering authority determine if there is reason to believe that merchandise producedin a WTO member country is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that such merchandise is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
+&emsp;An interested party may request that the administering authority determine if there is reason to believe that merchandise produced in a WTO member country is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that such merchandise is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
 #### (c) Subsidies actionable under Agreement
 
@@ -88,7 +88,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (F) Noncompliance with Committee recommendation
 
-&emsp;&emsp;In the event that the Subsidies Committee makes a recommendation under Article 9.4 of the Subsidies Agreement and the WTO member country with respect to which such recommendation is made does not comply with such recommendation within 6 months after the date of the recommendation, theTrade Representative shall make a determination under section 304(a)(1) of the Trade Act of 1974 (19 U.S.C. 2414(a)(1)) regarding what action to take under section 301(a) of that Act \[19 U.S.C. 2411(a)\].
+&emsp;&emsp;In the event that the Subsidies Committee makes a recommendation under Article 9.4 of the Subsidies Agreement and the WTO member country with respect to which such recommendation is made does not comply with such recommendation within 6 months after the date of the recommendation, the Trade Representative shall make a determination under section 304(a)(1) of the Trade Act of 1974 (19 U.S.C. 2414(a)(1)) regarding what action to take under section 301(a) of that Act \[19 U.S.C. 2411(a)\].
 
 #### (f) Notification, consultation, and publication
 
@@ -98,7 +98,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (2) Publication in the Federal Register
 
-&emsp;The administering authority shall publish regularly in the Federal Register a summary notice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
+&emsp;The administering authority shall publish regularly in the Federal Register a summarynotice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
 
 #### (3) Consultations with Congress and private sector
 

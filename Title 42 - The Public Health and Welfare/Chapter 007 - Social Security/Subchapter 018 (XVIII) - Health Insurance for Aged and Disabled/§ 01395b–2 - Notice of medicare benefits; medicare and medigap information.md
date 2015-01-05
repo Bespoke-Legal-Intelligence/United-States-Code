@@ -56,7 +56,7 @@ Pub. L. 108–173, title IX, §923(d)(2), Dec. 8, 2003, 117 Stat. 2395, provided
 
 "(A)
 
-Study.—The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both, through the toll-free telephone number 1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
+Study.—The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both, through the toll-free telephone number1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
 
 "(B)
 
@@ -68,7 +68,7 @@ For provisions relating to changes required to conform State regulatory programs
 
 #### Demonstration Projects
 
-Pub. L. 101–508, title IV, §4361(b), Nov. 5, 1990, 104 Stat. 1388–141, provided that: "The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicaresupplemental policies available in the State, and benefits under the State medicaid program."
+Pub. L. 101–508, title IV, §4361(b), Nov. 5, 1990, 104 Stat. 1388–141, provided that: "The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available in the State, and benefits under the State medicaid program."
 
 #### Notice of Changes Under Repeal of Medicare Catastrophic Coverage
 

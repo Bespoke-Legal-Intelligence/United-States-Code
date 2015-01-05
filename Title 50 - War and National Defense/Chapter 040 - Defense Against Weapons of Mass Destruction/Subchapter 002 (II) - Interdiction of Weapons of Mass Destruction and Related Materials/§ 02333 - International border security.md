@@ -6,7 +6,7 @@ The Secretary of Defense, in consultation and cooperation with the Commissioner 
 
 #### (b) Other countries
 
-The Secretary of Defense may carry out programs under subsection (a) of this section in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportationof nuclear, biological, or chemical weapons or related materials.
+The Secretary of Defense may carry out programs under subsection (a) of this section in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportation of nuclear, biological, or chemical weapons or related materials.
 
 #### (c) Assistance to states of former Soviet Union
 

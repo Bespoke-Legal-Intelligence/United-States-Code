@@ -116,7 +116,7 @@
 
 #### (A) Minimum contents
 
-&emsp;&emsp;Each cable operator of a cable system shall provide its subscribers a separatelyavailable basic service tier to which subscription is required for access to any other tier of service. Such basic service tier shall, at a minimum, consist of the following:
+&emsp;&emsp;Each cable operator of a cable system shall provide its subscribers a separately available basic service tier to which subscription is required for access to any other tier of service. Such basic service tier shall, at a minimum, consist of the following:
 
 &emsp;&emsp;&emsp;(i) All signals carried in fulfillment of the requirements of sections 534 and 535 of this title.
 
@@ -132,7 +132,7 @@
 
 #### (A) Prohibition
 
-&emsp;&emsp;A cable operator may not require the subscription to any tier other than the basic service tier required by paragraph (7) as a condition of access to video programming offered on a per channel or per program basis. A cable operator may not discriminate between subscribers to the basic service tier and other subscribers with regard to the rates charged for video programming offered on a per channel or per program basis.
+&emsp;&emsp;A cable operator may not require the subscription to any tier other than the basic service tier required by paragraph (7) as a condition of access to video programming offered on a per channel or per program basis.A cable operator may not discriminate between subscribers to the basic service tier and other subscribers with regard to the rates charged for video programming offered on a per channel or per program basis.
 
 #### (B) Exception; limitation
 
@@ -176,7 +176,7 @@
 
 #### (3) Review of rate changes
 
-&emsp;The Commission shall review any complaint submitted by a franchising authority after February 8, 1996, concerning an increase in rates for cable programming services and issuea final order within 90 days after it receives such a complaint, unless the parties agree to extend the period for such review. A franchising authority may not file a complaint under this paragraph unless, within 90 days after such increase becomes effective it receives subscriber complaints.
+&emsp;The Commission shall review any complaint submitted by a franchising authority after February 8, 1996, concerning an increase in rates for cable programming services and issue a final order within 90 days after it receives such a complaint, unless the parties agree to extend the period for such review. A franchising authority may not file a complaint under this paragraph unless, within 90 days after such increase becomes effective it receives subscriber complaints.
 
 #### (4) Sunset of upper tier rate regulation
 
@@ -216,11 +216,19 @@ During the term of an agreement made before July 1, 1990, by a franchising autho
 
 #### (k) Reports on average prices
 
-The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
+#### (1) In general
 
-&emsp;(1) cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
+&emsp;The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
 
-&emsp;(2) cable systems that the Commission has found are not subject to such effective competition.
+#### (2) Inclusion in annual report
+
+#### (A) In general
+
+&emsp;&emsp;The Commission shall include in its report under paragraph (1) the aggregate average total amount paid by cable systems in compensation under section 325 of this title.
+
+#### (B) Form
+
+&emsp;&emsp;The Commission shall publish information under this paragraph in a manner substantially similar to the way other comparable information is published in such report.
 
 #### (l) Definitions
 
@@ -238,7 +246,7 @@ As used in this section—
 
 &emsp;&emsp;(C) a multichannel video programming distributor operated by the franchising authority for that franchise area offers video programming to at least 50 percent of the households in that franchise area; or
 
-&emsp;&emsp;(D) a local exchange carrier or its affiliate (or any multichannel video programming distributor using the facilities of such carrier or its affiliate) offers video programming services directly to subscribers by any means (other than direct-to-home satellite services) in the franchise area of an unaffiliated cable operator which is providing cable service in that franchise area, but only if thevideo programming services so offered in that area are comparable to the video programming services provided by the unaffiliated cable operator in that area.
+&emsp;&emsp;(D) a local exchange carrier or its affiliate (or any multichannel video programming distributor using the facilities of such carrier or its affiliate) offers video programming services directly to subscribers by any means (other than direct-to-home satellite services) in the franchise area of an unaffiliated cable operator which is providing cable service in that franchise area, but only if the video programming services so offered in that area are comparable to the video programming services provided by the unaffiliated cable operator in that area.
 
 &emsp;(2) The term "cable programming service" means any video programming provided over a cable system, regardless of service tier, including installation or rental of equipment used for the receipt of such video programming, other than (A) video programming carried on the basic service tier, and (B) video programming offered on a per channel or per program basis.
 
@@ -262,9 +270,31 @@ As used in this section—
 
 Notwithstanding any other provision of this section or of section 532 of this title, losses associated with a cable system (including losses associated with the grant or award of a franchise) that were incurred prior to September 4, 1992, with respect to a cable system that is owned and operated by the original franchisee of such system shall not be disallowed, in whole or in part, in the determination of whether the rates for any tier of service or any type of equipment that is subject to regulation under this section are lawful.
 
-(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106 Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118.)
+#### (o) Streamlined petition process for small cable operators
+
+#### (1) In general
+
+&emsp;Not later than 180 days after December 4, 2014, the Commission shall complete a rulemaking to establish a streamlined process for filing of an effective competition petition pursuant to this section for small cable operators, particularly those who serve primarily rural areas.
+
+#### (2) Construction
+
+&emsp;Nothing in this subsection shall be construed to have any effect on the duty of a small cable operator to prove the existence of effective competition under this section.
+
+#### (3) Definition of small cable operator
+
+&emsp;In this subsection, the term "small cable operator" has the meaning given the term in subsection (m)(2).
+
+(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106 Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118; Pub. L. 113–200, title I, §§110, 111, Dec. 4, 2014, 128 Stat. 2065, 2066.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (k). Pub. L. 113–200, §110, amended subsec. (k) generally. Prior to amendment, text read as follows: "The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
+
+&emsp;"(1) cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
+
+&emsp;"(2) cable systems that the Commission has found are not subject to such effective competition."
+
+Subsec. (o). Pub. L. 113–200, §111, added subsec. (o).
 
 <b>1996</b>—Subsec. (a)(7). Pub. L. 104–104, §301(j), added par. (7).
 
@@ -294,7 +324,7 @@ Pub. L. 102–385, §3(b), Oct. 5, 1992, 106 Stat. 1471, provided that: "The ame
 
 #### Effective Date
 
-Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) ofPub. L. 98–549, set out as a note under section 521 of this title.
 
 #### Restoration, Retierment and Repricing of Service Previously Eliminated, Retiered, or Repriced
 

@@ -12,7 +12,7 @@ Except as otherwise provided in this section, neither the Secretary nor any othe
 
 #### (b) Permissible disclosure
 
-A disclosure otherwise prohibited by subsection (a) may be made in connection with theadministration or civil or criminal enforcement of any tax imposed by this title. However, any document or information so disclosed may not be—
+A disclosure otherwise prohibited by subsection (a) may be made in connection with the administration or civil or criminal enforcement of any tax imposed by this title. However, any document or information so disclosed may not be—
 
 &emsp;(1) divulged or made known in any manner whatever by any officer or employee of the United States to any person except in connection with the administration or civil or criminal enforcement of this title, nor
 

@@ -56,7 +56,7 @@ Amending Passenger Automobile Standards.—The Secretary of Transportation may p
 
 (d)
 
-Exemptions.—(1) Except as provided in paragraph (3) of this subsection, on application of a manufacturer that manufactured (whether in the United States or not) fewer than 10,000 passenger automobiles in the model year 2 years before the model year for which the application is made, the Secretary of Transportation may exempt by regulation the manufacturer from a standard under subsection (b) or (c) of this section. An exemption for a model year applies only if the manufacturer manufactures (whether in the United States or not) fewer than 10,000 passenger automobiles in the model year. The Secretary may exempt a manufacturer only if the Secretary—
+Exemptions.—(1) Except as provided in paragraph (3) of this subsection, on application of a manufacturer that manufactured (whether in the United States or not) fewer than 10,000 passenger automobiles in the model year 2 years before the model year for which the application is made, the Secretary of Transportation may exempt by regulation the manufacturer from a standard under subsection (b) or (c) of this section. An exemption for a model year applies only if the manufacturer manufactures (whether in the United States or not) fewer than 10,000 passenger automobiles in the model year. TheSecretary may exempt a manufacturer only if the Secretary—
 
 &emsp;(A) finds that the applicable standard under those subsections is more stringent than the maximum feasible average fuel economy level that the manufacturer can achieve; and
 
@@ -64,7 +64,7 @@ Exemptions.—(1) Except as provided in paragraph (3) of this subsection, on app
 
 (2) An alternative average fuel economy standard the Secretary of Transportation prescribes under paragraph (1)(B) of this subsection may apply to an individually exempted manufacturer, to all automobiles to which this subsection applies, or to classes of passenger automobiles, as defined under regulations of the Secretary, manufactured by exempted manufacturers.
 
-(3) Notwithstanding paragraph (1) of this subsection, an importer registered under section30141(c) of this title may not be exempted as a manufacturer under paragraph (1) for a motor vehicle that the importer—
+(3) Notwithstanding paragraph (1) of this subsection, an importer registered under section 30141(c) of this title may not be exempted as a manufacturer under paragraph (1) for a motor vehicle that the importer—
 
 &emsp;(A) imports; or
 
@@ -126,13 +126,13 @@ Study.—Not later than 1 year after the National Academy of Sciences publishes 
 
 &emsp;&emsp;(B) the appropriate metric for measuring and expressing commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency performance, taking into consideration, among other things, the work performed by such on-highway vehicles and work trucks and types of operations in which they are used;
 
-&emsp;&emsp;(C) the range of factors, including, without limitation, design, functionality, use, duty cycle, infrastructure, and total overall energy consumption and operating costs that affect commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency; and
+&emsp;&emsp;(C) the range of factors, including, without limitation, design, functionality, use, dutycycle, infrastructure, and total overall energy consumption and operating costs that affect commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency; and
 
 &emsp;&emsp;(D) such other factors and conditions that could have an impact on a program to improve commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency.
 
 &emsp;(2)
 
-Rulemaking.—Not later than 24 months after completion of the study required under paragraph (1), the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, by regulation, shall determine in a rulemaking proceeding how to implement a commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency improvement program designed to achieve the maximum feasible improvement, and shall adopt and implement appropriate test methods, measurement metrics, fuel economystandards, and compliance and enforcement protocols that are appropriate, cost-effective, and technologically feasible for commercial medium- and heavy-duty on-highway vehicles and work trucks. The Secretary may prescribe separate standards for different classes of vehicles under this subsection.
+Rulemaking.—Not later than 24 months after completion of the study required under paragraph (1), the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, by regulation, shall determine in a rulemaking proceeding how to implement a commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency improvement program designed to achieve the maximum feasible improvement, and shall adopt and implement appropriate test methods, measurement metrics, fuel economy standards, and compliance and enforcement protocols that are appropriate, cost-effective, and technologically feasible for commercial medium- and heavy-duty on-highway vehicles and work trucks. The Secretary may prescribe separate standards for different classes of vehicles under this subsection.
 
 &emsp;(3)
 
@@ -250,7 +250,7 @@ Section 108 of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (k)(1), i
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–140, §102(a)(1), in heading, substituted "Prescription of Standards by Regulation" for "Non-Passenger Automobiles", and, in text, struck out "(except passenger automobiles)" after "for automobiles" and "The Secretary may prescribe separate standards for different classes of automobiles." at end.
 
-Subsec. (b). Pub. L. 110–140, §102(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "Except asprovided in this section, the average fuel economy standard for passenger automobiles manufactured by a manufacturer in a model year after model year 1984 shall be 27.5 miles a gallon."
+Subsec. (b). Pub. L. 110–140, §102(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "Except as provided in this section, the average fuel economy standard for passenger automobiles manufactured by a manufacturer in a model year after model year 1984 shall be 27.5 miles a gallon."
 
 Subsec. (c). Pub. L. 110–140, §102(a)(3), substituted "The Secretary" for "(1) Subject to paragraph (2) of this subsection, the Secretary" and struck out par. (2) which read as follows: "If an amendment increases the standard above 27.5 miles a gallon or decreases the standard below 26.0 miles a gallon, the Secretary of Transportation shall submit the amendment to Congress. The procedures of section 551 of the Energy Policy and Conservation Act (42 U.S.C. 6421) apply to an amendment, except that the 15 calendar days referred to in section 551(c) and (d) of the Act (42 U.S.C. 6421(c), (d)) are deemed to be 60 calendar days, and the 5 calendar days referred to in section 551(f)(4)(A) of the Act (42 U.S.C. 6421(f)(4)(A)) are deemed to be 20 calendar days. If either House of Congress disapproves the amendment under those procedures, the amendment does not take effect."
 
@@ -306,7 +306,7 @@ Therefore, I request that:
 
 (b) before promulgating a final rule concerning model years after model year 2011, you consider the appropriate legal factors under the EISA, the comments filed in response to the Notice of Proposed Rulemaking, the relevant technological and scientific considerations, and to the extent feasible, the forthcoming report by the National Academy of Sciences mandated under section 107 of EISA; and
 
-(c) in adopting the final rules in paragraphs (a) and (b) above, you consider whether any provisions regarding preemption are consistent with the EISA, the Supreme Court's decision in <i>Massachusetts v. EPA</i> and other relevant provisions of law and the policies underlying them.
+(c) in adopting the final rules in paragraphs (a) and (b) above, you consider whether any provisions regarding preemption are consistent with the EISA, the Supreme Court's decision in <i>Massachusetts v. EPA</i> andother relevant provisions of law and the policies underlying them.
 
 This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

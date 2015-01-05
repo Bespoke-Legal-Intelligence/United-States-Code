@@ -31,7 +31,7 @@
 
 <b>2004</b>—Pub. L. 108–454, title VI, §602(b), Dec. 10, 2004, 118 Stat. 3624, added item 2412.
 
-<b>1998</b>—Pub. L. 105–368, title IV, §403(c)(4), (d)(1), Nov. 11, 1998, 112 Stat. 3338, 3339, substituted "Administration; composition of Administration" for "System; composition of such system; appointment of director" in item 2400 and "Administration" for "System" in item 2411.
+<b>1998</b>—Pub. L. 105–368, title IV, §403(c)(4), (d)(1), Nov. 11, 1998, 112 Stat. 3338, 3339, substituted "Administration; composition of Administration" for "System;composition of such system; appointment of director" in item 2400 and "Administration" for "System" in item 2411.
 
 <b>1997</b>—Pub. L. 105–116, §1(b), Nov. 21, 1997, 111 Stat. 2382, added item 2411.
 

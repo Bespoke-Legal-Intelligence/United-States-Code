@@ -32,7 +32,7 @@ Certification.—If, after the debt limit is increased by $900,000,000,000 under
 
 &emsp;&emsp;(B)
 
-Resolution of disapproval.—Congress may consider a joint resolution of disapproval of the authority under subparagraph (A) as provided in subsections (b) through (f). The joint resolution of disapproval considered under this section shall contain only the language provided in subsection (b)(2). If the time for disapproval has lapsed without enactment of a joint resolution of disapproval under this section, the debt limit is increased by the amount authorized under subparagraph (A).
+Resolution of disapproval.—Congress may consider a joint resolution of disapproval of the authority under subparagraph (A) as provided in subsections (b)through (f). The joint resolution of disapproval considered under this section shall contain only the language provided in subsection (b)(2). If the time for disapproval has lapsed without enactment of a joint resolution of disapproval under this section, the debt limit is increased by the amount authorized under subparagraph (A).
 
 (b)
 
@@ -74,7 +74,7 @@ Proceeding to consideration.—After each committee authorized to consider a joi
 
 &emsp;(4)
 
-Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the jointresolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 (d)
 
@@ -98,7 +98,7 @@ In general.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it 
 
 &emsp;&emsp;(B)
 
-Consideration.—Consideration of the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
+Consideration.—Consideration of the joint resolution, and on all debatable motions and appeals in connection therewith,shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
 
 &emsp;&emsp;(C)
 

@@ -18,7 +18,7 @@ No registered investment company shall purchase any voting security if, to the k
 
 #### (d) Duty to eliminate existing cross-ownership or circular ownership
 
-If cross-ownership or circular ownership between a registered investment company and any other company or companies comes into existence upon the purchase by a registered investment company of the securities of another company, it shall be the duty of such registered company, within one year after it first knows of the existence of such cross-ownership or circular ownership, to eliminate the same.
+If cross-ownership or circular ownership between a registered investment company and any other company or companies comes into existence upon the purchase by a registered investment company of the securities of another company, it shall be the duty of such registered company, within one year after it first knows ofthe existence of such cross-ownership or circular ownership, to eliminate the same.
 
 (Aug. 22, 1940, ch. 686, title I, §20, 54 Stat. 822; Pub. L. 100–181, title VI, §614, Dec. 4, 1987, 101 Stat. 1262.)
 

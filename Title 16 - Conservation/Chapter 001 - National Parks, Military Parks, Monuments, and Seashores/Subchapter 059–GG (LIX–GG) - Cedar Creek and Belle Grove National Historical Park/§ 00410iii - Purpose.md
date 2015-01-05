@@ -8,7 +8,7 @@ The purpose of this subchapter is to establish the Cedar Creek and Belle Grove N
 
 &emsp;(3) preserve the significant historic, natural, cultural, military, and scenic resources found in the Cedar Creek Battlefield and Belle Grove Plantation areas through partnerships with local landowners and the community; and
 
-&emsp;(4) serve as a focal point to recognize and interpret important events and geographic locations within the Shenandoah Valley Battlefields National Historic District representing key Civil War battles in the Shenandoah Valley, including those battlefields associatedwith the Thomas J. (Stonewall) Jackson campaign of 1862 and the decisive campaigns of 1864.
+&emsp;(4) serve as a focal point to recognize and interpret important events and geographic locations within the Shenandoah Valley Battlefields National Historic District representing key Civil War battles in the Shenandoah Valley, including those battlefields associated with the Thomas J. (Stonewall) Jackson campaign of 1862 and the decisive campaigns of 1864.
 
 (Pub. L. 107–373, §2, Dec. 19, 2002, 116 Stat. 3104.)
 

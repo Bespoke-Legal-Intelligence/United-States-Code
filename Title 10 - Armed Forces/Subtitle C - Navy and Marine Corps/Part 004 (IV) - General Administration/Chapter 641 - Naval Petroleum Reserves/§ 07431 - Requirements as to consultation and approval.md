@@ -28,7 +28,7 @@
 
 &emsp;(5) Such other information regarding the reserve as the Secretary deems appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–796, §1(7), Oct. 11, 1962, 76 Stat. 905; Pub. L.94–258, title II, §201(12), Apr. 5, 1976, 90 Stat. 311; Pub. L. 98–525, title XIV, §1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–145, title XIII, §1303(a)(25), Nov. 8, 1985, 99 Stat. 740; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–796, §1(7), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(12), Apr. 5, 1976, 90 Stat. 311; Pub. L. 98–525, title XIV, §1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–145, title XIII, §1303(a)(25), Nov. 8, 1985, 99 Stat. 740; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 

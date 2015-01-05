@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Residential real estate management association
 
-&emsp;The term "residential real estate management association" means any organizationmeeting the requirements of subparagraph (A) of paragraph (1) with respect to a subdivision, development, or similar area substantially all the lots or buildings of which may only be used by individuals for residences.
+&emsp;The term "residential real estate management association" means any organization meeting the requirements of subparagraph (A) of paragraph (1) with respect to a subdivision, development, or similar area substantially all the lots or buildings of which may only be used by individuals for residences.
 
 #### (4) Timeshare association
 
@@ -126,7 +126,7 @@ Pub. L. 96–605, title I, §105(b), Dec. 28, 1980, 94 Stat. 3523, provided that
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(7) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(7) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 Pub. L. 95–600, title IV, §403(d)(3), Nov. 6, 1978, 92 Stat. 2869, provided that: "The amendments made by paragraphs (2), (3), and (4) of subsection (c) \[amending this section and sections 857 and 904 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1978\]."
 

@@ -14,7 +14,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) lack sufficient mastery of basic educational skills to enable the individuals to function effectively in society;
 
-&emsp;&emsp;&emsp;(ii) do not have a secondary school diploma or its recognized equivalent, and have not achieved an equivalent level of education; or
+&emsp;&emsp;&emsp;(ii) do not have a secondary school diploma or its recognized equivalent, andhave not achieved an equivalent level of education; or
 
 &emsp;&emsp;&emsp;(iii) are unable to speak, read, or write the English language.
 
@@ -128,7 +128,11 @@ In this subchapter:
 
 &emsp;The term "workplace literacy services" means literacy services that are offered for the purpose of improving the productivity of the workforce through the improvement of literacy skills.
 
-(Pub. L. 105–220, title II, §203, Aug. 7, 1998, 112 Stat. 1060; Pub. L. 105–244, title I, §102(d)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 107–110, title X, §1076(s), Jan. 8, 2002, 115 Stat. 2092.)
+(Pub. L. 105–220, title II, §203, Aug. 7, 1998, 112 Stat. 1060; Pub. L. 105–244, title I, §102(d)(2), Oct.7, 1998, 112 Stat. 1622; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 107–110, title X, §1076(s), Jan. 8, 2002, 115 Stat. 2092.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
 
 #### Amendments
 
@@ -137,6 +141,10 @@ In this subchapter:
 <b>1998</b>—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
 
 Par. (11). Pub. L. 105–244 substituted "section 1001" for "section 1141".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2002 Amendment
 

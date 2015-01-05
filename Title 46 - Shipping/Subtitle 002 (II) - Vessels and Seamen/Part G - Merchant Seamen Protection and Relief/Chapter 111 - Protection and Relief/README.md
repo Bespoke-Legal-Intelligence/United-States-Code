@@ -14,10 +14,13 @@
 | [11110\.](%C2%A7%2011110%20-%20Seamen%27s%20clothing.md) | Seamen's clothing. |
 | [11111\.](%C2%A7%2011111%20-%20Limit%20on%20amount%20recoverable%20on%20voyage.md) | Limit on amount recoverable on voyage. |
 | [11112\.](%C2%A7%2011112%20-%20Master%27s%20lien%20for%20wages.md) | Master's lien for wages. |
+| [11113\.](%C2%A7%2011113%20-%20Treatment%20of%20abandoned%20seafarers.md) | Treatment of abandoned seafarers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–281, title III, §320(b), Dec. 18, 2014, 128 Stat. 3054, added item 11113.
 
 <b>1986</b>—Pub. L. 99–307, §1(19)(A), May 19, 1986, 100 Stat. 446, added item 11112.
 
@@ -38,3 +41,4 @@
 - [&sect; 11110 - Seamen's clothing](%C2%A7%2011110%20-%20Seamen%27s%20clothing.md)
 - [&sect; 11111 - Limit on amount recoverable on voyage](%C2%A7%2011111%20-%20Limit%20on%20amount%20recoverable%20on%20voyage.md)
 - [&sect; 11112 - Master's lien for wages](%C2%A7%2011112%20-%20Master%27s%20lien%20for%20wages.md)
+- [&sect; 11113 - Treatment of abandoned seafarers](%C2%A7%2011113%20-%20Treatment%20of%20abandoned%20seafarers.md)

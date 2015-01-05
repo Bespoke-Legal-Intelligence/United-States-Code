@@ -24,5 +24,5 @@ Title II of the Interior and Related Agencies portion of the joint resolution en
 
 #### Short Title
 
-Pub. L. 100–680, §1, Nov. 17, 1988, 102 Stat. 4073, provided that: "This Act \[enacting this chapter\] may becited as the 'Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988'."
+Pub. L. 100–680, §1, Nov. 17, 1988, 102 Stat. 4073, provided that: "This Act \[enacting this chapter\] may be cited as the 'Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988'."
 

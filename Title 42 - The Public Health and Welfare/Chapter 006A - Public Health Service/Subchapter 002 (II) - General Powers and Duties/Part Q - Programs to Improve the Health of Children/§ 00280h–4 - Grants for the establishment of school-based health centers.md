@@ -22,7 +22,7 @@ An eligible entity shall use funds provided under a grant awarded under this sec
 
 #### (5) Appropriations
 
-Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2010 through 2013, $50,000,000 for the purpose of carrying out this section. Funds appropriated under this paragraph shall remain available until expended.
+Out of any funds in the Treasury not otherwise appropriated, there is appropriated for eachof fiscal years 2010 through 2013, $50,000,000 for the purpose of carrying out this section. Funds appropriated under this paragraph shall remain available until expended.
 
 #### (6) Definitions
 

@@ -8,7 +8,7 @@
 
 (c) Such sums as may be appropriated under subsections (a) and (b) of this section shall remain available until expended.
 
-(d) To enable the National Science Foundation to carry out its powers and duties under thischapter only such sums may be appropriated as the Congress may authorize by law.
+(d) To enable the National Science Foundation to carry out its powers and duties under this chapter only such sums may be appropriated as the Congress may authorize by law.
 
 (Pub. L. 96–480, §21, formerly §14, Oct. 21, 1980, 94 Stat. 2320; renumbered §18, Pub. L. 99–502, §2, Oct. 20, 1986, 100 Stat. 1785; renumbered §17, Pub. L. 99–502, §9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered §18, Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §19 and amended Pub. L. 100–418, title V, §§5122(a)(1), 5152, Aug. 23, 1988, 102 Stat. 1438, 1449; renumbered §21, Pub. L. 102–240, title VI, §6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 110–69, title III, §3002(c)(5), Aug. 9, 2007, 121 Stat. 586.)
 

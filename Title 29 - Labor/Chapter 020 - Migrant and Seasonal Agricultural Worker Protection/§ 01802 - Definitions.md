@@ -14,7 +14,7 @@ As used in this chapter—
 
 &emsp;(6) The term "farm labor contracting activity" means recruiting, soliciting, hiring, employing, furnishing, or transporting any migrant or seasonal agricultural worker.
 
-&emsp;(7) The term "farm labor contractor" means any person, other than an agricultural employer, an agricultural association, or an employee of an agricultural employer or agricultural association, who, for any money or other valuable consideration paid or promised to be paid, performs any farm labor contracting activity.
+&emsp;(7) The term "farm labor contractor" means any person, other than an agricultural employer, an agricultural association, or an employee of an agricultural employer or agricultural association, who, for any money or othervaluable consideration paid or promised to be paid, performs any farm labor contracting activity.
 
 &emsp;(8)(A) Except as provided in subparagraph (B), the term "migrant agricultural worker" means an individual who is employed in agricultural employment of a seasonal or other temporary nature, and who is required to be absent overnight from his permanent place of residence.
 

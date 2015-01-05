@@ -20,7 +20,7 @@ Funds are hereby authorized to be appropriated for any fiscal year in such amoun
 
 The Secretary of Agriculture shall provide the Secretary of Defense with the technical assistance in the administration of the school lunch programs authorized by this section.
 
-(June 4, 1946, ch. 281, §20, formerly §22, as added Pub. L. 95–561, title XIV, §1408(a), Nov. 1, 1978, 92 Stat. 2368; renumbered §20 and amended Pub. L. 99–500, title III, §§328(a), 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§328(a), 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §20 and amended Pub. L. 99–661, div. D, title II, §4208(a), title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 101–147, title III, §312(2), Nov. 10, 1989, 103 Stat. 916.)
+(June 4, 1946, ch. 281, §20, formerly §22, as added Pub. L. 95–561, title XIV, §1408(a), Nov. 1, 1978, 92 Stat. 2368; renumbered §20 and amended Pub. L. 99–500, title III, §§328(a), 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§328(a), 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §20 and amendedPub. L. 99–661, div. D, title II, §4208(a), title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 101–147, title III, §312(2), Nov. 10, 1989, 103 Stat. 916.)
 
 #### Codification
 
@@ -34,7 +34,7 @@ A prior section 20 of act June 4, 1946, was renumbered section 18 of act June 4,
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–147 substituted "reduced price" for "reduced-price".
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §328(a), and Pub. L. 99–661, §4208(a), amended subsec. (d) identically, striking out "and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each lunch for each student eligiblefor a free lunch, and (2) the full cost of each lunch, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price lunch" after "this section".
+<b>1986</b>—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §328(a), and Pub. L. 99–661, §4208(a), amended subsec. (d) identically, striking out "and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each lunch for each student eligible for a free lunch, and (2) the full cost of each lunch, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price lunch" after "this section".
 
 #### Effective Date
 

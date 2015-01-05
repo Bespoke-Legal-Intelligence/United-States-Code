@@ -12,7 +12,7 @@
 
 #### (b) Technical assistance
 
-The Secretary shall provide technical assistance (1) to entities intending to become a qualified health maintenance organization within the meaning of section 300e–9(d) <sup>1</sup> of this title, and (2) to health maintenance organizations. The Secretary may provide such technical assistance through grants to public and nonprofit private entities and contracts with public and private entities.
+The Secretary shall provide technical assistance (1) to entities intending to become a qualified health maintenance organization within the meaning of section 300e–9(d) <sup>1</sup> of this title, and (2) to health maintenance organizations. The Secretary may provide such technical assistance through grants to public and nonprofit privateentities and contracts with public and private entities.
 
 #### (c) Amounts provided in advance in appropriation acts
 

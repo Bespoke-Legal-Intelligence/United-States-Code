@@ -38,7 +38,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (1) Civil penalty
 
-&emsp;Any person subject to the jurisdiction of the United States who violates this chapter or any regulation or permit issued under this chaptershall be liable to the United States for a civil penalty of not more than $100,000 for each such violation, to be assessed by the Secretary. Each day of a continuing violation shall constitute a separate violation.
+&emsp;Any person subject to the jurisdiction of the United States who violates this chapter or any regulation or permit issued under this chapter shall be liable to the United States for a civil penalty of not more than $100,000 for each such violation, to be assessed by the Secretary. Each day of a continuing violation shall constitute a separate violation.
 
 #### (2) Notice
 
@@ -100,7 +100,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (g) Subpoenas
 
-In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnessesand the production of relevant papers, books, electronic files, and documents, and may administer oaths.
+In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
 
 #### (h) Use of resources of State and other Federal agencies
 
@@ -122,7 +122,7 @@ The area of application and enforceability of this chapter includes the territor
 
 In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
-(Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §8, Nov. 13, 2000, 114 Stat. 2387.)
+(Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302;amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §8, Nov. 13, 2000, 114 Stat. 2387.)
 
 #### References in Text
 

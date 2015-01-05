@@ -1,6 +1,6 @@
 ### §18117. Oversight
 
-The Inspector General of the Department of Health and Human Services shall have oversight authority with respect to the administrationand implementation of this title <sup>1</sup> as it relates to such Department.
+The Inspector General of the Department of Health and Human Services shall have oversight authority with respect to the administration and implementation of this title <sup>1</sup> as it relates to such Department.
 
 (Pub. L. 111–148, title I, §1559, Mar. 23, 2010, 124 Stat. 261.)
 

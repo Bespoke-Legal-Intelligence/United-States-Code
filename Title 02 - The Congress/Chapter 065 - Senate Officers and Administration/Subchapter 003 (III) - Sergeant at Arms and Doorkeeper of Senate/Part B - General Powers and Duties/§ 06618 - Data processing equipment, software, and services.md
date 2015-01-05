@@ -12,5 +12,5 @@ Section is from the Second Supplemental Appropriations Act, 1975.
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–26 substituted “multi-year contracts for data processing equipment, software, and services” for “multi-year leases for automatic data processing equipment”.
+<b>1977</b>—Pub. L. 95–26 substituted "multi-year contracts for data processing equipment, software, and services" for "multi-year leases for automatic data processing equipment".
 

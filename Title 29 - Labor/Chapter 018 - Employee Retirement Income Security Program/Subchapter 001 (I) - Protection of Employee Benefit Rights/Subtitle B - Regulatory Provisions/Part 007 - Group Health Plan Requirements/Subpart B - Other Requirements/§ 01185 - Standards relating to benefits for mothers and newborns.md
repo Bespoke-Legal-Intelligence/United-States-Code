@@ -30,7 +30,7 @@ A group health plan, and a health insurance issuer offering group health insuran
 
 &emsp;(4) provide incentives (monetary or otherwise) to an attending provider to induce such provider to provide care to an individual participant or beneficiary in a manner inconsistent with this section; or
 
-&emsp;(5) subject to subsection (c)(3) of this section, restrict benefits for any portion of a period within a hospital length of stay requiredunder subsection (a) of this section in a manner which is less favorable than the benefits provided for any preceding portion of such stay.
+&emsp;(5) subject to subsection (c)(3) of this section, restrict benefits for any portion of a period within a hospital length of stay required under subsection (a) of this section in a manner which is less favorable than the benefits provided for any preceding portion of such stay.
 
 #### (c) Rules of construction
 
@@ -62,7 +62,7 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 &emsp;&emsp;(B) Such State law requires such coverage to provide for maternity and pediatric care in accordance with guidelines established by the American College of Obstetricians and Gynecologists, the American Academy of Pediatrics, or other established professional medical associations.
 
-&emsp;&emsp;(C) Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
+&emsp;&emsp;(C) Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care isleft to the decision of (or required to be made by) the attending provider in consultation with the mother.
 
 #### (2) Construction
 

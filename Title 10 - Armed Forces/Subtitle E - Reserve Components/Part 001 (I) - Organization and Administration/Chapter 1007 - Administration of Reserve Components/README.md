@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [10201\.](%C2%A7%2010201%20-%20Assistant%20Secretary%20of%20Defense%20for%20Reserve%20Affairs.md) | Assistant Secretary of Defense for Reserve Affairs. |
+| [10201\.](%C2%A7%2010201%20-%20Assistant%20Secretary%20of%20Defense%20for%20Manpower%20and%20Reserve%20Affairs.md) | Assistant Secretary of Defense for Manpower and Reserve Affairs. |
 | [10202\.](%C2%A7%2010202%20-%20Regulations.md) | Regulations. |
 | [10203\.](%C2%A7%2010203%20-%20Reserve%20affairs%20designation%20of%20general%20or%20flag%20officer%20of%20each%20armed%20force.md) | Reserve affairs: designation of general or flag officer of each armed force. |
 | [10204\.](%C2%A7%2010204%20-%20Personnel%20records.md) | Personnel records. |
@@ -26,6 +26,8 @@
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–291, div. A, title IX, §902(b)(2), Dec. 19, 2014, 128 Stat. 3470, added item 10201 and struck out former item 10201 "Assistant Secretary of Defense for Reserve Affairs".
+
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §581(a)(2), Jan. 2, 2013, 126 Stat. 1765, added item 10219.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title VII, §732(c), Jan. 6, 2006, 119 Stat. 3352, struck out "periodic" before "physical" in item 10206.
@@ -41,7 +43,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 10201 - Assistant Secretary of Defense for Reserve Affairs](%C2%A7%2010201%20-%20Assistant%20Secretary%20of%20Defense%20for%20Reserve%20Affairs.md)
+- [&sect; 10201 - Assistant Secretary of Defense for Manpower and Reserve Affairs](%C2%A7%2010201%20-%20Assistant%20Secretary%20of%20Defense%20for%20Manpower%20and%20Reserve%20Affairs.md)
 - [&sect; 10202 - Regulations](%C2%A7%2010202%20-%20Regulations.md)
 - [&sect; 10203 - Reserve affairs designation of general or flag officer of each armed force](%C2%A7%2010203%20-%20Reserve%20affairs%20designation%20of%20general%20or%20flag%20officer%20of%20each%20armed%20force.md)
 - [&sect; 10204 - Personnel records](%C2%A7%2010204%20-%20Personnel%20records.md)

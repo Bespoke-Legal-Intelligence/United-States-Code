@@ -74,7 +74,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary anapplication, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
@@ -220,7 +220,7 @@ A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July
 
 #### Amendments
 
-<b>2008</b>—Subsec. (j). Pub. L. 110–355 substituted "$45,000,000 for each of fiscal years 2008 through 2012." for "$40,000,000 for fiscal year 2002, and such sums asmay be necessary for each of fiscal years 2003 through 2006."
+<b>2008</b>—Subsec. (j). Pub. L. 110–355 substituted "$45,000,000 for each of fiscal years 2008 through 2012." for "$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006."
 
 <b>2003</b>—Subsec. (b)(4). Pub. L. 108–163 substituted "section 295p(6)" for "section 295p".
 
@@ -252,7 +252,7 @@ Pub. L. 106–505, title IV, subtitle B, Nov. 13, 2000, 114 Stat. 2340, provided
 
 &emsp;"(3) A cardiac arrest victim's chance of survival drops 10 percent for every minute that passes before his or her heart is returned to normal rhythm.
 
-&emsp;"(4) Because most cardiac arrest victims are initially in ventricular fibrillation, and the only treatment for ventricular fibrillation is defibrillation, prompt access to defibrillation to return the heart to normal rhythm is essential.
+&emsp;"(4) Because most cardiac arrest victims are initially in ventricular fibrillation, and the only treatment for ventricular fibrillation is defibrillation,prompt access to defibrillation to return the heart to normal rhythm is essential.
 
 &emsp;"(5) Lifesaving technology, the automated external defibrillator, has been developed to allow trained lay rescuers to respond to cardiac arrest by using this simple device to shock the heart into normal rhythm.
 

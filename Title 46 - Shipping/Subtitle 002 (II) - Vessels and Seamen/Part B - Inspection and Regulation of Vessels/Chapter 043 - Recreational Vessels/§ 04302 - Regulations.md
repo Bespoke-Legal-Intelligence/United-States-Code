@@ -12,7 +12,7 @@
 
 &emsp;(3) requiring or permitting the display of seals, labels, plates, insignia, or other devices for certifying or evidencing compliance with safety regulations and standards of the United States Government for recreational vessels and associated equipment.
 
-(b) Each regulation prescribed under this section shall specify an effective date that is not earlier than 180 days from the date the regulation was published, unless the Secretary finds that there exists a recreational vessel safety hazard so critical as to require an earlier effective date. However, this period may not be more than 24 months for cases involving, in the discretion of the Secretary, major product design, retooling, or major changes in the manufacturing process.
+(b) Each regulation prescribed under this section shall specify an effective date that is not earlier than 180 days from the date the regulation was published, unless the Secretary finds that there exists a recreational vessel safetyhazard so critical as to require an earlier effective date. However, this period may not be more than 24 months for cases involving, in the discretion of the Secretary, major product design, retooling, or major changes in the manufacturing process.
 
 (c) In prescribing regulations under this section, the Secretary shall, among other things—
 

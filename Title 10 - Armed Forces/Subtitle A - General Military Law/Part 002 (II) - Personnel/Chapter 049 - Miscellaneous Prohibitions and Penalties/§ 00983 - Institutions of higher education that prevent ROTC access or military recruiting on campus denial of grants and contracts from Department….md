@@ -44,7 +44,7 @@ Covered Funds.—(1) Except as provided in paragraph (2), the limitations establ
 
 &emsp;(F) Any funds made available for the Central Intelligence Agency.
 
-(2) Any Federal funding specified in paragraph (1) that is provided to an institution of higher education, or to an individual, to be available solely for student financial assistance, related administrative costs, or costs associated with attendance, may be used for the purpose for which the funding is provided.
+(2) Any Federal funding specified in paragraph (1) that is provided to an institution of highereducation, or to an individual, to be available solely for student financial assistance, related administrative costs, or costs associated with attendance, may be used for the purpose for which the funding is provided.
 
 (e)
 
@@ -54,7 +54,7 @@ Notice of Determinations.—Whenever the Secretary of Defense makes a determinat
 
 &emsp;(2) shall publish in the Federal Register a notice of the determination and the effect of the determination on the eligibility of the institution of higher education (and any subelement of that institution) for contracts and grants.
 
-(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1),\(3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, §1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, §586, title X, §1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952.)
+(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, §1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, §586, title X, §1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952.)
 
 #### References in Text
 

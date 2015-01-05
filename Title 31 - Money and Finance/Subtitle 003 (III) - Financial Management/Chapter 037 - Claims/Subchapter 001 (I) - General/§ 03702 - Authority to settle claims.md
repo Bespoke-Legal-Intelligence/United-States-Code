@@ -28,7 +28,7 @@
 
 One-Year Limit for Check Claims.—(1) Any claim on account of a Treasury check shall be barred unless it is presented to the agency that authorized the issuance of such check within 1 year after the date of issuance of the check or the effective date of this subsection, whichever is later.
 
-(2) Nothing in this subsection affects the underlying obligation of the United States, or anyagency thereof, for which a Treasury check was issued.
+(2) Nothing in this subsection affects the underlying obligation of the United States, or any agency thereof, for which a Treasury check was issued.
 
 (d) The official responsible under subsection (a) for settling the claim shall report to Congress on a claim against the Government that is timely presented under this section that may not be adjusted by using an existing appropriation, and that the official believes Congress should consider for legal or equitable reasons. The report shall include recommendations of the official.
 
@@ -118,7 +118,7 @@ In subsection (b)(3), the words "to the claimant" are omitted as surplus. The wo
 
 In subsection (c), the text of 31:122(1st sentence words before 2d comma and last sentence) is omitted as executed. The words "Secretary of the Treasury" are substituted for "Treasury Department" for consistency. The word "Secretary" is substituted for "Treasurer of the United States" because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 
-In subsection (d), the words "report . . . on" are substituted for "submit the same . . . by a special report . . . the material facts" to eliminate unnecessary words. The words "or demand" are omitted as surplus. The word "Government" is substituted for "United States", and the words "presented under this section" are substituted for "filed in the General Accounting Office" for consistency. The words "lawfully", "the use of", and "thereon" are omitted as surplus.
+In subsection (d), the words "report . . . on" are substituted for "submit the same . . . by a special report . . . the material facts" to eliminate unnecessary words. The words "or demand" are omitted as surplus.The word "Government" is substituted for "United States", and the words "presented under this section" are substituted for "filed in the General Accounting Office" for consistency. The words "lawfully", "the use of", and "thereon" are omitted as surplus.
 
 #### 1983 Act
 
@@ -134,7 +134,7 @@ The effective date of this subsection, referred to in subsec. (c)(1), probably m
 
 <b>2002</b>—Subsec. (e)(1). Pub. L. 107–314, §635(b)(1), substituted "The Secretary of Defense" for "Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense", struck out "and, subject to paragraph (2), settle the claim" before period at end of first sentence, and inserted at end "In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37)."
 
-Pub. L. 107–314, §635(a), as amended by Pub. L. 109–163, substituted "a claim referred to in subsection (a)(1)(A)"for "a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10".
+Pub. L. 107–314, §635(a), as amended by Pub. L. 109–163, substituted "a claim referred to in subsection (a)(1)(A)" for "a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10".
 
 Subsec. (e)(2). Pub. L. 107–314, §635(b)(2), substituted "under subsection (a)(1)(A)" for "under paragraph (1)" and inserted before period at end ", except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund".
 

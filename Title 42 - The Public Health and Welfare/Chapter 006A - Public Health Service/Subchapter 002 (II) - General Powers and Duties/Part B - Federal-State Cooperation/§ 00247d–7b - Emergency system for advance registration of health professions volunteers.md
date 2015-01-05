@@ -34,7 +34,7 @@ The Secretary shall coordinate with the Secretary of Veterans Affairs and the Se
 
 #### (g) Updating of information
 
-The States that are participants in the verification network shall, on at least a quarterly basis, work with the Director to provide for theupdating of the information contained in the verification network.
+The States that are participants in the verification network shall, on at least a quarterly basis, work with the Director to provide for the updating of the information contained in the verification network.
 
 #### (h) Clarification
 

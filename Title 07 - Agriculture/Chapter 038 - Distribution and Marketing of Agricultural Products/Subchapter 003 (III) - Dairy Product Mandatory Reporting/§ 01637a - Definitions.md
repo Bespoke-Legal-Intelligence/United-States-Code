@@ -22,5 +22,5 @@ In this subchapter:
 
 #### Amendments
 
-<b>2002</b>—Par. (1). Pub. L. 107–171 inserted hyphen after "means", designated remainder of existing provisionsas subpar. (A), substituted "; and" for period at end, and added subpar. (B).
+<b>2002</b>—Par. (1). Pub. L. 107–171 inserted hyphen after "means", designated remainder of existing provisions as subpar. (A), substituted "; and" for period at end, and added subpar. (B).
 

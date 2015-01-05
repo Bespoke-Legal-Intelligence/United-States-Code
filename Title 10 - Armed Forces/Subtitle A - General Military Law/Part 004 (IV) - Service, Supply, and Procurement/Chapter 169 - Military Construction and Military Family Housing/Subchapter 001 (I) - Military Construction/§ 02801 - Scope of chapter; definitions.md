@@ -56,7 +56,7 @@ Pub. L. 100–180, §632(b)(1), inserted "(other than section 2830)" after "This
 
 Pub. L. 97–214, §12, July 12, 1982, 96 Stat. 176, provided:
 
-"(a) Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1982 Amendment note below\] shall take effect on October 1, 1982,and shall apply to military construction projects, and to construction and acquisition of military family housing, authorized before, on, or after such date.
+"(a) Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1982 Amendment note below\] shall take effect on October 1, 1982, and shall apply to military construction projects, and to construction and acquisition of military family housing, authorized before, on, or after such date.
 
 "(b) The amendment made by section 4 \[amending section 138(f)(1) \[now 114(b)\] of this title\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1983."
 

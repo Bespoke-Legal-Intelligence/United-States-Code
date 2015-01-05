@@ -14,7 +14,7 @@ The Director shall submit to the Committee on Financial Services of the House of
 
 &emsp;&emsp;(A) whether the procedures established by each regulated entity pursuant to section 4012a(b)(3) of title 42 are adequate and being complied with, and
 
-&emsp;&emsp;(B) the results and conclusions of any examination, as determined necessary by the Director, to determine the compliance of the regulated entities with the requirements of section 4012a(b)(3) of title 42, which shall include a description of the methods used todetermine compliance and the types and sources of deficiencies (if any), and identify any corrective measures that have been taken to remedy any such deficiencies,
+&emsp;&emsp;(B) the results and conclusions of any examination, as determined necessary by the Director, to determine the compliance of the regulated entities with the requirements of section 4012a(b)(3) of title 42, which shall include a description of the methods used to determine compliance and the types and sources of deficiencies (if any), and identify any corrective measures that have been taken to remedy any such deficiencies,
 
 > &emsp;except that the information described in this paragraph shall be included only in each of the first, third, and fifth annual reports under this subsection required to be submitted after the expiration of the 1-year period beginning on September 23, 1994; and <sup>1</sup>
 

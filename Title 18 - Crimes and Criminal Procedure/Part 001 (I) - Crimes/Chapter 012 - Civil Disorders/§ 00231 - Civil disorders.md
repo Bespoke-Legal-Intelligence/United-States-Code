@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than five years, or both.
 
 (b) Nothing contained in this section shall make unlawful any act of any law enforcement officer which is performed in the lawful performance of his official duties.
 
-(Added Pub. L. 90–284, title X, §1002(a), Apr. 11, 1968, 82 Stat. 90; amended Pub. L. 103–322, titleXXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 90–284, title X, §1002(a), Apr. 11, 1968, 82 Stat. 90; amended Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 

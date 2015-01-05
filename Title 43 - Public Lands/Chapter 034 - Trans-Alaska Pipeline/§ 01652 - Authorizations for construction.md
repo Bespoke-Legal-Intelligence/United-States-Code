@@ -6,7 +6,7 @@ The purpose of this chapter is to insure that, because of the extensive governme
 
 #### (b) Issuance, administration, and enforcement of rights-of-way, permits, leases, and other authorizations
 
-The Congress hereby authorizes and directs the Secretary of the Interior and other appropriate Federal officers and agencies to issue andtake all necessary action to administer and enforce rights-of-way, permits, leases, and other authorizations that are necessary for or related to the construction, operation, and maintenance of the trans-Alaska oil pipeline system, including roads and airstrips, as that system is generally described in the Final Environmental Impact Statement issued by the Department of the Interior on March 20, 1972. The route of the pipeline may be modified by the Secretary to provide during construction greater environmental protection.
+The Congress hereby authorizes and directs the Secretary of the Interior and other appropriate Federal officers and agencies to issue and take all necessary action to administer and enforce rights-of-way, permits, leases, and other authorizations that are necessary for or related to the construction, operation, and maintenance of the trans-Alaska oil pipeline system, including roads and airstrips, as that system is generally described in the Final Environmental Impact Statement issued by the Department of the Interior on March 20, 1972. The route of the pipeline may be modified by the Secretary to provide during construction greater environmental protection.
 
 #### (c) Applicability of statutes governing rights-of-way for pipelines through Federal lands; other statutory terms and conditions; waiver of procedural requirements; supersedure of administrative authorizations for construction
 
@@ -24,7 +24,7 @@ The Secretary of the Interior and the other Federal officers and agencies are au
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (section 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (section 4321 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

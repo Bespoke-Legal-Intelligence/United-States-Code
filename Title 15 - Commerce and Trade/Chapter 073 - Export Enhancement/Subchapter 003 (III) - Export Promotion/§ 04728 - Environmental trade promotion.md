@@ -10,7 +10,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;The President shall establish the Environmental Trade Promotion Working Group (hereafter in this section referred to as the "Working Group") as a subcommittee of the Trade Promotion Coordination Committee (hereafter in this section referred to as the "TPCC"), established under section 4727 of this title. The purpose of the Working Group shall be—
 
-&emsp;&emsp;(A) to address all issues with respect to the export promotion and export financing of United States environmental technologies, goods, and services; and
+&emsp;&emsp;(A) to address all issues with respect to the export promotion and export financing ofUnited States environmental technologies, goods, and services; and
 
 &emsp;&emsp;(B) to develop a strategy for expanding United States exports of environmental technologies, goods, and services.
 
@@ -106,7 +106,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 &emsp;&emsp;(F) providing information on environmental standards and regulations in the country to which the specialist is assigned;
 
-&emsp;&emsp;(G) providing information on all United States Government programs that could assist the promotion, financing, and sale of United States environmental technologies,goods, and services in the country to which the specialist is assigned; and
+&emsp;&emsp;(G) providing information on all United States Government programs that could assist the promotion, financing, and sale of United States environmental technologies, goods, and services in the country to which the specialist is assigned; and
 
 &emsp;&emsp;(H) promoting the equal treatment of United States environmental, safety, and related requirements, with those of other exporting countries, in order to promote exports of United States-made products.
 
@@ -170,7 +170,7 @@ Section 4721 of this title, referred to in subsec. (c)(2)(D), was amended, and s
 
 #### Amendments
 
-<b>1994</b>—Subsecs. (c) to (e). Pub. L. 103–392, §402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as\(e), and struck out former subsec. (d) which related to overseas services for exporters.
+<b>1994</b>—Subsecs. (c) to (e). Pub. L. 103–392, §402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and struck out former subsec. (d) which related to overseas services for exporters.
 
 Subsecs. (f) to (k). Pub. L. 103–392, §402(b), added subsecs. (f) to (k).
 

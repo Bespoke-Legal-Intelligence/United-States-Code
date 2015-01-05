@@ -108,7 +108,7 @@ Definitions.—In this section—
 
 &emsp;(2) the term "government facility" means any permanent or temporary facility or conveyance that is used or occupied by representatives of a state, members of a government, the legislature, or the judiciary, or by officials or employees of a state or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties;
 
-&emsp;(3) the term "proceeds" means any funds derived from or obtained, directly or indirectly,through the commission of an offense set forth in subsection (a);
+&emsp;(3) the term "proceeds" means any funds derived from or obtained, directly or indirectly, through the commission of an offense set forth in subsection (a);
 
 &emsp;(4) the term "provides" includes giving, donating, and transmitting;
 

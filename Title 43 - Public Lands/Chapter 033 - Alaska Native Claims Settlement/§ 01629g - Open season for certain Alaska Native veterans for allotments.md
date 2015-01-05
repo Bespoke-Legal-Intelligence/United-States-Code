@@ -44,7 +44,7 @@
 
 &emsp;(C) vacant, unappropriated and unreserved lands.
 
-(5) After consultation with a person entitled to an allotment within a Conservation System Unit, the Secretary may convey alternative lands of equal acreage, including lands within a Conservation System Unit, to that person if the Secretary determines that the allotment would be incompatible with a purpose for which the Conservation System Unit was established.
+(5) After consultation with a person entitled to an allotment within a Conservation SystemUnit, the Secretary may convey alternative lands of equal acreage, including lands within a Conservation System Unit, to that person if the Secretary determines that the allotment would be incompatible with a purpose for which the Conservation System Unit was established.
 
 (6) All conveyances under this section shall—
 
@@ -56,7 +56,7 @@
 
 (1) A person is eligible to select an allotment under this section if that person—
 
-&emsp;(A) would have been eligible for an allotment under the Act of May 17, 1906 (chapter2469; 34 Stat. 197), as that Act was in effect before December 18, 1971 (except that the term "nonmineral", as used in that Act, shall for the purpose of this subsection be defined as provided in section 1634(a)(3) of this title, except that such definition shall not apply to land within a conservation system unit); and
+&emsp;(A) would have been eligible for an allotment under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as that Act was in effect before December 18, 1971 (except that the term "nonmineral", as used in that Act, shall for the purpose of this subsection be defined as provided in section 1634(a)(3) of this title, except that such definition shall not apply to land within a conservation system unit); and
 
 &emsp;(B) is a veteran who served during the period between January 1, 1969 and December 31, 1971 and—
 

@@ -32,7 +32,7 @@ Contents.—The strategic plan developed under paragraph (1) shall—
 
 &emsp;&emsp;&emsp;(i) the anticipated annual funding levels for the period covered by the strategic plan; and
 
-&emsp;&emsp;&emsp;(ii) the additional information the Department expects to gain at the end of theperiod covered by the strategic plan as a result of the research and development in that topic area.
+&emsp;&emsp;&emsp;(ii) the additional information the Department expects to gain at the end of the period covered by the strategic plan as a result of the research and development in that topic area.
 
 &emsp;(3)
 

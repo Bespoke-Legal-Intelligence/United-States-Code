@@ -2,7 +2,7 @@
 
 #### (a) Term of lease; annual rentals; royalties; readjustment of conditions
 
-A coal lease shall be for a term of twenty years and for so long thereafter as coal is produced annually in commercial quantities from that lease. Any lease which is not producing in commercial quantities at the end of ten years shall be terminated. The Secretary shall by regulation prescribe annual rentals on leases. A lease shall require payment of a royalty in such amount as the Secretary shall determine of not less than 12½ per centum of the value of coal as defined by regulation, except the Secretary may determine a lesser amount in the case of coal recovered by underground mining operations. Thelease shall include such other terms and conditions as the Secretary shall determine. Such rentals and royalties and other terms and conditions of the lease will be subject to readjustment at the end of its primary term of twenty years and at the end of each ten-year period thereafter if the lease is extended.
+A coal lease shall be for a term of twenty years and for so long thereafter as coal is produced annually in commercial quantities from that lease. Any lease which is not producing in commercial quantities at the end of ten years shall be terminated. The Secretary shall by regulation prescribe annual rentals on leases. A lease shall require payment of a royalty in such amount as the Secretary shall determine of not less than 12½ per centum of the value of coal as defined by regulation, except the Secretary may determine a lesser amount in the case of coal recovered by underground mining operations. The lease shall include such other terms and conditions as the Secretary shall determine. Such rentals and royalties and other terms and conditions of the lease will be subject to readjustment at the end of its primary term of twenty years and at the end of each ten-year period thereafter if the lease is extended.
 
 #### (b) Diligent development and continued operation; suspension of condition on payment of advance royalties
 
@@ -28,7 +28,7 @@ A coal lease shall be for a term of twenty years and for so long thereafter as c
 
 (6) <sup>1</sup> The Secretary may, upon six months' notification to the lessee cease to accept advance royalties in lieu of the requirement of continued operation.
 
-(7) Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) of this section relating to commencement of production at the end of ten years.
+(7) Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) relating to commencement of production at the end of ten years.
 
 #### (c) Operation and reclamation plan
 

@@ -8,7 +8,7 @@ Each locality designated by the National Board shall constitute a local board fo
 
 Each local board shall—
 
-&emsp;(1) determine which private nonprofit organizations or public organizations of the local government in the individual locality shall receive grants to act as service providers;
+&emsp;(1) determine which private nonprofit organizations or public organizations of the localgovernment in the individual locality shall receive grants to act as service providers;
 
 &emsp;(2) monitor recipient service providers for program compliance;
 

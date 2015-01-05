@@ -38,7 +38,7 @@ Finding Replacement Carriers.—When the Secretary requires an air carrier to co
 
 (g)
 
-Transfer of Authority.—If an air carrier, providing basic essential air service under section 41733 of this title between an eligible place and an airport at which the Administrator of the Federal Aviation Administration limits the number of instrument flight rule takeoffs and landings of aircraft, provides notice under subsection (a) of this section of an intention to end, suspend, or reduce that service and another carrier is found to provide the service, the Secretary shall require the carrier providing notice to transfer any operational authority the carrier has to land or take off at that airport related to the service to the eligible place to the carrier that will provide the service, if—
+Transfer of Authority.—If an air carrier, providing basic essential air service under section 41733 of this title between an eligible place and an airport at which the Administrator of the Federal Aviation Administration limits the number of instrument flight rule takeoffs and landings of aircraft, provides notice under subsection (a) of this section of an intention to end, suspend, or reduce that service and another carrier is found to provide the service, the Secretary shall require the carrier providing notice to transfer any operational authority the carrier has to land or take off at that airport related tothe service to the eligible place to the carrier that will provide the service, if—
 
 &emsp;(1) the carrier that will provide the service needs the authority; and
 
@@ -124,7 +124,7 @@ Subsec. (h). Pub. L. 103–305 added subsec. (h).
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–95, title IV, §426(b)(2), Feb. 14, 2012, 126 Stat. 98, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to compensation to air carriers for air service provided afterthe 30th day following the date of enactment of this Act \[Feb. 14, 2012\]."
+Pub. L. 112–95, title IV, §426(b)(2), Feb. 14, 2012, 126 Stat. 98, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to compensation to air carriers for air service provided after the 30th day following the date of enactment of this Act \[Feb. 14, 2012\]."
 
 #### Effective Date of 2003 Amendment
 

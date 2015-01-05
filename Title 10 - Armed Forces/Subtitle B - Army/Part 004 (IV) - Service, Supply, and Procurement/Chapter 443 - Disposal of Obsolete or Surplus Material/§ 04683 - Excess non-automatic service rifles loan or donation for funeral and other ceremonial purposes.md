@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Lend or Donate.—(1) The Secretary of the Army, under regulations prescribed by the Secretary, may conditionally lend or donate excess M–1 rifles (not more than 15), slings, and cartridge belts to any eligible organization for use by that organization for funeral ceremonies of a member or former member of the armed forces, and for other ceremonial purposes.
+Authority To Lend or Donate.—(1) The Secretary of the Army, under regulations prescribed by the Secretary, may conditionally lend or donate excess M–1 rifles (not more than15), slings, and cartridge belts to any eligible organization for use by that organization for funeral ceremonies of a member or former member of the armed forces, and for other ceremonial purposes.
 
 (2) If the rifles to be loaned or donated under paragraph (1) are to be used by the eligible organization for funeral ceremonies of a member or former member of the armed forces, the Secretary may issue and deliver the rifles, together with the necessary accoutrements and blank ammunition, without charge.
 
@@ -20,7 +20,7 @@ Relief From Liability.—The Secretary may relieve an eligible organization to w
 
 (c)
 
-Conditions on Loan or Donation.—In lending or donating rifles under subsection (a), theSecretary shall impose such conditions on the use of the rifles as may be necessary to ensure security, safety, and accountability. The Secretary may impose such other conditions as the Secretary considers appropriate.
+Conditions on Loan or Donation.—In lending or donating rifles under subsection (a), the Secretary shall impose such conditions on the use of the rifles as may be necessary to ensure security, safety, and accountability. The Secretary may impose such other conditions as the Secretary considers appropriate.
 
 (d)
 

@@ -84,7 +84,7 @@ The change corrects an inadvertence. The source statute for section 3036(c) of t
 
 <b>2008</b>—Pub. L. 110–181, §543(a)(3)(A), amended section catchline generally, substituting "Deputy" for "Assistant".
 
-Subsec. (a). Pub. L. 110–181, §543(a)(1), (2)(A), substituted "Deputy Judge Advocate General" for "Assistant Judge Advocate General" wherever appearing and substituted "The Judge Advocate General, while so serving, has the grade of lieutenant general." for "TheJudge Advocate General, while so serving, shall hold a grade not lower than major general."
+Subsec. (a). Pub. L. 110–181, §543(a)(1), (2)(A), substituted "Deputy Judge Advocate General" for "Assistant Judge Advocate General" wherever appearing and substituted "The Judge Advocate General, while so serving, has the grade of lieutenant general." for "The Judge Advocate General, while so serving, shall hold a grade not lower than major general."
 
 Subsec. (d). Pub. L. 110–181, §543(a)(2)(B), substituted "Deputy Judge Advocate General" for "Assistant Judge Advocate General".
 

@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a) of this section, an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
+&emsp;Notwithstanding subsection (a), an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
 
 #### (2) Exception for certain federally reinsured crop insurance
 
@@ -124,7 +124,7 @@
 
 #### (A) Finding
 
-&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporation shall make a finding whether savings bank life insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
+&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporationshall make a finding whether savings bank life insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
 
 #### (B) Actions
 
@@ -134,7 +134,7 @@
 
 #### (ii) Authorized actions
 
-&emsp;&emsp;&emsp;Actions the Corporation may take under this subparagraph include requiring themodification, suspension, or termination of insurance activities conducted by any insured bank if the Corporation finds that the activities pose a significant risk to any insured bank described in paragraph (1)(A) or to the Deposit Insurance Fund.
+&emsp;&emsp;&emsp;Actions the Corporation may take under this subparagraph include requiring the modification, suspension, or termination of insurance activities conducted by any insured bank if the Corporation finds that the activities pose a significant risk to any insured bank described in paragraph (1)(A) or to the Deposit Insurance Fund.
 
 #### (f) Common and preferred stock investment
 
@@ -218,7 +218,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 #### (1) Application of host State law
 
-&emsp;The laws of a host State, including laws regarding community reinvestment, consumer protection, fair lending, and establishment of intrastate branches, shall apply to any branch in the host State of an out-of-State State bank to the same extent as such State laws apply to a branch in the host State of an out-of-State national bank. To the extent host State law is inapplicable to a branch of anout-of-State State bank in such host State pursuant to the preceding sentence, home State law shall apply to such branch.
+&emsp;The laws of a host State, including laws regarding community reinvestment, consumer protection, fair lending, and establishment of intrastate branches, shall apply to any branch in the host State of an out-of-State State bank to the same extent as such State laws apply to a branch in the host State of an out-of-State national bank. To the extent host State law is inapplicable to a branch of an out-of-State State bank in such host State pursuant to the preceding sentence, home State law shall apply to such branch.
 
 #### (2) Activities of branches
 

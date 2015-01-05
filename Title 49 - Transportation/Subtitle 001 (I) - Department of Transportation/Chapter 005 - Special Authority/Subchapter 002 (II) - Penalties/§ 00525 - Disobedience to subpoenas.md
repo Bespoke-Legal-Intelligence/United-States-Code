@@ -42,7 +42,7 @@ The section is included because 49:1655(f)(2) gave the same administrative power
 
 See the revision notes for the revised section for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
 
-The section does not apply to the liability of a rail carrier because 49:46 is not included in the specific enumeration of 49:1655(f)(2)(B)(ii). The text of 49:304(a)(3) (last sentence 1st–7th words) and (3a) (last sentence 1st–5th words) is omitted as executed. The words "under this chapter" are added for clarity.
+The section does not apply to the liability of a rail carrier because 49:46 is not included in the specific enumeration of 49:1655(f)(2)(B)(ii). The text of 49:304(a)(3)\(last sentence 1st–7th words) and (3a) (last sentence 1st–5th words) is omitted as executed. The words "under this chapter" are added for clarity.
 
 #### Amendments
 

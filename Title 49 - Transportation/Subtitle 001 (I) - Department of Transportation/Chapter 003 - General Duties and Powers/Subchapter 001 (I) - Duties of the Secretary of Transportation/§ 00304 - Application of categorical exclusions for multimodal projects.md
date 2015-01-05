@@ -6,7 +6,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Cooperating authority.—The term "cooperating authority" means a Department ofTransportation operating authority that is not the lead authority with respect to a project.
+Cooperating authority.—The term "cooperating authority" means a Department of Transportation operating authority that is not the lead authority with respect to a project.
 
 &emsp;(2)
 

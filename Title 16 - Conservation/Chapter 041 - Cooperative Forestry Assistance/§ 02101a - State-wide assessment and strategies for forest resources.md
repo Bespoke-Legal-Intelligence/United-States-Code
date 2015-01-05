@@ -2,7 +2,7 @@
 
 #### (a) Assessment and strategies for forest resources
 
-For a State to be eligible to receive funds under the authorities of this chapter, the State forester of that State or equivalent State official shall develop and submit to the Secretary,not later than two years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the following:
+For a State to be eligible to receive funds under the authorities of this chapter, the State forester of that State or equivalent State official shall develop and submit to the Secretary, not later than two years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the following:
 
 &emsp;(1) A State-wide assessment of forest resource conditions, including—
 
@@ -34,9 +34,11 @@ In developing or updating the State-wide assessment and State-wide strategy requ
 
 &emsp;(3) the State Technical Committee;
 
-&emsp;(4) applicable Federal land management agencies; and
+&emsp;(4) applicable Federal land management agencies;
 
-&emsp;(5) for purposes of the Forest Legacy Program under section 2103c of this title, the State lead agency designated by the Governor.
+&emsp;(5) as feasible, appropriate military installations where the voluntary participation and management of private or State-owned or other public forestland is able to support, promote, and contribute to the missions of such installations; and
+
+&emsp;(6) for purposes of the Forest Legacy Program under section 2103c of this title, the State lead agency designated by the Governor.
 
 #### (d) Incorporation of other plans
 
@@ -50,7 +52,7 @@ Once approved by the Secretary, a State-wide assessment and State-wide strategy 
 
 #### (1) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2012.
+&emsp;There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2018.
 
 #### (2) Additional funding sources
 
@@ -60,7 +62,7 @@ Once approved by the Secretary, a State-wide assessment and State-wide strategy 
 
 The State forester or equivalent State official shall submit to the Secretary an annual report detailing how funds made available to the State under this chapter are being used.
 
-(Pub. L. 95–313, §2A, as added Pub. L. 110–234, title VIII, §8002, May 22, 2008, 122 Stat. 1280, and Pub. L. 110–246, §4(a), title VIII, §8002, June 18, 2008, 122 Stat. 1664, 2041.)
+(Pub. L. 95–313, §2A, as added Pub. L. 110–234, title VIII, §8002, May 22, 2008, 122 Stat. 1280, and Pub. L. 110–246, §4(a), title VIII, §8002, June 18, 2008, 122 Stat. 1664, 2041; amended Pub. L. 113–79, title VIII, §8101, Feb. 7, 2014, 128 Stat. 914.)
 
 #### References in Text
 
@@ -71,6 +73,12 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(5), (6). Pub. L. 113–79, §8101(1), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (f)(1). Pub. L. 113–79, §8101(2), substituted "2018" for "2012".
 
 #### Effective Date
 

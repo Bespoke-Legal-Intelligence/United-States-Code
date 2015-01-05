@@ -52,7 +52,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term "financial institution" does not include designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.), or national securities exchanges, national securities associations, alternative trading systems, securities information processors solely with respect to the activities of the entity as a securities information processor, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), or designated clearing entities, provided that the exclusions in this subparagraph apply only with respect to the activities that require the entity to be so registered.
+&emsp;&emsp;The term "financial institution" does not include designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.), or national securities exchanges, national securities associations, alternative trading systems, securities information processors solely with respect to the activities of the entity as a securities information processor, security-based swap datarepositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), or designated clearing entities, provided that the exclusions in this subparagraph apply only with respect to the activities that require the entity to be so registered.
 
 #### (6) Financial market utility
 
@@ -138,7 +138,7 @@ In this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) The appropriate Federal banking agency, with respect to a designated financial market utility that is an institution described in section 1813(q) of this title.
 
-&emsp;&emsp;&emsp;(iv) The Board of Governors, with respect to a designated financial market utility that is otherwise not subject to the jurisdiction of any agency listed in clauses (i), (ii), and (iii).
+&emsp;&emsp;&emsp;(iv) The Board of Governors, with respect to a designated financial market utilitythat is otherwise not subject to the jurisdiction of any agency listed in clauses (i), (ii), and (iii).
 
 #### (B) Multiple agency jurisdiction
 

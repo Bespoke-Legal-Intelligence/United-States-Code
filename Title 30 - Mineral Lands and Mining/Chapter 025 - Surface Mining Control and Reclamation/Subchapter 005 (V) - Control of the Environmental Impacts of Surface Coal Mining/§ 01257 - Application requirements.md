@@ -2,13 +2,13 @@
 
 #### (a) Fee
 
-Each application for a surface coal mining and reclamation permit pursuant to an approved State program or a Federal program under the provisions of this chapter shall be accompanied by a fee as determined by the regulatory authority. Such fee may be less than but shall not exceed the actual or anticipated cost of reviewing, administering, and enforcing such permit issued pursuant to a State or Federal program. The regulatory authority may develop procedures so as to enable the cost of the fee to be paid over the term of the permit.
+Each application for a surface coal mining and reclamation permit pursuant to an approvedState program or a Federal program under the provisions of this chapter shall be accompanied by a fee as determined by the regulatory authority. Such fee may be less than but shall not exceed the actual or anticipated cost of reviewing, administering, and enforcing such permit issued pursuant to a State or Federal program. The regulatory authority may develop procedures so as to enable the cost of the fee to be paid over the term of the permit.
 
 #### (b) Submittal; contents
 
 The permit application shall be submitted in a manner satisfactory to the regulatory authority and shall contain, among other things—
 
-&emsp;(1) the names and addresses of (A) the permit applicant; (B) every legal owner of record ofthe property (surface and mineral), to be mined; (C) the holders of record of any leasehold interest in the property; (D) any purchaser of record of the property under a real estate contract; and (E) the operator if he is a person different from the applicant; and (F) if any of these are business entities other than a single proprietor, the names and addresses of the principals, officers, and resident agent;
+&emsp;(1) the names and addresses of (A) the permit applicant; (B) every legal owner of record of the property (surface and mineral), to be mined; (C) the holders of record of any leasehold interest in the property; (D) any purchaser of record of the property under a real estate contract; and (E) the operator if he is a person different from the applicant; and (F) if any of these are business entities other than a single proprietor, the names and addresses of the principals, officers, and resident agent;
 
 &emsp;(2) the names and addresses of the owners of record of all surface and subsurface areas adjacent to any part of the permit area;
 
@@ -32,7 +32,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(12) when requested by the regulatory authority, the climatological factors that are peculiar to the locality of the land to be affected, including the average seasonal precipitation, the average direction and velocity of prevailing winds, and the seasonal temperature ranges;
 
-&emsp;(13) accurate maps to an appropriate scale clearly showing (A) the land to be affected as of the date of application and (B) all types of information set forth on topographical maps of the United States Geological Survey of a scale of 1:24,000 or 1:25,000 or larger, including all manmade features and significant known archeological sites existing on the date of application. Such a map or plan shall among other things specified by the regulatory authority show all boundaries of the land to be affected, the boundary lines and names of present owners of record of all surface areas abutting the permit area, and the location of all buildings within one thousand feet of the permit area;
+&emsp;(13) accurate maps to an appropriate scale clearly showing (A) the land to be affected as of the date of application and (B) all types of information set forth on topographical maps of the United States Geological Survey of a scale of 1:24,000 or 1:25,000 or larger, including all manmade features and significant known archeological sites existing on the date of application. Such a map or plan shall among other things specified by the regulatory authority show all boundaries of the land to be affected, the boundary lines and names of present owners of record of all surface areas abutting the permit area, and the location ofall buildings within one thousand feet of the permit area;
 
 &emsp;(14) cross-section maps or plans of the land to be affected including the actual area to be mined, prepared by or under the direction of and certified by a qualified registered professional engineer, or professional geologist with assistance from experts in related fields such as land surveying and landscape architecture, showing pertinent elevation and location of test borings or core samplings and depicting the following information: the nature and depth of the various strata of overburden; the location of subsurface water, if encountered, and its quality; the nature and thickness of any coal or rider seam above the coal seam to be mined; the nature of the stratum immediately beneath the coal seam to be mined; all mineral crop lines and the strike and dip of the coal to be mined, within the area of land to be affected; existing or previous surface mining limits; the location and extent of known workings of any underground mines, including mine openings to the surface; the location of aquifers; the estimated elevation of the water table; the location of spoil, waste, or refuse areas and top-soil preservation areas; the location of all impoundments for waste or erosion control; any settling or water treatment facility; constructed or natural drainways and the location of any discharges to any surface body of water on the area of land to be affected or adjacent thereto; and profiles at appropriate cross sections of the anticipated final surface configuration that will be achieved pursuant to the operator's proposed reclamation plan;
 
@@ -46,13 +46,13 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 (1) If the regulatory authority finds that the probable total annual production at all locations of a coal surface mining operator will not exceed 300,000 tons, the cost of the following activities, which shall be performed by a qualified public or private laboratory or such other public or private qualified entity designated by the regulatory authority, shall be assumed by the regulatory authority upon the written request of the operator in connection with a permit application:
 
-&emsp;(A) The determination of probable hydrologic consequences required by subsection (b)(11) of this section, including the engineering analyses and designs necessary for the determination.
+&emsp;(A) The determination of probable hydrologic consequences required by subsection (b)(11), including the engineering analyses and designs necessary for the determination.
 
-&emsp;(B) The development of cross-section maps and plans required by subsection (b)(14) of this section.
+&emsp;(B) The development of cross-section maps and plans required by subsection (b)(14).
 
-&emsp;(C) The geologic drilling and statement of results of test borings and core samplings required by subsection (b)(15) of this section.
+&emsp;(C) The geologic drilling and statement of results of test borings and core samplings required by subsection (b)(15).
 
-&emsp;(D) The collection of archaeological information required by subsection (b)(13) of this section and any other archaeological and historical information required by the regulatory authority, and the preparation of plans necessitated thereby.
+&emsp;(D) The collection of archaeological information required by subsection (b)(13) and any other archaeological and historical information required by the regulatory authority, and the preparation of plans necessitated thereby.
 
 &emsp;(E) Pre-blast surveys required by section 1265(b)(15)(E) of this title.
 
@@ -74,11 +74,11 @@ Each applicant for a permit shall be required to submit to the regulatory author
 
 #### (g) Blasting plan
 
-Each applicant for a surface coal mining and reclamation permit shall submit to the regulatory authority as part of the permit application a blasting plan which shall outline the procedures and standards by which the operatorwill meet the provisions of section 1265(b)(15) of this title.
+Each applicant for a surface coal mining and reclamation permit shall submit to the regulatory authority as part of the permit application a blasting plan which shall outline the procedures and standards by which the operator will meet the provisions of section 1265(b)(15) of this title.
 
 #### (h) Reimbursement of costs
 
-A coal operator that has received assistance pursuant to subsection (c)(1) or (2) of this section shall reimburse the regulatory authority for the cost of the services rendered if the program administrator finds that the operator's actual and attributed annual production of coal for all locations exceeds 300,000 tons during the 12 months immediately following the date on which the operator is issued the surface coal mining and reclamation permit.
+A coal operator that has received assistance pursuant to subsection (c)(1) or (2) shall reimburse the regulatory authority for the cost of the services rendered if the program administrator finds that the operator's actual and attributed annual production of coal for all locations exceeds 300,000 tons during the 12 months immediately following the date on which the operator is issued the surface coal mining and reclamation permit.
 
 (Pub. L. 95–87, title V, §507, Aug. 3, 1977, 91 Stat. 474; Pub. L. 101–508, title VI, §6011, Nov. 5, 1990, 104 Stat. 1388–297; Pub. L. 102–486, title XXV, §2513, Oct. 24, 1992, 106 Stat. 3112.)
 
@@ -96,7 +96,15 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 
 #### Discretionary Offsetting Collections
 
-Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 996, provided: "That, in subsequent fiscal years \[after fiscal year 2012\], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 (30 U.S.C. 1257) shall be credited to this account as discretionary offsetting collections, to remain available until expended."
+Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: "That, in subsequent fiscal years \[after fiscal year 2014\], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 (30 U.S.C. 1257) shall be credited to this account \[
+
+Office of Surface Mining Reclamation and Enforcement—regulation and technology\] as discretionary offsetting collections, to remain available until expended."
+
+Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 113–235, div. F, title I, Dec. 16, 2014, 128 Stat. 2406.
+
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 996.
 
 #### Preparation of Cross-Sections, Maps, and Plans of Land By or Under Direction of Qualified Registered Professional Engineers, Geologists, or Land Surveyors
 

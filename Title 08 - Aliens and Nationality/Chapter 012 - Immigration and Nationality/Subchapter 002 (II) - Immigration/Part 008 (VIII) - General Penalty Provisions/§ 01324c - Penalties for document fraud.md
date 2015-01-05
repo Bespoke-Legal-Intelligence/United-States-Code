@@ -56,7 +56,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 &emsp;With respect to a violation of subsection (a) of this section, the order under this subsection shall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
 
-&emsp;&emsp;(A) not less than $250 and not more than $2,000 for each document that is the subject of a violation under subsection (a) of this section, or
+&emsp;&emsp;(A) not less than $250 and not more than $2,000 for each document that is the subjectof a violation under subsection (a) of this section, or
 
 &emsp;&emsp;(B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subject of a violation under subsection (a) of this section.
 
@@ -86,35 +86,35 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (f) Falsely make
 
-For purposes of this section, the term “falsely make” means to prepare or provide an application or document, with knowledge or in reckless disregard of the fact that the application or document contains a false, fictitious, or fraudulent statement or material representation, or has no basis in law or fact, or otherwise fails to state a fact which is material to the purpose for which it was submitted.
+For purposes of this section, the term "falsely make" means to prepare or provide an application or document, with knowledge or in reckless disregard of the fact that the application or document contains a false, fictitious, or fraudulent statement or material representation, or has no basis in law or fact, or otherwise fails to state a fact which is material to the purpose for which it was submitted.
 
 (June 27, 1952, ch. 477, title II, ch. 8, §274C, as added Pub. L. 101–649, title V, §544(a), Nov. 29, 1990, 104 Stat. 5059; amended Pub. L. 102–232, title III, §306(c)(5)(A), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(r), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title II, §§212(a)–(d), 213, 220, title III, §§308(g)(10)(D), 379(a), Sept. 30, 1996, 110 Stat. 3009–570, 3009–571, 3009–575, 3009–625, 3009–649.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (e)(2), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (e)(2), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §212(a)(1), inserted “or to obtain a benefit under this chapter” before comma at end.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §212(a)(1), inserted "or to obtain a benefit under this chapter" before comma at end.
 
-Subsec. (a)(2). Pub. L. 104–208, §212(a)(2), inserted “or to obtain a benefit under this chapter” before comma at end.
+Subsec. (a)(2). Pub. L. 104–208, §212(a)(2), inserted "or to obtain a benefit under this chapter" before comma at end.
 
-Subsec. (a)(3). Pub. L. 104–208, §212(a)(3), inserted “or with respect to” after “issued to” and “or obtaining a benefit under this chapter” after “of this chapter” and struck out “or” at end.
+Subsec. (a)(3). Pub. L. 104–208, §212(a)(3), inserted "or with respect to" after "issued to" and "or obtaining a benefit under this chapter" after "of this chapter" and struck out "or" at end.
 
-Subsec. (a)(4). Pub. L. 104–208, §212(a)(4), inserted “or with respect to” after “issued to” and “or obtaining a benefit under this chapter” after “section 1324a(b) of this title” and substituted “, or” for the period at end.
+Subsec. (a)(4). Pub. L. 104–208, §212(a)(4), inserted "or with respect to" after "issued to" and "or obtaining a benefit under this chapter" after "section 1324a(b) of this title" and substituted ", or" for the period at end.
 
 Subsec. (a)(5), (6). Pub. L. 104–208, §212(a)(5), added pars. (5) and (6).
 
 Subsec. (d)(1)(C). Pub. L. 104–208, §220, added subpar. (C).
 
-Subsec. (d)(3)(A), (B). Pub. L. 104–208, §212(c), substituted “each document that is the subject of a violation under subsection (a) of this section” for “each document used, accepted, or created and each instance of use, acceptance, or creation”.
+Subsec. (d)(3)(A), (B). Pub. L. 104–208, §212(c), substituted "each document that is the subject of a violation under subsection (a) of this section" for "each document used, accepted, or created and each instance of use, acceptance, or creation".
 
-Subsec. (d)(4). Pub. L. 104–208, §379(a)(2), substituted “the final agency decision and order under this subsection” for “a final order under this subsection”.
+Subsec. (d)(4). Pub. L. 104–208, §379(a)(2), substituted "the final agency decision and order under this subsection" for "a final order under this subsection".
 
-Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
+Pub. L. 104–208, §379(a)(1), substituted "unless either (A) within 30 days, an official delegated by regulationto exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations" for "unless, within 30 days, the Attorney General modifies or vacates the decision and order".
 
-Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted “withholding of removal under section 1231(b)(3) of this title” for “withholding of deportation under section 1253(h) of this title”.
+Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted "withholding of removal under section 1231(b)(3) of this title" for "withholding of deportation under section 1253(h) of this title".
 
 Pub. L. 104–208, §212(d), added par. (7).
 
@@ -122,13 +122,13 @@ Subsec. (e). Pub. L. 104–208, §213, added subsec. (e).
 
 Subsec. (f). Pub. L. 104–208, §212(b), added subsec. (f).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–416 substituted “chapter 224 of title 18” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–416 substituted "chapter 224 of title 18" for "title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)".
 
-<b>1991</b>—Subsec. (a)(2) to (4). Pub. L. 102–232 inserted “or to provide” after “receive” in pars. (2) and (4) and “or to provide or attempt to provide” after “attempt to use” in par. (3).
+<b>1991</b>—Subsec. (a)(2) to (4). Pub. L. 102–232 inserted "or to provide" after "receive" in pars. (2) and (4) and "or to provide or attempt to provide" after "attempt to use" in par. (3).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title II, §212(e), Sept. 30, 1996, 110 Stat. 3009–571, provided that: “Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], as added by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title II, §212(e), Sept. 30, 1996, 110 Stat. 3009–571, provided that: "Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], as added by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Amendment by section 308(g)(10)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 

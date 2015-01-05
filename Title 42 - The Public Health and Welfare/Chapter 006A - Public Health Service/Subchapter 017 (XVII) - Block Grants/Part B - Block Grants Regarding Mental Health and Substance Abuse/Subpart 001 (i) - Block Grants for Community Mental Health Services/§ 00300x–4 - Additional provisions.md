@@ -4,7 +4,7 @@
 
 The Secretary may make a grant under section 300x of this title to a State only if—
 
-&emsp;(1) the plan submitted under section 300x–1(a) of this title with respect to the grant and the report of the State under section 300x–52(a) of this title concerning the preceding fiscal year has been reviewed by the State mental health planning council under section 300x–3 of this title; and
+&emsp;(1) the plan submitted under section 300x–1(a) of this title with respect to the grantand the report of the State under section 300x–52(a) of this title concerning the preceding fiscal year has been reviewed by the State mental health planning council under section 300x–3 of this title; and
 
 &emsp;(2) the State submits to the Secretary any recommendations received by the State from such council for modifications to the plan (without regard to whether the State has made the recommended modifications) and any comments concerning the annual report.
 
@@ -26,7 +26,7 @@ The Secretary may make a grant under section 300x of this title to a State only 
 
 &emsp;(A) In making a grant under section 300x of this title to a State for a fiscal year, the Secretary shall make a determination of whether, for the previous fiscal year, the State maintained material compliance with the agreement made under paragraph (1). If the Secretary determines that a State has failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x of this title for the State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
 
-&emsp;(B) The Secretary may make a grant under section 300x of this title for a fiscal year onlyif the State involved submits to the Secretary information sufficient for the Secretary to make the determination required in subparagraph (A).
+&emsp;(B) The Secretary may make a grant under section 300x of this title for a fiscal year only if the State involved submits to the Secretary information sufficient for the Secretary to make the determination required in subparagraph (A).
 
 (July 1, 1944, ch. 373, title XIX, §1915, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 383; amended Pub. L. 106–310, div. B, title XXXII, §3204(b), (c), Oct. 17, 2000, 114 Stat. 1193.)
 

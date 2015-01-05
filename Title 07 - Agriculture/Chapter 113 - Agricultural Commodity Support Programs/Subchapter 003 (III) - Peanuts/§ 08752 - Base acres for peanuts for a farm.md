@@ -10,13 +10,13 @@
 
 &emsp;&emsp;(B) Cropland is released from coverage under a conservation reserve contract by the Secretary, or was released during the period beginning on October 1, 2007, and ending on the date of enactment of this Act.
 
-&emsp;&emsp;(C) The producer has eligible pulse crop acreage, which shall be determined in thesame manner as eligible oilseed acreage under section 7911(a)(2) of this title.
+&emsp;&emsp;(C) The producer has eligible pulse crop acreage, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
 &emsp;&emsp;(D) The producer has eligible oilseed acreage as the result of the Secretary designating additional oilseeds, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
 #### (2) Special conservation reserve acreage payment rules
 
-&emsp;For the crop year in which a base acres for peanuts adjustment under subparagraph (A) or (B) of paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
+&emsp;For the crop year in which a base acres for peanuts adjustment under subparagraph (A) or\(B) of paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
 
 #### (b) Prevention of excess base acres for peanuts
 
@@ -94,19 +94,11 @@
 
 &emsp;&emsp;(B) a limited resource farmer or rancher, as defined by the Secretary.
 
-#### (3) Data collection and publication
+#### (3) Suspension of prohibition
 
-&emsp;The Secretary shall—
+&emsp;Paragraphs (1) and (2) shall not apply during the 2008 crop year.
 
-&emsp;&emsp;(A) collect and publish segregated data and survey information about the farm profiles, utilization of land, and crop production; and
-
-&emsp;&emsp;(B) perform an evaluation on the supply and price of fruits and vegetables based on the effects of suspension of base acres under this section.
-
-#### (4) Suspension of prohibition
-
-&emsp;Paragraphs (1) through (3) shall not apply during the 2008 crop year.
-
-(Pub. L. 110–234, title I, §1302, May 22, 2008, 122 Stat. 968; Pub. L. 110–246, §4(a), title I, §1302, June 18, 2008, 122 Stat. 1664, 1696; Pub. L. 110–398, §1(a)(2), Oct. 13, 2008, 122 Stat. 4213.)
+(Pub. L. 110–234, title I, §1302, May 22, 2008, 122 Stat. 968; Pub. L. 110–246, §4(a), title I, §1302, June 18, 2008, 122 Stat. 1664, 1696; Pub. L. 110–398, §1(a)(2), Oct. 13, 2008, 122 Stat. 4213; Pub. L. 113–188, title I, §101(a), Nov. 26, 2014, 128 Stat. 2017.)
 
 #### References in Text
 
@@ -114,13 +106,17 @@ The date of enactment of this Act, referred to in subsec. (a)(1)(A), (B), is the
 
 The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 110–246,June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(3). Pub. L. 113–188, §101(a)(1), (3), redesignated par. (4) as (3) and struck out former par. (3) which related to required data collection and publication.
+
+Subsec. (d)(4). Pub. L. 113–188, §101(a)(2), (3), substituted "Paragraphs (1) and (2)" for "Paragraphs (1) through (3)" and redesignated par. (4) as (3).
 
 <b>2008</b>—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
 

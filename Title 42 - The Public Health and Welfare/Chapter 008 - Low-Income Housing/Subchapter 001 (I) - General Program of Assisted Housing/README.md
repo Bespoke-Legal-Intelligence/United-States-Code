@@ -18,6 +18,7 @@
 - [&sect; 01437d - Contract provisions and requirements; loans and annual contributions](%C2%A7%2001437d%20-%20Contract%20provisions%20and%20requirements%3B%20loans%20and%20annual%20contributions.md)
 - [&sect; 01437e - Designated housing for elderly and disabled families](%C2%A7%2001437e%20-%20Designated%20housing%20for%20elderly%20and%20disabled%20families.md)
 - [&sect; 01437f - Low-income housing assistance](%C2%A7%2001437f%20-%20Low-income%20housing%20assistance.md)
+- [&sect; 01437f&#8211;1 - Report on section 8 project-based housing](%C2%A7%2001437f%E2%80%931%20-%20Report%20on%20section%208%20project-based%20housing.md)
 - [&sect; 01437g - Public housing Capital and Operating Funds](%C2%A7%2001437g%20-%20Public%20housing%20Capital%20and%20Operating%20Funds.md)
 - [&sect; 01437h - Implementation of provisions by Secretary](%C2%A7%2001437h%20-%20Implementation%20of%20provisions%20by%20Secretary.md)
 - [&sect; 01437i - Obligations of public housing agencies; contestability; full faith and credit of United States pledged as security; tax exemption](%C2%A7%2001437i%20-%20Obligations%20of%20public%20housing%20agencies%3B%20contestability%3B%20full%20faith%20and%20credit%20of%20United%20States%20pledged%20as%20security%3B%20tax%20exemption.md)

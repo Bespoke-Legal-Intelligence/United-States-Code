@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;A dealer may not sell, provide, or make available to any individual or entity a random source dog or cat unless such dealer provides the recipient with a valid certification that meets the requirements of paragraph (2) and indicates compliance with subsection (a) of this section.
+&emsp;A dealer may not sell, provide, or make available to any individual or entity a random source dog or cat unless such dealer provides the recipient with a valid certification that meets the requirements of paragraph (2) and indicates compliance with subsection (a).
 
 #### (2) Requirements
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) the name, address, and Department of Agriculture license or registration number (if such number exists) of the dealer;
 
-&emsp;&emsp;(B) the name, address, Department of Agriculture license or registration number (if such number exists), and the signature of the recipient of the dog or cat;
+&emsp;&emsp;(B) the name, address, Department of Agriculture license or registration number (ifsuch number exists), and the signature of the recipient of the dog or cat;
 
 &emsp;&emsp;(C) a description of the dog or cat being provided that shall include—
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(E) the date of the purchase or acquisition referred to in subparagraph (D);
 
-&emsp;&emsp;(F) a statement by the pound or shelter (if the dealer acquired the dog or cat from such) that it satisfied the requirements of subsection (a) of this section; and
+&emsp;&emsp;(F) a statement by the pound or shelter (if the dealer acquired the dog or cat from such) that it satisfied the requirements of subsection (a); and
 
 &emsp;&emsp;(G) any other information that the Secretary of Agriculture by regulation shall determine appropriate.
 
@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;Dealers who fail to act according to the requirements of this section or who include false information in the certification required under subsection (b) of this section, shall be subject to the penalties provided for under section 2149 of this title.
+&emsp;Dealers who fail to act according to the requirements of this section or who include false information in the certification required under subsection (b), shall be subject to the penalties provided for under section 2149 of this title.
 
 #### (2) Subsequent violations
 

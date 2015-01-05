@@ -14,7 +14,7 @@ To permit, or, on the affirmative vote of at least five members of the Board of 
 
 #### (c) Suspending reserve requirements
 
-To suspend for a period not exceeding thirty days, and from time to time to renew such suspension for periods not exceeding fifteen days, any reserve requirements specified in this chapter.
+To suspend for a period not exceeding thirty days, and from time to time to renew such suspension for periods not exceeding fifteen days,any reserve requirements specified in this chapter.
 
 #### (d) Supervising and regulating issue and retirement of notes
 
@@ -80,7 +80,7 @@ The Board may act in its own name and through its own attorneys in enforcing any
 
 #### (r) Voting; documentation of determinations
 
-(1) Any action that this chapter provides may be taken only upon the affirmative vote of 5members of the Board may be taken upon the unanimous vote of all members then in office if there are fewer than 5 members in office at the time of the action.
+(1) Any action that this chapter provides may be taken only upon the affirmative vote of 5 members of the Board may be taken upon the unanimous vote of all members then in office if there are fewer than 5 members in office at the time of the action.
 
 (2)(A) Any action that the Board is otherwise authorized to take under section 343(3) of this title may be taken upon the unanimous vote of all available members then in office, if—
 
@@ -188,7 +188,7 @@ The Board may act in its own name and through its own attorneys in enforcing any
 
 &emsp;&emsp;(C) all nonbank financial companies supervised by the Board under section 5323 of this title.
 
-(Dec. 23, 1913, ch. 6, §11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, §2, 40 Stat. 968; Mar. 3, 1919, ch. 101, §3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, §3, 48 Stat. 2; June 16, 1933, ch. 89, §7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §§321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, §1(c), 59 Stat. 237; Pub. L. 86–114, §3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, §3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, §2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, §1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, §2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, §102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, §17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, §1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§322(d), 331(d), title VI, §602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293; Pub. L. 106–102, title VII, §735, Nov. 12, 1999, 113 Stat. 1479; Pub. L. 107–56, title III, §364, Oct. 26, 2001, 115 Stat. 333; Pub. L. 107–297, title III, §301, Nov. 26, 2002, 116 Stat. 2340; Pub. L. 111–203, title III, §§318(c), 366(1), title XI, §§1103(b), 1108(c), July 21, 2010, 124 Stat. 1527, 1556, 2118, 2126.)
+(Dec. 23, 1913, ch. 6, §11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, §2, 40 Stat. 968; Mar. 3, 1919, ch. 101, §3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, §3, 48 Stat. 2; June 16, 1933, ch. 89, §7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §§321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, §1(c), 59 Stat. 237; Pub. L. 86–114, §3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, §3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, §2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, §1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, §2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, §102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, §17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, §1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§322(d), 331(d), title VI, §602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293; Pub. L. 106–102, title VII, §735, Nov. 12, 1999, 113 Stat. 1479; Pub. L. 107–56, title III, §364, Oct. 26, 2001, 115 Stat. 333; Pub. L. 107–297, title III, §301,Nov. 26, 2002, 116 Stat. 2340; Pub. L. 111–203, title III, §§318(c), 366(1), title XI, §§1103(b), 1108(c), July 21, 2010, 124 Stat. 1527, 1556, 2118, 2126.)
 
 #### References in Text
 
@@ -200,7 +200,7 @@ Reference in subsec. (e) to "section 20 of this Act" means section 20 of the Fed
 
 The Act of January sixteenth, eighteen hundred and eighty-three, referred to in subsec. (l), is act Jan. 16, 1883, ch. 27, 22 Stat. 403, as amended, which enacted section 42 of former Title 40, Public Buildings, Property, and Works, and sections 632, 633, 635, 637, 638, and 640 to 642a of former Title 5, Executive Departments and Government Officers and Employees. For complete classification of this Act to the Code, see Tables. Section 42 of former Title 40 was repealed and reenacted as section 8165 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. The sections that were classified to former Title 5 were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees. For distribution of former sections of Title 5 into the revised Title 5, see table at the beginning of Title 5.
 
-This title, referred to in subsec. (p), probably should read "this Act", meaning act Dec. 23, 1913, ch. 6, 38Stat. 251, as amended, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This title, referred to in subsec. (p), probably should read "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 Subsection (a) or (c) of section 1109 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (s)(7), is subsec. (a) or (c) of section 1109 of Pub. L. 111–203, title XI, 124 Stat. 2127, 2128, which is not classified to the Code.
 

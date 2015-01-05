@@ -26,7 +26,7 @@
 
 &emsp;&emsp;The new procedures established under subparagraph (A) may include 1 or more of the following:
 
-&emsp;&emsp;&emsp;(i) Notwithstanding section 5172(c)(1)(A) of title 42, providing an option for a State or local government to elect to receive an in-lieu contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repair, restoration, reconstruction, or replacement of a public facility owned or controlled by the State or local government and of management expenses.
+&emsp;&emsp;&emsp;(i) Notwithstanding section 5172(c)(1)(A) of title 42, providing an option for a State or local government to elect to receive an in-lieu contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repair, restoration, reconstruction, or replacement of a public facility owned or controlled by theState or local government and of management expenses.
 
 &emsp;&emsp;&emsp;(ii) Making grants on the basis of estimates agreed to by the local government (or where no local government is involved, by the State government) and the Administrator to provide financial incentives and disincentives for the local government (or where no local government is involved, for the State government) for the timely or cost effective completion of projects under sections 5170b(a)(3)(A), 5172, and 5173 of title 42.
 

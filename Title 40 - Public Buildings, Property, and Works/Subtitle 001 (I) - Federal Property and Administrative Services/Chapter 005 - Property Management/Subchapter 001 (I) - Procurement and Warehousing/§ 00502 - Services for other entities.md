@@ -70,7 +70,7 @@ In general.—The Administrator may provide for the use by State or local govern
 
 &emsp;(2)
 
-Determination by secretary of homeland security.—The Secretary of Homeland Security shall determine which goods and services qualify as goods and services described in paragraph (1) before the Administrator provides for the use of the Federal supply schedule relating to such goods and services.
+Determination by secretary of homeland security.—The Secretary of Homeland Security shall determine which goods andservices qualify as goods and services described in paragraph (1) before the Administrator provides for the use of the Federal supply schedule relating to such goods and services.
 
 &emsp;(3)
 

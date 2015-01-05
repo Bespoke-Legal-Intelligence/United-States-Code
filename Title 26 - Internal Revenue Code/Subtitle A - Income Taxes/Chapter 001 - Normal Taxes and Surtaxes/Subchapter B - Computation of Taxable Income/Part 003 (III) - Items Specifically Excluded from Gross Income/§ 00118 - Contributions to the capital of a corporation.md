@@ -6,7 +6,7 @@ In the case of a corporation, gross income does not include any contribution to 
 
 #### (b) Contributions in aid of construction, etc.
 
-For purposes of subsection (a), except as provided in subsection (c), the term "contributionto the capital of the taxpayer" does not include any contribution in aid of construction or any other contribution as a customer or potential customer.
+For purposes of subsection (a), except as provided in subsection (c), the term "contribution to the capital of the taxpayer" does not include any contribution in aid of construction or any other contribution as a customer or potential customer.
 
 #### (c) Special rules for water and sewerage disposal utilities
 
@@ -58,7 +58,7 @@ For purposes of subsection (a), except as provided in subsection (c), the term "
 
 If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (c), then—
 
-&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
+&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of suchamount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
 
 &emsp;&emsp;(A) the amount of the expenditure referred to in subparagraph (A) of subsection (c)(2),
 
@@ -86,7 +86,7 @@ Subsecs. (c) to (e). Pub. L. 104–188, §1613(a)(1), added subsecs. (c) and (d)
 
 Subsecs. (c), (d). Pub. L. 99–514, §824(a), redesignated former subsec. (d) as (c) and struck out former subsec. (c), statute of limitations, which read as follows: "If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (b), then—
 
-&emsp;"(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years fromthe date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
+&emsp;"(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
 
 &emsp;&emsp;"(A) the amount of the expenditure referred to in subparagraph (A) of subsection (b)(2),
 

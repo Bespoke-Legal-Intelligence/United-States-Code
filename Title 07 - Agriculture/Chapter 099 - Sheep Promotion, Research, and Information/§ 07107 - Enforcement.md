@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-Each district court of the United States shall have jurisdiction specifically to enforce, and to prevent and restrain a person from violating, an order or regulation issued under this chapter.
+Each district court of the United States shall have jurisdiction specifically to enforce, and toprevent and restrain a person from violating, an order or regulation issued under this chapter.
 
 #### (b) Referral to Attorney General
 
@@ -32,13 +32,13 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (5) Finality
 
-&emsp;An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the United States court of appeals, as provided in subsection (d) of this section, not later than 30 days after the person receives notice of the order.
+&emsp;An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the United States court of appeals, as provided in subsection (d), not later than 30 days after the person receives notice of the order.
 
 #### (d) Review by court of appeals
 
 #### (1) In general
 
-&emsp;A person against whom an order is issued under subsection (c) of this section may obtain review of the order by—
+&emsp;A person against whom an order is issued under subsection (c) may obtain review of the order by—
 
 &emsp;&emsp;(A) filing, not later than 30 days after the date of the order, a notice of appeal in—
 

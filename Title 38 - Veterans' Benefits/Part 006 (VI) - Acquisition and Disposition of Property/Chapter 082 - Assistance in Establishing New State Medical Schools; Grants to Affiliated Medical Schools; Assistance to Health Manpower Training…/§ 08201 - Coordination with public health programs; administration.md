@@ -1,6 +1,6 @@
 ### §8201. Coordination with public health programs; administration
 
-(a) The Secretary and the Secretary of Health and Human Services shall, to the maximum extent practicable, coordinate the programs carried out under this chapter and the programscarried out under titles VII, VIII, and IX of the Public Health Service Act (42 U.S.C. 292 et seq.).
+(a) The Secretary and the Secretary of Health and Human Services shall, to the maximum extent practicable, coordinate the programs carried out under this chapter and the programs carried out under titles VII, VIII, and IX of the Public Health Service Act (42 U.S.C. 292 et seq.).
 
 (b) The Secretary may not enter into any agreement under subchapter I of this chapter after September 30, 1979.
 

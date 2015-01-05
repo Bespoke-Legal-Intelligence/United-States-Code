@@ -42,7 +42,7 @@ This section corrects a typographical error in the second paragraph of section 2
 
 "An appeal may not be taken to the court of appeals from the final order in a habeas corpus proceeding where the detention complained of arises out of process issued by a State court, unless the justice or judge who rendered the order or a circuit justice or judge issues a certificate of probable cause."
 
-<b>1951</b>—Act Oct. 31, 1951, substituted "to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his" for "of removalissued pursuant to section 3042 of Title 18 or the" in second par.
+<b>1951</b>—Act Oct. 31, 1951, substituted "to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his" for "of removal issued pursuant to section 3042 of Title 18 or the" in second par.
 
 <b>1949</b>—Act May 24, 1949, substituted "3042" for "3041" in second par.
 

@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount allotted under paragraph (2) for fiscal year 2006 (as suchparagraph (2) was in effect on the day before August 12, 2006);
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount allotted under paragraph (2) for fiscal year 2006 (as such paragraph (2) was in effect on the day before August 12, 2006);
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amount reserved under paragraph (1)(C) for fiscal year 2006 (as such paragraph (1)(C) was so in effect); and
 

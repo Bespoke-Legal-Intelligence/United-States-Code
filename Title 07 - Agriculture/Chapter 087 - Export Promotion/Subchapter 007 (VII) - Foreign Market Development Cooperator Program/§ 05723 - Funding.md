@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-To carry out this subchapter, the Secretary shall use funds of the Commodity Credit Corporation, or commodities of the Commodity Credit Corporation of a comparable value, in the amount of $34,500,000 for each of fiscal years 2008 through 2012.
+To carry out this subchapter, the Secretary shall use funds of the Commodity Credit Corporation, or commodities of the Commodity Credit Corporation of a comparable value, in the amount of $34,500,000 for each of fiscal years 2008 through 2018.
 
 #### (b) Program priorities
 
-In providing any amount of funds or commodities made available under subsection (a) of thissection for any fiscal year that is in excess of the amount made available under this section for fiscal year 2001, the Secretary shall, to the maximum extent practicable—
+In providing any amount of funds or commodities made available under subsection (a) for any fiscal year that is in excess of the amount made available under this section for fiscal year 2001, the Secretary shall, to the maximum extent practicable—
 
 &emsp;(1) give equal consideration to—
 
@@ -20,9 +20,11 @@ In providing any amount of funds or commodities made available under subsection 
 
 &emsp;&emsp;(B) proposals submitted for activities in markets other than emerging markets.
 
-(Pub. L. 95–501, title VII, §703, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 972; amended Pub. L. 107–171, title III, §3105(b), May 13, 2002, 116 Stat. 291; Pub. L. 110–246, title III, §3104(b), June 18, 2008, 122 Stat. 1833.)
+(Pub. L. 95–501, title VII, §703, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 972; amended Pub. L. 107–171, title III, §3105(b), May 13, 2002, 116 Stat. 291; Pub. L. 110–246, title III, §3104(b), June 18, 2008, 122 Stat. 1833; Pub. L. 113–79, title III, §3103, Feb. 7, 2014, 128 Stat. 779.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79 substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246 substituted "2008 through 2012" for "2002 through 2007".
 

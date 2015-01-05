@@ -10,7 +10,7 @@ It is the purpose of this subpart to assist eligible applicants—
 
 #### (b) Program authorization
 
-The Secretary is authorized, in conjunction with the Office of Educational Technology, to award grants, contracts, or cooperative agreements, on a competitive basis, for a period of not more than 3 years, to eligible applicants in order to assist such applicants in—
+The Secretary is authorized, in conjunction with the Office of Educational Technology, to award grants, contracts, or cooperative agreements, on a competitive basis, for a period ofnot more than 3 years, to eligible applicants in order to assist such applicants in—
 
 &emsp;(1) creating or expanding community technology centers; or
 

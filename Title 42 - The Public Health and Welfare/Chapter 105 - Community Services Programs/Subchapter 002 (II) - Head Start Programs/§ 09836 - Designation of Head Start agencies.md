@@ -78,7 +78,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;&emsp;(ii) to not be delivering a high-quality and comprehensive Head Start program shall be subject to an open competition as described in subsection (d); and
 
-&emsp;&emsp;&emsp;(iii) in the case of an Indian Head Start agency, to not be delivering a high-quality and comprehensive Head Start program shall (notwithstanding clause (ii)) be subject to the requirements of subparagraph (B).
+&emsp;&emsp;&emsp;(iii) in the case of an Indian Head Start agency, to not be delivering a high-qualityand comprehensive Head Start program shall (notwithstanding clause (ii)) be subject to the requirements of subparagraph (B).
 
 #### (B) Tribal government consultation and reevaluation
 
@@ -86,7 +86,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (8) Transparency, reliability, and validity
 
-&emsp;The Secretary shall ensure the system for designation renewal is fair, consistent, andtransparent and is applied in a manner that renews designations, in a timely manner, grantees as Head Start agencies for periods of 5 years if such grantees are delivering high-quality and comprehensive Head Start programs. The Secretary shall periodically evaluate whether the criteria of the system are being applied in a manner that is transparent, reliable, and valid.
+&emsp;The Secretary shall ensure the system for designation renewal is fair, consistent, and transparent and is applied in a manner that renews designations, in a timely manner, grantees as Head Start agencies for periods of 5 years if such grantees are delivering high-quality and comprehensive Head Start programs. The Secretary shall periodically evaluate whether the criteria of the system are being applied in a manner that is transparent, reliable, and valid.
 
 #### (9) Transition
 
@@ -330,7 +330,7 @@ Subsec. (d)(8), (9). Pub. L. 103–252, §107(c)(5), (6), redesignated par. (9) 
 
 Subsecs. (f), (g). Pub. L. 103–252, §107(d), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "The provisions of subsections (c), (d), and (e) of this section shall be applied by the Secretary in the distribution of any additional appropriations made available under this subchapter during any fiscal year as well as to initial designations of Head Start agencies."
 
-<b>1992</b>—Subsec. (c)(1). Pub. L. 102–401, §2(e)(1), inserted at end "Notwithstanding any other provision of this paragraph, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title."
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–401, §2(e)(1), inserted at end "Notwithstanding any other provision of this paragraph, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refundinghas been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title."
 
 Subsec. (c)(2). Pub. L. 102–401, §2(f), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 

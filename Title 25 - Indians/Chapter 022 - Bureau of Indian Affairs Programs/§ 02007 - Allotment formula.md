@@ -46,7 +46,7 @@
 
 #### (C) Review of standards
 
-&emsp;&emsp;Concurrent with such action, the Secretary shall review the standards establishedunder section 2002 of this title to be certain that adequate provision is made for parental notification regarding, and consent for, such counseling and therapeutic programs.
+&emsp;&emsp;Concurrent with such action, the Secretary shall review the standards established under section 2002 of this title to be certain that adequate provision is made for parental notification regarding, and consent for, such counseling and therapeutic programs.
 
 #### (b) Pro rata allotment
 
@@ -134,7 +134,7 @@ Supplemental appropriations enacted to meet increased pay costs attributable to 
 
 In this section, the term "eligible Indian student" means a student who—
 
-&emsp;(1) is a member of, or is at least one-fourth degree Indian blood descendant of a member of, a tribe that is eligible for the special programs and services provided by the United States through the Bureau to Indians because of their status as Indians;
+&emsp;(1) is a member of, or is at least one-fourth degree Indian blood descendant of a memberof, a tribe that is eligible for the special programs and services provided by the United States through the Bureau to Indians because of their status as Indians;
 
 &emsp;(2) resides on or near a reservation or meets the criteria for attendance at a Bureau off-reservation home-living school; and
 

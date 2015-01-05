@@ -104,5 +104,5 @@ Section 605 of Public Law 107–77, referred to in subsec. (f), is section 605 o
 
 #### Amendments
 
-<b>2003</b>—Subsec. (f). Pub. L. 108–7 inserted before period at end “: <i>Provided</i>, That any such transfer or provision of funding shall be carried out in accordance with section 605 of Public Law 107–77”.
+<b>2003</b>—Subsec. (f). Pub. L. 108–7 inserted before period at end ": <i>Provided</i>, That any such transfer or provision of funding shall be carried out in accordance with section 605 of Public Law 107–77".
 

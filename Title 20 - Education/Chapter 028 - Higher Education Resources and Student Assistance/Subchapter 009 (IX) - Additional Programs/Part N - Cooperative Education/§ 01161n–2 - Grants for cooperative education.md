@@ -12,7 +12,7 @@
 
 #### (2) Program requirement
 
-&emsp;Cooperative education programs assisted under this section shall provide alternating orparallel periods of academic study and of public or private employment, giving students work experience related to their academic or occupational objectives and the opportunity to earn the funds necessary for continuing and completing their education.
+&emsp;Cooperative education programs assisted under this section shall provide alternating or parallel periods of academic study and of public or private employment, giving students work experience related to their academic or occupational objectives and the opportunity to earn the funds necessary for continuing and completing their education.
 
 #### (3) Amount of grants
 
@@ -44,7 +44,7 @@ Each institution of higher education or consortium of such institutions desiring
 
 &emsp;(1) set forth the program or activities for which a grant is authorized under this section;
 
-&emsp;(2) specify each portion of such program or activities which will be performed by a nonprofit organization or institution other than the applicant, and the amount of grant funds to be used for such program or activities;
+&emsp;(2) specify each portion of such program or activities which will be performed by a nonprofit organization or institution other thanthe applicant, and the amount of grant funds to be used for such program or activities;
 
 &emsp;(3) provide that the applicant will expend, during the fiscal year for which the grant is awarded for the purpose of such program or activities, not less than the amount expended for such purpose during the previous fiscal year;
 

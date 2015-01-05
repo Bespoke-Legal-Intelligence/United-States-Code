@@ -10,7 +10,17 @@ As used in this subchapter:
 
 &emsp;The term "child care certificate" means a certificate (that may be a check or other disbursement) that is issued by a State or local government under this subchapter directly to a parent who may use such certificate only as payment for child care services or as a deposit for child care services if such a deposit is required of other children being cared for by the provider. Nothing in this subchapter shall preclude the use of such certificates for sectarian child care services if freely chosen by the parent. For purposes of this subchapter, child care certificates shall not be considered to be grants or contracts.
 
-#### (3) Repealed. Pub. L. 104–193, title VI, §614(2), Aug. 22, 1996, 110 Stat. 2287
+#### (3) Child with a disability
+
+&emsp;The term "child with a disability" means—
+
+&emsp;&emsp;(A) a child with a disability, as defined in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401);
+
+&emsp;&emsp;(B) a child who is eligible for early intervention services under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.);
+
+&emsp;&emsp;(C) a child who is less than 13 years of age and who is eligible for services under section 794 of title 29; and
+
+&emsp;&emsp;(D) a child with a disability, as defined by the State involved.
 
 #### (4) Eligible child
 
@@ -18,7 +28,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) who is less than 13 years of age;
 
-&emsp;&emsp;(B) whose family income does not exceed 85 percent of the State median income for a family of the same size; and
+&emsp;&emsp;(B) whose family income does not exceed 85 percent of the State median income for a family of the same size, and whose family assets do not exceed $1,000,000 (as certified by a member of such family); and
 
 &emsp;&emsp;(C) who—
 
@@ -26,51 +36,57 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(ii) is receiving, or needs to receive, protective services and resides with a parent or parents not described in clause (i).
 
-#### (5) Eligible child care provider
+#### (5) English learner
+
+&emsp;The term "English learner" means an individual who is limited English proficient, as defined in section 7801 of title 20 or section 9832 of this title.
+
+#### (6) Eligible child care provider
 
 &emsp;The term "eligible child care provider" means—
 
 &emsp;&emsp;(A) a center-based child care provider, a group home child care provider, a family child care provider, or other provider of child care services for compensation that—
 
-&emsp;&emsp;&emsp;(i) is licensed, regulated, or registered under State law as described in section 9858c(c)(2)(E) of this title; and
+&emsp;&emsp;&emsp;(i) is licensed, regulated, or registered under State law as described in section 9858c(c)(2)(F) of this title; and
 
-&emsp;&emsp;&emsp;(ii) satisfies the State and local requirements, including those referred to in section 9858c(c)(2)(F) of this title;
+&emsp;&emsp;&emsp;(ii) satisfies the State and local requirements, including those referred to in section 9858c(c)(2)(I) of this title;
 
 > &emsp;&emsp;applicable to the child care services it provides; or
 
 &emsp;&emsp;(B) a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinity or consanguinity, or by court decree, the grandchild, great grandchild, sibling (if such provider lives in a separate residence), niece, or nephew of such provider, if such provider complies with any applicable requirements that govern child care provided by the relative involved.
 
-#### (6) Family child care provider
+#### (7) Family child care provider
 
 &emsp;The term "family child care provider" means one individual who provides child care services for fewer than 24 hours per day, as the sole caregiver, and in a private residence.
 
-#### (7) Indian tribe
+#### (8) Indian tribe
 
 &emsp;The term "Indian tribe" has the meaning given it in section 450b(e) of title 25.
 
-#### (8) Lead agency
+#### (9) Lead agency
 
-&emsp;The term "lead agency" means the agency designated under section 9858(a) <sup>1</sup> of this title.
+&emsp;The term "lead agency" means the agency designated or established under section 9858b(a) of this title.
 
-#### (9) Parent
+#### (10) Parent
 
-&emsp;The term "parent" includes a legal guardian or other person standing in loco parentis.
+&emsp;The term "parent" includes a legal guardian, foster parent, or other person standing in loco parentis.
 
-#### (10) Repealed. Pub. L. 104–193, title VI, §614(5), Aug. 22, 1996, 110 Stat. 2287
+#### (11) Scientifically valid research
 
-#### (11) Secretary
+&emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research, for which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
+
+#### (12) Secretary
 
 &emsp;The term "Secretary" means the Secretary of Health and Human Services unless the context specifies otherwise.
 
-#### (12) Sliding fee scale
+#### (13) Sliding fee scale
 
 &emsp;The term "sliding fee scale" means a system of cost sharing by a family based on income and size of the family.
 
-#### (13) State
+#### (14) State
 
 &emsp;The term "State" means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-#### (14) Tribal organization
+#### (15) Tribal organization
 
 #### (A) In general
 
@@ -78,17 +94,31 @@ As used in this subchapter:
 
 #### (B) Other organizations
 
-&emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> oftitle 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
+&emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
 
-(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287; Pub. L. 105–33, title V, §5602(5), Aug. 5, 1997, 111 Stat. 646.)
+(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat.1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287; Pub. L. 105–33, title V, §5602(5), Aug. 5, 1997, 111 Stat. 646; Pub. L. 113–186, §10, Nov. 19, 2014, 128 Stat. 2000.)
 
 #### References in Text
 
-Section 9858 of this title, referred to in par. (8), does not contain a subsec. (a) and does not relate to designation of lead agencies. For provisions relating to designation of a State agency to act as a lead agency, see section 9858b(a) of this title.
+The Individuals with Disabilities Education Act, referred to in par. (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-Section 4909 of title 20, referred to in par. (14)(B), was repealed by Pub. L. 103–382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
+Section 4909 of title 20, referred to in par. (15)(B), was repealed by Pub. L. 103–382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
 
 #### Amendments
+
+<b>2014</b>—Pars. (3), (4). Pub. L. 113–186, §10(1), added pars. (3) and (4) and struck out former par. (4) which defined "eligible child".
+
+Par. (5). Pub. L. 113–186, §10(3), added par. (5). Former par. (5) redesignated (6).
+
+Par. (6). Pub. L. 113–186, §10(2), (4), redesignated par. (5) as (6) and substituted "9858c(c)(2)(F)" for "9858c(c)(2)(E)" in subpar. (A)(i) and "9858c(c)(2)(I)" for "9858c(c)(2)(F)" in subpar. (A)(ii). Former par. (6) redesignated (7).
+
+Pars. (7), (8). Pub. L. 113–186, §10(2), redesignated pars. (6) and (7) as (7) and (8), respectively. Former pars. (7) and (8) redesignated (8) and (9), respectively.
+
+Par. (9). Pub. L. 113–186, §10(2), (5), redesignated par. (8) as (9) and substituted "designated or established under section 9858b(a)" for "designated under section 9858(a)". Former par. (9) redesignated (10).
+
+Par. (10). Pub. L. 113–186, §10(2), (6), redesignated par. (9) as (10) and inserted ", foster parent," after "guardian".
+
+Pars. (11) to (15). Pub. L. 113–186, §10(7), (8), added par. (11) and redesignated former pars. (11) to (14) as (12) to (15), respectively.
 
 <b>1997</b>—Par. (13). Pub. L. 105–33 substituted "and" for "or" after "American Samoa,".
 

@@ -32,7 +32,7 @@
 
 #### (ii) Redistribution
 
-&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection (b)(2)(B) of this section to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
+&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection\(b)(2)(B) to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
 
 #### (b) Allocation and distribution of appropriated funds
 
@@ -54,7 +54,7 @@ Beginning with the fiscal year ending September 30, 1979, the funds appropriated
 
 #### (2) Plan of work required
 
-&emsp;Before funds may be provided to an eligible institution under this section for any fiscal year, a plan of work to be carried out under this section shall be submitted by the research director specified in subsection (d) of this section and shall be approved by the Secretary.
+&emsp;Before funds may be provided to an eligible institution under this section for any fiscal year, a plan of work to be carried out under this section shall be submitted by the research director specified in subsection (d) and shall be approved by the Secretary.
 
 #### (3) Requirements related to plan of work
 
@@ -134,7 +134,7 @@ Subsec. (c). Pub. L. 105–185, §225(b), inserted subsec. heading, designated e
 
 Subsec. (g). Pub. L. 105–362, §101(e)(1), struck out "(1)" before "On or before".
 
-Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: "The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor."
+Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: "The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portionof the appropriation available for allotment to any institution has been withheld and if so the reasons therefor."
 
 Pub. L. 105–185, §226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: "If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution."
 
@@ -152,7 +152,7 @@ Subsec. (b)(2)(B). Pub. L. 97–98, §1432(a)(2), inserted "current at the time 
 
 Subsecs. (c), (d). Pub. L. 97–98, §1432(a)(3), substituted "research director" for "chief administrative officer" wherever appearing.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–547 amended subsec. (b) generally, substituting in par. (A) provisions relating to allocation of funds among eligible institutions in same proportion as funds made available under section 450i of this title, for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution, and substituting in par. (B) provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as ruralpopulation of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
+<b>1978</b>—Subsec. (b). Pub. L. 95–547 amended subsec. (b) generally, substituting in par. (A) provisions relating to allocation of funds among eligible institutions in same proportion as funds made available under section 450i of this title, for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution, and substituting in par. (B) provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as rural population of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
 
 #### Effective Date of 2008 Amendment
 

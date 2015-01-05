@@ -17,6 +17,7 @@
 | [18011\.](Subchapter%20002%20%28II%29%20-%20Other%20Provisions/%C2%A7%2018011%20-%20Preservation%20of%20right%20to%20maintain%20existing%20coverage.md) | Preservation of right to maintain existing coverage. |
 | [18012\.](Subchapter%20002%20%28II%29%20-%20Other%20Provisions/%C2%A7%2018012%20-%20Rating%20reforms%20must%20apply%20uniformly%20to%20all%20health%20insurance%20issuers%20and%20group%20health%20plans.md) | Rating reforms must apply uniformly to all health insurance issuers and group health plans. |
 | [18013\.](Subchapter%20002%20%28II%29%20-%20Other%20Provisions/%C2%A7%2018013%20-%20Annual%20report%20on%20self-insured%20plans.md) | Annual report on self-insured plans. |
+| [18014\.](Subchapter%20002%20%28II%29%20-%20Other%20Provisions/%C2%A7%2018014%20-%20Treatment%20of%20expatriate%20health%20plans%20under%20ACA.md) | Treatment of expatriate health plans under ACA. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

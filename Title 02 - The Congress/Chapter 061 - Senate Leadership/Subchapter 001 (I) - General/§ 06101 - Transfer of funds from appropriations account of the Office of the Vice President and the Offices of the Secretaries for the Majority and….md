@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;Upon the written request of the Vice President, the Secretary of the Senate shall transfer from the appropriations account appropriated under the subheading “
+&emsp;Upon the written request of the Vice President, the Secretary of the Senate shall transfer from the appropriations account appropriated under the subheading "
 
-office of the vice president” under the heading “
+office of the vice president" under the heading "
 
-Salaries, Officers and Employees” such amount as the Vice President shall specify to the appropriations account under the heading “
+Salaries, Officers and Employees" such amount as the Vice President shall specify to the appropriations account under the heading "
 
-miscellaneous items” within the contingent fund of the Senate.
+miscellaneous items" within the contingent fund of the Senate.
 
 #### (2) Authority to incur expenses
 
@@ -24,13 +24,13 @@ miscellaneous items” within the contingent fund of the Senate.
 
 #### (1) In general
 
-&emsp;Upon the written request of the Secretary for the Majority or the Secretary for the Minority, the Secretary of the Senate shall transfer from the appropriations account appropriated under the subheading “
+&emsp;Upon the written request of the Secretary for the Majority or the Secretary for the Minority, the Secretary of the Senate shall transfer from the appropriations account appropriated under the subheading "
 
-offices of the secretaries for the majority and minority” under the heading “
+offices of the secretaries for the majority and minority" under the heading "
 
-Salaries, Officers and Employees” such amount as the Secretary for the Majority or the Secretary for the Minority shall specify to the appropriations account under the heading “
+Salaries, Officers and Employees" such amount as the Secretary for the Majority or the Secretary for the Minority shall specify to the appropriations account under the heading "
 
-miscellaneous items” within the contingent fund of the Senate.
+miscellaneous items" within the contingent fund of the Senate.
 
 #### (2) Authority to incur expenses
 

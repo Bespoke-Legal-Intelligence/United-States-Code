@@ -6,7 +6,7 @@ The President shall appoint an individual to serve as chairperson of the Council
 
 #### (b) Other members
 
-The Administrator shall, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on SmallBusiness of the House of Representatives and the Senate, appoint, in consultation with the chairperson of the Council appointed under subsection (a) of this section, 14 members of the Council, of whom—
+The Administrator shall, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate, appoint, in consultation with the chairperson of the Council appointed under subsection (a) of this section, 14 members of the Council, of whom—
 
 &emsp;(1) 4 shall be—
 

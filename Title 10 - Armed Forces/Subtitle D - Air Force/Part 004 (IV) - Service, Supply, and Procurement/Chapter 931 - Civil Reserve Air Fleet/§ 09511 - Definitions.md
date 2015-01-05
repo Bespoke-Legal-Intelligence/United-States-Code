@@ -60,7 +60,7 @@ Par. (12). Pub. L. 101–189, §1636(a)(4), added par. (12).
 
 <b>1988</b>—Par. (1). Pub. L. 100–456 substituted "The terms" for "The term".
 
-<b>1987</b>—Pars. (1) to (11). Pub. L. 100–180 inserted "The term" after each par. designation, and revised firstword in quotes in pars. (1) to (6) and (8) to (10) to make initial letter of each word lowercase.
+<b>1987</b>—Pars. (1) to (11). Pub. L. 100–180 inserted "The term" after each par. designation, and revised first word in quotes in pars. (1) to (6) and (8) to (10) to make initial letter of each word lowercase.
 
 #### Effective Date of 1994 Amendment
 

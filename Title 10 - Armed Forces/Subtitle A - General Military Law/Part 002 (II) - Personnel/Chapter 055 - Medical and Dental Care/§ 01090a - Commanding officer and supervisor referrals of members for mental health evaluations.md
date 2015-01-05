@@ -32,7 +32,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "mental health evaluation" means a psychiatric examination or evaluation, a psychological examination or evaluation, an examination for psychiatric or psychological fitness for duty, or any other means of assessing the state of mental health of a member of the armed forces.
 
-&emsp;(3) The term "least restrictive alternative principle" means a principle under which a member of the armed forces committed forhospitalization and treatment shall be placed in the most appropriate and therapeutic available setting—
+&emsp;(3) The term "least restrictive alternative principle" means a principle under which a member of the armed forces committed for hospitalization and treatment shall be placed in the most appropriate and therapeutic available setting—
 
 &emsp;&emsp;(A) that is no more restrictive than is conducive to the most effective form of treatment; and
 

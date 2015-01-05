@@ -1,6 +1,6 @@
 ### §1592. Unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor
 
-(a) Whoever knowingly destroys, conceals, removes, confiscates, or possesses any actual orpurported passport or other immigration document, or any other actual or purported government identification document, of another person—
+(a) Whoever knowingly destroys, conceals, removes, confiscates, or possesses any actual or purported passport or other immigration document, or any other actual or purported government identification document, of another person—
 
 &emsp;(1) in the course of a violation of section 1581, 1583, 1584, 1589, 1590, 1591, or 1594(a);
 

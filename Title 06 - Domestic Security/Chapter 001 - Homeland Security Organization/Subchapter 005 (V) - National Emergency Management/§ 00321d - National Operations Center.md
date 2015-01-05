@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term “situational awareness” means information gathered from a variety of sources that, when communicated to emergency managers and decision makers, can form the basis for incident management decisionmaking.
+In this section, the term "situational awareness" means information gathered from a variety of sources that, when communicated to emergency managers and decision makers, can form the basis for incident management decisionmaking.
 
 #### (b) Establishment
 
@@ -26,7 +26,7 @@ The National Operations Center is the principal operations center for the Depart
 
 &emsp;The Secretary shall manage the position established pursuant to paragraph (1) in accordance with such rules, regulations, and practices as govern other similar rotating positions at the National Operations Center.
 
-(Pub. L. 107–296, title V, §515, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat.1409; amended Pub. L. 110–376, §8, Oct. 8, 2008, 122 Stat. 4060.)
+(Pub. L. 107–296, title V, §515, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1409; amended Pub. L. 110–376, §8, Oct. 8, 2008, 122 Stat. 4060.)
 
 #### Amendments
 

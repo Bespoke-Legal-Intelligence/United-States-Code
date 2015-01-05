@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An application for a waiver under this section shall be considered by the Secretary in accordance with the regulations described in subparagraph (B).
+&emsp;&emsp;An application for a waiver under this section shall be considered by the Secretary inaccordance with the regulations described in subparagraph (B).
 
 #### (B) Regulations
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(iii) a process for providing public notice and comment after the application is received by the Secretary, that is sufficient to ensure a meaningful level of public input and that does not impose requirements that are in addition to, or duplicative of, requirements imposed under the Administrative Procedures Act,<sup>2</sup> or requirements that are unreasonable or unnecessarily burdensome with respect to State compliance;
 
-&emsp;&emsp;&emsp;(iv) a process for the submission to the Secretary of periodic reports by the Stateconcerning the implementation of the program under the waiver; and
+&emsp;&emsp;&emsp;(iv) a process for the submission to the Secretary of periodic reports by the State concerning the implementation of the program under the waiver; and
 
 &emsp;&emsp;&emsp;(v) a process for the periodic evaluation by the Secretary of the program under the waiver.
 
@@ -124,7 +124,7 @@
 
 #### (e) Term of waiver
 
-No waiver under this section may extend over a period of longer than 5 years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
+No waiver under this section may extend over a period of longer than 5 years unless the Staterequests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
 
 (Pub. L. 111–148, title I, §1332, Mar. 23, 2010, 124 Stat. 203.)
 
@@ -134,7 +134,7 @@ Part I of subtitle E, referred to in subsec. (a)(3), is part I (§§1401–1415)
 
 This title, where footnoted in subsecs. (a)(3) and (b)(1)(A) to (C), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
-The Administrative Procedures Act, referred to in subsec. (a)(4)(B)(iii), probably means the Administrative Procedure Act, act June 11, 1946, ch. 324, 60 Stat.237, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
+The Administrative Procedures Act, referred to in subsec. (a)(4)(B)(iii), probably means the Administrative Procedure Act, act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
 
 The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

@@ -56,7 +56,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (2) Participation fee
 
-&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of anyinstitution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (3) Development company fee
 
@@ -82,7 +82,7 @@ The fees authorized by subsections (b) and (d) of this section shall apply to fi
 
 #### (g) Calculation of subsidy rate
 
-All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is definedin section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter.
+All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter.
 
 #### (h) Required actions upon default
 
@@ -120,7 +120,7 @@ For definition of "this chapter", referred to in subsecs. (b)(7)(A)(ii) and (g),
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–447, §204, struck out ", but shall not apply to financings approved by the Administration on or after October 1, 2005" before period at end.
+<b>2004</b>—Subsec. (f). Pub. L. 108–447, §204, struck out ", but shall not apply to financings approved by theAdministration on or after October 1, 2005" before period at end.
 
 Pub. L. 108–447, title V, substituted "October 1, 2005" for "October 1, 2004".
 
@@ -166,7 +166,7 @@ Subsec. (c). Pub. L. 100–590, §112(c)(B), formerly §112(c)(1)(B), as amended
 
 Subsec. (d). Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 100–590, §117, which directed substitution of "(1) For purposes of" for "For purposes of", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed tosubsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, §112(c)(1).
+Subsec. (e). Pub. L. 100–590, §117, which directed substitution of "(1) For purposes of" for "For purposes of", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, §112(c)(1).
 
 Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
 

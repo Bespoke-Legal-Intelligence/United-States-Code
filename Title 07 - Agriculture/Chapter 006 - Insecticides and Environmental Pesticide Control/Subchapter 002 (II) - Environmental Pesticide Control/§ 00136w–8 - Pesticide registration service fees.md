@@ -14,7 +14,7 @@ In this section, the term "costs", when used with respect to review and decision
 
 &emsp;(2) costs of management of information, and the acquisition, maintenance, and repair of computer and telecommunication resources (including software), used to support review of pesticide applications, associated tolerances, and corresponding risk and benefits information and analyses; and
 
-&emsp;(3) costs of collecting registration service fees under subsections (b) and (c) of this section and reporting, auditing, and accounting under this section.
+&emsp;(3) costs of collecting registration service fees under subsections (b) and (c) and reporting, auditing, and accounting under this section.
 
 #### (b) Fees
 
@@ -32,7 +32,7 @@ In this section, the term "costs", when used with respect to review and decision
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), an application for the registration of a pesticide that was submitted to the Administrator before the effective date of the Pesticide Registration Improvement Act of 2003 and is pending on that effective date shall be subject to a service fee under this section if the application is for the registration of a new active ingredient that is not listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency.
+&emsp;&emsp;&emsp;Subject to clause (ii), an application for the registration of a pesticide that was submitted to the Administrator before the effective date of the Pesticide Registration Improvement Act of 2003 and is pending onthat effective date shall be subject to a service fee under this section if the application is for the registration of a new active ingredient that is not listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency.
 
 #### (ii) Tolerance or exemption fees
 
@@ -732,7 +732,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator may exempt from, or waive a portion of, the registration servicefee for an application for minor uses for a pesticide.
+&emsp;&emsp;&emsp;The Administrator may exempt from, or waive a portion of, the registration service fee for an application for minor uses for a pesticide.
 
 #### (ii) Supporting documentation
 
@@ -780,7 +780,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (A) Early withdrawals
 
-&emsp;&emsp;If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3) of this section, a covered pesticide registration application is withdrawn by the applicant, the Administrator shall refund all but 25 percent.<sup>1</sup> of the total registration service fee payable under paragraph (3) for the application.
+&emsp;&emsp;If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3), a covered pesticide registration application is withdrawn by the applicant, the Administrator shall refund all but 25 percent.<sup>1</sup> of the total registration service fee payable under paragraph (3) for the application.
 
 #### (B) Withdrawals after the first 60 days of decision review time period
 
@@ -814,7 +814,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (D) Credited fees
 
-&emsp;&emsp;In determining whether to grant a refund under this paragraph, the Administratorshall take into account any portion of the registration service fees credited under paragraph (2) or (4).
+&emsp;&emsp;In determining whether to grant a refund under this paragraph, the Administrator shall take into account any portion of the registration service fees credited under paragraph (2) or (4).
 
 #### (c) Pesticide Registration Fund
 
@@ -896,7 +896,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (4) Subsequent authority
 
-&emsp;If the Administrator does not assess registration service fees under subsection (b) of this section during any portion of a fiscal year as the result of paragraph (2) and is subsequently permitted to assess the fees under subsection (b) of this section during the fiscal year, the Administrator shall assess and collect the fees, without any modification in rate, at any time during the fiscal year, notwithstanding any provisions of subsection (b) of this section relating to the date fees are to be paid.
+&emsp;If the Administrator does not assess registration service fees under subsection (b) during any portion of a fiscal year as the result of paragraph (2) and is subsequently permitted to assess the fees under subsection (b) during the fiscal year, the Administrator shall assess and collect the fees, without any modification in rate, at any time during the fiscal year, notwithstanding any provisions of subsection (b) relating to the date fees are to be paid.
 
 #### (e) Reforms to reduce decision time review periods
 
@@ -916,9 +916,9 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 &emsp;The decision time review periods specified in paragraph (1) shall apply to—
 
-&emsp;&emsp;(A) covered pesticide registration applications subject to registration service fees under subsection (b)(2) of this section;
+&emsp;&emsp;(A) covered pesticide registration applications subject to registration service fees under subsection (b)(2);
 
-&emsp;&emsp;(B) covered pesticide registration applications for which an applicant has voluntarily paid registration service fees under subsection (b)(4) of this section; and
+&emsp;&emsp;(B) covered pesticide registration applications for which an applicant has voluntarilypaid registration service fees under subsection (b)(4); and
 
 &emsp;&emsp;(C) covered pesticide registration applications listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency.
 
@@ -976,7 +976,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of an application submitted with a request for a waiver or reduction ofregistration service fees under subsection (b)(7) of this section, the decision time review period shall be determined in accordance with this subparagraph.
+&emsp;&emsp;&emsp;In the case of an application submitted with a request for a waiver or reduction of registration service fees under subsection (b)(7), the decision time review period shall be determined in accordance with this subparagraph.
 
 #### (ii) Request granted with no additional fees required
 
@@ -1004,9 +1004,9 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 &emsp;&emsp;&emsp;Clause (i) applies to—
 
-&emsp;&emsp;&emsp;&emsp;(I) covered pesticide registration applications for which voluntary fees have been paid under subsection (b)(4) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) covered pesticide registration applications for which voluntary fees have been paid under subsection (b)(4); and
 
-&emsp;&emsp;&emsp;&emsp;(II) covered pesticide registration applications received on or after the effective date of the Pesticide Registration Improvement Act of 2003 but submitted without the applicable registration service fee required under this section due to the inability of the Administrator to assess fees under subsection (d)(1) of this section.
+&emsp;&emsp;&emsp;&emsp;(II) covered pesticide registration applications received on or after the effective date of the Pesticide Registration Improvement Act of 2003 but submitted without the applicable registration service fee required under this section due to the inability of the Administrator to assess fees under subsection (d)(1).
 
 #### (E) 2003 work plan
 
@@ -1026,7 +1026,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 #### (A) In general
 
-&emsp;&emsp;In an action brought under this subsection, the only issue on review is whether the Administrator failed to make a determination on the application specified in paragraph (1) by the end of the applicable decision time review period required under subsection (f) of this section for the application.
+&emsp;&emsp;In an action brought under this subsection, the only issue on review is whether the Administrator failed to make a determination on the application specified in paragraph (1) by the end of the applicable decision time review period required under subsection (f) for the application.
 
 #### (B) Other actions
 
@@ -1056,9 +1056,9 @@ The Administrator shall—
 
 &emsp;&emsp;(B) the Government Management Reform Act of 1994 (Public Law 103–356; 108 Stat. 3410) and amendments made by that Act;
 
-&emsp;(2) provide an accounting describing expenditures from the Fund authorized under subsection (c) of this section; and
+&emsp;(2) provide an accounting describing expenditures from the Fund authorized under subsection (c); and
 
-&emsp;(3) provide an annual accounting describing collections and expenditures authorized under subsection (d) of this section.
+&emsp;(3) provide an annual accounting describing collections and expenditures authorized under subsection (d).
 
 #### (i) Auditing
 
@@ -1070,11 +1070,11 @@ The Administrator shall—
 
 &emsp;The annual audit required under sections 3515(b) and 3521 of that title of the financial statements of activities under this section shall include an analysis of—
 
-&emsp;&emsp;(A) the fees collected under subsection (b) of this section and disbursed;
+&emsp;&emsp;(A) the fees collected under subsection (b) and disbursed;
 
-&emsp;&emsp;(B) compliance with subsection (f) of this section;
+&emsp;&emsp;(B) compliance with subsection (f);
 
-&emsp;&emsp;(C) the amount appropriated to meet the requirements of subsection (d)(1) of this section; and
+&emsp;&emsp;(C) the amount appropriated to meet the requirements of subsection (d)(1); and
 
 &emsp;&emsp;(D) the reasonableness of the allocation of the overhead allocation of costs associated with the review and decisionmaking pertaining to applications under this section.
 
@@ -1100,9 +1100,9 @@ All full-time equivalent positions supported by fees authorized and collected un
 
 &emsp;The report shall include—
 
-&emsp;&emsp;(A) a review of the progress made in carrying out each requirement of subsections (e) and (f) of this section, including—
+&emsp;&emsp;(A) a review of the progress made in carrying out each requirement of subsections (e) and (f), including—
 
-&emsp;&emsp;&emsp;(i) the number of applications reviewed, including the decision times for each application specified in subsection (f) of this section;
+&emsp;&emsp;&emsp;(i) the number of applications reviewed, including the decision times for each application specified in subsection (f);
 
 &emsp;&emsp;&emsp;(ii) the number of label amendments that have been reviewed using electronic means;
 
@@ -1110,7 +1110,7 @@ All full-time equivalent positions supported by fees authorized and collected un
 
 &emsp;&emsp;&emsp;(iv) the number of applications completed for identical or substantially similar applications under section 136a(c)(3)(B) of this title, including the number of such applications completed within 90 days pursuant to that section;
 
-&emsp;&emsp;&emsp;(v) the number of actions pending in each category of actions described in subsection (f)(3) of this section, as well as the number of inert ingredients;
+&emsp;&emsp;&emsp;(v) the number of actions pending in each category of actions described in subsection (f)(3), as well as the number of inert ingredients;
 
 &emsp;&emsp;&emsp;(vi) to the extent determined appropriate by the Administrator and consistent with the authorities of the Administrator and limitations on delegation of functions by the Administrator, recommendations for—
 
@@ -1226,13 +1226,13 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 #### (i) Pending applications
 
-&emsp;&emsp;&emsp;In the case of an application received under this section before September 30, 2017, the application shall be reviewed in accordance with subsection (f) of this section.
+&emsp;&emsp;&emsp;In the case of an application received under this section before September 30, 2017, the application shall be reviewed in accordance with subsection (f).
 
 #### (ii) New applications
 
-&emsp;&emsp;&emsp;In the case of an application received under this section on or after September 30, 2017, subsection (f) of this section shall not apply to the application.
+&emsp;&emsp;&emsp;In the case of an application received under this section on or after September 30, 2017, subsection (f) shall not apply to the application.
 
-(June 25, 1947, ch. 125, §33, as added Pub. L. 108–199, div. G, title V, §501(f)(2), Jan. 23, 2004, 118Stat. 422; amended Pub. L. 110–94, §5, Oct. 9, 2007, 121 Stat. 1002; Pub. L. 110–193, §1(a), Mar. 6, 2008, 122 Stat. 649; Pub. L. 112–177, §2(a)(2)(B), (b), Sept. 28, 2012, 126 Stat. 1328, 1330.)
+(June 25, 1947, ch. 125, §33, as added Pub. L. 108–199, div. G, title V, §501(f)(2), Jan. 23, 2004, 118 Stat. 422; amended Pub. L. 110–94, §5, Oct. 9, 2007, 121 Stat. 1002; Pub. L. 110–193, §1(a), Mar. 6, 2008, 122 Stat. 649; Pub. L. 112–177, §2(a)(2)(B), (b), Sept. 28, 2012, 126 Stat. 1328, 1330.)
 
 #### References in Text
 

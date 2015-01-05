@@ -48,7 +48,7 @@ Architect of the Capitol.—The Architect of the Capitol may enter into—
 
 Secretary of the Smithsonian Institution.—The Secretary of the Smithsonian Institution may enter into—
 
-&emsp;(1) contracts for the procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year under the authority of section 3902 of this title; and
+&emsp;(1) contracts for the procurement of severable services for a period that begins in onefiscal year and ends in the next fiscal year under the authority of section 3902 of this title; and
 
 &emsp;(2) multiyear contracts for the acquisition of property and services under the authority of section 3903 of this title.
 

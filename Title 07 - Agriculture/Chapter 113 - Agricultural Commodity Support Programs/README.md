@@ -13,9 +13,7 @@
 | :--- | ---: |
 | [8711\.](Subchapter%20001%20%28I%29%20-%20Direct%20Payments%20and%20Counter-Cyclical%20Payments/%C2%A7%2008711%20-%20Base%20acres.md) | Base acres. |
 | [8712\.](Subchapter%20001%20%28I%29%20-%20Direct%20Payments%20and%20Counter-Cyclical%20Payments/%C2%A7%2008712%20-%20Payment%20yields.md) | Payment yields. |
-| [8713\.](Subchapter%20001%20%28I%29%20-%20Direct%20Payments%20and%20Counter-Cyclical%20Payments/%C2%A7%2008713%20-%20Availability%20of%20direct%20payments.md) | Availability of direct payments. |
-| [8714\.](Subchapter%20001%20%28I%29%20-%20Direct%20Payments%20and%20Counter-Cyclical%20Payments/%C2%A7%2008714%20-%20Availability%20of%20counter-cyclical%20payments.md) | Availability of counter-cyclical payments. |
-| [8715\.](Subchapter%20001%20%28I%29%20-%20Direct%20Payments%20and%20Counter-Cyclical%20Payments/%C2%A7%2008715%20-%20Average%20crop%20revenue%20election%20program.md) | Average crop revenue election program. |
+| 8713 to 8715. Repealed. |  |
 | [8716\.](Subchapter%20001%20%28I%29%20-%20Direct%20Payments%20and%20Counter-Cyclical%20Payments/%C2%A7%2008716%20-%20Producer%20agreement%20required%20as%20condition%20of%20provision%20of%20payments.md) | Producer agreement required as condition of provision of payments. |
 | [8717\.](Subchapter%20001%20%28I%29%20-%20Direct%20Payments%20and%20Counter-Cyclical%20Payments/%C2%A7%2008717%20-%20Planting%20flexibility.md) | Planting flexibility. |
 | [8718\.](Subchapter%20001%20%28I%29%20-%20Direct%20Payments%20and%20Counter-Cyclical%20Payments/%C2%A7%2008718%20-%20Special%20rule%20for%20long%20grain%20and%20medium%20grain%20rice.md) | Special rule for long grain and medium grain rice. |
@@ -46,8 +44,7 @@
 | :--- | ---: |
 | [8751\.](Subchapter%20003%20%28III%29%20-%20Peanuts/%C2%A7%2008751%20-%20Definitions.md) | Definitions. |
 | [8752\.](Subchapter%20003%20%28III%29%20-%20Peanuts/%C2%A7%2008752%20-%20Base%20acres%20for%20peanuts%20for%20a%20farm.md) | Base acres for peanuts for a farm. |
-| [8753\.](Subchapter%20003%20%28III%29%20-%20Peanuts/%C2%A7%2008753%20-%20Availability%20of%20direct%20payments%20for%20peanuts.md) | Availability of direct payments for peanuts. |
-| [8754\.](Subchapter%20003%20%28III%29%20-%20Peanuts/%C2%A7%2008754%20-%20Availability%20of%20counter-cyclical%20payments%20for%20peanuts.md) | Availability of counter-cyclical payments for peanuts. |
+| 8753, 8754. | Repealed. |
 | [8755\.](Subchapter%20003%20%28III%29%20-%20Peanuts/%C2%A7%2008755%20-%20Producer%20agreement%20required%20as%20condition%20on%20provision%20of%20payments.md) | Producer agreement required as condition on provision of payments. |
 | [8756\.](Subchapter%20003%20%28III%29%20-%20Peanuts/%C2%A7%2008756%20-%20Planting%20flexibility.md) | Planting flexibility. |
 | [8757\.](Subchapter%20003%20%28III%29%20-%20Peanuts/%C2%A7%2008757%20-%20Marketing%20assistance%20loans%20and%20loan%20deficiency%20payments%20for%20peanuts.md) | Marketing assistance loans and loan deficiency payments for peanuts. |
@@ -59,9 +56,9 @@
 
 |  |  |
 | :--- | ---: |
-| [8771\.](Subchapter%20004%20%28IV%29%20-%20Dairy/%C2%A7%2008771%20-%20Dairy%20product%20price%20support%20program.md) | Dairy product price support program. |
+| [8771\.](Subchapter%20004%20%28IV%29%20-%20Dairy/%C2%A7%2008771%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20I%2C%20%C2%A71421%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20694.md) | Repealed. |
 | [8772\.](Subchapter%20004%20%28IV%29%20-%20Dairy/%C2%A7%2008772%20-%20Dairy%20forward%20pricing%20program.md) | Dairy forward pricing program. |
-| [8773\.](Subchapter%20004%20%28IV%29%20-%20Dairy/%C2%A7%2008773%20-%20Milk%20income%20loss%20contract%20program.md) | Milk income loss contract program. |
+| [8773\.](Subchapter%20004%20%28IV%29%20-%20Dairy/%C2%A7%2008773%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20I%2C%20%C2%A71422%28b%29%281%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20695.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

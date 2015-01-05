@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “executive agency” shall not include the Government Accountability Office.
+Definition.—In this section, the term "executive agency" shall not include the Government Accountability Office.
 
 (b)
 
@@ -82,7 +82,7 @@ In general.—Not later than 18 months after the date of enactment of this chapt
 
 &emsp;&emsp;(B)
 
-Contents.—Each report submitted by the Comptroller General shall include thesame information as required under subsection (b) applicable to the Government Accountability Office.
+Contents.—Each report submitted by the Comptroller General shall include the same information as required under subsection (b) applicable to the Government Accountability Office.
 
 &emsp;(2)
 
@@ -112,5 +112,5 @@ Review and inclusion of relevant information.—The Chair and Vice Chair of the 
 
 The date of enactment of this chapter, referred to in subsecs. (b)(1) and (c)(1)(A), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

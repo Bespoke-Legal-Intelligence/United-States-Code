@@ -28,11 +28,11 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 > In prescribing requirements for audits under clause (iv), the Secretary shall provide that such audits be conducted by appropriately trained individuals who do not have any direct responsibility for the manufacture or production of infant formula.
 
-(3)(A) At the final product stage, each batch of infant formula shall be tested for vitamin A, vitamin B1, vitamin C, and vitamin E to ensure that such infant formula is in compliance with the requirements of this subsection and subsection (i) of this section relating to such vitamins.
+(3)(A) At the final product stage, each batch of infant formula shall be tested for vitamin A, vitamin B1, vitamin C, and vitamin E to ensurethat such infant formula is in compliance with the requirements of this subsection and subsection (i) of this section relating to such vitamins.
 
 (B) Each nutrient premix used in the manufacture of an infant formula shall be tested for each relied upon nutrient required by subsection (i) of this section which is contained in such premix to ensure that such premix is in compliance with its specifications or certifications by a premix supplier.
 
-(C) During the manufacturing process or at the final product stage and before distribution of an infant formula, an infant formula shall be tested for all nutrients required to be included in such formula by subsection (i) of this sectionfor which testing has not been conducted pursuant to subparagraph (A) or (B). Testing under this subparagraph shall be conducted to—
+(C) During the manufacturing process or at the final product stage and before distribution of an infant formula, an infant formula shall be tested for all nutrients required to be included in such formula by subsection (i) of this section for which testing has not been conducted pursuant to subparagraph (A) or (B). Testing under this subparagraph shall be conducted to—
 
 &emsp;(i) ensure that each batch of such infant formula is in compliance with the requirements of subsection (i) of this section relating to such nutrients, and
 
@@ -94,7 +94,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (2) After the first production of an infant formula subject to subsection (c) of this section, and before the introduction into interstate commerce of such formula, the manufacturer of such formula shall submit to the Secretary, in such form as may be prescribed by the Secretary, a written verification which summarizes test results and records demonstrating that such formula complies with the requirements of subsections (b)(1), (b)(2)(A), (b)(2)(B)(i), (b)(2)(B)(iii), (b)(3)(A), (b)(3)(C), and (i) of this section.
 
-(3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a changein the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a) of this section, the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
+(3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a change in the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a) of this section, the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
 
 #### (e) Additional notice requirements for manufacturer
 

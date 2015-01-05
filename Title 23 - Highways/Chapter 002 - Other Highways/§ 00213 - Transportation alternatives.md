@@ -6,7 +6,7 @@ Reservation of Funds.—
 
 &emsp;(1)
 
-In general.—On October 1 of each of fiscal years 2013 and 2014, the Secretary shall proportionally reserve from the funds apportioned to a State under section 104(b) to carry out the requirements of this section an amount equal to the amount obtained by multiplying the amount determined under paragraph (2) by the ratio that—
+In general.—On October 1 of each of fiscal years 2013 and 2014, the Secretary shall proportionally reserve from the funds apportioned to a State under section 104(b) to carry out the requirements of this section anamount equal to the amount obtained by multiplying the amount determined under paragraph (2) by the ratio that—
 
 &emsp;&emsp;(A) the amount apportioned to the State for the transportation enhancements program for fiscal year 2009 under section 133(d)(2), as in effect on the day before the date of enactment of the MAP-21; bears to
 

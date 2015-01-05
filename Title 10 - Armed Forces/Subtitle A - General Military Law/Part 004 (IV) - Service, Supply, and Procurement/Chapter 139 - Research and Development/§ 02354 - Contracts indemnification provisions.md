@@ -80,7 +80,7 @@ July 16, 1952, ch. 882, §5, 66 Stat. 726.
 
 5:628f (less 1st sentence).
 
-In subsection (a), the words "Liability on account of", and "of such claims" are omitted as surplusage. Inclauses (1) and (2), the word "from" is substituted for the words "arising as a result of".
+In subsection (a), the words "Liability on account of", and "of such claims" are omitted as surplusage. In clauses (1) and (2), the word "from" is substituted for the words "arising as a result of".
 
 In subsections (a) and (b), the words "United States" are substituted for the word "Government".
 

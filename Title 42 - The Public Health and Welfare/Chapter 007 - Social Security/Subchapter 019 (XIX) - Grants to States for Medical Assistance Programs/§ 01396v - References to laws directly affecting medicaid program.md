@@ -46,7 +46,7 @@ For provisions of law which make additional individuals eligible for medical ass
 
 &emsp;(E) Section 503 of Public Law 94–566 (relating to deeming eligible for medical assistance certain individuals who would be eligible for supplemental security income benefits but for cost-of-living increases in social security benefits).
 
-&emsp;(F) Section 310(b)(1) of Public Law 96–272 (relating to continuing medicaid eligibility for certain recipients of Department of Veterans Affairs pensions).
+&emsp;(F) Section 310(b)(1) of Public Law 96–272 (relating to continuing medicaid eligibility forcertain recipients of Department of Veterans Affairs pensions).
 
 #### (b) Additional State plan requirements
 
@@ -112,7 +112,7 @@ Subsec. (a)(2)(E). Pub. L. 100–203, §9116(d), as amended generally by Pub. L.
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1895(c)(5)(A), redesignated subpars. (B) and (C) as (C) and (D), respectively, and inserted at beginning of subpar. (A) "Section 602(a)(32) of this title (relating to individuals who are deemed recipients of aid but for whom a payment is not made)."
 
-Subsec. (a)(2). Pub. L. 99–643, which directed amendment of section 1920(a)(2) of the Social Security Act by designating existing provisions as subpar. (A) and adding subpar. (B) relating to section 1383c of this title as it relates to individuals who lose eligibility for SSI benefits due to entitlement to child's insurance benefits, was executed to this section, section 1921 of the Social Security Act, to reflect the probable intent of Congress and the redesignation of section 1920 of the Social Security Act as section 1921 by Pub. L. 99–509.
+Subsec. (a)(2). Pub. L. 99–643, which directed amendment of section 1920(a)(2) of the Social Security Act by designating existing provisions as subpar. (A) and adding subpar. (B) relating to section 1383c of this title as it relates to individuals who lose eligibility for SSI benefits due to entitlement to child's insurance benefits, was executed to this section, section 1921 of theSocial Security Act, to reflect the probable intent of Congress and the redesignation of section 1920 of the Social Security Act as section 1921 by Pub. L. 99–509.
 
 Pub. L. 99–514, §1895(c)(5)(B), designated existing provisions as subpar. (A) and added subpar. (B) relating to section 1383c(b) of this title as it relates to preservation of benefit status for certain disabled widows and widowers.
 

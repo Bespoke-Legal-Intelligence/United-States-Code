@@ -158,7 +158,7 @@ For purposes of this section:
 
 #### (iii) Additional exceptions
 
-&emsp;&emsp;&emsp;The Secretary shall permit an individual to change the endorsed discount card program in which the individual is enrolled in the case of an individual who changes residence to be outside the service area of such program and in such other exceptional cases as the Secretary may provide (taking into account the circumstances for special election periods under section 1395w–21(e)(4) of this title). Under the previous sentence, the Secretary may consider a change in residential setting (such as placement in a nursing facility) or enrollment in or disenrollment from a plan under part C of this subchapter throughwhich the individual was enrolled in an endorsed program to be an exceptional circumstance.
+&emsp;&emsp;&emsp;The Secretary shall permit an individual to change the endorsed discount card program in which the individual is enrolled in the case of an individual who changes residence to be outside the service area of such program and in such other exceptional cases as the Secretary may provide (taking into account the circumstances for special election periods under section 1395w–21(e)(4) of this title). Under the previous sentence, the Secretary may consider a change in residential setting (such as placement in a nursing facility) or enrollment in or disenrollment from a plan under part C of this subchapter through which the individual was enrolled in an endorsed program to be an exceptional circumstance.
 
 #### (D) Disenrollment
 
@@ -224,7 +224,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to discount card eligible individuals (and prospective eligible individuals) regarding—
+&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminateinformation to discount card eligible individuals (and prospective eligible individuals) regarding—
 
 &emsp;&emsp;&emsp;(i) enrollment in endorsed discount card programs; and
 
@@ -294,7 +294,7 @@ For purposes of this section:
 
 #### (B) Ensuring pharmacy access
 
-&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shall establish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
+&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shallestablish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
 
 #### (C) Prohibition on charges for required services
 
@@ -426,7 +426,7 @@ For purposes of this section:
 
 #### (C) Accounting for available balances in cases of changes in program enrollment
 
-&emsp;&emsp;In the case of a transitional assistance eligible individual who changes the endorsed discount card program in which the individual is enrolled under this section, the Secretary shall provide a process under which the Secretary provides to the sponsor of the endorsed program in which the individual enrolls information concerning the balance of amounts available on behalf of the individual under this paragraph.
+&emsp;&emsp;In the case of a transitional assistance eligible individual who changes the endorsed discount card program in which the individual is enrolled under this section, the Secretary shall provide a process under which the Secretary provides to the sponsor of the endorsed program in which the individual enrolls information concerning the balanceof amounts available on behalf of the individual under this paragraph.
 
 #### (D) Limitation on use of funds
 
@@ -502,7 +502,7 @@ For purposes of this section:
 
 #### (B) Administrative qualifications
 
-&emsp;&emsp;Each endorsed discount card program shall be operated directly, or through arrangements with an affiliated organization (or organizations), by one or more entities that have demonstrated experience and expertise in operating such a program or a similar program and that meets such business stability and integrity requirements as the Secretary may specify.
+&emsp;&emsp;Each endorsed discount card program shall be operated directly, or through arrangements with an affiliated organization (or organizations), by one or more entities that have demonstrated experience and expertise in operating such a program or a similarprogram and that meets such business stability and integrity requirements as the Secretary may specify.
 
 #### (C) Accounting for transitional assistance
 
@@ -582,7 +582,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an organization that is offering a plan under part C of this subchapter orenrollment under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is seeking to be a prescription drug card sponsor under this section, the organization may elect to apply the special rules under subparagraph (B) with respect to enrollees in any plan described in section 1395w–21(a)(2)(A) of this title that it offers or under such contract and an endorsed discount card program it offers, but only if it limits enrollment under such program to individuals enrolled in such plan or under such contract.
+&emsp;&emsp;In the case of an organization that is offering a plan under part C of this subchapter or enrollment under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is seeking to be a prescription drug card sponsor under this section, the organization may elect to apply the special rules under subparagraph (B) with respect to enrollees in any plan described in section 1395w–21(a)(2)(A) of this title that it offers or under such contract and an endorsed discount card program it offers, but only if it limits enrollment under such program to individuals enrolled in such plan or under such contract.
 
 #### (B) Special rules
 
@@ -630,7 +630,7 @@ For purposes of this section:
 
 &emsp;&emsp;The plan described in this subparagraph is a plan that—
 
-&emsp;&emsp;&emsp;(i) provides transitional assistance with respect to the provision of covered discount card drugs to some or all individuals who are entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, who reside in the State, and who have income below 135 percent of the poverty line; and
+&emsp;&emsp;&emsp;(i) provides transitional assistance with respect to the provision of covered discount card drugs to some or all individualswho are entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, who reside in the State, and who have income below 135 percent of the poverty line; and
 
 &emsp;&emsp;&emsp;(ii) assures that amounts received by the State under this paragraph are used only for such assistance.
 

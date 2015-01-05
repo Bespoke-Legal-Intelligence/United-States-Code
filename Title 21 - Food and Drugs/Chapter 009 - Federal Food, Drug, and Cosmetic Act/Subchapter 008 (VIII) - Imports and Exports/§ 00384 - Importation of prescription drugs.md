@@ -102,7 +102,7 @@ The regulations under subsection (b) of this section shall—
 
 &emsp;&emsp;&emsp;(ii) meets all labeling requirements under this chapter.
 
-&emsp;&emsp;(L) Laboratory records, including complete data derived from all tests necessaryto ensure that the prescription drug is in compliance with established specifications and standards.
+&emsp;&emsp;(L) Laboratory records, including complete data derived from all tests necessary to ensure that the prescription drug is in compliance with established specifications and standards.
 
 &emsp;&emsp;(M) Documentation demonstrating that the testing required by subparagraphs (J) and (L) was conducted at a qualifying laboratory.
 

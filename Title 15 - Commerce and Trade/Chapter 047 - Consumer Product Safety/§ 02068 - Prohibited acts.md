@@ -72,7 +72,7 @@ Subsec. (a)(12) to (16). Pub. L. 110–314, §216(a)(7), added pars. (12) to (16
 
 <b>1983</b>—Subsec. (a)(7). Pub. L. 97–414, §9(j)(4)(A), substituted "section 2058(g)(2)" for "section 2058(d)(2)".
 
-Subsec. (a)(8). Pub. L. 97–414, §9(j)(4)(B), redesignated par. (9) as (8) and struck out former par. (8) which madeit unlawful for any person to fail to comply with any rule under section 2062 of this title (relating to prior notice and description of new consumer products).
+Subsec. (a)(8). Pub. L. 97–414, §9(j)(4)(B), redesignated par. (9) as (8) and struck out former par. (8) which made it unlawful for any person to fail to comply with any rule under section 2062 of this title (relating to prior notice and description of new consumer products).
 
 Subsec. (a)(9), (10). Pub. L. 97–414, §9(j)(4)(B), redesignated par. (10), as added by Pub. L. 95–319, as (9). Former par. (9) redesignated (8).
 

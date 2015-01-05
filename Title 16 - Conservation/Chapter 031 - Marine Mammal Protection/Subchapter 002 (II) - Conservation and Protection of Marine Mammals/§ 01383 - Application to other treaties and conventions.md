@@ -10,7 +10,7 @@ Not later than 1 year after April 30, 1994, the Secretary of the Interior shall,
 
 #### (c) Review of implementation of Agreement on the Conservation of Polar Bears; report
 
-The Secretary of the Interior, in consultation with the Secretary of State and the Marine Mammal Commission, shall review the effectiveness of United States implementation of the Agreement on the Conservation of Polar Bears, particularly with respect to the habitat protection mandates contained in Article II. The Secretary shall report the results of this review to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than April 1, 1995.
+The Secretary of the Interior, in consultation with the Secretary of State and the Marine Mammal Commission, shall review the effectiveness of United States implementation of the Agreement on the Conservation of Polar Bears, particularly with respect to the habitat protection mandates contained in Article II. The Secretary shall report the results of this review to the Committee on Merchant Marine and Fisheries of the House of Representatives and theCommittee on Commerce, Science, and Transportation of the Senate not later than April 1, 1995.
 
 #### (d) Consultation regarding conservation of polar bears in Russia and Alaska; report
 

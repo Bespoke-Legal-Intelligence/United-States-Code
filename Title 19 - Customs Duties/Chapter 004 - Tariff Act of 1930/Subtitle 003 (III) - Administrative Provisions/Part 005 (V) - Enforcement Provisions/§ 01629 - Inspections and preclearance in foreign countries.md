@@ -22,7 +22,7 @@ The Secretary of State, in coordination with the Secretary and the Secretary of 
 
 #### (f) Application of certain laws
 
-When customs officials of a foreign country are stationed in the United States in accordance with subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
+When customs officials of a foreign country are stationed in the United States in accordancewith subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
 
 &emsp;(1) sections 111 and 1114 of title 18 shall apply as if the officials were designated in those sections; and
 

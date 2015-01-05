@@ -20,7 +20,7 @@ As used in this subchapter, the following terms shall have the meanings ascribed
 
 #### References in Text
 
-Subchapters III and VI of this chapter, referred to in subsecs. (b) and (c), were comprised of sections 1531 to 1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
+Subchapters III and VI of this chapter, referred to in subsecs. (b) and (c), were comprised of sections 1531 to1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
 
 The provisions of Public Law 781, and Public Laws 9, 73, or 353, referred to in subsec. (b), are not classified to the Code. For further details, see note set out under section 1524 of this title.
 

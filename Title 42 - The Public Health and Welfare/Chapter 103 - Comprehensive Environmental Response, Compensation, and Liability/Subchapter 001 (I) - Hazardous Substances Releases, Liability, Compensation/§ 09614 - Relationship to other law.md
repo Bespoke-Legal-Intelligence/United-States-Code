@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed or interpreted as preempting any Stat
 
 #### (b) Recovery under other State or Federal law of compensation for removal costs or damages, or payment of claims
 
-Any person who receives compensation for removal costs or damages or claims pursuant to this chapter shall be precluded from recovering compensation for the same removal costs ordamages or claims pursuant to any other State or Federal law. Any person who receives compensation for removal costs or damages or claims pursuant to any other Federal or State law shall be precluded from receiving compensation for the same removal costs or damages or claims as provided in this chapter.
+Any person who receives compensation for removal costs or damages or claims pursuant to this chapter shall be precluded from recovering compensation for the same removal costs or damages or claims pursuant to any other State or Federal law. Any person who receives compensation for removal costs or damages or claims pursuant to any other Federal or State law shall be precluded from receiving compensation for the same removal costs or damages or claims as provided in this chapter.
 
 #### (c) Recycled oil
 
@@ -50,5 +50,5 @@ The Solid Waste Disposal Act, referred to in subsec. (c)(3), (4), is title II of
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–499 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Except as provided in this chapter, no person may be required to contribute to any fund, the purpose of which is to pay compensation for claims for any costs of response or damages or claims which may be compensated under this subchapter. Nothing in this section shall preclude any State from using general revenues for such a fund, or from imposing a tax or fee upon any person or upon any substance in order to finance the purchase or prepositioning of hazardous substance response equipment or other preparations for the response to a release of hazardous substances which affects such State."
+<b>1986</b>—Subsec. (c). Pub. L. 99–499 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Except as provided in this chapter, no personmay be required to contribute to any fund, the purpose of which is to pay compensation for claims for any costs of response or damages or claims which may be compensated under this subchapter. Nothing in this section shall preclude any State from using general revenues for such a fund, or from imposing a tax or fee upon any person or upon any substance in order to finance the purchase or prepositioning of hazardous substance response equipment or other preparations for the response to a release of hazardous substances which affects such State."
 

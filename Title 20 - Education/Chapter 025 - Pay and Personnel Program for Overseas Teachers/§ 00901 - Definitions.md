@@ -4,7 +4,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(1) "teaching position" means those duties and responsibilities which—
 
-&emsp;&emsp;(A) are performed on a school-year basis principally in a school operated by the Department of Defense in an overseas area for dependents of members of the Armed Forces and dependents of civilian employees of the Department of Defense, or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense; and
+&emsp;&emsp;(A) are performed on a school-year basis principally in a school operated by the Department of Defense in an overseas area fordependents of members of the Armed Forces and dependents of civilian employees of the Department of Defense, or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense; and
 
 &emsp;&emsp;(B) involve—
 
@@ -16,7 +16,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(2) "teacher" means an individual—
 
-&emsp;&emsp;(A) who is a citizen of the United States,
+&emsp;&emsp;(A) who is a citizen of the United States or, in the case of a teaching position that involves instruction in the host-nation language, a local national when a citizen of the United States is not reasonably available to provide such instruction,
 
 &emsp;&emsp;(B) who is a civilian, and
 
@@ -26,7 +26,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(4) "United States", when used in a geographical sense, means the several States of the United States of America, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, the Canal Zone, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Islands).
 
-(Pub. L. 86–91, §2, July 17, 1959, 73 Stat. 213; Pub. L. 104–201, div. A, title XVI, §1606(a), Sept. 23, 1996, 110 Stat. 2736; Pub. L. 105–85, div. A, title X, §1073(c)(9)(A), Nov. 18, 1997, 111 Stat. 1904.)
+(Pub. L. 86–91, §2, July 17, 1959, 73 Stat. 213; Pub. L. 104–201, div. A, title XVI, §1606(a), Sept. 23, 1996, 110 Stat. 2736; Pub. L. 105–85, div. A, title X, §1073(c)(9)(A), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 113–291, div. A, title V, §564, Dec. 19, 2014, 128 Stat. 3384.)
 
 #### References in Text
 
@@ -37,6 +37,8 @@ For definition of Canal Zone, referred to in par. (4), see section 3602(b) of Ti
 Section was formerly classified to section 2351 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+<b>2014</b>—Par. (2)(A). Pub. L. 113–291 inserted "or, in the case of a teaching position that involves instruction in the host-nation language, a local national when a citizen of the United States is not reasonably available to provide such instruction" before comma at end.
 
 <b>1997</b>—Par. (1)(A). Pub. L. 105–85 made technical corrections to Pub. L. 104–201, §1606(a)(1). See 1996 Amendment note below.
 

@@ -12,23 +12,29 @@ The approximately 410,000 acres of land added to the Craters of the Moon Nationa
 
 &emsp;&emsp;(A) Presidential Proclamation 7373 of November 9, 2000;
 
-&emsp;&emsp;(B) the Act of June 8, 1906, (commonly referred to as the "Antiquities Act"; 34 Stat. 225; 16 U.S.C. 431); and
+&emsp;&emsp;(B) the Act of June 8, 1906,<sup>1</sup> (commonly referred to as the "Antiquities Act"; 34 Stat. 225; 16 U.S.C. 431); <sup>2</sup> and
 
-&emsp;&emsp;(C) the laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title.
+&emsp;&emsp;(C) the laws generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1 et seq.).<sup>2</sup>
 
 #### (2) Hunting
 
-&emsp;The Secretary of the Interior shall permit hunting on lands within the Craters of the Moon National Preserve in accordance with the applicable laws of the United States and the State of Idaho. The Secretary, in consultation with the State of Idaho, may designate zones where, and establish periods when, nohunting may be permitted for reasons of public safety, protection of the area's resources, administration, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting shall be put into effect only after consultation with the State of Idaho.
+&emsp;The Secretary of the Interior shall permit hunting on lands within the Craters of the Moon National Preserve in accordance with the applicable laws of the United States and the State of Idaho. The Secretary, in consultation with the State of Idaho, may designate zones where, and establish periods when, no hunting may be permitted for reasons of public safety, protection of the area's resources, administration, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting shall be put into effect only after consultation with the State of Idaho.
 
 (Pub. L. 107–213, §1, Aug. 21, 2002, 116 Stat. 1052.)
 
 #### References in Text
 
-Presidential Proclamation 7373, referred to in subsecs. (a) and (b)(1)(A), appears in the item for Craters of the Moon National Monument, Idaho, in the table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 431 of this title.
+Presidential Proclamation 7373, referred to in subsecs. (a) and (b)(1)(A), appears in the item for Craters of the Moon National Monument, Idaho, in the table under the heading "National Monuments EstablishedUnder Presidential Proclamation", set out as a note under section 320301 of Title 54, National Park Service and Related Programs.
 
-Act of June 8, 1906, referred to in subsec. (b)(1)(B), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
+Act of June 8, 1906, (commonly referred to as the "Antiquities Act"; 34 Stat. 225; 16 U.S.C. 431), referred to in subsec. (b)(1)(B), is act June 8, 1906, ch. 3060, 34 Stat. 225, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as section 1866(b) of Title 18, Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1 et seq.), referred to in subsec. (b)(1)(C), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Codification
 
-Section is comprised of section 1 of Pub. L. 107–213. Section 1 also enacted provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title.
+Section is comprised of section 1 of Pub. L. 107–213. Section 1 also enacted provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

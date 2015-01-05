@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 109–435, §401(b)(3)(B), substituted "Except as otherwise
 
 Subsec. (b)(9). Pub. L. 109–435, §1008(c)(1), added par. (9).
 
-Subsec. (e)(1). Pub. L. 109–435, §603(c)(2), substituted "The Fund shall be available for the payment of (A) allexpenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978." for "The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission."
+Subsec. (e)(1). Pub. L. 109–435, §603(c)(2), substituted "The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978." for "The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission."
 
 <b>1997</b>—Subsec. (e)(2). Pub. L. 105–33, §7003(a)(2)(B), substituted "section 2401" for "sections 2401 and 2004" in two places.
 
@@ -136,7 +136,7 @@ Deposit of Certain Savings in Certain Funds.—
 
 &emsp;"(1)
 
-Fiscal year 1988.—From all funds available to the United States Postal Service in fiscal year 1988, the Postal Service shall deposit into the Civil Service Retirement and Disability Fund established under section 8348 of title 5, United States Code, an amount of $350,000,000 in fiscal year 1988, in addition to any amount deposited pursuant to subsection (h) of such section.
+Fiscal year 1988.—From all funds available to the United States Postal Service in fiscal year 1988, the Postal Service shall deposit into the Civil Service Retirement and Disability Fund established under section 8348 of title 5, United States Code, an amountof $350,000,000 in fiscal year 1988, in addition to any amount deposited pursuant to subsection (h) of such section.
 
 &emsp;"(2)
 

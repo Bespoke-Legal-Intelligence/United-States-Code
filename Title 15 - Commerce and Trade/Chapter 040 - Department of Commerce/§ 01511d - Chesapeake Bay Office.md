@@ -144,7 +144,7 @@ Required elements of study.—In order to improve the understanding necessary fo
 
 &emsp;"(A) determine the current status and trends of fish and shellfish that live in the Chesapeake Bay and its tributaries and are selected for study;
 
-&emsp;"(B) evaluate and assess interactions among the fish and shellfish referred to in subparagraph (A) andother living resources, with particular attention to the impact of changes within and among trophic levels; and
+&emsp;"(B) evaluate and assess interactions among the fish and shellfish referred to in subparagraph (A) and other living resources, with particular attention to the impact of changes within and among trophic levels; and
 
 &emsp;"(C) recommend management actions to optimize the return of a healthy and balanced ecosystem for the Chesapeake Bay."
 

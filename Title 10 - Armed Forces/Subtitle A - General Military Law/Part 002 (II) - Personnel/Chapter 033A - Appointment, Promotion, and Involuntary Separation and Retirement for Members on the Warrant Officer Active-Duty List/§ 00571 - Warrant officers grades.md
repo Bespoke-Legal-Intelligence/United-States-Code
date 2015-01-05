@@ -50,7 +50,7 @@ Pub. L. 103–337, div. A, title V, §541(c), (d), Oct. 5, 1994, 108 Stat. 2765,
 
 "(c)
 
-Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade BelowChief Warrant Officer, W–5.—(1) A regular warrant officer of the Coast Guard who on the effective date of this section \[see Effective Date of 1994 Amendment note above\] is on active duty and—
+Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W–5.—(1) A regular warrant officer of the Coast Guard who on the effective date of this section \[see Effective Date of 1994 Amendment note above\] is on active duty and—
 
 &emsp;"(A) is serving in a temporary grade below chief warrant officer, W–5, that is higher than that warrant officer's permanent grade;
 

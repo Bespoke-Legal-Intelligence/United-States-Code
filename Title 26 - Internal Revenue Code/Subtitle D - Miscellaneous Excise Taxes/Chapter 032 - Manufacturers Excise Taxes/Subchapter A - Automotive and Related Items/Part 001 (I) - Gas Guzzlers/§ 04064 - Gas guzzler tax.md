@@ -77,7 +77,7 @@ For purposes of this section—
 
 #### (7) Fuel
 
-&emsp;The term "fuel" means gasoline and diesel fuel. The Secretary (after consultation withthe Secretary of Transportation) may, by regulation, include any product of petroleum or natural gas within the meaning of such term if he determines that such inclusion is consistent with the need of the Nation to conserve energy.
+&emsp;The term "fuel" means gasoline and diesel fuel. The Secretary (after consultation with the Secretary of Transportation) may, by regulation, include any product of petroleum or natural gas within the meaning of such term if he determines that such inclusion is consistent with the need of the Nation to conserve energy.
 
 #### (c) Determination of fuel economy
 
@@ -85,7 +85,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conducted under section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
+&emsp;Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conductedunder section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
 
 #### (2) Special rule for fuels other than gasoline
 

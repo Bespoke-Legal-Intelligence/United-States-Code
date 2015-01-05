@@ -28,43 +28,16 @@ In the case of an individual who is an eligible individual for any month during 
 
 &emsp;&emsp;For purposes of this section, the additional contribution amount is the amount determined in accordance with the following table:
 
-<b>For taxable years</b>
+&nbsp;
 
-<b>The additional</b>
-
-<b> beginning in:</b>
-
-<b>contribution</b>
-
-<b> </b>
-
-<b>amount is:</b>
-
-&emsp;&emsp;2004
-
-$500&nbsp;&nbsp;
-
-&emsp;&emsp;2005
-
-$600&nbsp;&nbsp;
-
-&emsp;&emsp;2006
-
-$700&nbsp;&nbsp;
-
-&emsp;&emsp;2007
-
-$800&nbsp;&nbsp;
-
-&emsp;&emsp;2008
-
-$900&nbsp;&nbsp;
-
-&emsp;&emsp;2009 and thereafter
-
-$1,000.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> For taxable years beginning in:</b> | <b>The additional contribution amount is:</b> |
+| :--- | ---: |
+| 2004 | $500&nbsp;&nbsp; |
+| 2005 | $600&nbsp;&nbsp; |
+| 2006 | $700&nbsp;&nbsp; |
+| 2007 | $800&nbsp;&nbsp; |
+| 2008 | $900&nbsp;&nbsp; |
+| 2009 and thereafter | $1,000. |
 
 #### (4) Coordination with other contributions
 
@@ -72,7 +45,7 @@ $1,000.
 
 &emsp;&emsp;(A) the aggregate amount paid for such taxable year to Archer MSAs of such individual,
 
-&emsp;&emsp;(B) the aggregate amount contributed to health savings accounts of such individual which is excludable from the taxpayer's gross income for such taxable year under section 106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and
+&emsp;&emsp;(B) the aggregate amount contributed to health savings accounts of such individual which is excludable from the taxpayer's gross income for such taxable year undersection 106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and
 
 &emsp;&emsp;(C) the aggregate amount contributed to health savings accounts of such individual for such taxable year under section 408(d)(9) (and such amount shall not be allowed as a deduction under subsection (a)).
 
@@ -485,6 +458,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2015</b>—Revenue Procedure 2014–30.
 
 <b>2014</b>—Revenue Procedure 2013–25.
 

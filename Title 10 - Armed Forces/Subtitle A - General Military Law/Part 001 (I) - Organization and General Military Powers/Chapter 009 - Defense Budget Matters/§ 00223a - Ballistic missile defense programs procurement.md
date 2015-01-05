@@ -18,11 +18,11 @@ Future-Years Defense Program.—The Secretary of Defense shall include in the fu
 
 Performance Criteria.—The Director of the Missile Defense Agency shall include in the performance criteria prescribed for planned development phases of the ballistic missile defense system and its elements a description of the intended effectiveness of each such phase against foreign adversary capabilities.
 
-(d)
+(Added Pub. L. 108–136, div. A, title II, §223(a)(1), Nov. 24, 2003, 117 Stat. 1420; amended Pub. L. 113–291, div. A, title X, §1060(a)(1), Dec. 19, 2014, 128 Stat. 3502.)
 
-Testing Progress.—The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).
+#### Amendments
 
-(Added Pub. L. 108–136, div. A, title II, §223(a)(1), Nov. 24, 2003, 117 Stat. 1420.)
+<b>2014</b>—Subsec. (d). Pub. L. 113–291 struck out subsec. (d). Text read as follows: "The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c)."
 
 #### Implementation of Requirement for Availability of Test Plans
 

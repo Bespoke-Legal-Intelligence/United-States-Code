@@ -6,7 +6,7 @@ There is established within the Public Health Service an agency to be known as t
 
 #### (b) Mission
 
-The purpose of the Agency is to enhance the quality, appropriateness, and effectiveness of health services, and access to such services, through the establishment of a broad base of scientific research and through the promotion of improvements in clinical and health system practices, including the prevention of diseasesand other health conditions. The Agency shall promote health care quality improvement by conducting and supporting—
+The purpose of the Agency is to enhance the quality, appropriateness, and effectiveness of health services, and access to such services, through the establishment of a broad base of scientific research and through the promotion of improvements in clinical and health system practices, including the prevention of diseases and other health conditions. The Agency shall promote health care quality improvement by conducting and supporting—
 
 &emsp;(1) research that develops and presents scientific evidence regarding all aspects of health care, including—
 
@@ -94,7 +94,7 @@ Study.—Not later than 60 days after the date of the enactment of this Act \[Ju
 
 "(2)
 
-Report.—Not later than 18 months after the effective date of the contract under paragraph (1), the Institute, as part of such contract, shall submit to theSecretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Institute determines appropriate.
+Report.—Not later than 18 months after the effective date of the contract under paragraph (1), the Institute, as part of such contract, shall submit to the Secretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Institute determines appropriate.
 
 "(3)
 
@@ -118,7 +118,7 @@ Pub. L. 108–173, title I, §107(c), Dec. 8, 2003, 117 Stat. 2170, provided tha
 
 "(1)
 
-In general.—The Secretary \[of Health and Human Services\] shall enter into a contract with the Institutes of Medicine of the National Academies of Science (such Institutes referred to in this subsection as the 'IOM') to carry out a comprehensive study (in this subsection referred to as the 'study') of drug safety and quality issues in order to provide a blueprint for system-wide change.
+In general.—The Secretary \[of Health and Human Services\] shall enter into a contract with the Institutes of Medicine of the National Academies of Science (such Institutes referred to in this subsection as the 'IOM') to carry out a comprehensive study (in this subsection referred to as the 'study') of drug safetyand quality issues in order to provide a blueprint for system-wide change.
 
 "(2)
 

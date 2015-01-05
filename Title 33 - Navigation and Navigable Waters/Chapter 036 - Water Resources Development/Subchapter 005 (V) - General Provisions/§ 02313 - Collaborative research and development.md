@@ -12,7 +12,7 @@ For the purpose of improving the state of engineering and construction in the Un
 
 #### (2) Treatment
 
-&emsp;Any technology covered by this section that becomes the subject of a cooperative research and development agreement shall be accorded the protection provided under section 12(c)(7)(B) of such Act (15 U.S.C. 3710a(c)(7)(B))as if such technology had been developed under a cooperative research and development agreement.
+&emsp;Any technology covered by this section that becomes the subject of a cooperative research and development agreement shall be accordedthe protection provided under section 12(c)(7)(B) of such Act (15 U.S.C. 3710a(c)(7)(B)) as if such technology had been developed under a cooperative research and development agreement.
 
 #### (c) Administrative provisions
 

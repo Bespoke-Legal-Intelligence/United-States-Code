@@ -56,7 +56,7 @@ The purposes of the Foundation shall be—
 
 #### (3) Election
 
-&emsp;The manner of election, term of office, and duties of the officers shall be as provided inthe constitution and bylaws of the Foundation.
+&emsp;The manner of election, term of office, and duties of the officers shall be as provided in the constitution and bylaws of the Foundation.
 
 #### (h) Powers
 

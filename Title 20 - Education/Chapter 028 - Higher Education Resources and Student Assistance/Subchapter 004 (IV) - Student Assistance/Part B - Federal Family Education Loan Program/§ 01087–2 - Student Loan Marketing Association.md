@@ -32,7 +32,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (2) Terms of appointed and elected members
 
-&emsp;The directors appointed by the President shall serve at the pleasure of the President and until their successors have been appointed and have qualified. The remaining directors shall each be elected for a term ending on the date of the next annual meeting of the common stockholders of the Association, and shallserve until their successors have been elected and have qualified. Any appointive seat on the Board which becomes vacant shall be filled by appointment of the President. Any elective seat on the Board which becomes vacant after the annual election of the directors shall be filled by the Board, but only for the unexpired portion of the term.
+&emsp;The directors appointed by the President shall serve at the pleasure of the President and until their successors have been appointed and have qualified. The remaining directors shall each be elected for a term ending on the date of the next annual meeting of the common stockholders of the Association, and shall serve until their successors have been elected and have qualified. Any appointive seat on the Board which becomes vacant shall be filled by appointment of the President. Any elective seat on the Board which becomes vacant after the annual election of the directors shall be filled by the Board, but only for the unexpired portion of the term.
 
 #### (3) Affiliated members
 
@@ -82,7 +82,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (2) Warehousing advances
 
-&emsp;Any warehousing advance made under paragraph (1)(A) of this subsection shall be madeon the security of (A) insured loans, (B) marketable obligations and securities issued, guaranteed, or insured by, the United States, or for which the full faith and credit of the United States is pledged for the repayment of principal and interest thereof, or (C) marketable obligations issued, guaranteed, or insured by any agency, instrumentality, or corporation of the United States for which the credit of such agency, instrumentality, or corporation is pledged for the repayment of principal and interest thereof, in an amount equal to the amount of such advance. The proceeds of any such advance secured by insured loans shall either be invested in additional insured loans or the lender shall provide assurances to the Association that during the period of the borrowing it will maintain a level of insured loans in its portfolio not less than the aggregate outstanding balance of such loans held at the time of the borrowing. The proceeds from any such advance secured by collateral described in clauses (B) and (C) shall be invested in additional insured student loans.
+&emsp;Any warehousing advance made under paragraph (1)(A) of this subsection shall be made on the security of (A) insured loans, (B) marketable obligations and securities issued, guaranteed, or insured by, the United States, or for which the full faith and credit of the United States is pledged for the repayment of principal and interest thereof, or (C) marketable obligations issued, guaranteed, or insured by any agency, instrumentality, or corporation of the United States for which the credit of such agency, instrumentality, or corporation is pledged for the repayment of principal and interest thereof, in an amount equal to the amount of such advance. The proceeds of any such advance secured by insured loans shall either be invested in additional insured loans or the lender shall provide assurances to the Association that during the period of the borrowing it will maintain a level of insured loans in its portfolio not less than the aggregate outstanding balance of such loans held at the time of the borrowing. The proceeds from any such advance secured by collateral described in clauses (B) and (C) shall be invested in additional insured student loans.
 
 #### (3) Perfection of security interests in student loans
 
@@ -98,7 +98,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (e) Advances to lenders that do not discriminate
 
-The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) of this section only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition to the receipt of a loan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
+The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) of this section only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition tothe receipt of a loan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
 
 #### (f) Stock of the Association
 
@@ -126,7 +126,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (2) Rights of preferred stock
 
-&emsp;The holders of the preferred shares shall be entitled to such rate of cumulative dividendsand such shares shall be subject to such redemption or other conversion provisions as may be provided for at the time of issuance. No dividends shall be payable on any share of common stock at any time when any dividend is due on any share of preferred stock and has not been paid.
+&emsp;The holders of the preferred shares shall be entitled to such rate of cumulative dividends and such shares shall be subject to such redemption or other conversion provisions as may be provided for at the time of issuance. No dividends shall be payable on any share of common stock at any time when any dividend is due on any share of preferred stock and has not been paid.
 
 #### (3) Preference on termination of business
 
@@ -152,7 +152,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (5) Authority of Treasury to purchase debt
 
-&emsp;The Secretary of the Treasury is authorized to purchase any obligations issued by the Association pursuant to this subsection as now or hereafter in force, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force are extended to include such purchases. The Secretary of the Treasury shall not at any time purchase any obligations under this subsection if such purchase would increase the aggregate principal amount of his then outstanding holdings of such obligations under this subsection to an amount greater than $1,000,000,000. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury, taking into consideration the current average rate on outstanding marketable obligations of the United States of comparablematurities as of the last day of the month preceding the making of such purchase. The Secretary of the Treasury may, at any time, sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such obligations under this subsection shall be treated as public debt transactions of the United States.
+&emsp;The Secretary of the Treasury is authorized to purchase any obligations issued by the Association pursuant to this subsection as now or hereafter in force, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force are extended to include such purchases. The Secretary of the Treasury shall not at any time purchase any obligations under this subsection if such purchase would increase the aggregate principal amount of his then outstanding holdings of such obligations under this subsection to an amount greater than $1,000,000,000. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury, taking into consideration the current average rate on outstanding marketable obligations of the United States of comparable maturities as of the last day of the month preceding the making of such purchase. The Secretary of the Treasury may, at any time, sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such obligations under this subsection shall be treated as public debt transactions of the United States.
 
 #### (6) Sale of debt to Federal Financing Bank
 
@@ -298,7 +298,7 @@ In general.—The Association shall obtain such information and make and keep su
 
 &emsp;&emsp;(ii)
 
-Summary reports.—The Secretary of the Treasury may require summary reports of such information to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and clause (i), require the Association to make reports concerning the activities ofany associated person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of the Association.
+Summary reports.—The Secretary of the Treasury may require summary reports of such information to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and clause (i), require the Association to make reports concerning the activities of any associated person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of the Association.
 
 &emsp;&emsp;(iii)
 
@@ -336,7 +336,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (A) Submission, approval, and implementation
 
-&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
+&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to anycapital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
 
 #### (B) Disapproval
 
@@ -350,7 +350,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (A) Additional plan required
 
-&emsp;&emsp;If the capital ratio is less than 1.75 percent and is greater than or equal to 1 percent at the end of the Association's most recent calendar quarter, the Association shall submit to the Secretary of the Treasury within 60 days after such occurrence a capital restoration plan (or an appropriate modification of any plan previously submitted or approved under paragraph (4)) to increase promptly itscapital ratio to equal or exceed 1.75 percent. The Secretary of the Treasury and the Association shall consult with respect to any plan or modified plan submitted pursuant to this paragraph. The Secretary of the Treasury shall approve such plan or modified plan (or a modification thereof accepted by the Association) or disapprove such plan or modified plan within 30 days after such plan or modified plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a plan or modified plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan or modified plan to the best of the Association's ability.
+&emsp;&emsp;If the capital ratio is less than 1.75 percent and is greater than or equal to 1 percent at the end of the Association's most recent calendar quarter, the Association shall submit to the Secretary of the Treasury within 60 days after such occurrence a capital restoration plan (or an appropriate modification of any plan previously submitted or approved under paragraph (4)) to increase promptly its capital ratio to equal or exceed 1.75 percent. The Secretary of the Treasury and the Association shall consult with respect to any plan or modified plan submitted pursuant to this paragraph. The Secretary of the Treasury shall approve such plan or modified plan (or a modification thereof accepted by the Association) or disapprove such plan or modified plan within 30 days after such plan or modified plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a plan or modified plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan or modified plan to the best of the Association's ability.
 
 #### (B) Disapproval
 
@@ -518,7 +518,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (B) Use of trust assets
 
-&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, any remaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
+&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, anyremaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
 
 #### (C) Obligations not transferred to the trust
 
@@ -546,7 +546,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (B) Issuance of debt obligations during the wind up period; attributes of debt obligations
 
-&emsp;&emsp;The Association shall not issue debt obligations which mature later than July 1, 2013, except in connection with serving as a lender of last resort pursuant to subsection (q) of this section or with purchasing loans under an agreement with the Secretary as described in subparagraph (A). Nothing in this subsection shall modify the attributes accorded the debt obligations of the Association by this section, regardless of whethersuch debt obligations are transferred to a trust in accordance with paragraph (3).
+&emsp;&emsp;The Association shall not issue debt obligations which mature later than July 1, 2013, except in connection with serving as a lender of last resort pursuant to subsection (q) of this section or with purchasing loans under an agreement with the Secretary as described in subparagraph (A). Nothing in this subsection shall modify the attributes accorded the debt obligations of the Association by this section, regardless of whether such debt obligations are transferred to a trust in accordance with paragraph (3).
 
 #### (C) Use of Association name
 
@@ -620,7 +620,7 @@ Subsec. (q). Pub. L. 103–66, §4041(c), amended subsec. (q) generally, substit
 
 Subsec. (r)(12). Pub. L. 103–208 substituted "section 552" for "section 522".
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–325, §431(a), amended subsec. (c) generally, substituting present provisionsconsisting of pars. (1) to (4) for former provisions which provided for: in par. (1), Board membership; in par. (2), interim Board; in par. (3), regular Board; in par. (4), succession of regular Board; in par. (5), terms of appointed and elected members; and in par. (6), meetings and functions of Board.
+<b>1992</b>—Subsec. (c). Pub. L. 102–325, §431(a), amended subsec. (c) generally, substituting present provisions consisting of pars. (1) to (4) for former provisions which provided for: in par. (1), Board membership; in par. (2), interim Board; in par. (3), regular Board; in par. (4), succession of regular Board; in par. (5), terms of appointed and elected members; and in par. (6), meetings and functions of Board.
 
 Subsec. (d)(1)(C). Pub. L. 102–325, §431(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "to buy, sell, hold, insure, underwrite, and otherwise deal in obligations issued for the purpose of financing or refinancing the construction, reconstruction, renovation, or purchase of educational and training facilities and housing for students and faculties (including the underlying real property), and related equipment, instrumentation, and furnishings;".
 
@@ -658,7 +658,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes in s
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Termination of Reporting Requirements
 

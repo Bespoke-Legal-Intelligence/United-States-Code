@@ -18,7 +18,7 @@ The Congress finds that—
 
 > &emsp;and that the protection and conservation of marine mammals and their habitats is therefore necessary to insure the continuing availability of those products which move in interstate commerce; and
 
-&emsp;(6) marine mammals have proven themselves to be resources of great international significance, esthetic and recreational as well as economic, and it is the sense of the Congress that they should be protected and encouraged to develop to the greatest extent feasible commensurate with sound policies of resource management and that the primary objective oftheir management should be to maintain the health and stability of the marine ecosystem. Whenever consistent with this primary objective, it should be the goal to obtain an optimum sustainable population keeping in mind the carrying capacity of the habitat.
+&emsp;(6) marine mammals have proven themselves to be resources of great international significance, esthetic and recreational as well as economic, and it is the sense of the Congress that they should be protected and encouraged to develop to the greatest extent feasible commensurate with sound policies of resource management and that the primary objective of their management should be to maintain the health and stability of the marine ecosystem. Whenever consistent with this primary objective, it should be the goal to obtain an optimum sustainable population keeping in mind the carrying capacity of the habitat.
 
 (Pub. L. 92–522, §2, Oct. 21, 1972, 86 Stat. 1027; Pub. L. 97–58, §1(b)(1), Oct. 9, 1981, 95 Stat. 979; Pub. L. 103–238, §3, Apr. 30, 1994, 108 Stat. 532.)
 
@@ -94,7 +94,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(3) tuna canners and processors of the United States have led the canning and processing industry in promoting a dolphin-safe tuna market; and
 
-&emsp;"(4) 12 signatory nations to the Declaration of Panama, including the United States, agreed under that Declaration to require that the total annual dolphin mortality in the purse seine fishery for yellowfintuna in the eastern tropical Pacific Ocean not exceed 5,000 animals, with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and with the goal of eliminating dolphin mortality."
+&emsp;"(4) 12 signatory nations to the Declaration of Panama, including the United States, agreed under that Declaration to require that the total annual dolphin mortality in the purse seine fishery for yellowfin tuna in the eastern tropical Pacific Ocean not exceed 5,000 animals, with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and with the goal of eliminating dolphin mortality."
 
 #### Relationship of Marine Mammal Protection Act Amendments of 1994 to Other Law
 

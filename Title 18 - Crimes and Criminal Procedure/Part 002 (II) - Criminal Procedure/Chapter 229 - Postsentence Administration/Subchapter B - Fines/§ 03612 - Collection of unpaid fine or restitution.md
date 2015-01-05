@@ -182,7 +182,7 @@ Pub. L. 98–473, title II, §237, Oct. 12, 1984, 98 Stat. 2033, provided that:
 
 &emsp;"(A) pay the fine in full;
 
-&emsp;"(B) specify, and demonstrate compliance with, an installment schedule established by a court before enactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
+&emsp;"(B) specify, and demonstrate compliance with, an installment schedule established by a court before enactment of the amendments made by this Act \[Oct.12, 1984\], specifying the dates on which designated partial payments will be made; or
 
 &emsp;"(C) establish with the concurrence of the Attorney General, a new installment schedule of a duration not exceeding two years, except in special circumstances, and specifying the dates on which designated partial payments will be made.
 

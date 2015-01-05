@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-Every person engaged in any trade or business on which a special tax is imposed by law shall register with the Secretary his name or style, place of residence, trade or business, and theplace where such trade or business is to be carried on. In case of a firm or company, the names of the several persons constituting the same, and the places of residence, shall be so registered.
+Every person engaged in any trade or business on which a special tax is imposed by law shall register with the Secretary his name or style, place of residence, trade or business, and the place where such trade or business is to be carried on. In case of a firm or company, the names of the several persons constituting the same, and the places of residence, shall be so registered.
 
 #### (b) Registration in case of death or change of location
 

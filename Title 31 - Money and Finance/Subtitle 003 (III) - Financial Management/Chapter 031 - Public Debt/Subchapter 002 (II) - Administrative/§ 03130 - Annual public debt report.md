@@ -42,7 +42,7 @@ Required Information on Public Debt Activities.—Each report submitted under su
 
 (c)
 
-Required Information on Federal Financing Bank.—Each report submitted undersubsection (a) shall include (but not be limited to) information on the financial operations of the Federal Financing Bank, including loan payments and prepayments, and on the levels and categories of the lending activities of the Federal Financing Bank, for the current fiscal year and for prior fiscal years.
+Required Information on Federal Financing Bank.—Each report submitted under subsection (a) shall include (but not be limited to) information on the financial operations of the Federal Financing Bank, including loan payments and prepayments, and on the levels and categories of the lending activities of the Federal Financing Bank, for the current fiscal year and for prior fiscal years.
 
 (d)
 

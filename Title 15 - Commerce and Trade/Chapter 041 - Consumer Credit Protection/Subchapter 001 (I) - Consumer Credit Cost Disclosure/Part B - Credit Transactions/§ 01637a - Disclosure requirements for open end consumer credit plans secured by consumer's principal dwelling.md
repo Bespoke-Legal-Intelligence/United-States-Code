@@ -172,11 +172,11 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (A) In general
 
-&emsp;&emsp;The disclosures required under subsection (a) of this section with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling and the pamphlet required under subsection (e) of this section shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
+&emsp;&emsp;The disclosures required under subsection (a) of this section with respect to any openend consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling and the pamphlet required under subsection (e) of this section shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
 
 #### (B) Telephone, publications, and third party applications
 
-&emsp;&emsp;In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) of this section and the pamphlet required under subsection (e) of thissection shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
+&emsp;&emsp;In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) of this section and the pamphlet required under subsection (e) of this section shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
 
 #### (2) Form
 

@@ -28,7 +28,7 @@ The Board of Governors shall consult with and provide such technical assistance 
 
 #### (A) Request to Board of Governors
 
-&emsp;&emsp;The appropriate financial regulator may request the Board of Governors to conduct or participate in an examination of a financial institution subject to the standards prescribed under section 5464(a) of this title for a designated activity in order to assess the compliance of such financial institution with—
+&emsp;&emsp;The appropriate financial regulator may request the Board of Governors to conductor participate in an examination of a financial institution subject to the standards prescribed under section 5464(a) of this title for a designated activity in order to assess the compliance of such financial institution with—
 
 &emsp;&emsp;&emsp;(i) this subchapter; or
 
@@ -90,13 +90,13 @@ The Board of Governors shall consult with and provide such technical assistance 
 
 &emsp;&emsp;&emsp;&emsp;(I) not been notified, in writing, by the appropriate financial regulator of the commencement of an enforcement action recommended by the Board of Governors against the financial institution within 60 days from the date of the notification under clause (ii); or
 
-&emsp;&emsp;&emsp;&emsp;(II) reasonable cause to believe that the financial institution's noncompliance with this subchapter or the rules or orders prescribed under this subchapter poses significant liquidity, credit, operational, or other risks to the financialmarkets or to the financial stability of the United States, subject to the Board of Governors notifying the appropriate financial regulator of the Board's enforcement action; and
+&emsp;&emsp;&emsp;&emsp;(II) reasonable cause to believe that the financial institution's noncompliance with this subchapter or the rules or orders prescribed under this subchapter poses significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States, subject to the Board of Governors notifying the appropriate financial regulator of the Board's enforcement action; and
 
 &emsp;&emsp;&emsp;(iv) obtained the approval of the Council upon an affirmative vote by a majority of the Council.
 
 #### (3) Enforcement provisions
 
-&emsp;For purposes of taking enforcement action under paragraph (1), the financial institution shall be subject to, and the Board of Governors shall have authority under <sup>1</sup> the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+&emsp;For purposes of taking enforcement action under paragraph (1), the financial institutionshall be subject to, and the Board of Governors shall have authority under <sup>1</sup> the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
 
 (Pub. L. 111–203, title VIII, §808, July 21, 2010, 124 Stat. 1816.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Director of the Federal Bureau of Investigation may provide for the establishment and training of a Federal Bureau of Investigation Reserve Service (hereinafter in this section referred to as the “FBI Reserve Service”) for temporary reemployment of employees in the Bureau during periods of emergency, as determined by the Director.
+Establishment.—The Director of the Federal Bureau of Investigation may provide for the establishment and training of a Federal Bureau of Investigation Reserve Service (hereinafter in this section referred to as the "FBI Reserve Service") for temporary reemployment of employees in the Bureau during periods of emergency, as determined by the Director.
 
 (b)
 
@@ -10,7 +10,7 @@ Membership.—Membership in the FBI Reserve Service shall be limited to individu
 
 (c)
 
-Annuitants.—If an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes temporarily reemployed pursuant to this section, such annuity shall not be discontinued thereby. An annuitant so reemployed shall not be considered an employee for the purposes of chapter 83 or 84.
+Annuitants.—If an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes temporarily reemployed pursuant to this section, such annuity shall not be discontinued thereby. An annuitantso reemployed shall not be considered an employee for the purposes of chapter 83 or 84.
 
 (d)
 

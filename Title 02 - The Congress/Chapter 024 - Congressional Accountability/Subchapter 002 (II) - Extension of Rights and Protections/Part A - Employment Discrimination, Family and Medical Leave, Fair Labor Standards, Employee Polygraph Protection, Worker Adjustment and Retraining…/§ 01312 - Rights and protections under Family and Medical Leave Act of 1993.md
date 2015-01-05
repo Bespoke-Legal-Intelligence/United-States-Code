@@ -10,13 +10,13 @@
 
 &emsp;For purposes of the application described in paragraph (1)—
 
-&emsp;&emsp;(A) the term “employer” as used in the Family and Medical Leave Act of 1993 means any employing office, and
+&emsp;&emsp;(A) the term "employer" as used in the Family and Medical Leave Act of 1993 means any employing office, and
 
-&emsp;&emsp;(B) the term “eligible employee” as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
+&emsp;&emsp;(B) the term "eligible employee" as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
 
 #### (b) Remedy
 
-The remedy for a violation of subsection (a) of this section shall be such remedy, including liquidated damages, as would be appropriate if awarded under paragraph (1) of section 107(a) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2617(a)(1)).
+The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under paragraph (1) of section 107(a) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2617(a)(1)).
 
 #### (c) Omitted
 
@@ -28,17 +28,17 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (e) Effective date
 
 #### (1) In general
 
-&emsp;Subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+&emsp;Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 #### (2) Government Accountability Office and Library of Congress
 
-&emsp;Subsection (c) of this section shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title.
+&emsp;Subsection (c) shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title.
 
 (Pub. L. 104–1, title II, §202, Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -54,5 +54,5 @@ Section is comprised of section 202 of Pub. L. 104–1. Subsec. (c) of section 2
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
+<b>2004</b>—Subsec. (e)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading.
 

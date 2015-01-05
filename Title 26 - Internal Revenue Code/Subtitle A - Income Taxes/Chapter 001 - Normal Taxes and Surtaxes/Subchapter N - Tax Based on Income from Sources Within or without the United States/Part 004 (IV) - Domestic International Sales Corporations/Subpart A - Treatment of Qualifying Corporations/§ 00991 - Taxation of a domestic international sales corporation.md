@@ -26,7 +26,7 @@ Close of 1984 taxable years of disc's.—
 
 &emsp;"(A)
 
-In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], thetaxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31, 1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
+In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the taxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31, 1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
 
 &emsp;"(B)
 
@@ -82,7 +82,7 @@ Treatment of transfers from disc to fsc.—Except to the extent provided in regu
 
 "(5)
 
-Deemed termination of a disc.—Under regulations prescribed by the Secretary, if any controlled group of corporations of which a DISC is a member establishes a FSC, then any DISC which is a member of such group shall be treated as having terminated its DISC status.
+Deemed termination of a disc.—Under regulations prescribed by the Secretary, if any controlled group of corporations of which a DISC is a member establishes a FSC, then any DISC which is a member ofsuch group shall be treated as having terminated its DISC status.
 
 "(6)
 

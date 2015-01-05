@@ -4,7 +4,7 @@
 
 #### (1) Availability
 
-&emsp;For each of the 2002 through 2007 crops of peanuts, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for peanuts produced on the farm. The loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under subsection (b) of this section.
+&emsp;For each of the 2002 through 2007 crops of peanuts, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for peanuts produced on the farm. The loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under subsection (b).
 
 #### (2) Eligible production
 
@@ -16,7 +16,7 @@
 
 #### (4) Options for obtaining loan
 
-&emsp;A marketing assistance loan under this subsection, and loan deficiency payments under subsection (e) of this section, may be obtained at the option of the producers on a farm through—
+&emsp;A marketing assistance loan under this subsection, and loan deficiency payments under subsection (e), may be obtained at the option of the producers on a farm through—
 
 &emsp;&emsp;(A) a designated marketing association or marketing cooperative of producers that is approved by the Secretary; or
 
@@ -40,25 +40,25 @@
 
 #### (b) Loan rate
 
-The loan rate for a marketing assistance loan under for peanuts subsection (a) of this section shall be equal to $355 per ton.
+The loan rate for a marketing assistance loan under for peanuts subsection (a) shall be equal to $355 per ton.
 
 #### (c) Term of loan
 
 #### (1) In general
 
-&emsp;A marketing assistance loan for peanuts under subsection (a) of this section shall have a term of 9 months beginning on the first day of the first month after the month in which the loan is made.
+&emsp;A marketing assistance loan for peanuts under subsection (a) shall have a term of 9 months beginning on the first day of the first month after the month in which the loan is made.
 
 #### (2) Extensions prohibited
 
-&emsp;The Secretary may not extend the term of a marketing assistance loan for peanuts under subsection (a) of this section.
+&emsp;The Secretary may not extend the term of a marketing assistance loan for peanuts under subsection (a).
 
 #### (d) Repayment rate
 
 #### (1) In general
 
-&emsp;The Secretary shall permit producers on a farm to repay a marketing assistance loan for peanuts under subsection (a) of this section at a rate that is the lesser of—
+&emsp;The Secretary shall permit producers on a farm to repay a marketing assistance loan for peanuts under subsection (a) at a rate that is the lesser of—
 
-&emsp;&emsp;(A) the loan rate established for peanuts under subsection (b) of this section, plus interest (determined in accordance with section 7283 of this title); or
+&emsp;&emsp;(A) the loan rate established for peanuts under subsection (b), plus interest (determined in accordance with section 7283 of this title); or
 
 &emsp;&emsp;(B) a rate that the Secretary determines will—
 
@@ -72,13 +72,13 @@ The loan rate for a marketing assistance loan under for peanuts subsection (a) o
 
 #### (2) Good faith exception to beneficial interest requirement
 
-&emsp;For the 2002 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in the peanuts for which a marketing assistance loan was made under this section before repaying the loan, the Secretary shall permit the producers to repay the loan at the applicable repayment rate that was in effect for peanuts under this subsection on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
+&emsp;For the 2002 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in the peanuts for which a marketing assistance loan was made under this section before repayingthe loan, the Secretary shall permit the producers to repay the loan at the applicable repayment rate that was in effect for peanuts under this subsection on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
 
 #### (e) Loan deficiency payments
 
 #### (1) Availability
 
-&emsp;The Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan for peanuts under subsection (a) of this section, agree to forgo obtaining the loan for the peanuts in return for loan deficiency payments under this subsection.
+&emsp;The Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan for peanuts under subsection (a), agree to forgo obtaining the loan for the peanuts in return for loan deficiency payments under this subsection.
 
 #### (2) Computation
 
@@ -86,15 +86,15 @@ The loan rate for a marketing assistance loan under for peanuts subsection (a) o
 
 &emsp;&emsp;(A) the payment rate determined under paragraph (3) for peanuts; by
 
-&emsp;&emsp;(B) the quantity of the peanuts produced by the producers, excluding any quantity for which the producers obtain a marketing assistance loan under subsection (a) of this section.
+&emsp;&emsp;(B) the quantity of the peanuts produced by the producers, excluding any quantity for which the producers obtain a marketing assistance loan under subsection (a).
 
 #### (3) Payment rate
 
 &emsp;For purposes of this subsection, the payment rate shall be the amount by which—
 
-&emsp;&emsp;(A) the loan rate established under subsection (b) of this section; exceeds
+&emsp;&emsp;(A) the loan rate established under subsection (b); exceeds
 
-&emsp;&emsp;(B) the rate at which a loan may be repaid under subsection (d) of this section.
+&emsp;&emsp;(B) the rate at which a loan may be repaid under subsection (d).
 
 #### (4) Effective date for payment rate determination
 
@@ -112,7 +112,7 @@ The loan rate for a marketing assistance loan under for peanuts subsection (a) o
 
 #### (f) Compliance with conservation and wetlands requirements
 
-As a condition of the receipt of a marketing assistance loan under subsection (a) of this section, the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
+As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
 
 #### (g) Reimbursable agreements and payment of administrative expenses
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States and American Indian consortia for the purpose of carrying out projects to improve access to rehabilitation and other services regarding traumatic brain injury.
+The Secretary may make grants to States and American Indian consortia for the purpose of carrying out projects to improve access to rehabilitation and other services regarding traumatic brain injury.
 
 #### (b) State advisory board
 
@@ -58,7 +58,7 @@ A State or American Indian consortium that received a grant under this section p
 
 &emsp;&emsp;(A) To develop, change, or enhance community-based service delivery systems that include timely access to comprehensive appropriate services and supports. Such service and supports—
 
-&emsp;&emsp;&emsp;(i) shall promote full participation by individuals with brain injury and their families in decision making regarding the services and supports; and
+&emsp;&emsp;&emsp;(i) shall promote full participation by individuals with traumatic brain injury and their families in decision making regarding the services and supports; and
 
 &emsp;&emsp;&emsp;(ii) shall be designed for children, youth, and adults with traumatic brain injury.
 
@@ -92,7 +92,7 @@ A State or American Indian consortium that received a grant under this section p
 
 &emsp;&emsp;(D) develop best practices in areas such as family or consumer support, return to work, housing or supportive living personal assistance services, assistive technology and devices, behavioral health services, substance abuse services, and traumatic brain injury treatment and rehabilitation;
 
-&emsp;&emsp;(E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals with brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
+&emsp;&emsp;(E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals withtraumatic brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
 
 &emsp;&emsp;(F) improve data sets coordinated across systems and other needs identified by a State or American Indian consortium plan supported by its advisory council; and
 
@@ -104,7 +104,7 @@ The Secretary shall ensure that activities under this section are coordinated as
 
 #### (h) Report
 
-Not less than biennially, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the findings and results of the programs established under this section, and section 300d–53 of this title including measures of outcomes and consumer and surrogate satisfaction.
+Not less than biennially, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the findings and results of the programs established under this section and section 300d–53 of this title, including measures of outcomes and consumer and surrogate satisfaction.
 
 #### (i) Definitions
 
@@ -116,15 +116,23 @@ For purposes of this section:
 
 #### (j) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
+For the purpose of carrying out this section, there are authorized to be appropriated $5,500,000 for each of the fiscal years 2015 through 2019.
 
-(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304, Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99; Pub. L. 110–206, §6(a), Apr. 28, 2008, 122 Stat. 716; Pub. L. 111–256, §2(f)(6), Oct. 5, 2010, 124 Stat. 2644.)
+(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304, Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99; Pub. L. 110–206, §6(a), Apr. 28, 2008, 122 Stat. 716; Pub. L. 111–256, §2(f)(6), Oct. 5, 2010, 124 Stat. 2644; Pub. L. 113–196, §3, Nov. 26, 2014, 128 Stat. 2052.)
 
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (f)(2)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–196, §3(1), struck out ", acting through the Administrator of the Health Resources and Services Administration," after "The Secretary".
+
+Subsec. (f)(1)(A)(i), (3)(E). Pub. L. 113–196, §3(2), substituted "traumatic brain injury" for "brain injury".
+
+Subsec. (h). Pub. L. 113–196, §3(3), substituted "under this section and section 300d–53 of this title, including" for "under this section, and section 300d–53 of this title including".
+
+Subsec. (j). Pub. L. 113–196, §3(4), substituted "$5,500,000 for each of the fiscal years 2015 through 2019" for "such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012".
 
 <b>2010</b>—Subsec. (f)(3)(E). Pub. L. 111–256 substituted "intellectual disabilities or developmental disorders," for "mental retardation/developmental disorders,".
 
@@ -162,7 +170,7 @@ Subsec. (b)(3)(B). Pub. L. 106–310, §1304(3)(B), substituted "with traumatic 
 
 Subsec. (c)(1). Pub. L. 106–310, §1304(4)(A), struck out ", in cash," before "non-Federal contributions".
 
-Subsec. (c)(2). Pub. L. 106–310, §1304(4)(B), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "In determining the amount of non-Federal contributions in cash that a State has provided pursuant to paragraph (1), the Secretary may not include any amounts provided to the State by the Federal Government."
+Subsec. (c)(2). Pub. L. 106–310, §1304(4)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In determining the amount of non-Federal contributions in cash that a State has provided pursuant to paragraph (1), the Secretary may not include any amounts provided to the State by the Federal Government."
 
 Subsecs. (e), (f). Pub. L. 106–310, §1304(6), added subsecs. (e) and (f). Former subsecs. (e) and (f) redesignated (g) and (h), respectively.
 

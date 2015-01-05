@@ -16,7 +16,7 @@ The Congress finds and declares—
 
 &emsp;&emsp;(4) insure that the handling of dangerous articles and substances on the structures in, on, or immediately adjacent to the navigable waters of the United States is conducted in accordance with established standards and requirements; and
 
-&emsp;(d) that advance planning is critical in determining proper and adequate protectivemeasures for the Nation's ports and waterways and the marine environment, with continuing consultation with other Federal agencies, State representatives, affected users, and the general public, in the development and implementation of such measures.
+&emsp;(d) that advance planning is critical in determining proper and adequate protective measures for the Nation's ports and waterways and the marine environment, with continuing consultation with other Federal agencies, State representatives, affected users, and the general public, in the development and implementation of such measures.
 
 (Pub. L. 92–340, §2, formerly title I, §101, July 10, 1972, 86 Stat. 424; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471; Pub. L. 107–295, title IV, §443(1), Nov. 25, 2002, 116 Stat. 2132.)
 
@@ -48,5 +48,5 @@ Pub. L. 95–474, §6(c), Oct. 17, 1978, 92 Stat. 1493, provided that: "If a pro
 
 #### Establishment of Vessel Traffic Control System for Prince William Sound and Valdez, Alaska
 
-Pub. L. 93–153, title IV, §402, Nov. 16, 1973, 87 Stat. 589, provided that: "The Secretary of the Department in which the Coast Guard is operating is hereby directed to establish a vessel traffic control system for Prince William Sound and Valdez, Alaska, pursuant to authority contained in title I of the Ports and Waterways Safety Act of 1972 (86 Stat. 424, Public Law 92–340) \[this chapter, prior to the amendment by Pub. L. 95–474, Oct. 17, 1978, 92 Stat. 1471\]."
+Pub. L. 93–153, title IV, §402, Nov. 16, 1973, 87 Stat. 589, provided that: "The Secretary of the Department inwhich the Coast Guard is operating is hereby directed to establish a vessel traffic control system for Prince William Sound and Valdez, Alaska, pursuant to authority contained in title I of the Ports and Waterways Safety Act of 1972 (86 Stat. 424, Public Law 92–340) \[this chapter, prior to the amendment by Pub. L. 95–474, Oct. 17, 1978, 92 Stat. 1471\]."
 

@@ -64,7 +64,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;&emsp;&emsp;(VI) that any mailing described in subparagraph (A) be marked with a United States Postal Service label or marking that makes it clear to employees of the United States Postal Service that it is a permitted mailing of otherwise nonmailable tobacco products that may be delivered only to a permitted government agency or business and may not be delivered to any residence or individual person; and
 
-&emsp;&emsp;&emsp;&emsp;(VII) that any mailing described in subparagraph (A) be delivered only to a verified employee of the recipient business or government agency, who is not a minor and who shall be required to sign for the mailing.
+&emsp;&emsp;&emsp;&emsp;(VII) that any mailing described in subparagraph (A) be delivered only to a verified employee of the recipient business or government agency, who is not aminor and who shall be required to sign for the mailing.
 
 &emsp;&emsp;(C)
 
@@ -150,7 +150,7 @@ In general.—Not later than 180 days after the date of enactment of the Prevent
 
 Contents.—The final rule issued under clause (i) shall require—
 
-&emsp;&emsp;&emsp;&emsp;(I) the United States Postal Service to verify that any person submitting a tobacco product into the mails under this paragraph is a legally operating cigarette manufacturer permitted to make a mailing under this paragraph,<sup>3</sup> or an agent legally authorized by the legally operating cigarette manufacturer to submit the tobacco product into the mails on behalf of the manufacturer;
+&emsp;&emsp;&emsp;&emsp;(I) the United States Postal Service to verify that any person submitting a tobacco product into the mails under this paragraph is a legally operating cigarette manufacturer permitted to make a mailing under this paragraph,<sup>3</sup> or anagent legally authorized by the legally operating cigarette manufacturer to submit the tobacco product into the mails on behalf of the manufacturer;
 
 &emsp;&emsp;&emsp;&emsp;(II) the legally operating cigarette manufacturer submitting the cigarettes into the mails under this paragraph to affirm that—
 
@@ -160,7 +160,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the recipient has signed a written statement that is in effect indicating that the recipient wishes to receive the mailings; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the manufacturer or the legally authorized agent of the manufacturer has offered the opportunity for the recipient to withdraw the written statement described in item (cc) not lessfrequently than once in every 3-month period;
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the manufacturer or the legally authorized agent of the manufacturer has offered the opportunity for the recipient to withdraw the written statement described in item (cc) not less frequently than once in every 3-month period;
 
 &emsp;&emsp;&emsp;&emsp;(III) the legally operating cigarette manufacturer or the legally authorized agent of the manufacturer submitting the cigarettes into the mails under this paragraph to affirm that any package mailed under this paragraph contains not more than 12 packs of cigarettes (240 cigarettes) on which all taxes levied on the cigarettes by the State and locality of delivery have been paid and all related State tax stamps or other tax-payment indicia have been applied;
 
@@ -210,7 +210,7 @@ Actions by State, Local, or Tribal Governments Relating to Certain Tobacco Produ
 
 &emsp;(1)
 
-In general.—A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer, may in a civil action in a United States district court obtain appropriate relief with respect to a violation of this section. Appropriate relief includes injunctive and equitable relief and damages equal to the amount of unpaid taxes on tobacco products mailed in violation of this section to addressees in that State, locality, or tribal land.
+In general.—A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer, may in a civil action in a United States district court obtain appropriate relief with respect to a violation of this section. Appropriate relief includes injunctive and equitablerelief and damages equal to the amount of unpaid taxes on tobacco products mailed in violation of this section to addressees in that State, locality, or tribal land.
 
 &emsp;(2)
 

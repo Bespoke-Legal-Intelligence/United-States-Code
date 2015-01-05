@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(B) is not disclosed to the Congress before an implementing bill with respect to that agreement is introduced in either House of Congress,
 
-> &emsp;shall not be considered to be part of the agreement approved by the Congress and shall have no force and effect under United States law or in any dispute settlement body.
+> &emsp;shall not be considered to be part of the agreement approved by the Congress and shall haveno force and effect under United States law or in any dispute settlement body.
 
 #### (b) Limitations on trade authorities procedures
 
@@ -112,7 +112,7 @@
 
 Subsection (b) of this section, section 3803(c) of this title, and section 3804(d)(3)(C) of this title are enacted by the Congress—
 
-&emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such are deemed a part ofthe rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
+&emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such are deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
 
 &emsp;(2) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
@@ -248,7 +248,7 @@ Proclamation authority.—After the date of the enactment of this Act \[Oct. 21,
 
 &emsp;&emsp;"(B) other appropriate officers of the United States Government may issue such regulations,
 
-> &emsp;as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takeseffect on the date on which the Agreement enters into force \[Oct. 31, 2012\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date on which the Agreement enters into force.
+> &emsp;as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date on which the Agreement enters into force \[Oct. 31, 2012\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date on which the Agreement enters into force.
 
 &emsp;"(2)
 
@@ -372,7 +372,7 @@ Other Tariff Modifications.—Subject to the consultation and layover provisions
 
 &emsp;"(4) such additional duties,
 
-> as the President determines to be necessary or appropriate to maintain the general level of reciprocal andmutually advantageous concessions with respect to Panama provided for by the Agreement.
+> as the President determines to be necessary or appropriate to maintain the general level of reciprocal and mutually advantageous concessions with respect to Panama provided for by the Agreement.
 
 "(c)
 
@@ -380,7 +380,7 @@ Conversion to Ad Valorem Rates.—For purposes of subsections (a) and (b), with 
 
 "(d)
 
-Tariff Rate Quotas.—In implementing the tariff rate quotas set forth in Appendix I to the General Notes to the Schedule of the United States to Annex 3.3 of the Agreement, the President shall take such action as may be necessary to ensure that imports of agricultural goods do not disrupt the orderly marketing of commodities in the United States.
+Tariff Rate Quotas.—In implementing the tariff rate quotas set forth in Appendix I to the GeneralNotes to the Schedule of the United States to Annex 3.3 of the Agreement, the President shall take such action as may be necessary to ensure that imports of agricultural goods do not disrupt the orderly marketing of commodities in the United States.
 
 #### "SEC. 202. ADDITIONAL DUTIES ON CERTAIN AGRICULTURAL GOODS.
 
@@ -695,7 +695,7 @@ Other automotive goods.—For purposes of determining the regional value-content
 
 Calculating net cost.—The importer, exporter, or producer of an automotive good shall, consistent with the provisions regarding allocation of costs provided for in generally accepted accounting principles, determine the net cost of the automotive good under subparagraph (B) by—
 
-&emsp;&emsp;&emsp;"(i) calculating the total cost incurred with respect to all goods produced by the producer of theautomotive good, subtracting any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
+&emsp;&emsp;&emsp;"(i) calculating the total cost incurred with respect to all goods produced by the producer of the automotive good, subtracting any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
 
 &emsp;&emsp;&emsp;"(ii) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
 
@@ -797,7 +797,7 @@ Exceptions.—Paragraph (1) does not apply to the following:
 
 &emsp;&emsp;&emsp;"(vi) Animal feeds containing over 10 percent by weight of milk solids provided for in subheading 2309.90.
 
-&emsp;&emsp;"(C) A nonoriginating material provided for in heading 0805, or any of subheadings 2009.11 through 2009.39, that is used in the production of a good provided for in any of subheadings 2009.11 through 2009.39, or in fruit or vegetable juice of any singlefruit or vegetable, fortified with minerals or vitamins, concentrated or unconcentrated, provided for in subheading 2106.90 or 2202.90.
+&emsp;&emsp;"(C) A nonoriginating material provided for in heading 0805, or any of subheadings 2009.11 through 2009.39, that is used in the production of a good provided for in any of subheadings 2009.11 through 2009.39, or in fruit or vegetable juice of any single fruit or vegetable, fortified with minerals or vitamins, concentrated or unconcentrated, provided for in subheading 2106.90 or 2202.90.
 
 &emsp;&emsp;"(D) A nonoriginating material provided for in heading 0901 or 2101 that is used in the production of a good provided for in heading 0901 or 2101.
 
@@ -1051,7 +1051,7 @@ Packing materials and containers for shipment.—The term 'packing materials and
 
 &emsp;"(15)
 
-Preferential tariff treatment.—The term 'preferential tariff treatment' means the customs duty rate, and the treatment under article 3.10.4 of the Agreement, that are applicable to an originating good pursuant to the Agreement.
+Preferential tariff treatment.—The term 'preferential tariff treatment' means the customsduty rate, and the treatment under article 3.10.4 of the Agreement, that are applicable to an originating good pursuant to the Agreement.
 
 &emsp;"(16)
 
@@ -1297,7 +1297,7 @@ Appropriate Action Described.—Appropriate action under subsection (c) includes
 
 &emsp;&emsp;"(B) the textile or apparel good for which a claim of preferential tariff treatment has been made that is the subject of a verification under subsection (a)(1) regarding a claim described in subsection (a)(2)(B), if the Secretary determines that there is insufficient information to support, or that a person has provided incorrect information to support, that claim; and
 
-&emsp;"(2) denial of entry into the United States of any textile or apparel good exported or produced by theperson that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A) or a claim described in subsection (a)(2)(B), if the Secretary determines that there is insufficient information to determine, or that the person has provided incorrect information as to, the country of origin of any such good.
+&emsp;"(2) denial of entry into the United States of any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A) or a claim described in subsection (a)(2)(B), if the Secretary determines that there is insufficient information to determine, or that the person has provided incorrect information as to, the country of origin of any such good.
 
 "(e)
 
@@ -1639,7 +1639,7 @@ Effective Date.—The amendment made by subsection (a) takes effect on the date 
 
 &emsp;"(1) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2012 shall be increased by 0.25 percent of such amount (determined without regard to any increase in such amount not contained in such Code);
 
-&emsp;"(2) the amount of any required installment of corporate estimated tax which is otherwise due in July,August, or September of 2016 shall be increased by 0.25 percent of such amount (determined without regard to any increase in such amount not contained in such Code); and
+&emsp;"(2) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2016 shall be increased by 0.25 percent of such amount (determined without regard to any increase in such amount not contained in such Code); and
 
 &emsp;"(3) the amount of the next required installment after an installment referred to in paragraph (1) or (2) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph."
 
@@ -2282,7 +2282,7 @@ Exceptions.—Paragraph (1) does not apply to the following:
 
 &emsp;&emsp;"(G) A nonoriginating material provided for in chapter 17 that is used in the production of a good provided for in subheading 1806.10.
 
-&emsp;&emsp;"(H) Except as provided in subparagraphs (A) through (G) and Annex 4.1 of the Agreement, a nonoriginating material used in the production of a good provided for in any of chapters 1 through 24, unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
+&emsp;&emsp;"(H) Except as provided in subparagraphs (A) through (G) and Annex 4.1 of the Agreement, a nonoriginating material used in the production of a good provided for in any of chapters 1 through 24, unless the nonoriginating material is provided forin a different subheading than the good for which origin is being determined under this section.
 
 &emsp;&emsp;"(I) A nonoriginating material that is a textile or apparel good.
 
@@ -2410,7 +2410,7 @@ Class of motor vehicles.—The term 'class of motor vehicles' means any one of t
 
 &emsp;&emsp;"(B) Motor vehicles provided for in subheading 8701.10 or any of subheadings 8701.30 through 8701.90.
 
-&emsp;&emsp;"(C) Motor vehicles for the transport of 15 or fewer persons provided for in subheading 8702.10 or 8702.90, or motor vehicles provided for in subheading 8704.21 or 8704.31.
+&emsp;&emsp;"(C) Motor vehicles for the transport of 15 or fewer persons provided for in subheading 8702.10 or8702.90, or motor vehicles provided for in subheading 8704.21 or 8704.31.
 
 &emsp;&emsp;"(D) Motor vehicles provided for in any of subheadings 8703.21 through 8703.90.
 
@@ -2526,7 +2526,7 @@ Packing materials and containers for shipment.—The term 'packing materials and
 
 &emsp;"(15)
 
-Preferential tariff treatment.—The term 'preferential tariff treatment' means the customsduty rate, and the treatment under article 2.10.4 of the Agreement, that are applicable to an originating good pursuant to the Agreement.
+Preferential tariff treatment.—The term 'preferential tariff treatment' means the customs duty rate, and the treatment under article 2.10.4 of the Agreement, that are applicable to an originating good pursuant to the Agreement.
 
 &emsp;"(16)
 
@@ -2538,7 +2538,7 @@ Production.—The term 'production' means growing, mining, harvesting, fishing, 
 
 &emsp;"(18)
 
-Reasonably allocate.—The term 'reasonably allocate' means to apportion in a manner that would be appropriate under generally accepted accounting principles.
+Reasonably allocate.—The term 'reasonably allocate' means to apportion in a manner that wouldbe appropriate under generally accepted accounting principles.
 
 &emsp;"(19)
 
@@ -2674,7 +2674,7 @@ Effective date.—Notwithstanding section 103(a)(2), a proclamation made under c
 
 &emsp;&emsp;&emsp;"(vi)
 
-Subsequent action.—Not later than 6 months after proclaiming under clause (iii) that a fabric, yarn, or fiber is added to the list in Annex 3-B of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available in commercial quantities ina timely manner in Colombia and the United States.
+Subsequent action.—Not later than 6 months after proclaiming under clause (iii) that a fabric, yarn, or fiber is added to the list in Annex 3-B of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in Colombia and the United States.
 
 &emsp;&emsp;"(D)
 
@@ -2792,7 +2792,7 @@ Appropriate Action Described.—Appropriate action under subsection (c) includes
 
 &emsp;"(1) denial of preferential tariff treatment under the Agreement with respect to—
 
-&emsp;&emsp;"(A) any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A), if the Secretary of the Treasury determines that there is insufficientinformation to support, or that the person has provided incorrect information to support, any claim for preferential tariff treatment that has been made with respect to any such good; or
+&emsp;&emsp;"(A) any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A), if the Secretary of the Treasury determines that there is insufficient information to support, or that the person has provided incorrect information to support, any claim for preferential tariff treatment that has been made with respect to any such good; or
 
 &emsp;&emsp;"(B) the textile or apparel good for which a claim of preferential tariff treatment has been made that is the subject of a verification under subsection (a)(1) regarding a claim described in subsection (a)(2)(B), if the Secretary determines that there is insufficient information to support, or that a person has provided incorrect information to support, that claim; and
 
@@ -2900,7 +2900,7 @@ Public Notice.—Upon submitting a report to the President under subsection (d),
 
 "(a)
 
-In General.—Not later than the date that is 30 days after the date on which the President receives a report of the Commission in which the Commission's determination under section 312(a) is affirmative, or which contains a determination under section 312(a) that the President considers to be affirmative under paragraph (1) of section 330(d) of the Tariff Act of 1930\(19 U.S.C. 1330(d)(1)), the President, subject to subsection (b), shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or prevent the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition.
+In General.—Not later than the date that is 30 days after the date on which the President receives a report of the Commission in which the Commission's determination under section 312(a) is affirmative, or which contains a determination under section 312(a) that the President considers to be affirmative under paragraph (1) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)(1)), the President, subject to subsection (b), shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or prevent the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition.
 
 "(b)
 
@@ -3018,7 +3018,7 @@ In General.—A request for action under this subtitle for the purpose of adjust
 
 "(b)
 
-Publication of Request.—If the President determines that the request under subsection (a) provides the information necessary for the request to be considered, the President shall publish in the Federal Register a notice of commencement of consideration of the request, and notice seeking public comments regardingthe request. The notice shall include a summary of the request and the dates by which comments and rebuttals must be received.
+Publication of Request.—If the President determines that the request under subsection (a) provides the information necessary for the request to be considered, the President shall publish in the Federal Register a notice of commencement of consideration of the request, and notice seeking public comments regarding the request. The notice shall include a summary of the request and the dates by which comments and rebuttals must be received.
 
 #### "SEC. 322. DETERMINATION AND PROVISION OF RELIEF.
 
@@ -3148,7 +3148,7 @@ Retroactive application for certain liquidations and reliquidations.—
 
 &emsp;&emsp;"(A)
 
-In general.—Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any otherprovision of law and subject to subparagraph (B), any entry of an article to which duty-free treatment or other preferential treatment under the Andean Trade Preference Act \[19 U.S.C. 3201 et seq.\] would have applied if the entry had been made on February 12, 2011, that was made—
+In general.—Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law and subject to subparagraph (B), any entry of an article to which duty-free treatment or other preferential treatment under the Andean Trade Preference Act \[19 U.S.C. 3201 et seq.\] would have applied if the entry had been made on February 12, 2011, that was made—
 
 &emsp;&emsp;&emsp;"(i) after February 12, 2011, and
 
@@ -3372,11 +3372,11 @@ Establishment or Designation of Office.—The President is authorized to establi
 
 "(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated for each fiscal year afterfiscal year 2011 to the Department of Commerce up to $750,000 for the establishment and operations of the office established or designated under subsection (a) and for the payment of the United States \[sic\] share of the expenses of panels established under chapter 22 of the Agreement.
+Authorization of Appropriations.—There are authorized to be appropriated for each fiscal year after fiscal year 2011 to the Department of Commerce up to $750,000 for the establishment and operations of the office established or designated under subsection (a) and for the payment of the United States \[sic\] share of the expenses of panels established under chapter 22 of the Agreement.
 
 #### "SEC. 106. ARBITRATION OF CLAIMS.
 
-"The United States is authorized to resolve any claim against the United States covered by article 11.16.1(a)(i)(C) or article 11.16.1(b)(i)(C) of the Agreement, pursuant to the Investor-State Dispute Settlement procedures set forth in section B of chapter 11 of the Agreement.
+"The United States is authorized to resolve any claim against the United States covered by article11.16.1(a)(i)(C) or article 11.16.1(b)(i)(C) of the Agreement, pursuant to the Investor-State Dispute Settlement procedures set forth in section B of chapter 11 of the Agreement.
 
 #### "SEC. 107. EFFECTIVE DATES; EFFECT OF TERMINATION.
 
@@ -3526,7 +3526,7 @@ Regional Value-content.—
 
 &emsp;"(1)
 
-In general.—For purposes of subsection (b)(2), the regional value-content of a good referred to in Annex 6-A of the Agreement, except for goods to which paragraph (4) applies, shall be calculated by the importer, exporter, or producer of the good, on the basis of the build-down method described in paragraph (2) or the build-up method described in paragraph (3).
+In general.—For purposes of subsection (b)(2), the regional value-content of a good referred to in Annex 6-A of the Agreement, except for goods towhich paragraph (4) applies, shall be calculated by the importer, exporter, or producer of the good, on the basis of the build-down method described in paragraph (2) or the build-up method described in paragraph (3).
 
 &emsp;"(2)
 
@@ -3923,7 +3923,7 @@ Adjusted value.—The term 'adjusted value' means the value determined in accord
 
 Class of motor vehicles.—The term 'class of motor vehicles' means any one of the following categories of motor vehicles:
 
-&emsp;&emsp;"(A) Motor vehicles provided for in subheading 8701.20, 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, orheading 8705 or 8706, or motor vehicles for the transport of 16 or more persons provided for in subheading 8702.10 or 8702.90.
+&emsp;&emsp;"(A) Motor vehicles provided for in subheading 8701.20, 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, or motor vehicles for the transport of 16 or more persons provided for in subheading 8702.10 or 8702.90.
 
 &emsp;&emsp;"(B) Motor vehicles provided for in subheading 8701.10 or any of subheadings 8701.30 through 8701.90.
 
@@ -4207,7 +4207,7 @@ Proclamation authority.—Not later than 30 days after the date on which a reque
 
 &emsp;&emsp;&emsp;"(iii)
 
-Effective date.—A proclamation issued under clause (ii) may not take effect earlier than the date that is 6 months after the date on which the text of the proclamation is published in the Federal Register.
+Effective date.—A proclamation issued under clause (ii) may not take effect earlier thanthe date that is 6 months after the date on which the text of the proclamation is published in the Federal Register.
 
 &emsp;&emsp;"(F)
 
@@ -4575,7 +4575,7 @@ Determination.—
 
 &emsp;"(1)
 
-In general.—If a positive determination is made under section 331(b), the President shall determine whether, as a result of the reduction or elimination of a duty under the Agreement, a Korean textile or apparel article is being imported into the United States in such increased quantities, in absolute terms or relative to the domestic market for that article, and under such conditions as to cause serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article.
+In general.—If a positive determination is made under section 331(b), the President shall determine whether, as a result of the reduction or elimination of a duty under the Agreement, a Korean textile or apparel article is being imported into the United States in such increased quantities, in absolute terms or relative to the domestic market forthat article, and under such conditions as to cause serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article.
 
 &emsp;"(2)
 
@@ -4781,7 +4781,7 @@ Approval of Agreement and Statement of Administrative Action.—Pursuant to sect
 
 "(b)
 
-Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Peru has taken measures necessary to comply with those provisions of the Agreement that are to take effect on the date on which the Agreement enters intoforce \[Feb. 1, 2009\], the President is authorized to exchange notes with the Government of Peru providing for the entry into force, on or after January 1, 2008, of the Agreement with respect to the United States.
+Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Peru has taken measures necessary to comply with those provisions of the Agreement that are to take effect on the date on which the Agreement enters into force \[Feb. 1, 2009\], the President is authorized to exchange notes with the Government of Peru providing for the entry into force, on or after January 1, 2008, of the Agreement with respect to the United States.
 
 #### "SEC. 102. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND STATE LAW.
 
@@ -5224,7 +5224,7 @@ Calculating net cost.—The importer, exporter, or producer of an automotive goo
 
 &emsp;&emsp;&emsp;"(ii) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
 
-&emsp;&emsp;&emsp;"(iii) reasonably allocating each cost that forms part of the total cost incurred with respect to the automotive good so that the aggregate of these costs does not include any sales promotion,marketing, and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
+&emsp;&emsp;&emsp;"(iii) reasonably allocating each cost that forms part of the total cost incurred with respect to the automotive good so that the aggregate of these costs does not include any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
 
 "(d)
 
@@ -5334,7 +5334,7 @@ Exceptions.—Paragraph (1) does not apply to the following:
 
 &emsp;&emsp;"(G) A nonoriginating material provided for in chapter 17 that is used in the production of a good provided for in subheading 1806.10.
 
-&emsp;&emsp;"(H) Except as provided in subparagraphs (A) through (G) and Annex 4.1 of the Agreement, a nonoriginating material used in the production of a good provided for in any of chapters 1 through 24,unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
+&emsp;&emsp;"(H) Except as provided in subparagraphs (A) through (G) and Annex 4.1 of the Agreement, a nonoriginating material used in the production of a good provided for in any of chapters 1 through 24, unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
 
 &emsp;&emsp;"(I) A nonoriginating material that is a textile or apparel good.
 
@@ -5586,7 +5586,7 @@ Production.—The term 'production' means growing, mining, harvesting, fishing, 
 
 &emsp;"(18)
 
-Reasonably allocate.—The term 'reasonably allocate' means to apportion in a manner that wouldbe appropriate under generally accepted accounting principles.
+Reasonably allocate.—The term 'reasonably allocate' means to apportion in a manner that would be appropriate under generally accepted accounting principles.
 
 &emsp;"(19)
 
@@ -5944,7 +5944,7 @@ In general.—The import relief that the President is authorized to provide unde
 
 &emsp;"(2)
 
-Progressive liberalization.—If the period for which import relief is provided under this section is greater than 1 year, the President shall provide for the progressive liberalization (described in article 8.2.2 of the Agreement) of such relief at regular intervals during the period of its application.
+Progressive liberalization.—If the period for which import relief is provided under this section isgreater than 1 year, the President shall provide for the progressive liberalization (described in article 8.2.2 of the Agreement) of such relief at regular intervals during the period of its application.
 
 "(d)
 
@@ -6056,7 +6056,7 @@ Serious damage.—In making a determination under paragraph (1), the President�
 
 &emsp;&emsp;"(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes in such relevant economic factors as output, productivity, utilization of capacity, inventories, market share, exports, wages, employment, domestic prices, profits and losses, and investment, no one of which is necessarily decisive; and
 
-&emsp;&emsp;"(B) shall not consider changes in consumer preference or changes in technology in the UnitedStates as factors supporting a determination of serious damage or actual threat thereof.
+&emsp;&emsp;"(B) shall not consider changes in consumer preference or changes in technology in the United States as factors supporting a determination of serious damage or actual threat thereof.
 
 "(b)
 
@@ -6172,7 +6172,7 @@ Actions of committee.—If the Committee requests a verification under paragraph
 
 &emsp;"(3)
 
-Request to participate in verification visit.—The Committee may request the Government of Peru to permit officials of any agency representedon the Committee to participate in any visit conducted by Peru of the premises of a person that is the subject of the verification requested under paragraph (1) (in this section referred to as a 'verification visit'). Such request shall be submitted in writing not later than 10 days before any scheduled verification visit and shall identify the names and titles of the officials intending to participate.
+Request to participate in verification visit.—The Committee may request the Government of Peru to permit officials of any agency represented on the Committee to participate in any visit conducted by Peru of the premises of a person that is thesubject of the verification requested under paragraph (1) (in this section referred to as a 'verification visit'). Such request shall be submitted in writing not later than 10 days before any scheduled verification visit and shall identify the names and titles of the officials intending to participate.
 
 &emsp;"(4)
 
@@ -6348,7 +6348,7 @@ Approval of Agreement and Statement of Administrative Action.—Pursuant to sect
 
 "(b)
 
-Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Oman has taken measures necessary to bring it into compliance with those provisions of the Agreement that are to take effect on the date on which the Agreement enters into force \[Jan. 1, 2009\], the President is authorized to exchange notes with the Government of Oman providing for the entry into force, on or afterJanuary 1, 2007, of the Agreement with respect to the United States.
+Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Oman has taken measures necessary to bring it into compliance with those provisions of the Agreement that are to take effect on the date on which the Agreement enters into force \[Jan. 1, 2009\], the President is authorized to exchange notes with the Government of Oman providing for the entry into force, on or after January 1, 2007, of the Agreement with respect to the United States.
 
 #### "SEC. 102. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND STATE LAW.
 
@@ -6622,7 +6622,7 @@ De minimis amounts of nonoriginating materials.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), a textile or apparel good that is not an originating good because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 3–A of the Agreement shall be considered to be an originating good if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
+In general.—Except as provided in subparagraph (B), a textile or apparel good that is not anoriginating good because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 3–A of the Agreement shall be considered to be an originating good if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
 
 &emsp;&emsp;"(B)
 
@@ -6870,7 +6870,7 @@ Appropriate Action Described.—Appropriate action referred to in subsection (c)
 
 &emsp;&emsp;"(A) any textile or apparel good exported or produced by the person that is the subject of a verification referred to in subsection (a)(1) regarding compliance described in subsection (a)(2)(A); or
 
-&emsp;&emsp;"(B) a textile or apparel good for which a claim has been made that is the subject of a verificationreferred to in subsection (a)(1) regarding a claim described in subsection (a)(2)(B).
+&emsp;&emsp;"(B) a textile or apparel good for which a claim has been made that is the subject of a verification referred to in subsection (a)(1) regarding a claim described in subsection (a)(2)(B).
 
 #### "SEC. 205. RELIQUIDATION OF ENTRIES.
 
@@ -7322,7 +7322,7 @@ Establishment or Designation of Office.—The President is authorized to establi
 
 "(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated for each fiscal year afterfiscal year 2005 to the Department of Commerce such sums as may be necessary for the establishment and operations of the office established or designated under subsection (a) and for the payment of the United States share of the expenses of panels established under chapter 19 of the Agreement.
+Authorization of Appropriations.—There are authorized to be appropriated for each fiscal year after fiscal year 2005 to the Department of Commerce suchsums as may be necessary for the establishment and operations of the office established or designated under subsection (a) and for the payment of the United States share of the expenses of panels established under chapter 19 of the Agreement.
 
 #### "SEC. 106. EFFECTIVE DATES; EFFECT OF TERMINATION.
 

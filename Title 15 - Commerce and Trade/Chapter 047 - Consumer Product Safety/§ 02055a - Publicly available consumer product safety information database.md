@@ -110,7 +110,7 @@
 
 #### (ii) Redaction
 
-&emsp;&emsp;&emsp;If the Commission determines that the designated information contains, or relates to, a trade secret or other matter referred to in section 1905 of title 18, or that is subject to section 552(b)(4) of title 5, theCommission shall redact the designated information in the report before it is placed in the database.
+&emsp;&emsp;&emsp;If the Commission determines that the designated information contains, or relates to, a trade secret or other matter referred to in section 1905 of title 18, or that is subject to section 552(b)(4) of title 5, the Commission shall redact the designated information in the report before it is placed in the database.
 
 #### (iii) Review
 
@@ -152,7 +152,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Commission receives a report described in subsection (b)(1)(A) that does not include the model or serial number of the consumer product concerned, the Commission shall seek from the individual or entity submitting the report such model or serial number or, if such model or serial number is not available, a photograph of the product. If the Commission obtains information relating to the serial or model number of the product or a photograph of the product, it shall immediately forward such information to the manufacturer of the product. The Commission shall make the report available in the database on the 15th business day after the date on which the Commission transmits the report under paragraph (1) and shall include in the database any additional information about the product obtained under this paragraph.
+&emsp;&emsp;If the Commission receives a report described in subsection (b)(1)(A) that does not include the model or serial number of the consumer product concerned, the Commission shall seek from the individual or entitysubmitting the report such model or serial number or, if such model or serial number is not available, a photograph of the product. If the Commission obtains information relating to the serial or model number of the product or a photograph of the product, it shall immediately forward such information to the manufacturer of the product. The Commission shall make the report available in the database on the 15th business day after the date on which the Commission transmits the report under paragraph (1) and shall include in the database any additional information about the product obtained under this paragraph.
 
 #### (B) Rule of construction
 

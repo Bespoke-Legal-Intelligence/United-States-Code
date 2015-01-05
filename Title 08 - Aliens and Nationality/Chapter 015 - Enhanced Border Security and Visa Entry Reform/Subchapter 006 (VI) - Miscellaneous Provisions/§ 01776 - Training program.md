@@ -82,21 +82,21 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Findings
 
-Pub. L. 108–458, title VII, §7201(a), Dec. 17, 2004, 118 Stat. 3808, provided that: “Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+Pub. L. 108–458, title VII, §7201(a), Dec. 17, 2004, 118 Stat. 3808, provided that: "Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
-&emsp;“(1) Travel documents are as important to terrorists as weapons since terrorists must travel clandestinely to meet, train, plan, case targets, and gain access to attack sites.
+&emsp;"(1) Travel documents are as important to terrorists as weapons since terrorists must travel clandestinely to meet, train, plan, case targets, and gain access to attack sites.
 
-&emsp;“(2) International travel is dangerous for terrorists because they must surface to pass through regulated channels, present themselves to border security officials, or attempt to circumvent inspection points.
+&emsp;"(2) International travel is dangerous for terrorists because they must surface to pass through regulated channels, present themselves to border security officials, or attempt to circumvent inspection points.
 
-&emsp;“(3) Terrorists use evasive, but detectable, methods to travel, such as altered and counterfeit passports and visas, specific travel methods and routes, liaisons with corrupt government officials, human smuggling networks, supportive travel agencies, and immigration and identity fraud.
+&emsp;"(3) Terrorists use evasive, but detectable, methods to travel, such as altered and counterfeit passports and visas, specific travel methods and routes, liaisons with corrupt government officials, human smuggling networks, supportive travel agencies, and immigration and identity fraud.
 
-&emsp;“(4) Before September 11, 2001, no Federal agency systematically analyzed terrorist travel strategies. If an agency had done so, the agency could have discovered the ways in which the terrorist predecessors to al Qaeda had been systematically, but detectably, exploiting weaknesses in our border security since the early 1990s.
+&emsp;"(4) Before September 11, 2001, no Federal agency systematically analyzed terrorist travel strategies. If an agency had done so, the agency could have discovered the ways in which the terrorist predecessors to al Qaeda had been systematically, but detectably, exploiting weaknesses in our border security since the early 1990s.
 
-&emsp;“(5) Many of the hijackers were potentially vulnerable to interception by border authorities. Analyzing their characteristic travel documents and travel patterns could have allowed authorities to intercept some of the hijackers and a more effective use of information available in government databases could have identified some of the hijackers.
+&emsp;"(5) Many of the hijackers were potentially vulnerable to interception by border authorities. Analyzing their characteristic travel documents and travel patterns could have allowed authorities to intercept some of the hijackers and a more effective use of information available in government databases could have identified some of the hijackers.
 
-&emsp;“(6) The routine operations of our immigration laws and the aspects of those laws not specifically aimed at protecting against terrorism inevitably shaped al Qaeda's planning and opportunities.
+&emsp;"(6) The routine operations of our immigration laws and the aspects of those laws not specifically aimed at protecting against terrorism inevitably shaped al Qaeda's planning and opportunities.
 
-&emsp;“(7) New insights into terrorist travel gained since September 11, 2001, have not been adequately integrated into the front lines of border security.
+&emsp;"(7) New insights into terrorist travel gained since September 11, 2001, have not been adequately integrated into the front lines of border security.
 
-&emsp;“(8) The small classified terrorist travel intelligence collection and analysis program currently in place has produced useful results and should be expanded.”
+&emsp;"(8) The small classified terrorist travel intelligence collection and analysis program currently in place has produced useful results and should be expanded."
 

@@ -20,8 +20,10 @@
 | 701b–10. | Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation. |
 | 701b–11. | Flood protection projects. |
 | 701b–12. | Floodplain management requirements. |
-| 701b–13. | Construction of flood control projects by non-Federal interests. |
+| 701b–13. | Repealed. |
 | 701b–14. | Structural integrity evaluations. |
+| 701b–15. | Non-Federal plans to provide additional flood risk reduction. |
+| 701b–16. | Management of flood risk reduction projects. |
 | [701c.](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md) | Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance. |
 | 701c–1. | Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies. |
 | 701c–2. | Acquisition and sale of land. |
@@ -33,7 +35,7 @@
 | 701f–2. | Funds for specific and authorized projects merged with and accounted for under regular annual appropriation. |
 | 701f–3. | Expenditure in watersheds of funds appropriated for flood prevention purposes. |
 | [701g.](%C2%A7%2000701g%20-%20Removal%20of%20obstructions%3B%20clearing%20channels.md) | Removal of obstructions; clearing channels. |
-| [701h.](%C2%A7%2000701h%20-%20Contributions%20by%20States%20and%20political%20subdivisions.md) | Contributions by States and political subdivisions. |
+| [701h.](%C2%A7%2000701h%20-%20Contributions%20by%20States%2C%20political%20subdivisions%2C%20and%20other%20non-Federal%20interests.md) | Contributions by States, political subdivisions, and other non-Federal interests. |
 | 701h–1. | Contributions by States and political subdivisions for immediate use on authorized flood-control work; repayment. |
 | [701i.](%C2%A7%2000701i%20-%20Elimination%20from%20protection%20of%20areas%20subject%20to%20evacuation.md) | Elimination from protection of areas subject to evacuation. |
 | [701j.](%C2%A7%2000701j%20-%20Installation%20in%20dams%20of%20facilities%20for%20future%20development%20of%20hydroelectric%20power.md) | Installation in dams of facilities for future development of hydroelectric power. |
@@ -41,6 +43,7 @@
 | 701l, 701l–1. Repealed. |  |
 | [701m.](%C2%A7%2000701m%20-%20Insufficient%20Congressional%20authorization%3B%20preparations%20for%20and%20modification%20of%20project.md) | Insufficient Congressional authorization; preparations for and modification of project. |
 | [701n.](%C2%A7%2000701n%20-%20Emergency%20response%20to%20natural%20disasters.md) | Emergency response to natural disasters. |
+| 701n–1. | Biennial report to Congress. |
 | 701<i>o.</i> | Omitted. |
 | [701p.](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md) | Railroad bridge alterations at Federal expense. |
 | [701q.](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md) | Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir. |
@@ -94,6 +97,7 @@
 | [709\.](%C2%A7%2000709%20-%20Regulations%20for%20use%20of%20storage%20waters%3B%20application%20to%20Tennessee%20Valley%20Authority.md) | Regulations for use of storage waters; application to Tennessee Valley Authority. |
 | [709a.](%C2%A7%2000709a%20-%20Information%20on%20floods%20and%20flood%20damage.md) | Information on floods and flood damage. |
 | [709b.](%C2%A7%2000709b%20-%20Flood%20hazard%20information.md) | Flood hazard information. |
+| [709c.](%C2%A7%2000709c%20-%20Emergency%20communication%20of%20risk.md) | Emergency communication of risk. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -120,8 +124,10 @@
 - [&sect; 00701b&#8211;10 - Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation](%C2%A7%2000701b%E2%80%9310%20-%20Revolving%20fund%3B%20establishment%3B%20availability%3B%20reimbursement%3B%20transfer%20of%20funds%3B%20limitation.md)
 - [&sect; 00701b&#8211;11 - Flood protection projects](%C2%A7%2000701b%E2%80%9311%20-%20Flood%20protection%20projects.md)
 - [&sect; 00701b&#8211;12 - Floodplain management requirements](%C2%A7%2000701b%E2%80%9312%20-%20Floodplain%20management%20requirements.md)
-- [&sect; 00701b&#8211;13 - Construction of flood control projects by non-Federal interests](%C2%A7%2000701b%E2%80%9313%20-%20Construction%20of%20flood%20control%20projects%20by%20non-Federal%20interests.md)
+- [&sect; 00701b&#8211;13 - Repealed. Pub. L. 113&#8211;121, title I, &sect;1014(c)(3), June 10, 2014, 128 Stat. 1222](%C2%A7%2000701b%E2%80%9313%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93121%2C%20title%20I%2C%20%C2%A71014%28c%29%283%29%2C%20June%2010%2C%202014%2C%20128%20Stat.%201222.md)
 - [&sect; 00701b&#8211;14 - Structural integrity evaluations](%C2%A7%2000701b%E2%80%9314%20-%20Structural%20integrity%20evaluations.md)
+- [&sect; 00701b&#8211;15 - Non-Federal plans to provide additional flood risk reduction](%C2%A7%2000701b%E2%80%9315%20-%20Non-Federal%20plans%20to%20provide%20additional%20flood%20risk%20reduction.md)
+- [&sect; 00701b&#8211;16 - Management of flood risk reduction projects](%C2%A7%2000701b%E2%80%9316%20-%20Management%20of%20flood%20risk%20reduction%20projects.md)
 - [&sect; 00701c - Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability&#8230;](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md)
 - [&sect; 00701c&#8211;1 - Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies](%C2%A7%2000701c%E2%80%931%20-%20Acquirement%20of%20titles%20for%20certain%20projects%20and%20to%20lands%2C%20easements%2C%20rights-of-way%3B%20reimbursement%20of%20local%20agencies.md)
 - [&sect; 00701c&#8211;2 - Acquisition and sale of land](%C2%A7%2000701c%E2%80%932%20-%20Acquisition%20and%20sale%20of%20land.md)
@@ -133,7 +139,7 @@
 - [&sect; 00701f&#8211;2 - Funds for specific and authorized projects merged with and accounted for under regular annual appropriation](%C2%A7%2000701f%E2%80%932%20-%20Funds%20for%20specific%20and%20authorized%20projects%20merged%20with%20and%20accounted%20for%20under%20regular%20annual%20appropriation.md)
 - [&sect; 00701f&#8211;3 - Expenditure in watersheds of funds appropriated for flood prevention purposes](%C2%A7%2000701f%E2%80%933%20-%20Expenditure%20in%20watersheds%20of%20funds%20appropriated%20for%20flood%20prevention%20purposes.md)
 - [&sect; 00701g - Removal of obstructions; clearing channels](%C2%A7%2000701g%20-%20Removal%20of%20obstructions%3B%20clearing%20channels.md)
-- [&sect; 00701h - Contributions by States and political subdivisions](%C2%A7%2000701h%20-%20Contributions%20by%20States%20and%20political%20subdivisions.md)
+- [&sect; 00701h - Contributions by States, political subdivisions, and other non-Federal interests](%C2%A7%2000701h%20-%20Contributions%20by%20States%2C%20political%20subdivisions%2C%20and%20other%20non-Federal%20interests.md)
 - [&sect; 00701h&#8211;1 - Contributions by States and political subdivisions for immediate use on authorized flood-control work; repayment](%C2%A7%2000701h%E2%80%931%20-%20Contributions%20by%20States%20and%20political%20subdivisions%20for%20immediate%20use%20on%20authorized%20flood-control%20work%3B%20repayment.md)
 - [&sect; 00701i - Elimination from protection of areas subject to evacuation](%C2%A7%2000701i%20-%20Elimination%20from%20protection%20of%20areas%20subject%20to%20evacuation.md)
 - [&sect; 00701j - Installation in dams of facilities for future development of hydroelectric power](%C2%A7%2000701j%20-%20Installation%20in%20dams%20of%20facilities%20for%20future%20development%20of%20hydroelectric%20power.md)
@@ -141,6 +147,7 @@
 - [&sect; 00701l, 701l&#8211;1 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 650, 656](%C2%A7%2000701l%2C%20701l%E2%80%931%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20650%2C%20656.md)
 - [&sect; 00701m - Insufficient Congressional authorization; preparations for and modification of project](%C2%A7%2000701m%20-%20Insufficient%20Congressional%20authorization%3B%20preparations%20for%20and%20modification%20of%20project.md)
 - [&sect; 00701n - Emergency response to natural disasters](%C2%A7%2000701n%20-%20Emergency%20response%20to%20natural%20disasters.md)
+- [&sect; 00701n&#8211;1 - Biennial report to Congress](%C2%A7%2000701n%E2%80%931%20-%20Biennial%20report%20to%20Congress.md)
 - [&sect; 00701o - Omitted](%C2%A7%2000701o%20-%20Omitted.md)
 - [&sect; 00701p - Railroad bridge alterations at Federal expense](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md)
 - [&sect; 00701q - Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md)
@@ -194,3 +201,4 @@
 - [&sect; 00709 - Regulations for use of storage waters; application to Tennessee Valley Authority](%C2%A7%2000709%20-%20Regulations%20for%20use%20of%20storage%20waters%3B%20application%20to%20Tennessee%20Valley%20Authority.md)
 - [&sect; 00709a - Information on floods and flood damage](%C2%A7%2000709a%20-%20Information%20on%20floods%20and%20flood%20damage.md)
 - [&sect; 00709b - Flood hazard information](%C2%A7%2000709b%20-%20Flood%20hazard%20information.md)
+- [&sect; 00709c - Emergency communication of risk](%C2%A7%2000709c%20-%20Emergency%20communication%20of%20risk.md)

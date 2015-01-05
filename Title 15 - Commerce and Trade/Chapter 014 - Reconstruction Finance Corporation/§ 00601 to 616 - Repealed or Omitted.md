@@ -6,7 +6,7 @@ Section 601, acts Jan. 22, 1932, ch. 8, §1, 47 Stat. 5; June 30, 1947, ch. 166,
 
 Sections 601a, 601b, acts Jan. 20, 1934, ch. 3, §1, 48 Stat. 318; Jan. 31, 1935, ch. 2, §1, 49 Stat. 1, which extended the life of the Corporation until Feb. 1, 1935, and Feb. 1, 1937, respectively, were repealed by act of June 30, 1947, ch. 166, title II, §206(i), (m), 61 Stat. 208.
 
-Section 602, acts Jan. 22, 1932, ch. 8, §2, formerly §3, 47 Stat. 5; July 21, 1932, ch. 520, §205(b), 47 Stat. 714; July 22, 1932, ch. 522, §6(f), 47 Stat. 728; June 25, 1940, ch. 427, §2, 54 Stat. 572; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208;May 25, 1948, ch. 334, §2, 62 Stat. 262; Oct. 15, 1949, ch. 695, §§4, 5(a), 63 Stat. 880, related to the appointment, qualifications and tenure of directors of the Reconstruction Finance Corporation. It was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648, 654, 655.
+Section 602, acts Jan. 22, 1932, ch. 8, §2, formerly §3, 47 Stat. 5; July 21, 1932, ch. 520, §205(b), 47 Stat. 714; July 22, 1932, ch. 522, §6(f), 47 Stat. 728; June 25, 1940, ch. 427, §2, 54 Stat. 572; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; May 25, 1948, ch. 334, §2, 62 Stat. 262; Oct. 15, 1949, ch. 695, §§4, 5(a), 63 Stat. 880, related to the appointment, qualifications and tenure of directors of the Reconstruction Finance Corporation. It was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648, 654, 655.
 
 Section 603, acts Jan. 22, 1932, ch. 8, §3, formerly §4, 47 Stat. 5; July 21, 1932, ch. 520, §208(a), 47 Stat. 714; Feb. 24, 1938, ch. 32, §4, 52 Stat. 80; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; May 25, 1948, ch. 334, §3, 62 Stat. 262; July 30, 1953, ch. 282, title I, §102(a), 67 Stat. 230; June 29, 1954, ch. 410, §2(b), 68 Stat. 320, provided for the powers of the Reconstruction Finance Corporation, including appointment and pay of employees. It was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648, 654, 655.
 
@@ -50,7 +50,7 @@ Section 605k–1, acts Feb. 11, 1937, ch. 10, 50 Stat. 19; May 28, 1937, ch. 275
 
 Section 605l, act Jan. 31, 1935, ch. 2, §11, 49 Stat. 5, related to substitution of bonds or other evidence of indebtedness held by the Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208.
 
-Section 605m, acts Jan. 31, 1935, ch. 2, §3, 49 Stat. 2; June 25, 1940, ch. 427, §3(b), 54 Stat. 573; Sept. 18, 1940,ch. 722, title III, §331(c), 54 Stat. 956, related to maturity of loans made by the Corporation generally and to railroads in particular. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208, as amended May 25, 1948, ch. 334, §6, 62 Stat. 265.
+Section 605m, acts Jan. 31, 1935, ch. 2, §3, 49 Stat. 2; June 25, 1940, ch. 427, §3(b), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(c), 54 Stat. 956, related to maturity of loans made by the Corporation generally and to railroads in particular. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208, as amended May 25, 1948, ch. 334, §6, 62 Stat. 265.
 
 Section 606, acts Jan. 22, 1932, ch. 8, §7, 47 Stat. 8; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, authorized the Reconstruction Finance Corporation to issue notes, bonds, etc., which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. A prior section 606, act Jan. 22, 1932, ch. 8, §5a, 47 Stat. 8, was omitted in the general revision of act Jan. 22, 1932, by act June 30, 1947, ch. 166. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
@@ -102,7 +102,7 @@ Section 609a–1, act June 22, 1946, ch. 445, §1, 60 Stat. 294, was from the De
 
 Section 609b, act June 16, 1933, ch. 90, title III, §302, 48 Stat. 210, decreased by $400,000,000 the amount of obligations the Corporation could have outstanding. It was repealed by act of June 30, 1947, ch. 166, title II, §206(c), 61 Stat. 208.
 
-Section 609b–1, formerly 609bb, act Jan. 20, 1934, ch. 3, §3, 48 Stat. 319, increased by $850,000,000 the amount of obligations the Corporation could have outstanding. Itwas repealed by act of June 30, 1947, ch. 166, title II, §206(g), 61 Stat. 208.
+Section 609b–1, formerly 609bb, act Jan. 20, 1934, ch. 3, §3, 48 Stat. 319, increased by $850,000,000 the amount of obligations the Corporation could have outstanding. It was repealed by act of June 30, 1947, ch. 166, title II, §206(g), 61 Stat. 208.
 
 Section 609c, act May 12, 1933, ch. 25, title II, §38, 48 Stat. 50, increased by $300,000,000 the amount of obligations the Corporation could have outstanding, to provide funds for agricultural credits. It was repealed by act of June 30, 1947, ch. 166, title II, §206(c), 61 Stat. 208.
 

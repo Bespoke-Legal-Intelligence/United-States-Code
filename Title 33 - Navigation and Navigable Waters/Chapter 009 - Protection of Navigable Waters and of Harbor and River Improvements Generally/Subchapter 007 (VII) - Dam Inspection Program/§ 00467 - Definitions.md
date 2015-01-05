@@ -2,11 +2,15 @@
 
 In this subchapter, the following definitions apply:
 
-#### (1) Board
+#### (1) Administrator
+
+&emsp;The term "Administrator" means the Administrator of the Federal Emergency Management Agency.
+
+#### (2) Board
 
 &emsp;The term "Board" means a National Dam Safety Review Board established under section 467f(f) of this title.
 
-#### (2) Dam
+#### (3) Dam
 
 &emsp;The term "dam"—
 
@@ -32,11 +36,7 @@ In this subchapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;&emsp;(II) has a storage capacity at the maximum water storage elevation that is 15 acre-feet or less regardless of height;
 
-&emsp;&emsp;&nbsp;unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Director).
-
-#### (3) Director
-
-&emsp;The term "Director" means the Administrator of FEMA.
+&emsp;&emsp;&nbsp;unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Administrator).
 
 #### (4) Federal agency
 
@@ -78,7 +78,7 @@ In this subchapter, the following definitions apply:
 
 &emsp;The term "United States", when used in a geographical sense, means all of the States.
 
-(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 113–121, title III, §3001(a), June 10, 2014, 128 Stat. 1282.)
 
 #### Prior Provisions
 
@@ -88,13 +88,17 @@ A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–121, §3001(a)(1), substituted "Administrator" for "Director" wherever appearing.
+
+Par. (1). Pub. L. 113–121, §3001(a)(2)(C), added par. (1). Former par. (1) redesignated (2).
+
+Par. (2). Pub. L. 113–121, §3001(a)(2)(B), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+Par. (3). Pub. L. 113–121, §3001(a)(2)(A), (B), redesignated par. (2) as (3) and struck out former par. (3). Prior to amendment, text read as follows: "The term 'Administrator' means the Administrator of FEMA."
+
 <b>2002</b>—Par. (1). Pub. L. 107–310, §3(e)(2)(A), substituted "section 467f(f)" for "section 467f(h)".
 
 Par. (12). Pub. L. 107–310, §3(e)(2)(B), substituted "section 467f(e)" for "section 467f(f)".
-
-#### Change of Name
-
-"Administrator of FEMA" substituted for "Director of FEMA" in par. (3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Short Title of 2006 Amendment
 
@@ -114,9 +118,9 @@ Pub. L. 92–367, §1, as added by Pub. L. 104–303, title II, §215(c)(1), Oct
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Congressional Statement of Purpose; National Dam Safety Program
 

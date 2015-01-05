@@ -2,7 +2,7 @@
 
 #### (a) Establishment; boundaries
 
-There is established as a unit of the national park system in the Commonwealth of Virginia the Manassas National Battlefield Park, which shall contain within its boundaries the important historical lands relating to the two battles of Manassas. The total area of the park shall not be greater than four thousand five hundred and twenty-five acres. The boundaries of the park shall be the boundaries depicted on the map entitled "Boundary Map, Manassas National Battlefield Park", dated October 1980, and numbered 379/80,009, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary shall publish in the Federal Register, as soon as practicable after the date of the enactment of this Act, but no later than one year from the effective date of this section, a detailed description and map of the boundaries. Notwithstanding section 460l–9(c) of this title, the Secretary may not make any changes in the boundaries of the park. The Secretary shall administer the park in accordance with laws, rules, and regulations applicable to the national park system.
+There is established as a unit of the national park system in the Commonwealth of Virginia the Manassas National Battlefield Park, which shall contain within its boundaries the important historical lands relating to the two battles of Manassas. The total area of the park shall not be greater than four thousand five hundred and twenty-five acres. The boundaries of the park shall be the boundaries depicted on the map entitled "Boundary Map, Manassas National Battlefield Park", dated October 1980, and numbered 379/80,009, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary shall publish in the Federal Register, as soon as practicable after the date of the enactment of this Act, but no later than one year from the effective date of this section, a detailed description and map of the boundaries. Notwithstanding section 100506(c) of title 54, the Secretary may not make any changes in the boundaries of the park. The Secretary shall administer the park in accordance with laws, rules, and regulations applicable to the national park system.
 
 #### (b) Addition to park
 
@@ -26,11 +26,15 @@ The Secretary shall not allow any unauthorized use of the Addition after Novembe
 
 The date of the enactment of this Act and effective date of this Act, referred to in subsec. (a), probably means the date of the enactment of the Manassas National Battlefield Park Amendments of 1980, Pub. L. 96–442, which was approved Oct. 13, 1980.
 
+#### Codification
+
+In subsec. (a), "section 100506(c) of title 54" substituted for "section 7(c) of the Land and Water Conservation Fund Act of 1965 (91 Stat. 211), as amended (16 U.S.C. 460l)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–647 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-<b>1980</b>—Pub. L. 96–442 substituted a referenced map for specific boundaries, limited the expanded battlefield park to 4,525 acres, included the park in the National Park System, required the Secretary to publish more detailed map, prohibited the Secretary from making boundary adjustments and required him to administer the Park in accordance with the laws and regulations applicable to the National Park System.
+<b>1980</b>—Pub. L. 96–442 substituted a referenced map for specific boundaries, limited the expanded battlefield park to 4,525 acres, included the park in the NationalPark System, required the Secretary to publish more detailed map, prohibited the Secretary from making boundary adjustments and required him to administer the Park in accordance with the laws and regulations applicable to the National Park System.
 
 #### Short Title of 1988 Amendment
 
@@ -46,7 +50,7 @@ Pub. L. 100–647, title X, §10004, Nov. 10, 1988, 102 Stat. 3811, provided tha
 
 "(a)
 
-Study.—The Secretary of the Interior (hereafter in this section referred to as the 'Secretary'), in consultation and consensus with the Commonwealth of Virginia, the Federal Highway Administration, and Prince William County, shall conduct a study regarding the relocation of highways (known as routes 29 and 234) in, and in the vicinity of, the Manassas National Battlefield Park (hereinafter in this section referred to as the 'park'). The study shall include an assessment of the available alternatives, together with cost estimates and recommendations regarding preferred options. The study shall specifically consider and develop plans for the closing of those public highways (known as routes29 and 234) that transect the park and shall include analysis of the timing and method of such closures and of means to provide alternative routes for traffic now transecting the park. The Secretary shall provide for extensive public involvement in the preparation of the study.
+Study.—The Secretary of the Interior (hereafter in this section referred to as the 'Secretary'), in consultation and consensus with the Commonwealth of Virginia, the Federal Highway Administration, and Prince William County, shall conduct a study regarding the relocation of highways (known as routes 29 and 234) in, and in the vicinity of, the Manassas National Battlefield Park (hereinafter in this section referred to as the 'park'). The study shall include an assessment of the available alternatives, together with cost estimates and recommendations regarding preferred options. The study shall specifically consider and develop plans for the closing of those public highways (known as routes 29 and 234) that transect the park and shall include analysis of the timing and method of such closures and of means to provide alternative routes for traffic now transecting the park. The Secretary shall provide for extensive public involvement in the preparation of the study.
 
 "(b)
 

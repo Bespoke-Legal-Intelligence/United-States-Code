@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants under subsection (b) to protection and advocacy systems in each State for the purpose of enabling suchsystems to assist in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services for individuals with disabilities.
+&emsp;The Secretary shall make grants under subsection (b) to protection and advocacy systems in each State for the purpose of enabling such systems to assist in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services for individuals with disabilities.
 
 #### (2) General authorities
 

@@ -4,35 +4,16 @@
 
 (b) The age and service requirements for retirement under subsection (a) of this section are as follows:
 
-<b>Attained age:</b>
+&nbsp;
 
-<b>Years of service:</b>
-
-&emsp;&emsp;65
-
-15&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;66
-
-14&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;67
-
-13&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;68
-
-12&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;69
-
-11&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;70
-
-10&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>Attained age:</b> | <b>Years of service:</b> |
+| :--- | ---: |
+| 65 | 15 |
+| 66 | 14 |
+| 67 | 13 |
+| 68 | 12 |
+| 69 | 11 |
+| 70 | 10 |
 
 (c)(1) Any judge or former judge who is receiving an annuity pursuant to this section may elect to become a senior judge of the court upon which he served before retiring.
 
@@ -102,7 +83,7 @@ Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the U
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notesset out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant toProc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Election, Recall, Status, Compensation, Conduct, and Termination of Senior Judges
 

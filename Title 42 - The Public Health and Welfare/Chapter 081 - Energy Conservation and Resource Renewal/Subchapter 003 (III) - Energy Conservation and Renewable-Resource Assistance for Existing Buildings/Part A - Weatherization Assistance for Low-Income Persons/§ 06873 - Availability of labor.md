@@ -1,6 +1,6 @@
 ### §6873. Availability of labor
 
-The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Older American Community Service Employment Act,<sup>1</sup> available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], section 222(a)(12) <sup>1</sup> of the Economic Opportunity Act of 1964 \[42 U.S.C.2809(a)(12)\], and section 504 of the Housing Act of 1949 \[42 U.S.C. 1474\]:
+The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Older American Community Service Employment Act,<sup>1</sup> available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], section 222(a)(12) <sup>1</sup> of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(12)\], and section 504 of the Housing Act of 1949 \[42 U.S.C. 1474\]:
 
 &emsp;(1) First, the Secretary of Energy (in consultation with the Director of the Community Services Administration, the Secretary of Agriculture, and the Secretary of Labor) shall determine the number of individuals needed to supply sufficient labor to carry out such weatherization programs in the various areas of the country.
 
@@ -8,7 +8,11 @@ The following actions shall be taken in order to assure that there is a sufficie
 
 &emsp;(3) After such areas are identified, the Secretary of Labor shall take steps to assure that such weatherization programs are supported to the maximum extent practicable in such areas by such volunteers and training participants and public service employment workers.
 
-(Pub. L. 95–619, title II, §233, Nov. 9, 1978, 92 Stat. 3227; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(39), (f)(30)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
+(Pub. L. 95–619, title II, §233, Nov. 9, 1978, 92 Stat. 3227; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(39), (f)(30)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 113–128, title V, §512(v), July 22, 2014, 128 Stat. 1713.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–128, title V, §§506, 512(v), July 22, 2014, 128 Stat. 1703, 1713, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended by striking "a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 and the Older American Community Service Employment Act" and inserting "a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act and the Community Service Senior Opportunities Act". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -26,9 +30,15 @@ Section was enacted as a part of the National Energy Conservation Policy Act, an
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–128 substituted "a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act and the Community Service Senior Opportunities Act" for "a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 and the Older American Community Service Employment Act".
+
 <b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §405(f)(30)\], struck out "the Job Training Partnership Act or" after "assisted pursuant to".
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(39)\], which directed the substitution of "the Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "the Comprehensive Employment and Training Act of 1973" in introductory provisions, was executed by making the substitution for "the Comprehensive Employment Training Act of 1973" to reflect the probable intent of Congress.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendment
 

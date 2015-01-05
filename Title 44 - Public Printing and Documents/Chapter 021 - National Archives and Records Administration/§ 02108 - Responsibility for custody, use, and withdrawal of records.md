@@ -30,5 +30,43 @@ Subsec. (b). Pub. L. 98–497, §107(a)(2)(D), substituted "Archivist" for "Admi
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
+#### Procedures To Prevent Unauthorized Removal of Classified Records From National Archives
+
+Pub. L. 113–187, §6, Nov. 26, 2014, 128 Stat. 2010, provided that:
+
+"(a)
+
+Classified Records.—Not later than 90 days after the date of the enactment of this Act \[Nov. 26, 2014\], the Archivist shall prescribe internal procedures to prevent the unauthorized removal of classified records from the National Archives and Records Administration or the destruction or damage of such records, including when such records are accessed or searched electronically. Such procedures shall include, at a minimum, the following prohibitions:
+
+&emsp;"(1) An individual, other than covered personnel, may not view classified records in any room that is not secure, except in the presence of National Archives and Records Administration personnel or under video surveillance.
+
+&emsp;"(2) An individual, other than covered personnel, may not be left alone with classified records, unless that individual is under video surveillance.
+
+&emsp;"(3) An individual, other than covered personnel, may not review classified records while possessing any cellular phone, electronic personal communication device, or any other devices capable of photographing, recording, or transferring images or content.
+
+&emsp;"(4) An individual seeking access to review classified records, as a precondition to such access, must consent to a search of their belongings upon conclusion of their records review.
+
+&emsp;"(5) All notes and other writings prepared by an individual, other than covered personnel, during the course of a review of classified records shall be retained by the National Archives and Records Administration in a secure facility until such notes and other writings are determined to be unclassified, are declassified, or are securely transferred to another secure facility.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered personnel.—The term 'covered personnel' means any individual—
+
+&emsp;&emsp;"(A) who has an appropriate and necessary reason for accessing classified records, as determined by the Archivist; and
+
+&emsp;&emsp;"(B) who is either—
+
+&emsp;&emsp;&emsp;"(i) an officer or employee of the United States Government with appropriate security clearances; or
+
+&emsp;&emsp;&emsp;"(ii) any personnel with appropriate security clearances of a Federal contractor authorized in writing to act for purposes of this section by an officer or employee of the United States Government.
+
+&emsp;"(2)
+
+Records.—The term 'records' has the meaning given that term under section 3301 of title 44, United States Code."
+
 <i><sup>1</sup></i><i> So in original.</i>
 

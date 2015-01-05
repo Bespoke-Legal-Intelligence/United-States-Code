@@ -10,7 +10,7 @@ Motor carriers and freight forwarders.—A carrier providing transportation or s
 
 &emsp;(2)
 
-Freight forwarder.—A freight forwarder is both the receiving and delivering carrier. When a freight forwarder provides service and uses a motor carrier providingtransportation subject to jurisdiction under subchapter I of chapter 135 to receive property from a consignor, the motor carrier may execute the bill of lading or shipping receipt for the freight forwarder with its consent. With the consent of the freight forwarder, a motor carrier may deliver property for a freight forwarder on the freight forwarder's bill of lading, freight bill, or shipping receipt to the consignee named in it, and receipt for the property may be made on the freight forwarder's delivery receipt.
+Freight forwarder.—A freight forwarder is both the receiving and delivering carrier. When a freight forwarder provides service and uses a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 to receive property from a consignor, the motor carrier may execute the bill of lading or shipping receipt for the freight forwarder with its consent. With the consent of the freight forwarder, a motor carrier may deliver property for a freight forwarder on the freight forwarder's bill of lading, freight bill, or shipping receipt to the consignee named in it, and receipt for the property may be made on the freight forwarder's delivery receipt.
 
 (b)
 
@@ -30,7 +30,7 @@ Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier provi
 
 &emsp;&emsp;(B)
 
-Carrier notification.—If the motor carrier is not required to file its tariff with the Board, it shall provide under section 13710(a)(1) to the shipper, on request of the shipper, a written or electronic copy of the rate, classification, rules, and practices upon which any rate applicable to a shipment, or agreed to between the shipper and the carrier, is based. The copy provided by the carrier shall clearly state the dates of applicability of the rate, classification, rules, or practices.
+Carrier notification.—If the motor carrier is not required to file its tariff withthe Board, it shall provide under section 13710(a)(1) to the shipper, on request of the shipper, a written or electronic copy of the rate, classification, rules, and practices upon which any rate applicable to a shipment, or agreed to between the shipper and the carrier, is based. The copy provided by the carrier shall clearly state the dates of applicability of the rate, classification, rules, or practices.
 
 &emsp;&emsp;(C)
 

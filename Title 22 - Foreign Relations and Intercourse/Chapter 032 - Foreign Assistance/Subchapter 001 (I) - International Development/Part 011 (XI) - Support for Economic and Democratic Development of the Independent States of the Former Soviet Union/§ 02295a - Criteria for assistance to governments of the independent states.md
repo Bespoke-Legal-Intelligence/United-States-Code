@@ -10,7 +10,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(3) respect internationally recognized human rights, including the rights of minorities and the rights to freedom of religion and emigration;
 
-&emsp;(4) respect international law and obligations and adhere to the Helsinki Final Act of the Conference on Security and Cooperation in Europe and the Charter of Paris, including the obligations to refrain from the threat or use of force and to settle disputes peacefully;
+&emsp;(4) respect international law and obligations and adhere to the Helsinki Final Act of theConference on Security and Cooperation in Europe and the Charter of Paris, including the obligations to refrain from the threat or use of force and to settle disputes peacefully;
 
 &emsp;(5) cooperate in seeking peaceful resolution of ethnic and regional conflicts;
 
@@ -56,7 +56,7 @@ The President shall not provide assistance under this part—
 
 #### (c) Exceptions to ineligibility
 
-Assistance prohibited by subsection (b) of this section or any similar provision of law, other than assistance prohibited by the provisions referred to in subsection (b)(4) of this section, may be furnished under any of the following circumstances:
+Assistance prohibited by subsection (b) or any similar provision of law, other than assistance prohibited by the provisions referred to in subsection (b)(4), may be furnished under any of the following circumstances:
 
 &emsp;(1) The President determines that furnishing such assistance is important to the national interest of the United States.
 
@@ -76,7 +76,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 #### (2) Waiver
 
-&emsp;(A) The President may waive the requirement of paragraph (1) to withhold assistance if the President certifies to the appropriate congressional committees that the provision of such assistance is important to the national security of the United States, and, in the case of such a certification made with respect to Russia, if the President certifies that the Russian Government has assured the United States Government that the Russian Government is not sharing intelligence data collected at the Lourdes facility with officials or agents of the Cuban Government.
+&emsp;(A) The President may waive the requirement of paragraph (1) to withhold assistance if the President certifies to the appropriate congressional committees that the provision ofsuch assistance is important to the national security of the United States, and, in the case of such a certification made with respect to Russia, if the President certifies that the Russian Government has assured the United States Government that the Russian Government is not sharing intelligence data collected at the Lourdes facility with officials or agents of the Cuban Government.
 
 &emsp;(B) At the time of a certification made with respect to Russia under subparagraph (A), the President shall also submit to the appropriate congressional committees a report describing the intelligence activities of Russia in Cuba, including the purposes for which the Lourdes facility is used by the Russian Government and the extent to which the Russian Government provides payment or government credits to the Cuban Government for the continued use of the Lourdes facility.
 
@@ -106,7 +106,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of thisAct to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Cooperative Threat Reduction Act of 1993, referred to in subsec. (d)(3)(G), is title XII of div. A of Pub. L. 103–160, Nov. 30, 1993, 107 Stat. 1777, which is classified generally to chapter 68A (§5951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5951 of this title and Tables.
 

@@ -80,7 +80,7 @@ Pub. L. 104–208, div. A, title II, §2701, Sept. 30, 1996, 110 Stat. 3009–47
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: "This Act \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1441a, 1462a, 1820, 1821, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215, 1828, 3104, 3105, and 3107 of this title, section 1927 of Title 7, and section 5112 of Title 31, Money and Finance, and amending provisions set out as notes under this section and sections 5111 and 5112 of Title 31\] may be cited as the 'Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994'."
+Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: "This Act \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1441a, 1462a, 1820, 1821, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215, 1828, 3104, 3105, and 3107 of this title, section 1927 of Title 7, and section 5112 of Title 31, Money and Finance, and amending provisions set out as notes under this section and sections 5111 and 5112 of Title 31\] may becited as the 'Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994'."
 
 #### Short Title of 1993 Amendment
 
@@ -94,7 +94,7 @@ Pub. L. 102–485, §1, Oct. 23, 1992, 106 Stat. 2771, provided that: "This Act 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28,1992, 106 Stat. 4075, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Corporation Improvement Act of 1991'."
+Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28, 1992, 106 Stat. 4075, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Corporation Improvement Act of 1991'."
 
 Pub. L. 102–242, title II, §231, Dec. 19, 1991, 105 Stat. 2308, provided that: "This subtitle \[subtitle C (§§231–234) of title II of Pub. L. 102–242, enacting sections 1834, 1834a, and 1834b of this title and amending section 1817 of this title\] may be cited as the 'Bank Enterprise Act of 1991'."
 
@@ -296,7 +296,7 @@ Advisory Commission on Financial Services.—
 
 &emsp;"(1)
 
-Establishment.—There is established the Advisory Commission on Financial Services (hereafter in this section referred to as the 'Advisory Commission').
+Establishment.—There is established the Advisory Commission on Financial Services (hereafterin this section referred to as the 'Advisory Commission').
 
 &emsp;"(2)
 
@@ -624,7 +624,7 @@ Pub. L. 101–73, title XII, §1207, Aug. 9, 1989, 103 Stat. 523, provided that:
 
 &emsp;"(1) whether, and to what extent, the issuance of securities by the United States Government in small denominations benefits small investors, increases the participation of small investors in United States Government securities offerings, and promotes savings and thrift by the average United States taxpayer; and
 
-&emsp;"(2) additional measures the Secretary recommends be taken to expand the availability of securities issued by the United States Government to benefit small investors, increase their participation in United States Government securities offerings, andto promote savings and thrift by the average United States taxpayer."
+&emsp;"(2) additional measures the Secretary recommends be taken to expand the availability of securities issued by the United States Government to benefit small investors, increase their participation in United States Government securities offerings, and to promote savings and thrift by the average United States taxpayer."
 
 #### Expenditure of Taxpayer Money Only for Deposit Insurance Purposes
 

@@ -86,5 +86,5 @@ Amendment by Pub. L. 89–730 effective first day of second calendar month follo
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962,see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
+Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
 

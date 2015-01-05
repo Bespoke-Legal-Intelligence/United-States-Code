@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator of the Agency, in consultation with microenterprise institutions and other appropriate organizations, shall develop no fewer than two low-cost methods for implementing partner organizations to use to assess the poverty levels of their current incoming or prospective clients. The Administrator shall develop poverty indicators that correlate with the circumstances of the very poor.
+&emsp;The Administrator of the Agency, in consultation with microenterprise institutionsand other appropriate organizations, shall develop no fewer than two low-cost methods for implementing partner organizations to use to assess the poverty levels of their current incoming or prospective clients. The Administrator shall develop poverty indicators that correlate with the circumstances of the very poor.
 
 #### (2) Field testing
 

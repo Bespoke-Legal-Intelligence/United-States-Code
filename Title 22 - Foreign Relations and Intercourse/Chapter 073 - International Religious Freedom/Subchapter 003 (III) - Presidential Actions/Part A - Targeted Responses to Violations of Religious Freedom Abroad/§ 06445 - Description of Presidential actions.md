@@ -2,7 +2,7 @@
 
 #### (a) Description of Presidential actions
 
-Except as provided in subsection (d) of this section, the Presidential actions referred to in this subsection are the following:
+Except as provided in subsection (d), the Presidential actions referred to in this subsection are the following:
 
 &emsp;(1) A private demarche.
 
@@ -44,15 +44,15 @@ Except as provided in subsection (d) of this section, the Presidential actions r
 
 #### (b) Commensurate action
 
-Except as provided in subsection (d) of this section, the President may substitute any other action authorized by law for any action described in paragraphs (1) through (15) of subsection (a) of this section if such action is commensurate in effect to the action substituted and if the action would further the policy of the United States set forth in section 6401(b) of this title. The President shall seek to take all appropriate and feasible actions authorized by law to obtain the cessation of the violations. If commensurate action is taken, the President shall report such action, together with an explanation for taking such action, to the appropriate congressional committees.
+Except as provided in subsection (d), the President may substitute any other action authorized by law for any action described in paragraphs (1) through (15) of subsection (a) if such action is commensurate in effect to the action substituted and if the action would further the policy of the United States set forth in section 6401(b) of this title. The President shall seek to take all appropriate and feasible actions authorized by law to obtain the cessation of the violations. If commensurate action is taken, the President shall report such action, together with an explanation for taking such action, to the appropriate congressional committees.
 
 #### (c) Binding agreements
 
-The President may negotiate and enter into a binding agreement with a foreign governmentthat obligates such government to cease, or take substantial steps to address and phase out, the act, policy, or practice constituting the violation of religious freedom. The entry into force of a binding agreement for the cessation of the violations shall be a primary objective for the President in responding to a foreign government that has engaged in or tolerated particularly severe violations of religious freedom.
+The President may negotiate and enter into a binding agreement with a foreign government that obligates such government to cease, or take substantial steps to address and phase out, the act, policy, or practice constituting the violation of religious freedom. The entry into force of a binding agreement for the cessation of the violations shall be a primary objective for the President in responding to a foreign government that has engaged in or tolerated particularly severe violations of religious freedom.
 
 #### (d) Exceptions
 
-Any action taken pursuant to subsection (a) or (b) of this section may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other humanitarian assistance.
+Any action taken pursuant to subsection (a) or (b) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other humanitarian assistance.
 
 (Pub. L. 105–292, title IV, §405, Oct. 27, 1998, 112 Stat. 2806.)
 

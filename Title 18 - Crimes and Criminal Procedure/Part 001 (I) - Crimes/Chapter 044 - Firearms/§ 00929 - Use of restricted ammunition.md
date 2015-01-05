@@ -28,7 +28,7 @@ Subsec. (a)(2). Pub. L. 100–690, §6212, amended par. (2) generally. Prior to 
 
 Pub. L. 99–308 designated existing provision as par. (1), substituted "violence or drug trafficking crime," for "violence" in three places, and added par. (2).
 
-Subsec. (b). Pub. L. 99–408, §8(2), amended subsec. (b) generally, substituting provisions that the court may not suspend sentence of any person convicted of a violation of this section or place the person on probation, that term of imprisonment may not run concurrently with other terms of imprisonment, and that the person is not eligible for parole during term of imprisonment, for provisions defining "armor-piercing ammunition" and "handgun".
+Subsec. (b). Pub. L. 99–408, §8(2), amended subsec. (b) generally, substituting provisions that the court may not suspend sentence of any person convicted of a violation of this section or place the person on probation, that term of imprisonment may not run concurrentlywith other terms of imprisonment, and that the person is not eligible for parole during term of imprisonment, for provisions defining "armor-piercing ammunition" and "handgun".
 
 #### Effective Date of 1986 Amendment
 

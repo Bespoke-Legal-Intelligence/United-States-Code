@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is established in the Research and Innovative Technology Administration the Bureau of Transportation Statistics.
+Establishment.—There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation the Bureau of Transportation Statistics.
 
 (b)
 
@@ -104,7 +104,7 @@ Duties.—The Director shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) the statistics proposed by the heads of the operating administrations of the Department to measure outputs and outcomes as required by the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285); and
 
-&emsp;&emsp;&emsp;&emsp;(II) at the request of the Secretary, any other data collected or statistical information published by the heads ofthe operating administrations of the Department; and
+&emsp;&emsp;&emsp;&emsp;(II) at the request of the Secretary, any other data collected or statistical information published by the heads of the operating administrations of the Department; and
 
 &emsp;&emsp;&emsp;(x) ensure that the statistics published under this section are readily accessible to the public, consistent with applicable security constraints and confidentiality interests.
 
@@ -112,13 +112,17 @@ Duties.—The Director shall—
 
 Access to Federal Data.—In carrying out subsection (b)(3)(B)(ii), the Director shall be given access to all safety data that the Director determines necessary to carry out that subsection that is held by the Department or any other Federal agency upon written request and subject to any statutory or regulatory restrictions.
 
-(Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 887.)
+(Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 887; amended Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574.)
 
 #### References in Text
 
 Executive Order 12906, referred to in subsec. (b)(3)(B)(vii), is Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, which is set out as a note under section 1457 of Title 43, Public Lands.
 
 The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(B)(ix)(I), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+
+#### Change of Name
+
+"Office of the Assistant Secretary for Research and Technology of the Department of Transportation" substituted for "Research and Innovative Technology Administration" in subsec. (a) on authority of title I of div. L of Pub. L. 113–76, set out in part as a Transfer of Duties and Powers note under section 112 of this title.
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Depar
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanic Americans
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extendeduntil Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(d), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -68,7 +68,7 @@ Sec. 2. <i>White House Initiative on Educational Excellence for Hispanics.</i>
 
 &emsp;(iv) ensuring that all Hispanic students have access to excellent teachers and school leaders, in part by supporting efforts to improve the recruitment, preparation, development, and retention of successful Hispanic teachers and school leaders and other effective teachers and school leaders responsible for the education of Hispanic students;
 
-&emsp;(v) reducing the dropout rate of Hispanic students and helping Hispanic students graduate from high school prepared for college and a career, in part by promoting a positive school climate and supporting successful and innovative dropout prevention and recovery strategies that better engage Hispanic youthsin their learning, help them catch up academically, and provide those who have left the educational system with pathways to reentry;
+&emsp;(v) reducing the dropout rate of Hispanic students and helping Hispanic students graduate from high school prepared for college and a career, in part by promoting a positive school climate and supporting successful and innovative dropout prevention and recovery strategies that better engage Hispanic youths in their learning, help them catch up academically, and provide those who have left the educational system with pathways to reentry;
 
 &emsp;(vi) increasing college access and success for Hispanic students and providing support to help ensure that a greater percentage of Hispanics complete college and contribute to the goal of having America again lead the world in the proportion of college graduates by 2020, in part through strategies to strengthen the capacity of Hispanic-Serving Institutions, community colleges, and other institutions of higher education serving large numbers of Hispanic students; and
 
@@ -156,7 +156,7 @@ Section 1. <i>Policy</i>. Over the course of America's history, African American
 
 However, substantial obstacles to equal educational opportunity still remain in America's educational system. African Americans lack equal access to highly effective teachers and principals, safe schools, and challenging college-preparatory classes, and they disproportionately experience school discipline and referrals to special education. African American student achievement not only lags behind that of their domestic peers by an average of two grade levels, but also behind students in almost every other developed nation. Over a third of African American students do not graduate from high school on time with a regular high school diploma, and only four percent of African American high school graduates interested in college are college-ready across a range of subjects. An even greater number of African American males do not graduate with a regular high school diploma, and African American males also experience disparate rates of incarceration.
 
-Significantly improving the educational outcomes of African Americans will provide substantial benefits for our country by, among other things, increasing college completion rates, productivity, employment rates, and the number of African American teachers. Enhanced educational outcomes lead to more productive careers, improved economic opportunity, and greater social well-being for all Americans. Complementing the role of Historically Black Colleges and Universities (HBCUs) in preparing generations of African American students for successful careers, and the work of my Administration's separate White House Initiative on Historically Black Colleges and Universities, this new Initiative's focus on improving all the sequential levels of education will produce a more effective educational continuum for all African American students.
+Significantly improving the educational outcomes of African Americans will provide substantial benefits for our country by, among other things, increasing college completion rates, productivity, employment rates, and the number of African American teachers. Enhanced educational outcomes lead to more productive careers, improved economic opportunity, and greater social well-being for all Americans. Complementing the role of Historically Black Colleges and Universities (HBCUs) in preparing generations of African American students for successful careers, and the work of my Administration's separate White House Initiative on Historically Black Colleges and Universities, this new Initiative's focus on improving all the sequential levels ofeducation will produce a more effective educational continuum for all African American students.
 
 To reach the ambitious education goals we have set for our Nation, as well as to ensure equality of access and opportunity for all, we must provide the support that will enable African American students to improve their level of educational achievement through rigorous and well-rounded academic and support services that will prepare them for college, a career, and a lifetime of learning.
 
@@ -208,7 +208,7 @@ Sec. 2. <i>White House Initiative on Educational Excellence for African American
 
 (c) <i>Interagency Working Group</i>.
 
-(1) There is established the Federal Interagency Working Group on Educational Excellence for African Americans (Working Group), which shall be convened and chaired by the Initiative's Executive Director and that shall support the efforts of the Initiative described in subsection (b) of this section.
+(1) There is established the Federal Interagency Working Group on Educational Excellence for AfricanAmericans (Working Group), which shall be convened and chaired by the Initiative's Executive Director and that shall support the efforts of the Initiative described in subsection (b) of this section.
 
 (2) The Working Group shall consist of senior officials from the Department, the White House Domestic Policy Council, the Department of Justice, the Department of Labor, the Department of Health and Human Services, the National Science Foundation, the Department of Defense, and such additional agencies and offices as the President may subsequently designate. Senior officials shall be designated by the heads of their respective agencies and offices.
 
@@ -236,7 +236,7 @@ The Commission shall meet periodically, but at least twice a year.
 
 (1) The Commission shall consist of not more than 25 members appointed by the President. The President shall designate one member of the Commission to serve as Chair. The Executive Director of the Initiative shall also serve as the Executive Director of the Commission and administer the work of the Commission. The Chair of the Commission shall work with the Executive Director to convene regular meetings of the Commission, determine its agenda, and direct its work, consistent with this order.
 
-(2) The Commission may include individuals with relevant experience or subject-matter expertise that thePresident deems appropriate, as well as individuals who may serve as representatives of a variety of sectors, including the education sector (early childhood education, elementary and secondary education, higher education (including HBCUs and PBIs), career and technical education, and adult education), labor organizations, research institutions, the military, corporate and financial institutions, public and private philanthropic organizations, and nonprofit and community-based organizations at the national, State, regional, or local levels.
+(2) The Commission may include individuals with relevant experience or subject-matter expertise that the President deems appropriate, as well as individuals who may serve as representatives of a variety of sectors, including the education sector (early childhood education, elementary and secondary education, higher education (including HBCUs and PBIs), career and technical education, and adult education), labor organizations, research institutions, the military, corporate and financial institutions, public and private philanthropic organizations, and nonprofit and community-based organizations at the national, State, regional, or local levels.
 
 (3) In addition to the 25 members appointed by the President, the Commission shall also include two members from the President's Board of Advisors on Historically Black Colleges and Universities (Board), designated by the President. In turn, the Board will henceforth include two members from the Commission, designated by the President. This reciprocal arrangement will foster direct communication and vital consultations that will benefit both bodies.
 
@@ -263,4 +263,106 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Extension of Term of President's Advisory Commission on Educational Excellence for African Americans
 
 Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
+
+Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Over the course of my Administration, we have made consistent progress on important goals such as reducing high school dropout rates and lowering unemployment and crime. Yet as the Congress, State and local governments, research institutions, and leading private-sector organizations have all recognized, persistent gaps in employment, educational outcomes, and career skills remain for many boys and young men of color throughout their lives.
+
+Many boys and young men of color will arrive at kindergarten less prepared than their peers in early language and literacy skills, leaving them less likely to finish school. Labor-force participation rates for young men of color have dropped, and far too many lack the skills they need to succeed. The disproportionate number of African American and Hispanic young men who are unemployed or involved in the criminal justice system undermines family and community stability and is a drag on State and Federal budgets. And, young men of color are far more likely to be victims of murder than their white peers, accounting for almost half of the country's murder victims each year. These outcomes are troubling, and they represent only a portion of the social and economic cost to our Nation when the full potential of so many boys and young men is left unrealized.
+
+By focusing on the critical challenges, risk factors, and opportunities for boys and young men of color at key life stages, we can improve their long-term outcomes and ability to contribute to the Nation's competiveness, economic mobility and growth, and civil society. Unlocking their full potential will benefit not only them, but all Americans.
+
+Therefore, I am establishing the My Brother's Keeper initiative, an interagency effort to improve measurably the expected educational and life outcomes for and address the persistent opportunity gaps faced by boys and young men of color. The initiative will help us determine the public and private efforts that are working and how to expand upon them, how the Federal Government's own policies and programs can better support these efforts, and how to better involve State and local officials, the private sector, and the philanthropic community.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. <i>My Brother's Keeper Task Force</i>. (a) There is established a My Brother's Keeper Task Force (Task Force) to develop a coordinated Federal effort to improve significantly the expected life outcomes for boys and young men of color (including African Americans, Hispanic Americans, and Native Americans) and their contributions to U.S. prosperity. The Task Force shall be chaired by the Assistant to the President and Cabinet Secretary. In addition to the Chair, the Task Force shall consist of the following members:
+
+(i) the Attorney General;
+
+(ii) the Secretary of Agriculture;
+
+(iii) the Secretary of Commerce;
+
+(iv) the Secretary of Defense;
+
+(v) the Secretary of Education;
+
+(vi) the Secretary of Health and Human Services;
+
+(vii) the Secretary of Housing and Urban Development;
+
+(viii) the Secretary of the Interior;
+
+(ix) the Secretary of Labor;
+
+(x) the Secretary of Transportation;
+
+(xi) the Director of the Office of Management and Budget;
+
+(xii) the Chair of the Council of Economic Advisers;
+
+(xiii) the Director of the Office of Personnel Management;
+
+(xiv) the Administrator of the Small Business Administration;
+
+(xv) the Chief Executive Officer of the Corporation for National and Community Service;
+
+(xvi) the Assistant to the President for Intergovernmental Affairs and Public Engagement;
+
+(xvii) the Director of the Domestic Policy Council;
+
+(xviii) the Director of the Office of Science and Technology Policy;
+
+(xix) the Director of the National Economic Council; and
+
+(xx) the heads of such other executive departments, agencies, and offices as the Chair may, from time to time, designate.
+
+(b) A member of the Task Force may designate a senior-level official who is from the member's department, agency, or office, and is a full-time officer or employee of the Federal Government, to perform the day-to-day Task Force functions of the member. At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this subsection, as appropriate.
+
+(c) The Deputy Secretary of Education shall serve as Executive Director of the Task Force, determine its agenda, convene regular meetings of the Task Force, and supervise its work under the direction of the Chair. The Department of Education shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. Each executive department or agency shall bear its own expenses for participating in the Task Force.
+
+Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall, consistent with applicable law, work across executive departments and agencies to:
+
+(i) develop a comprehensive public Web site, to be maintained by the Department of Education, that will assess, on an ongoing basis, critical indicators of life outcomes for boys and young men of color (and other ethnic, income, and relevant subgroups) in absolute and relative terms;
+
+(ii) assess the impact of Federal policies, regulations, and programs of general applicability on boys and young men of color, so as to develop proposals that will enhance positive outcomes and eliminate or reduce negative ones;
+
+(iii) create an Administration-wide, online public portal to identify and disseminate successful programs and practices that improve outcomes for boys and young men of color;
+
+(iv) recommend, where appropriate, incentives for the broad adoption by national, State, and local public and private decisionmakers of effective and innovative strategies and practices for providing opportunities to and improving outcomes for boys and young men of color;
+
+(v) consistent with applicable privacy laws and regulations, provide relevant Federal data assets and expertise to public and private efforts to increase opportunities and improve life outcomes for boys and young men of color, and explore ways to coordinate with State and local governments and non-governmental actors with useful data and expertise;
+
+(vi) ensure coordination with other Federal interagency groups and relevant public-private initiatives;
+
+(vii) work with external stakeholders to highlight the opportunities, challenges, and efforts affecting boys and young men of color; and
+
+(viii) recommend to the President means of ensuring sustained efforts within the Federal Government and continued partnership with the private sector and philanthropic community as set forth in this memorandum.
+
+(b) The Task Force shall focus on evidence-based intervention points and issues facing boys and young men of color up to the age of 25, with a particular focus on issues important to young men under the age of 15. Specifically, the Task Force shall focus on the following issues, among others: access to early childhood supports; grade school literacy; pathways to college and a career, including issues arising from school disciplinary action; access to mentoring services and support networks; and interactions with the criminal justice system and violent crime.
+
+(c) Within 30 days of the date of this memorandum, each member of the Task Force shall provide recommended indicators of life outcomes for the public Web site described in subsection (a)(i) of this section, and a plan for providing data on such indicators.
+
+(d) Within 45 days of the date of this memorandum, each member of the Task Force shall identify any relevant programs and data-driven assessments within the member's department or agency for consideration in the portal described in subsection (a)(iii) of this section.
+
+(e) Within 90 days of the date of this memorandum, the Task Force shall provide the President with a report on its progress and recommendations with respect to the functions set forth in subsection (a) of this section. Additionally, the Task Force shall provide, within 1 year of the date of this memorandum, a status report to the President regarding the implementation of this memorandum.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law or Executive Order to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Education is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

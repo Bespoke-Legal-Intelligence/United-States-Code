@@ -2,7 +2,7 @@
 
 #### (a) Implementation of requirement
 
-(1) A State plan under this subchapter shall not be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs), as of July 1, 1988, unless the State has submitted to the Secretary, by not later than such date, an amendment to such plan that—
+(1) A State plan under this subchapter shall not be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs), as of July 1, 1988, unless the State has submitted to the Secretary, by notlater than such date, an amendment to such plan that—
 
 &emsp;(A) specifically defines the hospitals so described (and includes in such definition any disproportionate share hospital described in subsection (b)(1) of this section which meets the requirements of subsection (d) of this section), and
 
@@ -74,7 +74,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;(ii) which does not offer nonemergency obstetric services to the general population as of December 22, 1987.
 
-(B) In the case of a hospital located in a rural area (as defined for purposes of section 1395ww ofthis title), in paragraph (1) the term "obstetrician" includes any physician with staff privileges at the hospital to perform nonemergency obstetric procedures.
+(B) In the case of a hospital located in a rural area (as defined for purposes of section 1395ww of this title), in paragraph (1) the term "obstetrician" includes any physician with staff privileges at the hospital to perform nonemergency obstetric procedures.
 
 (3) No hospital may be defined or deemed as a disproportionate share hospital under a State plan under this subchapter or under subsection (b) or (e) of this section unless the hospital has a medicaid inpatient utilization rate (as defined in subsection (b)(2) of this section) of not less than 1 percent.
 
@@ -163,7 +163,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraphs (6), (7), and (8) and subparagraph (E), the DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraphs (B) and (C) and paragraph (5), by thepercentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
+&emsp;&emsp;Except as provided in paragraphs (6), (7), and (8) and subparagraph (E), the DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraphs (B) and (C) and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
 
 #### (B) Limitation
 
@@ -177,7 +177,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;The DSH allotment for any State (other than a State with a DSH allotment determined under paragraph (5))—
 
-&emsp;&emsp;&emsp;(i) for fiscal year 2004 is equal to 116 percent of the DSH allotment for the State for fiscal year 2003 under this paragraph, notwithstanding subparagraph (B); and
+&emsp;&emsp;&emsp;(i) for fiscal year 2004 is equal to 116 percent of the DSH allotment for the Statefor fiscal year 2003 under this paragraph, notwithstanding subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) for each succeeding fiscal year is equal to the DSH allotment for the State for fiscal year 2004 or, in the case of fiscal years beginning with the fiscal year specified in subparagraph (D) for that State, the DSH allotment for the State for the previous fiscal year increased by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
 
@@ -243,7 +243,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;&emsp;Only with respect to fiscal year 2007, the DSH allotment for Tennessee for such fiscal year, notwithstanding the table set forth in paragraph (2) or the terms of the TennCare Demonstration Project in effect for the State, shall be the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount that the Secretary determines is equal to the Federal medical assistance percentage component attributable to disproportionate share hospital payment adjustments for the demonstration year ending in 2006 that is reflected in the budget neutrality provision of the TennCare Demonstration Project; and
+&emsp;&emsp;&emsp;&emsp;(I) the amount that the Secretary determines is equal to the Federal medicalassistance percentage component attributable to disproportionate share hospital payment adjustments for the demonstration year ending in 2006 that is reflected in the budget neutrality provision of the TennCare Demonstration Project; and
 
 &emsp;&emsp;&emsp;&emsp;(II) $280,000,000.
 
@@ -279,7 +279,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Only with respect to each of fiscal years 2007 through 2011, the DSH allotment for Hawaii for such fiscal year, notwithstanding the table set forth in paragraph (2),shall be $10,000,000. Only with respect to fiscal year 2012 for the period ending on December 31, 2011, the DSH allotment for Hawaii for such portion of the fiscal year, notwithstanding the table set forth in paragraph (2), shall be $2,500,000.
+&emsp;&emsp;&emsp;Only with respect to each of fiscal years 2007 through 2011, the DSH allotment for Hawaii for such fiscal year, notwithstanding the table set forth in paragraph (2), shall be $10,000,000. Only with respect to fiscal year 2012 for the period ending on December 31, 2011, the DSH allotment for Hawaii for such portion of the fiscal year, notwithstanding the table set forth in paragraph (2), shall be $2,500,000.
 
 #### (ii) State plan amendment
 
@@ -307,7 +307,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of fiscal years 2016 through 2020 the Secretary shall effect the following reductions:
+&emsp;&emsp;&emsp;For each of fiscal years 2017 through 2024 the Secretary shall effect the following reductions:
 
 #### (I) Reduction in DSH allotments
 
@@ -321,15 +321,23 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;&emsp;The aggregate reductions in DSH allotments for all States under clause (i)(I) shall be equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) $1,200,000,000 for fiscal year 2016;
+&emsp;&emsp;&emsp;&emsp;(I) $1,800,000,000 for fiscal year 2017;
 
-&emsp;&emsp;&emsp;&emsp;(II) $1,800,000,000 for fiscal year 2017;
+&emsp;&emsp;&emsp;&emsp;(II) $4,700,000,000 for fiscal year 2018;
 
-&emsp;&emsp;&emsp;&emsp;(III) $5,000,000,000 for fiscal year 2018;
+&emsp;&emsp;&emsp;&emsp;(III) $4,700,000,000 for fiscal year 2019;
 
-&emsp;&emsp;&emsp;&emsp;(IV) $5,600,000,000 for fiscal year 2019; and
+&emsp;&emsp;&emsp;&emsp;(IV) $4,700,000,000 for fiscal year 2020;
 
-&emsp;&emsp;&emsp;&emsp;(V) $4,000,000,000 for fiscal year 2020.
+&emsp;&emsp;&emsp;&emsp;(V) <sup>3</sup> $4,800,000,000 for fiscal year 2021;
+
+&emsp;&emsp;&emsp;&emsp;(VI) $5,000,000,000 for fiscal year 2022;
+
+&emsp;&emsp;&emsp;&emsp;(VII) $5,000,000,000 for fiscal year 2023; and
+
+&emsp;&emsp;&emsp;&emsp;(VIII) $4,400,000,000 for fiscal year 2024.
+
+&emsp;&emsp;&emsp;&emsp;(V) <sup>3</sup> $4,000,000,000 for fiscal year 2020.
 
 &emsp;&emsp;&nbsp;The Secretary shall distribute such aggregate reductions among States in accordance with subparagraph (B).
 
@@ -359,23 +367,9 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;&emsp;(iii) The methodology takes into account the extent to which the DSH allotment for a State was included in the budget neutrality calculation for a coverage expansion approved under section 1315 of this title as of July 31, 2009.
 
-#### (8) Special rules for calculating DSH allotments for certain fiscal years
+#### (8) Calculation of DSH allotments after reductions period
 
-#### (A) Fiscal year 2021
-
-&emsp;&emsp;Only with respect to fiscal year 2021, the DSH allotment for a State, in lieu of the amount determined under paragraph (3) for the State for that year, shall be equal to the DSH allotment for the State as reduced under paragraph (7) for fiscal year 2020, increased, subject to subparagraphs (B) and (C) of paragraph (3), and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for fiscal year 2020.
-
-#### (B) Fiscal year 2022
-
-&emsp;&emsp;Only with respect to fiscal year 2022, the DSH allotment for a State, in lieu of the amount determined under paragraph (3) for the State for that year, shall be equal to the DSH allotment for the State for fiscal year 2021, as determined under subparagraph (A), increased, subject to subparagraphs (B) and (C) of paragraph (3), and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for fiscal year 2021.
-
-#### (C) Fiscal year 2023
-
-&emsp;&emsp;Only with respect to fiscal year 2023, the DSH allotment for a State, in lieu of the amount determined under paragraph (3) for the State for that year, shall be equal to the DSH allotment for the State for fiscal year 2022, as determined under subparagraph (B), increased, subject to subparagraphs (B) and (C) of paragraph (3), and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for fiscal year 2022.
-
-#### (D) Subsequent fiscal years
-
-&emsp;&emsp;The DSH allotment for a State for fiscal years after fiscal year 2023 shall be calculated under paragraph (3) without regard to this paragraph and paragraph (7).
+&emsp;The DSH allotment for a State for fiscal years after fiscal year 2024 shall be calculated under paragraph (3) without regard to paragraph (7).
 
 #### (9) "State" defined
 
@@ -491,7 +485,7 @@ With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary 
 
 &emsp;The State shall annually submit to the Secretary an independent certified audit that verifies each of the following:
 
-&emsp;&emsp;(A) The extent to which hospitals in the State have reduced their uncompensated care costs to reflect the total amount ofclaimed expenditures made under this section.
+&emsp;&emsp;(A) The extent to which hospitals in the State have reduced their uncompensated care costs to reflect the total amount of claimed expenditures made under this section.
 
 &emsp;&emsp;(B) Payments under this section to hospitals that comply with the requirements of subsection (g) of this section.
 
@@ -501,7 +495,7 @@ With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary 
 
 &emsp;&emsp;(E) The State has separately documented and retained a record of all of its costs under this subchapter, claimed expenditures under this subchapter, uninsured costs in determining payment adjustments under this section, and any payments made on behalf of the uninsured from payment adjustments under this section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d), Dec. 8, 2003, 117 Stat. 2428–2430; Pub. L. 109–171, title VI, §6054(a), Feb. 8, 2006, 120 Stat. 96; Pub. L. 109–432, div. B, title IV, §404, Dec. 20, 2006, 120 Stat. 2995; Pub. L. 110–173, title II, §204, Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title II, §202, July 15, 2008, 122 Stat. 2591; Pub. L. 111–3, title VI, §616, Feb. 4, 2009, 123 Stat. 103; Pub. L. 111–5, div. B, title V, §5002, Feb. 17, 2009, 123 Stat. 502; Pub. L. 111–148, title II, §2551(a), title X, §10201(e), Mar. 23, 2010, 124 Stat. 312, 920; Pub. L. 111–152, title I, §1203, Mar. 30, 2010, 124 Stat. 1053; Pub. L. 112–96, title III, §3203, Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–240, title VI, §641, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–67, div. B, title II, §1204(a), Dec. 26, 2013, 127 Stat. 1199.)
+(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d), Dec. 8, 2003, 117 Stat. 2428–2430; Pub. L. 109–171, title VI, §6054(a), Feb. 8, 2006, 120 Stat. 96; Pub. L. 109–432, div. B, title IV, §404, Dec. 20, 2006, 120 Stat. 2995; Pub. L. 110–173, title II, §204, Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title II, §202, July 15, 2008, 122 Stat. 2591; Pub. L. 111–3, title VI, §616, Feb. 4, 2009, 123 Stat. 103; Pub. L. 111–5, div. B, title V, §5002, Feb. 17, 2009, 123 Stat. 502; Pub. L. 111–148, title II, §2551(a), title X, §10201(e), Mar. 23, 2010, 124 Stat. 312, 920; Pub. L. 111–152, title I, §1203, Mar. 30, 2010, 124 Stat. 1053;Pub. L. 112–96, title III, §3203, Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–240, title VI, §641, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–67, div. B, title II, §1204(a), Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §221(a), Apr. 1, 2014, 128 Stat. 1076.)
 
 #### References in Text
 
@@ -516,6 +510,12 @@ Prior to redesignation by Pub. L. 100–360, section 4112 of Pub. L. 100–203, 
 A prior section 1923 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(7)(A)(i). Pub. L. 113–93, §221(a)(1)(A), substituted "2017 through 2024" for "2016 through 2020" in introductory provisions.
+
+Subsec. (f)(7)(A)(ii)(I) to (VIII). Pub. L. 113–93, §221(a)(1)(B), added subcls. (I) to (VIII) and struck out former subcls. (I) to (IV) which related to amounts for fiscal years 2016 to 2019.
+
+Subsec. (f)(8). Pub. L. 113–93, §221(a)(2), added par. (8) and struck out former par. (8) which related to special rules for calculating DSH allotments for certain fiscal years.
 
 <b>2013</b>—Subsec. (f)(7)(A)(i). Pub. L. 113–67, §1204(a)(1)(A), substituted "2016" for "2014" in introductory provisions.
 
@@ -563,7 +563,7 @@ Subsec. (f)(7)(B)(ii). Pub. L. 111–148, §10201(e)(1)(B)(ii)(II), added subcls
 
 "(II) if the State is any other State, the applicable percentage is equal to the product of the percentage reduction in uncovered individuals for the fiscal year from the preceding fiscal year and 50 percent."
 
-Subsec. (f)(7)(E). Pub. L. 111–148, §10201(e)(1)(B)(ii)(III), which directed amendment of par. (7)(B) by substituting "50 percent" for "35 percent"in subpar. (E), was executed by making the substitution in par. (7)(E) to reflect the probable intent of Congress.
+Subsec. (f)(7)(E). Pub. L. 111–148, §10201(e)(1)(B)(ii)(III), which directed amendment of par. (7)(B) by substituting "50 percent" for "35 percent" in subpar. (E), was executed by making the substitution in par. (7)(E) to reflect the probable intent of Congress.
 
 Subsec. (f)(7)(G). Pub. L. 111–148, §10201(e)(1)(B)(ii)(IV), which directed amendment of par. (7)(B) by adding subpar. (G) at the end, was executed by adding subpar. (G) at end of par. (7) to reflect the probable intent of Congress.
 
@@ -587,7 +587,7 @@ Subsec. (f)(6)(B)(i). Pub. L. 111–3, §616(3)(A), substituted "2007 through 20
 
 <b>2008</b>—Subsec. (f)(6). Pub. L. 110–275, §202(1), substituted "fiscal years 2007 through 2009 and the first calendar quarter of fiscal year 2010" for "for fiscal year 2007 and portions of fiscal year 2008" in heading.
 
-Subsec. (f)(6)(A)(i). Pub. L. 110–275, §202(2)(A), in concluding provisions, substituted "fiscal years 2008 and 2009" for "fiscal year 2008 for the period ending on June 30, 2008", struck out "¾ of" before "the amount specified in the previous sentence", and inserted "Only with respect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Tennessee for such portion of the fiscal year, notwithstanding such table or terms, shall be ¼ of the amount specified in the first sentence for fiscal year 2007." at end.
+Subsec. (f)(6)(A)(i). Pub. L. 110–275, §202(2)(A), in concluding provisions, substituted "fiscal years 2008 and 2009" for "fiscal year 2008 for the period ending on June 30, 2008", struck out "¾ of" before "the amount specified in the previous sentence", and inserted "Only withrespect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Tennessee for such portion of the fiscal year, notwithstanding such table or terms, shall be ¼ of the amount specified in the first sentence for fiscal year 2007." at end.
 
 Subsec. (f)(6)(A)(ii). Pub. L. 110–275, §202(2)(B), substituted ", 2008, 2009, or for a period in fiscal year 2010" for "or for a period in fiscal year 2008".
 
@@ -845,7 +845,7 @@ Period described.—The period described in this paragraph is the period that be
 
 "(4)
 
-Application to waivers.—With respect to a State operating under a waiver of the requirements of title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under section 1115 of such Act (42 U.S.C. 1315), the amount by which any payment adjustment made by the State under title XIX of such Act (42 U.S.C. 1396 et seq.), after the application of section 4721(e) of the Balanced Budget Act of 1997 under paragraph (1) to such State, exceeds the costs of furnishing hospital services provided by hospitals described in such section shall be fully reflected as an increase in the baseline expenditure limit for such waiver."
+Application to waivers.—With respect to a State operating under a waiver of the requirements of title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under section 1115 of such Act (42 U.S.C. 1315), the amount by which any payment adjustment made by the State under title XIX of such Act (42 U.S.C. 1396 et seq.), after the application of section 4721(e) of the Balanced Budget Act of 1997 under paragraph (1) to such State, exceeds the costs of furnishing hospital servicesprovided by hospitals described in such section shall be fully reflected as an increase in the baseline expenditure limit for such waiver."
 
 #### Assistance for Certain Public Hospitals
 
@@ -930,4 +930,6 @@ Pub. L. 102–234, §3(d), Dec. 12, 1991, 105 Stat. 1803, directed Prospective P
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be preceded by "a".</i>
+
+<i><sup>3</sup></i><i> So in original. Two subcls. (V) have been enacted.</i>
 

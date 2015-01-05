@@ -170,7 +170,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a physician at a Clinical Center of Excellence that is providing monitoring benefits under section 300mm–21 of this title for an enrolled WTC responder makes a determination that the responder has a WTC-related health condition that is in the list in subsection (a)(3) and that exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 1, 2001, terrorist attacks is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition—
+&emsp;&emsp;If a physician at a Clinical Center of Excellence that is providing monitoring benefits under section 300mm–21 of this title foran enrolled WTC responder makes a determination that the responder has a WTC-related health condition that is in the list in subsection (a)(3) and that exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 1, 2001, terrorist attacks is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition—
 
 &emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the medical facts supporting such determination; and
 
@@ -270,7 +270,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The WTC Program Administrator shall establish a program for paying for themedically necessary outpatient prescription pharmaceuticals prescribed under this subchapter for WTC-related health conditions through one or more contracts with outside vendors.
+&emsp;&emsp;&emsp;The WTC Program Administrator shall establish a program for paying for the medically necessary outpatient prescription pharmaceuticals prescribed under this subchapter for WTC-related health conditions through one or more contracts with outside vendors.
 
 #### (ii) Competitive bidding
 
@@ -294,7 +294,7 @@
 
 #### (2) Monitoring and initial health evaluation
 
-&emsp;The WTC Program Administrator shall reimburse the costs of monitoring and the costs of an initial health evaluation provided under this subchapter at a rate set by the Administrator by regulation.
+&emsp;The WTC Program Administrator shall reimburse the costs of monitoring and the costsof an initial health evaluation provided under this subchapter at a rate set by the Administrator by regulation.
 
 #### (3) Determination of medical necessity
 

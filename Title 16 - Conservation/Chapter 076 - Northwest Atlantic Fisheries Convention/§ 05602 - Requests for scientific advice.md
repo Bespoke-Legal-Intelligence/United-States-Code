@@ -2,7 +2,7 @@
 
 #### (a) Restriction
 
-The Representatives may not make a request or specification described in subsection (b)(1) or (2) of this section, respectively, unless the Representatives have first—
+The Representatives may not make a request or specification described in subsection (b)(1) or\(2) of this section, respectively, unless the Representatives have first—
 
 &emsp;(1) consulted with the appropriate Regional Fishery Management Councils; and
 

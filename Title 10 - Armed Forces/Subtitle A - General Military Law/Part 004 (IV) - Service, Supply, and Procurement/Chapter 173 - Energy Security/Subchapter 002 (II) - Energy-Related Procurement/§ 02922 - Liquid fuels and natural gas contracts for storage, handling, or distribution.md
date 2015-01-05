@@ -12,7 +12,7 @@ Period of Contract.—The period of a contract entered into under subsection (a)
 
 Option To Purchase Facility.—A contract under this section may contain an option for the purchase by the United States of the facility covered by the contract at the expiration or termination of the contract, without regard to subsections (a) and (b) of section 3324 of title 31, and before approval of title to the underlying land by the Attorney General.
 
-(Added Pub. L. 85–861, §1(46), Sept. 2, 1958, 72 Stat. 1457, §2388; amended Pub. L. 97–214,§10(a)(3), July 12, 1982, 96 Stat. 175; Pub. L. 97–258, §3(b)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–295, §1(27), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–510, div. A, title XIII, §1322(a)(6), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, §825, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 103–355, title III, §3064, Oct. 13, 1994, 108 Stat. 3337; renumbered §2922, Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.)
+(Added Pub. L. 85–861, §1(46), Sept. 2, 1958, 72 Stat. 1457, §2388; amended Pub. L. 97–214, §10(a)(3), July 12, 1982, 96 Stat. 175; Pub. L. 97–258, §3(b)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–295, §1(27), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–510, div. A, title XIII, §1322(a)(6), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, §825, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 103–355, title III, §3064, Oct. 13, 1994, 108 Stat. 3337; renumbered §2922, Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.)
 
 Historical and Revision Notes<br>1956
 
@@ -66,7 +66,7 @@ Subsecs. (a), (b). Pub. L. 103–160, §825(a)(1), added subsecs. (a) and (b) an
 
 Subsec. (c). Pub. L. 103–160, §825(a)(2), inserted heading.
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: "The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the terms of the contracts made under this section and the names of the contractors. The reports shall be made at such times and in such form as may be agreed upon by the Secretary and those Committees."
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: "The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the terms of the contracts made under this section and the names of the contractors. The reports shall be made at suchtimes and in such form as may be agreed upon by the Secretary and those Committees."
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–525 substituted "subsections (a) and (b) of section 3324" for "section 3324(a) and (b)".
 
@@ -79,6 +79,26 @@ Pub. L. 97–214, §10(a)(3), substituted "section 3648 of the Revised Statutes 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
+
+#### Notice of Purchase of Drop-In Fuel
+
+Pub. L. 113–291, div. A, title III, §316(c), (d), Dec. 19, 2014, 128 Stat. 3339, 3340, provided that:
+
+"(c)
+
+Notice of Purchase Required.—If the Secretary of Defense intends to purchase a drop-in fuel intended for operational use with a fully burdened cost in excess of 10 percent more than the fully burdened cost of a traditional fuel available for the same purpose, the Secretary shall provide notice of such intended purchase to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than 30 days before the date on which such purchase is intended to be made.
+
+"(d)
+
+Definitions.—In this section \[this note\]:
+
+&emsp;"(1) The term 'drop-in fuel' means a neat or blended liquid hydrocarbon fuel designed as a direct replacement for a traditional fuel with comparable performance characteristics and compatible with existing infrastructure and equipment.
+
+&emsp;"(2) The term 'traditional fuel' means a liquid hydrocarbon fuel derived or refined from petroleum.
+
+&emsp;"(3) The term 'operational purposes' means for the purposes of conducting military operations, including training, exercises, large scale demonstrations, and moving and sustaining military forces and military platforms. The term does not include research, development, testing, evaluation, fuel certification, or other demonstrations.
+
+&emsp;"(4) The term 'fully burdened cost' means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use."
 
 #### Purchases of Gasohol as Fuel for Motor Vehicles
 

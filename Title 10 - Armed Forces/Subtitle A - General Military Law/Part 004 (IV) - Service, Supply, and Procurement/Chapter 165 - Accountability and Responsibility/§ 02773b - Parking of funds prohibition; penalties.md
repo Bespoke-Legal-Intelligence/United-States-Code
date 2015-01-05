@@ -6,7 +6,7 @@ Prohibition.—An officer or employee of the Department of Defense may not direc
 
 (b)
 
-Penalties.—The direction of the designation of funds in violation of the prohibition insubsection (a) shall be treated for purposes of chapter 13 of title 31 as a violation of section 1341(a)(1)(A) of such title.
+Penalties.—The direction of the designation of funds in violation of the prohibition in subsection (a) shall be treated for purposes of chapter 13 of title 31 as a violation of section 1341(a)(1)(A) of such title.
 
 (Added Pub. L. 109–364, div. A, title X, §1053(a)(1), Oct. 17, 2006, 120 Stat. 2396.)
 

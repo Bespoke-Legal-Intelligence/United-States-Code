@@ -16,7 +16,7 @@ For purposes of this subchapter, the term—
 
 &emsp;(g) "Passamaquoddy Indian Territory" means those lands as defined in the Maine Implementing Act;
 
-&emsp;(h) "Passamaquoddy Tribe" means the Passamaquoddy Indian Tribe, as constituted in aboriginal times and all its predecessors and successors in interest. The Passamaquoddy Tribe is represented, as of October 10,1980, by the Joint Tribal Council of the Passamaquoddy Tribe, with separate councils at the Indian Township and Pleasant Point Reservations;
+&emsp;(h) "Passamaquoddy Tribe" means the Passamaquoddy Indian Tribe, as constituted in aboriginal times and all its predecessors and successors in interest. The Passamaquoddy Tribe is represented, as of October 10, 1980, by the Joint Tribal Council of the Passamaquoddy Tribe, with separate councils at the Indian Township and Pleasant Point Reservations;
 
 &emsp;(i) "Penobscot Indian Reservation" means those lands as defined in the Maine Implementing Act;
 

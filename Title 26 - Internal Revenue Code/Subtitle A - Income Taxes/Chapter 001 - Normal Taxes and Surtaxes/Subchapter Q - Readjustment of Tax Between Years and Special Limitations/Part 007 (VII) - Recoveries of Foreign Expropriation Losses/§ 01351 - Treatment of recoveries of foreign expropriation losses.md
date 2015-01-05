@@ -32,7 +32,7 @@ For purposes of this section, the term "foreign expropriation loss" means any lo
 
 #### (2) Computation
 
-&emsp;The increase in the tax for each taxable year referred to in paragraph (1) shall be computed in accordance with regulations prescribed by the Secretary. Such regulations shall give effect to previous recoveries of any kind (including recoveries described in section 111, relating to recovery of tax benefit items) with respect to any prior taxable year, but shall otherwise treat the tax previously determined for any taxable year in accordance with the principles set forth in section 1314(a) (relating to correction of errors). Subject to the provisions of paragraph (3), all credits allowable against the tax for any taxable year, and all carryovers and carrybacks affected by so decreasing the allowable deductions, shall be taken into account in computing the increase in the tax.
+&emsp;The increase in the tax for each taxable year referred to in paragraph (1) shall be computed in accordance with regulations prescribed bythe Secretary. Such regulations shall give effect to previous recoveries of any kind (including recoveries described in section 111, relating to recovery of tax benefit items) with respect to any prior taxable year, but shall otherwise treat the tax previously determined for any taxable year in accordance with the principles set forth in section 1314(a) (relating to correction of errors). Subject to the provisions of paragraph (3), all credits allowable against the tax for any taxable year, and all carryovers and carrybacks affected by so decreasing the allowable deductions, shall be taken into account in computing the increase in the tax.
 
 #### (3) Foreign taxes
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 42(a)(12) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+Amendment by section 42(a)(12) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, seesection 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 Amendment by section 211(b)(18) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
@@ -120,7 +120,7 @@ Amendment by section 474(r)(25) of Pub. L. 98–369 applicable to taxable years 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) ofPub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1976 Amendment
 

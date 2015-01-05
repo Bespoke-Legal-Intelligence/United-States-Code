@@ -8,7 +8,7 @@ The Secretary of Agriculture shall utilize, to the fullest extent practicable, t
 
 The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 The Congressional Budget Act of 1974, referred to in text, is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 298. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 

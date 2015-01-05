@@ -32,7 +32,7 @@ Nonrenewal for Lack of Funds.—If, by the first day of a fiscal year, sufficien
 
 (e)
 
-Release of Vessels From Obligations.—If funds are not appropriated for payments under an operating agreement under this chapter for any fiscal year by the 60th day of that fiscal year, then—
+Release of Vessels From Obligations.—If funds are not appropriated for payments underan operating agreement under this chapter for any fiscal year by the 60th day of that fiscal year, then—
 
 &emsp;(1) each vessel covered by the operating agreement is thereby released from any further obligation under the operating agreement;
 

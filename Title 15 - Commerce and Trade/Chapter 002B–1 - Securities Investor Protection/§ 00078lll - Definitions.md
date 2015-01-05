@@ -32,7 +32,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (3) Customer name securities
 
-&emsp;The term "customer name securities" means securities which were held for the account of a customer on the filing date by or on behalf of the debtor and which on the filing date were registered in the name of the customer, or were in the process of being so registered pursuant to instructions from the debtor, but does not include securities registered in the name of the customer which, by endorsement or otherwise, were in negotiable form.
+&emsp;The term "customer name securities" means securities which were held for the account ofa customer on the filing date by or on behalf of the debtor and which on the filing date were registered in the name of the customer, or were in the process of being so registered pursuant to instructions from the debtor, but does not include securities registered in the name of the customer which, by endorsement or otherwise, were in negotiable form.
 
 #### (4) Customer property
 
@@ -136,7 +136,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### References in Text
 
-This chapter, referred to in provision preceding par. (1), and in pars. (10) and (13), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in provision preceding par. (1), and in pars. (10) and (13), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636.For complete classification of this Act to the Code, see Tables.
 
 The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 

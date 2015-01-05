@@ -32,7 +32,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) other activities to facilitate return of the recovered person to military or civilian life as expeditiously as possible following such a separation.
 
-&emsp;(2) The term "recovered person" means an individual who is returned alive from separation (whether as an individual or a group)while participating in or in association with a United States-sponsored military activity or mission in which the individual was detained in isolation or held in captivity by a hostile entity.
+&emsp;(2) The term "recovered person" means an individual who is returned alive from separation (whether as an individual or a group) while participating in or in association with a United States-sponsored military activity or mission in which the individual was detained in isolation or held in captivity by a hostile entity.
 
 &emsp;(3) The term "reintegration", in the case of a recovered person, means—
 

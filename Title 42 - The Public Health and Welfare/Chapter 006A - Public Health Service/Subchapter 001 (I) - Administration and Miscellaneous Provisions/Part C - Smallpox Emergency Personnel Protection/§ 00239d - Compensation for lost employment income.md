@@ -62,7 +62,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), an eligible individual shall not be provided compensation under this section for the first 5 work days of loss of employment income.
+&emsp;&emsp;Except as provided in subparagraph (B), an eligible individual shall not be providedcompensation under this section for the first 5 work days of loss of employment income.
 
 #### (B) Exception
 

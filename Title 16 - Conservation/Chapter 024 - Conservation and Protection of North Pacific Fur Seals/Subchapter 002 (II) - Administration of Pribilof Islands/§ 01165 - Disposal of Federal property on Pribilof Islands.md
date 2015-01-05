@@ -20,7 +20,7 @@ The property transfer document described in subsection (a) of this section shall
 
 #### (c) Report to Congress on conveyed and retained properties
 
-Not later than 3 months after December 23, 2000, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resourcesof the House of Representatives a report that includes—
+Not later than 3 months after December 23, 2000, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report that includes—
 
 &emsp;(1) a description of all property specified in the document referred to in subsection (a) of this section that has been conveyed under that subsection;
 
@@ -74,7 +74,7 @@ Section 1166(a) of this title, referred to in subsec. (d)(6), was amended genera
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: "Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed."
+<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: "Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of theSenate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed."
 
 Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], and Pub. L. 106–562, §104(2), struck out subsec. (g) which read as follows: "The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section."
 

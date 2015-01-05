@@ -384,7 +384,7 @@ In general.—The Secretary shall carry out a technology and innovation deployme
 
 &emsp;&emsp;(A) significantly accelerating the adoption of innovative technologies by the surface transportation community;
 
-&emsp;&emsp;(B) providing leadership and incentives to demonstrate and promote state-of-the-arttechnologies, elevated performance standards, and new business practices in highway construction processes that result in improved safety, faster construction, reduced congestion from construction, and improved quality and user satisfaction;
+&emsp;&emsp;(B) providing leadership and incentives to demonstrate and promote state-of-the-art technologies, elevated performance standards, and new business practices in highway construction processes that result in improved safety, faster construction, reduced congestion from construction, and improved quality and user satisfaction;
 
 &emsp;&emsp;(C) constructing longer-lasting highways through the use of innovative technologies and practices that lead to faster construction of efficient and safe highways and bridges;
 

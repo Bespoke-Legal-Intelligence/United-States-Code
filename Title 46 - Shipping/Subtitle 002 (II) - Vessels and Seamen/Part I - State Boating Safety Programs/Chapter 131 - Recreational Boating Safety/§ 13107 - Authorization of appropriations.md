@@ -42,7 +42,7 @@ Historical and Revision Notes
 
 46:1479
 
-Section 13106 provides the Secretary with liquidating contract authority in an amount equal to the revenues received from the motor boat fuel tax. One third shall be used for State boating safety programs, and 2/3 shall be used for State facilities improvement programs. And as provided in Section 13102(f), the approval of a State's program makes it a contractual obligation of the United States Government to provide the amounts available.
+Section 13106 provides the Secretary with liquidating contract authority in an amount equal to the revenues received from the motor boat fuel tax. One third shall be used for State boating safety programs, and 2/3 shallbe used for State facilities improvement programs. And as provided in Section 13102(f), the approval of a State's program makes it a contractual obligation of the United States Government to provide the amounts available.
 
 #### References in Text
 
@@ -106,7 +106,7 @@ Subsec. (a)(2). Pub. L. 105–178, §7405(b)(2), substituted "available" for "ap
 
 Subsec. (c). Pub. L. 105–178, §7405(b)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: "An amount equal to one-half of the amount transferred for each fiscal year to the Boat Safety Account under section 9503(c)(4) of the Internal Revenue Code of 1986 (26 U.S.C. 9503(c)(4)) is available to the Secretary for expenditures out of the operating expenses account of the Coast Guard for services provided by the Coast Guard for recreational boating safety, including services provided by the Coast Guard Auxiliary. Expenditures for a fiscal year under this subsection shall not exceed expenditures for the fiscal year under subsection (a). Amounts made available by this subsection shall remain available until expended."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–448, §61(b)(1)(A), designated existing provisions as par. (1), added par. (2), and amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: "The Secretary may expend in each of the fiscal years 1985, 1986, 1987, and 1988, subject to amounts as are provided in appropriations laws for liquidation of contract authority, an amount equal to one-half for Fiscal Year 1987 and two-thirds for each Fiscal Year thereafter of the amount transferred for such fiscal year to the Boat Safety Account under section 9503(c)(4) of the Internal Revenue Code of 1986 (26 U.S.C. 9503(c)(4))."
+<b>1988</b>—Subsec. (a). Pub. L. 100–448, §61(b)(1)(A), designated existing provisions as par. (1), added par. (2), and amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: "The Secretary may expend in each of the fiscal years 1985, 1986, 1987, and 1988, subject to amounts as are provided in appropriations laws for liquidation of contract authority, an amount equal to one-half for Fiscal Year1987 and two-thirds for each Fiscal Year thereafter of the amount transferred for such fiscal year to the Boat Safety Account under section 9503(c)(4) of the Internal Revenue Code of 1986 (26 U.S.C. 9503(c)(4))."
 
 Subsec. (c). Pub. L. 100–448, §6(b)(2)(A), struck out "for Fiscal Year 1987 and one-third for each fiscal year thereafter." after "An amount equal to one-half" in first sentence.
 

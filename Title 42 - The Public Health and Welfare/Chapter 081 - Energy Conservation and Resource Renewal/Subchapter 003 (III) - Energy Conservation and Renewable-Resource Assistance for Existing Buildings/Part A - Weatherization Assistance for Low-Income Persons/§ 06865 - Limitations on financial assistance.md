@@ -140,7 +140,7 @@ Subsec. (c)(3), (4). Pub. L. 101–440, §7(e)(2), added pars. (3) and (4).
 
 Subsec. (d). Pub. L. 101–440, §7(i), added subsec. (d).
 
-Pub. L. 101–440, §7(f), struck out subsec. (d) which established a performance fund to provide financial assistance to those States the Secretary determined to have demonstrated the best performance during the previous fiscal year in providing weatherization assistance.
+Pub. L. 101–440, §7(f), struck out subsec. (d) which established a performance fund to provide financial assistance to those States the Secretary determined tohave demonstrated the best performance during the previous fiscal year in providing weatherization assistance.
 
 Subsec. (e). Pub. L. 101–440, §7(i), added subsec. (e).
 

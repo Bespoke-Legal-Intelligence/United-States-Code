@@ -42,7 +42,7 @@ There shall be in the Department a Deputy Secretary, who shall be appointed by t
 
 &emsp;(B) are well qualified to manage the nuclear weapons, nonproliferation, and materials disposition programs of the National Nuclear Security Administration in a manner that advances and protects the national security of the United States.
 
-(3) The Under Secretary for Nuclear Security shall serve as the Administrator for Nuclear Security under section 2402 of title 50. In carrying out the functions of the Administrator, the Under Secretary shall be subject to the authority, direction, and control of the Secretary. Such authority, direction, and control may bedelegated only to the Deputy Secretary of Energy, without redelegation.
+(3) The Under Secretary for Nuclear Security shall serve as the Administrator for Nuclear Security under section 2402 of title 50. In carrying out the functions of the Administrator, the Under Secretary shall be subject to the authority, direction, and control of the Secretary. Such authority, direction, and control may be delegated only to the Deputy Secretary of Energy, without redelegation.
 
 #### (d) Under Secretary
 
@@ -60,7 +60,7 @@ There shall be in the Department a Deputy Secretary, who shall be appointed by t
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–58, §1006(a), added subsec. (b) and struck out former subsec. (b) which read as follows: "There shall be in the Department an Under Secretary and a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe. The Under Secretary shall bear primary responsibility for energy conservation. The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5, and the General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5."
+<b>2005</b>—Subsec. (b). Pub. L. 109–58, §1006(a), added subsec. (b) and struck out former subsec. (b) which read as follows: "There shall be in the Department an Under Secretary and a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe.The Under Secretary shall bear primary responsibility for energy conservation. The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5, and the General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5."
 
 Subsecs. (d), (e). Pub. L. 109–58, §1006(c)(1), added subsecs. (d) and (e).
 

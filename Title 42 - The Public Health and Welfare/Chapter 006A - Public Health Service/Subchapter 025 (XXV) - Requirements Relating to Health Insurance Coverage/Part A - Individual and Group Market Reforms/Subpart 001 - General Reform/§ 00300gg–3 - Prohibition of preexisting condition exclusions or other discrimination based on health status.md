@@ -46,7 +46,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) Part A or part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\].
 
-&emsp;&emsp;(D) Title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than coverage consisting solely of benefits under section 1928 \[42 U.S.C. 1396s\].
+&emsp;&emsp;(D) Title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than coverageconsisting solely of benefits under section 1928 \[42 U.S.C. 1396s\].
 
 &emsp;&emsp;(E) Chapter 55 of title 10.
 
@@ -188,7 +188,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) was not under such a provision and either the coverage was terminated as a result of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
 
-&emsp;&emsp;(D) Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion of coverage described in subparagraph (C)(i) or termination of coverage or employer contribution described in subparagraph (C)(ii).
+&emsp;&emsp;(D) Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion ofcoverage described in subparagraph (C)(i) or termination of coverage or employer contribution described in subparagraph (C)(ii).
 
 #### (2) For dependent beneficiaries
 

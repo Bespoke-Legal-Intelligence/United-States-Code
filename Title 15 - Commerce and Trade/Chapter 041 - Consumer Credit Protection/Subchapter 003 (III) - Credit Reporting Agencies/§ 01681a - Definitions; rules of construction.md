@@ -170,13 +170,13 @@ Excluded Communications.—A communication is described in this subsection if it
 
 &emsp;&emsp;&emsp;(iii) in the case of consent under clause (i) or (ii) given orally, is provided written confirmation of that consent by the person making the communication, not later than 3 business days after the receipt of the consent by that person;
 
-&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making the communication, make any inquiry that if made by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
+&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making the communication, make any inquiry that ifmade by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
 
 &emsp;&emsp;(C) the person who makes the communication—
 
 &emsp;&emsp;&emsp;(i) discloses in writing to the consumer who is the subject of the communication, not later than 5 business days after receiving any request from the consumer for such disclosure, the nature and substance of all information in the consumer's file at the time of the request, except that the sources of any information that is acquired solely for use in making the communication and is actually used for no other purpose, need not be disclosed other than under appropriate discovery procedures in any court of competent jurisdiction in which an action is brought; and
 
-&emsp;&emsp;&emsp;(ii) notifies the consumer who is the subject of the communication, in writing, ofthe consumer's right to request the information described in clause (i).
+&emsp;&emsp;&emsp;(ii) notifies the consumer who is the subject of the communication, in writing, of the consumer's right to request the information described in clause (i).
 
 (p)
 
@@ -366,7 +366,7 @@ Subsec. (o)(1). Pub. L. 105–347, §6(2), substituted "(d)(2)(D)" for "(d)(2)(E
 
 Subsec. (o)(4). Pub. L. 105–347, §6(3), substituted "and" for "or" at end.
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end "The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title."
+<b>1996</b>—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end "The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval ofa specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title."
 
 Subsec. (k). Pub. L. 104–208, §2402(a), added subsec. (k).
 

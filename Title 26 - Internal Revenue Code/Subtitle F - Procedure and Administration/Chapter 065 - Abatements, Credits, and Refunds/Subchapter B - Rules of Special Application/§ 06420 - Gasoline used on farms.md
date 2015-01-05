@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes.
 
-> &emsp;In the case of an aerial applicator, gasoline shall be treated as used on a farm for farming purposes if the gasoline is used for the directflight between the airfield and one or more farms.
+> &emsp;In the case of an aerial applicator, gasoline shall be treated as used on a farm for farming purposes if the gasoline is used for the direct flight between the airfield and one or more farms.
 
 #### (5) Gasoline
 
@@ -218,7 +218,7 @@ Pub. L. 94–455, title XIX, §1906(b)(6)(B), Oct. 4, 1976, 90 Stat. 1834, provi
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–258 effective July 1, 1970, and applicable with respect to taxable years endingafter June 30, 1970, respectively, see section 211(a), (b) of Pub. L. 91–258, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 91–258 effective July 1, 1970, and applicable with respect to taxable years ending after June 30, 1970, respectively, see section 211(a), (b) of Pub. L. 91–258, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1965 Amendment
 

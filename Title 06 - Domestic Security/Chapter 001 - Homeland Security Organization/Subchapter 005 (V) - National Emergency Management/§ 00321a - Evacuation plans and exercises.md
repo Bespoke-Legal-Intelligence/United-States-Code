@@ -40,7 +40,7 @@ In developing the mass evacuation plans authorized under subsection (a), each St
 
 #### (2) Requested assistance
 
-&emsp;The Administrator shall make assistance available upon request of a State, local, or tribal government to assist hospitals, nursing homes, and other institutions that house individuals with special needs to establish, maintain, and exercise mass evacuation plans that are coordinated and integrated into the plans developed by that State, local, or tribal government under this section.
+&emsp;The Administrator shall make assistance available upon request of a State, local, or tribal government to assist hospitals, nursinghomes, and other institutions that house individuals with special needs to establish, maintain, and exercise mass evacuation plans that are coordinated and integrated into the plans developed by that State, local, or tribal government under this section.
 
 #### (d) Multipurpose funds
 
@@ -50,7 +50,7 @@ Nothing in this section may be construed to preclude a State, local, or tribal g
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(5)(A). Pub. L. 110–53 inserted “, including the elderly” after “needs”.
+<b>2007</b>—Subsec. (b)(5)(A). Pub. L. 110–53 inserted ", including the elderly" after "needs".
 
 #### Change of Name
 

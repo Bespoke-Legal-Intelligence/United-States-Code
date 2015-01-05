@@ -140,7 +140,7 @@ Pub. L. 107–201, §3(c), July 23, 2002, 116 Stat. 737, provided that:
 
 "(1)
 
-In general.—The Director of the United States Mint shall prepare and submit to Congress an annual report on the purchases of silver made pursuant to thisAct \[amending this section and enacting provisions set out as notes under this section and sections 5101 and 5112 of this title\] and the amendments made by this Act.
+In general.—The Director of the United States Mint shall prepare and submit to Congress an annual report on the purchases of silver made pursuant to this Act \[amending this section and enacting provisions set out as notes under this section and sections 5101 and 5112 of this title\] and the amendments made by this Act.
 
 "(2)
 

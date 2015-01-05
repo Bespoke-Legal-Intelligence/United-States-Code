@@ -42,7 +42,7 @@ Asset already in low, initial, or full-rate production.—If operational test an
 
 &emsp;&emsp;&emsp;(ii) an explanation of the actions that will be taken to correct or mitigate the safety concern in previously produced capabilities or assets and subsystems of the capabilities or assets, and the date by which those actions will be taken; and
 
-&emsp;&emsp;&emsp;(iii) an assessment of the adequacy of current funding to correct or mitigate the safety concern in capabilities or assets and subsystems of the capabilities or assetsand in previously produced capabilities or assets and subsystems.
+&emsp;&emsp;&emsp;(iii) an assessment of the adequacy of current funding to correct or mitigate the safety concern in capabilities or assets and subsystems of the capabilities or assets and in previously produced capabilities or assets and subsystems.
 
 (c)
 

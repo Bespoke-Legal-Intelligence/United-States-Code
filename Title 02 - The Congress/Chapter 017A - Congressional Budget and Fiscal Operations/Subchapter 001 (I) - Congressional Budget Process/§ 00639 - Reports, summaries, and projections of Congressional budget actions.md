@@ -10,7 +10,7 @@
 
 &emsp;(C) containing an estimate by the Congressional Budget Office of the level of new budget authority for assistance to State and local governments provided by such measure, if timely submitted before such report is filed.
 
-(2) Whenever a conference report is filed in either House and such conference report or any amendment reported in disagreement or any amendment contained in the joint statement of managers to be proposed by the conferees in the case of technical disagreement on such bill or joint resolution provides new budget authority (other than continuing appropriations) or provides an increase or decrease in revenues for a fiscal year (or fiscal years), the statement of managers accompanying such conference report shall contain the information described in paragraph (1), if available on a timely basis. If such information is not available when the conference report is filed, the committee shall make such information available to Members as soon as practicable prior to the consideration of such conference report.
+(2) Whenever a conference report is filed in either House and such conference report or any amendment reported in disagreement or any amendment contained in the joint statement ofmanagers to be proposed by the conferees in the case of technical disagreement on such bill or joint resolution provides new budget authority (other than continuing appropriations) or provides an increase or decrease in revenues for a fiscal year (or fiscal years), the statement of managers accompanying such conference report shall contain the information described in paragraph (1), if available on a timely basis. If such information is not available when the conference report is filed, the committee shall make such information available to Members as soon as practicable prior to the consideration of such conference report.
 
 (3) CBO
 
@@ -30,9 +30,9 @@ paygo estimates.—
 
 &emsp;(A) shall be made available on at least a monthly basis, but in any case frequently enough to provide Members of each House an accurate representation of the current status of congressional consideration of the budget;
 
-&emsp;(B) shall include, but are not limited to, summaries of tabulations provided under subsection (b)(1) of this section; and
+&emsp;(B) shall include, but are not limited to, summaries of tabulations provided under subsection (b)(1); and
 
-&emsp;(C) shall be based on information provided under subsection (b)(1) of this section without substantive revision.
+&emsp;(C) shall be based on information provided under subsection (b)(1) without substantive revision.
 
 > The chairman of the Committee on the Budget of the House of Representatives shall submit such reports to the Speaker.
 
@@ -62,39 +62,39 @@ Section was formerly classified to section 1329 of Title 31 prior to the general
 
 <b>2013</b>—Subsec. (d). Pub. L. 113–67 made technical amendment to heading in original Act.
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–139, §4(b)(1)(B), struck out “Reports on” before “Legislation” in heading.
+<b>2010</b>—Subsec. (a). Pub. L. 111–139, §4(b)(1)(B), struck out "Reports on" before "Legislation" in heading.
 
 Subsec. (a)(3). Pub. L. 111–139, §4(b)(1)(A), added par. (3).
 
 Subsec. (d). Pub. L. 111–139, §4(b)(2), added subsec. (d).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10110(1)(A), struck out “, new spending authority, or new credit authority,” after “new budget authority” in heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10110(1)(A), struck out ", new spending authority, or new credit authority," after "new budget authority" in heading.
 
-Subsec. (a)(1). Pub. L. 105–33, §10110(4), in introductory provisions, substituted “bill or joint resolution” for “bill or resolution” in two places.
+Subsec. (a)(1). Pub. L. 105–33, §10110(4), in introductory provisions, substituted "bill or joint resolution" for "bill or resolution" in two places.
 
-Pub. L. 105–33, §10110(1)(D), in introductory provisions, struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “continuing appropriations)”.
+Pub. L. 105–33, §10110(1)(D), in introductory provisions, struck out ", new spending authority described in section 651(c)(2) of this title, or new credit authority," after "continuing appropriations)".
 
-Subsec. (a)(1)(B). Pub. L. 105–33, §10110(1)(C), substituted “revenues, or tax expenditures” for “spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments”.
+Subsec. (a)(1)(B). Pub. L. 105–33, §10110(1)(C), substituted "revenues, or tax expenditures" for "spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments".
 
-Pub. L. 105–33, §10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “including an identification of any new spending authority described in section 651(c)(2) of this title which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
+Pub. L. 105–33, §10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "including an identification of any new spending authority described in section 651(c)(2) of this title which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;".
 
 Subsec. (a)(1)(C), (D). Pub. L. 105–33, §10110(1)(B), redesignated subpars. (C) and (D) as (B) and (C), respectively.
 
-Subsec. (a)(2). Pub. L. 105–33, §10110(4), substituted “bill or joint resolution” for “bill or resolution”.
+Subsec. (a)(2). Pub. L. 105–33, §10110(4), substituted "bill or joint resolution" for "bill or resolution".
 
-Pub. L. 105–33, §10110(1)(D), struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “continuing appropriations)”.
+Pub. L. 105–33, §10110(1)(D), struck out ", new spending authority described in section 651(c)(2) of this title, or new credit authority," after "continuing appropriations)".
 
-Subsec. (b)(1). Pub. L. 105–33, §10110(4), substituted “bills and joint resolutions” for “bills and resolutions” in two places.
+Subsec. (b)(1). Pub. L. 105–33, §10110(4), substituted "bills and joint resolutions" for "bills and resolutions" in two places.
 
-Pub. L. 105–33, §10110(2), struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “new budget authority”.
+Pub. L. 105–33, §10110(2), struck out ", new spending authority described in section 651(c)(2) of this title, or new credit authority," after "new budget authority".
 
-Subsec. (c)(3) to (5). Pub. L. 105–33, §10110(3), inserted “and” at end of par. (3), substituted a period for “; and” at end of par. (4), and struck out par. (5) which read as follows: “credit authority for each fiscal year in such period.”
+Subsec. (c)(3) to (5). Pub. L. 105–33, §10110(3), inserted "and" at end of par. (3), substituted a period for "; and" at end of par. (4), and struck out par. (5) which read as follows: "credit authority for each fiscal year in such period."
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §13206(a)(1), inserted “(or fiscal years)” after “fiscal year” in introductory provisions and in subpars. (A) and (C).
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §13206(a)(1), inserted "(or fiscal years)" after "fiscal year" in introductory provisions and in subpars. (A) and (C).
 
-Subsec. (a)(2). Pub. L. 101–508, §13206(b), inserted “(or fiscal years)” after “fiscal year”.
+Subsec. (a)(2). Pub. L. 101–508, §13206(b), inserted "(or fiscal years)" after "fiscal year".
 
-Subsec. (b)(1). Pub. L. 101–508, §13206(c), substituted “for each fiscal year covered by a concurrent resolution on the budget” for “for a fiscal year” in first sentence, and “the first fiscal year covered by the appropriate concurrent resolution” for “such fiscal year” in second sentence.
+Subsec. (b)(1). Pub. L. 101–508, §13206(c), substituted "for each fiscal year covered by a concurrent resolution on the budget" for "for a fiscal year" in first sentence, and "the first fiscal year covered by the appropriate concurrent resolution" for "such fiscal year" in second sentence.
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, designated existing provisions as par. (1), substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
 

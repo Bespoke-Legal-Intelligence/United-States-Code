@@ -32,7 +32,7 @@
 
 #### (5) Information required for release
 
-&emsp;If an examination is conducted, any information required for release shall be provided, either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
+&emsp;If an examination is conducted, any information required for release shall be provided,either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
 
 #### (b) Testing laboratories
 

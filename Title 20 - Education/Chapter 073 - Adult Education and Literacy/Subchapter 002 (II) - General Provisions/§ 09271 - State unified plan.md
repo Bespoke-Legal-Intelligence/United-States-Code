@@ -72,13 +72,17 @@ In this section, the term "appropriate Secretary" means the head of the Federal 
 
 #### (A) In general
 
-&emsp;&emsp;A portion of the State unified plan covering an activity or program described in subsection (b) of this section that is submitted to the appropriate Secretary under this section shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the appropriate Secretary receives the portion, unless the appropriate Secretary makes a written determination, during the 90-day period, that the portion is not consistent with the requirements of the Federal statute authorizing the activity or program including the criteria for approval of a plan or application,if any, under such statute or the plan is not consistent with the requirements of subsection (c)(3) of this section.
+&emsp;&emsp;A portion of the State unified plan covering an activity or program described in subsection (b) of this section that is submitted to the appropriate Secretary under this section shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the appropriate Secretary receives the portion, unless the appropriate Secretary makes a written determination, during the 90-day period, that the portion is not consistent with the requirements of the Federal statute authorizing the activity or program including the criteria for approval of a plan or application, if any, under such statute or the plan is not consistent with the requirements of subsection (c)(3) of this section.
 
 #### (B) Special rule
 
 &emsp;&emsp;In subparagraph (A), the term "criteria for approval of a State plan", relating to activities carried out under title I \[29 U.S.C. 2801 et seq.\] or II \[20 U.S.C. 9201 et seq.\] or under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretary regarding State performance measures, including levels of performance.
 
 (Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 109–270, §2(h)(7)–(9), Aug. 12, 2006, 120 Stat. 748; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
 
 #### References in Text
 
@@ -94,7 +98,7 @@ The Wagner-Peyser Act, referred to in subsec. (b)(2)(H), is act June 6, 1933, ch
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 357. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsec. (b)(2)(L), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(L), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42,The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (b)(2)(M), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title V of the Act, known as the "Older Americans Community Services Employment Act", is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
@@ -119,6 +123,10 @@ Pub. L. 109–270, §2(h)(8)(A), which directed the substitution of "career and 
 Subsec. (d)(2)(B). Pub. L. 109–270, §2(h)(9), substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Applied Technology Education Act".
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–277 inserted at end "For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program."
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2008 Amendment
 

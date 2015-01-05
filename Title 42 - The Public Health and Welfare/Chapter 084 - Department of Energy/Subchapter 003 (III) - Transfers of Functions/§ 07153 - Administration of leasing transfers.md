@@ -2,7 +2,7 @@
 
 #### (a) Authority retained by Secretary of the Interior
 
-The Secretary of the Interior shall retain any authorities not transferred under section 7152(b) <sup>1</sup> of this title and shall be solely responsible for the issuance and supervision of Federal leases and the enforcement of all regulations applicable to the leasing of mineral resources, including but not limited to lease terms and conditions and production rates. No regulation promulgated by the Secretary shall restrict or limit any authority retained by the Secretary of the Interior under section 7152(b) <sup>1</sup> of this title with respect to the issuance or supervision ofFederal leases. Nothing in section 7152(b) <sup>1</sup> of this title shall be construed to affect Indian lands and resources or to transfer any functions of the Secretary of the Interior concerning such lands and resources.
+The Secretary of the Interior shall retain any authorities not transferred under section 7152(b) <sup>1</sup> of this title and shall be solely responsible for the issuance and supervision of Federal leases and the enforcement of all regulations applicable to the leasing of mineral resources, including but not limited to lease terms and conditions and production rates. No regulation promulgated by the Secretary shall restrict or limit any authority retained by the Secretary of the Interior under section 7152(b) <sup>1</sup> of this title with respect to the issuance or supervision of Federal leases. Nothing in section 7152(b) <sup>1</sup> of this title shall be construed to affect Indian lands and resources or to transfer any functions of the Secretary of the Interior concerning such lands and resources.
 
 #### (b) Consultation with Secretary of the Interior with respect to promulgation of regulations
 
@@ -12,7 +12,7 @@ In exercising the authority under section 7152(b) <sup>1</sup> of this title to
 
 #### (d) Preparation of environmental impact statement
 
-The Department of the Interior shall be the lead agency for the purpose of preparation of an environmental impact statement required by section 4332(2)(C) of this title for any action with respect to the Federal leases taken under the authority of this section, unless the action involves only matters within the exclusive authority of the Secretary.
+The Department of the Interior shall be the lead agency for the purpose of preparation of an environmental impact statement required by section 4332(2)(C) of this title for any actionwith respect to the Federal leases taken under the authority of this section, unless the action involves only matters within the exclusive authority of the Secretary.
 
 (Pub. L. 95–91, title III, §303, Aug. 4, 1977, 91 Stat. 579; Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407.)
 

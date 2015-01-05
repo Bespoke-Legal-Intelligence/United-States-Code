@@ -66,7 +66,7 @@ Subject to subsection (e), the State shall—
 
 &emsp;&emsp;(B) Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX of this chapter), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices (such as through community health workers and others) that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX of this chapter but have not been enrolled previously in the medicaid program under that subchapter.
 
-&emsp;&emsp;(C) Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX of this chapter are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapteraffects the enrollment of children under both programs.
+&emsp;&emsp;(C) Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX of this chapter are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapter affects the enrollment of children under both programs.
 
 &emsp;&emsp;(D) An assessment of the effect of cost-sharing on utilization, enrollment, and coverage retention.
 
@@ -112,7 +112,7 @@ The State shall include the following information in the annual report required 
 
 &emsp;(5) If the State provides child health assistance in the form of premium assistance for the purchase of coverage under a group health plan, data regarding the provision of such assistance, including the extent to which employer-sponsored health insurance coverage is available for children eligible for child health assistance under the State child health plan, the range of the monthly amount of such assistance provided on behalf of a child or family, the number of children or families provided such assistance on a monthly basis, the income of the children or families provided such assistance, the benefits and cost-sharing protection provided under the State child health plan to supplement the coverage purchased with such premium assistance, the effective strategies the State engages in to reduce any administrative barriers to the provision of such assistance, and,<sup>2</sup> the effects, if any, of the provision of such assistance on preventing the coverage provided under the State child health plan from substituting for coverage provided under employer-sponsored health insurance offered in the State.
 
-&emsp;(6) To the extent applicable, a description of any State activities that are designed to reduce the number of uncovered children in the State, including through a State health insurance connector program or support for innovative private health coverage initiatives.
+&emsp;(6) To the extent applicable, a description of any State activities that are designed to reduce the number of uncovered children in theState, including through a State health insurance connector program or support for innovative private health coverage initiatives.
 
 &emsp;(7) Data collected and reported in accordance with section 300kk of this title, with respect to individuals enrolled in the State child health plan (and, in the case of enrollees under 19 years of age, their parents or legal guardians), including data regarding the primary language of such individuals, parents, and legal guardians.
 
@@ -124,7 +124,7 @@ The State shall include the following information in the annual report required 
 
 &emsp;&emsp;(A) The number of enrolled children by age grouping used for reporting purposes under section 1396a(a)(43) of this title.
 
-&emsp;&emsp;(B) For children within each such age grouping, information of the type containedin questions 12(a)–(c) of CMS Form 416 (that consists of the number of enrolled targeted low income children who receive any,<sup>2</sup> preventive, or restorative dental care under the State plan).
+&emsp;&emsp;(B) For children within each such age grouping, information of the type contained in questions 12(a)–(c) of CMS Form 416 (that consists of the number of enrolled targeted low income children who receive any,<sup>2</sup> preventive, or restorative dental care under the State plan).
 
 &emsp;&emsp;(C) For the age grouping that includes children 8 years of age, the number of such children who have received a protective sealant on at least one permanent molar tooth.
 

@@ -24,7 +24,7 @@ disability retirees.—
 
 &emsp;&emsp;(A)
 
-General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
+General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
 &emsp;&emsp;(B)
 
@@ -78,9 +78,23 @@ Other Definitions.—In this section:
 
 &emsp;(2) The term "retired pay" includes retainer pay, emergency officers' retirement pay, and naval pension.
 
-(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156; Pub. L. 112–239, div. A, title VI, §643(a), Jan. 2, 2013, 126 Stat. 1783.)
+(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1),Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156; Pub. L. 112–239, div. A, title VI, §643(a), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–76, div. C, title X, §10001(b)(1), Jan. 17, 2014, 128 Stat. 151.)
+
+#### Amendment of Subsection (b)(3)
+
+<i>Pub. L. 113–76, div. C, title X, §10001(b)(1), (c), Jan. 17, 2014, 128 Stat. 151, provided that, effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, subsection (b)(3) of this section is amended—</i>
+
+<i>(1) in subparagraph (A), by inserting ", with adjustment under paragraph (2) of section 1401a(b) of this title to which the member would have been entitled (but without the application of paragraph (4) of such section)," after "under any other provision of law"; and</i>
+
+<i>(2) in subparagraph (B), by striking "whichever is applicable to the member." and inserting "with adjustment under paragraph (2) of section 1401a(b) of this title to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member.".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(3)(A). Pub. L. 113–76, §10001(b)(1)(A), inserted ", with adjustment under paragraph (2) of section 1401a(b) of this title to which the member would have been entitled (but without the application of paragraph (4) of such section)," after "under any other provision of law".
+
+Subsec. (b)(3)(B). Pub. L. 113–76, §10001(b)(1)(B), substituted "with adjustment under paragraph (2) of section 1401a(b) of this title to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member." for "whichever is applicable to the member."
 
 <b>2013</b>—Subsec. (b)(3). Pub. L. 112–239 substituted "may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed" for "shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds" in subpars. (A) and (B).
 
@@ -117,6 +131,10 @@ Election of source.—An individual who is eligible for special compensation und
 Regulations.—The Secretary of Defense shall prescribe in regulations the manner and form of an election under this subsection."
 
 Subsec. (h). Pub. L. 108–136, §641(c)(1), inserted first sentence and inserted "for any other member" before "for any fiscal year".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of Pub. L. 113–76, set out as a note under section 1401a of this title.
 
 #### Effective Date of 2013 Amendment
 

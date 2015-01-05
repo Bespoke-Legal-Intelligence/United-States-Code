@@ -1,6 +1,6 @@
 ### §1375a. Use of fines for protection and recovery of manatees, polar bears, sea otters, and walruses
 
-On and after November 29, 1999, all fines collected by the United States Fish and Wildlife Service for violations of the Marine Mammal Protection Act (16 U.S.C. 1362–1407) and implementing regulations shall be available to theSecretary, without further appropriation, to be used for the expenses of the United States Fish and Wildlife Service in administering activities for the protection and recovery of manatees, polar bears, sea otters, and walruses, and shall remain available until expended.
+On and after November 29, 1999, all fines collected by the United States Fish and Wildlife Service for violations of the Marine Mammal Protection Act (16 U.S.C. 1362–1407) and implementing regulations shall be available to the Secretary, without further appropriation, to be used for the expenses of the United States Fish and Wildlife Service in administering activities for the protection and recovery of manatees, polar bears, sea otters, and walruses, and shall remain available until expended.
 
 (Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–139.)
 

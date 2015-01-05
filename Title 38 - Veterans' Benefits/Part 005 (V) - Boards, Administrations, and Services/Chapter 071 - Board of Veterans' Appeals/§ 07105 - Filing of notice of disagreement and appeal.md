@@ -1,6 +1,6 @@
 ### §7105. Filing of notice of disagreement and appeal
 
-(a) Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case isfurnished as prescribed in this section. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
+(a) Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
 
 (b)(1) Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereinafter referred to as the "agency of original jurisdiction"). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
 

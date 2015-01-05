@@ -32,11 +32,11 @@
 
 (f) For purposes of this section—
 
-&emsp;(1) the terms “employee”, “Federal Government”, and “uniformed services” have the same respective meanings as given those terms in section 4303 of title 38;
+&emsp;(1) the terms "employee", "Federal Government", and "uniformed services" have the same respective meanings as given those terms in section 4303 of title 38;
 
-&emsp;(2) the term “employing agency”, as used with respect to an employee entitled to any payments under this section, means the agency or other entity of the Government (including an agency referred to in section 2302(a)(2)(C)(ii)) with respect to which such employee has reemployment rights under chapter 43 of title 38; and
+&emsp;(2) the term "employing agency", as used with respect to an employee entitled to any payments under this section, means the agency or other entity of the Government (including an agency referred to in section 2302(a)(2)(C)(ii)) with respect to which such employee has reemployment rights under chapter 43 of title 38; and
 
-&emsp;(3) the term “basic pay” includes any amount payable under section 5304.
+&emsp;(3) the term "basic pay" includes any amount payable under section 5304.
 
 (Added Pub. L. 111–8, div. D, title VII, §751(a), Mar. 11, 2009, 123 Stat. 693; amended Pub. L. 111–117, div. C, title VII, §745(a), Dec. 16, 2009, 123 Stat. 3219.)
 
@@ -44,23 +44,23 @@
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–117 added subsec. (b) and struck out former subsec. (b), which read as follows:
 
-“(b)(1) Amounts under this section shall be payable with respect to each pay period (which would otherwise apply if the employee's civilian employment had not been interrupted)—
+"(b)(1) Amounts under this section shall be payable with respect to each pay period (which would otherwise apply if the employee's civilian employment had not been interrupted)—
 
-&emsp;“(A) during which such employee is entitled to reemployment rights under chapter 43 of title 38 with respect to the position from which such employee is absent (as referred to in subsection (a)); and
+&emsp;"(A) during which such employee is entitled to reemployment rights under chapter 43 of title 38 with respect to the position from which such employee is absent (as referred to in subsection (a)); and
 
-&emsp;“(B) for which such employee does not otherwise receive basic pay (including by taking any annual, military, or other paid leave) to which such employee is entitled by virtue of such employee's civilian employment with the Government.
+&emsp;"(B) for which such employee does not otherwise receive basic pay (including by taking any annual, military, or other paid leave) to which such employee is entitled by virtue of such employee's civilian employment with the Government.
 
-“(2) For purposes of this section, the period during which an employee is entitled to reemployment rights under chapter 43 of title 38—
+"(2) For purposes of this section, the period during which an employee is entitled to reemployment rights under chapter 43 of title 38—
 
-&emsp;“(A) shall be determined disregarding the provisions of section 4312(d) of title 38; and
+&emsp;"(A) shall be determined disregarding the provisions of section 4312(d) of title 38; and
 
-&emsp;“(B) shall include any period of time specified in section 4312(e) of title 38 within which an employee may report or apply for employment or reemployment following completion of service on active duty to which called or ordered as described in subsection (a).”
+&emsp;"(B) shall include any period of time specified in section 4312(e) of title 38 within which an employee may report or apply for employment or reemployment following completion of service on active duty to which called or ordered as described in subsection (a)."
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–117, div. C, title VII, §745(b), Dec. 16, 2009, 123 Stat. 3219, provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first applicable pay period beginning on or after the date of the enactment of this Act \[Dec. 16, 2009\].”
+Pub. L. 111–117, div. C, title VII, §745(b), Dec. 16, 2009, 123 Stat. 3219, provided that: "The amendments made by this section \[amending this section\] shall take effecton the first day of the first applicable pay period beginning on or after the date of the enactment of this Act \[Dec. 16, 2009\]."
 
 #### Effective Date
 
-Pub. L. 111–8, div. D, title VII, §751(c), Mar. 11, 2009, 123 Stat. 695, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to pay periods (as described in section 5538(b) of title 5, United States Code, as amended by this section) beginning on or after the date of enactment of this Act \[Mar. 11, 2009\].”
+Pub. L. 111–8, div. D, title VII, §751(c), Mar. 11, 2009, 123 Stat. 695, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to pay periods (as described in section 5538(b) of title 5, United States Code, as amended by this section) beginning on or after the date of enactment of this Act \[Mar. 11, 2009\]."
 

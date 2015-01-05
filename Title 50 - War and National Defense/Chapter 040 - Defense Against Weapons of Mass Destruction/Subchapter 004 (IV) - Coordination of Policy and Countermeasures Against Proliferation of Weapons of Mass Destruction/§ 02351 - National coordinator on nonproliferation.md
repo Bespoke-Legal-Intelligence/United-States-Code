@@ -12,7 +12,7 @@ The Coordinator, under the direction of the National Security Council, shall adv
 
 &emsp;(2) chairing the Committee on Nonproliferation of the National Security Council; and
 
-&emsp;(3) taking such actions as are necessary to ensure that there is appropriate emphasis in, cooperation on, and coordination of, nonproliferation research efforts of the United States, including activities of Federal agencies as well as activities of contractors funded by the Federal Government.
+&emsp;(3) taking such actions as are necessary to ensure that there is appropriate emphasis in,cooperation on, and coordination of, nonproliferation research efforts of the United States, including activities of Federal agencies as well as activities of contractors funded by the Federal Government.
 
 #### (c) Allocation of funds
 

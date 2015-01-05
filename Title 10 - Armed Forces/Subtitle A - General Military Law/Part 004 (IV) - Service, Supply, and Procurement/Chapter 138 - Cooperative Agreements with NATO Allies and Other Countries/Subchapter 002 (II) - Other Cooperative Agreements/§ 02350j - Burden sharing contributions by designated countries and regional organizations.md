@@ -38,7 +38,7 @@ Notice and Wait Requirements.—(1) When a decision is made to carry out a milit
 
 (2) The Secretary of Defense or the Secretary of a military department may not commence a military construction project under subsection (d) until the end of the 21-day period beginning on the date on which the Secretary of Defense submits the report under paragraph (1) regarding the project or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title.
 
-(3)(A) A military construction project under subsection (d) may be carried out without regard to the requirement in paragraph (1) and the limitation in paragraph (2) if the project is necessary to support the armed forces in the country or region in which the project is carried out by reason of a declaration of war, or a declaration by the President of a national emergencypursuant to the National Emergencies Act (50 U.S.C. 1601 et seq.), that is in force at the time of the commencement of the project.
+(3)(A) A military construction project under subsection (d) may be carried out without regard to the requirement in paragraph (1) and the limitation in paragraph (2) if the project is necessary to support the armed forces in the country or region in which the project is carried out by reason of a declaration of war, or a declaration by the President of a national emergency pursuant to the National Emergencies Act (50 U.S.C. 1601 et seq.), that is in force at the time of the commencement of the project.
 
 (B) When a decision is made to carry out a military construction project under subparagraph (A), the Secretary of Defense shall submit to the congressional defense committees—
 
@@ -48,7 +48,7 @@ Notice and Wait Requirements.—(1) When a decision is made to carry out a milit
 
 (f)
 
-Reports.—Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
+Reports.—Not later than 30 days after the end of each fiscal year, the Secretary of Defenseshall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
 
 &emsp;(1) the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
 

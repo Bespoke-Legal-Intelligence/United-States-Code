@@ -78,7 +78,7 @@ The economic effects of waterway user taxes and charges on—
 
 &emsp;&emsp;(A) commercial uses, and
 
-&emsp;&emsp;(B) other uses, including (but not limited to) recreation, reclamation, water supply,low-flow augmentation, fish and wildlife enhancement, hydroelectric power, flood control, and irrigation uses.
+&emsp;&emsp;(B) other uses, including (but not limited to) recreation, reclamation, water supply, low-flow augmentation, fish and wildlife enhancement, hydroelectric power, flood control, and irrigation uses.
 
 #### (e) Considerations relating to Federal assistance
 

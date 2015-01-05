@@ -44,5 +44,5 @@ Amendment by section 1901(a)(73) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable only if mailing occurred after Sept. 2, 1958, see section 89(d) of Pub.L. 85–866, set out as a note under section 7502 of this title.
+Amendment by Pub. L. 85–866 applicable only if mailing occurred after Sept. 2, 1958, see section 89(d) of Pub. L. 85–866, set out as a note under section 7502 of this title.
 

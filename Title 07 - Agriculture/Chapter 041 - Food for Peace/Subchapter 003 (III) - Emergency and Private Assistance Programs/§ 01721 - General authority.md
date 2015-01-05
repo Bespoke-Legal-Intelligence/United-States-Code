@@ -1,6 +1,6 @@
 ### §1721. General authority
 
-The President shall establish a program under this subchapter to provide agricultural commodities to foreign countries on behalf of the people of the United States to—
+The President shall establish a program under this subchapter (to be implemented by the Administrator) to provide agricultural commodities to foreign countries on behalf of the people of the United States to—
 
 &emsp;(1) address famine and food crises, and respond to emergency food needs, arising from man-made and natural disasters;
 
@@ -14,13 +14,15 @@ The President shall establish a program under this subchapter to provide agricul
 
 &emsp;(6) carry out feeding programs; and
 
-&emsp;(7) promote economic and nutritional security by increasing educational, training, and other productive activities.
+&emsp;(7) build resilience to mitigate and prevent food crises and reduce the future need for emergency aid.
 
-> Such program shall be implemented by the Administrator.
-
-(July 10, 1954, ch. 469, title II, §201, 68 Stat. 457; May 28, 1956, ch. 327, title II, §208(b), 70 Stat. 201; Aug. 3, 1956, ch. 933, §4, 70 Stat. 988; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 94–161, title II, §208, Dec. 20, 1975, 89 Stat. 853; Pub. L. 95–88, title II, §206, Aug. 3, 1977, 91 Stat. 547; Pub. L. 97–113, title IV, §404, Dec. 29, 1981, 95 Stat. 1538; Pub. L. 99–83, title X, §1002, Aug. 8, 1985, 99 Stat. 270; Pub. L. 99–198, title XI, §§1102, 1103, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624,title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 110–246, title III, §3007, June 18, 2008, 122 Stat. 1823.)
+(July 10, 1954, ch. 469, title II, §201, 68 Stat. 457; May 28, 1956, ch. 327, title II, §208(b), 70 Stat. 201; Aug. 3, 1956, ch. 933, §4, 70 Stat. 988; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 94–161, title II, §208, Dec. 20, 1975, 89 Stat. 853; Pub. L. 95–88, title II, §206, Aug. 3, 1977, 91 Stat. 547; Pub. L. 97–113, title IV, §404, Dec. 29, 1981, 95 Stat. 1538; Pub. L. 99–83, title X, §1002, Aug. 8, 1985, 99 Stat. 270; Pub. L. 99–198, title XI, §§1102, 1103, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 110–246, title III, §3007, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, §3001, Feb. 7, 2014, 128 Stat. 772.)
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–79 inserted "(to be implemented by the Administrator)" after "under this subchapter" in introductory provisions and struck out concluding provisions which read as follows: "Such program shall be implemented by the Administrator."
+
+Par. (7). Pub. L. 113–79, §3001(2), added par. (7) and struck out former par. (7). Prior to amendment, par. (7) read as follows: "promote economic and nutritional security by increasing educational, training, and other productive activities."
 
 <b>2008</b>—Par. (1). Pub. L. 110–246, §3007(1), added par. (1) and struck out former par. (1) which read as follows: "address famine or other urgent or extraordinary relief requirements;".
 
@@ -36,7 +38,7 @@ Par. (7). Pub. L. 110–246, §3007(2)(B)–(4), added par. (7).
 
 &emsp;"(2) for fiscal year 1981 shall be 1,650,000 metric tons, of which not less than 1,350,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program; and
 
-&emsp;"(3) for fiscal year 1982 and each fiscal year thereafter shall be 1,700,000 metric tons, of which not less than 1,200,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, except that for fiscal year 1986 the minimum quantity distributed shall be 1,800,000 metric tons, of which not less than 1,300,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, and for fiscal year 1987 the minimum quantity distributed shall be 1,900,000 metric tons, of which not less than 1,425,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program;
+&emsp;"(3) for fiscal year 1982 and each fiscal year thereafter shall be 1,700,000 metric tons, of which not less than 1,200,000 metric tons for nonemergency programsshall be distributed through nonprofit voluntary agencies and the World Food Program, except that for fiscal year 1986 the minimum quantity distributed shall be 1,800,000 metric tons, of which not less than 1,300,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, and for fiscal year 1987 the minimum quantity distributed shall be 1,900,000 metric tons, of which not less than 1,425,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
 > unless the President determines and reports to the Congress, together with his reasons, that such quantity cannot be used effectively to carry out the purposes of this subchapter: <i>Provided</i>, That such minimum quantity shall not exceed the total quantity of commodities determined to be available for disposition under this chapter pursuant to section 1731 of this title, less the quantity of commodities required to meet famine or other urgent or extraordinary relief requirements."
 

@@ -24,7 +24,7 @@ In order to establish a rational allocation of funds appropriated under this sec
 
 #### (d) Assignment of priorities for grants
 
-Without regard to any consultation under subsection (c) of this section, the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
+Without regard to any consultation under subsection (c), the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
 
 #### (e) Distribution of multiyear grants
 
@@ -78,7 +78,7 @@ Subsec. (f). Pub. L. 104–127, §812(5), added subsec. (f).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–98, §1430(a), substituted "as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems".
 
-Subsec. (b). Pub. L. 97–98, §1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary toeligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
+Subsec. (b). Pub. L. 97–98, §1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary to eligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
 
 Subsecs. (c) to (e). Pub. L. 97–98, §1430(c), added subsecs. (c) to (e).
 

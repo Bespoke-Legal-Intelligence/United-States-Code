@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—(1) There is a Vice Chairman of the Joint Chiefs of Staff, appointed bythe President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces.
+Appointment.—(1) There is a Vice Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces.
 
 (2) The Chairman and Vice Chairman may not be members of the same armed force. However, the President may waive the restriction in the preceding sentence for a limited period of time in order to provide for the orderly transition of officers appointed to serve in the positions of Chairman and Vice Chairman.
 

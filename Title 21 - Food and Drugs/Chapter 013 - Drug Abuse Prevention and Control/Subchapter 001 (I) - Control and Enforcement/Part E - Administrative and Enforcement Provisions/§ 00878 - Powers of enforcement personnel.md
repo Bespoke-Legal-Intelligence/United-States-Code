@@ -12,7 +12,7 @@
 
 &emsp;(5) perform such other law enforcement duties as the Attorney General may designate.
 
-(b) State and local law enforcement officers performing functions under this section shall not be deemed Federal employees and shall not be subject to provisions of law relating to Federal employees, except that such officers shall be subject to section 3374(c) of title 5.
+(b) State and local law enforcement officers performing functions under this section shallnot be deemed Federal employees and shall not be subject to provisions of law relating to Federal employees, except that such officers shall be subject to section 3374(c) of title 5.
 
 (Pub. L. 91–513, title II, §508, Oct. 27, 1970, 84 Stat. 1273; Pub. L. 96–132, §16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 99–570, title I, §1869, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §86, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, §232(d), July 29, 2010, 124 Stat. 2278.)
 

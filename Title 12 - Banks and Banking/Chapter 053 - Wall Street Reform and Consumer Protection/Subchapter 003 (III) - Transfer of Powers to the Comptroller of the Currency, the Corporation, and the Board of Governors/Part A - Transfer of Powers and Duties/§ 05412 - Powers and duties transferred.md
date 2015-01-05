@@ -48,7 +48,7 @@ This section, and the amendments made by this section, shall take effect on the 
 
 &emsp;&emsp;&emsp;(i) all functions of the Office of Thrift Supervision and the Director of the Office of Thrift Supervision relating to State savings associations are transferred to the Corporation; and
 
-&emsp;&emsp;&emsp;(ii) the Corporation shall succeed to all powers, authorities, rights, and duties that were vested in the Office of Thrift Supervision and the Director of the Office of Thrift Supervision on the day before the transfer date relating to the functions transferred under clause (i).
+&emsp;&emsp;&emsp;(ii) the Corporation shall succeed to all powers, authorities, rights, and duties thatwere vested in the Office of Thrift Supervision and the Director of the Office of Thrift Supervision on the day before the transfer date relating to the functions transferred under clause (i).
 
 #### (c) Omitted
 

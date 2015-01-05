@@ -158,7 +158,7 @@ To be eligible to receive a grant under subsection (d) for national leveraging c
 
 &emsp;&emsp;(I) will meet the requirements for providing matching funds specified in subsection (k);
 
-&emsp;(6) information about the eligible entity, including its experience managing collaborative initiatives, or assessing applicants for grants and evaluating the performance of grant recipients for outcome-focused initiatives, and any other relevant information;
+&emsp;(6) information about the eligible entity, including its experience managing collaborativeinitiatives, or assessing applicants for grants and evaluating the performance of grant recipients for outcome-focused initiatives, and any other relevant information;
 
 &emsp;(7) a commitment to meet the requirements of subsection (i) and a plan for meeting the requirements, including information on any funding that the eligible entity has secured to provide the matching funds required under that subsection;
 
@@ -232,13 +232,13 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a subgrant from an eligible entity under this section, including receiving a payment for that subgrant each year, a community organization shall submit an application to an eligible entity that serves the specific local geographical area, or geographical areas, that the community organization proposes to serve, at such time, in such manner, and containing such information as the eligible entity may require, including—
+&emsp;To be eligible to receive a subgrant from an eligible entity under this section, including receiving a payment for that subgrant each year, a community organization shall submit an application to an eligible entity that serves the specific local geographical area, or geographical areas, that the community organization proposes to serve, at such time, in suchmanner, and containing such information as the eligible entity may require, including—
 
 &emsp;&emsp;(A) a description of the initiative the community organization carries out and plans to replicate or expand, or of the new initiative the community organization intends to support, using funds received from the eligible entity, and how the initiative relates to the issue areas in which the eligible entity has committed to work in the eligible entity's application, in accordance with subsection (g)(4)(A);
 
 &emsp;&emsp;(B) data on the measurable outcomes the community organization has improved, and information on the measurable outcomes the community organization seeks to improve by replicating or expanding a proven initiative or supporting a new initiative, which shall be among the measurable outcomes that the eligible entity identified in the eligible entity's application, in accordance with subsection (g)(4)(C);
 
-&emsp;&emsp;(C) an identification of the community in which the community organization proposes to carry out an initiative, which shall be within a local geographical area described inthe eligible entity's application in accordance with subparagraph (A) or (B) of subsection (g)(3), as applicable;
+&emsp;&emsp;(C) an identification of the community in which the community organization proposes to carry out an initiative, which shall be within a local geographical area described in the eligible entity's application in accordance with subparagraph (A) or (B) of subsection (g)(3), as applicable;
 
 &emsp;&emsp;(D) a description of the evidence-based decisionmaking strategies the community organization uses to improve the measurable outcomes, including—
 
@@ -294,7 +294,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;&emsp;&emsp;&emsp;(I) the success of the initiatives in improving measurable outcomes; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the success of the program in increasing philanthropic investments in philanthropically underserved communities.
+&emsp;&emsp;&emsp;&emsp;(II) the success of the program in increasing philanthropic investments inphilanthropically underserved communities.
 
 #### (ii) Reports
 
@@ -312,7 +312,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (B) Technical assistance
 
-&emsp;&emsp;The Corporation shall, directly or through contract, provide technical assistance to theeligible entities and community organizations that receive grants under subsections (d) and (l).
+&emsp;&emsp;The Corporation shall, directly or through contract, provide technical assistance to the eligible entities and community organizations that receive grants under subsections (d) and (l).
 
 #### (C) Knowledge management
 

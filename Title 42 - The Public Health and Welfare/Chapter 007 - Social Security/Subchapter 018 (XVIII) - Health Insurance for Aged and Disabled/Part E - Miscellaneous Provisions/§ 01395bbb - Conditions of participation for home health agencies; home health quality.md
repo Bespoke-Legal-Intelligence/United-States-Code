@@ -78,7 +78,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;(4) The agency includes an individual's plan of care required under section 1395x(m) of this title as part of the clinical records described in section 1395x(o)(3) of this title.
 
-&emsp;(5) The agency operates and provides services in compliance with all applicable Federal, State, and local laws and regulations (including the requirements of section 1320a–3 of thistitle) and with accepted professional standards and principles which apply to professionals providing items and services in such an agency.
+&emsp;(5) The agency operates and provides services in compliance with all applicable Federal, State, and local laws and regulations (including the requirements of section 1320a–3 of this title) and with accepted professional standards and principles which apply to professionals providing items and services in such an agency.
 
 &emsp;(6) The agency complies with the requirement of section 1395cc(f) of this title (relating to maintaining written policies and procedures respecting advance directives).
 
@@ -172,7 +172,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 > The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The temporary management under clause (iii) shall not be terminated until the Secretary has determined that the agency has the management capability to ensure continued compliance with all the requirements referred to in that clause.
 
-(B) The sanctions specified in subparagraph (A) are in addition to sanctions otherwise available under State or Federal law and shall not beconstrued as limiting other remedies, including any remedy available to an individual at common law.
+(B) The sanctions specified in subparagraph (A) are in addition to sanctions otherwise available under State or Federal law and shall not be construed as limiting other remedies, including any remedy available to an individual at common law.
 
 (C) A finding to suspend payment under subparagraph (A)(ii) shall terminate when the Secretary finds that the home health agency is in substantial compliance with all the requirements specified in or pursuant to section 1395x(o) of this title and subsection (a) of this section.
 

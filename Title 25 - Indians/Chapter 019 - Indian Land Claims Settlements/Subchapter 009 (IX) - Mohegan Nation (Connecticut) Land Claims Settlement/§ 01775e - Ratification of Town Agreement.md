@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, the consent of the United States is hereby givento the Town Agreement and the Town Agreement shall be in full force and effect.
+Notwithstanding any other provision of law, the consent of the United States is hereby given to the Town Agreement and the Town Agreement shall be in full force and effect.
 
 #### (b) Approval of Town Agreement
 

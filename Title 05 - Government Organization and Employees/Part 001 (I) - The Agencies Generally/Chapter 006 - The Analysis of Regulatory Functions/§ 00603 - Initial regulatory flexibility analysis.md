@@ -44,9 +44,9 @@
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–203 added subsec. (d).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–121, §241(a)(1)(B), inserted at end “In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–121, §241(a)(1)(B), inserted at end "In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement."
 
-Pub. L. 104–121, §241(a)(1)(A), which directed the insertion of “, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States” after “proposed rule” was executed by making the insertion where those words appeared in first sentence to reflect the probable intent of Congress.
+Pub. L. 104–121, §241(a)(1)(A), which directed the insertion of ", or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States" after "proposed rule" was executed by making the insertion where those words appeared in first sentence to reflect the probable intent of Congress.
 
 #### Effective Date of 2010 Amendment
 

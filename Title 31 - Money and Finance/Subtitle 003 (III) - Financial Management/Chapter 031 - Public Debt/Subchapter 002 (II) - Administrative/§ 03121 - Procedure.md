@@ -34,13 +34,13 @@
 
 &emsp;(B) having a maturity (at issue) of not more than one year.
 
-(2) Every registration-required obligation of the Government shall be in registered form. A book entry obligation is deemed to be in registered form if the right to principal and statedinterest on the obligation may be transferred only through a book entry consistent with regulations of the Secretary.
+(2) Every registration-required obligation of the Government shall be in registered form. A book entry obligation is deemed to be in registered form if the right to principal and stated interest on the obligation may be transferred only through a book entry consistent with regulations of the Secretary.
 
 (3) The Secretary shall prescribe regulations necessary to carry out this subsection when there is a nominee.
 
 (h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
-(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners' Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
+(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or\(b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners' Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
 
 (3) Nothing in this subsection shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
@@ -344,11 +344,11 @@ Report required.—The Secretary of the Treasury shall submit an annual report t
 
 &emsp;"(2)
 
-Delay in disclosure of information in certain cases.—The Secretary of the Treasury shall not be required to include in a report under paragraph (1) any information the disclosure of which could jeopardize an investigation by an agency described inparagraph (1)(C) for so long as such disclosure could jeopardize the investigation."
+Delay in disclosure of information in certain cases.—The Secretary of the Treasury shall not be required to include in a report under paragraph (1) any information the disclosure of which could jeopardize an investigation by an agency described in paragraph (1)(C) for so long as such disclosure could jeopardize the investigation."
 
 #### Notice on Treasury Modifications to Auction Process
 
-Pub. L. 103–202, title II, §203, Dec. 17, 1993, 107 Stat. 2359, provided that: "The Secretary of the Treasury shall notify the Congress of any significant modifications to the auction process for issuing United States Treasury obligations at the time such modifications are implemented."
+Pub. L. 103–202, title II, §203, Dec. 17, 1993, 107 Stat. 2359, which required the Secretary of the Treasury to notify Congress of any significant modifications to the auction process for issuing United States Treasury obligations at the time such modifications were implemented, was repealed by Pub. L. 113–188, title XVI, §1601(d)(1), Nov. 26, 2014, 128 Stat. 2025.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

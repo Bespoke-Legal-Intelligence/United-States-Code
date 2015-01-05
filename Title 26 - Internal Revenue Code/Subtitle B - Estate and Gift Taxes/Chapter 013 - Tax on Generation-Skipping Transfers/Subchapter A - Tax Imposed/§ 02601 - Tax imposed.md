@@ -34,7 +34,7 @@ Exceptions.—The amendments made by this subtitle shall not apply to—
 
 &emsp;&emsp;"(C) any generation-skipping transfer—
 
-&emsp;&emsp;&emsp;"(i) under a trust to the extent such trust consists of property included in the gross estate of a decedent (other than property transferred by the decedent during his life after the date of the enactment of this Act \[Oct. 22, 1986\]), or reinvestments thereof, or
+&emsp;&emsp;&emsp;"(i) under a trust to the extent such trust consists of property included in the gross estate of a decedent (other than property transferred by thedecedent during his life after the date of the enactment of this Act \[Oct. 22, 1986\]), or reinvestments thereof, or
 
 &emsp;&emsp;&emsp;"(ii) which is a direct skip which occurs by reason of the death of any decedent;
 

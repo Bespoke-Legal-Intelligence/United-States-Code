@@ -16,6 +16,122 @@ Subsec. (b). Pub. L. 104–303, §233(2), struck out "(b)
 
 Public Participation.—" before "The Secretary shall ensure", and substituted "section" for "subsection" in two places.
 
+#### Dam Optimization
+
+Pub. L. 113–121, title I, §1046(a), June 10, 2014, 128 Stat. 1251, provided that:
+
+"(1)
+
+Definition of project.—In this subsection, the term 'project' means a water resources development project that is operated and maintained by the Secretary \[of the Army\].
+
+"(2)
+
+Reports.—
+
+&emsp;"(A)
+
+Assessment of water supply in arid regions.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary shall conduct an assessment of the management practices, priorities, and authorized purposes at Corps of Engineers reservoirs in arid regions to determine the effects of such practices, priorities, and purposes on water supply during periods of drought.
+
+&emsp;&emsp;"(ii)
+
+Inclusions.—The assessment under clause (i) shall identify actions that can be carried out within the scope of existing authorities of the Secretary to increase project flexibility for the purpose of mitigating drought impacts.
+
+&emsp;&emsp;"(iii)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[June 10, 2014\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report on the results of the assessment.
+
+&emsp;"(B)
+
+Updated report.—
+
+&emsp;&emsp;"(i)
+
+In general.—Not later than 2 years after the date of enactment of this Act, the Secretary shall update and make publicly available the report entitled 'Authorized and Operating Purposes of Corps of Engineers Reservoirs' and dated July 1992, which was produced pursuant to section 311 of the Water Resources Development Act of 1990 \[Pub. L. 101–640\] (104 Stat. 4639).
+
+&emsp;&emsp;"(ii)
+
+Inclusions.—The updated report described in clause (i) shall—
+
+&emsp;&emsp;&emsp;"(I) include—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) the date on which the most recent review of project operations was conducted and any recommendations of the Secretary relating to that review the Secretary determines to be significant;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) the activities carried out pursuant to each such review to improve the efficiency of operations and maintenance and to improve project benefits consistent with authorized purposes;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(cc) the degree to which reviews of project operations and subsequent activities pursuant to completed reviews complied with the policies and requirements of applicable law and regulations; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(dd) a plan for reviewing the operations of individual projects, including a detailed schedule for future reviews of project operations, that—
+
+&emsp;&emsp;&emsp;"(AA) complies with the polices and requirements of applicable law and regulations;
+
+&emsp;&emsp;&emsp;"(BB) gives priority to reviews and activities carried out pursuant to such plan where the Secretary determines that there is support for carrying out those reviews and activities; and
+
+&emsp;&emsp;&emsp;"(CC) ensures that reviews and activities are carried out pursuant to such plan;
+
+&emsp;&emsp;&emsp;"(II) be coordinated with appropriate Federal, State, and local agencies and those public and private entities that the Secretary determines may be affected by those reviews or activities;
+
+&emsp;&emsp;&emsp;"(III) not supersede or modify any written agreement between the Federal Government and a non-Federal interest that is in effect on the date of enactment of this Act \[June 10, 2014\];
+
+&emsp;&emsp;&emsp;"(IV) not supersede or authorize any amendment to a multistate water control plan, including the Missouri River Master Water Control Manual (as in effect on the date of enactment of this Act);
+
+&emsp;&emsp;&emsp;"(V) not affect any water right in existence on the date of enactment of this Act;
+
+&emsp;&emsp;&emsp;"(VI) not preempt or affect any State water law or interstate compact governing water;
+
+&emsp;&emsp;&emsp;"(VII) not affect any authority of a State, as in effect on the date of enactment of this Act, to manage water resources within that State; and
+
+&emsp;&emsp;&emsp;"(VIII) comply with section 301 of the Water Supply Act of 1958 (43 U.S.C. 390b).
+
+"(3)
+
+General accountability office report to congress.—The Comptroller General shall—
+
+&emsp;"(A) conduct an audit to determine—
+
+&emsp;&emsp;"(i) whether reviews of project operations carried out by the Secretary prior to the date of enactment of this Act complied with the policies and requirements of applicable law and regulations; and
+
+&emsp;&emsp;"(ii) whether the plan developed by the Secretary pursuant to paragraph (2)(B)(ii)(I)(dd) complies with this subsection and with the policies and requirements of applicable law and regulation; and
+
+&emsp;"(B) not later than 2 years after the date of enactment of this Act, submit to Congress a report that—
+
+&emsp;&emsp;"(i) summarizes the results of the audit required by subparagraph (A);
+
+&emsp;&emsp;"(ii) includes an assessment of whether existing practices for managing and reviewing project operations could result in greater efficiencies that would enable the Corps of Engineers to better prepare for, contain, and respond to flood, storm, and drought conditions; and
+
+&emsp;&emsp;"(iii) includes recommendations for improving the review of project operations to improve the efficiency and effectiveness of such operations and to better achieve authorized purposes while enhancing overall project benefits.
+
+"(4)
+
+Interagency and cooperative agreements.—The Secretary may enter into interagency agreements with other Federal agencies and cooperative agreements with non-Federal entities to carry out this subsection and reviews of project operations or activities resulting from those reviews.
+
+"(5)
+
+Funding.—
+
+&emsp;"(A)
+
+In general.—The Secretary may use to carry out this subsection, including any reviews of project operations identified in the plan developed under paragraph (2)(B)(ii)(I)(dd), amounts made available to the Secretary.
+
+&emsp;"(B)
+
+Funding from other sources.—The Secretary may accept and expend amounts from non-Federal entities and other Federal agencies to carry out this subsection and reviews of project operations or activities resulting from those reviews.
+
+"(6)
+
+Effect of subsection.—
+
+&emsp;"(A)
+
+In general.—Nothing in this subsection changes the authorized purpose of any Corps of Engineers dam or reservoir.
+
+&emsp;"(B)
+
+Administration.—The Secretary may carry out any recommendations and activities under this subsection pursuant to existing law."
+
 #### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.

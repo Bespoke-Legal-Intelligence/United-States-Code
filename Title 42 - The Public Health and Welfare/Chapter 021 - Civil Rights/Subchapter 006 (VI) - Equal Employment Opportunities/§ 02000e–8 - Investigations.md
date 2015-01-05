@@ -2,7 +2,7 @@
 
 #### (a) Examination and copying of evidence related to unlawful employment practices
 
-In connection with any investigation of a charge filed under section 2000e–5 of this title, the Commission or its designated representative shall at all reasonable times have access to, for the purposes of examination, and the right to copy any evidence of any person being investigated or proceeded against that relates to unlawful employment practices covered by this subchapter and is relevant to the charge under investigation.
+In connection with any investigation of a charge filed under section 2000e–5 of this title,the Commission or its designated representative shall at all reasonable times have access to, for the purposes of examination, and the right to copy any evidence of any person being investigated or proceeded against that relates to unlawful employment practices covered by this subchapter and is relevant to the charge under investigation.
 
 #### (b) Cooperation with State and local agencies administering State fair employment practices laws; participation in and contribution to research and other projects; utilization of services; payment in advance or reimbursement; agreements and rescission of agreements
 

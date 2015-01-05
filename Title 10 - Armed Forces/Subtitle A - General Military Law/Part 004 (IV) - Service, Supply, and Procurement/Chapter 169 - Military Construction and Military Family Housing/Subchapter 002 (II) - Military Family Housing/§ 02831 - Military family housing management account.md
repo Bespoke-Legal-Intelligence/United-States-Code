@@ -32,7 +32,7 @@ Reports on General Officers and Flag Officers Quarters.—(1) As part of the bud
 
 &emsp;(C) identifying each family housing unit in excess of 6,000 square feet used, or intended for use, as quarters for a general officer or flag officer;
 
-&emsp;(D) for each family housing unit identified under subparagraph (C), specifying any alternative and more efficient use to which the unit could be converted (which would include any costs necessary to convert the unit) and containing an explanation of the reasons why the unit is not being converted to the alternative use; and
+&emsp;(D) for each family housing unit identified under subparagraph (C), specifying any alternative and more efficient use to which the unit could be converted (which would include any costs necessary to convert the unit) andcontaining an explanation of the reasons why the unit is not being converted to the alternative use; and
 
 &emsp;(E) for each family housing unit identified under subparagraph (C) for which costs under subparagraph (A) or new construction costs are anticipated to exceed $100,000 in the next fiscal year, specifying any alternative use to which the unit could be converted (which would include any costs necessary to convert the unit) and an estimate of the costs to demolish and rebuild the unit to private sector standards.
 

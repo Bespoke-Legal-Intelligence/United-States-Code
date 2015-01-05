@@ -18,7 +18,7 @@
 
 (b) It is the purpose of this chapter—
 
-&emsp;(1) to rename the National Bureau of Standards as the National Institute of Standards and Technology and to modernize and restructure that agency to augment its unique ability to enhance the competitiveness of American industry while maintaining its traditional function as lead national laboratory for providing the measurements, calibrations, and quality assurance techniques which underpin United States commerce, technological progress, improved product reliability and manufacturing processes, and public safety;
+&emsp;(1) to rename the National Bureau of Standards as the National Institute of Standards and Technology and to modernize and restructure that agency to augment its unique ability to enhance the competitiveness of American industry while maintaining its traditionalfunction as lead national laboratory for providing the measurements, calibrations, and quality assurance techniques which underpin United States commerce, technological progress, improved product reliability and manufacturing processes, and public safety;
 
 &emsp;(2) to assist private sector initiatives to capitalize on advanced technology;
 
@@ -30,7 +30,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act" meaning act Mar. 3, 1901, ch. 872, 31 Stat. 1449, as amended, known as the National Instituteof Standards and Technology Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act" meaning act Mar. 3, 1901, ch. 872, 31 Stat. 1449, as amended, known as the National Institute of Standards and Technology Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
@@ -41,6 +41,10 @@ This chapter, referred to in subsec. (b), was in the original "this Act" meaning
 Section 5115(c) of Pub. L. 100–418 provided that: "References in any other Federal law to the National Bureau of Standards shall be deemed to refer to the National Institute of Standards and Technology."
 
 Act Mar. 4, 1913, ch. 141, §1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
+
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–235, div. B, title VII, §701, Dec. 16, 2014, 128 Stat. 2220, provided that: "This title \[enacting section 278s of this title, amending section 3722 of this title and section 6622 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 278s of this title, and amending provisions set out as a note under this section\] may be cited as the 'Revitalize American Manufacturing and Innovation Act of 2014'."
 
 #### Short Title of 2011 Amendment
 
@@ -64,7 +68,7 @@ Pub. L. 100–418, title V, §5101, Aug. 23, 1988, 102 Stat. 1426, provided that
 
 #### Short Title
 
-Act Mar. 3, 1901, ch. 872, §34, formerly §23, as added Jan. 8, 1988, Pub. L. 100–235, §3(3), 101 Stat. 1728; renumbered §31 and amended Pub. L. 100–418, title V, §§5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered §32, Pub. L. 105–309, §4(a), Oct. 30, 1998, 112 Stat. 2935; renumbered §34, Pub. L. 110–69, title III, §3007(1), Aug. 9, 2007, 121 Stat. 590, provided that: "This Act \[enacting this chapter\] may be cited as the National Institute of Standards and Technology Act."
+Act Mar. 3, 1901, ch. 872, §35, formerly §23, as added Jan. 8, 1988, Pub. L. 100–235, §3(3), 101 Stat. 1728; renumbered §31 and amended Pub. L. 100–418, title V, §§5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered §32, Pub. L. 105–309, §4(a), Oct. 30, 1998, 112 Stat. 2935; renumbered §34, Pub. L. 110–69, title III, §3007(1), Aug. 9, 2007, 121 Stat. 590, renumbered §35, Pub. L. 113–235, div. B, title VII, §703(1), Dec. 16, 2014, 128 Stat. 2221, provided that: "This Act \[enacting this chapter\] may be cited as the National Institute of Standards and Technology Act."
 
 #### Savings Provision
 

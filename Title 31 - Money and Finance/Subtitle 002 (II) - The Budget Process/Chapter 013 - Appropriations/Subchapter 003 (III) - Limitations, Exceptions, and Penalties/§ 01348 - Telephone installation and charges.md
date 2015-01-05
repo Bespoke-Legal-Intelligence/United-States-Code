@@ -4,7 +4,7 @@
 
 (2) Under regulations of the Secretary of State, appropriations may be used to install and pay for the use of telephones in residences owned or leased by the United States Government in foreign countries for the use of the Foreign Service.
 
-(b) Under regulations prescribed by the Secretary of the Army on recommendation of the Chief of Engineers, not more than $30,000 may beexpended each fiscal year to install and use in private residences telephones required for official business in constructing and operating locks and dams for navigation, flood control, and related water uses.
+(b) Under regulations prescribed by the Secretary of the Army on recommendation of the Chief of Engineers, not more than $30,000 may be expended each fiscal year to install and use in private residences telephones required for official business in constructing and operating locks and dams for navigation, flood control, and related water uses.
 
 (c) Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense are available to install, repair, and maintain telephone wiring in residences owned or leased by the United States Government and, if necessary for national defense purposes, in other private residences.
 
@@ -72,5 +72,5 @@ Pub. L. 98–407, title VIII, §811(b), Aug. 28, 1984, 98 Stat. 1523, provided t
 
 #### Employees Authorized To Work at Home
 
-Pub. L. 104–52, title VI, §620, Nov. 19, 1995, 109 Stat. 501, provided that: "Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: <i>Provided</i>, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission."
+Pub. L. 104–52, title VI, §620, Nov. 19, 1995, 109 Stat. 501, provided that: "Notwithstanding any provisions ofthis or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: <i>Provided</i>, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission."
 

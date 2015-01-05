@@ -28,7 +28,7 @@ For purposes of this section, the term "determination" means—
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the term "deficiency dividends" means the amount of the dividends paid by the corporation on or after the date of the determination and before filing claim under subsection (e), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for personal holding company tax exists, if distributed during such taxable year. No dividends shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination.
+&emsp;For purposes of this section, the term "deficiency dividends" means the amount of the dividends paid by the corporation on or after the date of the determination and before filing claim under subsection (e), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which theliability for personal holding company tax exists, if distributed during such taxable year. No dividends shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination.
 
 #### (2) Effect on dividends paid deduction
 

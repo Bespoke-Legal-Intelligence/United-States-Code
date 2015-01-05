@@ -16,7 +16,7 @@ The language of section 209 of title 13, U.S.C., 1952 ed., providing that it sho
 
 References to the Secretary (of Commerce) and to "any other officer or employee of the Department of Commerce or bureau or agency thereof" were substituted for references to the Director of the Census and the Census Office, to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
-The enumeration of the different types of employees, in section 209 of title 13, U.S.C., 1952 ed., "supervisor,enumerator,", etc., was omitted as unnecessary and covered by the reference in this revised section to "officer or employee".
+The enumeration of the different types of employees, in section 209 of title 13, U.S.C., 1952 ed., "supervisor, enumerator,", etc., was omitted as unnecessary and covered by the reference in this revised section to "officer or employee".
 
 Reference in section 209 of title 13, U.S.C., 1952 ed., to the described offense as a "misdemeanor" was omitted as covered by section 1 of title 18, U.S.C., 1952 ed., Crimes and Criminal Procedure, classifying offenses, and words in such section "and upon conviction thereof" were omitted as surplusage.
 

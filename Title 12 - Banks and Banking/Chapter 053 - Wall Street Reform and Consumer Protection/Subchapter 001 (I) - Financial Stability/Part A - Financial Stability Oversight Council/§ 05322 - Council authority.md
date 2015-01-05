@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(H) require supervision by the Board of Governors for nonbank financial companies that may pose risks to the financial stability of the United States in the event of their material financial distress or failure, or because of their activities pursuant to section 5323 of this title;
 
-&emsp;&emsp;(I) make recommendations to the Board of Governors concerning the establishment of heightened prudential standards for risk-based capital, leverage, liquidity, contingent capital, resolution plans and credit exposurereports, concentration limits, enhanced public disclosures, and overall risk management for nonbank financial companies and large, interconnected bank holding companies supervised by the Board of Governors;
+&emsp;&emsp;(I) make recommendations to the Board of Governors concerning the establishment of heightened prudential standards for risk-based capital, leverage, liquidity, contingent capital, resolution plans and credit exposure reports, concentration limits, enhanced public disclosures, and overall risk management for nonbank financial companies and large, interconnected bank holding companies supervised by the Board of Governors;
 
 &emsp;&emsp;(J) identify systemically important financial market utilities and payment, clearing, and settlement activities (as that term is defined in subchapter IV);
 

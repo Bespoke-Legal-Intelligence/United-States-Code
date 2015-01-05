@@ -152,9 +152,9 @@ In this section:
 
 &emsp;&emsp;(K) To educate the public about arson prevention and detection.
 
-&emsp;&emsp;(L) To provide incentives for the recruitment and retention of volunteer firefightingpersonnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
+&emsp;&emsp;(L) To provide incentives for the recruitment and retention of volunteer firefighting personnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
 
-&emsp;&emsp;(M) To support such other activities, consistent with the purposes of this subsection, as the Administrator of FEMA determines appropriate.
+&emsp;&emsp;(M) To support such other activities, consistent with the purposes of this subsection,as the Administrator of FEMA determines appropriate.
 
 #### (d) Fire prevention and safety grants
 
@@ -356,7 +356,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 90 days after January 2, 2013, the Administrator of FEMA shallconvene a workshop of the fire safety research community, fire service organizations, and other appropriate stakeholders to identify and prioritize fire safety research needs.
+&emsp;&emsp;&emsp;Not later than 90 days after January 2, 2013, the Administrator of FEMA shall convene a workshop of the fire safety research community, fire service organizations, and other appropriate stakeholders to identify and prioritize fire safety research needs.
 
 #### (ii) Publication
 

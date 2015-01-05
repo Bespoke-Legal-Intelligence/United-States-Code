@@ -38,7 +38,7 @@ Meetings.—The Board shall meet as determined necessary by the Deputy Assistant
 
 Reports.—(1) Subject to paragraph (2), after each meeting of the Board, the Board shall prepare a report containing the results of the meeting and such recommendations as the Board determines appropriate. Each such report shall be submitted to the congressional defense committees, together with comments and recommendations from the Secretary of Defense, not later than 90 days after the meeting covered by the report.
 
-(2) In any year in which the Board meets more than once, each report prepared by the Board as required by paragraph (1) may be combined into one annual report and submitted as provided by paragraph (1) not later than 90 days after the last meeting of the year.
+(2) In any year in which the Board meets more than once, each report prepared by the Board asrequired by paragraph (1) may be combined into one annual report and submitted as provided by paragraph (1) not later than 90 days after the last meeting of the year.
 
 (e)
 
@@ -72,5 +72,5 @@ Subsec. (e). Pub. L. 111–383, §829(a), added subsec. (e).
 
 #### First Meeting of Board
 
-Pub. L. 109–364, div. A, title VIII, §843(c), Oct. 17, 2006, 120 Stat. 2339, provided that: "The first meeting of theStrategic Materials Protection Board, established by section 187 of title 10, United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
+Pub. L. 109–364, div. A, title VIII, §843(c), Oct. 17, 2006, 120 Stat. 2339, provided that: "The first meeting of the Strategic Materials Protection Board, established by section 187 of title 10, United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
 

@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter, or average crop revenue election payments under section 8715 of this title, with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
+&emsp;Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter, or average crop revenue election payments under section 8715 <sup>1</sup> of this title, with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
 
 &emsp;&emsp;(A) to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.);
 
@@ -56,7 +56,7 @@ In carrying out this subchapter, the Secretary shall provide adequate safeguards
 
 #### (e) Sharing of payments
 
-The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under section 8715 of this title among the producers on a farm on a fair and equitable basis.
+The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, oraverage crop revenue election payments under section 8715 <sup>1</sup> of this title among the producers on a farm on a fair and equitable basis.
 
 #### (f) Extension of 2008 signup
 
@@ -76,6 +76,8 @@ The Secretary shall provide for the sharing of direct payments, counter-cyclical
 
 #### References in Text
 
+Section 8715 of this title, referred to in subsecs. (a)(1) and (e), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
+
 The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
@@ -85,4 +87,6 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–398 added subsec. (f).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ An award may be made under subsection (a) only if the applicant for the award ag
 
 #### (c) Evaluation of programs
 
-The Secretary shall (directly or through grants or contracts) provide for the evaluation of programs implemented under subsection (a) in order to determine the effect of such programs on knowledge and practice of pain care.
+The Secretary shall (directly or through grants or contracts) provide for the evaluationof programs implemented under subsection (a) in order to determine the effect of such programs on knowledge and practice of pain care.
 
 #### (d) Pain care defined
 

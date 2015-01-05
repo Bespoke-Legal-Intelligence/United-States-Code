@@ -12,7 +12,7 @@
 
 (d) The Secretary shall, when appropriate, impose disciplinary measures, as authorized by law, in the case of employees of the Department who engage in unlawful employment discrimination, including retaliation against an employee asserting rights under an equal employment opportunity law.
 
-(e)(1)(A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
+(e)(1)(A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shallsubmit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
 
 (B) Subparagraph (A) shall apply in the case of complaints filed against individuals on the basis of such individuals' personal conduct and shall not apply in the case of complaints filed solely on the basis of such individuals' positions as officials of the Department.
 

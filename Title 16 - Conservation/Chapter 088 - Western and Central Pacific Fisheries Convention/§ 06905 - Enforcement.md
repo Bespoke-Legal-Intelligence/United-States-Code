@@ -46,13 +46,13 @@ The Secretary shall prevent any person from violating this chapter in the same m
 
 #### (2) Use of information
 
-&emsp;The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any suchinformation in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted in compliance with any requirement or regulation under this Act.
+&emsp;The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any such information in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted in compliance with any requirement or regulation under this Act.
 
 (Pub. L. 109–479, title V, §506, Jan. 12, 2007, 120 Stat. 3640.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1), (b), and (d), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575, known as the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of this title and Tables.
+This Act, referred to in subsecs. (a)(1), (b), and (d), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575, known as the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006. For complete classification of this Act to the Code, see Short Title of2007 Amendment note set out under section 1801 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (b) and (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 

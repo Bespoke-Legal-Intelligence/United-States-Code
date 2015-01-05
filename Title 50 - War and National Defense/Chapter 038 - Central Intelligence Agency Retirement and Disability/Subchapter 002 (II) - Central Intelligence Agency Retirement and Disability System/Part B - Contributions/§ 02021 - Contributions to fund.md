@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An amount equal to 7 percent of the basic pay received by a participant other than a revised annuity participant shall be contributed to the fund for a pay period for the participant from the appropriation or fund which is used for payment of the participant's basic pay.
+&emsp;&emsp;An amount equal to 7 percent of the basic pay received by a participant other than arevised annuity participant shall be contributed to the fund for a pay period for the participant from the appropriation or fund which is used for payment of the participant's basic pay.
 
 #### (B) Revised annuity participants
 
@@ -96,7 +96,7 @@ The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §1, Dec. 30, 1969, 83 Stat. 847; Pub. L. 97–269, title VI, §611, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §§501(2), 502, June 6, 1986, 100 Stat. 622, 623; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, related to compulsory contributions to the fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §1, Dec. 30, 1969, 83 Stat. 847; Pub. L. 97–269, title VI, §611, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §§501(2), 502, June 6, 1986, 100 Stat. 622, 623; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, related to compulsory contributions tothe fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

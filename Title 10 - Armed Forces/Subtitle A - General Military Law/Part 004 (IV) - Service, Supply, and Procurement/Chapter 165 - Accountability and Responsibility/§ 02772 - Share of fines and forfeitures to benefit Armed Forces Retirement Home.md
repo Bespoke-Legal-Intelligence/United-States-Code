@@ -4,7 +4,7 @@
 
 Deposit Required.—The Secretary of the military department concerned or, in the case of the Coast Guard, the Commandant shall deposit in the Armed Forces Retirement Home Trust Fund a percentage (determined under subsection (b)) of the following amounts:
 
-&emsp;(1) The amount of forfeitures and fines adjudged against an enlisted member, warrant officer, or limited duty officer of the armedforces by sentence of a court martial or under authority of section 815 of this title (article 15) over and above any amount that may be due from the member, warrant officer, or limited duty officer for the reimbursement of the United States or any individual.
+&emsp;(1) The amount of forfeitures and fines adjudged against an enlisted member, warrant officer, or limited duty officer of the armed forces by sentence of a court martial or under authority of section 815 of this title (article 15) over and above any amount that may be due from the member, warrant officer, or limited duty officer for the reimbursement of the United States or any individual.
 
 &emsp;(2) The amount of forfeitures on account of the desertion of an enlisted member, warrant officer, or limited duty officer of the armed forces.
 
@@ -26,7 +26,7 @@ A prior section 2772, act Aug. 10, 1956, ch. 1041, 70A Stat. 156, authorized wit
 
 Subsec. (c). Pub. L. 111–281, §205(b)(1)(B), struck out subsec. (c). Text read as follows: "In this section, the term 'armed forces' does not include the Coast Guard when it is not operating as a service in the Navy."
 
-<b>1990</b>—Pub. L. 101–510, §1533(a)(4)(A), substituted "Retirement Home" for "retirement homes" in section catchline and amended text generally, substituting subsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers' Home and the Naval Home.
+<b>1990</b>—Pub. L. 101–510, §1533(a)(4)(A), substituted "Retirement Home" for "retirement homes" in sectioncatchline and amended text generally, substituting subsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers' Home and the Naval Home.
 
 Pub. L. 101–510, §1533(a)(3), inserted "and forfeitures" after "fines" in subsecs. (a)(1)(A) and (b)(1)(A) and substituted ", warrant officer, or limited duty officer" for "or warrant officer" wherever appearing.
 

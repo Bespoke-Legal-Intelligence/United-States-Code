@@ -152,7 +152,7 @@ Pub. L. 109–59, title I, §1409(a)–(c), Aug. 10, 2005, 119 Stat. 1232, provi
 
 "(a)
 
-In General.—The Secretary \[of Transportation\] shall establish and implement a work zone safety grantprogram under which the Secretary may make grants to nonprofit organizations and not-for-profit organizations to provide training to prevent or reduce highway work zone injuries and fatalities.
+In General.—The Secretary \[of Transportation\] shall establish and implement a work zone safety grant program under which the Secretary may make grants to nonprofit organizations and not-for-profit organizations to provide training to prevent or reduce highway work zone injuries and fatalities.
 
 "(b)
 
@@ -184,7 +184,7 @@ Pub. L. 112–141, div. C, title I, §31101(b), July 6, 2012, 126 Stat. 733, pro
 
 &emsp;"(2) may not be used by States or local governments for construction purposes."
 
-Pub. L. 109–59, title II, §2001(b), Aug. 10, 2005, 119 Stat. 1520, provided that: "Except as otherwise provided in chapter 4 of title 23, United States Code, and this title \[enacting section 412 of this title and section 39 of Title 18, Crimes and Criminal Procedure, amending sections 402 to 406, 408, and 410 of this title, and enacting provisions set out as notes under sections 402, 403, 405, and 410 of this title\], (including the amendments made by this title), the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter shall only be used to carry out such program and may not be used by States or local governments for construction purposes."
+Pub. L. 109–59, title II, §2001(b), Aug. 10, 2005, 119 Stat. 1520, provided that: "Except as otherwise provided in chapter 4 of title 23, United States Code, and this title \[enacting section 412 of this title and section 39 of Title 18, Crimes and Criminal Procedure, amending sections 402 to 406, 408, and 410 of this title, and enacting provisions set out as notes under sections 402, 403, 405, and 410 of this title\], (including the amendments made bythis title), the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter shall only be used to carry out such program and may not be used by States or local governments for construction purposes."
 
 #### Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects
 
@@ -272,7 +272,7 @@ Pub. L. 100–17, title II, §208, Apr. 2, 1987, 101 Stat. 222, as amended by Pu
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
-Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: "The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms 'State', 'rural areas', and 'urban area' have the meaning such terms have under section 101."
+Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: "The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of eachState for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms 'State', 'rural areas', and 'urban area' have the meaning such terms have under section 101."
 
 \[For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 207 of Pub. L. 97–424, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.\]
 
@@ -312,7 +312,7 @@ Pub. L. 93–87, title II, §211, Aug. 13, 1973, 87 Stat. 288, directed Secretar
 
 #### Highway Safety Citizen Participation Study
 
-Pub. L. 93–87, title II, §212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
+Pub. L. 93–87, title II, §212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study bythe Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
 
 #### National Center for Statistical Analysis of Highway Operations
 

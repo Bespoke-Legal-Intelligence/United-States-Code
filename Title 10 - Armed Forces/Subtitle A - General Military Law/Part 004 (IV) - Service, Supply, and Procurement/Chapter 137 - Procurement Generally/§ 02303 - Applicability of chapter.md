@@ -40,7 +40,7 @@ Feb. 19, 1948, ch. 65, §§2(a), 9 (clause (b)), 62 Stat. 21, 24.
 
 41:158 (last 5 words of clause (b)).
 
-In subsection (a), the words "all property named in subsection (b), and all services" are substituted for the words "for supplies or services". The words "(each being hereinafter called the agency)", are omitted, since the revised sections of this chapter make specific reference to the agencies named in this revised section. The words "United States" before the words "Coast Guard" are omitted, since they are not a part of the official name of the Coast Guard under section 1 of title 14.
+In subsection (a), the words "all property named in subsection (b), and all services" are substituted for the words "for supplies or services". The words "(each being hereinafter called the agency)", are omitted,since the revised sections of this chapter make specific reference to the agencies named in this revised section. The words "United States" before the words "Coast Guard" are omitted, since they are not a part of the official name of the Coast Guard under section 1 of title 14.
 
 In subsection (b), the introductory clause is substituted for the word "supplies". Throughout the revised chapter reference is made to "property or services covered by this chapter", instead of "supplies", since the word "supplies" is defined in section 101(26) of this title in its usual and narrower sense, rather than the sense of the source statute for this revised chapter. It is desirable to avoid a usage which conflicts with the definition in section 101(26) of this title. The word "ships" and the words "of every character, type, and description", after the word "vessels", are omitted as covered by the definition of "vessel" in section 1 of title 1.
 

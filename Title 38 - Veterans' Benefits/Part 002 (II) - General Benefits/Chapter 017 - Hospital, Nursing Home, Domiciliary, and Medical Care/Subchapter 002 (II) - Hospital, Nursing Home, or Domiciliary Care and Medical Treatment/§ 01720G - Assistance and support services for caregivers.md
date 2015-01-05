@@ -90,7 +90,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (C) An eligible veteran receiving personal care services from a family member designated as the primary provider of personal care services for the eligible veteran under subparagraph (A) may, in accordance with procedures the Secretary shall establish for such purposes, revoke consent with respect to such family member under subparagraph (B)(iii).
 
-(D) If a family member designated as the primary provider of personal care services for an eligible veteran under subparagraph (A) subsequently fails to meet any requirement set forth in subparagraph (B), the Secretary—
+(D) If a family member designated as the primary provider of personal care services for aneligible veteran under subparagraph (A) subsequently fails to meet any requirement set forth in subparagraph (B), the Secretary—
 
 &emsp;(i) shall immediately revoke the family member's designation under subparagraph (A); and
 

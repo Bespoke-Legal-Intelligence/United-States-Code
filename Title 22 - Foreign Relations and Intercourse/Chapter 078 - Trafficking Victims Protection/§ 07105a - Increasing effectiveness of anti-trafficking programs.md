@@ -24,7 +24,7 @@ In administering funds made available to carry out this Act within and outside t
 
 #### (1) In general
 
-&emsp;The President shall establish a system to evaluate the effectiveness and efficiency of the assistance provided under anti-trafficking programs established under this Act on a program-by-program basis in order to maximize the long-term sustainable development impact of such assistance.
+&emsp;The President shall establish a system to evaluate the effectiveness and efficiency of theassistance provided under anti-trafficking programs established under this Act on a program-by-program basis in order to maximize the long-term sustainable development impact of such assistance.
 
 #### (2) Requirements
 

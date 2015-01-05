@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the Commodity Futures Trading Commis
 
 #### (b) National Futures Association regulatory experience; report; contents
 
-The Commodity Futures Trading Commission shall submit to Congress a report containing the results of a study of the regulatory experience of the National Futures Association for the period beginning January 1, 1983 and ending September30, 1985. The report shall be submitted not later than January 1, 1986. The report shall include (but not to be limited to) the following—
+The Commodity Futures Trading Commission shall submit to Congress a report containing the results of a study of the regulatory experience of the National Futures Association for the period beginning January 1, 1983 and ending September 30, 1985. The report shall be submitted not later than January 1, 1986. The report shall include (but not to be limited to) the following—
 
 &emsp;(1) the extent to which the National Futures Association has fully implemented the program provided in the rules approved by the Commission under section 17(p) and (q) of the Commodity Exchange Act \[7 U.S.C. 21(p), (q)\] and the effectiveness of the operation of such program;
 

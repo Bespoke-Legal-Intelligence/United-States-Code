@@ -18,7 +18,7 @@
 
 (b)(1) Interest may be paid from the appropriation made by this section—
 
-&emsp;(A) on a judgment of a district court, only when the judgment becomes final after review on appeal or petition by the United StatesGovernment, and then only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance; or
+&emsp;(A) on a judgment of a district court, only when the judgment becomes final after review on appeal or petition by the United States Government, and then only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance; or
 
 &emsp;(B) on a judgment of the Court of Appeals for the Federal Circuit or the United States Court of Federal Claims under section 2516(b) of title 28, only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance.
 

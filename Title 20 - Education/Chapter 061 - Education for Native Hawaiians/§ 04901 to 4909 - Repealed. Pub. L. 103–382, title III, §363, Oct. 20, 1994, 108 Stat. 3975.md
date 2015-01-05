@@ -4,7 +4,7 @@ Section 4901, Pub. L. 100–297, title IV, §4001, Apr. 28, 1988, 102 Stat. 358,
 
 Section 4902, Pub. L. 100–297, title IV, §4002, Apr. 28, 1988, 102 Stat. 358, stated purpose of this chapter.
 
-Section 4903, Pub. L. 100–297, title IV, §4003, Apr. 28, 1988, 102 Stat. 359, authorized grants to implementKemehameha Elementary Education Program model curriculum.
+Section 4903, Pub. L. 100–297, title IV, §4003, Apr. 28, 1988, 102 Stat. 359, authorized grants to implement Kemehameha Elementary Education Program model curriculum.
 
 Section 4904, Pub. L. 100–297, title IV, §4004, Apr. 28, 1988, 102 Stat. 359, authorized grants to develop and operate Family-Based Education Centers in Hawaiian Islands.
 

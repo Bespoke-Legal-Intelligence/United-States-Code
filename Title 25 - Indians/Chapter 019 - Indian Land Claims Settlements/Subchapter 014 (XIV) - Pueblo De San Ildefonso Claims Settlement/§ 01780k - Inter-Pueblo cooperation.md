@@ -6,7 +6,7 @@ The Pueblo of Santa Clara and the Pueblo may, by agreement, demarcate a boundary
 
 #### (b) Action by Secretary of the Interior
 
-In accordance with any agreement under subsection (a), the Secretary of the Interior shall,without further administrative procedures or environmental or other analyses—
+In accordance with any agreement under subsection (a), the Secretary of the Interior shall, without further administrative procedures or environmental or other analyses—
 
 &emsp;(1) recognize a boundary between the Pueblo of Santa Clara and the Pueblo;
 

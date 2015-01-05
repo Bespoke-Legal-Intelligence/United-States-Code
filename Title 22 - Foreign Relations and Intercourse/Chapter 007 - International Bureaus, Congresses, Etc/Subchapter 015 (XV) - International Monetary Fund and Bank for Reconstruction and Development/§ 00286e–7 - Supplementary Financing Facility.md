@@ -10,11 +10,11 @@ The Secretary of the Treasury shall account, through the fund established by sec
 
 #### (c) Authorization of appropriations
 
-Notwithstanding any other provision of this section, the authority of the Secretary to enter into agreements making resources available under this section shall be limited to such amounts as are appropriated in advance in appropriation Acts. Effective October 1, 1978, there are hereby authorized to be appropriated to the Secretary of the Treasury, without fiscal year limitation, such sums as are necessary to carry out subsection (a) of this section, but not to exceed an amount of dollars equivalent to 1,450 million Special Drawing Rights.
+Notwithstanding any other provision of this section, the authority of the Secretary to enterinto agreements making resources available under this section shall be limited to such amounts as are appropriated in advance in appropriation Acts. Effective October 1, 1978, there are hereby authorized to be appropriated to the Secretary of the Treasury, without fiscal year limitation, such sums as are necessary to carry out subsection (a) of this section, but not to exceed an amount of dollars equivalent to 1,450 million Special Drawing Rights.
 
 (July 31, 1945, ch. 339, §28, as added Pub. L. 95–435, §1, Oct. 10, 1978, 92 Stat. 1051.)
 
 #### Codification
 
-In subsec. (b), "section 5302 of title 31" substituted for "section 10 of the Gold Reserve Act of 1934, asamended (31 U.S.C. 822a)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), "section 5302 of title 31" substituted for "section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

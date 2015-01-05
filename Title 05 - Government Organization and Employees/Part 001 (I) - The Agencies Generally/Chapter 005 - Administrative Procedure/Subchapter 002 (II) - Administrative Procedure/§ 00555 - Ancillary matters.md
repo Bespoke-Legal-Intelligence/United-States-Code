@@ -2,7 +2,7 @@
 
 (a) This section applies, according to the provisions thereof, except as otherwise provided by this subchapter.
 
-(b) A person compelled to appear in person before an agency or representative thereof is entitled to be accompanied, represented, and advised by counsel or, if permitted by the agency, by other qualified representative. A party is entitled to appear in person or by or with counsel or other duly qualified representative in an agency proceeding. So far as the orderly conduct of public business permits, an interested person may appear before an agency or its responsible employees for the presentation, adjustment, or determination of an issue, request, or controversy in a proceeding, whether interlocutory, summary, or otherwise, or in connection with an agency function. With due regard for the convenience and necessity of the parties or their representatives and within a reasonable time, each agency shall proceed to conclude a matter presented to it. This subsection does not grant or deny a person who is not a lawyer the right to appear for or represent others before an agency or in an agency proceeding.
+(b) A person compelled to appear in person before an agency or representative thereof is entitled to be accompanied, represented, and advised by counsel or, if permitted by the agency, by other qualified representative. A party is entitled to appear in person or by or with counsel or other duly qualified representative in an agency proceeding. So far as the orderly conduct of public business permits, an interested person may appear before an agency or its responsible employees for the presentation, adjustment, or determination of an issue, request, or controversy in a proceeding, whether interlocutory, summary, or otherwise, or in connection with an agency function. With due regard for the convenience and necessity of the parties or their representatives and within a reasonable time, each agency shall proceed to conclude a matter presented to it. This subsection does not grantor deny a person who is not a lawyer the right to appear for or represent others before an agency or in an agency proceeding.
 
 (c) Process, requirement of a report, inspection, or other investigative act or demand may not be issued, made, or enforced except as authorized by law. A person compelled to submit data or evidence is entitled to retain or, on payment of lawfully prescribed costs, procure a copy or transcript thereof, except that in a nonpublic investigatory proceeding the witness may for good cause be limited to inspection of the official transcript of his testimony.
 
@@ -26,11 +26,11 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §6, 60 Stat. 240.
 
-In subsection (b), the words “is entitled” are substituted for “shall be accorded the right”. The word “officers” is omitted as included in “employees” in view of the definition of “employee” in section 2105. The words “With due regard for the convenience and necessity of the parties or their representatives and within a reasonable time” are substituted for “with reasonable dispatch” and “except that due regard shall be had for the convenience and necessity of the parties or their representatives”. The prohibition in the last sentence is restated in positive form and the words “This subsection does not” are substituted for “Nothing herein shall be construed either to”.
+In subsection (b), the words "is entitled" are substituted for "shall be accorded the right". The word "officers" is omitted as included in "employees" in view of the definition of "employee" in section 2105. The words "With due regard for the convenience and necessity of the parties or their representatives and within a reasonable time" are substituted for "with reasonable dispatch" and "except that due regard shall be had for the convenience and necessity of the parties or their representatives". The prohibition in the last sentence is restated in positive form and the words "This subsection does not" are substituted for "Nothing herein shall be construed either to".
 
-In subsection (c), the words “in any manner or for any purpose” are omitted as surplusage.
+In subsection (c), the words "in any manner or for any purpose" are omitted as surplusage.
 
-In subsection (e), the word “brief” is substituted for “simple”. The words “of the grounds for denial” are substituted for “of procedural or other grounds” for clarity.
+In subsection (e), the word "brief" is substituted for "simple". The words "of the grounds for denial" are substituted for "of procedural or other grounds" for clarity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

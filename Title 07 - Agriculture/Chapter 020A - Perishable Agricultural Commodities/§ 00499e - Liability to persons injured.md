@@ -6,7 +6,7 @@ If any commission merchant, dealer, or broker violates any provision of section 
 
 #### (b) Remedies
 
-Such liability may be enforced either (1) by complaint to the Secretary as hereinafter provided, or (2) by suit in any court of competent jurisdiction; but this section shall not in any way abridge or alter the remedies now existing at common law or by statute, and the provisions of this chapter are in addition to such remedies.
+Such liability may be enforced either (1) by complaint to the Secretary as hereinafter provided, or (2) by suit in any court of competent jurisdiction; but this section shall not in anyway abridge or alter the remedies now existing at common law or by statute, and the provisions of this chapter are in addition to such remedies.
 
 #### (c) Trust on commodities and sales proceeds for benefit of unpaid suppliers, sellers, or agents; preservation of trust; jurisdiction of courts
 
@@ -20,7 +20,7 @@ Such liability may be enforced either (1) by complaint to the Secretary as herei
 
 (5) The several district courts of the United States are vested with jurisdiction specifically to entertain (i) actions by trust beneficiaries to enforce payment from the trust, and (ii) actions by the Secretary to prevent and restrain dissipation of the trust.
 
-(June 10, 1930, ch. 436, §5, 46 Stat. 534; Aug. 20, 1937, ch. 719, §7, 50 Stat. 728; Pub. L. 98–273, §1,May 7, 1984, 98 Stat. 165; Pub. L. 102–237, title X, §1011(3), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§6, 8(b), Nov. 15, 1995, 109 Stat. 427, 429.)
+(June 10, 1930, ch. 436, §5, 46 Stat. 534; Aug. 20, 1937, ch. 719, §7, 50 Stat. 728; Pub. L. 98–273, §1, May 7, 1984, 98 Stat. 165; Pub. L. 102–237, title X, §1011(3), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§6, 8(b), Nov. 15, 1995, 109 Stat. 427, 429.)
 
 #### Codification
 

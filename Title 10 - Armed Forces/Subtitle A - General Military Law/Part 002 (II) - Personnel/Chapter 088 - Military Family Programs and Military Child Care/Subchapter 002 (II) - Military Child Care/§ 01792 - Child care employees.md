@@ -2,7 +2,7 @@
 
 (a)
 
-Required Training.—(1) The Secretary of Defense shall prescribe regulations implementing a training program for child care employees.Those regulations shall apply uniformly among the military departments. Subject to paragraph (2), satisfactory completion of the training program shall be a condition of employment of any person as a child care employee.
+Required Training.—(1) The Secretary of Defense shall prescribe regulations implementing a training program for child care employees. Those regulations shall apply uniformly among the military departments. Subject to paragraph (2), satisfactory completion of the training program shall be a condition of employment of any person as a child care employee.
 
 (2) Under those regulations, the Secretary shall require that each child care employee complete the training program not later than six months after the date on which the employee is employed as a child care employee.
 

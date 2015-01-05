@@ -16,7 +16,7 @@ Each State educational agency shall make available at reasonable times and place
 
 If any State educational agency fails or refuses to comply with any provision of this section, or with any order of the Secretary under subsection (b) of this section, the Secretary shall forthwith terminate all assistance to the State educational agency under the applicable program affected or issue such other orders as the Secretary may deem appropriate to achieve such compliance.
 
-(Pub. L. 90–247, title IV, §432, formerly §425, as added Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 566; amended Pub. L. 95–561, title XII, §1247, Nov. 1, 1978, 92 Stat. 2354; renumbered §432 and amended Pub. L. 103–382, title II, §§212(b)(1), 243, Oct. 20, 1994, 108 Stat. 3913, 3922.)
+(Pub. L. 90–247, title IV, §432, formerly §425, as added Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 566; amended Pub. L. 95–561, title XII, §1247, Nov. 1, 1978, 92 Stat. 2354; renumbered§432 and amended Pub. L. 103–382, title II, §§212(b)(1), 243, Oct. 20, 1994, 108 Stat. 3913, 3922.)
 
 #### Prior Provisions
 

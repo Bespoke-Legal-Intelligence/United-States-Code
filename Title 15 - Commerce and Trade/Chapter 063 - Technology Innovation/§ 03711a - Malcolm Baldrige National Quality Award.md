@@ -8,7 +8,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 (1) The President (on the basis of recommendations received from the Secretary), or the Secretary, shall periodically make the award to companies and other organizations which in the judgment of the President or the Secretary have substantially benefited the economic or social well-being of the United States through improvements in the quality of their goods or services resulting from the effective practice of quality management, and which as a consequence are deserving of special recognition.
 
-(2) The presentation of the award shall be made by the President or the Secretary with such ceremonies as the President or the Secretary may deem proper.
+(2) The presentation of the award shall be made by the President or the Secretary withsuch ceremonies as the President or the Secretary may deem proper.
 
 (3) An organization to which an award is made under this section, and which agrees to help other American organizations improve their quality management, may publicize its receipt of such award and use the award in its advertising, but it shall be ineligible to receive another such award in the same category for a period of 5 years.
 
@@ -40,7 +40,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 &emsp;(B) permits a rigorous evaluation of the way in which its business and other operations have contributed to improvements in the quality of goods and services, and
 
-&emsp;(C) meets such requirements and specifications as the Secretary, after receiving recommendations from the Board of Overseers established under paragraph (2)(B) and the Director of the National Institute of Standards andTechnology, determines to be appropriate to achieve the objectives of this section.
+&emsp;(C) meets such requirements and specifications as the Secretary, after receiving recommendations from the Board of Overseers established under paragraph (2)(B) and the Director of the National Institute of Standards and Technology, determines to be appropriate to achieve the objectives of this section.
 
 > In applying the provisions of subparagraph (C) with respect to any organization, the Director of the National Institute of Standards and Technology shall rely upon an intensive evaluation by a competent board of examiners which shall review the evidence submitted by the organization and, through a site visit, verify the accuracy of the quality improvements claimed. The examination should encompass all aspects of the organization's current practice of quality management, as well as the organization's provision for quality management in its future goals. The award shall be given only to organizations which have made outstanding improvements in the quality of their goods or services (or both) and which demonstrate effective quality management through the training and involvement of all levels of personnel in quality improvement.
 
@@ -64,7 +64,7 @@ The Secretary shall prepare and submit to the President and the Congress, within
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory)."
+<b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not more than two awards may be made within anysubcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory)."
 
 <b>2004</b>—Subsec. (c)(1)(F). Pub. L. 108–320 added subpar. (F).
 

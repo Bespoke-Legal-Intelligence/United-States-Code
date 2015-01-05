@@ -16,7 +16,7 @@ The Administrator of the Small Business Administration shall establish competiti
 
 #### (c) Matching requirement
 
-To be eligible to receive an award under this section, an applicant shall provide a matching contribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
+To be eligible to receive an award under this section, an applicant shall provide a matchingcontribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
 
 #### (d) Purpose of awards
 

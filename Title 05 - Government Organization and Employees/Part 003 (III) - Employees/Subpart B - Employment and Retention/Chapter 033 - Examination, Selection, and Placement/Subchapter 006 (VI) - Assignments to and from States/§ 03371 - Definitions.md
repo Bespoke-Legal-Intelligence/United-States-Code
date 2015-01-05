@@ -2,13 +2,13 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) “State” means—
+&emsp;(1) "State" means—
 
 &emsp;&emsp;(A) a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and a territory or possession of the United States; and
 
 &emsp;&emsp;(B) an instrumentality or authority of a State or States as defined in subparagraph (A) of this paragraph (1) and a Federal-State authority or instrumentality;
 
-&emsp;(2) “local government” means—
+&emsp;(2) "local government" means—
 
 &emsp;&emsp;(A) any political subdivision, instrumentality, or authority of a State or States as defined in subparagraph (A) of paragraph (1);
 
@@ -16,9 +16,9 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
 
-&emsp;(3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Printing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
+&emsp;(3) "Federal agency" means an Executive agency, military department, a court of theUnited States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
 
-&emsp;(4) “other organization” means—
+&emsp;(4) "other organization" means—
 
 &emsp;&emsp;(A) a national, regional, State-wide, area-wide, or metropolitan organization representing member State or local governments;
 
@@ -28,7 +28,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(D) a federally funded research and development center.
 
-(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1920; amended Pub. L. 93–638, title I, §104(a), formerly §105(a), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(a), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(a), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 100–472, title II, §203(b), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(c), May 24, 1990, 104 Stat. 207; Pub. L. 103–337, div. A, title X, §1068(a), Oct. 5, 1994, 108 Stat. 2852; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
+(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1920; amended Pub. L. 93–638, title I, §104(a), formerly §105(a), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(a), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(a), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 100–472, title II, §203(b), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(c), May 24, 1990, 104 Stat. 207; Pub. L. 103–337, div. A, title X, §1068(a), Oct. 5, 1994, 108 Stat. 2852; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
@@ -38,13 +38,13 @@ Section 4 of the Indian Self-Determination and Education Assistance Act, referre
 
 #### Amendments
 
-<b>2006</b>—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Par. (3). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
 <b>1994</b>—Par. (4)(D). Pub. L. 103–337 added subpar. (D).
 
-<b>1990</b>—Par. (2)(C). Pub. L. 101–301 substituted “section 4” for “section 4(m)”.
+<b>1990</b>—Par. (2)(C). Pub. L. 101–301 substituted "section 4" for "section 4(m)".
 
-<b>1988</b>—Par. (2)(C). Pub. L. 100–472, §203(b), amended Pub. L. 93–638, by substituting “section 4(m)” for “section 4(c)” in the provision it added as par. (2)(C) of this section. See 1975 Amendment note below.
+<b>1988</b>—Par. (2)(C). Pub. L. 100–472, §203(b), amended Pub. L. 93–638, by substituting "section 4(m)" for "section 4(c)" in the provision it added as par. (2)(C) of this section. See 1975 Amendment note below.
 
 <b>1978</b>—Par. (1)(A). Pub. L. 95–454, §603(a)(1), inserted reference to the Trust Territory of the Pacific Islands.
 
@@ -52,13 +52,17 @@ Pars. (3), (4). Pub. L. 95–454, §603(a)(2), added pars. (3) and (4).
 
 <b>1975</b>—Par. (2)(C). Pub. L. 93–638, as amended by Pub. L. 100–472, §203(b), added par. (2)(C).
 
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in par. (3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
 #### Effective Date
 
-Pub. L. 91–648, title IV, §404, Jan. 5, 1971, 84 Stat. 1925, provided that: “This title \[enacting this subchapter and repealing sections 1881 to 1888 of Title 7, Agriculture, section 869b of Title 20, Education, and section 246(f) of Title 42, The Public Health and Welfare, (less applicability to commissioned officers of the Public Health Service)\] shall become effective sixty days after the date of enactment of this Act \[Jan. 5, 1971\].”
+Pub. L. 91–648, title IV, §404, Jan. 5, 1971, 84 Stat. 1925, provided that: "This title \[enacting this subchapter and repealing sections 1881 to 1888 of Title 7, Agriculture, section 869b of Title 20, Education, and section 246(f) of Title 42, The Public Health and Welfare, (less applicability to commissioned officers of the Public Health Service)\] shall become effective sixty days after the date of enactment of this Act \[Jan. 5, 1971\]."
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -68,41 +72,41 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Pub. L. 108–196, §3, Dec. 19, 2003, 117 Stat. 2896, provided that:
 
-“(a)
+"(a)
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘employing agency’ means the Federal, State, or local government agency with which the participating employee was employed before an assignment under the Program;
+&emsp;"(1) the term 'employing agency' means the Federal, State, or local government agency with which the participating employee was employed before an assignment under the Program;
 
-&emsp;“(2) the term ‘participating employee’ means an employee who is participating in the Program; and
+&emsp;"(2) the term 'participating employee' means an employee who is participating in the Program; and
 
-&emsp;“(3) the term ‘Program’ means the employee exchange program established under subsection (b).
+&emsp;"(3) the term 'Program' means the employee exchange program established under subsection (b).
 
-“(b)
+"(b)
 
 Establishment.—The President shall establish an employee exchange program between Federal agencies that perform law enforcement functions and agencies of State and local governments that perform law enforcement functions.
 
-“(c)
+"(c)
 
 Conduct of Program.—The Program shall be conducted in accordance with subchapter VI of chapter 33 of title 5, United States Code.
 
-“(d)
+"(d)
 
 Qualifications.—An employee of an employing agency who performs law enforcement functions may be selected to participate in the Program if the employee—
 
-&emsp;“(1) has been employed by that employing agency for a period of more than 3 years;
+&emsp;"(1) has been employed by that employing agency for a period of more than 3 years;
 
-&emsp;“(2) has had appropriate training or experience to perform the work required by the assignment;
+&emsp;"(2) has had appropriate training or experience to perform the work required by the assignment;
 
-&emsp;“(3) has had an overall rating of satisfactory or higher on performance appraisals from the employing agency during the 3-year period before being assigned to another agency under this section; and
+&emsp;"(3) has had an overall rating of satisfactory or higher on performance appraisals from the employing agency during the 3-year period before being assigned to another agency under this section; and
 
-&emsp;“(4) agrees to return to the employing agency after completing the assignment for a period not less than the length of the assignment.
+&emsp;"(4) agrees to return to the employing agency after completing the assignment for a period not less than the length of the assignment.
 
-“(e)
+"(e)
 
-Written Agreement.—An employee shall enter into a written agreement regarding the terms and conditions of the assignment before beginning the assignment with another agency.”
+Written Agreement.—An employee shall enter into a written agreement regarding the terms and conditions of the assignment before beginning the assignment with another agency."
 
 #### Declaration of Purpose
 
-Pub. L. 91–648, title IV, §401, Jan. 5, 1971, 84 Stat. 1920, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: “The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations.”
+Pub. L. 91–648, title IV, §401, Jan. 5, 1971, 84 Stat. 1920, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: "The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations."
 

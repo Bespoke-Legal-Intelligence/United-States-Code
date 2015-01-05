@@ -16,47 +16,16 @@ For purposes of this section—
 
 &emsp;(2) Any judge who meets the age and service requirements set forth in the following table may retire:
 
-<b> </b>
+&nbsp;
 
-<b>And the years</b>
-
-<b> </b>
-
-<b>of service as</b>
-
-<b> The judge has</b>
-
-<b>  a judge are</b>
-
-<b>  attained age:</b>
-
-<b>at least:</b>
-
-&emsp;&emsp;65
-
-15&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;66
-
-14&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;67
-
-13&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;68
-
-12&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;69
-
-11&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;70
-
-10\.&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> The judge has attained age:</b> | <b>And the years of service as a judge are at least:</b> |
+| :--- | ---: |
+| 65 | 15&nbsp;&nbsp; |
+| 66 | 14&nbsp;&nbsp; |
+| 67 | 13&nbsp;&nbsp; |
+| 68 | 12&nbsp;&nbsp; |
+| 69 | 11&nbsp;&nbsp; |
+| 70 | 10\. |
 
 &emsp;(3) Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Court for 15 years or more and (B) not earlier than 9 months preceding the date of the expiration of the term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
 
@@ -170,7 +139,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revoke such election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
+&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revokesuch election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
 
 #### (2) Manner of revoking
 
@@ -186,7 +155,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;&emsp;(i) the individual shall be treated as not having filed an election under section 7448(b), and
 
-&emsp;&emsp;&emsp;(ii) section 7448(g) shall not apply, and the amount credited to such individual's account (together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
+&emsp;&emsp;&emsp;(ii) section 7448(g) shall not apply, and the amount credited to such individual's account (together with interest at 3 percent per annum, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
 &emsp;&emsp;(C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
@@ -238,13 +207,15 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge's nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, §221(a)(115), Dec. 19, 2014, 128 Stat. 4054.)
 
 #### Amendments
 
+<b>2014</b>—Subsec. (i)(3)(B)(ii). Pub. L. 113–295 substituted "at 3 percent per annum" for "at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter".
+
 <b>2006</b>—Subsec. (j). Pub. L. 109–280 added subsec. (j).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–647 inserted at end "In computing the rate of the retired pay under paragraph\(1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantially full-time basis shall be treated as a period during which he has served as a judge."
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 inserted at end "In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantiallyfull-time basis shall be treated as a period during which he has served as a judge."
 
 <b>1986</b>—Subsec. (a)(2), (3), (5). Pub. L. 99–514, §1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "The term 'Civil Service Commission' means the United States Civil Service Commission."
 
@@ -289,6 +260,10 @@ Subsec. (g)(4). Pub. L. 91–172, §954(c), struck out par. (4) which provided t
 Subsec. (h). Pub. L. 91–172, §954(d), added subsec. (h).
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–354 substituted "during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period" for "at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge" and "the rate of such salary for such period" for "the rate of such salary" wherever appearing.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2006 Amendment
 

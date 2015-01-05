@@ -84,13 +84,13 @@ Not more than 5 percent of funds provided to a grantee under this section for an
 
 #### (c) Priorities
 
-In awarding grants or contracts to carry out activities described in subsection (a)(2) of this section, except for activities listed in subsection (d)(2) of this section, the Secretary shall givepriority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
+In awarding grants or contracts to carry out activities described in subsection (a)(2) of this section, except for activities listed in subsection (d)(2) of this section, the Secretary shall give priority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
 
 #### (d) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2002 and each of the 5 succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out this section such sums as may benecessary for fiscal year 2002 and each of the 5 succeeding fiscal years.
 
 #### (2) Availability of funds
 

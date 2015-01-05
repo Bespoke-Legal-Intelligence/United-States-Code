@@ -6,7 +6,7 @@ Every national banking association within each Federal reserve district shall be
 
 #### Codification
 
-Section is based on part of the third par. of section 2 of act Dec. 23, 1913. The rest of the third par. was not included in the Code. For classification of other pars. ofsection 2 of this Act, see Codification note set out under section 222 of this title.
+Section is based on part of the third par. of section 2 of act Dec. 23, 1913. The rest of the third par. was not included in the Code. For classification of other pars. of section 2 of this Act, see Codification note set out under section 222 of this title.
 
 #### Change of Name
 

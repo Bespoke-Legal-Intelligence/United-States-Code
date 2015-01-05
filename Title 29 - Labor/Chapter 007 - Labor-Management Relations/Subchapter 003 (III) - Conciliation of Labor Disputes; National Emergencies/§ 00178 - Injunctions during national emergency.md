@@ -14,7 +14,7 @@ In any case, the provisions of chapter 6 of this title shall not be applicable.
 
 #### (c) Review of orders
 
-The order or orders of the court shall be subject to review by the appropriate United Statescourt of appeals and by the Supreme Court upon writ of certiorari or certification as provided in section 1254 of title 28.
+The order or orders of the court shall be subject to review by the appropriate United States court of appeals and by the Supreme Court upon writ of certiorari or certification as provided in section 1254 of title 28.
 
 (June 23, 1947, ch. 120, title II, §208, 61 Stat. 155; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 

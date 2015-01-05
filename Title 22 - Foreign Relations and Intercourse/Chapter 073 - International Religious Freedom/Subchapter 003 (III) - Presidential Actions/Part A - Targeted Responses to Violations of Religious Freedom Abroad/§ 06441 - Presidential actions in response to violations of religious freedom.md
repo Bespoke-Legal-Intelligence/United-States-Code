@@ -10,11 +10,11 @@
 
 &emsp;&emsp;&emsp;(i) to oppose violations of religious freedom that are or have been engaged in or tolerated by the governments of foreign countries; and
 
-&emsp;&emsp;&emsp;(ii) to promote the right to freedom of religion in those countries through the actions described in subsection (b) of this section.
+&emsp;&emsp;&emsp;(ii) to promote the right to freedom of religion in those countries through the actions described in subsection (b).
 
 #### (B) Requirement of Presidential action
 
-&emsp;&emsp;For each foreign country the government of which engages in or tolerates violations of religious freedom, the President shall oppose such violations and promote the right to freedom of religion in that country through the actions described in subsection (b) of this section.
+&emsp;&emsp;For each foreign country the government of which engages in or tolerates violations of religious freedom, the President shall oppose such violations and promote the right to freedom of religion in that country through the actions described in subsection (b).
 
 #### (2) Basis of actions
 
@@ -24,9 +24,9 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the President, in consultation with the Secretary of State, the Ambassador at Large, the Special Adviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) of this section by the government of a foreign country—
+&emsp;Subject to paragraphs (2) and (3), the President, in consultation with the Secretary of State, the Ambassador at Large, the Special Adviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) by the government of a foreign country—
 
-&emsp;&emsp;(A) take one or more of the actions described in paragraphs (1) through (15) of section 6445(a) of this title (or commensurateaction in substitution thereto) with respect to such country; or
+&emsp;&emsp;(A) take one or more of the actions described in paragraphs (1) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to such country; or
 
 &emsp;&emsp;(B) negotiate and enter into a binding agreement with the government of such country, as described in section 6445(c) of this title.
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b) of this section, the President shall—
+&emsp;In carrying out subsection (b), the President shall—
 
 &emsp;&emsp;(A) take the action or actions that most appropriately respond to the nature and severity of the violations of religious freedom;
 

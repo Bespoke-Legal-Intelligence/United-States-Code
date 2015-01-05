@@ -52,7 +52,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall require that public and Indian housing agencies, and their contractors and subcontractors, make their best efforts, consistent with existing Federal, State, and local laws and regulations, to award contracts for work to be performed in connection with development assistance provided pursuant to section 1437c of title 42, operating assistance provided pursuant to section 1437g of title 42, and modernizationgrants provided pursuant to section 1437l of title 42,<sup>1</sup> to business concerns that provide economic opportunities for low- and very low-income persons.
+&emsp;&emsp;The Secretary shall require that public and Indian housing agencies, and their contractors and subcontractors, make their best efforts, consistent with existing Federal, State, and local laws and regulations, to award contracts for work to be performed in connection with development assistance provided pursuant to section 1437c of title 42, operating assistance provided pursuant to section 1437g of title 42, and modernization grants provided pursuant to section 1437l of title 42,<sup>1</sup> to business concerns that provide economic opportunities for low- and very low-income persons.
 
 #### (B) Priority
 
@@ -102,7 +102,25 @@ The Secretary shall consult with the Secretary of Labor, the Secretary of Health
 
 Not later than 180 days after October 28, 1992, the Secretary shall promulgate regulations to implement this section.
 
-(Pub. L. 90–448, §3, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, title IV, §404, Dec. 24, 1969, 83 Stat. 395; Pub. L. 93–383, title I, §118, Aug. 22, 1974, 88 Stat. 653; Pub. L. 96–399, title III, §329, Oct. 8, 1980, 94 Stat. 1651; Pub. L. 102–550, title IX, §915, Oct. 28, 1992, 106 Stat. 3878; Pub. L. 109–281, §2(d)(1), Sept. 22, 2006, 120 Stat. 1181.)
+(Pub. L. 90–448, §3, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, title IV, §404, Dec. 24, 1969, 83 Stat. 395; Pub. L. 93–383, title I, §118, Aug. 22, 1974, 88 Stat. 653; Pub. L. 96–399, title III, §329, Oct. 8, 1980, 94 Stat. 1651; Pub. L. 102–550, title IX, §915, Oct. 28, 1992, 106 Stat. 3878; Pub. L. 109–281, §2(d)(1), Sept. 22, 2006, 120 Stat. 1181; Pub. L. 113–128, title V, §512(p), July 22, 2014, 128 Stat. 1711.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–128, title V, §§506, 512(p), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:</i>
+
+<i>(1) in subsection (c):</i>
+
+<i>(A) in paragraph (1)(B)(iii), by striking "participants in YouthBuild programs receiving assistance under section 2918a of title 29" and inserting "participants in YouthBuild programs receiving assistance under section 3226 of title 29"; and</i>
+
+<i>(B) in paragraph (2)(B), by striking "participants in YouthBuild programs receiving assistance under section 2918a of title 29" and inserting "participants in YouthBuild programs receiving assistance under section 3226 of title 29"; and</i>
+
+<i>(2) in subsection (d):</i>
+
+<i>(A) in paragraph (1)(B)(iii), by striking "To YouthBuild programs receiving assistance under section 2918a of title 29" and inserting "To YouthBuild programs receiving assistance under section 3226 of title 29"; and</i>
+
+<i>(B) in paragraph (2)(B), by striking "to YouthBuild programs receiving assistance under section 2918a of title 29" and inserting "to YouthBuild programs receiving assistance under section 3226 of title 29".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -116,13 +134,21 @@ October 28, 1992, referred to in subsec. (g), was in the original "the date of e
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(1)(B)(iii). Pub. L. 113–128, §512(p)(1)(A), substituted "participants in YouthBuild programs receiving assistance under section 3226 of title 29" for "participants in YouthBuild programs receiving assistance under section 2918a of title 29".
+
+Subsec. (c)(2)(B). Pub. L. 113–128, §512(p)(1)(B), substituted "participants in YouthBuild programs receiving assistance under section 3226 of title 29" for "participants in YouthBuild programs receiving assistance under section 2918a of title 29".
+
+Subsec. (d)(1)(B)(iii). Pub. L. 113–128, §512(p)(2)(A), substituted "To YouthBuild programs receiving assistance under section 3226 of title 29" for "To YouthBuild programs receiving assistance under section 2918a of title 29".
+
+Subsec. (d)(2)(B). Pub. L. 113–128, §512(p)(2)(B), substituted "to YouthBuild programs receiving assistance under section 3226 of title 29" for "to YouthBuild programs receiving assistance under section 2918a of title 29".
+
 <b>2006</b>—Subsecs. (c)(1)(B)(iii), (2)(B), (d)(1)(B)(iii), (2)(B). Pub. L. 109–281 substituted "YouthBuild programs receiving assistance under section 2918a of title 29" for "Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act".
 
 <b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: "In the administration by the Secretary of Housing and Urban Development of programs providing direct financial assistance, including community development block grants under title I of the Housing and Community Development Act of 1974, in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, the Secretary shall—
 
 &emsp;"(1) require, in consultation with the Secretary of Labor, that to the greatest extent feasible opportunities for training and employment arising in connection with the planning and carrying out of any project assisted under any such program be given to lower income persons residing within the unit of local government or the metropolitan area (or nonmetropolitan county), as determined by the Secretary, in which the project is located; and
 
-&emsp;"(2) require, in consultation with the Administrator of the Small Business Administration, that to the greatest extent feasible contracts for work to be performed in connection with any such project be awarded to business concerns, including but not limited to individuals or firms doing business in the field of planning, consulting, design, architecture, buildingconstruction, rehabilitation, maintenance or repair, which are located in or owned in substantial part by persons residing in the same metropolitan area (or nonmetropolitan county) as the project."
+&emsp;"(2) require, in consultation with the Administrator of the Small Business Administration, that to the greatest extent feasible contracts for work to be performed in connection with any such project be awarded to business concerns, including but not limited to individuals or firms doing business in the field of planning, consulting, design, architecture, building construction, rehabilitation, maintenance or repair, which are located in or owned in substantial part by persons residing in the same metropolitan area (or nonmetropolitan county) as the project."
 
 <b>1980</b>—Par. (1). Pub. L. 96–399, §329(1), substituted "residing within the unit of local government or the metropolitan area (or nonmetropolitan county), as determined by the Secretary, in which the project is located" for "residing in the area of such project".
 
@@ -132,9 +158,13 @@ Par. (2). Pub. L. 96–399, §329(2), substituted "residing in the same metropol
 
 <b>1969</b>—Pub. L. 91–152 substituted provisions making applicable programs providing direct financial assistance in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, for provisions making applicable programs authorized by sections 1715l(d)(3), 1715z, and 1715z–1 of this title, the low-rent public housing program under the United States Housing Act of 1937, and the rent supplement program under section 101 of the Housing and Urban Development Act of 1965.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–281, §2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: "This section \[enacting section 2918a of Title 29, Labor, amending this section, section 4183 of Title 25, Indians, section 2939 of Title 29, and section 12870 of Title 42, The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
+Pub. L. 109–281, §2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: "This section \[enacting section 2918a ofTitle 29, Labor, amending this section, section 4183 of Title 25, Indians, section 2939 of Title 29, and section 12870 of Title 42, The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
 
 &emsp;"(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
 

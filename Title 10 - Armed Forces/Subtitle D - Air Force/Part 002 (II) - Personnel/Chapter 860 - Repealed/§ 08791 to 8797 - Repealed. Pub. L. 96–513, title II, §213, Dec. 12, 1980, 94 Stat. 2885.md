@@ -1,6 +1,6 @@
 ### \[§§8791 to 8797. Repealed. Pub. L. 96–513, title II, §213, Dec. 12, 1980, 94 Stat. 2885\]
 
-Section 8791, added Pub. L. 86–616, §8(a), July 12, 1960, 74 Stat. 393, authorized Secretary of Air Force to convene at any time a board of general officers to review record of any commissioned officer on active list of Regular Air Force to determine whether he should be required, because of moral dereliction, professional dereliction, or because his retention is not clearly consistent with the interests of national security, to show cause for his retention on active list. See section 1181(b) of this title.
+Section 8791, added Pub. L. 86–616, §8(a), July 12, 1960, 74 Stat. 393, authorized Secretary of Air Force to convene at any time a board of general officers to review record of any commissioned officer on active list of Regular Air Force to determine whether he should berequired, because of moral dereliction, professional dereliction, or because his retention is not clearly consistent with the interests of national security, to show cause for his retention on active list. See section 1181(b) of this title.
 
 Section 8792, added Pub. L. 86–616, §8(a), July 12, 1960, 74 Stat. 393, provided for boards of inquiry, composed of three or more general officers, to be convened at such places as Secretary of Air Force prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under section 8791 of this title, should be retained on active list of the Regular Air Force. See section 1182 of this title.
 

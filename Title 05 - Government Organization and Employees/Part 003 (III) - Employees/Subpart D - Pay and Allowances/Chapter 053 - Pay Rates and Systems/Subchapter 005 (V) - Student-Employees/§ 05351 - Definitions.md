@@ -2,13 +2,13 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) “agency” means an Executive agency, a military department, and the government of the District of Columbia; and
+&emsp;(1) "agency" means an Executive agency, a military department, and the government of the District of Columbia; and
 
-&emsp;(2) “student-employee” means—
+&emsp;(2) "student-employee" means—
 
 &emsp;&emsp;(A) a student nurse, medical or dental intern, resident-in-training, student dietitian, student physical therapist, and student occupational therapist, assigned or attached to a hospital, clinic, or medical or dental laboratory operated by an agency; and
 
-&emsp;&emsp;(B) any other student-employee, assigned or attached primarily for training purposesto a hospital, clinic, or medical or dental laboratory operated by an agency, who is designated by the head of the agency with the approval of the Office of Personnel Management.
+&emsp;&emsp;(B) any other student-employee, assigned or attached primarily for training purposes to a hospital, clinic, or medical or dental laboratory operated by an agency, who is designated by the head of the agency with the approval of the Office of Personnel Management.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Aug. 4, 1947, ch. 452, §2, 61 Stat. 727.
 
-The section is restated in definition form. In paragraph (1), the words “an Executive agency, a military department” are coextensive with and substituted for “department, agency, or instrumentality of the Federal Government” in view of the definitions in sections 105 and 102.
+The section is restated in definition form. In paragraph (1), the words "an Executive agency, a military department" are coextensive with and substituted for "department, agency, or instrumentality of the Federal Government" in view of the definitions in sections 105 and 102.
 
 The exception from the Classification Act of 1923, as amended, is omitted as obsolete and superseded by the Classification Act of 1949, as amended, which is carried into this title. The present exception from the Classification Act of 1949, as amended, is carried into section 5102(c)(16).
 
@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Par. (2)(B). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Par. (2)(B). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 #### Effective Date of 1978 Amendment
 

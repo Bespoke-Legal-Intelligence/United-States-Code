@@ -34,9 +34,9 @@ Consideration by Milestone Decision Authority.—The Milestone Decision Authorit
 
 (d)
 
-Submittal of Reports.—(1) In the case of a major satellite acquisition program initiated before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment.
+Submittal of Reports.—(1) In the case of a major satellite acquisition program initiated before January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment.<sup>1</sup>
 
-(2) In the case of a major satellite acquisition program initiated on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
+(2) In the case of a major satellite acquisition program initiated on or after January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
 
 (e)
 
@@ -62,7 +62,7 @@ Requirement.—For each major satellite acquisition program that the Under Secre
 
 &emsp;(2)
 
-Termination of requirement.—The requirement to submit an annual report update for a program under paragraph (1) shall terminate on the date on which the Under Secretary submits to the congressional defense committees notice that the Under Secretary has determined that such program is no longer a non-integrated program, or on the date that is five years after the date on which the initial report update required under paragraph (1) is submitted, whichever is earlier.
+Termination of requirement.—The requirement to submit an annual report update for a program under paragraph (1) shall terminate on the date on which the Under Secretary submits to the congressional defense committees notice that the Under Secretary has determined that such program is no longer a non-integrated program, or on the date that isfive years after the date on which the initial report update required under paragraph (1) is submitted, whichever is earlier.
 
 &emsp;(3)
 
@@ -88,13 +88,21 @@ Milestone b approval.—The term "Milestone B approval" has the meaning given th
 
 Non-integrated program.—The term "non-integrated program" means a program with respect to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program, or a related program that is necessary for the operational capability of the program, provide for the acquisition or the delivery of the capabilities of at least two of the three segments for the program or related program more than one year apart.
 
-(Added Pub. L. 112–239, div. A, title IX, §911(a), Jan. 2, 2013, 126 Stat. 1870.)
+(Added Pub. L. 112–239, div. A, title IX, §911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, §1071(e)(3), Dec. 19, 2014, 128 Stat. 3509.)
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (d), is the date of the enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
+Such date of enactment, referred to in subsec. (d)(1), is a reference to the date of enactment of the National Defense Authorization Act for Fiscal Year 2013, Pub. L. 112–239, which was approved Jan. 2, 2013. Such reference was struck out by Pub. L. 113–291, §1071(e)(3)(A), see 2014 Amendment note below.
 
 #### Prior Provisions
 
 A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to award of contracts and review of decisions, was repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–291, §1071(e)(3)(A), substituted "before January 2, 2013" for "before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013".
+
+Subsec. (d)(2). Pub. L. 113–291, §1071(e)(3)(B), substituted "on or after January 2, 2013" for "on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

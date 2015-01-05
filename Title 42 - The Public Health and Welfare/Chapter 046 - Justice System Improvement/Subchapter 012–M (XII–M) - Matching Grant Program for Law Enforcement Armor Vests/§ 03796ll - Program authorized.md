@@ -98,7 +98,7 @@ Pub. L. 106–517, §2, Nov. 13, 2000, 114 Stat. 2407, provided that: "Congress 
 
 &emsp;"(4) according to studies, between 1985 and 1994, bullet-resistant materials helped save the lives of more than 2,000 law enforcement officers in the United States; and
 
-&emsp;"(5) the Executive Committee for Indian Country Law Enforcement Improvements reports that violent crime in Indian country has risen sharply, despite adecrease in the national crime rate, and has concluded that there is a 'public safety crisis in Indian country'."
+&emsp;"(5) the Executive Committee for Indian Country Law Enforcement Improvements reports that violent crime in Indian country has risen sharply, despite a decrease in the national crime rate, and has concluded that there is a 'public safety crisis in Indian country'."
 
 #### Findings and Purpose of 1998 Amendments
 

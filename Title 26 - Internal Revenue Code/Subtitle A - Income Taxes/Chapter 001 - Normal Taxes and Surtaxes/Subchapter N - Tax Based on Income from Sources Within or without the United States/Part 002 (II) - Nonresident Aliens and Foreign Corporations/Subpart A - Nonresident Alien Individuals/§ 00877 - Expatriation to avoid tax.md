@@ -148,7 +148,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or, if no income was so derived, would have been from such sources),
 
-> &emsp;&emsp;any income or gain on such property (or any other property which has a basis determined in whole or part by reference to such property) received or accrued by the corporation shall be treated as received or accrued directly by such individual and not by such corporation. The preceding sentence shall not apply to the extent the property has been treated under subparagraph (C) as having been sold by such corporation.
+> &emsp;&emsp;any income or gain on such property (or any other property which has a basis determinedin whole or part by reference to such property) received or accrued by the corporation shall be treated as received or accrued directly by such individual and not by such corporation. The preceding sentence shall not apply to the extent the property has been treated under subparagraph (C) as having been sold by such corporation.
 
 #### (B) Corporation described
 
@@ -178,11 +178,11 @@ For purposes of subsection (b)—
 
 #### (1) In general
 
-&emsp;Any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lostUnited States citizenship on the date of such cessation or commencement.
+&emsp;Any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
 
 #### (2) Long-term resident
 
-&emsp;For purposes of this subsection, the term "long-term resident" means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
+&emsp;For purposes of this subsection, the term "long-term resident" means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
 
 #### (3) Special rules
 
@@ -216,7 +216,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an individual described in any of the following subparagraphs of this paragraph, a day of physical presence in the United States shall be disregarded if the individual is performing services in the United States on such day for an employer. The preceding sentence shall not apply if—
+&emsp;&emsp;In the case of an individual described in any of the following subparagraphs of thisparagraph, a day of physical presence in the United States shall be disregarded if the individual is performing services in the United States on such day for an employer. The preceding sentence shall not apply if—
 
 &emsp;&emsp;&emsp;(i) such employer is related (within the meaning of section 267 and 707) to such individual, or
 
@@ -246,7 +246,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31),July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646; Pub. L. 113–295, div. A, title II, §213(c)(2), Dec. 19, 2014, 128 Stat. 4034.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -261,6 +261,8 @@ The date of the enactment of this subsection, referred to in subsec. (h), is the
 A prior section 877 was renumbered section 878 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(2). Pub. L. 113–295 struck out "subparagraph (A) or (B) of" after "event described in".
 
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–245, §301(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: "Any long-term resident of the United States who—
 
@@ -336,7 +338,7 @@ Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesig
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–318 substituted "402(d)(1)" for "402(e)(1)".
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514 inserted at end "For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or inpart by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2)."
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 inserted at end "For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or in part by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2)."
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–222 substituted "55, or 402(e)(1)" for "section 55, 402(e)(1), or section 1201(b)".
 
@@ -345,6 +347,10 @@ Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesig
 <b>1976</b>—Subsecs. (b)(2), (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–406 inserted reference to section 402(e)(1).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the Heroes Earnings Assistance and Relief Tax Act of 2008, Pub. L. 110–245, to which such amendment relates, see section 213(d) of Pub. L. 113–295, set out as a note under section 121 of this title.
 
 #### Effective Date of 2008 Amendment
 

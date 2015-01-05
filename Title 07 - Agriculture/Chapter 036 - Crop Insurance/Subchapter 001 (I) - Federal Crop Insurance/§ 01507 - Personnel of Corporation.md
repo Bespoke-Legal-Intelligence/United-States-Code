@@ -22,13 +22,13 @@ In carrying out the provisions of this subchapter the Board may, in its discreti
 
 #### (f) Use of resources, data, boards, and committees of Federal agencies
 
-The Board should use, to the maximum extent possible, the resources, data, boards, and the committees of (1) the Soil Conservation Service, in assisting the Board in the classification of land as to risk and production capability and in the development of acceptable conservation practices; (2) the Forest Service, in assisting the Board in the development of a timber insurance plan; (3) the Agricultural Stabilization and Conservation Service, in assisting the Board in the determination of individual producer yields and in serving as a local contact point for farmers where the Board deems necessary; and (4) other Federal agencies in any way the Board deems necessary in carrying out this subchapter.
+The Board should use, to the maximum extent possible, the resources, data, boards, and the committees of (1) the Soil Conservation Service, in assisting the Board in the classification of land as to risk and production capability and in the development of acceptable conservation practices; (2) the Forest Service, in assisting the Board in the development of a timber insurance plan; (3) the Agricultural Stabilization and Conservation Service, in assisting the Board in the determination of individual producer yields and in serving as a local contact point for farmers where the Board deems necessary; and (4) otherFederal agencies in any way the Board deems necessary in carrying out this subchapter.
 
 #### (g) Specialty Crops Coordinator
 
 (1) The Corporation shall establish a management-level position to be known as the Specialty Crops Coordinator.
 
-(2) The Specialty Crops Coordinator shall have primary responsibility for addressing the needsof specialty crop producers, and for providing information and advice, in connection with the activities of the Corporation to improve and expand the insurance program for specialty crops. In carrying out this paragraph, the Specialty Crops Coordinator shall act as the liaison of the Corporation with representatives of specialty crop producers and assist the Corporation with the knowledge, expertise, and familiarity of the producers with risk management and production issues pertaining to specialty crops.
+(2) The Specialty Crops Coordinator shall have primary responsibility for addressing the needs of specialty crop producers, and for providing information and advice, in connection with the activities of the Corporation to improve and expand the insurance program for specialty crops. In carrying out this paragraph, the Specialty Crops Coordinator shall act as the liaison of the Corporation with representatives of specialty crop producers and assist the Corporation with the knowledge, expertise, and familiarity of the producers with risk management and production issues pertaining to specialty crops.
 
 (3) The Specialty Crops Coordinator shall use information collected from Corporation field office directors in States in which specialty crops have a significant economic effect and from other sources, including the extension service and colleges and universities.
 
@@ -82,7 +82,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance underFederal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
+Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
 
 #### Effective Date of 1980 Amendment
 

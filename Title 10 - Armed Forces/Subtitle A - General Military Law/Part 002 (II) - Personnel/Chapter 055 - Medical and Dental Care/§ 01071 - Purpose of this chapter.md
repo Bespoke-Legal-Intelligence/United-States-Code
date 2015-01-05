@@ -48,7 +48,85 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–614, §1, Sept. 30, 1966, 80 Stat. 862, provided: "That this Act \[enacting sections 1086 and 1087 of thistitle, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the 'Military Medical Benefits Amendments of 1966'."
+Pub. L. 89–614, §1, Sept. 30, 1966, 80 Stat. 862, provided: "That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the 'Military Medical Benefits Amendments of 1966'."
+
+#### Provision of Information to Members of the Armed Forces on Privacy Rights Relating to Receipt of Mental Health Services
+
+Pub. L. 113–291, div. A, title V, §523, Dec. 19, 2014, 128 Stat. 3361, provided that:
+
+"(a)
+
+Provision of Information Required.—The Secretaries of the military departments shall ensure that the information described in subsection (b) is provided—
+
+&emsp;"(1) to each officer candidate during initial training;
+
+&emsp;"(2) to each recruit during basic training; and
+
+&emsp;"(3) to other members of the Armed Forces at such times as the Secretary of Defense considers appropriate.
+
+"(b)
+
+Required Information.—The information required to be provided under subsection (a) shall include information on the applicability of the Department of Defense Instruction on Privacy of Individually Identifiable Health Information in DoD Health Care Programs and other regulations regarding privacy prescribed pursuant to the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) to records regarding a member of the Armed Forces seeking and receiving mental health services."
+
+#### Improved Consistency in Data Collection and Reporting in Armed Forces Suicide Prevention Efforts
+
+Pub. L. 113–291, div. A, title V, §567, Dec. 19, 2014, 128 Stat. 3385, provided that:
+
+"(a)
+
+Policy for Standard Suicide Data Collection, Reporting, and Assessment.—
+
+&emsp;"(1)
+
+Policy required.—The Secretary of Defense shall prescribe a policy for the development of a standard method for collecting, reporting, and assessing information regarding—
+
+&emsp;&emsp;"(A) any suicide or attempted suicide involving a member of the Armed Forces, including reserve components thereof; and
+
+&emsp;&emsp;"(B) any death that is reported as a suicide involving a dependent of a member of the Armed Forces.
+
+&emsp;"(2)
+
+Purpose of policy.—The purpose of the policy required by this subsection is to improve the consistency and comprehensiveness of—
+
+&emsp;&emsp;"(A) the suicide prevention policy developed pursuant to section 582 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 10 U.S.C. 1071 note); and
+
+&emsp;&emsp;"(B) the suicide prevention and resilience program for the National Guard and Reserves established pursuant to section 10219 of title 10, United States Code.
+
+&emsp;"(3)
+
+Consultation.—The Secretary of Defense shall develop the policy required by this subsection in consultation with the Secretaries of the military departments and the Chief of the National Guard Bureau.
+
+"(b)
+
+Submission and Implementation of Policy.—
+
+&emsp;"(1)
+
+Submission.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit the policy developed under subsection (a) to the Committees on Armed Services of the Senate and the House of Representatives.
+
+&emsp;"(2)
+
+Implementation.—The Secretaries of the military departments shall implement the policy developed under subsection (a) not later than 180 days after the date of the submittal of the policy under paragraph (1).
+
+"(c)
+
+Dependent Defined.—In this section, the term 'dependent', with respect to a member of the Armed Forces, means a person described in section 1072(2) of title 10, United States Code, except that, in the case of a parent or parent-in-law of the member, the income requirements of subparagraph (E) of such section do not apply."
+
+#### Antimicrobial Stewardship Program at Medical Facilities of the Department of Defense
+
+Pub. L. 113–291, div. A, title VII, §727, Dec. 19, 2014, 128 Stat. 3420, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], theSecretary of Defense shall carry out an antimicrobial stewardship program at medical facilities of the Department of Defense.
+
+"(b)
+
+Collection and Analysis of Data.—In carrying out the antimicrobial stewardship program required by subsection (a), the Secretary shall develop a consistent manner in which to collect and analyze data on antibiotic usage, health issues related to antibiotic usage, and antimicrobial resistance trends at medical facilities of the Department.
+
+"(c)
+
+Plan.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a plan for carrying out the antimicrobial stewardship program required by subsection (a)."
 
 #### Comprehensive Policy on Improvements to Care and Transition of Members of the Armed Forces With Urotrauma
 
@@ -264,7 +342,7 @@ Interoperable.—The term 'interoperable' refers to the ability of different ele
 
 &emsp;"(4)
 
-Integrated.—The term 'integrated' refers to the integration of health data from the Department of Defense and the Department of Veterans Affairs and outside providers to provide clinicians with a comprehensive medical record that allows data existing on disparate systems to be shared or accessedacross functional or system boundaries in order to make the most informed decisions when treating patients."
+Integrated.—The term 'integrated' refers to the integration of health data from the Department of Defense and the Department of Veterans Affairs and outside providers to provide clinicians with a comprehensive medical record that allows data existing on disparate systems to be shared or accessed across functional or system boundaries in order to make the most informed decisions when treating patients."
 
 #### Enhancement of Oversight and Management of Department of Defense Suicide Prevention and Resilience Programs
 
@@ -684,7 +762,7 @@ Study required.—Upon completion of the policy review required by subsection (a
 
 Elements.—The study required by paragraph (1) shall include a review and assessment of the following:
 
-&emsp;&emsp;"(A) The adequacy and appropriateness of protocols for the diagnosis, treatment, and management of substance use disorders in members of the Armed Forces.
+&emsp;&emsp;"(A) The adequacy and appropriateness of protocols for the diagnosis, treatment, and managementof substance use disorders in members of the Armed Forces.
 
 &emsp;&emsp;"(B) The adequacy of the availability of and access to care for substance use disorders in military medical treatment facilities and under the TRICARE program.
 
@@ -896,7 +974,7 @@ Quality Assurance.—In undertaking actions under this section, the Secretary of
 
 "(d)
 
-Consultation.—In considering actions to be undertaken under this section, and in undertaking such actions, the Secretary shall consult with a broad range of national health care and military advocacy organizations.
+Consultation.—In considering actions to be undertaken under this section, and in undertaking such actions, the Secretary shall consult with a broad rangeof national health care and military advocacy organizations.
 
 "(e)
 
@@ -904,7 +982,7 @@ Reports Required.—
 
 &emsp;"(1)
 
-Initial report.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an initial report on the progress made in undertaking actions under this section andfuture plans for improvement of the military health system.
+Initial report.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an initial report on the progress made in undertaking actions under this section and future plans for improvement of the military health system.
 
 &emsp;"(2)
 
@@ -1016,11 +1094,11 @@ In general.—The center shall—
 
 &emsp;"(2)
 
-Designation of registry.—The registry under this subsection shall be known as the 'Hearing Loss and Auditory System Injury Registry' (hereinafter referred to as the 'Registry').
+Designation of registry.—The registry under this subsection shall be known as the 'Hearing Lossand Auditory System Injury Registry' (hereinafter referred to as the 'Registry').
 
 &emsp;"(3)
 
-Consultation in development.—The center shall develop the Registry in consultation with audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Defense and the audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department ofVeterans Affairs. The mechanisms and procedures of the Registry shall reflect applicable expert research on military and other hearing loss.
+Consultation in development.—The center shall develop the Registry in consultation with audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Defense and the audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Veterans Affairs. The mechanisms and procedures of the Registry shall reflect applicable expert research on military and other hearing loss.
 
 &emsp;"(4)
 
@@ -1046,7 +1124,7 @@ Inclusion of Records of OIF/OEF Veterans.—The Secretary of Defense shall take 
 
 #### Wounded Warrior Health Care Improvements
 
-Pub. L. 110–181, div. A, title XVI, §§1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, 122 Stat. 431–443, 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by Pub. L. 110–417, \[div. A\], title II, §252, title VII, §§722, 724, title X, §1061(b)(13), Oct. 14, 2008, 122 Stat. 4400, 4508, 4509, 4613; Pub. L. 111–84, div. A, title VI, §632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–56, title II, §231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), title VII, §707, Dec. 31, 2011, 125 Stat. 1465, 1474; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
+Pub. L. 110–181, div. A, title XVI, §§1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, 122 Stat. 431–443, 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by Pub. L. 110–417, \[div. A\], title II, §252, title VII, §§722, 724, title X, §1061(b)(13), Oct. 14, 2008, 122 Stat. 4400, 4508, 4509, 4613; Pub. L. 111–84, div. A, title VI, §632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–56, title II, §231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), title VII, §707, Dec. 31, 2011, 125 Stat. 1465, 1474; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–175, title I, §105, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–291, div. A, title V, §591, title VII, §724, Dec. 19, 2014, 128 Stat. 3394, 3418, provided that:
 
 #### "SEC. 1602. GENERAL DEFINITIONS.
 
@@ -1224,7 +1302,7 @@ In general.—The policy required by subsection (a) shall provide for uniform st
 
 &emsp;"(2)
 
-Tracking of notifications.—In providing for uniform standards under paragraph (1), the policy shall include a mechanism or system to track the number of notifications made by recovery care coordinators, medical care case managers, and non-medical care managers to health care professionals under paragraph (1)(A) regarding early warning signsof post-traumatic stress disorder and suicide in recovering service members.
+Tracking of notifications.—In providing for uniform standards under paragraph (1), the policy shall include a mechanism or system to track the number of notifications made by recovery care coordinators, medical care case managers, and non-medical care managers to health care professionals under paragraph (1)(A) regarding early warning signs of post-traumatic stress disorder and suicide in recovering service members.
 
 "(e)
 
@@ -1324,7 +1402,7 @@ Limitation on number of service members managed by managers.—The maximum numbe
 
 &emsp;&emsp;"(E)
 
-Training.—The policy shall specify standard training requirements and curricula among themilitary departments for non-medical care managers under the program, including a requirement for successful completion of the training program before a person may assume the duties of such a manager.
+Training.—The policy shall specify standard training requirements and curricula among the military departments for non-medical care managers under the program, including a requirement for successful completion of the training program before a person may assume the duties of such a manager.
 
 &emsp;&emsp;"(F)
 
@@ -1420,11 +1498,11 @@ Job placement services for family members of recovering service members.—The p
 
 "(g)
 
-Outreach to Recovering Service Members and Their Families on Comprehensive Policy.—The policy required by subsection (a) shall include procedures and mechanisms to ensure that recovering service members and their families are fully informed of the policies required by this section, including policies on medical care for recovering service members, on the management and transition of recovering service members, and on the responsibilities of recovering service members and their family members throughout the continuum of care and services for recovering service members under this section.
+Outreach to Recovering Service Members and Their Families on Comprehensive Policy.—The policyrequired by subsection (a) shall include procedures and mechanisms to ensure that recovering service members and their families are fully informed of the policies required by this section, including policies on medical care for recovering service members, on the management and transition of recovering service members, and on the responsibilities of recovering service members and their family members throughout the continuum of care and services for recovering service members under this section.
 
 "(h)
 
-Applicability of Comprehensive Policy to Recovering Service Members on Temporary DisabilityRetired List.—Appropriate elements of the policy required by this section shall apply to recovering service members whose names are placed on the temporary disability retired list in such manner, and subject to such terms and conditions, as the Secretary of Defense shall prescribe in regulations for purposes of this subsection.
+Applicability of Comprehensive Policy to Recovering Service Members on Temporary Disability Retired List.—Appropriate elements of the policy required by this section shall apply to recovering service members whose names are placed on the temporary disability retired list in such manner, and subject to such terms and conditions, as the Secretary of Defense shall prescribe in regulations for purposes of this subsection.
 
 #### "SEC. 1612. MEDICAL EVALUATIONS AND PHYSICAL DISABILITY EVALUATIONS OF RECOVERING SERVICE MEMBERS.
 
@@ -1580,7 +1658,7 @@ Elements.—The processes, procedures, and standards required under this section
 
 &emsp;&emsp;"(E) A copy of any request of the service member for assistance in enrolling in, or completed applications for enrollment in, the health care system of the Department of Veterans Affairs for health care benefits for which the service member may be eligible under laws administered by the Secretary of Veterans Affairs.
 
-&emsp;&emsp;"(F) A copy of any request by the service member for assistance in applying for, or completed applications for, compensation and vocational rehabilitation benefits to which the service member may be entitled under laws administered by the Secretary of Veterans Affairs.
+&emsp;&emsp;"(F) A copy of any request by the service member for assistance in applying for, or completed applications for, compensation and vocational rehabilitation benefits to which the service member may beentitled under laws administered by the Secretary of Veterans Affairs.
 
 &emsp;"(11) A process to ensure that, before transmittal of medical records of a recovering service member to the Department of Veterans Affairs, the Secretary of Defense ensures that the service member (or an individual legally recognized to make medical decisions on behalf of the service member) authorizes the transfer of the medical records of the service member from the Department of Defense to the Department of Veterans Affairs pursuant to the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, see Tables for classification\].
 
@@ -1758,7 +1836,7 @@ Assessment.—The development and deployment of evidence-based means of assessin
 
 &emsp;"(7)
 
-Managing and monitoring.—The development and deployment of effective means of managing and monitoring members of the Armed Forces with traumatic brain injury, post-traumatic stress disorder, or other mental health conditions in the receipt of care for traumatic brain injury, post-traumatic stress disorder, or other mental health conditions, as applicable, including the monitoring and assessment of treatment and outcomes.
+Managing and monitoring.—The development and deployment of effective means of managing and monitoring members of the Armed Forces with traumatic brain injury, post-traumatic stress disorder, orother mental health conditions in the receipt of care for traumatic brain injury, post-traumatic stress disorder, or other mental health conditions, as applicable, including the monitoring and assessment of treatment and outcomes.
 
 &emsp;"(8)
 
@@ -1920,7 +1998,7 @@ Inclusion of Records of OIF/OEF Veterans.—The Secretary of Defense shall take 
 
 "(f)
 
-Traumatic Brain Injury Post Traumatic Visual Syndrome.—In carrying out the program at WalterReed Army Medical Center, District of Columbia, on traumatic brain injury post traumatic visual syndrome, the Secretary of Defense and the Department of Veterans Affairs shall jointly provide for the conduct of a cooperative program for members of the Armed Forces and veterans with traumatic brain injury by military medical treatment facilities of the Department of Defense and medical centers of the Department of Veterans Affairs selected for purposes of this subsection for purposes of vision screening, diagnosis, rehabilitative management, and vision research, including research on prevention, on visual dysfunction related to traumatic brain injury. \[As amended Pub. L. 110–417, \[div. A\], title VII, §722, Oct. 14, 2008, 122 Stat. 4508.\]
+Traumatic Brain Injury Post Traumatic Visual Syndrome.—In carrying out the program at Walter Reed Army Medical Center, District of Columbia, on traumatic brain injury post traumatic visual syndrome, the Secretary of Defense and the Department of Veterans Affairs shall jointly provide for the conduct of a cooperative program for members of the Armed Forces and veterans with traumatic brain injury by military medical treatment facilities of the Department of Defense and medical centers of the Department of Veterans Affairs selected for purposes of this subsection for purposes of vision screening, diagnosis, rehabilitative management, and vision research, including research on prevention, on visual dysfunction related to traumatic brain injury. \[As amended Pub. L. 110–417, \[div. A\], title VII, §722, Oct. 14, 2008, 122 Stat. 4508.\]
 
 #### "SEC. 1631. MEDICAL CARE AND OTHER BENEFITS FOR MEMBERS AND FORMER MEMBERS OF THE ARMED FORCES WITH SEVERE INJURIES OR ILLNESSES.
 
@@ -1946,7 +2024,7 @@ In general.—Effective as of the date of the enactment of this Act \[Jan. 28, 2
 
 &emsp;"(2)
 
-Sunset.—The Secretary of Veterans Affairs may not provide benefits to a member of the Armed Forces under this subsection after December 31, 2014, if the Secretary has not provided benefits to the member under this subsection before that date.
+Sunset.—The Secretary of Veterans Affairs may not provide benefits to a member of the Armed Forces under this subsection after December 31, 2015, if the Secretary has not provided benefits to the member under this subsection before that date.
 
 "(c)
 
@@ -2014,7 +2092,7 @@ Testimony.—Upon request by any of the appropriate committees of Congress, the 
 
 "(d)
 
-Function.—The function of the Office shall be to implement, by not later than September 30, 2009, electronic health record systems or capabilities that allow for full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs, which health records shall comply with applicable interoperability standards, implementation specifications, and certification criteria (including for the reporting of quality measures) of the Federal Government.
+Function.—The function of the Office shall be to implement, by not later than September 30, 2009, electronic health record systems or capabilities that allowfor full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs, which health records shall comply with applicable interoperability standards, implementation specifications, and certification criteria (including for the reporting of quality measures) of the Federal Government.
 
 "(e)
 
@@ -2058,7 +2136,7 @@ Annual Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than January 1, 2009, and each year thereafter through 2014, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
+In general.—Not later than January 1, 2009, and each year thereafter through 2015, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
 
 &emsp;&emsp;"(A) A detailed description of the activities of the Office, including a detailed description of the amounts expended and the purposes for which expended.
 
@@ -2104,13 +2182,13 @@ Scope of Pilot Programs.—
 
 &emsp;"(1)
 
-Disability determinations by dod utilizing va assigned disability rating.—Under one of the pilot programs authorized by subsection (a), for purposes of making a determination of disability of a member of the Armed Forces under section 1201(b) of title 10, United States Code, for the retirement, separation, or placement of the member on the temporary disability retired list under chapter 61 of such title, upon a determination by the Secretary of the military department concerned that the member is unfit to perform the duties of the member's office, grade, rank, or rating because of a physical disability as described in section 1201(a) of such title—
+Disability determinations by dod utilizing va assigned disability rating.—Under one of the pilot programs authorized by subsection (a), for purposes of making a determination of disability of a member of the Armed Forces under section 1201(b) oftitle 10, United States Code, for the retirement, separation, or placement of the member on the temporary disability retired list under chapter 61 of such title, upon a determination by the Secretary of the military department concerned that the member is unfit to perform the duties of the member's office, grade, rank, or rating because of a physical disability as described in section 1201(a) of such title—
 
 &emsp;&emsp;"(A) the Secretary of Veterans Affairs may—
 
 &emsp;&emsp;&emsp;"(i) conduct an evaluation of the member for physical disability; and
 
-&emsp;&emsp;&emsp;"(ii) assign the member a rating of disability in accordance with the schedule for rating disabilities utilized by the Secretary of Veterans Affairsbased on all medical conditions (whether individually or collectively) that render the member unfit for duty; and
+&emsp;&emsp;&emsp;"(ii) assign the member a rating of disability in accordance with the schedule for rating disabilities utilized by the Secretary of Veterans Affairs based on all medical conditions (whether individually or collectively) that render the member unfit for duty; and
 
 &emsp;&emsp;"(B) the Secretary of the military department concerned may make the determination of disability regarding the member utilizing the rating of disability assigned under subparagraph (A)(ii).
 
@@ -2194,7 +2272,7 @@ Initial report.—Not later than 90 days after the date of the enactment of this
 
 &emsp;&emsp;"(A) a description of the scope and objectives of the pilot program;
 
-&emsp;&emsp;"(B) a description of the methodology to be used under the pilot program to ensure rapid identification under such pilot program of revised or improved practices under the disability evaluationsystem in order to achieve the objectives set forth in subsection (c)(1); and
+&emsp;&emsp;"(B) a description of the methodology to be used under the pilot program to ensure rapid identification under such pilot program of revised or improved practices under the disability evaluation system in order to achieve the objectives set forth in subsection (c)(1); and
 
 &emsp;&emsp;"(C) a statement of any provision described in subsection (e)(1)(B) that will not apply to the pilot program by reason of a waiver under that subsection.
 
@@ -2312,7 +2390,7 @@ Provision to Representatives.—If a member is incapacitated or otherwise unable
 
 "(a)
 
-Required Inspections of Facilities.—All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected on a semiannual basis for the first two years after the enactment of this Act \[Jan. 28, 2008\] and annually thereafter by the inspectors general of the regional medical commands.
+Required Inspections of Facilities.—All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected at least once every two years by the inspectors general of the regional medical commands.
 
 "(b)
 
@@ -2516,7 +2594,7 @@ Medical Research Efforts.—
 
 &emsp;"(1)
 
-In general.—The executive agent designated under subsection (a) shall review and assess the adequacy of medical research efforts of the Department of Defense as of the date of the enactment of this Act \[Jan. 6, 2006\] relating to the following:
+In general.—The executive agent designated under subsection (a) shall review and assess the adequacy of medical research efforts of the Departmentof Defense as of the date of the enactment of this Act \[Jan. 6, 2006\] relating to the following:
 
 &emsp;&emsp;"(A) The characterization of blast effects leading to injury, including the injury potential of blasts in various environments.
 
@@ -2622,7 +2700,7 @@ Requirement To Establish Process.—(1) The Secretary of Defense shall prescribe
 
 &emsp;"(B) in consultation with the Secretary of Veterans Affairs, prescribe a clear definition of an 'episode of care' for use in the resolution of patient safety and continuity of care issues under such process.
 
-"(2) Not later than May 1, 2003, the Secretary shall submit to the Committees on Armed Services of theSenate and of the House of Representatives a report describing the process prescribed under paragraph (1).
+"(2) Not later than May 1, 2003, the Secretary shall submit to the Committees on Armed Services of the Senate and of the House of Representatives a report describing the process prescribed under paragraph (1).
 
 "(3) While prescribing the process under paragraph (1) and upon completion of the report under paragraph (2), the Secretary shall provide to the Comptroller General information that would be relevant in carrying out the study required by subsection (b).
 
@@ -2898,7 +2976,7 @@ Pub. L. 102–484, div. A, title VII, §724, Oct. 23, 1992, 106 Stat. 2440, as a
 
 Survey Required.—The administering Secretaries shall conduct annually a formal survey of persons receiving health care under chapter 55 of title 10, United States Code, in order to determine the following:
 
-&emsp;"(1) The availability of health care services to such persons through the health care system provided for under that chapter, the types of services received, and the facilities in which the services were provided.
+&emsp;"(1) The availability of health care services to such persons through the health care system provided forunder that chapter, the types of services received, and the facilities in which the services were provided.
 
 &emsp;"(2) The familiarity of such persons with the services available under that system and with the facilities in which such services are provided.
 
@@ -2942,9 +3020,9 @@ Sec. 2. <i>Suicide Prevention</i>. (a) By December 31, 2012, the Department of V
 
 Sec. 3. <i>Enhanced Partnerships Between the Department of Veterans Affairs and Community Providers</i>. (a) Within 180 days of the date of this order, in those service areas where the Department of Veterans Affairs has faced challenges in hiring and placing mental health service providers and continues to have unfilled vacancies or long wait times, the Departments of Veterans Affairs and Health and Human Services shall establish pilot projects whereby the Department of Veterans Affairs contracts or develops formal arrangements with community-based providers, such as community mental health clinics, community health centers, substance abuse treatment facilities, and rural health clinics, to test the effectiveness of community partnerships in helping to meet the mental health needs of veterans in a timely way. Pilot sites shall ensure that consumers of community-based services continue to be integrated into the health care systems of the Department of Veterans Affairs. No fewer than 15 pilot projects shall be established.
 
-(b) The Department of Veterans Affairs shall develop guidance for its medical centers and service networks that supports the use of community mental health services, including telehealth services and substance abuse services, where appropriate, to meet demand and facilitate access to care. This guidance shall include recommendations that medical centers and service networks use community-based providers to help meet veterans' mental health needs where objective criteria, which the Department of Veterans Affairs shall define in the form of specific metrics, demonstrate such needs. Such objective criteria should include estimates of wait-times for needed care that exceed established targets.
+(b) The Department of Veterans Affairs shall develop guidance for its medical centers and service networks that supports the use of community mental health services, including telehealth services and substance abuse services, where appropriate, to meet demand and facilitate access to care. This guidance shall include recommendations that medical centers and service networks use community-based providers to help meetveterans' mental health needs where objective criteria, which the Department of Veterans Affairs shall define in the form of specific metrics, demonstrate such needs. Such objective criteria should include estimates of wait-times for needed care that exceed established targets.
 
-(c) The Departments of Health and Human Services and Veterans Affairs shall develop a plan for a rural mental health recruitment initiative to promote opportunities for the Department of Veterans Affairs and rural communities to share mental health providerswhen demand is insufficient for either the Department of Veterans Affairs or the communities to independently support a full-time provider.
+(c) The Departments of Health and Human Services and Veterans Affairs shall develop a plan for a rural mental health recruitment initiative to promote opportunities for the Department of Veterans Affairs and rural communities to share mental health providers when demand is insufficient for either the Department of Veterans Affairs or the communities to independently support a full-time provider.
 
 Sec. 4. <i>Expanded Department of Veterans Affairs Mental Health Services Staffing</i>. The Secretary of Veterans Affairs shall, by December 31, 2013, hire and train 800 peer-to-peer counselors to empower veterans to support other veterans and help meet mental health care needs. In addition, the Secretary shall continue to use all appropriate tools, including collaborative arrangements with community-based providers, pay-setting authorities, loan repayment and scholarships, and partnerships with health care workforce training programs to accomplish the Department of Veterans Affairs' goal of recruiting, hiring, and placing 1,600 mental health professionals by June 30, 2013. The Department of Veterans Affairs also shall evaluate the reporting requirements associated with providing mental health services and reduce paperwork requirements where appropriate. In addition, the Department of Veterans Affairs shall update its management performance evaluation system to link performance to meeting mental health service demand.
 
@@ -3001,4 +3079,6 @@ Sec. 7. <i>General Provisions</i>. (a) This order shall be implemented consisten
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
 

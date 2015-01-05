@@ -4,7 +4,7 @@
 
 (2) If a grievant is not prohibited from filing a grievance under paragraph (1), the grievant may file with the Board a grievance which is also eligible for consideration, resolution, and relief under chapter 12 of title 5 or a regulation or Executive order other than under this subchapter. An election of remedies under this subsection shall be final upon the acceptance of jurisdiction by the Board.
 
-(3) This subsection shall not apply to any grievance with respect to which subsection (b) of this section applies.
+(3) This subsection shall not apply to any grievance with respect to which subsection (b) applies.
 
 (b)(1) With respect to a grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title, a grievant may either—
 
@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–138, §153(d)(1)(A), (B), redesignated former subsec. (a) as par. (1), redesignatedformer subsec. (b) as par. (2) of subsec. (a) and substituted "paragraph (1)" for "subsection (a) of this section" and "under this subsection" for "under this section", and added par. (3).
+<b>1991</b>—Subsec. (a). Pub. L. 102–138, §153(d)(1)(A), (B), redesignated former subsec. (a) as par. (1), redesignated former subsec. (b) as par. (2) of subsec. (a) and substituted "paragraph (1)" for "subsection (a) of this section" and "under this subsection" for "under this section", and added par. (3).
 
 Subsec. (b). Pub. L. 102–138, §153(d)(1)(C), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 

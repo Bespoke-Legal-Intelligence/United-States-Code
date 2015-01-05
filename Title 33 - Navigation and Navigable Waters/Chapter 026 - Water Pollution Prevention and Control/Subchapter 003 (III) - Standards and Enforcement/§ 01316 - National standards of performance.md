@@ -12,7 +12,7 @@ For purposes of this section:
 
 (4) The term "owner or operator" means any person who owns, leases, operates, controls, or supervises a source.
 
-(5) The term "construction" means any placement, assembly, or installation of facilities or equipment (including contractual obligations topurchase such facilities or equipment) at the premises where such equipment will be used, including preparation work at such premises.
+(5) The term "construction" means any placement, assembly, or installation of facilities or equipment (including contractual obligations to purchase such facilities or equipment) at the premises where such equipment will be used, including preparation work at such premises.
 
 #### (b) Categories of sources; Federal standards of performance for new sources
 
@@ -80,7 +80,7 @@ For purposes of this section:
 
 #### (c) State enforcement of standards of performance
 
-Each State may develop and submit to the Administrator a procedure under State law for applying and enforcing standards of performance for new sources located in such State. If the Administrator finds that the procedure and the law of any State require the application and enforcement of standards of performance to at least the same extent as required by this section, such State is authorized to apply and enforce such standards of performance (except with respect to new sources owned or operated by the United States).
+Each State may develop and submit to the Administrator a procedure under State law for applying and enforcing standards of performance for new sources located in such State. If the Administrator finds that the procedure and the lawof any State require the application and enforcement of standards of performance to at least the same extent as required by this section, such State is authorized to apply and enforce such standards of performance (except with respect to new sources owned or operated by the United States).
 
 #### (d) Protection from more stringent standards
 

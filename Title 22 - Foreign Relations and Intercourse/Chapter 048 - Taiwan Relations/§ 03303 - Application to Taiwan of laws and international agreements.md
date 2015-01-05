@@ -68,5 +68,5 @@ Report Elements.—Each report under subsection (a) shall—
 
 &emsp;"(2) describe in detail the efforts of the United States Government to achieve the membership or participation of Taiwan in each organization listed; and
 
-&emsp;"(3) identify the obstacles to the membership or participation of Taiwan in each organization listed, including a list of any governments that do not support the membership or participation of Taiwan in each such organization."
+&emsp;"(3) identify the obstacles to the membership or participation of Taiwan in each organization listed,including a list of any governments that do not support the membership or participation of Taiwan in each such organization."
 

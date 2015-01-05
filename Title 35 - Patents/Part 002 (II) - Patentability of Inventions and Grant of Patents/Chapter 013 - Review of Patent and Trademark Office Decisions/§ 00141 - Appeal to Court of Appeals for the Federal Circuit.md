@@ -2,7 +2,7 @@
 
 (a)
 
-Examinations.—An applicant who is dissatisfied with the final decision in an appeal to thePatent Trial and Appeal Board under section 134(a) may appeal the Board's decision to the United States Court of Appeals for the Federal Circuit. By filing such an appeal, the applicant waives his or her right to proceed under section 145.
+Examinations.—An applicant who is dissatisfied with the final decision in an appeal to the Patent Trial and Appeal Board under section 134(a) may appeal the Board's decision to the United States Court of Appeals for the Federal Circuit. By filing such an appeal, the applicant waives his or her right to proceed under section 145.
 
 (b)
 
@@ -62,7 +62,7 @@ Amendment by section 13106(c) of Pub. L. 107–273 applicable with respect to an
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4605(c)\] of Pub. L. 106–113 applicable to any reexamination filed in the United States Patent and Trademark Office on or after Nov. 2, 2002, see section 13202(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4605(c)\] of Pub. L. 106–113 applicable to any reexamination filed inthe United States Patent and Trademark Office on or after Nov. 2, 2002, see section 13202(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4605(c)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
 

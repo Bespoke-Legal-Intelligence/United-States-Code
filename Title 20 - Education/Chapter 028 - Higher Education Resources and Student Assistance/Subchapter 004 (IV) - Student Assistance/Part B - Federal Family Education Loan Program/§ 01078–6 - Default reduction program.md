@@ -10,15 +10,11 @@
 
 &emsp;&emsp;&emsp;(i) if practicable, sell the loan to an eligible lender; or
 
-&emsp;&emsp;&emsp;(ii) on or before September 30, 2011, assign the loan to the Secretary if—
-
-&emsp;&emsp;&emsp;&emsp;(I) the Secretary has determined that market conditions unduly limit a guaranty agency's ability to sell loans under clause (i); and
-
-&emsp;&emsp;&emsp;&emsp;(II) the guaranty agency has been unable to sell loans under clause (i).
+&emsp;&emsp;&emsp;(ii) beginning July 1, 2014, assign the loan to the Secretary if the guaranty agency has been unable to sell the loan under clause (i).
 
 #### (B) Monthly payments
 
-&emsp;&emsp;Neither the guaranty agency nor the Secretary shall demand from a borrower asmonthly payment amounts described in subparagraph (A) more than is reasonable and affordable based on the borrower's total financial circumstances.
+&emsp;&emsp;Neither the guaranty agency nor the Secretary shall demand from a borrower as monthly payment amounts described in subparagraph (A) more than is reasonable and affordable based on the borrower's total financial circumstances.
 
 #### (C) Consumer reporting agencies
 
@@ -30,11 +26,11 @@
 
 &emsp;&emsp;&emsp;(i) the guaranty agency—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall repay the Secretary 81.5 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
+&emsp;&emsp;&emsp;&emsp;(I) shall, in the case of a sale made on or after July 1, 2014, repay the Secretary 100 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may, in order to defray collection costs—
+&emsp;&emsp;&emsp;&emsp;(II) may, in the case of a sale made on or after July 1, 2014, in order to defray collection costs—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) charge to the borrower an amount not to exceed 18.5 percent of the outstanding principal and interest at the time of the loan sale; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) charge to the borrower an amount not to exceed 16 percent of the outstanding principal and interest at the time of the loan sale; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) retain such amount from the proceeds of the loan sale; and
 
@@ -84,29 +80,7 @@ Each guaranty agency shall establish a program which allows a borrower with a de
 
 Each program described in subsection (b) shall include making available financial and economic education materials for a borrower who has rehabilitated a loan.
 
-(Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §421, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8014(h), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title IV, §426, Aug. 14, 2008, 122 Stat. 3235; Pub. L.111–39, title IV, §402(d)(1), July 1, 2009, 123 Stat. 1941; Pub. L. 113–67, div. A, title V, §501, Dec. 26, 2013, 127 Stat. 1186.)
-
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 113–67, div. A, title V, §501, Dec. 26, 2013, 127 Stat. 1186, provided that, effective July 1, 2014, subsection (a)(1) of this section is amended:</i>
-
-<i>(1) in subparagraph (A), by striking clause (ii) and inserting the following:</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) beginning July 1, 2014, assign the loan to the Secretary if the guaranty agency has been unable to sell the loan under clause (i)."; and</i>
-
-<i>(2) in subparagraph (D), by striking clause (i) and inserting the following:</i>
-
-&emsp;&emsp;&emsp;<i>"(i) the guaranty agency—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) shall, in the case of a sale made on or after July 1, 2014, repay the Secretary 100 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) may, in the case of a sale made on or after July 1, 2014, in order to defray collection costs—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(aa) charge to the borrower an amount not to exceed 16 percent of the outstanding principal and interest at the time of the loan sale; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(bb) retain such amount from the proceeds of the loan sale; and".</i>
-
-<i>See 2013 Amendment notes below.</i>
+(Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §421, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8014(h), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title IV, §426, Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(d)(1), July 1, 2009, 123 Stat. 1941; Pub. L. 113–67, div. A, title V, §501, Dec. 26, 2013, 127 Stat. 1186.)
 
 #### References in Text
 
@@ -122,7 +96,7 @@ Title IV, referred to in subsec. (b), means title IV of the Higher Education Act
 
 Subsec. (a)(1)(D)(i). Pub. L. 113–67, §501(2), added cl. (i) and struck out former cl. (i) which read as follows: "the guaranty agency—
 
-&emsp;"(I) shall repay the Secretary 81.5 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
+&emsp;"(I) shall repay the Secretary 81.5 percent of the amount of the principal balance outstanding at thetime of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
 
 &emsp;"(II) may, in order to defray collection costs—
 
@@ -176,7 +150,7 @@ Pub. L. 113–67, div. A, title V, §501, Dec. 26, 2013, 127 Stat. 1186, provide
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–39, title IV, §402(d)(2), July 1, 2009, 123 Stat. 1942, provided that: "The amendments made byparagraph (1) \[amending this section\] shall be effective on the date of enactment of this Act \[July 1, 2009\], and shall apply to any loan on which monthly payments described in section 428F(a)(1)(A) \[42 U.S.C. 1078–6(a)(1)(A)\] were paid before, on, or after such date of enactment."
+Pub. L. 111–39, title IV, §402(d)(2), July 1, 2009, 123 Stat. 1942, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective on the date of enactment of this Act \[July 1, 2009\], and shall apply to any loan on which monthly payments described in section 428F(a)(1)(A) \[42 U.S.C. 1078–6(a)(1)(A)\] were paid before, on, or after such date of enactment."
 
 #### Effective Date of 2006 Amendment
 

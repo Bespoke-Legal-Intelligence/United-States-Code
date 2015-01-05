@@ -8,7 +8,7 @@ Within three full fiscal years following the fiscal year of enactment of this su
 
 &emsp;(2) proposals for public facilities to be developed for the conservation area or the monument, including a visitors center in the vicinity of Bandera Crater and a multiagency orientation center, to be located in or near Grants, New Mexico, and adjacent to Interstate 40, to accommodate visitors to western New Mexico;
 
-&emsp;(3) natural and cultural resources management plans for the monument and the conservation area, with a particular emphasis on the preservation and long-term scientific use of archeological resources, giving high priority to the enforcement of the provisions of the Archeological <sup>1</sup> Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\] and the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] within the monument and the conservation area. The natural and cultural resources management plans shall be prepared in close consultation with the Advisory Council on Historic Preservation, the New Mexico State Historic Preservation Office, and the local Indian people and their traditional cultural and religious authorities; and such plans shall provide for long-term scientific use of archaeological resources in the monument and the conservation area, including the wilderness areas designated by this subchapter; and
+&emsp;(3) natural and cultural resources management plans for the monument and the conservation area, with a particular emphasis on the preservation and long-term scientific use of archeological resources, giving high priority to the enforcement of the provisions of the Archeological <sup>1</sup> Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\] and the National Historic Preservation Act <sup>2</sup> within the monument and the conservation area. The natural and cultural resources management plans shall be prepared in close consultation with the Advisory Council on Historic Preservation, the New Mexico State Historic Preservation Office, and the local Indian people and their traditional cultural and religious authorities; and such plans shall provide for long-term scientific use of archaeological resources in the monument and the conservation area, including the wilderness areas designated by this subchapter; and
 
 &emsp;(4) wildlife resources management plans for the monument and the conservation area prepared in close consultation with appropriate departments of the State of New Mexico and using previous studies of the area.
 
@@ -32,11 +32,13 @@ The fiscal year of enactment of this subchapter, referred to in subsec. (a), is 
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(3), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470 of this title and Tables.
+The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Change of Name
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Archaeological".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

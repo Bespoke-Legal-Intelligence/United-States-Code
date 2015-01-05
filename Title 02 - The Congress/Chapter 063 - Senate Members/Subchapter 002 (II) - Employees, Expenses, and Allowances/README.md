@@ -7,7 +7,7 @@
 
 - [&sect; 06311 - Organizational expenses of Senator-elect](%C2%A7%2006311%20-%20Organizational%20expenses%20of%20Senator-elect.md)
 - [&sect; 06312 - Clerks to Senators-elect](%C2%A7%2006312%20-%20Clerks%20to%20Senators-elect.md)
-- [&sect; 06313 - Senators&#8217; Official Personnel and Office Expense Account](%C2%A7%2006313%20-%20Senators%E2%80%99%20Official%20Personnel%20and%20Office%20Expense%20Account.md)
+- [&sect; 06313 - Senators' Official Personnel and Office Expense Account](%C2%A7%2006313%20-%20Senators%27%20Official%20Personnel%20and%20Office%20Expense%20Account.md)
 - [&sect; 06314 - Mail, telegraph, telephone, stationery, office supplies, and home State office and travel expenses for Senators](%C2%A7%2006314%20-%20Mail%2C%20telegraph%2C%20telephone%2C%20stationery%2C%20office%20supplies%2C%20and%20home%20State%20office%20and%20travel%20expenses%20for%20Senators.md)
 - [&sect; 06315 - Telecommunications services for Senators; payment of costs out of contingent fund](%C2%A7%2006315%20-%20Telecommunications%20services%20for%20Senators%3B%20payment%20of%20costs%20out%20of%20contingent%20fund.md)
 - [&sect; 06316 - United States Code Annotated or United States Code Service; procurement for Senators](%C2%A7%2006316%20-%20United%20States%20Code%20Annotated%20or%20United%20States%20Code%20Service%3B%20procurement%20for%20Senators.md)

@@ -32,9 +32,9 @@ Cost Sharing.—Each cooperative research and development project entered into u
 
 (d)
 
-Restrictions on Procurement of Equipment and Services.—(1) In order to assure substantial participation on the part of countriesand organizations referred to in subsection (a)(2) in cooperative research and development projects, funds made available for such projects may not be used to procure equipment or services from any foreign government, foreign research organization, or other foreign entity.
+Restrictions on Procurement of Equipment and Services.—(1) In order to assure substantial participation on the part of countries and organizations referred to in subsection (a)(2) in cooperative research and development projects, funds made available for such projects may not be used to procure equipment or services from any foreign government, foreign research organization, or other foreign entity.
 
-(2) A country or organization referred to in subsection (a)(2) may not use any military or economic assistance grant, loan, or other funds provided by the United States for the purpose of making the contribution of that country or organization to a cooperative research and development program entered into with the United States under this section.
+(2) A country or organization referred to in subsection (a)(2) may not use any military or economic assistance grant, loan, or other fundsprovided by the United States for the purpose of making the contribution of that country or organization to a cooperative research and development program entered into with the United States under this section.
 
 (e)
 
@@ -80,13 +80,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term "NATO organization" means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L.112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583.)
 
 #### Prior Provisions
 
 Provisions relating to NATO countries were contained in Pub. L. 99–145, title XI, §1103, Nov. 8, 1985, 99 Stat. 712, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §931(d)(1).
 
-Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
+Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relationsand Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Subsec. (g)(1)(A), (4)(A). Pub. L. 107–107, §1212(a)(5), as amended by Pub. L
 
 Subsec. (h). Pub. L. 107–107, §1212(a)(6), substituted "member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries" for "major allies of the United States".
 
-Subsec. (i)(1). Pub. L. 107–107, §1212(a)(7)(A), substituted "countries and organizations referred to in subsection (a)(2)" for "major allies of the United States or NATO organizations".
+Subsec. (i)(1). Pub. L. 107–107, §1212(a)(7)(A), substituted "countries and organizations referred to insubsection (a)(2)" for "major allies of the United States or NATO organizations".
 
 Subsec. (i)(2) to (4). Pub. L. 107–107, §1212(a)(7)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "The term 'major ally of the United States' means—
 
@@ -252,11 +252,11 @@ Treatment of contributions received from other countries.—Any contribution rec
 
 &emsp;"(5)
 
-Costs of operation of offices established for program.—Costs for the operation of any officeestablished to carry out the Program shall be borne jointly by the participating countries as provided for in an agreement referred to in subsection (a).
+Costs of operation of offices established for program.—Costs for the operation of any office established to carry out the Program shall be borne jointly by the participating countries as provided for in an agreement referred to in subsection (a).
 
 "(d)
 
-Authority To Contract for Program Activities.—As part of the participation by the United States in the Program, the Secretary of Defense may enter into contracts or incur other obligations on behalf of the other participating countries for activities under the Program. Any payment for such a contract or other obligation under this subsection may be paid only from contributions credited to an appropriation under subsection (c)(4).
+Authority To Contract for Program Activities.—As part of the participation by the United States in the Program, the Secretary of Defense may enter into contracts or incur other obligations on behalf of the other participating countries for activities under the Program. Any payment for such a contract or other obligation under this subsection may be paid only fromcontributions credited to an appropriation under subsection (c)(4).
 
 "(e)
 

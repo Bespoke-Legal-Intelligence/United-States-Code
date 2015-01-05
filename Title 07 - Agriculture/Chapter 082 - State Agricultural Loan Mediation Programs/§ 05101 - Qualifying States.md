@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-A State is a qualifying State if the Secretary of Agriculture (hereinafter in this chapter referred to as the "Secretary") determines that the State has in effect a mediation program that meets the requirements of subsection (c) of this section.
+A State is a qualifying State if the Secretary of Agriculture (hereinafter in this chapter referred to as the "Secretary") determines that the State has in effect a mediation program that meets the requirements of subsection (c).
 
 #### (b) Determination by Secretary
 
-Within 15 days after the Secretary receives from the Governor of a State a description of the mediation program of the State and a statement certifying that the State has met all of the requirements of subsection (c) of this section, the Secretary shall determine whether the State is a qualifying State.
+Within 15 days after the Secretary receives from the Governor of a State a description of the mediation program of the State and a statement certifying that the State has met all of the requirements of subsection (c), the Secretary shall determine whether the State is a qualifying State.
 
 #### (c) Requirements of State mediation programs
 
@@ -18,7 +18,7 @@ Within 15 days after the Secretary receives from the Governor of a State a descr
 
 #### (B) Other issues
 
-&emsp;&emsp;The mediation program of a qualifying State may provide mediation services to persons described in paragraph (2) that are involved in one or more of the following issues under the jurisdiction of the Department of Agriculture:
+&emsp;&emsp;The mediation program of a qualifying State may provide mediation services to persons described in paragraph (2) that are involved in one or more of the following issuesunder the jurisdiction of the Department of Agriculture:
 
 &emsp;&emsp;&emsp;(i) Wetlands determinations.
 

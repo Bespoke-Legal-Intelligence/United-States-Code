@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (C) Federal long-term rate
 
-&emsp;&emsp;For purposes of this paragraph, the term "Federal long-term rate" means the Federal long-term rate which would have applied to the residual interest under section 1274(d) (determined without regard to paragraph (2) thereof) if it were a debt instrument.
+&emsp;&emsp;For purposes of this paragraph, the term "Federal long-term rate" means the Federal long-term rate which would have applied to the residual interest under section 1274(d)\(determined without regard to paragraph (2) thereof) if it were a debt instrument.
 
 #### (d) Treatment of residual interests held by real estate investment trusts
 

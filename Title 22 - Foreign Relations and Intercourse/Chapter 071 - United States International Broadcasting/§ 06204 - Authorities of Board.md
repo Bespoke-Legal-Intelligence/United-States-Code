@@ -42,13 +42,13 @@ The Board shall have the following authorities:
 
 &emsp;(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Bureau, or the Board before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
 
-&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Board determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
+&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Board determines that schoolsavailable in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
 
 &emsp;(B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Board determines that such schools are not accessible by public means of transportation.
 
 #### (b) Delegation of authority
 
-The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a) of this section.
+The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a).
 
 #### (c) Broadcasting budgets
 
@@ -90,7 +90,7 @@ Subsec. (a)(4). Pub. L. 105–277, §1323(e)(2), inserted ", after consultation
 
 Subsec. (a)(9). Pub. L. 105–277, §1323(e)(3), struck out ", through the Director of the United States Information Agency," after "the Congress" and inserted at end "Each annual report shall place special emphasis on the assessment described in paragraph (2)."
 
-Subsec. (a)(12). Pub. L. 105–277, §1323(e)(4), substituted "1998 and 1999" for "1994 and 1995" and "to the Board and the International Broadcasting Bureau for such purposes for fiscal year 1997" for "to the Board forInternational Broadcasting for such purposes for fiscal year 1993".
+Subsec. (a)(12). Pub. L. 105–277, §1323(e)(4), substituted "1998 and 1999" for "1994 and 1995" and "to the Board and the International Broadcasting Bureau for such purposes for fiscal year 1997" for "to the Board for International Broadcasting for such purposes for fiscal year 1993".
 
 Subsec. (a)(15) to (18). Pub. L. 105–277, §1323(e)(5), added pars. (15) to (18).
 
@@ -202,7 +202,7 @@ Pub. L. 110–53, title XX, §2032, Aug. 3, 2007, 121 Stat. 516, provided that:
 
 "(a)
 
-Transcription of Persian and Arabic Language Broadcasts.—Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], theBroadcasting Board of Governors shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra.
+Transcription of Persian and Arabic Language Broadcasts.—Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Broadcasting Board of Governors shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra.
 
 "(b)
 

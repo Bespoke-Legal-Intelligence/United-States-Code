@@ -6,7 +6,7 @@ Whenever he determines such action to be necessary in furtherance of the purpose
 
 #### (b) Qualifications of mortgagor for assistance payments
 
-To qualify for assistance payments a middle-income family shall be a mortgagor under a mortgage which is (1) insured under subsection\(j) of this section, (2) guaranteed under chapter 37 of title 38, or (3) a conventional mortgage meeting the requirements of subsection (j)(3) of this section. In addition to the foregoing requirement, the Secretary may require that the mortgagor have an income, at the time of acquisition of the property, of not more than the median income for the area in which the property is located, as determined by the Secretary, with appropriate adjustments for smaller and larger families.
+To qualify for assistance payments a middle-income family shall be a mortgagor under a mortgage which is (1) insured under subsection (j) of this section, (2) guaranteed under chapter 37 of title 38, or (3) a conventional mortgage meeting the requirements of subsection (j)(3) of this section. In addition to the foregoing requirement, the Secretary may require that the mortgagor have an income, at the time of acquisition of the property, of not more than the median income for the area in which the property is located, as determined by the Secretary, with appropriate adjustments for smaller and larger families.
 
 #### (c) Termination of interest subsidy payments
 
@@ -18,11 +18,11 @@ The interest subsidy payments authorized by this section shall cease when (1) th
 
 (2) In addition to the mortgages eligible for assistance under paragraph (1) of this subsection, the Secretary is authorized to make periodic assistance payments on behalf of cooperative members of middle income. Such assistance payments shall be accomplished through interest subsidy payments to the investor with respect to mortgages insured (subsequent to July 24, 1970) under section 1715e of this title which are executed by cooperatives, the membership in which is limited to middle-income families. For purposes of this paragraph—
 
-&emsp;(A) the term "mortgagor", when used in subsection (b) of this section in the case of a mortgage covering a cooperative housing project, means a member of the cooperative;
+&emsp;(A) the term "mortgagor", when used in subsection (b) in the case of a mortgage covering a cooperative housing project, means a member of the cooperative;
 
-&emsp;(B) the term "acquisition of the property", when used in subsection (b) of this section, means the family's application for a dwelling unit; and
+&emsp;(B) the term "acquisition of the property", when used in subsection (b), means the family's application for a dwelling unit; and
 
-&emsp;(C) in the case of a cooperative mortgagor, subsection (c) of this section shall not apply and the interest subsidy payments shall cease when the mortgage is no longer held by the investor or the cooperative fails to limit membership to families whose incomes at the time of their application for a dwelling unit meets such requirements as are laid down by the Secretary pursuant to subsection (b) of this section.
+&emsp;(C) in the case of a cooperative mortgagor, subsection (c) shall not apply and the interest subsidy payments shall cease when the mortgage is no longer held by the investor or the cooperative fails to limit membership to families whose incomes at the time of their application for a dwelling unit meets such requirements as are laid down by the Secretary pursuant to subsection (b).
 
 #### (e) Amount of interest subsidy payments
 
@@ -30,7 +30,7 @@ The interest subsidy payments shall be in an amount equal to the difference, as 
 
 #### (f) Adoption of procedures for recertifications of mortgagor's income
 
-Procedures shall be adopted by the Secretary for recertifications of the mortgagor's income at intervals of two years (or at shorter intervals where the Secretary deems it desirable) for the purpose of adjusting the amount of the mortgagor's payments pursuant to subsection (d) of this section.
+Procedures shall be adopted by the Secretary for recertifications of the mortgagor's income at intervals of two years (or at shorter intervals where the Secretary deems it desirable) for the purpose of adjusting the amount of the mortgagor's payments pursuant to subsection (d).
 
 #### (g) Regulations to assure that sales price or other consideration paid is not increased above appraised value
 
@@ -44,11 +44,11 @@ The Secretary shall prescribe such regulations as he deems necessary to assure t
 
 #### (i) Determination of family income; exclusion of income of minors
 
-In determining the income of any family for the purposes of this section, income from allsources of each member of the family in the household shall be included, except that the Secretary shall exclude income earned by any minor person.
+In determining the income of any family for the purposes of this section, income from all sources of each member of the family in the household shall be included, except that the Secretary shall exclude income earned by any minor person.
 
 #### (j) Insurance of mortgages executed by mortgagors meeting eligibility requirements for assistance payments; issuance of commitment; eligibility requirements for insurance
 
-(1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
+(1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b). Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
 
 (2) To be eligible for insurance under this subsection, a mortgage shall meet the requirements of section 1715l(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
 

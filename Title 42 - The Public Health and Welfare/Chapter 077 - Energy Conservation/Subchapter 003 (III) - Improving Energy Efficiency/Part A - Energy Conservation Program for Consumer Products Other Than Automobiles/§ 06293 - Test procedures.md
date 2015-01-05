@@ -56,7 +56,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (12)(A) Test procedures for medium base compact fluorescent lamps shall be based on the test methods for compact fluorescent lamps used under the August 9, 2001, version of the Energy Star program of the Environmental Protection Agency and the Department of Energy.
 
-(B) Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc) of this title.
+(B) Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc) <sup>1</sup> of this title.
 
 (C) Notwithstanding subparagraph (B), if manufacturers document engineering predictions and analysis that support expected attainment of lumen maintenance at 40 percent rated life and lamp lifetime, medium base compact fluorescent lamps may be marketed before completion of the testing of lamp life and lumen maintenance at 40 percent of rated life.
 
@@ -64,7 +64,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (14) The test procedure for measuring flow rate for commercial prerinse spray valves shall be based on American Society for Testing and Materials Standard F2324, entitled "Standard Test Method for Pre-Rinse Spray Valves".
 
-(15) The test procedure for refrigerated bottled or canned beverage vending machines shall be based on American National Standards Institute/American Society of Heating, Refrigeratingand Air-Conditioning Engineers Standard 32.1–2004, entitled "Methods of Testing for Rating Vending Machines for Bottled, Canned or Other Sealed Beverages".
+(15) The test procedure for refrigerated bottled or canned beverage vending machines shall bebased on American National Standards Institute/American Society of Heating, Refrigerating and Air-Conditioning Engineers Standard 32.1–2004, entitled "Methods of Testing for Rating Vending Machines for Bottled, Canned or Other Sealed Beverages".
 
 (16)(A)(i) Test procedures for ceiling fans shall be based on the "Energy Star Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1" published by the Environmental Protection Agency.
 
@@ -175,4 +175,6 @@ Subsec. (c). Pub. L. 95–619, §421(d), redesignated existing provisions as par
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section "6295(bb)".</i>
 

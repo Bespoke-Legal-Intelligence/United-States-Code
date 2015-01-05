@@ -5,7 +5,7 @@
 | [2460\.](%C2%A7%2002460%20-%20Definition%20of%20depot-level%20maintenance%20and%20repair.md) | Definition of depot-level maintenance and repair. |
 | [2461\.](%C2%A7%2002461%20-%20Public-private%20competition%20required%20before%20conversion%20to%20contractor%20performance.md) | Public-private competition required before conversion to contractor performance. |
 | [2461a.](%C2%A7%2002461a%20-%20Development%20and%20implementation%20of%20system%20for%20monitoring%20cost%20saving%20resulting%20from%20public-private%20competitions.md) | Development and implementation of system for monitoring cost saving resulting from public-private competitions. |
-| [2462\.](%C2%A7%2002462%20-%20Reports%20on%20public-private%20competition.md) | Reports on public-private competition. |
+| \[2462. | Repealed.\] |
 | [2463\.](%C2%A7%2002463%20-%20Guidelines%20and%20procedures%20for%20use%20of%20civilian%20employees%20to%20perform%20Department%20of%20Defense%20functions.md) | Guidelines and procedures for use of civilian employees to perform Department of Defense functions. |
 | [2464\.](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md) | Core logistics capabilities. |
 | [2465\.](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md) | Prohibition on contracts for performance of firefighting or security-guard functions. |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title X, §1060(a)(2)(B), Dec. 19, 2014, 128 Stat. 3502, struck out item 2462 "Reports on public-private competition".
 
 <b>2013</b>—Pub. L. 112–239, div. A, title III, §322(b)(2)(B), Jan. 2, 2013, 126 Stat. 1695, substituted "Core logistics capabilities" for "Core depot-level maintenance and repair capabilities" in item 2464.
 
@@ -73,7 +75,7 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02460 - Definition of depot-level maintenance and repair](%C2%A7%2002460%20-%20Definition%20of%20depot-level%20maintenance%20and%20repair.md)
 - [&sect; 02461 - Public-private competition required before conversion to contractor performance](%C2%A7%2002461%20-%20Public-private%20competition%20required%20before%20conversion%20to%20contractor%20performance.md)
 - [&sect; 02461a - Development and implementation of system for monitoring cost saving resulting from public-private competitions](%C2%A7%2002461a%20-%20Development%20and%20implementation%20of%20system%20for%20monitoring%20cost%20saving%20resulting%20from%20public-private%20competitions.md)
-- [&sect; 02462 - Reports on public-private competition](%C2%A7%2002462%20-%20Reports%20on%20public-private%20competition.md)
+- [&sect; 02462 - Repealed. Pub. L. 113&#8211;291, div. A, title X, &sect;1060(a)(2)(A), Dec. 19, 2014, 128 Stat. 3502](%C2%A7%2002462%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71060%28a%29%282%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203502.md)
 - [&sect; 02463 - Guidelines and procedures for use of civilian employees to perform Department of Defense functions](%C2%A7%2002463%20-%20Guidelines%20and%20procedures%20for%20use%20of%20civilian%20employees%20to%20perform%20Department%20of%20Defense%20functions.md)
 - [&sect; 02464 - Core logistics capabilities](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md)
 - [&sect; 02465 - Prohibition on contracts for performance of firefighting or security-guard functions](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md)

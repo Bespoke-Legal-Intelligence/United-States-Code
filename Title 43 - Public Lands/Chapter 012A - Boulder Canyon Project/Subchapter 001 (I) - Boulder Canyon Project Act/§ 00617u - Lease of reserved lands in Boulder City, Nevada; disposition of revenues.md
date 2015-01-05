@@ -10,5 +10,5 @@ Section was not enacted as part of the Boulder Canyon Project Act which comprise
 
 #### Boulder City Act of 1958
 
-Public Law 85–900, Sept. 2, 1958, 72 Stat. 1726, provided for disposal of certain Federal property in Boulder Cityfor purposes of establishment of a municipal corporation incorporated under laws of Nevada.
+Public Law 85–900, Sept. 2, 1958, 72 Stat. 1726, provided for disposal of certain Federal property in Boulder City for purposes of establishment of a municipal corporation incorporated under laws of Nevada.
 

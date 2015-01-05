@@ -11,3 +11,4 @@
 - [&sect; 01856b - Emergency assistance](%C2%A7%2001856b%20-%20Emergency%20assistance.md)
 - [&sect; 01856c - Service in line of duty](%C2%A7%2001856c%20-%20Service%20in%20line%20of%20duty.md)
 - [&sect; 01856d - Funds](%C2%A7%2001856d%20-%20Funds.md)
+- [&sect; 01856e - Reimbursement of fire funds](%C2%A7%2001856e%20-%20Reimbursement%20of%20fire%20funds.md)

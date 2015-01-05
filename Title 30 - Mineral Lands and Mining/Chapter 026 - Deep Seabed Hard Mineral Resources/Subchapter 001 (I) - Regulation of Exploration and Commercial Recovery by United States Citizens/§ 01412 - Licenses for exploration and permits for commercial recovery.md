@@ -38,7 +38,7 @@ Subject to the provisions of this chapter, the Administrator shall issue to appl
 
 (5) Except as otherwise provided in this paragraph, the processing on land of hard mineral resources recovered pursuant to a permit shall be conducted within the United States: <i>Provided</i>, That the President does not determine that such restrictions contravene the overriding national interests of the United States. The Administrator may allow the processing of hard mineral resources at a place other than within the United States if he finds, after opportunity for an agency hearing, that—
 
-&emsp;(A) the processing of the quantity concerned of such resource at a place other than withinthe United States is necessary for the economic viability of the commercial recovery activities of a permittee; and
+&emsp;(A) the processing of the quantity concerned of such resource at a place other than within the United States is necessary for the economic viability of the commercial recovery activities of a permittee; and
 
 &emsp;(B) satisfactory assurances have been given by the permittee that such resource, after processing, to the extent of the permittee's ownership therein, will be returned to the United States for domestic use, if the Administrator so requires after determining that the national interest necessitates such return.
 

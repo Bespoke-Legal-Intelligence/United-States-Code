@@ -8,7 +8,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may not enter into a contract under this section with a Medicare+Choice organization unless the organization has—
+&emsp;Subject to paragraph (2), the Secretary may not enter into a contract under this sectionwith a Medicare+Choice organization unless the organization has—
 
 &emsp;&emsp;(A) at least 5,000 individuals (or 1,500 individuals in the case of an organization that is a provider-sponsored organization) who are receiving health benefits through the organization, or
 
@@ -336,7 +336,7 @@ Subsec. (f)(3)(B). Pub. L. 110–275, §172(a)(2), added subpar. (B).
 
 Subsec. (f)(3)(C). Pub. L. 110–275, §173(b), added subpar. (C).
 
-<b>2003</b>—Subsec. (d)(1). Pub. L. 108–173, §222(l)(3)(C), substituted "and costs, including allowable costs under section 1395w–27a(c) of this title" for ", costs, and computation of the adjusted community rate".
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–173, §222(l)(3)(C), substituted "and costs, including allowable costs undersection 1395w–27a(c) of this title" for ", costs, and computation of the adjusted community rate".
 
 Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §900(e)(1)(I), substituted "Secretary" for "Health Care Financing Administration".
 

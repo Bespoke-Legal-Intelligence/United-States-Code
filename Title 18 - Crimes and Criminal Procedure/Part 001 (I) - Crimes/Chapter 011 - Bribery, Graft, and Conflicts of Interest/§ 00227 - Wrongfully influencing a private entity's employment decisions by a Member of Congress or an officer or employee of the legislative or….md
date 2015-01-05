@@ -28,5 +28,5 @@ Pub. L. 110–81, title I, §105(b), Sept. 14, 2007, 121 Stat. 741, provided tha
 
 #### Construction
 
-Pub. L. 110–81, title I, §102(b), Sept. 14, 2007, 121 Stat. 739, provided that: "Nothing in section 227 of title 18,United States Code, as added by this section, shall be construed to create any inference with respect to whether the activity described in section 227 of title 18, United States Code, was a criminal or civil offense before the enactment of this Act \[Sept. 14, 2007\], including under section 201(b), 201(c), any of sections 203 through 209, or section 872, of title 18, United States Code."
+Pub. L. 110–81, title I, §102(b), Sept. 14, 2007, 121 Stat. 739, provided that: "Nothing in section 227 of title 18, United States Code, as added by this section, shall be construed to create any inference with respect to whether the activity described in section 227 of title 18, United States Code, was a criminal or civil offense before the enactment of this Act \[Sept. 14, 2007\], including under section 201(b), 201(c), any of sections 203 through 209, or section 872, of title 18, United States Code."
 

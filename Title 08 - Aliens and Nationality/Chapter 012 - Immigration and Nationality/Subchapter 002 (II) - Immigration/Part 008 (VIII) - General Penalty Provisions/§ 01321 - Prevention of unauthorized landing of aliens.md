@@ -20,9 +20,9 @@ Proof that the alien failed to present himself at the time and place designated 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted “section 1223” for “section 1228”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted "section 1223" for "section 1228".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–649 substituted “$3,000” for “$1,000”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649 substituted "$3,000" for "$1,000".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–603 added subsec. (c).
 

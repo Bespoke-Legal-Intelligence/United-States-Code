@@ -2,7 +2,7 @@
 
 (a) When an individual who received a lump-sum payment for leave under section 5551 of this title is reemployed before the end of the period covered by the lump-sum payment in or under the Government of the United States or the government of the District of Columbia, except in a position excepted from this subchapter by section 6301(2)(ii), (iii), (vi), or (vii) of this title, he shall refund to the employing agency an amount equal to the pay covering the period between the date of reemployment and the expiration of the lump-sum period.
 
-(b) An amount refunded under subsection (a) of this section shall be deposited in the Treasury of the United States to the credit of the employing agency. When an individual is reemployed under the same leave system, an amount of leave equal to the leave represented by the refund shall be recredited to him in the employing agency. When an individual is reemployed under a different leave system, an amount of leave equal to the leave represented by the refund shall be recredited to him in the employingagency on an adjusted basis under regulations prescribed by the Office of Personnel Management. When an individual is reemployed in a position excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, an amount of leave equal to the leave represented by the refund is deemed, on separation from the service, death, or transfer to another position in the service, to have remained to his credit.
+(b) An amount refunded under subsection (a) of this section shall be deposited in the Treasury of the United States to the credit of the employing agency. When an individual is reemployed under the same leave system, an amount of leave equal to the leave represented by the refund shall be recredited to him in the employing agency. When an individual is reemployed under a different leave system, an amount of leave equal to the leave represented by the refund shall be recredited to him in the employing agency on an adjusted basis under regulations prescribed by the Office of Personnel Management. When an individual is reemployed in a position excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, an amount of leave equal to the leave represented by the refund is deemed, on separation from the service, death, or transfer to another position in the service, to have remained to his credit.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819.)
 
@@ -32,9 +32,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–519 substituted "6301(2)(x)–(xiii)" for "6301(2)(x)–(xii)".
 
-Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 #### Effective Date of 1978 Amendments
 

@@ -132,23 +132,41 @@ An application under this section shall contain the following:
 
 &emsp;If, before January 8, 2002, a State educational agency established a consortium, partnership, or any other similar body that was considered a reading and literacy partnership for purposes of part C of title II of this Act (as such part was in effect on January 8, 2002), that consortium, partnership, or body may be considered a reading and literacy partnership for purposes of this subsection consistent with the provisions of this subpart.
 
-(Pub. L. 89–10, title I, §1203, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1543; amended Pub. L. 110–154, §1(c)(3), Dec. 21, 2007, 121 Stat. 1828.)
+(Pub. L. 89–10, title I, §1203, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1543; amended Pub. L. 110–154, §1(c)(3), Dec. 21, 2007, 121 Stat. 1828; Pub. L. 113–128, title V, §512(i)(1), July 22, 2014, 128 Stat. 1708.)
+
+#### Amendment of Subsection (c)(2)(A)
+
+<i>Pub. L. 113–128, title V, §§506, 512(i)(1), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(2)(A) of this section is amended:</i>
+
+<i>(1) by striking ", in consultation with the National Institute for Literacy,"; and</i>
+
+<i>(2) by striking clause (ii); and</i>
+
+<i>(3) by redesignating clauses (iii) and (iv) as clauses (ii) and (iii), respectively.</i>
+
+<i>See 2014 Amendment note below.</i>
 
 #### References in Text
 
 Part C of title II (as such part was in effect on the day before January 8, 2002), referred to in subsecs. (a)(2), (b)(2), and (d)(4), means part C of title II of Pub. L. 89–10, as added by Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, as amended, which was classified generally to part C (§6661 et seq.) of subchapter II of this chapter prior to the general amendment of subchapter II by Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1620.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (b)(4)(G), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (b)(4)(G), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(G), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21,2000, 114 Stat. 2763, 2763A–330, related to State Even Start programs, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381b of this title.
+A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to State Even Start programs, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381b of this title.
 
 A prior section 1203 of Pub. L. 89–10 was classified to section 2783 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(2)(A). Pub. L. 113–128 struck out ", in consultation with the National Institute for Literacy," after "The Secretary" in introductory provisions, redesignated subcls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: "three individuals selected by the National Institute for Literacy;".
+
 <b>2007</b>—Subsec. (c)(2)(A)(iv). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

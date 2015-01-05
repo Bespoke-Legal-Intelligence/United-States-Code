@@ -96,7 +96,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) has complied with subparagraph (B) of section 6222(b)(1) (relating to notification of inconsistent treatment) with respect to one or more of such items, and
 
-&emsp;&emsp;&emsp;(ii) has not, as of the date on which the Secretary mails the notice, filed a requestfor administrative adjustments which would make the partner's treatment of the item or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
+&emsp;&emsp;&emsp;(ii) has not, as of the date on which the Secretary mails the notice, filed a request for administrative adjustments which would make the partner's treatment of the item or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
 
 &emsp;&emsp;(B)(i) such partner has filed a request under section 6227(d) for administrative adjustment of one or more of such items, and
 
@@ -176,7 +176,7 @@ Except to the extent otherwise provided in regulations, in the case of any partn
 
 &emsp;If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply to such partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98 Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57.)
 
 #### Amendments
 

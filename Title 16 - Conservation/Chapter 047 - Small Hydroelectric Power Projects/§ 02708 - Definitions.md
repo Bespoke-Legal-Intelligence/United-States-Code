@@ -2,7 +2,7 @@
 
 (a) For purposes of this chapter, the term—
 
-&emsp;(1) "small hydroelectric power project" means any hydroelectric power project which is located at the site of any existing dam, which uses the water power potential of suchdam, and which has not more than 30,000 kilowatts of installed capacity;
+&emsp;(1) "small hydroelectric power project" means any hydroelectric power project which is located at the site of any existing dam, which uses the water power potential of such dam, and which has not more than 30,000 kilowatts of installed capacity;
 
 &emsp;(2) "electric cooperative" means any cooperative association eligible to receive loans under section 904 of title 7;
 

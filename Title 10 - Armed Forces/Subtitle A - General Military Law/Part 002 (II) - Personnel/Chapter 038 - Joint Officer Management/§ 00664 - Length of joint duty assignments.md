@@ -88,7 +88,7 @@ Constructive Credit.—(1) The Secretary of Defense may accord constructive cred
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(1)(D). Pub. L. 110–417, §524(a)(1), added subpar. (D) and struck out former subpar. (D)which read as follows: "a qualifying reassignment (as described in subsection (g)(4))."
+<b>2008</b>—Subsec. (d)(1)(D). Pub. L. 110–417, §524(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: "a qualifying reassignment (as described in subsection (g)(4))."
 
 Subsec. (d)(3). Pub. L. 110–417, §524(a)(2), added par. (3) and struck out former par. (3) which read as follows: "Service in a joint duty assignment in a case in which—
 
@@ -104,7 +104,7 @@ Subsec. (e)(2). Pub. L. 110–417, §524(b), added par. (2) and struck out forme
 
 &emsp;"(C) Service described in subsection (f)(6), except that no more than 10 percent of all joint duty assignments shown on the list published pursuant to section 668(b)(2)(A) of this title may be so excluded in any year."
 
-Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulative service", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out former par. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
+Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulative service", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out formerpar. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
 
 Subsec. (g). Pub. L. 110–417, §524(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to cumulative service of an officer in joint duty assignments.
 
@@ -180,11 +180,11 @@ Subsecs. (e) to (g). Pub. L. 100–180 added subsecs. (e) to (g).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §519(e), Oct. 17, 2006, 120 Stat. 2191, provided that: "The amendments made by this section \[amending this section and sections 667 and 668 of this title\] shall take effect on October 1, 2007."
+Pub. L. 109–364, div. A, title V, §519(e), Oct. 17, 2006, 120 Stat. 2191, provided that: "The amendments made by this section \[amending this section, former section 667, and section 668 of this title\] shall take effect on October 1, 2007."
 
 #### Retroactive Joint Service Credit for Duty in Certain Joint Task Forces
 
-Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provided that, in accordance with subsec. (i) of this section, the Secretary of Defense was authorized to award joint service credit to any officer who servedon the staff of a United States joint task force headquarters in certain operations and during certain periods, and the Secretary was required to submit to Congress a report of the numbers, by service, grade, and operation, of the officers given joint service credit not later than one year after Dec. 28, 2001.
+Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provided that, in accordance with subsec. (i) of this section, the Secretary of Defense was authorized to award joint service credit to any officer who served on the staff of a United States joint task force headquarters in certain operations and during certain periods, and the Secretary was required to submit to Congress a report of the numbers, by service, grade, and operation, of the officers given joint service credit not later than one year after Dec. 28, 2001.
 
 #### Joint Duty Credit for Certain Duty Performed During Operations Desert Shield and Desert Storm
 
@@ -194,7 +194,7 @@ Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as am
 
 #### Length of Joint Duty Assignments
 
-Pub. L. 99–433, title IV, §406(e), Oct. 1, 1986, 100 Stat. 1034, provided that: "Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered."
+Pub. L. 99–433, title IV, §406(e), Oct. 1, 1986, 100 Stat. 1034, provided that: "Subsection (a) of section 664 oftitle 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered."
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

@@ -56,11 +56,255 @@ Pub. L. 107–347, title IV, §402(a), Dec. 17, 2002, 116 Stat. 2961, provided t
 
 "(1)
 
-In general.—Except as provided under paragraph (2), titles I \[enacting this chapter, section 507 of Title31, Money and Finance, and section 305 of Title 40, Public Buildings, Property, and Works, and amending section 503 of Title 31\] and II \[enacting chapter 37 of Title 5, Government Organization and Employees, section 2332 of Title 10, Armed Forces, and section 266a of Title 41, Public Contracts, amending sections 3111, 4108, and 7353 of Title 5, sections 207, 209, and 1905 of Title 18, Crimes and Criminal Procedure, sections 502, 11501 to 11505 of Title 40, and section 423 of Title 41, repealing section 11521 of Title 40, directing the renumbering of section 11522 of Title 40 as section 11521, enacting provisions set out as notes under section 3501 of this title, and amending provisions set out as notes under section 8432 of Title 5 and section 1913 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by such titles shall take effect 120 days after the date of enactment of this Act \[Dec. 17, 2002\].
+In general.—Except as provided under paragraph (2), titles I \[enacting this chapter, section 507 of Title 31, Money and Finance, and section 305 of Title 40, Public Buildings, Property, and Works, and amending section 503 of Title 31\] and II \[enacting chapter 37 of Title 5, Government Organization and Employees, section 2332 of Title 10, Armed Forces, and section 266a of Title 41, Public Contracts, amending sections 3111, 4108, and 7353 of Title 5, sections 207, 209, and 1905 of Title 18, Crimes and Criminal Procedure, sections 502, 11501 to 11505 of Title 40, and section 423 of Title 41, repealing section 11521 of Title 40, directing the renumbering of section 11522 of Title 40 as section 11521, enacting provisions set out as notes under section 3501 of this title, and amending provisions set out as notes under section 8432 of Title 5 and section 1913 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by such titles shall take effect 120 days after the date of enactment of this Act \[Dec. 17, 2002\].
 
 "(2)
 
 Immediate enactment.—Sections 207, 214, and 215 \[set out in a note under section 3501 of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\]."
+
+#### Federal Data Center Consolidation Initiative
+
+Pub. L. 113–291, div. A, title VIII, §834, Dec. 19, 2014, 128 Stat. 3444, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Office of Electronic Government established under section 3602 of title 44, United States Code (and also known as the Office of E-Government and Information Technology), within the Office of Management and Budget.
+
+&emsp;"(2)
+
+Covered agency.—The term 'covered agency' means the following (including all associated components of the agency):
+
+&emsp;&emsp;"(A) Department of Agriculture.
+
+&emsp;&emsp;"(B) Department of Commerce.
+
+&emsp;&emsp;"(C) Department of Defense.
+
+&emsp;&emsp;"(D) Department of Education.
+
+&emsp;&emsp;"(E) Department of Energy.
+
+&emsp;&emsp;"(F) Department of Health and Human Services.
+
+&emsp;&emsp;"(G) Department of Homeland Security.
+
+&emsp;&emsp;"(H) Department of Housing and Urban Development.
+
+&emsp;&emsp;"(I) Department of the Interior.
+
+&emsp;&emsp;"(J) Department of Justice.
+
+&emsp;&emsp;"(K) Department of Labor.
+
+&emsp;&emsp;"(L) Department of State.
+
+&emsp;&emsp;"(M) Department of Transportation.
+
+&emsp;&emsp;"(N) Department of Treasury.
+
+&emsp;&emsp;"(O) Department of Veterans Affairs.
+
+&emsp;&emsp;"(P) Environmental Protection Agency.
+
+&emsp;&emsp;"(Q) General Services Administration.
+
+&emsp;&emsp;"(R) National Aeronautics and Space Administration.
+
+&emsp;&emsp;"(S) National Science Foundation.
+
+&emsp;&emsp;"(T) Nuclear Regulatory Commission.
+
+&emsp;&emsp;"(U) Office of Personnel Management.
+
+&emsp;&emsp;"(V) Small Business Administration.
+
+&emsp;&emsp;"(W) Social Security Administration.
+
+&emsp;&emsp;"(X) United States Agency for International Development.
+
+&emsp;"(3)
+
+FDCCI.—The term 'FDCCI' means the Federal Data Center Consolidation Initiative described in the Office of Management and Budget Memorandum on the Federal Data Center Consolidation Initiative, dated February 26, 2010, or any successor thereto.
+
+&emsp;"(4)
+
+Government-wide data center consolidation and optimization metrics.—The term 'Government-wide data center consolidation and optimization metrics' means the metrics established by the Administrator under subsection (b)(2)(G).
+
+"(b)
+
+Federal Data Center Consolidation Inventories and Strategies.—
+
+&emsp;"(1)
+
+In general.—
+
+&emsp;&emsp;"(A)
+
+Annual reporting.—Except as provided in subparagraph (C), each year, beginning in the first fiscal year after the date of the enactment of this Act \[Dec. 19, 2014\] and each fiscal year thereafter, the head of each covered agency, assisted by the Chief Information Officer of the agency, shall submit to the Administrator—
+
+&emsp;&emsp;&emsp;"(i) a comprehensive inventory of the data centers owned, operated, or maintained by or on behalf of the agency; and
+
+&emsp;&emsp;&emsp;"(ii) a multi-year strategy to achieve the consolidation and optimization of the data centers inventoried under clause (i), that includes—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) performance metrics—
+
+&emsp;&emsp;&emsp;"(aa) that are consistent with the Government-wide data center consolidation and optimization metrics; and
+
+&emsp;&emsp;&emsp;"(bb) by which the quantitative and qualitative progress of the agency toward the goals of the FDCCI can be measured;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a timeline for agency activities to be completed under the FDCCI, with an emphasis on benchmarks the agency can achieve by specific dates;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) year-by-year calculations of investment and cost savings for the period beginning on the date of the enactment of this Act and ending on the date set forth in subsection (e), broken down by each year, including a description of any initial costs for data center consolidation and optimization and life cycle cost savings and other improvements, with an emphasis on—
+
+&emsp;&emsp;&emsp;"(aa) meeting the Government-wide data center consolidation and optimization metrics; and
+
+&emsp;&emsp;&emsp;"(bb) demonstrating the amount of agency-specific cost savings each fiscal year achieved through the FDCCI; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) any additional information required by the Administrator.
+
+&emsp;&emsp;"(B)
+
+Use of other reporting structures.—The Administrator may require a covered agency to include the information required to be submitted under this subsection through reporting structures determined by the Administrator to be appropriate.
+
+&emsp;&emsp;"(C)
+
+Department of defense reporting.—For any year that the Department of Defense is required to submit a performance plan for reduction of resources required for data servers and centers, as required under section 2867(b) of the National Defense Authorization Act for Fiscal Year 2012 \[Pub. L. 112–81\] (10 U.S.C. 2223a note), the Department of Defense—
+
+&emsp;&emsp;&emsp;"(i) may submit to the Administrator, in lieu of the multi-year strategy required under subparagraph (A)(ii)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 (10 U.S.C. 2223a note); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the report on cost savings required under section 2867(d) of the National Defense Authorization Act for Fiscal Year 2012 (10 U.S.C. 2223a note); and
+
+&emsp;&emsp;&emsp;"(ii) shall submit the comprehensive inventory required under subparagraph (A)(i), unless the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 (10 U.S.C. 2223a note)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) contains a comparable comprehensive inventory; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) is submitted under clause (i).
+
+&emsp;&emsp;"(D)
+
+Statement.—Each year, beginning in the first fiscal year after the date of the enactment of this Act and each fiscal year thereafter, the head of each covered agency, acting through the Chief Information Officer of the agency, shall—
+
+&emsp;&emsp;&emsp;"(i)(I) submit a statement to the Administrator stating whether the agency has complied with the requirements of this section; and
+
+&emsp;&emsp;&emsp;"(II) make the statement submitted under subclause (I) publicly available; and
+
+&emsp;&emsp;&emsp;"(ii) if the agency has not complied with the requirements of this section, submit a statement to the Administrator explaining the reasons for not complying with such requirements.
+
+&emsp;&emsp;"(E)
+
+Agency implementation of strategies.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Each covered agency, under the direction of the Chief Information Officer of the agency, shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) implement the strategy required under subparagraph (A)(ii); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) provide updates to the Administrator, on a quarterly basis, of—
+
+&emsp;&emsp;&emsp;"(aa) the completion of activities by the agency under the FDCCI;
+
+&emsp;&emsp;&emsp;"(bb) any progress of the agency towards meeting the Government-wide data center consolidation and optimization metrics; and
+
+&emsp;&emsp;&emsp;"(cc) the actual cost savings and other improvements realized through the implementation of the strategy of the agency.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Department of defense.—For purposes of clause (i)(I), implementation of the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 \[Pub. L. 112–81\] (10 U.S.C. 2223a note) by the Department of Defense shall be considered implementation of the strategy required under subparagraph (A)(ii).
+
+&emsp;&emsp;"(F)
+
+Rule of construction.—Nothing in this section shall be construed to limit the reporting of information by a covered agency to the Administrator, the Director of the Office of Management and Budget, or Congress.
+
+&emsp;"(2)
+
+Administrator responsibilities.—The Administrator shall—
+
+&emsp;&emsp;"(A) establish the deadline, on an annual basis, for covered agencies to submit information under this section;
+
+&emsp;&emsp;"(B) establish a list of requirements that the covered agencies must meet to be considered in compliance with paragraph (1);
+
+&emsp;&emsp;"(C) ensure that information relating to agency progress towards meeting the Government-wide data center consolidation and optimization metrics is made available in a timely manner to the general public;
+
+&emsp;&emsp;"(D) review the inventories and strategies submitted under paragraph (1) to determine whether they are comprehensive and complete;
+
+&emsp;&emsp;"(E) monitor the implementation of the data center strategy of each covered agency that is required under paragraph (1)(A)(ii);
+
+&emsp;&emsp;"(F) update, on an annual basis, the cumulative cost savings realized through the implementation of the FDCCI; and
+
+&emsp;&emsp;"(G) establish metrics applicable to the consolidation and optimization of data centers Government-wide, including metrics with respect to—
+
+&emsp;&emsp;&emsp;"(i) costs;
+
+&emsp;&emsp;&emsp;"(ii) efficiencies, including, at a minimum, server efficiency; and
+
+&emsp;&emsp;&emsp;"(iii) any other factors the Administrator considers appropriate.
+
+&emsp;"(3)
+
+Cost saving goal and updates for congress.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of the enactment of this Act, the Administrator shall develop, and make publicly available, a goal, broken down by year, for the amount of planned cost savings and optimization improvements achieved through the FDCCI during the period beginning on the date of the enactment of this Act and ending on the date set forth in subsection (e).
+
+&emsp;&emsp;"(B)
+
+Annual update.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Not later than one year after the date on which the goal described in subparagraph (A) is made publicly available, and each year thereafter, the Administrator shall aggregate the reported cost savings of each covered agency and optimization improvements achieved to date through the FDCCI and compare the savings to the projected cost savings and optimization improvements developed under subparagraph (A).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Update for congress.—The goal required to be developed under subparagraph (A) shall be submitted to Congress and shall be accompanied by a statement describing—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the extent to which each covered agency has developed and submitted a comprehensive inventory under paragraph (1)(A)(i), including an analysis of the inventory that details specific numbers, use, and efficiency level of data centers in each inventory; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the extent to which each covered agency has submitted a comprehensive strategy that addresses the items listed in paragraph (1)(A)(ii).
+
+&emsp;"(4)
+
+GAO review.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of the enactment of this Act, and each year thereafter, the Comptroller General of the United States shall review and verify the quality and completeness of the inventory and strategy of each covered agency required under paragraph (1)(A).
+
+&emsp;&emsp;"(B)
+
+Report.—The Comptroller General of the United States shall, on an annual basis, publish a report on each review conducted under subparagraph (A).
+
+"(c)
+
+Ensuring Cybersecurity Standards for Data Center Consolidation and Cloud Computing.—
+
+&emsp;"(1)
+
+In general.—In implementing a data center consolidation and optimization strategy under this section, a covered agency shall do so in a manner that is consistent with Federal guidelines on cloud computing security, including—
+
+&emsp;&emsp;"(A) applicable provisions found within the Federal Risk and Authorization Management Program (FedRAMP); and
+
+&emsp;&emsp;"(B) guidance published by the National Institute of Standards and Technology.
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in this section shall be construed to limit the ability of the Director of the Office of Management and Budget to update or modify the Federal guidelines on cloud computing security.
+
+"(d)
+
+Waiver of Requirements.—The Director of National Intelligence and the Secretary of Defense, or their respective designee, may waive the applicability to any national security system, as defined in \[former\] section 3542 of title 44, United States Code, \[see 44 U.S.C. 3552\] of any provision of this section if the Director of National Intelligence or the Secretary of Defense, or their respective designee, determines that such waiver is in the interest of national security. Not later than 30 days after making a waiver under this subsection, the Director of National Intelligence or the Secretary of Defense, or their respective designee, shall submit to the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate and the Committee on Oversight and Government Reform and the Permanent Select Committee on Intelligence of the House of Representatives a statement describing the waiver and the reasons for the waiver.
+
+"(e)
+
+Sunset.—This section is repealed effective on October 1, 2018."
 
 #### E-Government Initiatives Funding
 

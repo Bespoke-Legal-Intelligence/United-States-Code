@@ -22,7 +22,7 @@
 
 #### (1) Commencement of action
 
-&emsp;The district court of the United States in any district in which the person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition of such person under such subsection, if a complaint for that purpose is filed not later than 20 days after the date of the entry of a ruling by the Secretary under such subsection (a) of this section.
+&emsp;The district court of the United States in any district in which the person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review a ruling on the petition of such person under such subsection, if a complaint for that purpose is filed not later than 20 days after the date of the entry of a ruling by the Secretary under such subsection (a).
 
 #### (2) Process
 
@@ -30,7 +30,7 @@
 
 #### (3) Remands
 
-&emsp;If the court determines, under paragraph (1), that a ruling issued under subsection (a)(3) of this section is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions either—
+&emsp;If the court determines, under paragraph (1), that a ruling issued under subsection (a)(3) is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions either—
 
 &emsp;&emsp;(A) to make such ruling as the court shall determine to be in accordance with law; or
 
@@ -38,7 +38,7 @@
 
 #### (4) Enforcement
 
-&emsp;The pendency of proceedings instituted under subsection (a) of this section shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under section 6307 of this title.
+&emsp;The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under section 6307 of this title.
 
 (Pub. L. 101–624, title XIX, §1971, Nov. 28, 1990, 104 Stat. 3900.)
 

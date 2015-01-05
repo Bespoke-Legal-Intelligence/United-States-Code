@@ -10,7 +10,7 @@ The Convention and this chapter shall not be construed to affect the application
 
 #### (c) Relationship to other laws
 
-Sections 3506(c), 3507, and 3512 of title 44 shall not apply to information collection for purposesof sections 14914, 14922(b)(4), and 14932(d) of this title or for use as a Convention record as defined in this chapter.
+Sections 3506(c), 3507, and 3512 of title 44 shall not apply to information collection for purposes of sections 14914, 14922(b)(4), and 14932(d) of this title or for use as a Convention record as defined in this chapter.
 
 (Pub. L. 106–279, title V, §503, Oct. 6, 2000, 114 Stat. 843.)
 

@@ -6,7 +6,7 @@ The head of any agency or other Government establishment (including any in the l
 
 #### (b) Time spent imprisoned considered as period of employment
 
-Any period of imprisonment of a current or former foreign national employee which is compensable under this section shall be considered for purposes of any other employee benefit to bea period of employment by the Government, except that a period of imprisonment shall not be creditable—
+Any period of imprisonment of a current or former foreign national employee which is compensable under this section shall be considered for purposes of any other employee benefit to be a period of employment by the Government, except that a period of imprisonment shall not be creditable—
 
 &emsp;(1) for purposes of subchapter III of chapter 83 of title 5, unless it is expressly creditable under that subchapter; or
 

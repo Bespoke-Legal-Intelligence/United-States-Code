@@ -10,7 +10,7 @@
 
 &emsp;(A) <sup>1</sup>
 
-Targeting.—Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
+Targeting.—Except as provided in paragraph (4), of the public housing dwellingunits of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by extremely low-income families.
 
 #### (3) Prohibition of concentration of low-income families
 
@@ -40,7 +40,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (B) Credit for exceeding tenant-based assistance targeting requirement
 
-&emsp;&emsp;Subject to subparagraph (C), the credit number under this subparagraph for a publichousing agency for a fiscal year shall be the number by which—
+&emsp;&emsp;Subject to subparagraph (C), the credit number under this subparagraph for a public housing agency for a fiscal year shall be the number by which—
 
 &emsp;&emsp;&emsp;(i) the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistance under section 1437f of this title by the agency; exceeds
 
@@ -70,7 +70,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (1) In general
 
-&emsp;Of the families initially provided tenant-based assistance under section 1437f of this title by a public housing agency in any fiscal year, not less than 75 percent shall be families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
+&emsp;Of the families initially provided tenant-based assistance under section 1437f of this title by a public housing agency in any fiscal year, not less than 75 percent shall be extremely low-income families.
 
 #### (2) Jurisdictions served by multiple PHAs
 
@@ -88,7 +88,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (3) Targeting
 
-&emsp;For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy in any fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
+&emsp;For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy in any fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by extremely low-income families.
 
 #### (4) Prohibition of skipping
 
@@ -102,7 +102,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 &emsp;For purposes of this subsection, the term "project-based assistance" means assistance under any of the following programs:
 
-&emsp;&emsp;(A) The new construction or substantial rehabilitation program under section1437f(b)(2) of this title (as in effect before October 1, 1983).
+&emsp;&emsp;(A) The new construction or substantial rehabilitation program under section 1437f(b)(2) of this title (as in effect before October 1, 1983).
 
 &emsp;&emsp;(B) The property disposition program under section 1437f(b) of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998).
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of law, a public housing agency shall establ
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X,§1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069; Pub. L. 113–76, div. L, title II, §238(b), Jan. 17, 2014, 128 Stat. 635.)
 
 #### References in Text
 
@@ -147,6 +147,12 @@ The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec
 October 1, 1981, referred to in subsec. (c)(1), (2), was in the original "the effective date of the Housing and Community Development Amendments of 1981" and "such effective date", meaning the effective date of subtitle A of title III of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 384, which was generally effective Oct. 1, 1981. See Effective Date note below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–76, §238(b)(1), substituted "extremely low-income families" for "families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
+
+Subsec. (b)(1). Pub. L. 113–76, §238(b)(2), substituted "extremely low-income families" for "families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
+
+Subsec. (c)(3). Pub. L. 113–76, §238(b)(3), substituted "extremely low-income families" for "families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
 <b>1999</b>—Subsecs. (a)(2)(A), (c)(3). Pub. L. 106–74, §205(1), inserted before the period at end "; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 

@@ -16,5 +16,5 @@ A prior section 505, act Aug. 4, 1949, ch. 393, 63 Stat. 537, related to escorts
 
 #### Presentation of Flag for Prior Recipients of Medal of Honor
 
-President to provide for the presentation of the Medal of Honor Flag to living recipients of the Medal of Honor as expeditiously as possible after Oct. 17, 2006, and for posthumous presentation to survivors of deceased recipients of the Medal of Honor upon written application therefor, see section 555(b) of Pub. L. 109–364, set out as a note under section 3755 of Title 10, Armed Forces.
+President to provide for the presentation of the Medal of Honor Flag to living recipients of the Medalof Honor as expeditiously as possible after Oct. 17, 2006, and for posthumous presentation to survivors of deceased recipients of the Medal of Honor upon written application therefor, see section 555(b) of Pub. L. 109–364, set out as a note under section 3755 of Title 10, Armed Forces.
 

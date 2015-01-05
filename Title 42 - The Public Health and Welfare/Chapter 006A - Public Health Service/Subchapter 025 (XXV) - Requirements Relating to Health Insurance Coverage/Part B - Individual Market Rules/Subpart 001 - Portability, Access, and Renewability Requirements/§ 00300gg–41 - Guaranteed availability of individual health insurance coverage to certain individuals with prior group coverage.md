@@ -12,7 +12,7 @@
 
 #### (2) Substitution by State of acceptable alternative mechanism
 
-&emsp;The requirement of paragraph (1) shall not apply to health insurance coverage offered in the individual market in a State in which the State is implementing an acceptable alternative mechanism under section 300gg–44 of this title.
+&emsp;The requirement of paragraph (1) shall not apply to health insurance coverage offered inthe individual market in a State in which the State is implementing an acceptable alternative mechanism under section 300gg–44 of this title.
 
 #### (b) "Eligible individual" defined
 
@@ -48,7 +48,7 @@ In this part, the term "eligible individual" means an individual—
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policyform (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
+&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
 
 #### (B) Lower-level of coverage described
 

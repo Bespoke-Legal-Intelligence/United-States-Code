@@ -172,7 +172,7 @@ Not later than 1 year after December 29, 2006, and as part of each subsequent an
 
 &emsp;&emsp;(D) the role of the high intensity drug trafficking area in coordinating the sharing of such information among task forces;
 
-&emsp;&emsp;(E) the nature and extent of cooperation by each Federal, State, local, and tribal participant in ensuring that such information is shared among law enforcement agencies and with the high intensity drug trafficking area;
+&emsp;&emsp;(E) the nature and extent of cooperation by each Federal, State, local, and tribal participant in ensuring that such information isshared among law enforcement agencies and with the high intensity drug trafficking area;
 
 &emsp;&emsp;(F) the nature and extent to which information sharing and enforcement activities are coordinated with joint terrorism task forces in the high intensity drug trafficking area; and
 
@@ -182,7 +182,7 @@ Not later than 1 year after December 29, 2006, and as part of each subsequent an
 
 Not later than 180 days after December 29, 2006, and as part of each subsequent annual National Drug Control Strategy report, the Director, in consultation with the Director of National Intelligence, shall submit to Congress a report—
 
-&emsp;(1) evaluating existing and planned law enforcement intelligence systems supported by each high intensity drug trafficking area, or utilized by task forces receiving any funding under the Program, including the extent to which such systems ensure access and availability of law enforcement intelligence to Federal, State, local, and tribal law enforcementagencies within the high intensity drug trafficking area and outside of it;
+&emsp;(1) evaluating existing and planned law enforcement intelligence systems supported by each high intensity drug trafficking area, or utilized by task forces receiving any funding under the Program, including the extent to which such systems ensure access and availability of law enforcement intelligence to Federal, State, local, and tribal law enforcement agencies within the high intensity drug trafficking area and outside of it;
 
 &emsp;(2) the extent to which Federal, State, local, and tribal law enforcement agencies participating in each high intensity drug trafficking area are sharing law enforcement intelligence information to assess current drug trafficking threats and design appropriate enforcement strategies; and
 
@@ -248,7 +248,7 @@ There is authorized to be appropriated to the Office of National Drug Control Po
 
 #### References in Text
 
-December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the original "the date of the enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
+December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the original "the date of the enactmentof this section", which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

@@ -1,0 +1,178 @@
+### §9011. Definitions
+
+In this subchapter and subchapter II:
+
+#### (1) Actual crop revenue
+
+&emsp;The term "actual crop revenue", with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(b) of this title.
+
+#### (2) Agriculture risk coverage
+
+&emsp;The term "agriculture risk coverage" means coverage provided under section 9017 of this title.
+
+#### (3) Agriculture risk coverage guarantee
+
+&emsp;The term "agriculture risk coverage guarantee", with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(c) of this title.
+
+#### (4) Base acres
+
+#### (A) In general
+
+&emsp;&emsp;The term "base acres", with respect to a covered commodity on a farm, means the number of acres in effect under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8718, and 8752 of this title, as in effect on September 30, 2013, subject to any reallocation, adjustment, or reduction under section 9012 of this title.
+
+#### (B) Inclusion of generic base acres
+
+&emsp;&emsp;The term "base acres" includes any generic base acres planted to a covered commodity as determined in section 9014(b) of this title.
+
+#### (5) County coverage
+
+&emsp;The term "county coverage" means agriculture risk coverage selected under section 9015(b)(1) of this title to be obtained at the county level.
+
+#### (6) Covered commodity
+
+&emsp;The term "covered commodity" means wheat, oats, and barley (including wheat, oats,and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+
+#### (7) Effective price
+
+&emsp;The term "effective price", with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 9016(b) of this title to determine whether price loss coverage payments are required to be provided for that crop year.
+
+#### (8) Extra long staple cotton
+
+&emsp;The term "extra long staple cotton" means cotton that—
+
+&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+
+&emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
+
+#### (9) Generic base acres
+
+&emsp;The term "generic base acres" means the number of base acres for cotton in effect under section 8702 of this title, as adjusted pursuant to section 8711 of this title, as in effect on September 30, 2013, subject to any adjustment or reduction under section 9012 of this title.
+
+#### (10) Individual coverage
+
+&emsp;The term "individual coverage" means agriculture risk coverage selected under section 9015(b)(2) of this title to be obtained at the farm level.
+
+#### (11) Medium grain rice
+
+&emsp;The term "medium grain rice" includes short grain rice and temperate japonica rice.
+
+#### (12) Other oilseed
+
+&emsp;The term "other oilseed" means a crop of sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, crambe, sesame seed, or any oilseed designated by the Secretary.
+
+#### (13) Payment acres
+
+&emsp;The term "payment acres", with respect to the provision of price loss coverage payments and agriculture risk coverage payments, means the number of acres determined for a farm under section 9014 of this title.
+
+#### (14) Payment yield
+
+&emsp;The term "payment yield", for a farm for a covered commodity—
+
+&emsp;&emsp;(A) means the yield used to make payments pursuant to section 8714 or 8754 of this title, as in effect on September 30, 2013; or
+
+&emsp;&emsp;(B) means the yield established under section 9013 of this title.
+
+#### (15) Price loss coverage
+
+&emsp;The term "price loss coverage" means coverage provided under section 9016 of this title.
+
+#### (16) Producer
+
+#### (A) In general
+
+&emsp;&emsp;The term "producer" means an owner, operator, landlord, tenant, or sharecropper that shares in the risk of producing a crop and is entitled to share in the crop available for marketing from the farm, or would have shared had the crop been produced.
+
+#### (B) Hybrid seed
+
+&emsp;&emsp;In determining whether a grower of hybrid seed is a producer, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) not take into consideration the existence of a hybrid seed contract; and
+
+&emsp;&emsp;&emsp;(ii) ensure that program requirements do not adversely affect the ability of the grower to receive a payment under this chapter.
+
+#### (17) Pulse crop
+
+&emsp;The term "pulse crop" means dry peas, lentils, small chickpeas, and large chickpeas.
+
+#### (18) Reference price
+
+&emsp;The term "reference price", with respect to a covered commodity for a crop year, means the following:
+
+&emsp;&emsp;(A) For wheat, $5.50 per bushel.
+
+&emsp;&emsp;(B) For corn, $3.70 per bushel.
+
+&emsp;&emsp;(C) For grain sorghum, $3.95 per bushel.
+
+&emsp;&emsp;(D) For barley, $4.95 per bushel.
+
+&emsp;&emsp;(E) For oats, $2.40 per bushel.
+
+&emsp;&emsp;(F) For long grain rice, $14.00 per hundredweight.
+
+&emsp;&emsp;(G) For medium grain rice, $14.00 per hundredweight.
+
+&emsp;&emsp;(H) For soybeans, $8.40 per bushel.
+
+&emsp;&emsp;(I) For other oilseeds, $20.15 per hundredweight.
+
+&emsp;&emsp;(J) For peanuts, $535.00 per ton.
+
+&emsp;&emsp;(K) For dry peas, $11.00 per hundredweight.
+
+&emsp;&emsp;(L) For lentils, $19.97 per hundredweight.
+
+&emsp;&emsp;(M) For small chickpeas, $19.04 per hundredweight.
+
+&emsp;&emsp;(N) For large chickpeas, $21.54 per hundredweight.
+
+#### (19) Secretary
+
+&emsp;The term "Secretary" means the Secretary of Agriculture.
+
+#### (20) State
+
+&emsp;The term "State" means—
+
+&emsp;&emsp;(A) a State;
+
+&emsp;&emsp;(B) the District of Columbia;
+
+&emsp;&emsp;(C) the Commonwealth of Puerto Rico; and
+
+&emsp;&emsp;(D) any other territory or possession of the United States.
+
+#### (21) Temperate japonica rice
+
+&emsp;The term "temperate japonica rice" means rice that is grown in high altitudes or temperate regions of high latitudes with cooler climate conditions, in the Western United States, as determined by the Secretary, for the purpose of—
+
+&emsp;&emsp;(A) the reallocation of base acres under section 9012 of this title;
+
+&emsp;&emsp;(B) the establishment of a reference price (as required under section 9016(g) of this title) and an effective price pursuant to section 9016 of this title; and
+
+&emsp;&emsp;(C) the determination of the actual crop revenue and agriculture risk coverage guarantee pursuant to section 9017 of this title.
+
+#### (22) Transitional yield
+
+&emsp;The term "transitional yield" has the meaning given the term in section 1502(b) of this title.
+
+#### (23) United States
+
+&emsp;The term "United States", when used in a geographical sense, means all of the States.
+
+#### (24) United States Premium Factor
+
+&emsp;The term "United States Premium Factor" means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 11/8-inch upland cotton and for Middling (M) 13/32-inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
+
+(Pub. L. 113–79, title I, §1111, Feb. 7, 2014, 128 Stat. 659.)
+
+#### References in Text
+
+This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§1101–1109) of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+
+This chapter, referred to in par. (16)(B)(ii), was in the original "this title", meaning title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
+#### Popcorn Acreage
+
+Pub. L. 108–7, div. A, title VII, §767, Feb. 20, 2003, 117 Stat. 48, as amended by Pub. L. 113–79, title I, §1609(c), Feb. 7, 2014, 128 Stat. 709, provided that: "Notwithstanding any other provision of law, for purposes of administering subtitle A of title I of the Agricultural Act of 2014 \[7 U.S.C. 9011 et seq.\], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: <i>Provided</i>, That if a farm program payment yield for corn is otherwise established for a farm under such subtitle, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: <i>Provided further</i>, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established by the Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area."
+

@@ -1,6 +1,6 @@
 ### §2114c. Trade in services: development, coordination, and implementation of Federal policies; staff support and other assistance; specific service sector authorities unaffected; executive functions
 
-(1)(A) The United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of this title or any subcommittee thereof, shall, in conformance with this Act and other provisions of law, develop (and coordinate the implementation of) United States policies concerning trade in services.
+(1)(A) The United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of thistitle or any subcommittee thereof, shall, in conformance with this Act and other provisions of law, develop (and coordinate the implementation of) United States policies concerning trade in services.
 
 (B) In order to encourage effective development, coordination, and implementation of United States policies on trade in services—
 

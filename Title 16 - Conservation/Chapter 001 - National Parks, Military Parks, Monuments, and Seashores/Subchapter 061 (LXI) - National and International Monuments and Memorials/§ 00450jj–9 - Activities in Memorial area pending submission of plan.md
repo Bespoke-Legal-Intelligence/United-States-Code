@@ -4,7 +4,7 @@ Pending submission of the Commission's plan, any Federal entity conducting or su
 
 &emsp;(1) consult with the Secretary of the Interior and the Commission with respect to such activities;
 
-&emsp;(2) cooperate with the Secretary of the Interior and the Commission in carrying out their duties under sections 450jj to 450jj–9 of this title, and to the maximum extent practicable, coordinate such activities with the carrying out of such duties; and
+&emsp;(2) cooperate with the Secretary of the Interior and the Commission in carrying out their duties under sections 450jj to 450jj–9 of this title, and to the maximum extent practicable,coordinate such activities with the carrying out of such duties; and
 
 &emsp;(3) to the maximum extent practicable, conduct or support such activities in a manner which the Secretary determines will not have an adverse effect on the Memorial.
 

@@ -10,7 +10,7 @@ On and after January 1, 1990, a savings association chartered under State law ma
 
 #### (b) Differences of magnitude between State and Federal powers
 
-Notwithstanding subsection (a)(1) of this section, if an activity (other than an activity described in section 1464(c)(2)(B) of this title) is permissible for a Federal savings association, a savings association chartered under State law may engage as principal in that activity in an amount greater than the amount permissible for a Federal savings association if—
+Notwithstanding subsection (a)(1), if an activity (other than an activity described in section 1464(c)(2)(B) of this title) is permissible for a Federal savings association, a savings association chartered under State law may engage as principal in that activity in an amount greater than the amount permissible for a Federal savings association if—
 
 &emsp;(1) the Corporation has not determined that engaging in that amount of the activity poses any significant risk to the Deposit Insurance Fund; and
 
@@ -20,7 +20,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a) and (b) of this section, a savings association chartered under State law may not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
+&emsp;Notwithstanding subsections (a) and (b), a savings association chartered under State law may not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
 
 #### (2) Exception for service corporations
 
@@ -68,7 +68,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (B) Certain securities not included
 
-&emsp;&emsp;The term "corporate debt security that does not meet standards of credit-worthiness as established by the Corporation" does not include any obligation issued or guaranteed by a corporation that may be held by a Federal savings association without limitation as to percentage of assets under subparagraph (D), (E), or (F) of section 1464(c)(1) of this title.
+&emsp;&emsp;The term "corporate debt security that does not meet standards of credit-worthiness as established by the Corporation" does not include any obligation issued or guaranteed by a corporation that may be held by a Federal savings association without limitationas to percentage of assets under subparagraph (D), (E), or (F) of section 1464(c)(1) of this title.
 
 #### (e) Transfer of corporate debt security in exchange for a qualified note
 
@@ -144,7 +144,7 @@ The Corporation shall make determinations under this section by regulation or or
 
 #### (g) "Activity" defined
 
-For purposes of subsections (a) and (b) of this section—
+For purposes of subsections (a) and (b)—
 
 #### (1) In general
 
@@ -152,7 +152,7 @@ For purposes of subsections (a) and (b) of this section—
 
 #### (2) Divestiture of certain assets
 
-&emsp;Notwithstanding paragraph (1), subsections (a) and (b) of this section shall not be construed to require a savings association to divest itself of any assets acquired before August 9, 1989.
+&emsp;Notwithstanding paragraph (1), subsections (a) and (b) shall not be construed to require a savings association to divest itself of any assets acquired before August 9, 1989.
 
 #### (h) Other authority not affected
 
@@ -226,7 +226,7 @@ Subsec. (h)(2). Pub. L. 111–203, §363(9)(B), substituted "Comptroller of the 
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(X). See 1996 Amendment note below.
 
-<b>1996</b>—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, §2704(d)(14)(X), which directed substitution of "Deposit Insurance Fund" for "affected deposit insurance fund",was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, §2704(d)(14)(X), which directed substitution of "Deposit Insurance Fund" for "affected deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1994</b>—Subsec. (c)(2)(A)(i). Pub. L. 103–325, §602(a)(56), substituted "; or" for ", or".
 

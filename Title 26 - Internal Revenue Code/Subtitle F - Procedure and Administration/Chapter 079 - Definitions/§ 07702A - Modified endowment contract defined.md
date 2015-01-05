@@ -14,7 +14,7 @@ For purposes of section 72, the term "modified endowment contract" means any con
 
 #### (b) 7-pay test
 
-For purposes of subsection (a), a contract fails to meet the 7-pay test of this subsection if the accumulated amount paid under the contract atany time during the 1st 7 contract years exceeds the sum of the net level premiums which would have been paid on or before such time if the contract provided for paid-up future benefits after the payment of 7 level annual premiums.
+For purposes of subsection (a), a contract fails to meet the 7-pay test of this subsection if the accumulated amount paid under the contract at any time during the 1st 7 contract years exceeds the sum of the net level premiums which would have been paid on or before such time if the contract provided for paid-up future benefits after the payment of 7 level annual premiums.
 
 #### (c) Computational rules
 
@@ -24,7 +24,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 &emsp;&emsp;(A) as of the time the contract is issued, and
 
-&emsp;&emsp;(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other than paragraph (2)(C) thereof), except that the death benefit provided for the 1st contract year shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
+&emsp;&emsp;(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other than paragraph (2)(C) thereof), except that the death benefit provided for the 1st contractyear shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
 
 #### (2) Reduction in benefits during 1st 7 years
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (C) Interest returned includible in gross income
 
-&emsp;&emsp;Notwithstanding the provisions of section 72(e), the amount of any interest returned as provided in subparagraph (B) shall be includible in the gross income of the recipient.
+&emsp;&emsp;Notwithstanding the provisions of section 72(e), the amount of any interest returned asprovided in subparagraph (B) shall be includible in the gross income of the recipient.
 
 #### (2) Contract year
 
@@ -186,5 +186,5 @@ Special rule for annuity contracts.—In the case of annuity contracts, the amen
 
 #### Construction of 2002 Amendment
 
-Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55, provided that: "Paragraph (2) of section 318(a) of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554\](114 Stat. 2763A–645) \[amending this section\] is repealed, andclause (ii) of section 7702A(c)(3)(A) shall read and be applied as if the amendment made by such paragraph had not been enacted."
+Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55, provided that: "Paragraph (2) of section 318(a) of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554\](114 Stat. 2763A–645) \[amending this section\] is repealed, and clause (ii) of section 7702A(c)(3)(A) shall read and be applied as if the amendment made by such paragraph had not been enacted."
 

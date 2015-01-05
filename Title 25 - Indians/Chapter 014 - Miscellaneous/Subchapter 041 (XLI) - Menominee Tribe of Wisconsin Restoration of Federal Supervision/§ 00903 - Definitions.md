@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 (2) The term "Secretary" means the Secretary of the Interior.
 
-(3) The term "Menominee Restoration Committee" means that committee of nine Menominee Indians who shall be elected pursuant to subsections (a) and (b) of section 903b of this title.
+(3) The term "Menominee Restoration Committee" means that committee of nine Menominee Indians who shall be elected pursuant tosubsections (a) and (b) of section 903b of this title.
 
 (Pub. L. 93–197, §2, Dec. 22, 1973, 87 Stat. 770.)
 

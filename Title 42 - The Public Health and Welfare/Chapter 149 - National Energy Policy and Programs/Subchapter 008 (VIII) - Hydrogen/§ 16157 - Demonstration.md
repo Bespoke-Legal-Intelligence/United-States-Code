@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In carrying out the programs under this section, the Secretary shall fund a limited number of demonstration projects, consistent with this subchapter and a determination of the maturity, cost-effectiveness, and environmental impacts of technologies supporting each project. In selecting projects under this subsection, the Secretary shall, to the extent practicable and in the public interest, select projects that—
+In carrying out the programs under this section, the Secretary shall fund a limited numberof demonstration projects, consistent with this subchapter and a determination of the maturity, cost-effectiveness, and environmental impacts of technologies supporting each project. In selecting projects under this subsection, the Secretary shall, to the extent practicable and in the public interest, select projects that—
 
 &emsp;(1) involve using hydrogen and related products at existing facilities or installations, such as existing office buildings, military bases, vehicle fleet centers, transit bus authorities, or units of the National Park System;
 
@@ -44,7 +44,7 @@ In carrying out the programs under this section, the Secretary shall fund a limi
 
 #### (1) <sup>1</sup> In general
 
-&emsp;As a component of the demonstration program under this section, the Secretary shallprovide grants, on a cost share basis as appropriate, to eligible entities (as determined by the Secretary) for use in—
+&emsp;As a component of the demonstration program under this section, the Secretary shall provide grants, on a cost share basis as appropriate, to eligible entities (as determined by the Secretary) for use in—
 
 &emsp;&emsp;(A) devising system design concepts that provide for the use of advanced composite vehicles in programs under section 16122 of this title that—
 

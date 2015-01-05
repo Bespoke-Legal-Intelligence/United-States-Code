@@ -44,7 +44,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 #### (A) Analysis of methods
 
-&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods used by terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
+&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods usedby terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
 
 #### (B) Identification of individuals and documents
 
@@ -62,7 +62,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 Not later than 90 days after the date on which the strategy required under section 7201 <sup>1</sup> is submitted to Congress, the Assistant Secretary for Diplomatic Security shall submit to Congress a report containing—
 
-&emsp;(1) a description of the strategic plan prepared under subsection (b) of this section; and
+&emsp;(1) a description of the strategic plan prepared under subsection (b); and
 
 &emsp;(2) an evaluation of the feasibility of establishing civil service positions in field offices of the Bureau of Diplomatic Security to investigate visa and passport fraud, including an evaluation of whether to allow diplomatic security agents to convert to civil service officers to fill such positions.
 

@@ -32,7 +32,7 @@
 
 #### (b) Corrective actions
 
-(1) If a report under subsection (a)(3) indicates that construction or operation of the MOX facility is behind the applicable schedule under subsection (g) by 12 months or more, the Secretary shall submit to Congress, not later than August 15 of the year in which such report is submitted,a plan for corrective actions to be implemented by the Secretary to ensure that the MOX facility project is capable of meeting the MOX production objective.
+(1) If a report under subsection (a)(3) indicates that construction or operation of the MOX facility is behind the applicable schedule under subsection (g) by 12 months or more, the Secretaryshall submit to Congress, not later than August 15 of the year in which such report is submitted, a plan for corrective actions to be implemented by the Secretary to ensure that the MOX facility project is capable of meeting the MOX production objective.
 
 (2) If a plan is submitted under paragraph (1) in any year after 2008, the plan shall include corrective actions to be implemented by the Secretary to ensure that the MOX production objective is met.
 
@@ -46,7 +46,7 @@
 
 (B) Each report under subparagraph (A) shall include an analysis of each option set forth in the report, including the cost and schedule for implementation of such option, and any requirements under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) relating to consideration or selection of such option.
 
-(C) Upon submittal of a report under paragraph (A), the Secretary shall commence any analysis that may be required under the National Environmental Policy Act of 1969 in order to select among the options set forth in the report.
+(C) Upon submittal of a report under subparagraph (A), the Secretary shall commence any analysis that may be required under the National Environmental Policy Act of 1969 in order to select among the options set forth in the report.
 
 #### (c) Contingent requirement for removal of plutonium and materials from Savannah River Site
 
@@ -54,7 +54,7 @@ If the MOX production objective is not achieved as of January 1, 2014, the Secre
 
 &emsp;(1) not later than January 1, 2016, not less than 1 metric ton of defense plutonium or defense plutonium materials; and
 
-&emsp;(2) not later than January 1, 2022, an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002 and January 1, 2022, but not processed by the MOX facility.
+&emsp;(2) not later than January 1, 2022, an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002, and January 1, 2022, but not processed by the MOX facility.
 
 #### (d) Economic and impact assistance
 
@@ -74,7 +74,7 @@ If the MOX production objective is not achieved as of January 1, 2014, the Secre
 
 (B) Nothing in this paragraph may be construed to terminate, supersede, or otherwise affect any other requirements of this section.
 
-(3) If the State of South Carolina obtains an injunction that prohibits the Department from taking any action necessary for the Department to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
+(3) If the State of South Carolina obtains an injunction that prohibits the Department of Energy from taking any action necessary for the Department to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
 
 #### (e) Failure to complete planned disposition program
 
@@ -112,13 +112,19 @@ In this section:
 
 &emsp;The terms "defense plutonium" and "defense plutonium materials" mean weapons-usable plutonium.
 
-(Pub. L. 107–314, div. D, title XLIII, §4306, formerly div. C, title XXXI, §3182, Dec. 2, 2002, 116 Stat. 2747; renumbered div. D, title XLIII, §4306, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(A), Nov. 24, 2003, 117 Stat. 1763; amended Pub. L. 109–103, title III, §313, Nov. 19, 2005, 119 Stat. 2280; Pub. L. 112–239, div. C, title XXXI, §3116, Jan. 2, 2013, 126 Stat. 2172.)
+(Pub. L. 107–314, div. D, title XLIII, §4306, formerly div. C, title XXXI, §3182, Dec. 2, 2002, 116 Stat. 2747; renumbered div. D, title XLIII, §4306, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(A), Nov. 24, 2003, 117 Stat. 1763; amended Pub. L. 109–103, title III, §313, Nov. 19, 2005, 119 Stat. 2280; Pub. L. 112–239, div. C, title XXXI, §3116, Jan. 2, 2013, 126 Stat. 2172; Pub. L. 113–291, div. C, title XXXI, §3142(f), Dec. 19, 2014, 128 Stat. 3900.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(6)(C). Pub. L. 113–291, §3142(f)(1), substituted "subparagraph (A)" for "paragraph (A)".
+
+Subsec. (c)(2). Pub. L. 113–291, §3142(f)(2), substituted "2002," for "2002".
+
+Subsec. (d)(3). Pub. L. 113–291, §3142(f)(3), which directed amendment of par. (3) by inserting "of Energy" after "Department", was executed by making the insertion after "Department" the first place appearing to reflect the probable intent of Congress.
 
 <b>2013</b>—Subsec. (a)(3)(C). Pub. L. 112–239, §3116(1)(A), substituted "2014" for "2012" in introductory provisions.
 

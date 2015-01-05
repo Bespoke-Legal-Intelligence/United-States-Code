@@ -22,13 +22,13 @@ No deduction shall be allowed for the following taxes:
 
 &emsp;(6) Taxes imposed by chapters 41, 42, 43, 44, 45, 46, and 54.
 
-> Paragraph (1) shall not apply to the tax imposed by section 59A. Paragraph (1) shall not apply to any taxes to the extent such taxes are allowable as a deduction under section 164(f).
+> Paragraph (1) shall not apply to any taxes to the extent such taxes are allowable as a deduction under section 164(f).
 
 #### (b) Cross reference
 
 &emsp;&emsp;<b>For disallowance of certain other taxes, see section 164(c).</b>
 
-(Added Pub. L. 88–272, title II, §207(b)(3)(A), Feb. 26, 1964, 78 Stat. 42; amended Pub. L. 93–406, title II, §1016(a)(1), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(A), title XVI, §1605(b)(1), title XIX, §1901(a)(39), Oct. 4, 1976, 90 Stat. 1727, 1754, 1771; Pub. L. 95–600, title VII, §701(t)(3)(B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title III, §§305(a), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–21, title I, §124(c)(5), Apr. 20, 1983, 97 Stat. 91; Pub. L. 98–67, title I, §102(a) Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §67(b)(2), title VIII, §801(d)(5), July 18, 1984, 98 Stat. 587, 996; Pub. L. 99–499, title V, §516(b)(2)(B), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 100–203, title X, §10228(b), Dec. 22, 1987, 101 Stat. 1330–418; Pub. L. 106–519, §4(2), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(5), title VIII, §802(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1568; Pub. L. 110–172, §11(g)(5), Dec. 29, 2007, 121 Stat. 2490.)
+(Added Pub. L. 88–272, title II, §207(b)(3)(A), Feb. 26, 1964, 78 Stat. 42; amended Pub. L. 93–406, titleII, §1016(a)(1), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(A), title XVI, §1605(b)(1), title XIX, §1901(a)(39), Oct. 4, 1976, 90 Stat. 1727, 1754, 1771; Pub. L. 95–600, title VII, §701(t)(3)(B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title III, §§305(a), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–21, title I, §124(c)(5), Apr. 20, 1983, 97 Stat. 91; Pub. L. 98–67, title I, §102(a) Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §67(b)(2), title VIII, §801(d)(5), July 18, 1984, 98 Stat. 587, 996; Pub. L. 99–499, title V, §516(b)(2)(B), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 100–203, title X, §10228(b), Dec. 22, 1987, 101 Stat. 1330–418; Pub. L. 106–519, §4(2), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(5), title VIII, §802(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1568; Pub. L. 110–172, §11(g)(5), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 113–295, div. A, title II, §221(a)(12)(E), Dec. 19, 2014, 128 Stat. 4038.)
 
 #### References in Text
 
@@ -39,6 +39,8 @@ The Federal Insurance Contributions Act, referred to in subsec. (a)(1)(A), is ac
 Pub. L. 95–600, §701(t)(3)(B) (effective Oct. 4, 1976, see Pub. L. 95–600, §701(t)(5), set out as an Effective Date of 1978 Amendment note under section 859 of this title) repealed §1605(b)(1) of Pub. L. 94–455, cited as a credit to this section, which had duplicated the amendment to subsec. (a)(6) made by §1307(d)(2)(A) of Pub. L. 94–455.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–295 struck out "Paragraph (1) shall not apply to the tax imposed by section 59A." at end of concluding provisions.
 
 <b>2007</b>—Subsec. (a)(4). Pub. L. 110–172 substituted "if the taxpayer chooses to take to any extent the benefits of section 901." for "if—
 
@@ -76,6 +78,10 @@ Subsec. (a)(6). Pub. L. 94–455, §§1307(d)(2)(A), 1605(b)(1), inserted refere
 
 <b>1974</b>—Subsec. (a)(6). Pub. L. 93–406 added par. (6).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 101(b)(5) of Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, see section 101(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
@@ -98,7 +104,7 @@ Amendment by Pub. L. 99–499 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 67(b)(2) of Pub. L. 98–369 applicable to payments under agreements entered into or renewed after June 14, 1984, in taxable years ending after such date, with contracts entered into before June 15, 1984, which are amended after June 14, 1984, in any significant relevant aspect to be treated as a contract entered into after June 14, 1984, see section 67(e) of Pub. L. 98–369, set out as an Effective Date note under section 280G of this title.
 
-Amendment by section 801(d)(5) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
+Amendment by section 801(d)(5) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxableyears ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
 
 #### Effective Date of 1983 Amendment
 

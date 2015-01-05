@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>2013</b>—Subsecs. (a), (b). Pub. L. 113–6 substituted “Before September 30, 2013” for “Before July 23, 2013”.
+<b>2013</b>—Subsecs. (a), (b). Pub. L. 113–6 substituted "Before September 30, 2013" for "Before July 23, 2013".
 
-<b>2007</b>—Subsecs. (a), (b). Pub. L. 110–161 substituted “Before July 23, 2013” for “For a period of 10 years after the date of enactment of this section”.
+<b>2007</b>—Subsecs. (a), (b). Pub. L. 110–161 substituted "Before July 23, 2013" for "For a period of 10 years after the date of enactment of this section".
 

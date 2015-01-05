@@ -46,35 +46,15 @@ Nonqualified Withdrawals.—
 
 In general.—The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal:
 
-<b>If the amount remains in the fund at</b>
+&nbsp;
 
-<b>The applicable</b>
-
-<b>  the close of the—</b>
-
-<b>percentage is—</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;26th taxable year
-
-&nbsp;&nbsp;20 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;27th taxable year
-
-&nbsp;&nbsp;40 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;28th taxable year
-
-&nbsp;&nbsp;60 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;29th taxable year
-
-&nbsp;&nbsp;80 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;30th taxable year
-
-&nbsp;&nbsp;100 percent.
+| <b> If the amount remains in the fund at  the close of the—</b> | <b>The applicable percentage is—</b> |
+| :--- | ---: |
+| 26th taxable year | 20 percent&nbsp;&nbsp; |
+| 27th taxable year | 40 percent&nbsp;&nbsp; |
+| 28th taxable year | 60 percent&nbsp;&nbsp; |
+| 29th taxable year | 80 percent&nbsp;&nbsp; |
+| 30th taxable year | 100 percent. |
 
 &emsp;(2)
 

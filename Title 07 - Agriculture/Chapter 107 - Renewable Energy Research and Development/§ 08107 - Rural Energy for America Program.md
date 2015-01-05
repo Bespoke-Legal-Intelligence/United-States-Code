@@ -26,9 +26,11 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 &emsp;&emsp;(B) a land-grant college or university or other institution of higher education;
 
-&emsp;&emsp;(C) a rural electric cooperative or public power entity; and
+&emsp;&emsp;(C) a rural electric cooperative or public power entity;
 
-&emsp;&emsp;(D) any other similar entity, as determined by the Secretary.
+&emsp;&emsp;(D) a council (as defined in section 3451 of title 16); and
+
+&emsp;&emsp;(E) any other similar entity, as determined by the Secretary.
 
 #### (3) Selection criteria
 
@@ -94,21 +96,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 &emsp;&emsp;(G) other appropriate factors.
 
-#### (3) Feasibility studies
-
-#### (A) In general
-
-&emsp;&emsp;The Secretary may provide assistance in the form of grants to an agricultural producer or rural small business to conduct a feasibility study for a project for which assistance may be provided under this subsection.
-
-#### (B) Limitation
-
-&emsp;&emsp;The Secretary shall use not more than 10 percent of the funds made available to carry out this subsection to provide assistance described in subparagraph (A).
-
-#### (C) Avoidance of duplicative assistance
-
-&emsp;&emsp;An entity shall be ineligible to receive assistance to carry out a feasibility study for a project under this paragraph if the entity has received other Federal or State assistance for a feasibility study for the project.
-
-#### (4) Limits
+#### (3) Limits
 
 #### (A) Grants
 
@@ -121,6 +109,28 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 #### (C) Maximum amount of combined grant and loan guarantee
 
 &emsp;&emsp;The combined amount of a grant and loan guaranteed under this subsection shall not exceed 75 percent of the cost of the activity funded under this subsection.
+
+#### (4) Tiered application process
+
+#### (A) In general
+
+&emsp;&emsp;In providing loan guarantees and grants under this subsection, the Secretary shall use a 3-tiered application process that reflects the size of proposed projects in accordance with this paragraph.
+
+#### (B) Tier 1
+
+&emsp;&emsp;The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is not more than $80,000.
+
+#### (C) Tier 2
+
+&emsp;&emsp;The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is greater than $80,000 but less than $200,000.
+
+#### (D) Tier 3
+
+&emsp;&emsp;The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is equal to or greater than $200,000.
+
+#### (E) Application process
+
+&emsp;&emsp;The Secretary shall establish an application, evaluation, and oversight process that is the most simplified for tier I projects and more comprehensive for each subsequent tier.
 
 #### (d) Outreach
 
@@ -150,9 +160,11 @@ Not later than 4 years after the date of enactment of the Food, Conservation, an
 
 &emsp;&emsp;(B) $60,000,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $70,000,000 for fiscal year 2011; and
+&emsp;&emsp;(C) $70,000,000 for fiscal year 2011;
 
-&emsp;&emsp;(D) $70,000,000 for fiscal year 2012.
+&emsp;&emsp;(D) $70,000,000 for fiscal year 2012; and
+
+&emsp;&emsp;(E) $50,000,000 for fiscal year 2014 and each fiscal year thereafter.
 
 #### (2) Audit and technical assistance funding
 
@@ -166,9 +178,9 @@ Not later than 4 years after the date of enactment of the Food, Conservation, an
 
 #### (3) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2013.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
 
-(Pub. L. 107–171, title IX, §9007, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2077; amended Pub. L. 112–240, title VII, §701(f)(6), Jan. 2, 2013, 126 Stat. 2365.)
+(Pub. L. 107–171, title IX, §9007, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2077; amended Pub. L. 112–240, title VII, §701(f)(6), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9007, Feb. 7, 2014, 128 Stat. 930.)
 
 #### References in Text
 
@@ -183,6 +195,14 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8107, Pub. L. 107–171, title IX, §9007, May 13, 2002, 116 Stat. 483, related to application of hydrogen and fuel cell technologies, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(D), (E). Pub. L. 113–79, §9007(a)(1), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (c)(3), (4). Pub. L. 113–79, §9007(a)(2), added par. (4), redesignated former par. (4) as (3), and struck out former par. (3) which related to grants to agricultural producers or rural small businesses to conduct feasibility studies.
+
+Subsec. (g)(1)(E). Pub. L. 113–79, §9007(b)(1), added subpar. (E).
+
+Subsec. (g)(3). Pub. L. 113–79, §9007(b)(2), substituted "$20,000,000 for each of fiscal years 2014 through 2018" for "$25,000,000 for each of fiscal years 2009 through 2013".
 
 <b>2013</b>—Subsec. (g)(3). Pub. L. 112–240 substituted "2013" for "2012".
 

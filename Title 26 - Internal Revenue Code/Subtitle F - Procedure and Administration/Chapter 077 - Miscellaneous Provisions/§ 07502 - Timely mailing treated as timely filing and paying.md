@@ -4,7 +4,7 @@
 
 #### (1) Date of delivery
 
-&emsp;If any return, claim, statement, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of the internal revenue laws is, after such period or such date, delivered by United States mail to the agency, officer, or office with which such return, claim, statement, or other document is required to be filed, or to which such payment isrequired to be made, the date of the United States postmark stamped on the cover in which such return, claim, statement, or other document, or payment, is mailed shall be deemed to be the date of delivery or the date of payment, as the case may be.
+&emsp;If any return, claim, statement, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of the internal revenue laws is, after such period or such date, delivered by United States mail to the agency, officer, or office with which such return, claim, statement, or other document is required to be filed, or to which such payment is required to be made, the date of the United States postmark stamped on the cover in which such return, claim, statement, or other document, or payment, is mailed shall be deemed to be the date of delivery or the date of payment, as the case may be.
 
 #### (2) Mailing requirements
 
@@ -86,7 +86,7 @@ This section shall not apply with respect to—
 
 #### (3) Equivalents of registered and certified mail
 
-&emsp;The Secretary may provide a rule similar to the rule of paragraph (1) with respect to anyservice provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
+&emsp;The Secretary may provide a rule similar to the rule of paragraph (1) with respect to any service provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 895; Pub. L. 85–866, title I, §89(a), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 89–713, §5(a), Nov. 2, 1966, 80 Stat. 1110; Pub. L. 90–364, title I, §106(a), June 28, 1968, 82 Stat. 266; Pub. L. 94–455, title XIX, §§1906(a)(49), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 95–147, §3(b), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 98–369, div. A, title I, §157(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, title XVIII, §1811(e), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 104–168, title XII, §1210, July 30, 1996, 110 Stat. 1474; Pub. L. 105–206, title II, §2003(b), July 22, 1998, 112 Stat. 725.)
 

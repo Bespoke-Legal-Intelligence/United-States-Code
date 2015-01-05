@@ -20,7 +20,7 @@ The provisions of section 224 of title 28, U.S.C., 1940 ed., that the United Sta
 
 Provisions of section 11–204 of District of Columbia Code, 1940 ed., relating to appointment and compensation of clerk of the United States Court of Appeals for the District of Columbia are incorporated in sections 711 and 604 of this title, respectively. Other provisions of such section were retained in the District of Columbia Code. (See reviser's note under section 604 of this title.)
 
-Compensation of bailiffs is provided by section 755 of this title. Other provisions of section 547 of title 28, U.S.C., 1940 ed., relating to compensation of criers, clerks, and messengers are incorporated in section 604 of this title.
+Compensation of bailiffs is provided by section 755 of this title. Other provisions of section 547 of title 28,U.S.C., 1940 ed., relating to compensation of criers, clerks, and messengers are incorporated in section 604 of this title.
 
 Marshal for the Court of Appeals for the District of Columbia was authorized by the District of Columbia Appropriation Act of June 29, 1937, 50 Stat. 378.
 

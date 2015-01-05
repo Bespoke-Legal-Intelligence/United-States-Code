@@ -16,7 +16,7 @@ The assessment of the Secretary of the performance of each State shall include�
 
 #### (c) Performance innovations
 
-The report of the Secretary shall describe best practices from States with the best performance or the most improved performance from the previous year.
+The report of the Secretary shall describe best practices from States with the best performanceor the most improved performance from the previous year.
 
 (Pub. L. 110–234, title IV, §4301, May 22, 2008, 122 Stat. 1125; Pub. L. 110–246, §4(a), title IV, §4301, June 18, 2008, 122 Stat. 1664, 1886.)
 

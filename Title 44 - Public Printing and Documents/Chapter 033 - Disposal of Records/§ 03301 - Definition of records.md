@@ -1,14 +1,38 @@
 ### §3301. Definition of records
 
-As used in this chapter, "records" includes all books, papers, maps, photographs, machine readable materials, or other documentary materials, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the Government or because of the informational value of data in them. Library and museum material made or acquired and preserved solely for reference or exhibition purposes, extra copies of documents preserved only for convenience of reference, and stocks of publications and of processed documents are not included.
+(a)
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1299; Pub. L. 94–575, §4(c)(2), Oct. 21, 1976, 90 Stat. 2727.)
+Records Defined.—
+
+&emsp;(1)
+
+In general.—As used in this chapter, the term "records"—
+
+&emsp;&emsp;(A) includes all recorded information, regardless of form or characteristics, made or received by a Federal agency under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the United States Government or because of the informational value of data in them; and
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) library and museum material made or acquired and preserved solely for reference or exhibition purposes; or
+
+&emsp;&emsp;&emsp;(ii) duplicate copies of records preserved only for convenience.
+
+&emsp;(2)
+
+Recorded information defined.—For purposes of paragraph (1), the term "recorded information" includes all traditional forms of records, regardless of physical form or characteristics, including information created, manipulated, communicated, or stored in digital or electronic form.
+
+(b)
+
+Determination of Definition.—The Archivist's determination whether recorded information, regardless of whether it exists in physical, digital, or electronic form, is a record as defined in subsection (a) shall be binding on all Federal agencies.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1299; Pub. L. 94–575, §4(c)(2), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 113–187, §5(a), Nov. 26, 2014, 128 Stat. 2009.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §366 (July 7, 1943, ch. 192, §1, 57 Stat. 380).
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–187 amended section generally. Prior to amendment, text read as follows: "As used in this chapter, 'records' includes all books, papers, maps, photographs, machine readable materials, or other documentary materials, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the Government or because of the informational value of data in them. Library and museum material made or acquired and preserved solely for reference or exhibition purposes, extra copies of documents preserved only for convenience of reference, and stocks of publications and of processed documents are not included."
 
 <b>1976</b>—Pub. L. 94–575 expanded "records" to include "machine readable materials".
 

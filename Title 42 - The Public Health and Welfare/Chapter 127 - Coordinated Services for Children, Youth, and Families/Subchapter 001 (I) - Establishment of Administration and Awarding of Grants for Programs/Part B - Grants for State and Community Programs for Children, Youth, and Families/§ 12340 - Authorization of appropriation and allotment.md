@@ -4,7 +4,7 @@
 
 #### (1) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out sections 12337 and 12338 of this title such sums as may be necessary for each of the fiscal years 1995 through 1998.
+&emsp;There are authorized to be appropriated to carry out sections 12337 and 12338 of this titlesuch sums as may be necessary for each of the fiscal years 1995 through 1998.
 
 #### (2) Availability of appropriation
 

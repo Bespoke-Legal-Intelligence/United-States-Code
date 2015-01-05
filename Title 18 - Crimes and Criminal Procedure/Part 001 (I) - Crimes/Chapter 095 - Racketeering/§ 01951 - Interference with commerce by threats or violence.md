@@ -34,7 +34,7 @@ Sections 101–115 of Title 29, referred to in subsec. (c), is a reference to ac
 
 Section 11 of that act, formerly classified to section 111 of Title 29, was repealed and reenacted as section 3692 of this title by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
 
-Section 12 of that act, formerly classified to section 112 of Title 29, was repealed by act June 25, 1948, and iscovered by rule 42(b) of the Federal Rules of Criminal Procedure, set out in Appendix to this title.
+Section 12 of that act, formerly classified to section 112 of Title 29, was repealed by act June 25, 1948, and is covered by rule 42(b) of the Federal Rules of Criminal Procedure, set out in Appendix to this title.
 
 Section 164 of Title 45, included within the reference in subsec. (c) to sections 151–188 of Title 45, was repealed by act Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111.
 

@@ -20,7 +20,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 #### (c) Manner of payment
 
-The Federal capital contributions to a loan fund of a school under this part shall be paid toit from time to time in such installments as the Secretary determines will not result in unnecessary accumulations in the loan fund at such school.
+The Federal capital contributions to a loan fund of a school under this part shall be paid to it from time to time in such installments as the Secretary determines will not result in unnecessary accumulations in the loan fund at such school.
 
 (July 1, 1944, ch. 373, title VIII, §838, formerly §825, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 915; amended Pub. L. 89–751, §6(c), Nov. 3, 1966, 80 Stat. 1235; Pub. L. 90–490, title II, §222(e), Aug. 16, 1968, 82 Stat. 785; renumbered §838 and amended Pub. L. 94–63, title IX, §941(h)(1), (2), (4)(A), (i)(1), (4), July 29, 1975, 89 Stat. 365, 366; Pub. L. 99–92, §8(e), Aug. 16, 1985, 99 Stat. 398; Pub. L. 100–607, title VII, §713(h)(1), Nov. 4, 1988, 102 Stat. 3161; Pub. L. 102–408, title II, §208(a), Oct. 13, 1992, 106 Stat. 2075; Pub. L. 111–148, title V, §5310(b)(2), Mar. 23, 2010, 124 Stat. 631.)
 
@@ -32,7 +32,7 @@ Section 297c of this title, referred to in subsec. (a)(2)(A), was repealed by Pu
 
 <b>2010</b>—Subsecs. (a)(3), (c). Pub. L. 111–148 substituted "this part" for "this subpart".
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–408 struck out "(A)" after "(3)", substituted "available for allotment until expended." for "available for allotment in such fiscal year and in the fiscal year succeeding the fiscal year." and "this subpart." for "this subpart, except that in making such allotments, the Secretary shall give priority to schools of nursing which established student loan funds under this subpart after September 30, 1975.", and struck out subpar. (B) which read as follows: "With respect to funds available pursuant to subparagraph (A), any such funds returned to the Secretary and not allotted by the Secretary, during the period of availability specified in such subparagraph, shall be available to carry out section 297j of this title and, for such purpose, shall remain available until expended."
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–408 struck out "(A)" after "(3)", substituted "available for allotment untilexpended." for "available for allotment in such fiscal year and in the fiscal year succeeding the fiscal year." and "this subpart." for "this subpart, except that in making such allotments, the Secretary shall give priority to schools of nursing which established student loan funds under this subpart after September 30, 1975.", and struck out subpar. (B) which read as follows: "With respect to funds available pursuant to subparagraph (A), any such funds returned to the Secretary and not allotted by the Secretary, during the period of availability specified in such subparagraph, shall be available to carry out section 297j of this title and, for such purpose, shall remain available until expended."
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–607 designated existing provisions as subpar. (A) and added subpar. (B).
 

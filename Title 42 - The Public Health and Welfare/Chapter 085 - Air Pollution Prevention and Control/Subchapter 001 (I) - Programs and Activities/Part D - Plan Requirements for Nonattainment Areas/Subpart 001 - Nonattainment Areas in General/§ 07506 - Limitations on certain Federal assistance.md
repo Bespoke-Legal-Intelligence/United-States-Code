@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(iii) the design concept and scope of such project at the time of the conformity determination for the program was adequate to determine emissions.
 
-&emsp;(D) Any project not referred to in subparagraph (C) shall be treated as conforming to theapplicable implementation plan only if it is demonstrated that the projected emissions from such project, when considered together with emissions projected for the conforming transportation plans and programs within the nonattainment area, do not cause such plans and programs to exceed the emission reduction projections and schedules assigned to such plans and programs in the applicable implementation plan.
+&emsp;(D) Any project not referred to in subparagraph (C) shall be treated as conforming to the applicable implementation plan only if it is demonstrated that the projected emissions from such project, when considered together with emissions projected for the conforming transportation plans and programs within the nonattainment area, do not cause such plans and programs to exceed the emission reduction projections and schedules assigned to such plans and programs in the applicable implementation plan.
 
 &emsp;(E) The appropriate metropolitan planning organization shall redetermine conformity of existing transportation plans and programs not later than 2 years after the date on which the Administrator—
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) promulgates an implementation plan that establishes or revises a motor vehicle emissions budget.
 
-(3) Until such time as the implementation plan revision referred to in paragraph (4)(C) <sup>1</sup> is approved, conformity of such plans, programs, and projects will be demonstrated if—
+(3) Until such time as the implementation plan revision referred to in paragraph (4)(C) <sup>1</sup> isapproved, conformity of such plans, programs, and projects will be demonstrated if—
 
 &emsp;(A) the transportation plans and programs—
 
@@ -160,7 +160,7 @@ In general.—Transportation control measures that are specified in an implement
 
 &emsp;&emsp;&emsp;(III) reasonable public notice and opportunity for comment; and
 
-&emsp;&emsp;(v) if the metropolitan planning organization, State air pollution control agency, andthe Administrator concur with the equivalency of the substitute or additional control measures.
+&emsp;&emsp;(v) if the metropolitan planning organization, State air pollution control agency, and the Administrator concur with the equivalency of the substitute or additional control measures.
 
 &emsp;(B)
 
@@ -172,7 +172,7 @@ Adoption.—(i) Concurrence by the metropolitan planning organization, State air
 
 &emsp;(C)
 
-No requirement for express permission.—The substitution or addition of a transportation control measure in accordance with this paragraph and the funding or approval of such a control measure shall not be contingent on the existence of any provision in the applicable implementation plan that expressly permits such a substitution or addition.
+No requirement for express permission.—The substitution or addition of a transportation control measure in accordance with this paragraph and the funding or approval of such a control measure shall not be contingenton the existence of any provision in the applicable implementation plan that expressly permits such a substitution or addition.
 
 &emsp;(D)
 
@@ -220,7 +220,7 @@ In subsecs. (c)(2) and (d), "chapter 53 of title 49" substituted for "the Urban 
 
 <b>2005</b>—Subsec. (c)(2)(E). Pub. L. 109–59, §6011(a), added subpar. (E).
 
-Subsec. (c)(4). Pub. L. 109–59, §6011(f)(1)–(3), inserted par. (4) and subpar. (A) headings, in first sentence substituted "The Administrator shall promulgate, and periodically update," for "No later than one year after November 15, 1990, the Administrator shall promulgate", designated second sentence as subpar. (B), inserted heading, substituted "The Administrator, with the concurrence of the Secretary of Transportation,shall promulgate, and periodically update," for "No later than one year after November 15, 1990, the Administrator, with the concurrence of the Secretary of Transportation, shall promulgate", designated third sentence as subpar. (C), inserted heading, substituted "A civil action" for "A suit", and redesignated former subpars. (B) to (D) as (D) to (F), respectively.
+Subsec. (c)(4). Pub. L. 109–59, §6011(f)(1)–(3), inserted par. (4) and subpar. (A) headings, in first sentence substituted "The Administrator shall promulgate, and periodically update," for "No later than one year after November 15, 1990, the Administrator shall promulgate", designated second sentence as subpar. (B), inserted heading, substituted "The Administrator, with the concurrence of the Secretary of Transportation, shall promulgate, and periodically update," for "No later than one year after November 15, 1990, the Administrator, with the concurrence of the Secretary of Transportation, shall promulgate", designated third sentence as subpar. (C), inserted heading, substituted "A civil action" for "A suit", and redesignated former subpars. (B) to (D) as (D) to (F), respectively.
 
 Subsec. (c)(4)(B)(ii). Pub. L. 109–59, §6011(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "address the appropriate frequency for making conformity determinations, but in no case shall such determinations for transportation plans and programs be less frequent than every three years; and".
 
@@ -236,7 +236,7 @@ Subsec. (c)(7) to (10). Pub. L. 109–59, §6011(c)–(e), added pars. (7) to (1
 
 <b>1990</b>—Subsecs. (a), (b). Pub. L. 101–549, §110(4), struck out subsec. (a) which related to approval of projects or award of grants, and subsec. (b) which related to implementation of approved or promulgated plans.
 
-Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out "(1)", "(2)", "(3)", and "(4)" before "engage in", "support in", "license or", and "approve, any", respectively, substituted "conform to an implementation plan after it" for "conform to a plan after it", "conform to an implementation plan approved" for "conform to a plan approved", and "conformity to such an implementation plan shall" for "conformity to such a plan shall", inserted "Conformity to an implementation plan means—" followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
+Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out "(1)", "(2)", "(3)", and "(4)" before "engage in", "support in", "license or", and "approve, any", respectively, substituted"conform to an implementation plan after it" for "conform to a plan after it", "conform to an implementation plan approved" for "conform to a plan approved", and "conformity to such an implementation plan shall" for "conformity to such a plan shall", inserted "Conformity to an implementation plan means—" followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
 
 <b>1977</b>—Subsec. (a)(1). Pub. L. 95–190 inserted "national" before "primary".
 

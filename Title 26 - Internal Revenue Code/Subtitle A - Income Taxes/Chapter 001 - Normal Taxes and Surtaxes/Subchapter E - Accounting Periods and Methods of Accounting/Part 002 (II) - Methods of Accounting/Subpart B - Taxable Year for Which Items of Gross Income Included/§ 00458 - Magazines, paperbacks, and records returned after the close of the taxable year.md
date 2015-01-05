@@ -2,7 +2,7 @@
 
 #### (a) Exclusion from gross income
 
-A taxpayer who is on an accrual method of accounting may elect not to include in the gross income for the taxable year the income attributable to the qualified sale of any magazine, paperback, or record which is returned to the taxpayer before the close of the merchandise return period.
+A taxpayer who is on an accrual method of accounting may elect not to include in the grossincome for the taxable year the income attributable to the qualified sale of any magazine, paperback, or record which is returned to the taxpayer before the close of the merchandise return period.
 
 #### (b) Definitions and special rules
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Election of benefits
 
-&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the casemay be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribed <sup>2</sup> and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
+&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribed <sup>2</sup> and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
 
 #### (2) Scope of election
 
@@ -90,7 +90,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (1) In general
 
-&emsp;In the case of any election under this section which applies to paperbacks or records, in lieu of applying section 481, the taxpayer shall establish a suspense account for the trade or business for the taxable year for which the election is made.
+&emsp;In the case of any election under this section which applies to paperbacks or records, in lieuof applying section 481, the taxpayer shall establish a suspense account for the trade or business for the taxable year for which the election is made.
 
 #### (2) Initial opening balance
 

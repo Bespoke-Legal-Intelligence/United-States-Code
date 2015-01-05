@@ -1,6 +1,6 @@
 ### §3013. Secretary of the Army
 
-(a)(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate.The Secretary is the head of the Department of the Army.
+(a)(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Army.
 
 (2) A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -73,6 +73,30 @@ Another prior section 3013 was renumbered section 3014 of this title and subsequ
 <b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 struck out "(to the maximum extent practicable)" after "fulfill".
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–661 substituted "five years" for "10 years".
+
+#### Pilot Program for the Human Terrain System
+
+Pub. L. 113–291, div. A, title X, §1075, Dec. 19, 2014, 128 Stat. 3519, provided that:
+
+"(a)
+
+Pilot Program Required.—The Secretary of the Army may carry out a pilot program under which the Secretary utilizes Human Terrain System assets in the United States Pacific Command area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command.
+
+"(b)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the pilot program under this section. Such report shall include the independent analysis and recommendations of the Commander of the United States Pacific Command regarding the effectiveness of the program and how it could be improved.
+
+&emsp;"(2)
+
+Final report.—Not later than December 1, 2016, the Secretary of the Army shall submit to the congressional defense committees a final report on the pilot program. Such report shall include an analysis of the comparative value of human terrain information relative to other analytic tools and techniques, recommendations regarding expanding the program to include other combatant commands, and any improvements to the program and necessary resources that would enable expanding the program.
+
+"(c)
+
+Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2016."
 
 #### Expansion of First Sergeants Barracks Initiative
 
@@ -188,7 +212,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 &emsp;"(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
 
-&emsp;"(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except tothe extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
+&emsp;"(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 
 "(f)
 

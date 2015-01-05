@@ -14,6 +14,7 @@
 - [&sect; 01866 - Certification of vouchers](%C2%A7%2001866%20-%20Certification%20of%20vouchers.md)
 - [&sect; 01867 - Advancement and reimbursement of expenses for flying American flags and providing certification services therefor](%C2%A7%2001867%20-%20Advancement%20and%20reimbursement%20of%20expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md)
 - [&sect; 01868 - Semiannual compilation and report of expenditures](%C2%A7%2001868%20-%20Semiannual%20compilation%20and%20report%20of%20expenditures.md)
+- [&sect; 01868a - Semiannual report of disbursements](%C2%A7%2001868a%20-%20Semiannual%20report%20of%20disbursements.md)
 - [&sect; 01869 - Advance payments](%C2%A7%2001869%20-%20Advance%20payments.md)
 - [&sect; 01870 - House Historic Buildings Revitalization Trust Fund](%C2%A7%2001870%20-%20House%20Historic%20Buildings%20Revitalization%20Trust%20Fund.md)
-- [&sect; 01871 - Expired appropriations available for deposit into Employees&#8217; Compensation Fund](%C2%A7%2001871%20-%20Expired%20appropriations%20available%20for%20deposit%20into%20Employees%E2%80%99%20Compensation%20Fund.md)
+- [&sect; 01871 - Expired appropriations available for deposit into Employees' Compensation Fund](%C2%A7%2001871%20-%20Expired%20appropriations%20available%20for%20deposit%20into%20Employees%27%20Compensation%20Fund.md)

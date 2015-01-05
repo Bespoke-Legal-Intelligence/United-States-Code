@@ -26,7 +26,7 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 &emsp;&emsp;(F) under the leadership of the Secretary, coordinate with the Commandant of the Coast Guard, the Director of Customs and Border Protection, the Director of Immigration and Customs Enforcement, the National Operations Center, and other agencies and offices in the Department to take full advantage of the substantial range of resources in the Department;
 
-&emsp;&emsp;(G) provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary to respond to a natural disaster, act of terrorism, or other man-made disaster; and
+&emsp;&emsp;(G) provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary torespond to a natural disaster, act of terrorism, or other man-made disaster; and
 
 &emsp;&emsp;(H) develop and coordinate the implementation of a risk-based, all-hazards strategy for preparedness that builds those common capabilities necessary to respond to natural disasters, acts of terrorism, and other man-made disasters while also building the unique capabilities necessary to respond to specific types of incidents that pose the greatest risk to our Nation.
 
@@ -62,7 +62,7 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 #### (ii) Advice on request
 
-&emsp;&emsp;&emsp;The Administrator, as the principal advisor on emergency management, shallprovide advice to the President, the Homeland Security Council, or the Secretary on a particular matter when the President, the Homeland Security Council, or the Secretary requests such advice.
+&emsp;&emsp;&emsp;The Administrator, as the principal advisor on emergency management, shall provide advice to the President, the Homeland Security Council, or the Secretary on a particular matter when the President, the Homeland Security Council, or the Secretary requests such advice.
 
 #### (iii) Recommendations to Congress
 
@@ -82,7 +82,7 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(5)(B), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (c)(5)(B), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Prior Provisions
 
@@ -90,9 +90,9 @@ A prior section 313, Pub. L. 107–296, title V, §503, Nov. 25, 2002, 116 Stat.
 
 #### Change of Name
 
-Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that: “Any reference to the Director of the Federal Emergency Management Agency, in any law, rule, regulation, certificate, directive, instruction, or other official paper shall be considered to refer and apply to the Administrator of the Federal Emergency Management Agency.”
+Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that: "Any reference to the Director of the Federal Emergency Management Agency, in any law, rule, regulation, certificate, directive, instruction, or other official paper shall be considered to refer and apply to the Administrator of the Federal Emergency Management Agency."
 
-Pub. L. 109–295, title VI, §612(f)(2), Oct. 4, 2006, 120 Stat. 1411, provided that: “Any reference to the Administrator of the Federal Emergency Management Agency in this title \[see Tables for classification\] or an amendment by this title shall be considered to refer and apply to the Director of the Federal Emergency Management Agency until March 31, 2007.”
+Pub. L. 109–295, title VI, §612(f)(2), Oct. 4, 2006, 120 Stat. 1411, provided that: "Any reference to the Administrator of the Federal Emergency Management Agency in this title \[see Tables for classification\] or an amendment by this title shall be considered to refer and apply to the Director of the Federal Emergency Management Agency until March 31, 2007."
 
 #### Effective Date
 

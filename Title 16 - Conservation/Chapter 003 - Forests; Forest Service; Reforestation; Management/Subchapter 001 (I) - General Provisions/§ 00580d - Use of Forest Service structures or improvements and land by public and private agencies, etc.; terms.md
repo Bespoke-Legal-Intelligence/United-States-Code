@@ -122,7 +122,7 @@ Notice of anticipated use of authority.—As part of the annual budget justifica
 
 &emsp;"(2)
 
-Notice of changes to conveyance list.—If the Secretary proposes to convey an administrative site under this title or using other conveyance authorities available to the Secretary and the administrative site is not included on a list provided under paragraph (1)(A), the Secretary shall submit to the congressional committees specified in paragraph (3) written notice of the proposed conveyance, including the anticipated revenue that may be obtained from the conveyance.
+Notice of changes to conveyance list.—If the Secretary proposes to convey an administrative siteunder this title or using other conveyance authorities available to the Secretary and the administrative site is not included on a list provided under paragraph (1)(A), the Secretary shall submit to the congressional committees specified in paragraph (3) written notice of the proposed conveyance, including the anticipated revenue that may be obtained from the conveyance.
 
 &emsp;"(3)
 
@@ -244,7 +244,7 @@ Deposit.—The Secretary shall deposit in the fund established under Public Law 
 
 "(b)
 
-Use.—Amounts deposited under paragraph (1) shall be available to the Secretary, until expended and without further appropriation, to pay any necessary and incidental costs incurred by the Secretary in connection with—
+Use.—Amounts deposited under paragraph (1) shall be available to the Secretary, until expended and without further appropriation, to pay any necessaryand incidental costs incurred by the Secretary in connection with—
 
 &emsp;"(1) the acquisition, improvement, maintenance, reconstruction, or construction of a facility or improvement for the National Forest System; and
 

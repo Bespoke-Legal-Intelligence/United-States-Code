@@ -30,9 +30,9 @@ Aug. 14, 1964, Pub. L. 88–428, §1(9), 78 Stat. 437.
 
 Only that portion of the source law which is applicable to civilian officers and employees and their dependents is codified in this section.
 
-The words “in the case of any taxable year beginning after December 31, 1940” are omitted as unnecessary.
+The words "in the case of any taxable year beginning after December 31, 1940" are omitted as unnecessary.
 
-The words “an employee” are substituted for “any civilian officer or employee of any department” to conform to the definition in section 5561(2). The words “in a missing status” are substituted for “absent from his duty station under the conditions specified in section 2 of this Act” to conform to the definition in section 5561(5) and in view of the provisions of section 5562 establishing the entitlement of an employee in a missing status to receive pay and allowances or to have them credited to his account. Reference to “title 26” is substituted for “Internal Revenue Code of 1954”.
+The words "an employee" are substituted for "any civilian officer or employee of any department" to conform to the definition in section 5561(2). The words "in a missing status" are substituted for "absent from his duty station under the conditions specified in section 2 of this Act" to conform to the definition in section 5561(5) and in view of the provisions of section 5562 establishing the entitlement of an employee in a missing status to receive pay and allowances or to have them credited to his account. Reference to "title 26" is substituted for "Internal Revenue Code of 1954".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

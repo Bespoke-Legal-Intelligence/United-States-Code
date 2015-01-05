@@ -6,7 +6,7 @@ Definition.—For purposes of this chapter, an alternative dispute resolution pr
 
 (b)
 
-Authority.—Each United States district court shall authorize, by local rule adopted under section 2071(a), the use of alternative dispute resolution processes in all civil actions, including adversary proceedings in bankruptcy, in accordance with this chapter, except that the use of arbitration may be authorized only as provided in section 654. Each United States district court shall devise and implement its own alternative dispute resolution program, by local rule adopted under section 2071(a), to encourage and promote the use of alternative dispute resolution in its district.
+Authority.—Each United States district court shall authorize, by local rule adopted under section 2071(a), the use of alternative dispute resolution processes in all civil actions, including adversary proceedings in bankruptcy, in accordance with this chapter, except that theuse of arbitration may be authorized only as provided in section 654. Each United States district court shall devise and implement its own alternative dispute resolution program, by local rule adopted under section 2071(a), to encourage and promote the use of alternative dispute resolution in its district.
 
 (c)
 
@@ -50,7 +50,7 @@ Pub. L. 105–315, §2, Oct. 30, 1998, 112 Stat. 2993, provided that: "Congress 
 
 &emsp;"(1) alternative dispute resolution, when supported by the bench and bar, and utilizing properly trained neutrals in a program adequately administered by the court, has the potential to provide a variety of benefits, including greater satisfaction of the parties, innovative methods of resolving disputes, and greater efficiency in achieving settlements;
 
-&emsp;"(2) certain forms of alternative dispute resolution, including mediation, early neutral evaluation, minitrials, and voluntary arbitration, may have potential to reduce the large backlog of cases now pending in some Federal courts throughout the United States,thereby allowing the courts to process their remaining cases more efficiently; and
+&emsp;"(2) certain forms of alternative dispute resolution, including mediation, early neutral evaluation, minitrials, and voluntary arbitration, may have potential to reduce the large backlog of cases now pending in some Federal courts throughout the United States, thereby allowing the courts to process their remaining cases more efficiently; and
 
 &emsp;"(3) the continued growth of Federal appellate court-annexed mediation programs suggests that this form of alternative dispute resolution can be equally effective in resolving disputes in the Federal trial courts; therefore, the district courts should consider including mediation in their local alternative dispute resolution programs."
 

@@ -42,7 +42,7 @@ Pub. L. 108–136, div. A, title I, §135, Nov. 24, 2003, 117 Stat. 1413, as ame
 
 Pub. L. 107–206, title I, §308, Aug. 2, 2002, 116 Stat. 841, provided that: "During the current fiscal year and hereafter, section 2533a of title 10, United States Code, shall not apply to any transaction entered into to acquire or sustain aircraft under the authority of section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284) \[set out below\]."
 
-Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, as amended by Pub. L. 107–248, title VIII, §8117, Oct. 23, 2002, 116 Stat. 1564, provided that:
+Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, as amended by Pub. L. 107–248, title VIII, §8117, Oct. 23, 2002, 116 Stat. 1564; Pub. L. 113–76, div. C, title VIII, §8122, Jan. 17, 2014, 128 Stat. 133, provided that:
 
 "(a) The Secretary of the Air Force may, from funds provided in this Act \[see Tables for classification\] or any future appropriations Act, establish and make payments on a multi-year pilot program for leasing general purpose Boeing 767 aircraft and Boeing 737 aircraft in commercial configuration.
 
@@ -62,11 +62,11 @@ Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, as
 
 &emsp;"(6) Lease arrangements authorized by this section may not commence until:
 
-&emsp;&emsp;"(A) The Secretary submits a report to the congressional defense committees \[Committees on Armed Services of the Senate and House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and House of Representatives\] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and describe the expected savings, if any,comparing total costs, including operation, support, acquisition, and financing, of the lease, including modification, with the outright purchase of the aircraft as modified.
+&emsp;&emsp;"(A) The Secretary submits a report to the congressional defense committees \[Committees on Armed Services of the Senate and House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and House of Representatives\] outlining the plans for implementing the Pilot Program. The report shalldescribe the terms and conditions of proposed contracts and describe the expected savings, if any, comparing total costs, including operation, support, acquisition, and financing, of the lease, including modification, with the outright purchase of the aircraft as modified.
 
 &emsp;&emsp;"(B) A period of not less than 30 calendar days has elapsed after submitting the report.
 
-&emsp;"(7) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be based on at least 6 months of experience in operating the Pilot Program.
+&emsp;"\[(7) Repealed. Pub. L. 113–76, div. C, title VIII, §8122, Jan. 17, 2014, 128 Stat. 133.\]
 
 &emsp;"(8) The Air Force shall accept delivery of the aircraft in a general purpose configuration.
 
@@ -138,5 +138,5 @@ Pub. L. 105–262, title VIII, §8126, Oct. 17, 1998, 112 Stat. 2333, provided t
 
 #### Pilot Program for Leasing Commercial Utility Cargo Vehicles
 
-Pub. L. 104–106, div. A, title VIII, §807(c), Feb. 10, 1996, 110 Stat. 392, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, authorized the Secretary of the Army to conduct a pilot program for leasing commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report prior to commencement of the program containing plans for its implementation and setting forth the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report on the status of the program not later than one year after the date on which the first lease under the program had been entered into, and provided that no lease could be entered into under the program after Sept. 30, 2000.
+Pub. L. 104–106, div. A, title VIII, §807(c), Feb. 10, 1996, 110 Stat. 392, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, authorized theSecretary of the Army to conduct a pilot program for leasing commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report prior to commencement of the program containing plans for its implementation and setting forth the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report on the status of the program not later than one year after the date on which the first lease under the program had been entered into, and provided that no lease could be entered into under the program after Sept. 30, 2000.
 

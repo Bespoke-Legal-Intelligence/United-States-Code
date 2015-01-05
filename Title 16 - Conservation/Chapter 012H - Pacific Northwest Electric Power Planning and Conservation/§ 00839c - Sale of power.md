@@ -62,7 +62,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (6) Exchange sales to a utility pursuant to this subsection shall not be restricted below the amounts of electric power acquired by the Administrator from, or on behalf of, such utility pursuant to this subsection.
 
-(7) The "average system cost" for electric power sold to the Administrator under this subsection shall be determined by the Administrator on the basis of a methodology developed for this purpose in consultation with the Council, the Administrator's customers, and appropriate State regulatory bodies in the region. Such methodology shall be subject to review andapproval by the Federal Energy Regulatory Commission. Such average system cost shall not include—
+(7) The "average system cost" for electric power sold to the Administrator under this subsection shall be determined by the Administrator on the basis of a methodology developed for this purpose in consultation with the Council, the Administrator's customers, and appropriate State regulatory bodies in the region. Such methodology shall be subject to review and approval by the Federal Energy Regulatory Commission. Such average system cost shall not include—
 
 &emsp;(A) the cost of additional resources in an amount sufficient to serve any new large single load of the utility;
 
@@ -112,7 +112,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 &emsp;(D) investor owned utilities.
 
-(2) Any contractual entitlement to firm power which is based on electric power acquired from, or on behalf of, a customer pursuant to section 839d of this title shall be in addition to any other contractual entitlement to firm power not subject to restriction that such customer may have under this section. For the purposes of this subsection, references to amounts of power acquired by the Administrator pursuant to section 839d of this title shall be deemed to mean the amounts specified in the resource acquisitioncontracts exclusive of any amounts recognized in such contracts as replacement for Federal base system resources.
+(2) Any contractual entitlement to firm power which is based on electric power acquired from, or on behalf of, a customer pursuant to section 839d of this title shall be in addition to any other contractual entitlement to firm power not subject to restriction that such customer may have under this section. For the purposes of this subsection, references to amounts of power acquired by the Administrator pursuant to section 839d of this title shall be deemed to mean the amounts specified in the resource acquisition contracts exclusive of any amounts recognized in such contracts as replacement for Federal base system resources.
 
 (3) The Administrator shall, consistent with the provisions of this chapter, insure that any restrictions upon any particular customer class made pursuant to this subsection and subsection (b) of this section are distributed equitably throughout the region.
 

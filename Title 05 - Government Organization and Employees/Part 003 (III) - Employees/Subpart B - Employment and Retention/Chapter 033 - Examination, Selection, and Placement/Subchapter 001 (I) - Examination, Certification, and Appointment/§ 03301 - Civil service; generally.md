@@ -24,43 +24,43 @@ Historical and Revision Notes
 
 R.S. §1753 (less last 16 words).
 
-The words “civil service in the executive branch” are substituted for “civil service of the United States” to confirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of service into which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
+The words "civil service in the executive branch" are substituted for "civil service of the United States" to confirm the grant of authority in view of the definition of "civil service" in section 2101. The word "will" is substituted for "may". The words "for the employment sought" are substituted for "for the branch of service into which he seeks to enter" as the latter are archaic since there are no "branches" within the executive branch. The word "applicant" is substituted for "candidate".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–277, div. C, title I, §151(a), Oct. 21, 1998, 112 Stat. 2681–611, provided that: “This section \[enacting sections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under section 3345 of this title\] may be cited as the ‘Federal Vacancies Reform Act of 1998’.”
+Pub. L. 105–277, div. C, title I, §151(a), Oct. 21, 1998, 112 Stat. 2681–611, provided that: "This section \[enacting sections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under section 3345 of this title\] may be cited as the 'Federal Vacancies Reform Act of 1998'."
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–175, §1, Dec. 2, 1991, 105 Stat. 1222, provided that: “This Act \[amending sections 3395, 3396, 5383, and 7701 of this title\] may be cited as the ‘Senior Executive Service Improvements Act’.”
+Pub. L. 102–175, §1, Dec. 2, 1991, 105 Stat. 1222, provided that: "This Act \[amending sections 3395, 3396, 5383, and 7701 of this title\] may be cited as the 'Senior Executive Service Improvements Act'."
 
 #### Modifications to National Security Education Program
 
 Pub. L. 107–296, title XIII, §1332(a), Nov. 25, 2002, 116 Stat. 2299, provided that:
 
-“(a)
+"(a)
 
 Findings and Policies.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Findings.—Congress finds that—
 
-&emsp;&emsp;“(A) the United States Government actively encourages and financially supports the training, education, and development of many United States citizens;
+&emsp;&emsp;"(A) the United States Government actively encourages and financially supports the training, education, and development of many United States citizens;
 
-&emsp;&emsp;“(B) as a condition of some of those supports, many of those citizens have an obligation to seek either compensated or uncompensated employment in the Federal sector; and
+&emsp;&emsp;"(B) as a condition of some of those supports, many of those citizens have an obligation to seek either compensated or uncompensated employment in the Federal sector; and
 
-&emsp;&emsp;“(C) it is in the United States national interest to maximize the return to the Nation of funds invested in the development of such citizens by seeking to employ them in the Federal sector.
+&emsp;&emsp;"(C) it is in the United States national interest to maximize the return to the Nation of funds invested in the development of such citizens by seeking to employ them in the Federal sector.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Policy.—It shall be the policy of the United States Government to—
 
-&emsp;&emsp;“(A) establish procedures for ensuring that United States citizens who have incurred service obligations as the result of receiving financial support for education and training from the United States Government and have applied for Federal positions are considered in all recruitment and hiring initiatives of Federal departments, bureaus, agencies, and offices; and
+&emsp;&emsp;"(A) establish procedures for ensuring that United States citizens who have incurred service obligations as the result of receiving financial support for education and training from the United States Government and have applied for Federal positions are considered in all recruitment and hiring initiatives of Federal departments, bureaus, agencies, and offices; and
 
-&emsp;&emsp;“(B) advertise and open all Federal positions to United States citizens who have incurred service obligations with the United States Government as the result of receiving financial support for education and training from the United States Government.”
+&emsp;&emsp;"(B) advertise and open all Federal positions to United States citizens who have incurred service obligations with the United States Government as the result of receiving financial support for education and training from the United States Government."
 
 #### Temporary Measures To Facilitate Reemployment of Certain Displaced Federal Employees
 
@@ -70,163 +70,163 @@ Pub. L. 102–484, div. D, title XLIV, §4432, Oct. 23, 1992, 106 Stat. 2720, di
 
 Pub. L. 101–363, Aug. 14, 1990, 104 Stat. 424, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘National Advisory Council on the Public Service Act of 1990’.
+"This Act may be cited as the 'National Advisory Council on the Public Service Act of 1990'.
 
-#### “SEC. 2. FINDINGS.
+#### "SEC. 2. FINDINGS.
 
-“The Congress finds that—
+"The Congress finds that—
 
-&emsp;“(1) recognition of the services rendered by Federal employees (hereinafter in this Act referred to as ‘national public service’) should be accorded a high and continuing place on the national agenda;
+&emsp;"(1) recognition of the services rendered by Federal employees (hereinafter in this Act referred to as 'national public service') should be accorded a high and continuing place on the national agenda;
 
-&emsp;“(2) the National Commission on the Public Service, through its good works, has documented the need for greater advocacy on behalf of those performing national public service;
+&emsp;"(2) the National Commission on the Public Service, through its good works, has documented the need for greater advocacy on behalf of those performing national public service;
 
-&emsp;“(3) although public service is an honorable profession, members of the public do not always perceive it favorably;
+&emsp;"(3) although public service is an honorable profession, members of the public do not always perceive it favorably;
 
-&emsp;“(4) serious obstacles often hinder the Government's efforts to recruit and retain the best and the brightest for national public service;
+&emsp;"(4) serious obstacles often hinder the Government's efforts to recruit and retain the best and the brightest for national public service;
 
-&emsp;“(5) just as the public has a right to expect Federal employees to adhere to the highest standards of excellence and ethicality, so Federal employees have a right to expect an atmosphere of trust and respect, and a sense of accomplishment from their work; and
+&emsp;"(5) just as the public has a right to expect Federal employees to adhere to the highest standards of excellence and ethicality, so Federal employees have a right to expect an atmosphere of trust and respect, and a sense of accomplishment from their work; and
 
-&emsp;“(6) an advisory council is needed to provide the President and the Congress with bipartisan, objective assessments of, and recommendations concerning, the Federal workforce.
+&emsp;"(6) an advisory council is needed to provide the President and the Congress with bipartisan, objective assessments of, and recommendations concerning, the Federal workforce.
 
-#### “SEC. 3. ESTABLISHMENT.
+#### "SEC. 3. ESTABLISHMENT.
 
-“There shall be established a council to be known as the National Advisory Council on the Public Service (hereinafter in this Act referred to as the ‘Council’).
+"There shall be established a council to be known as the National Advisory Council on the Public Service (hereinafter in this Act referred to as the 'Council').
 
-#### “SEC. 4. FUNCTIONS.
+#### "SEC. 4. FUNCTIONS.
 
-“The Council shall—
+"The Council shall—
 
-&emsp;“(1) regularly assess the state of the Federal workforce;
+&emsp;"(1) regularly assess the state of the Federal workforce;
 
-&emsp;“(2) in conjunction with the President, the Congress, and the Judiciary, seek to attract individualsof the highest caliber to careers involving national public service, and encourage them and others of similar distinction who are already part of the Federal workforce to make a continuing commitment to national public service;
+&emsp;"(2) in conjunction with the President, the Congress, and the Judiciary, seek to attract individualsof the highest caliber to careers involving national public service, and encourage them and others of similar distinction who are already part of the Federal workforce to make a continuing commitment to national public service;
 
-&emsp;“(3) promote better public understanding of the role of Federal employees in implementing Government programs and policies, and otherwise seek to improve the public perception of Federal employees;
+&emsp;"(3) promote better public understanding of the role of Federal employees in implementing Government programs and policies, and otherwise seek to improve the public perception of Federal employees;
 
-&emsp;“(4) encourage efforts to build student interest in performing national public service (whether those efforts are undertaken at the community level, in the classroom, or otherwise); and
+&emsp;"(4) encourage efforts to build student interest in performing national public service (whether those efforts are undertaken at the community level, in the classroom, or otherwise); and
 
-&emsp;“(5) develop methods for improving motivation and excellence among Federal employees.
+&emsp;"(5) develop methods for improving motivation and excellence among Federal employees.
 
-#### “SEC. 5. MEMBERSHIP.
+#### "SEC. 5. MEMBERSHIP.
 
-“(a)
+"(a)
 
 Number and Appointment.—The Council shall be composed of 15 members as follows:
 
-&emsp;“(1) 2 Members of the Senate, 1 of whom shall be appointed by the majority leader of the Senate and the other of whom shall be appointed by the minority leader of the Senate.
+&emsp;"(1) 2 Members of the Senate, 1 of whom shall be appointed by the majority leader of the Senate and the other of whom shall be appointed by the minority leader of the Senate.
 
-&emsp;“(2) 2 Members of the House of Representatives, 1 of whom shall be appointed by the Speaker of the House of Representatives and the other of whom shall be appointed by the minority leader of the House of Representatives.
+&emsp;"(2) 2 Members of the House of Representatives, 1 of whom shall be appointed by the Speaker of the House of Representatives and the other of whom shall be appointed by the minority leader of the House of Representatives.
 
-&emsp;“(3) The Director of the Administrative Office of the United States Courts (or his delegate).
+&emsp;"(3) The Director of the Administrative Office of the United States Courts (or his delegate).
 
-&emsp;“(4) 10 individuals appointed by the President—
+&emsp;"(4) 10 individuals appointed by the President—
 
-&emsp;&emsp;“(A) 4 of whom shall be chosen from among officers serving in the executive branch;
+&emsp;&emsp;"(A) 4 of whom shall be chosen from among officers serving in the executive branch;
 
-&emsp;&emsp;“(B) 1 of whom shall be chosen from among career employees in the civil service;
+&emsp;&emsp;"(B) 1 of whom shall be chosen from among career employees in the civil service;
 
-&emsp;&emsp;“(C) 1 of whom shall be a Federal employee who is a member of a labor organization (as defined by section 7103(a)(4) of title 5, United States Code); and
+&emsp;&emsp;"(C) 1 of whom shall be a Federal employee who is a member of a labor organization (as defined by section 7103(a)(4) of title 5, United States Code); and
 
-&emsp;&emsp;“(D) 4 of whom shall be chosen from among members of the public who do not hold any Government office or position.
+&emsp;&emsp;"(D) 4 of whom shall be chosen from among members of the public who do not hold any Government office or position.
 
-“(b)
+"(b)
 
 Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to a Government office or position, that individual may continue to serve as such a member for not longer than the 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
 
-“(c)
+"(c)
 
 Terms.—Members of the Council shall be appointed for the life of the Council.
 
-“(d)
+"(d)
 
 Vacancies.—A vacancy in the Council shall be filled in the manner in which the original appointment was made.
 
-“(e)
+"(e)
 
 Compensation.—(1) Members of the Council shall not be entitled to pay (or, in the case of members holding any Government office or position, pay in addition to any to which they are otherwise entitled for service in such office or position) by virtue of membership on the Council.
 
-“(2) While serving away from their homes or regular places of business in the performance of duties for the Council, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by section 5703 of title 5, United States Code, for persons employed intermittently in Government service.
+"(2) While serving away from their homes or regular places of business in the performance of duties for the Council, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by section 5703 of title 5, United States Code, for persons employed intermittently in Government service.
 
-“(f)
+"(f)
 
 Quorum.—Eight members of the Council shall constitute a quorum.
 
-“(g)
+"(g)
 
 Chairman.—The Chairman of the Council shall be designated by the President from among the members appointed under subsection (a)(4)(D).
 
-“(h)
+"(h)
 
 Meetings.—The Council shall meet at the call of the Chairman or a majority of its members, and shall meet on at least a quarterly basis.
 
-#### “SEC. 6. DIRECTOR AND STAFF; EXPERTS AND CONSULTANTS.
+#### "SEC. 6. DIRECTOR AND STAFF; EXPERTS AND CONSULTANTS.
 
-“(a)
+"(a)
 
 Director.—With the approval of the Council, the Chairman may appoint a Director and fix the pay of such Director at a rate not to exceed the rate for level IV of the Executive Schedule \[5 U.S.C. 5315\]. The Director shall be a person who, by reason of demonstrated ability in the area of management, government, or public administration, is especially well qualified to serve.
 
-“(b)
+"(b)
 
 Staff.—With the approval of the Chairman, the Director may appoint and fix the pay of such personnel as may be necessary to carry out the functions of the Council. The staff of the Council shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-“(c)
+"(c)
 
 Experts and Consultants.—The Council may procure temporary or intermittent services under section 3109(b) of title 5, United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum rate payable under the General Schedule.
 
-“(d)
+"(d)
 
 Staff of Federal Agencies.—Upon the request of the Chairman, the head of a Federal agency may detail, on a reimbursable or nonreimbursable basis, any personnel of such agency to the Council to assist the Council in carrying out its functions under this Act.
 
-#### “SEC. 7. POWERS.
+#### "SEC. 7. POWERS.
 
-“(a)
+"(a)
 
 Mails.—The Council may use the United States mails in the same manner and under the same conditions as other Federal agencies.
 
-“(b)
+"(b)
 
 Administrative Support Services.—The Administrator of General Services shall provide to the Council, on a reimbursable basis, such administrative support services as the Council may request.
 
-“(c)
+"(c)
 
 Official Data.—The Council may secure directly from any Federal agency information necessary to carry out its functions under this Act. Each such agency is authorized and directed to furnish, to the extent permitted by law, any information requested by the Council.
 
-“(d)
+"(d)
 
 Gifts.—The Council—
 
-&emsp;“(1) may accept money and other property donated, bequeathed, or devised to the Council without condition or restriction (other than that it be used to carry out the work of the Council); and
+&emsp;"(1) may accept money and other property donated, bequeathed, or devised to the Council without condition or restriction (other than that it be used to carry out the work of the Council); and
 
-&emsp;“(2) may use, sell, or otherwise dispose of any such property to carry out its functions under this Act, except that, upon the termination of the Council, any such property shall be disposed of in accordance with applicable provisions of law governing the disposal of Federal property.
+&emsp;"(2) may use, sell, or otherwise dispose of any such property to carry out its functions under this Act, except that, upon the termination of the Council, any such property shall be disposed of in accordance with applicable provisions of law governing the disposal of Federal property.
 
-#### “SEC. 8. REPORTS.
+#### "SEC. 8. REPORTS.
 
-“The Council shall transmit to the President and each House of the Congress—
+"The Council shall transmit to the President and each House of the Congress—
 
-&emsp;“(1) within 1 and 2 years, respectively, after the date on which the Council first meets, reports containing its preliminary findings and recommendations; and
+&emsp;"(1) within 1 and 2 years, respectively, after the date on which the Council first meets, reports containing its preliminary findings and recommendations; and
 
-&emsp;“(2) within 3 years after the date on which the Council first meets, a final report containing a detailed statement of the findings and conclusions of the Council, together with its recommendations for such legislation or administrative actions as it considers appropriate.
+&emsp;"(2) within 3 years after the date on which the Council first meets, a final report containing a detailed statement of the findings and conclusions of the Council, together with its recommendations for such legislation or administrative actions as it considers appropriate.
 
-#### “SEC. 9. COMMENCEMENT; TERMINATION.
+#### "SEC. 9. COMMENCEMENT; TERMINATION.
 
-“(a)
+"(a)
 
 Commencement.—Appointments under section 5 shall be made, and the Council shall first meet, within 90 days after the date of the enactment of this Act \[Aug. 14, 1990\].
 
-“(b)
+"(b)
 
 Termination.—The Council shall cease to exist upon transmitting its final report under section 8(2).
 
-#### “SEC. 10. AUTHORIZATION.
+#### "SEC. 10. AUTHORIZATION.
 
-“There is authorized to be appropriated such sums as may be necessary to carry out this Act.”
+"There is authorized to be appropriated such sums as may be necessary to carry out this Act."
 
 #### Ex. Ord. No. 8743. Extending the Classified Civil Service
 
 Ex. Ord. No. 8743, Apr. 23, 1941, as amended by Ex. Ord. No. 9230, Aug. 20, 1942; Ex. Ord. No. 9678, Jan. 14,1946; Ex. Ord. No. 9712, Apr. 13, 1946; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by section 1 of the act of November 26, 1940, entitled “Extending the Classified Executive Civil Service of the United States” (54 Stat. 1211), by the Civil Service Act (22 Stat. 403), and by section 1753 of the Revised Statutes of the United States \[sections 3301 and 7301 of this title\], it is hereby ordered as follows:
+By virtue of the authority vested in me by section 1 of the act of November 26, 1940, entitled "Extending the Classified Executive Civil Service of the United States" (54 Stat. 1211), by the Civil Service Act (22 Stat. 403), and by section 1753 of the Revised Statutes of the United States \[sections 3301 and 7301 of this title\], it is hereby ordered as follows:
 
 Section 1. All offices and positions in the executive civil service of the United States except (1) those that are temporary, (2) those expressly excepted from the provisions of section 1 of the said act of November 26, 1940, (3) those excepted from the classified service under Schedules A and B of the Civil Service Rules, and (4) those which now have a classified status, are hereby covered into the classified civil service of the Government.
 
@@ -242,7 +242,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (e) The Office shall in the manner determined by the Board establish a register or registers for attorney positions in the classified service and such positions shall thereafter be filled from such registers as are designated by the Board. Unless otherwise determined by the Board, any register so established shall not be in effect for a period longer than one year from the date of its establishment. Upon request of the Board, the Office shall appoint regional or local boards of examiners composed of persons approved by the Board, within or without the Federal service, to interview and examine applicants as the Board shall direct.
 
-(f) The number of names to be placed upon any register of eligibles for attorney positions shall be limited to the number recommended by the Board; and such registers shall not be ranked according to the ratings received by the eligibles, except that persons entitled to veterans’ preference as defined in section 1 of Civil Service Rule VI shall be appropriately designated thereon.
+(f) The number of names to be placed upon any register of eligibles for attorney positions shall be limited to the number recommended by the Board; and such registers shall not be ranked according to the ratings received by the eligibles, except that persons entitled to veterans' preference as defined in section 1 of Civil Service Rule VI shall be appropriately designated thereon.
 
 (g) Any person whose name has been placed upon three registers of eligibles covering positions of the same grade, and who has not been appointed therefrom, shall not thereafter be eligible for placement upon any subsequently established register covering positions of such grade.
 
@@ -368,7 +368,7 @@ Section 1. Any employee of the Treasury Department serving under an appointment 
 
 Sec. 2. For the purposes of Section 1—
 
-(1) “full-time continuous service” means service without a break of more than 30 calendar days;
+(1) "full-time continuous service" means service without a break of more than 30 calendar days;
 
 (2) except as provided in paragraph (3) of this section, active service in the Armed Forces of the United States shall be deemed to be full-time continuous service in a position concerned with the protective function if the employee concerned shall have left a position concerned with the protective function to enter the Armed Forces and shall have been re-employed in a position concerned with the protective function within 120 days after he shall have been discharged from the Armed Forces under honorable conditions; and
 
@@ -394,7 +394,7 @@ Section 1. Under regulations and conditions prescribed by the Office of Personne
 
 (c) Served in the Foreign Service under an unlimited, career-type appointment and, immediately before his separation from that appointment, he completed at least one year of continuous service under one or more nontemporary appointments in the Foreign Service which may include the service that made him eligible for his career-type appointment; and
 
-(d) Is appointed within 3 years after his separation from the Foreign Service, or he completed at least 3 years of substantially continuous service under one or more nontemporary appointments in the Foreign Service immediately before his separation from the unlimited, career-type appointment in that Service which may include the service that made him eligible for such appointment, or he is entitled to preference under section 2 of the Veterans’ Preference Act of 1944, as amended \[sections 1302 and 2108 of this title\].
+(d) Is appointed within 3 years after his separation from the Foreign Service, or he completed at least 3 years of substantially continuous service under one or more nontemporary appointments in the Foreign Service immediately before his separation from the unlimited, career-type appointment in that Service which may include the service that made him eligible for such appointment, or he is entitled to preference under section 2 of the Veterans' Preference Act of 1944, as amended \[sections 1302 and 2108 of this title\].
 
 Sec. 2. (a) Except as provided in paragraph (b) of this section, a person appointed under Section 1 of this Order becomes a career conditional employee.
 
@@ -412,7 +412,7 @@ Sec. 3. A person appointed to a nontemporary position in the competitive service
 
 Sec. 4. Any law, Executive order, or regulation that would disqualify an applicant for appointment in the competitive service shall also disqualify a person for appointment under Section 1 of this Order.
 
-Sec. 5. For the purpose of this Order, a person is deemed to be a member of the “Foreign Service” if he was appointed in any agency under authority of the Foreign Service Act of 1946, as amended \[former section 801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act.
+Sec. 5. For the purpose of this Order, a person is deemed to be a member of the "Foreign Service" if he was appointed in any agency under authority of the Foreign Service Act of 1946, as amended \[former section 801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act.
 
 #### Executive Order No. 11315
 
@@ -420,7 +420,7 @@ Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 11598
 
-Ex. Ord. No. 11598, June 16, 1971, 36 F.R. 11711, formerly set out as a note under this section, which related to the listing of certain job vacancies by federal agencies and government contractors and subcontractors, was superseded by Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, set out as a note under section 4212 of Title 38, Veterans’ Benefits.
+Ex. Ord. No. 11598, June 16, 1971, 36 F.R. 11711, formerly set out as a note under this section, which related to the listing of certain job vacancies by federal agencies and government contractors and subcontractors, was superseded by Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, set out as a note under section 4212 of Title 38, Veterans' Benefits.
 
 #### Executive Order No. 11813
 
@@ -514,7 +514,7 @@ Ex. Ord. No. 12718, June 29, 1990, 55 F.R. 27451, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
+Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service ("Commission") is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
 
 Sec. 2. <i>Functions</i>. (a) The Commission shall meet from time to time at the request of the Chairperson and shall consider ways to enhance the public service in American life, including:
 
@@ -598,19 +598,19 @@ Section 1. <i>Policy</i>. It shall be the policy of the United States to provide
 
 Sec. 2. <i>Definitions</i>. As used in this order:
 
-(a) the term “agency” has the meaning specified for the term “executive agency” in section 105 of title 5, United States Code, but does not include the Government Accountability Office;
+(a) the term "agency" has the meaning specified for the term "executive agency" in section 105 of title 5, United States Code, but does not include the Government Accountability Office;
 
-(b) the term “Armed Forces” has the meaning specified for that term in section 101 of title 10, United States Code;
+(b) the term "Armed Forces" has the meaning specified for that term in section 101 of title 10, United States Code;
 
-(c) the term “active duty” means full-time duty in an armed force and includes full-time National Guard duty, except that, for Reserve Component members, the term “active duty” does not include training duties or attendance at service schools.
+(c) the term "active duty" means full-time duty in an armed force and includes full-time National Guard duty, except that, for Reserve Component members, the term "active duty" does not include training duties or attendance at service schools.
 
-(d) the term “permanent change of station” means the assignment, detail, or transfer of a member of the Armed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
+(d) the term "permanent change of station" means the assignment, detail, or transfer of a member of the Armed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
 
 &emsp;(i) specify the duty as temporary;
 
 &emsp;(ii) provide for assignment, detail, or transfer, after that different permanent duty station, to a further different permanent duty station; or (iii) \[sic\] direct return to the present permanent duty station; and
 
-(e) the term “totally disabled retired or separated member” means a member of the Armed Forces who:
+(e) the term "totally disabled retired or separated member" means a member of the Armed Forces who:
 
 &emsp;(i) retired under chapter 61 of title 10, United States Code, with a disability rating at the time of retirement of 100 per cent; or (ii) \[sic\] retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs.
 
@@ -640,7 +640,7 @@ Ex. Ord. No. 13518, Nov. 9, 2009, 74 F.R. 58533, provided:
 
 By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby order as follows:
 
-Section 1. <i>Policy</i>. Veterans have served and sacrificed in defense of our Nation. When they complete their service, we must do everything in our power to assist them in re-entering civilian life and finding employment. Government as well as private employers should play a prominent role in helping veterans who may be struggling to find jobs. As one of the Nation's leading employers, the Federal Government is in need of highly skilled individuals to meet agency staffing needs and to support mission objectives. Our veterans, who have benefited from training and development during their military service, possess a wide variety of skills and experiences, as well as the motivation for public service, that will help fulfill Federal agencies’ staffing needs. It is therefore the policy of my Administration to enhance recruitment of and promote employment opportunities for veterans within the executive branch, consistent with merit system principles and veterans’ preferences prescribed by law. The Federal Government will thereby help lead by example in promoting veterans’ employment.
+Section 1. <i>Policy</i>. Veterans have served and sacrificed in defense of our Nation. When they complete their service, we must do everything in our power to assist them in re-entering civilian life and finding employment. Government as well as private employers should play a prominent role in helping veterans who may be struggling to find jobs. As one of the Nation's leading employers, the Federal Government is in need of highly skilled individuals to meet agency staffing needs and to support mission objectives. Our veterans, who have benefited from training and development during their military service, possess a wide variety of skills and experiences, as well as the motivation for public service, that will help fulfill Federal agencies' staffing needs. It is therefore the policy of my Administration to enhance recruitment of and promote employment opportunities for veterans within the executive branch, consistent with merit system principles and veterans' preferences prescribed by law. The Federal Government will thereby help lead by example in promoting veterans' employment.
 
 Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an interagency Council on Veterans Employment (Council), to be co-chaired by the Secretaries of Labor and Veterans Affairs. The Director of the Office of Personnel Management (OPM) shall serve as Vice Chair of the Council.
 
@@ -648,7 +648,7 @@ Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an in
 
 (i) advise and assist the President and the Director of OPM in establishing a coordinated Government-wide effort to increase the number of veterans employed by the Federal Government by enhancing recruitment and training;
 
-(ii) serve as a national forum for promoting veterans’ employment opportunities in the executive branch; and
+(ii) serve as a national forum for promoting veterans' employment opportunities in the executive branch; and
 
 (iii) establish performance measures to assess the effectiveness of, and submit an annual report to the President on the status of, the Veterans Employment Initiative described in section 3 of this order.
 
@@ -714,7 +714,7 @@ Sec. 3. <i>Veterans Employment Initiative</i>. The agencies represented on the C
 
 (b) within 120 days of the date of this order, establish a Veterans Employment Program Office, or designate an agency officer or employee with full-time responsibility for its Veterans Employment Program, to be responsible for enhancing employment opportunities for veterans within the agency, consistent with law and merit system principles, including developing and implementing the agency's Operational Plan, veterans recruitment programs, and training programs for veterans with disabilities, and for coordinating employment counseling to help match the career aspirations of veterans to the needs of the agency;
 
-(c) provide mandatory annual training to agency human resources personnel and hiring managers concerning veterans’ employment, including training on veterans’ preferences and special authorities for the hiring of veterans;
+(c) provide mandatory annual training to agency human resources personnel and hiring managers concerning veterans' employment, including training on veterans' preferences and special authorities for the hiring of veterans;
 
 (d) identify key occupations for which the agency will provide job counseling and training to better enable veterans to meet agency staffing needs associated with those occupations; and
 
@@ -738,21 +738,21 @@ Sec. 4. <i>Additional Responsibilities of the Director of the Office of Personne
 
 (c) identify key occupations, focusing on positions in high-demand occupations where talent is needed to meet Government-wide staffing needs, for which the Federal Government will provide job counseling and training under section 5(a) of this order to veterans and transitioning military service personnel;
 
-(d) develop mandatory training for both human resources personnel and hiring managers on veterans’ employment, including veterans’ preference and special hiring authorities;
+(d) develop mandatory training for both human resources personnel and hiring managers on veterans' employment, including veterans' preference and special hiring authorities;
 
 (e) compile and post on the OPM website Government-wide statistics on the hiring of veterans; and
 
-(f) within 1 year of the date of this order and with the advice of the Council, provide recommendations to the President on improving the ability of veterans’ preference laws to meet the needs of the new generation of veterans, especially those transitioning from the conflicts in Iraq and Afghanistan, and the needs of Federal hiring officials.
+(f) within 1 year of the date of this order and with the advice of the Council, provide recommendations to the President on improving the ability of veterans' preference laws to meet the needs of the new generation of veterans, especially those transitioning from the conflicts in Iraq and Afghanistan, and the needs of Federal hiring officials.
 
 Sec. 5. <i>Responsibilities of the Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security</i>. The Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security shall take the following actions, to the extent permitted by law:
 
-(a) The Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security shall, in consultation with OPM, develop and implement counseling and training programs to align veterans’ and transitioning service members’ skills and career aspirations to Federal employment opportunities, targeting Federal occupations that are projected to have heavy recruitment needs.
+(a) The Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security shall, in consultation with OPM, develop and implement counseling and training programs to align veterans' and transitioning service members' skills and career aspirations to Federal employment opportunities, targeting Federal occupations that are projected to have heavy recruitment needs.
 
-(b) The Secretary of Labor shall conduct employment workshops for veterans and transitioning military service personnel as part of the Transition Assistance Program (TAP), and integrate in those workshops information about the Federal hiring process, veterans’ preference laws, special hiring authorities, and Federal job opportunities.
+(b) The Secretary of Labor shall conduct employment workshops for veterans and transitioning military service personnel as part of the Transition Assistance Program (TAP), and integrate in those workshops information about the Federal hiring process, veterans' preference laws, special hiring authorities, and Federal job opportunities.
 
 (c) The Secretary of Defense and Secretary of Homeland Security (with respect to the Coast Guard) shall:
 
-(i) reinforce military leadership's commitment and support of the service members’ transition process; and
+(i) reinforce military leadership's commitment and support of the service members' transition process; and
 
 (ii) institute policies that encourage every eligible service member to take the opportunity to enroll in any or all of the four components of the TAP.
 
@@ -760,7 +760,7 @@ Sec. 5. <i>Responsibilities of the Secretaries of Defense, Labor, Veterans Affai
 
 (i) assist veterans and transitioning service members in translating military skills, training, and education to Federal occupations through programs developed under subsection (a) of this section; and
 
-(ii) provide training to employment and rehabilitation counselors on the Federal hiring process, veterans’ preferences, special hiring authorities, and identifying Federal employment opportunities for veterans.
+(ii) provide training to employment and rehabilitation counselors on the Federal hiring process, veterans' preferences, special hiring authorities, and identifying Federal employment opportunities for veterans.
 
 Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -798,13 +798,13 @@ Sec. 2. <i>Establishment</i>. There are hereby established the Internship Progra
 
 (e) a description of OPM oversight of agency use of the Pathways Programs to ensure that (i) they serve as a supplement to, and not a substitute for, the competitive hiring process, and (ii) agencies are using the Pathways Programs in a genuine effort to develop talent for careers in the civil service;
 
-(f) a description of OPM plans to evaluate agencies’ effectiveness in recruiting and retaining talent using the Pathways Programs and of the satisfaction of Pathways Programs participants and their hiring managers; and
+(f) a description of OPM plans to evaluate agencies' effectiveness in recruiting and retaining talent using the Pathways Programs and of the satisfaction of Pathways Programs participants and their hiring managers; and
 
 (g) standard naming conventions across agencies, so that students and recent graduates can clearly understand and compare the career pathway opportunities available to them in the Federal Government.
 
 Sec. 3. <i>Internship Program</i>. The Internship Program shall provide students in high schools, community colleges, 4-year colleges, trade schools, career and technical education programs, and other qualifying educational institutions and programs, as determined by OPM, with paid opportunities to work in agencies and explore Federal careers while still in school. The Internship Program would replace the existing Student Career Experience Program, established pursuant to Executive Order 12015 of October 26, 1977. The following principles and policies shall govern the Internship Program:
 
-(a) Participants in the program shall be referred to as “Interns” and shall be students enrolled, or accepted for enrollment, in qualifying educational institutions and programs, as determined by OPM.
+(a) Participants in the program shall be referred to as "Interns" and shall be students enrolled, or accepted for enrollment, in qualifying educational institutions and programs, as determined by OPM.
 
 (b) Subject to any exceptions OPM may establish by regulation, agencies shall provide Interns with meaningful developmental work and set clear expectations regarding the work experience of the intern.
 
@@ -812,7 +812,7 @@ Sec. 3. <i>Internship Program</i>. The Internship Program shall provide students
 
 Sec. 4. <i>Recent Graduates Program</i>. The Recent Graduates Program shall provide individuals who have recently graduated from qualifying educational institutions or programs with developmental experiences in the Federal Government intended to promote possible careers in the civil service. The following principles and policies shall govern the Recent Graduates Program:
 
-(a) Participants in the program shall be referred to as “Recent Graduates” and must have obtained a qualifying degree, or completed a qualifying career or technical education program, as determined by OPM, within the preceding 2 years, except that veterans who, due to their military service obligation, were precluded from participating in the Recent Graduates Program during the 2-year period after obtaining a qualifying degree or completing a qualifying program shall be eligible to participate in the Program within 6 years of obtaining a qualifying degree or completing a qualifying program.
+(a) Participants in the program shall be referred to as "Recent Graduates" and must have obtained a qualifying degree, or completed a qualifying career or technical education program, as determined by OPM, within the preceding 2 years, except that veterans who, due to their military service obligation, were precluded from participating in the Recent Graduates Program during the 2-year period after obtaining a qualifying degree or completing a qualifying program shall be eligible to participate in the Program within 6 years of obtaining a qualifying degree or completing a qualifying program.
 
 (b) Responsibilities assigned to a Recent Graduate shall be consistent with his or her qualifications, educational background, and career interests, the purpose of the Recent Graduates Program, and agency needs.
 
@@ -852,7 +852,7 @@ Sec. 7. <i>Implementation</i>. (a) \[Amended Civil Service Rule VI.\]
 
 (ii) provide for equal employment opportunity in the Pathways Programs without regard to race, ethnicity, color, religion, sex, national origin, age, disability, sexual orientation, or any other non-merit-based factor;
 
-(iii) apply veterans’ preference criteria; and
+(iii) apply veterans' preference criteria; and
 
 (iv) within 45 days of the date of this order, designate a Pathways Programs Officer (at the agency level, or at bureaus or components within the agency) to administer Pathways Programs, to serve as liaison with OPM, and to report to OPM on the implementation of the Pathways Programs and the individuals hired under them.
 
@@ -871,6 +871,28 @@ Sec. 9. <i>General Provisions</i>. (a) This order shall be implemented consisten
 (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13678. Conversion Authority for Criminal Investigators (Special Agents) of the Bureau of Alcohol, Tobacco, Firearms, and Explosives
+
+Ex. Ord. No. 13678, Oct. 3, 2014, 79 F.R. 60949, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Providing Conversion Authority</i>. I find that conditions of good administration (specifically, the need to make the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice (ATF), competitive in recruiting high quality special agents by giving the ATF an authority held by other Federal law enforcement agencies) make necessary an exception to the competitive examination rules for appointment to certain positions in the Federal civil service.
+
+Criminal Investigators of the ATF, who have been appointed under Schedule B, and who have completed 3 years of fully satisfactory service, may be converted non-competitively to career appointments if they meet qualifications and other requirements established by the Director of the Office of Personnel Management.
+
+Sec. 2. <i>Implementation</i>. The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to implement this order.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -894,7 +916,7 @@ Section 1. <i>Directions to Agencies</i>. Agency heads shall take the following 
 
 (2) allow individuals to apply for Federal employment by submitting resumes and cover letters or completing simple, plain language applications, and assess applicants using valid, reliable tools; and
 
-(3) provide for selection from among a larger number of qualified applicants by using the “category rating” approach (as authorized by section 3319 of title 5, United States Code), rather than the “rule of 3” approach, under which managers may only select from among the three highest scoring applicants;
+(3) provide for selection from among a larger number of qualified applicants by using the "category rating" approach (as authorized by section 3319 of title 5, United States Code), rather than the "rule of 3" approach, under which managers may only select from among the three highest scoring applicants;
 
 (b) require that managers and supervisors with responsibility for hiring are:
 
@@ -924,15 +946,15 @@ Sec. 2. <i>Directions to the OPM</i>. The OPM shall take the following actions n
 
 (1) a timeline, benchmarks, and indicators of progress; \[and\]
 
-(2) a goal-focused, data-driven system for holding agencies accountable for improving the quality and speed of agency hiring, achieving agency hiring reform targets, and satisfying merit system principles and veterans’ preference requirements; and \[sic\]
+(2) a goal-focused, data-driven system for holding agencies accountable for improving the quality and speed of agency hiring, achieving agency hiring reform targets, and satisfying merit system principles and veterans' preference requirements; and \[sic\]
 
-(b) develop a plan to promote diversity in the Federal workforce, consistent with the merit system principle (codified at 5 U.S.C. 2301(b)(1)) that the Federal Government should endeavor to achieve a workforce from all segments of society;
+(b) develop a plan to promote diversity in the Federal workforce, consistent with the merit system principle\(codified at 5 U.S.C. 2301(b)(1)) that the Federal Government should endeavor to achieve a workforce from all segments of society;
 
 (c) evaluate the Federal Career Intern Program established by Executive Order 13162 of July 6, 2000, provide recommendations concerning the future of that program, and propose a framework for providing effective pathways into the Federal Government for college students and recent college graduates;
 
 (d) provide guidance or propose regulations, as appropriate, to streamline and improve the quality of job announcements for Federal employment to make sure they are easily understood by applicants;
 
-(e) evaluate the effectiveness of shared registers used in filling positions common across multiple agencies and develop a strategy for improving agencies’ use of these shared registers for commonly filled Government-wide positions;
+(e) evaluate the effectiveness of shared registers used in filling positions common across multiple agencies and develop a strategy for improving agencies' use of these shared registers for commonly filled Government-wide positions;
 
 (f) develop a plan to increase the capacity of USAJOBS to provide applicants, hiring managers, and human resource professionals with information to improve the recruitment and hiring processes; and
 
@@ -963,6 +985,42 @@ Sec. 5. <i>General Provisions</i>. (a) Except as expressly stated herein, nothin
 (d) The Director of the OPM, in consultation with the OMB, may grant an exception to any of the requirements set forth in section 1 of this memorandum to an agency that demonstrates that exceptional circumstances prevent it from complying with that requirement.
 
 Sec. 6. <i>Publication</i>. The Director of the OPM is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Enhancing Safeguards To Prevent the Undue Denial of Federal Employment Opportunities to the Unemployed and Those Facing Financial Difficulty Through No Fault of Their Own
+
+Memorandum of President of the United States, Jan. 31, 2014, 79 F.R. 7045, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+The Federal Government is America's largest employer. While seeking to employ a talented and productive workforce, it has a responsibility to lead by example. Although executive departments and agencies (agencies) generally can, and do, take job applicants' employment history and other factors into account when making hiring decisions, it is the policy of my Administration that applicants should not face undue obstacles to Federal employment because they are unemployed or face financial difficulties. The Government must continue to take steps to ensure the fair treatment of applicants, as well as incumbent Federal employees, who face financial difficulties through no fault of their own and make good faith efforts to meet those obligations. Therefore, I hereby direct as follows:
+
+Section 1. <i>Individuals Who Are Unemployed or Facing Financial Difficulty</i>. (a) Agencies shall not make an unfavorable determination with respect to the suitability, fitness, or qualifications of an applicant for Federal employment because that applicant:
+
+(i) is or was unemployed; or
+
+(ii) has experienced or is experiencing financial difficulty through no fault of the applicant, if the applicant has undertaken a good-faith effort to meet his or her financial obligations.
+
+(b) Consistent with existing law, agencies shall not remove, suspend, or demote a current Federal employee if the basis of the action is that the employee has experienced, or is experiencing, financial difficulty through no fault of the employee, and the employee has undertaken a good-faith effort to meet his or her financial obligations.
+
+(c) Agencies shall review their recruiting and hiring practices to determine whether such processes intentionally or inadvertently place applicants at an undue disadvantage because of the factors set forth in subsection (a) of this section and report the results to the Director of the Office of Personnel Management (OPM) within 90 days of the date of this memorandum. Taking into account the results, the Director of OPM shall issue guidance to Chief Human Capital Officers to assist agencies with implementation of this memorandum.
+
+Sec. 2. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof;
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals;
+
+(iii) the authority granted by law, Executive Order, or regulation to a department or agency, or the head thereof, to determine eligibility for access to classified information or to occupy a sensitive position; or
+
+(iv) the authority granted by law or Executive Order to a department or agency, or the head thereof, to take adverse actions against Federal employees for their failure to comply with any law, rule, or regulation imposing upon them an obligation to satisfy in good faith their just financial obligations, including Federal, State, or local taxes.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Director of OPM is authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

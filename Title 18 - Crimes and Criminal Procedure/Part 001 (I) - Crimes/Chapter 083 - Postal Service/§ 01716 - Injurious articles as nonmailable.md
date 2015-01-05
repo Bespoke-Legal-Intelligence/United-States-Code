@@ -20,7 +20,7 @@
 
 &emsp;(3) to supply or procurement officers or employees of any State, or any political subdivision of a State or Territory, ordering, procuring, or purchasing such knives in connection with the activities of such government; and
 
-&emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with anyshipment made pursuant to an order from any person designated in paragraphs (1), (2), and (3).
+&emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with any shipment made pursuant to an order from any person designated in paragraphs (1), (2), and (3).
 
 > The Postal Service may require, as a condition of conveying any such knife in the mails, that any person proposing to mail such knife explain in writing to the satisfaction of the Postal Service that the mailing of such knife will not be in violation of this section.
 

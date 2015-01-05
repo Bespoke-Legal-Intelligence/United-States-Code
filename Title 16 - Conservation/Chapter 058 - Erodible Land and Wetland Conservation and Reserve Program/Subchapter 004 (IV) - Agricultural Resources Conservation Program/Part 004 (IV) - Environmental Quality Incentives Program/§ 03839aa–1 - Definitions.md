@@ -24,15 +24,11 @@ In this part:
 
 &emsp;&emsp;&emsp;(vi) Other agricultural land (including cropped woodland, marshes, and agricultural land used for the production of livestock) on which resource concerns related to agricultural production could be addressed through a contract under the program, as determined by the Secretary.
 
-#### (2) National organic program
+#### (2) Organic system plan
 
-&emsp;The term "national organic program" means the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et. seq.).
+&emsp;The term "organic system plan" means an organic plan approved under the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
 
-#### (3) Organic system plan
-
-&emsp;The term "organic system plan" means an organic plan approved under the national organic program.
-
-#### (4) Payment
+#### (3) Payment
 
 &emsp;The term "payment" means financial assistance provided to a producer for performing practices under this part, including compensation for—
 
@@ -40,7 +36,7 @@ In this part:
 
 &emsp;&emsp;(B) income forgone by the producer.
 
-#### (5) Practice
+#### (4) Practice
 
 &emsp;The term "practice" means 1 or more improvements and conservation activities that are consistent with the purposes of the program under this part, as determined by the Secretary, including—
 
@@ -62,11 +58,11 @@ In this part:
 
 &emsp;&emsp;&emsp;(ii) other plans that the Secretary determines would further the purposes of the program under this part.
 
-#### (6) Program
+#### (5) Program
 
 &emsp;The term "program" means the environmental quality incentives program established by this part.
 
-(Pub. L. 99–198, title XII, §1240A, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, §2502, May 22, 2008, 122 Stat. 1058; Pub. L. 110–246, §4(a), title II, §2502, June 18, 2008, 122 Stat. 1664, 1786.)
+(Pub. L. 99–198, title XII, §1240A, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, §2502, May 22, 2008, 122 Stat. 1058; Pub. L. 110–246, §4(a), title II, §2502, June 18, 2008, 122 Stat. 1664, 1786; Pub. L. 113–79, title II, §2202, Feb. 7, 2014, 128 Stat. 729.)
 
 #### References in Text
 
@@ -82,9 +78,11 @@ A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. 
 
 #### Amendments
 
+<b>2014</b>—Pars. (2) to (6). Pub. L. 113–79 redesignated pars. (3) to (6) as (2) to (5), respectively, inserted "established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.)" after "national organic program" in par. (2), and struck out former par. (2). Text of former par. (2) read as follows: "The term 'national organic program' means the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et. seq.)."
+
 <b>2008</b>—Pub. L. 110–246, §2502, amended section generally. Prior to amendment, section defined "beginning farmer or rancher", "eligible land", "land management practice", "livestock", "practice", and "structural practice".
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

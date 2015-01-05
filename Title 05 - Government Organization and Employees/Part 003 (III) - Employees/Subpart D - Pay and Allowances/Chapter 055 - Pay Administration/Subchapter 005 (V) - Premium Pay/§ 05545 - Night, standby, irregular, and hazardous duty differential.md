@@ -54,9 +54,9 @@ Sept. 1, 1954, ch. 1208, §208(a), 68 Stat. 1111.
 
 July 18, 1958, Pub. L. 85–525, 72 Stat. 363.
 
-In subsection (b), the words “head of an agency” are substituted for “head of any department, independent establishment, or agency, including Government-owned or controlled corporations” because of the definition of “agency” and the application stated in section 5541. The words “the United States” are substituted for “the several States and the District of Columbia”.
+In subsection (b), the words "head of an agency" are substituted for "head of any department, independent establishment, or agency, including Government-owned or controlled corporations" because of the definition of "agency" and the application stated in section 5541. The words "the United States" are substituted for "the several States and the District of Columbia".
 
-In subsection (c), the words “head of an agency” are substituted for “head of any department, independent establishment, or agency, including Government-owned or controlled corporations, or of the municipal government of the District of Columbia” because of the definition of “agency” and the application stated in section 5541. The word “officer” is omitted as included in “employee”. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. Reference to the “Classification Act of 1949, as amended” is omitted as unnecessary.
+In subsection (c), the words "head of an agency" are substituted for "head of any department, independent establishment, or agency, including Government-owned or controlled corporations, or of the municipal government of the District of Columbia" because of the definition of "agency" and the application stated in section 5541. The word "officer" is omitted as included in "employee". The word "scheduled" is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. Reference to the "Classification Act of 1949, as amended" is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -82,11 +82,11 @@ July 18, 1966, Pub. L. 89–504 §§404(c), 405(d), (e), 80 Stat. 297, 298.
 
 July 19, 1966, Pub. L. 89–512, §1, 80 Stat. 318.
 
-In the second sentence of subsection (d), the words “Under such regulations as the Commission may prescribe, and for such minimum periods as it determines appropriate” are substituted for clauses (3) and (4) of the third sentence of 5 App. U.S.C. 1134. That requirement in clause (4) that the Commission prescribe regulations is codified in 5 U.S.C. 5548(b) by section 1 (32) of this bill. The words “an employee to whom chapter 51 and subchapter III of chapter 53 of this title applies is entitled to be paid the appropriate differential” are substituted for “The appropriate differential shall be paid to any officer or employee to whom this Act applies” to reflect the codification of that act (Classification Act of 1949) in title 5, United States Code, and to conform with the definitions applicable.
+In the second sentence of subsection (d), the words "Under such regulations as the Commission may prescribe, and for such minimum periods as it determines appropriate" are substituted for clauses (3) and (4) of the third sentence of 5 App. U.S.C. 1134. That requirement in clause (4) that the Commission prescribe regulations is codified in 5 U.S.C. 5548(b) by section 1 (32) of this bill. The words "an employee to whom chapter 51 and subchapter III of chapter 53 of this title applies is entitled to be paid the appropriate differential" are substituted for "The appropriate differential shall be paid to any officer or employee to whom this Act applies" to reflect the codification of that act (Classification Act of 1949) in title 5, United States Code, and to conform with the definitions applicable.
 
-In subsection (d)(1), the words “does not apply to an employee” are substituted for “shall not be applicable with respect to any officer or employee.”
+In subsection (d)(1), the words "does not apply to an employee" are substituted for "shall not be applicable with respect to any officer or employee."
 
-In subsection (d)(2), the words “may not . . . applicable to the employee” are substituted for “shall not . . . applicable with respect to such officer or employee”.
+In subsection (d)(2), the words "may not . . . applicable to the employee" are substituted for "shall not . . . applicable with respect to such officer or employee".
 
 #### References in Text
 
@@ -96,29 +96,29 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (d), is P
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136 inserted before period at end of first sentence “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 inserted before period at end of first sentence ", and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970".
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–378 made technical correction to directory language of Pub. L. 101–509, §529 \[title II, §203\]. See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted "(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)" after "GS–10".
 
-Subsec. (d). Pub. L. 101–509, §529 \[title II, §203\], as amended by Pub. L. 102–378, struck out “irregular or intermittent” before “duty involving unusual” in first sentence and inserted “, except in such circumstances as the Office may by regulation prescribe” after “thereof” in par. (1).
+Subsec. (d). Pub. L. 101–509, §529 \[title II, §203\], as amended by Pub. L. 102–378, struck out "irregular or intermittent" before "duty involving unusual" in first sentence and inserted ", except in such circumstances as the Office may by regulation prescribe" after "thereof" in par. (1).
 
-<b>1989</b>—Subsec. (c)(2). Pub. L. 101–173 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled, overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require him to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is determined as an appropriate percentage, not less than 10 percent nor more than 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10, by taking into consideration the frequency and duration of irregular unscheduled overtime duty required in the position.”
+<b>1989</b>—Subsec. (c)(2). Pub. L. 101–173 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled, overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require him to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is determined as an appropriate percentage, not less than 10 percent nor more than 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10, by taking into consideration the frequency and duration of irregular unscheduled overtime duty required in the position."
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “section 5141” for “section 180”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted "section 5141" for "section 180".
 
-<b>1979</b>—Subsec. (c)(2). Pub. L. 96–54 substituted “percent” for “per centum” wherever appearing.
+<b>1979</b>—Subsec. (c)(2). Pub. L. 96–54 substituted "percent" for "per centum" wherever appearing.
 
-<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
 
-<b>1975</b>—Pub. L. 94–183 struck out “Sunday,” after “Night,” in section catchline.
+<b>1975</b>—Pub. L. 94–183 struck out "Sunday," after "Night," in section catchline.
 
 <b>1970</b>—Subsec. (c)(2). Pub. L. 91–231 corrected the system of premium compensation of employees whose work schedules cannot be administratively controlled by providing for separate treatment for irregular, unscheduled, and overtime duty on one hand and for duty at night, on Sundays, and on holidays on the other.
 
-<b>1968</b>—Subsec. (c)(1). Pub. L. 90–556 inserted “(or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position)” after “GS–10”.
+<b>1968</b>—Subsec. (c)(1). Pub. L. 90–556 inserted "(or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position)" after "GS–10".
 
-<b>1967</b>—Subsec. (e)(2). Pub. L. 90–206 substituted “not less than 10 percent nor more than 25 percent” for “not in excess of 15 percent”.
+<b>1967</b>—Subsec. (e)(2). Pub. L. 90–206 substituted "not less than 10 percent nor more than 25 percent" for "not in excess of 15 percent".
 
 #### Effective Date of 2003 Amendment
 
@@ -126,11 +126,11 @@ Subject to any vested constitutional property rights, any administrative or judi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–173, §1(b), Nov. 27, 1989, 103 Stat. 1292, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to overtime duty performed on or after the first day of the first applicable pay period beginning after September 30, 1990.”
+Pub. L. 101–173, §1(b), Nov. 27, 1989, 103 Stat. 1292, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to overtime duty performed on or after the first day of the first applicable pay period beginning after September 30, 1990."
 
 #### Effective Date of 1979 Amendment
 

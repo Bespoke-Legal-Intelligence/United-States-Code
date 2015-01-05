@@ -98,7 +98,7 @@ The Secretary and the Administrator shall—
 
 #### (f) Alternative system
 
-If the Secretary and the Administrator make a determination under subsection (e) that a voluntary national information program for datacenters consistent with the objectives of subsection (b) has not been developed, the Secretary and the Administrator shall, after consultation with the National Institute of Standards and Technology and not later than 2 years after the determination, develop and implement the program under subsection (b).
+If the Secretary and the Administrator make a determination under subsection (e) that a voluntary national information program for data centers consistent with the objectives of subsection (b) has not been developed, the Secretary and the Administrator shall, after consultation with the National Institute of Standards and Technology and not later than 2 years after the determination, develop and implement the program under subsection (b).
 
 #### (g) Protection of proprietary information
 

@@ -22,13 +22,13 @@ Section is from the Supplemental Appropriations Act, 1987.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–447 substituted “and upon notification to” for “with the approval of” in first sentence.
+<b>2004</b>—Subsec. (c). Pub. L. 108–447 substituted "and upon notification to" for "with the approval of" in first sentence.
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–18 added subsec. (c).
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–90 substituted “On and after July 11, 1987, the Secretary of the Senate is authorized” for “The Secretary of the Senate is authorized” and “$50,000” for “$25,000”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–90 substituted "On and after July 11, 1987, the Secretary of the Senate is authorized" for "The Secretary of the Senate is authorized" and "$50,000" for "$25,000".
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–18, title II, §7003(b), June 12, 1997, 111 Stat. 192, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning on or after October 1, 1996.”
+Pub. L. 105–18, title II, §7003(b), June 12, 1997, 111 Stat. 192, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning on or after October 1, 1996."
 

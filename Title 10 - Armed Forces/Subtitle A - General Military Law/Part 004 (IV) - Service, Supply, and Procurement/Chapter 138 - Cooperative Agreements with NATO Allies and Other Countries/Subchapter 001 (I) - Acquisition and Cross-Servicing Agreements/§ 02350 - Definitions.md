@@ -24,7 +24,7 @@ Section 38(a)(1) of the Arms Export Control Act, referred to in par. (1), is cla
 
 <b>1997</b>—Par. (1). Pub. L. 105–85, in second sentence, substituted "other nonlethal items of military equipment which are not designated as significant military equipment on the United States Munitions List promulgated" for "other items of military equipment not designated as part of the United States Munitions List".
 
-<b>1994</b>—Par. (1). Pub. L. 103–337, §1317(h)(1), inserted "(including airlift)" after "transportation", "calibration services," after "maintenance services,", and"Such term includes temporary use of general purpose vehicles and other items of military equipment not designated as part of the United States Munitions List pursuant to section 38(a)(1) of the Arms Export Control Act." at end.
+<b>1994</b>—Par. (1). Pub. L. 103–337, §1317(h)(1), inserted "(including airlift)" after "transportation", "calibration services," after "maintenance services,", and "Such term includes temporary use of general purpose vehicles and other items of military equipment not designated as part of the United States Munitions List pursuant to section 38(a)(1) of the Arms Export Control Act." at end.
 
 Par. (4). Pub. L. 103–337, §1317(h)(2), added par. (4).
 

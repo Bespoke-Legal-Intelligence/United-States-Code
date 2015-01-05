@@ -2,7 +2,7 @@
 
 (a)
 
-Authority of Executive Agencies.—In acquiring personal property, an executive agency may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in whole or in part payment for the property acquired.
+Authority of Executive Agencies.—In acquiring personal property, an executive agencymay exchange or sell similar items and may apply the exchange allowance or proceeds of sale in whole or in part payment for the property acquired.
 
 (b)
 
@@ -10,7 +10,7 @@ Applicable Regulation and Law.—
 
 &emsp;(1)
 
-Regulations prescribed by administrator of general services.—A transaction under subsection (a) must be carried out in accordance with regulations the Administrator of General Services prescribes, subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B\(except sections 1704 and 2303) of subtitle I of title 41.
+Regulations prescribed by administrator of general services.—A transaction under subsection (a) must be carried out in accordance with regulations the Administrator of General Services prescribes, subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B (except sections 1704 and 2303) of subtitle I of title 41.
 
 &emsp;(2)
 

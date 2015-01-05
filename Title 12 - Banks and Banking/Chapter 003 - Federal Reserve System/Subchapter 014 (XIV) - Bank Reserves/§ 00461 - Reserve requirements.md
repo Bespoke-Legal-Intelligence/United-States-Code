@@ -16,7 +16,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 &emsp;&emsp;(iii) any savings bank as defined in section 3 of the Federal Deposit Insurance Act or any bank which is eligible to make application to become an insured bank under section 5 of such Act;
 
-&emsp;&emsp;(iv) any insured credit union as defined in section 1752 of this title or any credit unionwhich is eligible to make application to become an insured credit union pursuant to section 1781 of this title;
+&emsp;&emsp;(iv) any insured credit union as defined in section 1752 of this title or any credit union which is eligible to make application to become an insured credit union pursuant to section 1781 of this title;
 
 &emsp;&emsp;(v) any member as defined in section 1422 of this title;
 
@@ -52,7 +52,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 &emsp;(i) the sole purpose of such requirement is to increase the amount of reserves maintained to a level essential for the conduct of monetary policy;
 
-&emsp;(ii) such requirement is not imposed for the purpose of reducing the cost burdens resultingfrom the imposition of the reserve requirements pursuant to paragraph (2);
+&emsp;(ii) such requirement is not imposed for the purpose of reducing the cost burdens resulting from the imposition of the reserve requirements pursuant to paragraph (2);
 
 &emsp;(iii) such requirement is not imposed for the purpose of increasing the amount of balances needed for clearing purposes; and
 
@@ -72,7 +72,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 &emsp;(C) assets (including participations) held by foreign offices of a depository institution in the United States which were acquired from its domestic offices.
 
-(6) The requirements imposed under paragraph (2) shall not apply to deposits payable only outside the States of the United States and the District of Columbia, except that nothing in this subsection limits the authority of the Board to impose conditions and requirements on member banks under section 25 of this Act \[12 U.S.C. 601 et seq.\] or the authority of the Board under section 3105 of this title.
+(6) The requirements imposed under paragraph (2) shall not apply to deposits payable only outside the States of the United States and the District of Columbia, except that nothing in this subsection limits the authority of the Board to impose conditions and requirements on member banks under section 25 of this Act \[12 U.S.C. 601et seq.\] or the authority of the Board under section 3105 of this title.
 
 (7) Any depository institution in which transaction accounts or nonpersonal time deposits are held shall be entitled to the same discount and borrowing privileges as member banks. In the administration of discount and borrowing privileges, the Board and the Federal Reserve banks shall take into consideration the special needs of savings and other depository institutions for access to discount and borrowing facilities consistent with their long-term asset portfolios and the sensitivity of such institutions to trends in the national money markets.
 
@@ -192,7 +192,7 @@ Subsec. (b)(11). Pub. L. 97–320, §411(a), added par. (11).
 
 <b>1981</b>—Subsec. (b)(8)(E). Pub. L. 97–35 substituted provisions relating to applicability to any depository institution that was on Aug. 1, 1978, engaged in such business in a State outside the continental limits and was not a member of the Federal Reserve System at any time on or after such date, for provisions relating to applicability to any depository institution that was on Aug. 1, 1978, engaged in such business under the laws of a State, was not a member of the Federal Reserve System on that date, and the principal office of which was outside the continental limits on that date and has remained outside ever since.
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–221, §103, substituted provisions setting forth additional definitions applicable to reserve requirements and requirements respecting amounts of reserves maintained against transaction accounts, waiver of ratio limits in extraordinary circumstances, supplemental reserves, reserves related to foreign obligations or assets, exemptions for certain deposits, discounts and borrowings, transitional adjustments, and additional exemptions and waivers, for provisions relating to determinations respecting maintenance of reserves against deposits.
+<b>1980</b>—Subsec. (b). Pub. L. 96–221, §103, substituted provisions setting forth additional definitions applicableto reserve requirements and requirements respecting amounts of reserves maintained against transaction accounts, waiver of ratio limits in extraordinary circumstances, supplemental reserves, reserves related to foreign obligations or assets, exemptions for certain deposits, discounts and borrowings, transitional adjustments, and additional exemptions and waivers, for provisions relating to determinations respecting maintenance of reserves against deposits.
 
 Subsec. (c). Pub. L. 96–221, §104(a), substituted provisions relating to the promulgation of rules and regulations respecting maintenance of balances, for provisions relating to form of reserves held by member banks.
 
@@ -224,7 +224,7 @@ Pub. L. 93–501, title I, §101(b), Oct. 29, 1974, 88 Stat. 1557, provided that
 
 #### Effective and Termination Dates of 1966 Amendment
 
-Pub. L. 89–597, §7, Sept. 21, 1966, 80 Stat. 825, as amended by Pub. L. 90–87, Sept. 21, 1967, 81 Stat. 226;Pub. L. 90–505, §1, Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–71, Sept. 22, 1969, 83 Stat. 115; Pub. L. 91–151, title I, §1, Dec. 23, 1969, 83 Stat. 371; Pub. L. 92–8, §1, Mar. 31, 1971, 85 Stat. 13; Pub. L. 92–15, §1, May 18, 1971, 85 Stat. 38; Pub. L. 93–63, July 6, 1973, 87 Stat. 147; Pub. L. 93–100, §1, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §107, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–200, title I, §101, Dec. 31, 1975, 89 Stat. 1124; Pub. L. 95–22, title I, §101, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–188, title I, §101, Nov. 16, 1977, 91 Stat. 1387; Pub. L. 95–630, title XVI, §1601, Nov. 10, 1978, 92 Stat. 3713, which provided effective and termination dates for 1966 amendments by Pub. L. 89–597 (affecting sections 371b, 1425b, and 1828(g) of this title), was repealed by Pub. L. 96–221, title II, §207(a), Mar. 31, 1980, 94 Stat. 144.
+Pub. L. 89–597, §7, Sept. 21, 1966, 80 Stat. 825, as amended by Pub. L. 90–87, Sept. 21, 1967, 81 Stat. 226; Pub. L. 90–505, §1, Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–71, Sept. 22, 1969, 83 Stat. 115; Pub. L. 91–151, title I, §1, Dec. 23, 1969, 83 Stat. 371; Pub. L. 92–8, §1, Mar. 31, 1971, 85 Stat. 13; Pub. L. 92–15, §1, May 18, 1971, 85 Stat. 38; Pub. L. 93–63, July 6, 1973, 87 Stat. 147; Pub. L. 93–100, §1, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §107, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–200, title I, §101, Dec. 31, 1975, 89 Stat. 1124; Pub. L. 95–22, title I, §101, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–188, title I, §101, Nov. 16, 1977, 91 Stat. 1387; Pub. L. 95–630, title XVI, §1601, Nov. 10, 1978, 92 Stat. 3713, which provided effective and termination dates for 1966 amendments by Pub. L. 89–597 (affecting sections 371b, 1425b, and 1828(g) of this title), was repealed by Pub. L. 96–221, title II, §207(a), Mar. 31, 1980, 94 Stat. 144.
 
 #### Elimination or Reduction of Interest Rate Differential Between Savings Banks and Savings and Loan, Building and Loan, or Homestead Associations
 

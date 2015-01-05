@@ -66,7 +66,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Confidentiality
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless anduntil presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
 
 #### (B) Availability to Government agencies
 
@@ -178,7 +178,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;No current or former supervisory person of a registered public accounting firm shall be deemed to have failed reasonably to supervise any associated person for purposes of subparagraph (A), if—
 
-&emsp;&emsp;&emsp;(i) there have been established in and for that firm procedures, and a system for applying such procedures, that comply with applicable rules of the Board and that would reasonably be expected to prevent and detect any such violation by such associated person; and
+&emsp;&emsp;&emsp;(i) there have been established in and for that firm procedures, and a system for applying such procedures, that comply with applicable rules of the Board and thatwould reasonably be expected to prevent and detect any such violation by such associated person; and
 
 &emsp;&emsp;&emsp;(ii) such person has reasonably discharged the duties and obligations incumbent upon that person by reason of such procedures and system, and had no reasonable cause to believe that such procedures and system were not being complied with.
 

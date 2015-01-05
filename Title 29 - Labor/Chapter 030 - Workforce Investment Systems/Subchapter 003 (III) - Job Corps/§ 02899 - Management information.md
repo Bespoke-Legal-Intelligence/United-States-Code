@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish procedures to ensure that each operator, and each serviceprovider, maintains a financial management information system that will provide—
+&emsp;The Secretary shall establish procedures to ensure that each operator, and each service provider, maintains a financial management information system that will provide—
 
 &emsp;&emsp;(A) accurate, complete, and current disclosures of the costs of Job Corps operations; and
 
@@ -74,7 +74,7 @@
 
 #### (3) Report
 
-&emsp;The Secretary shall collect, and annually submit a report to the appropriate committees of Congress containing, information on the performance of each Job Corps center, and the Job Corps program, on the core performance measures, as compared to the expected performance level for each performance measure. The report shall also contain information on the performance of the service providers described in paragraph (2) on the performance measures established under such paragraph, as compared to the expected performance levels for the performance measures.
+&emsp;The Secretary shall collect, and annually submit a report to the appropriate committees of Congress containing, information on the performance of each Job Corps center, and the Job Corps program, on the core performance measures, as compared to the expected performance level for each performance measure.The report shall also contain information on the performance of the service providers described in paragraph (2) on the performance measures established under such paragraph, as compared to the expected performance levels for the performance measures.
 
 #### (d) Additional information
 
@@ -140,6 +140,10 @@ Prior to the closure of any Job Corps center, the Secretary shall ensure—
 
 (Pub. L. 105–220, title I, §159, Aug. 7, 1998, 112 Stat. 1017; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (c)(1)(G). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(A)\], substituted "postsecondary" for "post-secondary".
@@ -147,4 +151,8 @@ Prior to the closure of any Job Corps center, the Secretary shall ensure—
 Subsec. (c)(3). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(B)\], substituted "containing," for "containing".
 
 Subsec. (d)(4). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(A)\], substituted "postsecondary" for "post-secondary".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

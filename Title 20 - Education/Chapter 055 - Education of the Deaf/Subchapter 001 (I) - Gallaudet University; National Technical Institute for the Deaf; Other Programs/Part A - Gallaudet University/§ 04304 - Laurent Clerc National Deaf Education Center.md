@@ -118,7 +118,7 @@ Subsec. (b)(4)(C). Pub. L. 105–244, §912(5), amended subpar. (C) generally. P
 
 &emsp;"(ii) Subsection (d), except the portion of paragraph (4) requiring that findings and decisions be transmitted to a State advisory panel.
 
-&emsp;"(iii) Paragraphs (1) through (3) of subsection (e). Paragraph (3) of such subsection is not applicable to a decision by the University to refuse to admit or to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days notice to the child's parents and to the local educational agency in which the child resides.
+&emsp;"(iii) Paragraphs (1) through (3) of subsection (e). Paragraph (3) of such subsection is not applicable to a decision by the University to refuse to admit or to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days noticeto the child's parents and to the local educational agency in which the child resides.
 
 &emsp;"(iv) Subsection (f)."
 

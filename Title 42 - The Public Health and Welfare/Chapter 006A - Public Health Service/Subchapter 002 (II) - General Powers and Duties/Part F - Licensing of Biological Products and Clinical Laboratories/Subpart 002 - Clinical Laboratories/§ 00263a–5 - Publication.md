@@ -1,6 +1,6 @@
 ### §263a–5. Publication
 
-The Secretary, through the Centers for Disease Control, shall not later than 3 years after October 24, 1992, and annually thereafter publish and distribute to the States and the public—
+The Secretary, through the Centers for Disease Control, shall not later than 3 years afterOctober 24, 1992, and annually thereafter publish and distribute to the States and the public—
 
 &emsp;(1)(A) <sup>1</sup> pregnancy success rates reported to the Secretary under section 263a–1(a)(1) of this title and, in the case of an assisted reproductive technology program which failed to report one or more success rates as required under such section, the name of each such program and each pregnancy success rate which the program failed to report, and
 

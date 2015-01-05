@@ -6,7 +6,7 @@ The Secretary, in consultation with the Director, shall designate a Private Educ
 
 #### (b) Public information
 
-The Secretary and the Director shall disseminate information about the availability and functions of the Ombudsman to borrowers and potential borrowers, as well as institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in private education student loan programs.
+The Secretary and the Director shall disseminate information about the availability and functions of the Ombudsman to borrowers and potential borrowers, as well as institutions ofhigher education, lenders, guaranty agencies, loan servicers, and other participants in private education student loan programs.
 
 #### (c) Functions of Ombudsman
 

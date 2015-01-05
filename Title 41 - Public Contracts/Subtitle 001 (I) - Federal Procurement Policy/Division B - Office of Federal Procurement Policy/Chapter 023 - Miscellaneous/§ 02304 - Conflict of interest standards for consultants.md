@@ -70,7 +70,7 @@ In subsection (a), before paragraph (1), the words "The Administrator shall pres
 
 In subsection (b), before paragraph (1), the words "the following types of consulting services" are omitted as unnecessary.
 
-In subsection (c)(2), the words "Director of National Intelligence" are substituted for "Director of Central Intelligence" because of section 1081(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 50 U.S.C. 401 note). The words "each January 1" are substituted for "no later than January 1, 1990, and annually thereafter to eliminate obsolete and unnecessary words. The words "exempted under paragraph (1)" are substituted for "exempted from the regulations required by subsection (a) of this section in accordance with the provisions of this subsection" to eliminate unnecessary words.
+In subsection (c)(2), the words "Director of National Intelligence" are substituted for "Director of Central Intelligence" because of section 1081(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 50 U.S.C. 401 note). The words "each January 1" are substituted for "no later than January 1, 1990, and annually thereafter to eliminate obsolete and unnecessary words. The words "exemptedunder paragraph (1)" are substituted for "exempted from the regulations required by subsection (a) of this section in accordance with the provisions of this subsection" to eliminate unnecessary words.
 
 #### References in Text
 

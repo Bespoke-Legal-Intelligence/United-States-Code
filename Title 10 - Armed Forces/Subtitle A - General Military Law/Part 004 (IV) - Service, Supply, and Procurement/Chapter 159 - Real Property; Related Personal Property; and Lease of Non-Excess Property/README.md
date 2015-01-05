@@ -21,7 +21,8 @@
 | [2675\.](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md) | Leases: foreign countries. |
 | \[2676, 2677. Renumbered or Repealed.\] |  |
 | [2678\.](%C2%A7%2002678%20-%20Feral%20horses%20and%20burros%20removal%20from%20military%20installations.md) | Feral horses and burros: removal from military installations. |
-| \[2679, 2680. | Repealed.\] |
+| [2679\.](%C2%A7%2002679%20-%20Installation-support%20services%20intergovernmental%20support%20agreements.md) | Installation-support services: intergovernmental support agreements. |
+| \[2680. | Repealed.\] |
 | [2681\.](%C2%A7%2002681%20-%20Use%20of%20test%20and%20evaluation%20installations%20by%20commercial%20entities.md) | Use of test and evaluation installations by commercial entities. |
 | [2682\.](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md) | Facilities for defense agencies. |
 | [2683\.](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md) | Relinquishment of legislative jurisdiction; minimum drinking age on military installations. |
@@ -54,7 +55,9 @@ This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
 
-Pub. L. 111–383, div. A, title III, §341(b), div. B, title XXVIII, §2814(c), Jan. 7, 2011, 124 Stat. 4190, 4464, struck out item 2680 "Leases: land for special operations activities" and added item 2697.
+<b>2014</b>—Pub. L. 113–291, div. A, title III, §351(c)(2), Dec. 19, 2014, 128 Stat. 3347, added item 2679.
+
+<b>2011</b>—Pub. L. 111–383, div. A, title III, §341(b), div. B, title XXVIII, §2814(c), Jan. 7, 2011, 124 Stat. 4190, 4464, struck out item 2680 "Leases: land for special operations activities" and added item 2697.
 
 <b>2009</b>—Pub. L. 111–84, div. B, title XXVIII, §2822(a)(2), Oct. 28, 2009, 123 Stat. 2666, added item 2687a.
 
@@ -62,7 +65,7 @@ Pub. L. 111–383, div. A, title III, §341(b), div. B, title XXVIII, §2814(c),
 
 Pub. L. 110–181, div. B, title XXVIII, §2822(b)(2), Jan. 28, 2008, 122 Stat. 544, struck out item 2677 "Options: property required for military construction projects".
 
-<b>2006</b>—Pub. L. 109–364, div. B, title XXVIII, §§2822(d), 2823(b), 2825(d)(2)(B), 2851(c)(3), Oct. 17, 2006, 120 Stat.2475–2477, 2495, added item 2668a, substituted "Real property: transfer between armed forces and screening requirements for other Federal use" for "Screening of real property for further Federal use before conveyance" in item 2696, and struck out items 2669 "Easements for rights-of-way: gas, water, sewer pipe lines", 2689 "Development of geothermal energy on military lands", 2690 "Fuel sources for heating systems; prohibition on converting certain heating facilities", and 2693 "Conveyance of certain property: Department of Justice correctional options program".
+<b>2006</b>—Pub. L. 109–364, div. B, title XXVIII, §§2822(d), 2823(b), 2825(d)(2)(B), 2851(c)(3), Oct. 17, 2006, 120 Stat. 2475–2477, 2495, added item 2668a, substituted "Real property: transfer between armed forces and screening requirements for other Federal use" for "Screening of real property for further Federal use before conveyance" in item 2696, and struck out items 2669 "Easements for rights-of-way: gas, water, sewer pipe lines", 2689 "Development of geothermal energy on military lands", 2690 "Fuel sources for heating systems; prohibition on converting certain heating facilities", and 2693 "Conveyance of certain property: Department of Justice correctional options program".
 
 Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513, added items 2663 and 2664 and struck out former item 2663 "Acquisition" and items 2672 "Authority to acquire low-cost interests in land", 2672a "Acquisition: interests in land when need is urgent", and 2676 "Acquisition: limitation".
 
@@ -98,7 +101,7 @@ Pub. L. 100–180, div. A, title XI, §1112(b)(3), Dec. 4, 1987, 101 Stat. 1147,
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted "Fuel sources for heating systems" for "Restriction on fuel sources for new heating systems" in item 2690 and added item 2693.
 
-Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985, 99 Stat. 988, struck out item 2667a "Sale and replacement of nonexcess real property", eff. Oct. 1, 1986.
+Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985,99 Stat. 988, struck out item 2667a "Sale and replacement of nonexcess real property", eff. Oct. 1, 1986.
 
 <b>1985</b>—Pub. L. 99–167, title VIII, §810(b)(2), Dec. 3, 1985, 99 Stat. 990, substituted "$200,000" for "$100,000" in item 2672.
 
@@ -170,7 +173,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02676 - Renumbered &sect;2664](%C2%A7%2002676%20-%20Renumbered%20%C2%A72664.md)
 - [&sect; 02677 - Repealed. Pub. L. 110&#8211;181, div. B, title XXVIII, &sect;2822(b)(1), Jan. 28, 2008, 122 Stat. 544](%C2%A7%2002677%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72822%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20544.md)
 - [&sect; 02678 - Feral horses and burros removal from military installations](%C2%A7%2002678%20-%20Feral%20horses%20and%20burros%20removal%20from%20military%20installations.md)
-- [&sect; 02679 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2821(c)(2), Oct. 28, 2004, 118 Stat. 2129](%C2%A7%2002679%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28c%29%282%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202129.md)
+- [&sect; 02679 - Installation-support services intergovernmental support agreements](%C2%A7%2002679%20-%20Installation-support%20services%20intergovernmental%20support%20agreements.md)
 - [&sect; 02680 - Repealed. Pub. L. 111&#8211;383, div. B, title XXVIII, &sect;2814(a), Jan. 7, 2011, 124 Stat. 4464](%C2%A7%2002680%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93383%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72814%28a%29%2C%20Jan.%207%2C%202011%2C%20124%20Stat.%204464.md)
 - [&sect; 02681 - Use of test and evaluation installations by commercial entities](%C2%A7%2002681%20-%20Use%20of%20test%20and%20evaluation%20installations%20by%20commercial%20entities.md)
 - [&sect; 02682 - Facilities for defense agencies](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md)

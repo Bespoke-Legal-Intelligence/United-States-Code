@@ -6,7 +6,7 @@ Whenever official notice is received at the National Archives and Records Admini
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 substituted “National Archives and Records Administration” and “Archivist of the United States” for “General Services Administration” and “Administrator of General Services”, respectively.
+<b>1984</b>—Pub. L. 98–497 substituted "National Archives and Records Administration" and "Archivist of the United States" for "General Services Administration" and "Administrator of General Services", respectively.
 
 #### Effective Date of 1984 Amendment
 

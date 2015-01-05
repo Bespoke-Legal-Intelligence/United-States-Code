@@ -8,7 +8,7 @@
 
 #### (2) Assessment procedures
 
-&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), (H), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section), and any such assessments shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board orthe Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), (H), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section), and any such assessments shall be subject to the provisions of such section.
 
 #### (3) Hearing procedure
 
@@ -44,7 +44,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;&emsp;(B) inadvertently transmits or publishes any report that is minimally late,
 
-> &emsp;shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The foreign bank, or theoffice or subsidiary of a foreign bank, shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late.
+> &emsp;shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The foreign bank, or the office or subsidiary of a foreign bank, shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late.
 
 #### (2) Second tier
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, the Administrator may provide agricu
 
 #### (1) In general
 
-&emsp;The Administrator may provide agricultural commodities for nonemergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use the commodities in accordance with this subchapter.
+&emsp;The Administrator may provide agricultural commodities for nonemergency assistance under this subchapter through eligible organizations (as described in subsection (d)) that have entered into an agreement with the Administrator to use the commodities in accordance with this subchapter.
 
 #### (2) Limitation
 
@@ -32,7 +32,7 @@ Agricultural commodities provided under this subchapter may be made available fo
 
 #### (d) Eligible organizations
 
-To be eligible to receive assistance under subsection (b) of this section an organization shall be—
+To be eligible to receive assistance under subsection (b) an organization shall be—
 
 &emsp;(1) a private voluntary organization or cooperative that is, to the extent practicable, registered with the Administrator; or
 
@@ -42,21 +42,27 @@ To be eligible to receive assistance under subsection (b) of this section an org
 
 #### (1) In general
 
-&emsp;Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 13 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
+&emsp;Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 20 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d), to assist the organizations in—
 
-&emsp;&emsp;(A) establishing new programs under this subchapter;
+&emsp;&emsp;(A) establishing and enhancing programs under this subchapter;
 
-&emsp;&emsp;(B) meeting specific administrative, management, personnel and internal transportation and distribution costs for carrying out programs in foreign countries under this subchapter; and
+&emsp;&emsp;(B) meeting specific administrative, management, personnel, transportation, storage, and distribution costs for carrying out programs in foreign countries under this subchapter;
 
-&emsp;&emsp;(C) improving and implementing methodologies for food aid programs, including needs assessments (upon the request of the Administrator), monitoring, and evaluation.
+&emsp;&emsp;(C) implementing income-generating, community development, health, nutrition, cooperative development, agricultural, and other developmental activities within 1 or more recipient countries or within 1 or more countries in the same region; and
+
+&emsp;&emsp;(D) improving and implementing methodologies for food aid programs, including needs assessments (upon the request of the Administrator), monitoring, and evaluation.
 
 #### (2) Request for funds
 
-&emsp;To receive funds made available under paragraph (1), an eligible organization described in subsection (d) of this section shall submit a request for the funds that is subject to approval by the Administrator.
+&emsp;To receive funds made available under paragraph (1), an eligible organization described in subsection (d) shall submit a request for the funds that is subject to approval by the Administrator.
 
 #### (3) Assistance with respect to sale
 
 &emsp;Upon the request of an eligible organization, the Administrator may provide assistance to the eligible organization with respect to the sale of agricultural commodities made available to it under this subchapter.
+
+#### (4) Investment authority
+
+&emsp;An eligible organization that receives funds made available under paragraph (1) may invest the funds pending the eligible organization's use of the funds. Any interest earned on such investment may be used for the purposes for which the assistance was provided to the eligible organization without further appropriation by Congress.
 
 #### (f) Effective use of commodities
 
@@ -76,19 +82,27 @@ To ensure that agricultural commodities made available under this subchapter are
 
 #### (g) Labeling
 
-Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the languageof the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
+Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
 
 #### (h) Food aid quality
 
 #### (1) In general
 
-&emsp;The Administrator shall use funds made available for fiscal year 2009 and subsequent fiscal years to carry out this subchapter—
+&emsp;The Administrator shall use funds made available for fiscal year 2014 and subsequent fiscal years to carry out this subchapter—
 
 &emsp;&emsp;(A) to assess the types and quality of agricultural commodities and products donated for food aid;
 
-&emsp;&emsp;(B) to adjust products and formulations (including the potential introduction of new fortificants and products) as necessary to cost-effectively meet nutrient needs of target populations; and
+&emsp;&emsp;(B) to adjust products and formulations, including potential introduction of new fortificants and products, as necessary to cost-effectively meet nutrient needs of target populations;
 
-&emsp;&emsp;(C) to test prototypes.
+&emsp;&emsp;(C) to test prototypes;
+
+&emsp;&emsp;(D) to adopt new specifications or improve existing specifications for micronutrient fortified food aid products, based on the latest developments in food and nutrition science, and in coordination with other international partners;
+
+&emsp;&emsp;(E) to develop new program guidance to facilitate improved matching of products topurposes having nutritional intent, in coordination with other international partners;
+
+&emsp;&emsp;(F) to develop improved guidance for implementing partners on how to address nutritional deficiencies that emerge among recipients for whom food assistance is the sole source of diet in emergency programs that extend beyond 1 year, in coordination with other international partners; and
+
+&emsp;&emsp;(G) to evaluate, in appropriate settings and as necessary, the performance and cost-effectiveness of new or modified specialized food products and program approaches designed to meet the nutritional needs of the most vulnerable groups, such as pregnant and lactating mothers, and children under the age of 5.
 
 #### (2) Administration
 
@@ -102,11 +116,29 @@ Commodities provided under this subchapter shall, to the extent practicable, be 
 
 #### (3) Funding limitation
 
-&emsp;Of the funds made available under section 1726a(f) of this title,<sup>1</sup> for fiscal years 2009 through 2011, not more than $4,500,000 may be used to carry out this subsection.
+&emsp;Of the funds made available under section 1726a(f) of this title,<sup>1</sup> for fiscal years 2014 through 2018, not more than $4,500,000 may be used to carry out this subsection.
 
-(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601(a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, §3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, §3008, June 18, 2008, 122 Stat. 1823.)
+(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601(a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, §3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, §3008, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, §§3002, 3003, Feb. 7, 2014, 128 Stat. 773.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(1). Pub. L. 113–79, §3002(1)(A), substituted "20 percent" for "13 percent" in introductory provisions.
+
+Subsec. (e)(1)(A). Pub. L. 113–79, §3002(1)(B), substituted "and enhancing" for "new".
+
+Subsec. (e)(1)(B) to (D). Pub. L. 113–79, §3002(1)(C)–(E), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B). Prior to amendment, subpar. (B) read as follows: "meeting specific administrative, management, personnel and internal transportation and distribution costs for carrying out programs in foreign countries under this subchapter; and".
+
+Subsec. (e)(4). Pub. L. 113–79, §3002(2), added par. (4).
+
+Subsec. (h)(1). Pub. L. 113–79, §3003(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Administrator shall use funds made available for fiscal year 2009 and subsequent fiscal years to carry out this subchapter—
+
+&emsp;"(A) to assess the types and quality of agricultural commodities and products donated for food aid;
+
+&emsp;"(B) to adjust products and formulations (including the potential introduction of new fortificants and products) as necessary to cost-effectively meet nutrient needs of target populations; and
+
+&emsp;"(C) to test prototypes."
+
+Subsec. (h)(3). Pub. L. 113–79, §3003(2), substituted "fiscal years 2014 through 2018" for "fiscal years 2009 through 2011".
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted "may not use as a sole rationale for denying a request for funds" for "may not deny a request for funds" in introductory provisions.
 
@@ -126,7 +158,7 @@ Subsec. (h). Pub. L. 107–171, §3002(3), added subsec. (h).
 
 Subsec. (e). Pub. L. 104–127, §207(a)(2)(A), substituted "eligible organizations" for "private voluntary organizations and cooperatives" in heading.
 
-Subsec. (e)(1). Pub. L. 104–127, §207(a)(2)(B), in introductory provisions, substituted "$28,000,000" for "$13,500,000" and "eligible organizations described in subsection (d) of this section, to assist the organizations" for "private voluntary organizations and cooperatives to assist such organizations and cooperatives".
+Subsec. (e)(1). Pub. L. 104–127, §207(a)(2)(B), in introductory provisions, substituted "$28,000,000" for "$13,500,000" and "eligible organizations described in subsection (d), to assist the organizations" for "private voluntary organizations and cooperatives to assist such organizations and cooperatives".
 
 Subsec. (e)(2). Pub. L. 104–127, §207(a)(2)(C), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "In order to receive funds made available under paragraph (1), a private voluntary organization or cooperative must submit a request for such funds (which must be approved by the Administrator) when submitting a proposal to the Administrator for an agreement under this subchapter. Such request for funds shall include a specific explanation of—
 
@@ -138,7 +170,7 @@ Subsec. (e)(2). Pub. L. 104–127, §207(a)(2)(C), added par. (2) and struck out
 
 Subsec. (e)(3). Pub. L. 104–127, §207(a)(2)(D), substituted "an eligible organization, the Administrator may provide assistance to the eligible organization" for "a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative".
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing commodities through friendly governments, agencies, and organizations, assistance for community and other self-help activities, and multiyear agreements for distribution of commodities through nonprofit voluntary agencies and cooperatives.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing commodities through friendly governments, agencies, and organizations, assistance for communityand other self-help activities, and multiyear agreements for distribution of commodities through nonprofit voluntary agencies and cooperatives.
 
 Subsec. (e)(1). Pub. L. 101–508, in introductory provisions, substituted "the Administrator, not less than $10,000,000, and not more than $13,500,000, shall be made available in each fiscal year to private voluntary organizations and cooperatives" for "private voluntary organizations and cooperatives, not less than $10,000,000 and not more than $13,500,000 shall be made available by the Administrator".
 
@@ -154,7 +186,7 @@ Subsec. (c). Pub. L. 99–83, §1005, added subsec. (c).
 
 Subsec. (b)(2). Pub. L. 96–53, §202, substituted provisions relating to encouragement of entities distributing commodities to work with indigenous institutions and to employ indigenous workers, for provisions relating to employment of indigenous workers.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–88, §§207(1), (2), 208(a), designated existing provisions as subsec. (a), struck outrequirement that assistance to needy persons, insofar as practicable, be directed toward community and other self-help activities designed to alleviate the causes of the need for such assistance, and inserted provisions authorizing the President to utilize a foreign nonprofit voluntary agency which is registered with and approved by the Advisory Committee on Voluntary Foreign Aid if no United States nonprofit voluntary agency registered with and approved by the Advisory Committee is available.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §§207(1), (2), 208(a), designated existing provisions as subsec. (a), struck out requirement that assistance to needy persons, insofar as practicable, be directed toward community and other self-help activities designed to alleviate the causes of the need for such assistance, and inserted provisions authorizing the President to utilize a foreign nonprofit voluntary agency which is registered with and approved by the Advisory Committee on Voluntary Foreign Aid if no United States nonprofit voluntary agency registered with and approved by the Advisory Committee is available.
 
 Subsec. (b). Pub. L. 95–88, §207(3), added subsec. (b).
 

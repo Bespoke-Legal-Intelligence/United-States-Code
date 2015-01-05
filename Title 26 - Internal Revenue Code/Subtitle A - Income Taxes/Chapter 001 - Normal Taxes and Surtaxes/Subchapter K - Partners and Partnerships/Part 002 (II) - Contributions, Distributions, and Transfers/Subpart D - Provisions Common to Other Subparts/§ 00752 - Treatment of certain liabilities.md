@@ -14,7 +14,7 @@ For purposes of this section, a liability to which property is subject shall, to
 
 #### (d) Sale or exchange of an interest
 
-In the case of a sale or exchange of an interest in a partnership, liabilities shall be treated in the same manner as liabilities in connectionwith the sale or exchange of property not associated with partnerships.
+In the case of a sale or exchange of an interest in a partnership, liabilities shall be treated in the same manner as liabilities in connection with the sale or exchange of property not associated with partnerships.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 251.)
 

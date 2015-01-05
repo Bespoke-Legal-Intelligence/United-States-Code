@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;(5) the term "private financial gain" shall not include the gain resulting to any individual for the private use in such individual's dwelling unit of any programming for which the individual has not obtained authorization for that use; and
 
-&emsp;(6) the term "any person aggrieved" shall include any person with proprietary rights in the intercepted communication by wire or radio, including wholesale or retail distributors of satellite cable programming, and, in the case of a violation of paragraph (4) of subsection (e) of this section, shall also include any person engaged in the lawful manufacture,distribution, or sale of equipment necessary to authorize or receive satellite cable programming.
+&emsp;(6) the term "any person aggrieved" shall include any person with proprietary rights in the intercepted communication by wire or radio, including wholesale or retail distributors of satellite cable programming, and, in the case of a violation of paragraph (4) of subsection (e) of this section, shall also include any person engaged in the lawful manufacture, distribution, or sale of equipment necessary to authorize or receive satellite cable programming.
 
 #### (e) Penalties; civil actions; remedies; attorney's fees and costs; computation of damages; regulation by State and local authorities
 

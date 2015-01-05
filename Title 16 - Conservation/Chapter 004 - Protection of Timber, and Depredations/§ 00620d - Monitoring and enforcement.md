@@ -32,7 +32,7 @@ In accordance with regulations issued under this section—
 
 #### (b) Report to Congress
 
-Using the information gathered under subsection (a) of this section, the Secretaries of Agriculture and Interior shall, not later than June 1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
+Using the information gathered under subsection (a) of this section, the Secretaries of Agriculture and Interior shall, not later than June1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
 
 &emsp;(1) analyze the effects of indirect substitution on market efficiency;
 
@@ -108,7 +108,7 @@ Contractural <sup>1</sup> remedies.—In the case of a minor violation of secti
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No person may be debarred from bidding for or entering into a contract for the purchase of unprocessed timber from Federal lands under subparagraph (A) unless the head of the appropriate Federal department or agency first finds, on the recordand after an opportunity for a hearing, that debarment is warranted.
+&emsp;&emsp;&emsp;No person may be debarred from bidding for or entering into a contract for the purchase of unprocessed timber from Federal lands under subparagraph (A) unless the head of the appropriate Federal department or agency first finds, on the record and after an opportunity for a hearing, that debarment is warranted.
 
 #### (ii) Withholding of awards during debarment proceedings
 

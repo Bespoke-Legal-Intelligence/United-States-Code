@@ -1,6 +1,6 @@
 ### §3218. Franked mail for survivors of Members of Congress
 
-Upon the death of a Member of Congress during his term of office, the surviving spouse of such Member (or, if there is no surviving spouse, a member of the immediate family of the Member designated by the Secretary of the Senate or the Clerk of the House of Representatives, as appropriate, in accordance with rules and procedures established by the Secretary or the Clerk) may send, for a period not to exceed 180 days after his death, as franked mail, nonpoliticalcorrespondence relating to the death of the Member.
+Upon the death of a Member of Congress during his term of office, the surviving spouse of such Member (or, if there is no surviving spouse, a member of the immediate family of the Member designated by the Secretary of the Senate or the Clerk of the House of Representatives, as appropriate, in accordance with rules and procedures established by the Secretary or the Clerk) may send, for a period not to exceed 180 days after his death, as franked mail, nonpolitical correspondence relating to the death of the Member.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 93–191, §11, Dec. 18, 1973, 87 Stat. 746; Pub. L. 97–69, §6(b), (c)(1), Oct. 26, 1981, 95 Stat. 1043.)
 

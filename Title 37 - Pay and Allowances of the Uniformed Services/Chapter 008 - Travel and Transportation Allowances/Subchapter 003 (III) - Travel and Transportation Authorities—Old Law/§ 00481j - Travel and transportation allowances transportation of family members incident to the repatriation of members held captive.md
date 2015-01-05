@@ -30,7 +30,7 @@ Eligible Family Members.—In this section, the term "family member" has the mea
 
 (d)
 
-Travel and Transportation Authorized.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), asthe case may be) and the location of the repatriation site at which the member is located.
+Travel and Transportation Authorized.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the member is located.
 
 (2) In addition to the transportation authorized by subsection (a), the Secretary concerned may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) of this title.
 

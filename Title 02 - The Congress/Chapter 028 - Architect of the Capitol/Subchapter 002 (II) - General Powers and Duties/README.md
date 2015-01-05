@@ -23,6 +23,7 @@
 - [&sect; 01823 - Acquisition of real property for Sergeant at Arms and Doorkeeper of the Senate](%C2%A7%2001823%20-%20Acquisition%20of%20real%20property%20for%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20the%20Senate.md)
 - [&sect; 01823a - Acquisition of real property for Library of Congress](%C2%A7%2001823a%20-%20Acquisition%20of%20real%20property%20for%20Library%20of%20Congress.md)
 - [&sect; 01824 - Energy and environmental measures in Capitol Complex Master Plan](%C2%A7%2001824%20-%20Energy%20and%20environmental%20measures%20in%20Capitol%20Complex%20Master%20Plan.md)
+- [&sect; 01824a - Recyclable materials](%C2%A7%2001824a%20-%20Recyclable%20materials.md)
 - [&sect; 01825 - Repealed. Pub. L. 110&#8211;437, title V, &sect;501(b)(2), Oct. 20, 2008, 122 Stat. 4997](%C2%A7%2001825%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93437%2C%20title%20V%2C%20%C2%A7501%28b%29%282%29%2C%20Oct.%2020%2C%202008%2C%20122%20Stat.%204997.md)
 - [&sect; 01826 - Easements for rights-of-way](%C2%A7%2001826%20-%20Easements%20for%20rights-of-way.md)
 - [&sect; 01827 - Support and maintenance during emergencies](%C2%A7%2001827%20-%20Support%20and%20maintenance%20during%20emergencies.md)

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas in the United States and its territories.
+The Administrator, through the National Weather Service and in consultation with otherrelevant Administration offices, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas in the United States and its territories.
 
 #### (b) Coordinating committee
 

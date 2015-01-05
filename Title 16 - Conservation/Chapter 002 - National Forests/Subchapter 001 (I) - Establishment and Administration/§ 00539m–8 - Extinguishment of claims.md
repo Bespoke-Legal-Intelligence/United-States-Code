@@ -22,7 +22,7 @@ As provided in the Settlement Agreement, the Pueblo has agreed to the relinquish
 
 #### (e) Consideration
 
-The recognition of the Pueblo's rights and interests in sections 539m to 539m–12 of this title constitutes adequate consideration for the Pueblo's agreement to the extinguishment of the Pueblo's claims in this section and the right-of-way grants contained in section 539m–7 of this title, and it is the intent of Congress that those rights and interests may only be diminished by a future Act of Congress specifically authorizing diminishment of such rights, with express reference to sections 539m to 539m–12 of this title.
+The recognition of the Pueblo's rights and interests in sections 539m to 539m–12 of this title constitutes adequate consideration for the Pueblo's agreement to the extinguishment of the Pueblo's claims in this section and the right-of-way grants contained in section 539m–7 of this title, and it is the intent of Congress that those rights and interests may only be diminished by a future Act of Congress specifically authorizingdiminishment of such rights, with express reference to sections 539m to 539m–12 of this title.
 
 (Pub. L. 108–7, div. F, title IV, §410, Feb. 20, 2003, 117 Stat. 290.)
 

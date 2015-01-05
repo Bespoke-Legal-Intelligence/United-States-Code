@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (c), to help address the mortgage crisis, of the amounts allocated pursuant to clauses (i) and (ii) of section4567(a)(1)(B) of this title and clauses (i) and (ii) of section 4567(a)(2)(B) of this title in excess of amounts described in section 4567(e) of this title—
+&emsp;Notwithstanding subsection (c), to help address the mortgage crisis, of the amounts allocated pursuant to clauses (i) and (ii) of section 4567(a)(1)(B) of this title and clauses (i) and (ii) of section 4567(a)(2)(B) of this title in excess of amounts described in section 4567(e) of this title—
 
 &emsp;&emsp;(A) 100 percent of such excess shall be used to reimburse the Treasury for payments made pursuant to section 1715z–23(w)(1)(C) of this title in calendar year 2009;
 
@@ -84,7 +84,7 @@
 
 #### (C) Minimum State allocations
 
-&emsp;&emsp;If the formula amount determined under paragraph (3) for a fiscal year would allocateless than $3,000,000 to any of the 50 States of the United States or the District of Columbia, the allocation for such State of the United States or the District of Columbia shall be $3,000,000, and the increase shall be deducted pro rata from the allocations made to all other of the States (as such term is defined in section 4502 of this title).
+&emsp;&emsp;If the formula amount determined under paragraph (3) for a fiscal year would allocate less than $3,000,000 to any of the 50 States of the United States or the District of Columbia, the allocation for such State of the United States or the District of Columbia shall be $3,000,000, and the increase shall be deducted pro rata from the allocations made to all other of the States (as such term is defined in section 4502 of this title).
 
 #### (5) Allocation plans required
 
@@ -152,7 +152,7 @@
 
 #### (8) Tenant protections and public participation
 
-&emsp;All amounts from the Trust Fund shall be allocated in accordance with, and any eligibleactivities carried out in whole or in part with grant amounts under this subchapter (including housing provided with such grant amounts) shall comply with and be operated in compliance with—
+&emsp;All amounts from the Trust Fund shall be allocated in accordance with, and any eligible activities carried out in whole or in part with grant amounts under this subchapter (including housing provided with such grant amounts) shall comply with and be operated in compliance with—
 
 &emsp;&emsp;(A) laws relating to tenant protections and tenant rights to participate in decision making regarding their residences;
 
@@ -186,7 +186,7 @@
 
 #### (B) Deadline for commitment or use
 
-&emsp;&emsp;Grant amounts allocated to a State or State designated entity under this subsection shall be used or committed for use within 2 years of the date that such grant amounts are made available to the State or State designated entity. The Secretary shall recapture any such amounts not so used or committed for use and reallocate such amounts under this subsection in the first year after such recapture.
+&emsp;&emsp;Grant amounts allocated to a State or State designated entity under this subsection shall be used or committed for use within 2 years of the date that such grant amounts are made available to the State orState designated entity. The Secretary shall recapture any such amounts not so used or committed for use and reallocate such amounts under this subsection in the first year after such recapture.
 
 #### (C) Use of returns
 
@@ -256,7 +256,7 @@ If in any year a State or State designated entity fails to obtain reimbursement 
 
 #### (i) Reimbursement requirement
 
-&emsp;&emsp;&emsp;If any recipient of assistance under this section is determined, in accordance with clause (ii), to have used any such amounts in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such amounts were provided, the State or State designated entity shall require that, within 12 months after the determination of such misuse, the recipient shall reimburse the State or State designated entity for such misused amounts and return to the State or State designated entity any such amounts that remain unused or uncommitted for use. The remedies under this clause are in addition to any other remedies that may be available under law.
+&emsp;&emsp;&emsp;If any recipient of assistance under this section is determined, in accordance with clause (ii), to have used any such amounts in a manner that is materially in violationof this section, the regulations issued under this section, or any requirements or conditions under which such amounts were provided, the State or State designated entity shall require that, within 12 months after the determination of such misuse, the recipient shall reimburse the State or State designated entity for such misused amounts and return to the State or State designated entity any such amounts that remain unused or uncommitted for use. The remedies under this clause are in addition to any other remedies that may be available under law.
 
 #### (ii) Determination
 

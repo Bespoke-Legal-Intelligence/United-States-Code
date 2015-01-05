@@ -30,7 +30,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 &emsp;&emsp;(B) on the date the Financial Assistance Corporation is chartered, the accounts payable of each contributing bank under such agreements for the calendar quarter ending on September 30, 1986, shall, by operation of law and without any further action by such contributing bank, any other bank, or any court, become and be converted into accounts payable of the Financial Assistance Corporation to each receiving bank under such agreement for such calendar quarter in the same amounts as previously carried on the books of each such receiving bank; and
 
-&emsp;&emsp;(C) on the date the Financial Assistance Corporation is chartered, the accounts receivable of each receiving bank under such agreements for the calendar quarter ending September 30, 1986, shall, by operation of law and without any further action by such receiving bank or any other bank, or any court, become and be converted into accounts receivable to such receiving bankfrom the Financial Assistance Corporation, in the same amount as previously carried on the books of such receiving bank and such receivables shall, for all financial reporting purposes, be accounted for as an asset on the books of such receiving bank in accordance with generally accepted accounting practices.
+&emsp;&emsp;(C) on the date the Financial Assistance Corporation is chartered, the accounts receivable of each receiving bank under such agreements for the calendar quarter ending September 30, 1986, shall, by operation of law and without any further action by such receiving bank or any other bank, or any court, become and be converted into accounts receivable to such receiving bank from the Financial Assistance Corporation, in the same amount as previously carried on the books of such receiving bank and such receivables shall, for all financial reporting purposes, be accounted for as an asset on the books of such receiving bank in accordance with generally accepted accounting practices.
 
 #### (2) Payments to receiving banks
 
@@ -86,7 +86,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (iii) Investment; availability
 
-&emsp;&emsp;&emsp;The funds received by the Financial Assistance Corporation pursuant to theagreements shall be invested in eligible investments as defined in section 2278b–5(a)(1) of this title. The funds and the earnings on the funds shall be available only for the payment of the principal of the bonds issued by the Financial Assistance Corporation under this subsection.
+&emsp;&emsp;&emsp;The funds received by the Financial Assistance Corporation pursuant to the agreements shall be invested in eligible investments as defined in section 2278b–5(a)(1) of this title. The funds and the earnings on the funds shall be available only for the payment of the principal of the bonds issued by the Financial Assistance Corporation under this subsection.
 
 #### (E) Financial reporting
 

@@ -36,7 +36,7 @@ If on the date of such short sale substantially identical property has been held
 
 &emsp;(D) a securities futures contract (as defined in section 1234B) to acquire substantially identical property shall be treated as substantially identical property; and
 
-&emsp;(E) entering into a securities futures contract (as so defined) to sell shall be considered to be a short sale, and the settlement of such contract shall be considered to be the closing of such short sale.
+&emsp;(E) entering into a securities futures contract (as so defined) to sell shall be considered to be a short sale, and the settlement of suchcontract shall be considered to be the closing of such short sale.
 
 (3) Where the taxpayer enters into 2 commodity futures transactions on the same day, one requiring delivery by him in one market and the other requiring delivery to him of the same (or substantially identical) commodity in the same calendar month in a different market, and the taxpayer subsequently closes both such transactions on the same day, subsections (b) and (d) shall have no application to so much of the commodity involved in either such transaction as does not exceed in quantity the commodity involved in the other.
 
@@ -158,5 +158,5 @@ Pub. L. 85–866, title I, §52(c), Sept. 2, 1958, 72 Stat. 1644, provided that:
 
 #### Effective Date of 1955 Amendment
 
-Act Aug. 12, 1955, ch. 871, §2, 69 Stat. 718, provided that: "The amendment made by the first section of thisAct \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Aug. 12, 1955\] and only in the case of a short sale of property made by the taxpayer after such date."
+Act Aug. 12, 1955, ch. 871, §2, 69 Stat. 718, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Aug. 12, 1955\] and only in the case of a short sale of property made by the taxpayer after such date."
 

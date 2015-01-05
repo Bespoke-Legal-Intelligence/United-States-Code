@@ -44,7 +44,7 @@ The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95�
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

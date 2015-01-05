@@ -10,7 +10,7 @@ The Secretary may award grants to and enter into contracts with eligible entitie
 
 #### (b) Definition of advanced education nurses
 
-For purposes of this section, the term "advanced education nurses" means individualstrained in advanced degree programs including individuals in combined R.N./Master's degree programs, post-nursing master's certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
+For purposes of this section, the term "advanced education nurses" means individuals trained in advanced degree programs including individuals in combined R.N./Master's degree programs, post-nursing master's certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
 
 #### (c) Authorized nurse practitioner
 

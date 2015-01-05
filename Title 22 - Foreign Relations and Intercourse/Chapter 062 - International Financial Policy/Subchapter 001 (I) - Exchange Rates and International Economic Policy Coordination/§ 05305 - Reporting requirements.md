@@ -6,7 +6,7 @@ In furtherance of the purpose of this chapter, the Secretary, after consultation
 
 #### (b) Contents of report
 
-Each report submitted under subsection (a) of this section shall contain—
+Each report submitted under subsection (a) shall contain—
 
 &emsp;(1) an analysis of currency market developments and the relationship between the United States dollar and the currencies of our major trade competitors;
 
@@ -38,5 +38,5 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce ofHouse of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

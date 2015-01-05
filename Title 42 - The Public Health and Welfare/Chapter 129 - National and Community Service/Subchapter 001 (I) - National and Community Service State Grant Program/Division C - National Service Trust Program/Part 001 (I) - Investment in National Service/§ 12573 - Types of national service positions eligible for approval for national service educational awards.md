@@ -30,7 +30,7 @@ The Domestic Volunteer Service Act of 1973, referred to in par. (3), is Pub. L. 
 
 #### Prior Provisions
 
-A prior section 12573, Pub. L. 101–610, title I, §143, Nov. 16, 1990, 104 Stat. 3152, related to types of nationalservice, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
+A prior section 12573, Pub. L. 101–610, title I, §143, Nov. 16, 1990, 104 Stat. 3152, related to types of national service, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
 
 A prior section 123 of Pub. L. 101–610 was renumbered section 199C, and is classified to section 12655b of this title.
 

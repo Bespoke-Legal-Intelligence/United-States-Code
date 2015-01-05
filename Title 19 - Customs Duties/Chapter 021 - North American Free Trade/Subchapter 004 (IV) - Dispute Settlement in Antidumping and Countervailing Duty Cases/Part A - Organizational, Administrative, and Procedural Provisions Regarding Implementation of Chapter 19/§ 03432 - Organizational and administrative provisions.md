@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Trade Representative shall select individuals from the respective lists prepared bythe interagency group under paragraph (2)(B)(i) for placement on—
+&emsp;&emsp;The Trade Representative shall select individuals from the respective lists prepared by the interagency group under paragraph (2)(B)(i) for placement on—
 
 &emsp;&emsp;&emsp;(i) a preliminary candidate list of individuals eligible to serve as members of binational panels under Annex 1901.2; and
 
@@ -196,7 +196,7 @@
 
 #### (e) Transition
 
-If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) of this section shall be applied with respect to thecalendar year in which such entering into force occurs—
+If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) of this section shall be applied with respect to the calendar year in which such entering into force occurs—
 
 &emsp;(1) by substituting "the date that is 30 days after the date on which the Agreement enters into force with respect to the United States" for "January 3 of each calendar year" in subsections (c)(2)(B)(i) and (c)(3)(B)(i) of this section; and
 

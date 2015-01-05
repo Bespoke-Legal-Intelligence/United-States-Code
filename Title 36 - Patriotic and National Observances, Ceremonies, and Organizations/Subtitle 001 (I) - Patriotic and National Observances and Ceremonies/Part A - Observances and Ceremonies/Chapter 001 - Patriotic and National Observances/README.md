@@ -55,9 +55,91 @@
 
 <b>2001</b>—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
-#### World War I Centennial Commission
+#### World War I Centennial
 
-Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, provided that:
+Pub. L. 113–291, div. B, title XXX, §3091(a)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3858–3860, provided that:
+
+"(a)
+
+Liberty Memorial as World War I Museum and Memorial.—
+
+&emsp;"(1)
+
+Designation of liberty memorial.—The Liberty Memorial of Kansas City at America's National World War I Museum in Kansas City, Missouri, is hereby designated as a 'World War I Museum and Memorial'.
+
+&emsp;"(2)
+
+Ceremonies.—The World War I Centennial Commission (in this section referred to as the 'Commission') may plan, develop, and execute ceremonies to recognize the designation of the Liberty Memorial of Kansas City as a World War I Museum and Memorial.
+
+"(b)
+
+Pershing Park as World War I Memorial.—
+
+&emsp;"(1)
+
+Redesignation of pershing park.—Pershing Park in the District of Columbia is hereby redesignated as a 'World War I Memorial'.
+
+&emsp;"(2)
+
+Ceremonies.—The Commission may plan, develop, and execute ceremonies for the rededication of Pershing Park, as it approaches its 50th anniversary, as a World War I Memorial and for the enhancement of the General Pershing Commemorative Work as authorized by paragraph (3).
+
+&emsp;"(3)
+
+Authority to enhance commemorative work.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Commission may enhance the General Pershing Commemorative Work by constructing on the land designated by paragraph (1) as a World War I Memorial appropriate sculptural and other commemorative elements, including landscaping, to further honor the service of members of the United States Armed Forces in World War I.
+
+&emsp;&emsp;"(B)
+
+General pershing commemorative work defined.—In this subsection, the term 'General Pershing Commemorative Work' means the memorial to the late John J. Pershing, General of the Armies of the United States, who commanded the American Expeditionary Forces in World War I, and to the officers and men under his command, as authorized by Public Law 89–786 (80 Stat. 1377).
+
+&emsp;"(4)
+
+Compliance with standards for commemorative works.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), chapter 89 of title 40, United States Code, applies to the enhancement of the General Pershing Commemorative Work under this subsection.
+
+&emsp;&emsp;"(B)
+
+Waiver of certain requirements.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Site selection for memorial.—Section 8905 of such title does not apply with respect to the selection of the site for the World War I Memorial.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Certain conditions.—Section 8908(b) of such title does not apply to this subsection.
+
+&emsp;"(5)
+
+No infringement upon existing memorial.—The World War I Memorial designated by paragraph (1) may not interfere with or encroach on the District of Columbia War Memorial.
+
+&emsp;"(6)
+
+Deposit of excess funds.—
+
+&emsp;&emsp;"(A)
+
+Use for other world war i commemorative activities.—If, upon payment of all expenses for the enhancement of the General Pershing Commemorative Work under this subsection (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for such purpose, the Commission may use the amount of the balance for other commemorative activities authorized under the World War I Centennial Commission Act (Public Law 112–272; 126 Stat. 2448) \[set out below\].
+
+&emsp;&emsp;"(B)
+
+Use for other commemorative works.—If the authority for enhancement of the General Pershing Commemorative Work and the authority of the Commission to plan and conduct commemorative activities under the World War I Centennial Commission Act have expired and there remains a balance of funds received for the enhancement of the General Pershing Commemorative Work, the Commission shall transmit the amount of the balance to a separate account with the National Park Foundation, to be available to the Secretary of the Interior following the process provided in section 8906(b)(4) of title 40, United States Code, for accounts established under section 8906(b)(3) of such title, except that funds in such account may only be obligated subject to appropriation.
+
+&emsp;"(7)
+
+Authorization to complete construction after termination of commission.—\[Amended section 8 of Pub. L. 112–272, set out below.\]
+
+"(c)
+
+Additional Amendments to World War I Centennial Commission Act.—\[Pars. (1) to (3)(B) amended sections 4, 7, and 9 of Pub. L. 112–272, set out below. Par. (3)(C) amended table of contents of Pub. L. 112–272, which was omitted from the Code.\]"
+
+Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -185,6 +267,46 @@ Quorum.—Seven members of the Centennial Commission shall constitute a quorum, 
 
 Chair and Vice Chair.—The Centennial Commission shall select a Chair and Vice Chair from among its members.
 
+"(e)
+
+Ex Officio and Other Advisory Members.—
+
+&emsp;"(1)
+
+Powers.—The individuals listed in paragraphs (2) and (3), or their designated representative, shall serve on the Centennial Commission solely to provide advice and information to the members of the Centennial Commission appointed pursuant to subsection (b)(1), and shall not be considered members for purposes of any other provision of this Act.
+
+&emsp;"(2)
+
+Ex officio members.—The following individuals shall serve as ex officio members:
+
+&emsp;&emsp;"(A) The Archivist of the United States.
+
+&emsp;&emsp;"(B) The Librarian of Congress.
+
+&emsp;&emsp;"(C) The Secretary of the Smithsonian Institution.
+
+&emsp;&emsp;"(D) The Secretary of Education.
+
+&emsp;&emsp;"(E) The Secretary of State.
+
+&emsp;&emsp;"(F) The Secretary of Veterans Affairs.
+
+&emsp;&emsp;"(G) The Administrator of General Services.
+
+&emsp;"(3)
+
+Other advisory members.—The following individuals shall serve as other advisory members:
+
+&emsp;&emsp;"(A) Four members appointed by the Secretary of Defense in the following manner: One from the Navy, one from the Marine Corps, one from the Army, and one from the Air Force.
+
+&emsp;&emsp;"(B) Two members appointed by the Secretary of Homeland Security in the following manner: One from the Coast Guard and one from the United States Secret Service.
+
+&emsp;&emsp;"(C) Two members appointed by the Secretary of the Interior, including one from the National Parks Service.
+
+&emsp;"(4)
+
+Vacancies.—A vacancy in a member position under paragraph (3) shall be filled in the same manner in which the original appointment was made.
+
 #### "SEC. 5. DUTIES OF CENTENNIAL COMMISSION.
 
 "(a)
@@ -253,7 +375,7 @@ Postal Services.—The Centennial Commission may use the United States mails in 
 
 "(g)
 
-Gifts, Bequests, and Devises.—The Centennial Commission shall accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
+Gifts, Bequests, and Devises.—The Centennial Commission shall accept, use, and dispose of gifts, bequests, or devises of services or property, both real andpersonal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
 
 #### "SEC. 7. CENTENNIAL COMMISSION PERSONNEL MATTERS.
 
@@ -279,11 +401,11 @@ Compensation.—
 
 &emsp;&emsp;"(A)
 
-In general.—Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1).
+In general.—Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1), without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates.
 
 &emsp;&emsp;"(B)
 
-Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable \[sic\] for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable \[sic\] for level II of the Executive Schedule under section 5315 of title 5, United States Code.
 
 &emsp;&emsp;"(C)
 
@@ -297,15 +419,11 @@ Detail of Government Employees.—Upon request of the Centennial Commission, the
 
 Procurement of Temporary and Intermittent Services.—The Chair of the Centennial Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
 
-"(f)
-
-Source of Funds.—Gifts, bequests, and devises of services or property, both real and personal, received by the Centennial Commission under section 6(g) shall be the only source of funds to cover the costs incurred by the Centennial Commission under this section.
-
 #### "SEC. 8. TERMINATION OF CENTENNIAL COMMISSION.
 
 "(a)
 
-In General.—The Centennial Commission shall terminate on the earlier of—
+In General.—Except as provided in subsection (c), the Centennial Commission shall terminate on the earlier of—
 
 &emsp;"(1) the date that is 30 days after the date the completion of the activities under this Act honoring the centennial observation of World War I; or
 
@@ -323,9 +441,13 @@ In general.—Except as provided in paragraph (2), the provisions of the Federal
 
 Exception.—Section 14(a)(2) of such Act shall not apply to the Centennial Commission.
 
-#### "SEC. 9. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS.
+"(c)
 
-"No Federal funds may be obligated to carry out this Act."
+Exception for Completion of World War I Memorial.—The Centennial Commission may perform such work as is necessary to complete the rededication of a World War I Memorial and enhancement of the General Pershing Commemorative Work under section 3091(b) of the National Defense Authorization Act for Fiscal Year 2015 \[Pub. L. 113–291, set out above\], subject to section 8903 of title 40, United States Code.
+
+#### "SEC. 9. LIMITATION ON OBLIGATION OF FEDERAL FUNDS.
+
+"No Federal funds may be obligated or expended for the designation, establishment, or enhancement of a memorial or commemorative work by the World War I Centennial Commission."
 
 #### Ronald Reagan Centennial Commission
 
@@ -447,7 +569,7 @@ Gifts, Bequests, Devises.—The Commission may solicit, accept, use, and dispose
 
 "(e)
 
-Available Space.—Upon the request of the Commission, the Administrator of General Services shallmake available nationwide to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
+Available Space.—Upon the request of the Commission, the Administrator of General Services shall make available nationwide to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
 
 "(f)
 
@@ -573,15 +695,15 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 8984. Armed Forces Day
+#### Proc. No. 9129. Armed Forces Day
 
-Proc. No. 8984, May 17, 2013, 78 F.R. 30731, provided:
+Proc. No. 9129, May 16, 2014, 79 F.R. 29321, provided:
 
-Since the earliest days of our Union, America has been blessed with an unbroken chain of patriots willing to give of themselves so their fellow citizens might live free. Whenever our Nation has come under attack, courageous men and women in uniform have risen to her defense. Whenever our liberties have come under assault, our service members have responded with resolve. Time and again, these heroes have sacrificed to sustain that powerful promise that we hold so dear—life, liberty, and the pursuit of happiness. And on Armed Forces Day, we honor those who serve bravely and sacrifice selflessly in our name.
+In every generation, there are men and women who stand apart. They put on the uniform and put their lives on the line so the rest of us might live in a safer, freer, more just world. They defend us in times of peace, times of war, and times of crisis, both natural and man-made. On Armed Forces Day, we honor the Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who render the highest service any American can offer.
 
-Our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen represent the best of the American character. They serve with integrity and do whatever the country they love asks of them, choosing flag over fortune and service over self-interest. Year after year, tour after tour, their dedication to protecting us at home and preserving our ideals never wavers; their commitment to each other never falters. They are the few who carry the remarkable weight of our entire Nation, and in their example we see why America is and always will be the greatest country on Earth.
+The patriots who stand sentry for our security are a proud link in an unbroken chain that stretches through the centuries. This generation has distinguished itself on mission after mission, tour after tour. Because of their heroism, the core of al-Qaeda is severely degraded and our homeland is more secure. Thanks to their extraordinary sacrifice, we are winding down more than a decade of war and strengthening alliances that extend our values. These are the gifts they have given us, and this is why we owe them a profound debt of gratitude.
 
-Today, we pause to express our gratitude, mindful that words and ceremonies are not enough and that our thanks extend not only to those in uniform, but also to the families who serve alongside them. We are bound by a sacred obligation to ensure our service members and their loved ones have the resources and benefits they have earned and deserve, and only when we uphold this trust do we truly show our appreciation for our Armed Forces.
+It is our obligation to ensure our troops have all they need to complete their missions abroad, but we must also support them when they return home. We must care for the families who serve alongside them and fulfill our promises today, tomorrow, and forever. And we must demonstrate our thanks by building a Nation worthy of their sacrifices, a Nation that lives up to our founding ideals and allows every citizen to write their chapter of the American story.
 
 NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
@@ -589,15 +711,17 @@ I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Ma
 
 I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
 
-Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops.
+Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops and their families.
 
-Proclamation 8823 of May 18, 2012, is hereby superseded.
+Proclamation 8984 of May 17, 2013, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this seventeenth day of May, in the year of our Lord two thousand thirteen, and of the Independence of the United States of America the two hundred and thirty-seventh.
+IN WITNESS WHEREOF, I have hereunto set my hand this sixteenth day of May, in the year of our Lord two thousand fourteen, and of the Independence of the United States of America the two hundred and thirty-eighth.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 8984, May 17, 2013, 78 F.R. 30731, superseded by Proc. No. 9129, May 16, 2014, 79 F.R. 29321.
 
 Proc. No. 8823, May 18, 2012, 77 F.R. 30875, superseded by Proc. No. 8984, May 17, 2013, 78 F.R. 30731.
 
@@ -673,7 +797,7 @@ Men and women on the autism spectrum have thrived and excelled in communities ac
 
 As our understanding of the autism spectrum grows, my Administration remains dedicated to supporting children and adults impacted by autism. Led by the Department of Health and Human Services, we have expanded investments in autism research, public health tracking, early detection, and services—from early intervention for children to improved long-term services and support programs for adults. My Administration maintains a firm commitment to advance autism research and treatment, as well as promote education, employment, and equality for all individuals with autism, from early childhood through employment and community life. We will continue to work with the Congress, experts, and families to improve Federal and State programs that assist individuals with ASDs and their families and to bolster the impact and reach of community support and services. I encourage all Americans to visit www.HHS.gov/autism for more information and resources on ASDs.
 
-With each breakthrough in research and each innovative treatment, we open endless possibilities for the many American families who have been touched by autism. As we mark World Autism Awareness Day, let us recommit to improving the lives of individuals andfamilies impacted by ASDs and creating a world free from discrimination where all can achieve their fullest potential.
+With each breakthrough in research and each innovative treatment, we open endless possibilities for the many American families who have been touched by autism. As we mark World Autism Awareness Day, let us recommit to improving the lives of individuals and families impacted by ASDs and creating a world free from discrimination where all can achieve their fullest potential.
 
 NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim April 2 of each year as World Autism Awareness Day. I call upon the people of the United States to learn more about autism and what they can do to support individuals on the autism spectrum and their families.
 

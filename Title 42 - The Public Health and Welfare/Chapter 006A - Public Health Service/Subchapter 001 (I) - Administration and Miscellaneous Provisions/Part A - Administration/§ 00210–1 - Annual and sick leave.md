@@ -48,7 +48,7 @@ Section 3(b), (c) of act Aug. 9, 1950, provided that any officer credited with m
 
 #### Availability of Funds
 
-Section 4 of act Aug. 9, 1950, provided for the availability of funds for payment of compensation for prioraccumulated and accrued leave for any officer under section 3 of this Act.
+Section 4 of act Aug. 9, 1950, provided for the availability of funds for payment of compensation for prior accumulated and accrued leave for any officer under section 3 of this Act.
 
 #### Leave Regulations
 

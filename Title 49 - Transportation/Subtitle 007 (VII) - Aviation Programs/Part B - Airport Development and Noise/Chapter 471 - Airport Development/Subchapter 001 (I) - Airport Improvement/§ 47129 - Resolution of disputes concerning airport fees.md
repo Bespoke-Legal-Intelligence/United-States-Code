@@ -44,7 +44,7 @@ Decisions By Secretary.—The final regulations, policy statements, or guideline
 
 &emsp;(4) If the Secretary, upon the expiration of 120 days after the filing of the complaint, has not issued a final order, the decision of the administrative law judge shall be deemed to be the final order of the Secretary.
 
-&emsp;(5) Any party to the dispute may seek review of a final order of the Secretary under thissubsection in the Circuit Court of Appeals for the District of Columbia Circuit or the court of appeals in the circuit where the airport which gives rise to the written complaint is located.
+&emsp;(5) Any party to the dispute may seek review of a final order of the Secretary under this subsection in the Circuit Court of Appeals for the District of Columbia Circuit or the court of appeals in the circuit where the airport which gives rise to the written complaint is located.
 
 &emsp;(6) Any findings of fact in a final order of the Secretary under this subsection, if supported by substantial evidence, shall be conclusive if challenged in a court pursuant to this subsection. No objection to such a final order shall be considered by the court unless objection was urged before an administrative law judge or the Secretary at a proceeding under this subsection or, if not so urged, unless there were reasonable grounds for failure to do so.
 
@@ -58,7 +58,7 @@ Payment under protest.—
 
 &emsp;&emsp;(A)
 
-In general.—Any fee increase or newly established fee which is the subject of a complaint that is not dismissed by the Secretary shall be paid by the complainant air carrier or foreign air carrier to the airport under protest.
+In general.—Any fee increase or newly established fee which is the subject ofa complaint that is not dismissed by the Secretary shall be paid by the complainant air carrier or foreign air carrier to the airport under protest.
 
 &emsp;&emsp;(B)
 

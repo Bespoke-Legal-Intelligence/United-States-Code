@@ -2,7 +2,7 @@
 
 (a)
 
-Acquisition Authority.—Using funds appropriated for a military construction projectauthorized by law for a military installation, the Secretary of the military department concerned may acquire an existing facility (including the real property on which the facility is located) at or near the military installation instead of carrying out the authorized military construction project if the Secretary determines that—
+Acquisition Authority.—Using funds appropriated for a military construction project authorized by law for a military installation, the Secretary of the military department concerned may acquire an existing facility (including the real property on which the facility is located) at or near the military installation instead of carrying out the authorized military construction project if the Secretary determines that—
 
 &emsp;(1) the acquisition of the facility satisfies the requirements of the military department concerned for the authorized military construction project; and
 

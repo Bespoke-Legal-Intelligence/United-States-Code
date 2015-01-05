@@ -6,7 +6,7 @@ It shall be the policy of the United States, in consultation with its internatio
 
 #### (b) NASA actions
 
-In furtherance of the policy set forth in subsection (a), NASA shall pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance, and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS.
+In furtherance of the policy set forth in subsection (a), NASA shall pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance,and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS.
 
 (Pub. L. 111–267, title V, §501, Oct. 11, 2010, 124 Stat. 2822.)
 

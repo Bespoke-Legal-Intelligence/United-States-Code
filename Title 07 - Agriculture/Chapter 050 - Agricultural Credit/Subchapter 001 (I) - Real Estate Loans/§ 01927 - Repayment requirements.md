@@ -22,7 +22,15 @@
 
 (D)
 
-Joint financing arrangement.—If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.
+Joint financing arrangements.—If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be a rate equal to the greater of—
+
+&emsp;(i) the difference between—
+
+&emsp;&emsp;(I) 2 percent; and
+
+&emsp;&emsp;(II) the interest rate for farm ownership loans under this subchapter; or
+
+&emsp;(ii) 2.5 percent.
 
 (E)
 
@@ -40,7 +48,7 @@ In general.—Except as provided in clause (ii) and notwithstanding subparagraph
 
 Exception.—Clause (i) does not apply to a loan for a specific project that is the subject of a loan that has been approved, but not closed, as of the date of enactment of this subparagraph.
 
-(4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1) and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in theRural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
+(4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1) and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
 
 (5)(A) Except as provided in subparagraph (B), the interest rate on any loan made under this subchapter as a guaranteed loan shall be such rate as may be agreed upon by the borrower and the lender, but not in excess of a rate as may be determined by the Secretary.
 
@@ -66,11 +74,7 @@ The borrower shall pay such fees and other charges as the Secretary may require,
 
 The Secretary shall take as security for the obligations entered into in connection with loans, mortgages on farms with respect to which such loans are made or such other security as the Secretary may require, and for obligations in connection with loans to associations under section 1926 of this title, shall take liens on the facility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notes may be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
 
-#### (d) Mineral rights as collateral
-
-With respect to a farm ownership loan made after December 23, 1985, unless appraised values of the rights to oil, gas, or other minerals are specifically included as part of the appraised value of collateral securing the loan, the rights to oil, gas, or other minerals located under the property shall not be considered part of the collateral securing the loan. Nothing in this subsection shall prevent the inclusion of, as part of the collateral securing the loan, any payment or other compensation the borrower may receive for damages to the surface of the collateral real estate resulting from the exploration for or recovery of minerals.
-
-#### (e) Additional collateral
+#### (d) Additional collateral
 
 The Secretary may not—
 
@@ -78,19 +82,23 @@ The Secretary may not—
 
 &emsp;(2) bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.
 
-(Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a), title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, §4(a), title VI, §§6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927.)
+(Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a), title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, §4(a), title VI, §§6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927; Pub. L. 113–79, title V, §§5003, 5004, Feb. 7, 2014, 128 Stat. 834.)
 
 #### References in Text
 
 The date of enactment of this subparagraph, referred to in subsec. (a)(3)(E)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-For definition of "this chapter", referred to in subsecs. (a)(6)(A) and (e)(1), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsecs. (a)(6)(A), (b), and (d)(1), see note set out under section 1921 of this title.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(3)(D). Pub. L. 113–79, §5003, added subpar. (D) and struck out former subpar. (D). Prior to amendment, text read as follows: "If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually."
+
+Subsecs. (d), (e). Pub. L. 113–79, §5004, redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "With respect to a farm ownership loan made after December 23, 1985, unless appraised values of the rights to oil, gas, or other minerals are specifically included as part of the appraised value of collateral securing the loan, the rights to oil, gas, or other minerals located under the property shall not be considered part of the collateral securing the loan. Nothing in this subsection shall prevent the inclusion of, as part of the collateral securing the loan, any payment or other compensation the borrower may receive for damages to the surface of the collateral real estate resulting from the exploration for or recovery of minerals."
 
 <b>2008</b>—Subsec. (a)(3)(E). Pub. L. 110–246, §6011, added subpar. (E).
 
@@ -126,7 +134,7 @@ Subsec. (a)(3)(B). Pub. L. 101–624, §1803(a), amended subpar. (B) generally. 
 
 Subsec. (a)(3)(C). Pub. L. 101–624, §2383(2), added subpar. (C).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–233, §603, inserted provisions at end relating to use of same collateral to secure two or more loans made, insured, or guaranteed under this subchapter.
+<b>1988</b>—Subsec. (c). Pub. L. 100–233, §603, inserted provisions at end relating to use of same collateral to securetwo or more loans made, insured, or guaranteed under this subchapter.
 
 Subsec. (e). Pub. L. 100–233, §604, added subsec. (e).
 
@@ -170,7 +178,7 @@ Pub. L. 102–552, title V, §516(c)(2), Oct. 28, 1992, 106 Stat. 4137, provided
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title I, §160(c), Aug. 13, 1981, 95 Stat. 378, provided that: "The amendments made by this section\[amending this section and section 1946 of this title\] shall apply to loans approved after September 30, 1981."
+Pub. L. 97–35, title I, §160(c), Aug. 13, 1981, 95 Stat. 378, provided that: "The amendments made by this section \[amending this section and section 1946 of this title\] shall apply to loans approved after September 30, 1981."
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

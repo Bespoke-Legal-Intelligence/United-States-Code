@@ -28,7 +28,7 @@ The President shall select appropriate remedial actions determined to be necessa
 
 #### (c) Review
 
-If the President selects a remedial action that results in any hazardous substances, pollutants, or contaminants remaining at the site, the President shall review such remedial action no less often than each 5 years after the initiation of such remedial action to assure that human health and the environment are being protected by the remedial action being implemented. In addition, if upon such review it is the judgment of the President that action is appropriate at such site in accordance with section 9604 or 9606 of this title, the President shall take or require such action. The President shall report to the Congress a list of facilities for which such review is required, the results of all such reviews, and any actions taken as a result of such reviews.
+If the President selects a remedial action that results in any hazardous substances, pollutants, or contaminants remaining at the site, the President shall review such remedial action no less often than each 5 years after the initiation of such remedial action to assure that humanhealth and the environment are being protected by the remedial action being implemented. In addition, if upon such review it is the judgment of the President that action is appropriate at such site in accordance with section 9604 or 9606 of this title, the President shall take or require such action. The President shall report to the Congress a list of facilities for which such review is required, the results of all such reviews, and any actions taken as a result of such reviews.
 
 #### (d) Degree of cleanup
 
@@ -64,11 +64,11 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(II) The State standard, requirement, criteria, or limitation was adopted on the basis of hydrologic, geologic, or other relevant considerations and was not adopted for the purpose of precluding onsite remedial actions or other land disposal for reasons unrelated to protection of human health and the environment.
 
-&emsp;(III) The State arranges for, and assures payment of the incremental costs of utilizing, a facility for disposition of the hazardous substances, pollutants, or contaminants concerned.
+&emsp;(III) The State arranges for, and assures payment of the incremental costs of utilizing, afacility for disposition of the hazardous substances, pollutants, or contaminants concerned.
 
 (iv) Where the remedial action selected by the President does not conform to a State standard and the State has initiated a law suit against the Environmental Protection Agency prior to May 1, 1986, to seek to have the remedial action conform to such standard, the President shall conform the remedial action to the State standard. The State shall assure the availability of an offsite facility for such remedial action.
 
-(3) In the case of any removal or remedial action involving the transfer of any hazardous substance or pollutant or contaminant offsite, such hazardous substance or pollutant or contaminant shall only be transferred to a facility which is operating in compliance with section 3004 and 3005 of the Solid Waste Disposal Act \[42 U.S.C. 6924, 6925\] (or, where applicable, in compliance with the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or other applicable Federal law) and all applicable State requirements. Such substance or pollutant or contaminant may be transferred to a land disposal facilityonly if the President determines that both of the following requirements are met:
+(3) In the case of any removal or remedial action involving the transfer of any hazardous substance or pollutant or contaminant offsite, such hazardous substance or pollutant or contaminant shall only be transferred to a facility which is operating in compliance with section 3004 and 3005 of the Solid Waste Disposal Act \[42 U.S.C. 6924, 6925\] (or, where applicable, in compliance with the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or other applicable Federal law) and all applicable State requirements. Such substance or pollutant or contaminant may be transferred to a land disposal facility only if the President determines that both of the following requirements are met:
 
 &emsp;(A) The unit to which the hazardous substance or pollutant or contaminant is transferred is not releasing any hazardous waste, or constituent thereof, into the groundwater or surface water or soil.
 
@@ -154,7 +154,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 The Solid Waste Disposal Act, referred to in subsecs. (b)(1)(B) and (d)(2)(A)(i), (3)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-This chapter, referred to in subsecs. (d)(1) and (e)(2), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (d)(1) and (e)(2), was in the original "this Act", meaning Pub. L. 96–510,Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Toxic Substances Control Act, referred to in subsec. (d)(2)(A)(i), (3), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
@@ -162,7 +162,7 @@ The Safe Drinking Water Act, referred to in subsec. (d)(2)(A), is title XIV of a
 
 The Clean Air Act, referred to in subsec. (d)(2)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-The Clean Water Act, referred to in subsec. (d)(2)(A)(i), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat.816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Clean Water Act, referred to in subsec. (d)(2)(A)(i), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(2)(A)(i), probably means the Marine Protection, Research and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 

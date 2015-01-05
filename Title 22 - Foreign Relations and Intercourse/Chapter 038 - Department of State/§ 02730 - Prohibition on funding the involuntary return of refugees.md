@@ -8,7 +8,7 @@
 
 #### (2) Exception
 
-&emsp;The prohibition in paragraph (1) does not apply to the return of any person on groundsrecognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate resolution of advice and consent to ratification of the Protocol.
+&emsp;The prohibition in paragraph (1) does not apply to the return of any person on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate resolution of advice and consent to ratification of the Protocol.
 
 #### (b) Congressional notification required in all cases
 

@@ -48,7 +48,7 @@ Driver's license.—The term "driver's license" means a license issued by a Stat
 
 Drug offense.—The term "drug offense" means any criminal offense which proscribes—
 
-&emsp;&emsp;(A) the possession, distribution, manufacture, cultivation, sale, transfer, or the attempt or conspiracy to possess, distribute, manufacture, cultivate, sell, or transfer anysubstance the possession of which is prohibited under the Controlled Substances Act; or
+&emsp;&emsp;(A) the possession, distribution, manufacture, cultivation, sale, transfer, or the attempt or conspiracy to possess, distribute, manufacture, cultivate, sell, or transfer any substance the possession of which is prohibited under the Controlled Substances Act; or
 
 &emsp;&emsp;(B) the operation of a motor vehicle under the influence of such a substance.
 
@@ -64,7 +64,7 @@ The date of enactment of the Transportation Equity Act for the 21st Century, ref
 
 The effective date of this section, referred to in subsec. (a)(1), (3)(B)(i), is Nov. 5, 1990. See section 333(e) of Pub. L. 102–143, set out as a note below.
 
-The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
 

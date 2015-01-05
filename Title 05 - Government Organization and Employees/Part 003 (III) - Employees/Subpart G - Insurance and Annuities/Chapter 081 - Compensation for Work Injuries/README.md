@@ -36,7 +36,7 @@
 | [8124\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008124%20-%20Findings%20and%20award%3B%20hearings.md) | Findings and award; hearings. |
 | [8125\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008125%20-%20Misbehavior%20at%20proceedings.md) | Misbehavior at proceedings. |
 | [8126\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008126%20-%20Subpenas%3B%20oaths%3B%20examination%20of%20witnesses.md) | Subpenas; oaths; examination of witnesses. |
-| [8127\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008127%20-%20Representation%3B%20attorneys%E2%80%99%20fees.md) | Representation; attorneys’ fees. |
+| [8127\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008127%20-%20Representation%3B%20attorneys%27%20fees.md) | Representation; attorneys' fees. |
 | [8128\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008128%20-%20Review%20of%20award.md) | Review of award. |
 | [8129\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008129%20-%20Recovery%20of%20overpayments.md) | Recovery of overpayments. |
 | [8130\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008130%20-%20Assignment%20of%20claim.md) | Assignment of claim. |
@@ -49,7 +49,7 @@
 | [8137\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008137%20-%20Compensation%20for%20noncitizens%20and%20nonresidents.md) | Compensation for noncitizens and nonresidents. |
 | [8138\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008138%20-%20Minimum%20limit%20modification%20for%20noncitizens%20and%20aliens.md) | Minimum limit modification for noncitizens and aliens. |
 | [8139\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008139%20-%20Employees%20of%20the%20District%20of%20Columbia.md) | Employees of the District of Columbia. |
-| [8140\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008140%20-%20Members%20of%20the%20Reserve%20Officers%E2%80%99%20Training%20Corps.md) | Members of the Reserve Officers’ Training Corps. |
+| [8140\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008140%20-%20Members%20of%20the%20Reserve%20Officers%27%20Training%20Corps.md) | Members of the Reserve Officers' Training Corps. |
 | [8141\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008141%20-%20Civil%20Air%20Patrol%20volunteers.md) | Civil Air Patrol volunteers. |
 | [8142\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008142%20-%20Peace%20Corps%20volunteers.md) | Peace Corps volunteers. |
 | [8143\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008143%20-%20Job%20Corps%20enrollees%3B%20volunteers%20in%20service%20to%20America.md) | Job Corps enrollees; volunteers in service to America. |
@@ -58,7 +58,7 @@
 | [8145\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008145%20-%20Administration.md) | Administration. |
 | [8146\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008146%20-%20Administration%20for%20the%20Panama%20Canal%20Commission%20and%20The%20Alaska%20Railroad.md) | Administration for the Panama Canal Commission and The Alaska Railroad. |
 | [8146a.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008146a%20-%20Cost-of-living%20adjustment%20of%20compensation.md) | Cost-of-living adjustment of compensation. |
-| [8147\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008147%20-%20Employees%E2%80%99%20Compensation%20Fund.md) | Employees’ Compensation Fund. |
+| [8147\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008147%20-%20Employees%27%20Compensation%20Fund.md) | Employees' Compensation Fund. |
 | [8148\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008148%20-%20Forfeiture%20of%20benefits%20by%20convicted%20felons.md) | Forfeiture of benefits by convicted felons. |
 | [8149\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008149%20-%20Regulations.md) | Regulations. |
 | [8150\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008150%20-%20Effect%20on%20other%20statutes.md) | Effect on other statutes. |
@@ -95,13 +95,13 @@
 
 <b>1994</b>—Pub. L. 103–333, title I, §101(a)(2), Sept. 30, 1994, 108 Stat. 2547, added item 8148.
 
-<b>1979</b>—Pub. L. 96–70, title III, §3302(e)(12), Sept. 27, 1979, 93 Stat. 499, substituted “Panama Canal Commission” for “Canal Zone” in item 8146.
+<b>1979</b>—Pub. L. 96–70, title III, §3302(e)(12), Sept. 27, 1979, 93 Stat. 499, substituted "Panama Canal Commission" for "Canal Zone" in item 8146.
 
-<b>1974</b>—Pub. L. 93–416, §§12(b), 23(a), Sept. 7, 1974, 88 Stat. 1146, 1150, substituted “Notice of injury or death” for “Notice of injury; failure to give” in item 8119, and added item 8151.
+<b>1974</b>—Pub. L. 93–416, §§12(b), 23(a), Sept. 7, 1974, 88 Stat. 1146, 1150, substituted "Notice of injury or death" for "Notice of injury; failure to give" in item 8119, and added item 8151.
 
 <b>1968</b>—Pub. L. 90–291, §1(b), Apr. 19, 1968, 82 Stat. 100, added subchapter III consisting of items 8191, 8192, and 8193.
 
-<b>1967</b>—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
+<b>1967</b>—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted "; hearings" in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

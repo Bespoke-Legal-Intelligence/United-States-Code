@@ -92,7 +92,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (1) Commencement of repayment
 
-&emsp;Repayment of principal on loans made under this section shall begin at the beginning of therepayment period described in section 1078(b)(7) of this title. Not less than 30 days prior to the anticipated commencement of such repayment period, the holder of such loan shall provide notice to the borrower that interest will accrue before repayment begins and of the borrower's option to begin loan repayment at an earlier date.
+&emsp;Repayment of principal on loans made under this section shall begin at the beginning of the repayment period described in section 1078(b)(7) of this title. Not less than 30 days prior to the anticipated commencement of such repayment period, the holder of such loan shall provide notice to the borrower that interest will accrue before repayment begins and of the borrower's option to begin loan repayment at an earlier date.
 
 #### (2) Capitalization of interest
 
@@ -182,7 +182,7 @@ Subsec. (d)(2)(D). Pub. L. 109–171, §8005(d)(2), substituted "$7,000" for "$5
 
 Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end "Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders."
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
+<b>1998</b>—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior toamendment, text read as follows: "Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
 
 &emsp;"(1) sets forth such student's estimated cost of attendance (as determined under section 1087ll of this title);
 

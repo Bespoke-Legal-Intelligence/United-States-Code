@@ -106,7 +106,7 @@ In general.—Regulations to carry out section 624 of the Fair Credit Reporting 
 
 "(2)
 
-Coordination.—Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each suchentity are consistent and comparable with the regulations prescribed by each other such agency.
+Coordination.—Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
 
 "(3)
 

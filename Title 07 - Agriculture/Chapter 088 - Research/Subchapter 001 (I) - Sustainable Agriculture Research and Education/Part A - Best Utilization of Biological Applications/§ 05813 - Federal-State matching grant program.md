@@ -42,11 +42,15 @@ States eligible to receive a grant under this section may conduct a variety of a
 
 #### (1) Limits
 
-&emsp;Subject to paragraph (2), the Secretary shall provide grants to eligible States in an amount not to exceed 50 percent of the cost of the establishment or enhancement of a State sustainable agriculture program under a plan approved by the Secretary under subsection (c) of this section for a period not to exceed 5 years.
+&emsp;Subject to paragraph (2), the Secretary shall provide grants to eligible States in an amount not to exceed 50 percent of the cost of the establishment or enhancement of a State sustainable agriculture program under a plan approved by the Secretary under subsection (c) for a period not to exceed 5 years.
 
 #### (2) State contribution
 
-&emsp;To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c) of this section.
+&emsp;To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c). The matching funds requirement under section 3371 of this title shall not apply to grants awarded under this section.
 
-(Pub. L. 101–624, title XVI, §1623, Nov. 28, 1990, 104 Stat. 3738.)
+(Pub. L. 101–624, title XVI, §1623, Nov. 28, 1990, 104 Stat. 3738; Pub. L. 113–79, title VII, §7128(b)(2)(A), Feb. 7, 2014, 128 Stat. 878.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (d)(2). Pub. L. 113–79 inserted at end "The matching funds requirement under section 3371 of this title shall not apply to grants awarded under this section."
 

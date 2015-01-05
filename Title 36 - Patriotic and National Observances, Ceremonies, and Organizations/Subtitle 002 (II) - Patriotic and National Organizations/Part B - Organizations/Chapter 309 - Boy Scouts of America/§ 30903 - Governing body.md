@@ -2,7 +2,7 @@
 
 (a)
 
-Executive Board.—An executive board composed of citizens of the United States is the governing body of the corporation. The number, qualifications, and term of office of members ofthe board are as provided in the bylaws. A vacancy on the board shall be filled by a majority vote of the remaining members of the board.
+Executive Board.—An executive board composed of citizens of the United States is the governing body of the corporation. The number, qualifications, and term of office of members of the board are as provided in the bylaws. A vacancy on the board shall be filled by a majority vote of the remaining members of the board.
 
 (b)
 

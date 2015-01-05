@@ -88,7 +88,7 @@ The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 5
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 125 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 125 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 

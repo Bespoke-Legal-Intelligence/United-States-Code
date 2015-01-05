@@ -38,7 +38,7 @@ For purposes of this part—
 
 > &emsp;without regard to whether such article is in fact distributed in commerce for industrial or commercial use.
 
-&emsp;(B) The types of equipment referred to in this subparagraph (in addition to electric motors and pumps, commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air-conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks) are as follows:
+&emsp;(B) The types of equipment referred to in this subparagraph (in addition to electric motors and pumps, commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air-conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers,storage water heaters, instantaneous water heaters, and unfired hot water storage tanks) are as follows:
 
 &emsp;&emsp;(i) compressors;
 
@@ -124,7 +124,7 @@ For purposes of this part—
 
 &emsp;(11)(A) The term "warm air furnace" means a self-contained oil- or gas-fired furnace designed to supply heated air through ducts to spaces that require it and includes combination warm air furnace/electric air conditioning units but does not include unit heaters and duct furnaces.
 
-&emsp;(B) The term "packaged boiler" means a boiler that is shipped complete with heating equipment, mechanical draft equipment, and automatic controls; usually shipped in one or more sections.
+&emsp;(B) The term "packaged boiler" means a boiler that is shipped complete with heatingequipment, mechanical draft equipment, and automatic controls; usually shipped in one or more sections.
 
 &emsp;(12)(A) The term "storage water heater" means a water heater that heats and stores water within the appliance at a thermostatically controlled temperature for delivery on demand. Such term does not include units with an input rating of 4000 Btu per hour or more per gallon of stored water.
 

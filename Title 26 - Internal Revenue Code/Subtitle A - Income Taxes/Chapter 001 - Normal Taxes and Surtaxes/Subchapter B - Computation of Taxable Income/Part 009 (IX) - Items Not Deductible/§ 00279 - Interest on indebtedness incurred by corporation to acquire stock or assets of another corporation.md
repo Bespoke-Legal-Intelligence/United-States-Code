@@ -6,11 +6,11 @@ No deduction shall be allowed for any interest paid or incurred by a corporation
 
 &emsp;(1) $5,000,000, reduced by
 
-&emsp;(2) the amount of interest paid or incurred by such corporation during such year on obligations (A) issued after December 31, 1967, to provide consideration for an acquisition described in paragraph (1) of subsection (b), but (B) which are not corporate acquisition indebtedness.
+&emsp;(2) the amount of interest paid or incurred by such corporation during such year on obligations (A) issued to provide consideration for an acquisition described in paragraph (1) of subsection (b), but (B) which are not corporate acquisition indebtedness.
 
 #### (b) Corporate acquisition indebtedness
 
-For purposes of this section, the term "corporate acquisition indebtedness" means any obligation evidenced by a bond, debenture, note, or certificate or other evidence of indebtedness issued after October 9, 1969, by a corporation (hereinafter in this section referred to as "issuing corporation") if—
+For purposes of this section, the term "corporate acquisition indebtedness" means any obligation evidenced by a bond, debenture, note, or certificate or other evidence of indebtedness issued by a corporation (hereinafter in this section referred to as "issuing corporation") if—
 
 &emsp;(1) such obligation is issued to provide consideration for the acquisition of—
 
@@ -84,7 +84,7 @@ For purposes of subsection (b)(4)—
 
 &emsp;&emsp;(B) in determining under paragraph (4) the annual interest to be paid or incurred by such corporation (or by the issuing and acquired corporations referred to in paragraph (4)(B) or by the affiliated group of which such corporation is a member) the amount of such interest (determined without regard to this paragraph) shall be reduced by an amount which bears the same ratio to the amount of such interest as the amount of the reduction for the taxable year under subparagraph (A) bears to the total indebtedness of such corporation; and
 
-&emsp;&emsp;(C) in determining under paragraph (3)(B) the average annual earnings, the amount of the earnings and profits for the 3-year period shall be reduced by the sum of the reductions under subparagraph (B) for such period.
+&emsp;&emsp;(C) in determining under paragraph (3)(B) the average annual earnings, the amount ofthe earnings and profits for the 3-year period shall be reduced by the sum of the reductions under subparagraph (B) for such period.
 
 > &emsp;For purposes of this paragraph, the term "lending or finance business" means a business of making loans or purchasing or discounting accounts receivable, notes, or installment obligations.
 
@@ -110,7 +110,7 @@ In applying this section—
 
 #### (5) 5 percent stock rule
 
-&emsp;In the case of obligations issued to provide consideration for the acquisition of stock inanother corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time after October 9, 1969, and before the close of such year the issuing corporation owns 5 percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
+&emsp;In the case of obligations issued to provide consideration for the acquisition of stock in another corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time before the close of such year the issuing corporation owns 5 percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
 
 #### (e) Certain nontaxable transactions
 
@@ -132,25 +132,39 @@ For purposes of this section—
 
 &emsp;(2) Any obligation which is corporate acquisition indebtedness of the issuing corporation is also corporate acquisition indebtedness of any corporation which becomes liable for such obligation as guarantor, endorser, or indemnitor or which assumes liability for such obligation in any transaction.
 
-#### (i) Certain obligations issued after October 9, 1969
-
-For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
-
-&emsp;(1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
-
-&emsp;(2) stock in any corporation where the issuing corporation, on October 9, 1969, and at all times thereafter before such acquisition, owned at least 50 percent of the total combined voting power of all classes of stock entitled to vote of the acquired corporation.
-
-#### (j) Effect on other provisions
+#### (i) Effect on other provisions
 
 No inference shall be drawn from any provision in this section that any instrument designated as a bond, debenture, note, or certificate or other evidence of indebtedness by its issuer represents an obligation or indebtedness of such issuer in applying any other provision of this title.
 
-(Added Pub. L. 91–172, title IV, §411(a), Dec. 30, 1969, 83 Stat. 604; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–514, §1(a), Oct. 15, 1976, 90 Stat. 2443.)
+(Added Pub. L. 91–172, title IV, §411(a), Dec. 30, 1969, 83 Stat. 604; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–514, §1(a), Oct. 15, 1976, 90 Stat. 2443; Pub. L. 113–295, div. A, title II, §221(a)(47)(A), Dec. 19, 2014, 128 Stat. 4045.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–295, §221(a)(47)(A)(i), struck out "after December 31, 1967," after "(A) issued".
+
+Subsec. (b). Pub. L. 113–295, §221(a)(47)(A)(ii), struck out "after October 9, 1969," after "evidence of indebtedness issued" in introductory provisions.
+
+Subsec. (d)(5). Pub. L. 113–295, §221(a)(47)(A)(iii), struck out "after October 9, 1969, and" after "some time".
+
+Subsecs. (i), (j). Pub. L. 113–295, §221(a)(47)(A)(iv), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read as follows: "For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
+
+&emsp;"(1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
+
+&emsp;"(2) stock in any corporation where the issuing corporation, on October 9, 1969, and at all times thereafter before such acquisition, owned at least 50 percent of the total combined voting power of all classes of stock entitled to vote of the acquired corporation."
 
 <b>1976</b>—Subsecs. (c)(3)(B), (g). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 Subsec. (i). Pub. L. 94–514 struck out provisions that par. (2) would cease to apply when (at any time on or after October 9, 1969) the issuing corporation has acquired control (as defined in section 368(c)) of the acquired corporation.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title II, §221(a)(47)(B), Dec. 19, 2014, 128 Stat. 4045, provided that: "The amendments made by this paragraph \[amending this section\] shall not—
+
+&emsp;"(i) apply to obligations issued on or before October 9, 1969 (determined in the same manner as under section 279 of the Internal Revenue Code of 1986 as in effect before such amendments), and
+
+&emsp;"(ii) be construed to require interest on obligations issued on or before December 31, 1967, to be taken into account under section 279(a)(2) of such Code (as in effect after such amendments)."
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

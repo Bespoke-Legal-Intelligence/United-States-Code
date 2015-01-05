@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-From amounts made available under section 1022h of this title, the Secretary is authorized toaward grants, on a competitive basis, to eligible partnerships, to enable the eligible partnerships to carry out the activities described in subsection (c).
+From amounts made available under section 1022h of this title, the Secretary is authorized to award grants, on a competitive basis, to eligible partnerships, to enable the eligible partnerships to carry out the activities described in subsection (c).
 
 #### (b) Application
 
@@ -64,7 +64,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;&emsp;(A) a demonstration that the schools and departments within the institution of higher education that are part of the induction program will effectively prepare teachers, including providing content expertise and expertise in teaching, as appropriate;
 
-&emsp;&emsp;(B) a demonstration of the eligible partnership's capability and commitment to, and the accessibility to and involvement of faculty in, the use of empirically-based practiceand scientifically valid research on teaching and learning;
+&emsp;&emsp;(B) a demonstration of the eligible partnership's capability and commitment to, and the accessibility to and involvement of faculty in, the use of empirically-based practice and scientifically valid research on teaching and learning;
 
 &emsp;&emsp;(C) a description of how the teacher preparation program will design and implement an induction program to support, through not less than the first two years of teaching, all new teachers who are prepared by the teacher preparation program in the partnership and who teach in the high-need local educational agency in the partnership, and, to the extent practicable, all new teachers who teach in such high-need local educational agency, in the further development of the new teachers' teaching skills, including the use of mentors who are trained and compensated by such program for the mentors' work with new teachers; and
 
@@ -92,7 +92,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;&emsp;(I) new or prospective teachers to be highly qualified (including teachers in rural school districts who may teach multiple subjects, special educators, and teachers of students who are limited English proficient who may teach multiple subjects);
 
-&emsp;&emsp;&emsp;&emsp;(II) such teachers and, as applicable, early childhood educators, to understand empirically-based practice and scientifically valid research related to teaching and learning and the applicability of such practice and research, including through the effective use of technology, instructional techniques, and strategies consistent with the principles of universal design for learning, and through positive behavioral interventions and support strategies to improve student achievement; and
+&emsp;&emsp;&emsp;&emsp;(II) such teachers and, as applicable, early childhood educators, to understand empirically-based practice and scientifically valid research related to teaching and learning and the applicability of such practice and research, including through the effective use of technology, instructional techniques, and strategiesconsistent with the principles of universal design for learning, and through positive behavioral interventions and support strategies to improve student achievement; and
 
 &emsp;&emsp;&emsp;&emsp;(III) as applicable, early childhood educators to be highly competent; and
 
@@ -262,7 +262,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 #### (ii) Selection criteria
 
-&emsp;&emsp;&emsp;An eligible partnership carrying out a teaching residency program under thissubsection shall establish criteria for the selection of eligible individuals to participate in the teaching residency program based on the following characteristics:
+&emsp;&emsp;&emsp;An eligible partnership carrying out a teaching residency program under this subsection shall establish criteria for the selection of eligible individuals to participate in the teaching residency program based on the following characteristics:
 
 &emsp;&emsp;&emsp;&emsp;(I) Strong content knowledge or record of accomplishment in the field or subject area to be taught.
 
@@ -322,7 +322,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;(ii) provide a climate conducive to the professional development of teachers, with a focus on improving student academic achievement and the development of effective instructional leadership skills;
 
-&emsp;&emsp;&emsp;(iii) understand the teaching and assessment skills needed to support successfulclassroom instruction and to use data to evaluate teacher instruction and drive teacher and student learning;
+&emsp;&emsp;&emsp;(iii) understand the teaching and assessment skills needed to support successful classroom instruction and to use data to evaluate teacher instruction and drive teacher and student learning;
 
 &emsp;&emsp;&emsp;(iv) manage resources and school time to improve student academic achievement and ensure the school environment is safe;
 
@@ -404,7 +404,7 @@ The Secretary shall—
 
 #### (j) Construction
 
-Nothing in this section shall be construed to prohibit an eligible partnership from usinggrant funds to coordinate with the activities of eligible partnerships in other States or on a regional basis through Governors, State boards of education, State educational agencies, State agencies responsible for early childhood education, local educational agencies, or State agencies for higher education.
+Nothing in this section shall be construed to prohibit an eligible partnership from using grant funds to coordinate with the activities of eligible partnerships in other States or on a regional basis through Governors, State boards of education, State educational agencies, State agencies responsible for early childhood education, local educational agencies, or State agencies for higher education.
 
 #### (k) Supplement, not supplant
 

@@ -104,7 +104,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "high-need school" means a school that, based on the most recent data available, meets one or both of the following:
+&emsp;&emsp;The term "high-need school" means a school that, based on the most recent dataavailable, meets one or both of the following:
 
 &emsp;&emsp;&emsp;(i) The school is in the highest quartile of schools in a ranking of all schools served by a local educational agency, ranked in descending order by percentage of students from low-income families enrolled in such schools, as determined by the local educational agency based on one of the following measures of poverty:
 
@@ -140,7 +140,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded underpart A of title IV of the Social Security Act; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded under part A of title IV of the Social Security Act; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) eligible to receive medical assistance under the Medicaid program;
 
@@ -186,7 +186,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) assist new teachers with the effective use and integration of technology in the classroom.
 
-&emsp;&emsp;(G) Interdisciplinary collaboration among exemplary teachers, faculty, researchers, and other staff who prepare new teachers with respect to the learning process and the assessment of learning.
+&emsp;&emsp;(G) Interdisciplinary collaboration among exemplary teachers, faculty, researchers,and other staff who prepare new teachers with respect to the learning process and the assessment of learning.
 
 &emsp;&emsp;(H) Assistance with the understanding of data, particularly student achievement data, and the applicability of such data in classroom instruction.
 
@@ -318,7 +318,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
 
-&emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-basedassessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
+&emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-based assessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
 
 &emsp;&emsp;(F) effectively manage a classroom, including the ability to implement positive behavioral interventions and support strategies;
 
@@ -346,7 +346,7 @@ Another prior section 1021, Pub. L. 89–329, title II, §201, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
+<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master'sdegree, attains full State teacher certification or licensure, and becomes highly qualified."
 
 #### Effective Date of 2009 Amendment
 

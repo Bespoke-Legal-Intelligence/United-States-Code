@@ -10,7 +10,7 @@
 
 #### (A) Knowing violations
 
-&emsp;&emsp;Except as otherwise provided by subtitle B of the Consumer Financial Protection Act of2010, in the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Federal Trade Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
+&emsp;&emsp;Except as otherwise provided by subtitle B of the Consumer Financial Protection Act of 2010, in the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Federal Trade Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
 
 #### (B) Determining penalty amount
 
@@ -116,7 +116,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 #### (2) Deference
 
-&emsp;Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter <sup>2</sup> The regulations prescribed by the Bureau under this subchapter shall apply to any person that is subject to this subchapter, notwithstanding the enforcement authorities granted to other agencies under this section.
+&emsp;Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter <sup>2</sup> The regulations prescribed by theBureau under this subchapter shall apply to any person that is subject to this subchapter, notwithstanding the enforcement authorities granted to other agencies under this section.
 
 #### (f) Coordination of consumer complaint investigations
 
@@ -198,7 +198,7 @@ Subsec. (g). Pub. L. 108–159, §412(e), added subsec. (g).
 
 <b>1999</b>—Subsec. (a)(4). Pub. L. 106–102, §506(b), struck out par. (4) which read as follows: "Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter."
 
-Subsec. (d). Pub. L. 106–102, §506(a)(1), struck out at the end "Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may,during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter."
+Subsec. (d). Pub. L. 106–102, §506(a)(1), struck out at the end "Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter."
 
 Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section."
 

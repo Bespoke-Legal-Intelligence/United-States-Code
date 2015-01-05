@@ -14,7 +14,7 @@ Except for division C of Public Law 108–324 \[15 U.S.C. 720 et seq.\], the Sec
 
 &emsp;&emsp;(B) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
 
-&emsp;&emsp;(C) a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower undersubparagraph (B) has been made that is sufficient to cover the cost of the guarantee.
+&emsp;&emsp;(C) a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower under subparagraph (B) has been made that is sufficient to cover the cost of the guarantee.
 
 #### (c) Amount
 

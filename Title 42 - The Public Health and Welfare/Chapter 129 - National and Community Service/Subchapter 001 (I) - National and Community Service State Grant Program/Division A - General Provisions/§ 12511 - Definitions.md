@@ -36,7 +36,7 @@ For purposes of this subchapter:
 
 #### (8) Carry out
 
-&emsp;The term "carry out", when used in connection with a national service program, means the planning, establishment, operation, expansion, or replication of the program.
+&emsp;The term "carry out", when used in connection with a national service program, meansthe planning, establishment, operation, expansion, or replication of the program.
 
 #### (9) Chief Executive Officer
 
@@ -206,7 +206,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(v) presentation of studies and methods in sufficient detail and clarity to allow for replication or, at a minimum, to offer the opportunity to build systematically on the findings of the research;
 
-&emsp;&emsp;&emsp;(vi) acceptance by a peer-reviewed journal or critique by a panel of independentexperts through a comparably rigorous, objective, and scientific review; and
+&emsp;&emsp;&emsp;(vi) acceptance by a peer-reviewed journal or critique by a panel of independent experts through a comparably rigorous, objective, and scientific review; and
 
 &emsp;&emsp;&emsp;(vii) consistency of findings across multiple studies or sites to support the generality of results and conclusions.
 
@@ -292,7 +292,7 @@ For purposes of this subchapter:
 
 &emsp;The term "veteran" has the meaning given the term in section 101 of title 38.
 
-(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1),Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 107–110, title X, §1076(ff), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 108–446, title III, §305(m), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 111–13, title I, §1102, Apr. 21, 2009, 123 Stat. 1464.)
+(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 107–110, title X, §1076(ff), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 108–446, title III, §305(m), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 111–13, title I, §1102, Apr. 21, 2009, 123 Stat. 1464.)
 
 #### References in Text
 
@@ -378,7 +378,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1998 Amendment
 

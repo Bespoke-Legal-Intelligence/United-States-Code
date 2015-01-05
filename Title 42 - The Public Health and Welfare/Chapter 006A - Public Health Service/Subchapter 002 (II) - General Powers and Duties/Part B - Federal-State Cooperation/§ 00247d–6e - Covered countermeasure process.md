@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-Upon the issuance by the Secretary of a declaration under section 247d–6d(b) of this title, there is hereby established in the Treasury an emergency fund designated as the "CoveredCountermeasure Process Fund" for purposes of providing timely, uniform, and adequate compensation to eligible individuals for covered injuries directly caused by the administration or use of a covered countermeasure pursuant to such declaration, which Fund shall consist of such amounts designated as emergency appropriations under section 402 of H. Con. Res. 95 of the 109th Congress, this emergency designation shall remain in effect through October 1, 2006.
+Upon the issuance by the Secretary of a declaration under section 247d–6d(b) of this title, there is hereby established in the Treasury an emergency fund designated as the "Covered Countermeasure Process Fund" for purposes of providing timely, uniform, and adequate compensation to eligible individuals for covered injuries directly caused by the administration or use of a covered countermeasure pursuant to such declaration, which Fund shall consist of such amounts designated as emergency appropriations under section 402 of H. Con. Res. 95 of the 109th Congress, this emergency designation shall remain in effect through October 1, 2006.
 
 #### (b) Payment of compensation
 
@@ -58,7 +58,7 @@ The Secretary shall ensure that a State, local, or Department of Health and Huma
 
 #### (2) Tolling of statute of limitations
 
-&emsp;The time limit for filing a civil action under section 247d–6d(d) of this title for an injury ordeath shall be tolled during the pendency of a claim for compensation under subsection (a) of this section.
+&emsp;The time limit for filing a civil action under section 247d–6d(d) of this title for an injury or death shall be tolled during the pendency of a claim for compensation under subsection (a) of this section.
 
 #### (3) Rule of construction
 

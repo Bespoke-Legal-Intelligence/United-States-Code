@@ -6,7 +6,7 @@
 
 (c) Each agency shall, with respect to any programs or services provided by such agency, submit such written reports as the Office may require in connection with any report required under section 7363 of this title.
 
-(d) For the purpose of this section, the term “agency” means an Executive agency.
+(d) For the purpose of this section, the term "agency" means an Executive agency.
 
 (Added Pub. L. 99–570, title VI, §6002(a)(1), Oct. 27, 1986, 100 Stat. 3207–157.)
 
@@ -18,25 +18,25 @@ Section 527 of the Public Health Service Act, referred to in subsec. (b) and for
 
 Pub. L. 99–570, title VI, §6003, Oct. 27, 1986, 100 Stat. 3207–159, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Director of the Office of Personnel Management shall, in consultation with the Secretary of Health and Human Services, establish a Government-wide education program, using seminars and such other methods as the Director considers appropriate, to carry out the purposes prescribed in subsection (b).
 
-“(b)
+"(b)
 
 Purposes.—The program established under this section shall be designed to provide information to Federal Government employees with respect to—
 
-&emsp;“(1) the short-term and long-term health hazards associated with alcohol abuse and drug abuse;
+&emsp;"(1) the short-term and long-term health hazards associated with alcohol abuse and drug abuse;
 
-&emsp;“(2) the symptoms of alcohol abuse and drug abuse;
+&emsp;"(2) the symptoms of alcohol abuse and drug abuse;
 
-&emsp;“(3) the availability of any prevention, treatment, or rehabilitation programs or services relating to alcohol abuse or drug abuse, whether provided by the Federal Government or otherwise;
+&emsp;"(3) the availability of any prevention, treatment, or rehabilitation programs or services relating to alcohol abuse or drug abuse, whether provided by the Federal Government or otherwise;
 
-&emsp;“(4) confidentiality protections afforded in connection with any prevention, treatment, or rehabilitation programs or services;
+&emsp;"(4) confidentiality protections afforded in connection with any prevention, treatment, or rehabilitation programs or services;
 
-&emsp;“(5) any penalties provided under law or regulation, and any administrative action (permissive or mandatory), relating to the use of alcohol or drugs by a Federal Government employee or the failure to seek or receive appropriate treatment or rehabilitation services; and
+&emsp;"(5) any penalties provided under law or regulation, and any administrative action (permissive or mandatory), relating to the use of alcohol or drugs by a Federal Government employee or the failure to seek or receive appropriate treatment or rehabilitation services; and
 
-&emsp;“(6) any other matter which the Director considers appropriate.”
+&emsp;"(6) any other matter which the Director considers appropriate."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

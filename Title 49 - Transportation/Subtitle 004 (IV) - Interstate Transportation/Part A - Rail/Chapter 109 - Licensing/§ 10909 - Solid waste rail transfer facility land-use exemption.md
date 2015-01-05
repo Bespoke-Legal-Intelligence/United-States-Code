@@ -52,7 +52,7 @@ Considerations.—When evaluating an application under this section, the Board s
 
 (e)
 
-Existing Facilities.—Upon the granting of <sup>2</sup> petition from the State in which a solid waste rail transfer facility is operating as of the date of enactment of the Clean Railroads Act of 2008 by the Board, the facility shall submit a complete application for a siting permit to the Board pursuant to the procedures issued pursuant to subsection (b). No State may enforce alaw, regulation, order, or other requirement affecting the siting of a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 until the Board has approved or denied a permit pursuant to subsection (c).
+Existing Facilities.—Upon the granting of <sup>2</sup> petition from the State in which a solid waste rail transfer facility is operating as of the date of enactment of the Clean Railroads Act of 2008 by the Board, the facility shall submit a complete application for a siting permit to the Board pursuant to the procedures issued pursuant to subsection (b). No State may enforce a law, regulation, order, or other requirement affecting the siting of a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 until the Board has approved or denied a permit pursuant to subsection (c).
 
 (f)
 

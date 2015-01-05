@@ -8,5 +8,5 @@ There are in the Headquarters, Marine Corps, not more than six Deputy Commandant
 
 <b>2002</b>—Pub. L. 107–314 substituted "six" for "five".
 
-<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text read as follows: "There are in the Headquarters, Marine Corps, a Chief of Staff, not more than five Deputy Chiefs of Staff, and not more than three Assistant Chiefs of Staff, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps."
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text read as follows: "There are in the Headquarters, Marine Corps, a Chief of Staff, not more than five Deputy Chiefs of Staff, and not more than three Assistant Chiefs ofStaff, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps."
 

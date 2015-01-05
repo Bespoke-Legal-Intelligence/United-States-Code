@@ -6,7 +6,7 @@ A patent for a claimed invention may not be obtained, notwithstanding that the c
 
 #### Historical and Revision Notes
 
-There is no provision corresponding to the first sentence explicitly stated in the present statutes, but the refusal of patents by the Patent Office, and the holding of patents invalid by the courts, on the ground of lack of invention or lack of patentable novelty has been followed since at least as early as 1850. This paragraph is added with the view that an explicit statement in the statute may have some stabilizing effect, and also to serve as a basis for the addition at a later time of some criteria which may be worked out.
+There is no provision corresponding to the first sentence explicitly stated in the present statutes, but therefusal of patents by the Patent Office, and the holding of patents invalid by the courts, on the ground of lack of invention or lack of patentable novelty has been followed since at least as early as 1850. This paragraph is added with the view that an explicit statement in the statute may have some stabilizing effect, and also to serve as a basis for the addition at a later time of some criteria which may be worked out.
 
 The second sentence states that patentability as to this requirement is not to be negatived by the manner in which the invention was made, that is, it is immaterial whether it resulted from long toil and experimentation or from a flash of genius.
 

@@ -38,7 +38,7 @@ Pub. L. 112–239, §3131(f)(1)(B), in first sentence, substituted "national sec
 
 Subsec. (b). Pub. L. 112–239, §3131(f)(1)(C), substituted "Administrator" for "Assistant Secretary" in heading and in two places in text.
 
-Subsec. (d). Pub. L. 113–66, §3146(c)(7)(B), substituted "assessment" for "certification" in heading and "submitted to the President and Congress with the matters required to be submitted under section 2525(f) of this title" for "included with the decision documents that accompany the annual certification of the safety and reliability of the United States nuclear weapons stockpile which is provided to the President" in text.
+Subsec. (d). Pub. L. 113–66, §3146(c)(7)(B), substituted "assessment" for "certification" in heading and "submitted to the President and Congress with the matters required to be submitted under section 2525(f) of thistitle" for "included with the decision documents that accompany the annual certification of the safety and reliability of the United States nuclear weapons stockpile which is provided to the President" in text.
 
 Subsec. (e). Pub. L. 112–239, §3131(f)(1)(D), struck out subsec. (e), which defined terms "nuclear weapons laboratory" and "nuclear weapons production plant".
 
@@ -48,7 +48,7 @@ Subsec. (e). Pub. L. 112–239, §3131(f)(1)(D), struck out subsec. (e), which d
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the advanced scientific computing researchprogram and activities at Lawrence Livermore National Laboratory, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, see sections 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, see sections 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 All national security functions and activities performed immediately before Oct. 5, 1999, by nuclear weapons laboratories and production facilities defined in this section, transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, see section 2481 of this title.
 

@@ -44,7 +44,7 @@ In order to promote research and education in food and human nutrition, the Secr
 
 #### (d) Designation of State agricultural experiment stations and Agricultural Research Service facilities; pilot projects; additional research
 
-To address more effectively the critical need for reducing farm input costs, improving soil, water, and energy conservation on farms and in rural areas, using sustainable agricultural methods, adopting alternative processing and marketing systems, and encouraging rural resources management, the Secretary is encouraged to designate at least one State agricultural experiment station and one Agricultural Research Service facility to examine these issues in an integrated and comprehensive manner, while conducting ongoing pilot projects contributing additional research through the Federal-State partnership.
+To address more effectively the critical need for reducing farm input costs, improving soil,water, and energy conservation on farms and in rural areas, using sustainable agricultural methods, adopting alternative processing and marketing systems, and encouraging rural resources management, the Secretary is encouraged to designate at least one State agricultural experiment station and one Agricultural Research Service facility to examine these issues in an integrated and comprehensive manner, while conducting ongoing pilot projects contributing additional research through the Federal-State partnership.
 
 #### (e) Applicability of Federal Advisory Committee Act
 
@@ -84,7 +84,7 @@ Act of May 8, 1914, referred to in subsec. (a)(2), is act May 8, 1914, ch. 79, 3
 
 Act of July 2, 1862, referred to in subsec. (a)(3)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. For complete classification of this Act to the Code, see Short Title note under section 427 of this title and Tables.
 

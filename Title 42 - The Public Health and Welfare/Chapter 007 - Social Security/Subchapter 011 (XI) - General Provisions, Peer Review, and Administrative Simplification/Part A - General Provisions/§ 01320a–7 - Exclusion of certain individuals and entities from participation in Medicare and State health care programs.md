@@ -18,7 +18,7 @@ The Secretary shall exclude the following individuals and entities from particip
 
 #### (4) Felony conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relatingto the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
 
 #### (b) Permissive exclusion
 
@@ -158,7 +158,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (16) Making false statements or misrepresentation of material facts
 
-&emsp;Any individual or entity that knowingly makes or causes to be made any false statement, omission, or misrepresentation of a material fact in any application, agreement, bid, or contract to participate or enroll as a provider of services or supplier under a Federal health care program (as defined in section 1320a–7b(f) of this title), including MedicareAdvantage organizations under part C of subchapter XVIII, prescription drug plan sponsors under part D of subchapter XVIII, medicaid managed care organizations under subchapter XIX, and entities that apply to participate as providers of services or suppliers in such managed care organizations and such plans.
+&emsp;Any individual or entity that knowingly makes or causes to be made any false statement, omission, or misrepresentation of a material fact in any application, agreement, bid, or contract to participate or enroll as a provider of services or supplier under a Federal health care program (as defined in section 1320a–7b(f) of this title), including Medicare Advantage organizations under part C of subchapter XVIII, prescription drug plan sponsors under part D of subchapter XVIII, medicaid managed care organizations under subchapter XIX, and entities that apply to participate as providers of services or suppliers in such managed care organizations and such plans.
 
 #### (c) Notice, effective date, and period of exclusion
 
@@ -210,7 +210,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 (B)(i) The Secretary may waive an individual's or entity's exclusion under a State health care program under paragraph (2) if the Secretary receives and approves a request for the waiver with respect to the individual or entity from the State agency administering or supervising the administration of the program.
 
-(ii) A State health care program may provide for a period of exclusion which is longer thanthe period of exclusion under subchapter XVIII of this chapter.
+(ii) A State health care program may provide for a period of exclusion which is longer than the period of exclusion under subchapter XVIII of this chapter.
 
 #### (e) Notice to State licensing agencies
 
@@ -416,7 +416,7 @@ Pub. L. 103–296, title II, §206(b)(3), Aug. 15, 1994, 108 Stat. 1513, provide
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
+Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1,1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -432,7 +432,7 @@ Pub. L. 100–93, §15, Aug. 18, 1987, 101 Stat. 698, provided that:
 
 "(a)
 
-In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
+In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section 1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
 
 "(b)
 

@@ -32,9 +32,11 @@ Each assessment required by subsection (a) submitted during a fiscal year shall 
 
 &emsp;(10) A justification for the requested personnel and core contract personnel levels.
 
-&emsp;(11) The best estimate of the number of intelligence collectors and analysts employed or contracted by each element of the intelligence community.
+&emsp;(11) The best estimate of the number of intelligence collectors and analysts employed by each element of the intelligence community.
 
-&emsp;(12) A statement by the Director of National Intelligence that, based on current and projected funding, the element concerned will have sufficient—
+&emsp;(12) The best estimate of the number of intelligence collectors and analysts contracted by each element of the intelligence community and a description of the functions performed by such contractors.
+
+&emsp;(13) A statement by the Director of National Intelligence that, based on current and projected funding, the element concerned will have sufficient—
 
 &emsp;&emsp;(A) internal infrastructure to support the requested personnel and core contract personnel levels;
 
@@ -42,15 +44,21 @@ Each assessment required by subsection (a) submitted during a fiscal year shall 
 
 &emsp;&emsp;(C) funding to support the administrative and operational activities of the requested personnel levels.
 
-(July 26, 1947, ch. 343, title V, §506B, as added Pub. L. 111–259, title III, §305(a), Oct. 7, 2010, 124 Stat. 2659.)
+(July 26, 1947, ch. 343, title V, §506B, as added Pub. L. 111–259, title III, §305(a), Oct. 7, 2010, 124 Stat. 2659; amended Pub. L. 113–293, title III, §327, Dec. 19, 2014, 128 Stat. 4006.)
 
 #### Codification
 
 Section was formerly classified to section 415a–4 of this title prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(11). Pub. L. 113–293, §327(1), struck out "or contracted" after "employed".
+
+Subsec. (c)(12), (13). Pub. L. 113–293, §327(2), (3), added par. (12) and redesignated former par. (12) as (13).
+
 #### Implementation
 
-Pub. L. 111–259, title III, §305(b), Oct. 7, 2010, 124 Stat. 2661, provided that: "The first assessment required to be submitted under section 506B(b) of the National Security Act of 1947 \[50 U.S.C. 3098(b)\], as added by subsection (a), shall be submitted to the congressional intelligence committees at the time that the President submits to Congress the budget for fiscal year 2012 pursuant to section 1105 of title 31, United States Code."
+Pub. L. 111–259, title III, §305(b), Oct. 7, 2010, 124 Stat. 2661, provided that: "The first assessment required tobe submitted under section 506B(b) of the National Security Act of 1947 \[50 U.S.C. 3098(b)\], as added by subsection (a), shall be submitted to the congressional intelligence committees at the time that the President submits to Congress the budget for fiscal year 2012 pursuant to section 1105 of title 31, United States Code."
 
 \[For definition of "congressional intelligence committees" as used in section 305(b) of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a note under section 3003 of this title.\]
 

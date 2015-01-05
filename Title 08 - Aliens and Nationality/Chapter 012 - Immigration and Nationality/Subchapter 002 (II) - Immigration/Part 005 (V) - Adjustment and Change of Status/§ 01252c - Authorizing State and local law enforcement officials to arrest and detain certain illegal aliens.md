@@ -18,7 +18,7 @@ The Attorney General shall cooperate with the States to assure that information 
 
 #### Codification
 
-This section was enacted as part of the Antiterrorism and Effective Death Penalty Act of 1996, and not as part of the Immigration and Nationality Act which comprises this chapter.
+This section was enacted as part of the Antiterrorism and Effective Death Penalty Act of 1996, and not as partof the Immigration and Nationality Act which comprises this chapter.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

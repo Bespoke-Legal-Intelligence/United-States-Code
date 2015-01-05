@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Beginning with plan years beginning in 2014, the Secretary, in conjunction with the States and consistent with the provisions of subsection (a)(2), shall monitor premium increases of health insurance coverage offered through an Exchange and outside of an Exchange.
+&emsp;&emsp;Beginning with plan years beginning in 2014, the Secretary, in conjunction with the States and consistent with the provisions of subsection (a)(2), shall monitor premium increases of health insurance coverage offeredthrough an Exchange and outside of an Exchange.
 
 #### (B) Consideration in opening Exchange
 

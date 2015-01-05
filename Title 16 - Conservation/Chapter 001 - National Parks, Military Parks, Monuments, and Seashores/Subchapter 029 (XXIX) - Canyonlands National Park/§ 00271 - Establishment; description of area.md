@@ -6,5 +6,5 @@ In order to preserve an area in the State of Utah possessing superlative scenic,
 
 #### Amendments
 
-<b>1971</b>—Pub. L. 92–154 substituted provision respecting revision of boundaries of the park and referring toBoundary Map on file and available for public inspection for depiction of the park area on the drawing, for prior specific detailed description of the area.
+<b>1971</b>—Pub. L. 92–154 substituted provision respecting revision of boundaries of the park and referring to Boundary Map on file and available for public inspection for depiction of the park area on the drawing, for prior specific detailed description of the area.
 

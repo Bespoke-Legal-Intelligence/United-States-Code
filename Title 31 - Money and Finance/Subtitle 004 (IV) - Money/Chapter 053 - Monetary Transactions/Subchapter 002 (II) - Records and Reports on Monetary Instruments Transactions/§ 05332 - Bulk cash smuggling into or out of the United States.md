@@ -18,7 +18,7 @@ Penalty.—
 
 &emsp;(1)
 
-Term of imprisonment.—A person convicted of a currency smuggling offense under subsection (a), or a conspiracy to commit such offense, shall be imprisoned for not more than 5 years.
+Term of imprisonment.—A person convicted of a currency smuggling offense under subsection (a), or a conspiracy to commit suchoffense, shall be imprisoned for not more than 5 years.
 
 &emsp;(2)
 

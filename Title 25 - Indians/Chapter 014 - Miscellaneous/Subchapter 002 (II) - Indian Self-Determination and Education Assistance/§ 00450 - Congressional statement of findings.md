@@ -318,7 +318,7 @@ In order to ensure that the rights of sovereign tribal governments are fully res
 
 (e) Each executive department and agency shall work cooperatively with other Federal departments and agencies to enlist their interest and support in cooperative efforts, where appropriate, to accomplish the goals of this memorandum.
 
-(f) Each executive department and agency shall apply the requirements of Executive Orders Nos. 12875 ("Enhancing the Intergovernmental Partnership") \[former 5U.S.C. 601 note\] and 12866 ("Regulatory Planning and Review") \[5 U.S.C. 601 note\] to design solutions and tailor Federal programs, in appropriate circumstances, to address specific or unique needs of tribal communities.
+(f) Each executive department and agency shall apply the requirements of Executive Orders Nos. 12875 ("Enhancing the Intergovernmental Partnership") \[former 5 U.S.C. 601 note\] and 12866 ("Regulatory Planning and Review") \[5 U.S.C. 601 note\] to design solutions and tailor Federal programs, in appropriate circumstances, to address specific or unique needs of tribal communities.
 
 The head of each executive department and agency shall ensure that the department or agency's bureaus and components are fully aware of this memorandum, through publication or other means, and that they are in compliance with its requirements.
 

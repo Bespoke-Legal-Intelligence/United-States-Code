@@ -18,7 +18,7 @@
 
 &emsp;(C) If a rehearing or new trial has been ordered and a dismissal or a dishonorable or bad-conduct discharge is not included in the result of such rehearing or new trial, payment shall be made within 60 days of the date of the announcement of the result of such rehearing or new trial.
 
-&emsp;(D) If a rehearing or new trial has been ordered and a dismissal or a dishonorable or bad-conduct discharge is included in the result of such rehearing or new trial, but such dismissal or discharge is not later executed, payment shall be made within 60 days of the date of the order which set aside, disapproved, or otherwise vacated such dismissal or discharge.
+&emsp;(D) If a rehearing or new trial has been ordered and a dismissal or a dishonorable or bad-conduct discharge is included in the result of such rehearing or new trial, but such dismissal or discharge is not later executed, paymentshall be made within 60 days of the date of the order which set aside, disapproved, or otherwise vacated such dismissal or discharge.
 
 (3) If a member is entitled to be paid under this section but fails to provide sufficient information in a timely manner regarding his income when such information is requested under regulations prescribed under subsection (c), the periods of time prescribed in paragraph (2) shall be extended until 30 days after the date on which the member provides the information requested.
 

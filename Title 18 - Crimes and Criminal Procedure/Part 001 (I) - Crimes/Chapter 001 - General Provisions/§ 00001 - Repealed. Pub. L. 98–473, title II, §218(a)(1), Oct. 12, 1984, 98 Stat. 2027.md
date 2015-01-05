@@ -6,6 +6,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–104, §1, May 20, 2014, 128 Stat. 1156, provided that: "This Act \[amending section 117 of this title\] may be cited as the 'Kilah Davenport Child Protection Act of 2013'."
+
 #### Short Title of 2013 Amendment
 
 Pub. L. 113–47, §1, Oct. 31, 2013, 127 Stat. 572, provided that: "This Act \[enacting provisions set out as a note under section 3551 of this title\] may be cited as the 'United States Parole Commission Extension Act of 2013'."
@@ -92,9 +96,9 @@ Pub. L. 109–181, §2(a), Mar. 16, 2006, 120 Stat. 288, provided that: "This se
 
 Pub. L. 109–178, §1, Mar. 9, 2006, 120 Stat. 278, provided that: "This Act \[amending section 2709 of this title, section 3414 of Title 12, Banks and Banking, sections 1681u and 1681v of Title 15, Commerce and Trade, and sections 436 and 1861 of Title 50, War and National Defense, and enacting provisions set out as a note under section 3414 of Title 12\] may be cited as the 'USA PATRIOT Act Additional Reauthorizing Amendments Act of 2006'."
 
-Pub. L. 109–177, §1(a), Mar. 9, 2006, 120 Stat. 192, provided that: "This Act \[see Tables for classification\] may be cited as the 'USA PATRIOT Improvement and Reauthorization Act of 2005'."
+Pub. L. 109–177, §1(a), Mar. 9, 2006, 120 Stat. 192, provided that: "This Act \[see Tables for classification\]may be cited as the 'USA PATRIOT Improvement and Reauthorization Act of 2005'."
 
-Pub. L. 109–177, title II, §201, Mar. 9, 2006, 120 Stat. 230, provided that: "This title \[enacting section 3599 ofthis title, amending section 3583 of this title and section 848 of Title 21, Food and Drugs, and enacting provisions set out as notes under section 46502 of Title 49, Transportation\] may be cited as the 'Terrorist Death Penalty Enhancement Act of 2005'."
+Pub. L. 109–177, title II, §201, Mar. 9, 2006, 120 Stat. 230, provided that: "This title \[enacting section 3599 of this title, amending section 3583 of this title and section 848 of Title 21, Food and Drugs, and enacting provisions set out as notes under section 46502 of Title 49, Transportation\] may be cited as the 'Terrorist Death Penalty Enhancement Act of 2005'."
 
 Pub. L. 109–177, title III, §301, Mar. 9, 2006, 120 Stat. 233, provided that: "This title \[see Tables for classification\] may be cited as the 'Reducing Crime and Terrorism at America's Seaports Act of 2005'."
 

@@ -4,7 +4,7 @@
 
 The Secretary shall—
 
-&emsp;(1) make allotments and grants from the total amount appropriated under section2872(b) of this title for a fiscal year in accordance with subsection (b)(1) of this section; and
+&emsp;(1) make allotments and grants from the total amount appropriated under section 2872(b) of this title for a fiscal year in accordance with subsection (b)(1) of this section; and
 
 &emsp;(2)(A) reserve 20 percent of the amount appropriated under section 2872(c) of this title for a fiscal year for use under subsection (b)(2)(A) of this section, and under sections 2915(b) (relating to dislocated worker technical assistance), 2916(d) (relating to dislocated worker projects), and 2918 (relating to national emergency grants, other than under subsection <sup>1</sup> (a)(4), (f), and (g)) of this title; and
 
@@ -66,7 +66,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) 3/10 of 1 percent of $960,000,000 of the remainder described in clause (i) for the fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the remainder described in clause (i) for the fiscal year exceeds $960,000,000, 2/5 of 1 percent of the excess.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the remainder described in clause (i) for the fiscal year exceeds$960,000,000, 2/5 of 1 percent of the excess.
 
 #### (III) Maximum percentage
 
@@ -154,7 +154,7 @@ The Secretary shall—
 
 #### (B) Low-income level
 
-&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for anylater year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
+&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for any later year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
 
 #### (c) Reallotment
 
@@ -180,6 +180,10 @@ The Secretary shall—
 
 (Pub. L. 105–220, title I, §132, Aug. 7, 1998, 112 Stat. 983; Pub. L. 107–210, div. A, title II, §203(d), Aug. 6, 2002, 116 Stat. 969.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(I)(bb), (IV), (v)(II), (2)(A)(ii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part A of title II of the Act was classified generally to part A (§1601 et seq.) of subchapter II of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Sections 202, 252, 262, and 302 of the Act were classified to sections 1602, 1631, 1642, and 1652 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
@@ -187,6 +191,10 @@ The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(2)(A). Pub. L. 107–210 inserted ", other than under subsection (a)(4), (f), and (g)" after "national emergency grants".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 2002 Amendment
 

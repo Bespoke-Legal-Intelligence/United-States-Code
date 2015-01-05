@@ -32,7 +32,7 @@ Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–276, §1(b), Oct. 2, 2000, 114 Stat. 812, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect October 1, 1999."
+Pub. L. 106–276, §1(b), Oct. 2, 2000, 114 Stat. 812, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect October 1, 1999."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

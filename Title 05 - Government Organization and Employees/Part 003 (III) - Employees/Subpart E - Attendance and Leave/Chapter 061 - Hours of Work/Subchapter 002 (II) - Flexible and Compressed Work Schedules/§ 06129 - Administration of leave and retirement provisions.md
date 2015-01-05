@@ -6,5 +6,5 @@ For purposes of administering sections 6303(a), 6304, 6307(a) and (d), 6323, 632
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–329 substituted “6307(a) and (d)” for “6307(a) and (c)” and inserted “6327,” after “6326,”.
+<b>1994</b>—Pub. L. 103–329 substituted "6307(a) and (d)" for "6307(a) and (c)" and inserted "6327," after "6326,".
 

@@ -6,7 +6,7 @@
 
 (b) The Administrator of General Services shall prescribe the mileage reimbursement rates for use on official business of privately owned airplanes, privately owned automobiles, and privately owned motorcycles while engaged on official business as provided for in section 5704 of this title as follows:
 
-&emsp;(1)(A) The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
+&emsp;(1)(A) The Administrator of General Services shall conduct periodic investigations of the cost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
 
 &emsp;(B) In conducting the periodic investigations, the Administrator shall review and analyze among other factors—
 
@@ -22,7 +22,7 @@
 
 &emsp;(2)(A) The Administrator shall issue regulations under this section which—
 
-&emsp;&emsp;(i) shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in section 5704(a)(1) of this title, the single standard mileage rate established by the Internal Revenue Service, and
+&emsp;&emsp;(i) shall provide that the mileage reimbursement rate for privately owned automobiles, as provided in section 5704(a)(1), is the single standard mileage rate established by the Internal Revenue Service referred to in that section, and
 
 &emsp;&emsp;(ii) shall prescribe mileage reimbursement rates which reflect the current costs as determined by the Administrator of operating privately owned airplanes and motorcycles.
 
@@ -34,7 +34,7 @@
 
 (c) The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 113–291, div. A, title IX, §915(b), Dec. 19, 2014, 128 Stat. 3475.)
 
 Historical and Revision Notes
 
@@ -56,13 +56,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–316 struck out “the Comptroller General of the United States,” after “in consultation with”.
+<b>2014</b>—Subsec. (b)(1)(A). Pub. L. 113–291, §915(b)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year."
+
+Subsec. (b)(2)(A)(i). Pub. L. 113–291, §915(b)(2), amended cl. (i) generally. Prior to amendment, text read as follows: "shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in section 5704(a)(1) of this title, the single standard mileage rate established by the Internal Revenue Service, and".
+
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–316 struck out "the Comptroller General of the United States," after "in consultation with".
 
 Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which provided that agencies ensure that their approved accommodation percentages be not less than specified percentages for fiscal years beginning 4 and 5 years after Sept. 25, 1990, and that their percentages be not less than 90 percent for fiscal years beginning 6 years after Sept. 25, 1990, and thereafter.
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–329, §634(b), amended subsec. (b) generally, revising and restructuring text.
 
-Subsec. (c). Pub. L. 103–329, §634(c), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The requirements of paragraph (1) of this subsection shall expire upon the Administrator's submission of the analysis that includes the fiscal year that ends September 30, 1991.”
+Subsec. (c). Pub. L. 103–329, §634(c), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: "The requirements of paragraph (1) of this subsection shall expire upon the Administrator's submission of the analysis that includes the fiscal year that ends September 30, 1991."
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–391 added subsec. (d).
 
@@ -70,7 +74,7 @@ Subsec. (c). Pub. L. 103–329, §634(c), redesignated par. (1) as entire subsec
 
 Subsec. (c). Pub. L. 99–234 added subsec. (c).
 
-<b>1975</b>—Pub. L. 94–22 inserted “and reports” in section catchline, designated existing provisions as subsec. (a), substituted “Administrator of General Services” for “Director of the Bureau of the Budget”, struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
+<b>1975</b>—Pub. L. 94–22 inserted "and reports" in section catchline, designated existing provisions as subsec. (a), substituted "Administrator of General Services" for "Director of the Bureau of the Budget", struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
 
 #### Effective Date of 1986 Amendment
 
@@ -88,79 +92,79 @@ For termination, effective May 15, 2000, of provisions in subsection (b)(1) of t
 
 Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
-“(a)
+"(a)
 
 Prohibition.—Except as provided in subsection (e), none of the funds authorized to be appropriated for the Department of State for fiscal year 2000 or 2001 may be used to pay for the expenses of foreign travel by an officer or employee of an Executive branch agency to attend an international conference, or for the routine services that a United States diplomatic mission or consular post provides in support of foreign travel by such an officer or employee to attend an international conference, unless that officer or employee has submitted a preliminary report with respect to that foreign travel in accordance with subsection (b), and has not previously failed to submit a final report with respect to foreign travel to attend an international conference required by subsection (c).
 
-“(b)
+"(b)
 
 Preliminary Reports.—A preliminary report referred to in subsection (a) is a report by an officer or employee of an Executive branch agency with respect to proposed foreign travel to attend an international conference, submitted to the Director prior to commencement of the travel, setting forth—
 
-&emsp;“(1) the name and employing agency of the officer or employee;
+&emsp;"(1) the name and employing agency of the officer or employee;
 
-&emsp;“(2) the name of the official who authorized the travel; and
+&emsp;"(2) the name of the official who authorized the travel; and
 
-&emsp;“(3) the purpose and duration of the travel.
+&emsp;"(3) the purpose and duration of the travel.
 
-“(c)
+"(c)
 
 Final Reports.—A final report referred to in subsection (a) is a report by an officer or employee of an Executive branch agency with respect to foreign travel to attend an international conference, submitted to the Director not later than 30 days after the conclusion of the travel—
 
-&emsp;“(1) setting forth the actual duration and cost of the travel; and
+&emsp;"(1) setting forth the actual duration and cost of the travel; and
 
-&emsp;“(2) updating any other information included in the preliminary report.
+&emsp;"(2) updating any other information included in the preliminary report.
 
-“(d)
+"(d)
 
 Report to Congress.—The Director shall submit a report on January 31 of the years 2000 and 2001 and July 31 of the years 2000 and 2001, to the Committees on Foreign Relations and Appropriations of the Senate and the Committees on International Relations and Appropriations of the House of Representatives, setting forth with respect to each international conference for which reports described in subsection (c) were required to be submitted to the Director during the preceding six months—
 
-&emsp;“(1) the names and employing agencies of all officers and employees of Executive branch agencies who attended the international conference;
+&emsp;"(1) the names and employing agencies of all officers and employees of Executive branch agencies who attended the international conference;
 
-&emsp;“(2) the names of all officials who authorized travel to the international conference, and the total number of officers and employees who were authorized to travel to the conference by each such official; and
+&emsp;"(2) the names of all officials who authorized travel to the international conference, and the total number of officers and employees who were authorized to travel to the conference by each such official; and
 
-&emsp;“(3) the total cost of travel by officers and employees of Executive branch agencies to the international conference.
+&emsp;"(3) the total cost of travel by officers and employees of Executive branch agencies to the international conference.
 
-“(e)
+"(e)
 
 Exceptions.—This section shall not apply to travel by—
 
-&emsp;“(1) the President or the Vice President;
+&emsp;"(1) the President or the Vice President;
 
-&emsp;“(2) any officer or employee who is carrying out an intelligence or intelligence-related activity, who is performing a protective function, or who is engaged in a sensitive diplomatic mission; or
+&emsp;"(2) any officer or employee who is carrying out an intelligence or intelligence-related activity, who is performing a protective function, or who is engaged in a sensitive diplomatic mission; or
 
-&emsp;“(3) any officer or employee who travels prior to January 1, 1999.
+&emsp;"(3) any officer or employee who travels prior to January 1, 1999.
 
-“(f)
+"(f)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Director.—The term ‘Director’ means the Director of the Office of International Conferences of the Department of State.
+Director.—The term 'Director' means the Director of the Office of International Conferences of the Department of State.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Executive branch agency.—The terms ‘Executive branch agency’ and ‘Executive branch agencies’ mean—
+Executive branch agency.—The terms 'Executive branch agency' and 'Executive branch agencies' mean—
 
-&emsp;&emsp;“(A) an entity or entities, other than the Government Accountability Office, defined in section 105 of title 5, United States Code; and
+&emsp;&emsp;"(A) an entity or entities, other than the Government Accountability Office, defined in section 105 of title 5, United States Code; and
 
-&emsp;&emsp;“(B) the Executive Office of the President (except as provided in subsection (e)).
+&emsp;&emsp;"(B) the Executive Office of the President (except as provided in subsection (e)).
 
-&emsp;“(3)
+&emsp;"(3)
 
-International conference.—The term ‘international conference’ means any meeting held under the auspices of an international organization or foreign government, at which representatives of more than two foreign governments are expected to be in attendance, and to which United States Executive branch agencies will send a total of ten or more representatives.
+International conference.—The term 'international conference' means any meeting held under the auspices of an international organization or foreign government, at which representatives of more than two foreign governments are expected to be in attendance, and to which United States Executive branch agencies will send a total of ten or more representatives.
 
-“(g)
+"(g)
 
 Report.—Not later than 180 days after the date of enactment of this Act \[Oct. 21, 1998\], and annually thereafter, the President shall submit to the appropriate congressional committees a report describing—
 
-&emsp;“(1) the total Federal expenditure of all official international travel in each Executive branch agency during the previous fiscal year; and
+&emsp;"(1) the total Federal expenditure of all official international travel in each Executive branch agency during the previous fiscal year; and
 
-&emsp;“(2) the total number of individuals in each agency who engaged in such travel.”
+&emsp;"(2) the total number of individuals in each agency who engaged in such travel."
 
 #### Reporting of Employee Relocation Expenses
 
-Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that: “No later than 30 days after the enactment of this Act \[Oct. 10, 1997\], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President's annual budget.”
+Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that: "No later than 30 days after the enactment of this Act \[Oct. 10, 1997\], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President's annual budget."
 
 #### GAO Audit of Agency Compliance
 

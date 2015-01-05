@@ -36,7 +36,7 @@
 
 #### (2) Relation to other penalties
 
-&emsp;A civil penalty imposed under paragraph (1) for a violation of this chapter shall be imposed in addition to any criminal penalty under subsection (a) and any other damages, equitable relief, or injunctive relief awarded by thecourt, including the payment of any unpaid taxes to the appropriate Federal, State, local, or tribal governments.
+&emsp;A civil penalty imposed under paragraph (1) for a violation of this chapter shall be imposed in addition to any criminal penalty under subsection (a) and any other damages, equitable relief, or injunctive relief awarded by the court, including the payment of any unpaid taxes to the appropriate Federal, State, local, or tribal governments.
 
 #### (3) Exceptions
 

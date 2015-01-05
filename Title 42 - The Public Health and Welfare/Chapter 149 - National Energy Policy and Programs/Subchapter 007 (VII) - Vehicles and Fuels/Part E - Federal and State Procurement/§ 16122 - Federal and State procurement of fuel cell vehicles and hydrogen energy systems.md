@@ -16,7 +16,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;Not later than January 1, 2010, the head of any Federal agency that uses a light-duty orheavy-duty vehicle fleet shall lease or purchase fuel cell vehicles and hydrogen energy systems to meet any applicable energy savings goal described in subsection (c).
+&emsp;&emsp;Not later than January 1, 2010, the head of any Federal agency that uses a light-duty or heavy-duty vehicle fleet shall lease or purchase fuel cell vehicles and hydrogen energy systems to meet any applicable energy savings goal described in subsection (c).
 
 #### (B) Learning demonstration vehicles
 
@@ -66,7 +66,7 @@ The purposes of this section are—
 
 &emsp;&emsp;Not later than December 31, 2006, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) in cooperation with the Task Force, promulgate regulations for the period of 2008 through 2010 that extend and augment energy savings goals for each Federal agency, in accordance with any Executive order issued after March 2000; and
+&emsp;&emsp;&emsp;(i) in cooperation with the Task Force, promulgate regulations for the period of 2008 through 2010 that extend and augmentenergy savings goals for each Federal agency, in accordance with any Executive order issued after March 2000; and
 
 &emsp;&emsp;&emsp;(ii) promulgate regulations to expand the minimum Federal fleet requirement and credit allowances for fuel cell vehicle systems under section 13212 of this title.
 

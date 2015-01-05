@@ -28,7 +28,7 @@ The Commission shall also have the power—
 
 > &emsp;for the purpose of enforcing the laws subject to its jurisdiction;
 
-&emsp;(8) to lease buildings or parts of buildings in the District of Columbia, without regard to section 8141 of title 40, for the use of the Commission;
+&emsp;(8) to lease buildings or parts of buildings in the District of Columbia, without regard tosection 8141 of title 40, for the use of the Commission;
 
 &emsp;(9) to delegate to the general counsel of the Commission the authority to issue subpoenas solely to Federal, State, or local government agencies for evidence described in paragraph (3); and
 
@@ -116,7 +116,7 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 
 #### (k) Budget estimates and requests; legislative recommendations; testimony; comments on legislation
 
-(1) Whenever the Commission submits any budget estimate or request to the President orthe Office of Management and Budget, it shall concurrently transmit a copy of that estimate or request to the Congress.
+(1) Whenever the Commission submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit a copy of that estimate or request to the Congress.
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 

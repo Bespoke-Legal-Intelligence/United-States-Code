@@ -50,9 +50,17 @@ In this section:
 
 &emsp;&emsp;(B) the Select Committee on Intelligence and the Committees on Armed Services, Homeland Security and Governmental Affairs, and the Judiciary of the Senate.
 
+&emsp;(9)
+
+Access determination.—The term "access determination" means the determination regarding whether an employee—
+
+&emsp;&emsp;(A) is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with <sup>2</sup> industry), or any successor thereto; and
+
+&emsp;&emsp;(B) possesses a need to know under such an Order.
+
 #### (b) Selection of entity
 
-Not later than 90 days after December 17, 2004, the President shall select a single department, agency, or element of the executive branch to be responsible for—
+Except as otherwise provided, not later than 90 days after December 17, 2004, the President shall select a single department, agency, or element of the executive branch to be responsible for—
 
 &emsp;(1) directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitive programs, throughout the United States Government;
 
@@ -62,9 +70,15 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 &emsp;(4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
 
-&emsp;(5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals; and
+&emsp;(5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals;
 
-&emsp;(6) reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances.
+&emsp;(6) reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances; and
+
+&emsp;(7) not later than 180 days after July 7, 2014, and consistent with subsection (j)—
+
+&emsp;&emsp;(A) developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee's access to classified information and to retain their government employment status while such challenge is pending; and
+
+&emsp;&emsp;(B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency's suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 
 #### (c) Performance of security clearance investigations
 
@@ -164,21 +178,151 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 There is authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each fiscal year thereafter for the implementation, maintenance, and operation of the database required by subsection (e) of this section.
 
-(Pub. L. 108–458, title III, §3001, Dec. 17, 2004, 118 Stat. 3705.)
+#### (j) Retaliatory revocation of security clearances and access determinations
+
+#### (1) In general
+
+&emsp;Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee's security clearance or access determination in retaliation for—
+
+&emsp;&emsp;(A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
+
+&emsp;&emsp;&emsp;(i) a violation of any Federal law, rule, or regulation; or
+
+&emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+
+&emsp;&emsp;(B) any lawful disclosure to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee reasonably believes evidences—
+
+&emsp;&emsp;&emsp;(i) a violation of any Federal law, rule, or regulation; or
+
+&emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+
+&emsp;&emsp;(C) any lawful disclosure that complies with—
+
+&emsp;&emsp;&emsp;(i) subsections (a)(1), (d), and (h) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
+
+&emsp;&emsp;&emsp;(ii) subparagraphs (A), (D), and (H) of section 3517(d)(5) of this title; or
+
+&emsp;&emsp;&emsp;(iii) subparagraphs (A), (D), and (I) of section 3033(k)(5) of this title; and
+
+&emsp;&emsp;(D) if the actions do not result in the employee or applicant unlawfully disclosing information specifically required by Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, any lawful disclosure in conjunction with—
+
+&emsp;&emsp;&emsp;(i) the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation;
+
+&emsp;&emsp;&emsp;(ii) testimony for or otherwise lawfully assisting any individual in the exercise of any right referred to in clause (i); or
+
+&emsp;&emsp;&emsp;(iii) cooperation with or disclosing information to the Inspector General of an agency, in accordance with applicable provisions of law in connection with an audit, inspection, or investigation conducted by the Inspector General.
+
+#### (2) Rule of construction
+
+&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
+
+#### (3) Disclosures
+
+#### (A) In general
+
+&emsp;&emsp;A disclosure shall not be excluded from paragraph (1) because—
+
+&emsp;&emsp;&emsp;(i) the disclosure was made to a person, including a supervisor, who participated in an activity that the employee reasonably believed to be covered by paragraph (1)(A)(ii);
+
+&emsp;&emsp;&emsp;(ii) the disclosure revealed information that had been previously disclosed;
+
+&emsp;&emsp;&emsp;(iii) the disclosure was not made in writing;
+
+&emsp;&emsp;&emsp;(iv) the disclosure was made while the employee was off duty; or
+
+&emsp;&emsp;&emsp;(v) of the amount of time which has passed since the occurrence of the events described in the disclosure.
+
+#### (B) Reprisals
+
+&emsp;&emsp;If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from paragraph (1) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
+
+#### (4) Agency adjudication
+
+#### (A) Remedial procedure
+
+&emsp;&emsp;An employee or former employee who believes that he or she has been subjected to a reprisal prohibited by paragraph (1) may, within 90 days after the issuance of notice of such decision, appeal that decision within the agency of that employee or former employee through proceedings authorized by subsection (b)(7), except that there shall be no appeal of an agency's suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts not longer than 1 year (or a longer period in accordance with a certification made under subsection (b)(7)).
+
+#### (B) Corrective action
+
+&emsp;&emsp;If, in the course of proceedings authorized under subparagraph (A), it is determined that the adverse security clearance or access determination violated paragraph (1), the agency shall take specific corrective action to return the employee or former employee, as nearly as practicable and reasonable, to the position such employee or former employee would have held had the violation not occurred. Such corrective action may include back pay and related benefits, travel expenses, and compensatory damages not to exceed $300,000.
+
+#### (C) Contributing factor
+
+&emsp;&emsp;In determining whether the adverse security clearance or access determination violated paragraph (1), the agency shall find that paragraph (1) was violated if a disclosure described in paragraph (1) was a contributing factor in the adverse security clearance or access determination taken against the individual, unless the agency demonstrates by a preponderance of the evidence that it would have taken the same action in the absence of such disclosure, giving the utmost deference to the agency's assessment of the particular threat to the national security interests of the United States in the instant matter.
+
+#### (5) Appellate review of security clearance access determinations by Director of National Intelligence
+
+#### (A) Appeal
+
+&emsp;&emsp;Within 60 days after receiving notice of an adverse final agency determination under a proceeding under paragraph (4), an employee or former employee may appeal that determination in accordance with the procedures established under subparagraph (B).
+
+#### (B) Policies and procedures
+
+&emsp;&emsp;The Director of National Intelligence, in consultation with the Attorney General and the Secretary of Defense, shall develop and implement policies and procedures for adjudicating the appeals authorized by subparagraph (A).
+
+#### (C) Congressional notification
+
+&emsp;&emsp;Consistent with the protection of sources and methods, at the time the Director of National Intelligence issues an order regarding an appeal pursuant to the policies and procedures established by this paragraph, the Director of National Intelligence shall notify the congressional intelligence committees.
+
+#### (6) Judicial review
+
+&emsp;Nothing in this section shall be construed to permit or require judicial review of any—
+
+&emsp;&emsp;(A) agency action under this section; or
+
+&emsp;&emsp;(B) action of the appellate review procedures established under paragraph (5).
+
+#### (7) Private cause of action
+
+&emsp;Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
+
+(Pub. L. 108–458, title III, §3001, Dec. 17, 2004, 118 Stat. 3705; Pub. L. 113–126, title VI, §602(a)(1), (b), (c), July 7, 2014, 128 Stat. 1416, 1417, 1419; Pub. L. 113–293, title III, §310, Dec. 19, 2014, 128 Stat. 3999.)
 
 #### References in Text
 
-Executive Order 12968, referred to in subsec. (a)(3), is set out as a note under section 3161 of this title.
+Executive Order 12968, referred to in subsec. (a)(3), (9)(A), is set out as a note under section 3161 of this title.
 
 Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
+Executive Order 10865, referred to in subsec. (a)(9)(A), is set out as a note under section 3161 of this title.
+
+Section 8H of the Inspector General Act of 1978, referred to in subsec. (j)(1)(C)(i), is section 8H of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section was formerly classified to section 435b of this title prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(9). Pub. L. 113–126, §602(c), added par. (9).
+
+Subsec. (b). Pub. L. 113–126, §602(a)(1)(A), substituted "Except as otherwise provided, not" for "Not" in introductory provisions.
+
+Subsec. (b)(7). Pub. L. 113–293, §310(1), inserted ", and consistent with subsection (j)" after "2014" in introductory provisions.
+
+Pub. L. 113–126, §602(a)(1)(B)–(D), added par. (7).
+
+Subsec. (b)(7)(A). Pub. L. 113–293, §310(2), substituted "alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee's access to classified information" for "to appeal a determination to suspend or revoke a security clearance or access to classified information".
+
+Subsec. (b)(7)(B). Pub. L. 113–293, §310(3), substituted "information following a protected disclosure," for "information,".
+
+Subsec. (j). Pub. L. 113–126, §602(b), added subsec. (j).
+
 #### Change of Name
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Construction
+
+Pub. L. 113–126, title VI, §602(e), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) \[50 U.S.C. 3161 note\], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with\[in\] industry) \[50 U.S.C. 3161 note\], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act \[50 U.S.C. 3341(b)(7)\], as added by this section."
+
+#### Required Elements of Policies and Procedures
+
+Pub. L. 113–126, title VI, §602(a)(2), July 7, 2014, 128 Stat. 1416, provided that: "The policies and procedures for appeal developed under paragraph (7) of section 3001(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 \[50 U.S.C. 3341(b)(7)\], as added by subsection (a), shall provide for the Inspector General of the Intelligence Community, or the inspector general of the employing agency, to conduct fact-finding and report to the agency head or the designee of the agency head within 180 days unless the employee and the agency agree to an extension or the investigating inspector general determines in writing that a greater period of time is required. To the fullest extent possible, such fact-finding shall include an opportunity for the employee to present relevant evidence such as witness testimony."
+
+#### Existing Rights Preserved
+
+Pub. L. 113–126, title VI, §602(d), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section shall be construed to preempt, preclude, or otherwise prevent an individual from exercising rights, remedies, or avenues of redress currently provided under any other law, regulation, or rule."
 
 #### Strategy for Security Clearance Reciprocity
 
@@ -197,4 +341,6 @@ Strategy.—The President shall develop a strategy and a schedule for carrying o
 Congressional Notification.—Not later than 180 days after the date of the enactment of this Act \[Jan. 14, 2013\], the President shall inform Congress of the strategy and schedule developed under subsection (a)."
 
 <i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis before the semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "within".</i>
 

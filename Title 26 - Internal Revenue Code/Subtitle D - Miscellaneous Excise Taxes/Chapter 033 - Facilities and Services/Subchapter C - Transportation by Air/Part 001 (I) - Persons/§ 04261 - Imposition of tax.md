@@ -65,7 +65,7 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 &emsp;&emsp;For purposes of this paragraph, the term "rural airport" means, with respect to any calendar year, any airport if—
 
-&emsp;&emsp;&emsp;(i) there were fewer than 100,000 commercial passengers departing by air (in the case of any airport described in clause (ii)(III), on flight segments of at least 100 miles) during the second preceding calendar year from such airport, and
+&emsp;&emsp;&emsp;(i) there were fewer than 100,000 commercial passengers departing by air (in the case of any airport described in clause\(ii)(III), on flight segments of at least 100 miles) during the second preceding calendar year from such airport, and
 
 &emsp;&emsp;&emsp;(ii) such airport—
 
@@ -75,18 +75,6 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 &emsp;&emsp;&emsp;&emsp;(III) is not connected by paved roads to another airport.
 
-#### (C) No phasein of reduced ticket tax
-
-&emsp;&emsp;In the case of transportation beginning before October 1, 1999—
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Paragraph (5) shall not apply to any domestic segment beginning or ending at an airport which is a rural airport for the calendar year in which such segment begins or ends (as the case may be).
-
-#### (ii) Transportation involving multiple segments
-
-&emsp;&emsp;&emsp;In the case of transportation involving more than 1 domestic segment at least 1 of which does not begin or end at a rural airport, the 7.5 percent rate applicable by reason of clause (i) shall be applied by taking into account only an amount which bears the same ratio to the amount paid for such transportation as the number of specified miles in domestic segments which begin or end at a rural airport bears to the total number of specified miles in such transportation.
-
 #### (2) Amounts paid outside the United States
 
 &emsp;In the case of amounts paid outside the United States for taxable transportation, the taxes imposed by subsections (a) and (b) shall apply only if such transportation begins and ends in the United States.
@@ -95,7 +83,7 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 #### (A) In general
 
-&emsp;&emsp;Any amount paid (and the value of any other benefit provided) to an air carrier (orany related person) for the right to provide mileage awards for (or other reductions in the cost of) any transportation of persons by air shall be treated for purposes of subsection (a) as an amount paid for taxable transportation, and such amount shall be taxable under subsection (a) without regard to any other provision of this subchapter.
+&emsp;&emsp;Any amount paid (and the value of any other benefit provided) to an air carrier (or any related person) for the right to provide mileage awards for (or other reductions in the cost of) any transportation of persons by air shall be treated for purposes of subsection (a) as an amount paid for taxable transportation, and such amount shall be taxable under subsection (a) without regard to any other provision of this subchapter.
 
 #### (B) Controlled group
 
@@ -133,14 +121,6 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 &emsp;&emsp;If an amount is paid during a calendar year for a domestic segment beginning in a later calendar year, then the rate of tax under subsection (b) on such amount shall be the rate in effect for the calendar year in which such amount is paid.
 
-#### (5) Rates of ticket tax for transportation beginning before October 1, 1999
-
-&emsp;Subsection (a) shall be applied by substituting for "7.5 percent"—
-
-&emsp;&emsp;(A) "9 percent" in the case of transportation beginning after September 30, 1997, and before October 1, 1998, and
-
-&emsp;&emsp;(B) "8 percent" in the case of transportation beginning after September 30, 1998, and before October 1, 1999.
-
 #### (f) Exemption for certain uses
 
 No tax shall be imposed under subsection (a) or (b) on air transportation—
@@ -169,7 +149,7 @@ No tax shall be imposed by this section or section 4271 on any air transportatio
 
 #### (j) Exemption for aircraft in fractional ownership aircraft programs
 
-No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2015.
+No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuelused in such transportation. This subsection shall not apply after September 30, 2015.
 
 #### (k) Application of taxes
 
@@ -189,7 +169,7 @@ No tax shall be imposed by this section or section 4271 on any air transportatio
 
 &emsp;If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, §4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, §3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, §203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, §1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, §1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, §1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, §7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, §5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, §1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, §2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(1), (c)(1), (2), title XIV, §1435(a), title XVI, §1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091; Pub. L. 108–176, title IX, §902(a), Dec. 12, 2003, 117 Stat. 2598; Pub. L. 109–59, title XI, §§11121(c), 11122(a), 11123(a), Aug. 10, 2005, 119 Stat. 1951, 1952; Pub. L. 109–135, title IV, §412(vv), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–161, div. K, title I, §116(b)(1), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(b)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(b)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(b)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(b)(1), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(b)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(b)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(b)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(b)(1), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(b)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(b)(1), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(b)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(b)(1), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(b)(1), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(b)(1), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(b)(1), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(b)(1), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, §202(b)(1), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, §2(b)(1), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, §§1101(b)(1), 1103(c), Feb. 14, 2012, 126 Stat. 148, 151.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, §4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, §3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, §203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, §1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, §1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, §1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, §7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, §5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, §1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, §2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(1), (c)(1), (2), title XIV, §1435(a), title XVI, §1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091; Pub. L. 108–176, title IX, §902(a), Dec. 12, 2003, 117 Stat. 2598; Pub. L. 109–59, title XI, §§11121(c), 11122(a), 11123(a), Aug. 10, 2005, 119 Stat. 1951, 1952; Pub. L. 109–135, title IV, §412(vv), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–161, div. K, title I, §116(b)(1), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(b)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(b)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(b)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(b)(1), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(b)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(b)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(b)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(b)(1), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(b)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(b)(1), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(b)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(b)(1), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(b)(1), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(b)(1), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(b)(1), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(b)(1), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, §202(b)(1), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, §2(b)(1), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, §§1101(b)(1), 1103(c), Feb. 14, 2012, 126 Stat. 148, 151; Pub. L. 113–295, div. A, title II, §221(a)(104), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -204,6 +184,10 @@ The Airport and Airway Development Act of 1970, referred to in subsec. (f), is t
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (k)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(1)(C). Pub. L. 113–295, §221(a)(104)(A), struck out subpar. (C) which provided for no phasein of reduced ticket tax for certain transportation.
+
+Subsec. (e)(5). Pub. L. 113–295, §221(a)(104)(B), struck out par. (5) which related to rates of ticket tax for transportation beginning before Oct. 1, 1999.
 
 <b>2012</b>—Subsec. (j). Pub. L. 112–95, §1103(c), added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -255,7 +239,7 @@ Subsec. (e)(1)(B)(ii)(III). Pub. L. 109–59, §11122(a)(2), added subcl. (III).
 
 Subsec. (e)(4)(C). Pub. L. 109–135 substituted "imposed by subsection (b)" for "imposed subsection (b)".
 
-Subsec. (f). Pub. L. 109–59, §11121(c), amended heading and text of subsec. (f) generally. Prior to amendment,text read as follows: "No tax shall be imposed under subsection (a) or (b) on air transportation by helicopter for the purpose of—
+Subsec. (f). Pub. L. 109–59, §11121(c), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "No tax shall be imposed under subsection (a) or (b) on air transportation by helicopter for the purpose of—
 
 &emsp;"(1) transporting individuals, equipment, or supplies in the exploration for, or the development or removal of, hard minerals, oil, or gas, or
 
@@ -372,6 +356,10 @@ Pub. L. 87–508, §5(a), substituted provision imposing a tax equivalent to 10 
 Subsec. (b). Act July 25, 1956, §1, substituted "taxable transportation (as defined in section 4262) of any person by rail, motor vehicle, water, or air, but only if such transportation begins and ends in the United States" for "transportation of persons by rail, motor vehicle, water, or air which begins and ends in the United States".
 
 Subsec. (d). Act July 25, 1956, §4(b), substituted "Except as provided in section 4264, the" for "The".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2012 Amendment
 
@@ -515,7 +503,7 @@ Pub. L. 97–248, title II, §280(d), Sept. 3, 1982, 96 Stat. 565, provided that
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1970 Amendment
 

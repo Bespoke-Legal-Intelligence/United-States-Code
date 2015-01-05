@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) losses sustained directly by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing, or
 
-&emsp;&emsp;&emsp;(ii) losses (treated under section 165(g)(1) as losses from the sale or exchange of capital assets) from securities which become worthless by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof,or any agency or instrumentality of the foregoing.
+&emsp;&emsp;&emsp;(ii) losses (treated under section 165(g)(1) as losses from the sale or exchange of capital assets) from securities which become worthless by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing.
 
 #### (B) Portion of loss attributable to foreign expropriation capital loss
 
@@ -236,15 +236,27 @@ Pub. L. 88–272 designated existing provisions as subsec. (a), limited such sub
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–325, title I, §101(c), Dec. 22, 2010, 124 Stat. 3538, provided that:
+Pub. L. 111–325, title I, §101(c), Dec. 22, 2010, 124 Stat. 3538, as amended by Pub. L. 113–295, div. A, title II, §205(a)(1), Dec. 19, 2014, 128 Stat. 4025, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 1222 of this title\] shall apply to net capital losses for taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and section 1222 of this title\] shall apply to net capital losses for taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].
 
 "(2)
 
-Coordination rules.—Subparagraph (B) of section 1212(a)(3) of the Internal Revenue Code of 1986, as added by this section, shall apply to taxable years beginning after the date of the enactment of this Act."
+Coordination rules.—Subparagraph (B) of section 1212(a)(3) of the Internal Revenue Code of 1986, as added by this section, shall apply to taxable years beginning after the date of the enactment of this Act.
+
+"(3)
+
+Excise tax.—
+
+&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), for purposes of section 4982 of the Internal Revenue Code of 1986, paragraphs (1) and (2) shall apply by substituting 'the 1-year periods taken into account under subsection (b)(1)(B) of such section with respect to calendar years beginning after December 31, 2010' for 'taxable years beginning after the date of the enactment of this Act'.
+
+&emsp;"(B)
+
+Election.—A regulated investment company may elect to apply subparagraph (A) by substituting '2011' for '2010'. Such election shall be made at such time and in such form and manner as the Secretary of the Treasury (or the Secretary's delegate) shall prescribe."
 
 #### Effective Date of 2004 Amendment
 
@@ -276,7 +288,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayerafter June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
+Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -308,7 +320,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 91–688, §3, Jan. 12, 1971, 84 Stat. 2073, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(a) For purposes of applying section 1212(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 512 of the Tax Reform Act of 1969) in the case of a corporation which makes an election under subsection (b), any net capital loss sustained in a taxable year beginning after December 31, 1969, may not be carried back to any taxable year beginning before January 1, 1970, for which it was subject to taxation under section 802 of such Code \[section 802 of this title\], if the carryback of such loss would result in an increase in such corporation's income tax liability for any such taxable year.
+"(a) For purposes of applying section 1212(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (asamended by section 512 of the Tax Reform Act of 1969) in the case of a corporation which makes an election under subsection (b), any net capital loss sustained in a taxable year beginning after December 31, 1969, may not be carried back to any taxable year beginning before January 1, 1970, for which it was subject to taxation under section 802 of such Code \[section 802 of this title\], if the carryback of such loss would result in an increase in such corporation's income tax liability for any such taxable year.
 
 "(b) An election to have the provisions of subsection (a) apply shall be made by a corporation—
 

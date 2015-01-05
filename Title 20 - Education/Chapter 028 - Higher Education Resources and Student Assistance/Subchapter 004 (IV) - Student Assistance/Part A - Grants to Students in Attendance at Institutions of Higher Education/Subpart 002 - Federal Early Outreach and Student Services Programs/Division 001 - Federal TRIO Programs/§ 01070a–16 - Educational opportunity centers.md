@@ -6,7 +6,7 @@ The Secretary shall carry out a program to be known as educational opportunity c
 
 &emsp;(1) to provide information with respect to financial and academic assistance available for individuals desiring to pursue a program of postsecondary education;
 
-&emsp;(2) to provide assistance to such persons in applying for admission to institutions atwhich a program of postsecondary education is offered, including preparing necessary applications for use by admissions and financial aid officers; and
+&emsp;(2) to provide assistance to such persons in applying for admission to institutions at which a program of postsecondary education is offered, including preparing necessary applications for use by admissions and financial aid officers; and
 
 &emsp;(3) to improve the financial literacy and economic literacy of students, including—
 

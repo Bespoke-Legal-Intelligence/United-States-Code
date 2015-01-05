@@ -2,7 +2,7 @@
 
 #### (a) Establishment and composition
 
-There is hereby established a <sup>1</sup> Information Security and Privacy Advisory Board within theDepartment of Commerce. The Secretary of Commerce shall appoint the chairman of the Board. The Board shall be composed of twelve additional members appointed by the Secretary of Commerce as follows:
+There is hereby established a <sup>1</sup> Information Security and Privacy Advisory Board within the Department of Commerce. The Secretary of Commerce shall appoint the chairman of the Board. The Board shall be composed of twelve additional members appointed by the Secretary of Commerce as follows:
 
 &emsp;(1) four members from outside the Federal Government who are eminent in the information technology industry, at least one of whom is representative of small or medium sized companies in such industries;
 
@@ -16,9 +16,9 @@ The duties of the Board shall be—
 
 &emsp;(1) to identify emerging managerial, technical, administrative, and physical safeguard issues relative to information security and privacy;
 
-&emsp;(2) to advise the Institute and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under section 278g–3 of this title; and
+&emsp;(2) to advise the Institute, the Secretary of Homeland Security, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under section 278g–3 of this title; and
 
-&emsp;(3) to report annually its findings to the Secretary of Commerce, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate committees of the Congress.
+&emsp;(3) to report annually its findings to the Secretary of Commerce, the Secretary of Homeland Security, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate committees of the Congress.
 
 #### (c) Term of office
 
@@ -48,9 +48,13 @@ To provide the staff services necessary to assist the Board in carrying out its 
 
 As used in this section, the terms "information system" and "information technology" have the meanings given in section 278g–3 of this title.
 
-(Mar. 3, 1901, ch. 872, §21, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1727; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 107–296, title X, §1004, Nov. 25, 2002, 116 Stat. 2271; Pub. L. 107–347, title III, §304, Dec. 17, 2002, 116 Stat. 2959.)
+(Mar. 3, 1901, ch. 872, §21, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1727; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 107–296, title X, §1004, Nov. 25, 2002, 116 Stat. 2271; Pub. L. 107–347, title III, §304, Dec. 17, 2002, 116 Stat. 2959; Pub. L. 113–283, §2(f)(2), Dec. 18, 2014, 128 Stat. 3087.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2). Pub. L. 113–283, §2(f)(2)(A), inserted ", the Secretary of Homeland Security," after "the Institute".
+
+Subsec. (b)(3). Pub. L. 113–283, §2(f)(2)(B), inserted "the Secretary of Homeland Security," after "the Secretary of Commerce,".
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296, §1004(1), and Pub. L. 107–347, §304(1), amended subsec. (a) identically, substituting "Information Security and Privacy Advisory Board" for "Computer System Security and Privacy Advisory Board" in introductory provisions.
 
@@ -74,13 +78,13 @@ Subsec. (h). Pub. L. 107–296, §1004(10), and Pub. L. 107–347, §304(10), am
 
 Pub. L. 107–296, §1004(9), and Pub. L. 107–347, §304(9), amended section identically, redesignating subsec. (g) as (h).
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–418, which directed that this chapter be amended by substituting "Institute" for "National Bureau of Standards", "Bureau",or "bureau", wherever appearing, was executed to par. (2) by substituting "Institute" for "Bureau of Standards", to reflect the probable intent of Congress.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–418, which directed that this chapter be amended by substituting "Institute" for "National Bureau of Standards", "Bureau", or "bureau", wherever appearing, was executed to par. (2) by substituting "Institute" for "Bureau of Standards", to reflect the probable intent of Congress.
 
 Subsec. (f). Pub. L. 100–418 substituted "Institute" for "National Bureau of Standards".
 
 #### Effective Date of 2002 Amendments
 
-Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date note under section 3541 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a note under section 3504 of Title 44, Public Printing and Documents.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 

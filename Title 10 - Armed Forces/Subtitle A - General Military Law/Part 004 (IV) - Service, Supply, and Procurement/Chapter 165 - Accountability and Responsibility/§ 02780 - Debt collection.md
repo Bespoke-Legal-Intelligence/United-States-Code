@@ -1,6 +1,6 @@
 ### §2780. Debt collection
 
-(a)(1) Subject to paragraph (2), the Secretary of Defense shall enter into one or more contracts with a person for collection services to recover indebtedness owed to the United States (arising out of activities related to Departmentof Defense) that is delinquent by more than three months.
+(a)(1) Subject to paragraph (2), the Secretary of Defense shall enter into one or more contracts with a person for collection services to recover indebtedness owed to the United States (arising out of activities related to Department of Defense) that is delinquent by more than three months.
 
 (2) The authority of the Secretary to enter into a contract under this section for any fiscal year is subject to the availability of appropriations.
 

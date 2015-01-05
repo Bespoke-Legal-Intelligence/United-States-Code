@@ -72,7 +72,7 @@ Effective Service of Process.—For the purposes of this section—
 
 Authority for Court To Treat Retired Pay as Property of the Member and Spouse.—(1) Subject to the limitations of this section, a court may treat disposable retired pay payable to a member for pay periods beginning after June 25, 1981, either as property solely of the member or as property of the member and his spouse in accordance with the law of the jurisdiction of such court. A court may not treat retired pay as property in any proceeding to divide or partition any amount of retired pay of a member as the property of the member and the member's spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member's spouse or former spouse (A) was issued before June 25, 1981, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member's spouse or former spouse.
 
-(2) Notwithstanding any other provision of law, this section does not create any right, title, or interest which can be sold, assigned, transferred, or otherwise disposed of (including by inheritance) by a spouse or former spouse. Payments by the Secretary concerned under subsection (d) to a spouse or former spouse with respect to a division of retired pay as the property of a member and the member's spouse under this subsection may not be treated as amounts received as retired pay for service in the uniformed services.
+(2) Notwithstanding any other provision of law, this section does not create any right, title,or interest which can be sold, assigned, transferred, or otherwise disposed of (including by inheritance) by a spouse or former spouse. Payments by the Secretary concerned under subsection (d) to a spouse or former spouse with respect to a division of retired pay as the property of a member and the member's spouse under this subsection may not be treated as amounts received as retired pay for service in the uniformed services.
 
 (3) This section does not authorize any court to order a member to apply for retirement or retire at a particular time in order to effectuate any payment under this section.
 
@@ -178,7 +178,7 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (8) Payments in accordance with this subsection shall be made out of funds in the Department of Defense Military Retirement Fund established by section 1461 of this title or, in the case of the Coast Guard, out of funds appropriated to the Department of Homeland Security for payment of retired pay for the Coast Guard.
 
-(9)(A) A spouse or former spouse of a member or former member of the armed forces referred to in paragraph (2)(A), while receiving payments in accordance with this subsection, shall be entitled to receive medical and dental care, to use commissary and exchange stores, and to receive any other benefit that a spouse or a former spouse of a retired member of the armed forces is entitled to receive on the basis of being a spouse or former spouse, as the case may be, of a retired member of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
+(9)(A) A spouse or former spouse of a member or former member of the armed forces referredto in paragraph (2)(A), while receiving payments in accordance with this subsection, shall be entitled to receive medical and dental care, to use commissary and exchange stores, and to receive any other benefit that a spouse or a former spouse of a retired member of the armed forces is entitled to receive on the basis of being a spouse or former spouse, as the case may be, of a retired member of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
 
 (B) A dependent child of a member or former member referred to in paragraph (2)(A) who was a member of the household of the member or former member at the time of the misconduct described in paragraph (2)(A) shall be entitled to receive medical and dental care, to use commissary and exchange stores, and to have other benefits provided to dependents of retired members of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
 
@@ -186,7 +186,7 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (10)(A) For purposes of this subsection, in the case of a member of the armed forces who has been sentenced by a court-martial to receive a punishment that will terminate the eligibility of that member to receive retired pay if executed, the eligibility of that member to receive retired pay may, as determined by the Secretary concerned, be considered terminated effective upon the approval of that sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice).
 
-(B) If each form of the punishment that would result in the termination of eligibility to receive retired pay is later remitted, set aside, or mitigated to a punishment that does not result in the termination of that eligibility, a payment of benefits to the eligible recipient under this subsection that is based on the punishment so vacated, set aside, or mitigated shall cease. The cessation of payments shall be effective as of thefirst day of the first month following the month in which the Secretary concerned notifies the recipient of such benefits in writing that payment of the benefits will cease. The recipient may not be required to repay the benefits received before that effective date (except to the extent necessary to recoup any amount that was erroneous when paid).
+(B) If each form of the punishment that would result in the termination of eligibility to receive retired pay is later remitted, set aside, or mitigated to a punishment that does not result in the termination of that eligibility, a payment of benefits to the eligible recipient under this subsection that is based on the punishment so vacated, set aside, or mitigated shall cease. The cessation of payments shall be effective as of the first day of the first month following the month in which the Secretary concerned notifies the recipient of such benefits in writing that payment of the benefits will cease. The recipient may not be required to repay the benefits received before that effective date (except to the extent necessary to recoup any amount that was erroneous when paid).
 
 (11) In this subsection, the term "dependent child", with respect to a member or former member of the armed forces referred to in paragraph (2)(A), means an unmarried legitimate child, including an adopted child or a stepchild of the member or former member, who—
 
@@ -320,7 +320,7 @@ Subsec. (c). Pub. L. 101–510, §555(g)(3), inserted heading.
 
 Subsec. (c)(1). Pub. L. 101–510, §555(f)(2), substituted "retired pay" for "retired or retainer pay".
 
-Pub. L. 101–510, §555(a), inserted at end "A court may not treat retired pay as property in any proceeding to divide or partition any amount of retired pay of a member as the property of the member and the member's spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member's spouse or former spouse (A) was issued before June 25, 1981, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member's spouse or former spouse."
+Pub. L. 101–510, §555(a), inserted at end "A court may not treat retired pay as property in any proceeding todivide or partition any amount of retired pay of a member as the property of the member and the member's spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member's spouse or former spouse (A) was issued before June 25, 1981, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member's spouse or former spouse."
 
 Subsec. (c)(2). Pub. L. 101–510, §555(c), inserted at end "Payments by the Secretary concerned under subsection (d) to a spouse or former spouse with respect to a division of retired pay as the property of a member and the member's spouse under this subsection may not be treated as amounts received as retired pay for service in the uniformed services."
 
@@ -394,7 +394,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 362(c) of Pub. L. 104–193 effective six months after Aug. 22, 1996, see section 362(d) of Pub. L. 104–193, set out as a note under section 659 of Title 42, The Public Health and Welfare.
+Amendment by section 362(c) of Pub. L. 104–193 effective six months after Aug. 22, 1996, see section 362(d) ofPub. L. 104–193, set out as a note under section 659 of Title 42, The Public Health and Welfare.
 
 For effective date of amendment by section 363(c)(1)–(3) of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42.
 
@@ -422,7 +422,7 @@ Pub. L. 99–661, div. A, title VI, §644(b), Nov. 14, 1986, 100 Stat. 3887, pro
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–525, title VI, §643(e), Oct. 19, 1984, 98 Stat. 2548, provided that: "The amendments made by thissection \[amending this section\] shall apply with respect to court orders for which effective service (as described in section 1408(b)(1) of title 10, United States Code, as amended by subsection (b) of this section) is made on or after the date of the enactment of this Act \[Oct. 19, 1984\]."
+Pub. L. 98–525, title VI, §643(e), Oct. 19, 1984, 98 Stat. 2548, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to court orders for which effective service (as described in section 1408(b)(1) of title 10, United States Code, as amended by subsection (b) of this section) is made on or after the date of the enactment of this Act \[Oct. 19, 1984\]."
 
 #### Effective Date; Transition Provisions
 

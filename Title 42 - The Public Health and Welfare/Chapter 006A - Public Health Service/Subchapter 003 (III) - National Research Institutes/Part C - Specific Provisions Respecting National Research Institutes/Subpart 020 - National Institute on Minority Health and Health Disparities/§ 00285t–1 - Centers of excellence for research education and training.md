@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of the Institute shall make awards of grants or contracts to designated biomedical and behavioral research institutions under paragraph (1) of subsection (c) of this section, or to consortia under paragraph (2) of such subsection, for the purpose of assisting the institutions in supporting programs of excellence in biomedical and behavioral research training forindividuals who are members of minority health disparity populations or other health disparity populations.
+The Director of the Institute shall make awards of grants or contracts to designated biomedical and behavioral research institutions under paragraph (1) of subsection (c) of this section, or to consortia under paragraph (2) of such subsection, for the purpose of assisting the institutions in supporting programs of excellence in biomedical and behavioral research training for individuals who are members of minority health disparity populations or other health disparity populations.
 
 #### (b) Required use of funds
 
@@ -70,7 +70,7 @@ Section was formerly classified to section 287c–32 of this title prior to renu
 
 <b>2010</b>—Subsecs. (a), (c)(3) to (f). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted "Institute" for "Center" wherever appearing.
 
-<b>2007</b>—Subsec. (h). Pub. L. 109–482 struck out heading and text of subsec. (h). Text read as follows: "For the purpose of making grants under subsection (a) of thissection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
+<b>2007</b>—Subsec. (h). Pub. L. 109–482 struck out heading and text of subsec. (h). Text read as follows: "For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
 
 #### Effective Date of 2007 Amendment
 

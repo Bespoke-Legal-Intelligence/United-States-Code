@@ -24,7 +24,7 @@ As used in this subpart:
 
 &emsp;&emsp;(A) in the case of a station more than 50 percent of which is owned by a public entity, such public entity;
 
-&emsp;&emsp;(B) in the case of a station more than 50 percent of which is owned by a private party,the persons providing intercity or commuter rail transportation to such station, as allocated on an equitable basis by regulation by the Secretary of Transportation; and
+&emsp;&emsp;(B) in the case of a station more than 50 percent of which is owned by a private party, the persons providing intercity or commuter rail transportation to such station, as allocated on an equitable basis by regulation by the Secretary of Transportation; and
 
 &emsp;&emsp;(C) in a case where no party owns more than 50 percent of a station, the persons providing intercity or commuter rail transportation to such station and the owners of the station, other than private party owners, as allocated on an equitable basis by regulation by the Secretary of Transportation.
 

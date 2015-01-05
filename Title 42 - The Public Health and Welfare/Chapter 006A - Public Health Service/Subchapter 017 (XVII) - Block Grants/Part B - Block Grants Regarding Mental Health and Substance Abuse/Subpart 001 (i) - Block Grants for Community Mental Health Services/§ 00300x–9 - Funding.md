@@ -32,7 +32,7 @@ Section 300x–9a, act July 1, 1944, ch. 373, title XIX, §1922, as added Nov. 1
 
 Section 300x–9b, act July 1, 1944, ch. 373, title XIX, §1923, as added Nov. 18, 1988, Pub. L. 100–690, title II, §2040, 102 Stat. 4204; amended Aug. 16, 1989, Pub. L. 101–93, §2(q)(2), 103 Stat. 609, related to service research on community-based mental health treatment programs.
 
-Section 300x–10, act July 1, 1944, ch. 373, title XIX, §1924, formerly §1920B, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3795; renumbered §1924and amended Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), (4), 102 Stat. 4203; Nov. 28, 1990, Pub. L. 101–639, §3(a)(1), 104 Stat. 4601, related to development grants for State comprehensive mental health services plans.
+Section 300x–10, act July 1, 1944, ch. 373, title XIX, §1924, formerly §1920B, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3795; renumbered §1924 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), (4), 102 Stat. 4203; Nov. 28, 1990, Pub. L. 101–639, §3(a)(1), 104 Stat. 4601, related to development grants for State comprehensive mental health services plans.
 
 Section 300x–11, act July 1, 1944, ch. 373, title XIX, §1925, formerly §1920C, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3795; renumbered §1925 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §§2038(3), 2041(a), 102 Stat. 4203, 4205; Aug. 16, 1989, Pub. L. 101–93, §2(o)(1), 103 Stat. 608; Nov. 28, 1990, Pub. L. 101–639, §3(b), 104 Stat. 4601, related to State comprehensive mental health services plans.
 

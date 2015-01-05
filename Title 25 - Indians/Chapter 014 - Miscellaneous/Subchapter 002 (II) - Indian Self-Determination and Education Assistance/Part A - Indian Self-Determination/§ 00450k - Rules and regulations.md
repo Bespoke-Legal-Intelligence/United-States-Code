@@ -10,7 +10,7 @@
 
 &emsp;(ii) as a single set of regulations in title 25 of the Code of Federal Regulations.
 
-(B) The authority to promulgate regulations set forth in this subchapter shall expire if final regulations are not promulgated within 20 months after October 25, 1994.
+(B) The authority to promulgate regulations set forth in this subchapter shall expire if finalregulations are not promulgated within 20 months after October 25, 1994.
 
 #### (b) Conflicting laws and regulations
 
@@ -52,7 +52,7 @@ The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec
 
 #### Codification
 
-In subsec. (a)(1), "chapter 71 of title 41" substituted for "the Contract Disputes Act of 1978 (41 U.S.C. 601 etseq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), "chapter 71 of title 41" substituted for "the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

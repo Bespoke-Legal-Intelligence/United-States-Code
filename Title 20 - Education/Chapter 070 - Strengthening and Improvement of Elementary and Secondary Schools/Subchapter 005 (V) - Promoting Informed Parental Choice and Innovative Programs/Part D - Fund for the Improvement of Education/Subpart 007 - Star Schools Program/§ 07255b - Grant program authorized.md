@@ -44,7 +44,7 @@ The Secretary, in conjunction with the Office of Educational Technology, is auth
 
 &emsp;&emsp;&emsp;(ii) providing new courses of instruction; and
 
-&emsp;&emsp;&emsp;(iii) serving new populations of underserved individuals, such as children or adults who are disadvantaged, have limited English proficiency, are individualswith disabilities, are illiterate, or lack secondary school diplomas or their recognized equivalent.
+&emsp;&emsp;&emsp;(iii) serving new populations of underserved individuals, such as children or adults who are disadvantaged, have limited English proficiency, are individuals with disabilities, are illiterate, or lack secondary school diplomas or their recognized equivalent.
 
 #### (3) Supplement, not supplant
 

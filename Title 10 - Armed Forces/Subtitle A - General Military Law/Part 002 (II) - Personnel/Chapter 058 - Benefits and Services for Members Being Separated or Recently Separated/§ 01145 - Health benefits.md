@@ -50,7 +50,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (4), 
 
 (b)
 
-Conversion Health Policies.—(1) The Secretary of Defense shall inform each member referred to in subsection (a) before the date of the member's discharge or release from active duty of the availability for purchase by the member of a conversion health policy for the member and the dependents of that member. A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.
+Conversion Health Policies.—(1) The Secretary of Defense shall inform each member referred to in subsection (a) before the date of the member's discharge or release from active dutyof the availability for purchase by the member of a conversion health policy for the member and the dependents of that member. A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.
 
 (2) If a member referred to in subsection (a) purchases a conversion health policy during the period applicable to the member (or within a reasonable time after that period as prescribed by the Secretary of Defense), the Secretary shall provide health care, or pay the costs of health care provided, to the member and the dependents of the member—
 
@@ -210,7 +210,7 @@ Elements.—The report under paragraph (1) shall address the following:
 
 &emsp;&emsp;"(B) Plans for integrating telemedicine into the military health care system, including in health care delivery, records management, medical education, public health, and private sector partnerships.
 
-&emsp;&emsp;"(C) The status of the integration of the telemedicine initiatives of the Department with thetelemedicine initiatives of the Department of Veterans Affairs.
+&emsp;&emsp;"(C) The status of the integration of the telemedicine initiatives of the Department with the telemedicine initiatives of the Department of Veterans Affairs.
 
 &emsp;&emsp;"(D) A description and assessment of challenges to the use of telemedicine as a means of in-home treatment, outreach in rural areas, and in settings that provide group treatment or therapy in connection with treatment of post-traumatic stress disorder, traumatic brain injuries, and mental health conditions, and a description and assessment of efforts to address such challenges.
 

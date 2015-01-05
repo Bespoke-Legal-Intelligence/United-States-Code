@@ -2,7 +2,7 @@
 
 #### (a) Purposes; amounts
 
-(1) For the purpose of carrying out the provisions of section 640d–14 of this title, there ishereby authorized to be appropriated not to exceed $31,500,000.
+(1) For the purpose of carrying out the provisions of section 640d–14 of this title, there is hereby authorized to be appropriated not to exceed $31,500,000.
 
 (2) For the purpose of carrying out the provisions of section 640d–18(a) of this title, there is hereby authorized to be appropriated not to exceed $10,000,000.
 

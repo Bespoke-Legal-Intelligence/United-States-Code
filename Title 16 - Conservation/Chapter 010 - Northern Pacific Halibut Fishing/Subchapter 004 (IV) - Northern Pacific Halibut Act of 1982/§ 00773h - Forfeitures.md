@@ -10,7 +10,7 @@ Any district court of the United States shall have jurisdiction, upon applicatio
 
 #### (c) Seizure of forfeited property
 
-If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this subchapter or for which security has not previously been obtained under subsection (d) of this section. The provisions of the customs laws relating to—
+If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this subchapter or for whichsecurity has not previously been obtained under subsection (d) of this section. The provisions of the customs laws relating to—
 
 &emsp;(1) the disposition of forfeited property;
 

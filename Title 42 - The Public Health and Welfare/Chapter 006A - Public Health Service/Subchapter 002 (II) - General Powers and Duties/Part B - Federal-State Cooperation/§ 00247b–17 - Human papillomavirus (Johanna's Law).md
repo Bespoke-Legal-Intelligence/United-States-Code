@@ -30,7 +30,7 @@
 
 #### (2) Report; final proposal
 
-&emsp;The Secretary shall make a progress report to the Congress with respect to paragraph (1) not later than 1 year after the effective date ofthis section, and shall develop a final report not later than 3 years after such effective date, including a detailed summary of the significant findings and problems and the best strategies to prevent future infections, based on available science.
+&emsp;The Secretary shall make a progress report to the Congress with respect to paragraph (1) not later than 1 year after the effective date of this section, and shall develop a final report not later than 3 years after such effective date, including a detailed summary of the significant findings and problems and the best strategies to prevent future infections, based on available science.
 
 #### (c) HPV education and prevention
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;Not later than 6 months after January 12, 2007, the Secretary shall submit to the Congress a report including the following:
 
-&emsp;&emsp;&emsp;(i) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of the public with respect to different types of cancer, including gynecologic cancers.
+&emsp;&emsp;&emsp;(i) A description of the past and present activities of the Department of Health andHuman Services to increase awareness and knowledge of the public with respect to different types of cancer, including gynecologic cancers.
 
 &emsp;&emsp;&emsp;(ii) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of health care providers with respect to different types of cancer, including gynecologic cancers.
 

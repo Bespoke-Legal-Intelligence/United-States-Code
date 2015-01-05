@@ -34,7 +34,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### (1) In general
 
-&emsp;In the event that the Board does not conduct examinations required under subsection (b) in the same manner, subject to the same standards, and with the same frequency as would be required if such activities were conducted by the lead insured depository institution subsidiary of the depository institution holdingcompany, the appropriate Federal banking agency for the lead insured depository institution may recommend in writing (which shall include a written explanation of the concerns giving rise to the recommendation) that the Board perform the examination required under subsection (b).
+&emsp;In the event that the Board does not conduct examinations required under subsection (b) in the same manner, subject to the same standards, and with the same frequency as would be required if such activities were conducted by the lead insured depository institution subsidiary of the depository institution holding company, the appropriate Federal banking agency for the lead insured depository institution may recommend in writing (which shall include a written explanation of the concerns giving rise to the recommendation) that the Board perform the examination required under subsection (b).
 
 #### (2) Examination by an appropriate Federal banking agency
 
@@ -84,7 +84,7 @@ Each Federal banking agency, prior to or when exercising authority under subsect
 
 &emsp;&emsp;(B) avoid duplication of examination activities, reporting requirements, and requests for information; and
 
-&emsp;&emsp;(C) ensure that the depository institution holding company and the subsidiaries of thedepository institution holding company are not subject to conflicting supervisory demands by the appropriate Federal banking agencies.
+&emsp;&emsp;(C) ensure that the depository institution holding company and the subsidiaries of the depository institution holding company are not subject to conflicting supervisory demands by the appropriate Federal banking agencies.
 
 #### (g) Rule of construction
 

@@ -22,7 +22,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(A) the obtaining of a real property interest in lands or waters, including water rights, of a wetland ecosystem and associated habitat if the obtaining of such interest is subject to terms and conditions that will ensure that the real property will be administered for the long-term conservation of such lands and waters and the migratory birds and other fish and wildlife dependent thereon;
 
-&emsp;&emsp;(B) the restoration, management, or enhancement of wetland ecosystems and associated habitat for migratory birds and other fish and wildlife species if such restoration, management, or enhancement is conducted on lands and waters that are administered for the long-term conservation of such landsand waters and the migratory birds and other fish and wildlife dependent thereon; and
+&emsp;&emsp;(B) the restoration, management, or enhancement of wetland ecosystems and associated habitat for migratory birds and other fish and wildlife species if such restoration, management, or enhancement is conducted on lands and waters that are administered for the long-term conservation of such lands and waters and the migratory birds and other fish and wildlife dependent thereon; and
 
 &emsp;&emsp;(C) in the case of projects undertaken in Mexico, includes technical training and development of infrastructure necessary for the conservation and management of wetlands and studies on the sustainable use of wetland resources.
 

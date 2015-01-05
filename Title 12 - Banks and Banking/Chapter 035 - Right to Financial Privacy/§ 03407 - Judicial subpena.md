@@ -4,7 +4,7 @@ A Government authority may obtain financial records under section 3402(4) of thi
 
 &emsp;(1) such subpena is authorized by law and there is reason to believe that the records sought are relevant to a legitimate law enforcement inquiry;
 
-&emsp;(2) a copy of the subpena has been served upon the customer or mailed to his last known address on or before the date on which the subpena was served on the financial institution together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry:
+&emsp;(2) a copy of the subpena has been served upon the customer or mailed to his last known address on or before the date on which the subpena was served on the financial institutiontogether with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry:
 
 &emsp;"Records or information concerning your transactions which are held by the financial institution named in the attached subpena are being sought by this (agency or department or authority) in accordance with the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose: If you desire that such records or information not be made available, you must:
 

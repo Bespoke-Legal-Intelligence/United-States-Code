@@ -22,13 +22,13 @@ Historical and Revision Notes
 
 5 U.S.C. 1122.
 
-Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 702”, 76 Stat. 847.
+Oct. 11, 1962, Pub. L. 87–793, §603 "Sec. 702", 76 Stat. 847.
 
 (c)
 
 5 U.S.C. 1123 (less applicability to 5 U.S.C. 1121).
 
-Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 703 (less applicability to §701)”, 76 Stat. 847.
+Oct. 11, 1962, Pub. L. 87–793, §603 "Sec. 703 (less applicability to §701)", 76 Stat. 847.
 
 For repeal of Title VII (sections 701–705) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 967–969, as amended, see revision note for section 5335.
 
@@ -36,11 +36,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–89 struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–89 struck out "covered by the performance management and recognition system established under chapter 54 of this title, or," after "individual".
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–615 substituted "the performance management and recognition system established under chapter 54" for "the merit pay system established under section 5402".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
 Subsec. (c). Pub. L. 95–454, §503(h), inserted reference to merit pay system established under section 5402 of this title.
 

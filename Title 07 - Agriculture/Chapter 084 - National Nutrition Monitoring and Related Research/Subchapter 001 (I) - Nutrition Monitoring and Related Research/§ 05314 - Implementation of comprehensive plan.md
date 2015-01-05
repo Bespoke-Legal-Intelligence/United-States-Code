@@ -2,9 +2,9 @@
 
 #### (a) In general
 
-The comprehensive plan shall be carried out during the period ending with the close of the ninth fiscal year following the fiscal year in which the comprehensive plan is submitted inits final form under section 5313(d)(2) of this title and shall be—
+The comprehensive plan shall be carried out during the period ending with the close of the ninth fiscal year following the fiscal year in which the comprehensive plan is submitted in its final form under section 5313(d)(2) of this title and shall be—
 
-&emsp;(1) carried out in accordance with, and meet the program objectives specified in, section 5313(a) of this title and section 5313(b) of this title;
+&emsp;(1) carried out in accordance with, and meet the program objectives specified in, section5313(a) of this title and section 5313(b) of this title;
 
 &emsp;(2) carried out, by the Federal agencies involved, in accordance with the allocation of functions and activities under section 5313(c) of this title; and
 

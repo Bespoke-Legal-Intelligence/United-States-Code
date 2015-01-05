@@ -12,7 +12,7 @@
 
 (2) The Secretary of Transportation may not compromise for less than $500 a penalty under section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters.
 
-(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or valueis not recovered because of a compromise under this section.
+(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
 
 (d) The head of an executive, judicial, or legislative agency acts under—
 
@@ -66,7 +66,7 @@
 
 (5) The head of each executive agency may provide to a consumer reporting agency or commercial reporting agency information from a system of records that a person is responsible for a claim which is current, if notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency or commercial reporting agency, respectively.
 
-(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by theSecretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (2) The Secretary of Homeland Security may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
@@ -118,7 +118,7 @@
 
 (6) Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge a fee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
 
-(7) Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section <sup>2</sup> as the "Account"). Amounts deposited in the Account shall be available until expended to cover costs associated with the implementation and operation of Governmentwide debt collection activities. Costs properly chargeable to the Account include—
+(7) Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section <sup>2</sup> as the "Account"). Amounts deposited in the Account shall beavailable until expended to cover costs associated with the implementation and operation of Governmentwide debt collection activities. Costs properly chargeable to the Account include—
 
 &emsp;(A) the costs of computer hardware and software, word processing and telecommunications equipment, and other equipment, supplies, and furniture;
 
@@ -180,7 +180,7 @@
 
 &emsp;(ii) The cumulative balance of delinquent debts, debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 
-&emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that are directly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
+&emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that aredirectly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
 
 &emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to such loan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
 
@@ -188,7 +188,7 @@
 
 (5) This subsection is not intended to limit existing statutory authority of agencies to sell loans, debts, or other assets.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat.566; Pub. L. 110–389, title VIII, §801(a), Oct. 10, 2008, 122 Stat. 4185.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, §801(a), Oct. 10, 2008, 122 Stat. 4185.)
 
 Historical and Revision Notes<br>1982
 

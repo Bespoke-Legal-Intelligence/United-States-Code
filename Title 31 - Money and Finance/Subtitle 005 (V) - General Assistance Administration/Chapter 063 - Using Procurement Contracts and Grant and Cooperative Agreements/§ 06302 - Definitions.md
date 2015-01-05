@@ -20,7 +20,7 @@ In this chapter—
 
 &emsp;(4) "other recipient" means a person or recipient (except a State or local government) authorized to receive United States Government assistance or procurement contracts and includes a charitable or educational institution.
 
-&emsp;(5) "State" means a State of the United States, the District of Columbia, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State, regional, or interstate entity having governmental duties and powers.
+&emsp;(5) "State" means a State of the United States, the District of Columbia, a territory orpossession of the United States, an agency or instrumentality of a State, and a multi-State, regional, or interstate entity having governmental duties and powers.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1003.)
 

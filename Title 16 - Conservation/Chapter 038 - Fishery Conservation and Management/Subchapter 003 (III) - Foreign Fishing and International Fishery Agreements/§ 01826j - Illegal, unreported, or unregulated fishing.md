@@ -36,7 +36,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;The Secretary may establish a procedure for certification, on a shipment-by-shipment, shipper-by-shipper, or other basis of fish or fish products from a vessel of a harvesting nation not certified under paragraph (1) if the Secretary determines that—
 
-&emsp;&emsp;(A) the vessel has not engaged in illegal, unreported, or unregulated fishing under aninternational fishery management agreement to which the United States is a party; or
+&emsp;&emsp;(A) the vessel has not engaged in illegal, unreported, or unregulated fishing under an international fishery management agreement to which the United States is a party; or
 
 &emsp;&emsp;(B) the vessel is not identified by an international fishery management organization as participating in illegal, unreported, or unregulated fishing activities.
 

@@ -24,7 +24,7 @@ To the maximum extent possible, and consistent with the particular purposes of t
 
 &emsp;(1) the American Business Centers established pursuant to this section place special emphasis on assistance to United States small- and medium-sized businesses to facilitate their entry into the commercial markets of the independent states;
 
-&emsp;(2) such centers offer office space, business facilities, and market analysis services toUnited States firms, trade associations, and State economic development offices on a user-fee basis that minimizes the cost of operating such centers;
+&emsp;(2) such centers offer office space, business facilities, and market analysis services to United States firms, trade associations, and State economic development offices on a user-fee basis that minimizes the cost of operating such centers;
 
 &emsp;(3) such centers serve as a repository for commercial, legal, and technical information, including environmental and export control information;
 

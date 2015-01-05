@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purposes
 
-There is established in the Congress the United States Capitol Preservation Commission (hereinafter in this part referred to as the “Commission”) for the purposes of—
+There is established in the Congress the United States Capitol Preservation Commission (hereinafter in this part referred to as the "Commission") for the purposes of—
 
 &emsp;(1) providing for improvements in, preservation of, and acquisitions for, the United States Capitol;
 
@@ -24,7 +24,7 @@ The Commission shall be composed of the following Members of Congress:
 
 &emsp;(5) The majority leader and the minority leader of the House of Representatives.
 
-&emsp;(6) The Chairman of the Commission on the Bicentennial of the United States Senate and the Chairman of the Commission of the House of Representatives Bicentenary, to be succeeded upon expiration of such commissions, by a Senator or Member of the House of Representatives, as appropriate, appointed by the Senate or House of Representatives co-chairman of the Commission, respectively.
+&emsp;(6) The Chairman of the Commission on the Bicentennial of the United States Senate andthe Chairman of the Commission of the House of Representatives Bicentenary, to be succeeded upon expiration of such commissions, by a Senator or Member of the House of Representatives, as appropriate, appointed by the Senate or House of Representatives co-chairman of the Commission, respectively.
 
 &emsp;(7) One Senator appointed by the President pro tempore of the Senate and one Senator appointed by the minority leader of the Senate.
 
@@ -32,11 +32,11 @@ The Commission shall be composed of the following Members of Congress:
 
 #### (c) Designees
 
-Each member of the Commission specified under subsection (b) of this section (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
+Each member of the Commission specified under subsection (b) (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
 
 #### (d) Architect of the Capitol
 
-In addition to the members under subsection (b) of this section, the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
+In addition to the members under subsection (b), the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
 
 #### (e) Staff support and assistance
 
@@ -50,7 +50,7 @@ Section was classified to section 188a of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–186 substituted "House Oversight" for "House Administration".
 
 #### Change of Name
 

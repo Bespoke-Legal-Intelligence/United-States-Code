@@ -10,7 +10,7 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
 &emsp;&emsp;(C) the outmigration of population from eligible areas and the extent to which the outmigration is causing economic injury in the eligible areas;
 
-&emsp;(2) allocations of assistance under this subchapter are prioritized to ensure that the level of economic distress of an area, rather than a preference for a geographic area or a specific type of economic distress, is the primary factor in allocating the assistance;
+&emsp;(2) allocations of assistance under this subchapter are prioritized to ensure that the level of economic distress of an area, rather than a preference for a geographic area or a specifictype of economic distress, is the primary factor in allocating the assistance;
 
 &emsp;(3)(A) rural and urban economically distressed areas are not harmed by the establishment or implementation by the Secretary of a private sector leveraging goal for a project under this subchapter;
 

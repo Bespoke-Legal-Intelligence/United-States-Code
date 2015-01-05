@@ -18,7 +18,7 @@ In general.—During a suspension under this section, the President shall impose
 
 &emsp;(2)
 
-Exceptions.—Notwithstanding paragraph (1), a toll may not be imposed on passengers orcargo landed at Ogdensburg, New York, or any port west of Ogdensburg and south of a line drawn from the northern boundary of New York through the Saint Lawrence River, the Great Lakes, and their connecting channels to the northern boundary of Minnesota.
+Exceptions.—Notwithstanding paragraph (1), a toll may not be imposed on passengers or cargo landed at Ogdensburg, New York, or any port west of Ogdensburg and south of a line drawn from the northern boundary of New York through the Saint Lawrence River, the Great Lakes, and their connecting channels to the northern boundary of Minnesota.
 
 (d)
 

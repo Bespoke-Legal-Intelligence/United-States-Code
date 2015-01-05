@@ -40,7 +40,7 @@
 
 &emsp;(C) If an individual resumes or begins attendance for purposes of subparagraph (B), the obligation of the individual under the agreement under paragraph (1) shall be considered to have been suspended for the period in which the individual was not in attendance.
 
-&emsp;(D) This paragraph may not be construed as authorizing the waiver or suspension of the obligation of a student to repay, in accordance with section 292r of this title, loans from student loan funds under section 292q of this title.
+&emsp;(D) This paragraph may not be construed as authorizing the waiver or suspension of the obligation of a student to repay, in accordancewith section 292r of this title, loans from student loan funds under section 292q of this title.
 
 #### (b) Requirements for schools
 
@@ -124,7 +124,7 @@ A prior section 723 of act July 1, 1944, was classified to section 293c of this 
 
 <b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–148, §5201(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: "to practice in such care through the date on which the loan is repaid in full."
 
-Subsec. (a)(3). Pub. L. 111–148, §5201(a)(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Each agreement enteredinto with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance."
+Subsec. (a)(3). Pub. L. 111–148, §5201(a)(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance."
 
 Subsec. (d). Pub. L. 111–148, §5201(a)(2), added subsec. (d).
 

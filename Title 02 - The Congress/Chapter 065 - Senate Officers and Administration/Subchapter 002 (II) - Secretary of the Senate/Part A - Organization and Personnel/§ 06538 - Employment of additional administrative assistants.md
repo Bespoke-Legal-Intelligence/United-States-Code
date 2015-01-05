@@ -14,7 +14,7 @@ Section was formerly classified to section 74b of this title prior to editorial 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “is” for “and the Clerk of the House are” and “the jurisdiction of the Secretary” for “their respective jurisdictions”.
+<b>1996</b>—Pub. L. 104–186 substituted "is" for "and the Clerk of the House are" and "the jurisdiction of the Secretary" for "their respective jurisdictions".
 
 #### Effective Date
 

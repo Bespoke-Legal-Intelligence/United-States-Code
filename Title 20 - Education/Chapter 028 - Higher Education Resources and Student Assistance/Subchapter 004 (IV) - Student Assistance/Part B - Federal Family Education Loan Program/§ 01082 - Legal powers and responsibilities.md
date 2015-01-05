@@ -200,7 +200,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;If the Secretary—
 
-&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender isviolating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation;
+&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation;
 
 &emsp;&emsp;(B) determines that immediate action is necessary to prevent misuse of Federal funds; and
 
@@ -234,7 +234,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (1) In general
 
-&emsp;The Secretary shall, by regulation developed in consultation with guaranty agencies, lenders, institutions of higher education, secondary markets, students, third party servicers and other organizations involved in providing loans under this part, prescribe standardized forms and procedures regarding—
+&emsp;The Secretary shall, by regulation developed in consultation with guaranty agencies, lenders, institutions of higher education, secondary markets, students, third party servicersand other organizations involved in providing loans under this part, prescribe standardized forms and procedures regarding—
 
 &emsp;&emsp;(A) origination of loans;
 
@@ -428,7 +428,7 @@ Subsec. (p). Pub. L. 105–244, §427(e), struck out "State postsecondary review
 
 &emsp;"(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;"(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government."
+&emsp;"(2) maintain with respect to insurance under this part an integral set of accounts and prepare financialstatements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government."
 
 <b>1993</b>—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
 

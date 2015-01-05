@@ -74,7 +74,7 @@ In subsection (c) the words "except the authority to prescribe regulations" are 
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239 made technical amendment to directory language of Pub. L. 112–81, §602(a)(2). See 2011 Amendment note below.
 
-<b>2011</b>—Pub. L. 112–81, §602(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: "Quarters: accommodations in place of for members on sea duty".
+<b>2011</b>—Pub. L. 112–81, §602(d)(1), amended section catchline generally. Prior to amendment, catchlineread as follows: "Quarters: accommodations in place of for members on sea duty".
 
 Subsec. (a). Pub. L. 112–81, §602(a)(2), as amended by Pub. L. 112–239, §1076(a)(5), inserted ", because the ship is under construction and is not yet habitable," after "because of repairs" in concluding provisions.
 
@@ -140,7 +140,7 @@ Pub. L. 99–661, div. A, title VI, §603(a), Nov. 14, 1986, 100 Stat. 3874, pro
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–190, §101(b) \[title VIII, §8102\], Dec. 19, 1985, 99 Stat. 1185, 1220, provided that: "The amendments made to section 7572(b)(3) of title 10, United States Code, and to section 3 of Public Law 96–357 (10 U.S.C. 7572 note) by section 606 of the Department of Defense Authorization Act, 1986 \[Pub. L. 99–145\], shall apply to reimbursement of expenses incurred on or after October1, 1985, by a member of a uniformed service on sea duty."
+Pub. L. 99–190, §101(b) \[title VIII, §8102\], Dec. 19, 1985, 99 Stat. 1185, 1220, provided that: "The amendments made to section 7572(b)(3) of title 10, United States Code, and to section 3 of Public Law 96–357 (10 U.S.C. 7572 note) by section 606 of the Department of Defense Authorization Act, 1986 \[Pub. L. 99–145\], shall apply to reimbursement of expenses incurred on or after October 1, 1985, by a member of a uniformed service on sea duty."
 
 #### Effective Date of 1984 Amendment
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective and Termination Date of 1980 Amendment
 
-Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991.
+Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24,1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991.
 
 Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub. L. 99–591, §101(c) \[title IX, §9107\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119, provided that authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) is extended through Sept. 30, 1987, at an amount not to exceed $1,657,000.
 

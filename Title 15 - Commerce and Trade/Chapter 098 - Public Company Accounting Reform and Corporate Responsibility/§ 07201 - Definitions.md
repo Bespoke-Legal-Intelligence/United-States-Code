@@ -50,7 +50,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (A) In general
 
-&emsp;&emsp;The terms "person associated with a public accounting firm" (or with a "registeredpublic accounting firm") and "associated person of a public accounting firm" (or of a "registered public accounting firm") mean any individual proprietor, partner, shareholder, principal, accountant, or other professional employee of a public accounting firm, or any other independent contractor or entity that, in connection with the preparation or issuance of any audit report—
+&emsp;&emsp;The terms "person associated with a public accounting firm" (or with a "registered public accounting firm") and "associated person of a public accounting firm" (or of a "registered public accounting firm") mean any individual proprietor, partner, shareholder, principal, accountant, or other professional employee of a public accounting firm, or any other independent contractor or entity that, in connection with the preparation or issuance of any audit report—
 
 &emsp;&emsp;&emsp;(i) shares in the profits of, or receives compensation in any other form from, that firm; or
 

@@ -42,7 +42,7 @@
 
 #### (C) Percentage and amount not earned
 
-&emsp;&emsp;For purposes of subsection (b) of this section, the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42that has not been earned by the student shall be calculated by—
+&emsp;&emsp;For purposes of subsection (b) of this section, the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student shall be calculated by—
 
 &emsp;&emsp;&emsp;(i) determining the complement of the percentage of grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D, that has been earned by the student described in subparagraph (B); and
 
@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower's obligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
+&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower'sobligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
 
 #### (B) Return
 
@@ -116,7 +116,7 @@
 
 #### (E) Waivers of grant assistance repayment by students affected by disasters
 
-&emsp;&emsp;In addition to the waivers authorized by subparagraph (D), the Secretary may waivethe amounts that students are required to return under this section with respect to any other grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the withdrawals on which the returns are based are withdrawals by students—
+&emsp;&emsp;In addition to the waivers authorized by subparagraph (D), the Secretary may waive the amounts that students are required to return under this section with respect to any other grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the withdrawals on which the returns are based are withdrawals by students—
 
 &emsp;&emsp;&emsp;(i) who were residing in, employed in, or attending an institution of higher education that is located in an area in which the President has declared that a major disaster exists, in accordance with section 5170 of title 42;
 
@@ -128,7 +128,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
+&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment forwhich a return of funds is required. Such excess funds shall be credited in the following order:
 
 &emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -184,7 +184,7 @@ For purposes of subsection (a)(3)(B) of this section, the percentage of the paym
 
 #### (e) Effective date
 
-The provisions of this section shall take effect 2 years after October 7, 1998. An institution ofhigher education may choose to implement such provisions prior to that date.
+The provisions of this section shall take effect 2 years after October 7, 1998. An institution of higher education may choose to implement such provisions prior to that date.
 
 (Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 109–66, §2, Sept. 21, 2005, 119 Stat. 1999; Pub. L. 109–67, §2, Sept. 21, 2005, 119 Stat. 2001; Pub. L. 109–171, title VIII, §8022, Feb. 8, 2006, 120 Stat. 178.)
 

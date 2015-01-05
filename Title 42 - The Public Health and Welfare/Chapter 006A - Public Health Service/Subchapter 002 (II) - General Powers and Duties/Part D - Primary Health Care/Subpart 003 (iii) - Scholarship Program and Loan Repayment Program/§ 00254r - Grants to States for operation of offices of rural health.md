@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Office of Rural Health Policy (established in section 912 of this title), may make grants toStates for the purpose of improving health care in rural areas through the operation of State offices of rural health.
+The Secretary, acting through the Director of the Office of Rural Health Policy (established in section 912 of this title), may make grants to States for the purpose of improving health care in rural areas through the operation of State offices of rural health.
 
 #### (b) Requirement of matching funds
 
@@ -18,7 +18,7 @@ The Secretary, acting through the Director of the Office of Rural Health Policy 
 
 #### (2) Determination of amount of non-Federal contribution
 
-&emsp;(A) Subject to subparagraph (B), non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;(A) Subject to subparagraph (B), non-Federal contributions required in paragraph (1) may bein cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 &emsp;(B) The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that—
 

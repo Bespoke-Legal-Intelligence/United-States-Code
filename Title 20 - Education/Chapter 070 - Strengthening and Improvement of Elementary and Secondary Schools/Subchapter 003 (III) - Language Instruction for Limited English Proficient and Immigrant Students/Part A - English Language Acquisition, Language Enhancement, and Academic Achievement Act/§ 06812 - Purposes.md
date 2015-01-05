@@ -6,7 +6,7 @@ The purposes of this part are—
 
 &emsp;(2) to assist all limited English proficient children, including immigrant children and youth, to achieve at high levels in the core academic subjects so that those children can meet the same challenging State academic content and student academic achievement standards as all children are expected to meet, consistent with section 6311(b)(1) of this title;
 
-&emsp;(3) to develop high-quality language instruction educational programs designed to assist State educational agencies, local educational agencies, and schools in teaching limited English proficient children and serving immigrant children and youth;
+&emsp;(3) to develop high-quality language instruction educational programs designed to assistState educational agencies, local educational agencies, and schools in teaching limited English proficient children and serving immigrant children and youth;
 
 &emsp;(4) to assist State educational agencies and local educational agencies to develop and enhance their capacity to provide high-quality instructional programs designed to prepare limited English proficient children, including immigrant children and youth, to enter all-English instruction settings;
 

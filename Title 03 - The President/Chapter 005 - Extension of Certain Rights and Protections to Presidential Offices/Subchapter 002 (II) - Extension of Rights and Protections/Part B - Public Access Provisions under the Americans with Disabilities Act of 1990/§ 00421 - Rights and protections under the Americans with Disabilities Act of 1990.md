@@ -2,7 +2,7 @@
 
 (a)
 
-Rights and Protections.—The rights and protections against discrimination in the provision of public services and accommodations established by sections 201, 202, and 204, and sections 302, 303, and 309, of the Americans withDisabilities Act of 1990 shall apply, to the extent that public services, programs, or activities are provided, with respect to the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
+Rights and Protections.—The rights and protections against discrimination in the provision of public services and accommodations established by sections 201, 202, and 204, and sections 302, 303, and 309, of the Americans with Disabilities Act of 1990 shall apply, to the extent that public services, programs, or activities are provided, with respect to the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
 
 (b)
 
@@ -10,7 +10,7 @@ Remedy.—The remedy for a violation of subsection (a) shall be such remedy as w
 
 (c)
 
-Definition.—For purposes of the application under this section of the Americans with Disabilities Act of 1990, the term “public entity” as used in such Act, means, to the extent that public services, programs, or activities are provided, the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
+Definition.—For purposes of the application under this section of the Americans with Disabilities Act of 1990, the term "public entity" as used in such Act, means, to the extent that public services, programs, or activities are provided, the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
 
 (d)
 
@@ -26,7 +26,7 @@ Agency regulations.—The regulations issued under paragraph (1) shall be the sa
 
 &emsp;&emsp;(A) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
 
-&emsp;&emsp;(B) except that the President or designee may, at the discretion of the President or designee, issue regulations to implement a provision of section 1, 2, 3, or 6 of the Act entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the “Architectural Barriers Act of 1968”) or section 501 of the Rehabilitation Act of 1973 that applies to agencies of the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in subsection (a) or (b), if the issuance of such regulations—
+&emsp;&emsp;(B) except that the President or designee may, at the discretion of the President or designee, issue regulations to implement a provision of section 1, 2, 3, or 6 of the Act entitled "An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", approved August 12, 1968 (commonly known as the "Architectural Barriers Act of 1968") or section 501 of the Rehabilitation Act of 1973 that applies to agencies of the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in subsection (a) or (b), if the issuance of such regulations—
 
 &emsp;&emsp;&emsp;(i) would be equally effective for the implementation of the rights and protections under this section; and
 
@@ -52,7 +52,7 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (d)(2)(B),
 
 #### Amendments
 
-<b>1999</b>—Subsecs. (a), (c). Pub. L. 106–92 substituted “Dwight D. Eisenhower Executive Office Building” for “Old Executive Office Building”.
+<b>1999</b>—Subsecs. (a), (c). Pub. L. 106–92 substituted "Dwight D. Eisenhower Executive Office Building" for "Old Executive Office Building".
 
 #### Effective Date
 

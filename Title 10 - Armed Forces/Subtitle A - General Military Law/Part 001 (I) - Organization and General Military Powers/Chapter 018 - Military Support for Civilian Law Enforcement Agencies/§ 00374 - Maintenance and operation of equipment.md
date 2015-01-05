@@ -50,7 +50,7 @@
 
 &emsp;(B) The term "land area of the United States" includes the land area of any territory, commonwealth, or possession of the United States.
 
-(c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
+(c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to theextent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
 
 (Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, §1066(a)(4), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–304, §17(a)(1), Oct. 6, 2006, 120 Stat. 1706.)
 
@@ -154,7 +154,7 @@ Pub. L. 103–337, div. A, title X, §1011(b)–(d), Oct. 5, 1994, 108 Stat. 283
 
 "(b)
 
-Condition on Transfer of Funds.—Funds appropriated for the Department of Defense may not betransferred to a National Drug Control Program agency account except to the extent provided in a law that specifically states—
+Condition on Transfer of Funds.—Funds appropriated for the Department of Defense may not be transferred to a National Drug Control Program agency account except to the extent provided in a law that specifically states—
 
 &emsp;"(1) the amount authorized to be transferred;
 
@@ -174,9 +174,13 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;"(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be."
 
-Pub. L. 113–6, div. C, title VIII, §8045(a), Mar. 26, 2013, 127 Stat. 308, provided that: "None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 113–235, div. C, title VIII, §8045(a), Dec. 16, 2014, 128 Stat. 2264, provided that: "None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. C, title VIII, §8045(a), Jan. 17, 2014, 128 Stat. 115.
+
+Pub. L. 113–6, div. C, title VIII, §8045(a), Mar. 26, 2013, 127 Stat. 308.
 
 Pub. L. 112–74, div. A, title VIII, §8045(a), Dec. 23, 2011, 125 Stat. 817.
 
@@ -214,19 +218,19 @@ Pub. L. 104–61, title VIII, §8096(a), Dec. 1, 1995, 109 Stat. 671.
 
 Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658.
 
-#### Additional Support for Counter-Drug Activities
+#### Additional Support for Counter-Drug Activities and Activities To Counter Transnational Organized Crime
 
-Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, §1021, Oct. 17, 2006, 120 Stat. 2382; Pub. L. 111–383, div. A, title X, §1015(a), Jan. 7, 2011, 124 Stat. 4347; Pub. L. 112–81, div. A, title X, §1005, Dec. 31, 2011, 125 Stat. 1556, provided that:
+Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, §1021, Oct. 17, 2006, 120 Stat. 2382; Pub. L. 111–383, div. A, title X, §1015(a), Jan. 7, 2011, 124 Stat. 4347; Pub. L. 112–81, div. A, title X, §1005, Dec. 31, 2011, 125 Stat. 1556; Pub. L. 113–291, div. A, title X, §1012, Dec. 19, 2014, 128 Stat. 3483, provided that:
 
 "(a)
 
-Support to Other Agencies.—During fiscal years 2012 through 2014, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
+Support to Other Agencies.—During fiscal years 2012 through 2017, the Secretary of Defense may provide support for the counter-drug activities or activities to counter transnational organized crime of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
 
-&emsp;"(1) by the official who has responsibility for the counter-drug activities of the department or agency of the Federal Government, in the case of support for other departments or agencies of the Federal Government;
+&emsp;"(1) by the official who has responsibility for the counter-drug activities or activities to counter transnational organized crime of the department or agency of the Federal Government, in the case of support for other departments or agencies of the Federal Government;
 
 &emsp;"(2) by the appropriate official of a State, local, or tribal government, in the case of support for State, local, or tribal law enforcement agencies; or
 
-&emsp;"(3) by an appropriate official of a department or agency of the Federal Government that has counter-drug responsibilities, in the case of support for foreign law enforcement agencies.
+&emsp;"(3) by an appropriate official of a department or agency of the Federal Government that has counter-drug responsibilities or responsibilities for countering transnational organized crime, in the case of support for foreign law enforcement agencies.
 
 "(b)
 
@@ -244,11 +248,11 @@ Types of Support.—The purposes for which the Secretary of Defense may provide 
 
 &emsp;&emsp;"(B) upgrading such equipment to ensure the compatibility of that equipment with equipment used by the Department of Defense.
 
-&emsp;"(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities within or outside the United States.
+&emsp;"(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities or activities to counter transnational organized crime within or outside the United States.
 
-&emsp;"(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, local, or tribal law enforcement agency within or outside the United States or for the purpose of facilitating counter-drug activities of a foreign law enforcement agency outside the United States.
+&emsp;"(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities or activities to counter transnational organized crime of the Department of Defense or any Federal, State, local, or tribal law enforcement agency within or outside the United States or for the purpose of facilitating counter-drug activities or activities to counter transnational organized crime of a foreign law enforcement agency outside the United States.
 
-&emsp;"(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State, local, and tribal governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
+&emsp;"(5) Counter-drug or counter-transnational organized crime related training of law enforcement personnel of the Federal Government, of State, local, and tribal governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
 
 &emsp;"(6) The detection, monitoring, and communication of the movement of—
 
@@ -282,7 +286,7 @@ Conduct of Training or Operation To Aid Civilian Agencies.—In providing suppor
 
 "(g)
 
-Relationship to Other Laws.—(1) The authority provided in this section for the support of counter-drug activities by the Department of Defense is in addition to, and except as provided in paragraph (2), not subject to the requirements of chapter 18 of title 10, United States Code.
+Relationship to Other Laws.—(1) The authority provided in this section for the support of counter-drug activities or activities to counter transnational organized crime by the Department of Defense is in addition to, and except as provided in paragraph (2), not subject to the requirements of chapter 18 of title 10, United States Code.
 
 "(2) Support under this section shall be subject to the provisions of section 375 and, except as provided in subsection (e), section 376 of title 10, United States Code.
 
@@ -294,7 +298,7 @@ Congressional Notification of Facilities Projects.—(1) When a decision is made
 
 &emsp;"(A) is intended for the construction, modification, or repair of any facility for the purposes set forth in subsection (b)(4); and
 
-&emsp;"(B) has an estimated cost of more than $500,000.
+&emsp;"(B) has an estimated cost of more than $250,000.
 
 "(3) This subsection may not be construed as an authorization for the use of funds for any military construction project that would exceed the approved cost limitations of an unspecified minor military construction project under section 2805(a)(2) of title 10, United States Code.
 
@@ -306,7 +310,11 @@ Definitions Relating to Tribal Governments.—In this section:
 
 &emsp;"(2) The term 'tribal government' means the governing body of an Indian tribe, the status of whose land is 'Indian country' as defined in section 1151 of title 18, United States Code, or held in trust by the United States for the benefit of the Indian tribe.
 
-&emsp;"(3) The term 'tribal law enforcement agency' means the law enforcement agency of a tribal government."
+&emsp;"(3) The term 'tribal law enforcement agency' means the law enforcement agency of a tribal government.
+
+"(j)
+
+Definition of Transnational Organized Crime.—In this section, the term 'transnational organized crime' means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms."
 
 \[Pub. L. 111–383, div. A, title X, §1015(b), Jan. 7, 2011, 124 Stat. 4348, provided that: "The amendments made by subsection (a) \[amending section 1004 of Pub. L. 101–510, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\], and shall apply with respect to facilities projects for which a decision is made to be carried out on or after that date."\]
 
@@ -320,5 +328,5 @@ Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, rel
 
 #### Additional Department of Defense Drug Law Enforcement Assistance
 
-Pub. L. 99–570, title III, §3057, Oct. 27, 1986, 100 Stat. 3207–77, provided that the Secretary of Defense was to submit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies, and provided for monitoring of the Department's performance by the General Accounting Office.
+Pub. L. 99–570, title III, §3057, Oct. 27, 1986, 100 Stat. 3207–77, provided that the Secretary of Defense was tosubmit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies, and provided for monitoring of the Department's performance by the General Accounting Office.
 

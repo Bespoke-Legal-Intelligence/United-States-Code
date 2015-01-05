@@ -12,7 +12,7 @@ The Secretary, subject to such conditions as the Secretary may prescribe, may in
 
 #### (b) Construction advances
 
-Notwithstanding any other provision of this chapter, the Secretary may, with respect to mortgages eligible for insurance under subsection (a) of this section, insure and make commitments to insure advances made during construction if the Secretary determines that the proposed construction is otherwise acceptable and that no feasible financing alternative is available.
+Notwithstanding any other provision of this chapter, the Secretary may, with respect to mortgages eligible for insurance under subsection (a), insure and make commitments to insure advances made during construction if the Secretary determines that the proposed construction is otherwise acceptable and that no feasible financing alternative is available.
 
 #### (c) Insurance of mortgage as obligation of General Insurance Fund
 
@@ -44,7 +44,7 @@ Section 4 of the Act entitled "An Act to provide for the admission of the State 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
+<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General InsuranceFund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
 
 <b>2001</b>—Subsec. (d)(1), (2). Pub. L. 107–73, §215(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -62,5 +62,5 @@ Pub. L. 100–242, §413(a), (b), made amendment identical to Pub. L. 100–202.
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–202 added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 100–202 extended subsec. (c)(1) term "native Hawaiian" to include in the case of succession in an interest in a lease of Hawaiian homelands any descendant of a percentage less than one-half of the blood of the races inhabiting the Hawaiian Islands before Jan. 1, 1778, as may be established under statuteor constitution for succession; and redesignated subsec. (c), including such par. (1), as subsec. (d).
+Subsec. (d). Pub. L. 100–202 extended subsec. (c)(1) term "native Hawaiian" to include in the case of succession in an interest in a lease of Hawaiian homelands any descendant of a percentage less than one-half of the blood of the races inhabiting the Hawaiian Islands before Jan. 1, 1778, as may be established under statute or constitution for succession; and redesignated subsec. (c), including such par. (1), as subsec. (d).
 

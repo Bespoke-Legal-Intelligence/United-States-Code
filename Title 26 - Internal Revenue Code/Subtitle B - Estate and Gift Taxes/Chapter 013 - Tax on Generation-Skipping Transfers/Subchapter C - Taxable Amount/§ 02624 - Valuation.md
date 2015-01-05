@@ -6,7 +6,7 @@ Except as otherwise provided in this chapter, property shall be valued as of the
 
 #### (b) Alternate valuation and special use valuation elections apply to certain direct skips
 
-In the case of any direct skip of property which is included in the transferor's gross estate, the value of such property for purposes ofthis chapter shall be the same as its value for purposes of chapter 11 (determined with regard to sections 2032 and 2032A).
+In the case of any direct skip of property which is included in the transferor's gross estate, the value of such property for purposes of this chapter shall be the same as its value for purposes of chapter 11 (determined with regard to sections 2032 and 2032A).
 
 #### (c) Alternate valuation election permitted in the case of taxable terminations occurring at death
 

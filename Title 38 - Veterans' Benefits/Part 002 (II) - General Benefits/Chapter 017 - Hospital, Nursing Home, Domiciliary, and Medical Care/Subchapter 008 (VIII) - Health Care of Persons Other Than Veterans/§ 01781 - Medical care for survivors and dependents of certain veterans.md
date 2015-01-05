@@ -76,7 +76,7 @@ Subsec. (d)(4). Pub. L. 107–330, §308(g)(8)(B), substituted "subsection" for 
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" in introductory provisions.
 
-Subsec. (b). Pub. L. 102–83, §4(b)(2)(B), substituted "that Secretary" for second and third references to"the Secretary" and "the Secretary of Defense" for last reference to "the Secretary" in par. (1).
+Subsec. (b). Pub. L. 102–83, §4(b)(2)(B), substituted "that Secretary" for second and third references to "the Secretary" and "the Secretary of Defense" for last reference to "the Secretary" in par. (1).
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing in introductory and concluding provisions and in par. (2).
 

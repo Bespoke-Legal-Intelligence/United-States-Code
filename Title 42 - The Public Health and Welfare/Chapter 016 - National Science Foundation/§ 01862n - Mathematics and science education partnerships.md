@@ -66,7 +66,7 @@
 
 #### (5) Science enrichment programs for girls
 
-&emsp;Activities carried out in accordance with paragraph (3)(K) and (L) shall include elementary school and secondary school programs to encourage the ongoing interest of girls in science, mathematics, engineering, and technology and to prepare girls to pursue undergraduate and graduate degrees and careers inscience, mathematics, engineering, or technology. Funds made available through awards to partnerships for the purposes of this paragraph may support programs for—
+&emsp;Activities carried out in accordance with paragraph (3)(K) and (L) shall include elementary school and secondary school programs to encourage the ongoing interest of girls in science, mathematics, engineering, and technology and to prepare girls to pursue undergraduate and graduate degrees and careers in science, mathematics, engineering, or technology. Funds made available through awards to partnerships for the purposes of this paragraph may support programs for—
 
 &emsp;&emsp;(A) encouraging girls to pursue studies in science, mathematics, engineering, and technology and to major in such fields in postsecondary education;
 
@@ -144,7 +144,7 @@
 
 #### (1) Application
 
-&emsp;An institution of higher education or an eligible nonprofit organization (or a consortium of such institutions or organizations) seeking funding under subsection (a) of this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
+&emsp;An institution of higher education or an eligible nonprofit organization (or a consortium of such institutions or organizations) seeking funding under subsection (a) shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
 
 &emsp;&emsp;(A) a description of the partnership and the role that each member will play in implementing the proposal;
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(B) the extent to which the members of the partnership are committed to making the partnership a central organizational focus;
 
-&emsp;&emsp;(C) the degree to which activities carried out by the partnership are based on relevant research and are likely to result in increased student achievement;
+&emsp;&emsp;(C) the degree to which activities carried out by the partnership are based on relevantresearch and are likely to result in increased student achievement;
 
 &emsp;&emsp;(D) the degree to which such activities are aligned with State mathematics and science student academic achievement standards;
 
@@ -198,7 +198,7 @@
 
 #### (1) Assessment required
 
-&emsp;The Director shall evaluate the program established under subsection (a) of this section. At a minimum, such evaluation shall—
+&emsp;The Director shall evaluate the program established under subsection (a). At a minimum, such evaluation shall—
 
 &emsp;&emsp;(A) use a common set of benchmarks and assessment tools to identify best practices and materials developed and demonstrated by the partnerships; and
 

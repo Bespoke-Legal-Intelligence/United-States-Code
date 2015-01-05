@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) An identification of the best management practices and measures which will be undertaken to reduce pollutant loadings resulting from each category, subcategory, or particular nonpoint source designated under paragraph (1)(B), taking into account the impact of the practice on ground water quality.
 
-&emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education, training, technology transfer, and demonstration projects) to achieve implementation of the best management practices bythe categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
+&emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education, training, technology transfer, and demonstration projects) to achieve implementation of the best management practices by the categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
 
 &emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of the best management practices at the earliest practicable date.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(D) the practices and measures proposed in such program or portion are not adequate to reduce the level of pollution in navigable waters in the State resulting from nonpoint sources and to improve the quality of navigable waters in the State;
 
-> &emsp;the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shallthereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
+> &emsp;the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shall thereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
 
 #### (3) Failure of State to submit report
 
@@ -84,7 +84,7 @@
 
 #### (e) Local management programs; technical assistance
 
-If a State fails to submit a management program under subsection (b) of this section or the Administrator does not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State, request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency or organization in developing for such area a management program which is described in subsection (b) of this section and can be approved pursuant to subsection (d) of this section. After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) of this section for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) of this section and a management program submitted under subsection (b) of this section were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h) of this section.
+If a State fails to submit a management program under subsection (b) of this section or the Administrator does not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State,request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency or organization in developing for such area a management program which is described in subsection (b) of this section and can be approved pursuant to subsection (d) of this section. After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) of this section for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) of this section and a management program submitted under subsection (b) of this section were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h) of this section.
 
 #### (f) Technical assistance for States
 
@@ -108,7 +108,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (2) Applications
 
-&emsp;An application for a grant under this subsection in any fiscal year shall be in such form and shall contain such other information as the Administrator may require, including an identification and description of the best management practices and measures which theState proposes to assist, encourage, or require in such year with the Federal assistance to be provided under the grant.
+&emsp;An application for a grant under this subsection in any fiscal year shall be in such form and shall contain such other information as the Administrator may require, including an identification and description of the best management practices and measures which the State proposes to assist, encourage, or require in such year with the Federal assistance to be provided under the grant.
 
 #### (3) Federal share
 
@@ -178,7 +178,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (j) Authorization of appropriations
 
-There is authorized to be appropriated to carry out subsections (h) and (i) of this section not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i) of this section. Sums appropriated pursuant to this subsection shall remain available until expended.
+There is authorized to be appropriated to carry out subsections (h) and (i) of this section not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i) of this section. Sums appropriated pursuant to this subsection shall remain available until expended.
 
 #### (k) Consistency of other programs and projects with management programs
 
@@ -216,7 +216,7 @@ The Administrator shall collect and make available, through publications and oth
 
 Not less than 5 percent of the funds appropriated pursuant to subsection (j) of this section for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
 
-(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 #### References in Text
 

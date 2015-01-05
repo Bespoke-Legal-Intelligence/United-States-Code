@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within the Department, there shall be a position of Citizenship and Immigration Services Ombudsman (in this section referred to as the “Ombudsman”). The Ombudsman shall reportdirectly to the Deputy Secretary. The Ombudsman shall have a background in customer service as well as immigration law.
+Within the Department, there shall be a position of Citizenship and Immigration Services Ombudsman (in this section referred to as the "Ombudsman"). The Ombudsman shall report directly to the Deputy Secretary. The Ombudsman shall have a background in customer service as well as immigration law.
 
 #### (b) Functions
 
@@ -44,7 +44,7 @@ The Ombudsman—
 
 &emsp;(1) shall monitor the coverage and geographic allocation of local offices of the Ombudsman;
 
-&emsp;(2) shall develop guidance to be distributed to all officers and employees of the Bureau of Citizenship and Immigration Services outlining the criteria for referral of inquiries to local offices of the Ombudsman;
+&emsp;(2) shall develop guidance to be distributed to all officers and employees of the Bureau ofCitizenship and Immigration Services outlining the criteria for referral of inquiries to local offices of the Ombudsman;
 
 &emsp;(3) shall ensure that the local telephone number for each local office of the Ombudsman is published and available to individuals and employers served by the office; and
 

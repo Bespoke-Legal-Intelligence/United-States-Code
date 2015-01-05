@@ -4,55 +4,20 @@
 
 (1) Subject to paragraph (2), each agency shall apply energy conservation measures to, andshall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table:
 
-<b>Fiscal Year</b>
-
-<b>Percentage</b>
-
 &nbsp;
 
-<b>Reduction</b>
-
-&nbsp;2006
-
-2&nbsp;&nbsp;
-
-&nbsp;2007
-
-4&nbsp;&nbsp;
-
-&nbsp;2008
-
-9&nbsp;&nbsp;
-
-&nbsp;2009
-
-12&nbsp;&nbsp;
-
-&nbsp;2010
-
-15&nbsp;&nbsp;
-
-&nbsp;2011
-
-18&nbsp;&nbsp;
-
-&nbsp;2012
-
-21&nbsp;&nbsp;
-
-&nbsp;2013
-
-24&nbsp;&nbsp;
-
-&nbsp;2014
-
-27&nbsp;&nbsp;
-
-&nbsp;2015
-
-30\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>Fiscal Year</b> | <b>Percentage Reduction</b> |
+| :--- | ---: |
+| &nbsp;2006 | 2&nbsp;&nbsp; |
+| &nbsp;2007 | 4&nbsp;&nbsp; |
+| &nbsp;2008 | 9&nbsp;&nbsp; |
+| &nbsp;2009 | 12&nbsp;&nbsp; |
+| &nbsp;2010 | 15&nbsp;&nbsp; |
+| &nbsp;2011 | 18&nbsp;&nbsp; |
+| &nbsp;2012 | 21&nbsp;&nbsp; |
+| &nbsp;2013 | 24&nbsp;&nbsp; |
+| &nbsp;2014 | 27&nbsp;&nbsp; |
+| &nbsp;2015 | 30\. |
 
 (2) An agency may exclude from the requirements of paragraph (1) any building, and the associated energy consumption and gross square footage, in which energy intensive activities are carried out. Each agency shall identify and list in each report made under section 8258(a) of this title the buildings designated by it for such exclusion.
 

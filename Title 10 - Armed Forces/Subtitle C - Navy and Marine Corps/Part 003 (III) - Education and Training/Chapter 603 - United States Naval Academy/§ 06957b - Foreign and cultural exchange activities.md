@@ -2,7 +2,7 @@
 
 (a)
 
-Attendance Authorized.—The Secretary of the Navy may authorize the Naval Academy to permit students, officers, and other representatives of a foreign country to attend the Naval Academy for periods of not more than two weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of midshipmen.
+Attendance Authorized.—The Secretary of the Navy may authorize the Naval Academy to permit students, officers, and other representatives of a foreign country to attend the Naval Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of midshipmen.
 
 (b)
 
@@ -18,5 +18,9 @@ Source of Funds; Limitation.—(1) The Naval Academy shall bear the costs of the
 
 (2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
 
-(Added Pub. L. 110–417, \[div. A\], title V, §541(b)(1), Oct. 14, 2008, 122 Stat. 4455.)
+(Added Pub. L. 110–417, \[div. A\], title V, §541(b)(1), Oct. 14, 2008, 122 Stat. 4455; amended Pub. L. 113–291, div. A, title V, §553(b), Dec. 19, 2014, 128 Stat. 3377.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–291 substituted "four weeks" for "two weeks".
 

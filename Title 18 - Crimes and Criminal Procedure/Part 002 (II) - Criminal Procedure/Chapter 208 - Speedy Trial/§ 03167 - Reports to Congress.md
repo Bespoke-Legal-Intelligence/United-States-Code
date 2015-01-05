@@ -6,7 +6,7 @@
 
 &emsp;(1) The reasons why, in those cases not in compliance with the time limits of subsections (b) and (c) of section 3161, the provisions of section 3161(h) have not been adequate to accommodate reasonable periods of delay.
 
-&emsp;(2) The category of offenses, the number of defendants, and the number of counts involved in those cases which are not meeting the time limits specified in subsections (b) and (c) of section 3161.
+&emsp;(2) The category of offenses, the number of defendants, and the number of counts involvedin those cases which are not meeting the time limits specified in subsections (b) and (c) of section 3161.
 
 &emsp;(3) The additional judicial resources which would be necessary in order to achieve compliance with the time limits specified in subsections (b) and (c) of section 3161.
 

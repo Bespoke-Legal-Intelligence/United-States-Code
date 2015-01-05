@@ -12,7 +12,7 @@
 
 #### (2) Purpose
 
-&emsp;It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, orregulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+&emsp;It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
 #### (b) Recordkeeping regulations
 
@@ -50,7 +50,7 @@
 
 #### (c) Identity of persons having accounts and persons authorized to act with respect to such accounts; exemptions
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured depository institution shall maintain such records and other evidence, in such form as the Secretary shall require, of the identity of each person having an account in the United States with the insured depository institution and of each individual authorized to sign checks, make withdrawals, or otherwise act with respect to any such account. The Secretary may make such exemptions from any requirement otherwise imposed under this subsection as are consistent with the purposes of this section.
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), each insured depository institution shall maintain such records and other evidence, in such form as the Secretary shall require, of the identity of each person having an account in the United States with the insured depository institution and of each individual authorized to sign checks, make withdrawals, or otherwise act with respect to any such account. The Secretary may make such exemptions from any requirement otherwise imposed under this subsection as are consistent with the purposes of this section.
 
 #### (d) Reproduction of checks, drafts, and other instruments; record of transactions; identity of party
 
@@ -58,15 +58,15 @@ Each insured depository institution shall make, to the extent that the regulatio
 
 &emsp;(1) a microfilm or other reproduction of each check, draft, or similar instrument drawn on it and presented to it for payment; and
 
-&emsp;(2) a record of each check, draft, or similar instrument received by it for deposit or collection, together with an identification of the party for whose account it is to be deposited or collected, unless the insured depository institution has already made a record of the party's identity pursuant to subsection (c) of this section.
+&emsp;(2) a record of each check, draft, or similar instrument received by it for deposit or collection, together with an identification of the party for whose account it is to be deposited or collected, unless the insured depository institution has already made a record of the party's identity pursuant to subsection (c).
 
 #### (e) Identity of persons making reportable currency and foreign transactions
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recordedunder subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
 
 #### (f) Additions to or substitutes for required records
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section and in addition to or in lieu of the records and evidence otherwise referred to in this section, each insured depository institution shall maintain such records and evidence as the Secretary may prescribe to carry out the purposes of this section.
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) and in addition to or in lieu of the records and evidence otherwise referred to in this section, each insured depository institution shall maintain such records and evidence as the Secretary may prescribe to carry out the purposes of this section.
 
 #### (g) Retention period
 
@@ -84,7 +84,7 @@ The provisions of this section shall not apply to any foreign bank except with r
 
 #### (1) Penalty imposed
 
-&emsp;Any insured depository institution and any director, officer, or employee of an insured depository institution who willfully or through gross negligence violates, or any person who willfully causes such a violation, any regulation prescribed under subsection (b) of this section shall be liable to the United States for a civil penalty of not more than $10,000.
+&emsp;Any insured depository institution and any director, officer, or employee of an insured depository institution who willfully or through gross negligence violates, or any person who willfully causes such a violation, any regulation prescribed under subsection (b) shall be liable to the United States for a civil penalty of not more than $10,000.
 
 #### (2) Treatment of continuing violation
 
@@ -114,11 +114,11 @@ In subsec. (e), "subchapter II of chapter 53 of title 31" was substituted for "t
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–550, §1515(a), inserted heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 102–550, §1515(b)(1), substituted "Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured" for "Each insured".
+Subsec. (c). Pub. L. 102–550, §1515(b)(1), substituted "Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), each insured" for "Each insured".
 
-Subsec. (e). Pub. L. 102–550, §1515(b)(2), substituted "Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any" for "Whenever any".
+Subsec. (e). Pub. L. 102–550, §1515(b)(2), substituted "Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any" for "Whenever any".
 
-Subsec. (f). Pub. L. 102–550, §1515(b)(3), substituted "Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section and in addition to" for "In addition to".
+Subsec. (f). Pub. L. 102–550, §1515(b)(3), substituted "Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) and in addition to" for "In addition to".
 
 Subsec. (j)(1). Pub. L. 102–550, §1535(b), inserted ", or any person who willfully causes such a violation," after "gross negligence violates".
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–56, title III, §358(h), Oct. 26, 2001, 115 Stat. 328, provided that: "The amendments made by this section \[enacting section 1681v of Title 15, Commerce and Trade, amending this section and sections 1953, 3412, 3414, and 3420 of this title, section 1681u of Title 15, and sections 5311, 5318, and 5319 of Title 31, Money and Finance\] shall apply with respect to reports filed or records maintained on, before, or after the date of enactment of this Act \[Oct. 26, 2001\]."
+Pub. L. 107–56, title III, §358(h), Oct. 26, 2001, 115 Stat. 328, provided that: "The amendments made by this section \[enacting section 1681v of Title 15, Commerce and Trade, amending this section and sections 1953, 3412, 3414, and 3420 of this title, section 1681u of Title 15, andsections 5311, 5318, and 5319 of Title 31, Money and Finance\] shall apply with respect to reports filed or records maintained on, before, or after the date of enactment of this Act \[Oct. 26, 2001\]."
 
 #### Effective Date
 
@@ -142,7 +142,7 @@ Section effective on first day of seventh calendar month which begins after Oct.
 
 #### Regulations
 
-Pub. L. 102–550, title XV, §1515(c), Oct. 28, 1992, 106 Stat. 4059, provided that: "The initial final regulationsprescribed pursuant to section 21(b)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1829b(b)(3)\] (as added by subsection (a)(2) of this section) shall take effect before January 1, 1994."
+Pub. L. 102–550, title XV, §1515(c), Oct. 28, 1992, 106 Stat. 4059, provided that: "The initial final regulations prescribed pursuant to section 21(b)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1829b(b)(3)\] (as added by subsection (a)(2) of this section) shall take effect before January 1, 1994."
 
 #### Additional Criminal Penalties
 

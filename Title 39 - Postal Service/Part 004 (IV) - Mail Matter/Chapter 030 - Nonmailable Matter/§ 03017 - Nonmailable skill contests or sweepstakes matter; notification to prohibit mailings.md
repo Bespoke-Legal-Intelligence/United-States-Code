@@ -96,7 +96,7 @@ In general.—An individual who receives one or more mailings in violation of su
 
 &emsp;(2)
 
-Action allowable based on other sufficient notice.—A mailing sent in violation of section 3001(l) shall be actionable under thissubsection, but only if such an action would not also be available under paragraph (1) (as a violation of subsection (d)) based on the same mailing.
+Action allowable based on other sufficient notice.—A mailing sent in violation of section 3001(l) shall be actionable under this subsection, but only if such an action would not also be available under paragraph (1) (as a violation of subsection (d)) based on the same mailing.
 
 (f)
 

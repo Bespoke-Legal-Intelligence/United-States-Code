@@ -54,7 +54,7 @@
 
 &emsp;(2) a copy of the debt repayment plan, if any, developed under section 109(h) through the approved nonprofit budget and credit counseling agency referred to in paragraph (1).
 
-(c) In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986) or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
+(c) In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986), an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,<sup>1</sup> or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
 
 (d) If the debtor fails timely to take the action specified in subsection (a)(6) of this section, or in paragraphs (1) and (2) of section 362(h), with respect to property which a lessor or bailor owns and has leased, rented, or bailed to the debtor or as to which a creditor holds a security interest not otherwise voidable under section 522(f), 544, 545, 547, 548, or 549, nothing in this title shall prevent or limit the operation of a provision in the underlying lease or agreement that has the effect of placing the debtor in default under such lease or agreement by reason of the occurrence, pendency, or existence of a proceeding under this title or the insolvency of the debtor. Nothing in this subsection shall be deemed to justify limiting such a provision in any other circumstance.
 
@@ -62,7 +62,7 @@
 
 (2)(A) The debtor shall provide—
 
-&emsp;(i) not later than 7 days before the date first set for the first meeting of creditors, to the trustee a copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was filed; and
+&emsp;(i) not later than 7 days before the date first set for the first meeting of creditors, to thetrustee a copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was filed; and
 
 &emsp;(ii) at the same time the debtor complies with clause (i), a copy of such return (or if elected under clause (i), such transcript) to any creditor that timely requests such copy.
 
@@ -116,11 +116,11 @@
 
 (4) Notwithstanding any other provision of this subsection, on the motion of the trustee filed before the expiration of the applicable period of time specified in paragraph (1), (2), or (3), and after notice and a hearing, the court may decline to dismiss the case if the court finds that the debtor attempted in good faith to file all the information required by subsection (a)(1)(B)(iv) and that the best interests of creditors would be served by administration of the case.
 
-(j)(1) Notwithstanding any other provision of this title, if the debtor fails to file a tax return that becomes due after the commencement of the case or to properly obtain an extension of the due date for filing such return, the taxing authority may request that the court enter an order converting or dismissing the case.
+(j)(1) Notwithstanding any other provision of this title, if the debtor fails to file a tax return that becomes due after the commencement of the case or to properly obtain an extension ofthe due date for filing such return, the taxing authority may request that the court enter an order converting or dismissing the case.
 
 (2) If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§305, 452, July 10, 1984, 98 Stat. 352, 375; Pub. L. 99–554, title II, §283(h), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 109–8, title I, §106(d), title II, §225(b), title III, §§304(1), 305(2), 315(b), 316, title IV, §446(a), title VI, §603(c), title VII, §720, Apr. 20, 2005, 119 Stat. 38, 66, 78, 80, 89, 92, 118, 123, 133; Pub. L. 111–16, §2(5), (6), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(16), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§305, 452, July 10, 1984, 98 Stat. 352, 375; Pub. L. 99–554, title II, §283(h), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 109–8, title I, §106(d), title II, §225(b), title III, §§304(1), 305(2), 315(b), 316, title IV, §446(a), title VI, §603(c), title VII, §720, Apr. 20, 2005, 119 Stat. 38, 66, 78, 80, 89, 92, 118, 123, 133; Pub. L. 111–16, §2(5), (6), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(16), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 113–295, div. B, title I, §104(c), Dec. 19, 2014, 128 Stat. 4064.)
 
 #### Historical and Revision Notes
 
@@ -138,11 +138,13 @@ The list in this section is not exhaustive of the debtor's duties. Others are li
 
 Section 3 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(7), is classified to section 1002 of Title 29, Labor.
 
-Sections 530(b)(1) and 529(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), are classified to sections 530(b)(1) and 529(b)(1), respectively, of Title 26, Internal Revenue Code.
+Sections 530(b)(1), 529A(b), and 529(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), are classified to sections 530(b)(1), 529A(b), and 529(b)(1), respectively, of Title 26, Internal Revenue Code.
 
 Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (g)(2), is section 315(c) of Pub. L. 109–8, which is set out as a note under this section.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–295 inserted ", an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code," after "Internal Revenue Code of 1986)".
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–327, §2(a)(16)(A)(iii), in subpar. (C) substituted "except that" for subpar. (C) designation.
 
@@ -194,6 +196,10 @@ Pars. (2) to (5). Pub. L. 98–353, §305(1), (3), added par. (2), redesignated 
 
 Pub. L. 98–353, §452, which directed the insertion of ", whether or not immunity is granted under section 344 of this title" after second reference to "estate" in par. (3) as redesignated above, could not be executed because such reference appeared in par. (4) rather than in par. (3).
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. B, title I, §104(d), Dec. 19, 2014, 128 Stat. 4064, provided that: "The amendments made by this section \[amending this section and sections 541 and 707 of this title\] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act \[Dec. 19, 2014\]."
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of this title.
@@ -210,7 +216,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Confidentiality of Tax Information
 
@@ -251,4 +257,6 @@ Cases.—The court shall not confirm a plan of reorganization in the case of an 
 "(c)
 
 Document Retention.—The court shall destroy documents submitted in support of a bankruptcy claim not sooner than 3 years after the date of the conclusion of a case filed by an individual under chapter 7, 11, or 13 of title 11, United States Code. In the event of a pending audit or enforcement action, the court may extend the time for destruction of such requested tax documents."
+
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

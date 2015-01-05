@@ -26,7 +26,7 @@ There shall be no adjustment as provided in subsection (b) of this section (nor 
 
 #### (d) Liability of certifying or disbursing officer for failure to recoup
 
-No certifying or disbursing officer shall be held liable for any amount certified or paid by him to any provider of services or other person where the adjustment or recovery of such amount is waived under subsection (c) of this section or where adjustment under subsection (b) of this section is not completed prior to thedeath of all persons against whose benefits such adjustment is authorized.
+No certifying or disbursing officer shall be held liable for any amount certified or paid by him to any provider of services or other person where the adjustment or recovery of such amount is waived under subsection (c) of this section or where adjustment under subsection (b) of this section is not completed prior to the death of all persons against whose benefits such adjustment is authorized.
 
 #### (e) Settlement of claims for benefits under this subchapter on behalf of deceased individuals
 
@@ -60,11 +60,11 @@ If an individual who received medical and other health services for which paymen
 
 #### (g) Refund of premiums for deceased individuals
 
-If an individual, who is enrolled under section 1395i–2(c) of this title or under section 1395p of this title, dies, and premiums with respect to such enrollment have been received with respect to such individual for any month after the month of his death, such premiums shall be refunded to the person or persons determined by the Secretary under regulations to have paid such premiums or if payment for such premiums was made by the deceased individual before his death, to the legal representative of the estate of such deceased individual, if any. If there is no person who meets the requirements of the preceding sentence such premiums shall be refunded to the person or persons in the priorities specified in paragraphs (2) through (7) of subsection (e) of this section.
+If an individual, who is enrolled under section 1395i–2(c) of this title or under section 1395p of this title, dies, and premiums with respect to such enrollment have been received with respect to such individual for any month after the month of his death, such premiums shall be refunded to the person or persons determined by the Secretary under regulations to have paid such premiums or if payment for such premiums was made by the deceased individual before his death, to the legal representative of the estate of such deceased individual, if any. If there is noperson who meets the requirements of the preceding sentence such premiums shall be refunded to the person or persons in the priorities specified in paragraphs (2) through (7) of subsection (e) of this section.
 
 #### (h) Appeals by providers of services or suppliers
 
-Notwithstanding subsection (f) of this section or any other provision of law, the Secretary shall permit a provider of services or supplier toappeal any determination of the Secretary under this subchapter relating to services rendered under this subchapter to an individual who subsequently dies if there is no other party available to appeal such determination.
+Notwithstanding subsection (f) of this section or any other provision of law, the Secretary shall permit a provider of services or supplier to appeal any determination of the Secretary under this subchapter relating to services rendered under this subchapter to an individual who subsequently dies if there is no other party available to appeal such determination.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1870, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 331; amended Pub. L. 90–248, title I, §154(b), (c), Jan. 2, 1968, 81 Stat. 862; Pub. L. 92–603, title II, §§261(a), 266, 281(a), (b), Oct. 30, 1972, 86 Stat. 1448, 1450, 1454, 1455; Pub. L. 93–445, title III, §309, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §954(a), Dec. 5, 1980, 94 Stat. 2647; Pub. L. 97–248, title I, §128(d)(1), Sept. 3, 1982, 96 Stat. 367; Pub. L. 100–203, title IV, §§4039(h)(7), 4096(a)(2), Dec, 22, 1987, 101 Stat. 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 100–360, title IV, §411(j)(4)(B), July 1, 1988, 102 Stat. 791; Pub. L. 108–173, title IX, §939(a), Dec. 8, 2003, 117 Stat. 2416; Pub. L. 112–240, title VI, §638(a), Jan. 2, 2013, 126 Stat. 2357.)
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 Pub. L. 92–603, title II, §261(b), Oct. 30, 1972, 86 Stat. 1448, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to waiver actions considered after the date of the enactment of this Act \[Oct. 30, 1972\]."
 
-Pub. L. 92–603, title II, §281(g), Oct. 30, 1972, 86 Stat. 1456, provided that: "The provisions of subsection (a)(1) \[amending this section\] shall apply with respect to notices of payment sent to individuals after the date of enactment of this Act \[Oct. 30, 1972\]. The provisions of subsections (a)(2), (b), (c), and (d) \[amending this section and sections 1395u and 1395cc of this title\] shall apply in the case of notices sent to individuals after 1968. The provisions of subsections (e) and (f) \[amending sections 1395f and 1395n of this title\] shall apply in the case of services furnished (or deemed to have been furnished) after 1970."
+Pub. L. 92–603, title II, §281(g), Oct. 30, 1972, 86 Stat. 1456, provided that: "The provisions of subsection (a)(1) \[amending this section\] shall apply with respect to notices of payment sent to individuals after the date of enactment of this Act \[Oct. 30, 1972\]. The provisions of subsections (a)(2), (b), (c), and (d) \[amending this section and sections 1395u and 1395cc of this title\] shall apply in the case of notices sent to individuals after 1968. The provisions of subsections (e) and (f) \[amendingsections 1395f and 1395n of this title\] shall apply in the case of services furnished (or deemed to have been furnished) after 1970."
 
 #### Waiver of Liability Limiting Recoupment in Certain Cases
 

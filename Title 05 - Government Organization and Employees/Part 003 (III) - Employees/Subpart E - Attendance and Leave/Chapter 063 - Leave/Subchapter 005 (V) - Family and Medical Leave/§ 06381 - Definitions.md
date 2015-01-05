@@ -2,77 +2,77 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) the term “employee” means any individual who—
+&emsp;(1) the term "employee" means any individual who—
 
-&emsp;&emsp;(A) is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (v) or (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia <sup>1</sup> any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
+&emsp;&emsp;(A) is an "employee", as defined by section 6301(2), including any individual employed in a position referred to in clause (v) or (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia <sup>1</sup> any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
 
 &emsp;&emsp;(B) has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));
 
-&emsp;(2) the term “health care provider” means—
+&emsp;(2) the term "health care provider" means—
 
 &emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the State in which the doctor practices; and
 
 &emsp;&emsp;(B) any other person determined by the Director of the Office of Personnel Management to be capable of providing health care services;
 
-&emsp;(3) the term “parent” means the biological parent of an employee or an individual who stood in loco parentis to an employee when the employee was a son or daughter;
+&emsp;(3) the term "parent" means the biological parent of an employee or an individual who stood in loco parentis to an employee when the employee was a son or daughter;
 
-&emsp;(4) the term “reduced leave schedule” means a leave schedule that reduces the usual number of hours per workweek, or hours per workday, of an employee;
+&emsp;(4) the term "reduced leave schedule" means a leave schedule that reduces the usual number of hours per workweek, or hours per workday, of an employee;
 
-&emsp;(5) the term “serious health condition” means an illness, injury, impairment, or physical or mental condition that involves—
+&emsp;(5) the term "serious health condition" means an illness, injury, impairment, or physical or mental condition that involves—
 
 &emsp;&emsp;(A) inpatient care in a hospital, hospice, or residential medical care facility; or
 
 &emsp;&emsp;(B) continuing treatment by a health care provider;
 
-&emsp;(6) the term “son or daughter” means a biological, adopted, or foster child, a stepchild, a legal ward, or a child of a person standing in loco parentis, who is—
+&emsp;(6) the term "son or daughter" means a biological, adopted, or foster child, a stepchild, a legal ward, or a child of a person standing in loco parentis, who is—
 
 &emsp;&emsp;(A) under 18 years of age; or
 
 &emsp;&emsp;(B) 18 years of age or older and incapable of self-care because of a mental or physical disability;
 
-&emsp;(7) the term “covered active duty” means—
+&emsp;(7) the term "covered active duty" means—
 
 &emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
 
 &emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10, United States Code;
 
-&emsp;(8) the term “covered servicemember” means—
+&emsp;(8) the term "covered servicemember" means—
 
 &emsp;&emsp;(A) a member of the Armed Forces (including a member of the National Guard or Reserves) who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness; or
 
 &emsp;&emsp;(B) a veteran who is undergoing medical treatment, recuperation, or therapy, for a serious injury or illness and who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during the period of 5 years preceding the date on which the veteran undergoes that medical treatment, recuperation, or therapy;
 
-&emsp;(9) the term “outpatient status”, with respect to a covered servicemember, means the status of a member of the Armed Forces assigned to—
+&emsp;(9) the term "outpatient status", with respect to a covered servicemember, means thestatus of a member of the Armed Forces assigned to—
 
 &emsp;&emsp;(A) a military medical treatment facility as an outpatient; or
 
 &emsp;&emsp;(B) a unit established for the purpose of providing command and control of members of the Armed Forces receiving medical care as outpatients;
 
-&emsp;(10) the term “next of kin”, used with respect to an individual, means the nearest blood relative of that individual;
+&emsp;(10) the term "next of kin", used with respect to an individual, means the nearest blood relative of that individual;
 
-&emsp;(11) the term “serious injury or illness”—
+&emsp;(11) the term "serious injury or illness"—
 
 &emsp;&emsp;(A) in the case of a member of the Armed Forces (including a member of the National Guard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating; and
 
 &emsp;&emsp;(B) in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (8)(B), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that manifested itself before or after the member became a veteran; and
 
-&emsp;(12) the term “veteran” has the meaning given the term in section 101 of title 38, United States Code.
+&emsp;(12) the term "veteran" has the meaning given the term in section 101 of title 38, United States Code.
 
 (Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 19; amended Pub. L. 104–1, title II, §202(c)(2), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, §585(b)(1), Jan. 28, 2008, 122 Stat. 131; Pub. L. 111–84, div. A, title V, §565(b)(1)(A), (2), (3), Oct. 28, 2009, 123 Stat. 2311, 2312.)
 
 #### Amendments
 
-<b>2009</b>—Par. (7). Pub. L. 111–84, §565(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10;”.
+<b>2009</b>—Par. (7). Pub. L. 111–84, §565(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "the term 'active duty' means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10;".
 
-Par. (8). Pub. L. 111–84, §565(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in an outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness;”.
+Par. (8). Pub. L. 111–84, §565(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "the term 'covered servicemember' means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in an outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness;".
 
-Pars. (11), (12). Pub. L. 111–84, §565(b)(3), added pars. (11) and (12) and struck out former par. (11) which read as follows: “the term ‘serious injury or illness’, in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating.”
+Pars. (11), (12). Pub. L. 111–84, §565(b)(3), added pars. (11) and (12) and struck out former par. (11) which read as follows: "the term 'serious injury or illness', in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating."
 
 <b>2008</b>—Pars. (7) to (11). Pub. L. 110–181 added pars. (7) to (11).
 
-<b>2004</b>—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1995</b>—Par. (1)(A). Pub. L. 104–1 struck out “and” after “District of Columbia” and inserted “, and any employee of the General Accounting Office or the Library of Congress” before semicolon.
+<b>1995</b>—Par. (1)(A). Pub. L. 104–1 struck out "and" after "District of Columbia" and inserted ", and any employee of the General Accounting Office or the Library of Congress" before semicolon.
 
 #### Effective Date of 1995 Amendment
 
@@ -84,7 +84,7 @@ Subchapter effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. 
 
 #### Regulations
 
-Pub. L. 111–84, div. A, title V, §565(b)(5), Oct. 28, 2009, 123 Stat. 2312, provided that: “In prescribing regulations to carry out the amendments made by this subsection \[amending this section and sections 6382 and 6383 of this title\], the Office of Personnel Management shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
+Pub. L. 111–84, div. A, title V, §565(b)(5), Oct. 28, 2009, 123 Stat. 2312, provided that: "In prescribing regulations to carry out the amendments made by this subsection \[amending this section and sections 6382 and 6383 of this title\], the Office of Personnel Management shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

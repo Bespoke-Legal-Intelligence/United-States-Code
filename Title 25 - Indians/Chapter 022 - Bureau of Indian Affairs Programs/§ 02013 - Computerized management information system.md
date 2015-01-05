@@ -34,7 +34,7 @@ Not later than July 1, 2003, the Secretary shall complete the implementation of 
 
 #### Prior Provisions
 
-A prior section 2013, Pub. L. 95–561, title XI, §1133, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4010, related to management information system, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2013, Pub. L. 95–561, title XI, §1133, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 4010, related to management information system, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2013, Pub. L. 95–561, title XI, §1133, Nov. 1, 1978, 92 Stat. 2327, related to Bureau education policies, practices, and procedures, prior to the general amendment of this chapter by Pub. L. 103–382.
 

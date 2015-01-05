@@ -14,7 +14,7 @@
 
 #### (b) Voluntary or mandatory retirement with authorization for immediate annuity; computation of annuity
 
-(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051,4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completed at least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
+(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completed at least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
 
 (2) An annuity under paragraph (1) shall be computed—
 
@@ -28,7 +28,7 @@
 
 &emsp;(B) at the rate stated in section 8415(a) of title 5 for all other service creditable under this System including service in excess of 20 years otherwise creditable under paragraph (A).
 
-(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010, or 4010a of this title and who would if a participant under part I of this subchapter, become eligible for a refund of contributions or a deferred annuity under part I of this subchapter, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
+(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010, or 4010a of this title and who would if a participant under part I, become eligible for a refund of contributions or a deferred annuity under part I, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
 
 (4) A disability annuity under this part required to be redetermined under section 8452(b) of title 5, or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and 8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under section 4051 of this title.
 
@@ -36,17 +36,17 @@
 
 (6)(A) The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part rather than under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
 
-(B) Any calculation for a widow or widower of a participant or former participant under section 8442(f)(2)(A) shall be based on an "assumed FSRDS annuity" rather than an "assumed CSRS annuity" as stated in such section. For the purpose of this subparagraph, the term "assumed FSRDS annuity" means the amount of the survivor annuity to which the widow or widower would be entitled under part I of this subchapter based on the service of the deceased annuitant determined under section 8442(f)(5) of such title 5.
+(B) Any calculation for a widow or widower of a participant or former participant under section 8442(f)(2)(A) shall be based on an "assumed FSRDS annuity" rather than an "assumed CSRS annuity" as stated in such section. For the purpose of this subparagraph, the term "assumed FSRDS annuity" means the amount of the survivor annuity to which the widow or widower would be entitled under part I based on the service of the deceased annuitant determined under section 8442(f)(5) of such title 5.
 
 #### (c) Annuity supplement
 
-A participant who is entitled to an immediate annuity under subsection (b) of this section shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
+A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
 
 #### (d) Separation for cause based on disloyalty
 
 Any participant who is separated for cause under section 4010 of this title shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
-(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, §2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, §322(b)(1), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5001(c)(2)(F), Feb. 22, 2012, 126 Stat. 200.)
+(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382,§2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, §322(b)(1), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5001(c)(2)(F), Feb. 22, 2012, 126 Stat. 200.)
 
 #### References in Text
 

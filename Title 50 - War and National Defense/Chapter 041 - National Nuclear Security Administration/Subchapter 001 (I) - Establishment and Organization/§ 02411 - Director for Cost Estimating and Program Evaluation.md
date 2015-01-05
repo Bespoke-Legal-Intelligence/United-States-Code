@@ -74,7 +74,11 @@ The Director shall submit to Congress at or about the time that the budget of th
 
 In this section:
 
-#### (1) Major atomic energy defense acquisition program
+#### (1) Administration
+
+&emsp;The term "Administration", with respect to any authority, duty, or responsibility provided by this section, does not include the Office of Naval Reactors.
+
+#### (2) Major atomic energy defense acquisition program
 
 #### (A) In general
 
@@ -88,9 +92,13 @@ In this section:
 
 &emsp;&emsp;The term "major atomic energy defense acquisition program" does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.
 
-#### (2) Performance baseline
+#### (3) Performance baseline
 
 &emsp;The term "performance baseline", with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
 
-(Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI, §3112(a)(1), Dec. 26, 2013, 127 Stat. 1050.)
+(Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI, §3112(a)(1), Dec. 26, 2013, 127 Stat. 1050; amended Pub. L. 113–291, div. C, title XXXI, §3117, Dec. 19, 2014, 128 Stat. 3889.)
+
+#### Amendments
+
+Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 

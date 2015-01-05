@@ -8,7 +8,7 @@ The Secretary acting through the Institute may designate National Alcohol Resear
 
 &emsp;&emsp;(A) the applicant has the experience, or capability, to conduct, through biomedical, behavioral, social, and related disciplines, long-term research on alcoholism and other alcohol problems and to provide coordination of such research among such disciplines;
 
-&emsp;&emsp;(B) the applicant has available to it sufficient facilities (including laboratory, reference, and data analysis facilities) to carryout the research plan contained in the application;
+&emsp;&emsp;(B) the applicant has available to it sufficient facilities (including laboratory, reference, and data analysis facilities) to carry out the research plan contained in the application;
 
 &emsp;&emsp;(C) the applicant has facilities and personnel to provide training in the prevention and treatment of alcoholism and other alcohol problems;
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 96–180, §16(c), authorized appropriation of $8,000,000 a
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
+Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L.102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
 

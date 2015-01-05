@@ -10,7 +10,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) Taxes
 
-&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
+&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
 
 #### (2) Charitable contributions
 
@@ -84,7 +84,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (B) Deduction for certain offsets
 
-&emsp;&emsp;There shall be allowed as a deduction the net short-term capital gain for the taxable year to the extent such gain does not exceed the amount of any capital loss carryover to such taxable year under section 1212 (determined without regard to paragraph (7)(B)).
+&emsp;&emsp;There shall be allowed as a deduction the net short-term capital gain for the taxable year to the extent such gain does not exceedthe amount of any capital loss carryover to such taxable year under section 1212 (determined without regard to paragraph (7)(B)).
 
 #### (C) Earnings and profits
 
@@ -96,7 +96,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (10) Controlled foreign corporations
 
-&emsp;There shall be allowed as a deduction the amount of the corporation's income for thetaxable year which is included in the gross income of a United States shareholder under section 951(a). In the case of any corporation the accumulated taxable income of which would (but for this sentence) be determined without allowance of any deductions, the deduction under this paragraph shall be allowed and shall be appropriately adjusted to take into account any deductions which reduced such inclusion.
+&emsp;There shall be allowed as a deduction the amount of the corporation's income for the taxable year which is included in the gross income of a United States shareholder under section 951(a). In the case of any corporation the accumulated taxable income of which would (but for this sentence) be determined without allowance of any deductions, the deduction under this paragraph shall be allowed and shall be appropriately adjusted to take into account any deductions which reduced such inclusion.
 
 #### (c) Accumulated earnings credit
 
@@ -142,9 +142,11 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 &emsp;The term "United States-owned foreign corporation" has the meaning given to such term by section 904(h)(6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 180; Pub. L. 85–866, title I, §31, title II, §205(a), Sept. 2, 1958, 72 Stat. 1631, 1680; Pub. L. 87–403, §3(b), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, §207(b)(4), Feb. 26, 1964, 78 Stat. 42; Pub. L. 91–172, title IV, §401(b)(2)(C), title V, §512(f)(5), (6), Dec. 30, 1969, 83 Stat. 602, 641; Pub. L. 94–12, title III, §304(a), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §1033(b)(3), title XIX, §§1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834; Pub. L. 97–34, title II, §232(a), (b)(1), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title I, §§58(b), 125(a), July 18, 1984, 98 Stat. 575, 647; Pub. L. 99–514, title XII, §1225(a), title XVIII, §1899A(17), Oct. 22, 1986, 100 Stat. 2558, 2959; Pub. L. 101–508, title XI, §11801(c)(18), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 108–357, title IV, §402(b)(1), Oct. 22, 2004, 118 Stat. 1492; Pub. L. 109–135, title IV, §403(n)(2), Dec. 21, 2005, 119 Stat. 2626.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 180; Pub. L. 85–866, title I, §31, title II, §205(a), Sept. 2, 1958, 72 Stat. 1631, 1680; Pub. L. 87–403, §3(b), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, §207(b)(4), Feb. 26, 1964, 78 Stat. 42; Pub. L. 91–172, title IV, §401(b)(2)(C), title V, §512(f)(5), (6), Dec. 30, 1969, 83 Stat. 602, 641; Pub. L. 94–12, title III, §304(a), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §1033(b)(3), title XIX, §§1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834; Pub. L. 97–34, title II, §232(a), (b)(1), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title I, §§58(b), 125(a), July 18, 1984, 98 Stat. 575, 647; Pub. L. 99–514, title XII, §1225(a), title XVIII, §1899A(17), Oct. 22, 1986, 100 Stat. 2558, 2959; Pub. L. 101–508, title XI, §11801(c)(18), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 108–357, title IV, §402(b)(1), Oct. 22, 2004, 118 Stat. 1492; Pub. L. 109–135, title IV, §403(n)(2), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 113–295, div. A, title II, §221(a)(64), Dec. 19, 2014, 128 Stat. 4048.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–295 substituted "section 531 or the personal holding company tax imposed by section 541." for "section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law."
 
 <b>2005</b>—Subsec. (b)(10). Pub. L. 109–135 added par. (10).
 
@@ -198,6 +200,10 @@ Subsec. (b)(6)(B). Pub. L. 85–866, §31(a), substituted "in taxable income the
 
 Subsec. (c)(2), (3). Pub. L. 85–866, §205(a), substituted "$100,000" for "$60,000".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
@@ -236,7 +242,7 @@ Amendment by section 1901(a)(74), (b)(20)(A), (32)(C), (33)(D) of Pub. L. 94–4
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–12, title III, §305(c), Mar. 29, 1975, 89 Stat. 45, provided that: "The amendments made by section 304 \[amending this section and sections 243, 1551, and 1561 of this title\] apply to taxable years beginning after December 31, 1974."
+Pub. L. 94–12, title III, §305(c), Mar. 29, 1975, 89 Stat. 45, provided that: "The amendments made by section304 \[amending this section and sections 243, 1551, and 1561 of this title\] apply to taxable years beginning after December 31, 1974."
 
 #### Effective Date of 1969 Amendment
 

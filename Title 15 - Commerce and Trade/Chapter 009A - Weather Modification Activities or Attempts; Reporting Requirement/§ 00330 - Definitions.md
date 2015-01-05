@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The term "Secretary" means the Secretary of Commerce.
 
-&emsp;(2) The term "person" means any individual, corporation, company, association, firm, partnership, society, joint stock company, any State or local government or any agency thereof, or any other organization, whether commercial or nonprofit, who is performing weather modification activities, except where acting solely as an employee, agent, or independent contractor of the Federal Government.
+&emsp;(2) The term "person" means any individual, corporation, company, association, firm, partnership, society, joint stock company, any State or local government or any agency thereof, or any other organization, whether commercial or nonprofit, who is performingweather modification activities, except where acting solely as an employee, agent, or independent contractor of the Federal Government.
 
 &emsp;(3) The term "weather modification" means any activity performed with the intention of producing artificial changes in the composition, behavior, or dynamics of the atmosphere.
 
@@ -122,7 +122,7 @@ In General.—The Secretary shall prepare and submit to the President and the Co
 
 &emsp;"(4) recommendations for levels of Federal funding sufficient to support adequately a national weather modification research and development program;
 
-&emsp;"(5) recommendations for any changes in the organization and involvement of Federal departments andagencies in weather modification which may be needed to implement effectively the recommended national policy on weather modification and the recommended research and development program; and
+&emsp;"(5) recommendations for any changes in the organization and involvement of Federal departments and agencies in weather modification which may be needed to implement effectively the recommended national policy on weather modification and the recommended research and development program; and
 
 &emsp;"(6) recommendations for any regulatory and other legislation which may be required to implement such policy and program or for any international agreement which may be appropriate concerning the peaceful uses of weather modification, including recommendations concerning the dissemination, refinement, and possible implementation of the model domestic code and international agreement developed under the specifications of section 4.
 

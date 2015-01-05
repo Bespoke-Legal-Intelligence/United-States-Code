@@ -32,7 +32,7 @@ An eligible entity receiving funds under section 6824(a) of this title shall use
 
 &emsp;&emsp;(B) designed to enhance the ability of such teachers to understand and use curricula, assessment measures, and instruction strategies for limited English proficient children;
 
-&emsp;&emsp;(C) based on scientifically based research demonstrating the effectiveness of the professional development in increasing children's English proficiency or substantiallyincreasing the subject matter knowledge, teaching knowledge, and teaching skills of such teachers; and
+&emsp;&emsp;(C) based on scientifically based research demonstrating the effectiveness of the professional development in increasing children's English proficiency or substantially increasing the subject matter knowledge, teaching knowledge, and teaching skills of such teachers; and
 
 &emsp;&emsp;(D) of sufficient intensity and duration (which shall not include activities such as one-day or short-term workshops and conferences) to have a positive and lasting impact on the teachers' performance in the classroom, except that this subparagraph shall not apply to an activity that is one component of a long-term, comprehensive professional development plan established by a teacher and the teacher's supervisor based on an assessment of the needs of the teacher, the supervisor, the students of the teacher, and any local educational agency employing the teacher.
 
@@ -106,7 +106,7 @@ Subject to subsection (c) of this section, an eligible entity receiving funds un
 
 #### (g) Supplement, not supplant
 
-Federal funds made available under this subpart shall be used so as to supplement the levelof Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for limited English proficient children and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
+Federal funds made available under this subpart shall be used so as to supplement the level of Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for limited English proficient children and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
 
 (Pub. L. 89–10, title III, §3115, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1697.)
 

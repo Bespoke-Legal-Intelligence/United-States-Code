@@ -18,7 +18,7 @@ Details or assignments may be made under this section—
 
 &emsp;(3) upon an advance of funds, property or services to the United States Government accepted with the approval of the President for specified uses in furtherance of the purposes of this chapter; and funds so advanced may be established as a separate fund in the Treasury of the United States Government, to be available for the specified uses, and to be used for reimbursement of appropriations or direct expenditure subject to the provisions of this chapter, any unexpended balance of such account to be returned to the foreign government or international organization.
 
-(Pub. L. 87–293, title I, §14, Sept. 22, 1961, 75 Stat. 620; Pub. L. 91–352, §7, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, §2202(d), Oct. 17, 1980, 94 Stat. 2158.)
+(Pub. L. 87–293, title I, §14, Sept. 22, 1961, 75 Stat. 620; Pub. L. 91–352, §7, July 24, 1970, 84 Stat. 465;Pub. L. 96–465, title II, §2202(d), Oct. 17, 1980, 94 Stat. 2158.)
 
 #### References in Text
 

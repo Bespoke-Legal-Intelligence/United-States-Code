@@ -84,7 +84,7 @@ Subsec. (f)(1), (2). Pub. L. 101–237, §423(a)(4), substituted ", under secti
 
 Subsec. (g). Pub. L. 101–237, §420(a)(1)(A), added subsec. (g).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–689 substituted "beginning on the date of such individual's last discharge orrelease from active duty, except that such 10-year period shall begin—" and pars. (1) and (2) for "beginning on (1) the date of such individual's last discharge or release from active duty, or (2) the last day on which such individual becomes entitled to such assistance, whichever is later".
+<b>1988</b>—Subsec. (a). Pub. L. 100–689 substituted "beginning on the date of such individual's last discharge or release from active duty, except that such 10-year period shall begin—" and pars. (1) and (2) for "beginning on (1) the date of such individual's last discharge or release from active duty, or (2) the last day on which such individual becomes entitled to such assistance, whichever is later".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–576, §§307(b)(1), 321(7)(A), made identical amendments, substituting "(e)" for "(d)".
 
@@ -122,7 +122,7 @@ Pub. L. 106–419, title I, §102(e), Nov. 1, 2000, 114 Stat. 1825, provided tha
 
 Pub. L. 106–419, title I, §103(e), Nov. 1, 2000, 114 Stat. 1826, provided that:
 
-"(1) In the case of an individual described in paragraph (2), with respect to the time limitation under section 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
+"(1) In the case of an individual described in paragraph (2), with respect to the time limitation undersection 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
 
 &emsp;"(A) the date of the enactment of this Act \[Nov. 1, 2000\]; or
 

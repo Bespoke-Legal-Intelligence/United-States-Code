@@ -50,6 +50,32 @@ Employment With DOD Contractors.—The Secretary of Defense shall examine and se
 
 <b>2001</b>—Subsecs. (d) to (g). Pub. L. 107–107 added subsecs. (d) to (g).
 
+#### Improved Data Collection Related to Efforts To Reduce Underemployment of Spouses of Members of the Armed Forces and Close the Wage Gap Between Military Spouses and Their Civilian Counterparts
+
+Pub. L. 113–291, div. A, title V, §568, Dec. 19, 2014, 128 Stat. 3386, provided that:
+
+"(a)
+
+Data Collection Efforts.—In addition to monitoring the number of spouses of members of the Armed Forces who obtain employment through military spouse employment programs, the Secretary of Defense shall collect data to evaluate the effectiveness of military spouse employment programs—
+
+&emsp;"(1) in addressing the underemployment of military spouses;
+
+&emsp;"(2) in matching military spouses' education and experience to available employment positions; and
+
+&emsp;"(3) in closing the wage gap between military spouses and their civilian counterparts.
+
+"(b)
+
+Report Required.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report evaluating the progress of military spouse employment programs—
+
+&emsp;"(1) in reducing military spouse unemployment and underemployment; and
+
+&emsp;"(2) in reducing the wage gap between military spouses and their civilian counterparts.
+
+"(c)
+
+Military Spouse Employment Programs Defined.—In this section, the term 'military spouse employment programs' means the Military Spouse Employment Partnership (MSEP)."
+
 #### Pilot Program To Secure Internships for Military Spouses With Federal Agencies
 
 Pub. L. 111–84, div. A, title V, §564, Oct. 28, 2009, 123 Stat. 2308, provided that:

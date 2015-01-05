@@ -14,7 +14,7 @@ Period of more than one year.—Where the period for which interest is owed is m
 
 (b)
 
-Distribution of Notice of Rates.—The Director of the Administrative Office of the UnitedStates Courts shall distribute to all federal courts notice of the rates described in paragraphs (1) and (2) of subsection (a).
+Distribution of Notice of Rates.—The Director of the Administrative Office of the United States Courts shall distribute to all federal courts notice of the rates described in paragraphs (1) and (2) of subsection (a).
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1146.)
 

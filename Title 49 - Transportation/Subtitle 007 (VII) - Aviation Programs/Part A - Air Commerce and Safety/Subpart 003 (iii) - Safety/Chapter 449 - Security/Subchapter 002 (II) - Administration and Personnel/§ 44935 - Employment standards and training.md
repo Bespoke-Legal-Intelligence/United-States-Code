@@ -68,7 +68,7 @@ Qualifications.—Within 30 days after the date of enactment of the Aviation and
 
 &emsp;&emsp;(B)
 
-Background checks.—The Under Secretary shall require that an individual to be hired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
+Background checks.—The Under Secretary shall require that an individual to behired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
 
 &emsp;&emsp;(C)
 
@@ -76,7 +76,7 @@ Disqualification of individuals who present national security risks.—The Under
 
 &emsp;(3)
 
-Examination; review of existing rules.—The Under Secretary shall develop a security screening personnel examination foruse in determining the qualification of individuals seeking employment as security screening personnel. The Under Secretary shall also review, and revise as necessary, any standard, rule, or regulation governing the employment of individuals as security screening personnel.
+Examination; review of existing rules.—The Under Secretary shall develop a security screening personnel examination for use in determining the qualification of individuals seeking employment as security screening personnel. The Under Secretary shall also review, and revise as necessary, any standard, rule, or regulation governing the employment of individuals as security screening personnel.
 
 (f)
 

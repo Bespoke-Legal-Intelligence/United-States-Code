@@ -28,7 +28,7 @@
 
 #### (B) Appropriate medicare administrative contractor
 
-&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the "appropriate" medicare administrative contractor is the medicare administrative contractor that hasa contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
+&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the "appropriate" medicare administrative contractor is the medicare administrative contractor that has a contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
 
 #### (4) Functions described
 
@@ -160,7 +160,7 @@
 
 #### (2) Disbursing officer
 
-&emsp;No disbursing officer shall, in the absence of the reckless disregard of the officer's obligations or the intent by that officer to defraud the United States, be liable with respect to any payment by such officer under this section if it was based upon an authorization (which meets the applicable requirements for such internal controls established by the Comptroller General of the United States) of a certifying officer designated as provided in paragraph (1) of this subsection.
+&emsp;No disbursing officer shall, in the absence of the reckless disregard of the officer's obligations or the intent by that officer to defraud the United States, be liable with respect to any payment by such officer under this section if it was based upon an authorization (whichmeets the applicable requirements for such internal controls established by the Comptroller General of the United States) of a certifying officer designated as provided in paragraph (1) of this subsection.
 
 #### (3) Liability of medicare administrative contractor
 
@@ -202,7 +202,7 @@
 
 #### (1) Development of information security program
 
-&emsp;A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b) of title 44 (other than the requirements under paragraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
+&emsp;A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b) <sup>1</sup> of title 44 (other than the requirements under paragraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
 
 #### (2) Independent audits
 
@@ -218,7 +218,7 @@
 
 #### (i) New contractors
 
-&emsp;&emsp;&emsp;In the case of a medicare administrative contractor covered by this subsection that has not previously performed the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) as afiscal intermediary or carrier under section 1395h or 1395u of this title, the first independent evaluation conducted pursuant to subparagraph (A) shall be completed prior to commencing such functions.
+&emsp;&emsp;&emsp;In the case of a medicare administrative contractor covered by this subsection that has not previously performed the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) as a fiscal intermediary or carrier under section 1395h or 1395u of this title, the first independent evaluation conducted pursuant to subparagraph (A) shall be completed prior to commencing such functions.
 
 #### (ii) Other contractors
 
@@ -236,7 +236,7 @@
 
 #### (iii) Agency reporting
 
-&emsp;&emsp;&emsp;The Secretary shall address the results of such evaluations in reports required under section 3544(c) of title 44.
+&emsp;&emsp;&emsp;The Secretary shall address the results of such evaluations in reports required under section 3544(c) <sup>1</sup> of title 44.
 
 #### (f) Incentives to improve contractor performance in provider education and outreach
 
@@ -284,7 +284,11 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX,§§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX, §§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057.)
+
+#### References in Text
+
+Section 3544 of title 44, referred to in subsec. (e)(1), (2)(C)(iii), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to section 3544 of title 44 are now contained in section 3554 of title 44, as enacted by Pub. L. 113–283.
 
 #### Codification
 
@@ -374,7 +378,7 @@ Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided
 
 #### References
 
-Pub. L. 108–173, title IX, §911(e), Dec. 8, 2003, 117 Stat. 2386, provided that: "On and after the effective dateprovided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[42 U.S.C. 1395kk–1\])."
+Pub. L. 108–173, title IX, §911(e), Dec. 8, 2003, 117 Stat. 2386, provided that: "On and after the effective date provided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[42 U.S.C. 1395kk–1\])."
 
 #### Secretarial Submission of Legislative Proposal
 
@@ -444,7 +448,7 @@ Pilot Projects to Test Modified or New Evaluation and Management Documentation G
 
 &emsp;"(1)
 
-In general.—With respect to proposed new or modified documentation guidelines referred to in subsection (a), the Secretary shall conduct under this subsection appropriate and representative pilot projects to test the proposed guidelines.
+In general.—With respect to proposed new or modified documentation guidelines referred to in subsection (a), the Secretary shall conduct under thissubsection appropriate and representative pilot projects to test the proposed guidelines.
 
 &emsp;"(2)
 
@@ -458,7 +462,7 @@ Length and consultation.—Each pilot project under this subsection shall—
 
 &emsp;"(3)
 
-Range of pilot projects.—Of the pilot projects conducted under this subsection with respectto proposed new or modified documentation guidelines—
+Range of pilot projects.—Of the pilot projects conducted under this subsection with respect to proposed new or modified documentation guidelines—
 
 &emsp;&emsp;"(A) at least one shall focus on a peer review method by physicians (not employed by a medicare contractor) which evaluates medical record information for claims submitted by physicians identified as statistical outliers relative to codes used for billing purposes for such services;
 
@@ -535,4 +539,6 @@ Definitions.—In this section—
 &emsp;"(1) the term 'rural area' has the meaning given that term in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D)); and
 
 &emsp;"(2) the term 'teaching settings' are those settings described in section 415.150 of title 42, Code of Federal Regulations."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

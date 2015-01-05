@@ -24,7 +24,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2010; and
 
-&emsp;&emsp;&emsp;(ii) the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of thistitle to receive the county payment for fiscal year 2010.
+&emsp;&emsp;&emsp;(ii) the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2010.
 
 #### (2) Covered State
 
@@ -40,7 +40,7 @@ Except as provided in subsection (d), it is the intent of Congress that the meth
 
 #### (d) Distribution of payments in California
 
-The following payments shall be distributed among the eligible counties in the State of California in the same proportion that payments under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) were distributed to the eligible counties for fiscal year 2006:
+The following payments shall be distributed among the eligible counties in the State of California in the same proportion that paymentsunder section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) were distributed to the eligible counties for fiscal year 2006:
 
 &emsp;(1) Payments to the State of California under subsection (b).
 

@@ -24,7 +24,7 @@
 
 A Federal Direct Consolidation Loan made under this section shall have the same terms and conditions as a Federal Direct Consolidation Loan made under section 1087e(g) of this title, except that—
 
-&emsp;(1) in determining the applicable rate of interest on the Federal Direct Consolidation Loan made under this section (other than on a Federal Direct Consolidation Loan described in paragraph (2)), section 1077a(l)(3) of this title shall be applied without rounding the weighted average of the interest rate on the loans consolidated to the nearest higher one-eighth of 1 percent as described in subparagraph (A) of section 1077a(l)(3) of this title; and
+&emsp;(1) in determining the applicable rate of interest on the Federal Direct ConsolidationLoan made under this section (other than on a Federal Direct Consolidation Loan described in paragraph (2)), section 1077a(l)(3) of this title shall be applied without rounding the weighted average of the interest rate on the loans consolidated to the nearest higher one-eighth of 1 percent as described in subparagraph (A) of section 1077a(l)(3) of this title; and
 
 &emsp;(2) if a Federal Direct Consolidation Loan made under this section that repays a loan which is subject to an interest rate determined under section 1077a(g)(2), (j)(2), or (k)(2) of this title, then the interest rate for such Federal Direct Consolidation Loan shall be calculated—
 

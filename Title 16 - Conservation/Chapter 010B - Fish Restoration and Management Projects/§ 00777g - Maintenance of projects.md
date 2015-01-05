@@ -32,7 +32,7 @@ Each State may use not to exceed 15 percent of the funds apportioned to it under
 
 &emsp;Under the plan, the Secretary may obligate amounts available under subsection (a)(5) or subsection (b) of section 777c of this title—
 
-&emsp;&emsp;(A) to make grants to any State or private entity to pay all or any portion of the costof carrying out any outreach and communications program under the plan; or
+&emsp;&emsp;(A) to make grants to any State or private entity to pay all or any portion of the cost of carrying out any outreach and communications program under the plan; or
 
 &emsp;&emsp;(B) to fund contracts with States or private entities to carry out such a program.
 

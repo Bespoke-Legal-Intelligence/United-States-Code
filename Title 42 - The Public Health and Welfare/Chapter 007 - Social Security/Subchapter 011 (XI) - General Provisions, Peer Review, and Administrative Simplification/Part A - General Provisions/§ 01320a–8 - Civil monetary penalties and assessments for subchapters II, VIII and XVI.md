@@ -94,7 +94,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 #### (f) Finality of determination respecting penalty, assessment, or exclusion
 
-A determination pursuant to subsection (a) of this section by the Commissioner of Social Security to impose a penalty or assessment, or to recommend an exclusion shall be final upon theexpiration of the 60-day period referred to in subsection (d) of this section. Matters that were raised or that could have been raised in a hearing before the Commissioner of Social Security or in an appeal pursuant to subsection (d) of this section may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
+A determination pursuant to subsection (a) of this section by the Commissioner of Social Security to impose a penalty or assessment, or to recommend an exclusion shall be final upon the expiration of the 60-day period referred to in subsection (d) of this section. Matters that were raised or that could have been raised in a hearing before the Commissioner of Social Security or in an appeal pursuant to subsection (d) of this section may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
 
 #### (g) Notification of appropriate entities of finality of determination
 

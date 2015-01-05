@@ -10,7 +10,7 @@ The Governor shall prepare, publish, and submit to the Congress and the Secretar
 
 There is hereby established the office of Lieutenant Governor of the Virgin Islands. The Lieutenant Governor shall have such executive powers and perform such duties as may be assigned to him by the Governor or prescribed by this chapter or under the laws of the Virgin Islands.
 
-(July 22, 1954, ch. 558, §11, 68 Stat. 503; Pub. L. 90–496, §4, Aug. 23, 1968, 82 Stat. 837; Pub. L. 97–357, title III, §309(a), Oct. 19, 1982, 96 Stat. 1710; Pub. L. 98–454, title V, §502, Oct. 5, 1984, 98 Stat. 1735; Pub. L. 105–362, title IX, §901(n), Nov. 10, 1998, 112 Stat. 3290.)
+(July 22, 1954, ch. 558, §11, 68 Stat. 503; Pub. L. 90–496, §4, Aug. 23, 1968, 82 Stat. 837; Pub. L. 97–357, title III, §309(a), Oct. 19, 1982, 96 Stat.1710; Pub. L. 98–454, title V, §502, Oct. 5, 1984, 98 Stat. 1735; Pub. L. 105–362, title IX, §901(n), Nov. 10, 1998, 112 Stat. 3290.)
 
 #### References in Text
 

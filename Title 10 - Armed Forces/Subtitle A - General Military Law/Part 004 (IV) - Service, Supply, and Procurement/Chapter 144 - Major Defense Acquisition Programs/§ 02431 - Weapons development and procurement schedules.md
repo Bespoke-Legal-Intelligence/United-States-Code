@@ -1,6 +1,6 @@
 ### §2431. Weapons development and procurement schedules
 
-(a) The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits the budget to Congress under section 1105 of title 31, budget justification documents regarding development and procurement schedules for each weapon system for which fund authorization is required by section 114(a) of this title, and for which any funds for procurement are requested in that budget. The documents shall include data on operational testing and evaluation for each weapon system for which funds for procurement are requested (other than funds requested only for the procurement of units for operational testing and evaluation, or long lead-time items, or both). A weapon system shall also be included in the annual documents required under this subsection in each year thereafter until procurement of that system has been completed or terminated, or the Secretary of Defense certifies, in writing, that such inclusion would not serve any useful purpose and gives his reasons therefor.
+(a) The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits the budget to Congress under section 1105 of title 31, budget justification documents regarding development and procurement schedules for each weapon system for which fund authorization is required by section 114(a) of this title, and for which any funds for procurement are requested in that budget. The documents shall include data on operational testing and evaluation for each weapon system for which funds for procurement are requested (other than funds requested only for the procurement of units for operational testing and evaluation, or long lead-time items, or both). A weapon system shall also be included in the annual documents required under this subsection in each year thereafter until procurement of that system has been completed or terminated, or the Secretary of Defense certifies,in writing, that such inclusion would not serve any useful purpose and gives his reasons therefor.
 
 (b) Any documents required to be submitted under subsection (a) shall include detailed and summarized information with respect to each weapon system covered and shall specifically include each of the following:
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) The planned procurement schedule, including the best estimate of the Secretary of Defense of the annual costs and units to be procured until procurement is completed.
 
-&emsp;(3) To the extent required by the second sentence of subsection (a), the result of all operational testing and evaluation up to the timeof the submission of the documents, or, if operational testing and evaluation has not been conducted, a statement of the reasons therefor and the results of such other testing and evaluation as has been conducted.
+&emsp;(3) To the extent required by the second sentence of subsection (a), the result of all operational testing and evaluation up to the time of the submission of the documents, or, if operational testing and evaluation has not been conducted, a statement of the reasons therefor and the results of such other testing and evaluation as has been conducted.
 
 &emsp;(4)(A) The most efficient production rate, the most efficient acquisition rate, and the minimum sustaining rate, consistent with the program priority established for such weapon system by the Secretary concerned.
 
@@ -83,6 +83,102 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Testing and Assessment of Missile Defense Systems Prior to Production and Deployment
+
+Pub. L. 113–291, div. A, title XVI, §1662, Dec. 19, 2014, 128 Stat. 3657, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) it is a high priority of the United States that the ballistic missile defense system should work in an operationally effective and cost-effective manner;
+
+&emsp;"(2) prior to making final production decisions for such systems, and prior to the operational deployment of such systems, the United States should conduct operationally realistic intercept flight testing that should create sufficiently challenging operational conditions to establish confidence that such systems will work in an operationally effective and cost-effective manner when needed; and
+
+&emsp;"(3) in order to achieve these objectives, and to avoid post-production and post-deployment problems, it is essential for the Department of Defense to follow a 'fly before you buy' approach to adequately test and assess the elements of the ballistic missile defense system before final production decisions or operational deployment.
+
+"(b)
+
+Successful Testing Required Prior to Final Production or Operational Deployment.—The Secretary of Defense may not make a final production decision for, or operationally deploy, a covered system unless—
+
+&emsp;"(1) the Secretary ensures that—
+
+&emsp;&emsp;"(A) sufficient and operationally realistic testing of the covered system is conducted to assess the performance of the covered system in order to inform a final production decision or an operational deployment decision; and
+
+&emsp;&emsp;"(B) the results of such testing have demonstrated a high probability that the covered system—
+
+&emsp;&emsp;&emsp;"(i) will work in an operationally effective manner; and
+
+&emsp;&emsp;&emsp;"(ii) has the ability to accomplish the intended mission of the covered system;
+
+&emsp;"(2) the Director of Operational Test and Evaluation has carried out subsection (c) with respect to such covered system; and
+
+&emsp;"(3) the Commander of the United States Strategic Command has carried out subsection (d) with respect to such covered system.
+
+"(c)
+
+Assessment by Director of Operational Test and Evaluation.—The Director of Operational Test and Evaluation shall—
+
+&emsp;"(1) provide to the Secretary the assessment of the Director, based on the available test data, of the sufficiency, adequacy, and results of the testing of each covered system, including an assessment of whether the covered system will be sufficiently effective, suitable, and survivable when needed; and
+
+&emsp;"(2) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a written summary of such assessment.
+
+"(d)
+
+Assessment by Commander of United States Strategic Command.—The Commander of the United States Strategic Command shall—
+
+&emsp;"(1) provide to the Secretary a military utility assessment of the operational utility of each covered system; and
+
+&emsp;"(2) not later than 30 days after providing such assessment to the Secretary, submit to the congressional defense committees a written summary of such assessment.
+
+"(e)
+
+Rule of Construction.—Nothing in this section shall be construed to alter, modify, or otherwise affect a determination of the Secretary with respect to the participation of the Missile Defense Agency in the Joint Capabilities Integration Development System or the acquisition reporting process under the Department of Defense Directive 5000 series.
+
+"(f)
+
+Covered System.—In this section, the term 'covered system' means a new or substantially upgraded interceptor or weapon system of the ballistic missile defense system, other than the re-designed exo-atmospheric kill vehicle covered by the acquisition plan developed under section 1663 \[set out below\]."
+
+#### Acquisition Plan for Re-Designed Exo-Atmospheric Kill Vehicle
+
+Pub. L. 113–291, div. A, title XVI, §1663, Dec. 19, 2014, 128 Stat. 3658, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) the existing models of the exo-atmospheric kill vehicle of the ground-based midcourse defense system are prototype designs that were developed and deployed without using traditional acquisition practices in order to provide an initial defensive capability for an emerging ballistic missile threat;
+
+&emsp;"(2) consequently, while the deployed models of the exo-atmospheric kill vehicle have demonstrated an initial level of capability against a limited threat, such models do not have the degree of reliability, robustness, cost effectiveness, and performance that are desirable;
+
+&emsp;"(3) the exo-atmospheric kill vehicle for the ground-based midcourse defense system needs to be re-designed to substantially improve the performance and reliability of such kill vehicles; and
+
+&emsp;"(4) the Secretary of Defense should follow a robust and rigorous acquisition plan for the design, development, and testing of the re-designed exo-atmospheric kill vehicle.
+
+"(b)
+
+Acquisition Plan Required.—The Secretary of Defense shall develop an acquisition plan for the re-design of the exo-atmospheric kill vehicle of the ground-based midcourse defense system that includes rigorous elements for system engineering, design, integration, development, testing, and evaluation.
+
+"(c)
+
+Objectives.—The objectives of the acquisition plan under subsection (b) shall be to ensure that the re-designed exo-atmospheric kill vehicle is operationally effective, reliable, producible, cost effective, maintainable, and testable.
+
+"(d)
+
+Approval of Acquisition Plan Required.—The acquisition plan under subsection (b) shall be subject to approval by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+"(e)
+
+Testing Required.—Prior to operational deployment of the re-designed exo-atmospheric kill vehicle, the Secretary shall ensure that the re-designed kill vehicle has demonstrated, through successful, operationally realistic flight testing—
+
+&emsp;"(1) a high probability of working in an operationally effective manner; and
+
+&emsp;"(2) the ability to accomplish the intended mission of the re-designed kill vehicle, including against more complex emerging ballistic missile threats.
+
+"(f)
+
+Report Required.—Not later than 60 days after the date on which the Under Secretary of Defense for Acquisition, Technology, and Logistics approves the acquisition plan under subsection (d), the Director of the Missile Defense Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the acquisition plan and the manner in which the plan will meet the objectives described in subsection (c)."
 
 #### Additional Missile Defense Radar for the Protection of the United States Homeland
 
@@ -638,7 +734,7 @@ Use of Streamlined Acquisition Procedures.—The Secretary of Defense shall pres
 
 "(c)
 
-Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of the systems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
+Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of thesystems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
 
 &emsp;"(A) the Cooperative Engagement Capability (CEC) system of the Navy;
 
@@ -716,7 +812,7 @@ Qualifying Flight Test Defined.—For purposes of this section, an ABM-qualifyin
 
 &emsp;"(2) to take the initiative within the North Atlantic Treaty Organization to develop consensus in the Alliance for a timely deployment of effective ballistic missile defenses by the Alliance; and
 
-&emsp;"(3) in the interim, to seek agreement with allies of the United States and selected other states on steps the parties should take, consistent with their national interests, to reduce the risks posed by the threat of limited ballistic missile attacks, such steps to include—
+&emsp;"(3) in the interim, to seek agreement with allies of the United States and selected other states on stepsthe parties should take, consistent with their national interests, to reduce the risks posed by the threat of limited ballistic missile attacks, such steps to include—
 
 &emsp;&emsp;"(A) the sharing of early warning information derived from sensors deployed by the United States and other states;
 
@@ -950,7 +1046,7 @@ Pub. L. 99–661, div. A, title II, §213, Nov. 14, 1986, 100 Stat. 3841, prohib
 
 #### Should-Cost Analyses
 
-Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub. L. 100–26, §11(a)(2), Apr. 21, 1987, 101 Stat. 288, required Secretary of Defense to submit to Congress an annual report setting forth Secretary'splan for performance during next fiscal year of cost analyses for major defense acquisition programs for purpose of determining how much production of covered systems under such programs should cost, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(d)(2), Nov. 5, 1990, 104 Stat. 1672.
+Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub. L. 100–26, §11(a)(2), Apr. 21, 1987, 101 Stat. 288, required Secretary of Defense to submit toCongress an annual report setting forth Secretary's plan for performance during next fiscal year of cost analyses for major defense acquisition programs for purpose of determining how much production of covered systems under such programs should cost, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(d)(2), Nov. 5, 1990, 104 Stat. 1672.
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 

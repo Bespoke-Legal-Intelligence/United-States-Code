@@ -38,7 +38,7 @@ During fiscal year 2003 and fiscal year 2004, the Director of the Office for Dom
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end of first sentence.
 
 <b>2004</b>—Subsec. (c)(9). Pub. L. 108–458 added par. (9).
 

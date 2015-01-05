@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 91–614, §101(d)(1)(D), added subsec. (b).
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1)of Pub. L. 97–34, set out as a note under section 6166 of this title.
+Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as a note under section 6166 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 95–600, title VII, §702(p)(2), Nov. 6, 1978, 92 Stat. 2937, provided 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1902(a)(9) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Dec. 31, 1970, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2011 of this title.
+Amendment by section 1902(a)(9) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Dec. 31, 1970, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
 
 Amendment by section 2004(d)(4) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2004(g) of Pub. L. 94–455, set out as a note under section 6166 of this title.
 

@@ -20,7 +20,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(3) United States bilateral development assistance should give high priority to undertakings submitted by host governments which directly improve the lives of the poorest of their people and their capacity to participate in the development of their countries, while also helping such governments enhance their planning, technical, and administrative capabilities needed to insure the success of such undertakings.
 
-&emsp;(4) Development assistance provided under this part shall be concentrated in countries which will make the most effective use of such assistance to help satisfy basic human needs of poor people through equitable growth, especially in those countries having the greatest need for outside assistance. In order to make possible consistent and informed judgments in this respect, the President shall assess the commitment and progress of countries in moving toward the objectives and purposes of this part by utilizing criteria, including but not limited to the following:
+&emsp;(4) Development assistance provided under this part shall be concentrated in countries which will make the most effective use of such assistance to help satisfy basic human needs of poor people through equitable growth, especially in those countries having the greatest need for outside assistance. In order to makepossible consistent and informed judgments in this respect, the President shall assess the commitment and progress of countries in moving toward the objectives and purposes of this part by utilizing criteria, including but not limited to the following:
 
 &emsp;&emsp;(A) increase in agricultural productivity per unit of land through small-farm, labor-intensive agriculture;
 
@@ -56,7 +56,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(14) Development assistance should, as a fundamental objective, promote private sector activity in open and competitive markets in developing countries, recognizing such activity to be a productive and efficient means of achieving equitable and long term economic growth.
 
-&emsp;(15) United States cooperation in development should recognize as essential the need ofdeveloping countries to have access to appropriate technology in order to improve food and water, health and housing, education and employment, and agriculture and industry.
+&emsp;(15) United States cooperation in development should recognize as essential the need of developing countries to have access to appropriate technology in order to improve food and water, health and housing, education and employment, and agriculture and industry.
 
 &emsp;(16) United States assistance should focus on establishing and upgrading the institutional capacities of developing countries in order to promote long term development. An important component of institution building involves training to expand the human resource potential of people in developing countries.
 

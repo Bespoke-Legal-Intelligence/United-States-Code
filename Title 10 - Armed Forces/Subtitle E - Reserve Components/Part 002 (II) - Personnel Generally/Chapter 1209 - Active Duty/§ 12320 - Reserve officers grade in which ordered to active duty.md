@@ -1,6 +1,6 @@
 ### §12320. Reserve officers: grade in which ordered to active duty
 
-A reserve officer who is ordered to active duty or full-time National Guard duty shall be ordered to active duty or full-time National Guard duty in his reserve grade, except that a reserve officer who is credited with service under section 12207 of this title and is ordered to active duty and placed on the active-duty list may beordered to active duty in a reserve grade and with a date of rank and position on the active-duty list determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited.
+A reserve officer who is ordered to active duty or full-time National Guard duty shall be ordered to active duty or full-time National Guard duty in his reserve grade, except that a reserve officer who is credited with service under section 12207 of this title and is ordered to active duty and placed on the active-duty list may be ordered to active duty in a reserve grade and with a date of rank and position on the active-duty list determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited.
 
 (Added Pub. L. 96–513, title I, §106, Dec. 12, 1980, 94 Stat. 2868, §689; amended Pub. L. 97–22, §4(g), July 10, 1981, 95 Stat. 127; renumbered §12320 and amended Pub. L. 103–337, div. A, title XVI, §§1625, 1662(e)(2), 1675(c)(11), Oct. 5, 1994, 108 Stat. 2962, 2992, 3018; Pub. L. 104–106, div. A, title XV, §1501(a)(2), Feb. 10, 1996, 110 Stat. 495.)
 

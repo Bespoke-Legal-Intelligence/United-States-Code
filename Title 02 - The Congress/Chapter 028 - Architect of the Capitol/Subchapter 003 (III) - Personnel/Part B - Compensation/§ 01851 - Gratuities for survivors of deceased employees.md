@@ -12,7 +12,7 @@ Section is based on House Resolution No. 291, June 18, 1963, which was enacted i
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund” and substituted “House Oversight” for “House Administration” in two places.
+<b>1996</b>—Pub. L. 104–186 substituted "applicable accounts" for "contingent fund" and substituted "House Oversight" for "House Administration" in two places.
 
 #### Change of Name
 

@@ -54,7 +54,7 @@
 
 #### (4) Use of cooperative agreements
 
-&emsp;Any contract under this subchapter between the WTC Program Administrator and a DataCenter or a Clinical Center of Excellence may be in the form of a cooperative agreement.
+&emsp;Any contract under this subchapter between the WTC Program Administrator and a Data Center or a Clinical Center of Excellence may be in the form of a cooperative agreement.
 
 #### (5) Review on feasibility of consolidating Data Centers
 

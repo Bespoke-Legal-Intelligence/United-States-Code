@@ -2,7 +2,7 @@
 
 In carrying out his duties and responsibilities under section 1223 of this title, the Secretary shall—
 
-&emsp;(a) take into account all relevant factors concerning navigation and vessel safety, protection of the marine environment, and thesafety and security of United States ports and waterways, including but not limited to—
+&emsp;(a) take into account all relevant factors concerning navigation and vessel safety, protection of the marine environment, and the safety and security of United States ports and waterways, including but not limited to—
 
 &emsp;&emsp;(1) the scope and degree of the risk or hazard involved;
 

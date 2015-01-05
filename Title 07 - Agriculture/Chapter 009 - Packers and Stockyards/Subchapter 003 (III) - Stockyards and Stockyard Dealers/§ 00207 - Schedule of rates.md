@@ -22,7 +22,7 @@ Whenever there is filed with the Secretary any schedule, stating a new rate or c
 
 #### (f) Suspension of operations; compliance
 
-After the expiration of the sixty days referred to in subsection (a) of this section, no person shall carry on the business of a stockyard owner or market agency unless the rates and charges for the stockyard services furnished at the stockyard have been filed and published in accordance with this section and the orders of the Secretary made thereunder; nor charge, demand, or collect a greater or less or different compensation for such services than the rates and charges specified in the schedules filed and in effect at the time; nor refund or remit in any manner any portion of the rates or charges so specified (but this shall not prohibit a cooperative association of producers from bona fide returning to its members, on a patronage basis, its excess earnings on their livestock, subject to such regulations as the Secretary may prescribe); nor extend to any person at such stockyard any stockyard services except such as are specified in such schedules.
+After the expiration of the sixty days referred to in subsection (a) <sup>1</sup> no person shall carry on the business of a stockyard owner or market agency unless the rates and charges for the stockyard services furnished at the stockyard have been filed and published in accordance with this section and the orders of the Secretary made thereunder; nor charge, demand, or collect a greater or less or different compensation for such services than the rates and charges specified in the schedules filed and in effect at the time; nor refund or remit in any manner any portion of the rates or charges so specified (but this shall not prohibit a cooperative association of producers from bona fide returning to its members, on a patronage basis, its excess earnings on their livestock, subject to such regulations as the Secretary may prescribe); nor extend to any person at such stockyard any stockyard services except such as are specified in such schedules.
 
 #### (g) Penalty
 
@@ -30,11 +30,13 @@ Whoever fails to comply with the provisions of this section or of any regulation
 
 #### (h) Intentional violations; penalty
 
-Whoever willfully fails to comply with the provisions of this section or of any regulation or order of the Secretary made thereunder shall onconviction be fined not more than $1,000, or imprisoned not more than one year, or both.
+Whoever willfully fails to comply with the provisions of this section or of any regulation or order of the Secretary made thereunder shall on conviction be fined not more than $1,000, or imprisoned not more than one year, or both.
 
 (Aug. 15, 1921, ch. 64, title III, §306, 42 Stat. 164; Pub. L. 94–410, §3(c), Sept. 13, 1976, 90 Stat. 1249.)
 
 #### Amendments
 
 <b>1976</b>—Subsec. (f). Pub. L. 94–410 substituted "livestock" for "live stock" after "earnings on their".
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

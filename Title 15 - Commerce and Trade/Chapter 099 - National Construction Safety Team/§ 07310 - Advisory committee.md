@@ -6,7 +6,7 @@ The Director, in consultation with the United States Fire Administration and oth
 
 #### (b) Annual report
 
-On January 1 of each year, the advisory committee shall transmit to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, andTransportation of the Senate a report that includes—
+On January 1 of each year, the advisory committee shall transmit to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
 
 &emsp;(1) an evaluation of Team activities, along with recommendations to improve the operation and effectiveness of Teams; and
 

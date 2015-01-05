@@ -8,7 +8,7 @@ The President may exercise any functions conferred upon him by this chapter thro
 
 The President shall issue and enforce regulations determining the eligibility of any person to receive funds made available under this chapter. A person may be suspended under such regulations for a temporary period pending the completion of an investigation and any resulting judicial or debarment proceedings, upon cause for belief that such person or an affiliate thereof probably has undertaken conduct which constitutes a cause for debarment; and, after an opportunity has been afforded to such person for a hearing, he may be debarred for an additional period, not to exceed three years. Among the causes for debarment shall be (1) offering or accepting a bribe or other illegal payment or credit in connection with any transaction financed with funds made available under this chapter; or (2) committing a fraud in the procurement or performance of any contract financed with funds made available under this chapter; or (3) acting in any other manner which shows a lack of integrity or honesty in connection with any transaction financed with funds made available under this chapter. Reinstatement of eligibility in each particular case shall be subject to such conditions as the President shall direct. Each person whose eligibility is denied or suspended under this subsection shall, upon request, be entitled to a review of his eligibility not less often than once every two years.
 
-(Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16,1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
+(Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16, 1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded inso
 
 #### Ex. Ord. No. 12163. Administration of Foreign Assistance and Related Functions
 
-Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, §3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633, provided:
+Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, §3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633; Ex. Ord. No. 13656, §6, Jan. 17, 2014, 79 F.R. 4263, provided:
 
 By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[this chapter\], Reorganization Plan No. 2 of 1979 \[set out above\], the International Development Cooperation Act of 1979 \[see Short Title of 1979 Amendment note set out under section 2151 of this title\], and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -122,7 +122,7 @@ United States Agency for International Development
 
 1–200. <i>United States Agency for International Development.</i>
 
-(a) The United States Agency for International Development is an independent establishment within the Executive branch. Any reference in the Act to the agency primarily responsible for administering part I of the Act \[22 U.S.C. 2151 et seq.\], or to the Administrator of such agency, shall be deemed to be a reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate.
+(a) The United States Agency for International Development is an independent establishment within theExecutive branch. Any reference in the Act to the agency primarily responsible for administering part I of the Act \[22 U.S.C. 2151 et seq.\], or to the Administrator of such agency, shall be deemed to be a reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate.
 
 (b) The United States Agency for International Development shall be headed by an Administrator appointed pursuant to section 624(a) of the Act \[22 U.S.C. 2384(a)\].
 
@@ -202,7 +202,7 @@ Additional Delegations and Limitations of Authority; Consultation
 
 1–602. <i>Personnel</i>. (a) In carrying out the functions conferred upon the President by the provisions of section 625(d) of the Act \[22 U.S.C. 2385(d)\], and by this order delegated to the Secretary of State, the Secretary shall authorize such of the agencies that administer programs under the Act \[this chapter\] as he may deem appropriate to perform any of the functions under section 625(d) of the Act to the extent that the said functions relate to the programs administered by the respective agencies.
 
-(b) Persons appointed, employed, or assigned after May 19, 1959, under section 527(c) of the Mutual Security Act of 1954 \[former 22 U.S.C. 1787(c)\] or section 625(d) of the Act \[22 U.S.C. 2385(d)\] for the purpose of performing functions under such Acts outside the United States shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided by section 310 of the Foreign Service Act of 1980 (22 U.S.C. 3950) in cases in which their service under the appointment, employment, or assignment exceeds thirty months.
+(b) Persons appointed, employed, or assigned after May 19, 1959, under section 527(c) of the Mutual Security Act of 1954 \[former 22 U.S.C. 1787(c)\] or section625(d) of the Act \[22 U.S.C. 2385(d)\] for the purpose of performing functions under such Acts outside the United States shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided by section 310 of the Foreign Service Act of 1980 (22 U.S.C. 3950) in cases in which their service under the appointment, employment, or assignment exceeds thirty months.
 
 1–603. <i>Special Missions and Staffs Abroad</i>. The maintenance of special missions or staffs abroad, the fixing of the ranks of the chiefs thereof after the chiefs of the United States diplomatic missions, and the authorization of the same compensation and allowances authorized for a chief of mission as defined in section 102(a)(3) of the Foreign Service Act of 1980 (22 U.S.C. 3902(a)(3)), all under section 631 of the Act \[22 U.S.C. 2391\], shall be subject to the approval of the Secretary of State.
 
@@ -220,7 +220,7 @@ Reserved Functions
 
 (b) The functions conferred upon the President by the Act \[this chapter\] and section 408(b) of the Mutual Security Act of 1954 \[22 U.S.C. 1928\] with respect to the appointment of officers required to be appointed by and with the advice and consent of the Senate and with respect to the appointment of officers pursuant to sections 233(b) and 624(c) of the Act \[22 U.S.C. 2193(b), 2384(c)\].
 
-(c) The functions conferred upon the President with respect to determinations, certifications, directives, or transfers of funds, as the case may be, by sections 209(d), 303, 465(b), 490(h), 505(d)(2)(A), 505(d)(3), 506(a), 552(c), 552(e), 610, 614(c), 620E, 632(b), 633A, 663(a) of the Act \[22 U.S.C. 2169(d), 2223, 2275(b), 2291j(h), 2314(d)(2)(A), (d)(3), 2318(a), 2348a(c), (e), 2360, 2364(c), 2375, 2392(b), 2393a, 2423(a)\]; those under section 604(a) of the Act \[22 U.S.C. 2354(a)\] except insofar as they relate to procurement under chapter 1 of part I and chapter 4 of part II \[22 U.S.C. 2151 et seq., 2346 et seq.\].
+(c) The functions conferred upon the President with respect to determinations, certifications, directives, or transfers of funds, as the case may be, by sections 209(d), 303, 465(b), 490(h), 505(d)(2)(A), 505(d)(3), 506(a), 552(c), 552(e), 610, 614(c), 620E, 632(b), 633A, 663(a) of the Act \[22 U.S.C. 2169(d), 2223, 2275(b), 2291j(h), 2314(d)(2)(A), (d)(3), 2318(a), 2348a(c), (e), 2360, 2364(c), 2375, 2392(b), 2393a, 2423(a)\].
 
 \[(d) Redesignated (c).\]
 
@@ -282,7 +282,7 @@ General Provisions
 
 (d) References in this order or in any other Executive order to this order or to any provision thereof shall be deemed to include references thereto, respectively, as amended from time to time.
 
-(e) References in any prior Executive order not superseded by this order to any provisions of any Executiveorder so superseded shall hereafter be deemed to be references to the corresponding provisions, if any, of this order.
+(e) References in any prior Executive order not superseded by this order to any provisions of any Executive order so superseded shall hereafter be deemed to be references to the corresponding provisions, if any, of this order.
 
 1–903. <i>Prior Executive Orders</i>. (a) The following are revoked:
 

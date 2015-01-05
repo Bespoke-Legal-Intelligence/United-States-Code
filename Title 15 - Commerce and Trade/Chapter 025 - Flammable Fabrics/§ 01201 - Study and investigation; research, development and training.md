@@ -12,7 +12,7 @@
 
 &emsp;(4) offer appropriate training in the use of flammability test methods and testing devices.
 
-(June 30, 1953, ch. 164, §14, as added Pub. L. 90–189, §10, Dec. 14, 1967, 81 Stat. 573; amended Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231;Pub. L. 96–470, title I, §114, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, §1211(e), Aug. 13, 1981, 95 Stat. 721; Pub. L. 110–314, title II, §204(c)(2)(B), Aug. 14, 2008, 122 Stat. 3042.)
+(June 30, 1953, ch. 164, §14, as added Pub. L. 90–189, §10, Dec. 14, 1967, 81 Stat. 573; amended Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 96–470, title I, §114, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, §1211(e), Aug. 13, 1981, 95 Stat. 721; Pub. L. 110–314, title II, §204(c)(2)(B), Aug. 14, 2008, 122 Stat. 3042.)
 
 #### Codification
 

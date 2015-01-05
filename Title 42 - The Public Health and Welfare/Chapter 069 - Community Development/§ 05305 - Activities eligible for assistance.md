@@ -4,7 +4,7 @@
 
 Activities assisted under this chapter may include only—
 
-&emsp;(1) the acquisition of real property (including air rights, water rights, and other interests therein) which is (A) blighted, deteriorated, deteriorating, undeveloped, or inappropriately developed from the standpoint of sound community development and growth; (B) appropriate for rehabilitation or conservation activities; (C) appropriate for the preservation or restoration of historic sites, the beautification of urban land, the conservation of open spaces, natural resources, and scenic areas, the provision of recreational opportunities, or the guidance of urban development; (D) to be used for the provision of public works, facilities, and improvements eligible for assistance under this chapter; or (E) to be used for other public purposes;
+&emsp;(1) the acquisition of real property (including air rights, water rights, and other interests therein) which is (A) blighted, deteriorated, deteriorating, undeveloped, or inappropriately developed from the standpoint of sound community development and growth; (B) appropriate for rehabilitation or conservation activities; (C) appropriate for the preservation or restoration of historic sites, the beautification of urban land, the conservationof open spaces, natural resources, and scenic areas, the provision of recreational opportunities, or the guidance of urban development; (D) to be used for the provision of public works, facilities, and improvements eligible for assistance under this chapter; or (E) to be used for other public purposes;
 
 &emsp;(2) the acquisition, construction, reconstruction, or installation (including design features and improvements with respect to such construction, reconstruction, or installation that promote energy efficiency) of public works, facilities (except for buildings for the general conduct of government), and site or other improvements;
 
@@ -98,47 +98,9 @@ Activities assisted under this chapter may include only—
 
 &emsp;&emsp;(C) such a shelter shall be of a size sufficient to accommodate, at a single time, all occupants of manufactured housing units located within the neighborhood in which the shelter is located; and
 
-&emsp;&emsp;(D) amounts may not be used for a shelter as provided under this paragraph unless there is located, within the neighborhood in which the shelter is located (or, in the case of a shelter located in a manufactured housing park, within 1,500 feet of such park), a warning siren that is operated in accordance with such local, regional, or national disaster warning programs or systems as the Secretary, after consultation with the Administrator of the Federal Emergency Management Agency, considers appropriate to ensure adequate notice of occupants of manufactured housing located in such neighborhood or park of a tornado;
+&emsp;&emsp;(D) amounts may not be used for a shelter as provided under this paragraph unless there is located, within the neighborhood in which the shelter is located (or, in the case of a shelter located in a manufactured housing park, within 1,500 feet of such park), a warning siren that is operated in accordance with such local, regional, or national disaster warning programs or systems as the Secretary, after consultation with the Administrator of the Federal Emergency Management Agency, considers appropriate to ensure adequate notice of occupants of manufactured housing located in such neighborhood or park of a tornado; and
 
-&emsp;(26) lead-based paint hazard evaluation and reduction, as defined in section 4851b of this title;
-
-&emsp;(27) supplementing existing State or local funding for administration of building code enforcement by local building code enforcement departments, including for increasing staffing, providing staff training, increasing staff competence and professional qualifications, and supporting individual certification or departmental accreditation, and for capital expenditures specifically dedicated to the administration of the building code enforcement department, except that, to be eligible to use amounts as provided in this paragraph—
-
-&emsp;&emsp;(A) a building code enforcement department shall provide matching, non-Federal funds to be used in conjunction with amounts used under this paragraph in an amount—
-
-&emsp;&emsp;&emsp;(i) in the case of a building code enforcement department serving an area with a population of more than 50,000, equal to not less than 50 percent of the total amount of any funds made available under this chapter that are used under this paragraph;
-
-&emsp;&emsp;&emsp;(ii) in the case of a building code enforcement department serving an area with a population of between 20,001 and 50,000, equal to not less than 25 percent of the total amount of any funds made available under this chapter that are used under this paragraph; and
-
-&emsp;&emsp;&emsp;(iii) in the case of a building code enforcement department serving an area with a population of less than 20,000, equal to not less than 12.5 percent of the total amount of any funds made available under this chapter that are used under this paragraph,
-
-> &emsp;&emsp;except that the Secretary may waive the matching fund requirements under this subparagraph, in whole or in part, based upon the level of economic distress of the jurisdiction in which is located the local building code enforcement department that is using amounts for purposes under this paragraph, and shall waive such matching fund requirements in whole for any recipient jurisdiction that has dedicated all building code permitting fees to the conduct of local building code enforcement; and
-
-&emsp;&emsp;(B) any building code enforcement department using funds made available under this chapter for purposes under this paragraph shall empanel a code administration and enforcement team consisting of at least 1 full-time building code enforcement officer, a city planner, and a health planner or similar officer; and
-
-&emsp;(28) provision of assistance to local governmental agencies responsible for floodplain management activities (including such agencies of Indians <sup>2</sup> tribes, as such term is defined in section 4103 of title 25) in communities that participate in the national flood insurance program under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), only for carrying out outreach activities to encourage and facilitate the purchase of flood insurance protection under such Act by owners and renters of properties in such communities and to promote educational activities that increase awareness of flood risk reduction; except that—
-
-&emsp;&emsp;(A) amounts used as provided under this paragraph shall be used only for activities designed to—
-
-&emsp;&emsp;&emsp;(i) identify owners and renters of properties in communities that participate in the national flood insurance program, including owners of residential and commercial properties;
-
-&emsp;&emsp;&emsp;(ii) notify such owners and renters when their properties become included in, or when they are excluded from, an area having special flood hazards and the effect of such inclusion or exclusion on the applicability of the mandatory flood insurance purchase requirement under section 4012a of this title to such properties;
-
-&emsp;&emsp;&emsp;(iii) educate such owners and renters regarding the flood risk and reduction of this risk in their community, including the continued flood risks to areas that are no longer subject to the flood insurance mandatory purchase requirement;
-
-&emsp;&emsp;&emsp;(iv) educate such owners and renters regarding the benefits and costs of maintaining or acquiring flood insurance, including, where applicable, lower-cost preferred risk policies under this chapter for such properties and the contents of such properties;
-
-&emsp;&emsp;&emsp;(v) encourage such owners and renters to maintain or acquire such coverage;
-
-&emsp;&emsp;&emsp;(vi) notify such owners of where to obtain information regarding how to obtain such coverage, including a telephone number, mailing address, and Internet site of the Administrator of the Federal Emergency Management Agency (in this paragraph referred to as the "Administrator") where such information is available; and
-
-&emsp;&emsp;&emsp;(vii) educate local real estate agents in communities participating in the national flood insurance program regarding the program and the availability of coverage under the program for owners and renters of properties in such communities, and establish coordination and liaisons with such real estate agents to facilitate purchase of coverage under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] and increase awareness of flood risk reduction;
-
-&emsp;&emsp;(B) in any fiscal year, a local governmental agency may not use an amount under this paragraph that exceeds 3 times the amount that the agency certifies, as the Secretary, in consultation with the Administrator, shall require, that the agency will contribute from non-Federal funds to be used with such amounts used under this paragraph only for carrying out activities described in subparagraph (A); and for purposes of this subparagraph, the term "non-Federal funds" includes State or local government agency amounts, in-kind contributions, any salary paid to staff to carry out the eligible activities of the local governmental agency involved, the value of the time and services contributed by volunteers to carry out such services (at a rate determined by the Secretary), and the value of any donated material or building and the value of any lease on a building;
-
-&emsp;&emsp;(C) a local governmental agency that uses amounts as provided under this paragraph may coordinate or contract with other agencies and entities having particular capacities, specialties, or experience with respect to certain populations or constituencies, including elderly or disabled families or persons, to carry out activities described in subparagraph (A) with respect to such populations or constituencies; and
-
-&emsp;&emsp;(D) each local government agency that uses amounts as provided under this paragraph shall submit a report to the Secretary and the Administrator, not later than 12 months after such amounts are first received, which shall include such information as the Secretary and the Administrator jointly consider appropriate to describe the activities conducted using such amounts and the effect of such activities on the retention or acquisition of flood insurance coverage.
+&emsp;(26) lead-based paint hazard evaluation and reduction, as defined in section 4851b of this title.
 
 #### (b) Reimbursement of Secretary for administrative services connected with rehabilitation of properties
 
@@ -162,7 +124,7 @@ Upon the request of the recipient of assistance under this chapter, the Secretar
 
 &emsp;(ii) not less than 51 percent of the use of the system will be by persons of low and moderate income; and
 
-&emsp;(iii) other Federal funds received by the grantee are not available for the development, establishment, and operation of such system due to the insufficiency of the amount of such funds, the restrictions on the use of such funds, or the prior commitment of such funds for other purposes by the grantee.
+&emsp;(iii) other Federal funds received by the grantee are not available for the development, establishment, and operation of such systemdue to the insufficiency of the amount of such funds, the restrictions on the use of such funds, or the prior commitment of such funds for other purposes by the grantee.
 
 > The percentage of the cost of the development, establishment, and operation of such a system that may be paid from assistance under this chapter and that is considered to benefit low and moderate income persons is the percentage of the population to be served that is made up of persons of low and moderate income.
 
@@ -214,25 +176,13 @@ In developing program requirements and providing assistance pursuant to paragrap
 
 &emsp;(1) take into account the special needs and limitations arising from the size of the entity; and
 
-&emsp;(2) not consider training, technical assistance, or other support services costs providedto small businesses or microenterprises or to grantees and subgrantees to develop the capacity to provide such assistance, as a planning cost pursuant to subsection (a)(12) of this section or an administrative cost pursuant to subsection (a)(13) of this section.
+&emsp;(2) not consider training, technical assistance, or other support services costs provided to small businesses or microenterprises or to grantees and subgrantees to develop the capacity to provide such assistance, as a planning cost pursuant to subsection (a)(12) of this section or an administrative cost pursuant to subsection (a)(13) of this section.
 
 #### (h) Prohibition on use of assistance for employment relocation activities
 
 Notwithstanding any other provision of law, no amount from a grant under section 5306 of this title made in fiscal year 1999 or any succeeding fiscal year may be used to assist directly in the relocation of any industrial or commercial plant, facility, or operation, from 1 area to another area, if the relocation is likely to result in a significant loss of employment in the labor market area from which the relocation occurs.
 
-(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981, 95 Stat. 387, 396; Pub. L. 98–181, title I \[title I, §105(a), (b)(1), (c)–(e), title III, §302(a)\], Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389; Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–134, title I, §101(e) \[title II, §225\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §220, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–276, title II, §§218, 232, title V, §§588, 596(a), Oct. 21, 1998, 112 Stat. 2487, 2492, 2651, 2659; Pub. L. 106–377, §1(a)(1) \[title II, §224\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 107–116, title VI, §631, Jan. 10, 2002, 115 Stat. 2227; Pub. L. 108–146, §2, Dec. 3, 2003, 117 Stat. 1883; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. F, title II, §100243(a), (b), July 6, 2012, 126 Stat. 963, 966.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 112–141, div. F, title II, §100243(b), July 6, 2012, 126 Stat. 966, provided that, effective on the date that is 2 years after July 6, 2012, subsection (a) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (25), by adding "and" at the end;</i>
-
-<i>(2) in paragraph (26), by striking the semicolon at the end and inserting a period; and</i>
-
-<i>(3) by striking paragraphs (27) and (28).</i>
-
-<i>See 2012 Amendment notes below.</i>
+(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981, 95 Stat. 387, 396; Pub. L. 98–181, title I \[title I, §105(a), (b)(1), (c)–(e), title III, §302(a)\], Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389;Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–134, title I, §101(e) \[title II, §225\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §220, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–276, title II, §§218, 232, title V, §§588, 596(a), Oct. 21, 1998, 112 Stat. 2487, 2492, 2651, 2659; Pub. L. 106–377, §1(a)(1) \[title II, §224\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 107–116, title VI, §631, Jan. 10, 2002, 115 Stat. 2227; Pub. L. 108–146, §2, Dec. 3, 2003, 117 Stat. 1883; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. F, title II, §100243(a), (b), July 6, 2012, 126 Stat. 963, 966.)
 
 #### References in Text
 
@@ -249,8 +199,6 @@ Section 701(e) of the Housing Act of 1954, referred to in subsec. (a)(13)(B), is
 Section 681(d) of title 15, referred to in subsec. (a)(15), was repealed by Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
 
 Section 1437o of this title, referred to in subsec. (a)(18), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
-
-The National Flood Insurance Act of 1968, referred to in subsec. (a)(28), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Codification
 
@@ -390,7 +338,7 @@ Subsec. (c). Pub. L. 98–181, §105(e), added subsec. (c).
 
 Subsec. (a)(6). Pub. L. 97–35, §309(f)(2), struck out "program" after "displaced by".
 
-Subsec. (a)(8). Pub. L. 97–35, §303(a)(1), added new par. (8) which generally revised and restructured provisions relating to provision of public services if such services have not been provided by the relevant unit of local government or State in which such unit is located, and limited amount of assistance under this paragraph to not more than 10 per centum of the amount of any assistance to a unit of general local government under this chapter.
+Subsec. (a)(8). Pub. L. 97–35, §303(a)(1), added new par. (8) which generally revised and restructured provisionsrelating to provision of public services if such services have not been provided by the relevant unit of local government or State in which such unit is located, and limited amount of assistance under this paragraph to not more than 10 per centum of the amount of any assistance to a unit of general local government under this chapter.
 
 Subsec. (a)(9). Pub. L. 97–35, §309(f)(3), substituted "activities assisted under this chapter" for "Community Development Program".
 
@@ -436,7 +384,7 @@ Subsec. (a)(14), (15). Pub. L. 95–128, §105(d), added pars. (14) and (15).
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. F, title II, §100243(b), July 6, 2012, 126 Stat. 966, provided that the amendment made bysection 100243(b) of Pub. L. 112–141 is effective on the date that is 2 years after July 6, 2012.
+Pub. L. 112–141, div. F, title II, §100243(b), July 6, 2012, 126 Stat. 966, provided that the amendment made by section 100243(b) of Pub. L. 112–141 is effective on the date that is 2 years after July 6, 2012.
 
 #### Effective Date of 2002 Amendment
 
@@ -500,7 +448,7 @@ Pub. L. 102–550, title VIII, §806(c), Oct. 28, 1992, 106 Stat. 3847, directed
 
 #### Enhancing Job Quality; Report to Congress
 
-Pub. L. 102–550, title VIII, §806(d), Oct. 28, 1992, 106 Stat. 3847, directed Comptroller General, not later than 1 year after Oct. 28, 1992, to submit to Congress a report on types and quality of jobs created or retained through assistance provided pursuant to this chapterand the extent to which projects and activities assisted under this chapter enhance the upward mobility and future earning capacity of low- and moderate-income persons who are benefited by such projects and activities.
+Pub. L. 102–550, title VIII, §806(d), Oct. 28, 1992, 106 Stat. 3847, directed Comptroller General, not later than 1 year after Oct. 28, 1992, to submit to Congress a report on types and quality of jobs created or retained through assistance provided pursuant to this chapter and the extent to which projects and activities assisted under this chapter enhance the upward mobility and future earning capacity of low- and moderate-income persons who are benefited by such projects and activities.
 
 #### Report to Congress on Effectiveness of Assistance in Promoting Development of Microenterprises
 
@@ -515,6 +463,4 @@ Pub. L. 102–550, title VIII, §853, Oct. 28, 1992, 106 Stat. 3859, provided fo
 Pub. L. 97–35, title III, §303(b), Aug. 13, 1981, 95 Stat. 388, as amended Pub. L. 98–181, title I \[title I, §105(b)(2)\], Nov. 30, 1983, 97 Stat. 1164, authorized Secretary, in fiscal years 1982 and 1983, to waive the limitation on amount of funds which could be used for public services activities under subsec. (a)(8) of this section, in the case of a unit of general local government which, during fiscal year 1981, allocated more than 10 per centum of funds received under this chapter for such activities.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "Indian".</i>
 

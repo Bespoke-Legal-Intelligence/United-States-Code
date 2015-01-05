@@ -36,7 +36,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayeridentification number, or other approved unique identifier, of such debtors, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens; and
+&emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens; and
 
 &emsp;&emsp;&emsp;&emsp;(III) geographically by county or parish; and
 
@@ -96,7 +96,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
 
-&emsp;(5) <sup>2</sup> The term "farm product" means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle,hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
+&emsp;(5) <sup>2</sup> The term "farm product" means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
 
 &emsp;(6) The term "knows" or "knowledge" means actual knowledge.
 
@@ -114,7 +114,7 @@ For the purposes of this section—
 
 #### (d) Purchases free of security interest
 
-Except as provided in subsection (e) of this section and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
+Except as provided in subsection (e) and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
 
 #### (e) Purchases subject to security interest
 
@@ -164,7 +164,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 (2) A commission merchant or selling agent who sells a farm product for others shall be subject to a security interest created by the seller in such farm product if—
 
-&emsp;(A) within 1 year before the sale of such farm product the commission merchant or sellingagent has received from the secured party or the seller written notice of the security interest; organized according to farm products, that—
+&emsp;(A) within 1 year before the sale of such farm product the commission merchant or selling agent has received from the secured party or the seller written notice of the security interest; organized according to farm products, that—
 
 &emsp;&emsp;(i) is an original or reproduced copy thereof;
 
@@ -194,7 +194,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;(D) in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent—
 
-&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
+&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
 
 &emsp;&emsp;(ii) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 

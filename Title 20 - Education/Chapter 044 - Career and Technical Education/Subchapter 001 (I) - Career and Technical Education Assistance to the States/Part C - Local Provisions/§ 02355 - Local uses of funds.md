@@ -134,7 +134,11 @@ Funds made available to an eligible recipient under this subchapter may be used�
 
 Each eligible recipient receiving funds under this part shall not use more than 5 percent of the funds for administrative costs associated with the administration of activities assisted under this section.
 
-(Pub. L. 88–210, title I, §135, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 734.)
+(Pub. L. 88–210, title I, §135, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 734; amended Pub. L. 113–128, title V, §512(e)(6), July 22, 2014, 128 Stat. 1707.)
+
+#### Amendment of Subsection (c)(16)
+
+<i>Pub. L. 113–128, title V, §§506, 512(e)(6), July 22, 2014, 128 Stat. 1703, 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(16) of this section is amended by striking "such as through referral to the system established under section 2841 of title 29" and inserting "such as through referral to the system established under section 3151 of title 29". See 2014 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -147,4 +151,12 @@ Section 2361, Pub. L. 88–210, title III, §311, as added Pub. L. 98–524, §1
 Section 2362, Pub. L. 88–210, title III, §312, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 99–159, title VII, §706(c), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, §303, Sept. 25, 1990, 104 Stat. 786, related to use of funds from consumer and homemaking education grants.
 
 Section 2363, Pub. L. 88–210, title III, §313, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 99–159, title VII, §707, Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, §304, Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(16). Pub. L. 113–128 substituted "such as through referral to the system established under section 3151 of title 29" for "such as through referral to the system established under section 2841 of title 29".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) the Chaplains;
 
-> in general officers on the active-duty list of the Regular Army is 5/1,000 of the authorized strength of the branch concerned in commissioned officers on the active-duty list of the Regular Army. Not more than one-half of the authorized strength in general officers in such a branch may be in a regular grade above brigadier general.
+> in general officers on the active-duty list of the Regular Army is 5/1,000 of the authorized strength of the branch concerned in commissioned officers on the active-duty list of the Regular Army. Not more than one-half of the authorized strength in general officers in such abranch may be in a regular grade above brigadier general.
 
 (c) When the application of the percentages and ratios specified in this section results in a fraction, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
@@ -148,7 +148,7 @@ Pub. L. 97–22, which directed amendment of subsec. (a) by striking out ", exc
 
 Subsec. (b). Pub. L. 96–513, §502(5)(A), (C), substituted "active-duty list" for "active list" wherever appearing and substituted paragraphed references to "(1) each corps of the Army Medical Department" and "(2) the Chaplains" for former paragraphed references to "(1) The Medical Corps", "(2) the Dental Corps", "(3) the Veterinary Corps", and "(4) the Chaplains".
 
-Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under the United States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
+Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which provided that general officers on theactive list of the Regular Army who were specifically authorized by law to hold a civil office under the United States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–329 substituted "Army Medical Department" for "Army Medical Service" in two places.
 

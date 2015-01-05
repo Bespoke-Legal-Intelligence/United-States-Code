@@ -26,7 +26,7 @@ A prior section 5.16 of Pub. L. 92–181 was renumbered section 5.15 and is clas
 
 Pub. L. 100–233 transferred undesignated provisions following par. (4) consisting of four sentences relating to advances of funds for purposes set out in this section as in the sole judgment of the Board may from time to time be advisable for purposes of this section, to a position immediately before last sentence of this section which provides for agency status of Administration for the banks.
 
-<b>1985</b>—Pub. L. 99–205, §201(6)(A)–(C), made technical amendments to the references to sections 2249 and 2250 of this title in first and third sentences to reflect therenumbering of the corresponding sections of the original act, and struck out "Federal Farm Credit" before "Board" in par. (2) of first sentence.
+<b>1985</b>—Pub. L. 99–205, §201(6)(A)–(C), made technical amendments to the references to sections 2249 and 2250 of this title in first and third sentences to reflect the renumbering of the corresponding sections of the original act, and struck out "Federal Farm Credit" before "Board" in par. (2) of first sentence.
 
 <b>1980</b>—Pub. L. 96–592 added par. (5) and provisions respecting agency status of Administration for the banks.
 

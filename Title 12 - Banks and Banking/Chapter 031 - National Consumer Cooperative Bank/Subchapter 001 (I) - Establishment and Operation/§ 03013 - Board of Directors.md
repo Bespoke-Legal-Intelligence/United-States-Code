@@ -32,7 +32,7 @@ The Bank shall be governed by a Board of Directors (hereinafter in this chapter 
 
 #### (d) Elections; nominations by cooperative classes; vacancies filled; representation requirements
 
-(1) All elections of members of the Board by the holders of class B stock and class C stock shall be conducted in accordance with the bylaws of the Bank. Such bylaws shall conform to the requirements of this section. Nominations for such elections shall be made by the following classes of cooperatives: (A) housing, (B) consumer goods, (C) low-income cooperatives, (D) consumer services, and (E) all other eligible cooperatives.
+(1) All elections of members of the Board by the holders of class B stock and class C stockshall be conducted in accordance with the bylaws of the Bank. Such bylaws shall conform to the requirements of this section. Nominations for such elections shall be made by the following classes of cooperatives: (A) housing, (B) consumer goods, (C) low-income cooperatives, (D) consumer services, and (E) all other eligible cooperatives.
 
 (2)(A) Vacant shareholder directorships shall be filled so that at any time when there are three or more shareholder directors on the Board, there shall be at least one director representing each of the following classes of cooperatives: (i) housing cooperatives, (ii) low-income cooperatives, and (iii) consumer goods and services cooperatives.
 
@@ -50,7 +50,7 @@ The Board shall annually elect from among its members a chairman and vice chairm
 
 #### (g) Conduct of meetings; rules governing
 
-The Board shall meet at least quarterly. Its meeting shall be open to members or representatives of all eligible cooperatives and other eligible organizations, as observers only, and to persons or representatives of groups who identify their interest in the Bank and who are invited to attend a meeting, subject to such rules as the Board may establish for the conduct of such meetings. Those rules shall include the manner of giving notice of meetings, the procedure for the conduct of meetings, the manner of submitting topics for the agenda, the allocation of time of presentations, and debate. The chairman, when sustained by the majority of the Board present, may adjourn the open meeting into an executive session on motion of the chairman, any Board member, or at the request of any applicant, borrower, officer, or employee when the matter under discussion involves an application, a loan, a personnel action, or other matterwhich might tend to impinge on the right of privacy of any person.
+The Board shall meet at least quarterly. Its meeting shall be open to members or representatives of all eligible cooperatives and other eligible organizations, as observers only, and to persons or representatives of groups who identify their interest in the Bank and who are invited to attend a meeting, subject to such rules as the Board may establish for the conduct of such meetings. Those rules shall include the manner of giving notice of meetings, the procedure for the conduct of meetings, the manner of submitting topics for the agenda, the allocation of time of presentations, and debate. The chairman, when sustained by the majority of the Board present, may adjourn the open meeting into an executive session on motion of the chairman, any Board member, or at the request of any applicant, borrower, officer, or employee when the matter under discussion involves an application, a loan, a personnel action, or other matter which might tend to impinge on the right of privacy of any person.
 
 #### (h) Compensation and expenses
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 97–35, §393(a), substituted provisions relating to resig
 
 Subsec. (d). Pub. L. 97–35, §393(a), substituted provisions relating to nominations by cooperative classes, vacancies, and representational requirements for elections, for provisions relating to rules governing election of successors to resigned Presidential appointees and successors to shareholder directors.
 
-Subsec. (h). Pub. L. 97–35, §393(b), inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity Redemption Date, and members elected by holders of class B and C stock.
+Subsec. (h). Pub. L. 97–35, §393(b), inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity RedemptionDate, and members elected by holders of class B and C stock.
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–149, §1(a), inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted "fifteen" for "thirteen", "eight" for "seven", and "this section" for "this section 104", which for purposes of codification had been editorially translated as "section 3014 of this title".
 

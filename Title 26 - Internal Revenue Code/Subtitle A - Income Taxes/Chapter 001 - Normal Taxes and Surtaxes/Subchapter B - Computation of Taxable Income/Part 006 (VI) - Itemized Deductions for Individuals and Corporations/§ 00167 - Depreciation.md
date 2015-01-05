@@ -136,7 +136,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in section 460(b)(7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
-> &emsp;For purposes of the preceding sentence, any cost incurred after the property is placed in service (which is not treated as a separate property under paragraph (5)) shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such cost is incurred) such cost to its value as of the date the property is placed in service. The taxpayer may elect with respect to any property to have the preceding sentence not apply to such property.
+> &emsp;For purposes of the preceding sentence, any cost incurred after the property is placed in service (which is not treated as a separate property under paragraph (5)) shall be takeninto account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such cost is incurred) such cost to its value as of the date the property is placed in service. The taxpayer may elect with respect to any property to have the preceding sentence not apply to such property.
 
 #### (3) Exception from look-back method
 
@@ -212,13 +212,13 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (C) Special rules relating to recomputation years
 
-&emsp;&emsp;If the adjusted basis of any property is determined under this paragraph, paragraph (4) shall be applied by substituting "for each taxable year in such period" for "for such period".
+&emsp;&emsp;If the adjusted basis of any property is determined under this paragraph, paragraph (4)shall be applied by substituting "for each taxable year in such period" for "for such period".
 
 #### (D) Other special rules
 
 #### (i) Participations and residuals
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), the taxpayer may exclude participations andresiduals from the adjusted basis of such property and deduct such participations and residuals in the taxable year that such participations and residuals are paid.
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), the taxpayer may exclude participations and residuals from the adjusted basis of such property and deduct such participations and residuals in the taxable year that such participations and residuals are paid.
 
 #### (ii) Coordination with other rules
 
@@ -308,7 +308,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;&emsp;&emsp;(II) without regard to whether subsection (c) of section 613A does not apply by reason of paragraph (2) of section 613A(d).
 
-> &emsp;&emsp;For purposes of clauses (i) and (ii), all persons treated as a single employer under subsections (a) and (b) of section 52 shall betreated as 1 person and, in case of a short taxable year, the rule under section 448(c)(3)(B) shall apply.
+> &emsp;&emsp;For purposes of clauses (i) and (ii), all persons treated as a single employer under subsections (a) and (b) of section 52 shall be treated as 1 person and, in case of a short taxable year, the rule under section 448(c)(3)(B) shall apply.
 
 #### (i) Cross references
 
@@ -372,7 +372,7 @@ Subsec. (c). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (g) as (c) a
 
 > Paragraphs (2), (3), and (4) of subsection (b) shall not apply to any motion picture film, video tape, or sound recording."
 
-Subsec. (d). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (h) as (d) and struck out former subsec. (d) "Agreement as to useful life on which depreciation rate is based" which read as follows: "Where, under regulations prescribed by the Secretary, the taxpayer and the Secretary have, after August 16, 1954, entered into anagreement in writing specifically dealing with the useful life and rate of depreciation of any property, the rate so agreed upon shall be binding on both the taxpayer and the Secretary in the absence of facts or circumstances not taken into consideration in the adoption of such agreement. The responsibility of establishing the existence of such facts and circumstances shall rest with the party initiating the modification. Any change in the agreed rate and useful life specified in the agreement shall not be effective for taxable years before the taxable year in which notice in writing by certified mail or registered mail is served by the party to the agreement initiating such change. This subsection shall not apply with respect to property to which section 168 applies."
+Subsec. (d). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (h) as (d) and struck out former subsec. (d) "Agreement as to useful life on which depreciation rate is based" which read as follows: "Where, under regulations prescribed by the Secretary, the taxpayer and the Secretary have, after August 16, 1954, entered into an agreement in writing specifically dealing with the useful life and rate of depreciation of any property, the rate so agreed upon shall be binding on both the taxpayer and the Secretary in the absence of facts or circumstances not taken into consideration in the adoption of such agreement. The responsibility of establishing the existence of such facts and circumstances shall rest with the party initiating the modification. Any change in the agreed rate and useful life specified in the agreement shall not be effective for taxable years before the taxable year in which notice in writing by certified mail or registered mail is served by the party to the agreement initiating such change. This subsection shall not apply with respect to property to which section 168 applies."
 
 Subsec. (e). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (r) as (e) and struck out former subsec. (e) which related to changes in method of depreciation from declining balance method and changes with respect to sections 1245 and 1250 property.
 
@@ -458,7 +458,7 @@ Subsec. (k)(1), (3)(D). Pub. L. 95–615 substituted "January 1, 1979" for "Janu
 
 Pub. L. 95–600, §367, substituted "January 1, 1982" for "January 1, 1979" wherever appearing.
 
-Subsec. (n). Pub. L. 95–600, §701(f)(4), in par. (1), substituted "occupied by a certified historic structure (or by any structure in a registered historic district) which is demolished or substantially altered after such date" for "occupied by a certified historic structure (as defined in section 191(d)(1)) which is demolished or substantially altered (other than by virtue of a certified rehabilitation as defined in section 191(d)(3) after such date", inserted "and" preceding subpar. (B), substituted "means" for "shall mean" in subpar. (B), and inserted provision that "The preceding sentence shall not apply if the last substantial alteration of the structure is a certified rehabilitation."; in par. (2), substituted heading "Exceptions" for "Exception", designated existing text as subpar. (A), and added subpar. (B); and added par. (3).
+Subsec. (n). Pub. L. 95–600, §701(f)(4), in par. (1), substituted "occupied by a certified historic structure (orby any structure in a registered historic district) which is demolished or substantially altered after such date" for "occupied by a certified historic structure (as defined in section 191(d)(1)) which is demolished or substantially altered (other than by virtue of a certified rehabilitation as defined in section 191(d)(3) after such date", inserted "and" preceding subpar. (B), substituted "means" for "shall mean" in subpar. (B), and inserted provision that "The preceding sentence shall not apply if the last substantial alteration of the structure is a certified rehabilitation."; in par. (2), substituted heading "Exceptions" for "Exception", designated existing text as subpar. (A), and added subpar. (B); and added par. (3).
 
 Subsec. (o). Pub. L. 95–600, §701(f)(6), inserted in par. (1) "(other than property with respect to which an amortization deduction has been allowed to the taxpayer under section 191)" after "substantially rehabilitated historic property" and substituted in par. (2) "section 191(d)(4)" for "section 191(d)(3)".
 
@@ -634,9 +634,9 @@ Pub. L. 95–600, title VII, §701(f)(8), Nov. 6, 1978, 92 Stat. 2903, as amende
 
 Amendment by Pub. L. 95–615 to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a Termination Date of 1978 Amendment note under section 61 of this title.
 
-Amendment by section 301(d)(3) of Pub. L. 95–618 applicable to property which is placed in service after Sept. 30, 1978, but not to property which is constructed, reconstructed, erected, or acquired pursuant to a contract which, on Oct. 1, 1978, and at all times thereafter, was binding on the taxpayer, see section 301(d)(4) of Pub. L. 95–618, set out as an Effective Date of 1978 Amendment note under section 48 of this title.
+Amendment by section 301(d)(3) of Pub. L. 95–618 applicable to property which is placed in service after Sept. 30, 1978, but not to property which is constructed, reconstructed, erected, or acquired pursuant to a contract which, on Oct. 1, 1978, and at all times thereafter,was binding on the taxpayer, see section 301(d)(4) of Pub. L. 95–618, set out as an Effective Date of 1978 Amendment note under section 48 of this title.
 
-Pub. L. 95–618, title III, §301(e)(2), Nov. 9, 1978, 92 Stat. 3201, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to taxableyears ending after the date of enactment of this Act \[Nov. 9, 1978\]."
+Pub. L. 95–618, title III, §301(e)(2), Nov. 9, 1978, 92 Stat. 3201, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years ending after the date of enactment of this Act \[Nov. 9, 1978\]."
 
 #### Effective Date of 1976 Amendment
 
@@ -706,7 +706,7 @@ Pub. L. 97–34, title II, §203(e), Aug. 13, 1981, 95 Stat. 222, as amended by 
 
 #### Class Life System; Application to Real Property; General Rule
 
-Pub. L. 93–625, §5(a), Jan. 3, 1975, 88 Stat. 2112, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of buildings and other items of section 1250 property (within the meaning of section 1250(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before the effective date of the class lives first prescribed by the Secretaryof the Treasury or his delegate under section 167(m) of such Code for the class in which such property falls, if an election under such section 167(m) applies to the taxpayer for the taxable year in which such property is placed in service, the taxpayer may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, elect to determine the useful life of such property—
+Pub. L. 93–625, §5(a), Jan. 3, 1975, 88 Stat. 2112, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of buildings and otheritems of section 1250 property (within the meaning of section 1250(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before the effective date of the class lives first prescribed by the Secretary of the Treasury or his delegate under section 167(m) of such Code for the class in which such property falls, if an election under such section 167(m) applies to the taxpayer for the taxable year in which such property is placed in service, the taxpayer may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, elect to determine the useful life of such property—
 
 &emsp;"(1) under Revenue Procedure 62–21 (as amended and supplemented) as in effect on December 31, 1970, or
 

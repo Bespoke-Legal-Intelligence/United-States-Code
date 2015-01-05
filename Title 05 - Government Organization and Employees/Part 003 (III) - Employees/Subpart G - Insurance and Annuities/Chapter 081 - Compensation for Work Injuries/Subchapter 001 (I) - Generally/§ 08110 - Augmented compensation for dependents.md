@@ -1,6 +1,6 @@
 ### §8110. Augmented compensation for dependents
 
-(a) For the purpose of this section, “dependent” means—
+(a) For the purpose of this section, "dependent" means—
 
 &emsp;(1) a wife, if—
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) the employee has been ordered by a court to contribute to his support;
 
-&emsp;(3) an unmarried child, while living with the employee or receiving regular contributionsfrom the employee toward his support, and who is—
+&emsp;(3) an unmarried child, while living with the employee or receiving regular contributions from the employee toward his support, and who is—
 
 &emsp;&emsp;(A) under 18 years of age; or
 
@@ -32,7 +32,7 @@
 
 &emsp;(1) at the rate of 81/3 percent of his monthly pay if that compensation is payable under section 8105 or 8107(a) of this title; and
 
-&emsp;(2) at the rate of 81/3 percent of the difference between his monthly pay and his monthly wage-earning capacity if that compensation is payable under section 8106(a) of this title.
+&emsp;(2) at the rate of 81/3 percent of the difference between his monthly pay and his monthlywage-earning capacity if that compensation is payable under section 8106(a) of this title.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 539; Pub. L. 90–83, §1(53), Sept. 11, 1967, 81 Stat. 210; Pub. L. 93–416, §6, Sept. 7, 1974, 88 Stat. 1145.)
 
@@ -62,7 +62,7 @@ May 13, 1936, ch. 382, 49 Stat. 1270.
 
 &nbsp;
 
-Oct. 14, 1949, ch. 691, §105 “Sec. 6(a)”, 63 Stat. 858.
+Oct. 14, 1949, ch. 691, §105 "Sec. 6(a)", 63 Stat. 858.
 
 The references in former section 756(a)(2) to definitions in former section 760(H) are omitted as unnecessary as the definitions are included in section 8101 for the entire subchapter.
 
@@ -90,11 +90,11 @@ July 4, 1966, Pub. L. 89–488, §7(b), 80 Stat. 254.
 
 July 4, 1966, Pub. L. 89–488 §§2(e), 3(a), 80 Stat. 252.
 
-In subsection (a), the words “Notwithstanding paragraph (3) of this subsection” are substituted for “Notwithstanding any other provision of this section” for clarity. The word “he” is substituted for “he or she” in two places on authority of 1 U.S.C. 1. The words “section 8101 of this title” are substituted for “section 10(M) of this Act” to reflect the codification of that section in title 5.
+In subsection (a), the words "Notwithstanding paragraph (3) of this subsection" are substituted for "Notwithstanding any other provision of this section" for clarity. The word "he" is substituted for "he or she" in two places on authority of 1 U.S.C. 1. The words "section 8101 of this title" are substituted for "section 10(M) of this Act" to reflect the codification of that section in title 5.
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a)(2). Pub. L. 93–416 substituted provisions of subpars. (A), (B) and (C) for “wholly dependent on the employee for support because of his own physical or mental disability”.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–416 substituted provisions of subpars. (A), (B) and (C) for "wholly dependent on the employee for support because of his own physical or mental disability".
 
 #### Effective Date of 1974 Amendment
 

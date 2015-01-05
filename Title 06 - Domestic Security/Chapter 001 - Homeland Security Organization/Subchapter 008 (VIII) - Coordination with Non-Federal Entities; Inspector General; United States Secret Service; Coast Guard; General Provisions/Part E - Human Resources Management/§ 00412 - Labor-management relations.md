@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) recognition as an appropriate unit has never been conferred for purposes of chapter 71 of such title 5; or
 
-&emsp;&emsp;(B) any such recognition has been revoked or otherwise terminated as a result of a determination under subsection (b)(1) of this section.
+&emsp;&emsp;(B) any such recognition has been revoked or otherwise terminated as a result of a determination under subsection (b)(1).
 
 #### (b) Provisions relating to bargaining units
 
@@ -40,7 +40,7 @@
 
 #### (c) Waiver
 
-If the President determines that the application of subsections (a), (b), and (d) of this section would have a substantial adverse impact on the ability of the Department to protect homeland security, the President may waive the application of such subsections 10 days after the President has submitted to Congress a written explanation of the reasons for such determination.
+If the President determines that the application of subsections (a), (b), and (d) would have a substantial adverse impact on the ability of the Department to protect homeland security, the President may waive the application of such subsections 10 days after the President has submitted to Congress a written explanation of the reasons for such determination.
 
 #### (d) Coordination rule
 
@@ -54,7 +54,7 @@ Nothing in section 9701(e) of title 5 shall be considered to apply with respect 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (b)(1), and (d), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 

@@ -2,11 +2,11 @@
 
 #### (a) Improper time or place; avoidance of examination or inspection; misrepresentation and concealment of facts
 
-Any alien who (1) enters or attempts to enter the United States at any time or place other than as designated by immigration officers, or\(2) eludes examination or inspection by immigration officers, or (3) attempts to enter or obtains entry to the United States by a willfully false or misleading representation or the willful concealment of a material fact, shall, for the first commission of any such offense, be fined under title 18 or imprisoned not more than 6 months, or both, and, for a subsequent commission of any such offense, be fined under title 18, or imprisoned not more than 2 years, or both.
+Any alien who (1) enters or attempts to enter the United States at any time or place other than as designated by immigration officers, or (2) eludes examination or inspection by immigration officers, or (3) attempts to enter or obtains entry to the United States by a willfully false or misleading representation or the willful concealment of a material fact, shall, for the first commission of any such offense, be fined under title 18 or imprisoned not more than 6 months, or both, and, for a subsequent commission of any such offense, be fined under title 18, or imprisoned not more than 2 years, or both.
 
 #### (b) Improper time or place; civil penalties
 
-Any alien who is apprehended while entering (or attempting to enter) the United States at a time or place other than as designated by immigration officers shall be subject to a civil penalty of—
+Any alien who is apprehended while entering (or attempting to enter) the United States at atime or place other than as designated by immigration officers shall be subject to a civil penalty of—
 
 &emsp;(1) at least $50 and not more than $250 for each such entry (or attempted entry); or
 
@@ -28,9 +28,9 @@ Any individual who knowingly establishes a commercial enterprise for the purpose
 
 <b>1996</b>—Subsecs. (b) to (d). Pub. L. 104–208 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–232 substituted “fined under title 18” for “fined not more than $2,000 (or, if greater, the amount provided under title 18)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232 substituted "fined under title 18" for "fined not more than $2,000 (or, if greater, the amount provided under title 18)".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–649, §543(b)(2), inserted “or attempts to enter” after “(1) enters” and “attempts to enter or” after “or (3)”, and substituted “shall, for the first commission of any such offense, be fined not more than $2,000 (or, if greater, the amount provided under title 18) or imprisoned not more than 6 months, or both, and, for a subsequent commission of any such offense, be fined under title 18, or imprisoned not more than 2 years” for “shall, for the first commission of any such offenses, be guilty of a misdemeanor and upon conviction thereof be punished by imprisonment for not more than six months, or by a fine of not more than $500, or by both, and for a subsequent commission of any such offenses shall be guilty of a felony and upon conviction thereof shall be punished by imprisonment for not more than two years, or by a fine of not more than $1,000”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §543(b)(2), inserted "or attempts to enter" after "(1) enters" and "attempts to enter or" after "or (3)", and substituted "shall, for the first commission of any such offense, be fined not more than $2,000 (or, if greater, the amount provided under title 18) or imprisoned not more than 6 months, or both, and, for a subsequent commission of any such offense, be fined under title 18, or imprisoned not more than 2 years" for "shall, for the first commission of any such offenses, be guilty of a misdemeanor and upon conviction thereof be punished by imprisonment for not more than six months, or by a fine of not more than $500, or by both, and for a subsequent commission of any such offenses shall be guilty of a felony and upon conviction thereof shall be punished by imprisonment for not more than two years, or by a fine of not more than $1,000".
 
 Subsec. (c). Pub. L. 101–649, §121(b)(3), added subsec. (c).
 
@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 101–649, §121(b)(3), added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title I, §105(b), Sept. 30, 1996, 110 Stat. 3009–556, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to illegal entries or attempts to enter occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title I, §105(b), Sept. 30, 1996, 110 Stat. 3009–556, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to illegal entries or attempts to enter occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 #### Effective Date of 1991 Amendment
 

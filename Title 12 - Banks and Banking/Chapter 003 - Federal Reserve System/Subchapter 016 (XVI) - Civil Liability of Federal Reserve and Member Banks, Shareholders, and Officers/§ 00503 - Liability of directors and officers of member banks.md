@@ -1,6 +1,6 @@
 ### §503. Liability of directors and officers of member banks
 
-If the directors or officers of any member bank shall knowingly violate or permit any of the agents, officers, or directors of any member bank to violate any of the provisions of sections 375, 375a, 375b, and 376 of this title or regulations of the board made under authority thereof, or any of the provisions of sections 217, 218, 219,220,<sup>1</sup> 655, 1005, 1014, 1906, or 1909 of title 18, every director and officer participating in or assenting to such violation shall be held liable in his personal and individual capacity for all damages which the member bank, its shareholders, or any other persons shall have sustained in consequence of such violation.
+If the directors or officers of any member bank shall knowingly violate or permit any of the agents, officers, or directors of any member bank to violate any of the provisions of sections 375, 375a, 375b, and 376 of this title or regulations of the board made under authority thereof, or any of the provisions of sections 217, 218, 219, 220,<sup>1</sup> 655, 1005, 1014, 1906, or 1909 of title 18, every director and officer participating in or assenting to such violation shall be held liable in his personal and individual capacity for all damages which the member bank, its shareholders, or any other persons shall have sustained in consequence of such violation.
 
 (Dec. 23, 1913, ch. 6, §22(f), as added Sept. 26, 1918, ch. 177, §5, 40 Stat. 971; amended Sept. 3, 1954, ch. 1263, §28, 68 Stat. 1236.)
 

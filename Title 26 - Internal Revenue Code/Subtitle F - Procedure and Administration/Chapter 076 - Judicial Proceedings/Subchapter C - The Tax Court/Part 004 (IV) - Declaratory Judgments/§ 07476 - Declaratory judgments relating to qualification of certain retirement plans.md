@@ -18,7 +18,7 @@ In a case of actual controversy involving—
 
 #### (1) Petitioner
 
-&emsp;A pleading may be filed under this section only by a petitioner who is the employer, the plan administrator, an employee who has qualified under regulations prescribed by the Secretary as an interested party for purposes of pursuing administrative remedies within the Internal Revenue Service, or the Pension Benefit Guaranty Corporation.
+&emsp;A pleading may be filed under this section only by a petitioner who is the employer, the plan administrator, an employee who hasqualified under regulations prescribed by the Secretary as an interested party for purposes of pursuing administrative remedies within the Internal Revenue Service, or the Pension Benefit Guaranty Corporation.
 
 #### (2) Notice
 
@@ -26,7 +26,7 @@ In a case of actual controversy involving—
 
 #### (3) Exhaustion of administrative remedies
 
-&emsp;The Tax Court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted administrative remedies available to him within the Internal RevenueService. A petitioner shall not be deemed to have exhausted his administrative remedies with respect to a failure by the Secretary to make a determination with respect to initial qualification or continuing qualification of a retirement plan before the expiration of 270 days after the request for such determination was made.
+&emsp;The Tax Court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted administrative remedies available to him within the Internal Revenue Service. A petitioner shall not be deemed to have exhausted his administrative remedies with respect to a failure by the Secretary to make a determination with respect to initial qualification or continuing qualification of a retirement plan before the expiration of 270 days after the request for such determination was made.
 
 #### (4) Plan put into effect
 

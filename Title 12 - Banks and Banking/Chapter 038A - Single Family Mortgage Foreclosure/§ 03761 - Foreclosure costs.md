@@ -20,7 +20,7 @@ The following foreclosure costs shall be paid from the sale proceeds before sati
 
 #### (5) Commission
 
-&emsp;A commission for the foreclosure commissioner (if the foreclosure commissioner is not an employee of the United States) for the conduct of the foreclosure, to the extent such a commission is authorized by the Secretary.
+&emsp;A commission for the foreclosure commissioner (if the foreclosure commissioner is notan employee of the United States) for the conduct of the foreclosure, to the extent such a commission is authorized by the Secretary.
 
 (Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 

@@ -48,7 +48,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (D) Option to claim in-kind expenditures from third-party sources for non-Federal share of administrative and training costs during initial implementation period
 
-&emsp;&emsp;Only for fiscal year quarters beginning after September 30, 2009, and before October 1, 2014, a list of the in-kind expenditures (which shall be fairly evaluated, and may include plants, equipment, administration, or services) and the third-party sources of such expenditures that the tribe, organization, or consortium may claim as part of the non-Federal share of administrative or training expenditures attributable to such quarters for purposes of receiving payments under section 674(a)(3) of this title. The Secretary shall permit a tribe, organization, or consortium to claim in-kind expenditures from third party sources for such purposes during such quarters subject to the following:
+&emsp;&emsp;Only for fiscal year quarters beginning after September 30, 2009, and before October1, 2014, a list of the in-kind expenditures (which shall be fairly evaluated, and may include plants, equipment, administration, or services) and the third-party sources of such expenditures that the tribe, organization, or consortium may claim as part of the non-Federal share of administrative or training expenditures attributable to such quarters for purposes of receiving payments under section 674(a)(3) of this title. The Secretary shall permit a tribe, organization, or consortium to claim in-kind expenditures from third party sources for such purposes during such quarters subject to the following:
 
 #### (i) No effect on authority for tribes, organizations, or consortia to claim expenditures or indirect costs to the same extent as States
 
@@ -86,7 +86,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (II) Transition period for early approved tribes, organizations, or consortia
 
-&emsp;&emsp;&emsp;&emsp;Subject to clause (v), if the tribe, organization, or consortium is an early approved tribe, organization, or consortium (as defined in subclause (III) of this clause), the Secretary shall not require the tribe, organization, or consortium to comply with such regulations before October 1, 2013. Until the earlier of the date such tribe, organization, or consortium comes into compliance with such regulations or October 1, 2013, the limitations on the claiming of in-kind expenditures from third-party sources under clause (ii) shall continue to apply to such tribe, organization, or consortium (without regard to fiscal limitation) for purposes of determining the non-Federal share of amounts expended by the tribe, organization, or consortium during any fiscalyear quarter that begins after September 30, 2011, and before such date of compliance or October 1, 2013, whichever is earlier.
+&emsp;&emsp;&emsp;&emsp;Subject to clause (v), if the tribe, organization, or consortium is an early approved tribe, organization, or consortium (as defined in subclause (III) of this clause), the Secretary shall not require the tribe, organization, or consortium to comply with such regulations before October 1, 2013. Until the earlier of the date such tribe, organization, or consortium comes into compliance with such regulations or October 1, 2013, the limitations on the claiming of in-kind expenditures from third-party sources under clause (ii) shall continue to apply to such tribe, organization, or consortium (without regard to fiscal limitation) for purposes of determining the non-Federal share of amounts expended by the tribe, organization, or consortium during any fiscal year quarter that begins after September 30, 2011, and before such date of compliance or October 1, 2013, whichever is earlier.
 
 #### (III) Definition of early approved tribe, organization, or consortium
 
@@ -94,7 +94,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (iv) Fiscal year 2015 and thereafter
 
-&emsp;&emsp;&emsp;Subject to clause (v) of this subparagraph, with respect to amounts expended during any fiscal year quarter beginning after September 30, 2014, for which the tribe, organization, or consortium is eligible for payments under any subparagraph of section 674(a)(3) of this title, in-kind expenditures from third-party sources may be claimed for purposes of determining the non-Federal share of expenditures under any subparagraph of such section 674(a)(3) only in accordance with the regulations promulgated by the Secretary under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008.
+&emsp;&emsp;&emsp;Subject to clause (v) of this subparagraph, with respect to amounts expended during any fiscal year quarter beginningafter September 30, 2014, for which the tribe, organization, or consortium is eligible for payments under any subparagraph of section 674(a)(3) of this title, in-kind expenditures from third-party sources may be claimed for purposes of determining the non-Federal share of expenditures under any subparagraph of such section 674(a)(3) only in accordance with the regulations promulgated by the Secretary under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008.
 
 #### (v) Contingency rule
 
@@ -132,13 +132,13 @@ Except as provided in section 677(j) of this title, subsection (b) of this secti
 
 #### (g) Rule of construction
 
-Nothing in this section shall be construed as affecting the application of section 672(h) of thistitle to a child on whose behalf payments are paid under section 672 of this title, or the application of section 673(b) of this title to a child on whose behalf payments are made under section 673 of this title pursuant to an adoption assistance agreement or a kinship guardianship assistance agreement, by an Indian tribe, tribal organization, or tribal consortium that elects to operate a foster care and adoption assistance program in accordance with this section.
+Nothing in this section shall be construed as affecting the application of section 672(h) of this title to a child on whose behalf payments are paid under section 672 of this title, or the application of section 673(b) of this title to a child on whose behalf payments are made under section 673 of this title pursuant to an adoption assistance agreement or a kinship guardianship assistance agreement, by an Indian tribe, tribal organization, or tribal consortium that elects to operate a foster care and adoption assistance program in accordance with this section.
 
 (Aug. 14, 1935, ch. 531, title IV, §479B, as added Pub. L. 110–351, title III, §301(a)(1), Oct. 7, 2008, 122 Stat. 3962.)
 
 #### References in Text
 
-Section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008, referred to in subsec. (c)(1)(D)(iii)(I), (iv), (v), is section 301(e)(2) of Pub. L. 110–351, which is set out as a note under section 671 of this title.
+Section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008, referred to insubsec. (c)(1)(D)(iii)(I), (iv), (v), is section 301(e)(2) of Pub. L. 110–351, which is set out as a note under section 671 of this title.
 
 #### Effective Date
 

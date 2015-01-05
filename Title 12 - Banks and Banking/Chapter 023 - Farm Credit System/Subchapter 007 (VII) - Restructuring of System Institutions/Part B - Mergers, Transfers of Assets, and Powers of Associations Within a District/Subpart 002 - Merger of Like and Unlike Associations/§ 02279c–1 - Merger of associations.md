@@ -46,7 +46,7 @@ Subsec. (c)(2). Pub. L. 100–399, §408(l), substituted "Capitalization" for "P
 
 Subsec. (c)(3). Pub. L. 100–399, §408(l), struck out par. (3) which read as follows: "Voting stock of a merged association shall be issued to and held by farmers, ranchers, or producers or harvesters of aquatic products who are or were, immediately prior to the merger, direct borrowers from one of the associations forming the merged association or the supervising bank of such merged association."
 
-Subsec. (d). Pub. L. 100–399, §408(l), struck out subsec. (d) which read as follows: "The plan of merger shallprovide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of section 2154a of this title."
+Subsec. (d). Pub. L. 100–399, §408(l), struck out subsec. (d) which read as follows: "The plan of merger shall provide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of section 2154a of this title."
 
 #### Effective Date of 1988 Amendment
 

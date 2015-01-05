@@ -30,7 +30,7 @@
 
 &emsp;(7)(A) if such person is enrolled in an educational institution regularly operated on the quarter or semester system and such period ends during a quarter or semester, such period shall be extended to the end of the quarter or semester; or
 
-&emsp;(B) if such person is enrolled in an educational institution operated on other than a quarter or semester system and such period ends after a major portion of the course is completed, such period shall be extended tothe end of the course, or until 12 weeks have expired, whichever first occurs; and
+&emsp;(B) if such person is enrolled in an educational institution operated on other than a quarter or semester system and such period ends after a major portion of the course is completed, such period shall be extended to the end of the course, or until 12 weeks have expired, whichever first occurs; and
 
 &emsp;(8) if the person is pursuing a preparatory course described in section 3002(3)(B) of this title, such period may begin on the date that is the first day of such course pursuit, notwithstanding that such date may be before the person's eighteenth birthday, except that in no case may such person be afforded educational assistance under this chapter for pursuit of secondary schooling unless such course pursuit would otherwise be authorized under this subsection.
 
@@ -78,7 +78,7 @@
 
 \[(g) Repealed. Pub. L. 107–103, title I, §108(b)(2), Dec. 27, 2001, 115 Stat. 985.\]
 
-(h) Notwithstanding any other provision of this section, if an eligible person, during the delimiting period otherwise applicable to such person under this section, serves on active duty pursuant to an order to active duty issued under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, or is involuntarily ordered to full-time National Guard duty under section 502(f) of title 32, such person shall be granted an extension of such delimiting period for the length of time equal to the period of such active duty plus four months.
+(h) Notwithstanding any other provision of this section, if an eligible person, during the delimiting period otherwise applicable to such person under this section, serves on active duty pursuant to an order to active duty issued undersection 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, or is involuntarily ordered to full-time National Guard duty under section 502(f) of title 32, such person shall be granted an extension of such delimiting period for the length of time equal to the period of such active duty plus four months.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1712; Pub. L. 87–815, §2(a), Oct. 15, 1962, 76 Stat. 926; Pub. L. 87–819, §2, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–361, §3, July 7, 1964, 78 Stat. 297; Pub. L. 90–77, title III, §307(a), Aug. 31, 1967, 81 Stat. 189; Pub. L. 90–631, §2(e), Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–219, title II, §208, Mar. 26, 1970, 84 Stat. 83; Pub. L. 91–584, §3, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title IV, §402(1), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 93–337, §2, July 10, 1974, 88 Stat. 292; Pub. L. 94–502, title III, §§304, 310(7)–(9), Oct. 15, 1976, 90 Stat. 2390, 2391; Pub. L. 95–202, title II, §203(a)(2), (b)(2), Nov. 23, 1977, 91 Stat. 1439, 1440; Pub. L. 96–466, title III, §§321, 322, Oct. 17, 1980, 94 Stat. 2195; Pub. L. 97–66, title VI, §605(a), Oct. 17, 1981, 95 Stat. 1036; Pub. L. 97–295, §4(44), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 98–160, title VII, §702(13), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title III, §313, Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3512 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–419, title I, §§112, 114(b), Nov. 1, 2000, 114 Stat. 1831, 1833; Pub. L. 107–14, §§7(f)(1), 8(a)(6), June 5, 2001, 115 Stat. 33, 34; Pub. L. 107–103, title I, §§103(b), 108(b)(2), (c)(2), (3), Dec. 27, 2001, 115 Stat. 979, 985; Pub. L. 107–330, title III, §308(e)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–183, title III, §§303(a), 306(f)(2), Dec. 16, 2003, 117 Stat. 2659, 2661; Pub. L. 108–454, title I, §105, Dec. 10, 2004, 118 Stat. 3602; Pub. L. 109–444, §3(b)(3), Dec. 21, 2006, 120 Stat. 3306; Pub. L. 109–461, title III, §301(b)(3), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3426, 3468; Pub. L. 110–389, title III, §321, Oct. 10, 2008, 122 Stat. 4168; Pub. L. 111–275, title X, §1001(h), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title II, §201(c), Jan. 4, 2011, 124 Stat. 4124.)
 
@@ -106,7 +106,7 @@ Pub. L. 109–444, §3(b)(3)(A)(ii), which substituted "a parent being listed in
 
 Subsec. (b)(1)(A). Pub. L. 109–461, §301(b)(3)(B)(i), inserted "or a person made eligible by the disability of a spouse under section 3501(a)(1)(E) of this title" after "section 3501(a)(1) of this title" and substituted "3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title" for "or 3501(a)(1)(D)(ii) of this title".
 
-Pub. L. 109–444, §3(b)(3)(B)(i), which inserted "or a person made eligible by the disability of a spouse under section 3501(a)(1)(E) of this title" after "section3501(a)(1) of this title" and substituted "3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title" for "or 3501(a)(1)(D)(ii) of this title", was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+Pub. L. 109–444, §3(b)(3)(B)(i), which inserted "or a person made eligible by the disability of a spouse under section 3501(a)(1)(E) of this title" after "section 3501(a)(1) of this title" and substituted "3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title" for "or 3501(a)(1)(D)(ii) of this title", was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 109–461, §301(b)(3)(B)(ii), added cl. (iii).
 
@@ -120,7 +120,7 @@ Subsec. (d). Pub. L. 109–461, §301(b)(3)(C), substituted "person from whom el
 
 Pub. L. 109–444, §3(b)(3)(C), which substituted "person from whom eligibility" for "veteran from whom eligibility", was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-Subsec. (e). Pub. L. 109–461, §301(b)(3)(D), inserted "based on a spouse being listed in one of the categories referred to in section 3501(a)(1)(C) of this title" after "of this title" and "so" after "the spouse was" and struck out "by the Secretary concerned in one of the categories referred to in such section or December 24, 1970, whichever last occurs" before period at end.
+Subsec. (e). Pub. L. 109–461, §301(b)(3)(D), inserted "based on a spouse being listed in one of the categories referred to in section 3501(a)(1)(C) of this title" after "of this title" and "so" after "the spouse was" and struck out "by the Secretary concerned in one of thecategories referred to in such section or December 24, 1970, whichever last occurs" before period at end.
 
 Pub. L. 109–444, §3(b)(3)(D), which inserted "based on a spouse being listed in one of the categories referred to in section 3501(a)(1)(C) of this title" after "of this title" and "so" after "the spouse was" and struck out "by the Secretary concerned in one of the categories referred to in such section or December 24, 1970, whichever last occurs" before period at end, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
@@ -264,7 +264,7 @@ Amendment by section 103(b) of Pub. L. 107–103 effective Sept. 11, 2001, see s
 
 Amendment by section 108(c)(2), (3) of Pub. L. 107–103 applicable with respect to any determination, whether administrative or judicial, of the eligibility of a spouse or surviving spouse for educational assistance under this chapter made on or after Dec. 27, 2001, whether pursuant to an original claim for such assistance or pursuant to a reapplication or attempt to reopen or readjudicate a claim for such assistance, see section 108(c)(4) of Pub. L. 107–103, set out as a note under section 3511 of this title.
 
-Pub. L. 107–14, §7(f)(2), June 5, 2001, 115 Stat. 34, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on November 1, 2000, immediately after the enactmentof the Veterans Benefits and Health Care Improvement Act of 2000 \[Public Law 106–419\]."
+Pub. L. 107–14, §7(f)(2), June 5, 2001, 115 Stat. 34, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on November 1, 2000, immediately after the enactment of the Veterans Benefits and Health Care Improvement Act of 2000 \[Public Law 106–419\]."
 
 #### Effective Date of 1981 Amendment
 

@@ -32,7 +32,7 @@ In general.—If the Under Secretary denies an application submitted by an airpo
 
 &emsp;&emsp;(B)
 
-Submission to congress.—The Under Secretary shall submit to the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a copy of any report provided to an airport operator under subparagraph (A).
+Submission to congress.—The Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a copy of any report provided to an airport operator under subparagraph (A).
 
 (c)
 

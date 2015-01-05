@@ -2,8 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [501\.](%C2%A7%2000501%20-%20Government%20printing%2C%20binding%2C%20and%20blank-book%20work%20to%20be%20done%20at%20Government%20Printing%20Office.md) | Government printing, binding, and blank-book work to be done at Government Printing Office. |
-| [502\.](%C2%A7%2000502%20-%20Procurement%20of%20printing%2C%20binding%2C%20and%20blank-book%20work%20by%20Public%20Printer.md) | Procurement of printing, binding, and blank-book work by Public Printer. |
+| [501\.](%C2%A7%2000501%20-%20Government%20printing%2C%20binding%2C%20and%20blank-book%20work%20to%20be%20done%20at%20Government%20Publishing%20Office.md) | Government printing, binding, and blank-book work to be done at Government Publishing Office. |
+| [502\.](%C2%A7%2000502%20-%20Procurement%20of%20printing%2C%20binding%2C%20and%20blank-book%20work%20by%20Director%20of%20the%20Government%20Publishing%20Office.md) | Procurement of printing, binding, and blank-book work by Director of the Government Publishing Office. |
 | [503\.](%C2%A7%2000503%20-%20Printing%20in%20veterans%27%20hospitals.md) | Printing in veterans' hospitals. |
 | [504\.](%C2%A7%2000504%20-%20Direct%20purchase%20of%20printing%2C%20binding%2C%20and%20blank-book%20work%20by%20Government%20agencies.md) | Direct purchase of printing, binding, and blank-book work by Government agencies. |
 | [505\.](%C2%A7%2000505%20-%20Sale%20of%20duplicate%20plates.md) | Sale of duplicate plates. |
@@ -24,7 +24,13 @@
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 502.
+
 <b>1976</b>—Pub. L. 94–553, §105(a)(2), Oct. 19, 1976, 90 Stat. 2599, struck out "; copyright" after "plates" in item 505.
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in item 501 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 
@@ -35,8 +41,8 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00501 - Government printing, binding, and blank-book work to be done at Government Printing Office](%C2%A7%2000501%20-%20Government%20printing%2C%20binding%2C%20and%20blank-book%20work%20to%20be%20done%20at%20Government%20Printing%20Office.md)
-- [&sect; 00502 - Procurement of printing, binding, and blank-book work by Public Printer](%C2%A7%2000502%20-%20Procurement%20of%20printing%2C%20binding%2C%20and%20blank-book%20work%20by%20Public%20Printer.md)
+- [&sect; 00501 - Government printing, binding, and blank-book work to be done at Government Publishing Office](%C2%A7%2000501%20-%20Government%20printing%2C%20binding%2C%20and%20blank-book%20work%20to%20be%20done%20at%20Government%20Publishing%20Office.md)
+- [&sect; 00502 - Procurement of printing, binding, and blank-book work by Director of the Government Publishing Office](%C2%A7%2000502%20-%20Procurement%20of%20printing%2C%20binding%2C%20and%20blank-book%20work%20by%20Director%20of%20the%20Government%20Publishing%20Office.md)
 - [&sect; 00503 - Printing in veterans' hospitals](%C2%A7%2000503%20-%20Printing%20in%20veterans%27%20hospitals.md)
 - [&sect; 00504 - Direct purchase of printing, binding, and blank-book work by Government agencies](%C2%A7%2000504%20-%20Direct%20purchase%20of%20printing%2C%20binding%2C%20and%20blank-book%20work%20by%20Government%20agencies.md)
 - [&sect; 00505 - Sale of duplicate plates](%C2%A7%2000505%20-%20Sale%20of%20duplicate%20plates.md)

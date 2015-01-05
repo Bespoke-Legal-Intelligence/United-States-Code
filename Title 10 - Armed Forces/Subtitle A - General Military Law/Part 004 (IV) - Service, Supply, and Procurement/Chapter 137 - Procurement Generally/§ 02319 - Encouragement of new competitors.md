@@ -14,7 +14,7 @@
 
 &emsp;(5) if testing and evaluation services are provided under contract to the agency for the purposes of clause (4), provide to the extent possible that such services be provided by a contractor who is not expected to benefit from an absence of additional qualified sources and who shall be required in such contract to adhere to any restriction on technical data asserted by the potential offeror seeking qualification; and
 
-&emsp;(6) ensure that a potential offeror seeking qualification is promptly informed as to whether qualification is attained and, in the event qualification is not attained, is promptly furnished specific information why qualification was not attained.
+&emsp;(6) ensure that a potential offeror seeking qualification is promptly informed as towhether qualification is attained and, in the event qualification is not attained, is promptly furnished specific information why qualification was not attained.
 
 (c)(1) Subsection (b) of this section does not apply with respect to a qualification requirement established by statute or administrative action before October 19, 1984, unless such requirement is a qualified products list.
 

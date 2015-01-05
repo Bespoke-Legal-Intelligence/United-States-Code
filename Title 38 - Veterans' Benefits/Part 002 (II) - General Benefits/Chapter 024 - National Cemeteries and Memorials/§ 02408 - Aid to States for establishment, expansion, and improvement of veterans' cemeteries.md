@@ -20,7 +20,7 @@
 
 &emsp;(3) If a State that has received such a grant to establish, expand, or improve a veterans' cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans' cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
 
-(c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans' cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relatingto site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
+(c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans' cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 
 (2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) The term "trust land" has the meaning given that term in section 3765(1) of this title.
 
-(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, §403, Dec. 22, 2006, 120 Stat. 3430; Pub. L. 110–157, title II, §202(b)(1)–(3), Dec. 26, 2007, 121 Stat. 1832, 1833.)
+(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223,title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, §403, Dec. 22, 2006, 120 Stat. 3430; Pub. L. 110–157, title II, §202(b)(1)–(3), Dec. 26, 2007, 121 Stat. 1832, 1833.)
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Subsec. (c)(1). Pub. L. 105–368, §403(c)(8), substituted "under the control o
 
 Subsec. (d)(1). Pub. L. 105–368, §1005(b)(5), substituted "November 21, 1997," for "the date of the enactment of this subsection" and "subject to the condition specified in" for "on the condition described in".
 
-Subsec. (e). Pub. L. 105–368, §401(b), substituted "shall remain available until expended" for "shall remainavailable until the end of the second fiscal year following the fiscal year for which they are appropriated" in first sentence.
+Subsec. (e). Pub. L. 105–368, §401(b), substituted "shall remain available until expended" for "shall remain available until the end of the second fiscal year following the fiscal year for which they are appropriated" in first sentence.
 
 <b>1997</b>—Subsecs. (d), (e). Pub. L. 105–116 added subsec. (d) and redesignated former subsec. (d) as (e).
 

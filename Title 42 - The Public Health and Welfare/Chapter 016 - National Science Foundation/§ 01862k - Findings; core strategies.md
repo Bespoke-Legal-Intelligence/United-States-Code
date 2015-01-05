@@ -26,13 +26,13 @@ Congress finds the following:
 
 #### (b) Core strategies
 
-In carrying out activities designed to achieve the goals described in subsection (a) of this section, the Foundation shall use the following core strategies:
+In carrying out activities designed to achieve the goals described in subsection (a), the Foundation shall use the following core strategies:
 
 &emsp;(1) Develop intellectual capital, both people and ideas, with particular emphasis on groups and regions that traditionally have not participated fully in science, mathematics, and engineering.
 
 &emsp;(2) Strengthen the scientific infrastructure by investing in facilities planning and modernization, instrument acquisition, instrument design and development, and shared-use research platforms.
 
-&emsp;(3) Integrate research and education through activities that emphasize and strengthen thenatural connections between learning and inquiry.
+&emsp;(3) Integrate research and education through activities that emphasize and strengthen the natural connections between learning and inquiry.
 
 &emsp;(4) Promote partnerships with industry, elementary and secondary schools, community colleges, colleges and universities, other agencies, State and local governments, and other institutions involved in science, mathematics, and engineering to enhance the delivery of math and science education and improve the technological literacy of the citizens of the United States.
 
@@ -136,7 +136,7 @@ Contents of report.—The report prepared by the Director under this paragraph s
 
 #### Definitions
 
-Pub. L. 105–207, §2, July 29, 1998, 112 Stat. 869, as amended by Pub. L. 107–368, §14(b)(3), Dec. 19, 2002, 116Stat. 3057, provided that: "In this Act \[see Short Title of 1998 Amendment note set out under section 1861 of this title\]:
+Pub. L. 105–207, §2, July 29, 1998, 112 Stat. 869, as amended by Pub. L. 107–368, §14(b)(3), Dec. 19, 2002, 116 Stat. 3057, provided that: "In this Act \[see Short Title of 1998 Amendment note set out under section 1861 of this title\]:
 
 &emsp;"(1)
 

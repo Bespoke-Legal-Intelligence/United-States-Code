@@ -34,7 +34,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 &emsp;&emsp;(E) would carry out any forest restoration treatments that reduce hazardous fuels by—
 
-&emsp;&emsp;&emsp;(i) focusing on small diameter trees, thinning, strategic fuel breaks, and fire use to modify fire behavior, as measured by the projected reduction ofuncharacteristically severe wildfire effects for the forest type (such as adverse soil impacts, tree mortality or other impacts); and
+&emsp;&emsp;&emsp;(i) focusing on small diameter trees, thinning, strategic fuel breaks, and fire use to modify fire behavior, as measured by the projected reduction of uncharacteristically severe wildfire effects for the forest type (such as adverse soil impacts, tree mortality or other impacts); and
 
 &emsp;&emsp;&emsp;(ii) maximizing the retention of large trees, as appropriate for the forest type, to the extent that the trees promote fire-resilient stands; and
 
@@ -234,7 +234,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 #### (6) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Fund $40,000,000 for each of fiscal years 2009through 2019, to remain available until expended.
+&emsp;There is authorized to be appropriated to the Fund $40,000,000 for each of fiscal years 2009 through 2019, to remain available until expended.
 
 #### (g) Program implementation and monitoring
 

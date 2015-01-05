@@ -1,6 +1,6 @@
 ### §1731. Protection to naturalized citizens abroad
 
-All naturalized citizens of the United States while in foreign countries are entitled to and shall receive from this Government the same protection of persons and property which is accorded to native-born citizens.
+All naturalized citizens of the United States while in foreign countries are entitled to andshall receive from this Government the same protection of persons and property which is accorded to native-born citizens.
 
 (R.S. §2000.)
 

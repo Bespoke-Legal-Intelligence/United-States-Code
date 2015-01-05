@@ -36,7 +36,7 @@ Certain words were stricken from the section as being unnecessary and inconsiste
 
 #### 1949 Act
 
-\[Section 11\] conforms section 657 of title 18, U.S.C., to administrative practice which in turn was modified to comply with congressional policy "not to use the Farmers Home Corporation to carry out the functions and duties provided for in H.R. 5991 \[Farmers Home Administration Act of 1946\] but to vest the authority in the Secretary of Agriculture to be administeredthrough the Farmers Home Administration as an agency of the Department of Agriculture" (H. Rept. No. 2683, to accompany H.R. 5991, 79th Cong., 2d sess.).
+\[Section 11\] conforms section 657 of title 18, U.S.C., to administrative practice which in turn was modified to comply with congressional policy "not to use the Farmers Home Corporation to carry out the functions and duties provided for in H.R. 5991 \[Farmers Home Administration Act of 1946\] but to vest the authority in the Secretary of Agriculture to be administered through the Farmers Home Administration as an agency of the Department of Agriculture" (H. Rept. No. 2683, to accompany H.R. 5991, 79th Cong., 2d sess.).
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of State shall transmit to the Congress the text of any international agreement (including the text of any oral international agreement, which agreement shall be reduced to writing), other than a treaty, to which the United States is a party as soon as practicable after such agreement has entered into force with respect to the United States but in no event later than sixty days thereafter. However, any such agreement the immediate public disclosure of which would, in the opinion of the President, be prejudicial to the national security of the United States shall not be so transmitted to the Congress but shall be transmitted to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives under an appropriate injunction of secrecy to be removed only upon due notice from the President. Any department or agency of the United States Government which enters into any international agreement on behalf of the United States shall transmit to the Department of State the text of such agreement not later than twenty days after such agreement has been signed.
 
-(b) Not later than March 1, 1979, and at yearly intervals thereafter, the President shall, under his own signature, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report with respect to each international agreement which, during the preceding year, was transmitted to the Congress after the expiration of the 60-day period referred to in the first sentence of subsection (a), describing fully and completely the reasons for the late transmittal.
+(b) Not later than March 1, 1979, and at yearly intervals thereafter, the President shall, under his own signature, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report with respect to each international agreement which, during the preceding year, was transmitted to the Congress after the expiration of the 60-day period referred to in thefirst sentence of subsection (a), describing fully and completely the reasons for the late transmittal.
 
 (c) Notwithstanding any other provision of law, an international agreement may not be signed or otherwise concluded on behalf of the United States without prior consultation with the Secretary of State. Such consultation may encompass a class of agreements rather than a particular agreement.
 
@@ -10,7 +10,7 @@
 
 &emsp;(A) has signed, proclaimed, or with reference to which any other final formality has been executed, or that has been extended or otherwise modified, during the preceding calendar year; and
 
-&emsp;(B) has not been published, or is not proposed to be published, in the compilation entitled “United States Treaties and Other International Agreements”.
+&emsp;(B) has not been published, or is not proposed to be published, in the compilation entitled "United States Treaties and Other International Agreements".
 
 (2) The report described in paragraph (1) may be submitted in classified form.
 
@@ -30,21 +30,21 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7121(b), substituted “Committee on International Relations” for “Committee on Foreign Affairs”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7121(b), substituted "Committee on International Relations" for "Committee on Foreign Affairs".
 
 Subsec. (d). Pub. L. 108–458, §7121(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 108–458, §7121(d), designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Secretary of State” for “The Secretary of State”, and added par. (2).
+Subsec. (e). Pub. L. 108–458, §7121(d), designated existing provisions as par. (1), substituted "Subject to paragraph (2), the Secretary of State" for "The Secretary of State", and added par. (2).
 
 Pub. L. 108–458, §7121(c)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 108–458, §7121(c)(1), redesignated subsec. (e) as (f).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
-<b>1978</b>—Pub. L. 95–426 designated existing provisions as subsec. (a), inserted “(including the text of any oral international agreement, which agreement shall be reduced to writing)”, and added subsecs. (b) to (e).
+<b>1978</b>—Pub. L. 95–426 designated existing provisions as subsec. (a), inserted "(including the text of any oral international agreement, which agreement shall be reduced to writing)", and added subsecs. (b) to (e).
 
-<b>1977</b>—Pub. L. 95–45 substituted “Committee on International Relations of the House of Representatives” for “Committee on Foreign Affairs of the House of Representatives” and inserted requirement that any department or agency of the United States Government which enters into any international agreement on behalf of the United States transmit to the Department of State the text of such agreement not later than twenty days after the agreement has been signed.
+<b>1977</b>—Pub. L. 95–45 substituted "Committee on International Relations of the House of Representatives" for "Committee on Foreign Affairs of the House of Representatives" and inserted requirement that any department or agency of the United States Government which enters into any international agreement on behalf of the United States transmit to the Department of State the text of such agreement not later than twenty days after the agreement has been signed.
 
 #### Change of Name
 
@@ -62,11 +62,11 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Pub. L. 100–204, title I, §139, Dec. 22, 1987, 101 Stat. 1347, as amended by Pub. L. 108–458, title VII, §7121(e), Dec. 17, 2004, 118 Stat. 3808, provided that:
 
-“(a)
+"(a)
 
-Restriction on Use of Funds.—If any international agreement, whose text is required to be transmitted to the Congress pursuant to the first sentence of subsection (a) of section 112b of title 1, United States Code (commonly referred to as the ‘Case-Zablocki Act’), is not so transmitted within the 60-day period specified in that sentence, then no funds authorized to be appropriated by this or any other Act shall be available after the end of that 60-day period to implement that agreement until the text of that agreement has been so transmitted.
+Restriction on Use of Funds.—If any international agreement, whose text is required to be transmitted to the Congress pursuant to the first sentence of subsection (a) of section 112b of title 1, United States Code (commonly referred to as the 'Case-Zablocki Act'), is not so transmitted within the 60-day period specified in that sentence, then no funds authorized to be appropriated by this or any other Act shall be available after the end of that 60-day period to implement that agreement until the text of that agreement has been so transmitted.
 
-“(b)
+"(b)
 
-Effective Date.—Subsection (a) shall take effect 60 days after the date of enactment of the 911 \[probably means 9/11\] Commission Implementation Act of 2004 \[Dec. 17, 2004\] and shall apply during fiscal years 2005, 2006, and 2007.”
+Effective Date.—Subsection (a) shall take effect 60 days after the date of enactment of the 911 \[probably means 9/11\] Commission Implementation Act of 2004 \[Dec. 17, 2004\] and shall apply during fiscal years 2005, 2006, and 2007."
 

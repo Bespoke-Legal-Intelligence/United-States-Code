@@ -8,7 +8,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
+&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriatedistrict court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
 
 #### (2) Enforcement of emergency orders
 
@@ -28,7 +28,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (A) In general
 
-&emsp;&emsp;Any person who knowingly violates any provision of this chapter, or any provision ofany rule or order under this chapter, shall be subject to—
+&emsp;&emsp;Any person who knowingly violates any provision of this chapter, or any provision of any rule or order under this chapter, shall be subject to—
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii) a civil penalty, which the Commission may assess, of not more than $1,000,000 for any one violation; and
 
@@ -84,7 +84,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (5) "Knowingly" defined
 
-&emsp;For purposes of this subsection, the term "knowingly", when used with respect to any act or omission by any person, means such person—
+&emsp;For purposes of this subsection, the term "knowingly", when used with respect to anyact or omission by any person, means such person—
 
 &emsp;&emsp;(A) had actual knowledge; or
 

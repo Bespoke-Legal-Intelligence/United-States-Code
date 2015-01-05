@@ -64,9 +64,9 @@
 
 #### (1) Authorized uses
 
-&emsp;The order shall provide that funds paid to the Board as assessments under subsection (b) of this section may be used by the Board—
+&emsp;The order shall provide that funds paid to the Board as assessments under subsection (b) may be used by the Board—
 
-&emsp;&emsp;(A) to pay for research, promotion, and consumer information described in the budget of the Board under subsection (a) of this section and for other expenses incurred by the Board in the administration of an order;
+&emsp;&emsp;(A) to pay for research, promotion, and consumer information described in the budget of the Board under subsection (a) and for other expenses incurred by the Board in the administration of an order;
 
 &emsp;&emsp;(B) to pay such other expenses for the administration, maintenance, and functioning of the Board (including any enforcement efforts for the collection of assessments) as may be authorized by the Secretary, including interest and penalties for late payments; and
 
@@ -74,7 +74,7 @@
 
 #### (2) Required uses
 
-&emsp;The order shall provide that funds paid to the Board as assessments under subsection (b) of this section shall be used by the Board—
+&emsp;The order shall provide that funds paid to the Board as assessments under subsection (b) shall be used by the Board—
 
 &emsp;&emsp;(A) to pay the expenses incurred by the Secretary, including salaries and expenses of Federal Government employees, in implementing and administering the order; and
 
@@ -86,7 +86,7 @@
 
 #### (d) False claims
 
-The order shall provide that any promotion funded with assessments collected under subsection (b) of this section may not make—
+The order shall provide that any promotion funded with assessments collected under subsection (b) may not make—
 
 &emsp;(1) any false claims on behalf of kiwifruit; and
 
@@ -110,7 +110,7 @@ The order shall provide that funds collected by the Board under this subchapter 
 
 #### (2) Others
 
-&emsp;To make information and data available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this subchapter (or any order or regulation issued under this subchapter), the order shall require handlers and importers who are responsible for the collection, payment, or remittance of assessments under subsection (b) of this section—
+&emsp;To make information and data available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this subchapter (or any order or regulation issued under this subchapter), the order shall require handlers and importers who are responsible for the collection, payment, or remittance of assessments under subsection (b)—
 
 &emsp;&emsp;(A) to maintain and make available for inspection by the employees and agents of the Board and the Secretary such books and records as may be required by the order; and
 
@@ -120,7 +120,7 @@ The order shall provide that funds collected by the Board under this subchapter 
 
 #### (1) In general
 
-&emsp;The order shall require that all information obtained pursuant to subsection (f)(2) of this section be kept confidential by all officers, employees, and agents of the Department of Agriculture and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
+&emsp;The order shall require that all information obtained pursuant to subsection (f)(2) be keptconfidential by all officers, employees, and agents of the Department of Agriculture and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
 
 #### (2) Limitations
 

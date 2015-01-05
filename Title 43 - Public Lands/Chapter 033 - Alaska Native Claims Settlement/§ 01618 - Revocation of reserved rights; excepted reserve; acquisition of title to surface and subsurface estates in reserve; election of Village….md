@@ -14,7 +14,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;The Congress finds that—
 
-&emsp;&emsp;(A) approximately 350,000 acres of land were withdrawn by Executive orders in 1917 for the use of the United States Bureau of Education and of the Natives of Indigenous Alaskan race;
+&emsp;&emsp;(A) approximately 350,000 acres of land were withdrawn by Executive orders in 1917for the use of the United States Bureau of Education and of the Natives of Indigenous Alaskan race;
 
 &emsp;&emsp;(B) these lands comprised the Norton Bay Reservation (later referred to as Norton Bay Native Reserve) and were set aside for the benefit of the Native inhabitants of the Eskimo Village of Elim, Alaska;
 
@@ -34,7 +34,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (3) Authority to select and convey
 
-&emsp;Elim is authorized to select in accordance with the rules set out in this paragraph, 50,000 acres of land (hereinafter referred to as "Conveyance Lands") within the boundary of the Withdrawal Area described in paragraph (2). The Secretary is authorized and directed toconvey to Elim in fee the surface and subsurface estates to 50,000 acres of valid selections in the Withdrawal Area, subject to the covenants, reservations, terms and conditions and other provisions of this subsection.
+&emsp;Elim is authorized to select in accordance with the rules set out in this paragraph, 50,000 acres of land (hereinafter referred to as "Conveyance Lands") within the boundary of the Withdrawal Area described in paragraph (2). The Secretary is authorized and directed to convey to Elim in fee the surface and subsurface estates to 50,000 acres of valid selections in the Withdrawal Area, subject to the covenants, reservations, terms and conditions and other provisions of this subsection.
 
 &emsp;&emsp;(A) Elim shall have 2 years from May 2, 2000, in which to file its selection of no more than 60,000 acres of land from the area described in paragraph (2). The selection application shall be filed with the Bureau of Land Management, Alaska State Office, shall describe a single tract adjacent to United States Survey No. 2548, Alaska, and shall be reasonably compact, contiguous, and in whole sections except when separated by unavailable land or when the remaining entitlement is less than a whole section. Elim shall prioritize its selections made pursuant to this subsection at the time such selections are filed, and such prioritization shall be irrevocable. Any lands selected shall remain withdrawn until conveyed or full entitlement has been achieved.
 

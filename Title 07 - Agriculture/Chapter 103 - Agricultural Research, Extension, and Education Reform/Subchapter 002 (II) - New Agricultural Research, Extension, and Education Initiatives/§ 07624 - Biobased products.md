@@ -20,7 +20,7 @@ The Secretary of Agriculture shall—
 
 #### (1) Agreements authorized
 
-&emsp;The Secretary may enter into cooperative agreements with private entities described in subsection (d) of this section, under which the facilities and technical expertise of the Agricultural Research Service and the Forest Service may be made available to operate pilot plants and other large-scale preparation facilities for the purpose of bringing technologies necessary for the development and commercialization of new biobased products to the point of practical application.
+&emsp;The Secretary may enter into cooperative agreements with private entities described in subsection (d), under which the facilities and technical expertise of the Agricultural Research Service and the Forest Service may be made available to operate pilot plants and other large-scale preparation facilities for the purpose of bringing technologies necessary for the development and commercialization of new biobased products to the point of practical application.
 
 #### (2) Description of cooperative activities
 
@@ -38,7 +38,7 @@ The Secretary of Agriculture shall—
 
 #### (d) Eligible partners
 
-The following entities shall be eligible to enter into a cooperative agreement under subsection (c) of this section:
+The following entities shall be eligible to enter into a cooperative agreement under subsection (c):
 
 &emsp;(1) A party that has entered into a cooperative research and development agreement with the Secretary under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
 
@@ -66,11 +66,11 @@ The Secretary, acting through the Agricultural Research Service, may establish a
 
 #### (2) Exception
 
-&emsp;The Secretary may not use funds referred to in paragraph (1)(B) to carry out subsection (e) of this section.
+&emsp;The Secretary may not use funds referred to in paragraph (1)(B) to carry out subsection (e).
 
 #### (g) Sale of developed products
 
-For the purpose of determining the market potential for new biobased products produced at apilot plant or other large-scale preparation facility under a cooperative agreement under this section, the Secretary shall authorize the private partner or partners to the agreement to sell the products.
+For the purpose of determining the market potential for new biobased products produced at a pilot plant or other large-scale preparation facility under a cooperative agreement under this section, the Secretary shall authorize the private partner or partners to the agreement to sell the products.
 
 #### (h) Authorization of appropriations
 

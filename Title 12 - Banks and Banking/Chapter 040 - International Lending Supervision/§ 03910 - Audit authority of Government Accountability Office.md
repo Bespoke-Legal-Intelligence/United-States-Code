@@ -14,7 +14,7 @@
 
 &emsp;(C) transactions made under the direction of the Federal Open Market Committee; or
 
-&emsp;(D) a part of a discussion or communication among or between members of the Board of Governors of the Federal Reserve System andofficers and employees of the Federal Reserve System related to subparagraphs (A) through (C) of this paragraph.
+&emsp;(D) a part of a discussion or communication among or between members of the Board of Governors of the Federal Reserve System and officers and employees of the Federal Reserve System related to subparagraphs (A) through (C) of this paragraph.
 
 #### (b) Limits on disclosure
 

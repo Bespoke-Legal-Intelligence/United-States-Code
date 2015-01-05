@@ -6,7 +6,7 @@ Funds provided to local educational agencies under this subpart may be used, as 
 
 &emsp;(2) dropout prevention programs which serve at-risk children and youth, including pregnant and parenting teens, children and youth who have come in contact with the juvenile justice system, children and youth at least 1 year behind their expected grade level, migrant youth, immigrant youth, students with limited English proficiency, and gang members;
 
-&emsp;(3) the coordination of health and social services for such individuals if there is a likelihood that the provision of such services, including day care, drug and alcohol counseling, and mental health services, will improve the likelihood such individuals will complete their education;
+&emsp;(3) the coordination of health and social services for such individuals if there is a likelihood that the provision of such services, including day care, drug and alcohol counseling, and mental health services, will improve thelikelihood such individuals will complete their education;
 
 &emsp;(4) special programs to meet the unique academic needs of participating children and youth, including vocational and technical education, special education, career counseling, curriculum-based youth entrepreneurship education, and assistance in securing student loans or grants for postsecondary education; and
 

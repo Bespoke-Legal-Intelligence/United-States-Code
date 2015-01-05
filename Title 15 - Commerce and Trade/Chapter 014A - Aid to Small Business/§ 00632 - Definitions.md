@@ -130,7 +130,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(i) which is an employee benefit plan which is designed to invest primarily in qualifying employer securities (as defined in section 4975(e)(8) of title 26),
 
-&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of the outstanding common shares voted,
+&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as tothe manner in which voting rights under qualifying employer securities which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of the outstanding common shares voted,
 
 &emsp;&emsp;(iii) which provides that each participant who is entitled to distribution from the plan has a right, in the case of qualifying employer securities which are not readily tradeable on an established market, to require that the concern repurchase such securities under a fair valuation formula, and
 
@@ -302,7 +302,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) wholly owned by 1 or more small agricultural cooperatives organized or incorporated in the United States; or
 
-&emsp;&emsp;&emsp;(iii) owned in part by 1 or more small agricultural cooperatives organized or incorporated in the United States, if all owners are small business concerns or United States citizens.
+&emsp;&emsp;&emsp;(iii) owned in part by 1 or more small agricultural cooperatives organized or incorporated in the United States, if all ownersare small business concerns or United States citizens.
 
 #### (4) Qualified areas
 
@@ -456,7 +456,7 @@ In this chapter, the following definitions apply:
 
 #### (C) Exception for programs subject to Federal Credit Reform Act of 1990
 
-&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any programs subject to the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any programs subjectto the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
 
 #### (r) Definitions relating to small business lending companies
 
@@ -538,7 +538,7 @@ In this chapter, the term "multiple award contract" means—
 
 &emsp;&emsp;(A) no business concern continues to be certified as a small business concern on the Online Representations and Certifications Application database of the Administration, or any successor thereto, without fulfilling the requirements for annual certification under this subsection; and
 
-&emsp;&emsp;(B) the requirements of this subsection are implemented in a manner presenting the least possible regulatory burden on small business concerns.
+&emsp;&emsp;(B) the requirements of this subsection are implemented in a manner presenting theleast possible regulatory burden on small business concerns.
 
 #### (y) Policy on prosecutions of small business size and status fraud
 
@@ -550,7 +550,7 @@ Subject to section 647(a) of this title and notwithstanding section 647(b)(1) of
 
 #### (aa) Venture capital operating company
 
-In this chapter, the term "venture capital operating company" means an entity described inclause (i), (v), or (vi) of section 121.103(b)(5) of title 13, Code of Federal Regulations (or any successor thereto).
+In this chapter, the term "venture capital operating company" means an entity described in clause (i), (v), or (vi) of section 121.103(b)(5) of title 13, Code of Federal Regulations (or any successor thereto).
 
 #### (bb) Hedge fund
 
@@ -598,7 +598,7 @@ In subsec. (m), "section 134 of title 41" substituted for "section 4(11) of the 
 
 In subsec. (v)(1), "sections 4101, 4103, 4105, and 4106 of title 41" substituted for "sections 303H through 303K of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h through 253k)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -778,7 +778,7 @@ Pub. L. 99–272 inserted proviso that notwithstanding any other provision of la
 
 Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1984</b>—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted "as a business concern and shall not include the income or employees of any member shareholder of such cooperative" for "as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern".
+<b>1984</b>—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted "as a business concern andshall not include the income or employees of any member shareholder of such cooperative" for "as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern".
 
 Pub. L. 98–362 added subsec. (j) defining "computer crime".
 
@@ -848,7 +848,7 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 #### Regulations
 
-Pub. L. 112–239, div. A, title XVI, §1696(c), Jan. 2, 2013, 126 Stat. 2091, provided that: "Not later than 180 days after the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall issue guidance with respect to the changes made to the Small Business Act \[15 U.S.C. 631 et seq.\] by the amendments in this subtitle \[subtitle C (§§1621–1699a) of title XVI of div. A of Pub. L. 112–239, see Tables for classification\], with opportunities for notice and comment."
+Pub. L. 112–239, div. A, title XVI, §1696(c), Jan. 2, 2013, 126 Stat. 2091, provided that: "Not later than 180 days after the date of enactment of this part \[Jan. 2, 2013\],the Administrator of the Small Business Administration shall issue guidance with respect to the changes made to the Small Business Act \[15 U.S.C. 631 et seq.\] by the amendments in this subtitle \[subtitle C (§§1621–1699a) of title XVI of div. A of Pub. L. 112–239, see Tables for classification\], with opportunities for notice and comment."
 
 Pub. L. 109–163, div. A, title VIII, §845(d), Jan. 6, 2006, 119 Stat. 3391, provided that: "Not later than 45 days after the date of enactment of this Act \[Jan. 6, 2006\], the Administrator of the Small Business Administration shall promulgate final rules to carry out this section \[amending this section and section 636 of this title\] and the amendments made by this section."
 

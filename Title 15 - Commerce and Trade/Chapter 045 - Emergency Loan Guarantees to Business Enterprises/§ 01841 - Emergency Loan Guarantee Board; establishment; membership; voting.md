@@ -26,7 +26,7 @@ Short Title.—This chapter may be cited as the 'Emergency Steel Loan Guarantee 
 
 Congressional Findings.—Congress finds that—
 
-&emsp;"(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
+&emsp;"(1) the United States steel industry has been severely harmed by a record surge of more than40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
 
 &emsp;"(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
 
@@ -60,7 +60,7 @@ Qualified steel company.—The term 'qualified steel company' means any company 
 
 &emsp;&emsp;"(A) is incorporated under the laws of any State;
 
-&emsp;&emsp;"(B) is engaged in the production and manufacture of a product defined by the American Iron and Steel Institute as a basic steel mill product, including ingots, slab and billets, plates, flat-rolled steel,sections and structural products, bars, rail type products, pipe and tube, and wire rod; and
+&emsp;&emsp;"(B) is engaged in the production and manufacture of a product defined by the American Iron and Steel Institute as a basic steel mill product, including ingots, slab and billets, plates, flat-rolled steel, sections and structural products, bars, rail type products, pipe and tube, and wire rod; and
 
 &emsp;&emsp;"(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis in 1998, and thereafter, or that operates substantial assets of a company that meets these qualifications.
 
@@ -152,7 +152,7 @@ Increased level one.—A loan guarantee may be provided under this section in ex
 
 Increased level two.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 95 percent, of the amount of principal of the loan, if—
 
-&emsp;&emsp;&emsp;"(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
+&emsp;&emsp;&emsp;"(i) the aggregate amount of loans guaranteed at such percentage and outstanding under thissection at any one time does not exceed $100,000,000; and
 
 &emsp;&emsp;&emsp;"(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
@@ -282,7 +282,7 @@ Authority.—
 
 &emsp;"(1)
 
-In general.—The Program may guarantee loans provided to qualified oil and gas companies by private banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
+In general.—The Program may guarantee loans provided to qualified oil and gas companies byprivate banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
 
 &emsp;"(2)
 

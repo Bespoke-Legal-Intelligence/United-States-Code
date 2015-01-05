@@ -60,5 +60,5 @@ Pub. L. 97–35, title III, §394(d)(2), Aug. 13, 1981, 95 Stat. 436, provided t
 
 #### "Final Government Equity Redemption Date" Defined
 
-Pub. L. 97–35, title III, §396(a), Aug. 13, 1981, 95 Stat. 439, provided that: "For purposes of this subtitle \[see Short Title of 1981 Amendment note set out under section 3001 of this title\], the term 'Final Government Equity Redemption Date' shall have the same meaninggiven such term in section 101(5) of the National Consumer Cooperative Bank Act (12 U.S.C. 3011(5))."
+Pub. L. 97–35, title III, §396(a), Aug. 13, 1981, 95 Stat. 439, provided that: "For purposes of this subtitle \[see Short Title of 1981 Amendment note set out under section 3001 of this title\], the term 'Final Government Equity Redemption Date' shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act (12 U.S.C. 3011(5))."
 

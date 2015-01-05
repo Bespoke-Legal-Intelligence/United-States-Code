@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 &emsp;(4) if its container is so made, formed, or filled as to be misleading;
 
-&emsp;(5) unless it bears a label showing (A) the name and the place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the product in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages or articles not in packages or other containers may be established by regulations prescribed by the Secretary;
+&emsp;(5) unless it bears a label showing (A) the name and the place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the product in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to smallpackages or articles not in packages or other containers may be established by regulations prescribed by the Secretary;
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
@@ -58,7 +58,7 @@ For purposes of this chapter—
 
 &emsp;(9) if it is not subject to the provisions of subparagraph (7), unless its label bears (A) the common or usual name of the food, if any there be, and (B) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient; except that spices, flavorings, and colorings may, when authorized by the Secretary, be designated as spices, flavorings, and colorings without naming each: <i>Provided</i>, That to the extent that compliance with the requirements of clause (B) of this subparagraph (9) is impracticable or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary;
 
-&emsp;(10) if it purports to be or is represented for special dietary uses unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary, after consultation with the Secretary of Health and Human Services, determines to be,and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses;
+&emsp;(10) if it purports to be or is represented for special dietary uses unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary, after consultation with the Secretary of Health and Human Services, determines to be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses;
 
 &emsp;(11) if it bears or contains any artificial flavoring, artificial coloring, or chemical preservative unless it bears labeling stating that fact: <i>Provided</i>, That, to the extent that compliance with the requirements of this subparagraph (11) is impracticable, exemptions shall be established by regulations promulgated by the Secretary; or
 
@@ -90,7 +90,7 @@ For purposes of this chapter—
 
 (u) The term "immediate container" includes any consumer package; or any other container in which poultry products, not consumer packaged, are packed.
 
-(v) The term "capable of use as human food" shall apply to any carcass, or part or product of a carcass, of any poultry, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
+(v) The term "capable of use as human food" shall apply to any carcass, or part or product ofa carcass, of any poultry, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
 
 (w) The term "processed" means slaughtered, canned, salted, stuffed, rendered, boned, cut up, or otherwise manufactured or processed.
 
@@ -114,7 +114,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in pars. (x) and (y), is a
 
 <b>1992</b>—Subsec. (g)(2)(D). Pub. L. 102–571 substituted "379e" for "376".
 
-<b>1968</b>—Pub. L. 90–492 inserted definitions of "State", "territory", "United States", "misbranded", "officialmark", "official inspection legend", "official certificate", "official device", "capable of use as human food", "processed", "Federal Food, Drug, and Cosmetic Act", "pesticide chemical", "poultry products broker", "renderer", and "animal food manufacturer", revised definitions of "commerce", "poultry", "poultry product", "adulterated", "Secretary", "inspector", "container" or "package", "label", and "immediate container", reenacted without change definitions of "person", "official establishment", "inspection service", and "shipping container", and deleted definition of "wholesome", "unwholesome", and "official inspection mark".
+<b>1968</b>—Pub. L. 90–492 inserted definitions of "State", "territory", "United States", "misbranded", "official mark", "official inspection legend", "official certificate", "official device", "capable of use as human food", "processed", "Federal Food, Drug, and Cosmetic Act", "pesticide chemical", "poultry products broker", "renderer", and "animal food manufacturer", revised definitions of "commerce", "poultry", "poultry product", "adulterated", "Secretary", "inspector", "container" or "package", "label", and "immediate container", reenacted without change definitions of "person", "official establishment", "inspection service", and "shipping container", and deleted definition of "wholesome", "unwholesome", and "official inspection mark".
 
 <b>1962</b>—Par. (a). Pub. L. 87–498 struck out references to Territories or possessions, and inserted definition of "State".
 

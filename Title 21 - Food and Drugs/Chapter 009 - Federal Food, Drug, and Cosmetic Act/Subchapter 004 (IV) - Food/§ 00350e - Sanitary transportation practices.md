@@ -68,7 +68,7 @@ The regulations under subsection (b) of this section shall—
 
 &emsp;&emsp;(A) complying with a requirement of the State or political subdivision and a requirement of this section, or a regulation prescribed under this section, is not possible; or
 
-&emsp;&emsp;(B) the requirement of the State or political subdivision as applied or enforced is an obstacle to accomplishing and carrying outthis section or a regulation prescribed under this section.
+&emsp;&emsp;(B) the requirement of the State or political subdivision as applied or enforced is an obstacle to accomplishing and carrying out this section or a regulation prescribed under this section.
 
 #### (2) Applicability
 

@@ -284,7 +284,7 @@ Program on Mental Health Awareness.—
 
 &emsp;"(1)
 
-Requirement.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop a program to improve awareness of the availability of mental health services for, and warning signs about mental health problems in, dependents of members of the Armed Forces whose sponsor served or will serve in a combat theater during the previous or next 60 days.
+Requirement.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop a program toimprove awareness of the availability of mental health services for, and warning signs about mental health problems in, dependents of members of the Armed Forces whose sponsor served or will serve in a combat theater during the previous or next 60 days.
 
 &emsp;"(2)
 
@@ -334,5 +334,5 @@ Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amen
 
 #### Obstetrical Care Facilities
 
-Pub. L. 89–188, title VI, §610, Sept. 16, 1965, 79 Stat. 818, required that military hospitals in the UnitedStates and its possessions be constructed so as to include facilities for obstetrical care, prior to repeal by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
+Pub. L. 89–188, title VI, §610, Sept. 16, 1965, 79 Stat. 818, required that military hospitals in the United States and its possessions be constructed so as to include facilities for obstetrical care, prior to repeal by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
 

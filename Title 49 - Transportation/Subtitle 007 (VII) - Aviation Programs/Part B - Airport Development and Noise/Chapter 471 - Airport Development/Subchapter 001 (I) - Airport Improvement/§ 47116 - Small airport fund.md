@@ -2,7 +2,7 @@
 
 (a)
 
-Existence and Amounts in Fund.—The Secretary of Transportation has a small airportfund. The fund consists of 87.5 percent of amounts not apportioned under section 47114 of this title because of section 47114(f).
+Existence and Amounts in Fund.—The Secretary of Transportation has a small airport fund. The fund consists of 87.5 percent of amounts not apportioned under section 47114 of this title because of section 47114(f).
 
 (b)
 
@@ -30,7 +30,7 @@ Construction of new runways.—In making grants to sponsors described in subsect
 
 &emsp;(2)
 
-Airport development for turbine powered aircraft.—In making grants to sponsors described in subsection (b)(1), the Secretary shall give priority consideration to airport development projects to support operations by turbine powered aircraft if the non-Federal share of the project is at least 40 percent.
+Airport development for turbine powered aircraft.—In making grants to sponsorsdescribed in subsection (b)(1), the Secretary shall give priority consideration to airport development projects to support operations by turbine powered aircraft if the non-Federal share of the project is at least 40 percent.
 
 (e)
 

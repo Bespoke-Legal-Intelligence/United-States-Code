@@ -6,7 +6,7 @@ This subchapter may be cited as the "Safe Schools Act of 1994".
 
 #### (b) Statement of purpose
 
-It is the purpose of this subchapter to help local school systems achieve Goal Six <sup>1</sup> of the National Education Goals, which provides thatby the year 2000, every school in America will be free of drugs and violence and will offer a disciplined environment conducive to learning, by ensuring that all schools are safe and free of violence.
+It is the purpose of this subchapter to help local school systems achieve Goal Six <sup>1</sup> of the National Education Goals, which provides that by the year 2000, every school in America will be free of drugs and violence and will offer a disciplined environment conducive to learning, by ensuring that all schools are safe and free of violence.
 
 (Pub. L. 103–227, title VII, §701, Mar. 31, 1994, 108 Stat. 204.)
 

@@ -126,9 +126,13 @@ Pub. L. 111–84, §2842(a), (b), designated existing provisions as par. (1), re
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–364, §2852, added subsec. (e).
 
+#### Business Case Analysis of any Plan To Design, Refurbish, or Construct a Biofuel Refinery
+
+Pub. L. 113–291, div. A, title III, §314, Dec. 19, 2014, 128 Stat. 3338, provided that: "Not later than 30 days before entering into a contract for the planning, design, refurbishing, or construction of a biofuel refinery, or of any other facility or infrastructure used to refine biofuels, the Secretary of Defense or the Secretary of the military department concerned shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a business case analysis for such planning, design, refurbishing, or construction."
+
 #### Guidance on Financing for Renewable Energy Projects
 
-Pub. L. 112–239, div. B, title XXVIII, §2824, Jan. 2, 2013, 126 Stat. 2153, provided that:
+Pub. L. 112–239, div. B, title XXVIII, §2824, Jan. 2, 2013, 126 Stat. 2153, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469, provided that:
 
 "(a)
 
@@ -156,7 +160,7 @@ Information Sharing.—Not later than 180 days after the date of the enactment o
 
 "(d)
 
-Consultation.—The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Deputy Under Secretary of Defense for Installations and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments."
+Consultation.—The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Assistant Secretary of Defense for Energy, Installations, and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments."
 
 #### Energy-Efficient Technologies in Contracts for Logistics Support of Contingency Operations
 
@@ -202,7 +206,7 @@ Policy required.—Not later than 180 days after the date of enactment of this A
 
 &emsp;"(A) Favorable consideration for energy security in the design and development of energy projects on the military installation that will use renewable energy sources.
 
-&emsp;"(B) Guidance for commanders of military installations inside the United States on planning measures to minimize the effects of a disruption of services by a utility that sells natural gas, water, or electric energy to those installations in the event that a disruption occurs.
+&emsp;"(B) Guidance for commanders of military installations inside the United States on planning measuresto minimize the effects of a disruption of services by a utility that sells natural gas, water, or electric energy to those installations in the event that a disruption occurs.
 
 "(2)
 
@@ -408,7 +412,7 @@ Annual Report.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall submit a report on the efforts of the Department of Defense to mitigate the risks described in subsection (a) as part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2010 and each fiscal year thereafter (as submitted with the budget of the President under section 1105(a) of title 31, United States Code).
+In general.—The Secretary of Defense shall submit a report on the efforts of the Department of Defense to mitigate the risks described in subsection (a) as part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2010 and each fiscalyear thereafter (as submitted with the budget of the President under section 1105(a) of title 31, United States Code).
 
 &emsp;"(2)
 

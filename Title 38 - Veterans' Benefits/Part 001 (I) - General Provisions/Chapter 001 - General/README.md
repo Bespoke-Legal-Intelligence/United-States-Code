@@ -19,12 +19,14 @@
 | [114\.](%C2%A7%2000114%20-%20Multiyear%20procurement.md) | Multiyear procurement. |
 | [115\.](%C2%A7%2000115%20-%20Acquisition%20of%20real%20property.md) | Acquisition of real property. |
 | [116\.](%C2%A7%2000116%20-%20Reports%20to%20Congress%20cost%20information.md) | Reports to Congress: cost information. |
-| [117\.](%C2%A7%2000117%20-%20Advance%20appropriations%20for%20certain%20medical%20care%20accounts.md) | Advance appropriations for certain medical care accounts. |
+| [117\.](%C2%A7%2000117%20-%20Advance%20appropriations%20for%20certain%20accounts.md) | Advance appropriations for certain accounts. |
 | [118\.](%C2%A7%2000118%20-%20Submission%20of%20reports%20to%20Congress%20in%20electronic%20form.md) | Submission of reports to Congress in electronic form. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–235, div. I, title II, §244(c), Dec. 16, 2014, 128 Stat. 2569, added item 117 and struck out former item 117 "Advance appropriations for certain medical care accounts".
 
 <b>2013</b>—Pub. L. 112–260, title II, §202(c), Jan. 10, 2013, 126 Stat. 2424, added item 111A.
 
@@ -72,5 +74,5 @@ Pub. L. 111–163, title X, §1003(b), May 5, 2010, 124 Stat. 1183, added items 
 - [&sect; 00114 - Multiyear procurement](%C2%A7%2000114%20-%20Multiyear%20procurement.md)
 - [&sect; 00115 - Acquisition of real property](%C2%A7%2000115%20-%20Acquisition%20of%20real%20property.md)
 - [&sect; 00116 - Reports to Congress cost information](%C2%A7%2000116%20-%20Reports%20to%20Congress%20cost%20information.md)
-- [&sect; 00117 - Advance appropriations for certain medical care accounts](%C2%A7%2000117%20-%20Advance%20appropriations%20for%20certain%20medical%20care%20accounts.md)
+- [&sect; 00117 - Advance appropriations for certain accounts](%C2%A7%2000117%20-%20Advance%20appropriations%20for%20certain%20accounts.md)
 - [&sect; 00118 - Submission of reports to Congress in electronic form](%C2%A7%2000118%20-%20Submission%20of%20reports%20to%20Congress%20in%20electronic%20form.md)

@@ -26,7 +26,7 @@ Changes were made in phraseology.
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
-<b>1975</b>—Subsec. (a). Pub. L. 93–584 substituted provisions that the district courts shall have jurisdiction of civil actions to enforce, in whole or in part, orders of the Interstate Commerce Commission, and to enjoin or suspend, in whole or in part, any order of the Interstate Commerce Commission for the payment of money or the collection of fines, penalties, and forfeitures, forprovisions that the district courts shall have jurisdiction of civil actions to enforce, enjoin, set aside, annul or suspend, in whole or in part, any order of the Interstate Commerce Commission.
+<b>1975</b>—Subsec. (a). Pub. L. 93–584 substituted provisions that the district courts shall have jurisdiction of civil actions to enforce, in whole or in part, orders of the Interstate Commerce Commission, and to enjoin or suspend, in whole or in part, any order of the Interstate Commerce Commission for the payment of money or the collection of fines, penalties, and forfeitures, for provisions that the district courts shall have jurisdiction of civil actions to enforce, enjoin, set aside, annul or suspend, in whole or in part, any order of the Interstate Commerce Commission.
 
 <b>1964</b>—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under section 2321 of this title.
+Amendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed tofinal disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under section 2321 of this title.
 

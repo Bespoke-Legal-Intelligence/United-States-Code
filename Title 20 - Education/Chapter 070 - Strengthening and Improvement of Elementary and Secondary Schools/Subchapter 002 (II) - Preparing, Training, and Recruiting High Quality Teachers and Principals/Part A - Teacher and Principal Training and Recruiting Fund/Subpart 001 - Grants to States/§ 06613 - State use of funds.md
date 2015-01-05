@@ -52,7 +52,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(9) Funding projects to promote reciprocity of teacher and principal certification or licensing between or among States, except that no reciprocity agreement developed under this paragraph or developed using funds provided under this part may lead to the weakening of any State teaching certification or licensing requirement.
 
-&emsp;(10) Developing or assisting local educational agencies in the development and useof proven, innovative strategies to deliver intensive professional development programs that are both cost-effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
+&emsp;(10) Developing or assisting local educational agencies in the development and use of proven, innovative strategies to deliver intensive professional development programs that are both cost-effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
 
 &emsp;(11) Encouraging and supporting the training of teachers and administrators to effectively integrate technology into curricula and instruction, including training to improve the ability to collect, manage, and analyze data to improve teaching, decisionmaking, school improvement efforts, and accountability.
 
@@ -60,7 +60,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(13) Providing assistance to local educational agencies for the development and implementation of professional development programs for principals that enable the principals to be effective school leaders and prepare all students to meet challenging State academic content and student academic achievement standards, and the development and support of school leadership academies to help exceptionally talented aspiring or current principals and superintendents become outstanding managers and educational leaders.
 
-&emsp;(14) Developing, or assisting local educational agencies in developing, teacher advancement initiatives that promote professional growth and emphasize multiple career paths (such as paths to becoming a career teacher, mentor teacher, or exemplary teacher) and pay differentiation.
+&emsp;(14) Developing, or assisting local educational agencies in developing, teacher advancement initiatives that promote professional growth and emphasize multiple careerpaths (such as paths to becoming a career teacher, mentor teacher, or exemplary teacher) and pay differentiation.
 
 &emsp;(15) Providing assistance to teachers to enable them to meet certification, licensing, or other requirements needed to become highly qualified by the end of the fourth year for which the State receives funds under this part (as amended by the No Child Left Behind Act of 2001).
 

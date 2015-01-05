@@ -4,7 +4,7 @@
 
 #### (1) On self-dealer
 
-&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person and a private foundation. The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only as such) who participates in the act of self-dealing. In the case of a government official (as defined in section 4946(c)), a tax shall be imposed by this paragraph only if such disqualified person participates in the act of self-dealing knowing that it is such an act.
+&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person and a private foundation. The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only as such) who participates in the act of self-dealing. In thecase of a government official (as defined in section 4946(c)), a tax shall be imposed by this paragraph only if such disqualified person participates in the act of self-dealing knowing that it is such an act.
 
 #### (2) On foundation manager
 
@@ -182,7 +182,7 @@ Exceptions to applicability of section, see section 101(l)(2) of Pub. L. 91–17
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Tax on Self-Dealing Not To Apply to Certain Stock Purchases
 

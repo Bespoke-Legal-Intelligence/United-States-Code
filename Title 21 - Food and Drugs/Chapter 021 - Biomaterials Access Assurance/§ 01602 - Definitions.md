@@ -104,7 +104,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(i) to register with the Secretary pursuant to section 360 of this title and the regulations issued under such section; and
 
-&emsp;&emsp;&emsp;(ii) to include the implant on a list of devices filed with the Secretary pursuant tosection 360(j) of this title and the regulations issued under such section.
+&emsp;&emsp;&emsp;(ii) to include the implant on a list of devices filed with the Secretary pursuant to section 360(j) of this title and the regulations issued under such section.
 
 #### (7) Medical device
 

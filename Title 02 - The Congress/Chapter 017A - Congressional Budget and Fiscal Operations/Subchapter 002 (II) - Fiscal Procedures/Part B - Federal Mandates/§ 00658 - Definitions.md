@@ -4,15 +4,15 @@ For purposes of this part:
 
 #### (1) Agency
 
-&emsp;The term “agency” has the same meaning as defined in section 551(1) of title 5, but does not include independent regulatory agencies.
+&emsp;The term "agency" has the same meaning as defined in section 551(1) of title 5, but does not include independent regulatory agencies.
 
 #### (2) Amount
 
-&emsp;The term “amount”, with respect to an authorization of appropriations for Federal financial assistance, means the amount of budget authority for any Federal grant assistance program or any Federal program providing loan guarantees or direct loans.
+&emsp;The term "amount", with respect to an authorization of appropriations for Federal financial assistance, means the amount of budget authority for any Federal grant assistance program or any Federal program providing loan guarantees or direct loans.
 
 #### (3) Direct costs
 
-&emsp;The term “direct costs”—
+&emsp;The term "direct costs"—
 
 &emsp;&emsp;(A)(i) in the case of a Federal intergovernmental mandate, means the aggregate estimated amounts that all State, local, and tribal governments would be required to spend or would be prohibited from raising in revenues in order to comply with the Federal intergovernmental mandate; or
 
@@ -42,7 +42,7 @@ For purposes of this part:
 
 #### (4) Direct savings
 
-&emsp;The term “direct savings”, when used with respect to the result of compliance with the Federal mandate—
+&emsp;The term "direct savings", when used with respect to the result of compliance with the Federal mandate—
 
 &emsp;&emsp;(A) in the case of a Federal intergovernmental mandate, means the aggregate estimated reduction in costs to any State, local, or tribal government as a result of compliance with the Federal intergovernmental mandate; and
 
@@ -50,7 +50,7 @@ For purposes of this part:
 
 #### (5) Federal intergovernmental mandate
 
-&emsp;The term “Federal intergovernmental mandate” means—
+&emsp;The term "Federal intergovernmental mandate" means—
 
 &emsp;&emsp;(A) any provision in legislation, statute, or regulation that—
 
@@ -64,7 +64,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;&emsp;(I) Federal financial assistance that would be provided to State, local, or tribal governments for the purpose of complying with any such previously imposed duty unless such duty is reduced or eliminated by a corresponding amount; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the control of borders by the Federal Government; or reimbursement to State, local, or tribal governments for the net cost associated with illegal, deportable, and excludable aliens, including court-mandated expenses related to emergency health care, education or criminal justice; when such a reductionor elimination would result in increased net costs to State, local, or tribal governments in providing education or emergency health care to, or incarceration of, illegal aliens; except that this subclause shall not be in effect with respect to a State, local, or tribal government, to the extent that such government has not fully cooperated in the efforts of the Federal Government to locate, apprehend, and deport illegal aliens;
+&emsp;&emsp;&emsp;&emsp;(II) the control of borders by the Federal Government; or reimbursement to State, local, or tribal governments for the net cost associated with illegal, deportable, and excludable aliens, including court-mandated expenses related to emergency health care, education or criminal justice; when such a reduction or elimination would result in increased net costs to State, local, or tribal governments in providing education or emergency health care to, or incarceration of, illegal aliens; except that this subclause shall not be in effect with respect to a State, local, or tribal government, to the extent that such government has not fully cooperated in the efforts of the Federal Government to locate, apprehend, and deport illegal aliens;
 
 &emsp;&emsp;(B) any provision in legislation, statute, or regulation that relates to a then-existing Federal program under which $500,000,000 or more is provided annually to State, local, and tribal governments under entitlement authority, if the provision—
 
@@ -76,11 +76,11 @@ For purposes of this part:
 
 #### (6) Federal mandate
 
-&emsp;The term “Federal mandate” means a Federal intergovernmental mandate or a Federal private sector mandate, as defined in paragraphs (5) and (7).
+&emsp;The term "Federal mandate" means a Federal intergovernmental mandate or a Federal private sector mandate, as defined in paragraphs (5) and (7).
 
 #### (7) Federal private sector mandate
 
-&emsp;The term “Federal private sector mandate” means any provision in legislation, statute, or regulation that—
+&emsp;The term "Federal private sector mandate" means any provision in legislation, statute, or regulation that—
 
 &emsp;&emsp;(A) would impose an enforceable duty upon the private sector except—
 
@@ -92,27 +92,27 @@ For purposes of this part:
 
 #### (8) Local government
 
-&emsp;The term “local government” has the same meaning as defined in section 6501(6) of title 31.
+&emsp;The term "local government" has the same meaning as defined in section 6501(6) of title 31.
 
 #### (9) Private sector
 
-&emsp;The term “private sector” means all persons or entities in the United States, including individuals, partnerships, associations, corporations, and educational and nonprofit institutions, but shall not include State, local, or tribal governments.
+&emsp;The term "private sector" means all persons or entities in the United States, including individuals, partnerships, associations, corporations, and educational and nonprofit institutions, but shall not include State, local, or tribal governments.
 
 #### (10) Regulation; rule
 
-&emsp;The term “regulation” or “rule” (except with respect to a rule of either House of the Congress) has the meaning of “rule” as defined in section 601(2) of title 5.
+&emsp;The term "regulation" or "rule" (except with respect to a rule of either House of the Congress) has the meaning of "rule" as defined in section 601(2) of title 5.
 
 #### (11) Small government
 
-&emsp;The term “small government” means any small governmental jurisdictions defined in section 601(5) of title 5 and any tribal government.
+&emsp;The term "small government" means any small governmental jurisdictions defined in section 601(5) of title 5 and any tribal government.
 
 #### (12) State
 
-&emsp;The term “State” has the same meaning as defined in section 6501(9) of title 31.
+&emsp;The term "State" has the same meaning as defined in section 6501(9) of title 31.
 
 #### (13) Tribal government
 
-&emsp;The term “tribal government” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
+&emsp;The term "tribal government" means any Indian tribe, band, nation, or other organizedgroup or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
 
 (Pub. L. 93–344, title IV, §421, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 50; amended Pub. L. 113–67, div. A, title I, §122(14), Dec. 26, 2013, 127 Stat. 1176.)
 
@@ -122,7 +122,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92
 
 #### Amendments
 
-<b>2013</b>—Par. (5)(A)(i)(II). Pub. L. 113–67 substituted “subparagraph (B)” for “subparagraph (B))”.
+<b>2013</b>—Par. (5)(A)(i)(II). Pub. L. 113–67 substituted "subparagraph (B)" for "subparagraph (B))".
 
 #### Effective Date
 

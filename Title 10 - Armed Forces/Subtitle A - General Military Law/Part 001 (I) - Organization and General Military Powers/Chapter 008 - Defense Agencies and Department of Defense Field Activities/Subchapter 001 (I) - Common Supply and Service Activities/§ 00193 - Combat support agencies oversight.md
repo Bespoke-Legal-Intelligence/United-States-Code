@@ -14,7 +14,7 @@ Combat Readiness.—(1) Periodically (and not less often than every two years), 
 
 Participation in Joint Training Exercises.—The Chairman shall—
 
-&emsp;(1) provide for the participation of the combat support agencies in joint training exercises to the extent necessary to ensure that those agencies are capable of performing their support missions with respect to a war or threat to national security; and
+&emsp;(1) provide for the participation of the combat support agencies in joint training exercises to the extent necessary to ensure that those agencies are capable of performing theirsupport missions with respect to a war or threat to national security; and
 
 &emsp;(2) assess the performance in joint training exercises of each such agency and, in accordance with guidelines established by the Secretary of Defense, take steps to provide for any change that the Chairman considers appropriate to improve that performance.
 
@@ -46,7 +46,7 @@ Definition of Combat Support Agency.—In this section, the term "combat support
 
 &emsp;(5) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18,1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, §1082, Dec. 26, 2013, 127 Stat. 871.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, §1082, Dec. 26, 2013, 127 Stat. 871.)
 
 #### Amendments
 

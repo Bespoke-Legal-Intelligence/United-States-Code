@@ -66,7 +66,7 @@ Section was formerly classified to section 401a of this title prior to editorial
 
 #### Amendments
 
-<b>2012</b>—Par. (4)(K). Pub. L. 112–87, §431, amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: "The elements of the Department of Homeland Security concerned with the analysis of intelligence information."
+<b>2012</b>—Par. (4)(K). Pub. L. 112–87, §431, amended subpar. (K) generally. Prior to amendment, subpar. (K) read asfollows: "The elements of the Department of Homeland Security concerned with the analysis of intelligence information."
 
 Par. (6). Pub. L. 112–87, §505(1), substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
@@ -128,7 +128,35 @@ For assignment of function of President under par. (5)(A) of this section to Dir
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.
 
-#### Definitions
+#### Definitions Applicable to Specific Acts
+
+Pub. L. 113–293, §2, Dec. 19, 2014, 128 Stat. 3991, provided that: "In this Act \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Congressional intelligence committees.—The term 'congressional intelligence committees' means—
+
+&emsp;&emsp;"(A) the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2)
+
+Intelligence community.—The term 'intelligence community' has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))."
+
+Pub. L. 113–126, §2, July 7, 2014, 128 Stat. 1391, provided that: "In this Act \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Congressional intelligence committees.—The term 'congressional intelligence committees' means—
+
+&emsp;&emsp;"(A) the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2)
+
+Intelligence community.—The term 'intelligence community' has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))."
 
 Pub. L. 112–87, §2, Jan. 3, 2012, 125 Stat. 1877, provided that: "In this Act \[see Tables for classification\]:
 

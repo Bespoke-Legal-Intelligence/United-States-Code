@@ -2,7 +2,7 @@
 
 #### (a) Studies on needs, problems, and costs of businesses; availability
 
-The Securities and Exchange Commission shall gather, analyze, and make available to thepublic, information with respect to the capital formation needs, and the problems and costs involved with new, small, medium-sized, and independent businesses.
+The Securities and Exchange Commission shall gather, analyze, and make available to the public, information with respect to the capital formation needs, and the problems and costs involved with new, small, medium-sized, and independent businesses.
 
 #### (b) Availability of studies to Small Business Administration
 

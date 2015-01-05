@@ -60,7 +60,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 The Secretary shall ensure the effective implementation of the rural development strategy and maximize coordination of Federal programs affecting rural areas through a systematic effort to—
 
-&emsp;(1) improve communication and encourage cooperation among Federal departments and agencies in the administration of rural development programs;
+&emsp;(1) improve communication and encourage cooperation among Federal departments andagencies in the administration of rural development programs;
 
 &emsp;(2) eliminate conflicts, duplication, and gaps in program coverage, and resolve contradictions and inconsistencies in the objectives, administration, and effects of rural development programs;
 

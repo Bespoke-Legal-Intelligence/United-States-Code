@@ -20,7 +20,7 @@ Section 1463 of title 12, referred to in the last par., was repealed by Pub. L. 
 
 In text, "sections 3111 and 3112 of title 40 and" substituted for "section 355, as amended," and "section 3112 of title 40" substituted for "the last paragraph of said section 355, as amended" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
-In text, "section 1136 of the Revised Statutes, as amended, and section 6101 of title 41" substituted for "section 1136, as amended, and section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, "section 1136 of the Revised Statutes, as amended, and section 6101 of title 41" substituted for"section 1136, as amended, and section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Abolition of Home Owners' Loan Corporation
 

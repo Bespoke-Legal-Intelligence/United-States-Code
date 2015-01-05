@@ -32,7 +32,7 @@ As amounts are deposited in the Public Safety Trust Fund, such amounts shall be 
 
 #### (5) Deficit reduction
 
-&emsp;$20,400,000,000 shall be deposited in the general fund of the Treasury, where such amount shall be dedicated for the sole purpose of deficit reduction.
+&emsp;$20,400,000,000 shall be deposited in the general fund of the Treasury, where such amountshall be dedicated for the sole purpose of deficit reduction.
 
 #### (6) 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation grants
 

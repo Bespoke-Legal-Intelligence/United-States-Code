@@ -6,7 +6,7 @@
 
 &emsp;Upon application filed by a taxpayer with the Office of the Taxpayer Advocate (in such form, manner, and at such time as the Secretary shall by regulations prescribe), the National Taxpayer Advocate may issue a Taxpayer Assistance Order if—
 
-&emsp;&emsp;(A) the National Taxpayer Advocate determines the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenue laws are being administered by the Secretary; or
+&emsp;&emsp;(A) the National Taxpayer Advocate determines the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenuelaws are being administered by the Secretary; or
 
 &emsp;&emsp;(B) the taxpayer meets such other requirements as are set forth in regulations prescribed by the Secretary.
 

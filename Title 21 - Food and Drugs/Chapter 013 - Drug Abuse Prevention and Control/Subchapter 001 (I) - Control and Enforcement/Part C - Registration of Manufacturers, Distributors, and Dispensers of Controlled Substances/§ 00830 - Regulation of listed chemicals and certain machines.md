@@ -108,7 +108,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;(ii) The seller delivers the product directly into the custody of the purchaser.
 
-&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the "logbook"), except that such requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
+&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the "logbook"), except that such requirement does not apply to any purchase by an individual of a single salespackage if that package contains not more than 60 milligrams of pseudoephedrine.
 
 &emsp;&emsp;&emsp;(iv) In the case of a sale to which the requirement of clause (iii) applies, the seller does not sell such a product unless the sale is made in accordance with the following:
 
@@ -134,7 +134,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) Such information may be captured through electronic means, including through electronic data capture through bar code reader or similar technology.
 
-&emsp;&emsp;&emsp;(v) The written or electronic logbook includes, in accordance with criteria of the Attorney General, a notice to purchasers that entering false statements or misrepresentations in the logbook, or supplying false information or identification that results in the entry of false statements or misrepresentations, may subject the purchasers to criminal penalties under section 1001 of title 18, which notice specifies themaximum fine and term of imprisonment under such section.
+&emsp;&emsp;&emsp;(v) The written or electronic logbook includes, in accordance with criteria of the Attorney General, a notice to purchasers that entering false statements or misrepresentations in the logbook, or supplying false information or identification that results in the entry of false statements or misrepresentations, may subject the purchasers to criminal penalties under section 1001 of title 18, which notice specifies the maximum fine and term of imprisonment under such section.
 
 &emsp;&emsp;&emsp;(vi) Regardless of whether the logbook entry is written or electronic, the seller maintains each entry in the logbook for not fewer than 2 years after the date on which the entry is made.
 
@@ -268,7 +268,7 @@ Subsec. (b)(3). Pub. L. 104–237, §402, added par. (3).
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §2(c)(1), substituted "list I chemical" for "precursor chemical" in subpar. (A) and "a list II chemical" for "an essential chemical" in subpar. (B).
 
-Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1), redesignated former pars. (1) to\(4) as subpars. (A) to (D), respectively, in concluding provisions, substituted "subparagraph (A)" for "paragraph (1)" in two places, "subparagraph (B)" for "paragraph (2)", and "subparagraph (C)" for "paragraph (3)", and added par. (2).
+Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, in concluding provisions, substituted "subparagraph (A)" for "paragraph (1)" in two places, "subparagraph (B)" for "paragraph (2)", and "subparagraph (C)" for "paragraph (3)", and added par. (2).
 
 Subsec. (c)(2)(D). Pub. L. 103–200, §2(c)(2), substituted "chemical control laws" for "precursor chemical laws".
 
@@ -286,7 +286,7 @@ Pub. L. 109–177, title VII, §711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided
 
 &emsp;"(B) Such subsection (e)(1) applies on and after September 30, 2006."
 
-Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\]."
+Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: "The amendments made byparagraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\]."
 
 #### Effective Date of 1993 Amendment
 

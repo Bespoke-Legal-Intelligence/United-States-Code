@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which will result from such transaction to the extent that the requirement—
 
-&emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks or out-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
+&emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks orout-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
 
 &emsp;&emsp;&emsp;&emsp;(II) is similar in effect to any requirement imposed by the host State on a nonbanking corporation incorporated in another State that engages in business in the host State; and
 
@@ -104,7 +104,7 @@
 
 #### (D) Exceptions to subparagraph (B)
 
-&emsp;&emsp;The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) of this section without regard to the applicability of subparagraph (B) with respect to any State if—
+&emsp;&emsp;The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) without regard to the applicability of subparagraph (B) with respect to any State if—
 
 &emsp;&emsp;&emsp;(i) there is a limitation described in subparagraph (C) in a State statute, regulation, or order which has the effect of permitting a bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to control a greater percentage of total deposits of all insured depository institutions in the State than the percentage permitted under subparagraph (B); or
 
@@ -126,7 +126,7 @@
 
 #### (4) Adequacy of capital and management skills
 
-&emsp;The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) of this section only if—
+&emsp;The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) only if—
 
 &emsp;&emsp;(A) each bank involved in the transaction is adequately capitalized as of the date the application is filed; and
 
@@ -142,7 +142,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No provision of this section shall be construed as affecting the authority of any State or political subdivision of any State to adopt, apply, or administer any tax or method of taxation to any bank, bank holding company, or foreign bank, or any affiliate of any bank, bank holding company, or foreign bank, to the extent such tax or tax method is otherwise permissible by or under the Constitution of the United States or other Federal law.
+&emsp;&emsp;No provision of this section shall be construed as affecting the authority of any State or political subdivision of any State toadopt, apply, or administer any tax or method of taxation to any bank, bank holding company, or foreign bank, or any affiliate of any bank, bank holding company, or foreign bank, to the extent such tax or tax method is otherwise permissible by or under the Constitution of the United States or other Federal law.
 
 #### (B) Imposition of shares tax by host States
 
@@ -194,7 +194,7 @@
 
 #### (e) Exception for banks in default or in danger of default
 
-If an application under subsection (a)(1) of this section for approval of a merger transaction which involves 1 or more banks in default or in danger of default or with respect to which the Corporation provides assistance under section 1823(c) of this title, the responsible agency may approve such application without regard to subsection (b) of this section, or paragraph (2), (4), or (5) of subsection (a) of this section.
+If an application under subsection (a)(1) for approval of a merger transaction which involves 1 or more banks in default or in danger of default or with respect to which the Corporation provides assistance under section 1823(c) of this title, the responsible agency may approve such application without regard to subsection (b), or paragraph (2), (4), or (5) of subsection (a).
 
 #### (f) Applicable rate and other charge limitations
 
@@ -206,7 +206,7 @@ If an application under subsection (a)(1) of this section for approval of a merg
 
 &emsp;&emsp;&emsp;(i) the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction under the constitution or any statute or other law of the home State of the out-of-State insured depository institution establishing any such branch, without reference to this section, as such maximum interest rate or amount of interest may change from time to time; or
 
-&emsp;&emsp;&emsp;(ii) the maximum rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction by a State insured depository institution chartered under the laws of such State or a national bank or Federal savings association whose main office is located in such State without reference to this section; and
+&emsp;&emsp;&emsp;(ii) the maximum rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction by a State insured depository institution chartered under the laws of such State or a national bank orFederal savings association whose main office is located in such State without reference to this section; and
 
 &emsp;&emsp;(B) any governmental entity located in such State or any person that is not a depository institution described in subparagraph (A) doing business in such State, shall be equal to not more than the greater of the State's maximum lawful annual percentage rate or 17 percent—
 
@@ -280,7 +280,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (6) Interstate merger transaction
 
-&emsp;The term "interstate merger transaction" means any merger transaction approved pursuant to subsection (a)(1) of this section.
+&emsp;The term "interstate merger transaction" means any merger transaction approved pursuant to subsection (a)(1).
 
 #### (7) Merger transaction
 

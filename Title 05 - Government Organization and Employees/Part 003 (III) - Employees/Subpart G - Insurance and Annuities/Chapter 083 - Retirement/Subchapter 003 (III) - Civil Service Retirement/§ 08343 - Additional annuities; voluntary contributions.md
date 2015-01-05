@@ -10,7 +10,7 @@
 
 (c) A retiring employee or Member may elect a reduced additional annuity instead of the additional annuity described by subsection (b) of this section and designate in writing an individual to receive after his death an annuity of 50 percent of his reduced additional annuity. The additional annuity of the employee or Member making the election is reduced by 10 percent, and by 5 percent for each full 5 years the individual designated is younger than the retiring employee or Member. However, the total reduction may not exceed 40 percent.
 
-(d) A present or former employee or Member is entitled to be paid the voluntary contribution account if he files application for payment with the Office before receiving an additional annuity. An individual who has been paid the voluntary contribution account may not again deposit additional sums under this section until, after a separation from the service of more than3 calendar days, he again becomes subject to this subchapter.
+(d) A present or former employee or Member is entitled to be paid the voluntary contribution account if he files application for payment with the Office before receiving an additional annuity. An individual who has been paid the voluntary contribution account may not again deposit additional sums under this section until, after a separation from the service of more than 3 calendar days, he again becomes subject to this subchapter.
 
 (e) If a present or former employee or Member not retired dies, the voluntary contribution account is paid under section 8342(c) of this title. If all additional annuities or any right thereto based on the voluntary contribution account of a deceased employee or Member terminate before the total additional annuity paid equals the account, the difference is paid under section 8342(c) of this title.
 
@@ -30,13 +30,13 @@ Act
 
 5 U.S.C. 2262.
 
-July 31, 1956, ch. 804, §401 “Sec. 12”, 70 Stat. 756.
+July 31, 1956, ch. 804, §401 "Sec. 12", 70 Stat. 756.
 
 &nbsp;
 
 Aug. 14, 1958, Pub. L. 85–661, §1, 72 Stat. 614.
 
-In subsection (a), the words “after July 31, 1920” are substituted for “on or after August 1, 1920”. In paragraph (1), the words “payment under subsection (d) of this section” are based on “but such account shall not in any case include interest beyond date of payment” in former section 2262(d); the latter, accordingly, are omitted from subsection (d).
+In subsection (a), the words "after July 31, 1920" are substituted for "on or after August 1, 1920". In paragraph (1), the words "payment under subsection (d) of this section" are based on "but such account shall not in any case include interest beyond date of payment" in former section 2262(d); the latter, accordingly, are omitted from subsection (d).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -46,9 +46,9 @@ This section amends 5 U.S.C. 8343(a)(1) for consistency within the subchapter an
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–253 inserted “through December 31, 1984, and thereafter at the rate computed under section 8334(e) of this title,”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–253 inserted "through December 31, 1984, and thereafter at the rate computed under section 8334(e) of this title,".
 
-<b>1978</b>—Subsecs. (a), (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1978</b>—Subsecs. (a), (d). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission".
 
 #### Effective Date of 1982 Amendment
 

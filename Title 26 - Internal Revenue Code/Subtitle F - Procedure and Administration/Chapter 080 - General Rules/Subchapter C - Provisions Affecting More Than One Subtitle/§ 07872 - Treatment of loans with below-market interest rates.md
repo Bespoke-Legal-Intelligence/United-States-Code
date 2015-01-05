@@ -64,7 +64,7 @@
 
 #### (E) Other below-market loans
 
-&emsp;&emsp;To the extent provided in regulations, any below-market loan which is not described insubparagraph (A), (B), (C), or (F) if the interest arrangements of such loan have a significant effect on any Federal tax liability of the lender or the borrower.
+&emsp;&emsp;To the extent provided in regulations, any below-market loan which is not described in subparagraph (A), (B), (C), or (F) if the interest arrangements of such loan have a significant effect on any Federal tax liability of the lender or the borrower.
 
 #### (F) Loans to qualified continuing care facilities
 
@@ -108,7 +108,7 @@
 
 #### (C) Special rule where more than 1 gift loan outstanding
 
-&emsp;&emsp;For purposes of subparagraph (A), in any case in which a borrower has outstanding more than 1 gift loan, the net investment income of such borrower shall be allocated among such loans in proportion to the respective amounts which would be treated as retransferred by the borrower without regard to this paragraph.
+&emsp;&emsp;For purposes of subparagraph (A), in any case in which a borrower has outstandingmore than 1 gift loan, the net investment income of such borrower shall be allocated among such loans in proportion to the respective amounts which would be treated as retransferred by the borrower without regard to this paragraph.
 
 #### (D) Limitation not to apply where aggregate amount of loans exceed $100,000
 
@@ -214,7 +214,7 @@ For purposes of this section—
 
 #### (10) Special rule for term loans
 
-&emsp;If this section applies to any term loan on any day, this section shall continue to apply to such loan notwithstanding paragraphs (2) and (3) of subsection (c). In the case of a gift loan, the preceding sentence shall only apply for purposes of chapter 12.
+&emsp;If this section applies to any term loan on any day, this section shall continue to applyto such loan notwithstanding paragraphs (2) and (3) of subsection (c). In the case of a gift loan, the preceding sentence shall only apply for purposes of chapter 12.
 
 #### (11) Time for determining rate applicable to employee relocation loans
 
@@ -344,7 +344,7 @@ For purposes of this section—
 
 #### (2) Estate tax coordination
 
-&emsp;Under regulations prescribed by the Secretary, any loan which is made with donativeintent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
+&emsp;Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
 (Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974.)
 
@@ -384,7 +384,7 @@ Subsec. (f)(11), (12). Pub. L. 100–647, §1018(u)(48), redesignated former par
 
 Subsec. (f)(2)(B). Pub. L. 99–514, §1812(b)(4), inserted ", compounded semiannually" before the period at end.
 
-Subsec. (f)(5). Pub. L. 99–514, §1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'demand loan' means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which is conditioned on the future performance of substantial services by an individual."
+Subsec. (f)(5). Pub. L. 99–514, §1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'demand loan' means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which isconditioned on the future performance of substantial services by an individual."
 
 Subsec. (f)(9). Pub. L. 99–514, §1812(b)(2), amended par. (9) generally, inserting the subpar. (A) designation and adding subpar. (B).
 

@@ -48,7 +48,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces who qualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under section 16131 of this title.
+Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces who qualify for educational assistance under this chapter onor after such date, see section 705(b) of Pub. L. 98–525, set out as a note under section 16131 of this title.
 
 #### Savings Provision
 

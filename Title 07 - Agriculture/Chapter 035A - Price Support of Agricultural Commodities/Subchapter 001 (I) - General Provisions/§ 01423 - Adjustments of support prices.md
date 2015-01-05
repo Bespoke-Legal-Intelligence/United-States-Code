@@ -12,7 +12,7 @@ The Secretary may make appropriate adjustments in the support price for cotton f
 
 Notwithstanding any other provision of this section, for each of the 1990 through 1995 crops of wheat and feed grains, no adjustment in the loan rate applicable to a particular region, State, or county for the purpose of reflecting transportation differentials may increase or decrease the regional, State, or county loan rate from the level established for the previous year by more than the percentage change in the national average loan rate plus or minus 3 percent.
 
-(Oct. 31, 1949, ch. 792, title IV, §403, 63 Stat. 1054; Pub. L. 85–835, title I, §§108, 111, Aug. 28, 1958, 72 Stat. 993; Pub. L. 89–321, title VIII, §802, Nov. 3, 1965, 79 Stat. 1213; Pub. L. 97–98, title V, §507, Dec. 22, 1981, 95 Stat. 1241; Pub. L. 100–203, title I, §1105, Dec. 22, 1987, 101 Stat. 1330–5; Pub. L. 101–624, title XI, §1128, title XX, §2011, Nov. 28, 1990, 104 Stat. 3508, 3932.)
+(Oct. 31, 1949, ch. 792, title IV, §403, 63 Stat. 1054; Pub. L. 85–835, title I, §§108, 111, Aug. 28, 1958, 72 Stat. 993; Pub. L. 89–321, title VIII, §802, Nov. 3, 1965, 79 Stat. 1213; Pub. L. 97–98, title V, §507,Dec. 22, 1981, 95 Stat. 1241; Pub. L. 100–203, title I, §1105, Dec. 22, 1987, 101 Stat. 1330–5; Pub. L. 101–624, title XI, §1128, title XX, §2011, Nov. 28, 1990, 104 Stat. 3508, 3932.)
 
 #### References in Text
 
@@ -20,7 +20,7 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–624, §2011, inserted at end of subsec. (a) "Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors inaddition to any other premiums or discounts related to quality."
+<b>1990</b>—Pub. L. 101–624, §2011, inserted at end of subsec. (a) "Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality."
 
 Pub. L. 101–624, §1128, in amending section generally, designated part of existing text as subsecs. (a), (b), and (c), and in subsec. (a) inserted provisions excluding cotton, in subsec. (b) substituted reference to 1991 crop for reference to 1982 crop, and substituted reference to quality factors for reference to grade, staple and micronaire, and in subsec. (c) substituted reference to 1990 through 1995 crops for reference to 1988 through 1990 crops, substituted reference to 3 percent for reference to 2 percent, and struck out provisions relating to establishment and duties of a study committee and authority of Secretary to review and revise procedures and criteria for establishing values of premiums and discounts for grade, staple and micronaire for upland cotton program.
 
@@ -45,6 +45,10 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(10) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(10) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 

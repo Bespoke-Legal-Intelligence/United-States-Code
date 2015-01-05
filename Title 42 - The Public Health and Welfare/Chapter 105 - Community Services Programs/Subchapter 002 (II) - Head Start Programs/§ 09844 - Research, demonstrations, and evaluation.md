@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) foster continuous improvement in the quality of the Head Start programs under this subchapter and in their effectiveness in enabling participating children and their families to succeed in school and otherwise; and
 
-&emsp;&emsp;(B) use the Head Start programs to develop, test, and disseminate new ideas basedon existing scientifically valid research, for addressing the needs of low-income preschool children (including children with disabilities, homeless children, children who have been abused or neglected, and children in foster care) and their families and communities (including demonstrations of innovative non-center-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.
+&emsp;&emsp;(B) use the Head Start programs to develop, test, and disseminate new ideas based on existing scientifically valid research, for addressing the needs of low-income preschool children (including children with disabilities, homeless children, children who have been abused or neglected, and children in foster care) and their families and communities (including demonstrations of innovative non-center-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.
 
 #### (2) Plan
 
@@ -60,7 +60,7 @@ The research, demonstration, and evaluation activities under this subchapter sha
 
 &emsp;(5)(A) identify successful strategies that promote good oral health and provide effective linkages to quality dental services through pediatric dental referral networks, for infants and toddlers participating in Early Head Start programs and children participating in other Head Start programs; and
 
-&emsp;(B) identify successful strategies that promote good vision health through vision screenings for such infants, toddlers, and children, and referrals for appropriate followup care for those identified as having a vision problem;
+&emsp;(B) identify successful strategies that promote good vision health through visionscreenings for such infants, toddlers, and children, and referrals for appropriate followup care for those identified as having a vision problem;
 
 &emsp;(6) permit comparisons of children and families participating in Head Start programs with children and families receiving other child care, early childhood education and development or services <sup>1</sup> programs and with other appropriate control groups;
 
@@ -214,7 +214,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 &emsp;&emsp;&emsp;(iv) the correlation between such progress and the health and family services provided by such programs to limited English proficient children and their families; and
 
-&emsp;&emsp;(G) the extent to which Head Start programs and Early Head Start programs makeuse of funds under section 9835(a)(2)(D) of this title to improve the quality of such services provided to limited English proficient children and their families.
+&emsp;&emsp;(G) the extent to which Head Start programs and Early Head Start programs make use of funds under section 9835(a)(2)(D) of this title to improve the quality of such services provided to limited English proficient children and their families.
 
 #### (i) Research and evaluation activities relevant to diverse communities
 
@@ -332,7 +332,7 @@ The Secretary shall—
 
 #### (3) Report to Congress
 
-&emsp;Not later than 18 months after December 12, 2007, the Secretary shall prepare and submit to Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions ofthe Senate a report containing the results of the evaluation required under paragraph (2), including—
+&emsp;Not later than 18 months after December 12, 2007, the Secretary shall prepare and submit to Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report containing the results of the evaluation required under paragraph (2), including—
 
 &emsp;&emsp;(A) recommendations for improvements to Federal, State, and local preparedness and response capabilities to large-scale emergencies, including those that were developed in response to hurricanes Katrina, Rita, and Wilma, as they relate to Head Start programs, including Early Head Start programs, and the Secretary's plan to implement such recommendations;
 

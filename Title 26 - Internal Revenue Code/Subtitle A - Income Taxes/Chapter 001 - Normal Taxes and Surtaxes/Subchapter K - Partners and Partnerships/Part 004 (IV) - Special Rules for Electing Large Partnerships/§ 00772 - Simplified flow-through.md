@@ -58,7 +58,7 @@ In determining the amounts required under subsection (a) to be separately taken 
 
 #### (4) Treatment of net capital gain or loss
 
-&emsp;For purposes of this chapter, any partner's distributive share of any gain or loss describedin subsection (a)(3) shall be treated as a long-term capital gain or loss, as the case may be.
+&emsp;For purposes of this chapter, any partner's distributive share of any gain or loss described in subsection (a)(3) shall be treated as a long-term capital gain or loss, as the case may be.
 
 #### (5) Minimum tax treatment
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;The net capital gain shall be treated—
 
-&emsp;&emsp;&emsp;(i) as allocable to passive loss limitation activities to the extent the net capital gain does not exceed the net capital gain determined by only taking into account gains and losses from sales and exchanges of property used in connection with such activities, and
+&emsp;&emsp;&emsp;(i) as allocable to passive loss limitation activities to the extent the net capitalgain does not exceed the net capital gain determined by only taking into account gains and losses from sales and exchanges of property used in connection with such activities, and
 
 &emsp;&emsp;&emsp;(ii) as allocable to other activities to the extent such gain exceeds the amount allocated under clause (i).
 

@@ -32,7 +32,7 @@ Except as otherwise expressly provided in this chapter, the Administrator of the
 
 #### (e) Public participation in development, revision, and enforcement of any regulation, etc.
 
-Public participation in the development, revision, and enforcement of any regulation, standard, effluent limitation, plan, or program established by the Administrator or any State under this chapter shall be provided for, encouraged, and assisted by the Administrator and the States. The Administrator, in cooperation with the States, shall develop and publish regulations specifying minimum guidelines for public participation in such processes.
+Public participation in the development, revision, and enforcement of any regulation, standard, effluent limitation, plan, or program established by the Administrator or any State under this chapter shall be provided for, encouraged, and assisted by the Administrator and theStates. The Administrator, in cooperation with the States, shall develop and publish regulations specifying minimum guidelines for public participation in such processes.
 
 #### (f) Procedures utilized for implementing chapter
 
@@ -70,7 +70,7 @@ Pub. L. 107–303, title II, §201, Nov. 27, 2002, 116 Stat. 2358, provided that
 
 Pub. L. 106–457, title II, §201, Nov. 7, 2000, 114 Stat. 1967, provided that: "This title \[amending section 1267 of this title and enacting provisions set out as a note under section 1267 of this title\] may be cited as the 'Chesapeake Bay Restoration Act of 2000'."
 
-Pub. L. 106–457, title IV, §401, Nov. 7, 2000, 114 Stat. 1973, provided that: "This title \[amending section 1269of this title\] may be cited as the 'Long Island Sound Restoration Act'."
+Pub. L. 106–457, title IV, §401, Nov. 7, 2000, 114 Stat. 1973, provided that: "This title \[amending section 1269 of this title\] may be cited as the 'Long Island Sound Restoration Act'."
 
 Pub. L. 106–457, title V, §501, Nov. 7, 2000, 114 Stat. 1973, provided that: "This title \[enacting section 1273 of this title\] may be cited as the 'Lake Pontchartrain Basin Restoration Act of 2000'."
 
@@ -104,7 +104,7 @@ Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: "This Act \[
 
 #### Short Title of 1977 Amendment
 
-Section 1 of Pub. L. 95–217 provided: "That this Act \[enacting sections 1281a, 1294 to 1296, and 1297 of this title, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Clean Water Act of 1977'."
+Section 1 of Pub. L. 95–217 provided: "That this Act \[enacting sections 1281a, 1294 to 1296, and 1297 of thistitle, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Clean Water Act of 1977'."
 
 #### Short Title
 
@@ -242,7 +242,7 @@ Pub. L. 92–500, §6, Oct. 18, 1972, 86 Stat. 897, provided that:
 
 &emsp;&emsp;"(C) in any way reimburses or otherwise subsidizes its manufacturers for the costs of such program;
 
-&emsp;"(4) alternative means by which any competitive advantage accruing to the products of any foreign nation as a result of any factor described in paragraph (3) may be (A) accurately and quickly determined, and (B) equalized, for example, by the imposition of a surcharge or duty, on a foreign product in an amount necessary to compensate for such advantage; and
+&emsp;"(4) alternative means by which any competitive advantage accruing to the products of any foreign nation as a result of any factor described in paragraph (3) may be (A) accurately and quickly determined, and (B) equalized, for example, by the imposition ofa surcharge or duty, on a foreign product in an amount necessary to compensate for such advantage; and
 
 &emsp;"(5) the impact, if any, which the imposition of a compensating tariff of other equalizing measure may have in encouraging foreign nations to implement pollution and abatement control programs.
 
@@ -274,7 +274,7 @@ Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under sectio
 
 #### Executive Order No. 11548
 
-Ex. Ord. No. 11548, July 20, 1970, 35 F.R. 11677, which related to the delegation of Presidential functions, wassuperseded by Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, formerly set out as a note under section 1321 of this title.
+Ex. Ord. No. 11548, July 20, 1970, 35 F.R. 11677, which related to the delegation of Presidential functions, was superseded by Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, formerly set out as a note under section 1321 of this title.
 
 #### Ex. Ord. No. 11742. Delegation of Functions to Secretary of State Respecting the Negotiation of International Agreements Relating to the Enhancement of the Environment
 

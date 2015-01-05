@@ -1,6 +1,6 @@
 ### §3347. Exclusivity
 
-(a) Sections 3345 and 3346 are the exclusive means for temporarily authorizing an acting official to perform the functions and duties of any office of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) forwhich appointment is required to be made by the President, by and with the advice and consent of the Senate, unless—
+(a) Sections 3345 and 3346 are the exclusive means for temporarily authorizing an acting official to perform the functions and duties of any office of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) for which appointment is required to be made by the President, by and with the advice and consent of the Senate, unless—
 
 &emsp;(1) a statutory provision expressly—
 
@@ -20,9 +20,9 @@ A prior section 3347, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided fo
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions of subsec. (a) and in subsec. (b).
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions of subsec. (a) and in subsec. (b).
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–31 substituted “subsection (a)(1)” for “subsection (a)(2)”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–31 substituted "subsection (a)(1)" for "subsection (a)(2)".
 
 #### Effective Date
 

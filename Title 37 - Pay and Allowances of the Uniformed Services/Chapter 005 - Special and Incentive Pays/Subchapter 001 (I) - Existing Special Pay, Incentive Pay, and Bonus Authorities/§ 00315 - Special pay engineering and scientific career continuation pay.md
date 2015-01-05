@@ -22,7 +22,7 @@
 
 > may, upon acceptance of the written agreement by the Secretary concerned, be paid, in addition to all other compensation to which the officer is entitled, an amount not to exceed $3,000 multiplied by the number of years, or monthly fraction thereof, of obligated service to which the officer agrees under the agreement. The total amount payable may be paid in a lump sum or in equal periodic installments, as determined by the Secretary concerned.
 
-(c) An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty as specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
+(c) An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active dutyas specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (Added Pub. L. 97–60, title I, §120(a), Oct. 14, 1981, 95 Stat. 998; amended Pub. L. 99–145, title VI, §637(a), Nov. 8, 1985, 99 Stat. 648; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 109–163, div. A, title VI, §687(b)(24), Jan. 6, 2006, 119 Stat. 3331.)
 

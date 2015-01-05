@@ -88,7 +88,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 270 days after the termination of authority under this section under subsection (c), the Comptroller General of the UnitedStates shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report analyzing the effectiveness of the program under this section.
+In general.—Not later than 270 days after the termination of authority under this section under subsection (c), the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report analyzing the effectiveness of the program under this section.
 
 &emsp;"(2)
 

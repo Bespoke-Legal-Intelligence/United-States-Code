@@ -14,7 +14,7 @@ For purposes of this section, the term "permitted year" means a taxable year whi
 
 > For purposes of paragraph (2), any deferral of income to shareholders shall not be treated as a business purpose.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 98–369, div. A, title VII, §721(m), (q), July 18, 1984, 98 Stat. 969, 970; Pub. L. 99–514, title VIII, §806(b), Oct. 22, 1986, 100 Stat. 2363.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 98–369, div. A, title VII,§721(m), (q), July 18, 1984, 98 Stat. 969, 970; Pub. L. 99–514, title VIII, §806(b), Oct. 22, 1986, 100 Stat. 2363.)
 
 #### Prior Provisions
 
@@ -52,7 +52,7 @@ Change in accounting period.—In the case of any partnership, S corporation, or
 
 &emsp;"(B) such change shall be treated as having been made with the consent of the Secretary, and
 
-&emsp;"(C) with respect to any partner or shareholder of an S corporation which is required to include the items from more than 1 taxable year of the partnership or S corporation in any 1 taxable year, income in excess of expenses of such partnership or corporation for the short taxable year required by such amendments shall be taken into account ratably in each of the first 4 taxable years beginning after December 31, 1986, unless such partner or shareholder elects to include all such income in the the \[sic\] partner's or shareholder's taxable year with or withinwhich the partnership's or S corporation's short taxable year ends.
+&emsp;"(C) with respect to any partner or shareholder of an S corporation which is required to include the items from more than 1 taxable year of the partnership or S corporation in any 1 taxable year, income in excess of expenses of such partnership or corporation for the short taxable year required by such amendments shall be taken into account ratably in each of the first 4 taxable years beginning after December 31, 1986, unless such partner or shareholder elects to include all such income in the the \[sic\] partner's or shareholder's taxable year with or within which the partnership's or S corporation's short taxable year ends.
 
 > Subparagraph (C) shall apply to a shareholder of an S corporation only if such corporation was an S corporation for a taxable year beginning in 1986.
 

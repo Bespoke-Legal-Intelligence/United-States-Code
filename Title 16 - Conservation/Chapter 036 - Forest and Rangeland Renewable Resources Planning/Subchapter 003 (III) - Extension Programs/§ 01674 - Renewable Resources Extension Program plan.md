@@ -22,7 +22,7 @@ Subsec. (c) of this section, which required the Secretary to prepare an annual r
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1251(c), inserted before period at end ", and give special attention towater quality protection and natural resource and environmental education for landowners and managers, public officials, and the public".
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1251(c), inserted before period at end ", and give special attention to water quality protection and natural resource and environmental education for landowners and managers, public officials, and the public".
 
 Pub. L. 101–624, §1219(b)(2), substituted "for urban and community forestry activities" for "for planting and management of trees and forests in urban areas".
 

@@ -1,6 +1,6 @@
 ### §12732. Entitlement to retired pay: computation of years of service
 
-(a) Except as provided in subsection (b), for the purpose of determining whether a person isentitled to retired pay under section 12731 of this title, the person's years of service are computed by adding the following:
+(a) Except as provided in subsection (b), for the purpose of determining whether a person is entitled to retired pay under section 12731 of this title, the person's years of service are computed by adding the following:
 
 &emsp;(1) The person's years of service, before July 1, 1949, in the following:
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(D) Points credited for the year under section 2126(b) of this title.
 
-&emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
+&emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title orsection 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
 
 > &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
@@ -76,7 +76,7 @@
 
 &emsp;(8) Service in the screening performed pursuant to section 10149 of this title through electronic means, regardless of whether or not a stipend is paid the member concerned for such service under section 433a of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Pub. L. 85–861, §33(a)(9), Sept. 2, 1958, 72 Stat. 1565;Pub. L. 86–197, §1(1)–(3), Aug. 25, 1959, 73 Stat. 425; Pub. L. 88–636, §1, Oct. 8, 1964, 78 Stat. 1034; Pub. L. 93–545, §1, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–513, title V, §511(48), Dec. 12, 1980, 94 Stat. 2924; renumbered §12732 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000; Pub. L. 104–201, div. A, title V, §543(b)(1), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 106–65, div. A, title V, §578(h)(1), Oct. 5, 1999, 113 Stat. 628; Pub. L. 109–163, div. A, title V, §515(b)(1)(MM), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–181, div. A, title VI, §633(c), Jan. 28, 2008, 122 Stat. 155.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Pub. L. 85–861, §33(a)(9), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 86–197, §1(1)–(3), Aug. 25, 1959, 73 Stat. 425; Pub. L. 88–636, §1, Oct. 8, 1964, 78 Stat. 1034; Pub. L. 93–545, §1, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–513, title V, §511(48), Dec. 12, 1980, 94 Stat. 2924; renumbered §12732 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000; Pub. L. 104–201, div. A, title V, §543(b)(1), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 106–65, div. A, title V, §578(h)(1), Oct. 5, 1999, 113 Stat. 628; Pub. L. 109–163, div. A, title V, §515(b)(1)(MM), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–181, div. A, title VI, §633(c), Jan. 28, 2008, 122 Stat. 155.)
 
 Historical and Revision Notes<br>1956
 
@@ -162,7 +162,7 @@ In subsection (a)(2)(A) and (B), specific reference is made to National Guard se
 
 In subsection (a)(2)(C), the words "other than active Federal service" are omitted, since the points for membership are not reduced by active duty (see opinion of the Judge Advocate General of the Army (JAGA, 1953/2016, 3 Mar. 1953)).
 
-In subsections (a) and (b), the words "active service" are substituted for the words "active Federal service" for uniformity of expression. In clause (5), the words "transferred thereto after completion of 16 or more years of active naval service" are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
+In subsections (a) and (b), the words "active service" are substituted for the words "active Federal service"for uniformity of expression. In clause (5), the words "transferred thereto after completion of 16 or more years of active naval service" are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
 
 Subsection (b)(1)–(4) is inserted because of 10:1036e(e) and (f) and 34:440m(e) and (f), which state that the service enumerated in those clauses may not be considered in determining eligibility for retired pay under this chapter. Clause (5) is based on the exclusions in 34:440m(c)(8)–(9).
 

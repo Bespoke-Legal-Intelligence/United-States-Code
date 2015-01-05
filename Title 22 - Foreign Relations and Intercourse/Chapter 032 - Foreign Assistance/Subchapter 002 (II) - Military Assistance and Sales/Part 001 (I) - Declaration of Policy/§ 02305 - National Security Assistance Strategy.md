@@ -24,7 +24,7 @@ The National Security Assistance Strategy should—
 
 &emsp;(8) discuss how specific types of assistance, such as foreign military financing and international military education and training, will be combined at the country level to achieve United States objectives; and
 
-&emsp;(9) detail, with respect to each of the paragraphs (1) through (8), how specific types of assistance provided pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] and theForeign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] are coordinated with United States assistance programs managed by the Department of Defense and other agencies.
+&emsp;(9) detail, with respect to each of the paragraphs (1) through (8), how specific types of assistance provided pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] and the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] are coordinated with United States assistance programs managed by the Department of Defense and other agencies.
 
 #### (c) Covered assistance
 

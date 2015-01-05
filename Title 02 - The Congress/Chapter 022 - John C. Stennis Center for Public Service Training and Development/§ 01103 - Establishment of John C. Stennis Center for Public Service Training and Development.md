@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the legislative branch of the Government a center to be known as the “John C. Stennis Center for Public Service Training and Development”.
+There is established in the legislative branch of the Government a center to be known as the "John C. Stennis Center for Public Service Training and Development".
 
 #### (b) Board of Trustees
 
@@ -20,7 +20,7 @@ The Center shall be subject to the supervision and direction of a Board of Trust
 
 #### (c) Term of office
 
-The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) of this section shall be six years, except that—
+The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) shall be six years, except that—
 
 &emsp;(1) the members first appointed under paragraphs (1) and (2) shall serve, as designated by the majority leader of the Senate, one for a term of two years, one for a term of four years, and one for a term of six years;
 

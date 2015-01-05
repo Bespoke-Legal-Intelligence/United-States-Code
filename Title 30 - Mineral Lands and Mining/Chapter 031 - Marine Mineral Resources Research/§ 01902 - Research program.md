@@ -12,7 +12,7 @@ The goal of the program shall be to—
 
 &emsp;(2) assist in developing domestic technologies required for efficient and environmentally sound development of marine mineral resources;
 
-&emsp;(3) coordinate and promote the use of technologies developed with Federal assistance,and the use of available Federal assets, for research, identification, assessment, exploration, and development of marine mineral resources; and
+&emsp;(3) coordinate and promote the use of technologies developed with Federal assistance, and the use of available Federal assets, for research, identification, assessment, exploration, and development of marine mineral resources; and
 
 &emsp;(4) encourage academia and industry to conduct basic and applied research, on a joint basis, through grants, cooperative agreements, or contracts with the Federal Government.
 

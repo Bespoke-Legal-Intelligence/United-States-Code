@@ -104,7 +104,7 @@ Sex offender management programs.—The Bureau of Prisons shall establish non-re
 
 &emsp;&emsp;(B)
 
-Residential sex offender treatment programs.—The Bureau of Prisons shall establish residential sex offender treatmentprograms to provide treatment to sex offenders who volunteer for such programs and are deemed by the Bureau of Prisons to be in need of and suitable for residential treatment.
+Residential sex offender treatment programs.—The Bureau of Prisons shall establish residential sex offender treatment programs to provide treatment to sex offenders who volunteer for such programs and are deemed by the Bureau of Prisons to be in need of and suitable for residential treatment.
 
 &emsp;(2)
 

@@ -32,7 +32,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 #### (d) Applications
 
-A State, unit of local government, territory, or Indian Tribe, or combination thereof, desiringa grant under this section shall submit an application to the Attorney General that—
+A State, unit of local government, territory, or Indian Tribe, or combination thereof, desiring a grant under this section shall submit an application to the Attorney General that—
 
 &emsp;(1) contains a reentry strategic plan, as described in subsection (h), which describes the long-term strategy and incorporates a detailed implementation schedule, including the plans of the applicant to pay for the program after the Federal funding is discontinued;
 
@@ -110,7 +110,7 @@ The Attorney General shall give priority to grant applications under this sectio
 
 #### (1) In general
 
-&emsp;As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, tothe maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.
+&emsp;As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.
 
 #### (2) Coordination
 
@@ -280,7 +280,7 @@ Of amounts made available to carry out this section—
 
 #### (A) Limitation
 
-&emsp;&emsp;Of the amount made available to carry out this section for any fiscal year, not morethan 3 percent or less than 2 percent may be used for technical assistance and training.
+&emsp;&emsp;Of the amount made available to carry out this section for any fiscal year, not more than 3 percent or less than 2 percent may be used for technical assistance and training.
 
 #### (B) Equitable distribution
 

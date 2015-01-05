@@ -64,7 +64,7 @@ Not later than 1 year after August 8, 2005, the Secretary shall submit to Congre
 
 #### (2) New duties
 
-&emsp;In addition to its duties under the National Geologic Mapping Act of 1992 (43 U.S.C. 31a et seq.), the Advisory Committee shall perform the following duties:
+&emsp;In addition to its duties under the National Geologic Mapping Act of 1992 (43 U.S.C. 31a etseq.), the Advisory Committee shall perform the following duties:
 
 &emsp;&emsp;(A) Advise the Secretary on developing guidelines and procedures for providing assistance for facilities under subsection (g)(1).
 

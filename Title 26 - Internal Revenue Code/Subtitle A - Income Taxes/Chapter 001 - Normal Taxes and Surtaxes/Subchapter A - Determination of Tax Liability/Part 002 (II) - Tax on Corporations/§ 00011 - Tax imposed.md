@@ -142,7 +142,7 @@ Subsec. (d)(3). Pub. L. 86–779 inserted "and real estate investment trusts" af
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13221(d), Aug. 10, 1993, 107 Stat. 477, provided that: "The amendments made by this section \[amending this section and sections 852, 1201, and 1445 of this title\] shall apply to taxable years beginning on or after January 1, 1993; except that theamendment made by subsection (c)(3) \[amending section 1445 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\]."
+Pub. L. 103–66, title XIII, §13221(d), Aug. 10, 1993, 107 Stat. 477, provided that: "The amendments made by this section \[amending this section and sections 852, 1201, and 1445 of this title\] shall apply to taxable years beginning on or after January 1, 1993; except that the amendment made by subsection (c)(3) \[amending section 1445 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years beginning
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–809, title I, §104(n), Nov. 13, 1966, 80 Stat. 1563, provided that: "The amendments made by this section (other than subsection (k)) \[enacting section 6683 to this title and amending this section and sections 245, 301, 512, 542, 543, 545, 819, 821, 822, 831, 832, 841, 842, 881, 882, 884, 952, 953, 1249, 1442, and 6016 of this title\] shall apply with respect to taxable years beginning after December 31, 1966. The amendment made by subsection (k) \[amending section 1248(d)(4) of this title\] shall apply with respect to sales or exchanges occurring after December 31, 1966."
+Pub. L. 89–809, title I, §104(n), Nov. 13, 1966, 80 Stat. 1563, provided that: "The amendments made by this section (other than subsection (k)) \[enacting section6683 to this title and amending this section and sections 245, 301, 512, 542, 543, 545, 819, 821, 822, 831, 832, 841, 842, 881, 882, 884, 952, 953, 1249, 1442, and 6016 of this title\] shall apply with respect to taxable years beginning after December 31, 1966. The amendment made by subsection (k) \[amending section 1248(d)(4) of this title\] shall apply with respect to sales or exchanges occurring after December 31, 1966."
 
 #### Effective Date of 1964 Amendment
 

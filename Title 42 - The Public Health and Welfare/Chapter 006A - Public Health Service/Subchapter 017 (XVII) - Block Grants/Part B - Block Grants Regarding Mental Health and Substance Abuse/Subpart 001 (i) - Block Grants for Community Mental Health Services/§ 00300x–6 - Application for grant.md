@@ -22,7 +22,7 @@ For purposes of section 300x of this title, an application for a grant under suc
 
 In the case of any territory of the United States except Puerto Rico, the Secretary may waive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–5 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1917, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106Stat. 384; amended Pub. L. 106–310, div. B, title XXXII, §3204(d), (e), Oct. 17, 2000, 114 Stat. 1193.)
+(July 1, 1944, ch. 373, title XIX, §1917, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 384; amended Pub. L. 106–310, div. B, title XXXII, §3204(d), (e), Oct. 17, 2000, 114 Stat. 1193.)
 
 #### References in Text
 

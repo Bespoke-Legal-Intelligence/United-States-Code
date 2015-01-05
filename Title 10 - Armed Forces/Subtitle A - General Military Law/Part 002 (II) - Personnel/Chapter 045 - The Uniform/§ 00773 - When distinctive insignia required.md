@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) an educational institution having a regular course of military instruction, and having a member of the Army, Navy, Air Force, or Marine Corps as instructor in military science and tactics.
 
-&emsp;(2) The uniform prescribed by a military society composed of persons discharged honorably or under honorable conditions from theArmy, Navy, Air Force, or Marine Corps to be worn by a member of that society when authorized by regulations prescribed by the President.
+&emsp;(2) The uniform prescribed by a military society composed of persons discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps to be worn by a member of that society when authorized by regulations prescribed by the President.
 
 (b) A uniform prescribed under subsection (a) may not include insignia of grade the same as, or similar to, those prescribed for officers of the Army, Navy, Air Force, or Marine Corps.
 

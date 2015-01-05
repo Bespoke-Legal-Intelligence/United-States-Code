@@ -26,7 +26,7 @@ No assistance shall be furnished on a loan basis under part I of subchapter I of
 
 &emsp;(C) has imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect of nationalizing, expropriating, or otherwise seizing ownership or control of property so owned,
 
-> and such country, government agency, or government subdivision fails within a reasonable time (not more than six months after such action, or, in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received) to take appropriate steps, which may include arbitration, to discharge its obligations under international law toward such citizen or entity, including speedy compensation for such property in convertibleforeign exchange, equivalent to the full value thereof, as required by international law, or fails to take steps designed to provide relief from such taxes, exactions, or conditions, as the case may be; and such suspension shall continue until the President is satisfied that appropriate steps are being taken, and provisions of this subsection shall not be waived with respect to any country unless the President determines and certifies that such a waiver is important to the national interests of the United States. Such certification shall be reported immediately to Congress.
+> and such country, government agency, or government subdivision fails within a reasonable time (not more than six months after such action, or, in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received) to take appropriate steps, which may include arbitration, to discharge its obligations under international law toward such citizen or entity, including speedy compensation for such property in convertible foreign exchange, equivalent to the full value thereof, as required by international law, or fails to take steps designed to provide relief from such taxes, exactions, or conditions, as the case may be; and such suspension shall continue until the President is satisfied that appropriate steps are being taken, and provisions of this subsection shall not be waived with respect to any country unless the President determines and certifies that such a waiver is important to the national interests of the United States. Such certification shall be reported immediately to Congress.
 
 Upon request of the President (within seventy days after such action referred to in subparagraphs (A), (B), or (C) of this paragraph, the Foreign Claims Settlement Commission of the United States (established pursuant to Reorganization Plan No. 1 of 1954, 68 Stat. 1279) is hereby authorized to evaluate expropriated property, determining the full value of any property nationalized, expropriated, or seized, or subjected to discriminatory or other actions as aforesaid, for purposes of this subsection and to render an advisory report to the President within ninety days after such request. Unless authorized by the President, the Commission shall not publish its advisory report except to the citizen or entity owning such property. There is hereby authorized to be appropriated such amount, to remain available until expended, as may be necessary from time to time to enable the Commission to carry out expeditiously its functions under this subsection.
 
@@ -46,7 +46,7 @@ Upon request of the President (within seventy days after such action referred to
 
 &emsp;Tibet,<sup>1</sup>
 
-(2) Notwithstanding the provisions of paragraph (1) of this subsection, the President may remove a country, for such period as the President determines, from the application of this subsection, and other provisions which reference this subsection, if the President determines and reports to the Congress that such action is important to the national interest of the United States. It is the sense of the Congress that when consideration is given to authorizing assistance to a country removed from the application of this subsection, one of the factors to be weighed, among others, is whether the country in question is giving evidence of fostering the establishment of a genuinely democratic system, with respect for internationally recognized human rights.
+(2) Notwithstanding the provisions of paragraph (1) of this subsection, the President may remove a country, for such period as the President determines, from the application of this subsection, and other provisions which reference this subsection, if the President determines and reports to the Congress that such action is important to the national interest of the United States. It is the sense of the Congress that whenconsideration is given to authorizing assistance to a country removed from the application of this subsection, one of the factors to be weighed, among others, is whether the country in question is giving evidence of fostering the establishment of a genuinely democratic system, with respect for internationally recognized human rights.
 
 #### (g) Use of assistance funds to compensate owners for expropriated or nationalized property; waiver for land reform programs
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, no monetary assistance shall be made
 
 #### (h) Regulations and procedures to insure aid is not used contrary to the best interests of the United States
 
-The President shall adopt regulations and establish procedures to insure that United States foreign aid is not used in a manner which, contrary to the best interests of the United States, promotes or assists the foreign aid projects or activities of any country that is a Communist country for purposes of subsection (f) of this section.
+The President shall adopt regulations and establish procedures to insure that United States foreign aid is not used in a manner which, contrary to the best interests of the United States, promotes or assists the foreign aid projects or activities of any country that is a Communist country for purposes of subsection (f).
 
 #### (i) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560
 
@@ -130,7 +130,7 @@ In any decision to provide or continue to provide any program of assistance to a
 
 #### Amendment of Section
 
-<i>Pub. L. 104–114, title II, §204(d)(1), (2), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsec. (a) and by striking out "Republic of Cuba" in subsec. (f).</i>
+<i>Pub. L. 104–114, title II, §204(d)(1), (2), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democrat</i><i>ically elected government in Cuba is in power, this section is amended by repealing subsec. (a) and by striking out "Republic of Cuba" in subsec. (f).</i>
 
 #### References in Text
 
@@ -148,7 +148,7 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 Subsec. (s)(2) of this section, which required the President to report annually to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate on actions taken to carry out this provision, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 26 of House Document No. 103–7.
 
-Subsec. (x) was omitted pursuant to Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, which provided thatsubsec. (x) be of no further force and effect upon the President's determination and certification of certain conditions precedent which was made by Presidential Memorandum dated Sept. 26, 1978. See notes set out below.
+Subsec. (x) was omitted pursuant to Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, which provided that subsec. (x) be of no further force and effect upon the President's determination and certification of certain conditions precedent which was made by Presidential Memorandum dated Sept. 26, 1978. See notes set out below.
 
 #### Amendments
 
@@ -158,7 +158,7 @@ Subsec. (x) was omitted pursuant to Pub. L. 95–384, §13(a), Sept. 26, 1978, 9
 
 <b>1994</b>—Subsec. (f)(1). Pub. L. 103–306, which directed the amendment of par. (1) by striking out from the list of countries "Mongolian People's Republic.", was executed by striking out "Mongolian People's Republic," to reflect the probable intent of Congress.
 
-<b>1993</b>—Subsec. (h). Pub. L. 103–199 substituted "any country that is a Communist country for purposes of subsection (f) of this section" for "the Communist-bloc countries".
+<b>1993</b>—Subsec. (h). Pub. L. 103–199 substituted "any country that is a Communist country for purposes of subsection (f)" for "the Communist-bloc countries".
 
 <b>1992</b>—Subsec. (f)(1). Pub. L. 102–511, which directed the amendment of par. (1) by striking out from the list of countries "Czechoslovak Socialist Republic.", "Estonia.", "German Democratic Republic.", "Hungarian People's Republic.", "Latvia.", "Lithuania.", "People's Republic of Albania.", "People's Republic of Bulgaria.", "Polish People's Republic.", "Socialist Federal Republic of Yugoslavia.", "Socialist Republic of Romania.", and "Union of Soviet Socialist Republics (including its captive constituent republics).", was executed by striking out those countries and the comma which followed each country in the original and not a period as shown in the directory language.
 
@@ -192,7 +192,7 @@ Subsec. (a)(3). Pub. L. 95–88, §123(a)(2), struck out par. (3) which had dire
 
 Subsec. (n). Pub. L. 95–88, §123(b), struck out subsec. (n) which had prohibited the giving of aid to countries that sold or furnished to North Vietnam, or permitted their ships or aircraft to carry to or from North Vietnam, equipment, materials, or commodities, unless the President determined that the giving of aid was in the national interest.
 
-Subsec. (x)(1). Pub. L. 95–92 substituted "1978" for "1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977," and provisions authorizing $175,000,000 during the fiscal year 1978 for Turkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as the total value of defense articles and services sold to such country.
+Subsec. (x)(1). Pub. L. 95–92 substituted "1978" for "1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977," and provisions authorizing $175,000,000 during the fiscal year 1978 forTurkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as the total value of defense articles and services sold to such country.
 
 <b>1976</b>—Subsec. (k). Pub. L. 94–329, §606, inserted provision exempting from the condition of express approval of Congress any productive enterprise in Egypt which is described in the presentation to Congress for fiscal year 1977.
 
@@ -452,7 +452,7 @@ Definitions.—For purposes of this section—
 
 &emsp;"(2) the term 'United States military assistance' means—
 
-&emsp;&emsp;"(A) assistance to carry out chapter 2 (relating to grant military assistance) or chapter 5 (relating tointernational military education and training) of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq., 2347 et seq.\]; and
+&emsp;&emsp;"(A) assistance to carry out chapter 2 (relating to grant military assistance) or chapter 5 (relating to international military education and training) of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq., 2347 et seq.\]; and
 
 &emsp;&emsp;"(B) assistance to carry out section 23 of the Arms Export Control Act \[22 U.S.C. 2763\]."
 

@@ -12,7 +12,7 @@ From the amount described in section 629f(a) of this title for any fiscal year t
 
 #### (1) In general
 
-&emsp;From the amount described in section 629f(a) of this title for any fiscal year that remains after applying section 629f(b) of this title and subsection (b) of this section for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in subsection (b) of this section an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State for the fiscal year.
+&emsp;From the amount described in section 629f(a) of this title for any fiscal year that remainsafter applying section 629f(b) of this title and subsection (b) of this section for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in subsection (b) of this section an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State for the fiscal year.
 
 #### (2) Supplemental nutrition assistance program benefits percentage defined
 
@@ -26,7 +26,7 @@ From the amount described in section 629f(a) of this title for any fiscal year t
 
 #### (d) Reallotments
 
-The amount of any allotment to a State under subsection (a), (b), or (c) of this section for anyfiscal year that the State certifies to the Secretary will not be required for carrying out the State plan under section 629b of this title shall be available for reallotment using the allotment methodology specified in subsection (a), (b), or (c) of this section. Any amount so reallotted to a State is deemed part of the allotment of the State under the preceding provisions of this section.
+The amount of any allotment to a State under subsection (a), (b), or (c) of this section for any fiscal year that the State certifies to the Secretary will not be required for carrying out the State plan under section 629b of this title shall be available for reallotment using the allotment methodology specified in subsection (a), (b), or (c) of this section. Any amount so reallotted to a State is deemed part of the allotment of the State under the preceding provisions of this section.
 
 #### (e) Allotment of funds reserved to support monthly caseworker visits
 

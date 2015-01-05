@@ -26,7 +26,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 &emsp;(3)(A) In the case of any person who has sustained a vaccine-related injury after attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded, compensation for actual and anticipated loss of earnings determined in accordance with generally recognized actuarial principles and projections.
 
-&emsp;(B) In the case of any person who has sustained a vaccine-related injury before attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded and whose vaccine-related injury is of sufficient severity to permit reasonable anticipation that such person is likely to suffer impaired earning capacity at age 18 and beyond, compensation after attaining the age of 18 for loss of earnings determined on the basis of the average gross weekly earnings of workers in the private, non-farm sector, less appropriate taxes and the average cost of a health insurance policy, as determined by the Secretary.
+&emsp;(B) In the case of any person who has sustained a vaccine-related injury before attaining the age of 18 and whose earning capacity isor has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded and whose vaccine-related injury is of sufficient severity to permit reasonable anticipation that such person is likely to suffer impaired earning capacity at age 18 and beyond, compensation after attaining the age of 18 for loss of earnings determined on the basis of the average gross weekly earnings of workers in the private, non-farm sector, less appropriate taxes and the average cost of a health insurance policy, as determined by the Secretary.
 
 &emsp;(4) For actual and projected pain and suffering and emotional distress from the vaccine-related injury, an award not to exceed $250,000.
 
@@ -132,7 +132,7 @@ Subsec. (j). Pub. L. 102–531 increased authorization for fiscal year 1993 from
 
 <b>1991</b>—Subsec. (f)(4)(A). Pub. L. 102–168, §201(e)(1)(A), (2), struck out "of the proceeds" after "portion" and substituted "Vaccine Injury Compensation Trust Fund established under section 9510 of title 26" for "trust fund".
 
-Subsec. (f)(4)(B). Pub. L. 102–168, §201(e)(1)(B), which directed substitution of "shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion" for "paid in 4 equal installments of which all or portion of the proceeds" was executed by making the substitution for "paid in 4 equal annual installments of which all or a portion of the proceeds" to reflect the probable intent of Congress.
+Subsec. (f)(4)(B). Pub. L. 102–168, §201(e)(1)(B), which directed substitution of "shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion" for "paidin 4 equal installments of which all or portion of the proceeds" was executed by making the substitution for "paid in 4 equal annual installments of which all or a portion of the proceeds" to reflect the probable intent of Congress.
 
 Subsec. (f)(4)(C). Pub. L. 102–168, §201(f), added subpar. (C).
 
@@ -192,7 +192,7 @@ Subsec. (f). Pub. L. 100–203, §4303(d)(1)(B), (g), added par. (4) and redesig
 
 Subsec. (f)(2). Pub. L. 100–203, §4307(6), substituted "United States Claims Court" for "district court of the United States".
 
-Subsecs. (g), (h). Pub. L. 100–203, §4303(g), redesignated a second subsec. (f), relating to the Program not being liable, as (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 100–203, §4303(g), redesignated a second subsec. (f), relating to the Program notbeing liable, as (g) and redesignated former subsec. (g) as (h).
 
 Subsecs. (i), (j). Pub. L. 100–203, §4303(a), (b), added subsecs. (i) and (j).
 

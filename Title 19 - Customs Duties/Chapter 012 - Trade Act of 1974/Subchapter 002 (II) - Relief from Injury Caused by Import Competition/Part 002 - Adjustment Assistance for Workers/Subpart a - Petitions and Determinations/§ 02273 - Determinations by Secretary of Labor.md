@@ -26,7 +26,7 @@ Whenever the Secretary determines, with respect to any certification of eligibil
 
 &emsp;Not less than 90 days before issuing a final rule with respect to the standards required under paragraph (1), the Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to such rule.
 
-(Pub. L. 93–618, title II, §223, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993,107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(b), Aug. 6, 2002, 116 Stat. 937; Pub. L. 111–5, div. B, title I, §§1803, 1858(a), Feb. 17, 2009, 123 Stat. 372, 395; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
+(Pub. L. 93–618, title II, §223, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(b), Aug. 6, 2002, 116 Stat. 937; Pub. L. 111–5, div. B, title I, §§1803, 1858(a), Feb. 17, 2009, 123 Stat. 372, 395; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
 #### Reversion to Provisions in Effect on February 13, 2011
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
 

@@ -132,7 +132,7 @@ Another prior section 2318, Pub. L. 93–618, title II, §246, Jan. 3, 1975, 88 
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 112–40, §§215(a)(1), 233, temporarily substituted "$50,000" for "$55,000". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (a)(3)(B)(ii). Pub. L. 112–40, §§215(a)(1), 233, temporarily substituted "$50,000" for "$55,000". SeeCodification note above and Effective and Termination Dates of 2011 Revival note below.
 
 Subsec. (a)(5)(A)(i), (B)(i). Pub. L. 112–40, §§215(a)(2), 233, temporarily substituted "$10,000" for "$12,000". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
@@ -154,7 +154,7 @@ Subsec. (a)(2)(A)(i), (ii). Pub. L. 111–5, §§1841(a)(2)(B)(i)(II), 1893, tem
 
 > See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(B). Pub. L. 111–5, §§1841(a)(2)(B)(ii), 1893, temporarily substituted "for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as thecase may be)" for "for a period not to exceed 2 years" and struck out ", as added by section 201 of the Trade Act of 2002" before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(B). Pub. L. 111–5, §§1841(a)(2)(B)(ii), 1893, temporarily substituted "for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)" for "for a period not to exceed 2 years" and struck out ", as added by section 201 of the Trade Act of 2002" before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(2)(C). Pub. L. 111–5, §§1841(a)(2)(B)(iii), 1893, temporarily added subpar. (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -190,5 +190,5 @@ Section applicable to petitions for certification filed under this part or part 
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
 

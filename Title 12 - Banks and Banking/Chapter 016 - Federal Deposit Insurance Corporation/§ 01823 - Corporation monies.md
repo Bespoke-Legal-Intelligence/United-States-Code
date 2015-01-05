@@ -52,7 +52,7 @@ Least-cost resolution required.—
 
 &emsp;(A)
 
-In general.—Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) of this section with respect to any insured depository institution unless—
+In general.—Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) with respect to any insured depository institution unless—
 
 &emsp;&emsp;(i) the Corporation determines that the exercise of such authority is necessary to meet the obligation of the Corporation to provide insurance coverage for the insured deposits in such institution; and
 
@@ -310,7 +310,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 #### (f) Assisted emergency interstate acquisitions
 
-(1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank <sup>2</sup> savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c) of this section.
+(1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank <sup>2</sup> savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c).
 
 (2)(A) Whenever an insured bank with total assets of $500,000,000 or more (as determined from its most recent report of condition) is in default, the Corporation, as receiver, may, in its discretion and upon such terms and conditions as the Corporation may determine, arrange the sale of assets of the bank in default and the assumption of the liabilities of the bank in default, including the sale of such assets to and the assumption of such liabilities by an insured depository institution located in the State where the bank in default was chartered but established by an out-of-State bank or holding company. Where otherwise lawfully required, a transaction under this subsection must be approved by the primary Federal or State supervisor of all parties thereto.
 
@@ -348,7 +348,7 @@ Request for assistance by corporate board of directors.—The Corporation may as
 
 Certain acquisitions authorized after assistance is provided.—Notwithstanding paragraph (1), if—
 
-&emsp;&emsp;(i) at any time after August 10, 1987, the Corporation provides any assistance under subsection (c) of this section to an insured bank; and
+&emsp;&emsp;(i) at any time after August 10, 1987, the Corporation provides any assistance under subsection (c) to an insured bank; and
 
 &emsp;&emsp;(ii) at the time such assistance is granted, the insured bank, the holding company which controls the insured bank (if any), or any affiliated insured bank is eligible to be acquired by an out-of-State bank or out-of-State holding company under this paragraph,
 
@@ -580,7 +580,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;&emsp;Notwithstanding any provision of State law, upon determining that severe financial conditions threaten the stability of a significant number of savings associations, or of savings associations possessing significant financial resources, the Corporation, in its discretion and if it determines such authorization would lessen the risk to the Corporation, may authorize—
 
-&emsp;&emsp;&emsp;&emsp;(I) a savings association that is eligible for assistance pursuant to subsection (c) of this section to merge or consolidate with, or to transfer its assets and liabilities to, any other savings association or any insured bank,
+&emsp;&emsp;&emsp;&emsp;(I) a savings association that is eligible for assistance pursuant to subsection (c) to merge or consolidate with, or to transfer its assets and liabilities to, any other savings association or any insured bank,
 
 &emsp;&emsp;&emsp;&emsp;(II) any other savings association to acquire control of such savings association, or
 
@@ -662,7 +662,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (A) Assistance proposals
 
-&emsp;&emsp;The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) of this section before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
+&emsp;&emsp;The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
 
 #### (i) Troubled condition criteria
 

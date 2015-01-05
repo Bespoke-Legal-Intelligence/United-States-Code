@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 (d) "Person" includes one or more individuals, labor organizations, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, trustees, trustees in cases under title 11, or receivers.
 
-(e) "Employer" means any employer or any group or association of employers engaged in an industry affecting commerce (1) which is, with respect to employees engaged in an industry affecting commerce, an employer within the meaning of any law of the United States relating to the employment of any employees or (2) which may deal with any labor organization concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work, and includes any person acting directly or indirectly as an employer or as an agent of anemployer in relation to an employee but does not include the United States or any corporation wholly owned by the Government of the United States or any State or political subdivision thereof.
+(e) "Employer" means any employer or any group or association of employers engaged in an industry affecting commerce (1) which is, with respect to employees engaged in an industry affecting commerce, an employer within the meaning of any law of the United States relating to the employment of any employees or (2) which may deal with any labor organization concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work, and includes any person acting directly or indirectly as an employer or as an agent of an employer in relation to an employee but does not include the United States or any corporation wholly owned by the Government of the United States or any State or political subdivision thereof.
 
 (f) "Employee" means any individual employed by an employer, and includes any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice or because of exclusion or expulsion from a labor organization in any manner or for any reason inconsistent with the requirements of this chapter.
 
@@ -56,7 +56,7 @@ This chapter, referred to in the opening phrase, was in the original "titles I, 
 
 For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, asamended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 

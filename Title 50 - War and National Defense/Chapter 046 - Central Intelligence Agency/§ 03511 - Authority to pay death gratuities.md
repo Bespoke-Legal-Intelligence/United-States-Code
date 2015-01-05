@@ -1,6 +1,6 @@
 ### §3511. Authority to pay death gratuities
 
-(a)(1) The Director may pay a gratuity to the surviving dependents of any officer or employee of the Agency who dies as a result of injuries\(other than from disease) sustained outside the United States and whose death—
+(a)(1) The Director may pay a gratuity to the surviving dependents of any officer or employee of the Agency who dies as a result of injuries (other than from disease) sustained outside the United States and whose death—
 
 &emsp;(A) resulted from hostile or terrorist activities; or
 

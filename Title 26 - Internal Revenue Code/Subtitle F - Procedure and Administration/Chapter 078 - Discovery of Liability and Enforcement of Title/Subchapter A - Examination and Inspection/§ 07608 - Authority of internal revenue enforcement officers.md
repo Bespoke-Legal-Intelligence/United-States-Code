@@ -2,7 +2,7 @@
 
 #### (a) Enforcement of subtitle E and other laws pertaining to liquor, tobacco, and firearms
 
-Any investigator, agent, or other internal revenue officer by whatever term designated, whomthe Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible may—
+Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible may—
 
 &emsp;(1) carry firearms;
 
@@ -14,7 +14,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 #### (b) Enforcement of laws relating to internal revenue other than subtitle E
 
-(1) Any criminal investigator of the Intelligence Division of the Internal Revenue Service whom the Secretary charges with the duty of enforcing any of the criminal provisions of the internal revenue laws, any other criminal provisions of law relating to internal revenue for the enforcement of which the Secretary is responsible, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service, is, in the performance of his duties, authorized to perform the functions described in paragraph (2).
+(1) Any criminal investigator of the Intelligence Division of the Internal Revenue Service whom the Secretary charges with the duty of enforcing any of the criminal provisions of the internal revenue laws, any other criminal provisions of law relating to internal revenue for the enforcement of which the Secretary is responsible, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service, is, in the performanceof his duties, authorized to perform the functions described in paragraph (2).
 
 (2) The functions authorized under this subsection to be performed by an officer referred to in paragraph (1) are—
 

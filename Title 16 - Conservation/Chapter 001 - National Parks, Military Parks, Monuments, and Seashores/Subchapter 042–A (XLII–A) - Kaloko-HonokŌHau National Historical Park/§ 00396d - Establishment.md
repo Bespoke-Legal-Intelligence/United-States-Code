@@ -14,7 +14,7 @@ Except for any lands owned by the State of Hawaii or its subdivisions, which may
 
 #### (c) Administration; applicable provisions
 
-The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4, and 461 to 467 of this title, and generally in accordance with the guidelines provided in the study report entitled "Kaloko-Honokōhau" prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
+The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including the Acts approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467),<sup>1</sup> and August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.),<sup>1</sup> and generally in accordance with the guidelines provided in the study report entitled "Kaloko-Honokōhau" prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
 
 #### (d) Activities and agreements; native accommodations; cooperative marine management agreement; fishing, shoreline food gathering and small boat harbor activities: regulation; land and water management agreements
 
@@ -32,7 +32,7 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 #### (f) Advisory Commission; establishment; membership; qualifications; term; Chairman; vacancies; compensation and expenses; ex officio members; duties; meetings; termination
 
-(1) There is hereby established the Na Hoa Pili O Kaloko-Honokōhau (The Friends of Kaloko-Honokōhau), an Advisory Commission for the park. The Commission shall be composed of nine members, appointed by the Secretary, at least five of whom shall be selected from nominations provided by native Hawaiian organizations. All members of the Commission shall be residents of the State of Hawaii, and at least six members shall be native Hawaiians. Members of the Commission shall be appointed for five-year terms except that initial appointment(s) shall consist of two members appointed for a term of five years, two for a term of four years, two for a term of three years, two for a term of two years, and one for a term of one year. No member may serve more than one term consecutively.
+(1) There is hereby established the Na Hoa Pili O Kaloko-Honokōhau (The Friends of Kaloko-Honokōhau), an Advisory Commission for the park. The Commission shall be composed of nine members, appointed by the Secretary, at leastfive of whom shall be selected from nominations provided by native Hawaiian organizations. All members of the Commission shall be residents of the State of Hawaii, and at least six members shall be native Hawaiians. Members of the Commission shall be appointed for five-year terms except that initial appointment(s) shall consist of two members appointed for a term of five years, two for a term of four years, two for a term of three years, two for a term of two years, and one for a term of one year. No member may serve more than one term consecutively.
 
 (2) The Secretary shall designate one member of the Commission to be Chairman. Any vacancy in the Commission shall be filled by appointment for the remainder of the term.
 
@@ -50,11 +50,13 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 There are hereby authorized to be appropriated not to exceed $25,000,000 for acquisition and $1,000,000 for development.
 
-(Pub. L. 95–625, title V, §505, Nov. 10, 1978, 92 Stat. 3499; Pub. L. 96–87, title IV, §401(i), Oct. 12, 1979, 93 Stat. 666; Pub. L. 104–333, div. I, title V,§503(b), Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–510, §3(c)(1), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 108–142, §2, Dec. 2, 2003, 117 Stat. 1875; Pub. L. 111–11, title VII, §7401, Mar. 30, 2009, 123 Stat. 1219.)
+(Pub. L. 95–625, title V, §505, Nov. 10, 1978, 92 Stat. 3499; Pub. L. 96–87, title IV, §401(i), Oct. 12, 1979, 93 Stat. 666; Pub. L. 104–333, div. I, title V, §503(b), Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–510, §3(c)(1), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 108–142, §2, Dec. 2, 2003, 117 Stat. 1875; Pub. L. 111–11, title VII, §7401, Mar. 30, 2009, 123 Stat. 1219.)
 
 #### References in Text
 
-Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original a reference to the act "approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467)". Act Aug. 25, 1916, known as the "National Park Service Organic Act", is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467), referred to in subsec. (c), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.), referred to in subsec. (c), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Amendments
 
@@ -84,5 +86,7 @@ Section 503(a) of title V of div. I of Pub. L. 104–333, as amended by Pub. L. 
 
 #### "Secretary" Defined
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 45f of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

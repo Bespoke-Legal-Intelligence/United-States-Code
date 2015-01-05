@@ -78,7 +78,7 @@ Subsec. (f)(3). Pub. L. 101–239, §7735(b)(1), added par. (3).
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7735(c), Dec. 19, 1989, 103 Stat. 2404, provided that: "The amendments made bythis section \[amending this section\] shall take effect on December 31, 1989."
+Pub. L. 101–239, title VII, §7735(c), Dec. 19, 1989, 103 Stat. 2404, provided that: "The amendments made by this section \[amending this section\] shall take effect on December 31, 1989."
 
 #### Effective Date
 

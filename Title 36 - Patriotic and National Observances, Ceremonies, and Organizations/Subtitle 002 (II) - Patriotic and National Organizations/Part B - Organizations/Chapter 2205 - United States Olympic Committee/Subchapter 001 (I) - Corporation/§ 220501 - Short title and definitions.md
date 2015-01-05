@@ -18,7 +18,7 @@ Definitions.—For purposes of this chapter—
 
 &emsp;(5) "international amateur athletic competition" means an amateur athletic competition between one or more athletes representing the United States, individually or as a team, and one or more athletes representing a foreign country.
 
-&emsp;(6) "national governing body" means an amateur sports organization that is recognized by the corporation under section 220521 of this title.
+&emsp;(6) "national governing body" means an amateur sports organization that is recognizedby the corporation under section 220521 of this title.
 
 &emsp;(7) "paralympic sports organization" means an amateur sports organization which is recognized by the corporation under section 220521 of this title.
 

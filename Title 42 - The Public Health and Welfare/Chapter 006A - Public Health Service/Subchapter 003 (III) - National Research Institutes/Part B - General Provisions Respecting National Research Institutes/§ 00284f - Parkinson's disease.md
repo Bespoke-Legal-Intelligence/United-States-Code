@@ -12,7 +12,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (2) Conference
 
-&emsp;Coordination under paragraph (1) shall include the convening of a research planning conference not less frequently than once every 2 years. Each such conference shall prepare and submit to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Commerce of the House of Representatives a report concerning the conference.
+&emsp;Coordination under paragraph (1) shall include the convening of a research planningconference not less frequently than once every 2 years. Each such conference shall prepare and submit to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Commerce of the House of Representatives a report concerning the conference.
 
 #### (c) Morris K. Udall research centers
 

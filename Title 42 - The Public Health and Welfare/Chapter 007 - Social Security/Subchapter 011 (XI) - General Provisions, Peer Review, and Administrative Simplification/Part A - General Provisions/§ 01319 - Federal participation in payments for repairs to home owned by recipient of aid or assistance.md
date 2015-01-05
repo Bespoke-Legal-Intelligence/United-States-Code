@@ -1,6 +1,6 @@
 ### §1319. Federal participation in payments for repairs to home owned by recipient of aid or assistance
 
-In the case of an expenditure for repairing the home owned by an individual who is receiving aid or assistance, other than medical assistance to the aged, under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, if—
+In the case of an expenditure for repairing the home owned by an individual who is receivingaid or assistance, other than medical assistance to the aged, under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, if—
 
 &emsp;(1) the State agency or local agency administering the plan approved under such subchapter has made a finding (prior to making such expenditure) that (A) such home is so defective that continued occupancy is unwarranted, (B) unless repairs are made to such home, rental quarters will be necessary for such individual, and (C) the cost of rental quarters to take care of the needs of such individual (including his spouse living with him in such home and any other individual whose needs were taken into account in determining the need of such individual) would exceed (over such time as the Secretary may specify) the cost of repairs needed to make such home habitable together with other costs attributable to continued occupancy of such home, and
 
@@ -12,7 +12,7 @@ In the case of an expenditure for repairing the home owned by an individual who 
 
 #### References in Text
 
-Section 1383(a) of this title, referred to in text, is a reference to section 1383(a) of this title as it existed prior to the general revision of this subchapter by Pub.L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1383 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
+Section 1383(a) of this title, referred to in text, is a reference to section 1383(a) of this title as it existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1383 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 #### Amendments
 

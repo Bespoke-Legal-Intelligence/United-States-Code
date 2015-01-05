@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 98–369, §911(d)(2)(A), substituted "6427(j)" for "6427(i
 
 <b>1983</b>—Pub. L. 97–424, §515(b)(6)(C), substituted "and special fuels" for ", special fuels, and lubricating oil" after "gasoline" in section catchline.
 
-Subsec. (a)(2) to (4). Pub. L. 97–424, §515(b)(6)(A), inserted "and" at end of par. (2), redesignated par. (4) as (3), and struck out former (3) which referred to amounts payable to the taxpayer under section 6424 with respect to lubricating oil used during the taxableyear for certain nontaxable purposes (determined without regard to section 6424(f)).
+Subsec. (a)(2) to (4). Pub. L. 97–424, §515(b)(6)(A), inserted "and" at end of par. (2), redesignated par. (4) as (3), and struck out former (3) which referred to amounts payable to the taxpayer under section 6424 with respect to lubricating oil used during the taxable year for certain nontaxable purposes (determined without regard to section 6424(f)).
 
 Subsec. (b). Pub. L. 97–424, §515(b)(6)(B)(i), substituted "6421 or 6427" for "6421, 6424, or 6427" after "amount payable under".
 

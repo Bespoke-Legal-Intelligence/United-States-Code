@@ -2,7 +2,7 @@
 
 #### (a) Competitive grant authority
 
-In addition to any grants made under other laws, the Secretary is authorized to make competitive grants that will further research activities authorized by this subchapter to Federal, State, and other governmental agencies, public or private agencies, institutions, universities, and organizations, and businesses and individuals in the United States. In making these grants, the Secretary shall emphasize basic and applied research activities that are important to achieving the purposes of this subchapter, and shall obtain, through review by qualified scientists and other methods, participation in research activities by scientists throughout the United States who have expertise in matters related to forest and rangeland renewable resources. Grants under this section shall be made at the discretion of the Secretary under whatever conditions the Secretary may prescribe, after publicly soliciting research proposals, allowing sufficient time for submission of the proposals, and considering qualitative, quantitative, financial, administrative, and other factors that the Secretary deems important injudging, comparing, and accepting the proposals. The Secretary may reject any or all proposals received under this section if the Secretary determines that it is in the public interest to do so.
+In addition to any grants made under other laws, the Secretary is authorized to make competitive grants that will further research activities authorized by this subchapter to Federal, State, and other governmental agencies, public or private agencies, institutions, universities, and organizations, and businesses and individuals in the United States. In making these grants, the Secretary shall emphasize basic and applied research activities that are important to achieving the purposes of this subchapter, and shall obtain, through review by qualified scientists and other methods, participation in research activities by scientists throughout the United States who have expertise in matters related to forest and rangeland renewable resources. Grants under this section shall be made at the discretion of the Secretary under whatever conditions the Secretary may prescribe, after publicly soliciting research proposals, allowing sufficient time for submission of the proposals, and considering qualitative, quantitative, financial, administrative, and other factors that the Secretary deems important in judging, comparing, and accepting the proposals. The Secretary may reject any or all proposals received under this section if the Secretary determines that it is in the public interest to do so.
 
 #### (b) Emphasis on certain high priority forestry research
 
@@ -18,7 +18,7 @@ In making grants under subsections (b) and (c) of this section, the Secretary sh
 
 &emsp;(1) the proposed research will be collaborative research organized through a center of scientific excellence;
 
-&emsp;(2) the applicant agrees to provide matching funds (in the form of direct funding or in-kind support) in an amount equal to not less than 50 percent of the grant amount; and
+&emsp;(2) the applicant agrees to provide matching funds (in the form of direct funding or in-kindsupport) in an amount equal to not less than 50 percent of the grant amount; and
 
 &emsp;(3) the proposed research will be conducted as part of an existing private and public partnership or cooperative research effort and involves several interested research partners.
 

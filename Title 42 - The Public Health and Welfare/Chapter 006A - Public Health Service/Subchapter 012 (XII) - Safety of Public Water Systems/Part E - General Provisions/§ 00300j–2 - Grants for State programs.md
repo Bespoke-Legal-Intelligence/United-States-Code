@@ -111,31 +111,15 @@ For purposes of this section:
 
 <b>1996</b>—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: "For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
 
-"Fiscal year:
+&nbsp;
 
-<i>Amount  </i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;1987
-
-&nbsp;$37,200,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;1988
-
-&nbsp;&nbsp;37,200,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;1989
-
-&nbsp;&nbsp;40,150,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;1990
-
-&nbsp;&nbsp;40,150,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;1991
-
-&nbsp;&nbsp;40,150,000".
+| "Fiscal year: | <i>Amount</i> |
+| :--- | ---: |
+| &nbsp;1987 | $37,200,000&nbsp;&nbsp; |
+| &nbsp;1988 | 37,200,000&nbsp;&nbsp; |
+| &nbsp;1989 | 40,150,000&nbsp;&nbsp; |
+| &nbsp;1990 | 40,150,000&nbsp;&nbsp; |
+| &nbsp;1991 | 40,150,000". |
 
 Subsec. (a)(8), (9). Pub. L. 104–182, §124(2), added pars. (8) and (9).
 

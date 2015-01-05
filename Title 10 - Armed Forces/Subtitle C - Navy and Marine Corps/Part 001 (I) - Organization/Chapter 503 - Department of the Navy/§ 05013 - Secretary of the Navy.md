@@ -116,7 +116,7 @@ Selection Requirements.—As a condition on eligibility for selection to partici
 
 Participating Workers.—(1) Actual worker participation in the demonstration project shall be determined through competitive selection. Not more than 15 percent of the wage grade journeyman at a demonstration project location may be selected to participate.
 
-"(2) Job descriptions and competency-based training plans must be developed for each worker while in training under the demonstration project and once certified as a multi-trade worker. A certified multi-trade worker who receives a pay grade promotion under the demonstration project must use each new skill during at least 25 percent of the worker's work year.
+"(2) Job descriptions and competency-based training plans must be developed for each worker while in training under the demonstration project and once certifiedas a multi-trade worker. A certified multi-trade worker who receives a pay grade promotion under the demonstration project must use each new skill during at least 25 percent of the worker's work year.
 
 "(d)
 

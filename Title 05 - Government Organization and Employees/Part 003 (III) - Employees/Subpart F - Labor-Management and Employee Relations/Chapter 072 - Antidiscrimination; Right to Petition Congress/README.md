@@ -11,17 +11,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—EMPLOYEES’ RIGHT TO PETITION CONGRESS
+#### SUBCHAPTER II—EMPLOYEES' RIGHT TO PETITION CONGRESS
 
 |  |  |
 | :--- | ---: |
-| [7211\.](Subchapter%20002%20%28II%29%20-%20Employees%E2%80%99%20Right%20to%20Petition%20Congress/%C2%A7%2007211%20-%20Employees%E2%80%99%20right%20to%20petition%20Congress.md) | Employees’ right to petition Congress |
+| [7211\.](Subchapter%20002%20%28II%29%20-%20Employees%27%20Right%20to%20Petition%20Congress/%C2%A7%2007211%20-%20Employees%27%20right%20to%20petition%20Congress.md) | Employees' right to petition Congress |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, title VII, §703(a)(2), Oct. 13, 1978, 92 Stat. 1217, struck out heading “SUBCHAPTER II—ANTIDISCRIMINATION IN EMPLOYMENT” and substituted therefor a chapter heading “CHAPTER 72—ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS” together with the analysis of chapter 72 containing subchapters I, consisting of items 7201 to 7204, and subchapter II, consisting of item 7211.
+<b>1978</b>—Pub. L. 95–454, title VII, §703(a)(2), Oct. 13, 1978, 92 Stat. 1217, struck out heading "SUBCHAPTER II—ANTIDISCRIMINATION IN EMPLOYMENT" and substituted therefor a chapter heading "CHAPTER 72—ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS" together with the analysis of chapter 72 containing subchapters I, consisting of items 7201 to 7204, and subchapter II, consisting of item 7211.
 
 
 ---
@@ -29,4 +29,4 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - Antidiscrimination in Employment](Subchapter%20001%20%28I%29%20-%20Antidiscrimination%20in%20Employment/README.md)
-- [Subchapter 002 (II) - Employees&#8217; Right to Petition Congress](Subchapter%20002%20%28II%29%20-%20Employees%E2%80%99%20Right%20to%20Petition%20Congress/README.md)
+- [Subchapter 002 (II) - Employees' Right to Petition Congress](Subchapter%20002%20%28II%29%20-%20Employees%27%20Right%20to%20Petition%20Congress/README.md)

@@ -26,7 +26,7 @@ Item 804.00 of title I of the Tariff Act of 1930, referred to in subsec. (d), wa
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–476 substituted "the original manufacturer of such" for "a manufacturer of" and inserted "authorized by such manufacturer to receive such articles" after "proprietor of an export warehouse".
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–33 inserted at end "Tobacco products and cigarette papers and tubes may notbe transferred or removed under this subsection unless such products or papers and tubes bear such marks, labels, or notices as the Secretary shall by regulations prescribe."
+<b>1997</b>—Subsec. (b). Pub. L. 105–33 inserted at end "Tobacco products and cigarette papers and tubes may not be transferred or removed under this subsection unless such products or papers and tubes bear such marks, labels, or notices as the Secretary shall by regulations prescribe."
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–239 inserted "or to a manufacturer of tobacco products or cigarette papers and tubes if such articles are not put up in packages," after "export warehouse,".
 
@@ -62,7 +62,7 @@ Pub. L. 101–239, title VII, §7508(b), Dec. 19, 1989, 103 Stat. 2370, provided
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
+Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into theUnited States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
 
 #### Effective Date of 1976 Amendment
 

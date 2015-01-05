@@ -24,7 +24,7 @@
 
 #### (B) Transfer authority during transition
 
-&emsp;&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a) of this section, the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3) of this section.
+&emsp;&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a), the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3).
 
 #### (2) General expenses
 
@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate are authorized and directed to transfer to the Chief of the Capitol Police all funds, assets, accounts, and copies of original records of the Capitol Police that are in the possession or under the control of the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate in order that all such items may be available for the unified operation of the Capitol Police. Any funds so transferred shall be deposited in the Treasury accounts established under subsection (b) of this section and be available to the Chief of the Capitol Police for the same purposes as, and in like manner and subject to the same conditions as, the funds prior to the transfer.
+&emsp;The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate are authorized and directed to transfer to the Chief of the Capitol Police all funds, assets, accounts, and copies of original records of the Capitol Police that are in the possession or under the control of the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate in order that all such items may be available for the unified operation of the Capitol Police. Any funds so transferred shall be deposited in the Treasury accounts established under subsection (b) and be available to the Chief of the Capitol Police for the same purposes as, and in like manner and subject to the same conditions as, the funds prior to the transfer.
 
 #### (2) Existing transfer authority
 
@@ -68,15 +68,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 &emsp;Employees of the Capitol Police who are appointed by the Chief under the authority of this subsection shall be subject to the same type of benefits (including the payment of death gratuities, the withholding of debt, and health, retirement, Social Security, and other applicable employee benefits) as are provided to employees of the House of Representatives, and any such individuals serving as employees of the Capitol Police as of February 20, 2003, shall be subject to the same rules governing rights, protections, pay, and benefits in effect immediately before such date until such rules are changed under applicable laws or regulations.
 
-#### (f) Worker's compensation
-
-#### (1) Account
-
-&emsp;There shall be established a separate account in the Capitol Police for purposes of making payments for employees of the Capitol Police under section 8147 of title 5.
-
-#### (2) Payments without fiscal year limitation
-
-&emsp;Notwithstanding any other provision of law, payments may be made from the account established under paragraph (1) of this subsection without regard to the fiscal year for which the obligation to make such payments is incurred.
+#### (f) Repealed. Pub. L. 113–76, div. I, title I, §1002(b), Jan. 17, 2014, 128 Stat. 424
 
 #### (g) Effect on existing law
 
@@ -94,7 +86,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 This section and the amendments made by this section shall take effect on February 20, 2003, and shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-(Pub. L. 108–7, div. H, title I, §1018, Feb. 20, 2003, 117 Stat. 366; Pub. L. 111–145, §2(a)(4)(A), Mar. 4, 2010, 124 Stat. 49.)
+(Pub. L. 108–7, div. H, title I, §1018, Feb. 20, 2003, 117 Stat. 366; Pub. L. 111–145, §2(a)(4)(A), Mar. 4, 2010, 124 Stat. 49; Pub. L. 113–76, div. I, title I, §1002(b), Jan. 17, 2014, 128 Stat. 424.)
 
 #### References in Text
 
@@ -108,5 +100,11 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–76 struck out subsec. (f) which established a worker's compensation account for the Capitol Police.
+
 <b>2010</b>—Subsec. (e)(1). Pub. L. 111–145 added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–76, div. I, title I, §1002(c), Jan. 17, 2014, 128 Stat. 424, provided that: "This section \[enacting section 1907b of this title and amending this section\] shall apply with respect to appropriations for fiscal year 2014 and each fiscal year thereafter."
 

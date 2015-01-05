@@ -36,7 +36,7 @@ The regulations referred to in subsection (a) of this section shall—
 
 &emsp;&emsp;(A) to afford the State an opportunity to adopt and implement a corrective action plan, approved by the Secretary, designed to end the failure to so conform;
 
-&emsp;&emsp;(B) to make technical assistance available to the State to the extent feasible to enable the State to develop and implement such a corrective action plan;
+&emsp;&emsp;(B) to make technical assistance available to the State to the extent feasible to enablethe State to develop and implement such a corrective action plan;
 
 &emsp;&emsp;(C) to suspend the withholding of any Federal matching funds under this section while such a corrective action plan is in effect; and
 

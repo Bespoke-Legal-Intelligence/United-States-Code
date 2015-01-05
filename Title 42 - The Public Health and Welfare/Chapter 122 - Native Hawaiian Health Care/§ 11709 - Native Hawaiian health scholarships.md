@@ -12,7 +12,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 (1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254l of this title, provided that—
 
-&emsp;(A) the provision of scholarships in each type of health care profession training shall correspond to the need for each type of healthcare professional identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
+&emsp;(A) the provision of scholarships in each type of health care profession training shall correspond to the need for each type of health care professional identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
 
 &emsp;(B) the primary health services covered under the scholarship assistance program under this section shall be the services included under the definition of that term under section 11711(8) of this title;
 

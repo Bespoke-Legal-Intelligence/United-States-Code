@@ -6,7 +6,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 03310 - Limitation on indirect costs for agricultural research, education, and extension programs](%C2%A7%2003310%20-%20Limitation%20on%20indirect%20costs%20for%20agricultural%20research%2C%20education%2C%20and%20extension%20programs.md)
-- [&sect; 03310a - Research equipment grants](%C2%A7%2003310a%20-%20Research%20equipment%20grants.md)
+- [&sect; 03310a - Repealed. Pub. L. 113&#8211;79, title VII, &sect;7118, Feb. 7, 2014, 128 Stat. 875](%C2%A7%2003310a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77118%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20875.md)
 - [&sect; 03311 - Authorization of appropriations](%C2%A7%2003311%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03312 - Authorization of appropriations for extension education](%C2%A7%2003312%20-%20Authorization%20of%20appropriations%20for%20extension%20education.md)
 - [&sect; 03313 - Payment of funds](%C2%A7%2003313%20-%20Payment%20of%20funds.md)

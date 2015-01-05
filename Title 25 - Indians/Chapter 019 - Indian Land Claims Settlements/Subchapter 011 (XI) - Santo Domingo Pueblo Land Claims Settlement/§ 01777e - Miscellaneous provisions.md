@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after November 1, 2000, the Secretary shall acquire by exchangethe State of New Mexico trust lands located in township 16 north, range 4 east, section 2, and all interests therein, including improvements, mineral rights and water rights.
+&emsp;Not later than 2 years after November 1, 2000, the Secretary shall acquire by exchange the State of New Mexico trust lands located in township 16 north, range 4 east, section 2, and all interests therein, including improvements, mineral rights and water rights.
 
 #### (2) Use of other lands
 

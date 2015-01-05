@@ -6,7 +6,7 @@ In order to preserve for the educational, inspirational, and recreational use of
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–430, which directed amendment of section by substituting "October 1992, and numbered 626–80,039–C" for "October 1986, and numbered 62680033–B", was executed by making the substitution for "October 1986, and numbered 626–80,033–B" to reflect the probable intent of Congress.
+<b>1992</b>—Pub. L. 102–430, which directed amendment of section by substituting "October 1992, and numbered626–80,039–C" for "October 1986, and numbered 62680033–B", was executed by making the substitution for "October 1986, and numbered 626–80,033–B" to reflect the probable intent of Congress.
 
 <b>1986</b>—Pub. L. 99–583 substituted "October 1986, and numbered 626–80,033–B" for "December 1980, and bearing the number 626–91014".
 

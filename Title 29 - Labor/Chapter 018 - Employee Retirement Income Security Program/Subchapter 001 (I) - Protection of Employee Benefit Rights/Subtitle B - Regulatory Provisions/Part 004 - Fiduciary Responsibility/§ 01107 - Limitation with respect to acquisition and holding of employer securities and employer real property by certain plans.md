@@ -30,7 +30,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 #### (b) Exception
 
-(1) Subsection (a) of this section shall not apply to any acquisition or holding of qualifying employer securities or qualifying employer real property by an eligible individual account plan.
+(1) Subsection (a) of this section shall not apply to any acquisition or holding of qualifyingemployer securities or qualifying employer real property by an eligible individual account plan.
 
 (2)(A) If this paragraph applies to an eligible individual account plan, the portion of such plan which consists of applicable elective deferrals (and earnings allocable thereto) shall be treated as a separate plan—
 
@@ -168,7 +168,7 @@ Section 10211(c)(2)(A) of the Revenue Act of 1987 (Public Law 100–203), referr
 
 <b>1997</b>—Subsec. (b)(2), (3). Pub. L. 105–34 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1990</b>—Subsec. (d)(5). Pub. L. 101–540 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'qualifying employer security' means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stocksatisfies the requirements of subsection (f)(1) of this section."
+<b>1990</b>—Subsec. (d)(5). Pub. L. 101–540 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'qualifying employer security' means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section."
 
 <b>1989</b>—Subsec. (d)(3)(A), (6)(A), (7). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

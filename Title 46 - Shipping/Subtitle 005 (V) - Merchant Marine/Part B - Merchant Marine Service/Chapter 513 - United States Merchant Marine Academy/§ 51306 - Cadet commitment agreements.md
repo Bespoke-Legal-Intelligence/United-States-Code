@@ -18,7 +18,7 @@ Agreement Requirements.—A citizen of the United States appointed as a cadet at
 
 &emsp;&emsp;(B) as an employee in a United States maritime-related industry, profession, or marine science (as determined by the Secretary of Transportation), if the Secretary determines that service under subparagraph (A) is not available to the individual;
 
-&emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
+&emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the NationalOceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
 
 &emsp;&emsp;(D) by a combination of the service alternatives referred to in subparagraphs (A)–(C); and
 
@@ -62,7 +62,7 @@ Alternative Service.—
 
 &emsp;(1)
 
-Service as commissioned officer.—An individual who, for the 5-year period following graduation from the Academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the PublicHealth Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (a).
+Service as commissioned officer.—An individual who, for the 5-year period following graduation from the Academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the Public Health Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (a).
 
 &emsp;(2)
 

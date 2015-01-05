@@ -12,7 +12,7 @@ The Secretary, acting through the Director of the National Institutes of Health 
 
 #### (2) Submission to Congress
 
-&emsp;Not later than December 1, 1993, the Director shall submit the plan required in paragraph (1)to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, together with an estimate of the funds needed for each of the fiscal years 1994 through 1996 to implement the plan.
+&emsp;Not later than December 1, 1993, the Director shall submit the plan required in paragraph (1) to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, together with an estimate of the funds needed for each of the fiscal years 1994 through 1996 to implement the plan.
 
 #### (c) Participating agencies; coordination and collaboration
 
@@ -80,7 +80,11 @@ For purposes of this section:
 
 &emsp;(2) The term "Director" means the Director of the National Institutes of Health.
 
-&emsp;(3) The term "trauma" means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center.
+&emsp;(3) The term "trauma" means an injury resulting from exposure to—
+
+&emsp;&emsp;(A) a mechanical force; or
+
+&emsp;&emsp;(B) another extrinsic agent, including an extrinsic agent that is thermal, electrical, chemical, or radioactive.
 
 &emsp;(4) The term "traumatic brain injury" means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
@@ -88,9 +92,11 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
 
-(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445; Pub. L. 106–310, div. A, title XIII, §1303, Oct. 17, 2000, 114 Stat. 1138; Pub. L. 110–206, §5, Apr. 28, 2008, 122 Stat. 716.)
+(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445; Pub. L. 106–310, div. A, title XIII, §1303, Oct. 17, 2000, 114 Stat. 1138; Pub. L. 110–206, §5, Apr. 28, 2008, 122 Stat. 716; Pub. L. 113–152, §2(b), Aug. 8, 2014, 128 Stat. 1825.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(3). Pub. L. 113–152 amended par. (3) generally. Prior to amendment, text read as follows: "The term 'trauma' means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center."
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–206, §5(1), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
 

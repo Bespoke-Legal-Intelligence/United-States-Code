@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) that the plan provides for attainment of the PM–10 national ambient air quality standard by the applicable attainment date, or
 
-&emsp;&emsp;&emsp;(ii) for any area for which the State is seeking, pursuant to section 7513(e) of this title, an extension of the attainment date beyond the date set forth in section 7513(c)of this title, that attainment by that date would be impracticable, and that the plan provides for attainment by the most expeditious alternative date practicable.
+&emsp;&emsp;&emsp;(ii) for any area for which the State is seeking, pursuant to section 7513(e) of this title, an extension of the attainment date beyond the date set forth in section 7513(c) of this title, that attainment by that date would be impracticable, and that the plan provides for attainment by the most expeditious alternative date practicable.
 
 &emsp;&emsp;(B) Provisions to assure that the best available control measures for the control of PM–10 shall be implemented no later than 4 years after the date the area is classified (or reclassified) as a Serious Area.
 
@@ -44,7 +44,7 @@
 
 #### (c) Milestones
 
-(1) Plan revisions demonstrating attainment submitted to the Administrator for approval under this subpart shall contain quantitative milestones which are to be achieved every 3 years until the area is redesignated attainment and which demonstrate reasonable further progress, as defined in section 7501(1) of this title, toward attainment by the applicable date.
+(1) Plan revisions demonstrating attainment submitted to the Administrator for approval under this subpart shall contain quantitative milestones which are to be achieved every 3years until the area is redesignated attainment and which demonstrate reasonable further progress, as defined in section 7501(1) of this title, toward attainment by the applicable date.
 
 (2) Not later than 90 days after the date on which a milestone applicable to the area occurs, each State in which all or part of such area is located shall submit to the Administrator a demonstration that all measures in the plan approved under this section have been implemented and that the milestone has been met. A demonstration under this subsection shall be submitted in such form and manner, and shall contain such information and analysis, as the Administrator shall require. The Administrator shall determine whether or not a State's demonstration under this subsection is adequate within 90 days after the Administrator's receipt of a demonstration which contains the information and analysis required by the Administrator.
 

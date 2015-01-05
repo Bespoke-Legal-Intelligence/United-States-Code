@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsections (b), (c), and (d), if a person is entitled to reemployment by the Federal Government under section 4312, such person shall be reemployed in a position of employment as described in section 4313.
 
-(b)(1) If the Director of the Office of Personnel Management makes a determination described in paragraph (2) with respect to a person who was employed by a Federal executive agency at the time the person entered the service from which the person seeks reemployment under this section, the Director shall—
+(b)(1) If the Director of the Office of Personnel Management makes a determination describedin paragraph (2) with respect to a person who was employed by a Federal executive agency at the time the person entered the service from which the person seeks reemployment under this section, the Director shall—
 
 &emsp;(A) identify a position of like seniority, status, and pay at another Federal executive agency that satisfies the requirements of section 4313 and for which the person is qualified; and
 

@@ -22,7 +22,7 @@ For stocks of fish identified pursuant to subsection (b) of this section, with p
 
 Not later than 12 months after October 11, 1996, the Secretary shall, in cooperation with affected interests, and based upon the best scientific information available, complete a program to—
 
-&emsp;(1) develop technological devices and other changes in fishing operations necessary and appropriate to minimize the incidental mortality of bycatch in the course of shrimp trawl activity to the extent practicable, taking intoaccount the level of bycatch mortality in the fishery on November 28, 1990;
+&emsp;(1) develop technological devices and other changes in fishing operations necessary and appropriate to minimize the incidental mortality of bycatch in the course of shrimp trawl activity to the extent practicable, taking into account the level of bycatch mortality in the fishery on November 28, 1990;
 
 &emsp;(2) evaluate the ecological impacts and the benefits and costs of such devices and changes in fishing operations; and
 
@@ -44,7 +44,7 @@ To the extent practicable, any conservation and management measure implemented u
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13,1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Prior Provisions
 

@@ -24,7 +24,7 @@ Subject to subsection (c) of this section, entitlement of an individual to benef
 
 &emsp;&emsp;(A) the third month after the month in which a regular course of renal dialysis is initiated, or
 
-&emsp;&emsp;(B) the month in which such individual receives a kidney transplant, or (if earlier) the first month in which such individual is admitted as an inpatient to an institution which is a hospital meeting the requirements of section 1395x(e) of this title (and such additional requirements as the Secretary may prescribe under section 1395rr(b) of this title for such institutions) in preparation for or anticipation of kidney transplantation, but only if such transplantation occurs in that month or in either of the next two months,
+&emsp;&emsp;(B) the month in which such individual receives a kidney transplant, or (if earlier) thefirst month in which such individual is admitted as an inpatient to an institution which is a hospital meeting the requirements of section 1395x(e) of this title (and such additional requirements as the Secretary may prescribe under section 1395rr(b) of this title for such institutions) in preparation for or anticipation of kidney transplantation, but only if such transplantation occurs in that month or in either of the next two months,
 
 > &emsp;whichever first occurs (but no earlier than one year preceding the month of the filing of an application for benefits under this section); and
 
@@ -48,7 +48,7 @@ For purposes of this section, each person whose monthly insurance benefit for an
 
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, asamended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 Section 425(c) of this title, referred to in subsec. (c), was repealed by Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853.
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual 
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–448, title III, §309(c)(2), Jan. 12, 1983, 96 Stat. 2410, provided that: "Any amendment to the Social Security Act \[42 U.S.C. 301 et seq.\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\]."
+Pub. L. 97–448, title III, §309(c)(2), Jan. 12, 1983, 96 Stat. 2410, provided that: "Any amendment to the Social Security Act \[42 U.S.C. 301 et seq.\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which itrelates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\]."
 
 #### Effective Date of 1982 Amendment
 

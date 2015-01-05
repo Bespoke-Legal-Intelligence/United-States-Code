@@ -66,7 +66,7 @@ Special rule for sales of real property by dealers.—In the case of installment
 
 "(7)
 
-Special rule for sales of personal property by dealers.—In the case of installment obligationsarising from the sale of personal property in the ordinary course of the trade or business of the taxpayer, solely for purposes of determining the time for payment of tax and interest payable with respect to such tax—
+Special rule for sales of personal property by dealers.—In the case of installment obligations arising from the sale of personal property in the ordinary course of the trade or business of the taxpayer, solely for purposes of determining the time for payment of tax and interest payable with respect to such tax—
 
 &emsp;"(A) any increase in tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the 1st taxable year of the taxpayer ending after December 31, 1986, by reason of the amendments made by this section shall be treated as imposed ratably over the 3 taxable years beginning with such 1st taxable year, and
 

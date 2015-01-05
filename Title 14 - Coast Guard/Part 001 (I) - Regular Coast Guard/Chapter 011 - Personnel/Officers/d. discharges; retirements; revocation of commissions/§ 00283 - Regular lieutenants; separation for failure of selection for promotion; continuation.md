@@ -1,6 +1,6 @@
 ### §283. Regular lieutenants; separation for failure of selection for promotion; continuation
 
-(a) Each officer of the Regular Coast Guard appointed under section 211 of this title who isserving in the grade of lieutenant and who has failed of selection for promotion to the grade of lieutenant commander for the second time shall:
+(a) Each officer of the Regular Coast Guard appointed under section 211 of this title who is serving in the grade of lieutenant and who has failed of selection for promotion to the grade of lieutenant commander for the second time shall:
 
 &emsp;(1) be honorably discharged on June 30 of the promotion year in which his second failure of selection occurs; or
 

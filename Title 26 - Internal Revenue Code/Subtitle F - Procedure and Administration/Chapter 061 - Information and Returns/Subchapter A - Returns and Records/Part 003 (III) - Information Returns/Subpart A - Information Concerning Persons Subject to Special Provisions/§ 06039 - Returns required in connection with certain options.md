@@ -38,7 +38,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;<b>(2) the term "employee stock purchase plan" </b><b><sup>1</sup></b> see section 423(b).
 
-(Added Pub. L. 88–272, title II, §221(b)(1), Feb. 26, 1964, 78 Stat. 73; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §7(a), Dec. 29, 1979, 93 Stat. 1276; Pub. L. 97–34, title II, §251(b)(5), Aug. 13, 1981, 95 Stat. 259; Pub. L. 101–508, title XI, §11801(c)(9)(J), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 105–206, title VI, §6023(20), July 22, 1998, 112 Stat. 825;Pub. L. 109–432, div. A, title IV, §403(a), (b), (c)(3), (4), Dec. 20, 2006, 120 Stat. 2954, 2955.)
+(Added Pub. L. 88–272, title II, §221(b)(1), Feb. 26, 1964, 78 Stat. 73; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §7(a), Dec. 29, 1979, 93 Stat. 1276; Pub. L. 97–34, title II, §251(b)(5), Aug. 13, 1981, 95 Stat. 259; Pub. L. 101–508, title XI, §11801(c)(9)(J), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 105–206, title VI, §6023(20), July 22, 1998, 112 Stat. 825; Pub. L. 109–432, div. A, title IV, §403(a), (b), (c)(3), (4), Dec. 20, 2006, 120 Stat. 2954, 2955.)
 
 #### Prior Provisions
 

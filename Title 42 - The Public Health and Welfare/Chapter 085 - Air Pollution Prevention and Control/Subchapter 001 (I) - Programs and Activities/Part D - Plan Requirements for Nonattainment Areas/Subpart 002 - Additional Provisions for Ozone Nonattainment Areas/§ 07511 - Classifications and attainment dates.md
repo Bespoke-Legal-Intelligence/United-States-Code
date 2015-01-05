@@ -2,7 +2,7 @@
 
 #### (a) Classification and attainment dates for 1989 nonattainment areas
 
-(1) Each area designated nonattainment for ozone pursuant to section 7407(d) of this title shall be classified at the time of such designation, under table 1, by operation of law, as a Marginal Area, a Moderate Area, a Serious Area, a Severe Area, or an Extreme Area based on the design value for the area. The design value shallbe calculated according to the interpretation methodology issued by the Administrator most recently before November 15, 1990. For each area classified under this subsection, the primary standard attainment date for ozone shall be as expeditiously as practicable but not later than the date provided in table 1.
+(1) Each area designated nonattainment for ozone pursuant to section 7407(d) of this title shall be classified at the time of such designation, under table 1, by operation of law, as a Marginal Area, a Moderate Area, a Serious Area, a Severe Area, or an Extreme Area based on the design value for the area. The design value shall be calculated according to the interpretation methodology issued by the Administrator most recently before November 15, 1990. For each area classified under this subsection, the primary standard attainment date for ozone shall be as expeditiously as practicable but not later than the date provided in table 1.
 
 TABLE 1
 
@@ -62,7 +62,7 @@ TABLE 1
 
 &emsp;(C) In addition to the requirements of subparagraph (A) for those areas referred to in subparagraph (A) and not covered by subparagraph (B), the provisions referred to in subparagraph (B) shall apply after 3 years from the applicable attainment date unless the area has attained the standard by the end of such 3-year period.
 
-&emsp;(D) If, after November 15, 1990, the Administrator modifies the method of determining compliance with the national primary ambient air quality standard, a design value or other indicator comparable to 0.140 in terms of its relationship to the standard shall be used in lieu of 0.140 for purposes of applying the provisions of subparagraphs (B) and (C).
+&emsp;(D) If, after November 15, 1990, the Administrator modifies the method of determiningcompliance with the national primary ambient air quality standard, a design value or other indicator comparable to 0.140 in terms of its relationship to the standard shall be used in lieu of 0.140 for purposes of applying the provisions of subparagraphs (B) and (C).
 
 #### (c) References to terms
 

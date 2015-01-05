@@ -4,7 +4,7 @@
 
 &emsp;(1) Except as provided in paragraphs (3) and (4), in the case of a person whose period of service in the uniformed services was for less than 91 days—
 
-&emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, the duties of which the person is qualified to perform; or
+&emsp;&emsp;(A) in the position of employment in which the person would have been employed if thecontinuous employment of such person with the employer had not been interrupted by such service, the duties of which the person is qualified to perform; or
 
 &emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 

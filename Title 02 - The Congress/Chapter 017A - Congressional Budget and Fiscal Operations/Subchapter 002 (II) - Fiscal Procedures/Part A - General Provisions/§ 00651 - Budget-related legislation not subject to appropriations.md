@@ -18,19 +18,19 @@ It shall not be in order in either the House of Representatives or the Senate to
 
 Point of order.—It shall not be in order in either the House of Representatives or the Senate to consider any bill or joint resolution (in the House of Representatives only, as reported), amendment, motion, or conference report that provides new entitlement authority that is to become effective during the current fiscal year.
 
-(2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under section 633(a) of this title in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee's recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
+(2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under section 633(a) of this title in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee's recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
 
 (3) The Committee on Appropriations of each House shall have jurisdiction to report any bill or resolution referred to it under paragraph (2) with an amendment which limits the total amount of new spending authority provided in such bill or resolution.
 
 #### (c) Exceptions
 
-(1) Subsections (a) and (b) of this section shall not apply to new authority described in those subsections if outlays from that new authority will flow—
+(1) Subsections (a) and (b) shall not apply to new authority described in those subsections if outlays from that new authority will flow—
 
 &emsp;(A) from a trust fund established by the Social Security Act (as in effect on July 12, 1974) \[42 U.S.C. 301 et seq.\]; or
 
 &emsp;(B) from any other trust fund, 90 percent or more of the receipts of which consist or will consist of amounts (transferred from the general fund of the Treasury) equivalent to amounts of taxes (related to the purposes for which such outlays are or will be made) received in the Treasury under specified provisions of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\].
 
-(2) Subsections (a) and (b) of this section shall not apply to new authority described in those subsections to the extent that—
+(2) Subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that—
 
 &emsp;(A) the outlays resulting therefrom are made by an organization which is (i) a mixed-ownership Government corporation (as defined in section 9101(2) of title 31), or (ii) a wholly owned Government corporation (as defined in section 9101(3) of title 31) which is specifically exempted by law from compliance with any or all of the provisions of chapter 91 of title 31, as of December 12, 1985; or
 
@@ -48,41 +48,41 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classifi
 
 #### Codification
 
-In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act \[31 U.S.C. 856\]”, “section 101 of such Act \[31 U.S.C. 846\]”, and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(2)(A), "section 9101(2) of title 31", "section 9101(3) of title 31", and "chapter 91 of title 31" were substituted for "section 201 of the Government Corporation Control Act \[31 U.S.C. 856\]", "section 101 of such Act \[31 U.S.C. 846\]", and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 1351 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(2). Pub. L. 113–67, §122(12), substituted “section 633(a)” for “section 633(b)”.
+<b>2013</b>—Subsec. (b)(2). Pub. L. 113–67, §122(12), substituted "section 633(a)" for "section 633(b)".
 
 Subsec. (c)(3). Pub. L. 113–67, §122(13), added par. (3).
 
-<b>1997</b>—Pub. L. 105–33, §10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
+<b>1997</b>—Pub. L. 105–33, §10116(a)(1)(A), substituted "Budget-related legislation not subject to appropriations" for "Bills providing new spending authority" as section catchline.
 
-Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
+Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 
-Subsec. (b). Pub. L. 105–33, §10116(a)(2)(A), inserted “new” before “entitlement” in heading.
+Subsec. (b). Pub. L. 105–33, §10116(a)(2)(A), inserted "new" before "entitlement" in heading.
 
-Subsec. (b)(1). Pub. L. 105–33, §10116(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House, which provides new spending authority described in subsection (c)(2)(C) of this section which is to become effective before the first day of the fiscal year which begins during the calendar year in which such bill or resolution is reported.”
+Subsec. (b)(1). Pub. L. 105–33, §10116(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: "It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House, which provides new spending authority described in subsection (c)(2)(C) of this section which is to become effective before the first day of the fiscal year which begins during the calendar year in which such bill or resolution is reported."
 
-Subsec. (b)(2). Pub. L. 105–33, §10116(a)(2)(C), substituted “new entitlement authority” for “new spending authority described in subsection (c)(2)(C) of this section” and “of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be,” for “of that House”.
+Subsec. (b)(2). Pub. L. 105–33, §10116(a)(2)(C), substituted "new entitlement authority" for "new spending authority described in subsection (c)(2)(C) of this section" and "of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be," for "of that House".
 
 Subsec. (c). Pub. L. 105–33, §10116(a)(5), redesignated subsec. (d) as (c).
 
-Pub. L. 105–33, §10116(a)(3), struck out subsec. (c) which defined terms “new spending authority” and “spending authority”.
+Pub. L. 105–33, §10116(a)(3), struck out subsec. (c) which defined terms "new spending authority" and "spending authority".
 
 Subsec. (d). Pub. L. 105–33, §10116(a)(5), redesignated subsec. (d) as (c).
 
-Subsec. (d)(1). Pub. L. 105–33, §10116(a)(4)(A), which directed substitution of “new authority described in those subsections if outlays from that new authority will flow” for “new spending authority if the budget authority for outlays which result from such new spending authority is derived”, was executed by making the substitution for “new spending authority if the budget authority for outlays which will result from such new spending authority is derived” in introductory provisions to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 105–33, §10116(a)(4)(A), which directed substitution of "new authority described in those subsections if outlays from that new authority will flow" for "new spending authority if the budget authority for outlays which result from such new spending authority is derived", was executed by making the substitution for "new spending authority if the budget authority for outlays which will result from such new spending authority is derived" in introductory provisions to reflect the probable intent of Congress.
 
-Subsec. (d)(2), (3). Pub. L. 105–33, §10116(a)(4)(B), (C), redesignated par. (3) as (2), substituted “new authority described in those subsections” for “new spending authority” in introductory provisions, and struck out former par. (2) which read as follows: “Subsections (a) and (b) of this section shall not apply to new spending authority which is an amendment to or extension of chapter 67 of title 31, or a continuation of the programof fiscal assistance to State and local governments provided by that chapter, to the extent so provided in the bill or resolution providing such authority.”
+Subsec. (d)(2), (3). Pub. L. 105–33, §10116(a)(4)(B), (C), redesignated par. (3) as (2), substituted "new authority described in those subsections" for "new spending authority" in introductory provisions, and struck out former par. (2) which read as follows: "Subsections (a) and (b) of this section shall not apply to new spending authority which is an amendment to or extension of chapter 67 of title 31, or a continuation of the program of fiscal assistance to State and local governments provided by that chapter, to the extent so provided in the bill or resolution providing such authority."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill, resolution, or conference report" and struck out "(or any amendment which provides such new spending authority)" after "subsection (c)(2)(A) or (B) of this section".
 
-Subsec. (b)(1). Pub. L. 101–508, §13207(a)(1)(G), substituted “bill, joint resolution, amendment, motion, or conference report, as reported to its House” for “bill or resolution” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(C) of this section”.
+Subsec. (b)(1). Pub. L. 101–508, §13207(a)(1)(G), substituted "bill, joint resolution, amendment, motion, or conference report, as reported to its House" for "bill or resolution" and struck out "(or any amendment which provides such new spending authority)" after "subsection (c)(2)(C) of this section".
 
-<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to applicability to conference reports.
 

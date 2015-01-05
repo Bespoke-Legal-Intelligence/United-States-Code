@@ -12,7 +12,7 @@ Not later than 18 months after October 24, 1992, the Secretary shall make grants
 
 Each regional center established under this section may—
 
-&emsp;(1) provide information, training, and technical assistance to building professionals such as architects, designers, engineers, contractors, and building code officials, on building energy efficiency methods and technologies, including lighting, heating and cooling, and passive solar;
+&emsp;(1) provide information, training, and technical assistance to building professionals suchas architects, designers, engineers, contractors, and building code officials, on building energy efficiency methods and technologies, including lighting, heating and cooling, and passive solar;
 
 &emsp;(2) operate an outreach program to inform such building professionals of the benefits and opportunities of energy efficiency, and of the services of the center;
 
@@ -48,7 +48,7 @@ The Secretary shall select recipients of grants under this section on the basis 
 
 #### (1) Federal share
 
-&emsp;The Federal share of a grant under this section shall be no more than 50 percent of thecosts of establishing, and no more than 25 percent of the cost of operating the regional center.
+&emsp;The Federal share of a grant under this section shall be no more than 50 percent of the costs of establishing, and no more than 25 percent of the cost of operating the regional center.
 
 #### (2) Non-Federal contributions
 

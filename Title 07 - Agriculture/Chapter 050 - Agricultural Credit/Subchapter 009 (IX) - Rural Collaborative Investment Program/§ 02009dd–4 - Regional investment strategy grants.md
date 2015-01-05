@@ -78,7 +78,7 @@ A regional investment strategy grant shall not exceed $150,000.
 
 #### (2) Form
 
-&emsp;A Regional Board or other eligible grantee shall pay the share described in paragraph\(1)(B) in the form of cash, services, materials, or other in-kind contributions, on the condition that not more than 50 percent of that share is provided in the form of services, materials, and other in-kind contributions.
+&emsp;A Regional Board or other eligible grantee shall pay the share described in paragraph (1)(B) in the form of cash, services, materials, or other in-kind contributions, on the condition that not more than 50 percent of that share is provided in the form of services, materials, and other in-kind contributions.
 
 (Pub. L. 87–128, title III, §385E, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, §6028, May 22, 2008, 122 Stat. 1189; Pub. L. 110–246, §4(a), title VI, §6028, June 18, 2008, 122 Stat. 1664, 1950.)
 

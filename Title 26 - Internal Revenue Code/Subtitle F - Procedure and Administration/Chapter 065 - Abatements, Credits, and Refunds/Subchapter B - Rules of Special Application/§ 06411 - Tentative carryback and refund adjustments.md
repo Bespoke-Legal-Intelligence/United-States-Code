@@ -2,7 +2,7 @@
 
 #### (a) Application for adjustment
 
-A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified inthe manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
+A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
 
 &emsp;(1) The amount of the net operating loss, net capital loss, or unused business credit;
 
@@ -24,7 +24,7 @@ Within a period of 90 days from the date on which an application for a tentative
 
 #### (c) Consolidated returns
 
-If the corporation seeking a tentative carryback adjustment under this section, made or was required to make a consolidated return, either for the taxable year within which the net operating loss, net capital loss, or unused business credit arises, or for the preceding taxable year affected by such loss or credit, the provisions of this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
+If the corporation seeking a tentative carryback adjustment under this section, made or was required to make a consolidated return, either for the taxable year within which the net operating loss, net capital loss, or unused business credit arises, or for the preceding taxable year affected by such loss or credit, the provisions of this section shall apply only to such extent and subject to such conditions, limitations,and exceptions as the Secretary may by regulations prescribe.
 
 #### (d) Tentative refund of tax under claim of right adjustment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 231(d)(3)(H) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1985, see section 231(g) of Pub. L. 99–514, set out as a note under section 41 of this title.
+Amendment by section 231(d)(3)(H) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31,1985, see section 231(g) of Pub. L. 99–514, set out as a note under section 41 of this title.
 
 Amendment by section 1847(b)(10) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable to taxable years beginning after Dec. 31, 1971, see section 601(f) ofPub. L. 92–178, set out as a note under section 381 of this title.
+Amendment by Pub. L. 92–178 applicable to taxable years beginning after Dec. 31, 1971, see section 601(f) of Pub. L. 92–178, set out as a note under section 381 of this title.
 
 #### Effective Date of 1969 Amendment
 

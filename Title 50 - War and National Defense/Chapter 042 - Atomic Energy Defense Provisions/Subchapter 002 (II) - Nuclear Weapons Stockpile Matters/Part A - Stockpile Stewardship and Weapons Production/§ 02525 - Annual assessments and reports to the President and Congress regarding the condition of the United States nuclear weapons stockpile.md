@@ -10,7 +10,7 @@ The officials referred to in subsection (a) are the following:
 
 &emsp;(1) The head of each national security laboratory.
 
-&emsp;(2) The commander of the United States Strategic Command.
+&emsp;(2) The Commander of the United States Strategic Command.
 
 #### (c) Dual validation teams in support of assessments
 
@@ -36,7 +36,7 @@ The head of each national security laboratory shall establish and use one or mor
 
 #### (e) Report on assessments
 
-Not later than December 1 of each year, each official specified in subsection (b) shall submit to the Secretary concerned, and to the Nuclear Weapons Council, a report on the assessments that such official was required by subsection (a)to complete. The report shall include the following:
+Not later than December 1 of each year, each official specified in subsection (b) shall submit to the Secretary concerned, and to the Nuclear Weapons Council, a report on the assessments that such official was required by subsection (a) to complete. The report shall include the following:
 
 &emsp;(1) The results of each such assessment.
 
@@ -98,13 +98,15 @@ In this section, the term "Secretary concerned" means—
 
 &emsp;(2) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180; Pub. L. 113–66, div. C, title XXXI, §§3122, 3146(c)(3), Dec. 26, 2013, 127 Stat. 1061, 1074.)
+(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180; Pub. L. 113–66, div. C, title XXXI, §§3122, 3146(c)(3), Dec. 26, 2013, 127 Stat. 1061, 1074; Pub. L. 113–291, div. C, title XXXI, §3142(d), Dec. 19, 2014, 128 Stat. 3900.)
 
 #### Codification
 
 Section was formerly classified to section 7274s of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2). Pub. L. 113–291 substituted "Commander" for "commander".
 
 <b>2013</b>—Subsec. (c). Pub. L. 113–66, §3146(c)(3)(A), struck out "for Nuclear Security" before "may establish teams," in introductory provisions.
 

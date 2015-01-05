@@ -74,6 +74,7 @@
 | [497b.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497b%20-%20Ski%20area%20permits.md) | Ski area permits. |
 | [497c.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497c%20-%20Ski%20area%20permit%20rental%20charge.md) | Ski area permit rental charge. |
 | [497d.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497d%20-%20Recreation%20residence%20fees.md) | Recreation residence fees. |
+| [497e.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497e%20-%20Enhancing%20Forest%20Service%20administration%20of%20rights-of-way%20and%20land%20uses.md) | Enhancing Forest Service administration of rights-of-way and land uses. |
 | [498\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000498%20-%20Cooperative%20work%20agreements%20disposal%20of%20moneys%20received%3B%20refund%20of%20excess%3B%20payment%20from%20appropriation%3B%20conflict%20of%20interest.md) | Cooperative work agreements: disposal of moneys received; refund of excess; payment from appropriation; conflict of interest. |
 | [499\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000499%20-%20Disposal%20of%20money%20received%20by%20or%20on%20account%20of%20Forest%20Service%3B%20refund%20of%20excess%20and%20moneys%20erroneously%20collected%3B%20receipts%20from%20permits.md) | Disposal of money received by or on account of Forest Service; refund of excess and moneys erroneously collected; receipts from permits. |
 | [500\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000500%20-%20Payment%20and%20evaluation%20of%20receipts%20to%20State%20or%20Territory%20for%20schools%20and%20roads%3B%20moneys%20received%3B%20projections%20of%20revenues%20and%20estimated%E2%80%A6.md) | Payment and evaluation of receipts to State or Territory for schools and roads; moneys received; projections of revenues and estimated payments. |
@@ -109,8 +110,7 @@
 | [521g.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000521g%20-%20Road%20rights-of-way%20subject%20to%20State%20or%20local%20law.md) | Road rights-of-way subject to State or local law. |
 | [521h.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000521h%20-%20Regulations%3B%20contents.md) | Regulations; contents. |
 | [521i.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000521i%20-%20Unaffected%20lands.md) | Unaffected lands. |
-| [522\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000522%20-%20Omitted.md) | Omitted. |
-| [523\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000523%20-%20Rights-of-way%20through%20national%20forests%20for%20power%20and%20communications%20facilities.md) | Rights-of-way through national forests for power and communications facilities. |
+| 522, 523. | Omitted. |
 | [524\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000524%20-%20Rights-of-way%20for%20dams%2C%20reservoirs%2C%20or%20water%20plants%20for%20municipal%2C%20mining%2C%20and%20milling%20purposes.md) | Rights-of-way for dams, reservoirs, or water plants for municipal, mining, and milling purposes. |
 | [525\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000525%20-%20Rights-of-way%20for%20wagon%20roads%20or%20railroads.md) | Rights-of-way for wagon roads or railroads. |
 | [526\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000526%20-%20Establishment%20and%20protection%20of%20water%20rights.md) | Establishment and protection of water rights. |
@@ -160,6 +160,9 @@
 | 539m–12. | Authorization of appropriations. |
 | [539n.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539n%20-%20Crystal%20Springs%20Watershed%20Special%20Resources%20Management%20Unit.md) | Crystal Springs Watershed Special Resources Management Unit. |
 | 539<i>o.</i> | Ancient Bristlecone Pine Forest. |
+| [539p.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539p%20-%20Southeast%20Arizona%20land%20exchange%20and%20conservation.md) | Southeast Arizona land exchange and conservation. |
+| [539q.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539q%20-%20Hermosa%20Creek%20watershed%20protection.md) | Hermosa Creek watershed protection. |
+| [539r.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539r%20-%20Rocky%20Mountain%20Front%20Conservation%20Management%20Area%20and%20wilderness%20additions.md) | Rocky Mountain Front Conservation Management Area and wilderness additions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -12,7 +12,7 @@ It is the purpose of this subchapter—
 
 The Secretary shall make grants under this subchapter on a formula basis to the entity designated by the State as the lead entity (referred to in this subchapter as the "lead entity") under section 5116a(1) of this title for the purpose of—
 
-&emsp;(1) developing, operating, expanding, and enhancing community-based and prevention-focused programs and activities designed to strengthen and support families to preventchild abuse and neglect that are accessible, effective, culturally appropriate, and build upon existing strengths that—
+&emsp;(1) developing, operating, expanding, and enhancing community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect that are accessible, effective, culturally appropriate, and build upon existing strengths that—
 
 &emsp;&emsp;(A) offer assistance to families;
 
@@ -68,7 +68,7 @@ Subsec. (b)(3). Pub. L. 111–320, §132(2)(D), substituted "specific community-
 
 Subsec. (b)(4). Pub. L. 111–320, §132(2)(E), inserted "and reporting" after "information management" and struck out comma after "prevention-focused" and "(through networks where appropriate)" after "child abuse and neglect".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–36, §121(a), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "to support State efforts to develop, operate, expand and enhance a network of community-based, prevention-focused, family resource and support programs that coordinate resources among existing education, vocational rehabilitation, disability, respite care, health, mental health, job readiness, self-sufficiency, child and family development, community action, Head Start, child care, child abuse and neglect prevention, juvenile justice, domestic violence prevention and intervention, housing, and other human service organizations within the State; and".
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–36, §121(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "to support State efforts to develop, operate, expand and enhance a network of community-based, prevention-focused, family resource and support programs that coordinate resources among existing education, vocational rehabilitation, disability, respite care, health, mental health, job readiness, self-sufficiency, child and family development, community action, Head Start, child care, child abuse and neglect prevention, juvenile justice, domestic violence prevention and intervention, housing, and other human service organizations within the State; and".
 
 Subsec. (b)(1). Pub. L. 108–36, §121(b)(1)(A), in introductory provisions, substituted "community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate) that are accessible, effective, culturally appropriate, and build upon existing strengths that" for "Statewide networks of community-based, prevention-focused, family resource and support programs that".
 

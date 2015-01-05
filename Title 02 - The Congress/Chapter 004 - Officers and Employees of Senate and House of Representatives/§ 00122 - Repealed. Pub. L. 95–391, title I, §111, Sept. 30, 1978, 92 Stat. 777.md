@@ -12,5 +12,5 @@ July 9, 1952, ch. 598, 66 Stat. 470.
 
 #### Effective Date of Repeal
 
-Section 6(b) of House Resolution No. 687, Ninety-fifth Congress, Sept. 20, 1977, provided that the repeal of thissection is applicable beginning on Jan. 3, 1978, upon the enactment of House Resolution No. 687 as permanent law, which was effected by Pub. L. 95–391, §111.
+Section 6(b) of House Resolution No. 687, Ninety-fifth Congress, Sept. 20, 1977, provided that the repeal of this section is applicable beginning on Jan. 3, 1978, upon the enactment of House Resolution No. 687 as permanent law, which was effected by Pub. L. 95–391, §111.
 

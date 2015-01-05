@@ -12,7 +12,7 @@ Thence south one-fourth mile; thence east one-fourth mile; thence south one-half
 
 Thence east one-half mile; thence south one-fourth mile; thence east one mile; thence south one-fourth mile; thence east one and three-fourths miles; thence south three-fourths mile; thence east three-fourths mile; thence south three-fourths mile; thence east one-half mile; thence south one-fourth mile; thence east one-fourth mile; thence south one-fourth mile; thence east one-fourth mile; thence south one-fourth mile; thence east one-fourth mile; thence south one-fourth mile; thence east one-fourth mile; thence south one-fourth mile; thence east one-half mile; thence south one and one-fourth miles; thence east three-fourths mile; thence north one-half mile; thence east one-fourth mile, to the northeast corner section 19, township 3 south, range 17 east, Black Hills meridian.
 
-Thence north one-half mile; thence east three-fourths mile; thence south two miles; thence east one and one-half miles; thence north one and one-half miles; thence east two miles; thence south one-fourth mile; thence east one-fourth mile; thence south one-fourth mile; thence east one-half mile; thence south one-fourth mile; thence east one-half mile; thence south one-fourth mile; thence east one-half mile, to the northeast corner section 30, township 3 south, range 18 east, Black Hills meridian.
+Thence north one-half mile; thence east three-fourths mile; thence south two miles; thence east one and one-half miles; thence north one and one-half miles; thence east two miles; thence south one-fourth mile; thence east one-fourth mile; thence south one-fourth mile; thence east one-half mile; thence south one-fourth mile; thence east one-half mile; thence south one-fourth mile; thence east one-halfmile, to the northeast corner section 30, township 3 south, range 18 east, Black Hills meridian.
 
 Thence south three-fourths mile; thence east one-fourth mile; thence south one-fourth mile; thence east one-half mile; thence north one-fourth mile; thence east one and one-fourth miles; thence south one-fourth mile; thence east three miles, to the northeast corner of section 36, township 3 south, range 18 east, Black Hills meridian.
 
@@ -30,5 +30,5 @@ Act June 26, 1936, ch. 842, title II, §1, 49 Stat. 1979, provided that the boun
 
 #### Laws Applicable
 
-The provisions of sections 1, 2, 3, and 4 of this title were made applicable to the above added lands by act June 26, 1936, ch. 842, title II, §2, 49 Stat. 1979.
+The provisions of former sections 1, 2, 3, and 4 of this title were made applicable to the above added lands by act June 26, 1936, ch. 842, title II, §2, 49 Stat. 1979. For disposition of sections 1, 2, 3, and 4, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 

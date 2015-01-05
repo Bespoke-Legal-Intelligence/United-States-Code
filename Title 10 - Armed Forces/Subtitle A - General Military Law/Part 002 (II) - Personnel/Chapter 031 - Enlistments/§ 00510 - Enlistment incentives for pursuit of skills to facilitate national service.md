@@ -24,7 +24,7 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;&emsp;(C) in the Individual Ready Reserve;
 
-&emsp;&emsp;(D) in Americorps or another domestic national service program jointly designated bythe Secretary of Defense and the head of such program for purposes of this section; or
+&emsp;&emsp;(D) in Americorps or another domestic national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
 
 &emsp;&emsp;(E) in any combination of service referred to in subparagraphs (A) through (D) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
 
@@ -76,7 +76,7 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (i)
 
-Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total periodof service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) of title 37.
+Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) of title 37.
 
 (j)
 
@@ -130,7 +130,7 @@ Pub. L. 109–364, div. A, title X, §1071(e), Oct. 17, 2006, 120 Stat. 2401, pr
 
 #### Savings Provision
 
-Pub. L. 109–163, div. A, title VI, §687(f), Jan. 6, 2006, 119 Stat. 3336, provided that: "In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c), or (d) of this section \[amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, section 182 of Title 14, Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title 37, Pay and Allowances of the Uniformed Services\], such provision of law, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law."
+Pub. L. 109–163, div. A, title VI, §687(f), Jan. 6, 2006, 119 Stat. 3336, provided that: "In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c), or (d) of this section \[amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, section 182 of Title 14, Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title37, Pay and Allowances of the Uniformed Services\], such provision of law, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law."
 
 #### Transfer of Functions
 
@@ -142,7 +142,7 @@ Pub. L. 107–314, div. A, title V, §531(b), Dec. 2, 2002, 116 Stat. 2544, dire
 
 #### Implementation Report
 
-Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submitto committees of Congress a report on the Secretary's plans for implementation of this section not later than Mar. 31, 2003.
+Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submit to committees of Congress a report on the Secretary's plans for implementation of this section not later than Mar. 31, 2003.
 
 #### Effectiveness Reports
 

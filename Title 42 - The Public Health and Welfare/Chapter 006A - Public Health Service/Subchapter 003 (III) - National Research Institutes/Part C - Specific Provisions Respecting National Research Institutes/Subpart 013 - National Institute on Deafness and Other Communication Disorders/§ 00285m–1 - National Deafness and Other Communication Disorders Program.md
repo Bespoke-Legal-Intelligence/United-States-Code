@@ -12,7 +12,7 @@
 
 &emsp;(4) research into the detection, treatment, and prevention of disorders of hearing and other communication processes in the growing elderly population with extension of rehabilitative programs to ensure continued effective communication skills in such population;
 
-&emsp;(5) research to expand knowledge of the effects of environmental agents that influencehearing or other communication processes; and
+&emsp;(5) research to expand knowledge of the effects of environmental agents that influence hearing or other communication processes; and
 
 &emsp;(6) developing and facilitating intramural programs on clinical and fundamental aspects of disorders of hearing and all other communication processes.
 

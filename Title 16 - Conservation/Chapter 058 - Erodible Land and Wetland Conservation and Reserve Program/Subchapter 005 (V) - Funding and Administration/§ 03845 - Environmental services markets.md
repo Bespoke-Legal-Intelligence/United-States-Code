@@ -62,10 +62,6 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 A prior section 3845, Pub. L. 99–198, title XII, §1245, Dec. 23, 1985, 99 Stat. 1516; Pub. L. 101–624, title XIV, §1443, Nov. 28, 1990, 104 Stat. 3602; Pub. L. 102–552, title V, §516(b)(1), Oct. 28, 1992, 106 Stat. 4137, related to authorization of appropriations, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
-A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
-
-A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101–624, title XIV, §1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, §204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
-
 #### Effective Date
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.

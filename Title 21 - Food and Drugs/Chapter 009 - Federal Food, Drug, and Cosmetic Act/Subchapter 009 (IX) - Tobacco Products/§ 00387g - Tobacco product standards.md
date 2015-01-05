@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may adopt tobacco product standards in addition to those in paragraph\(1) if the Secretary finds that a tobacco product standard is appropriate for the protection of the public health.
+&emsp;&emsp;The Secretary may adopt tobacco product standards in addition to those in paragraph (1) if the Secretary finds that a tobacco product standard is appropriate for the protection of the public health.
 
 #### (B) Determinations
 

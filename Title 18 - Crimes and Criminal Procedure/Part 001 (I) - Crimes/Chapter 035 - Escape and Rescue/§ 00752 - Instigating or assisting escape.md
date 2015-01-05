@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §§246, 247, 252, 661, 662c, 753i, 910 (R.
 
 Section consolidated escape and rescue provisions of sections 246, 247, 252, 661, 662c, 753i, and 910 of title 18, U.S.C., 1940 ed. Remaining provisions of those sections are in sections 1071, 1072, 1502, 1792, 3183, and 3195 of this title.
 
-No two sections provided the same punishment. Every section except said section 252 made the offensea misdemeanor by providing for fines varying from $500 to $1,000 and terms of imprisonment varying from 6 months to 1 year. Said section 252, representing the latest expression by Congress, provided for 10 years' imprisonment.
+No two sections provided the same punishment. Every section except said section 252 made the offense a misdemeanor by providing for fines varying from $500 to $1,000 and terms of imprisonment varying from 6 months to 1 year. Said section 252, representing the latest expression by Congress, provided for 10 years' imprisonment.
 
 The punishment provision was adopted from section 751 of this title, which makes it unlawful for a prisoner to escape from his place of confinement. Thus the same punishment would apply to the person aiding in an escape as to the person escaping.
 

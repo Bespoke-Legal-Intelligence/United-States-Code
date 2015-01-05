@@ -1,6 +1,6 @@
 ### §31100. Purpose
 
-The purpose of this subchapter is to ensure that the Secretary, States, and other politicaljurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient transportation system by—
+The purpose of this subchapter is to ensure that the Secretary, States, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient transportation system by—
 
 &emsp;(1) focusing resources on strategic safety investments to promote safe for-hire and private transportation, including transportation of passengers and hazardous materials, to identify high-risk carriers and drivers, and to invest in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes;
 
@@ -36,7 +36,7 @@ Verification of Commercial Motor Vehicle Traffic.—
 
 &emsp;"(1)
 
-Guidelines.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary \[of Homeland Security\], in consultation with the Secretary of Transportation, shall draft guidelines for Federal, State, and local law enforcement officials, including motor carrier safety enforcement personnel, on how to identify noncompliance with Federal laws uniquely applicable to commercial motor vehicles and commercial motor vehicle operators engaged in cross-border traffic and communicate such noncompliance to the appropriate Federal authorities. Such guidelines shall be coordinated with the training and outreach activities of the Federal Motor Carrier Safety Administration under section 4139 of SAFETEA-LU (Public Law 109–59) \[set out below\].
+Guidelines.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary \[of Homeland Security\], in consultation with the Secretary of Transportation, shall draftguidelines for Federal, State, and local law enforcement officials, including motor carrier safety enforcement personnel, on how to identify noncompliance with Federal laws uniquely applicable to commercial motor vehicles and commercial motor vehicle operators engaged in cross-border traffic and communicate such noncompliance to the appropriate Federal authorities. Such guidelines shall be coordinated with the training and outreach activities of the Federal Motor Carrier Safety Administration under section 4139 of SAFETEA-LU (Public Law 109–59) \[set out below\].
 
 &emsp;"(2)
 
@@ -44,7 +44,7 @@ Verification.—Not later than 18 months after the date of the enactment of this
 
 #### Outreach and Education
 
-Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983, provided that:
+Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, §1102(f), Aug. 8, 2014, 128 Stat. 1844, provided that:
 
 "(a)
 
@@ -70,7 +70,7 @@ Annual Report.—The Secretary shall prepare and transmit to Congress an annual 
 
 "(e)
 
-Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $4,000,000 to the Federal Motor Carrier Safety Administration for each of fiscal years 2013 and 2014 to carry out this section (other than subsection (f))."
+Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $4,000,000 to the Federal Motor Carrier Safety Administration for each of fiscal years 2013 and 2014 and $2,663,014 to the Federal Motor Carrier Safety Administration for the period beginning on October 1, 2014, and ending on May 31, 2015, to carry out this section (other than subsection (f)).
 
 "(f)
 
@@ -190,7 +190,7 @@ Resource needs.—In addition, the strategy and annual plans shall include estim
 
 &emsp;"(3)
 
-Savings clause.—In developing and assessing progress toward meeting the measurable goals setforth in this subsection, the Secretary and the Federal Motor Carrier Safety Administrator shall not take any action that would impinge on the due process rights of motor carriers and drivers.
+Savings clause.—In developing and assessing progress toward meeting the measurable goals set forth in this subsection, the Secretary and the Federal Motor Carrier Safety Administrator shall not take any action that would impinge on the due process rights of motor carriers and drivers.
 
 "(c)
 

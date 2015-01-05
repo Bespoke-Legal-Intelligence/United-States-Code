@@ -38,7 +38,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(B) the average referred to in subsection (a)(1)(A) for such taxable year shall be determined by only taking into account quarters ending on or before such last day, and
 
-&emsp;&emsp;(C) in determining applicable earnings, the amount taken into account by reason of being described in paragraph (2) of section 316(a) shall be the portion of the amount so described which is allocable (on a pro rata basis) to the part of such year during which the corporation is a controlled foreign corporation.
+&emsp;&emsp;(C) in determining applicable earnings, the amount taken into account by reason of being described in paragraph (2) of section 316(a) shall be the portion of the amount sodescribed which is allocable (on a pro rata basis) to the part of such year during which the corporation is a controlled foreign corporation.
 
 #### (c) United States property defined
 
@@ -106,7 +106,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;&emsp;&emsp;(I) a United States shareholder (as defined in section 951(b)) of the controlled foreign corporation, or
 
-&emsp;&emsp;&emsp;&emsp;(II) a partnership, estate, or trust in which the controlled foreign corporation, or any related person (as defined in section 954(d)(3)), is a partner, beneficiary, or trustee immediately after the acquisition of any obligation of such partnership, estate, or trust by the controlled foreign corporation.
+&emsp;&emsp;&emsp;&emsp;(II) a partnership, estate, or trust in which the controlled foreign corporation, or any related person (as defined in section 954(d)(3)), is a partner, beneficiary, or trustee immediately after the acquisition of any obligation of suchpartnership, estate, or trust by the controlled foreign corporation.
 
 > &emsp;For purposes of subparagraphs (I), (J), and (K), the term "dealer in securities" has the meaning given such term by section 475(c)(1), and the term "dealer in commodities" has the meaning given such term by section 475(e), except that such term shall include a futures commission merchant.
 

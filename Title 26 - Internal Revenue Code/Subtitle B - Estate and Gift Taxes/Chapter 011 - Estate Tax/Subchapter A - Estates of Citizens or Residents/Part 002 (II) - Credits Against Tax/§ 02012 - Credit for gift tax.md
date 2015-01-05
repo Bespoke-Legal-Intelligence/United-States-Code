@@ -34,7 +34,7 @@ Where the decedent was the donor of the gift but, under the provisions of sectio
 
 #### (e) Section inapplicable to gifts made after December 31, 1976
 
-No credit shall be allowed under this section with respect to the amount of any tax paid under chapter 12 on any gift made after December 31, 1976.
+No credit shall be allowed under this section with respect to the amount of any tax paidunder chapter 12 on any gift made after December 31, 1976.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 375; Pub. L. 91–614, title I, §102(d)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(1), title XX, §2001(a)(3), (c)(1)(B), Oct. 4, 1976, 90 Stat. 1804, 1848, 1850; Pub. L. 97–34, title IV, §403(a)(2)(A), Aug. 13, 1981, 95 Stat. 301; Pub. L. 107–16, title V, §532(c)(1), June 7, 2001, 115 Stat. 73.)
 
@@ -62,7 +62,7 @@ Subsec. (d)(1). Pub. L. 91–614, §102(d)(2)(A), substituted "the calendar quar
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Pub. L. 107–16, title V, §532(d), June 7, 2001, 115 Stat. 75, provided that: "The amendments made by this section \[enacting section 2058 of this title and amending this section and sections 2011, 2013 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004."
 
 #### Effective Date of 1981 Amendment
 
@@ -70,11 +70,11 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1902(a)(1) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2011 of this title.
+Pub. L. 94–455, title XIX, §1902(c)(1), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: "The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) \[amending this section and sections 2011, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing section 2202 of this title, and enacting provisions set out as a note under section 2201 of this title\] shall apply in the case of estates of decedents dying after the date of the enactment of this Act \[Oct. 4, 1976\], and the amendment made by paragraph (9) of subsection (a) \[amending section 2204 of this title\] shall apply in the case of estates of decedents dying after December 31, 1970."
 
 Amendment by section 2001(a)(3), (c)(1)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 

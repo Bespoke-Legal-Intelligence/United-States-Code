@@ -16,7 +16,7 @@ The Secretary or the transferred works operating entity may carry out, in accord
 
 #### (3) Determination of interest rate
 
-&emsp;The interest rate used for computing interest on work in progress and interest on the unpaid balance of the reimbursable costs of extraordinary operation and maintenance work authorized by this subchapter shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which extraordinary operation and maintenance work is commenced, on the basis of average market yields on outstanding marketable obligations of the United States with the remaining periods of maturity comparable to the applicable reimbursement period of the project, adjusted to the nearest 1/8 of 1 percent on the unamortized balance of any portion of the loan.
+&emsp;The interest rate used for computing interest on work in progress and interest on the unpaid balance of the reimbursable costs of extraordinary operation and maintenance work authorized by this subchapter shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which extraordinary operation and maintenance work is commenced, on the basis of average market yields on outstanding marketable obligations of the United States with the remaining periods of maturity comparable to the applicablereimbursement period of the project, adjusted to the nearest 1/8 of 1 percent on the unamortized balance of any portion of the loan.
 
 #### (c) Emergency extraordinary operation and maintenance work
 

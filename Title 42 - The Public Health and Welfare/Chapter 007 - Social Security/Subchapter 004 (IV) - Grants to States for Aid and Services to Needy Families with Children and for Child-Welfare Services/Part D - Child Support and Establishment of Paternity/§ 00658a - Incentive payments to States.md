@@ -50,7 +50,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (4) Incentive base amount
 
-&emsp;In paragraph (3), the term "incentive base amount" means, with respect to a State and afiscal year, the sum of the applicable percentages (determined in accordance with paragraph (6)) multiplied by the corresponding maximum incentive base amounts for the State for the fiscal year, with respect to each of the following measures of State performance for the fiscal year:
+&emsp;In paragraph (3), the term "incentive base amount" means, with respect to a State and a fiscal year, the sum of the applicable percentages (determined in accordance with paragraph (6)) multiplied by the corresponding maximum incentive base amounts for the State for the fiscal year, with respect to each of the following measures of State performance for the fiscal year:
 
 &emsp;&emsp;(A) The paternity establishment performance level.
 
@@ -144,7 +144,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of support order performance level
 
-&emsp;&emsp;&emsp;The support order performance level for a State for a fiscal year is the percentage of the total number of cases under the State plan approved under this part inwhich there is a support order during the fiscal year.
+&emsp;&emsp;&emsp;The support order performance level for a State for a fiscal year is the percentage of the total number of cases under the State plan approved under this part in which there is a support order during the fiscal year.
 
 #### (ii) Determination of applicable percentage
 
@@ -354,7 +354,7 @@ A State to which a payment is made under this section shall expend the full amou
 
 &emsp;(2) for any activity (including cost-effective contracts with local agencies) approved by the Secretary, whether or not the expenditures for the activity are eligible for reimbursement under this part, which may contribute to improving the effectiveness or efficiency of the State program operated under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §458, formerly §458A, as added and renumbered §458, Pub. L.105–200, title II, §201(a), (f)(2)(A), July 16, 1998, 112 Stat. 648, 658.)
+(Aug. 14, 1935, ch. 531, title IV, §458, formerly §458A, as added and renumbered §458, Pub. L. 105–200, title II, §201(a), (f)(2)(A), July 16, 1998, 112 Stat. 648, 658.)
 
 #### Effective Date
 
@@ -406,5 +406,5 @@ In general.—The Secretary of Health and Human Services, in consultation with S
 
 &emsp;"(B)
 
-Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A)."
+Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report thatdescribes the performance measure and contains the recommendations required by subparagraph (A)."
 

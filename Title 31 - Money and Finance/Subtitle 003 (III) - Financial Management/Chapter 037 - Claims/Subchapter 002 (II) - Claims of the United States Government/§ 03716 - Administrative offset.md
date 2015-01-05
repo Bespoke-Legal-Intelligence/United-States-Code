@@ -2,7 +2,7 @@
 
 (a) After trying to collect a claim from a person under section 3711(a) of this title, the head of an executive, judicial, or legislative agency may collect the claim by administrative offset. The head of the agency may collect by administrative offset only after giving the debtor—
 
-&emsp;(1) written notice of the type and amount of the claim, the intention of the head of theagency to collect the claim by administrative offset, and an explanation of the rights of the debtor under this section;
+&emsp;(1) written notice of the type and amount of the claim, the intention of the head of the agency to collect the claim by administrative offset, and an explanation of the rights of the debtor under this section;
 
 &emsp;(2) an opportunity to inspect and copy the records of the agency related to the claim;
 
@@ -56,7 +56,9 @@
 
 (5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
-(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+(6)(A) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 120 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+
+(B) The Secretary of the Treasury shall notify Congress of any instance in which an agency fails to notify the Secretary as required under subparagraph (A).
 
 (7)(A) The disbursing official conducting an administrative offset with respect to a payment to a payee shall notify the payee in writing of—
 
@@ -100,7 +102,7 @@
 
 (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L.108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590; Pub. L. 113–101, §5, May 9, 2014, 128 Stat. 1153.)
 
 Historical and Revision Notes
 
@@ -140,7 +142,7 @@ In subsection (c)(2), the word "either" is omitted as surplus.
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare.For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -155,6 +157,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(6). Pub. L. 113–101 designated existing provisions as subpar. (A), substituted "120 days" for "180 days", and added subpar. (B).
 
 <b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–275, §189(b)(1), inserted "the Department of Health and Human Services," after "United States Postal Service,".
 
@@ -216,7 +220,7 @@ The failure of some parents to meet their child support obligations threatens th
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury ("the Secretary"), in accordance withthe provisions of the Debt Collection Improvement Act of 1996 and to the extent permitted by law, and in consultation with the Secretary of Health and Human Services and other affected agencies, shall promptly develop and implement procedures necessary for the Secretary to collect past-due child support debts by administrative offset, and shall issue such rules, regulations, and procedures as the Secretary, in consultation with the heads of affected agencies, deems appropriate to govern administrative offsets by the Department of the Treasury and other executive departments and agencies that disburse Federal payments.
+Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury ("the Secretary"), in accordance with the provisions of the Debt Collection Improvement Act of 1996 and to the extent permitted by law, and in consultation with the Secretary of Health and Human Services and other affected agencies, shall promptly develop and implement procedures necessary for the Secretary to collect past-due child support debts by administrative offset, and shall issue such rules, regulations, and procedures as the Secretary, in consultation with the heads of affected agencies, deems appropriate to govern administrative offsets by the Department of the Treasury and other executive departments and agencies that disburse Federal payments.
 
 (2) The Secretary may enter into reciprocal agreements with States concerning the collection by the Secretary of delinquent child support debts through administrative offsets.
 

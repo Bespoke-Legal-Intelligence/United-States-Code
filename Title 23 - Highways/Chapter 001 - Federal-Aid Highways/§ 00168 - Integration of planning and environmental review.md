@@ -56,7 +56,7 @@ Planning decisions.—Planning decisions that may be adopted pursuant to this se
 
 &emsp;&emsp;(A) whether tolling, private financial assistance, or other special financial measures are necessary to implement the project;
 
-&emsp;&emsp;(B) a decision with respect to modal choice, including a decision to implement corridor or subarea study recommendations to advance different modal solutions as separate projects with independent utility;
+&emsp;&emsp;(B) a decision with respect to modal choice, including a decision to implement corridor or subarea study recommendationsto advance different modal solutions as separate projects with independent utility;
 
 &emsp;&emsp;(C) a basic description of the environmental setting;
 
@@ -114,7 +114,7 @@ Conditions.—Adoption and use of a planning product under this section is subje
 
 (e)
 
-Effect of Adoption.—Any planning product adopted by the Federal lead agency in accordance with this section may be incorporated directly into an environmental review process document or other environmental document andmay be relied upon and used by other Federal agencies in carrying out reviews of the project.
+Effect of Adoption.—Any planning product adopted by the Federal lead agency in accordance with this section may be incorporated directly into an environmental review process document or other environmental document and may be relied upon and used by other Federal agencies in carrying out reviews of the project.
 
 (f)
 

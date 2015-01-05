@@ -54,7 +54,7 @@ Credit Transferring Within a Manufacturer's Fleet.—
 
 &emsp;(1)
 
-In general.—The Secretary of Transportation shall establish by regulation a fuel economy credit transferring program to allow any manufacturer whose automobiles exceed any of the average fuel economy standards prescribed under section 32902 to transfer the credits earned under this section and to apply such credits within that manufacturer's fleet to a compliance category of automobiles that fails to achieve the prescribed standards.
+In general.—The Secretary of Transportation shall establish by regulation a fuel economy credit transferring program to allowany manufacturer whose automobiles exceed any of the average fuel economy standards prescribed under section 32902 to transfer the credits earned under this section and to apply such credits within that manufacturer's fleet to a compliance category of automobiles that fails to achieve the prescribed standards.
 
 &emsp;(2)
 
@@ -72,7 +72,7 @@ Maximum increase.—The maximum increase in any compliance category attributable
 
 &emsp;(4)
 
-Limitation.—The transfer of credits by a manufacturer to the category of passengerautomobiles manufactured domestically is limited to the extent that the fuel economy level of such automobiles shall comply with the requirements under section 32904(b)(4), without regard to any transfer of credits from other categories of automobiles described in paragraph (6)(B).
+Limitation.—The transfer of credits by a manufacturer to the category of passenger automobiles manufactured domestically is limited to the extent that the fuel economy level of such automobiles shall comply with the requirements under section 32904(b)(4), without regard to any transfer of credits from other categories of automobiles described in paragraph (6)(B).
 
 &emsp;(5)
 

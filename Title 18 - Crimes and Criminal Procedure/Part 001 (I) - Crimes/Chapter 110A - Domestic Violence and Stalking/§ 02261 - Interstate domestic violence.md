@@ -6,7 +6,7 @@ Offenses.—
 
 &emsp;(1)
 
-Travel or conduct of offender.—A person who travels in interstate or foreign commerce or enters or leaves Indian country or is present within the special maritime and territorial jurisdiction of the United States with the intent to kill, injure, harass, or intimidate a spouse, intimate partner, or dating partner,and who, in the course of or as a result of such travel or presence, commits or attempts to commit a crime of violence against that spouse, intimate partner, or dating partner, shall be punished as provided in subsection (b).
+Travel or conduct of offender.—A person who travels in interstate or foreign commerce or enters or leaves Indian country or is present within the special maritime and territorial jurisdiction of the United States with the intent to kill, injure, harass, or intimidate a spouse, intimate partner, or dating partner, and who, in the course of or as a result of such travel or presence, commits or attempts to commit a crime of violence against that spouse, intimate partner, or dating partner, shall be punished as provided in subsection (b).
 
 &emsp;(2)
 

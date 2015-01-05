@@ -4,7 +4,7 @@ Section 772, act June 28, ch. 392, §1, 50 Stat. 325, provided that this subchap
 
 Section 772a, acts June 28, 1937, ch. 392, §2, 50 Stat. 325; Aug. 8, 1953, ch. 382, 67 Stat. 494, defined "Convention", "Commission", "person", "Territorial waters of the United States", "Territorial waters of Canada", "Convention waters", "halibut", and "vessel". See section 773 of this title.
 
-Section 772b, act June 28, 1937, ch. 392, §3, 50 Stat. 326, enumerated the unlawful acts under the terms of theNorthern Pacific Halibut Act of 1937. See section 773e of this title.
+Section 772b, act June 28, 1937, ch. 392, §3, 50 Stat. 326, enumerated the unlawful acts under the terms of the Northern Pacific Halibut Act of 1937. See section 773e of this title.
 
 Section 772c, act June 28, 1937, ch. 392, §4, 50 Stat. 327, related to the duty of the owner or master of vessels to keep records and reports and to make them available for inspection.
 

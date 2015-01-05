@@ -74,7 +74,7 @@ For the purpose of subsections (a) and (b) of this section—
 
 #### References in Text
 
-Public Law 95–134, referred to in subsec. (b)(4), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified tosection 1469a of Title 48, Territories and Insular Possessions.
+Public Law 95–134, referred to in subsec. (b)(4), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
 #### Prior Provisions
 

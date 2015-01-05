@@ -50,7 +50,7 @@
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: "An assault in violation of this section shall be punished as provided in section 111 of this title."
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–273, §4002(b)(9), substituted "or attempted kidnapping of, or a conspiracyto kidnap, a person" for ", attempted kidnapping, or conspiracy to kidnap of a person".
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–273, §4002(b)(9), substituted "or attempted kidnapping of, or a conspiracy to kidnap, a person" for ", attempted kidnapping, or conspiracy to kidnap of a person".
 
 Subsec. (b)(4). Pub. L. 107–273, §11008(c), substituted "10" for "five" and "6" for "three".
 

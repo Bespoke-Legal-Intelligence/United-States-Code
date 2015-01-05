@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the amount determined under this paragraph for the taxable year shall be an amount equal to 8 percent of the taxable income for such year.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the amount determined under this paragraph forthe taxable year shall be an amount equal to 8 percent of the taxable income for such year.
 
 #### (B) Reduction for amounts referred to in paragraph (1)(A)
 
@@ -72,7 +72,7 @@
 
 #### (1) Establishment of reserves
 
-&emsp;Each taxpayer described in subsection (a) which uses the reserve method of accounting for bad debts shall establish and maintain a reserve for losses on qualifying real property loans, a reserve for losses on nonqualifying loans, and a supplemental reserve for losses on loans. For purposes of this title, such reservesshall be treated as reserves for bad debts, but no deduction shall be allowed for any addition to the supplemental reserve for losses on loans.
+&emsp;Each taxpayer described in subsection (a) which uses the reserve method of accounting for bad debts shall establish and maintain a reserve for losses on qualifying real property loans, a reserve for losses on nonqualifying loans, and a supplemental reserve for losses on loans. For purposes of this title, such reserves shall be treated as reserves for bad debts, but no deduction shall be allowed for any addition to the supplemental reserve for losses on loans.
 
 #### (2) Certain pre-1963 reserves
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) any loan, to the extent secured by a deposit in or share of the taxpayer; or
 
-&emsp;&emsp;(D) any loan which, within a 60-day period beginning in one taxable year of the creditor and ending in its next taxable year, is made or acquired and then repaid or disposed of, unless the transactions by which such loan was made or acquired and then repaid or disposed of are established to be for bona fide business purposes. For purposes of subparagraph (B)(iii), the term "affiliated group" has the meaning assigned to such term by section 1504(a); except that (i) the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" each place it appears in section 1504(a), and (ii) all corporations shall be treated as includible corporations (without any exclusion under section 1504(b)).
+&emsp;&emsp;(D) any loan which, within a 60-day period beginning in one taxable year of the creditor and ending in its next taxable year, is made or acquired and then repaid or disposed of, unless the transactions by which such loan was made or acquired and then repaid or disposed of are established to be for bona fide business purposes. For purposes of subparagraph (B)(iii), the term "affiliated group" has the meaning assigned to such term by section 1504(a); except that (i) the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" each place it appears in section 1504(a), and (ii) all corporations shall be treated as includiblecorporations (without any exclusion under section 1504(b)).
 
 #### (2) Nonqualifying loans
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) then out of such other accounts as may be proper.
 
-> &emsp;This paragraph shall apply in the case of any distribution in redemption of stock or in partial or complete liquidation of a taxpayer having a balance described in subsection (g)(2)(A)(ii), except that any such distribution shall be treated as made first out of the amount referred to in subparagraph (B), second out of the amount referred to in subparagraph (C), third out of the amount referred to in subparagraph (A), and then out of such other accounts as may be proper. This paragraph shall not apply to any transaction to which section 381 applies, or to any distribution to the Federal Savings and Loan Insurance Corporation (or any successor thereof) or the Federal Deposit Insurance Corporation in redemption of an interest in a taxpayer havinga balance described in subsection (g)(2)(A)(ii), if such interest was originally received by any such entity in exchange for assistance provided under a provision of law referred to in section 597(c). This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.
+> &emsp;This paragraph shall apply in the case of any distribution in redemption of stock or in partial or complete liquidation of a taxpayer having a balance described in subsection (g)(2)(A)(ii), except that any such distribution shall be treated as made first out of the amount referred to in subparagraph (B), second out of the amount referred to in subparagraph (C), third out of the amount referred to in subparagraph (A), and then out of such other accounts as may be proper. This paragraph shall not apply to any transaction to which section 381 applies, or to any distribution to the Federal Savings and Loan Insurance Corporation (or any successor thereof) or the Federal Deposit Insurance Corporation in redemption of an interest in a taxpayer having a balance described in subsection (g)(2)(A)(ii), if such interest was originally received by any such entity in exchange for assistance provided under a provision of law referred to in section 597(c). This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.
 
 #### (2) Amounts charged to reserve accounts and included in gross income
 
@@ -270,7 +270,7 @@ Section 5(e) of the Federal Deposit Insurance Act, referred to in subsec. (e)(1)
 
 Subsec. (e)(1). Pub. L. 104–188, §1616(b)(7)(A), substituted "by a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "by a domestic building and loan association or an institution that is treated as a mutual savings bank under section 591(b)" in introductory provisions.
 
-Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted "a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "the association or an institution that is treated as a mutual savings bank under section 591(b)" after "complete liquidation of" and for "an association" after "an interest in" andinserted at end "This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect."
+Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted "a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "the association or an institution that is treated as a mutual savings bank under section 591(b)" after "complete liquidation of" and for "an association" after "an interest in" and inserted at end "This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect."
 
 Subsec. (e)(1)(B). Pub. L. 104–188, §1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),".
 
@@ -376,7 +376,7 @@ Subsection (b)(7)(B).—The amendments made by subsection (b)(7)(B) \[amending t
 
 &emsp;"(A) such stock is outstanding at all times after October 31, 1995, and before the distribution, and
 
-&emsp;"(B) such distribution is made before the date which is 1 year after the date of the enactment of this Act \[Aug. 20, 1996\] (or, in the case of stock which may be redeemed, if later, the date which is 30 days after the earliest date that such stock may be redeemed).
+&emsp;"(B) such distribution is made before the date which is 1 year after the date of the enactment of thisAct \[Aug. 20, 1996\] (or, in the case of stock which may be redeemed, if later, the date which is 30 days after the earliest date that such stock may be redeemed).
 
 "(3)
 

@@ -14,19 +14,19 @@ The cost of real property shall not include any amount in respect of real proper
 
 &emsp;In the case of the sale, exchange, or other disposition of a specified security on or after the applicable date, the conventions prescribed by regulations under this section shall be applied on an account by account basis.
 
-#### (2) Application to certain funds
+#### (2) Application to certain regulated investment companies
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any stock for which an average basis method is permissible under section 1012 which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
+&emsp;&emsp;Except as provided in subparagraph (B), any stock for which an average basis method is permissible under this section which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
 
-#### (B) Election fund for treatment as single account
+#### (B) Election for treatment as single account
 
-&emsp;&emsp;If a fund described in subparagraph (A) elects to have this subparagraph apply with respect to one or more of its stockholders—
+&emsp;&emsp;If a regulated investment company described in subparagraph (A) elects to have this subparagraph apply with respect to one or more of its stockholders—
 
-&emsp;&emsp;&emsp;(i) subparagraph (A) shall not apply with respect to any stock in such fund held by such stockholders, and
+&emsp;&emsp;&emsp;(i) subparagraph (A) shall not apply with respect to any stock in such regulated investment company held by such stockholders, and
 
-&emsp;&emsp;&emsp;(ii) all stock in such fund which is held by such stockholders shall be treated as covered securities described in section 6045(g)(3) without regard to the date of the acquisition of such stock.
+&emsp;&emsp;&emsp;(ii) all stock in such regulated investment company which is held by such stockholders shall be treated as covered securities described in section 6045(g)(3) without regard to the date of the acquisition of such stock.
 
 > &emsp;&emsp;A rule similar to the rule of the preceding sentence shall apply with respect to a broker holding such stock as a nominee.
 
@@ -38,7 +38,7 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (1) In general
 
-&emsp;In the case of any stock acquired after December 31, 2010, in connection with a dividend reinvestment plan, the basis of such stock while held as part of such plan shall be determined using one of the methods which may be used for determining the basis of stock in an open-end fund.
+&emsp;In the case of any stock acquired after December 31, 2011, in connection with a dividend reinvestment plan, the basis of such stock while held as part of such plan shall be determined using one of the methods which may be used for determining the basis of stock in a regulated investment company.
 
 #### (2) Treatment after transfer
 
@@ -46,7 +46,13 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (3) Separate accounts; election for treatment as single account
 
-&emsp;Rules similar to the rules of subsection (c)(2) shall apply for purposes of this subsection.
+#### (A) In general
+
+&emsp;&emsp;Rules similar to the rules of subsection (c)(2) shall apply for purposes of this subsection.
+
+#### (B) Average basis method
+
+&emsp;&emsp;Notwithstanding paragraph (1), in the case of an election under rules similar to the rules of subsection (c)(2)(B) with respect to stock held in connection with a dividend reinvestment plan, the average basis method is permissible with respect to all such stock without regard to the date of the acquisition of such stock.
 
 #### (4) Dividend reinvestment plan
 
@@ -58,13 +64,29 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (B) Initial stock acquisition treated as acquired in connection with plan
 
-&emsp;&emsp;Stock shall be treated as acquired in connection with a dividend reinvestment plan ifsuch stock is acquired pursuant to such plan or if the dividends paid on such stock are subject to such plan.
+&emsp;&emsp;Stock shall be treated as acquired in connection with a dividend reinvestment plan if such stock is acquired pursuant to such plan or if the dividends paid on such stock are subject to such plan.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 110–343, div. B, title IV, §403(b), Oct. 3, 2008, 122 Stat. 3857.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 110–343, div. B, title IV, §403(b), Oct. 3, 2008, 122 Stat. 3857; Pub. L. 113–295, div. A, title II, §§210(f)(1)–(3), 220(n), Dec. 19, 2014, 128 Stat. 4031, 4032, 4036.)
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–295, §210(f)(1)(A), substituted "regulated investment companies" for "funds" in heading.
+
+Subsec. (c)(2)(A). Pub. L. 113–295, §220(n), substituted "this section" for "section 1012".
+
+Subsec. (c)(2)(B). Pub. L. 113–295, §210(f)(1)(C), substituted "regulated investment company" for "fund" wherever appearing.
+
+Pub. L. 113–295, §210(f)(1)(B), struck out "fund" after "Election" in heading.
+
+Subsec. (d)(1). Pub. L. 113–295, §210(f)(2), substituted "December 31, 2011" for "December 31, 2010" and "a regulated investment company" for "an open-end fund".
+
+Subsec. (d)(3). Pub. L. 113–295, §210(f)(3), amended par. (3) generally. Prior to amendment, text read as follows: "Rules similar to the rules of subsection (c)(2) shall apply for purposes of this subsection."
+
 <b>2008</b>—Pub. L. 110–343 designated first sentence as subsec. (a) and second sentence as subsec. (b), inserted headings, and added subsecs. (c) and (d).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by section 210(f)(1)–(3) of Pub. L. 113–295 effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, Pub. L. 110–343, div. B, to which such amendment relates, see section 210(h) of Pub. L. 113–295, set out as a note under section 45 of this title.
 
 #### Effective Date of 2008 Amendment
 

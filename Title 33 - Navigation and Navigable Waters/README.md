@@ -12,7 +12,7 @@
 | [<b>6.</b>](Chapter%20006%20-%20General%20Duties%20of%20Ship%20Officers%20and%20Owners%20After%20Collision%20or%20Other%20Accident/README.md) | <b>General Duties of Ship Officers and Owners After Collision or Other Accident \[Repealed\]</b> | <b>361</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Regulations%20for%20the%20Suppression%20of%20Piracy/README.md) | <b>Regulations for the Suppression of Piracy</b> | <b>381</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Summary%20Trials%20for%20Certain%20Offenses%20Against%20Navigation%20Laws/README.md) | <b>Summary Trials for Certain Offenses Against Navigation Laws</b> | <b>391</b> |
-| [<b>9.</b>](Chapter%20009%20-%20Protection%20of%20Navigable%20Waters%20and%20of%20Harbor%20and%20River%20Improvements%20Generally/README.md) | <b>Protection of Navigable Waters and of Harbor and River Improvements Generally</b> | <b>401</b> |
+| [<b>9.</b>](Chapter%20009%20-%20Protection%20of%20Navigable%20Waters%20and%20of%20Harbor%20and%20River%20Improvements%20Generally/README.md) | <b>Protection of Navigable Waters and of Harbor and River Improvements Generally</b> | <b>400</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Anchorage%20Grounds%20and%20Harbor%20Regulations%20Generally/README.md) | <b>Anchorage Grounds and Harbor Regulations Generally</b> | <b>471</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Bridges%20Over%20Navigable%20Waters/README.md) | <b>Bridges Over Navigable Waters</b> | <b>491</b> |
 | [<b>12.</b>](Chapter%20012%20-%20River%20and%20Harbor%20Improvements%20Generally/README.md) | <b>River and Harbor Improvements Generally</b> | <b>540</b> |
@@ -55,6 +55,8 @@
 | [<b>49.</b>](Chapter%20049%20-%20Integrated%20Coastal%20and%20Ocean%20Observation%20System/README.md) | <b>Integrated Coastal and Ocean Observation System</b> | <b>3601</b> |
 | [<b>50.</b>](Chapter%20050%20-%20Federal%20Ocean%20Acidification%20Research%20and%20Monitoring/README.md) | <b>Federal Ocean Acidification Research and Monitoring</b> | <b>3701</b> |
 | [<b>51.</b>](Chapter%20051%20-%20Clean%20Hulls/README.md) | <b>Clean Hulls</b> | <b>3801</b> |
+| [<b>52.</b>](Chapter%20052%20-%20Water%20Infrastructure%20Finance%20and%20Innovation/README.md) | <b>Water Infrastructure Finance and Innovation</b> | <b>3901</b> |
+| [<b>53.</b>](Chapter%20053%20-%20Harmful%20Algal%20Bloom%20and%20Hypoxia%20Research%20and%20Control/README.md) | <b>Harmful Algal Bloom and Hypoxia Research and Control</b> | <b>4001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -116,3 +118,5 @@
 - [Chapter 049 - Integrated Coastal and Ocean Observation System](Chapter%20049%20-%20Integrated%20Coastal%20and%20Ocean%20Observation%20System/README.md)
 - [Chapter 050 - Federal Ocean Acidification Research and Monitoring](Chapter%20050%20-%20Federal%20Ocean%20Acidification%20Research%20and%20Monitoring/README.md)
 - [Chapter 051 - Clean Hulls](Chapter%20051%20-%20Clean%20Hulls/README.md)
+- [Chapter 052 - Water Infrastructure Finance and Innovation](Chapter%20052%20-%20Water%20Infrastructure%20Finance%20and%20Innovation/README.md)
+- [Chapter 053 - Harmful Algal Bloom and Hypoxia Research and Control](Chapter%20053%20-%20Harmful%20Algal%20Bloom%20and%20Hypoxia%20Research%20and%20Control/README.md)

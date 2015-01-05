@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) a description of high-quality student academic assessments, if any, that are in addition to the academic assessments described in the State plan under section 6311(b)(3) of this title, that the local educational agency and schools served under this part will use—
 
-&emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting the State student academic achievement standards, and to provide information toteachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
+&emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting theState student academic achievement standards, and to provide information to teachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
 
 &emsp;&emsp;&emsp;(ii) to assist in diagnosis, teaching, and learning in the classroom in ways that best enable low-achieving children served under this part to meet State student achievement academic standards and do well in the local curriculum;
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(A) shall consult with the Secretary of Health and Human Services and shall establish procedures (taking into consideration existing State and local laws, and local teacher contracts) to assist local educational agencies to comply with such subparagraph; and
 
-&emsp;&emsp;(B) shall disseminate to local educational agencies the education performance standards in effect under section 9836a(a)(1)(B) of title 42, and such agencies affected by such subparagraph shall plan for the implementation of such subparagraph (taking into consideration existing State and local laws, and local teacher contracts), including pursuing the availability of other Federal, State, andlocal funding sources to assist in compliance with such subparagraph.
+&emsp;&emsp;(B) shall disseminate to local educational agencies the education performance standards in effect under section 9836a(a)(1)(B) of title 42, and such agencies affected by such subparagraph shall plan for the implementation of such subparagraph (taking into consideration existing State and local laws, and local teacher contracts), including pursuing the availability of other Federal, State, and local funding sources to assist in compliance with such subparagraph.
 
 #### (3) Inapplicability
 
@@ -188,7 +188,7 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 #### (B) Separate notification
 
-&emsp;&emsp;In addition to providing the information required to be provided under paragraph (1), each eligible entity that is using funds provided under this part to provide a language instruction educational program, and that has failed to make progress on the annual measurable achievement objectives described in section 6842 of this title for any fiscal year for which part A<sup>1</sup> is in effect, shall separately inform a parent or the parents of a child identified for participation in such program, or participating in such program, of such failure not later than 30 days after such failure occurs.
+&emsp;&emsp;In addition to providing the information required to be provided under paragraph (1), each eligible entity that is using funds provided under this part to provide a language instruction educational program, and that has failed to make progress on the annual measurable achievement objectives described in section 6842 of this title for anyfiscal year for which part A<sup>1</sup> is in effect, shall separately inform a parent or the parents of a child identified for participation in such program, or participating in such program, of such failure not later than 30 days after such failure occurs.
 
 #### (2) Notice
 

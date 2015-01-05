@@ -8,7 +8,7 @@
 
 #### (2) Commencement of program
 
-&emsp;Establishment of the policies and procedures and other similar administrative requirements imposed on the Secretary by this chapter are not intended to delay the commencement of the TARP.
+&emsp;Establishment of the policies and procedures and other similar administrative requirementsimposed on the Secretary by this chapter are not intended to delay the commencement of the TARP.
 
 #### (3) Establishment of Treasury office
 

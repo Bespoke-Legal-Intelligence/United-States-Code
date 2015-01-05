@@ -40,7 +40,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;(2) the information provided to the maternal donor regarding all of her medically appropriate cord blood options.
 
-> Based on such examination, the Secretary shall require that the standards used by the accreditation entities recognized under subsection (b) of this section ensure that a cord blood unit is acquired with the informed consent of the maternal donor.
+> Based on such examination, the Secretary shall require that the standards used by the accreditation entities recognized under subsection (b) of this section ensure that a cord blood unit isacquired with the informed consent of the maternal donor.
 
 #### (d) Functions
 
@@ -84,7 +84,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;&emsp;(iv) support and expand new and existing studies and demonstration and outreach projects for the purpose of increasing cord blood unit donation and collection from a genetically diverse population and expanding the number of cord blood unit collection sites partnering with cord blood banks receiving a contract under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005, including such studies and projects that focus on—
 
-&emsp;&emsp;&emsp;&emsp;(I) remote collection of cord blood units, consistent with the requirements under the Program and the National Cord Blood Inventory program goal described in section 2(a) of the Stem CellTherapeutic and Research Act of 2005; and
+&emsp;&emsp;&emsp;&emsp;(I) remote collection of cord blood units, consistent with the requirements under the Program and the National Cord Blood Inventory program goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005; and
 
 &emsp;&emsp;&emsp;&emsp;(II) exploring novel approaches or incentives to encourage innovative technological advances that could be used to collect cord blood units, consistent with the requirements under the Program and such National Cord Blood Inventory program goal;
 
@@ -94,7 +94,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;&emsp;(vii) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage; and
 
-&emsp;&emsp;&emsp;(viii) with respect to the system under subparagraph (A), collect, analyze, and publish data in a standardized electronic format, as required by the Secretary, on the number and percentage of patients at each of the various stages of the search process, including data regarding the furthest stage reached, the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances.
+&emsp;&emsp;&emsp;(viii) with respect to the system under subparagraph (A), collect, analyze, and publish data in a standardized electronic format, as required by the Secretary, on the number and percentage of patients ateach of the various stages of the search process, including data regarding the furthest stage reached, the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances.
 
 #### (B) Efforts to increase collection of high quality cord blood units
 
@@ -136,7 +136,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;The Program shall carry out activities for the recruitment of bone marrow donors. Such recruitment program shall identify populations that are underrepresented among potential donors enrolled with the Program. In the case of populations that are identified under the preceding sentence:
 
-&emsp;&emsp;(A) The Program shall give priority to carrying out activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable unrelateddonor that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
+&emsp;&emsp;(A) The Program shall give priority to carrying out activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable unrelated donor that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
 
 &emsp;&emsp;(B) The Program shall consider racial and ethnic minority groups (including persons of mixed ancestry) to be populations that have been identified for purposes of this paragraph, and shall carry out subparagraph (A) with respect to such populations.
 
@@ -278,7 +278,7 @@ The Secretary shall establish and provide information to the public on procedure
 
 #### (j) Consultation
 
-In developing policies affecting the Program, the Secretary shall consult with the AdvisoryCouncil, the Department of Defense Marrow Donor Recruitment and Research Program operated by the Department of the Navy, and the board of directors of each entity awarded a contract under this section.
+In developing policies affecting the Program, the Secretary shall consult with the Advisory Council, the Department of Defense Marrow Donor Recruitment and Research Program operated by the Department of the Navy, and the board of directors of each entity awarded a contract under this section.
 
 #### (k) Contracts
 
@@ -298,7 +298,7 @@ Entities eligible to receive a contract under this section shall include private
 
 #### (1) Recordkeeping
 
-&emsp;Each recipient of a contract or subcontract under subsection (a) of this section shall keep such records as the Secretary shall prescribe, including records that fully disclose the amount and disposition by the recipient of the proceeds of the contract, the total cost of the undertaking in connection with which the contract was made, and the amount of the portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+&emsp;Each recipient of a contract or subcontract under subsection (a) of this section shall keepsuch records as the Secretary shall prescribe, including records that fully disclose the amount and disposition by the recipient of the proceeds of the contract, the total cost of the undertaking in connection with which the contract was made, and the amount of the portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (2) Examination of records
 
@@ -380,7 +380,7 @@ Pub. L. 101–616, title I, §102, Nov. 16, 1990, 104 Stat. 3282, provided that:
 
 "(a)
 
-In General.—This title \[enacting this section and section 274l of this title and amending section 274a of this title\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[42 U.S.C. 274a(b)\] (as it existed before the amendment made by section 101(b) of this Act).
+In General.—This title \[enacting this section and section 274l of this title and amending section 274aof this title\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[42 U.S.C. 274a(b)\] (as it existed before the amendment made by section 101(b) of this Act).
 
 "(b)
 
@@ -472,7 +472,7 @@ Extension eligibility.—A qualified cord blood bank shall be eligible for a 5-y
 
 &emsp;&emsp;"(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) and achieves the overall goals for which the contract was awarded;
 
-&emsp;&emsp;"(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collections at collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and
+&emsp;&emsp;"(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collectionsat collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and
 
 &emsp;&emsp;"(C) annually provides to the Secretary a plan for, and demonstrates, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations.
 

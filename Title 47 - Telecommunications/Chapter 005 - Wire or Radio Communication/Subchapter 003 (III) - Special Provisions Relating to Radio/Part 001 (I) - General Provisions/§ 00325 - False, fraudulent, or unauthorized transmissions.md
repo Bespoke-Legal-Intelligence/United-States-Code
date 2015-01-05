@@ -26,7 +26,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;&emsp;(iii) the satellite carrier complies with any network nonduplication, syndicated exclusivity, and sports blackout rules adopted by the Commission under section 339(b) of this title;
 
-&emsp;(C) until December 31, 2014, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
+&emsp;(C) until December 31, 2019, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
 
 &emsp;&emsp;(i) is located in an area outside the local market of such stations; and
 
@@ -50,9 +50,13 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;(i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph;
 
-&emsp;(ii) until January 1, 2015, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; and
+&emsp;(ii) until January 1, 2020, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations;
 
-&emsp;(iii) until January 1, 2015, prohibit a multichannel video programming distributor fromfailing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations.
+&emsp;(iii) until January 1, 2020, prohibit a multichannel video programming distributor fromfailing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations;
+
+&emsp;(iv) prohibit a television broadcast station from coordinating negotiations or negotiating on a joint basis with another television broadcast station in the same local market (as defined in section 122(j) of title 17) to grant retransmission consent under this section to a multichannel video programming distributor, unless such stations are directly or indirectly under common de jure control permitted under the regulations of the Commission; and
+
+&emsp;(v) prohibit a television broadcast station from limiting the ability of a multichannel video programming distributor to carry into the local market (as defined in section 122(j) of title 17) of such station a television signal that has been deemed significantly viewed, within the meaning of section 76.54 of title 47, Code of Federal Regulations, or any successor regulation, or any other television broadcast signal such distributor is authorized to carry under section 338, 339, 340, or 534 of this title, unless such stations are directly or indirectly under common de jure control permitted by the Commission.
 
 (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of section 534 of this title shall not apply to the carriage of the signal of such station by such cable system. If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, section 338 of this title shall not apply to the carriage of the signal of such station by such satellite carrier.
 
@@ -94,7 +98,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (2) Service of complaints on satellite carriers
 
-&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) of this section through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked "URGENT LITIGATION MATTER" on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
+&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) of this section through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commissionand serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked "URGENT LITIGATION MATTER" on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
 
 #### (3) Answers by satellite carriers
 
@@ -188,9 +192,21 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
-(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(b), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(b), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(b), Apr. 15, 2010, 124 Stat. 1119; Pub. L. 111–175, title II, §202, May 27, 2010, 124 Stat. 1245.)
+(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(b), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(b), Mar. 26, 2010, 124 Stat. 1027; Pub.L. 111–157, §9(b), Apr. 15, 2010, 124 Stat. 1119; Pub. L. 111–175, title II, §202, May 27, 2010, 124 Stat. 1245; Pub. L. 113–200, title I, §§101, 103(a), (b), (d), Dec. 4, 2014, 128 Stat. 2060, 2062.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(C). Pub. L. 113–200, §101(1), substituted "December 31, 2019" for "December 31, 2014" in introductory provisions.
+
+Subsec. (b)(3)(C)(ii). Pub. L. 113–200, §101(2), substituted "January 1, 2020" for "January 1, 2015".
+
+Subsec. (b)(3)(C)(iii). Pub. L. 113–200, §§101(2), 103(d)(1), substituted "January 1, 2020" for "January 1, 2015" and realigned margins.
+
+Subsec. (b)(3)(C)(iv). Pub. L. 113–200, §103(a), added cl. (iv).
+
+Subsec. (b)(3)(C)(v). Pub. L. 113–200, §103(b), added cl. (v).
+
+Subsec. (b)(7). Pub. L. 113–200, §103(d)(2), realigned margins.
 
 <b>2010</b>—Subsec. (b)(2)(C). Pub. L. 111–175, §202(1), substituted "December 31, 2014" for "May 31, 2010" in introductory provisions.
 
@@ -262,6 +278,8 @@ Pub. L. 102–385, §28, Oct. 5, 1992, 106 Stat. 1503, provided that: "Except wh
 
 #### Regulations
 
+Pub. L. 113–200, title I, §103(e), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall promulgate regulations to implement the amendments made by this section \[amending this section\]."
+
 Pub. L. 108–447, div. J, title IX \[title II, §207(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "The Federal Communications Commission shall prescribe regulations to implement the amendment made by subsection (a)(5) \[amending this section\] within 180 days after the date of enactment of this Act \[Dec. 8, 2004\]."
 
 #### Savings Clause Regarding Definitions
@@ -274,7 +292,11 @@ Pub. L. 111–175, title II, §208, May 27, 2010, 124 Stat. 1254, provided that:
 
 #### Severability
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–543, provided that: "If any provision of section 325(b) of the Communications Act of 1934 (47 U.S.C. 325(b)), or the application of that provision to any person or circumstance, is held by a court of competent jurisdiction to violate any provision of the Constitution of the United States, then the other provisions of that section, and the application of that provision to other persons and circumstances, shall not be affected."
+Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–543, provided that: "If anyprovision of section 325(b) of the Communications Act of 1934 (47 U.S.C. 325(b)), or the application of that provision to any person or circumstance, is held by a court of competent jurisdiction to violate any provision of the Constitution of the United States, then the other provisions of that section, and the application of that provision to other persons and circumstances, shall not be affected."
+
+#### Good Faith
+
+Pub. L. 113–200, title I, §103(c), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall commence a rulemaking to review its totality of the circumstances test for good faith negotiations under clauses (ii) and (iii) of section 325(b)(3)(C) of the Communications Act of 1934 (47 U.S.C. 325(b)(3)(C))."
 
 #### Digital Transition Savings Provision
 

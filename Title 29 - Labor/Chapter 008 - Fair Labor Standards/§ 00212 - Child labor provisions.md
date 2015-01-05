@@ -6,7 +6,7 @@ No producer, manufacturer, or dealer shall ship or deliver for shipment in comme
 
 #### (b) Investigations and inspections
 
-The Secretary of Labor or any of his authorized representatives, shall make all investigations and inspections under section 211(a) of this title with respect to the employment of minors, and, subject to the direction and control of the Attorney General, shall bring all actions under section 217 of this title to enjoin any act or practice which is unlawful by reason of the existence of oppressive child labor, and shall administer all other provisions of this chapter relating to oppressive child labor.
+The Secretary of Labor or any of his authorized representatives, shall make all investigations and inspections under section 211(a) of this title with respect to the employment of minors, and, subject to the direction and control of the Attorney General, shall bring all actions undersection 217 of this title to enjoin any act or practice which is unlawful by reason of the existence of oppressive child labor, and shall administer all other provisions of this chapter relating to oppressive child labor.
 
 #### (c) Oppressive child labor
 

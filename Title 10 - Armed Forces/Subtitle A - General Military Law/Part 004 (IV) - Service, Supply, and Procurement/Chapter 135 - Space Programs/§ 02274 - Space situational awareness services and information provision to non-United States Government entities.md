@@ -56,7 +56,7 @@ Immunity.—The United States, any agencies and instrumentalities thereof, and a
 
 Notice of Concerns of Disclosure of Information.—If the Secretary determines that a commercial or foreign entity has declined or is reluctant to provide data or information to the Secretary in accordance with this section due to the concerns of such entity about the potential disclosure of such data or information, the Secretary shall, not later than 60 days after the Secretary makes that determination, provide notice to the congressional defense committees of the declination or reluctance of such entity.
 
-(Added Pub. L. 108–136, div. A, title IX, §913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L. 109–364, div. A, title IX, §912, Oct. 17, 2006, 120 Stat. 2355; Pub. L. 110–417, \[div. A\], title IX, §911, Oct. 14, 2008, 122 Stat. 4571; Pub. L. 111–84, div. A, title IX, §912(a), Oct. 28, 2009, 123 Stat. 2429.)
+(Added Pub. L. 108–136, div. A, title IX, §913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L.109–364, div. A, title IX, §912, Oct. 17, 2006, 120 Stat. 2355; Pub. L. 110–417, \[div. A\], title IX, §911, Oct. 14, 2008, 122 Stat. 4571; Pub. L. 111–84, div. A, title IX, §912(a), Oct. 28, 2009, 123 Stat. 2429.)
 
 #### Prior Provisions
 

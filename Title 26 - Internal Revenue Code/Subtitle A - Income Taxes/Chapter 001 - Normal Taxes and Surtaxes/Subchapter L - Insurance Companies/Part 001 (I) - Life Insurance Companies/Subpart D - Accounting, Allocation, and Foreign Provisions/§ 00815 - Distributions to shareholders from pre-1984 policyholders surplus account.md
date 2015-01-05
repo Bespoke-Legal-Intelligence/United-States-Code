@@ -36,7 +36,7 @@ For purposes of this section, any distribution to shareholders shall be treated 
 
 &emsp;&emsp;&emsp;(ii) the small life insurance company deduction provided by section 806, and
 
-&emsp;&emsp;&emsp;(iii) the deductions for dividends received provided by sections 243, 244, and 245 (as modified by section 805(a)(4)) and the amount of interest excluded from gross income under section 103, over
+&emsp;&emsp;&emsp;(iii) the deductions for dividends received provided by sections 243 and 245 (as modified by section 805(a)(4)) and the amount of interest excluded from gross income under section 103, over
 
 &emsp;&emsp;(B) the taxes imposed for the taxable year by section 801 (determined without regard to this section).
 
@@ -80,7 +80,7 @@ In the case of any taxable year of a stock life insurance company beginning afte
 
 &emsp;(2) notwithstanding subsection (b), in determining any subtractions from an account under subsections (c)(3) and (d)(3), any distribution to shareholders during such taxable year shall be treated as made first out of the policyholders surplus account, then out of the shareholders surplus account, and finally out of other accounts.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 747; amended Pub. L. 99–514, title X, §1011(b)(10), title XVIII, §1821(k)(1), (2), Oct. 22, 1986, 100 Stat. 2389, 2841; Pub. L. 100–647, title I, §1010(j)(1), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 108–357, title VII, §705(a), Oct. 22, 2004, 118 Stat. 1549.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 747; amended Pub. L. 99–514, title X, §1011(b)(10), title XVIII, §1821(k)(1), (2), Oct. 22, 1986, 100 Stat. 2389, 2841; Pub. L. 100–647, title I, §1010(j)(1), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 108–357, title VII, §705(a), Oct. 22, 2004, 118 Stat. 1549; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### References in Text
 
@@ -88,9 +88,11 @@ The enactment of the Tax Reform Act of 1984, referred to in subsec. (f), means t
 
 #### Prior Provisions
 
-A prior section 815, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 129; amended Pub. L. 87–790, §3(b), Oct. 10, 1962, 76 Stat. 808; Pub. L. 87–858, §3(b)(4), (e), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–571, §§2, 3(a), 4(a), Sept. 2, 1964, 78 Stat. 857, 859; Pub. L. 90–225, §4(a), (b), Dec. 27, 1967, 81 Stat. 733, 734; Pub. L. 91–172, title IX, §907(b), Dec. 30, 1969, 83 Stat. 715; Pub. L. 94–331, §1(a), June 30, 1976, 90 Stat. 781; Pub. L. 94–455, title XIX, §§1901(b)(1)(O), (24), (33)(H), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1791, 1798, 1801, 1834, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, §211(a).
+A prior section 815, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 129; amended Pub. L. 87–790, §3(b), Oct. 10, 1962, 76 Stat. 808; Pub. L. 87–858, §3(b)(4), (e), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–571, §§2, 3(a), 4(a), Sept. 2, 1964, 78 Stat. 857, 859; Pub. L. 90–225, §4(a), (b), Dec. 27, 1967, 81 Stat. 733, 734; Pub. L. 91–172, title IX, §907(b), Dec. 30, 1969, 83 Stat. 715; Pub. L. 94–331, §1(a), June 30, 1976, 90 Stat. 781; Pub. L. 94–455, title XIX,§§1901(b)(1)(O), (24), (33)(H), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1791, 1798, 1801, 1834, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2)(A)(iii). Pub. L. 113–295 struck out ", 244," after "sections 243".
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–357 added subsec. (g).
 
@@ -101,6 +103,12 @@ A prior section 815, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 129;
 Subsec. (c)(2)(A)(ii). Pub. L. 99–514, §1011(b)(10), substituted "small life insurance company deduction" for "special deductions".
 
 Subsec. (f). Pub. L. 99–514, §1821(k)(1), inserted reference to section 819(b).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2004 Amendment
 

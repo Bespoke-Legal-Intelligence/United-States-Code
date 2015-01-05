@@ -6,7 +6,7 @@ There is established the National Windstorm Impact Reduction Program.
 
 #### (b) Objective
 
-The objective of the Program is the achievement of major measurable reductions in losses of life and property from windstorms. The objective is to be achieved through a coordinated Federal effort, in cooperation with other levelsof government, academia, and the private sector, aimed at improving the understanding of windstorms and their impacts and developing and encouraging implementation of cost-effective mitigation measures to reduce those impacts.
+The objective of the Program is the achievement of major measurable reductions in losses of life and property from windstorms. The objective is to be achieved through a coordinated Federal effort, in cooperation with other levels of government, academia, and the private sector, aimed at improving the understanding of windstorms and their impacts and developing and encouraging implementation of cost-effective mitigation measures to reduce those impacts.
 
 #### (c) Interagency Working Group
 

@@ -28,7 +28,7 @@
 
 &emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(2) shall be equal to the amount determined by multiplying—
 
-&emsp;&emsp;(A) the loan deficiency payment rate determined under section 8735(c) of this title ineffect for wheat, as of the date of the agreement, for the county in which the farm is located; by
+&emsp;&emsp;(A) the loan deficiency payment rate determined under section 8735(c) of this title in effect for wheat, as of the date of the agreement, for the county in which the farm is located; by
 
 &emsp;&emsp;(B) the payment quantity determined by multiplying—
 

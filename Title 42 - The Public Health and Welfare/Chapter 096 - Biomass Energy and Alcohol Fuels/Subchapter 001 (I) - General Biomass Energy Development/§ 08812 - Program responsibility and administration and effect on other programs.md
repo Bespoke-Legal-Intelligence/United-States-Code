@@ -40,7 +40,7 @@
 
 &emsp;(E) all interested persons are provided the easiest possible access to the application process, including procedures which assure that—
 
-&emsp;&emsp;(i) information concerning financial assistance from either Secretary is available through all appropriate offices of the Department of Agriculture and the Department of Energy, and other regional and local offices of the Federal Government, as may be appropriate;
+&emsp;&emsp;(i) information concerning financial assistance from either Secretary is availablethrough all appropriate offices of the Department of Agriculture and the Department of Energy, and other regional and local offices of the Federal Government, as may be appropriate;
 
 &emsp;&emsp;(ii) all such locations where such information is available will be able to accept and file applications, and will forward them to the Secretary concerned; and
 

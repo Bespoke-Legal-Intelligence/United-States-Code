@@ -32,7 +32,7 @@ Requirements.—An amateur sports organization or person may be granted a sancti
 
 &emsp;(4) The requirements referred to in paragraphs (2) and (3) of this subsection are that—
 
-&emsp;&emsp;(A) appropriate measures have been taken to protect the amateur status of athleteswho will take part in the competition and to protect their eligibility to compete in amateur athletic competition;
+&emsp;&emsp;(A) appropriate measures have been taken to protect the amateur status of athletes who will take part in the competition and to protect their eligibility to compete in amateur athletic competition;
 
 &emsp;&emsp;(B) appropriate provision has been made for validation of any records established during the competition;
 

@@ -22,7 +22,7 @@
 
 #### (5) Application of other Federal law
 
-&emsp;For any petition under paragraph (2) the provisions of such other Federal law shall control all other matters, such as exhaustion ofadministrative remedies, the time for and manner of seeking review and venue, except that if such other Federal law does not provide a limitation on the time for filing a petition for judicial review that is less than 180 days, such limitation shall be 180 days after a final rule is promulgated by the appropriate agency.
+&emsp;For any petition under paragraph (2) the provisions of such other Federal law shall control all other matters, such as exhaustion of administrative remedies, the time for and manner of seeking review and venue, except that if such other Federal law does not provide a limitation on the time for filing a petition for judicial review that is less than 180 days, such limitation shall be 180 days after a final rule is promulgated by the appropriate agency.
 
 #### (6) Effective date
 
@@ -30,7 +30,7 @@
 
 #### (b) Judicial review and rule of construction
 
-Except as provided in subsection (a) of this section—
+Except as provided in subsection (a)—
 
 &emsp;(1) any estimate, analysis, statement, description or report prepared under this chapter, and any compliance or noncompliance with the provisions of this chapter, and any determination concerning the applicability of the provisions of this chapter shall not be subject to judicial review; and
 
@@ -40,5 +40,5 @@ Except as provided in subsection (a) of this section—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 

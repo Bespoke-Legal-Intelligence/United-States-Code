@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Notwithstanding any other provision of this subchapter, the provisions of this section shall,in accordance with regulations prescribed by the Secretary, apply in the case of a charitable remainder annuity trust and a charitable remainder unitrust.
+Notwithstanding any other provision of this subchapter, the provisions of this section shall, in accordance with regulations prescribed by the Secretary, apply in the case of a charitable remainder annuity trust and a charitable remainder unitrust.
 
 #### (b) Character of distributions
 
@@ -48,7 +48,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 &emsp;&emsp;(B) from which no amount other than the payments described in subparagraph (A) and other than qualified gratuitous transfers described in subparagraph (C) may be paid to or for the use of any person other than an organization described in section 170(c),
 
-&emsp;&emsp;(C) following the termination of the payments described in subparagraph (A), the remainder interest in the trust is to be transferred to, or for the use of, an organization described in section 170(c) or is to be retained by the trust for such a use or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by subsection (g)), and
+&emsp;&emsp;(C) following the termination of the payments described in subparagraph (A), the remainder interest in the trust is to be transferred to, or for the use of, an organization described in section 170(c) or is to be retained by the trust for such a use or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in aqualified gratuitous transfer (as defined by subsection (g)), and
 
 &emsp;&emsp;(D) the value (determined under section 7520) of such remainder interest is at least 10 percent of the initial net fair market value of all property placed in the trust.
 
@@ -140,7 +140,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),<sup>1</sup> and
 
-&emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated toplan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
+&emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
 
 > &emsp;For purposes of the preceding sentence, the term "independent trustee" means any trustee who is not a member of the family (within the meaning of section 2032A(e)(2)) of the decedent or a 5-percent shareholder. A plan shall not fail to be treated as meeting the requirements of section 401(a) by reason of meeting the requirements of this subsection.
 
@@ -192,7 +192,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 #### (B) Cost-of-living adjustment
 
-&emsp;&emsp;The Secretary shall adjust annually the $30,000 amount under subparagraph (A)(i) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning October 1, 1993, and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
+&emsp;&emsp;The Secretary shall adjust annually the $30,000 amount under subparagraph (A)(i) atthe same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning October 1, 1993, and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
 
 (Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §632(a)(3)(H), June 7, 2001, 115 Stat. 114; Pub. L. 109–280, title VIII, §868(a), Aug. 17, 2006, 120 Stat. 1025; Pub. L. 109–432, div. A, title IV, §424(a), Dec. 20, 2006, 120 Stat. 2974.)
 

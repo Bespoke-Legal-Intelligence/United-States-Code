@@ -12,11 +12,11 @@
 
 &emsp;(E) the seaman cooperated with a safety investigation by the Secretary or the National Transportation Safety Board;
 
-&emsp;(F) the seaman furnished information to the Secretary, the National Transportation Safety Board, or any other public official as to the facts relating to any marine casualty resulting in injury or death to an individual or damage to property occurring in connection with vessel transportation; or
+&emsp;(F) the seaman furnished information to the Secretary, the National Transportation SafetyBoard, or any other public official as to the facts relating to any marine casualty resulting in injury or death to an individual or damage to property occurring in connection with vessel transportation; or
 
 &emsp;(G) the seaman accurately reported hours of duty under this part.
 
-(2) The circumstances causing a seaman's apprehension of serious injury under paragraph (1)(B) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury orserious impairment of health resulting from the performance of duties as ordered by the seaman's employer.
+(2) The circumstances causing a seaman's apprehension of serious injury under paragraph (1)(B) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury or serious impairment of health resulting from the performance of duties as ordered by the seaman's employer.
 
 (3) To qualify for protection against the seaman's employer under paragraph (1)(B), the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
 

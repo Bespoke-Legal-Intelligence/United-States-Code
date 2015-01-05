@@ -22,7 +22,7 @@ A program established under this chapter shall—
 
 &emsp;(7) provide for appropriate and adequate enforcement procedures, as determined by the Secretary to be necessary and consistent with this chapter;
 
-&emsp;(8) protect against conflict-of-interest as specified under section 6515(h) of this title;
+&emsp;(8) protect against conflict-of-interest as specified under section 6515(g) of this title;
 
 &emsp;(9) provide for public access to certification documents and laboratory analyses that pertain to certification;
 
@@ -48,7 +48,7 @@ An organic certification program established under this chapter may—
 
 #### (1) In general
 
-&emsp;Notwithstanding the requirement of subsection (a)(1)(A) of this section requiring products be produced only on certified organic farms, the Secretary shall allow, through regulations promulgated after public notice and opportunity for comment, wild seafood to be certified or labeled as organic.
+&emsp;Notwithstanding the requirement of subsection (a)(1)(A) requiring products be produced only on certified organic farms, the Secretary shall allow, through regulations promulgated after public notice and opportunity for comment, wild seafood to be certified or labeled as organic.
 
 #### (2) Consultation and accommodation
 
@@ -74,15 +74,17 @@ A State organic certification program approved under this chapter may contain ad
 
 #### (1) Account
 
-&emsp;Fees collected under subsection (a)(10) of this section (including late payment penalties and interest earned from investment of the fees) shall be credited to the account that incurs the cost of the services provided under this chapter.
+&emsp;Fees collected under subsection (a)(10) (including late payment penalties and interest earned from investment of the fees) shall be credited to the account that incurs the cost of the services provided under this chapter.
 
 #### (2) Use
 
 &emsp;The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.
 
-(Pub. L. 101–624, title XXI, §2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, §601(a), June 23, 1998, 112 Stat. 585; Pub. L. 108–11, title II, §2105, Apr. 16, 2003, 117 Stat. 589.)
+(Pub. L. 101–624, title XXI, §2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, §601(a), June 23, 1998, 112 Stat. 585; Pub. L. 108–11, title II, §2105, Apr. 16, 2003, 117 Stat. 589; Pub. L. 113–79, title X, §10005(b)(2), Feb. 7, 2014, 128 Stat. 944.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(8). Pub. L. 113–79 substituted "section 6515(g)" for "section 6515(h)".
 
 <b>2003</b>—Subsecs. (c) to (e). Pub. L. 108–11 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

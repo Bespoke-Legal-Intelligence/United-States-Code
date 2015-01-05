@@ -28,17 +28,17 @@ Aug. 18, 1959, Pub. L. 86–168, §202(e), 73 Stat. 389.
 
 Aug. 21, 1964, Pub. L. 88–471, §6(d), 78 Stat. 583.
 
-In the last sentence, the word “officer” is omitted as covered by the word “member”, and the words “sections 521–535 of title 4, District of Columbia Code” are substituted for “the Policemen and Firemen's Retirement and Disability Act, as amended”.
+In the last sentence, the word "officer" is omitted as covered by the word "member", and the words "sections 521–535 of title 4, District of Columbia Code" are substituted for "the Policemen and Firemen's Retirement and Disability Act, as amended".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–241 substituted "Secretary of Homeland Security" for "Secretary of Transportation".
 
 <b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 #### Effective Date of 1990 Amendment
 

@@ -19,8 +19,9 @@
 | [6916\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006916%20-%20Improvement%20of%20information%20sharing.md) | Improvement of information sharing. |
 | [6917\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006917%20-%20Reports%20by%20Secretary.md) | Reports by Secretary. |
 | [6918\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006918%20-%20Assistant%20Secretaries%20of%20Agriculture.md) | Assistant Secretaries of Agriculture. |
-| [6919\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006919%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28e%29%20%5Btitle%20III%2C%20%C2%A7362%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93231%2C%202681%E2%80%93305.md) | Repealed. |
+| [6919\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006919%20-%20Military%20Veterans%20Agricultural%20Liaison.md) | Military Veterans Agricultural Liaison. |
 | [6920\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006920%20-%20Office%20of%20Energy%20Policy%20and%20New%20Uses.md) | Office of Energy Policy and New Uses. |
+| [6921\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006921%20-%20Office%20of%20Tribal%20Relations.md) | Office of Tribal Relations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,6 +34,7 @@
 | [6932a.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006932a%20-%20Prohibition%20on%20closure%20or%20relocation%20of%20county%20offices%20for%20the%20Farm%20Service%20Agency.md) | Prohibition on closure or relocation of county offices for the Farm Service Agency. |
 | [6933\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006933%20-%20Office%20of%20Risk%20Management.md) | Office of Risk Management. |
 | [6934\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006934%20-%20Office%20of%20Advocacy%20and%20Outreach.md) | Office of Advocacy and Outreach. |
+| [6935\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006935%20-%20Under%20Secretary%20of%20Agriculture%20for%20Trade%20and%20Foreign%20Agricultural%20Affairs.md) | Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,6 +56,8 @@
 |  |  |
 | :--- | ---: |
 | [6951\.](Subchapter%20004%20%28IV%29%20-%20Food%2C%20Nutrition%2C%20and%20Consumer%20Services/%C2%A7%2006951%20-%20Under%20Secretary%20of%20Agriculture%20for%20Food%2C%20Nutrition%2C%20and%20Consumer%20Services.md) | Under Secretary of Agriculture for Food, Nutrition, and Consumer Services. |
+| [6952\.](Subchapter%20004%20%28IV%29%20-%20Food%2C%20Nutrition%2C%20and%20Consumer%20Services/%C2%A7%2006952%20-%20Multiagency%20task%20force.md) | Multiagency task force. |
+| [6953\.](Subchapter%20004%20%28IV%29%20-%20Food%2C%20Nutrition%2C%20and%20Consumer%20Services/%C2%A7%2006953%20-%20Healthy%20food%20financing%20initiative.md) | Healthy food financing initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

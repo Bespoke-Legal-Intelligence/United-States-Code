@@ -16,7 +16,7 @@ Assistance provided under section 11372 of this title may be used for the follow
 
 &emsp;(4) Provision of rental assistance to provide short-term or medium-term housing to homeless individuals or families or individuals or families at risk of homelessness. Such rental assistance may include tenant-based or project-based rental assistance.
 
-&emsp;(5) Housing relocation or stabilization services for homeless individuals or families or individuals or families at risk of homelessness,including housing search, mediation or outreach to property owners, legal services, credit repair, providing security or utility deposits, utility payments, rental assistance for a final month at a location, assistance with moving costs, or other activities that are effective at—
+&emsp;(5) Housing relocation or stabilization services for homeless individuals or families or individuals or families at risk of homelessness, including housing search, mediation or outreach to property owners, legal services, credit repair, providing security or utility deposits, utility payments, rental assistance for a final month at a location, assistance with moving costs, or other activities that are effective at—
 
 &emsp;&emsp;(A) stabilizing individuals and families in their current housing; or
 

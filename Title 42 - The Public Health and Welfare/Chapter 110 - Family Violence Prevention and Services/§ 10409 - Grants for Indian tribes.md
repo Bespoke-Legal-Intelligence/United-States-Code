@@ -6,7 +6,7 @@ The Secretary, in consultation with tribal governments pursuant to Executive Ord
 
 #### (b) Eligible entities
 
-To be eligible to receive a grant under this section, an entity shall be an Indian tribe, or a tribal organization or nonprofit private organization authorized by an Indian tribe. An Indian tribe shall have the option to authorize a tribal organization or a nonprofit private organization to submit an application and administer the grant funds awarded under this section.
+To be eligible to receive a grant under this section, an entity shall be an Indian tribe, or atribal organization or nonprofit private organization authorized by an Indian tribe. An Indian tribe shall have the option to authorize a tribal organization or a nonprofit private organization to submit an application and administer the grant funds awarded under this section.
 
 #### (c) Conditions
 

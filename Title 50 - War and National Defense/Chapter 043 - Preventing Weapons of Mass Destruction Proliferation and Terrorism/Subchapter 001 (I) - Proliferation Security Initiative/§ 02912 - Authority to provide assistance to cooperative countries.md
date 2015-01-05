@@ -16,7 +16,7 @@ The assistance authorized under subsection (a) consists of the following:
 
 #### (c) Congressional notification
 
-Assistance authorized under this section may not be provided until at least 30 days after the date on which the President has provided notice thereof to the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives and the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate, in accordance with the procedures applicable to reprogramming notifications under section 634A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1(a)), and has certified to such committees that such assistance will be used in accordance with the requirement of subsection (e) of this section.
+Assistance authorized under this section may not be provided until at least 30 days after the date on which the President has provided notice thereof to the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives and the Committee on Armed Services, the Committee on Foreign Relations, andthe Committee on Appropriations of the Senate, in accordance with the procedures applicable to reprogramming notifications under section 634A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1(a)), and has certified to such committees that such assistance will be used in accordance with the requirement of subsection (e) of this section.
 
 #### (d) Limitation
 
@@ -24,7 +24,7 @@ Assistance may be provided to a country under subsection (a) in no more than 3 f
 
 #### (e) Use of assistance
 
-Assistance provided under this section shall be used to enhance the capability of the recipientcountry to prevent the transport and transshipment of items of proliferation concern in its national territory or airspace, or in vessels under its control or registry, including through the development of a legal framework in that country to enhance such capability by criminalizing proliferation, enacting strict export controls, and securing sensitive materials within its borders, and to enhance the ability of the recipient country to cooperate in PSI operations.
+Assistance provided under this section shall be used to enhance the capability of the recipient country to prevent the transport and transshipment of items of proliferation concern in its national territory or airspace, or in vessels under its control or registry, including through the development of a legal framework in that country to enhance such capability by criminalizing proliferation, enacting strict export controls, and securing sensitive materials within its borders, and to enhance the ability of the recipient country to cooperate in PSI operations.
 
 #### (f) Limitation on ship or aircraft transfers
 

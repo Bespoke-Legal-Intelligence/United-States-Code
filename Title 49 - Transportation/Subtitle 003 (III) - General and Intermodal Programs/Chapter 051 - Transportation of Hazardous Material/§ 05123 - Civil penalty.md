@@ -30,7 +30,7 @@ Penalty Considerations.—In determining the amount of a civil penalty under thi
 
 (d)
 
-Civil Actions To Collect.—The Attorney General may bring a civil action in an appropriate district court of the United States to collect a civil penalty under this section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 (33 U.S.C. 2705). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.
+Civil Actions To Collect.—The Attorney General may bring a civil action in an appropriate district court of the United States to collect a civil penalty under this section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of theOil Pollution Act of 1990 (33 U.S.C. 2705). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.
 
 (e)
 
@@ -50,7 +50,7 @@ Penalty for Obstruction of Inspections and Investigations.—
 
 &emsp;(1) The Secretary may impose a penalty on a person who obstructs or prevents the Secretary from carrying out inspections or investigations under subsection (c) or (i) of section 5121.
 
-&emsp;(2) For the purposes of this subsection, the term "obstructs" means actions that wereknown, or reasonably should have been known, to prevent, hinder, or impede an investigation.
+&emsp;(2) For the purposes of this subsection, the term "obstructs" means actions that were known, or reasonably should have been known, to prevent, hinder, or impede an investigation.
 
 (i)
 
@@ -156,7 +156,7 @@ Subsec. (b). Pub. L. 109–59, §7126, substituted "Secretary may" for "Secretar
 
 Pub. L. 109–59, §7120(b), substituted "regulation prescribed or order, special permit, or approval issued" for "regulation prescribed".
 
-Subsec. (d). Pub. L. 109–59, §7120(c), substituted "section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 (33 U.S.C. 2705). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review." for "section."
+Subsec. (d). Pub. L. 109–59, §7120(c), substituted "section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 (33 U.S.C. 2705). In the civil action,the amount and appropriateness of the civil penalty shall not be subject to review." for "section."
 
 #### Effective Date of 2012 Amendment
 

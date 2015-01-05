@@ -26,7 +26,7 @@ Upon application by a person alleging a discriminatory housing practice or a per
 
 #### (d) Effect on certain sales, encumbrances, and rentals
 
-Relief granted under this section shall not affect any contract, sale, encumbrance, or lease consummated before the granting of such relief and involving a bona fide purchaser, encumbrancer, or tenant, without actual notice of the filing of a complaint with the Secretary or civil action under this subchapter.
+Relief granted under this section shall not affect any contract, sale, encumbrance, or leaseconsummated before the granting of such relief and involving a bona fide purchaser, encumbrancer, or tenant, without actual notice of the filing of a complaint with the Secretary or civil action under this subchapter.
 
 #### (e) Intervention by Attorney General
 

@@ -52,7 +52,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;(22) The John E. Fogarty International Center for Advanced Study in the Health Sciences.
 
-&emsp;(23) The National Center for Complementary and Alternative Medicine.
+&emsp;(23) The National Center for Complementary and Integrative Health.
 
 &emsp;(24) The National Institute on Minority Health and Health Disparities.
 
@@ -104,7 +104,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (4) Internal reorganization of institutes and centers
 
-&emsp;Notwithstanding any conflicting provisions of this subchapter, the director of a national research institute or a national center may, after a series of public hearings and with the approval of the Director of NIH, reorganize the divisions, centers, or other administrative units within such institute or center, including the addition, removal, or transfer of functions of such units, and the establishment or termination of such units, if the director of such institute or center determines that the overall management and operation of programs and activities conducted or supported by such divisions, centers, or other units would be more efficiently carried out under such a reorganization.
+&emsp;Notwithstanding any conflicting provisions of this subchapter, the director of a nationalresearch institute or a national center may, after a series of public hearings and with the approval of the Director of NIH, reorganize the divisions, centers, or other administrative units within such institute or center, including the addition, removal, or transfer of functions of such units, and the establishment or termination of such units, if the director of such institute or center determines that the overall management and operation of programs and activities conducted or supported by such divisions, centers, or other units would be more efficiently carried out under such a reorganization.
 
 #### (e) Scientific Management Review Board for periodic organizational reviews
 
@@ -176,7 +176,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;&emsp;&emsp;(i) individuals representing the interests of public or private institutions of higher education that have historically received funds from NIH to conduct research; and
 
-&emsp;&emsp;&emsp;(ii) individuals representing the interests of private entities that have received funds from NIH to conduct research or that have broad expertise regarding how the National Institutes of Health functions, exclusive of private entities to which clause (i) applies.
+&emsp;&emsp;&emsp;(ii) individuals representing the interests of private entities that have received fundsfrom NIH to conduct research or that have broad expertise regarding how the National Institutes of Health functions, exclusive of private entities to which clause (i) applies.
 
 #### (4) Chair
 
@@ -274,9 +274,11 @@ For purposes of this subchapter:
 
 For purposes of this subchapter, a reference to the National Institutes of Health includes its agencies.
 
-(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697; Pub. L. 110–154, §1(b)(1), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 111–148, title X, §10334(c)(3)(A), Mar. 23, 2010, 124 Stat. 974; Pub. L. 112–74, div. F, title II, §221(a)(2), (c)(2)(B), Dec. 23, 2011, 125 Stat. 1087, 1089.)
+(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697; Pub. L. 110–154, §1(b)(1), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 111–148, title X, §10334(c)(3)(A), Mar. 23, 2010, 124 Stat. 974; Pub. L. 112–74, div. F, title II, §221(a)(2), (c)(2)(B), Dec. 23, 2011, 125 Stat. 1087, 1089; Pub. L. 113–235, div. G, title II, §224(1), Dec. 16, 2014, 128 Stat. 2490.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(23). Pub. L. 113–235 substituted "National Center for Complementary and Integrative Health" for "National Center for Complementary and Alternative Medicine".
 
 <b>2011</b>—Subsec. (b)(21). Pub. L. 112–74, §221(a)(2), substituted "National Center for Advancing Translational Sciences" for "National Center for Research Resources".
 
@@ -334,7 +336,7 @@ For effective date of amendment by Pub. L. 100–690, see section 2613(b)(1) of 
 
 #### Construction of 2007 Amendment
 
-Pub. L. 109–482, title I, §102(g), Jan. 15, 2007, 120 Stat. 3685, provided that: "This Act \[see Tables for classification\] and the amendments made by this Act may not be construed as affecting the authorities of the national research institutes and national centers that were in effect under the Public Health Service Act \[42 U.S.C. 201 et seq.\] on the day before the date of the enactment of this Act \[Jan. 15, 2007\], subject to the authorities of the Secretary of Health and Human Services and the Director of NIH under section 401 of the Public Health Service Act \[42 U.S.C. 281\] (as amended by section 101 of this Act). For purposes of the preceding sentence, the terms 'national research institute', 'national center', and 'Director of NIH' have the meanings given such terms in such section 401."
+Pub. L. 109–482, title I, §102(g), Jan. 15, 2007, 120 Stat. 3685, provided that: "This Act \[see Tables for classification\] and the amendments made by this Act may not beconstrued as affecting the authorities of the national research institutes and national centers that were in effect under the Public Health Service Act \[42 U.S.C. 201 et seq.\] on the day before the date of the enactment of this Act \[Jan. 15, 2007\], subject to the authorities of the Secretary of Health and Human Services and the Director of NIH under section 401 of the Public Health Service Act \[42 U.S.C. 281\] (as amended by section 101 of this Act). For purposes of the preceding sentence, the terms 'national research institute', 'national center', and 'Director of NIH' have the meanings given such terms in such section 401."
 
 #### Study of the Use of Centers of Excellence at the National Institutes of Health
 

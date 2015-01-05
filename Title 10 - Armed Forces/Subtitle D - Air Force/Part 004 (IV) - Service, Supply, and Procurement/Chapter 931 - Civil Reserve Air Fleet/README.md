@@ -5,9 +5,10 @@
 | [9511\.](%C2%A7%2009511%20-%20Definitions.md) | Definitions. |
 | [9511a.](%C2%A7%2009511a%20-%20Civil%20Reserve%20Air%20Fleet%20contracts%20payment%20rate.md) | Civil Reserve Air Fleet contracts: payment rate. |
 | [9512\.](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md) | Contracts for the inclusion or incorporation of defense features. |
-| [9513\.](%C2%A7%2009513%20-%20Use%20of%20military%20installations%20by%20Civil%20Reserve%20Air%20Fleet%20contractors.md) | Use of military installations by Civil Reserve Air Fleet contractors. |
+| \[9513. | Repealed.\] |
 | [9514\.](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md) | Indemnification of Department of Transportation for losses covered by defense-related aviation insurance. |
 | [9515\.](%C2%A7%2009515%20-%20Charter%20air%20transportation%20services%20minimum%20annual%20purchase%20amount%20for%20carriers%20participating%20in%20Civil%20Reserve%20Air%20Fleet.md) | Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet. |
+| [9516\.](%C2%A7%2009516%20-%20Airlift%20service.md) | Airlift service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,6 +32,8 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–291, div. A, title X, §§1042(b), 1045(b), Dec. 19, 2014, 128 Stat. 3493, 3494, struck out item 9513 "Use of military installations by Civil Reserve Air Fleet contractors" and added item 9516.
+
 <b>2011</b>—Pub. L. 112–81, div. A, title III, §366(b), Dec. 31, 2011, 125 Stat. 1381, added item 9511a.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(32), Oct. 28, 2009, 123 Stat. 2474, transferred item 9515 from chapter 941 of this title to this chapter.
@@ -53,6 +56,7 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 - [&sect; 09511 - Definitions](%C2%A7%2009511%20-%20Definitions.md)
 - [&sect; 09511a - Civil Reserve Air Fleet contracts payment rate](%C2%A7%2009511a%20-%20Civil%20Reserve%20Air%20Fleet%20contracts%20payment%20rate.md)
 - [&sect; 09512 - Contracts for the inclusion or incorporation of defense features](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md)
-- [&sect; 09513 - Use of military installations by Civil Reserve Air Fleet contractors](%C2%A7%2009513%20-%20Use%20of%20military%20installations%20by%20Civil%20Reserve%20Air%20Fleet%20contractors.md)
+- [&sect; 09513 - Repealed. Pub. L. 113&#8211;291, div. A, title X, &sect;1045(a), Dec. 19, 2014, 128 Stat. 3494](%C2%A7%2009513%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71045%28a%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203494.md)
 - [&sect; 09514 - Indemnification of Department of Transportation for losses covered by defense-related aviation insurance](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md)
 - [&sect; 09515 - Charter air transportation services minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet](%C2%A7%2009515%20-%20Charter%20air%20transportation%20services%20minimum%20annual%20purchase%20amount%20for%20carriers%20participating%20in%20Civil%20Reserve%20Air%20Fleet.md)
+- [&sect; 09516 - Airlift service](%C2%A7%2009516%20-%20Airlift%20service.md)

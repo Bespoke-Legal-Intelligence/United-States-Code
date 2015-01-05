@@ -118,7 +118,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (2) Nanoscience centers
 
-&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of thenanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
+&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of the nanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (3) Funding
 
@@ -170,7 +170,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (5) National laboratories
 
-&emsp;A national laboratory (as defined in section 15801 of this title) may participate in a center established under this subsection, including a cooperative research and development agreement (as defined in section 3710a(d) of title 15).
+&emsp;A national laboratory (as defined in section 15801 of this title) may participate in a centerestablished under this subsection, including a cooperative research and development agreement (as defined in section 3710a(d) of title 15).
 
 #### (6) Disclosure
 

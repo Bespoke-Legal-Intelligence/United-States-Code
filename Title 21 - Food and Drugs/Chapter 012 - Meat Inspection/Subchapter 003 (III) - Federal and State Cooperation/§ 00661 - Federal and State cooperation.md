@@ -22,7 +22,7 @@ It is the policy of the Congress to protect the consuming public from meat and m
 
 #### (b) Single State agency; subordinate governmental unit as part of State agency
 
-The appropriate State agency with which the Secretary may cooperate under this chapter shall be a single agency in the State which is primarily responsible for the coordination of the State programs having objectives similar to those under this chapter. When the State program includes performance of certain functions by a municipality or other subordinate governmental unit, such unit shall be deemed to be a part of the State agency for purposes of this section.
+The appropriate State agency with which the Secretary may cooperate under this chapter shall be a single agency in the State which is primarily responsible for the coordination of the State programs having objectives similar to those under this chapter. When the State program includes performance of certain functions by a municipality or other subordinate governmental unit, such unit shall be deemed to be apart of the State agency for purposes of this section.
 
 #### (c) State meat inspection requirements
 
@@ -46,7 +46,7 @@ The Secretary shall promptly upon December 15, 1967, and periodically thereafter
 
 As used in this section, the term "State" means any State (including the Commonwealth of Puerto Rico) or organized Territory.
 
-(Mar. 4, 1907, ch. 2907, title III §301, as added Pub. L. 90–201, §15, Dec. 15, 1967, 81 Stat. 595;amended Pub. L. 98–487, §1, Oct. 17, 1984, 98 Stat. 2264; Pub. L. 103–437, §8(2), Nov. 2, 1994, 108 Stat. 4588.)
+(Mar. 4, 1907, ch. 2907, title III §301, as added Pub. L. 90–201, §15, Dec. 15, 1967, 81 Stat. 595; amended Pub. L. 98–487, §1, Oct. 17, 1984, 98 Stat. 2264; Pub. L. 103–437, §8(2), Nov. 2, 1994, 108 Stat. 4588.)
 
 #### References in Text
 

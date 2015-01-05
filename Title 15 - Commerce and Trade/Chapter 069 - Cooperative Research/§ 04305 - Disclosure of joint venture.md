@@ -22,7 +22,7 @@
 
 #### (b) Publication; Federal Register; notice
 
-Except as provided in subsection (e) of this section, not later than 30 days after receiving a notification filed under subsection (a) of this section, the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
+Except as provided in subsection (e) of this section, not later than 30 days after receiving a notification filed under subsection (a) of this section, the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to suchstandards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
 
 #### (c) Effect of notice
 
@@ -60,7 +60,7 @@ Any action taken or not taken by the Attorney General or the Commission with res
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–237, §107(1), designated existing provisions as par. (1), redesignated formerpars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
+<b>2004</b>—Subsec. (a). Pub. L. 108–237, §107(1), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
 
 Subsec. (b). Pub. L. 108–237, §107(2), inserted ", or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms" before period at end of first sentence and "or available to such organization, as the case may be" before period at end of last sentence.
 

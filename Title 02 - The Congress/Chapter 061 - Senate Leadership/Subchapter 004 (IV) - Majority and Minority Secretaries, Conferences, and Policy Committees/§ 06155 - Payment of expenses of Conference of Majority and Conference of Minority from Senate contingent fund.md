@@ -12,25 +12,25 @@ The 1982 amendment by Pub. L. 97–276 is based on section 105 of S. 2939, Ninet
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–83 substituted “such amount as necessary” for “an amount, not in excess of $100,000,” in first sentence.
+<b>2003</b>—Pub. L. 108–83 substituted "such amount as necessary" for "an amount, not in excess of $100,000," in first sentence.
 
-<b>2001</b>—Pub. L. 107–68 substituted “$100,000” for “$75,000”.
+<b>2001</b>—Pub. L. 107–68 substituted "$100,000" for "$75,000".
 
-<b>1990</b>—Pub. L. 101–520 substituted “$75,000” for “$50,000”.
+<b>1990</b>—Pub. L. 101–520 substituted "$75,000" for "$50,000".
 
-<b>1989</b>—Pub. L. 101–163 substituted “$50,000” for “$40,000”.
+<b>1989</b>—Pub. L. 101–163 substituted "$50,000" for "$40,000".
 
-<b>1985</b>—Pub. L. 99–151 inserted “, except that vouchers shall not be required for payment of long-distance telephone calls”.
+<b>1985</b>—Pub. L. 99–151 inserted ", except that vouchers shall not be required for payment of long-distance telephone calls".
 
-<b>1982</b>—Pub. L. 97–276 substituted “$40,000” for “$30,000”. See Codification note above.
+<b>1982</b>—Pub. L. 97–276 substituted "$40,000" for "$30,000". See Codification note above.
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–83, title I, §2(b), Sept. 30, 2003, 117 Stat. 1010, provided that: “This section \[amending this section\] shall apply with respect to fiscal year 2004, and each fiscal year thereafter.”
+Pub. L. 108–83, title I, §2(b), Sept. 30, 2003, 117 Stat. 1010, provided that: "This section \[amending this section\] shall apply with respect to fiscal year 2004, and each fiscal year thereafter."
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–68, title I, §105(b), Nov. 12, 2001, 115 Stat. 568, provided that: “This section \[amending this section\] shall apply with respect to fiscal year 2002 and each fiscal year thereafter.”
+Pub. L. 107–68, title I, §105(b), Nov. 12, 2001, 115 Stat. 568, provided that: "This section \[amending this section\] shall apply with respect to fiscal year 2002 and each fiscal year thereafter."
 
 #### Effective Date of 1990 Amendment
 

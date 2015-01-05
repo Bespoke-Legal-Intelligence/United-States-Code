@@ -108,7 +108,7 @@ Subsec. (e)(1). Pub. L. 110–417, §251(a), amended par. (1) generally. Prior t
 
 &emsp;"(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: "The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical."
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: "The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement programif the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical."
 
 Subsec. (e)(8), (9). Pub. L. 107–314, §818(b), added pars. (8) and (9).
 
@@ -116,7 +116,7 @@ Subsec. (e)(8), (9). Pub. L. 107–314, §818(b), added pars. (8) and (9).
 
 <b>1999</b>—Subsec. (e)(7)(B). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–106, §1502(a)(18)(A), substituted "the congressional defense committees" for"the Committees on Armed Services and on Appropriations of the Senate and House of Representatives".
+<b>1996</b>—Subsec. (d). Pub. L. 104–106, §1502(a)(18)(A), substituted "the congressional defense committees" for "the Committees on Armed Services and on Appropriations of the Senate and House of Representatives".
 
 Subsec. (e)(7). Pub. L. 104–106, §1502(a)(18)(B), added par. (7).
 

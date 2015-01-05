@@ -30,7 +30,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### (g) State Energy Advisory Board
 
-(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the "Board") which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, or research institutions. A majority of the members of the Board shall be State employees.
+(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the "Board") which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, orresearch institutions. A majority of the members of the Board shall be State employees.
 
 (B)(i) Except as provided in clause (ii), the members of the Board shall serve a term of three years.
 
@@ -58,7 +58,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 (7) Consistent with Federal regulations, the Secretary shall reimburse members of the Board for expenses (including travel expenses) necessarily incurred by them in the performance of their duties.
 
-(8) The Board shall meet at least twice a year and shall submit an annual report to the Secretary and the Congress on the activities carried out by the Board in the previous fiscal year, including an accounting of the expenses reimbursed under paragraph (7) with respect to theyear for which the report is made and any recommendations it may have for administrative or legislative changes concerning the matters referred to in subparagraphs (A), (B), and (C) of paragraph (2).
+(8) The Board shall meet at least twice a year and shall submit an annual report to the Secretary and the Congress on the activities carried out by the Board in the previous fiscal year, including an accounting of the expenses reimbursed under paragraph (7) with respect to the year for which the report is made and any recommendations it may have for administrative or legislative changes concerning the matters referred to in subparagraphs (A), (B), and (C) of paragraph (2).
 
 (9) The Board shall continue until terminated by law.
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d)
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Termination of Reporting Requirements
 

@@ -1,6 +1,6 @@
 ### §1323. Plan fiduciaries
 
-Notwithstanding any other provision of this chapter, a fiduciary of a plan to which section 1321 of this title applies is not in violation of the fiduciary's duties as a result of any act or of any withholding of action required by this subchapter.
+Notwithstanding any other provision of this chapter, a fiduciary of a plan to which section1321 of this title applies is not in violation of the fiduciary's duties as a result of any act or of any withholding of action required by this subchapter.
 
 (Pub. L. 93–406, title IV, §4023, as added Pub. L. 96–364, title IV, §402(a)(5), Sept. 26, 1980, 94 Stat. 1298.)
 

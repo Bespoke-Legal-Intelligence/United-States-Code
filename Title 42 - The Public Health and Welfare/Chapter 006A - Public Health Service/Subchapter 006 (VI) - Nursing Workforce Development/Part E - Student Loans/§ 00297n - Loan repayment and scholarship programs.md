@@ -30,7 +30,7 @@ Notwithstanding the requirement of completion of practice specified in subsectio
 
 #### (1) In general
 
-&emsp;The Secretary shall (for fiscal years 2003 and 2004) and may (for fiscal years thereafter)carry out a program of entering into contracts with eligible individuals under which such individuals agree to serve as nurses for a period of not less than 2 years at a health care facility with a critical shortage of nurses, in consideration of the Federal Government agreeing to provide to the individuals scholarships for attendance at schools of nursing.
+&emsp;The Secretary shall (for fiscal years 2003 and 2004) and may (for fiscal years thereafter) carry out a program of entering into contracts with eligible individuals under which such individuals agree to serve as nurses for a period of not less than 2 years at a health care facility with a critical shortage of nurses, in consideration of the Federal Government agreeing to provide to the individuals scholarships for attendance at schools of nursing.
 
 #### (2) Eligible individuals
 

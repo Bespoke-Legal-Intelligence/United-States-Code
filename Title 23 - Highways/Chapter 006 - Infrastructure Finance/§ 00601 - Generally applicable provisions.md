@@ -312,7 +312,7 @@ In general.—An infrastructure bank established under this section may make loa
 
 &emsp;"(2)
 
-Subordination of loans.—The amount of any loan or other assistance provided for the project maybe subordinated to any other debt financing for the project.
+Subordination of loans.—The amount of any loan or other assistance provided for the project may be subordinated to any other debt financing for the project.
 
 &emsp;"(3)
 
@@ -462,7 +462,7 @@ Highway account.—Notwithstanding any other provision of law, the Secretary may
 
 &emsp;"(3)
 
-Transit account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federal transit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
+Transit account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federaltransit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
 
 &emsp;"(4)
 
@@ -524,7 +524,7 @@ Secretarial Requirements.—In administering this section, the Secretary shall�
 
 "(h)
 
-United States Not Obligated.—The contribution of Federal funds into an infrastructure bank established under this section shall not be construed as acommitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
+United States Not Obligated.—The contribution of Federal funds into an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
 
 "(i)
 

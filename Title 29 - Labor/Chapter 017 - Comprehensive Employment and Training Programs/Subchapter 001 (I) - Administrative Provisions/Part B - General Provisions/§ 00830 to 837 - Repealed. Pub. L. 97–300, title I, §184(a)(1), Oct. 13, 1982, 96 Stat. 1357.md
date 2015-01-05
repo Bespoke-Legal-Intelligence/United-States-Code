@@ -26,5 +26,5 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 836, Pub. L. 93–203, title I, §134, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1949, related to bonding of those who handle funds or other financial assistance received under this chapter.
 
-Section 837, Pub. L. 93–203, title I, §135, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1950, related to establishment of an Office of Management Assistance, the assignment of accountants, management specialists, and other professionals to such office, and reimbursement for services of such office.
+Section 837, Pub. L. 93–203, title I, §135, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1950, related to establishment of an Office of Management Assistance, the assignment of accountants, management specialists,and other professionals to such office, and reimbursement for services of such office.
 

@@ -74,7 +74,7 @@ Developmental test and evaluation.—The term "developmental test and evaluation
 
 Operational test and evaluation.—The term "operational test and evaluation" means—
 
-&emsp;&emsp;(A) the testing of a capability or asset and the subsystems of the capability or asset, under conditions similar to those in which the capability or asset and subsystems will actually be deployed, for the purpose of determining the effectiveness and suitability of the capability or asset and subsystems for use by typical Coast Guard users to conduct those missions for which the capability or asset and subsystems are intended to be used; and
+&emsp;&emsp;(A) the testing of a capability or asset and the subsystems of the capability or asset, under conditions similar to those in which the capability or asset and subsystems will actually be deployed, for the purpose of determining the effectiveness and suitabilityof the capability or asset and subsystems for use by typical Coast Guard users to conduct those missions for which the capability or asset and subsystems are intended to be used; and
 
 &emsp;&emsp;(B) the evaluation of the results of such testing.
 

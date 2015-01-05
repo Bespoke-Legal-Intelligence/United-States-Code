@@ -36,7 +36,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No person shall on the ground of sex or religion be excluded from participation in,be denied the benefits of, or be subject to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Nothing in this chapter shall require any such program or activity to include any individual in any program or activity without taking into consideration that individual's sex in those certain instances where sex is a bona fide occupational qualification or programmatic factor reasonably necessary to the normal or safe operation of that particular program or activity.
+&emsp;&emsp;&emsp;No person shall on the ground of sex or religion be excluded from participation in, be denied the benefits of, or be subject to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Nothing in this chapter shall require any such program or activity to include any individual in any program or activity without taking into consideration that individual's sex in those certain instances where sex is a bona fide occupational qualification or programmatic factor reasonably necessary to the normal or safe operation of that particular program or activity.
 
 #### (ii) Enforcement
 

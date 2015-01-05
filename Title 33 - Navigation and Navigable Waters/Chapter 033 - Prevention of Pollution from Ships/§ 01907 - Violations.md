@@ -6,7 +6,7 @@ It is unlawful to act in violation of the MARPOL Protocol, Annex IV to the Antar
 
 #### (b) Investigations; subpenas: issuance by Secretary, enforcement; action by Secretary; information to party
 
-Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation under this section the Secretary may issue subpenas to require the attendance of any witness and the production of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
+Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation underthis section the Secretary may issue subpenas to require the attendance of any witness and the production of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
 
 #### (c) Ship inspections; reports to Secretary; additional action
 
@@ -18,7 +18,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 &emsp;(B) to comply with a request from a party to the MARPOL Protocol or the Antarctic Protocol for an investigation as to whether the ship may have discharged a harmful substance anywhere in violation of the MARPOL Protocol or Annex IV to the Antarctic Protocol. An investigation may be undertaken under this clause only when the requesting party has furnished sufficient evidence to allow the Secretary reasonably to believe that a discharge has occurred.
 
-> If an inspection under this subsection indicates that a violation has occurred, the investigatingofficer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
+> If an inspection under this subsection indicates that a violation has occurred, the investigating officer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
 
 #### (d) Garbage disposal inspections; covered ships; enforcement actions
 

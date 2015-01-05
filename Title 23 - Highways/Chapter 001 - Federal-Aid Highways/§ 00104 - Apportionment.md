@@ -28,7 +28,7 @@ Availability.—The amounts made available under paragraph (1) shall remain avai
 
 (b)
 
-Division of State Apportionments Among Programs.—The Secretary shall distribute theamount apportioned to a State for a fiscal year under subsection (c) among the national highway performance program, the surface transportation program, the highway safety improvement program, and the congestion mitigation and air quality improvement program, and to carry out section 134 as follows:
+Division of State Apportionments Among Programs.—The Secretary shall distribute the amount apportioned to a State for a fiscal year under subsection (c) among the national highway performance program, the surface transportation program, the highway safety improvement program, and the congestion mitigation and air quality improvement program, and to carry out section 134 as follows:
 
 &emsp;(1)
 
@@ -116,7 +116,7 @@ In general.—Except as provided in clause (ii), the amounts apportioned to a St
 
 &emsp;&emsp;&emsp;(ii)
 
-States receiving minimum apportionment.—A State that received the minimum apportionment for use in carrying out section 134 for fiscal year 2009 may, subject to the approval of the Secretary, use the funds apportioned under subsection\(b)(5) to fund transportation planning outside of urbanized areas.
+States receiving minimum apportionment.—A State that received the minimum apportionment for use in carrying out section 134 for fiscal year 2009 may, subject to the approval of the Secretary, use the funds apportioned under subsection (b)(5) to fund transportation planning outside of urbanized areas.
 
 &emsp;&emsp;(B)
 
@@ -192,7 +192,7 @@ Transfer of transit funds for highway projects.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), amounts made available for highway projects or transportation planning under chapter 53 of title 49 may be transferred to and administered by the Secretary in accordance with this title.
+In general.—Subject to subparagraph (B), amounts made available for highwayprojects or transportation planning under chapter 53 of title 49 may be transferred to and administered by the Secretary in accordance with this title.
 
 &emsp;&emsp;(B)
 
@@ -260,7 +260,7 @@ Subsec. (e). Pub. L. 112–141, §1519(c)(3), which directed amendment of subsec
 
 Subsec. (f)(1). Pub. L. 110–244, §101(m)(3)(A), struck out "replacement and rehabilitation" after "highway bridge".
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1103(a)(1), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions authorizing appropriations for administrative expenses of the Federal Highway Administration and provisions relating to uses and availability of funds for provisions relating to deduction for administrative activities from sums made available under certain programs and provisions relating to consideration of unobligated balances, availability of sums, and limitation on transferability.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1103(a)(1), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions authorizing appropriations for administrative expenses of the Federal Highway Administration and provisions relating touses and availability of funds for provisions relating to deduction for administrative activities from sums made available under certain programs and provisions relating to consideration of unobligated balances, availability of sums, and limitation on transferability.
 
 Subsec. (b). Pub. L. 109–59, §§1103(a)(2)(A), 1401(b)(1), in introductory provisions, substituted "the set-asides authorized by subsections (d) and (f) and section 130(e)" for "the deduction authorized by subsection (a) and the set-aside authorized by subsection (f)" and inserted "the highway safety improvement program," after "Improvement program,".
 
@@ -390,7 +390,7 @@ Woodrow Wilson Memorial Bridge.—
 
 &emsp;"(1)
 
-Expenditure.—From any available administrative funds deducted under subsection (a), the Secretary shall obligate such sums as are necessary for each of fiscal years 1996 and 1997, and for the period of October 1, 1997, through March 31, 1998, for the rehabilitation of the Woodrow Wilson Memorial Bridge and for environmental studies and documentation, planning, preliminary engineering and design, and final engineering for a new crossing of the Potomac River as part of the Project, as defined by section 404 of the Woodrow Wilson Memorial Bridge Authority Act of 1995.
+Expenditure.—From any available administrative funds deducted under subsection (a), the Secretary shall obligate such sums as are necessary for each of fiscal years 1996 and 1997, and for the period of October 1, 1997, through March 31, 1998, for the rehabilitation of the Woodrow Wilson Memorial Bridge and for environmental studies and documentation,planning, preliminary engineering and design, and final engineering for a new crossing of the Potomac River as part of the Project, as defined by section 404 of the Woodrow Wilson Memorial Bridge Authority Act of 1995.
 
 &emsp;"(2)
 
@@ -528,7 +528,7 @@ Subsec. (c). Pub. L. 101–516, §333 \[part\], which amended subsec. (c) genera
 
 > was repealed by Pub. L. 102–143, §333(c). See Construction of 1990 Amendment note below and section 159(c) of this title.
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–17, §114(e)(1), inserted "and the set asides authorized by subsection (f) of thissection and sections 118(c) and 307(d) of this title" after "subsection (a) of this section" in introductory provisions.
+<b>1987</b>—Subsec. (b). Pub. L. 100–17, §114(e)(1), inserted "and the set asides authorized by subsection (f) of this section and sections 118(c) and 307(d) of this title" after "subsection (a) of this section" in introductory provisions.
 
 Subsec. (b)(5)(A). Pub. L. 100–17, §102(b)(1), inserted after "September 30, 1990." the following: "The Secretary shall make a revised estimate of the cost of completing the then designated Interstate System after taking into account all previous apportionments made under this section in the same manner as stated above, and transmit the same to the Senate and the House of Representatives within 10 days subsequent to January 2, 1989. Upon the approval by Congress, the Secretary shall use the Federal share of such approved estimates in making apportionments for the fiscal years 1991 and 1992. The Secretary shall make a revised estimate of the cost of completing the then designated Interstate System after taking into account all previous apportionments made under this section in the same manner as stated above, and transmit the same to the Senate and the House of Representatives within 10 days subsequent to January 2, 1991. Upon the approval by Congress, the Secretary shall use the Federal share of such approved estimates in making apportionments for the fiscal year 1993."
 
@@ -550,7 +550,7 @@ Subsec. (h). Pub. L. 95–599, §110, added subsec. (h).
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–280, §112(a), substituted "On October 1 of each fiscal year" for "On or before January 1 next preceding the commencement of each fiscal year,".
 
-Subsec. (b)(1). Pub. L. 94–280, §112(b), inserted in introductory text "(including extensions in urban areas and priority primary routes)", made existing provisions applicable for a two-third apportionment of monies, striking out "in all the States at the close of the next preceding calendar year" before "as shown by a certificate of the Postmaster General" and inserted provision for a one-third apportionment in the ratio which the population in urban areas in each State bears to the total population in urban areas in all the States as shown by the latest Federal census.
+Subsec. (b)(1). Pub. L. 94–280, §112(b), inserted in introductory text "(including extensions in urban areas and priority primary routes)", made existing provisions applicable for a two-third apportionment of monies, striking out "in all the States at the close of the next preceding calendar year" before "as shown by a certificate of the Postmaster General" and inserted provision for a one-third apportionment in the ratio which thepopulation in urban areas in each State bears to the total population in urban areas in all the States as shown by the latest Federal census.
 
 Subsec. (b)(3). Pub. L. 94–280, §112(c), repealed provisions respecting apportionment of monies for extensions of the Federal-aid primary and Federal-aid secondary systems within urban areas in the ratio which the population in municipalities and other urban places of five thousand or more in each State bears to the total population in municipalities and other urban places of five thousand or more in all of the States as shown by the latest available Federal census.
 
@@ -582,7 +582,7 @@ Subsec. (c). Pub. L. 93–87, §111(a)(5), (7), substituted "40" for "20" per ce
 
 Subsec. (d). Pub. L. 93–87, §111(a)(6), substituted provisions respecting transfer of apportionment of funds under pars. (3) and (6) of subsec. (b) of this section from one paragraph to the other when requested by the State highway department and approved as in the public interest by the Governor of the State and the Secretary for former provisions which authorized expenditure of subsec. (b)(2) funds apportioned for Federal-aid secondary system to a State for projects on another Federal-aid system when the State highway department and the Secretary were in joint agreement as to such other expenditure.
 
-Subsec. (f). Pub. L. 93–87, §112, incorporated provisions of former subsec. (f) that "Not to exceed 50 per centum of the amounts apportioned in accordance with paragraph (3) of subsection (b) of this section may be expended for projects on the Federal-aid urban system" in provisions designated as par. (1) and stating that "On or before January 1 next preceding the commencement of each fiscal year, the Secretary, after making the deduction authorized by subsection (a) of this section, shall set aside not to exceed one-half per centum of the remaining funds authorized to be appropriated for expenditure upon the Federal-aid systems, for the purpose of carrying out the requirements of section 134 of this title." and added pars. (2)–(4).
+Subsec. (f). Pub. L. 93–87, §112, incorporated provisions of former subsec. (f) that "Not to exceed 50 per centum of the amounts apportioned in accordance with paragraph (3) of subsection (b) of this section may be expended for projects on the Federal-aid urban system" in provisions designated as par. (1) and stating that "On or before January 1 next preceding the commencement of each fiscal year, the Secretary, after making the deduction authorized by subsection (a) of this section, shall set aside not to exceed one-half per centumof the remaining funds authorized to be appropriated for expenditure upon the Federal-aid systems, for the purpose of carrying out the requirements of section 134 of this title." and added pars. (2)–(4).
 
 Subsec. (g). Pub. L. 93–87, §227, added subsec. (g).
 
@@ -740,7 +740,7 @@ Apportionment ratio.—Except as provided in paragraph (2), the Secretary of Tra
 
 &emsp;"(2)
 
-Exception.—The ratios determined under this subsection shall be subject to the same adjustments as the adjustments made under \[former\] section 105(f) of title 23, United States Code.
+Exception.—The ratios determined under this subsection shall be subject to the same adjustmentsas the adjustments made under \[former\] section 105(f) of title 23, United States Code.
 
 "(b)
 
@@ -780,7 +780,7 @@ Repayment From Future Apportionments.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall reduce the amount that would be apportioned, but for this section, to a State for programs under chapter 1 of title 23, United States Code, for fiscal year 2005, under a multiyear law reauthorizing the Federal-aid highway program enacted after the date of enactment of this Act \[Sept. 30, 2004\] by the amount that is apportionedto each State under subsection (a) and section 5(c) \[118 Stat. 1150\] for each such program.
+In general.—The Secretary shall reduce the amount that would be apportioned, but for this section, to a State for programs under chapter 1 of title 23, United States Code, for fiscal year 2005, under a multiyear law reauthorizing the Federal-aid highway program enacted after the date of enactment of this Act \[Sept. 30, 2004\] by the amount that is apportioned to each State under subsection (a) and section 5(c) \[118 Stat. 1150\] for each such program.
 
 &emsp;"(2)
 
@@ -1016,7 +1016,7 @@ Similar provisions were contained in Pub. L. 101–516, title III, §329, Nov. 5
 
 #### Implementation of Certain Presidential Orders Requiring Percentage Reduction for Federal-Aid Highway, Mass Transit, and Highway Safety Programs
 
-Pub. L. 100–17, title I, §136, Apr. 2, 1987, 101 Stat. 174, provided that: "In implementing any order issued by the President which provides for or requires a percentage reduction in new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority, or obligation limitations for the Federal-aid highway, mass transit and highway safety programs and with respect to which the budget account activity as identified in the program and financing schedule contained in the Appendix to the Budget of the United States Government for such programs includes more than one specific highway, mass transit, or highway safety program or project for which budget authority is provided by this Act or an amendment made by this Act \[see Short Title of 1987 Amendment note set out under section 101 of this title\], the Secretary shall apply the percentage reduction equally to each such specific program or project."
+Pub. L. 100–17, title I, §136, Apr. 2, 1987, 101 Stat. 174, provided that: "In implementing any order issued bythe President which provides for or requires a percentage reduction in new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority, or obligation limitations for the Federal-aid highway, mass transit and highway safety programs and with respect to which the budget account activity as identified in the program and financing schedule contained in the Appendix to the Budget of the United States Government for such programs includes more than one specific highway, mass transit, or highway safety program or project for which budget authority is provided by this Act or an amendment made by this Act \[see Short Title of 1987 Amendment note set out under section 101 of this title\], the Secretary shall apply the percentage reduction equally to each such specific program or project."
 
 #### Federal-Aid Primary Formula for Amounts Authorized for Fiscal Years 1983 Through 1991
 
@@ -1028,15 +1028,17 @@ Pub. L. 97–424, title I, §145, Jan. 6, 1983, 96 Stat. 2130, provided that the
 
 #### Federal-Aid Highways and Highway Safety Construction Programs; Maximum Limits on Total Obligations; Exceptions; State Allocations
 
-Pub. L. 112–141, div. A, title I, §1102, July 6, 2012, 126 Stat. 416, provided that:
+Pub. L. 112–141, div. A, title I, §1102, July 6, 2012, 126 Stat. 416, as amended by Pub. L. 113–159, title I, §1001(c)(3), Aug. 8, 2014, 128 Stat. 1841, provided that:
 
 "(a)
 
 General Limitation.—Subject to subsection (e), and notwithstanding any other provision of law, the obligations for Federal-aid highway and highway safety construction programs shall not exceed—
 
-&emsp;"(1) $39,699,000,000 for fiscal year 2013; and
+&emsp;"(1) $39,699,000,000 for fiscal year 2013;
 
-&emsp;"(2) $40,256,000,000 for fiscal year 2014.
+&emsp;"(2) $40,256,000,000 for fiscal year 2014; and
+
+&emsp;"(3) $26,800,569,863 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 "(b)
 
@@ -1060,23 +1062,23 @@ Exceptions.—The limitations under subsection (a) shall not apply to obligation
 
 &emsp;"(9) Federal-aid highway programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century (112 Stat. 107) \[Pub. L. 105–178, see Tables for classification\] or subsequent Acts for multiple years or to remain available until expended, but only to the extent that the obligation authority has not lapsed or been used;
 
-&emsp;"(10) section 105 of title 23, United States Code (but, for each of fiscal years 2005 through 2011, only in an amount equal to $639,000,000 for each of those fiscal years);
+&emsp;"(10) section 105 of title 23, United States Code (but, for each of fiscal years 2005 through 2012, only in an amount equal to $639,000,000 for each of those fiscal years);
 
 &emsp;"(11) section 1603 of SAFETEA–LU (23 U.S.C. 118 note; 119 Stat. 1248), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and
 
-&emsp;"(12) section 119 of title 23, United States Code (but, for each of fiscal years 2013 through 2014, only in an amount equal to $639,000,000 for each of those fiscal years).
+&emsp;"(12) section 119 of title 23, United States Code (but, for each of fiscal years 2013 through 2014, only in an amount equal to $639,000,000 for each of those fiscal years, and for the period beginning on October 1, 2014, and ending on May 31, 2015, only in an amount equal to $639,000,000, less any reductions that would have otherwise been required for that year by section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901a), then multiplied by 243/365 for that period).
 
 "(c)
 
-Distribution of Obligation Authority.—For each of fiscal years 2013 through 2014, the Secretary \[of Transportation\]—
+Distribution of Obligation Authority.—For each of fiscal years 2013 through 2014 and for the period beginning on October 1, 2014, and ending on May 31, 2015, the Secretary \[of Transportation\]—
 
-&emsp;"(1) shall not distribute obligation authority provided by subsection (a) for the fiscal year for—
+&emsp;"(1) shall not distribute obligation authority provided by subsection (a) for the fiscal year or period for—
 
-&emsp;&emsp;"(A) amounts authorized for administrative expenses and programs by section 104(a) of title 23, United States Code; and
+&emsp;&emsp;"(A) amounts provided for administrative expenses and programs; and
 
 &emsp;&emsp;"(B) amounts authorized for the Bureau of Transportation Statistics;
 
-&emsp;"(2) shall not distribute an amount of obligation authority provided by subsection (a) that is equal to the unobligated balance of amounts—
+&emsp;"(2) shall not distribute an amount of obligation authority provided by subsection (a) that is equal to the unobligated balance of amounts or, for the period beginning on October 1, 2014, and ending May 31, 2015, that is equal to 243/365 of such unobligated balance—
 
 &emsp;&emsp;"(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highway and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under sections 202 or 204 of title 23, United States Code); and
 
@@ -1084,25 +1086,25 @@ Distribution of Obligation Authority.—For each of fiscal years 2013 through 20
 
 &emsp;"(3) shall determine the proportion that—
 
-&emsp;&emsp;"(A) the obligation authority provided by subsection (a) for the fiscal year, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
+&emsp;&emsp;"(A) the obligation authority provided by subsection (a) for the fiscal year or period, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
 
-&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid highway and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (11) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(12) for the fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
+&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid highway and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (11) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(12) for the fiscal year or period), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
 
 &emsp;"(4) shall distribute the obligation authority provided by subsection (a), less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under this Act \[see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
 
 &emsp;&emsp;"(A) the proportion determined under paragraph (3); by
 
-&emsp;&emsp;"(B) the amounts authorized to be appropriated for each such program for the fiscal year; and
+&emsp;&emsp;"(B) the amounts authorized to be appropriated for each such program for the fiscal year or period; and
 
-&emsp;"(5) shall distribute the obligation authority provided by subsection (a), less the aggregate amounts not distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid highway and highway safety construction programs that are apportioned by the Secretary under title 23, United States Code (other than the amounts apportioned for the national highway performance program in section 119 of title 23, United States Code, that are exempt from the limitation under subsection (b)(12) and the amounts apportioned under section 204 of that title) in the proportion that—
+&emsp;"(5) shall distribute the obligation authority provided by subsection (a), less the aggregate amountsnot distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid highway and highway safety construction programs that are apportioned by the Secretary under title 23, United States Code (other than the amounts apportioned for the national highway performance program in section 119 of title 23, United States Code, that are exempt from the limitation under subsection (b)(12) and the amounts apportioned under sections 202 and 204 of that title) in the proportion that—
 
-&emsp;&emsp;"(A) amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to each State for the fiscal year; bears to
+&emsp;&emsp;"(A) amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to each State for the fiscal year or period; bears to
 
-&emsp;&emsp;"(B) the total of the amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to all States for the fiscal year.
+&emsp;&emsp;"(B) the total of the amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to all States for the fiscal year or period.
 
 "(d)
 
-Redistribution of Unused Obligation Authority.—Notwithstanding subsection (c), the Secretary \[of Transportation\] shall, after August 1 of each of fiscal years 2013 through 2014—
+Redistribution of Unused Obligation Authority.—Notwithstanding subsection (c), the Secretary \[of Transportation\] shall, after August 1 of each of fiscal years 2013 through 2015—
 
 &emsp;"(1) revise a distribution of the obligation authority made available under subsection (c) if an amount distributed cannot be obligated during that fiscal year; and
 
@@ -1134,11 +1136,11 @@ Redistribution of Certain Authorized Funds.—
 
 &emsp;"(1)
 
-In general.—Not later than 30 days after the date of distribution of obligation authority under subsection (c) for each of fiscal years 2013 through 2014, the Secretary \[of Transportation\] shall distribute to the States any funds (excluding funds authorized for the program under section 202 of title 23, United States Code) that—
+In general.—Not later than 30 days after the date of distribution of obligation authority under subsection (c) for each of fiscal years 2013 through 2014 and for the period beginning on October 1, 2014, and ending on May 31, 2015, the Secretary \[of Transportation\] shall distribute to the States any funds (excluding funds authorized for the program under section 202 of title 23, United States Code) that—
 
-&emsp;&emsp;"(A) are authorized to be appropriated for the fiscal year for Federal-aid highway programs; and
+&emsp;&emsp;"(A) are authorized to be appropriated for the fiscal year or period for Federal-aid highway programs; and
 
-&emsp;&emsp;"(B) the Secretary determines will not be allocated to the States (or will not be apportioned to the States under section 204 of title 23, United States Code), and will not be available for obligation, for the fiscal year because of the imposition of any obligation limitation for the fiscal year.
+&emsp;&emsp;"(B) the Secretary determines will not be allocated to the States (or will not be apportioned to the States under section 204 of title 23, United States Code), and will not be available for obligation, for the fiscal year or period because of the imposition of any obligation limitation for the fiscal year.
 
 &emsp;"(2)
 
@@ -1146,7 +1148,7 @@ Ratio.—Funds shall be distributed under paragraph (1) in the same proportion a
 
 &emsp;"(3)
 
-Availability.—Funds distributed to each State under paragraph (1) shall be available for any purpose described in section 133(c) of title 23, United States Code."
+Availability.—Funds distributed to each State under paragraph (1) shall be available for any purpose described in section 133(b) of title 23, United States Code."
 
 Similar provisions for prior fiscal years were contained in the following acts:
 
@@ -1154,67 +1156,105 @@ Pub. L. 109–59, title I, §1102, Aug. 10, 2005, 119 Stat. 1157, as amended by 
 
 Pub. L. 105–178, title I, §1102, June 9, 1998, 112 Stat. 115, as amended by Pub. L. 105–206, title IX, §9002(b), July 22, 1998, 112 Stat. 834; Pub. L. 106–159, title I, §103(b)(2), Dec. 9, 1999, 113 Stat. 1753.
 
-Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 650, provided in part that: "None of the funds in this Act \[div. C of Pub. L. 112–55, see Tables for classification\] shall be available for the implementation or execution of programs, the obligations for which are in excess of $39,143,582,670 for Federal-aid highways and highway safety construction programs for fiscal year 2012".
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2705, provided in part that: "Funds available for the implementation or execution of programs of Federal-aid Highways and highway safety construction programs authorized under titles 23 and 49, United States Code, and the provisions of Public Law 112–141 shall not exceed total obligations of $40,256,000,000 for fiscal year 2015".
 
-Pub. L. 112–55, div. C, title I, §120, Nov. 18, 2011, 125 Stat. 651, provided that:
+Similar provisions for prior fiscal years were contained in the following acts:
 
-"(a) For fiscal year 2012, the Secretary of Transportation shall—
+Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 583.
 
-&emsp;"(1) not distribute from the obligation limitation for Federal-aid highways amounts authorized for administrative expenses and programs by section 104(a) of title 23, United States Code; programs funded from the administrative takedown authorized by section 104(a)(1) of title 23, United States Code (as in effect on the date before the date of enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Aug. 10, 2005\]); the highway use tax evasion program; and the Bureau of Transportation Statistics;
+Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 650.
 
-&emsp;"(2) not distribute an amount from the obligation limitation for Federal-aid highways that is equal to the unobligated balance of amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highways and highway safety programs for previous fiscal years the funds for which are allocated by the Secretary;
+Pub. L. 113–235, div. K, title I, §120, Dec. 16, 2014, 128 Stat. 2705, provided that:
 
-&emsp;"(3) determine the ratio that—
+"(a) For fiscal year 2015, the Secretary of Transportation shall—
 
-&emsp;&emsp;"(A) the obligation limitation for Federal-aid highways, less the aggregate of amounts not distributed under paragraphs (1) and (2), bears to
+&emsp;"(1) not distribute from the obligation limitation for Federal-aid Highways—
 
-&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for Federal-aid highways and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (9) of subsection (b) and sums authorized to be appropriated for \[former\] section 105 of title 23, United States Code, equal to the amount referred to in subsection (b)(10) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
+&emsp;&emsp;"(A) amounts authorized for administrative expenses and programs by section 104(a) of title 23, United States Code; and
 
-&emsp;"(4)(A) distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for sections 1301 \[set out as a note under section 101 of this title\], 1302 \[formerly set out as a note under section 101 of this title\], and 1934 \[119 Stat. 1485\] of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Pub. L. 109–59\]; \[former\] section 117 and \[former\] section 144(g) of title 23, United States Code; and section 14501 of title 40, United States Code, so that the amount of obligation authority available for each of such sections is equal to the amount determined by multiplying the ratio determined under paragraph (3) by the sums authorized to be appropriated for that section for the fiscal year; and
+&emsp;&emsp;"(B) amounts authorized for the Bureau of Transportation Statistics;
 
-&emsp;"(B) distribute $2,000,000,000 for \[former\] section 105 of title 23, United States Code;
+&emsp;"(2) not distribute an amount from the obligation limitation for Federal-aid Highways that is equal to the unobligated balance of amounts—
 
-&emsp;"(5) distribute the obligation limitation provided for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2) and amounts distributed under paragraph (4), for each of the programs that are allocated by the Secretary under the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Pub. L. 109–59, see Tables for classification\] and title 23, United States Code (other than to programs to which paragraphs (1) and (4) apply), by multiplying the ratio determined under paragraph (3) by the amounts authorized to be appropriated for each such program for such fiscal year; and
+&emsp;&emsp;"(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid Highways and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under section 202 or 204 of title 23, United States Code); and
 
-&emsp;"(6) distribute the obligation limitation provided for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2) and amounts distributed under paragraphs (4) and (5), for Federal-aid highways and highway safety construction programs (other than the amounts apportioned for the equity bonus program, but only to the extent that the amounts apportioned for the equity bonus program for the fiscal year are greater than $2,639,000,000, and the Appalachian development highway system program) that are apportioned by the Secretary under the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users and title 23, United States Code, in the ratio that—
+&emsp;&emsp;"(B) for which obligation limitation was provided in a previous fiscal year;
 
-&emsp;&emsp;"(A) amounts authorized to be appropriated for such programs that are apportioned to each State for such fiscal year, bear to
+&emsp;"(3) determine the proportion that—
 
-&emsp;&emsp;"(B) the total of the amounts authorized to be appropriated for such programs that are apportioned to all States for such fiscal year.
+&emsp;&emsp;"(A) the obligation limitation for Federal-aid Highways, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
+
+&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid Highways and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (12) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(13) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
+
+&emsp;"(4) distribute the obligation limitation for Federal-aid Highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under the Moving Ahead for Progress in the 21st Century Act \[Pub. L. 112–141, see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
+
+&emsp;&emsp;"(A) the proportion determined under paragraph (3); by
+
+&emsp;&emsp;"(B) the amounts authorized to be appropriated for each such program for such fiscal year; and
+
+&emsp;"(5) distribute the obligation limitation for Federal-aid Highways, less the aggregate amounts not distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid Highways and highway safety construction programs that are apportioned by the Secretary undertitle 23, United States Code (other than the amounts apportioned for the National Highway Performance Program in section 119 of title 23, United States Code, that are exempt from the limitation under subsection (b)(13) and the amounts apportioned under sections 202 and 204 of that title) in the proportion that—
+
+&emsp;&emsp;"(A) amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to each State for such fiscal year; bears to
+
+&emsp;&emsp;"(B) the total of the amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to all States for such fiscal year.
 
 "(b)
 
-Exceptions From Obligation Limitation.—The obligation limitation for Federal-aid highways shall not apply to obligations:
+Exceptions From Obligation Limitation.—The obligation limitation for Federal-aid Highways shall not apply to obligations under or for—
 
-&emsp;"(1) under section 125 of title 23, United States Code;
+&emsp;"(1) section 125 of title 23, United States Code;
 
-&emsp;"(2) under section 147 of the Surface Transportation Assistance Act of 1978 \[Pub. L. 95–599, formerly set out as a note under section 144 of this title\];
+&emsp;"(2) section 147 of the Surface Transportation Assistance Act of 1978 (\[former\] 23 U.S.C. 144 note; 92 Stat. 2714);
 
-&emsp;"(3) under section 9 of the Federal-Aid Highway Act of 1981 \[Pub. L. 97–134, 95 Stat. 1701\];
+&emsp;"(3) section 9 of the Federal-Aid Highway Act of 1981 \[Pub. L. 97–134\] (95 Stat. 1701);
 
-&emsp;"(4) under subsections (b) and (j) of section 131 of the Surface Transportation Assistance Act of 1982 \[Pub. L. 97–424, 96 Stat. 2119, 2123\];
+&emsp;"(4) subsections (b) and (j) of section 131 of the Surface Transportation Assistance Act of 1982 \[Pub. L. 97–424\] (96 Stat. 2119);
 
-&emsp;"(5) under subsections (b) and (c) of section 149 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 \[Pub. L. 100–17, 101 Stat. 198, 200\];
+&emsp;"(5) subsections (b) and (c) of section 149 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 \[Pub. L. 100–17\] (101 Stat. 198);
 
-&emsp;"(6) under sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, see Tables for classification\];
+&emsp;"(6) sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, see Tables for classification\] (105 Stat. 2027);
 
-&emsp;"(7) under section 157 of title 23, United States Code, as in effect on the day before the date of the enactment of the Transportation Equity Act for the 21st Century \[June 9, 1998\];
+&emsp;"(7) section 157 of title 23, United States Code (as in effect on June 8, 1998);
 
-&emsp;"(8) under section 105 of title 23, United States Code, as in effect for fiscal years 1998 through 2004, but only in an amount equal to $639,000,000 for each of those fiscal years;
+&emsp;"(8) section 105 of title 23, United States Code (as in effect for fiscal years 1998 through 2004, but only in an amount equal to $639,000,000 for each of those fiscal years);
 
-&emsp;"(9) for Federal-aid highway programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, see Tables for classification\] or subsequent public laws for multiple years or to remain available until used, but only to the extent that the obligation authority has not lapsed or been used;
+&emsp;"(9) Federal-aid Highways programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century (112 Stat. 107) or subsequent Acts for multiple years or to remain available until expended, but only to the extent that the obligation authority has not lapsed or been used;
 
-&emsp;"(10) under \[former\] section 105 of title 23, United States Code, but only in an amount equal to $639,000,000 for each of fiscal years 2005 through 2012; and
+&emsp;"(10) \[former\] section 105 of title 23, United States Code (as in effect for fiscal years 2005 through 2012, but only in an amount equal to $639,000,000 for each of those fiscal years);
 
-&emsp;"(11) under section 1603 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Pub. L. 109–59, set out as a note under section 118 of this title\], to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation.
+&emsp;"(11) section 1603 of SAFETEA–LU \[Pub. L. 109–59\] (23 U.S.C. 118 note; 119 Stat. 1248), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and \[sic\]
+
+&emsp;"(12) section 119 of title 23, United States Code (as in effect for fiscal years 2013 and 2014, but only in an amount equal to $639,000,000 for each of those fiscal years); and
+
+&emsp;"(13) section 119 of title 23, United States Code (but, for fiscal year 2015, only in an amount equal to $639,000,000).
 
 "(c)
 
-Redistribution of Unused Obligation Authority.—Notwithstanding subsection (a), the Secretary shall, after August 1 of such fiscal year, revise a distribution of the obligation limitation made availableunder subsection (a) if the amount distributed cannot be obligated during that fiscal year, and redistribute sufficient amounts to those States able to obligate amounts in addition to those previously distributed during that fiscal year, giving priority to those States having large unobligated balances of funds apportioned under sections 104 and 144 of title 23, United States Code.
+Redistribution of Unused Obligation Authority.—Notwithstanding subsection (a), the Secretary shall, after August 1 of such fiscal year—
+
+&emsp;"(1) revise a distribution of the obligation limitation made available under subsection (a) if an amount distributed cannot be obligated during that fiscal year; and
+
+&emsp;"(2) redistribute sufficient amounts to those States able to obligate amounts in addition to those previously distributed during that fiscal year, giving priority to those States having large unobligated balances of funds apportioned under sections 144 (as in effect on the day before the date of enactment of Public Law 112–141 \[July 6, 2012\]) and 104 of title 23, United States Code.
 
 "(d)
 
-Applicability of Obligation Limitations to Transportation Research Programs.—The obligation limitation shall apply to transportation research programs carried out under chapter 5 of title 23, United States Code, and title V (research title) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Pub. L. 109–59, see Tables for classification\], except that obligation authority made available for such programs under such limitation shall remain available for a period of 3 fiscal years and shall be in addition to the amount of any limitation imposed on obligations for Federal-aid highway and highway safety construction programs for future fiscal years.
+Applicability of Obligation Limitations to Transportation Research Programs.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the obligation limitation for Federal-aid Highways shall apply to contract authority for transportation research programs carried out under—
+
+&emsp;&emsp;"(A) chapter 5 of title 23, United States Code; and
+
+&emsp;&emsp;"(B) division E of the Moving Ahead for Progress in the 21st Century Act \[div. E (§50001 et seq.) of Pub. L. 112–141, see Tables for classification\].
+
+&emsp;"(2)
+
+Exception.—Obligation authority made available under paragraph (1) shall—
+
+&emsp;&emsp;"(A) remain available for a period of 4 fiscal years; and
+
+&emsp;&emsp;"(B) be in addition to the amount of any limitation imposed on obligations for Federal-aid Highways and highway safety construction programs for future fiscal years.
 
 "(e)
 
@@ -1222,33 +1262,25 @@ Redistribution of Certain Authorized Funds.—
 
 &emsp;"(1)
 
-In general.—Not later than 30 days after the date of the distribution of obligation limitation under subsection (a), the Secretary shall distribute to the States any funds that—
+In general.—Not later than 30 days after the date of distribution of obligation limitation under subsection (a), the Secretary shall distribute to the States any funds (excluding funds authorized for the program under section 202 of title 23, United States Code) that—
 
-&emsp;&emsp;"(A) are authorized to be appropriated for such fiscal year for Federal-aid highways programs; and
+&emsp;&emsp;"(A) are authorized to be appropriated for such fiscal year for Federal-aid Highways programs; and
 
-&emsp;&emsp;"(B) the Secretary determines will not be allocated to the States, and will not be available for obligation, in such fiscal year due to the imposition of any obligation limitation for such fiscal year.
+&emsp;&emsp;"(B) the Secretary determines will not be allocated to the States (or will not be apportioned to the States under section 204 of title 23, United States Code), and will not be available for obligation, for such fiscal year because of the imposition of any obligation limitation for such fiscal year.
 
 &emsp;"(2)
 
-Ratio.—Funds shall be distributed under paragraph (1) in the same ratio as the distribution of obligation authority under subsection (a)(6).
+Ratio.—Funds shall be distributed under paragraph (1) in the same proportion as the distribution of obligation authority under subsection (a)(5).
 
 &emsp;"(3)
 
-Availability.—Funds distributed under paragraph (1) shall be available for any purposes described in section 133(b) of title 23, United States Code.
-
-"(f)
-
-Special Limitation Characteristics.—Obligation limitation distributed for a fiscal year under subsection (a)(4) for the provision specified in subsection (a)(4) shall—
-
-&emsp;"(1) remain available until used for obligation of funds for that provision; and
-
-&emsp;"(2) be in addition to the amount of any limitation imposed on obligations for Federal-aid highway and highway safety construction programs for future fiscal years.
-
-"(g)
-
-Limitation on Statutory Construction.—Nothing in this section shall be construed to limit the distribution of obligation authority under subsection (a)(4)(A) for each of the individual projects numbered greater than 3676 listed in the table contained in section 1702 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[119 Stat. 1256\]."
+Availability.—Funds distributed to each State under paragraph (1) shall be available for any purpose described in section 133(b) of title 23, United States Code."
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+Pub. L. 113–76, div. L, title I, §120, Jan. 17, 2014, 128 Stat. 583.
+
+Pub. L. 112–55, div. C, title I, §120, Nov. 18, 2011, 125 Stat. 651.
 
 Pub. L. 111–117, div. A, title I, Dec. 16, 2009, 123 Stat. 3044.
 

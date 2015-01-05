@@ -142,7 +142,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (j) Term
 
-The term of a certification issued by a State or an accreditation organization in a State shall be prescribed by the Secretary in the certification program and shall be valid for a period of time to be defined by the Secretary through the public comment process described in subsection (h)(2) <sup>4</sup> of this section. The Secretary shall provide an application for recertification to be submitted at the time of changes in the ownership of a certified laboratory or changes in the administration of such a laboratory.
+The term of a certification issued by a State or an accreditation organization in a State shall be prescribed by the Secretary in the certification program and shall be valid for a period of time to be defined by the Secretary through the public comment process described in subsection (h)(2) <sup>4</sup> of this section. The Secretary shall provide an application for recertification to be submitted at the time of changes in the ownershipof a certified laboratory or changes in the administration of such a laboratory.
 
 (Pub. L. 102–493, §3, Oct. 24, 1992, 106 Stat. 3146.)
 

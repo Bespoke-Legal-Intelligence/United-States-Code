@@ -6,13 +6,15 @@ Except as provided in subsection (b), amounts appropriated pursuant to a DOE nat
 
 #### (b) Exception for program direction funds
 
-Amounts appropriated for program direction pursuant to a DOE national security athorization <sup>1</sup> for a fiscal year shall remain available to be obligated only until the end of that fiscal year.
+Amounts appropriated for program direction pursuant to a DOE national security authorization for a fiscal year shall remain available to be obligated only until the end of that fiscal year.
 
-(Pub. L. 107–314, div. D, title XLVII, §4709, formerly div. C, title XXXVI, §3628, Dec. 2, 2002, 116 Stat. 2760; renumbered div. D, title XLVII, §4709, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781.)
+(Pub. L. 107–314, div. D, title XLVII, §4709, formerly div. C, title XXXVI, §3628, Dec. 2, 2002, 116 Stat. 2760; renumbered div. D, title XLVII, §4709, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–291, div. C, title XXXI, §3142(p), Dec. 19, 2014, 128 Stat. 3901.)
 
 #### Codification
 
 Section was formerly classified to section 7386h of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "authorization".</i>
+#### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–291 substituted "authorization" for "athorization".
 

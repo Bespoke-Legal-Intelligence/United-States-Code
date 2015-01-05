@@ -42,7 +42,7 @@ If a foreign mission has ceased conducting diplomatic, consular, and other gover
 
 &emsp;(B) any country determined by the Secretary of State, for purposes of section 2405(j) of the Appendix to title 50, to be a country which has repeatedly provided support for acts of international terrorism; and
 
-&emsp;(C) any other country which engages in intelligence activities in the United States which are adverse to the national security interests of the United States.
+&emsp;(C) any other country which engages in intelligence activities in the United Stateswhich are adverse to the national security interests of the United States.
 
 (5) As used in this section, the term "substantially improve" shall not be construed to prevent the establishment of a foreign mission by a country which, on December 22, 1987—
 

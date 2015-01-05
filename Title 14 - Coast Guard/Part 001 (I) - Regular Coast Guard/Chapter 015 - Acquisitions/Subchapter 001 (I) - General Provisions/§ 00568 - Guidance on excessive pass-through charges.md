@@ -16,7 +16,7 @@ Excessive Pass-Through Charge Defined.—In this section the term "excessive pas
 
 (c)
 
-Application of Guidance.—The guidance under this subsection shall apply to contractsawarded to a private entity acting as a lead systems integrator by or on behalf of the Coast Guard on or after the date that is 360 days after the date of enactment of the Coast Guard Authorization Act of 2010.
+Application of Guidance.—The guidance under this subsection shall apply to contracts awarded to a private entity acting as a lead systems integrator by or on behalf of the Coast Guard on or after the date that is 360 days after the date of enactment of the Coast Guard Authorization Act of 2010.
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2940; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569.)
 

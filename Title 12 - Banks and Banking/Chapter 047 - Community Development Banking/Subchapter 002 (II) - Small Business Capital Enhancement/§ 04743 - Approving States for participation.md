@@ -40,7 +40,7 @@ The Fund shall approve a State to be a participating State, if—
 
 #### (C) Use of accumulated reserve funds
 
-&emsp;&emsp;A State that is approved for participation in accordance with this subsection may continue to implement the program <sup>2</sup> utilizing the reserve funds accumulated under the State program.
+&emsp;&emsp;A State that is approved for participation in accordance with this subsection may continue to implement the program <sup>2</sup> utilizingthe reserve funds accumulated under the State program.
 
 #### (d) Prior appropriations requirement
 

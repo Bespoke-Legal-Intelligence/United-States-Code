@@ -42,7 +42,7 @@ In subsection (c), the words "This section does not" are substituted for the wor
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see note set out under section 451 of Title 50, Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see note set out under section 451 of Title 50, Appendix, and Tables.
 
 #### Amendments
 

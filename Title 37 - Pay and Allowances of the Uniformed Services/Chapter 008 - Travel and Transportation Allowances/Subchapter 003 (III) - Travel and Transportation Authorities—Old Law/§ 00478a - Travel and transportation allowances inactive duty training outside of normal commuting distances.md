@@ -24,11 +24,13 @@ Regulations.—The Secretary concerned shall prescribe regulations to carry out 
 
 (e)
 
-Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2014.
+Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2015.
 
-(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(7), title X, §1091(b)(3), Dec. 26, 2013, 127 Stat. 780, 876.)
+(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(7), title X, §1091(b)(3), Dec. 26, 2013, 127 Stat. 780, 876; Pub. L. 113–291, div. A, title VI, §611(7), Dec. 19, 2014, 128 Stat. 3399.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 
 <b>2013</b>—Subsec. (e). Pub. L. 113–66, §611(7), substituted "December 31, 2014" for "December 31, 2013".
 
@@ -42,7 +44,7 @@ Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendmentmade by section 1091(b)(3) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(3) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
 
 #### Effective Date
 

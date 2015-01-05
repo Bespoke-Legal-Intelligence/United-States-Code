@@ -8,7 +8,7 @@ In accordance with section 2006a of this title, for purposes of this chapter, an
 
 The Secretary may—
 
-&emsp;(1) administer his powers and duties through such national, area, State, or local offices and employees in the United States as he determines to be necessary and may authorize an office to serve the area composed of two or more States if he determines that the volume of business in the area is not sufficient to justify separate State offices, and until January 1, 1975, make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter; (and the Secretary shall prior to June 30, 1974, report to the Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit);
+&emsp;(1) administer his powers and duties through such national, area, State, or local offices andemployees in the United States as he determines to be necessary and may authorize an office to serve the area composed of two or more States if he determines that the volume of business in the area is not sufficient to justify separate State offices, and until January 1, 1975, make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter; (and the Secretary shall prior to June 30, 1974, report to the Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit);
 
 &emsp;(2) accept and utilize voluntary and uncompensated services, and, with the consent of the agency concerned, utilize the officers, employees, equipment, and information of any agency of the Federal Government, or of any State, territory, or political subdivision;
 
@@ -28,9 +28,27 @@ The Secretary may—
 
 #### (c) Delinquent claims and obligations
 
-The Secretary may use for the prosecution or defense of any claim or obligation described in subsection (b)(5) of this section the Attorney General, the General Counsel of the Department of Agriculture, or a private attorney who has entered into a contract with the Secretary.
+The Secretary may use for the prosecution or defense of any claim or obligation described in subsection (b)(5) the Attorney General, the General Counsel of the Department of Agriculture, or a private attorney who has entered into a contract with the Secretary.
 
-(Pub. L. 87–128, title III, §331, Aug. 8, 1961, 75 Stat. 312; Pub. L. 90–488, §11, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §124, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §121, Aug. 4, 1978, 92 Stat. 427; Pub. L. 97–98, title XVI, §1603, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §1309, Dec. 23, 1985, 99 Stat. 1523; Pub. L. 100–233, title VI, §615(c), Jan. 6, 1988, 101 Stat. 1682; Pub. L. 101–624, title XVIII, §§1805, 1806, title XXIII, §§2303(a), 2388(d)(1), Nov. 28, 1990, 104 Stat. 3819, 3981, 4052; Pub. L. 102–237, title V, §501(c), title VII, §701(h)(1)(E), Dec. 13, 1991, 105 Stat. 1866, 1880; Pub. L. 103–248, §2, May 11, 1994, 108 Stat. 619; Pub. L. 103–354, title II, §226(h), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title VI, §§631, 632, title VII, §748, Apr. 4, 1996, 110 Stat. 1092, 1128; Pub. L. 107–171, title V, §§5303, 5304(a), May 13, 2002, 116 Stat. 345.)
+#### (d) Rural college coordinated strategy
+
+#### (1) In general
+
+&emsp;The Secretary shall develop a coordinated strategy across the relevant programs within the Rural Development mission areas to serve the specific, local needs of rural communities when making investments in rural community colleges and technical colleges through other authorities in effect on February 7, 2014.
+
+#### (2) Consultation
+
+&emsp;In developing a coordinated strategy, the Secretary shall consult with groups representing rural-serving community colleges and technical colleges to coordinate critical investments in rural community colleges and technical colleges involved in workforce training.
+
+#### (3) Administration
+
+&emsp;Nothing in this subsection provides a priority for funding under authorities in effect on February 7, 2014.
+
+#### (4) Use
+
+&emsp;The Secretary shall use the coordinated strategy and information developed for the strategy to more effectively serve rural communities with respect to investments in community colleges and technical colleges.
+
+(Pub. L. 87–128, title III, §331, Aug. 8, 1961, 75 Stat. 312; Pub. L. 90–488, §11, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §124, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §121, Aug. 4, 1978, 92 Stat. 427; Pub. L. 97–98, title XVI, §1603, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §1309, Dec. 23, 1985, 99 Stat. 1523; Pub. L. 100–233, title VI, §615(c), Jan. 6, 1988, 101 Stat. 1682; Pub. L. 101–624, title XVIII, §§1805, 1806, title XXIII, §§2303(a), 2388(d)(1), Nov. 28, 1990, 104 Stat. 3819, 3981, 4052; Pub. L. 102–237, title V, §501(c), title VII, §701(h)(1)(E), Dec. 13, 1991, 105 Stat. 1866, 1880; Pub. L. 103–248, §2, May 11, 1994, 108 Stat. 619; Pub. L. 103–354, title II, §226(h), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title VI, §§631, 632, title VII, §748, Apr. 4, 1996, 110 Stat. 1092, 1128; Pub. L. 107–171, title V, §§5303, 5304(a), May 13, 2002, 116 Stat. 345; Pub. L. 113–79, title VI, §6018, Feb. 7, 2014, 128 Stat. 846.)
 
 #### References in Text
 
@@ -53,6 +71,8 @@ The Rural Electrification Act of 1936, referred to in subsec. (b)(4), is act May
 Section 14 of title 6, referred to in subsec. (b)(7), was repealed by Pub. L. 92–310, title II, §203(1), June 6, 1972, 86 Stat. 202. For provisions relating to surety bonds of Federal personnel, see section 9301 et seq. of Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–79 added subsec. (d).
 
 <b>2002</b>—Subsec. (b)(4). Pub. L. 107–171, §5303, substituted "After consultation with a local or area county committee, the Secretary may release" for "The Secretary may release" and "carried out after" for "carried out—
 
@@ -174,11 +194,11 @@ Pub. L. 101–624, §1805(b), as amended by Pub. L. 102–237, §501(c)(2)(A), r
 
 Pars. (i), (j). Pub. L. 101–624, §1805(c)(5), which redesignated pars. (i) and (j) as (h) and (i), respectively, was repealed by Pub. L. 102–237, §501(c)(2)(A).
 
-Pub. L. 101–624, §1805(b), as amended by Pub. L. 102–237, §501(c)(2)(A), redesignated pars. (i) and (j) as (h) and (i), respectively. Pars. (h) and (i) subsequently redesignated pars. (8) and (9) of subsec. (b). See above.
+Pub. L. 101–624, §1805(b), as amended by Pub. L. 102–237, §501(c)(2)(A), redesignated pars. (i) and (j) as (h)and (i), respectively. Pars. (h) and (i) subsequently redesignated pars. (8) and (9) of subsec. (b). See above.
 
 <b>1988</b>—Par. (d). Pub. L. 100–233 inserted "or debts" before "claims", and inserted "The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection."
 
-<b>1985</b>—Par. (d). Pub. L. 99–198, §1309, in amending par. (d) generally, substituted provisions authorizing the Secretary to compromise, adjust, reduce, or charge-off claims, and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Farmers Home Administration to carry out this chapter for provisions which had authorized the Secretary to compromise, adjust, or reduce claims, and adjust and modify the terms of mortgages, leases, contracts and agreements entered into or administered by the Administration under any of its programs, but not in the event of claims of $25,000 or more without the approval of the Administrator, substituted provisions authorizing the Secretary to release borrowers or others obligated on a debt incurred under this chapter from personal liability with or without consideration at the time of the compromise, adjustment, reduction or charge-off of any claim for provisions authorizing the Secretary to release from personal liability, with or without payment of any consideration at the time of adjustment of the claims, borrowers who transferred the security property to approved applicants, to other than approved applicants, or for amounts less than the indebtedness secured thereby, struck out provisions that compromise, adjustment, or reduction of the claim shall be based on the value of the security and a determination of thedebtor's reasonable ability to pay considering his other assets and income, and struck out provisions relating to any claim due and payable for five years or more and to partial releases and subordination of mortgages.
+<b>1985</b>—Par. (d). Pub. L. 99–198, §1309, in amending par. (d) generally, substituted provisions authorizing the Secretary to compromise, adjust, reduce, or charge-off claims, and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Farmers Home Administration to carry out this chapter for provisions which had authorized the Secretary to compromise, adjust, or reduce claims, and adjust and modify the terms of mortgages, leases, contracts and agreements entered into or administered by the Administration under any of its programs, but not in the event of claims of $25,000 or more without the approval of the Administrator, substituted provisions authorizing the Secretary to release borrowers or others obligated on a debt incurred under this chapter from personal liability with or without consideration at the time of the compromise, adjustment, reduction or charge-off of any claim for provisions authorizing the Secretary to release from personal liability, with or without payment of any consideration at the time of adjustment of the claims, borrowers who transferred the security property to approved applicants, to other than approved applicants, or for amounts less than the indebtedness secured thereby, struck out provisions that compromise, adjustment, or reduction of the claim shall be based on the value of the security and a determination of the debtor's reasonable ability to pay considering his other assets and income, and struck out provisions relating to any claim due and payable for five years or more and to partial releases and subordination of mortgages.
 
 <b>1981</b>—Par. (i). Pub. L. 97–98 designated existing provisions following "consent to" as cl. (2) and added cl. (1).
 

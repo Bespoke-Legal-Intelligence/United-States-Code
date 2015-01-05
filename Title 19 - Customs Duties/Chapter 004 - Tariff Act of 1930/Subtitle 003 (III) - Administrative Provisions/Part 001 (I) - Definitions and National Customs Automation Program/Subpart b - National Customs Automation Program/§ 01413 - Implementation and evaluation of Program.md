@@ -72,7 +72,7 @@
 
 For purposes of this section, the term "Committees" means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(June 17, 1930, ch. 497, title IV, §413, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107Stat. 2189; amended Pub. L. 104–295, §21(e)(15), Oct. 11, 1996, 110 Stat. 3531.)
+(June 17, 1930, ch. 497, title IV, §413, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2189; amended Pub. L. 104–295, §21(e)(15), Oct. 11, 1996, 110 Stat. 3531.)
 
 #### Amendments
 

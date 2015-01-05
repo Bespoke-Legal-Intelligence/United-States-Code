@@ -12,9 +12,9 @@ The provisions of sections 1841 to 1846 of this title shall not be construed to�
 
 #### Codification
 
-Section was classified to section 166b–1d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 166b–1d of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Effective Date
 
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as anEffective Date of 1970 Amendment note under section 4301 of this title.
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
 

@@ -16,7 +16,7 @@ Section was formerly classified to section 623 of former Title 5, Executive Depa
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and (6), and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Department of Health and Human Services, including the functions of the Secretary of Healthand Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and (6), and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Emergency Preparedness Functions
 
@@ -48,7 +48,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 2
 
 "(c)
 
-Authorization of Appropriations.—For the purpose of carrying out this section, there are authorizedto be appropriated such sums as may be necessary for fiscal year 2001."
+Authorization of Appropriations.—For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for fiscal year 2001."
 
 #### Under Secretary Retitled Deputy Secretary
 
@@ -82,7 +82,7 @@ There shall be in the Department an Under Secretary of Health, Education, and We
 
 #### Sec. 4. Commissioner of Social Security
 
-There shall be in the Department a Commissioner of Social Security who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions concerning social security and public welfare as the Secretary may prescribe, and shall receive compensation at the rate now or hereafter fixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
+There shall be in the Department a Commissioner of Social Security who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions concerning social security and public welfare as the Secretary may prescribe, and shall receive compensation at the rate now or hereafterfixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
 
 #### Sec. 5. Transfers to the Department
 
@@ -102,7 +102,7 @@ The Federal Security Agency (exclusive of the agencies thereof transferred by se
 
 #### Sec. 9. Interim Provisions
 
-The President may authorize the persons who immediately prior to the time this reorganization plan takes effect occupy the offices of Federal Security Administrator, Assistant Federal Security Administrator, assistant heads of the Federal Security Agency, and Commissioner for Social Security to act as Secretary, Under Secretary, and Assistant Secretaries of Health, Education, and Welfare, and as Commissioner of SocialSecurity, respectively, until those offices are filled by appointment in the manner provided by sections 1, 2, and 4 of this reorganization plan, but not for a period of more than 60 days. While so acting, such persons shall receive compensation at the rates provided by this reorganization plan for the offices the functions of which they perform.
+The President may authorize the persons who immediately prior to the time this reorganization plan takes effect occupy the offices of Federal Security Administrator, Assistant Federal Security Administrator, assistant heads of the Federal Security Agency, and Commissioner for Social Security to act as Secretary, Under Secretary, and Assistant Secretaries of Health, Education, and Welfare, and as Commissioner of Social Security, respectively, until those offices are filled by appointment in the manner provided by sections 1, 2, and 4 of this reorganization plan, but not for a period of more than 60 days. While so acting, such persons shall receive compensation at the rates provided by this reorganization plan for the offices the functions of which they perform.
 
 \[The Secretary and Department of Health, Education, and Welfare were redesignated the Secretary and Department of Health and Human Services, respectively, by 20 U.S.C. 3508. For transfer of functions and offices (relating to education) of the Secretary and Department of Health, Education, and Welfare to the Secretary and Department of Education, and termination of certain offices and positions, see 20 U.S.C. 3441 and 3503.\]
 
@@ -120,7 +120,7 @@ There should be an unremitting effort to improve those health, education, and so
 
 But good intent and high purpose are not enough; all such programs depend for their success upon efficient, responsible administration. I have recently taken action to assure that the Federal Security Administrator's views are given proper consideration in executive councils by inviting her to attend meetings of the Cabinet. Now the establishment of the new Department provided for in Reorganization Plan No. 1 of 1953 will give the needed additional assurance that these matters will receive the full consideration they deserve in the whole operation of the Government.
 
-This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
+This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committeeon Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
 
 The present plan will make it possible to give the officials directing the Department titles indicative of their responsibilities and salaries comparable to those received by their counterparts in other executive departments. As the Under Secretary of an executive department, the Secretary's principal assistant will be better equipped to give leadership in the Department's organization and management activities, for which he will be primarily responsible. The plan opens the way to further administrative improvement by authorizing the Secretary to centralize services and activities common to the several agencies of the Department. It also established a uniform method of appointment for the heads of the three major constituent agencies. At present, the Surgeon General and the Commissioner of Education are appointed by the President and confirmed by the Senate, while the Commissioner for Social Security is appointed by the Federal Security Administrator. Hereafter, all three will be Presidential appointees subject to Senate confirmation.
 
@@ -164,7 +164,7 @@ Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be resp
 
 (1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director, shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
 
-(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
+(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authorityfor the performance of any function to any officer or employee under his direction and supervision;
 
 (3) utilize, with their consent, the services, personnel, and facilities of other Federal, State, local and private agencies and instrumentalities with or without reimbursement thereof except as reimbursement may be required by law; and
 
@@ -198,7 +198,7 @@ Sec. 3. <i>Functions</i>. (a) The Office shall advise the President as to all ma
 
 Sec. 4. <i>Consumer complaints</i>. (a) Whenever the Office receives from any source complaints or other information disclosing a possible violation of (1) any law of the United States or (2) any rule or order of any Federal agency concerning consumer interests, the Office shall promptly transmit such complaint or other information to the Federal agency charged with the duty of enforcing such law, rule, or order, for appropriate action.
 
-(b) Whenever the Office receives complaints or other information disclosing any commercial or trade practice which it deems detrimental to the general interests of consumers within the United States, and whichis not included within the category specified in subsection (a) of this section, the Office may transmit such complaint or other information promptly to the Federal, State, or local agency whose regulatory or other authority provides the most effective means to act upon them; the Office may in its discretion also refer such complaint or other information to the private persons or industry against whom the complaint is made.
+(b) Whenever the Office receives complaints or other information disclosing any commercial or trade practice which it deems detrimental to the general interests of consumers within the United States, and which is not included within the category specified in subsection (a) of this section, the Office may transmit such complaint or other information promptly to the Federal, State, or local agency whose regulatory or other authority provides the most effective means to act upon them; the Office may in its discretion also refer such complaint or other information to the private persons or industry against whom the complaint is made.
 
 Sec. 5. <i>Consumer Advisory Council</i>. (a) There is hereby established in the Office a Consumer Advisory Council to be composed of not more than 12 members appointed by the President. Members shall be appointed on the basis of their knowledge and experience in areas of interest to consumers and their demonstrated ability to exercise independent, informed, and critical judgment.
 
@@ -314,7 +314,7 @@ Designation and Functions of the Chairperson
 
 1–302. The Chairperson shall be the presiding officer of the Council and shall determine the times when the Council shall convene.
 
-1–303. The Chairperson shall establish such policies, definitions, procedures, and standards to govern theimplementation, interpretation, and application of this Order, and generally perform such functions and take such steps, as are necessary or appropriate to carry out the provisions of this Order.
+1–303. The Chairperson shall establish such policies, definitions, procedures, and standards to govern the implementation, interpretation, and application of this Order, and generally perform such functions and take such steps, as are necessary or appropriate to carry out the provisions of this Order.
 
 #### 1–4.
 

@@ -66,7 +66,7 @@ The Elementary and Secondary Education Act of 1965, referred to in pars. (13) an
 
 #### Codification
 
-Section was enacted as part of the Omnibus Education Reconciliation Act of 1981 and also as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the Department of Education Organization Act which comprises this chapter.
+Section was enacted as part of the Omnibus Education Reconciliation Act of 1981 and also as part of the Omnibus Budget Reconciliation Act of 1981, and not aspart of the Department of Education Organization Act which comprises this chapter.
 
 #### Amendments
 

@@ -80,7 +80,7 @@ Public transportation agency safety plan drafting and certification.—
 
 &emsp;&emsp;(A)
 
-Section 5311.—For a recipient receiving assistance under section 5311, a State safetyplan may be drafted and certified by the recipient or a State.
+Section 5311.—For a recipient receiving assistance under section 5311, a State safety plan may be drafted and certified by the recipient or a State.
 
 &emsp;&emsp;(B)
 
@@ -304,7 +304,7 @@ Use or withholding of funds.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may require the use of funds in accordance with paragraph (1)(D) only if the Secretary finds that a recipient is engaged in a pattern or practice of serious safety violations or has otherwise refused to comply with Federal law relating to the safety of the public transportation system.
+In general.—The Secretary may require the use of funds in accordance withparagraph (1)(D) only if the Secretary finds that a recipient is engaged in a pattern or practice of serious safety violations or has otherwise refused to comply with Federal law relating to the safety of the public transportation system.
 
 &emsp;&emsp;(B)
 

@@ -8,7 +8,7 @@
 
 (d) A program of independent living services and assistance for a veteran shall consist of such services described in section 3104(a) of this title as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under section 3107 of this title.
 
-(e)(1) Programs of independent living services and assistance shall be initiated for no more than 2,700 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+(e)(1) Programs of independent living services and assistance shall be initiated for no more than 2,700 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocationalgoal is precluded solely as a result of a service-connected disability.
 
 (2) The limitation in paragraph (1) shall not apply in any case in which the Secretary determines that a veteran described in subsection (b) has been displaced as the result of, or has otherwise been adversely affected in the areas covered by, a natural or other disaster, as determined by the Secretary.
 
@@ -78,7 +78,7 @@ Subsec. (a)(5), (6). Pub. L. 99–576, §333(a)(1)(A), substituted "1989" for "1
 
 Subsec. (b). Pub. L. 99–576, §333(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Not later than September 30, 1984, the Administrator shall submit to the Congress a report on the programs of independent living services and assistance provided for in subsection (a) of this section. Such report shall include—
 
-&emsp;"(1) the results of a study which the Administrator shall conduct of the accomplishments and cost-effectiveness of such programs, including the extent to which (A) such programs have met needs for comprehensive independent living services that would not otherwise have been met, (B) severely disabled veterans have achieved and maintained greater independence in daily living as a result of participation in the programs, and (C) costs of care in hospital, nursing home, and domiciliary facilities have been and may be avoided as the result of such programs; and
+&emsp;"(1) the results of a study which the Administrator shall conduct of the accomplishments and cost-effectiveness of such programs, including the extent to which (A) such programs have met needs for comprehensive independent living services that would not otherwise have been met, (B) severely disabled veterans have achieved and maintained greater independence in daily living as a result of participation in theprograms, and (C) costs of care in hospital, nursing home, and domiciliary facilities have been and may be avoided as the result of such programs; and
 
 &emsp;"(2) the Administrator's recommendations for any legislative changes with respect to the provision of independent living services and assistance to veterans for whom the achievement of a vocational goal is not feasible."
 

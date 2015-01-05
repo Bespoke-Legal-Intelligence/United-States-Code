@@ -20,7 +20,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (1) In general
 
-&emsp;The chief elected official of an eligible area shall use amounts from a grant under section300ff–11 of this title to provide direct financial assistance to entities described in paragraph (2) for the purpose of providing core medical services and support services.
+&emsp;The chief elected official of an eligible area shall use amounts from a grant under section 300ff–11 of this title to provide direct financial assistance to entities described in paragraph (2) for the purpose of providing core medical services and support services.
 
 #### (2) Appropriate entities
 
@@ -162,7 +162,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) Requirement
 
-&emsp;&emsp;The chief elected official of an eligible area that receives a grant under this subpart shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies forensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
+&emsp;&emsp;The chief elected official of an eligible area that receives a grant under this subpart shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
 
 #### (B) Use of funds
 

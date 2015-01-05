@@ -14,7 +14,7 @@
 
 &emsp;&emsp;The term "expatriated entity" means—
 
-&emsp;&emsp;&emsp;(i) the domestic corporation or partnership referred to in subparagraph (B)(i) with respect to which a foreign corporation is a surrogate foreign corporation, and
+&emsp;&emsp;&emsp;(i) the domestic corporation or partnership referred to in subparagraph (B)(i) withrespect to which a foreign corporation is a surrogate foreign corporation, and
 
 &emsp;&emsp;&emsp;(ii) any United States person who is related (within the meaning of section 267(b) or 707(b)(1)) to a domestic corporation or partnership described in clause (i).
 
@@ -46,7 +46,7 @@ Notwithstanding section 7701(a)(4), a foreign corporation shall be treated for p
 
 #### (1) Expanded affiliated group
 
-&emsp;The term "expanded affiliated group" means an affiliated group as defined in section 1504(a) but without regard to section 1504(b)(3), exceptthat section 1504(a) shall be applied by substituting "more than 50 percent" for "at least 80 percent" each place it appears.
+&emsp;The term "expanded affiliated group" means an affiliated group as defined in section 1504(a) but without regard to section 1504(b)(3), except that section 1504(a) shall be applied by substituting "more than 50 percent" for "at least 80 percent" each place it appears.
 
 #### (2) Certain stock disregarded
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to the inversion gain of any taxpayer for any pre-inversion year shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of the acquisition described in subsection (a)(2)(B)(i) to whichsuch gain relates and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to the inversion gain of any taxpayer for any pre-inversion year shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of the acquisition described in subsection (a)(2)(B)(i) to which such gain relates and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
 #### (B) Pre-inversion year
 

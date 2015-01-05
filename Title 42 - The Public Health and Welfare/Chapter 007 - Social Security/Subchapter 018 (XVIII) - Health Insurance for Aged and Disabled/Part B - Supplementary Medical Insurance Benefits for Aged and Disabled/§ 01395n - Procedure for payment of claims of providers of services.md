@@ -36,7 +36,7 @@ Notwithstanding the provisions of this section and sections 1395k, 1395l, and 13
 
 #### (d) Payment to Federal provider of services or other Federal agencies prohibited
 
-Subject to section 1395qq of this title, no payment may be made under this part to any Federal provider of services or other Federal agency, except a provider of services which the Secretary determines is providing services to the public generally as a community institution or agency; and no such payment may be made to any provider of services or other person for any item or service which such provider or person is obligated by a law of, or a contract with, the United States to render at public expense.
+Subject to section 1395qq of this title, no payment may be made under this part to any Federal provider of services or other Federal agency, except a provider of services which the Secretary determines is providing services to the public generally as a community institution or agency; and no such payment may be made to any provider of services or other person for anyitem or service which such provider or person is obligated by a law of, or a contract with, the United States to render at public expense.
 
 #### (e) Payment to fund designated by medical staff or faculty of medical school
 
@@ -236,7 +236,7 @@ Amendment by section 133(e) of Pub. L. 90–248 applicable with respect to servi
 
 #### Regulations
 
-Secretary of Health and Human Services required to provide, not later than 90 days after July 18, 1984, for revision of regulations as may be required to reflect amendment to subsec. (a) by section 2336(b) of Pub. L.98–369, see section 2336(c)(2) of Pub. L. 98–369, set out as a note under section 1395f of this title.
+Secretary of Health and Human Services required to provide, not later than 90 days after July 18, 1984, for revision of regulations as may be required to reflect amendment to subsec. (a) by section 2336(b) of Pub. L. 98–369, see section 2336(c)(2) of Pub. L. 98–369, set out as a note under section 1395f of this title.
 
 #### MedPAC Study on Direct Access to Physical Therapy Services
 

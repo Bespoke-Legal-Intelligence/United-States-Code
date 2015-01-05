@@ -62,7 +62,7 @@ For purposes of this part, any policyholder dividend which—
 
 #### (3) Accelerated policyholder dividends deduction defined
 
-&emsp;For purposes of this subsection, the term "accelerated policyholder dividends deduction" means the amount which (but for this subsection) would be determined for the taxable year under paragraph (1) of subsection (c) but which would have been determined (under such paragraph) for a later taxable year under the business practices of the taxpayer as in effect at the close of the preceding taxable year.
+&emsp;For purposes of this subsection, the term "accelerated policyholder dividends deduction" means the amount which (but for this subsection) would be determined for the taxable year under paragraph (1) of subsection (c) but which would have been determined (undersuch paragraph) for a later taxable year under the business practices of the taxpayer as in effect at the close of the preceding taxable year.
 
 #### (4) 1984 fresh-start adjustment for policyholder dividends
 

@@ -18,7 +18,7 @@ Billing disputes.—
 
 &emsp;&emsp;(A)
 
-Initiated by motor carriers.—In those cases where a motor carrier (other than a motor carrier providing transportation of household goods or in noncontiguous domestic trade) seeks to collectcharges in addition to those billed and collected which are contested by the payor, the carrier may request that the Board determine whether any additional charges over those billed and collected must be paid. A carrier must issue any bill for charges in addition to those originally billed within 180 days of the receipt of the original bill in order to have the right to collect such charges.
+Initiated by motor carriers.—In those cases where a motor carrier (other than a motor carrier providing transportation of household goods or in noncontiguous domestic trade) seeks to collect charges in addition to those billed and collected which are contested by the payor, the carrier may request that the Board determine whether any additional charges over those billed and collected must be paid. A carrier must issue any bill for charges in addition to those originally billed within 180 days of the receipt of the original bill in order to have the right to collect such charges.
 
 &emsp;&emsp;(B)
 

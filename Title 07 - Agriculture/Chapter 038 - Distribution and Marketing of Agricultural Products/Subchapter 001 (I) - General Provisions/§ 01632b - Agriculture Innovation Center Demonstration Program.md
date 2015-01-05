@@ -112,7 +112,7 @@ An eligible entity to which a grant is made under the Program may use the grant 
 
 &emsp;(3) Hiring of employees, at the discretion of the board of directors of the Agriculture Innovation Center of the eligible entity.
 
-&emsp;(4) The making of matching grants, each of which shall be in an amount not to exceed $5,000, to agricultural producers, except that the aggregate amount of all such matching grants made by the eligible entity shall be not more than $50,000.
+&emsp;(4) The making of matching grants, each of which shall be in an amount not to exceed $5,000, to agricultural producers, except that the aggregate amount of all such matchinggrants made by the eligible entity shall be not more than $50,000.
 
 &emsp;(5) Legal services.
 
@@ -122,7 +122,7 @@ An eligible entity to which a grant is made under the Program may use the grant 
 
 #### (1) In general
 
-&emsp;Of the amount made available under subsection (i) for each fiscal year, the Secretary shall use $300,000 to support research at a university concerning the effects of projects forvalue-added agricultural commodities or products on agricultural producers and the commodity markets.
+&emsp;Of the amount made available under subsection (i) for each fiscal year, the Secretary shall use $300,000 to support research at a university concerning the effects of projects for value-added agricultural commodities or products on agricultural producers and the commodity markets.
 
 #### (2) Research elements
 
@@ -156,9 +156,9 @@ An eligible entity to which a grant is made under the Program may use the grant 
 
 #### (i) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary to carry out this section $6,000,000 for each of fiscal years 2008 through 2012.
+There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
 
-(Pub. L. 107–171, title VI, §6402, May 13, 2002, 116 Stat. 426; Pub. L. 110–234, title VI, §6203, May 22, 2008, 122 Stat. 1207; Pub. L. 110–246, §4(a), title VI, §6203, June 18, 2008, 122 Stat. 1664, 1969.)
+(Pub. L. 107–171, title VI, §6402, May 13, 2002, 116 Stat. 426; Pub. L. 110–234, title VI, §6203, May 22, 2008, 122 Stat. 1207; Pub. L. 110–246, §4(a), title VI, §6203, June 18, 2008, 122 Stat. 1664, 1969; Pub. L. 113–79, title VI, §6204, Feb. 7, 2014, 128 Stat. 857.)
 
 #### Codification
 
@@ -169,6 +169,8 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 Section was formerly set out as a note under section 1621 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i). Pub. L. 113–79 substituted "$1,000,000 for each of fiscal years 2014 through 2018" for "$6,000,000 for each of fiscal years 2008 through 2012".
 
 <b>2008</b>—Subsec. (i). Pub. L. 110–246, §6203, added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: "Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
 

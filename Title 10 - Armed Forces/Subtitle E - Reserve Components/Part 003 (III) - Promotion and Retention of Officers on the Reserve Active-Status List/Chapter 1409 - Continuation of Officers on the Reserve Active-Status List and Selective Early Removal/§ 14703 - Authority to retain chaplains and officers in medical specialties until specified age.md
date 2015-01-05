@@ -8,7 +8,7 @@ Retention.—Notwithstanding any provision of chapter 1407 of this title and exc
 
 &emsp;(2) the Secretary of the Navy may, with the officer's consent, retain in an active status any reserve officer appointed in the Medical Corps, Dental Corps, Nurse Corps, or Chaplain Corps or appointed in the Medical Services Corps and designated to perform as a veterinarian, optometrist, podiatrist, allied health officer, or biomedical sciences officer; and
 
-&emsp;(3) the Secretary of the Air Force may, with the officer's consent, retain in an active statusany reserve officer who is designated as a medical officer, dental officer, Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.
+&emsp;(3) the Secretary of the Air Force may, with the officer's consent, retain in an active status any reserve officer who is designated as a medical officer, dental officer, Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.
 
 (b)
 

@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may designate certain employees of the Department to make procurements described in subsection (a) of this section for which in the administration of section 1902 of title 41 the amount specified in subsections (a), (d), and (e) of such section 1902 shall be deemed to be $7,500.
+&emsp;The Secretary may designate certain employees of the Department to make procurements described in subsection (a) for which in the administration of section 1902 of title 41 the amount specified in subsections (a), (d), and (e) of such section 1902 shall be deemed to be $7,500.
 
 #### (2) Number of employees
 
@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a procurement described in subsection (a) of this section, the Secretary may deem the simplified acquisition threshold referred to in section 134 of title 41 to be—
+&emsp;With respect to a procurement described in subsection (a), the Secretary may deem thesimplified acquisition threshold referred to in section 134 of title 41 to be—
 
 &emsp;&emsp;(A) in the case of a contract to be awarded and performed, or purchase to be made, within the United States, $200,000; and
 
@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a procurement described in subsection (a) of this section, the Secretary may deem any item or service to be a commercial item for the purpose of Federal procurement laws.
+&emsp;With respect to a procurement described in subsection (a), the Secretary may deem any item or service to be a commercial item for the purpose of Federal procurement laws.
 
 #### (2) Limitation
 
@@ -62,7 +62,7 @@
 
 #### (3) Certain authority
 
-&emsp;Authority under a provision of law referred to in paragraph (2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106; 10 U.S.C. 2304 note) shall, notwithstanding such section, continue to apply for a procurement described in subsection (a) of this section.
+&emsp;Authority under a provision of law referred to in paragraph (2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106; 10 U.S.C. 2304 note) shall, notwithstanding such section, continue to apply for a procurement described in subsection (a).
 
 #### (e) Report
 
@@ -70,11 +70,11 @@ Not later than 180 days after the end of fiscal year 2005, the Comptroller Gener
 
 &emsp;(1) An assessment of the extent to which property and services acquired using authorities provided under this section contributed to the capacity of the Federal workforce to facilitate the mission of the Department as described in section 111 of this title.
 
-&emsp;(2) An assessment of the extent to which prices for property and services acquired usingauthorities provided under this section reflected the best value.
+&emsp;(2) An assessment of the extent to which prices for property and services acquired using authorities provided under this section reflected the best value.
 
-&emsp;(3) The number of employees designated by each executive agency under subsection (b)(1) of this section.
+&emsp;(3) The number of employees designated by each executive agency under subsection (b)(1).
 
-&emsp;(4) An assessment of the extent to which the Department has implemented subsections (b)(2) and (b)(3) of this section to monitor the use of procurement authority by employees designated under subsection (b)(1) of this section.
+&emsp;(4) An assessment of the extent to which the Department has implemented subsections (b)(2) and (b)(3) to monitor the use of procurement authority by employees designated under subsection (b)(1).
 
 &emsp;(5) Any recommendations of the Comptroller General for improving the effectiveness of the implementation of the provisions of this section.
 
@@ -88,13 +88,13 @@ Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (d)(3),
 
 #### Codification
 
-In subsec. (b)(1), “section 1902 of title 41” substituted for “section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)” and “subsections (a), (d), and (e) of such section 1902” substituted for “subsections (c), (d), and (f) of such section 32” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1), "section 1902 of title 41" substituted for "section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)" and "subsections (a), (d), and (e) of such section 1902" substituted for "subsections (c), (d), and (f) of such section 32" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(2)(A), “section 1902(d) of title 41” substituted for “section 32(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 428(c))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2)(A), "section 1902(d) of title 41" substituted for "section 32(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 428(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(1), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(1), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (d)(2), “section 1901(a)(2) of title 41” substituted for “section 31(a)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(2))” and “section 3305(a)(2) of title 41” substituted for “section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(B))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(2), "section 1901(a)(2) of title 41" substituted for "section 31(a)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(2))" and "section 3305(a)(2) of title 41" substituted for "section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(B))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section is comprised of section 833 of Pub. L. 107–296. Subsec. (c)(2) of section 833 of Pub. L. 107–296 amended section 416 of former Title 41, Public Contracts.
 

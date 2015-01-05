@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Income in subsequent years
 
-&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
+&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such creditsdoes not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
 
 #### (4) Material participation not required for paragraphs (2) and (3)
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) interest expense properly allocable to such gross income, and
 
-&emsp;&emsp;&emsp;(ii) gain or loss not derived in the ordinary course of a trade or business which is attributable to the disposition of property—
+&emsp;&emsp;&emsp;(ii) gain or loss not derived in the ordinary course of a trade or business which isattributable to the disposition of property—
 
 &emsp;&emsp;&emsp;&emsp;(I) producing income of a type described in clause (i), or
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (4) Dividends reduced by dividends received deduction
 
-&emsp;For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243, 244, or 245.
+&emsp;For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243 or 245.
 
 #### (f) Treatment of former passive activities
 
@@ -458,7 +458,7 @@ For purposes of this section—
 
 &emsp;If any interest in a passive activity is distributed by an estate or trust—
 
-&emsp;&emsp;(A) the basis of such interest immediately before such distribution shall be increasedby the amount of any passive activity losses allocable to such interest, and
+&emsp;&emsp;(A) the basis of such interest immediately before such distribution shall be increased by the amount of any passive activity losses allocable to such interest, and
 
 &emsp;&emsp;(B) such losses shall not be allowable as a deduction for any taxable year.
 
@@ -498,62 +498,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) which deal with changes in marital status and changes between joint returns and separate returns.
 
-#### (m) Phase-in of disallowance of losses and credits for interest held before date of enactment
-
-#### (1) In general
-
-&emsp;In the case of any passive activity loss or passive activity credit for any taxable year beginning in calendar years 1987 through 1990, subsection (a) shall not apply to the applicable percentage of that portion of such loss (or such credit) which is attributable to pre-enactment interests.
-
-#### (2) Applicable percentage
-
-&emsp;For purposes of this subsection, the applicable percentage shall be determined in accordance with the following table:
-
-&nbsp;
-
-| <b> In the case of taxable   years beginning in:</b> | <b>The applicable</b>percentage is: |
-| :--- | ---: |
-| &nbsp;&nbsp;&nbsp;1987 | 65&nbsp; |
-| &nbsp;&nbsp;&nbsp;1988 | 40&nbsp; |
-| &nbsp;&nbsp;&nbsp;1989 | 20&nbsp; |
-| &nbsp;&nbsp;&nbsp;1990 | 10\. |
-
-#### (3) Portion of loss or credit attributable to pre-enactment interests
-
-&emsp;For purposes of this subsection—
-
-#### (A) In general
-
-&emsp;&emsp;The portion of the passive activity loss (or passive activity credit) for any taxable year which is attributable to pre-enactment interests is the lesser of—
-
-&emsp;&emsp;&emsp;(i) the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
-
-&emsp;&emsp;&emsp;(ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year (without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
-
-#### (B) Pre-enactment interest
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The term "pre-enactment interest" means any interest in a passive activity held by a taxpayer on the date of the enactment of the Tax Reform Act of 1986, and at all times thereafter.
-
-#### (ii) Binding contract exception
-
-&emsp;&emsp;&emsp;For purposes of clause (i), any interest acquired after such date of enactment pursuant to a written binding contract in effect on such date, and at all times thereafter, shall be treated as held on such date.
-
-#### (iii) Interest in activities
-
-&emsp;&emsp;&emsp;The term "pre-enactment interest" shall not include an interest in a passive activity unless such activity was being conducted on such date of enactment. The preceding sentence shall not apply to an activity commencing after such date if—
-
-&emsp;&emsp;&emsp;&emsp;(I) the property used in such activity is acquired pursuant to a written binding contract in effect on August 16, 1986, and at all times thereafter, or
-
-&emsp;&emsp;&emsp;&emsp;(II) construction of property used in such activity began on or before August 16, 1986.
-
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477.)
-
-#### References in Text
-
-The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(4). Pub. L. 113–295, §221(a)(41)(G), struck out ", 244," after "section 243".
+
+Subsec. (m). Pub. L. 113–295, §221(a)(60)(A), struck out subsec. (m) which related to a phase-in of disallowance of losses and credits for interest held before the date of enactment of the Tax Reform Act of 1986.
 
 <b>2004</b>—Subsec. (i)(3)(F)(iii). Pub. L. 108–357, §102(d)(5), inserted "199," before "219,".
 
@@ -685,6 +636,12 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 
 <b>1987</b>—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by section 221(a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 102(d)(5) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
@@ -737,7 +694,7 @@ Amendment by section 1005(a)(1)–(9), (11), (12) of Pub. L. 100–647 effective
 
 Amendment by section 2004(g) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Amendment by section 6009(c)(3) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1989,see section 6009(d) of Pub. L. 100–647, set out as a note under section 86 of this title.
+Amendment by section 6009(c)(3) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1989, see section 6009(d) of Pub. L. 100–647, set out as a note under section 86 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -781,7 +738,7 @@ Pub. L. 100–647, title I, §1005(c)(11), Nov. 10, 1988, 102 Stat. 3392, provid
 
 &emsp;"(C) the taxpayer makes an election under this paragraph at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe,
 
-> to the extent such amount is attributable to an activity subject to the limitations of section 469 of the 1986 Code, such amount shall not be treated as investment interest but shall be treated as a deduction allocable to such activity for such first taxable year. Subsection (m) of section 469 of the 1986 Code and section 501(c)(2) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note above\] shall not apply to any amount so treated."
+> to the extent such amount is attributable to an activity subject to the limitations of section 469 of the 1986 Code, such amount shall not be treated as investment interest but shall be treated as a deduction allocable to such activity for such first taxable year. \[Former\] Subsection (m) of section 469 of the 1986 Code and section 501(c)(2) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note above\] shall not apply to any amount so treated."
 
 #### Transitional Rule for Low-Income Housing
 
@@ -841,7 +798,7 @@ Special rule for certain partnerships.—In the case of any property which is he
 
 &emsp;&emsp;"(A) which placed such property in service on or after December 31, 1985, and before August 17, 1986, and continuously held such property through the close of the taxable year for which the determination is being made, and
 
-&emsp;&emsp;"(B) which was not treated as a new partnership or as terminated at any time on or after the dateon which such property was placed in service and through the close of the taxable year for which the determination is being made,
+&emsp;&emsp;"(B) which was not treated as a new partnership or as terminated at any time on or after the date on which such property was placed in service and through the close of the taxable year for which the determination is being made,
 
 > &emsp;paragraph (1)(A)(i) shall be applied by substituting 'December 31, 1988' for 'August 16, 1986' the 2nd place it appears.
 

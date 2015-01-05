@@ -104,7 +104,7 @@ Annual Reports.—(1) Not later than March 1 each year, the Secretary of Defense
 
 (h)
 
-Interagency Cooperation in Conservation Programs To Avoid or Reduce Adverse Impacts on Military Readiness Activities.—In order to facilitate interagency cooperation and enhance the effectiveness of actions that will protect both the environment and military readiness, the recipient of funds provided pursuant an agreement under this section or under the Sikes Act (16 U.S.C. et seq.) <sup>1</sup> may, with regard to the lands and waters within the scope of the agreement, use such funds to satisfy any matching funds or cost-sharing requirement of any conservation program of the Department of Agriculture or the Department of the Interior notwithstanding any limitation of such program on the source of matching or cost-sharing funds.
+Interagency Cooperation in Conservation Programs To Avoid or Reduce Adverse Impacts on Military Readiness Activities.—In order to facilitate interagency cooperation and enhance the effectiveness of actions that will protect both the environment and military readiness, the recipient of funds provided pursuant an agreement under this section or under the Sikes Act (16 U.S.C. 670 et seq.) may, with regard to the lands and waters within the scope of the agreement, use such funds to satisfy any matching funds or cost-sharing requirement of any conservation program of the Department of Agriculture or the Department of the Interior notwithstanding any limitation of such program on the source of matching or cost-sharing funds.
 
 (i)
 
@@ -122,7 +122,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "Clear Zone Area" means an area immediately beyond the end of the runway of an airfield that is needed to ensure the safe and unrestricted passage of aircraft in and over the area.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, §2813, Dec. 31, 2011, 125 Stat. 1687; Pub. L. 113–66, div. A, title III, §312(a), Dec. 26, 2013, 127 Stat. 729.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473;Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, §2813, Dec. 31, 2011, 125 Stat. 1687; Pub. L. 113–66, div. A, title III, §312(a), Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, §1071(f)(23), Dec. 19, 2014, 128 Stat. 3511.)
 
 #### Amendment of Section
 
@@ -133,6 +133,8 @@ Definitions.—In this section:
 The Sikes Act, referred to in subsec. (h), is Pub. L. 86–797, Sept. 15, 1960, 74 Stat. 1052, which is classified generally to chapter 5C (§670 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 670 of Title 16 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h). Pub. L. 113–291 inserted "670" after "U.S.C.".
 
 <b>2013</b>—Subsecs. (h) to (j). Pub. L. 113–66 temporarily added subsec. (h) and temporarily redesignated former subsecs. (h) and (i) as (i) and (j), respectively. See Termination of 2013 Amendment note below.
 
@@ -183,6 +185,4 @@ Subsecs. (g) to (i). Pub. L. 109–163, §2822(c), added subsec. (g) and redesig
 #### Termination of 2013 Amendment
 
 Pub. L. 113–66, div. A, title III, §312(b), Dec. 26, 2013, 127 Stat. 729, provided that: "This section \[amending this section\] and subsection (h) of section 2684a of title 10, United States Code, as added by this section, shall expire on October 1, 2019, except that any agreement referred to in such subsection that is entered into on or before September 30, 2019, shall continue according to its terms and conditions as if this section has not expired."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "(16 U.S.C. 670 et seq.)".</i>
 

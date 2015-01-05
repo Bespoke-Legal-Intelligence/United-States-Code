@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, the President shall cause to be published in the Federal Register the following:
+Subject to subsection (b), the President shall cause to be published in the Federal Register the following:
 
 #### (1) Determinations of governments, officials, and entities of particular concern
 
@@ -22,7 +22,7 @@ Subject to subsection (b) of this section, the President shall cause to be publi
 
 #### (b) Limited disclosure of information
 
-The President may limit publication of information under this section in the same mannerand to the same extent as the President may limit the publication of findings and determinations described in section 2414(c) of this title, if the President determines that the publication of information under this section—
+The President may limit publication of information under this section in the same manner and to the same extent as the President may limit the publication of findings and determinations described in section 2414(c) of this title, if the President determines that the publication of information under this section—
 
 &emsp;(1) would be harmful to the national security of the United States; or
 

@@ -18,7 +18,7 @@
 
 (Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2292.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "and".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Director”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Director".</i>
 

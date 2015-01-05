@@ -56,7 +56,7 @@ Part D of this subchapter, as in effect on the day before September 21, 1993, re
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1313(1), substituted "conducted by the entity" for "conducted by the State, subdivision of a State, Indian tribe, public or privatenonprofit organization, institution of higher education, Federal agency, or other entity".
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1313(1), substituted "conducted by the entity" for "conducted by the State, subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, Federal agency, or other entity".
 
 Subsec. (e)(2)(C). Pub. L. 111–13, §1313(2), inserted ", particularly those who were considered, at the time of their service, disadvantaged youth" before semicolon at end.
 

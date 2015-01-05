@@ -22,7 +22,7 @@
 
 (c) In this section, the term "emergency treatment" has the meaning given such term in section 1725(f)(1) of this title.
 
-(Added Pub. L. 93–82, title I, §106(a), Aug. 2, 1973, 87 Stat. 183, §628; amended Pub. L. 94–581, title II, §§202(n), 210(a)(13), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–151, title II, §201(d), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 101–237, title II, §202(a), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–54, §14(b)(14), June 13, 1991, 105 Stat. 284; renumbered §1728 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 110–387, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4123.)
+(Added Pub. L. 93–82, title I, §106(a), Aug. 2, 1973, 87 Stat. 183, §628; amended Pub. L. 94–581, title II, §§202(n), 210(a)(13), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–151, title II, §201(d), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 101–237, title II, §202(a), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–54, §14(b)(14), June 13, 1991, 105 Stat. 284; renumbered §1728 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat.404–406; Pub. L. 110–387, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4123.)
 
 #### Amendments
 

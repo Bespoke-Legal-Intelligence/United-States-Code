@@ -24,7 +24,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (ii) Additional funds
 
-&emsp;&emsp;&emsp;If, after the Secretary makes the reductions described in clause (i), additional funds become available to carry out this section for the fiscal year, the Secretary shall ratably increase the allotments, until the Secretary has allotted the entire base year amount.
+&emsp;&emsp;&emsp;If, after the Secretary makes the reductions described in clause (i), additional funds become available to carry out this section for the fiscal year, the Secretaryshall ratably increase the allotments, until the Secretary has allotted the entire base year amount.
 
 #### (C) Higher appropriation years
 
@@ -240,7 +240,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(i) support for the development of systems for the purchase, lease, or other acquisition of, or payment for, assistive technology devices and assistive technology services; or
 
-&emsp;&emsp;&emsp;(ii) support for the development of State-financed or privately financed alternativefinancing systems of subsidies (which may include conducting an initial 1-year feasibility study of, improving, administering, operating, providing capital for, or collaborating with an entity with respect to, such a system) for the provision of assistive technology devices, such as—
+&emsp;&emsp;&emsp;(ii) support for the development of State-financed or privately financed alternative financing systems of subsidies (which may include conducting an initial 1-year feasibility study of, improving, administering, operating, providing capital for, or collaborating with an entity with respect to, such a system) for the provision of assistive technology devices, such as—
 
 &emsp;&emsp;&emsp;&emsp;(I) a low-interest loan fund;
 
@@ -256,7 +256,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (B) Device reutilization programs
 
-&emsp;&emsp;The State shall directly, or in collaboration with public or private entities, carry out assistive technology device reutilization programs that provide for the exchange, repair, recycling, or other reutilization of assistive technology devices, which may include redistribution through device sales, loans, rentals, or donations.
+&emsp;&emsp;The State shall directly, or in collaboration with public or private entities, carryout assistive technology device reutilization programs that provide for the exchange, repair, recycling, or other reutilization of assistive technology devices, which may include redistribution through device sales, loans, rentals, or donations.
 
 #### (C) Device loan programs
 
@@ -304,7 +304,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;&emsp;The State shall directly, or provide support to public or private entities to, develop and disseminate training materials, conduct training, facilitate access to assistive technology, and provide technical assistance, to assist—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) students with disabilities, within the meaning of the Individuals with Disabilities Education Act (20 U.S.C.1400 et seq.), that receive transition services; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) students with disabilities, within the meaning of the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), that receive transition services; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) adults who are individuals with disabilities maintaining or transitioning to community living.
 
@@ -412,7 +412,19 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(xi) the level of customer satisfaction with the services provided.
 
-(Pub. L. 105–394, §4, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1714.)
+(Pub. L. 105–394, §4, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1714; amended Pub. L. 113–128, title V, §512(b)(2), July 22, 2014, 128 Stat. 1705.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–128, title V, §§506, 512(b)(2), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended:</i>
+
+<i>(1) in subsection (c)(2)(B)(i)(IV), by striking "a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 (29 U.S.C. 2821)" and inserting "a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act";</i>
+
+<i>(2) in subsection (e)(2)(D)(i), by striking "such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801)," and inserting "such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,"; and</i>
+
+<i>(3) in subsection (e)(3)(B)(ii)(I)(aa), by striking "with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)," and inserting "with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -426,7 +438,19 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (d)(3)(
 
 The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(6)(E) and (e)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (e)(3)(B)(ii)(I)(aa), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (e)(3)(B)(ii)(I)(aa), is Pub. L. 105–220, Aug. 7,1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(2)(B)(i)(IV). Pub. L. 113–128, §512(b)(2)(A), substituted "a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act" for "a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 (29 U.S.C. 2821)".
+
+Subsec. (e)(2)(D)(i). Pub. L. 113–128, §512(b)(2)(B)(i), substituted "such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act," for "such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801),".
+
+Subsec. (e)(3)(B)(ii)(I)(aa). Pub. L. 113–128, §512(b)(2)(B)(ii), substituted "with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act," for "with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

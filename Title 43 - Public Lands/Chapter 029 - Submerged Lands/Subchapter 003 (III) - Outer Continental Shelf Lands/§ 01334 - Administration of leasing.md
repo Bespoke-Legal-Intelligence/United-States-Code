@@ -18,7 +18,7 @@ The Secretary shall administer the provisions of this subchapter relating to the
 
 &emsp;&emsp;(B) that such cancellation shall not occur unless and until operations under such lease or permit shall have been under suspension, or temporary prohibition, by the Secretary, with due extension of any lease or permit term continuously for a period of five years, or for a lesser period upon request of the lessee;
 
-&emsp;&emsp;(C) that such cancellation shall entitle the lessee to receive such compensation as he shows to the Secretary as being equal to the lesser of (i) the fair value of the canceled rights as of the date of cancellation, taking account of both anticipated revenues from the lease and anticipated costs, including costs of compliance with all applicable regulations and operating orders, liability for cleanup costs or damages, or both, in the case of an oilspill, and all other costs reasonably anticipated on the lease, or (ii) the excess, if any, over the lessee's revenues, from the lease (plus interest thereon from the date of receipt to date of reimbursement) of all consideration paid for the leaseand all direct expenditures made by the lessee after the date of issuance of such lease and in connection with exploration or development, or both, pursuant to the lease (plus interest on such consideration and such expenditures from date of payment to date of reimbursement), except that (I) with respect to leases issued before September 18, 1978, such compensation shall be equal to the amount specified in clause (i) of this subparagraph; and (II) in the case of joint leases which are canceled due to the failure of one or more partners to exercise due diligence, the innocent parties shall have the right to seek damages for such loss from the responsible party or parties and the right to acquire the interests of the negligent party or parties and be issued the lease in question;
+&emsp;&emsp;(C) that such cancellation shall entitle the lessee to receive such compensation as he shows to the Secretary as being equal to the lesser of (i) the fair value of the canceled rights as of the date of cancellation, taking account of both anticipated revenues from the lease and anticipated costs, including costs of compliance with all applicable regulations and operating orders, liability for cleanup costs or damages, or both, in the case of an oilspill, and all other costs reasonably anticipated on the lease, or (ii) the excess, if any, over the lessee's revenues, from the lease (plus interest thereon from the date of receipt to date of reimbursement) of all consideration paid for the lease and all direct expenditures made by the lessee after the date of issuance of such lease and in connection with exploration or development, or both, pursuant to the lease (plus interest on such consideration and such expenditures from date of payment to date of reimbursement), except that (I) with respect to leases issued before September 18, 1978, such compensation shall be equal to the amount specified in clause (i) of this subparagraph; and (II) in the case of joint leases which are canceled due to the failure of one or more partners to exercise due diligence, the innocent parties shall have the right to seek damages for such loss from the responsible party or parties and the right to acquire the interests of the negligent party or parties and be issued the lease in question;
 
 &emsp;(3) for the assignment or relinquishment of a lease;
 
@@ -96,7 +96,7 @@ After September 18, 1978, no holder of any oil and gas lease issued or maintaine
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
 
@@ -132,7 +132,7 @@ Pub. L. 101–380, title VI, §6004(b), Aug. 18, 1990, 104 Stat. 558, provided t
 
 #### Key Largo Coral Reef Preserve
 
-Secretary of the Interior to prescribe rules and regulations governing the protection and conservation of the coral and other mineral resources in the area designated Key Largo Coral Reef Preserve, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
+Secretary of the Interior to prescribe rules and regulations governing the protection and conservation of the coral and other mineral resources in the area designated Key Largo Coral Reef Preserve, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 320101 of Title 54, National Park Service and Related Programs.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

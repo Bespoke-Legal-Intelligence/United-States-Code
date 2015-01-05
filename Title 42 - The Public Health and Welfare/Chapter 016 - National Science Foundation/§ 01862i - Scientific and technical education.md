@@ -52,7 +52,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;&emsp;(iv) provide faculty mentors for students participating in activities under clause (iii), including summer salary support for faculty mentors.
 
-> &emsp;Funds used by eligible partnerships to carry out clauses (i) and (ii) shall be from non-Federal sources. In-cash and in-kind resources used by eligible partnerships to carry out clauses (i) and (ii) shall not be considered to be contributions for purposes of applying subsection (f)(3) of this section.
+> &emsp;Funds used by eligible partnerships to carry out clauses (i) and (ii) shall be from non-Federal sources. In-cash and in-kind resources used by eligible partnerships to carry out clauses (i) and (ii) shall not be considered to be contributions for purposes of applying subsection (f)(3).
 
 &emsp;(C) Any institution participating in a partnership that receives a grant under this paragraph shall be ineligible to receive assistance under part B of title I of the Higher Education Act of 1965 \[20 U.S.C. 1011 et seq.\] for the duration of the grant received under this paragraph.
 
@@ -70,7 +70,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 #### (d) Coordination with other Federal departments
 
-In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c) of this section, the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 \[20 U.S.C. 1011 et seq.\].
+In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c), the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 \[20 U.S.C. 1011 et seq.\].
 
 #### (e) Limitation on funding
 
@@ -84,7 +84,7 @@ In carrying out sections 1862h to 1862j of this title, the Director shall—
 
 &emsp;(2) ensure an equitable geographic distribution of grant awards;
 
-&emsp;(3) ensure that an applicant for a grant awarded under subsection (a), (b), or (c)(1) of this section will make an in-cash or in-kind contribution in an amount equal to at least 25 percent of the cost of the program, and for a grant awarded under subsection (c)(2) of this section will make an in-cash or in-kind contribution in an amount at least equal to the amount of the grant award;
+&emsp;(3) ensure that an applicant for a grant awarded under subsection (a), (b), or (c)(1) will make an in-cash or in-kind contribution in an amount equal to at least 25 percent of the cost of the program, and for a grant awarded under subsection (c)(2) will make an in-cash or in-kind contribution in an amount at least equal to the amount of the grant award;
 
 &emsp;(4) establish and maintain a readily accessible inventory of the programs assisted under sections 1862h to 1862j of this title; and
 

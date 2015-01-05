@@ -18,7 +18,7 @@ Any proposed transfer of real property contained in the plan developed by the Se
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–109, §8(a)(1), made technical amendment to reference to section 1300l–5 ofthis title, to correct reference to corresponding section of original act.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–109, §8(a)(1), made technical amendment to reference to section 1300l–5 of this title, to correct reference to corresponding section of original act.
 
 Subsec. (b). Pub. L. 104–109, §8(a)(2), made technical amendment to reference to section 1300l–2 of this title, to correct reference to corresponding section of original act.
 

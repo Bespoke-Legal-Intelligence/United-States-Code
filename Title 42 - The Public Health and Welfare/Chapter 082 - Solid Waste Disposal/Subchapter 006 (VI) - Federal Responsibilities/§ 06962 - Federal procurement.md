@@ -10,7 +10,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 #### (c) Requirements
 
-(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
+(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering suchguidelines. The decision not to procure such items shall be based on a determination that such procurement items—
 
 &emsp;(A) are not reasonably available within a reasonable period of time;
 
@@ -42,7 +42,7 @@ All Federal agencies that have the responsibility for drafting or reviewing spec
 
 #### (e) Guidelines
 
-The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Public Printer, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
+The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
 
 &emsp;(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section; and
 
@@ -78,7 +78,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 &emsp;(2) manufacturing, forest residues, and other wastes such as—
 
-&emsp;&emsp;(A) dry paper and paperboard waste generated after completion of the papermaking process (that is, those manufacturing operations up to and including the cutting and trimming of the paper machine reel into smaller rolls or rough sheets) including: envelope cuttings, bindery trimmings, and other paper and paperboard waste, resulting from printing, cutting, forming, and other converting operations; bag, box, and carton manufacturing wastes; and butt rolls, mill wrappers, and rejected unused stock; and
+&emsp;&emsp;(A) dry paper and paperboard waste generated after completion of the papermakingprocess (that is, those manufacturing operations up to and including the cutting and trimming of the paper machine reel into smaller rolls or rough sheets) including: envelope cuttings, bindery trimmings, and other paper and paperboard waste, resulting from printing, cutting, forming, and other converting operations; bag, box, and carton manufacturing wastes; and butt rolls, mill wrappers, and rejected unused stock; and
 
 &emsp;&emsp;(B) finished paper and paperboard from obsolete inventories of paper and paperboard manufacturers, merchants, wholesalers, dealers, printers, converters, or others;
 
@@ -112,11 +112,11 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 > Procuring agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the affirmative procurement program.
 
-(Pub. L. 89–272, title II, §6002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2822; amended Pub. L. 95–609, §7(n), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §22, Oct. 21, 1980, 94 Stat. 2346; Pub. L. 97–375, title I, §102, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–616, title V, §501(a)–(e), Nov. 8, 1984, 98 Stat. 3274–3276; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–393, title VI, §630, Oct. 6, 1992, 106 Stat. 1773; Pub. L. 103–355, title I, §1554(1), title IV, §4104(e), Oct. 13, 1994, 108 Stat. 3300, 3342.)
+(Pub. L. 89–272, title II, §6002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2822; amended Pub. L. 95–609, §7(n), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §22, Oct. 21, 1980, 94 Stat. 2346; Pub. L. 97–375, title I, §102, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–616, title V, §501(a)–(e), Nov. 8, 1984, 98 Stat. 3274–3276; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–393, title VI, §630, Oct. 6, 1992, 106 Stat. 1773; Pub. L. 103–355, title I, §1554(1), title IV, §4104(e), Oct. 13, 1994, 108 Stat. 3300, 3342; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Codification
 
-Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28,1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
+Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
 
 #### Amendments
 
@@ -155,6 +155,10 @@ Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to require
 <b>1978</b>—Subsec. (c). Pub. L. 95–609, §7(n)(1), (2), redesignated subpar. (1)(A) as par. (1), subpars. (1)(B) and (C) as pars. (2) and (3), respectively, and cls. (i) to (iii) of former subpar. (1)(A) as subpars. (A) to (C), respectively, of par. (1), and in par. (3), as so redesignated, inserted "After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section," before "contracting".
 
 Subsec. (e). Pub. L. 95–609, §7(n)(3), inserted provision dealing with certification by vendors of the materials used.
+
+#### Change of Name
+
+"Director of the Government Publishing Office" substituted for "Public Printer" in subsec. (e) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1994 Amendment
 

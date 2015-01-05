@@ -42,7 +42,7 @@ The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3),
 
 #### Prior Provisions
 
-A prior section 4112, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, §109(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 93–82, title II, §205(b), Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §110(8), title II, §§209(b)(3), 210(c)(6), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 96–151, title III, §305, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 96–330, title I, §115, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 98–223, title II, §209, Mar. 2, 1984, 98 Stat. 44; Pub. L. 100–322, title II, §224, May 20, 1988, 102 Stat. 532, related to special medical advisory group and other advisory bodies, prior to repeal by Pub. L. 102–40, title IV,§401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7312 and 7313 of this title.
+A prior section 4112, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, §109(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 93–82, title II, §205(b), Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §110(8), title II, §§209(b)(3), 210(c)(6), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 96–151, title III, §305, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 96–330, title I, §115, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 98–223, title II, §209, Mar. 2, 1984, 98 Stat. 44; Pub. L. 100–322, title II, §224, May 20, 1988, 102 Stat. 532, related to special medical advisory group and other advisory bodies, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7312 and 7313 of this title.
 
 #### Amendments
 

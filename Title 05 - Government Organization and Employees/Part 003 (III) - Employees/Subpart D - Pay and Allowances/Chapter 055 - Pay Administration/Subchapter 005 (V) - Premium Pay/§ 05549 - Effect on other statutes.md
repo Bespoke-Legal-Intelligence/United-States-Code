@@ -30,9 +30,9 @@ Historical and Revision Notes
 
 June 30, 1945, ch. 212, §601, 59 Stat. 302.
 
-In paragraph (2), the words “sections 1353a and 1353b of title 8” are substituted for “sections 342c and 342d of this title” to reflect the scheduled transfer of those sections to title 8.
+In paragraph (2), the words "sections 1353a and 1353b of title 8" are substituted for "sections 342c and 342d of this title" to reflect the scheduled transfer of those sections to title 8.
 
-In paragraph (5), the words “section 154(f)(3) of title 47” are substituted for “section 154(f)(2) of title 47” on authority of the Act of July 16, 1952, ch. 879, §3(b), 66 Stat. 711, which redesignated subsection (f)(2) as (f)(3).
+In paragraph (5), the words "section 154(f)(3) of title 47" are substituted for "section 154(f)(2) of title 47" on authority of the Act of July 16, 1952, ch. 879, §3(b), 66 Stat. 711, which redesignated subsection (f)(2) as (f)(3).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -46,9 +46,9 @@ Section 1451a of title 19, referred to in par. (3), was repealed by Pub. L. 103�
 
 #### Amendments
 
-<b>2002</b>—Par. (1). Pub. L. 107–171 added par. (1) and struck out former par. (1) which read as follows: “section 394 of title 7;”.
+<b>2002</b>—Par. (1). Pub. L. 107–171 added par. (1) and struck out former par. (1) which read as follows: "section 394 of title 7;".
 
-<b>1983</b>—Par. (4). Pub. L. 98–89 substituted “sections 2111 and 2112 of title 46” for “section 382b of title 46”.
+<b>1983</b>—Par. (4). Pub. L. 98–89 substituted "sections 2111 and 2112 of title 46" for "section 382b of title 46".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

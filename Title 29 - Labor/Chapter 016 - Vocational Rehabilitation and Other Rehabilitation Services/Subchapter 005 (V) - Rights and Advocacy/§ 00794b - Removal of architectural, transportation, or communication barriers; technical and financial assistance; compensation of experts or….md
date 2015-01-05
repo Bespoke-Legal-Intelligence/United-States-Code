@@ -10,11 +10,11 @@
 
 (b) Any such experts or consultants, while serving pursuant to such contracts, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
-(c) The Secretary, with the concurrence of the Access Board and the President, may provide, directly or by contract, financial assistance to any public or nonprofit agency, institution, or organization for the purpose of removing architectural, transportation, and communication barriers. No assistance may be provided underthis subsection until a study demonstrating the need for such assistance has been conducted and submitted under section 792(i)(1) of this title.
+(c) The Secretary, with the concurrence of the Access Board and the President, may provide, directly or by contract, financial assistance to any public or nonprofit agency, institution, or organization for the purpose of removing architectural, transportation, and communication barriers. No assistance may be provided under this subsection until a study demonstrating the need for such assistance has been conducted and submitted under section 792(i)(1) of this title.
 
 (d) In order to carry out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(Pub. L. 93–112, title V, §506, as added Pub. L. 95–602, title I, §120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 100–630, title II, §206(e), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §507, Oct. 29, 1992, 106 Stat. 4428; Pub. L. 105–220, title IV, §408(a)(4), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 105–394, title II, §203(b), Nov. 13, 1998, 112 Stat. 3653.)
+(Pub. L. 93–112, title V, §506, as added Pub. L. 95–602, title I, §120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 100–630, title II, §206(e), Nov. 7,1988, 102 Stat. 3312; Pub. L. 102–569, title V, §507, Oct. 29, 1992, 106 Stat. 4428; Pub. L. 105–220, title IV, §408(a)(4), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 105–394, title II, §203(b), Nov. 13, 1998, 112 Stat. 3653.)
 
 #### Amendments
 

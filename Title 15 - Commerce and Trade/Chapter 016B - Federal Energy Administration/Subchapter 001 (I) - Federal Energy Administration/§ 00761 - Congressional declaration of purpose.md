@@ -28,7 +28,7 @@ Pub. L. 94–385, title I, §101, Aug. 14, 1976, 90 Stat. 1127, provided that: "
 
 #### Short Title
 
-Pub. L. 93–275, §1, May 7, 1974, 88 Stat. 96, provided that: "This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the 'Federal Energy Administration Act of 1974'."
+Pub. L. 93–275, §1, May 7, 1974, 88 Stat. 96, provided that: "This Act \[enacting this chapter and provisionsset out as notes under this section\] may be cited as the 'Federal Energy Administration Act of 1974'."
 
 #### Separability
 
@@ -110,7 +110,7 @@ Ex. Ord. No. 11726, June 29, 1973, 38 F.R. 17711, formerly set out as a note und
 
 Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415, as amended by Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, provided:
 
-Executive Order No. 11726 of June 29, 1973, established in the Executive Office of the President an Energy Policy Office. Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], established in the Executive Office of the President a Federal Energy Office. In order to permit an orderly transition, the Energy Policy Office was continued in being on an interim basis. That transition has been successfully completed and the Energy Policy Office should now be abolished.
+Executive Order No. 11726 of June 29, 1973, established in the Executive Office of the President an Energy Policy Office. Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], established in the Executive Office of the President a Federal Energy Office. In order to permit an orderly transition, the Energy Policy Office was continued in beingon an interim basis. That transition has been successfully completed and the Energy Policy Office should now be abolished.
 
 NOW, THEREFORE, by virtue of the authority vested in me as the President of the United States of America it is hereby ordered as follows:
 
@@ -134,7 +134,7 @@ Sec. 2. (a) There is hereby delegated to the Secretary of Energy (hereinafter re
 
 (b) The Secretary shall submit to the Congress the reports required by section 4(c)(2) of the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. §753(c)(2)\].
 
-Sec. 3. (a) There is hereby delegated to the Secretary the authority vested in the President by section 203(a)(3) of the Economic Stabilization Act of 1970, asamended \[formerly 12 U.S.C. §1904 note\], to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. §1904 note\].
+Sec. 3. (a) There is hereby delegated to the Secretary the authority vested in the President by section 203(a)(3) of the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. §1904 note\], to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. §1904 note\].
 
 (b) The authority under the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. §1904 note\], that was delegated to the Administrator of the Federal Energy Office by the Chairman of the Cost of Living Council pursuant to section 4(b) of Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], is hereby transferred to the Secretary to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. §1904 note\].
 

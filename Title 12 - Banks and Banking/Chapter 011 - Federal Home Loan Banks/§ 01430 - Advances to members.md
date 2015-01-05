@@ -30,7 +30,7 @@
 
 #### (4) Additional bank authority
 
-&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
+&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989,matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
 
 #### (5) Review of certain collateral standards
 
@@ -82,13 +82,13 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (2) Interest on and security for special liquidity advances
 
-&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a) of this section, and shall be at an interest rate no less favorable than those made available for similar short-term liquidity advances to savings associations that do not present such supervisory concern.
+&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a), and shall be at an interest rate no less favorable than those made available for similar short-term liquidity advances to savings associations that do not present such supervisory concern.
 
 #### (i) Community investment program
 
 #### (1) In general
 
-&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
+&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
 
 #### (2) Community-oriented mortgage lending
 
@@ -200,7 +200,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (10) Other programs
 
-&emsp;No provision of this subsection or subsection (i) of this section shall preclude any Bank from establishing additional community investment cash advance programs or contributing additional sums to the Affordable Housing Reserve Fund.
+&emsp;No provision of this subsection or subsection (i) shall preclude any Bank from establishing additional community investment cash advance programs or contributing additional sums to the Affordable Housing Reserve Fund.
 
 #### (11) Advisory Council
 
@@ -262,7 +262,7 @@ Submission to congress.—The Director shall submit the reports under subparagra
 
 &emsp;&emsp;Not withstanding subparagraph (A), the Director may not provide public access to, or disclose to the public, any information required to be submitted under this subsection that the Director determines is proprietary or that would provide personally identifiable information and that is not otherwise publicly accessible through other forms, unless the Director determines that it is in the public interest to provide such information.
 
-(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch.847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455; Pub. L. 110–289, div. A, title II, §§1204(5), (8)–(10), (12), 1211(b), 1212, 1218, July 30, 2008, 122 Stat. 2786, 2790, 2793.)
+(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455; Pub. L. 110–289, div. A, title II, §§1204(5), (8)–(10), (12), 1211(b), 1212, 1218, July 30, 2008, 122 Stat. 2786, 2790, 2793.)
 
 #### References in Text
 
@@ -372,7 +372,7 @@ Subsec. (c). Pub. L. 97–320, §352(3), substituted "twenty" for "twelve" where
 
 <b>1950</b>—Subsec. (a) (1). Act Apr. 20, 1950, §501(1), substituted "subchapters I, II, VI, and VIII of chapter 13 of this title" for "sections 1707–1715b and 1736–1742 of this title".
 
-Subsec. (b). Act Apr. 20, 1950, §501(2), inserted "unless such home mortgage is insured under the National Housing Act, as amended, or insured or guaranteed under the Servicemen's Readjustment Act of 1944, as amended" after "Maturity" in first sentence.
+Subsec. (b). Act Apr. 20, 1950, §501(2), inserted "unless such home mortgage is insured under the NationalHousing Act, as amended, or insured or guaranteed under the Servicemen's Readjustment Act of 1944, as amended" after "Maturity" in first sentence.
 
 <b>1947</b>—Subsec. (b). Act Aug. 1, 1947, increased period collateral security can run from twenty years to twenty-five years.
 
@@ -402,7 +402,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (j)(12)(A) of 
 
 Pub. L. 91–351, title I, §101, July 24, 1970, 84 Stat. 450, provided that:
 
-"(a) There is authorized to be appropriated not to exceed $250,000,000, without fiscal year limitation, to be used by the Federal Home Loan Bank Board for disbursement to Federal home loan banks for the purpose of adjusting the effective interest charged by such banks on short-term and long-term borrowing to promote an orderly flow of funds into residential construction. The disbursement of sums appropriated hereunder shall be made under such terms and conditions as maybe prescribed by the Board to assure that such sums are used to assist in the provision of housing for low- and middle-income families, and that such families share fully in the benefits resulting from the disbursement of such sums. No member of a Federal home loan bank shall use funds the interest charges on which have been adjusted pursuant to the provisions of this section to make any loan, if—
+"(a) There is authorized to be appropriated not to exceed $250,000,000, without fiscal year limitation, to be used by the Federal Home Loan Bank Board for disbursement to Federal home loan banks for the purpose of adjusting the effective interest charged by such banks on short-term and long-term borrowing to promote an orderly flow of funds into residential construction. The disbursement of sums appropriated hereunder shall be made under such terms and conditions as may be prescribed by the Board to assure that such sums are used to assist in the provision of housing for low- and middle-income families, and that such families share fully in the benefits resulting from the disbursement of such sums. No member of a Federal home loan bank shall use funds the interest charges on which have been adjusted pursuant to the provisions of this section to make any loan, if—
 
 &emsp;"(1) the effective rate of interest on such loan exceeds the effective rate of interest on such funds payable by such member by a percentile amount which is in excess of such amount as the Board determines to be appropriate in furtherance of the purposes of this section; or
 

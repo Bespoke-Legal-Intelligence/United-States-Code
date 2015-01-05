@@ -6,7 +6,7 @@ The President may appoint, by and with the advice and consent of the Senate, Spe
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, §1223(4), struck out "One such Representative may serve in the Agency as Chief Science Advisor." after "rank of ambassador." and ", acting through the Director" after "Secretary of State", and substituted "Department of State" for "Agency".
+<b>1998</b>—Pub. L. 105–277, §1223(4), struck out "One such Representative may serve in the Agency as ChiefScience Advisor." after "rank of ambassador." and ", acting through the Director" after "Secretary of State", and substituted "Department of State" for "Agency".
 
 <b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: "The President may appoint, by and with the advice and consent of the Senate, two Special Representatives for Arms Control and Disarmament Negotiations, one of whom should serve as special representative for conventional arms control negotiations, and the other should serve as special representative and chief science advisor to the Director. The two Special Representatives shall perform their duties and exercise their powers under the direction of the President and the Secretary of State, acting through the Director."
 

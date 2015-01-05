@@ -2,7 +2,7 @@
 
 The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2015.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334, Oct. 21, 1998, 112 Stat. 2681–786; Pub. L.106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446; Pub. L. 107–77, title IV, §407(a), Nov. 28, 2001, 115 Stat. 790; Pub. L. 109–108, title IV, §410, Nov. 22, 2005, 119 Stat. 2327; Pub. L. 110–21, §1, May 2, 2007, 121 Stat. 87; Pub. L. 111–70, §1, Oct. 9, 2009, 123 Stat. 2057; Pub. L. 112–239, div. A, title XII, §1280(d)(1), Jan. 2, 2013, 126 Stat. 2033.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334, Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446; Pub. L. 107–77, title IV, §407(a), Nov. 28, 2001, 115 Stat. 790; Pub. L. 109–108, title IV, §410, Nov. 22, 2005, 119 Stat. 2327; Pub. L. 110–21, §1, May 2, 2007, 121 Stat. 87; Pub. L. 111–70, §1, Oct. 9, 2009, 123 Stat. 2057; Pub. L. 112–239, div. A, title XII, §1280(d)(1), Jan. 2, 2013, 126 Stat. 2033.)
 
 #### References in Text
 

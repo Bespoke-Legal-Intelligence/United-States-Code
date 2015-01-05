@@ -26,7 +26,7 @@ Method of Calculation.—(1) The Administrator of the Environmental Protection A
 
 (b)
 
-Separate Calculations for Passenger Automobiles Manufactured Domestically and Not Domestically.—(1)(A) Except as provided in paragraphs (6) and (7) of this subsection, theAdministrator shall make separate calculations under subsection (a)(1)(B) of this section for—
+Separate Calculations for Passenger Automobiles Manufactured Domestically and Not Domestically.—(1)(A) Except as provided in paragraphs (6) and (7) of this subsection, the Administrator shall make separate calculations under subsection (a)(1)(B) of this section for—
 
 &emsp;(i) passenger automobiles manufactured domestically by a manufacturer (or included in this category under paragraph (5) of this subsection); and
 
@@ -150,7 +150,7 @@ In subsection (a)(2)(B), before clause (i), the words "the Administrator shall i
 
 In subsection (b)(1), before clause (A), the text of 15:2003(b)(2)(A)–(D) is omitted as executed. In clause (A), the words "is imported . . . more than 30 days after" are substituted for "is not imported . . . prior to the expiration of 30 days following" for clarity and for consistency in the revised chapter. The words "The EPA Administrator may prescribe rules for purposes of carrying out this subparagraph" are omitted as surplus because of the authority of the Administrator to prescribe regulations under section 32910(d) of the revised title. The term "regulations" is used in section 32910(d) instead of "rules" for consistency in the revised title and because the terms are synonymous. In clause (B), the words "which is imported by a manufacturer in model year 1978 or any subsequent year, as the case may be, and" are omitted as surplus.
 
-In subsection (b)(2)(A), before clause (i), the words "Except as provided in paragraphs (4) and (5) of this subsection" are added for clarity. The words "the Administrator shall make separate calculations" are substituted for "In calculating average fuel economy . . . the EPA Administrator shall separate the total number of passenger automobiles manufactured by a manufacturer into the following two categories" and "The EPA Administrator shall calculate the average fuel economy of each such separate category" to eliminate unnecessary words. In clauses (i) and (ii), the reference in the parenthetical to paragraph (3) is substituted for the reference in the source to paragraph (3), which apparently should have been a reference to paragraph (4). The text of 15:2003(b)(1)(A) (words in parentheses) and (B) (words in parentheses) is omitted as executed.
+In subsection (b)(2)(A), before clause (i), the words "Except as provided in paragraphs (4) and (5) of this subsection" are added for clarity. The words "the Administrator shall make separate calculations" are substituted for "In calculating average fuel economy . . . the EPA Administrator shall separate the total number of passenger automobiles manufactured by a manufacturer into the following two categories" and "The EPA Administrator shall calculate the average fuel economy of each such separate category" to eliminate unnecessary words. In clauses (i) and (ii), the reference in the parenthetical to paragraph (3) is substituted for the reference in the source to paragraph (3), which apparently should have been a reference to paragraph (4).The text of 15:2003(b)(1)(A) (words in parentheses) and (B) (words in parentheses) is omitted as executed.
 
 Subsection (b)(2)(B) is substituted for 15:2003(b)(1) (words after last comma) because of the restatement.
 

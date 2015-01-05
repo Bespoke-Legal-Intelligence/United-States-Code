@@ -6,7 +6,7 @@ If the Commission determines to issue additional licenses for advanced televisio
 
 &emsp;(1) should limit the initial eligibility for such licenses to persons that, as of the date of such issuance, are licensed to operate a television broadcast station or hold a permit to construct such a station (or both); and
 
-&emsp;(2) shall adopt regulations that allow the holders of such licenses to offer such ancillary or supplementary services on designated frequencies as may be consistent with the public interest, convenience, and necessity.
+&emsp;(2) shall adopt regulations that allow the holders of such licenses to offer such ancillaryor supplementary services on designated frequencies as may be consistent with the public interest, convenience, and necessity.
 
 #### (b) Contents of regulations
 
@@ -28,7 +28,7 @@ If the Commission grants a license for advanced television services to a person 
 
 #### (d) Public interest requirement
 
-Nothing in this section shall be construed as relieving a television broadcasting station fromits obligation to serve the public interest, convenience, and necessity. In the Commission's review of any application for renewal of a broadcast license for a television station that provides ancillary or supplementary services, the television licensee shall establish that all of its program services on the existing or advanced television spectrum are in the public interest. Any violation of the Commission rules applicable to ancillary or supplementary services shall reflect upon the licensee's qualifications for renewal of its license.
+Nothing in this section shall be construed as relieving a television broadcasting station from its obligation to serve the public interest, convenience, and necessity. In the Commission's review of any application for renewal of a broadcast license for a television station that provides ancillary or supplementary services, the television licensee shall establish that all of its program services on the existing or advanced television spectrum are in the public interest. Any violation of the Commission rules applicable to ancillary or supplementary services shall reflect upon the licensee's qualifications for renewal of its license.
 
 #### (e) Fees
 
@@ -224,7 +224,7 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 (4) A low-power television station to which this subsection applies may not provide digital data service unless—
 
-&emsp;(A) the provision of that service, including any remote return-path transmission in thecase of 2-way digital data service, does not cause any interference in violation of the Commission's existing rules, regarding interference caused by low power television stations to full-service analog or digital television stations, class A television stations, or television translator stations; and
+&emsp;(A) the provision of that service, including any remote return-path transmission in the case of 2-way digital data service, does not cause any interference in violation of the Commission's existing rules, regarding interference caused by low power television stations to full-service analog or digital television stations, class A television stations, or television translator stations; and
 
 &emsp;(B) the station complies with the Commission's regulations governing safety, environmental, and sound engineering practices, and any other Commission regulation under paragraph (3) governing pilot program operations.
 
@@ -290,7 +290,7 @@ As used in this section:
 
 #### References in Text
 
-The date of enactment of LPTV Digital Data Services Act, referred to in subsec. (h)(3), probably means thedate of enactment of Pub. L. 106–554, which enacted subsec. (h) of this section, and which was approved Dec. 21, 2000. There is no public law with that short title.
+The date of enactment of LPTV Digital Data Services Act, referred to in subsec. (h)(3), probably means the date of enactment of Pub. L. 106–554, which enacted subsec. (h) of this section, and which was approved Dec. 21, 2000. There is no public law with that short title.
 
 This chapter, referred to in subsec. (h)(6), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
@@ -350,7 +350,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 1
 
 &emsp;"(1) Since the creation of low-power television licenses by the Federal Communications Commission, a small number of license holders have operated their stations in a manner beneficial to the public good providing broadcasting to their communities that would not otherwise be available.
 
-&emsp;"(2) These low-power broadcasters have operated their stations in a manner consistent with the programming objectives and hours of operation of full-power broadcasters providing worthwhile services to their respective communities while under severe license limitations compared to their full-power counterparts.
+&emsp;"(2) These low-power broadcasters have operated their stations in a manner consistent with the programming objectives and hours of operation of full-power broadcasters providing worthwhile services totheir respective communities while under severe license limitations compared to their full-power counterparts.
 
 &emsp;"(3) License limitations, particularly the temporary nature of the license, have blocked many low-power broadcasters from having access to capital, and have severely hampered their ability to continue to provide quality broadcasting, programming, or improvements.
 

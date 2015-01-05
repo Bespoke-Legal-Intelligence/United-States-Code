@@ -16,7 +16,7 @@ Acceptance of Sponsor-Provided Funds.—Notwithstanding any other provision of l
 
 (b)
 
-Administrative Provision.—Instead of payment from an airport sponsor from funds apportioned to the sponsor under section 47114, the Administrator, with agreement of the sponsor,may transfer funds that would otherwise be apportioned to the sponsor under section 47114 to the account used by the Administrator for activities described in subsection (a).
+Administrative Provision.—Instead of payment from an airport sponsor from funds apportioned to the sponsor under section 47114, the Administrator, with agreement of the sponsor, may transfer funds that would otherwise be apportioned to the sponsor under section 47114 to the account used by the Administrator for activities described in subsection (a).
 
 (c)
 

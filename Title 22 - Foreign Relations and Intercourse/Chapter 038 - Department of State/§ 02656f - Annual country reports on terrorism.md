@@ -14,7 +14,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(B) detailed assessments with respect to each foreign country whose territory is being used as a sanctuary for terrorists or terrorist organizations;
 
-&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained ordeveloped, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
 &emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
@@ -26,9 +26,9 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 #### (b) Provisions to be included in report
 
-The report required under subsection (a) of this section should to the extent feasible include (but not be limited to)—
+The report required under subsection (a) should to the extent feasible include (but not be limited to)—
 
-&emsp;(1) with respect to subsection (a)(1)(A) of this section—
+&emsp;(1) with respect to subsection (a)(1)(A)—
 
 &emsp;&emsp;(A) a review of major counterterrorism efforts undertaken by countries which are the subject of such report, including, as appropriate, steps taken in international fora;
 
@@ -44,9 +44,9 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;&emsp;&emsp;(iv) providing weapons of mass destruction, or assistance in obtaining or developing such weapons, to terrorists or terrorist groups; <sup>1</sup>
 
-&emsp;&emsp;&emsp;(v) the positions (including voting records) on matters relating to terrorismin the General Assembly of the United Nations and other international bodies and fora of each country which is the subject of such report;
+&emsp;&emsp;&emsp;(v) the positions (including voting records) on matters relating to terrorism in the General Assembly of the United Nations and other international bodies and fora of each country which is the subject of such report;
 
-&emsp;(2) with respect to subsection (a)(1)(B) of this section—
+&emsp;(2) with respect to subsection (a)(1)(B)—
 
 &emsp;&emsp;(A) the extent of knowledge by the government of the country with respect to terrorist activities in the territory of the country; and
 
@@ -58,7 +58,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;&emsp;&emsp;(iii) to prevent the proliferation of and trafficking in weapons of mass destruction in and through the territory of the country;
 
-&emsp;(3) <sup>2</sup> with respect to subsection (a)(2) of this section, any—
+&emsp;(3) <sup>2</sup> with respect to subsection (a)(2), any—
 
 &emsp;&emsp;(A) significant financial support provided by foreign governments to those groups directly, or provided in support of their activities;
 
@@ -90,9 +90,9 @@ The report required under subsection (a) of this section should to the extent fe
 
 #### (c) Classification of report
 
-(1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+(1) Except as provided in paragraph (2), the report required under subsection (a) shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
-(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
+(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
 #### (d) Definitions
 
@@ -124,9 +124,9 @@ As used in this section—
 
 #### (e) Reporting period
 
-(1) The report required under subsection (a) of this section shall cover the events of the calendar year preceding the year in which the report is submitted.
+(1) The report required under subsection (a) shall cover the events of the calendar year preceding the year in which the report is submitted.
 
-(2) The report required by subsection (a) of this section to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
+(2) The report required by subsection (a) to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
 
 (Pub. L. 100–204, title I, §140, Dec. 22, 1987, 101 Stat. 1347; Pub. L. 101–246, title I, §122, Feb. 16, 1990, 104 Stat. 27; Pub. L. 103–236, title I, §133(b)(1), Apr. 30, 1994, 108 Stat. 395; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §578\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 108–458, title VII, §7102(d)(1)–(3), Dec. 17, 2004, 118 Stat. 3777, 3778; Pub. L. 108–487, title VII, §701(a), Dec. 23, 2004, 118 Stat. 3961.)
 
@@ -212,7 +212,7 @@ Sense of Congress on United States Policy on Terrorist Sanctuaries.—It is the 
 
 #### Report on Terrorist Activity in Which United States Citizens Were Killed and Related Matters
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §805\], Nov. 29, 1999, 113 Stat. 1536, 1501A–470, as amendedby Pub. L. 107–228, div. A, title II, §216(c), Sept. 30, 2002, 116 Stat. 1367, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §805\], Nov. 29, 1999, 113 Stat. 1536, 1501A–470, as amended by Pub. L. 107–228, div. A, title II, §216(c), Sept. 30, 2002, 116 Stat. 1367, provided that:
 
 "(a)
 
@@ -256,7 +256,7 @@ In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Se
 
 "(b)
 
-Consultation with Other Departments.—The Secretary of State shall, in preparing the report required by this section, consult and coordinate with all other Government officials who have information necessary to complete the report. Nothing contained in this section shall require the disclosure, on a classified or unclassified basis, of information that would jeopardize sensitive sources and methods or other vital national security interests or jeopardize ongoing criminal investigations or proceedings.
+Consultation with Other Departments.—The Secretary of State shall, in preparing the report required by this section, consult and coordinate with allother Government officials who have information necessary to complete the report. Nothing contained in this section shall require the disclosure, on a classified or unclassified basis, of information that would jeopardize sensitive sources and methods or other vital national security interests or jeopardize ongoing criminal investigations or proceedings.
 
 "(c)
 

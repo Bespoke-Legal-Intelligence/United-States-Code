@@ -24,7 +24,7 @@ In General.—Except as provided in subsection (b), if any provision \[of\] part
 
 "(b)
 
-Special Rule.—If any amendment made by section 6601 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, amending sections 300aa–10 to 300aa–17, 300aa–21, 300aa–23, 300aa–26, and 300aa–27 of this title\] to title XXI of the Public Health Service Act \[42 U.S.C. 300aa–1 et seq.\] or the application of such aprovision to any person or circumstance is held invalid by reason of the Constitution, subsection (a) shall not apply and such title XXI of the Public Health Service Act without such amendment shall continue in effect."
+Special Rule.—If any amendment made by section 6601 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, amending sections 300aa–10 to 300aa–17, 300aa–21, 300aa–23, 300aa–26, and 300aa–27 of this title\] to title XXI of the Public Health Service Act \[42 U.S.C. 300aa–1 et seq.\] or the application of such a provision to any person or circumstance is held invalid by reason of the Constitution, subsection (a) shall not apply and such title XXI of the Public Health Service Act without such amendment shall continue in effect."
 
 \[Amendment by section 5(g)(1) of Pub. L. 101–502 to section 322(a) of Pub. L. 99–660, set out above, effective Nov. 14, 1986, see section 5(h) of Pub. L. 101–502, set out as an Effective Date of 1990 Amendment note under section 300aa–11 of this title.\]
 
@@ -98,7 +98,7 @@ Pub. L. 99–660, title III, §316, Nov. 14, 1986, 100 Stat. 3786, provided that
 
 &emsp;"(1) an assessment of the impact of the amendments made by this title \[enacting this subchapter, amending sections 218, 242c, 262, 286, and 289f of this title, redesignating former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title, and enacting provisions set out as notes under this section and sections 201 and 300aa–1 of this title\] on the supply of vaccines listed in the Vaccine Injury Table under section 2114 of the Public Health Service Act \[42 U.S.C. 300aa–14\], and
 
-&emsp;"(2) an assessment of the ability of the administrators of vaccines (including public clinics and privateadministrators) to provide such vaccines to children."
+&emsp;"(2) an assessment of the ability of the administrators of vaccines (including public clinics and private administrators) to provide such vaccines to children."
 
 #### Waiver of Paperwork Reduction
 

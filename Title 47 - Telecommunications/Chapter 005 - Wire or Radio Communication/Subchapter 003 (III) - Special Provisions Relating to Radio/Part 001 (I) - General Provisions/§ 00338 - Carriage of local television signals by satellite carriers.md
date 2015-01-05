@@ -68,7 +68,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (2) Opportunity to respond
 
-&emsp;The Commission shall afford the satellite carrier against which a complaint is filed under paragraph (1) an opportunity to present data and arguments to establish that there has been no failure to meet its obligations under this section.
+&emsp;The Commission shall afford the satellite carrier against which a complaint is filedunder paragraph (1) an opportunity to present data and arguments to establish that there has been no failure to meet its obligations under this section.
 
 #### (3) Remedial actions; dismissal
 
@@ -174,7 +174,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (A) Consent to disclosure
 
-&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personallyidentifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
+&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
 
 #### (B) Exceptions
 
@@ -222,7 +222,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (9) Court orders
 
-&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellite subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
+&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellitesubscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
 
 &emsp;&emsp;(A) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
 
@@ -284,7 +284,53 @@ As used in this section:
 
 &emsp;The term "television broadcast station" has the meaning given such term in section 325(b)(7) of this title.
 
-(June 19, 1934, ch. 652, title III, §338, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–531; amended Pub. L. 108–447, div. J, title IX \[title II, §§203, 205, 206(a), 210\], Dec. 8, 2004, 118 Stat. 3414, 3424, 3425, 3429; Pub. L. 111–175, title II, §§204(a), 207, May 27, 2010, 124 Stat. 1246, 1253.)
+#### (l) Market determinations
+
+#### (1) In general
+
+&emsp;Following a written request, the Commission may, with respect to a particular commercial television broadcast station, include additional communities within its local market or exclude communities from such station's local market to better effectuate the purposes of this section.
+
+#### (2) Considerations
+
+&emsp;In considering requests filed under paragraph (1), the Commission—
+
+&emsp;&emsp;(A) may determine that particular communities are part of more than one local market; and
+
+&emsp;&emsp;(B) shall afford particular attention to the value of localism by taking into account such factors as—
+
+&emsp;&emsp;&emsp;(i) whether the station, or other stations located in the same area—
+
+&emsp;&emsp;&emsp;&emsp;(I) have been historically carried on the cable system or systems within such community; or
+
+&emsp;&emsp;&emsp;&emsp;(II) have been historically carried on the satellite carrier or carriers serving such community;
+
+&emsp;&emsp;&emsp;(ii) whether the television station provides coverage or other local service to such community;
+
+&emsp;&emsp;&emsp;(iii) whether modifying the local market of the television station would promote consumers' access to television broadcast station signals that originate in their State of residence;
+
+&emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillmentof the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+
+&emsp;&emsp;&emsp;(v) evidence of viewing patterns in households that subscribe and do not subscribe to the services offered by multichannel video programming distributors within the areas served by such multichannel video programming distributors in such community.
+
+#### (3) Carriage of signals
+
+#### (A) Carriage obligation
+
+&emsp;&emsp;A market determination under this subsection shall not create additional carriage obligations for a satellite carrier if it is not technically and economically feasible for such carrier to accomplish such carriage by means of its satellites in operation at the time of the determination.
+
+#### (B) Deletion of signals
+
+&emsp;&emsp;A satellite carrier shall not delete from carriage the signal of a commercial television broadcast station during the pendency of any proceeding under this subsection.
+
+#### (4) Determinations
+
+&emsp;Not later than 120 days after the date that a written request is filed under paragraph (1), the Commission shall grant or deny the request.
+
+#### (5) No effect on eligibility to receive distant signals
+
+&emsp;No modification of a commercial television broadcast station's local market pursuant to this subsection shall have any effect on the eligibility of households in the community affected by such modification to receive distant signals pursuant to section 339 of this title, notwithstanding subsection (h)(1) of this section.
+
+(June 19, 1934, ch. 652, title III, §338, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–531; amended Pub. L. 108–447, div. J, title IX \[title II, §§203, 205, 206(a), 210\], Dec. 8, 2004, 118 Stat. 3414, 3424, 3425, 3429; Pub. L. 111–175, title II, §§204(a), 207, May 27, 2010, 124 Stat. 1246, 1253; Pub. L. 113–200, title I, §102(a), Dec. 4, 2014, 128 Stat. 2060.)
 
 #### References in Text
 
@@ -297,6 +343,8 @@ The date of enactment of the Satellite Television Extension and Localism Act of 
 For the effective date of this subsection, referred to in subsec. (i)(1), as 60 days after Dec. 8, 2004, see section 206(b) of Pub. L. 108–447, set out as an Effective Date of 2004 Amendment note below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (l). Pub. L. 113–200 added subsec. (l).
 
 <b>2010</b>—Subsec. (a)(3). Pub. L. 111–175, §204(a)(1), struck out par. (3) relating to effective date. Text read as follows: "No satellite carrier shall be required to carry local television broadcast stations under paragraph (1) until January 1, 2002."
 
@@ -340,13 +388,71 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "Section 338(i) of the Communications Act of 1934 (47 U.S.C. 338(i)) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\]."
 
+#### Market Modification Process
+
+Pub. L. 113–200, title I, §102(c), Dec. 4, 2014, 128 Stat. 2061, provided that: "The \[Federal Communications\] Commission shall make information available to consumers on its website that explains the market modification process, including—
+
+&emsp;"(1) who may petition to include additional communities within, or exclude communities from, a—
+
+&emsp;&emsp;"(A) local market (as defined in section 122(j) of title 17, United States Code); or
+
+&emsp;&emsp;"(B) television market (as determined under section 614(h)(1)(C) of the Communications Act of 1934 (47 U.S.C. 534(h)(1)(C))); and
+
+&emsp;"(2) the factors that the Commission takes into account when responding to a petition described in paragraph (1)."
+
+#### Implementation
+
+Pub. L. 113–200, title I, §102(d), Dec. 4, 2014, 128 Stat. 2061, provided that:
+
+"(1)
+
+Deadline for regulations.—Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall promulgate regulations to implement this section \[amending this section and section 534 of this title and enacting provisions set out as notes under this section\] and the amendments made by this section.
+
+"(2)
+
+Matters for consideration.—As part of the rulemaking required by paragraph (1), the Commission shall ensure that procedures for the filing and consideration of a written request under sections 338(l) and 614(h)(1)(C) of the Communications Act of 1934 (47 U.S.C. 338(l); 534(h)(1)(C)) fully effectuate the purposes of the amendments made by this section, and update what it considers to be a community for purposes of a modification of a market under section 338(l) or 614(h)(1)(C) of the Communications Act of 1934."
+
+#### Local Network Channel Broadcast Reports
+
+Pub. L. 113–200, title I, §108, Dec. 4, 2014, 128 Stat. 2064, provided that:
+
+"(a)
+
+Requirement.—
+
+&emsp;"(1)
+
+In general.—On the 270th day after the date of the enactment of this Act \[Dec. 4, 2014\], and on each succeeding anniversary of such 270th day, each satellite carrier shall submit an annual report to the \[Federal Communications\] Commission setting forth—
+
+&emsp;&emsp;"(A) each local market in which it—
+
+&emsp;&emsp;&emsp;"(i) retransmits signals of 1 or more television broadcast stations with a community of license in that market;
+
+&emsp;&emsp;&emsp;"(ii) has commenced providing such signals in the preceding 1-year period; and
+
+&emsp;&emsp;&emsp;"(iii) has ceased to provide such signals in the preceding 1-year period; and
+
+&emsp;&emsp;"(B) detailed information regarding the use and potential use of satellite capacity for the retransmission of local signals in each local market.
+
+&emsp;"(2)
+
+Termination.—The requirement under paragraph (1) shall cease after each satellite carrier has submitted 5 reports under such paragraph.
+
+"(b)
+
+Definitions.—In this section—
+
+&emsp;"(1) the terms 'local market' and 'satellite carrier' have the meaning given such terms in section 339(d) of the Communications Act of 1934 (47 U.S.C. 339(d)); and
+
+&emsp;"(2) the term 'television broadcast station' has the meaning given such term in section 325(b)(7) of the Communications Act of 1934 (47 U.S.C. 325(b)(7))."
+
 #### Application Pending Completion of Rulemakings
 
 Pub. L. 111–175, title II, §205, May 27, 2010, 124 Stat. 1250, provided that:
 
 "(a)
 
-In General.—During the period beginning on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\] and ending on thedate on which the Federal Communications Commission adopts rules pursuant to the amendments to the Communications Act of 1934 made by section 203 and section 204 of this title \[amending this section and sections 339 and 340 of this title\], the Federal Communications Commission shall follow its rules and regulations promulgated pursuant to sections 338, 339, and 340 of the Communications Act of 1934 \[47 U.S.C. 338 to 340\] as in effect on the day before the date of the enactment of this Act.
+In General.—During the period beginning on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\] and ending on the date on which the Federal Communications Commission adopts rules pursuant to the amendments to the Communications Act of 1934 made by section 203 and section 204 of this title \[amending this section and sections 339 and 340 of this title\], the Federal Communications Commission shall follow its rules and regulations promulgated pursuant to sections 338, 339, and 340 of the Communications Act of 1934 \[47 U.S.C. 338 to 340\] as in effect on the day before the date of the enactment of this Act.
 
 "(b)
 

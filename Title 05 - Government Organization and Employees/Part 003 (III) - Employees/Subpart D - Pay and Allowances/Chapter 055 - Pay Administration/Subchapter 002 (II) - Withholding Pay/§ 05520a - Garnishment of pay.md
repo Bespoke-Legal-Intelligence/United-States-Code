@@ -2,7 +2,7 @@
 
 (a) For purposes of this section—
 
-&emsp;(1) “agency” means each agency of the Federal Government, including—
+&emsp;(1) "agency" means each agency of the Federal Government, including—
 
 &emsp;&emsp;(A) an executive agency, except for the Government Accountability Office;
 
@@ -12,15 +12,15 @@
 
 &emsp;&emsp;(D) any agency of the legislative branch of the Government, including the Government Accountability Office, each office of a Member of Congress, a committee of the Congress, or other office of the Congress;
 
-&emsp;(2) “employee” means an employee of an agency (including a Member of Congress as defined under section 2106);
+&emsp;(2) "employee" means an employee of an agency (including a Member of Congress as defined under section 2106);
 
-&emsp;(3) “legal process” means any writ, order, summons, or other similar process in the nature of garnishment, that—
+&emsp;(3) "legal process" means any writ, order, summons, or other similar process in the nature of garnishment, that—
 
 &emsp;&emsp;(A) is issued by a court of competent jurisdiction within any State, territory, or possession of the United States, or an authorized official pursuant to an order of such a court or pursuant to State or local law; and
 
 &emsp;&emsp;(B) orders the employing agency of such employee to withhold an amount from the pay of such employee, and make a payment of such withholding to another person, for a specifically described satisfaction of a legal debt of the employee, or recovery of attorney's fees, interest, or court costs; and
 
-&emsp;(4) “pay” means—
+&emsp;(4) "pay" means—
 
 &emsp;&emsp;(A) basic pay, premium pay paid under subchapter V, any payment received under subchapter VI, VII, or VIII, severance and back pay paid under subchapter IX, sick pay, incentive pay, and any other compensation paid or payable for personal services, whether such compensation is denominated as wages, salary, commission, bonus pay or otherwise; and
 
@@ -80,23 +80,23 @@ The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is act Oc
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-Subsec. (k)(3). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+Subsec. (k)(3). Pub. L. 109–241 substituted "Secretary of Homeland Security" for "Secretary of Transportation".
 
-<b>2004</b>—Subsec. (a)(1)(A), (D). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(1)(A), (D). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>2003</b>—Subsec. (k)(2)(A). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
+<b>2003</b>—Subsec. (k)(2)(A). Pub. L. 108–189 substituted "Servicemembers Civil Relief Act" for "Soldiers' and Sailors' Civil Relief Act of 1940".
 
-<b>1997</b>—Subsec. (j)(2). Pub. L. 105–85, §1105(1), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency's administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process.”
+<b>1997</b>—Subsec. (j)(2). Pub. L. 105–85, §1105(1), added par. (2) and struck out former par. (2) which read as follows: "Such regulations shall provide that an agency's administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process."
 
-Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
+Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations."
 
-Subsec. (l). Pub. L. 105–85, §1105(3), struck out subsec. (l) which read as follows: “The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid.”
+Subsec. (l). Pub. L. 105–85, §1105(3), struck out subsec. (l) which read as follows: "The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid."
 
-<b>1996</b>—Subsecs. (h)(2), (i). Pub. L. 104–193 substituted “section 459 of the Social Security Act (42 U.S.C. 659)” for “sections 459, 461, and 462 of the Social Security Act (42 U.S.C. 659, 661, and 662)”.
+<b>1996</b>—Subsecs. (h)(2), (i). Pub. L. 104–193 substituted "section 459 of the Social Security Act (42 U.S.C. 659)" for "sections 459, 461, and 462 of the Social Security Act (42 U.S.C. 659, 661, and 662)".
 
-Subsec. (j)(2). Pub. L. 104–106, §643(a), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.”
+Subsec. (j)(2). Pub. L. 104–106, §643(a), added par. (2) and struck out former par. (2) which read as follows: "Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections."
 
 Subsec. (k)(3), (4). Pub. L. 104–106, §643(b), added par. (3) and redesignated former par. (3) as (4).
 
@@ -110,7 +110,7 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 #### Effective Date; Savings Provision
 
-Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which chargeswere filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
+Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
 
 #### Transfer of Functions
 
@@ -120,7 +120,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 105–261, div. A, title X, §1061, Oct. 17, 1998, 112 Stat. 2128, authorized the Secretary of Defense to conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under section 659 of Title 42, The Public Health and Welfare, required the Secretary to submit to Congress, not later than Jan. 1, 2001, a report describing the experience of the Department of Defense under the authority provided for the program, and provided for termination of pilot program on Sept. 30, 2001.
 
-#### Ex. Ord. No. 12897. Garnishment of Federal Employees’ Pay
+#### Ex. Ord. No. 12897. Garnishment of Federal Employees' Pay
 
 Ex. Ord. No. 12897, Feb. 3, 1994, 59 F.R. 5517, provided:
 

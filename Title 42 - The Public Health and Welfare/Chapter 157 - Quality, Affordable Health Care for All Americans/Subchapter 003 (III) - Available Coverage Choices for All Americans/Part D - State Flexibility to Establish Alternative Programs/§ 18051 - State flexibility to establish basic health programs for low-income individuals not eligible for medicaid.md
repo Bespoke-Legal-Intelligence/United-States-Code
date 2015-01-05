@@ -84,7 +84,7 @@ In this section, the term "standard heath <sup>1</sup> plan" means a health ben
 
 #### (1) In general
 
-&emsp;If the Secretary determines that a State electing the application of this section meetsthe requirements of the program established under subsection (a), the Secretary shall transfer to the State for each fiscal year for which 1 or more standard health plans are operating within the State the amount determined under paragraph (3).
+&emsp;If the Secretary determines that a State electing the application of this section meets the requirements of the program established under subsection (a), the Secretary shall transfer to the State for each fiscal year for which 1 or more standard health plans are operating within the State the amount determined under paragraph (3).
 
 #### (2) Use of funds
 

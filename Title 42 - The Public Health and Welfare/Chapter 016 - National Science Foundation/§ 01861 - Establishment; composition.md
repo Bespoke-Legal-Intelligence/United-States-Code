@@ -12,7 +12,7 @@ Pub. L. 111–358, title V, §501, Jan. 4, 2011, 124 Stat. 4005, provided that: 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–368, §1, Dec. 19, 2002, 116 Stat. 3034, provided that: "This Act \[enacting sections 1862n to 1862n–10 of this title, amending sections 1862i, 1862l, 1863, 1873, and 1885 of this title, enacting provisions set out as notes under sections 1862b, 1862g, 1862n, 1864, and 1885c of this title, and amending provisions set out asa note under section 1862k of this title\] may be cited as the 'National Science Foundation Authorization Act of 2002'."
+Pub. L. 107–368, §1, Dec. 19, 2002, 116 Stat. 3034, provided that: "This Act \[enacting sections 1862n to 1862n–10 of this title, amending sections 1862i, 1862l, 1863, 1873, and 1885 of this title, enacting provisions set out as notes under sections 1862b, 1862g, 1862n, 1864, and 1885c of this title, and amending provisions set out as a note under section 1862k of this title\] may be cited as the 'National Science Foundation Authorization Act of 2002'."
 
 #### Short Title of 1998 Amendment
 
@@ -76,7 +76,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 Sec. 1. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section established, in Executive Office of the President, the Office of Science and Technology.\]
 
-Sec. 2. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section as amended by Pub. L. 88–426,title III, §305(41)(A), (B), Aug. 14, 1964, 78 Stat. 427, 428, authorized appointment of Director and Deputy Director of Office of Science and Technology by the President by and with the advice and consent of the Senate.\]
+Sec. 2. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section as amended by Pub. L. 88–426, title III, §305(41)(A), (B), Aug. 14, 1964, 78 Stat. 427, 428, authorized appointment of Director and Deputy Director of Office of Science and Technology by the President by and with the advice and consent of the Senate.\]
 
 Sec. 3. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section transferred to Director of the Office of Science and Technology, from National Science Foundation, certain functions formerly conferred upon the Foundation.\]
 
@@ -150,7 +150,7 @@ Part I of the reorganization plan establishes the Office of Science and Technolo
 
 The new arrangements incorporated in part I of the reorganization plan will constitute an important development in executive branch organization for science and technology. Under those arrangements the President will have permanent staff resources capable of advising and assisting him on matters of national policy affected by or pertaining to science and technology. Considering the rapid growth and far-reaching scope of Federal activities in science and technology, it is imperative that the President have adequate staff support in developing policies and evaluating programs in order to assure that science and technology are used most effectively in the interests of national security and general welfare.
 
-To this end it is contemplated that the Director will assist the President in discharging the responsibility of the President for the proper coordination of Federal science and technology functions. More particularly, it is expected that he will advise and assist the President as the President may request with respect to—
+To this end it is contemplated that the Director will assist the President in discharging the responsibility ofthe President for the proper coordination of Federal science and technology functions. More particularly, it is expected that he will advise and assist the President as the President may request with respect to—
 
 &emsp;(1) Major policies, plans, and programs of science and technology of the various agencies of the Federal Government, giving appropriate emphasis to the relationship of science and technology to national security and foreign policy, and measures for furthering science and technology in the Nation.
 
@@ -178,7 +178,7 @@ Thus, the further steps contained in part I of the reorganization plan are now n
 
 Part I of the reorganization plan will permit some strengthening of the staff and consultant resources now available to the President in respect of scientific and technical factors affecting executive branch policies and will also facilitate communication with the Congress.
 
-Part II of the reorganization plan provides for certain reorganizations within the National Science Foundation which will strengthen the capability of the Director of the Foundation to exert leadership and otherwisefurther the effectiveness of administration of the Foundation. Specifically:
+Part II of the reorganization plan provides for certain reorganizations within the National Science Foundation which will strengthen the capability of the Director of the Foundation to exert leadership and otherwise further the effectiveness of administration of the Foundation. Specifically:
 
 &emsp;(1) There is established a new office of Director of the National Science Foundation and that Director, ex officio, is made a member of the National Science Board on a basis coordinate with that of other Board members.
 

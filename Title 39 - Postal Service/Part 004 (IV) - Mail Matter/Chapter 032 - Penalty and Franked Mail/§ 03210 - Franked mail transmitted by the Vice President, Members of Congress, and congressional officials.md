@@ -1,6 +1,6 @@
 ### §3210. Franked mail transmitted by the Vice President, Members of Congress, and congressional officials
 
-(a)(1) It is the policy of the Congress that the privilege of sending mail as franked mail shallbe established under this section in order to assist and expedite the conduct of the official business, activities, and duties of the Congress of the United States.
+(a)(1) It is the policy of the Congress that the privilege of sending mail as franked mail shall be established under this section in order to assist and expedite the conduct of the official business, activities, and duties of the Congress of the United States.
 
 (2) It is the intent of the Congress that such official business, activities, and duties cover all matters which directly or indirectly pertain to the legislative process or to any congressional representative functions generally, or to the functioning, working, or operating of the Congress and the performance of official duties in connection therewith, and shall include, but not be limited to, the conveying of information to the public, and the requesting of the views of the public, or the views and information of other authority of government, as a guide or a means of assistance in the performance of those functions.
 
@@ -34,7 +34,7 @@
 
 &emsp;(B) mail matter which constitutes or includes—
 
-&emsp;&emsp;(i) greetings from the spouse or other members of the family of such Member or Member-elect unless it is a brief reference in otherwise frankable mail;
+&emsp;&emsp;(i) greetings from the spouse or other members of the family of such Member orMember-elect unless it is a brief reference in otherwise frankable mail;
 
 &emsp;&emsp;(ii) reports of how or when such Member or Member-elect, or the spouse or any other member of the family of such Member or Member-elect, spends time other than in the performance of, or in connection with, the legislative, representative, and other official functions of such Member or the activities of such Member-elect as a Member-elect; or
 
@@ -42,7 +42,7 @@
 
 &emsp;(C) mail matter which specifically solicits political support for the sender or any other person or any political party, or a vote or financial assistance for any candidate for any public office.
 
-> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at ordelivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
+> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
 
 (6)(A) It is the intent of Congress that a Member of, or Member-elect to, Congress may not mail any mass mailing as franked mail—
 
@@ -84,7 +84,7 @@
 
 (2) A Member-elect to the Congress may mail franked mail with a simplified form of address for delivery within that area constituting the congressional district or the State from which he was elected.
 
-(3) A Delegate, Delegate-elect, Resident Commissioner, or Resident Commissioner-elect to the House of Representatives may mail frankedmail with a simplified form of address for delivery within the area from which he was elected.
+(3) A Delegate, Delegate-elect, Resident Commissioner, or Resident Commissioner-elect to the House of Representatives may mail franked mail with a simplified form of address for delivery within the area from which he was elected.
 
 (4) Any franked mail which is mailed under this subsection shall be mailed at the equivalent rate of postage which assures that the mail will be sent by the most economical means practicable.
 
@@ -130,7 +130,7 @@ Subsec. (a)(6)(A)(ii)(II). Pub. L. 104–197, §102(a)(2), substituted "90 days"
 
 &emsp;"(B) in the case of redistricting, on and after the date referred to in subsection (d)(1)(B), a Member of the House of Representatives may send mass mailings to the additional area described in that section".
 
-Subsec. (d)(1). Pub. L. 102–392, §309(a)(2), struck out subpar. (A) designation, substituted "the Member" for "he" and a period for "; and", and struck out subpar. (B) which read as follows: "with respect to a Member of the House of Representatives on and after the date on which the proposed redistricting of congressional districts in his State by legislative or judicial proceedings is initially completed (whether or not the redistricting is actually in effect), within any additional area of each congressional district proposed or established in such redistricting and containing all or part of the area constituting the congressional district from which he was elected, unless and until the congressional district so proposed or established is changed by legislative or judicial proceedings."
+Subsec. (d)(1). Pub. L. 102–392, §309(a)(2), struck out subpar. (A) designation, substituted "the Member" for "he" and a period for "; and", and struck out subpar. (B) which read as follows: "with respect to a Member ofthe House of Representatives on and after the date on which the proposed redistricting of congressional districts in his State by legislative or judicial proceedings is initially completed (whether or not the redistricting is actually in effect), within any additional area of each congressional district proposed or established in such redistricting and containing all or part of the area constituting the congressional district from which he was elected, unless and until the congressional district so proposed or established is changed by legislative or judicial proceedings."
 
 <b>1990</b>—Subsec. (a)(6)(E). Pub. L. 101–520, §311(h)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "For purposes of this section, the term 'mass mailing' means newsletters and similar mailings of more than five hundred pieces in which the content of the matter mailed is substantially identical but shall not apply to mailings—
 
@@ -204,7 +204,7 @@ Pub. L. 93–191, §14, Dec. 18, 1973, 87 Stat. 746, provided that:
 
 "(a) Except as provided in subsection (b) of this section, the provisions of this Act \[enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3215, 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2\] shall become effective on the date of enactment of this Act \[Dec. 18, 1973\].
 
-"(b) The provisions of section 3214 of title 39, United States Code, as amended by section 4 of this Act; and the provisions of subsection (b) of section 3216 of title 39, United States Code, as amended by section 7 of this Act, shall take effect as of December 27, 1972."
+"(b) The provisions of section 3214 of title 39, United States Code, as amended by section 4 of this Act; andthe provisions of subsection (b) of section 3216 of title 39, United States Code, as amended by section 7 of this Act, shall take effect as of December 27, 1972."
 
 #### Separability
 
@@ -220,7 +220,7 @@ Sec. 5. Effective October 1, 1994, each of the figures contained in section 506(
 
 "
 
-Sec. 6. (a) This section shall apply to mailings by Senators, made during fiscal year 1995 and each fiscalyear thereafter in addition to any other law relating to the use of the franking privilege.
+Sec. 6. (a) This section shall apply to mailings by Senators, made during fiscal year 1995 and each fiscal year thereafter in addition to any other law relating to the use of the franking privilege.
 
 "(b) For the purposes of this paragraph—
 

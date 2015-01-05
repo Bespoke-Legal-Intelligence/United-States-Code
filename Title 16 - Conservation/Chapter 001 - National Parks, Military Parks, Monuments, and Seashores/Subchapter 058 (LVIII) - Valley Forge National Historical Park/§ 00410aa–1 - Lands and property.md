@@ -10,7 +10,7 @@ Within the boundaries of the park, the Secretary may acquire lands and interests
 
 #### (c) Reservation of rights by grantors; compensation for land
 
-Except for property deemed by the Secretary to be essential for visitor facilities, or for access to or administration of the park, any owner or owners of improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for themselves and their successors or assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a definite term not to exceed twenty-five years, or in lieu thereof, for a term ending at the death of the owner, or the death of his or her spouse, whichever is the later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value on such date of the right retained by the owner.
+Except for property deemed by the Secretary to be essential for visitor facilities, or for access to or administration of the park, any owner or owners of improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for themselves and their successors or assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a definite term not to exceed twenty-five years, or in lieu thereof, for a term ending at the death of the owner, or the death of his or her spouse, whichever is the later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to theowner the fair market value of the property on the date of such acquisition, less the fair market value on such date of the right retained by the owner.
 
 #### (d) Termination of grantor's rights
 
@@ -18,7 +18,7 @@ The Secretary may terminate a right of use and occupancy retained pursuant to th
 
 #### (e) "Improved property" defined
 
-The term "improved property", as used in this section shall mean a detached, noncommercialresidential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as "dwelling"), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+The term "improved property", as used in this section shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as "dwelling"), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 94–337, §2, July 4, 1976, 90 Stat. 796; Pub. L. 96–287, title III, §301(1), June 28, 1980, 94 Stat. 601; Pub. L. 103–437, §6(a)(3), Nov. 2, 1994, 108 Stat. 4583.)
 

@@ -32,7 +32,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(III) a third party directly or indirectly controls the producer and the exporter or importer, or
 
-&emsp;&emsp;&emsp;(IV) the producer and the exporter or importer directly or indirectly control a third party and there is reason to believe that the relationship causes the producer to act differently than a nonrelated producer.
+&emsp;&emsp;&emsp;(IV) the producer and the exporter or importer directly or indirectly control athird party and there is reason to believe that the relationship causes the producer to act differently than a nonrelated producer.
 
 > &emsp;&emsp;For purposes of this subparagraph, a party shall be considered to directly or indirectly control another party if the party is legally or operationally in a position to exercise restraint or direction over the other party.
 
@@ -156,7 +156,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
-&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
+&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant towhich the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility is automatic,
 
@@ -286,7 +286,7 @@ For purposes of this subtitle—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the Subsidies Agreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
+&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the SubsidiesAgreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
 
 #### (ii) Exception
 
@@ -364,7 +364,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(III) actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment,
 
-&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
+&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development andproduction efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
 &emsp;&emsp;&emsp;&emsp;(V) in a proceeding under part II of this subtitle, the magnitude of the margin of dumping.
 
@@ -478,7 +478,7 @@ For purposes of this subtitle—
 
 #### (H) Cumulation for determining threat of material injury
 
-&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause (i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause\(i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;(i) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -710,7 +710,7 @@ For purposes of this subtitle—
 
 #### (D) Regional industries
 
-&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of all subject merchandise imported into the United States.
+&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of allsubject merchandise imported into the United States.
 
 #### (25) Subject merchandise
 
@@ -828,7 +828,7 @@ For purposes of this subtitle—
 
 #### References in Text
 
-The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 2701 of this title and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (20)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -930,7 +930,7 @@ Par. (16). Pub. L. 103–465, §233(a)(4), substituted "Foreign like product" fo
 
 Par. (16)(A). Pub. L. 103–465, §233(a)(5)(DD), substituted "subject merchandise" for "merchandise which is the subject of an investigation".
 
-Par. (16)(B)(i). Pub. L. 103–465, §233(a)(5)(EE), which directed the substitution of "subject merchandise" for "merchandise which is the subject of an investigation", was executed by making the substitution for text which contained the words "the investigation" rather than "an investigation", to reflect the probable intent of Congress.
+Par. (16)(B)(i). Pub. L. 103–465, §233(a)(5)(EE), which directed the substitution of "subject merchandise" for "merchandise which is the subject of an investigation", was executed by making the substitution for textwhich contained the words "the investigation" rather than "an investigation", to reflect the probable intent of Congress.
 
 Par. (17). Pub. L. 103–465, §233(a)(5)(FF), substituted "subject merchandise" for "merchandise which is the subject of the investigation".
 
@@ -1030,7 +1030,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.
+Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L.103–182, set out as an Effective Date note under section 3431 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -1060,7 +1060,7 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of thistitle, except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
+All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
 
 #### Uruguay Round Agreements: Entry Into Force
 

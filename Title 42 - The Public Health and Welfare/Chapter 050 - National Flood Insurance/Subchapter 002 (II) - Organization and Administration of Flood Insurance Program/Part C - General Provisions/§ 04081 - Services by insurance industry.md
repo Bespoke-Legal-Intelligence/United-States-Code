@@ -10,13 +10,17 @@ Any such contracts, agreements, or other arrangements may be entered into withou
 
 #### (c) Hold harmless
 
-The Administrator of the Federal Emergency Management Agency shall hold any agent or broker selling or undertaking to sell flood insurance under this chapter harmless from any judgment for damages against such agent or broker as a result of any court action by a policyholder or applicant arising out of an error or omission on the part of the Federal Emergency Management Agency, and shall provide any such agent or broker with indemnification, including court costs and reasonable attorney fees, arising out of and caused by an error or omission on the part of the Federal Emergency Management Agency and its contractors. The Administrator of the Federal Emergency Management Agency may not hold harmless or indemnify an agent or broker for his or her error or omission.
+The Administrator of the Federal Emergency Management Agency shall hold any agent or broker selling or undertaking to sell flood insurance under this chapter harmless from any judgment for damages against such agent or broker as a result of any court action by a policyholder or applicant arising out of an error or omissionon the part of the Federal Emergency Management Agency, and shall provide any such agent or broker with indemnification, including court costs and reasonable attorney fees, arising out of and caused by an error or omission on the part of the Federal Emergency Management Agency and its contractors. The Administrator of the Federal Emergency Management Agency may not hold harmless or indemnify an agent or broker for his or her error or omission.
 
 #### (d) FEMA authority on transfer of policies
 
-Notwithstanding any other provision of this chapter, the Administrator may, at the discretion of the Administrator, refuse to accept the transfer of the administration of policies forcoverage under the flood insurance program under this chapter that are written and administered by any insurance company or other insurer, or any insurance agent or broker.
+Notwithstanding any other provision of this chapter, the Administrator may, at the discretion of the Administrator, refuse to accept the transfer of the administration of policies for coverage under the flood insurance program under this chapter that are written and administered by any insurance company or other insurer, or any insurance agent or broker.
 
-(Pub. L. 90–448, title XIII, §1345, Aug. 1, 1968, 82 Stat. 585; Pub. L. 97–35, title III, §341(e), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §574, Sept. 23, 1994, 108 Stat. 2278; Pub. L. 112–141, div. F, title II, §§100238(b)(1), 100245, July 6, 2012, 126 Stat. 958, 966.)
+#### (e) Risk transfer
+
+The Administrator may secure reinsurance of coverage provided by the flood insurance program from the private reinsurance and capital markets at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
+
+(Pub. L. 90–448, title XIII, §1345, Aug. 1, 1968, 82 Stat. 585; Pub. L. 97–35, title III, §341(e), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §574, Sept. 23, 1994, 108 Stat. 2278; Pub. L. 112–141, div. F, title II, §§100238(b)(1), 100245, July 6, 2012, 126 Stat. 958, 966; Pub. L. 113–89, §10, Mar. 21, 2014, 128 Stat. 1025.)
 
 #### References in Text
 
@@ -29,6 +33,8 @@ This chapter, referred to in subsecs. (c) and (d), was in the original a referen
 In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e). Pub. L. 113–89 added subsec. (e).
 
 <b>2012</b>—Subsecs. (a), (c). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 
@@ -86,7 +92,7 @@ Methodology To Determine Reimbursed Expenses.—Not later than 180 days after th
 
 "(c)
 
-Submission of Expense Reports.—To develop the methodology established under subsection (b), the Administrator may require each property and casualty insurance company participating in the Write Your Own program to submit a report to the Administrator, in a format determined by the Administrator and within 60 days of the request, that details the expense levels of each such company for selling, writing, and servicing standard flood insurance policies and adjusting and servicing claims.
+Submission of Expense Reports.—To develop the methodology established under subsection (b), the Administrator may require each property and casualty insurance company participating in the Write Your Own program to submit a report to the Administrator, in a format determined by the Administrator and within 60 days of the request, that details the expense levelsof each such company for selling, writing, and servicing standard flood insurance policies and adjusting and servicing claims.
 
 "(d)
 

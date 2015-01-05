@@ -2,7 +2,7 @@
 
 #### (a) Limitations on liability
 
-For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, andthat is consummated before September 30, 1995, a creditor or any assignee of a creditor shall have no civil, administrative, or criminal liability under this subchapter for, and a consumer shall have no extended rescission rights under section 1635(f) of this title with respect to—
+For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and that is consummated before September 30, 1995, a creditor or any assignee of a creditor shall have no civil, administrative, or criminal liability under this subchapter for, and a consumer shall have no extended rescission rights under section 1635(f) of this title with respect to—
 
 &emsp;(1) the creditor's treatment, for disclosure purposes, of—
 

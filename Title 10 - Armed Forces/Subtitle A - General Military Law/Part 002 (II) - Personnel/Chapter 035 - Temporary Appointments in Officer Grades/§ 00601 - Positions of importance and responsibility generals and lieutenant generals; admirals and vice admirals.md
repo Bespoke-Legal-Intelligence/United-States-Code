@@ -2,7 +2,7 @@
 
 (a) The President may designate positions of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, or Marine Corps who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under this section for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
 
-(b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated under subsection (a) or by law to carry that grade shall continue to hold that grade—
+(b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated undersubsection (a) or by law to carry that grade shall continue to hold that grade—
 
 &emsp;(1) while serving in that position;
 
@@ -18,7 +18,7 @@
 
 (2) An officer serving in a grade above major general or rear admiral who holds the permanent grade of brigadier general or rear admiral (lower half) shall be considered for promotion to the permanent grade of major general or rear admiral, as appropriate, as if he were serving in his permanent grade.
 
-(d)(1) When an officer is recommended to the President for an initial appointment to the grade of lieutenant general or vice admiral, orfor an initial appointment to the grade of general or admiral, the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of that officer as a member of the Joint Staff and in other joint duty assignments. The Secretary of Defense shall submit the Chairman's evaluation to the President at the same time the recommendation for the appointment is submitted to the President.
+(d)(1) When an officer is recommended to the President for an initial appointment to the grade of lieutenant general or vice admiral, or for an initial appointment to the grade of general or admiral, the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of that officer as a member of the Joint Staff and in other joint duty assignments. The Secretary of Defense shall submit the Chairman's evaluation to the President at the same time the recommendation for the appointment is submitted to the President.
 
 (2) Whenever a vacancy occurs in a position within the Department of Defense that the President has designated as a position of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral or in an office that is designated by law to carry such a grade, the Secretary of Defense shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 

@@ -32,13 +32,13 @@ In this section, the term "commodity promotion law" means a Federal law that pro
 
 &emsp;(14) Public Law 103–407 (7 U.S.C. 7101 et seq.);
 
-&emsp;(15) subchapter II of this chapter;
+&emsp;(15) subchapter II;
 
-&emsp;(16) subchapter III of this chapter;
+&emsp;(16) subchapter III;
 
-&emsp;(17) subchapter IV of this chapter;
+&emsp;(17) subchapter IV;
 
-&emsp;(18) subchapter V of this chapter; or
+&emsp;(18) subchapter V; or
 
 &emsp;(19) any other provision of law enacted after April 4, 1996, that provides for the establishment and operation of a promotion program described in the first sentence.
 
@@ -56,7 +56,7 @@ Congress finds the following:
 
 &emsp;(5) It has never been the intent of Congress for the generic commodity promotion programs established and funded by the commodity promotion laws to replace the individual advertising and promotion efforts of producers or processors.
 
-&emsp;(6) An individual producer's or processor's own advertising initiatives are typically designed to increase the share of the market held by that producer or processor rather thanto increase or expand the overall size of the market.
+&emsp;(6) An individual producer's or processor's own advertising initiatives are typically designed to increase the share of the market held by that producer or processor rather than to increase or expand the overall size of the market.
 
 &emsp;(7) In contrast, a generic commodity promotion program is intended and designed to maintain or increase the overall demand for the agricultural commodity covered by the program and increase the size of the market for that commodity, often by utilizing promotion methods and techniques that individual producers and processors typically are unable, or have no incentive, to employ.
 
@@ -64,7 +64,7 @@ Congress finds the following:
 
 &emsp;&emsp;(A) further specific national governmental goals, as established by Congress; and
 
-&emsp;&emsp;(B) produce nonideological and commercial communication the purpose of which is to further the governmental policy and objective of maintaining and expanding the markets for the covered commodities.
+&emsp;&emsp;(B) produce nonideological and commercial communication the purpose of which isto further the governmental policy and objective of maintaining and expanding the markets for the covered commodities.
 
 &emsp;(9) While some commodity promotion laws grant a producer or processor the option of crediting individual advertising conducted by the producer or processor for all or a portion of the producer's or processor's marketing promotion assessments, all promotion programs established under the commodity promotion laws, both those programs that permit credit for individual advertising and those programs that do not contain such provisions, are very narrowly tailored to fulfill the congressional purposes of the commodity promotion laws without impairing or infringing the legal or constitutional rights of any individual producer or processor.
 
@@ -80,17 +80,71 @@ Except as otherwise provided by law, each commodity board established under the 
 
 The Secretary shall annually provide to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information on administrative expenses on programs established under commodity promotion laws.
 
-#### (e) Exemption of certified organic products from assessments
+#### (e) Exemption of certified organic products from promotion order assessments
 
 #### (1) In general
 
-&emsp;Notwithstanding any provision of a commodity promotion law, a person that produces and markets solely 100 percent organic products, and that does not produce any conventional or nonorganic products, shall be exempt from the payment of an assessment under a commodity promotion law with respect to any agricultural commodity that is produced on a certified organic farm (as defined in section 6502 of this title).
+&emsp;Notwithstanding any provision of a commodity promotion law, a person that produces, handles, markets, or imports organic products may be exempt from the payment of an assessment under a commodity promotion law with respect to any agricultural commodity that is certified as "organic" or "100 percent organic" (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation)).
 
-#### (2) Regulations
+#### (2) Split operations
 
-&emsp;Not later than 1 year after May 13, 2002, the Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+&emsp;The exemption described in paragraph (1) shall apply to the certified "organic" or "100 percent organic" (as defined in part 205 of title 7 of the Code of Federal Regulations (or a successor regulation)) products of a producer, handler, or marketer regardless of whether the agricultural commodity subject to the exemption is produced, handled, or marketed by a person that also produces, handles, or markets conventional or nonorganic agricultural products, including conventional or nonorganic agricultural products of the same agricultural commodity as that for which the exemption is claimed.
 
-(Pub. L. 104–127, title V, §501, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title X, §10607, May 13, 2002, 116 Stat. 514.)
+#### (3) Approval
+
+&emsp;The Secretary shall approve the exemption of a person under this subsection if the person maintains a valid organic certificate issued under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
+
+#### (4) Termination of effectiveness
+
+&emsp;This subsection shall be effective until the date on which the Secretary issues an organic commodity promotion order in accordance with subsection (f).
+
+#### (5) Regulations
+
+&emsp;The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+
+#### (f) Organic commodity promotion order
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Certified organic farm
+
+&emsp;&emsp;The term "certified organic farm" has the meaning given the term in section 2103 of the Organic Foods Production Act of 1990 (7 U.S.C. 6502).
+
+#### (B) Covered person
+
+&emsp;&emsp;The term "covered person" means a producer, handler, marketer, or importer of an organic agricultural commodity.
+
+#### (C) Dual-covered agricultural commodity
+
+&emsp;&emsp;The term "dual-covered agricultural commodity" means an agricultural commodity that—
+
+&emsp;&emsp;&emsp;(i) is produced on a certified organic farm; and
+
+&emsp;&emsp;&emsp;(ii) is covered under both—
+
+&emsp;&emsp;&emsp;&emsp;(I) an organic commodity promotion order issued pursuant to paragraph (2); and
+
+&emsp;&emsp;&emsp;&emsp;(II) any other agricultural commodity promotion order issued under a commodity promotion law.
+
+#### (2) Authorization
+
+&emsp;The Secretary may issue an organic commodity promotion order under section 7413 of this title that includes any agricultural commodity that—
+
+&emsp;&emsp;(A) is produced or handled (as defined in section 2103 of the Organic Foods Production Act of 1990 (7 U.S.C. 6502)) and that is certified to be sold or labeled as "organic" or "100 percent organic" (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation)); or
+
+&emsp;&emsp;(B) is imported with a valid organic certificate (as defined in that part).
+
+#### (3) Election
+
+&emsp;If the Secretary issues an organic commodity promotion order described in paragraph (2), a covered person may elect, for applicable dual-covered agricultural commodities and in the sole discretion of the covered person, whether to be assessed under the organic commodity promotion order or another applicable agricultural commodity promotion order.
+
+#### (4) Regulations
+
+&emsp;The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+
+(Pub. L. 104–127, title V, §501, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title X, §10607, May 13, 2002, 116 Stat. 514; Pub. L. 113–79, title X, §10004(d), (e), Feb. 7, 2014, 128 Stat. 942, 943; Pub. L. 113–235, div. A, title VII, §747, Dec. 16, 2014, 128 Stat. 2170.)
 
 #### References in Text
 
@@ -114,7 +168,15 @@ Public Law 103–190, referred to in subsec. (a)(13), is Pub. L. 103–190, Dec.
 
 Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct. 22, 1994, 108 Stat. 4210, known as the Sheep Promotion, Research, and Information Act of 1994, which is classified generally to chapter 99 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
+The Organic Foods Production Act of 1990, referred to in subsec. (e)(3), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
 #### Amendments
+
+<b>2014</b>—Subsec. (e). Pub. L. 113–79, §10004(d), added subsec. (e) and struck out former subsec. (e) which related to exemptions of certified organic products from assessments.
+
+Subsec. (f). Pub. L. 113–79, §10004(e), added subsec. (f).
+
+Subsec. (f)(1)(C)(ii)(II). Pub. L. 113–235 substituted "a commodity promotion law" for "section 7413 of this title".
 
 <b>2002</b>—Subsec. (a)(19). Pub. L. 107–171, §10607(b), added par. (19).
 

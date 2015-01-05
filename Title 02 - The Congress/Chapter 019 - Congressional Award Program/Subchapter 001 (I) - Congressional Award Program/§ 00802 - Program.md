@@ -2,7 +2,7 @@
 
 #### (a) Establishment, functions, and purposes; nature of awards
 
-The Board shall establish and administer a program to be known as the Congressional Award Program, which shall be designed to promote initiative, achievement, and excellence among youths in the areas of public service, personal development, and physical and expedition fitness. Under the program medals shall be awarded to young people within the United States, aged fourteen through twenty-three (subject to such exceptions as the Board may prescribe), who have satisfied the standards of achievement established by the Board under subsection (b) of this section. Each medal shallconsist of gold-plate over bronze, rhodium over bronze, or bronze and shall be struck in accordance with subsection (f) of this section.
+The Board shall establish and administer a program to be known as the Congressional Award Program, which shall be designed to promote initiative, achievement, and excellence among youths in the areas of public service, personal development, and physical and expedition fitness. Under the program medals shall be awarded to young people within the United States, aged fourteen through twenty-three (subject to such exceptions as the Board may prescribe), who have satisfied the standards of achievement established by the Board under subsection (b) of this section. Each medal shall consist of gold-plate over bronze, rhodium over bronze, or bronze and shall be struck in accordance with subsection (f).
 
 #### (b) Implementation requirements for Board
 
@@ -34,7 +34,7 @@ The Board may award scholarships in such amounts as the Board determines to be a
 
 #### (1) Design and striking
 
-&emsp;The Secretary of the Treasury shall strike the medals described in subsection (a) of this section and awarded by the Board under this chapter. Subject to subsection (a) of this section, the medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
+&emsp;The Secretary of the Treasury shall strike the medals described in subsection (a) and awarded by the Board under this chapter. Subject to subsection (a), the medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
 
 #### (2) National medals
 
@@ -52,21 +52,21 @@ Subsection (e), which required the Board to submit an annual report to Congress 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–200, §2(a)(1), struck out “under paragraph (3)” after “established by the Board” in concluding provisions.
+<b>2010</b>—Subsec. (b). Pub. L. 111–200, §2(a)(1), struck out "under paragraph (3)" after "established by the Board" in concluding provisions.
 
-Subsec. (c). Pub. L. 111–200, §2(a)(2), substituted “in connection with” for “during” in second sentence.
+Subsec. (c). Pub. L. 111–200, §2(a)(2), substituted "in connection with" for "during" in second sentence.
 
 <b>2000</b>—Subsec. (e)(3). Pub. L. 106–533, §1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to section 804(g)(1) of this title, could not be executed because that reference did not appear in the original. See Codification note above.
 
 Subsec. (e)(4). Pub. L. 106–533, §1(b)(4)(B), made technical amendment to reference in original act which appears in text as reference to section 806 of this title. See Codification note above.
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–63 substituted “June 1” for “April 1” in introductory provisions.
+<b>1999</b>—Subsec. (e). Pub. L. 106–63 substituted "June 1" for "April 1" in introductory provisions.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–329, §637(1), struck out “gold, silver, and bronze” after “Under the program” and substituted last sentence for former last sentence which read as follows: “The medals shall be of such design and materials as the Board may determine.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–329, §637(1), struck out "gold, silver, and bronze" after "Under the program" and substituted last sentence for former last sentence which read as follows: "The medals shall be of such design and materials as the Board may determine."
 
 Subsec. (f). Pub. L. 103–329, §637(2), added subsec. (f).
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–525 substituted “April 1” for “March 1”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–525 substituted "April 1" for "March 1".
 
 <b>1988</b>—Subsec. (e)(6) to (8). Pub. L. 100–674 added pars. (6) and (7) and redesignated former par. (6) as (8).
 
@@ -74,5 +74,5 @@ Subsec. (f). Pub. L. 103–329, §637(2), added subsec. (f).
 
 Subsec. (d). Pub. L. 99–161, §4(b), inserted reference to Silver and Bronze Medals.
 
-Subsec. (e)(4). Pub. L. 99–161, §4(c), inserted “for each member, officer, employee, and consultant of the Board (or of the Corporation established pursuant to section 806(g)(1) of this title)”.
+Subsec. (e)(4). Pub. L. 99–161, §4(c), inserted "for each member, officer, employee, and consultant of the Board (or of the Corporation established pursuant to section 806(g)(1) of this title)".
 

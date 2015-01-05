@@ -2,7 +2,7 @@
 
 It is the sense of Congress that the United States Government should take the following actions to assist in the defense of Israel:
 
-&emsp;(1) Seek to enhance the capabilities of the Governments of the United States and Israel to address emerging common threats, increase security cooperation, and expand joint military exercises.
+&emsp;(1) Seek to enhance the capabilities of the Governments of the United States and Israel to address emerging common threats, increasesecurity cooperation, and expand joint military exercises.
 
 &emsp;(2) Provide the Government of Israel such support as may be necessary to increase development and production of joint missile defense systems, particularly such systems that defend against the urgent threat posed to Israel and United States forces in the region.
 
@@ -21,4 +21,28 @@ It is the sense of Congress that the United States Government should take the fo
 &emsp;(9) Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
 
 (Pub. L. 112–150, §4, July 27, 2012, 126 Stat. 1147.)
+
+#### Eligibility of Israel for the Strategic Trade Authorization Exception to Certain Export Control Licensing Requirements
+
+Pub. L. 113–296, §6, Dec. 19, 2014, 128 Stat. 4076, provided that:
+
+"(a)
+
+Findings.—Congress finds that Israel—
+
+&emsp;"(1) has adopted high standards in the field of export controls;
+
+&emsp;"(2) has declared its unilateral adherence to the Missile Technology Control Regime, the Australia Group, and the Nuclear Suppliers Group; and
+
+&emsp;"(3) is a party to—
+
+&emsp;&emsp;"(A) the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be Deemed to be Excessively Injurious or to Have Indiscriminate Effects, signed at Geneva October 10, 1980;
+
+&emsp;&emsp;"(B) the Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare, signed at Geneva June 17, 1925; and
+
+&emsp;&emsp;"(C) the Convention on the Physical Protection of Nuclear Material, adopted at Vienna on October 26, 1979.
+
+"(b)
+
+Eligibility for Strategic Trade Authorization Exception.—The President, consistent with the commitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations."
 

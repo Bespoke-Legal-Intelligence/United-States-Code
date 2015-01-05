@@ -50,7 +50,7 @@ Northwestern private timber open market area.—The term "northwestern private t
 
 &emsp;(B) The term "unprocessed timber" does not include timber processed into any one of the following:
 
-&emsp;&emsp;(i) Lumber or construction timbers, except Western Red Cedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or N list grades, sawn on 4 sides, not intended for remanufacture.
+&emsp;&emsp;(i) Lumber or construction timbers, except Western Red Cedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or Nlist grades, sawn on 4 sides, not intended for remanufacture.
 
 &emsp;&emsp;(ii) Lumber, construction timbers, or cants for remanufacture, except Western Red Cedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or N list clear grades, sawn on 4 sides, not to exceed 12 inches in thickness.
 

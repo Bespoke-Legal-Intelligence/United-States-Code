@@ -10,7 +10,7 @@ Subject to the requirements of the Fish and Wildlife Coordination Act (16 U.S.C.
 
 &emsp;(3) increase the awareness and understanding of the hatchery and the System, through the development, publication, or distribution of educational materials and products;
 
-&emsp;(4) advance education concerning the purposes of the hatchery and the mission of theSystem, through the use of the hatchery as an outdoor classroom and development of other educational programs; or
+&emsp;(4) advance education concerning the purposes of the hatchery and the mission of the System, through the use of the hatchery as an outdoor classroom and development of other educational programs; or
 
 &emsp;(5) contribute financial resources to the hatchery, under the terms that require that the net revenues be used exclusively for the benefit of the hatchery, through donation of net revenues from the sale of educational materials and products and through encouragement of gifts, devises, and bequests.
 

@@ -90,7 +90,7 @@ Public transportation performance targets.—In urbanized areas not represented 
 
 &emsp;&emsp;(C)
 
-Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to chapter 53 of title 49 by providers of public transportation in urbanized areas not represented by a metropolitan planning organization required as part of a performance-based program.
+Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developedpursuant to chapter 53 of title 49 by providers of public transportation in urbanized areas not represented by a metropolitan planning organization required as part of a performance-based program.
 
 &emsp;&emsp;(D)
 
@@ -164,7 +164,7 @@ In general.—In developing the statewide transportation plan, the State shall p
 
 &emsp;&emsp;&emsp;(i) nonmetropolitan local elected officials or, if applicable, through regional transportation planning organizations described in subsection (m), an opportunity to participate in accordance with subparagraph (B)(i); and
 
-&emsp;&emsp;&emsp;(ii) citizens, affected public agencies, representatives of public transportationemployees, freight shippers, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
+&emsp;&emsp;&emsp;(ii) citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
 
 &emsp;&emsp;(B)
 
@@ -188,7 +188,7 @@ In general.—A long-range transportation plan shall include a discussion of pot
 
 &emsp;&emsp;(B)
 
-Consultation.—The discussion shall be developed in consultation with Federal, State, and tribal wildlife, land management, and regulatory agencies.
+Consultation.—The discussion shall be developed in consultation with Federal,State, and tribal wildlife, land management, and regulatory agencies.
 
 &emsp;(5)
 
@@ -360,7 +360,7 @@ Other projects.—Projects carried out in areas with populations of less than 50
 
 &emsp;(7)
 
-Transportation improvement program approval.—Every 4 years, a transportationimprovement program developed under this subsection shall be reviewed and approved by the Secretary if based on a current planning finding.
+Transportation improvement program approval.—Every 4 years, a transportation improvement program developed under this subsection shall be reviewed and approved by the Secretary if based on a current planning finding.
 
 &emsp;(8)
 
@@ -386,7 +386,7 @@ In general.—The Secretary shall establish criteria to evaluate the effectivene
 
 &emsp;&emsp;&emsp;(i) has developed an investment process that relies on public input and awareness to ensure that investments are transparent and accountable; and
 
-&emsp;&emsp;&emsp;(ii) provides reports allowing the public to access the information being collected in a format that allows the public to meaningfully assess the performance of the State.
+&emsp;&emsp;&emsp;(ii) provides reports allowing the public to access the information being collected in a format that allows the public tomeaningfully assess the performance of the State.
 
 &emsp;(2)
 
@@ -464,7 +464,7 @@ Duties.—The duties of a regional transportation planning organization shall in
 
 States without regional transportation planning organizations.—If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514.)
+(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I,§§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514.)
 
 #### References in Text
 
@@ -500,7 +500,7 @@ Subsec. (d). Pub. L. 105–178, §1204(d), reenacted heading without change and 
 
 &emsp;"(3) The concerns of Indian tribal governments having jurisdiction over lands within the boundaries of the State."
 
-Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment,text read as follows: "The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan."
+Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan."
 
 Subsec. (f). Pub. L. 105–178, §1204(f), amended heading and text of subsec. (f) generally. Prior to amendment, text related to transportation improvement programs, including program development, requirement for inclusion of certain projects for State transportation improvement program, project selection for areas less than 50,000 population, and requirement of biennial review and approval.
 
@@ -514,7 +514,7 @@ Subsec. (h). Pub. L. 103–429, §3(6)(B), substituted "sections 5303–5306 and
 
 <b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: "Traffic operations improvement programs", and amended text generally. Prior to amendment, text read as follows:
 
-"(a) The Congress hereby finds and declares it to be in the national interest that each State shall have a continuing program designed to reduce traffic congestion and facilitate the flow of traffic.
+"(a) The Congress hereby finds and declares it to be in the national interest that each State shall have acontinuing program designed to reduce traffic congestion and facilitate the flow of traffic.
 
 "(b) The Secretary may approve under this section any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems."
 
@@ -628,7 +628,7 @@ Establishment.—The Secretary shall establish an advanced travel forecasting pr
 
 &emsp;"(1) to provide for completion of the advanced transportation model developed under the Transportation Analysis Simulation System (referred to in this section as 'TRANSIMS'); and
 
-&emsp;"(2) to provide support for early deployment of the advanced transportation modeling computer software and graphics package developed under TRANSIMS and the program established under this section to States, local governments, and metropolitan planning organizations with responsibility for travel modeling.
+&emsp;"(2) to provide support for early deployment of the advanced transportation modeling computer softwareand graphics package developed under TRANSIMS and the program established under this section to States, local governments, and metropolitan planning organizations with responsibility for travel modeling.
 
 "(b)
 

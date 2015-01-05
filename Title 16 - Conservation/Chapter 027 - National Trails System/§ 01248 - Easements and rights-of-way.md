@@ -38,7 +38,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 > Prior to conducting any such sale, the Secretary shall take appropriate steps to afford a unit of State or local government or any other entity an opportunity to seek to obtain such portion pursuant to paragraph (1) of this subsection.
 
-(3) All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in section 460l–5 of this title.
+(3) All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in section 200302 of title 54.
 
 (4) The Secretary of the Interior shall annually report to the Congress the total proceeds from sales under paragraph (2) during the preceding fiscal year. Such report shall be included in the President's annual budget submitted to the Congress.
 
@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;(2) The term "public lands" has the same meaning given such term in the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
 
-(Pub. L. 90–543, §9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, §3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, §317(2), Dec. 29, 1995, 109 Stat. 949.)
+(Pub. L. 90–543, §9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, §3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, §317(2), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, §5(d)(25), Dec. 19, 2014, 128 Stat. 3266.)
 
 #### References in Text
 
@@ -59,6 +59,8 @@ The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(3). Pub. L. 113–287 substituted "section 200302 of title 54" for "section 460l–5 of this title".
 
 <b>1995</b>—Subsec. (b). Pub. L. 104–88 substituted "Surface Transportation Board" for "Interstate Commerce Commission".
 
@@ -90,7 +92,7 @@ Pub. L. 100–470, §2, Oct. 4, 1988, 102 Stat. 2281, provided that: "Congress h
 
 Pub. L. 100–470, §5, Oct. 4, 1988, 102 Stat. 2283, provided that:
 
-"(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set out as notes under this section and section 1241 of thistitle\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
+"(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set outas notes under this section and section 1241 of this title\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
 
 "(b) Nothing in this Act shall be construed to expand or diminish existing condemnation authorities contained in the National Trails System Act, as amended \[16 U.S.C. 1241 et seq.\]."
 

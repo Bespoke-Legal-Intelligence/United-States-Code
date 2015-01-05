@@ -6,9 +6,9 @@ There is hereby created a Commission to be known as the Equal Employment Opportu
 
 #### (b) General Counsel; appointment; term; duties; representation by attorneys and Attorney General
 
-(1) There shall be a General Counsel of the Commission appointed by the President, by and with the advice and consent of the Senate, for a term of four years. The General Counsel shall have responsibility for the conduct of litigation as provided in sections 2000e–5 and 2000e–6 of this title. The General Counsel shall have such other duties as the Commission may prescribe or as may be provided by law and shall concur withthe Chairman of the Commission on the appointment and supervision of regional attorneys. The General Counsel of the Commission on the effective date of this Act shall continue in such position and perform the functions specified in this subsection until a successor is appointed and qualified.
+(1) There shall be a General Counsel of the Commission appointed by the President, by and with the advice and consent of the Senate, for a term of four years. The General Counsel shall have responsibility for the conduct of litigation as provided in sections 2000e–5 and 2000e–6 of this title. The General Counsel shall have such other duties as the Commission may prescribe or as may be provided by law and shall concur with the Chairman of the Commission on the appointment and supervision of regional attorneys. The General Counsel of the Commission on the effective date of this Act shall continue in such position and perform the functions specified in this subsection until a successor is appointed and qualified.
 
-(2) Attorneys appointed under this section may, at the direction of the Commission, appear for and represent the Commission in any case in court, provided that the Attorney General shall conduct all litigation to which the Commission is a party in the Supreme Court pursuant to this subchapter.
+(2) Attorneys appointed under this section may, at the direction of the Commission, appear for and represent the Commission in any case in court, provided that the Attorney General shallconduct all litigation to which the Commission is a party in the Supreme Court pursuant to this subchapter.
 
 #### (c) Exercise of powers during vacancy; quorum
 
@@ -190,7 +190,7 @@ So much of the personnel, property, records and unexpended balances of appropria
 
 This Reorganization Plan shall become effective at such time or times, on or before October 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5 of the United States Code.
 
-\[Pursuant to Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053, the transfer to the Equal Employment Opportunity Commission of certain functions of the Civil Service Commission relating to enforcement of equalemployment opportunity programs as provided by sections 1 to 4 of this Reorg. Plan is effective Jan. 1, 1979.\]
+\[Pursuant to Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053, the transfer to the Equal Employment Opportunity Commission of certain functions of the Civil Service Commission relating to enforcement of equal employment opportunity programs as provided by sections 1 to 4 of this Reorg. Plan is effective Jan. 1, 1979.\]
 
 \[Pursuant to Ex. Ord. No. 12144, June 22, 1979, 44 F.R. 37193, sections 1 and 2 of this Reorg. Plan are effective July 1, 1979, except for transfer of functions already effective Jan. 1, 1979, under Ex. Ord. No. 12106 above.\]
 
@@ -258,7 +258,7 @@ These proposed transfers and consolidations reduce from fifteen to three the num
 
 Each element of my Plan is important to the success of the entire proposal.
 
-By abolishing the Equal Employment Opportunity Coordinating Council and transferring its responsibilities to the EEOC, this plan places the Commission at the center of equal employment opportunity enforcement. With these new responsibilities, the EEOC can give coherence and direction to the government's efforts by developing strong uniform enforcement standards to apply throughout the government: standardized data collection procedures, joint training programs, programs to ensure the sharing of enforcement related data among agencies, and methods and priorities for complaint and compliance reviews. Such direction has been absent in the Equal Employment Opportunity Coordinating Council.
+By abolishing the Equal Employment Opportunity Coordinating Council and transferring its responsibilities to the EEOC, this plan places the Commission at the center of equal employment opportunity enforcement. With these new responsibilities, the EEOC can give coherence and direction to the government's efforts by developing strong uniform enforcement standards to apply throughout the government: standardizeddata collection procedures, joint training programs, programs to ensure the sharing of enforcement related data among agencies, and methods and priorities for complaint and compliance reviews. Such direction has been absent in the Equal Employment Opportunity Coordinating Council.
 
 It should be stressed, however, that affected agencies will be consulted before EEOC takes any action. When the Plan has been approved, I intend to issue an Executive Order which will provide for consultation, as well as a procedure for reviewing major disputed issues within the Executive Office of the President. The Attorney General's responsibility to advise the Executive Branch on legal issues will also be preserved.
 
@@ -298,7 +298,7 @@ By the authority vested in me as President of the United States of America by Se
 
 1–101. The transfer to the Equal Employment Opportunity Commission of certain functions of the Civil Service Commission, relating to enforcement of equal employment opportunity programs as provided by Sections 1, 2, 3 and 4 of Reorganization Plan No. 1 of 1978 (43 FR 19807) shall be effective on January 1, 1979.
 
-1–102. Executive Order No. 11478, as amended \[set out as a note under section 2000e of this title\], is further amended by deleting the preamble, by substituting "national origin, handicap, or age" for "or national origin" in the first sentence of Section 1, and revising Sections 3, 4, and 5 to read as follows:
+1–102. Executive Order No. 11478, as amended \[set out as a note under section 2000e of this title\], is furtheramended by deleting the preamble, by substituting "national origin, handicap, or age" for "or national origin" in the first sentence of Section 1, and revising Sections 3, 4, and 5 to read as follows:
 
 "
 

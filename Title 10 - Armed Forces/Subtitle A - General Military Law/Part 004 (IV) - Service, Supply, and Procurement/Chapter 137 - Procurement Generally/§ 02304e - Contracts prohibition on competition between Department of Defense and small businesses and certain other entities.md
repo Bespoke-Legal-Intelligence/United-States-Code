@@ -2,7 +2,7 @@
 
 (a)
 
-Exclusion.—In any case in which the Secretary of Defense plans to use competitive procedures for a procurement, if the procurement is to be conducted as described in subsection (b), then the Secretary shall exclude the Department of Defense from competing in the procurement.
+Exclusion.—In any case in which the Secretary of Defense plans to use competitive procedures for a procurement, if the procurement is to be conducted as described in subsection (b),then the Secretary shall exclude the Department of Defense from competing in the procurement.
 
 (b)
 

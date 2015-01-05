@@ -54,7 +54,7 @@ In entering into a Compact, the United States shall seek to ensure that the gove
 
 #### (e) Consultation
 
-During any discussions with a country for the purpose of entering into a Compact with thecountry, officials of the Corporation participating in such discussions shall, at a minimum, consult with appropriate officials of the United States Agency for International Development, particularly with those officials responsible for the appropriate region or country on development issues related to the Compact.
+During any discussions with a country for the purpose of entering into a Compact with the country, officials of the Corporation participating in such discussions shall, at a minimum, consult with appropriate officials of the United States Agency for International Development, particularly with those officials responsible for the appropriate region or country on development issues related to the Compact.
 
 #### (f) Coordination with other donors
 

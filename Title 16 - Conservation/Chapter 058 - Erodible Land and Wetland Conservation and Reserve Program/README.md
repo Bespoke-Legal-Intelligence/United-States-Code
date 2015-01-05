@@ -37,10 +37,9 @@
 
 #### subpart a—general provisions
 
-|  |  |
-| :--- | ---: |
-| [3830\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20a%20-%20General%20Provisions/%C2%A7%2003830%20-%20Comprehensive%20conservation%20enhancement%20program.md) | Comprehensive conservation enhancement program. |
-| [3830a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20a%20-%20General%20Provisions/%C2%A7%2003830a%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20I%2C%20%C2%A71613%28j%29%283%29%2C%20title%20II%2C%20%C2%A72006%28c%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20221%2C%20237.md) | Repealed. |
+|  |
+| :--- |
+| 3830, 3830a. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,27 +48,21 @@
 |  |  |
 | :--- | ---: |
 | [3831\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831%20-%20Conservation%20reserve.md) | Conservation reserve. |
-| [3831a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831a%20-%20Emergency%20forestry%20conservation%20reserve%20program.md) | Emergency forestry conservation reserve program. |
-| [3831b.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831b%20-%20Pilot%20program%20for%20enrollment%20of%20wetland%20and%20buffer%20acreage%20in%20conservation%20reserve.md) | Pilot program for enrollment of wetland and buffer acreage in conservation reserve. |
+| [3831a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72702%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20766.md) | Repealed. |
+| [3831b.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831b%20-%20Farmable%20wetland%20program.md) | Farmable wetland program. |
 | [3832\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003832%20-%20Duties%20of%20owners%20and%20operators.md) | Duties of owners and operators. |
 | [3833\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003833%20-%20Duties%20of%20the%20Secretary.md) | Duties of the Secretary. |
 | [3834\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003834%20-%20Payments.md) | Payments. |
 | [3835\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003835%20-%20Contracts.md) | Contracts. |
-| [3835a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003835a%20-%20Conversion%20of%20land%20subject%20to%20contract%20to%20other%20conserving%20uses.md) | Conversion of land subject to contract to other conserving uses. |
+| [3835a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003835a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72007%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20720.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### subpart c—wetlands reserve program
 
-|  |  |
-| :--- | ---: |
-| [3837\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20c%20-%20Wetlands%20Reserve%20Program/%C2%A7%2003837%20-%20Wetlands%20reserve%20program.md) | Wetlands reserve program. |
-| [3837a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20c%20-%20Wetlands%20Reserve%20Program/%C2%A7%2003837a%20-%20Easements%20and%20agreements.md) | Easements and agreements. |
-| [3837b.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20c%20-%20Wetlands%20Reserve%20Program/%C2%A7%2003837b%20-%20Duties%20of%20owners.md) | Duties of owners. |
-| [3837c.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20c%20-%20Wetlands%20Reserve%20Program/%C2%A7%2003837c%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
-| [3837d.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20c%20-%20Wetlands%20Reserve%20Program/%C2%A7%2003837d%20-%20Payments.md) | Payments. |
-| [3837e.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20c%20-%20Wetlands%20Reserve%20Program/%C2%A7%2003837e%20-%20Changes%20in%20ownership%3B%20agreement%20modification%3B%20termination.md) | Changes in ownership; agreement modification; termination. |
-| [3837f.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20c%20-%20Wetlands%20Reserve%20Program/%C2%A7%2003837f%20-%20Administration%20and%20funding.md) | Administration and funding. |
+|  |
+| :--- |
+| 3837 to 3837f. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -99,34 +92,25 @@
 
 #### subpart c—farmland protection program
 
-|  |  |
-| :--- | ---: |
-| [3838h.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20c%20-%20Farmland%20Protection%20Program/%C2%A7%2003838h%20-%20Definitions.md) | Definitions. |
-| [3838i.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20c%20-%20Farmland%20Protection%20Program/%C2%A7%2003838i%20-%20Farmland%20protection%20program.md) | Farmland protection program. |
-| [3838j.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20c%20-%20Farmland%20Protection%20Program/%C2%A7%2003838j%20-%20Farm%20viability%20program.md) | Farm viability program. |
+|  |
+| :--- |
+| 3838h to 3838j. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### subpart d—grassland reserve program
 
-|  |  |
-| :--- | ---: |
-| [3838n.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20d%20-%20Grassland%20Reserve%20Program/%C2%A7%2003838n%20-%20Grassland%20reserve%20program.md) | Grassland reserve program. |
-| 3838<i>o.</i> | Duties of owners and operators. |
-| [3838p.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20d%20-%20Grassland%20Reserve%20Program/%C2%A7%2003838p%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
-| [3838q.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20d%20-%20Grassland%20Reserve%20Program/%C2%A7%2003838q%20-%20Delegation%20of%20duty.md) | Delegation of duty. |
+|  |
+| :--- |
+| 3838n to 3838q. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part III—Environmental Easement Program
 
-|  |  |
-| :--- | ---: |
-| [3839\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20003%20%28III%29%20-%20Environmental%20Easement%20Program/%C2%A7%2003839%20-%20Environmental%20easement%20program.md) | Environmental easement program. |
-| [3839a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20003%20%28III%29%20-%20Environmental%20Easement%20Program/%C2%A7%2003839a%20-%20Duties%20of%20owners%3B%20components%20of%20plan.md) | Duties of owners; components of plan. |
-| [3839b.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20003%20%28III%29%20-%20Environmental%20Easement%20Program/%C2%A7%2003839b%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
-| [3839c.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20003%20%28III%29%20-%20Environmental%20Easement%20Program/%C2%A7%2003839c%20-%20Payments.md) | Payments. |
-| [3839d.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20003%20%28III%29%20-%20Environmental%20Easement%20Program/%C2%A7%2003839d%20-%20Changes%20in%20ownership%3B%20modification%20of%20easement.md) | Changes in ownership; modification of easement. |
+|  |
+| :--- |
+| 3839 to 3839d. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -143,7 +127,7 @@
 | 3839aa–6. | Duties of the Secretary. |
 | 3839aa–7. | Limitation on payments. |
 | 3839aa–8. | Conservation innovation grants and payments. |
-| 3839aa–9. | Agricultural water enhancement program. |
+| 3839aa–9. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -152,11 +136,11 @@
 |  |  |
 | :--- | ---: |
 | [3839bb.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20005%20%28V%29%20-%20Other%20Conservation%20Programs/%C2%A7%2003839bb%20-%20Conservation%20of%20private%20grazing%20land.md) | Conservation of private grazing land. |
-| 3839bb–1. | Wildlife habitat incentive program. |
+| 3839bb–1. | Repealed. |
 | 3839bb–2. | Grassroots source water protection program. |
-| 3839bb–3. | Great Lakes basin program for soil erosion and sediment control. |
-| 3839bb–4. | Chesapeake Bay watershed. |
+| 3839bb–3, 3839bb–4. Repealed. |  |
 | 3839bb–5. | Voluntary public access and habitat incentive program. |
+| 3839bb–6. | Terminal lakes assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -166,9 +150,10 @@
 | :--- | ---: |
 | [3841\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003841%20-%20Commodity%20Credit%20Corporation.md) | Commodity Credit Corporation. |
 | [3842\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003842%20-%20Delivery%20of%20technical%20assistance.md) | Delivery of technical assistance. |
-| [3843\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003843%20-%20Cooperative%20conservation%20partnership%20initiative.md) | Cooperative conservation partnership initiative. |
+| [3843\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003843%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72710%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20770.md) | Repealed. |
 | [3844\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003844%20-%20Administrative%20requirements%20for%20conservation%20programs.md) | Administrative requirements for conservation programs. |
 | [3845\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003845%20-%20Environmental%20services%20markets.md) | Environmental services markets. |
+| [3846\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003846%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -177,6 +162,7 @@
 |  |  |
 | :--- | ---: |
 | [3851\.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Other%20Conservation%20Programs/%C2%A7%2003851%20-%20Agriculture%20conservation%20experienced%20services%20program.md) | Agriculture conservation experienced services program. |
+| [3851a.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Other%20Conservation%20Programs/%C2%A7%2003851a%20-%20Forest%20Service%20participation%20in%20ACES%20Program.md) | Forest Service participation in ACES Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -186,6 +172,32 @@
 | :--- | ---: |
 | [3861\.](Subchapter%20006%20%28VI%29%20-%20State%20Technical%20Committees/%C2%A7%2003861%20-%20Establishment%20of%20State%20technical%20committees.md) | Establishment of State technical committees. |
 | [3862\.](Subchapter%20006%20%28VI%29%20-%20State%20Technical%20Committees/%C2%A7%2003862%20-%20Responsibilities.md) | Responsibilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VII—AGRICULTURAL CONSERVATION EASEMENT PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [3865\.](Subchapter%20007%20%28VII%29%20-%20Agricultural%20Conservation%20Easement%20Program/%C2%A7%2003865%20-%20Establishment%20and%20purposes.md) | Establishment and purposes. |
+| [3865a.](Subchapter%20007%20%28VII%29%20-%20Agricultural%20Conservation%20Easement%20Program/%C2%A7%2003865a%20-%20Definitions.md) | Definitions. |
+| [3865b.](Subchapter%20007%20%28VII%29%20-%20Agricultural%20Conservation%20Easement%20Program/%C2%A7%2003865b%20-%20Agricultural%20land%20easements.md) | Agricultural land easements. |
+| [3865c.](Subchapter%20007%20%28VII%29%20-%20Agricultural%20Conservation%20Easement%20Program/%C2%A7%2003865c%20-%20Wetland%20reserve%20easements.md) | Wetland reserve easements. |
+| [3865d.](Subchapter%20007%20%28VII%29%20-%20Agricultural%20Conservation%20Easement%20Program/%C2%A7%2003865d%20-%20Administration.md) | Administration. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VIII—REGIONAL CONSERVATION PARTNERSHIP PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [3871\.](Subchapter%20008%20%28VIII%29%20-%20Regional%20Conservation%20Partnership%20Program/%C2%A7%2003871%20-%20Establishment%20and%20purposes.md) | Establishment and purposes. |
+| [3871a.](Subchapter%20008%20%28VIII%29%20-%20Regional%20Conservation%20Partnership%20Program/%C2%A7%2003871a%20-%20Definitions.md) | Definitions. |
+| [3871b.](Subchapter%20008%20%28VIII%29%20-%20Regional%20Conservation%20Partnership%20Program/%C2%A7%2003871b%20-%20Regional%20conservation%20partnerships.md) | Regional conservation partnerships. |
+| [3871c.](Subchapter%20008%20%28VIII%29%20-%20Regional%20Conservation%20Partnership%20Program/%C2%A7%2003871c%20-%20Assistance%20to%20producers.md) | Assistance to producers. |
+| [3871d.](Subchapter%20008%20%28VIII%29%20-%20Regional%20Conservation%20Partnership%20Program/%C2%A7%2003871d%20-%20Funding.md) | Funding. |
+| [3871e.](Subchapter%20008%20%28VIII%29%20-%20Regional%20Conservation%20Partnership%20Program/%C2%A7%2003871e%20-%20Administration.md) | Administration. |
+| [3871f.](Subchapter%20008%20%28VIII%29%20-%20Regional%20Conservation%20Partnership%20Program/%C2%A7%2003871f%20-%20Critical%20conservation%20areas.md) | Critical conservation areas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -201,3 +213,5 @@
 - [Subchapter 005 (V) - Funding and Administration](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/README.md)
 - [Subchapter 005&#8211;A (V&#8211;A) - Other Conservation Programs](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Other%20Conservation%20Programs/README.md)
 - [Subchapter 006 (VI) - State Technical Committees](Subchapter%20006%20%28VI%29%20-%20State%20Technical%20Committees/README.md)
+- [Subchapter 007 (VII) - Agricultural Conservation Easement Program](Subchapter%20007%20%28VII%29%20-%20Agricultural%20Conservation%20Easement%20Program/README.md)
+- [Subchapter 008 (VIII) - Regional Conservation Partnership Program](Subchapter%20008%20%28VIII%29%20-%20Regional%20Conservation%20Partnership%20Program/README.md)

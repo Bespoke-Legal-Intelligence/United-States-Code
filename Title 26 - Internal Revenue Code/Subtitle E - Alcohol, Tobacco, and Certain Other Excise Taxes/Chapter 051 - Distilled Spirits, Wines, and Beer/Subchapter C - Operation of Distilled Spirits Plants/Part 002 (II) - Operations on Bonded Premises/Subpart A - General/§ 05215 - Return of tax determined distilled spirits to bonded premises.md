@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 95–176 redesignated former subsec. (b) as par. (1) and ad
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–659, §2(c)(1), struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
 
-Subsec. (b). Pub. L. 91–659, §2(c)(2), (3), repealed subsec. (b) which provided for definition of "original container in which such distilled spirits were withdrawn from bonded premises" in the case of distilled spirits withdrawn by pipeline. Former subsec. (c) redesignated (b).
+Subsec. (b). Pub. L. 91–659, §2(c)(2), (3), repealed subsec. (b) which provided for definition of "original container in which such distilled spirits were withdrawn from bonded premises" in the case of distilled spiritswithdrawn by pipeline. Former subsec. (c) redesignated (b).
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–44 inserted reference to destruction to redistillation, denaturation, and mingling in second sentence on list of options which might be used in disposing of returned distilled spirits.
 

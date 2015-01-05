@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(3) With the free and fair election of February 18, 2008, Pakistan returned to civilian rule, reversing years of political tension and mounting popular concern over military rule and Pakistan's own democratic reform and political development.
 
-&emsp;(4) Pakistan is a major non-NATO ally of the United States and has been a valuable partner in the battle against al Qaeda and the Taliban,but much more remains to be accomplished by both nations.
+&emsp;(4) Pakistan is a major non-NATO ally of the United States and has been a valuable partner in the battle against al Qaeda and the Taliban, but much more remains to be accomplished by both nations.
 
 &emsp;(5) The struggle against al Qaeda, the Taliban, and affiliated terrorist groups has led to the deaths of several thousand Pakistani civilians and members of the security forces of Pakistan over the past seven years.
 

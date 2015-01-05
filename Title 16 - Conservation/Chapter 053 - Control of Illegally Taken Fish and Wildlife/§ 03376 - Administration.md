@@ -14,7 +14,7 @@ Beginning in fiscal year 1983, to the extent and in the amounts provided in adva
 
 The Secretary of Agriculture and the Secretary of the Interior, after consultation with the appropriate agencies, shall jointly promulgate regulations to define the terms used in section 3371(f)(2)(A) of this title for the purposes of enforcement under this chapter.
 
-(Pub. L. 97–79, §7, Nov. 16, 1981, 95 Stat. 1078; Pub. L. 110–234, title VIII, §8204(e), May 22, 2008,122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8204(e), June 18, 2008, 122 Stat. 1664, 2056.)
+(Pub. L. 97–79, §7, Nov. 16, 1981, 95 Stat. 1078; Pub. L. 110–234, title VIII, §8204(e), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8204(e), June 18, 2008, 122 Stat. 1664, 2056.)
 
 #### References in Text
 

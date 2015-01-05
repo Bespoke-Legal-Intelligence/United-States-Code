@@ -22,7 +22,7 @@ Any person who—
 
 #### (5) False, forged, or fraudulent bond
 
-&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processor of distilled spirits, and gives any false, forged, or fraudulent bond, under subchapter B; or
+&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processorof distilled spirits, and gives any false, forged, or fraudulent bond, under subchapter B; or
 
 #### (6) Distilling on prohibited premises
 

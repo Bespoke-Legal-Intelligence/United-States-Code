@@ -10,7 +10,7 @@
 - [&sect; 03413 - Office for Civil Rights](%C2%A7%2003413%20-%20Office%20for%20Civil%20Rights.md)
 - [&sect; 03414 - Office of Elementary and Secondary Education; inclusion of Office of Migrant Education](%C2%A7%2003414%20-%20Office%20of%20Elementary%20and%20Secondary%20Education%3B%20inclusion%20of%20Office%20of%20Migrant%20Education.md)
 - [&sect; 03415 - Office of Postsecondary Education](%C2%A7%2003415%20-%20Office%20of%20Postsecondary%20Education.md)
-- [&sect; 03416 - Office of Vocational and Adult Education](%C2%A7%2003416%20-%20Office%20of%20Vocational%20and%20Adult%20Education.md)
+- [&sect; 03416 - Office of Career, Technical, and Adult Education](%C2%A7%2003416%20-%20Office%20of%20Career%2C%20Technical%2C%20and%20Adult%20Education.md)
 - [&sect; 03417 - Office of Special Education and Rehabilitative Services](%C2%A7%2003417%20-%20Office%20of%20Special%20Education%20and%20Rehabilitative%20Services.md)
 - [&sect; 03418 - Repealed. Pub. L. 99&#8211;145, title XII, &sect;1204(a)(1), Nov. 8, 1985, 99 Stat. 720](%C2%A7%2003418%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20XII%2C%20%C2%A71204%28a%29%281%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20720.md)
 - [&sect; 03419 - Institute of Education Sciences](%C2%A7%2003419%20-%20Institute%20of%20Education%20Sciences.md)

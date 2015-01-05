@@ -1,6 +1,6 @@
 ### §360n–1. Priority review for qualified infectious disease products
 
-If the Secretary designates a drug under section 355f(d) of this title as a qualified infectiousdisease product, then the Secretary shall give priority review to any application submitted for approval for such drug under section 355(b) of this title.
+If the Secretary designates a drug under section 355f(d) of this title as a qualified infectious disease product, then the Secretary shall give priority review to any application submitted for approval for such drug under section 355(b) of this title.
 
 (June 25, 1938, ch. 675, §524A, as added Pub. L. 112–144, title VIII, §802(a), July 9, 2012, 126 Stat. 1079.)
 

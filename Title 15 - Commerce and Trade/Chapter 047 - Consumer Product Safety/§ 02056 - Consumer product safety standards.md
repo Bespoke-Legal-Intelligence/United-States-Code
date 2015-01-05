@@ -40,7 +40,7 @@ In subsec. (c), "section 3324(a) and (b) of title 31" substituted for "section 3
 
 Subsec. (b). Pub. L. 97–35 amended subsec. (b) generally, substituting provisions relating to the reliance by the Commission upon voluntary standards for provisions prescribing procedure for development of consumer product safety standards.
 
-Subsec. (c). Pub. L. 97–35 amended subsec. (c) generally, substituting provisions relating to contributionby the Commission to the development cost of consumer safety standards for provisions relating to publication of proposed safety rules developed from existing standards.
+Subsec. (c). Pub. L. 97–35 amended subsec. (c) generally, substituting provisions relating to contribution by the Commission to the development cost of consumer safety standards for provisions relating to publication of proposed safety rules developed from existing standards.
 
 Subsec. (d). Pub. L. 97–35 struck out subsec. (d) which related to the acceptance of offers to develop proposed standards and the Commission's contribution to development costs.
 
@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after pub
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### Children's Gasoline Burn Prevention
 

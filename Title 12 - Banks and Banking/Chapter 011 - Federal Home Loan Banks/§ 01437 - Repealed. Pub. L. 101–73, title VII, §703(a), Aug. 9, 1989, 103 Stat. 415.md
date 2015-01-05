@@ -168,15 +168,9 @@ Regulations Relating to Insurance Functions.—All regulations and orders of the
 
 &emsp;"(2) the administration of the insurance fund of the Federal Savings and Loan Insurance Corporation,
 
-> shall remain in effect according to the terms of such regulations and orders and shall be enforceable by the Federal Deposit Insurance Corporation unless determined otherwise by such Corporation after consultation with the Director of the Office of Thrift Supervision and, with respect to regulations and orders relating to the scope of deposit insurance coverage, pursuant to subsection (c).
+> shall remain in effect according to the terms of such regulations and orders and shall be enforceable by the Federal Deposit Insurance Corporation unless determined otherwise by such Corporation after consultation with the Comptroller of the Currency and, with respect to regulations and orders relating to the scope of deposit insurance coverage, pursuant to subsection (c).
 
-"(b)
-
-Identification of Regulations Which Remain in Effect Pursuant to This Section.—Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Director of the Office of Thrift Supervision and the Chairperson of the Federal Deposit Insurance Corporation shall—
-
-&emsp;"(1) identify the regulations and orders referred to in subsection (a) of this section in accordance with the allocation of authority between them under this Act \[see Tables for classification\] and the amendments made by this Act; and
-
-&emsp;"(2) promptly publish notice of such identification in the Federal Register.
+"\[(b) Repealed. Pub. L. 111–203, title III, §367(5)(B), July 21, 2010, 124 Stat. 1556.\]
 
 "(c)
 
@@ -244,25 +238,25 @@ Treatment of References in Adjustable Rate Mortgage Instruments.—
 
 &emsp;"(1)
 
-In general.—For purposes of adjustable rate mortgage instruments that are in effect as of the date of enactment of this Act \[Aug. 9, 1989\], any reference in the instrument to the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board, or institutions insured by the Federal Savings and Loan Insurance Corporation before such date shall be treated as a reference to the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, the Office of Thrift Supervision, or institutions which are members of the Savings Association Insurance Fund, as appropriate on the basis of the transfer of functions pursuant to this Act \[see Tables for classification\], unless the context of the reference requires otherwise.
+In general.—For purposes of adjustable rate mortgage instruments that are in effect as of the date of enactment of this Act \[Aug. 9, 1989\], any reference in the instrument to the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board, or institutions insured by the Federal Savings and Loan Insurance Corporation before such date shall be treated as a reference to the Federal Deposit Insurance Corporation, the Federal Housing Finance Agency, the Comptroller of the Currency, or institutions which are members of the Savings Association Insurance Fund, as appropriate on the basis of the transfer of functions pursuant to this Act \[see Tables for classification\], unless the context of the reference requires otherwise.
 
 &emsp;"(2)
 
 Substitution for indexes.—If any index used to calculate the applicable interest rate on any adjustable rate mortgage instrument is no longer calculated and made available as a direct or indirect result of the enactment of this Act, any index—
 
-&emsp;&emsp;"(A) made available by the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board pursuant to paragraph (3); or
+&emsp;&emsp;"(A) made available by the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Agency pursuant to paragraph (3); or
 
-&emsp;&emsp;"(B) determined by the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board, pursuant to paragraph (4), to be substantially similar to the index which is no longer calculated or made available,
+&emsp;&emsp;"(B) determined by the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Agency, pursuant to paragraph (4), to be substantially similar to the index which is no longer calculated or made available,
 
 > &emsp;may be substituted by the holder of any such adjustable rate mortgage instrument upon notice to the borrower.
 
 &emsp;"(3)
 
-Agency action required to provide continued availability of indexes.—Promptly after the enactment of this subsection \[Aug. 9, 1989\], the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board shall take such action as may be necessary to assure that the indexes prepared by the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board, and the Federal home loan banks immediately prior to the enactment of this subsection and used to calculate the interest rate on adjustable rate mortgage instruments continue to be available.
+Agency action required to provide continued availability of indexes.—Promptly after the enactment of this subsection \[Aug. 9, 1989\], the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Agency shall take such action as may be necessary to assure that the indexes prepared by the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board, and the Federal home loan banks immediately prior to the enactment of this subsection and used to calculate the interest rate on adjustable rate mortgage instruments continue to be available.
 
 &emsp;"(4)
 
-Requirements relating to substitute indexes.—If any agency can no longer make available an index pursuant to paragraph (3), an index that is substantially similar to such index may be substituted for such index for purposes of paragraph (2) if the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board, as the case may be, determines, after notice and opportunity for comment, that—
+Requirements relating to substitute indexes.—If any agency can no longer make available an index pursuant to paragraph (3), an index that is substantially similar to such index may be substituted for such index for purposes of paragraph (2) if the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Agency,as the case may be, determines, after notice and opportunity for comment, that—
 
 &emsp;&emsp;"(A) the new index is based upon data substantially similar to that of the original index; and
 
@@ -332,20 +326,6 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 "Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shall provide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation."
 
-\[Pub. L. 111–203, title III, §§351, 367(5), July 21, 2010, 124 Stat. 1546, 1556, effective on the transfer date (defined in section 5301 of this title), section 402 of Pub. L. 101–73, set out above, is amended:
-
-(A) in subsection (a), by striking "Director of the Office of Thrift Supervision" and inserting "Comptroller of the Currency";
-
-(B) by striking subsection (b);
-
-(C) in subsection (e)—
-
-&emsp;(i) in paragraph (1), by striking "Office of Thrift Supervision" and inserting "Comptroller of the Currency"; and
-
-&emsp;(ii) in each of paragraphs (2), (3), and (4), by striking "Director of the Office of Thrift Supervision" each place that term appears and inserting "Comptroller of the Currency"; and
-
-(D) by striking "Federal Housing Finance Board" each place that term appears and inserting "Federal Housing Finance Agency".\]
-
 #### Transferred Employees of Federal Home Loan Banks and Joint Offices
 
 Pub. L. 101–73, title VII, §722, Aug. 9, 1989, 103 Stat. 426, provided that:
@@ -394,7 +374,7 @@ Federal Home Loan Banks' Share of Administrative Expenses.—The Federal Home Lo
 
 "(b)
 
-Compensation of Supervisory and Examinations Employees.—The Federal Home Loan Banks shall continue to pay the compensation of employees of the Federal Home Loan Banks or the joint offices of such banks who, on the day before the date of the enactment of this Act \[Aug. 9, 1989\], are performing supervisory and examination functions until such supervisory and examination functions are transferred under this Act \[see Tables for classification\]. Thereafter, the obligation of the Federal Home Loan Banks hereunder to pay such applicable compensation shall continue until the later of—
+Compensation of Supervisory and Examinations Employees.—The Federal Home Loan Banks shall continue to pay the compensation of employees of the Federal Home Loan Banks or the joint offices ofsuch banks who, on the day before the date of the enactment of this Act \[Aug. 9, 1989\], are performing supervisory and examination functions until such supervisory and examination functions are transferred under this Act \[see Tables for classification\]. Thereafter, the obligation of the Federal Home Loan Banks hereunder to pay such applicable compensation shall continue until the later of—
 
 &emsp;"(1) the date which is 120 days after the date of transfer of such supervisory and examination functions to the Office of Thrift Supervision, or
 
@@ -408,7 +388,7 @@ Facilities and Support Services.—Until December 31, 1990, the Federal Home Loa
 
 "(d)
 
-Principal Supervisory Agent.—Beginning on the date of enactment of this Act \[Aug. 9, 1989\] until the Director of the Office of Thrift Supervision shall otherwise provide, the Principal Supervisory Agent for each Federal Home Loan Bank district shall be the senior supervisory official (other than the President of the Federal Home Loan Bank) employed by the Federal Home Loan Bank in such district on the day before thedate of the enactment of this Act, and such employees performing supervisory and examination functions shall continue to be responsible for the supervision and examination of savings associations within such district."
+Principal Supervisory Agent.—Beginning on the date of enactment of this Act \[Aug. 9, 1989\] until the Director of the Office of Thrift Supervision shall otherwise provide, the Principal Supervisory Agent for each Federal Home Loan Bank district shall be the senior supervisory official (other than the President of the Federal Home Loan Bank) employed by the Federal Home Loan Bank in such district on the day before the date of the enactment of this Act, and such employees performing supervisory and examination functions shall continue to be responsible for the supervision and examination of savings associations within such district."
 
 #### Special Account
 
@@ -482,7 +462,7 @@ Effective Date.—The guidelines required to be promulgated under subsection (a)
 
 #### Guidelines for Asset Disposition
 
-Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
+Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board tosubmit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
 
 #### Expansion of Use of Underutilized Minority Thrift Institutions
 
@@ -498,7 +478,7 @@ Designation of Minority Thrift Institutions Involved in Capital Recovery Program
 
 "(c)
 
-Report to Congress.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Aug. 10, 1987\], the Secretary of the Treasury, the Federal Home Loan Bank Board, and the Federal Savings and Loan Insurance Corporation shalleach submit a report to the Congress on actions taken by such Secretary or agency pursuant to subsection (a) or (b).
+Report to Congress.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Aug. 10, 1987\], the Secretary of the Treasury, the Federal Home Loan Bank Board, and the Federal Savings and Loan Insurance Corporation shall each submit a report to the Congress on actions taken by such Secretary or agency pursuant to subsection (a) or (b).
 
 "(d)
 
@@ -564,7 +544,7 @@ Prior Reports to Congress on Changes To Direct Investment Regulations.—
 
 &emsp;"(1)
 
-In general.—Not less than 90 days before final approval is given by the Federal Home Loan Bank Board to any regulation which repeals or modifies (or has the effect of repealing or modifying) any regulation limiting direct investment activities, the Board shall submit to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the proposed regulation and the reasons for the proposed regulation, including the effect of such regulation on the insurance fund.
+In general.—Not less than 90 days before final approval is given by the Federal Home Loan BankBoard to any regulation which repeals or modifies (or has the effect of repealing or modifying) any regulation limiting direct investment activities, the Board shall submit to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the proposed regulation and the reasons for the proposed regulation, including the effect of such regulation on the insurance fund.
 
 &emsp;"(2)
 

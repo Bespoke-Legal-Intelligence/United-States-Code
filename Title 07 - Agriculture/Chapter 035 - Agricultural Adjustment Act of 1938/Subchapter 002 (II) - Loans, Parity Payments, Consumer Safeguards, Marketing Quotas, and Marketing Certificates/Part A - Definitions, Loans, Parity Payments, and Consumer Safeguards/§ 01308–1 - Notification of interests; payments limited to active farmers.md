@@ -12,7 +12,7 @@ To facilitate administration of section 1308 of this title and this section, eac
 
 #### (1) In general
 
-&emsp;To be eligible to receive a payment described in subsection (b) or (c) of section 1308 of this title, a person or legal entity shall be actively engaged in farming with respect to a farming operation as provided in this subsection or subsection (c).
+&emsp;To be eligible to receive a payment described in subsection (b) or (c) of section 1308of this title, a person or legal entity shall be actively engaged in farming with respect to a farming operation as provided in this subsection or subsection (c).
 
 #### (2) Classes actively engaged
 
@@ -86,7 +86,7 @@ To facilitate administration of section 1308 of this title and this section, eac
 
 #### (1) Cash rent landlord
 
-&emsp;A landlord contributing land to a farming operation shall not be considered to be actively engaged in farming with respect to the farming operation if the landlord receives cashrent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.
+&emsp;A landlord contributing land to a farming operation shall not be considered to be actively engaged in farming with respect to the farming operation if the landlord receives cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.
 
 #### (2) Other persons and legal entities
 
@@ -145,4 +145,46 @@ Pub. L. 100–203, title I, §1301(a), Dec. 22, 1987, 101 Stat. 1330–12, provi
 #### Transition Provisions
 
 Section, as in effect on Sept. 30, 2007, to continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts, see section 1603(h) of Pub. L. 110–246, set out as a note under section 1308 of this title.
+
+#### Rulemaking Related to Significant Contribution for Active Personal Management
+
+Pub. L. 113–79, title I, §1604, Feb. 7, 2014, 128 Stat. 706, provided that:
+
+"(a)
+
+Regulations Required.—Within 180 days after the date of the enactment of this Act \[Feb. 7, 2014\], the Secretary shall promulgate, with an opportunity for notice and comment, regulations—
+
+&emsp;"(1) to define the term 'significant contribution of active personal management' for purposes of section 1001A of the Food Security Act of 1985 (7 U.S.C. 1308–1); and
+
+&emsp;"(2) if the Secretary determines it is appropriate, to establish limits for varying types of farming operations on the number of individuals who may be considered to be actively engaged in farming with respect to the farming operation when a significant contribution of active personal management is the basis used to meet the requirement of being actively engaged in farming under section 1001A of the Food Security Act of 1985 (7 U.S.C. 1308–1) by an individual or entity.
+
+"(b)
+
+Considerations.—In promulgating the regulations required under subsection (a), the Secretary shall consider—
+
+&emsp;"(1) the size, nature, and management requirements of each type of farming operation;
+
+&emsp;"(2) the changing nature of active personal management due to advancements of farming operations; and
+
+&emsp;"(3) the degree to which the regulations promulgated pursuant to subsection (a) will adversely impact the long-term viability of the farming operation.
+
+"(c)
+
+Family Farms.—The Secretary shall not apply the regulations promulgated pursuant to subsection (a) to individuals or entities comprised solely of family members (as that term is defined in section 1001(a)(2) of the Food Security Act of 1985 (7 U.S.C. 1308(a)(2))).
+
+"(d)
+
+Monitoring.—The regulations promulgated pursuant to subsection (a) shall include a plan for monitoring the status of compliance reviews for whether a person or entity is in compliance with the regulations.
+
+"(e)
+
+Paperwork Reduction.—In order to conserve Federal resources and prevent unnecessary paperwork burdens, the Secretary shall ensure that any additional paperwork required as a result of the regulations promulgated pursuant to subsection (a) be limited to those persons who are subject to such regulations.
+
+"(f)
+
+Relation to Other Requirements.—Nothing in this section may be construed to authorize the Secretary to alter, directly or indirectly, existing regulations for other requirements in section 1001A of the Food Security Act of 1985 (7 U.S.C. 1308–1).
+
+"(g)
+
+Effective Date.—The requirements of any regulation promulgated pursuant to this section shall apply beginning with the 2015 crop year."
 

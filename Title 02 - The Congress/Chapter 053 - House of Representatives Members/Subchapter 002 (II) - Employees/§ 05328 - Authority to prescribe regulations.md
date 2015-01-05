@@ -12,7 +12,7 @@ Section is based on section 2 of House Resolution 804, Ninety-sixth Congress, Oc
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “House Oversight of the House of Representatives” for “House Administration”.
+<b>1996</b>—Pub. L. 104–186 substituted "House Oversight of the House of Representatives" for "House Administration".
 
 #### Change of Name
 

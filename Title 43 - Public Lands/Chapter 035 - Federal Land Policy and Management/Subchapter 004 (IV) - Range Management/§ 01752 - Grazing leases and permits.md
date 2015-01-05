@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions
 
-Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 (48 Stat. 1269, as amended; 43 U.S.C. 315 et seq.) or the Act of August 28, 1937 (50 Stat. 874, as amended; 43 U.S.C. 1181a–1181j), or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
+Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 (48 Stat. 1269, as amended; 43 U.S.C. 315 et seq.) or the Actof August 28, 1937 (50 Stat. 874, as amended; 43 U.S.C. 1181a–1181j), or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
 
 #### (b) Terms of lesser duration
 
@@ -12,11 +12,25 @@ Permits or leases may be issued by the Secretary concerned for a period shorter 
 
 &emsp;(2) the land will be devoted to a public purpose prior to the end of ten years; or
 
-&emsp;(3) it will be in the best interest of sound land management to specify a shorter term: <i>Provided</i>, That the absence from an allotment management plan of details the Secretary concerned would like to include but which are undeveloped shall not be the basis for establishing a term shorter than ten years: <i>Provided further</i>, That the absence of completed landuse plans or court ordered environmental statements shall not be the sole basis for establishing a term shorter than ten years unless the Secretary determines on a case-by-case basis that the information to be contained in such land use plan or court ordered environmental impact statement is necessary to determine whether a shorter term should be established for any of the reasons set forth in items (1) through (3) of this subsection.
+&emsp;(3) it will be in the best interest of sound land management to specify a shorter term: <i>Provided</i>, That the absence from an allotment management plan of details the Secretary concerned would like to include but which are undeveloped shall not be the basis for establishing a term shorter than ten years: <i>Provided further</i>, That the absence of completed land use plans or court ordered environmental statements shall not be the sole basis for establishing a term shorter than ten years unless the Secretary determines on a case-by-case basis that the information to be contained in such land use plan or court ordered environmental impact statement is necessary to determine whether a shorter term should be established for any of the reasons set forth in items (1) through (3) of this subsection.
 
 #### (c) First priority for renewal of expiring permit or lease
 
-So long as (1) the lands for which the permit or lease is issued remain available for domestic livestock grazing in accordance with land use plans prepared pursuant to section 1712 of this title or section 1604 of title 16, (2) the permittee or lessee is in compliance with the rules and regulations issued and the terms and conditions in the permit or lease specified by the Secretary concerned, and (3) the permittee or lessee accepts the terms and conditions to be included by the Secretary concerned in the new permit or lease, the holder of the expiring permit or lease shall be given first priority for receipt of the new permit or lease.
+#### (1) Renewal of expiring or transferred permit or lease
+
+&emsp;During any period in which (A) the lands for which the permit or lease is issued remain available for domestic livestock grazing in accordance with land use plans prepared pursuant to section 1712 of this title or section 1604 of title 16, (B) the permittee or lessee is in compliance with the rules and regulations issued and the terms and conditions in the permit or lease specified by the Secretary concerned, and (C) the permittee or lessee accepts the terms and conditions to be included by the Secretary concerned in the new permit or lease, the holder of the expiring permit or lease shall be given first priority for receipt of the new permit or lease.
+
+#### (2) Continuation of terms under new permit or lease
+
+&emsp;The terms and conditions in a grazing permit or lease that has expired, or was terminated due to a grazing preference transfer, shall be continued under a new permit or lease until the date on which the Secretary concerned completes any environmental analysis and documentation for the permit or lease required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and other applicable laws.
+
+#### (3) Completion of processing
+
+&emsp;As of the date on which the Secretary concerned completes the processing of a grazing permit or lease in accordance with paragraph (2), the permit or lease may be canceled, suspended, or modified, in whole or in part.
+
+#### (4) Environmental reviews
+
+&emsp;The Secretary concerned shall seek to conduct environmental reviews on an allotment or multiple allotment basis, to the extent practicable, if the allotments share similar ecological conditions, for purposes of compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and other applicable laws.
 
 #### (d) Allotment management plan requirements
 
@@ -24,7 +38,7 @@ All permits and leases for domestic livestock grazing issued pursuant to this se
 
 #### (e) Omission of allotment management plan requirements and incorporation of appropriate terms and conditions; reexamination of range conditions
 
-In all cases where the Secretary concerned has not completed an allotment management plan or determines that an allotment management plan is not necessary for management of livestock operations and will not be prepared, the Secretary concerned shall incorporate in grazing permits and leases such terms and conditions as he deems appropriate for management of the permitted or leased lands pursuant to applicable law. The Secretary concerned shall also specify therein the numbers of animals to be grazed and the seasons of use and that he may reexamine the condition of the range at any time and, if he finds on reexamination that the condition of the range requires adjustment in the amount or other aspect of grazing use, that the permittee or lessee shall adjust his use to the extent the Secretary concerned deems necessary. Such readjustment shall be put into full force and effect on the date specified by the Secretary concerned.
+In all cases where the Secretary concerned has not completed an allotment management plan or determines that an allotment management plan is not necessary for management of livestock operations and will not be prepared, the Secretary concerned shall incorporate in grazing permits and leases such terms and conditions as he deems appropriate for management of the permitted or leased lands pursuant to applicable law. The Secretary concerned shall also specifytherein the numbers of animals to be grazed and the seasons of use and that he may reexamine the condition of the range at any time and, if he finds on reexamination that the condition of the range requires adjustment in the amount or other aspect of grazing use, that the permittee or lessee shall adjust his use to the extent the Secretary concerned deems necessary. Such readjustment shall be put into full force and effect on the date specified by the Secretary concerned.
 
 #### (f) Allotment management plan applicability to non-Federal lands; appeal rights
 
@@ -34,11 +48,49 @@ Allotment management plans shall not refer to livestock operations or range impr
 
 Whenever a permit or lease for grazing domestic livestock is canceled in whole or in part, in order to devote the lands covered by the permit or lease to another public purpose, including disposal, the permittee or lessee shall receive from the United States a reasonable compensation for the adjusted value, to be determined by the Secretary concerned, of his interest in authorized permanent improvements placed or constructed by the permittee or lessee on lands covered by such permit or lease, but not to exceed the fair market value of the terminated portion of the permittee's or lessee's interest therein. Except in cases of emergency, no permit or lease shall be canceled under this subsection without two years' prior notification.
 
-#### (h) Applicability of provisions to rights, etc., in or to public lands or lands in National Forests
+#### (h) National Environmental Policy Act of 1969
+
+#### (1) In general
+
+&emsp;The issuance of a grazing permit or lease by the Secretary concerned may be categorically excluded from the requirement to prepare an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) if—
+
+&emsp;&emsp;(A) the issued permit or lease continues the current grazing management of the allotment; and
+
+&emsp;&emsp;(B) the Secretary concerned—
+
+&emsp;&emsp;&emsp;(i) has assessed and evaluated the grazing allotment associated with the lease or permit; and
+
+&emsp;&emsp;&emsp;(ii) based on the assessment and evaluation under clause (i), has determined that the allotment—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to public land administered by the Secretary of the Interior—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) is meeting land health standards; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is not meeting land health standards due to factors other than existing livestock grazing; or
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to National Forest System land administered by the Secretary of Agriculture—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) is meeting objectives in the applicable land and resource management plan; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is not meeting the objectives in the applicable land resource management plan due to factors other than existing livestock grazing.
+
+#### (2) Trailing and crossing
+
+&emsp;The trailing and crossing of livestock across public land and National Forest System land and the implementation of trailing and crossing practices by the Secretary concerned may be categorically excluded from the requirement to prepare an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+#### (i) Priority and timing for completion of environmental analyses
+
+The Secretary concerned, in the sole discretion of the Secretary concerned, shall determine the priority and timing for completing each required environmental analysis with respect to a grazing allotment, permit, or lease based on—
+
+&emsp;(1) the environmental significance of the grazing allotment, permit, or lease; and
+
+&emsp;(2) the available funding for the environmental analysis.
+
+#### (j) Applicability of provisions to rights, etc., in or to public lands or lands in National Forests
 
 Nothing in this Act shall be construed as modifying in any way law existing on October 21, 1976, with respect to the creation of right, title, interest or estate in or to public lands or lands in National Forests by issuance of grazing permits and leases.
 
-(Pub. L. 94–579, title IV, §402, Oct. 21, 1976, 90 Stat. 2772, 2773; Pub. L. 95–514, §§7, 8, Oct. 25, 1978, 92 Stat. 1807.)
+(Pub. L. 94–579, title IV, §402, Oct. 21, 1976, 90 Stat. 2773; Pub. L. 95–514, §§7, 8, Oct. 25, 1978, 92 Stat. 1807; Pub. L. 113–291, div. B, title XXX, §3023, Dec. 19, 2014, 128 Stat. 3762.)
 
 #### References in Text
 
@@ -46,11 +98,17 @@ Act of June 28, 1934, referred to in subsec. (a), is act June 28, 1934, ch. 865,
 
 Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in subsec. (a), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to section 1181a et seq. of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of these Acts to the Code, see Tables.
 
+The National Environmental Policy Act of 1969, referred to in subsecs. (c)(2), (4) and (h), is Pub. L. 91–190,Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
 The Public Rangelands Improvement Act of 1978, referred to in subsec. (d), is Pub. L. 95–514, Oct. 25, 1978, 92 Stat. 1803, which is classified principally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-This Act, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (j), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–291, §3023(1), designated existing provisions as par. (1) and inserted heading, substituted "During any period in which" for "So long as", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added pars. (2) to (4).
+
+Subsecs. (h) to (j). Pub. L. 113–291, §3023(2), (3), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–514, §7(b), substituted "sixteen contiguous Western States" for "eleven contiguous Western States".
 

@@ -12,7 +12,7 @@ For purposes of this chapter:
 
 #### (3) Noneconomic losses
 
-&emsp;The term "noneconomic losses" means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
+&emsp;The term "noneconomic losses" means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoymentof life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
 
 #### (4) Nonprofit organization
 

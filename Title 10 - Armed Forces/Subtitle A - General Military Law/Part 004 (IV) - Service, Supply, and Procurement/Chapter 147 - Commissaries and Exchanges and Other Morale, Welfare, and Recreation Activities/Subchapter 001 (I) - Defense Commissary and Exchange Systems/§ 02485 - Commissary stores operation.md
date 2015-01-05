@@ -62,7 +62,7 @@ Donation of Unusable Food.—(1) The Secretary of Defense may donate food descri
 
 (g)
 
-Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn. The imposition and amounts of charges shall beconsistent with practices of commercial grocery stores regarding dishonored checks.
+Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn. The imposition and amounts of charges shall be consistent with practices of commercial grocery stores regarding dishonored checks.
 
 (2)(A) The following persons are liable to the United States for the amount of a check referred to in paragraph (1) that is returned unpaid to the United States, together with any charge imposed under that paragraph:
 
@@ -134,7 +134,7 @@ A prior section 2486 was renumbered section 2484 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81 struck out par. (1) designation before "Under such regulations" andstruck out par. (2) which read as follows: "Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions."
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 struck out par. (1) designation before "Under such regulations" and struck out par. (2) which read as follows: "Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions."
 
 Subsec. (b)(1). Pub. L. 111–350 substituted "section 107 of title 41" for "section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6))".
 

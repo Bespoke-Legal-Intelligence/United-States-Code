@@ -62,6 +62,10 @@ Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) a
 
 Pub. L. 97–63, §6, Oct. 16, 1981, 95 Stat. 1018, provided that: "The amendments made by this Act \[see Short Title of 1981 Amendment note below\] shall take effect October 1, 1981."
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–235, div. B, title VI, §601, Dec. 16, 2014, 128 Stat. 2218, provided that: "This title \[amending sections 2123, 2123a, and 2131 of this title and section 1187 of Title 8, Aliens and Nationality\] may be cited as the 'Travel Promotion, Enhancement, and Modernization Act of 2014'."
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–288, §1, Oct. 11, 1996, 110 Stat. 3402, provided that: "This Act \[enacting sections 2124 and 2141 to 2141f of this title, amending sections 2122 and 2124c of this title and section 4727 of Title 15, Commerce and Trade, and repealing sections 2123 to 2123d, 2124 to 2124b, and 2126 to 2129 of this title\] may be cited as the 'United States National Tourism Organization Act of 1996'."
@@ -182,7 +186,7 @@ This plan should also identify other appropriate measures that will enhance and 
 
 (d) The Secretary of Commerce shall establish and maintain a publicly available website that provides updated metrics from across the Federal Government to assist industry and travelers in understanding the current status of the industry and its relevance to the economy, statistics on visa processes in key travel and tourism markets, and entry times into the United States.
 
-Sec. 3. <i>Task Force on Travel and Competitiveness</i>. (a) A Task Force on Travel and Competitiveness (Task Force) is hereby established to develop the National Travel and Tourism Strategy described in this section. The Secretaries of Commerce and the Interior shall serve as Co-Chairs of the Task Force. The Task Force shall also include the heads of the following executive departments and agencies (agencies), or senior level officials designated by them:
+Sec. 3. <i>Task Force on Travel and Competitiveness</i>. (a) A Task Force on Travel and Competitiveness (TaskForce) is hereby established to develop the National Travel and Tourism Strategy described in this section. The Secretaries of Commerce and the Interior shall serve as Co-Chairs of the Task Force. The Task Force shall also include the heads of the following executive departments and agencies (agencies), or senior level officials designated by them:
 
 (i) Department of State;
 

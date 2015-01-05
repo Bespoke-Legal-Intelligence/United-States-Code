@@ -20,7 +20,7 @@ This section shall not apply to any portion of the excessive amount of a claim f
 
 #### Codification
 
-Section 1409(d) of Pub. L. 111–152, which directed the amendment of section 6676 without specifying the actto be amended, was executed to this section, which is section 6676 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
+Section 1409(d) of Pub. L. 111–152, which directed the amendment of section 6676 without specifying the act to be amended, was executed to this section, which is section 6676 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Prior Provisions
 

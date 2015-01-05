@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(iv) may not perform duties inconsistent with the duties and responsibilities of a presiding officer;
 
-&emsp;&emsp;&emsp;(v) is entitled to pay prescribed by the Office of Personnel Management independently of ratings and recommendations made by the authority and in accordance with chapter 51 of such title and subchapter III of chapter 53 of such title;
+&emsp;&emsp;&emsp;(v) is entitled to pay prescribed by the Office of Personnel Management independently of ratings and recommendations made by the authority and in accordancewith chapter 51 of such title and subchapter III of chapter 53 of such title;
 
 &emsp;&emsp;&emsp;(vi) is not subject to performance appraisal pursuant to chapter 43 of such title; and
 
@@ -168,7 +168,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(1) false, fictitious, and fraudulent claims and statements in Government programs are a serious problem;
 
-&emsp;"(2) false, fictitious, and fraudulent claims and statements in Government programs result in the loss of millions of dollars annually by allowing persons to receive Federal funds to which they are not entitled;
+&emsp;"(2) false, fictitious, and fraudulent claims and statements in Government programs result in theloss of millions of dollars annually by allowing persons to receive Federal funds to which they are not entitled;
 
 &emsp;"(3) false, fictitious, and fraudulent claims and statements in Government programs undermine the integrity of such programs by allowing ineligible persons to participate in such programs; and
 

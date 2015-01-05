@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(iii) would be punishable under the laws of the United States by imprisonment for a term exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.
 
-&emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 670, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting "specified unlawful activity" (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
+&emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 670, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting "specified unlawful activity" (as defined in section1956(c)(7) of this title), or a conspiracy to commit such offense.
 
 &emsp;(D) Any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, from a violation of—
 
@@ -60,13 +60,13 @@
 
 &emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term "proceeds" means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
 
-&emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term "proceeds" means theamount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
+&emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term "proceeds" means the amount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
 
 &emsp;(C) In cases involving fraud in the process of obtaining a loan or extension of credit, the court shall allow the claimant a deduction from the forfeiture to the extent that the loan was repaid, or the debt was satisfied, without any financial loss to the victim.
 
 (b)(1) Except as provided in section 985, any property subject to forfeiture to the United States under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
 
-(2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
+(2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure,except that a seizure may be made without a warrant if—
 
 &emsp;(A) a complaint for forfeiture has been filed in the United States district court and the court issued an arrest warrant in rem pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims;
 
@@ -182,7 +182,7 @@ Authority to suspend.—The Attorney General, in consultation with the Secretary
 
 &emsp;(2)
 
-No requirement for government to trace funds.—If a forfeiture action is broughtagainst funds that are restrained, seized, or arrested under paragraph (1), it shall not be necessary for the Government to establish that the funds are directly traceable to the funds that were deposited into the foreign financial institution (as defined in section 984(c)(2)(A) of this title), nor shall it be necessary for the Government to rely on the application of section 984.
+No requirement for government to trace funds.—If a forfeiture action is brought against funds that are restrained, seized, or arrested under paragraph (1), it shall not be necessary for the Government to establish that the funds are directly traceable to the funds that were deposited into the foreign financial institution (as defined in section 984(c)(2)(A) of this title), nor shall it be necessary for the Government to rely on the application of section 984.
 
 &emsp;(3)
 
@@ -224,7 +224,7 @@ The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), 
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
-The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsec. (b)(2)(A), are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsec. (b)(2)(A), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(4)(A), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -244,7 +244,7 @@ Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)
 
 Subsec. (a)(1)(G)(i). Pub. L. 109–177, §120(1), which directed amendment of cl. (i) by substituting "any Federal crime of terrorism (as defined in section 2332b(g)(5))" for "act of international or domestic terrorism (as defined in section 2331)", was executed by making the substitution for "act of domestic or international terrorism (as defined in section 2331)", to reflect the probable intent of Congress.
 
-Subsec. (a)(1)(G)(ii). Pub. L. 109–177, §120(2), which directed amendment of cl. (ii) by "striking 'an act ofinternational or domestic terrorism (as defined in section 2331)' with 'any Federal crime of terrorism (as defined in section 2332b(g)(5)' ", was executed by striking "an act of domestic or international terrorism (as defined in section 2331)" and inserting "any Federal crime of terrorism (as defined in section 2332b(g)(5)", to reflect the probable intent of Congress.
+Subsec. (a)(1)(G)(ii). Pub. L. 109–177, §120(2), which directed amendment of cl. (ii) by "striking 'an act of international or domestic terrorism (as defined in section 2331)' with 'any Federal crime of terrorism (as defined in section 2332b(g)(5)' ", was executed by striking "an act of domestic or international terrorism (as defined in section 2331)" and inserting "any Federal crime of terrorism (as defined in section 2332b(g)(5)", to reflect the probable intent of Congress.
 
 Subsec. (a)(i)(G)(iii). Pub. L. 109–177, §120(3), which directed amendment of cl. (iii) by substituting "Federal crime of terrorism (as defined in section 2332b(g)(5))" for "act of international or domestic terrorism (as defined in section 2331)", was executed by making the substitution for "act of domestic or international terrorism (as defined in section 2331)", to reflect the probable intent of Congress.
 
@@ -370,7 +370,7 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146, provided that the amendment madeby that section is effective as of the date on which section 2525(a)(2) of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146, provided that the amendment made by that section is effective as of the date on which section 2525(a)(2) of Pub. L. 101–647 took effect.
 
 #### Short Title of 2000 Amendment
 
@@ -382,7 +382,7 @@ Pub. L. 100–690, title VI, §6181, Nov. 18, 1988, 102 Stat. 4354, provided tha
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
+Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting thissection, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
 
 #### Severability
 

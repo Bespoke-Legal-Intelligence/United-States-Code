@@ -20,7 +20,7 @@
 
 (c)(1) The Office shall review each agency's performance appraisal system under this section, and determine whether the agency performance appraisal system meets the requirements of this subchapter.
 
-(2) The Comptroller General shall from time to time review performance appraisal systemsunder this section to determine the extent to which any such system meets the requirements under this subchapter and shall periodically report its findings to the Office and to each House of the Congress.
+(2) The Comptroller General shall from time to time review performance appraisal systems under this section to determine the extent to which any such system meets the requirements under this subchapter and shall periodically report its findings to the Office and to each House of the Congress.
 
 (3) If the Office determines that an agency performance appraisal system does not meet the requirements under this subchapter (including regulations prescribed under section 4315), the agency shall take such corrective action as may be required by the Office.
 
@@ -30,7 +30,7 @@
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(3). Pub. L. 98–615 inserted “, or (with the consent of the senior executive) a commissioned officer in the uniformed services serving on active duty,” and directed that “executive” be struck out which was executed by striking “executive” only where it appeared before “level in the agency”.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–615 inserted ", or (with the consent of the senior executive) a commissioned officer in the uniformed services serving on active duty," and directed that "executive" be struck out which was executed by striking "executive" only where it appeared before "level in the agency".
 
 #### Effective Date of 1984 Amendment
 

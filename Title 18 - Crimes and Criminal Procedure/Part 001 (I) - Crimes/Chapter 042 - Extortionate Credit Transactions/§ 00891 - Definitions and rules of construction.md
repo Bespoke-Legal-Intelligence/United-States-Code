@@ -40,7 +40,7 @@ Pub. L. 90–321, title II, §201, May 29, 1968, 82 Stat. 159, provided that:
 
 &emsp;"(4) Extortionate credit transactions directly impair the effectiveness and frustrate the purposes of the laws enacted by the Congress on the subject of bankruptcies.
 
-"(b) On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of chapter 42 of title 18 of the United StatesCode are necessary and proper for the purpose of carrying into execution the powers of Congress to regulate commerce and to establish uniform and effective laws on the subject of bankruptcy."
+"(b) On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of chapter 42 of title 18 of the United States Code are necessary and proper for the purpose of carrying into execution the powers of Congress to regulate commerce and to establish uniform and effective laws on the subject of bankruptcy."
 
 #### Annual Report to Congress by Attorney General
 

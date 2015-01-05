@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the Office of Personnel Management (referred to in this section as the "Director") shall enter into contracts with health insurance issuers (which may include a group of health insurance issuers affiliated either by common ownership and control or by the common use of a nationally licensed service mark), without regard to section 6101 of title 41 or other statutes requiring competitive bidding, to offer at least 2 multi-State qualified health plans through each Exchange in each State. Such plans shall provide individual, or in the case of small employers, group coverage.
+&emsp;The Director of the Office of Personnel Management (referred to in this section as the"Director") shall enter into contracts with health insurance issuers (which may include a group of health insurance issuers affiliated either by common ownership and control or by the common use of a nationally licensed service mark), without regard to section 6101 of title 41 or other statutes requiring competitive bidding, to offer at least 2 multi-State qualified health plans through each Exchange in each State. Such plans shall provide individual, or in the case of small employers, group coverage.
 
 #### (2) Terms
 
@@ -12,7 +12,7 @@
 
 #### (3) Non-profit entities
 
-&emsp;In entering into contracts under paragraph (1), the Director shall ensure that at least onecontract is entered into with a non-profit entity.
+&emsp;In entering into contracts under paragraph (1), the Director shall ensure that at least one contract is entered into with a non-profit entity.
 
 #### (4) Administration
 
@@ -90,7 +90,7 @@ A health insurance issuer shall be eligible to enter into a contract under subse
 
 #### (5) Application of certain State rating requirements
 
-&emsp;With respect to a multi-State qualified health plan that is offered in a State with agerating requirements that are lower than 3:1, the State may require that Exchanges operating in such State only permit the offering of such multi-State qualified health plans if such plans comply with the State's more protective age rating requirements.
+&emsp;With respect to a multi-State qualified health plan that is offered in a State with age rating requirements that are lower than 3:1, the State may require that Exchanges operating in such State only permit the offering of such multi-State qualified health plans if such plans comply with the State's more protective age rating requirements.
 
 #### (d) Plans deemed to be certified
 

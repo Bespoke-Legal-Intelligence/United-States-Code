@@ -120,19 +120,19 @@ In this section:
 
 #### (1) A–3 visa
 
-&emsp;The term “A–3 visa” means a nonimmigrant visa issued pursuant to section 1101(a)(15)(A)(iii) of this title.
+&emsp;The term "A–3 visa" means a nonimmigrant visa issued pursuant to section 1101(a)(15)(A)(iii) of this title.
 
 #### (2) G–5 visa
 
-&emsp;The term “G–5 visa” means a nonimmigrant visa issued pursuant to section 1101(a)(15)(G)(v) of this title.
+&emsp;The term "G–5 visa" means a nonimmigrant visa issued pursuant to section 1101(a)(15)(G)(v) of this title.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of State.
+&emsp;The term "Secretary" means the Secretary of State.
 
 #### (4) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means—
+&emsp;The term "appropriate congressional committees" means—
 
 &emsp;&emsp;(A) the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives; and
 
@@ -144,7 +144,7 @@ In this section:
 
 Section was enacted as part of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(b)(2),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(b)(2),".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “April 18, 1961 (23 U.S.T. 3227),”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "April 18, 1961 (23 U.S.T. 3227),".</i>
 

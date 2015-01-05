@@ -2,7 +2,7 @@
 
 (a)
 
-Report Required.—Not later than January 1 of each year, the Secretary of Defense and theDirector of National Intelligence shall jointly submit to Congress a report on the counter-space programs of foreign countries.
+Report Required.—Not later than January 1 of each year, the Secretary of Defense and the Director of National Intelligence shall jointly submit to Congress a report on the counter-space programs of foreign countries.
 
 (b)
 

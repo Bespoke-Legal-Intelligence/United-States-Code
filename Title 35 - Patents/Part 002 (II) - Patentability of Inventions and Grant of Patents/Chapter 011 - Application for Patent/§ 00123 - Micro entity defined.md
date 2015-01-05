@@ -46,7 +46,7 @@ Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as a note under section 5 of this title.
+Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or aftersuch date, see section 1(n) of Pub. L. 112–274, set out as a note under section 5 of this title.
 
 #### Effective Date of 2011 Amendment
 

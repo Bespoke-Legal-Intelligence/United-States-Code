@@ -40,21 +40,31 @@ In determining which application to approve under this subpart the Secretary sha
 
 &emsp;(2) with a high rate of unemployment, as determined by the Secretary or in which the population loss is at least 7 percent from April 1, 1980, to April 1, 1990, as reported by the Bureau of the Census.
 
-(Pub. L. 103–322, title III, §31113, Sept. 13, 1994, 108 Stat. 1883; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(44), (f)(35)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
+(Pub. L. 103–322, title III, §31113, Sept. 13, 1994, 108 Stat. 1883; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(44), (f)(35)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434; Pub. L. 113–128, title V, §512(jj), July 22, 2014, 128 Stat. 1722.)
+
+#### Amendment of Subsection (a)(4)(C)
+
+<i>Pub. L. 113–128, title V, §§506, 512(jj), July 22, 2014, 128 Stat. 1703, 1722, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(4)(C) of this section is amended by striking "job training programs authorized under title I of the Workforce Investment Act of 1998 or the Family Support Act of 1988 (Public Law 100–485)" and inserting "job training programs authorized under title I of the Workforce Innovation and Opportunity Act or the Family Support Act of 1988 (Public Law 100–485)". See 2014 Amendment note below.</i>
 
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(4)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343,as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
+The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(4)(C). Pub. L. 113–128 substituted "job training programs authorized under title I of the Workforce Innovation and Opportunity Act or the Family Support Act of 1988 (Public Law 100–485)" for "job training programs authorized under title I of the Workforce Investment Act of 1998 or the Family Support Act of 1988 (Public Law 100–485)".
 
 <b>1998</b>—Subsec. (a)(4)(C). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(35)\], struck out "the Job Training Partnership Act or" after "authorized under".
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(44)\], substituted "authorized under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "authorized under the Job Training Partnership Act (29 U.S.C. 1501 et seq.)".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(44)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(35)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(44)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendmentby section 101(f) \[title VIII, §405(f)(35)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 

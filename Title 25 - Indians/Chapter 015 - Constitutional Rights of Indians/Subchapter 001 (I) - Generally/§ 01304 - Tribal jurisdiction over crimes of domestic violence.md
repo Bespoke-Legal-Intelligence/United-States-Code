@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Domestic violence
 
-&emsp;The term "domestic violence" means violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, or by a person similarly situated to a spouse of the victim under the domestic- or family- violence laws of an Indian tribe that has jurisdiction over the Indian country where the violence occurs.
+&emsp;The term "domestic violence" means violence committed by a current or former spouseor intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, or by a person similarly situated to a spouse of the victim under the domestic- or family- violence laws of an Indian tribe that has jurisdiction over the Indian country where the violence occurs.
 
 #### (3) Indian country
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, in addition to all powers of self-governmentrecognized and affirmed by sections 1301 and 1303 of this title, the powers of self-government of a participating tribe include the inherent power of that tribe, which is hereby recognized and affirmed, to exercise special domestic violence criminal jurisdiction over all persons.
+&emsp;Notwithstanding any other provision of law, in addition to all powers of self-government recognized and affirmed by sections 1301 and 1303 of this title, the powers of self-government of a participating tribe include the inherent power of that tribe, which is hereby recognized and affirmed, to exercise special domestic violence criminal jurisdiction over all persons.
 
 #### (2) Concurrent jurisdiction
 
@@ -210,5 +210,5 @@ Procedure.—The Attorney General may grant a request under subparagraph (A) aft
 
 &emsp;&emsp;"(C)
 
-Effective dates for pilot projects.—An Indian tribe designated as a participating tribe under this paragraph may commence exercising special domestic violence criminal jurisdiction pursuant to subsections (b) through (d) of section 204 of Public Law 90–284 on a date established by the Attorney General, after consultation with that Indian tribe, but in no event later than the date that is 2 years after the date of enactment of this Act."
+Effective dates for pilot projects.—An Indian tribe designated as a participating tribe under this paragraph may commence exercising special domestic violence criminal jurisdiction pursuant to subsections (b) through (d) of section 204 ofPublic Law 90–284 on a date established by the Attorney General, after consultation with that Indian tribe, but in no event later than the date that is 2 years after the date of enactment of this Act."
 

@@ -26,11 +26,11 @@
 
 #### (b) Enforcement
 
-Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) of this section may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the appropriate Federal banking agency.
+Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the appropriate Federal banking agency.
 
 #### (c) Remedies
 
-If the district court determines that a violation of subsection (a) of this section has occurred, it may order the depository institution, Federal home loan bank, Federal Reserve bank, or Federal banking agency which committed the violation—
+If the district court determines that a violation of subsection (a) has occurred, it may order the depository institution, Federal home loan bank, Federal Reserve bank, or Federal banking agency which committed the violation—
 
 &emsp;(1) to reinstate the employee to his former position;
 
@@ -48,13 +48,13 @@ The protections of this section shall not apply to any employee who—
 
 #### (e) "Federal banking agency" defined
 
-For purposes of subsections (a) and (c) of this section, the term "Federal banking agency" means the Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency and the Comptroller of the Currency.
+For purposes of subsections (a) and (c), the term "Federal banking agency" means the Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency and the Comptroller of the Currency.
 
 #### (f) Burdens of proof
 
 The legal burdens of proof that prevail under subchapter III of chapter 12 of title 5 shall govern adjudication of protected activities under this section.
 
-(Sept. 21, 1950, ch. 967, §2\[33\], as added Pub. L. 101–73, title IX, §932(a), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, §251(a)(1)–(3), Dec. 19, 1991, 105 Stat. 2331, 2332; Pub. L. 103–204,§21(a), Dec. 17, 1993, 107 Stat. 2406; Pub. L. 103–325, title VI, §602(a)(61), (c), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 111–203, title III, §363(10), July 21, 2010, 124 Stat. 1555.)
+(Sept. 21, 1950, ch. 967, §2\[33\], as added Pub. L. 101–73, title IX, §932(a), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, §251(a)(1)–(3), Dec. 19, 1991, 105 Stat. 2331, 2332; Pub. L. 103–204, §21(a), Dec. 17, 1993, 107 Stat. 2406; Pub. L.103–325, title VI, §602(a)(61), (c), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 111–203, title III, §363(10), July 21, 2010, 124 Stat. 1555.)
 
 #### Amendments
 

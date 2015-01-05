@@ -24,5 +24,5 @@ The section is revised to express the effect of the law. As agency heads have lo
 
 The section concentrates the authority for the conduct of litigation in the Department of Justice. The words "Except as otherwise authorized by law," are added to provide for existing and future exceptions (e.g., section 1037 of title 10). The words "an agency" are added for clarity and to align this section with section 519 which is of similar import. The words "as such officer" are omitted as unnecessary since it is implied that the officer is a party in his official capacity as an officer.
 
-So much as prohibits the employment of counsel, other than in the Department of Justice, to conductlitigation is omitted as covered by R.S. §365, which is codified in section 3106 of title 5, United States Code.
+So much as prohibits the employment of counsel, other than in the Department of Justice, to conduct litigation is omitted as covered by R.S. §365, which is codified in section 3106 of title 5, United States Code.
 

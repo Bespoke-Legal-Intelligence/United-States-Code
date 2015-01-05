@@ -84,7 +84,7 @@ Each proposed State energy conservation plan may include—
 
 #### (e) Standby plans
 
-The Governor of any State may submit to the Secretary a State energy conservation planwhich is a standby energy conservation plan to significantly reduce energy demand by regulating the public and private consumption of energy during a severe energy supply interruption, which plan may be separately eligible for Federal assistance under this part without regard to subsections (c) and (d) of this section.
+The Governor of any State may submit to the Secretary a State energy conservation plan which is a standby energy conservation plan to significantly reduce energy demand by regulating the public and private consumption of energy during a severe energy supply interruption, which plan may be separately eligible for Federal assistance under this part without regard to subsections (c) and (d) of this section.
 
 #### (f) Energy Technology Commercialization Services Program
 

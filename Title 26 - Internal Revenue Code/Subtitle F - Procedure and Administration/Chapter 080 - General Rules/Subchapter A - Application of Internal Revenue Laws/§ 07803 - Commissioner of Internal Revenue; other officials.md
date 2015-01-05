@@ -126,7 +126,7 @@
 
 #### (i) Objectives
 
-&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocateshall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
+&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
 
 #### (ii) Activities
 
@@ -274,7 +274,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 #### References in Text
 
-The provisions of title 5 relating to appointments in the competitive service and the Senior Executive Service, referred to in subsec. (c)(1)(B)(ii), are classifiedgenerally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 relating to appointments in the competitive service and the Senior Executive Service, referred to in subsec. (c)(1)(B)(ii), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 Section 5 of the Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(A), is section 5 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -314,7 +314,7 @@ Pub. L. 105–206, title I, §1102(f), July 22, 1998, 112 Stat. 705, provided th
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 6212, 6323, 6343, 7611, and 7811 of this title, and section 5109 of Title 5, Government Organization and Employees\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection, sections 6212, 6323, 6343, 7611, and 7811 of this title, and section 5109 of Title 5, Government Organization and Employees\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
 
 "(2)
 

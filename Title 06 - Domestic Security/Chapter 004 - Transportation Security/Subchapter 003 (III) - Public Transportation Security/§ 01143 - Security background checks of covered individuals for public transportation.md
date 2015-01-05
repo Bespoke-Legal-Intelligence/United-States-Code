@@ -6,7 +6,7 @@ In this section, the following definitions apply:
 
 #### (1) Security background check
 
-&emsp;The term “security background check” means reviewing the following for the purpose of identifying individuals who may pose a threat to transportation security, national security, or of terrorism:
+&emsp;The term "security background check" means reviewing the following for the purpose of identifying individuals who may pose a threat to transportation security, national security, or of terrorism:
 
 &emsp;&emsp;(A) Relevant criminal history databases.
 
@@ -16,7 +16,7 @@ In this section, the following definitions apply:
 
 #### (2) Covered individual
 
-&emsp;The term “covered individual” means an employee of a public transportation agency or a contractor or subcontractor of a public transportation agency.
+&emsp;The term "covered individual" means an employee of a public transportation agency or a contractor or subcontractor of a public transportation agency.
 
 #### (b) Guidance
 
@@ -46,7 +46,7 @@ If the Secretary issues a rule, regulation, or directive requiring a public tran
 
 #### (e) False statements
 
-A public transportation agency or a contractor or subcontractor of a public transportationagency may not knowingly misrepresent to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check. Not later than 1 year after August 3, 2007, the Secretary shall issue a regulation that prohibits a public transportation agency or a contractor or subcontractor of a public transportation agency from knowingly misrepresenting to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check.
+A public transportation agency or a contractor or subcontractor of a public transportation agency may not knowingly misrepresent to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check. Not later than 1 year after August 3, 2007, the Secretary shall issue a regulation that prohibits a public transportation agency or a contractor or subcontractor of a public transportation agency from knowingly misrepresenting to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check.
 
 #### (f) Rights and responsibilities
 
@@ -62,5 +62,5 @@ Nothing in this section shall be construed to affect the process for review esta
 
 (Pub. L. 110–53, title XIV, §1414, Aug. 3, 2007, 121 Stat. 419.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be title “46;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be title "46;".</i>
 

@@ -22,7 +22,7 @@
 
 &emsp;(3) the matters of fact and law asserted.
 
-> When private persons are the moving parties, other parties to the proceeding shall giveprompt notice of issues controverted in fact or law; and in other instances agencies may by rule require responsive pleading. In fixing the time and place for hearings, due regard shall be had for the convenience and necessity of the parties or their representatives.
+> When private persons are the moving parties, other parties to the proceeding shall give prompt notice of issues controverted in fact or law; and in other instances agencies may by rule require responsive pleading. In fixing the time and place for hearings, due regard shall be had for the convenience and necessity of the parties or their representatives.
 
 (c) The agency shall give all interested parties opportunity for—
 
@@ -62,19 +62,19 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §5, 60 Stat. 239.
 
-In subsection (a)(2), the word “employee” is substituted for “officer or employee of the United States” in view of the definition of “employee” in section 2105.
+In subsection (a)(2), the word "employee" is substituted for "officer or employee of the United States" in view of the definition of "employee" in section 2105.
 
-In subsection (a)(4), the word “naval” is omitted as included in “military”.
+In subsection (a)(4), the word "naval" is omitted as included in "military".
 
-In subsection (a)(5), the word “or” is substituted for “and” since the exception is applicable if any one of the factors are involved.
+In subsection (a)(5), the word "or" is substituted for "and" since the exception is applicable if any one of the factors are involved.
 
-In subsection (a)(6), the word “worker” is substituted for “employee”, since the latter is defined in section 2105 as meaning Federal employees.
+In subsection (a)(6), the word "worker" is substituted for "employee", since the latter is defined in section 2105 as meaning Federal employees.
 
-In subsection (b), the word “When” is substituted for “In instances in which”.
+In subsection (b), the word "When" is substituted for "In instances in which".
 
-In subsection (c)(2), the comma after the word “hearing” is omitted to correct an editorial error.
+In subsection (c)(2), the comma after the word "hearing" is omitted to correct an editorial error.
 
-In subsection (d), the words “The employee” and “such an employee” are substituted in the first two sentences for “The same officers” and “such officers” in view of the definition of “employee” in section 2105. The word “officer” is omitted in the third and fourth sentences as included in “employee” as defined in section 2105. The prohibition in the third and fourth sentences is restated in positive form. In paragraph (C) of the last sentence, the words “in any manner” are omitted as surplusage.
+In subsection (d), the words "The employee" and "such an employee" are substituted in the first two sentences for "The same officers" and "such officers" in view of the definition of "employee" in section 2105. The word "officer" is omitted in the third and fourth sentences as included in "employee" as defined in section 2105. The prohibition in the third and fourth sentences is restated in positive form. In paragraph (C) of the last sentence, the words "in any manner" are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -84,7 +84,7 @@ Section 554 of former Title 5, Executive Departments and Government Officers and
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–251 substituted "administrative law judge" for "hearing examiner".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

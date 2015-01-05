@@ -15,6 +15,7 @@
 | [5311\.](%C2%A7%2005311%20-%20Remedies%20for%20noncompliance%20with%20community%20development%20requirements.md) | Remedies for noncompliance with community development requirements. |
 | [5312\.](%C2%A7%2005312%20-%20Use%20of%20grants%20for%20settlement%20of%20outstanding%20urban%20renewal%20loans%20of%20units%20of%20general%20local%20government.md) | Use of grants for settlement of outstanding urban renewal loans of units of general local government. |
 | [5313\.](%C2%A7%2005313%20-%20Reporting%20requirements.md) | Reporting requirements. |
+| [5313a.](%C2%A7%2005313a%20-%20Duplication%20of%20benefits.md) | Duplication of benefits. |
 | [5314\.](%C2%A7%2005314%20-%20Consultation%20by%20Secretary%20with%20other%20Federal%20departments%2C%20etc.md) | Consultation by Secretary with other Federal departments, etc. |
 | [5315\.](%C2%A7%2005315%20-%20Interstate%20agreements%20or%20compacts%3B%20purposes.md) | Interstate agreements or compacts; purposes. |
 | [5316\.](%C2%A7%2005316%20-%20Transition%20provisions.md) | Transition provisions. |
@@ -45,6 +46,7 @@
 - [&sect; 05311 - Remedies for noncompliance with community development requirements](%C2%A7%2005311%20-%20Remedies%20for%20noncompliance%20with%20community%20development%20requirements.md)
 - [&sect; 05312 - Use of grants for settlement of outstanding urban renewal loans of units of general local government](%C2%A7%2005312%20-%20Use%20of%20grants%20for%20settlement%20of%20outstanding%20urban%20renewal%20loans%20of%20units%20of%20general%20local%20government.md)
 - [&sect; 05313 - Reporting requirements](%C2%A7%2005313%20-%20Reporting%20requirements.md)
+- [&sect; 05313a - Duplication of benefits](%C2%A7%2005313a%20-%20Duplication%20of%20benefits.md)
 - [&sect; 05314 - Consultation by Secretary with other Federal departments, etc](%C2%A7%2005314%20-%20Consultation%20by%20Secretary%20with%20other%20Federal%20departments%2C%20etc.md)
 - [&sect; 05315 - Interstate agreements or compacts; purposes](%C2%A7%2005315%20-%20Interstate%20agreements%20or%20compacts%3B%20purposes.md)
 - [&sect; 05316 - Transition provisions](%C2%A7%2005316%20-%20Transition%20provisions.md)

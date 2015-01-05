@@ -98,7 +98,7 @@ Vessel Standards.—
 
 &emsp;(1)
 
-Certificate of inspection.—A vessel used to provide oceangoing transportation which the Secretary of the department in which the Coast Guard is operating determines meets the criteria of subsection (b) of this section but which, on the date of enactment of the Maritime Security Act of 2003, isnot documented under chapter 121 of this title, shall be eligible for a certificate of inspection if the Secretary determines that—
+Certificate of inspection.—A vessel used to provide oceangoing transportation which the Secretary of the department in which the Coast Guard is operating determines meets the criteria of subsection (b) of this section but which, on the date of enactment of the Maritime Security Act of 2003, is not documented under chapter 121 of this title, shall be eligible for a certificate of inspection if the Secretary determines that—
 
 &emsp;&emsp;(A) the vessel is classed by and designed in accordance with the rules of the American Bureau of Shipping, or another classification society accepted by the Secretary;
 

@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) the term “career reserved position” means a position in the Administration designated under section 3132(b) which may be filled only by—
+&emsp;(1) the term "career reserved position" means a position in the Administration designated under section 3132(b) which may be filled only by—
 
 &emsp;&emsp;(A) a career appointee; or
 
@@ -12,9 +12,9 @@
 
 &emsp;&emsp;&emsp;(ii) whose limited emergency or limited term appointment is approved in advance by the Office of Personnel Management;
 
-&emsp;(2) the term “limited emergency appointee” has the meaning given under section 3132; and
+&emsp;(2) the term "limited emergency appointee" has the meaning given under section 3132; and
 
-&emsp;(3) the term “limited term appointee” means an individual appointed to a Senior Executive Service position in the Administration to meet a bona fide temporary need, as determined by the Administrator.
+&emsp;(3) the term "limited term appointee" means an individual appointed to a Senior Executive Service position in the Administration to meet a bona fide temporary need, as determined by the Administrator.
 
 (b) The number of career reserved positions which are filled by an appointee as described under subsection (a)(1)(B) may not exceed 10 percent of the total number of Senior Executive Service positions allocated to the Administration.
 

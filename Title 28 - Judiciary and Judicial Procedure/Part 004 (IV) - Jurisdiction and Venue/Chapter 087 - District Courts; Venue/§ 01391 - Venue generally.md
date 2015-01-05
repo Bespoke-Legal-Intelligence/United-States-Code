@@ -48,7 +48,7 @@ Service.—The summons and complaint in such an action shall be served as provid
 
 Civil Actions Against a Foreign State.—A civil action against a foreign state as defined in section 1603(a) of this title may be brought—
 
-&emsp;(1) in any judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated;
+&emsp;(1) in any judicial district in which a substantial part of the events or omissions givingrise to the claim occurred, or a substantial part of property that is the subject of the action is situated;
 
 &emsp;(2) in any judicial district in which the vessel or cargo of a foreign state is situated, if the claim is asserted under section 1605(b) of this title;
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 112–63, §202(4), inserted heading.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–650, §311(1), substituted cls. (1) to (3) for "the judicial district where all plaintiffs or all defendants reside, or in which the claim arose".
 
-Subsec. (b). Pub. L. 101–650, §311(2), substituted "may, except as otherwise provided by law, be brought onlyif" and cls. (1) to (3) for "may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law".
+Subsec. (b). Pub. L. 101–650, §311(2), substituted "may, except as otherwise provided by law, be brought only if" and cls. (1) to (3) for "may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law".
 
 Subsec. (e). Pub. L. 101–650, §311(3), substituted "(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)" for "or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Exemption From Apportionment Requirement.—If the President determines such action to be necessary in the interest of national defense, the President may exempt from the provisions of section 1512 of title 31 appropriations,funds, and contract authorizations available for military functions of the Department of Defense.
+Exemption From Apportionment Requirement.—If the President determines such action to be necessary in the interest of national defense, the President may exempt from the provisions of section 1512 of title 31 appropriations, funds, and contract authorizations available for military functions of the Department of Defense.
 
 (b)
 

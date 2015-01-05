@@ -34,7 +34,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Director of OMB may transfer to an eligible Federal entity, at any time (including prior to a scheduled auction), such sums as may be available in the Fund to pay relocation or sharing costs related to pre-auction estimates or research, as such costs are described in section 923(g)(3)(A)(iii) of this title.
+&emsp;&emsp;Subject to subparagraph (B), the Director of OMB may transfer to an eligible Federalentity, at any time (including prior to a scheduled auction), such sums as may be available in the Fund to pay relocation or sharing costs related to pre-auction estimates or research, as such costs are described in section 923(g)(3)(A)(iii) of this title.
 
 #### (B) Notification
 
@@ -68,7 +68,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (4) Reversion of unused funds
 
-&emsp;Any amounts in the Fund that are remaining after the payment of the relocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury, for the sole purpose of deficit reduction, not later than 8 years after the date of the deposit of such proceeds to the Fund, unless within 60 days in advance of the reversion of such funds, the Director of OMB,in consultation with the NTIA, notifies the congressional committees described in paragraph (2)(C) that such funds are needed to complete or to implement current or future relocation or sharing arrangements.
+&emsp;Any amounts in the Fund that are remaining after the payment of the relocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury, for the sole purpose of deficit reduction, not later than 8 years after the date of the deposit of such proceeds to the Fund, unless within 60 days in advance of the reversion of such funds, the Director of OMB, in consultation with the NTIA, notifies the congressional committees described in paragraph (2)(C) that such funds are needed to complete or to implement current or future relocation or sharing arrangements.
 
 #### (e) Transfer to eligible Federal entities
 
@@ -100,7 +100,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (A) In general
 
-&emsp;&emsp;The Director of OMB, in consultation with the NTIA, may use amounts made available under paragraph (1) to make payments to eligible Federal entities that are implementing a transition plan submitted under section 923(h)(1) of this title in order to encourage such entities to complete the implementation more quickly, thereby encouraging timely access to the eligible frequencies that are being reallocated for exclusive non-Federal use or shared use.
+&emsp;&emsp;The Director of OMB, in consultation with the NTIA, may use amounts made availableunder paragraph (1) to make payments to eligible Federal entities that are implementing a transition plan submitted under section 923(h)(1) of this title in order to encourage such entities to complete the implementation more quickly, thereby encouraging timely access to the eligible frequencies that are being reallocated for exclusive non-Federal use or shared use.
 
 #### (B) Conditions
 
@@ -140,7 +140,7 @@ Pub. L. 112–96, §6702(3)(A)(ii), inserted "or sharing" before period at end.
 
 Subsec. (d)(2)(C). Pub. L. 112–96, §6702(3)(A)(iii), redesignated subpar. (B) as (C).
 
-Subsec. (d)(3). Pub. L. 112–96, §6702(3)(B), (C), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Any auction proceeds in the Fund that are remaining after the payment of therelocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund."
+Subsec. (d)(3). Pub. L. 112–96, §6702(3)(B), (C), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Any auction proceeds in the Fund that are remaining after the payment of the relocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund."
 
 Subsec. (d)(4). Pub. L. 112–96, §6702(3)(C), added par. (4).
 

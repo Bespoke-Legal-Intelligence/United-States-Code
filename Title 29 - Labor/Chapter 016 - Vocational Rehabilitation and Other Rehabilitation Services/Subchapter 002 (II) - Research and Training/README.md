@@ -11,8 +11,9 @@ Title II of the Rehabilitation Act of 1973, comprising this subchapter, was orig
 
 - [&sect; 00760 - Declaration of purpose](%C2%A7%2000760%20-%20Declaration%20of%20purpose.md)
 - [&sect; 00761 - Authorization of appropriations](%C2%A7%2000761%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 00762 - National Institute on Disability and Rehabilitation Research](%C2%A7%2000762%20-%20National%20Institute%20on%20Disability%20and%20Rehabilitation%20Research.md)
+- [&sect; 00762 - National Institute on Disability, Independent Living, and Rehabilitation Research](%C2%A7%2000762%20-%20National%20Institute%20on%20Disability%2C%20Independent%20Living%2C%20and%20Rehabilitation%20Research.md)
 - [&sect; 00762a - Research and demonstration projects](%C2%A7%2000762a%20-%20Research%20and%20demonstration%20projects.md)
 - [&sect; 00763 - Interagency Committee](%C2%A7%2000763%20-%20Interagency%20Committee.md)
 - [&sect; 00764 - Research and other covered activities](%C2%A7%2000764%20-%20Research%20and%20other%20covered%20activities.md)
-- [&sect; 00765 - Rehabilitation Research Advisory Council](%C2%A7%2000765%20-%20Rehabilitation%20Research%20Advisory%20Council.md)
+- [&sect; 00765 - Disability, Independent Living, and Rehabilitation Research Advisory Council](%C2%A7%2000765%20-%20Disability%2C%20Independent%20Living%2C%20and%20Rehabilitation%20Research%20Advisory%20Council.md)
+- [&sect; 00766 - Definition of covered school](%C2%A7%2000766%20-%20Definition%20of%20covered%20school.md)

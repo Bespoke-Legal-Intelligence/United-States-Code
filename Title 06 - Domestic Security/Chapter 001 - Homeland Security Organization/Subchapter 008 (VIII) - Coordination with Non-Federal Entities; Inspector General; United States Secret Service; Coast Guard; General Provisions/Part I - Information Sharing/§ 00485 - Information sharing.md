@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Homeland security information
 
-&emsp;The term “homeland security information” has the meaning given that term in section 482(f) of this title.
+&emsp;The term "homeland security information" has the meaning given that term in section 482(f) of this title.
 
 #### (2) Information Sharing Council
 
-&emsp;The term “Information Sharing Council” means the Information Systems Council established by Executive Order 13356, or any successor body designated by the President, and referred to under subsection (g) of this section.
+&emsp;The term "Information Sharing Council" means the Information Systems Council established by Executive Order 13356, or any successor body designated by the President, and referred to under subsection (g).
 
 #### (3) Information sharing environment
 
-&emsp;The terms “information sharing environment” and “ISE” mean an approach that facilitates the sharing of terrorism and homeland security information, which may include any method determined necessary and appropriate for carrying out this section.
+&emsp;The terms "information sharing environment" and "ISE" mean an approach that facilitates the sharing of terrorism and homeland security information, which may include any method determined necessary and appropriate for carrying out this section.
 
 #### (4) Program manager
 
-&emsp;The term “program manager” means the program manager designated under subsection (f) of this section.
+&emsp;The term "program manager" means the program manager designated under subsection (f).
 
 #### (5) Terrorism information
 
-&emsp;The term “terrorism information”—
+&emsp;The term "terrorism information"—
 
 &emsp;&emsp;(A) means all information, whether collected, produced, or distributed by intelligence, law enforcement, military, homeland security, or other activities relating to—
 
@@ -38,7 +38,7 @@ In this section:
 
 #### (6) Weapons of mass destruction information
 
-&emsp;The term “weapons of mass destruction information” means information that could reasonably be expected to assist in the development, proliferation, or use of a weapon of mass destruction (including a chemical, biological, radiological, or nuclear weapon) that could be used by a terrorist or a terrorist organization against the United States, including information about the location of any stockpile of nuclear materials that could be exploited for use in such a weapon that could be used by a terrorist or a terrorist organization against the United States.
+&emsp;The term "weapons of mass destruction information" means information that could reasonably be expected to assist in the development, proliferation, or use of a weapon of mass destruction (including a chemical, biological, radiological, or nuclear weapon) that could be used by a terrorist or a terrorist organization against the United States, including information about the location of any stockpile of nuclear materials that could be exploited for use in such a weapon that could be used by a terrorist or a terrorist organization against the United States.
 
 #### (b) Information sharing environment
 
@@ -70,7 +70,7 @@ In this section:
 
 &emsp;&emsp;(G) provides directory services, or the functional equivalent, for locating people and information;
 
-&emsp;&emsp;(H) incorporates protections for individuals’ privacy and civil liberties;
+&emsp;&emsp;(H) incorporates protections for individuals' privacy and civil liberties;
 
 &emsp;&emsp;(I) incorporates strong mechanisms to enhance accountability and facilitate oversight, including audits, authentication, and access controls;
 
@@ -80,7 +80,7 @@ In this section:
 
 &emsp;&emsp;(L) allows the full range of analytic and operational activities without the need to centralize information within the scope of the information sharing environment;
 
-&emsp;&emsp;(M) permits analysts to collaborate both independently and in a group (commonly known as “collective and noncollective collaboration”), and across multiple levels of national security information and controlled unclassified information;
+&emsp;&emsp;(M) permits analysts to collaborate both independently and in a group (commonly known as "collective and noncollective collaboration"), and across multiple levels of national security information and controlled unclassified information;
 
 &emsp;&emsp;(N) provides a resolution process that enables changes by authorized officials regarding rules and policies for the access, use, and retention of information within the scope of the information sharing environment; and
 
@@ -126,7 +126,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;(4) A project plan for designing, testing, integrating, deploying, and operating the ISE.
 
-&emsp;(5) The policies and directives referred to in subsection (b)(1)(C) of this section, as well as the metrics and enforcement mechanisms that will be utilized.
+&emsp;(5) The policies and directives referred to in subsection (b)(1)(C), as well as the metrics and enforcement mechanisms that will be utilized.
 
 &emsp;(6) Objective, systemwide performance measures to enable the assessment of progress toward achieving the full implementation of the ISE.
 
@@ -260,7 +260,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 The head of each department or agency that possesses or uses intelligence or terrorism information, operates a system in the ISE, or otherwise participates (or expects to participate) in the ISE shall—
 
-&emsp;(1) ensure full department or agency compliance with information sharing policies, procedures, guidelines, rules, and standards established under subsections (b) and (f) of this section;
+&emsp;(1) ensure full department or agency compliance with information sharing policies, procedures, guidelines, rules, and standards established under subsections (b) and (f);
 
 &emsp;(2) ensure the provision of adequate resources for systems and activities supporting operation of and participation in the ISE;
 
@@ -274,7 +274,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 &emsp;Not later than 180 days after August 3, 2007, the President shall report to the Committee on Homeland Security and Governmental Affairs of the Senate, the Select Committee on Intelligence of the Senate, the Committee on Homeland Security of the House of Representatives, and the Permanent Select Committee on Intelligence of the House of Representatives on the feasibility of—
 
-&emsp;&emsp;(A) eliminating the use of any marking or process (including “Originator Control”) intended to, or having the effect of, restricting the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, between and among participants in the information sharing environment, unless the President has—
+&emsp;&emsp;(A) eliminating the use of any marking or process (including "Originator Control") intended to, or having the effect of, restricting the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, between and among participants in the information sharing environment, unless the President has—
 
 &emsp;&emsp;&emsp;(i) specifically exempted categories of information from such elimination; and
 
@@ -282,7 +282,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 &emsp;&emsp;(B) continuing to use Federal agency standards in effect on August 3, 2007, for the collection, sharing, and access to information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, relating to citizens and lawful permanent residents;
 
-&emsp;&emsp;(C) replacing the standards described in subparagraph (B) with a standard that would allow mission-based or threat-based permission to access or share information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, for a particular purpose that the Federal Government, through an appropriate process established in consultation with the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, has determined to be lawfully permissible for a particular agency, component, or employee (commonly known as an “authorized use” standard); and
+&emsp;&emsp;(C) replacing the standards described in subparagraph (B) with a standard that would allow mission-based or threat-based permission to access or share information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, for a particular purpose that the Federal Government, through an appropriate process established in consultation with the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, has determined to be lawfully permissible for a particular agency, component, or employee (commonly known as an "authorized use" standard); and
 
 &emsp;&emsp;(D) the use of anonymized data by Federal departments, agencies, or components collecting, possessing, disseminating, or handling information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, in any cases in which—
 
@@ -292,7 +292,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 #### (2) Definition
 
-&emsp;In this subsection, the term “anonymized data” means data in which the individual to whom the data pertains is not identifiable with reasonable efforts, including information that has been encrypted or hidden through the use of other technology.
+&emsp;In this subsection, the term "anonymized data" means data in which the individual to whom the data pertains is not identifiable with reasonable efforts, including information that has been encrypted or hidden through the use of other technology.
 
 #### (k) Additional positions
 
@@ -322,29 +322,29 @@ The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92
 
 #### Codification
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Actof 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(10)(B). Pub. L. 111–259 substituted “Department of Justice” for “Attorney General”.
+<b>2010</b>—Subsec. (e)(10)(B). Pub. L. 111–259 substituted "Department of Justice" for "Attorney General".
 
 <b>2007</b>—Subsec. (a)(1), (2). Pub. L. 110–53, §504(1)(A), (B), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 110–53, §504(1)(C), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The terms ‘information sharing environment’ and ‘ISE’ mean an approach that facilitates the sharing of terrorism information, which approach may include any methods determined necessary and appropriate for carrying out this section.”
+Subsec. (a)(3). Pub. L. 110–53, §504(1)(C), added par. (3) and struck out heading and text of former par. (3). Text read as follows: "The terms 'information sharing environment' and 'ISE' mean an approach that facilitates the sharing of terrorism information, which approach may include any methods determined necessary and appropriate for carrying out this section."
 
 Pub. L. 110–53, §504(1)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 110–53, §504(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 110–53, §504(1)(D), added par. (5) and struck out heading and text of former par (5). Text read as follows: “The term ‘terrorism information’ means all information, whether collected, produced, or distributed by intelligence, law enforcement, military, homeland security, or other activities relating to—
+Subsec. (a)(5). Pub. L. 110–53, §504(1)(D), added par. (5) and struck out heading and text of former par (5). Text read as follows: "The term 'terrorism information' means all information, whether collected, produced, or distributed by intelligence, law enforcement, military, homeland security, or other activities relating to—
 
-&emsp;“(A) the existence, organization, capabilities, plans, intentions, vulnerabilities, means of finance or material support, or activities of foreign or international terrorist groups or individuals, or of domestic groups or individuals involved in transnational terrorism;
+&emsp;"(A) the existence, organization, capabilities, plans, intentions, vulnerabilities, means of finance or material support, or activities of foreign or international terrorist groups or individuals, or of domestic groups or individuals involved in transnational terrorism;
 
-&emsp;“(B) threats posed by such groups or individuals to the United States, United States persons, or United States interests, or to those of other nations;
+&emsp;"(B) threats posed by such groups or individuals to the United States, United States persons, or United States interests, or to those of other nations;
 
-&emsp;“(C) communications of or by such groups or individuals; or
+&emsp;"(C) communications of or by such groups or individuals; or
 
-&emsp;“(D) groups or individuals reasonably believed to be assisting or associated with such groups or individuals.”
+&emsp;"(D) groups or individuals reasonably believed to be assisting or associated with such groups or individuals."
 
 Pub. L. 110–53, §504(1)(A), redesignated par. (4) as (5).
 
@@ -352,31 +352,31 @@ Subsec. (a)(6). Pub. L. 110–53, §504(1)(E), added par. (6).
 
 Subsec. (b)(2)(J) to (O). Pub. L. 110–53, §504(2), added subpars. (J) to (O).
 
-Subsec. (f)(1). Pub. L. 110–53, §504(3)(A), substituted “until removed from service or replaced” for “during the two-year period beginning on the date of designation under this paragraph unless sooner removed from service and replaced” and “The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law” for “The program manager shall have and exercise governmentwide authority”.
+Subsec. (f)(1). Pub. L. 110–53, §504(3)(A), substituted "until removed from service or replaced" for "during the two-year period beginning on the date of designation under this paragraph unless sooner removed from service and replaced" and "The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law" for "The program manager shall have and exercise governmentwide authority".
 
-Subsec. (f)(2)(A)(ii) to (v). Pub. L. 110–53, §504(3)(B), added cls. (ii) to (iv), redesignated former cl. (iii) as (v), and struck out former cl. (ii) which read as follows: “assist in the development of policies, procedures, guidelines, rules, and standards as appropriate to foster the development and proper operation of the ISE; and”.
+Subsec. (f)(2)(A)(ii) to (v). Pub. L. 110–53, §504(3)(B), added cls. (ii) to (iv), redesignated former cl. (iii) as (v), and struck out former cl. (ii) which read as follows: "assist in the development of policies, procedures, guidelines, rules, and standards as appropriate to foster the development and proper operation of the ISE; and".
 
-Subsec. (g)(1). Pub. L. 110–53, §504(4)(A), substituted “until removed from service or replaced” for “during the two-year period beginning on the date of the initial designation of the program manager by the President under subsection (f)(1) of this section, unless sooner removed from service and replaced”.
+Subsec. (g)(1). Pub. L. 110–53, §504(4)(A), substituted "until removed from service or replaced" for "during the two-year period beginning on the date of the initial designation of the program manager by the President under subsection (f)(1) of this section, unless sooner removed from service and replaced".
 
 Subsec. (g)(2)(G) to (I). Pub. L. 110–53, §504(4)(B), added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
 
-Subsec. (g)(4). Pub. L. 110–53, §504(4)(C), inserted “(including any subsidiary group of the Information Sharing Council)” before “shall not be subject”.
+Subsec. (g)(4). Pub. L. 110–53, §504(4)(C), inserted "(including any subsidiary group of the Information Sharing Council)" before "shall not be subject".
 
 Subsec. (g)(5). Pub. L. 110–53, §504(4)(D), added par. (5).
 
-Subsec. (h)(1). Pub. L. 110–53, §504(5), substituted “and not later than June 30 of each year thereafter” for “and annually thereafter”.
+Subsec. (h)(1). Pub. L. 110–53, §504(5), substituted "and not later than June 30 of each year thereafter" for "and annually thereafter".
 
-Subsecs. (j) to (l). Pub. L. 110–53, §504(6), added subsecs. (j) to (l) and struck out heading and text of former subsec. (j). Text read as follows: “There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2005 and 2006.”
+Subsecs. (j) to (l). Pub. L. 110–53, §504(6), added subsecs. (j) to (l) and struck out heading and text of former subsec. (j). Text read as follows: "There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2005 and 2006."
 
 #### Effective Date
 
-For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
+For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
 #### Procedures To Clear Individuals From Terrorist Database Lists
 
-Pub. L. 109–295, title V, §556, Oct. 4, 2006, 120 Stat. 1391, provided that: “Not later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall establish revised procedures for expeditiously clearing individuals whose names have been mistakenly placed on a terrorist database list or who have names identical or similar to individuals on a terrorist database list. The Secretary shall advise Congress of the procedures established.”
+Pub. L. 109–295, title V, §556, Oct. 4, 2006, 120 Stat. 1391, provided that: "Not later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall establish revised procedures for expeditiously clearing individuals whose names have been mistakenly placed on a terrorist database list or who have names identical or similar to individuals on a terrorist database list. The Secretary shall advise Congress of the procedures established."
 
 #### Executive Order No. 13356
 
@@ -396,7 +396,7 @@ Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, 
 
 Sec. 2. <i>Duties of Heads of Agencies Possessing or Acquiring Terrorism Information</i>. To implement the policy set forth in section 1 of this order, the head of each agency that possesses or acquires terrorism information:
 
-(a) shall promptly give access to the terrorism information to the head of each other agency that hascounterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 3024(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], \[former\] Executive Order 12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
+(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 3024(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], \[former\] Executive Order 12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
 
 (b) shall cooperate in and facilitate production of reports based on terrorism information with contents and formats that permit dissemination that maximizes the utility of the information in protecting the territory, people, and interests of the United States.
 
@@ -412,17 +412,17 @@ Sec. 5. <i>Establishment and Functions of Information Sharing Council</i>. (a) C
 
 Sec. 6. <i>Definitions</i>. As used in this order:
 
-(a) the term “agency” has the meaning set forth for the term “executive agency” in section 105 of title 5, United States Code, together with the Department of Homeland Security, but includes the Postal Rate Commission and the United States Postal Service and excludes the Government Accountability Office; and
+(a) the term "agency" has the meaning set forth for the term "executive agency" in section 105 of title 5, United States Code, together with the Department of Homeland Security, but includes the Postal Rate Commission and the United States Postal Service and excludes the Government Accountability Office; and
 
-(b) the term “terrorism information” has the meaning set forth for such term in section 1016(a)(4) of the Intelligence Reform and Terrorism Prevention Act of 2004.
+(b) the term "terrorism information" has the meaning set forth for such term in section 1016(a)(4) of the Intelligence Reform and Terrorism Prevention Act of 2004.
 
 Sec. 7. <i>General Provisions</i>. (a) This order:
 
 (i) shall be implemented in a manner consistent with applicable law, including Federal law protecting the information privacy and other legal rights of Americans, and subject to the availability of appropriations;
 
-(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
+(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies asheads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
 
-(iii) shall be implemented consistent with the Presidential Memorandum of June 2, 2005, on “Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment;” \[not set out in the Code\]
+(iii) shall be implemented consistent with the Presidential Memorandum of June 2, 2005, on "Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment;" \[not set out in the Code\]
 
 (iv) shall not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals; and
 
@@ -456,9 +456,9 @@ Memorandum of President of the United States, Apr. 10, 2007, 72 F.R. 18561, prov
 
 Memorandum for the Director of National Intelligence
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, the functions of the President under section 1016(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) (the “Act”) are hereby assigned to the Director of National Intelligence (Director).
+By the authority vested in me as President by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, the functions of the President under section 1016(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) (the "Act") are hereby assigned to the Director of National Intelligence (Director).
 
-The Director shall perform such functions in a manner consistent with direction and guidance issued by the President, including (1) the Memorandum for the Heads of Executive Departments and Agencies of June 2, 2005, entitled “Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment,” and (2) the Memorandum for the Heads of Executive Departments and Agencies of December 16, 2005, entitled “Guidelines and Requirements in Support of the Information Sharing Environment;” provided that the Director shall ensure that the official within the Office of the Director of National Intelligence previously designated as the program manager responsible for information sharing across the Federal Government pursuant to the Act shall be the assistant to the Director in carrying out the functions delegated by this memorandum.
+The Director shall perform such functions in a manner consistent with direction and guidance issued by the President, including (1) the Memorandum for the Heads of Executive Departments and Agencies of June 2, 2005, entitled "Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment," and (2) the Memorandum for the Heads of Executive Departments and Agencies of December 16, 2005, entitled "Guidelines and Requirements in Support of the Information Sharing Environment;" provided that the Director shall ensure that the official within the Office of the Director of National Intelligence previously designated as the program manager responsible for information sharing across the Federal Government pursuant to the Act shall be the assistant to the Director in carrying out the functions delegated by this memorandum.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

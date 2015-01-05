@@ -50,7 +50,7 @@ Violations over time.—A separate violation under this subsection occurs for ea
 
 &emsp;&emsp;(B)
 
-Separate items.—A separate violation under this subsection occurs for each item containing hazardous material that is mailed or caused to be mailed in noncompliance with this section.
+Separate items.—A separate violation under this subsection occurs for each itemcontaining hazardous material that is mailed or caused to be mailed in noncompliance with this section.
 
 (d)
 

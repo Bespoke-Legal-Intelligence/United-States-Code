@@ -10,9 +10,9 @@
 
 (2)(A) In any case in which no district judge meets the qualifications of paragraph (1), the youngest district judge in regular active service who is sixty-five years of age or over and who has served as district judge for one year or more shall act as the chief judge.
 
-(B) In any case under subparagraph (A) in which there is no district judge in regular active service who has served as a district judge for one year or more, the district judge in regular active service who is senior in commission and who has not served previously as chief judge shall act as the chief judge.
+(B) In any case under subparagraph (A) in which there is no district judge in regular active service who has served as a district judge for one year or more, the district judge in regular active service who is senior in commission and who hasnot served previously as chief judge shall act as the chief judge.
 
-(3)(A) Except as provided in subparagraph (C), the chief judge of the district appointed underparagraph (1) shall serve for a term of seven years and shall serve after expiration of such term until another judge is eligible under paragraph (1) to serve as chief judge of the district.
+(3)(A) Except as provided in subparagraph (C), the chief judge of the district appointed under paragraph (1) shall serve for a term of seven years and shall serve after expiration of such term until another judge is eligible under paragraph (1) to serve as chief judge of the district.
 
 (B) Except as provided in subparagraph (C), a district judge acting as chief judge under subparagraph (A) or (B) of paragraph (2) shall serve until a judge has been appointed who meets the qualifications under paragraph (1).
 

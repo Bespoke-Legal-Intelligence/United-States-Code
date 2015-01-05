@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Beginning on July 1, 2000, the Secretary shall award a grant to each State that exceeds the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the adjusted levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 105–332 (20 U.S.C. 2301 et seq.),<sup>1</sup> for the purpose of carrying out an innovative program consistent with the requirements of any one or more of the programs within title I, title II, or such Public Law, respectively.
+Beginning on July 1, 2000, the Secretary shall award a grant to each State that exceeds the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the adjusted levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 105–332 (20 U.S.C. 2301 et seq.),<sup>1</sup> forthe purpose of carrying out an innovative program consistent with the requirements of any one or more of the programs within title I, title II, or such Public Law, respectively.
 
 #### (b) Application
 
@@ -36,6 +36,10 @@ Notwithstanding any other provision of this section, for fiscal year 2000, the S
 
 (Pub. L. 105–220, title V, §503, Aug. 7, 1998, 112 Stat. 1244; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(f)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417; Pub. L. 106–246, div. B, title II, §2403(a)(1), July 13, 2000, 114 Stat. 555.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 Title I, referred to in subsecs. (a) and (b)(2)(C), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
@@ -51,6 +55,10 @@ Public Law 105–332 (20 U.S.C. 2301 et seq.), referred to in subsecs. (a), (b)(
 Subsec. (d). Pub. L. 106–246, §2403(a)(1)(B), added subsec. (d).
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted "adjusted" for "expected" before "levels of performance for title II".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -118,7 +118,7 @@ Allocation of Funds.—Of the funds made available by or appropriated to carry o
 
 Availability of Funds.—Funds apportioned under this section to a State that have not been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566; Pub. L. 111–147, title IV, §431, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2301, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §301, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §131, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §301, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §301, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20030(a), div. G, title III, §113001, July 6, 2012, 126 Stat. 730, 983.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566; Pub. L.111–147, title IV, §431, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2301, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §301, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §131, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §301, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §301, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20030(a), div. G, title III, §113001, July 6, 2012, 126 Stat. 730, 983.)
 
 Historical and Revision Notes
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with te
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 ofPub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

@@ -2,19 +2,85 @@
 
 #### (a) In general
 
-There is hereby authorized a comprehensive program to provide for control and progressive eradication of noxious aquatic plant growths from the navigable waters, tributary streams, connecting channels, and other allied waters of the United States, in the combined interest of navigation, flood control, drainage, agriculture, fish and wildlife conservation, public health, and related purposes, including continued research for development of the most effective and economic control measures, to be administered by the Chief of Engineers, under the direction of the Secretary of the Army, in cooperation with other Federal and State agencies. Local interests shall agree to hold and save the United States free from claims that may occur from control operations and to participate to the extent of 30 per centum of the cost of such operations. Costs for research and planning undertaken pursuant to the authorities of this section shall be borne fully by the Federal Government.
+#### (1) In general
+
+&emsp;There is hereby authorized a comprehensive program to provide for prevention, control, and progressive eradication of noxious aquatic plant growths and aquatic invasive species from the navigable waters, tributary streams, connecting channels, and other allied waters of the United States, in the combined interest of navigation, flood control, drainage, agriculture, fish and wildlife conservation, public health, and related purposes, including continued research for development of the most effective and economic control measures, to be administered by the Chief of Engineers, underthe direction of the Secretary of the Army, in cooperation with other Federal and State agencies.
+
+#### (2) Local interests
+
+&emsp;Local interests shall agree to hold and save the United States free from claims that may occur from control operations and to participate to the extent of 30 per centum of the cost of such operations.
+
+#### (3) Federal costs
+
+&emsp;Costs for research and planning undertaken pursuant to the authorities of this section shall be borne fully by the Federal Government.
 
 #### (b) Appropriations
 
-There are authorized to be appropriated such amounts, not in excess of $15,000,000 annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds.
+There are authorized to be appropriated such amounts, not in excess of $40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds.
 
 #### (c) Support
 
 In carrying out the program under this section, the Secretary is encouraged to use contracts, cooperative agreements, and grants with colleges and universities and other non-Federal entities.
 
-(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, §101, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285.)
+#### (d) Watercraft inspection stations
+
+#### (1) In general
+
+&emsp;In carrying out this section, the Secretary may establish watercraft inspection stations in the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary.
+
+#### (2) Cost share
+
+&emsp;The non-Federal share of the cost of constructing, operating, and maintaining watercraft inspection stations described in paragraph (1) (including personnel costs) shall be—
+
+&emsp;&emsp;(A) 50 percent; and
+
+&emsp;&emsp;(B) provided by the State or local governmental entity in which such inspection station is located.
+
+#### (3) Coordination
+
+&emsp;In carrying out this subsection, the Secretary shall consult and coordinate with—
+
+&emsp;&emsp;(A) the States described in paragraph (1);
+
+&emsp;&emsp;(B) Indian tribes; and
+
+&emsp;&emsp;(C) other Federal agencies, including—
+
+&emsp;&emsp;&emsp;(i) the Department of Agriculture;
+
+&emsp;&emsp;&emsp;(ii) the Department of Energy;
+
+&emsp;&emsp;&emsp;(iii) the Department of Homeland Security;
+
+&emsp;&emsp;&emsp;(iv) the Department of Commerce; and
+
+&emsp;&emsp;&emsp;(v) the Department of the Interior.
+
+#### (e) Monitoring and contingency planning
+
+In carrying out this section, the Secretary may—
+
+&emsp;(1) carry out risk assessments of water resources facilities;
+
+&emsp;(2) monitor for aquatic invasive species;
+
+&emsp;(3) establish watershed-wide plans for expedited response to an infestation of aquatic invasive species; and
+
+&emsp;(4) monitor water quality, including sediment cores and fish tissue samples.
+
+(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, §1039(d), June 10, 2014, 128 Stat. 1238.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–121, §1039(d)(1)(A)–(C), designated first, second, and third sentences as pars. (1) to (3), respectively, and inserted headings.
+
+Subsec. (a)(1). Pub. L. 113–121, §1039(d)(1)(D)(ii), inserted "and aquatic invasive species" after "noxious aquatic plant growths".
+
+Pub. L. 113–121, §1039(d)(1)(D)(i), which directed substitution of "prevention, control, and progressive" for "control and progressive,", was executed by making the substitution for "control and progressive" to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 113–121, §1039(d)(2), substituted "$40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually" for "$15,000,000 annually".
+
+Subsecs. (d), (e). Pub. L. 113–121, §1039(d)(3), added subsecs. (d) and (e).
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–53, §205(1), substituted "noxious aquatic plant growths from" for "water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from" in first sentence.
 

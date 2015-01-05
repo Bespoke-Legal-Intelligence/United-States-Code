@@ -26,7 +26,7 @@ Nothing in this section shall require the payment of tax with respect to any cal
 
 #### Prior Provisions
 
-A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, §6156; renumbered §6157, June 29, 1961, Pub. L. 87–61, title II, §203(c)(1), 75 Stat. 125, made a cross reference provision for payment of taxes under provisions of the Tariff Act, prior to repeal by Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91.
+A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, §6156; renumbered §6157, June 29, 1961, Pub. L.87–61, title II, §203(c)(1), 75 Stat. 125, made a cross reference provision for payment of taxes under provisions of the Tariff Act, prior to repeal by Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91.
 
 #### Amendments
 

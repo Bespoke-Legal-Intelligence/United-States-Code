@@ -40,7 +40,7 @@ This Act, referred to in subsec. (e)(1), probably means Pub. L. 94–135, Nov. 2
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–478, §401(d), authorized disbursement of withheld funds directly to organization or agency demonstrating ability to achieve the goals of the Federal statute authorizing the program or activity while complying with the regulations.
 
-Subsec. (e). Pub. L. 95–478, §401(c), substituted provisions relating to injunctions, notice of violations, and costs for provision making this section the exclusive remedy for the enforcement of the provisions of this chapter.
+Subsec. (e). Pub. L. 95–478, §401(c), substituted provisions relating to injunctions, notice of violations, andcosts for provision making this section the exclusive remedy for the enforcement of the provisions of this chapter.
 
 Subsec. (f). Pub. L. 95–478, §401(c), added subsec. (f).
 

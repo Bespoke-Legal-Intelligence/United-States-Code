@@ -8,7 +8,7 @@ In this chapter—
 
 &emsp;&emsp;(B) a place outside that territory, possession, or Trust Territory.
 
-&emsp;(2) "economic benefit of the overloading" means the amount obtained by multiplyingthe weight of the overload (in tons) by the lesser of—
+&emsp;(2) "economic benefit of the overloading" means the amount obtained by multiplying the weight of the overload (in tons) by the lesser of—
 
 &emsp;&emsp;(A) the average freight rate value of a ton of the vessel's cargo for the voyage; or
 

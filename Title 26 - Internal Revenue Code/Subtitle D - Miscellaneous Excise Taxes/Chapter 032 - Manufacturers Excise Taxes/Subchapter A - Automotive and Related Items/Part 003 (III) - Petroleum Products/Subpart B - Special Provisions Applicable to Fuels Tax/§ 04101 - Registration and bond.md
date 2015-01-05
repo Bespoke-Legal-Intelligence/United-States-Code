@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, everyperson producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
+&emsp;Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
 
 #### (2) Registration of persons within foreign trade zones, etc.
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 97–424 applicable to articles sold after Jan. 6, 1983, se
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–44 applicable with respect to articles sold on or after July 1, 1965, see section 802(d)(1) of Pub. L. 89–44, set out as a note under section 4082 of this title.
+Amendment by Pub. L. 89–44 applicable with respect to articles sold on or after July 1, 1965, see section802(d)(1) of Pub. L. 89–44, set out as a note under section 4082 of this title.
 
 #### Treatment of Deep-Draft Vessels
 

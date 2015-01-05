@@ -24,7 +24,7 @@ There are established within the Office, to carry out the programmatic responsib
 
 #### (ii) Mitigation of report burden
 
-&emsp;&emsp;&emsp;Before requiring the submission of a report from any financial company that is regulated by a member agency, any primary financial regulatory agency, a foreign supervisory authority, or the Office shall coordinate with such agencies or authority, and shall, whenever possible, rely on information available from such agencies or authority.
+&emsp;&emsp;&emsp;Before requiring the submission of a report from any financial company that isregulated by a member agency, any primary financial regulatory agency, a foreign supervisory authority, or the Office shall coordinate with such agencies or authority, and shall, whenever possible, rely on information available from such agencies or authority.
 
 #### (iii) Collection of financial transaction and position data
 

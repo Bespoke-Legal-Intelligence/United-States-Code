@@ -24,7 +24,7 @@
 
 The Board of Directors of the Corporation shall not vote in favor of any action proposed to be taken by the Corporation that is likely to have significant adverse environmental impacts that are sensitive, diverse, or unprecedented, unless for at least 60 days before the date of the vote—
 
-&emsp;(1) an environmental impact assessment or initial environmental audit, analyzing the environmental impacts of the proposed action and of alternatives to the proposed action hasbeen completed by the project applicant and made available to the Board of Directors; and
+&emsp;(1) an environmental impact assessment or initial environmental audit, analyzing the environmental impacts of the proposed action and of alternatives to the proposed action has been completed by the project applicant and made available to the Board of Directors; and
 
 &emsp;(2) such assessment or audit has been made available to the public of the United States, locally affected groups in the host country, and host country nongovernmental organizations.
 

@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to procee
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of this title.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

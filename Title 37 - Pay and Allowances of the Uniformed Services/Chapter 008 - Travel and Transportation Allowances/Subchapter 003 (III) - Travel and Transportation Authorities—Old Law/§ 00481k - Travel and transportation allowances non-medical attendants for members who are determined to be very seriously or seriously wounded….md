@@ -44,7 +44,7 @@ Authorized Travel and Transportation.—(1) The transportation authorized by sub
 
 Termination.—No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 111–84, div. A, title VI, §633(a)(1), Oct. 28, 2009, 123 Stat. 2362, §411k; amended Pub. L. 111–383, div. A, title X, §1075(c)(4), Jan. 7, 2011, 124 Stat. 4372; renumbered §481k and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(24), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465;Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 111–84, div. A, title VI, §633(a)(1), Oct. 28, 2009, 123 Stat. 2362, §411k; amended Pub. L. 111–383, div. A, title X, §1075(c)(4), Jan. 7, 2011, 124 Stat. 4372; renumbered §481k and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(24), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective and Termination Dates
 
-Section effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and tocease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
+Section effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
 
 #### Effect of Termination of NAFTA Country Status
 

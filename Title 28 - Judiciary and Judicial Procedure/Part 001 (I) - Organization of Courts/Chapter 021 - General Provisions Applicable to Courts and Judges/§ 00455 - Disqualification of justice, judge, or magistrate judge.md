@@ -72,7 +72,7 @@ Changes were made in phraseology.
 
 #### Change of Name
 
-Words "magistrate judge" substituted for "magistrate" in section catchline and wherever appearing insubsecs. (a), (e), and (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words "magistrate judge" substituted for "magistrate" in section catchline and wherever appearing in subsecs. (a), (e), and (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1978 Amendment
 

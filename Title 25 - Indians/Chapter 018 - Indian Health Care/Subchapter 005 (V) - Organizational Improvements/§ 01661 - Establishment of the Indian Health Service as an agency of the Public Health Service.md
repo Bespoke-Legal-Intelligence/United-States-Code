@@ -76,7 +76,7 @@ The Director shall—
 
 &emsp;Notwithstanding any other provision of law, the provisions of section 472 of this title,<sup>1</sup> shall apply to all personnel actions taken with respect to new positions created within the Service as a result of its establishment under subsection (a).
 
-(Pub. L. 94–437, title VI, §601, as added Pub. L. 100–713, title VI, §601(a), Nov. 23, 1988, 102 Stat. 4824; amended Pub. L. 102–573, title VI, §§601, 602(a)(1), (c), title IX, §902(6), (7), Oct. 29, 1992, 106 Stat. 4571, 4592; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VI, §601, as added Pub. L. 100–713, title VI, §601(a), Nov. 23, 1988, 102 Stat.4824; amended Pub. L. 102–573, title VI, §§601, 602(a)(1), (c), title IX, §902(6), (7), Oct. 29, 1992, 106 Stat. 4571, 4592; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 

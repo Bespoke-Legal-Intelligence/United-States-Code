@@ -22,7 +22,7 @@ The amount of contractor employee compensation under this part for the survivor 
 
 #### (b) One amount only
 
-The survivor of a covered DOE contractor employee to whom more than one amount undersubsection (a) of this section applies shall receive only the highest such amount.
+The survivor of a covered DOE contractor employee to whom more than one amount under subsection (a) of this section applies shall receive only the highest such amount.
 
 #### (c) Determination and allocation of shares
 

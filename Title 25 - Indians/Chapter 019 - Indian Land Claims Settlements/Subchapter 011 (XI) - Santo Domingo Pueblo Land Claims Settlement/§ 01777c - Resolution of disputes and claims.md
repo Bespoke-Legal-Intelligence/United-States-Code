@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) the Pueblo's title to lands acquired by or for the benefit of the Pueblo since December 28, 1927, or in a tract of land of approximately 150.14 acres known as the "sliver area" and described on a plat which is appendix H to the Settlement Agreement;
 
-&emsp;&emsp;&emsp;(ii) the Pueblo's title to land within the Santo Domingo Pueblo Grant which thePueblo Lands Board found not to have been extinguished; or
+&emsp;&emsp;&emsp;(ii) the Pueblo's title to land within the Santo Domingo Pueblo Grant which the Pueblo Lands Board found not to have been extinguished; or
 
 &emsp;&emsp;&emsp;(iii) the Pueblo's water rights appurtenant to the lands described in clauses (i) and (ii); and
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the Settlement Agreement, any transfer of land or natural resources, prior to November 1, 2000, located anywhere within the United States from, by, or on behalf of the Pueblo, or any of the Pueblo's members, shall be deemed to have been made in accordance with the Act of June 30, 1834 (4 Stat. 729; commonly referred to as the Trade and Intercourse Act), section 17 of the Act of June 7, 1924 (43 Stat. 641; commonly referred to as the Pueblo Lands Act), and any other provision of Federal law that specifically applies to transfers of land or natural resources from, by, or on behalf of an Indian tribe, and such transfers shall be deemed to be ratified effective as of the date of the transfer.
+&emsp;&emsp;In accordance with the Settlement Agreement, any transfer of land or natural resources, prior to November 1, 2000, located anywhere within the United States from, by, or on behalf of the Pueblo, or any of the Pueblo's members, shall be deemed to have been made in accordance with the Act of June 30, 1834 (4 Stat. 729; commonly referred to as the Trade and Intercourse Act), section 17 of the Act of June 7, 1924 (43 Stat. 641; commonly referred to as the Pueblo Lands Act), and any other provision of Federal lawthat specifically applies to transfers of land or natural resources from, by, or on behalf of an Indian tribe, and such transfers shall be deemed to be ratified effective as of the date of the transfer.
 
 #### (B) Rule of construction
 
@@ -98,7 +98,7 @@
 
 #### (c) Activities upon compromise
 
-On the date of the entry of the final compromise judgment in the case of Pueblo of Santo Domingo v. United States (Indian Claims Commission docket No. 355) in the United StatesCourt of Federal Claims, and the dismissal with prejudice of the case of Pueblo of Santo Domingo v. Rael (No. CIV–83–1888) in the United States District Court for the District of New Mexico, whichever occurs later—
+On the date of the entry of the final compromise judgment in the case of Pueblo of Santo Domingo v. United States (Indian Claims Commission docket No. 355) in the United States Court of Federal Claims, and the dismissal with prejudice of the case of Pueblo of Santo Domingo v. Rael (No. CIV–83–1888) in the United States District Court for the District of New Mexico, whichever occurs later—
 
 &emsp;(1) the public lands administered by the Bureau of Land Management and described in section 6 of the Settlement Agreement, and consisting of approximately 4,577.10 acres of land, shall thereafter be held by the United States in trust for the benefit of the Pueblo, subject to valid existing rights and rights of public and private access, as provided for in the Settlement Agreement;
 
@@ -106,7 +106,7 @@ On the date of the entry of the final compromise judgment in the case of Pueblo 
 
 &emsp;(3) lands conveyed by the Secretary of Agriculture pursuant to this section shall no longer be considered part of the National Forest System and upon any conveyance of National Forest lands, the boundaries of the Santa Fe National Forest shall be deemed modified to exclude such lands;
 
-&emsp;(4) until the National Forest lands are conveyed to the Pueblo pursuant to this section, or until the Pueblo's right to purchase such lands expires pursuant to section 7 of the Settlement Agreement, such lands are withdrawn, subject to valid existing rights, from any new public use or entry under any Federal land law, except for permits not to exceed 1 year, and shall not be identified for any disposition by or for any agency, and no mineral production or harvest of forest products shall be permitted, except that nothing in this subsection shall preclude forest management practices on such lands, including the harvest of timber in the event of fire, disease, or insect infestation; and
+&emsp;(4) until the National Forest lands are conveyed to the Pueblo pursuant to this section, or until the Pueblo's right to purchase such lands expires pursuant to section 7 of the Settlement Agreement, such lands are withdrawn,subject to valid existing rights, from any new public use or entry under any Federal land law, except for permits not to exceed 1 year, and shall not be identified for any disposition by or for any agency, and no mineral production or harvest of forest products shall be permitted, except that nothing in this subsection shall preclude forest management practices on such lands, including the harvest of timber in the event of fire, disease, or insect infestation; and
 
 &emsp;(5) once the Pueblo has acquired title to the former National Forest System lands, these lands may be conveyed by the Pueblo to the Secretary of the Interior who shall accept and hold such lands in the name of the United States in trust for the benefit of the Pueblo.
 

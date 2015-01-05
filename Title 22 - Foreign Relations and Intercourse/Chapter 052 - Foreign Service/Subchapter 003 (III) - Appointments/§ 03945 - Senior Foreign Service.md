@@ -6,11 +6,11 @@ Appointment to the Senior Foreign Service shall be to a salary class established
 
 #### (b) Limited appointment
 
-An individual may not be given a limited appointment in the Senior Foreign Service if that appointment would cause the number of members of the Senior Foreign Service serving under limited appointments to exceed 5 percent of the total number of members of the Senior Foreign Service, except that (1) members of the Senior Foreign Service assigned to the Peace Corps shall be excluded in the calculation and application of this limitation, and (2) members of the Senior Foreign Service serving under limited appointments with reemployment rights under section 3950 of this title as career appointees inthe Senior Executive Service shall be considered to be career members of the Senior Foreign Service for purposes of this subsection.
+An individual may not be given a limited appointment in the Senior Foreign Service if that appointment would cause the number of members of the Senior Foreign Service serving under limited appointments to exceed 5 percent of the total number of members of the Senior Foreign Service, except that (1) members of the Senior Foreign Service assigned to the Peace Corps shall be excluded in the calculation and application of this limitation, and (2) members of the Senior Foreign Service serving under limited appointments with reemployment rights under section 3950 of this title as career appointees in the Senior Executive Service shall be considered to be career members of the Senior Foreign Service for purposes of this subsection.
 
 #### (c) Appointments by Secretary of Commerce
 
-(1) Appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and application of the limitation in subsection (b) of this section.
+(1) Appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and application of the limitation in subsection (b).
 
 (2) Except as provided in paragraph (3), no more than one individual (other than an individual with reemployment rights under section 3950 of this title as a career appointee in the Senior Executive Service) may serve under a limited appointment in the Senior Foreign Service in the Department of Commerce at any time.
 

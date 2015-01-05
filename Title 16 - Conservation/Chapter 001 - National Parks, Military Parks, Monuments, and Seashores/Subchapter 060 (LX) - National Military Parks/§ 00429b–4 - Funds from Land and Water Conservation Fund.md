@@ -2,7 +2,7 @@
 
 #### (a) Maximum amount usable for acquisition of property
 
-In addition to sums heretofore expended for the acquisition of property and interests therein for the park, from funds available for expenditure from the Land and Water Conservation Fund, as established under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460l–4 et seq.\], not more than a total of $8,700,000 may be expended for the acquisition of property and interests therein under sections 429b to 429b–5 of this title.
+In addition to sums heretofore expended for the acquisition of property and interests therein for the park, from funds available for expenditure from the Land and Water Conservation Fund, as established under the Land and Water Conservation Fund Act of 1965,<sup>1</sup> not more than a total of $8,700,000 may be expended for the acquisition of property and interests therein under sections 429b to 429b–5 of this title.
 
 #### (b) Completion of acquisition in two years
 
@@ -12,5 +12,7 @@ It is the express intent of Congress that, except for property referred to in se
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 10, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

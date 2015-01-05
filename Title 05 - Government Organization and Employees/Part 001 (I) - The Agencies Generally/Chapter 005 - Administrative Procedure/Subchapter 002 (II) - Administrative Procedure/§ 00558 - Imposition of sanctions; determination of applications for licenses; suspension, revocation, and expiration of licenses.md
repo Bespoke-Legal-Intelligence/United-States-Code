@@ -30,7 +30,7 @@ June 11, 1946, ch. 324, §9, 60 Stat. 242.
 
 In subsection (b), the prohibition is restated in positive form.
 
-In subsection (c), the words “within a reasonable time” are substituted for “with reasonable dispatch”. The last two sentences are restated for conciseness and clarity and to restate the prohibition in positive form.
+In subsection (c), the words "within a reasonable time" are substituted for "with reasonable dispatch". The last two sentences are restated for conciseness and clarity and to restate the prohibition in positive form.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -20,7 +20,7 @@
 | [1313\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001313%20-%20Rights%20and%20protections%20under%20Fair%20Labor%20Standards%20Act%20of%201938.md) | Rights and protections under Fair Labor Standards Act of 1938. |
 | [1314\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001314%20-%20Rights%20and%20protections%20under%20Employee%20Polygraph%20Protection%20Act%20of%201988.md) | Rights and protections under Employee Polygraph Protection Act of 1988. |
 | [1315\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001315%20-%20Rights%20and%20protections%20under%20Worker%20Adjustment%20and%20Retraining%20Notification%20Act.md) | Rights and protections under Worker Adjustment and Retraining Notification Act. |
-| [1316\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001316%20-%20Rights%20and%20protections%20relating%20to%20veterans%E2%80%99%20employment%20and%20reemployment.md) | Rights and protections relating to veterans’ employment and reemployment. |
+| [1316\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001316%20-%20Rights%20and%20protections%20relating%20to%20veterans%27%20employment%20and%20reemployment.md) | Rights and protections relating to veterans' employment and reemployment. |
 | [1316a.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001316a%20-%20Legislative%20branch%20appointments.md) | Legislative branch appointments. |
 | [1317\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001317%20-%20Prohibition%20of%20intimidation%20or%20reprisal.md) | Prohibition of intimidation or reprisal. |
 
@@ -62,7 +62,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1371\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20F%20-%20Study/%C2%A7%2001371%20-%20Study%20and%20recommendations%20regarding%20Government%20Accountability%20Office%2C%20Government%20Printing%20Office%2C%20and%20Library%20of%20Congress.md) | Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress. |
+| [1371\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20F%20-%20Study/%C2%A7%2001371%20-%20Study%20and%20recommendations%20regarding%20General%20Accounting%20Office%2C%20Government%20Printing%20Office%2C%20and%20Library%20of%20Congress.md) | Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,6 +76,7 @@
 | [1384\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001384%20-%20Substantive%20regulations.md) | Substantive regulations. |
 | [1385\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001385%20-%20Expenses.md) | Expenses. |
 | [1386\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001386%20-%20Disposition%20of%20surplus%20or%20obsolete%20personal%20property.md) | Disposition of surplus or obsolete personal property. |
+| [1387\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001387%20-%20Semiannual%20report%20of%20disbursements.md) | Semiannual report of disbursements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

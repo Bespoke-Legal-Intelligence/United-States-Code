@@ -64,7 +64,7 @@ Another section 511 was renumbered section 513 of this title.
 
 Subsec. (b)(2)(D). Pub. L. 103–322, §220003(b), added subpar. (D).
 
-Subsec. (c)(1). Pub. L. 103–272, §5(e)(3)(A), substituted "chapter 301 and part C of subtitle VI of title 49" for "the National Traffic and Motor Vehicle Safety Act of 1966, or the Motor Vehicle Information and Cost Savings Act".
+Subsec. (c)(1). Pub. L. 103–272, §5(e)(3)(A), substituted "chapter 301 and part C of subtitle VI of title 49" for "the National Traffic and Motor Vehicle Safety Act of1966, or the Motor Vehicle Information and Cost Savings Act".
 
 Subsec. (c)(2). Pub. L. 103–272, §5(e)(3)(B), substituted "section 32101 of title 49" for "section 2 of the Motor Vehicle Information and Cost Savings Act".
 

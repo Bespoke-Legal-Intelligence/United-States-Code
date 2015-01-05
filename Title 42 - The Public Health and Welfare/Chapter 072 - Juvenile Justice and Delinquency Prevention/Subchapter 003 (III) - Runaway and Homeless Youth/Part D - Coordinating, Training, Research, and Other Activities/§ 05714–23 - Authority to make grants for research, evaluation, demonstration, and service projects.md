@@ -66,5 +66,5 @@ Subsec. (c). Pub. L. 110–378, §5(2), added subsec. (c) and struck out former 
 
 Subsec. (a). Pub. L. 106–71, §3(h)(2), inserted "evaluation," after "research,".
 
-Subsec. (b)(2) to (10). Pub. L. 106–71, §3(h)(3), redesignated pars. (3) to (10) as (2) to (9), respectively, and struck out former par. (2) which read as follows: "home-based and street-based services for, and outreach to, runaway youth and homeless youth;".
+Subsec. (b)(2) to (10). Pub. L. 106–71, §3(h)(3), redesignated pars. (3) to (10) as (2) to (9), respectively, and struck out former par. (2) which read as follows:"home-based and street-based services for, and outreach to, runaway youth and homeless youth;".
 

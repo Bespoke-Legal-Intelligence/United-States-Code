@@ -40,11 +40,11 @@ When a matter is referred to the Attorney General pursuant to subsection (g) of 
 
 #### (i) Recovery under both subchapter and fair housing enforcement provisions prohibited for violation based on same transaction
 
-No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title 42 shall recover under this subchapter and section 3612 <sup>1</sup> of title 42, if such violation is based on the same transaction.
+No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title42 shall recover under this subchapter and section 3612 <sup>1</sup> of title 42, if such violation is based on the same transaction.
 
 #### (j) Discovery of creditor's granting standards
 
-Nothing in this subchapter shall be construed to prohibit the discovery of a creditor's creditgranting standards under appropriate discovery procedures in the court or agency in which an action or proceeding is brought.
+Nothing in this subchapter shall be construed to prohibit the discovery of a creditor's credit granting standards under appropriate discovery procedures in the court or agency in which an action or proceeding is brought.
 
 #### (k) Notice to HUD of violations
 

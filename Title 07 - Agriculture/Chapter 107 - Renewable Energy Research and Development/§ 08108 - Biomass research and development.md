@@ -66,7 +66,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) solicitations are open and competitive with awards made annually; and
 
-&emsp;&emsp;&emsp;(ii) objectives and evaluation criteria of the solicitations are clearly stated and minimally prescriptive, with no areas of special interest; and
+&emsp;&emsp;&emsp;(ii) objectives and evaluation criteria of the solicitations are clearly stated andminimally prescriptive, with no areas of special interest; and
 
 &emsp;&emsp;(D) ensure that the panel of scientific and technical peers assembled under subsection (e) to review proposals is composed predominantly of independent experts selected from outside the Departments of Agriculture and Energy.
 
@@ -174,7 +174,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) to enhance the value of coproducts produced using the technologies and processes; and
 
-&emsp;&emsp;(C) a diversity of economically and environmentally sustainable domestic sources ofrenewable biomass for conversion to biofuels, bioenergy, and biobased products.
+&emsp;&emsp;(C) a diversity of economically and environmentally sustainable domestic sources of renewable biomass for conversion to biofuels, bioenergy, and biobased products.
 
 #### (3) Technical areas
 
@@ -272,11 +272,11 @@ In this section:
 
 #### (C) Technology and information transfer
 
-&emsp;&emsp;The Secretary of Agriculture and the Secretary of Energy shall ensure that applicableresearch results and technologies from the Initiative are—
+&emsp;&emsp;The Secretary of Agriculture and the Secretary of Energy shall ensure that applicable research results and technologies from the Initiative are—
 
 &emsp;&emsp;&emsp;(i) adapted, made available, and disseminated, as appropriate; and
 
-&emsp;&emsp;&emsp;(ii) included in the best practices database established under section 5925e(e) of this title.
+&emsp;&emsp;&emsp;(ii) included in the best practices database established under section 5925e(e) <sup>1</sup> of this title.
 
 #### (f) Administrative support and funds
 
@@ -312,15 +312,21 @@ For each fiscal year for which funds are made available to carry out this sectio
 
 &emsp;&emsp;(B) $28,000,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $30,000,000 for fiscal year 2011; and
+&emsp;&emsp;(C) $30,000,000 for fiscal year 2011;
 
-&emsp;&emsp;(D) $40,000,000 for fiscal year 2012.
+&emsp;&emsp;(D) $40,000,000 for fiscal year 2012; and
+
+&emsp;&emsp;(E) $3,000,000 for each of fiscal years 2014 through 2017.
 
 #### (2) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2009 through 2013.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
 
-(Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, §701(f)(7), Jan. 2, 2013, 126 Stat. 2365.)
+(Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, §701(f)(7), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9008, Feb. 7, 2014, 128 Stat. 931.)
+
+#### References in Text
+
+Section 5925e of this title, referred to in subsec. (e)(6)(C)(ii), was repealed by Pub. L. 113–79, title VII, §7212(a), Feb. 7, 2014, 128 Stat. 886.
 
 #### Codification
 
@@ -334,9 +340,15 @@ A prior section 9008 of Pub. L. 107–171 amended title III of Pub. L. 106–224
 
 #### Amendments
 
+<b>2014</b>—Subsec. (h)(1)(E). Pub. L. 113–79, §9008(1), added subpar. (E).
+
+Subsec. (h)(2). Pub. L. 113–79, §9008(2), substituted "$20,000,000 for each of fiscal years 2014 through 2018" for "$35,000,000 for each of fiscal years 2009 through 2013".
+
 <b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

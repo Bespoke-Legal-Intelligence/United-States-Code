@@ -18,7 +18,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(8) "tribal education agency" means a school or community college which is controlled by an Indian tribe, band, or nation, including any Alaska Native village, which is recognized as eligible for special programs and services provided by the United States to Indians because of their status as Indians and which is not administered by the Bureau of Indian Affairs;
 
-&emsp;(9) "Federal natural resource management agencies" means the United States ForestService, the Bureau of Land Management, the National Park Service, and the Fish and Wildlife Service;
+&emsp;(9) "Federal natural resource management agencies" means the United States Forest Service, the Bureau of Land Management, the National Park Service, and the Fish and Wildlife Service;
 
 &emsp;(10) "environmental engineering" means the discipline within engineering and science concerned with the development and application of scientific and technical solutions to protecting the aquatic and atmospheric environment, including, but not limited to, all phases of water resources planning, water supply, water treatment, air pollution characterization and control, remediation of hazardous substances, environmental transport of contaminants in surface and ground water and atmosphere, and methods for assessment and control of pollution;
 

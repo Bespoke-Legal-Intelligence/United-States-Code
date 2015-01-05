@@ -13,5 +13,6 @@
 - [&sect; 02266 - Canadian tidal power study](%C2%A7%2002266%20-%20Canadian%20tidal%20power%20study.md)
 - [&sect; 02267 - New York Bight study](%C2%A7%2002267%20-%20New%20York%20Bight%20study.md)
 - [&sect; 02267a - Watershed and river basin assessments](%C2%A7%2002267a%20-%20Watershed%20and%20river%20basin%20assessments.md)
+- [&sect; 02267b - Post-disaster watershed assessments](%C2%A7%2002267b%20-%20Post-disaster%20watershed%20assessments.md)
 - [&sect; 02268 - Marine technology review](%C2%A7%2002268%20-%20Marine%20technology%20review.md)
 - [&sect; 02269 - Tribal partnership program](%C2%A7%2002269%20-%20Tribal%20partnership%20program.md)

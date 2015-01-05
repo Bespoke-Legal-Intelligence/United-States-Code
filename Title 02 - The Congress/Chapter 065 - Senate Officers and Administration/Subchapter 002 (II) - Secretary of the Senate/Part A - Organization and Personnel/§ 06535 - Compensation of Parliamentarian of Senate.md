@@ -10,7 +10,7 @@ Section was formerly classified to section 61b of this title prior to editorial 
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
+<b>1975</b>—Pub. L. 94–59 substituted "$39,000" for "$37,620", effective July 1, 1975.
 
 <b>1974</b>—Pub. L. 93–371 substituted provisions authorizing a maximum annual rate of compensation not to exceed $37,620 for Parliamentarian, for provisions authorizing a gross annual compensation of $15,500 for Parliamentarian and $7,620 for Assistant Parliamentarian, effective July 1, 1974.
 
@@ -22,7 +22,7 @@ Adjustment in compensation by Pub. L. 93–371 not to supersede order of Preside
 
 #### Increases in Compensation
 
-Increases in compensation for Senate officers and employees under authority of Federal Salary Act of 1967\(Pub. L. 90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see section 4571 of this title, and Salary Directives of President pro tempore of the Senate set out as notes under that section.
+Increases in compensation for Senate officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see section 4571 of this title, and Salary Directives of President pro tempore of the Senate set out as notes under that section.
 
 #### Secretary of Senate To Fix Compensation of Assistant Parliamentarian
 

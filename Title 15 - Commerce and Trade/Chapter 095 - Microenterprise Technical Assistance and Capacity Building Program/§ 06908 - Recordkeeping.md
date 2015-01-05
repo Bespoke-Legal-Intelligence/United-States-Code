@@ -6,5 +6,5 @@ The requirements of section 4714 of title 12 shall apply to a qualified organiza
 
 #### References in Text
 
-Subtitle A, referred to in text, is subtitle A (§§101–121) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163, known as the Community Development Banking and Financial Institutions Act of 1994, which is classified principally to subchapter I (§4701 et seq.) of chapter 47 of Title 12, Banks and Banking. For complete classification of subtitle A to the Code, see Short Title note set out under section 4701 of Title 12 and Tables.
+Subtitle A, referred to in text, is subtitle A (§§101–121) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163, known as the Community DevelopmentBanking and Financial Institutions Act of 1994, which is classified principally to subchapter I (§4701 et seq.) of chapter 47 of Title 12, Banks and Banking. For complete classification of subtitle A to the Code, see Short Title note set out under section 4701 of Title 12 and Tables.
 

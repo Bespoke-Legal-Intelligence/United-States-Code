@@ -96,7 +96,7 @@ For purposes of this section—
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–311 substituted "(60 percent" for "60 percent".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1530(c)(11)(A), inserted "or acquired any qualified employer securitiesin a qualified gratuitous transfer to which section 664(g) applied" after "section 1042 applied" in introductory provisions.
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1530(c)(11)(A), inserted "or acquired any qualified employer securities in a qualified gratuitous transfer to which section 664(g) applied" after "section 1042 applied" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 105–34, §1530(c)(11)(B), inserted before comma at end "60 percent of the total value of all employer securities as of such disposition in the case of any qualified employer securities acquired in a qualified gratuitous transfer to which section 664(g) applied)".
 

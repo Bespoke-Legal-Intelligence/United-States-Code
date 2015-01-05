@@ -20,7 +20,7 @@ No registered management company or registered face-amount certificate company s
 
 #### (c) Reports of accountants and auditors
 
-The Commission is authorized, by rules and regulations or order in the public interest or for the protection of investors, to require accountants and auditors to keep reports, work sheets, and other documents and papers relating to registered investment companies for such period or periods as the Commission may prescribe, and to make the same available for inspection by the Commission or any member or representative thereof.
+The Commission is authorized, by rules and regulations or order in the public interest or for the protection of investors, to require accountants and auditors to keep reports, work sheets, and other documents and papers relating to registered investment companies for such period or periods as the Commission may prescribe, and tomake the same available for inspection by the Commission or any member or representative thereof.
 
 (Aug. 22, 1940, ch. 686, title I, §32, 54 Stat. 838; Pub. L. 91–547, §18, Dec. 14, 1970, 84 Stat. 1427; Pub. L. 94–29, §28(4), June 4, 1975, 89 Stat. 165.)
 
@@ -28,7 +28,7 @@ The Commission is authorized, by rules and regulations or order in the public in
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–29 substituted "section 80a–16(c) of this title" for "section 80a–16(b) of this title".
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–547 struck out introductory text "After one year from the effective date of this subchapter," and substituted "It" for "it"; inserted "the vote, cast in person, of" before "a majority" and substituted "interested persons of" for "investment advisers of, or affiliated persons of an investment adviser of, or officers or employees of," in par. (1); inserted"the vote of a majority of those members of" before "the board of directors" and "who are not interested persons of such registered company, cast in person at a meeting called for the purpose of voting on such action" after "the board of directors" in par. (2); substituted period for colon in par. (4); and in text after par. (4), substituted "if not so filled," for "if not so filled then" and "if not so filed" for "if not so filled", and substituted reference to par. (42) for par. (40) of section 80a–2(a) of this title.
+<b>1970</b>—Subsec. (a). Pub. L. 91–547 struck out introductory text "After one year from the effective date of this subchapter," and substituted "It" for "it"; inserted "the vote, cast in person, of" before "a majority" and substituted "interested persons of" for "investment advisers of, or affiliated persons of an investment adviser of, or officers or employees of," in par. (1); inserted "the vote of a majority of those members of" before "the board of directors" and "who are not interested persons of such registered company, cast in person at a meeting called for the purpose of voting on such action" after "the board of directors" in par. (2); substituted period for colon in par. (4); and in text after par. (4), substituted "if not so filled," for "if not so filled then" and "if not so filed" for "if not so filled", and substituted reference to par. (42) for par. (40) of section 80a–2(a) of this title.
 
 #### Effective Date of 1975 Amendment
 

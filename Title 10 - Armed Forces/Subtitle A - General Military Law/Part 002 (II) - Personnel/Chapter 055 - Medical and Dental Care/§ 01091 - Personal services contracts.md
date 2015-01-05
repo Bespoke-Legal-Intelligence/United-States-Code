@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—(1) The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Homeland Security, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
+Authority.—(1) The Secretary of Defense, with respect to medical treatment facilities ofthe Department of Defense, and the Secretary of Homeland Security, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
 
 (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may also enter into personal services contracts to carry out other health care responsibilities of the Secretary (such as the provision of medical screening examinations at Military Entrance Processing Stations) at locations outside medical treatment facilities, as determined necessary pursuant to regulations prescribed by the Secretary.
 
@@ -69,6 +69,40 @@ Pub. L. 104–106, div. A, title VII, §733(c), Feb. 10, 1996, 110 Stat. 381, pr
 #### Effective Date
 
 Pub. L. 98–94, title IX, §932(f), Sept. 24, 1983, 97 Stat. 650, provided that: "The amendments made by this section \[enacting this section, amending section 201 of Title 37, Pay and Allowances of the Uniformed Services, and repealing sections 4022 and 9022 of this title and section 421 of Title 37\] shall take effect on October 1, 1983. Any contract of employment entered into under the authority of section 4022 or 9022 of title 10, United States Code, before the effective date of this section and which is in effect on such date shall remain in effect in accordance with the terms of such contract."
+
+#### Acquisition Strategy for Health Care Professional Staffing Services
+
+Pub. L. 113–291, div. A, title VII, §725, Dec. 19, 2014, 128 Stat. 3418, provided that:
+
+"(a)
+
+Acquisition Strategy.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall develop and carry out an acquisition strategy with respect to entering into contracts for the services of health care professional staff at military medical treatment facilities.
+
+&emsp;"(2)
+
+Elements.—The acquisition strategy under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) Identification of the responsibilities of the military departments and elements of the Department of Defense in carrying out such strategy.
+
+&emsp;&emsp;"(B) Methods to analyze, using reliable and detailed data covering the entire Department, the amount of funds expended on contracts for the services of health care professional staff.
+
+&emsp;&emsp;"(C) Methods to identify opportunities to consolidate requirements for such services and reduce cost.
+
+&emsp;&emsp;"(D) Methods to measure cost savings that are realized by using such contracts instead of purchased care.
+
+&emsp;&emsp;"(E) Metrics to determine the effectiveness of such strategy.
+
+&emsp;&emsp;"(F) Metrics to evaluate the success of the strategy in achieving its objectives, including metrics to assess the effects of the strategy on the timeliness of beneficiary access to professional health care services in military medical treatment facilities.
+
+&emsp;&emsp;"(G) Such other matters as the Secretary considers appropriate.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of implementing the acquisition strategy under paragraph (1) of subsection (a), including how each element under subparagraphs (A) through (G) of paragraph (2) of such subsection is being carried out."
 
 #### Test of Alternative Process for Conducting Medical Screenings for Enlistment Qualification
 

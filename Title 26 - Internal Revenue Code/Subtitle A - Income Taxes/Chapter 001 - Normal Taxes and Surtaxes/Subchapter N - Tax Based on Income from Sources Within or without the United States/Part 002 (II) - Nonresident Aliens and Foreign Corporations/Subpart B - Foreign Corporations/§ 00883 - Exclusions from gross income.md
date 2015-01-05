@@ -78,7 +78,7 @@ Subsec. (c)(3). Pub. L. 100–647, §1012(e)(1)(A), substituted "Special rules" 
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1212(c)(3), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: "Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States."
 
-Subsec. (a)(2). Pub. L. 99–514, §1212(c)(3), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: "Earnings derived from the operation of aircraft registered under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States."
+Subsec. (a)(2). Pub. L. 99–514, §1212(c)(3), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: "Earnings derived from the operation of aircraft registered under the laws of aforeign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States."
 
 Subsec. (a)(4). Pub. L. 99–514, §1212(c)(4), added par. (4).
 

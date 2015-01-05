@@ -8,7 +8,7 @@
 
 #### (2) Manner of selection
 
-&emsp;Each officer of the Board and the Association shall be elected or appointed at such time and in such manner and for such terms not exceeding 3 years as may be prescribed in the bylaws of the Association.
+&emsp;Each officer of the Board and the Association shall be elected or appointed at such timeand in such manner and for such terms not exceeding 3 years as may be prescribed in the bylaws of the Association.
 
 #### (b) Criteria for chairperson
 

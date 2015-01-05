@@ -58,7 +58,7 @@
 
 (4) The Secretary shall suspend or revoke an exemption granted under this section and shall not issue a decal or other physical evidence of the exemption for any vessel until the owner of such vessel complies with the reporting requirements under subsection (c) of this section and such requirements to take on board a natural resource observer under paragraph (3)(B) as are applicable to such vessel.
 
-(5)(A) The Secretary shall develop, in consultation with the appropriate States, RegionalFishery Management Councils, and other interested parties, the means by which the granting and administration of exemptions under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
+(5)(A) The Secretary shall develop, in consultation with the appropriate States, Regional Fishery Management Councils, and other interested parties, the means by which the granting and administration of exemptions under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
 
 (B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
@@ -78,7 +78,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 #### (d) Program for enhancement and verification of information received from vessel owners; confidentiality of information
 
-(1) The Secretary shall establish a program to enhance the quality of and verify information received from reports submitted by owners of vessels who have been granted an exemption under subsection (b) of this section. The program shall include, but not be limited to—
+(1) The Secretary shall establish a program to enhance the quality of and verify information received from reports submitted by owners ofvessels who have been granted an exemption under subsection (b) of this section. The program shall include, but not be limited to—
 
 &emsp;(A) education efforts regarding the information that must be submitted;
 
@@ -114,7 +114,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(D) any other fishery identified under subsection (b)(1)(A)(i) of this section.
 
-> The Secretary may, with the consent of the vessel owner, station an observer on board a vesselengaged in a fishery not identified under subsection (b)(1)(A)(i) of this section.
+> The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not identified under subsection (b)(1)(A)(i) of this section.
 
 (4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate <sup>1</sup> Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
 
@@ -132,7 +132,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 (B) This paragraph does not apply if the observer is engaged by the owner, master, or individual in charge of a vessel to perform any duties in service to the vessel.
 
-(8) There are authorized to be appropriated to the Department of Commerce for the purposes of carrying out this subsection not to exceed $2,700,000 for fiscal year 1989 and not to exceed $8,000,000 for each of the fiscal years 1990, 1991, 1992, and 1993.
+(8) There are authorized to be appropriated to the Department of Commerce for the purposes of carrying out this subsection not to exceed$2,700,000 for fiscal year 1989 and not to exceed $8,000,000 for each of the fiscal years 1990, 1991, 1992, and 1993.
 
 #### (f) Alternative observation program
 
@@ -156,7 +156,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 > In prescribing emergency regulations under this paragraph, the Secretary shall take into account the economics of the fishery concerned and the availability of existing technology to prevent or minimize incidental taking of marine mammals.
 
-(3) If the Secretary finds, based on information received from the programs established under subsections (c), (d), (e), and (f) of this section, that incidental taking of marine mammals in a fishery is not having an immediate and significant adverse impact on a marine mammal population stock but that it will likely have a significant adverse impact over a period of time longer than one year, the Secretary shall request the appropriate Regional Fishery Management Council or State to initiate, recommend,or take such action within its authority as it considers necessary to mitigate the adverse impacts, including adjustments to requirements on fishing times or areas or the imposition of restrictions on the use of vessels or gear.
+(3) If the Secretary finds, based on information received from the programs established under subsections (c), (d), (e), and (f) of this section, that incidental taking of marine mammals in a fishery is not having an immediate and significant adverse impact on a marine mammal population stock but that it will likely have a significant adverse impact over a period of time longer than one year, the Secretary shall request the appropriate Regional Fishery Management Council or State to initiate, recommend, or take such action within its authority as it considers necessary to mitigate the adverse impacts, including adjustments to requirements on fishing times or areas or the imposition of restrictions on the use of vessels or gear.
 
 (4) The Secretary shall impose appropriate conditions and restrictions on an exemption granted under subsection (b) of this section if—
 
@@ -210,7 +210,7 @@ The Secretary, in consultation with any other Federal agency to the extent that 
 
 (2) The Secretary shall advise the Chairman of the Commission in writing if the Secretary determines that any additional information or explanation of the Chairman's recommendations is needed, and the Chairman shall respond in writing to any such request by the Secretary.
 
-(3) On or before February 1, 1991, the Secretary, after consultation with the Marine Mammal Commission, Regional Fishery Management Councils, and other interested governmental and nongovernmental organizations, shall publish in the Federal Register, for public comment, the suggested regime that the Secretary considers should, if authorized by enactment of any additional legislation, govern incidental taking ofmarine mammals, other than those subject to section 1374(h)(2) of this title, after October 1, 1993. The suggested regime shall include—
+(3) On or before February 1, 1991, the Secretary, after consultation with the Marine Mammal Commission, Regional Fishery Management Councils, and other interested governmental and nongovernmental organizations, shall publish in the Federal Register, for public comment, the suggested regime that the Secretary considers should, if authorized by enactment of any additional legislation, govern incidental taking of marine mammals, other than those subject to section 1374(h)(2) of this title, after October 1, 1993. The suggested regime shall include—
 
 &emsp;(A) the scientific guidelines to be used in determining permissible levels of incidental taking;
 

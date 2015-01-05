@@ -20,7 +20,7 @@ Public-Private Partnerships.—(1) To achieve one or more objectives set forth i
 
 &emsp;(A) To maximize the utilization of the capacity of a Center of Industrial and Technical Excellence.
 
-&emsp;(B) To reduce or eliminate the cost of ownership of a Center by the Department of Defense in such areas of responsibility as operations and maintenance and environmental remediation.
+&emsp;(B) To reduce or eliminate the cost of ownership of a Center by the Department of Defensein such areas of responsibility as operations and maintenance and environmental remediation.
 
 &emsp;(C) To reduce the cost of products of the Department of Defense produced or maintained at a Center.
 
@@ -46,7 +46,7 @@ Crediting of Amounts for Performance.—Amounts received by a Center for work pe
 
 Availability of Excess Equipment to Private-Sector Partners.—Equipment or facilities of a Center of Industrial and Technical Excellence may be made available for use by a private-sector entity under this section only if—
 
-&emsp;(1) the use of the equipment or facilities will not have a significant adverse effect on the readiness of the armed forces, as determinedby the Secretary concerned or, in the case of a Center in a Defense Agency, by the Secretary of Defense; and
+&emsp;(1) the use of the equipment or facilities will not have a significant adverse effect on the readiness of the armed forces, as determined by the Secretary concerned or, in the case of a Center in a Defense Agency, by the Secretary of Defense; and
 
 &emsp;(2) the private-sector entity agrees—
 
@@ -82,7 +82,7 @@ Subsec. (f)(2). Pub. L. 108–375, §1084(d)(20), substituted "section 2466(d)" 
 
 <b>2002</b>—Subsec. (f)(1). Pub. L. 107–314, §334(1), substituted "Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract entered into during fiscal years 2003 through 2006" for "Amounts expended out of funds described in paragraph (2) for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence".
 
-Subsec. (f)(2), (3). Pub. L. 107–314, §334(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The funds referred to in paragraph (1) are funds available to the military departments and Defense Agencies for depot-level maintenance and repair workloads for fiscal years 2002 through 2005."
+Subsec. (f)(2), (3). Pub. L. 107–314, §334(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The funds referred to in paragraph (1)are funds available to the military departments and Defense Agencies for depot-level maintenance and repair workloads for fiscal years 2002 through 2005."
 
 <b>2001</b>—Subsec. (e)(2)(B)(i). Pub. L. 107–107, §343(b), substituted "under the circumstances described in section 2563(c)(3) of this title" for "in a case of willful conduct or gross negligence".
 

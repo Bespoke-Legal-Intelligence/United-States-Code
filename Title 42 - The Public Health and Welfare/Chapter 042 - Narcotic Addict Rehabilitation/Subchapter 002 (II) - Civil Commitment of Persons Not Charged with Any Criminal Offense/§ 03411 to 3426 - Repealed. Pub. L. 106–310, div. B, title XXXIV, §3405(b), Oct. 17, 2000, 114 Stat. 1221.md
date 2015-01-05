@@ -16,7 +16,7 @@ Section 3417, Pub. L. 89–793, title III, §307, Nov. 8, 1966, 80 Stat. 1446, r
 
 Section 3418, Pub. L. 89–793, title III, §308, Nov. 8, 1966, 80 Stat. 1447, related to petition for inquiry into health and general condition and necessity for continuation of confinement, order for release from confinement and return to court, and placing patient under posthospitalization treatment.
 
-Section 3419, Pub. L. 89–793, title III, §309, Nov. 8, 1966, 80 Stat. 1447, related to criminal conviction or criminal appellation from determination of being narcotic addict and criminal proceedings prohibited from using information gained in addiction inquiry.
+Section 3419, Pub. L. 89–793, title III, §309, Nov. 8, 1966, 80 Stat. 1447, related to criminal conviction or criminalappellation from determination of being narcotic addict and criminal proceedings prohibited from using information gained in addiction inquiry.
 
 Section 3420, Pub. L. 89–793, title III, §310, Nov. 8, 1966, 80 Stat. 1447, related to evidence, examining physician as a competent and compellable witness, and physician-patient privilege.
 

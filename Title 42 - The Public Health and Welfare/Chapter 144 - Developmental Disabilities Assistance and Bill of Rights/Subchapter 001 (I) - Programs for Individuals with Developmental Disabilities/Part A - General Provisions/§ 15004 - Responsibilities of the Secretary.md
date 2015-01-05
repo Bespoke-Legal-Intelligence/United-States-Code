@@ -8,7 +8,7 @@
 
 #### (2) Areas of emphasis
 
-&emsp;The Secretary shall develop a process for identifying and reporting (pursuant to section15005 of this title) on progress achieved through advocacy, capacity building, and systemic change activities, undertaken by the entities described in paragraph (1), that resulted in individuals with developmental disabilities and their families participating in the design of and having access to needed community services, individualized supports, and other forms of assistance that promote self-determination, independence, productivity, and integration and inclusion in all facets of community life. Specifically, the Secretary shall develop a process for identifying and reporting on progress achieved, through advocacy, capacity building, and systemic change activities, by the entities in the areas of emphasis.
+&emsp;The Secretary shall develop a process for identifying and reporting (pursuant to section 15005 of this title) on progress achieved through advocacy, capacity building, and systemic change activities, undertaken by the entities described in paragraph (1), that resulted in individuals with developmental disabilities and their families participating in the design of and having access to needed community services, individualized supports, and other forms of assistance that promote self-determination, independence, productivity, and integration and inclusion in all facets of community life. Specifically, the Secretary shall develop a process for identifying and reporting on progress achieved, through advocacy, capacity building, and systemic change activities, by the entities in the areas of emphasis.
 
 #### (3) Indicators of progress
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) the extent to which the advocacy, capacity building, and systemic change activities provided through parts B, C, and D of this subchapter result in improvements in—
 
-&emsp;&emsp;&emsp;&emsp;(I) the ability of individuals with developmental disabilities to make choices and exert control over the type, intensity, and timing of services, supports, and assistance that the individuals have used;
+&emsp;&emsp;&emsp;&emsp;(I) the ability of individuals with developmental disabilities to make choices and exert control over the type, intensity, and timing of services, supports,and assistance that the individuals have used;
 
 &emsp;&emsp;&emsp;&emsp;(II) the ability of individuals with developmental disabilities to participate in the full range of community life with persons of the individuals' choice; and
 
@@ -74,7 +74,7 @@ Except as otherwise expressly provided in this subchapter, the Secretary, not la
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 106–402, Oct. 30,2000, 114 Stat. 1677, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 Section 6007 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
 

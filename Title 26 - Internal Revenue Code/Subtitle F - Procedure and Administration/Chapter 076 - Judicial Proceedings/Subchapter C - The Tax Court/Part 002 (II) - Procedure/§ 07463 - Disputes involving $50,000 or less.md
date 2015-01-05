@@ -38,7 +38,7 @@ At the option of the taxpayer concurred in by the Tax Court or a division thereo
 
 &emsp;(2) an appeal under section 6330(d)(1)(A) to the Tax Court of a determination in which the unpaid tax does not exceed $50,000.
 
-(Added Pub. L. 91–172, title IX, §957(a), Dec. 30, 1969, 83 Stat. 733; amended Pub. L. 92–512, title II, §203(b)(1), (2), Oct. 20, 1972, 86 Stat. 945; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §502(a)(1), (2)(A), (b), Nov. 6, 1978, 92 Stat. 2879; Pub. L. 96–222, title I, §105(a)(1)(A), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–362, title I, §106(a)(1), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §461(a)(1), (2)(A), July 18, 1984, 98 Stat. 823; Pub. L. 101–508, title XI, §11801(c)(21)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 105–206, title III, §3103(a), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642.)
+(Added Pub. L. 91–172, title IX, §957(a), Dec. 30, 1969, 83 Stat. 733; amended Pub. L. 92–512, titleII, §203(b)(1), (2), Oct. 20, 1972, 86 Stat. 945; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §502(a)(1), (2)(A), (b), Nov. 6, 1978, 92 Stat. 2879; Pub. L. 96–222, title I, §105(a)(1)(A), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–362, title I, §106(a)(1), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §461(a)(1), (2)(A), July 18, 1984, 98 Stat. 823; Pub. L. 101–508, title XI, §11801(c)(21)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 105–206, title III, §3103(a), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642.)
 
 #### Prior Provisions
 

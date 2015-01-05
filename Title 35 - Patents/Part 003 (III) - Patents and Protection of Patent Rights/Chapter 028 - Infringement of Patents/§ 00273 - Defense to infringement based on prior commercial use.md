@@ -62,7 +62,7 @@ Not a general license.—The defense asserted by a person under this section is 
 
 &emsp;(4)
 
-Abandonment of use.—A person who has abandoned commercial use (that qualifies under this section) of subject matter may not rely on activities performed before the date of such abandonment in establishing a defense under this section with respect to actions taken on or after the date of such abandonment.
+Abandonment of use.—A person who has abandoned commercial use (that qualifiesunder this section) of subject matter may not rely on activities performed before the date of such abandonment in establishing a defense under this section with respect to actions taken on or after the date of such abandonment.
 
 &emsp;(5)
 

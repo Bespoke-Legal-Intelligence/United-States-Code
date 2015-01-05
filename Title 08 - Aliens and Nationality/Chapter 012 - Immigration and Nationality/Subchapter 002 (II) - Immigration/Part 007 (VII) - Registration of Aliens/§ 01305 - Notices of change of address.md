@@ -2,7 +2,7 @@
 
 #### (a) Notification of change
 
-Each alien required to be registered under this subchapter who is within the United States shall notify the Attorney General in writing of each change of address and new address within ten days from the date of such change and furnish with such notice such additional information as the Attorney General may require by regulation.
+Each alien required to be registered under this subchapter who is within the United States shallnotify the Attorney General in writing of each change of address and new address within ten days from the date of such change and furnish with such notice such additional information as the Attorney General may require by regulation.
 
 #### (b) Current address of natives of any one or more foreign states
 
@@ -16,7 +16,7 @@ In the case of an alien for whom a parent or legal guardian is required to apply
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–525 inserted “Notices of change of address” as section catchline.
+<b>1988</b>—Pub. L. 100–525 inserted "Notices of change of address" as section catchline.
 
 <b>1981</b>—Pub. L. 97–116 amended section generally and in adding subsection designations struck out the annual registration requirement for permanent resident aliens and the registration requirement for those aliens in a lawful temporary residence who were to notify the Attorney General in writing of an address every three months while residing in the United States and inserted provision authorizing the Attorney General, in his discretion and upon ten days notice, to require the natives of any one or more foreign states who are in the United States and required to be registered under this subchapter, to notify the Attorney General of their current addresses and furnish such additional information as required.
 

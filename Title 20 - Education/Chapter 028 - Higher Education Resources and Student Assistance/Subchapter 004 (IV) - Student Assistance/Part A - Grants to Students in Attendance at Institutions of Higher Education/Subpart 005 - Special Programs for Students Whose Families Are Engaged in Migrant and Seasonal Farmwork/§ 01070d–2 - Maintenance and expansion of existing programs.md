@@ -2,7 +2,7 @@
 
 #### (a) Program authority
 
-The Secretary shall maintain and expand existing secondary and postsecondary high school equivalency program and college assistance migrant program projects located at institutionsof higher education or at private nonprofit organizations working in cooperation with institutions of higher education.
+The Secretary shall maintain and expand existing secondary and postsecondary high school equivalency program and college assistance migrant program projects located at institutions of higher education or at private nonprofit organizations working in cooperation with institutions of higher education.
 
 #### (b) Services provided by high school equivalency program
 
@@ -96,7 +96,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 #### (d) Management plan required
 
-Each project application shall include a management plan which contains assurances that the grant recipient will coordinate the project, to the extent feasible, with other local, State, and Federal programs to maximize the resources available for migrant students, and that staff shall have a demonstrated knowledge and be sensitive to the unique characteristics and needsof the migrant and seasonal farmworker population, and provisions for:
+Each project application shall include a management plan which contains assurances that the grant recipient will coordinate the project, to the extent feasible, with other local, State, and Federal programs to maximize the resources available for migrant students, and that staff shall have a demonstrated knowledge and be sensitive to the unique characteristics and needs of the migrant and seasonal farmworker population, and provisions for:
 
 &emsp;(1) staff in-service training;
 
@@ -136,7 +136,7 @@ From the amounts made available under subsection (i), the Secretary—
 
 &emsp;&emsp;(C) consider the need to provide an equitable geographic distribution of such grants; and
 
-&emsp;(3) for any fiscal year for which the amount appropriated to carry out this section is less than $40,000,000, shall, in awarding grants from the remainder of such amounts make available the same percentage of funds to the high school equivalency program and to the college assistance migrant program as was made available for each such program for the fiscal year preceding the fiscal year for which the grant was made.
+&emsp;(3) for any fiscal year for which the amount appropriated to carry out this section is less than $40,000,000, shall, in awarding grants from the remainder of such amounts make available the same percentage of funds to the high school equivalency program and to the collegeassistance migrant program as was made available for each such program for the fiscal year preceding the fiscal year for which the grant was made.
 
 #### (h) Data collection
 
@@ -152,7 +152,11 @@ The Secretary shall—
 
 For the purpose of making grants and contracts under this section, there are authorized to be appropriated $75,000,000 for fiscal year 2009 and such sums as may be necessary for the each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 110–315, title IV, §408, Aug. 14, 2008, 122 Stat. 3223.)
+(Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 110–315, title IV, §408, Aug. 14, 2008, 122 Stat. 3223; Pub. L. 113–128, title V, §512(n)(1), July 22, 2014, 128 Stat. 1710.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–128, title V, §§506, 512(n)(1), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsections (b)(1)(B)(ii) and (c)(1)(A) of this section are amended by striking "section 2912 of title 29" and inserting "section 3222 of title 29". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -167,6 +171,8 @@ Another prior section 1070d–2, Pub. L. 89–329, title IV, §418A, as added Pu
 A prior section 1070d–3, Pub. L. 89–329, title IV, §418B, as added Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2097, related to administration by States of Educational Information Centers program, prior to repeal by Pub. L. 96–374, title I, §101(b), Oct. 3, 1980, 94 Stat. 1383, eff. Oct. 1, 1980.
 
 #### Amendments
+
+<b>2014</b>—Subsecs. (b)(1)(B)(ii), (c)(1)(A). Pub. L. 113–128 substituted "section 3222 of title 29" for "section 2912 of title 29".
 
 <b>2008</b>—Subsec. (b)(1)(B)(i). Pub. L. 110–315, §408(1)(A), substituted "immediate family" for "parents".
 
@@ -231,6 +237,10 @@ Subsec. (e). Pub. L. 102–325, §405(c), substituted "Five-year" for "Three-yea
 Subsec. (g). Pub. L. 102–325, §405(d), amended subsec. (g) generally, substituting present provisions for former provisions which authorized appropriations for fiscal years 1987 through 1991.
 
 <b>1987</b>—Subsec. (g). Pub. L. 100–50 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "There is authorized to be appropriated for this part $9,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years."
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendments
 

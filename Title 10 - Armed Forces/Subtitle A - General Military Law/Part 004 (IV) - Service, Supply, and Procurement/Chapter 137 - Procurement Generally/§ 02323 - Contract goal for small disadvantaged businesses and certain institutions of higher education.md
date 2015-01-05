@@ -124,7 +124,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 Penalties and Regulations Relating to Status.—(1) Whoever for the purpose of securing a contract or subcontract under subsection (a) misrepresents the status of any concern or person as a small business concern owned and controlled by a minority (as described in subsection (a)) or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act), shall be punished by imprisonment for not more than one year, or a fine under title 18, or both.
 
-(2) The Federal Acquisition Regulation shall prohibit awarding a contract under this sectionto an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(o)(1) <sup>1</sup> of the Small Business Act (15 U.S.C. 644(o)(1)).
+(2) The Federal Acquisition Regulation shall prohibit awarding a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(o)(1) <sup>1</sup> of the Small Business Act (15 U.S.C. 644(o)(1)).
 
 (g)
 

@@ -22,7 +22,7 @@ Pub. L. 94–412, title V, §501(h), Sept. 14, 1976, 90 Stat. 1258, provided tha
 
 &emsp;"(1) any action taken or proceeding pending not finally concluded or determined at the time of repeal;
 
-&emsp;"(2) any action or proceeding based on any act committee prior to repeal; or
+&emsp;"(2) any action or proceeding based on any act committed prior to repeal; or
 
 &emsp;"(3) any rights or duties that matured or penalties that were incurred prior to repeal."
 

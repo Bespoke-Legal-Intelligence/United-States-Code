@@ -30,7 +30,7 @@ Factors To Be Considered in Imposing a Sentence.—The court shall impose a sent
 
 &emsp;(5) any pertinent policy statement—
 
-&emsp;&emsp;(A) issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28,United States Code, subject to any amendments made to such policy statement by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28); and
+&emsp;&emsp;(A) issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28, United States Code, subject to any amendments made to such policy statement by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28); and
 
 &emsp;&emsp;(B) that, except as provided in section 3742(g), is in effect on the date the defendant is sentenced.<sup>1</sup>
 
@@ -58,7 +58,7 @@ Sentencing.—In sentencing a defendant convicted of an offense under section 12
 
 &emsp;&emsp;&emsp;(ii) the court finds that there exists a mitigating circumstance of a kind or to a degree, that—
 
-&emsp;&emsp;&emsp;&emsp;(I) has been affirmatively and specifically identified as a permissible ground of downward departure in the sentencing guidelines or policy statements issued under section 994(a) of title 28, taking account of any amendments to such sentencing guidelines or policy statements by Congress;
+&emsp;&emsp;&emsp;&emsp;(I) has been affirmatively and specifically identified as a permissible ground of downward departure in the sentencing guidelines or policy statements issuedunder section 994(a) of title 28, taking account of any amendments to such sentencing guidelines or policy statements by Congress;
 
 &emsp;&emsp;&emsp;&emsp;(II) has not been taken into consideration by the Sentencing Commission in formulating the guidelines; and
 
@@ -76,7 +76,7 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 &emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in a statement of reasons form issued under section 994(w)(1)(B) of title 28, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
 
-> If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court's statement of reasons, together with the order of judgmentand commitment, to the Probation System and to the Sentencing Commission,,<sup>3</sup> and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
+> If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court's statement of reasons, together with the order of judgment and commitment, to the Probation System and to the Sentencing Commission,,<sup>3</sup> and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
 
 (d)
 

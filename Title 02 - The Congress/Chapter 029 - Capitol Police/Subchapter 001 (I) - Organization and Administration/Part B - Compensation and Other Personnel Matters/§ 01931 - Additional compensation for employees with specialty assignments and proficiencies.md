@@ -10,7 +10,7 @@ In addition to the regularly scheduled rate of basic pay, each employee holding 
 
 &emsp;(1) such amount may not exceed 25 percent of the employee's annual rate of basic pay; and
 
-&emsp;(2) such amount may not be paid in a calendar year to the extent that, when added to the total basic pay paid or payable to such employee for service performed in the year, such amount would cause the total to exceed theannual rate of basic pay payable for level II of the Executive Schedule, as of the end of such year.
+&emsp;(2) such amount may not be paid in a calendar year to the extent that, when added to the total basic pay paid or payable to such employee for service performed in the year, such amount would cause the total to exceed the annual rate of basic pay payable for level II of the Executive Schedule, as of the end of such year.
 
 #### (c) Manner of payment
 
@@ -30,5 +30,5 @@ Level II of the Executive Schedule, referred to in subsec. (b)(2), is set out in
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

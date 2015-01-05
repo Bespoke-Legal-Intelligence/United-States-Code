@@ -20,6 +20,12 @@ Last seven words in the statute, "who shall have the powers hereinafter stated",
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–283, §1, Dec. 18, 2014, 128 Stat. 3073, provided that: "This Act \[enacting subchapter II of chapter 35 of this title, amending sections 143 and 511 of Title 6, Domestic Security, sections 2222, 2223, and 2315 of Title 10, Armed Forces, and sections 278g–3, 278g–4, and 7406 of Title 15, Commerce and Trade, repealing subchapters II and III of chapter 35 of this title, and enacting provisions set out as notes under sections 3553 and 3554 of this title\] may be cited as the 'Federal Information Security Modernization Act of 2014'."
+
+Pub. L. 113–187, §1(a), Nov. 26, 2014, 128 Stat. 2003, provided that: "This Act \[enacting sections 2208, 2209, and 2911 of this title, amending sections 2107, 2111, 2114 to 2116, 2201, 2203 to 2205, 2207, 2901, 2902, 2904 to 2907, 3102 to 3106, 3301 to 3303a, and 3312 of this title, repealing sections 3315 to 3324 of this title, and enacting provisions set out as notes under sections 2108 and 2207 of this title\] may be cited as the 'Presidential and Federal Records Act Amendments of 2014'."
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–404, §1, Oct. 13, 2008, 122 Stat. 4281, provided that: "This Act \[enacting section 2120 of this title, amending sections 2112, 2501, and 2504 of this title, and enacting provisions set out as notes under sections 2107, 2112, 2120, 2501, 2504, and 2505 of this title\] may be cited as the 'Presidential Historical Records Preservation Act of 2008'."
@@ -68,7 +74,7 @@ Pub. L. 98–497, §1, Oct. 19, 1984, 98 Stat. 2280, provided: "That this Act \[
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: "That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the 'Paperwork Reduction Act of 1980'."
+Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: "That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the 'Paperwork Reduction Act of 1980'."
 
 #### Short Title of 1978 Amendment
 

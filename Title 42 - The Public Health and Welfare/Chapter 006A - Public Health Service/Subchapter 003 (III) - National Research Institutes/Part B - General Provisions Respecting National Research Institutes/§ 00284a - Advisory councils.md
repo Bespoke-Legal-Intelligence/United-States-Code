@@ -46,7 +46,7 @@ The chairman of an advisory council shall be selected by the Secretary from amon
 
 #### (e) Meetings
 
-The advisory council shall meet at the call of the chairman or upon the request of the Director of the national research institute for which it was established, but at least three times each fiscal year. The location of the meetings of each advisory council is subject to the approval of the Director of the national research institute for which the advisory council was established.
+The advisory council shall meet at the call of the chairman or upon the request of the Director of the national research institute for whichit was established, but at least three times each fiscal year. The location of the meetings of each advisory council is subject to the approval of the Director of the national research institute for which the advisory council was established.
 
 #### (f) Appointment of executive secretary; training and orientation for new members
 
@@ -54,7 +54,7 @@ The Director of the national research institute for which an advisory council is
 
 #### (g) Comments and recommendations for inclusion in biennial report; additional reports
 
-Each advisory council may prepare, for inclusion in the biennial report made under section 284b <sup>1</sup> of this title, (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the national research institute for which it was established in meeting its objectives, and (3) recommendations respecting the future directions and programand policy emphasis of the institute. Each advisory council may prepare such additional reports as it may determine appropriate.
+Each advisory council may prepare, for inclusion in the biennial report made under section 284b <sup>1</sup> of this title, (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the national research institute for which it was established in meeting its objectives, and (3) recommendations respecting the future directions and program and policy emphasis of the institute. Each advisory council may prepare such additional reports as it may determine appropriate.
 
 #### (h) Advisory councils in existence; application of section to National Cancer Advisory Board and advisory council to National Heart, Lung, and Blood Institute
 

@@ -30,7 +30,7 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;(5) "Foreign Service normal cost" means the level percentage of payroll required to be deposited in the Fund to meet the cost of benefits payable under the System (computed in accordance with generally accepted actuarial practice on an entry-age basis) less the value of retirement benefits earned under another retirement system for Government employees and less the cost of credit allowed for military and naval service;
 
-&emsp;(6) "former spouse" means a former wife or husband of a participant or former participant who was married to such participant for not less than 10 years during periods of service by that participant which are creditable under section 4056 of this title;
+&emsp;(6) "former spouse" means a former wife or husband of a participant or former participantwho was married to such participant for not less than 10 years during periods of service by that participant which are creditable under section 4056 of this title;
 
 &emsp;(7) "Fund balance" means the sum of—
 
@@ -50,7 +50,7 @@ As used in this part, unless otherwise specified, the term—
 
 > &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States;
 
-&emsp;(10) "pro rata share", in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II of this subchapter) of that participant is of (B) the total number of years of such creditableservice (creditable under part I or II of this subchapter);
+&emsp;(10) "pro rata share", in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
 
 &emsp;(11) "spousal agreement" means any written agreement between—
 
@@ -112,7 +112,7 @@ Pub. L. 100–238, §211(2), (3), substituted "9 months" for "one year" and inse
 
 Par. (3). Pub. L. 99–335, §403, substituted ", the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in section 1301(3) of title 25" for "or of the District of Columbia".
 
-Par. (10). Pub. L. 99–335, §404(a), inserted "(creditable under part I or II of this subchapter)" after "creditable service" in two places.
+Par. (10). Pub. L. 99–335, §404(a), inserted "(creditable under part I or II)" after "creditable service" in two places.
 
 Par. (14). Pub. L. 99–335, §402(a)(3), inserted "under this part" after "payable from the Fund" in provision preceding subpar. (A).
 

@@ -54,7 +54,7 @@ Pub. L. 110–417, \[div. A\], title XII, §1231(b)(2), Oct. 14, 2008, 122 Stat.
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title XII, §1202(b), Dec. 2, 2002, 116 Stat. 2663, provided that: "The amendments made by subsection (a) \[amending this section\] shall applyonly with respect to travel performed on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
+Pub. L. 107–314, div. A, title XII, §1202(b), Dec. 2, 2002, 116 Stat. 2663, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply only with respect to travel performed on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
 
 #### Air Force Scholarships for Partnership for Peace Nations To Participate in the Euro-NATO Joint Jet Pilot Training Program
 

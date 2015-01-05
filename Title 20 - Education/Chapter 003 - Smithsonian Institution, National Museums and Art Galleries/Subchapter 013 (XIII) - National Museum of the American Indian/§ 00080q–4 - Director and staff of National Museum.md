@@ -10,7 +10,7 @@ The Secretary of the Smithsonian Institution shall appoint—
 
 #### (b) Offer of employment to Heye Foundation employees
 
-Each employee of the Heye Museum on the day before the date of the transfer of the Heye Foundation assets to the Smithsonian Institution shall be offered employment with the Smithsonian Institution—
+Each employee of the Heye Museum on the day before the date of the transfer of the HeyeFoundation assets to the Smithsonian Institution shall be offered employment with the Smithsonian Institution—
 
 &emsp;(1) under the usual terms of such employment; and
 

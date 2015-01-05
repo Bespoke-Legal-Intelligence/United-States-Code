@@ -50,19 +50,19 @@ Except as otherwise provided in this section, a producer-packer shall be respons
 
 #### (3) Confidentiality
 
-&emsp;An employee or agent described in paragraph (2) shall be subject to the confidentiality requirements of subsection (g) of this section.
+&emsp;An employee or agent described in paragraph (2) shall be subject to the confidentiality requirements of subsection (g).
 
 #### (g) Confidentiality of information; disclosure
 
 #### (1) In general
 
-&emsp;All information obtained under subsection (f) of this section shall be kept confidential by all officers, employees, and agents of the Department or of the Honey Board.
+&emsp;All information obtained under subsection (f) shall be kept confidential by all officers, employees, and agents of the Department or of the Honey Board.
 
 #### (2) Disclosure
 
 &emsp;Information subject to paragraph (1) may be disclosed—
 
-&emsp;&emsp;(A) only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, that involves the order with respect to which the information was furnished or acquired; and
+&emsp;&emsp;(A) only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer ofthe United States is a party, that involves the order with respect to which the information was furnished or acquired; and
 
 &emsp;&emsp;(B) only if the Secretary determines that the information is relevant to the suit or administrative hearing.
 

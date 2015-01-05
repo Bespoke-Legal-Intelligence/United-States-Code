@@ -2,11 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is—
-
-&emsp;(1) except as provided in paragraph (2), the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years, and
-
-&emsp;(2) if the multiemployer plan is in reorganization for any plan year, the accumulated funding deficiency of the plan determined under section 4243 of the Employee Retirement Income Security Act of 1974.
+For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
 
 #### (b) Funding standard account
 
@@ -22,7 +18,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;(B) the amounts necessary to amortize in equal annual installments (until fully amortized)—
 
-&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under theplan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
+&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
 
 &emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
@@ -106,7 +102,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (G) Short-term benefits
 
-&emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14 years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for "15".
+&emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for "15".
 
 #### (8) Special relief rules
 
@@ -318,7 +314,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any rate of interest used under the plan under subsection (b)(6) to determinecost is not within the permissible range, the plan shall establish a new rate of interest within the permissible range.
+&emsp;&emsp;&emsp;If any rate of interest used under the plan under subsection (b)(6) to determine cost is not within the permissible range, the plan shall establish a new rate of interest within the permissible range.
 
 #### (ii) Permissible range
 
@@ -394,15 +390,11 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;&emsp;(iv) the notice required under paragraph (3)(A) has been provided.
 
-#### (C) Termination
-
-&emsp;&emsp;The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.
-
 #### (2) Alternative extension
 
 #### (A) In general
 
-&emsp;&emsp;If the plan sponsor of a multiemployer plan submits to the Secretary an applicationfor an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
+&emsp;&emsp;If the plan sponsor of a multiemployer plan submits to the Secretary an application for an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
 
 #### (B) Determination
 
@@ -430,11 +422,11 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;The Secretary shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304.)
+(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A),Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023.)
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(2), (b)(7)(A) to (D), (8)(B)(ii)(II), and (d)(3)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(7)(A) to (D), (8)(B)(ii)(II) and (d)(3)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of the Pension Protection Act of 2006, referred to in subsec. (b)(2)(D), (E), (3)(D), (4), (7)(E), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
@@ -442,7 +434,19 @@ The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a). Pub. L. 113–235, §108(b)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiency of multiemployer plan.
+
+Subsec. (d)(1)(C). Pub. L. 113–295, which directed amendment of subpar. (C) by substituting "December 31, 2015" for "December 31, 2014", could not be executed because of previous repeal of subpar. (C) by Pub. L. 113–235, §101(b)(2). See below.
+
+Pub. L. 113–235, §101(b)(2), struck out subpar. (C). Text read as follows: "The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014."
+
 <b>2010</b>—Subsec. (b)(8). Pub. L. 111–192 added par. (8).
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §171(c), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendments made by this section \[amending this section and section 1084 of Title 29, Labor\] shall apply to applications submitted under section 431(d)(1)(A) of the Internal Revenue Code of 1986 and section 304(d)(1)(C) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084(d)(1)(C)\] after December 31, 2014."
+
+Amendment by section 108(b)(3)(A) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of div. O of Pub. L. 113–235, set out as an Effective Date of Repeal note under section 418 of this title.
 
 #### Effective Date of 2010 Amendment
 

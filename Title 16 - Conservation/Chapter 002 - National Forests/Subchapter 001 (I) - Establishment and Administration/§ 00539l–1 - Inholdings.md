@@ -26,7 +26,7 @@ If the Colorado State Land Board informs the Secretary that the Board is willing
 
 #### (2) Funding information
 
-&emsp;The report required by this subsection shall indicate to what extent funds are available to the Secretary as of the date of the report for the acquisition of the relevant lands and whether additional funds need to be appropriated or otherwise made available to the Secretary for such purpose.
+&emsp;The report required by this subsection shall indicate to what extent funds are available tothe Secretary as of the date of the report for the acquisition of the relevant lands and whether additional funds need to be appropriated or otherwise made available to the Secretary for such purpose.
 
 #### (d) Management of acquisitions
 

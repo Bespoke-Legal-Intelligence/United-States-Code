@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [3601\.](%C2%A7%2003601%20-%20Short%20title.md) | Short title. |
-| [3602\.](%C2%A7%2003602%20-%20Director%20of%20Compliance.md) | Director of Compliance. |
+| [3602\.](%C2%A7%2003602%20-%20Director%20of%20the%20Agency%20and%20Director%20of%20Compliance.md) | Director of the Agency and Director of Compliance. |
 | [3603\.](%C2%A7%2003603%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71633%28b%29%281%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202751.md) | Repealed. |
 | [3604\.](%C2%A7%2003604%20-%20Additional%20compensation.md) | Additional compensation. |
 | [3605\.](%C2%A7%2003605%20-%20Disclosure%20of%20Agency%27s%20organization%2C%20function%2C%20activities%2C%20or%20personnel.md) | Disclosure of Agency's organization, function, activities, or personnel. |
@@ -29,7 +29,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 03601 - Short title](%C2%A7%2003601%20-%20Short%20title.md)
-- [&sect; 03602 - Director of Compliance](%C2%A7%2003602%20-%20Director%20of%20Compliance.md)
+- [&sect; 03602 - Director of the Agency and Director of Compliance](%C2%A7%2003602%20-%20Director%20of%20the%20Agency%20and%20Director%20of%20Compliance.md)
 - [&sect; 03603 - Repealed. Pub. L. 104&#8211;201, div. A, title XVI, &sect;1633(b)(1), Sept. 23, 1996, 110 Stat. 2751](%C2%A7%2003603%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71633%28b%29%281%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202751.md)
 - [&sect; 03604 - Additional compensation](%C2%A7%2003604%20-%20Additional%20compensation.md)
 - [&sect; 03605 - Disclosure of Agency's organization, function, activities, or personnel](%C2%A7%2003605%20-%20Disclosure%20of%20Agency%27s%20organization%2C%20function%2C%20activities%2C%20or%20personnel.md)

@@ -84,7 +84,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (i) Producers related to foreign producers
 
-&emsp;&emsp;&emsp;In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition, if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title, unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of a countervailing duty order.
+&emsp;&emsp;&emsp;In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition,if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title, unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of a countervailing duty order.
 
 #### (ii) Producers who are importers
 

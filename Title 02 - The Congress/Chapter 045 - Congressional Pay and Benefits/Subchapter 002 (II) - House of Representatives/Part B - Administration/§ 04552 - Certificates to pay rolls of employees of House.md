@@ -10,5 +10,5 @@ Section was formerly classified to section 89 of this title prior to editorial r
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “and Chief Administrative Officer” for “Doorkeeper, and Postmaster”.
+<b>1996</b>—Pub. L. 104–186 substituted "and Chief Administrative Officer" for "Doorkeeper, and Postmaster".
 

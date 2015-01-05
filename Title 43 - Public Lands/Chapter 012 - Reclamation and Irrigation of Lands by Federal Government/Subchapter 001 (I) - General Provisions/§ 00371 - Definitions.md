@@ -78,7 +78,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;"(9) the Federal Government recognizes its trust responsibilities to protect Indian water rights and assist Tribes in the wise use of those resources;
 
-&emsp;"(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have majorresponsibilities in assisting States in the wise management and allocation of scarce water resources; and
+&emsp;"(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have major responsibilities in assisting States in the wise management and allocation of scarce water resources; and
 
 &emsp;"(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey \[now United States Geological Survey\], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States.
 
@@ -128,7 +128,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;"(4) review the need and opportunities for additional storage or other arrangements to augment existing water supplies including, but not limited to, conservation;
 
-&emsp;"(5) review the history, use, and effectiveness of various institutional arrangements to address problems of water allocation, water quality, planning, flood control and other aspects of water development and use, including, but not limited to, interstate water compacts, Federal-State regional corporations, river basin commissions, the activities of the Water Resources Council, municipal and irrigation districts and other similar entities with specific attention to the authorities of the Bureau of Reclamation under reclamation law and the Secretary of the Army under water resources law;
+&emsp;"(5) review the history, use, and effectiveness of various institutional arrangements to address problems of water allocation, water quality, planning, flood control and other aspects of water development and use, including, but not limited to, interstatewater compacts, Federal-State regional corporations, river basin commissions, the activities of the Water Resources Council, municipal and irrigation districts and other similar entities with specific attention to the authorities of the Bureau of Reclamation under reclamation law and the Secretary of the Army under water resources law;
 
 &emsp;"(6) review the legal regime governing the development and use of water and the respective roles of both the Federal Government and the States over the allocation and use of water, including an examination of riparian zones, appropriation and mixed systems, market transfers, administrative allocations, ground water management, interbasin transfers, recordation of rights, Federal-State relations including the various doctrines of Federal reserved water rights (including Indian water rights and the development in several States of the concept of a public trust doctrine); and
 

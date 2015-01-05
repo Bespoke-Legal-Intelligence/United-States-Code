@@ -70,7 +70,7 @@ Pub. L. 93–205, §1, Dec. 28, 1973, 87 Stat. 884, provided: "That this Act \[e
 
 #### Relationship to Endangered Species Act of 1973
 
-Pub. L. 102–251, title III, §305, Mar. 9, 1992, 106 Stat. 66, as amended by Pub. L. 104–208, div. A, title I, §101(a)\[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "The special areas defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.)."
+Pub. L. 102–251, title III, §305, Mar. 9, 1992, 106 Stat. 66, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "The special areas defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.)."
 
 #### Minimization of Conflicts With Recreational Fisheries
 
@@ -165,4 +165,6 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented consisten
 (e) The Department of the Interior shall provide funding and administrative support for the Task Force and Advisory Council to the extent permitted by law and consistent with existing appropriations.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Reference to the National Security Staff to be understood to refer to the staff of the National SecurityCouncil, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
 

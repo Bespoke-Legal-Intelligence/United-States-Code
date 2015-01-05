@@ -30,7 +30,7 @@ Accurate determinations of eligibility.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-Accurate predictive model.—In determining presumptively whether a person resides in an unserved household under subsection (d)(10)(A), a court shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201, as that model may be amended by the Commission over time under section 339(c)(3) of the Communications Act of 1934 to increase the accuracy of that model.
+Accurate predictive model.—In determining presumptively whether a person resides in an unserved householdunder subsection (d)(10)(A), a court shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201, as that model may be amended by the Commission over time under section 339(c)(3) of the Communications Act of 1934 to increase the accuracy of that model.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -90,7 +90,7 @@ For those receiving distant signals.—In the case of a subscriber of a satellit
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) only until such time as the subscriber elects to receive such local signal.
 
-&emsp;&emsp;&emsp;&emsp;(II) Notwithstanding subclause (I), the statutory license under paragraph (2) shall not apply with respect to any subscriber who is eligible to receive the distant signal of a television network station solely by reason of subsection (e), unless the satellite carrier, within 60 days after the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, submits to that television network a list, aggregated by designated market area (as defined in section 122(j)(2)(C)), that—
+&emsp;&emsp;&emsp;&emsp;(II) Notwithstanding subclause (I), the statutory license under paragraph (2) shall not apply with respect to any subscriber who is eligible to receive the distant signal of a television network station solely by reason of subsection (e), unless the satellite carrier, within 60 days after the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, submitsto that television network a list, aggregated by designated market area (as defined in section 122(j)(2)(C)), that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) identifies that subscriber by name and address (street or rural route number, city, State, and zip code) and specifies the distant signals received by the subscriber; and
 
@@ -102,7 +102,7 @@ For those not receiving distant signals.—In the case of any subscriber of a sa
 
 &emsp;&emsp;(B)
 
-Rules for lawful subscribers as of date of enactment of 2010 act.—In the case of a subscriber of a satellite carrier who, on the day before the date of the enactment of the Satellite Television Extension and Localism Act of 2010, was lawfully receiving the secondary transmission of the primary transmission of a network station under the statutory license under paragraph (2) (in this subparagraph referred to as the "distant signal"), other than subscribers to whom subparagraph (A) applies, the statutory license under paragraph (2) shall apply to secondary transmissions by that satellite carrier to that subscriber of the distant signal of a station affiliated with the same television network, and the subscriber's household shall continue to be considered to be an unservedhousehold with respect to such network, until such time as the subscriber elects to terminate such secondary transmissions, whether or not the subscriber elects to subscribe to receive the secondary transmission of the primary transmission of a local network station affiliated with the same network pursuant to the statutory license under section 122.
+Rules for lawful subscribers as of date of enactment of 2010 act.—In the case of a subscriber of a satellite carrier who, on the day before the date of the enactment of the Satellite Television Extension and Localism Act of 2010, was lawfully receiving the secondary transmission of the primary transmission of a network station under the statutory license under paragraph (2) (in this subparagraph referred to as the "distant signal"), other than subscribers to whom subparagraph (A) applies, the statutory license under paragraph (2) shall apply to secondary transmissions by that satellite carrier to that subscriber of the distant signal of a station affiliated with the same television network, and the subscriber's household shall continue to be considered to be an unserved household with respect to such network, until such time as the subscriber elects to terminate such secondary transmissions, whether or not the subscriber elects to subscribe to receive the secondary transmission of the primary transmission of a local network station affiliated with the same network pursuant to the statutory license under section 122.
 
 &emsp;&emsp;(C)
 
@@ -130,7 +130,7 @@ Available defined.—For purposes of this paragraph, a satellite carrier makes a
 
 &emsp;(4)
 
-Noncompliance with reporting and payment requirements.—Notwithstanding the provisions of paragraphs (1) and (2), the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission made by a non-network station or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
+Noncompliance with reporting and payment requirements.—Notwithstanding the provisions of paragraphs (1) and (2), the willful or repeated secondary transmission to thepublic by a satellite carrier of a primary transmission made by a non-network station or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
 
 &emsp;(5)
 
@@ -332,7 +332,7 @@ Agreements binding on parties; filing of agreements; public notice.—
 
 &emsp;&emsp;&emsp;(i)
 
-Voluntary agreements; filing.—Voluntary agreements negotiated at any time in accordance with this paragraph shall be binding upon all satellite carriers, distributors, and copyright owners thatare parties thereto. Copies of such agreements shall be filed with the Copyright Office within 30 days after execution in accordance with regulations that the Register of Copyrights shall prescribe.
+Voluntary agreements; filing.—Voluntary agreements negotiated at any time in accordance with this paragraph shall be binding upon all satellite carriers, distributors, and copyright owners that are parties thereto. Copies of such agreements shall be filed with the Copyright Office within 30 days after execution in accordance with regulations that the Register of Copyrights shall prescribe.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -352,7 +352,7 @@ Adoption of fees.—The Copyright Royalty Judges shall adopt the royalty fees fr
 
 &emsp;&emsp;(E)
 
-Period agreement is in effect.—The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2014, or in accordance with the terms of the agreement, whichever is later.
+Period agreement is in effect.—The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2019, or in accordance with the terms of the agreement, whichever is later.
 
 &emsp;&emsp;(F)
 
@@ -396,7 +396,7 @@ Definitions.—As used in this section—
 
 &emsp;(1)
 
-Distributor.—The term "distributor" means an entity that contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through otherprogram distribution entities in accordance with the provisions of this section.
+Distributor.—The term "distributor" means an entity that contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities in accordance with the provisions of this section.
 
 &emsp;(2)
 
@@ -500,7 +500,7 @@ Primary stream.—The term "primary stream" means—
 
 (e)
 
-Moratorium on Copyright Liability.—Until December 31, 2014, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
+Moratorium on Copyright Liability.—Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
 
 (f)
 
@@ -536,7 +536,7 @@ In general.—Upon a request made by a satellite carrier, a court that issued an
 
 &emsp;&emsp;(B)
 
-Expiration of temporary waiver.—A temporary waiver of an injunction under subparagraph (A) shall expire after the end of the 120-day period beginning on the date such temporary waiver is issued unless extended for good cause by the court making the temporary waiver.
+Expiration of temporary waiver.—A temporary waiver of an injunction undersubparagraph (A) shall expire after the end of the 120-day period beginning on the date such temporary waiver is issued unless extended for good cause by the court making the temporary waiver.
 
 &emsp;&emsp;(C)
 
@@ -708,11 +708,15 @@ Household coverage.—For purposes of subparagraph (A), an entity that makes ava
 
 Good quality satellite signal defined.—The term "good quality satellite signal" has the meaning given such term under section 342(e)(2) of Communications <sup>2</sup> Act of 1934.
 
-(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, §1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §§1004–1007,1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, §5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX \[title I, §§101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, 118 Stat. 3394–3408; Pub. L. 109–303, §4(e), (g), Oct. 6, 2006, 120 Stat. 1482, 1483; Pub. L. 110–403, title II, §209(a)(4), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–118, div. B, §1003(a)(1), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(a)(1), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(a)(1), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(a)(1), Apr. 15, 2010, 124 Stat. 1118; Pub. L. 111–175, title I, §§102(a)(1), (b)–(k), 105, May 27, 2010, 124 Stat. 1219–1226, 1239; Pub. L. 111–295, §6(c), Dec. 9, 2010, 124 Stat. 3181.)
+(h)
+
+Termination of License.—This section shall cease to be effective on December 31, 2019.
+
+(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, §1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §§1004–1007, 1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, §5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX \[title I, §§101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, 118 Stat. 3394–3408; Pub. L. 109–303, §4(e), (g), Oct. 6, 2006, 120 Stat. 1482, 1483; Pub. L. 110–403, title II, §209(a)(4), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–118, div. B, §1003(a)(1), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(a)(1), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(a)(1), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(a)(1), Apr. 15, 2010, 124 Stat. 1118; Pub. L. 111–175, title I, §§102(a)(1), (b)–(k), 105, May 27, 2010, 124 Stat. 1219–1226, 1239; Pub. L. 111–295, §6(c), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 113–200, title II, §§201(2), 202(a), Dec. 4, 2014, 128 Stat. 2066.)
 
 #### Termination of Section
 
-<i>For termination of section by section 107(a) of Pub. L. 111–175, see Termination of Section note below.</i>
+<i>For termination of section, see subsection (h) of this section.</i>
 
 #### References in Text
 
@@ -727,6 +731,12 @@ The date of the enactment of this subsection, referred to in subsec. (g)(1), (2)
 The Federal Rules of Civil Procedure, referred to in subsec. (g)(3)(A)(iii), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1)(E). Pub. L. 113–200, §201(2)(A), substituted "2019" for "2014".
+
+Subsec. (e). Pub. L. 113–200, §201(2)(B), substituted "2019" for "2014".
+
+Subsec. (h). Pub. L. 113–200, §202(a), added subsec. (h).
 
 <b>2010</b>—Pub. L. 111–175, §102(a)(1), substituted "distant television programming by satellite" for "superstations and network stations for private home viewing" in section catchline.
 
@@ -838,7 +848,7 @@ Subsec. (c)(1)(F)(i). Pub. L. 111–175, §102(e)(1)(G)(ii)(I), (II), (IV), (g)(
 
 Subsec. (c)(1)(F)(i)(II). Pub. L. 111–175, §102(e)(1)(G)(ii)(III), substituted "Copyright Royalty Judges" for "Librarian of Congress" and struck out "arbitration" after "participate in the".
 
-Subsec. (c)(1)(F)(ii). Pub. L. 111–175, §102(e)(1)(G)(iii), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "In determining royalty fees under this subparagraph, the copyright arbitration royalty panel appointed under chapter 8, as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004 shall establish fees for the secondary transmissions of the primary analog transmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions, except that the Librarian of Congress and any copyright arbitration royalty panel shall adjust those fees to account for the obligations of the parties under any applicable voluntary agreement filed with the Copyright Office pursuant to subparagraph (D). In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—".
+Subsec. (c)(1)(F)(ii). Pub. L. 111–175, §102(e)(1)(G)(iii), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "In determining royalty fees under this subparagraph, the copyright arbitration royalty panel appointed under chapter 8, as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004 shall establish fees for the secondary transmissions of the primary analog transmissionof network stations and superstations that most clearly represent the fair market value of secondary transmissions, except that the Librarian of Congress and any copyright arbitration royalty panel shall adjust those fees to account for the obligations of the parties under any applicable voluntary agreement filed with the Copyright Office pursuant to subparagraph (D). In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—".
 
 Subsec. (c)(1)(F)(iii). Pub. L. 111–175, §102(e)(1)(G)(iv), amended cl. (iii) generally. Prior to amendment, text read as follows: "The obligation to pay the royalty fee established under a determination which—
 
@@ -942,7 +952,7 @@ Subsec. (a)(15). Pub. L. 108–447, §104, added par. (15).
 
 Subsec. (a)(16). Pub. L. 108–447, §111(a), added par. (16).
 
-Subsec. (b)(1). Pub. L. 108–447, §103(4), inserted at end: "Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions aresubject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection."
+Subsec. (b)(1). Pub. L. 108–447, §103(4), inserted at end: "Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection."
 
 Subsec. (b)(1)(A). Pub. L. 108–447, §107(a)(2), struck out "for private home viewing" after "to subscribers".
 
@@ -1084,7 +1094,7 @@ Subsec. (b)(1)(B)(i). Pub. L. 103–369, §2(3)(A), as amended by Pub. L. 105–
 
 Subsec. (b)(1)(B)(ii). Pub. L. 103–369, §2(3)(B), substituted "6 cents" for "3 cents".
 
-Subsec. (c)(1). Pub. L. 103–369, §2(4)(A), as amended by Pub. L. 105–80, §1(2), struck out "until December 31, 1992," before "unless a royalty fee", substituted "paragraph (2) or (3) of this subsection" for "paragraph (2), (3), or (4) of this subsection", and struck out at end"After that date, the fee shall be determined either in accordance with the voluntary negotiation procedure specified in paragraph (2) or in accordance with the compulsory arbitration procedure specified in paragraphs (3) and (4)."
+Subsec. (c)(1). Pub. L. 103–369, §2(4)(A), as amended by Pub. L. 105–80, §1(2), struck out "until December 31, 1992," before "unless a royalty fee", substituted "paragraph (2) or (3) of this subsection" for "paragraph (2), (3), or (4) of this subsection", and struck out at end "After that date, the fee shall be determined either in accordance with the voluntary negotiation procedure specified in paragraph (2) or in accordance with the compulsory arbitration procedure specified in paragraphs (3) and (4)."
 
 Subsec. (c)(2)(A). Pub. L. 103–369, §2(4)(B)(i), as amended by Pub. L. 105–80, §1(2), substituted "July 1, 1996" for "July 1, 1991".
 
@@ -1204,7 +1214,9 @@ Pub. L. 100–667, title II, §207, Nov. 16, 1988, 102 Stat. 3960, provided that
 
 #### Termination of Section
 
-Pub. L. 111–175, title I, §107(a), May 27, 2010, 124 Stat. 1245, provided that: "Section 119 of title 17, United States Code, as amended by this Act, shall cease to be effective on December 31, 2014."
+For termination of section, see subsection (h) of this section.
+
+Pub. L. 111–175, title I, §107(a), May 27, 2010, 124 Stat. 1245, which provided that this section would cease to be effective on Dec. 31, 2014, was repealed by Pub. L. 113–200, title II, §202(b), Dec. 4, 2014, 128 Stat. 2066.
 
 Pub. L. 111–118, div. B, §1003(a)(2)(A), Dec. 19, 2009, 123 Stat. 3469, as amended by Pub. L. 111–144, §10(a)(2), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(a)(2), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(a)(2), Apr. 15, 2010, 124 Stat. 1119, which provided that this section would cease to be effective on May 31, 2010, was repealed by Pub. L. 111–175, title I, §107(b), May 27, 2010, 124 Stat. 1245.
 

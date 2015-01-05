@@ -11,7 +11,4 @@ Section 2401 of Pub. L. 107–171, which directed that subchapter C (this subpar
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03838n - Grassland reserve program](%C2%A7%2003838n%20-%20Grassland%20reserve%20program.md)
-- [&sect; 03838o - Duties of owners and operators](%C2%A7%2003838o%20-%20Duties%20of%20owners%20and%20operators.md)
-- [&sect; 03838p - Duties of Secretary](%C2%A7%2003838p%20-%20Duties%20of%20Secretary.md)
-- [&sect; 03838q - Delegation of duty](%C2%A7%2003838q%20-%20Delegation%20of%20duty.md)
+- [&sect; 03838n to 3838q - Repealed. Pub. L. 113&#8211;79, title II, &sect;2705(a), Feb. 7, 2014, 128 Stat. 768](%C2%A7%2003838n%20to%203838q%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72705%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20768.md)

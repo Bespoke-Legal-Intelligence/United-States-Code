@@ -2,7 +2,7 @@
 
 #### (a) Specified property; manner of acquisition
 
-(1) The Secretary is authorized to acquire the properties designated in paragraph (2) of this subsection, or any interest therein, by donation, purchase with donated or appropriated funds, condemnation, or otherwise. Any property or interest therein owned by the Commonwealth of Massachusetts or any political subdivision thereof may be acquired only by donation. The Secretary may initiate condemnation proceedings under this paragraph only after making every reasonable effort to acquire property through negotiations and purchase, and consulting with the Commission (if established) and the city council of Lowell.
+(1) The Secretary is authorized to acquire the properties designated in paragraph (2) of this subsection, or any interest therein, by donation, purchase with donated or appropriated funds, condemnation, or otherwise. Any property or interest therein owned by the Commonwealth of Massachusetts or any political subdivision thereof may be acquired only by donation. The Secretary may initiate condemnation proceedings under this paragraph only after making every reasonable effort to acquire propertythrough negotiations and purchase, and consulting with the Commission (if established) and the city council of Lowell.
 
 (2) The properties referred to in paragraph (1) of this subsection are the following:
 
@@ -36,7 +36,7 @@ Until the date on which the Commission conducts its first meeting, the Secretary
 
 &emsp;(1) is identified in the report of the Lowell Historical Canal District Commission as a property which should be preserved, restored, managed, developed, or maintained in a manner consistent with the purpose of this subchapter;
 
-&emsp;(2) is listed in the National Register of Historic Places, as maintained by the Secretary pursuant to section 470a(a) of this title, and section 462(b) of this title; or
+&emsp;(2) is listed in the National Register of Historic Places, as maintained by the Secretary pursuant to chapter 3021 and section 320102(c) of title 54; or
 
 &emsp;(3) is determined by the Secretary to be of national significance;
 
@@ -59,6 +59,10 @@ The Secretary may acquire easements within the park for the purpose of carrying 
 #### References in Text
 
 Section 410cc–11(a)(3) of this title, referred to in subsec. (a)(2)(G), was in the original "subsection (101)(a)(3)" and was translated as meaning section 101(a)(3) of Pub. L. 95–290, which is classified to section 410cc–11(a)(3) of this title, to reflect the probable intent of Congress.
+
+#### Codification
+
+In subsec. (b)(2), "chapter 3021 and section 320102(c) of title 54" substituted for "section 101(a) of the Act entitled 'An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes', approved October 15, 1966 (16 U.S.C. 470a), and section 2(b) of the Act entitled 'An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes', approved August 21, 1935 (16 U.S.C. 462)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 

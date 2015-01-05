@@ -14,7 +14,7 @@ The State agency for higher education shall ensure that—
 
 #### (c) Special rule
 
-No single participant in an eligible partnership may use more than 50 percent of the funds made available to the partnership under this section.
+No single participant in an eligible partnership may use more than 50 percent of the fundsmade available to the partnership under this section.
 
 (Pub. L. 89–10, title II, §2132, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633.)
 

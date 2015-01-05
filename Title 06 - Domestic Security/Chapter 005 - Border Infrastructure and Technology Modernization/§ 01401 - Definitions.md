@@ -4,27 +4,27 @@ In this chapter:
 
 #### (1) Commissioner
 
-&emsp;The term “Commissioner” means the Commissioner of U.S. Customs and Border Protection of the Department of Homeland Security.
+&emsp;The term "Commissioner" means the Commissioner of U.S. Customs and Border Protection of the Department of Homeland Security.
 
 #### (2) Maquiladora
 
-&emsp;The term “maquiladora” means an entity located in Mexico that assembles and produces goods from imported parts for export to the United States.
+&emsp;The term "maquiladora" means an entity located in Mexico that assembles and produces goods from imported parts for export to the United States.
 
 #### (3) Northern border
 
-&emsp;The term “northern border” means the international border between the United States and Canada.
+&emsp;The term "northern border" means the international border between the United States and Canada.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Department of Homeland Security.
+&emsp;The term "Secretary" means the Secretary of the Department of Homeland Security.
 
 #### (5) Southern border
 
-&emsp;The term “southern border” means the international border between the United States and Mexico.
+&emsp;The term "southern border" means the international border between the United States and Mexico.
 
 (Pub. L. 110–161, div. E, title VI, §602, Dec. 26, 2007, 121 Stat. 2094.)
 
 #### Short Title
 
-Pub. L. 110–161, div. E, title VI, §601, Dec. 26, 2007, 121 Stat. 2094, provided that: “This title \[enacting this chapter\] may be cited as the ‘Border Infrastructure and Technology Modernization Act of 2007’.”
+Pub. L. 110–161, div. E, title VI, §601, Dec. 26, 2007, 121 Stat. 2094, provided that: "This title \[enacting this chapter\] may be cited as the 'Border Infrastructure and Technology Modernization Act of 2007'."
 

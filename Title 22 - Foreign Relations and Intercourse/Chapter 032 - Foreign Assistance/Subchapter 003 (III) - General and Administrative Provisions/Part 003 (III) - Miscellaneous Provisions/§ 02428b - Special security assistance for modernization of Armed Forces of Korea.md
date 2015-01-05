@@ -12,7 +12,7 @@
 
 #### (b) Additional transfer authority of President of defense articles located outside of Korea; prerequisites for determinations respecting transfers; report by President to Congress of determinations
 
-In order that transfers of defense articles under subsection (a) of this section will not cause significant adverse impact on the readiness of the Armed Forces of the United States, the President is authorized, in lieu of such transfers, to transfer additional defense articles from the stocks of the Department of Defense, wherever located, to the Republic of Korea to compensate for the military capability of defense articles withdrawn from Korea in any case where he determines that—
+In order that transfers of defense articles under subsection (a) will not cause significant adverse impact on the readiness of the Armed Forces of the United States, the President is authorized, in lieu of such transfers, to transfer additional defense articles from the stocks of the Department of Defense, wherever located, to the Republic of Korea to compensate for the military capability of defense articles withdrawn from Korea in any case where he determines that—
 
 &emsp;(1) the transfer of specific defense articles located in Korea would have a significant adverse impact on the readiness of the United States Armed Forces;
 
@@ -38,7 +38,7 @@ The President shall transmit to the Congress, together with the presentation mat
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Actto the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

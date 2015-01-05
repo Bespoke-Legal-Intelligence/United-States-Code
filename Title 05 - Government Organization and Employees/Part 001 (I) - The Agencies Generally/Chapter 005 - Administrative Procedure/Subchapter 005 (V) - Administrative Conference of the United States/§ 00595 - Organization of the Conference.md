@@ -44,7 +44,7 @@
 
 &emsp;(9) provide necessary services for the Assembly, the Council, and the committees of the Conference;
 
-&emsp;(10) organize and direct studies ordered by the Assembly or the Council, to contract for the performance of such studies with any public or private persons, firm, association, corporation, or institution under title III of the Federal Property and Administrative ServicesAct of 1949, as amended (41 U.S.C. 251–260), and to use from time to time, as appropriate, experts and consultants who may be employed in accordance with section 3109 of this title at rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title;
+&emsp;(10) organize and direct studies ordered by the Assembly or the Council, to contract for the performance of such studies with any public or private persons, firm, association, corporation, or institution under title III of the Federal Property and Administrative Services Act of 1949, as amended (41 U.S.C. 251–260), and to use from time to time, as appropriate, experts and consultants who may be employed in accordance with section 3109 of this title at rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title;
 
 &emsp;(11) utilize, with their consent, the services and facilities of Federal agencies and of State and private agencies and instrumentalities with or without reimbursement;
 
@@ -76,11 +76,11 @@ Historical and Revision Notes
 
 Aug. 30, 1964, Pub. L. 88–499, §6, 78 Stat. 617.
 
-In subsection (b), the words “except that the Council members initially appointed shall serve for one, two, or three years, as designated by the President” are omitted as executed, existing rights being preserved by technical section 8.
+In subsection (b), the words "except that the Council members initially appointed shall serve for one, two, or three years, as designated by the President" are omitted as executed, existing rights being preserved by technical section 8.
 
-In subsection (b)(1), the words “the sessions” are substituted for “such meetings” for clarity as elsewhere the word “sessions” refers to sessions of the Conference and “meetings” refers to meetings of the Council.
+In subsection (b)(1), the words "the sessions" are substituted for "such meetings" for clarity as elsewhere the word "sessions" refers to sessions of the Conference and "meetings" refers to meetings of the Council.
 
-In subsection (c)(7), the words “subject to the civil service and classification laws” are omitted as unnecessary inasmuch as appointments in the executive branch are made subject to the civil service laws and pay is fixed under classification laws unless specifically excepted. The words “and fix the pay of” are added for clarity.
+In subsection (c)(7), the words "subject to the civil service and classification laws" are omitted as unnecessary inasmuch as appointments in the executive branch are made subject to the civil service laws and pay is fixed under classification laws unless specifically excepted. The words "and fix the pay of" are added for clarity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -94,7 +94,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 <b>1990</b>—Subsec. (c)(16). Pub. L. 101–422 added par. (16).
 
-<b>1982</b>—Subsec. (c)(13). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
+<b>1982</b>—Subsec. (c)(13). Pub. L. 97–258 substituted "section 1342 of title 31" for "section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))".
 
 <b>1972</b>—Subsec. (c)(10). Pub. L. 92–526, §1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
 

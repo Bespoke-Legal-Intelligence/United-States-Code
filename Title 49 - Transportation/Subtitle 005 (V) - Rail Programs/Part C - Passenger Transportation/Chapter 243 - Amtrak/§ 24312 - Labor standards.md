@@ -72,7 +72,7 @@ Amendment of Existing Collective Bargaining Agreement.—
 
 &emsp;"(1)
 
-Contracting out.—Any collective bargaining agreement entered into between Amtrak and an organization representing Amtrak employees before the date of enactment of this Act \[Dec. 2, 1997\] is deemed amended to include the language of section 24312(b) of title 49, United States Code, as that section existedon the day before the effective date \[Dec. 2, 1997\] of the amendments made by subsection (a) \[amending this section\].
+Contracting out.—Any collective bargaining agreement entered into between Amtrak and an organization representing Amtrak employees before the date of enactment of this Act \[Dec. 2, 1997\] is deemed amended to include the language of section 24312(b) of title 49, United States Code, as that section existed on the day before the effective date \[Dec. 2, 1997\] of the amendments made by subsection (a) \[amending this section\].
 
 &emsp;"(2)
 

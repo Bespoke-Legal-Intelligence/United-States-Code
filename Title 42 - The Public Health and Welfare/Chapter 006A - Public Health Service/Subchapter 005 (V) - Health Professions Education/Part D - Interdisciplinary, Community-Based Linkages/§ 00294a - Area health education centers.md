@@ -96,7 +96,7 @@ With respect to the costs of operating a program through a grant under this sect
 
 #### (f) Limitation
 
-Not less than 75 percent of the total amount provided to an area health education center program under subsection (a)(1) or (a)(2) shall be allocated to the area health education centers participating in the program under this section. To provide needed flexibility to newly funded area health education center programs, the Secretary may waive the requirement in the sentence for the first 2 years of a new area health education center program funded under subsection (a)(1).
+Not less than 75 percent of the total amount provided to an area health education center program under subsection (a)(1) or (a)(2) shall be allocated to the area health education centers participating in the program under this section. To provide needed flexibility to newly fundedarea health education center programs, the Secretary may waive the requirement in the sentence for the first 2 years of a new area health education center program funded under subsection (a)(1).
 
 #### (g) Award
 
@@ -146,7 +146,11 @@ Notwithstanding any other provision of this subchapter, section 295j(a) of this 
 
 It is the sense of the Congress that every State have an area health education center program in effect under this section.
 
-(July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, §5403(a), Mar. 23, 2010, 124 Stat. 644.)
+(July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, §5403(a), Mar. 23, 2010, 124 Stat. 644; Pub. L. 113–128, title V, §512(z)(2), July 22, 2014, 128 Stat. 1716.)
+
+#### Amendment of Subsection (c)(1)(A)
+
+<i>Pub. L. 113–128, title V, §§506, 512(z)(2), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(1)(A) of this section is amended by striking "the applicable one-stop delivery system under section 2864(c) of title 29," and inserting "the applicable one-stop delivery system under section 3151(e) of title 29,". See 2014 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -164,5 +168,19 @@ Another prior section 751 of act July 1, 1944, was classified to section 294t of
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(1)(A). Pub. L. 113–128 substituted "the applicable one-stop delivery system under section 3151(e) of title 29," for "the applicable one-stop delivery system under section 2864(c) of title 29,".
+
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
+#### Waiver of Requirements
+
+Pub. L. 113–235, div. G, title II, Dec. 16, 2014, 128 Stat. 2467, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[42 U.S.C. 294a\] on or before January 1, 2009, the Secretary may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 113–76, div. H, title II, Jan. 17, 2014, 128 Stat. 363.
 

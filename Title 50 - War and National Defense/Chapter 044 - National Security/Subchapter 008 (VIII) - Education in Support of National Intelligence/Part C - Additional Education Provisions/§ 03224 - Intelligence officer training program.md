@@ -22,7 +22,7 @@
 
 #### (c) Grant program for historically black colleges and universities
 
-(1) The Director may provide grants to historically black colleges and universities to provide programs of study in educational disciplines identified under subsection (a)(2) or described in paragraph (2).
+(1) The Director may provide grants to historically black colleges and universities and Predominantly Black Institutions to provide programs of study in educational disciplines identified under subsection (a)(2) or described in paragraph (2).
 
 (2) A grant provided under paragraph (1) may be used to provide programs of study in the following educational disciplines:
 
@@ -62,6 +62,10 @@ Historically black college and university.—The term "historically black colleg
 
 &emsp;(4)
 
+Predominantly black institution.—The term "Predominantly Black Institution" has the meaning given the term in section 1059e of title 20.
+
+&emsp;(5)
+
 Study abroad program.—The term "study abroad program" means a program of study that—
 
 &emsp;&emsp;(A) takes places <sup>1</sup> outside the geographical boundaries of the United States;
@@ -70,13 +74,17 @@ Study abroad program.—The term "study abroad program" means a program of study
 
 &emsp;&emsp;(C) is a credit or noncredit program.
 
-(July 26, 1947, ch. 343, title X, §1024, as added Pub. L. 111–259, title III, §313(a), Oct. 7, 2010, 124 Stat. 2665; amended Pub. L. 112–18, title III, §304, June 8, 2011, 125 Stat. 226.)
+(July 26, 1947, ch. 343, title X, §1024, as added Pub. L. 111–259, title III, §313(a), Oct. 7, 2010, 124 Stat. 2665; amended Pub. L. 112–18, title III, §304, June 8, 2011, 125 Stat. 226; Pub. L. 113–293, title III, §306, Dec. 19, 2014, 128 Stat. 3997.)
 
 #### Codification
 
 Section was formerly classified to section 441p of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–293, §306(1), inserted "and Predominantly Black Institutions" after "universities".
+
+Subsec. (g)(4), (5). Pub. L. 113–293, §306(2), added par. (4) and redesignated former par. (4) as (5).
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–18, §304(1), substituted "subsections (b) and (c)" for "subsection (b)".
 

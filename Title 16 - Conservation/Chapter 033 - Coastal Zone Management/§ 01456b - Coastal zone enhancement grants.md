@@ -12,7 +12,7 @@ For purposes of this section, the term "coastal zone enhancement objective" mean
 
 &emsp;(4) Reducing marine debris entering the Nation's coastal and ocean environment by managing uses and activities that contribute to the entry of such debris.
 
-&emsp;(5) Development and adoption of procedures to assess, consider, and control cumulative and secondary impacts of coastal growth and development, including the collective effect on various individual uses or activities on coastal resources, such as coastal wetlands and fishery resources.
+&emsp;(5) Development and adoption of procedures to assess, consider, and control cumulative and secondary impacts of coastal growth and development, including the collective effect onvarious individual uses or activities on coastal resources, such as coastal wetlands and fishery resources.
 
 &emsp;(6) Preparing and implementing special area management plans for important coastal areas.
 
@@ -72,5 +72,5 @@ Subsec. (b). Pub. L. 104–150, §3, designated existing provisions as par. (1) 
 
 <b>1990</b>—Pub. L. 101–508 amended section generally, substituting present provisions for provisions providing for interstate grants and agreements for developing and administering coordinated coastal zone planning and programs, setting priorities for unified coastal zone policies in contiguous areas of coastal states, providing for a Federal-State consultation procedure, authorizing temporary planning and coordinated activity, and establishing eligibility of States to receive Federal assistance.
 
-<b>1980</b>—Pub. L. 96–464 amended section generally and, among many changes, made a number of technical amendments, and inserted provision making it clearthat only states which meet the basic eligibility requirements in this chapter can receive funding under this section.
+<b>1980</b>—Pub. L. 96–464 amended section generally and, among many changes, made a number of technical amendments, and inserted provision making it clear that only states which meet the basic eligibility requirements in this chapter can receive funding under this section.
 

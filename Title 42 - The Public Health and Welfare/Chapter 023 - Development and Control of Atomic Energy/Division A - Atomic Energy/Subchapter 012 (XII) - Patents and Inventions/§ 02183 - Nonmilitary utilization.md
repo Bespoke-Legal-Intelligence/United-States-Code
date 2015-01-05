@@ -8,7 +8,7 @@ The Commission may, after giving the patent owner an opportunity for a hearing, 
 
 Whenever any patent has been declared affected with the public interest, pursuant to subsection (a) of this section—
 
-&emsp;(1) the Commission is licensed to use the invention or discovery covered by such patent in performing any of its powers under this chapter; and
+&emsp;(1) the Commission is licensed to use the invention or discovery covered by such patent inperforming any of its powers under this chapter; and
 
 &emsp;(2) any person may apply to the Commission for a nonexclusive patent license to use the invention or discovery covered by such patent, and the Commission shall grant such patent license to the extent that it finds that the use of the invention or discovery is of primary importance to the conduct of an activity by such person authorized under this chapter.
 
@@ -52,7 +52,7 @@ If, after any hearing conducted pursuant to subsection (d) of this section, the 
 
 #### (f) Limitations on issuance of patent
 
-The Commission shall not grant any patent license pursuant to subsection (e) of this sectionfor any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c) of this section, and without separate notification and hearing as provided in subsection (d) of this section, and without a separate finding as provided in subsection (e) of this section.
+The Commission shall not grant any patent license pursuant to subsection (e) of this section for any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c) of this section, and without separate notification and hearing as provided in subsection (d) of this section, and without a separate finding as provided in subsection (e) of this section.
 
 #### (g) Royalty fees
 

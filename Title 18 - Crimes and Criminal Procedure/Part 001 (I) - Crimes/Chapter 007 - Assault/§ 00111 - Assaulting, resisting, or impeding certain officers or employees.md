@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted "or inflicts bodily inj
 
 <b>1988</b>—Pub. L. 100–690 amended text generally. Prior to amendment, text read as follows:
 
-"Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of his official duties, shall be fined not more than $5,000 or imprisoned not more than three years, or both.
+"Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated insection 1114 of this title while engaged in or on account of the performance of his official duties, shall be fined not more than $5,000 or imprisoned not more than three years, or both.
 
 "Whoever, in the commission of any such acts uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both."
 

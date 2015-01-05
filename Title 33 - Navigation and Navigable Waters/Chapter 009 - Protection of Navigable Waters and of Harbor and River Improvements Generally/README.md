@@ -4,6 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
+| [400\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000400%20-%20Continuing%20authority%20programs.md) | Continuing authority programs. |
 | [401\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000401%20-%20Construction%20of%20bridges%2C%20causeways%2C%20dams%20or%20dikes%20generally%3B%20exemptions.md) | Construction of bridges, causeways, dams or dikes generally; exemptions. |
 | [402\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000402%20-%20Construction%20of%20bridges%2C%20etc.%2C%20over%20Illinois%20and%20Mississippi%20Canal.md) | Construction of bridges, etc., over Illinois and Mississippi Canal. |
 | [403\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000403%20-%20Obstruction%20of%20navigable%20waters%20generally%3B%20wharves%3B%20piers%2C%20etc.%3B%20excavations%20and%20filling%20in.md) | Obstruction of navigable waters generally; wharves; piers, etc.; excavations and filling in. |
@@ -15,6 +16,7 @@
 | [407\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000407%20-%20Deposit%20of%20refuse%20in%20navigable%20waters%20generally.md) | Deposit of refuse in navigable waters generally. |
 | [407a.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000407a%20-%20Deposit%20of%20debris%20of%20mines%20and%20stamp%20works.md) | Deposit of debris of mines and stamp works. |
 | [408\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000408%20-%20Taking%20possession%20of%2C%20use%20of%2C%20or%20injury%20to%20harbor%20or%20river%20improvements.md) | Taking possession of, use of, or injury to harbor or river improvements. |
+| [408a.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000408a%20-%20Expediting%20approval%20of%20modifications%20and%20alterations%20of%20projects%20by%20non-Federal%20interests.md) | Expediting approval of modifications and alterations of projects by non-Federal interests. |
 | [409\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000409%20-%20Obstruction%20of%20navigable%20waters%20by%20vessels%3B%20floating%20timber%3B%20marking%20and%20removal%20of%20sunken%20vessels.md) | Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels. |
 | [410\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000410%20-%20Exception%20as%20to%20floating%20loose%20timber%2C%20sack%20rafts%2C%20etc.%3B%20violation%20of%20regulations%3B%20penalty.md) | Exception as to floating loose timber, sack rafts, etc.; violation of regulations; penalty. |
 | [411\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000411%20-%20Penalty%20for%20wrongful%20deposit%20of%20refuse%3B%20use%20of%20or%20injury%20to%20harbor%20improvements%2C%20and%20obstruction%20of%20navigable%20waters%20generally.md) | Penalty for wrongful deposit of refuse; use of or injury to harbor improvements, and obstruction of navigable waters generally. |
@@ -44,13 +46,14 @@
 | [426d.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426d%20-%20Payment%20of%20expenses.md) | Payment of expenses. |
 | [426e.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426e%20-%20Federal%20aid%20in%20protection%20of%20shores.md) | Federal aid in protection of shores. |
 | 426e–1. | Shore protection projects. |
+| 426e–2. | Clarification of munition disposal authorities. |
 | [426f.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426f%20-%20Reimbursements.md) | Reimbursements. |
 | [426g.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426g%20-%20Storm%20and%20hurricane%20restoration%20and%20impact%20minimization%20program.md) | Storm and hurricane restoration and impact minimization program. |
 | 426g–1. | State and regional plans. |
 | [426h.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426h%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93114%2C%20title%20II%2C%20%C2%A72038%28b%29%2C%20Nov.%208%2C%202007%2C%20121%20Stat.%201100.md) | Repealed. |
 | 426h–1. | Definitions. |
 | [426i.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426i%20-%20Shore%20damage%20prevention%20or%20mitigation.md) | Shore damage prevention or mitigation. |
-| 426i–1. | Construction of shoreline protection projects by non-Federal interests. |
+| 426i–1. | Repealed. |
 | 426i–2. | National coastal data bank. |
 | [426j.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426j%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93114%2C%20title%20II%2C%20%C2%A72037%28b%29%281%29%2C%20Nov.%208%2C%202007%2C%20121%20Stat.%201096.md) | Repealed. |
 | [426k.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426k%20-%20Five%20year%20demonstration%20program%20to%20temporarily%20increase%20diversion%20of%20water%20from%20Lake%20Michigan%20at%20Chicago%2C%20Illinois.md) | Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois. |
@@ -136,6 +139,7 @@
 | 467f–1. | Lock and dam security. |
 | [467g.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467g%20-%20Research.md) | Research. |
 | 467g–1. | Dam safety training. |
+| 467g–2. | Public awareness and outreach for dam safety. |
 | [467h.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467h%20-%20Reports.md) | Reports. |
 | [467i.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467i%20-%20Statutory%20construction.md) | Statutory construction. |
 | [467j.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

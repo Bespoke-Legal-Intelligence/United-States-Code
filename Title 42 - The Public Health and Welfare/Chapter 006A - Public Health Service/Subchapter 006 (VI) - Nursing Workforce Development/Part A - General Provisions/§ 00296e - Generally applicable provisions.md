@@ -32,7 +32,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (1) In general
 
-&emsp;Each application for a grant under this subchapter, except advanced nurse traineeship grants under section 296j(a)(2) of this title, shall be submitted to a peer review group for an evaluation of the merits of the proposals made in the application. The Secretary may not approve such an application unless a peer review group has recommended the application for approval.
+&emsp;Each application for a grant under this subchapter, except advanced nurse traineeship grants under section 296j(a)(2) of this title, shall be submitted to a peer review group for an evaluation of the merits of the proposalsmade in the application. The Secretary may not approve such an application unless a peer review group has recommended the application for approval.
 
 #### (2) Composition
 

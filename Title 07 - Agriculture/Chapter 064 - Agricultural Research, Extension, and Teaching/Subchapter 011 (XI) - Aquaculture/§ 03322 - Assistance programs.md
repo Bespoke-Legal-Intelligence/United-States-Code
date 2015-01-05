@@ -6,7 +6,7 @@ The Secretary may develop and implement a cooperative research and extension pro
 
 #### (b) Grants
 
-The Secretary may make grants to—
+The Secretary may make competitive grants to—
 
 &emsp;(1) land-grant and sea grant colleges and universities;
 
@@ -16,7 +16,7 @@ The Secretary may make grants to—
 
 &emsp;(4) nonprofit private research institutions;
 
-> for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds. Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
+> for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds.
 
 #### (c) Aquaculture development plans
 
@@ -24,7 +24,7 @@ The Secretary may assist States to formulate aquaculture development plans for t
 
 #### (d) Aquacultural centers
 
-To provide for aquacultural research, development, and demonstration projects having a national or regional application, the Secretary may establish in existing Federal facilities or in cooperation with any of the non-Federal entities specified in subsection (b) of this section up to five aquacultural research, development, and demonstration centers in the United States for the performance of aquacultural research, extension work, and demonstration projects. Funds made available for the operation of such regional centers may be used for the rehabilitation of existing buildings or facilities to house such centers, but may not be used for the construction or acquisition of new buildings or facilities. To the extent practicable, the aquaculture research, development, and demonstration centers established under this subsection shall be geographically located so that they are representative of the regional aquaculture opportunities in the United States. To the extent practicable, the Secretary shall ensure that equitable efforts are made at these centers in addressing the research needs of those segments of the domestic aquaculture industry located within that region.
+To provide for aquacultural research, development, and demonstration projects having a national or regional application, the Secretary may establish in existing Federal facilities or in cooperation with any of the non-Federal entities specified in subsection (b) up to five aquacultural research, development, and demonstration centers in the United States for the performance of aquacultural research, extension work, and demonstration projects. Funds made available for the operation of such regional centers may be used for the rehabilitation of existing buildings or facilities to house such centers, but may not be used for the construction or acquisition of new buildings or facilities. To the extent practicable, the aquaculture research, development, and demonstration centers established under this subsection shall be geographically located so that they are representative of the regional aquaculture opportunities in the United States. To the extent practicable, the Secretary shall ensure that equitable efforts are made at these centers in addressing the research needs of those segments of the domestic aquaculture industry located within that region.
 
 #### (e) Listing of laws on aquaculture
 
@@ -34,15 +34,19 @@ The interagency aquaculture coordinating group established under section 6(a) of
 
 The Secretary shall implement, in consultation with the Joint Subcommittee on Aquaculture referred to in section 6 of the National Aquaculture Act of 1980 (16 U.S.C. 2805), a fish disease program to include the development of new diagnostic procedures for fish diseases, the determination of the effect of water environment on the development of the fish immune system, and the development of therapeutic, synthetic, or natural systems, for the control of fish diseases.
 
-(Pub. L. 95–113, title XIV, §1475, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1316; amended Pub. L. 99–198, title XIV, §1429(a), Dec. 23, 1985, 99 Stat. 1555; Pub. L. 101–624, title XVI, §1614(a), Nov. 28, 1990, 104 Stat. 3727; Pub. L. 104–66, title I, §1011(u), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §820(b), Apr. 4, 1996, 110 Stat. 1168.)
+(Pub. L. 95–113, title XIV, §1475, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1316; amended Pub. L. 99–198, title XIV, §1429(a), Dec. 23, 1985, 99 Stat. 1555; Pub. L. 101–624, title XVI, §1614(a), Nov. 28, 1990, 104 Stat. 3727; Pub. L. 104–66, title I, §1011(u), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §820(b), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 113–79, title VII, §§7124(a), 7128(b)(1)(B), Feb. 7, 2014, 128 Stat. 876, 878.)
 
 #### References in Text
 
-The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
+The National Aquaculture Act of 1980, referred to in subsecs. (a) and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: "Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter."
+<b>2014</b>—Subsec. (b). Pub. L. 113–79, §7128(b)(1)(B), struck out at end of concluding provisions "Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980."
+
+Pub. L. 113–79, §7124(a), inserted "competitive" before "grants" in introductory provisions.
+
+<b>1996</b>—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, andstruck out heading and text of former subsec. (e). Text read as follows: "Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter."
 
 <b>1995</b>—Subsec. (e). Pub. L. 104–66 struck out "(1)" before "Not later than" and struck out par. (2) which required Secretary to conduct a study assessing economic impact of animal damage to the United States aquaculture industry.
 
@@ -60,7 +64,7 @@ Subsecs. (f), (g). Pub. L. 101–624, §1614(a)(6), added subsecs. (f) and (g).
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–198, §1429(a)(1), (2), added par. (4) and inserted "(of which amount an in-kind contribution may not exceed 50 percent)" after "matching grant".
 
-Subsec. (d). Pub. L. 99–198, §1429(a)(3), (4), substituted in first sentence "any of the non-Federal entities specified in subsection (b) of this section" for "State agencies (including State departments of agriculture), and land-grant colleges and universities," and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
+Subsec. (d). Pub. L. 99–198, §1429(a)(3), (4), substituted in first sentence "any of the non-Federal entities specified in subsection (b)" for "State agencies (including State departments of agriculture), and land-grant colleges and universities," and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
 
 Subsec. (e). Pub. L. 99–198, §1429(a)(5), inserted "the House Committee on Merchant Marine and Fisheries,".
 

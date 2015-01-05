@@ -12,7 +12,7 @@ The Commission shall—
 
 &emsp;(2) consult with the Secretary on the development of the general management plan required by section 410tt–3 of this title; and
 
-&emsp;(3) provide advice and recommendations to the Government of the United States Virgin Islands, upon request of the Government of the United States Virgin Islands.
+&emsp;(3) provide advice and recommendations to the Government of the United States VirginIslands, upon request of the Government of the United States Virgin Islands.
 
 #### (c) Membership
 

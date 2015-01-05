@@ -16,7 +16,7 @@ Members.—(1) The Secretary shall determine the number of members of the Board.
 
 Responsibilities.—The Board shall—
 
-&emsp;(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 139c <sup>1</sup> of this title), by—
+&emsp;(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 2430(a) of this title), by—
 
 &emsp;&emsp;(A) requiring each Chief Information Officer of each military department to report the communications security activities of the military department to the Board;
 
@@ -36,7 +36,9 @@ Responsibilities.—The Board shall—
 
 Exclusion of Certain Programs.—The Board shall not include the consideration of programs funded under the National Intelligence Program (as defined in section 3(6) of the National Security Act of 1947 (50 U.S.C. 3003(6))) in carrying out this section.
 
-(Added Pub. L. 113–66, div. A, title II, §261(a), Dec. 26, 2013, 127 Stat. 724.)
+(Added Pub. L. 113–66, div. A, title II, §261(a), Dec. 26, 2013, 127 Stat. 724; amended Pub. L. 113–291, div. A, title X, §1071(f)(4), Dec. 19, 2014, 128 Stat. 3510.)
 
-<i><sup>1</sup></i><i> So in original. Section 139c no longer contains language referring to "major defense acquisition program". See section 2430(a) of this title.</i>
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–291 substituted "2430(a)" for "139c" in introductory provisions.
 

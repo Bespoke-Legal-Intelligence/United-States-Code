@@ -4,7 +4,7 @@
 
 In view of the foregoing, the Congress declares that the United States shall adhere to a national policy for science and technology which includes the following principles:
 
-&emsp;(1) The continuing development and implementation of strategies for determining andachieving the appropriate scope, level, direction, and extent of scientific and technological efforts based upon a continuous appraisal of the role of science and technology in achieving goals and formulating policies of the United States, and reflecting the views of State and local governments and representative public groups.
+&emsp;(1) The continuing development and implementation of strategies for determining and achieving the appropriate scope, level, direction, and extent of scientific and technological efforts based upon a continuous appraisal of the role of science and technology in achieving goals and formulating policies of the United States, and reflecting the views of State and local governments and representative public groups.
 
 &emsp;(2) The enlistment of science and technology to foster a healthy economy in which the directions of growth and innovation are compatible with the prudent and frugal use of resources and with the preservation of a benign environment.
 
@@ -26,7 +26,7 @@ To implement the policy enunciated in subsection (a) of this section, the Congre
 
 &emsp;(3) It is further an appropriate Federal function to support scientific and technological efforts which are expected to provide results beneficial to the public but which the private sector may be unwilling or unable to support.
 
-&emsp;(4) Scientific and technological activities which may be properly supported exclusively by the Federal Government should be distinguished from those in which interests are shared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
+&emsp;(4) Scientific and technological activities which may be properly supported exclusivelyby the Federal Government should be distinguished from those in which interests are shared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
 
 &emsp;(5) The Federal Government should support and utilize engineering and its various disciplines and make maximum use of the engineering community, whenever appropriate, as an essential element in the Federal policymaking process.
 

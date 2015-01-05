@@ -16,7 +16,7 @@
 
 #### (b) Effective price
 
-For purposes of subsection (a) of this section, the effective price for peanuts is equal to the sum of the following:
+For purposes of subsection (a), the effective price for peanuts is equal to the sum of the following:
 
 &emsp;(1) The higher of the following:
 
@@ -28,7 +28,7 @@ For purposes of subsection (a) of this section, the effective price for peanuts 
 
 #### (c) Target price
 
-For purposes of subsection (a) of this section, the target price for peanuts shall be equal to $495 per ton.
+For purposes of subsection (a), the target price for peanuts shall be equal to $495 per ton.
 
 #### (d) Payment rate
 
@@ -36,13 +36,13 @@ The payment rate used to make counter-cyclical payments for a crop year shall be
 
 &emsp;(1) the target price; and
 
-&emsp;(2) the effective price determined under subsection (b) of this section.
+&emsp;(2) the effective price determined under subsection (b).
 
 #### (e) Payment amount for 2002 crop year
 
 If counter-cyclical payments are required to be paid for the 2002 crop of peanuts, the amount of the counter-cyclical payment to be paid to an historic peanut producer for that crop year shall be equal to the product of the following:
 
-&emsp;(1) The payment rate specified in subsection (d) of this section.
+&emsp;(1) The payment rate specified in subsection (d).
 
 &emsp;(2) The payment acres of the historic peanut producer.
 
@@ -50,9 +50,9 @@ If counter-cyclical payments are required to be paid for the 2002 crop of peanut
 
 #### (f) Payment amount for subsequent crop years
 
-If counter-cyclical payments are required to be paid for any of the 2003 through 2007 crops of peanuts, the amount of the counter-cyclicalpayment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
+If counter-cyclical payments are required to be paid for any of the 2003 through 2007 crops of peanuts, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
 
-&emsp;(1) The payment rate specified in subsection (d) of this section.
+&emsp;(1) The payment rate specified in subsection (d).
 
 &emsp;(2) The payment acres on the farm.
 
@@ -62,7 +62,7 @@ If counter-cyclical payments are required to be paid for any of the 2003 through
 
 #### (1) General rule
 
-&emsp;If the Secretary determines under subsection (a) of this section that counter-cyclical payments are required to be made under this section for a crop year, the Secretary shall make the counter-cyclical payments as soon as practicable after the end of the 12-month marketing year for the crop.
+&emsp;If the Secretary determines under subsection (a) that counter-cyclical payments are required to be made under this section for a crop year, the Secretary shall make the counter-cyclical payments as soon as practicable after the end of the 12-month marketing year for the crop.
 
 #### (2) Availability of partial payments
 

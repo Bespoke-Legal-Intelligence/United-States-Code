@@ -18,7 +18,7 @@
 
 (4) Financial assistance may not be provided under this subchapter to any person unless the Secretary concerned—
 
-&emsp;(A) finds that necessary feedstocks are available and it is reasonable to expect they will continue to be available in the future, and, for biomass energy projects using wood or wood wastes or residues from the National Forest System, there shall be taken into account current levels of use by then existing facilities;
+&emsp;(A) finds that necessary feedstocks are available and it is reasonable to expect they will continue to be available in the future, and, for biomass energy projects using wood or woodwastes or residues from the National Forest System, there shall be taken into account current levels of use by then existing facilities;
 
 &emsp;(B) has obtained assurance that the person receiving such financial assistance will bear a reasonable degree of risk in the construction and operation of the project; and
 

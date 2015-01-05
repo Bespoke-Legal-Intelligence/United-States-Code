@@ -2,7 +2,7 @@
 
 (a) In determining qualifications of a preference eligible for examination for, appointment in, or reinstatement in the competitive service, the Office of Personnel Management or other examining agency shall waive—
 
-&emsp;(1) requirements as to age, height, and weight, unless the requirement is essential to the performance of the duties of the position; and
+&emsp;(1) requirements as to age, height, and weight, unless the requirement is essential tothe performance of the duties of the position; and
 
 &emsp;(2) physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position.
 
@@ -24,13 +24,13 @@ Historical and Revision Notes
 
 June 27, 1944, ch. 287, §5 (1st 2 sentences, less so much as relates to promotion, retention, and transfer), 58 Stat. 388.
 
-The section is restated for clarity and conciseness. The words “for which examination is given” and “for which the examination is given” are omitted as surplusage. The application of this section to the excepted service in the executive branch and the government of the District of Columbia is preserved by section 3320.
+The section is restated for clarity and conciseness. The words "for which examination is given" and "for which the examination is given" are omitted as surplusage. The application of this section to the excepted service in the executive branch and the government of the District of Columbia is preserved by section 3320.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 designated existing provisions as subsec. (a), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–454 designated existing provisions as subsec. (a), substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively, and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 

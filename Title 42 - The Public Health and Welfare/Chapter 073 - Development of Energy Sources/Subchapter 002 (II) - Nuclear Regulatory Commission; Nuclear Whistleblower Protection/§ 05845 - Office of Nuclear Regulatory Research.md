@@ -18,7 +18,7 @@ The Administrator of the Administration and the head of every other Federal agen
 
 &emsp;(1) cooperate with respect to the establishment of priorities for the furnishing of such research services as requested by the Commission for the conduct of its functions;
 
-&emsp;(2) furnish to the Commission, on a reimbursable basis, through their own facilities orby contract or other arrangement, such research services as the Commission deems necessary and requests for the performance of its functions; and
+&emsp;(2) furnish to the Commission, on a reimbursable basis, through their own facilities or by contract or other arrangement, such research services as the Commission deems necessary and requests for the performance of its functions; and
 
 &emsp;(3) consult and cooperate with the Commission on research and development matters of mutual interest and provide such information and physical access to its facilities as will assist the Commission in acquiring the expertise necessary to perform its licensing and related regulatory functions.
 

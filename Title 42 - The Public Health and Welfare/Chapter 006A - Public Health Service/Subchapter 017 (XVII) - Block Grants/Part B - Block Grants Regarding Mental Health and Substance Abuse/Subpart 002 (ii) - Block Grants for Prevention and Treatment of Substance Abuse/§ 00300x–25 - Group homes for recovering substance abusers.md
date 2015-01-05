@@ -10,7 +10,7 @@ A State, using funds available under section 300x–21 of this title, may establ
 
 &emsp;(3) Not less than $100,000 is available for the fund.
 
-&emsp;(4) Loans made from the revolving fund do not exceed $4,000 and each such loan is repaid to the revolving fund by the residents of the housing involved not later than 2 years after the date on which the loan is made.
+&emsp;(4) Loans made from the revolving fund do not exceed $4,000 and each such loan is repaidto the revolving fund by the residents of the housing involved not later than 2 years after the date on which the loan is made.
 
 &emsp;(5) Each such loan is repaid by such residents through monthly installments, and a reasonable penalty is assessed for each failure to pay such periodic installments by the date specified in the loan agreement involved.
 
@@ -42,5 +42,5 @@ Another prior section 1925 of act July 1, 1944, was classified to section 300y�
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–310, in introductory provisions, substituted "A State, using funds available under section 300x–21 of this title, may establish and maintain the ongoing operation of a revolving fund inaccordance with this section to support group homes for recovering substance abusers as follows:" for "For fiscal year 1993 and subsequent fiscal years, the Secretary may make a grant under section 300x–21 of this title only if the State involved has established, and is providing for the ongoing operation of, a revolving fund as follows:".
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, in introductory provisions, substituted "A State, using funds available under section 300x–21 of this title, may establish and maintain the ongoing operation of a revolving fund in accordance with this section to support group homes for recovering substance abusers as follows:" for "For fiscal year 1993 and subsequent fiscal years, the Secretary may make a grant under section 300x–21 of this title only if the State involved has established, and is providing for the ongoing operation of, a revolving fund as follows:".
 

@@ -82,7 +82,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (2) Renewal of plan
 
-&emsp;Upon the expiration of the 5-year period under paragraph (1) or any 2-year period underthis paragraph, an agency may extend the effectiveness of the designation and plan for an additional 2-year period (that begins upon such expiration) by submitting to the Secretary any information needed to update the plan. The Secretary may not limit the number of times a public housing agency extends the effectiveness of a designation and plan under this paragraph.
+&emsp;Upon the expiration of the 5-year period under paragraph (1) or any 2-year period under this paragraph, an agency may extend the effectiveness of the designation and plan for an additional 2-year period (that begins upon such expiration) by submitting to the Secretary any information needed to update the plan. The Secretary may not limit the number of times a public housing agency extends the effectiveness of a designation and plan under this paragraph.
 
 #### (3) Transition provision
 
@@ -92,7 +92,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 No tenant of a public housing project shall be considered to be displaced for purposes of the Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970 \[42 U.S.C. 4601 et seq.\] because of the designation of any existing project or building, or portion thereof, for occupancy as provided under subsection (a) of this section.
 
-(Sept. 1, 1937, ch. 896, title I, §7, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 95–557, title IV, §412, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 100–242, title I, §112(b)(3), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 102–550, title VI, §622(a), Oct. 28, 1992, 106 Stat. 3813; Pub. L. 104–99, title IV, §402(d)(6)(A)(ii), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §10(a), Mar. 28, 1996, 110 Stat. 838; Pub. L. 104–330, title V, §501(b)(4), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §595(d), Oct. 21, 1998, 112 Stat. 2656.)
+(Sept. 1, 1937, ch. 896, title I, §7, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 95–557, title IV, §412, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 100–242, title I, §112(b)(3), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 102–550, title VI, §622(a), Oct. 28, 1992, 106 Stat. 3813; Pub. L. 104–99, titleIV, §402(d)(6)(A)(ii), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §10(a), Mar. 28, 1996, 110 Stat. 838; Pub. L. 104–330, title V, §501(b)(4), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §595(d), Oct. 21, 1998, 112 Stat. 2656.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
-Amendment by Pub. L. 102–550 not applicable with respect to lower income housing developed or operatedpursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
+Amendment by Pub. L. 102–550 not applicable with respect to lower income housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 (a) The President may prescribe rules which shall prohibit, as nearly as conditions of good administration warrant, discrimination because of marital status in an Executive agency or in the competitive service.
 
-(b) Regulations prescribed under any provision of this title, or under any other provision of law, granting benefits to employees, shall provide the same benefits for a married female employee and her spouse and children as are provided for a married male employee and his spouse and children.
+(b) Regulations prescribed under any provision of this title, or under any other provision of law, granting benefits to employees, shall provide the same benefits for a married female employeeand her spouse and children as are provided for a married male employee and his spouse and children.
 
 (c) Notwithstanding any other provision of law, any provision of law providing a benefit to a male Federal employee or to his spouse or family shall be deemed to provide the same benefit to a female Federal employee or to her spouse or family.
 
@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 July 26, 1937, ch. 522, 50 Stat. 533.
 
-The authority of the President to prescribe rules is added on authority of former section 633(1), which is carried into section 3302. The section is rewritten as a general prohibition instead of specifying each of the personnel actions to which the prohibition applies. The words “in an Executive agency or in the competitive service” are added for clarity. The sentence “All Acts or parts of Acts inconsistent herewith are repealed.” is omitted as unnecessary.
+The authority of the President to prescribe rules is added on authority of former section 633(1), which is carried into section 3302. The section is rewritten as a general prohibition instead of specifying each of the personnel actions to which the prohibition applies. The words "in an Executive agency or in the competitive service" are added for clarity. The sentence "All Acts or parts of Acts inconsistent herewith are repealed." is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -28,7 +28,7 @@
 
 &emsp;(6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Air Force.
 
-(e)(1) The Chief of Staff shall also perform the duties prescribed for him as a member of theJoint Chiefs of Staff under section 151 of this title.
+(e)(1) The Chief of Staff shall also perform the duties prescribed for him as a member of the Joint Chiefs of Staff under section 151 of this title.
 
 (2) To the extent that such action does not impair the independence of the Chief of Staff in the performance of his duties as a member of the Joint Chiefs of Staff, the Chief of Staff shall inform the Secretary regarding military advice rendered by members of the Joint Chiefs of Staff on matters affecting the Department of the Air Force.
 

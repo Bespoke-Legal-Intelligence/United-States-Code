@@ -2,7 +2,7 @@
 
 #### (a) Credit to separate account in Treasury; appropriation and availability
 
-Any moneys received by the United States as a result of the forfeiture of a bond or other security by a resource developer or purchaser or permittee who does not fulfill the requirements of his contract or permit or does not comply with the regulations of the Secretary; or as a resultof a compromise or settlement of any claim whether sounding in tort or in contract involving present or potential damage to the public lands shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available, until expended as the Secretary may direct, to cover the cost to the United States of any improvement, protection, or rehabilitation work on those public lands which has been rendered necessary by the action which has led to the forfeiture, compromise, or settlement.
+Any moneys received by the United States as a result of the forfeiture of a bond or other security by a resource developer or purchaser or permittee who does not fulfill the requirements of his contract or permit or does not comply with the regulations of the Secretary; or as a result of a compromise or settlement of any claim whether sounding in tort or in contract involving present or potential damage to the public lands shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available, until expended as the Secretary may direct, to cover the cost to the United States of any improvement, protection, or rehabilitation work on those public lands which has been rendered necessary by the action which has led to the forfeiture, compromise, or settlement.
 
 #### (b) Expenditure of moneys collected administering Oregon and California Railroad and Coos Bay Wagon Road Grant lands
 
@@ -25,6 +25,10 @@ Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in s
 Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–158; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That notwithstanding any provision to the contrary of section 305(a) of the Act of October 21, 1976 (43 U.S.C. 1735(a)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act (43 U.S.C. 1735(c)), shall be available and may be expended under the authority of this or subsequent appropriations Acts by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such forfeiture, compromise, or settlement are used on the exact lands damage to which led to the forfeiture, compromise, or settlement: <i>Provided further</i>, That such moneys are in excess of amounts needed to repair damage to the exact land for which collected."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. F, title I, Dec. 16, 2014, 128 Stat. 2398.
+
+Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 291.
 
 Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 987.
 

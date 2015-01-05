@@ -20,7 +20,7 @@ Whenever the Commission makes an affirmative finding under section 2252(b) of th
 
 #### Renumbering of Section
 
-<i>For termination of renumbering of section, beginning on Jan. 1, 2014, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+<i>For termination of renumbering of section, beginning on Jan. 1, 2014, see Codification and Ef</i><i>fective and Termination Dates of 2011 Revival notes below.</i>
 
 #### Codification
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with resp
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see section 285 of Pub. L. 93–618 and section 541(b) of Pub. L. 113–235, set out as notes preceding section 2271 of this title.
 

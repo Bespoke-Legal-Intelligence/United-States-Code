@@ -26,7 +26,7 @@ Pub. L. 99–662, title VII, §706, Nov. 17, 1986, 100 Stat. 4158, authorized Se
 
 #### Study of Rising Oceans
 
-Pub. L. 99–662, title VII, §731, Nov. 17, 1986, 100 Stat. 4165, authorized Secretary of the Army, in cooperationwith National Oceanic and Atmospheric Administration, Federal Emergency Management Agency, and other appropriate Federal, State, and local agencies and the private sector, to conduct a study of shoreline protection and beach erosion control policy and related projects of the Secretary, in view of the prospect for long-term increases in levels of the ocean and directed Secretary, within three years after Nov. 17, 1986, to transmit the study, together with supporting documentation and recommendations to Congress.
+Pub. L. 99–662, title VII, §731, Nov. 17, 1986, 100 Stat. 4165, authorized Secretary of the Army, in cooperation with National Oceanic and Atmospheric Administration, Federal Emergency Management Agency, and other appropriate Federal, State, and local agencies and the private sector, to conduct a study of shoreline protection and beach erosion control policy and related projects of the Secretary, in view of the prospect for long-term increases in levels of the ocean and directed Secretary, within three years after Nov. 17, 1986, to transmit the study, together with supporting documentation and recommendations to Congress.
 
 #### Application of Existing Law to Surveys Relating to Shore Protection
 

@@ -26,7 +26,7 @@ The purposes of any grant under subsection (b) are—
 
 To be eligible to receive a grant under subsection (b), an eligible entity shall—
 
-&emsp;(1) submit an application to the Secretary of Commerce, at such time, in such manner, and containing such information as the Secretary may require;
+&emsp;(1) submit an application to the Secretary of Commerce, at such time, in such manner, andcontaining such information as the Secretary may require;
 
 &emsp;(2) contribute matching non-Federal funds in an amount equal to not less than 20 percent of the total amount of the grant; and
 
@@ -82,7 +82,7 @@ A grant awarded to an eligible entity under subsection (b) shall be used—
 
 &emsp;&emsp;&emsp;(iii) develop a tactical business plan for achieving its goals, with specific recommendations for online application development and demand creation;
 
-&emsp;(6) to work collaboratively with broadband service providers and information technology companies to encourage deployment and use, especially in unserved areas and areas in which broadband penetration is significantly below the national average, through the use oflocal demand aggregation, mapping analysis, and the creation of market intelligence to improve the business case for providers to deploy;
+&emsp;(6) to work collaboratively with broadband service providers and information technology companies to encourage deployment and use, especially in unserved areas and areas in which broadband penetration is significantly below the national average, through the use of local demand aggregation, mapping analysis, and the creation of market intelligence to improve the business case for providers to deploy;
 
 &emsp;(7) to establish programs to improve computer ownership and Internet access for unserved areas and areas in which broadband penetration is significantly below the national average;
 

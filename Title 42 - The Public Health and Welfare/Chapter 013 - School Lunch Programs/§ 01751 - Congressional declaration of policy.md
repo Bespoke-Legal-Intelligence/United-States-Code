@@ -14,7 +14,7 @@ Pub. L. 111–296, title IV, §445, Dec. 13, 2010, 124 Stat. 3266, provided that
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–147, §2, Nov. 10, 1989, 103 Stat. 878, provided that: "Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\]."
+Pub. L. 101–147, §2, Nov. 10, 1989, 103 Stat. 878, provided that: "Except as otherwise provided in this Act,the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\]."
 
 #### Short Title of 2010 Amendment
 
@@ -150,7 +150,7 @@ Report.—Not later than November 1, 1997, the Secretary of Agriculture shall su
 
 #### Supplemental Nutrition Programs; Congressional Statement of Findings
 
-Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106–78, title VII, §752(b)(15), Oct. 22,1999, 113 Stat. 1170, provided that: "Congress finds that—
+Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106–78, title VII, §752(b)(15), Oct. 22, 1999, 113 Stat. 1170, provided that: "Congress finds that—
 
 &emsp;"(1) undernutrition can permanently retard physical growth, brain development, and cognitive functioning of children;
 

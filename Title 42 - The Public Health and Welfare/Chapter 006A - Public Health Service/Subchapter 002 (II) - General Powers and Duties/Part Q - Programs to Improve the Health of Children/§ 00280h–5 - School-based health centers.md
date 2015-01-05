@@ -160,7 +160,7 @@ For purposes of carrying out this section, there are authorized to be appropriat
 
 #### References in Text
 
-The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(2)(C)(vi), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(2)(C)(vi), is Pub. L.104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
 
 #### Amendments
 

@@ -38,7 +38,7 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 &emsp;(A) may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit; and
 
-&emsp;(B) may establish procedures to ensure that the Challenge Program establishes appropriatepriorities for proposals from businesses that are not major contractors with the Department of Defense.
+&emsp;(B) may establish procedures to ensure that the Challenge Program establishes appropriate priorities for proposals from businesses that are not major contractors with the Department of Defense.
 
 (7) If a Panel determines that a challenge proposal satisfies each of the criteria specified in paragraph (5), the person or activity submitting that challenge proposal shall be provided an opportunity to submit such challenge proposal for a full review and evaluation under subsection (d).
 
@@ -120,7 +120,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Nondevelopmental item.—The term "nondevelopmental item" has the meaning given that term in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+Nondevelopmental item.—The term "nondevelopmental item" has the meaning given that term in section 110 of title 41.
 
 &emsp;&emsp;(B)
 
@@ -134,15 +134,15 @@ Level of performance.—The term "level of performance", with respect to a nonde
 
 Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876.)
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504.)
 
 #### References in Text
-
-Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (k)(4)(A), is section 4 of Pub. L. 93–400, which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The Small Business Act, referred to in subsec. (k)(4)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (k)(4)(A). Pub. L. 113–291 substituted "section 110 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
 
 <b>2013</b>—Subsec. (k)(4)(B). Pub. L. 113–66 inserted period at end.
 
@@ -175,6 +175,4 @@ Subsec. (i). Pub. L. 109–364, §213(b)(3)(A), redesignated subsec. (h) as (i).
 Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted "The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied" for "No report is required for a fiscal year in which the Challenge Program is not carried out". Former subsec. (j) redesignated (k).
 
 Subsec. (k). Pub. L. 109–364, §213(b)(3)(A), (f), redesignated subsec. (j) as (k) and substituted "2012" for "2007".
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

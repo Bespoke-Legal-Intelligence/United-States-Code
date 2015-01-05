@@ -16,7 +16,7 @@ For purposes of section 38, the enhanced oil recovery credit for any taxable yea
 
 #### (2) Reference price
 
-&emsp;For purposes of this subsection, the term "reference price" means, with respect to anycalendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
+&emsp;For purposes of this subsection, the term "reference price" means, with respect to any calendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
 
 #### (3) Inflation adjustment
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
 
-&emsp;&emsp;&emsp;(ii) pursuant to the applicable State and Federal pollution prevention, control, and permit requirements from such area (including the continental shelf thereof within the meaning of section 638(1)).
+&emsp;&emsp;&emsp;(ii) pursuant to the applicable State and Federal pollution prevention, control, andpermit requirements from such area (including the continental shelf thereof within the meaning of section 638(1)).
 
 #### (B) Natural gas
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) Disallowance of deduction
 
-&emsp;Any deduction allowable under this chapter for any costs taken into account in computingthe amount of the credit determined under subsection (a) shall be reduced by the amount of such credit attributable to such costs.
+&emsp;Any deduction allowable under this chapter for any costs taken into account in computing the amount of the credit determined under subsection (a) shall be reduced by the amount of such credit attributable to such costs.
 
 #### (2) Basis adjustments
 
@@ -188,9 +188,11 @@ In general.—The amendments made by this section \[enacting this section and am
 
 Special rule for significant expansion of projects.—For purposes of section 43(c)(2)(A)(iii) of the Internal Revenue Code of 1986 (as added by subsection (a)), any significant expansion after December 31, 1990, of a project begun before January 1, 1991, shall be treated as a project with respect to which the first injection commences after December 31, 1990."
 
-#### Inflation Adjusted Items for Certain Tax Years
+#### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2014</b>—Internal Revenue Notice 2014–64.
 
 <b>2013</b>—Internal Revenue Notice 2013–50.
 

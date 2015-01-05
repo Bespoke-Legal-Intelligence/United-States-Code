@@ -20,7 +20,7 @@ In the case of lender paid mortgage insurance that is required in connection wit
 
 &emsp;(1) not later than the date on which a loan commitment is made for the residential mortgage transaction, the prospective mortgagee shall provide to the prospective mortgagor a written notice—
 
-&emsp;&emsp;(A) that lender paid mortgage insurance differs from borrower paid mortgage insurance, in that lender paid mortgage insurance may not be canceled by the mortgagor,while borrower paid mortgage insurance could be cancelable by the mortgagor in accordance with section 4902(a) of this title, and could automatically terminate on the termination date in accordance with section 4902(b) of this title;
+&emsp;&emsp;(A) that lender paid mortgage insurance differs from borrower paid mortgage insurance, in that lender paid mortgage insurance may not be canceled by the mortgagor, while borrower paid mortgage insurance could be cancelable by the mortgagor in accordance with section 4902(a) of this title, and could automatically terminate on the termination date in accordance with section 4902(b) of this title;
 
 &emsp;&emsp;(B) that lender paid mortgage insurance—
 
@@ -42,7 +42,7 @@ The servicer of a residential mortgage transaction may develop and use a standar
 
 #### References in Text
 
-The Truth in Lending Act, referred to in subsec.(c)(1)(B)(ii), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec.(c)(1)(B)(ii), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification ofthis Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
 

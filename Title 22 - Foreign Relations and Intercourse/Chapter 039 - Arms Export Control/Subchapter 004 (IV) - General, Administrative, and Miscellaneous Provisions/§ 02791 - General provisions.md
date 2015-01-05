@@ -6,7 +6,7 @@ In carrying out this chapter, special emphasis shall be placed on procurement in
 
 #### (b) Information to Congress on credit sales and guaranties
 
-No credit sale shall be extended under section 2763 of this title, and no guarantee shall be issued under section 2764 of this title, in any case involving coproduction or licensed, production outside the United States of any defense article of United States origin unless the Secretary of State shall, in advance of any such transaction, advise the appropriate committees of the Congress and furnish the Speaker of the House of Representatives and the President of the Senate with full information regarding the proposed transaction, including, but not limited to, a description of the particular defense article or articles which would be produced under a licenseor coproduced outside the United States, the estimated value of such production or coproduction, and the probable impact of the proposed transaction on employment and production within the United States.
+No credit sale shall be extended under section 2763 of this title, and no guarantee shall be issued under section 2764 of this title, in any caseinvolving coproduction or licensed, production outside the United States of any defense article of United States origin unless the Secretary of State shall, in advance of any such transaction, advise the appropriate committees of the Congress and furnish the Speaker of the House of Representatives and the President of the Senate with full information regarding the proposed transaction, including, but not limited to, a description of the particular defense article or articles which would be produced under a license or coproduced outside the United States, the estimated value of such production or coproduction, and the probable impact of the proposed transaction on employment and production within the United States.
 
 #### (c) Availability of funds for procurement outside United States
 
@@ -58,7 +58,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 <b>1985</b>—Subsec. (e)(1), (3). Pub. L. 99–83 inserted reference to contracts under section 2767(d) of this title.
 
-Pub. L. 99–145, §1102(a)(4), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed.See 1986 Amendments note below and former section 1102(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
+Pub. L. 99–145, §1102(a)(4), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed. See 1986 Amendments note below and former section 1102(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
 <b>1982</b>—Subsecs. (d)(1), (e)(1), (3)(A). Pub. L. 97–392 substituted "2769 and 2770" for "and 2769".
 

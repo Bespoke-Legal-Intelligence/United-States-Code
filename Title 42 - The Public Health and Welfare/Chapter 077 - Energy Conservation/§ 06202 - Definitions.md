@@ -4,7 +4,7 @@ As used in this chapter:
 
 &emsp;(1) The term "Secretary" means the Secretary of Energy.
 
-&emsp;(2) The term "person" includes (A) any individual, (B) any corporation, company, association, firm, partnership, society, trust, joint venture, or joint stock company, and (C) thegovernment and any agency of the United States or any State or political subdivision thereof.
+&emsp;(2) The term "person" includes (A) any individual, (B) any corporation, company, association, firm, partnership, society, trust, joint venture, or joint stock company, and (C) the government and any agency of the United States or any State or political subdivision thereof.
 
 &emsp;(3) The term "petroleum product" means crude oil, residual fuel oil, or any refined petroleum product (including any natural liquid and any natural gas liquid product).
 

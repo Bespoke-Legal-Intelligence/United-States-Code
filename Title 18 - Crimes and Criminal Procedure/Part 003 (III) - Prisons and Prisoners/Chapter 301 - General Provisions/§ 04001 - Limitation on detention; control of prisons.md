@@ -38,7 +38,7 @@ Pub. L. 105–370, §1, Nov. 12, 1998, 112 Stat. 3374, provided that: "This Act 
 
 #### Placement of Certain Persons in Privately Operated Prisons
 
-Pub. L. 106–553, §1(a)(2) \[title I, §114, formerly §115\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; renumbered §114,Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: "Beginning in fiscal year 2001 and thereafter, funds appropriated to the Federal Prison System may be used to place in privately operated prisons only such persons sentenced to incarceration under the District of Columbia Code as the Director, Bureau of Prisons, may determine to be appropriate for such placement consistent with Federal classification standards, after consideration of all relevant factors, including the threat of danger to public safety."
+Pub. L. 106–553, §1(a)(2) \[title I, §114, formerly §115\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; renumbered §114, Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: "Beginning in fiscal year 2001 and thereafter, funds appropriated to the Federal Prison System may be used to place in privately operated prisons only such persons sentenced to incarceration under the District of Columbia Code as the Director, Bureau of Prisons, may determine to be appropriate for such placement consistent with Federal classification standards, after consideration of all relevant factors, including the threat of danger to public safety."
 
 #### Fee To Recover Cost of Incarceration
 

@@ -10,7 +10,7 @@
 
 &emsp;A communication by a covered entity or business associate that is described in subparagraph (i), (ii), or (iii) of paragraph (1) of the definition of marketing in section 164.501 of title 45, Code of Federal Regulations, shall not be considered a health care operation for purposes of subpart E of part 164 of title 45, Code of Federal Regulations if the covered entity receives or has received direct or indirect payment in exchange for making such communication, except where—
 
-&emsp;&emsp;(A)(i) such communication describes only a drug or biologic that is currently beingprescribed for the recipient of the communication; and
+&emsp;&emsp;(A)(i) such communication describes only a drug or biologic that is currently being prescribed for the recipient of the communication; and
 
 &emsp;&emsp;(ii) any payment received by such covered entity in exchange for making a communication described in clause (i) is reasonable in amount;
 

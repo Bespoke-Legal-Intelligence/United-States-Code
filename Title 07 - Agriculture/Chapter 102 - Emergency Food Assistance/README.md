@@ -19,7 +19,7 @@
 | [7514\.](%C2%A7%2007514%20-%20Incorporation%20of%20additional%20commodities.md) | Incorporation of additional commodities. |
 | [7515\.](%C2%A7%2007515%20-%20Allotment%20and%20delivery%20of%20commodities.md) | Allotment and delivery of commodities. |
 | [7516\.](%C2%A7%2007516%20-%20Settlement%20and%20adjustment%20of%20claims.md) | Settlement and adjustment of claims. |
-| [7517\.](%C2%A7%2007517%20-%20Hunger-free%20communities.md) | Hunger-free communities. |
+| [7517\.](%C2%A7%2007517%20-%20Food%20insecurity%20nutrition%20incentive.md) | Food insecurity nutrition incentive. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,4 +49,4 @@ This chapter is comprised principally of title II (§§201–215) of Pub. L. 98�
 - [&sect; 07514 - Incorporation of additional commodities](%C2%A7%2007514%20-%20Incorporation%20of%20additional%20commodities.md)
 - [&sect; 07515 - Allotment and delivery of commodities](%C2%A7%2007515%20-%20Allotment%20and%20delivery%20of%20commodities.md)
 - [&sect; 07516 - Settlement and adjustment of claims](%C2%A7%2007516%20-%20Settlement%20and%20adjustment%20of%20claims.md)
-- [&sect; 07517 - Hunger-free communities](%C2%A7%2007517%20-%20Hunger-free%20communities.md)
+- [&sect; 07517 - Food insecurity nutrition incentive](%C2%A7%2007517%20-%20Food%20insecurity%20nutrition%20incentive.md)

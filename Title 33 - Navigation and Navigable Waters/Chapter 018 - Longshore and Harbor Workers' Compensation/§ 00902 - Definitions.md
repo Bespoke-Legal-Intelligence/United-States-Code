@@ -38,7 +38,7 @@ When used in this chapter—
 
 &emsp;(9) The term "United States" when used in a geographical sense means the several States and Territories and the District of Columbia, including the territorial waters thereof.
 
-&emsp;(10) "Disability" means incapacity because of injury to earn the wages which the employee was receiving at the time of injury in the same or any other employment; but suchterm shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title.
+&emsp;(10) "Disability" means incapacity because of injury to earn the wages which the employee was receiving at the time of injury in the same or any other employment; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title.
 
 &emsp;(11) "Death" as a basis for a right to compensation means only death resulting from an injury.
 

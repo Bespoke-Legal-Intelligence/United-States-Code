@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States an account to be known as theNational Service Trust. The Trust shall consist of—
+There is established in the Treasury of the United States an account to be known as the National Service Trust. The Trust shall consist of—
 
 &emsp;(1) from the amounts appropriated to the Corporation and made available to carry out this division, such amounts as the Corporation may designate to be available for the payment of—
 

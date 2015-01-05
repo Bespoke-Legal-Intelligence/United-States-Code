@@ -36,7 +36,7 @@
 
 &emsp;(11) take other action authorized by agency rule consistent with this subchapter.
 
-(d) Except as otherwise provided by statute, the proponent of a rule or order has the burden of proof. Any oral or documentary evidence may be received, but the agency as a matter of policy shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. A sanction may not be imposed or rule or order issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence. The agency may, to the extent consistent with the interests of justice and the policy of the underlying statutes administered by the agency, consider a violation of section 557(d) of this title sufficient grounds for a decision adverse to a party who has knowingly committed such violation or knowingly caused such violation to occur. A party is entitled to present his case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. In rule making or determining claims for money or benefits or applications for initial licenses an agency may, when a party will not be prejudiced thereby, adopt procedures for the submission of all or part of the evidence in written form.
+(d) Except as otherwise provided by statute, the proponent of a rule or order has the burden of proof. Any oral or documentary evidence may be received, but the agency as a matter of policy shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. A sanction may not be imposed or rule or order issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence. The agency may, to the extent consistent with the interests of justice and the policy of the underlying statutes administered by the agency, consider a violation of section 557(d) of this title sufficientgrounds for a decision adverse to a party who has knowingly committed such violation or knowingly caused such violation to occur. A party is entitled to present his case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. In rule making or determining claims for money or benefits or applications for initial licenses an agency may, when a party will not be prejudiced thereby, adopt procedures for the submission of all or part of the evidence in written form.
 
 (e) The transcript of testimony and exhibits, together with all papers and requests filed in the proceeding, constitutes the exclusive record for decision in accordance with section 557 of this title and, on payment of lawfully prescribed costs, shall be made available to the parties. When an agency decision rests on official notice of a material fact not appearing in the evidence in the record, a party is entitled, on timely request, to an opportunity to show the contrary.
 
@@ -56,17 +56,17 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §7, 60 Stat. 241.
 
-In subsection (b), the words “hearing examiners” are substituted for “examiners” in paragraph (3) for clarity. The prohibition in the second sentence is restated in positive form and the words “This subchapter does not” are substituted for “but nothing in this chapter shall be deemed to”. The words “employee” and “employees” are substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The sentence “A presiding or participating employee may at any time disqualify himself.” is substituted for the words “Any such officer may at any time withdraw if he deems himself disqualified.”
+In subsection (b), the words "hearing examiners" are substituted for "examiners" in paragraph (3) for clarity. The prohibition in the second sentence is restated in positive form and the words "This subchapter does not" are substituted for "but nothing in this chapter shall be deemed to". The words "employee" and "employees" are substituted for "officer" and "officers" in view of the definition of "employee" in section 2105. The sentence "A presiding or participating employee may at any time disqualify himself." is substituted for the words "Any such officer may at any time withdraw if he deems himself disqualified."
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (c)(6). Pub. L. 101–552, §4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–552, §4(a)(1), inserted before semicolon at end "or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter".
 
 Subsec. (c)(7) to (11). Pub. L. 101–552, §4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
 
-<b>1978</b>—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–251 substituted "administrative law judges" for "hearing examiners".
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–409 inserted provisions relating to consideration by agency of a violation under section 557(d) of this title.
 

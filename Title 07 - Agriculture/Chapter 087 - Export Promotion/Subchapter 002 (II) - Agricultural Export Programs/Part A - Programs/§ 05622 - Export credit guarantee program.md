@@ -2,7 +2,7 @@
 
 #### (a) Short-term credit guarantees
 
-The Commodity Credit Corporation may guarantee the repayment of credit made available to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 3-year period.
+The Commodity Credit Corporation may guarantee the repayment of credit made available to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 24-month period.
 
 #### (b) Purpose of program
 
@@ -22,11 +22,11 @@ The Commodity Credit Corporation may use export credit guarantees authorized und
 
 #### (c) Restrictions on use of credit guarantees
 
-Export credit guarantees authorized by this section shall not be used for foreign aid, foreign policy, or debt rescheduling purposes. The provisions of the cargo preference laws shall notapply to export sales with respect to which credit is guaranteed under this section.
+Export credit guarantees authorized by this section shall not be used for foreign aid, foreign policy, or debt rescheduling purposes. The provisions of the cargo preference laws shall not apply to export sales with respect to which credit is guaranteed under this section.
 
 #### (d) Restrictions
 
-The Commodity Credit Corporation shall not make credit guarantees available in connection with sales of agricultural commodities to any country that the Secretary determines cannot adequately service the debt associated with such sale.
+The Commodity Credit Corporation shall not make credit guarantees available in connection with sales of agricultural commodities to any obligor that the Secretary determines cannot adequately service the debt associated with such sale.
 
 #### (e) Terms
 
@@ -48,27 +48,17 @@ The Commodity Credit Corporation shall finance or guarantee under this section o
 
 #### (2) Third country banks
 
-&emsp;The Commodity Credit Corporation may guarantee under subsection (a) of this section the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
+&emsp;The Commodity Credit Corporation may guarantee under subsection (a) the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
 
 #### (h) Conditions for fish and processed fish products
 
 In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
 
-#### (i) Processed and high-value products
-
-#### (1) In general
-
-&emsp;In issuing export credit guarantees under this section, the Commodity Credit Corporation shall, subject to paragraph (2), ensure that not less than 25 percent for each of fiscal years 1996 and 1997, 30 percent for each of fiscal years 1998 and 1999, and 35 percent for each of fiscal years 2000 through 2007, of the total amount of credit guarantees issued for a fiscal year is issued to promote the export of processed or high-value agricultural products and that the balance is issued to promote the export of bulk or raw agricultural commodities.
-
-#### (2) Limitation
-
-&emsp;The percentage requirement of paragraph (1) shall apply for a fiscal year to the extent that a reduction in the total amount of credit guarantees issued for the fiscal year is not required to meet the percentage requirement.
-
-#### (j) Consultation on agricultural export credit programs
+#### (i) Consultation on agricultural export credit programs
 
 The Secretary and the United States Trade Representative shall consult on a regular basis with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of multilateral negotiations regarding agricultural export credit programs.
 
-#### (k) Administration
+#### (j) Administration
 
 #### (1) Definition of long term
 
@@ -78,23 +68,41 @@ The Secretary and the United States Trade Representative shall consult on a regu
 
 &emsp;In administering the export credit guarantees authorized under this section, the Secretary shall—
 
-&emsp;&emsp;(A) maximize the export sales of agricultural commodities;
+&emsp;&emsp;(A) develop an approach to risk evaluation that facilitates accurate country risk designations and timely adjustments to the designations (on an ongoing basis) in response to material changes in country risk conditions, with ongoing opportunity for input and evaluation from the private sector;
 
-&emsp;&emsp;(B) maximize the export credit guarantees that are made available and used during the course of a fiscal year;
+&emsp;&emsp;(B) adjust risk-based guarantees as necessary to ensure program effectiveness and United States competitiveness;
 
-&emsp;&emsp;(C) develop an approach to risk evaluation that facilitates accurate country risk designations and timely adjustments to the designations (on an ongoing basis) in response to material changes in country risk conditions, with ongoing opportunity for input and evaluation from the private sector;
+&emsp;&emsp;(C) work with industry to ensure, to the maximum extent practicable, that risk-based fees associated with the guarantees cover the operating costs and losses over the long term; and
 
-&emsp;&emsp;(D) adjust risk-based guarantees as necessary to ensure program effectiveness and United States competitiveness; and
+&emsp;&emsp;(D) notwithstanding any other provision of this section, administer and carry out (only after consulting with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate) the program pursuant to such terms as may be agreed between the parties to address the World Trade Organization dispute WTO/DS267 to the extent not superseded by any applicable international undertakings on officially supported export credits to which the United States is a party.
 
-&emsp;&emsp;(E) work with industry to ensure, to the maximum extent practicable, that risk-based fees associated with the guarantees cover, but do not exceed, the operating costs and losses over the long term.
-
-(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832.)
+(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, §3101(a), Feb. 7, 2014, 128 Stat. 778.)
 
 #### Prior Provisions
 
 A prior section 202 of Pub. L. 95–501 enacted section 1707c of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79, §3101(a)(1), substituted "24-month" for "3-year".
+
+Subsec. (d). Pub. L. 113–79, §3101(a)(2), substituted "obligor" for "country".
+
+Subsecs. (i), (j). Pub. L. 113–79, §3101(a)(3), (4), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to percentages of export credit guarantees issued to promote export of processed or high-value agricultural products in fiscal years 1996 through 2007.
+
+Subsec. (j)(2)(A), (B). Pub. L. 113–79, §3101(a)(5)(A), (B), redesignated subpars. (C) and (D) as (A) and (B), respectively, and struck out former subpars. (A) and (B) which read as follows:
+
+"(A) maximize the export sales of agricultural commodities;
+
+"(B) maximize the export credit guarantees that are made available and used during the course of a fiscal year;".
+
+Subsec. (j)(2)(C). Pub. L. 113–79, §3101(a)(5)(B), (D)(i), redesignated subpar. (E) as (C) and struck out ", but do not exceed," after "cover". Former subpar. (C) redesignated (A).
+
+Subsec. (j)(2)(D). Pub. L. 113–79, §3101(a)(5)(C), (D)(ii), (E), added subpar. (D). Former subpar. (D) redesignated (B).
+
+Subsec. (j)(2)(E). Pub. L. 113–79, §3101(a)(5)(B), redesignated subpar. (E) as (C).
+
+Subsec. (k). Pub. L. 113–79, §3101(a)(4), redesignated subsec. (k) as (j).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §3101(a)(1), struck out par. (1) designation and heading before "The Commodity" and struck out pars. (2) and (3) which related to supplier credits and extended supplier credits, respectively.
 
@@ -164,11 +172,11 @@ Pub. L. 104–127, title II, §243(d), Apr. 4, 1996, 110 Stat. 967, provided tha
 
 #### Promotion of Agricultural Exports to Emerging Markets
 
-Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837, provided that:
+Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, §3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, §101(b), Nov. 26, 2014, 128 Stat. 2017, provided that:
 
 "(a)
 
-Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2012 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
+Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2018 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
 "(b)
 
@@ -226,7 +234,7 @@ In general.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Establishment of program.—For each of the fiscal years 1991 through 2012, the Secretary of Agriculture (hereafter in this section referred to as the 'Secretary'), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
+Establishment of program.—For each of the fiscal years 1991 through 2018, the Secretary of Agriculture (hereafter in this section referred to as the 'Secretary'), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -288,7 +296,7 @@ Implementation.—The Secretary shall draw on the Department of Agriculture's ex
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, whichmay include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, which may include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) to provide for the exchange of administrators and faculty members from agricultural and other institutions to strengthen and revise educational programs in agricultural economics, agribusiness, and agrarian law, to support change towards a free market economy in emerging markets.
 
@@ -302,27 +310,7 @@ Authorization for appropriations.—There are authorized to be appropriated such
 
 "(e)
 
-Foreign Debt Burdens.—
-
-&emsp;"(1)
-
-Effect of credits.—In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries.
-
-&emsp;"(2)
-
-Consultation and report.—Subject to section 217 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6917), not later than 6 months after the effective date of this title \[Nov. 28, 1990\], and not later than the end of each 6-month period occurring thereafter, the Secretary of Agriculture, in consultation with other appropriate Federal departments, shall prepare and transmit to the Committee on Foreign Affairs and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report to assist the Congress in assessing the extent to which credits for which repayment is guaranteed under subsection (a) meet the requirements of paragraph (1). The report shall include—
-
-&emsp;&emsp;"(A) the amount and allocation, by country, of credit guarantees issued under subsection (a);
-
-&emsp;&emsp;"(B) the aggregate foreign debt burdens of countries receiving commodities or facilities under such credit guarantees, expressed in terms of debt on account of agricultural commodities or products thereof, or facilities for which guarantees may be made under subsection (a)(1)(B), and all other debt;
-
-&emsp;&emsp;"(C) the activities of creditor governments and private creditors to reschedule or reduce payments due on existing debt owed to such creditors by a country in cases where such country has been unable to fully meet its debt obligations; and
-
-&emsp;&emsp;"(D) an analysis of—
-
-&emsp;&emsp;&emsp;"(i) the economic effects of the foreign debt burden of each recipient country, and in particular the economic effects on each recipient country of the credits for which repayment is guaranteed under subsection (a); and
-
-&emsp;&emsp;&emsp;"(ii) the relationship between any negative economic effects on any recipient country caused by its overall foreign debt burden and debt incurred under subsection (a) and such country's political stability.
+Foreign Debt Burdens.—In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries.
 
 "(f)
 

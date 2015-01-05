@@ -6,7 +6,7 @@ Consistent with the report of the National Commission on Terrorist Attacks Upon 
 
 #### (b) Definition
 
-In this section, the term “entry and exit data system” means the entry and exit system required by applicable sections of—
+In this section, the term "entry and exit data system" means the entry and exit system required by applicable sections of—
 
 &emsp;(1) the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208);
 
@@ -222,7 +222,7 @@ Not later than 1 year after December 17, 2004, the Secretary of Homeland Securit
 
 #### (2) Definition
 
-&emsp;In this subsection, the term “registered traveler program” means any program designed to expedite the travel of previously screened and known travelers across the borders of the United States.
+&emsp;In this subsection, the term "registered traveler program" means any program designed to expedite the travel of previously screened and known travelers across the borders of the United States.
 
 #### (3) International registered traveler program
 
@@ -274,7 +274,7 @@ The Enhanced Border Security and Visa Entry Reform Act of 2002, referred to in s
 
 The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
-December 26, 2007, referred to in subsec. (k)(3)(C), (D), was in the original “the date of enactment of this paragraph” and was translated a meaning the date of enactment of Pub. L. 110–161, which amended subsec. (k)(3) of this section generally, to reflect the probable intent of Congress.
+December 26, 2007, referred to in subsec. (k)(3)(C), (D), was in the original "the date of enactment of this paragraph" and was translated a meaning the date of enactment of Pub. L. 110–161, which amended subsec. (k)(3) of this section generally, to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -284,7 +284,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 <b>2007</b>—Subsec. (k)(3). Pub. L. 110–161 amended heading and text of par. (3) generally. Prior to amendment, text related to development and implementation of a registered traveler program.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(Public Law 106–215)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(Public Law 106–215)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of 2002”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "of 2002".</i>
 

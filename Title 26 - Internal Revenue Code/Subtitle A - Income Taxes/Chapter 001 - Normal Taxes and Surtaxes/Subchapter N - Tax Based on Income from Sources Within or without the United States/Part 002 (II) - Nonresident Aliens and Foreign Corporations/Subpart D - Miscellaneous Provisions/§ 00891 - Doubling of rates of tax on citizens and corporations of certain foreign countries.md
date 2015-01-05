@@ -24,7 +24,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, seesection 4 of Pub. L. 86–69, set out an Effective Date note under section 381 of this title.
+Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 4 of Pub. L. 86–69, set out an Effective Date note under section 381 of this title.
 
 #### Effective Date of 1956 Amendment
 

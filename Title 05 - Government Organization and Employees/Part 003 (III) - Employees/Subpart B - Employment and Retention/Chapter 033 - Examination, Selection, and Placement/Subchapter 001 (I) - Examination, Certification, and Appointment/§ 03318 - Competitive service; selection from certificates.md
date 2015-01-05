@@ -48,21 +48,21 @@ Aug. 14, 1953, ch. 485, §2, 67 Stat. 582.
 
 June 27, 1944, ch. 287, §15 (less 1st sentence), 58 Stat. 391.
 
-The word “authority” is substituted for “officer” in recognition of the several appointing authorities named in section 2105(a)(1).
+The word "authority" is substituted for "officer" in recognition of the several appointing authorities named in section 2105(a)(1).
 
 In subsection (a), the provisions of former section 633(2)2 are merged in the requirement of former section 857, since the certificate must be of the three highest on the register and the nominating or appointing employee may select one of the three.
 
-In subsection (c), the prohibition in former section 864 is restated in positive form. The words “an individual who qualifies as a preference eligible under section 2108(3)(B)–(F)” are substituted for “ten-point preference eligibles”.
+In subsection (c), the prohibition in former section 864 is restated in positive form. The words "an individual who qualifies as a preference eligible under section 2108(3)(B)–(F)" are substituted for "ten-point preference eligibles".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), (3), substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
 
 Subsec. (b). Pub. L. 95–454, §307(d), designated existing provisions as par. (1), substituted provisions respecting authority of the Office with respect to the selection procedures applicable, for provisions respecting authority of the Commission with respect to the selection procedures applicable, and added pars. (2) to (4).
 
-<b>1967</b>—Subsec. (c). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under section 3305 of this title.
+<b>1967</b>—Subsec. (c). Pub. L. 90–83 substituted "section 2108(3)(C)–(G)" for "section 2108(3)(B)–(F)." See Historical and Revision Notes under section 3305 of this title.
 
 #### Effective Date of 1978 Amendment
 

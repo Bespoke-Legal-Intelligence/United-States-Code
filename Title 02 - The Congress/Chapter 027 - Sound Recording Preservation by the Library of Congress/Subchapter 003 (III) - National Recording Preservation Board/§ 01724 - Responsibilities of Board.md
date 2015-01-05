@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I of this chapter, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
+&emsp;The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
 
 #### (2) Source of nominations
 
@@ -18,7 +18,7 @@ The Board shall conduct a study and issue a report on the following issues:
 
 &emsp;(2) Taking into account the research and other activities carried out by or on behalf of the National Audio-Visual Conservation Center at Culpeper, Virginia—
 
-&emsp;&emsp;(A) the methodology and standards needed to make the transition from analog “open reel” preservation of sound recordings to digital preservation of sound recordings; and
+&emsp;&emsp;(A) the methodology and standards needed to make the transition from analog "open reel" preservation of sound recordings to digital preservation of sound recordings; and
 
 &emsp;&emsp;(B) standards for access to preserved sound recordings by researchers, educators, and other interested parties.
 

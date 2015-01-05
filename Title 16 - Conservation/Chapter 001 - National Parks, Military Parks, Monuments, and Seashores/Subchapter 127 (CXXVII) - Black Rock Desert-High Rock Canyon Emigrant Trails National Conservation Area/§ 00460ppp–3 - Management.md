@@ -22,7 +22,7 @@ The Secretary, acting through the Bureau of Land Management, shall manage the co
 
 #### (1) In general
 
-&emsp;The Secretary shall only allow such uses of the conservation area as the Secretary finds will further the purposes for which the conservation area is established.
+&emsp;The Secretary shall only allow such uses of the conservation area as the Secretary findswill further the purposes for which the conservation area is established.
 
 #### (2) Off-highway vehicle use
 

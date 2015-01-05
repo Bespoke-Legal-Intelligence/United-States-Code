@@ -92,9 +92,9 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–618 applicable with respect to wells commenced on or after Oct. 1, 1978, in taxable years ending on or after such date, see section 402(e) of Pub. L. 95–618, set out as a note under section 263 of this title.
+Amendment by Pub. L. 95–618 applicable with respect to wells commenced on or after Oct. 1, 1978, in taxableyears ending on or after such date, see section 402(e) of Pub. L. 95–618, set out as a note under section 263 of this title.
 
 #### Effective Date
 
-Pub. L. 94–455, title II, §205(e), Oct. 4, 1976, 90 Stat. 1535, provided that: "The amendments made by thissection \[enacting this section and amending sections 163, 170, 301, 312, 341, 453, and 751 of this title\] shall apply with respect to taxable years ending after December 31, 1975."
+Pub. L. 94–455, title II, §205(e), Oct. 4, 1976, 90 Stat. 1535, provided that: "The amendments made by this section \[enacting this section and amending sections 163, 170, 301, 312, 341, 453, and 751 of this title\] shall apply with respect to taxable years ending after December 31, 1975."
 

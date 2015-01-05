@@ -16,7 +16,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (4) Confiscated
 
-&emsp;As used in subchapters I and III of this chapter, the term "confiscated" refers to—
+&emsp;As used in subchapters I and III, the term "confiscated" refers to—
 
 &emsp;&emsp;(A) the nationalization, expropriation, or other seizure by the Cuban Government of ownership or control of property, on or after January 1, 1959—
 
@@ -82,7 +82,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (13) Traffics
 
-&emsp;(A) As used in subchapter III of this chapter, and except as provided in subparagraph (B), a person "traffics" in confiscated property if that person knowingly and intentionally—
+&emsp;(A) As used in subchapter III, and except as provided in subparagraph (B), a person "traffics" in confiscated property if that person knowingly and intentionally—
 
 &emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
 
@@ -100,7 +100,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(iii) transactions and uses of property incident to lawful travel to Cuba, to the extent that such transactions and uses of property are necessary to the conduct of such travel; or
 
-&emsp;&emsp;(iv) transactions and uses of property by a person who is both a citizen of Cuba and aresident of Cuba, and who is not an official of the Cuban Government or the ruling political party in Cuba.
+&emsp;&emsp;(iv) transactions and uses of property by a person who is both a citizen of Cuba and a resident of Cuba, and who is not an official of the Cuban Government or the ruling political party in Cuba.
 
 #### (14) Transition government in Cuba
 

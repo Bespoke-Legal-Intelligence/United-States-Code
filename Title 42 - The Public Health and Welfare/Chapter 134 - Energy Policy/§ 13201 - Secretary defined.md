@@ -28,7 +28,7 @@ Sec. 2. <i>Preparation of a Statement of Energy Effects</i>. (a) To the extent p
 
 &emsp;(ii) reasonable alternatives to the action with adverse energy effects and the expected effects of such alternatives on energy supply, distribution, and use.
 
-(c) The Administrator of the Office of Information and Regulatory Affairs shall provide guidance to the agencies on the implementation of this order and shallconsult with other agencies as appropriate in the implementation of this order.
+(c) The Administrator of the Office of Information and Regulatory Affairs shall provide guidance to the agencies on the implementation of this order and shall consult with other agencies as appropriate in the implementation of this order.
 
 Sec. 3. <i>Submission and Publication of Statements</i>. (a) Agencies shall submit their Statements of Energy Effects to the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, whenever they present the related submission under Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], or any successor order.
 

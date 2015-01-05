@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-In accordance with regulations promulgated under this chapter, a warehouse operator may transfer a stored agricultural product from onewarehouse to another warehouse for continued storage.
+In accordance with regulations promulgated under this chapter, a warehouse operator may transfer a stored agricultural product from one warehouse to another warehouse for continued storage.
 
 #### (b) Continued duty
 
-The warehouse operator from which agricultural products have been transferred under subsection (a) of this section shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.
+The warehouse operator from which agricultural products have been transferred under subsection (a) shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.
 
 (Aug. 11, 1916, ch. 313, pt. C, §10, as added Pub. L. 106–472, title II, §201, Nov. 9, 2000, 114 Stat. 2065.)
 

@@ -20,7 +20,7 @@ In awarding grant funds under this section, the Secretary shall give priority to
 
 &emsp;(2) demonstrate that an existing academic program of the eligible entity produces a high percentage, as determined by the Secretary, of graduates from such program who practice medicine in underserved rural communities;
 
-&emsp;(3) demonstrate rural community institutional partnerships, through such mechanisms as matching or contributory funding, documented in-kind services for implementation, or existence of training partners with interprofessional expertise in community health center training locations or other similar facilities; or
+&emsp;(3) demonstrate rural community institutional partnerships, through such mechanisms as matching or contributory funding, documented in-kind services for implementation, or existence of training partners with interprofessional expertise in community healthcenter training locations or other similar facilities; or
 
 &emsp;(4) submit, as part of the application of the entity under subsection (b), a plan for the long-term tracking of where the graduates of such entity practice medicine.
 
@@ -44,7 +44,7 @@ In awarding grant funds under this section, the Secretary shall give priority to
 
 #### (3) Curricula
 
-&emsp;The Program shall require students to enroll in didactic coursework and clinical experienceparticularly applicable to medical practice in underserved rural communities, including—
+&emsp;The Program shall require students to enroll in didactic coursework and clinical experience particularly applicable to medical practice in underserved rural communities, including—
 
 &emsp;&emsp;(A) clinical rotations in underserved rural communities, and in applicable specialties, or other coursework or clinical experience deemed appropriate by the Secretary; and
 

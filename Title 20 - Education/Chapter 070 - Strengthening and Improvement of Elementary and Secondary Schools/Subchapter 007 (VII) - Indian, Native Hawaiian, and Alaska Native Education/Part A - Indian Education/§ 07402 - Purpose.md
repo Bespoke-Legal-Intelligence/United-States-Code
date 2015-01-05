@@ -24,7 +24,7 @@ A prior section 7402, Pub. L. 89–10, title VII, §7102, as added Pub. L. 103�
 
 Prior sections 7403 to 7405 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 
-Section 7403, Pub. L. 89–10, title VII, §7103, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3718, authorized appropriations for bilingual education. See section 6801 of this title.
+Section 7403, Pub. L. 89–10, title VII, §7103, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3718,authorized appropriations for bilingual education. See section 6801 of this title.
 
 Section 7404, Pub. L. 89–10, title VII, §7104, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3718, related to Native American and Alaska Native children in school. See sections 6822 and 6893 of this title.
 

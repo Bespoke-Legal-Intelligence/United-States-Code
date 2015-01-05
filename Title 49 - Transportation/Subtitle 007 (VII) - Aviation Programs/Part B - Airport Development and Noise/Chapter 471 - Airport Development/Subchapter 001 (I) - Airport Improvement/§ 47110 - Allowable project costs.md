@@ -168,7 +168,7 @@ Sept. 3, 1982, Pub. L. 97–248, §513(c), 96 Stat. 691; Dec. 30, 1987, Pub. L. 
 
 In subsection (a), the words "for airport development or airport planning" are omitted because of the definition of "project" in section 47102 of the revised title. The text of 49 App.:2212(a) (last sentence) is omitted as surplus because of 49:322(a).
 
-In subsection (b)(1), the word "approved" is omitted as surplus because a project that was not approved could not be carried out in compliance with a grant agreement. The words "in compliance with the grantagreement made for the project under this subchapter" are substituted for "in conformity with the terms and conditions of the grant agreement entered into in connection with the project" to eliminate unnecessary words. The word "sponsor" is substituted for "recipient" for clarity.
+In subsection (b)(1), the word "approved" is omitted as surplus because a project that was not approved could not be carried out in compliance with a grant agreement. The words "in compliance with the grant agreement made for the project under this subchapter" are substituted for "in conformity with the terms and conditions of the grant agreement entered into in connection with the project" to eliminate unnecessary words. The word "sponsor" is substituted for "recipient" for clarity.
 
 In subsection (b)(2)(A), the words "with respect to the project" are omitted as unnecessary because "the grant agreement" means "the grant agreement made for the project" referred to in clause (1) of this subsection. The words "under the project" are omitted as surplus.
 
@@ -263,7 +263,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Letters of Intent for Airport Security Improvement Projects
 

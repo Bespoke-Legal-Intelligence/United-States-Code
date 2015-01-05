@@ -68,7 +68,7 @@ For the purpose of subsection (a)(4) of this section—
 
 #### (c) Special repayment rules
 
-Except as provided in subsection (a)(2)(H) of this section, the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of allloans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
+Except as provided in subsection (a)(2)(H) of this section, the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
 
 #### (d) Borrower information
 
@@ -78,7 +78,7 @@ The lender shall obtain the borrower's driver's license number, if any, at the t
 
 #### Prior Provisions
 
-A prior section 1077, Pub. L. 89–329, title IV, §427, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 89–794, title XI, §1101(b)(1), Nov. 8, 1966, 80 Stat. 1476; Pub. L. 90–460, §2(a)(1), Aug. 3, 1968, 82 Stat. 635; Pub. L. 90–575, title I, §§113(b)(2), 116(b)(2), 117(c), 120(c)(2), Oct. 16, 1968, 82 Stat. 1021, 1023, 1026, 1027; Pub. L. 92–318, title I, §§132B(b), 132C(c), June 23, 1972, 86 Stat. 262, 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2106; Pub. L. 95–43, §1(a)(9), (18), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–566, §5(a)(1), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §§413(a), (c), 415(a)(2), (b)(1), 416(a)(2), 423(a)(1), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1417–1421, 1432, 1503; Pub. L. 97–35, title V, §537(b)(1), (d)(2), (e)(1), Aug. 13, 1981, 95 Stat. 456, 457; Pub. L. 98–79, §10\[(a)\], Aug. 15, 1983, 97 Stat. 484; Pub. L. 99–272, title XVI, §§16012(a), 16013(b), 16017(b)(1), Apr. 7, 1986, 100 Stat. 339, 340, 347, set out conditions for Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1077, Pub. L. 89–329, title IV, §427, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 89–794, title XI, §1101(b)(1), Nov. 8, 1966, 80 Stat. 1476; Pub. L. 90–460, §2(a)(1), Aug. 3, 1968, 82 Stat. 635; Pub. L. 90–575, title I, §§113(b)(2), 116(b)(2), 117(c), 120(c)(2), Oct. 16, 1968, 82 Stat. 1021, 1023, 1026, 1027; Pub. L. 92–318, title I, §§132B(b), 132C(c), June 23, 1972, 86 Stat. 262, 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2106; Pub. L. 95–43, §1(a)(9), (18), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–566, §5(a)(1),Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §§413(a), (c), 415(a)(2), (b)(1), 416(a)(2), 423(a)(1), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1417–1421, 1432, 1503; Pub. L. 97–35, title V, §537(b)(1), (d)(2), (e)(1), Aug. 13, 1981, 95 Stat. 456, 457; Pub. L. 98–79, §10\[(a)\], Aug. 15, 1983, 97 Stat. 484; Pub. L. 99–272, title XVI, §§16012(a), 16013(b), 16017(b)(1), Apr. 7, 1986, 100 Stat. 339, 340, 347, set out conditions for Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 Pub. L. 101–239, title II, §2002(a)(4), Dec. 19, 1989, 103 Stat. 2111, provided that: "The amendments made by this subsection \[amending this section and sections 1078 and 1087dd of this title\] shall apply to any loan made, insured, or guaranteed under part B or part E of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087aa et seq.\], including a loan made before the enactment of this Act \[Dec. 19, 1989\], and shall take effect on January 1, 1990, except that such amendments shall not apply with respect to any portion of a period of deferment granted to a borrower under section 427(a)(2)(C)(i), 428(b)(1)(M)(i), or 464(c)(2)(A)(i) of the Higher Education Act of 1965 \[sections 1077(a)(2)(C)(i), 1078(b)(1)(M)(i), 1087dd(c)(2)(A)(i) of this title\] for service in a medical internship or residency program that is completed prior to the effective date of this section \[Dec. 19, 1989\]."
 
-Pub. L. 101–239, title II, §2004(c), Dec. 19, 1989, 103 Stat. 2116, provided that: "The amendments made by this section \[enacting section 1078–7 of this title and amending this section and section 1078 of this title\] shall apply with respect to loans made to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1990."
+Pub. L. 101–239, title II, §2004(c), Dec. 19, 1989, 103 Stat. 2116, provided that: "The amendments made bythis section \[enacting section 1078–7 of this title and amending this section and section 1078 of this title\] shall apply with respect to loans made to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1990."
 
 #### Effective Date of 1988 Amendment
 

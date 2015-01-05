@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) failing to submit information requested by the Secretary in a timely manner;
 
-&emsp;&emsp;(D) failing to maintain the property subject to loans made or guaranteed under this subchapter in good repair and condition, as determined by the Secretary;
+&emsp;&emsp;(D) failing to maintain the property subject to loans made or guaranteed under thissubchapter in good repair and condition, as determined by the Secretary;
 
 &emsp;&emsp;(E) failing to provide management for a project which received a loan made or guaranteed under this subchapter that is acceptable to the Secretary; or
 

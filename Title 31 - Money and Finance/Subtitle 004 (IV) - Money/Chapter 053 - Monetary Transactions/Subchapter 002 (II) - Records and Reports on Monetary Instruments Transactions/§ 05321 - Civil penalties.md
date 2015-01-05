@@ -72,7 +72,7 @@ Negligence.—
 
 &emsp;(A)
 
-In general.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution or nonfinancial trade or business which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.
+In general.—The Secretary of the Treasury may impose a civil money penalty ofnot more than $500 on any financial institution or nonfinancial trade or business which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.
 
 &emsp;(B)
 
@@ -168,7 +168,7 @@ Sept. 21, 1973, Pub. L. 93–110, §203(a), (b)(words after last comma), 87 Stat
 
 In subsection (a)(1), the words "or a regulation prescribed under this subchapter" are added because of the restatement. The words "(except section 5315 of this title or a regulation prescribed under section 5315)" are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. The words "is liable to the United States Government for" are substituted for "the Secretary may assess upon" in 31:1056(a) for consistency in the revised title and with other titles of the United States Code. The words "the purposes of both civil and criminal penalties for" in 31:1054(b)(last sentence)(related to civil penalties) are omitted, and the words "or a regulation prescribed under section 5318(2)" are added, because of the restatement. The words "the violation continues" are added for consistency in the revised title and with other titles of the Code. The word "separate" before "office" is omitted as surplus.
 
-In subsection (a)(2), the word "impose" is substituted for "assess" for consistency in the revised title and with other titles of the Code. The word "additional" is substituted for 31:1103 (last sentence words before last comma) to eliminate unnecessary words. The words "or a regulation prescribed under section 5316" are added because of the restatement. The words "amount of this", "to be filed", and "actually" are omitted as surplus.
+In subsection (a)(2), the word "impose" is substituted for "assess" for consistency in the revised title and with other titles of the Code. The word "additional" is substituted for 31:1103 (last sentence words before last comma) to eliminate unnecessary words. The words "or a regulation prescribed under section 5316" are added because of the restatement. The words "amount ofthis", "to be filed", and "actually" are omitted as surplus.
 
 Subsection (a)(3) is substituted for 31:1143(a) and (b)(words after last comma) for clarity and consistency and because of the restatement.
 

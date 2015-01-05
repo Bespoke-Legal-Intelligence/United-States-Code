@@ -40,7 +40,7 @@ In general.—Each report under paragraph (1) shall include, at a minimum, a des
 
 Correspondence.—Each report under paragraph (1) shall include copies of any correspondence provided to the project sponsor in accordance with section 602(d).
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 250, §189; renumbered §609 and amended Pub. L. 109–59, title I, §§1601(h), 1602(d),Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 621.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 250, §189; renumbered §609 and amended Pub. L. 109–59, title I, §§1601(h), 1602(d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 621.)
 
 #### Amendments
 

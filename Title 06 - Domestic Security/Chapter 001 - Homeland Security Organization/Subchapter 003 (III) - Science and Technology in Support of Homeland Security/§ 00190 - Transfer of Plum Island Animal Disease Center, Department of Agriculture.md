@@ -2,15 +2,15 @@
 
 #### (a) In general
 
-In accordance with subchapter XII of this chapter, the Secretary of Agriculture shall transfer to the Secretary of Homeland Security the Plum Island Animal Disease Center of the Department of Agriculture, including the assets and liabilities of the Center.
+In accordance with subchapter XII, the Secretary of Agriculture shall transfer to the Secretary of Homeland Security the Plum Island Animal Disease Center of the Department of Agriculture, including the assets and liabilities of the Center.
 
 #### (b) Continued Department of Agriculture access
 
-On completion of the transfer of the Plum Island Animal Disease Center under subsection (a) of this section, the Secretary of Homeland Security and the Secretary of Agriculture shall enter into an agreement to ensure that the Department of Agriculture is able to carry out research, diagnostic, and other activities of the Department of Agriculture at the Center.
+On completion of the transfer of the Plum Island Animal Disease Center under subsection (a), the Secretary of Homeland Security and the Secretary of Agriculture shall enter into an agreement to ensure that the Department of Agriculture is able to carry out research, diagnostic, and other activities of the Department of Agriculture at the Center.
 
 #### (c) Direction of activities
 
-The Secretary of Agriculture shall continue to direct the research, diagnostic, and other activities of the Department of Agriculture at the Center described in subsection (b) of this section.
+The Secretary of Agriculture shall continue to direct the research, diagnostic, and other activities of the Department of Agriculture at the Center described in subsection (b).
 
 #### (d) Notification
 
@@ -28,7 +28,7 @@ The Secretary of Agriculture shall continue to direct the research, diagnostic, 
 
 Pub. L. 112–74, div. D, title V, §538, Dec. 23, 2011, 125 Stat. 976, provided that:
 
-“(a) Notwithstanding any other provision of law during fiscal year 2012 or any subsequent fiscal year, if the Secretary of Homeland Security determines that the National Bio- and Agro-defense Facility should be located at a site other than Plum Island, New York, the Secretary shall ensure that the Administrator of General Services sells through public sale all real and related personal property and transportation assets which support Plum Island operations, subject to such terms and conditions as may be necessary to protect Government interests and meet program requirements.
+"(a) Notwithstanding any other provision of law during fiscal year 2012 or any subsequent fiscal year, if the Secretary of Homeland Security determines that the National Bio- and Agro-defense Facility should be located at a site other than Plum Island, New York, theSecretary shall ensure that the Administrator of General Services sells through public sale all real and related personal property and transportation assets which support Plum Island operations, subject to such terms and conditions as may be necessary to protect Government interests and meet program requirements.
 
-“(b) The proceeds of such sale described in subsection (a) shall be deposited as offsetting collections into the Department of Homeland Security Science and Technology ‘Research, Development, Acquisition, and Operations’ account and, subject to appropriation, shall be available until expended, for site acquisition, construction, and costs related to the construction of the National Bio- and Agro-defense Facility, including the costs associated with the sale, including due diligence requirements, necessary environmental remediation at Plum Island, and reimbursement of expenses incurred by the General Services Administration.”
+"(b) The proceeds of such sale described in subsection (a) shall be deposited as offsetting collections into the Department of Homeland Security Science and Technology 'Research, Development, Acquisition, and Operations' account and, subject to appropriation, shall be available until expended, for site acquisition, construction, and costs related to the construction of the National Bio- and Agro-defense Facility, including the costs associated with the sale, including due diligence requirements, necessary environmental remediation at Plum Island, and reimbursement of expenses incurred by the General Services Administration."
 

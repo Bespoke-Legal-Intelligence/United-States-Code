@@ -14,7 +14,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Consultations with States and private entities
 
-In carrying out subsection (a) of this section, the Secretary shall consult with the States andwith other appropriate public or private entities, including national nonprofit private organizations, health professionals, and providers of health insurance and health plans.
+In carrying out subsection (a) of this section, the Secretary shall consult with the States and with other appropriate public or private entities, including national nonprofit private organizations, health professionals, and providers of health insurance and health plans.
 
 #### (c) Technical assistance
 

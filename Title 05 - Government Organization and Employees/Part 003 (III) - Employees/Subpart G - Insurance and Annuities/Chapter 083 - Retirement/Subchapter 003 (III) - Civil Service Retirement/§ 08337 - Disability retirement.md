@@ -1,6 +1,6 @@
 ### §8337. Disability retirement
 
-(a) An employee who completes 5 years of civilian service and has become disabled shall be retired on the employee's own application or on application by the employee's agency. Any employee shall be considered to be disabled only if the employee is found by the Office of Personnel Management to be unable, because of disease or injury, to render useful and efficient service in the employee's position and is not qualified for reassignment, under procedures prescribed by the Office, to a vacant position which is in the agency at the same grade or level and in which the employee would be able to render useful and efficient service. For the purpose of the preceding sentence, an employee of the United States Postal Service shall be considered not qualified for a reassignment described in that sentence if the reassignment is to a position in a differentcraft or is inconsistent with the terms of a collective bargaining agreement covering the employee. A judge of the United States Court of Appeals for the Armed Forces who completes 5 years of civilian service and who is found by the Office to be disabled for useful and efficient service as a judge of such court or who is removed for mental or physical disability under section 942(c) of title 10 shall be retired on the judge's own application or upon such removal. A Member who completes 5 years of Member service and is found by the Office to be disabled for useful and efficient service as a Member because of disease or injury shall be retired on the Member's own application. An annuity authorized by this section is computed under section 8339(g) of this title, unless the employee or Member is eligible for a higher annuity computed under section 8339(a) through (e), (n), (q), (r), or (s).
+(a) An employee who completes 5 years of civilian service and has become disabled shall be retired on the employee's own application or on application by the employee's agency. Any employee shall be considered to be disabled only if the employee is found by the Office of Personnel Management to be unable, because of disease or injury, to render useful and efficient service in the employee's position and is not qualified for reassignment, under procedures prescribed by the Office, to a vacant position which is in the agency at the same grade or level and in which the employee would be able to render useful and efficient service. For the purpose of the preceding sentence, an employee of the United States Postal Service shall be considered not qualified for a reassignment described in that sentence if the reassignment is to a position in a different craft or is inconsistent with the terms of a collective bargaining agreement covering the employee. A judge of the United States Court of Appeals for the Armed Forces who completes 5 years of civilian service and who is found by the Office to be disabled for useful and efficient service as a judge of such court or who is removed for mental or physical disability under section 942(c) of title 10 shall be retired on the judge's own application or upon such removal. A Member who completes 5 years of Member service and is found by the Office to be disabled for useful and efficient service as a Member because of disease or injury shall be retired on the Member's own application. An annuity authorized by this section is computed under section 8339(g) of this title, unless the employee or Member is eligible for a higher annuity computed under section 8339(a) through (e), (n), (q), (r), or (s).
 
 (b) A claim may be allowed under this section only if the application is filed with the Office before the employee or Member is separated from the service or within 1 year thereafter. This time limitation may be waived by the Office for an employee or Member who at the date of separation from service or within 1 year thereafter is mentally incompetent, if the application is filed with the Office within 1 year from the date of restoration of the employee or Member to competency or the appointment of a fiduciary, whichever is earlier.
 
@@ -34,15 +34,15 @@
 
 (3) Paragraphs (1) and (2) do not bar the right of a claimant to the greater benefit conferred by either this subchapter or subchapter I of chapter 81.
 
-(g) If an individual is entitled to an annuity under this subchapter, and the individual receives a lump-sum payment for compensation under section 8135 based on the disability or death of the same person, so much of the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Department of Labor, shall be refunded to that Department for credit to the Employees’ Compensation Fund. Before the individual may receive the annuity, the individual shall—
+(g) If an individual is entitled to an annuity under this subchapter, and the individual receives a lump-sum payment for compensation under section 8135 based on the disability or death of the same person, so much of the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Department of Labor, shall be refunded to that Department for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
 
 &emsp;(1) refund to the Department of Labor the amount representing the commuted compensation payments for the extended period; or
 
 &emsp;(2) authorize the deduction of the amount from the annuity.
 
-> Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund. When the Department of Labor finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Department determines appropriate.
+> Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Department of Labor for reimbursement to the Employees' Compensation Fund. When the Department of Labor finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Department determines appropriate.
 
-(h)(1) As used in this subsection, the term “technician” means an individual employed under section 709(a) of title 32 or section 10216 of title 10 who, as a condition of the employment, is required under section 709(b) of title 32 or section 10216 of title 10, respectively, to be a member of the Selected Reserve.
+(h)(1) As used in this subsection, the term "technician" means an individual employed under section 709(a) of title 32 or section 10216 of title 10 who, as a condition of the employment, is required under section 709(b) of title 32 or section 10216 of title 10, respectively, to be a member of the Selected Reserve.
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, an individual shall be retired under this section if the individual—
 
@@ -86,13 +86,13 @@ Act
 
 5 U.S.C. 2257.
 
-July 31, 1956, ch. 804, §401 “Sec. 7”, 70 Stat. 750.
+July 31, 1956, ch. 804, §401 "Sec. 7", 70 Stat. 750.
 
 Oct. 4, 1961, Pub. L. 87–350, §4(a), 75 Stat. 771.
 
-In subsection (c), the words “receiving disability retirement annuity from the Fund” are coextensive with and substituted for “retired under this section or under section 6 of the Act of May 29, 1930, as amended”.
+In subsection (c), the words "receiving disability retirement annuity from the Fund" are coextensive with and substituted for "retired under this section or under section 6 of the Act of May 29, 1930, as amended".
 
-In subsection (g), the words “Notwithstanding any provision of law to the contrary” are omitted as unnecessary. The words “Employees’ Compensation Fund” are substituted for “Federal Employees’ Compensation Fund” to conform to the title of that Fund as set forth in section 8147.
+In subsection (g), the words "Notwithstanding any provision of law to the contrary" are omitted as unnecessary. The words "Employees' Compensation Fund" are substituted for "Federal Employees' Compensation Fund" to conform to the title of that Fund as set forth in section 8147.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -102,43 +102,43 @@ This section amends 5 U.S.C. 8337(e) for consistency within the subchapter and t
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–553 substituted “8339(a) through (e), (n), (q), (r), or (s)” for “8339(a)–(e), (n), (q), or (r)” in last sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–553 substituted "8339(a) through (e), (n), (q), (r), or (s)" for "8339(a)–(e), (n), (q), or (r)" in last sentence.
 
-<b>1999</b>—Subsec. (h)(1). Pub. L. 106–65, §522(d)(1), inserted “or section 10216 of title 10” after “title 32” and substituted “title 32 or section 10216 of title 10, respectively, to be a member of the Selected Reserve.” for “such title to be a member of the National Guard and to hold a specified military grade.”
+<b>1999</b>—Subsec. (h)(1). Pub. L. 106–65, §522(d)(1), inserted "or section 10216 of title 10" after "title 32" and substituted "title 32 or section 10216 of title 10, respectively, to be a member of the Selected Reserve." for "such title to be a member of the National Guard and to hold a specified military grade."
 
-Subsec. (h)(2)(A)(i). Pub. L. 106–65, §522(d)(2), inserted “or section 10216 of title 10” after “title 32” and substituted “Selected Reserve” for “National Guard or from holding the military grade required for such employment”.
+Subsec. (h)(2)(A)(i). Pub. L. 106–65, §522(d)(2), inserted "or section 10216 of title 10" after "title 32" and substituted "Selected Reserve" for "National Guard or from holding the military grade required for such employment".
 
-Subsec. (h)(3)(C). Pub. L. 106–65, §522(d)(3), inserted “or section 10216 of title 10” after “title 32”.
+Subsec. (h)(3)(C). Pub. L. 106–65, §522(d)(3), inserted "or section 10216 of title 10" after "title 32".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–61 substituted “(q), or (r)” for “or (q)”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–61 substituted "(q), or (r)" for "or (q)".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–378 substituted “if” for “is” after “employee” in second sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 substituted "if" for "is" after "employee" in second sentence.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–428 substituted “8339(a)–(e), (n), or (q)” for “8339(a)–(e) or (n)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–428 substituted "8339(a)–(e), (n), or (q)" for "8339(a)–(e) or (n)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “section 942(c) of title 10” for “section 867(a)(2) of title 10”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "section 942(c) of title 10" for "section 867(a)(2) of title 10".
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–238 added subsec. (f) and struck out former subsec. (f) which read as follows: “An individual is not entitled to receive an annuity under this subchapter and compensation for injury or disability to himself under subchapter I of chapter 81 of this title covering the same period of time. This provision does not bar the right of a claimant to the greater benefit conferred by either subchapter for any part of the same period of time. Neither this provision nor any provision of subchapter I of chapter 81 of this title denies to an individual an annuity accruing to him under this subchapter on account of service performed by him, or denies any concurrent benefit to him under subchapter I of chapter 81 of this title on account of the death of another individual.”
+<b>1988</b>—Subsec. (f). Pub. L. 100–238 added subsec. (f) and struck out former subsec. (f) which read as follows: "An individual is not entitled to receive an annuity under this subchapter and compensation for injury or disability to himself under subchapter I of chapter 81 of this title covering the same period of time. This provision does not bar the right of a claimant to the greater benefit conferred by either subchapter for any part of the same period of time. Neither this provision nor any provision of subchapter I of chapter 81 of this title denies to an individual an annuity accruing to him under this subchapter on account of service performed by him, or denies any concurrent benefit to him under subchapter I of chapter 81 of this title on account of the death of another individual."
 
-Subsec. (g). Pub. L. 100–238 added subsec. (g) and struck out former subsec. (g) which read as follows: “The right of an individual entitled to an annuity under this subchapter is not affected because he has received a lump-sum payment for compensation under section 8135 of this title. However, if the annuity ispayable on account of the same disability for which compensation under section 8135 of this title has been paid, so much of the compensation as has been paid for a period extended beyond the date the annuity becomes effective, as determined by the Department of Labor, shall be refunded to that Department to be covered into the Employees’ Compensation Fund. Before the individual may receive the annuity he shall—
+Subsec. (g). Pub. L. 100–238 added subsec. (g) and struck out former subsec. (g) which read as follows: "The right of an individual entitled to an annuity under this subchapter is not affected because he has received a lump-sum payment for compensation under section 8135 of this title. However, if the annuity ispayable on account of the same disability for which compensation under section 8135 of this title has been paid, so much of the compensation as has been paid for a period extended beyond the date the annuity becomes effective, as determined by the Department of Labor, shall be refunded to that Department to be covered into the Employees' Compensation Fund. Before the individual may receive the annuity he shall—
 
-&emsp;“(1) refund to the Department of Labor the amount representing the commuted compensation payments for the extended period; or
+&emsp;"(1) refund to the Department of Labor the amount representing the commuted compensation payments for the extended period; or
 
-&emsp;“(2) authorize the deduction of that amount from the annuity payable to him under this subchapter, which amount shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund.
+&emsp;"(2) authorize the deduction of that amount from the annuity payable to him under this subchapter, which amount shall be transmitted to the Department of Labor for reimbursement to the Employees' Compensation Fund.
 
-> Deductions from the annuity may be made from accrued and accruing payments. When the Department of Labor finds that the financial circumstances of the annuitant warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as that Department determines.”
+> Deductions from the annuity may be made from accrued and accruing payments. When the Department of Labor finds that the financial circumstances of the annuitant warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as that Department determines."
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–94 inserted provision that a judge of the United States Court of Military Appeals who completes 5 years of civilian service and who is found by the Office to be disabled for useful and efficient service as a judge of such court or who is removed for mental or physical disability under section 867(a)(2) of title 10 shall be retired on the judge's own application or upon such removal.
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–253, §302(a)(1), (2), substituted “180 days” for “1 year” in provision relating to restoration of an annuitant to an earning capacity fairly comparable to the current rate of pay of the position occupied at the time of retirement, and “any calendar year” for “each of 2 succeeding calendar years”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–253, §302(a)(1), (2), substituted "180 days" for "1 year" in provision relating to restoration of an annuitant to an earning capacity fairly comparable to the current rate of pay of the position occupied at the time of retirement, and "any calendar year" for "each of 2 succeeding calendar years".
 
 Subsec. (h). Pub. L. 97–253, §302(a)(3), added subsec. (h).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–499 provided that an employee was to be considered disabled only if the employee were found by the Office of Personnel Management to be unable to render useful and efficient service in the employee's position and was not qualified for reassignment to a vacant position in the agency at the same grade or level and provided that an employee in the Postal Service was to be considered not qualified for such reassignment if such reassignment were to a position in a different craft or were inconsistent with the terms of the appropriate collective bargaining agreement.
 
-<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
 
 #### Effective Date of 2000 Amendment
 
@@ -152,23 +152,23 @@ Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, o
 
 Section 124(c) of Pub. L. 100–238 provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 8464a of this title, amending this section, renumbering section 8457 of this title as section 8456, and repealing former section 8456 of this title\] shall be effective as of January 1, 1987, and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.
 
-“(2)
+"(2)
 
-Exception.—The amendment made by subsection (a)(1)(A) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 8, 1988\] and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.”
+Exception.—The amendment made by subsection (a)(1)(A) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 8, 1988\] and shall apply with respect to benefits payable based on a death or disability occurring on or after that date."
 
 #### Effective Date of 1982 Amendment
 
 Section 302(c) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(i), Oct. 15, 1982, 96 Stat. 1649, provided that:
 
-“(1) Except as provided in paragraphs (2) and (3), the amendments made by subsections (a) and (b) \[amending this section and section 8347 of this title\] shall take effective October 1, 1982.
+"(1) Except as provided in paragraphs (2) and (3), the amendments made by subsections (a) and (b) \[amending this section and section 8347 of this title\] shall take effective October 1, 1982.
 
-“(2) The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall take effect with respect to income earned after December 31, 1982.
+"(2) The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall take effect with respect to income earned after December 31, 1982.
 
-“(3) Subsection (h) of section 8337 of title 5, United States Code (as added by subsection (a)) shall apply to any technician (as defined in paragraph (1) of such subsection (h)) who is separated from employment as a technician on or after October 1, 1982. Such subsection (h) shall also apply to any technician separated from employment as a technician on or after December 31, 1979, and before October 1, 1982, if application therefor is made to the Office of Personnel Management within 12 months after the date of the enactment of this Act \[Sept. 8, 1982\]. Any annuity resulting from such application shall commence as of the day after the date such application is received by the Office.”
+"(3) Subsection (h) of section 8337 of title 5, United States Code (as added by subsection (a)) shall apply to any technician (as defined in paragraph (1) of such subsection (h)) who is separated from employment as a technician on or after October 1, 1982. Such subsection (h) shall also apply to any technician separated from employment as a technician on or after December 31, 1979, and before October 1, 1982, if application therefor is made to the Office of Personnel Management within 12 months after the date of the enactment of this Act \[Sept. 8, 1982\]. Any annuity resulting from such application shall commence as of the day after the date such application is received by the Office."
 
 #### Effective Date of 1980 Amendment
 

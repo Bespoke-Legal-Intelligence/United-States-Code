@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Not later than 1 year after July 26, 1990, the Secretary of Transportation shall issue regulations in an accessible format to carry out sections <sup>1</sup> 12182(b)(2)(B) and (C) of this title and to carry out section 12184 of this title (other than subsection (b)(4)).
+&emsp;Not later than 1 year after July 26, 1990, the Secretary of Transportation shall issue regulations in an accessible format to carry out sections <sup>1</sup> 12182(b)(2)(B) and (C) of this title andto carry out section 12184 of this title (other than subsection (b)(4)).
 
 #### (2) Special rules for providing access to over-the-road buses
 

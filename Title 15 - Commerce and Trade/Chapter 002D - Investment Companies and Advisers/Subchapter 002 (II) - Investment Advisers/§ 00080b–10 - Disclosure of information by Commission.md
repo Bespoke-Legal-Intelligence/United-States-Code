@@ -2,7 +2,7 @@
 
 #### (a) Information available to public
 
-The information contained in any registration application or report or amendment thereto filed with the Commission pursuant to any provision of this subchapter shall be made available to the public, unless and except insofar as the Commission, by rules and regulations upon its own motion, or by order upon application, finds that public disclosure is neither necessary nor appropriate in the public interest or for the protection of investors. Photostatic or other copies of information contained in documents filed with the Commission under this subchapter andmade available to the public shall be furnished to any person at such reasonable charge and under such reasonable limitations as the Commission shall prescribe.
+The information contained in any registration application or report or amendment thereto filed with the Commission pursuant to any provision of this subchapter shall be made available to the public, unless and except insofar as theCommission, by rules and regulations upon its own motion, or by order upon application, finds that public disclosure is neither necessary nor appropriate in the public interest or for the protection of investors. Photostatic or other copies of information contained in documents filed with the Commission under this subchapter and made available to the public shall be furnished to any person at such reasonable charge and under such reasonable limitations as the Commission shall prescribe.
 
 #### (b) Disclosure of fact of examination or investigation; exceptions
 
@@ -68,5 +68,5 @@ Implementation.—Not later than 18 months after the date of completion of the s
 
 #### Investor Access to Information
 
-Pub. L. 104–290, title III, §306, Oct. 11, 1996, 110 Stat. 3439, required the Securities and Exchange Commission to provide for investor access to information concerning disciplinary actions involving investment advisers,prior to repeal by Pub. L. 109–290, §7(b)(2), Sept. 29, 2006, 120 Stat. 1321.
+Pub. L. 104–290, title III, §306, Oct. 11, 1996, 110 Stat. 3439, required the Securities and Exchange Commission to provide for investor access to information concerning disciplinary actions involving investment advisers, prior to repeal by Pub. L. 109–290, §7(b)(2), Sept. 29, 2006, 120 Stat. 1321.
 

@@ -2,7 +2,7 @@
 
 (a)(1) Notwithstanding section 5110 of this title or any other provision of law and except as provided in paragraph (2) and subsection (c), payment of monetary benefits based on an award or an increased award of compensation, dependency and indemnity compensation, or pension may not be made to an individual for any period before the first day of the calendar month following the month in which the award or increased award became effective as provided under section 5110 of this title or such other provision of law.
 
-(2)(A) In the case of a veteran who is retired or separated from the active military, naval, or air service for a catastrophic disability or disabilities, payment of monetary benefits based on anaward of compensation based on an original claim shall be made as of the date on which such award becomes effective as provided under section 5110 of this title or another applicable provision of law.
+(2)(A) In the case of a veteran who is retired or separated from the active military, naval, or air service for a catastrophic disability or disabilities, payment of monetary benefits based on an award of compensation based on an original claim shall be made as of the date on which such award becomes effective as provided under section 5110 of this title or another applicable provision of law.
 
 (B) For the purposes of this paragraph, the term "catastrophic disability", with respect to a veteran, means a permanent, severely disabling injury, disorder, or disease that compromises the ability of the veteran to carry out the activities of daily living to such a degree that the veteran requires personal or mechanical assistance to leave home or bed, or requires constant supervision to avoid physical harm to self or others.
 

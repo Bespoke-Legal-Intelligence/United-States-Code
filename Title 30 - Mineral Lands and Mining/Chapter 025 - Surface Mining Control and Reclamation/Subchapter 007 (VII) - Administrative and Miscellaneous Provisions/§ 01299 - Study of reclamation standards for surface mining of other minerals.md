@@ -2,7 +2,7 @@
 
 #### (a) Contract with National Academy of Sciences-National Academy of Engineering; requirements
 
-The Chairman of the Council on Environmental Quality is directed to contract to such extent or in such amounts as are provided in appropriation Acts with the National Academy of Sciences-National Academy of Engineering, other Government agencies or private groups as appropriate, for an in-depth study of current and developing technology for surface and open pit mining and reclamation for minerals other than coal designed to assist in the establishment of effective and reasonable regulation of surface and open pit mining and reclamation for minerals other than coal. The study shall—
+The Chairman of the Council on Environmental Quality is directed to contract to such extent or in such amounts as are provided in appropriation Acts with the National Academy of Sciences-National Academy of Engineering, other Government agencies or private groups as appropriate, for an in-depth study of current anddeveloping technology for surface and open pit mining and reclamation for minerals other than coal designed to assist in the establishment of effective and reasonable regulation of surface and open pit mining and reclamation for minerals other than coal. The study shall—
 
 &emsp;(1) assess the degree to which the requirements of this chapter can be met by such technology and the costs involved;
 
@@ -14,7 +14,7 @@ The Chairman of the Council on Environmental Quality is directed to contract to 
 
 #### (b) Submittal of study with legislative recommendation to President and Congress
 
-The study together with specific legislative recommendations shall be submitted to thePresident and the Congress no later than eighteen months after August 3, 1977: <i>Provided</i>, That, with respect to surface or open pit mining for sand and gravel the study shall be submitted no later than twelve months after August 3, 1977: <i>Provided further</i>, That with respect to mining for oil shale and tar sands that a preliminary report shall be submitted no later than twelve months after August 3, 1977.
+The study together with specific legislative recommendations shall be submitted to the President and the Congress no later than eighteen months after August 3, 1977: <i>Provided</i>, That, with respect to surface or open pit mining for sand and gravel the study shall be submitted no later than twelve months after August 3, 1977: <i>Provided further</i>, That with respect to mining for oil shale and tar sands that a preliminary report shall be submitted no later than twelve months after August 3, 1977.
 
 #### (c) Authorization of appropriations
 

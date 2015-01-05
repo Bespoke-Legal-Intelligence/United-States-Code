@@ -34,7 +34,7 @@ Each year, the Director shall widely disseminate, as appropriate to accomplish t
 
 The Director is authorized—
 
-&emsp;(1) to enter into contracts, grants, cooperative agreements, and other arrangements withFederal agencies and other public and private organizations to carry out the objectives under subsection (c); and
+&emsp;(1) to enter into contracts, grants, cooperative agreements, and other arrangements with Federal agencies and other public and private organizations to carry out the objectives under subsection (c); and
 
 &emsp;(2) to publish and disseminate, in a form determined appropriate by the Director, the reports, findings, studies, and other materials prepared under paragraph (1).
 

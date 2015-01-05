@@ -8,7 +8,7 @@
 
 &emsp;(2) to develop and present for consideration by the Judicial Conference of the United States recommendations for improvement of the administration and management of the courts of the United States;
 
-&emsp;(3) to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government and other persons whose participation in such programs would improve the operation of the judicial branch, including,but not limited to, judges, United States magistrate judges, clerks of court, probation officers, and persons serving as mediators and arbitrators;
+&emsp;(3) to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government and other persons whose participation in such programs would improve the operation of the judicial branch, including, but not limited to, judges, United States magistrate judges, clerks of court, probation officers, and persons serving as mediators and arbitrators;
 
 &emsp;(4) insofar as may be consistent with the performance of the other functions set forth in this section, to provide staff, research, and planning assistance to the Judicial Conference of the United States and its committees;
 

@@ -62,7 +62,7 @@ In furtherance of the policies of this chapter, the Secretary of the Interior sh
 
 #### References in Text
 
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec.\(b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
 
 The Defense Production Act of 1950, referred to in subsec. (d), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, as amended, which is classified to section 2061 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 2061 of Title 50, Appendix, and Tables.
 
@@ -72,5 +72,5 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (e)(1), (2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureauof Mines, see Transfer of Functions note set out under section 1 of this title.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (e)(1), (2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 

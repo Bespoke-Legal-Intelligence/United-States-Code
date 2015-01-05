@@ -122,7 +122,7 @@ Contract authority; authorization of appropriations.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $15,000,000for fiscal year 1999, $20,000,000 for fiscal year 2000, and $25,000,000 for fiscal year 2001.
+In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $15,000,000 for fiscal year 1999, $20,000,000 for fiscal year 2000, and $25,000,000 for fiscal year 2001.
 
 &emsp;&emsp;&emsp;(ii)
 

@@ -46,7 +46,7 @@ Par. (3). Pub. L. 102–421, §151(a)(3), (b)(2), substituted "children who are 
 
 Par. (4). Pub. L. 102–421, §151(b)(3), substituted a semicolon for last comma in subpars. (A) to (E) of first sentence and "subparagraph" for "clause" in second sentence.
 
-Pub. L. 102–421, §131(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "The term 'Institute' means the National Technical Institute for the Deaf."
+Pub. L. 102–421, §131(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "Theterm 'Institute' means the National Technical Institute for the Deaf."
 
 Pars. (5), (6). Pub. L. 102–421, §131(2)(B), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 

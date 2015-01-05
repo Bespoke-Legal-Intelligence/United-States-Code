@@ -2,7 +2,7 @@
 
 Section 6671, Pub. L. 89–10, title II, §2301, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1648; amended Pub. L. 107–296, title XVII, §1704(e)(8), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(g)(1), Jan. 6, 2006, 119 Stat. 3236, defined terms for this division.
 
-A prior section 6671, Pub. L. 89–10, title II, §2301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3633, set forth findings and purpose of former part relating to professional development demonstration project, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6671, Pub. L. 89–10, title II, §2301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3633, set forth findings and purpose of former part relating to professional development demonstration project, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Section 6672, Pub. L. 89–10, title II, §2302, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1648, authorized the funding and administration of the Troops-to-Teachers Program.
 

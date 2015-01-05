@@ -228,7 +228,7 @@ Additional Restrictions Authorized.—The Secretary may establish additional res
 
 "(d)
 
-Data Collection and Availability.—The Secretary shall develop and maintain a database containing data from each patient case involving the use of a treatment under this section. The Secretary shall ensure that the database preserves confidentiality and that any use of the database or disclosures of such dataare limited to such use and disclosures permitted by law and applicable regulations.
+Data Collection and Availability.—The Secretary shall develop and maintain a database containing data from each patient case involving the use of a treatment under this section. The Secretary shall ensure that the database preserves confidentiality and that any use of the database or disclosures of such data are limited to such use and disclosures permitted by law and applicable regulations.
 
 "(e)
 
@@ -360,7 +360,7 @@ Elements.—The study required by subsection (a) shall specifically address the 
 
 &emsp;"(2) The health care, mental health care, and rehabilitation needs of such members for such injuries after the completion of inpatient treatment through the Department of Defense, the Department of Veterans Affairs, or both.
 
-&emsp;"(3) The type and availability of long-term care rehabilitation programs and services within and outside the Department of Defense and the Departmentof Veterans Affairs for such members for such injuries, including community-based programs and services and in-home programs and services.
+&emsp;"(3) The type and availability of long-term care rehabilitation programs and services within and outside the Department of Defense and the Department of Veterans Affairs for such members for such injuries, including community-based programs and services and in-home programs and services.
 
 &emsp;"(4) The effect on family members of a member incurring such an injury.
 
@@ -594,7 +594,7 @@ In general.—A pilot project under subsection (a) may be carried out at a milit
 
 &emsp;&emsp;"(B)
 
-Elements.—The pilot project under this paragraph shall be designed to evaluate andproduce effective diagnostic and treatment approaches for use by primary care providers in the military health care system in order to improve the capability of such providers to diagnose and treat post traumatic stress disorder in a manner that avoids the referral of patients to specialty care by a psychiatrist or other mental health professional.
+Elements.—The pilot project under this paragraph shall be designed to evaluate and produce effective diagnostic and treatment approaches for use by primary care providers in the military health care system in order to improve the capability of such providers to diagnose and treat post traumatic stress disorder in a manner that avoids the referral of patients to specialty care by a psychiatrist or other mental health professional.
 
 &emsp;"(2)
 
@@ -666,7 +666,7 @@ Composition.—The members of the Committee are as follows:
 
 &emsp;&emsp;"(C) The Assistant Secretary of Defense for Health Affairs.
 
-&emsp;&emsp;"(D) The Assistant Secretary of Defense for Reserve Affairs.
+&emsp;&emsp;"(D) The Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\].
 
 &emsp;&emsp;"(E) The Surgeon General of each of the Army, the Navy, and the Air Force.
 
@@ -812,7 +812,7 @@ Pub. L. 108–375, div. A, title VII, §735, Oct. 28, 2004, 118 Stat. 1999, prov
 
 "(a)
 
-Requirement for Review.—The Secretary of Defense shall review and, as determined appropriate, revise the classification policies of the Department of Defense with a view to facilitating the declassification of data that is potentially useful for the monitoring and assessment of the health of members of the Armed Forces who have been exposed to environmental hazards during deployments overseas, including the following data:
+Requirement for Review.—The Secretary of Defense shall review and, as determined appropriate, revise the classification policies of the Department of Defense with a view to facilitating the declassification of data that is potentially useful for the monitoring and assessment of the health of members of the ArmedForces who have been exposed to environmental hazards during deployments overseas, including the following data:
 
 &emsp;"(1) In-theater injury rates.
 
@@ -1138,7 +1138,7 @@ Plan Required.—The Secretary of Defense and the Secretary of Veterans Affairs,
 
 Contents of Plan.—In preparing the plan, the Secretaries shall—
 
-&emsp;"(1) use the presumptions of service connection and illness specified in paragraphs (1) and (2) of section 721(d) of the National Defense Authorization Act forFiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1074 note) to determine the Persian Gulf veterans (and dependents eligible by law) who should be covered by the plan;
+&emsp;"(1) use the presumptions of service connection and illness specified in paragraphs (1) and (2) of section 721(d) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1074 note) to determine the Persian Gulf veterans (and dependents eligible by law) who should be covered by the plan;
 
 &emsp;"(2) consider the need and methods available to provide health care services to Persian Gulf veterans who are no longer on active duty in the Armed Forces, such as Persian Gulf veterans who are members of the reserve components and Persian Gulf veterans who have been separated from the Armed Forces; and
 
@@ -1216,7 +1216,7 @@ Presumptions on Behalf of Service Member.—(1) A member of the Armed Forces who
 
 "(2) A member of the Armed Forces who is a Persian Gulf veteran and who reports being ill as a result of serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War shall be considered for Department of Defense purposes to have become ill as a result of serving in that theater of operations until such time as the weight of medical evidence establishes other cause or causes of the member's illness.
 
-"(3) The Secretary concerned shall ensure that, for the purposes of health care treatment by the Department of Defense, health care and personnel administration, and disability evaluation by the Department ofDefense, the symptoms of any member of the Armed Forces covered by paragraph (1) or (2) are examined in light of the member's service in the Persian Gulf War and in light of the reported symptoms of other Persian Gulf veterans. The Secretary shall ensure that, in providing health care diagnosis and treatment of the member, a broad range of potential causes of the member's symptoms are considered and that the member's symptoms are considered collectively, as well as by type of symptom or medical specialty, and that treatment across medical specialties is coordinated appropriately.
+"(3) The Secretary concerned shall ensure that, for the purposes of health care treatment by the Department of Defense, health care and personnel administration, and disability evaluation by the Department of Defense, the symptoms of any member of the Armed Forces covered by paragraph (1) or (2) are examined in light of the member's service in the Persian Gulf War and in light of the reported symptoms of other Persian Gulf veterans. The Secretary shall ensure that, in providing health care diagnosis and treatment of the member, a broad range of potential causes of the member's symptoms are considered and that the member's symptoms are considered collectively, as well as by type of symptom or medical specialty, and that treatment across medical specialties is coordinated appropriately.
 
 "(4) The Secretary of Defense shall ensure that the presumptions of service connection and illness specified in paragraphs (1) and (2) are incorporated in appropriate service medical and personnel regulations and are widely disseminated throughout the Department of Defense.
 

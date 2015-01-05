@@ -402,7 +402,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;(B) sections 408(k), 408(p), 410, 411, 415, and 416, and
 
-&emsp;&emsp;(C) sections 79, 106, 117(d), 120, 125, 127, 129, 132, 137, 274(j), 505, and 4980B.
+&emsp;&emsp;(C) sections 79, 106, 117(d), 125, 127, 129, 132, 137, 274(j), 505, and 4980B.
 
 #### (4) Time when first considered as employee
 
@@ -782,7 +782,7 @@ For purposes of any applicable provision—
 
 #### (2) Applicable section
 
-&emsp;For purposes of this subsection, the term "applicable section" means section 79, 106, 117(d), 120, 125, 127, 129, 132, 137, 274(j), 505, or 4980B.
+&emsp;For purposes of this subsection, the term "applicable section" means section 79, 106, 117(d), 125, 127, 129, 132, 137, 274(j), 505, or 4980B.
 
 #### (u) Special rules relating to veterans' reemployment rights under USERRA and to differential wage payments to members on active duty
 
@@ -794,7 +794,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;(B) such contribution shall be subject to the limitations referred to in subparagraph (A) with respect to the year to which the contribution relates (in accordance with rules prescribed by the Secretary), and
 
-&emsp;&emsp;(C) such plan shall not be treated as failing to meet the requirements of section 401(a)(4), 401(a)(26), 401(k)(3), 401(k)(11), 401(k)(12),401(m), 403(b)(12), 408(k)(3), 408(k)(6), 408(p), 410(b), or 416 by reason of the making of (or the right to make) such contribution.
+&emsp;&emsp;(C) such plan shall not be treated as failing to meet the requirements of section 401(a)(4), 401(a)(26), 401(k)(3), 401(k)(11), 401(k)(12), 401(m), 403(b)(12), 408(k)(3), 408(k)(6), 408(p),410(b), or 416 by reason of the making of (or the right to make) such contribution.
 
 > &emsp;For purposes of the preceding sentence, any elective deferral or employee contribution made under paragraph (2) shall be treated as required by reason of the employee's rights under such chapter 43.
 
@@ -854,9 +854,9 @@ For purposes of any applicable provision—
 
 #### (8) USERRA requirements for qualified retirement plans
 
-&emsp;For purposes of this subchapter and section 457, an employer sponsoring a retirement planshall be treated as meeting the requirements of chapter 43 of title 38, United States Code, only if each of the following requirements is met:
+&emsp;For purposes of this subchapter and section 457, an employer sponsoring a retirement plan shall be treated as meeting the requirements of chapter 43 of title 38, United States Code, only if each of the following requirements is met:
 
-&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such plan as not having incurred a break in service with the employer maintaining the plan by reason of such individual's period of qualified military service.
+&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such planas not having incurred a break in service with the employer maintaining the plan by reason of such individual's period of qualified military service.
 
 &emsp;&emsp;(B) Each period of qualified military service served by an individual is, upon reemployment under such chapter, deemed with respect to such plan to constitute service with the employer maintaining the plan for the purpose of determining the nonforfeitability of the individual's accrued benefits under such plan and for the purpose of determining the accrual of benefits under such plan.
 
@@ -942,77 +942,9 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table:
+&emsp;&emsp;&emsp;(i) In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000.
 
-<b>For taxable years</b>
-
-<b>The</b>
-
-<b>applicable</b>
-
-<b>beginning in:</b>
-
-<b>dollar amount</b>
-
-<b>is:</b>
-
-&emsp;&emsp;2002
-
-$1,000&nbsp;&nbsp;
-
-&emsp;&emsp;2003
-
-$2,000&nbsp;&nbsp;
-
-&emsp;&emsp;2004
-
-$3,000&nbsp;&nbsp;
-
-&emsp;&emsp;2005
-
-$4,000&nbsp;&nbsp;
-
-&emsp;&emsp;2006 and thereafter
-
-$5,000.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&emsp;(ii) In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table:
-
-<b>For taxable years</b>
-
-<b>The</b>
-
-<b>applicable</b>
-
-<b>beginning in:</b>
-
-<b>dollar amount</b>
-
-<b>is:</b>
-
-&emsp;&emsp;2002
-
-$500&nbsp;&nbsp;
-
-&emsp;&emsp;2003
-
-$1,000&nbsp;&nbsp;
-
-&emsp;&emsp;2004
-
-$1,500&nbsp;&nbsp;
-
-&emsp;&emsp;2005
-
-$2,000&nbsp;&nbsp;
-
-&emsp;&emsp;2006 and thereafter
-
-$2,500.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;(ii) In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $2,500.
 
 #### (C) Cost-of-living adjustment
 
@@ -1134,7 +1066,7 @@ $2,500.
 
 &emsp;&emsp;A notice shall not be treated as meeting the requirements of subparagraph (A) with respect to an employee unless—
 
-&emsp;&emsp;&emsp;(i) the notice includes an explanation of the employee's right under the arrangement to elect not to have elective contributions made on the employee's behalf\(or to elect to have such contributions made at a different percentage),
+&emsp;&emsp;&emsp;(i) the notice includes an explanation of the employee's right under the arrangement to elect not to have elective contributions made on the employee's behalf (or to elect to have such contributions made at a different percentage),
 
 &emsp;&emsp;&emsp;(ii) the employee has a reasonable period of time after receipt of the notice described in clause (i) and before the first elective contribution is made to make such election, and
 
@@ -1200,31 +1132,14 @@ $2,500.
 
 &emsp;&emsp;&emsp;If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 411(a)(13)(B) which meets the interest credit requirements of section 411(b)(5)(B)(i), the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives a pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table:
 
-<b>If the participant's age as of the</b>
+&nbsp;
 
-<b>The percentage</b>
-
-<b> beginning of the year is—</b>
-
-<b> is—</b>
-
-&nbsp;&nbsp;30 or less
-
-2&nbsp;&nbsp;
-
-&nbsp;&nbsp;Over 30 but less than 40
-
-4&nbsp;&nbsp;
-
-&nbsp;&nbsp;40 or over but less than 50
-
-6&nbsp;&nbsp;
-
-&nbsp;&nbsp;50 or over
-
-8\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>   If the participant's age as of the    beginning of the year is—</b> | <b>The percentage is—</b> |
+| :--- | ---: |
+| 30 or less | 2&nbsp;&nbsp; |
+| Over 30 but less than 40 | 4&nbsp;&nbsp; |
+| 40 or over but less than 50 | 6&nbsp;&nbsp; |
+| 50 or over | 8\. |
 
 #### (iv) Years of service
 
@@ -1304,7 +1219,7 @@ $2,500.
 
 &emsp;&emsp;A qualified cash or deferred arrangement shall be treated as an automatic contribution arrangement if the arrangement—
 
-&emsp;&emsp;&emsp;(i) provides that each employee eligible to participate in the arrangement is treated as having elected to have the employer make elective contributions in an amount equal to 4 percent of the employee's compensation unless the employee specificallyelects not to have such contributions made or to have such contributions made at a different rate, and
+&emsp;&emsp;&emsp;(i) provides that each employee eligible to participate in the arrangement is treated as having elected to have the employer make elective contributions in an amount equal to 4 percent of the employee's compensation unless the employee specifically elects not to have such contributions made or to have such contributions made at a different rate, and
 
 &emsp;&emsp;&emsp;(ii) meets the notice requirements under subparagraph (B).
 
@@ -1324,7 +1239,7 @@ $2,500.
 
 #### (iii) Annual notice of rights and obligations
 
-&emsp;&emsp;&emsp;The requirements of this clause are met if each employee eligible to participate in the arrangement is, within a reasonable period before any year, given notice of the employee's rights and obligations under the arrangement.
+&emsp;&emsp;&emsp;The requirements of this clause are met if each employee eligible to participate inthe arrangement is, within a reasonable period before any year, given notice of the employee's rights and obligations under the arrangement.
 
 > &emsp;&emsp;The requirements of clauses (i) and (ii) of section 401(k)(12)(D) shall be met with respect to the notices described in clauses (ii) and (iii) of this subparagraph.
 
@@ -1350,7 +1265,47 @@ $2,500.
 
 &emsp;&emsp;The term "qualified cash or deferred arrangement" has the meaning given such term by section 401(k)(2).
 
-(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(o)(3)–(8), Mar. 9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181; Pub. L. 110–245, title I, §§104(b), 105(b)(1), June 17, 2008, 122 Stat. 1626, 1628; Pub. L. 110–289, div. A, title VI, §1604(b)(4), July 30, 2008, 122 Stat. 2829; Pub. L. 110–458, title I, §§101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, 122 Stat. 5099, 5111.)
+#### (y) Cooperative and small employer charity pension plans
+
+#### (1) In general
+
+&emsp;For purposes of this title, except as provided in this subsection, a CSEC plan is a defined benefit plan (other than a multiemployer plan)—
+
+&emsp;&emsp;(A) to which section 104 of the Pension Protection Act of 2006 applies, without regard to—
+
+&emsp;&emsp;&emsp;(i) section 104(a)(2) of such Act;
+
+&emsp;&emsp;&emsp;(ii) the amendments to such section 104 by section 202(b) of the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010; and
+
+&emsp;&emsp;&emsp;(iii) paragraph (3)(B);
+
+&emsp;&emsp;(B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3); or
+
+&emsp;&emsp;(C) that, as of June 25, 2010, was maintained by an employer—
+
+&emsp;&emsp;&emsp;(i) described in section 501(c)(3) of such Code,<sup>5</sup>
+
+&emsp;&emsp;&emsp;(ii) chartered under part B of subtitle II of title 36, United States Code,
+
+&emsp;&emsp;&emsp;(iii) with employees in at least 40 States, and
+
+&emsp;&emsp;&emsp;(iv) whose primary exempt purpose is to provide services with respect to children.
+
+#### (2) Aggregation
+
+&emsp;All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph <sup>6</sup> (B) and <sup>6</sup> (C) of paragraph (1).
+
+#### (3) Election
+
+#### (A) In general
+
+&emsp;&emsp;If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013, not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary.
+
+#### (B) Special rule
+
+&emsp;&emsp;If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.
+
+(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(o)(3)–(8), Mar.9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181; Pub. L. 110–245, title I, §§104(b), 105(b)(1), June 17, 2008, 122 Stat. 1626, 1628; Pub. L. 110–289, div. A, title VI, §1604(b)(4), July 30, 2008, 122 Stat. 2829; Pub. L. 110–458, title I, §§101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, 122 Stat. 5099, 5111; Pub. L. 113–97, title II, §§201, 203(a), Apr. 7, 2014, 128 Stat. 1121, 1138; Pub. L. 113–235, div. P, §3(b), Dec. 16, 2014, 128 Stat. 2829; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(i), (ii), (55), Dec. 19, 2014, 128 Stat. 4039, 4045.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1360,7 +1315,7 @@ $2,500.
 
 The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (d), means act Aug. 29, 1935, ch. 812, 49 Stat. 867, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–444, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
-The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (d), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) ofchapter 7 of Title 22, Foreign Relations and Intercourse. The Act also amended several other laws including the Internal Revenue Code of 1939. For exemption from taxation of income of international organizations and of the compensation of employees thereof, see sections 892 and 893 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (d), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. The Act also amended several other laws including the Internal Revenue Code of 1939. For exemption from taxation of income of international organizations and of the compensation of employees thereof, see sections 892 and 893 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(3), (5), (6)(B), (F) and (l)(1), (2)(E), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Section 3(37)(A)(iii) of the Act is classified to section 1002(37)(A)(iii) of Title 29. Section 4403(b) and (c) of the Employee Retirement Income Security Act of 1974 probably means section 4303(b) and (c) of such Act which is classified to section 1453(b) and (c) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -1368,7 +1323,25 @@ The date of the enactment of the Multiemployer Pension Plan Amendments Act of 19
 
 Effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (f)(5), probably means the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980, which was approved Sept. 26, 1980.
 
+The Pension Protection Act of 2006, referred to in subsecs. (f)(6)(A) and (y)(1)(A), (3)(B), is Pub. L. 109–280, Aug. 17, 2006, 120 Stat. 780. Section 104 of the Act is set out as a note under section 401 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
+
+The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (y)(1)(A)(ii), (3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
+
 #### Amendments
+
+<b>2014</b>—Subsec. (n)(3)(C). Pub. L. 113–295, §221(a)(19)(B)(i), struck out "120," after "117(d),".
+
+Subsec. (t)(2). Pub. L. 113–295, §221(a)(19)(B)(ii), struck out "120," after "117(d),".
+
+Subsec. (v)(2)(B)(i), (ii). Pub. L. 113–295, §221(a)(55), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) listed applicable dollar amounts for taxable years 2002 to 2006 and thereafter for an applicable employer plan other than a plan described in section 401(k)(11) or 408(p) and an applicable employer plan described in section 401(k)(11) or 408(p), respectively.
+
+Subsec. (y). Pub. L. 113–97, §201, added subsec. (y).
+
+Subsec. (y)(1)(C). Pub. L. 113–235, §3(b)(1), added subpar. (C).
+
+Subsec. (y)(2). Pub. L. 113–235, §3(b)(2), substituted "subparagraph (B) and (C) of paragraph (1)" for "paragraph (1)(B)".
+
+Subsec. (y)(3). Pub. L. 113–97, §203(a), added par. (3).
 
 <b>2008</b>—Subsec. (l)(2)(B)(i)(I). Pub. L. 110–458, §101(d)(2)(E), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "the amount determined under section 431(c)(6)(A)(i) in the case of a multiemployer plan (and the sum of the funding shortfall and target normal cost determined under section 430 in the case of any other plan), over".
 
@@ -1620,7 +1593,7 @@ Subsec. (r)(3). Pub. L. 100–647, §3021(b)(2)(A), amended par. (3) generally. 
 
 &emsp;"(B) not more than twice,
 
-> the percentage which highly compensated employees are of all employees of the employer. An employer shall be treated as meeting the requirements of subparagraph (A) if at least 10 percent of all highly compensated employees of the employer perform services solely for such line of business."
+> the percentage which highly compensated employees are of all employees of the employer. An employer shallbe treated as meeting the requirements of subparagraph (A) if at least 10 percent of all highly compensated employees of the employer perform services solely for such line of business."
 
 Subsec. (s). Pub. L. 100–647, §1011(j)(1), substituted "any applicable provision" for "this part" in introductory provisions.
 
@@ -1744,6 +1717,16 @@ Subsec. (g)(2)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 Subsec. (l). Pub. L. 94–455, §1901(a)(64)(B), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
+Pub. L. 113–235, div. P, §3(c), Dec. 16, 2014, 128 Stat. 2829, provided that: "The amendments made by this section \[amending this section and section 1060 of Title 29, Labor\] shall take effect as if included in the amendments made by the Cooperative and Small Employer Charity Pension Flexibility Act \[Pub. L. 113–97\] (29 U.S.C. 401 note) \[probably means 26 U.S.C. 401 note\]."
+
+Amendment by section 201 of Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of this title.
+
+Pub. L. 113–97, title II, §203(b), Apr. 7, 2014, 128 Stat. 1139, provided that: "The amendment made by this section \[amending this section\] shall apply as of the date of enactment of this Act \[Apr. 7, 2014\]."
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
@@ -1866,7 +1849,7 @@ Conforming amendments to employee benefit provisions.—The amendments made by p
 
 "(3)
 
-Conforming amendments to pension provisions.—The amendments made by paragraphs (7), (8), (9), (10), (11), (12), and (15) of subsection (b) \[amending this section and sections 401, 404A, 406, 407, 411, 415, and 4975 of this title and section 1108 of Title 29, Labor\] shall apply to years beginning after December 31, 1988."
+Conforming amendments to pension provisions.—The amendments made by paragraphs (7), (8), (9), (10), (11), (12), and (15) of subsection (b) \[amendingthis section and sections 401, 404A, 406, 407, 411, 415, and 4975 of this title and section 1108 of Title 29, Labor\] shall apply to years beginning after December 31, 1988."
 
 \[Pub. L. 107–16, title VI, §663(b), June 7, 2001, 115 Stat. 143, provided that: "The repeal made by subsection (a) \[repealing par. (4) of section 1114(c) of Pub. L. 99–514, set out above\] shall apply to plan years beginning after December 31, 2001."\]
 
@@ -1932,7 +1915,7 @@ Plans in existence on november 30, 1980.—In the case of a plan in existence on
 
 Pub. L. 96–364, title IV, §407(c), Sept. 26, 1980, 94 Stat. 1307, provided that: "The amendments made by this section \[amending this section and section 1002 of Title 29, Labor\] shall be effective as of January 1, 1974."
 
-Amendment by sections 207 and 208(a) of Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under section 418 of this title.
+Amendment by sections 207 and 208(a) of Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under section 194A of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -2050,7 +2033,7 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "title".</i>
 
@@ -2059,4 +2042,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 <i><sup>3</sup></i><i> So in original. There is no closing parenthesis.</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should be "is".</i>
+
+<i><sup>5</sup></i><i> So in original. Probably means section 501(c)(3) of this title.</i>
+
+<i><sup>6</sup></i><i> So in original.</i>
 

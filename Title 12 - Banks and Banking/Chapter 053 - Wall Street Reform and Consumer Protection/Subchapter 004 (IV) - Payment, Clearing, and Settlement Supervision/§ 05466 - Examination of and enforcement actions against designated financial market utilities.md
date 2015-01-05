@@ -40,7 +40,7 @@ For purposes of enforcing the provisions of this subchapter, a designated financ
 
 #### (1) Recommendation
 
-&emsp;The Board of Governors may, after consulting with the Council and the Supervisory Agency, at any time recommend to the Supervisory Agency that such agency take enforcement action against a designated financial market utility in order to prevent or mitigate significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States. Any such recommendation for enforcement action shall provide a detailed analysis supporting the recommendation of the Board of Governors.
+&emsp;The Board of Governors may, after consulting with the Council and the SupervisoryAgency, at any time recommend to the Supervisory Agency that such agency take enforcement action against a designated financial market utility in order to prevent or mitigate significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States. Any such recommendation for enforcement action shall provide a detailed analysis supporting the recommendation of the Board of Governors.
 
 #### (2) Consideration
 

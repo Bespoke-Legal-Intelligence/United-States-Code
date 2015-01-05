@@ -1,6 +1,6 @@
 ### §5382. Establishment of rates of pay for the Senior Executive Service
 
-(a) Subject to regulations prescribed by the Office of Personnel Management, there shall be established a range of rates of basic pay for the Senior Executive Service, and each senior executive shall be paid at one of the rates within the range, based on individual performance, contribution to the agency's performance, or both, as determined under a rigorous performance management system. The lowest rate of therange shall not be less than the minimum rate of basic pay payable under section 5376, and the highest rate, for any position under this system or an equivalent system as determined by the President's Pay Agent designated under section 5304(d), shall not exceed the rate for level III of the Executive Schedule. The payment of the rates shall not be subject to the pay limitation of section 5306(e) or 5373.
+(a) Subject to regulations prescribed by the Office of Personnel Management, there shall be established a range of rates of basic pay for the Senior Executive Service, and each senior executive shall be paid at one of the rates within the range, based on individual performance, contribution to the agency's performance, or both, as determined under a rigorous performance management system. The lowest rate of the range shall not be less than the minimum rate of basic pay payable under section 5376, and the highest rate, for any position under this system or an equivalent system as determined by the President's Pay Agent designated under section 5304(d), shall not exceed the rate for level III of the Executive Schedule. The payment of the rates shall not be subject to the pay limitation of section 5306(e) or 5373.
 
 (b) Notwithstanding the provisions of subsection (a), the applicable maximum shall be level II of the Executive Schedule for any agency that is certified under section 5307 as having a performance appraisal system which, as designed and applied, makes meaningful distinctions based on relative performance.
 
@@ -16,19 +16,19 @@ Level II of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–136 substituted “Establishment of rates of pay for the Senior Executive Service” for “Establishment and adjustment of rates of pay for the Senior Executive Service” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>2003</b>—Pub. L. 108–136 substituted "Establishment of rates of pay for the Senior Executive Service" for "Establishment and adjustment of rates of pay for the Senior Executive Service" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a) There shall be 5 or more rates of basic pay for the Senior Executive Service, and each senior executive shall be paid at one of the rates. The rates of basic pay shall be initially established and thereafter adjusted by the President subject to subsection (b) of this section.
+"(a) There shall be 5 or more rates of basic pay for the Senior Executive Service, and each senior executive shall be paid at one of the rates. The rates of basic pay shall be initially established and thereafter adjusted by the President subject to subsection (b) of this section.
 
-“(b) In setting rates of basic pay, the lowest rate for the Senior Executive Service shall not be less than the minimum rate of basic pay payable under section 5376 and the highest rate shall not exceed the rate for level IV of the Executive Schedule. The payment of the rates shall not be subject to the pay limitation of section 5306(e) or 5373 of this title.
+"(b) In setting rates of basic pay, the lowest rate for the Senior Executive Service shall not be less than the minimum rate of basic pay payable under section 5376 and the highest rate shall not exceed the rate for level IV of the Executive Schedule. The payment of the rates shall not be subject to the pay limitation of section 5306(e) or 5373 of this title.
 
-“(c) Subject to subsection (b) of this section, effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of this title in the rates of pay under the General Schedule, each rate of basic pay for the Senior Executive Service shall be adjusted by an amount determined by the President to be appropriate.
+"(c) Subject to subsection (b) of this section, effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of this title in the rates of pay under the General Schedule, each rate of basic pay for the Senior Executive Service shall be adjusted by an amount determined by the President to be appropriate.
 
-“(d) The rates of basic pay that are established and adjusted under this section shall be printed in the Federal Register and shall supersede any prior rates of basic pay for the Senior Executive Service.”
+"(d) The rates of basic pay that are established and adjusted under this section shall be printed in the Federal Register and shall supersede any prior rates of basic pay for the Senior Executive Service."
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–509, §529 \[title I, §101(b)(6)(A), (9)(I)\], substituted “under section 5376” for “for GS–16 of the General Schedule” and “5306(e)” for “5308”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–509, §529 \[title I, §101(b)(6)(A), (9)(I)\], substituted "under section 5376" for "for GS–16 of the General Schedule" and "5306(e)" for "5308".
 
-Subsec. (c). Pub. L. 101–509, §529 \[title I, §101(b)(4)(B)\], substituted “5303” for “5305” and struck out at end “The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title.”
+Subsec. (c). Pub. L. 101–509, §529 \[title I, §101(b)(4)(B)\], substituted "5303" for "5305" and struck out at end "The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title."
 
 #### Effective Date of 2003 Amendment
 

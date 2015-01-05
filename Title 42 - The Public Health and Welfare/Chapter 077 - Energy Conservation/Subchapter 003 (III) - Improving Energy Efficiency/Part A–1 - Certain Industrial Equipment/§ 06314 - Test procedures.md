@@ -26,7 +26,7 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (5)(A) With respect to electric motors to which standards are applicable under section 6313 of this title, the test procedures shall be the test procedures specified in NEMA Standards Publication MG1–1987 and IEEE Standard 112 Test Method B for motor efficiency, as in effect on October 24, 1992.
 
-(B) If the test procedure requirements of NEMA Standards Publication MG–1987 and IEEE Standard 112 Test Method B for motor efficiency are amended, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such amended test procedure requirements unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
+(B) If the test procedure requirements of NEMA Standards Publication MG–1987 and IEEE Standard 112 Test Method B for motor efficiency are amended, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such amended test procedure requirements unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that todo so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
 
 (C) If the Secretary prescribes a rule containing such a determination, the rule may establish amended test procedures for such electric motors that meets the requirements of paragraphs (2) and (3) of this subsection. In establishing any amended test procedure under this subparagraph or subparagraph (B), the Secretary shall follow the procedures and meet the requirements specified in section 6293(e) of this title.
 
@@ -122,7 +122,7 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 > respecting the energy consumption of such equipment or cost of energy consumed by such equipment, unless such equipment has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
-(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referredto in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
+(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
 
 #### (e) Assistance by National Institute of Standards and Technology
 
@@ -162,7 +162,7 @@ Subsec. (d)(1). Pub. L. 102–486, §122(b)(2), inserted "(or, in the case of sm
 
 #### Effective Date of 2012 Amendment
 
-Amendment by section 10(a)(2) of Pub. L. 112–210 effective as if included in the Energy Independence and Security Act of 2007, Pub. L. 110–140, see section 10(a)(13) of Pub. L. 112–210, set out as a note under section 6291 of this title.
+Amendment by section 10(a)(2) of Pub. L. 112–210 effective as if included in the Energy Independence and Security Act of 2007, Pub. L. 110–140, see section10(a)(13) of Pub. L. 112–210, set out as a note under section 6291 of this title.
 
 #### Effective Date of 2007 Amendment
 

@@ -22,7 +22,7 @@ In the case of variable contracts, the basis of each asset in a segregated asset
 
 #### (c) Separate accounting
 
-For purposes of this part, a life insurance company which issues variable contracts shall separately account for the various income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variablecontracts. For such items as are not accounted for directly, separate accounting shall be made—
+For purposes of this part, a life insurance company which issues variable contracts shall separately account for the various income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variable contracts. For such items as are not accounted for directly, separate accounting shall be made—
 
 &emsp;(1) in accordance with the method regularly employed by such company, if such method is reasonable, and
 

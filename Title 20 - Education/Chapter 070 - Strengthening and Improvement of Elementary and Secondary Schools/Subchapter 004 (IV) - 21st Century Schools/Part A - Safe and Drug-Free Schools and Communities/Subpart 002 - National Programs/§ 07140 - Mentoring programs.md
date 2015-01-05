@@ -190,7 +190,7 @@
 
 #### (D) Grant to each State
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, in awarding grants under subparagraph (A), the Secretary shall select not less than one grant recipient from eachState for which there is an eligible entity that submits an application of sufficient quality pursuant to paragraph (4).
+&emsp;&emsp;Notwithstanding any other provision of this subsection, in awarding grants under subparagraph (A), the Secretary shall select not less than one grant recipient from each State for which there is an eligible entity that submits an application of sufficient quality pursuant to paragraph (4).
 
 #### (6) Model screening guidelines
 

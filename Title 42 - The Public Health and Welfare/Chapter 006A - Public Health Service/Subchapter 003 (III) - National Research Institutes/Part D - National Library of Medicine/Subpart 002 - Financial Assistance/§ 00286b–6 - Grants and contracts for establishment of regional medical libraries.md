@@ -26,7 +26,7 @@ The uses for which grants and contracts under this section may be employed inclu
 
 &emsp;(B) to provide free loan services to qualified users and make available photoduplicated or facsimile copies of biomedical materials which qualified requesters may retain.
 
-(2) The Secretary, in awarding grants and contracts under this section, shall give priority to medical libraries having the greatest potentialof fulfilling the needs for regional medical libraries. In determining the priority to be assigned to any medical library, the Secretary shall consider—
+(2) The Secretary, in awarding grants and contracts under this section, shall give priority tomedical libraries having the greatest potential of fulfilling the needs for regional medical libraries. In determining the priority to be assigned to any medical library, the Secretary shall consider—
 
 &emsp;(A) the adequacy of the library (in terms of collections, personnel, equipment, and other facilities) as a basis for a regional medical library; and
 

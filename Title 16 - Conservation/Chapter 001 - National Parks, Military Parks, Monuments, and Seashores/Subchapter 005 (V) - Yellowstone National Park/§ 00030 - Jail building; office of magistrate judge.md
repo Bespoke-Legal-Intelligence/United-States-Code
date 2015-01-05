@@ -10,5 +10,5 @@ Section 9 of the act of May 7, 1894, contained the added clause, "the cost of su
 
 #### Change of Name
 
-"United States magistrate judge" substituted in text for "magistrate" pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "magistrate" substituted for "commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judge" substituted in text for "magistrate" pursuant to section 321 of Pub. L.101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "magistrate" substituted for "commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 

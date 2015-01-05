@@ -58,7 +58,7 @@ A prior section 2505 was renumbered section 2532 of this title.
 
 #### Study of Beryllium Industrial Base
 
-Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of theUnited States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
+Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
 
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Assessment
 

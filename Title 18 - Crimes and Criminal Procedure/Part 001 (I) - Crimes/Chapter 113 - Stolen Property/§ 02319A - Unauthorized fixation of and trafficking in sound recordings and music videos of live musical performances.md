@@ -14,7 +14,7 @@ Offense.—Whoever, without the consent of the performer or performers involved,
 
 (b)
 
-Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction,and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
+Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
 (c)
 

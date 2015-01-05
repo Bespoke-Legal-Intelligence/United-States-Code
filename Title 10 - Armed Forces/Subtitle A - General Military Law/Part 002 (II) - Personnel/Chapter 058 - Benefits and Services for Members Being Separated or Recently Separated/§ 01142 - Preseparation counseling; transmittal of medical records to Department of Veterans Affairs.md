@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—(1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whosedischarge or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
+Requirement.—(1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whose discharge or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
 
 (2) In carrying out this section, the Secretary concerned shall use the services available under section 1144 of this title.
 
@@ -32,7 +32,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;&emsp;(C) Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program.
 
-&emsp;(5) If the member has a spouse, inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs.
+&emsp;(5) If the member has a spouse, inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of informationon survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs.
 
 &emsp;(6) Information concerning the availability of relocation assistance services and other benefits and services available to persons leaving military service, as provided under section 1144 of this title.
 
@@ -130,7 +130,7 @@ Pub. L. 112–56, title II, §221(c), Nov. 21, 2011, 125 Stat. 716, provided tha
 
 #### Application of Preseparation Counseling Requirements to Coast Guard
 
-Pub. L. 103–337, div. A, title V, §543(a), Oct. 5, 1994, 108 Stat. 2769, provided that: "As soon as possible after thedate of the enactment of this Act \[Oct. 5, 1994\], the Secretary of Transportation shall implement the requirements of section 1142 of title 10, United States Code, for the Coast Guard."
+Pub. L. 103–337, div. A, title V, §543(a), Oct. 5, 1994, 108 Stat. 2769, provided that: "As soon as possible after the date of the enactment of this Act \[Oct. 5, 1994\], the Secretary of Transportation shall implement the requirements of section 1142 of title 10, United States Code, for the Coast Guard."
 
 #### Limitation on Funding To Carry Out Section 543 of Pub. L. 103–337
 

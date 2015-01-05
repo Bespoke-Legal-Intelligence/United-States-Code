@@ -52,7 +52,7 @@ Any allotments approved pursuant to this section during the four years following
 
 &emsp;(A) the application—
 
-&emsp;&emsp;(i) describes land selected by or conveyed by interim conveyance or patent to a Native Corporation formed to receive benefits under this chapter; or
+&emsp;&emsp;(i) describes land selected by or conveyed by interim conveyance or patent to a NativeCorporation formed to receive benefits under this chapter; or
 
 &emsp;&emsp;(ii) otherwise conflicts with an interest in land granted to a Native Corporation by the United States;
 
@@ -72,7 +72,7 @@ Any allotments approved pursuant to this section during the four years following
 
 (3)(A) On obtaining title evidence acceptable under Department of Justice title standards and acceptance of a reconveyance or relinquishment from a Native Corporation under paragraph (1), the Secretary shall issue a Native allotment certificate to the applicant for the land reconveyed or relinquished by the Native Corporation.
 
-(B) Any allotment revised under this section shall, when allotted, be made subject to anyeasement, trail, right-of-way, or any third-party interest (other than a fee interest) in existence on the revised allotment land on the date of revision.
+(B) Any allotment revised under this section shall, when allotted, be made subject to any easement, trail, right-of-way, or any third-party interest (other than a fee interest) in existence on the revised allotment land on the date of revision.
 
 #### (f) Reinstatements and reconstructions
 
@@ -118,7 +118,7 @@ In General.—In lieu of the process for the correction of conveyance documents 
 
 "(b)
 
-Certificate of Allotment.—If the United States determines that the allotment application is valid or would have been approved under section 905 of the Alaska National Interests Lands Conservation Act (42 U.S.C. 1634) had the land described in the allotment application been in Federal ownership on December 2, 1980, and obtains title evidence acceptable under the Department of Justice title standards, the United States shall accept the deed from the Native Corporation and issue a certificate of allotment to the allotment applicant.
+Certificate of Allotment.—If the United States determines that the allotment application is valid or would have been approved under section 905 of the Alaska National Interests Lands Conservation Act (42 U.S.C. 1634) had the land described in the allotmentapplication been in Federal ownership on December 2, 1980, and obtains title evidence acceptable under the Department of Justice title standards, the United States shall accept the deed from the Native Corporation and issue a certificate of allotment to the allotment applicant.
 
 "(c)
 

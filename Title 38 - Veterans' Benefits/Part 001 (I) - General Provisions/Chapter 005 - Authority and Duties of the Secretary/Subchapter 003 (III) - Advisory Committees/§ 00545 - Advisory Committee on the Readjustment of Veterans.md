@@ -282,7 +282,7 @@ Procurement of Temporary and Intermittent Services.—The chairman of the Commis
 
 "(a)
 
-In General.—The Secretary of Defense shall, upon the request of the chairman of the Commission, make available to the Commission such amounts as theCommission may require to carry out its duties under this title. The Secretary shall make such amounts available from amounts appropriated for the Department of Defense, except that such amounts may not be from amounts appropriated for the transition assistance program (TAP), the Army career alumni program (ACAP), or any similar program.
+In General.—The Secretary of Defense shall, upon the request of the chairman of the Commission, make available to the Commission such amounts as the Commission may require to carry out its duties under this title. The Secretary shall make such amounts available from amounts appropriated for the Department of Defense, except that such amounts may not be from amounts appropriated for the transition assistance program (TAP), the Army career alumni program (ACAP), or any similar program.
 
 "(b)
 

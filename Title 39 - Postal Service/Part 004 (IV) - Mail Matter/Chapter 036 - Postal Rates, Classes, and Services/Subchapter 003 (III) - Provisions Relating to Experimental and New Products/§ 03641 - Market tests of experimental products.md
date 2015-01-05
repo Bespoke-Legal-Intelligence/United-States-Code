@@ -118,7 +118,7 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 
 #### Rate Change Request Made on September 18, 1975, or Under Docket Number R76–1
 
-Pub. L. 94–421, §6(b)(1), Sept. 24, 1976, 90 Stat. 1307, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall not applyto any action or proceeding with respect to the recommended decision of the Postal Rate Commission \[now Postal Regulatory Commission\] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1."
+Pub. L. 94–421, §6(b)(1), Sept. 24, 1976, 90 Stat. 1307, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission \[now Postal Regulatory Commission\] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1."
 
 #### Applicability of Former Provisions of Section to Rate Change Request Made on September 18, 1975, Under Docket Number R76–1
 

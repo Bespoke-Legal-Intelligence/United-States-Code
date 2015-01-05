@@ -18,7 +18,7 @@ Based on title 28, U.S.C., 1940 ed., §400 (Mar. 3, 1911, ch. 231, §274d, as ad
 
 This section is based on the first paragraph of section 400 of title 28, U.S.C., 1940 ed. Other provisions of such section are incorporated in section 2202 of this title.
 
-While this section does not exclude declaratory judgments with respect to State taxes, such suits will not ordinarily be entertained in the courts of the United States where State law makes provision for payment under protest and recovery back or otherwise affords adequate remedy in the State courts. See <i>Great Lakes Dredge \& Dock Co. v. Huffman</i>, La. 1943, 63 S.Ct. 1070, 319 U.S. 293, 87 L.Ed. 1407. See also <i>Spector Motor Service v. McLaughlin</i>, Conn. 1944, 65 S.Ct. 152, 323 U.S. 101, 89 L.Ed. 101. See also section 1341 of this title forbidding district courts to restrain enforcements of State taxes where State courts afford plain, speedy, and efficient remedy.
+While this section does not exclude declaratory judgments with respect to State taxes, such suits will not ordinarily be entertained in the courts of the United States where State law makes provision for payment under protest and recovery back or otherwise affords adequate remedy in the State courts. See <i>Great Lakes Dredge \& Dock Co. v. Huffman</i>, La. 1943, 63 S.Ct. 1070, 319 U.S. 293, 87 L.Ed. 1407. See also <i>Spector Motor Service v. McLaughlin</i>, Conn. 1944, 65 S.Ct. 152, 323 U.S. 101, 89 L.Ed. 101. See also section 1341 of this title forbidding district courts to restrain enforcements of State taxeswhere State courts afford plain, speedy, and efficient remedy.
 
 Changes were made in phraseology.
 

@@ -58,7 +58,7 @@
 
 |  |  |
 | :--- | ---: |
-| [12565\.](Subchapter%20001%20%28I%29%20-%20National%20and%20Community%20Service%20State%20Grant%20Program/Division%20B%20-%20School-Based%20and%20Community-Based%20Service-Learning%20Programs/Part%20004%20%28IV%29%20-%20Service-Learning%20Impact%20Study/%C2%A7%2012565%20-%20Study%20and%20report.md) | Study and report. |
+| [12565\.](Subchapter%20001%20%28I%29%20-%20National%20and%20Community%20Service%20State%20Grant%20Program/Division%20B%20-%20School-Based%20and%20Community-Based%20Service-Learning%20Programs/Part%20004%20%28IV%29%20-%20Repealed/%C2%A7%2012565%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93188%2C%20title%20III%2C%20%C2%A7301%28a%29%2C%20Nov.%2026%2C%202014%2C%20128%20Stat.%202018.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

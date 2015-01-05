@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 110–389, §317(b), added subsec. (c).
 
 Subsec. (b). Pub. L. 105–368 redesignated subsec. (a)(3) as (b), substituted "subsection (a)" for "paragraph (1)", and struck out former subsec. (b) which read as follows: "The first study under this section shall be completed not later than 180 days after the date of the enactment of this section."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary, through the Bureau of Labor Statistics, shall conduct, on a biennial basis, studies of unemployment among special disabled veterans andamong veterans who served in the Vietnam Theater of Operations during the Vietnam era and promptly report to the Congress on the results of such studies."
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary, through the Bureau of Labor Statistics, shall conduct, on a biennial basis, studies of unemployment among special disabled veterans and among veterans who served in the Vietnam Theater of Operations during the Vietnam era and promptly report to the Congress on the results of such studies."
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 2010A of this title as this section.
 

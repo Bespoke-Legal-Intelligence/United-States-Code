@@ -28,5 +28,5 @@ Restriction.—A project referred to in subsection (a) may not include the acqui
 
 #### Construction of 2006 Amendment
 
-Pub. L. 109–163, div. B, title XXVIII, §2805(c), Jan. 6, 2006, 119 Stat. 3507, provided that: "Nothing in theamendment made by subsection (a) \[amending this section\] may be construed to alter any law and regulation applicable to the operation of a child development center, as defined in section 2871(2) of title 10, United States Code."
+Pub. L. 109–163, div. B, title XXVIII, §2805(c), Jan. 6, 2006, 119 Stat. 3507, provided that: "Nothing in the amendment made by subsection (a) \[amending this section\] may be construed to alter any law and regulation applicable to the operation of a child development center, as defined in section 2871(2) of title 10, United States Code."
 

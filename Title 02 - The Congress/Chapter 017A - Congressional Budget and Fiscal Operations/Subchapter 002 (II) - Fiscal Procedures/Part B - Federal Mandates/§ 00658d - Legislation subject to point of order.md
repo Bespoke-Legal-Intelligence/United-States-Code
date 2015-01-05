@@ -12,7 +12,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;&emsp;(B) the bill, joint resolution, amendment, motion, or conference report includes an authorization for appropriations in an amount equal to or exceeding the direct costs of such mandate, and—
 
-&emsp;&emsp;&emsp;(i) identifies a specific dollar amount of the direct costs of such mandate for each year up to 10 years during which such mandate shall be in effect under the bill, joint resolution, amendment, motion or conference report, and such estimate is consistent with the estimate determined under subsection (e) of this section for each fiscal year;
+&emsp;&emsp;&emsp;(i) identifies a specific dollar amount of the direct costs of such mandate for each year up to 10 years during which such mandate shall be in effect under the bill, joint resolution, amendment, motion or conference report, and such estimate is consistent with the estimate determined under subsection (e) for each fiscal year;
 
 &emsp;&emsp;&emsp;(ii) identifies any appropriation bill that is expected to provide for Federal funding of the direct cost referred to under clause (i); and
 
@@ -22,7 +22,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;&emsp;&emsp;&emsp;(bb) legislative recommendations for either implementing a less costly mandate or making such mandate ineffective for the fiscal year;
 
-&emsp;&emsp;&emsp;(II) provides for expedited procedures for the consideration of the statement or legislative recommendations referred to in subclause (I) by Congress no later than 30 days after the statement or recommendations are submitted to Congress; and
+&emsp;&emsp;&emsp;(II) provides for expedited procedures for the consideration of the statement or legislative recommendations referred to insubclause (I) by Congress no later than 30 days after the statement or recommendations are submitted to Congress; and
 
 &emsp;&emsp;&emsp;(III) provides that such mandate shall—
 
@@ -34,13 +34,13 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 #### (b) Rule of construction
 
-The provisions of subsection (a)(2)(B)(iii) of this section shall not be construed to prohibit or otherwise restrict a State, local, or tribal government from voluntarily electing to remain subject to the original Federal intergovernmental mandate, complying with the programmatic or financial responsibilities of the original Federal intergovernmental mandate and providing the funding necessary consistent with the costs of Federal agency assistance, monitoring, and enforcement.
+The provisions of subsection (a)(2)(B)(iii) shall not be construed to prohibit or otherwise restrict a State, local, or tribal government from voluntarily electing to remain subject to the original Federal intergovernmental mandate, complying with the programmatic or financial responsibilities of the original Federal intergovernmental mandate and providing the funding necessary consistent with the costs of Federal agency assistance, monitoring, and enforcement.
 
 #### (c) Committee on Appropriations
 
 #### (1) Application
 
-&emsp;The provisions of subsection (a) of this section—
+&emsp;The provisions of subsection (a)—
 
 &emsp;&emsp;(A) shall not apply to any bill or resolution reported by the Committee on Appropriations of the Senate or the House of Representatives; except
 

@@ -156,7 +156,7 @@ Updates.—Not later than March 15 of 2008, 2009, and 2010, the Secretary shall 
 
 "(c)
 
-Report on Reuse Standards and Principles.—Not later than March 1, 2007, the Secretary of Defenseshall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the efforts of the Department of Defense to achieve agreement with relevant regulatory agencies on appropriate reuse standards or principles, including—
+Report on Reuse Standards and Principles.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the efforts of the Department of Defense to achieve agreement with relevant regulatory agencies on appropriate reuse standards or principles, including—
 
 &emsp;"(1) a description of any standards or principles that have been agreed upon; and
 

@@ -50,7 +50,7 @@ Other Exceptions.—Under regulations and restrictions the Administrator may pre
 
 &emsp;(2) scientific equipment furnished under section 11(e) of the National Science Foundation Act of 1950 (42 U.S.C. 1870(e));
 
-&emsp;(3) property furnished under section 203 of the Department of Agriculture Organic Act of1944 (16 U.S.C. 580a), in connection with the Cooperative Forest Fire Control Program, if the Government retains title; or
+&emsp;(3) property furnished under section 203 of the Department of Agriculture Organic Act of 1944 (16 U.S.C. 580a), in connection with the Cooperative Forest Fire Control Program, if the Government retains title; or
 
 &emsp;(4) property furnished in connection with a grant to a tribe, as defined in section 3(c) of the Indian Financing Act of 1974 (25 U.S.C. 1452(c)).
 

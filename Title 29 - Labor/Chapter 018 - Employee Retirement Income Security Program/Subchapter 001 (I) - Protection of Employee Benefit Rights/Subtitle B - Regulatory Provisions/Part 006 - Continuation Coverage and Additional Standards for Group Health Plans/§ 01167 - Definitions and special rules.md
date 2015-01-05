@@ -14,7 +14,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified beneficiary" means, with respect to a covered employee under a group health plan, any other individual who, on the day before the qualifying event for that employee, is a beneficiary under the plan—
+&emsp;&emsp;The term "qualified beneficiary" means, with respect to a covered employee under agroup health plan, any other individual who, on the day before the qualifying event for that employee, is a beneficiary under the plan—
 
 &emsp;&emsp;&emsp;(i) as the spouse of the covered employee, or
 
@@ -92,7 +92,7 @@ Amendment by section 7891(d)(2)(B)(i) of Pub. L. 101–239 applicable with respe
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988, but not applicable to any plan for any plan year to which section 162(k) of Title 26, Internal Revenue Code (as in effect on the day before Nov. 10, 1988) did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as a note under section 162 of Title 26.
+Amendment by Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988, but not applicableto any plan for any plan year to which section 162(k) of Title 26, Internal Revenue Code (as in effect on the day before Nov. 10, 1988) did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as a note under section 162 of Title 26.
 
 #### Effective Date of 1986 Amendments
 

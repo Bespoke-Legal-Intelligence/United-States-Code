@@ -6,7 +6,7 @@ Within the boundaries of the recreation area, the Secretary may acquire lands an
 
 #### (b) Transfer from Federal agency to administrative jurisdiction of Secretary
 
-With the concurrence of the agency having custody thereof, any Federal property withinthe boundaries of the recreation area may be transferred, without consideration, to the administrative jurisdiction of the Secretary for administration as a part of the recreation area.
+With the concurrence of the agency having custody thereof, any Federal property within the boundaries of the recreation area may be transferred, without consideration, to the administrative jurisdiction of the Secretary for administration as a part of the recreation area.
 
 #### (c) Breezy Point Unit; public use and access; agreement for use of lands for single-family residential community; specific provisions; Rockaway parking lot conveyance
 
@@ -20,7 +20,7 @@ Within the Breezy Point Unit, (1) the Secretary shall acquire an adequate intere
 
 (2) If a valid, enforceable agreement is executed pursuant to paragraph (1) of this subsection, the authority of the Secretary to acquire any interest in the property subject to the agreement, except for the beach property, shall be suspended.
 
-(3) The Secretary is authorized to accept by donation from the city of New York any right, title, or interest which it holds in the parking lot at Rockaway which is part of the Marine Bridge project at Riis Park. Nothing herein shall be deemed to authorize the United States to extinguish any present or future encumbrance or to authorize the State of New York or any political subdivision or agency thereof to further encumber any interest in the property so conveyed.
+(3) The Secretary is authorized to accept by donation from the city of New York any right,title, or interest which it holds in the parking lot at Rockaway which is part of the Marine Bridge project at Riis Park. Nothing herein shall be deemed to authorize the United States to extinguish any present or future encumbrance or to authorize the State of New York or any political subdivision or agency thereof to further encumber any interest in the property so conveyed.
 
 #### (d) Jamaica Bay Unit; Broad Channel Community; title acceptance conditions
 

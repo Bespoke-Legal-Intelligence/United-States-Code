@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term "alternative mortgage transaction" means a loan or credit sale secured by an interest in residential real property, a dwelling, all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a residential manufactured home (as that term is defined in section 5402(6) of title 42), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined by applicable regulation; and
+&emsp;(1) the term "alternative mortgage transaction" means a loan or credit sale secured byan interest in residential real property, a dwelling, all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a residential manufactured home (as that term is defined in section 5402(6) of title 42), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined by applicable regulation; and
 
 &emsp;(2) the term "housing creditor" means—
 
@@ -38,7 +38,7 @@ The National Housing Act, referred to in par. (2)(B), is act June 27, 1934, ch. 
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title X, §1083(b), July 21, 2010, 124 Stat. 2081, provided that: "This section \[amending thissection and section 3803 of this title and enacting provisions set out as a note under this section\] and the amendments made by this section shall become effective on the designated transfer date."
+Pub. L. 111–203, title X, §1083(b), July 21, 2010, 124 Stat. 2081, provided that: "This section \[amending this section and section 3803 of this title and enacting provisions set out as a note under this section\] and the amendments made by this section shall become effective on the designated transfer date."
 
 \[For definition of "designated transfer date", see section 5481 of this title.\]
 

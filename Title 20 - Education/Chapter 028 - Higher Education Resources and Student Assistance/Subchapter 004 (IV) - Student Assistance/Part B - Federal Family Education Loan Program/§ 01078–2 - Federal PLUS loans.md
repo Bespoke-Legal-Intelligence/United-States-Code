@@ -62,7 +62,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;&emsp;(B)(i) in the case of a parent borrower, upon the request of the parent borrower, during the 6-month period beginning on the later of—
 
-&emsp;&emsp;&emsp;(I) the day after the date the student on whose behalf the loan was borrowed ceasesto carry at least one-half the normal full-time academic workload (as determined by the institution); or
+&emsp;&emsp;&emsp;(I) the day after the date the student on whose behalf the loan was borrowed ceases to carry at least one-half the normal full-time academic workload (as determined by the institution); or
 
 &emsp;&emsp;&emsp;(II) if the parent borrower is also a student, the day after the date such parent borrower ceases to carry at least one-half such a workload; and
 
@@ -138,7 +138,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 #### Prior Provisions
 
-A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94 Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -214,7 +214,7 @@ Subsec. (c)(2). Pub. L. 100–50, §10(o)(1), (2)(C), (q), in introductory provi
 
 Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted "at any time" after "eligible lender may" in first sentence, substituted "the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)" for "the borrower complies with the requirements of paragraph (2)" in second sentence, and inserted "(if required by them)" after "shall be reported" in third sentence.
 
-Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted "under this section before July 1, 1987, or" before "under this section" and substituted "to reissue a loan or loans" for "to reissue a loan" and "reissuing such loan or loans" for "reissuing such loan".
+Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted "under this section before July 1, 1987, or" before"under this section" and substituted "to reissue a loan or loans" for "to reissue a loan" and "reissuing such loan or loans" for "reissuing such loan".
 
 Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted "October 1, 1987" for "January 1, 1987" and, in subpar. (B), inserted "and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples" before semicolon at end.
 

@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 #### (b) Payments to minors or persons under legal disability
 
-Sums payable to enrollees or their heirs or legatees who are less than eighteen years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interest of such persons.
+Sums payable to enrollees or their heirs or legatees who are less than eighteen years of ageor who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interest of such persons.
 
 (Pub. L. 92–309, §7, June 2, 1972, 86 Stat. 200.)
 

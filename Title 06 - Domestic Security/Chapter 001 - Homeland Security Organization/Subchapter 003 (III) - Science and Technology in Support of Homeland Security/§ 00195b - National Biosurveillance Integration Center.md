@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the “NBIC”), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007.
+The Secretary shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the "NBIC"), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007.
 
 #### (b) Primary mission
 
@@ -44,7 +44,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;&emsp;(C) receive and consider other relevant homeland security information, as appropriate; and
 
-&emsp;&emsp;(D) provide technical assistance, as appropriate, to all Federal, regional, State, local,and tribal government entities and private sector entities that contribute data relevant to the operation of the NBIC.
+&emsp;&emsp;(D) provide technical assistance, as appropriate, to all Federal, regional, State, local, and tribal government entities and private sector entities that contribute data relevant to the operation of the NBIC.
 
 #### (2) Assessments
 
@@ -62,7 +62,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;&emsp;&emsp;(i) establish a method of real-time communication with the National Operations Center;
 
-&emsp;&emsp;&emsp;(ii) in the event that a biological event of national concern is detected, notify the Secretary and disseminate results of NBIC assessments relating to that biological event of national concern to appropriate Federal response entities and, in coordination with relevant Member Agencies, regional, State, local, and tribal governmental response entities in a timely manner;
+&emsp;&emsp;&emsp;(ii) in the event that a biological event of national concern is detected, notify theSecretary and disseminate results of NBIC assessments relating to that biological event of national concern to appropriate Federal response entities and, in coordination with relevant Member Agencies, regional, State, local, and tribal governmental response entities in a timely manner;
 
 &emsp;&emsp;&emsp;(iii) provide any report on NBIC assessments to Member Agencies and, in coordination with relevant Member Agencies, any affected regional, State, local, or tribal government, and any private sector entity considered appropriate that may enhance the mission of such Member Agencies, governments, or entities or the ability of the Nation to respond to biological events of national concern; and
 
@@ -122,25 +122,25 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 In this section:
 
-&emsp;(1) The terms “biological agent” and “toxin” have the meanings given those terms in section 178 of title 18.
+&emsp;(1) The terms "biological agent" and "toxin" have the meanings given those terms in section 178 of title 18.
 
-&emsp;(2) The term “biological event of national concern” means—
+&emsp;(2) The term "biological event of national concern" means—
 
 &emsp;&emsp;(A) an act of terrorism involving a biological agent or toxin; or
 
 &emsp;&emsp;(B) a naturally occurring outbreak of an infectious disease that may result in a national epidemic.
 
-&emsp;(3) The term “homeland security information” has the meaning given that term in section 482 of this title.
+&emsp;(3) The term "homeland security information" has the meaning given that term in section 482 of this title.
 
-&emsp;(4) The term “Member Agency” means any Federal department or agency that, at the discretion of the head of that department or agency, has entered a memorandum of understanding regarding participation in the NBIC.
+&emsp;(4) The term "Member Agency" means any Federal department or agency that, at the discretion of the head of that department or agency, has entered a memorandum of understanding regarding participation in the NBIC.
 
-&emsp;(5) The term “Privacy Officer” means the Privacy Officer appointed under section 142 of this title.
+&emsp;(5) The term "Privacy Officer" means the Privacy Officer appointed under section 142 of this title.
 
 (Pub. L. 107–296, title III, §316, as added Pub. L. 110–53, title XI, §1101(a), Aug. 3, 2007, 121 Stat. 375.)
 
 #### Deadline for Implementation
 
-Pub. L. 110–53, title XI, §1101(c), Aug. 3, 2007, 121 Stat. 378, provided that: “The National Biosurveillance Integration Center under section 316 of the Homeland Security Act \[of 2002, 6 U.S.C. 195b\], as added by subsection (a), shall be fully operational by not later than September 30, 2008.”
+Pub. L. 110–53, title XI, §1101(c), Aug. 3, 2007, 121 Stat. 378, provided that: "The National Biosurveillance Integration Center under section 316 of the Homeland Security Act \[of 2002, 6 U.S.C. 195b\], as added by subsection (a), shall be fully operational by not later than September 30, 2008."
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

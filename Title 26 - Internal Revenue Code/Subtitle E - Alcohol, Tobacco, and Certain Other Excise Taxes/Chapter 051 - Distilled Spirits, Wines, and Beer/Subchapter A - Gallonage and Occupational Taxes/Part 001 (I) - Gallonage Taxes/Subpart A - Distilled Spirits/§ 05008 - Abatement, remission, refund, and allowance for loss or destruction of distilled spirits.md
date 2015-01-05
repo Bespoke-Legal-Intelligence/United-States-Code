@@ -24,7 +24,7 @@
 
 #### (3) Refund of tax
 
-&emsp;In any case where the tax would not be collectible by virtue of paragraph (1), but suchtax has been paid, the Secretary shall refund such tax.
+&emsp;In any case where the tax would not be collectible by virtue of paragraph (1), but such tax has been paid, the Secretary shall refund such tax.
 
 #### (4) Limitations
 
@@ -50,7 +50,7 @@ The proprietor of the distilled spirits plant or other persons liable for the ta
 
 #### (d) Distilled spirits withdrawn without payment of tax
 
-The provisions of subsection (a) shall be applicable to loss of distilled spirits occurring during transportation from bonded premises of a distilled spirits plant to—
+The provisions of subsection (a) shall be applicable to loss of distilled spirits occurring duringtransportation from bonded premises of a distilled spirits plant to—
 
 &emsp;(1) the port of export, in case of withdrawal under section 5214(a)(4);
 

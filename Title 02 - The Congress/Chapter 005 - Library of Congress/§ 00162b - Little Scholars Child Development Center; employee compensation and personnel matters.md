@@ -4,7 +4,7 @@
 
 (1) This subsection shall apply to any individual who—
 
-&emsp;(A) is employed by the Library of Congress Child Development Center (known as the “Little Scholars Child Development Center”, in this section referred to as the “Center”) established under section 205(g)(1) of the Legislative Branch Appropriations Act, 1991; and
+&emsp;(A) is employed by the Library of Congress Child Development Center (known as the "Little Scholars Child Development Center", in this section referred to as the "Center") established under section 205(g)(1) of the Legislative Branch Appropriations Act, 1991; and
 
 &emsp;(B) makes an election to be covered by this subsection with the Librarian of Congress, not later than the later of—
 
@@ -16,7 +16,7 @@
 
 (B) An individual described under paragraph (1) shall be credited under section 8411 of title 5 for any service as an employee of the Center on or after December 21, 2000, if such employee has such amounts deducted and withheld from his pay as determined by the Office of Personnel Management which would be deducted and withheld from the basic pay of an employee under section 8422 of title 5.
 
-(3) Notwithstanding any other provision of this subsection, any service performed by an individual described under paragraph (1) as an employee of the Center is deemed to be civilian service creditable under section 8411 of title 5 for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to section 8422 of title 5 for such period so credited, together with interest thereon.
+(3) Notwithstanding any other provision of this subsection, any service performed by an individual described under paragraph (1) as an employee of the Center is deemed to be civilianservice creditable under section 8411 of title 5 for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to section 8422 of title 5 for such period so credited, together with interest thereon.
 
 (4) An individual described under paragraph (1) shall be deemed an employee for purposes of chapter 84 of title 5, including subchapter III of such title,<sup>1</sup> and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after the date such individual elects coverage under this section.
 
@@ -50,7 +50,7 @@ The Center shall—
 
 &emsp;(1) pay to the Library of Congress funds sufficient to cover the gross salary and the employer's share of taxes under section 3111 of title 26 for Center employees, in amounts computed by the Library of Congress;
 
-&emsp;(2) as required by the Library of Congress, reimburse the Library of Congress for reasonable administrative costs incurred under subsection (e)(1) of this section;
+&emsp;(2) as required by the Library of Congress, reimburse the Library of Congress for reasonable administrative costs incurred under subsection (e)(1);
 
 &emsp;(3) comply with regulations and procedures prescribed by the Librarian of Congress for administration of this section;
 
@@ -68,7 +68,7 @@ The Librarian of Congress may prescribe regulations to carry out this section.
 
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under section 141 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “chapter,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "chapter,".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of title 5”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "of title 5".</i>
 

@@ -1,6 +1,6 @@
 ### §4315. Overtime pay for FBI employees detailed to House Committee on Appropriations
 
-The Federal Bureau of Investigation, notwithstanding any other provision of law, may in anyfiscal year pay all administrative uncontrollable overtime accrued by its employees while on detail to the Committee on Appropriations.
+The Federal Bureau of Investigation, notwithstanding any other provision of law, may in any fiscal year pay all administrative uncontrollable overtime accrued by its employees while on detail to the Committee on Appropriations.
 
 (Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1430.)
 

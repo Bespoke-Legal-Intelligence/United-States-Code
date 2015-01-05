@@ -2,7 +2,7 @@
 
 #### (a) Authority of Federal Energy Administrator to request, acquire, and collect energy information; rules and regulations
 
-For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\].<sup>1</sup> The Federal Energy Administrator shallpromptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
+For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\].<sup>1</sup> The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
 
 #### (b) Powers of Federal Energy Administrator in obtaining energy information; verification of accuracy; compliance orders
 
@@ -54,13 +54,13 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;&emsp;(iv) of LPG by State and owner: quantities stored, and existing capacities, and previous priorities on types, inventories of suppliers, and changes in supplier inventories.
 
-(3) In order to carry out his responsibilities under subsection (a) of this section, the Federal Energy Administrator shall require, pursuant to subsection (b)(1)(A) of this section, that persons engaged, in whole or in part, in the production of crude oil or natural gas—
+(3) In order to carry out his responsibilities under subsection (a) of this section, the FederalEnergy Administrator shall require, pursuant to subsection (b)(1)(A) of this section, that persons engaged, in whole or in part, in the production of crude oil or natural gas—
 
 &emsp;(A) keep energy information in accordance with the accounting practices developed pursuant to section 503 of the Energy Policy and Conservation Act \[42 U.S.C. 6383\], and
 
 &emsp;(B) submit reports with respect to energy information kept in accordance with such practices.
 
-> The Administrator shall file quarterly reports with the President and the Congress compiled from accounts kept in accordance with such section 503 and submitted to the Administrator in accordance with this paragraph. Such reports shall present energy information in the categories specified in subsection (c) of such section 503 to the extent that such information may becompiled from such accounts. Such energy information shall be collected and such quarterly reports made for each calendar quarter which begins 6 months after the date on which the accounting practices developed pursuant to such section 503 are made effective.
+> The Administrator shall file quarterly reports with the President and the Congress compiled from accounts kept in accordance with such section 503 and submitted to the Administrator in accordance with this paragraph. Such reports shall present energy information in the categories specified in subsection (c) of such section 503 to the extent that such information may be compiled from such accounts. Such energy information shall be collected and such quarterly reports made for each calendar quarter which begins 6 months after the date on which the accounting practices developed pursuant to such section 503 are made effective.
 
 #### (d) Confidential information
 
@@ -114,7 +114,7 @@ Pub. L. 94–163, title V, §505(b), Dec. 22, 1975, 89 Stat. 960, provided that:
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
+Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) bysections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

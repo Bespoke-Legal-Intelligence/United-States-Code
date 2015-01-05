@@ -34,7 +34,7 @@ If, within twenty years after the completion of any construction (except minor r
 
 &emsp;(2) the institution ceases to be the owner of the facility,
 
-> the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.
+> the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determinedby agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.
 
 (Pub. L. 99–371, title I, §112, formerly title II, §202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, §112, and amended Pub. L. 102–421, title I, §§101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §§202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734; Pub. L. 105–244, title IX, §914, Oct. 7, 1998, 112 Stat. 1830; Pub. L. 110–315, title IX, §903, Aug. 14, 2008, 122 Stat. 3451.)
 

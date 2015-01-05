@@ -6,5 +6,5 @@ The cost accounting standards issued pursuant to section 1502(a) and (b) of titl
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350 substituted “section 1502(a) and (b) of title 41” for “section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f))”.
+<b>2011</b>—Pub. L. 111–350 substituted "section 1502(a) and (b) of title 41" for "section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f))".
 

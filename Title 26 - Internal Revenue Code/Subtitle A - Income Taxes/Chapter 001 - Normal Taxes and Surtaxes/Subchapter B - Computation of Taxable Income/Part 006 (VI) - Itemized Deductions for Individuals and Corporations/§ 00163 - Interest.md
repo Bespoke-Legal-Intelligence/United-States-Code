@@ -92,7 +92,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (E) Reduction in investment income during phase-in of passive loss rules
 
-&emsp;&emsp;Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
+&emsp;&emsp;Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m).<sup>1</sup> The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
 
 #### (5) Property held for investment
 
@@ -117,51 +117,6 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 #### (C) Terms
 
 &emsp;&emsp;For purposes of this paragraph, the terms "activity", "passive activity", and "materially participate" have the meanings given such terms by section 469.
-
-#### (6) Phase-in of disallowance
-
-&emsp;In the case of any taxable year beginning in calendar years 1987 through 1990—
-
-#### (A) In general
-
-&emsp;&emsp;The amount of interest paid or accrued during any such taxable year which is disallowed under this subsection shall not exceed the sum of—
-
-&emsp;&emsp;&emsp;(i) the amount which would be disallowed under this subsection if—
-
-&emsp;&emsp;&emsp;&emsp;(I) paragraph (1) were applied by substituting "the sum of the ceiling amount and the net investment income" for "the net investment income", and
-
-&emsp;&emsp;&emsp;&emsp;(II) paragraphs (4)(E) and (5)(A)(ii) did not apply, and
-
-&emsp;&emsp;&emsp;(ii) the applicable percentage of the excess of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the amount which (without regard to this paragraph) is not allowable as a deduction under this subsection for the taxable year, over
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount described in clause (i).
-
-> &emsp;&emsp;The preceding sentence shall not apply to any interest treated as paid or accrued during the taxable year under paragraph (2).
-
-#### (B) Applicable percentage
-
-&emsp;&emsp;For purposes of this paragraph, the applicable percentage shall be determined in accordance with the following table:
-
-&nbsp;
-
-| <b>  In the case of taxable    years beginning in:</b> | <b>The applicable percentage is:</b> |
-| :--- | ---: |
-| &nbsp;&nbsp;&nbsp;&nbsp;1987 | 35&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;1988 | 60&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;1989 | 80&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;1990 | 90\. |
-
-#### (C) Ceiling amount
-
-&emsp;&emsp;For purposes of this paragraph, the term "ceiling amount" means—
-
-&emsp;&emsp;&emsp;(i) $10,000 in the case of a taxpayer not described in clause (ii) or (iii),
-
-&emsp;&emsp;&emsp;(ii) $5,000 in the case of a married individual filing a separate return, and
-
-&emsp;&emsp;&emsp;(iii) zero in the case of a trust.
 
 #### (e) Original issue discount
 
@@ -255,7 +210,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (ii) Definitions
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "disqualified yield" means the excess of the yield to maturity on the obligation over the sum referred to <sup>1</sup> subsection (i)(1)(B) plus 1 percentage point, and the term "total return" is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "disqualified yield" means the excess of the yield to maturity on the obligation over the sum referred to <sup>2</sup> subsection (i)(1)(B) plus 1 percentage point, and the term "total return" is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
 
 #### (D) Exception for S corporations
 
@@ -313,7 +268,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;Clauses (ii) and (iii) of subparagraph (A) shall not apply to any obligation if—
 
-&emsp;&emsp;&emsp;(i) such obligation is of a type which the Secretary has determined by regulationsto be used frequently in avoiding Federal taxes, and
+&emsp;&emsp;&emsp;(i) such obligation is of a type which the Secretary has determined by regulations to be used frequently in avoiding Federal taxes, and
 
 &emsp;&emsp;&emsp;(ii) such obligation is issued after the date on which the regulations referred to in clause (i) take effect.
 
@@ -371,7 +326,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;&emsp;(II) is secured by such residence.
 
-&emsp;&emsp;&nbsp;Such term also includes any indebtedness secured by such residence resulting from the refinancing of indebtedness meeting the requirements of the preceding sentence (or this sentence); but only to the extent the amount of the indebtedness resulting from such refinancing does not exceed the amount of the refinanced indebtedness.
+&emsp;&emsp;&nbsp;Such term also includes any indebtedness secured by such residence resulting from the refinancing of indebtedness meeting the requirements of the preceding sentence\(or this sentence); but only to the extent the amount of the indebtedness resulting from such refinancing does not exceed the amount of the refinanced indebtedness.
 
 #### (ii) $1,000,000 limitation
 
@@ -439,7 +394,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;Clause (i) shall not apply to amounts—
 
-&emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2013, or
+&emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2014, or
 
 &emsp;&emsp;&emsp;&emsp;(II) properly allocable to any period after such date.
 
@@ -467,7 +422,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (iii) Residence not rented
 
-&emsp;&emsp;&emsp;For purposes of clause (i)(II), notwithstanding section 280A(d)(1), if the taxpayer does not rent a dwelling unit at any time during a taxable year, such unit may be treated as a residence for such taxable year.
+&emsp;&emsp;&emsp;For purposes of clause (i)(II), notwithstanding section 280A(d)(1), if the taxpayerdoes not rent a dwelling unit at any time during a taxable year, such unit may be treated as a residence for such taxable year.
 
 #### (B) Special rule for cooperative housing corporations
 
@@ -491,11 +446,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (F) Special rules for prepaid qualified mortgage insurance
 
-&emsp;&emsp;Any amount paid by the taxpayer for qualified mortgage insurance that is properly allocable to any mortgage the payment of which extends to periods that are after the close of the taxable year in which such amount is paid shall be chargeable to capital account and shall be treated as paid in such periods to which so allocated. No deduction shall be allowed for the unamortized balance of such account if such mortgage is satisfied before the end of its term. The preceding sentences shall not apply to amounts paid for qualified mortgage insurance provided by the Veterans Administration or the Rural Housing Administration.
-
-#### (5) Phase-in of limitation
-
-&emsp;In the case of any taxable year beginning in calendar years 1987 through 1990, the amount of interest with respect to which a deduction is disallowed under this subsection shall be equal to the applicable percentage (within the meaning of subsection (d)(6)(B)) of the amount which (but for this paragraph) would have been so disallowed.
+&emsp;&emsp;Any amount paid by the taxpayer for qualified mortgage insurance that is properly allocable to any mortgage the payment of which extends to periods that are after the close of the taxable year in which such amount is paid shall be chargeable to capital account and shall be treated as paid in such periods to which so allocated. No deduction shall be allowed for the unamortized balance of such account if such mortgage is satisfied before the end of its term. The preceding sentences shall not apply to amounts paid for qualified mortgage insurance provided by the Department of Veterans Affairs or the Rural Housing Service.
 
 #### (i) Applicable high yield discount obligation
 
@@ -539,7 +490,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (4) Debt instrument
 
-&emsp;For purposes of this subsection, the term "debt instrument" means any instrument which is a debt instrument as defined in section 1275(a).
+&emsp;For purposes of this subsection, the term "debt instrument" means any instrumentwhich is a debt instrument as defined in section 1275(a).
 
 #### (5) Regulations
 
@@ -559,7 +510,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (B) Disallowed amount carried to succeeding taxable year
 
-&emsp;&emsp;Any amount disallowed under subparagraph (A) for any taxable year shall be treated as disqualified interest paid or accrued inthe succeeding taxable year (and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated).
+&emsp;&emsp;Any amount disallowed under subparagraph (A) for any taxable year shall be treated as disqualified interest paid or accrued in the succeeding taxable year (and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated).
 
 #### (2) Corporations to which subsection applies
 
@@ -623,7 +574,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "related person" means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "related person" means any personwho is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
 
 #### (B) Special rule for certain partnerships
 
@@ -787,7 +738,7 @@ No deduction shall be allowed under this section for any interest payable under 
 
 #### (m) Interest on unpaid taxes attributable to nondisclosed reportable transactions
 
-No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) <sup>2</sup> is not met.
+No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) <sup>1</sup> is not met.
 
 #### (n) Cross references
 
@@ -801,15 +752,25 @@ No deduction shall be allowed under this chapter for any interest paid or accrue
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1),Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §104(a), title II, §§220(h), 221(a)(25)(A), Dec. 19, 2014, 128 Stat. 4013, 4036, 4040.)
 
 #### References in Text
+
+Section 469(m), referred to in subsec. (d)(4)(E), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(60)(A), Dec. 19, 2014, 128 Stat. 4047.
 
 The date of the enactment of this subparagraph, referred to in subsec. (h)(4)(E)(ii), is the date of enactment of Pub. L. 109–432, which was approved Dec. 20, 2006.
 
 Section 6664(d)(2)(A), referred to in subsec. (m), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(6). Pub. L. 113–295, §221(a)(25)(A)(i), struck out par. (6) which related to phase-in of disallowance.
+
+Subsec. (h)(3)(E)(iv)(I). Pub. L. 113–295, §104(a), substituted "December 31, 2014" for "December 31, 2013".
+
+Subsec. (h)(4)(F). Pub. L. 113–295, §220(h), substituted "Department of Veterans Affairs or the Rural Housing Service" for "Veterans Administration or the Rural Housing Administration".
+
+Subsec. (h)(5). Pub. L. 113–295, §221(a)(25)(A)(ii), struck out par. (5). Text read as follows: "In the case of any taxable year beginning in calendar years 1987 through 1990, the amount of interest with respect to which a deduction is disallowed under this subsection shall be equal to the applicable percentage (within the meaning of subsection (d)(6)(B)) of the amount which (but for this paragraph) would have been so disallowed."
 
 <b>2013</b>—Subsec. (h)(3)(E)(iv)(I). Pub. L. 112–240, §204(a), substituted "December 31, 2013" for "December 31, 2011".
 
@@ -895,7 +856,7 @@ Subsec. (j)(3). Pub. L. 103–66, §13228(a), amended heading and text of par. (
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the term 'disqualified interest' means any interest paid or accrued by the taxpayer (directly orindirectly) to a related person if no tax is imposed by this subtitle with respect to such interest.
+In general.—Except as provided in subparagraph (B), the term 'disqualified interest' means any interest paid or accrued by the taxpayer (directly or indirectly) to a related person if no tax is imposed by this subtitle with respect to such interest.
 
 &emsp;"(B)
 
@@ -1099,9 +1060,11 @@ Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 
 <b>1963</b>—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
 
-#### Change of Name
+#### Effective Date of 2014 Amendment
 
-The Veterans' Administration was redesignated the Department of Veterans Affairs by Pub. L. 100–527 which also provided that references to the Veterans' Administration were deemed to refer to the Department of Veterans Affairs. See sections 2 and 10 of Pub. L. 100–527, set out in a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
+Pub. L. 113–295, div. A, title I, §104(b), Dec. 19, 2014, 128 Stat. 4013, provided that: "The amendment made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2013."
+
+Amendment by section 221(a)(25)(A) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -1249,7 +1212,7 @@ Exceptions.—
 
 &emsp;&emsp;"(iii) the stated redemption price at maturity of the refinancing instrument is not greater than the stated redemption price at maturity of the refinanced instrument, and
 
-&emsp;&emsp;"(iv) the interest payments required under the refinancing instrument before maturity are not less than (and are paid not later than) the interest payments required under the refinanced instrument.
+&emsp;&emsp;"(iv) the interest payments required under the refinancing instrument before maturity are not lessthan (and are paid not later than) the interest payments required under the refinanced instrument.
 
 &emsp;"(D) The amendments made by this section shall not apply to instruments issued after July 10, 1989, pursuant to a reorganization plan in a title 11 or similar case (as defined in section 368(a)(3) of the Internal Revenue Code of 1986) if the amount of proceeds of such instruments, and the maturities of such instruments, do not exceed the amount or maturities specified in the last reorganization plan filed in such case on or before July 10, 1989."
 
@@ -1363,7 +1326,7 @@ Pub. L. 100–647, title I, §1005(c)(14), Nov. 10, 1988, 102 Stat. 3392, provid
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rule for Treatment of Certain Income From S Corporations
 
@@ -1391,7 +1354,7 @@ Election.—The election under subsection (a)(2) shall be made at such time and 
 
 For provision that, for purposes of amendments by section 231(b) of Pub. L. 97–248, any evidence of indebtedness issued pursuant to a written commitment which was binding on July 1, 1982, and at all times thereafter be treated as issued on July 1, 1982, see section 231(e) of Pub. L. 97–248, set out as a note under section 1232A of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "in".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "in".</i>
 

@@ -32,7 +32,7 @@
 
 #### (C) 24-month contracts
 
-&emsp;&emsp;Rental assistance contracts made available with assistance under this subchaptershall be for not more than 24 months, except that assistance to a family may be renewed.
+&emsp;&emsp;Rental assistance contracts made available with assistance under this subchapter shall be for not more than 24 months, except that assistance to a family may be renewed.
 
 #### (D) Use of section 1437f assistance
 
@@ -100,7 +100,7 @@ The requirements of section 3545(d) of this title shall be satisfied by a certif
 
 #### (g) Limitation on operating assistance
 
-A participating jurisdiction may not use more than 5 percent of its allocation under this partfor the payment of operating expenses for community housing development organizations.
+A participating jurisdiction may not use more than 5 percent of its allocation under this part for the payment of operating expenses for community housing development organizations.
 
 (Pub. L. 101–625, title II, §212, Nov. 28, 1990, 104 Stat. 4097; Pub. L. 102–550, title II, §§203(a), 204–207(b), (d), title X, §1012(e), Oct. 28, 1992, 106 Stat. 3752–3754, 3905; Pub. L. 105–276, title V, §522(b)(5), Oct. 21, 1998, 112 Stat. 2565.)
 
@@ -138,7 +138,7 @@ Pub. L. 102–550, §207(b)(1), inserted before comma at end of par. (1) "that e
 
 Subsec. (d). Pub. L. 102–550, §207(b)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 102–550, §206, inserted after first sentence of par. (1) "For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs."
+Pub. L. 102–550, §206, inserted after first sentence of par. (1) "For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not toexceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs."
 
 Subsecs. (e), (f). Pub. L. 102–550, §207(b)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 

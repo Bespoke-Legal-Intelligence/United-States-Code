@@ -104,7 +104,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(K) how funds will be used effectively to link academic and career and technical education at the secondary level and at the postsecondary level in a manner that increases student academic and career and technical achievement; and
 
-&emsp;&emsp;(L) how the eligible agency will report on the integration of coherent and rigorous content aligned with challenging academic standards in career and technical education programs in order to adequately evaluate the extent of such integration;
+&emsp;&emsp;(L) how the eligible agency will report on the integration of coherent and rigorouscontent aligned with challenging academic standards in career and technical education programs in order to adequately evaluate the extent of such integration;
 
 &emsp;(2) describes how comprehensive professional development (including initial teacher preparation and activities that support recruitment) for career and technical education teachers, faculty, administrators, and career guidance and academic counselors will be provided, especially professional development that—
 
@@ -166,7 +166,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will develop a process for the negotiation of local adjusted levels of performance under section 2323(b)(4) of this title if an eligible recipient does not accept the State adjusted levels of performance under section 2323(b)(3) of this title;
 
-&emsp;(11) provides assurances that the eligible agency will comply with the requirements of this chapter and the provisions of the State plan, including the provision of a financial audit of funds received under this chapter which may be included as part of an audit of other Federal or State programs;
+&emsp;(11) provides assurances that the eligible agency will comply with the requirements of this chapter and the provisions of the Stateplan, including the provision of a financial audit of funds received under this chapter which may be included as part of an audit of other Federal or State programs;
 
 &emsp;(12) provides assurances that none of the funds expended under this chapter will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the acquiring entity or the employees of the acquiring entity, or any affiliate of such an organization;
 
@@ -194,7 +194,7 @@ The State plan shall include information that—
 
 #### (2) Plan submitted as part of 501 plan
 
-&emsp;The eligible agency may submit the plan required under this section as part of the plansubmitted under section 501 of Public Law 105–220 \[20 U.S.C. 9271\], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
+&emsp;The eligible agency may submit the plan required under this section as part of the plan submitted under section 501 of Public Law 105–220 \[20 U.S.C. 9271\], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
 
 #### (e) Plan approval
 
@@ -218,7 +218,23 @@ The State plan shall include information that—
 
 &emsp;A State plan shall be deemed approved by the Secretary if the Secretary has not responded to the eligible agency regarding the State plan within 90 days of the date the Secretary receives the State plan.
 
-(Pub. L. 88–210, title I, §122, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 715.)
+(Pub. L. 88–210, title I, §122, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, §512(e)(3), July 22, 2014, 128 Stat. 1706.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–128, title V, §§506, 512(e)(3), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended:</i>
+
+<i>(1) in subsection (b)(1)(A)(viii), by striking "entities participating in activities described in section 2821 of title 29" and inserting "entities participating in activities described in section 3111 of title 29";</i>
+
+<i>(2) in subsection (c)(20), by striking "the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts" and inserting "the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and</i><i>section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts"; and</i>
+
+<i>(3) in subsection (d)(2):</i>
+
+<i>(A) in the paragraph heading, by striking "501 plan" and inserting "combined plan"; and</i>
+
+<i>(B) in the text, by striking "as part of the plan submitted under section 501 of Public Law 105–220" and inserting "as part of the plan submitted under section 3113 of title 29".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -233,4 +249,16 @@ A prior section 2342, Pub. L. 88–210, title I, §122, as added Pub. L. 105–3
 Another prior section 2342, Pub. L. 88–210, title II, §235, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 783, related to uses of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 Another prior section 2342, Pub. L. 88–210, title II, §252, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(A)(viii). Pub. L. 113–128, §512(e)(3)(A), substituted "entities participating in activities described in section 3111 of title 29" for "entities participating in activities described in section 2821 of title 29".
+
+Subsec. (c)(20). Pub. L. 113–128, §512(e)(3)(B), substituted "the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts" for "the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts".
+
+Subsec. (d)(2). Pub. L. 113–128, §512(e)(3)(C), substituted "combined plan" for "501 plan" in heading and "as part of the plan submitted under section 3113 of title 29" for "as part of the plan submitted under section 501 of Public Law 105–220" in text.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

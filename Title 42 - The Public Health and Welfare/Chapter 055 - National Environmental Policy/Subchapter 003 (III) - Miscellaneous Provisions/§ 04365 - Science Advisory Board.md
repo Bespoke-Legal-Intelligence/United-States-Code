@@ -18,9 +18,43 @@ Such Board shall be composed of at least nine members, one of whom shall be desi
 
 In preparing such advice and comments, the Board shall avail itself of the technical and scientific capabilities of any Federal agency, including the Environmental Protection Agency and any national environmental laboratories.
 
-#### (e) Member committees and investigative panels; establishment; chairmenship
+#### (e) Committees
 
-The Board is authorized to constitute such member committees and investigative panels as the Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board.
+#### (1) Member committees
+
+#### (A) In general
+
+&emsp;&emsp;The Board is authorized to establish such member committees and investigative panels as the Administrator and the Board determine to be necessary to carry out this section.
+
+#### (B) Chairmanship
+
+&emsp;&emsp;Each member committee or investigative panel established under this subsection shall be chaired by a member of the Board.
+
+#### (2) Agriculture-related committees
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator and the Board—
+
+&emsp;&emsp;&emsp;(i) shall establish a standing agriculture-related committee; and
+
+&emsp;&emsp;&emsp;(ii) may establish such additional agriculture-related committees and investigative panels as the Administrator and the Board determines to be necessary to carry out the duties under subparagraph (C).
+
+#### (B) Membership
+
+&emsp;&emsp;The standing committee and each agriculture-related committee or investigative panel established under subparagraph (A) shall be—
+
+&emsp;&emsp;&emsp;(i) composed of—
+
+&emsp;&emsp;&emsp;&emsp;(I) such quantity of members as the Administrator and the Board determines to be necessary; and
+
+&emsp;&emsp;&emsp;&emsp;(II) individuals who are not members of the Board on the date of appointment to the committee or investigative panel; and
+
+&emsp;&emsp;&emsp;(ii) appointed by the Administrator and the Board, in consultation with the Secretary of Agriculture.
+
+#### (C) Duties
+
+&emsp;&emsp;The agriculture-related standing committee and each additional committee and investigative panel established under subparagraph (A) shall provide scientific and technical advice to the Board relating to matters referred to the Board that the Administrator and the Board determines, in consultation with the Secretary of Agriculture, to have a significant direct impact on enterprises that are engaged in the business of the production of food and fiber, ranching and raising livestock, aquaculture, and all other farming- and agriculture-related industries.
 
 #### (f) Appointment and compensation of secretary and other personnel; compensation of members
 
@@ -32,7 +66,15 @@ The Board is authorized to constitute such member committees and investigative p
 
 In carrying out the functions assigned by this section, the Board shall consult and coordinate its activities with the Scientific Advisory Panel established by the Administrator pursuant to section 136w(d) of title 7.
 
-(Pub. L. 95–155, §8, Nov. 8, 1977, 91 Stat. 1260; Pub. L. 96–569, §3, Dec. 22, 1980, 94 Stat. 3337; Pub. L. 103–437, §15(o), Nov. 2, 1994, 108 Stat. 4593; Pub. L. 104–66, title II, §2021(k)(3), Dec. 21, 1995, 109 Stat. 728.)
+#### (h) Public participation and transparency
+
+The Board shall make every effort, consistent with applicable law, including section 552 of title 5 (commonly known as the "Freedom of Information Act") and section 552a of title 5 (commonly known as the "Privacy Act"), to maximize public participation and transparency, including making the scientific and technical advice of the Board and any committees or investigative panels of the Board publically available in electronic form on the website of the Environmental Protection Agency.
+
+#### (i) Report to Congress
+
+The Administrator shall annually report to the Committees on Environment and Public Works and Agriculture of the Senate and the Committees on Transportation and Infrastructure, Energy and Commerce, and Agriculture of the House of Representatives regarding the membership and activities of the standing agriculture-related committee established pursuant to subsection (e)(2)(A)(i).
+
+(Pub. L. 95–155, §8, Nov. 8, 1977, 91 Stat. 1260; Pub. L. 96–569, §3, Dec. 22, 1980, 94 Stat. 3337; Pub. L. 103–437, §15(o), Nov. 2, 1994, 108 Stat. 4593; Pub. L. 104–66, title II, §2021(k)(3), Dec. 21, 1995, 109 Stat. 728; Pub. L. 113–79, title XII, §12307, Feb. 7, 2014, 128 Stat. 989.)
 
 #### References in Text
 
@@ -40,7 +82,7 @@ The Clean Air Act, referred to in subsec. (c)(1), is act July 14, 1955, ch. 360,
 
 The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
+The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
 
 The Noise Control Act, referred to in subsec. (c)(1), probably means the Noise Control Act of 1972, Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified principally to chapter 65 (§4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of this title and Tables.
 
@@ -54,6 +96,10 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Amendments
 
+<b>2014</b>—Subsec. (e). Pub. L. 113–79, §12307(1), added subsec. (e) and struck out former subsec. (e). Text read as follows: "The Board is authorized to constitute such member committees and investigative panels as the Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board."
+
+Subsecs. (h), (i). Pub. L. 113–79, §12307(2), added subsecs. (h) and (i).
+
 <b>1995</b>—Subsecs. (c) to (i). Pub. L. 104–66 redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: "In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–437, §15(o)(1), substituted "Committee on Science, Space, and Technology, on Energy and Commerce, or on" for "Committees on Science and Technology, Interstate and Foreign Commerce, or".
@@ -64,7 +110,7 @@ Subsec. (d). Pub. L. 103–437, §15(o)(2), struck out subsec. (d) which related
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchangesand insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 

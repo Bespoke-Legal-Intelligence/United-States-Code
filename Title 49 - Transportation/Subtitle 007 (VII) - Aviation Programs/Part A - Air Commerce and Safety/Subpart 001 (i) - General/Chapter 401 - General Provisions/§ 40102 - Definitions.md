@@ -46,7 +46,7 @@ General Definitions.—In this part—
 
 &emsp;(12) "cargo" means property, mail, or both.
 
-&emsp;(13) "charter air carrier" means an air carrier holding a certificate of public convenienceand necessity that authorizes it to provide charter air transportation.
+&emsp;(13) "charter air carrier" means an air carrier holding a certificate of public convenience and necessity that authorizes it to provide charter air transportation.
 
 &emsp;(14) "charter air transportation" means charter trips in air transportation authorized under this part.
 
@@ -56,7 +56,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
 
-&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or aState, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
 &emsp;(16) "civil aircraft" means an aircraft except a public aircraft.
 
@@ -194,7 +194,7 @@ General Definitions.—In this part—
 
 Limited Definition.—In subpart II of this part, "control" means control by any means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301,title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588; Pub. L. 110–181, div. A, title X, §1078(a), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–95, title II, §205, Feb. 14, 2012, 126 Stat. 39.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588; Pub. L. 110–181, div. A, title X, §1078(a), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–95, title II, §205, Feb. 14, 2012, 126 Stat. 39.)
 
 Historical and Revision Notes
 
@@ -490,7 +490,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendments
 

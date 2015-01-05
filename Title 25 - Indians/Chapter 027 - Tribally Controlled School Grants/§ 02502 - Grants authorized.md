@@ -28,7 +28,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Grants provided under this chapter may, at the discretion of the school board of the tribally controlled school with respect to which such grant is provided, be used to defray operations and maintenance expenditures for the school if any funds for the operation and maintenance of the school are allocated to the school under the provisions of any of the laws described in section 2504(a) of this title.
+&emsp;&emsp;Grants provided under this chapter may, at the discretion of the school board of the tribally controlled school with respect to which such grant is provided, be used to defray operations and maintenance expenditures for the school if any funds for the operation and maintenance of the school are allocated to the school under the provisions ofany of the laws described in section 2504(a) of this title.
 
 #### (b) Limitations
 
@@ -84,7 +84,7 @@ Grants provided under this chapter shall not terminate, modify, suspend, or redu
 
 #### (3) Transfer of equipment and materials
 
-&emsp;Except as otherwise determined by the Secretary, the tribe or tribal organization operating the program to be retroceded must transfer to the Secretary (or to the tribe or tribal organization which will operate the programas a contract school) the existing equipment and materials which were acquired—
+&emsp;Except as otherwise determined by the Secretary, the tribe or tribal organization operating the program to be retroceded must transfer to the Secretary (or to the tribe or tribal organization which will operate the program as a contract school) the existing equipment and materials which were acquired—
 
 &emsp;&emsp;(A) with assistance under this chapter; or
 

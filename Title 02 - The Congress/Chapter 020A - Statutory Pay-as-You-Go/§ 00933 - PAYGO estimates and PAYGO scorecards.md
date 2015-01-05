@@ -6,15 +6,15 @@
 
 #### (A) House of Representatives
 
-&emsp;&emsp;To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the House Budget Committee, a PAYGO Act originated in or amended by the House of Representatives may include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.”.
+&emsp;&emsp;To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the House Budget Committee, a PAYGO Act originated in or amended by the House of Representatives may include the following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.".
 
 #### (B) Senate
 
-&emsp;&emsp;To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the Senate Budget Committee, a PAYGO Act originated in or amended by the Senate shall include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.”.
+&emsp;&emsp;To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the Senate Budget Committee, a PAYGO Act originated in or amended by the Senate shall include the following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.".
 
 #### (C) Conference reports and amendments between the Houses
 
-&emsp;&emsp;To establish the budgetary effects of the conference report on a PAYGO Act, or an amendment to an amendment between Houses on a PAYGO Act, which if estimated shall be estimated jointly by the Chairmen of the House and Senate Budget Committees, the conference report or amendment between the Houses shall include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendment between the Houses.”.
+&emsp;&emsp;To establish the budgetary effects of the conference report on a PAYGO Act, or an amendment to an amendment between Houses on a PAYGO Act, which if estimated shall be estimated jointly by the Chairmen of the House and Senate Budget Committees, the conference report or amendment between the Houses shall include the following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendment between the Houses.".
 
 #### (2) Determination of budgetary effects of PAYGO Acts
 
@@ -22,7 +22,7 @@
 
 #### (i) Statement and estimate
 
-&emsp;&emsp;&emsp;Prior to a vote on passage of a PAYGO Act originated or amended by one House, the Chairman of the Budget Committee of that House may submit for printing in the Congressional Record a statement titled “Budgetary Effects of PAYGO Legislation” which shall include an estimate of the budgetary effects of that Act, if available prior to passage of the Act by that House and shall submit, if applicable, an identification of any current policy adjustments made pursuant to section 936 of this title. The timely submission of such a statement, in conjunction with the appropriate designation made pursuant to paragraph (1)(A) or (1)(B), as applicable, shall establish the budgetary effects of the PAYGO Act for the purposes of this Act.
+&emsp;&emsp;&emsp;Prior to a vote on passage of a PAYGO Act originated or amended by one House, the Chairman of the Budget Committee of that House may submit for printing in the Congressional Record a statement titled "Budgetary Effects of PAYGO Legislation" which shall include an estimate of the budgetary effects of that Act, if available prior to passage of the Act by that House and shall submit, if applicable, an identification of any current policy adjustments made pursuant to section 936 of this title. The timely submission of such a statement, in conjunction with the appropriate designation made pursuant to paragraph (1)(A) or (1)(B), as applicable, shall establish the budgetary effects of the PAYGO Act for the purposes of this Act.
 
 #### (ii) Effect
 
@@ -44,7 +44,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Prior to the adoption of a report of a committee of conference on a PAYGO Act in either House, or disposition of an amendment to an amendment between Houses on a PAYGO Act, the Chairmen of the Budget Committees of the House and Senate may jointly submit for printing in the Congressional Record a statement titled “Budgetary Effects of PAYGO Legislation” which shall include an estimate of the budgetary effects of that Act if available prior to passage of the Act by the House acting first on the legislation and shall submit, if applicable, an identification of any current policy adjustments made pursuant to section 936 of this title. The timely submission of such a statement, in conjunction with the appropriate designation made pursuant to paragraph (1)(C), shall establish the budgetary effects of the PAYGO Act for the purposes of this Act.
+&emsp;&emsp;&emsp;Prior to the adoption of a report of a committee of conference on a PAYGO Act in either House, or disposition of an amendment to an amendment between Houses on a PAYGO Act, the Chairmen of the Budget Committees of the House and Senate may jointly submit for printing in the Congressional Record a statement titled "Budgetary Effects of PAYGO Legislation" which shall include an estimate of the budgetary effects of that Act if available prior to passage of the Act by the House acting first on the legislation and shall submit, if applicable, an identification of any current policy adjustments made pursuant to section 936 of this title. The timely submission of such a statement, in conjunction with the appropriate designation made pursuant to paragraph (1)(C), shall establish the budgetary effects of the PAYGO Act for the purposes of this Act.
 
 #### (ii) Failure to submit estimate
 
@@ -52,7 +52,7 @@
 
 #### (3) Procedure in the Senate
 
-&emsp;In the Senate, upon submission of a statement titled “Budgetary Effects of PAYGO Legislation” by the Chairman of the Senate Budget Committee for printing in the Congressional Record, the Legislative Clerk shall read the statement.
+&emsp;In the Senate, upon submission of a statement titled "Budgetary Effects of PAYGO Legislation" by the Chairman of the Senate Budget Committee for printing in the Congressional Record, the Legislative Clerk shall read the statement.
 
 #### (4) Jurisdiction of the Budget Committees
 
@@ -92,7 +92,7 @@
 
 #### (5) Inclusion of statement
 
-&emsp;For PAYGO legislation adjusted pursuant to section 936 of this title, the Chairman of the House or Senate Budget Committee, as applicable, shall include in any statement titled “Budgetary Effects of PAYGO Legislation”, submitted for that legislation pursuant to this section, an explanation of the current policy designation and adjustments.
+&emsp;For PAYGO legislation adjusted pursuant to section 936 of this title, the Chairman of the House or Senate Budget Committee, as applicable, shall include in any statement titled "Budgetary Effects of PAYGO Legislation", submitted for that legislation pursuant to this section, an explanation of the current policy designation and adjustments.
 
 #### (d) OMB PAYGO scorecards
 
@@ -118,7 +118,7 @@
 
 #### (6) Community Living Assistance Services and Supports Act
 
-&emsp;Neither scorecard maintained by OMB pursuant to this subsection shall include net savings from any provisions of legislation titled “Community Living Assistance Services and Supports Act”, which establishes a Federal insurance program for long-term care, if such legislation is enacted into law, or amended, subsequent to February 12, 2010.
+&emsp;Neither scorecard maintained by OMB pursuant to this subsection shall include net savings from any provisions of legislation titled "Community Living Assistance Services and Supports Act", which establishes a Federal insurance program for long-term care, if such legislation is enacted into law, or amended, subsequent to February 12, 2010.
 
 #### (e) Look-back to capture current-year effects
 
@@ -168,7 +168,7 @@ OMB shall cumulate the budgetary effects of a PAYGO Act over the budget year (wh
 
 #### (E) Conference reports
 
-&emsp;&emsp;When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a PAYGO Act, upon a point of order being made by any Senator pursuant to this section, and such point of order being sustained, such material contained in such conference report shall be deemed stricken, and the Senate shall proceed to consider the question of whether theSenate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
+&emsp;&emsp;When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a PAYGO Act, upon a point of order being made by any Senator pursuant to this section, and such point of order being sustained, such material contained in such conference report shall be deemed stricken, and the Senate shall proceed to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
 
 #### (4) Effect of designation on scoring
 
@@ -182,19 +182,19 @@ The Statutory Pay-As-You-Go Act of 2010, referred to in subsec. (a)(1), is title
 
 This Act, referred to in subsecs. (a)(2)(A)(i), (B)(i) and (g)(1), (4), is Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which enacted this chapter, amended sections 639, 900, 905, and 906 of this title and section 3101 of Title 31, Money and Finance, and enacted provisions set out as a note under section 712 of Title 31. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original “this title”, meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original "this title", meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
 As amended by this title, referred to in subsec. (d)(3), means as amended by title I of Pub. L. 111–139.
 
-Legislation titled the “Community Living Assistance Services and Supports Act”, referred to in subsec. (d)(6), was enacted as title VIII of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 828. Title VIII, which was also known as the “CLASS Act”, enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended section 1396a of Title 42, enacted provisions set out as notes under section 300ll of Title 42, and amended provisions set out as a note under section 1396p of Title 42, prior to repeal by Pub. L. 112–240, title VI, §642(b)(1), Jan. 2, 2013, 126 Stat. 2358.
+Legislation titled the "Community Living Assistance Services and Supports Act", referred to in subsec. (d)(6), was enacted as title VIII of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 828. Title VIII, which was also known as the "CLASS Act", enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended section 1396a of Title 42, enacted provisions set out as notes under section 300ll of Title 42, and amended provisions set out as a note under section 1396p of Title 42, prior to repeal by Pub. L. 112–240, title VI, §642(b)(1), Jan. 2, 2013, 126 Stat. 2358.
 
 #### Codification
 
 Section is comprised of section 4 of Pub. L. 111–139. Subsec. (b) of section 4 of Pub. L. 111–139 amended section 639 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Pay-As-You-Go Act”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Pay-As-You-Go Act".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “savings”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "savings".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

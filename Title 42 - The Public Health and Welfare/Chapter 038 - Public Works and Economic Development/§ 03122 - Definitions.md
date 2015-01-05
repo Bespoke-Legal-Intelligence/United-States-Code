@@ -36,7 +36,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) a State;
 
-&emsp;&emsp;&emsp;(iv) a city or other political subdivision of a State, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities, or a consortium of political subdivisions;
+&emsp;&emsp;&emsp;(iv) a city or other political subdivision of a State, including a special purpose unit of a State or local government engaged ineconomic or infrastructure development activities, or a consortium of political subdivisions;
 
 &emsp;&emsp;&emsp;(v) an institution of higher education or a consortium of institutions of higher education; or
 
@@ -76,7 +76,7 @@ In this chapter:
 
 #### (10) State
 
-&emsp;The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the MarshallIslands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (11) United States
 

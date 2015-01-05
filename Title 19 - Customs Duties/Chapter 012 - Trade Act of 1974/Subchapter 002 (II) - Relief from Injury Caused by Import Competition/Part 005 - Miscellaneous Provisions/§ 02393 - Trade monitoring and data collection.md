@@ -30,7 +30,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 <b>2009</b>—Pub. L. 111–5, §§1804(a)(1), 1893, temporarily substituted "and data collection" for "system" in section catchline. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Pub. L. 111–5, §§1804(a)(2), (3), 1893, temporarily designated existing provisions as subsec. (a), insertedheading, inserted "and services" after "imports of articles", "and domestic supply of services" after "domestic production", "or supplying services" after "producing articles", and ", or supply of services," after "changes in production", and added subsec. (b). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Pub. L. 111–5, §§1804(a)(2), (3), 1893, temporarily designated existing provisions as subsec. (a), inserted heading, inserted "and services" after "imports of articles", "and domestic supply of services" after "domestic production", "or supplying services" after "producing articles", and ", or supply of services," after "changes in production", and added subsec. (b). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 #### Effective and Termination Dates of 2011 Revival
 

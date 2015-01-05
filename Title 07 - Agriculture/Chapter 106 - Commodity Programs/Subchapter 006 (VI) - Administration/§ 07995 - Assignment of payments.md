@@ -1,6 +1,6 @@
 ### §7995. Assignment of payments
 
-The provisions of section 590h(g) of title 16, relating to assignment of payments, shall apply to payments made under the authority of this Act. The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.
+The provisions of section 590h(g) of title 16, relating to assignment of payments, shall apply topayments made under the authority of this Act. The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.
 
 (Pub. L. 107–171, title I, §1612, May 13, 2002, 116 Stat. 219.)
 

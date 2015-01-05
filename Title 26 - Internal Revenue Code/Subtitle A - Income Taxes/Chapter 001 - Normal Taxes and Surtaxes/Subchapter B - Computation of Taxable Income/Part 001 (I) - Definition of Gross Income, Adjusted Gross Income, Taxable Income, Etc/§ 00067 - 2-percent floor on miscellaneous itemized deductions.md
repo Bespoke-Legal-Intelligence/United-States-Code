@@ -92,7 +92,7 @@ For purposes of this section, the adjusted gross income of an estate or trust sh
 
 This section shall be applied before the application of the dollar limitation of the second sentence of section 162(a) (relating to trade or business expenses).
 
-(Added Pub. L. 99–514, title I, §132(a), Oct. 22, 1986, 100 Stat. 2113; amended Pub. L. 100–647, title I, §1001(f), title IV, §4011(a), Nov. 10, 1988, 102 Stat. 3351, 3655; Pub. L. 101–239, title VII, §7814(f), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 103–66, title XIII, §13213(c)(2), Aug. 10, 1993, 107 Stat. 474; Pub. L. 105–277, div. J, title IV, §4004(b)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–554, §1(a)(7) \[title III, §319(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Added Pub. L. 99–514, title I, §132(a), Oct. 22, 1986, 100 Stat. 2113; amended Pub. L. 100–647, titleI, §1001(f), title IV, §4011(a), Nov. 10, 1988, 102 Stat. 3351, 3655; Pub. L. 101–239, title VII, §7814(f), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 103–66, title XIII, §13213(c)(2), Aug. 10, 1993, 107 Stat. 474; Pub. L. 105–277, div. J, title IV, §4004(b)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–554, §1(a)(7) \[title III, §319(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### References in Text
 

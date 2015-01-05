@@ -10,13 +10,13 @@
 
 &emsp;&emsp;(A) 45 percent for section 8133(a)(2) of this title, if the member dies fully or currently insured under subchapter II of chapter 7 of title 42, with no additional payments for a child or children while the widow or widower remains eligible for payments under section 8133(a)(2) of this title;
 
-&emsp;&emsp;(B) 20 percent for section 8133(a)(3) of this title for one child and 10 percent additional for each additional child, but not to exceed a total of 75 percent, if the member diedfully or currently insured under subchapter II of chapter 7 of title 42; and
+&emsp;&emsp;(B) 20 percent for section 8133(a)(3) of this title for one child and 10 percent additional for each additional child, but not to exceed a total of 75 percent, if the member died fully or currently insured under subchapter II of chapter 7 of title 42; and
 
 &emsp;&emsp;(C) 25 percent for section 8133(a)(4) of this title, if one parent was wholly dependent on the deceased member at the time of his death and the other was not dependent to any extent; 16 percent to each, if both were wholly dependent; and if one was or both were partly dependent, a proportionate amount in the discretion of the Secretary of Labor;
 
 &emsp;(3) a payment may not be made under section 8133(a)(5) of this title;
 
-&emsp;(4) “performance of duty” means only active service, and travel to and from that service, rendered in performance or support of operational missions of the Civil Air Patrol under direction of the Department of the Air Force and under written authorization by competent authority covering a specific assignment and prescribing a time limit for the assignment; and
+&emsp;(4) "performance of duty" means only active service, and travel to and from that service, rendered in performance or support of operational missions of the Civil Air Patrol under direction of the Department of the Air Force and under written authorization by competent authority covering a specific assignment and prescribing a time limit for the assignment; and
 
 &emsp;(5) the Secretary of Labor or his designee shall inform the Commissioner of Social Security when a claim is filed and eligibility for compensation is established under section 8133(a)(2) or (3) of this title, and the Commissioner of Social Security shall certify to the Secretary of Labor as to whether or not the member concerned was fully or currently insured under subchapter II of chapter 7 of title 42 at the time of his death.
 
@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 5 U.S.C. 803 (less (d)).
 
-Aug. 3, 1956, ch. 926, §1 “Sec. 3 (less (d))”, 70 Stat. 980.
+Aug. 3, 1956, ch. 926, §1 "Sec. 3 (less (d))", 70 Stat. 980.
 
 Subsection (d) of former section 803, providing for retroactive applicability, is omitted as executed (see Table II).
 
@@ -48,11 +48,11 @@ Subchapter II of chapter 7 of title 42, referred to in text, is section 401 et s
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(5). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare” in two places.
+<b>1994</b>—Subsec. (b)(5). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health, Education, and Welfare" in two places.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–94, §1258(a)(1), inserted “under 18 years of age” after “Civil Air Patrol Cadet”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94, §1258(a)(1), inserted "under 18 years of age" after "Civil Air Patrol Cadet".
 
-Subsec. (b)(1). Pub. L. 98–94, §1258(a)(2), substituted “the rate of basic pay payable for step 1 of grade GS–9 in the General Schedule under section 5332 of this title” for “$300”.
+Subsec. (b)(1). Pub. L. 98–94, §1258(a)(2), substituted "the rate of basic pay payable for step 1 of grade GS–9 in the General Schedule under section 5332 of this title" for "$300".
 
 #### Effective Date of 1994 Amendment
 
@@ -62,9 +62,9 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 Pub. L. 98–94, title XII, §1258(b), Sept. 24, 1983, 97 Stat. 702, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 24, 1983\].
+"(1) The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 24, 1983\].
 
-“(2) The amendment made by subsection (a)(1) \[amending this section\] shall apply only to deaths or injuries occurring on or after the date of the enactment of this Act \[Sept. 24, 1983\].
+"(2) The amendment made by subsection (a)(1) \[amending this section\] shall apply only to deaths or injuries occurring on or after the date of the enactment of this Act \[Sept. 24, 1983\].
 
-“(3) The amendment made by subsection (a)(2) \[amending this section\] shall apply only to the computation of compensation payable for periods commencing on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
+"(3) The amendment made by subsection (a)(2) \[amending this section\] shall apply only to the computation of compensation payable for periods commencing on or after the date of the enactment of this Act \[Sept. 24, 1983\]."
 

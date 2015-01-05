@@ -82,7 +82,7 @@ Annual Report.—Not later than March 1 of each year, the Council shall submit t
 
 &emsp;(4) A description of the involvement of the program with Federal interagency coordinating entities.
 
-&emsp;(5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expendituresunder such programs, projects, and activities during such following fiscal year.
+&emsp;(5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
 
 (f)
 

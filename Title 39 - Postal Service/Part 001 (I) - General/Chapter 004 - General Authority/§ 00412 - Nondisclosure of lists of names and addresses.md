@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–430 substituted "(a) Except as specifically provided by subsection (b) or other law," for "Except as specifically provided by law," and added subsec. (b).
+<b>1994</b>—Pub. L. 103–430 substituted "(a) Except as specifically provided by subsection (b) or other law," for"Except as specifically provided by law," and added subsec. (b).
 
 #### Effective Date
 

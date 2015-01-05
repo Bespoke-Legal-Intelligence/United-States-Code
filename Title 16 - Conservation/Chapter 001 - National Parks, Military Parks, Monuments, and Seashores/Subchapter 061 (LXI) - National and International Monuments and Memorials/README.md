@@ -5,10 +5,10 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00431 - National monuments; reservation of lands; relinquishment of private claims](%C2%A7%2000431%20-%20National%20monuments%3B%20reservation%20of%20lands%3B%20relinquishment%20of%20private%20claims.md)
-- [&sect; 00431a - Limitation on further extension or establishment of national monuments in Wyoming](%C2%A7%2000431a%20-%20Limitation%20on%20further%20extension%20or%20establishment%20of%20national%20monuments%20in%20Wyoming.md)
-- [&sect; 00432 - Permits to examine ruins, excavations, and gathering of objects; regulations](%C2%A7%2000432%20-%20Permits%20to%20examine%20ruins%2C%20excavations%2C%20and%20gathering%20of%20objects%3B%20regulations.md)
-- [&sect; 00433 - American antiquities](%C2%A7%2000433%20-%20American%20antiquities.md)
+- [&sect; 00431 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2000431%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 00431a - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2000431a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 00432 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2000432%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 00433 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2000433%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
 - [&sect; 00433a - Perry's Victory and International Peace Memorial; establishment](%C2%A7%2000433a%20-%20Perry%27s%20Victory%20and%20International%20Peace%20Memorial%3B%20establishment.md)
 - [&sect; 00433b - Administration, protection, and development](%C2%A7%2000433b%20-%20Administration%2C%20protection%2C%20and%20development.md)
 - [&sect; 00433c - Acceptance of donations of lands and funds; acquisition of land](%C2%A7%2000433c%20-%20Acceptance%20of%20donations%20of%20lands%20and%20funds%3B%20acquisition%20of%20land.md)

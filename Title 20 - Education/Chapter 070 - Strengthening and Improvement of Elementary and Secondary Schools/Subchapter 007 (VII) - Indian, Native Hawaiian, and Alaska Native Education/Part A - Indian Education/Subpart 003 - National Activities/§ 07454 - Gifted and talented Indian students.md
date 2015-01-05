@@ -112,7 +112,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 #### (A) Division
 
-&emsp;&emsp;The costs of evaluating any activities assisted under paragraph (1) shall be divided between the Bureau schools conducting suchactivities and the recipients of grants or contracts under subsection (b) of this section who conduct demonstration projects under subsection (a) of this section.
+&emsp;&emsp;The costs of evaluating any activities assisted under paragraph (1) shall be divided between the Bureau schools conducting such activities and the recipients of grants or contracts under subsection (b) of this section who conduct demonstration projects under subsection (a) of this section.
 
 #### (B) Grants and contracts
 
@@ -134,7 +134,7 @@ The Secretary shall encourage each recipient of a grant or contract under this s
 
 #### References in Text
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to theCode, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 #### Prior Provisions
 

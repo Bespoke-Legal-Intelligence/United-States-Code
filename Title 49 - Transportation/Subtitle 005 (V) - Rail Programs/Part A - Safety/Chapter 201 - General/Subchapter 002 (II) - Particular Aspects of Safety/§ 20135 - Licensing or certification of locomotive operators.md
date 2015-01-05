@@ -40,7 +40,7 @@ Waivers.—(1) The Secretary shall prescribe standards and establish procedures 
 
 (d)
 
-Opportunity for Hearing.—An individual denied a license or certification or whose license or certification is conditioned on requirements prescribed under subsection (b)(4) of this section shall be entitled to a hearing under section 20103(e) of this title to decide whether the license has been properly denied or conditioned.
+Opportunity for Hearing.—An individual denied a license or certification or whose licenseor certification is conditioned on requirements prescribed under subsection (b)(4) of this section shall be entitled to a hearing under section 20103(e) of this title to decide whether the license has been properly denied or conditioned.
 
 (e)
 

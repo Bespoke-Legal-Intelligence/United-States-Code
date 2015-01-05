@@ -78,7 +78,7 @@ For purposes of parts B, C, and D of this subchapter:
 
 #### (4) Serving on active duty
 
-&emsp;The term "serving on active duty during a war or other military operation or nationalemergency" means service by an individual who is—
+&emsp;The term "serving on active duty during a war or other military operation or national emergency" means service by an individual who is—
 
 &emsp;&emsp;(A) a Reserve of an Armed Force ordered to active duty under section 12301(a), 12301(g), 12302, 12304, or 12306 of title 10 or any retired member of an Armed Force ordered to active duty under section 688 of such title, for service in connection with a war or other military operation or national emergency, regardless of the location at which such active duty service is performed; and
 
@@ -124,7 +124,7 @@ Subsec. (a)(4). Pub. L. 105–216, which directed the amendment of par. (4), eff
 
 <b>1993</b>—Subsec. (a)(3)(B). Pub. L. 103–208, §2(h)(1), inserted before semicolon at end ", except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree".
 
-Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted "do not have a high school diploma or its recognized equivalent" for "are admitted pursuant to section 1091(d) of this title" and inserted before period at end ", except that the Secretary may waive the limitationcontained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent".
+Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted "do not have a high school diploma or its recognized equivalent" for "are admitted pursuant to section 1091(d) of this title" and inserted before period at end ", except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent".
 
 Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "such institution has filed for bankruptcy; or".
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–325, title IV, §498, July 23, 1992, 106 Stat. 634, provided that: "The changes made in part G of title IV of the Act \[20 U.S.C. 1088 et seq.\] by the amendments made by this part \[part G (§§481–498) of title IV of Pub. L. 102–325, enacting sections 1091b, 1092c, 1094a, 1094b, 1098a, and 1098b of this title, amending sections 1088 to 1091, 1092, 1092b, 1093, 1094, 1095, 1096, 1097, and 1098 of this title, and repealing section 1096a of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
+Pub. L. 102–325, title IV, §498, July 23, 1992, 106 Stat. 634, provided that: "The changes made in part G of title IV of the Act \[20 U.S.C. 1088 et seq.\] by the amendments made by this part \[part G (§§481–498) of title IV of Pub. L. 102–325, enacting sections 1091b, 1092c, 1094a, 1094b, 1098a, and 1098b of this title, amending sections 1088 to 1091, 1092, 1092b, 1093, 1094, 1095, 1096, 1097, and 1098 ofthis title, and repealing section 1096a of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
 
 &emsp;"(1) as otherwise provided in such part G;
 

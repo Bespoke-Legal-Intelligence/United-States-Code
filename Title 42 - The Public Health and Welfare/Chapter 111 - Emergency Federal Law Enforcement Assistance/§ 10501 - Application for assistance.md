@@ -10,7 +10,7 @@ An application for assistance under this section shall be submitted in writing b
 
 #### (c) Criteria
 
-Federal law enforcement assistance may be provided if such assistance is necessary to provide an adequate response to a law enforcement emergency. In determining whether to approve or disapprove an application for assistance under this section, the Attorney General shall consider—
+Federal law enforcement assistance may be provided if such assistance is necessary to provide an adequate response to a law enforcement emergency. In determining whether to approveor disapprove an application for assistance under this section, the Attorney General shall consider—
 
 &emsp;(1) the nature and extent of such emergency throughout a State or in any part of a State,
 

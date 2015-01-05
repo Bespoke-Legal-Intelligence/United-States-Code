@@ -18,5 +18,5 @@ Duties and Powers.—(1) The Director of Small Business Programs shall, subject 
 
 #### Change of Name
 
-The Director of Small and Disadvantaged Business Utilization of the Department of the Navy and the Office of Small and Disadvantaged Business Utilization of the Department of the Navy were redesignated the Director of Small Business Programs of the Department of the Navy and the Office of Small Business Programs of the Department of the Navy, respectively, by Pub. L. 109–163 which also provided that references to the former were deemed to refer to the latter. See section 904(a) of Pub. L. 109–163, set out as a note under section 144 of this title.
+The Director of Small and Disadvantaged Business Utilization of the Department of the Navy and the Office of Small and Disadvantaged Business Utilization of the Department of the Navy were redesignated the Director of Small Business Programs of the Department of the Navy and the Office of Small Business Programsof the Department of the Navy, respectively, by Pub. L. 109–163 which also provided that references to the former were deemed to refer to the latter. See section 904(a) of Pub. L. 109–163, set out as a note under section 144 of this title.
 

@@ -56,7 +56,7 @@ Reports to Congress.—Upon the completion of a survey under this section, the S
 
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 103–337, div. A, title V, §554(a)(1), Oct. 5, 1994, 108 Stat. 2773, §451; renumbered §481 and amended Pub. L. 104–201, div. A, title V, §571(c)(1), title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2532, 2687; Pub. L. 107–314, div. A, title V, §561(a)(1), Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–239, div. A, title V, §570, Jan. 2, 2013, 126 Stat. 1752.)
+(Added Pub. L. 103–337, div. A, title V, §554(a)(1), Oct. 5, 1994, 108 Stat. 2773, §451; renumbered §481and amended Pub. L. 104–201, div. A, title V, §571(c)(1), title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2532, 2687; Pub. L. 107–314, div. A, title V, §561(a)(1), Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–239, div. A, title V, §570, Jan. 2, 2013, 126 Stat. 1752.)
 
 #### Amendments
 
@@ -118,7 +118,7 @@ Matters To Be Included.—The report for a fiscal year under subsection (a) shal
 
 &emsp;"(5) Selection rates for female members and for male members for assignment to grade O–6 and grade O–5 command positions in reports of command selection boards that were submitted during that fiscal year.
 
-&emsp;"(6) Selection rates for female members and for male members for attendance at intermediate serviceschools (ISS) and, separately, for attendance at senior service schools (SSS) in reports of selection boards that were submitted during that fiscal year.
+&emsp;"(6) Selection rates for female members and for male members for attendance at intermediate service schools (ISS) and, separately, for attendance at senior service schools (SSS) in reports of selection boards that were submitted during that fiscal year.
 
 &emsp;"(7) The extent of assignments of female members during that fiscal year in each field in which at least 80 percent of the Armed Forces personnel assigned in the field are men.
 

@@ -1,6 +1,6 @@
 ### §3512. Executive agency accounting and other financial management reports and plans
 
-(a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress a financial management status report and a governmentwide 5-year financial management plan.
+(a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on the website described under section 1122 a financial management status report and a governmentwide 5-year financial management plan.
 
 (2) A financial management status report under this subsection shall include—
 
@@ -46,7 +46,7 @@
 
 &emsp;(ix) estimate the costs of implementing the governmentwide 5-year plan.
 
-(4)(A) Not later than 15 months after the date of the enactment of this subsection, the Director of the Office of Management and Budgetshall submit the first financial management status report and governmentwide 5-year financial management plan under this subsection to the appropriate committees of the Congress.
+(4)(A) Not later than 15 months after the date of the enactment of this subsection, the Director of the Office of Management and Budget shall submit the first financial management status report and governmentwide 5-year financial management plan under this subsection to the appropriate committees of the Congress.
 
 (B)(i) Not later than January 31 of each year thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of the Congress a financial management status report and a revised governmentwide 5-year financial management plan to cover the succeeding 5 fiscal years, including a report on the accomplishments of the executive branch in implementing the plan during the preceding fiscal year.
 
@@ -108,9 +108,9 @@
 
 &emsp;(2) approve the system when the Comptroller General considers it to be adequate and in conformity with the principles, standards, and requirements prescribed under section 3511 of this title.
 
-(g) The Comptroller General shall review the accounting systems of each executive agency.The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
+(g) The Comptroller General shall review the accounting systems of each executive agency. The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 97–452, §1(12), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 101–576, title III, §301(a), Nov. 15, 1990, 104 Stat. 2847; Pub. L. 103–272, §4(f)(1)(J), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 97–452, §1(12), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 101–576, title III, §301(a), Nov. 15, 1990, 104 Stat. 2847; Pub. L. 103–272, §4(f)(1)(J), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 113–101, §4, May 9, 2014, 128 Stat. 1153.)
 
 Historical and Revision Notes<br>1982
 
@@ -216,6 +216,8 @@ The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–101, which directed the insertion of "and make available on the website described under section 1122" after "appropriate committees of Congress" was executed by making the insertion after "appropriate committees of the Congress" to reflect the probable intent of Congress.
+
 <b>1996</b>—Subsec. (a)(2)(E), (F). Pub. L. 104–208 added subpar. (E) and redesignated former subpar. (E) as (F).
 
 <b>1994</b>—Subsec. (c)(1). Pub. L. 103–272, §4(f)(1)(J)(i), substituted "subsection (b)(3)" for "subsection (a)(3)" in introductory provisions.
@@ -232,7 +234,7 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress,Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Short Title
 

@@ -12,7 +12,7 @@ In general.—Any person who willfully infringes a copyright shall be punished a
 
 &emsp;&emsp;(B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000; or
 
-&emsp;&emsp;(C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that thework was intended for commercial distribution.
+&emsp;&emsp;(C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution.
 
 &emsp;(2)
 
@@ -60,7 +60,7 @@ Rights of Attribution and Integrity.—Nothing in this section applies to infrin
 
 #### house report no. 94–1476
 
-Four types of criminal offenses actionable under the bill are listed in section 506: willful infringement for profit, fraudulent use of a copyright notice, fraudulent removal of notice, and false representation in connection with a copyright application. The maximum fine on conviction has been increased to $10,000 and, in conformity with the general pattern of the Criminal Code (18 U.S.C.), no minimum fines have been provided. In addition to or instead of a fine, conviction for criminal infringement under section 506(a) can carry with it a sentence of imprisonment of up to one year. Section 506(b) deals with seizure, forfeiture, and destruction of material involved in cases of criminal infringement.
+Four types of criminal offenses actionable under the bill are listed in section 506: willful infringement forprofit, fraudulent use of a copyright notice, fraudulent removal of notice, and false representation in connection with a copyright application. The maximum fine on conviction has been increased to $10,000 and, in conformity with the general pattern of the Criminal Code (18 U.S.C.), no minimum fines have been provided. In addition to or instead of a fine, conviction for criminal infringement under section 506(a) can carry with it a sentence of imprisonment of up to one year. Section 506(b) deals with seizure, forfeiture, and destruction of material involved in cases of criminal infringement.
 
 Section 506(a) contains a special provision applying to any person who infringes willfully and for purposes of commercial advantage the copyright in a sound recording or a motion picture. For the first such offense a person shall be fined not more than $25,000 or imprisoned for not more than one year, or both. For any subsequent offense a person shall be fined not more than $50,000 or imprisoned not more than two years, or both.
 

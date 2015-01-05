@@ -10,7 +10,7 @@ As used in this subchapter, the term—
 
 &emsp;(4) "Receiving association" means the national banking association into which one or more national banking associations or one or more State banks, located within the same State, merge.
 
-(Nov. 7, 1918, ch. 209, §7, formerly §3, as added Pub. L. 86–230, §20, Sept. 8, 1959, 73 Stat. 465; renumbered §5, Pub. L. 103–328, title I, §102(b)(4)(B), Sept. 29, 1994, 108 Stat. 2351; renumbered §7, Pub. L. 106–569, title XII, §1204(1), Dec. 27, 2000, 114 Stat. 3033; amended Pub. L. 109–351, title VII, §725(e), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(e), Oct. 16, 2006, 120 Stat. 2029.)
+(Nov. 7, 1918, ch. 209, §7, formerly §3, as added Pub. L. 86–230, §20, Sept. 8, 1959, 73 Stat. 465; renumbered §5, Pub. L. 103–328, title I,§102(b)(4)(B), Sept. 29, 1994, 108 Stat. 2351; renumbered §7, Pub. L. 106–569, title XII, §1204(1), Dec. 27, 2000, 114 Stat. 3033; amended Pub. L. 109–351, title VII, §725(e), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(e), Oct. 16, 2006, 120 Stat. 2029.)
 
 #### Codification
 

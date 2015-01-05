@@ -26,7 +26,7 @@
 
 > an amount equal to 90 percent of the amount it received under this subsection in its second year of participation.
 
-(3)(A) If the amount appropriated for any fiscal year is less than the amount required to be allocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
+(3)(A) If the amount appropriated for any fiscal year is less than the amount required to beallocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
 
 (B) If the amount appropriated for any fiscal year is more than the amount required to be allocated to all institutions under paragraph (1) but less than the amount required to be allocated to all institutions under paragraph (2), then—
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date
 
-Section 401(b)(6) of Pub. L. 99–498, as added by Pub. L. 100–50, §22(a)(2), June 3, 1987, 101 Stat. 361, provided that: "The changes made in section 413D of the Act \[this section\] shall apply with respect to the allocation of funds for the academic year 1988–1989 and succeeding academic years."
+Section 401(b)(6) of Pub. L. 99–498, as added by Pub. L. 100–50, §22(a)(2), June 3, 1987, 101 Stat. 361, providedthat: "The changes made in section 413D of the Act \[this section\] shall apply with respect to the allocation of funds for the academic year 1988–1989 and succeeding academic years."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

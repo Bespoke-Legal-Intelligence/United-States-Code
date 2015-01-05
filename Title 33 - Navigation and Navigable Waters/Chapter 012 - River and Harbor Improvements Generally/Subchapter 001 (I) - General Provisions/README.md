@@ -77,3 +77,5 @@
 - [&sect; 00578 - Disposal of surplus property for development of public port or industrial facilities](%C2%A7%2000578%20-%20Disposal%20of%20surplus%20property%20for%20development%20of%20public%20port%20or%20industrial%20facilities.md)
 - [&sect; 00579 - Repealed. Pub. L. 101&#8211;640, title I, &sect;119(b), Nov. 28, 1990, 104 Stat. 4630](%C2%A7%2000579%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20I%2C%20%C2%A7119%28b%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204630.md)
 - [&sect; 00579a - Project deauthorizations](%C2%A7%2000579a%20-%20Project%20deauthorizations.md)
+- [&sect; 00579b - Deauthorization of inactive projects](%C2%A7%2000579b%20-%20Deauthorization%20of%20inactive%20projects.md)
+- [&sect; 00579c - Backlog prevention](%C2%A7%2000579c%20-%20Backlog%20prevention.md)

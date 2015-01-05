@@ -16,7 +16,7 @@
 
 #### (4) Effect on existing agreements
 
-&emsp;In the case of a rebate agreement in effect between a State and a manufacturer on November 5, 1990, such agreement, for the initial agreement period specified therein, shall be considered to be a rebate agreement in compliance with this section with respect to that State, if the State agrees to report to the Secretary any rebates paid pursuant to the agreement and such agreement provides for a minimum aggregate rebate of 10 percent of theState's total expenditures under the State plan for coverage of the manufacturer's drugs under this subchapter. If, after the initial agreement period, the State establishes to the satisfaction of the Secretary that an agreement in effect on November 5, 1990, provides for rebates that are at least as large as the rebates otherwise required under this section, and the State agrees to report any rebates under the agreement to the Secretary, the agreement shall be considered to be a rebate agreement in compliance with the section for the renewal periods of such agreement.
+&emsp;In the case of a rebate agreement in effect between a State and a manufacturer on November 5, 1990, such agreement, for the initial agreement period specified therein, shall be considered to be a rebate agreement in compliance with this section with respect to that State, if the State agrees to report to the Secretary any rebates paid pursuant to the agreement and such agreement provides for a minimum aggregate rebate of 10 percent of the State's total expenditures under the State plan for coverage of the manufacturer's drugs under this subchapter. If, after the initial agreement period, the State establishes to the satisfaction of the Secretary that an agreement in effect on November 5, 1990, provides for rebates that are at least as large as the rebates otherwise required under this section, and the State agrees to report any rebates under the agreement to the Secretary, the agreement shall be considered to be a rebate agreement in compliance with the section for the renewal periods of such agreement.
 
 #### (5) Limitation on prices of drugs purchased by covered entities
 
@@ -34,7 +34,7 @@
 
 #### (i) Entities
 
-&emsp;&emsp;&emsp;Each covered entity shall inform the single State agency under section 1396a(a)(5) of this title when it is seeking reimbursement from the State plan for medical assistance described in section 1396d(a)(12) of this title with respect to a unit of any covered outpatient drug which is subject to an agreement under section 256b(a) of this title.
+&emsp;&emsp;&emsp;Each covered entity shall inform the single State agency under section 1396a(a)(5)of this title when it is seeking reimbursement from the State plan for medical assistance described in section 1396d(a)(12) of this title with respect to a unit of any covered outpatient drug which is subject to an agreement under section 256b(a) of this title.
 
 #### (ii) State agency
 
@@ -92,7 +92,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A rebate agreement under this subsection shall require the manufacturer to provide, to each State plan approved under this subchapter, a rebate for a rebate period in an amount specified in subsection (c) of this section for covered outpatient drugs of the manufacturer dispensed after December 31, 1990, for which payment was made under the State plan for such period, including such drugs dispensed to individuals enrolled with a medicaid managed care organization if the organization is responsible for coverage of such drugs. Such rebate shall be paid by the manufacturer not later than 30 days after the date of receipt of the information described in paragraph (2) for the period involved.
+&emsp;&emsp;A rebate agreement under this subsection shall require the manufacturer to provide, toeach State plan approved under this subchapter, a rebate for a rebate period in an amount specified in subsection (c) of this section for covered outpatient drugs of the manufacturer dispensed after December 31, 1990, for which payment was made under the State plan for such period, including such drugs dispensed to individuals enrolled with a medicaid managed care organization if the organization is responsible for coverage of such drugs. Such rebate shall be paid by the manufacturer not later than 30 days after the date of receipt of the information described in paragraph (2) for the period involved.
 
 #### (B) Offset against medical assistance
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;&emsp;(iii) for calendar quarters beginning on or after January 1, 2004, in conjunction with reporting required under clause (i) and by National Drug Code (including package size)—
 
-&emsp;&emsp;&emsp;&emsp;(I) the manufacturer's average sales price (as defined in section 1395w–3a(c) of this title) and the total number of units specified under section 1395w–3a(b)(2)(A) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) the manufacturer's average sales price (as defined in section 1395w–3a(c) ofthis title) and the total number of units specified under section 1395w–3a(b)(2)(A) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) if required to make payment under section 1395w–3a of this title, the manufacturer's wholesale acquisition cost, as defined in subsection (c)(6) of such section; and
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;&emsp;(v) to the Secretary to disclose (through a website accessible to the public) the weighted average of the most recently reported monthly average manufacturer prices and the average retail survey price determined for each multiple source drug in accordance with subsection (f).
 
-> &emsp;&emsp;The previous sentence shall also apply to information disclosed under section 1395w–102(d)(2) or 1395w–104(c)(2)(E) <sup>3</sup> of this title and drug pricing data reported under the first sentence of section 1395w–141(i)(1) of this title.
+> &emsp;&emsp;The previous sentence shall also apply to information disclosed under section1395w–102(d)(2) or 1395w–104(c)(2)(E) <sup>3</sup> of this title and drug pricing data reported under the first sentence of section 1395w–141(i)(1) of this title.
 
 #### (4) Length of agreement
 
@@ -266,7 +266,7 @@
 
 #### (II) Drug described
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), a single source drug or an innovator multiple source drug described in this subclause is any of the following drugs:
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), a single source drug or an innovator multiplesource drug described in this subclause is any of the following drugs:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) A clotting factor for which a separate furnishing payment is made under section 1395u(o)(5) of this title and which is included on a list of such factors specified and updated regularly by the Secretary.
 
@@ -378,7 +378,7 @@
 
 &emsp;&emsp;&emsp;(iii) the total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).
 
-> &emsp;&emsp;In this subparagraph, the term "line extension" means, with respect to a drug, a newformulation of the drug, such as an extended release formulation.
+> &emsp;&emsp;In this subparagraph, the term "line extension" means, with respect to a drug, a new formulation of the drug, such as an extended release formulation.
 
 #### (D) Maximum rebate amount
 
@@ -452,7 +452,7 @@
 
 &emsp;&emsp;(B) Except as provided in subparagraph (C), the formulary includes the covered outpatient drugs of any manufacturer which has entered into and complies with an agreement under subsection (a) of this section (other than any drug excluded from coverage or otherwise restricted under paragraph (2)).
 
-&emsp;&emsp;(C) A covered outpatient drug may be excluded with respect to the treatment of a specific disease or condition for an identified population (if any) only if, based on the drug's labeling (or, in the case of a drug the prescribed use of which is not approved under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] but is a medically accepted indication, based on information from the appropriate compendia described in subsection (k)(6) of this section), the excluded drug does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome of such treatment for such population over other drugs included in the formulary and there is a written explanation\(available to the public) of the basis for the exclusion.
+&emsp;&emsp;(C) A covered outpatient drug may be excluded with respect to the treatment of a specific disease or condition for an identified population (if any) only if, based on the drug's labeling (or, in the case of a drug the prescribed use of which is not approved under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] but is a medically accepted indication, based on information from the appropriate compendia described in subsection (k)(6) of this section), the excluded drug does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome of such treatment for such population over other drugs included in the formulary and there is a written explanation (available to the public) of the basis for the exclusion.
 
 &emsp;&emsp;(D) The State plan permits coverage of a drug excluded from the formulary (other than any drug excluded from coverage or otherwise restricted under paragraph (2)) pursuant to a prior authorization program that is consistent with paragraph (5).
 
@@ -466,7 +466,7 @@
 
 &emsp;&emsp;(A) provides response by telephone or other telecommunication device within 24 hours of a request for prior authorization; and
 
-&emsp;&emsp;(B) except with respect to the drugs on the list referred to in paragraph (2), provides for the dispensing of at least 72-hour supply of a covered outpatient prescription drug in an emergency situation (as defined by the Secretary).
+&emsp;&emsp;(B) except with respect to the drugs on the list referred to in paragraph (2), provides forthe dispensing of at least 72-hour supply of a covered outpatient prescription drug in an emergency situation (as defined by the Secretary).
 
 #### (6) Other permissible restrictions
 
@@ -534,7 +534,7 @@
 
 &emsp;&emsp;&emsp;(iii) collecting and reporting such price information on at least a monthly basis.
 
-> &emsp;&emsp;In contracting for such services, the Secretary may waive such provisions of the Federal Acquisition Regulation as are necessary for the efficient implementation of this subsection, other than provisions relating to confidentiality of information and such other provisions as the Secretary determines appropriate.
+> &emsp;&emsp;In contracting for such services, the Secretary may waive such provisions of the Federal Acquisition Regulation as are necessaryfor the efficient implementation of this subsection, other than provisions relating to confidentiality of information and such other provisions as the Secretary determines appropriate.
 
 #### (D) Additional provisions
 
@@ -592,7 +592,7 @@
 
 &emsp;&emsp;(ii) the peer-reviewed medical literature.
 
-&emsp;(C) The Secretary, under the procedures established in section 1396b of this title, shallpay to each State an amount equal to 75 per centum of so much of the sums expended by the State plan during calendar years 1991 through 1993 as the Secretary determines is attributable to the statewide adoption of a drug use review program which conforms to the requirements of this subsection.
+&emsp;(C) The Secretary, under the procedures established in section 1396b of this title, shall pay to each State an amount equal to 75 per centum of so much of the sums expended by the State plan during calendar years 1991 through 1993 as the Secretary determines is attributable to the statewide adoption of a drug use review program which conforms to the requirements of this subsection.
 
 &emsp;(D) States shall not be required to perform additional drug use reviews with respect to drugs dispensed to residents of nursing facilities which are in compliance with the drug regimen review procedures prescribed by the Secretary for such facilities in regulations implementing section 1396r of this title, currently at section 483.60 of title 42, Code of Federal Regulations.
 
@@ -644,7 +644,7 @@
 
 #### (D) Educational program
 
-&emsp;&emsp;The program shall, through its State drug use review board established under paragraph (3), either directly or through contracts with accredited health care educational institutions, State medical societies or State pharmacists associations/societies or other organizations as specified by the State, and using data provided by theState drug use review board on common drug therapy problems, provide for active and ongoing educational outreach programs (including the activities described in paragraph (3)(C)(iii) of this subsection) to educate practitioners on common drug therapy problems with the aim of improving prescribing or dispensing practices.
+&emsp;&emsp;The program shall, through its State drug use review board established under paragraph (3), either directly or through contracts with accredited health care educational institutions, State medical societies or State pharmacists associations/societies or other organizations as specified by the State, and using data provided by the State drug use review board on common drug therapy problems, provide for active and ongoing educational outreach programs (including the activities described in paragraph (3)(C)(iii) of this subsection) to educate practitioners on common drug therapy problems with the aim of improving prescribing or dispensing practices.
 
 #### (3) State drug use review board
 
@@ -726,7 +726,7 @@ In this section—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term "average manufacturer price" means, with respect to a covered outpatient drug of a manufacturer for a rebate period, the average price paid to the manufacturer for the drug in the United States by—
+&emsp;&emsp;Subject to subparagraph (B), the term "average manufacturer price" means, with respect to a covered outpatient drug of a manufacturer for a rebate period, the averageprice paid to the manufacturer for the drug in the United States by—
 
 &emsp;&emsp;&emsp;(i) wholesalers for drugs distributed to retail community pharmacies; and
 
@@ -766,7 +766,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii)(I) which was commercially used or sold in the United States before October 10, 1962, or which is identical, similar, or related (within the meaning of section 310.6(b)(1) of title 21 of the Code of Federal Regulations) to such a drug, and (II) which has not been the subject of a final determination by the Secretary that it is a "new drug" (within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(p)\]) or an action brought by the Secretary under section 301, 302(a), or 304(a) of such Act \[21 U.S.C. 331, 332(a), 334(a)\] to enforce section 502(f) or 505(a) of such Act \[21 U.S.C. 352(f), 355(a)\]; or
 
-&emsp;&emsp;&emsp;(iii)(I) which is described in section 107(c)(3) of the Drug Amendments of 1962 and for which the Secretary has determined there is a compelling justification for its medical need, or is identical, similar, or related (within the meaning of section 310.6(b)(1) of title 21 of the Code of Federal Regulations) to such a drug, and (II) for which the Secretary has not issued a notice of an opportunity for a hearing under section 505(e) of the Federal Food,Drug, and Cosmetic Act \[21 U.S.C. 355(e)\] on a proposed order of the Secretary to withdraw approval of an application for such drug under such section because the Secretary has determined that the drug is less than effective for some or all conditions of use prescribed, recommended, or suggested in its labeling; and
+&emsp;&emsp;&emsp;(iii)(I) which is described in section 107(c)(3) of the Drug Amendments of 1962 and for which the Secretary has determined there is a compelling justification for its medical need, or is identical, similar, or related (within the meaning of section 310.6(b)(1) of title 21 of the Code of Federal Regulations) to such a drug, and (II) for which the Secretary has not issued a notice of an opportunity for a hearing under section 505(e) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(e)\] on a proposed order of the Secretary to withdraw approval of an application for such drug under such section because the Secretary has determined that the drug is less than effective for some or all conditions of use prescribed, recommended, or suggested in its labeling; and
 
 &emsp;&emsp;(B) a biological product, other than a vaccine which—
 
@@ -846,7 +846,7 @@ In this section—
 
 #### (B) Exception
 
-&emsp;&emsp;Subparagraph (A)(i)(II) shall not apply if the Food and Drug Administration changesby regulation the requirement that, for purposes of the publication described in subparagraph (A)(i)(I), in order for drug products to be rated as therapeutically equivalent, they must be pharmaceutically equivalent and bioequivalent, as defined in subparagraph (C).
+&emsp;&emsp;Subparagraph (A)(i)(II) shall not apply if the Food and Drug Administration changes by regulation the requirement that, for purposes of the publication described in subparagraph (A)(i)(I), in order for drug products to be rated as therapeutically equivalent, they must be pharmaceutically equivalent and bioequivalent, as defined in subparagraph (C).
 
 #### (C) Definitions
 
@@ -862,7 +862,7 @@ In this section—
 
 #### (9) State agency
 
-&emsp;The term "State agency" means the agency designated under section 1396a(a)(5) of this title to administer or supervise the administration of the State plan for medical assistance.
+&emsp;The term "State agency" means the agency designated under section 1396a(a)(5) of thistitle to administer or supervise the administration of the State plan for medical assistance.
 
 #### (10) Retail community pharmacy
 
@@ -896,7 +896,7 @@ Section 506 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. 
 
 #### Codification
 
-Subsec. (i) of this section, which required the Secretary to transmit to the Committee on Finance of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committees on Aging of the Senate and the House of Representatives an annual report on the operation of this section in thepreceding fiscal year, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 9 on page 93 of House Document No. 103–7.
+Subsec. (i) of this section, which required the Secretary to transmit to the Committee on Finance of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committees on Aging of the Senate and the House of Representatives an annual report on the operation of this section in the preceding fiscal year, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 9 on page 93 of House Document No. 103–7.
 
 #### Prior Provisions
 
@@ -912,7 +912,7 @@ Subsec. (b)(1)(C). Pub. L. 111–148, §2501(a)(2), added subpar. (C).
 
 Subsec. (b)(2)(A). Pub. L. 111–148, §2501(c)(2)(A)(ii), inserted "including such information reported by each medicaid managed care organization," after "for which payment was made under the plan during the period,".
 
-Subsec. (b)(3)(A). Pub. L. 111–148, §2503(b)(1)(B), which directed insertion, in the second sentence, of "(relating to the weighted average of the most recently reported monthly average manufacturer prices)" after "(D)(v)" was executed by making the insertion in concluding provisions to reflect the probable intent of Congress.
+Subsec. (b)(3)(A). Pub. L. 111–148, §2503(b)(1)(B), which directed insertion, in the second sentence, of "(relating to the weighted average of the most recently reportedmonthly average manufacturer prices)" after "(D)(v)" was executed by making the insertion in concluding provisions to reflect the probable intent of Congress.
 
 Subsec. (b)(3)(A)(iv). Pub. L. 111–148, §2503(b)(1)(A), which directed, in the first sentence, addition of cl. (iv) after cl. (iii), was executed by adding cl. (iv) after cl. (iii) to reflect the probable intent of Congress.
 
@@ -1072,7 +1072,7 @@ Subsec. (k)(7)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(u)(3)(B)
 
 Subsec. (j)(1). Pub. L. 105–33, §4701(b)(2)(A)(x), substituted "health maintenance organizations, including medicaid managed care organizations" for "\* \* \* Health Maintenance Organizations, including those organizations".
 
-<b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–66, §13602(a)(2)(A)(i)(II), which directed amendment of subpar. (A) by substituting "dispensed after December 31, 1990, for which payment was made under the State plan for such period" for "dispensed under the plan during the quarter (or other period as the Secretary may specify)", was executed by making the substitution for "dispensed under the plan during the quarter (or such other period as the Secretary may specify)" to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–66, §13602(a)(2)(A)(i)(II), which directed amendment of subpar. (A) by substituting "dispensed after December 31, 1990, for which payment was made under the State plan for such period" for "dispensed under the plan during the quarter (or other period as the Secretary may specify)", was executed by making the substitution for"dispensed under the plan during the quarter (or such other period as the Secretary may specify)" to reflect the probable intent of Congress.
 
 Pub. L. 103–66, §13602(a)(2)(A)(i)(I), substituted "for a rebate period" for "each calendar quarter (or periodically in accordance with a schedule specified by the Secretary)".
 
@@ -1118,7 +1118,7 @@ Subsec. (c)(1)(B)(ii) to (v). Pub. L. 102–585, §601(c)(2), (3), added cls. (i
 
 &emsp;"(II) the difference between the average manufacturer price for a drug and the best price (as defined in paragraph (2)(B)) for such quarter (or period) for such drug."
 
-Subsec. (c)(1)(C). Pub. L. 102–585, §601(a), substituted "(excluding any prices charged on or after October 1, 1992, to the Indian Health Service, the Department of Veterans Affairs, a State home receiving funds under section 1741 of title 38, the Department of Defense, the Public Health Service, or a covered entity described in subsection (a)(5)(B) of this section, any prices charged under the Federal Supply Schedule of the General Services Administration, or any prices used under a Statepharmaceutical assistance program, and excluding" for "(excluding".
+Subsec. (c)(1)(C). Pub. L. 102–585, §601(a), substituted "(excluding any prices charged on or after October 1, 1992, to the Indian Health Service, the Department of Veterans Affairs, a State home receiving funds under section 1741 of title 38, the Department of Defense, the Public Health Service, or a covered entity described in subsection (a)(5)(B) of this section, any prices charged under the Federal Supply Schedule of the General Services Administration, or any prices used under a State pharmaceutical assistance program, and excluding" for "(excluding".
 
 #### Effective Date of 2010 Amendment
 

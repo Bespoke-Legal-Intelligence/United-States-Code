@@ -78,7 +78,7 @@ Limitation of Applicability to Collect-on-Delivery Transportation.—The provisi
 
 Review by Secretary.—Not later than 18 months after January 1, 1996, the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38),Oct. 11, 1996, 110 Stat. 3392; Pub. L. 106–159, title II, §209(b), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §4208, Aug. 10, 2005, 119 Stat. 1757.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 106–159, title II, §209(b), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §4208, Aug. 10, 2005, 119 Stat. 1757.)
 
 #### Prior Provisions
 

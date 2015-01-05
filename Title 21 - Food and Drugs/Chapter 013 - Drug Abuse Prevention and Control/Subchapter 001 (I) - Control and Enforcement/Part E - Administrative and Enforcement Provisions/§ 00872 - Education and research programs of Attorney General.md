@@ -78,7 +78,7 @@ In General.—
 
 &emsp;"(1)
 
-Requirement.—The Administrator of the Drug Enforcement Administration shall carry out the programs described in subsection (b) with respect to the law enforcement personnel of States and localities determined by the Administrator to have significant levels of methamphetamine-related or amphetamine-related crime or projected by the Administrator to have the potential for such levels of crime in the future.
+Requirement.—The Administrator of the Drug Enforcement Administration shall carry out the programs described in subsection (b) with respect to the law enforcement personnel of States and localities determined by the Administrator to have significant levels of methamphetamine-related or amphetamine-related crime or projected by the Administrator tohave the potential for such levels of crime in the future.
 
 &emsp;"(2)
 
@@ -102,7 +102,7 @@ Basic clandestine laboratory certification training.—A program of basic clande
 
 &emsp;"(3)
 
-Clandestine laboratory recertification and awareness training.—A program of clandestine laboratory recertification and awareness training, whichshall provide information and training to State and local law enforcement personnel for purposes of enabling such personnel to provide recertification and awareness training relating to clandestine laboratories to additional State and local law enforcement personnel.
+Clandestine laboratory recertification and awareness training.—A program of clandestine laboratory recertification and awareness training, which shall provide information and training to State and local law enforcement personnel for purposes of enabling such personnel to provide recertification and awareness training relating to clandestine laboratories to additional State and local law enforcement personnel.
 
 "(c)
 

@@ -46,7 +46,7 @@ In the case of each of fiscal years 1994 through 1998, there are authorized to b
 
 #### (c) Funding levels
 
-The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified insubsection (b) of this section, as provided in advance in appropriations Acts.
+The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b), as provided in advance in appropriations Acts.
 
 #### (d) Availability of funds for insured loans
 

@@ -56,7 +56,7 @@ There is established an Urban Area Security Initiative to provide grants to assi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In designating high-risk urban areas under subparagraph (A), the Administratorshall determine which jurisdictions, at a minimum, shall be included in each high-risk urban area.
+&emsp;&emsp;&emsp;In designating high-risk urban areas under subparagraph (A), the Administrator shall determine which jurisdictions, at a minimum, shall be included in each high-risk urban area.
 
 #### (ii) Additional jurisdictions
 

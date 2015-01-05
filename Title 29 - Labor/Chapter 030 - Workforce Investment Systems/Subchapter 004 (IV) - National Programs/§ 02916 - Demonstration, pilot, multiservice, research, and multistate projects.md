@@ -68,7 +68,7 @@
 
 #### (1) Multiservice projects
 
-&emsp;Under a plan published under subsection (a) of this section, the Secretary shall, throughgrants or contracts, carry out multiservice projects—
+&emsp;Under a plan published under subsection (a) of this section, the Secretary shall, through grants or contracts, carry out multiservice projects—
 
 &emsp;&emsp;(A) that will test an array of approaches to the provision of employment and training services to a variety of targeted populations;
 
@@ -140,7 +140,7 @@
 
 #### (d) Dislocated worker projects
 
-Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Suchprojects shall be administered through the dislocated worker office described in section 2918(b) of this title.
+Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered through the dislocated worker office described in section 2918(b) of this title.
 
 #### (e) Energy efficiency and renewable energy worker training program
 
@@ -216,7 +216,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 &emsp;&emsp;&emsp;To be eligible to receive a grant under clause (i), an entity shall be a nonprofit partnership that—
 
-&emsp;&emsp;&emsp;&emsp;(I) includes the equal participation of industry, including public or private employers, and labor organizations, including joint labor-management training programs, and may include workforce investment boards, community-based organizations, qualified service and conservation corps, educational institutions, small businesses, cooperatives, State andlocal veterans agencies, and veterans service organizations; and
+&emsp;&emsp;&emsp;&emsp;(I) includes the equal participation of industry, including public or private employers, and labor organizations, including joint labor-management training programs, and may include workforce investment boards, community-based organizations, qualified service and conservation corps, educational institutions, small businesses, cooperatives, State and local veterans agencies, and veterans service organizations; and
 
 &emsp;&emsp;&emsp;&emsp;(II) demonstrates—
 
@@ -380,7 +380,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall negotiate and reach agreement with the eligible entities that receive grants and assistance under this section on performance measures for the indicators of performance referred to in subparagraphs (A) and (B) of section 2871(b)(2) of this title that will be used to evaluate the performance of the eligible entity in carrying out the activities described in subsection (e)(2). Each performance measure shall consist of such an indicator of performance, and a performance level referred to in subparagraph (B).
+&emsp;&emsp;The Secretary shall negotiate and reach agreement with the eligible entities that receive grants and assistance under this section on performance measures for the indicators of performance referred to in subparagraphs (A) and (B) of section 2871(b)(2) of thistitle that will be used to evaluate the performance of the eligible entity in carrying out the activities described in subsection (e)(2). Each performance measure shall consist of such an indicator of performance, and a performance level referred to in subparagraph (B).
 
 #### (B) Performance levels
 
@@ -412,6 +412,10 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 (Pub. L. 105–220, title I, §171, Aug. 7, 1998, 112 Stat. 1031; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 110–140, title X, §1002, Dec. 19, 2007, 121 Stat. 1748.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(1)(H) and (c)(2)(B)(i)(II), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
@@ -430,13 +434,17 @@ This Act, referred to in subsec. (e)(4)(B), is Pub. L. 105–220, Aug. 7, 1998, 
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Demonstration Programs and Projects To Provide Technical Skills Training for Workers
 
-Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653, as amended, formerly set out as a note under this section, was transferred and is classified to section 2916a of this title.
+Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653, as amended, formerly set out as anote under this section, was transferred and is classified to section 2916a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph "(6)".</i>
 

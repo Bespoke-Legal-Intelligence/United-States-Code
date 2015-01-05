@@ -2,11 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 1082 of this title, the accumulated funding deficiency of a multiemployer plan for any plan year is—
-
-&emsp;(1) except as provided in paragraph (2), the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years, and
-
-&emsp;(2) if the multiemployer plan is in reorganization for any plan year, the accumulated funding deficiency of the plan determined under section 1423 of this title.
+For purposes of section 1082 of this title, the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
 
 #### (b) Funding standard account
 
@@ -22,7 +18,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;(B) the amounts necessary to amortize in equal annual installments (until fully amortized)—
 
-&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan yearto which this section applies, over a period of 15 plan years,
+&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
 
 &emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
@@ -86,7 +82,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(ii) shall be taken into account in subsequent plan years by being amortized in equal annual installments (until fully amortized) over 30 plan years.
 
-> &emsp;&emsp;The preceding sentence shall not apply to the extent of any accumulated funding deficiency under section 1423(a) of this title as of the end of the last plan year that the plan was in reorganization.
+> &emsp;&emsp;The preceding sentence shall not apply to the extent of any accumulated funding deficiency under section 1423(a) <sup>1</sup> of this title as of the end of the last plan year that the plan was in reorganization.
 
 #### (C) Plan payments to supplemental program or withdrawal liability payment fund
 
@@ -394,10 +390,6 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(iv) the notice required under paragraph (3)(A) has been provided.
 
-#### (C) Termination
-
-&emsp;&emsp;The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.
-
 #### (2) Alternative extension
 
 #### (A) In general
@@ -430,9 +422,11 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Pub. L. 93–406, title I, §304, as added Pub. L. 109–280, title II, §201(a), Aug. 17, 2006, 120 Stat. 858; amended Pub. L. 111–192, title II, §211(a)(1), June 25, 2010, 124 Stat. 1302.)
+(Pub. L. 93–406, title I, §304, as added Pub. L. 109–280, title II, §201(a), Aug. 17, 2006, 120 Stat. 858; amended Pub. L. 111–192, title II, §211(a)(1), June 25, 2010, 124 Stat. 1302; Pub. L. 113–235, div. O, title I, §§101(b)(1), 108(a)(3)(B), Dec. 16, 2014, 128 Stat. 2774, 2787; Pub. L. 113–295, div. A, title I, §171(b), Dec. 19, 2014, 128 Stat. 4023.)
 
 #### References in Text
+
+Section 1423(a) of this title, referred to in subsec. (b)(7)(B), was repealed by Pub. L. 113–235, div. O, title I, §108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
 
 The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -444,7 +438,19 @@ A prior section 1084, Pub. L. 93–406, title I, §304, Sept. 2, 1974, 88 Stat. 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a). Pub. L. 113–235, §108(a)(3)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiencies of multiemployer plans.
+
+Subsec. (d)(1)(C). Pub. L. 113–295, which directed substitution of "December 31, 2015" for "December 31, 2014", was not executed in view of the amendment by Pub. L. 113–235, §101(b)(1), which struck out subpar. (C). See note below.
+
+Pub. L. 113–235, §101(b)(1), struck out subpar. (C). Text read as follows: "The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014."
+
 <b>2010</b>—Subsec. (b)(8). Pub. L. 111–192 added par. (8).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable to applications submitted under subsec. (d)(1)(C) of this section after Dec. 31, 2014, see section 171(c) of Pub. L. 113–295, set out as a note under section 431 of Title 26, Internal Revenue Code.
+
+Amendment by section 108(a)(3)(B) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of Pub. L. 113–235, set out as an Effective Date of Repeal note under section 418 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2010 Amendment
 
@@ -484,9 +490,9 @@ Use of shortfall method not to preclude other options.—Nothing in this subsect
 
 \[Pub. L. 109–280, §201(b), set out above, applicable to plan years beginning after 2007, with special rule for certain amortization extensions, see section 201(d) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1081 of this title.\]
 
-\[Pub. L. 109–280, §201(b), set out above, inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see section 221(c) of Pub. L. 109–280, set out as an Effective and Termination Dates of 2006 Amendment note under section 412 of Title 26, Internal Revenue Code.\]
-
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
 For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

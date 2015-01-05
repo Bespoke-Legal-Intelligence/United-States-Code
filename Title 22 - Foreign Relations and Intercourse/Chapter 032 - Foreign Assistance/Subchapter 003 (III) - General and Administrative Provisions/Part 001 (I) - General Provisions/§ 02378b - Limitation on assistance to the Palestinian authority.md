@@ -146,7 +146,7 @@ Oversight and Related Requirements.—
 
 &emsp;"(1)
 
-Oversight.—For each of the fiscal years 2007 and 2008, the Secretary of State shall certify to the appropriate congressional committees not later than 30 days prior to the initial obligation of amounts forassistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] that procedures have been established to ensure that the Comptroller General of the United States will have access to appropriate United States financial information in order to review the use of such assistance.
+Oversight.—For each of the fiscal years 2007 and 2008, the Secretary of State shall certify to the appropriate congressional committees not later than 30 days prior to the initial obligation of amounts for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] that procedures have been established to ensure that the Comptroller General of the United States will have access to appropriate United States financial information in order to review the use of such assistance.
 
 &emsp;"(2)
 

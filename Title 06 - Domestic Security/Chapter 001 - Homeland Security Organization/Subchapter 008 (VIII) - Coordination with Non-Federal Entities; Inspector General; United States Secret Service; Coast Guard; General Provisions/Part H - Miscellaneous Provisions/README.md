@@ -34,3 +34,4 @@ Part H—Miscellaneous Provisions
 - [&sect; 00469 - Fees for credentialing and background investigations in transportation](%C2%A7%2000469%20-%20Fees%20for%20credentialing%20and%20background%20investigations%20in%20transportation.md)
 - [&sect; 00469a - Collection of fees from non-Federal participants in meetings](%C2%A7%2000469a%20-%20Collection%20of%20fees%20from%20non-Federal%20participants%20in%20meetings.md)
 - [&sect; 00470 - Disclosures regarding homeland security grants](%C2%A7%2000470%20-%20Disclosures%20regarding%20homeland%20security%20grants.md)
+- [&sect; 00471 - Annual ammunition report](%C2%A7%2000471%20-%20Annual%20ammunition%20report.md)

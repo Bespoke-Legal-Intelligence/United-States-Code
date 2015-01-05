@@ -6,11 +6,11 @@
 
 (2) The unexpended balances referred to in paragraph (1) are—
 
-&emsp;(A) the unexpended balance of appropriations for security installations, as referred to in the paragraph under the heading “
+&emsp;(A) the unexpended balance of appropriations for security installations, as referred to in the paragraph under the heading "
 
-capitol buildings”, under the general headings “JOINT ITEMS”, “ARCHITECT OF THE CAPITOL”, and “
+capitol buildings", under the general headings "JOINT ITEMS", "ARCHITECT OF THE CAPITOL", and "
 
-Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriations Act, 1995 (108 Stat. 1434), including any unexpended balance from a prior fiscal year and any unexpended balance under such headings in this Act; and
+Capitol Buildings and Grounds" in title I of the Legislative Branch Appropriations Act, 1995 (108 Stat. 1434), including any unexpended balance from a prior fiscal year and any unexpended balance under such headings in this Act; and
 
 &emsp;(B) the unexpended balance of the appropriation for an improved security plan, as transferred to the Architect of the Capitol by section 102 of the Legislative Branch Appropriations Act, 1989 (102 Stat. 2165).
 
@@ -30,17 +30,17 @@ Effective October 1, 1995, the responsibility for design and installation of sec
 
 &emsp;(C) related to the design or installation of security systems for the Capitol buildings and grounds.
 
-(3) All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
+(3) All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, withoutadjustment, in the new position of the individual.
 
 (Pub. L. 104–53, title III, §308, Nov. 19, 1995, 109 Stat. 537.)
 
 #### References in Text
 
-The paragraph under the heading “
+The paragraph under the heading "
 
-capitol buildings”, under the general headings “JOINT ITEMS”, “ARCHITECT OF THE CAPITOL”, and “
+capitol buildings", under the general headings "JOINT ITEMS", "ARCHITECT OF THE CAPITOL", and "
 
-Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriations Act, 1995, referred to in subsec. (a)(2)(A), is contained in Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1423, 1434, and is not classified to the Code.
+Capitol Buildings and Grounds" in title I of the Legislative Branch Appropriations Act, 1995, referred to in subsec. (a)(2)(A), is contained in Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1423, 1434, and is not classified to the Code.
 
 This Act, referred to in subsec. (a)(2)(A), is Pub. L. 104–53, Nov. 19, 1995, 109 Stat. 514, known as the Legislative Branch Appropriations Act, 1996. Provisions under such headings in this Act appear at 109 Stat. 527, and are not classified to the Code.
 
@@ -48,7 +48,7 @@ Section 102 of the Legislative Branch Appropriations Act, 1989, referred to in s
 
 #### Codification
 
-In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was classified to section 212a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

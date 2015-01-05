@@ -1,0 +1,30 @@
+### §2297h–10b. Secretarial determinations; congressional notification
+
+#### (a) Secretarial determinations
+
+In this fiscal year, and in each subsequent fiscal year, any determination (including a determination made prior to December 16, 2014) by the Secretary of Energy under section 2297h–10(d)(2)(B) of this title shall be valid for not more than 2 calendar years subsequent to such determination.
+
+#### (b) Congressional notification
+
+In this fiscal year, and in each subsequent fiscal year, not less than 30 days prior to the provision of uranium in any form the Secretary of Energy shall notify the Committees on Appropriations of the House of Representatives and the Senate of the following—
+
+&emsp;(1) the provisions of law (including regulations) authorizing the provision of uranium;
+
+&emsp;(2) the amount of uranium to be provided;
+
+&emsp;(3) an estimate by the Secretary of Energy of the gross fair market value of the uranium on the expected date of the provision of the uranium;
+
+&emsp;(4) the expected date of the provision of the uranium;
+
+&emsp;(5) the recipient of the uranium;
+
+&emsp;(6) the value the Secretary of Energy expects to receive in exchange for the uranium, including any adjustments to the gross fair market value of the uranium; and
+
+&emsp;(7) whether the uranium to be provided is encumbered by any restriction on use under an international agreement or otherwise.
+
+(Pub. L. 113–235, div. D, title III, §306, Dec. 16, 2014, 128 Stat. 2324.)
+
+#### Codification
+
+Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+

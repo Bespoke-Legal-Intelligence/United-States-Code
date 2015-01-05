@@ -14,11 +14,11 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–356 designated existing provisions as subsec. (a), substituted “Subject to subsection (b), effective” for “Effective”, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–356 designated existing provisions as subsec. (a), substituted "Subject to subsection (b), effective" for "Effective", and added subsec. (b).
 
-<b>1990</b>—Pub. L. 101–509 substituted “5303” for “5305”.
+<b>1990</b>—Pub. L. 101–509 substituted "5303" for "5305".
 
-<b>1989</b>—Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
+<b>1989</b>—Pub. L. 101–194 substituted "corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect" for "corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule".
 
 #### Effective Date of 1994 Amendment
 
@@ -30,95 +30,95 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: “This section and the amendments made by this section \[amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
+Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: "This section and the amendments made by this section \[amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991."
 
 #### Salary Levels of Senior Government Officials
 
-Pub. L. 102–90, title I, §6(a), Aug. 14, 1991, 105 Stat. 450, provided that: “The rate of pay for the offices referred to under section 703(a)(2)(B) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted.”
+Pub. L. 102–90, title I, §6(a), Aug. 14, 1991, 105 Stat. 450, provided that: "The rate of pay for the offices referred to under section 703(a)(2)(B) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted."
 
 Pub. L. 101–194, title VII, §703, Nov. 30, 1989, 103 Stat. 1768, provided that:
 
-“(a)
+"(a)
 
 Salary Levels.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Executive positions.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for positions in the Executive Schedule shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Legislative positions; office of the vice president.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Generally.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the offices and positions under subparagraphs (A) and (B) of section 225(f) of the Federal Salary Act of 1967 (2 U.S.C. 356(A) and (B)) shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100), except as provided in subparagraph (B).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Exceptions.—Nothing in subparagraph (A) shall affect the rate of basic pay for a Senator, the President pro tempore of the Senate, or the majority leader or the minority leader of the Senate.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Judicial positions.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
-“(b)
+"(b)
 
-Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position asof the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
+Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first."
 
 #### Revision in Method by Which Annual Pay Adjustments for Certain Executive, Legislative, and Judicial Positions Are To Be Made
 
 Pub. L. 101–194, title VII, §704(a), Nov. 30, 1989, 103 Stat. 1769, provided that:
 
-“(a)
+"(a)
 
 Percent Change in the Employment Cost Index.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Method for computing percent change in the eci.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Definitions.—For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;“(i) the term ‘Employment Cost Index’ or ‘ECI’ means the Employment Cost Index (wages and salaries, private industry workers) published quarterly by the Bureau of Labor Statistics; and
+&emsp;&emsp;&emsp;"(i) the term 'Employment Cost Index' or 'ECI' means the Employment Cost Index (wages and salaries, private industry workers) published quarterly by the Bureau of Labor Statistics; and
 
-&emsp;&emsp;&emsp;“(ii) the term ‘base quarter’ means the 3-month period ending on December 31 of a year.
+&emsp;&emsp;&emsp;"(ii) the term 'base quarter' means the 3-month period ending on December 31 of a year.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Method.—For purposes of the provisions of law amended by paragraph (2), the ‘most recent percentage change in the ECI’, as of any date, shall be one-half of 1 percent less than the percentage (rounded to the nearest one-tenth of 1 percent) derived by—
+Method.—For purposes of the provisions of law amended by paragraph (2), the 'most recent percentage change in the ECI', as of any date, shall be one-half of 1 percent less than the percentage (rounded to the nearest one-tenth of 1 percent) derived by—
 
-&emsp;&emsp;&emsp;“(i) reducing—
+&emsp;&emsp;&emsp;"(i) reducing—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the ECI for the last base quarter prior to that date, by
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the ECI for the last base quarter prior to that date, by
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the ECI for the second to last base quarter prior to that date,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the ECI for the second to last base quarter prior to that date,
 
-&emsp;&emsp;&emsp;“(ii) dividing the difference under clause (i) by the ECI for the base quarter referred to in clause (i)(II), and
+&emsp;&emsp;&emsp;"(ii) dividing the difference under clause (i) by the ECI for the base quarter referred to in clause (i)(II), and
 
-&emsp;&emsp;&emsp;“(iii) multiplying the quotient under clause (ii) by 100, except that no percentage change determined under this paragraph shall be—
+&emsp;&emsp;&emsp;"(iii) multiplying the quotient under clause (ii) by 100, except that no percentage change determined under this paragraph shall be—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) less than zero; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) less than zero; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) greater than 5 percent.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) greater than 5 percent.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Provisions through which new method is to be implemented.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-Amendment to titles 3, 5, and 28 of the united states code.—Section 104 of title 3, United States Code, section 5318 of title 5, United States Code, and section 461(a) of title 28, United States Code, are amended by striking ‘corresponds to’ and all that follows thereafter through the period, and inserting the following:
+Amendment to titles 3, 5, and 28 of the united states code.—Section 104 of title 3, United States Code, section 5318 of title 5, United States Code, and section 461(a) of title 28, United States Code, are amended by striking 'corresponds to' and all that follows thereafter through the period, and inserting the following:
 
-> ‘corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.’.
+> 'corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.'.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Amendment to the legislative reorganization act of 1946.—Section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] is amended by striking ‘corresponds to’ and all that follows thereafter through the period and inserting the following:
+Amendment to the legislative reorganization act of 1946.—Section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] is amended by striking 'corresponds to' and all that follows thereafter through the period and inserting the following:
 
-> ‘corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.’.”
+> 'corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.'."
 
 #### Reduction of Rate of Salary or Basic Pay of Offices or Positions in the Executive, Legislative, and Judicial Branches to the Salary or Basic Pay Rate Payable as of July 14, 1983
 
@@ -148,7 +148,7 @@ Similar provisions were contained in Pub. L. 96–369, §101(c), Oct. 1, 1980, 9
 
 #### Fiscal Year 1980 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year. \[For information regarding constitutionality of certain provisions of section 101(c) of Pub. L. 96–86 as applied to Federal judges, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
+Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year. \[For information regarding constitutionality of certain provisions of section 101(c) of Pub. L. 96–86 as applied to Federal judges, see Congressional ResearchService, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
 
 #### Fiscal Year 1979 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 

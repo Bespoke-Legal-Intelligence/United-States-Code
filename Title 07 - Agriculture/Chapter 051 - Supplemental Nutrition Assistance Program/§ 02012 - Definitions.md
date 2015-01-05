@@ -6,7 +6,7 @@ As used in this chapter, the term:
 
 (b) "Allotment" means the total value of benefits a household is authorized to receive during each month.
 
-(c) "Allowable medical expenses" means expenditures for (1) medical and dental care, (2) hospitalization or nursing care (including hospitalization or nursing care of an individual who was a household member immediately prior to entering a hospital or nursing home), (3) prescription drugs when prescribed by a licensedpractitioner authorized under State law and over-the-counter medication (including insulin) when approved by a licensed practitioner or other qualified health professional, (4) health and hospitalization insurance policies (excluding the costs of health and accident or income maintenance policies), (5) medicare premiums related to coverage under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], (6) dentures, hearing aids, and prosthetics (including the costs of securing and maintaining a seeing eye dog), (7) eye glasses prescribed by a physician skilled in eye disease or by an optometrist, (8) reasonable costs of transportation necessary to secure medical treatment or services, and (9) maintaining an attendant, homemaker, home health aide, housekeeper, or child care services due to age, infirmity, or illness.
+(c) "Allowable medical expenses" means expenditures for (1) medical and dental care, (2) hospitalization or nursing care (including hospitalization or nursing care of an individual whowas a household member immediately prior to entering a hospital or nursing home), (3) prescription drugs when prescribed by a licensed practitioner authorized under State law and over-the-counter medication (including insulin) when approved by a licensed practitioner or other qualified health professional, (4) health and hospitalization insurance policies (excluding the costs of health and accident or income maintenance policies), (5) medicare premiums related to coverage under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], (6) dentures, hearing aids, and prosthetics (including the costs of securing and maintaining a seeing eye dog), (7) eye glasses prescribed by a physician skilled in eye disease or by an optometrist, (8) reasonable costs of transportation necessary to secure medical treatment or services, and (9) maintaining an attendant, homemaker, home health aide, housekeeper, or child care services due to age, infirmity, or illness.
 
 (d)
 
@@ -22,7 +22,7 @@ Benefit Issuer.—The term "benefit issuer" means any office of the State agency
 
 (f) "Certification period" means the period for which households shall be eligible to receive benefits. The certification period shall not exceed 12 months, except that the certification period may be up to 24 months if all adult household members are elderly or disabled. A State agency shall have at least 1 contact with each certified household every 12 months. The limits specified in this subsection may be extended until the end of any transitional benefit period established under section 2020(s) of this title.
 
-(g) "Coupon" means any coupon, stamp, type of certificate, authorization card,<sup>1</sup> cash or check issued in lieu of a coupon,.<sup>2</sup>
+(g) "Coupon" means any coupon, stamp, type of certificate, authorization card, cash or check issued in lieu of a coupon.
 
 (h) "Drug addiction or alcoholic treatment and rehabilitation program" means any such program conducted by a private nonprofit organization or institution, or a publicly operated community mental health center, under part B of title XIX of the Public Health Service Act (42 U.S.C. 300x et seq.) to provide treatment that can lead to the rehabilitation of drug addicts or alcoholics.
 
@@ -60,11 +60,9 @@ Card.—The term "EBT card" means an electronic benefit transfer card issued und
 
 &emsp;(7) is an individual receiving an annuity under section 2(a)(1)(iv) or 2(a)(1)(v) of the Railroad Retirement Act of 1974 (45 U.S.C. 231a(a)(1)(iv) or 231a(a)(1)(v)), if the individual's service as an employee under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], after December 31, 1936, had been included in the term "employment" as defined in the Social Security Act \[42 U.S.C. 301 et seq.\], and if an application for disability benefits had been filed.
 
-(k) "Food" means (1) any food or food product for home consumption except alcoholic beverages, tobacco, and hot foods or hot food products ready for immediate consumption other than those authorized pursuant to clauses (3), (4), (5), (7), (8), and (9) of this subsection, (2) seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, (3) in the case of those persons who are sixty years of age or over or who receive supplemental security income benefits or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and their spouses, meals prepared by and served in senior citizens' centers, apartment buildings occupied primarily by such persons, public or private nonprofit establishments (eating or otherwise) that feed such persons, private establishments that contract with the appropriate agency of the State to offer meals for such persons at concessional prices, and meals prepared for and served to residents of federally subsidized housing for the elderly, (4) in the case of persons sixty years of age or over and persons who are physically or mentally handicapped or otherwise so disabled that they are unable adequately to prepare all of their meals, meals prepared for and delivered to them (and their spouses) at their home by a public or private nonprofit organization or by a private establishment that contracts with the appropriate State agency to perform such services at concessional prices, (5) in the case of narcotics addicts or alcoholics, and their children, served by drug addiction or alcoholic treatment and rehabilitation programs, meals prepared and served under such programs, (6) in the case of certain eligible households living in Alaska, equipment for procuring food by hunting and fishing, such as nets, hooks, rods, harpoons, and knives (but not equipment for purposes of transportation, clothing, or shelter, and not firearms, ammunition, and explosives) if the Secretary determines that such households are located in an area of the State where it is extremely difficult to reach stores selling food and that such households depend to a substantial extent upon hunting and fishing for subsistence, (7) in the case of disabled or blind recipients of benefits under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], or are <sup>3</sup> individuals described in paragraphs (2) through (7) of subsection (j) of this section, who are residents in a public or private nonprofit group living arrangement that serves no more than sixteen residents and is certified by the appropriate State agency or agencies under regulations issued under section 1616(e) of the Social Security Act \[42 U.S.C. 1382e(e)\] or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section, meals prepared and served under such arrangement, (8) in the case of women and children temporarily residing in public or private nonprofit shelters for battered women and children, meals prepared and served, by such shelters, and (9) in the case of households that do not reside in permanent dwellings and households that have no fixed mailing addresses, meals prepared for and served by a public or private nonprofit establishment (approved by an appropriate State or local agency) that feeds such individuals and by private establishments that contract with the appropriate agency of the State to offer meals for such individuals at concessional prices.
+(k) "Food" means (1) any food or food product for home consumption except alcoholic beverages, tobacco, hot foods or hot food products ready for immediate consumption other than those authorized pursuant to clauses (3), (4), (5), (7), (8), and (9) of this subsection, and any deposit fee in excess of the amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle or can, regardless of whether the fee is included in the shelf price posted for the food orfood product, (2) seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, (3) in the case of those persons who are sixty years of age or over or who receive supplemental security income benefits or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and their spouses, meals prepared by and served in senior citizens' centers, apartment buildings occupied primarily by such persons, public or private nonprofit establishments (eating or otherwise) that feed such persons, private establishments that contract with the appropriate agency of the State to offer meals for such persons at concessional prices subject to section 2018(h) of this title, and meals prepared for and served to residents of federally subsidized housing for the elderly, (4) in the case of persons sixty years of age or over and persons who are physically or mentally handicapped or otherwise so disabled that they are unable adequately to prepare all of their meals, meals prepared for and delivered to them (and their spouses) at their home by a public or private nonprofit organization or by a private establishment that contracts with the appropriate State agency to perform such services at concessional prices subject to section 2018(h) of this title, (5) in the case of narcotics addicts or alcoholics, and their children, served by drug addiction or alcoholic treatment and rehabilitation programs, meals prepared and served under such programs, (6) in the case of certain eligible households living in Alaska, equipment for procuring food by hunting and fishing, such as nets, hooks, rods, harpoons, and knives (but not equipment for purposes of transportation, clothing, or shelter, and not firearms, ammunition, and explosives) if the Secretary determines that such households are located in an area of the State where it is extremely difficult to reach stores selling food and that such households depend to a substantial extent upon hunting and fishing for subsistence, (7) in the case of disabled or blind recipients of benefits under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and individuals described in paragraphs (2) through (7) of subsection (j), who are residents in a public or private nonprofit group living arrangement that serves no more than sixteen residents and is certified by the appropriate State agency or agencies under regulations issued under section 1616(e) of the Social Security Act \[42 U.S.C. 1382e(e)\] or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section, meals prepared and served under such arrangement, (8) in the case of women and children temporarily residing in public or private nonprofit shelters for battered women and children, meals prepared and served, by such shelters, and (9) in the case of households that do not reside in permanent dwellings and households that have no fixed mailing addresses, meals prepared for and served by a public or private nonprofit establishment (approved by an appropriate State or local agency) that feeds such individuals and by private establishments that contract with the appropriate agency of the State to offer meals for such individuals at concessional prices subject to section 2018(h) of this title.
 
-(l) "Supplemental nutrition assistance program" means the program operated pursuant to the provisions of this chapter.
-
-(m) "Homeless individual" means—
+(l) "Homeless individual" means—
 
 &emsp;(1) an individual who lacks a fixed and regular nighttime residence; or
 
@@ -78,7 +76,7 @@ Card.—The term "EBT card" means an electronic benefit transfer card issued und
 
 &emsp;&emsp;(D) a public or private place not designed for, or ordinarily used as, a regular sleeping accommodation for human beings.
 
-(n)(1) "Household" means—
+(m)(1) "Household" means—
 
 &emsp;(A) an individual who lives alone or who, while living with others, customarily purchases food and prepares meals for home consumption separate and apart from the others; or
 
@@ -92,9 +90,9 @@ Card.—The term "EBT card" means an electronic benefit transfer card issued und
 
 (5) For the purposes of this subsection, the following persons shall not be considered to be residents of institutions and shall be considered to be individual households:
 
-&emsp;(A) Residents of federally subsidized housing for the elderly, disabled or blind recipients of benefits under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
+&emsp;(A) Residents of federally subsidized housing for the elderly, disabled or blind recipients ofbenefits under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
 
-&emsp;(B) Individuals described in paragraphs (2) through (7) of subsection (j) of this section, who are residents in a public or private nonprofit group living arrangement that serves no more than sixteen residents and is certified by the appropriate State agency or agencies under regulations issued under section 1616(e) of the Social Security Act \[42 U.S.C. 1382e(e)\] or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under that section.
+&emsp;(B) Individuals described in paragraphs (2) through (7) of subsection (j), who are residents in a public or private nonprofit group living arrangement that serves no more than sixteen residents and is certified by the appropriate State agency or agencies under regulations issued under section 1616(e) of the Social Security Act \[42 U.S.C. 1382e(e)\] or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under that section.
 
 &emsp;(C) Temporary residents of public or private nonprofit shelters for battered women and children.
 
@@ -102,13 +100,13 @@ Card.—The term "EBT card" means an electronic benefit transfer card issued und
 
 &emsp;(E) Narcotics addicts or alcoholics, together with their children, who live under the supervision of a private nonprofit institution, or a publicly operated community mental health center, for the purpose of regular participation in a drug or alcoholic treatment program.
 
-(o) "Reservation" means the geographically defined area or areas over which a tribal organization exercises governmental jurisdiction.
+(n) "Reservation" means the geographically defined area or areas over which a tribal organization exercises governmental jurisdiction.
 
-(p) "Retail food store" means—
+(o) "Retail food store" means—
 
 &emsp;(1) an establishment or house-to-house trade route that sells food for home preparation and consumption and—
 
-&emsp;&emsp;(A) offers for sale, on a continuous basis, a variety of foods in each of the 4 categories of staple foods specified in subsection (r)(1) of this section, including perishable foods in at least 2 of the categories; or
+&emsp;&emsp;(A) offers for sale, on a continuous basis, a variety of at least 7 foods in each of the 4 categories of staple foods specified in subsection (r)(1), including perishable foods in at least 3 of the categories; or
 
 &emsp;&emsp;(B) has over 50 percent of the total sales of the establishment or route in staple foods,
 
@@ -116,13 +114,31 @@ Card.—The term "EBT card" means an electronic benefit transfer card issued und
 
 &emsp;(2) an establishment, organization, program, or group living arrangement referred to in paragraphs (3), (4), (5), (7), (8), and (9) of subsection (k);
 
-&emsp;(3) a store purveying the hunting and fishing equipment described in subsection (k)(6); and
+&emsp;(3) a store purveying the hunting and fishing equipment described in subsection (k)(6);
 
-&emsp;(4) any private nonprofit cooperative food purchasing venture, including those in which the members pay for food purchased prior to the receipt of such food.
+&emsp;(4) any private nonprofit cooperative food purchasing venture, including those in which the members pay for food purchased prior to the receipt of such food, or agricultural producers who market agricultural products directly to consumers; and
 
-(q) "Secretary" means the Secretary of Agriculture.
+&emsp;(5) a governmental or private nonprofit food purchasing and delivery service that—
 
-(r)(1) Except as provided in paragraph (2), "staple foods" means foods in the following categories:
+&emsp;&emsp;(A) purchases food for, and delivers the food to, individuals who are—
+
+&emsp;&emsp;&emsp;(i) unable to shop for food; and
+
+&emsp;&emsp;&emsp;(ii)(I) not less than 60 years of age; or
+
+&emsp;&emsp;&emsp;(II) physically or mentally handicapped or otherwise disabled;
+
+&emsp;&emsp;(B) clearly notifies the participating household at the time the household places a food order—
+
+&emsp;&emsp;&emsp;(i) of any delivery fee associated with the food purchase and delivery provided to the household by the service; and
+
+&emsp;&emsp;&emsp;(ii) that a delivery fee cannot be paid with benefits provided under supplemental nutrition assistance program; and
+
+&emsp;&emsp;(C) sells food purchased for the household at the price paid by the service for the food and without any additional cost markup.
+
+(p) "Secretary" means the Secretary of Agriculture.
+
+(q)(1) Except as provided in paragraph (2), "staple foods" means foods in the following categories:
 
 &emsp;(A) Meat, poultry, or fish.
 
@@ -134,9 +150,11 @@ Card.—The term "EBT card" means an electronic benefit transfer card issued und
 
 (2) "Staple foods" do not include accessory food items, such as coffee, tea, cocoa, carbonated and uncarbonated drinks, candy, condiments, and spices.
 
-(s) "State" means the fifty States, the District of Columbia, Guam, the Virgin Islands of the United States, and the reservations of an Indian tribe whose tribal organization meets the requirements of this chapter for participation as a State agency.
+(r) "State" means the fifty States, the District of Columbia, Guam, the Virgin Islands of the United States, and the reservations of an Indian tribe whose tribal organization meets the requirements of this chapter for participation as a State agency.
 
-(t) "State agency" means (1) the agency of State government, including the local offices thereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under section 2013(b) of this title or a supplemental nutrition assistance program under section 2020(d) of this title.
+(s) "State agency" means (1) the agency of State government, including the local offices thereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under section 2013(b) of this title or a supplemental nutrition assistance program under section 2020(d) of this title.
+
+(t) "Supplemental nutrition assistance program" means the program operated pursuant to this chapter.
 
 (u) "Thrifty food plan" means the diet required to feed a family of four persons consisting of a man and a woman twenty through fifty, a child six through eight, and a child nine through eleven years of age, determined in accordance with the Secretary's calculations. The cost of such diet shall be the basis for uniform allotments for all households regardless of their actual composition, except that the Secretary shall—
 
@@ -150,11 +168,11 @@ Card.—The term "EBT card" means an electronic benefit transfer card issued und
 
 (v) "Tribal organization" means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term "Indian tribe" is defined in the Indian Self-Determination Act (25 U.S.C. 450b(b)), as well as any Indian tribe, band, or community holding a treaty with a State government.
 
-(Pub. L. 88–525, §3, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §2, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 92–603, title IV, §411(a), (b), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, §3(a)–(c), (l), (o), (p), Aug. 10, 1973, 87 Stat. 246, 248, 249; Pub. L. 93–125, §1(h), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §4,July 5, 1976, 90 Stat. 801; Pub. L. 95–113, title XIII, §§1301, 1302(a)(1), Sept. 29, 1977, 91 Stat. 958, 979; Pub. L. 96–58, §§3, 7, Aug. 14, 1979, 93 Stat. 390, 392; Pub. L. 96–181, §15(b), Jan. 2, 1980, 93 Stat. 1316; Pub. L. 96–249, title I, §§101(a), 111, 135, May 26, 1980, 94 Stat. 357, 360, 369; Pub. L. 97–35, title I, §§101–103, 108(a), 116(a)(1), Aug. 13, 1981, 95 Stat. 358, 361, 364; Pub. L. 97–98, title XII, §§1302–1304, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 97–253, title I, §§142, 143(a), 144, 145(a), (b), Sept. 8, 1982, 96 Stat. 772–774; Pub. L. 98–204, §3, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§1501(a), 1502–1504, Dec. 23, 1985, 99 Stat. 1566; Pub. L. 99–570, title XI, §11002(a)–(c), Oct. 27, 1986, 100 Stat. 3207–167, 3207–168; Pub. L. 100–77, title VIII, §§801, 802(a), July 22, 1987, 101 Stat. 533, 534; Pub. L. 100–435, title I, §120, title III, §350, Sept. 19, 1988, 102 Stat. 1655, 1664; Pub. L. 101–624, title XVII, §§1712, 1713(a), 1747(b), Nov. 28, 1990, 104 Stat. 3783, 3796; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–237, title IX, §§901, 941(1), Dec. 13, 1991, 105 Stat. 1884, 1891; Pub. L. 102–351, §1, Aug. 26, 1992, 106 Stat. 937; Pub. L. 103–66, title XIII, §§13931, 13932, Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–225, title I, §101(b)(1), title II, §201, Mar. 25, 1994, 108 Stat. 107, 108; Pub. L. 103–354, title III, §303(a), Oct. 13, 1994, 108 Stat. 3239; Pub. L. 104–193, title VIII, §§801–805, Aug. 22, 1996, 110 Stat. 2308, 2309; Pub. L. 107–171, title IV, §§4112(b)(1), 4115(b)(1), May 13, 2002, 116 Stat. 312, 315; Pub. L. 108–199, div. A, title VII, §771(a), Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title IV, §§4001(b), 4115(b)(1), May 22, 2008, 122 Stat. 1092, 1105; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4115(b)(1), June 18, 2008, 122 Stat. 1664, 1853, 1866.)
+(Pub. L. 88–525, §3, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §2, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 92–603, title IV, §411(a), (b), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, §3(a)–(c), (l), (o), (p), Aug. 10, 1973, 87 Stat. 246, 248, 249; Pub. L. 93–125, §1(h), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §4, July 5, 1976, 90 Stat. 801; Pub. L. 95–113, title XIII, §§1301, 1302(a)(1), Sept. 29, 1977, 91 Stat. 958, 979; Pub. L. 96–58, §§3, 7, Aug. 14, 1979, 93 Stat. 390, 392; Pub. L. 96–181, §15(b), Jan. 2, 1980, 93 Stat. 1316; Pub. L. 96–249, title I, §§101(a), 111, 135, May 26, 1980, 94 Stat. 357, 360, 369; Pub. L. 97–35, title I, §§101–103, 108(a), 116(a)(1), Aug. 13, 1981, 95 Stat. 358, 361, 364; Pub. L. 97–98, title XII, §§1302–1304, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 97–253, title I, §§142, 143(a), 144, 145(a), (b), Sept. 8, 1982, 96 Stat. 772–774; Pub. L. 98–204, §3, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§1501(a), 1502–1504, Dec. 23, 1985, 99 Stat. 1566; Pub. L. 99–570, title XI, §11002(a)–(c), Oct. 27, 1986, 100 Stat. 3207–167, 3207–168; Pub. L. 100–77, title VIII, §§801, 802(a), July 22, 1987, 101 Stat. 533, 534; Pub. L. 100–435, title I, §120, title III, §350, Sept. 19, 1988, 102 Stat. 1655, 1664; Pub. L. 101–624, title XVII, §§1712, 1713(a), 1747(b), Nov. 28, 1990, 104 Stat. 3783, 3796; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–237, title IX, §§901, 941(1), Dec. 13, 1991, 105 Stat. 1884, 1891; Pub. L. 102–351, §1, Aug. 26, 1992, 106 Stat. 937; Pub. L. 103–66, title XIII, §§13931, 13932, Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–225, title I, §101(b)(1), title II, §201, Mar. 25, 1994, 108 Stat. 107, 108; Pub. L. 103–354, title III, §303(a), Oct. 13, 1994, 108 Stat. 3239; Pub. L. 104–193, title VIII, §§801–805, Aug. 22, 1996, 110 Stat. 2308, 2309; Pub. L. 107–171, title IV, §§4112(b)(1), 4115(b)(1), May 13, 2002, 116 Stat. 312, 315; Pub. L. 108–199, div. A, title VII, §771(a), Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title IV, §§4001(b), 4115(b)(1), May 22, 2008, 122 Stat. 1092, 1105; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4115(b)(1), June 18, 2008, 122 Stat. 1664, 1853, 1866; Pub. L. 113–79, title IV, §§4001, 4002(a), 4003(a), 4012, 4014(c), 4030(a), Feb. 7, 2014, 128 Stat. 782, 784, 793, 794, 813.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c), (j), (k), and (n)(5)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles I, II, X, XIV, XVI, XVIII, and XIX of the Social Security Act are classified generally to subchapters I (§301 et seq.), II (§401 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XVIII (§1395 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c), (j), (k), and (m)(5)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles I, II, X, XIV, XVI, XVIII, and XIX of the Social Security Act are classified generally to subchapters I (§301 et seq.), II (§401 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XVIII (§1395 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XIX of the Act is classified generally to part B (§300x et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -168,7 +186,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §4115(b)(1)(M), redesignated subsecs. (a) to (v) as (b), (d), (f), (g), (e), (h), (k), (l), (n), (o), (p), (q), (s), (t), (u), (v), (c), (j), (m), (a), (r), and (i), respectively.
+<b>2014</b>—Subsec. (g). Pub. L. 113–79, §4030(a)(1), substituted "coupon" for "coupon," before period at end.
+
+Subsec. (k). Pub. L. 113–79, §4014(c), inserted "subject to section 2018(h) of this title" after "concessional prices" wherever appearing.
+
+Subsec. (k)(1). Pub. L. 113–79, §4001, substituted "hot foods" for "and hot foods" and inserted at end "and any deposit fee in excess of the amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle or can, regardless of whether the fee is included in the shelf price posted for the food or food product,".
+
+Subsec. (k)(7). Pub. L. 113–79, §4030(a)(2), substituted "and individuals" for "or are individuals".
+
+Subsec. (l) to (o). Pub. L. 113–79, §4030(a)(3), (4), redesignated subsecs. (m) to (p) as (l) to (o), respectively, and struck out former subsec. (l) which read as follows: " 'Supplemental nutrition assistance program' means the program operated pursuant to the provisions of this chapter."
+
+Subsec. (o)(4). Pub. L. 113–79, §4012, inserted ", or agricultural producers who market agricultural products directly to consumers" after "such food".
+
+Subsec. (p). Pub. L. 113–79, §4030(a)(4), redesignated subsec. (q) as (p). Former subsec. (p) redesignated (o).
+
+Subsec. (p)(1)(A). Pub. L. 113–79, §4002(a), inserted "at least 7" after "a variety of" and substituted "at least 3" for "at least 2".
+
+Subsec. (p)(5). Pub. L. 113–79, §4003(a), added par. (5).
+
+Subsecs. (q) to (s). Pub. L. 113–79, §4030(a)(4), redesignated subsecs. (r) to (t) as (q) to (s), respectively. Former subsec. (q) redesignated (p).
+
+Subsec. (t). Pub. L. 113–79, §4030(a)(5), added subsec. (t).
+
+Pub. L. 113–79, §4030(a)(4), redesignated subsec. (t) as (s).
+
+<b>2008</b>—Pub. L. 110–246, §4115(b)(1)(M), redesignated subsecs. (a) to (v) as (b), (d), (f), (g), (e), (h), (k), (l), (n), (o),\(p), (q), (s), (t), (u), (v), (c), (j), (m), (a), (r), and (i), respectively.
 
 Subsec. (a). Pub. L. 110–246, §4115(b)(1)(A), substituted "benefits" for "coupons".
 
@@ -208,7 +250,7 @@ Subsec. (v). Pub. L. 110–246, §4115(b)(1)(L), added subsec. (v).
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–171, §4115(b)(1), inserted at end "The limits specified in this subsection may be extended until the end of any transitional benefit period established under section 2020(s) of this title."
 
-Subsec. (i)(1). Pub. L. 107–171, §4112(b)(1)(A), (B), designated first sentence as par. (1) and redesignatedformer pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively.
+Subsec. (i)(1). Pub. L. 107–171, §4112(b)(1)(A), (B), designated first sentence as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively.
 
 Subsec. (i)(2). Pub. L. 107–171, §4112(b)(1)(C), designated second sentence as par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
@@ -240,11 +282,11 @@ Subsec. (u). Pub. L. 103–225, §201(2), added subsec. (u).
 
 Subsec. (i). Pub. L. 103–66, §13932(1), in last sentence inserted ", together with their children," after "narcotics addicts or alcoholics".
 
-Pub. L. 103–66, §13931, in first sentence, substituted "or (2) a group of individuals" for "(2) a group of individuals" and substituted a period for ", " after end of cl. (2), inserted "Spouses who live together, parents and their children 21 years of age or younger (who are not themselves parents living with their children or married and living with their spouses) who live together, and children (excluding foster children) under 18 years of age who live with and are under the parental control of a person other than their parent together with the person exercising parental control" before "shall be treated as a group of individuals" to create new second sentence and struck out ", unless one of the parents, or siblings, is an elderly or disabled member" after "if they do not do so", and in next sentence substituted "Notwithstanding the preceding sentences" for "Notwithstanding clause (1) of the preceding sentence".
+Pub. L. 103–66, §13931, in first sentence, substituted "or (2) a group of individuals" for "(2) a group of individuals" and substituted a period for ", " after end of cl. (2), inserted "Spouses who live together, parents and their children 21 years of age or younger (who are not themselves parents living with their children or married and living with their spouses) who live together, and children (excluding foster children) under 18 years of age who live with and are under the parental control of a person other than their parent together with theperson exercising parental control" before "shall be treated as a group of individuals" to create new second sentence and struck out ", unless one of the parents, or siblings, is an elderly or disabled member" after "if they do not do so", and in next sentence substituted "Notwithstanding the preceding sentences" for "Notwithstanding clause (1) of the preceding sentence".
 
 <b>1992</b>—Subsec. (o)(11). Pub. L. 102–351 inserted before period at end ", except that on October 1, 1992, the Secretary may not reduce the cost of such diet".
 
-<b>1991</b>—Subsecs. (g)(7), (i). Pub. L. 102–237, §901, inserted ", or are individuals described in paragraphs (2) through (7) of subsection (r) of this section," after "title I, II, X, XIV, or XVI of the Social Security Act".
+<b>1991</b>—Subsecs. (g)(7), (i). Pub. L. 102–237, §901, inserted ", or are individuals described in paragraphs (2) through (7) of subsection (r)," after "title I, II, X, XIV, or XVI of the Social Security Act".
 
 Subsec. (j). Pub. L. 102–237, §941(1)(A), made technical amendment to reference to subsection (p) of this section involving corresponding provision of original act.
 
@@ -318,7 +360,7 @@ Pub. L. 97–35, §§101, 102, inserted provisions relating to treatment as a gr
 
 Subsec. (m). Pub. L. 97–35, §116(a)(1), struck out reference to Puerto Rico.
 
-Subsec. (o). Pub. L. 97–98, §§1303, 1304, substituted in cl. (2) "Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska" for "Alaska and Hawaii to reflect the cost of food in those States", in cl. (6) provision that on Oct. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the twenty-one months ending the preceding June 30, 1982, for provision that on Apr. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Dec. 31, in cl. (7) provision that on Oct. 1, 1983, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, for provision that on July 1, 1983, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Mar. 31, struck out cl. (8) which provided that onOct. 1, 1984, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding June 30, and struck out cl. (9) which provided that on Oct. 1, 1985, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, and, as of every Jan. 1 thereafter, for the nine months ending the preceding Sept. 30 and the subsequent three months ending Dec. 31 as projected by the Secretary in light of the best available data, and inserted provision that the periods upon which adjustments are based be subject to revision by Act of Congress.
+Subsec. (o). Pub. L. 97–98, §§1303, 1304, substituted in cl. (2) "Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska" for "Alaska and Hawaii to reflect the cost of food in those States", in cl. (6) provision that on Oct. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the twenty-one months ending the preceding June 30, 1982, for provision that on Apr. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Dec. 31, in cl. (7) provision that on Oct. 1, 1983, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, for provision that on July 1, 1983, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Mar. 31, struck out cl. (8) which provided that on Oct. 1, 1984, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding June 30, and struck out cl. (9) which provided that on Oct. 1, 1985, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, and, as of every Jan. 1 thereafter, for the nine months ending the preceding Sept. 30 and the subsequent three months ending Dec. 31 as projected by the Secretary in light of the best available data, and inserted provision that the periods upon which adjustments are based be subject to revision by Act of Congress.
 
 Pub. L. 97–35, §§103, 116(a)(1) struck out applicability to Puerto Rico in clause (3), substituted provisions respecting adjustments on Apr. 1, 1982, for provisions respecting adjustments on Jan. 1, 1982, in cl. (6), and added cls. (7) to (9).
 
@@ -482,7 +524,7 @@ Sequestration.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, if a final order is issued for fiscal year 1989 under section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 902(b)), the amount made available to carry out the supplemental nutrition assistance program under section 18 of the Food and Nutrition Act of 2008 (7 U.S.C. 2027) shall be reduced by an amount equal to $110,000,000 multiplied by the amount of the percentage reduction for domestic programs required under such order. The reduction required by the preceding sentence shall be achieved by reducing the amount of the adjustment to the cost of the thrifty food plan for fiscal year 1989 under section 3(o)(9) of the Food and Nutrition Act of 2008 (as added by section 120 of this Act) \[section 2012(o)(9) of this title\].
+In general.—Notwithstanding any other provision of law, if a final order is issued for fiscal year 1989 under section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 902(b)), the amount made available to carry out the supplemental nutrition assistance program under section 18 of the Food and Nutrition Act of 2008 (7 U.S.C. 2027) shall be reduced by an amount equal to $110,000,000 multiplied by the amount of the percentage reduction for domestic programs required under such order. The reduction required by the preceding sentence shall be achieved by reducing the amount of the adjustment to the cost of the thrifty food plan for fiscal year 1989 under \[former\] section 3(o)(9) of the Food and Nutrition Act of 2008 (as added by section 120 of this Act) \[former section 2012(o)(9) of this title\].
 
 &emsp;"(2)
 
@@ -510,7 +552,7 @@ Pub. L. 99–570, title XI, §11002(f), Oct. 27, 1986, 100 Stat. 3207–168, as 
 
 Pub. L. 97–253, title I, §193, Sept. 8, 1982, 96 Stat. 789, provided that:
 
-"(a) Except as provided in subsection (b), this subtitle \[subtitle E (§§140–193) of title I of Pub. L. 97–253, amending this section and sections 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under this section and sections 1624, 2011, and 2028 of this title\] and the amendments made by this subtitle shall take effect on the date of the enactment of this subtitle \[Sept. 8, 1982\].
+"(a) Except as provided in subsection (b), this subtitle \[subtitle E (§§140–193) of title I of Pub. L. 97–253, amending this section and sections 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes underthis section and sections 1624, 2011, and 2028 of this title\] and the amendments made by this subtitle shall take effect on the date of the enactment of this subtitle \[Sept. 8, 1982\].
 
 "(b) Sections 180 and 188 \[amending sections 2020, 2025, 2027, and 2029 of this title\] shall take effect on October 1, 1982."
 
@@ -558,9 +600,37 @@ Pub. L. 92–603, title IV, §411(h), Oct. 30, 1972, 86 Stat. 1492, provided tha
 
 Pub. L. 93–86, §3(b), Aug. 10, 1978, 87 Stat. 246, cited as a credit to this section, was repealed, effective Oct. 1, 1977, by section 1302(a)(1) of Pub. L. 95–113. Section 3(b) of Pub. L. 93–86 had amended the definition of "household" in 1973 to exclude individuals receiving supplementary security income benefits under title XVI of the Social Security Act in certain months. For the period beginning Jan. 1, 1974, and ending September 30, 1978, Pub. L. 93–233, §8(a), Dec. 30, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, §1(a), (b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, §3, June 28, 1975, 89 Stat. 235; Pub. L. 94–365, §2, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §3, June 30, 1977, 91 Stat. 255, provided that the amendment by section 3(b) of Pub. L. 93–86 should not be effective and that the definition of "household" should read as it did before such amendment but with the addition of a new sentence to exclude individuals receiving certain Federal or State supplementary payments under certain circumstances.
 
+#### Regulations
+
+Pub. L. 113–79, title IV, §4003(b), Feb. 7, 2014, 128 Stat. 785, provided that:
+
+"(1)
+
+Issuance of rules.—The Secretary \[of Agriculture\] shall issue regulations that—
+
+&emsp;"(A) establish criteria to identify a food purchasing and delivery service referred to in section 3(p)(5) \[now 3(o)(5)\] of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(p)(5) \[now 2012(o)(5)\]); and
+
+&emsp;"(B) establish procedures to ensure that the service—
+
+&emsp;&emsp;"(i) does not charge more for a food item than the price paid by the service for the food item;
+
+&emsp;&emsp;"(ii) offers food delivery service at no or low cost to households under that Act \[7 U.S.C. 2011 et seq.\];
+
+&emsp;&emsp;"(iii) ensures that benefits provided under the supplemental nutrition assistance program are used only to purchase food (as defined in section 3 of that Act (7 U.S.C. 2012));
+
+&emsp;&emsp;"(iv) limits the purchase of food, and the delivery of the food, to households eligible to receive services described in section 3(p)(5) \[now 3(o)(5)\] of that Act (7 U.S.C. 2012(p)(5) \[now 2012(o)(5)\]);
+
+&emsp;&emsp;"(v) has established adequate safeguards against fraudulent activities, including unauthorized use of electronic benefit cards issued under that Act; and
+
+&emsp;&emsp;"(vi) meets such other requirements as the Secretary determines to be appropriate.
+
+"(2)
+
+Limitation.—Before the issuance of rules under paragraph (1), the Secretary may not approve more than 20 food purchasing and delivery services referred to in section 3(p)(5) \[now 3(o)(5)\] of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(p)(5) \[now 2012(o)(5)\]) to participate as retail food stores under the supplemental nutrition assistance program."
+
 #### Continued Eligibility
 
-Pub. L. 103–225, title II, §205, Mar. 25, 1994, 108 Stat. 109, as amended by Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), May 22, 2008, 122 Stat. 1095, 1096, 1109; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871, provided that: "An establishment or house-to-house trade route that is otherwise authorized to accept and redeem coupons under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) on the day before the date of enactment of this Act \[Mar. 25, 1994\] shall be considered to meet the definition of 'retail food store' in section 3(p) of that Act \[7 U.S.C. 2012(p)\] until the earlier of—
+Pub. L. 103–225, title II, §205, Mar. 25, 1994, 108 Stat. 109, as amended by Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), May 22, 2008, 122 Stat. 1095, 1096, 1109; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871, provided that: "An establishment or house-to-house trade route that is otherwise authorized to accept and redeem coupons under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) on the day before the date of enactment of this Act \[Mar. 25, 1994\] shall be considered to meet the definition of 'retail food store' in section 3(p) \[now 3(o)\] of that Act \[now 7 U.S.C. 2012(o)\] until the earlier of—
 
 &emsp;"(1) the periodic reauthorization of the establishment or route; or
 
@@ -586,21 +656,15 @@ Pub. L. 103–225, title II, §206, Mar. 25, 1994, 108 Stat. 109, as amended by 
 
 #### Continuing Eligibility of Certain Retail Food Stores
 
-Pub. L. 103–205, §2, Dec. 17, 1993, 107 Stat. 2418, as amended by Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), May 22, 2008, 122 Stat. 1095–1097, 1109; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870, 1871, provided that: "Notwithstanding any other provision of law, during the period beginning on the date of enactment of this Act \[Dec. 17, 1993\] and ending on March 15, 1994, an establishment or house-to-house trade route that is otherwise authorized to accept and redeem benefits under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) on the date of enactment of this Act may not be disqualified from participation in the supplemental nutrition assistance program solely because the establishment or trade route does not meet the definition of 'retail food store' under section 3(p)(1) of such Act (7 U.S.C. 2012(k)\[(p)\](1))."
+Pub. L. 103–205, §2, Dec. 17, 1993, 107 Stat. 2418, as amended by Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), May 22, 2008, 122 Stat. 1095–1097, 1109; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870, 1871, provided that: "Notwithstanding any other provision of law, during the period beginning on the date of enactment of this Act \[Dec. 17, 1993\] and ending on March 15, 1994, an establishment or house-to-house trade route that is otherwise authorized to accept and redeem benefits under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) on the date of enactment of this Act may not be disqualified from participation in the supplemental nutrition assistance program solely because the establishment or trade route does not meet the definition of 'retail food store' under section 3(p)(1) \[now 3(o)(1)\] of such Act (7 U.S.C. 2012(k)(1) \[now 2012(o)(1)\])."
 
 #### Publicly Operated Community Health Centers
 
-Pub. L. 98–107, §101(b), Oct. 1, 1983, 97 Stat. 734, provided in part: "That notwithstanding any other provision of law or this joint resolution, the provisions of subsections (f) and (i) of section 3 and section 10 of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\], as amended \[7 U.S.C. 2012(f), (i) and 2019\], concerning private, nonprofit drug addiction or alcoholic treatment and rehabilitation programs, shall also be applicable to publicly operated community health centers".
+Pub. L. 98–107, §101(b), Oct. 1, 1983, 97 Stat. 734, provided in part: "That notwithstanding any other provision of law or this joint resolution, the provisions of subsections (f) and (i) of section 3 and section 10 of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\], as amended \[7 U.S.C. 2012(h), (m) and 2019\], concerning private, nonprofit drug addiction or alcoholic treatment and rehabilitation programs, shall also be applicable to publicly operated community health centers".
 
 \[Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of Title 42, The Public Health and Welfare.\]
 
 #### Eligibility of Supplemental Security Income Recipients for Food Stamps During Prescribed Period Beginning January 1, 1974
 
 Provisions respecting eligibility of supplemental security income recipients for food stamps during prescribed period beginning Jan. 1, 1974, see section 8(c) of Pub. L. 93–233, Dec. 31, 1974, 87 Stat. 957, set out as a note under section 1382e of Title 42, The Public Health and Welfare.
-
-<i><sup>1</sup></i><i> So in original. The word "or" probably should appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. The word "are" probably should not appear.</i>
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary of Commerce, acting through the Director of the National Technical Information Service (hereafter in this section referred to as the "Director") is authorized to do the following:
 
-&emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the NationalTechnical Information Service (hereafter in this section referred to as the "Service").
+&emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the "Service").
 
 &emsp;(B) In addition to the authority regarding fees contained in section 2 of the Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950 (15 U.S.C. 1152), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D) of this section.
 
@@ -56,7 +56,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 &emsp;(2) cooperate and coordinate its operations with other Government scientific, technical, and engineering information programs;
 
-&emsp;(3) make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Printing Office;
+&emsp;(3) make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Publishing Office;
 
 &emsp;(4) in conjunction with the private sector as appropriate, collect, translate into English, and disseminate unclassified foreign scientific, technical, and engineering information;
 
@@ -90,7 +90,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 &emsp;(C) any change in the operating plan submitted under paragraph (3)(B) which would result in a variation from such plan with respect to expense levels of more than 10 percent.
 
-(Pub. L. 100–519, title II, §212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, §506(c), Feb. 14, 1992, 106 Stat. 27; Pub. L. 110–161, div. B, title I, §109, Dec. 26, 2007, 121 Stat. 1893.)
+(Pub. L. 100–519, title II, §212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, §506(c), Feb. 14, 1992, 106 Stat. 27; Pub. L. 110–161, div. B, title I, §109, Dec. 26, 2007, 121 Stat. 1893; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
@@ -114,13 +114,17 @@ Subsec. (a)(4) of this section repealed subsec. (h) of section 3710 of this titl
 
 <b>1991</b>—Subsec. (a)(1)(E). Pub. L. 102–140 added subpar. (E).
 
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (e)(3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
 #### Termination of Advisory Boards
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### National Technical Information Service Revolving Fund
 
-Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: "For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103."
+Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: "For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall betransferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -22,7 +22,7 @@ The Secretary shall approve any application or any modification thereof, submitt
 
 &emsp;(4) gives assurances that such agency has or will employ an adequate and competent staff of trained inspectors qualified under the laws of such State to make coal or other mine inspections within such State;
 
-&emsp;(5) provides for the extension and improvement of the State program for the improvement of coal or other mine health and safetyin the State, and provides that no advance notice of an inspection will be provided anyone;
+&emsp;(5) provides for the extension and improvement of the State program for the improvement of coal or other mine health and safety in the State, and provides that no advance notice of an inspection will be provided anyone;
 
 &emsp;(6) provides such fiscal control and fund accounting procedures as may be appropriate to assure proper disbursement and accounting of grants made to the States under this section;
 

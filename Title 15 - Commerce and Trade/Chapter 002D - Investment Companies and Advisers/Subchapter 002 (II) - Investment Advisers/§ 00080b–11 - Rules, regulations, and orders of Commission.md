@@ -14,7 +14,7 @@ Orders of the Commission under this subchapter shall be issued only after approp
 
 #### (d) Good faith compliance with rules and regulations
 
-No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
+No provision of this subchapter imposing any liability shall apply to any act done or omittedin good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
 #### (e) Disclosure rules on private funds
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 86–507 inserted "or certified mail" after "registered mai
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 913(g)(2), (h)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except asotherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by section 913(g)(2), (h)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 Amendment by section 406 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
 

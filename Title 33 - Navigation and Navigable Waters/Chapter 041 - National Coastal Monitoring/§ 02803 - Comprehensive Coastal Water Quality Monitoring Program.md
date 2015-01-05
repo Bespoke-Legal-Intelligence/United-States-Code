@@ -104,7 +104,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;(C) identify the water quality and biological parameters of the monitoring program and their relationship to these goals and objectives;
 
-&emsp;&emsp;(D) describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c) of this section;
+&emsp;&emsp;(D) describe the types of monitoring networks, surveys and other activities to beused to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c) of this section;
 
 &emsp;&emsp;(E) survey existing Federal, State, and local coastal monitoring activities and private compliance monitoring activities in or on the coastal waters covered by the program, describe the relationship of the program to those other monitoring activities, and integrate them, as appropriate, into the intensive monitoring program;
 

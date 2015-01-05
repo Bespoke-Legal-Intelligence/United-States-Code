@@ -130,7 +130,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (ii) Certain amounts included
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), the term "passive income" includes, except as provided in subparagraph (E)(iii) <sup>1</sup> or paragraph (3)(I) <sup>1</sup>, any amount includible in gross income under section 1293 (relating to certain passive foreign investment companies).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), the term "passive income" includes, except asprovided in subparagraph (E)(iii) <sup>1</sup> or paragraph (3)(I) <sup>1</sup>, any amount includible in gross income under section 1293 (relating to certain passive foreign investment companies).
 
 #### (iii) Exceptions
 
@@ -246,21 +246,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;&emsp;For purposes of this paragraph, the term "related person" has the meaning given such term by section 954(d)(3), except that such section shall be applied by substituting "the person with respect to whom the determination is being made" for "controlled foreign corporation" each place it appears.
 
-#### (J) Transitional rule
-
-&emsp;&emsp;For purposes of paragraph (1)—
-
-&emsp;&emsp;&emsp;(i) taxes paid or accrued in a taxable year beginning before January 1, 1987, with respect to income which was described in subparagraph (A) of paragraph (1) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) shall be treated as taxes paid or accrued with respect to income described in subparagraph (A) of paragraph (1) (as in effect after such date),
-
-&emsp;&emsp;&emsp;(ii) taxes paid or accrued in a taxable year beginning before January 1, 1987, with respect to income which was described in subparagraph (E) of paragraph (1) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) shall be treated as taxes paid or accrued with respect to income described in subparagraph (I) of paragraph (1) (as in effect after such date) except that—
-
-&emsp;&emsp;&emsp;&emsp;(I) such taxes shall be treated as paid or accrued with respect to shipping income to the extent the taxpayer establishes to the satisfaction of the Secretary that such taxes were paid or accrued with respect to such income,
-
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a person described in subparagraph (C)(i), such taxes shall be treated as paid or accrued with respect to financial services income to the extent the taxpayer establishes to the satisfaction of the Secretary that such taxes were paid or accrued with respect to such income, and
-
-&emsp;&emsp;&emsp;&emsp;(III) such taxes shall be treated as paid or accrued with respect to high withholding tax interest to the extent thetaxpayer establishes to the satisfaction of the Secretary that such taxes were paid or accrued with respect to such income, and
-
-&emsp;&emsp;&emsp;(iii) taxes paid or accrued in a taxable year beginning before January 1, 1987, with respect to income described in any other subparagraph of paragraph (1) (as so in effect before such date) shall be treated as taxes paid or accrued with respect to income described in the corresponding subparagraph of paragraph (1) (as so in effect after such date).
+#### \[(J) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(72), Dec. 19, 2014, 128 Stat. 4049\]
 
 #### (K) Transitional rules for 2007 changes
 
@@ -446,7 +432,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;&emsp;(ii) Any taxable income recognized solely by reason of subparagraph (A) shall have the same characterization it would have had if the taxpayer had sold or exchanged the property.
 
-&emsp;&emsp;(iii) The Secretary shall prescribe such regulations as he may deem necessary to provide for adjustments to the basis of property to reflect taxable income recognized solely by reason of subparagraph (A).
+&emsp;&emsp;(iii) The Secretary shall prescribe such regulations as he may deem necessary toprovide for adjustments to the basis of property to reflect taxable income recognized solely by reason of subparagraph (A).
 
 #### (C) Exceptions
 
@@ -476,7 +462,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (iv) Exception for certain asset acquisitions
 
-&emsp;&emsp;&emsp;A disposition shall not be treated as an applicable disposition under clause (ii) if itis part of a transaction or series of transactions in which the taxpayer (or any member of an affiliated group of corporations filing a consolidated return under section 1501 which includes the taxpayer) acquires the assets of a controlled foreign corporation in exchange for the shares of the controlled foreign corporation in a liquidation described in section 332 or a reorganization described in section 368(a)(1).
+&emsp;&emsp;&emsp;A disposition shall not be treated as an applicable disposition under clause (ii) if it is part of a transaction or series of transactions in which the taxpayer (or any member of an affiliated group of corporations filing a consolidated return under section 1501 which includes the taxpayer) acquires the assets of a controlled foreign corporation in exchange for the shares of the controlled foreign corporation in a liquidation described in section 332 or a reorganization described in section 368(a)(1).
 
 #### (v) Controlled foreign corporation
 
@@ -648,7 +634,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (7) Dividend
 
-&emsp;For purposes of this subsection, the term "dividend" includes any gain treated as ordinary income under section 1246 <sup>3</sup> or as a dividend under section 1248.
+&emsp;For purposes of this subsection, the term "dividend" includes any gain treated as a dividend under section 1248.
 
 #### (8) Coordination with subsection (f)
 
@@ -674,7 +660,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (B) Special rule
 
-&emsp;&emsp;Amounts included in gross income under section 951(a)(1) shall be treated as a dividend under subparagraph (A)(ii) only if dividends paid by each corporation (the stock in which is taken into account in determining whether the shareholder is a United States shareholder in the United States-owned foreign corporation), if paid to the United States shareholder, would be treated under a treaty obligation of the United States as arising from sources outside the United States (applied without regard to this subsection).
+&emsp;&emsp;Amounts included in gross income under section 951(a)(1) shall be treated as a dividend under subparagraph (A)(ii) only if dividends paid by each corporation (the stock in which is taken into account in determining whether the shareholder is a United States shareholder in the United States-owned foreign corporation), if paid to the United States shareholder, would be treated under a treaty obligation of the United States as arising from sources outside the UnitedStates (applied without regard to this subsection).
 
 #### (11) Regulations
 
@@ -746,7 +732,7 @@ If 2 or more domestic corporations would be members of the same affiliated group
 
 &emsp;&emsp;<b>(2) For modification of limitation under subsection (a) for purposes of determining the amount of credit which can be taken against the alternative minimum tax, see section 59(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 287; Pub. L. 85–866, title I, §42(a), Sept. 2, 1958, 72 Stat. 1639; Pub. L. 86–780, §1, Sept. 14, 1960, 74 Stat. 1010; Pub. L. 87–834, §§10(a), 12(b)(2), Oct. 16, 1962, 76 Stat. 1002, 1031; Pub. L. 88–272, title II, §234(b)(6), Feb. 26, 1964, 78 Stat. 116; Pub. L. 89–809, title I, §106(c)(1), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 91–172, title V, §506(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 92–178, title V, §502(b)(2)–(4), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title V, §503(b)(1), title X, §§1031(a), 1032(a), 1034(a), 1051(e), title XIX, §1901(b)(10)(B), Oct. 4, 1976, 90 Stat. 1562, 1620, 1624, 1629, 1646, 1795; Pub. L. 95–30, title I, §102(b)(11), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §§403(c)(4), 421(e)(6), title VII, §701(q)(2), (u)(2)(A)–(C), (3)(A), (4)(A), (B), (8)(C), Nov. 6, 1978, 92 Stat. 2868, 2876, 2910, 2913, 2916; Pub. L. 96–222, title I, §104(a)(3)(D), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–248, title II, §211(c)(2), Sept. 3, 1982, 96 Stat. 449; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§121(a), 122(a), title IV, §474(r)(21), title VIII, §801(d)(2), July 18, 1984, 98 Stat. 638, 643, 843, 995; Pub. L. 99–514, title I, §104(b)(13), title VII, §701(e)(4)(H), title XII, §§1201(a), (b), (d)(1)–(3), 1203(a), 1211(b)(3), 1235(f)(4), title XVIII, §§1810(a)(1)(A), (b)(1)–(4)(A), 1876(d)(2), 1899A(24), Oct. 22, 1986, 100 Stat. 2105, 2343, 2520, 2525, 2531, 2536, 2575, 2821, 2823, 2899, 2959; Pub. L. 100–647, title I, §§1003(b)(2), 1012(a)(1)(A), (2)–(4), (6)–(11), (c), (p)(11), (29), (q)(12), (bb)(4)(A), title II, §2004(l), Nov. 10, 1988, 102 Stat. 3383, 3493–3497, 3517, 3521, 3525, 3534, 3606; Pub. L. 101–239, title VII, §§7402(a), 7811(i)(1), Dec. 19, 1989, 103 Stat. 2357, 2409; Pub. L. 101–508, title XI, §§11101(d)(5), 11801(a)(31), Nov. 5, 1990, 104 Stat. 1388–405, 1388–521; Pub. L. 103–66, title XIII, §§13227(d), 13235(a)(2), Aug. 10, 1993, 107 Stat. 494, 504; Pub. L. 104–188, title I, §§1501(b)(1), (12), 1703(i)(1), 1704(t)(36), Aug. 20, 1996, 110 Stat. 1825, 1826, 1876, 1889; Pub. L. 105–34, title III, §311(c)(3), title XI, §§1101(a), 1105(a), (b), 1111(b), 1163(b), Aug. 5, 1997, 111 Stat. 835, 963, 967, 969, 987; Pub. L. 106–170, title V, §501(b)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(b)(2)(G), 202(f)(2)(C), title VI, §618(b)(2)(D), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–147, title IV, §417(23)(B), title VI, §601(b)(1), Mar. 9, 2002, 116 Stat. 57, 59; Pub. L. 108–311, title III, §312(b)(1), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title IV, §§402(a), 403(a)–(b)(5), 404(a)–(f), 413(c)(14), (15), 417(a), title VIII, §895(a), Oct. 22, 2004, 118 Stat. 1491–1495, 1508, 1512, 1647; Pub. L. 109–135, title IV, §§402(i)(3)(G), 403(k), (o), Dec. 21, 2005, 119 Stat. 2614, 2625, 2626; Pub. L. 110–172, §11(f)(3), (g)(10), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 111–5, div. B, title I, §§1004(b)(5), 1142(b)(1)(E), 1144(b)(1)(E), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(K), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–226, title II, §§213(a), 217(c)(2), Aug. 10, 2010, 124 Stat. 2398, 2402; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(K), Jan. 2, 2013, 126 Stat. 2322.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 287; Pub. L. 85–866, title I, §42(a), Sept. 2, 1958, 72 Stat. 1639; Pub. L. 86–780, §1, Sept. 14, 1960, 74 Stat. 1010; Pub. L. 87–834, §§10(a), 12(b)(2), Oct. 16, 1962, 76 Stat. 1002, 1031; Pub. L. 88–272, title II, §234(b)(6), Feb. 26, 1964, 78 Stat. 116; Pub. L. 89–809, title I, §106(c)(1), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 91–172, title V, §506(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 92–178, title V, §502(b)(2)–(4), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title V, §503(b)(1), title X, §§1031(a), 1032(a), 1034(a), 1051(e), title XIX, §1901(b)(10)(B), Oct. 4, 1976, 90 Stat. 1562, 1620, 1624, 1629, 1646, 1795; Pub. L. 95–30, title I, §102(b)(11), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §§403(c)(4), 421(e)(6), title VII, §701(q)(2), (u)(2)(A)–(C), (3)(A), (4)(A), (B), (8)(C), Nov. 6, 1978, 92 Stat. 2868, 2876, 2910, 2913, 2916; Pub. L. 96–222, title I, §104(a)(3)(D), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–248, title II, §211(c)(2), Sept. 3, 1982, 96 Stat. 449; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§121(a), 122(a), title IV, §474(r)(21), title VIII, §801(d)(2), July 18, 1984, 98 Stat. 638, 643, 843, 995; Pub. L. 99–514, title I, §104(b)(13), title VII, §701(e)(4)(H), title XII, §§1201(a), (b), (d)(1)–(3), 1203(a), 1211(b)(3), 1235(f)(4), title XVIII, §§1810(a)(1)(A), (b)(1)–(4)(A), 1876(d)(2), 1899A(24), Oct. 22, 1986, 100 Stat. 2105, 2343, 2520, 2525, 2531, 2536, 2575, 2821, 2823, 2899, 2959; Pub. L. 100–647, title I, §§1003(b)(2), 1012(a)(1)(A), (2)–(4), (6)–(11), (c), (p)(11), (29), (q)(12), (bb)(4)(A), title II, §2004(l), Nov. 10, 1988, 102 Stat. 3383, 3493–3497, 3517, 3521, 3525, 3534, 3606; Pub. L. 101–239, title VII, §§7402(a), 7811(i)(1), Dec. 19, 1989, 103 Stat. 2357, 2409; Pub. L. 101–508, title XI, §§11101(d)(5), 11801(a)(31), Nov. 5, 1990, 104 Stat. 1388–405, 1388–521; Pub. L. 103–66, title XIII, §§13227(d), 13235(a)(2), Aug. 10, 1993, 107 Stat. 494, 504; Pub. L. 104–188, title I, §§1501(b)(1), (12), 1703(i)(1), 1704(t)(36), Aug. 20, 1996, 110 Stat. 1825, 1826, 1876, 1889; Pub. L. 105–34, title III, §311(c)(3), title XI, §§1101(a), 1105(a), (b), 1111(b), 1163(b), Aug. 5, 1997, 111 Stat. 835, 963, 967, 969, 987; Pub. L. 106–170,title V, §501(b)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(b)(2)(G), 202(f)(2)(C), title VI, §618(b)(2)(D), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–147, title IV, §417(23)(B), title VI, §601(b)(1), Mar. 9, 2002, 116 Stat. 57, 59; Pub. L. 108–311, title III, §312(b)(1), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title IV, §§402(a), 403(a)–(b)(5), 404(a)–(f), 413(c)(14), (15), 417(a), title VIII, §895(a), Oct. 22, 2004, 118 Stat. 1491–1495, 1508, 1512, 1647; Pub. L. 109–135, title IV, §§402(i)(3)(G), 403(k), (o), Dec. 21, 2005, 119 Stat. 2614, 2625, 2626; Pub. L. 110–172, §11(f)(3), (g)(10), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 111–5, div. B, title I, §§1004(b)(5), 1142(b)(1)(E), 1144(b)(1)(E), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(K), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–226, title II, §§213(a), 217(c)(2), Aug. 10, 2010, 124 Stat. 2398, 2402; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(K), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§219(c), 221(a)(72), Dec. 19, 2014, 128 Stat. 4035, 4049.)
 
 #### References in Text
 
@@ -756,15 +742,15 @@ Paragraph (3) of subsection (d) of this section, referred to in subsec. (d)(2)(B
 
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (d)(2)(B)(v), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
-The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (d)(2)(J), is the date of the enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
-
 Section 172(h), referred to in subsec. (f)(2)(B)(i), was repealed by Pub. L. 101–508, title XI, §11811(b)(1), Nov. 5, 1990, 104 Stat. 1388–532.
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (f)(2)(B)(i), is the date of enactment of Pub. L. 101–508, title XI, which was approved Nov. 5, 1990.
 
-Section 1246, referred to in subsec. (h)(7), was repealed by Pub. L. 108–357, title IV, §413(a)(2), Oct. 22, 2004, 118 Stat. 1506.
-
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(2)(J). Pub. L. 113–295, §221(a)(72), struck out subpar. (J) which related to a transition rule for taxes paid or accrued in a taxable year beginning before Jan. 1, 1987.
+
+Subsec. (h)(7). Pub. L. 113–295, §219(c), struck out "as ordinary income under section 1246 or" after "gain treated".
 
 <b>2013</b>—Subsecs. (i) to (l). Pub. L. 112–240 redesignated subsecs. (j) to (l) as (i) to (k), respectively, and struck out former subsec. (i). Text read as follows: "In the case of any taxable year of an individual to which section 26(a)(2) does not apply, for purposes of subsection (a), the tax against which the credit is taken is such tax reduced by the sum of the credits allowable under subpart A of part IV of subchapter A of this chapter (other than sections 23, 24, 25A(i), 25B, 30 30B,, and 30D)."
 
@@ -894,7 +880,7 @@ Subsec. (d)(2)(C)(i)(II). Pub. L. 105–34, §1163(b), substituted "subclauses (
 
 Subsec. (d)(2)(C)(iii)(II), (D). Pub. L. 105–34, §1105(a)(3), inserted "out of earnings and profits accumulated in taxable years beginning before January 1, 2003" after "corporation".
 
-Subsec. (d)(2)(E)(i). Pub. L. 105–34, §1111(b), struck out "and except as provided in regulations, the taxpayer was a United States shareholder in such corporation" after "was a controlled foreign corporation".
+Subsec. (d)(2)(E)(i). Pub. L. 105–34, §1111(b), struck out "and except as provided in regulations, the taxpayerwas a United States shareholder in such corporation" after "was a controlled foreign corporation".
 
 Subsec. (d)(2)(E)(iv). Pub. L. 105–34, §1105(a)(2), added cl. (iv).
 
@@ -974,7 +960,7 @@ Subsec. (b)(3)(C). Pub. L. 99–514, §1211(b)(3), redesignated subpar. (E) as (
 
 &emsp;"(ii) in the case of a corporation, is stock in a second corporation sold or exchanged other than in a country (or possession) in which such second corporation derived more than 50 percent of its gross income for the 3-year period ending with the close of such second corporation's taxable year immediately preceding the year during which the sale or exchange occurred, or
 
-&emsp;"(iii) in the case of any taxpayer, is personal property (other than stock in a corporation) sold or exchanged other than in a country (or possession) in which such property is used in a trade or business of the taxpayer or in which such taxpayer derived more than 50 percent of its gross income for the 3-year period ending with the close of its taxable year immediately preceding the year during which the sale or exchange occurred,
+&emsp;"(iii) in the case of any taxpayer, is personal property (other than stock in a corporation) sold or exchanged other than in a country (or possession) in which such property is used in a trade or business ofthe taxpayer or in which such taxpayer derived more than 50 percent of its gross income for the 3-year period ending with the close of its taxable year immediately preceding the year during which the sale or exchange occurred,
 
 > unless such gain is subject to an income, war profits, or excess profits tax of a foreign country or possession of the United States, and the rate of tax applicable to such gain is 10 percent or more of the gain from the sale or exchange (computed under this chapter)."
 
@@ -1032,7 +1018,7 @@ Subsec. (i)(2). Pub. L. 99–514, §701(e)(4)(H), struck out "by an individual" 
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–369, §801(d)(2)(C), which directed amendment of par. (1) heading by substituting "Separate application of section with respect to certain interest income and income from DISC, former DISC, FSC, or former FSC" for "Application of section in case of certain interest income and dividends from a DISC or former DISC" was executed to subsec. (d) heading to reflect the probable intent of Congress.
 
-Subsec. (d)(1)(B) to (E). Pub. L. 98–369, §801(d)(2)(A), (B), struck out "and" after "United States," at end of subpar. (B), substituted "taxable income attributable to foreign trade income (within the meaning of section 923(b))," for "income other than the interest income described in paragraph (2) and dividends described in subparagraph (B)," in subpar. (C), and added subpars. (D) and (E).
+Subsec. (d)(1)(B) to (E). Pub. L. 98–369, §801(d)(2)(A), (B), struck out "and" after "United States," at end of subpar. (B), substituted "taxable income attributableto foreign trade income (within the meaning of section 923(b))," for "income other than the interest income described in paragraph (2) and dividends described in subparagraph (B)," in subpar. (C), and added subpars. (D) and (E).
 
 Subsec. (d)(3). Pub. L. 98–369, §122(a), added par. (3).
 
@@ -1110,6 +1096,12 @@ Subsecs. (e), (f). Pub. L. 86–780, §1(d), added subsecs. (e) and (f).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 added subsec. (c).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by section 219(c) of Pub. L. 113–295 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 219(d) of Pub. L. 113–295, set out as a note under section 199 of this title.
+
+Amendment by section 221(a)(72) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
@@ -1146,7 +1138,7 @@ Amendments by section 403(k), (o) of Pub. L. 109–135 effective as if included 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 402(a) of Pub. L. 108–357 applicable to losses for taxable years beginning after Dec. 31,2006, see section 402(c) of Pub. L. 108–357, set out as a note under section 535 of this title.
+Amendment by section 402(a) of Pub. L. 108–357 applicable to losses for taxable years beginning after Dec. 31, 2006, see section 402(c) of Pub. L. 108–357, set out as a note under section 535 of this title.
 
 Amendment by section 403(a), (b)(1)–(5) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2002, see section 403(c) of Pub. L. 108–357, set out as a note under section 864 of this title.
 
@@ -1186,7 +1178,7 @@ Amendment by section 601(b)(1) of Pub. L. 107–147 applicable to taxable years 
 
 Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
-Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
+Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginningduring 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
 Amendment by section 201(b)(2)(G) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
@@ -1234,7 +1226,7 @@ Amendment by section 7811(i)(1) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1012(bb)(4)(B), Nov. 10, 1988, 102 Stat. 3535, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall take effect as if included in the amendment made by section 121 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
+Pub. L. 100–647, title I, §1012(bb)(4)(B), Nov. 10, 1988, 102 Stat. 3535, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendment made by section 121 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
 
 Amendment by sections 1003(b)(2) and 1012(a)(1)(A), (2)–(4), (6)–(11), (c), (p)(11), (29), (q)(12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -1486,7 +1478,7 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -1534,7 +1526,7 @@ Exception for certain mining operations.—In the case of a domestic corporation
 
 &emsp;"(D) made commitments for substantial expansion of such mineral extraction activities,
 
-> the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1978. In the case of a loss sustained in a taxable year beginning before January 1, 1979, by any corporation to which this paragraph applies, if section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]) applieswith respect to such taxable year, the provisions of section 904(f) of such Code shall be applied with respect to such loss under the principles of such section 904(a)(1).
+> the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1978. In the case of a loss sustained in a taxable year beginning before January 1, 1979, by any corporation to which this paragraph applies, if section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]) applies with respect to such taxable year, the provisions of section 904(f) of such Code shall be applied with respect to such loss under the principles of such section 904(a)(1).
 
 "(3)
 
@@ -1560,7 +1552,7 @@ Substantial worthlessness before enactment.—The amendments made by subsection 
 
 "(4)
 
-Limitation based on deficit in earnings and profits.—If paragraph (3) would apply to a taxpayer but for the fact that the loss is sustained after December 31, 1976, and if the loss is sustained in a taxable year beginning before January 1, 1979, the amendments made by subsection (a) \[amending this section\] shall not apply to such loss to the extent that there was on December 31, 1975, a deficit in earnings and profits in the corporation from which the loss arose. For purposes of the preceding sentence, there shall be taken into account only earnings and profits of the corporation which (A) were accumulated in taxable years of the corporation beginning after December 31, 1962, and during the period in which the stock of such corporation from which the loss arose was held by the taxpayer and (B) are attributable to such stock.
+Limitation based on deficit in earnings and profits.—If paragraph (3) would apply to a taxpayer but for the fact that the loss is sustained after December 31, 1976, and if the loss is sustained in a taxable year beginning before January 1, 1979, the amendments made by subsection (a) \[amending this section\] shall not apply to such loss to the extent that there was on December 31, 1975, a deficit in earnings and profits in the corporation from which the loss arose. For purposes ofthe preceding sentence, there shall be taken into account only earnings and profits of the corporation which (A) were accumulated in taxable years of the corporation beginning after December 31, 1962, and during the period in which the stock of such corporation from which the loss arose was held by the taxpayer and (B) are attributable to such stock.
 
 "(5)
 
@@ -1636,7 +1628,7 @@ Pub. L. 85–866, title I, §42(c), Sept. 2, 1958, 72 Stat. 1640, provided that:
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(a)(31) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by section 11801(a)(31) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending afterNov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -1681,6 +1673,4 @@ Pub. L. 99–514, title XVIII, §1810(a)(5), Oct. 22, 1986, 100 Stat. 2823, as a
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

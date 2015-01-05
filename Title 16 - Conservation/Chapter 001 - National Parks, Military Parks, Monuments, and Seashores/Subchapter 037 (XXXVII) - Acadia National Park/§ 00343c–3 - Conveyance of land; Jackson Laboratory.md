@@ -6,7 +6,7 @@ Beginning at a stone bound set in the ground in the southeasterly side line of S
 
 &emsp;thence in a northeasterly direction but always following the southeasterly side line of State Highway Numbered 3, 31.0 feet to a point which marks the northwesterly corner of land belonging to the Jackson Laboratory;
 
-&emsp;thence south 23 degrees 40 minutes east and always following a southwesterly line of land belonging to the Jackson Laboratory, 603 feet, more or less, to a point in the old road originally leading to the Bear Brook Campground;
+&emsp;thence south 23 degrees 40 minutes east and always following a southwesterly line of landbelonging to the Jackson Laboratory, 603 feet, more or less, to a point in the old road originally leading to the Bear Brook Campground;
 
 &emsp;thence south 71 degrees 04 minutes east 20 feet, more or less, to a stone bound set in the ground in a southwesterly line of land belonging to the Jackson Laboratory;
 
@@ -28,7 +28,7 @@ Beginning at a stone bound set in the ground in the southeasterly side line of S
 
 &emsp;thence south 20 degrees 31 minutes west across the land of the United States of America, 1,164 feet to a point in said line, said last described line being 100 feet distant from and parallel with the southeasterly line of land of the Jackson Laboratory;
 
-&emsp;thence following the same course; namely, south 20 degrees 31 minutes west across theland belonging to the United States of America, 137.3 feet to a stone bound set in the ground;
+&emsp;thence following the same course; namely, south 20 degrees 31 minutes west across the land belonging to the United States of America, 137.3 feet to a stone bound set in the ground;
 
 &emsp;thence south 61 degrees 56 minutes west across the land belonging to the United States of America, 617.6 feet to an iron pipe driven in the ground, said iron pipe being in a southeasterly line of land formerly belonging to the trustees of Louise D. Morrell and now belonging to the Jackson Laboratory;
 

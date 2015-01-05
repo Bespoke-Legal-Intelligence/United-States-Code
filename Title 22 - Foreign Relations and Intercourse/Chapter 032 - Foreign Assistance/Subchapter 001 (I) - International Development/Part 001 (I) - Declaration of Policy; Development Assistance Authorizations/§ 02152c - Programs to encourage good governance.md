@@ -18,7 +18,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Assistance provided for countries under programs established pursuant to paragraph\(1) may be made available notwithstanding any other provision of law that restricts assistance to foreign countries. Assistance provided under a program established pursuant to paragraph (1) for a country that would otherwise be restricted from receiving such assistance but for the preceding sentence may not be provided directly to the government of the country.
+&emsp;&emsp;Assistance provided for countries under programs established pursuant to paragraph (1) may be made available notwithstanding any other provision of law that restricts assistance to foreign countries. Assistance provided under a program established pursuant to paragraph (1) for a country that would otherwise be restricted from receiving such assistance but for the preceding sentence may not be provided directly to the government of the country.
 
 #### (B) Exception
 
@@ -30,7 +30,7 @@
 
 #### (b) Specific projects and activities
 
-The programs established pursuant to subsection (a) of this section shall include, to the extent appropriate, projects and activities that—
+The programs established pursuant to subsection (a) shall include, to the extent appropriate, projects and activities that—
 
 &emsp;(1) support responsible independent media to promote oversight of public and private institutions;
 
@@ -52,7 +52,7 @@ The programs established pursuant to subsection (a) of this section shall includ
 
 #### (c) Conduct of projects and activities
 
-Projects and activities under the programs established pursuant to subsection (a) of this section may include, among other things, training and technical assistance (including drafting of anti-corruption, privatization, and competitive statutory and administrative codes), drafting of anti-corruption, privatization, and competitive statutory and administrative codes, support for independent media and publications, financing of the program and operating costs of nongovernmental organizations that carry out such projects or activities, and assistance for travel of individuals to the United States and other countries for such projects and activities.
+Projects and activities under the programs established pursuant to subsection (a) may include, among other things, training and technical assistance (including drafting of anti-corruption, privatization, and competitive statutory and administrative codes), drafting of anti-corruption, privatization, and competitive statutory and administrative codes, support for independent media and publications, financing of the program and operating costs of nongovernmental organizations that carry out such projects or activities, and assistance for travel of individuals to the United States and other countries for such projects and activities.
 
 #### (d) Repealed. Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217
 
@@ -114,7 +114,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(9) Competent and independent judiciary, founded on a merit-based selection process and trained to enforce contracts and protect property rights, is critical for creating a predictable and consistent environment for transparency in legal procedures.
 
-&emsp;"(10) Independent and accountable legislatures, responsive political parties, and transparent electoral processes, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
+&emsp;"(10) Independent and accountable legislatures, responsive political parties, and transparent electoralprocesses, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
 
 &emsp;"(11) Transparent business frameworks, including modern commercial codes and intellectual property rights, are vital to enhancing economic growth and decreasing corruption at all levels of society.
 

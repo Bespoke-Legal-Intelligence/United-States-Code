@@ -102,7 +102,7 @@ Elements of Demonstration Project.—
 
 &emsp;"(1)
 
-Wellness assessment.—The Secretary shall develop a wellness assessment to be offered to beneficiaries enrolled in the demonstration project. The wellness assessment shall incorporate nationally recognized standards for health and healthy behaviorsand shall be offered to determine a baseline and at appropriate intervals determined by the Secretary. The wellness assessment shall include the following:
+Wellness assessment.—The Secretary shall develop a wellness assessment to be offered to beneficiaries enrolled in the demonstration project. The wellness assessment shall incorporate nationally recognized standards for health and healthy behaviors and shall be offered to determine a baseline and at appropriate intervals determined by the Secretary. The wellness assessment shall include the following:
 
 &emsp;&emsp;"(A) A self-reported health risk assessment.
 
@@ -298,7 +298,7 @@ Meetings.—The advisory committee shall meet at the call of the Chairman, but n
 
 Duties.—The advisory committee shall have the following duties:
 
-&emsp;"(1) Review and evaluate the program of chiropractic health care benefits provided to members of theuniformed services on active duty under chapter 55 of title 10, United States Code.
+&emsp;"(1) Review and evaluate the program of chiropractic health care benefits provided to members of the uniformed services on active duty under chapter 55 of title 10, United States Code.
 
 &emsp;"(2) Provide the Secretary of Defense with advice and recommendations as described in subsection (a).
 
@@ -370,5 +370,5 @@ GAO Reports.—The Comptroller General shall monitor the development and impleme
 
 Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
 
-Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: "The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code."
+Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: "The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health andHuman Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code."
 

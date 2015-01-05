@@ -24,7 +24,7 @@ The Secretary of Labor shall approve any State law submitted to him, within 30 d
 
 &emsp;&emsp;(F) amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t)); and
 
-&emsp;&emsp;(G) with respect to amounts of covered unemployment compensation debt (as definedin section 6402(f)(4)) collected under section 6402(f)—
+&emsp;&emsp;(G) with respect to amounts of covered unemployment compensation debt (as defined in section 6402(f)(4)) collected under section 6402(f)—
 
 &emsp;&emsp;&emsp;(i) amounts may be deducted to pay any fees authorized under such section; and
 
@@ -64,7 +64,7 @@ The Secretary of Labor shall approve any State law submitted to him, within 30 d
 
 &emsp;(9)(A) compensation shall not be denied or reduced to an individual solely because he files a claim in another State (or a contiguous country with which the United States has an agreement with respect to unemployment compensation) or because he resides in another State (or such a contiguous country) at the time he files a claim for unemployment compensation;
 
-&emsp;(B) the State shall participate in any arrangements for the payment of compensationon the basis of combining an individual's wages and employment covered under the State law with his wages and employment covered under the unemployment compensation law of other States which are approved by the Secretary of Labor in consultation with the State unemployment compensation agencies as reasonably calculated to assure the prompt and full payment of compensation in such situations. Any such arrangement shall include provisions for (i) applying the base period of a single State law to a claim involving the combining of an individual's wages and employment covered under two or more State laws, and (ii) avoiding duplicate use of wages and employment by reason of such combining;
+&emsp;(B) the State shall participate in any arrangements for the payment of compensation on the basis of combining an individual's wages and employment covered under the State law with his wages and employment covered under the unemployment compensationlaw of other States which are approved by the Secretary of Labor in consultation with the State unemployment compensation agencies as reasonably calculated to assure the prompt and full payment of compensation in such situations. Any such arrangement shall include provisions for (i) applying the base period of a single State law to a claim involving the combining of an individual's wages and employment covered under two or more State laws, and (ii) avoiding duplicate use of wages and employment by reason of such combining;
 
 &emsp;(10) compensation shall not be denied to any individual by reason of cancellation of wage credits or total reduction of his benefit rights for any cause other than discharge for misconduct connected with his work, fraud in connection with a claim for compensation, or receipt of disqualifying income;
 
@@ -96,9 +96,9 @@ The Secretary of Labor shall approve any State law submitted to him, within 30 d
 
 &emsp;(B) wage and unemployment compensation information contained in the records of such agency shall be furnished to the Secretary of Health and Human Services (in accordance with regulations promulgated by such Secretary) as necessary for the purposes of the National Directory of New Hires established under section 453(i) of the Social Security Act, and
 
-&emsp;(C) such safeguards are established as are necessary (as determined by the Secretary of Health and Human Services in regulations) toinsure that information furnished under subparagraph (A) or (B) is used only for the purposes authorized under such subparagraph;
+&emsp;(C) such safeguards are established as are necessary (as determined by the Secretary of Health and Human Services in regulations) to insure that information furnished under subparagraph (A) or (B) is used only for the purposes authorized under such subparagraph;
 
-&emsp;(17) any interest required to be paid on advances under title XII of the Social Security Act shall be paid in a timely manner and shall not be paid, directly or indirectly (by an equivalent reduction in State unemployment taxes or otherwise) by such State from amounts in such State's unemployment fund;
+&emsp;(17) any interest required to be paid on advances under title XII of the Social SecurityAct shall be paid in a timely manner and shall not be paid, directly or indirectly (by an equivalent reduction in State unemployment taxes or otherwise) by such State from amounts in such State's unemployment fund;
 
 &emsp;(18) Federal individual income tax from unemployment compensation is to be deducted and withheld if an individual receiving such compensation voluntarily requests such deduction and withholding; and
 
@@ -142,7 +142,7 @@ For purposes of subsection (a)(6), the term "institution of higher education" me
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(4)(B), (D), (15)(A)(i)(II), (16)(A), (B), (17), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Part A of title IV and title XII of the Act are classified generally to part A (§601 et seq.)of subchapter IV and subchapter XII (§1321 et seq.), respectively, of chapter 7 of Title 42. Sections 303(g), 453(i), and 903(c)(2), (d)(4) of the Act are classified to sections 503(g), 653(i), and 1103(c)(2), (d)(4), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(4)(B), (D), (15)(A)(i)(II), (16)(A), (B), (17), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Part A of title IV and title XII of the Act are classified generally to part A (§601 et seq.) of subchapter IV and subchapter XII (§1321 et seq.), respectively, of chapter 7 of Title 42. Sections 303(g), 453(i), and 903(c)(2), (d)(4) of the Act are classified to sections 503(g), 653(i), and 1103(c)(2), (d)(4), respectively,of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1305 of Title 42 and Tables.
 
 Section 6402(f)(4)(B), referred to in subsec. (a)(4)(G)(ii), does not relate to penalties and interest. Provisions relating to penalties and interest are found elsewhere in section 6402(f).
 

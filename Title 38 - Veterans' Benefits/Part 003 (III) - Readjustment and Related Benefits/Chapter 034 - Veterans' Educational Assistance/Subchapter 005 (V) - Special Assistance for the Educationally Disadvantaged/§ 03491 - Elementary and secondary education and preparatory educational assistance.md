@@ -38,7 +38,7 @@ Subsec. (b)(2). Pub. L. 97–295, §4(43)(B), inserted "of this title" after "se
 
 Subsec. (c). Pub. L. 97–306 substituted "section 1673(d)(1)" for "section 1673(d)".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–466, §311(1), in provisions preceding par. (1) struck out "not on active duty" after "eligible veteran", in par. (1) struck out "at the time of the veteran's discharge or release from active duty"after "(or an equivalency certificate)", and in par. (2) inserted "is not on active duty and who," before "in order to pursue".
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §311(1), in provisions preceding par. (1) struck out "not on active duty" after "eligible veteran", in par. (1) struck out "at the time of the veteran's discharge or release from active duty" after "(or an equivalency certificate)", and in par. (2) inserted "is not on active duty and who," before "in order to pursue".
 
 Subsec. (b). Pub. L. 96–466, §311(2), designated existing provisions as par. (1), substituted reference to subsec. (a)(2) of this section for reference to subsec. (a) of this section, and added par. (2).
 

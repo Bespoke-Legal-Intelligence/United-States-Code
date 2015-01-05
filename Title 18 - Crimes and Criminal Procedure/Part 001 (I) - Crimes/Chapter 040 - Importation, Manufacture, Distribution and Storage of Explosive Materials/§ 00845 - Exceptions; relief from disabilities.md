@@ -10,7 +10,7 @@
 
 &emsp;(4) small arms ammunition and components thereof;
 
-&emsp;(5) commercially manufactured black powder in quantities not to exceed fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms as defined in section 921(a)(16) of title 18 of the United States Code, or in antique devices as exempted from the term "destructive device" in section 921(a)(4) of title 18 of the United States Code;
+&emsp;(5) commercially manufactured black powder in quantities not to exceed fifty pounds,percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms as defined in section 921(a)(16) of title 18 of the United States Code, or in antique devices as exempted from the term "destructive device" in section 921(a)(4) of title 18 of the United States Code;
 
 &emsp;(6) the manufacture under the regulation of the military department of the United States of explosive materials for, or their distribution to or storage or possession by the military or naval services or other agencies of the United States; or to arsenals, navy yards, depots, or other establishments owned by, or operated by or on behalf of, the United States <sup>1</sup> and
 
@@ -56,11 +56,11 @@ Subsec. (b). Pub. L. 111–211, §236(c)(2), substituted "Attorney General" for 
 
 Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" in two places.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–132, §605(1), inserted "(l), (m), (n), or (o) of section 842 and subsections" after"subsections" in introductory provisions and ", and which pertain to safety" before semicolon at end of par. (1).
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §605(1), inserted "(l), (m), (n), or (o) of section 842 and subsections" after "subsections" in introductory provisions and ", and which pertain to safety" before semicolon at end of par. (1).
 
 Subsec. (c). Pub. L. 104–132, §605(2), added subsec. (c).
 
-<b>1975</b>—Subsec. (a)(5). Pub. L. 93–639 substituted provisions exempting commercially manufactured black powder in quantities not exceeding fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices for such exemption of black powder in quantities not exceeding five pounds.
+<b>1975</b>—Subsec. (a)(5). Pub. L. 93–639 substituted provisions exempting commercially manufactured blackpowder in quantities not exceeding fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices for such exemption of black powder in quantities not exceeding five pounds.
 
 #### Effective Date of 2002 Amendment
 

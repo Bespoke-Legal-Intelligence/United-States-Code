@@ -6,7 +6,7 @@ The Secretary may insure loans meeting the requirements of section 1472 of this 
 
 #### (b) Authority to make and insure loans for housing and related facilities for domestic farm labor and elderly persons; transfer of notes, contracts, and mortgages from Agricultural Credit Insurance Fund; compensation
 
-The Secretary may insure loans in accordance with the requirements of section 1484 of this title (exclusive of subsections (a)(3), (a)(5), and (b) thereof), 1485 of this title (exclusive of subsections (a) and (b)(3) thereof), 1490d, and 1490f of this title, and may make loans meeting such requirements to be sold and insured. Upon the expiration of ninety days after the original capitalization of the Rural Housing Insurance Fund, created by subsection (e) of this section, no new loans shall be made or insured under section 1484 or 1485(b) of this title, except in conformity with this section. The notes held in the Agricultural Credit Insurance Fund (section 1929 of title 7) which evidence loans made or insured by the Secretary under section 1484 or 1485(b) of this title, the rights and liabilities of that Fund under insurance contracts relating to such loans held by insured investors, the mortgages securing the obligations of the borrowers under such loans held in the Fund or by insured investors, and all rights to subsequent collections on and proceeds of such notes, contracts, and mortgages, are hereby transferred to the Rural Housing Insurance Fund and for the purposes of this subchapter and any other Act shall be subject to the provisions of this section as if created pursuant thereto. The Rural Housing Insurance Fund shall compensate the Agricultural Credit Insurance Fund for the aggregate unpaid principal balance plus accrued interest of the notes so transferred.
+The Secretary may insure loans in accordance with the requirements of section 1484 of this title (exclusive of subsections (a)(3), (a)(5), and (b) thereof), 1485 of this title (exclusive of subsections (a) and (b)(3) thereof), 1490d, and 1490f of this title, and may make loans meeting such requirements to be sold and insured. Upon the expiration of ninety days after the original capitalization of the Rural Housing Insurance Fund, created by subsection (e) of this section, no new loans shall be made or insured under section 1484 or 1485(b) of this title, except in conformity with this section. The notes held in the Agricultural Credit Insurance Fund (section 1929 of title 7) which evidence loans made or insured by the Secretary under section 1484 or 1485(b) of this title, the rights and liabilities of that Fund under insurance contracts relating to such loans held by insured investors, the mortgages securing the obligations of the borrowers under such loans held in the Fund or by insured investors,and all rights to subsequent collections on and proceeds of such notes, contracts, and mortgages, are hereby transferred to the Rural Housing Insurance Fund and for the purposes of this subchapter and any other Act shall be subject to the provisions of this section as if created pursuant thereto. The Rural Housing Insurance Fund shall compensate the Agricultural Credit Insurance Fund for the aggregate unpaid principal balance plus accrued interest of the notes so transferred.
 
 #### (c) Use of funds from Rural Housing Insurance Fund for loans; sale of insured and guaranteed loans to public
 
@@ -68,7 +68,7 @@ The Secretary may also utilize the Fund—
 
 #### (k) Sale of loans as sale of assets
 
-Any sale by the Secretary of loans individually or in blocks, pursuant to subsections (c)and (g) of this section, shall be treated as a sale of assets for the purposes of chapter 11 of title 31, notwithstanding the fact that the Secretary, under an agreement with the purchaser, holds the debt instruments evidencing the loans and holds or reinvests payments thereon as trustee and custodian for the purchaser.
+Any sale by the Secretary of loans individually or in blocks, pursuant to subsections (c) and (g) of this section, shall be treated as a sale of assets for the purposes of chapter 11 of title 31, notwithstanding the fact that the Secretary, under an agreement with the purchaser, holds the debt instruments evidencing the loans and holds or reinvests payments thereon as trustee and custodian for the purchaser.
 
 #### (l) Commitments to make or insure loans to lenders, builders, or sellers; terms and conditions
 
@@ -80,7 +80,7 @@ The assets and liabilities of, and authorizations applicable to, the Rural Housi
 
 #### (n) Purchase of eligible residential properties
 
-The Secretary may guarantee and service loans made for the purchase of eligible residential properties under section 1441a(c) <sup>1</sup> of title 12 in accordance with subsection (d) of this section and the last sentence of section 1490a(a)(1)(A) of this title.
+The Secretary may guarantee and service loans made for the purchase of eligible residential properties under section 1441a(c) <sup>1</sup> of title 12 in accordance with subsection (d) of this sectionand the last sentence of section 1490a(a)(1)(A) of this title.
 
 #### (o) Rules to encourage rehabilitation or purchase of existing buildings; regulations to facilitate marketability of insured or guaranteed loans in secondary mortgage market
 
@@ -130,7 +130,7 @@ Subsec. (b). Pub. L. 98–181, §514(a)(2), substituted "(b)(3)" for "(b)(4)".
 
 Subsec. (j)(6). Pub. L. 98–181, §514(b), struck out par. (6) which related to making expenditures under section 1479(c) of this title after Oct. 1, 1977.
 
-Subsec. (o). Pub. L. 98–181, §514(c), (d), added subsec. (o), and struck out former subsec. (o) which related toloans to persons of low income and to the minimum amounts available to such persons.
+Subsec. (o). Pub. L. 98–181, §514(c), (d), added subsec. (o), and struck out former subsec. (o) which related to loans to persons of low income and to the minimum amounts available to such persons.
 
 <b>1982</b>—Subsec. (a)(1). Pub. L. 97–289 substituted "May 20, 1983" for "September 30, 1982".
 

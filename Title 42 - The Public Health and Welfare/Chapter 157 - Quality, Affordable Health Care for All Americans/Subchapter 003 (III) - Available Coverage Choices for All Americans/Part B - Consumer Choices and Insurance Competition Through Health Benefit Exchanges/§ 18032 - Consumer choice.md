@@ -64,7 +64,7 @@ A qualified individual enrolled in any qualified health plan may pay any applica
 
 #### (C) Individuals allowed to enroll in any plan
 
-&emsp;&emsp;A qualified individual may enroll in any qualified health plan, except that in the case of a catastrophic plan described in section 18022(e) of this title, a qualified individual may enroll in the plan only if the individual is eligible to enroll in the plan under section 18022(e)(2) of this title.
+&emsp;&emsp;A qualified individual may enroll in any qualified health plan, except that in the caseof a catastrophic plan described in section 18022(e) of this title, a qualified individual may enroll in the plan only if the individual is eligible to enroll in the plan under section 18022(e)(2) of this title.
 
 #### (D) Members of Congress in the Exchange
 

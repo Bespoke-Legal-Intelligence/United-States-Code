@@ -52,7 +52,7 @@ The applicability of the rule stated in the revised section to situations not ex
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §506(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102, provided that: "The amendments made by subsections (a) and (b) \[amendingthis section and section 8961 of this title\] shall apply to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of title 10, United States Code, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after October 1, 1996."
+Pub. L. 106–398, §1 \[\[div. A\], title V, §506(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 8961 of this title\] shall apply to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of title 10, United States Code, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after October 1, 1996."
 
 #### Effective Date of 1994 Amendment
 

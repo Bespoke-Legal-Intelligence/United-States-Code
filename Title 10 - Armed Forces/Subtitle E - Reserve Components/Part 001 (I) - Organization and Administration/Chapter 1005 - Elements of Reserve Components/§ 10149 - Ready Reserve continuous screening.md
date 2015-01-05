@@ -12,7 +12,7 @@
 
 &emsp;(5) That members whose mobilization in an emergency would result in an extreme personal or community hardship are not retained in the Ready Reserve.
 
-(b) Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a member of the Ready Reserve who is designated as a member not to be retained in the Ready Reserve as a result of screening under subsection (a) shall, as appropriate, be—
+(b) Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service inthe Navy, a member of the Ready Reserve who is designated as a member not to be retained in the Ready Reserve as a result of screening under subsection (a) shall, as appropriate, be—
 
 &emsp;(1) transferred to the Standby Reserve;
 

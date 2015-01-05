@@ -12,7 +12,7 @@ The Congress declares that the achievement of a just and lasting Cyprus settleme
 
 &emsp;(4) serious negotiations, under United Nations auspices, will be necessary to achieve agreement on, and implementation of, constitutional and territorial terms within such guidelines; and
 
-&emsp;(5) the recent proposals by both Cypriot communities regarding the return of the refugees to the city of New Famagusta (Varosha)constitute a positive step and the United States should actively support the efforts of the Secretary General of the United Nations with respect to this issue.
+&emsp;(5) the recent proposals by both Cypriot communities regarding the return of the refugees to the city of New Famagusta (Varosha) constitute a positive step and the United States should actively support the efforts of the Secretary General of the United Nations with respect to this issue.
 
 #### (b) Governing principles
 
@@ -42,7 +42,7 @@ In order to ensure that United States assistance is furnished consistent with th
 
 (1) Any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]) entered into by the United States after December 22, 1987, shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
 
-(2) The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
+(2) The President shall report to Congress any substantial evidence that equipment providedunder any such agreement has been used in a manner inconsistent with the purposes of this subsection.
 
 (Pub. L. 87–195, pt. III, §620C, as added Pub. L. 95–384, §13(b), Sept. 26, 1978, 92 Stat. 737; amended Pub. L. 100–202, §101(e) \[title V, §562\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–171.)
 

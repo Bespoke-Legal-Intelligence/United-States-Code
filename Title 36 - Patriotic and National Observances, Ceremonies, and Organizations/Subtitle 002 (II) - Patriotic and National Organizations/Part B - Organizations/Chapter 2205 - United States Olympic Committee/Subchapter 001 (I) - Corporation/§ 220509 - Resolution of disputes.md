@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The corporation shall establish and maintain provisions in its constitution and bylaws for the swift and equitable resolution of disputes involving any of its members and relating to the opportunity of an amateur athlete, coach, trainer, manager, administrator, or official to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, world championship competition, or other protected competition as defined in the constitution and bylaws of the corporation. In any lawsuit relating to the resolution of a dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, or the Pan-American Games, a court shall not grant injunctive relief against the corporation within 21 days before the beginning of such games if the corporation, after consultation with the chair of the Athletes' Advisory Council, has provided a sworn statement in writing executed by an officer of the corporation to such court that its constitution and bylaws cannot provide for the resolution of such dispute prior to the beginning of such games.
+General.—The corporation shall establish and maintain provisions in its constitution and bylaws for the swift and equitable resolution of disputes involving any of its members and relating to the opportunity of an amateur athlete, coach, trainer, manager, administrator, or official to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, world championship competition, or other protected competition as defined in the constitution and bylaws of the corporation. In any lawsuit relating to the resolution of a dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, or the Pan-American Games, a court shall not grant injunctive relief against the corporation within 21 days before the beginning of such games if the corporation, after consultation with the chair of the Athletes' Advisory Council, has provided a sworn statement inwriting executed by an officer of the corporation to such court that its constitution and bylaws cannot provide for the resolution of such dispute prior to the beginning of such games.
 
 (b)
 
@@ -20,7 +20,7 @@ Ombudsman.—
 
 &emsp;&emsp;(i) The Athletes' Advisory Council shall provide the corporation's executive director with the name of one qualified person to serve as ombudsman for athletes.
 
-&emsp;&emsp;(ii) The corporation's executive director shall immediately transmit the name ofsuch person to the corporation's executive committee.
+&emsp;&emsp;(ii) The corporation's executive director shall immediately transmit the name of such person to the corporation's executive committee.
 
 &emsp;&emsp;(iii) The corporation's executive committee shall hire or not hire such person after fully considering the advice and counsel of the Athletes' Advisory Council.
 

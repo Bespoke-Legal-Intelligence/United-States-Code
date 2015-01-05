@@ -76,7 +76,7 @@ When awarding grants or cooperative agreements under this section, the Secretary
 
 &emsp;(1) give priority to eligible State agencies that the Secretary determines show the greatest likelihood of implementing or enhancing lifespan respite care statewide; and
 
-&emsp;(2) give consideration to eligible State agencies that are building or enhancing the capacity of their long-term care systems to respondto the comprehensive needs, including respite care needs, of their residents.
+&emsp;(2) give consideration to eligible State agencies that are building or enhancing the capacity of their long-term care systems to respond to the comprehensive needs, including respite care needs, of their residents.
 
 #### (f) Use of grant or cooperative agreement funds
 
@@ -118,7 +118,7 @@ When awarding grants or cooperative agreements under this section, the Secretary
 
 #### (B) Determination of amount contributed
 
-&emsp;&emsp;Non-Federal contributions required by subparagraph (A) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;&emsp;Non-Federal contributions required by subparagraph (A) may be in cash or in kind,fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 #### (g) Term of grants or cooperative agreements
 

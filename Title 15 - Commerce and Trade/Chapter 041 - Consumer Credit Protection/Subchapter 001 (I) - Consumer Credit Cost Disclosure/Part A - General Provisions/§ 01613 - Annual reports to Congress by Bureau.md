@@ -1,6 +1,6 @@
 ### §1613. Annual reports to Congress by Bureau
 
-Each year the Bureau shall make a report to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Bureau deems necessary or appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with the requirements imposed under this subchapter is being achieved.
+Each year the Bureau shall make a report to the Congress concerning the administration of its functions under this subchapter, includingsuch recommendations as the Bureau deems necessary or appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with the requirements imposed under this subchapter is being achieved.
 
 (Pub. L. 90–321, title I, §114, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, §610(a), Mar. 31, 1980, 94 Stat. 174; Pub. L. 97–375, title II, §209(b), Dec. 21, 1982, 96 Stat. 1825; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
@@ -14,7 +14,7 @@ Each year the Bureau shall make a report to the Congress concerning the administ
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

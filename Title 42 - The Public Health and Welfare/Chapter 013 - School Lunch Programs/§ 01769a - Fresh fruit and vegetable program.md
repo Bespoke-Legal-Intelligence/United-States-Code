@@ -6,7 +6,7 @@ For the school year beginning July 2008 and each subsequent school year, the Sec
 
 #### (b) Program
 
-A school participating in the program shall make free fresh fruits and vegetables available to students throughout the school day (or at such other times as are considered appropriate by the Secretary) in 1 or more areas designated by the school.
+A school participating in the program shall make free fresh fruits and vegetables availableto students throughout the school day (or at such other times as are considered appropriate by the Secretary) in 1 or more areas designated by the school.
 
 #### (c) Funding to States
 
@@ -164,7 +164,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
+A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
 
 #### Change of Name
 
@@ -175,6 +175,56 @@ Committee on Education and Labor of House of Representatives changed to Committe
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 2, The Congress.
+
+#### Pilot Project for Canned, Frozen, or Dried Fruits and Vegetables
+
+Pub. L. 113–79, title IV, §4214, Feb. 7, 2014, 128 Stat. 831, provided that:
+
+"(a)
+
+In general.—Subject to subsection (b), in the 2014–2015 school year, the Secretary \[of Agriculture\] shall carry out a pilot project in schools participating in the Fresh Fruit and Vegetable Program under section 19 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769a) (referred to in this sectionas the "Program"), in not less than 5 States, to evaluate the impact of allowing schools to offer canned, frozen, or dried fruits and vegetables as part of the Program.
+
+"(b)
+
+Requirements.—Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2014\], the Secretary shall establish criteria for the conditions under which canned, frozen, or dried fruits and vegetables may be offered, which shall be in accordance with the most recent Dietary Guidelines for Americans published under section 301 of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341).
+
+"(c)
+
+Evaluation.—With respect to the pilot project, the Secretary shall evaluate—
+
+&emsp;"(1) the impacts on fruit and vegetable consumption at the schools participating in the pilot project;
+
+&emsp;"(2) the impacts of the pilot project on school participation in the Program and operation of the Program;
+
+&emsp;"(3) the implementation strategies used by the schools participating in the pilot project;
+
+&emsp;"(4) the acceptance of the pilot project by key stakeholders; and
+
+&emsp;"(5) such other outcomes as are determined by the Secretary.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Interim report.—Not later than January 1, 2015, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c).
+
+&emsp;"(2)
+
+Final report.—On completion of the pilot project, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c).
+
+"(e)
+
+Notice of availability.—As soon as practicable after the date on which the Secretary establishes the criteria for the pilot project under subsection (b), the Secretary shall notify potentially eligible schools of the potential eligibility of the schools for participation in the pilot project.
+
+"(f)
+
+Relationship to fresh fruit and vegetable program.—Nothing in this section permits a school that is not a part of the pilot project to offer anything other than fresh fruits and vegetables through the Program.
+
+"(g)
+
+Funding.—The Secretary shall use $5,000,000 of amounts otherwise made available to the Secretary to carry out this section."
 
 #### Transition of Existing Schools
 

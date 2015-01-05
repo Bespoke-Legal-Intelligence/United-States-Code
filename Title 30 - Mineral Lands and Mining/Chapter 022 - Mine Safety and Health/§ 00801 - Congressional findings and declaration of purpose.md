@@ -4,7 +4,7 @@ Congress declares that—
 
 &emsp;(a) the first priority and concern of all in the coal or other mining industry must be the health and safety of its most precious resource—the miner;
 
-&emsp;(b) deaths and serious injuries from unsafe and unhealthful conditions and practices in the coal or other mines cause grief and suffering to the miners and to their families;
+&emsp;(b) deaths and serious injuries from unsafe and unhealthful conditions and practices inthe coal or other mines cause grief and suffering to the miners and to their families;
 
 &emsp;(c) there is an urgent need to provide more effective means and measures for improving the working conditions and practices in the Nation's coal or other mines in order to prevent death and serious physical harm, and in order to prevent occupational diseases originating in such mines;
 

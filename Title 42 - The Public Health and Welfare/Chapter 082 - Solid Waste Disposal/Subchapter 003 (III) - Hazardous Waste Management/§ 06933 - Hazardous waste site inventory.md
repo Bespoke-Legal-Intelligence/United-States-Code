@@ -4,7 +4,7 @@
 
 Each State shall, as expeditiously as practicable, undertake a continuing program to compile, publish, and submit to the Administrator an inventory describing the location of each site within such State at which hazardous waste has at any time been stored or disposed of. Such inventory shall contain—
 
-&emsp;(1) a description of the location of the sites at which any such storage or disposal has taken place before the date on which permits are required under section 6925 of this title for such storage or disposal;
+&emsp;(1) a description of the location of the sites at which any such storage or disposal has taken place before the date on which permitsare required under section 6925 of this title for such storage or disposal;
 
 &emsp;(2) such information relating to the amount, nature, and toxicity of the hazardous waste at each such site as may be practicable to obtain and as may be necessary to determine the extent of any health hazard which may be associated with such site;
 

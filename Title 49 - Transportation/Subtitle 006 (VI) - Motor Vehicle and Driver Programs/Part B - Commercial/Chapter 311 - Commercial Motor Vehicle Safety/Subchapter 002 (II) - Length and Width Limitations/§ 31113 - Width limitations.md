@@ -4,7 +4,7 @@
 
 General Limitations.—(1) Except as provided in subsection (e) of this section, a State (except Hawaii) may not prescribe or enforce a regulation of commerce that imposes a vehicle width limitation of more or less than 102 inches on a commercial motor vehicle operating on—
 
-&emsp;(A) a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways\(except a segment exempted under subsection (e) of this section);
+&emsp;(A) a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (e) of this section);
 
 &emsp;(B) a qualifying Federal-aid highway designated by the Secretary of Transportation, with traffic lanes designed to be at least 12 feet wide; or
 
@@ -28,7 +28,7 @@ State Enforcement.—Consistent with this section, a State may enforce a commerc
 
 (e)
 
-Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having the width provided in subsection (a) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from subsection (a) to allow the State to impose a width limitation of less than 102 inches for a vehicle (except a bus) on that segment.
+Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having the width provided in subsection (a) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from subsection (a) to allow the State to impose a widthlimitation of less than 102 inches for a vehicle (except a bus) on that segment.
 
 (2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having the width provided for in subsection (a) of this section.
 

@@ -2,13 +2,13 @@
 
 #### (a) Information and education program
 
-(1) The Director of the Institute shall establish an information and education program to collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to cancer patients and their families, physicians and other health professionals, and the general public, information on cancer research, diagnosis, prevention, and treatment (including information respecting nutrition programs for cancer patients and the relationship between nutrition and cancer). The Director of the Institute may take such action as may be necessary to insure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the public and between the Institute and other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
+(1) The Director of the Institute shall establish an information and education program to collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to cancer patients and their families, physicians and other health professionals, and the general public, information on cancer research, diagnosis, prevention, and treatment (including information respecting nutrition programs for cancer patients and the relationship between nutrition and cancer). The Director of the Institute may take such action as may be necessary to insure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the public and betweenthe Institute and other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
 
 (2) In carrying out paragraph (1), the Director of the Institute shall—
 
 &emsp;(A) provide public and patient information and education programs, providing information that will help individuals take personal steps to reduce their risk of cancer, to make them aware of early detection techniques and to motivate appropriate utilization of those techniques, to help individuals deal with cancer if it strikes, and to provide information to improve long-term survival;
 
-&emsp;(B) continue and expand programs to provide physicians and the public with state-of-the-art information on the treatment of particularforms of cancers, and to identify those clinical trials that might benefit patients while advancing knowledge of cancer treatment;
+&emsp;(B) continue and expand programs to provide physicians and the public with state-of-the-art information on the treatment of particular forms of cancers, and to identify those clinical trials that might benefit patients while advancing knowledge of cancer treatment;
 
 &emsp;(C) assess the incorporation of state-of-the-art cancer treatments into clinical practice and the extent to which cancer patients receive such treatments and include the results of such assessments in the biennial reports required under section 284b <sup>1</sup> of this title;
 
@@ -54,7 +54,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;The Director of the Institute shall coordinate the activities under paragraph (1) with similar activities conducted by other national research institutes and agencies of the National Institutes of Health to the extent that those Institutes and agencies have responsibilities that are related to pediatric cancer.
 
-(July 1, 1944, ch. 373, title IV, §413, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 833; amendedPub. L. 100–607, title I, §122, Nov. 4, 1988, 102 Stat. 3054; Pub. L. 101–93, §5(c), Aug. 16, 1989, 103 Stat. 611; Pub. L. 103–43, title III, §301(a)(2), June 10, 1993, 107 Stat. 150; Pub. L. 107–109, §15(b), Jan. 4, 2002, 115 Stat. 1420.)
+(July 1, 1944, ch. 373, title IV, §413, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 833; amended Pub. L. 100–607, title I, §122, Nov. 4, 1988, 102 Stat. 3054; Pub. L. 101–93, §5(c), Aug. 16, 1989, 103 Stat. 611; Pub. L. 103–43, title III, §301(a)(2), June 10, 1993, 107 Stat. 150; Pub. L. 107–109, §15(b), Jan. 4, 2002, 115 Stat. 1420.)
 
 #### References in Text
 

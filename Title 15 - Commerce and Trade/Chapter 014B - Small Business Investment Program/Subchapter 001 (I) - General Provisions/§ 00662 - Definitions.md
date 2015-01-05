@@ -112,7 +112,7 @@ As used in this chapter—
 
 &emsp;(19) the term "Energy Saving qualified investment" means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources.
 
-(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat.752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690; Pub. L. 110–140, title XII, §1205(b), Dec. 19, 2007, 121 Stat. 1773.)
+(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690; Pub. L. 110–140, title XII, §1205(b), Dec. 19, 2007, 121 Stat. 1773.)
 
 #### References in Text
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or tootherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

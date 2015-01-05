@@ -14,7 +14,7 @@ Any contract of the Administrator for the sale or exchange of electric power for
 
 #### (d) Disposition of power which does not increase amount of firm power Administrator is obligated to provide to any customer
 
-No restrictions contained in subsection (c) of this section shall limit or interfere with the sale, exchange or other disposition of any power by any utility or group thereof from any existing or new non-Federal resource if such sale, exchange or disposition does not increase the amount of firm power the Administrator would be obligated to provide to any customer. In addition to the directives contained in subsections (i)(1)(B) and (i)(3) of this section and subject to:
+No restrictions contained in subsection (c) of this section shall limit or interfere with thesale, exchange or other disposition of any power by any utility or group thereof from any existing or new non-Federal resource if such sale, exchange or disposition does not increase the amount of firm power the Administrator would be obligated to provide to any customer. In addition to the directives contained in subsections (i)(1)(B) and (i)(3) of this section and subject to:
 
 &emsp;(1) any contractual obligations of the Administrator,
 
@@ -58,7 +58,7 @@ No restrictions contained in subsection (c) of this section shall limit or inter
 
 &emsp;(D) rate determinations pursuant to section 839e of this title shall be deemed final upon confirmation and approval by the Federal Energy Regulatory Commission.
 
-(5) Suits to challenge the constitutionality of this chapter, or any action thereunder, final actions and decisions taken pursuant to this chapter by the Administrator or the Council, or the implementation of such final actions, whether brought pursuant to this chapter, the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Act of August 31, 1964 (16 U.S.C. 837–837h), or the FederalColumbia River Transmission System Act (16 U.S.C. 838 and following), shall be filed in the United States court of appeals for the region. Such suits shall be filed within ninety days of the time such action or decision is deemed final, or, if notice of the action is required by this chapter to be published in the Federal Register, within ninety days from such notice, or be barred. In the case of a challenge of the plan or programs or amendments thereto, such suit shall be filed within sixty days after publication of a notice of such final action in the Federal Register. Such court shall have jurisdiction to hear and determine any suit brought as provided in this section. The plan and program, as finally adopted or portions thereof, or amendments thereto, shall not thereafter be reviewable as a part of any other action under this chapter or any other law. Suits challenging any other actions under this chapter shall be filed in the appropriate court.
+(5) Suits to challenge the constitutionality of this chapter, or any action thereunder, final actions and decisions taken pursuant to this chapter by the Administrator or the Council, or the implementation of such final actions, whether brought pursuant to this chapter, the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Act of August 31, 1964 (16 U.S.C. 837–837h), or the Federal Columbia River Transmission System Act (16 U.S.C. 838 and following), shall be filed in the United States court of appeals for the region. Such suits shall be filed within ninety days of the time such action or decision is deemed final, or, if notice of the action is required by this chapter to be published in the Federal Register, within ninety days from such notice, or be barred. In the case of a challenge of the plan or programs or amendments thereto, such suit shall be filed within sixty days after publication of a notice of such final action in the Federal Register. Such court shall have jurisdiction to hear and determine any suit brought as provided in this section. The plan and program, as finally adopted or portions thereof, or amendments thereto, shall not thereafter be reviewable as a part of any other action under this chapter or any other law. Suits challenging any other actions under this chapter shall be filed in the appropriate court.
 
 #### (f) Tax treatment of interest on governmental obligations
 
@@ -68,7 +68,7 @@ For purposes of enabling the Administrator to acquire resources necessary to mee
 
 &emsp;(2) based upon such certification, the Secretary of the Treasury determines in accordance with applicable regulations that less than a major portion of the resource is to be furnished to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26).
 
-> The certification under paragraph (1) shall be made in accordance with this subsection and a procedure and methodology approved by the Secretary of the Treasury. For purposes of this subsection, the term "major portion" shall have the meaning provided by regulations issued by the Secretary of the Treasury.
+> The certification under paragraph (1) shall be made in accordance with this subsection and aprocedure and methodology approved by the Secretary of the Treasury. For purposes of this subsection, the term "major portion" shall have the meaning provided by regulations issued by the Secretary of the Treasury.
 
 #### (g) Review of rates for sale of power to Administrator by investor-owned utility customers
 
@@ -132,7 +132,7 @@ The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1
 
 #### Amendments
 
-<b>1986</b>—Subsec. (f). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+<b>1986</b>—Subsec. (f). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

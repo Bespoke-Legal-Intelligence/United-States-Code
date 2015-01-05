@@ -22,7 +22,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;&emsp;(A) a taxpayer who so received such publication, or
 
-&emsp;&emsp;(B) a taxpayer in whose hands the basis of such publication is determined, for purposes of determining gain from a sale or exchange,in whole or in part by reference to the basis of such publication in the hands of a taxpayer described in subparagraph (A);
+&emsp;&emsp;(B) a taxpayer in whose hands the basis of such publication is determined, for purposes of determining gain from a sale or exchange, in whole or in part by reference to the basis of such publication in the hands of a taxpayer described in subparagraph (A);
 
 &emsp;(6) any commodities derivative financial instrument held by a commodities derivatives dealer, unless—
 
@@ -58,7 +58,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;&emsp;&emsp;&emsp;(II) a variable rate, price, or amount,
 
-&emsp;&emsp;&nbsp;which is based on any current, objectively determinable financial or economic information with respect to commodities which is not within the control of any of the parties to the contract or instrument and is not unique to any of the parties' circumstances.
+&emsp;&emsp;&nbsp;which is based on any current, objectively determinable financial or economic information with respect to commodities whichis not within the control of any of the parties to the contract or instrument and is not unique to any of the parties' circumstances.
 
 #### (2) Hedging transaction
 

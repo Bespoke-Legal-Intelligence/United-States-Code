@@ -4,7 +4,7 @@
 
 In fiscal year 1995 and each succeeding fiscal year—
 
-&emsp;(1) the Secretary of State shall provide funds for the operation of the Diplomatic Telecommunications Service (DTS) in a sufficient amount to sustain the current level of supportservices being provided by the DTS, and no portion of such amount may be reprogrammed or transferred for any other purpose;
+&emsp;(1) the Secretary of State shall provide funds for the operation of the Diplomatic Telecommunications Service (DTS) in a sufficient amount to sustain the current level of support services being provided by the DTS, and no portion of such amount may be reprogrammed or transferred for any other purpose;
 
 &emsp;(2) all funds for the operation and enhancement of the DTS shall be directly available for use by the Diplomatic Telecommunications Service Program Office (DTS–PO); and
 
@@ -44,13 +44,13 @@ Within 60 days after August 26, 1994, the Secretary of State and the Director of
 
 #### (3) Pilot program report
 
-&emsp;Not later than January 15, 1996, the Secretary of State and the Director of the DTS–PO shall submit to the Committees on Appropriations of the House and Senate a report describing the actions taken under the program required by this subsection. The report shall include a cost-benefit analysis for each embassy participating in the program.
+&emsp;Not later than January 15, 1996, the Secretary of State and the Director of theDTS–PO shall submit to the Committees on Appropriations of the House and Senate a report describing the actions taken under the program required by this subsection. The report shall include a cost-benefit analysis for each embassy participating in the program.
 
 #### (d) DTS planning report
 
 Not later than January 15, 1995, the Secretary of State and the Director of the DTS–PO shall submit to the Committees on Appropriations a DTS planning report. The report shall include—
 
-&emsp;(1) a detailed plan for carrying out the pilot program required by subsection (c) of this section, including an estimate of the funds required for such purpose; and
+&emsp;(1) a detailed plan for carrying out the pilot program required by subsection (c), including an estimate of the funds required for such purpose; and
 
 &emsp;(2) a comprehensive DTS strategy plan that contains detailed plans and schedules for—
 

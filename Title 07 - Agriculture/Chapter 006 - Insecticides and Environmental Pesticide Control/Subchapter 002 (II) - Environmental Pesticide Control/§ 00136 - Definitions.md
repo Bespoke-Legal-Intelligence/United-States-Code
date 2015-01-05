@@ -38,7 +38,7 @@ The term "animal" means all vertebrate and invertebrate species, including but n
 
 #### (1) Certified applicator
 
-&emsp;The term "certified applicator" means any individual who is certified under section 136i of this title as authorized to use or supervise the use of any pesticide which is classified for restricted use. Any applicator who holds or applies registered pesticides, or uses dilutions of registered pesticides consistent with subsection (ee) of this section, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served is not deemed to be a seller or distributor of pesticides under this subchapter.
+&emsp;The term "certified applicator" means any individual who is certified under section 136i of this title as authorized to use or supervise the use of any pesticide which is classified for restricted use. Any applicator who holds or applies registered pesticides, or uses dilutions of registered pesticides consistent with subsection (ee), only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served is not deemed to be a seller or distributor of pesticides under this subchapter.
 
 #### (2) Private applicator
 
@@ -78,7 +78,7 @@ The term "fungus" means any non-chlorophyll-bearing thallophyte (that is, any no
 
 #### (l) Imminent hazard
 
-The term "imminent hazard" means a situation which exists when the continued use of a pesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
+The term "imminent hazard" means a situation which exists when the continued use of apesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
 #### (m) Inert ingredient
 
@@ -196,11 +196,11 @@ The term "registration" includes reregistration.
 
 #### (aa) State
 
-The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico,the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
+The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
 
 #### (bb) Unreasonable adverse effects on the environment
 
-The term "unreasonable adverse effects on the environment" means (1) any unreasonable risk to man or the environment, taking into account the economic, social, and environmental costs and benefits of the use of any pesticide, or (2) a human dietary risk from residues that result from a use of a pesticide in or on any food inconsistent with the standard under section 346a of title 21. The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.
+The term "unreasonable adverse effects on the environment" means (1) any unreasonable risk to man or the environment, taking into account the economic, social, and environmental costs and benefits of the use of any pesticide, or (2) ahuman dietary risk from residues that result from a use of a pesticide in or on any food inconsistent with the standard under section 346a of title 21. The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.
 
 #### (cc) Weed
 
@@ -246,11 +246,11 @@ The term "nitrogen stabilizer" means any substance or mixture of substances inte
 
 &emsp;&emsp;(B) that was in commercial agronomic use prior to January 1, 1992, with respect to which after January 1, 1992, the distributor or seller of the substance or mixture has made no specific claim of prevention or hindering of the process of nitrification, denitrification, ammonia volatilization <sup>3</sup> urease production regardless of the actual use or purpose for, or future use or purpose for, the substance or mixture.
 
-> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixtureshall not be deemed a specific claim within the meaning of this subsection.
+> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixture shall not be deemed a specific claim within the meaning of this subsection.
 
 #### (jj) <sup>4</sup> Maintenance applicator
 
-The term "maintenance applicator" means any individual who, in the principal course of such individual's employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumer products pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term "maintenance applicator" does not include private applicators as defined in subsection (e)(2) of this section; individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
+The term "maintenance applicator" means any individual who, in the principal course of such individual's employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumerproducts pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term "maintenance applicator" does not include private applicators as defined in subsection (e)(2); individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
 
 #### (kk) Service technician
 
@@ -300,7 +300,7 @@ The term "minor use" means the use of a pesticide on an animal, on a commercial 
 
 #### (3) Included products
 
-&emsp;The term "antimicrobial pesticide" does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
+&emsp;The term "antimicrobial pesticide" does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u)), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
 
 #### (nn) Public health pesticide
 

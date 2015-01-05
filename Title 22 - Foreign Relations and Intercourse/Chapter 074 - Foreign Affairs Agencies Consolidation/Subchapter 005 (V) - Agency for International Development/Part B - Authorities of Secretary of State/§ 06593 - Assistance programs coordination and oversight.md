@@ -20,7 +20,7 @@
 
 #### (b) Coordination activities
 
-Coordination activities of the Secretary of State under subsection (a) of this section shall include—
+Coordination activities of the Secretary of State under subsection (a) shall include—
 
 &emsp;(1) approving an overall assistance and economic cooperation strategy;
 

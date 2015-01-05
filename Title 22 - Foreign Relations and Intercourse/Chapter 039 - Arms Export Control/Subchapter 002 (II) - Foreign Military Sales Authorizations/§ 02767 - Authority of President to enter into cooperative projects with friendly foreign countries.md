@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;&emsp;(C) for procurement by the United States of a defense article or defense service from another member country or for procurement by the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization;
 
-&emsp;(2) the term "cooperative project", in the case of an agreement entered into under subsection (j) of this section, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
+&emsp;(2) the term "cooperative project", in the case of an agreement entered into under subsection (j), means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
 
 &emsp;&emsp;(A) for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
 
@@ -36,13 +36,13 @@ The President may enter into contracts or incur other obligations for a cooperat
 
 #### (e) Waiver of charges; administrative surcharges
 
-(1) For those cooperative projects entered into on or after the effective date <sup>1</sup> of the International Security and Development Cooperation Act of 1985, the President may reduce or waivethe charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, if the other participants agree to reduce or waive corresponding charges.
+(1) For those cooperative projects entered into on or after the effective date <sup>1</sup> of the International Security and Development Cooperation Act of 1985, the President may reduce or waive the charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, if the other participants agree to reduce or waive corresponding charges.
 
 (2) Notwithstanding provisions of section 2761(e)(1)(A) and section 2792(b) of this title, administrative surcharges shall not be increased on other sales made under this chapter in order to compensate for reductions or waivers of such surcharges under this section. Funds received pursuant to such other sales shall not be available to reimburse the costs incurred by the United States Government for which reduction or waiver is approved by the President under this section.
 
 #### (f) Transmission of numbered certification to Congress respecting proposed agreement; contents
 
-Not less than 30 days before a cooperative project agreement is signed on behalf of the United States, the President shall transmit to the Speaker of the House of Representatives, the chairman of the Committee on Foreign Relations of the Senate, and the chairman of the Committee on Armed Services of the Senate, a numbered certification with respect to such proposed agreement, setting forth—
+Not less than 30 days before a cooperative project agreement is signed on behalf of the United States, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the chairman of the Committee on Foreign Relations of the Senate, and the chairman of the Committee on Armed Services of the Senate, a numbered certification with respect to such proposed agreement, setting forth—
 
 &emsp;(1) a detailed description of the cooperative project with respect to which the certification is made;
 
@@ -78,11 +78,11 @@ The authority under this section is in addition to the authority under sections 
 
 (2) Omitted.
 
-(Pub. L. 90–629, ch. 2, §27, as added Pub. L. 96–92, §15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, §115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, §1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, §1103(a), title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, §1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, §843(a), Oct. 23, 1992, 106 Stat. 2468.)
+(Pub. L. 90–629, ch. 2, §27, as added Pub. L. 96–92, §15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, §115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, §1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, §1103(a), title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, §1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, §843(a), Oct. 23, 1992, 106 Stat. 2468; Pub. L. 113–276, title II, §208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
 
 #### References in Text
 
-The effective date of the International Security and Development Cooperation Act of 1985 and the effective date of the amendment to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsecs. (e)(1) and (i), respectively, is October 1, 1985, see section 1301 of Pub. L.99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
+The effective date of the International Security and Development Cooperation Act of 1985 and the effective date of the amendment to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsecs. (e)(1) and (i), respectively, is October 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
 This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -90,9 +90,11 @@ The amendment made to this section made by the International Security and Develo
 
 #### Codification
 
-Subsec. (j)(2) of this section, which required the President to submit to certain committees of Congress an annual report specifying countries eligible, and criteria used to determine eligibility, for participation in cooperative project agreements under subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 39 of House Document No. 103–7.
+Subsec. (j)(2) of this section, which required the President to submit to certain committees of Congress an annual report specifying countries eligible, and criteria used to determine eligibility, for participation incooperative project agreements under subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 39 of House Document No. 103–7.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–276 inserted "the Committee on Foreign Affairs of the House of Representatives," after "the Speaker of the House of Representatives," in introductory provisions.
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–484 substituted "costs, administrative costs, and costs of claims" for "and administrative costs".
 

@@ -36,7 +36,7 @@ The Secretary shall give preference in awarding grants based on the ability of a
 
 &emsp;&emsp;(A) costs associated with the acquisition of equipment and other capital costs relating to the expansion of food, agriculture, and veterinary medicine teaching programs in agricultural biosecurity;
 
-&emsp;&emsp;(B) capital costs associated with the expansion of academic programs that offerpostgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or
+&emsp;&emsp;(B) capital costs associated with the expansion of academic programs that offer postgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or
 
 &emsp;&emsp;(C) other capacity and infrastructure program costs that the Secretary considers appropriate.
 
@@ -46,13 +46,21 @@ The Secretary shall give preference in awarding grants based on the ability of a
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated sums as are necessary to carry out this section for each of fiscal years 2008 through 2012, to remain available until expended.
+There are authorized to be appropriated to carry out this section—
 
-(Pub. L. 110–234, title XIV, §14122, May 22, 2008, 122 Stat. 1456; Pub. L. 110–246, §4(a), title XIV, §14122, June 18, 2008, 122 Stat. 1664, 2218.)
+&emsp;(1) such sums as are necessary for each of fiscal years 2008 through 2013, to remain available until expended; and
+
+&emsp;(2) $5,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+
+(Pub. L. 110–234, title XIV, §14122, May 22, 2008, 122 Stat. 1456; Pub. L. 110–246, §4(a), title XIV, §14122, June 18, 2008, 122 Stat. 1664, 2218; Pub. L. 113–79, title VII, §7504, Feb. 7, 2014, 128 Stat. 901.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (e). Pub. L. 113–79 struck out "sums as are necessary" after "appropriated", substituted "section—" for "section for each of fiscal years 2008 through 2012, to remain available until expended.", and added pars. (1) and (2).
 
 #### Definition of "Secretary"
 

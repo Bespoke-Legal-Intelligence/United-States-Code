@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(5) the smooth movement of enterable plants, plant products, biological control organisms, or other articles into, out of, or within the United States is vital to the United State's <sup>1</sup> economy and should be facilitated to the extent possible;
 
-&emsp;(6) export markets could be severely impacted by the introduction or spread of plantpests or noxious weeds into or within the United States;
+&emsp;(6) export markets could be severely impacted by the introduction or spread of plant pests or noxious weeds into or within the United States;
 
 &emsp;(7) the unregulated movement of plant pests, noxious weeds, plants, certain biological control organisms, plant products, and articles capable of harboring plant pests or noxious weeds could present an unacceptable risk of introducing or spreading plant pests or noxious weeds;
 

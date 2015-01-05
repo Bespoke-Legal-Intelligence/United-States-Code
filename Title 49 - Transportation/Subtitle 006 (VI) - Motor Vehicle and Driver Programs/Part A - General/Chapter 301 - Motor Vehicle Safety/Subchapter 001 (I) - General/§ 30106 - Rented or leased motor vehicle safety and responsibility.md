@@ -26,7 +26,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Affiliate.—The term "affiliate" means a person other than the owner that directly orindirectly controls, is controlled by, or is under common control with the owner. In the preceding sentence, the term "control" means the power to direct the management and policies of a person whether through ownership of voting securities or otherwise.
+Affiliate.—The term "affiliate" means a person other than the owner that directly or indirectly controls, is controlled by, or is under common control with the owner. In the preceding sentence, the term "control" means the power to direct the management and policies of a person whether through ownership of voting securities or otherwise.
 
 &emsp;(2)
 

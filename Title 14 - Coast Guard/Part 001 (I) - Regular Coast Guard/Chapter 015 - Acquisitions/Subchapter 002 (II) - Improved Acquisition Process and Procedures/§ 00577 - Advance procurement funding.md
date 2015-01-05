@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—With respect to any Coast Guard vessel for which amounts are appropriated and any amounts otherwise made available for vessels for the Coast Guard in any fiscalyear, the Commandant of the Coast Guard may enter into a contract or place an order, in advance of a contract or order for construction of a vessel, for—
+In General.—With respect to any Coast Guard vessel for which amounts are appropriated and any amounts otherwise made available for vessels for the Coast Guard in any fiscal year, the Commandant of the Coast Guard may enter into a contract or place an order, in advance of a contract or order for construction of a vessel, for—
 
 &emsp;(1) materials, parts, components, and labor for the vessel;
 
@@ -18,13 +18,17 @@ Use of Materials, Parts, and Components Manufactured in the United States.—In 
 
 (Added Pub. L. 112–213, title II, §211(a), Dec. 20, 2012, 126 Stat. 1551.)
 
+#### Multiyear Procurement Authority for Offshore Patrol Cutters
+
+Pub. L. 113–281, title II, §223, Dec. 18, 2014, 128 Stat. 3038, provided that: "In fiscal year 2015 and each fiscal year thereafter, the Secretary of the department in which the Coast Guard is operating may enter into, in accordance with section 2306b of title 10, United States Code, multiyear contracts for the procurement of Offshore Patrol Cutters and associated equipment."
+
 #### Long Lead Time Materials and Vessel Production; Immediate Availability of Funding
 
 Pub. L. 113–6, div. D, title V, §557, Mar. 26, 2013, 127 Stat. 377, provided that:
 
 "(a) Notwithstanding Office of Management and Budget Circular A–11, funds made available in fiscal year 2013, or any fiscal year thereafter, under Department of Homeland Security, Coast Guard, 'Acquisition, Construction, and Improvements' for—
 
-&emsp;"(1) long lead time materials, components, and designs of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for production, outfitting, post-delivery activities, and spare or repair parts; and
+&emsp;"(1) long lead time materials, components, and designs of a vessel of the Coast Guard shall be immediately available and allotted to make a contractaward notwithstanding the availability of funds for production, outfitting, post-delivery activities, and spare or repair parts; and
 
 &emsp;"(2) production of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for outfitting, post-delivery activities, and spare or repair parts.
 

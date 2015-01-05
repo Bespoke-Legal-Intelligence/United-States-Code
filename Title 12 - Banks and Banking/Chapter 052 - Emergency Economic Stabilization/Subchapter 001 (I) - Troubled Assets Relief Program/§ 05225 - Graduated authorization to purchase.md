@@ -50,7 +50,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (2) Reporting and discharge
 
-&emsp;Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House not later than 5 calendar days after the date of receipt of the report described in subsection (a)(3). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
+&emsp;Any committee of the House of Representatives to which a joint resolution is referredshall report it to the House not later than 5 calendar days after the date of receipt of the report described in subsection (a)(3). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
 
 #### (3) Proceeding to consideration
 
@@ -114,7 +114,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (A) In general
 
-&emsp;&emsp;If Congress passes a joint resolution, the period beginning on the date the President is presented with the joint resolution and ending on the date the President takes action with respect to the joint resolution shall be disregarded in computing the 15-calendar day period described in subsection (a)(3).
+&emsp;&emsp;If Congress passes a joint resolution, the period beginning on the date the President ispresented with the joint resolution and ending on the date the President takes action with respect to the joint resolution shall be disregarded in computing the 15-calendar day period described in subsection (a)(3).
 
 #### (B) Vetoes
 
@@ -136,7 +136,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c)(1), was in the original "this Act" and was translated as reading "this division", meaning div. A of Pub. L. 110–343,Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (c)(1), was in the original "this Act" and was translated as reading "this division", meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (c)(2)(C), (D), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to this chapter. Paragraphs (1) and (2) of section 115(a) of the Act are classified to paragraphs (1) and (2), respectively, of subsec. (a) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 

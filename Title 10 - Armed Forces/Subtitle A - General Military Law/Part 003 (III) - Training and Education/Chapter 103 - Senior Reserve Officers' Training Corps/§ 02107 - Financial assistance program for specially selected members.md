@@ -8,7 +8,7 @@
 
 &emsp;(2) be specially selected for the financial assistance program under procedures prescribed by the Secretary of the military department concerned;
 
-&emsp;(3) enlist in the reserve component of the armed force in which he is appointed as acadet or midshipman for the period prescribed by the Secretary of the military department concerned;
+&emsp;(3) enlist in the reserve component of the armed force in which he is appointed as a cadet or midshipman for the period prescribed by the Secretary of the military department concerned;
 
 &emsp;(4) contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program; and
 
@@ -28,7 +28,7 @@
 
 > The performance of service under clause (5)(B) or (5)(C) may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed, except that performance of service under clause (5)(C) shall include not less than two years of active duty.
 
-(c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers' Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions.
+(c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers'Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions.
 
 (2) The Secretary of the military department concerned may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under this paragraph.
 
@@ -52,7 +52,7 @@
 
 (d) Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant or ensign, even though he is under 21 years of age.
 
-(e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, theUnited States Naval Academy, or the United States Air Force Academy, as the case may be in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
+(e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy, as the case may be in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
 
 (f) A cadet or midshipman who does not complete the four-year course of instruction, or who completes the course but declines to accept a commission when offered, may be ordered to active duty by the Secretary of the military department concerned to serve in his enlisted grade or rating for such period of time as the Secretary prescribes but not for more than four years.
 
@@ -62,7 +62,7 @@
 
 (2) Of the total number of cadets appointed in the financial assistance programs under this section in any year, not less than 100 shall be designated for placement in the program of the Army for service upon commissioning in the Army National Guard, of which one-half shall be for financial assistance awarded for a period of two years and the remainder shall be for financial assistance awarded for a period of four years. A cadet designated under this paragraph who, having initially contracted for service as provided in subsection (b)(5)(A) and having received financial assistance for two years under an award providing for four years of financial assistance under this section, modifies such contract with the consent of the Secretary of the Army to provide for service as described in subsection (b)(5)(B), may be counted, for the year in which the contract is modified, toward the number of appointments required under the preceding sentence for financial assistance awarded for a period of four years. A cadet who receives financial assistance under this paragraph and is commissioned in the Army National Guard shall perform service as provided in subsection (b)(5)(B) and may not be accepted for service on full-time active duty pursuant to the member's voluntary application until the completion of the period of service prescribed in that subsection. The Secretary of the Army shall prescribe regulations to ensure a geographical distribution of the cadets who receive financial assistance under this paragraph.
 
-(i) The Secretary of each military department shall seek to achieve an increase in the number of agreements entered into under this section so as to achieve an increase, by the 2006–2007 academic year, of not less than 400 in the number of cadets or midshipmen, as the case may be, enrolled under this section, compared to such number enrolled for the 2002–2003 academic year. In the case of the Secretary of the Navy, the Secretary shall seek to ensure that not less than one-third of such increase in agreements under this section are with students enrolled (or seeking to enroll) in programs of study leading to a baccalaureate degree in nuclear engineering or another appropriate technical, scientific, or engineering field of study.
+(i) The Secretary of each military department shall seek to achieve an increase in the number of agreements entered into under this section so as to achieve an increase, by the 2006–2007 academic year, of not less than 400 in the number of cadets or midshipmen, as the case may be, enrolled under this section, compared to such number enrolled for the 2002–2003 academic year. In the case of the Secretary of the Navy, the Secretary shall seek to ensure that not less than one-third of such increase in agreements underthis section are with students enrolled (or seeking to enroll) in programs of study leading to a baccalaureate degree in nuclear engineering or another appropriate technical, scientific, or engineering field of study.
 
 (j)(1) Payment of financial assistance under this section for, and payment of a monthly subsistence allowance under section 209 of title 37 to, a cadet or midshipman appointed under this section may be suspended on the basis of health-related incapacity of the cadet or midshipman only in accordance with regulations prescribed under paragraph (2).
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(ii) the Secretary concerned to take into consideration the determinations made under clause (i) with respect to such condition in making a final decision regarding whether to suspend payment in the case of such cadet or midshipman on the basis of that condition, and the conditions under which such suspension may be lifted.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 92–166, §1, Nov. 24, 1971, 85 Stat. 487; Pub. L. 96–357, §1(a), (b), Sept. 24, 1980, 94 Stat. 1178; Pub. L. 96–513, title V, §511(62), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 97–60, title II, §201, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 98–94, title X, §1003(a)(3), (c)(1), (2), Sept. 24, 1983, 97 Stat. 656, 657; Pub. L. 98–525, title V,§542(a), title XIV, §1405(33), Oct. 19, 1984, 98 Stat. 2529, 2624; Pub. L. 100–180, div. A, title V, §510, Dec. 4, 1987, 101 Stat. 1087; Pub. L. 102–484, div. A, title V, §§517(a)(2), 532(a), Oct. 23, 1992, 106 Stat. 2407, 2411; Pub. L. 104–106, div. A, title V, §542, Feb. 10, 1996, 110 Stat. 316; Pub. L. 104–201, div. A, title V, §§507(a)(2), 553(a), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2526, 2527; Pub. L. 106–65, div. A, title V, §545, Oct. 5, 1999, 113 Stat. 608; Pub. L. 107–107, div. A, title V, §534(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 107–314, div. A, title V, §532(d), (e), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 108–136, div. A, title V, §521(a), Nov. 24, 2003, 117 Stat. 1462; Pub. L. 108–375, div. A, title V, §524(a), Oct. 28, 2004, 118 Stat. 1888; Pub. L. 109–163, div. A, title V, §§531(a), 533(a), 534(a), Jan. 6, 2006, 119 Stat. 3247, 3248; Pub. L. 112–239, div. A, title V, §551, Jan. 2, 2013, 126 Stat. 1741.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 92–166, §1, Nov. 24, 1971, 85 Stat. 487; Pub. L. 96–357, §1(a), (b), Sept. 24, 1980, 94 Stat. 1178; Pub. L. 96–513, title V, §511(62), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 97–60, title II, §201, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 98–94, title X, §1003(a)(3), (c)(1), (2), Sept. 24, 1983, 97 Stat. 656, 657; Pub. L. 98–525, title V, §542(a), title XIV, §1405(33), Oct. 19, 1984, 98 Stat. 2529, 2624; Pub. L. 100–180, div. A, title V, §510, Dec. 4, 1987, 101 Stat. 1087; Pub. L. 102–484, div. A, title V, §§517(a)(2), 532(a), Oct. 23, 1992, 106 Stat. 2407, 2411; Pub. L. 104–106, div. A, title V, §542, Feb. 10, 1996, 110 Stat. 316; Pub. L. 104–201, div. A, title V, §§507(a)(2), 553(a), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2526, 2527; Pub. L. 106–65, div. A, title V, §545, Oct. 5, 1999, 113 Stat. 608; Pub. L. 107–107, div. A, title V, §534(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 107–314, div. A, title V, §532(d), (e), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 108–136, div. A, title V, §521(a), Nov. 24, 2003, 117 Stat. 1462; Pub. L. 108–375, div. A, title V, §524(a), Oct. 28, 2004, 118 Stat. 1888; Pub. L. 109–163, div. A, title V, §§531(a), 533(a), 534(a), Jan. 6, 2006, 119 Stat. 3247, 3248; Pub. L. 112–239, div. A, title V, §551, Jan. 2, 2013, 126 Stat. 1741.)
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Subsec. (c). Pub. L. 98–94, §1003(a)(3), inserted provision relating to a stu
 
 Subsec. (b)(5). Pub. L. 96–357, §1(b)(2), provided for exercise of discretion by the Secretary concerned, incorporated existing provisions in subcl. (A)(i), incorporated in subcl. (A)(ii) provision of former cl. (6), added subcl. (B) and defined the performance of service under such subcl. (B).
 
-Subsec. (b)(6). Pub. L. 96–357, §1(b)(2), struck out cl. (6) requiring as condition of appointment a writtenagreement for active duty service of four or more years. See subcl. (5)(A)(ii).
+Subsec. (b)(6). Pub. L. 96–357, §1(b)(2), struck out cl. (6) requiring as condition of appointment a written agreement for active duty service of four or more years. See subcl. (5)(A)(ii).
 
 Subsec. (e). Pub. L. 96–513, §511(62)(A), substituted "Military" for "Miilitary".
 
@@ -192,7 +192,7 @@ Pub. L. 88–647, title IV, §403, Oct. 13, 1964, 78 Stat. 1074, provided that: 
 
 #### Regulations
 
-Pub. L. 109–163, div. A, title V, §533(b), Jan. 6, 2006, 119 Stat. 3248, provided that: "The Secretary of Defense shall prescribe the regulations required under subsection (j) of section 2107 of title 10, United States Code (as added by subsection (a)), not later than May 1, 2006."
+Pub. L. 109–163, div. A, title V, §533(b), Jan. 6, 2006, 119 Stat. 3248, provided that: "The Secretary of Defenseshall prescribe the regulations required under subsection (j) of section 2107 of title 10, United States Code (as added by subsection (a)), not later than May 1, 2006."
 
 #### Savings Provision
 
@@ -232,7 +232,7 @@ Consultation Requirement.—In carrying out a review under subsection (a), the S
 
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 
-No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, seesection 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
+No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, see section 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
 
 #### Report to Congress on Test Program for Graduate Student Participation in Financial Assistance Program
 

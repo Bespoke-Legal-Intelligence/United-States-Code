@@ -1,6 +1,6 @@
 ### §300gg–7. Prohibition on excessive waiting periods
 
-A group health plan and a health insurance issuer offering group health insurance coverageshall not apply any waiting period (as defined in section 300gg–3(b)(4) of this title) that exceeds 90 days.
+A group health plan and a health insurance issuer offering group health insurance coverage shall not apply any waiting period (as defined in section 300gg–3(b)(4) of this title) that exceeds 90 days.
 
 (July 1, 1944, ch. 373, title XXVII, §2708, as added and amended Pub. L. 111–148, title I, §1201(4), title X, §10103(b), Mar. 23, 2010, 124 Stat. 161, 892.)
 

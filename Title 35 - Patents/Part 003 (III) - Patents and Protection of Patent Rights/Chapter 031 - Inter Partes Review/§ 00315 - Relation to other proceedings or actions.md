@@ -44,7 +44,7 @@ Proceedings before the office.—The petitioner in an inter partes review of a c
 
 &emsp;(2)
 
-Civil actions and other proceedings.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
+Civil actions and other proceedings.—The petitioner in an inter partes review of aclaim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, §§13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902; Pub. L. 112–29, §6(a), Sept. 16, 2011, 125 Stat. 300.)
 

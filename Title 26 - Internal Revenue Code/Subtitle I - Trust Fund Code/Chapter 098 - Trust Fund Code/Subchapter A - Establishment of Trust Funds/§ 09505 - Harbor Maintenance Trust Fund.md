@@ -18,21 +18,23 @@ There are hereby appropriated to the Harbor Maintenance Trust Fund amounts equiv
 
 Amounts in the Harbor Maintenance Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-&emsp;(1) to carry out section 210 of the Water Resources Development Act of 1986 (as in effect on the date of the enactment of the Water Resources Development Act of 1996),
+&emsp;(1) to carry out section 210 of the Water Resources Development Act of 1986,
 
 &emsp;(2) for payments of rebates of tolls or charges pursuant to section 13(b) of the Act of May 13, 1954 (as in effect on April 1, 1987), and
 
 &emsp;(3) for the payment of all expenses of administration incurred by the Department of the Treasury, the Army Corps of Engineers, and the Department of Commerce related to the administration of subchapter A of chapter 36 (relating to harbor maintenance tax), but not in excess of $5,000,000 for any fiscal year.
 
-(Added Pub. L. 99–662, title XIV, §1403(a), Nov. 17, 1986, 100 Stat. 4269; amended Pub. L. 103–182, title VI, §683(a), Dec. 8, 1993, 107 Stat. 2218; Pub. L. 104–303, title VI, §601, Oct. 12, 1996, 110 Stat. 3792.)
+(Added Pub. L. 99–662, title XIV, §1403(a), Nov. 17, 1986, 100 Stat. 4269; amended Pub. L. 103–182, title VI, §683(a), Dec. 8, 1993, 107 Stat. 2218; Pub. L. 104–303, title VI, §601, Oct. 12, 1996, 110 Stat. 3792; Pub. L. 113–121, title II, §2102(c), June 10, 2014, 128 Stat. 1278.)
 
 #### References in Text
 
 Section 13 of the Act of May 13, 1954, referred to in subsecs. (a)(2) and (c)(2), is classified to section 988a of Title 33, Navigation and Navigable Waters.
 
-Section 210 of the Water Resources Development Act of 1986 (as in effect on the date of the enactment of the Water Resources Development Act of 1996), referred to in subsec. (c)(1), is classified to section 2238 of Title 33, Navigation and Navigable Waters. The date of the enactment of the Water Resources Development Act of 1996 is the date of enactment of Pub. L. 104–303, which was approved Oct. 12, 1996.
+Section 210 of the Water Resources Development Act of 1986, referred to in subsec. (c)(1), is classified to section 2238 of Title 33, Navigation and Navigable Waters.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–121 struck out "(as in effect on the date of the enactment of the Water Resources Development Act of 1996)" after "1986".
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–303 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "to carry out section 210(a) of the Water Resources Development Act of 1986 (as in effect on the date of enactment of this section),".
 

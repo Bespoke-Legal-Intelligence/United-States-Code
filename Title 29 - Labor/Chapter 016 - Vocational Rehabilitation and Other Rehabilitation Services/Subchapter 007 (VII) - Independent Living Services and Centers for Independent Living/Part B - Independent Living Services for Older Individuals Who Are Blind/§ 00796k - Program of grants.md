@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;Subject to subsections (b) and (c) of this section, the Commissioner may make grants toStates for the purpose of providing the services described in subsection (d) of this section to older individuals who are blind.
+&emsp;Subject to subsections (b) and (c) of this section, the Commissioner may make grants to States for the purpose of providing the services described in subsection (d) of this section to older individuals who are blind.
 
 #### (2) Designated State agency
 
@@ -30,7 +30,7 @@ Beginning with fiscal year 1993, in the case of any fiscal year for which the am
 
 #### (2) Allotments
 
-&emsp;For grants under subsection (a) of this section for a fiscal year described in paragraph (1), the Commissioner shall make an allotment to each State in an amount determined in accordance with subsection (j) of this section, and shall make a grant to the State of the allotment made for the State if the State submits to the Commissioner an application in accordance with subsection (i) of this section.
+&emsp;For grants under subsection (a) of this section for a fiscal year described in paragraph (1), the Commissioner shall make an allotment to each State in an amount determined in accordance with subsection (i) of this section, and shall make a grant to the State of the allotment made for the State if the State submits to the Commissioner an application in accordance with subsection (h) of this section.
 
 #### (d) Services generally
 
@@ -74,7 +74,7 @@ Independent living services for purposes of subsection (d)(1) of this section in
 
 #### (1) In general
 
-&emsp;The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs of the program to be carried out by the State pursuant to such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than $1 for each $9 of Federal funds provided in the grant.
+&emsp;The Commissioner may not make a grant under subsection (a) of this section unless theState involved agrees, with respect to the costs of the program to be carried out by the State pursuant to such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than $1 for each $9 of Federal funds provided in the grant.
 
 #### (2) Determination of amount contributed
 
@@ -82,17 +82,13 @@ Independent living services for purposes of subsection (d)(1) of this section in
 
 #### (g) Certain expenditures of grants
 
-A State may expend a grant under subsection (a) of this section to carry out the purposes specified in subsection (d) of this section through grants to public and nonprofit private agencies or organizations.
+A State may expend a grant under subsection (a) of this section to carry out the purposes specified in subsection (d) of this section through grants to, or contracts or cooperative agreements with, public and nonprofit private agencies or organizations.
 
-#### (h) Requirement regarding State plan
-
-The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that, in carrying out subsection (d)(1) of this section, the State will seek to incorporate into the State plan under section 796c of this title any new methods and approaches relating to independent living services for older individuals who are blind.
-
-#### (i) Application for grant
+#### (h) Application for grant
 
 #### (1) In general
 
-&emsp;The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (j)(4) of this section).
+&emsp;The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (i)(4) of this section).
 
 #### (2) Contents
 
@@ -110,7 +106,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;&emsp;(v) data on actions taken to employ, and advance in employment, qualified individuals with significant disabilities, including older individuals who are blind; and
 
-&emsp;&emsp;&emsp;(vi) a comparison, if appropriate, of prior year activities with the activities of the most recent year;
+&emsp;&emsp;&emsp;(vi) a comparison, if appropriate, of prior year activities with the activities of the most recent year; and
 
 &emsp;&emsp;(B) an assurance that the agency will—
 
@@ -122,11 +118,9 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;&emsp;&emsp;(II) activities to promote community awareness, involvement, and assistance; and
 
-&emsp;&emsp;&emsp;&emsp;(III) outreach efforts; and
+&emsp;&emsp;&emsp;&emsp;(III) outreach efforts.
 
-&emsp;&emsp;(C) an assurance that the application is consistent with the State plan for providing independent living services required by section 796c of this title.
-
-#### (j) Amount of formula grant
+#### (i) Amount of formula grant
 
 #### (1) In general
 
@@ -144,7 +138,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;&emsp;(i) $225,000; or
 
-&emsp;&emsp;&emsp;(ii) an amount equal to 1/3 of 1 percent of the amount appropriated under section 796l of this title for the fiscal year and available for allotments under subsection (a) of this section.
+&emsp;&emsp;&emsp;(ii) an amount equal to 1/3 of 1 percent of the amount appropriated under section 796l of this title, and not reserved under section 796j–1 of this title, for the fiscal year and available for allotments under subsection (a) of this section.
 
 #### (B) Certain territories
 
@@ -154,7 +148,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;The amount referred to in subparagraph (B) of paragraph (1) for a State for a fiscal year is the product of—
 
-&emsp;&emsp;(A) the amount appropriated under section 796l of this title and available for allotments under subsection (a) of this section; and
+&emsp;&emsp;(A) the amount appropriated under section 796l of this title, and not reserved under section 796j–1 of this title, and available for allotments under subsection (a) of this section; and
 
 &emsp;&emsp;(B) a percentage equal to the quotient of—
 
@@ -166,13 +160,13 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 #### (A) Grants
 
-&emsp;&emsp;From the amounts specified in subparagraph (B), the Commissioner may make grants to States whose population of older individuals who are blind has a substantial need for the services specified in subsection (d) of this section relative to the populations in other States of older individuals who are blind.
+&emsp;&emsp;From the amounts specified in subparagraph (B), the Commissioner may make grants to States whose population of older individuals who are blind has a substantial need for the services specified in subsection (d) of this section relative to the populationsin other States of older individuals who are blind.
 
 #### (B) Amounts
 
 &emsp;&emsp;The amounts referred to in subparagraph (A) are any amounts that are not paid to States under subsection (a) of this section as a result of—
 
-&emsp;&emsp;&emsp;(i) the failure of any State to submit an application under subsection (i) of this section;
+&emsp;&emsp;&emsp;(i) the failure of any State to submit an application under subsection (h) of this section;
 
 &emsp;&emsp;&emsp;(ii) the failure of any State to prepare within a reasonable period of time such application in compliance with such subsection; or
 
@@ -182,7 +176,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a) of this section.
 
-(Pub. L. 93–112, title VII, §752, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1237.)
+(Pub. L. 93–112, title VII, §752, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, §487, July 22, 2014, 128 Stat. 1694.)
 
 #### References in Text
 
@@ -190,5 +184,25 @@ Part C of this subchapter, as in effect on the day before October 29, 1992, refe
 
 #### Prior Provisions
 
-A prior section 796k, Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796k, Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–128, §487(3), substituted "subsection (i)" for "subsection (j)" and "subsection (h)" for "subsection (i)".
+
+Subsec. (g). Pub. L. 113–128, §487(4), inserted ", or contracts or cooperative agreements with," after "grants to".
+
+Subsec. (h). Pub. L. 113–128, §487(1), (2), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text read as follows: "The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that, in carrying out subsection (d)(1) of this section, the State will seek to incorporate into the State plan under section 796c of this title any new methods and approaches relating to independent living services for older individuals who are blind."
+
+Subsec. (h)(1). Pub. L. 113–128, §487(5)(A), substituted "subsection (i)(4)" for "subsection (j)(4)".
+
+Subsec. (h)(2)(A)(vi) to (C). Pub. L. 113–128, §487(5)(B), inserted "and" after semicolon at end of subpar. (A)(vi), substituted a period for "; and" at end of subpar. (B)(ii)(III), and struck out subpar. (C) which read as follows: "an assurance that the application is consistent with the State plan for providing independent living services required by section 796c of this title."
+
+Subsec. (i). Pub. L. 113–128, §487(2), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+
+Subsec. (i)(2)(A)(ii), (3)(A). Pub. L. 113–128, §487(6)(A), (B), inserted ", and not reserved under section 796j–1 of this title," after "section 796l of this title".
+
+Subsec. (i)(4)(B)(i). Pub. L. 113–128, §487(6)(C), substituted "subsection (h)" for "subsection (i)".
+
+Subsec. (j). Pub. L. 113–128, §487(2), redesignated subsec. (j) as (i).
 

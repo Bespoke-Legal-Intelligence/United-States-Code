@@ -90,7 +90,7 @@ For purposes of this chapter, the term "wages" means all remuneration for employ
 
 &emsp;(11) remuneration for agricultural labor paid in any medium other than cash;
 
-&emsp;(12) any contribution, payment, or service, provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);
+&emsp;\[(12) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(vi), Dec. 19, 2014, 128 Stat. 4040\]
 
 &emsp;(13) any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5);
 
@@ -122,9 +122,9 @@ For purposes of this chapter, the term "employment" means any service performed 
 
 &emsp;&emsp;(A) such labor is performed for a person who—
 
-&emsp;&emsp;&emsp;(i) during any calendar quarter in the calendar year or the preceding calendar year paid remuneration in cash of $20,000or more to individuals employed in agricultural labor (including labor performed by an alien referred to in subparagraph (B)), or
+&emsp;&emsp;&emsp;(i) during any calendar quarter in the calendar year or the preceding calendar year paid remuneration in cash of $20,000 or more to individuals employed in agricultural labor (including labor performed by an alien referred to in subparagraph (B)), or
 
-&emsp;&emsp;&emsp;(ii) on each of some 20 days during the calendar year or the preceding calendar year, each day being in a different calendar week, employed in agricultural labor (including labor performed by an alien referred to in subparagraph (B)) for some portion of the day (whether or not at the same moment of time) 10 or more individuals; and
+&emsp;&emsp;&emsp;(ii) on each of some 20 days during the calendar year or the preceding calendaryear, each day being in a different calendar week, employed in agricultural labor (including labor performed by an alien referred to in subparagraph (B)) for some portion of the day (whether or not at the same moment of time) 10 or more individuals; and
 
 &emsp;&emsp;(B) such labor is not agricultural labor performed by an individual who is an alien admitted to the United States to perform agricultural labor pursuant to sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act;
 
@@ -166,9 +166,9 @@ For purposes of this chapter, the term "employment" means any service performed 
 
 &emsp;&emsp;(A) if the service is of a character similar to that performed in foreign countries by employees of the United States Government or of an instrumentality thereof; and
 
-&emsp;&emsp;(B) if the Secretary of State shall certify to the Secretary of the Treasury that the foreign government, with respect to whose instrumentality exemption is claimed,grants an equivalent exemption with respect to similar service performed in the foreign country by employees of the United States Government and of instrumentalities thereof;
+&emsp;&emsp;(B) if the Secretary of State shall certify to the Secretary of the Treasury that the foreign government, with respect to whose instrumentality exemption is claimed, grants an equivalent exemption with respect to similar service performed in the foreign country by employees of the United States Government and of instrumentalities thereof;
 
-&emsp;(13) service performed as a student nurse in the employ of a hospital or a nurses' training school by an individual who is enrolled and is regularly attending classes in a nurses' training school chartered or approved pursuant to State law; and service performed as an intern in the employ of a hospital by an individual who has completed a 4 years' course in a medical school chartered or approved pursuant to State law;
+&emsp;(13) service performed as a student nurse in the employ of a hospital or a nurses' trainingschool by an individual who is enrolled and is regularly attending classes in a nurses' training school chartered or approved pursuant to State law; and service performed as an intern in the employ of a hospital by an individual who has completed a 4 years' course in a medical school chartered or approved pursuant to State law;
 
 &emsp;(14) service performed by an individual for a person as an insurance agent or as an insurance solicitor, if all such service performed by such individual for such person is performed for remuneration solely by way of commission;
 
@@ -212,7 +212,7 @@ For purposes of this chapter, the term "State agency" means any State officer, b
 
 For purposes of this chapter, the term "unemployment fund" means a special fund, established under a State law and administered by a State agency, for the payment of compensation. Any sums standing to the account of the State agency in the Unemployment Trust Fund established by section 904 of the Social Security Act, as amended (42 U.S.C. 1104), shall be deemed to be a part of the unemployment fund of the State, and no sums paid out of the Unemployment Trust Fund to such State agency shall cease to be a part of the unemployment fund of the State until expended by such State agency. An unemployment fund shall be deemed to be maintained during a taxable year only if throughout such year, or such portion of the year as the unemployment fund was in existence, no part of the moneys of such fund was expended for any purpose other than the payment of compensation (exclusive of expenses of administration) and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b); except that—
 
-&emsp;(1) an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration;
+&emsp;(1) an amount equal to the amount of employee payments into the unemployment fundof a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration;
 
 &emsp;(2) the amounts specified by section 903(c)(2) or 903(d)(4) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices,<sup>4</sup>
 
@@ -282,7 +282,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 &emsp;(2) whose business is conducted by a general agent of the Secretary of Commerce.
 
-> For purposes of this chapter, each such general agent shall be considered a legal entity in hiscapacity as such general agent, separate and distinct from his identity as a person employing individuals on his own account, and the officers and members of the crew of such an American vessel whose business is conducted by a general agent of the Secretary of Commerce shall be deemed to be performing services for such general agent rather than the United States. Each such general agent who in his capacity as such is an employer within the meaning of subsection (a) shall be subject to all the requirements imposed upon an employer under this chapter with respect to service which constitutes employment by reason of this subsection.
+> For purposes of this chapter, each such general agent shall be considered a legal entity in his capacity as such general agent, separate and distinct from his identity as a person employing individuals on his own account, and the officers and members of the crew of such an American vessel whose business is conducted by a general agent of the Secretary of Commerce shall be deemed to be performing services for such general agent rather than the United States. Each such general agent who in his capacity as such is an employer within the meaning of subsection (a) shall be subject to all the requirements imposed upon an employer under this chapter with respect to service which constitutes employment by reason of this subsection.
 
 #### (o) Special rule in case of certain agricultural workers
 
@@ -358,7 +358,7 @@ For purposes of subsection (c)(20), an individual shall be treated as a full tim
 
 #### (C) Nonqualified deferred compensation plan
 
-&emsp;&emsp;For purposes of this paragraph, the term "nonqualified deferred compensation plan"means any plan or other arrangement for deferral of compensation other than a plan described in subsection (b)(5).
+&emsp;&emsp;For purposes of this paragraph, the term "nonqualified deferred compensation plan" means any plan or other arrangement for deferral of compensation other than a plan described in subsection (b)(5).
 
 #### (s) Tips treated as wages
 
@@ -432,7 +432,7 @@ For purposes of this part,<sup>5</sup> the term "short-time compensation program
 
 &emsp;(10) upon request by the State and approval by the Secretary of Labor, only such other provisions are included in the State law that are determined to be appropriate for purposes of a short-time compensation program.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§1, 4(c), 68 Stat. 1130, 1135; Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(d), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title V, §§531(c), 532–534, 543(a), Sept. 13, 1960, 74 Stat. 983, 984, 986; Pub. L. 87–256, §110(f), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–792, §7(k), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–650, §4(c), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 90–248, title V, §504(b), Jan. 2, 1968, 81 Stat. 935; Pub. L. 91–53, §1, Aug. 7, 1969, 83 Stat. 91; Pub. L. 91–373, title I, §§101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, §302, Aug. 10, 1970, 84 Stat. 696, 697, 699, 700, 713; Pub. L. 94–455, title XIX, §§1903(a)(16), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1810, 1834; Pub. L. 94–566, title I, §§111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, §211(a), Oct. 20, 1976, 90 Stat. 2667–2669, 2672, 2676; Pub. L. 95–216, title III, §314(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–472, §3(a), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(2), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 96–84, §4(a), (b), Oct. 10, 1979, 93 Stat. 654; Pub. L. 96–222, title I, §101(a)(10)(B)(ii), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, §1141(b), Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title I, §124(e)(2)(A), title VIII, §822(a), Aug. 13, 1981, 95 Stat. 200, 351; Pub. L. 97–248, title II, §§271(a), 276(a)(1), (b)(1), (2), 277, Sept. 3, 1982, 96 Stat. 554, 558, 559; Pub. L. 98–21, title III, §§324(b)(1)–(4)(B), 327(c), 328(c), Apr. 20, 1983, 97 Stat. 123, 124, 127, 128; Pub. L. 98–135, title II, §§201(a), 202, Oct. 24, 1983, 97 Stat. 860; Pub. L. 98–369, div. A, title IV, §491(d)(37), title V, §531(d)(3), div. B, title VI, §2661(o)(4), July 18, 1984, 98 Stat. 851, 884, 1159; Pub. L. 99–272, title XII, §12401(b)(2), title XIII, §13303(a), Apr. 7, 1986, 100 Stat. 297, 327; Pub. L. 99–509, title IX, §9002(b)(2)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, §122(e)(3), title XI, §§1108(g)(8), 1151(d)(2)(B), title XVIII, §§1884(3), 1899A(44), (45), Oct. 22, 1986, 100 Stat. 2112, 2435, 2505, 2919, 2961; Pub. L. 99–595, Oct. 31, 1986, 100 Stat. 3348; Pub. L. 100–647, title I, §§1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, §8016(a)(3)(B), Nov. 10, 1988, 102 Stat. 3351, 3352, 3486, 3593, 3792; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 102–318, title III, §303(a), title IV, §401(a)(2), title V, §521(b)(35), July 3, 1992, 106 Stat. 297, 298, 312; Pub. L. 103–182, title V, §507(a), (b)(2), Dec. 8, 1993, 107 Stat. 2153, 2154; Pub. L. 103–296, title III, §320(a)(1)(E), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §702(c)(2), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–188, title I, §§1203(a), 1421(b)(8)(C), 1704(t)(10), Aug. 20, 1996, 110 Stat. 1773, 1798, 1888; Pub. L. 104–191, title III, §301(c)(2)(B), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–33, title V, §5406(a), Aug. 5, 1997, 111 Stat. 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(a), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 107–147, title II, §209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–121, title I, §106(b)(3), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(B), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title II, §251(a)(3), title III, §320(b)(3), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 108–375, div. A, title V, §585(b)(2)(C), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 110–245, title I, §115(b), June 17, 2008, 122 Stat. 1636; Pub. L. 112–96, title II, §2161(a)(1), (b)(1)(B), Feb. 22, 2012, 126 Stat. 171, 172.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§1, 4(c), 68 Stat. 1130, 1135; Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(d), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title V, §§531(c), 532–534, 543(a), Sept. 13, 1960, 74 Stat. 983, 984, 986; Pub. L. 87–256, §110(f), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–792, §7(k), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–650, §4(c), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 90–248, title V, §504(b), Jan. 2, 1968, 81 Stat. 935; Pub. L. 91–53, §1, Aug. 7, 1969, 83 Stat. 91; Pub. L. 91–373, title I, §§101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, §302, Aug. 10, 1970, 84 Stat. 696, 697, 699, 700, 713; Pub. L. 94–455, title XIX, §§1903(a)(16), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1810, 1834; Pub. L. 94–566, title I, §§111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, §211(a), Oct. 20, 1976, 90 Stat. 2667–2669, 2672, 2676; Pub. L. 95–216, title III, §314(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–472, §3(a), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(2), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 96–84, §4(a), (b), Oct. 10, 1979, 93 Stat. 654; Pub. L. 96–222, title I, §101(a)(10)(B)(ii), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, §1141(b), Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title I, §124(e)(2)(A), title VIII, §822(a), Aug. 13, 1981, 95 Stat. 200, 351; Pub. L. 97–248, title II, §§271(a), 276(a)(1), (b)(1), (2), 277, Sept. 3, 1982, 96 Stat. 554, 558, 559; Pub. L. 98–21, title III, §§324(b)(1)–(4)(B), 327(c), 328(c), Apr. 20, 1983, 97 Stat. 123, 124, 127, 128; Pub. L. 98–135, title II, §§201(a), 202, Oct. 24, 1983, 97 Stat. 860; Pub. L. 98–369, div. A, title IV, §491(d)(37), title V, §531(d)(3), div. B, title VI, §2661(o)(4), July 18, 1984, 98 Stat. 851, 884, 1159; Pub. L. 99–272, title XII, §12401(b)(2), title XIII, §13303(a), Apr. 7, 1986, 100 Stat. 297, 327; Pub. L. 99–509, title IX, §9002(b)(2)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, §122(e)(3), title XI, §§1108(g)(8), 1151(d)(2)(B), title XVIII, §§1884(3), 1899A(44), (45), Oct. 22, 1986, 100 Stat. 2112, 2435, 2505, 2919, 2961; Pub. L. 99–595, Oct. 31, 1986, 100 Stat. 3348; Pub. L. 100–647, title I, §§1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, §8016(a)(3)(B), Nov. 10, 1988, 102 Stat. 3351, 3352, 3486, 3593, 3792; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 102–318, title III, §303(a), title IV, §401(a)(2), title V, §521(b)(35), July 3, 1992, 106 Stat. 297, 298, 312; Pub. L. 103–182, title V, §507(a), (b)(2), Dec. 8, 1993, 107 Stat. 2153, 2154; Pub. L. 103–296, title III, §320(a)(1)(E), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §702(c)(2), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–188, title I, §§1203(a), 1421(b)(8)(C), 1704(t)(10), Aug. 20, 1996, 110 Stat. 1773, 1798, 1888; Pub. L. 104–191, title III, §301(c)(2)(B), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–33, title V, §5406(a), Aug. 5, 1997, 111 Stat. 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(a), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 107–147, title II, §209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–121, title I, §106(b)(3), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(B), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title II, §251(a)(3), title III, §320(b)(3), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 108–375, div. A, title V, §585(b)(2)(C), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 110–245, title I, §115(b), June 17, 2008, 122 Stat. 1636; Pub. L. 112–96, title II, §2161(a)(1), (b)(1)(B), Feb. 22, 2012, 126 Stat. 171, 172; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(vi), Dec. 19, 2014, 128 Stat. 4040.)
 
 #### References in Text
 
@@ -449,6 +449,8 @@ The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subs
 The Workforce Investment Act of 1998, referred to in subsec. (v)(6), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(12). Pub. L. 113–295 struck out par. (12) which read as follows: "any contribution, payment, or service, provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);".
 
 <b>2012</b>—Subsec. (f)(5). Pub. L. 112–96, §2161(b)(1)(B)(i), added par. (5) and struck out former par. (5) relating to short-time compensation which read as follows: "amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor; and". Former par. (5) relating to self-employment assistance program redesignated (6).
 
@@ -666,6 +668,10 @@ Subsec. (m). Pub. L. 86–778, §532(c), included aircraft in heading and define
 
 Subsec. (l). Act Sept. 1, 1954, repealed subsec. (l) which related to certain employees of Bonneville Power Administrator.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2012 Amendment; Transition Provision
 
 Pub. L. 112–96, title II, §2161(a)(2), (3), Feb. 22, 2012, 126 Stat. 172, provided that:
@@ -752,9 +758,9 @@ Amendment by section 1011B(a)(22)(C) of Pub. L. 100–647 not applicable to any 
 
 Pub. L. 100–647, title I, §1018(u)(50), Nov. 10, 1988, 102 Stat. 3593, provided that the amendment made by that section is effective Apr. 7, 1986.
 
-Amendment by sections 1001(d)(2)(C)(iii), (g)(4)(B)(ii), and 1011B(a)(23)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1001(d)(2)(C)(iii), (g)(4)(B)(ii), and 1011B(a)(23)(A) of Pub. L. 100–647 effective, except asotherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 8016(a)(3)(B) of Pub. L. 100–647 effective Nov. 10, 1988, except that any amendment to aprovision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or to this title as added or amended by a provision of a particular Public Law which is so referred to, effective as though included or reflected in the relevant provisions of that Public Law at the time of its enactment, see section 8016(b) of Pub. L. 100–647, set out as a note under section 3111 of this title.
+Amendment by section 8016(a)(3)(B) of Pub. L. 100–647 effective Nov. 10, 1988, except that any amendment to a provision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or to this title as added or amended by a provision of a particular Public Law which is so referred to, effective as though included or reflected in the relevant provisions of that Public Law at the time of its enactment, see section 8016(b) of Pub. L. 100–647, set out as a note under section 3111 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -918,7 +924,7 @@ State Reports.—Any State operating a self-employment program authorized by the
 
 "(d)
 
-Report to Congress.—Not later than 4 years after the date of the enactment of this Act \[Dec. 8, 1993\], the Secretary of Labor shall submit a report to the Congress with respect to the operation of the program authorized under this section. Such report shall be based on the reports received from the States pursuant to subsection (c) and include such other information as the Secretary of Labor determines is appropriate."
+Report to Congress.—Not later than 4 years after the date of the enactment of this Act \[Dec. 8, 1993\], the Secretary of Labor shall submit a report to the Congress with respect to the operation of the program authorized under this section. Such report shallbe based on the reports received from the States pursuant to subsection (c) and include such other information as the Secretary of Labor determines is appropriate."
 
 #### Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 

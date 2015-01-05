@@ -116,11 +116,11 @@ Subsec. (d). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline o
 
 Subsec. (e). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 405 "Definition of humanitarian and civic assistance", designated text of former section 405 as subsec. (e) of this section, and substituted "section" for "chapter".
 
-Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 "Expenditurelimitation", designated text of former section 406 as subsec. (f) of this section, and substituted "section" for "chapter".
+Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 "Expenditure limitation", designated text of former section 406 as subsec. (f) of this section, and substituted "section" for "chapter".
 
 #### Authority To Conduct Activities To Enhance the Capability of Foreign Countries To Respond to Incidents Involving Weapons of Mass Destruction
 
-Pub. L. 113–66, div. A, title XII, §1204, Dec. 26, 2013, 127 Stat. 896, provided that:
+Pub. L. 113–66, div. A, title XII, §1204, Dec. 26, 2013, 127 Stat. 896, as amended by Pub. L. 113–291, div. A, title XII, §1202, Dec. 19, 2014, 128 Stat. 3530, provided that:
 
 "(a)
 
@@ -156,7 +156,7 @@ Availability across fiscal years.—Amounts available under paragraph (1) may be
 
 "(e)
 
-Notice to Congress on Certain Assistance.—If the amount of assistance to be provided under this section in a fiscal year is anticipated to exceed $4,000,000, the Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] in writing of that fact.
+Notice to Congress on Certain Assistance.—If the amount of assistance to be provided under this section in a fiscal year is anticipated to exceed $4,000,000, the Secretary of Defense shall notify the congressional defense committees and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in writing of that fact.
 
 "(f)
 

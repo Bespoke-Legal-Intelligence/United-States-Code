@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) any amount described in section 1382(b)(2) (relating to redemption of nonqualified written notices of allocation) and, in the case of an organization described in section 1381(a)(1), any amount described in section 1382(c)(2)(B) (relating to redemption of nonqualified written notices of allocation paid with respect to earnings derived from sources other than patronage), and
 
-&emsp;&emsp;(D) the amount of any per-unit retain allocation (as defined in section 1388(f)) which ispaid in qualified per-unit retain certificates (as defined in section 1388(h)), and
+&emsp;&emsp;(D) the amount of any per-unit retain allocation (as defined in section 1388(f)) which is paid in qualified per-unit retain certificates (as defined in section 1388(h)), and
 
 &emsp;&emsp;(E) any amount described in section 1382(b)(4) (relating to redemption of nonqualified per-unit retain certificates).
 
@@ -96,7 +96,7 @@ Exceptions.—This section shall not apply in the case of any corporation (inclu
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
 
 #### Effective Date of 1986 Amendment
 

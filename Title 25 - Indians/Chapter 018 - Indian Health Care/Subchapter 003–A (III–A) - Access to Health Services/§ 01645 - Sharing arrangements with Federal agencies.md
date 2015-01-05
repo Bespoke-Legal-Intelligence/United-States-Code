@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 102–573, §404(2), substituted "1996" for "1995".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–417, §3(c), Nov. 1, 2000, 114 Stat. 1816, provided that: "The amendments made by this section \[amending this section and sections 1395qq and 1396j ofTitle 42, The Public Health and Welfare\] shall take effect on October 1, 2000."
+Pub. L. 106–417, §3(c), Nov. 1, 2000, 114 Stat. 1816, provided that: "The amendments made by this section \[amending this section and sections 1395qq and 1396j of Title 42, The Public Health and Welfare\] shall take effect on October 1, 2000."
 
 Pub. L. 106–417, §4(a), Nov. 1, 2000, 114 Stat. 1816, provided that the reenactment of this section by section 4(a) is effective Nov. 9, 1998.
 

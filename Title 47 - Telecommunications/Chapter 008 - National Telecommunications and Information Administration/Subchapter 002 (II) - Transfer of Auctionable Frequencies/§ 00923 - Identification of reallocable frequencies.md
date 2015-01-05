@@ -94,7 +94,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (A) Applicability of criteria
 
-&emsp;&emsp;The criteria specified by subsection (a) of this section shall be deemed not to be metfor any purpose under this subchapter with regard to any frequency assignment to, or any frequency assignment used by, a Federal power agency for the purpose of withdrawing that assignment.
+&emsp;&emsp;The criteria specified by subsection (a) of this section shall be deemed not to be met for any purpose under this subchapter with regard to any frequency assignment to, or any frequency assignment used by, a Federal power agency for the purpose of withdrawing that assignment.
 
 #### (B) Mixed use eligibility
 
@@ -120,7 +120,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (3) Comment and recommendations from Commission
 
-&emsp;The Commission shall, within 90 days after the conclusion of the period for comment provided pursuant to paragraph (2), submit to the Secretary the Commission's analysis of such comments and the Commission's recommendations for responses to such comments, together with such other comments and recommendations as the Commission deems appropriate.
+&emsp;The Commission shall, within 90 days after the conclusion of the period for comment provided pursuant to paragraph (2), submit to the Secretary the Commission's analysis of suchcomments and the Commission's recommendations for responses to such comments, together with such other comments and recommendations as the Commission deems appropriate.
 
 #### (4) Direct discussions
 
@@ -156,7 +156,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (f) Additional reallocation report
 
-If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of theBalanced Budget Act of 1997, the Secretary shall prepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified in the Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
+If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shall prepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified in the Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
 
 #### (g) Relocation of and spectrum sharing by Federal Government stations
 
@@ -176,7 +176,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section and section 928 of this title, the term "relocation or sharing costs" means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
+&emsp;&emsp;For purposes of this section and section 928 of this title, the term "relocation or sharing costs" means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity (includingthe auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
 
 &emsp;&emsp;&emsp;(i) the costs of any modification or replacement of equipment, spares, associated ancillary equipment, software, facilities, operating manuals, training, or compliance with regulations that are attributable to relocation or sharing;
 
@@ -204,7 +204,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 &emsp;&emsp;&emsp;(i) may be achieved by relocating a Federal Government station to a new frequency assignment, by relocating a Federal Government station to a different geographic location, by modifying Federal Government equipment to mitigate interference or use less spectrum, in terms of bandwidth, geography, or time, and thereby permitting spectrum sharing (including sharing among relocated Federal entities and incumbents to make spectrum available for non-Federal use) or relocation, or by utilizing an alternative technology; and
 
-&emsp;&emsp;&emsp;(ii) includes the acquisition of state-of-the-art replacement systems intended tomeet comparable operational scope, which may include incidental increases in functionality.
+&emsp;&emsp;&emsp;(ii) includes the acquisition of state-of-the-art replacement systems intended to meet comparable operational scope, which may include incidental increases in functionality.
 
 #### (4) Notice to Commission of estimated relocation or sharing costs
 
@@ -220,7 +220,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (6) Implementation of procedures
 
-&emsp;The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities' spectrum-related operations from frequencies described in paragraph (2) to frequencies or facilities of comparable capability and to ensure the timely implementation of arrangements for the sharing of frequencies described in such paragraph. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems, the NTIA shall terminate or limit the entity's authorization and notify the Commission that the entity's relocation has been completed or sharing arrangement has been implemented. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation or sharing submitted by the Director of the Office of Management and Budget under section 928(d)(2)(C) of this title.
+&emsp;The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities' spectrum-related operations from frequencies described in paragraph (2) to frequencies or facilities of comparable capability and to ensure the timely implementation of arrangements for the sharing of frequenciesdescribed in such paragraph. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems, the NTIA shall terminate or limit the entity's authorization and notify the Commission that the entity's relocation has been completed or sharing arrangement has been implemented. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation or sharing submitted by the Director of the Office of Management and Budget under section 928(d)(2)(C) of this title.
 
 #### (h) Development and publication of relocation or sharing transition plans
 
@@ -424,7 +424,7 @@ Any Federal Government station which operates on electromagnetic spectrum that h
 
 #### (l) "Federal entity" defined
 
-For purposes of this section, the term "Federal entity" means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station licenseobtained under section 305 of the 1934 Act (47 U.S.C. 305).
+For purposes of this section, the term "Federal entity" means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305).
 
 (Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132; Pub. L. 106–65, div. A, title X, §1062(c)(2), Oct. 5, 1999, 113 Stat. 768; Pub. L. 108–494, title II, §202, Dec. 23, 2004, 118 Stat. 3991; Pub. L. 112–96, title VI, §6701(a), Feb. 22, 2012, 126 Stat. 245.)
 

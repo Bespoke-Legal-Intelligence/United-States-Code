@@ -6,7 +6,7 @@ A former President and the surviving spouse of a former President may send nonpo
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–61 struck out subsec. (a) designation, substituted "A former President" for "Subject tosubsection (b), a former President", and struck out subsec. (b) which read as follows: "Subsection (a) shall cease to apply—
+<b>1997</b>—Pub. L. 105–61 struck out subsec. (a) designation, substituted "A former President" for "Subject to subsection (b), a former President", and struck out subsec. (b) which read as follows: "Subsection (a) shall cease to apply—
 
 &emsp;"(1) 5 years after the effective date of this subsection, in the case of any individual who, on such effective date—
 

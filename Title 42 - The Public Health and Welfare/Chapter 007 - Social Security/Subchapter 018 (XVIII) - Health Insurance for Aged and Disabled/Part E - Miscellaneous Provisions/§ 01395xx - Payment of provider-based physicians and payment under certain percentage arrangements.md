@@ -12,7 +12,7 @@
 
 (B) In determining the amount of the payments which may be made with respect to services described in paragraph (1)(B), after apportioning costs as required by subparagraph (A), the Secretary may not recognize as reasonable (in the efficient delivery of health services) such portion of the provider's costs for such services to the extent that such costs exceed the reasonable compensation equivalent for such services. The reasonable compensation equivalent for any service shall be established by the Secretary in regulations.
 
-(C) The Secretary may, upon a showing by a hospital or facility that it is unable to recruit or maintain an adequate number of physicians for the hospital or facility on account of the reimbursement limits established under this subsection, grant exceptions to such reimbursement limits as may be necessary to allow such provider to provide a compensation level sufficient to provide adequate physician services in such hospital or facility.
+(C) The Secretary may, upon a showing by a hospital or facility that it is unable to recruit ormaintain an adequate number of physicians for the hospital or facility on account of the reimbursement limits established under this subsection, grant exceptions to such reimbursement limits as may be necessary to allow such provider to provide a compensation level sufficient to provide adequate physician services in such hospital or facility.
 
 #### (b) Prohibition of recognition of payments under certain percentage agreements
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;At the request of a State, local, or tribal law enforcement agency, the Attorney General may provide technical, forensic, prosecutorial,or any other form of assistance in the criminal investigation or prosecution of any crime that—
+&emsp;At the request of a State, local, or tribal law enforcement agency, the Attorney General may provide technical, forensic, prosecutorial, or any other form of assistance in the criminal investigation or prosecution of any crime that—
 
 &emsp;&emsp;(A) constitutes a crime of violence;
 
@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State, local, and tribal law enforcement agency that desires a grant under this subsection shall submit an application to the Attorney General at such time, in such manner, and accompanied by or containing such information as the Attorney General shall reasonably require.
+&emsp;&emsp;Each State, local, and tribal law enforcement agency that desires a grant under thissubsection shall submit an application to the Attorney General at such time, in such manner, and accompanied by or containing such information as the Attorney General shall reasonably require.
 
 #### (B) Date for submission
 

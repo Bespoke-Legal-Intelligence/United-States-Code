@@ -1,0 +1,54 @@
+### §101920. Contracting for services
+
+(a)
+
+Contracting Authorized.—
+
+&emsp;(1)
+
+Management elements for which contract required to maximum extent practicable.—To the maximum extent practicable, the Secretary shall contract with private entities to conduct or assist in elements of the management of the Service concession program considered by the Secretary to be suitable for non-Federal performance. Those management elements shall include each of the following:
+
+&emsp;&emsp;(A) Health and safety inspections.
+
+&emsp;&emsp;(B) Quality control of concession operations and facilities.
+
+&emsp;&emsp;(C) Strategic capital planning for concession facilities.
+
+&emsp;&emsp;(D) Analysis of rates and charges to the public.
+
+&emsp;(2)
+
+Management elements for which contract allowed.—The Secretary may also contract with private entities to assist the Secretary with each of the following:
+
+&emsp;&emsp;(A) Preparation of the financial aspects of prospectuses for Service concession contracts.
+
+&emsp;&emsp;(B) Development of guidelines for a System capital improvement and maintenance program for all concession occupied facilities.
+
+&emsp;&emsp;(C) Making recommendations to the Director regarding the conduct of annual audits of concession fee expenditures.
+
+(b)
+
+Other Management Elements.—The Secretary shall consider, taking into account the recommendations of the Advisory Board, contracting out other elements of the concessions management program, as appropriate.
+
+(c)
+
+Authority of Secretary Not Diminished.—Nothing in this section shall diminish the governmental responsibilities and authority of the Secretary to administer concession contracts and activities pursuant to this subchapter and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of this title. The Secretary reserves the right to make the final decision or contract approval on contracting services dealing with the management of the Service concessions program under this section.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3149.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+101920
+
+16 U.S.C. 5959.
+
+Pub. L. 105–391, title IV, §410, Nov. 13, 1998, 112 Stat. 3514.
+

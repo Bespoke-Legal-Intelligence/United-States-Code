@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 96–513, §502(19)(C), redesignated subsec. (c) as (b).
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–288 added the Surgeon General of the Army to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
 
-<b>1958</b>—Subsecs. (c), (d). Pub. L. 85–861 redesignated former subsec. (d) as (c) and repealed former subsec. (c)which related to retirement of commissioned officers who served as Director or Deputy Director of the Women's Army Corps, Chief of the Army Nurse Corps, or Chief or assistant chief of the Women's Medical Specialist Corps.
+<b>1958</b>—Subsecs. (c), (d). Pub. L. 85–861 redesignated former subsec. (d) as (c) and repealed former subsec. (c) which related to retirement of commissioned officers who served as Director or Deputy Director of the Women's Army Corps, Chief of the Army Nurse Corps, or Chief or assistant chief of the Women's Medical Specialist Corps.
 
 #### Effective Date of 1980 Amendment
 

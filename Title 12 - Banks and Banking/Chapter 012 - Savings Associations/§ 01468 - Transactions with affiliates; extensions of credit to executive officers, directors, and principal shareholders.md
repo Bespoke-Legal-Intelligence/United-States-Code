@@ -36,7 +36,7 @@
 
 #### (2) Additional restrictions authorized
 
-&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
+&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, orhas the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
 
 #### (c) Administrative enforcement
 

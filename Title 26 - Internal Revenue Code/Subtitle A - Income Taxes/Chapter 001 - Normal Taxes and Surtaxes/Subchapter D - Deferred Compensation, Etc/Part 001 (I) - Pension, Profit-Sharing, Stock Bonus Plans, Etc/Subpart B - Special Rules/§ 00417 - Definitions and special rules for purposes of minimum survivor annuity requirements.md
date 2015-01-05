@@ -20,7 +20,7 @@
 
 &emsp;Each plan shall provide that an election under paragraph (1)(A)(i) shall not take effect unless—
 
-&emsp;&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a formof benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
+&emsp;&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
 
 &emsp;&emsp;(B) it is established to the satisfaction of a plan representative that the consent required under subparagraph (A) may not be obtained because there is no spouse, because the spouse cannot be located, or because of such other circumstances as the Secretary may by regulations prescribe.
 
@@ -44,7 +44,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each plan shall provide to each participant, within the applicable period with respect to such participant (and consistent with such regulations as the Secretary may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).
+&emsp;&emsp;&emsp;Each plan shall provide to each participant, within the applicable period with respect to such participant (and consistent with such regulations as the Secretarymay prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).
 
 #### (ii) Applicable period
 
@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A plan may provide the written explanation described in paragraph (3)(A) afterthe annuity starting date. In any case to which this subparagraph applies, the applicable election period under paragraph (6) shall not end before the 30th day after the date on which such explanation is provided.
+&emsp;&emsp;&emsp;A plan may provide the written explanation described in paragraph (3)(A) after the annuity starting date. In any case to which this subparagraph applies, the applicable election period under paragraph (6) shall not end before the 30th day after the date on which such explanation is provided.
 
 #### (ii) Regulatory authority
 
@@ -202,23 +202,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (D) Applicable segment rates
 
-&emsp;&emsp;For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) if—
-
-&emsp;&emsp;&emsp;(i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section,
-
-&emsp;&emsp;&emsp;(ii) section 430(h)(2)(G)(i)(II) were applied by substituting "section 417(e)(3)(A)(ii)(II)" for "section 412(b)(5)(B)(ii)(II)", and
-
-&emsp;&emsp;&emsp;(iii) the applicable percentage under section 430(h)(2)(G) were determined in accordance with the following table:
-
-&nbsp;
-
-| &nbsp; | &nbsp; |
-| :--- | ---: |
-| <b>In the case of plan years beginning in:</b> | <b>The applicable percentage is:</b> |
-| &nbsp;2008 | &nbsp;20 percent&nbsp;&nbsp; |
-| &nbsp;2009 | &nbsp;40 percent&nbsp;&nbsp; |
-| &nbsp;2010 | &nbsp;60 percent&nbsp;&nbsp; |
-| &nbsp;2011 | &nbsp;80 percent. |
+&emsp;&emsp;For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) if section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section.
 
 #### (f) Other definitions and special rules
 
@@ -288,9 +272,15 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "survivor annuity percentage" means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
 
-(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847.)
+(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(i), Dec. 19, 2014, 128 Stat. 4046.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(3)(D). Pub. L. 113–295 substituted "if section 430(h)(2)(D)" for "if—
+
+&emsp;"(i) section 430(h)(2)(D)"
+
+and "described in such section." for "described in such section," and struck out cls. (ii) and (iii) whichapplied section 430(h)(2)(G)(i)(II) of this title by substituting "section 417(e)(3)(A)(ii)(II)" for "section 412(b)(5)(B)(ii)(II)" and listed the applicable percentage under section 430(h)(2)(G) for plan years beginning in 2008 to 2011.
 
 <b>2012</b>—Subsec. (e)(3)(C), (D). Pub. L. 112–141 substituted "section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof)" for "section 430(h)(2)(C)".
 
@@ -352,6 +342,10 @@ Subsec. (f)(6), (7). Pub. L. 99–514, §1898(b)(10)(A), added par. (6) and rede
 
 Pub. L. 99–514, §1898(b)(4)(A)(iii), redesignated former par. (5) as (6).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 applicable with respect to plan years beginning after December 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of this title.
@@ -362,7 +356,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title III, §302(c), Aug. 17, 2006, 120 Stat. 921, provided that: "The amendments made by this section \[amending this section and section 1055 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2007."
+Pub. L. 109–280, title III, §302(c), Aug. 17, 2006, 120 Stat. 921, provided that: "The amendments made by this section \[amending this section and section 1055 ofTitle 29, Labor\] shall apply with respect to plan years beginning after December 31, 2007."
 
 Pub. L. 109–280, title X, §1004(c), Aug. 17, 2006, 120 Stat. 1055, provided that:
 

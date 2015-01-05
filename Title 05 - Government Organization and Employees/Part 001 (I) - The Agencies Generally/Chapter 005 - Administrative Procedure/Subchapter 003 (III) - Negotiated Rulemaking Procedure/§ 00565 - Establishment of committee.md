@@ -30,7 +30,7 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(1), is Pub. L. 92
 
 <b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 585 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–354, §3(a)(3), substituted “section 564” for “section 584”.
+Subsec. (a)(1). Pub. L. 102–354, §3(a)(3), substituted "section 564" for "section 584".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “negotiated”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "negotiated".</i>
 

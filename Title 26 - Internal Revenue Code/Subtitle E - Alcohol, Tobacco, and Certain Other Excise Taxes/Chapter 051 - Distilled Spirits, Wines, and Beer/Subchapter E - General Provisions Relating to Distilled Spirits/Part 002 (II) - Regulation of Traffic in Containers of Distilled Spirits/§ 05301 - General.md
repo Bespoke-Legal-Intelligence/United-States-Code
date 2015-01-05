@@ -40,7 +40,7 @@ The immediate container of distilled spirits withdrawn from bonded premises, or 
 
 #### Prior Provisions
 
-A prior section 5301, act Aug. 16, 1954, ch. 736, 68A Stat. 654, related to establishment of industrial alcohol plants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (b) of this title.
+A prior section 5301, act Aug. 16, 1954, ch. 736, 68A Stat. 654, related to establishment of industrial alcoholplants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (b) of this title.
 
 Provisions similar to those comprising subsecs. (a), (c), and (d) of this section were contained in prior section 5214, act Aug. 16, 1954, ch. 736, 68A Stat. 639, prior to the general revision of this chapter by Pub. L. 85–859.
 

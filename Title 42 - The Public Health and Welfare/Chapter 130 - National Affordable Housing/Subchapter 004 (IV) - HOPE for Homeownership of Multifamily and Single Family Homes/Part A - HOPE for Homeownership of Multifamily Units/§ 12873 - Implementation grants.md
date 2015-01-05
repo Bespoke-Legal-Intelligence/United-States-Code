@@ -92,7 +92,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(K) identification and description of the entity that will operate and manage the property;
 
-&emsp;&emsp;(L) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
+&emsp;&emsp;(L) a certification by the public official responsible for submitting the comprehensivehousing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 
 &emsp;&emsp;(M) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
@@ -122,7 +122,7 @@ The Secretary shall notify each applicant, not later than 6 months after the dat
 
 #### References in Text
 
-Section 12872 of this title, referred to in subsec. (b)(6), was in the original "section 322" and was translated asreading "section 422", meaning section 422 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 322 of Pub. L. 101–625 amended section 1708 of Title 12, Banks and Banking.
+Section 12872 of this title, referred to in subsec. (b)(6), was in the original "section 322" and was translated as reading "section 422", meaning section 422 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 322 of Pub. L. 101–625 amended section 1708 of Title 12, Banks and Banking.
 
 Section 12874 of this title and section 12874(b) of this title, referred to in subsec. (d)(2)(D), were in the original "section 324" and "section 324(b)", respectively, and were translated as reading "section 424" and "section 424(b)", respectively, meaning section 424 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 324 of Pub. L. 101–625, which proposed an amendment to section 1709 of Title 12, never took effect pursuant to section 351 of Pub. L. 101–625. Such section 324 did not contain a subsec. (b).
 

@@ -164,7 +164,7 @@ Effects of pollution on estuaries of the united states.—Section 104(n)(3) of t
 
 &emsp;"(2)
 
-Implementation of great lakes water quality agreement of 1978.—Section 118(c)(10) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(10)).
+Implementation of great lakes water quality agreement of 1978.—Section 118(c)(10) of the Federal Water Pollution Control Act (\[former\] 33 U.S.C. 1268(c)(10)).
 
 &emsp;"(3)
 
@@ -202,7 +202,7 @@ Pub. L. 107–295, title III, §322(b), Nov. 25, 2002, 116 Stat. 2103, provided 
 
 &emsp;"(1)
 
-Coast guard operations and expenditures.—Section 651 of title 14, United States Code.
+Coast guard operations and expenditures.—\[Former\] Section 651 of title 14, United States Code.
 
 &emsp;"(2)
 
@@ -312,7 +312,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 &emsp;"(13) Section 205(g) of the National Housing Act (\[former\] 12 U.S.C. 1711(g)).
 
-&emsp;"(14) Section 701(c)(1) of the International Financial Institutions Act (22 U.S.C. 262d(c)(1)).
+&emsp;"(14) Section 701(c)(1) of the International Financial Institutions Act (\[former\] 22 U.S.C. 262d(c)(1)).
 
 &emsp;"(15) Paragraphs (1) and (2) of section 5302(c) of title 31, United States Code.
 
@@ -636,7 +636,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 &emsp;"(5) Section 3 of the Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1; 105 Stat. 3 \[50 U.S.C. 1541 note\]) (relating to the status of efforts to obtain Iraqi compliance with United Nations Security Council resolutions).
 
-&emsp;"(6) Section 124 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204; 22 U.S.C. 2680 note) (relating to expendituresfor emergencies in the diplomatic and consular service).
+&emsp;"(6) Section 124 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204; 22 U.S.C. 2680 note) (relating to expenditures for emergencies in the diplomatic and consular service).
 
 &emsp;"(7) Section 620C(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; 22 U.S.C. 2373(c)) (relating to progress made toward the conclusion of a negotiated solution to the Cyprus problem).
 
@@ -664,7 +664,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
-&emsp;"(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, \[former\] 226, 401(d), 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
+&emsp;"(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, \[former\] 226, 401(d), \[former\] 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
 
 &emsp;"(2) Section 1121(f) of the National Defense Authorization Act for Fiscal Year 1988 and 1989 (Public Law 100–180; 10 U.S.C. 113 note).
 
@@ -690,7 +690,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;"(13) Section 3732 of the Revised Statutes, popularly known as the 'Food and Forage Act' (\[former\] 41 U.S.C. 11) \[now 41 U.S.C. 6301(a), (b)\].
 
-&emsp;"(14) Section 101(b)(6) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(b)(6)).
+&emsp;"(14) Section 101(b)(6) of the Uniformed and Overseas Citizens Absentee Voting Act (\[former\] 42 U.S.C. 1973ff(b)(6)) \[now 52 U.S.C. 20301(b)(6)\].
 
 &emsp;"(15) Section 1436(e) of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456; \[former\] 42 U.S.C. 2121 note).
 
@@ -714,7 +714,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;"(25) Section 108 of the National Security Act of 1947 (\[former\] 50 U.S.C. 404a) \[now 50 U.S.C. 3043\].
 
-&emsp;"(26) Section 4 of the Act entitled 'An Act to authorize the making, amending, and modification of contracts to facilitate the national defense', approved August 28, 1958 (\[former\] 50 U.S.C. 1434).
+&emsp;"(26) Section 4 of the Act entitled 'An Act to authorize the making, amending, and modification ofcontracts to facilitate the national defense', approved August 28, 1958 (\[former\] 50 U.S.C. 1434).
 
 &emsp;"(27) Section 1412(g) of the Department of Defense Authorization Act, 1986 (50 U.S.C. 1521(g)).
 

@@ -96,7 +96,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (e), 
 
 #### Prior Provisions
 
-A prior section 2019, Pub. L. 95–561, title XI, §1139, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4011, related to promulgation of regulations, prior to repeal by Pub. L. 105–362, title VIII, §801(c)(5), Nov. 10, 1998, 112 Stat. 3288. See section 2017 of this title.
+A prior section 2019, Pub. L. 95–561, title XI, §1139, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4011, related to promulgation of regulations, priorto repeal by Pub. L. 105–362, title VIII, §801(c)(5), Nov. 10, 1998, 112 Stat. 3288. See section 2017 of this title.
 
 Another prior section 2019, Pub. L. 95–561, title XI, §1139, Nov. 1, 1978, 92 Stat. 2328; Pub. L. 100–297, title V, §5117, Apr. 28, 1988, 102 Stat. 382; Pub. L. 100–427, §1(c)(1), (2), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, §5(a), May 24, 1990, 104 Stat. 207, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 103–382.
 

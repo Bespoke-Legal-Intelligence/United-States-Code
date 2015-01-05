@@ -76,7 +76,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) An individual with a specified cancer who is a member of the Special Exposure Cohort, if and only if that individual contracted that specified cancer after beginning employment at a Department of Energy facility (in the case of a Department of Energy employee or Department of Energy contractor employee) or at an atomic weapons employer facility (in the case of an atomic weapons employee).
 
-&emsp;&emsp;(B)(i) An individual with cancer specified in subclause (I), (II), or (III) of clause (ii), if and only if that individual is determined to have sustained that cancer in the performance of duty in accordance with section 7384n(b) of this title.
+&emsp;&emsp;(B)(i) An individual with cancer specified in subclause (I), (II), or (III) of clause (ii), if and only if that individual is determined tohave sustained that cancer in the performance of duty in accordance with section 7384n(b) of this title.
 
 &emsp;&emsp;(ii) Clause (i) applies to any of the following:
 

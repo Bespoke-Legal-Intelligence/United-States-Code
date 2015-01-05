@@ -50,7 +50,7 @@ Alternative Authorities To Make Gifts or Loans.—If any disposition is authoriz
 
 (f)
 
-Authority To Transfer a Portion of a Vessel.—The Secretary may lend, give, or otherwise transfer any portion of the hull or superstructure of a vessel stricken from the Naval Vessel Register and designated for scrapping to a qualified organization specified in subsection (a). The terms and conditions of an agreementfor the transfer of a portion of a vessel under this section shall include a requirement that the transferee will maintain the material conveyed in a condition that will not diminish the historical value of the material or bring discredit upon the Navy.
+Authority To Transfer a Portion of a Vessel.—The Secretary may lend, give, or otherwise transfer any portion of the hull or superstructure of a vessel stricken from the Naval Vessel Register and designated for scrapping to a qualified organization specified in subsection (a). The terms and conditions of an agreement for the transfer of a portion of a vessel under this section shall include a requirement that the transferee will maintain the material conveyed in a condition that will not diminish the historical value of the material or bring discredit upon the Navy.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 466; Pub. L. 96–513, title V, §513(39), (40), Dec. 12, 1980, 94 Stat. 2934, 2935; Pub. L. 104–106, div. A, title X, §1061(i), Feb. 10, 1996, 110 Stat. 443; Pub. L. 107–107, div. A, title X, §1043(a)–(c), Dec. 28, 2001, 115 Stat. 1218, 1219; Pub. L. 107–217, §3(b)(34), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 107–314, div. A, title X, §1062(e)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440.)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In removal proceedings under section 1229a of this title, written notice (in this section referred to as a “notice to appear”) shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying the following:
+&emsp;In removal proceedings under section 1229a of this title, written notice (in this section referred to as a "notice to appear") shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying the following:
 
 &emsp;&emsp;(A) The nature of the proceedings against the alien.
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) The alien may be represented by counsel and the alien will be provided (i) a period of time to secure counsel under subsection (b)(1) of this section and (ii) a current list of counsel prepared under subsection (b)(2) of this section.
 
-&emsp;&emsp;(F)(i) The requirement that the alien must immediately provide (or have provided) the Attorney General with a written record of an address and telephone number (if any) atwhich the alien may be contacted respecting proceedings under section 1229a of this title.
+&emsp;&emsp;(F)(i) The requirement that the alien must immediately provide (or have provided) the Attorney General with a written record of an address and telephone number (if any) at which the alien may be contacted respecting proceedings under section 1229a of this title.
 
 &emsp;&emsp;(ii) The requirement that the alien must provide the Attorney General immediately with a written record of any change of the alien's address or telephone number.
 
@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In removal proceedings under section 1229a of this title, in the case of any change or postponement in the time and place of such proceedings, subject to subparagraph (B) a written notice shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying—
+&emsp;&emsp;In removal proceedings under section 1229a of this title, in the case of any change or postponement in the time and place of such proceedings, subject to subparagraph (B) a written notice shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alienor to the alien's counsel of record, if any) specifying—
 
 &emsp;&emsp;&emsp;(i) the new time or place of the proceedings, and
 
@@ -92,11 +92,11 @@ A prior section 1229, act June 27, 1952, ch. 477, title II, ch. 4, §239, 66 Sta
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–162 added subsec. (e).
 
-Subsec. (e)(2)(B). Pub. L. 109–271 substituted “(U)” for “(V)”.
+Subsec. (e)(2)(B). Pub. L. 109–271 substituted "(U)" for "(V)".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–162, title VIII, §825(c)(2), Jan. 5, 2006, 119 Stat. 3065, provided that: “The amendment made byparagraph (1) \[amending this section\] shall take effect on the date that is 30 days after the date of the enactment of this Act \[Jan. 5, 2006\] and shall apply to apprehensions occurring on or after such date.”
+Pub. L. 109–162, title VIII, §825(c)(2), Jan. 5, 2006, 119 Stat. 3065, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date that is 30 days after the date of the enactment of this Act \[Jan. 5, 2006\] and shall apply to apprehensions occurring on or after such date."
 
 #### Effective Date
 

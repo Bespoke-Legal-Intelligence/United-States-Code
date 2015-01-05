@@ -56,11 +56,11 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (2) Removal of member or organization
 
-&emsp;The Librarian shall have the authority to remove any member of the Board, or the organization listed in subsection (a) of this section such member represents, if the member, or organization, over any consecutive 2-year period, fails to attend at least one regularly scheduled Board meeting.
+&emsp;The Librarian shall have the authority to remove any member of the Board, or the organization listed in subsection (a) such member represents, if the member, or organization, over any consecutive 2-year period, fails to attend at least one regularly scheduled Board meeting.
 
 #### (3) Vacancies
 
-&emsp;A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy before the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
+&emsp;A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy before the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
 
 #### (d) Quorum
 
@@ -82,23 +82,23 @@ The Librarian shall establish rules and procedures to address any potential conf
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(E). Pub. L. 110–336, §3(a)(3)(A), substituted “Cinema and Media” for “Cinema”.
+<b>2008</b>—Subsec. (a)(1)(E). Pub. L. 110–336, §3(a)(3)(A), substituted "Cinema and Media" for "Cinema".
 
-Subsec. (a)(1)(G). Pub. L. 110–336, §3(a)(3)(B), substituted “Department of Film, Television, and Digital Media” for “Department of Film and Television”.
+Subsec. (a)(1)(G). Pub. L. 110–336, §3(a)(3)(B), substituted "Department of Film, Television, and Digital Media" for "Department of Film and Television".
 
-Subsec. (a)(1)(H). Pub. L. 110–336, §3(a)(3)(C), substituted “Cinema Studies” for “Film and Television”.
+Subsec. (a)(1)(H). Pub. L. 110–336, §3(a)(3)(C), substituted "Cinema Studies" for "Film and Television".
 
-Subsec. (a)(1)(L). Pub. L. 110–336, §3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “The Screen Actors Guild of America.”
+Subsec. (a)(1)(L). Pub. L. 110–336, §3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: "The Screen Actors Guild of America."
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–9, §302(b)(1), substituted “22” for “20” in introductory provisions.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–9, §302(b)(1), substituted "22" for "20" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–9, §302(b)(2), substituted “5” for “three”.
+Subsec. (a)(2). Pub. L. 109–9, §302(b)(2), substituted "5" for "three".
 
-Subsec. (d). Pub. L. 109–9, §302(b)(3), substituted “12” for “11”.
+Subsec. (d). Pub. L. 109–9, §302(b)(3), substituted "12" for "11".
 
-Subsec. (e). Pub. L. 109–9, §302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.”
+Subsec. (e). Pub. L. 109–9, §302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Members of the Board shall serve without pay, but may be reimbursed for the actual andnecessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a hyphen.</i>
 

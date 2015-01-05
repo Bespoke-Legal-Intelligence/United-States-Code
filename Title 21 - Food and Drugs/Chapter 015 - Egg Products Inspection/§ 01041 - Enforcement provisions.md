@@ -36,7 +36,7 @@ Any person who forcibly assaults, resists, opposes, impedes, intimidates, or int
 
 #### (d) Scope of liability for violations of section 1037
 
-When construing or enforcing the provisions of section 1037 of this title, the act, omission, or failure of any person acting for or employed by any individual, partnership, corporation, or association within the scope of his employment or office shall in every case be deemed the act, omission, or failure of such individual, partnership, corporation, or association, as well as of such person.
+When construing or enforcing the provisions of section 1037 of this title, the act, omission, or failure of any person acting for or employed byany individual, partnership, corporation, or association within the scope of his employment or office shall in every case be deemed the act, omission, or failure of such individual, partnership, corporation, or association, as well as of such person.
 
 #### (e) Penalties applicable to carriers or warehousemen
 
@@ -46,7 +46,7 @@ No carrier or warehouseman shall be subject to the penalties of this chapter, ot
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c)(1)(A), and (e), was in the original "this Act", meaning Pub. L.91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c)(1)(A), and (e), was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
 #### Amendments
 

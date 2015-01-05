@@ -6,7 +6,7 @@
 
 (2) Except as otherwise provided in subsections (c) and (d) of this section in the case of a plan in existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
 
-(c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of a supplementary or special plan provision (within the meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
+(c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of asupplementary or special plan provision (within the meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
 
 &emsp;(A) the date on which the last of such agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after September 2, 1974), or
 
@@ -22,7 +22,7 @@
 
 (3) This subsection shall apply with respect to a plan if (and only if) the application of this subsection results in a later effective date for this part than the effective date required by subsection (b) of this section.
 
-(d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of title 26 relating to participation, vesting, funding, and form of benefit, this partshall apply to the first plan year to which such election applies and to all subsequent plan years.
+(d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of title 26 relating to participation, vesting, funding, and form of benefit, this part shall apply to the first plan year to which such election applies and to all subsequent plan years.
 
 (e)(1) No pension plan to which section 1052 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1052 of this title first becomes effective with respect to such plan) which provides that any employee's participation in the plan would commence at any date later than the later of—
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-Section 1086(c) of this title, referred to in subsec. (c)(1), was in the original "section 307(c)", meaning section 307(c) of Pub. L. 93–406, the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by Pub. L. 100–203, title IX, §9341(b)(1), Dec. 22, 1987, 101 Stat. 1330–370.
+Section 1086(c) of this title, referred to in subsec. (c)(1), was in the original "section 307(c)", meaning section 307(c) of Pub. L. 93–406, the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by Pub. L. 100–203, title IX, §9341(b)(1), Dec. 22, 1987, 101 Stat. 1330–370 and subsequently was repealed by Pub. L. 109–280, title I, §101(a), Aug. 17, 2006, 120 Stat. 784.
 
 This chapter, referred to in subsec. (c)(1), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

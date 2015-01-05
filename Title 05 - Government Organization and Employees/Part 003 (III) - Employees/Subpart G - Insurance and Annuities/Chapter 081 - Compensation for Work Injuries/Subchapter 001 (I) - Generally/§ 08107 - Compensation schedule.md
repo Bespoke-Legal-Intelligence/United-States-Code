@@ -16,35 +16,35 @@
 
 (c) The compensation schedule is as follows:
 
-&emsp;(1) Arm lost, 312 weeks’ compensation.
+&emsp;(1) Arm lost, 312 weeks' compensation.
 
-&emsp;(2) Leg lost, 288 weeks’ compensation.
+&emsp;(2) Leg lost, 288 weeks' compensation.
 
-&emsp;(3) Hand lost, 244 weeks’ compensation.
+&emsp;(3) Hand lost, 244 weeks' compensation.
 
-&emsp;(4) Foot lost, 205 weeks’ compensation.
+&emsp;(4) Foot lost, 205 weeks' compensation.
 
-&emsp;(5) Eye lost, 160 weeks’ compensation.
+&emsp;(5) Eye lost, 160 weeks' compensation.
 
-&emsp;(6) Thumb lost, 75 weeks’ compensation.
+&emsp;(6) Thumb lost, 75 weeks' compensation.
 
-&emsp;(7) First finger lost, 46 weeks’ compensation.
+&emsp;(7) First finger lost, 46 weeks' compensation.
 
-&emsp;(8) Great toe lost, 38 weeks’ compensation.
+&emsp;(8) Great toe lost, 38 weeks' compensation.
 
-&emsp;(9) Second finger lost, 30 weeks’ compensation.
+&emsp;(9) Second finger lost, 30 weeks' compensation.
 
-&emsp;(10) Third finger lost, 25 weeks’ compensation.
+&emsp;(10) Third finger lost, 25 weeks' compensation.
 
-&emsp;(11) Toe other than great toe lost, 16 weeks’ compensation.
+&emsp;(11) Toe other than great toe lost, 16 weeks' compensation.
 
-&emsp;(12) Fourth finger lost, 15 weeks’ compensation.
+&emsp;(12) Fourth finger lost, 15 weeks' compensation.
 
 &emsp;(13) Loss of hearing—
 
-&emsp;&emsp;(A) complete loss of hearing of one ear, 52 weeks’ compensation; or
+&emsp;&emsp;(A) complete loss of hearing of one ear, 52 weeks' compensation; or
 
-&emsp;&emsp;(B) complete loss of hearing of both ears, 200 weeks’ compensation.
+&emsp;&emsp;(B) complete loss of hearing of both ears, 200 weeks' compensation.
 
 &emsp;(14) Compensation for loss of binocular vision or for loss of 80 percent or more of the vision of an eye is the same as for loss of the eye.
 
@@ -62,7 +62,7 @@
 
 &emsp;(21) For serious disfigurement of the face, head, or neck of a character likely to handicap an individual in securing or maintaining employment, proper and equitable compensation not to exceed $3,500 shall be awarded in addition to any other compensation payable under this schedule.
 
-&emsp;(22) For permanent loss or loss of use of any other important external or internal organ of the body as determined by the Secretary, proper and equitable compensation not to exceed 312 weeks’ compensation for each organ so determined shall be paid in addition to any other compensation payable under this schedule.
+&emsp;(22) For permanent loss or loss of use of any other important external or internal organ of the body as determined by the Secretary, proper and equitable compensation not to exceed 312 weeks' compensation for each organ so determined shall be paid in addition to any other compensation payable under this schedule.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 536; Pub. L. 90–83, §1(50), Sept. 11, 1967, 81 Stat. 210; Pub. L. 93–416, §§4, 5, Sept. 7, 1974, 88 Stat. 1144, 1145.)
 
@@ -84,17 +84,17 @@ Sept. 7, 1916, ch. 458, §5, 39 Stat. 743.
 
 &nbsp;
 
-Oct. 14, 1949, ch. 691, §104 “Sec. 5(a), (b)”, 63 Stat. 855.
+Oct. 14, 1949, ch. 691, §104 "Sec. 5(a), (b)", 63 Stat. 855.
 
 &nbsp;
 
 Sept. 13, 1960, Pub. L. 86–767, §201, 74 Stat. 907.
 
-The words “loss, or” are omitted throughout this section as included in “loss of use of”.
+The words "loss, or" are omitted throughout this section as included in "loss of use of".
 
-In subsection (a)(B), the words “under sections 751–754 of this title” are omitted as surplusage.
+In subsection (a)(B), the words "under sections 751–754 of this title" are omitted as surplusage.
 
-In subsection (b)(1), the words “(including paragraphs (16) and (20) thereof)” are omitted as surplusage.
+In subsection (b)(1), the words "(including paragraphs (16) and (20) thereof)" are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -114,13 +114,13 @@ Act
 
 July 4, 1966, Pub. L. 89–488, §2(a), (b), 80 Stat. 252.
 
-In subsection (a), the words “If there is” are substituted for “In any case of”. The words “loss, or” are omitted as included in “loss of use of” and to conform to the remainder of the section. The words “the employee is entitled to basic compensation for the disability” are substituted for “basic compensation for such disability shall be payable to the disabled employee”. The words “by the schedule in subsection (c) of this section” are substituted for “in the following schedule” to reflect the codification of the schedule in subsection (c). The words “The schedule referred to in the first sentence is as follows:” are omitted as unnecessary in view of the codification of that schedule in subsection (c).
+In subsection (a), the words "If there is" are substituted for "In any case of". The words "loss, or" are omitted as included in "loss of use of" and to conform to the remainder of the section. The words "the employee is entitled to basic compensation for the disability" are substituted for "basic compensation for such disability shall be payable to the disabled employee". The words "by the schedule in subsection (c) of this section" are substituted for "in the following schedule" to reflect the codification of the schedule in subsection (c). The words "The schedule referred to in the first sentence is as follows:" are omitted as unnecessary in view of the codification of that schedule in subsection (c).
 
-In subsection (b), the words “an employee is entitled to compensation” are substituted for “compensation shall be paid” for consistency with subsection (a). In subsections (b) (1) and (2), the words “section 8105 of this title” and “section 8106 of this title” are substituted for “section 3” and “subsection (a) of section 4”, respectively, to reflect the codification of title 5.
+In subsection (b), the words "an employee is entitled to compensation" are substituted for "compensation shall be paid" for consistency with subsection (a). In subsections (b) (1) and (2), the words "section 8105 of this title" and "section 8106 of this title" are substituted for "section 3" and "subsection (a) of section 4", respectively, to reflect the codification of title 5.
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–416, §4, substituted “involving the loss, or loss of use” for “involving the loss of use”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416, §4, substituted "involving the loss, or loss of use" for "involving the loss of use".
 
 Subsec. (c)(22). Pub. L. 93–416, §5, added par. (22).
 

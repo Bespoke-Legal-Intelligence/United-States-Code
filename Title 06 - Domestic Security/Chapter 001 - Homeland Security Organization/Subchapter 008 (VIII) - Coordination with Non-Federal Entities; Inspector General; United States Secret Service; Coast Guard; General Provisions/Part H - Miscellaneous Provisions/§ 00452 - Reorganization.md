@@ -12,15 +12,15 @@ The Secretary may allocate or reallocate functions among the officers of the Dep
 
 #### (1) In general
 
-&emsp;Authority under subsection (a)(1) of this section does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by this chapter.
+&emsp;Authority under subsection (a)(1) does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by this chapter.
 
 #### (2) Abolitions
 
-&emsp;Authority under subsection (a)(2) of this section does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by statute.
+&emsp;Authority under subsection (a)(2) does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by statute.
 
 (Pub. L. 107–296, title VIII, §872, Nov. 25, 2002, 116 Stat. 2243.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 

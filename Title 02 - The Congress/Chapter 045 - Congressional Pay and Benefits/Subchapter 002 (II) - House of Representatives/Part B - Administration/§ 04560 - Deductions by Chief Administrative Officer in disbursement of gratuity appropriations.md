@@ -10,5 +10,5 @@ Section was formerly classified to section 80a of this title prior to editorial 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Sergeant-at-Arms of the House”.
+<b>1996</b>—Pub. L. 104–186 substituted "Chief Administrative Officer of the House of Representatives" for "Sergeant-at-Arms of the House".
 

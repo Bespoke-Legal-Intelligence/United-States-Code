@@ -6,13 +6,13 @@
 
 &emsp;The rights, protections, and responsibilities established under sections 7102, 7106, 7111 through 7117, 7119 through 7122, and 7131 of title 5 shall apply to employing offices and to covered employees and representatives of those employees.
 
-#### (2) “Agency” defined
+#### (2) "Agency" defined
 
-&emsp;For purposes of the application under this section of the sections referred to in paragraph (1), the term “agency” shall be deemed to include an employing office.
+&emsp;For purposes of the application under this section of the sections referred to in paragraph (1), the term "agency" shall be deemed to include an employing office.
 
 #### (b) Remedy
 
-The remedy for a violation of subsection (a) of this section shall be such remedy, including a remedy under section 7118(a)(7) of title 5, as would be appropriate if awarded by the Federal Labor Relations Authority to remedy a violation of any provision made applicable by subsection (a) of this section.
+The remedy for a violation of subsection (a) shall be such remedy, including a remedy under section 7118(a)(7) of title 5, as would be appropriate if awarded by the Federal Labor Relations Authority to remedy a violation of any provision made applicable by subsection (a).
 
 #### (c) Authorities and procedures for implementation and enforcement
 
@@ -22,7 +22,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) General authorities of the General Counsel; charges of unfair labor practice
 
-&emsp;For purposes of this section and except as otherwise provided in this section, the General Counsel shall exercise the authorities of the General Counsel of the Federal Labor Relations Authority under sections 7104 and 7118 of title 5. For purposes of this section, any charge or other submission that, under chapter 71 of title 5, would be submitted to the General Counsel of the Federal Labor Relations Authority shall, if brought under this section, be submitted to the General Counsel. If any person charges an employing office or a labor organization with having engaged in or engaging in an unfair labor practice andmakes such charge within 180 days of the occurrence of the alleged unfair labor practice, the General Counsel shall investigate the charge and may file a complaint with the Office. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
+&emsp;For purposes of this section and except as otherwise provided in this section, the General Counsel shall exercise the authorities of the General Counsel of the Federal Labor Relations Authority under sections 7104 and 7118 of title 5. For purposes of this section, any charge or other submission that, under chapter 71 of title 5, would be submitted to the General Counsel of the Federal Labor Relations Authority shall, if brought under this section, be submitted to the General Counsel. If any person charges an employing office or a labor organization with having engaged in or engaging in an unfair labor practice and makes such charge within 180 days of the occurrence of the alleged unfair labor practice, the General Counsel shall investigate the charge and may file a complaint with the Office. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
 
 #### (3) Judicial review
 
@@ -40,7 +40,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;Except as provided in subsection (e) of this section, the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Federal Labor Relations Authority to implement the statutory provisions referred to in subsection (a) of this section except—
+&emsp;Except as provided in subsection (e), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Federal Labor Relations Authority to implement the statutory provisions referred to in subsection (a) except—
 
 &emsp;&emsp;(A) to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; or
 
@@ -50,7 +50,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (1) Regulations required
 
-&emsp;The Board shall issue regulations pursuant to section 1384 of this title on the manner and extent to which the requirements and exemptions of chapter 71 of title 5 should apply to covered employees who are employed in the offices listed in paragraph (2). The regulations shall, to the greatest extent practicable, be consistent with the provisions and purposes of chapter 71 of title 5 and of this chapter, and shall be the same as substantive regulations issued by the Federal Labor Relations Authority under chapter 71 of title 5, except—
+&emsp;The Board shall issue regulations pursuant to section 1384 of this title on the manner and extent to which the requirements and exemptions of chapter 71 of title 5 should apply to covered employees who are employed in the offices listed in paragraph (2). The regulationsshall, to the greatest extent practicable, be consistent with the provisions and purposes of chapter 71 of title 5 and of this chapter, and shall be the same as substantive regulations issued by the Federal Labor Relations Authority under chapter 71 of title 5, except—
 
 &emsp;&emsp;(A) to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
 
@@ -58,7 +58,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 &emsp;&emsp;&emsp;(i) a conflict of interest or appearance of a conflict of interest; or
 
-&emsp;&emsp;&emsp;(ii) Congress’ constitutional responsibilities.
+&emsp;&emsp;&emsp;(ii) Congress' constitutional responsibilities.
 
 #### (2) Offices referred to
 
@@ -72,7 +72,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 &emsp;&emsp;(D) the Office of the Speaker of the House of Representatives, the Office of the Majority Leader of the House of Representatives, the Office of the Minority Leader of the House of Representatives, the Offices of the Chief Deputy Majority Whips, the Offices of the Chief Deputy Minority Whips and the following offices within the Office of the Clerk of the House of Representatives: Offices of Legislative Operations, Official Reporters of Debate, Official Reporters to Committees, Printing Services, and Legislative Information;
 
-&emsp;&emsp;(E) the Office of the Legislative Counsel of the Senate, the Office of the Senate LegalCounsel, the Office of the Legislative Counsel of the House of Representatives, the Office of the General Counsel of the House of Representatives, the Office of the Parliamentarian of the House of Representatives, and the Office of the Law Revision Counsel;
+&emsp;&emsp;(E) the Office of the Legislative Counsel of the Senate, the Office of the Senate Legal Counsel, the Office of the Legislative Counsel of the House of Representatives, the Office of the General Counsel of the House of Representatives, the Office of the Parliamentarian of the House of Representatives, and the Office of the Law Revision Counsel;
 
 &emsp;&emsp;(F) the offices of any caucus or party organization;
 
@@ -84,15 +84,15 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective on October 1, 1996.
+&emsp;Except as provided in paragraph (2), subsections (a) and (b) shall be effective on October 1, 1996.
 
 #### (2) Certain offices
 
-&emsp;With respect to the offices listed in subsection (e)(2) of this section, to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
+&emsp;With respect to the offices listed in subsection (e)(2), to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) shall be effective on the effective date of regulations under subsection (e).
 
 (Pub. L. 104–1, title II, §220, Jan. 23, 1995, 109 Stat. 19.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 

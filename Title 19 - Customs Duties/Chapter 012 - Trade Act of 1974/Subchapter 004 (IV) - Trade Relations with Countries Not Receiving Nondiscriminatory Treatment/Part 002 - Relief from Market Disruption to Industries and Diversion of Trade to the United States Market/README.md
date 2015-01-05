@@ -2,15 +2,9 @@ Part 2
 
 —Relief From Market Disruption to Industries and Diversion of Trade to the United States Market
 
-#### Termination of Part
-
-<i>For termination of this part effective 12 years after Dec. 11, 2001, see section 2451b(c) of this title.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02451 - Action to address market disruption](%C2%A7%2002451%20-%20Action%20to%20address%20market%20disruption.md)
-- [&sect; 02451a - Action in response to trade diversion](%C2%A7%2002451a%20-%20Action%20in%20response%20to%20trade%20diversion.md)
-- [&sect; 02451b - Regulations; termination of provision](%C2%A7%2002451b%20-%20Regulations%3B%20termination%20of%20provision.md)
+- [&sect; 02451 to 2451b - Omitted](%C2%A7%2002451%20to%202451b%20-%20Omitted.md)

@@ -16,7 +16,7 @@ The amount of the payment under subsection (a) of this section to a local educat
 
 &emsp;&emsp;(B) under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) to defray the educational and related services for such child; and
 
-&emsp;&emsp;(C) from any other source to defray the costs of providing educational and related services to the child which are received due to the presence of a severe disabling condition of such child.
+&emsp;&emsp;(C) from any other source to defray the costs of providing educational and relatedservices to the child which are received due to the presence of a severe disabling condition of such child.
 
 #### (c) Exclusions
 

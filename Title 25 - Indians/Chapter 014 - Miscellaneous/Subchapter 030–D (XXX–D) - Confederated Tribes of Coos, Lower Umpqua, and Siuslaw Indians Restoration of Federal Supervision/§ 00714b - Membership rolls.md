@@ -22,7 +22,7 @@ The membership roll is declared open. The Interim Council and tribal officials u
 
 #### (c) Verification of eligibility for enrollment; appeal; finality of determination; possession of enrollment records and materials
 
-(1) Prior to any election pursuant to section 714d of this title, the Interim Council shall verify by tribal resolution the eligibility for enrollment and age of each member listed on the Tribe's membership roll, which resolution shall be forwarded to the Secretary.
+(1) Prior to any election pursuant to section 714d of this title, the Interim Council shall verify by tribal resolution the eligibility for enrollment and age of each member listed on theTribe's membership roll, which resolution shall be forwarded to the Secretary.
 
 (2) With regard to the exclusion of any name from the tribal membership roll, any member may appeal to the Secretary, who shall make a final determination of each such appeal within ninety days after an appeal has been filed with him. The determination of the Secretary with respect to such an appeal shall be final.
 

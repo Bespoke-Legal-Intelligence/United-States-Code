@@ -14,7 +14,7 @@ The Congress finds and declares that—
 
 &emsp;(6) technology is or can be made available which will allow significantly increased domestic production of oil and gas without undue harm or damage to the environment;
 
-&emsp;(7) the Outer Continental Shelf contains significant quantities of oil and natural gas and is a vital national resource reserve which must be carefully managed so as to realize fairvalue, to preserve and maintain competition, and to reflect the public interest;
+&emsp;(7) the Outer Continental Shelf contains significant quantities of oil and natural gas and is a vital national resource reserve which must be carefully managed so as to realize fair value, to preserve and maintain competition, and to reflect the public interest;
 
 &emsp;(8) there presently exists a variety of technological, economic, environmental, administrative, and legal problems which tend to retard the development of the oil and natural gas reserves of the Outer Continental Shelf;
 

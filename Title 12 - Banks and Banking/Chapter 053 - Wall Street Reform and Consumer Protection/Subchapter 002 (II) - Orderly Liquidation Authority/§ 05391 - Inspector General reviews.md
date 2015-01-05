@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) a description of any material sales, transfers, mergers, obligations, purchases, and other material transactions entered into by the Corporation;
 
-&emsp;&emsp;(C) an evaluation of the adequacy of the policies and procedures of the Corporation under section 5383(d) of this title and orderlyliquidation plan under section 5390(n)(14) <sup>1</sup> of this title;
+&emsp;&emsp;(C) an evaluation of the adequacy of the policies and procedures of the Corporation under section 5383(d) of this title and orderly liquidation plan under section 5390(n)(14) <sup>1</sup> of this title;
 
 &emsp;&emsp;(D) an evaluation of the utilization by the Corporation of the private sector in carrying out its functions, including the adequacy of any conflict-of-interest reviews; and
 
@@ -80,7 +80,7 @@
 
 #### (2) Reports and testimony
 
-&emsp;Not later than 1 year after the date of appointment of the Corporation as receiver under this subchapter, the Inspector General of the Federal primary financial regulatory agency or the Board of Governors shall provide the report required by paragraph (1) to such agency or the Board of Governors, and along with such agency or the Board of Governors, as applicable, shall appear before the appropriate committees of Congress, if requested, to present the report required by paragraph (1). Not later than 90 days after the date of receipt of the report required by paragraph (1), such agency or the Board of Governors, as applicable, shall provide a written report to Congress describing any actions taken in response to the recommendations in the report, and if no such actions were taken, describing the reasons why no actions were taken.
+&emsp;Not later than 1 year after the date of appointment of the Corporation as receiver under this subchapter, the Inspector General of the Federal primary financial regulatory agency or the Board of Governors shall provide the report required by paragraph (1) to such agency or the Board of Governors, and along with such agency or the Board of Governors, as applicable, shall appear before the appropriate committees of Congress, if requested, to present the report required by paragraph (1). Not later than 90 days after the date of receipt of the report required by paragraph (1), such agency or the Board of Governors, as applicable, shall provide a written report to Congress describing any actionstaken in response to the recommendations in the report, and if no such actions were taken, describing the reasons why no actions were taken.
 
 (Pub. L. 111–203, title II, §211, July 21, 2010, 124 Stat. 1514.)
 

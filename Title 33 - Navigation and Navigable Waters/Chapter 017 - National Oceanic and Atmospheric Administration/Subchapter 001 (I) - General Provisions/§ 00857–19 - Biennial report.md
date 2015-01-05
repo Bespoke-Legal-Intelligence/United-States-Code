@@ -106,7 +106,7 @@ Notice; Minutes; Public Availability of Documents.—
 
 &emsp;&emsp;"(A) All open meetings of the Commission shall be preceded by timely public notice in the Federal Register of the time, place, and subject of the meeting.
 
-&emsp;&emsp;"(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copies of all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
+&emsp;&emsp;"(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copiesof all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
 
 &emsp;"(3)
 
@@ -264,7 +264,7 @@ Sec. 2. <i>Policy</i>. (a) To achieve an America whose stewardship ensures that 
 
 (iii) bolster the conservation and sustainable uses of land in ways that will improve the health of ocean, coastal, and Great Lakes ecosystems;
 
-(iv) use the best available science and knowledge to inform decisions affecting the ocean, our coasts, and the Great Lakes, and enhance humanity's capacity tounderstand, respond, and adapt to a changing global environment;
+(iv) use the best available science and knowledge to inform decisions affecting the ocean, our coasts, and the Great Lakes, and enhance humanity's capacity to understand, respond, and adapt to a changing global environment;
 
 (v) support sustainable, safe, secure, and productive access to, and uses of the ocean, our coasts, and the Great Lakes;
 
@@ -302,7 +302,7 @@ Sec. 4. <i>Establishment of National Ocean Council</i>. (a) There is hereby esta
 
 (i) the Chair of the Council on Environmental Quality and the Director of the Office of Science and Technology Policy, who shall be the Co-Chairs of the Council;
 
-(ii) the Secretaries of State, Defense, the Interior, Agriculture, Health and Human Services, Commerce, Labor, Transportation, Energy, and Homeland Security, the Attorney General, the Administrator of the Environmental Protection Agency, the Director of the Office of Management and Budget, the Under Secretary of Commerce for Oceans and Atmosphere (Administrator of the National Oceanic and Atmospheric Administration), the Administrator of the National Aeronautics and Space Administration, the Director of National Intelligence, the Director of the National Science Foundation, and the Chairman of the Joint Chiefs of Staff;
+(ii) the Secretaries of State, Defense, the Interior, Agriculture, Health and Human Services, Commerce, Labor, Transportation, Energy, and Homeland Security, the Attorney General, the Administrator of the Environmental Protection Agency, the Director of the Office of Management and Budget, the Under Secretaryof Commerce for Oceans and Atmosphere (Administrator of the National Oceanic and Atmospheric Administration), the Administrator of the National Aeronautics and Space Administration, the Director of National Intelligence, the Director of the National Science Foundation, and the Chairman of the Joint Chiefs of Staff;
 
 (iii) the National Security Advisor and the Assistants to the President for Homeland Security and Counterterrorism, Domestic Policy, Energy and Climate Change, and Economic Policy;
 
@@ -324,7 +324,7 @@ Sec. 5. <i>Functions of the Council</i>. (a) The Council shall have the structur
 
 (b) To implement the policy set forth in section 2 of this order, the Council shall provide appropriate direction to ensure that executive departments', agencies', or offices' decisions and actions affecting the ocean, our coasts, and the Great Lakes will be guided by the stewardship principles and national priority objectives set forth in the Final Recommendations, to the extent consistent with applicable law. The Council shall base its decisions on the consensus of its members. With respect to those matters in which consensus cannot be reached, the National Security Advisor shall coordinate with the Co-Chairs and, as appropriate, the Assistants to the President for Energy and Climate Change, and Economic Policy, and the employee of the United States designated by the Vice President, subject to the limitations set forth in section 9 of this order, to present the disputed issue or issues for decision by the President.
 
-Sec. 6. <i>Agency Responsibilities</i>. (a) All executive departments, agencies, and offices that are members ofthe Council and any other executive department, agency, or office whose actions affect the ocean, our coasts, and the Great Lakes shall, to the fullest extent consistent with applicable law:
+Sec. 6. <i>Agency Responsibilities</i>. (a) All executive departments, agencies, and offices that are members of the Council and any other executive department, agency, or office whose actions affect the ocean, our coasts, and the Great Lakes shall, to the fullest extent consistent with applicable law:
 
 (i) take such action as necessary to implement the policy set forth in section 2 of this order and the stewardship principles and national priority objectives as set forth in the Final Recommendations and subsequent guidance from the Council; and
 

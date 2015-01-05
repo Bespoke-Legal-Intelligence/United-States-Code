@@ -4,11 +4,11 @@
 
 #### (1) Income other than capital gains
 
-&emsp;Except as provided in subsection (h), there is hereby imposed for each taxable year a tax of30 percent of the amount received from sources within the United States by a nonresident alien individual as—
+&emsp;Except as provided in subsection (h), there is hereby imposed for each taxable year a tax of 30 percent of the amount received from sources within the United States by a nonresident alien individual as—
 
 &emsp;&emsp;(A) interest (other than original issue discount as defined in section 1273), dividends, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, and other fixed or determinable annual or periodical gains, profits, and income,
 
-&emsp;&emsp;(B) gains described in section 631(b) or (c), and gains on transfers described in section 1235 made on or before October 4, 1966,
+&emsp;&emsp;(B) gains described in subsection (b) or (c) of section 631,
 
 &emsp;&emsp;(C) in the case of—
 
@@ -54,7 +54,7 @@ For purposes of this section, a nonresident alien individual who (without regard
 
 &emsp;A nonresident alien individual who during the taxable year derives any income—
 
-&emsp;&emsp;(A) from real property held for the production of income and located in the United States, or from any interest in such real property, including (i) gains from the sale or exchange of such real property or an interesttherein, (ii) rents or royalties from mines, wells, or other natural deposits, and (iii) gains described in section 631(b) or (c), and
+&emsp;&emsp;(A) from real property held for the production of income and located in the United States, or from any interest in such real property, including (i) gains from the sale or exchange of such real property or an interest therein, (ii) rents or royalties from mines, wells, or other natural deposits, and (iii) gains described in section 631(b) or (c), and
 
 &emsp;&emsp;(B) which, but for this subsection, would not be treated as income which is effectively connected with the conduct of a trade or business within the United States,
 
@@ -222,7 +222,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;&emsp;&emsp;(II) the yield on property described in subclause (I), other than a debt instrument that pays interest described in subparagraph (A), or stock or other property that represents a beneficial interest in the debtor or a related person, or
 
-&emsp;&emsp;&emsp;&emsp;(III) changes in any index of the value of property described in subclause (I) orof the yield on property described in subclause (II), and
+&emsp;&emsp;&emsp;&emsp;(III) changes in any index of the value of property described in subclause (I) or of the yield on property described in subclause (II), and
 
 &emsp;&emsp;&emsp;(vi) any other type of interest identified by the Secretary by regulation.
 
@@ -366,7 +366,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (v) Termination
 
-&emsp;&emsp;&emsp;The term "interest related dividend" shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013.
+&emsp;&emsp;&emsp;The term "interest related dividend" shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2014.
 
 #### (D) Qualified net interest income
 
@@ -378,7 +378,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 &emsp;&emsp;&emsp;(i) Any amount includible in gross income as original issue discount (within the meaning of section 1273) on an obligation payable 183 days or less from the date of original issue (without regard to the period held by the company).
 
-&emsp;&emsp;&emsp;(ii) Any interest includible in gross income (including amounts recognized as ordinary income in respect of original issue discount or market discount or acquisition discount under part V of subchapter P and such other amounts as regulations mayprovide) on an obligation which is in registered form; except that this clause shall not apply to—
+&emsp;&emsp;&emsp;(ii) Any interest includible in gross income (including amounts recognized as ordinary income in respect of original issue discount or market discount or acquisition discount under part V of subchapter P and such other amounts as regulations may provide) on an obligation which is in registered form; except that this clause shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) any interest on an obligation issued by a corporation or partnership if the regulated investment company is a 10-percent shareholder in such corporation or partnership, and
 
@@ -450,7 +450,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (v) Termination
 
-&emsp;&emsp;&emsp;The term "short-term capital gain dividend" shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013.
+&emsp;&emsp;&emsp;The term "short-term capital gain dividend" shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2014.
 
 #### (D) Qualified short-term gain
 
@@ -540,7 +540,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), sections 881 and 4948(a), and chapters 3 and 4, a dividendequivalent shall be treated as a dividend from sources within the United States.
+&emsp;For purposes of subsection (a), sections 881 and 4948(a), and chapters 3 and 4, a dividend equivalent shall be treated as a dividend from sources within the United States.
 
 #### (2) Dividend equivalent
 
@@ -614,7 +614,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 &emsp;&emsp;<b>(7) For special tax treatment of gain or loss from the disposition by a nonresident alien individual of a United States real property interest, see section 897.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV,§§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 109–222, title V, §505(c)(2), May 17, 2006, 120 Stat. 356; Pub. L. 110–343, div. C, title II, §206(a), (b), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–147, title V, §§502(b)(1), (2)(A), 541(a), Mar. 18, 2010, 124 Stat. 107, 115; Pub. L. 111–226, title II, §217(b), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–312, title VII, §748(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 111–325, title III, §§301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, 124 Stat. 3544, 3548, 3551; Pub. L. 112–240, title III, §320(a), Jan. 2, 2013, 126 Stat. 2332.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 109–222, title V, §505(c)(2), May 17, 2006, 120 Stat. 356; Pub. L. 110–343, div. C, title II, §206(a), (b), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–147, title V, §§502(b)(1), (2)(A), 541(a), Mar. 18, 2010, 124 Stat. 107, 115; Pub. L. 111–226, title II, §217(b), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–312, title VII, §748(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 111–325, title III, §§301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, 124 Stat. 3544, 3548, 3551; Pub. L. 112–240, title III, §320(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §132(a), title II, §221(a)(71), Dec. 19, 2014, 128 Stat. 4018, 4048.)
 
 #### References in Text
 
@@ -630,6 +630,10 @@ The date of the enactment of this subsection, referred to in subsec. (m)(3)(B), 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(1)(B). Pub. L. 113–295, §221(a)(71), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "gains described in section 631(b) or (c), and gains on transfers described in section 1235 made on or before October 4, 1966,".
+
+Subsec. (k)(1)(C)(v), (2)(C)(v). Pub. L. 113–295, §132(a), substituted "December 31, 2014" for "December 31, 2013".
+
 <b>2013</b>—Subsec. (k)(1)(C)(v), (2)(C)(v). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
 <b>2010</b>—Subsec. (h)(2). Pub. L. 111–147, §502(b)(1), amended par. (2) generally. Prior to amendment, par. (2) defined portfolio interest to also include interest on certain obligations not in registered form.
@@ -640,7 +644,7 @@ Subsec. (i)(2)(B). Pub. L. 111–226, §217(b)(1), amended subpar. (B) generally
 
 Subsec. (k)(1)(A). Pub. L. 111–325, §302(b)(2), inserted "which meets the requirements of section 852(a) for the taxable year with respect to which the dividend is paid" before period at end.
 
-Subsec. (k)(1)(C). Pub. L. 111–325, §301(f)(1), substituted introductory provisions, cls. (i) to (iv), and cl. (v) heading and "The term 'interest related dividend' shall not include any dividend with respect to" for "For purposes of this paragraph, the term 'interest-related dividend' means any dividend (or part thereof) which is designated by the regulated investment company as an interest-related dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid after the close of the taxable year described in section 855) is greater than the qualified net interest income of the company for such taxable year, the portion of each distribution which shall be an interest-related dividend shall be only that portion of the amounts so designated which such qualified net interest income bears to the aggregate amount so designated. Such term shall not include any dividend with respect to".
+Subsec. (k)(1)(C). Pub. L. 111–325, §301(f)(1), substituted introductory provisions, cls. (i) to (iv), and cl. (v) heading and "The term 'interest related dividend' shall not include any dividend with respect to" for "For purposes of this paragraph, the term 'interest-related dividend' means any dividend (or part thereof) which is designated by the regulated investment company as an interest-related dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect todividends paid after the close of the taxable year described in section 855) is greater than the qualified net interest income of the company for such taxable year, the portion of each distribution which shall be an interest-related dividend shall be only that portion of the amounts so designated which such qualified net interest income bears to the aggregate amount so designated. Such term shall not include any dividend with respect to".
 
 Pub. L. 111–312, §748(a), substituted "December 31, 2011" for "December 31, 2009".
 
@@ -654,7 +658,7 @@ Subsec. (k)(2)(D). Pub. L. 111–325, §308(b)(3), substituted "For purposes of 
 
 &emsp;"(i) the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain, and
 
-&emsp;"(ii) the excess of the net short-term capital gain for a taxable year over the net long-term capital lossfor a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net short-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net short-term capital loss shall be treated as arising on the 1st day of the next taxable year.
+&emsp;"(ii) the excess of the net short-term capital gain for a taxable year over the net long-term capital loss for a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net short-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net short-term capital loss shall be treated as arising on the 1st day of the next taxable year.
 
 > To the extent provided in regulations, clause (ii) shall apply also for purposes of computing the taxable income of the regulated investment company."
 
@@ -789,6 +793,12 @@ Subsec. (b). Pub. L. 88–272, §§113(b)(1), (3), 201(d)(12), substituted "$19,
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–866, §40(a), inserted "section 403(a)(2)," after "section 402(a)(2),".
 
 Subsec. (b). Pub. L. 85–866, §41(a), inserted last par. covering former provisions of par. (3), which was struck out by the amendment, and containing new provisions with references to credits under section 34 and 35 and exclusion under section 116 of this title.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §132(b), Dec. 19, 2014, 128 Stat. 4018, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
+
+Amendment by section 221(a)(71) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2013 Amendment
 

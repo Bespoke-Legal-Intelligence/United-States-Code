@@ -6,7 +6,7 @@ The heads of the several executive departments and independent agencies and esta
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 substituted “Archivist” for “Administrator”.
+<b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator".
 
 #### Effective Date of 1984 Amendment
 

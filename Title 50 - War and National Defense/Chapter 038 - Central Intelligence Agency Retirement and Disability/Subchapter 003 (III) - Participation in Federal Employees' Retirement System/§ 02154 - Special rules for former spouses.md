@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise specifically provided in this section, the provisions of chapter 84 of title 5 shall apply in the case of an employee of the Agency who is subject to chapter 84 of title 5and who has a former spouse (as defined in section 8401(12) of title 5) or a qualified former spouse.
+Except as otherwise specifically provided in this section, the provisions of chapter 84 of title 5 shall apply in the case of an employee of the Agency who is subject to chapter 84 of title 5 and who has a former spouse (as defined in section 8401(12) of title 5) or a qualified former spouse.
 
 #### (b) Definitions
 
@@ -70,7 +70,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) the day on which the employee upon whose service the benefits are based becomes entitled to the benefits; or
 
-&emsp;&emsp;&emsp;(ii) the first day of the second month beginning after the date on which the Director receives written notice of the court order or spousal agreement, together with such additional information or documentation as the Director may prescribe.
+&emsp;&emsp;&emsp;(ii) the first day of the second month beginning after the date on which the Director receives written notice of the courtorder or spousal agreement, together with such additional information or documentation as the Director may prescribe.
 
 #### (B) Termination
 
@@ -142,7 +142,7 @@ For purposes of this section:
 
 #### (4) Restoration
 
-&emsp;If the survivor annuity payable under this subsection to a surviving qualified formerspouse is terminated because of remarriage before becoming age 55, the annuity shall be restored at the same rate commencing on the date such remarriage is dissolved by death, divorce, or annulment, if—
+&emsp;If the survivor annuity payable under this subsection to a surviving qualified former spouse is terminated because of remarriage before becoming age 55, the annuity shall be restored at the same rate commencing on the date such remarriage is dissolved by death, divorce, or annulment, if—
 
 &emsp;&emsp;(A) such former spouse elects to receive this survivor annuity instead of any other survivor benefit to which such former spouse may be entitled under subchapter IV of chapter 84 of title 5, or under another retirement system for Government employees by reason of the remarriage; and
 
@@ -194,7 +194,7 @@ For purposes of this section:
 
 #### (C) Limitation
 
-&emsp;&emsp;A spousal agreement or court order may not provide for payment to a qualified former spouse under this subsection of an amount that exceeds the employee's account balance in the Thrift Savings Fund.
+&emsp;&emsp;A spousal agreement or court order may not provide for payment to a qualifiedformer spouse under this subsection of an amount that exceeds the employee's account balance in the Thrift Savings Fund.
 
 #### (D) Death of qualified former spouse
 

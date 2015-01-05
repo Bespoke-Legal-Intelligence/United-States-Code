@@ -102,7 +102,7 @@ Sponges
 
 &emsp;(8) The term "Council" means any Regional Fishery Management Council established under section 1852 of this title.
 
-&emsp;(9) The term "economic discards" means fish which are the target of a fishery, but which are not retained because they are of an undesirable size, sex, or quality, or for other economic reasons.
+&emsp;(9) The term "economic discards" means fish which are the target of a fishery, but whichare not retained because they are of an undesirable size, sex, or quality, or for other economic reasons.
 
 &emsp;(10) The term "essential fish habitat" means those waters and substrate necessary to fish for spawning, breeding, feeding or growth to maturity.
 
@@ -204,7 +204,7 @@ Sponges
 
 &emsp;(40) The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
-&emsp;(41) <sup>1</sup> The term "special areas" means the areas referred to as eastern special areas inArticle 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+&emsp;(41) <sup>1</sup> The term "special areas" means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
 &emsp;(42) The term "stock of fish" means a species, subspecies, geographical grouping, or other category of fish capable of management as a unit.
 

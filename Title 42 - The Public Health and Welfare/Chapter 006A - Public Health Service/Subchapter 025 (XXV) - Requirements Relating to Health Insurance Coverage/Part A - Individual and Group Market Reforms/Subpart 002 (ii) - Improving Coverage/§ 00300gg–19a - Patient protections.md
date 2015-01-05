@@ -60,7 +60,7 @@ If a group health plan, or a health insurance issuer offering group or individua
 
 #### (A) Direct access
 
-&emsp;&emsp;A group health plan, or health insurance issuer offering group or individual health insurance coverage, described in paragraph (2) may not require authorization or referral by the plan, issuer, or any person (including a primary care provider described in paragraph (2)(B)) in the case of a female participant, beneficiary, or enrollee who seeks coverage for obstetrical or gynecological care provided by a participating health care professional who specializes in obstetrics or gynecology. Such professional shall agree to otherwise adhere to such plan's or issuer's policies and procedures, including procedures regarding referrals and obtaining prior authorization and providing services pursuant to a treatment plan (if any) approved by the plan or issuer.
+&emsp;&emsp;A group health plan, or health insurance issuer offering group or individual health insurance coverage, described in paragraph (2) may not require authorization or referral by the plan, issuer, or any person (including a primary care provider described in paragraph (2)(B)) in the case of a female participant, beneficiary, or enrollee who seeks coverage for obstetrical or gynecological care provided by a participating health care professional who specializes in obstetrics orgynecology. Such professional shall agree to otherwise adhere to such plan's or issuer's policies and procedures, including procedures regarding referrals and obtaining prior authorization and providing services pursuant to a treatment plan (if any) approved by the plan or issuer.
 
 #### (B) Obstetrical and gynecological care
 

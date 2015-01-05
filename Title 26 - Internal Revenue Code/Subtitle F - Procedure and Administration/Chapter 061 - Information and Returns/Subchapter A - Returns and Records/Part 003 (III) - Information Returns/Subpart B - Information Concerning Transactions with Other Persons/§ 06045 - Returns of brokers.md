@@ -100,7 +100,7 @@ If any broker—
 
 &emsp;&emsp;&emsp;(i) such residence is the principal residence (within the meaning of section 121) of the seller,
 
-&emsp;&emsp;&emsp;(ii) if the Secretary requires the inclusion on the return under subsection (a) of information as to whether there is federally subsidized mortgage financing assistance with respect to the mortgage on residences, that there is no such assistance with respect to the mortgage on such residence, and
+&emsp;&emsp;&emsp;(ii) if the Secretary requires the inclusion on the return under subsection (a) of information as to whether there is federally subsidized mortgage financing assistance with respect to the mortgage on residences, that there is no such assistancewith respect to the mortgage on such residence, and
 
 &emsp;&emsp;&emsp;(iii) the full amount of the gain on such sale or exchange is excludable from gross income under section 121.
 
@@ -196,6 +196,10 @@ If any broker—
 
 &emsp;In the case of a short sale, reporting under this section shall be made for the year in which such sale is closed.
 
+#### (6) Special rule for certain stock held in connection with dividend reinvestment plan
+
+&emsp;For purposes of this subsection, stock acquired before January 1, 2012, in connection with a dividend reinvestment plan shall be treated as stock described in clause (ii) of paragraph (3)(C) (unless the broker with respect to such stock elects not to have this paragraph apply with respect to such stock).
+
 #### (h) Application to options on securities
 
 #### (1) Exercise of option
@@ -214,9 +218,11 @@ If any broker—
 
 &emsp;For purposes of this subsection, the terms "covered security" and "specified security" shall have the meanings given such terms in subsection (g)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(o)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(o)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854; Pub. L. 113–295, div. A, title II, §210(f)(4), Dec. 19, 2014, 128 Stat. 4032.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(6). Pub. L. 113–295 added par. (6).
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–343, §403(a)(3)(A), (C), in concluding provisions, substituted "February 15" for "January 31" and inserted at end "In the case of a consolidated reporting statement (as defined in regulations) with respect to any customer, any statement which would otherwise be required to be furnished on or before January 31 of a calendar year with respect to any item reportable to the taxpayer shall instead be required to be furnished on or before February 15 of such calendar year if furnished with such consolidated reporting statement."
 
@@ -234,7 +240,7 @@ Subsec. (f). Pub. L. 105–34, §1021(a), added subsec. (f).
 
 Subsec. (e)(3). Pub. L. 104–188 inserted at end "Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction."
 
-<b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: "Whether seller's financing wasfederally-subsidized" and amended text generally. Prior to amendment, text read as follows: "In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3))."
+<b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: "Whether seller's financing was federally-subsidized" and amended text generally. Prior to amendment, text read as follows: "In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3))."
 
 <b>1990</b>—Subsec. (e)(4). Pub. L. 101–508 substituted "reporting person" for "broker".
 
@@ -258,9 +264,13 @@ Subsec. (e). Pub. L. 99–514, §1521(a), added subsec. (e).
 
 Subsec. (d). Pub. L. 98–369, §150(a), added subsec. (d).
 
-<b>1982</b>—Pub. L. 97–248 designated existing provisions as subsec. (a), substituted "the name and address of each customer, with such details regarding gross proceeds" for "the names of customers for whom such person has transacted any business, with such details regarding the profits and losses" after "may prescribe, showing" and "such business" for "each customer as will enable the Secretary to determine the amount of such profits and losses" after "with respect to", and added subsecs. (b) and (c).
+<b>1982</b>—Pub. L. 97–248 designated existing provisions as subsec. (a), substituted "the name and address of each customer, with such details regarding gross proceeds" for "the names of customers for whom such person has transacted any business, with such details regardingthe profits and losses" after "may prescribe, showing" and "such business" for "each customer as will enable the Secretary to determine the amount of such profits and losses" after "with respect to", and added subsecs. (b) and (c).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, Pub. L. 110–343, div. B, to which such amendment relates, see section 210(h) of Pub. L. 113–295, set out as a note under section 45 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -318,5 +328,5 @@ Pub. L. 97–248, title III, §311(c)(1), Sept. 3, 1982, 96 Stat. 601, as amende
 
 #### No Penalty for Payments Before January 1, 1985
 
-Pub. L. 98–369, div. A, title VII, §714(e)(2), July 18, 1984, 98 Stat. 961, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "No penalty shallbe imposed under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any person required (by reason of the amendment made by paragraph (1) \[amending this section\]) to file a return under section 6045 of such Code with respect to any payment before January 1, 1985."
+Pub. L. 98–369, div. A, title VII, §714(e)(2), July 18, 1984, 98 Stat. 961, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "No penalty shall be imposed under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any person required (by reason of the amendment made by paragraph (1) \[amending this section\]) to file a return under section 6045 of such Code with respect to any payment before January 1, 1985."
 

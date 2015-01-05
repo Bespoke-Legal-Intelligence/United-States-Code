@@ -18,7 +18,7 @@
 | [112\.](%C2%A7%2000112%20-%20Statutes%20at%20Large%3B%20contents%3B%20admissibility%20in%20evidence.md) | Statutes at Large; contents; admissibility in evidence. |
 | [112a.](%C2%A7%2000112a%20-%20United%20States%20Treaties%20and%20Other%20International%20Agreements%3B%20contents%3B%20admissibility%20in%20evidence.md) | United States Treaties and Other International Agreements; contents; admissibility in evidence. |
 | [112b.](%C2%A7%2000112b%20-%20United%20States%20international%20agreements%3B%20transmission%20to%20Congress.md) | United States international agreements; transmission to Congress. |
-| [113\.](%C2%A7%2000113%20-%20%E2%80%9CLittle%20and%20Brown%27s%E2%80%9D%20edition%20of%20laws%20and%20treaties%3B%20slip%20laws%3B%20Treaties%20and%20Other%20International%20Acts%20Series%3B%20admissibility%20in%20evidence.md) | “Little and Brown's” edition of laws and treaties; slip laws; Treaties and Other International Act <sup>1</sup> Series; admissibility in evidence. |
+| [113\.](%C2%A7%2000113%20-%20Little%20and%20Brown%27s%20edition%20of%20laws%20and%20treaties%3B%20slip%20laws%3B%20Treaties%20and%20Other%20International%20Acts%20Series%3B%20admissibility%20in%20evidence.md) | "Little and Brown's" edition of laws and treaties; slip laws; Treaties and Other International Act <sup>1</sup> Series; admissibility in evidence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,7 +32,7 @@
 
 <b>1972</b>—Pub. L. 92–403, §2, Aug. 22, 1972, 86 Stat. 619, added item 112b.
 
-<b>1966</b>—Pub. L. 89–497, §2, July 8, 1966, 80 Stat. 271, inserted “slip laws; Treaties and Other International Acts Series;” in item 113.
+<b>1966</b>—Pub. L. 89–497, §2, July 8, 1966, 80 Stat. 271, inserted "slip laws; Treaties and Other International Acts Series;" in item 113.
 
 <b>1951</b>—Act Oct. 31, 1951, ch. 655, §2(a), 65 Stat. 710, added items 106a and 106b.
 
@@ -61,5 +61,5 @@
 - [&sect; 00112 - Statutes at Large; contents; admissibility in evidence](%C2%A7%2000112%20-%20Statutes%20at%20Large%3B%20contents%3B%20admissibility%20in%20evidence.md)
 - [&sect; 00112a - United States Treaties and Other International Agreements; contents; admissibility in evidence](%C2%A7%2000112a%20-%20United%20States%20Treaties%20and%20Other%20International%20Agreements%3B%20contents%3B%20admissibility%20in%20evidence.md)
 - [&sect; 00112b - United States international agreements; transmission to Congress](%C2%A7%2000112b%20-%20United%20States%20international%20agreements%3B%20transmission%20to%20Congress.md)
-- [&sect; 00113 - &#8220;Little and Brown's&#8221; edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence](%C2%A7%2000113%20-%20%E2%80%9CLittle%20and%20Brown%27s%E2%80%9D%20edition%20of%20laws%20and%20treaties%3B%20slip%20laws%3B%20Treaties%20and%20Other%20International%20Acts%20Series%3B%20admissibility%20in%20evidence.md)
+- [&sect; 00113 - Little and Brown's edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence](%C2%A7%2000113%20-%20Little%20and%20Brown%27s%20edition%20of%20laws%20and%20treaties%3B%20slip%20laws%3B%20Treaties%20and%20Other%20International%20Acts%20Series%3B%20admissibility%20in%20evidence.md)
 - [&sect; 00114 - Sealing of instruments](%C2%A7%2000114%20-%20Sealing%20of%20instruments.md)

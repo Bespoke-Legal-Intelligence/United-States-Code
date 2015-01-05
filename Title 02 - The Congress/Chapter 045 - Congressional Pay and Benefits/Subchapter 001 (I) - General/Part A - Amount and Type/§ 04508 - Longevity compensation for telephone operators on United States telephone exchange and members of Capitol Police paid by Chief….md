@@ -6,7 +6,7 @@ The provisions of subsections (a) and (b) of section 4507 of this title (as amen
 
 #### Inapplicability of Section to Certain Employees On and After October 1, 1983
 
-<i>Section 4507 of this title, referred to in text, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 4509 of this title.</i>
+<i>Section 4507 of this title, referred to in text, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Sec</i><i>retary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 4509 of this title.</i>
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section was formerly classified to section 60j–2 of this title prior to editor
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 struck out “(a)” before “The provisions” and substituted “Chief Administrative Officer” for “Clerk” in two places.
+<b>1996</b>—Pub. L. 104–186 struck out "(a)" before "The provisions" and substituted "Chief Administrative Officer" for "Clerk" in two places.
 
 #### Transfer of Functions
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) Under the Single Convention on Narcotic Drugs, 1961, and under the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, the parties are required to criminalize certain drug-related activities, provide appropriately severe penalties, and cooperate in the extradition of accused offenders.
 
-&emsp;(C) International narcotics control programs should include, as priority goals, the suppression of the illicit manufacture of and trafficking in narcotic and psychotropic drugs, money laundering, and precursor chemical diversion, and the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived.
+&emsp;(C) International narcotics control programs should include, as priority goals, the suppression of the illicit manufacture of and trafficking in narcotic and psychotropic drugs, money laundering, and precursor chemical diversion,and the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived.
 
 &emsp;(D) International criminal activities, particularly international narcotics trafficking, money laundering, and corruption, endanger political and economic stability and democratic development, and assistance for the prevention and suppression of international criminal activities should be a priority for the United States.
 
@@ -72,7 +72,7 @@
 
 #### (3) Report upon determination of harm to environment or health
 
-&emsp;If the President determines that any such use is harmful to the environment or the health of individuals, the President shall immediately report that determination to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, together with such recommendations as the President deems appropriate.
+&emsp;If the President determines that any such use is harmful to the environment or thehealth of individuals, the President shall immediately report that determination to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, together with such recommendations as the President deems appropriate.
 
 #### (e) Definitions
 
@@ -130,7 +130,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Foodand Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 3001 of Title 50, War and National Defense.
 
@@ -266,7 +266,7 @@ Subsec. (h)(2)(B)(v). Pub. L. 101–231, §17(d)(3), substituted "essential prec
 
 Subsec. (h)(3)(D). Pub. L. 101–231, §17(d)(4), substituted "illicit production" for "production".
 
-Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the term 'major illicit drug producing country' means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producingfive hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;".
+Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the term 'major illicit drug producing country' means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;".
 
 Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 

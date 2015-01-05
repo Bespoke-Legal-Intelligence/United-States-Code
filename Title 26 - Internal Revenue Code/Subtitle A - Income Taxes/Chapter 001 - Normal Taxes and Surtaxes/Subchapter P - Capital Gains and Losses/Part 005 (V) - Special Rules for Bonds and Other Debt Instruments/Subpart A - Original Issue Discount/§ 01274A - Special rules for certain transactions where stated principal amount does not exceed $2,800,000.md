@@ -112,6 +112,8 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+<b>2015</b>—Revenue Ruling 2014–30.
+
 <b>2014</b>—Revenue Ruling 2013–23.
 
 <b>2013</b>—Revenue Ruling 2012–33.

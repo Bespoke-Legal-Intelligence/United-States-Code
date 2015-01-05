@@ -1,0 +1,6 @@
+### §15452. Transferred
+
+#### Codification
+
+Section 15452 was editorially reclassified as section 21052 of Title 52, Voting and Elections.
+

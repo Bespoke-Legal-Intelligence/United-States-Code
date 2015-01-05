@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (C) Limited partners and limited entrepreneurs
 
-&emsp;&emsp;In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)), subparagraph (A) shall not apply if—
+&emsp;&emsp;In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)),<sup>1</sup> subparagraph (A) shall not apply if—
 
 &emsp;&emsp;&emsp;(i) substantially all of the limited partner's (or limited entrepreneur's) expected return from the entity is attributable to the time value of the partner's (or entrepreneur's) net investment in such entity,
 
@@ -103,6 +103,10 @@ For purposes of this section—
 &emsp;&emsp;&emsp;(iii) the transaction (or the interest in the entity) is a transaction (or interest) specified in regulations prescribed by the Secretary.
 
 (Added Pub. L. 103–66, title XIII, §13206(a)(1), Aug. 10, 1993, 107 Stat. 462; amended Pub. L. 108–357, title VIII, §888(c)(2), Oct. 22, 2004, 118 Stat. 1643.)
+
+#### References in Text
+
+Section 464(e)(2), referred to in subsec. (d)(5)(C), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(58)(C)(i), Dec. 19, 2014, 128 Stat. 4047.
 
 #### Amendments
 
@@ -115,4 +119,6 @@ Amendment by Pub. L. 108–357 applicable to positions established on or after O
 #### Effective Date
 
 Pub. L. 103–66, title XIII, §13206(a)(3), Aug. 10, 1993, 107 Stat. 465, as amended by Pub. L. 104–188, title I, §1703(n)(11), Aug. 20, 1996, 110 Stat. 1877, provided that: "The amendments made by this subsection \[enacting this section\] shall apply to conversion transactions entered into after April 30, 1993."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

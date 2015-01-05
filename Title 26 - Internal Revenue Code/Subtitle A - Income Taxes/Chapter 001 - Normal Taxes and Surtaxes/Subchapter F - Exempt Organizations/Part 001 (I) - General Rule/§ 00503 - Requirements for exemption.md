@@ -4,15 +4,11 @@
 
 #### (1) General rule
 
-&emsp;(A) An organization described in section 501(c)(17) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1959.
-
-&emsp;(B) An organization described in section 401(a) which is referred to in section 4975(g) (2) or (3) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after March 1, 1954.
-
-&emsp;(C) An organization described in section 501(c)(18) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1969.
+&emsp;An organization described in paragraph (17) or (18) of section 501(c), or described in section 401(a) and referred to in section 4975(g) (2) or (3), shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction.
 
 #### (2) Taxable years affected
 
-&emsp;An organization described in section 501(c) (17) or (18) or paragraph (1)(B) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
+&emsp;An organization described in paragraph (1) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
 
 #### (b) Prohibited transactions
 
@@ -34,7 +30,7 @@ For purposes of this section, the term "prohibited transaction" means any transa
 
 #### (c) Future status of organizations denied exemption
 
-Any organization described in section 501(c) (17) or (18) or subsection (a)(1)(B) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
+Any organization described in subsection (a)(1) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
 
 #### \[(d) Repealed. Pub. L. 101–508, title XI, §11801(a)(22), Nov. 5, 1990, 104 Stat. 1388–521\]
 
@@ -52,7 +48,7 @@ For purposes of subsection (b)(1), a bond, debenture, note, or certificate or ot
 
 &emsp;(2) immediately following acquisition of such obligation—
 
-&emsp;&emsp;(A) not more than 25 percent of the aggregate amount of obligations issued in such issue and outstanding at the time of acquisition is held by the trust, and
+&emsp;&emsp;(A) not more than 25 percent of the aggregate amount of obligations issued in suchissue and outstanding at the time of acquisition is held by the trust, and
 
 &emsp;&emsp;(B) at least 50 percent of the aggregate amount referred to in subparagraph (A) is held by persons independent of the issuer; and
 
@@ -70,9 +66,21 @@ Subsection (b)(1) shall not apply to a loan made by a trust described in section
 
 > For purposes of paragraph (2), the term "trustee" means, with respect to any trust for which there is more than one trustee who is independent of the employer, a majority of such independent trustees. For purposes of paragraph (3), the determination as to whether any amount loaned by the trust to the employer is loaned without the receipt of adequate security shall be made without regard to subsection (e).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 166; Pub. L. 85–866, title I, §30(a), (b), Sept. 2, 1958, 72 Stat. 1629, 1630; Pub. L. 86–667, §2, July 14, 1960, 74 Stat. 535; Pub. L. 87–792, §6, Oct. 10, 1962, 76 Stat. 827; Pub. L. 91–172, title I, §§101(j)(7)–(14), 121(b)(6)(B), Dec. 30, 1969, 83 Stat. 527, 542; Pub. L. 93–406, title II, §2003(b), Sept. 2, 1974, 88 Stat. 978; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–508, title XI, §11801(a)(22), Nov. 5, 1990, 104 Stat. 1388–521.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 166; Pub. L. 85–866, title I, §30(a), (b), Sept. 2, 1958, 72 Stat. 1629, 1630; Pub. L. 86–667, §2, July 14, 1960, 74 Stat. 535; Pub. L. 87–792, §6, Oct. 10, 1962, 76 Stat. 827; Pub. L. 91–172, title I, §§101(j)(7)–(14), 121(b)(6)(B), Dec. 30, 1969, 83 Stat. 527, 542; Pub. L. 93–406, title II, §2003(b), Sept. 2, 1974, 88 Stat. 978; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–508, title XI, §11801(a)(22), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 113–295, div. A, title II, §221(a)(63), Dec. 19, 2014, 128 Stat. 4048.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295, §221(a)(63)(A), amended par. (1) generally. Prior to amendment, text read as follows:
+
+"(A) An organization described in section 501(c)(17) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1959.
+
+"(B) An organization described in section 401(a) which is referred to in section 4975(g) (2) or (3) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after March 1, 1954.
+
+"(C) An organization described in section 501(c)(18) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1969."
+
+Subsec. (a)(2). Pub. L. 113–295, §221(a)(63)(B), which directed amendment of par. (2) by substituting "described in paragraph (1)" for "described in section 501(c)(17) or (18) or paragraph (a)(1)(B)", was executed by making the substitution for "described in section 501(c) (17) or (18) or paragraph (1)(B)" to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 113–295, §221(a)(63)(C), which directed amendment of subsec. (c) by substituting "described in subsection (a)(1)" for "described in section 501(c)(17) or (18) or subsection (a)(1)(B)", was executed by making the substitution for "described in section 501(c) (17) or (18) or subsection (a)(1)(B)" to reflect the probable intent of Congress.
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) "Special rule for loans" which read as follows: "For purposes of the application of subsection (b)(1), in the case of a loan by a trust described in section 401(a), the following rules shall apply with respect to a loan made before March 1, 1954, which would constitute a prohibited transaction if made on or after March 1, 1954:
 
@@ -125,6 +133,10 @@ Subsec. (h). Pub. L. 86–667, §2(d), included trusts described in section 501(
 <b>1958</b>—Subsec. (h). Pub. L. 85–866, §30(a), added subsec. (h).
 
 Subsec. (i). Pub. L. 85–866, §30(b), added subsec. (i).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1974 Amendment
 

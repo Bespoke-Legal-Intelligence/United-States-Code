@@ -4,7 +4,7 @@ The Congress finds and declares that—
 
 &emsp;(1) there is a need to provide equal access to the system of justice in our Nation for individuals who seek redress of grievances;
 
-&emsp;(2) there is a need to provide high quality legal assistance to those who would be otherwise unable to afford adequate legal counseland to continue the present vital legal services program;
+&emsp;(2) there is a need to provide high quality legal assistance to those who would be otherwise unable to afford adequate legal counsel and to continue the present vital legal services program;
 
 &emsp;(3) providing legal assistance to those who face an economic barrier to adequate legal counsel will serve best the ends of justice and assist in improving opportunities for low-income persons consistent with the purposes of this chapter;
 

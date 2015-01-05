@@ -22,7 +22,7 @@ The Corps shall consist of individuals between the ages of 16 and 25, inclusive,
 
 #### (B) Priority projects
 
-&emsp;&emsp;In carrying out priority projects in a specific area, the Secretary shall, to the maximum extent practicable, give preference to qualified youth or conservation corps located in that specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged.
+&emsp;&emsp;In carrying out priority projects in a specific area, the Secretary shall, to the maximum extent practicable, give preference toqualified youth or conservation corps located in that specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged.
 
 #### (d) Projects to be carried out
 

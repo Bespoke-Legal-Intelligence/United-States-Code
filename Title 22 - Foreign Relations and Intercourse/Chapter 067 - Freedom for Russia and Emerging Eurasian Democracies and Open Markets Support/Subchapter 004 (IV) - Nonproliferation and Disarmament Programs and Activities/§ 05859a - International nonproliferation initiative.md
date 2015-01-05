@@ -22,7 +22,7 @@ Activities for which assistance may be provided under this section are activitie
 
 (2) Assistance under this section may be provided to international organizations in the form of funds only if the amount in the "Contributions to International Organizations" account of the Department of State is insufficient or otherwise unavailable to meet the United States fair share of assessments for international nuclear nonproliferation activities.
 
-(3) No amount may be obligated for an expenditure under this section unless the Director of the Office of Management and Budget determines that the expenditure will be counted as discretionary spending in the national defense budget function (function 050).
+(3) No amount may be obligated for an expenditure under this section unless the Director ofthe Office of Management and Budget determines that the expenditure will be counted as discretionary spending in the national defense budget function (function 050).
 
 (4) No assistance may be furnished under this section unless the Secretary of Defense determines and certifies to the Congress 30 days in advance that the provision of such assistance—
 
@@ -40,9 +40,9 @@ Activities for which assistance may be provided under this section are activitie
 
 (3) The total amount of the assistance provided in the form of funds under this section, including funds used for activities of the Department of Defense in support of the United Nations Special Commission on Iraq, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, $15,000,000 for fiscal year 1996, $15,000,000 for fiscal year 1997, or $15,000,000 for fiscal year 1998.
 
-(4)(A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq (orany successor organization) for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation. Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
+(4)(A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq (or any successor organization) for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation. Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
 
-(B) Financial assistance may be provided under subparagraph (A) only after the Secretary of Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of this section of the significant unforeseen development and of the Secretary's intent to provide assistance in excess of the limitation for that fiscal year. However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
+(B) Financial assistance may be provided under subparagraph (A) only after the Secretary of Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of the significant unforeseen development and of the Secretary's intent to provide assistance in excess of the limitation for that fiscal year. However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
 
 #### (e) Quarterly report
 
@@ -100,7 +100,7 @@ Subsec. (b)(2). Pub. L. 104–106, §1403(b)(1), substituted "the Department of 
 
 Subsec. (c)(3). Pub. L. 104–106, §1403(b)(2), substituted "will be counted as discretionary spending in the national defense budget function (function 050)." for "will be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 665(a)(2) of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985."
 
-Subsec. (d)(1). Pub. L. 104–106, §1403(c)(1)(A), (B), substituted "for any fiscal year shall be derived fromamounts made available to the Department of Defense for that fiscal year." for "for fiscal year 1994 shall be derived from amounts made available to the Department of Defense for fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995." and struck out "referred to in this paragraph" after "for a fiscal year".
+Subsec. (d)(1). Pub. L. 104–106, §1403(c)(1)(A), (B), substituted "for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year." for "for fiscal year 1994 shall be derived from amounts made available to the Department of Defense for fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995." and struck out "referred to in this paragraph" after "for a fiscal year".
 
 Subsec. (d)(3). Pub. L. 104–201, §1301(a)(1), struck out "or" after "fiscal year 1995," and inserted ", or $15,000,000 for fiscal year 1997" before period at end.
 
@@ -154,5 +154,5 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendmentmade by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
 

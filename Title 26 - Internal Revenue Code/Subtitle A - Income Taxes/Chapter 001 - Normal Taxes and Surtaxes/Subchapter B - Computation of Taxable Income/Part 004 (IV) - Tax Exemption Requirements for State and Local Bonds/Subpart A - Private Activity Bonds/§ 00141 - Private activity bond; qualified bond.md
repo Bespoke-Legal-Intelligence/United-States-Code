@@ -158,7 +158,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 &emsp;&emsp;&emsp;The term "qualified annexed area" means, with respect to the governmental unit acquiring the property, any area if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such area is contiguous to, and annexed for general governmental purposesinto, a qualified service area of such unit,
+&emsp;&emsp;&emsp;&emsp;(I) such area is contiguous to, and annexed for general governmental purposes into, a qualified service area of such unit,
 
 &emsp;&emsp;&emsp;&emsp;(II) output from such property is made available to all members of the general public in the annexed area, and
 
@@ -198,7 +198,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (6) Treatment of joint action agencies
 
-&emsp;With respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units, this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property.
+&emsp;With respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units,this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property.
 
 #### (7) Exception for qualified electric and natural gas supply contracts
 
@@ -256,7 +256,7 @@ Pub. L. 109–58, title XIII, §1327(d), Aug. 8, 2005, 119 Stat. 1019, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -378,7 +378,7 @@ Certain requirements apply only to bonds issued after december 31, 1986.—In th
 
 &emsp;"(3)
 
-Application of volume cap.—Except as provided in section 1315, any bond to which this subsection applies shall be treated as a private activity bond for purposes of section 146 of the 1986 Code if such bond would have been taken into account under section 103(n) or 103A(g) of the 1954 Code (determinedwithout regard to any carryforward election) were such bond issued before August 16, 1986.
+Application of volume cap.—Except as provided in section 1315, any bond to which this subsection applies shall be treated as a private activity bond for purposes of section 146 of the 1986 Code if such bond would have been taken into account under section 103(n) or 103A(g) of the 1954 Code (determined without regard to any carryforward election) were such bond issued before August 16, 1986.
 
 &emsp;"(4)
 
@@ -444,7 +444,7 @@ Qualified bond.—For purposes of paragraph (1), the term 'qualified bond' means
 
 &emsp;"(3)
 
-Certain amendments to apply.—The following provisions of the 1986 Code shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code and shall apply to refunding bonds described in paragraph (1):
+Certain amendments to apply.—The following provisions of the 1986 Code shall be treated as included in section 103 and section 103A (as appropriate)of the 1954 Code and shall apply to refunding bonds described in paragraph (1):
 
 &emsp;&emsp;"(A) The requirements of section 147(f) (relating to public approval required for private activity bonds) but only if the maturity date of the refunding bond is later than the maturity date of the refunded bond.
 
@@ -558,7 +558,7 @@ Application to later issues.—Any bond to which section 144(a)(10) or 145(b) of
 
 Mortgage and Student Loan Targeting Rules To Apply to Loans Made More Than 3
 
-Years After the Date of the Original Issue.—Subsections (a)(3) and (b)(3) shall be treated as including the requirements of subsections (e) and (f) of section 143 and paragraphs (3) and (4) of section 144(b) of the 1986 Code with respect to bonds the proceeds of which are used to finance loans made more than 3 years after the date of the issuance of the original bond.
+Years After the Date of the Original Issue.—Subsections (a)(3)and (b)(3) shall be treated as including the requirements of subsections (e) and (f) of section 143 and paragraphs (3) and (4) of section 144(b) of the 1986 Code with respect to bonds the proceeds of which are used to finance loans made more than 3 years after the date of the issuance of the original bond.
 
 #### "SEC. 1314. SPECIAL RULES WHICH OVERRIDE OTHER RULES IN THIS SUBTITLE.
 
@@ -668,7 +668,7 @@ In General.—Except as otherwise provided in this section, section 146(f) of th
 
 "(b)
 
-Certain Bonds for Carryforward Projects Outside of Volume Cap.—Bonds issued pursuant to an election under section 103(n)(10) of the 1954 Code (relating to elective carryforward of unused limitation for specified project) made before November 1, 1985, shall not be taken into account under section 146 of the 1986 Code if the carryforward project is a facility to which the amendments made by section 1301 \[for classification see section 1311(a) of this note\] do not apply by reason of section 1312(a) of this Act.
+Certain Bonds for Carryforward Projects Outside of Volume Cap.—Bonds issued pursuant to anelection under section 103(n)(10) of the 1954 Code (relating to elective carryforward of unused limitation for specified project) made before November 1, 1985, shall not be taken into account under section 146 of the 1986 Code if the carryforward project is a facility to which the amendments made by section 1301 \[for classification see section 1311(a) of this note\] do not apply by reason of section 1312(a) of this Act.
 
 "(c)
 
@@ -790,7 +790,7 @@ limitation.—The aggregate face amount of outstanding bonds to which this subse
 
 &emsp;"(4)
 
-Application of section 147(b).—A bond to which this subsection applies (other than a refunding bond) shall be treated as meeting the requirements of section 147(b) of the 1986 Code if the average maturity (determined in accordance with section 147(b)(2)(A) of such Code) of the issue of which such bond is a part does not exceed 20 years. A bond issued to refund (or which is part of a series of bonds issued to refund) a bond described in the preceding sentence shall be treated as meeting the requirements of such section if the refunding bond has a maturity date not later than the date which is 20 years after the date on which the original bond was issued.
+Application of section 147(b).—A bond to which this subsection applies (other than a refunding bond) shall be treated as meeting the requirements of section 147(b) of the 1986 Code if the average maturity (determined in accordance with section 147(b)(2)(A) ofsuch Code) of the issue of which such bond is a part does not exceed 20 years. A bond issued to refund (or which is part of a series of bonds issued to refund) a bond described in the preceding sentence shall be treated as meeting the requirements of such section if the refunding bond has a maturity date not later than the date which is 20 years after the date on which the original bond was issued.
 
 "(d)
 
@@ -932,7 +932,7 @@ Docks and wharves.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;&emsp;"(i) the issue to finance such dock or wharf was approved by official city action on September 3, 1985, and by voters on November 5, 1985, and
 
-&emsp;&emsp;"(ii) such dock or wharf is for a slack water harbor with respect to which a Corps of Engineers grant of approximately $2,000,000 has been madeunder section 107 of the Rivers and Harbors Act \[33 U.S.C. 577\].
+&emsp;&emsp;"(ii) such dock or wharf is for a slack water harbor with respect to which a Corps of Engineers grant of approximately $2,000,000 has been made under section 107 of the Rivers and Harbors Act \[33 U.S.C. 577\].
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $2,500,000.
 
@@ -1048,7 +1048,7 @@ Pollution control facilities.—A bond issued as part of an issue 95 percent or 
 
 "(3)
 
-Sports facilities.—A bond issued as part of an issue 95 percent or more of the net proceeds of whichare to be used to provide sports facilities (within the meaning of section 103(b)(4)(B) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facilities are described in any of the following subparagraphs:
+Sports facilities.—A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide sports facilities (within the meaning of section 103(b)(4)(B) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facilities are described in any of the following subparagraphs:
 
 &emsp;"(A) A facility is described in this subparagraph if it is a stadium—
 
@@ -1090,7 +1090,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $35,000,000.
 
-&emsp;"(E) A facility is described in this subparagraph if such facility is a baseball stadium located in Bergen, Essex, Union, Middlesex, or Hudson County, New Jersey with respect to which governmental action occurred on November 7, 1985. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $150,000,000.
+&emsp;"(E) A facility is described in this subparagraph if such facility is a baseball stadium located in Bergen,Essex, Union, Middlesex, or Hudson County, New Jersey with respect to which governmental action occurred on November 7, 1985. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $150,000,000.
 
 &emsp;"(F) A facility is described in this subparagraph if—
 
@@ -1480,7 +1480,7 @@ Convention centers.—A bond issued as part of an issue 95 percent or more of th
 
 &emsp;&emsp;"(i) such facility is located in a city which was the subject of a convention center market analysis or study dated March 1983, and prepared by a nationally recognized accounting firm,
 
-&emsp;&emsp;"(ii) such facility's location was approved in December 1985 by a task force created jointly by the Governor of the State within which such facility will be located and the mayor of the capital city of such State, and
+&emsp;&emsp;"(ii) such facility's location was approved in December 1985 by a task force created jointly by theGovernor of the State within which such facility will be located and the mayor of the capital city of such State, and
 
 &emsp;&emsp;"(iii) the size of such facility is not more than 200,000 square feet.
 
@@ -1592,7 +1592,7 @@ Parking facilities.—A bond issued as part of an issue 95 percent or more of th
 
 &emsp;&emsp;"(ii) the last parcel of land necessary for such facility was purchased on February 4, 1985, and
 
-&emsp;&emsp;"(iii) the amount of bonds to be issued with respect to such facility was increased by the State legislature of the State in which the facility is to be located as part of its 1983–1984 general appropriations act.
+&emsp;&emsp;"(iii) the amount of bonds to be issued with respect to such facility was increased by the Statelegislature of the State in which the facility is to be located as part of its 1983–1984 general appropriations act.
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $9,000,000.
 
@@ -2092,7 +2092,7 @@ Tax-exempt status of bonds of certain educational organizations.—
 
 &emsp;"(A)
 
-In general.—For purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code,a qualified educational organization shall be treated as a governmental unit, but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business (determined by applying section 513(a) of such Code to such organization). The last paragraph of this section shall not apply to the treatment under the preceding sentence.
+In general.—For purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code, a qualified educational organization shall be treated as a governmental unit, but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business (determined by applying section 513(a) of such Code to such organization). The last paragraph of this section shall not apply to the treatment under the preceding sentence.
 
 &emsp;"(B)
 
@@ -2184,7 +2184,7 @@ Small issue termination.—Section 144(a)(12) of the 1986 Code shall not apply t
 
 &emsp;"(F) A facility is described in this subparagraph if it is the Lakeland Center Hotel in Lakeland, Florida. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $10,000,000.
 
-&emsp;"(G) A facility is described in this subparagraph if it is the Marble Arcade office building renovation project in Lakeland, Florida. The aggregate faceamount of obligations to which this subparagraph applies shall not exceed $5,900,000.
+&emsp;"(G) A facility is described in this subparagraph if it is the Marble Arcade office building renovation project in Lakeland, Florida. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $5,900,000.
 
 &emsp;"(H) A facility is described in this subparagraph if it is a medical office building in Bradenton, Florida, with respect to which—
 
@@ -2228,7 +2228,7 @@ Volume cap not to apply to certain facilities.—For purposes of section 146 of 
 
 &emsp;"(A) construction of such facility began on May 6, 1973, and
 
-&emsp;"(B) forward funding will be provided for the remainder of the project pursuant to a negotiated agreement between State and local water users and the Secretary of the Interior signed April 15, 1986.
+&emsp;"(B) forward funding will be provided for the remainder of the project pursuant to a negotiatedagreement between State and local water users and the Secretary of the Interior signed April 15, 1986.
 
 The aggregate face amount of bonds to which this subparagraph applies shall not exceed $391,000,000.
 
@@ -2380,7 +2380,7 @@ Power purchase bonds.—A bond issued to finance purchase of power from a power 
 
 "(37)
 
-Qualified mortgage bonds.—A bond issued as part of either of 2 issues no later than September 8,1986, shall be treated as a qualified mortgage bond within the meaning of section 141(d)(1)(B) of the 1986 Code if it satisfies the requirements of section 103A of the 1954 Code and if the issues are issued by the two most populous cities in the Tar Heel State. The aggregate face amount of bonds to which this paragraph applies shall not exceed $4,000,000.
+Qualified mortgage bonds.—A bond issued as part of either of 2 issues no later than September 8, 1986, shall be treated as a qualified mortgage bond within the meaning of section 141(d)(1)(B) of the 1986 Code if it satisfies the requirements of section 103A of the 1954 Code and if the issues are issued by the two most populous cities in the Tar Heel State. The aggregate face amount of bonds to which this paragraph applies shall not exceed $4,000,000.
 
 "(38)
 
@@ -2520,7 +2520,7 @@ Transitioned bonds subject to certain rules.—In the case of any bond to which 
 
 "(51)
 
-Certain additional projects.—Section 141(b) of the 1986 Code shall be applied by substituting '25' for '10' each place it appears and by not applying sections 141(b)(3) and 141(c)(1)(B) to bonds substantially all of the proceeds are used for—
+Certain additional projects.—Section 141(b) of the 1986 Code shall be applied by substituting '25' for'10' each place it appears and by not applying sections 141(b)(3) and 141(c)(1)(B) to bonds substantially all of the proceeds are used for—
 
 &emsp;"(A) A project is described in this subparagraph if it consists of a capital improvements program for a metropolitan sewer district, with respect to which a proposition was submitted to voters on August 7, 1984. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $60,000,000.
 
@@ -2620,7 +2620,7 @@ Special Rule Permitting Carryforward of Volume Cap for Certain Transitioned Proj
 
 \[Pub. L. 100–647, title I, §1013(c)(2)(B), Nov. 10, 1988, 102 Stat. 3545, provided that: "The amendment made by subparagraph (A) \[amending section 1313(a)(3)(C) of Pub. L. 99–514, set out above\] shall apply to bonds issued after June 30, 1987".\]
 
-\[Pub. L. 100–647, title I, §1013(c)(11)(E), Nov. 10, 1988, 102 Stat. 3547, provided that: "A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subparagraph (A) of section 1313(c)(1) of the Reform Act \[Pub. L. 99–514, set out above\] if such bond met the requirement of such subparagraph as in effect before the amendments made by this paragraph \[amending section 1313(c) of Pub. L. 99–514, set out above\]."\]
+\[Pub. L. 100–647, title I, §1013(c)(11)(E), Nov. 10, 1988, 102 Stat. 3547, provided that: "A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subparagraph (A) of section 1313(c)(1) of the Reform Act \[Pub. L. 99–514, set out above\] if such bond met the requirement of such subparagraph as in effect before the amendments made by this paragraph\[amending section 1313(c) of Pub. L. 99–514, set out above\]."\]
 
 \[Pub. L. 100–647, title I, §1013(c)(14)(B), Nov. 10, 1988, 102 Stat. 3547, provided that: "The amendment made by subparagraph (A) \[amending section 1313 of Pub. L. 99–514, set out above\] shall apply with respect to refunding bonds issued after October 16, 1987."\]
 

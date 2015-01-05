@@ -26,7 +26,7 @@ Whenever the Secretary finds that a member of a foreign mission, a member of the
 
 &emsp;(3) has not satisfied a court-rendered judgment against him or is not legally liable,
 
-> the Secretary shall impose a surcharge or fee on the foreign mission of which such member or individual is a part, amounting to the unsatisfiedportion of the judgment rendered against such member or individual or, if there is no court-rendered judgment, an estimated amount of damages incurred by the victim. The payment of any such surcharge or fee shall be available only for compensation of the victim or his estate.
+> the Secretary shall impose a surcharge or fee on the foreign mission of which such member or individual is a part, amounting to the unsatisfied portion of the judgment rendered against such member or individual or, if there is no court-rendered judgment, an estimated amount of damages incurred by the victim. The payment of any such surcharge or fee shall be available only for compensation of the victim or his estate.
 
 #### (c) Definitions
 

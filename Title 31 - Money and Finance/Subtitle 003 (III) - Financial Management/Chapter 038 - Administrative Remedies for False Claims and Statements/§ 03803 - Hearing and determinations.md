@@ -10,7 +10,7 @@
 
 &emsp;(C) a description of the claims or statements for which liability under section 3802 of this title is alleged;
 
-&emsp;(D) an estimate of the amount of money or the value of property or services requested or demanded in violation of section 3802 of this title; and
+&emsp;(D) an estimate of the amount of money or the value of property or services requested ordemanded in violation of section 3802 of this title; and
 
 &emsp;(E) a statement of any exculpatory or mitigating circumstances which may relate to such claims or statements.
 
@@ -24,7 +24,7 @@
 
 (2) A reviewing official may refer allegations of liability to a presiding officer only if the Attorney General or an Assistant Attorney General designated by the Attorney General approves the referral of such allegations in a written statement described in paragraph (1) of this subsection.
 
-(3) If the Attorney General or an Assistant Attorney General designated by the Attorney General transmits to an authority head a written finding that the continuation of any hearing under this section with respect to a claim orstatement may adversely affect any pending or potential criminal or civil action related to such claim or statement, such hearing shall be immediately stayed and may be resumed only upon written authorization of the Attorney General.
+(3) If the Attorney General or an Assistant Attorney General designated by the Attorney General transmits to an authority head a written finding that the continuation of any hearing under this section with respect to a claim or statement may adversely affect any pending or potential criminal or civil action related to such claim or statement, such hearing shall be immediately stayed and may be resumed only upon written authorization of the Attorney General.
 
 (c)(1) No allegations of liability under section 3802 of this title with respect to any claim made, presented, or submitted by any person shall be referred to a presiding officer under paragraph (2) of subsection (b) if the reviewing official determines that—
 
@@ -64,7 +64,7 @@
 
 &emsp;(vi) benefits under title XX of the Social Security Act;
 
-&emsp;(vii) benefits under the supplemental nutrition assistance program (as defined in section 3(l) of the Food and Nutrition Act of 2008);
+&emsp;(vii) benefits under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008);
 
 &emsp;(viii) benefits under chapters 11, 13, 15, 17, and 21 of title 38;
 
@@ -98,7 +98,7 @@
 
 (B) A person is not entitled under subparagraph (A) to review and obtain a copy of any document, transcript, record, or material which is privileged under Federal law.
 
-(2) At any time after receiving a notice under paragraph (2)(B) of subsection (d), the person receiving such notice shall be entitled to obtain all exculpatory information in the possession ofthe investigating official or the reviewing official relating to the allegations contained in such notice. The provisions of subparagraph (B) of paragraph (1) do not apply to any document, transcript, record, or other material, or any portion thereof, in which such exculpatory information is contained.
+(2) At any time after receiving a notice under paragraph (2)(B) of subsection (d), the person receiving such notice shall be entitled to obtain all exculpatory information in the possession of the investigating official or the reviewing official relating to the allegations contained in such notice. The provisions of subparagraph (B) of paragraph (1) do not apply to any document, transcript, record, or other material, or any portion thereof, in which such exculpatory information is contained.
 
 (f) Any hearing commenced under paragraph (2) of subsection (d) shall be conducted by the presiding officer on the record in order to determine—
 
@@ -152,7 +152,7 @@
 
 (B) The procedures referred to in subparagraph (A) of this paragraph are:
 
-&emsp;(i) Procedures for the inclusion, in any written notice of a hearing under this section to any person alleged to be liable under section 3802 of this title, of a description of the procedures for the conduct of the hearing.
+&emsp;(i) Procedures for the inclusion, in any written notice of a hearing under this section to any person alleged to be liable under section3802 of this title, of a description of the procedures for the conduct of the hearing.
 
 &emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
 
@@ -164,7 +164,7 @@
 
 &emsp;(C) in such other place as may be agreed upon by such person and the presiding officer who will conduct such hearing.
 
-(h) The presiding officer shall issue a written decision, including findings and determinations,after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liable under section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
+(h) The presiding officer shall issue a written decision, including findings and determinations, after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liable under section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
 
 (i)(1) Except as provided in paragraph (2) of this subsection and section 3805 of this title, the decision, including the findings and determinations, of the presiding officer issued under subsection (h) of this section are final.
 
@@ -178,13 +178,13 @@
 
 (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(o), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(o), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 113–79, title IV, §4030(o), Feb. 7, 2014, 128 Stat. 815.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XVIII (§1395 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to section 1396a(a) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3(l) of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012(l) of Title 7, Agriculture.
+Section 3 of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012 of Title 7, Agriculture.
 
 The Black Lung Benefits Act, referred to in subsec. (c)(2)(C)(ix), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended, which is classified generally to subchapter IV (§901 et seq.) of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
@@ -205,6 +205,8 @@ The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2)(C)(vii). Pub. L. 113–79 substituted "section 3" for "section 3(l)".
 
 <b>2008</b>—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted "section 3(l)" for "section 3(h)".
 

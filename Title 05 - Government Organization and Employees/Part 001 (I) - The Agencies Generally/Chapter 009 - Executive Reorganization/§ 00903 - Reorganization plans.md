@@ -1,6 +1,6 @@
 ### §903. Reorganization plans
 
-(a) Whenever the President, after investigation, finds that changes in the organization of agencies are necessary to carry out any policy set forth in section 901(a) of this title, he shallprepare a reorganization plan specifying the reorganizations he finds are necessary. Any plan may provide for—
+(a) Whenever the President, after investigation, finds that changes in the organization of agencies are necessary to carry out any policy set forth in section 901(a) of this title, he shall prepare a reorganization plan specifying the reorganizations he finds are necessary. Any plan may provide for—
 
 &emsp;(1) the transfer of the whole or a part of an agency, or of the whole or a part of the functions thereof, to the jurisdiction and control of another agency;
 
@@ -38,9 +38,9 @@ Act
 
 June 20, 1949, ch. 226, §3, 63 Stat. 203.
 
-In subsection (a)(5), the words “officer in the civil service or uniformed services” are substituted for “officer” to conform to the definitions in sections 2101 and 2104.
+In subsection (a)(5), the words "officer in the civil service or uniformed services" are substituted for "officer" to conform to the definitions in sections 2101 and 2104.
 
-In subsection (b), the words “The President shall have a reorganization plan delivered” as substituted for “The delivery . . . shall be”.
+In subsection (b), the words "The President shall have a reorganization plan delivered" as substituted for "The delivery . . . shall be".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -50,9 +50,9 @@ Section 1(99) amends section 903(a)(5) of title 5, United States Code, to confor
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–614, §4, inserted “In addition, the President's message shall include an implementation section which shall (1) describe in detail (A) the actions necessary or planned to complete the reorganization, (B) the anticipated nature and substance of any orders, directives, and other administrative and operational actions which are expected to be required for completing or implementing the reorganization, and (C) any preliminary actions which have been taken in the implementation process, and (2) contain a projected timetable for completion of the implementation process. The President shall also submit such further background or other information as the Congress may require for its consideration of the plan.”
+<b>1984</b>—Subsec. (b). Pub. L. 98–614, §4, inserted "In addition, the President's message shall include an implementation section which shall (1) describe in detail (A) the actions necessary or planned to complete the reorganization, (B) the anticipated nature and substance of any orders, directives, and other administrative and operational actions which are expected to be required for completing or implementing the reorganization, and (C) any preliminary actions which have been taken in the implementation process, and (2) contain a projected timetable for completion of the implementation process. The President shall also submit such further background or other information as the Congress may require for its consideration of the plan."
 
-Subsec. (c). Pub. L. 98–614, §3(b)(1), (2), substituted “60 calendar days” for “thirty calendar days”, and “90 calendar days” for “sixty calendar days”.
+Subsec. (c). Pub. L. 98–614, §3(b)(1), (2), substituted "60 calendar days" for "thirty calendar days", and "90 calendar days" for "sixty calendar days".
 
 <b>1977</b>—Subsec. (a)(2). Pub. L. 95–17 inserted provision that no enforcement function or statutory program shall be abolished by the plan.
 
@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 95–17 substituted provisions limiting to three the number
 
 Subsec. (c). Pub. L. 95–17 added subsec. (c).
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–179, §2(a), restructured provisions covering requirements of findings of fact andcertification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
+<b>1971</b>—Subsec. (a). Pub. L. 92–179, §2(a), restructured provisions covering requirements of findings of fact and certification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
 
 Subsec. (b). Pub. L. 92–179, §2(b), inserted provisions limiting to one plan within any period of thirty consecutive days the allowable number of plans submitted.
 

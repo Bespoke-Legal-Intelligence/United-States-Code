@@ -12,9 +12,9 @@
 
 (5) Upon certification by the liquidating agent in the case of an involuntary liquidation, and upon such proof as shall be satisfactory to the Board in the case of a voluntary liquidation, that distribution has been made and that liquidation has been completed, as provided herein, the Board shall cancel the charter of such Federal credit union; but the corporate existence of the Federal credit union shall continue for a period of three years from the date of such cancellation of its charter, during which period the liquidating agent, or his duly appointed successor, or such persons as the Board shall designate, may act on behalf of the Federal credit union for the purpose of paying, satisfying, and discharging any existing liabilities or obligations, collecting and distributing its assets, and doing all other acts required to adjust and wind up its business and affairs, and it may sue and be sued in its corporate name.
 
-(c) After the expiration of five years from the date of cancellation of the charter of a Federal credit union the Board may, in its discretion, destroy any or all books and records of suchFederal credit union in its possession or under its control.
+(c) After the expiration of five years from the date of cancellation of the charter of a Federal credit union the Board may, in its discretion, destroy any or all books and records of such Federal credit union in its possession or under its control.
 
-(d) The Board is authorized and empowered to execute any and all functions and perform any and all duties vested in it hereby, through such persons as it shall designate or employ; and it may delegate to any person or persons, including any institution operating under the general supervision of the Administration, the performance and discharge of any authority, power, or function vested in it by this chapter.
+(d) The Board is authorized and empowered to execute any and all functions and perform anyand all duties vested in it hereby, through such persons as it shall designate or employ; and it may delegate to any person or persons, including any institution operating under the general supervision of the Administration, the performance and discharge of any authority, power, or function vested in it by this chapter.
 
 (e) All books and records of Federal credit unions shall be kept and reports shall be made in accordance with forms approved by the Board.
 
@@ -44,7 +44,7 @@ Staff.—
 
 &emsp;(1)
 
-Appointment and compensation.—The Board shall fix the compensation and number of, and appoint and direct, employees of the Board. Rates of basic pay for employees of theBoard may be set and adjusted by the Board without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5.
+Appointment and compensation.—The Board shall fix the compensation and number of, and appoint and direct, employees of the Board. Rates of basic pay for employees of the Board may be set and adjusted by the Board without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5.
 
 &emsp;(2)
 

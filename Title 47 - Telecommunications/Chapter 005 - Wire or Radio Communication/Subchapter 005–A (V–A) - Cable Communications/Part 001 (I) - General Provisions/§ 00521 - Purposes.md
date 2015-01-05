@@ -98,7 +98,7 @@ Statement of Policy.—It is the policy of the Congress in this Act \[enacting s
 
 #### Sports Programming Migration Study and Report
 
-Pub. L. 102–385, §26, Oct. 5, 1992, 106 Stat. 1502, directed Federal Communications Commission to investigate and analyze, on a sport-by-sport basis, trends in migration of local, regional, and national sports programming from carriage by broadcast stations to carriage over cable programming networks and pay-per-view systems, including economic causes and consequences of such trends, and further directed Commission to submit to Congress interim and final reports of such study, no later than July 1, 1993, and July 1, 1994, respectively, along with recommendations for legislative or regulatory activity.
+Pub. L. 102–385, §26, Oct. 5, 1992, 106 Stat. 1502, directed Federal Communications Commission to investigate and analyze, on a sport-by-sport basis, trends in migration of local, regional, and national sports programming from carriage by broadcast stations to carriage over cable programming networks and pay-per-view systems, including economic causes and consequences of such trends, and further directed Commission to submit to Congress interim and final reports ofsuch study, no later than July 1, 1993, and July 1, 1994, respectively, along with recommendations for legislative or regulatory activity.
 
 #### Applicability of Antitrust Laws to Pub. L. 102–385
 

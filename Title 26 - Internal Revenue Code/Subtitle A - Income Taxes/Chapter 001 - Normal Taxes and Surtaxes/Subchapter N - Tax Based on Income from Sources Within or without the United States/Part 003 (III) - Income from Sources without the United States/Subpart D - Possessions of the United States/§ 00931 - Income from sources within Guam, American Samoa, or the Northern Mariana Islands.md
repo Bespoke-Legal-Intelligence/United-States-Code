@@ -64,11 +64,11 @@ Pub. L. 99–514, title XII, §1277, Oct. 22, 1986, 100 Stat. 2600, as amended b
 
 "(a)
 
-In General.—Except as otherwise provided in this section, the amendments made by this subtitle\[subtitle G (§§1271–1277) of title XII of Pub. L. 99–514, enacting section 932 of this title, amending this section and sections 28, 32, 48, 63, 153, 246, 338, 864, 876, 881, 933, 934, 936, 957, 1402, 1442, 3401, 6091, 7651, 7654, and 7655 of this title, repealing sections 932, 934A, and 935 of this title, and enacting provisions set out as notes under this section and section 932 of this title\] shall apply to taxable years beginning after December 31, 1986.
+In General.—Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle G (§§1271–1277) of title XII of Pub. L. 99–514, enacting section 932 of this title, amending this section and sections 28, 32, 48, 63, 153, 246, 338, 864, 876, 881, 933, 934, 936, 957, 1402, 1442, 3401, 6091, 7651, 7654, and 7655 of this title, repealing sections 932, 934A, and 935 of this title, and enacting provisions set out as notes under this section and section 932 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 "(b)
 
-Special Rule for Guam, American Samoa, and the Northern Mariana Islands.—The amendments made by this subtitle shall apply with respect to Guam, American Samoa, or the Northern Mariana Islands (and to residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement under section 1271 \[set out below\] is in effect between the United States and such possession.
+Special Rule for Guam, American Samoa, and the Northern Mariana Islands.—The amendmentsmade by this subtitle shall apply with respect to Guam, American Samoa, or the Northern Mariana Islands (and to residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement under section 1271 \[set out below\] is in effect between the United States and such possession.
 
 "(c)
 
@@ -166,11 +166,11 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 Amendment by section 1051(c) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1975, with certain exceptions, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
-Amendment by section 1901(a)(117) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(117) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shall apply with respect to taxable years beginning after December 31, 1972."
+Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shallapply with respect to taxable years beginning after December 31, 1972."
 
 #### Effective Date of 1971 Amendment
 

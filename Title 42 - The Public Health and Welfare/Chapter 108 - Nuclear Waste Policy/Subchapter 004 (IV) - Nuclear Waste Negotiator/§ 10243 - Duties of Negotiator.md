@@ -24,7 +24,7 @@ The Negotiator may solicit and consider the comments of the Secretary, the Nucle
 
 #### (d) Proposed agreement
 
-(1) The Negotiator shall submit to the Congress any proposed agreement between theUnited States and a State or Indian tribe negotiated under subsection (a) of this section and an environmental assessment prepared under section 10244(a) of this title for the site concerned.
+(1) The Negotiator shall submit to the Congress any proposed agreement between the United States and a State or Indian tribe negotiated under subsection (a) of this section and an environmental assessment prepared under section 10244(a) of this title for the site concerned.
 
 (2) Any such proposed agreement shall contain such terms and conditions (including such financial and institutional arrangements) as the Negotiator and the host State or Indian tribe determine to be reasonable and appropriate and shall contain such provisions as are necessary to preserve any right to participation or compensation of such State, affected unit of local government, or Indian tribe under sections 10136(c), 10137, and 10138(b) of this title.
 
@@ -34,7 +34,7 @@ The Negotiator may solicit and consider the comments of the Secretary, the Nucle
 
 (4) Notwithstanding any proposed agreement under this section, the Secretary may construct a repository or monitored retrievable storage facility at a site agreed to under this subchapter only if authorized by the Nuclear Regulatory Commission in accordance with the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], title II of the Energy Reorganization Act of 1982 (42 U.S.C. 5841 et seq.) and any other law applicable to authorization of such construction.
 
-(Pub. L. 97–425, title IV, §403, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5041, Dec. 22, 1987, 101 Stat. 1330–244.)
+(Pub. L. 97–425, title IV, §403, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat.1329–104, 1329–121; Pub. L. 100–203, title V, §5041, Dec. 22, 1987, 101 Stat. 1330–244.)
 
 #### References in Text
 

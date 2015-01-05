@@ -132,7 +132,7 @@ Pub. L. 106–50, title I, §101, Aug. 17, 1999, 113 Stat. 234, provided that: "
 
 &emsp;"(2) In serving the United States, veterans often faced great risks to preserve the American dream of freedom and prosperity.
 
-&emsp;"(3) The United States has done too little to assist veterans, particularly service-disabled veterans, inplaying a greater role in the economy of the United States by forming and expanding small business enterprises.
+&emsp;"(3) The United States has done too little to assist veterans, particularly service-disabled veterans, in playing a greater role in the economy of the United States by forming and expanding small business enterprises.
 
 &emsp;"(4) Medical advances and new medical technologies have made it possible for service-disabled veterans to play a much more active role in the formation and expansion of small business enterprises in the United States.
 
@@ -140,7 +140,7 @@ Pub. L. 106–50, title I, §101, Aug. 17, 1999, 113 Stat. 234, provided that: "
 
 #### Congressional Purpose
 
-Pub. L. 106–50, title I, §102, Aug. 17, 1999, 113 Stat. 234, provided that: "The purpose of this Act \[see Short Title of 1999 Amendments note set out under section 631 of this title\] is to expand existing and establish new assistance programs for veterans who own or operate small businesses. This Act accomplishes this purpose by—
+Pub. L. 106–50, title I, §102, Aug. 17, 1999, 113 Stat. 234, provided that: "The purpose of this Act \[see Short Titleof 1999 Amendments note set out under section 631 of this title\] is to expand existing and establish new assistance programs for veterans who own or operate small businesses. This Act accomplishes this purpose by—
 
 &emsp;"(1) expanding the eligibility for certain small business assistance programs to include veterans;
 
@@ -366,7 +366,7 @@ Information on Federal Procurement Practices.—The Administrator of the Small B
 
 "(b)
 
-Identification of Small Business Concerns Owned by Eligible Veterans.—Each fiscal year, the Secretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans' Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraphthat information on Federal procurement is available from the Administrator.
+Identification of Small Business Concerns Owned by Eligible Veterans.—Each fiscal year, the Secretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans' Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraph that information on Federal procurement is available from the Administrator.
 
 "(c)
 
@@ -374,7 +374,7 @@ Self-Employment Opportunities.—The Secretary of Labor, the Secretary of Vetera
 
 "(d)
 
-Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 405(d)(4)(A)) \[now 41 U.S.C. 1122(a)(4)(A)\] shall be modified to collect data regarding the percentage and dollar value of prime contracts and subcontracts awarded to small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans."
+Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\]41 U.S.C. 405(d)(4)(A)) \[now 41 U.S.C. 1122(a)(4)(A)\] shall be modified to collect data regarding the percentage and dollar value of prime contracts and subcontracts awarded to small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans."
 
 #### Ex. Ord. No. 13540. Interagency Task Force on Veterans Small Business Development
 

@@ -24,7 +24,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;(A) $7,000, or
 
-&emsp;&emsp;(B) an amount equal to 25 percent of the compensation (as defined in section 415(c)(3)) includible in the individual's gross income for such taxable year.
+&emsp;&emsp;(B) an amount equal to 25 percent of the compensation (as defined in section 415(c)(3))includible in the individual's gross income for such taxable year.
 
 #### (4) Special rule for simple retirement accounts
 
@@ -36,29 +36,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 #### (A) In general
 
-&emsp;&emsp;The deductible amount shall be determined in accordance with the following table:
-
-<b> For taxable years</b>
-
-<b>The deductible</b>
-
-<b>  beginning in:</b>
-
-<b>amount is: </b>
-
-&emsp;&emsp;2002 through 2004
-
-$3,000&nbsp;&nbsp;
-
-&emsp;&emsp;2005 through 2007
-
-$4,000&nbsp;&nbsp;
-
-&emsp;&emsp;2008 and thereafter
-
-$5,000.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;The deductible amount is $5,000.
 
 #### (B) Catch-up contributions for individuals 50 or older
 
@@ -68,57 +46,9 @@ $5,000.
 
 #### (ii) Applicable amount
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the applicable amount shall be the amount determined in accordance with the following table:
+&emsp;&emsp;&emsp;For purposes of clause (i), the applicable amount is $1,000.
 
-<b> For taxable years</b>
-
-<b>The applicable</b>
-
-<b>  beginning in:</b>
-
-<b>amount is: </b>
-
-&emsp;&emsp;2002 through 2005
-
-$500&nbsp;&nbsp;
-
-&emsp;&emsp;2006 and thereafter
-
-$1,000.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### (C) Catchup contributions for certain individuals
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;In the case of an applicable individual who elects to make a qualified retirement contribution in addition to the deductible amount determined under subparagraph (A)—
-
-&emsp;&emsp;&emsp;&emsp;(I) the deductible amount for any taxable year shall be increased by an amount equal to 3 times the applicable amount determined under subparagraph (B) for such taxable year, and
-
-&emsp;&emsp;&emsp;&emsp;(II) subparagraph (B) shall not apply.
-
-#### (ii) Applicable individual
-
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "applicable individual" means, with respect to any taxable year, any individual who was a qualified participant in a qualified cash or deferred arrangement (as defined in section 401(k)) of an employer described in clause (iii) under which the employer matched at least 50 percent of the employee's contributions to such arrangement with stock of such employer.
-
-#### (iii) Employer described
-
-&emsp;&emsp;&emsp;An employer is described in this clause if, in any taxable year preceding the taxable year described in clause (ii)—
-
-&emsp;&emsp;&emsp;&emsp;(I) such employer (or any controlling corporation of such employer) was adebtor in a case under title 11 of the United States Code, or similar Federal or State law, and
-
-&emsp;&emsp;&emsp;&emsp;(II) such employer (or any other person) was subject to an indictment or conviction resulting from business transactions related to such case.
-
-#### (iv) Qualified participant
-
-&emsp;&emsp;&emsp;For purposes of clause (ii), the term "qualified participant" means any applicable individual who was a participant in the cash or deferred arrangement described in such clause on the date that is 6 months before the filing of the case described in clause (iii).
-
-#### (v) Termination
-
-&emsp;&emsp;&emsp;This subparagraph shall not apply to taxable years beginning after December 31, 2009.
-
-#### (D) Cost-of-living adjustment
+#### (C) Cost-of-living adjustment
 
 #### (i) In general
 
@@ -200,9 +130,7 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 &emsp;For purposes of this section, a taxpayer shall be deemed to have made a contribution to an individual retirement plan on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
 
-#### (4) Reports
-
-&emsp;The Secretary shall prescribe regulations which prescribe the time and the manner in which reports to the Secretary and plan participants shall be made by the plan administrator of a qualified employer or government plan receiving qualified voluntary employee contributions.
+#### \[(4) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(39)(A), Dec. 19, 2014, 128 Stat. 4043\]
 
 #### (5) Employer payments
 
@@ -256,7 +184,7 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 &emsp;&emsp;&emsp;&emsp;(II) the applicable dollar amount, bears to
 
-&emsp;&emsp;&emsp;(ii) $10,000 ($20,000 in the case of a joint return for a taxable year beginning after December 31, 2006).
+&emsp;&emsp;&emsp;(ii) $10,000 ($20,000 in the case of a joint return).
 
 #### (B) No reduction below $200 until complete phase-out
 
@@ -282,117 +210,9 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 &emsp;&emsp;The term "applicable dollar amount" means the following:
 
-&emsp;&emsp;&emsp;(i) In the case of a taxpayer filing a joint return:
+&emsp;&emsp;&emsp;(i) In the case of a taxpayer filing a joint return, $80,000.
 
-&nbsp;
-
-<b>The</b>
-
-&nbsp;
-
-<b>applicable</b>
-
-<b>For taxable years beginning in:</b>
-
-<b>dollar amount</b>
-
-&nbsp;
-
-<b>is:</b>
-
-&nbsp;&nbsp;1998
-
-$50,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;1999
-
-$51,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2000
-
-$52,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2001
-
-$53,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2002
-
-$54,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2003
-
-$60,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2004
-
-$65,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2005
-
-$70,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2006
-
-$75,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2007 and thereafter
-
-$80,000.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&emsp;(ii) In the case of any other taxpayer (other than a married individual filing a separate return):
-
-&nbsp;
-
-<b>The</b>
-
-&nbsp;
-
-<b>applicable</b>
-
-<b>For taxable years beginning in:</b>
-
-<b>dollar amount</b>
-
-&nbsp;
-
-<b>is:</b>
-
-&nbsp;&nbsp;1998
-
-$30,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;1999
-
-$31,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2000
-
-$32,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2001
-
-$33,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2002
-
-$34,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2003
-
-$40,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2004
-
-$45,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;2005 and thereafter
-
-$50,000.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;(ii) In the case of any other taxpayer (other than a married individual filing a separate return), $50,000.
 
 &emsp;&emsp;&emsp;(iii) In the case of a married individual filing a separate return, zero.
 
@@ -454,7 +274,7 @@ $50,000.
 
 #### (8) Inflation adjustment
 
-&emsp;In the case of any taxable year beginning in a calendar year after 2006, the dollar amount in the last row of the table contained in paragraph (3)(B)(i), the dollar amount in the last row of the table contained in paragraph (3)(B)(ii), and the dollar amount contained in paragraph (7)(A), shall each be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall each <sup>2</sup> be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -462,11 +282,7 @@ $50,000.
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-#### (h) Cross reference
-
-&emsp;&emsp;<b>For failure to provide required reports, see section 6652(g).</b>
-
-(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I,§101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629; Pub. L. 113–22, §1, July 25, 2013, 127 Stat. 492.)
+(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629; Pub. L. 113–22, §1, July 25, 2013, 127 Stat. 492; Pub. L. 113–295, div. A, title II, §221(a)(38), (39)(A), Dec. 19, 2014, 128 Stat. 4043.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -477,6 +293,22 @@ $50,000.
 A prior section 219 was renumbered section 224 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(5)(A). Pub. L. 113–295, §221(a)(38)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) listed deductible amounts for taxable years 2002 to 2008 and thereafter.
+
+Subsec. (b)(5)(B)(ii). Pub. L. 113–295, §221(a)(38)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) listed applicable amounts for taxable years 2002 to 2006 and thereafter.
+
+Subsec. (b)(5)(C), (D). Pub. L. 113–295, §221(a)(38)(C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to catchup contributions for certain individuals for taxable years beginning before Dec. 31, 2009.
+
+Subsec. (f)(4). Pub. L. 113–295, §221(a)(39)(A), struck out par. (4). Text read as follows: "The Secretary shall prescribe regulations which prescribe the time and the manner in which reports to the Secretary and plan participants shall be made by the plan administrator of a qualified employer or government plan receiving qualified voluntary employee contributions."
+
+Subsec. (g)(2)(A)(ii). Pub. L. 113–295, §221(a)(38)(D), struck out "for a taxable year beginning after December 31, 2006" after "joint return".
+
+Subsec. (g)(3)(B)(i), (ii). Pub. L. 113–295, §221(a)(38)(E), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which related to applicable dollar amounts for a taxpayer filing a joint return for taxable years 1998 to 2007 and thereafter and for any other taxpayer (other than a married individual filing a separate return) for taxable years 1998 to 2005 and thereafter, respectively.
+
+Subsec. (g)(8). Pub. L. 113–295, §221(a)(38)(F), substituted "each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A)" for "the dollar amount in the last row of the table contained in paragraph (3)(B)(i), the dollar amount in the last row of the table contained in paragraph (3)(B)(ii), and the dollar amount contained in paragraph (7)(A)," in introductory provisions.
+
+Subsec. (h). Pub. L. 113–295, §221(a)(39)(A), struck out subsec. (h) which read as follows: "For failure to provide required reports, see section 6652(g)."
 
 <b>2013</b>—Subsec. (c). Pub. L. 113–22 substituted "Kay Bailey Hutchison Spousal IRA" for "Special rules for certain married individuals" in heading.
 
@@ -552,7 +384,7 @@ Subsec. (g)(3)(A)(ii). Pub. L. 101–239, §7816(c)(1), made technical correctio
 
 <b>1988</b>—Subsec. (g)(3)(A)(ii). Pub. L. 100–647, §6009(c)(2), as amended by Pub. L. 101–239, §7816(c)(1), substituted "sections 135 and 911" for "section 911".
 
-Subsec. (g)(4). Pub. L. 100–647, §1011(a)(1), inserted "and living apart" after "filing separately" in headingand amended text generally. Prior to amendment, text read as follows: "In the case of a married individual filing a separate return for any taxable year, paragraph (1) shall be applied without regard to whether such individual's spouse is an active participant for any plan year ending with or within such taxable year."
+Subsec. (g)(4). Pub. L. 100–647, §1011(a)(1), inserted "and living apart" after "filing separately" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of a married individual filing a separate return for any taxable year, paragraph (1) shall be applied without regard to whether such individual's spouse is an active participant for any plan year ending with or within such taxable year."
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §1108(g)(2), amended par. (2) generally, substituting provision that this section shall not apply with respect to an employer contribution to a simplified employee pension for former provisions consisting of subpars. (A), (B), and (C) which set out detailed limits on deductibility of employer contributions.
 
@@ -688,9 +520,13 @@ Subsec. (c)(3). Pub. L. 94–455, §1501(b)(4)(D), added par. (3).
 
 Subsec. (c)(4). Pub. L. 94–455, §1503(a), added par. (4).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–245, title I, §105(b)(3), June 17, 2008, 122 Stat. 1629, provided that: "The amendments made bythis subsection \[amending this section and section 414 of this title\] shall apply to years beginning after December 31, 2008."
+Pub. L. 110–245, title I, §105(b)(3), June 17, 2008, 122 Stat. 1629, provided that: "The amendments made by this subsection \[amending this section and section 414 of this title\] shall apply to years beginning after December 31, 2008."
 
 #### Effective Date of 2006 Amendment
 
@@ -776,7 +612,7 @@ Pub. L. 99–514, title XI, §1108(h), Oct. 22, 1986, 100 Stat. 2435, as amended
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 402, 404, 408, 415, 3121, and 3306 of this title\] shall apply to years beginning after December 31, 1986.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 402, 404, 408, 415, 3121, and 3306 of this title\] shall apply to years beginning after December 31, 1986.
 
 "(2)
 
@@ -870,7 +706,7 @@ Pub. L. 95–600, title VII, §703(c)(5), Nov. 6, 1978, 92 Stat. 2939, provided 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1501(b)(4) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 1501(d) of Pub. L. 94–455, set out as an Effective Date note under section 62 of this title.
+Amendment by section 1501(b)(4) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976,see section 1501(d) of Pub. L. 94–455, set out as an Effective Date note under section 62 of this title.
 
 Pub. L. 94–455, title XV, §1503(b), Oct. 4, 1976, 90 Stat. 1738, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975."
 
@@ -937,4 +773,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 Pub. L. 95–600, title I, §157(b)(4)(B), Nov. 6, 1978, 92 Stat. 2805, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If, but for this subparagraph, an amount would be allowable as a deduction by reason of section 219(c)(5) or 220(c)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for a taxable year beginning before January 1, 1978, such amount shall be allowable only for the taxpayer's first taxable year beginning in 1978."
 
 <i><sup>1</sup></i><i> So in original. Probably should be set off by quotation marks.</i>
+
+<i><sup>2</sup></i><i> So in original. The word "each" probably should not appear.</i>
 

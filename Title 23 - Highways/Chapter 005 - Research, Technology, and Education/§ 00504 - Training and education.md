@@ -54,7 +54,7 @@ In general.—The Institute shall—
 
 &emsp;&emsp;(B)
 
-Additional courses.—In addition to the courses developed under subparagraph\(A), the Institute, in consultation with State transportation departments, metropolitan planning organizations, and the American Association of State Highway and Transportation Officials, may develop courses relating to technology, methods, techniques, engineering, construction, safety, maintenance, environmental mitigation and compliance, regulations, management, inspection, and finance.
+Additional courses.—In addition to the courses developed under subparagraph (A), the Institute, in consultation with State transportation departments, metropolitan planning organizations, and the American Association of State Highway and Transportation Officials, may develop courses relating to technology, methods, techniques, engineering, construction, safety, maintenance, environmental mitigation and compliance, regulations, management, inspection, and finance.
 
 &emsp;&emsp;(C)
 
@@ -66,7 +66,7 @@ Revision of courses offered.—The Institute shall periodically—
 
 &emsp;(4)
 
-Set-aside; federal share.—Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(3) <sup>1</sup> for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
+Set-aside; federal share.—Not to exceed ½ of 1 percent of the funds apportioned toa State under section 104(b)(3) <sup>1</sup> for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
 
 &emsp;(5)
 
@@ -154,7 +154,7 @@ Grants, cooperative agreements, and contracts.—The Secretary may make grants a
 
 &emsp;&emsp;&emsp;&emsp;(II) intergovernmental transportation planning and project selection; and
 
-&emsp;&emsp;&emsp;(iv) deal effectively with special transportation-related problems by preparing and providing training packages, manuals,guidelines, and technical resource materials;
+&emsp;&emsp;&emsp;(iv) deal effectively with special transportation-related problems by preparing and providing training packages, manuals, guidelines, and technical resource materials;
 
 &emsp;&emsp;(B) develop technical assistance for tourism and recreational travel;
 
@@ -266,7 +266,7 @@ Surface Transportation Workforce Development, Training, and Education.—
 
 Funding.—Subject to project approval by the Secretary, a State may obligate funds apportioned to the State under paragraphs (1) through (4) of section 104(b) for surface transportation workforce development, training, and education, including—
 
-&emsp;&emsp;(A) tuition and direct educational expenses, excluding salaries, in connectionwith the education and training of employees of State and local transportation agencies;
+&emsp;&emsp;(A) tuition and direct educational expenses, excluding salaries, in connection with the education and training of employees of State and local transportation agencies;
 
 &emsp;&emsp;(B) employee professional development;
 
@@ -358,7 +358,7 @@ Federal share.—The Federal share of the cost of an activity carried out under 
 
 &emsp;(6)
 
-Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to <sup>2</sup> and enter into contracts and cooperative agreements with a Federal agency,State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to <sup>2</sup> and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 
 (h)
 
@@ -458,7 +458,7 @@ Establishment.—The Secretary \[of Transportation\] shall establish a Center fo
 
 Activities.—In carrying out this section, the Center shall—
 
-&emsp;"(1) provide training, information, and professional resources for small metropolitan and rural regions topursue innovative strategies to expand the capabilities, capacity, and effectiveness of a region's transportation network, including activities related to freight projects, transit system upgrades, roadways and bridges, and intermodal transfer facilities and operations;
+&emsp;"(1) provide training, information, and professional resources for small metropolitan and rural regions to pursue innovative strategies to expand the capabilities, capacity, and effectiveness of a region's transportation network, including activities related to freight projects, transit system upgrades, roadways and bridges, and intermodal transfer facilities and operations;
 
 &emsp;"(2) assist local officials, rural transportation and economic development planners, officials from State departments of transportation and economic development, business leaders, and other stakeholders in developing public-private partnerships to enhance their transportation systems; and
 

@@ -44,7 +44,7 @@ Historical and Revision Notes
 
 46:201
 
-Section 11301 requires United States vessels on certain types of voyages to have an official logbook and lists the types of entries that must be made in the logbook.
+Section 11301 requires United States vessels on certain types of voyages to have an official logbook andlists the types of entries that must be made in the logbook.
 
 #### Amendments
 

@@ -58,7 +58,7 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
 <b>1999</b>—Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment note below.
 
-<b>1994</b>—Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting "foreign airtransportation," for "foreign air transportation or between places in Alaska,", effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
+<b>1994</b>—Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting "foreign air transportation," for "foreign air transportation or between places in Alaska,", effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 
 #### Effective Date of 1999 Amendment
 

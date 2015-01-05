@@ -40,9 +40,9 @@ For any calendar year after 1988, if an individual is entitled to monthly benefi
 
 #### (g) Exclusions from estimate of benefits and administrative costs
 
-In estimating the benefits and administrative costs which will be payable from the FederalSupplementary Medical Insurance Trust Fund for a year for purposes of determining the monthly premium rate under subsection (a)(3) of this section, the Secretary shall exclude an estimate of any benefits and administrative costs attributable to—
+In estimating the benefits and administrative costs which will be payable from the Federal Supplementary Medical Insurance Trust Fund for a year for purposes of determining the monthly premium rate under subsection (a)(3) of this section, the Secretary shall exclude an estimate of any benefits and administrative costs attributable to—
 
-&emsp;(1) the application of section 1395x(v)(1)(L)(viii) of this title or to the establishment under section 1395x(v)(1)(L)(i)(V) of this title of a per visit limit at 106 percent of the median (instead of 105 percent of the median), but only to the extent payment for home health services under this subchapter is not being made under section 1395fff of this title (relating to prospective payment for home health services); and
+&emsp;(1) the application of section 1395x(v)(1)(L)(viii) of this title or to the establishment under section 1395x(v)(1)(L)(i)(V) of this title of a per visit limit at 106 percent of the median (instead of 105 percent of the median), but only to the extent payment for home health services under this subchapter is not being made under section 1395fff of thistitle (relating to prospective payment for home health services); and
 
 &emsp;(2) the medicare prescription drug discount card and transitional assistance program under section 1395w–141 of this title.
 
@@ -104,35 +104,14 @@ In estimating the benefits and administrative costs which will be payable from t
 
 #### (i) In general
 
-<b>If the modified adjusted gross income is:</b>
-
-<b>The appli-</b>
-
-<b> </b>
-
-<b>cable per-</b>
-
 &nbsp;
 
-<b>centage is:</b>
-
-&nbsp;&nbsp;More than $80,000 but not more than $100,000
-
-35 percent
-
-&nbsp;&nbsp;More than $100,000 but not more than $150,000
-
-50 percent
-
-&nbsp;&nbsp;More than $150,000 but not more than $200,000
-
-65 percent
-
-&nbsp;&nbsp;More than $200,000
-
-80 percent.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>  If the modified adjusted gross   income is:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| More than $80,000 but not more than $100,000 | 35 percent&nbsp;&nbsp; |
+| More than $100,000 but not more than $150,000 | 50 percent&nbsp;&nbsp; |
+| More than $150,000 but not more than $200,000 | 65 percent&nbsp;&nbsp; |
+| More than $200,000 | 80 percent. |
 
 #### (ii) Joint returns
 
@@ -426,7 +405,7 @@ Subsec. (g). Pub. L. 97–248, §124(b), added subsec. (g).
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–499 substituted "who reenrolls) (2) the months which elapsed between the date of termination of a previous coverage period and the month after the month in which he reenrolled" for "who enrolls for a second time) (2) the months which elapsed between the date of the termination of his first coverage period and the close of the enrollment period in which he enrolled for the second time".
 
-<b>1977</b>—Subsec. (c)(3)(B). Pub. L. 95–216 substituted "the monthly premium rate most recently promulgated by the Secretary under this paragraph, increased by a percentage determined as follows: The Secretary shall ascertain the primary insurance amount computed under section 415(a)(1) of this title, based upon average indexed monthly earnings of $900, that applied to individuals who became eligible for and entitled to old-age insurance benefits on May 1 of the year of the promulgation" for "the monthly premium rate most recently promulgated by the Secretary under this paragraph or, in the case of the determination made in December 1971, such rate promulgated under subsection (b)(2) of this section multiplied by the ratio of (i) the amount in column IV of the table which, by reason of the law in effect at the time the promulgation is made, will be ineffect as of May 1 next following such determination appears (or is deemed to appear) in section 415(a) of this title on the line which includes the figure '750' in column III of such table to (ii) the amount in column IV of the table which appeared (or was deemed to appear) in section 415(a) of this title on the line which included the figure '750' in column III as of May 1 of the year in which such determination is made" and inserted "He shall increase the monthly premium rate by the same percentage by which that primary insurance amount is increased when, by reason of the law in effect at the time the promulgation is made, it is so computed to apply to those individuals on the following May 1."
+<b>1977</b>—Subsec. (c)(3)(B). Pub. L. 95–216 substituted "the monthly premium rate most recently promulgated by the Secretary under this paragraph, increased by a percentage determined as follows: The Secretary shall ascertain the primary insurance amount computed under section 415(a)(1) of this title, based upon average indexed monthly earnings of $900, that applied to individuals who became eligible for and entitled to old-age insurance benefits on May 1 of the year of the promulgation" for "the monthly premium rate most recently promulgated by the Secretary under this paragraph or, in the case of the determination made in December 1971, such rate promulgated under subsection (b)(2) of this section multiplied by the ratio of (i) the amount in column IV of the table which, by reason of the law in effect at the time the promulgation is made, will be in effect as of May 1 next following such determination appears (or is deemed to appear) in section 415(a) of this title on the line which includes the figure '750' in column III of such table to (ii) the amount in column IV of the table which appeared (or was deemed to appear) in section 415(a) of this title on the line which included the figure '750' in column III as of May 1 of the year in which such determination is made" and inserted "He shall increase the monthly premium rate by the same percentage by which that primary insurance amount is increased when, by reason of the law in effect at the time the promulgation is made, it is so computed to apply to those individuals on the following May 1."
 
 <b>1975</b>—Subsec. (c)(3). Pub. L. 94–182 substituted "May 1" for "June 1" wherever appearing.
 
@@ -504,7 +483,7 @@ Pub. L. 98–21, title VI, §606(c), Apr. 20, 1983, 97 Stat. 171, provided that:
 
 &emsp;"(1) the monthly premiums under part A and under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] for individuals enrolled under each respective part shall be the monthly premium under that part for the month of June 1983, and
 
-&emsp;"(2) the amount of the Government contributions under section 1844(a)(1) of such Act \[42 U.S.C. 1395w(a)(1)\] shall be computed on the basis of the actuarially adequate rate which would have been in effect under part B of title XVIII of such Act for such months without regard to the amendments made by this section, but using the amount of the premium in effect for the month of June 1983."
+&emsp;"(2) the amount of the Government contributions under section 1844(a)(1) of such Act \[42 U.S.C.1395w(a)(1)\] shall be computed on the basis of the actuarially adequate rate which would have been in effect under part B of title XVIII of such Act for such months without regard to the amendments made by this section, but using the amount of the premium in effect for the month of June 1983."
 
 Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was amended by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
 

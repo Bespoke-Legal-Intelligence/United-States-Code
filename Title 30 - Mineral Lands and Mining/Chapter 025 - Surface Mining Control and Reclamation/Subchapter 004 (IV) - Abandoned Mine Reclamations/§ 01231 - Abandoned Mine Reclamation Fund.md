@@ -16,7 +16,7 @@ The fund shall consist of amounts deposited in the fund, from time to time deriv
 
 &emsp;(4) recovered moneys as provided for in this subchapter; and
 
-&emsp;(5) interest credited to the fund under subsection (e) of this section.
+&emsp;(5) interest credited to the fund under subsection (e).
 
 #### (c) Use of moneys
 
@@ -30,7 +30,7 @@ Moneys in the fund may be used for the following purposes:
 
 &emsp;(4) enforcement and collection of the reclamation fee provided for in section 1232 of this title;
 
-&emsp;(5) restoration, reclamation, abatement, control, or prevention of adverse effects of coal mining which constitutes an emergency as provided for in this subchapter;
+&emsp;(5) restoration, reclamation, abatement, control, or prevention of adverse effects ofcoal mining which constitutes an emergency as provided for in this subchapter;
 
 &emsp;(6) grants to the States to accomplish the purposes of this subchapter;
 

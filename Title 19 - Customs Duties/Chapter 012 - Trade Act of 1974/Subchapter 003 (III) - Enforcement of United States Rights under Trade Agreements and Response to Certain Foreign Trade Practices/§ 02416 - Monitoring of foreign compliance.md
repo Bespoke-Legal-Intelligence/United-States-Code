@@ -28,7 +28,7 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 &emsp;&emsp;&emsp;&emsp;(I) the Trade Representative determines that implementation of a recommendation made pursuant to a dispute settlement proceeding described in clause (i) by the country is imminent; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the Trade Representative together with the petitioner involved in the initial investigation under this subchapter\(or if no petition was filed, the affected United States industry) agree that it is unnecessary to revise the retaliation list.
+&emsp;&emsp;&emsp;&emsp;(II) the Trade Representative together with the petitioner involved in the initial investigation under this subchapter (or if no petition was filed, the affected United States industry) agree that it is unnecessary to revise the retaliation list.
 
 #### (C) Schedule for revising list or action
 

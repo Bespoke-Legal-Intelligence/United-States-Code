@@ -36,7 +36,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (1) In general
 
-&emsp;In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in section 2012(n)(5) of this title, a State agency may provide an allotment for the individual to—
+&emsp;In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in section 2012(n)(5) <sup>1</sup> of this title, a State agency may provide an allotment for the individual to—
 
 &emsp;&emsp;(A) the center as an authorized representative of the individual for a period that is less than 1 month; and
 
@@ -44,7 +44,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (2) Direct payment
 
-&emsp;A State agency may require an individual referred to in paragraph (1) to designate thecenter in which the individual resides as the authorized representative of the individual for the purpose of receiving an allotment.
+&emsp;A State agency may require an individual referred to in paragraph (1) to designate the center in which the individual resides as the authorized representative of the individual for the purpose of receiving an allotment.
 
 #### (f) Alternative procedures for residents of certain group facilities
 
@@ -54,7 +54,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) of this title (referred to in this subsection as a "covered facility") may be determined and issued under this paragraph in lieu of subsection (a) of this section.
+&emsp;&emsp;&emsp;Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) <sup>1</sup> of this title (referred to in this subsection as a "covered facility") may be determined and issued under this paragraph in lieu of subsection (a).
 
 #### (ii) Limitation
 
@@ -108,7 +108,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (A) In general
 
-&emsp;&emsp;Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a) of this section.
+&emsp;&emsp;Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a).
 
 #### (B) Project plan
 
@@ -130,7 +130,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;&emsp;&emsp;(i) determine whether to authorize implementation of paragraph (1) in all States; and
 
-&emsp;&emsp;&emsp;(ii) notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, andForestry of the Senate of the determination.
+&emsp;&emsp;&emsp;(ii) notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the determination.
 
 #### (B) Determination not to authorize implementation in all States
 
@@ -157,6 +157,8 @@ Optional combined allotment for expedited households.—A State agency may provi
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Section 2012(n)(5), referred to in subsecs. (e)(1) and (f)(1)(A)(i), was redesignated as section 2012(m)(5) by Pub. L. 113–79, title IV, §4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
 
 #### Codification
 
@@ -204,7 +206,7 @@ Pub. L. 104–193, §830, added subsec. (f).
 
 <b>1993</b>—Subsec. (c)(2)(B). Pub. L. 103–66 inserted "of more than one month in" after "following any period".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–237, §909, substituted "benefits that may be provided under this chapter,whether through coupons, access devices, or otherwise" for "the allotment provided any eligible household" and "benefits" for "an allotment".
+<b>1991</b>—Subsec. (b). Pub. L. 102–237, §909, substituted "benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise" for "the allotment provided any eligible household" and "benefits" for "an allotment".
 
 Subsec. (c)(1). Pub. L. 102–237, §910(1), inserted at end "Households shall receive full months' allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month."
 
@@ -283,4 +285,6 @@ Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secret
 #### Effective Date of 1977 Amendment
 
 Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,7 +26,7 @@ A State may elect to offer a premium assistance subsidy (as defined in subsectio
 
 #### (3) Treatment as third party liability
 
-&emsp;The State shall treat the coverage provided under qualified employer-sponsored coverageas a third party liability under section 1396a(a)(25) of this title.
+&emsp;The State shall treat the coverage provided under qualified employer-sponsored coverage as a third party liability under section 1396a(a)(25) of this title.
 
 #### (c) Premium assistance subsidy
 

@@ -22,7 +22,7 @@ The Judicial Conference of the United States shall prepare a report for submissi
 
 &emsp;(10) the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.); and
 
-&emsp;(11) chapter 43 (relating to veterans’ employment and reemployment) of title 38.
+&emsp;(11) chapter 43 (relating to veterans' employment and reemployment) of title 38.
 
 > The report shall be submitted to Congress not later than December 31, 1996, and shall include any recommendations the Judicial Conference may have for legislation to provide to employees of the judicial branch the rights, protections, and procedures under the listed laws, including administrative and judicial relief, that are comparable to those available to employees of the legislative branch under subchapters I through IV of this chapter.
 
@@ -38,7 +38,7 @@ The Americans with Disabilities Act of 1990, referred to in par. (3), is Pub. L.
 
 The Age Discrimination in Employment Act of 1967, referred to in par. (4), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The Family and Medical Leave Act of 1993, referred to in par. (5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in par. (5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of thistitle, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 The Occupational Safety and Health Act of 1970, referred to in par. (6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 

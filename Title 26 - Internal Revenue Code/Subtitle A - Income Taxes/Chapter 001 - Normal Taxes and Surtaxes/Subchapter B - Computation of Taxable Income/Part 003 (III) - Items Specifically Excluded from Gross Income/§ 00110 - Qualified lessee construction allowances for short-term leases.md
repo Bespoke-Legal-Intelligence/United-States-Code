@@ -42,7 +42,7 @@ Under regulations, the lessee and lessor described in subsection (a) shall, at s
 
 #### Prior Provisions
 
-A prior section 110, act Aug. 16, 1954, ch. 736, 68A Stat. 33, related to income taxes paid by lessee corporations, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(6), Nov. 5, 1990, 104 Stat. 1388–520.
+A prior section 110, act Aug. 16, 1954, ch. 736, 68A Stat. 33, related to income taxes paid by lessee corporations,prior to repeal by Pub. L. 101–508, title XI, §11801(a)(6), Nov. 5, 1990, 104 Stat. 1388–520.
 
 #### Effective Date
 

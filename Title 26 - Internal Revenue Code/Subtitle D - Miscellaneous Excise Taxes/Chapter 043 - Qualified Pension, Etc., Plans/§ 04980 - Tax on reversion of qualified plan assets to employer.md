@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, upon an employer reversion from a qualified plan, any applicable amount istransferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if the requirements of subparagraphs (B), (C), and (D) are met.
+&emsp;&emsp;If, upon an employer reversion from a qualified plan, any applicable amount is transferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if the requirements of subparagraphs (B), (C), and (D) are met.
 
 #### (B) Investment in employer securities
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) is transferred after March 31, 1985, and before January 1, 1989, or
 
-&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occurs after March 31, 1985, and before January 1, 1989.
+&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occursafter March 31, 1985, and before January 1, 1989.
 
 #### (F) No credit or deduction allowed
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount shall be allocated to the accounts of participants as of such date, except that any amount which may not be allocated by reason of any limitation under section 415 shall be allocated to the accounts of other participants, and
 
-&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treated as an employer reversion to which this section applies.
+&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treatedas an employer reversion to which this section applies.
 
 #### (3) Pro rata benefit increases
 
@@ -398,5 +398,5 @@ Pub. L. 101–239, title VII, §7861(b), Dec. 19, 1989, 103 Stat. 2430, provided
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

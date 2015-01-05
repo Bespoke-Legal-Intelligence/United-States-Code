@@ -76,7 +76,7 @@
 
 #### (3) Time for appointment
 
-&emsp;If a vacancy occurs in an advisory council among the members under subsection (b) of this section, the Secretary shall make an appointment to fill such vacancy within 90 days from the date the vacancy occurs.
+&emsp;If a vacancy occurs in an advisory council among the members under subsection (b) ofthis section, the Secretary shall make an appointment to fill such vacancy within 90 days from the date the vacancy occurs.
 
 #### (d) Chair
 
@@ -138,7 +138,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Continuation of Existing Advisory Councils
 
-Pub. L. 99–570, title IV, §4004(b), Oct. 27, 1986, 100 Stat. 3207–111, provided that: "The amendment made by subsection (a) \[enacting this section and renumbering this section and section 290aa–5 of this title\] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act \[Oct. 27, 1986\]. After such date—
+Pub. L. 99–570, title IV, §4004(b), Oct. 27, 1986, 100 Stat. 3207–111, provided that: "The amendment made by subsection (a) \[enacting this section and renumbering thissection and section 290aa–5 of this title\] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act \[Oct. 27, 1986\]. After such date—
 
 &emsp;"(1) the Secretary of Health and Human Services shall make appointments to each such advisory council in such a manner as to bring about as soon as practicable the composition for such council prescribed by section 505 \[now 502\] of the Public Health Service Act \[42 U.S.C. 290aa–1\];
 

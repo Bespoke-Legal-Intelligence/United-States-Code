@@ -6,7 +6,7 @@ The Congress strongly urges the President to use at least $650,000,000 for fisca
 
 #### (b) Development assistance capital projects
 
-Funds appropriated to carry out chapter 1 or chapter 10 of part I of the Foreign AssistanceAct of 1961 \[22 U.S.C. 2151 et seq., 2293 et seq.\] (relating to development assistance and the Development Fund for Africa) may not be used for capital projects that do not meet the criteria contained in section 2421b of this title. This subsection does not apply with respect to capital projects for which funds have been obligated or expended before October 28, 1992.
+Funds appropriated to carry out chapter 1 or chapter 10 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq., 2293 et seq.\] (relating to development assistance and the Development Fund for Africa) may not be used for capital projects that do not meet the criteria contained in section 2421b of this title. This subsection does not apply with respect to capital projects for which funds have been obligated or expended before October 28, 1992.
 
 (Pub. L. 102–549, title III, §306, Oct. 28, 1992, 106 Stat. 3660.)
 

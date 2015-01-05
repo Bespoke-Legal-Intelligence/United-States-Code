@@ -134,7 +134,7 @@ In this section:
 
 &emsp;&emsp;(B) Supervision and training for participants in the rehabilitation or construction of housing, including residential housing for homeless individuals or low-income families, or transitional housing for homeless individuals.
 
-&emsp;&emsp;(C) Supervision and training for participants in the rehabilitation or construction of community and other public facilities, except that not more than 10 percent of funds appropriated to carry out this section may be used for such supervision and training.
+&emsp;&emsp;(C) Supervision and training for participants in the rehabilitation or constructionof community and other public facilities, except that not more than 10 percent of funds appropriated to carry out this section may be used for such supervision and training.
 
 &emsp;&emsp;(D) Payment of administrative costs of the applicant, except that not more than 15 percent of the amount of assistance provided under this subsection to the grant recipient may be used for such costs.
 
@@ -150,7 +150,7 @@ In this section:
 
 #### (A) Form and procedure
 
-&emsp;&emsp;To be qualified to receive a grant under this subsection, an eligible entity shall submit an application at such time, in suchmanner, and containing such information as the Secretary may require.
+&emsp;&emsp;To be qualified to receive a grant under this subsection, an eligible entity shall submit an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (B) Minimum requirements
 
@@ -206,7 +206,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(xix) information identifying, and a description of, the data collection systems to be used;
 
-&emsp;&emsp;&emsp;(xx) a certification, by a public official responsible for the housing strategy forthe State or unit of general local government within which the proposed program is located, that the proposed program is consistent with the housing strategy; and
+&emsp;&emsp;&emsp;(xx) a certification, by a public official responsible for the housing strategy for the State or unit of general local government within which the proposed program is located, that the proposed program is consistent with the housing strategy; and
 
 &emsp;&emsp;&emsp;(xxi) a certification that the applicant will comply with the requirements of the Fair Housing Act (42 U.S.C. 3601 et seq.) and will affirmatively further fair housing.
 
@@ -280,7 +280,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 #### (2) Participation limitation
 
-&emsp;An eligible individual selected for participation in a YouthBuild program shall be offeredfull-time participation in the program for a period of not less than 6 months and not more than 24 months.
+&emsp;An eligible individual selected for participation in a YouthBuild program shall be offered full-time participation in the program for a period of not less than 6 months and not more than 24 months.
 
 #### (3) Minimum time devoted to educational services and activities
 
@@ -340,13 +340,21 @@ Each recipient of a grant under subsection (c) to carry out a YouthBuild program
 
 (Pub. L. 105–220, title I, §173A, as added Pub. L. 109–281, §2(a), Sept. 22, 2006, 120 Stat. 1173.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(3)(C) and (c)(3)(B)(x), (xvi)(III), (4)(J)(iii), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(3)(C) and (c)(3)(B)(x), (xvi)(III), (4)(J)(iii), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7,1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(11)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date
 

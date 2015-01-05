@@ -8,7 +8,7 @@
 
 #### (2) Evaluation of progress
 
-&emsp;The National Health Security Strategy shall include an evaluation of the progress made by Federal, State, local, and tribal entities, based on the evidence-based benchmarks and objective standards that measure levels of preparedness established pursuant to section 247d–3a(g) of this title. Such evaluation shall include aggregate and State-specific breakdowns of obligated funding spent by major category (as defined by the Secretary) for activities funded through awards pursuant to sections 247d–3a and 247d–3b of this title.
+&emsp;The National Health Security Strategy shall include an evaluation of the progress made by Federal, State, local, and tribal entities, based on the evidence-based benchmarks and objective standards that measure levels of preparedness established pursuant to section 247d–3a(g) of this title. Such evaluation shallinclude aggregate and State-specific breakdowns of obligated funding spent by major category (as defined by the Secretary) for activities funded through awards pursuant to sections 247d–3a and 247d–3b of this title.
 
 #### (3) Public health workforce
 
@@ -84,7 +84,7 @@ The National Health Security Strategy shall include provisions in furtherance of
 
 &emsp;&emsp;(B) promoting familiarity with local medical and public health systems.
 
-(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006, 120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162.)
+(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006,120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>.
 
 (b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S. Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
 
-(c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Health and Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall developan accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
+(c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Health and Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall develop an accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
 
 Sec. 3. <i>Federal Rapid Response</i>. (a) The Federal Government must develop the capacity to anticipate and immediately supplement the capabilities of affected jurisdictions to rapidly distribute medical countermeasures following a biological attack. Implementation of a Federal strategy to rapidly dispense medical countermeasures requires establishment of a Federal rapid response capability.
 

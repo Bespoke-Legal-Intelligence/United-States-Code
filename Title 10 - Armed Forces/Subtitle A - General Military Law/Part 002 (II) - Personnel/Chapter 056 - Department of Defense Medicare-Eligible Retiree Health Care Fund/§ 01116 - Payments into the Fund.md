@@ -20,7 +20,7 @@
 
 (c) The Secretary of Defense shall promptly certify the amount determined under subsection (b) each year to the Secretary of the Treasury.
 
-(d) At the same time as the Secretary of Defense makes the certification under subsection\(c), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the information provided to the Secretary of the Treasury under that subsection.
+(d) At the same time as the Secretary of Defense makes the certification under subsection (c), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the information provided to the Secretary of the Treasury under that subsection.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–182; amended Pub. L. 107–107, div. A, title VII, §711(b)(4), (d), (e)(1), title X, §1048(a)(13), Dec. 28, 2001, 115 Stat. 1165, 1166, 1223; Pub. L. 107–314, div. A, title VII, §704(a), Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–136, div. A, title VII, §722(b), Nov. 24, 2003, 117 Stat. 1532; Pub. L. 108–375, div. A, title VII, §725(a), Oct. 28, 2004, 118 Stat. 1991.)
 

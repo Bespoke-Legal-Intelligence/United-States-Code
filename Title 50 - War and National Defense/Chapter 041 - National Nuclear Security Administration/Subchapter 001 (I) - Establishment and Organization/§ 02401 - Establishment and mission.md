@@ -34,7 +34,7 @@ In carrying out the mission of the Administration, the Administrator shall ensur
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this title", meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title XXXII of div. C ofPub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting section 2
 
 #### Short Title
 
-Pub. L. 106–65, div. C, title XXXII, §3201, Oct. 5, 1999, 113 Stat. 953, provided that: "This title \[enacting thischapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 435 of this title\] may be cited as the 'National Nuclear Security Administration Act'."
+Pub. L. 106–65, div. C, title XXXII, §3201, Oct. 5, 1999, 113 Stat. 953, provided that: "This title \[enacting this chapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 435 of this title\] may be cited as the 'National Nuclear Security Administration Act'."
 
 #### Preparation of Infrastructure Plan for the Nuclear Weapons Complex
 

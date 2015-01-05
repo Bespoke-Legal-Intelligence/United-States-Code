@@ -8,7 +8,7 @@ Every trust described in section 4947(a)(2) shall furnish such information with 
 
 #### (1) In general
 
-&emsp;Every trust not required to file a return under subsection (a) but claiming a deduction under section 642(c) for the taxable year shall furnish such information with respect to such taxable year as the Secretary may by forms or regulations prescribe, including—
+&emsp;Every trust not required to file a return under subsection (a) but claiming a deduction under section 642(c) for the taxable year shallfurnish such information with respect to such taxable year as the Secretary may by forms or regulations prescribe, including—
 
 &emsp;&emsp;(A) the amount of the deduction taken under section 642(c) within such year,
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 31, 1980, see section 1(f) ofPub. L. 96–603, set out as a note under section 6033 of this title.
+Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 31, 1980, see section 1(f) of Pub. L. 96–603, set out as a note under section 6033 of this title.
 
 #### Effective Date of 1969 Amendment
 

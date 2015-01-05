@@ -10,7 +10,7 @@
 
 &emsp;(A) any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation, and
 
-&emsp;(B) any of the person's property used, or intended to be used, in any manner or part, tocommit, or to facilitate the commission of, such violation.
+&emsp;(B) any of the person's property used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, such violation.
 
 > For the purposes of this subsection, the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 

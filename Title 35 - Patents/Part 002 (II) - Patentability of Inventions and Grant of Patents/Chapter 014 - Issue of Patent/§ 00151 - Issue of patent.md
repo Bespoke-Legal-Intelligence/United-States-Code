@@ -6,7 +6,7 @@ In General.—If it appears that an applicant is entitled to a patent under the 
 
 (b)
 
-Effect of Payment.—Upon payment of this sum the patent may issue, but if payment isnot timely made, the application shall be regarded as abandoned.
+Effect of Payment.—Upon payment of this sum the patent may issue, but if payment is not timely made, the application shall be regarded as abandoned.
 
 (Added Pub. L. 112–211, title II, §202(b)(6), Dec. 18, 2012, 126 Stat. 1536.)
 

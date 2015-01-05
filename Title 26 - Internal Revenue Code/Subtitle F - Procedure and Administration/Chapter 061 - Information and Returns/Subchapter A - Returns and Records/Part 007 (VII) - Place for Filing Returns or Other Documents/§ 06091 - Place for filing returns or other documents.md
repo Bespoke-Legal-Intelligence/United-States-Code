@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-When not otherwise provided for by this title, the Secretary shall by regulations prescribe the place for the filing of any return, declaration,statement, or other document, or copies thereof, required by this title or by regulations.
+When not otherwise provided for by this title, the Secretary shall by regulations prescribe the place for the filing of any return, declaration, statement, or other document, or copies thereof, required by this title or by regulations.
 
 #### (b) Tax returns
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 91–614 applicable with respect to decedents dying after D
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–713, §6, Nov. 2, 1966, 80 Stat. 1111, provided that: "Except as otherwise provided in this Act, theamendments made by this Act \[amending this section, sections 6103, 6107, and 6151 of this title, section 3237 of Title 18, Crimes and Criminal Procedure, and section 1395x of Title 42, The Public Health and Welfare\] shall take effect upon the date of the enactment of this Act \[Nov. 2, 1966\]."
+Pub. L. 89–713, §6, Nov. 2, 1966, 80 Stat. 1111, provided that: "Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, sections 6103, 6107, and 6151 of this title, section 3237 of Title 18, Crimes and Criminal Procedure, and section 1395x of Title 42, The Public Health and Welfare\] shall take effect upon the date of the enactment of this Act \[Nov. 2, 1966\]."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

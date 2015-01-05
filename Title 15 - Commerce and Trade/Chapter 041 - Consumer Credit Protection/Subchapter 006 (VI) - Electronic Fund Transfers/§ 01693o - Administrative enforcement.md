@@ -64,7 +64,7 @@ Subsec. (a)(1). Pub. L. 111–203, §1084(5)(A)(ii), added par. (1) and struck o
 
 &emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-Subsec. (a)(2) to (5). Pub. L. 111–203, §1084(5)(A)(ii)–(vii), added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
+Subsec. (a)(2) to (5). Pub. L. 111–203, §1084(5)(A)(ii)–(vii), added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck outformer par. (2) which read as follows: "section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
 
 Subsec. (b). Pub. L. 111–203, §1084(5)(B), inserted "any of paragraphs (1) through (4) of" before "subsection (a)" in two places.
 

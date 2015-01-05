@@ -20,7 +20,7 @@
 
 (3) The Secretary, in consultation with the States, shall establish criteria for the uniform collection and reporting of data on activities authorized in section 300w–3 of this title with respect to which no uniform data items exist.
 
-(4) A condition under paragraph (1) for a fiscal year is that the State involved will make copies of the report submitted under such paragraph for the fiscal year available for public inspection, and will upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.
+(4) A condition under paragraph (1) for a fiscal year is that the State involved will make copiesof the report submitted under such paragraph for the fiscal year available for public inspection, and will upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.
 
 #### (b) Fiscal control; accounting procedures; annual audits; repayments and offsets; public inspection; Comptroller General evaluations; report to Congress
 

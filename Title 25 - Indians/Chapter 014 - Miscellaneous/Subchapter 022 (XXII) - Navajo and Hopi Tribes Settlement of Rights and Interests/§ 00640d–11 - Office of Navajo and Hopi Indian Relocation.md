@@ -16,7 +16,7 @@ There is hereby established as an independent entity in the executive branch the
 
 (1)(A) Except as otherwise provided by the Navajo and Hopi Indian Relocation Amendments of 1988, the Commissioner shall have all the powers and be responsible for all the duties that the Navajo and Hopi Indian Relocation Commission had before November 16, 1988.
 
-(B) All funds appropriated to the Navajo and Hopi Indian Relocation Commission before the date on which the first Commissioner on Navajo and Hopi Indian Relocation is confirmed by the Senate that have not been expended on such date shall become available to the Office of Navajo and Hopi Indian Relocation on such date and shall remain available without fiscal year limitation.
+(B) All funds appropriated to the Navajo and Hopi Indian Relocation Commission before the date on which the first Commissioner on Navajo and Hopi Indian Relocation is confirmed by theSenate that have not been expended on such date shall become available to the Office of Navajo and Hopi Indian Relocation on such date and shall remain available without fiscal year limitation.
 
 (2) There are hereby transferred to the Commissioner, on January 31, 1989—
 
@@ -28,7 +28,7 @@ There is hereby established as an independent entity in the executive branch the
 
 (1) Subject to such rules and regulations as may be adopted by the Office of Navajo and Hopi Indian Relocation, the Commissioner shall have the power to—
 
-&emsp;(A) appoint and fix the compensation of such staff and personnel as the Commissioner deems necessary in accordance with the provisions of title 5 governing appointments in thecompetitive service, but at rates not in excess of a position classified above a GS–15 of the General Schedule under section 5108 of such title; and
+&emsp;(A) appoint and fix the compensation of such staff and personnel as the Commissioner deems necessary in accordance with the provisions of title 5 governing appointments in the competitive service, but at rates not in excess of a position classified above a GS–15 of the General Schedule under section 5108 of such title; and
 
 &emsp;(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.
 
@@ -92,7 +92,7 @@ Pub. L. 102–180, §3(e), Dec. 2, 1991, 105 Stat. 1230, provided that: "The pos
 
 #### Employees of Office as Government Employees
 
-Pub. L. 102–180, §3(f), Dec. 2, 1991, 105 Stat. 1231, provided that: "Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment ofthis Act \[Dec. 2, 1991\], shall be considered an employee as defined in section 2105 of title 5, United States Code."
+Pub. L. 102–180, §3(f), Dec. 2, 1991, 105 Stat. 1231, provided that: "Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment of this Act \[Dec. 2, 1991\], shall be considered an employee as defined in section 2105 of title 5, United States Code."
 
 #### Continuation of Relocation Commission and Retention of Existing Commissioners Pending Confirmation of Commissioner; Transfer of Existing Personnel; Change of Name
 

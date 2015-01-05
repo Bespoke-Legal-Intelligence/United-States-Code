@@ -6,7 +6,7 @@
 
 &emsp;Except as otherwise provided in this subsection, the Secretary shall make payments to grantees under this chapter in two payments, of which—
 
-&emsp;&emsp;(A) the first payment shall be made not later than July 1 of each year in an amount equal to 80 percent of the amount which the grantee was entitled to receive during the preceding academic year; and
+&emsp;&emsp;(A) the first payment shall be made not later than July 1 of each year in an amount equal to 80 percent of the amount which thegrantee was entitled to receive during the preceding academic year; and
 
 &emsp;&emsp;(B) the second payment, consisting of the remainder to which the grantee is entitled for the academic year, shall be made not later than December 1 of each year.
 

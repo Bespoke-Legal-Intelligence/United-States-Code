@@ -106,7 +106,7 @@ Term of Office.—Notwithstanding section 581(b) of title 28, United States Code
 
 "(a)
 
-General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Act and the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1986\].
+General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Act and the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 daysafter the date of the enactment of this Act \[Oct. 27, 1986\].
 
 "(b)
 
@@ -418,7 +418,7 @@ Establishment of Project.—Not later than 1 year after the effective date of th
 
 "(b)
 
-Study by General Accounting Office \[now Government Accountability Office\].—Not later than 1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office \[now Government Accountability Office\] shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
+Study by General Accounting Office \[now Government Accountability Office\].—Not later than1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office \[now Government Accountability Office\] shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
 
 "(c)
 
@@ -488,7 +488,7 @@ Availability to Certain Governmental Entities.—Unlimited access to information
 
 Fees for Other Users.—(1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may, under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
 
-"(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordancewith the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
+"(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
 
 "(h)
 

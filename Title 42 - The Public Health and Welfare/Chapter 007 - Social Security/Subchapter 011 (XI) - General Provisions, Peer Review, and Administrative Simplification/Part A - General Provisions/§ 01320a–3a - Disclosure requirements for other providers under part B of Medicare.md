@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 105–33, §4313(c)(1), redesignated subsec. (c) as (d).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4313(b) of Pub. L. 105–33 applicable to payment for items and services furnished morethan 90 days after date of submission of report under section 4313(d) of Pub. L. 105–33, set out as a note under section 1320a–3 of this title, see section 4313(e) of Pub. L. 105–33, set out as a note under section 1320a–3 of this title.
+Amendment by section 4313(b) of Pub. L. 105–33 applicable to payment for items and services furnished more than 90 days after date of submission of report under section 4313(d) of Pub. L. 105–33, set out as a note under section 1320a–3 of this title, see section 4313(e) of Pub. L. 105–33, set out as a note under section 1320a–3 of this title.
 
 #### Effective Date of 1994 Amendment
 

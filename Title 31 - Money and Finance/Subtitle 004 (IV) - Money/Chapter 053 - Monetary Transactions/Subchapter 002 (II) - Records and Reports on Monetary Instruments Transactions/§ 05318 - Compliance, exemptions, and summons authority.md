@@ -16,9 +16,15 @@ General Powers of Secretary.—The Secretary of the Treasury may (except under s
 
 &emsp;&emsp;(A) under the laws of such State, that class of transactions is subject to requirements substantially similar to those imposed under this subchapter; and
 
-&emsp;&emsp;(B) there is adequate provision for the enforcement of such requirements; and
+&emsp;&emsp;(B) there is adequate provision for the enforcement of such requirements;
 
-&emsp;(6) prescribe an appropriate exemption from a requirement under this subchapter and regulations prescribed under this subchapter. The Secretary may revoke an exemption under this paragraph or paragraph (5) by actually or constructively notifying the parties affected. A revocation is effective during judicial review.
+&emsp;(6) rely on examinations conducted by a State supervisory agency of a category of financial institution, if the Secretary determines that—
+
+&emsp;&emsp;(A) the category of financial institution is required to comply with this subchapter and regulations prescribed under this subchapter; or
+
+&emsp;&emsp;(B) the State supervisory agency examines the category of financial institution for compliance with this subchapter and regulations prescribed under this subchapter; and
+
+&emsp;(7) prescribe an appropriate exemption from a requirement under this subchapter and regulations prescribed under this subchapter. The Secretary may revoke an exemption under this paragraph or paragraph (5) by actually or constructively notifying the parties affected. A revocation is effective during judicial review.
 
 (b)
 
@@ -180,7 +186,7 @@ In general.—In order to guard against money laundering through financial insti
 
 &emsp;(2)
 
-Regulations.—The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
+Regulations.—The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is notsubject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
 
 &emsp;(3)
 
@@ -352,7 +358,7 @@ Termination upon receipt of notice.—A covered financial institution shall term
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on liability.—A covered financial institution shall not be liable to any person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
+Limitation on liability.—A covered financial institution shall not be liable toany person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -424,7 +430,7 @@ Feasibility report.—
 
 In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
 
-&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of funds that may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
+&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of fundsthat may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
 
 &emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of the reports that may be required under such regulations;
 
@@ -448,7 +454,7 @@ In general.—Subject to subparagraph (B), the regulations required by paragraph
 
 Technological feasibility.—No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficiently receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, §2(a), Aug. 8, 2014, 128 Stat. 1829.)
 
 Historical and Revision Notes
 
@@ -468,7 +474,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§205(a), (b)(1st sentence), 206, 84 Stat. 11
 
 31:1055.
 
-In the section, before clause (1), the words "have the responsibility to assure compliance with the requirements of this chapter" in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words "(except under section 5315 of this title and regulations prescribed under section 5315)" are addedbecause 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words "duties and powers" are substituted for "responsibilities" for consistency in the revised title and with other titles of the United States Code. The words "bank supervisory agency, or other" are omitted as surplus. In clause (2), the words "by regulation" and "as he may deem" are omitted as surplus. The words "and regulations prescribed under this subchapter" are added because of the restatement. In clause (3), the word "prescribe" is substituted for "make" in 31:1055 for consistency in the revised title and with other titles of the Code. The words "otherwise imposed", 31:1055(1st sentence), and the words "in his discretion" are omitted as surplus.
+In the section, before clause (1), the words "have the responsibility to assure compliance with the requirements of this chapter" in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words "(except under section 5315 of this title and regulations prescribed under section 5315)" are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words "duties and powers" are substituted for "responsibilities" for consistency in the revised title and with other titles of the United States Code. The words "bank supervisory agency, or other" are omitted as surplus. In clause (2), the words "by regulation" and "as he may deem" are omitted as surplus. The words "and regulations prescribed under this subchapter" are added because of the restatement. In clause (3), the word "prescribe" is substituted for "make" in 31:1055 for consistency in the revised title and with other titles of the Code. The words "otherwise imposed", 31:1055(1st sentence), and the words "in his discretion" are omitted as surplus.
 
 #### References in Text
 
@@ -495,6 +501,8 @@ The date of enactment of the National Intelligence Reform Act of 2004, referred 
 For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see section 1564 of Pub. L. 102–550, which is set out as a note under section 5311 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(6), (7). Pub. L. 113–156 added par. (6) and redesignated former par. (6) as (7).
 
 <b>2011</b>—Subsec. (g)(2)(A)(i). Pub. L. 112–74, §118(1), added cl. (i) and struck out former cl. (i) which read as follows: "the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and".
 
@@ -598,7 +606,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: "Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act."
+Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: "Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this sectionand enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act."
 
 Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
 
@@ -611,6 +619,8 @@ Amendment by section 358(b) of Pub. L. 107–56 applicable with respect to repor
 Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149, and Pub. L. 103–325, title IV, §413(b)(1), Sept. 23, 1994, 108 Stat. 2254, provided that the identical amendments made by those sections are effective Oct. 28, 1992.
 
 #### Regulations
+
+Secretary of the Treasury required to consult with State supervisory agencies in issuing rules to carry out subsec. (a)(6) of this section, see section 2(c) of Pub. L. 113–156, set out as a Consultation with State Agencies note under section 1958 of Title 12, Banks and Banking.
 
 Pub. L. 107–56, title III, §312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act \[15 U.S.C. 6809\]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under section 5318(i)(1) of title 31, United States Code, as added by this section."
 

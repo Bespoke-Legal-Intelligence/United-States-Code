@@ -1,0 +1,6 @@
+### §15532. Transferred
+
+#### Codification
+
+Section 15532 was editorially reclassified as section 21132 of Title 52, Voting and Elections.
+

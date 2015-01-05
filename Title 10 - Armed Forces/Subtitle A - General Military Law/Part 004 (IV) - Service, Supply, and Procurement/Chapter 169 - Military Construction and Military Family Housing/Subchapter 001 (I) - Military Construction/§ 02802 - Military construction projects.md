@@ -14,7 +14,7 @@
 
 &emsp;(5) planning, supervision, administration, and overhead incident to the project.
 
-(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
+(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President suchrecommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
 
 (d)(1) The requirement under subsection (a) that a military construction project must be authorized by law includes military construction projects funded through payment-in-kind contributions pursuant to a bilateral agreement with a host country.
 
@@ -30,7 +30,37 @@
 
 (4) In the case of a military construction project excluded pursuant to paragraph (3)(C) whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719; Pub. L. 113–66, div. B, title XXVIII, §2807(c), Dec. 26, 2013, 127 Stat. 1012.)
+(e)(1) If a construction project, land acquisition, or defense access road project described in paragraph (2) will be carried out pursuant to a provision of law other than a Military Construction Authorization Act, the Secretary concerned shall—
+
+&emsp;(A) comply with the congressional notification requirement contained in the provision of law under which the construction project, land acquisition, or defense access road project will be carried out; or
+
+&emsp;(B) in the absence of such a congressional notification requirement, submit to the congressional defense committees, in an electronic medium pursuant to section 480 of this title, a report describing the construction project, land acquisition, or defense access road project at least 15 days before commencing the construction project, land acquisition, or defense access road project.
+
+(2) Except as provided in paragraph (3), a construction project, land acquisition, or defense access road project subject to the notification requirement imposed by paragraph (1) is a construction project, land acquisition, or defense access road project that—
+
+&emsp;(A) is not specifically authorized in a Military Construction Authorization Act;
+
+&emsp;(B) will be carried out by a military department, Defense Agency, or Department of Defense Field Activity; and
+
+&emsp;(C) will be located on a military installation.
+
+(3) This subsection does not apply to a construction project, land acquisition, or defense access road project described in paragraph (2) whose cost is less than or equal to the threshold amount specified in section 2805(b) of this title.
+
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719; Pub. L. 113–66, div. B, title XXVIII, §2807(c), Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, §§2801, 2803(b), Dec. 19, 2014, 128 Stat. 3695, 3697.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 113–291, div. B, title XXVIII, §2803(b), (d), Dec. 19, 2014, 128 Stat. 3697, provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (d) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1), by striking "payment-in-kind contributions" and inserting "payments-in-kind or in-kind contributions";</i>
+
+<i>(2) by striking paragraph (3) and inserting the following:</i>
+
+<i>"(3) This subsection does not apply to a military construction project covered by one of the exceptions in section 2687a(f)(4) of this title."; and</i>
+
+<i>(3) in paragraph (4), by striking "paragraph (3)(C)" and inserting "paragraph (3), by reference to section 2687a(f)(4)(D) of this title,".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -38,11 +68,23 @@ The date of the enactment of the Military Construction Authorization Act for Fis
 
 #### Amendments
 
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–291, §2803(b)(1), substituted "payments-in-kind or in-kind contributions" for "payment-in-kind contributions".
+
+Subsec. (d)(3). Pub. L. 113–291, §2803(b)(2), added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply.
+
+Subsec. (d)(4). Pub. L. 113–291, §2803(b)(3), substituted "paragraph (3), by reference to section 2687a(f)(4)(D) of this title," for "paragraph (3)(C)".
+
+Subsec. (e). Pub. L. 113–291, §2801, added subsec. (e).
+
 <b>2013</b>—Subsec. (d). Pub. L. 113–66 added subsec. (d).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted ", land acquisitions, and defense access road projects (as described under section 210 of title 23)" after "military construction projects".
 
 Subsec. (c). Pub. L. 110–417 added subsec. (c).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by section 2803(b) of Pub. L. 113–291 effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, see section 2803(d) of Pub. L. 113–291, set out as a note under section 2687a of this title.
 
 #### Effective Date
 
@@ -68,7 +110,7 @@ Independent Review Panel.—
 
 Establishment; purpose.—The Secretary of Defense shall establish an independent advisory panel for the purpose of—
 
-&emsp;&emsp;"(A) reviewing the unified construction standards established pursuant to subsection (a) to determinethe standards consistency with industry practices and benchmarks for world class medical construction;
+&emsp;&emsp;"(A) reviewing the unified construction standards established pursuant to subsection (a) to determine the standards consistency with industry practices and benchmarks for world class medical construction;
 
 &emsp;&emsp;"(B) reviewing ongoing construction programs within the Department of Defense to ensure medical construction standards are uniformly applied across applicable military medical centers;
 

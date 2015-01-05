@@ -20,7 +20,7 @@ Not more than 10 percent of the amounts appropriated pursuant to subsection (a) 
 
 #### Amendments
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–222, §15, inserted provisions authorizing appropriations for fiscal year 1978 and two succeeding fiscal years, and substituted provisions requiring appropriations to be made for not more than two fiscal years and payments in annual installments at beginning of each fiscal year in appropriated amounts, for provisions requiring appropriations to be for not more than two fiscal years, and, if for more than one year, in payments in annual installments at beginning of each fiscal year in appropriated amounts.
+<b>1977</b>—Subsec. (a). Pub. L. 95–222, §15, inserted provisions authorizing appropriations for fiscal year 1978 andtwo succeeding fiscal years, and substituted provisions requiring appropriations to be made for not more than two fiscal years and payments in annual installments at beginning of each fiscal year in appropriated amounts, for provisions requiring appropriations to be for not more than two fiscal years, and, if for more than one year, in payments in annual installments at beginning of each fiscal year in appropriated amounts.
 
 Subsec. (d). Pub. L. 95–222, §5(c), added subsec. (d).
 
@@ -28,5 +28,5 @@ Subsec. (d). Pub. L. 95–222, §5(c), added subsec. (d).
 
 Amendment by section 5(c) of Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub. L. 95–222, set out as a note under section 2996 of this title.
 
-Pub. L. 95–222, §17(a)(2), Dec. 28, 1977, 91 Stat. 1624, provided that: "The amendment made by section 15 of this Act \[amending this section\] shall be effective withrespect to fiscal years beginning after September 30, 1977."
+Pub. L. 95–222, §17(a)(2), Dec. 28, 1977, 91 Stat. 1624, provided that: "The amendment made by section 15 of this Act \[amending this section\] shall be effective with respect to fiscal years beginning after September 30, 1977."
 

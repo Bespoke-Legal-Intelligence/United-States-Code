@@ -12,7 +12,7 @@
 
 #### (2) Youth-related training
 
-&emsp;Any training provided to Bureau of Indian Affairs or tribal law enforcement or judicial personnel under paragraph (1) shall include training in issues relating to youth alcohol and substance abuse prevention and treatment.
+&emsp;Any training provided to Bureau of Indian Affairs or tribal law enforcement or judicialpersonnel under paragraph (1) shall include training in issues relating to youth alcohol and substance abuse prevention and treatment.
 
 #### (b) Authorization
 

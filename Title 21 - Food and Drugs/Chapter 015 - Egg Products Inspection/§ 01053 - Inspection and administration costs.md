@@ -6,7 +6,7 @@ The cost of inspection rendered under the requirements of this chapter, and othe
 
 #### (b) "Holiday" defined
 
-The term "holiday" for the purposes of assessment or reimbursement of the cost of inspectionperformed under this chapter, the Wholesome Poultry Products Act \[21 U.S.C. 467a et seq.\] and the Wholesome Meat Act \[21 U.S.C. 601 et seq.\] shall mean the legal public holidays specified by the Congress in section 6103(a) of title 5.
+The term "holiday" for the purposes of assessment or reimbursement of the cost of inspection performed under this chapter, the Wholesome Poultry Products Act \[21 U.S.C. 467a et seq.\] and the Wholesome Meat Act \[21 U.S.C. 601 et seq.\] shall mean the legal public holidays specified by the Congress in section 6103(a) of title 5.
 
 (Pub. L. 91–597, §24, Dec. 29, 1970, 84 Stat. 1633.)
 

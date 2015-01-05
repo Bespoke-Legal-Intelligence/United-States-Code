@@ -58,7 +58,7 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 7801 of this title;
 
-&emsp;(2) in the event that the applicant is determined to have failed or refused to carry outsuch service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
+&emsp;(2) in the event that the applicant is determined to have failed or refused to carry out such service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
 
 &emsp;(3) contains, or is accompanied by, a plain-language disclosure form developed by the Secretary that clearly describes the nature of the TEACH Grant award, the service obligation, and the loan repayment requirements that are the consequence of the failure to complete the service obligation.
 
@@ -70,7 +70,7 @@ In the event that any recipient of a grant under this subpart fails or refuses t
 
 #### (1) Change of high-need designation
 
-&emsp;If a recipient of an initial grant under this subpart has acquired an academic degree, or expertise, in a field that was, at the time of the recipient's application for that grant, designated as high need in accordance with subsection (b)(1)(C)(vii), but is no longer so designated, the grant recipient may fulfill the service obligation described in subsection (b)(1) by teaching in that field.
+&emsp;If a recipient of an initial grant under this subpart has acquired an academic degree, orexpertise, in a field that was, at the time of the recipient's application for that grant, designated as high need in accordance with subsection (b)(1)(C)(vii), but is no longer so designated, the grant recipient may fulfill the service obligation described in subsection (b)(1) by teaching in that field.
 
 #### (2) Extenuating circumstances
 

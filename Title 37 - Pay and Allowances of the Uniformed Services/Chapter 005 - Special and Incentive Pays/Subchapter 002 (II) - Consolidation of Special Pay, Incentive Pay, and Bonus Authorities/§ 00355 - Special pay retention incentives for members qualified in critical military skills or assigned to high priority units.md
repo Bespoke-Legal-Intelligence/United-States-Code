@@ -4,7 +4,7 @@
 
 Retention Bonus Authorized.—An officer or enlisted member of the armed forces who is serving on active duty in a regular component or in an active status in a reserve component and who is qualified in a critical military skill designated under subsection (b) or accepts an assignment to a high priority unit designated under such subsection may be paid a retention bonus as provided in this section if—
 
-&emsp;(1) in the case of an officer, the member executes a written agreement to remain on active duty for at least one year or to remain in an active status in a reserve component for at least one year;
+&emsp;(1) in the case of an officer, the member executes a written agreement to remain on active duty for at least one year or to remain in anactive status in a reserve component for at least one year;
 
 &emsp;(2) in the case of an enlisted member, other than an enlisted member referred to in paragraph (3), the member reenlists or voluntarily extends the member's enlistment for a period of at least one year; or
 
@@ -54,11 +54,13 @@ Repayment.—A member paid a bonus under this section who fails, during the peri
 
 (h)
 
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2014, and no agreement under this section may be entered into after that date.
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2015, and no agreement under this section may be entered into after that date.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–207, §4(a)(4), July 27, 2010, 124 Stat. 2251; Pub. L. 111–383, div. A, title VI, §614(9), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(9), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(9), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(9), Dec. 26, 2013, 127 Stat. 781.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–207, §4(a)(4), July 27, 2010, 124 Stat. 2251; Pub. L. 111–383, div. A, title VI, §614(9), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(9), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(9), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(9), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(10), Dec. 19, 2014, 128 Stat. 3401.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 
 <b>2013</b>—Subsec. (h). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
@@ -84,7 +86,7 @@ Pub. L. 110–181, §614(d), substituted "December 31, 2008" for "December 31, 2
 
 <b>2006</b>—Pub. L. 109–163, §640(f)(1), substituted "Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units" for "Special pay: retention incentives for members qualified in a critical military skill" in section catchline.
 
-Subsec. (a). Pub. L. 109–163, §640(a)(1)(A), (b)(1), in introductory provisions, substituted "who is serving on active duty in a regular component or in an activestatus in a reserve component and who" for "who is serving on active duty and" and "critical military skill designated under subsection (b) or accepts an assignment to a high priority unit designated under such subsection" for "designated critical military skill".
+Subsec. (a). Pub. L. 109–163, §640(a)(1)(A), (b)(1), in introductory provisions, substituted "who is serving on active duty in a regular component or in an active status in a reserve component and who" for "who is serving on active duty and" and "critical military skill designated under subsection (b) or accepts an assignment to a high priority unit designated under such subsection" for "designated critical military skill".
 
 Subsec. (a)(1). Pub. L. 109–163, §640(a)(1)(B), inserted "or to remain in an active status in a reserve component for at least one year" before semicolon.
 

@@ -10,7 +10,7 @@ The Secretary of the Interior is authorized to conduct and promote the coordinat
 
 #### (b) Contracts and grants
 
-In conducting the activities authorized by this section, the Secretary of the Interior may enterinto contracts with and make grants to qualified institutions, agencies, organizations, and persons.
+In conducting the activities authorized by this section, the Secretary of the Interior may enter into contracts with and make grants to qualified institutions, agencies, organizations, and persons.
 
 #### (c) Authorization of appropriations
 

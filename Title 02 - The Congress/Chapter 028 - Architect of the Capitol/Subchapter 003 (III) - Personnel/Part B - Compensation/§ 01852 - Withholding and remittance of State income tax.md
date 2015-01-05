@@ -38,11 +38,11 @@ The Architect may enter into agreements under subsection (a) of this section at 
 
 #### (e) Provisions as not imposing duty, burden, requirement or penalty upon United States or any officer or employee of United States
 
-This section imposes no duty, burden, or requirement upon the United States, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section.
+This section imposes no duty, burden, or requirement upon the United States, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which hasthe effect of subjecting the United States, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section.
 
-#### (f) “State” defined
+#### (f) "State" defined
 
-For the purposes of this section, “State” means any of the States of the United States.
+For the purposes of this section, "State" means any of the States of the United States.
 
 (Pub. L. 94–59, title V, §501, July 25, 1975, 89 Stat. 290.)
 

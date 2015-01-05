@@ -60,7 +60,7 @@ Provisions similar to those in this section were contained in section 4107(g) of
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–163 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-"(c)(1) The amount of any increase under subsection (a) in the maximum rate for any grade may not (exceptin the case of nurse anesthetists, pharmacists, and licensed physical therapists) exceed by two times the amount by which the maximum for such grade (under applicable provisions of law other than this subsection) exceeds the minimum for such grade (under applicable provisions of law other than this subsection), and the maximum rate as so increased may not exceed the rate paid for individuals serving as Assistant Under Secretary for Health.
+"(c)(1) The amount of any increase under subsection (a) in the maximum rate for any grade may not (except in the case of nurse anesthetists, pharmacists, and licensed physical therapists) exceed by two times the amount by which the maximum for such grade (under applicable provisions of law other than this subsection) exceeds the minimum for such grade (under applicable provisions of law other than this subsection), and the maximum rate as so increased may not exceed the rate paid for individuals serving as Assistant Under Secretary for Health.
 
 "(2) Whenever the amount of an increase under subsection (a) results in a rate of basic pay for a position being equal to or greater than the amount that is 94 percent of the maximum amount permitted under paragraph (1), the Secretary shall promptly notify the Committees on Veterans' Affairs of the Senate and House of Representatives of the increase and the amount thereof."
 

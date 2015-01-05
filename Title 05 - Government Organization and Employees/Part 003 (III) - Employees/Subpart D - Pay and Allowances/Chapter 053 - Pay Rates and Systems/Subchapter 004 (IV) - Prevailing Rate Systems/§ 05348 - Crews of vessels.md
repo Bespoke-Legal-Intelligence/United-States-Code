@@ -8,11 +8,11 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, §3548(a)(3)(C)(iii), substituted “subsection (b)” for “subsections (b) and (c)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §3548(a)(3)(C)(iii), substituted "subsection (b)" for "subsections (b) and (c)".
 
-Subsecs. (b), (c). Pub. L. 104–201, §3548(a)(3)(C)(i), (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Vessel employees of the Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry.”
+Subsecs. (b), (c). Pub. L. 104–201, §3548(a)(3)(C)(i), (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "Vessel employees of the Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry."
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–70 substituted "Commission" for "Company".
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–392 inserted reference to subsection (c) of this section.
 

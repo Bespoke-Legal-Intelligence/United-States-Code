@@ -58,7 +58,7 @@ Pub. L. 97–448, §105(a)(1)(D), redesignated subsec. (g), added by Pub. L. 97�
 
 Subsec. (g). Pub. L. 97–34, §501(b), added subsec. (g).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–223 substituted ", gift, or windfall profit taxes" for "or gift taxes" in heading,and in text substituted "," for "or" before "by chapter 12" and inserted ", or by chapter 45 (relating to windfall profit tax)" before "is due to negligence".
+<b>1980</b>—Subsec. (a). Pub. L. 96–223 substituted ", gift, or windfall profit taxes" for "or gift taxes" in heading, and in text substituted "," for "or" before "by chapter 12" and inserted ", or by chapter 45 (relating to windfall profit tax)" before "is due to negligence".
 
 <b>1974</b>—Subsec. (c)(1). Pub. L. 93–406 substituted "certain excise" for "chapter 42" in heading and text.
 

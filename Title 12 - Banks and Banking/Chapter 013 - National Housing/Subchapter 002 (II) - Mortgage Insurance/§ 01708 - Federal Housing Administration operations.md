@@ -120,7 +120,7 @@ There is created a Federal Housing Administration Advisory Board ("Board") that 
 
 #### (B) Probation
 
-&emsp;&emsp;The Board may place a mortgagee on probation for a specified period of time not to exceed 6 months for the purpose of evaluating the mortgagee's compliance with Federal Housing Administration requirements, the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], Executive Order 11063, or orders of the Board. During the probation period, the Board may impose reasonable additional requirements on a mortgagee including supervision of the mortgagee's activities by the Federal Housing Administration, periodic reporting to the Federal Housing Commissioner, or submission to Federal Housing Administration audits of internal financial statements, audits by an independent certified public accountant or other audits.
+&emsp;&emsp;The Board may place a mortgagee on probation for a specified period of time not to exceed 6 months for the purpose of evaluating the mortgagee's compliance with Federal Housing Administration requirements, the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], Executive Order 11063, or ordersof the Board. During the probation period, the Board may impose reasonable additional requirements on a mortgagee including supervision of the mortgagee's activities by the Federal Housing Administration, periodic reporting to the Federal Housing Commissioner, or submission to Federal Housing Administration audits of internal financial statements, audits by an independent certified public accountant or other audits.
 
 #### (C) Suspension
 
@@ -164,7 +164,7 @@ There is created a Federal Housing Administration Advisory Board ("Board") that 
 
 #### (6) Cease-and-desist orders
 
-&emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or is about to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to prevent such violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to such violation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, as soon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
+&emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or is about to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to prevent such violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to such violation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, assoon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
 
 &emsp;(B) Within 10 days after the mortgagee has been served with a temporary cease-and-desist order, the mortgagee may apply to the United States district court for the judicial district in which the home office of the mortgagee is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting of suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the mortgagee, and such court shall have jurisdiction to issue such injunction.
 
@@ -202,7 +202,7 @@ There is created a Federal Housing Administration Advisory Board ("Board") that 
 
 &emsp;&emsp;(A) currently suspended, debarred, under a limited denial of participation (LDP), or otherwise restricted under part 25 of title 24 of the Code of Federal Regulations, 2 Code of Federal Regulations, part 180 as implemented by part 2424, or any successor regulations to such parts, or under similar provisions of any other Federal agency;
 
-&emsp;&emsp;(B) under indictment for, or has been convicted of, an offense that reflects adverselyupon the applicant's integrity, competence or fitness to meet the responsibilities of an approved mortgagee;
+&emsp;&emsp;(B) under indictment for, or has been convicted of, an offense that reflects adversely upon the applicant's integrity, competence or fitness to meet the responsibilities of an approved mortgagee;
 
 &emsp;&emsp;(C) subject to unresolved findings contained in a Department of Housing and Urban Development or other governmental audit, investigation, or review;
 
@@ -334,7 +334,7 @@ Section 1709(s) of this title, which was transferred and redesignated as subsec.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f)(5). Pub. L. 111–203, §373(1), added par. (5) and struck out former par. (5) which read as follows:"if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;".
+<b>2010</b>—Subsec. (f)(5). Pub. L. 111–203, §373(1), added par. (5) and struck out former par. (5) which read as follows: "if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;".
 
 Subsec. (f)(6). Pub. L. 111–203, §373(2), inserted "and" at end.
 

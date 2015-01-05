@@ -20,29 +20,29 @@ The Commission, after consultation with the Committee, shall, on June 30, 1974, 
 
 An individual who, as a part of an individualized plan for employment under a State plan approved under this chapter, participates in a program of unpaid work experience in a Federal agency, shall not, by reason thereof, be considered to be a Federal employee or to be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
 
-#### (f) Federal agency cooperation; special consideration for positions on President's Committee on Employment of People With Disabilities
+#### (f) Standards used in determining violation of section
 
-(1) The Secretary of Labor and the Secretary of Education are authorized and directed to cooperate with the President's Committee on Employment of People With Disabilities in carrying out its functions.
+The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(2) In selecting personnel to fill all positions on the President's Committee on Employment of People With Disabilities, special consideration shall be given to qualified individuals with disabilities.
-
-#### (g) Standards used in determining violation of section
-
-The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
-
-(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–256, §2(d)(3), Oct. 5, 2010, 124 Stat. 2643.)
+(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–256, §2(d)(3), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §456(a), July 22, 2014, 128 Stat. 1675.)
 
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (a), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (f), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 
 Prior similar provisions were set out in section 38 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsecs. (f), (g). Pub. L. 113–128 redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows:
+
+"(1) The Secretary of Labor and the Secretary of Education are authorized and directed to cooperate with the President's Committee on Employment of People With Disabilities in carrying out its functions.
+
+"(2) In selecting personnel to fill all positions on the President's Committee on Employment of People With Disabilities, special consideration shall be given to qualified individuals with disabilities."
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–256 substituted "President's Disability Employment Partnership Board and the President's Committee for People with Intellectual Disabilities" for "President's Committees on Employment of People With Disabilities and on Mental Retardation".
 
@@ -184,7 +184,7 @@ Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 1294
 
 Ex. Ord. No. 13163, July 26, 2000, 65 F.R. 46563, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to promote an increase in the opportunities for individuals with disabilities to be employed at all levels and occupations of the Federal Government, and to support the goals articulated in section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote an increase in the opportunities for individuals with disabilities to be employed at all levels and occupations of the Federal Government, and to support the goals articulated in section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), it is hereby ordered as follows:
 
 Section 1. <i>Increasing the Federal Employment Opportunities for Individuals with Disabilities</i>. (a) Recent evidence demonstrates that, throughout the United States, qualified persons with disabilities have been refused employment despite their availability and qualifications, and many qualified persons with disabilities are never made aware of available employment opportunities. Evidence also suggests that increased efforts at outreach, and increased understanding of the reasonable accommodations available for persons with disabilities, will permit persons with disabilities to compete for employment on a more level playing field.
 
@@ -256,7 +256,7 @@ Ex. Ord. No. 13548, July 26, 2010, 75 F.R. 45039, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish the Federal Government as a model employer of individuals with disabilities, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Approximately 54 million Americans are living with a disability. The Federal Government has an important interest in reducing discrimination against Americans living with a disability, in eliminating the stigma associated with disability, and in encouraging Americans with disabilities to seek employment in the Federal workforce. Yet Americans with disabilities have an employment rate far lower than that of Americans without disabilities, and they are underrepresented in the Federal workforce. Individuals with disabilities currently represent just over 5 percent of the nearly 2.5 million people in the Federal workforce, and individuals with targeted disabilities (as defined below) currently represent less than 1 percent of that workforce.
+Section 1. <i>Policy</i>. Approximately 54 million Americans are living with a disability. The Federal Government has an important interest in reducing discrimination against Americans living with a disability, in eliminating the stigma associated with disability, and in encouraging Americans with disabilities to seek employment in the Federal workforce. Yet Americans with disabilities have an employment rate far lower than that of Americans without disabilities, and they are underrepresented in the Federal workforce. Individuals with disabilities currently represent just over 5percent of the nearly 2.5 million people in the Federal workforce, and individuals with targeted disabilities (as defined below) currently represent less than 1 percent of that workforce.
 
 On July 26, 2000, in the final year of his administration, President Clinton signed Executive Order 13163, calling for an additional 100,000 individuals with disabilities to be employed by the Federal Government over 5 years. Yet few steps were taken to implement that Executive Order in subsequent years.
 

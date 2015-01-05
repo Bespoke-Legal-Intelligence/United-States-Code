@@ -1,0 +1,8 @@
+Part B—Testing, Certification, Decertification, and Recertification of Voting System Hardware and Software
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 20971 - Certification and testing of voting systems](%C2%A7%2020971%20-%20Certification%20and%20testing%20of%20voting%20systems.md)

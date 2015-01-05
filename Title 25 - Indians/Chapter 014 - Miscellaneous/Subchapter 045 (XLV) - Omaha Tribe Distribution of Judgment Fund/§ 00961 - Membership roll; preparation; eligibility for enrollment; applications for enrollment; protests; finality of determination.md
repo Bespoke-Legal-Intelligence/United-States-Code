@@ -6,5 +6,5 @@ The Secretary of the Interior is authorized and directed, pursuant to such regul
 
 #### References in Text
 
-Acts of Congress of August 7, 1882, and March 3, 1893, referred to in text, are acts Aug. 7, 1882, ch. 434, 22 Stat.341, and Mar. 3, 1893, ch. 209, 27 Stat. 612, respectively, which were not classified to the Code.
+Acts of Congress of August 7, 1882, and March 3, 1893, referred to in text, are acts Aug. 7, 1882, ch. 434, 22 Stat. 341, and Mar. 3, 1893, ch. 209, 27 Stat. 612, respectively, which were not classified to the Code.
 

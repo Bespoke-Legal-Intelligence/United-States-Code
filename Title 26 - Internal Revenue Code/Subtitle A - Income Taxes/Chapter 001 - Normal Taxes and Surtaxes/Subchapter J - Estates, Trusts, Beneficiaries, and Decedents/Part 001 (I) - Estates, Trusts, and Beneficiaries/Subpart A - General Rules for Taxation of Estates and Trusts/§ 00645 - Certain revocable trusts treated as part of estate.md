@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(A) if no return of tax imposed by chapter 11 is required to be filed, the date which is 2 years after the date of the decedent's death, and
 
-&emsp;&emsp;(B) if such a return is required to be filed, the date which is 6 months after the date ofthe final determination of the liability for tax imposed by chapter 11.
+&emsp;&emsp;(B) if such a return is required to be filed, the date which is 6 months after the date of the final determination of the liability for tax imposed by chapter 11.
 
 #### (c) Election
 

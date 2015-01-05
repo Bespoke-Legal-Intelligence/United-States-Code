@@ -20,7 +20,7 @@ Section was formerly classified to section 38a of this title prior to editorial 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 struck out “(including amounts held in the trust fund account in the office of the Sergeant at Arms)” after “due such individual” in first undesignated par. and substituted “Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer” for “Sergeant at Arms, and received by the Sergeant at Arms” in second undesignated par.
+<b>1996</b>—Pub. L. 104–186 struck out "(including amounts held in the trust fund account in the office of the Sergeant at Arms)" after "due such individual" in first undesignated par. and substituted "Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer" for "Sergeant at Arms, and received by the Sergeant at Arms" in second undesignated par.
 
 <b>1959</b>—Pub. L. 86–102 inserted provisions including amounts held in trust fund account, authorizing an individual to designate a beneficiary or beneficiaries, and prescribing order of precedence in cases where no designation of beneficiary has been made.
 

@@ -38,43 +38,43 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Pub. L. 103–270, §6, June 30, 1994, 108 Stat. 737, provided that:
 
-“(a)
+"(a)
 
 Submission of Report.—On July 1 of each year, the President shall submit a report described in subsection (b) to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Operations of the House of Representatives.
 
-“(b)
+"(b)
 
 Contents.—A report under subsection (a) shall, except as provided in subsection (c), include—
 
-&emsp;“(1) a list of each individual—
+&emsp;"(1) a list of each individual—
 
-&emsp;&emsp;“(A) employed by the White House Office; or
+&emsp;&emsp;"(A) employed by the White House Office; or
 
-&emsp;&emsp;“(B) detailed to the White House Office; and
+&emsp;&emsp;"(B) detailed to the White House Office; and
 
-&emsp;“(2) with regard to each individual described in paragraph (1), the individual's—
+&emsp;"(2) with regard to each individual described in paragraph (1), the individual's—
 
-&emsp;&emsp;“(A) name;
+&emsp;&emsp;"(A) name;
 
-&emsp;&emsp;“(B) position and title; and
+&emsp;&emsp;"(B) position and title; and
 
-&emsp;&emsp;“(C) annual rate of pay.
+&emsp;&emsp;"(C) annual rate of pay.
 
-“(c)
+"(c)
 
 Exclusion From Report.—If the President determines that disclosure of any item of information described in subsection (b) with respect to any particular individual would not be in the interest of the national defense or foreign policy of the United States—
 
-&emsp;“(1) a report under subsection (a) shall—
+&emsp;"(1) a report under subsection (a) shall—
 
-&emsp;&emsp;“(A) exclude such information with respect to that individual; and
+&emsp;&emsp;"(A) exclude such information with respect to that individual; and
 
-&emsp;&emsp;“(B) include a statement of the number of individuals with respect to whom such information has been excluded; and
+&emsp;&emsp;"(B) include a statement of the number of individuals with respect to whom such information has been excluded; and
 
-&emsp;“(2) at the request of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate or the Committee on Government Operations of the House of Representatives, the information that was excluded from the report shall be made available for inspection by such committee.”
+&emsp;"(2) at the request of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate or the Committee on Government Operations of the House of Representatives, the information that was excluded from the report shall be made available for inspection by such committee."
 
 \[Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.\]
 
-\[Section 6 of Pub. L. 103–270, set out above, effective Jan. 1, 1995, see section 7(i) of Pub. L. 103–270, set out as an Effective Date of 1994 Amendment; Transition Provisions note under section 591 of Title 28, Judiciary and Judicial Procedure.\]
+\[Section 6 of Pub. L. 103–270, set out above, effective Jan. 1, 1995, see section 7(i) of Pub. L. 103–270, set outas an Effective Date of 1994 Amendment; Transition Provisions note under section 591 of Title 28, Judiciary and Judicial Procedure.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be title “5”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be title "5".</i>
 

@@ -22,11 +22,11 @@
 
 #### (B) Funds to consortium
 
-&emsp;&emsp;Funds allocated to a consortium formed to meet the requirements of this section shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and shall be used only for programs authorized under this subchapter. Such funds may not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
+&emsp;&emsp;Funds allocated to a consortium formed to meet the requirements of this section shallbe used only for purposes and programs that are mutually beneficial to all members of the consortium and shall be used only for programs authorized under this subchapter. Such funds may not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
 
 #### (4) Waiver
 
-&emsp;The eligible agency may waive the application of paragraph (3)(A)(i) in any case in whichthe eligible institution is located in a rural, sparsely populated area.
+&emsp;The eligible agency may waive the application of paragraph (3)(A)(i) in any case in which the eligible institution is located in a rural, sparsely populated area.
 
 #### (b) Waiver for more equitable distribution
 

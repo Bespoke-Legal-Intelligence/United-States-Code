@@ -46,7 +46,7 @@ Licensing, marketing, and sponsorship agreements.—An agreement under subsectio
 
 &emsp;(2)
 
-Limitations.—No such licensing, marketing, or sponsorship agreement may be entered into if it would reflect unfavorably on theability of the Department of the Navy, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or if the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Navy, or any individual involved in such a program.
+Limitations.—No such licensing, marketing, or sponsorship agreement may be entered into if it would reflect unfavorably on the ability of the Department of the Navy, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or if the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Navy, or any individual involved in such a program.
 
 (f)
 

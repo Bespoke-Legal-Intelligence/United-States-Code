@@ -28,15 +28,15 @@ The Telephone Bank Board shall consist of thirteen individuals, as follows:
 
 #### (1) Validity
 
-&emsp;An election under paragraph (2) or (3) of subsection (b) of this section shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
+&emsp;An election under paragraph (2) or (3) of subsection (b) shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
 
 #### (2) Balloting
 
-&emsp;Balloting in an election under paragraph (2) or (3) of subsection (b) of this section shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
+&emsp;Balloting in an election under paragraph (2) or (3) of subsection (b) shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
 
 #### (3) No cumulative voting
 
-&emsp;Cumulative voting shall not be permitted in any election under paragraph (2) or (3) of subsection (b) of this section.
+&emsp;Cumulative voting shall not be permitted in any election under paragraph (2) or (3) of subsection (b).
 
 #### (d) Compensation
 
@@ -46,7 +46,7 @@ The Telephone Bank Board shall consist of thirteen individuals, as follows:
 
 #### (2) Exceptions
 
-&emsp;The five members of the Telephone Bank Board appointed under subsection (b)(1)(A) of this section shall not receive compensation by reason of their service on the Telephone Bank Board.
+&emsp;The five members of the Telephone Bank Board appointed under subsection (b)(1)(A) shall not receive compensation by reason of their service on the Telephone Bank Board.
 
 #### (e) Succession
 

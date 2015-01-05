@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, no teacher in a school sha
 
 &emsp;(4) the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed by the teacher; and
 
-&emsp;(5) the harm was not caused by the teacher operating a motor vehicle, vessel, aircraft, orother vehicle for which the State requires the operator or the owner of the vehicle, craft, or vessel to—
+&emsp;(5) the harm was not caused by the teacher operating a motor vehicle, vessel, aircraft, or other vehicle for which the State requires the operator or the owner of the vehicle, craft, or vessel to—
 
 &emsp;&emsp;(A) possess an operator's license; or
 

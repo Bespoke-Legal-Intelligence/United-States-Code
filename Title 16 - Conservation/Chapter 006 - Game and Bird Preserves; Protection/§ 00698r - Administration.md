@@ -4,9 +4,9 @@
 
 The Preserve shall be administered by the Secretary in accordance with sections 698q to 698t of this title and in accordance with the laws generally applicable to units of the National Park System, including—
 
-&emsp;(1) sections 1, 2, 3, and 4 of this title; and
+&emsp;(1) the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1 et seq.); <sup>1</sup> and
 
-&emsp;(2) sections 461 to 467 of this title.
+&emsp;(2) the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes", approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>1</sup>
 
 #### (b) Hunting and fishing
 
@@ -46,7 +46,7 @@ Subsection (a) of section 1278 of this title shall apply to that portion of the 
 
 #### (e) DeSoto State Park
 
-If lands within DeSoto State Park are acquired by the Secretary, at the request of the Department of Conservation and Natural Resources of the State of Alabama, the Secretary shall enter into a cooperative agreement with the Department for the continued management by the Department of the lodge and other facilities that, as of October 21, 1992, are part of DeSoto State Park. The cooperative agreement shall provide for the management and operation of the lodge and facilities in a manner that, to the maximum extent practicable, is consistent with similar operations elsewhere in the National Park System.
+If lands within DeSoto State Park are acquired by the Secretary, at the request of the Department of Conservation and Natural Resources of the State of Alabama, the Secretary shall enter into a cooperative agreement with the Department for the continued managementby the Department of the lodge and other facilities that, as of October 21, 1992, are part of DeSoto State Park. The cooperative agreement shall provide for the management and operation of the lodge and facilities in a manner that, to the maximum extent practicable, is consistent with similar operations elsewhere in the National Park System.
 
 #### (f) Public involvement
 
@@ -63,4 +63,12 @@ If lands within DeSoto State Park are acquired by the Secretary, at the request 
 Upon the transfer by Alabama Power Company to the United States of any lands within the boundaries of the Preserve that contain the Green Pitcher Plant (Sarracenia oreophila), all rights and obligations of Alabama Power Company under the agreement entered into between the company and the Department of the Interior (including the United States Fish and Wildlife Service) on May 12, 1983, in settlement of the action brought on September 24, 1980, against the Secretary and the Director of the Fish and Wildlife Service in the United States District Court for the Northern District of Alabama (Civil Action No. CV 80–C–1242–M), shall be extinguished.
 
 (Pub. L. 102–427, §3, Oct. 21, 1992, 106 Stat. 2179.)
+
+#### References in Text
+
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1 et seq.), referred to in subsec. (a)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes", approved August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (a)(2), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

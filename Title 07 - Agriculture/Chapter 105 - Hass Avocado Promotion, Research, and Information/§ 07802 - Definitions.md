@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Conflict of interest
 
-&emsp;The term "conflict of interest" means a situation in which a member or employee of theBoard has a direct or indirect financial interest in a person that performs a service for, or enters into a contract with, the Board for anything of economic value.
+&emsp;The term "conflict of interest" means a situation in which a member or employee of the Board has a direct or indirect financial interest in a person that performs a service for, or enters into a contract with, the Board for anything of economic value.
 
 #### (3) Consumer information
 
@@ -80,7 +80,7 @@ As used in this chapter:
 
 #### (14) Research
 
-&emsp;The term "research" means any type of test, study, or analysis relating to market research, market development, and marketing efforts, or relating to the use, quality, or nutritional value of Hass avocados, other related food science research, or research designed to advance the image, desirability, and marketability of Hass avocados.
+&emsp;The term "research" means any type of test, study, or analysis relating to market research,market development, and marketing efforts, or relating to the use, quality, or nutritional value of Hass avocados, other related food science research, or research designed to advance the image, desirability, and marketability of Hass avocados.
 
 #### (15) Secretary
 

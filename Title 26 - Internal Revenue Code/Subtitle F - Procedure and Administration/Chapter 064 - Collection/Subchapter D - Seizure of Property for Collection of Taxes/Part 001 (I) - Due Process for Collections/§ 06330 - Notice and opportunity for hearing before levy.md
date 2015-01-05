@@ -176,7 +176,7 @@ Subsec. (d)(1). Pub. L. 109–280, §855(a), reenacted heading without change an
 
 &emsp;"(B) if the Tax Court does not have jurisdiction of the underlying tax liability, to a district court of the United States.
 
-> If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the court determination to file such appeal with the correct court."
+> If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the courtdetermination to file such appeal with the correct court."
 
 Subsec. (g). Pub. L. 109–432, §407(b)(1), added subsec. (g).
 

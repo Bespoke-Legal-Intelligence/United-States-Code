@@ -22,7 +22,7 @@ Any applicant which desires to receive a grant under this part shall submit an a
 
 &emsp;&emsp;(C) no stipend will be paid directly to employees of a profitmaking business concern; and
 
-&emsp;&emsp;(D) teachers participating in the exchange program may not be employed by the participating business concern with which the teacher served within three years after the end of the exchange program unless theteacher repays the full cost of the exchange program to the State and local educational agency, as the case may be; and
+&emsp;&emsp;(D) teachers participating in the exchange program may not be employed by the participating business concern with which the teacher served within three years after the end of the exchange program unless the teacher repays the full cost of the exchange program to the State and local educational agency, as the case may be; and
 
 &emsp;(4) provide assurances that whenever the program for which assistance is sought includes scholarships, the scholarships be awarded to undergraduate students at institutions of higher education within the State who wish to pursue a course of study in mathematics or science, engineering or computer science, and that each student awarded a scholarship under this part will receive a stipend which shall not exceed the cost of tuition at the institution of higher education plus a stipend of not to exceed $750 for each academic year of study for which the scholarship is awarded;
 

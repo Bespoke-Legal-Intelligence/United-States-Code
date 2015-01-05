@@ -42,7 +42,7 @@
 
 #### Codification
 
-September 13, 1988, referred to in subsec. (b)(3)(A), was in the original "the date of enactment of this Act",which was translated as meaning the date of enactment of Pub. L. 100–430, which enacted subsec. (b) of this section, to reflect the probable intent of Congress.
+September 13, 1988, referred to in subsec. (b)(3)(A), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 100–430, which enacted subsec. (b) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
 

@@ -12,7 +12,7 @@
 
 (6) In this section:
 
-&emsp;(A) The term "aviation service" means service performed by an officer (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
+&emsp;(A) The term "aviation service" means service performed by an officer (except a flight surgeon or other medical officer) while holdingan aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
 
 &emsp;(B) The term "operational flying duty" means flying performed under competent orders by rated or designated members while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
 
@@ -81,11 +81,11 @@ Subsec. (d). Pub. L. 105–261, §615(c)(1)(B), substituted "subsection (b) for 
 
 Pub. L. 105–85, §615(a), which directed amendment by inserting at the end of phase I of the table the following:
 
-&nbsp;&nbsp;"Over 14
+&nbsp;
 
-840";
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp; | &nbsp; |
+| --- | --- |
+| "Over 14 | 840"; |
 
 > and by striking out phase II of the table and inserting in lieu thereof the following:
 
@@ -182,7 +182,7 @@ Transition.—(1) An officer of a uniformed service who, as of the date the amen
 
 &emsp;"(B) has performed, or subsequently performs, the prescribed operational flying duties (including flight training but excluding proficiency flying) during the number of years of aviation service specified in column 2 of such table and corresponding to the number of years of aviation service applicable to the officer under column 1,
 
-> shall be entitled to continuous monthly incentive pay at the rates provided in section 301a(b) of title 37,United States Code (as amended by this section)\[,\] until the officer completes the years of service as an officer specified in column 3 of such table and applicable to the officer.
+> shall be entitled to continuous monthly incentive pay at the rates provided in section 301a(b) of title 37, United States Code (as amended by this section)\[,\] until the officer completes the years of service as an officer specified in column 3 of such table and applicable to the officer.
 
 "TABLE
 
@@ -222,7 +222,7 @@ For delegation of authority under this section to Secretaries of Defense, Commer
 
 Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstanding the amendments made by this Act \[enacting this section and amending section 301 of this title\], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective date of this Act \[June 1, 1974\], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
 
-&emsp;"(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—
+&emsp;"(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years ofservice as an officer, he is entitled to monthly incentive pay either—
 
 &emsp;&emsp;"(A) in the amount he was receiving under section 301(b) of that title on May 31, 1973, or on the day before the effective date of this Act \[June 1, 1974\], but with no entitlement after either of those dates, as applicable, to any longevity pay increases or increases resulting from promotion to a higher grade until such time as the rate to which he is entitled under section 301a(b) of that title, as added by this Act, is equal to or greater than the amount he was receiving under that section on May 31, 1973, or on the day before the effective date of this Act, and thereafter his entitlement is as prescribed by that section as added by this Act; or
 
@@ -236,7 +236,7 @@ Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstandi
 
 #### Annual Report by Department of Defense
 
-Pub. L. 93–294, §5, May 31, 1974, 88 Stat. 180, provided that: "A yearly report containing such data as necessary to monitor the progress of this bill \[Pub. L.93–294\] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly."
+Pub. L. 93–294, §5, May 31, 1974, 88 Stat. 180, provided that: "A yearly report containing such data as necessary to monitor the progress of this bill \[Pub. L. 93–294\] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly."
 
 #### Executive Order No. 11800
 

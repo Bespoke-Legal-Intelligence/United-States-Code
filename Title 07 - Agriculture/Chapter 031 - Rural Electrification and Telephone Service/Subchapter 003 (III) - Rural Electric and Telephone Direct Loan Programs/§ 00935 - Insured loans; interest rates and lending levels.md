@@ -18,7 +18,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;(i) The average revenue per kilowatt-hour sold by the applicant is not less than 120 percent of the average revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
 
-&emsp;&emsp;&emsp;(ii) The average residential revenue per kilowatt-hour sold by the applicant is notless than 120 percent of the average residential revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
+&emsp;&emsp;&emsp;(ii) The average residential revenue per kilowatt-hour sold by the applicant is not less than 120 percent of the average residential revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
 
 &emsp;&emsp;&emsp;(iii) The average per capita income of the residents receiving electric service from the applicant is less than the average per capita income of the residents of the State in which the applicant provides service, or the median household income of the households receiving electric service from the applicant is less than the median household income of the households in the State.
 
@@ -114,7 +114,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (C) Effect of lack of funds
 
-&emsp;&emsp;On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV of this chapter.
+&emsp;&emsp;On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV.
 
 #### (2) Cost-of-money loans
 
@@ -146,7 +146,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (B) Requirements
 
-&emsp;&emsp;For purposes of subparagraph (A), a telecommunications modernization plan must,at a minimum, meet the following objectives:
+&emsp;&emsp;For purposes of subparagraph (A), a telecommunications modernization plan must, at a minimum, meet the following objectives:
 
 &emsp;&emsp;&emsp;(i) The plan must provide for the elimination of party line service.
 
@@ -206,7 +206,7 @@ Pub. L. 97–35, title I, §165(d), Aug. 13, 1981, 95 Stat. 379, provided that: 
 
 #### Effective Date of 1976 Amendment; Interest Rate
 
-Pub. L. 94–570, §4, Oct. 20, 1976, 90 Stat. 2702, provided that: "This Act \[amending this section and section 931 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\]."
+Pub. L. 94–570, §4, Oct. 20, 1976, 90 Stat. 2702, provided that: "This Act \[amending this section and section 931of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\]."
 
 #### Effective Date
 

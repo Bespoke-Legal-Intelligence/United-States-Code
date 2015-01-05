@@ -60,7 +60,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (i) Required showing by complainant
 
-&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributingfactor in the unfavorable personnel action alleged in the complaint.
 
 #### (ii) Showing by employer
 
@@ -100,7 +100,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (A) Appeal to Court of Appeals
 
-&emsp;&emsp;Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Reviewshall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+&emsp;&emsp;Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 #### (B) Limitation on collateral attack
 
@@ -122,7 +122,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (7) De novo review
 
-&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
+&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate districtcourt of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
 
 #### (d) Remedies
 
@@ -174,7 +174,7 @@ Nothing in this section shall be construed to diminish the rights, privileges, o
 
 #### (3) Steps to address problem
 
-&emsp;The Secretary shall review and consider the information provided in any report submittedunder paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
+&emsp;The Secretary shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
 (Pub. L. 110–53, title XIV, §1413, Aug. 3, 2007, 121 Stat. 414.)
 
@@ -184,5 +184,5 @@ The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be preceded by an additional closing parenthesis.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection (c)(7))”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection (c)(7))".</i>
 

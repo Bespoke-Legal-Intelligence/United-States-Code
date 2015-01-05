@@ -24,7 +24,7 @@ Relationship to Other Pay and Allowances.—Special pay paid to a member under t
 
 (e)
 
-Repayment.—A member who is paid special pay in a lump sum under this section, but who fails to perform the designated hardship duty during the months included in the calculation of the amount of the lump sum under subsection (c)(2), shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—A member who is paid special pay in a lump sum under this section, but who fails to perform the designated hardship duty during the months included in the calculation ofthe amount of the lump sum under subsection (c)(2), shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (f)
 

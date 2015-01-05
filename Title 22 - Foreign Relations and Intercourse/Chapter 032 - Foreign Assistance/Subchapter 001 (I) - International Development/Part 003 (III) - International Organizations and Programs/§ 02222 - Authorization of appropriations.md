@@ -52,11 +52,11 @@
 
 #### (c) Prohibition against contributions for volunteer manpower programs
 
-None of the funds available to carry out this part shall be contributed to any international organization or to any foreign government or agency thereof to pay the costs of developing oroperating any volunteer program of such organization, government, or agency relating to the selection, training, and programing of volunteer manpower.
+None of the funds available to carry out this part shall be contributed to any international organization or to any foreign government or agency thereof to pay the costs of developing or operating any volunteer program of such organization, government, or agency relating to the selection, training, and programing of volunteer manpower.
 
 #### (d) Tuberculosis vaccine development programs
 
-In addition to amounts otherwise available under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013, which shall be used for United States contributions to tuberculosis vaccine development programs, which may include the Aeras Global TB Vaccine Foundation.
+In addition to amounts otherwise available under this section, there are authorized to be appropriated to the President such sums as may benecessary for each of the fiscal years 2009 through 2013, which shall be used for United States contributions to tuberculosis vaccine development programs, which may include the Aeras Global TB Vaccine Foundation.
 
 #### (e) to (h) Repealed. Pub. L. 95–424, title VI, §604, Oct. 6, 1978, 92 Stat. 961
 
@@ -168,7 +168,7 @@ Subsec. (e). Pub. L. 93–189, §9(5), substituted "$2,000,000 for the fiscal ye
 
 Subsec. (b)(2). Pub. L. 92–226, §107(b), authorized appropriations of $15,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $7,530,000 for fiscal years 1970 and 1971; and prohibited the President from exercising any special authority to transfer any amount appropriated under par. (2) to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
 
-Subsec. (e). Pub. L. 92–226, §107(c), authorized appropriations of $1,000,000 for fiscal years 1972 and 1973, andstruck out provision for authorization of $1,000,000 for fiscal years 1970 and 1971.
+Subsec. (e). Pub. L. 92–226, §107(c), authorized appropriations of $1,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $1,000,000 for fiscal years 1970 and 1971.
 
 Subsec. (f). Pub. L. 92–226, §107(d), added subsec. (f).
 

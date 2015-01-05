@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the registration in question is suspended under section 136d(c) of this title, and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
 
-&emsp;&emsp;(C) any person who owned any quantity of the pesticide immediately before the noticeto the registrant under subparagraph (A) suffered losses by reason of suspension or cancellation of the registration;
+&emsp;&emsp;(C) any person who owned any quantity of the pesticide immediately before the notice to the registrant under subparagraph (A) suffered losses by reason of suspension or cancellation of the registration;
 
 > &emsp;the Administrator shall make an indemnity payment to the person.
 
@@ -90,19 +90,19 @@
 
 #### (4) Administrative settlement
 
-&emsp;An administrative settlement of a claim for such indemnity may be made in accordancewith the third paragraph of section 2414 of title 28 and shall be regarded as if it were made under that section for purposes of section 1304 of title 31.
+&emsp;An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28 and shall be regarded as if it were made under that section for purposes of section 1304 of title 31.
 
 #### (c) Amount of payment
 
 #### (1) In general
 
-&emsp;The amount of an indemnity payment under subsection (a) or (b) of this section to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i) of this section, except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
+&emsp;The amount of an indemnity payment under subsection (a) or (b) to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i), except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
 
 #### (2) Special rule
 
 &emsp;Notwithstanding any other provision of this subchapter, the Administrator may provide a reasonable time for use or other disposal of the pesticide. In determining the quantity of any pesticide for which indemnity shall be paid under this section, proper adjustment shall be made for any pesticide used or otherwise disposed of by the owner.
 
-(June 25, 1947, ch. 125, §15, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 993; amended Pub. L. 100–532, title V, §501(a), Oct. 25, 1988, 102 Stat. 2674.)
+(June 25, 1947, ch. 125, §15, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 993; amendedPub. L. 100–532, title V, §501(a), Oct. 25, 1988, 102 Stat. 2674.)
 
 #### Amendments
 

@@ -62,7 +62,7 @@ The basis of property received in a distribution to which subsection (a) applies
 
 &emsp;&emsp;(B) at least 20 percent of the total value of all stock of the distributing corporation (except nonvoting stock which is limited and preferred as to dividends),
 
-> &emsp;but only if, but for this subsection, the distributee corporation would be entitled to a deduction under section 243, 244, or 245 with respect to such distribution.
+> &emsp;but only if, but for this subsection, the distributee corporation would be entitled to a deduction under section 243 or 245 with respect to such distribution.
 
 #### (3) Application of section 312(n)(7) not affected
 
@@ -82,9 +82,11 @@ The basis of property received in a distribution to which subsection (a) applies
 
 &emsp;&emsp;<b>(4) For taxation of dividends received by individuals at capital gain rates, see section 1(h)(11).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 84; Pub. L. 87–403, §2(a), Feb. 2, 1962, 76 Stat. 5; Pub. L. 87–834, §§5(a), (b), 13(f)(2), Oct. 16, 1962, 76 Stat. 977, 1035; Pub. L. 88–272, title II, §231(b)(2), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, §1(b)(2), Sept. 12, 1966, 80 Stat. 762; Pub. L. 89–809, title I, §104(f), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title II, §211(b)(1), (2), title IX, §905(b)(2), Dec. 30, 1969, 83 Stat. 570, 714; Pub. L. 92–178, title III, §312(a), Dec. 10, 1971, 85 Stat. 526; Pub. L. 94–455, title II, §205(c)(1)(B), (C), title XIX, §§1901(a)(41), (b)(32)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, §3(a), (b), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 98–369, div. A, title I, §§54(b), 61(d), title VII, §712(i)(1), July 18, 1984, 98 Stat. 569, 582, 948; Pub. L. 99–514, title VI, §612(b)(1), title XVIII, §1804(f)(2)(B), Oct. 22, 1986, 100 Stat. 2250, 2805; Pub. L. 100–203, title X, §10222(b)(1), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1006(e)(10)–(12), title II, §2004(j)(3)(B), Nov. 10, 1988, 102 Stat. 3401, 3402, 3605; Pub. L. 108–27, title III, §302(e)(2), May 28, 2003, 117 Stat. 763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 84; Pub. L. 87–403, §2(a), Feb. 2, 1962, 76 Stat. 5; Pub. L. 87–834, §§5(a), (b), 13(f)(2), Oct. 16, 1962, 76 Stat. 977, 1035; Pub. L. 88–272, title II, §231(b)(2), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, §1(b)(2), Sept. 12, 1966, 80 Stat. 762; Pub. L. 89–809, title I, §104(f), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title II, §211(b)(1), (2), title IX, §905(b)(2), Dec. 30, 1969, 83 Stat. 570, 714; Pub. L. 92–178, title III, §312(a), Dec. 10, 1971, 85 Stat. 526; Pub. L. 94–455, title II, §205(c)(1)(B), (C), title XIX, §§1901(a)(41), (b)(32)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, §3(a), (b), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 98–369, div. A, title I, §§54(b), 61(d), title VII, §712(i)(1), July 18, 1984, 98 Stat. 569, 582, 948; Pub. L. 99–514, title VI, §612(b)(1), title XVIII, §1804(f)(2)(B), Oct. 22, 1986, 100 Stat. 2250, 2805; Pub. L. 100–203, title X, §10222(b)(1), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1006(e)(10)–(12), title II, §2004(j)(3)(B), Nov. 10, 1988, 102 Stat. 3401, 3402, 3605; Pub. L. 108–27, title III, §302(e)(2), May 28, 2003, 117 Stat. 763; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(2). Pub. L. 113–295 struck out ", 244," after "section 243" in concluding provisions.
 
 <b>2003</b>—Subsec. (f)(4). Pub. L. 108–27 added par. (4).
 
@@ -168,6 +170,12 @@ Subsec. (d)(3). Pub. L. 87–834, §5(b), added par. (3).
 
 Subsecs. (f), (g). Pub. L. 87–403 added subsec. (f) and redesignated former subsec. (f) as (g).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
@@ -176,7 +184,7 @@ Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxab
 
 Amendment by section 1006(e)(10)–(12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 2004(j)(3)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by section 2004(j)(3)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -236,7 +244,7 @@ Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12,
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–484, §2, Aug. 22, 1964, 78 Stat. 597, provided that: "The amendments made by the first section ofthis Act \[amending this section and sections 312, 341, and 453 of this title\] shall apply with respect to transactions after the date of the enactment of this Act \[Aug. 22, 1964\] in taxable years ending after such date."
+Pub. L. 88–484, §2, Aug. 22, 1964, 78 Stat. 597, provided that: "The amendments made by the first section of this Act \[amending this section and sections 312, 341, and 453 of this title\] shall apply with respect to transactions after the date of the enactment of this Act \[Aug. 22, 1964\] in taxable years ending after such date."
 
 Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 231(c) of Pub. L. 88–272, set out as an Effective Date note under section 1250 of this title.
 
@@ -254,5 +262,5 @@ Pub. L. 99–514, title VI, §634, Oct. 22, 1986, 100 Stat. 2282, directed Secre
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

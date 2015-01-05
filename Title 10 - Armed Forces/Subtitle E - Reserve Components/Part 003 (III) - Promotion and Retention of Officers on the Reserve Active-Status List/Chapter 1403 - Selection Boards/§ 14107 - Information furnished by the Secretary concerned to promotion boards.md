@@ -44,7 +44,7 @@ Information To Be Furnished.—The Secretary of the military department concerne
 
 &emsp;(3) The pertinent records (as determined by the Secretary) of each officer whose name is furnished to the board.
 
-&emsp;(4) Information or guidelines relating to the needs of the armed force concerned for officershaving particular skills, including (except in the case of a vacancy promotion board) guidelines or information relating to either a minimum number or a maximum number of officers with particular skills within a competitive category.
+&emsp;(4) Information or guidelines relating to the needs of the armed force concerned for officers having particular skills, including (except in the case of a vacancy promotion board) guidelines or information relating to either a minimum number or a maximum number of officers with particular skills within a competitive category.
 
 &emsp;(5) Such other information or guidelines as the Secretary concerned may determine to be necessary to enable the board to perform its functions.
 

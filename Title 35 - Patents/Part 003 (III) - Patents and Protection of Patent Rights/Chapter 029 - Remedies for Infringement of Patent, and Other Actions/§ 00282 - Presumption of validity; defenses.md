@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A patent shall be presumed valid. Each claim of a patent (whether in independent, dependent, or multiple dependent form) shall be presumed valid independently of the validity of other claims; dependent or multiple dependent claims shall be presumed valid even though dependent upon an invalid claim. The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity.
+In General.—A patent shall be presumed valid. Each claim of a patent (whether in independent, dependent, or multiple dependent form) shall be presumed valid independently of the validity of other claims; dependent or multiple dependent claims shall be presumed valid eventhough dependent upon an invalid claim. The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity.
 
 (b)
 
@@ -82,7 +82,7 @@ Amendment by section 20(g), (j) of Pub. L. 112–29 effective upon the expiratio
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4402(b)(1)\] of Pub. L. 106–113 effective on date that is 6 monthsafter Nov. 29, 1999, and, except for design patent application filed under chapter 16 of this title, applicable to any application filed on or after such date, see section 1000(a)(9) \[title IV, §4405(a)\] of Pub. L. 106–113, set out as a note under section 154 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4402(b)(1)\] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of this title, applicable to any application filed on or after such date, see section 1000(a)(9) \[title IV, §4405(a)\] of Pub. L. 106–113, set out as a note under section 154 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

@@ -36,7 +36,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no person may, beginning 21 days after August 20, 1990, purchase from any other person unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if such person would be prohibited from purchasing such timber directly from a department or agency of the United States. Acquisitions of western red cedar which are domestically processed into finished products to be sold into domestic or international markets are exempt from the prohibition contained in this paragraph.
+&emsp;Except as provided in paragraph (2), no person may, beginning 21 days after August 20, 1990, purchase from any other person unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if such person would be prohibited frompurchasing such timber directly from a department or agency of the United States. Acquisitions of western red cedar which are domestically processed into finished products to be sold into domestic or international markets are exempt from the prohibition contained in this paragraph.
 
 #### (2) Exceptions
 
@@ -88,7 +88,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (C) For timber manufacturing facilities located in States other than Idaho
 
-&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export andthe Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
+&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and the Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
 
 #### (D) Area not included
 

@@ -2,9 +2,9 @@
 
 (a)(1) For the purpose of this section—
 
-&emsp;(A) the term “agency” means an agency under subparagraph (A), (B), (C), (D), or (E) of section 4101(1) of this title, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services; and
+&emsp;(A) the term "agency" means an agency under subparagraph (A), (B), (C), (D), or (E) of section 4101(1) of this title, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services; and
 
-&emsp;(B) the term “student loan” means—
+&emsp;(B) the term "student loan" means—
 
 &emsp;&emsp;(i) a loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.);
 
@@ -16,7 +16,7 @@
 
 (b)(1) The head of an agency may, in order to recruit or retain highly qualified personnel, establish a program under which the agency may agree to repay (by direct payments on behalf of the employee) any student loan previously taken out by such employee.
 
-(2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency andemployee concerned, except that the amount paid by an agency under this section may not exceed—
+(2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency and employee concerned, except that the amount paid by an agency under this section may not exceed—
 
 &emsp;(A) $10,000 for any employee in any calendar year; or
 
@@ -26,7 +26,7 @@
 
 (c)(1) An employee selected to receive benefits under this section must agree in writing, before receiving any such benefit, that the employee will—
 
-&emsp;(A) remain in the service of the agency for a period specified in the agreement (not less than 3 years), unless involuntarily separated; and
+&emsp;(A) remain in the service of the agency for a period specified in the agreement (not lessthan 3 years), unless involuntarily separated; and
 
 &emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
 
@@ -70,53 +70,53 @@
 
 The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A ofTitle 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–437 inserted “, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services” after “title”.
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–437 inserted ", the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services" after "title".
 
-<b>2003</b>—Subsec. (b)(2)(A). Pub. L. 108–123, §2(1), and Pub. L. 108–136 amended subpar. (A) identically, substituting “$10,000” for “$6,000”.
+<b>2003</b>—Subsec. (b)(2)(A). Pub. L. 108–123, §2(1), and Pub. L. 108–136 amended subpar. (A) identically, substituting "$10,000" for "$6,000".
 
-Subsec. (b)(2)(B). Pub. L. 108–123, §2(2), substituted “$60,000” for “$40,000”.
+Subsec. (b)(2)(B). Pub. L. 108–123, §2(2), substituted "$60,000" for "$40,000".
 
-<b>2000</b>—Subsec. (a)(1)(B)(i). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(1)\], inserted “(20 U.S.C. 1071 et seq.)” before semicolon.
+<b>2000</b>—Subsec. (a)(1)(B)(i). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(1)\], inserted "(20 U.S.C. 1071 et seq.)" before semicolon.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(2)\], substituted “part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.)” for “part E of title IV of the Higher Education Act of 1965”.
+Subsec. (a)(1)(B)(ii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(2)\], substituted "part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.)" for "part E of title IV of the Higher Education Act of 1965".
 
-Subsec. (a)(1)(B)(iii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(3)\], substituted “part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.)” for “part C of title VII of Public Health Service Act or under part B of title VIII of such Act”.
+Subsec. (a)(1)(B)(iii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(3)\], substituted "part A of title VII of thePublic Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.)" for "part C of title VII of Public Health Service Act or under part B of title VIII of such Act".
 
-Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(1)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An employee shall be ineligible for benefits under this section if such employee occupies a position which—
+Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(1)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: "An employee shall be ineligible for benefits under this section if such employee occupies a position which—
 
-&emsp;“(A) is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
+&emsp;"(A) is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
 
-&emsp;“(B) is not subject to subchapter III of this chapter.”
+&emsp;"(B) is not subject to subchapter III of this chapter."
 
-Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(2)\], struck out “professional, technical, or administrative” after “highly qualified”.
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(2)\], struck out "professional, technical, or administrative" after "highly qualified".
 
 Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(d)\], added subsec. (h).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title XI, §1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2004.”
+Pub. L. 108–136, div. A, title XI, §1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2004."
 
 #### Regulations
 
 Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316, provided that:
 
-“(1) Not later than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director of the Office of Personnel Management shall issue proposed regulations under section 5379(g) of title 5, United States Code. The Director shall provide for a period of not less than 60 days for public comment on the regulations.
+"(1) Not later than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director of the Office of Personnel Management shall issue proposed regulations under section 5379(g) of title 5, United States Code. The Director shall provide for a period of not less than 60 days for public comment on the regulations.
 
-“(2) Not later than 240 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director shall issue final regulations.”
+"(2) Not later than 240 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director shall issue final regulations."
 
 #### Institutional Loan Forgiveness Programs
 
-Pub. L. 110–315, title IX, §961, Aug. 14, 2008, 122 Stat. 3473, provided that: “Notwithstanding any other provision of law—
+Pub. L. 110–315, title IX, §961, Aug. 14, 2008, 122 Stat. 3473, provided that: "Notwithstanding any other provision of law—
 
-&emsp;“(1) a public or private institution of higher education may provide an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, who is a current or former student of such institution, financial assistance for the purpose of repaying a student loan or providing forbearance of student loan repayment if—
+&emsp;"(1) a public or private institution of higher education may provide an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, who is a current or former student of such institution, financial assistance for the purpose of repaying a student loan or providing forbearance of student loan repayment if—
 
-&emsp;&emsp;“(A) such repayment or forbearance is provided to such officer or employee in accordance with a written, published policy of the institution relating to repaying or providing forbearance, respectively, for students or former students who perform public service; and
+&emsp;&emsp;"(A) such repayment or forbearance is provided to such officer or employee in accordance with a written, published policy of the institution relating to repaying or providing forbearance, respectively, for students or former students who perform public service; and
 
-&emsp;&emsp;“(B) in the case of a former student of the institution of higher education, the policy described in subparagraph (A) was in effect at the institution of higher education on the day before the date such officer or employee graduated from or otherwise ceased being a student at such institution; and
+&emsp;&emsp;"(B) in the case of a former student of the institution of higher education, the policy described in subparagraph (A) was in effect at the institution of higher education on the day before the date such officer or employee graduated from or otherwise ceased being a student at such institution; and
 
-&emsp;“(2) an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia may receive repayment or forbearance permitted under paragraph (1).”
+&emsp;"(2) an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia may receive repayment or forbearance permitted under paragraph (1)."
 

@@ -26,7 +26,7 @@ The Secretary shall permit the producers on a farm to repay a marketing assistan
 
 #### (b) Repayment rates for upland cotton, long grain rice, and medium grain rice
 
-The Secretary shall permit producers to repay a marketing assistance loan under section 8731of this title for upland cotton, long grain rice, and medium grain rice at a rate that is the lesser of—
+The Secretary shall permit producers to repay a marketing assistance loan under section 8731 of this title for upland cotton, long grain rice, and medium grain rice at a rate that is the lesser of—
 
 &emsp;(1) the loan rate established for the commodity under section 8732 of this title, plus interest (determined in accordance with section 7283 of this title); or
 
@@ -48,7 +48,7 @@ For purposes of this section and section 8737 of this title, the Secretary shall
 
 #### (1) Rice
 
-&emsp;The prevailing world market price for long grain rice and medium grain rice determined under subsection (d) shall be adjusted to United States quality and location.
+&emsp;The prevailing world market price for long grain rice and medium grain rice determinedunder subsection (d) shall be adjusted to United States quality and location.
 
 #### (2) Cotton
 

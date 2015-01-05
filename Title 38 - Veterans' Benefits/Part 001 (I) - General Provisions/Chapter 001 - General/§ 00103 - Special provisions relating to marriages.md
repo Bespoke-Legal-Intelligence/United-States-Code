@@ -4,7 +4,7 @@
 
 (b) Where a surviving spouse has been legally married to a veteran more than once, the date of original marriage will be used in determining whether the statutory requirement as to date of marriage has been met.
 
-(c) In determining whether or not a person is or was the spouse of a veteran, their marriage shall be proven as valid for the purposes of all laws administered by the Secretary according tothe law of the place where the parties resided at the time of the marriage or the law of the place where the parties resided when the right to benefits accrued.
+(c) In determining whether or not a person is or was the spouse of a veteran, their marriage shall be proven as valid for the purposes of all laws administered by the Secretary according to the law of the place where the parties resided at the time of the marriage or the law of the place where the parties resided when the right to benefits accrued.
 
 (d)(1) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits to such person as the surviving spouse of the veteran if the remarriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
 
@@ -60,7 +60,7 @@ Subsecs. (d), (e). Pub. L. 102–83, §4(a)(2)(A)(i), substituted "Secretary" fo
 
 "(2) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or has been dissolved by a court with basic authority to render divorce decrees unless the Veterans' Administration determines that the divorce was secured through fraud by the surviving spouse or collusion.
 
-"(3) If a surviving spouse ceases living with another person and holding himself or herself out openly to the public as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply."
+"(3) If a surviving spouse ceases living with another person and holding himself or herself out openly to thepublic as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply."
 
 Subsec. (e). Pub. L. 101–508, §8004(a)(2), designated par. (1) as entire subsec. (e) and struck out par. (2) which read as follows: "The marriage of a child of a veteran shall not bar the recognition of such child as the child of the veteran for benefit purposes if the marriage has been terminated by death or has been dissolved by a court, with basic authority to render divorce decrees unless the Veterans' Administration determines that the divorce was secured through fraud by either party or collusion."
 
@@ -146,5 +146,5 @@ Pub. L. 91–376, §5, Aug. 12, 1970, 84 Stat. 789, effective January 1, 1971, p
 
 "(a) If a widow terminates a relationship or conduct which resulted in imposition of a prior restriction on payment of benefits, in the nature of inference or presumption of remarriage, or relating to open and notorious adulterous cohabitation or similar conduct, she shall not be denied any benefits by the Veterans' Administration, other than insurance, solely because of such prior relationship or conduct.
 
-"(b) The effective date of an award of benefits resulting from enactment of subsection (a) of this sectionshall not be earlier than the date of receipt of application therefor, filed after termination of the particular relationship or conduct and after December 31, 1970."
+"(b) The effective date of an award of benefits resulting from enactment of subsection (a) of this section shall not be earlier than the date of receipt of application therefor, filed after termination of the particular relationship or conduct and after December 31, 1970."
 

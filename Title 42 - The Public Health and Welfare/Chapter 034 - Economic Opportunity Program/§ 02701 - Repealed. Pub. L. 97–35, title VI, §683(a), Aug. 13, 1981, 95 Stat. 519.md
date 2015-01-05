@@ -12,7 +12,7 @@ Pub. L. 95–568, §1, Nov. 2, 1978, 92 Stat. 2425, provided: "That this Act \[e
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: "This Act \[amending sections 2996, 2996c, and 2996e to 2996j of this title, and enacting provisions set out as notes under sections 2996, 2996f and 2996i of this title\] may be cited as the 'Legal Services Corporation Act Amendments of 1977'."
+Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: "This Act \[amending sections 2996, 2996c, and2996e to 2996j of this title, and enacting provisions set out as notes under sections 2996, 2996f and 2996i of this title\] may be cited as the 'Legal Services Corporation Act Amendments of 1977'."
 
 #### Short Title of 1976 Amendment
 
@@ -20,7 +20,7 @@ Pub. L. 94–341, §1, July 6, 1976, 90 Stat. 803, provided that: "This Act \[en
 
 #### Short Title of 1975 Amendments
 
-Pub. L. 94–43, §1, June 28, 1975, 89 Stat. 233, provided: "That this Act \[amending section 2756 of this title andsection 1615 of Title 20, Education, and enacting provisions set out as notes under section 2756 of this title and section 1070a of Title 20\] may be cited as the 'Emergency Technical Provisions Act'."
+Pub. L. 94–43, §1, June 28, 1975, 89 Stat. 233, provided: "That this Act \[amending section 2756 of this title and section 1615 of Title 20, Education, and enacting provisions set out as notes under section 2756 of this title and section 1070a of Title 20\] may be cited as the 'Emergency Technical Provisions Act'."
 
 Pub. L. 93–644, §1, Jan. 4, 1975, 88 Stat. 2291, provided: "That this Act \[enacting sections 2706, 2707, 2711 to 2715, 2828 to 2830, 2865, 2928 to 2928n, 2929 to 2929c, 2930 to 2930f, 2971f, 2971g, 2981a, 2981b, 2985a to 2985g, 2991 to 2991h, and 2992 to 2992d of this title, amending sections 2790, 2809, 2812, 2813, 2837, 2862, 2871, 2901, 2902, 2921, 2922, 2923, 2932, 2933, 2941, 2942, 2943, 2945, 2965, 2971d, 2974, 2979, 2981, 2982, 2982a, 2982b, 2982c, 2983, 2983a, 2983b, 2984, 2984a, 2985, 2995, 2995a, and 2995b of this title, repealing sections 2703, 2705, 2942 note, and 2949 of this title, and enacting provisions set out as notes under this section and sections 2706, 2865, and 2981 of this title\] may be cited as the 'Headstart, Economic Opportunity, and Community Partnership Act of 1974'."
 

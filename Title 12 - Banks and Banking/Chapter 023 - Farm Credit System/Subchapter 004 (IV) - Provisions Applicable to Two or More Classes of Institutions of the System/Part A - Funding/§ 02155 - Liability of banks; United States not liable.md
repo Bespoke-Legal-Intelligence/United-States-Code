@@ -8,7 +8,7 @@
 
 (B) Such calls first shall be made on all nondefaulting banks in proportion to each such bank's proportionate share of the aggregate available collateral held by all such banks.
 
-(C) For purposes of this paragraph, the term "available collateral" means the amount (determined at the close of the last calendar quarter ending before such call) by which a bank's collateral as described in section 2154 of this title exceeds the collateral required to support the bank's outstanding notes, bonds, debentures, and other similar obligations.
+(C) For purposes of this paragraph, the term "available collateral" means the amount (determined at the close of the last calendar quarter ending before such call) by which a bank's collateral as described in section 2154 of this title exceeds the collateral required to support thebank's outstanding notes, bonds, debentures, and other similar obligations.
 
 (D) If the Farm Credit Administration makes any such call and the available collateral of all such banks does not fully satisfy the liability necessitating such calls, such calls shall be made on all nondefaulting banks in proportion to each such bank's remaining assets.
 

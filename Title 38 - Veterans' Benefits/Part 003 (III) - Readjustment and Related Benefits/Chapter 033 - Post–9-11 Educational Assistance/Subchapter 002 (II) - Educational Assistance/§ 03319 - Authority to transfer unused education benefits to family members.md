@@ -228,7 +228,7 @@ Subsec. (k). Pub. L. 111–377, §110(a)(2), struck out subsec. (k). Text read a
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–377, title I, §110(c), Jan. 4, 2011, 124 Stat. 4120, provided that: "The amendments made by thissection \[amending this section\] shall take effect on August 1, 2011."
+Pub. L. 111–377, title I, §110(c), Jan. 4, 2011, 124 Stat. 4120, provided that: "The amendments made by this section \[amending this section\] shall take effect on August 1, 2011."
 
 Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and applicable with respect to preventions and suspension of pursuit of programs of education that commence on or after that date, see section 201(d) of Pub. L. 111–377, set out as a note under section 3031 of this title.
 

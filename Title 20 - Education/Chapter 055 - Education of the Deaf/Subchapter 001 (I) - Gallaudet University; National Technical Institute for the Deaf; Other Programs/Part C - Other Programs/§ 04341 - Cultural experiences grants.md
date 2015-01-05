@@ -16,7 +16,7 @@ In carrying out this section, the Secretary shall support activities providing c
 
 #### (c) Applications
 
-An eligible entity that desires to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+An eligible entity that desires to receive a grant, or enter into a contract or cooperativeagreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (d) Authorization of appropriations
 

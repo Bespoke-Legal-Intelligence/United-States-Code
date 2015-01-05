@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–351, title V, §1001(c), June 19, 1968, 82 Stat. 235, substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter heading.
+<b>1968</b>—Pub. L. 90–351, title V, §1001(c), June 19, 1968, 82 Stat. 235, substituted "EMPLOYMENT LIMITATIONS" for "LOYALTY, SECURITY, AND STRIKING" in subchapter heading.
 
 
 ---

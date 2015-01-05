@@ -38,7 +38,7 @@ In subsection (a), the words "is entitled \* \* \* to be enlisted in any armed
 
 In subsection (b), the word "rest" is substituted for the words "remaining period". The words "be required to" are omitted as surplusage.
 
-In subsection (c), the words "This section does not" are substituted for the words "Nothing in this section shall be construed". The word "change" is substituted for the words "reduce, limit, or modify". The words "which any person may undertake to perform" are omitted as surplusage.
+In subsection (c), the words "This section does not" are substituted for the words "Nothing in this section shall be construed". The word "change" is substitutedfor the words "reduce, limit, or modify". The words "which any person may undertake to perform" are omitted as surplusage.
 
 #### References in Text
 

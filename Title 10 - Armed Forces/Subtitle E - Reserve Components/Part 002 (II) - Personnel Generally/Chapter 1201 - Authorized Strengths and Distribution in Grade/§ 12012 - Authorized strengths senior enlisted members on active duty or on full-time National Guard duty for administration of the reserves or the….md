@@ -38,7 +38,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 42,000 | 3,000 | 840&nbsp;&nbsp; |
 | &nbsp; |  |  |
 | Navy Reserve: |  |  |
-| 10,000 | 340 | 143&nbsp;&nbsp; |
+| 10,000 | 340 | 143   |
 | 11,000 | 364 | 156&nbsp;&nbsp; |
 | 12,000 | 386 | 169&nbsp;&nbsp; |
 | 13,000 | 407 | 182&nbsp;&nbsp; |
@@ -67,7 +67,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 2,000 | 93 | 20&nbsp;&nbsp; |
 | 2,100 | 96 | 21&nbsp;&nbsp; |
 | 2,200 | 99 | 22&nbsp;&nbsp; |
-| 2,300 | 101 | 23   |
+| 2,300 | 101 | 23&nbsp;&nbsp; |
 | 2,400 | 103 | 24&nbsp;&nbsp; |
 | 2,500 | 105 | 25&nbsp;&nbsp; |
 | 2,600 | 107 | 26&nbsp;&nbsp; |

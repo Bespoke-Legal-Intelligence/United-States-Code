@@ -26,7 +26,7 @@
 
 #### (4) Operation
 
-&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch and agency of a foreign bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section apply to a domestic branch of a national or State bank (as such terms are defined in section 1813 of this title) which resulted from a merger transaction under such section 1831u of this title.
+&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to eachbranch and agency of a foreign bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section apply to a domestic branch of a national or State bank (as such terms are defined in section 1813 of this title) which resulted from a merger transaction under such section 1831u of this title.
 
 #### (5) Exclusive authority for additional branches
 
@@ -82,7 +82,7 @@ Unless its authority to do so is lawfully revoked otherwise than pursuant to thi
 
 For the purposes of this section—
 
-&emsp;(1) in the case of a foreign bank that has any branch, agency, subsidiary commercial lending company, or subsidiary bank in more than 1 State, the home State of the foreign bank is the 1 State of such States which is selected to be the home State by the foreign bank or, in default of any such selection, by the Board; and
+&emsp;(1) in the case of a foreign bank that has any branch, agency, subsidiary commercial lending company, or subsidiary bank in more than 1 State, the home State of the foreign bank isthe 1 State of such States which is selected to be the home State by the foreign bank or, in default of any such selection, by the Board; and
 
 &emsp;(2) in the case of a foreign bank that does not have a branch, agency, subsidiary commercial lending company, or subsidiary bank in more than 1 State, the home State of the foreign bank is the State in which the foreign bank has a branch, agency, subsidiary commercial lending company, or subsidiary bank.
 

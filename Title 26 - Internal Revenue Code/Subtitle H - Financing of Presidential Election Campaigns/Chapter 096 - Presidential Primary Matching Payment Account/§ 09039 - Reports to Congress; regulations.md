@@ -2,7 +2,7 @@
 
 #### (a) Reports
 
-The Commission shall, as soon as practicable after each matching payment period, submit afull report to the Senate and House of Representatives setting forth—
+The Commission shall, as soon as practicable after each matching payment period, submit a full report to the Senate and House of Representatives setting forth—
 
 &emsp;(1) the qualified campaign expenses (shown in such detail as the Commission determines necessary) incurred by the candidates of each political party and their authorized committees,
 

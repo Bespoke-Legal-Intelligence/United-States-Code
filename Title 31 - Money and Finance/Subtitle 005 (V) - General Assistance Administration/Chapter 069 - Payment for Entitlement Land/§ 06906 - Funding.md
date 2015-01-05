@@ -1,12 +1,12 @@
 ### §6906. Funding
 
-For each of fiscal years 2008 through 2013—
+For each of fiscal years 2008 through 2014—
 
 &emsp;(1) each county or other eligible unit of local government shall be entitled to payment under this chapter; and
 
 &emsp;(2) sums shall be made available to the Secretary of the Interior for obligation or expenditure in accordance with this chapter.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1035; Pub. L. 110–343, div. C, title VI, §601(c)(1), Oct. 3, 2008, 122 Stat. 3911; Pub. L. 112–141, div. F, title I, §100111, July 6, 2012, 126 Stat. 906.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1035; Pub. L. 110–343, div. C, title VI, §601(c)(1), Oct. 3, 2008, 122 Stat. 3911; Pub. L. 112–141, div. F, title I, §100111, July 6, 2012, 126 Stat. 906; Pub. L. 113–79, title XII, §12312, Feb. 7, 2014, 128 Stat. 992.)
 
 Historical and Revision Notes
 
@@ -25,6 +25,8 @@ Oct. 20, 1976, Pub. L. 94–565, §7, 90 Stat. 2665.
 The words "to the Secretary of the Interior" are added for clarity. The words "<i>Provided</i>, That, notwithstanding any other provision of this chapter" and "in advance" are omitted as unnecessary.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–79 substituted "2014" for "2013" in introductory provisions.
 
 <b>2012</b>—Pub. L. 112–141 substituted "2013" for "2012" in introductory provisions.
 

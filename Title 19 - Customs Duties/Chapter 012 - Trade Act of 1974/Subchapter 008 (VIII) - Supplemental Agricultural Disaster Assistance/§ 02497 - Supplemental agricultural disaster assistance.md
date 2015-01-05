@@ -250,9 +250,9 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
+&emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 <sup>4</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
 
-&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[7 U.S.C. 8715\];
+&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 <sup>4</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 <sup>4</sup> of that Act \[7 U.S.C. 8715\];
 
 &emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 <sup>4</sup> or successor subtitles;
 
@@ -408,17 +408,11 @@ In this section:
 
 #### (A) Eligible losses
 
-#### (i) In general
+&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
 
-&emsp;&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
+&emsp;&emsp;&emsp;(i) is native or improved pastureland with permanent vegetative cover; or
 
-&emsp;&emsp;&emsp;&emsp;(I) is native or improved pastureland with permanent vegetative cover; or
-
-&emsp;&emsp;&emsp;&emsp;(II) is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.
-
-#### (ii) Exclusions
-
-&emsp;&emsp;&emsp;An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
+&emsp;&emsp;&emsp;(ii) is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.
 
 #### (B) Monthly payment rate
 
@@ -432,7 +426,7 @@ In this section:
 
 #### (ii) Partial compensation
 
-&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed of covered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
+&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed ofcovered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
 
 #### (C) Monthly feed cost
 
@@ -510,7 +504,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), an eligible livestock producer shall be eligible to receiveassistance under this paragraph for the period—
+&emsp;&emsp;&emsp;Subject to clause (ii), an eligible livestock producer shall be eligible to receive assistance under this paragraph for the period—
 
 &emsp;&emsp;&emsp;&emsp;(I) beginning on the date on which the Federal agency excludes the eligible livestock producer from using the managed rangeland for grazing; and
 
@@ -666,13 +660,13 @@ In this section:
 
 #### (B) 2009 crop year
 
-&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, theSecretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
+&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
 
 #### (5) Equitable relief
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may provide equitable relief to eligible producers on a farm that are otherwise ineligible or unintentionally fail to meet the requirements of paragraph (1) for 1 or more crops on a farm on a case-by-case basis, as determined by the Secretary.
+&emsp;&emsp;The Secretary may provide equitable relief to eligible producers on a farm that areotherwise ineligible or unintentionally fail to meet the requirements of paragraph (1) for 1 or more crops on a farm on a case-by-case basis, as determined by the Secretary.
 
 #### (B) 2008 crop year
 
@@ -726,7 +720,7 @@ In this section:
 
 #### (D) Limitation
 
-&emsp;&emsp;For amounts made available under this paragraph, the Secretary may make such adjustments as are necessary to ensure that no producer receives a payment under thisparagraph for an amount in excess of the assistance received by a similarly situated producer that had purchased the same or higher level of crop insurance prior to February 17, 2009.
+&emsp;&emsp;For amounts made available under this paragraph, the Secretary may make such adjustments as are necessary to ensure that no producer receives a payment under this paragraph for an amount in excess of the assistance received by a similarly situated producer that had purchased the same or higher level of crop insurance prior to February 17, 2009.
 
 #### (E) Authority of the Secretary
 
@@ -776,27 +770,33 @@ This section shall be effective only for losses that are incurred as the result 
 
 In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) <sup>7</sup> and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
 
-(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130.)
+(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L. 113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
 
 #### References in Text
 
 The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of Title 7 and Tables.
+Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by Pub. L. 113–79, title I, §1101, Feb. 7, 2014, 128 Stat. 658.
 
-The Food Security Act of 1985, referred to in subsec. (d)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), were repealed by Pub. L. 113–79, title I, §1102(a), Feb. 7, 2014, 128 Stat. 658.
+
+Section 1105 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
+
+The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of Title 7 and Tables.
 
 The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C) and (g)(4)(A), was in the original "the date of enactment of this subtitle", and was translated as meaning the date of enactment of title IX of Pub. L. 93–618, as added by Pub. L. 110–246, which was approved June 18, 2008, to reflect the probable intent of Congress.
 
 Section 1001(a) of the Food Security Act of 1985 (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008), referred to in subsecs. (f)(4)(A) and (h)(1), means section 1001(a) of Pub. L. 99–198, as amended by section 1603 of Pub. L. 110–246, which is classified to section 1308(a) of Title 7, Agriculture.
 
-Subtitle A, referred to in subsec. (g)(7)(F)(ii)(I)(aa), probably means subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, known as the Federal Crop InsuranceAct, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+Subtitle A, referred to in subsec. (g)(7)(F)(ii)(I)(aa), probably means subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, known as the Federal Crop Insurance Act, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(3)(A). Pub. L. 113–79 struck out cl. (i) designation and heading, redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Text read as follows: "An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.)."
 
 <b>2009</b>—Subsec. (g)(7). Pub. L. 111–5 added par. (7).
 

@@ -148,7 +148,7 @@ For purposes of this subchapter—
 
 #### (B) Maintenance of effort with respect to agency contribution for family coverage
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), a public agency satisfies this subparagraph if the amount of annual agency expenditures made on behalf of employees enrolled in health coverage paid for by the agency that includes dependent coverage for the most recent State fiscal year is not less than the amount of such expenditures made by the agency for the 1997 State fiscal year, increased by the percentage increase in the medical care expenditure category of the Consumer Price Index for All-Urban Consumers (all items: U.S. City Average) for such preceding fiscal year.
+&emsp;&emsp;For purposes of subparagraph (A)(i), a public agency satisfies this subparagraph if theamount of annual agency expenditures made on behalf of employees enrolled in health coverage paid for by the agency that includes dependent coverage for the most recent State fiscal year is not less than the amount of such expenditures made by the agency for the 1997 State fiscal year, increased by the percentage increase in the medical care expenditure category of the Consumer Price Index for All-Urban Consumers (all items: U.S. City Average) for such preceding fiscal year.
 
 #### (C) Hardship exception
 
@@ -164,7 +164,7 @@ For purposes of this subchapter:
 
 #### (2) Creditable health coverage
 
-&emsp;The term "creditable health coverage" has the meaning given the term "creditable coverage" under section 2701(c) <sup>2</sup> of the PublicHealth Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).
+&emsp;The term "creditable health coverage" has the meaning given the term "creditable coverage" under section 2701(c) <sup>2</sup> of the Public Health Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).
 
 #### (3) Group health plan; health insurance coverage; etc.
 

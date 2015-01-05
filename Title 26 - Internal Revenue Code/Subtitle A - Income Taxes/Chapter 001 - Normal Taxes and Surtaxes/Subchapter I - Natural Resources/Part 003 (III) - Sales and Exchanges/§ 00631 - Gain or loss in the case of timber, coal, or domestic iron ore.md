@@ -24,7 +24,7 @@ In the case of the disposal of coal (including lignite), or iron ore mined in th
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "If for the taxable year of such gain or loss the maximum rate of tax imposed by this chapter on any net capital gain is less than such maximum rate for ordinary income, such owner" for "Such owner".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1001(c)(1), (e), substituted "on the first day of such year and for a periodof more than 6 months before such cutting" for "for a period of more than 1 year", applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1001(c)(1), (e), substituted "on the first day of such year and for a period of more than 6 months before such cutting" for "for a period of more than 1 year", applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsecs. (b), (c). Pub. L. 98–369, §1001(c)(2), (e), substituted "6 months" for "1 year", applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 

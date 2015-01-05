@@ -42,11 +42,7 @@ Certain wetland, etc., activities not qualified.—Subsection (a) shall not appl
 
 #### (1) Without consent
 
-&emsp;A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for his first taxable year—
-
-&emsp;&emsp;(A) which begins after December 31, 1953, and ends after August 16, 1954, and
-
-&emsp;&emsp;(B) for which expenditures described in subsection (a) are paid or incurred.
+&emsp;A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for the taxpayer's first taxable year for which expenditures described in subsection (a) are paid or incurred.
 
 #### (2) With consent
 
@@ -70,7 +66,7 @@ The method adopted under this section shall apply to all expenditures described 
 
 &emsp;If paragraph (1) applies to an assessment and the taxpayer dies during the 9 succeeding taxable years, any amount of the excess described in paragraph (1) which has not been treated as paid or incurred for a taxable year ending before his death shall be treated as paid or incurred in the taxable year in which he dies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 67; Pub. L. 90–630, §5(a), (b), Oct. 22, 1968, 82 Stat. 1329; Pub. L. 94–455, title XIX, §§1901(a)(30), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1769, 1834; Pub. L. 99–514, title IV, §401(a), Oct. 22, 1986, 100 Stat. 2221; Pub. L. 110–234, title XV, §15303(a)(1)–(2)(B), (b), May 22, 2008, 122 Stat. 1501, 1502; Pub. L. 110–246, §4(a), title XV, §15303(a)(1)–(2)(B), (b), June 18, 2008, 122 Stat. 1664, 2263, 2264.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 67; Pub. L. 90–630, §5(a), (b), Oct. 22, 1968, 82 Stat. 1329; Pub. L. 94–455, title XIX, §§1901(a)(30), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1769, 1834; Pub. L. 99–514, title IV, §401(a), Oct. 22, 1986, 100 Stat. 2221; Pub. L. 110–234, title XV, §15303(a)(1)–(2)(B), (b), May 22, 2008, 122 Stat. 1501, 1502; Pub. L. 110–246, §4(a), title XV, §15303(a)(1)–(2)(B), (b), June 18, 2008, 122 Stat. 1664, 2263, 2264; Pub. L. 113–295, div. A, title II, §221(a)(33), Dec. 19, 2014, 128 Stat. 4042.)
 
 #### References in Text
 
@@ -81,6 +77,12 @@ The Endangered Species Act of 1973, referred to in subsec. (c)(1), (3)(A)(i), is
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–295 amended par. (1) generally. Prior to amendment, text read as follows: "A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for his first taxable year—
+
+&emsp;"(A) which begins after December 31, 1953, and ends after August 16, 1954, and
+
+&emsp;"(B) for which expenditures described in subsection (a) are paid or incurred."
 
 <b>2008</b>—Pub. L. 110–246, §15303(a)(2)(B), inserted "; endangered species recovery expenditures" after "conservation expenditures" in section catchline.
 
@@ -104,6 +106,10 @@ Subsecs. (d)(2), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his del
 
 Subsec. (f). Pub. L. 90–630, §5(b), added subsec. (f).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -122,5 +128,5 @@ Amendment by section 1901(a)(30) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–630, §5(c), Oct. 22, 1968, 82 Stat. 1330, provided that: "The amendments made by subsections (a)and (b) \[amending this section\] shall apply to assessments levied after the date of the enactment of this Act \[Oct. 22, 1968\] in taxable years ending after such date."
+Pub. L. 90–630, §5(c), Oct. 22, 1968, 82 Stat. 1330, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply to assessments levied after the date of the enactment of this Act \[Oct. 22, 1968\] in taxable years ending after such date."
 

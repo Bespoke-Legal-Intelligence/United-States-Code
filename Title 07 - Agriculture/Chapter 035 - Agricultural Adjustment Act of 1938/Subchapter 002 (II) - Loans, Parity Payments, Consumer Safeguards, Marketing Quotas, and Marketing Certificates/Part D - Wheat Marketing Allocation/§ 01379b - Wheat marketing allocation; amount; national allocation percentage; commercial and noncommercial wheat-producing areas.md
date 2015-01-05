@@ -6,7 +6,7 @@ During any marketing year for which a marketing quota is in effect for wheat, be
 
 #### Amendments
 
-<b>1973</b>—Subsec. (c)(1). Pub. L. 91–524, §402(b)(B)(i)–(vi), as added by Pub. L. 93–86, temporarily substituted"payments authorized by section 1445a(c) of this title" for "certificates on wheat", "wheat allotment" for "domestic wheat allotment", "thirteen and three-tenths million" for "13.3 million", "1971 crop; plus, if required by the Secretary, (ii) the acreage" for "1971 crop or 15 million acres in the case of the 1972 or 1973 crop, plus (ii) the acreage", "The Secretary is authorized for the 1974 through 1977 crops to limit" for "The Secretary is authorized for the 1971, 1972, and 1973 crops to limit", "such percentage of the acreage allotment" for "such percentage of the domestic wheat allotment as he determines necessary to provide an orderly transition to the program provided for under this section", "The Secretary shall permit producers to plant and graze on set-aside acreage sweet sorghum, and the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to hay and" for "Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16 and subject to this limitation (1) the Secretary shall permit producers to plant and graze on the set-aside acreage sweet sorghum, and (2) the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to", and "flaxseed, triticale, oats, rye, or other commodity" for "flaxseed, or other commodity". See Effective and Termination Dates of 1973 Amendment note below.
+<b>1973</b>—Subsec. (c)(1). Pub. L. 91–524, §402(b)(B)(i)–(vi), as added by Pub. L. 93–86, temporarily substituted "payments authorized by section 1445a(c) of this title" for "certificates on wheat", "wheat allotment" for "domestic wheat allotment", "thirteen and three-tenths million" for "13.3 million", "1971 crop; plus, if required by the Secretary, (ii) the acreage" for "1971 crop or 15 million acres in the case of the 1972 or 1973 crop, plus (ii) the acreage", "The Secretary is authorized for the 1974 through 1977 crops to limit" for "The Secretary is authorized for the 1971, 1972, and 1973 crops to limit", "such percentage of the acreage allotment" for "such percentage of the domestic wheat allotment as he determines necessary to provide an orderly transition to the program provided for under this section", "The Secretary shall permit producers to plant and graze on set-aside acreage sweet sorghum, and the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to hay and" for "Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16 and subject to this limitation (1) the Secretary shall permit producers to plant and graze on the set-aside acreage sweet sorghum, and (2) the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to", and "flaxseed, triticale, oats, rye, or other commodity" for "flaxseed, or other commodity". See Effective and Termination Dates of 1973 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 91–524, §402(b)(B)(i), as added by Pub. L. 93–86, temporarily substituted "payments authorized by section 1445a(c) of this title" for "certificates authorized in subsection (b) of this section". See Effective and Termination Dates of 1973 Amendment note below.
 
@@ -20,7 +20,7 @@ Subsec. (e). Pub. L. 91–524, §402(b)(C), as added by Pub. L. 93–86, tempora
 
 Subsec. (g). Pub. L. 91–524, §402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (g) without change. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (i). Pub. L. 91–524, §402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (i) without change. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (i). Pub. L. 91–524, §402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (i) withoutchange. See Effective and Termination Dates of 1973 Amendment note below.
 
 <b>1970</b>—Pub. L. 91–524, §402(a), formerly §402, temporarily substituted provisions covering the issuance of domestic certificates to producers and a voluntary set-aside program for wheat for provisions for a wheat marketing allocation program for the 1964 to 1970 crops. See Effective and Termination Dates of 1970 Amendment note below.
 
@@ -58,7 +58,11 @@ Pub. L. 88–297, title II, §202(11), Apr. 11, 1964, 78 Stat. 180, provided tha
 
 #### Inapplicability of Section
 
-Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(3) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(3) of this title.
+
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 

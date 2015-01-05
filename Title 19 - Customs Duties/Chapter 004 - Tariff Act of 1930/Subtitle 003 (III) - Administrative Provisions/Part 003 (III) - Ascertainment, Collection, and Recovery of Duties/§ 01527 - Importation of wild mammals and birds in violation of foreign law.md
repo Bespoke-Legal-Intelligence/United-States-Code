@@ -18,7 +18,7 @@ The provisions of this section shall not apply in the case of—
 
 #### (2) Scientific or educational purposes
 
-&emsp;Wild mammals or birds, alive or dead, or parts or products thereof, whether raw or manufactured, imported for scientific or educational purposes;
+&emsp;Wild mammals or birds, alive or dead, or parts or products thereof, whether raw ormanufactured, imported for scientific or educational purposes;
 
 #### (3) Certain migratory game birds
 

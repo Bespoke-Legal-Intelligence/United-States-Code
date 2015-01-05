@@ -72,7 +72,7 @@ Availability of Fund.—Amounts in the Fund shall be available only for disburse
 
 "(d)
 
-Termination.—The Fund shall terminate upon the expiration of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1998\]. If all of the amounts in the Fund have not been expended bythe end of the 5-year period, investments of amounts in the Fund shall be liquidated, the receipts of such liquidation shall be deposited in the Fund, and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury of the United States.
+Termination.—The Fund shall terminate upon the expiration of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1998\]. If all of the amounts in the Fund have not been expended by the end of the 5-year period, investments of amounts in the Fund shall be liquidated, the receipts of such liquidation shall be deposited in the Fund, and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury of the United States.
 
 "(e)
 
@@ -84,7 +84,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 In General.—If the conditions described in subsection (b) are met and if there are sufficient amounts in the Fund to make each payment, the Secretary shall make a single payment of $100,000 from the Fund to any individual who has an HIV infection and who is described in one of the following paragraphs:
 
-&emsp;"(1) The individual has any form of blood-clotting disorder, such as hemophilia, and was treated with antihemophilic factor at any time during the period beginning on July 1, 1982, and ending on December 31, 1987.
+&emsp;"(1) The individual has any form of blood-clotting disorder, such as hemophilia, and was treated withantihemophilic factor at any time during the period beginning on July 1, 1982, and ending on December 31, 1987.
 
 &emsp;"(2) The individual—
 
@@ -208,7 +208,7 @@ One Petition With Respect to Each Victim.—With respect to each individual desc
 
 #### "SEC. 105. TIME LIMITATION.
 
-"The Secretary may not make any payment with respect to any petition filed under this title unless the petition is filed within 3 years after the date of the enactment of this Act \[Nov. 12, 1998\].
+"The Secretary may not make any payment with respect to any petition filed under this title unless thepetition is filed within 3 years after the date of the enactment of this Act \[Nov. 12, 1998\].
 
 #### "SEC. 106. CERTAIN CLAIMS NOT AFFECTED BY PAYMENT.
 

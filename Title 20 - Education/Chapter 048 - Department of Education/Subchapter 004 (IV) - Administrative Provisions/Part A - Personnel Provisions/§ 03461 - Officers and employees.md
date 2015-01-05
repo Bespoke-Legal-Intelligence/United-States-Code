@@ -14,7 +14,7 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 (4) The authority under this subsection with respect to any position shall terminate when the person first appointed to fill such position ceases to hold such position.
 
-(5) For purposes of section 414(a)(3)(A) of the Civil Service Reform Act of 1978, an individual appointed under this subsection shall be deemedto occupy the same position as the individual occupied on the day preceding May 4, 1980.
+(5) For purposes of section 414(a)(3)(A) of the Civil Service Reform Act of 1978, an individual appointed under this subsection shall be deemed to occupy the same position as the individual occupied on the day preceding May 4, 1980.
 
 #### (c) Repealed. Pub. L. 99–498, title XIV, §1401(d), Oct. 17, 1986, 100 Stat. 1597
 

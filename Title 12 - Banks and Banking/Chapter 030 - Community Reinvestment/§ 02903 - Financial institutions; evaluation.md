@@ -70,7 +70,7 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 #### Regulations
 
-Pub. L. 110–315, title X, §1031(b), Aug. 14, 2008, 122 Stat. 3488, provided that: "Not later than 1 year afterthe date of enactment of this Act \[Aug. 14, 2008\], each appropriate Federal financial supervisory agency shall issue rules in final form to implement section 804(d) of the Community Reinvestment Act of 1977 \[12 U.S.C. 2903(d)\], as added by this section."
+Pub. L. 110–315, title X, §1031(b), Aug. 14, 2008, 122 Stat. 3488, provided that: "Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], each appropriate Federal financial supervisory agency shall issue rules in final form to implement section 804(d) of the Community Reinvestment Act of 1977 \[12 U.S.C. 2903(d)\], as added by this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

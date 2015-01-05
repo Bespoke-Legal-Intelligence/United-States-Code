@@ -12,7 +12,7 @@ Within 30 days after the plan administrator or the contributing sponsor knows or
 
 &emsp;(B) the funded vested benefit percentage for such plans is less than 90 percent.
 
-> For purposes of subparagraph (B), the funded vested benefit percentage means the percentage which the aggregate value of the assets of such plans bears to the aggregate vested benefits of such plans (determined in accordance with section 1306(a)(3)(E)(iii) of this title).
+> For purposes of subparagraph (B), the funded vested benefit percentage means the percentagewhich the aggregate value of the assets of such plans bears to the aggregate vested benefits of such plans (determined in accordance with section 1306(a)(3)(E)(iii) of this title).
 
 (2) This subsection shall not apply to an event if the contributing sponsor, or the member of the contributing sponsor's controlled group to which the event relates, is—
 

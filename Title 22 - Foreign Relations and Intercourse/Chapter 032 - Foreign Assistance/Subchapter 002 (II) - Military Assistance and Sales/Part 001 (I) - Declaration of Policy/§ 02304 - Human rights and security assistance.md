@@ -16,7 +16,7 @@
 
 #### (b) Report by Secretary of State on practices of proposed recipient countries; considerations
 
-The Secretary of State shall transmit to the Congress, as part of the presentation materials for security assistance programs proposed for each fiscal year, a full and complete report, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor and with the assistance of the Ambassador at Large for International Religious Freedom, with respect to practices regarding the observance of and respect for internationally recognized human rights in each country proposed as a recipient of security assistance. Wherever applicable, such report shall include consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987). Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization. Such report shall also include, wherever applicable, information on violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title). Wherever applicable, a <sup>2</sup> description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur, including the descriptions of such acts required under section 2151n(d)(8) of this title. Such report shall also include, for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country. Each report under this section shall list the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year. Each report under this section shall also include (i) wherever applicable, a description of the nature and extent of the compulsory recruitment and conscription of individuals under the age of 18 by armed forces of the government of the country, government-supported paramilitaries, or other armed groups, the participation of such individuals in such groups, and the nature and extent that such individuals take a direct part in hostilities,\(ii) what steps, if any, taken by the government of the country to eliminate such practices, and (iii) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary of State. Each report under this section shall describe the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement. In determining whether a government falls within the provisions of subsection (a)(3) of this section and in the preparation of any report or statement required under this section, consideration shall be given to—
+The Secretary of State shall transmit to the Congress, as part of the presentation materials for security assistance programs proposed for each fiscal year, a full and complete report, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor and with the assistance of the Ambassador at Large for International Religious Freedom, with respect to practices regarding the observance of and respect for internationally recognized human rights in each country proposed as a recipient of security assistance. Wherever applicable, such report shall include consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987). Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization. Such report shall also include, wherever applicable, information on violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title). Wherever applicable, such report shall include a description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur, including the descriptions of such acts required under section 2151n(d)(8) of this title. Such report shall also include, for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country. Each report under this section shall list the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year. Each report under this section shall also include (i) wherever applicable, a description of the nature and extent of the compulsory recruitment and conscription of individuals under the age of 18 by armed forces of the government of the country, government-supported paramilitaries, or other armed groups, the participation of such individuals in such groups, and the nature and extent that such individuals take a direct part in hostilities, (ii) what steps, if any, taken by the government of the country to eliminate such practices, and (iii) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary of State. Each report under this section shall describe the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement. In determining whether a government falls within the provisions of subsection (a)(3) and in the preparation of any report or statement required under this section, consideration shall be given to—
 
 &emsp;(1) the relevant findings of appropriate international organizations, including nongovernmental organizations, such as the International Committee of the Red Cross; and
 
@@ -58,19 +58,23 @@ The Secretary of State shall transmit to the Congress, as part of the presentati
 
 For the purposes of this section—
 
-&emsp;(1) the term "gross violations of internationally recognized human rights" includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person; and
+&emsp;(1) the term "gross violations of internationally recognized human rights" includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person;
 
 &emsp;(2) the term "security assistance" means—
 
-&emsp;&emsp;(A) assistance under part II (military assistance) or part IV (economic support fund) or part V (military education and training) or part VI (peacekeeping operations) or part VIII (antiterrorism assistance) of this subchapter.
+&emsp;&emsp;(A) assistance under part II (military assistance) or part IV (economic support fund) or part V (military education and training) or part VI (peacekeeping operations) or part VIII (antiterrorism assistance) of this subchapter;
 
-&emsp;&emsp;(B) sales of defense articles or services, extensions of credits (including participations in credits, and guaranties of loans under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\]); or
+&emsp;&emsp;(B) sales of defense articles or services, extensions of credits (including participations in credits), and guaranties of loans under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\]); or
 
-&emsp;&emsp;(C) any license in effect with respect to the export of defense articles or defense services to or for the armed forces, police, intelligence, or other internal security forces of a foreign country under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\].
+&emsp;&emsp;(C) any license in effect with respect to the export to or for the armed forces, police, intelligence, or other internal security forces of a foreign country of—
+
+&emsp;&emsp;&emsp;(i) defense articles or defense services under section 38 of the Armed <sup>2</sup> Export Control Act (22 U.S.C. 2778); or
+
+&emsp;&emsp;&emsp;(ii) items listed under the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations; <sup>3</sup>
 
 #### (e) Removal of prohibition on assistance
 
-Notwithstanding any other provision of law, funds authorized to be appropriated under subchapter I of this chapter may be made available for the furnishing of assistance to any country with respect to which the President finds that such a significant improvement in its human rights record has occurred as to warrant liftingthe prohibition on furnishing such assistance in the national interest of the United States.
+Notwithstanding any other provision of law, funds authorized to be appropriated under subchapter I of this chapter may be made available for the furnishing of assistance to any country with respect to which the President finds that such a significant improvement in its human rights record has occurred as to warrant lifting the prohibition on furnishing such assistance in the national interest of the United States.
 
 #### (f) Allocations concerned with performance record of recipient countries without contravention of other provisions
 
@@ -82,7 +86,7 @@ Whenever the provisions of subsection (e) or (f) of this section are applied, th
 
 #### (h) Report on practices of recipient countries relating to trafficking in persons
 
-(1) The report required by subsection (b) of this section shall include the following:
+(1) The report required by subsection (b) shall include the following:
 
 &emsp;(A) A description of the nature and extent of severe forms of trafficking in persons, as defined in section 7102 of this title, in each foreign country.
 
@@ -98,7 +102,7 @@ Whenever the provisions of subsection (e) or (f) of this section are applied, th
 
 &emsp;&emsp;(v) What steps the government of that country has taken to assist victims of such trafficking, including efforts to prevent victims from being further victimized by traffickers, government officials, or others, grants of relief from deportation, and provision of humanitarian relief, including provision of mental and physical health care and shelter.
 
-&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of other countries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws of such country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
+&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of othercountries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws of such country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
 
 &emsp;&emsp;(vii) Whether the government of that country is assisting in international investigations of transnational trafficking networks and in other cooperative efforts to combat severe forms of trafficking in persons.
 
@@ -110,7 +114,7 @@ Whenever the provisions of subsection (e) or (f) of this section are applied, th
 
 (2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
-#### (i) <sup>3</sup> Report on status of freedom of the press in recipient countries
+#### (i) <sup>4</sup> Report on status of freedom of the press in recipient countries
 
 The report required by subsection (b) shall include, wherever applicable—
 
@@ -124,11 +128,11 @@ The report required by subsection (b) shall include, wherever applicable—
 
 &emsp;&emsp;(B) what steps the government of each such country has taken to preserve the safety and independence of the media, and to ensure the prosecution of those individuals who attack or murder journalists.
 
-#### (i) <sup>3</sup> Child marriage status
+#### (i) <sup>4</sup> Child marriage status
 
 #### (1) In general
 
-&emsp;The report required under subsection (b) shall include, for each country in which childmarriage is prevalent, a description of the status of the practice of child marriage in such country.
+&emsp;The report required under subsection (b) shall include, for each country in which child marriage is prevalent, a description of the status of the practice of child marriage in such country.
 
 #### (2) Defined term
 
@@ -138,7 +142,7 @@ The report required by subsection (b) shall include, wherever applicable—
 
 &emsp;&emsp;(B) younger than 18 years of age, if no such law exists.
 
-(Pub. L. 87–195, pt. II, §502B, as added Pub. L. 93–559, §46, Dec. 30, 1974, 88 Stat. 1815; amended Pub. L. 94–329, title III, §301(a), June 30, 1976, 90 Stat. 748; Pub. L. 95–105, title I, §109(a)(3), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–384, §§6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, 92 Stat. 731, 732, 735, 737; Pub. L. 96–53, title V, §511, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–92, §4, Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title VII, §§701(b), 704, Dec. 16, 1980, 94 Stat. 3156, 3157; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 99–64, title I, §124, July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title XII, §1201, Aug. 8, 1985, 99 Stat. 276; Pub. L. 100–204, title I, §127(2), Dec. 22, 1987, 101 Stat. 1343; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(b), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–292, title I, §102(d)(2), title IV, §421(b), Oct. 27, 1998, 112 Stat. 2795, 2810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §252, title VIII, §806(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–432, 1501A–471; Pub. L. 106–386, div. A, §104(b), Oct. 28, 2000, 114 Stat. 1472; Pub. L. 107–228, div. A, title VI, §§665(b), 683(b), Sept. 30, 2002, 116 Stat. 1407, 1411; Pub. L. 108–332, §6(a)(2), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(2), May 17, 2010, 124 Stat. 1187; Pub. L. 113–4, title XII, §1207(b)(2), Mar. 7, 2013, 127 Stat. 141.)
+(Pub. L. 87–195, pt. II, §502B, as added Pub. L. 93–559, §46, Dec. 30, 1974, 88 Stat. 1815; amended Pub. L. 94–329, title III, §301(a), June 30, 1976, 90 Stat. 748; Pub. L. 95–105, title I, §109(a)(3), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–384, §§6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, 92 Stat. 731, 732, 735, 737; Pub. L. 96–53, title V, §511, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–92, §4, Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title VII, §§701(b), 704, Dec. 16, 1980, 94 Stat. 3156, 3157; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 99–64, title I, §124, July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title XII, §1201, Aug. 8, 1985, 99 Stat. 276; Pub. L. 100–204, title I, §127(2), Dec. 22, 1987, 101 Stat. 1343; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(b), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–292, title I, §102(d)(2), title IV, §421(b), Oct. 27, 1998, 112 Stat. 2795, 2810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §252, title VIII, §806(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–432, 1501A–471; Pub. L. 106–386, div. A, §104(b), Oct. 28, 2000, 114 Stat. 1472; Pub. L. 107–228, div. A, title VI, §§665(b), 683(b), Sept. 30, 2002, 116 Stat. 1407, 1411; Pub. L. 108–332, §6(a)(2), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(2), May 17, 2010, 124 Stat. 1187; Pub. L. 113–4, title XII, §1207(b)(2), Mar. 7, 2013, 127 Stat. 141; Pub. L. 113–276, title II, §§206, 208(b)(2), Dec. 18, 2014, 128 Stat. 2992, 2993.)
 
 #### References in Text
 
@@ -162,6 +166,14 @@ The 1983 amendment by Pub. L. 98–151 is based on section 202(a) of H.R. 2992, 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b). Pub. L. 113–276, §208(b)(2)(A), substituted "Wherever applicable, such report shall include a description" for "Wherever applicable, a description" in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 113–276, §206(1), struck out "and" at end.
+
+Subsec. (d)(2)(B). Pub. L. 113–276, §208(b)(2)(B), which directed substitution of "credits)" for "credits", was executed by making the substitution for "credits" after "participations in", to reflect the probable intent of Congress.
+
+Subsec. (d)(2)(C). Pub. L. 113–276, §206(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "any license in effect with respect to the export of defense articles or defense services to or for the armed forces, police, intelligence, or other internal security forces of a foreign country under section 38 of the Arms Export Control Act."
+
 <b>2013</b>—Subsec. (i). Pub. L. 113–4 added subsec. (i) relating to child marriage status.
 
 <b>2010</b>—Subsec. (i). Pub. L. 111–166 added subsec. (i) relating to report on status of freedom of the press in recipient countries.
@@ -180,7 +192,7 @@ Pub. L. 107–228, §665(b), in introductory provisions, inserted after fourth s
 
 Subsec. (b). Pub. L. 105–292, §102(d)(2), in introductory provisions, inserted "and with the assistance of the Ambassador at Large for International Religious Freedom" after "Labor" and "Such report shall also include, wherever applicable, information on violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title)." after "sterilization."
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–319 inserted "Each report under this section shall list the votes of eachmember of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year." after second sentence.
+<b>1996</b>—Subsec. (b). Pub. L. 104–319 inserted "Each report under this section shall list the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year." after second sentence.
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted "Democracy, Human Rights, and Labor" for "Human Rights and Humanitarian Affairs" in introductory provisions.
 
@@ -238,7 +250,9 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 <i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "such report shall include a".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Arms".</i>
 
-<i><sup>3</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
+<i><sup>3</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>4</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

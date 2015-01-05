@@ -46,7 +46,7 @@ Pub. L. 105–261, div. A, title VII, §741(a), Oct. 17, 1998, 112 Stat. 2073, p
 
 &emsp;"(3) The Department of Defense has made significant progress in increasing the awareness of the importance of organ and tissue donations among members of the Armed Forces.
 
-&emsp;"(4) The inclusion of organ and tissue donor elections in the Defense Enrollment Eligibility Reporting System (DEERS) central database represents a major step in ensuring that organ and tissue donor elections are a matter of record and are accessible in a timely manner."
+&emsp;"(4) The inclusion of organ and tissue donor elections in the Defense Enrollment Eligibility ReportingSystem (DEERS) central database represents a major step in ensuring that organ and tissue donor elections are a matter of record and are accessible in a timely manner."
 
 #### Report on Implementation
 

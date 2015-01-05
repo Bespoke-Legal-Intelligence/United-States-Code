@@ -14,4 +14,4 @@ Part A—General Provisions
 - [&sect; 00726 - Evaluation standards and performance indicators](%C2%A7%2000726%20-%20Evaluation%20standards%20and%20performance%20indicators.md)
 - [&sect; 00727 - Monitoring and review](%C2%A7%2000727%20-%20Monitoring%20and%20review.md)
 - [&sect; 00728 - Expenditure of certain amounts](%C2%A7%2000728%20-%20Expenditure%20of%20certain%20amounts.md)
-- [&sect; 00728a - Training of employers with respect to Americans with Disabilities Act of 1990](%C2%A7%2000728a%20-%20Training%20of%20employers%20with%20respect%20to%20Americans%20with%20Disabilities%20Act%20of%201990.md)
+- [&sect; 00728a - Training and services for employers](%C2%A7%2000728a%20-%20Training%20and%20services%20for%20employers.md)

@@ -10,7 +10,7 @@ The Service shall assist the Secretary in carrying out the agricultural trade po
 
 &emsp;(4) carrying out the programs authorized under this chapter, the Food for Peace Act (7 U.S.C. 1691 et seq.), and other Acts.
 
-(Pub. L. 95–501, title V, §503, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3686; amended Pub. L. 104–127, title II, §250, Apr. 4, 1996, 110 Stat. 971; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 95–501, title V, §503, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3686; amended Pub. L. 104–127, title II, §250, Apr. 4, 1996, 110 Stat. 971; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 

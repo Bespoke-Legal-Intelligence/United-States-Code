@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 104–164, §121(b)(3), redesignated subsecs. (e) as (d). F
 
 Pub. L. 104–132, §328(a)(2), amended subsec. (d) generally, substituting pars. (1) and (2) for former pars. (1) to (5) which related to location for training and advice, law enforcement personnel training, availability of items on United States Munitions List, and services, equipment, personnel, and facilities involved in collection of intelligence.
 
-Subsec. (e). Pub. L. 104–164, §121(b)(3), which directed redesignation of subsec. (f) as (e), could not be executedbecause of prior amendment by Pub. L. 104–132, §328(a)(3), see below. Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 104–164, §121(b)(3), which directed redesignation of subsec. (f) as (e), could not be executed because of prior amendment by Pub. L. 104–132, §328(a)(3), see below. Former subsec. (e) redesignated (d).
 
 Subsec. (f). Pub. L. 104–132, §328(a)(3), struck out subsec. (f) which read as follows: "Funds made available to carry out this part may not be used for personnel compensation or benefits."
 

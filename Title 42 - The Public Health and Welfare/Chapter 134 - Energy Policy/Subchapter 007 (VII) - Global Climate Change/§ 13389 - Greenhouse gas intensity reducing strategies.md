@@ -104,7 +104,7 @@ Not later than 180 days after the date on which the Committee is established und
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct and make public an inventory and evaluation of greenhousegas intensity reducing technologies that have been developed, or are under development, by the National Laboratories, other Federal research facilities, institutions of higher education, and the private sector to determine which technologies are suitable for commercialization and deployment.
+&emsp;The Secretary shall conduct and make public an inventory and evaluation of greenhouse gas intensity reducing technologies that have been developed, or are under development, by the National Laboratories, other Federal research facilities, institutions of higher education, and the private sector to determine which technologies are suitable for commercialization and deployment.
 
 #### (2) Report
 

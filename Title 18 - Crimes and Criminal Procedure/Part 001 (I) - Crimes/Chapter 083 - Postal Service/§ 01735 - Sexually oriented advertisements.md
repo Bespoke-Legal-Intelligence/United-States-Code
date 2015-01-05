@@ -8,7 +8,7 @@
 
 > shall be fined under this title or imprisoned not more than five years, or both, for the first offense, and shall be fined under this title or imprisoned not more than ten years, or both, for any second or subsequent offense.
 
-(b) For the purposes of this section, the term "sexually oriented advertisement" shall have the same meaning as given it in section 3010(d) of title 39.
+(b) For the purposes of this section, the term "sexually oriented advertisement" shall havethe same meaning as given it in section 3010(d) of title 39.
 
 (Added Pub. L. 91–375, §6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 

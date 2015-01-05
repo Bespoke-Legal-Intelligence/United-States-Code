@@ -34,7 +34,7 @@ June 9, 1949, ch. 185, §8, 63 Stat. 167.
 
 June 9, 1949, ch. 185, §9, 63 Stat. 167.
 
-In paragraph (2), the words “Members of Congress” are substituted for “the President of the Senate or Members of Congress” in view of the definition of “Member of Congress” in section 2106.
+In paragraph (2), the words "Members of Congress" are substituted for "the President of the Senate or Members of Congress" in view of the definition of "Member of Congress" in section 2106.
 
 The first sentence of section 9 of the Act of June 9, 1949, which repealed the Subsistence Act of 1926 and the Auto Mileage Act of February 14, 1931, is omitted as executed.
 

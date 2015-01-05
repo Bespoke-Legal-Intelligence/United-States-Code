@@ -6,7 +6,7 @@ There is established within the Bureau an Explosives Training and Research Facil
 
 #### (b) Purpose
 
-The facility established under subsection (a) of this section shall be utilized to train Federal, State, and local law enforcement officers to—
+The facility established under subsection (a) shall be utilized to train Federal, State, and local law enforcement officers to—
 
 &emsp;(1) investigate bombings and explosions;
 
@@ -20,7 +20,7 @@ The facility established under subsection (a) of this section shall be utilized 
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated such sums as may be necessary to establish and maintain the facility established under subsection (a) of this section.
+&emsp;There are authorized to be appropriated such sums as may be necessary to establish and maintain the facility established under subsection (a).
 
 #### (2) Availability of funds
 

@@ -10,7 +10,7 @@ Each member of the Committee shall be appointed by the Director. In addition, th
 
 #### (c) Responsibilities of Committee
 
-The Committee shall be responsible for reviewing and evaluating all Foundation matters relating to opportunities for the participation in, and the advancement of, women, minorities, and persons with disabilities in education, training, and science and engineering research programs.
+The Committee shall be responsible for reviewing and evaluating all Foundation matters relating to opportunities for the participation in, and the advancement of, women, minorities,and persons with disabilities in education, training, and science and engineering research programs.
 
 #### (d) Standing or ad hoc subcommittees
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struc
 
 Subsec. (d). Pub. L. 105–207, §202(d)(2)(F), struck out "additional" after "organize such".
 
-Pub. L. 105–207, §202(d)(2)(C), (E), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Minorities in Science and Engineering. The Subcommittee on Minorities in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities foreducation, training, and research for minorities in science and engineering and (2) the impact of science and engineering on minorities. The Subcommittee shall be composed of all minority members of the Committee and such other members of the Committee as the Committee may designate."
+Pub. L. 105–207, §202(d)(2)(C), (E), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Minorities in Science and Engineering. The Subcommittee on Minorities in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for education, training, and research for minorities in science and engineering and (2) the impact of science and engineering on minorities. The Subcommittee shall be composed of all minority members of the Committee and such other members of the Committee as the Committee may designate."
 
 Subsecs. (e), (f). Pub. L. 105–207, §202(d)(2)(E), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 

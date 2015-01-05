@@ -14,13 +14,13 @@ In no case shall credit for the service described in subsection (a) of this sect
 
 #### (d) Reimbursement from Operations, Research, and Facilities Account of National Oceanic and Atmospheric Administration in Department of Commerce
 
-Notwithstanding any other provisions of this chapter or any other law, benefits under subchapter III of chapter 83 of title 5 made available by reason of the provisions of this section shall be paid from the civil service retirement and disability fund subject to reimbursement to such fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Director of the Office of Personnel Management during each fiscal year, of benefits provided by this section.
+Notwithstanding any other provisions of this chapter or any other law, benefits under subchapter III of chapter 83 of title 5 made available by reason of the provisions of this section shall be paid from the civil service retirement and disability fund subject to reimbursement tosuch fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Director of the Office of Personnel Management during each fiscal year, of benefits provided by this section.
 
 (Pub. L. 89–702, title II, §208, Nov. 2, 1966, 80 Stat. 1096; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 842.)
 
 #### Codification
 
-"Subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act, as amended" insubsec. (a) and for "the Civil Service Retirement Act" in subsec. (d), and "section 8342(h) of title 5" substituted for "section 11(h) of the Civil Service Retirement Act" in subsec. (c) on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act, as amended" in subsec. (a) and for "the Civil Service Retirement Act" in subsec. (d), and "section 8342(h) of title 5" substituted for "section 11(h) of the Civil Service Retirement Act" in subsec. (c) on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

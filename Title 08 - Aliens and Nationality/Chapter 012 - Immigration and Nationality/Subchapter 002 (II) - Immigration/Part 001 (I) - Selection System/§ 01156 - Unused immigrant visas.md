@@ -6,13 +6,13 @@ If an immigrant having an immigrant visa is denied admission to the United State
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–208 substituted “denied admission to the United States and removed” for “excluded from admission to the United States and deported”.
+<b>1996</b>—Pub. L. 104–208 substituted "denied admission to the United States and removed" for "excluded from admission to the United States and deported".
 
 <b>1965</b>—Pub. L. 89–236 substituted provisions allowing immigrant visas or preference immigrant visas to be issued to another qualified alien in lieu of immigrants excluded or deported, immigrants failing to apply for admission, or immigrants found not to be preference immigrants, for provisions relating to revocation of approval of petitions which, with minor amendments, were transferred to section 1155 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1965 Amendment
 

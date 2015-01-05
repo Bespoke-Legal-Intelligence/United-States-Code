@@ -72,7 +72,7 @@ Dedicated revenue sources.—The applicable Federal credit instrument shall be r
 
 &emsp;(7)
 
-Public sponsorship of private entities.—In the case of a project that is undertaken by an entity that is not a State or local government or an agency or instrumentality of a State or local government, the projectthat the entity is undertaking shall be publicly sponsored as provided in paragraph (3).
+Public sponsorship of private entities.—In the case of a project that is undertaken by an entity that is not a State or local government or an agency or instrumentality of a State or local government, the project that the entity is undertaking shall be publicly sponsored as provided in paragraph (3).
 
 &emsp;(8)
 
@@ -94,7 +94,7 @@ Beneficial effects.—The Secretary shall determine that financial assistance fo
 
 &emsp;(10)
 
-Project readiness.—To be eligible for assistance under this chapter, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
+Project readiness.—To be eligible for assistance under this chapter, the applicant shall demonstrate a reasonable expectation that the contracting process for constructionof the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
 
 (b)
 

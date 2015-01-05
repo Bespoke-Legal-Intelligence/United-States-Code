@@ -96,13 +96,13 @@ In subsection (a)(3)–(5), the word "boardings" is substituted for "enplanement
 
 #### References in Text
 
-Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A)(i)(I), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
+Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A)(i), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
 
 The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (a)(1)(A)(ii), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1)(B). Pub. L. 112–95, §421(1), amended subpar. (B) generally. Prior to amendment, text read as follows: "is located not less than 90 miles from the nearest medium or large hub airport; and".
+<b>2012</b>—Subsec. (a)(1)(B). Pub. L. 112–95, §421(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "is located not less than 90 miles from the nearest medium or large hub airport; and".
 
 Subsec. (a)(1)(D). Pub. L. 112–95, §422, added subpar. (D).
 
@@ -140,7 +140,7 @@ In General.—The Secretary of Transportation shall establish a pilot program un
 
 "(b)
 
-Limitation.—The Secretary may not require air carriers to participate in the pilot program under this section for more than 10 communities receiving serviceunder subchapter II of chapter 417 of title 49, United States Code."
+Limitation.—The Secretary may not require air carriers to participate in the pilot program under this section for more than 10 communities receiving service under subchapter II of chapter 417 of title 49, United States Code."
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
 
@@ -148,7 +148,7 @@ Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by
 
 "(a)
 
-Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
+Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, UnitedStates Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
 
 "(b)
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
+For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
 
 #### (b) Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans
 
@@ -60,7 +60,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (2) Bankruptcy
 
-&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
+&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv)) is not less than 100 percent.
 
 #### (3) Limited payment if percentage at least 60 percent but less than 80 percent
 
@@ -206,69 +206,9 @@ For purposes of this section—
 
 &emsp;The term "adjusted funding target attainment percentage" means the funding target attainment percentage which is determined under paragraph (1) by increasing each of the amounts under subparagraphs (A) and (B) of section 430(d)(2) by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q)) which were made by the plan during the preceding 2 plan years.
 
-#### (3) <sup>1</sup> Application to plans which are fully funded without regard to reductions for funding balances
+#### (3) Application to plans which are fully funded without regard to reductions for funding balances
 
-#### (A) In general
-
-&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 430(f)(4)), the funding target attainment percentage for purposes of paragraphs (1) and (2) shall be determined without regard to such reduction.
-
-#### (B) Transition rule
-
-&emsp;&emsp;Subparagraph (A) shall be applied to plan years beginning after 2007 and before 2011 by substituting for "100 percent" the applicable percentage determined in accordance with the following table:
-
-<b>    In the case of a plan year</b>
-
-<b>The applicable</b>
-
-<b>     beginning in calendar year:</b>
-
-<b>percentage is</b>
-
-&emsp;&emsp;2008
-
-92&nbsp;&nbsp;
-
-&emsp;&emsp;2009
-
-94&nbsp;&nbsp;
-
-&emsp;&emsp;2010
-
-96\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### (C) Limitation
-
-&emsp;&emsp;Subparagraph (B) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 430(f)(4)) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under subparagraph (B).
-
-#### (3) <sup>1</sup> Special rule for certain years
-
-&emsp;Solely for purposes of any applicable provision—
-
-#### (A) In general
-
-&emsp;&emsp;For plan years beginning on or after October 1, 2008, and before October 1, 2010, the adjusted funding target attainment percentage of a plan shall be the greater of—
-
-&emsp;&emsp;&emsp;(i) such percentage, as determined without regard to this paragraph, or
-
-&emsp;&emsp;&emsp;(ii) the adjusted funding target attainment percentage for such plan for the plan year beginning after October 1, 2007, and before October 1, 2008, as determined under rules prescribed by the Secretary.
-
-#### (B) Special rule
-
-&emsp;&emsp;In the case of a plan for which the valuation date is not the first day of the plan year—
-
-&emsp;&emsp;&emsp;(i) subparagraph (A) shall apply to plan years beginning after December 31, 2007, and before January 1, 2010, and
-
-&emsp;&emsp;&emsp;(ii) subparagraph (A)(ii) shall apply based on the last plan year beginning before November 1, 2007, as determined under rules prescribed by the Secretary.
-
-#### (C) Applicable provision
-
-&emsp;&emsp;For purposes of this paragraph, the term "applicable provision" means—
-
-&emsp;&emsp;&emsp;(i) subsection (d), but only for purposes of applying such paragraph to a payment which, as determined under rules prescribed by the Secretary, is a payment under a social security leveling option which accelerates payments under the plan before, and reduces payments after, a participant starts receiving social security benefits in order to provide substantially similar aggregate payments both before and after such benefits are received, and
-
-&emsp;&emsp;&emsp;(ii) subsection (e).
+&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 430(f)(4)), the funding target attainment percentage for purposes of paragraphs (1) and (2) shall be determined without regard to such reduction.
 
 #### (k) Secretarial authority for plans with alternate valuation date
 
@@ -278,11 +218,7 @@ In the case of a plan which has designated a valuation date other than the first
 
 For purposes of this section, the term "single-employer plan" means a plan which is not a multiemployer plan.
 
-#### (m) Special rule for 2008
-
-For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.
-
-(Added Pub. L. 109–280, title I, §113(a)(1)(B), Aug. 17, 2006, 120 Stat. 847; amended Pub. L. 110–458, title I, §101(c)(2), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(2), June 25, 2010, 124 Stat. 1300.)
+(Added Pub. L. 109–280, title I, §113(a)(1)(B), Aug. 17, 2006, 120 Stat. 847; amended Pub. L. 110–458, title I, §101(c)(2), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(2), June 25, 2010, 124 Stat. 1300; Pub. L. 113–97, title II, §202(c)(3)(B), Apr. 7, 2014, 128 Stat. 1136; Pub. L. 113–159, title II, §2003(c)(1), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(i), (F)(i), (G)(i), Dec. 19, 2014, 128 Stat. 4046.)
 
 #### References in Text
 
@@ -292,7 +228,17 @@ Section 412 of the Employee Retirement Income Security Act of 1974, referred to 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (j)(3). Pub. L. 111–192 added par. (3) relating to special rule for certain years.
+<b>2014</b>—Subsec. (a). Pub. L. 113–97 substituted "single-employer plan (other than a CSEC plan)" for "single-employer plan".
+
+Subsec. (d)(2). Pub. L. 113–159, §2003(c)(1), substituted "of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv))" for "of such plan".
+
+Subsec. (j)(3). Pub. L. 113–295, §221(a)(57)(F)(i), struck out par. (3) which related to a special rule for plan years beginning on or after Oct. 1, 2008, and before Oct. 1, 2010.
+
+Pub. L. 113–295, §221(a)(57)(E)(i), in par. (3) relating to application to plans which are fully funded without regard to reductions for funding balances, struck out subpar. (A) designation and heading and struck out subpars. (B) and (C) which related to a transition rule for plan years beginning after 2007 and before 2011 and a limitation for plan years beginning after 2008, respectively.
+
+Subsec. (m). Pub. L. 113–295, §221(a)(57)(G)(i), struck out subsec. (m). Text read as follows: "For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide."
+
+<b>2010</b>—Subsec. (j)(3). Pub. L. 111–192 added par. (3) relating to a special rule for plan years beginning on or after Oct. 1, 2008, and before Oct. 1, 2010.
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–458, §101(c)(2)(A), substituted "section 430" for "section 303" in introductory provisions and "an adjusted funding" for "a funding" in subpar. (B).
 
@@ -309,6 +255,22 @@ Subsec. (j)(3)(A). Pub. L. 110–458, §101(c)(2)(E)(i), struck out "without reg
 Subsec. (j)(3)(C). Pub. L. 110–458, §101(c)(2)(E)(ii), substituted "without regard to the reduction in the value of assets under section 430(f)(4)" for "without regard to this paragraph" and inserted "beginning" before "after" in two places.
 
 Subsecs. (k) to (m). Pub. L. 110–458, §101(c)(2)(F), added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
+Pub. L. 113–159, title II, §2003(c)(3), Aug. 8, 2014, 128 Stat. 1850, provided that:
+
+"(A)
+
+In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and section 1056 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2014.
+
+"(B)
+
+Collectively bargained plans.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements, the amendments made by this subsection shall apply to plan years beginning after December 31, 2015."
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -348,15 +310,47 @@ Collective bargaining exception.—In the case of a plan maintained pursuant to 
 
 > For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement."
 
+#### Provisions Relating to Plan Amendments
+
+Pub. L. 113–159, title II, §2003(c)(4), Aug. 8, 2014, 128 Stat. 1850, provided that:
+
+"(A)
+
+In general.—If this paragraph applies to any amendment to any plan or annuity contract, such plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subparagraph (B)(ii).
+
+"(B)
+
+Amendments to which paragraph applies.—
+
+&emsp;"(i)
+
+In general.—This paragraph shall apply to any amendment to any plan or annuity contract which is made—
+
+&emsp;&emsp;"(I) pursuant to the amendments made by this subsection \[amending this section and section 1056 of Title 29, Labor\], or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor under any provision as so amended, and
+
+&emsp;&emsp;"(II) on or before the last day of the first plan year beginning on or after January 1, 2016, or such later date as the Secretary of the Treasury may prescribe.
+
+&emsp;"(ii)
+
+Conditions.—This subsection \[amending this section and section 1056 of Title 29, Labor, and enacting provisions set out as a note under this section\] shall not apply to any amendment unless, during the period—
+
+&emsp;&emsp;"(I) beginning on the date that the amendments made by this subsection or the regulation described in clause (i)(I) takes effect (or in the case of a plan or contract amendment not required by such amendments or such regulation, the effective date specified by the plan), and
+
+&emsp;&emsp;"(II) ending on the date described in clause (i)(II) (or, if earlier, the date the plan or contract amendment is adopted),
+
+> &emsp;the plan or contract is operated as if such plan or contract amendment were in effect, and such plan or contract amendment applies retroactively for such period.
+
+"(C)
+
+Anti-cutback relief.—A plan shall not be treated as failing to meet the requirements of section 204(g) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1054(g)) and section 411(d)(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 411(d)(6)\] solely by reason of a plan amendment to which this paragraph applies."
+
 #### Temporary Modification of Application of Limitation on Benefit Accruals
 
 Pub. L. 111–192, title II, §203(b), June 25, 2010, 124 Stat. 1300, provided that: "Section 203 of the Worker, Retiree, and Employer Recovery Act of 2008 \[Pub. L. 110–458, set out below\] shall apply to a plan for any plan year in lieu of the amendments made by this section applying to sections 206(g)(4) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1056(g)(4)\] and 436(e) of the Internal Revenue Code of 1986 only to the extent that such section produces a higher adjusted funding target attainment percentage for such plan for such year."
 
-Pub. L. 110–458, title II, §203, Dec. 23, 2008, 122 Stat. 5118, provided that: "In the case of the first plan year beginning during the period beginning on October 1, 2008, and ending on September 30, 2009, sections206(g)(4)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(g)(4)(A)) and 436(e)(1) of the Internal Revenue Code of 1986 shall be applied by substituting the plan's adjusted funding target attainment percentage for the preceding plan year for such percentage for such plan year but only if the adjusted funding target attainment percentage for the preceding plan year is greater."
+Pub. L. 110–458, title II, §203, Dec. 23, 2008, 122 Stat. 5118, provided that: "In the case of the first plan year beginning during the period beginning on October 1, 2008, and ending on September 30, 2009, sections 206(g)(4)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(g)(4)(A)) and 436(e)(1) of the Internal Revenue Code of 1986 shall be applied by substituting the plan's adjusted funding target attainment percentage for the preceding plan year for such percentage for such plan year but only if the adjusted funding target attainment percentage for the preceding plan year is greater."
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
 For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
 

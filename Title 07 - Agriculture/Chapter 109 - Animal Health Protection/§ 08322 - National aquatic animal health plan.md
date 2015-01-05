@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture may enter into a cooperative agreement with an eligible entity to carry out a project under a national aquatic animal health plan under the authority of the Secretary under section 10411 of the Animal Health Protection Act (7 U.S.C. 8310) for the purpose ofdetecting, controlling, or eradicating diseases of aquaculture species and promoting species-specific best management practices.
+The Secretary of Agriculture may enter into a cooperative agreement with an eligible entity to carry out a project under a national aquatic animal health plan under the authority of the Secretary under section 10411 of the Animal Health Protection Act (7 U.S.C. 8310) for the purpose of detecting, controlling, or eradicating diseases of aquaculture species and promoting species-specific best management practices.
 
 #### (b) Cooperative agreements between eligible entities and the Secretary
 
@@ -24,13 +24,13 @@ In carrying out this section, the Secretary may make use of the authorities unde
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2012.
+There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2018.
 
 #### (e) Eligible entity defined
 
 In this section, the term "eligible entity" means a State, a political subdivision of a State, Indian tribe, or other appropriate entity, as determined by the Secretary of Agriculture.
 
-(Pub. L. 110–234, title XI, §11013, May 22, 2008, 122 Stat. 1361; Pub. L. 110–246, §4(a), title XI, §11013, June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 110–234, title XI, §11013, May 22, 2008, 122 Stat. 1361; Pub. L. 110–246, §4(a), title XI, §11013, June 18, 2008, 122 Stat. 1664, 2122; Pub. L. 113–79, title XII, §12103, Feb. 7, 2014, 128 Stat. 979.)
 
 #### References in Text
 
@@ -41,6 +41,10 @@ The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§�
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Animal Health Protection Act, which in part comprises this chapter.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–79 substituted "2018" for "2012".
 
 #### Effective Date
 

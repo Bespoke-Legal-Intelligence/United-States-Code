@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management shall prescribe regulations necessary for the administration of the programs established under this subchapter.
 
-(b)(1) The Office shall provide educational material, and technical aids and assistance, for use by an agency in connection with establishingand maintaining programs under this subchapter.
+(b)(1) The Office shall provide educational material, and technical aids and assistance, for use by an agency in connection with establishing and maintaining programs under this subchapter.
 
 (2) In order to provide the most effective materials, aids, and assistance under paragraph (1), the Office shall conduct periodic reviews of programs established by agencies under this subchapter particularly insofar as such programs may affect—
 
@@ -16,19 +16,25 @@
 
 &emsp;(E) increased opportunities for full-time and part-time employment; and
 
-&emsp;(F) employees’ job satisfaction and nonworklife.
+&emsp;(F) employees' job satisfaction and nonworklife.
 
 (c)(1) With respect to employees in the Library of Congress, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Librarian of Congress.
 
-(2) With respect to employees in the Government Printing Office, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Public Printer.
+(2) With respect to employees in the Government Publishing Office, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Director of the Government Publishing Office.
 
 (3) With respect to employees of the Architect of the Capitol and the Botanic Garden, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Architect of the Capitol.
 
-(Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 233; amended Pub. L. 101–163, title III, §312, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 111–68, div. A, title I, §1302(2), Oct. 1, 2009, 123 Stat. 2034.)
+(Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 233; amended Pub. L. 101–163, title III, §312, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 111–68, div. A, title I, §1302(2), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Amendments
 
 <b>2009</b>—Subsec. (c)(3). Pub. L. 111–68 added par. (3).
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–163 designated existing provisions as par. (1) and added par. (2).
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (c)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+"Director of the Government Publishing Office" substituted for "Public Printer" in subsec. (c)(2) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 

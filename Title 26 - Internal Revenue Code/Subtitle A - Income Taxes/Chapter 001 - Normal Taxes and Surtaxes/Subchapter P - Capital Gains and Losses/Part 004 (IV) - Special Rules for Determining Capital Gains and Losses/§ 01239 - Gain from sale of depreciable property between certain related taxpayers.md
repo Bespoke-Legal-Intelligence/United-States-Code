@@ -50,7 +50,7 @@ For purposes of this section, a patent application shall be treated as property 
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §642(a)(1)(A), substituted "controlled entities" for "80-percent owned entities".
 
-Subsec. (c). Pub. L. 99–514, §642(a)(1)(B), (C), in heading, substituted "Controlled entity" for "80-percent owned entity", in par. (1), in introductory provisions, substituted "controlled entity" for "80-percent owned entity", in subpar. (A), substituted "more than 50 percent of the value" for "80 percent or more in value", in subpar. (B), substituted "more than 50 percent" for "80 percent or more", and added subpar. (C), and amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of subparagraphs (A) and (B) of paragraph (1), the principles of section 318 shall apply, except that—
+Subsec. (c). Pub. L. 99–514, §642(a)(1)(B), (C), in heading, substituted "Controlled entity" for "80-percent owned entity", in par. (1), in introductory provisions, substituted "controlled entity" for "80-percent owned entity", in subpar. (A), substituted "more than 50 percent of the value" for "80 percent or more in value", in subpar. (B), substituted "more than 50 percent" for "80percent or more", and added subpar. (C), and amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of subparagraphs (A) and (B) of paragraph (1), the principles of section 318 shall apply, except that—
 
 &emsp;"(A) the members of an individual's family shall consist only of such individual and such individual's spouse,
 
@@ -110,7 +110,7 @@ Transitional rule for binding contracts.—The amendments made by this section s
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §175(c), July 18, 1984, 98 Stat. 708, provided that: "The amendments made by this section \[amending this section\] shall apply to salesor exchanges after March 1, 1984, in taxable years ending after such date."
+Pub. L. 98–369, div. A, title I, §175(c), July 18, 1984, 98 Stat. 708, provided that: "The amendments made by this section \[amending this section\] shall apply to sales or exchanges after March 1, 1984, in taxable years ending after such date."
 
 Amendment by section 421(b)(6) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 

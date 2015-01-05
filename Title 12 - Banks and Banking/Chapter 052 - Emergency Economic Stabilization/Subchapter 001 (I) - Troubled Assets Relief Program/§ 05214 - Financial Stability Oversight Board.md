@@ -6,7 +6,7 @@ There is established the Financial Stability Oversight Board, which shall be res
 
 &emsp;(1) reviewing the exercise of authority under a program developed in accordance with this chapter, including—
 
-&emsp;&emsp;(A) policies implemented by the Secretary and the Office of Financial Stability created under sections 5211 and 5212 of this title, including the appointment of financial agents, the designation of asset classes to be purchased, and plans for the structure of vehicles used to purchase troubled assets; and
+&emsp;&emsp;(A) policies implemented by the Secretary and the Office of Financial Stability createdunder sections 5211 and 5212 of this title, including the appointment of financial agents, the designation of asset classes to be purchased, and plans for the structure of vehicles used to purchase troubled assets; and
 
 &emsp;&emsp;(B) the effect of such actions in assisting American families in preserving home ownership, stabilizing financial markets, and protecting taxpayers;
 

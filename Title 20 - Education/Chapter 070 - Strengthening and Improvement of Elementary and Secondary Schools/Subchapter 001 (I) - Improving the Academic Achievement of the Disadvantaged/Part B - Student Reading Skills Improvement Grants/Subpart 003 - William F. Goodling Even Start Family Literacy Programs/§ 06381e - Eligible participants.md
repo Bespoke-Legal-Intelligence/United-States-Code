@@ -28,7 +28,7 @@ Except as provided in subsection (b) of this section, eligible participants in a
 
 #### (3) Children 8 years of age or older
 
-&emsp;If an Even Start program assisted under this subpart collaborates with a program under part A of this subchapter, and funds received under the part A program contribute to paying the cost of providing programs under this subpart to children 8 years of age or older, the Even Start program may, notwithstanding subsection (a)(2) of this section, permit the participation of children 8 years of age orolder if the focus of the program continues to remain on families with young children.
+&emsp;If an Even Start program assisted under this subpart collaborates with a program under part A of this subchapter, and funds received under the part A program contribute to paying the cost of providing programs under this subpart to children 8 years of age or older, the Even Start program may, notwithstanding subsection (a)(2) of this section, permit the participation of children 8 years of age or older if the focus of the program continues to remain on families with young children.
 
 (Pub. L. 89–10, title I, §1236, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1562.)
 

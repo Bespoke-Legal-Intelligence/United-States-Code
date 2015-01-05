@@ -38,7 +38,7 @@
 
 &emsp;(C) involves a grant, contract, or other agreement (including a request for any such grant, contract, or agreement) providing for the disbursement of Federal funds to the organization or group.
 
-(e) Nothing in subsection (a) or (b) prevents an officer or employee, including a special Government employee, from acting, with or without compensation, as agent or attorney for, or otherwise representing, his parents, spouse, child, or any person for whom, or for any estate for which, he is serving as guardian, executor,administrator, trustee, or other personal fiduciary except—
+(e) Nothing in subsection (a) or (b) prevents an officer or employee, including a special Government employee, from acting, with or without compensation, as agent or attorney for, or otherwise representing, his parents, spouse, child, or any person for whom, or for any estate for which, he is serving as guardian, executor, administrator, trustee, or other personal fiduciary except—
 
 &emsp;(1) in those matters in which he has participated personally and substantially as a Government employee or special Government employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, or
 
@@ -98,7 +98,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 Authority of President under subsec. (e) of this section to grant exemptions or approvals to individuals delegated to agency heads, see section 401 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
-Authority of President under subsec. (e) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
+Authority of President under subsec. (e) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, orsimilar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
 
 #### Exemptions
 

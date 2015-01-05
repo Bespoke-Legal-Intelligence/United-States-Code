@@ -28,7 +28,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(D) the purchaser or lessee of such real estate affirms in writing to the seller or lessor that it either (i) is purchasing or leasing such real estate substantially for its own use, or (ii) has a binding commitment to sell, lease, or sublease such real estate to an entity which meets the requirements of subparagraph (B), is engaged in commercial or industrial business, and is not affiliated with the seller, lessor, or agent thereof; and
 
-&emsp;&emsp;(E) a policy of title insurance or a title opinion is issued in connection with the transaction showing that title to the real estate purchased or leased is vested in the seller or lessor, subject only to such exceptions as may be approved in writing by such purchaser or the lessee prior to recordation of the instrument of conveyance or execution of the lease, but (i) nothing herein shall be construed as requiring the recordation of a lease, and (ii) any purchaser or lessee may waive, in writing in a separate document, the requirement of this subparagraph that a policy of title insurance or title opinion be issued in connection with the transaction.
+&emsp;&emsp;(E) a policy of title insurance or a title opinion is issued in connection with the transaction showing that title to the real estate purchased or leased is vested in the seller or lessor, subject only to such exceptions as may be approved in writing by such purchaser or the lessee prior to recordation of the instrument of conveyance or execution of the lease, but (i) nothing herein shall be construed as requiring the recordation of a lease, and (ii) any purchaser or lessee may waive, in writing in a separate document,the requirement of this subparagraph that a policy of title insurance or title opinion be issued in connection with the transaction.
 
 #### (b) Sale or lease of lots subject to other statutory registration and disclosure requirements
 
@@ -60,7 +60,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;(6) the sale or lease of a lot, if a mobile home is to be erected or placed thereon as a residence, where the lot is sold as a homesite by one party and the home by another, under contracts that obligate such sellers to perform, contingent upon the other seller carrying out its obligations so that a completed mobile home will be erected or placed on the completed homesite within a period of two years, and provide for all funds received by the sellers to be deposited in escrow accounts (controlled by parties independent of the sellers) until the transactions are completed, and further provide that such funds shall be released to the buyer on demand without prejudice if the land with the mobile home erected or placed thereon is not conveyed within such two-year period. Such homesite must conform to all local codes and standards for mobile home subdivisions, if any, must provide potable water, sanitary sewage disposal, electricity, access by roads, the purchaser must receive marketable title to the lot, and where common facilities are to be provided, they must be completed or fully funded;
 
-&emsp;(7)(A) the sale or lease of real estate by a developer who is engaged in a sales operation which is intrastate in nature. For purposes of this exemption, a lot may be sold only if—
+&emsp;(7)(A) the sale or lease of real estate by a developer who is engaged in a sales operationwhich is intrastate in nature. For purposes of this exemption, a lot may be sold only if—
 
 &emsp;&emsp;(i) the lot is free and clear of all liens, encumbrances, and adverse claims;
 
@@ -68,7 +68,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(iii) each purchase or lease agreement contains—
 
-&emsp;&emsp;&emsp;(I) a clear and specific statement describing a good faith estimate of the yearof completion of, and the party responsible for, providing and maintaining the roads, water facilities, sewer facilities and any existing or promised amenities; and
+&emsp;&emsp;&emsp;(I) a clear and specific statement describing a good faith estimate of the year of completion of, and the party responsible for, providing and maintaining the roads, water facilities, sewer facilities and any existing or promised amenities; and
 
 &emsp;&emsp;&emsp;(II) a nonwaivable provision specifying that the contract or agreement may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws; and
 
@@ -80,7 +80,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(ii) receipt of such statement has been acknowledged in writing by the purchaser or lessee.
 
-&emsp;(C) For the purpose of this paragraph, a sales operation is "intrastate in nature" if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located; or
+&emsp;(C) For the purpose of this paragraph, a sales operation is "intrastate in nature" if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located;
 
 &emsp;(8) the sale or lease of a lot in a subdivision containing fewer than three hundred lots if—
 
@@ -96,19 +96,33 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(F) the developer executes and supplies to the purchaser a written instrument designating a person within the State of residence of the purchaser as his agent for service of process and acknowledging that the developer submits to the legal jurisdiction of the State in which the purchaser or lessee resides; and
 
-&emsp;&emsp;(G) the developer executes a written affirmation to the effect that he has complied with the provisions of this paragraph, such affirmation to be given on a form provided by the Director, which shall include the following: the name and address of the developer; the name and address of the purchaser or lessee; a legal description of the lot; an affirmation that the provisions of this paragraph have been complied with; a statement that the developer submits to the jurisdiction of this title with regard to the sale or lease; and the signature of the developer.
+&emsp;&emsp;(G) the developer executes a written affirmation to the effect that he has complied with the provisions of this paragraph, such affirmation to be given on a form provided by the Director, which shall include the following: the name and address of the developer; the name and address of the purchaser or lessee; a legal description of the lot; an affirmation that the provisions of this paragraph have been complied with; a statement that the developer submits to the jurisdiction of this title with regard to the sale or lease; and the signature of the developer; or
+
+&emsp;(9) the sale or lease of a condominium unit that is not exempt under subsection (a).
 
 #### (c) Rules and regulations
 
-The Director may from time to time, pursuant to rules and regulations issued by him, exemptfrom any of the provisions of this chapter any subdivision or any lots in a subdivision, if he finds that the enforcement of this chapter with respect to such subdivision or lots is not necessary in the public interest and for the protection of purchasers by reason or the small amount involved or the limited character of the public offering.
+The Director may from time to time, pursuant to rules and regulations issued by him, exempt from any of the provisions of this chapter any subdivision or any lots in a subdivision, if he finds that the enforcement of this chapter with respect to such subdivision or lots is not necessary in the public interest and for the protection of purchasers by reason or the small amount involved or the limited character of the public offering.
 
-(Pub. L. 90–448, title XIV, §1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91–152, title IV, §411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–383, title VIII, §812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95–557, title IX, §907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96–153, title IV, §402, Dec. 21, 1979, 93 Stat. 1123; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
+#### (d) "Condominium unit" defined
+
+For purposes of subsection (b), the term "condominium unit" means a unit of residential or commercial property to be designated for separate ownership pursuant to a condominium plan or declaration provided that upon conveyance—
+
+&emsp;(1) the owner of such unit will have sole ownership of the unit and an undivided interest in the common elements appurtenant to the unit; and
+
+&emsp;(2) the unit will be an improved lot.
+
+(Pub. L. 90–448, title XIV, §1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91–152, title IV, §411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–383, title VIII, §812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95–557, title IX, §907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96–153, title IV, §402, Dec. 21, 1979, 93 Stat. 1123; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105; Pub. L. 113–167, §1(a), Sept. 26, 2014, 128 Stat. 1882.)
 
 #### References in Text
 
 The effective date of this subsection, referred to in subsec. (b)(2), probably means the effective date of title IV of Pub. L. 96–153, section 402 of which amended subsec. (b) of this section generally. For the effective date of title IV, see section 410 of Pub. L. 96–153, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(9). Pub. L. 113–167, §1(a)(1), added par. (9).
+
+Subsec. (d). Pub. L. 113–167, §1(a)(2), added subsec. (d).
 
 <b>2010</b>—Subsecs. (b)(2), (8)(B), (G), (c). Pub. L. 111–203 substituted "Director" for "Secretary".
 
@@ -127,6 +141,10 @@ Subsecs. (b), (c). Pub. L. 95–557, §907(b)(1), (2), added subsec. (b) and red
 <b>1974</b>—Subsec. (a)(11). Pub. L. 93–383 added par. (11).
 
 <b>1969</b>—Subsec. (a)(10). Pub. L. 91–152 substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms "liens", "encumbrances", and "adverse claims" so as not to include taxes and assessments imposed by a State, a public body having authority to assess and tax property, or a property owners' association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–167, §2, Sept. 26, 2014, 128 Stat. 1882, provided that: "The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Sept. 26, 2014\]."
 
 #### Effective Date of 2010 Amendment
 

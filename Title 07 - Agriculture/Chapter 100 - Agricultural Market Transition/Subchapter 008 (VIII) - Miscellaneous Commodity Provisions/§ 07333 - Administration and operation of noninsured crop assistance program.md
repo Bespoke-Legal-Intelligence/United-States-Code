@@ -4,7 +4,17 @@
 
 #### (1) In general
 
-&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the "Agency").
+#### (A) Coverages
+
+&emsp;&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverages based on individual yields (other than for value-loss crops) equivalent to—
+
+&emsp;&emsp;&emsp;(i) catastrophic risk protection available under section 1508(b) of this title; or
+
+&emsp;&emsp;&emsp;(ii) except in the case of crops and grasses used for grazing, additional coverage available under subsections (c) and (h) of section 1508 of this title that does not exceed 65 percent, as described in subsection (l).
+
+#### (B) Administration
+
+&emsp;&emsp;The Secretary shall carry out this section through the Farm Service Agency (referred to in this section as the "Agency").
 
 #### (2) Eligible crops
 
@@ -12,13 +22,15 @@
 
 &emsp;&emsp;In this section, the term "eligible crop" means each commercial crop or other agricultural commodity (except livestock)—
 
-&emsp;&emsp;&emsp;(i) for which catastrophic risk protection under section 1508(b) of this title is not available; and
+&emsp;&emsp;&emsp;(i) for which catastrophic risk protection under section 1508(b) of this title is not available;
 
-&emsp;&emsp;&emsp;(ii) that is produced for food or fiber.
+&emsp;&emsp;&emsp;(ii) for which additional coverage under subsections (c) and (h) of section 1508 of this title is not available; and
+
+&emsp;&emsp;&emsp;(iii) that is produced for food or fiber.
 
 #### (B) Crops specifically included
 
-&emsp;&emsp;The term "eligible crop" shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seedcrops, aquaculture (including ornamental fish), sea grass and sea oats, camelina, and industrial crops.
+&emsp;&emsp;The term "eligible crop" shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), sea grass and sea oats, camelina, sweet sorghum, biomass sorghum, and industrial crops (including those grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products).
 
 #### (C) Combination of similar types or varieties
 
@@ -28,7 +40,7 @@
 
 &emsp;To qualify for assistance under this section, the losses of the noninsured commodity shall be due to drought, flood, or other natural disaster, as determined by the Secretary.
 
-#### (4) Program ineligibility relating to crop production on native sod
+#### (4) Program reduction in benefits relating to crop production on native sod
 
 #### (A) Definition of native sod
 
@@ -36,25 +48,29 @@
 
 &emsp;&emsp;&emsp;(i) on which the plant cover is composed principally of native grasses, grasslike plants, forbs, or shrubs suitable for grazing and browsing; and
 
-&emsp;&emsp;&emsp;(ii) that has never been tilled for the production of an annual crop as of the date of enactment of this paragraph.
+&emsp;&emsp;&emsp;(ii) that has never been tilled, or the producer cannot substantiate that the ground has ever been tilled, for the production of an annual crop as of the date of enactment of this paragraph.
 
-#### (B) Ineligibility for benefits
+#### (B) Reduction in benefits
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
-
-&emsp;&emsp;&emsp;&emsp;(I) this section; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+&emsp;&emsp;&emsp;During the first 4 crop years of planting, as determined by the Secretary, native sod acreage that has been tilled for the production of an annual crop after February 7, 2014, shall be subject to a reduction in benefits under this section as described in this subparagraph.
 
 #### (ii) De minimis acreage exemption
 
 &emsp;&emsp;&emsp;The Secretary shall exempt areas of 5 acres or less from clause (i).
 
+#### (iii) Reduction
+
+&emsp;&emsp;&emsp;For purposes of the reduction in benefits for the acreage described in clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) the approved yield shall be determined by using a yield equal to 65 percent of the transitional yield of the producer; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the service fees or premiums for crops planted on native sod shall be equal to 200 percent of the amount determined in subsections <sup>1</sup> (l)(2) or (k), as applicable, but in no case shall exceed the amount determined in subsection (l)(2)(B)(ii).
+
 #### (C) Application
 
-&emsp;&emsp;Subparagraph (B) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.
+&emsp;&emsp;This paragraph shall only apply to native sod acreage in the States of Minnesota, Iowa, North Dakota, South Dakota, Montana, and Nebraska.
 
 #### (b) Application for noninsured crop disaster assistance
 
@@ -74,13 +90,13 @@
 
 #### (1) Cause
 
-&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
+&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3).
 
 #### (2) Assistance
 
 #### (A) In general
 
-&emsp;&emsp;On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
+&emsp;&emsp;On making a determination described in subsection (a)(3), the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3).
 
 #### (B) Aquaculture producers
 
@@ -136,7 +152,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (i) Documentation
 
-&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
+&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased bymore than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
 
 #### (ii) Prohibition
 
@@ -186,7 +202,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (2) Payment limitation
 
-&emsp;The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) for any crop year may not exceed $100,000.
+&emsp;The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) for any crop year may not exceed $125,000.
 
 #### (3) Limitation on multiple benefits for same loss
 
@@ -200,7 +216,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (4) Adjusted gross income limitation
 
-&emsp;A person or legal entity that has an average adjusted gross income in excess of the average adjusted gross income limitation applicable under section 1308–3a(b)(1)(A) of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
+&emsp;A person or legal entity that has an average adjusted gross income in excess of the average adjusted gross income limitation applicable under section 1308–3a(b)(1)(A) <sup>2</sup> of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
 
 #### (5) Regulations
 
@@ -216,7 +232,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (1) In general
 
-&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1) of this section) a service fee for the eligible crop in an amount that is equal to the lesser of—
+&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section,a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
 
 &emsp;&emsp;(A) $250 per crop per county; or
 
@@ -224,21 +240,99 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (2) Waiver
 
-&emsp;The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource farmer, as defined by the Secretary.
+&emsp;The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource, beginning, or socially disadvantaged farmer, as defined by the Secretary.
 
 #### (3) Use
 
 &emsp;The Secretary shall deposit service fees collected under this subsection in the Commodity Credit Corporation Fund.
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152.)
+#### (l) Payment equivalent to additional coverage
+
+#### (1) In general
+
+&emsp;The Secretary shall make available noninsured assistance under this subsection (other than for crops and grasses used for grazing) at a payment amount that is equivalent to an indemnity for additional coverage under subsections (c) and (h) of section 1508 of this title and equal to the product obtained by multiplying—
+
+&emsp;&emsp;(A) the amount that—
+
+&emsp;&emsp;&emsp;(i) the additional coverage yield, which shall be equal to the product obtained by multiplying—
+
+&emsp;&emsp;&emsp;&emsp;(I) an amount not less than 50 percent nor more than 65 percent, as elected by the producer and specified in 5-percent increments; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the approved yield for the crop, as determined by the Secretary; exceeds
+
+&emsp;&emsp;&emsp;(ii) the actual yield;
+
+&emsp;&emsp;(B) 100 percent of the average market price for the crop, as determined by the Secretary; and
+
+&emsp;&emsp;(C) a payment rate for the type of crop, as determined by the Secretary, that reflects—
+
+&emsp;&emsp;&emsp;(i) in the case of a crop that is produced with a significant and variable harvesting expense, the decreasing cost incurred in the production cycle for the crop that is, as applicable—
+
+&emsp;&emsp;&emsp;&emsp;(I) harvested;
+
+&emsp;&emsp;&emsp;&emsp;(II) planted but not harvested; or
+
+&emsp;&emsp;&emsp;&emsp;(III) prevented from being planted because of drought, flood, or other natural disaster, as determined by the Secretary; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a crop that is produced without a significant and variable harvesting expense, such rate as shall be determined by the Secretary.
+
+#### (2) Service fee and premium
+
+&emsp;To be eligible to receive a payment under this subsection, a producer shall pay—
+
+&emsp;&emsp;(A) the service fee required by subsection (k); and
+
+&emsp;&emsp;(B) the lesser of—
+
+&emsp;&emsp;&emsp;(i) the sum of the premiums for each eligible crop, with the premium for each eligible crop obtained by multiplying—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number of acres devoted to the eligible crop;
+
+&emsp;&emsp;&emsp;&emsp;(II) the yield, as determined by the Secretary under subsection (e);
+
+&emsp;&emsp;&emsp;&emsp;(III) the coverage level elected by the producer;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the average market price, as determined by the Secretary; and
+
+&emsp;&emsp;&emsp;&emsp;(V) a 5.25-percent premium fee; or
+
+&emsp;&emsp;&emsp;(ii) the product obtained by multiplying—
+
+&emsp;&emsp;&emsp;&emsp;(I) a 5.25-percent premium fee; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the applicable payment limit.
+
+#### (3) Additional availability
+
+#### (A) In general
+
+&emsp;&emsp;As soon as practicable after October 1, 2013, the Secretary shall make assistance available to producers of an otherwise eligible crop described in subsection (a)(2) that suffered losses—
+
+&emsp;&emsp;&emsp;(i) to a 2012 annual fruit crop grown on a bush or tree; and
+
+&emsp;&emsp;&emsp;(ii) in a county covered by a declaration by the Secretary of a natural disaster for production losses due to a freeze or frost.
+
+#### (B) Assistance
+
+&emsp;&emsp;The Secretary shall make assistance available under subparagraph (A) in an amount equivalent to assistance available under paragraph (1), less any fees not previously paid under paragraph (2).
+
+#### (4) Limited resource, beginning, and socially disadvantaged farmers
+
+&emsp;The coverage made available under this subsection shall be available to limited resource, beginning, and socially disadvantaged farmers, as determined by the Secretary, in exchange for a premium that is 50 percent of the premium determined under paragraph (2).
+
+#### (5) Effective date
+
+&emsp;Except as provided in paragraph (3)(A), additional coverage under this subsection shall be available for each of the 2015 through 2018 crop years.
+
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152; Pub. L. 113–79, title XI, §11014(b), title XII, §12305(a), Feb. 7, 2014, 128 Stat. 962, 986.)
 
 #### References in Text
 
-The date of enactment of this paragraph, referred to in subsec. (a)(4)(A)(ii), (B)(i), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
-
-The Federal Crop Insurance Act, referred to in subsec. (a)(4)(B)(i)(II), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The date of enactment of this paragraph, referred to in subsec. (a)(4)(A)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+
+Section 1308–3a of this title, referred to in subsec. (i)(4), was amended by Pub. L. 113–79, title I, §1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708, and, as so amended, provisions which formerly appeared in subsec. (b)(1)(A) of section 1308–3a were struck out. See subsec. (b)(1) of section 1308–3a of this title.
 
 #### Codification
 
@@ -247,6 +341,34 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section 196 of Pub. L. 104–127 repealed section 1519 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–79, §12305(a)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the 'Agency')."
+
+Subsec. (a)(2)(A)(ii), (iii). Pub. L. 113–79, §12305(a)(1)(B)(i), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (a)(2)(B). Pub. L. 113–79, §12305(a)(1)(B)(ii), substituted "sweet sorghum, biomass sorghum, and industrial crops (including those grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products)" for "and industrial crops".
+
+Subsec. (a)(4). Pub. L. 113–79, §11014(b)(1), substituted "reduction in benefits" for "ineligibility" in heading.
+
+Subsec. (a)(4)(A)(ii). Pub. L. 113–79, §11014(b)(2), inserted " ,or the producer cannot substantiate that the ground has ever been tilled," after "never been tilled".
+
+Subsec. (a)(4)(B). Pub. L. 113–79, §11014(b)(3)(A), substituted "Reduction in" for "Ineligibility for" in heading.
+
+Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+
+&emsp;"(I) this section; and
+
+&emsp;"(II) the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)."
+
+Subsec. (a)(4)(B)(iii). Pub. L. 113–79, §11014(b)(3)(C), added cl. (iii).
+
+Subsec. (a)(4)(C). Pub. L. 113–79, §11014(b)(4), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "Subparagraph (B) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State."
+
+Subsec. (i)(2). Pub. L. 113–79, §12305(a)(2), substituted "$125,000" for "$100,000".
+
+Subsec. (k)(2). Pub. L. 113–79, §12305(a)(3), substituted "limited resource, beginning, or socially disadvantaged farmer" for "limited resource farmer".
+
+Subsec. (l). Pub. L. 113–79, §12305(a)(4), added subsec. (l).
 
 <b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–246, §12025(b), inserted "camelina," after "sea oats,".
 
@@ -286,11 +408,19 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 106–224 applicable beginning with the 2001 crop of an agricultural commodity, see section 171(b)(2)(G) of Pub. L. 106–224, set out as a note under section 1501 of this title.
 
+#### Consideration of Losses in Fiscal Year 2014 and Subsequent Fiscal Years
+
+For losses under section 1501 of Public Law 113–79 \[enacting section 9081 of this title\] for the 2014 fiscal year and each fiscal year thereafter as not considered same loss for purposes of subsec. (i)(3) of this section, see section 733 of Pub. L. 113–235, set out as a note under section 1508 of this title.
+
 #### Transition Provisions
 
 Pub. L. 110–234, title I, §1603(f)(2), May 22, 2008, 122 Stat. 1011, and Pub. L. 110–246, §4(a), title I, §1603(f)(2), June 18, 2008, 122 Stat. 1664, 1739, provided that: "Section 196(i) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(i)), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crops of any eligible crop."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 Section as in effect on day before June 20, 2000, to continue to apply with respect to 1999 crop year, and to apply with respect to 2000 crop year, to extent application of an amendment by Pub. L. 106–224 is delayed under section 171(b) or by terms of the amendment, see section 173 of Pub. L. 106–224, set out as a note under section 1501 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

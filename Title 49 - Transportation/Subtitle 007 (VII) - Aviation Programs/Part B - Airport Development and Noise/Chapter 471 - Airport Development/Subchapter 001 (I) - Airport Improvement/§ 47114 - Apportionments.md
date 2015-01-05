@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, "amount subject to apportionment" means the amountnewly made available under section 48103 of this title for a fiscal year.
+Definition.—In this section, "amount subject to apportionment" means the amount newly made available under section 48103 of this title for a fiscal year.
 
 (b)
 
@@ -104,7 +104,7 @@ Population.—The term "population" means the population stated in the latest de
 
 &emsp;(2)
 
-Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion tothe States 18.5 percent of the amount subject to apportionment for each fiscal year as follows:
+Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subject to apportionment for each fiscal year as follows:
 
 &emsp;&emsp;(A) 0.66 percent of the apportioned amount to Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
 
@@ -116,7 +116,7 @@ Apportionment.—Except as provided in paragraph (3), the Secretary shall apport
 
 Special rule.—In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, rather than making an apportionment under paragraph (2), the Secretary shall apportion 20 percent of the amount subject to apportionment for each fiscal year as follows:
 
-&emsp;&emsp;(A) To each airport, excluding primary airports but including reliever and nonprimary commercial service airports, in States the lesser of—
+&emsp;&emsp;(A) To each airport, excluding primary airports but including reliever and nonprimarycommercial service airports, in States the lesser of—
 
 &emsp;&emsp;&emsp;(i) $150,000; or
 
@@ -198,7 +198,7 @@ In general.—Subject to paragraph (3), an amount that would be apportioned unde
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), 50 percent of the projected revenues from the charge in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section; or
 
-&emsp;&emsp;&emsp;(ii) with respect to an airport in Hawaii, 50 percent of the projected revenues from the charge in the fiscal year but not by more than 50 percent of the excess of—
+&emsp;&emsp;&emsp;(ii) with respect to an airport in Hawaii, 50 percent of the projected revenues fromthe charge in the fiscal year but not by more than 50 percent of the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that otherwise would be apportioned under this section; over
 
@@ -300,7 +300,7 @@ Sept. 3, 1982, Pub. L. 97–248, §507(a)(2), (b)(1), (3), (5)(F), 96 Stat. 679;
 
 Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §507(b)(7); added Nov. 5, 1990, Pub. L. 101–508, §9111, 104 Stat. 1388–362.
 
-In subsection (a), the word "newly" is substituted for "and not previously apportioned" for clarity. Thewords "made available" are substituted for "authorized to be obligated" for clarity and consistency.
+In subsection (a), the word "newly" is substituted for "and not previously apportioned" for clarity. The words "made available" are substituted for "authorized to be obligated" for clarity and consistency.
 
 In subsection (c)(1)(A), the words "during the prior calendar year" are substituted for 49 App.:2206(b) for clarity.
 

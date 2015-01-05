@@ -32,7 +32,7 @@ In this section:
 
 &emsp;The term "sustainable energy infrastructure" means—
 
-&emsp;&emsp;(A) facilities for production of energy from renewable energy sources, thermal energy sources, or highly efficient technologies, including combined heat and power or other waste heat use; and
+&emsp;&emsp;(A) facilities for production of energy from renewable energy sources, thermal energysources, or highly efficient technologies, including combined heat and power or other waste heat use; and
 
 &emsp;&emsp;(B) district energy systems.
 
@@ -254,7 +254,7 @@ In this section:
 
 #### (F) Advance budget authority required
 
-&emsp;&emsp;New direct loans may not be obligated under this subsection except to the extent that appropriations of budget authority to cover the costs of the new direct loans are made in advance, as required by section 661c of title 2.
+&emsp;&emsp;New direct loans may not be obligated under this subsection except to the extentthat appropriations of budget authority to cover the costs of the new direct loans are made in advance, as required by section 661c of title 2.
 
 #### (3) Criteria
 
@@ -288,7 +288,7 @@ Not later than 180 days after December 19, 2007, the Secretary shall establish p
 
 #### (1) Grants
 
-&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections\(b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
+&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections (b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
 
 #### (2) Loans
 

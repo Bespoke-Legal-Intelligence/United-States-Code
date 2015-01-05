@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is in the Office of the Secretary of Defense an Office of Family Policy (in this section referred to as the "Office"). The Office shall be headed by the Director of Family Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
+Establishment.—There is in the Office of the Secretary of Defense an Office of FamilyPolicy (in this section referred to as the "Office"). The Office shall be headed by the Director of Family Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
 
 (b)
 

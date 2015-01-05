@@ -90,7 +90,7 @@ Scope of Review.—In preparing the report required by subsection (e), the Commi
 
 &emsp;"(8) the benefit, if any, of granting private companies partial exemptions from United States antitrust laws to allow them to coordinate research, development, and products containing improved superconductors;
 
-&emsp;"(9) options for providing income tax incentives for encouraging research, development, and productionin the United States of products containing improved superconductors; and
+&emsp;"(9) options for providing income tax incentives for encouraging research, development, and production in the United States of products containing improved superconductors; and
 
 &emsp;"(10) methods to strengthen domestic patent and trademark laws to ensure that qualified superconductivity discoveries receive the fullest protection from infringement.
 

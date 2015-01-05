@@ -36,7 +36,7 @@ Except to the extent inconsistent with this section—
 
 #### (1) Consultation to ensure local perspectives
 
-&emsp;The Agency for International Development shall take into account the local-level perspectives of the rural and urban poor in sub-Saharan Africa, including women, during the planning process for project and program assistance under this section. In order to gain that perspective the Agency for International Development should consult closely with African, United States, and other private and voluntary organizations that have demonstrated effectiveness in or commitment to the promotion of local, grassroots activities on behalf of long-term development in sub-Saharan Africa as described in subsection (c) of this section.
+&emsp;The Agency for International Development shall take into account the local-level perspectives of the rural and urban poor in sub-Saharan Africa, including women, during the planning process for project and program assistance under this section. In order to gain that perspective the Agency for International Development should consult closely with African, United States, and other private and voluntary organizations that have demonstrated effectiveness in or commitment to the promotion of local, grassroots activities on behalf of long-term development in sub-Saharan Africa as described in subsection (c).
 
 #### (2) "Private and voluntary organization" defined
 
@@ -48,19 +48,19 @@ Local people, including women, shall be closely consulted and involved in the im
 
 #### (g) Participation of African women
 
-The Agency for International Development shall ensure that development activities assisted under this section incorporate a significant expansion of the participation (including decisionmaking) and integration of African women in each of the critical sectors described in subsection (i) of this section.
+The Agency for International Development shall ensure that development activities assisted under this section incorporate a significant expansion of the participation (including decisionmaking) and integration of African women in each of the critical sectors described in subsection (i).
 
 #### (h) Types of assistance
 
 #### (1) Projects and programs to address critical sectoral priorities
 
-&emsp;Assistance under this section shall emphasize primarily projects and programs to address critical sectoral priorities for long-term development described in subsection (i) of this section.
+&emsp;Assistance under this section shall emphasize primarily projects and programs to address critical sectoral priorities for long-term development described in subsection (i).
 
 #### (2) Reform of economic policies
 
 #### (A) Use of program assistance
 
-&emsp;&emsp;Assistance under this section may also include program assistance to promote reform of sectoral economic policies affecting long-term development in sub-Saharan Africa as described in subsection (c) of this section, with primary emphasis on reform of economic policies to support the critical sectoral priorities described in subsection (i) of this section.
+&emsp;&emsp;Assistance under this section may also include program assistance to promote reform of sectoral economic policies affecting long-term development in sub-Saharan Africa as described in subsection (c), with primary emphasis on reform of economic policies to support the critical sectoral priorities described in subsection (i).
 
 #### (B) Protection of vulnerable groups
 
@@ -76,11 +76,11 @@ The Agency for International Development shall ensure that development activitie
 
 #### (4) Other assistance
 
-&emsp;Funds made available to carry out this section shall be used almost exclusively for assistance in accordance with paragraphs (1), (2), and (3). Assistance consistent with the purpose of subsection (c) of this section may also be furnished under this section to carry out the provisions of sections 2151a through 2151d of this title.
+&emsp;Funds made available to carry out this section shall be used almost exclusively for assistance in accordance with paragraphs (1), (2), and (3). Assistance consistent with the purpose of subsection (c) may also be furnished under this section to carry out the provisions of sections 2151a through 2151d of this title.
 
 #### (i) Critical sectoral priorities
 
-The critical sectoral priorities for long-term development, as described in subsection (c) of this section, are the following:
+The critical sectoral priorities for long-term development, as described in subsection (c), are the following:
 
 #### (1) Agricultural production and natural resources
 
@@ -102,7 +102,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (2) Health
 
-&emsp;Improving health conditions, with special emphasis on meeting the health needs of mothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing trainingand training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
+&emsp;Improving health conditions, with special emphasis on meeting the health needs of mothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
 
 #### (3) Voluntary family planning services
 
@@ -120,15 +120,15 @@ The critical sectoral priorities for long-term development, as described in subs
 
 The Agency for International Development should target the equivalent of 10 percent of the amount authorized to be appropriated for each fiscal year to carry out this part for each of the following:
 
-&emsp;(1) The activities described in subsection (i)(1)(B) of this section, including identifiable components of agricultural production projects.
+&emsp;(1) The activities described in subsection (i)(1)(B), including identifiable components of agricultural production projects.
 
-&emsp;(2) The activities described in subsection (i)(2) of this section.
+&emsp;(2) The activities described in subsection (i)(2).
 
-&emsp;(3) The activities described in subsection (i)(3) of this section.
+&emsp;(3) The activities described in subsection (i)(3).
 
 #### (k) Effective use of assistance
 
-Assistance provided under this section shall be concentrated in countries which will make the most effective use of such assistance in order to fulfill the purpose specified in subsection (c) of this section, especially those countries (including those of the Sahel region) having the greatest need for outside assistance.
+Assistance provided under this section shall be concentrated in countries which will make the most effective use of such assistance in order to fulfill the purpose specified in subsection (c), especially those countries (including those of the Sahel region) having the greatest need for outside assistance.
 
 #### (l) Promotion of regional integration
 
@@ -176,7 +176,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 #### References in Text
 
-This chapter, referred to in subsec. (n)(2)(B), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification ofthis Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (n)(2)(B), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), probably means the Comprehensive Anti-Apartheid Act of 1986, which is Pub. L. 99–440, Oct. 2, 1986, 100 Stat. 1086, as amended, and was classified principally to chapter 60 (§5001 et seq.) of this title, prior to repeal by Pub. L. 103–149, §4(a)(1), (2), Nov. 23, 1993, 107 Stat. 1504, 1505. For complete classification of this Act to the Code, see Tables.
 
@@ -352,7 +352,7 @@ Additional Requirements.—Such plan shall seek to ensure that—
 
 #### Reports to Congress
 
-Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: "As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africawhich represent differing economic situations and levels of progress. The description shall include—
+Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: "As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
 
 &emsp;"(1) the nature and extent of consultation to ensure local perspectives, as described in subsections (e)(1) and (f) of section 496 \[22 U.S.C. 2293(e)(1), (f)\];
 

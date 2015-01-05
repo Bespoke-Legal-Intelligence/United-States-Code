@@ -2,13 +2,17 @@
 
 #### (a) Transfer of Federal equity
 
-Notwithstanding any other provision of law, any Federal equity acquired in real property through grants to States awarded under title III of the Social Security Act (42 U.S.C. 501 et seq.) or under the Wagner-Peyser Act (29 U.S.C. 49 et seq.) is transferred to the States that used the grants for the acquisition of such equity. The portion of any real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, the Wagner-Peyser Act (29 U.S.C. 49 et seq.), or title III of the Social Security Act (42 U.S.C. 501 et seq.). Any disposition of such real property shall be carried out in accordance with the procedures prescribed by the Secretary and the portion of the proceeds from the disposition of such real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, the Wagner-Peyser Act, or title III of the Social Security Act.
+Notwithstanding any other provision of law, any Federal equity acquired in real property through grants to States awarded under title III of the Social Security Act (42 U.S.C. 501 et seq.) or under the Wagner-Peyser Act (29 U.S.C. 49 et seq.) is transferred to the States that used the grants for the acquisition of such equity. The portion of any real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, the Wagner-Peyser Act (29 U.S.C. 49 et seq.), or title III of the Social Security Act (42 U.S.C. 501 et seq.). Any disposition of such real property shall be carried out in accordance with the procedures prescribed by theSecretary and the portion of the proceeds from the disposition of such real property that is attributable to the Federal equity transferred under this section shall be used to carry out activities authorized under this Act, the Wagner-Peyser Act, or title III of the Social Security Act.
 
 #### (b) Limitation on use
 
 A State shall not use funds awarded under this Act, the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\], or title III of the Social Security Act \[42 U.S.C. 501 et seq.\] to amortize the costs of real property that is purchased by any State on or after February 15, 2007.
 
 (Pub. L. 105–220, title I, §193, Aug. 7, 1998, 112 Stat. 1055; Pub. L. 109–289, div. B, title II, §20610, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 30.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
 
 #### References in Text
 
@@ -23,4 +27,8 @@ This Act, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936
 <b>2007</b>—Pub. L. 110–5 added Pub. L. 109–289, §20610. See 2006 Amendment note below.
 
 <b>2006</b>—Pub. L. 109–289, §20610, as added by Pub. L. 110–5, amended section catchline and text generally. Prior to amendment, text related to use of State real property for a one-stop service delivery system.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

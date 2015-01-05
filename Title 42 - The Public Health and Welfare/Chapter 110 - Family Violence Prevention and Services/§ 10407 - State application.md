@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) provide counseling, advocacy, and self-help services to victims of family violence, domestic violence, and dating violence, and their dependents;
 
-&emsp;&emsp;(C) in the case of an application submitted by a State, provide an assurance that there will be an equitable distribution of grants and grant funds within the State and between urban and rural areas within such State;
+&emsp;&emsp;(C) in the case of an application submitted by a State, provide an assurance that there will be an equitable distribution of grantsand grant funds within the State and between urban and rural areas within such State;
 
 &emsp;&emsp;(D) in the case of an application submitted by a State, provide an assurance that the State will consult with and provide for the participation of the State Domestic Violence Coalition in the planning and monitoring of the distribution of grants to eligible entities as described in section 10408(a) of this title and the administration of the grant programs and projects;
 

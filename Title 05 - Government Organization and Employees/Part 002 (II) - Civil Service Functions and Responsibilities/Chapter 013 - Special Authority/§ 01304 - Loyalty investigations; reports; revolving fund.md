@@ -14,7 +14,7 @@
 
 (d) The investigation and report required by subsection (a) of this section shall be made by the Federal Bureau of Investigation rather than the Office for those specific positions which the Secretary of State certifies are of a high degree of importance or sensitivity.
 
-(e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
+(e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generallyon an actual cost basis over a reasonable period of time.
 
 (2) The capital of the fund consists of the aggregate of—
 
@@ -30,7 +30,11 @@
 
 (4) Any unobligated and unexpended balances in the fund which the Office determines to be in excess of amounts needed for activities financed by the fund shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(5) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
+(5)(A) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
+
+(B) Such budget shall include an estimate from the Inspector General of the Office of the amount required to pay the expenses to audit, investigate, and provide other oversight activities with respect to the fund and the activities financed by the fund.
+
+(C) The amount requested by the Inspector General under subparagraph (B) shall not exceed .33 percent of the total budgetary authority requested by the Office under subparagraph (A).
 
 (6) The Comptroller General of the United States shall, as a result of his periodic reviews of the activities financed by the fund, report and make such recommendations as he deems appropriate to the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives.
 
@@ -38,7 +42,7 @@
 
 (g) This section does not affect the responsibility of the Federal Bureau of Investigation to investigate espionage, sabotage, or subversive acts.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, §1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, §510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, §203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, §1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, §5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, §3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, §2182, Dec. 21, 1995, 109 Stat. 732; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §421\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, §1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, §510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, §203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, §1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, §5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, §3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, §2182, Dec. 21, 1995, 109 Stat. 732; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §421\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 113–80, §2, Feb. 12, 2014, 128 Stat. 1006.)
 
 Historical and Revision Notes
 
@@ -62,7 +66,7 @@ July 31, 1953, ch. 283, §9, 67 Stat. 241.
 
 5 U.S.C. 657.
 
-June 5, 1952, ch. 369, §701 (par. under “Civil Service Commission”), 66 Stat. 107.
+June 5, 1952, ch. 369, §701 (par. under "Civil Service Commission"), 66 Stat. 107.
 
 (f)
 
@@ -80,7 +84,7 @@ Subsection (a) is based on section 1 of the Act of April 5, 1952, as amended, an
 
 In subsection (d), the references to section 10(b)(5)(B)(i) and (ii) of the Atomic Energy Act of 1946, section 510 of the Mutual Security Act of 1951, a majority of the members of the Atomic Energy Commission, and the Director of Mutual Security (which was changed to Director of the International Cooperation Administration on authority of section 8 of 1953 Reorg. Plan No. 7, 67 Stat. 641, and Executive Order 10610 of May 9, 1955) are omitted because of the disposition of the two sections as explained with reference to subsection (a).
 
-In subsection (e), the words “There is established” are omitted as executed.
+In subsection (e), the words "There is established" are omitted as executed.
 
 In subsection (g), the reference to statutes other than this section is omitted because nothing in those statutes affect the responsibility in question.
 
@@ -92,11 +96,15 @@ Section 1874(c) of title 42, referred to in subsec. (a)(2), which related to cle
 
 #### Amendments
 
-<b>1996</b>—Subsec. (e)(1). Pub. L. 104–208 inserted “, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities” before period at end of first sentence.
+<b>2014</b>—Subsec. (e)(1). Pub. L. 113–80, §2(1), inserted ", and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund" before period at end of first sentence.
 
-<b>1995</b>—Subsec. (e)(6). Pub. L. 104–66 struck out before period at end “at least once every three years”.
+Subsec. (e)(5). Pub. L. 113–80, §2(2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-<b>1994</b>—Subsec. (e)(6). Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House” for “Committees on Post Office and Civil Service of the Senate and House”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–208 inserted ", including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities" before period at end of first sentence.
+
+<b>1995</b>—Subsec. (e)(6). Pub. L. 104–66 struck out before period at end "at least once every three years".
+
+<b>1994</b>—Subsec. (e)(6). Pub. L. 103–437 substituted "Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House" for "Committees on Post Office and Civil Service of the Senate and House".
 
 <b>1984</b>—Subsec. (e)(1). Pub. L. 98–224 struck out cl. (i) designation and struck out cl. (ii) which provided that participation fees imposed by the President's Commission on Executive Exchange for private sector participation in its Executive Exchange Program be collected and credited to the fund, and be available for the costs of education and related travel of exchanged executives, for printing without regard to section 501 of title 44, and, in such amounts as specified in appropriations Acts, for entertainment expenses. See section 4109(d) of this title.
 
@@ -104,9 +112,9 @@ Section 1874(c) of title 42, referred to in subsec. (a)(2), which related to cle
 
 <b>1979</b>—Subsec. (a)(1). Pub. L. 96–60 struck out reference to section 1434 of title 22.
 
-<b>1978</b>—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a) to (f). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
 
-<b>1971</b>—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
+<b>1971</b>—Subsec. (e). Pub. L. 91–648 struck out in par. (1) "of $4,000,000" after "revolving fund" and inserted in par. (2)(A) ", which appropriations are hereby authorized".
 
 <b>1969</b>—Subsec. (e). Pub. L. 91–189, §1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
 
@@ -118,7 +126,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–412, §1(b), Jan. 3, 1983, 96 Stat. 2047, provided that: “The authority granted in subsection (a) \[amending this section\] shall terminate on December 31, 1983.”
+Pub. L. 97–412, §1(b), Jan. 3, 1983, 96 Stat. 2047, provided that: "The authority granted in subsection (a) \[amending this section\] shall terminate on December 31, 1983."
 
 #### Effective Date of 1979 Amendment
 

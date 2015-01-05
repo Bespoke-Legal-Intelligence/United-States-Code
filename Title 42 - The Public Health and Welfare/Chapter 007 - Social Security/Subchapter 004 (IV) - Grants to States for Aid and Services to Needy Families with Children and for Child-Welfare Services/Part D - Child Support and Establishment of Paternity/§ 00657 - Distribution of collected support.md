@@ -52,7 +52,7 @@ Subject to subsections (d) and (e), the amounts collected on behalf of a family 
 
 #### (5) Families under certain agreements
 
-&emsp;Notwithstanding paragraphs (1) through (3), in the case of an amount collected for a family in accordance with a cooperative agreement under section 654(33) of this title, the Stateshall distribute the amount collected pursuant to the terms of the agreement.
+&emsp;Notwithstanding paragraphs (1) through (3), in the case of an amount collected for a family in accordance with a cooperative agreement under section 654(33) of this title, the State shall distribute the amount collected pursuant to the terms of the agreement.
 
 #### (6) State option to pass through additional support with Federal financial participation
 
@@ -104,7 +104,7 @@ As used in subsection (a) of this section:
 
 &emsp;The term "assistance from the State" means—
 
-&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter or under the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996); and
+&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter or under the State plan approved under part Aof this subchapter (as in effect on the day before August 22, 1996); and
 
 &emsp;&emsp;(B) foster care maintenance payments under the State plan approved under part E of this subchapter.
 
@@ -158,7 +158,7 @@ Subsec. (a)(7). Pub. L. 109–171, §7301(b)(1)(B)(iii), redesignated par. (7) a
 
 Pub. L. 109–171, §7301(b)(1)(B)(i), added par. (7).
 
-Subsec. (b). Pub. L. 109–171, §7301(c), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Any rights to support obligations, assigned to a State as a condition of receiving assistance from the State under part A of this subchapter and in effect on September 30, 1997 (or such earlier date, on or after August 22, 1996, as the State may choose), shall remain assigned after such date."
+Subsec. (b). Pub. L. 109–171, §7301(c), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Any rights to support obligations, assigned to a State as a condition of receiving assistance from the State under part A of this subchapter and in effect on September 30, 1997 (or such earlier date,on or after August 22, 1996, as the State may choose), shall remain assigned after such date."
 
 Subsec. (c)(5). Pub. L. 109–171, §7301(b)(2), added par. (5).
 
@@ -180,7 +180,7 @@ Subsec. (d). Pub. L. 106–169, §301(c)(2), (4), redesignated subsec. (e) as (d
 
 > then the State share otherwise determined for the fiscal year shall be increased by an amount equal to one-half of the amount (if any) by which the State share for fiscal year 1995 exceeds the State share for the fiscal year (determined without regard to this subsection)."
 
-Pub. L. 106–169, §301(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "If the amounts collected which could be retained by the State in the fiscal year (to the extent necessary to reimburse the State for amounts paid to families as assistance by the State) are less than the State share of the amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on the day before August 22, 1996), the State share forthe fiscal year shall be an amount equal to the State share in fiscal year 1995."
+Pub. L. 106–169, §301(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "If the amounts collected which could be retained by the State in the fiscal year (to the extent necessary to reimburse the State for amounts paid to families as assistance by the State) are less than the State share of the amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on the day before August 22, 1996), the State share for the fiscal year shall be an amount equal to the State share in fiscal year 1995."
 
 Pub. L. 106–169, §401(k), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
@@ -236,7 +236,7 @@ Subsec. (b)(4). Pub. L. 98–369, §2640(b)(1), (2)(C), redesignated former par.
 
 Subsec. (c). Pub. L. 98–378, §7(a)(1), substituted "shall" for "may" in provisions preceding par. (1).
 
-Subsec. (c)(2). Pub. L. 98–378, §7(a)(2), substituted "any amount so collected, which represents monthly support payments, to the family (without requiring any formal reapplication and without the imposition of any application fee) on the same basis as in the case of other individuals who are not receiving assistance under part A of this subchapter," for "the net amount of any amount so collected, which represents monthly support payments, to the family after deducting any costs incurred in making the collection from the amount of any recovery made,".
+Subsec. (c)(2). Pub. L. 98–378, §7(a)(2), substituted "any amount so collected, which represents monthly support payments, to the family (without requiring any formal reapplication and without the imposition of any application fee) on the same basis as in the case ofother individuals who are not receiving assistance under part A of this subchapter," for "the net amount of any amount so collected, which represents monthly support payments, to the family after deducting any costs incurred in making the collection from the amount of any recovery made,".
 
 Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 

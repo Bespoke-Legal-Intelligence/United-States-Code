@@ -28,7 +28,7 @@ The Tax Court and each division thereof shall have power to punish by fine or im
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–177 inserted before period at end of concluding provisions "and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any otherofficial proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court".
+<b>2008</b>—Subsec. (c). Pub. L. 110–177 inserted before period at end of concluding provisions "and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514, §1556(b)(1), redesignated subsec. (e) as (c). Former subsec. (c), which provided for the appointment of special trial judges, was struck out.
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub
 
 #### Reimbursement
 
-Pub. L. 110–177, title I, §102(c), Jan. 7, 2008, 121 Stat. 2535, provided that: "The United States Tax Court shall reimburse the United States Marshals Service for protection provided under the amendments made by this section \[amending this section and section 566 of Title 28, Judiciary and Judicial Procedure\]."
+Pub. L. 110–177, title I, §102(c), Jan. 7, 2008, 121 Stat. 2535, provided that: "The United States Tax Court shall reimburse the United States Marshals Service for protection provided under the amendments made by thissection \[amending this section and section 566 of Title 28, Judiciary and Judicial Procedure\]."
 
 #### References to Commissioners Deemed References to Special Trial Judges
 

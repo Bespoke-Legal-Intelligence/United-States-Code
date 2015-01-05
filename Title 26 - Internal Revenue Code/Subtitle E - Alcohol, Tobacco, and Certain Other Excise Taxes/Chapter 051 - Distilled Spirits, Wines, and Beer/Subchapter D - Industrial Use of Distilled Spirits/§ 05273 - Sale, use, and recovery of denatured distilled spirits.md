@@ -30,7 +30,7 @@ No person shall withdraw or sell denatured distilled spirits, or sell any articl
 
 &emsp;&emsp;<b>(3) For definition of "articles", see section 5002(a)(14).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(39), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(39), July 26, 1979, 93 Stat. 286.)
 
 #### References in Text
 

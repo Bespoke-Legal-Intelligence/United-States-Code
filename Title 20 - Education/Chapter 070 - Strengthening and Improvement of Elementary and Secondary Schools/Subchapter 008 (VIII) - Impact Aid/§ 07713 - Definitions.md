@@ -28,7 +28,7 @@ For purposes of this subchapter:
 
 #### (4) Current expenditures
 
-&emsp;The term "current expenditures" means expenditures for free public education, including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay,and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
+&emsp;The term "current expenditures" means expenditures for free public education, including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay, and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
 
 #### (5) Federal property
 
@@ -180,7 +180,7 @@ The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is ac
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5)(A)(iii)(III), (F)(i), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to section 244 of this title. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13\(§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to section 244 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -30,7 +30,7 @@
 
 (1) In order to effectively carry out the purpose of this subchapter, the Assistant Secretary shall administer programs under this subchapter through the Administration.
 
-(2) In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration,,<sup>1</sup> and such other agencies and departments of the Federal Government as may be appropriate.
+(2) In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of the Department of Education, the Department of Labor, the Department of Housing and UrbanDevelopment, the Department of Transportation, the Office of Community Services, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration,,<sup>1</sup> and such other agencies and departments of the Federal Government as may be appropriate.
 
 #### (c) Ombudsman program
 
@@ -42,7 +42,7 @@ The Assistant Secretary shall provide technical assistance and training (by cont
 
 (2) No provision of this subchapter shall be construed as prohibiting a State agency or area agency on aging from providing services by using funds from sources not described in paragraph (1).
 
-(Pub. L. 89–73, title III, §301, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1516; amended Pub. L. 97–115, §3(a), (d), Dec. 29, 1981, 95 Stat. 1596, 1597; Pub. L. 98–459, title III, §301, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§104(b), 105(c), 121, 129(a), Nov. 29, 1987, 101 Stat. 929, 930, 933, 934; Pub. L. 100–628, title VII, §705(3), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–54, §13(q)(9)(B), June 13, 1991, 105 Stat. 281; Pub. L. 102–321, title I, §163(c)(2)(B), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(1)(A), title III, §301, title VII, §708(a)(2)(B), Sept. 30, 1992, 106 Stat. 1200, 1219, 1292; Pub. L. 103–171,§3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §301, title VIII, §801(c)(1), Nov. 13, 2000, 114 Stat. 2238, 2292; Pub. L. 109–365, title III, §301, Oct. 17, 2006, 120 Stat. 2538.)
+(Pub. L. 89–73, title III, §301, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1516; amended Pub. L. 97–115, §3(a), (d), Dec. 29, 1981, 95 Stat. 1596, 1597; Pub. L. 98–459, title III, §301, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§104(b), 105(c), 121, 129(a), Nov. 29, 1987, 101 Stat. 929, 930, 933, 934; Pub. L. 100–628, title VII, §705(3), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–54, §13(q)(9)(B), June 13, 1991, 105 Stat. 281; Pub. L. 102–321, title I, §163(c)(2)(B), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(1)(A), title III, §301, title VII, §708(a)(2)(B), Sept. 30, 1992, 106 Stat. 1200, 1219, 1292; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §301, title VIII, §801(c)(1), Nov. 13, 2000, 114 Stat. 2238, 2292; Pub. L. 109–365, title III, §301, Oct. 17, 2006, 120 Stat. 2538.)
 
 #### Prior Provisions
 
@@ -126,7 +126,7 @@ Pub. L. 95–478, title I, §103(a), Oct. 18, 1978, 92 Stat. 1516, provided that
 
 &emsp;"(D) coordination and consolidation of services provided under the Older Americans Act of 1965 \[this chapter\] allowing greater local determination to assess the need for services will facilitate achieving the goals of the Older Americans Act of 1965.
 
-"(2) It is the purpose of the amendments made by subsection (b) \[amending sections 3021 to 3029 of this title and enacting sections 3030 to 3030g of this title\] to combine within a consolidated title, subject to themodifications imposed by the provisions and requirements of the amendments made by subsection (b), the programs authorized by title III, title V, and title VII of the Older Americans Act of 1965 \[former subchapters III, V, and VII of this chapter, respectively, as in effect prior to their revision by Pub. L. 95–478\] in the fiscal year 1978, and funds appropriated to carry out such consolidated title shall be used solely for the purposes and for the assistance of the same types of programs authorized under the provisions of such titles."
+"(2) It is the purpose of the amendments made by subsection (b) \[amending sections 3021 to 3029 of this title and enacting sections 3030 to 3030g of this title\] to combine within a consolidated title, subject to the modifications imposed by the provisions and requirements of the amendments made by subsection (b), the programs authorized by title III, title V, and title VII of the Older Americans Act of 1965 \[former subchapters III, V, and VII of this chapter, respectively, as in effect prior to their revision by Pub. L. 95–478\] in the fiscal year 1978, and funds appropriated to carry out such consolidated title shall be used solely for the purposes and for the assistance of the same types of programs authorized under the provisions of such titles."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

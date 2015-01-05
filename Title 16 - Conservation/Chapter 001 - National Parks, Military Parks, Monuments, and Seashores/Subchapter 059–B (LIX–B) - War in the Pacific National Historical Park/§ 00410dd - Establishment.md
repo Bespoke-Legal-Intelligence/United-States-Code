@@ -48,7 +48,7 @@ Within the boundaries of the park, the Secretary is authorized to construct a mo
 
 #### (m) Interpretive programs
 
-Within the boundaries of the park, the Secretary is authorized to implement programs to interpret experiences of the people of Guam during World War II, including, but not limited to, oral histories of those people of Guam who experienced the occupation.
+Within the boundaries of the park, the Secretary is authorized to implement programs tointerpret experiences of the people of Guam during World War II, including, but not limited to, oral histories of those people of Guam who experienced the occupation.
 
 #### (n) Report on projected development costs
 

@@ -120,7 +120,7 @@ Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, as ame
 
 "(a)
 
-Plan Required.—Not later than January 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a plan to provide assistance to local educational agencies that experience growth in the enrollment of military dependent students as a result of any of the following events:
+Plan Required.—Not later than January 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on ArmedServices and Appropriations of the Senate and the House of Representatives\] a report setting forth a plan to provide assistance to local educational agencies that experience growth in the enrollment of military dependent students as a result of any of the following events:
 
 &emsp;"(1) Force structure changes.
 
@@ -146,7 +146,7 @@ Elements.—The report required by subsection (a), and each updated report requi
 
 "(c)
 
-Updated Reports.—Not later than March 1, 2008, and annually thereafter to coincide with the submission of the budget of the President for a fiscal yearunder section 1105 of title 31, United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an update of the report required by subsection (a).
+Updated Reports.—Not later than March 1, 2008, and annually thereafter to coincide with the submission of the budget of the President for a fiscal year under section 1105 of title 31, United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an update of the report required by subsection (a).
 
 "(d)
 

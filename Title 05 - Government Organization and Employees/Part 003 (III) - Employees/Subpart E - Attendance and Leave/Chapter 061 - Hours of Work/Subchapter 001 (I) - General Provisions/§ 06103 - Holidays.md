@@ -32,7 +32,7 @@
 
 &emsp;(2) Instead of a holiday that occurs on a regular weekly non-workday of an employee whose basic workweek is other than Monday through Friday, except the regular weekly non-workday administratively scheduled for the employee instead of Sunday, the workday immediately before that regular weekly nonworkday is a legal public holiday for the employee.
 
-&emsp;(3) Instead of a holiday that is designated under subsection (a) to occur on a Monday, for an employee at a duty post outside the United States whose basic workweek is other than Monday through Friday, and for whom Monday is a regularly scheduled workday, the legal public holiday is the first workday of the workweek in which the Monday designated for the observance of such holiday under subsection (a) occurs.
+&emsp;(3) Instead of a holiday that is designated under subsection (a) to occur on a Monday, for an employee at a duty post outside the United States whose basic workweek is other than Monday through Friday, and for whom Monday is a regularly scheduled workday, the legal public holiday is the first workday of the workweek in which the Monday designated forthe observance of such holiday under subsection (a) occurs.
 
 > This subsection, except subparagraph (B) of paragraph (1), does not apply to an employee whose basic workweek is Monday through Saturday.
 
@@ -40,9 +40,9 @@
 
 (d)(1) For purposes of this subsection—
 
-&emsp;(A) the term “compressed schedule” has the meaning given such term by section 6121(5); and
+&emsp;(A) the term "compressed schedule" has the meaning given such term by section 6121(5); and
 
-&emsp;(B) the term “adverse agency impact” has the meaning given such term by section 6131(b).
+&emsp;(B) the term "adverse agency impact" has the meaning given such term by section 6131(b).
 
 (2) An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
 
@@ -94,7 +94,7 @@ Jan. 11, 1957, Pub. L. 85–1, 71 Stat. 3.
 
 In subsection (a), former sections 87, 87a, and 87b are combined and restated for clarity. The names of all holidays are inserted for ready reference in a like manner to that used in former section 87c.
 
-In subsection (c), the year “1965” is substituted for “1957”.
+In subsection (c), the year "1965" is substituted for "1957".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -116,7 +116,7 @@ Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pu
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–144, §2, Nov. 2, 1983, 97 Stat. 917, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the first January 1 that occurs after the two-year period following the date of the enactment of this Act \[Nov. 2, 1983\].”
+Pub. L. 98–144, §2, Nov. 2, 1983, 97 Stat. 917, provided that: "The amendment made by the first section of this Act \[amending this section\] shall take effect on the first January 1 that occurs after the two-year period following the date of the enactment of this Act \[Nov. 2, 1983\]."
 
 #### Effective Date of 1975 Amendment
 
@@ -124,11 +124,11 @@ Pub. L. 94–97 provided that the amendment made by Pub. L. 94–97 is effective
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–363, §2, June 28, 1968, 82 Stat. 251, provided that: “The amendment made by subsection (a) of the first section of this Act \[amending this section\] shall take effect on January 1, 1971.”
+Pub. L. 90–363, §2, June 28, 1968, 82 Stat. 251, provided that: "The amendment made by subsection (a) of the first section of this Act \[amending this section\] shall take effect on January 1, 1971."
 
 #### References in Laws of the United States to Observances of Legal Public Holidays
 
-Pub. L. 90–363, §1(b), June 28, 1968, 82 Stat. 250, provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
+Pub. L. 90–363, §1(b), June 28, 1968, 82 Stat. 250, provided that: "Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a)."
 
 #### Executive Order No. 10358
 
@@ -146,7 +146,7 @@ Sec. 2. As used in this order:
 
 (a) <i>Holiday</i> means the first day of January, the third Monday of February, the last Monday of May, the fourth day of July, the first Monday of September, the second Monday of October, the fourth Monday of October, the fourth Thursday of November, the twenty-fifth day of December, or any other calendar day designated as a holiday by Federal statute or Executive order.
 
-(b) <i>Workday</i> means those hours which comprise in sequence the employee's regular daily tour of duty within any 24-hour period, whether falling entirely within one calendar day or not.
+(b) <i>Workday</i> means those hours which comprise in sequence the employee's regular daily tour of duty withinany 24-hour period, whether falling entirely within one calendar day or not.
 
 Sec. 3. (a) Any employee whose basic workweek does not include Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on Sunday.
 

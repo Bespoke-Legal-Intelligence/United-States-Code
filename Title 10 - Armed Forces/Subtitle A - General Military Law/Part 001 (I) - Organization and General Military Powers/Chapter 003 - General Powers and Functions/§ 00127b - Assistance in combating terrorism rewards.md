@@ -26,7 +26,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 (B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
 
-(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2014.
+(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015.
 
 (D) Not later than April 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
 
@@ -84,9 +84,11 @@ Annual Report.—(1) Not later than February 1 of each year, the Secretary of De
 
 Determinations by the Secretary.—A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
-(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, §1071, Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1031, Jan. 7, 2011, 124 Stat. 4351; Pub. L. 112–81, div. A, title X, §§1033, 1064(3), Dec. 31, 2011, 125 Stat. 1572, 1587; Pub. L. 112–239, div. A, title X, §1021(a), Jan. 2, 2013, 126 Stat. 1911.)
+(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, §1071, Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1031, Jan. 7, 2011, 124 Stat. 4351; Pub. L. 112–81, div. A, title X, §§1033, 1064(3), Dec. 31, 2011, 125 Stat. 1572, 1587; Pub. L. 112–239, div. A, title X, §1021(a), Jan. 2, 2013, 126 Stat. 1911; Pub. L. 113–291, div. A, title X, §1031, Dec. 19, 2014, 128 Stat. 3491.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(3)(C). Pub. L. 113–291 substituted "September 30, 2015" for "September 30, 2014".
 
 <b>2013</b>—Subsec. (c)(3)(C). Pub. L. 112–239 substituted "September 30, 2014" for "September 30, 2013".
 
@@ -120,7 +122,7 @@ Subsec. (d)(2). Pub. L. 110–181, §1033(a)(3), substituted "$2,000,000" for "$
 
 Subsec. (f)(2)(D). Pub. L. 110–181, §1033(c), added subpar. (D).
 
-<b>2006</b>—Subsec. (c)(2). Pub. L. 109–364 substituted "$10,000" for "$2,500", inserted ", or to the commander of a command directly subordinate to that commander," after "deputy commander", and inserted at end "Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A)."
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–364 substituted "$10,000" for "$2,500", inserted ", or to the commanderof a command directly subordinate to that commander," after "deputy commander", and inserted at end "Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A)."
 
 Subsec. (d)(1). Pub. L. 109–163 substituted "Such policies" for "Such polices".
 

@@ -20,7 +20,7 @@ The Secretary concerned may compromise, modify, or remit, with or without condit
 
 #### (2) Interest
 
-&emsp;Any civil penalty not paid in full when due under an order assessing the civil penalty shall thereafter accrue interest until paid at the rate of interest applicable to civil judgments of the courts of the United States.
+&emsp;Any civil penalty not paid in full when due under an order assessing the civil penalty shall thereafter accrue interest until paid atthe rate of interest applicable to civil judgments of the courts of the United States.
 
 #### (e) Secretary concerned defined
 

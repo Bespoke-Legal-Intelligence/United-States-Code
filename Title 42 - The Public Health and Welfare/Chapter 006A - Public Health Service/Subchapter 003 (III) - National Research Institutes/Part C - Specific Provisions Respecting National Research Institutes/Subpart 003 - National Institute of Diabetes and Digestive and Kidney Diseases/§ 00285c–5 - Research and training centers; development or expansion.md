@@ -64,7 +64,7 @@ The Director shall provide for the development or substantial expansion of cente
 
 &emsp;(B) conduct basic and clinical research into the cause, diagnosis, early detection, prevention, control and treatment of nutritional disorders, including obesity and the impact of nutrition and diet on child development;
 
-&emsp;(C) conduct training programs for physicians and allied health professionals in currentmethods of diagnosis and treatment of such diseases and complications, and in research in such disorders; and
+&emsp;(C) conduct training programs for physicians and allied health professionals in current methods of diagnosis and treatment of such diseases and complications, and in research in such disorders; and
 
 &emsp;(D) conduct information programs for physicians and allied health professionals who provide primary care for patients with such disorders or complications.
 

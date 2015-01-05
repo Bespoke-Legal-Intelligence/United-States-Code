@@ -35,6 +35,8 @@
 | [13726a.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013726a%20-%20Definitions.md) | Definitions. |
 | [13726b.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013726b%20-%20Federal%20regulation%20of%20prisoner%20transport%20companies.md) | Federal regulation of prisoner transport companies. |
 | [13726c.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013726c%20-%20Enforcement.md) | Enforcement. |
+| [13727\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013727%20-%20State%20information%20regarding%20individuals%20who%20die%20in%20the%20custody%20of%20law%20enforcement.md) | State information regarding individuals who die in the custody of law enforcement. |
+| [13727a.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013727a%20-%20Federal%20law%20enforcement%20death%20in%20custody%20reporting%20requirement.md) | Federal law enforcement death in custody reporting requirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

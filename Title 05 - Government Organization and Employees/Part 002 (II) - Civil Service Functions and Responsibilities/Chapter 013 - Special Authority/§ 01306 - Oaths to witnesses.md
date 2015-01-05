@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 5 U.S.C. 634.
 
-Aug. 23, 1912, ch. 350, §1 (last par. under “Civil Service Commission”), 37 Stat. 372.
+Aug. 23, 1912, ch. 350, §1 (last par. under "Civil Service Commission"), 37 Stat. 372.
 
 \[Uncodified\].
 

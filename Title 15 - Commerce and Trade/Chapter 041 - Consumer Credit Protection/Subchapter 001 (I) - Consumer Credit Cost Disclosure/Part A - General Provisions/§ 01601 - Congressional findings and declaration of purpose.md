@@ -50,7 +50,7 @@ Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–319, §1, Dec. 18, 2010, 124 Stat. 3457, provided that: "This Act \[amending section 1681m of thistitle and enacting provisions set out as a note under section 1681m of this title\] may be cited as the 'Red Flag Program Clarification Act of 2010'."
+Pub. L. 111–319, §1, Dec. 18, 2010, 124 Stat. 3457, provided that: "This Act \[amending section 1681m of this title and enacting provisions set out as a note under section 1681m of this title\] may be cited as the 'Red Flag Program Clarification Act of 2010'."
 
 Pub. L. 111–203, title XIV, §1400(a), July 21, 2010, 124 Stat. 2136, provided that: "This title \[see Tables for classification\] may be cited as the 'Mortgage Reform and Anti-Predatory Lending Act'."
 
@@ -96,7 +96,7 @@ Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: "This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the 'Ted Weiss Child Support Enforcement Act of 1992'."
+Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: "This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enactingprovisions set out as a note under section 1681a of this title\] may be cited as the 'Ted Weiss Child Support Enforcement Act of 1992'."
 
 #### Short Title of 1988 Amendments
 
@@ -114,7 +114,7 @@ Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: "
 
 #### Short Title of 1976 Amendments
 
-Pub. L. 94–240, §1, Mar. 23, 1976, 90 Stat. 257, provided that: "This Act \[enacting sections 1667 to 1667e of thistitle, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the 'Consumer Leasing Act of 1976'."
+Pub. L. 94–240, §1, Mar. 23, 1976, 90 Stat. 257, provided that: "This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the 'Consumer Leasing Act of 1976'."
 
 Pub. L. 94–239, §1(a), Mar. 23, 1976, 90 Stat. 251, provided that: "This Act \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section\] may be cited as the 'Equal Credit Opportunity Act Amendments of 1976'."
 
@@ -196,7 +196,7 @@ Pub. L. 103–325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that
 
 &emsp;"(1) whether a consumer engaging in an open end credit transaction (as defined in section 103 of the Truth in Lending Act \[15 U.S.C. 1602\]) secured by the consumer's principal dwelling is provided adequate protections under Federal law, including section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\]; and
 
-&emsp;"(2) whether a more appropriate interest rate index exists for purposes of subparagraph (A) of section 103(aa)(1) \[now 103(bb)(1)\] of the Truth in Lending Act\(as added by section 152(a) of this Act \[15 U.S.C. 1602(bb)(1)(A)\]) than the yield on Treasury securities referred to in that subparagraph."
+&emsp;"(2) whether a more appropriate interest rate index exists for purposes of subparagraph (A) of section 103(aa)(1) \[now 103(bb)(1)\] of the Truth in Lending Act (as added by section 152(a) of this Act \[15 U.S.C. 1602(bb)(1)(A)\]) than the yield on Treasury securities referred to in that subparagraph."
 
 #### Hearings on Home Equity Lending
 

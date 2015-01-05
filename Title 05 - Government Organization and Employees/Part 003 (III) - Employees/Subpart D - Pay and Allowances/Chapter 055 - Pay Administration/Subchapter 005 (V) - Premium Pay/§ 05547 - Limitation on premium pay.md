@@ -1,6 +1,6 @@
 ### §5547. Limitation on premium pay
 
-(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
+(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
 
 &emsp;(1) the maximum rate of basic pay payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
@@ -24,7 +24,9 @@
 
 (d) This section shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(31), Sept. 11, 1967, 81 Stat. 201; Pub. L. 97–276, §151(e), Oct. 2, 1982, 96 Stat. 1201; Pub. L. 98–525, title XV, §1537(d), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 100–523, §2, Oct. 24, 1988, 102 Stat. 2605; Pub. L. 101–509, title V, §529 \[title II, §204, title IV, §410(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456, 1469; Pub. L. 102–378, §2(43), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(b)(2), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 107–107, div. A, title XI, §1114(a), Dec. 28, 2001, 115 Stat. 1239.)
+(e) Any supplemental pay resulting from receipt of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay under section 5550 shall be considered premium pay in applying this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(31), Sept. 11, 1967, 81 Stat. 201; Pub. L. 97–276, §151(e), Oct. 2, 1982, 96 Stat. 1201; Pub. L. 98–525, title XV, §1537(d), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 100–523, §2, Oct. 24, 1988, 102 Stat. 2605; Pub. L. 101–509, title V, §529 \[title II, §204, title IV, §410(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456, 1469; Pub. L. 102–378, §2(43), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(b)(2), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 107–107, div. A, title XI, §1114(a), Dec. 28, 2001, 115 Stat. 1239; Pub. L. 113–277, §2(g)(1), Dec. 18, 2014, 128 Stat. 3005.)
 
 Historical and Revision Notes<br>1966
 
@@ -52,13 +54,13 @@ July 3, 1948, ch. 830, §303(a), 62 Stat. 1268.
 
 Sept. 1, 1954, ch. 1208, §209, 68 Stat. 1112.
 
-Former section 943(a), (b) is combined and restated for clarity and conciseness. The word “officer” is omitted as included in “employee”. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. Reference to the “Classification Act of 1949, as amended” is omitted as unnecessary.
+Former section 943(a), (b) is combined and restated for clarity and conciseness. The word "officer" is omitted as included in "employee". The word "scheduled" is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. Reference to the "Classification Act of 1949, as amended" is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### 1967 Act
 
-In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76 Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
+In the codification of 5 U.S.C. 5547, the words "premium pay under this subchapter" were substituted for "premium compensation provided by this Act" appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76 Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
 
 #### References in Text
 
@@ -68,27 +70,31 @@ Level V of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(2)(B),
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a). Pub. L. 113–277, §2(g)(1)(A), struck out "and" before "5546(a) and (b)" and inserted ", and 5550" after "5546(a) and (b)".
+
+Subsec. (e). Pub. L. 113–277, §2(g)(1)(B), added subsec. (e).
+
 <b>2001</b>—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
-“(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) of this title only to the extent that the payment does not cause his aggregate rate of pay for any pay period to exceed the maximum rate for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law). The first sentence of this subsection shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a of this title.
+"(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) of this title only to the extent that the payment does not cause his aggregate rate of pay for any pay period to exceed the maximum rate for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law). The first sentence of this subsection shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a of this title.
 
-“(b)(1) Subject to regulations prescribed by the Office of Personnel Management, the first sentence of subsection (a) shall not apply to an employee who is paid premium pay by reason of work in connection with an emergency which involves a direct threat to life or property, including a forest wildfire emergency.
+"(b)(1) Subject to regulations prescribed by the Office of Personnel Management, the first sentence of subsection (a) shall not apply to an employee who is paid premium pay by reason of work in connection with an emergency which involves a direct threat to life or property, including a forest wildfire emergency.
 
-“(2) Notwithstanding paragraph (1), no employee referred to in such paragraph may be paid premium pay under the provisions of law cited in the first sentence of subsection (a) if, or to the extent that, the aggregateof such employee's basic pay and premium pay under those provisions would, in any calendar year, exceed the maximum rate payable for GS–15 in effect at the end of such calendar year.
+"(2) Notwithstanding paragraph (1), no employee referred to in such paragraph may be paid premium pay under the provisions of law cited in the first sentence of subsection (a) if, or to the extent that, the aggregate of such employee's basic pay and premium pay under those provisions would, in any calendar year, exceed the maximum rate payable for GS–15 in effect at the end of such calendar year.
 
-“(c)(1) Subsections (a) and (b) shall not apply to a law enforcement officer.
+"(c)(1) Subsections (a) and (b) shall not apply to a law enforcement officer.
 
-“(2) A law enforcement officer may be paid premium pay under the provisions of law cited in the first sentence of subsection (a) only to the extent that the payment does not cause the officer's aggregate rate of pay for any pay period to exceed the lesser of—
+"(2) A law enforcement officer may be paid premium pay under the provisions of law cited in the first sentence of subsection (a) only to the extent that the payment does not cause the officer's aggregate rate of pay for any pay period to exceed the lesser of—
 
-&emsp;“(A) 150 percent of the minimum rate payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
+&emsp;"(A) 150 percent of the minimum rate payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
-&emsp;“(B) the rate payable for level V of the Executive Schedule.”
+&emsp;"(B) the rate payable for level V of the Executive Schedule."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–329 inserted “5545a,” after “5545(a), (b), and (c),”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–329 inserted "5545a," after "5545(a), (b), and (c),".
 
-<b>1992</b>—Subsec. (c)(3). Pub. L. 102–378 struck out par. (3) which read as follows: “For the purposes of this subsection, ‘law enforcement officer’ means any law enforcement officer within the meaning of section 8331(20) or section 8401(17).”
+<b>1992</b>—Subsec. (c)(3). Pub. L. 102–378 struck out par. (3) which read as follows: "For the purposes of this subsection, 'law enforcement officer' means any law enforcement officer within the meaning of section 8331(20) or section 8401(17)."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §204(1)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–15”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §204(1)\], inserted "(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)" after "GS–15".
 
 Subsec. (b). Pub. L. 101–509, §529 \[title II, §204(2)\], amended subsec. (b) generally, substituting present provisions for former provisions consisting of pars. (1) to (3) that related to pay of forest firefighters working on forest wildfire emergencies.
 
@@ -96,13 +102,13 @@ Subsec. (c). Pub. L. 101–509, §529 \[title IV, §410(b)\], added subsec. (c).
 
 <b>1988</b>—Pub. L. 100–523 amended section generally, designating existing provisions as subsec. (a) and adding subsec. (b).
 
-<b>1984</b>—Pub. L. 98–525 inserted “or the Department of Defense”.
+<b>1984</b>—Pub. L. 98–525 inserted "or the Department of Defense".
 
 <b>1982</b>—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under section 5546a of this title.
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title XI, §1114(c), Dec. 28, 2001, 115 Stat. 1240, provided that: “The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under this section\] shall take effect on the first day of the first pay period beginning on or after the date that is 120 days following the date of enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title XI, §1114(c), Dec. 28, 2001, 115 Stat. 1240, provided that: "The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under this section\] shall take effect on the first day of the first pay period beginning on or after the date that is 120 days following the date of enactment of this Act \[Dec. 28, 2001\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -126,11 +132,11 @@ Amendment by Pub. L. 97–276 effective at 5 o'clock ante meridian eastern dayli
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–523, §1, Oct. 24, 1988, 102 Stat. 2605, provided: “That this Act \[amending this section\] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
+Pub. L. 100–523, §1, Oct. 24, 1988, 102 Stat. 2605, provided: "That this Act \[amending this section\] may be cited as the 'Forest Wildfire Emergency Pay Equity Act of 1988'."
 
 #### Premium Pay for Protective Services of United States Secret Service
 
-Pub. L. 106–554, §1(a)(3) \[title I, §118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, §1114(b), Dec. 28, 2001, 115 Stat. 1240, provided that: “Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by section 3056(a) of title 18, United States Code, without regard to the restrictions contained in section 5547 of title 5, United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee's basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation. The term premium pay refers to the provisions of law cited in the first sentence of section 5547(a) of title 5, United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year.”
+Pub. L. 106–554, §1(a)(3) \[title I, §118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, §1114(b), Dec. 28, 2001, 115 Stat. 1240, provided that: "Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by section 3056(a) of title 18, United States Code, without regard to the restrictions contained in section 5547 of title 5, United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee's basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation. The term premium pay refers to the provisions of law cited in the first sentence of section 5547(a) of title 5, United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year."
 
 Similar provisions were contained in Pub. L. 106–58, title I, §118, Sept. 29, 1999, 113 Stat. 441.
 

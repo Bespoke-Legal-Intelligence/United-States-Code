@@ -54,7 +54,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;(i) PDP sponsors to submit data regarding drug claims that can be linked at the individual level to part A and part B data and such other information as the Secretary determines necessary; and
 
-&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizationsare required to submit to the Secretary and such other information as the Secretary determines necessary.
+&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizations are required to submit to the Secretary and such other information as the Secretary determines necessary.
 
 #### (D) Publication
 
@@ -112,7 +112,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (B) Allowable risk corridor costs
 
-&emsp;&emsp;For purposes of this subsection, the term "allowable risk corridor costs" means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
+&emsp;&emsp;For purposes of this subsection, the term "allowable risk corridor costs" means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title ofthe maximum amount of copayments permitted under such paragraphs.
 
 #### (2) Adjustment of payment
 
@@ -176,7 +176,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;&emsp;(I) the target amount described in subparagraph (B) for the plan; minus
 
-&emsp;&emsp;&emsp;&emsp;(II) an amount equal to the second threshold risk percentage for the plan (as determined under subparagraph (C)(ii)) of such target amount.
+&emsp;&emsp;&emsp;&emsp;(II) an amount equal to the second threshold risk percentage for the plan\(as determined under subparagraph (C)(ii)) of such target amount.
 
 #### (iii) First threshold upper limit
 
@@ -266,7 +266,7 @@ Section 1395w–111(g)(4) of this title, referred to in subsec. (g), was in the 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f)(2). Pub. L. 111–148 substituted "may be used—" for "may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section." in introductory provisions and added subpars. (A) and (B).
+<b>2010</b>—Subsec. (f)(2). Pub. L. 111–148 substituted "may be used—" for "may be used by officers, employees, andcontractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section." in introductory provisions and added subpars. (A) and (B).
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

@@ -164,5 +164,5 @@ Section 7872, Pub. L. 89–10, title IX, §9152, as added Pub. L. 103–382, tit
 
 Section 7873, Pub. L. 89–10, title IX, §9153, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793, related to preference for Indian applicants for grants. See section 7473 of this title.
 
-Section 7874, Pub. L. 89–10, title IX, §9154, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793, related to minimum grant criteria. See section 7474 of this title.
+Section 7874, Pub. L. 89–10, title IX, §9154, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793,related to minimum grant criteria. See section 7474 of this title.
 

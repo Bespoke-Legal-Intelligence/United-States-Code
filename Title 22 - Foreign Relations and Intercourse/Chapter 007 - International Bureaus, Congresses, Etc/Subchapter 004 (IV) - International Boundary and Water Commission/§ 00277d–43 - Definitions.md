@@ -8,7 +8,7 @@ In sections 277d–43 to 277d–46 of this title, the following definitions appl
 
 #### (2) Commission
 
-&emsp;The term "Commission" means the United States section of the International Boundaryand Water Commission, United States and Mexico.
+&emsp;The term "Commission" means the United States section of the International Boundary and Water Commission, United States and Mexico.
 
 #### (3) IWTP
 

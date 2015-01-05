@@ -18,7 +18,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 1\. The Secretary of the Interior is hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
-(a) The authority vested in the President by section 1 of the act of July 10, 1935, ch. 375, 49 Stat. 477 \[see 16 U.S.C. 19e to 19n\], to appoint members of the National Park Trust Fund Board.
+(a) The authority vested in the President by section 1 of the act of July 10, 1935, ch. 375, 49 Stat. 477 \[see 54 U.S.C. 101111 et seq.\], to appoint members of the National Park Trust Fund Board.
 
 (b) The authority vested in the President by section 2059 of the Revised Statutes \[25 U.S.C. 62\] to discontinue any Indian agency, or transfer the same, from the place or tribe designated by law to such other place or tribe as the public service may require.
 
@@ -42,11 +42,11 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (l) The authority vested in the President by section 2 of the act of March 2, 1917, ch. 145, 39 Stat. 951, as amended \[48 U.S.C. 737\], to approve the payment out of the Treasury for other purposes of money derived from any tax levied or assessed for a special purpose in Puerto Rico.
 
-(m) The authority vested in the President by section 7 of the act of March 2, 1917, ch. 145, 39 Stat. 954, as amended \[48 U.S.C. 748\], to convey to the people of Puerto Rico lands, buildings, or interests in lands, or other property owned by the United States, and to accept lands, buildings, or other interests or property by legislative grant from Puerto Rico.
+(m) The authority vested in the President by section 7 of the act of March 2, 1917, ch. 145, 39 Stat. 954, as amended \[48 U.S.C. 748\], to convey to the people ofPuerto Rico lands, buildings, or interests in lands, or other property owned by the United States, and to accept lands, buildings, or other interests or property by legislative grant from Puerto Rico.
 
 (n) The authority vested in the President by section 3(b) of the act of March 3, 1925, ch. 426, 43 Stat. 1111, as amended \[see 50 U.S.C. 167d\], to approve regulations governing the production and sale of helium for medical, scientific, and commercial use.
 
-(o) The authority vested in the President by section 6 of the act of April 26, 1906, ch. 1876, 34 Stat. 139, to remove from office the principal chief of the Choctaw, Cherokee, Creek, or Seminole tribe or the governor ofthe Chickasaw tribe, to declare any such office vacant, and to fill any vacancy in any such office arising from removal, disability, or death of the incumbent.
+(o) The authority vested in the President by section 6 of the act of April 26, 1906, ch. 1876, 34 Stat. 139, to remove from office the principal chief of the Choctaw, Cherokee, Creek, or Seminole tribe or the governor of the Chickasaw tribe, to declare any such office vacant, and to fill any vacancy in any such office arising from removal, disability, or death of the incumbent.
 
 (p) The authority vested in the President by section 28 of the act of April 26, 1906, ch. 1876, 34 Stat. 148, to approve acts, ordinances, or resolutions of the tribal council or legislature of the Choctaw, Chickasaw, Cherokee, Creek, and Seminole tribes or nations, and to approve contracts, involving the payment or expenditure of money or affecting property belonging to any of the said tribes or nations, made by them or any of them or by any officer thereof.
 
@@ -60,7 +60,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (b) The authority vested in the Secretary of the Interior by section 3 of the act of July 3, 1918, ch. 128, 40 Stat. 755, as amended, and as affected by section 4(f) of Reorganization Plan No. II, effective July 1, 1939, 53 Stat. 1433 \[16 U.S.C. 704\], to promulgate regulations permitting and governing the hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any migratory bird included in the terms of certain conventions, or any part, nest, or egg thereof.
 
-3\. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise”.
+3\. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 
 4\. All actions heretofore taken by the President in respect of the matters affected by this order and in force at the time of the issuance of this order, including regulations prescribed by the President in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until modified or revoked pursuant to the authority conferred by this order.
 
@@ -104,7 +104,7 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 (b) The Postmaster General \[now United States Postal Service\] is hereby designated and empowered to exercise without the approval, ratification, or other action of the President the authority vested in the President by section 504(b) of Title 18 of the United States Code to approve regulations issued by the Secretary of the Treasury under the authority of the said section 504(b) (relating to the printing, publishing, or importation, or the making or importation of the necessary plates for such printing or publishing, of postage stamps for philatelic purposes) \[see section 504(2) of title 18\], and to approve any amendment or repeal of any of such regulations by the Secretary of the Treasury.
 
-4\. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise”.
+4\. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 
 5\. All actions heretofore taken by the President in respect of the matters affected by this order and in force at the time of the issuance of this order, including regulations prescribed by the President in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
@@ -136,11 +136,11 @@ Sec. 5. (a) The Federal Communications Commission is hereby designated and empow
 
 #### the attorney general and the archivist of the united states
 
-Sec. 6. The Attorney General and the Archivist of the United States are hereby designated and empowered jointly to perform the following-described functions without the approval, ratification, or other action of the President:
+Sec. 6. The Attorney General and the Archivist of the United States are hereby designated and empoweredjointly to perform the following-described functions without the approval, ratification, or other action of the President:
 
 (a) The authority vested in the President by section 5(a) of the act of July 26, 1935, ch. 417, 49 Stat. 501, as amended (44 U.S.C. 1505(a)), to determine from time to time the documents or classes of documents having general applicability and legal effect.
 
-(b) The authority vested in the President by sections 6, 11(a), and 11(f) of said act, as amended (44 U.S.C. 1506;1510(a) and 1510(f)), to approve (or disapprove), respectively, (1) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of that act (including the regulations referred to in section 5(b) of the act (44 U.S.C. 1505(b)), authorizing publication in the Federal Register of certain documents or classes of documents), (2) actions of the Administrative Committee of the Federal Register requiring, from time to time, the preparation and publication in special or supplemental editions of the Federal Register of complete codifications of the documents, described in the said section 11(a) (44 U.S.C. 1510(a)), of each agency of the Government, and (3) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of section 11 (44 U.S.C. 1510) of the said act, as amended.
+(b) The authority vested in the President by sections 6, 11(a), and 11(f) of said act, as amended (44 U.S.C. 1506; 1510(a) and 1510(f)), to approve (or disapprove), respectively, (1) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of that act (including the regulations referred to in section 5(b) of the act (44 U.S.C. 1505(b)), authorizing publication in the Federal Register of certain documents or classes of documents), (2) actions of the Administrative Committee of the Federal Register requiring, from time to time, the preparation and publication in special or supplemental editions of the Federal Register of complete codifications of the documents, described in the said section 11(a) (44 U.S.C. 1510(a)), of each agency of the Government, and (3) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of section 11 (44 U.S.C. 1510) of the said act, as amended.
 
 #### Part VI
 
@@ -148,7 +148,7 @@ Sec. 6. The Attorney General and the Archivist of the United States are hereby d
 
 Sec. 7. All actions heretofore taken by the President in respect of the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved by the President in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
-Sec. 8. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise.”
+Sec. 8. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise."
 
 #### Ex. Ord. No. 10621. Delegation of Functions to Secretary of Defense
 
@@ -180,7 +180,7 @@ Sec. 2. The Secretary of Defense, and, as designated by the said Secretary for t
 
 Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force and effect at the time of the issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in force and effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
-Sec. 4. As used in this order, the term “functions” includes duties, powers, responsibilities, authority, and discretion, and the term “perform” may be construed to mean “exercise”.
+Sec. 4. As used in this order, the term "functions" includes duties, powers, responsibilities, authority, and discretion, and the term "perform" may be construed to mean "exercise".
 
 #### Ex. Ord. No. 10637. Delegation of Functions to Secretary of Homeland Security
 
@@ -190,7 +190,7 @@ Section 1. The Secretary of Homeland Security is hereby designated and empowered
 
 (a) The authority vested in the President by section 149 of title 14 of the United States Code, in his discretion, to detail officers and enlisted men of the Coast Guard to assist foreign governments in matters concerning which the Coast Guard may be of assistance.
 
-(b) The authority vested in the President by section 229 of title 14 of the United States Code \[see 14 U.S.C.281 et seq.\], to revoke the commission of any officer on the active list of the Coast Guard who, at the date of such revocation, has had less than three years of continuous service as a commissioned officer in the Coast Guard, and to prescribe regulations relating to such revocations.
+(b) The authority vested in the President by section 229 of title 14 of the United States Code \[see 14 U.S.C. 281 et seq.\], to revoke the commission of any officer on the active list of the Coast Guard who, at the date of such revocation, has had less than three years of continuous service as a commissioned officer in the Coast Guard, and to prescribe regulations relating to such revocations.
 
 (c) The authority vested in the President by section 232 of title 14 of the United States Code \[see 14 U.S.C. 291\], in his discretion, to retire from active service any commissioned officer of the Coast Guard, upon his own application, who has completed twenty years of active service in the Coast Guard, Navy, Army, Air Force, or Marine Corps, or the Reserve Components thereof.
 
@@ -226,7 +226,7 @@ Section 1. The Secretary of Homeland Security is hereby designated and empowered
 
 Sec. 2. The Secretary of Homeland Security is hereby designated and empowered to perform without the approval, ratification, or other action of the President the following described functions to the extent that they relate to the United States Coast Guard:
 
-(a) The authority vested in the President by Article 4(a) of the Uniform Code of Military Justice (section 1 of the act of May 5, 1950, ch. 169, 64 Stat. 110) \[10 U.S.C. 804\], to convene a general court-martial to try any dismissed officer, upon application by the officer concerned for trial by court-martial.
+(a) The authority vested in the President by Article 4(a) of the Uniform Code of Military Justice (section 1 of the act of May 5, 1950, ch. 169, 64 Stat. 110) \[10 U.S.C.804\], to convene a general court-martial to try any dismissed officer, upon application by the officer concerned for trial by court-martial.
 
 (b) The authority vested in the President by Articles 4(c) and 75 of the Uniform Code of Military Justice (64 Stat. 110, 132) \[10 U.S.C. 804, 875\], to reappoint a discharged officer to such commissioned rank and precedence as the former officer would have attained had he not been dismissed, and to direct the extent to which any such reappointment shall affect the promotion status of other officers.
 
@@ -242,7 +242,7 @@ Sec. 2. The Secretary of Homeland Security is hereby designated and empowered to
 
 Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force at the time of issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
-Sec. 4. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise”.
+Sec. 4. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 
 Sec. 5. Whenever the entire Coast Guard operates as a service in the Navy, the references to the Secretary of Homeland Security in the introductory portions of sections 1 and 2 of this order shall be deemed to be references to the Secretary of the Navy.
 
@@ -282,7 +282,7 @@ By virtue of the authority vested in me by Section 301 of Title 3 of the United 
 
 Section 1. \[Superseded by Ex. Ord. No. 11230, §2(11), June 28, 1965, 30 F.R. 8447.\]
 
-Sec. 2. The Administrator of General Services is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, so much of the authority vested in the President by Section 1(b) of the Act of August 2, 1946, ch. 744, 60 Stat. 807 (5 U.S.C. 73b–1(b)) \[5 U.S.C. 5724\], as pertains to the establishment of the rates to be used in reimbursing civilian officers or employees of the Government on a commuted basis in lieu of the payment of actual expenses of transportation, packing, crating, temporary storage, drayage, and unpacking of their household goods and personal effects in the case of transfers from one official station to another within the continental United States for permanent duty.
+Sec. 2. The Administrator of General Services is hereby designated and empowered to exercise, without theapproval, ratification, or other action of the President, so much of the authority vested in the President by Section 1(b) of the Act of August 2, 1946, ch. 744, 60 Stat. 807 (5 U.S.C. 73b–1(b)) \[5 U.S.C. 5724\], as pertains to the establishment of the rates to be used in reimbursing civilian officers or employees of the Government on a commuted basis in lieu of the payment of actual expenses of transportation, packing, crating, temporary storage, drayage, and unpacking of their household goods and personal effects in the case of transfers from one official station to another within the continental United States for permanent duty.
 
 Sec. 3. The initial regulations to be issued by the Director of the Office of Management and Budget and by the Administrator of General Services under the authority delegated to each of them by this order shall be effective on the same date and effective as of that date the following-described Executive orders are revoked:
 
@@ -340,7 +340,7 @@ Section 1. The Secretary of Commerce is hereby designated and empowered to perfo
 
 (l) The authority vested in the President by section 8 of the Act of August 6, 1947 (61 Stat. 788; 33 U.S.C. 883h) to employ public vessels, and to give instructions for regulating their conduct, to carry out the provisions of the Act of August 6, 1947 \[33 U.S.C. 883a et seq.\]; but the employment by the Secretary of Commerce of vessels, except those of the Department of Commerce or of any subordinate entity thereof, shall require the concurrence of the head of the department or other executive agency having custody or control of the vessel.
 
-(m) The authority vested in the President by Public Law 96–215, as amended (10 U.S.C. 716(a)), to transfer any commissioned officer with his consent from his uniformed service to, and appoint him in, the National Oceanic and Atmospheric Administration, provided consent for the transfer is given by the Secretary of Defense, the Secretary of Homeland Security, or the Secretary of Health and Human Services, as applicable, in accordance with joint regulations issued under that statute establishing the policies and procedures for such transfers and appointments.
+(m) The authority vested in the President by Public Law 96–215, as amended (10 U.S.C. 716(a)), to transferany commissioned officer with his consent from his uniformed service to, and appoint him in, the National Oceanic and Atmospheric Administration, provided consent for the transfer is given by the Secretary of Defense, the Secretary of Homeland Security, or the Secretary of Health and Human Services, as applicable, in accordance with joint regulations issued under that statute establishing the policies and procedures for such transfers and appointments.
 
 Sec. 2. Upon receipt by the Secretary of Commerce from the President or from the President's representative of information showing that the Senate has confirmed nominees of the President for appointment as commissioned officers of the National Oceanic and Atmospheric Administration, and without any further action on the part of the President, (1) the Secretary of Commerce or an officer of the Department of Commerce designated by the Secretary may, upon completion of statutory requirements for such appointments, tender offers of appointment to the nominees and upon acceptance such persons shall be deemed to be appointed accordingly, (2) the Secretary of Commerce, in the name of the President, shall issue to each such person a commission evidencing the appointment of such persons accordingly, and (3) the commissions of such persons shall be deemed to have been signed by the President. The effective date specified in any commission so issued shall be deemed, for all purposes, to be the date of the appointment evidenced by such commission.
 
@@ -354,7 +354,7 @@ Sec. 6. The authority delegated by the provisions of subsections (b), (c), (d), 
 
 Sec. 7. All actions heretofore taken by the President with respect to the matters affected by this order and in force at the time of issuance of this order, including any regulations prescribed or approved by the President with respect to such matters shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified or revoked pursuant to the authority conferred by this order. The following are hereby superseded: (1) Letter of the President to the Secretary of Commerce, dated April 23, 1929, and relating to the general subject of section 2 of this order, and (2) letter of the Secretary to the President, dated July 1, 1919, and directed to the Secretary of Commerce, relating to the general subject of section 5 of this order.
 
-Sec. 8. As used in this order the term “functions” embraces duties, powers, responsibilities, authority or discretion, and the term “perform” may be construed to mean “exercise”.
+Sec. 8. As used in this order the term "functions" embraces duties, powers, responsibilities, authority or discretion, and the term "perform" may be construed to mean "exercise".
 
 #### Ex. Ord. No. 11110. Amendment of Executive Order No. 10289, Relating to Performance of Certain Functions of Department of the Treasury
 
@@ -366,7 +366,7 @@ Section 1. Executive Order No. 10289 of September 19, 1951, as amended \[set out
 
 (a) By adding at the end of paragraph 1 thereof the following subparagraph (j):
 
-“(j) The authority vested in the President by paragraph (b) of section 43 of the Act of May 12, 1933, as amended (31 U.S.C. 821(b)) \[31 U.S.C. 5301(a), (b)\] to issue silver certificates against any silver bullion, silver, or standard silver dollars in the Treasury not then held for redemption of any outstanding silver certificates, to prescribe the denominations of such silver certificates, and to coin standard silver dollars and subsidiary silver currency for their redemption,” and
+"(j) The authority vested in the President by paragraph (b) of section 43 of the Act of May 12, 1933, as amended (31 U.S.C. 821(b)) \[31 U.S.C. 5301(a), (b)\] to issue silver certificates against any silver bullion, silver, or standard silver dollars in the Treasury not then held for redemption of any outstanding silver certificates, to prescribe the denominations of such silver certificates, and to coin standard silver dollars and subsidiary silver currency for their redemption," and
 
 (b) By revoking subparagraphs (b) and (c) of paragraph 2 thereof.
 
@@ -392,7 +392,7 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 
 (5) The authority vested in the President by Section 9(c) of the Federal Employees Salary Act of 1965 \[5 U.S.C. 5595(b)(2)\] to prescribe rules and regulations governing severance pay.
 
-Sec. 2. The Director of the Office of Personnel Management is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by Section 304(e) of the Government Employees’ Incentive Awards Act, 68 Stat. 1113 (5 U.S.C. 2123(e)) \[5 U.S.C. 4502(d)\], to determine the activity primarily benefiting, or the various activities benefiting, from any suggestion, invention, superior accomplishment, or other personal effort of any civilian officer or employee of the Government which constitutes the basis of any Presidential award or honorary recognition made or grantedunder Section 304(b) of that Act (5 U.S.C. 2123(b)) \[5 U.S.C. 4501(2)(A), 4504\].
+Sec. 2. The Director of the Office of Personnel Management is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by Section 304(e) of the Government Employees' Incentive Awards Act, 68 Stat. 1113 (5 U.S.C. 2123(e)) \[5 U.S.C. 4502(d)\], to determine the activity primarily benefiting, or the various activities benefiting, from any suggestion, invention, superior accomplishment, or other personal effort of any civilian officer or employee of the Government which constitutes the basis of any Presidential award or honorary recognition made or granted under Section 304(b) of that Act (5 U.S.C. 2123(b)) \[5 U.S.C. 4501(2)(A), 4504\].
 
 Sec 3. The following are hereby superseded:
 
@@ -444,7 +444,7 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
 (9) \[Revoked by Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897.\]
 
-(10) The authority vested in the President by section 2102(a) of title 10, United States Code, to prescribe regulations governing the establishment and maintenance of senior reserve officers’ Training Corps units at civilian educational institutions.
+(10) The authority vested in the President by section 2102(a) of title 10, United States Code, to prescribe regulations governing the establishment and maintenance of senior reserve officers' Training Corps units at civilian educational institutions.
 
 (11) The authority vested in the President by section 123 of title 10, and section 111 of title 32, United States Code, to suspend in time of war or national emergency those provisions cited therein relating to promotion of reserve officers.
 
@@ -474,7 +474,7 @@ WHEREAS it is desirable to provide a systematic method in connection with the is
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States and Commander in Chief of the Armed Forces of the United States and in conformity with the provisions of section 301 of title 3, United States Code, it is ordered as follows:
 
-Section 1. (a) Except with respect to facilities covered by Executive Order Nos. 10485 \[15 U.S.C. 717b note\] and 10530 \[set out above\], and by section 1(a) of the Executive Order of April 30, 2004, entitled “Issuance of Permits with Respect to Certain Energy-Related Facilities and Land Transportation Crossings on the International Boundaries of the United States” (the order of April 30, 2004) \[Ex. Ord. No. 13337, set out below\], the Secretary of State is hereby designated and empowered to receive all applications for Presidential permits for the construction, connection, operation, or maintenance, at the borders of the United States, of:
+Section 1. (a) Except with respect to facilities covered by Executive Order Nos. 10485 \[15 U.S.C. 717b note\] and 10530 \[set out above\], and by section 1(a) of the Executive Order of April 30, 2004, entitled "Issuance of Permits with Respect to Certain Energy-Related Facilities and Land Transportation Crossings on the International Boundaries of the United States" (the order of April 30, 2004) \[Ex. Ord. No. 13337, set out below\], the Secretary of State is hereby designated and empowered to receive all applications for Presidential permits for the construction, connection, operation, or maintenance, at the borders of the United States, of:
 
 &emsp;(i) pipelines, conveyor belts, and similar facilities for the exportation or importation of all products, except those specified in section 1(a) of the order of April 30, 2004, to or from a foreign country;
 
@@ -516,7 +516,7 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 11609. Delegation of Certain Functions Vested in the President to Other Officers of the Government
 
-Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11713, Apr. 21, 1973, 38 F.R. 10069; Ex. Ord. No. 11779, Apr. 19, 1974, 39 F.R. 14185; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043; Ex. Ord. No. 12466, Feb. 27, 1984, 49 F.R. 7349, eff. Nov. 14, 1983; Ex. Ord. No. 12522, June 24, 1985, 50 F.R. 26337, eff. Oct. 12, 1984; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12822, Nov. 16, 1992, 57 F.R. 54289, eff. Jan. 1, 1992, provided:
+Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11713, Apr. 21, 1973, 38 F.R. 10069; Ex. Ord. No. 11779, Apr. 19, 1974, 39 F.R. 14185; Ex.Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043; Ex. Ord. No. 12466, Feb. 27, 1984, 49 F.R. 7349, eff. Nov. 14, 1983; Ex. Ord. No. 12522, June 24, 1985, 50 F.R. 26337, eff. Oct. 12, 1984; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12822, Nov. 16, 1992, 57 F.R. 54289, eff. Jan. 1, 1992, provided:
 
 By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -540,7 +540,7 @@ Section 1. <i>General Services Administration</i>. The Administrator of General 
 
 (c) The authority of the President under 5 U.S.C. 5724c to prescribe the regulations provided for therein pursuant to which each agency shall carry out its responsibilities under 5 U.S.C. 5724c; <i>provided</i>, that the Director of Central Intelligence, after consultation with the Administrator of General Services, shall prescribe such regulations for the Central Intelligence Agency.
 
-(8) The authority of the President under 5 U.S.C. 5726 to prescribe the regulations provided for therein, relating to (i) the definition of “household goods and personal effects”, (ii) allowable storage expenses and related transportation, and (iii) the allowance of nontemporary storage expenses or storage at Government expense in Government-owned facilities (including related transportation and other expenses).
+(8) The authority of the President under 5 U.S.C. 5726 to prescribe the regulations provided for therein, relating to (i) the definition of "household goods and personal effects", (ii) allowable storage expenses and related transportation, and (iii) the allowance of nontemporary storage expenses or storage at Government expense in Government-owned facilities (including related transportation and other expenses).
 
 (9) The authority of the President under 5 U.S.C. 5727 to prescribe the regulations provided for therein, relating to the transportation at Government expense of privately owned motor vehicles.
 
@@ -566,7 +566,7 @@ Section 1. <i>General Services Administration</i>. The Administrator of General 
 
 (20) The authority of the Administrator of General Services under section 210(i) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490(i)) \[now 40 U.S.C. 589\] to prescribe regulations relating to the installation, repair, and replacement of sidewalks.
 
-(21) The authority of the President under section 108 of the Housing Act of July 15, 1949, c. 338, 63 Stat. 419, as amended (42 U.S.C. 1458), to transfer, or cause to be transferred, to the Secretary of Housing and Urban Development any right, title or interest held by the Federal Government or any department or agency thereof in any land (including buildings thereon) which is surplus to the needs of the Government and which a local public agency certifies will be within the area of a project being planned by it.
+(21) The authority of the President under section 108 of the Housing Act of July 15, 1949, c. 338, 63 Stat. 419,as amended (42 U.S.C. 1458), to transfer, or cause to be transferred, to the Secretary of Housing and Urban Development any right, title or interest held by the Federal Government or any department or agency thereof in any land (including buildings thereon) which is surplus to the needs of the Government and which a local public agency certifies will be within the area of a project being planned by it.
 
 (22), (23) \[Revoked by Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043.\]
 
@@ -578,7 +578,7 @@ Sec. 2. <i>Department of the Treasury</i>. The Secretary of the Treasury is here
 
 Sec. 3. <i>Department of Health and Human Services</i>. The Secretary of Health and Human Services is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the following:
 
-(1) The authority of the President under the first section of the Act entitled “An Act to authorize the operation of stands in Federal buildings by blind persons, to enlarge the economic opportunities of the blind, and for other purposes,” approved June 20, 1936, 49 Stat. 1559, as amended (20 U.S.C. 107), to approve regulations prescribed by the heads of the respective departments and agencies thereunder.
+(1) The authority of the President under the first section of the Act entitled "An Act to authorize the operation of stands in Federal buildings by blind persons, to enlarge the economic opportunities of the blind, and for other purposes," approved June 20, 1936, 49 Stat. 1559, as amended (20 U.S.C. 107), to approve regulations prescribed by the heads of the respective departments and agencies thereunder.
 
 (2) The authority of the Secretary of Health and Human Services under section 2 of the Act of August 4, 1947, c. 478, 61 Stat. 751, as amended (24 U.S.C. 168a) to fix per diem rates for care of patients in Saint Elizabeths Hospital.
 
@@ -596,7 +596,7 @@ Sec. 6. <i>Department of Health and Human Services; Department of Defense</i>. T
 
 Sec. 7. <i>Veterans Administration</i>. (a) The Administrator of Veterans Affairs is hereby designated and empowered to exercise the authority of the President under 10 U.S.C. 1074(b) to approve uniform rates of reimbursement for care provided in facilities operated by the Administrator.
 
-(b) Section 2 of Executive Order No. 11302 of September 6, 1966, as amended by Executive Order No. 11429 of September 9, 1968 \[set out as a note under section 111 of Title 38, Veterans’ Benefits\], is hereby further amended by substituting for the words “allowance of not more than six cents a mile” the following: “allowance, in such amount per mile as the Administrator shall from time to time fix pursuant to 38 U.S.C. 111 as affected by this order,”.
+(b) Section 2 of Executive Order No. 11302 of September 6, 1966, as amended by Executive Order No. 11429 of September 9, 1968 \[set out as a note under section 111 of Title 38, Veterans' Benefits\], is hereby further amended by substituting for the words "allowance of not more than six cents a mile" the following: "allowance, in such amount per mile as the Administrator shall from time to time fix pursuant to 38 U.S.C. 111 as affected by this order,".
 
 Sec. 8. <i>Office of Personnel Management</i>. The Office of Personnel Management is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the following:
 
@@ -606,7 +606,7 @@ Sec. 8. <i>Office of Personnel Management</i>. The Office of Personnel Managemen
 
 (3) The authority of the President under 5 U.S.C. 5942 to prescribe regulations establishing rates at which an allowance based on duty (except temporary duty) at remote work sites will be paid and defining and designating the sites, areas and groups of positions to which the rates apply.
 
-(4) The authority of the President under 5 U.S.C. 5942a to prescribe regulations governing the payment of allowances to employees assigned to duty at Johnston Island for the purposes of maintaining the employees’ spouses or dependents, or both, at a location other than Johnston Island.
+(4) The authority of the President under 5 U.S.C. 5942a to prescribe regulations governing the payment of allowances to employees assigned to duty at Johnston Island for the purposes of maintaining the employees' spouses or dependents, or both, at a location other than Johnston Island.
 
 Sec. 9. <i>Office of Management and Budget</i>. The Director of the Office of Management and Budget is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the following:
 
@@ -620,11 +620,11 @@ Sec. 9. <i>Office of Management and Budget</i>. The Director of the Office of Ma
 
 (5) The authority of the President under section 1 of the Act of December 22, 1928, c. 48, 45 Stat. 1070 (40 U.S.C. 72a) \[now 40 U.S.C. 8732\], to approve contracts for acquisition of land subject to limited rights reserved to the grantor and for the acquisition of limited permanent rights in land adjoining park property.
 
-(6) The authority of the President under section 407(b) of the Act of August 30, 1957, 71 Stat. 556 (42 U.S.C. 1594j(b)) \[see 10 U.S.C. 2830\], to approve regulations (relating to the rental of substandard housing for members of the uniformed services) prescribed pursuant to that section. The Secretaries referred to in section 407(c) of that Act shall furnish the Director of the Office of Management and Budget such reports with respect to matters within the scope of the regulations so approved as he may require and at such times as he may specify.
+(6) The authority of the President under section 407(b) of the Act of August 30, 1957, 71 Stat. 556 (42 U.S.C. 1594j(b)) \[see 10 U.S.C. 2830\], to approve regulations (relating to the rental of substandard housing for members of the uniformed services) prescribed pursuant to that section. The Secretaries referred to in section 407(c) of that Act shall furnish the Director of the Office of Management and Budget such reports with respect to matters within the scope of the regulations soapproved as he may require and at such times as he may specify.
 
 (7) The authority of the President under 44 U.S.C. 1108 to approve the use, from the appropriations available for printing and binding, of such sums as are necessary for the printing of journals, magazines, periodicals, and similar publications.
 
-(8) The authority of the President under the paragraph appearing under the heading “Expenses of Management Improvement” in title III of the Treasury, Post Office, and Executive Office Appropriation Act, 1971, P.L. 91–422, 84 Stat. 877, or by any reenactment of the provisions of that paragraph in the same or in a different amount of funds, to allocate to any agency or office of the executive branch (including the Office of Management and Budget) funds appropriated by that paragraph or by any such reenactment of it. The Director of the Office of Management and Budget shall from time to time report to the President concerning activities carried on by executive agencies and offices with funds allocated under this paragraph and shall, consonant with law, exercise such direction and control with respect to those activities as he shall deem appropriate.
+(8) The authority of the President under the paragraph appearing under the heading "Expenses of Management Improvement" in title III of the Treasury, Post Office, and Executive Office Appropriation Act, 1971, P.L. 91–422, 84 Stat. 877, or by any reenactment of the provisions of that paragraph in the same or in a different amount of funds, to allocate to any agency or office of the executive branch (including the Office of Management and Budget) funds appropriated by that paragraph or by any such reenactment of it. The Director of the Office of Management and Budget shall from time to time report to the President concerning activities carried on by executive agencies and offices with funds allocated under this paragraph and shall, consonant with law, exercise such direction and control with respect to those activities as he shall deem appropriate.
 
 Sec. 10. <i>General Provisions</i>. (a) Unless inappropriate, any reference in this order to any provision of law shall be deemed to include reference thereto as amended from time to time and as affected by Reorganization Plan No. 2 of 1970 (35 F.R. 7959).
 
@@ -650,7 +650,7 @@ Sec. 12. <i>Taking effect</i>. This order shall be effective immediately except 
 
 #### Change of Name
 
-References to Administrator of Veterans’ Affairs and to Veterans’ Administration deemed to refer to Secretary of Veterans Affairs and to Department of Veterans Affairs, respectively, pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+References to Administrator of Veterans' Affairs and to Veterans' Administration deemed to refer to Secretary of Veterans Affairs and to Department of Veterans Affairs, respectively, pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Ex. Ord. No. 11690. Delegation of Functions to Executive Director of Domestic Council
 
@@ -676,7 +676,7 @@ Sec. 2. <i>Administrative Arrangements</i>. (a) All Federal departments, agencie
 
 Sec. 3. <i>Construction</i>. Nothing in this order shall be construed as subjecting any department, establishment, or other instrumentality of the executive branch of the Federal Government or the head thereof, or any function vested by law in or assigned pursuant to law, to any such agency or head, to the authority of any other such agency or head or as abrogating, modifying, or restricting any such function in any manner.
 
-Sec. 4. <i>Revocation</i>. Executive Order No. 11455 of February 14, 1969, entitled “Establishing an Office of Intergovernmental Relations”, is hereby revoked.
+Sec. 4. <i>Revocation</i>. Executive Order No. 11455 of February 14, 1969, entitled "Establishing an Office of Intergovernmental Relations", is hereby revoked.
 
 Sec. 5. <i>Records, Property, Personnel, and Funds</i>. The records, property, personnel, and unexpended balances, available or to be made available, of appropriations, allocations, and other funds of the Office of Intergovernmental Relations are hereby transferred to the Domestic Council.
 
@@ -696,7 +696,7 @@ Ex. Ord. No. 11713, Apr. 21, 1973, 38 F.R. 10069, which related to the delegatio
 
 Ex. Ord. No. 11732, July 30, 1973, 38 F.R. 20429, provided:
 
-By virtue of the authority vested in me by section 301 of title 3 of the United States Code, the Secretary of Housing and Urban Development is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, the functionsvested in the President by sections 305 and 301 of the National Housing Act, as amended (12 U.S.C. 1720 and 1716, respectively), relating to the authorization of the purchase of mortgages by the Government National Mortgage Association in connection with its special assistance functions and the determination that such action is in the public interest.
+By virtue of the authority vested in me by section 301 of title 3 of the United States Code, the Secretary of Housing and Urban Development is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, the functions vested in the President by sections 305 and 301 of the National Housing Act, as amended (12 U.S.C. 1720 and 1716, respectively), relating to the authorization of the purchase of mortgages by the Government National Mortgage Association in connection with its special assistance functions and the determination that such action is in the public interest.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -790,7 +790,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 3603 of the Financial Reports Act of 1988 (22 U.S.C. 5351 <i>et seq</i>.) \[22 U.S.C. 5353\], section 274A(d)(2) and (4) of the Immigration and Nationality Act (“Act”), as amended (8 U.S.C. 1324a(d)(2) and (4)), sections 4561, 6082, and 9561 of title 10 of the United States Code, the Act of June 14, 1987 \[1897\], ch. 2, 30 Stat. 11, 36 (16 U.S.C. 473), section 301 of title 3 of the United States Code, and in order to: (1) delegate functions concerning discussions with foreign governments to improve access by U.S. banking and financial organizations; (2) delegate authority concerning a national employment verification system; (3) delegate authority concerning the development of requirements and regulations for a uniform military ration; and (4) correct the title of the Nez Perce National Forest, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 3603 of the Financial Reports Act of 1988 (22 U.S.C. 5351 <i>et seq</i>.) \[22 U.S.C. 5353\], section 274A(d)(2) and (4) of the Immigration and Nationality Act ("Act"), as amended (8 U.S.C. 1324a(d)(2) and (4)), sections 4561, 6082, and 9561 of title 10 of the United States Code, the Act of June 14, 1987 \[1897\], ch. 2, 30 Stat. 11, 36 (16 U.S.C. 473), section 301 of title 3 of the United States Code, and in order to: (1) delegate functions concerning discussions with foreign governments to improve access by U.S. banking and financial organizations; (2) delegate authority concerning a national employment verification system; (3) delegate authority concerning the development of requirements and regulations for a uniform military ration; and (4) correct the title of the Nez Perce National Forest, it is hereby ordered as follows:
 
 Section 1. <i>Functions Concerning Discussions with Foreign Governments to Improve Access by U.S. Banking and Financial Organizations</i>. The functions vested in the President by section 3603 of the Financial Reports Act of 1988 (22 U.S.C. 5353) are hereby delegated to the Secretary of the Treasury. This delegation is not in derogation of, and shall not affect, the existing authorities of the United States Trade Representative.
 
@@ -804,7 +804,7 @@ Sec. 3. <i>Authority, Requirements, and Regulations Concerning a Uniform Militar
 
 (c) <i>Regulations</i>. Under regulations of the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force are authorized, for their respective military departments, to prescribe the issue of special allowances and such special or supplemental rations, defined by component, quantity, or monetary value, as they may consider appropriate. Executive Order No. 11339 of March 28, 1967, is hereby revoked.
 
-Sec. 4. <i>Correction of Title of the Nez Perce National Forest</i>. Executive Order No. 854 of June 26, 1908, is hereby amended by retitling the “Nezperce National Forest” the “Nez Perce National Forest.”
+Sec. 4. <i>Correction of Title of the Nez Perce National Forest</i>. Executive Order No. 854 of June 26, 1908, is hereby amended by retitling the "Nezperce National Forest" the "Nez Perce National Forest."
 
 Sec. 5. This order shall take effect immediately.
 
@@ -854,7 +854,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 17\. Report on U.S. Participation in the United Nations, consistent with section 4 of Public Law 79–264, as amended (22 U.S.C. 287b); and
 
-18\. Report on Russian Proliferation to Iran and Other Countries of Proliferation Concern, consistent with section 1206 of Public Law 107–314 (22 U.S.C. 5952 note).
+18\. Report on Russian Proliferation to Iran and Other Countries of Proliferation Concern, consistent with section 1206 of Public Law 107–314 (\[former\] 22 U.S.C. 5952 note).
 
 (b) The Secretary of the Treasury shall submit the following reports:
 
@@ -1008,7 +1008,7 @@ Sec. 5. References in this order to provisions of any Act shall be deemed to inc
 
 Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United States shall ensure that all actions taken by them are consistent with the President's constitutional authority to: (a) conduct the foreign affairs of the United States; (b) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties; (c) recommend for congressional consideration such measures as the President may judge necessary and expedient; and (d) supervise the unitary executive branch.
 
-Sec. 7. Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+Sec. 7. Nothing in this order shall be construed to impair or otherwise affect the functions of the Director ofthe Office of Management and Budget relating to budget, administrative, or legislative proposals.
 
 Sec. 8. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
 
@@ -1080,7 +1080,7 @@ Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Dir
 
 By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code:
 
-1\. The reporting functions of the President under sections 4026(a)(4)(A), 4026(c)(2), 7104(e)(4)(A), 7202(d) \[now 7202(g)\], 7204(c)(1)–(2), and 7120 \[118 Stat. 3803\] of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) (the “Act”) \[8 U.S.C. 1777(g), 22 U.S.C. 2656 note, 2751 note, 7555\] are hereby assigned to the Secretary of State.
+1\. The reporting functions of the President under sections 4026(a)(4)(A), 4026(c)(2), 7104(e)(4)(A), 7202(d) \[now 7202(g)\], 7204(c)(1)–(2), and 7120 \[118 Stat. 3803\] of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) (the "Act") \[8 U.S.C. 1777(g), 22 U.S.C. 2656 note, 2751 note, 7555\] are hereby assigned to the Secretary of State.
 
 The reporting function under section 7202(d) \[now 7202(g)\] of the Act \[8 U.S.C. 1777(g)\] on the Human Smuggling and Trafficking Center shall be coordinated with the Attorney General and the Secretary of Homeland Security.
 

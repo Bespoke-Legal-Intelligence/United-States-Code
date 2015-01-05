@@ -88,7 +88,7 @@ Sec. 9. This Order is intended solely for the internal guidance of the departmen
 
 Sec. 10. None of the time deadlines specified in this Order shall be construed as a limitation on expedited presidential review of any decision under Section 801.
 
-Sec. 11. The provisions of this Order shall become effective upon publication in the Federal Register and shall govern the review of any proposed decisions of theDOT that have not become final prior to that date under Executive Order No. 12547.
+Sec. 11. The provisions of this Order shall become effective upon publication in the Federal Register and shall govern the review of any proposed decisions of the DOT that have not become final prior to that date under Executive Order No. 12547.
 
 Sec. 12. References in any Executive order to any provision in Executive Order No. 12547 shall be deemed to refer to the corresponding provision in this Order.
 

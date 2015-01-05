@@ -32,7 +32,7 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 &emsp;(4) any money ordered to be paid into the Fund under section 3671(c)(2) of title 18; and
 
-&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
+&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals,which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
 
 &emsp;&emsp;(A) attaches conditions inconsistent with applicable laws or regulations; or
 
@@ -54,7 +54,13 @@ The Fund shall be available as follows:
 
 &emsp;(ii) Amounts available under this subparagraph for any fiscal year shall not exceed $20,000,000.
 
-&emsp;(3) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.
+&emsp;(3)(A) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available only for—
+
+&emsp;&emsp;(i) the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in 3771 <sup>2</sup> of title 18 and section 10607 of this title) through victim coordinators, victims' specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
+
+&emsp;&emsp;(ii) a Victim Notification System.
+
+&emsp;(B) Amounts made available under subparagraph (A) may not be used for any purpose that is not specified in clause (i) or (ii) of subparagraph (A).
 
 &emsp;(4) Of the remaining amount to be distributed from the Fund in a particular fiscal year—
 
@@ -94,9 +100,9 @@ As used in this section, the term "offenses against the United States" does not 
 
 (2) The Attorney General may use 5 percent of the funds available under subsection (d)(2) of this section (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
 
-(3) As used in this subsection, the term "tribe" <sup>2</sup> has the meaning given that term in section 450b(b) <sup>3</sup> of title 25.
+(3) As used in this subsection, the term "tribe" <sup>3</sup> has the meaning given that term in section 450b(b) <sup>1</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120 Stat. 3200.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120 Stat. 3200; Pub. L. 113–163, §3, Aug. 8, 2014, 128 Stat. 1866.)
 
 #### References in Text
 
@@ -113,6 +119,8 @@ The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classifi
 Section 450b of title 25, referred to in subsec. (g)(3), has been amended, and subsec. (b) of section 450b no longer defines the term "Indian tribe". However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(3). Pub. L. 113–163 designated existing provisions as subpar. (A), substituted "available only for—" for "available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.", added cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
 <b>2006</b>—Subsec. (b)(1)(B)(ii). Pub. L. 109–435 substituted "404(a)(7)" for "404(a)(8)".
 
@@ -142,9 +150,9 @@ Subsec. (d)(5). Pub. L. 107–56, §621(d), amended par. (5) generally. Prior to
 
 "(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $100,000,000.
 
-"(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants undersection 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed."
+"(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed."
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–386, §2003(d), which directed insertion of "Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation." at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (c). Pub. L. 106–386, §2003(d), which directed insertion of "Notwithstanding subsection (d)(5)of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation." at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
 
 Subsec. (d)(2). Pub. L. 106–177 designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), the first $10,000,000" for "The first $10,000,000", and added subpar. (B).
 
@@ -308,9 +316,13 @@ Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided tha
 
 #### Limitation on Amounts Available for Obligation
 
-Pub. L. 113–6, div. B, title V, §510, Mar. 26, 2013, 127 Stat. 271, provided that: "Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 (42 U.S.C. 10601) in any fiscal year in excess of $730,000,000 shall not be available for obligation until the following fiscal year."
+Pub. L. 113–235, div. B, title V, §510, Dec. 16, 2014, 128 Stat. 2210, provided that: "Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 (42 U.S.C. 10601) in any fiscal year in excess of $2,361,000,000 shall not be available for obligation until the following fiscal year."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. B, title V, §510, Jan. 17, 2014, 128 Stat. 79.
+
+Pub. L. 113–6, div. B, title V, §510, Mar. 26, 2013, 127 Stat. 271.
 
 Pub. L. 112–55, div. B, title V, §512, Nov. 18, 2011, 125 Stat. 632.
 
@@ -348,7 +360,7 @@ Pub. L. 100–690, title VII, §7130, Nov. 18, 1988, 102 Stat. 4423, provided th
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be " 'Indian tribe' ".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be " 'Indian tribe' ".</i>
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) churches, their integrated auxiliaries, and conventions or associations of churches,
 
-&emsp;&emsp;&emsp;(ii) any organization (other than a private foundation, as defined in section 509(a)) described in subparagraph (C), the gross receipts of which in each taxable year are normally not more than $5,000, or
+&emsp;&emsp;&emsp;(ii) any organization (other than a private foundation, as defined in section509(a)) described in subparagraph (C), the gross receipts of which in each taxable year are normally not more than $5,000, or
 
 &emsp;&emsp;&emsp;(iii) the exclusively religious activities of any religious order.
 
@@ -144,7 +144,7 @@ The following organizations shall comply with the requirements of this section i
 
 &emsp;&emsp;If this subsection applies to an organization for any taxable year, such organization—
 
-&emsp;&emsp;&emsp;(i) shall include on any return required to be filed under subsection (a) for suchyear information setting forth the total expenditures of the organization to which section 162(e)(1) applies and the total amount of the dues or other similar amounts paid to the organization to which such expenditures are allocable, and
+&emsp;&emsp;&emsp;(i) shall include on any return required to be filed under subsection (a) for such year information setting forth the total expenditures of the organization to which section 162(e)(1) applies and the total amount of the dues or other similar amounts paid to the organization to which such expenditures are allocable, and
 
 &emsp;&emsp;&emsp;(ii) except as provided in paragraphs (2)(A)(i) and (3), shall, at the time of assessment or payment of such dues or other similar amounts, provide notice to each person making such payment which contains a reasonable estimate of the portion of such dues or other similar amounts to which such expenditures are so allocable.
 
@@ -314,7 +314,7 @@ An organization described in section 501(c)(29) shall include on the return requ
 
 &emsp;&emsp;<b>For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001.</b>
 
-&emsp;&emsp;<b>For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions,</b><b>see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c).</b>
+&emsp;&emsp;<b>For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions, see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c).</b>
 
 &emsp;&emsp;<b>For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.</b>
 
@@ -328,7 +328,7 @@ An organization described in section 501(c)(29) shall include on the return requ
 
 Section 6056 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 96–603, §1(c), Dec. 28, 1980, 94 Stat. 3504.
 
-The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, as amended, which is classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress. Section 301 of the Act is classified to section 431 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 431 of Title 2 and Tables.
+The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§30101 et seq.) of Title 52. Section 301 of the Act is now classified to section 30101 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -438,7 +438,7 @@ Amendment by section 9007(d) of Pub. L. 111–148 applicable to taxable years be
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title VII, §703(b), Oct. 3, 2008, 122 Stat. 3919, provided that: "The amendments made by this section \[amending this section\] shall apply to returns the due date for which (determined without regard to any extension) occurs after December 31, 2008."
+Pub. L. 110–343, div. C, title VII, §703(b), Oct. 3, 2008, 122 Stat. 3919, provided that: "The amendments madeby this section \[amending this section\] shall apply to returns the due date for which (determined without regard to any extension) occurs after December 31, 2008."
 
 #### Effective Date of 2006 Amendment
 
@@ -488,7 +488,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–603, §1(f), Dec. 28, 1980, 94 Stat. 3505, provided that: "The amendments made by this section\[amending this section and sections 6034, 6104, 6652, 6685, and 7207 of this title and repealing section 6056 of this title\] shall apply to taxable years beginning after December 31, 1980."
+Pub. L. 96–603, §1(f), Dec. 28, 1980, 94 Stat. 3505, provided that: "The amendments made by this section \[amending this section and sections 6034, 6104, 6652, 6685, and 7207 of this title and repealing section 6056 of this title\] shall apply to taxable years beginning after December 31, 1980."
 
 #### Effective Date of 1976 Amendment
 

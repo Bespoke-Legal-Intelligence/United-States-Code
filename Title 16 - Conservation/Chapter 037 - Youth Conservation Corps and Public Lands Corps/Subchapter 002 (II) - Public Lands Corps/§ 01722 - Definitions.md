@@ -42,7 +42,7 @@ For purposes of this subchapter:
 
 #### (7) Indian tribe
 
-&emsp;The term "Indian tribe" means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation, as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c), (g), or (j)), that is recognized as eligible for the special programs and services provided by the United States under Federal law to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation, as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c), (g), or (j)), that is recognized as eligible for the special programs and services provided by theUnited States under Federal law to Indians because of their status as Indians.
 
 #### (8) Priority project
 

@@ -22,7 +22,7 @@ For the purpose of this chapter:
 
 #### Amendments
 
-<b>2006</b>—Par. (6). Pub. L. 109–347 inserted at end "In this paragraph, the term 'economic disruption' does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute."
+<b>2006</b>—Par. (6). Pub. L. 109–347 inserted at end "In this paragraph, the term 'economic disruption' does not include a work stoppage or other employee-related actionnot related to terrorism and resulting from an employee-employer dispute."
 
 #### Regulations
 
@@ -112,7 +112,7 @@ Matters to be included.—The study conducted under this subsection shall includ
 
 &emsp;&emsp;&emsp;"(iv) the extent to which the Coast Guard has assessed the ability of State and local law enforcement entities to carry out the security assignments that they have been engaged to perform, including their ability to meet any national standards for training, equipment, and resources that have been established by the Coast Guard in order to ensure that those entities can deter to the maximum extent practicable a transportation security incident;
 
-&emsp;&emsp;&emsp;"(v) the extent to which State and local law enforcement entities are able to meet national standards for training, equipment, and resources established by the Coast Guard to ensure that those entities can deter to the maximum extent practicable a transportation security incident;
+&emsp;&emsp;&emsp;"(v) the extent to which State and local law enforcement entities are able to meet national standards for training, equipment, and resourcesestablished by the Coast Guard to ensure that those entities can deter to the maximum extent practicable a transportation security incident;
 
 &emsp;&emsp;&emsp;"(vi) the differences in law enforcement authority, and particularly boarding authority, between the Coast Guard and State and local law enforcement entities, and the impact that these differences have on the ability of State and local law enforcement entities to provide the same level of security that the Coast Guard provides during the enforcement of Coast Guard-imposed security zones and the conduct of security patrols in United States ports; and
 
@@ -220,33 +220,19 @@ Cruise Ship Defined.—In this section, the term 'cruise ship' means a vessel on
 
 #### Vessel and Intermodal Security Reports
 
-Pub. L. 108–293, title VIII, §809(g)–(i), (k), Aug. 9, 2004, 118 Stat. 1087, 1088, provided that:
+Pub. L. 108–293, title VIII, §809(g), (i), formerly §809(g)–(i), (k), Aug. 9, 2004, 118 Stat. 1087, 1088, renumbered and amended by Pub. L. 113–284, §2(a)(1), (2)(B), Dec. 18, 2014, 128 Stat. 3089, provided that:
 
 "(g)
 
-Evaluation of Cargo Inspection Targeting System for International Intermodal Cargo Containers.—Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Inspector General of the department in which the Coast Guard is operating shall prepare a report that includes an assessment of—
+Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-&emsp;"(1) the effectiveness of the current tracking system to determine whether it is adequate to prevent international intermodal containers from being used for purposes of terrorism;
-
-&emsp;"(2) the sources of information, and the quality of the information at the time of reporting, used by the system to determine whether targeting information is collected from the best and most credible sources and evaluate data sources to determine information gaps and weaknesses;
-
-&emsp;"(3) the targeting system for reporting and analyzing inspection statistics, as well as testing effectiveness;
-
-&emsp;"(4) the competence and training of employees operating the system to determine whether they are sufficiently capable to detect potential terrorist threats; and
-
-&emsp;"(5) whether the system is an effective system to detect potential acts of terrorism and whether additional steps need to be taken in order to remedy deficiencies in targeting international intermodal containers for inspection.
-
-"(h)
-
-Action Report.—If the Inspector General of the department in which the Coast Guard is operating determines in any of the reports prepared under subsection (g) that the targeting system is insufficientlyeffective as a means of detecting potential acts of terrorism utilizing international intermodal containers, then the Secretary of the department in which the Coast Guard is operating shall, within 90 days, submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure \[of the\] House of Representatives on what actions will be taken to correct deficiencies identified in the Inspector General Report.
+\[(h) Repealed. Pub. L. 113–284, §2(a)(1), Dec. 18, 2014, 128 Stat. 3089.\]
 
 "(i)
 
-Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
-"(k)
-
 Report and Plan Formats.—The Secretary and the Inspector General of the department in which the Coast Guard is operating may submit any plan or report required by this section in both classified and redacted formats, if the Secretary determines that it is appropriate or necessary."
+
+\[(k) Redesignated (i).\]
 
 #### Findings
 
@@ -302,7 +288,7 @@ Pub. L. 107–295, title I, §101, Nov. 25, 2002, 116 Stat. 2066, provided that:
 
 &emsp;"(14) On April 27, 1999, the President established the Interagency Commission on Crime and Security in United States Ports to undertake a comprehensive study of the nature and extent of the problem of crime in our ports, as well as the ways in which governments at all levels are responding. The Commission concluded that frequent crimes in ports include drug smuggling, illegal car exports, fraud, and cargo theft. Internal conspiracies are an issue at many ports and contribute to Federal crime. Criminal organizations are exploiting weak security at ports to commit a wide range of cargo crimes. Intelligence and information sharing among law enforcement agencies needs to be improved and coordinated at many ports. A lack of minimum physical and personnel security standards at ports and related facilities leaves many ports and port users very vulnerable. Access to ports and operations within ports is often uncontrolled. Security-related and detection-related equipment, such as small boats, cameras, large-scale x-ray machines, and vessel tracking devices, are lacking at many ports.
 
-&emsp;"(15) The International Maritime Organization and other similar international organizations are currently developing a new maritime security system that contains the essential elements for enhancing global maritime security. Therefore, it is in the best interests of the United States to implement new international instruments that establish such a system."
+&emsp;"(15) The International Maritime Organization and other similar international organizations are currently developing a new maritime security system that contains the essential elements for enhancingglobal maritime security. Therefore, it is in the best interests of the United States to implement new international instruments that establish such a system."
 
 #### Maritime Security Professional Training
 

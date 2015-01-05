@@ -70,19 +70,33 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "Board" means the Biomass Research and Development Board established by section 8108(c) of this title.
 
-#### (9) Indian tribe
+#### (9) Forest product
+
+#### (A) In general
+
+&emsp;&emsp;The term "forest product" means a product made from materials derived from the practice of forestry or the management of growing timber.
+
+#### (B) Inclusions
+
+&emsp;&emsp;The term "forest product" includes—
+
+&emsp;&emsp;&emsp;(i) pulp, paper, paperboard, pellets, lumber, and other wood products; and
+
+&emsp;&emsp;&emsp;(ii) any recycled products derived from forest materials.
+
+#### (10) Indian tribe
 
 &emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
-#### (10) Institution of higher education
+#### (11) Institution of higher education
 
 &emsp;The term "institution of higher education" has the meaning given the term in section 1002(a) of title 20.
 
-#### (11) Intermediate ingredient or feedstock
+#### (12) Intermediate ingredient or feedstock
 
-&emsp;The term "intermediate ingredient or feedstock" means a material or compound made in whole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
+&emsp;The term "intermediate ingredient or feedstock" means a material or compound made inwhole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
 
-#### (12) Renewable biomass
+#### (13) Renewable biomass
 
 &emsp;The term "renewable biomass" means—
 
@@ -130,7 +144,11 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(IV) food waste and yard waste.
 
-#### (13) Renewable energy
+#### (14) Renewable chemical
+
+&emsp;The term "renewable chemical" means a monomer, polymer, plastic, formulated product, or chemical substance produced from renewable biomass.
+
+#### (15) Renewable energy
 
 &emsp;The term "renewable energy" means energy derived from—
 
@@ -138,11 +156,25 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(B) hydrogen derived from renewable biomass or water using an energy source described in subparagraph (A).
 
-#### (14) Secretary
+#### (16) Renewable energy system
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the term "renewable energy system" means a system that—
+
+&emsp;&emsp;&emsp;(i) produces usable energy from a renewable energy source; and
+
+&emsp;&emsp;&emsp;(ii) may include distribution components necessary to move energy produced by such system to the initial point of sale.
+
+#### (B) Limitation
+
+&emsp;&emsp;A system described in subparagraph (A) may not include a mechanism for dispensing energy at retail.
+
+#### (17) Secretary
 
 &emsp;The term "Secretary" means the Secretary of Agriculture.
 
-(Pub. L. 107–171, title IX, §9001, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2064.)
+(Pub. L. 107–171, title IX, §9001, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2064; amended Pub. L. 113–79, title IX, §9001, Feb. 7, 2014, 128 Stat. 926.)
 
 #### Codification
 
@@ -151,6 +183,20 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 8101, Pub. L. 107–171, title IX, §9001, May 13, 2002, 116 Stat. 475; Pub. L. 109–58, title IX, §943(a)(1), Aug. 8, 2005, 119 Stat. 880, contained definitions for this chapter, prior to the general amendment of this chapter by Pub. L. 110–246.
+
+#### Amendments
+
+<b>2014</b>—Par. (9). Pub. L. 113–79, §9001(2), added par. (9). Former par. (9) redesignated (10).
+
+Par. (10) to (13). Pub. L. 113–79, §9001(1), redesignated pars. (9) to (12) as (10) to (13), respectively. Former par. (13) redesignated (15).
+
+Par. (14). Pub. L. 113–79, §9001(3), added par. (14)
+
+Par. (15). Pub. L. 113–79, §9001(1), redesignated par. (13) as (15).
+
+Par. (16). Pub. L. 113–79, §9001(4), added par. (16).
+
+Par. (17). Pub. L. 113–79, §9001(1), redesignated par. (14) as (17).
 
 #### Effective Date
 
@@ -162,7 +208,7 @@ Pub. L. 108–199, div. A, title VII, §778(a), Jan. 23, 2004, 118 Stat. 41, pro
 
 #### Biomass Research and Development
 
-Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
+Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, andtitle III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
 
 #### Biofuels And Rural Economic Development
 

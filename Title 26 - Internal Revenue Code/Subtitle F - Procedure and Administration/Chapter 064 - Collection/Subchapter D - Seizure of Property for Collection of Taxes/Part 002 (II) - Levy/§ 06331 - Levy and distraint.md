@@ -86,7 +86,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (3) Increase in levy for certain payments
 
-&emsp;Paragraph (1) shall be applied by substituting "100 percent" for "15 percent" in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government.
+&emsp;Paragraph (1) shall be applied by substituting "100 percent" for "15 percent" in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government and by substituting "30 percent" for "15 percent" in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act.
 
 #### (i) No levy during pendency of proceedings for refund of divisible tax
 
@@ -128,7 +128,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (A) Limitation on collection
 
-&emsp;&emsp;No proceeding in court for the collection of any unpaid tax to which paragraph (1) applies shall be begun by the Secretary during the pendency of a proceeding under such paragraph. This subparagraph shall not apply to—
+&emsp;&emsp;No proceeding in court for the collection of any unpaid tax to which paragraph (1) applies shall be begun by the Secretary during the pendency of a proceeding under suchparagraph. This subparagraph shall not apply to—
 
 &emsp;&emsp;&emsp;(i) any counterclaim in a proceeding under such paragraph; or
 
@@ -140,7 +140,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (5) Suspension of statute of limitations on collection
 
-&emsp;The period of limitations under section 6502 shall be suspended for the period during whichthe Secretary is prohibited under this subsection from making a levy.
+&emsp;The period of limitations under section 6502 shall be suspended for the period during which the Secretary is prohibited under this subsection from making a levy.
 
 #### (6) Pendency of proceeding
 
@@ -206,15 +206,19 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 &emsp;&emsp;<b>(3) For release and notice of release of levy, see section 6343.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 783; Pub. L. 89–719, title I, §104(a), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 92–178, title II, §211(a), Dec. 10, 1971, 85 Stat. 520; Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1711, 1834; Pub. L. 97–248, title III, §349(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 98–369, div. A, title VII, §714(o), July 18, 1984, 98 Stat. 964; Pub. L. 100–647, title VI, §6236(a), (b), (d), Nov. 10, 1988, 102 Stat. 3737, 3739; Pub. L. 105–34, title X, §1024(a), Aug. 5, 1997, 111 Stat. 923; Pub. L. 105–206, title III, §§3433(a), 3444(a), 3462(b), title VI, §6010(f), July 22, 1998, 112 Stat. 759, 762, 765, 814; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 107–147, title IV, §416(e)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–357, title VIII, §887(a), Oct. 22, 2004, 118 Stat. 1641; Pub. L. 112–56, title III, §301(a), Nov. 21, 2011, 125 Stat. 733.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 783; Pub. L. 89–719, title I, §104(a), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 92–178, title II, §211(a), Dec. 10, 1971, 85 Stat. 520; Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1711, 1834; Pub. L. 97–248, title III, §349(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 98–369, div. A, title VII, §714(o), July 18, 1984, 98 Stat. 964; Pub. L. 100–647, title VI, §6236(a), (b), (d), Nov. 10, 1988, 102 Stat. 3737, 3739; Pub. L. 105–34, title X, §1024(a), Aug. 5, 1997, 111 Stat. 923; Pub. L. 105–206, title III, §§3433(a), 3444(a), 3462(b), title VI, §6010(f), July 22, 1998, 112 Stat. 759, 762, 765, 814; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 107–147, title IV, §416(e)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–357, title VIII, §887(a), Oct. 22, 2004, 118 Stat. 1641; Pub. L. 112–56, title III, §301(a), Nov. 21, 2011, 125 Stat. 733; Pub. L. 113–295, div. B, title II, §209(a), Dec. 19, 2014, 128 Stat. 4074.)
 
 #### References in Text
 
 The Railroad Retirement Act, referred to in subsec. (h)(2)(C), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principallyto chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+
+The Social Security Act, referred to in subsec. (h)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(3). Pub. L. 113–295 inserted "and by substituting '30 percent' for '15 percent' in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act" before period at end.
 
 <b>2011</b>—Subsec. (h)(3). Pub. L. 112–56 substituted "property, goods, or services" for "goods or services".
 
@@ -273,6 +277,10 @@ Subsec. (d)(3). Pub. L. 94–455, §1209(d)(1), added par. (3).
 <b>1971</b>—Subsecs. (d), (e). Pub. L. 92–178 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–719 inserted sentence providing that a levy shall extend only to property possessed and obligations existing at the time thereof.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. B, title II, §209(b), Dec. 19, 2014, 128 Stat. 4074, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after 180 days after the date of the enactment of this Act \[Dec. 19, 2014\]."
 
 #### Effective Date of 2011 Amendment
 
@@ -338,5 +346,5 @@ Pub. L. 92–178, title II, §211(b), Dec. 10, 1971, 85 Stat. 520, provided that
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) ofPub. L. 89–719, set out as a note under section 6323 of this title.
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 

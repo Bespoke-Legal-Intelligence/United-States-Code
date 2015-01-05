@@ -34,7 +34,7 @@ In general.—The Secretary of the Treasury shall—
 
 &emsp;&emsp;"(A) before March 15, 2000, submit a baseline report to the Congress on the study conducted pursuant to subsection (a); and
 
-&emsp;&emsp;"(B) before the end of the 2-year period beginning on the date of the enactment of this Act \[Nov. 12,1999\], in consultation with the Federal banking agencies, submit a final report to the Congress on the study conducted pursuant to subsection (a).
+&emsp;&emsp;"(B) before the end of the 2-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], in consultation with the Federal banking agencies, submit a final report to the Congress on the study conducted pursuant to subsection (a).
 
 &emsp;"(2)
 

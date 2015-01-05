@@ -32,7 +32,7 @@ Congress makes the following findings:
 
 #### (3) Supreme Court ruling
 
-&emsp;In United States v. South-Eastern Underwriters Association (322 U.S. 533 (1944)), theSupreme Court of the United States ruled that insurance is interstate commerce subject to Federal regulation.
+&emsp;In United States v. South-Eastern Underwriters Association (322 U.S. 533 (1944)), the Supreme Court of the United States ruled that insurance is interstate commerce subject to Federal regulation.
 
 (Pub. L. 111–148, title I, §1501(a), title X, §10106(a), Mar. 23, 2010, 124 Stat. 242, 907.)
 

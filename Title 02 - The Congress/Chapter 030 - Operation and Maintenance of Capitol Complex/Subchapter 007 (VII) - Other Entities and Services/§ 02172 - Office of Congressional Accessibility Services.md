@@ -38,7 +38,7 @@
 
 #### (B) United States Capitol Complex defined
 
-&emsp;&emsp;In this paragraph, the term “United States Capitol Complex” means the Capitol buildings (as defined in section 5101 of title 40) and the United States Capitol Grounds (as described in section 5102 of such title).
+&emsp;&emsp;In this paragraph, the term "United States Capitol Complex" means the Capitol buildings (as defined in section 5101 of title 40) and the United States Capitol Grounds (as described in section 5102 of such title).
 
 #### (b) Director of Accessibility Services
 
@@ -50,13 +50,13 @@
 
 #### (B) Removal
 
-&emsp;&emsp;Upon removal of the Director of Accessibility Services, the Congressional Accessibility Services Board shall immediately provide notice of the removal to the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the House of Representatives and Senate. The notice shall include the reasons for the removal.
+&emsp;&emsp;Upon removal of the Director of Accessibility Services, the Congressional Accessibility Services Board shall immediately provide notice of the removal to the Committee on Rules and Administration of theSenate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the House of Representatives and Senate. The notice shall include the reasons for the removal.
 
 #### (2) Personnel and other administrative functions
 
 #### (A) Personnel, disbursements, and contracts
 
-&emsp;&emsp;In carrying out the functions of the Office of Congressional Accessibility Servicesunder subsection (a), the Director of Accessibility Services shall have the authority to—
+&emsp;&emsp;In carrying out the functions of the Office of Congressional Accessibility Services under subsection (a), the Director of Accessibility Services shall have the authority to—
 
 &emsp;&emsp;&emsp;(i) appoint, hire, and fix the compensation of such personnel as may be necessary for operations of the Office of Congressional Accessibility Services, except that no employee may be paid at an annual rate in excess of the annual rate of pay for the Director of Accessibility Services;
 
@@ -86,7 +86,7 @@ Section is from the Legislative Branch Appropriations Act, 1990.
 
 <b>2008</b>—Pub. L. 110–437 amended section generally, substituting provisions relating to Office of Congressional Accessibility Services for provisions relating to Special Services Office.
 
-<b>1995</b>—Pub. L. 104–53 substituted “Sergeant at Arms” for “Clerk” after “comprised of the” and “Architect of the Capitol” for “Librarian of Congress”.
+<b>1995</b>—Pub. L. 104–53 substituted "Sergeant at Arms" for "Clerk" after "comprised of the" and "Architect of the Capitol" for "Librarian of Congress".
 
 #### Transfer of Functions
 

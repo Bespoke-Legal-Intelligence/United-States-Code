@@ -10,7 +10,7 @@ Except as provided in this subchapter and notwithstanding any other provision of
 
 #### (b) Ineligibility for certain loans and payments
 
-If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the followingloans and payments for which the person shall be ineligible:
+If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the following loans and payments for which the person shall be ineligible:
 
 &emsp;(1) Contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act.
 
@@ -26,19 +26,133 @@ If a person is determined to have committed a violation under subsection (a) of 
 
 &emsp;&emsp;(D) A payment, loan, or other assistance under section 1003 or 1006a of this title.
 
-#### (c) Wetland conversion
+#### (c) Ineligibility for crop insurance premium assistance
+
+#### (1) Requirements
+
+#### (A) In general
+
+&emsp;&emsp;If a person is determined to have committed a violation under subsection (a) or (d) during a crop year, the person shall be ineligible to receive any payment of any portion of premium paid by the Federal Crop Insurance Corporation for a plan or policy of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) pursuant to this subsection.
+
+#### (B) Applicability
+
+&emsp;&emsp;Ineligibility under this subsection shall—
+
+&emsp;&emsp;&emsp;(i) only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
+
+&emsp;&emsp;&emsp;(ii) not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
+
+#### (2) Conversions
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding paragraph (1), ineligibility for crop insurance premium assistance shall apply in accordance with this paragraph.
+
+#### (B) New conversions
+
+&emsp;&emsp;In the case of a wetland that the Secretary determines was converted after February 7, 2014—
+
+&emsp;&emsp;&emsp;(i) the person shall be ineligible to receive crop insurance premium subsidies in subsequent reinsurance years unless the Secretary determines that an exemption pursuant to section 3822 of this title applies; or
+
+&emsp;&emsp;&emsp;(ii) for any violation that the Secretary determines impacts less than 5 acres of an entire farm, the person may pay a contribution in an amount equal to 150 percent of the cost of mitigation, as determined by the Secretary, to the fund described in section 3841(f) of this title for wetland restoration in lieu of ineligibility to receive crop insurance premium assistance.
+
+#### (C) Prior conversions
+
+&emsp;&emsp;In the case of a wetland that the Secretary determines was converted prior to February 7, 2014, ineligibility under this subsection shall not apply.
+
+#### (D) Conversions and new policies or plans of insurance
+
+&emsp;&emsp;In the case of an agricultural commodity for which an individual policy or plan of insurance is available for the first time to the person after February 7, 2014—
+
+&emsp;&emsp;&emsp;(i) ineligibility shall apply only to conversions that take place after the date on which the policy or plan of insurance first becomes available to the person; and
+
+&emsp;&emsp;&emsp;(ii) the person shall take such steps as the Secretary determines appropriate to mitigate any prior conversion in a timely manner but not to exceed 2 reinsurance years.
+
+#### (3) Limitations
+
+#### (A) Mitigation required
+
+&emsp;&emsp;Except as otherwise provided in this paragraph, a person subject to a final determination, including all administrative appeals, of a violation described in subsection (d) shall have 1 reinsurance year to initiate a mitigation plan to remedy the violation, as determined by the Secretary, before becoming ineligible under this subsection in the following reinsurance year to receive any payment of any portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+
+#### (B) Persons covered for the first time
+
+&emsp;&emsp;Notwithstanding the requirements of paragraph (1), in the case of a person that is subject to this subsection for the first time solely due to the amendment made by section 2611(b) of the Agricultural Act of 2014, the person shall have 2 reinsurance years after the reinsurance year in which a final determination is made, including all administrative appeals, of a violation described in this subsection to take such steps as the Secretary determines appropriate to remedy or mitigate the violation in accordance with this subsection.
+
+#### (C) Good faith
+
+&emsp;&emsp;If the Secretary determines that a person subject to a final determination, including all administrative appeals, of a violation described in this subsection acted in good faith and without intent to commit a violation described in this subsection as described in section 3822(h) of this title, the person shall have 2 reinsurance years to take such steps as the Secretary determines appropriate to remedy or mitigate the violation in accordance with this subsection.
+
+#### (D) Tenant relief
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If a tenant is determined to be ineligible for payments and other benefits under this subsection, the Secretary may limit the ineligibility only to the farm that is the basis for the ineligibility determination if the tenant has established, to the satisfaction of the Secretary that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the tenant has made a good faith effort to meet the requirements of this section, including enlisting the assistance of the Secretary to obtain a reasonable plan for restoration or mitigation for the farm;
+
+&emsp;&emsp;&emsp;&emsp;(II) the landlord on the farm refuses to comply with the plan on the farm; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary determines that the lack of compliance is not a part of a scheme or device to avoid the compliance.
+
+#### (ii) Report
+
+&emsp;&emsp;&emsp;The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report concerning the ineligibility determinations limited during the previous 12-month period under this subparagraph.
+
+#### (E) Certificate of compliance
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Beginning with the first full reinsurance year immediately following February 7, 2014, all persons seeking eligibility for the payment of a portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) shall provide certification of compliance with this section as determined by the Secretary.
+
+#### (ii) Timely evaluation
+
+&emsp;&emsp;&emsp;The Secretary shall evaluate the certification in a timely manner and—
+
+&emsp;&emsp;&emsp;&emsp;(I) a person who has properly complied with certification shall be held harmless with regard to eligibility during the period of evaluation; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if the Secretary fails to evaluate the certification in a timely manner and the person is subsequently found to be in violation of this subsection, ineligibility shall not apply to the person for that violation.
+
+#### (iii) Equitable contribution
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;If a person fails to notify the Secretary as required and is subsequently found to be in violation of this subsection, the Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) determine the amount of an equitable contribution to conservation by the person for the violation; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) deposit the contribution in the fund described in section 3841(f) of this title.
+
+#### (II) Limitation
+
+&emsp;&emsp;&emsp;&emsp;The contribution shall not exceed the total of the portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance for all years the person is determined to have been in violation subsequent to the date on which certification was first required under this subparagraph.
+
+#### (4) Duties of the Secretary
+
+#### (A) In general
+
+&emsp;&emsp;In carrying out this subsection, the Secretary shall use existing processes and procedures for certifying compliance.
+
+#### (B) Responsibility
+
+&emsp;&emsp;The Secretary, acting through the agencies of the Department of Agriculture, shall be solely responsible for determining whether a producer is eligible to receive crop insurance premium subsidies in accordance with this subsection.
+
+#### (C) Limitation
+
+&emsp;&emsp;The Secretary shall ensure that no agent, approved insurance provider, or employee or contractor of an agency or approved insurance provider, bears responsibility or liability for the eligibility of an insured producer under this subsection, other than in cases of misrepresentation, fraud, or scheme and device.
+
+#### (d) Wetland conversion
 
 Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
 
-#### (d) Prior loans
+#### (e) Prior loans
 
 This section shall not apply to a loan described in subsection (b) of this section made before December 23, 1985.
 
-#### (e) Wetland
+#### (f) Wetland
 
 The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
-(Pub. L. 99–198, title XII, §1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, §1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, §204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, §308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, §321, Apr. 4, 1996, 110 Stat. 986; Pub. L. 107–171, title II, §2002(b), May 13, 2002, 116 Stat. 233.)
+(Pub. L. 99–198, title XII, §1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, §1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, §204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, §308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, §321, Apr. 4, 1996, 110 Stat. 986; Pub. L. 107–171, title II, §2002(b), May 13, 2002, 116 Stat. 233; Pub. L. 113–79, title II, §2611(b), Feb. 7, 2014, 128 Stat. 763.)
 
 #### References in Text
 
@@ -48,7 +162,13 @@ The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is 
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
+The Federal Crop Insurance Act, referred to in subsec. (c)(1)(A), (3)(A), (E)(i), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+
+Section 2611(b) of the Agricultural Act of 2014, referred to in subsec. (c)(3)(B), is section 2611(b) of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 763, which amended this section.
+
 #### Amendments
+
+<b>2014</b>—Subsecs. (c) to (f). Pub. L. 113–79 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
@@ -79,4 +199,8 @@ Subsec. (b). Pub. L. 101–624, §1421(b)(6), added subsec. (b).
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–127, title III, §326, Apr. 4, 1996, 110 Stat. 992, provided that: "This subtitle \[subtitle C (§§321–326) of title III of Pub. L. 104–127, enacting section 3823 of this title, amending this section and section 3822 of this title, and repealing former section 3823 of this title\] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act \[Apr. 4, 1996\]."
+
+#### Short Title
+
+Pub. L. 99–198, title XII, subtitle C, Dec. 23, 1985, 99 Stat. 1507, which is classified generally to this subchapter, is popularly known as the swampbuster provisions.
 

@@ -2,7 +2,7 @@
 
 #### (a) Administrative procedure
 
-Determinations of the NAIC, for purposes of making rules pursuant to section 6758 of this title, shall be made after appropriate notice and opportunity for a hearing and for submission of views of interested persons.
+Determinations of the NAIC, for purposes of making rules pursuant to section 6758 of thistitle, shall be made after appropriate notice and opportunity for a hearing and for submission of views of interested persons.
 
 #### (b) Examinations and reports
 

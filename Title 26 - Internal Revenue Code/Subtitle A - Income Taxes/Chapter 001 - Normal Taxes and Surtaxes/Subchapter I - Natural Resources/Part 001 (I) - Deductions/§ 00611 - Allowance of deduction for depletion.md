@@ -12,7 +12,7 @@ In the case of mines, oil and gas wells, other natural deposits, and timber, the
 
 #### (2) Life tenant and remainderman
 
-&emsp;In the case of property held by one person for life with remainder to another person, thededuction under this section shall be computed as if the life tenant were the absolute owner of the property and shall be allowed to the life tenant.
+&emsp;In the case of property held by one person for life with remainder to another person, the deduction under this section shall be computed as if the life tenant were the absolute owner of the property and shall be allowed to the life tenant.
 
 #### (3) Property held in trust
 

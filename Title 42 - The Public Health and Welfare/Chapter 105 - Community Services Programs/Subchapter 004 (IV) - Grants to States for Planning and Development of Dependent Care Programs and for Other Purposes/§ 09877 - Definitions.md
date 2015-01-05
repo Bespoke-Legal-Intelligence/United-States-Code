@@ -54,7 +54,7 @@ Par. (7). Pub. L. 101–501, §305(c)(2), inserted "in" after first reference to
 
 Par. (10). Pub. L. 101–501, §305(c)(3), substituted "Federated States of Micronesia, the Republic of the Marshall Islands, Palau" for "Trust Territory of the Pacific Islands".
 
-<b>1986</b>—Par. (7). Pub. L. 99–425 inserted ", except that in any State which by State law children at an earlier age are provided free public education, the age provided in State law shall be substituted for age five".
+<b>1986</b>—Par. (7). Pub. L. 99–425 inserted ", except that in any State which by State law children at an earlier ageare provided free public education, the age provided in State law shall be substituted for age five".
 
 #### Effective Date of 2002 Amendment
 

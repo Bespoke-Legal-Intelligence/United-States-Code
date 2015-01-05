@@ -2,29 +2,21 @@
 
 #### (a) Tier 1 tax
 
-In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee. For purposes of the preceding sentence, the term "applicable percentage" means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 for the calendar year.
+In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee. For purposes of the preceding sentence,the term "applicable percentage" means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 for the calendar year.
 
 #### (b) Tier 2 tax
 
-#### (1) In general
-
-&emsp;In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee.
-
-#### (2) Applicable percentage
-
-&emsp;For purposes of paragraph (1), the term "applicable percentage" means—
-
-&emsp;&emsp;(A) 4.90 percent in the case of compensation received during 2002 or 2003, and
-
-&emsp;&emsp;(B) in the case of compensation received during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the percentage determined under section 3241 for any calendar year of the compensation received during such calendar year by such employee for services rendered by such employee.
 
 #### (c) Cross reference
 
 &emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(a), May 19, 1959, 73 Stat. 28; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(1), 111(c)(1), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(a), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301(a), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 93–69, title I, §102(a), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §201, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(6), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(a), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(a), 221, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9031(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(a), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §204(c), Dec. 21, 2001, 115 Stat. 892.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(a), May 19, 1959, 73 Stat. 28; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(1), 111(c)(1), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(a), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301(a), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 93–69, title I, §102(a), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §201, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(6), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(a), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(a), 221, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9031(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(a), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §204(c), Dec. 21, 2001, 115 Stat. 892; Pub. L. 113–295, div. A, title II, §221(a)(100)(A), Dec. 19, 2014, 128 Stat. 4052.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–90 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to 4.90 percent of the compensation received during any calendar year by such employee for services rendered by such employee."
 
@@ -32,21 +24,12 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the following percentage of the compensation received during any calendar year by such employee for services rendered by such employee:
 
-<b> "In the case of compensation</b>
+&nbsp;
 
-<b>  received during:</b>
-
-<b>The rate shall be:</b>
-
-&emsp;&emsp;1985
-
-3\.50&nbsp;&nbsp;
-
-&emsp;&emsp;1986 or thereafter
-
-4\.25."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>"In the case of compensation received during:</b> | <b>The rate shall be:</b> |
+| :--- | ---: |
+| &nbsp;1985 | 3\.50&nbsp;&nbsp; |
+| &nbsp;1986 or thereafter | 4\.25." |
 
 <b>1983</b>—Pub. L. 98–76, §221, amended section generally, substituting a two tiered tax system with accompanying tax rate tables and a cross reference to section 3231 of this title, for provisions which had taxed an employee at 2.75 percent of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable "wages" as defined in section 3121 for any month and which had provided that the rate of tax imposed by subsection (a) be increased by the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable "wages" as defined in section 3121 for any month.
 
@@ -72,9 +55,13 @@ Pub. L. 89–97 substituted "the rate of the tax imposed with respect to wages b
 
 <b>1963</b>—Pub. L. 88–133 limited existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
-<b>1959</b>—Pub. L. 86–28 increased tax from 6¼ percent of compensation not in excess of $350 for any calendar month to 6¾ percent of the compensation not in excessof $400 for any calendar month for services rendered before Jan. 1, 1962, and to 7¼ percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
+<b>1959</b>—Pub. L. 86–28 increased tax from 6¼ percent of compensation not in excess of $350 for any calendar month to 6¾ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 7¼ percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 <b>1954</b>—Act Aug. 31, 1954, substituted "$350" for "$300".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -116,7 +103,7 @@ Amendment by section 111(c)(1) of Pub. L. 89–97 applicable to calendar year 19
 
 #### Effective Date of 1959 Amendment
 
-Pub. L. 86–28, title II, §202, May 19, 1959, 73 Stat. 30, provided that: "The amendments made by section 201 \[amending this section and sections 3202, 3211, and 3221 of this title\] shall, except as otherwise provided in such amendments, be effective as of the first day of the calendar month next following the month in which this Act was enacted \[May, 1959\], and shall apply only with respect to compensation paid after the month of suchenactment, for services rendered after such month of enactment."
+Pub. L. 86–28, title II, §202, May 19, 1959, 73 Stat. 30, provided that: "The amendments made by section 201 \[amending this section and sections 3202, 3211, and 3221 of this title\] shall, except as otherwise provided in such amendments, be effective as of the first day of the calendar month next following the month in which this Act was enacted \[May, 1959\], and shall apply only with respect to compensation paid after the month of such enactment, for services rendered after such month of enactment."
 
 #### Effective Date of 1954 Amendment
 

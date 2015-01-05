@@ -10,7 +10,7 @@ In General.—Except as provided in subsection (b), whoever, being an officer, d
 
 (b)
 
-Regulations.—A Federal financial institution regulatory agency may prescribe regulations establishing additional limitations on the application for and receipt of credit under this section and on the application and receipt of residential mortgage loans under this section, after consulting with each other Federal financial institution regulatory agency.
+Regulations.—A Federal financial institution regulatory agency may prescribe regulations establishing additional limitations on theapplication for and receipt of credit under this section and on the application and receipt of residential mortgage loans under this section, after consulting with each other Federal financial institution regulatory agency.
 
 (c)
 
@@ -50,7 +50,7 @@ Financial institution.—The term "financial institution" does not include a cre
 
 Loan.—The term "loan" does not include any credit card account established under an open end consumer credit plan or a loan secured by residential real property that is the principal residence of the examiner, if—
 
-&emsp;&emsp;(A) the applicant satisfies any financial requirements for the credit card account orresidential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
+&emsp;&emsp;(A) the applicant satisfies any financial requirements for the credit card account or residential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
 
 &emsp;&emsp;(B) the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders <sup>1</sup> in comparable circumstances under open end consumer credit plans or for residential real property loans; and
 

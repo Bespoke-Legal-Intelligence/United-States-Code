@@ -112,5 +112,5 @@ Pub. L. 105–33, title IV, §4507(b), Aug. 5, 1997, 111 Stat. 441, provided tha
 
 &emsp;&emsp;"(B) the quality of the health services provided under such contracts; and
 
-&emsp;"(2) recommendations as to whether medicare beneficiaries should continue to be able to enter private contracts under section 1802(b) of such Act \[42 U.S.C. 1395a(b)\] (as added by subsection (a)) and if so, what legislative changes, if any should be made to improve such contracts."
+&emsp;"(2) recommendations as to whether medicare beneficiaries should continue to be able to enter privatecontracts under section 1802(b) of such Act \[42 U.S.C. 1395a(b)\] (as added by subsection (a)) and if so, what legislative changes, if any should be made to improve such contracts."
 

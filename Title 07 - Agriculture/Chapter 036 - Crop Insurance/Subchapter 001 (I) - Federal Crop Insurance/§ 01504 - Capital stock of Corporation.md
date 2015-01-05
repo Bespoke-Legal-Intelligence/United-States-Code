@@ -42,7 +42,7 @@ Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provis
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–365, title I, §112, Sept. 26, 1980, 94 Stat. 1319, provided that: "Except as otherwise provided in this Act, the provisions of this Act amending the Federal Crop Insurance Act \[amending sections 1504, 1505 to 1507, 1508, and 1518 of this title and repealing section1515 of this title\] shall become effective on the date of enactment of this Act \[Sept. 26, 1980\]."
+Pub. L. 96–365, title I, §112, Sept. 26, 1980, 94 Stat. 1319, provided that: "Except as otherwise provided in this Act, the provisions of this Act amending the Federal Crop Insurance Act \[amending sections 1504, 1505 to 1507, 1508, and 1518 of this title and repealing section 1515 of this title\] shall become effective on the date of enactment of this Act \[Sept. 26, 1980\]."
 
 Pub. L. 96–365, title I, §101(a), Sept. 26, 1980, 94 Stat. 1312, provided that the amendment made by section 101(a) is effective Oct. 1, 1980.
 

@@ -90,7 +90,7 @@ Subsec. (b). Pub. L. 108–36, §302(2), added subsec. (b) and struck out former
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–235 added subsec. (h).
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–236, §3(c)(1), inserted before semicolon at end ", including the provision ofservices to members of the natural family for any condition that increases the probability of abandonment of an infant or young child".
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–236, §3(c)(1), inserted before semicolon at end ", including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child".
 
 Subsec. (a)(2). Pub. L. 102–236, §3(a)(2)(A)(ii), struck out ", particularly those with acquired immune deficiency syndrome" after "young children".
 

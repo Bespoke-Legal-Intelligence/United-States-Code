@@ -156,7 +156,7 @@ In awarding grants under this section, the Secretary—
 
 #### (3) Reservation of funds for national program purposes
 
-&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance to grantees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
+&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance tograntees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
 
 #### (f) Grantee requirements
 

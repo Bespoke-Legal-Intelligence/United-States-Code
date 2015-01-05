@@ -62,17 +62,17 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (3) Recapture of profits from resale
 
-&emsp;Except as provided in paragraph (4), if any eligible single family property sold (A) to a qualifying household, or (B) to a low-income family pursuant to paragraph (2)(B)(ii), subsection (j)(3)(A) of this section, or subsection (k)(2) of this section, is resold by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or low-income family, the Corporation shall recapture 75 percent of the amount of any proceeds from the resale that exceed the sum of (i) the original sale price for the acquisition of the property by the qualifying household or low-income family, (ii) the costs of any improvements to the property made after the date of the acquisition, and (iii) any closing costs in connection with the acquisition.
+&emsp;Except as provided in paragraph (4), if any eligible single family property sold (A) to a qualifying household, or (B) to a low-income family pursuant to paragraph (2)(B)(ii), subsection (j)(3)(A), or subsection (k)(2), is resold by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or low-income family, the Corporation shall recapture 75 percent of the amount of any proceeds from the resale that exceed the sum of (i) the original sale price for the acquisition of the property by the qualifying household or low-income family, (ii) the costs of any improvements to the property made after the date of the acquisition, and (iii) any closing costs in connection with the acquisition.
 
 #### (4) Exceptions to recapture requirement
 
 #### (A) Relocation
 
-&emsp;&emsp;The Corporation may in its discretion waive the applicability (i) to any qualifying household of the requirement under paragraph (3) and the requirements relating to residency of a qualifying household under subparagraphs (B) and (C) of subsection (p)(12) of this section, and (ii) to any low-income family of the requirement under paragraph (3) and the residency requirements under paragraph (2)(B)(ii). The Corporation may grant any such waiver only for good cause shown, including any necessary relocation of the qualifying household or low-income family.
+&emsp;&emsp;The Corporation may in its discretion waive the applicability (i) to any qualifying household of the requirement under paragraph (3) and the requirements relating to residency of a qualifying household under subparagraphs (B) and (C) of subsection (p)(12), and (ii) to any low-income family of the requirement under paragraph (3) and the residency requirements under paragraph (2)(B)(ii). The Corporation may grant any such waiver only for good cause shown, including any necessary relocation of the qualifying household or low-income family.
 
 #### (B) Other recapture provisions
 
-&emsp;&emsp;The requirement under paragraph (3) shall not apply to any eligible single family property for which, upon resale by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or family, a portion of the sale proceeds or any subsidy provided in connection with the acquisition of the property by the household or family is requiredto be recaptured or repaid under any other Federal, State, or local law (including section 143(m) of title 26) or regulation or under any sale agreement.
+&emsp;&emsp;The requirement under paragraph (3) shall not apply to any eligible single family property for which, upon resale by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or family, a portion of the sale proceeds or any subsidy provided in connection with the acquisition of the property by the household or family is required to be recaptured or repaid under any other Federal, State, or local law (including section 143(m) of title 26) or regulation or under any sale agreement.
 
 #### (5) Exception to avoid displacement of existing residents
 
@@ -128,7 +128,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 &emsp;&emsp;&emsp;(i) not less than 35 percent of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for low-income and very low-income families during the remaining useful life of the property in which the units are located; provided that
 
-&emsp;&emsp;&emsp;(ii) not less than 20 percent of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for very low-income families during the remaining useful life of the property in which the units are located.
+&emsp;&emsp;&emsp;(ii) not less than 20 percent of all dwelling units purchased shall be made available for occupancy by and maintained asaffordable for very low-income families during the remaining useful life of the property in which the units are located.
 
 #### (B) Aggregation requirements for multiproperty purchases
 
@@ -160,7 +160,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (2) Applicability
 
-&emsp;The rent limitations under this subsection shall apply to any eligible single family property sold pursuant to subsection (c)(2)(B)(i) of this section and to any eligible multifamily housing property sold pursuant to subsection (d) of this section.
+&emsp;The rent limitations under this subsection shall apply to any eligible single family property sold pursuant to subsection (c)(2)(B)(i) and to any eligible multifamily housing property sold pursuant to subsection (d).
 
 #### (f) Preferences for sales
 
@@ -170,7 +170,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (2) Multiproperty purchases
 
-&emsp;The Corporation shall give preference, among substantially similar offers made under paragraph (4) or (5) of subsection (d) of this section to purchase more than one eligible multifamily housing property as a part of the same negotiation, to offers made by purchasers who agree to maintain low-income occupancy in each separate property purchased in compliance with the levels required for properties under subsection (d)(7)(A) of this section.
+&emsp;The Corporation shall give preference, among substantially similar offers made under paragraph (4) or (5) of subsection (d) to purchase more than one eligible multifamily housing property as a part of the same negotiation, to offers made by purchasers who agree to maintain low-income occupancy in each separate property purchased in compliance with the levels required for properties under subsection (d)(7)(A).
 
 #### (3) Definition of substantially similar offers
 
@@ -182,11 +182,11 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (A) Sale price
 
-&emsp;&emsp;The Corporation shall establish a market value for each eligible multifamily housing property. The Corporation shall sell eligible multifamily housing property at the net realizable market value, except that the Corporation may agree to sell eligible multifamily housing property at a price below the net realizable market value to the extent necessary to facilitate an expedited sale of such property and enable a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to such property under subsection (d)(7) of this section. The Corporation may sell eligible single family property or eligible condominium property to qualifying households, nonprofit organizations, and public agencies without regard to any minimum sale price.
+&emsp;&emsp;The Corporation shall establish a market value for each eligible multifamily housing property. The Corporation shall sell eligible multifamily housing property at the net realizable market value, except that the Corporation may agree to sell eligible multifamily housing property at a price below thenet realizable market value to the extent necessary to facilitate an expedited sale of such property and enable a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to such property under subsection (d)(7). The Corporation may sell eligible single family property or eligible condominium property to qualifying households, nonprofit organizations, and public agencies without regard to any minimum sale price.
 
 #### (B) Purchase loan
 
-&emsp;&emsp;The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c) of this section, or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d) of this section. The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms "women-owned business" and "minority-owned business" have the meanings given such terms in section 1441a(r) <sup>1</sup> of this title, and the term "minority" has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;&emsp;The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c), or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d). The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms "women-owned business" and "minority-owned business" have the meanings given such terms in section 1441a(r) <sup>1</sup> of this title, and the term "minority" has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (2) Assistance by HUD
 
@@ -198,7 +198,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (4) Exception to disposition rules
 
-&emsp;Notwithstanding the requirements under paragraphs (1), (2), (3), (4), (6), and (8) of subsection (d) of this section, the Corporation may provide for the disposition of eligible multifamily housing properties as necessary to facilitate purchase of such properties for use in connection with section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\].
+&emsp;Notwithstanding the requirements under paragraphs (1), (2), (3), (4), (6), and (8) of subsection (d), the Corporation may provide for the disposition of eligible multifamily housing properties as necessary to facilitate purchase of such properties for use in connection with section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\].
 
 #### (5) Bulk acquisitions under Home Investment Partnerships Act
 
@@ -208,7 +208,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (B) Exemptions
 
-&emsp;&emsp;To the extent necessary to facilitate sale of properties under this paragraph, the requirements of subsections (c) and (f) of this section and of paragraph (1) of this subsection shall not apply to such transactions and properties involved in such transactions.
+&emsp;&emsp;To the extent necessary to facilitate sale of properties under this paragraph, the requirements of subsections (c) and (f) and of paragraph (1) of this subsection shall not apply to such transactions and properties involved in such transactions.
 
 #### (C) Inventories
 
@@ -224,7 +224,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (A) In general
 
-&emsp;&emsp;With respect to such properties, the Secretary may, consistent with statutory authorities, work through the Federal Housing Administration, the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and other secondary market entities to develop risk-sharing structures, mortgage insurance, and other credit enhancements to assist in the provision of property ownership, rental, and cooperative housing opportunities for low- and moderate-income families.
+&emsp;&emsp;With respect to such properties, the Secretary may, consistent with statutory authorities, work through the Federal Housing Administration, the Government National Mortgage Association, the Federal National Mortgage Association, the Federal HomeLoan Mortgage Corporation, and other secondary market entities to develop risk-sharing structures, mortgage insurance, and other credit enhancements to assist in the provision of property ownership, rental, and cooperative housing opportunities for low- and moderate-income families.
 
 #### (B) Certain tax-exempt bonds
 
@@ -240,7 +240,7 @@ The provisions of this section shall not apply with respect to any eligible resi
 
 #### (j) Transfer of certain eligible residential properties to State housing agencies for disposition
 
-Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporation may transfer eligible residential properties to the State housing finance agency or any other State housing agency for the State in which the property is located, or to any local housing agency in whose jurisdiction the property is located. Transfers of eligible residential properties under this subsection may be conducted by direct sale, consignment sale, or any other method the Corporation considers appropriate and shall be subject to the following requirements:
+Notwithstanding subsections (c), (d), (f), and (g), the Corporation may transfer eligible residential properties to the State housing finance agency or any other State housing agency for the State in which the property is located, or to any local housing agency in whose jurisdiction the property is located. Transfers of eligible residential properties under this subsection may be conducted by direct sale, consignment sale, or any other method the Corporation considers appropriate and shall be subject to the following requirements:
 
 #### (1) Individual or bulk transfer
 
@@ -258,13 +258,13 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 &emsp;&emsp;For eligible single family properties—
 
-&emsp;&emsp;&emsp;(i) to purchasers described under subparagraphs (A) and (B) of subsection (c)(2) of this section;
+&emsp;&emsp;&emsp;(i) to purchasers described under subparagraphs (A) and (B) of subsection (c)(2);
 
-&emsp;&emsp;&emsp;(ii) if the purchaser is a purchaser described under subsection (c)(2)(B)(i) of this section, subject to the rent limitations under subsection (e)(1) of this section;
+&emsp;&emsp;&emsp;(ii) if the purchaser is a purchaser described under subsection (c)(2)(B)(i), subject to the rent limitations under subsection (e)(1);
 
-&emsp;&emsp;&emsp;(iii) subject to the requirement in the second sentence of subsection (c)(2) of this section; and
+&emsp;&emsp;&emsp;(iii) subject to the requirement in the second sentence of subsection (c)(2); and
 
-&emsp;&emsp;&emsp;(iv) subject to recapture by the Corporation of excess proceeds from resale of the properties under paragraphs (3) and (4) of subsection (c) of this section.
+&emsp;&emsp;&emsp;(iv) subject to recapture by the Corporation of excess proceeds from resale of the properties under paragraphs (3) and (4) of subsection (c).
 
 #### (B) Eligible multifamily housing properties
 
@@ -272,13 +272,13 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 &emsp;&emsp;&emsp;(i) to qualifying multifamily purchasers;
 
-&emsp;&emsp;&emsp;(ii) subject to the low-income occupancy requirements under subsection (d)(7) of this section;
+&emsp;&emsp;&emsp;(ii) subject to the low-income occupancy requirements under subsection (d)(7);
 
-&emsp;&emsp;&emsp;(iii) subject to the provisions of subsection (d)(8) of this section;
+&emsp;&emsp;&emsp;(iii) subject to the provisions of subsection (d)(8);
 
 &emsp;&emsp;&emsp;(iv) subject to a preference, among financially acceptable offers, to the offer that would reserve the highest percentage of dwelling units for occupancy or purchase by very low- and low-income families and would retain such affordability for the longest term; and
 
-&emsp;&emsp;&emsp;(v) subject to the rent limitations under subsection (e)(1) of this section.
+&emsp;&emsp;&emsp;(v) subject to the rent limitations under subsection (e)(1).
 
 #### (4) Affordability
 
@@ -288,17 +288,17 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (1) Suspension of offer periods
 
-&emsp;With respect to any eligible residential property, the Corporation may (in the discretion of the Corporation) suspend any of the requirements of paragraphs (1) and (2) of subsection (c) of this section and paragraphs (1) through (4) of subsection (d) of this section, as applicable, but only to the extent that for the duration of the suspension the Corporation negotiates the sale of the property to a nonprofit organization or public agency. If the property is not sold pursuant to such negotiations, the requirements of any provisions suspended shall apply upon the termination of the suspension. Any time period referred to in such subsections shall toll for the duration of any suspension under this paragraph.
+&emsp;With respect to any eligible residential property, the Corporation may (in the discretion of the Corporation) suspend any of the requirements of paragraphs (1) and (2) of subsection (c) and paragraphs (1) through (4) of subsection (d), as applicable, but only to the extent that for the duration of the suspension the Corporation negotiates the sale of the property to a nonprofit organization or public agency. If the property is not sold pursuant to such negotiations, the requirements of any provisions suspended shall apply upon the termination of the suspension. Any time period referred to in such subsections shall toll for the duration of any suspension under this paragraph.
 
 #### (2) Use restrictions
 
 #### (A) Eligible single family property
 
-&emsp;&emsp;Any eligible single family property sold under this subsection shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or made available for purchase by such families, (ii) subject to the rent limitations under subsection (e)(1) of this section, (iii) subject to the requirements relating to residency of a qualifying household under subsection (p)(12) of this section and to residency of a low-income family under subsection (c)(2)(B) of this section, and (iv) subject to recapture by the Corporation of excess proceeds from resale of the property under paragraphs (3) and (4) of subsection (c) of this section.
+&emsp;&emsp;Any eligible single family property sold under this subsection shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or made available for purchase by such families, (ii)subject to the rent limitations under subsection (e)(1), (iii) subject to the requirements relating to residency of a qualifying household under subsection (p)(12) and to residency of a low-income family under subsection (c)(2)(B), and (iv) subject to recapture by the Corporation of excess proceeds from resale of the property under paragraphs (3) and (4) of subsection (c).
 
 #### (B) Eligible multifamily housing property
 
-&emsp;&emsp;Any eligible multifamily housing property sold under this subsection shall comply with the low-income occupancy requirements under subsection (d)(7) of this section and shall be subject to the rent limitations under subsection (e)(1) of this section.
+&emsp;&emsp;Any eligible multifamily housing property sold under this subsection shall comply with the low-income occupancy requirements under subsection (d)(7) and shall be subject to the rent limitations under subsection (e)(1).
 
 #### (l) Rules governing disposition of eligible condominium property
 
@@ -338,11 +338,11 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (5) Exception to recapture requirement
 
-&emsp;The Corporation (or its successor) may in its discretion waive the applicability to any qualifying household or low-income family of the requirement under paragraph (4) and the requirements relating to residency of a qualifying household or low-income family (under subsection (p)(12) of this section and paragraph (3) of this subsection, respectively). The Corporation may grant any such a waiver only for good cause shown, including any necessary relocation of the qualifying household or low-income family.
+&emsp;The Corporation (or its successor) may in its discretion waive the applicability to any qualifying household or low-income family of the requirement under paragraph (4) and the requirements relating to residency of a qualifying household or low-income family (under subsection (p)(12) and paragraph (3) of this subsection, respectively). The Corporation may grant any such a waiver only for good cause shown, including any necessary relocation of the qualifying household or low-income family.
 
 #### (6) Limitations on multiple unit purchases
 
-&emsp;The Corporation may not sell or offer to sell as part of the same negotiation or purchase any eligible condominium properties that arenot located in the same condominium project (as such term is defined in section 3603 of title 15). The preceding sentence may not be construed to require all eligible condominium properties offered or sold as part of the same negotiation or purchase to be located in the same structure.
+&emsp;The Corporation may not sell or offer to sell as part of the same negotiation or purchase any eligible condominium properties that are not located in the same condominium project (as such term is defined in section 3603 of title 15). The preceding sentence may not be construed to require all eligible condominium properties offered or sold as part of the same negotiation or purchase to be located in the same structure.
 
 #### (7) Rent limitations
 
@@ -356,7 +356,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (2) Low-income occupancy
 
-&emsp;The low-income occupancy requirements under subsections (c), (d), (j)(3), (k)(2), and (l)(3) of this section shall be judicially enforceable against purchasers of property under this section and their successors in interest by affected very low- and low-income families, State housing finance agencies, and any agency, corporation, or authority of the United States. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
+&emsp;The low-income occupancy requirements under subsections (c), (d), (j)(3), (k)(2), and (l)(3) shall be judicially enforceable against purchasers of property under this section and their successors in interest by affected very low- and low-income families, State housing finance agencies, and any agency, corporation, or authority of the United States. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 
 #### (3) Clearinghouses
 
@@ -396,7 +396,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 &emsp;&emsp;(D) a timetable for the unification; and
 
-&emsp;&emsp;(E) a methodology to determine the extent to which the provisions of this section shall be effective, in accordance with the limitations under subsection (b)(2) of this section.
+&emsp;&emsp;(E) a methodology to determine the extent to which the provisions of this section shall be effective, in accordance with the limitations under subsection (b)(2).
 
 #### (4) Transfer to FDIC
 
@@ -496,7 +496,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) a nonprofit organization; or
 
-&emsp;&emsp;(C) a for-profit entity, which makes a commitment (for itself or any related entity) to comply with the low-income occupancy requirements under subsection (d)(7) of this section for any eligible multifamily housing property for which an offer to purchase is made during or after the periods specified under subsection (d) of this section.
+&emsp;&emsp;(C) a for-profit entity, which makes a commitment (for itself or any related entity) to comply with the low-income occupancy requirements under subsection (d)(7) for any eligible multifamily housing property for which an offer to purchase is made during or after the periods specified under subsection (d).
 
 #### (14) Secretary
 
@@ -518,7 +518,7 @@ For purposes of this section:
 
 #### (2) Content
 
-&emsp;For ineligible single family properties, such notice shall contain the same information about such properties that the notice required under subsection (c)(1) of this section contains with respect to eligible single family properties. For ineligible multifamily housing properties, such notice shall contain the same information about such properties that the notice required under subsection (d)(1) of this section contains with respect to eligible multifamily housing properties. For ineligible condominium properties, such notice shall contain the same information about such properties that the notice required under subsection (l)(1) of this section contains with respect to eligible condominium properties.
+&emsp;For ineligible single family properties, such notice shall contain the same information about such properties that the notice required under subsection (c)(1) contains with respect to eligible single family properties. For ineligible multifamily housing properties, such notice shall contain the same information about such properties that the notice required under subsection (d)(1) contains with respect to eligible multifamily housing properties. For ineligible condominium properties, such notice shall contain the same information about such properties that the notice required under subsection (l)(1) contains with respect to eligible condominium properties.
 
 #### (3) Availability
 
@@ -530,15 +530,15 @@ For purposes of this section:
 
 #### (A) Ineligible condominium property
 
-&emsp;&emsp;The term "ineligible condominium property" means any eligible condominium property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A) of this section.
+&emsp;&emsp;The term "ineligible condominium property" means any eligible condominium property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
 
 #### (B) Ineligible multifamily housing property
 
-&emsp;&emsp;The term "ineligible multifamily housing property" means any eligible multifamily housing property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A) of this section.
+&emsp;&emsp;The term "ineligible multifamily housing property" means any eligible multifamily housing property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
 
 #### (C) Ineligible single family property
 
-&emsp;&emsp;The term "ineligible single family property" means any eligible single family property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A) of this section.
+&emsp;&emsp;The term "ineligible single family property" means any eligible single family property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
 
 #### (D) Ineligible residential property
 
@@ -560,7 +560,7 @@ The National Housing Act, referred to in subsec. (g)(2), is act June 27, 1934, c
 
 The Housing Act of 1949, referred to in subsec. (g)(3), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (g)(5)(A) and (h)(3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the "HOME Investment Partnerships Act", is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Title IV of the Act, also known as the "Homeownership and Opportunity Through HOPEAct", enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of Title 42 and subchapter IV (§12871 et seq.) of chapter 130 of Title 42, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of Title 42 and section 1709 of this title, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (g)(5)(A) and (h)(3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the "HOME Investment Partnerships Act", is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Title IV of the Act, also known as the "Homeownership and Opportunity Through HOPE Act", enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of Title 42 and subchapter IV (§12871 et seq.) of chapter 130 of Title 42, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of Title 42 and section 1709 of this title, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 Section 14(b) of the Resolution Trust Corporation Completion Act, referred to in subsec. (n)(1), is section 14(b) of Pub. L. 103–204, which is set out below.
 
@@ -616,7 +616,7 @@ Membership.—The Advisory Board shall consist of—
 
 &emsp;"(B) the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation (or the Chairperson's delegate), who shall be a nonvoting member;
 
-&emsp;"(C) 4 persons appointed by the Secretary of Housing and Urban Development not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\], who represent the interests of individuals and organizations involved in using the affordable housing programs (including nonprofit organizations, public agencies, and for-profit organizations that purchase properties under the affordable housing programs, organizationsthat provide technical assistance regarding the affordable housing programs, and organizations that represent the interest of low- and moderate-income families); and
+&emsp;"(C) 4 persons appointed by the Secretary of Housing and Urban Development not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\], who represent the interests of individuals and organizations involved in using the affordable housing programs (including nonprofit organizations, public agencies, and for-profit organizations that purchase properties under the affordable housing programs, organizations that provide technical assistance regarding the affordable housing programs, and organizations that represent the interest of low- and moderate-income families); and
 
 &emsp;"(D) 2 persons who are members of the National Housing Advisory Board pursuant to section 21A(d)(2)(B)(ii) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(d)(2)(B)(ii)\] (as in effect before the effective date of the repeal under subsection (c)(2) \[90 days after Dec. 17, 1993\]), who shall be appointed by such Board before such effective date.
 

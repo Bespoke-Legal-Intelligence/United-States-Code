@@ -30,7 +30,7 @@ The Board and the standard setting body referred to in subsection (a) of this se
 
 #### (3) Brokers and dealers
 
-&emsp;The Board shall begin the allocation, assessment, and collection of fees under paragraph (2) with respect to brokers and dealers withthe payment of support fees to fund the first full fiscal year beginning after July 21, 2010.
+&emsp;The Board shall begin the allocation, assessment, and collection of fees under paragraph (2) with respect to brokers and dealers with the payment of support fees to fund the first full fiscal year beginning after July 21, 2010.
 
 #### (e) Annual accounting support fee for standard setting body
 
@@ -60,7 +60,7 @@ Any amount due from issuers (or a particular class of issuers) under this sectio
 
 #### (2) Allocation
 
-&emsp;Any amount due from a broker or dealer (or from a particular class of brokers and dealers) under this section shall be allocated among brokers and dealers and payable by the broker or dealer (or the brokers and dealers in the particular class, as applicable).
+&emsp;Any amount due from a broker or dealer (or from a particular class of brokers and dealers)under this section shall be allocated among brokers and dealers and payable by the broker or dealer (or the brokers and dealers in the particular class, as applicable).
 
 #### (3) Proportionality
 

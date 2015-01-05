@@ -18,13 +18,13 @@ Historical and Revision Notes
 
 July 7, 1958, Pub. L. 85–507, §16, 72 Stat. 335.
 
-In the first sentence, the words “from time to time” are omitted as unnecessary. In the second sentence, the word “appropriate” is omitted as unnecessary.
+In the first sentence, the words "from time to time" are omitted as unnecessary. In the second sentence, the word "appropriate" is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
 
 #### Effective Date of 1978 Amendment
 

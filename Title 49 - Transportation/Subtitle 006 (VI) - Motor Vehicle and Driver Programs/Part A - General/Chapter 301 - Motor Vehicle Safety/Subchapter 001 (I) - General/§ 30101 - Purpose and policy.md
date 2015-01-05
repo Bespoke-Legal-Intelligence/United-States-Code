@@ -30,9 +30,9 @@ The words "Congress hereby declares that", "to persons", and "Congress determine
 
 Pub. L. 112–196, §1, Oct. 19, 2012, 126 Stat. 1459, provided that: "This Act \[amending section 31311 of this title\] may be cited as the 'Military Commercial Driver's License Act of 2012'."
 
-Pub. L. 112–141, div. C, title II, §32001, July 6, 2012, 126 Stat. 776, provided that: "This title \[see Tables for classification\] may be cited as the 'Commercial Motor Vehicle Safety Enhancement Act of 2012'."
+Pub. L. 112–141, div. C, title II, §32001, July 6, 2012, 126 Stat. 776, provided that "This title \[see Tables for classification\] may be cited as the 'Commercial Motor Vehicle Safety Enhancement Act of 2012'."
 
-Pub. L. 112–141, div. C, title II, §32401, July 6, 2012, 126 Stat. 795, provided that: "This subtitle \[subtitle D (§§32401, 32402) of title II of div. C of Pub. L. 112–141, enacting section 31306a of this title and amending section 31306 of this title\] may be cited as the 'Safe Roads Act of 2012'."
+Pub. L. 112–141, div. C, title II, §32401, July 6, 2012, 126 Stat. 795, provided that "This subtitle \[subtitle D (§§32401, 32402) of title II of div. C of Pub. L. 112–141, enacting section 31306a of this title and amending section 31306 of this title\] may be cited as the 'Safe Roads Act of 2012'."
 
 #### Short Title of 2007 Amendment
 

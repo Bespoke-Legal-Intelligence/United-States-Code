@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(4) the region has experienced the strengthening of democracy as countries in sub-Saharan Africa have taken steps to encourage broader participation in the political process;
 
-&emsp;(5) certain countries in sub-Saharan Africa have increased their economic growth rates,taken significant steps towards liberalizing their economies, and made progress toward regional economic integration that can have positive benefits for the region;
+&emsp;(5) certain countries in sub-Saharan Africa have increased their economic growth rates, taken significant steps towards liberalizing their economies, and made progress toward regional economic integration that can have positive benefits for the region;
 
 &emsp;(6) despite those gains, the per capita income in sub-Saharan Africa averages approximately $500 annually;
 
@@ -158,7 +158,7 @@ Requests.—Liquidation or reliquidation may be made under subsection (a) with r
 
 "(c)
 
-Payment of Amounts Owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of any entry under subsection (a) shall bepaid not later than 180 days after the date of such liquidation or reliquidation.
+Payment of Amounts Owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of any entry under subsection (a) shall be paid not later than 180 days after the date of such liquidation or reliquidation.
 
 "(d)
 
@@ -178,7 +178,7 @@ Reports.—The President shall, by not later than 1 year after the date of the e
 
 "(b)
 
-Dissemination of Information.—The President shall disseminate information in each study conducted under subsection (a) to the appropriate United States agencies for the purpose of implementing recommendations on the provision of technical assistance and in identifying opportunities for United States investors, businesses, and farmers.
+Dissemination of Information.—The President shall disseminate information in each study conductedunder subsection (a) to the appropriate United States agencies for the purpose of implementing recommendations on the provision of technical assistance and in identifying opportunities for United States investors, businesses, and farmers.
 
 #### "SEC. 10. ACTIVITIES IN SUPPORT OF INFRASTRUCTURE TO SUPPORT INCREASING TRADE CAPACITY AND ECOTOURISM.
 
@@ -272,7 +272,7 @@ Personnel.—The President shall assign at least 20 full-time personnel for the 
 
 #### "SEC. 14. TRADE ADVISORY COMMITTEE ON AFRICA.
 
-"The President shall convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975 \[19 U.S.C. 2111 note\], under section 135(c) of the Trade Act of 1974 \[19 U.S.C. 2155(c)\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues."
+"The President shall convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975 \[19 U.S.C. 2111 note\], under section 135(c) of the Trade Act of 1974 \[19 U.S.C. 2155(c)\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\] and this Act, and to maintain ongoing discussions withAfrican trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues."
 
 \[Pub. L. 108–429, title II, §2004(j)(2), Dec. 3, 2004, 118 Stat. 2595, provided that:
 

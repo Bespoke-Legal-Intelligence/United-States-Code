@@ -12,7 +12,7 @@ In this part:
 
 #### (3) Community day program
 
-&emsp;The term "community day program" means a regular program of instruction provided by aState agency at a community day school operated specifically for neglected or delinquent children and youth.
+&emsp;The term "community day program" means a regular program of instruction provided by a State agency at a community day school operated specifically for neglected or delinquent children and youth.
 
 #### (4) Institution for neglected or delinquent children and youth
 

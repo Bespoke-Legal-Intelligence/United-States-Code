@@ -6,7 +6,7 @@
 
 (c) No later than May 1, 1997, the Director of the Office of Management and Budget shall submit a report to the President and to the Congress which shall—
 
-&emsp;(1) assess the benefits, costs, and usefulness of the plans and reports prepared by the pilot agencies in meeting the purposes of the Government Performance and Results Act of 1993;
+&emsp;(1) assess the benefits, costs, and usefulness of the plans and reports prepared by the pilotagencies in meeting the purposes of the Government Performance and Results Act of 1993;
 
 &emsp;(2) identify any significant difficulties experienced by the pilot agencies in preparing plans and reports; and
 

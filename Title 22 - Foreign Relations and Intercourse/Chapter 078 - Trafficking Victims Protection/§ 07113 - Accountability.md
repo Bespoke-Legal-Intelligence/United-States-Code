@@ -14,7 +14,7 @@ All grants awarded by the Attorney General under this title or an Act amended by
 
 #### (C) Mandatory exclusion
 
-&emsp;&emsp;A recipient of grant funds under this title or an Act amended by this title that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this title or an Act amended by this title duringthe first 2 fiscal years beginning after the end of the 12-month period described in subparagraph (A).
+&emsp;&emsp;A recipient of grant funds under this title or an Act amended by this title that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this title or an Act amended by this title during the first 2 fiscal years beginning after the end of the 12-month period described in subparagraph (A).
 
 #### (D) Priority
 
@@ -36,7 +36,7 @@ All grants awarded by the Attorney General under this title or an Act amended by
 
 #### (B) Prohibition
 
-&emsp;&emsp;The Attorney General may not award a grant under this title or an Act amended by this title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
+&emsp;&emsp;The Attorney General may not award a grant under this title or an Act amended bythis title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
 
 #### (C) Disclosure
 

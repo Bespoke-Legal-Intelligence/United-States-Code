@@ -20,7 +20,7 @@ Subchapter B of chapter 63 (relating to deficiency procedure for income, estate,
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–357, §413(c)(29)(A), which directed substitution of "6046 and 6046A" for "6035, 6046, and 6046A" was executed by making the substitution for "6035, 6046, or 6046A" to reflect the probable intent of Congress.
 
-Subsec. (a)(3). Pub. L. 108–357, §413(c)(29)(B), struck out heading and text of par. (3). Text read as follows: "In the case of a return required under section 6035, paragraph (1) shall be applied by substituting '$1,000' for '$10,000', and paragraph (2) shall not apply."
+Subsec. (a)(3). Pub. L. 108–357, §413(c)(29)(B), struck out heading and text of par. (3). Text read as follows:"In the case of a return required under section 6035, paragraph (1) shall be applied by substituting '$1,000' for '$10,000', and paragraph (2) shall not apply."
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–34 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In addition to any criminal penalty provided by law, any person required to file a return under section 6035, 6046, or 6046A who fails to file such return at the time provided in such section, or who files a return which does not show the information required pursuant to such section, shall pay a penalty of $1,000, unless it is shown that such failure is due to reasonable cause."
 

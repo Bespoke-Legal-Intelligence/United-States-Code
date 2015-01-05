@@ -4,9 +4,9 @@
 
 If—
 
-&emsp;(1) any person or persons acquire, or acquired on or after October 8, 1940, directly or indirectly, control of a corporation, or
+&emsp;(1) any person or persons acquire, directly or indirectly, control of a corporation, or
 
-&emsp;(2) any corporation acquires, or acquired on or after October 8, 1940, directly or indirectly, property of another corporation, not controlled, directly or indirectly, immediately before such acquisition, by such acquiring corporation or its stockholders, the basis of which property, in the hands of the acquiring corporation, is determined by reference to the basis in the hands of the transferor corporation,
+&emsp;(2) any corporation acquires, directly or indirectly, property of another corporation, not controlled, directly or indirectly, immediately before such acquisition, by such acquiring corporation or its stockholders, the basis of which property, in the hands of the acquiring corporation, is determined by reference to the basis in the hands of the transferor corporation,
 
 > and the principal purpose for which such acquisition was made is evasion or avoidance of Federal income tax by securing the benefit of a deduction, credit, or other allowance which such person or corporation would not otherwise enjoy, then the Secretary may disallow such deduction, credit, or other allowance. For purposes of paragraphs (1) and (2), control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote or at least 50 percent of the total value of shares of all classes of stock of the corporation.
 
@@ -34,15 +34,17 @@ If—
 
 In any case to which subsection (a) or (b) applies the Secretary is authorized—
 
-&emsp;(1) to allow as a deduction, credit, or allowance any part of any amount disallowed by such subsection, if he determines that such allowance will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
+&emsp;(1) to allow as a deduction, credit, or allowance any part of any amount disallowed bysuch subsection, if he determines that such allowance will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
 
 &emsp;(2) to distribute, apportion, or allocate gross income, and distribute, apportion, or allocate the deductions, credits, or allowances the benefit of which was sought to be secured, between or among the corporations, or properties, or parts thereof, involved, and to allow such deductions, credits, or allowances so distributed, apportioned, or allocated, but to give effect to such allowance only to such extent as he determines will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
 
 &emsp;(3) to exercise his powers in part under paragraph (1) and in part under paragraph (2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 80; Pub. L. 88–272, title II, §235(c)(2), Feb. 26, 1964, 78 Stat. 126; Pub. L. 94–455, title XIX, §§1901(a)(38), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 98–369, div. A, title VII, §712(k)(8)(A), (B), July 18, 1984, 98 Stat. 952.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 80; Pub. L. 88–272, title II, §235(c)(2), Feb. 26, 1964, 78 Stat. 126; Pub. L. 94–455, title XIX, §§1901(a)(38), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 98–369, div. A, title VII, §712(k)(8)(A), (B), July 18, 1984, 98 Stat. 952; Pub. L. 113–295, div. A, title II, §221(a)(45), Dec. 19, 2014, 128 Stat. 4045.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–295 struck out "or acquired on or after October 8, 1940," after "persons acquire," in par. (1) and after "corporation acquires," in par. (2).
 
 <b>1984</b>—Subsecs. (b), (c). Pub. L. 98–369 added subsec. (b), redesignated former subsec. (b) as (c) and inserted reference to subsec. (b).
 
@@ -51,6 +53,10 @@ In any case to which subsection (a) or (b) applies the Secretary is authorized�
 Subsec. (c). Pub. L. 94–455, §1901(a)(38), struck out subsec. (c) relating to presumptions in the case of disproportionate purchase price.
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–272 substituted "the Secretary or his delegate may disallow such deduction, credit, or other allowance" for "such deduction, credit or other allowance shall not be allowed".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -1,0 +1,20 @@
+### §312301. Definition
+
+In this chapter, the term "Commission" means the Commission for the Preservation of America's Heritage Abroad established under section 312303 of this title.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3252.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+312301
+
+no source.
+

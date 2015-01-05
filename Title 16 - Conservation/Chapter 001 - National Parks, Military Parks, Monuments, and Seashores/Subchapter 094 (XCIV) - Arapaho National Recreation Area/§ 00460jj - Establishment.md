@@ -28,7 +28,7 @@ The Secretary shall develop an overall management plan for the Arapaho National 
 
 #### Short Title
 
-Pub. L. 95–450, §1, Oct. 11, 1978, 92 Stat. 1095, provided that: "This Act \[enacting this subchapter and enacting notes set out under this section and section 1132 of this title\] may be cited as the 'Indian Peaks Wilderness Area, the Arapaho National Recreation Area and the Oregon Islands Wilderness Area Act'."
+Pub. L. 95–450, §1, Oct. 11, 1978, 92 Stat. 1095, provided that: "This Act \[enacting this subchapter and enacting notes set out under this section and section 1132 of this title\] may be cited as the 'Indian Peaks WildernessArea, the Arapaho National Recreation Area and the Oregon Islands Wilderness Area Act'."
 
 #### Legislative Findings; Purposes
 

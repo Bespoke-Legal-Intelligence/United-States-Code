@@ -32,7 +32,7 @@ Section 5114, referred to in text, was repealed by Pub. L. 99–386, title I, §
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 #### Effective Date of 1978 Amendment
 

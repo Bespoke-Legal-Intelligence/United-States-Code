@@ -30,7 +30,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, theofficer shall order the alien removed from the United States without further hearing or review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearing or review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
 
 #### (ii) Claims for asylum
 
@@ -78,25 +78,25 @@
 
 &emsp;&emsp;&emsp;The Attorney General shall provide information concerning the asylum interview described in this subparagraph to aliens who may be eligible. An alien who is eligible for such interview may consult with a person or persons of the alien's choosing prior to the interview or any review thereof, according to regulations prescribed by the Attorney General. Such consultation shall be at no expense to the Government and shall not unreasonably delay the process.
 
-#### (v) “Credible fear of persecution” defined
+#### (v) "Credible fear of persecution" defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “credible fear of persecution” means that there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim and such other facts as are known to the officer, that the alien could establish eligibility for asylum under section 1158 of this title.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "credible fear of persecution" means that there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim and such other facts as are known to the officer, that the alien could establish eligibility for asylum under section 1158 of this title.
 
 #### (C) Limitation on administrative review
 
-&emsp;&emsp;Except as provided in subparagraph (B)(iii)(III), a removal order entered in accordance with subparagraph (A)(i) or (B)(iii)(I) is not subject to administrative appeal, except that the Attorney General shall provide by regulation for prompt review of such an order under subparagraph (A)(i) against an alien who claims under oath, or as permitted under penalty of perjury under section 1746 of title 28, after having been warned of the penalties for falsely making such claim under such conditions, tohave been lawfully admitted for permanent residence, to have been admitted as a refugee under section 1157 of this title, or to have been granted asylum under section 1158 of this title.
+&emsp;&emsp;Except as provided in subparagraph (B)(iii)(III), a removal order entered in accordance with subparagraph (A)(i) or (B)(iii)(I) is not subject to administrative appeal, except that the Attorney General shall provide by regulation for prompt review of such an order under subparagraph (A)(i) against an alien who claims under oath, or as permitted under penalty of perjury under section 1746 of title 28, after having been warned of the penalties for falsely making such claim under such conditions, to have been lawfully admitted for permanent residence, to have been admitted as a refugee under section 1157 of this title, or to have been granted asylum under section 1158 of this title.
 
 #### (D) Limit on collateral attacks
 
 &emsp;&emsp;In any action brought against an alien under section 1325(a) of this title or section 1326 of this title, the court shall not have jurisdiction to hear any claim attacking the validity of an order of removal entered under subparagraph (A)(i) or (B)(iii).
 
-#### (E) “Asylum officer” defined
+#### (E) "Asylum officer" defined
 
-&emsp;&emsp;As used in this paragraph, the term “asylum officer” means an immigration officer who—
+&emsp;&emsp;As used in this paragraph, the term "asylum officer" means an immigration officer who—
 
 &emsp;&emsp;&emsp;(i) has had professional training in country conditions, asylum law, and interview techniques comparable to that provided to full-time adjudicators of applications under section 1158 of this title, and
 
-&emsp;&emsp;&emsp;(ii) is supervised by an officer who meets the condition described in clause (i) and has had substantial experience adjudicating asylum applications.
+&emsp;&emsp;&emsp;(ii) is supervised by an officer who meets the condition described in clause (i) andhas had substantial experience adjudicating asylum applications.
 
 #### (F) Exception
 
@@ -180,7 +180,7 @@
 
 #### (4) Subpoena authority
 
-&emsp;(A) The Attorney General and any immigration officer shall have power to require by subpoena the attendance and testimony of witnesses before immigration officers and the production of books, papers, and documents relating to the privilege of any person to enter, reenter, reside in, or pass through the United States or concerning any matter which is material and relevant to the enforcement of this chapter and the administration of the Service, and to that end may invoke the aid of any court of the United States.
+&emsp;(A) The Attorney General and any immigration officer shall have power to require by subpoena the attendance and testimony of witnesses before immigration officers and the production of books, papers, and documents relating to the privilege of any person to enter, reenter, reside in, or pass through the United States or concerning any matter whichis material and relevant to the enforcement of this chapter and the administration of the Service, and to that end may invoke the aid of any court of the United States.
 
 &emsp;(B) Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
@@ -188,7 +188,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (d)(3), (4)(A), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (d)(3), (4)(A), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -196,13 +196,13 @@ This chapter, referred to in subsecs. (a)(1) and (d)(3), (4)(A), was in the orig
 
 <b>1996</b>—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
 
-Pub. L. 104–208, §371(b)(4), substituted “an immigration judge” for “a special inquiry officer”, “immigration judge” for “special inquiry officer”, and “immigration judges” for “special inquiry officers”, wherever appearing in subsecs. (a) to (c).
+Pub. L. 104–208, §371(b)(4), substituted "an immigration judge" for "a special inquiry officer", "immigration judge" for "special inquiry officer", and "immigration judges" for "special inquiry officers", wherever appearing in subsecs. (a) to (c).
 
 Subsec. (b). Pub. L. 104–132, §422(a), which directed the general amendment of subsec. (b) by substituting pars. (1) to (3) relating to asylum interviews and hearings, detention for further inquiry, and challenges of favorable decisions, for former subsec. (b) consisting of single par., was repealed by Pub. L. 104–208, §308(d)(5). See Construction of 1996 Amendment note below.
 
-Subsec. (d). Pub. L. 104–132, §423(b), added subsec. (d) which read as follows: “In any action brought for the assessment of penalties for improper entry or re-entry of an alien under section 1325 or section 1326 of this title, no court shall have jurisdiction to hear claims collaterally attacking the validity of orders of exclusion, special exclusion, or deportation entered under this section or sections 1226 and 1252 of this title.”
+Subsec. (d). Pub. L. 104–132, §423(b), added subsec. (d) which read as follows: "In any action brought for the assessment of penalties for improper entry or re-entry of an alien under section 1325 or section 1326 of this title, no court shall have jurisdiction to hear claims collaterally attacking the validity of orders of exclusion, special exclusion, or deportation entered under this section or sections 1226 and 1252 of this title."
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–649 substituted “subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title” for “paragraph (27), (28), or (29) of section 1182(a) of this title”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–649 substituted "subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title" for "paragraph (27), (28), or (29) of section 1182(a) of this title".
 
 #### Effective Date of 2008 Amendment
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Construction of 1996 Amendment
 
-Pub. L. 104–208, div. C, title III, §308(d)(5), Sept. 30, 1996, 110 Stat. 3009–619, provided that: “Effective as of the date of the enactment of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, approved Apr. 24, 1996\], section 422 of such Act \[amending this section and section 1227 of this title, and enacting provisions set out as a note above\] is repealed and the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall be applied as if such section had not been enacted.”
+Pub. L. 104–208, div. C, title III, §308(d)(5), Sept. 30, 1996, 110 Stat. 3009–619, provided that: "Effective as of the date of the enactment of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, approved Apr. 24, 1996\], section 422 of such Act \[amending this section and section 1227 of this title, and enacting provisions set out as a note above\] is repealed and the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall be applied as if such section had not been enacted."
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -234,25 +234,25 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Pub. L. 104–208, div. C, title III, §302(b), Sept. 30, 1996, 110 Stat. 3009–584, provided that:
 
-“(1)
+"(1)
 
 Study.—The Comptroller General shall conduct a study on the implementation of the expedited removal procedures under section 235(b)(1) of the Immigration and Nationality Act \[8 U.S.C. 1225(b)(1)\], as amended by subsection (a). The study shall examine—
 
-&emsp;“(A) the effectiveness of such procedures in deterring illegal entry,
+&emsp;"(A) the effectiveness of such procedures in deterring illegal entry,
 
-&emsp;“(B) the detention and adjudication resources saved as a result of the procedures,
+&emsp;"(B) the detention and adjudication resources saved as a result of the procedures,
 
-&emsp;“(C) the administrative and other costs expended to comply with the provision,
+&emsp;"(C) the administrative and other costs expended to comply with the provision,
 
-&emsp;“(D) the effectiveness of such procedures in processing asylum claims by undocumented aliens who assert a fear of persecution, including the accuracy of credible fear determinations, and
+&emsp;"(D) the effectiveness of such procedures in processing asylum claims by undocumented aliens who assert a fear of persecution, including the accuracy of credible fear determinations, and
 
-&emsp;“(E) the cooperation of other countries and air carriers in accepting and returning aliens removed under such procedures.
+&emsp;"(E) the cooperation of other countries and air carriers in accepting and returning aliens removed under such procedures.
 
-“(2)
+"(2)
 
-Report.—By not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the study conducted under paragraph (1).”
+Report.—By not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the study conducted under paragraph (1)."
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of this chapter, any reference in law to an order of removal is deemed to include a reference toan order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 

@@ -32,7 +32,7 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) ofPub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (a)(1). Pub. L. 109–461, §301(b)(2)(A), substituted "Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title," for "Each eligible person" and "an aggregate period" for "a period" in first sentence and struck out second sentence, which read as follows: "In no event may the aggregate educational assistance afforded to a spouse made eligible under both sections 3501(a)(1)(D)(i) and 3501(a)(1)(D)(ii) of this title exceed 45 months."
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 90–631, §1(c), redesignated subsec. (d) as (b).
 
 Amendment by section 301(b)(2) of Pub. L. 109–461 applicable with respect to a payment of educational assistance for a course of education pursued after Dec. 22, 2006, see section 301(d) of Pub. L. 109–461, set out as a note under section 3501 of this title.
 
-Pub. L. 109–461, title III, §302(b), Dec. 22, 2006, 120 Stat. 3428, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to a payment of educational assistance allowance made after September 11, 2001."
+Pub. L. 109–461, title III, §302(b), Dec. 22, 2006, 120 Stat. 3428, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to a payment of educational assistance allowance made after September 11, 2001."
 
 #### Effective Date of 2001 Amendment
 

@@ -108,7 +108,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 #### (11) Annual report to Congress
 
-&emsp;The Commission shall report annually to Congress on how the Commission has used the data collected pursuant to this subsection to monitor the markets for the protection of investors and the integrity of the markets.
+&emsp;The Commission shall report annually to Congress on how the Commission has used thedata collected pursuant to this subsection to monitor the markets for the protection of investors and the integrity of the markets.
 
 #### (c) Filing depositories
 
@@ -168,7 +168,7 @@ Pub. L. 111–203, §404(1), redesignated subsec. (c) as (d) relating to access 
 
 Amendment by section 929Q(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Amendment by section 404 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
+Amendment by section 404 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investmentadviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
 
 #### Effective Date of 1975 Amendment
 

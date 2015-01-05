@@ -2,23 +2,14 @@
 
 (a) The authorized strengths of the Army, Air Force, and Marine Corps in reserve general officers in an active status, and the authorized strength of the Navy in reserve officers in the grades of rear admiral (lower half) and rear admiral in an active status, are as follows:
 
-&emsp;&emsp;Army
+&nbsp;
 
-207&nbsp;&nbsp;
-
-&emsp;&emsp;Air Force
-
-157&nbsp;&nbsp;
-
-&emsp;&emsp;Navy
-
-48&nbsp;&nbsp;
-
-&emsp;&emsp;Marine Corps
-
-10\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| Army | 207&nbsp;&nbsp; |
+| Air Force | 157&nbsp;&nbsp; |
+| Navy | 48&nbsp;&nbsp; |
+| Marine Corps | 10\. |
 
 (b) The following Army and Air Force reserve officers shall not be counted for purposes of this section:
 

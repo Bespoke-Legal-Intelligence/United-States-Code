@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;In determining whether to make a grant under this section, the Secretary shall consider—
 
-&emsp;&emsp;(A) the numbers of taxpayers who will be served by the clinic, including the number oftaxpayers in the geographical area for whom English is a second language;
+&emsp;&emsp;(A) the numbers of taxpayers who will be served by the clinic, including the number of taxpayers in the geographical area for whom English is a second language;
 
 &emsp;&emsp;(B) the existence of other low-income taxpayer clinics serving the same population;
 

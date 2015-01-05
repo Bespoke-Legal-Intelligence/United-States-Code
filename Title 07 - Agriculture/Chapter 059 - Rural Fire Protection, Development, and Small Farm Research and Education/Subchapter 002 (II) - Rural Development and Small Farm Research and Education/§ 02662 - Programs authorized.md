@@ -202,7 +202,7 @@ Subsec. (j). Pub. L. 102–237, §403(a)(2)(C), (D), redesignated subsec. (h), r
 
 Subsec. (f). Pub. L. 101–624, §2389(c)(1), substituted "Competitive" for "Special" in heading.
 
-Subsec. (f)(1)(A). Pub. L. 101–624, §2389(b)(1), substituted "competitive grants for programs that meet the criteria specified in subparagraph (B) to develop counseling, retraining, and educational" for "special grants for programs to develop educational, retraining, and counseling".
+Subsec. (f)(1)(A). Pub. L. 101–624, §2389(b)(1), substituted "competitive grants for programs that meetthe criteria specified in subparagraph (B) to develop counseling, retraining, and educational" for "special grants for programs to develop educational, retraining, and counseling".
 
 Subsec. (f)(1)(B). Pub. L. 101–624, §2389(b)(3), (4), added subpar. (B), struck out heading, introductory provisions, and cl. (i) of former subpar. (B), and redesignated cls. (ii) to (viii) of former subpar. (B) as cls. (i) to (vii) of subpar. (D). Prior to amendment, introductory provisions and cl. (i) read as follows: "Such programs shall provide the following services:
 

@@ -6,7 +6,7 @@ Part VIII—General Penalty Provisions
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01321 - Prevention of unauthorized landing of aliens](%C2%A7%2001321%20-%20Prevention%20of%20unauthorized%20landing%20of%20aliens.md)
-- [&sect; 01322 - Bringing in aliens subject to denial of admission on a health-related ground; persons liable; clearance papers; exceptions; &#8220;person&#8221;&#8230;](%C2%A7%2001322%20-%20Bringing%20in%20aliens%20subject%20to%20denial%20of%20admission%20on%20a%20health-related%20ground%3B%20persons%20liable%3B%20clearance%20papers%3B%20exceptions%3B%20%E2%80%9Cperson%E2%80%9D%E2%80%A6.md)
+- [&sect; 01322 - Bringing in aliens subject to denial of admission on a health-related ground; persons liable; clearance papers; exceptions; person defined](%C2%A7%2001322%20-%20Bringing%20in%20aliens%20subject%20to%20denial%20of%20admission%20on%20a%20health-related%20ground%3B%20persons%20liable%3B%20clearance%20papers%3B%20exceptions%3B%20person%20defined.md)
 - [&sect; 01323 - Unlawful bringing of aliens into United States](%C2%A7%2001323%20-%20Unlawful%20bringing%20of%20aliens%20into%20United%20States.md)
 - [&sect; 01324 - Bringing in and harboring certain aliens](%C2%A7%2001324%20-%20Bringing%20in%20and%20harboring%20certain%20aliens.md)
 - [&sect; 01324a - Unlawful employment of aliens](%C2%A7%2001324a%20-%20Unlawful%20employment%20of%20aliens.md)

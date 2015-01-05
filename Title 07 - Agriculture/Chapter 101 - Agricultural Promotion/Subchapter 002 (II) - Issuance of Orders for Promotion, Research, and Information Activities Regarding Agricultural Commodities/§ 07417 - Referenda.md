@@ -4,7 +4,7 @@
 
 #### (1) Optional referendum
 
-&emsp;For the purpose of ascertaining whether the persons to be covered by an order favor the order going into effect, the order may provide for the Secretary to conduct an initial referendum among persons to be subject to an assessment under section 7416 of this title who, during a representative period determined by the Secretary, engaged in—
+&emsp;For the purpose of ascertaining whether the persons to be covered by an order favor theorder going into effect, the order may provide for the Secretary to conduct an initial referendum among persons to be subject to an assessment under section 7416 of this title who, during a representative period determined by the Secretary, engaged in—
 
 &emsp;&emsp;(A) the production or handling of the agricultural commodity covered by the order; or
 
@@ -12,7 +12,7 @@
 
 #### (2) Procedure
 
-&emsp;The results of the referendum shall be determined in accordance with subsection (e) of this section. The Secretary may require that the agricultural commodity industry involved post a bond or other collateral to cover the cost of the referendum.
+&emsp;The results of the referendum shall be determined in accordance with subsection (e). The Secretary may require that the agricultural commodity industry involved post a bond or other collateral to cover the cost of the referendum.
 
 #### (b) Required referenda
 
@@ -30,7 +30,7 @@
 
 #### (3) Exception
 
-&emsp;This subsection shall not apply if an initial referendum was conducted under subsection (a) of this section.
+&emsp;This subsection shall not apply if an initial referendum was conducted under subsection (a).
 
 #### (c) Subsequent referenda
 
@@ -40,13 +40,13 @@ The Secretary shall conduct a subsequent referendum—
 
 &emsp;(2) at the request of the board established under the order; or
 
-&emsp;(3) at the request of 10 percent or more of the number of persons eligible to vote under subsection (b)(1) of this section;
+&emsp;(3) at the request of 10 percent or more of the number of persons eligible to vote under subsection (b)(1);
 
 > to determine if the persons favor the continuation, suspension, or termination of the order.
 
 #### (d) Other referenda
 
-The Secretary may conduct a referendum at any time to determine whether the continuation, suspension, or termination of the order or a provision of the order is favored by persons eligible to vote under subsection (b)(1) of this section.
+The Secretary may conduct a referendum at any time to determine whether the continuation, suspension, or termination of the order or a provision of the order is favored by persons eligible to vote under subsection (b)(1).
 
 #### (e) Approval of order
 

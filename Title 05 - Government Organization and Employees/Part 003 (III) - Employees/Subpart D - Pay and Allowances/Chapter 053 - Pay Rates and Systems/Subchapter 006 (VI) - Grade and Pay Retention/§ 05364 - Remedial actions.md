@@ -4,7 +4,7 @@ Under regulations prescribed by the Office of Personnel Management, the Office m
 
 &emsp;(1) to report to the Office information with respect to vacancies (including impending vacancies);
 
-&emsp;(2) to take such steps as may be appropriate to assure employees receiving benefits under section 5362 or 5363 of this title have the opportunity to obtain necessary qualifications for the selection to positions which would minimize the need for the application of such sections;
+&emsp;(2) to take such steps as may be appropriate to assure employees receiving benefits undersection 5362 or 5363 of this title have the opportunity to obtain necessary qualifications for the selection to positions which would minimize the need for the application of such sections;
 
 &emsp;(3) to establish a program under which employees receiving benefits under section 5362 or 5363 of this title are given priority in the consideration for or placement in positions which are equal to their retained grade or pay; and
 

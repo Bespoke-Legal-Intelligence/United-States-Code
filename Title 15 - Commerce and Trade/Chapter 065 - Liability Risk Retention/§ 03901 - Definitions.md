@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) does not include personal risk liability and an employer's liability with respect to its employees other than legal liability under the Federal Employers' Liability Act (45 U.S.C. 51 et seq.);
 
-&emsp;(3) "personal risk liability" means liability for damages because of injury to any person, damage to property, or other loss or damage resulting from any personal, familial, or household responsibilities or activities, rather than from responsibilities or activities referred to in paragraphs (2)(A) and (2)(B);
+&emsp;(3) "personal risk liability" means liability for damages because of injury to any person,damage to property, or other loss or damage resulting from any personal, familial, or household responsibilities or activities, rather than from responsibilities or activities referred to in paragraphs (2)(A) and (2)(B);
 
 &emsp;(4) "risk retention group" means any corporation or other limited liability association—
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(B) purchases such insurance only for its group members and only to cover their similar or related liability exposure, as described in subparagraph (C);
 
-&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or relatedwith respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
+&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or related with respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
 
 &emsp;&emsp;(D) is domiciled in any State;
 

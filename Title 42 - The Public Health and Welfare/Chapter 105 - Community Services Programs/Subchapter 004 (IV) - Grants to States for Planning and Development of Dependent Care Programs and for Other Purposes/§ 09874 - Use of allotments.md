@@ -26,7 +26,7 @@
 
 #### (b) School-age child care services; assurances; estimates
 
-(1) Subject to the provisions of subsections (c) and (d) of this section, amounts paid to a State under section 9873 of this title from its allotment under section 9872 of this title may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly, or by grant or contract, with public agencies or private nonprofit organizations of programs to furnish school-age child care services before and after school. Amounts so paid to a State and used for the operation of such child care services shall be designed to enable children, whose families lack adequate financial resources, to participate in before or after school child care programs.
+(1) Subject to the provisions of subsections (c) and (d) of this section, amounts paid to a State under section 9873 of this title from its allotment under section 9872 of this title may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly, or by grant or contract, withpublic agencies or private nonprofit organizations of programs to furnish school-age child care services before and after school. Amounts so paid to a State and used for the operation of such child care services shall be designed to enable children, whose families lack adequate financial resources, to participate in before or after school child care programs.
 
 (2) The State, with respect to the uses of funds described in paragraph (1) of this subsection shall—
 

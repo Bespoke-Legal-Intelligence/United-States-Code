@@ -52,7 +52,7 @@
 
 (c) Members of the United States Secret Service Uniformed Division shall be furnished with uniforms and other necessary equipment.
 
-(d) In carrying out the functions pursuant to paragraphs (7) and (9) of subsection (a), the Secretary of Homeland Security may utilize, with their consent, on a reimbursable basis, the services, personnel, equipment, and facilities ofState and local governments, and is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. The Secretary of Homeland Security may carry out the functions pursuant to paragraphs (7) and (9) of subsection (a) by contract. The authority of this subsection may be transferred by the President to the Secretary of State. In carrying out any duty under paragraphs (7) and (9) of subsection (a), the Secretary of State is authorized to utilize any authority available to the Secretary under title II of the State Department Basic Authorities Act of 1956.
+(d) In carrying out the functions pursuant to paragraphs (7) and (9) of subsection (a), the Secretary of Homeland Security may utilize, with their consent, on a reimbursable basis, the services, personnel, equipment, and facilities of State and local governments, and is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. The Secretary of Homeland Security may carry out the functions pursuant to paragraphs (7) and (9) of subsection (a) by contract. The authority of this subsection may be transferred by the President to the Secretary of State. In carrying out any duty under paragraphs (7) and (9) of subsection (a), the Secretary of State is authorized to utilize any authority available to the Secretary under title II of the State Department Basic Authorities Act of 1956.
 
 (Added Pub. L. 109–177, title VI, §605(a), Mar. 9, 2006, 120 Stat. 253.)
 
@@ -92,7 +92,7 @@ Placement on revised salary schedule.—
 
 &emsp;&emsp;"(A)
 
-In general.—Each officer and member shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title V, Aug. 1, 1958, 72 Stat. 485\] (as amended by section 902(a)) in accordance with the member's total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer's or member's salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
+In general.—Each officer and member shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title V, Aug. 1, 1958, 72 Stat. 485\] (as amended by section 902(a)) in accordance with themember's total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer's or member's salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
 
 &emsp;&emsp;"(B)
 
@@ -120,7 +120,7 @@ Transfer of Credit for Satisfactory Service.—Each individual whose position is
 
 "(e)
 
-Adjustment To Take Into Account General Schedule Adjustments During Transition.—The rates provided under the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 902(a)) shall be increased by the percentage of any annual adjustment applicable to the General Schedule authorized under section 5303 of title 5, United States Code, which takes effect during the period which begins on the dateof the enactment of this Act \[Dec. 21, 2000\] and ends on the first day of the first pay period beginning 6 months after the date of enactment of this Act.
+Adjustment To Take Into Account General Schedule Adjustments During Transition.—The rates provided under the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 902(a)) shall be increased by the percentage of any annual adjustment applicable to the General Schedule authorized under section 5303 of title 5, United States Code, which takes effect during the period which begins on the date of the enactment of this Act \[Dec. 21, 2000\] and ends on the first day of the first pay period beginning 6 months after the date of enactment of this Act.
 
 "(f)
 
@@ -160,7 +160,7 @@ Effective Date.—The provisions of this section shall become effective on the f
 
 Ex. Ord. No. 12478, May 23, 1984, 49 F.R. 22053, provided:
 
-By authority vested in me as President by the Constitution and statutes of the United States of America, and in accordance with the provisions of the Act of December 31, 1975, Public Law 94–196 (89 Stat. 1109), codified as \[former\] sections 202(7) and 208(a) of Title 3, United States Code, as amended, it is hereby ordered as follows:
+By authority vested in me as President by the Constitution and statutes of the United States of America,and in accordance with the provisions of the Act of December 31, 1975, Public Law 94–196 (89 Stat. 1109), codified as \[former\] sections 202(7) and 208(a) of Title 3, United States Code, as amended, it is hereby ordered as follows:
 
 Section 1. There is transferred to the Secretary of State authority to determine the need for and to approve terms and conditions of the provision of reimbursable extraordinary protective activities for foreign diplomatic missions pursuant to \[former\] section 202(7), and the authority to make reimbursements to State and local governments for services, personnel, equipment, and facilities pursuant to \[former\] section 208(a) of Title 3, United States Code;
 

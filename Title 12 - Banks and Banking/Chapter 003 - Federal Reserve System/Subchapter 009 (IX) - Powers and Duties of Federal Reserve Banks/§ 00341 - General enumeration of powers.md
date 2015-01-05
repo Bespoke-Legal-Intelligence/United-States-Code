@@ -1,6 +1,6 @@
 ### §341. General enumeration of powers
 
-Upon the filing of the organization certificate with the Comptroller of the Currency a Federal reserve bank shall become a body corporate andas such, and in the name designated in such organization certificate, shall have power—
+Upon the filing of the organization certificate with the Comptroller of the Currency a Federal reserve bank shall become a body corporate and as such, and in the name designated in such organization certificate, shall have power—
 
 First. To adopt and use a corporate seal.
 

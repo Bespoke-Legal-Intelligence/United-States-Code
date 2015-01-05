@@ -22,7 +22,7 @@ The study required by subsection (a) of this section shall—
 
 &emsp;(4) identify appropriate changes in Federal policies, administrative procedures, and regulations, to eliminate the problems experienced by private contract health services providers and individual Indians as a result of delayed payments; and
 
-&emsp;(5) compare the Service's payment processing requirements with private insuranceclaims processing requirements to evaluate the systemic differences or similarities employed by the Service and private insurers.
+&emsp;(5) compare the Service's payment processing requirements with private insurance claims processing requirements to evaluate the systemic differences or similarities employed by the Service and private insurers.
 
 #### (c) Report to Congress
 

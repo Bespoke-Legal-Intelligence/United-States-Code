@@ -44,7 +44,7 @@ The Secretary shall encourage community health worker programs receiving funds u
 
 #### (f) Evidence-based interventions
 
-The Secretary shall encourage community health worker programs receiving funding underthis section to implement a process or an outcome-based payment system that rewards community health workers for connecting underserved populations with the most appropriate services at the most appropriate time. Nothing in this section shall be construed to require such a payment.
+The Secretary shall encourage community health worker programs receiving funding under this section to implement a process or an outcome-based payment system that rewards community health workers for connecting underserved populations with the most appropriate services at the most appropriate time. Nothing in this section shall be construed to require such a payment.
 
 #### (g) Quality assurance and cost effectiveness
 
@@ -100,7 +100,11 @@ In this section:
 
 &emsp;&emsp;(B) a significant portion of which is a health professional shortage area as designated under section 254e of this title.
 
-(July 1, 1944, ch. 373, title III, §399V, as added and amended Pub. L. 111–148, title V, §5313(a), title X, §10501(c), Mar. 23, 2010, 124 Stat. 633, 994.)
+(July 1, 1944, ch. 373, title III, §399V, as added and amended Pub. L. 111–148, title V, §5313(a), title X, §10501(c), Mar. 23, 2010, 124 Stat. 633, 994; Pub. L. 113–128, title V, §512(z)(1), July 22, 2014, 128 Stat. 1716.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 113–128, title V, §§506, 512(z)(1), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (e) of this section is amended by striking "one-stop delivery systems under section 2864(c) of title 29" and inserting "one-stop delivery systems under section 3151(e) of title 29". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -108,7 +112,13 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
+<b>2014</b>—Subsec. (e). Pub. L. 113–128 substituted "one-stop delivery systems under section 3151(e) of title 29" for "one-stop delivery systems under section 2864(c) of title 29".
+
 <b>2010</b>—Subsec. (b)(4). Pub. L. 111–148, §10501(c)(1), substituted "identify and refer" for "identify, educate, refer, and enroll".
 
 Subsec. (k)(1). Pub. L. 111–148, §10501(c)(2), struck out ", as defined by the Department of Labor as Standard Occupational Classification \[21–1094\]" before "means" in introductory provisions.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

@@ -4,7 +4,7 @@
 
 (1) A diplomatic intelligence support center may not be established, operated, or maintained without the prior approval of the Director of National Intelligence.
 
-(2) The Director may only approve the establishment, operation, or maintenance of a diplomatic intelligence support center if the Director determines that the establishment, operation, or maintenance of such center is required toprovide necessary intelligence support in furtherance of the national security interests of the United States.
+(2) The Director may only approve the establishment, operation, or maintenance of a diplomatic intelligence support center if the Director determines that the establishment, operation, or maintenance of such center is required to provide necessary intelligence support in furtherance of the national security interests of the United States.
 
 #### (b) Prohibition of use of appropriations
 

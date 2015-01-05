@@ -22,7 +22,7 @@
 
 #### (4) Installment obligations acquired from decedent
 
-&emsp;In the case of an installment obligation reportable by the decedent on the installment method under section 453, if such obligation is acquired by the decedent's estate from the decedent or by any person by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent—
+&emsp;In the case of an installment obligation reportable by the decedent on the installment method under section 453, if such obligation is acquired by the decedent's estate from the decedent or by any person by reason of the deathof the decedent or by bequest, devise, or inheritance from the decedent—
 
 &emsp;&emsp;(A) an amount equal to the excess of the face amount of such obligation over the basis of the obligation in the hands of the decedent (determined under section 453B) shall, for the purpose of paragraph (1), be considered as an item of gross income in respect of the decedent; and
 
@@ -100,7 +100,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;For purposes of computing the deduction under subsection (c)(1)(A), amounts received by a surviving annuitant—
 
-&emsp;&emsp;(A) as an annuity under a joint and survivor annuity contract where the decedent annuitant died after December 31, 1953, and after the annuity starting date (as defined in section 72(c)(4)), and
+&emsp;&emsp;(A) as an annuity under a joint and survivor annuity contract where the decedent annuitant died after the annuity starting date (as defined in section 72(c)(4)), and
 
 &emsp;&emsp;(B) during the surviving annuitant's life expectancy period, shall, to the extent included in gross income under section 72, be considered as amounts included in gross income under subsection (a).
 
@@ -124,9 +124,11 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;<b>For application of this section to income in respect of a deceased partner, see section 753.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 108–311, title IV, §402(a)(4), Oct. 4, 2004, 118 Stat. 1184.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 108–311, title IV, §402(a)(4), Oct. 4, 2004, 118 Stat. 1184; Pub. L. 113–295, div. A, title II, §221(a)(66), Dec. 19, 2014, 128 Stat. 4048.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(1)(A). Pub. L. 113–295 struck out "after December 31, 1953, and" after "annuitant died".
 
 <b>2004</b>—Subsec. (c)(4). Pub. L. 108–311 struck out "of any gain" before "taken into account".
 
@@ -191,6 +193,10 @@ Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) 
 <b>1964</b>—Subsec. (c)(2)(B). Pub. L. 88–272 substituted "421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies" for "421(d)(6)(B), relating to the deduction for estate tax with respect to restricted stock options".
 
 Subsecs. (e), (f). Pub. L. 88–570 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2004 Amendment
 

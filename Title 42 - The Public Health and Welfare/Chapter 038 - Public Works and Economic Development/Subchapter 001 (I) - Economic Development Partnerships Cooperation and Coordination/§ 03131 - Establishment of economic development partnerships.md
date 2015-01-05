@@ -26,7 +26,7 @@ The Secretary shall promulgate regulations to ensure that appropriate State and 
 
 #### (2) Participation
 
-&emsp;Each cooperation agreement shall provide for suitable participation by other governmental and nongovernmental entities that arerepresentative of significant interests in and perspectives on economic development in an area.
+&emsp;Each cooperation agreement shall provide for suitable participation by other governmental and nongovernmental entities that are representative of significant interests in and perspectives on economic development in an area.
 
 (Pub. L. 89–136, title I, §101, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3600; amended Pub. L. 108–373, title I, §103, Oct. 27, 2004, 118 Stat. 1759.)
 

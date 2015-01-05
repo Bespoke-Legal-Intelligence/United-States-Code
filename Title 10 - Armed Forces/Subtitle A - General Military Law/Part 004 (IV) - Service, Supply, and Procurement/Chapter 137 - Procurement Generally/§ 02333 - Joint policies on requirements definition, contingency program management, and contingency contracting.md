@@ -8,7 +8,7 @@ Joint Policy Requirement.—The Secretary of Defense, in consultation with the C
 
 Requirements Definition Matters Covered.—The joint policy for requirements definition required by subsection (a) shall, at a minimum, provide for the following:
 
-&emsp;(1) The assignment of a senior commissioned officer or civilian member of the senior executive service, with appropriate experience and qualifications related to the definition of requirements to be satisfied through acquisition contracts (such as for delivery of products orservices, performance of work, or accomplishment of a project), to act as head of requirements definition and coordination during combat operations, post-conflict operations, and contingency operations, if required, including leading a requirements review board involving all organizations concerned.
+&emsp;(1) The assignment of a senior commissioned officer or civilian member of the senior executive service, with appropriate experience and qualifications related to the definition of requirements to be satisfied through acquisition contracts (such as for delivery of products or services, performance of work, or accomplishment of a project), to act as head of requirements definition and coordination during combat operations, post-conflict operations, and contingency operations, if required, including leading a requirements review board involving all organizations concerned.
 
 &emsp;(2) An organizational approach to requirements definition and coordination during combat operations, post-conflict operations, and contingency operations that is designed to ensure that requirements are defined in a way that effectively implements United States Government and Department of Defense objectives, policies, and decisions regarding the allocation of resources, coordination of interagency efforts in the theater of operations, and alignment of requirements with the proper use of funds.
 
@@ -60,7 +60,7 @@ Contingency Contracting Matters Covered.—(1) The joint policy for contingency 
 
 &emsp;(F) Such steps as may be needed to ensure jointness and cross-service coordination in the area of contingency contracting.
 
-(2) To the extent practicable, the joint policy for contingency contracting required by subsection (a) should be taken into account in the development of interagency plans for stabilization and reconstruction operations, consistentwith the report submitted by the President under section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388) on interagency operating procedures for the planning and conduct of stabilization and reconstruction operations.
+(2) To the extent practicable, the joint policy for contingency contracting required by subsection (a) should be taken into account in the development of interagency plans for stabilization and reconstruction operations, consistent with the report submitted by the President under section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2388) on interagency operating procedures for the planning and conduct of stabilization and reconstruction operations.
 
 (e)
 

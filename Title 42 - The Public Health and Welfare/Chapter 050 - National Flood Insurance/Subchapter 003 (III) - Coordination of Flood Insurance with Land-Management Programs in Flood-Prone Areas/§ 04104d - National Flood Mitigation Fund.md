@@ -34,7 +34,7 @@ Any amounts made available pursuant to subparagraph (A), (B), or (C) of subsecti
 
 #### (f) Investment
 
-If the Administrator determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
+If the Administrator determines that the amounts in the National Flood Mitigation Fundare in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
 
 #### (g) Report
 
@@ -82,7 +82,7 @@ Subsecs. (c) to (e). Pub. L. 108–264, §103(d)(2), (3), added subsec. (c) and 
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

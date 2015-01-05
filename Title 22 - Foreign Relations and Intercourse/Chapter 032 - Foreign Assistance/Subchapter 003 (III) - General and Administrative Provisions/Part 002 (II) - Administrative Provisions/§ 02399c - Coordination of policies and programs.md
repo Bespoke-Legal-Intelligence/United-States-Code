@@ -22,11 +22,11 @@ Programs authorized by this chapter shall be undertaken with the foreign policy 
 
 #### (e) Temporary assignment of employees
 
-The head of any of the departments or agencies referred to in subsection (a) of this section may temporarily assign, upon the request of the Chairman, any employee from such department or agency to the staff of the Committee.
+The head of any of the departments or agencies referred to in subsection (a) may temporarily assign, upon the request of the Chairman, any employee from such department or agency to the staff of the Committee.
 
 #### (f) Studies
 
-To carry out the purposes of subsection (a) of this section, the Committee shall—
+To carry out the purposes of subsection (a), the Committee shall—
 
 &emsp;(1) prepare studies on various development problems;
 
@@ -36,7 +36,7 @@ To carry out the purposes of subsection (a) of this section, the Committee shall
 
 &emsp;(4) arrange for the exchange of information and studies between such agencies and departments.
 
-(Pub. L. 87–195, pt. III, §640B, as added Pub. L. 93–189, §21, Dec. 17, 1973, 87 Stat. 725; amended Pub. L. 95–88, title I, §127, Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–424, title V, §502(d), Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–53, title I, §118, Aug. 14, 1979, 93 Stat. 365; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 87–195, pt. III, §640B, as added Pub. L. 93–189, §21, Dec. 17, 1973, 87 Stat. 725; amendedPub. L. 95–88, title I, §127, Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–424, title V, §502(d), Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–53, title I, §118, Aug. 14, 1979, 93 Stat. 365; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -52,7 +52,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 Subsec. (g). Pub. L. 95–424, §502(d)(2), substituted "section 2394 of this title, the Chairman of the Committee" for "subsection (d) of this section, the President".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–88, §127(a), provided that the Committee advise the President concerning the degree to which bilateral and multilateral developmentassistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §127(a), provided that the Committee advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
 
 Subsec. (d). Pub. L. 95–88, §127(b), substituted "less developed countries" for "low-income countries" in the description of the subject matter of the Presidential reports to Congress, designated existing provisions setting out the subject matter of the reports as cl. (2)(A), and added cls. (1) and (2)(B).
 

@@ -48,7 +48,7 @@
 
 #### (2) Production reports
 
-&emsp;As a condition on the receipt of any benefits under this subchapter or subchapter II, theSecretary shall require producers on a farm that receive payments under section 8715 of this title to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
+&emsp;As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm that receive payments under section 8715 <sup>1</sup> of this title to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
 
 #### (3) Penalties
 
@@ -80,7 +80,9 @@ The Secretary shall provide for the sharing of direct payments, counter-cyclical
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat.1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+
+Section 8715 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
 
 #### Codification
 
@@ -89,4 +91,6 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–398 added subsec. (f).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Any institution in the System that violates or any officer, director, employee, 
 
 #### (b) Factors determining amount
 
-Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty. In determining the amount of the penalty, the Farm Credit Administration shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the System institution or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
+Before determining whether to assess a civil money penalty and determining the amount ofsuch penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty. In determining the amount of the penalty, the Farm Credit Administration shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the System institution or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 
 #### (c) Notice and hearing; final orders
 
@@ -14,7 +14,7 @@ The System institution or person assessed shall be afforded an opportunity for a
 
 #### (d) Judicial review
 
-Any System institution or person against whom an order imposing a civil money penalty has been entered after a Farm Credit Administration hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the System institution is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days after the service of such order, and simultaneously sending a copy ofsuch notice by registered or certified mail to the Farm Credit Administration. The Farm Credit Administration shall promptly certify and file in such Court the record upon which the penalty was imposed, as provided in section 2112 of title 28. Final orders of the Farm Credit Administration issued under subsection (c) of this section shall be reviewable under chapter 7 of title 5.
+Any System institution or person against whom an order imposing a civil money penalty has been entered after a Farm Credit Administration hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the System institution is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days after the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Farm Credit Administration. The Farm Credit Administration shall promptly certify and file in such Court the record upon which the penalty was imposed, as provided in section 2112 of title 28. Final orders of the Farm Credit Administration issued under subsection (c) of this section shall be reviewable under chapter 7 of title 5.
 
 #### (e) Action by Attorney General to recover amount assessed
 

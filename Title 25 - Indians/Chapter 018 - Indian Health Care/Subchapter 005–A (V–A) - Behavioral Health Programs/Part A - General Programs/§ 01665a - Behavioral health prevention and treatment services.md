@@ -6,7 +6,7 @@ The purposes of this section are as follows:
 
 &emsp;(1) To authorize and direct the Secretary, acting through the Service, Indian tribes, and tribal organizations, to develop a comprehensive behavioral health prevention and treatment program which emphasizes collaboration among alcohol and substance abuse, social services, and mental health programs.
 
-&emsp;(2) To provide information, direction, and guidance relating to mental illness and dysfunction and self-destructive behavior, including child abuse and family violence, to those Federal, tribal, State, and local agencies responsible for programs in Indian communities in areas of health care, education, social services, child and family welfare, alcohol and substance abuse, law enforcement, and judicial services.
+&emsp;(2) To provide information, direction, and guidance relating to mental illness and dysfunction and self-destructive behavior, including child abuse and family violence, to thoseFederal, tribal, State, and local agencies responsible for programs in Indian communities in areas of health care, education, social services, child and family welfare, alcohol and substance abuse, law enforcement, and judicial services.
 
 &emsp;(3) To assist Indian tribes to identify services and resources available to address mental illness and dysfunctional and self-destructive behavior.
 

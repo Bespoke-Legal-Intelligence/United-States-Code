@@ -72,7 +72,7 @@ Notification to Federal Communications Commission.—In the event the Secretary 
 
 "(f)
 
-Implementation.—In implementing the provisions of this section, the Secretary of State shall act in accordance with Executive order 12046 \[set out under section 305 of this title\].
+Implementation.—In implementing the provisions of this section, the Secretary of State shall act inaccordance with Executive order 12046 \[set out under section 305 of this title\].
 
 "(g)
 

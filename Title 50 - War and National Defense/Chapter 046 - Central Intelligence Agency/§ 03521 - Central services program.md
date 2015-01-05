@@ -14,7 +14,7 @@ The Director may carry out a program under which elements of the Agency provide 
 
 &emsp;(C) assign to such providers for purposes of the program such inventories, equipment, and other assets (including equipment on order) as the Director determines necessary to permit such providers to provide items or services under the program; and
 
-&emsp;(D) authorize such providers to make known their services to the entities specified in section <sup>1</sup> (a) through Government communication channels.
+&emsp;(D) authorize such providers to make known their services to the entities specified in subsection (a) through Government communication channels.
 
 (2) The designation of elements and the specification of items and services under paragraph (1) shall be subject to the approval of the Director of the Office of Management and Budget.
 
@@ -34,7 +34,7 @@ The Director may carry out a program under which elements of the Agency provide 
 
 &emsp;(D) Amounts received in payment for loss or damage to equipment or property of a central service provider as a result of activities under the program.
 
-&emsp;(E) Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider.<sup>2</sup> as a result of activities under the program.
+&emsp;(E) Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider as a result of activities under the program.
 
 &emsp;(F) Receipts from individuals in reimbursement for utility services and meals provided under the program.
 
@@ -74,13 +74,17 @@ The total value of all orders for items or services to be provided under the pro
 
 (2) The Director of the Central Intelligence Agency and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title VII, §701, July 7, 2014, 128 Stat. 1422.)
 
 #### Codification
 
 Section was formerly classified to section 403u of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(D). Pub. L. 113–126, §701(1), substituted "subsection (a)" for "section (a)".
+
+Subsec. (c)(2)(E). Pub. L. 113–126, §701(2), substituted "provider as" for "provider. as".
 
 <b>2013</b>—Subsec. (b)(1)(D). Pub. L. 112–277, §401(1)(A), added subpar. (D).
 
@@ -130,9 +134,13 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 113–6, div. C, title VIII, §8032, Mar. 26, 2013, 127 Stat. 304, provided in part: "That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended".
+Pub. L. 113–235, div. C, title VIII, §8033, Dec. 16, 2014, 128 Stat. 2260, provided in part: "That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. C, title VIII, §8032, Jan. 17, 2014, 128 Stat. 111.
+
+Pub. L. 113–6, div. C, title VIII, §8032, Mar. 26, 2013, 127 Stat. 304.
 
 Pub. L. 112–74, div. A, title VIII, §8032, Dec. 23, 2011, 125 Stat. 812.
 
@@ -161,8 +169,4 @@ Pub. L. 106–259, title VIII, §8045, Aug. 9, 2000, 114 Stat. 684.
 Pub. L. 106–79, title VIII, §8048, Oct. 25, 1999, 113 Stat. 1241.
 
 Pub. L. 105–262, title VIII, §8048, Oct. 17, 1998, 112 Stat. 2307.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should not appear.</i>
 

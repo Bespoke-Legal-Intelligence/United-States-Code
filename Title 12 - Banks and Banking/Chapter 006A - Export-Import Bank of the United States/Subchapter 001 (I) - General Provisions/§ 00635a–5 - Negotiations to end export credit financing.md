@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury (in this section referred to as the "Secretary") shall initiate and pursue negotiations—
 
-&emsp;(1) with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (OECD) and non-OECD members, to substantially reduce, with the ultimate goal of eliminating, subsidized export financing programs and other forms of export subsidies; and
+&emsp;(1) with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (OECD) and non-OECD members, to substantially reduce, with the ultimate goal of eliminating,subsidized export financing programs and other forms of export subsidies; and
 
 &emsp;(2) with all countries that finance air carrier aircraft with funds from a state-sponsored entity, to substantially reduce, with the ultimate goal of eliminating, aircraft export credit financing for all aircraft covered by the 2007 Sector Understanding on Export Credits for Civil Aircraft (in this section referred to as the "ASU"), including any modification thereof, and all of the following types of aircraft:
 

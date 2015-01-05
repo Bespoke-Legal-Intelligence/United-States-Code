@@ -4,7 +4,7 @@
 
 In any emergency, the President may—
 
-&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical and advisory services) in support of State and local emergency assistance efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations;
+&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authoritiesand the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical and advisory services) in support of State and local emergency assistance efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations;
 
 &emsp;(2) coordinate all disaster relief assistance (including voluntary assistance) provided by Federal agencies, private organizations, and State and local governments;
 

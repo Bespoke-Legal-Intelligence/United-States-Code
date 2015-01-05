@@ -212,7 +212,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### (5) Authority for expeditious implementation
 
-&emsp;The requirements of chapter 5 of title 5 (commonly referred to as the "Administrative Procedure Act") or any other law relating to rulemaking or publication in the Federal Register shall not apply to the issuance of guidance or instructions by the Secretary with respect to the implementation of this subsectionto the extent the Secretary determines that compliance with any such requirement would impede the expeditious implementation of this subsection.
+&emsp;The requirements of chapter 5 of title 5 (commonly referred to as the "Administrative Procedure Act") or any other law relating to rulemaking or publication in the Federal Register shall not apply to the issuance of guidance or instructions by the Secretary with respect to the implementation of this subsection to the extent the Secretary determines that compliance with any such requirement would impede the expeditious implementation of this subsection.
 
 #### (d) Data exchange standardization for improved interoperability
 

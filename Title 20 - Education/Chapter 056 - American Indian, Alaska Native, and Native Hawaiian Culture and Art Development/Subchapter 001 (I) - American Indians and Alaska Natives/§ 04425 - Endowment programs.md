@@ -24,7 +24,7 @@
 
 #### (b) Capital improvement endowment
 
-(1) In addition to the trust fund established under subsection (a) of this section, funds may be deposited into a trust fund maintained by the Institute at a federally insured banking or savings institution from the amount reserved for this subsection pursuant to section 4451(a) of this title for the purpose of establishing a separate special endowment for capital improvement (hereafter in this subsection referred to as the "capital endowment fund") to pay expenses associated with site selection and preparation, site planning and architectural design and planning, new construction, materials and equipment procurement, renovation, alteration, repair, and other building and expansion costs of the Institute.
+(1) In addition to the trust fund established under subsection (a) of this section, funds maybe deposited into a trust fund maintained by the Institute at a federally insured banking or savings institution from the amount reserved for this subsection pursuant to section 4451(a) of this title for the purpose of establishing a separate special endowment for capital improvement (hereafter in this subsection referred to as the "capital endowment fund") to pay expenses associated with site selection and preparation, site planning and architectural design and planning, new construction, materials and equipment procurement, renovation, alteration, repair, and other building and expansion costs of the Institute.
 
 (2) The President of the Institute shall provide for the deposit into the capital endowment fund of a capital contribution by the Institute in an amount equal to the amount of each Federal contribution and any earnings on amounts in the capital endowment fund.
 
@@ -66,7 +66,7 @@ Subsec. (c)(3), (4). Pub. L. 102–325, §1331(j)(3), added par. (3) and redesig
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–297, §5406(b)(1), substituted "From amounts appropriated under section 4451(a) of this title, not more than $500,000" for "From the amount appropriated pursuant to section 4441(a) of this title, the Secretary shall make available to the Institute not more than $500,000 which".
 
-Subsec. (d). Pub. L. 100–297, §5406(b)(2), in subsec. heading substituted "Payment of Federal contribution" for "Allocation of funds", and in text substituted "Amounts appropriated under section 4451(a) of this title for use under this section shall be paid by the Secretary of the Treasury to the Institute as" for "Fromthe amount appropriated pursuant to section 4441(a) of this title, the Secretary shall allocate to the Institute an amount for".
+Subsec. (d). Pub. L. 100–297, §5406(b)(2), in subsec. heading substituted "Payment of Federal contribution" for "Allocation of funds", and in text substituted "Amounts appropriated under section 4451(a) of this title for use under this section shall be paid by the Secretary of the Treasury to the Institute as" for "From the amount appropriated pursuant to section 4441(a) of this title, the Secretary shall allocate to the Institute an amount for".
 
 #### Effective Date of 1992 Amendment
 

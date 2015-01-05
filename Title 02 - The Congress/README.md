@@ -19,10 +19,10 @@
 | [<b>9D.</b>](Chapter%20009D%20-%20Office%20of%20Senate%20Legal%20Counsel/README.md) | <b>Office of Senate Legal Counsel</b> | <b>288</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Classification%20of%20Employees%20of%20House%20of%20Representatives/README.md) | <b>Classification of Employees of House of Representatives</b> | <b>291</b> |
 | [<b>10A.</b>](Chapter%20010A%20-%20Payroll%20Administration%20in%20House%20of%20Representatives/README.md) | <b>Payroll Administration in House of Representatives \[Transferred, Omitted, or Repealed\]</b> | <b>331</b> |
-| [<b>11.</b>](Chapter%20011%20-%20Citizens%E2%80%99%20Commission%20on%20Public%20Service%20and%20Compensation/README.md) | <b>Citizens’ Commission on Public Service and Compensation</b> | <b>351</b> |
+| [<b>11.</b>](Chapter%20011%20-%20Citizens%27%20Commission%20on%20Public%20Service%20and%20Compensation/README.md) | <b>Citizens' Commission on Public Service and Compensation</b> | <b>351</b> |
 | [<b>12.</b>](Chapter%20012%20-%20Contested%20Elections/README.md) | <b>Contested Elections</b> | <b>381</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Joint%20Committee%20on%20Congressional%20Operations/README.md) | <b>Joint Committee on Congressional Operations \[Repealed\]</b> | <b>411</b> |
-| [<b>14.</b>](Chapter%20014%20-%20Federal%20Election%20Campaigns/README.md) | <b>Federal Election Campaigns</b> | <b>431</b> |
+| [<b>14.</b>](Chapter%20014%20-%20Federal%20Election%20Campaigns/README.md) | <b>Federal Election Campaigns \[Transferred or Repealed\]</b> | <b>431</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Office%20of%20Technology%20Assessment/README.md) | <b>Office of Technology Assessment</b> | <b>471</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Congressional%20Mailing%20Standards/README.md) | <b>Congressional Mailing Standards</b> | <b>501</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Congressional%20Budget%20Office/README.md) | <b>Congressional Budget Office</b> | <b>601</b> |
@@ -2695,7 +2695,7 @@ omitted
 - [Chapter 009D - Office of Senate Legal Counsel](Chapter%20009D%20-%20Office%20of%20Senate%20Legal%20Counsel/README.md)
 - [Chapter 010 - Classification of Employees of House of Representatives](Chapter%20010%20-%20Classification%20of%20Employees%20of%20House%20of%20Representatives/README.md)
 - [Chapter 010A - Payroll Administration in House of Representatives](Chapter%20010A%20-%20Payroll%20Administration%20in%20House%20of%20Representatives/README.md)
-- [Chapter 011 - Citizens&#8217; Commission on Public Service and Compensation](Chapter%20011%20-%20Citizens%E2%80%99%20Commission%20on%20Public%20Service%20and%20Compensation/README.md)
+- [Chapter 011 - Citizens' Commission on Public Service and Compensation](Chapter%20011%20-%20Citizens%27%20Commission%20on%20Public%20Service%20and%20Compensation/README.md)
 - [Chapter 012 - Contested Elections](Chapter%20012%20-%20Contested%20Elections/README.md)
 - [Chapter 013 - Joint Committee on Congressional Operations](Chapter%20013%20-%20Joint%20Committee%20on%20Congressional%20Operations/README.md)
 - [Chapter 014 - Federal Election Campaigns](Chapter%20014%20-%20Federal%20Election%20Campaigns/README.md)

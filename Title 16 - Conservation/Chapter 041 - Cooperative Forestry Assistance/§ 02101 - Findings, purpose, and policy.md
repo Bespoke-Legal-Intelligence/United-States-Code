@@ -26,7 +26,7 @@ Congress finds that—
 
 &emsp;(11) forest landowners are being faced with increased pressure to convert their forest land to development and other purposes;
 
-&emsp;(12) increased population pressures and user demands are being placed on private, as well as public, landholders to provide a wide variety of products and services, including fish and wildlife habitat, aesthetic quality, and recreational opportunities;
+&emsp;(12) increased population pressures and user demands are being placed on private, as wellas public, landholders to provide a wide variety of products and services, including fish and wildlife habitat, aesthetic quality, and recreational opportunities;
 
 &emsp;(13) stewardship of privately held forest resources requires a long-term commitment that can be fostered through local, State, and Federal governmental actions;
 
@@ -60,7 +60,7 @@ It is the purpose of this chapter to authorize the Secretary of Agriculture (her
 
 &emsp;(9) providing opportunities to private landowners to protect ecologically valuable and threatened non-Federal forest lands; and
 
-&emsp;(10) strengthening educational, technical, and financial assistance programs that provideassistance to owners of non-Federal forest lands in the United States, and forest lands in foreign countries,.<sup>3</sup>
+&emsp;(10) strengthening educational, technical, and financial assistance programs that provide assistance to owners of non-Federal forest lands in the United States, and forest lands in foreign countries,.<sup>3</sup>
 
 #### (c) Priorities
 
@@ -90,7 +90,7 @@ This chapter shall be construed to complement the policies and direction under t
 
 This chapter, referred to in subsecs. (b) to (d) and (f), was in the original "this Act", meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub.L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 #### Codification
 
@@ -292,7 +292,7 @@ Authorization of Appropriations.—There is authorized to be appropriated $25,00
 
 #### "SEC. 1265. RURAL TREE PLANTING AND FOREST MANAGEMENT PROGRAM.
 
-"The Secretary of Agriculture is authorized to establish a rural tree planting and forest management program as a special component of the forest stewardship program and the stewardship incentive program established under sections 5 and 6 of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2102) \[16 U.S.C. 2103a, 2103b\] (as amended by subtitle A). Such program shall terminate on December 31, 2001.
+"The Secretary of Agriculture is authorized to establish a rural tree planting and forest management program as a special component of the forest stewardship program and the stewardship incentive program established under sections 5 and 6 of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2102) \[16 U.S.C. 2103a, former 16 U.S.C. 2103b\] (as amended by subtitle A). Such program shall terminate on December 31, 2001.
 
 #### "SEC. 1266. COMMUNITY TREE PLANTING AND IMPROVEMENT PROGRAM.
 

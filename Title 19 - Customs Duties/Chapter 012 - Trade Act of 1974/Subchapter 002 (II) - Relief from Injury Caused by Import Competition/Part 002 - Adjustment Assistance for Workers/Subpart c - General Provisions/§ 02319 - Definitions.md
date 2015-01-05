@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) an appropriate subdivision thereof.
 
-&emsp;(4) The term "average weekly wage" means one-thirteenth of the total wages paid to an individual in the high quarter. For purposes of this computation, the high quarter shall be that quarter in which the individual's total wages were highest among the first 4 of the last 5 completed calendar quarters immediately before the quarter in which occurs the week with respect to which the computation is made. Such week shall be the week in which total separation occurred, or, in cases where partial separation is claimed, an appropriate week, as defined in regulations prescribed by the Secretary.
+&emsp;(4) The term "average weekly wage" means one-thirteenth of the total wages paid to an individual in the high quarter. For purposes of this computation, the high quarter shall be that quarter in which the individual's total wages were highest among the first 4 of the last 5 completed calendar quarters immediately before the quarter in which occurs the week with respect to which the computation is made. Such week shall be the week in which total separation occurred, or, in cases where partial separation is claimed, an appropriateweek, as defined in regulations prescribed by the Secretary.
 
 &emsp;(5) The term "average weekly hours" means the average hours worked by the individual (excluding overtime) in the employment from which he has been or claims to have been separated in the 52 weeks (excluding weeks during which the individual was sick or on vacation) preceding the week specified in the last sentence of paragraph (4).
 
@@ -30,7 +30,7 @@ For purposes of this part—
 
 &emsp;(10) The term "total separation" means the layoff or severance of an individual from employment with a firm in which adversely affected employment exists.
 
-&emsp;(11) The term "unemployment insurance" means the unemployment compensation payable to an individual under any State law or Federal unemployment compensation law, including chapter 85 of title 5 and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\]. The terms "regular compensation", "additional compensation", and "extended compensation" have the same respective meanings that are given them in section 205(2), (3), and\(4) of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+&emsp;(11) The term "unemployment insurance" means the unemployment compensation payable to an individual under any State law or Federal unemployment compensation law, including chapter 85 of title 5 and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\]. The terms "regular compensation", "additional compensation", and "extended compensation" have the same respective meanings that are given them in section 205(2), (3), and (4) of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
 &emsp;(12) The term "week" means a week as defined in the applicable State law.
 
@@ -128,5 +128,5 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
 

@@ -16,7 +16,7 @@ When conversion to contractor performance is allowed.—A function of an executi
 
 &emsp;&emsp;(D) determines whether the submitted offers meet the needs of the executive agency with respect to factors other than cost, including quality, reliability, and timeliness;
 
-&emsp;&emsp;(E) examines the cost of performance of the function by agency civilian employees and the cost of performance of the function by one or more contractors to demonstrate whether converting to performance by a contractor will result in savings to the Federal Government over the life of the contract, including—
+&emsp;&emsp;(E) examines the cost of performance of the function by agency civilian employees and the cost of performance of the function by one or more contractors to demonstrate whether converting to performance by a contractor will result in savings to the FederalGovernment over the life of the contract, including—
 
 &emsp;&emsp;&emsp;(i) the estimated cost to the Federal Government (based on offers received) for performance of the function by a contractor;
 
@@ -70,7 +70,7 @@ Employees not represented by a labor organization.—In the case of employees ot
 
 &emsp;(3)
 
-Regulations.—The head of each executive agency shall prescribe regulations to carry out this subsection. The regulations shall include provisions for the selection ordesignation of appropriate representatives of employees referred to in paragraph (2)(B) for purposes of consultation required by paragraph (1).
+Regulations.—The head of each executive agency shall prescribe regulations to carry out this subsection. The regulations shall include provisions for the selection or designation of appropriate representatives of employees referred to in paragraph (2)(B) for purposes of consultation required by paragraph (1).
 
 (c)
 

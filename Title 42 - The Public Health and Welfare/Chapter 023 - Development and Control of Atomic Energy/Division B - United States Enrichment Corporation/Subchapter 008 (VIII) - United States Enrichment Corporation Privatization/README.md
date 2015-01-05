@@ -17,6 +17,7 @@
 - [&sect; 02297h&#8211;9 - Ownership limitations](%C2%A7%2002297h%E2%80%939%20-%20Ownership%20limitations.md)
 - [&sect; 02297h&#8211;10 - Uranium transfers and sales](%C2%A7%2002297h%E2%80%9310%20-%20Uranium%20transfers%20and%20sales.md)
 - [&sect; 02297h&#8211;10a - Incentives for additional downblending of highly enriched uranium by the Russian Federation](%C2%A7%2002297h%E2%80%9310a%20-%20Incentives%20for%20additional%20downblending%20of%20highly%20enriched%20uranium%20by%20the%20Russian%20Federation.md)
+- [&sect; 02297h&#8211;10b - Secretarial determinations; congressional notification](%C2%A7%2002297h%E2%80%9310b%20-%20Secretarial%20determinations%3B%20congressional%20notification.md)
 - [&sect; 02297h&#8211;11 - Low-level waste](%C2%A7%2002297h%E2%80%9311%20-%20Low-level%20waste.md)
 - [&sect; 02297h&#8211;12 - AVLIS](%C2%A7%2002297h%E2%80%9312%20-%20AVLIS.md)
 - [&sect; 02297h&#8211;13 - Application of certain laws](%C2%A7%2002297h%E2%80%9313%20-%20Application%20of%20certain%20laws.md)

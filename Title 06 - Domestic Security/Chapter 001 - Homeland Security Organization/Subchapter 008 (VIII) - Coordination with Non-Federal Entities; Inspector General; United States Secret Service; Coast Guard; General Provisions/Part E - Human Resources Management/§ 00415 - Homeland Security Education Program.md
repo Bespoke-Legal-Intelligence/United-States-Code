@@ -12,7 +12,7 @@ To maximize efficiency and effectiveness in carrying out the Program, the Admini
 
 #### (1) Sources
 
-&emsp;The student body of the Program shall include officials from Federal, State, local, and tribal governments, and from other sources designated by the Administrator.
+&emsp;The student body of the Program shall include officials from Federal, State, local, andtribal governments, and from other sources designated by the Administrator.
 
 #### (2) Enrollment priorities and selection criteria
 
@@ -54,7 +54,7 @@ To maximize efficiency and effectiveness in carrying out the Program, the Admini
 
 #### Change of Name
 
-The reference to the “Administrator” in text probably means the Administrator of the Federal Emergency Management Agency. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
+The reference to the "Administrator" in text probably means the Administrator of the Federal Emergency Management Agency. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “law”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "law".</i>
 

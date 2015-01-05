@@ -44,7 +44,7 @@ The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–31
 
 The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Act is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Age Discrimination Act, referred to in subsec. (d), probably means the Age Discrimination Act of 1975, which is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, and which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act, referred to in subsec. (d), probably means the Age Discrimination Act of 1975, which is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat.728, as amended, and which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Pub. L. 100–297, title III, §3401, Apr. 28, 1988, 102 Stat. 344, provided tha
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–561, title XII, §1211, Nov. 1, 1978, 92 Stat. 2338, provided that: "This part \[enacting sections 1221–3and 1231g of this title and amending section 1221e–1 of this title\] may be cited as the 'Control of Paperwork Amendments of 1978'."
+Pub. L. 95–561, title XII, §1211, Nov. 1, 1978, 92 Stat. 2338, provided that: "This part \[enacting sections 1221–3 and 1231g of this title and amending section 1221e–1 of this title\] may be cited as the 'Control of Paperwork Amendments of 1978'."
 
 #### Short Title of 1974 Amendment
 

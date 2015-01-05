@@ -28,7 +28,7 @@
 
 #### (c) Access to records
 
-Notwithstanding any other provision of law, each patient shall have reasonable access to the medical or health records of such patient which are held by, or on behalf of, the Service.
+Notwithstanding any other provision of law, each patient shall have reasonable access to themedical or health records of such patient which are held by, or on behalf of, the Service.
 
 (Pub. L. 94–437, title VI, §602, as added Pub. L. 100–713, title VI, §601(a), Nov. 23, 1988, 102 Stat. 4825; amended Pub. L. 102–573, title IX, §901(3), Oct. 29, 1992, 106 Stat. 4591.)
 

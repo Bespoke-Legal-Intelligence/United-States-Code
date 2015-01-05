@@ -24,7 +24,7 @@ If the election provided in subsection (a) is effective for a taxable year—
 
 &emsp;&emsp;(A) include in gross income and treat as paid by him his proportionate share of such taxes, and
 
-&emsp;&emsp;(B) treat as gross income from sources within the respective foreign countries andpossessions of the United States, for purposes of applying subpart A of part III of subchapter N, the sum of his proportionate share of such taxes and the portion of any dividend paid by such investment company which represents income derived from sources within foreign countries or possessions of the United States.
+&emsp;&emsp;(B) treat as gross income from sources within the respective foreign countries and possessions of the United States, for purposes of applying subpart A of part III of subchapter N, the sum of his proportionate share of such taxes and the portion of any dividend paid by such investment company which represents income derived from sources within foreign countries or possessions of the United States.
 
 #### (c) Statements to shareholders
 

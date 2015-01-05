@@ -46,7 +46,7 @@ On the date that is 6 years after May 21, 2008, there shall be established a com
 
 #### (3) Information from Federal agencies
 
-&emsp;The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section.Upon request of the Commission, the head of such department or agency shall furnish such information to the Commission.
+&emsp;The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Commission, the head of such department or agency shall furnish such information to the Commission.
 
 #### (4) Hearings
 

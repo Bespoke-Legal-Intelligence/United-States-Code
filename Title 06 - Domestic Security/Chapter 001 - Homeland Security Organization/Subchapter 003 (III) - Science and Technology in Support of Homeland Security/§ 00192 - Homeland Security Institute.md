@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a federally funded research and development center to be known as the “Homeland Security Institute” (in this section referred to as the “Institute”).
+The Secretary shall establish a federally funded research and development center to be known as the "Homeland Security Institute" (in this section referred to as the "Institute").
 
 #### (b) Administration
 
@@ -30,7 +30,7 @@ The duties of the Institute shall be determined by the Secretary, and may includ
 
 #### (d) Consultation on Institute activities
 
-In carrying out the duties described in subsection (c) of this section, the Institute shall consult widely with representatives from private industry, institutions of higher education, nonprofit institutions, other Government agencies, and federally funded research and development centers.
+In carrying out the duties described in subsection (c), the Institute shall consult widely with representatives from private industry, institutions of higher education, nonprofit institutions, other Government agencies, and federally funded research and development centers.
 
 #### (e) Use of centers
 
@@ -48,5 +48,5 @@ The Homeland Security Institute shall terminate 5 years after its establishment.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (g). Pub. L. 108–334 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The Homeland Security Institute shall terminate 3 years after the effective date of this chapter.”
+<b>2004</b>—Subsec. (g). Pub. L. 108–334 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: "The Homeland Security Institute shall terminate 3 years after the effective date of this chapter."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Ways To Remedy.—(1) Subject to subsections (f) and (g) of this section, when notification of a defect or noncompliance is required under section 30118(b) or (c) of this title, the manufacturer of the defective or noncomplying motor vehicle or replacement equipment shall remedy the defect or noncompliance without charge when the vehicle or equipment is presented for remedy. Subject to subsections (b) and (c) of this section, the manufacturer shallremedy the defect or noncompliance in any of the following ways the manufacturer chooses:
+Ways To Remedy.—(1) Subject to subsections (f) and (g) of this section, when notification of a defect or noncompliance is required under section 30118(b) or (c) of this title, the manufacturer of the defective or noncomplying motor vehicle or replacement equipment shall remedy the defect or noncompliance without charge when the vehicle or equipment is presented for remedy. Subject to subsections (b) and (c) of this section, the manufacturer shall remedy the defect or noncompliance in any of the following ways the manufacturer chooses:
 
 &emsp;(A) if a vehicle—
 
@@ -34,7 +34,7 @@ Adequacy of Repairs.—(1) If a manufacturer decides to repair a defective or no
 
 &emsp;(B) for a vehicle, refund the purchase price, less a reasonable allowance for depreciation.
 
-(2) Failure to repair a motor vehicle or replacement equipment adequately not later than 60 days after its presentation is prima facie evidence of failure to repair within a reasonable time. However, the Secretary may extend, by order, the 60-day period if good cause for an extension is shown and the reason is published in the Federal Register before the period ends. Presentation of a vehicle or equipment for repair before the date specified by a manufacturer in a notice under section 30119(a)(5) or 30121(c)(2) of this title is not a presentation under this subsection.
+(2) Failure to repair a motor vehicle or replacement equipment adequately not later than 60 days after its presentation is prima facie evidence of failure to repair within a reasonable time. However, the Secretary may extend, by order, the 60-day period if good cause for an extension is shown and the reason is published in the Federal Register before the period ends. Presentation of a vehicle or equipment for repair before the date specified by a manufacturer in a notice under section 30119(a)(5) or 30121(c)(2)of this title is not a presentation under this subsection.
 
 (3) If the Secretary determines that a manufacturer's remedy program is not likely to be capable of completion within a reasonable time, the Secretary may require the manufacturer to accelerate the remedy program if the Secretary finds—
 
@@ -60,7 +60,7 @@ Fair Reimbursement to Dealers.—A manufacturer shall pay fair reimbursement to 
 
 Nonapplication.—(1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 10 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under section 30118(c) of this title or an order is issued under section 30118(b) of this title, whichever is earlier.
 
-(2) This section does not apply during any period in which enforcement of an order under section 30118(b) of this title is restrained or theorder is set aside in a civil action to which section 30121(d) of this title applies.
+(2) This section does not apply during any period in which enforcement of an order under section 30118(b) of this title is restrained or the order is set aside in a civil action to which section 30121(d) of this title applies.
 
 (h)
 
@@ -188,7 +188,7 @@ In subsection (b)(1), before clause (A), the words "shall remedy a defective or 
 
 Subsection (b)(2) is substituted for 15:1414(a)(5)(B) to eliminate unnecessary words.
 
-In subsection (c)(1), the words before clause (A) are substituted for "Whenever a manufacturer has elected under subsection (a) of this section to cause the repair of a defect in a motor vehicle or item of replacement equipment or of a failure of such vehicle or item of replacement equipment to comply with a motor vehicle safety standard, and he has failed to cause such defector failure to comply to be adequately repaired within a reasonable time, then (A) he shall" to eliminate unnecessary words. In clause (A), the word "replace" is substituted for "cause . . . to be replaced" for consistency. In clause (B), the word "refund" is substituted for "shall cause . . . to be refunded" for consistency. The words "in full" and "and if the manufacturer so elects)" are omitted as surplus.
+In subsection (c)(1), the words before clause (A) are substituted for "Whenever a manufacturer has elected under subsection (a) of this section to cause the repair of a defect in a motor vehicle or item of replacement equipment or of a failure of such vehicle or item of replacement equipment to comply with a motor vehicle safety standard, and he has failed to cause such defect or failure to comply to be adequately repaired within a reasonable time, then (A) he shall" to eliminate unnecessary words. In clause (A), the word "replace" is substituted for "cause . . . to be replaced" for consistency. In clause (B), the word "refund" is substituted for "shall cause . . . to be refunded" for consistency. The words "in full" and "and if the manufacturer so elects)" are omitted as surplus.
 
 In subsection (c)(2), the word "presentation" is substituted for "tender" for clarity. The words "for repair" are omitted as surplus. The last sentence is substituted for 15:1414(b)(2) (1st sentence) because of the restatement.
 

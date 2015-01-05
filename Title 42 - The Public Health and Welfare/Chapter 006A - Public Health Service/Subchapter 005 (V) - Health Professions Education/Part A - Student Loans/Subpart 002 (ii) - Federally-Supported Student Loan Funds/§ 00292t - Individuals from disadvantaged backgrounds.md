@@ -38,7 +38,7 @@ The Secretary may not make a Federal capital contribution for purposes of subsec
 
 #### (d) Availability of other amounts
 
-With respect to Federal capital contributions to student loan funds under agreements under section 292q(b) of this title, any such contributions made before October 1, 1990, together with the school contributions appropriate under paragraph (2)(B) of such section to the amount of the Federal capital contributions, may be utilizedfor the purpose of making loans to individuals from disadvantaged backgrounds, subject to section 292s(a)(2)(B) of this title.
+With respect to Federal capital contributions to student loan funds under agreements under section 292q(b) of this title, any such contributions made before October 1, 1990, together with the school contributions appropriate under paragraph (2)(B) of such section to the amount of the Federal capital contributions, may be utilized for the purpose of making loans to individuals from disadvantaged backgrounds, subject to section 292s(a)(2)(B) of this title.
 
 #### (e) "Disadvantaged" defined
 

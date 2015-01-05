@@ -2,9 +2,9 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) “employee” means an employee as defined by section 8101 of this title; and
+&emsp;(1) "employee" means an employee as defined by section 8101 of this title; and
 
-&emsp;(2) “agency” means an agency in any branch of the Government of the United States (not including the United States Postal Service), including an instrumentality wholly owned by the United States, and the government of the District of Columbia.
+&emsp;(2) "agency" means an agency in any branch of the Government of the United States (not including the United States Postal Service), including an instrumentality wholly owned by the United States, and the government of the District of Columbia.
 
 (b) The Secretary of Labor shall carry out a safety program under section 941(b)(1) of title 33 covering the employment of each employee of an agency.
 
@@ -48,17 +48,17 @@ Oct. 14, 1949, ch. 691, §209, 63 Stat. 865.
 
 Subsection (a) is added on authority of former sections 790(b) and 794 (1st sentence), which are carried into section 8101.
 
-The words “Secretary of Labor” and “Secretary” are substituted for “Administrator” on authority of section 1 of 1950 Reorg. Plan No. 19, eff. May 24, 1950, 64 Stat. 1271.
+The words "Secretary of Labor" and "Secretary" are substituted for "Administrator" on authority of section 1 of 1950 Reorg. Plan No. 19, eff. May 24, 1950, 64 Stat. 1271.
 
-Subsection (b) is restated for clarity. The words “under section 941(b)(1) of title 33” are substituted for “The provisions of section 941 of title 33 shall, insofar as not inapplicable, apply” on authority of section 941(g)(2) of title 33. The reference to “a safety program” is based in part on the words “in furtherance of the safety program carried out by the Secretary pursuant to this section” in former section 784(c).
+Subsection (b) is restated for clarity. The words "under section 941(b)(1) of title 33" are substituted for "The provisions of section 941 of title 33 shall, insofar as not inapplicable, apply" on authority of section 941(g)(2) of title 33. The reference to "a safety program" is based in part on the words "in furtherance of the safety program carried out by the Secretary pursuant to this section" in former section 784(c).
 
-In subsection (d), the word “foster” is omitted as included in “develop and support”. The words “and reduce compensable injuries” are omitted as unnecessary.
+In subsection (d), the word "foster" is omitted as included in "develop and support". The words "and reduce compensable injuries" are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “Government of the United States”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–241 inserted "(not including the United States Postal Service)" after "Government of the United States".
 
 <b>1970</b>—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
 
@@ -86,7 +86,7 @@ Scope of this Order
 
 1–101. This order applies to all agencies of the Executive Branch except military personnel and uniquely military equipment, systems, and operations.
 
-1–102. For the purposes of this order, the term “agency” means an Executive department, as defined in 5 U.S.C. 101, or any employing unit or authority of the Federal government, other than those of the judicial and legislative branches. Since section 19 \[29 U.S.C. 668\] of the Occupational Safety and Health Act (“the Act”) \[29 U.S.C. 651 et seq.\] covers all Federal employees, however, the Secretary of Labor (“the Secretary”) shall cooperate and consult with the heads of agencies in the legislative and judicial branches of the government to help them adopt safety and health programs.
+1–102. For the purposes of this order, the term "agency" means an Executive department, as defined in 5 U.S.C. 101, or any employing unit or authority of the Federal government, other than those of the judicial and legislative branches. Since section 19 \[29 U.S.C. 668\] of the Occupational Safety and Health Act ("the Act") \[29 U.S.C. 651 et seq.\] covers all Federal employees, however, the Secretary of Labor ("the Secretary") shall cooperate and consult with the heads of agencies in the legislative and judicial branches of the government to help them adopt safety and health programs.
 
 #### 1–2.
 
@@ -152,7 +152,7 @@ Department of Labor
 
 (f) Facilitate the exchange of ideas and information throughout the government about occupational safety and health.
 
-(g) Provide technical services to agencies upon request, where the Secretary deems necessary, and with reimbursement. These services may include studies of accidents, causes of injury and illness, identification of unsafe and unhealthful working conditions, and means to abate hazards.
+(g) Provide technical services to agencies upon request, where the Secretary deems necessary, and withreimbursement. These services may include studies of accidents, causes of injury and illness, identification of unsafe and unhealthful working conditions, and means to abate hazards.
 
 (h) Evaluate the occupational safety and health programs of agencies and promptly submit reports to the agency heads. The evaluations shall be conducted through such scheduled headquarters or field reviews, studies or inspections as the Secretary deems necessary, at least annually for the larger or more hazardous agencies or operations, and as the Secretary deems appropriate for the smaller or less hazardous agencies.
 
@@ -214,7 +214,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985,by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
@@ -252,7 +252,7 @@ Memorandum of President of the United States, July 19, 2010, 75 F.R. 43029, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Each year Federal civilian employees are injured or fall ill on the job in significant numbers. Although the Federal Government has made progress in reducing workplace injuries and illnesses in recent years, its workers (excluding those employed by the U.S. Postal Service) still filed more than 79,000 new claims and received over $1.6 billion in workers’ compensation payments in fiscal year 2009. Many of these work-related injuries and illnesses are preventable, and executive departments and agencies can and should do even more to improve workplace safety and health, reduce the financial burden of injury on taxpayers, and relieve unnecessary suffering by workers and their families.
+Each year Federal civilian employees are injured or fall ill on the job in significant numbers. Although the Federal Government has made progress in reducing workplace injuries and illnesses in recent years, its workers (excluding those employed by the U.S. Postal Service) still filed more than 79,000 new claims and received over $1.6 billion in workers' compensation payments in fiscal year 2009. Many of these work-related injuries and illnesses are preventable, and executive departments and agencies can and should do even more to improve workplace safety and health, reduce the financial burden of injury on taxpayers, and relieve unnecessary suffering by workers and their families.
 
 Therefore, I am establishing a 4-year Protecting Our Workers and Ensuring Reemployment (POWER) Initiative, covering fiscal years 2011 through 2014. The POWER Initiative will extend prior workplace safety and health efforts of the Federal Government by setting more aggressive performance targets, encouraging the collection and analysis of data on the causes and consequences of frequent or severe injury and illness, and prioritizing safety and health management programs that have proven effective in the past.
 
@@ -264,19 +264,19 @@ Under the POWER Initiative, each executive department and agency will be expecte
 
 (iii) analyzing lost time injury and illness data;
 
-(iv) increasing the timely filing of workers’ compensation claims;
+(iv) increasing the timely filing of workers' compensation claims;
 
 (v) increasing the timely filing of wage-loss claims;
 
 (vi) reducing lost production day rates; and
 
-(vii) speeding employees’ return to work in cases of serious injury or illness.
+(vii) speeding employees' return to work in cases of serious injury or illness.
 
-Executive departments and agencies (except the U.S. Postal Service) shall coordinate with the Department of Labor's Occupational Safety and Health Administration and Office of Workers’ Compensation Programs to establish performance targets in each category. The Secretary of Labor shall lead the POWER Initiative by measuring both Government-wide and agency-level performance and reporting to me annually.
+Executive departments and agencies (except the U.S. Postal Service) shall coordinate with the Department of Labor's Occupational Safety and Health Administration and Office of Workers' Compensation Programs to establish performance targets in each category. The Secretary of Labor shall lead the POWER Initiative by measuring both Government-wide and agency-level performance and reporting to me annually.
 
 Each executive department and agency shall bear its own costs for participating in the POWER Initiative, and nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to an executive department or agency, or the head thereof.
 
-This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural,enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Secretary of Labor is authorized and directed to publish this memorandum in the Federal Register.
 

@@ -168,7 +168,7 @@ Subsec. (b)(3)(A). Pub. L. 107–210, §311(c)(1), added subpar. (A) and struck 
 
 Subsec. (b)(3)(B). Pub. L. 107–210, §311(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "$150,199,000 for fiscal year 1992."
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
+<b>1990</b>—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
 
 <b>1989</b>—Subsec. (b)(1). Pub. L. 101–207, §3(a)(1), (2), substituted "1990" for "1989" and "$418,822,000" for "$440,504,000".
 
@@ -206,7 +206,7 @@ Pub. L. 99–509, §8102(2), amended subsec. (b) generally. Prior to amendment, 
 
 &emsp;"(B) $53,500,000 is for the operation and maintenance of the air interdiction program of the Service; and
 
-&emsp;"(C) not to exceed $14,000,000 is for the implementation of the 'Operation EXODUS' program and any related program designed to enforce or monitor exportcontrols under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
+&emsp;"(C) not to exceed $14,000,000 is for the implementation of the 'Operation EXODUS' program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
 
 "(2) No part of any sum that is appropriated under the authority of paragraph (1) may be used to close any port of entry at which, during fiscal year 1985—
 
@@ -230,7 +230,7 @@ Pub. L. 99–272, §13022(a)(1), amended subsec. (b) generally. Prior to amendme
 
 Subsecs. (f), (g). Pub. L. 99–272, §13022(a)(2), added subsecs. (f) and (g).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–573, §702(1), amended subsec. (b) generally, which prior to amendment read as follows: "There are authorized to be appropriated to the Department of the Treasury not to exceed $564,224,000 for the salaries and expenses of the United States Customs Service for fiscal year 1983, of which not to exceed $31,464,000 is for salary and expenses for the enforcement of the alcohol and tobacco revenue laws."
+<b>1984</b>—Subsec. (b). Pub. L. 98–573, §702(1), amended subsec. (b) generally, which prior to amendment read asfollows: "There are authorized to be appropriated to the Department of the Treasury not to exceed $564,224,000 for the salaries and expenses of the United States Customs Service for fiscal year 1983, of which not to exceed $31,464,000 is for salary and expenses for the enforcement of the alcohol and tobacco revenue laws."
 
 Subsecs. (d), (e). Pub. L. 98–573, §702(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 

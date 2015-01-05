@@ -70,7 +70,7 @@ In the case of any territory of the United States except Puerto Rico, the Secret
 
 #### References in Text
 
-Section 300x–30(c) of this title, referred to in subsec. (a)(5), was redesignated section 300x–30(d) of this titleby Pub. L. 106–310, div. B, title XXXIII, §3303(c)(1), Oct. 17, 2000, 114 Stat. 1211.
+Section 300x–30(c) of this title, referred to in subsec. (a)(5), was redesignated section 300x–30(d) of this title by Pub. L. 106–310, div. B, title XXXIII, §3303(c)(1), Oct. 17, 2000, 114 Stat. 1211.
 
 Section 300x–22(c) of this title, referred to in subsec. (e)(2), was redesignated section 300x–22(b) of this title by Pub. L. 106–310, div. B, title XXXIII, §3303(a)(2), Oct. 17, 2000, 114 Stat. 1210.
 

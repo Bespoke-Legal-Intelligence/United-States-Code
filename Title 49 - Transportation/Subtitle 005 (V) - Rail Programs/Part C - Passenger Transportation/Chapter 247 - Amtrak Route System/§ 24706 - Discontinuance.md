@@ -124,7 +124,7 @@ Amendment by section 142(a) of Pub. L. 105–134 effective 180 days after Dec. 2
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub.L. 111–314, set out as a note under section 101 of this title.
 
 #### Employee Protection Reforms
 
@@ -166,7 +166,7 @@ Dispute Resolution.—(1) With respect to the dispute described in subsection (a
 
 "(e)
 
-No Precedent for Freight.—Nothing in this Act \[see Short Title of 1997 Amendment note set outunder section 20101 of this title\], or in any amendment made by this Act, shall affect the level of protection provided to freight railroad employees and mass transportation employees as it existed on the day before the date of enactment of this Act \[Dec. 2, 1997\].
+No Precedent for Freight.—Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 20101 of this title\], or in any amendment made by this Act, shall affect the level of protection provided to freight railroad employees and mass transportation employees as it existed on the day before the date of enactment of this Act \[Dec. 2, 1997\].
 
 #### "SEC. 142. SERVICE DISCONTINUANCE.
 

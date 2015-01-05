@@ -8,7 +8,7 @@ In order to maintain existing conformity between the Civil Service Retirement an
 
 &emsp;(2) affects treatment which, immediately prior to the enactment of such law, was substantially identical to the treatment accorded to participants, former participants, annuitants, or survivors under the Foreign Service Retirement and Disability System;
 
-> such law shall be extended in accordance with subsection (b) of this section to the Foreign Service Retirement and Disability System so that it applies in like manner with respect to participants, former participants, annuitants, or survivors under that System.
+> such law shall be extended in accordance with subsection (b) to the Foreign Service Retirement and Disability System so that it applies in like manner with respect to participants, former participants, annuitants, or survivors under that System.
 
 #### (b) Regulations to implement prescribed by Executive order
 
@@ -20,7 +20,7 @@ The President shall by Executive order prescribe regulations to implement this s
 
 #### (c) Federal Employees' Retirement and Foreign Service Pension Systems
 
-The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) of this section existing conformity between the Federal Employees' Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
+The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) existing conformity between the Federal Employees' Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
 
 (Pub. L. 96–465, title I, §827, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 99–335, title IV, §411, June 6, 1986, 100 Stat. 614.)
 
@@ -42,7 +42,7 @@ This section not applicable with respect to either the amendments made by sectio
 
 #### Recommendations by Secretary of State to President
 
-For authority for the Secretary of State to make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+For authority for the Secretary of State to make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement andDisability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
 #### Ex. Ord. No. 12289. Conforming the Foreign Service and Civil Service Retirement and Disability Systems
 
@@ -110,7 +110,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 (i) by striking out subsection (e) and substituting the following subsection in lieu thereof:
 
-"(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
+"(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be basedupon estimates of such basic pay provided to the Department under paragraph (4).
 
 "(2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 
@@ -134,7 +134,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 "(A) each period of military or naval service performed before January 1, 1957, and
 
-"(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this chapter is based, only if a deposit (with interest if anyis required) is made with respect to that period, as provided in section 805(e) \[22 U.S.C. 4045(e)\].
+"(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this chapter is based, only if a deposit (with interest if any is required) is made with respect to that period, as provided in section 805(e) \[22 U.S.C. 4045(e)\].
 
 "(3) The service of an individual who first became a participant on or after the date of this Order with credit under section 816 \[22 U.S.C. 4056\] for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this chapter is based, subject, in the case of military or naval service performed after December 1956, to section 816(j) \[22 U.S.C. 4056(j)\], as deemed to be added by this Order.
 

@@ -18,7 +18,7 @@ In General.—The functions of the Administrator include—
 
 &emsp;(6) administering section 1703(a) to (i) of this title;
 
-&emsp;(7) establishing criteria and procedures to ensure the effective and timely solicitation ofthe viewpoints of interested parties in the development of procurement policies, regulations, procedures, and forms;
+&emsp;(7) establishing criteria and procedures to ensure the effective and timely solicitation of the viewpoints of interested parties in the development of procurement policies, regulations, procedures, and forms;
 
 &emsp;(8) developing standard contract forms and contract language in order to reduce the Federal Government's cost of procuring property and services and the private sector's cost of doing business with the Federal Government;
 
@@ -110,7 +110,7 @@ In clause (12), the words "small business concerns owned and controlled by servi
 
 #### Pilot Program To Inventory Cost and Size of Service Contracts
 
-Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: "No later than 180 days after enactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annualcontracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services."
+Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: "No later than 180 days afterenactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services."
 
 #### Reporting of Bundled Contract Opportunities
 

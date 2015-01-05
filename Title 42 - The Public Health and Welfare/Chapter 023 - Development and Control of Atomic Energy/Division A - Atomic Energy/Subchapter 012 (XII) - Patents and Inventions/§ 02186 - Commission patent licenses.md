@@ -14,7 +14,7 @@ This chapter, referred to in text, was in the original "this Act", meaning act A
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issuedearlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
+Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
 
 #### Transfer of Functions
 

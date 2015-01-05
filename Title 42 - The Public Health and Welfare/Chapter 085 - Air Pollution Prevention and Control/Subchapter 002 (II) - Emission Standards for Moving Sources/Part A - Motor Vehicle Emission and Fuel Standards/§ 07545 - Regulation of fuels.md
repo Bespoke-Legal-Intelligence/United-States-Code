@@ -170,7 +170,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 (3) Any manufacturer of any fuel or fuel additive which prior to March 31, 1977, and after January 1, 1974, first introduced into commerce or increased the concentration in use of a fuel or fuel additive that would otherwise have been prohibited under paragraph (1)(A) if introduced on or after March 31, 1977 shall, not later than September 15, 1978, cease to distribute such fuel or fuel additive in commerce. During the period beginning 180 days after August 7, 1977, and before September 15, 1978, the Administrator shall prohibit, or restrict the concentration of any fuel additive which he determines will cause or contribute to the failure of an emission control device or system (over the useful life of any vehicle in which such device or system is used) to achieve compliance by the vehicle with the emission standards with respect to which it has been certified under section 7525 of this title.
 
-(4) The Administrator, upon application of any manufacturer of any fuel or fuel additive, may waive the prohibitions established under paragraph (1) or (3) of this subsection or the limitation specified in paragraph (2) of this subsection, if he determines that the applicant has established that such fuel or fuel additive or a specified concentration thereof, and the emissionproducts of such fuel or fuel additive or specified concentration thereof, will not cause or contribute to a failure of any emission control device or system (over the useful life of the motor vehicle, motor vehicle engine, nonroad engine or nonroad vehicle in which such device or system is used) to achieve compliance by the vehicle or engine with the emission standards with respect to which it has been certified pursuant to sections 7525 and 7547(a) of this title. The Administrator shall take final action to grant or deny an application submitted under this paragraph, after public notice and comment, within 270 days of the receipt of such an application.
+(4) The Administrator, upon application of any manufacturer of any fuel or fuel additive, may waive the prohibitions established under paragraph (1) or (3) of this subsection or the limitation specified in paragraph (2) of this subsection, if he determines that the applicant has established that such fuel or fuel additive or a specified concentration thereof, and the emission products of such fuel or fuel additive or specified concentration thereof, will not cause or contribute to a failure of any emission control device or system (over the useful life of the motor vehicle, motor vehicle engine, nonroad engine or nonroad vehicle in which such device or system is used) to achieve compliance by the vehicle or engine with the emission standards with respect to which it has been certified pursuant to sections 7525 and 7547(a) of this title. The Administrator shall take final action to grant or deny an application submitted under this paragraph, after public notice and comment, within 270 days of the receipt of such an application.
 
 (5) No action of the Administrator under this section may be stayed by any court pending judicial review of such action.
 
@@ -178,7 +178,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 (1) No person shall introduce, or cause or allow the introduction of, leaded gasoline into any motor vehicle which is labeled "unleaded gasoline only," which is equipped with a gasoline tank filler inlet designed for the introduction of unleaded gasoline, which is a 1990 or later model year motor vehicle, or which such person knows or should know is a vehicle designed solely for the use of unleaded gasoline.
 
-(2) Beginning October 1, 1993, no person shall introduce or cause or allow the introduction into any motor vehicle of diesel fuel which such person knows or should know contains a concentration of sulfur in excess of 0.05 percent (by weight) or which fails to meet a cetane index minimum of 40 or such equivalent alternative aromatic level as prescribed by the Administrator under subsection (i)(2) of this section.
+(2) Beginning October 1, 1993, no person shall introduce or cause or allow the introduction into any motor vehicle of diesel fuel which such person knows or should know contains a concentration of sulfur in excess of 0.05 percent (by weight) or which fails to meet a cetane index minimum of 40 or such equivalent alternativearomatic level as prescribed by the Administrator under subsection (i)(2) of this section.
 
 #### (h) Reid Vapor Pressure requirements
 
@@ -280,7 +280,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (ii) Regulations concerning emissions of toxic air pollutants
 
-&emsp;&emsp;&emsp;Not later than 270 days after August 8, 2005, the Administrator shall establish by regulation, for each refinery or importer (other than a refiner or importer in a State that has received a waiver under section 7543(b) of this title with respect to gasoline produced for use in that State), standards for toxic air pollutants from use of the reformulated gasoline produced or distributed by the refiner or importer that maintain the reduction of the average annual aggregate emissions of toxic air pollutants for reformulated gasoline produced or distributed by the refiner or importer during calendar years 2001 and 2002 (as determined on the basis of data collected by the Administrator with respect to the refiner or importer).
+&emsp;&emsp;&emsp;Not later than 270 days after August 8, 2005, the Administrator shall establish by regulation, for each refinery or importer (other than a refiner or importer in aState that has received a waiver under section 7543(b) of this title with respect to gasoline produced for use in that State), standards for toxic air pollutants from use of the reformulated gasoline produced or distributed by the refiner or importer that maintain the reduction of the average annual aggregate emissions of toxic air pollutants for reformulated gasoline produced or distributed by the refiner or importer during calendar years 2001 and 2002 (as determined on the basis of data collected by the Administrator with respect to the refiner or importer).
 
 #### (iii) Standards applicable to specific refineries or importers
 
@@ -314,7 +314,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) promulgate revisions to the regulations promulgated under clause (ii), to take effect not earlier than 180 days but not later than 270 days after the date of promulgation, to provide that, notwithstanding clause (iii)(II), all reformulated gasoline produced or distributed at each refiner or importer shall meet the standards applicable under clause (iii)(I) beginning not later than April 1 of the calendar year following publication of the report under subclause (I) and in each calendar year thereafter.
 
-&emsp;&emsp;&emsp;(vi) Not later than July 1, 2007, the Administrator shall promulgate final regulations to control hazardous air pollutants from motor vehicles and motor vehicle fuels, as provided for in section 80.1045 of title 40, Code of Federal Regulations (as in effect on August 8, 2005), and as authorized under section 7521(l) <sup>5</sup> of this title. If theAdministrator promulgates by such date, final regulations to control hazardous air pollutants from motor vehicles and motor vehicle fuels that achieve and maintain greater overall reductions in emissions of air toxics from reformulated gasoline than the reductions that would be achieved under subsection (k)(1)(B) of this section as amended by this clause, then subsections (k)(1)(B)(i) through (k)(1)(B)(v) of this section shall be null and void and regulations promulgated thereunder shall be rescinded and have no further effect.
+&emsp;&emsp;&emsp;(vi) Not later than July 1, 2007, the Administrator shall promulgate final regulations to control hazardous air pollutants from motor vehicles and motor vehicle fuels, as provided for in section 80.1045 of title 40, Code of Federal Regulations (as in effect on August 8, 2005), and as authorized under section 7521(l) <sup>5</sup> of this title. If the Administrator promulgates by such date, final regulations to control hazardous air pollutants from motor vehicles and motor vehicle fuels that achieve and maintain greater overall reductions in emissions of air toxics from reformulated gasoline than the reductions that would be achieved under subsection (k)(1)(B) of this section as amended by this clause, then subsections (k)(1)(B)(i) through (k)(1)(B)(v) of this section shall be null and void and regulations promulgated thereunder shall be rescinded and have no further effect.
 
 #### (2) General requirements
 
@@ -370,7 +370,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (A) Regulations
 
-&emsp;&emsp;The regulations under this subsection shall include procedures under which the Administrator shall certify reformulated gasoline as complying with the requirements established pursuant to this subsection. Under such regulations, the Administrator shall establish procedures for any person to petitionthe Administrator to certify a fuel formulation, or slate of fuel formulations. Such procedures shall further require that the Administrator shall approve or deny such petition within 180 days of receipt. If the Administrator fails to act within such 180-day period, the fuel shall be deemed certified until the Administrator completes action on the petition.
+&emsp;&emsp;The regulations under this subsection shall include procedures under which the Administrator shall certify reformulated gasoline as complying with the requirements established pursuant to this subsection. Under such regulations, the Administrator shall establish procedures for any person to petition the Administrator to certify a fuel formulation, or slate of fuel formulations. Such procedures shall further require that the Administrator shall approve or deny such petition within 180 days of receipt. If the Administrator fails to act within such 180-day period, the fuel shall be deemed certified until the Administrator completes action on the petition.
 
 #### (B) Certification; equivalency
 
@@ -382,7 +382,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (C) EPA determination of emissions level
 
-&emsp;&emsp;Within 1 year after November 15, 1990, the Administrator shall determine the level of emissions of ozone forming volatile organic compounds and emissions of toxic air pollutants emitted by baseline vehicles when operating on baseline gasoline. For purposes of this subsection, within 1 year after November 15, 1990, the Administrator shall, by rule, determine appropriate measures of, and methodology for, ascertaining the emissions of air pollutants (including calculations, equipment, and testing tolerances).
+&emsp;&emsp;Within 1 year after November 15, 1990, the Administrator shall determine the level of emissions of ozone forming volatile organic compounds and emissions of toxic air pollutants emitted by baseline vehicles when operating on baseline gasoline. For purposes of this subsection, within 1 year after November 15, 1990, the Administrator shall, by rule,determine appropriate measures of, and methodology for, ascertaining the emissions of air pollutants (including calculations, equipment, and testing tolerances).
 
 #### (5) Prohibition
 
@@ -442,7 +442,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (7) Credits
 
-&emsp;(A) The regulations promulgated under this subsection shall provide for the granting of an appropriate amount of credits to a person who refines, blends, or imports and certifies a gasoline or slate of gasoline that—
+&emsp;(A) The regulations promulgated under this subsection shall provide for the granting of an appropriate amount of credits to a person whorefines, blends, or imports and certifies a gasoline or slate of gasoline that—
 
 &emsp;&emsp;(i) has an aromatic hydrocarbon content (by volume) that is less than the maximum aromatic hydrocarbon content required to comply with paragraph (3); or
 
@@ -496,63 +496,23 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 &emsp;&emsp;&emsp;The term "baseline gasoline" means in the case of gasoline sold during the high ozone period (as defined by the Administrator) a gasoline which meets the following specifications:
 
-&emsp;&emsp;&nbsp;BASELINE GASOLINE FUEL
+&nbsp;
 
-&emsp;&emsp;&nbsp;&nbsp;PROPERTIES
-
-&emsp;&emsp;&nbsp;&nbsp;API Gravity
-
-57\.4&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;Sulfur, ppm
-
-339&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;Benzene, %
-
-1\.53
-
-&emsp;&emsp;&nbsp;&nbsp;RVP, psi
-
-8\.7&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;Octane, R+M/2
-
-87\.3&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;IBP, F
-
-91&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;10%, F
-
-128&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;50%, F
-
-218&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;90%, F
-
-330&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;End Point, F
-
-415&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;Aromatics, %
-
-32\.0&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;Olefins, %
-
-9\.2&nbsp;
-
-&emsp;&emsp;&nbsp;&nbsp;Saturates, %
-
-58\.8&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;BASELINE GASOLINE FUEL PROPERTIES | &nbsp; |
+| :--- | ---: |
+| API Gravity | 57\.4&nbsp; |
+| Sulfur, ppm | 339&nbsp;&nbsp;&nbsp; |
+| Benzene, % | 1\.53 |
+| RVP, psi | 8\.7&nbsp; |
+| Octane, R+M/2 | 87\.3&nbsp; |
+| IBP, F | 91&nbsp;&nbsp;&nbsp; |
+| 10%, F | 128&nbsp;&nbsp;&nbsp; |
+| 50%, F | 218&nbsp;&nbsp;&nbsp; |
+| 90%, F | 330&nbsp;&nbsp;&nbsp; |
+| End Point, F | 415&nbsp;&nbsp;&nbsp; |
+| Aromatics, % | 32\.0&nbsp; |
+| Olefins, % | 9\.2&nbsp; |
+| Saturates, % | 58\.8&nbsp; |
 
 #### (ii) Wintertime
 
@@ -604,7 +564,7 @@ Effective beginning January 1, 1995, no person may sell or dispense to an ultima
 
 &emsp;&emsp;(B) if the area is not located in a CMSA, the Metropolitan Statistical Area in which the area is located,
 
-> &emsp;be blended, during the portion of the year in which the area is prone to high ambient concentrations of carbon monoxide to contain not less than 2.7 percent oxygen by weight (subject to a testing tolerance established by the Administrator). The portion of the year in which the area is prone to high ambient concentrations of carbon monoxide shall be as determined by the Administrator, but shall not be less than 4 months. At the request of a State with respect to any area designated as nonattainment for carbon monoxide, the Administrator may reduce the period specified in the preceding sentence if the State can demonstrate that because of meteorological conditions, a reduced period will assure that there will be no exceedances of the carbon monoxide standard outside of such reduced period. Forareas with a carbon monoxide design value of 9.5 ppm or more of <sup>7</sup> November 15, 1990, the revision shall provide that such requirement shall take effect no later than November 1, 1992 (or at such other date during 1992 as the Administrator establishes under the preceding provisions of this paragraph). For other areas, the revision shall provide that such requirement shall take effect no later than November 1 of the third year after the last year of the applicable 2-year period referred to in paragraph (1) (or at such other date during such third year as the Administrator establishes under the preceding provisions of this paragraph) and shall include a program for implementation and enforcement of the requirement consistent with guidance to be issued by the Administrator.
+> &emsp;be blended, during the portion of the year in which the area is prone to high ambient concentrations of carbon monoxide to contain not less than 2.7 percent oxygen by weight (subject to a testing tolerance established by the Administrator). The portion of the year in which the area is prone to high ambient concentrations of carbon monoxide shall be as determined by the Administrator, but shall not be less than 4 months. At the request of a State with respect to any area designated as nonattainment for carbon monoxide, the Administrator may reduce the period specified in the preceding sentence if the State can demonstrate that because of meteorological conditions, a reduced period will assure that there will be no exceedances of the carbon monoxide standard outside of such reduced period. For areas with a carbon monoxide design value of 9.5 ppm or more of <sup>7</sup> November 15, 1990, the revision shall provide that such requirement shall take effect no later than November 1, 1992 (or at such other date during 1992 as the Administrator establishes under the preceding provisions of this paragraph). For other areas, the revision shall provide that such requirement shall take effect no later than November 1 of the third year after the last year of the applicable 2-year period referred to in paragraph (1) (or at such other date during such third year as the Administrator establishes under the preceding provisions of this paragraph) and shall include a program for implementation and enforcement of the requirement consistent with guidance to be issued by the Administrator.
 
 #### (3) Waivers
 
@@ -654,7 +614,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "advanced biofuel" means renewable fuel, other than ethanol derivedfrom corn starch, that has lifecycle greenhouse gas emissions, as determined by the Administrator, after notice and opportunity for comment, that are at least 50 percent less than baseline lifecycle greenhouse gas emissions.
+&emsp;&emsp;&emsp;The term "advanced biofuel" means renewable fuel, other than ethanol derived from corn starch, that has lifecycle greenhouse gas emissions, as determined by the Administrator, after notice and opportunity for comment, that are at least 50 percent less than baseline lifecycle greenhouse gas emissions.
 
 #### (ii) Inclusions
 
@@ -734,7 +694,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 1 year after August 8, 2005, the Administrator shall promulgate regulations to ensure that gasoline sold or introduced into commerce in the United States (except in noncontiguous States or territories), on an annual average basis, contains the applicable volume of renewable fuel determined in accordance with subparagraph (B). Not later than 1 year after December 19, 2007, the Administrator shall revise the regulations under this paragraph to ensure that transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), on an annual average basis, contains at least the applicable volume of renewable fuel, advanced biofuel, cellulosic biofuel, and biomass-based diesel, determined in accordance with subparagraph (B) and, in the case of any such renewable fuel produced from new facilities that commence construction after December 19, 2007, achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions.
+&emsp;&emsp;&emsp;Not later than 1 year after August 8, 2005, the Administrator shall promulgate regulations to ensure that gasoline sold or introduced into commerce in the UnitedStates (except in noncontiguous States or territories), on an annual average basis, contains the applicable volume of renewable fuel determined in accordance with subparagraph (B). Not later than 1 year after December 19, 2007, the Administrator shall revise the regulations under this paragraph to ensure that transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), on an annual average basis, contains at least the applicable volume of renewable fuel, advanced biofuel, cellulosic biofuel, and biomass-based diesel, determined in accordance with subparagraph (B) and, in the case of any such renewable fuel produced from new facilities that commence construction after December 19, 2007, achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions.
 
 #### (ii) Noncontiguous State opt-in
 
@@ -780,97 +740,25 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &nbsp;
 
-<b>Applicable</b>
-
-&nbsp;
-
-<b>volume of</b>
-
-&nbsp;
-
-<b>renewable</b>
-
-&nbsp;
-
-<b>fuel</b>
-
-<b>Calendar year:</b>
-
-<b>(in billions of</b>
-
-&nbsp;
-
-<b>gallons):</b>
-
-&nbsp;2006
-
-4\.0
-
-&nbsp;2007
-
-4\.7
-
-&nbsp;2008
-
-9\.0
-
-&nbsp;2009
-
-11\.1
-
-&nbsp;2010
-
-12\.95
-
-&nbsp;2011
-
-13\.95
-
-&nbsp;2012
-
-15\.2
-
-&nbsp;2013
-
-16\.55
-
-&nbsp;2014
-
-18\.15
-
-&nbsp;2015
-
-20\.5
-
-&nbsp;2016
-
-22\.25
-
-&nbsp;2017
-
-24\.0
-
-&nbsp;2018
-
-26\.0
-
-&nbsp;2019
-
-28\.0
-
-&nbsp;2020
-
-30\.0
-
-&nbsp;2021
-
-33\.0
-
-&nbsp;2022
-
-36\.0
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp;&nbsp;Calendar year:&nbsp; | <b>Applicable volume of renewable fuel(in billions of gallons):</b> |
+| :--- | ---: |
+| &nbsp;2006 | 4\.0 |
+| &nbsp;2007 | 4\.7 |
+| &nbsp;2008 | 9\.0 |
+| &nbsp;2009 | 11\.1 |
+| &nbsp;2010 | 12\.95 |
+| &nbsp;2011 | 13\.95 |
+| &nbsp;2012 | 15\.2 |
+| &nbsp;2013 | 16\.55 |
+| &nbsp;2014 | 18\.15 |
+| &nbsp;2015 | 20\.5 |
+| &nbsp;2016 | 22\.25 |
+| &nbsp;2017 | 24\.0 |
+| &nbsp;2018 | 26\.0 |
+| &nbsp;2019 | 28\.0 |
+| &nbsp;2020 | 30\.0 |
+| &nbsp;2021 | 33\.0 |
+| &nbsp;2022 | 36\.0 |
 
 #### (II) Advanced biofuel
 
@@ -878,85 +766,22 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &nbsp;
 
-<b>Applicable</b>
-
-&nbsp;
-
-<b>volume of</b>
-
-&nbsp;
-
-<b>advanced</b>
-
-&nbsp;
-
-<b>biofuel</b>
-
-<b>Calendar year:</b>
-
-<b>(in billions of</b>
-
-&nbsp;
-
-<b>gallons):</b>
-
-&nbsp;2009
-
-0\.6
-
-&nbsp;2010
-
-0\.95
-
-&nbsp;2011
-
-1\.35
-
-&nbsp;2012
-
-2\.0
-
-&nbsp;2013
-
-2\.75
-
-&nbsp;2014
-
-3\.75
-
-&nbsp;2015
-
-5\.5
-
-&nbsp;2016
-
-7\.25
-
-&nbsp;2017
-
-9\.0
-
-&nbsp;2018
-
-11\.0
-
-&nbsp;2019
-
-13\.0
-
-&nbsp;2020
-
-15\.0
-
-&nbsp;2021
-
-18\.0
-
-&nbsp;2022
-
-21\.0
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp;&nbsp;Calendar year:&nbsp; | <b>Applicable volume of advanced biofuel(in billions of gallons):</b> |
+| :--- | ---: |
+| &nbsp;2009 | 0\.6 |
+| &nbsp;2010 | 0\.95 |
+| &nbsp;2011 | 1\.35 |
+| &nbsp;2012 | 2\.0 |
+| &nbsp;2013 | 2\.75 |
+| &nbsp;2014 | 3\.75 |
+| &nbsp;2015 | 5\.5 |
+| &nbsp;2016 | 7\.25 |
+| &nbsp;2017 | 9\.0 |
+| &nbsp;2018 | 11\.0 |
+| &nbsp;2019 | 13\.0 |
+| &nbsp;2020 | 15\.0 |
+| &nbsp;2021 | 18\.0 |
+| &nbsp;2022 | 21\.0 |
 
 #### (III) Cellulosic biofuel
 
@@ -964,81 +789,21 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &nbsp;
 
-<b>Applicable</b>
-
-&nbsp;
-
-<b>volume of</b>
-
-&nbsp;
-
-<b>cellulosic</b>
-
-&nbsp;
-
-<b>biofuel</b>
-
-<b>Calendar year:</b>
-
-<b>(in billions of</b>
-
-&nbsp;
-
-<b>gallons):</b>
-
-&nbsp;2010
-
-0\.1
-
-&nbsp;2011
-
-0\.25
-
-&nbsp;2012
-
-0\.5
-
-&nbsp;2013
-
-1\.0
-
-&nbsp;2014
-
-1\.75
-
-&nbsp;2015
-
-3\.0
-
-&nbsp;2016
-
-4\.25
-
-&nbsp;2017
-
-5\.5
-
-&nbsp;2018
-
-7\.0
-
-&nbsp;2019
-
-8\.5
-
-&nbsp;2020
-
-10\.5
-
-&nbsp;2021
-
-13\.5
-
-&nbsp;2022
-
-16\.0
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp;&nbsp;Calendar year:&nbsp; | <b>Applicable volume of cellulosic biofuel(in billions of gallons):</b> |
+| :--- | ---: |
+| &nbsp;2010 | 0\.1 |
+| &nbsp;2011 | 0\.25 |
+| &nbsp;2012 | 0\.5 |
+| &nbsp;2013 | 1\.0 |
+| &nbsp;2014 | 1\.75 |
+| &nbsp;2015 | 3\.0 |
+| &nbsp;2016 | 4\.25 |
+| &nbsp;2017 | 5\.5 |
+| &nbsp;2018 | 7\.0 |
+| &nbsp;2019 | 8\.5 |
+| &nbsp;2020 | 10\.5 |
+| &nbsp;2021 | 13\.5 |
+| &nbsp;2022 | 16\.0 |
 
 #### (IV) Biomass-based diesel
 
@@ -1046,45 +811,12 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &nbsp;
 
-<b>Applicable</b>
-
-&nbsp;
-
-<b>volume of</b>
-
-&nbsp;
-
-<b>biomass-</b>
-
-&nbsp;
-
-<b>based diesel</b>
-
-<b>Calendar year:</b>
-
-<b>(in billions of</b>
-
-&nbsp;
-
-<b>gallons):</b>
-
-&nbsp;2009
-
-0\.5
-
-&nbsp;2010
-
-0\.65
-
-&nbsp;2011
-
-0\.80
-
-&nbsp;2012
-
-1\.0
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp;&nbsp;Calendar year:&nbsp; | <b>Applicable volume of biomass-based diesel (in billionsof gallons):</b> |
+| :--- | ---: |
+| &nbsp;2009 | 0\.5 |
+| &nbsp;2010 | 0\.65 |
+| &nbsp;2011 | 0\.80 |
+| &nbsp;2012 | 1\.0 |
 
 #### (ii) Other calendar years
 
@@ -1264,7 +996,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (D) Cellulosic biofuel
 
-&emsp;&emsp;(i) For any calendar year for which the projected volume of cellulosic biofuel production is less than the minimum applicable volume established under paragraph (2)(B), as determined by the Administrator based on the estimate provided under paragraph (3)(A), not later than November 30 of the preceding calendar year, the Administrator shall reduce the applicable volume of cellulosic biofuel required under paragraph (2)(B) to the projected volume available during that calendar year. For any calendar year in which the Administrator makes such a reduction, the Administrator may also reduce the applicable volume of renewable fuel and advanced biofuels requirement established under paragraph (2)(B) by the same or a lesser volume.
+&emsp;&emsp;(i) For any calendar year for which the projected volume of cellulosic biofuel production is less than the minimum applicable volume established under paragraph (2)(B), as determined by the Administrator based on the estimate provided under paragraph (3)(A), not later than November 30 of the preceding calendar year, the Administratorshall reduce the applicable volume of cellulosic biofuel required under paragraph (2)(B) to the projected volume available during that calendar year. For any calendar year in which the Administrator makes such a reduction, the Administrator may also reduce the applicable volume of renewable fuel and advanced biofuels requirement established under paragraph (2)(B) by the same or a lesser volume.
 
 &emsp;&emsp;(ii) Whenever the Administrator reduces the minimum cellulosic biofuel volume under this subparagraph, the Administrator shall make available for sale cellulosic biofuel credits at the higher of $0.25 per gallon or the amount by which $3.00 per gallon exceeds the average wholesale price of a gallon of gasoline in the United States. Such amounts shall be adjusted for inflation by the Administrator for years after 2008.
 
@@ -1298,7 +1030,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after August 8, 2005, the Secretary of Energy shall conductfor the Administrator a study assessing whether the renewable fuel requirement under paragraph (2) will likely result in significant adverse impacts on consumers in 2006, on a national, regional, or State basis.
+&emsp;&emsp;Not later than 180 days after August 8, 2005, the Secretary of Energy shall conduct for the Administrator a study assessing whether the renewable fuel requirement under paragraph (2) will likely result in significant adverse impacts on consumers in 2006, on a national, regional, or State basis.
 
 #### (B) Required evaluations
 
@@ -1318,7 +1050,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 270 days after August 8, 2005, the Administrator shall, if and to the extent recommended by the Secretary of Energy under subparagraph (C), waive, in whole or in part, the renewable fuel requirement under paragraph (2) by reducing the national quantity of renewable fuel required under paragraph (2) in calendar year 2006.
+&emsp;&emsp;&emsp;Not later than 270 days after August 8, 2005, the Administrator shall, if and to theextent recommended by the Secretary of Energy under subparagraph (C), waive, in whole or in part, the renewable fuel requirement under paragraph (2) by reducing the national quantity of renewable fuel required under paragraph (2) in calendar year 2006.
 
 #### (ii) No effect on waiver authority
 
@@ -1400,7 +1132,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (A) Draft analysis
 
-&emsp;&emsp;Not later than 4 years after August 8, 2005, the Administrator shall publish for public comment a draft analysis of the changes in emissions of air pollutants and air quality due to the use of motor vehicle fuel and fuel additives resulting from implementation of the amendments made by the Energy Policy Act of 2005.
+&emsp;&emsp;Not later than 4 years after August 8, 2005, the Administrator shall publish for public comment a draft analysis of the changes in emissions of air pollutants and air quality due to the use of motor vehicle fuel and fuel additives resulting from implementation ofthe amendments made by the Energy Policy Act of 2005.
 
 #### (B) Final analysis
 
@@ -1482,7 +1214,7 @@ For the purposes of this section, the term "manufacturer" includes an importer a
 
 #### (3) Surveys
 
-&emsp;A sample of gasoline taken from a retail location that has blended gasoline within the past 30 days and is in compliance with subparagraphs (A), (B), (C), and (D) of paragraph (1) shall not be used in a VOC survey mandated by 40 CFR Part 80.
+&emsp;A sample of gasoline taken from a retail location that has blended gasoline within thepast 30 days and is in compliance with subparagraphs (A), (B), (C), and (D) of paragraph (1) shall not be used in a VOC survey mandated by 40 CFR Part 80.
 
 #### (4) State implementation plans
 
@@ -1552,7 +1284,7 @@ For the purposes of this section, the term "manufacturer" includes an importer a
 
 #### References in Text
 
-August 8, 2005, referred to in subsec. (c)(4)(C)(v)(II), was in the original "enactment", which was translated as meaning the date of enactment of Pub. L. 109–58, which enacted subsec. (c)(4)(C)(v), to reflect the probable intent of Congress.
+August 8, 2005, referred to in subsec. (c)(4)(C)(v)(II), was in the original "enactment", which was translated as meaning the date of enactment of Pub. L. 109–58,which enacted subsec. (c)(4)(C)(v), to reflect the probable intent of Congress.
 
 Section 7521(l) of this title, referred to in subsec. (k)(1)(B)(vi), was in the original "section 202(1) of the Clean Air Act", which was translated as meaning section 202(l) of the Clean Air Act, to reflect the probable intent of Congress.
 
@@ -1628,7 +1360,7 @@ Subsec. (k)(1). Pub. L. 109–58, §1504(b), designated existing provisions as s
 
 Subsec. (k)(2)(A). Pub. L. 109–58, §1504(a)(1)(A)(i), struck out "(including the oxygen content requirement contained in subparagraph (B))" after "requirements of this paragraph".
 
-Subsec. (k)(2)(B) to (D). Pub. L. 109–58, §1504(a)(1)(A)(ii), (iii), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out heading and text of former subpar. (B). Text read as follows: "The oxygen content of the gasoline shall equal or exceed 2.0 percent by weight (subject to a testing tolerance established by the Administrator) except as otherwise required by this chapter. The Administrator may waive, in whole or in part, the application of this subparagraph for any ozone nonattainment area upon a determination by the Administrator that compliance with such requirement would prevent or interfere with the attainment by the area of a national primary ambient air quality standard."
+Subsec. (k)(2)(B) to (D). Pub. L. 109–58, §1504(a)(1)(A)(ii), (iii), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out heading and text of former subpar. (B). Text read as follows: "Theoxygen content of the gasoline shall equal or exceed 2.0 percent by weight (subject to a testing tolerance established by the Administrator) except as otherwise required by this chapter. The Administrator may waive, in whole or in part, the application of this subparagraph for any ozone nonattainment area upon a determination by the Administrator that compliance with such requirement would prevent or interfere with the attainment by the area of a national primary ambient air quality standard."
 
 Subsec. (k)(3)(A)(v). Pub. L. 109–58, §1504(a)(1)(B), struck out heading and text of cl. (v). Text read as follows: "The oxygen content of the reformulated gasoline shall equal or exceed 2.0 percent by weight (subject to a testing tolerance established by the Administrator) except as otherwise required by this chapter."
 
@@ -1774,7 +1506,7 @@ Effect on Air Quality and Other Environmental Requirements.—Except as provided
 
 Pub. L. 110–140, title II, §210(a), Dec. 19, 2007, 121 Stat. 1532, provided that:
 
-"(1) For calendar year 2008, transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), that is produced from facilities that commence construction after the date of enactment of this Act \[Dec. 19, 2007\] shall be treated as renewable fuel within the meaning of section 211(o) of the Clean Air Act \[42 U.S.C. 7545(o)\] only if it achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions. For calendar years 2008 and 2009, any ethanol plant that is fired with natural gas, biomass, or any combination thereof is deemed to be in compliance with such 20 percent reduction requirement and with the 20 percent reduction requirement of section 211(o)(1) of the Clean Air Act. The terms used in this subsection shall have the samemeaning as provided in the amendment made by this Act to section 211(o) of the Clean Air Act.
+"(1) For calendar year 2008, transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), that is produced from facilities that commence construction after the date of enactment of this Act \[Dec. 19, 2007\] shall be treated as renewable fuel within the meaning of section 211(o) of the Clean Air Act \[42 U.S.C. 7545(o)\] only if it achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions. For calendar years 2008 and 2009, any ethanol plant that is fired with natural gas, biomass, or any combination thereof is deemed to be in compliance with such 20 percent reduction requirement and with the 20 percent reduction requirement of section 211(o)(1) of the Clean Air Act. The terms used in this subsection shall have the same meaning as provided in the amendment made by this Act to section 211(o) of the Clean Air Act.
 
 "(2) Until January 1, 2009, the Administrator of the Environmental Protection Agency shall implement section 211(o) of the Clean Air Act and the rules promulgated under that section in accordance with the provisions of that section as in effect before the enactment of this Act and in accordance with the rules promulgated before the enactment of this Act, except that for calendar year 2008, the number '9.0' shall be substituted for the number '5.4' in the table in section 211(o)(2)(B) and in the corresponding rules promulgated to carry out those provisions. The Administrator is authorized to take such other actions as may be necessary to carry out this paragraph notwithstanding any other provision of law."
 
@@ -1854,7 +1586,7 @@ Pub. L. 99–198, title XVII, §1765, Dec. 23, 1985, 99 Stat. 1653, directed Adm
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, orother actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "the".</i>
 

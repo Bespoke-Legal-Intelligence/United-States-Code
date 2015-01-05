@@ -62,5 +62,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1962 Amendment
 
-Section 305 of Pub. L. 87–651 provided that: "Section 108 of this Act \[amending this section\] is effective as of August 10, 1956, for all purposes. Section 304 of this Act is effective as of February 6, 1959."
+Section 305 of Pub. L. 87–651 provided that: "Section 108 of this Act \[amending this section\] is effective as ofAugust 10, 1956, for all purposes. Section 304 of this Act is effective as of February 6, 1959."
 

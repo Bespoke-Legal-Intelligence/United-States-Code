@@ -48,7 +48,7 @@ Pub. L. 97–306, title IV, §403(b), Oct. 14, 1982, 96 Stat. 1443, provided tha
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XX, §2001(a)(2), Aug. 13, 1981, 95 Stat. 781, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effectwith respect to deaths occurring after September 30, 1981."
+Pub. L. 97–35, title XX, §2001(a)(2), Aug. 13, 1981, 95 Stat. 781, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect with respect to deaths occurring after September 30, 1981."
 
 #### Effective Date of 1978 Amendments
 

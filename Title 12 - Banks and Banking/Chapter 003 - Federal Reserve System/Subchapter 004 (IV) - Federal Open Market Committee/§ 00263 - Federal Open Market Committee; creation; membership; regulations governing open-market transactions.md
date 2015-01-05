@@ -4,7 +4,7 @@
 
 (b) No Federal Reserve bank shall engage or decline to engage in open-market operations under sections 348a and 353 to 359 of this title except in accordance with the direction of and regulations adopted by the Committee. The Committee shall consider, adopt, and transmit to the several Federal Reserve banks, regulations relating to the open-market transactions of such banks.
 
-(c) The time, character, and volume of all purchases and sales of paper described in sections 348a and 353 to 359 of this title as eligible for open-market operations shall be governed with a view to accommodating commerce and business and with regard to their bearing upon the general credit situation of the country.
+(c) The time, character, and volume of all purchases and sales of paper described in sections 348a and 353 to 359 of this title as eligible for open-market operations shall be governed with aview to accommodating commerce and business and with regard to their bearing upon the general credit situation of the country.
 
 (Dec. 23, 1913, ch. 6, §12A, as added June 16, 1933, ch. 89, §8, 48 Stat. 168; amended Aug. 23, 1935, ch. 614, title II, §205, 49 Stat. 705; July 7, 1942, ch. 488, §1, 56 Stat. 647.)
 

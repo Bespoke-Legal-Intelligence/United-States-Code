@@ -60,7 +60,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (1) In general
 
-&emsp;If a participant in the system becomes an employee under another Government retirement system by direct transfer to employment covered by such system, the Government's contributions (including interest accrued thereon computed in accordance with section 8334(e) of title 5) to the fund on the participant's behalf as well as the participant's total contributions and deposits (including interest accrued thereon), except voluntary contributions, shall be transferred to the participant's credit in the fund of such other retirement system effective as of the date on which the participant becomes eligible to participate in such other retirement system.
+&emsp;If a participant in the system becomes an employee under another Government retirement system by direct transfer to employment covered by such system, the Government's contributions (including interest accrued thereon computed in accordance with section 8334(e) of title 5) to the fund on the participant's behalf as well as the participant's total contributions and deposits (including interestaccrued thereon), except voluntary contributions, shall be transferred to the participant's credit in the fund of such other retirement system effective as of the date on which the participant becomes eligible to participate in such other retirement system.
 
 #### (2) Consent of employee
 
@@ -70,7 +70,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (1) Application to obtain credit
 
-&emsp;If a deposit required to obtain credit for prior military service described in subsection (a)(2) of this section was not made to another Government retirement fund and transferred under subsection (c)(1) of this section, the participant may obtain credit for such military service, subject to the provisions of this subsection and subsections (f) through (h) of thissection, by applying for it to the Director before retirement or separation from the Agency.
+&emsp;If a deposit required to obtain credit for prior military service described in subsection (a)(2) of this section was not made to another Government retirement fund and transferred under subsection (c)(1) of this section, the participant may obtain credit for such military service, subject to the provisions of this subsection and subsections (f) through (h) of this section, by applying for it to the Director before retirement or separation from the Agency.
 
 #### (2) Employment starting before, on, or after October 1, 1982
 

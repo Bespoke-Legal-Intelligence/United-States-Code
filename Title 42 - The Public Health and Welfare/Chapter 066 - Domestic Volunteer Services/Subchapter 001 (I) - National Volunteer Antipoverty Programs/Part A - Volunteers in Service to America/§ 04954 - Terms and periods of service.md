@@ -18,7 +18,7 @@ Volunteers under this part shall, upon enrollment, take the oath of office as pr
 
 #### (d) Grievance and personal view presentation procedure; notice and hearing; information
 
-The Director shall establish a procedure, including notice and opportunity to be heard, for volunteers under this part to present and obtain resolution of grievances and to present their views in connection with the terms and conditions of their service. The Director shall promptly provide to each volunteer in service on October 1, 1973, and to each such volunteer beginning service thereafter, information regarding such procedure and the terms and conditions of their service.
+The Director shall establish a procedure, including notice and opportunity to be heard, forvolunteers under this part to present and obtain resolution of grievances and to present their views in connection with the terms and conditions of their service. The Director shall promptly provide to each volunteer in service on October 1, 1973, and to each such volunteer beginning service thereafter, information regarding such procedure and the terms and conditions of their service.
 
 #### (e) Summer associates
 
@@ -70,7 +70,7 @@ Limitations on extensions.—With respect to extensions under paragraph (1) for 
 
 &emsp;"(C) not more than 1 percent of the total number of such volunteers serving for the fiscal year involved may receive such extensions.
 
-"(2) \[(3)\]
+"(2) \[probably should be (3)\]
 
 Duration of authority.—The authority established in paragraph (1) shall be effective only for fiscal years 1990 through 1993."
 

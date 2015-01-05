@@ -6,7 +6,7 @@ Excluding section 1706, nothing in this title shall be construed to supersede, e
 
 #### (b) Authority of Department of Justice
 
-Nothing in this title shall be construed as diminishing or otherwise modifying the authorityof the Attorney General to investigate activities covered by this title.
+Nothing in this title shall be construed as diminishing or otherwise modifying the authority of the Attorney General to investigate activities covered by this title.
 
 #### (c) Implementation and effective dates
 

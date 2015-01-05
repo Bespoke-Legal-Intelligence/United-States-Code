@@ -22,7 +22,7 @@ The provisions of this section shall apply to any mineral lease covering submerg
 
 &emsp;(9) the holder thereof pays to the Secretary within the period or periods specified in paragraph (1) of this subsection an amount equivalent to any severance, gross production, or occupation taxes imposed by the State issuing the lease on the production from the lease, less the State's royalty interest in such production, between June 5, 1950, and August 7, 1953 and not heretofore paid to the State, and thereafter pays to the Secretary as an additional royalty on the production from the lease, less the United States' royalty interest in such production, a sum of money equal to the amount of the severance, gross production, or occupation taxes which would have been payable on such production to the State issuing the lease under its laws as they existed on August 7, 1953;
 
-&emsp;(10) such lease will terminate within a period of not more than five years from August 7, 1953 in the absence of production or operations for drilling, or, in any case in which the lease provides for a longer period, the holder thereof consents in writing, filed with the Secretary, to the reduction of such period so that it willnot exceed the maximum period herein specified; and
+&emsp;(10) such lease will terminate within a period of not more than five years from August 7, 1953 in the absence of production or operations for drilling, or, in any case in which the lease provides for a longer period, the holder thereof consents in writing, filed with the Secretary, to the reduction of such period so that it will not exceed the maximum period herein specified; and
 
 &emsp;(11) the holder of such lease furnishes such surety bond, if any, as the Secretary may require and complies with such other reasonable requirements as the Secretary may deem necessary to protect the interests of the United States.
 
@@ -46,7 +46,7 @@ In the event any lease maintained under this section covers lands beneath naviga
 
 #### References in Text
 
-The Submerged Lands Act, referred to in subsec. (e), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I (§1301 et seq.) and II (§1311 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+The Submerged Lands Act, referred to in subsec. (e), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classifiedgenerally to subchapters I (§1301 et seq.) and II (§1311 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Transfer of Functions
 

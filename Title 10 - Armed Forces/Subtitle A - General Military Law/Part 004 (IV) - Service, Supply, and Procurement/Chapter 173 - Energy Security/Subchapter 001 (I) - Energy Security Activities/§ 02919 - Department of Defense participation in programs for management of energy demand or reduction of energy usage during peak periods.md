@@ -2,7 +2,7 @@
 
 (a)
 
-Participation in Demand Response or Load Management Programs.—The Secretary of Defense, the Secretaries of the military departments, the heads of the Defense Agencies, and the heads of other instrumentalities of the Department of Defense are authorized to participate in demand response programs for the management of energy demand or the reduction of energy usage during peak periods conducted by any of the following parties:
+Participation in Demand Response or Load Management Programs.—The Secretary of Defense, the Secretaries of the military departments, the heads of the Defense Agencies, and the heads of other instrumentalities of the Department of Defense are authorized to participate in demand response programs for the management of energy demand or the reduction ofenergy usage during peak periods conducted by any of the following parties:
 
 &emsp;(1) An electric utility.
 

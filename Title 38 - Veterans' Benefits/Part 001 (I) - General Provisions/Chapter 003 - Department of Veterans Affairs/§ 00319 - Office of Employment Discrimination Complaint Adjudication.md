@@ -22,7 +22,7 @@
 
 #### Effective Date
 
-Pub. L. 105–114, title I, §102(c), Nov. 21, 1997, 111 Stat. 2281, provided that: "Section 319 of title 38, UnitedStates Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]."
+Pub. L. 105–114, title I, §102(c), Nov. 21, 1997, 111 Stat. 2281, provided that: "Section 319 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]."
 
 #### Reports on Implementation
 

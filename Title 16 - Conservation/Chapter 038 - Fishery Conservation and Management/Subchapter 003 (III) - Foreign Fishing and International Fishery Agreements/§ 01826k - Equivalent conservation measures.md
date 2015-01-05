@@ -38,7 +38,7 @@ The Secretary, acting through the Secretary of State, shall—
 
 #### (1) Determination
 
-&emsp;The Secretary shall establish a procedure consistent with the provisions of subchapter II of chapter 5 of title 5 for determining whether the government of a harvesting nation identified under subsection (a) and listed in the report under section 1826h of this title—
+&emsp;The Secretary shall establish a procedure consistent with the provisions of subchapter II of chapter 5 of title 5 for determining whetherthe government of a harvesting nation identified under subsection (a) and listed in the report under section 1826h of this title—
 
 &emsp;&emsp;(A) has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable to that of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
 

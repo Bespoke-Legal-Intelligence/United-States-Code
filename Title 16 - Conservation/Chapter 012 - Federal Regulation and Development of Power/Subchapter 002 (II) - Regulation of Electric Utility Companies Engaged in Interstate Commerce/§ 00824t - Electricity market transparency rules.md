@@ -4,7 +4,7 @@
 
 (1) The Commission is directed to facilitate price transparency in markets for the sale and transmission of electric energy in interstate commerce, having due regard for the public interest, the integrity of those markets, fair competition, and the protection of consumers.
 
-(2) The Commission may prescribe such rules as the Commission determines necessary and appropriate to carry out the purposes of this section. The rules shall provide for the dissemination, on a timely basis, of information about the availability and prices of wholesale electric energy and transmission service to the Commission, State commissions, buyers and sellers of wholesale electric energy, users of transmission services, and the public.
+(2) The Commission may prescribe such rules as the Commission determines necessary and appropriate to carry out the purposes of this section. The rules shall provide for the dissemination, on a timely basis, of information about the availability and prices of wholesale electric energy and transmission service to the Commission, State commissions, buyers and sellers ofwholesale electric energy, users of transmission services, and the public.
 
 (3) The Commission may—
 
@@ -34,7 +34,7 @@ The Commission shall not require entities who have a de minimis market presence 
 
 (1) Except as provided in paragraph (2), no person shall be subject to any civil penalty under this section with respect to any violation occurring more than 3 years before the date on which the person is provided notice of the proposed penalty under section 825o–1 of this title.
 
-(2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller thathas entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title.
+(2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller that has entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title.
 
 #### (f) ERCOT utilities
 

@@ -52,7 +52,7 @@ Subsec. (b)(7). Pub. L. 96–374, §1391(a)(1), substituted "Secretary" for "Com
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–482 substituted provisions authorizing agreements for job location and development programs by Commissioner, for provisions setting forth statement of purpose of community service learning programs.
 
-Subsec. (b). Pub. L. 94–482 substituted provisions setting forth requirements for agreements for job location and development programs, for provisions authorizing appropriations for community service learning programs.
+Subsec. (b). Pub. L. 94–482 substituted provisions setting forth requirements for agreements for job location and development programs, for provisions authorizingappropriations for community service learning programs.
 
 Subsec. (c). Pub. L. 94–482 struck out subsec. (c) which authorized agreements by the Commissioner for grants for community service learning programs.
 
@@ -70,5 +70,5 @@ Section applicable to periods of enrollment beginning on or after July 1, 1987, 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing forauthorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of Title 20, Education.
+Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of Title 20, Education.
 

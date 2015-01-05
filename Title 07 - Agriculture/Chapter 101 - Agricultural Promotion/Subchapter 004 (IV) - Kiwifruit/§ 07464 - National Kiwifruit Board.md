@@ -20,11 +20,11 @@ Subject to the 11-member limit, the Secretary may adjust membership on the Board
 
 #### (2) Producers
 
-&emsp;The members who are producers referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by producers.
+&emsp;The members who are producers referred to in subsection (a)(1) shall be appointed from individuals nominated by producers.
 
 #### (3) Importers and exporters
 
-&emsp;The members who are importers or exporters referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by importers or exporters.
+&emsp;The members who are importers or exporters referred to in subsection (a)(1) shall be appointed from individuals nominated by importers or exporters.
 
 #### (4) Public representative
 
@@ -40,7 +40,7 @@ The Secretary shall appoint an alternate for each member of the Board. An altern
 
 &emsp;(1) be appointed in the same manner as the member for whom the individual is an alternate; and
 
-&emsp;(2) serve on the Board if the member is absent from a meeting or is disqualified under subsection (f) of this section.
+&emsp;(2) serve on the Board if the member is absent from a meeting or is disqualified under subsection (f).
 
 #### (e) Terms
 

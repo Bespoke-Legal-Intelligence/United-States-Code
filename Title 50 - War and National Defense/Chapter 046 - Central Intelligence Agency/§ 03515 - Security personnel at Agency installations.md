@@ -6,7 +6,7 @@
 
 &emsp;(A) within the Agency Headquarters Compound and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Compound;
 
-&emsp;(B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Compound and property and extending outward 500 feet;
+&emsp;(B) in the streets, sidewalks, and the open areas within the zone beginning at the outsideboundary of such Compound and property and extending outward 500 feet;
 
 &emsp;(C) within any other Agency installation and protected property; and
 

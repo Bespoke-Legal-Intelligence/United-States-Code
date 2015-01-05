@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury shall make payments on account of awards certified by the Commission pursuant to this subchapter as follows:
 
-&emsp;(1) Payment in full of the principal amount of each award made pursuant to section 1641d(a)(1) of this title and each award of $1,000 or less made pursuant to section 1641b or 1641c of this title;
+&emsp;(1) Payment in full of the principal amount of each award made pursuant to section1641d(a)(1) of this title and each award of $1,000 or less made pursuant to section 1641b or 1641c of this title;
 
 &emsp;(2) Payment in full of the principal amount of each award of $1,000 or less made pursuant to section 1641d(a)(2) of this title;
 

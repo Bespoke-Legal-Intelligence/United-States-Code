@@ -98,7 +98,7 @@ Accordingly, I hereby direct the Commissioner of Internal Revenue (Commissioner)
 
 I also direct the Director of the Office of Management and Budget, working with the Secretary of the Treasury and other agency heads, to evaluate practices of contracting officers and debarring officials in response to contractors' certifications of serious tax delinquencies and to provide me, within 90 days, recommendations on process improvements to ensure these contractors are not awarded new contracts, including a plan to make contractor certifications available in a Government-wide database, as is already being done with other information on contractors.
 
-Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law. This memorandum is not intended to,and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Director of the Office of Management and Budget is hereby authorized and directed to publish this memorandum in the Federal Register.
 

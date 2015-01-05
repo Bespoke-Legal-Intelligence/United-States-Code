@@ -34,7 +34,7 @@ Pub. L. 100–408, §1, Aug. 20, 1988, 102 Stat. 1066, provided that: "This Act 
 
 #### Short Title of 1964 Amendment
 
-Pub. L. 88–489, §21, Aug. 26, 1964, 78 Stat. 607, provided that: "This Act \[amending sections 2012, 2013, 2073 to 2078, 2135, 2153, 2201, 2221, 2233, and 2234 of this title, repealing section 2072 of this title, and enacting provisions set out as notes under sections 2012 and 2072 of this title\] may be cited as the 'Private Ownership of Special Nuclear Materials Act'."
+Pub. L. 88–489, §21, Aug. 26, 1964, 78 Stat. 607, provided that: "This Act \[amending sections 2012, 2013, 2073 to2078, 2135, 2153, 2201, 2221, 2233, and 2234 of this title, repealing section 2072 of this title, and enacting provisions set out as notes under sections 2012 and 2072 of this title\] may be cited as the 'Private Ownership of Special Nuclear Materials Act'."
 
 #### Short Title of 1958 Amendment
 

@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out the program established under subsection (a) of this section, the Secretary shall provide economic and financial technical assistance to foreign governments and foreign central banks of developing and transitional countries by providing advisers with appropriate expertise to advance the enactment of laws and establishment of administrative procedures and institutions in such countries to promote macroeconomic and fiscal stability, efficient resource allocation, transparent and market-oriented processes and sustainable private sector growth.
+&emsp;In carrying out the program established under subsection (a), the Secretary shall provide economic and financial technical assistance to foreign governments and foreign central banks of developing and transitional countries by providing advisers with appropriate expertise to advance the enactment of laws and establishment of administrative procedures and institutions in such countries to promote macroeconomic and fiscal stability, efficient resource allocation, transparent and market-oriented processes and sustainable private sector growth.
 
 #### (2) Additional requirements
 
@@ -36,7 +36,7 @@
 
 #### (c) Administrative requirements
 
-In carrying out the program established under subsection (a) of this section, the Secretary—
+In carrying out the program established under subsection (a), the Secretary—
 
 &emsp;(1) shall establish a methodology for identifying and selecting foreign governments and foreign central banks to receive assistance under the program;
 
@@ -50,9 +50,9 @@ In carrying out the program established under subsection (a) of this section, th
 
 #### (d) Administrative authorities
 
-In carrying out the program established under subsection (a) of this section, the Secretary shall have the following administrative authorities:
+In carrying out the program established under subsection (a), the Secretary shall have the following administrative authorities:
 
-&emsp;(1) The Secretary may provide allowances and benefits under chapter 9 of title I of the Foreign Service Act of 1980 (22 U.S.C. 4081 et seq.) to any officer or employee of any agency of the United States Government performing functions under this section outside the United States.
+&emsp;(1) The Secretary may provide allowances and benefits under chapter 9 of title I of theForeign Service Act of 1980 (22 U.S.C. 4081 et seq.) to any officer or employee of any agency of the United States Government performing functions under this section outside the United States.
 
 &emsp;(2)(A) The Secretary may allocate or transfer to any agency of the United States Government any part of any funds available for carrying out this section, including any advance to the United States Government by any country or international organization for the procurement of commodities, supplies, or services.
 
@@ -96,7 +96,7 @@ Nothing in this section shall be construed to infringe upon the powers or functi
 
 #### (g) Termination of assistance
 
-The Secretary shall conclude assistance activities for a recipient foreign government or foreign central bank under the program established under subsection (a) of this section if the Secretary, after consultation with the appropriate officers of the United States, determines that such assistance has resulted in the enactment of laws or the establishment of institutions in that country that promote fiscal stability and administrative procedures, efficient resource allocation, transparent and market-oriented processes and private sector growth in a sustainable manner.
+The Secretary shall conclude assistance activities for a recipient foreign government or foreign central bank under the program established under subsection (a) if the Secretary, after consultation with the appropriate officers of the United States, determines that such assistance has resulted in the enactment of laws or the establishment of institutions in that country that promote fiscal stability and administrative procedures, efficient resource allocation, transparent and market-oriented processes and private sector growth in a sustainable manner.
 
 #### (h) Report
 
@@ -132,9 +132,9 @@ In this section:
 
 &emsp;The term "technical assistance" includes—
 
-&emsp;&emsp;(A) the use of short-term and long-term expert advisers to assist foreign governments and foreign central banks for the purposes described in subsection (b)(1) of this section;
+&emsp;&emsp;(A) the use of short-term and long-term expert advisers to assist foreign governments and foreign central banks for the purposes described in subsection (b)(1);
 
-&emsp;&emsp;(B) training in the recipient country, the United States, or elsewhere for the purposes described in subsection (b)(1) of this section;
+&emsp;&emsp;(B) training in the recipient country, the United States, or elsewhere for the purposes described in subsection (b)(1);
 
 &emsp;&emsp;(C) grants of goods, services, or funds to foreign governments and foreign central banks;
 
@@ -144,7 +144,7 @@ In this section:
 
 #### (5) Foreign participant
 
-&emsp;The term "foreign participant" means the national of a developing or transitional country that is receiving assistance under the program established under subsection (a) of this section who has been designated to participate in activities under such program.
+&emsp;The term "foreign participant" means the national of a developing or transitional country that is receiving assistance under the program established under subsection (a) who has been designated to participate in activities under such program.
 
 #### (j) Authorization of appropriations
 
@@ -160,7 +160,7 @@ In this section:
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, asamended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 This chapter, referred to in subsec. (d)(4), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

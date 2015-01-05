@@ -64,7 +64,7 @@ Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(5). Pub. L. 112–154 amended par. (5) generally. Prior to amendment, par. (5) read as follows:"reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;".
+<b>2012</b>—Subsec. (a)(5). Pub. L. 112–154 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;".
 
 <b>2010</b>—Subsec. (a)(11), (12). Pub. L. 111–275 added par. (11) and redesignated former par. (11) as (12).
 
@@ -92,7 +92,7 @@ Subsec. (a)(4). Pub. L. 95–588, §102(a)(4), (6), added par. (4) and struck ou
 
 Subsec. (a)(5). Pub. L. 95–588, §102(a)(4), (7), redesignated par. (8) as (5) and struck out former par. (5) which related to lump sum death payments.
 
-Subsec. (a)(6). Pub. L. 95–588, §102(a)(4), (9), redesignated par. (10) as (6) and struck out former par. (6) which related to the ten per cent exclusion for individuals under public or private retirement, annuity, endowment, or similar programs.
+Subsec. (a)(6). Pub. L. 95–588, §102(a)(4), (9), redesignated par. (10) as (6) and struck out former par. (6)which related to the ten per cent exclusion for individuals under public or private retirement, annuity, endowment, or similar programs.
 
 Subsec. (a)(7). Pub. L. 95–588, §102(a)(11), redesignated par. (15) as (7). Former par. (7) redesignated (3).
 

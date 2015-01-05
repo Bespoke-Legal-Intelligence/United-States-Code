@@ -16,7 +16,7 @@ Exception for below-threshold modifications.—The prohibition in subsection (a)
 
 Exception for transfer of reusable items of value.—The prohibition in subsection (a) does not apply to a modification in a case in which—
 
-&emsp;&emsp;(A) the reusable items of value, as determined by the Secretary, installed on the item of equipment as part of such modification will, upon the retirement or disposal of the item to be modified, be removed from such item of equipment, refurbished, and installed on another item of equipment; and
+&emsp;&emsp;(A) the reusable items of value, as determined by the Secretary, installed on theitem of equipment as part of such modification will, upon the retirement or disposal of the item to be modified, be removed from such item of equipment, refurbished, and installed on another item of equipment; and
 
 &emsp;&emsp;(B) the cost of such modification (including the cost of the removal and refurbishment of reusable items of value under subparagraph (A)) is less than $1,000,000.
 

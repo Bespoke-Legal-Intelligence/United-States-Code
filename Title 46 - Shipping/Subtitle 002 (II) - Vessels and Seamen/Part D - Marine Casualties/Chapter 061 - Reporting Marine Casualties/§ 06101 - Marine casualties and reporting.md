@@ -14,7 +14,9 @@
 
 (b) A marine casualty shall be reported within 5 days as provided in this part and regulations prescribed under this part. Each report filed under this section shall include information as to whether the use of alcohol contributed to the casualty.
 
-\[(c) Repealed. Pub. L. 98–498, title II, §212(b)(1)(B), Oct. 19, 1984, 98 Stat. 2306.\]
+(c)
+
+Notice to State and Tribal Governments.—Not later than 24 hours after receiving a notice of a major marine casualty under this section, the Secretary shall notify each State or federally recognized Indian tribe that is, or may reasonably be expected to be, affected by such marine casualty.
 
 (d)(1) This part applies to a foreign vessel when involved in a marine casualty on the navigable waters of the United States.
 
@@ -42,21 +44,21 @@
 
 (g) To the extent consistent with generally recognized practices and procedures of international law, this part applies to a foreign vessel involved in a marine casualty or incident, as defined in the International Maritime Organization Code for the Investigation of Marine Casualties and Incidents, where the United States is a Substantially Interested State and is, or has the consent of, the Lead Investigating State under the Code.
 
-(h)(1) The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
+(h) The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
 
-(2) For purposes of this paragraph, the term "major marine casualty" means a casualty involving a vessel, other than a public vessel, that results in—
+(i) For purposes of this section, the term "major marine casualty" means a casualty involving a vessel, other than a public vessel, that results in—
 
-&emsp;(A) the loss of 6 or more lives;
+&emsp;(1) the loss of 6 or more lives;
 
-&emsp;(B) the loss of a mechanically propelled vessel of 100 or more gross tons;
+&emsp;(2) the loss of a mechanically propelled vessel of 100 or more gross tons;
 
-&emsp;(C) property damage initially estimated at $500,000 or more; or
+&emsp;(3) property damage initially estimated at $500,000 or more; or
 
-&emsp;(D) serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
+&emsp;(4) serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
 
-(i) The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
+(j) The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132; Pub. L. 109–241, title IX, §901(o), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(21), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132; Pub. L. 109–241, title IX, §901(o), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(21), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603; Pub. L. 113–281, title III, §312, Dec. 18, 2014, 128 Stat. 3048.)
 
 Historical and Revision Notes
 
@@ -90,6 +92,12 @@ Subsection (e) provides for the classification of marine casualties by regulatio
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c). Pub. L. 113–281, §312(1), added subsec. (c).
+
+Subsecs. (h), (i). Pub. L. 113–281, §312(2), in subsec. (h), struck out "(1)" before "The Secretary" and redesignated par. (2) as subsec. (i) and, in subsec. (i), substituted "section" for "paragraph" in introductory provisions and redesignated former subpars. (A) to (D) as pars. (1) to (4), respectively. Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 113–281, §312(3), resesignated subsec. (i) as (j).
+
 <b>2008</b>—Subsecs. (g) to (i). Pub. L. 110–181 repealed Pub. L. 109–304, §15(21). See 2006 Amendment notes below.
 
 <b>2006</b>—Subsecs. (g) to (i). Pub. L. 109–304, §15(21), which directed amendment identical to that made by Pub. L. 109–241, was repealed by Pub. L. 110–181. See Construction of 2006 Amendment note below.
@@ -118,7 +126,7 @@ Subsec. (c). Pub. L. 98–498, §212(b)(1)(B), struck out subsec. (c) which rela
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–295, title IV, §442(b), Nov. 25, 2002, 116 Stat. 2132, provided that: "The amendment made by subsection (a) \[amending this section\] applies to all marine casualty reports completed after the date of enactment of this Act \[Nov. 25, 2002\]."
+Pub. L. 107–295, title IV, §442(b), Nov. 25, 2002, 116 Stat. 2132, provided that: "The amendment made bysubsection (a) \[amending this section\] applies to all marine casualty reports completed after the date of enactment of this Act \[Nov. 25, 2002\]."
 
 #### Effective Date of 1990 Amendment
 

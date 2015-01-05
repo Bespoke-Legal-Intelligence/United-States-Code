@@ -8,7 +8,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934,which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
@@ -16,5 +16,5 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 #### Advanced Telecommunications Incentives
 
-Pub. L. 104–104, title VII, §706, Feb. 8, 1996, 110 Stat. 153, as amended by Pub. L. 107–110, title X, §1076(gg),Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–385, title I, §103(a), Oct. 10, 2008, 122 Stat. 4096, was transferred and is classified to section 1302 of this title.
+Pub. L. 104–104, title VII, §706, Feb. 8, 1996, 110 Stat. 153, as amended by Pub. L. 107–110, title X, §1076(gg), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–385, title I, §103(a), Oct. 10, 2008, 122 Stat. 4096, was transferred and is classified to section 1302 of this title.
 

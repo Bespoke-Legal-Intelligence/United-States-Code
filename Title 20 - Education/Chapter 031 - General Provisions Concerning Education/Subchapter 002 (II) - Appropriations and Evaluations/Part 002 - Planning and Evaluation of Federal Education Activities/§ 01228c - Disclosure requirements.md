@@ -100,7 +100,7 @@ As used in this section:
 
 &emsp;&emsp;(i) provides an educational program for a fee; and
 
-&emsp;&emsp;(ii) recruits students through means such as commercial media, direct mailings, school recruitment programs, school administrators, teachers or staff, or current or former participants in an educational program offered by such organization or entity.
+&emsp;&emsp;(ii) recruits students through means such as commercial media, direct mailings,school recruitment programs, school administrators, teachers or staff, or current or former participants in an educational program offered by such organization or entity.
 
 &emsp;(B) The definition in subparagraph (A) shall not include—
 

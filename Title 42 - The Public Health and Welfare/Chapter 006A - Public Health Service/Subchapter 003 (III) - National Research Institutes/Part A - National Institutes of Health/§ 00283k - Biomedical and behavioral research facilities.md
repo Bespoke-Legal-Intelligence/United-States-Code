@@ -128,7 +128,7 @@
 
 #### (2) Institutions of emerging excellence
 
-&emsp;From the amount appropriated to carry out this section for a fiscal year up to $50,000,000, the Director of NIH, acting through the Office of the Director of NIH, shall make available 25 percent of such amount, and from the amount appropriated to carry out this section for a fiscal year that is over $50,000,000, the Director ofNIH, acting through the Office of the Director of NIH, shall make available up to 25 percent of such amount, for grants under subsection (a) of this section to applicants that in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
+&emsp;From the amount appropriated to carry out this section for a fiscal year up to $50,000,000, the Director of NIH, acting through the Office of the Director of NIH, shall make available 25 percent of such amount, and from the amount appropriated to carry out this section for a fiscal year that is over $50,000,000, the Director of NIH, acting through the Office of the Director of NIH, shall make available up to 25 percent of such amount, for grants under subsection (a) of this section to applicants that in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
 
 &emsp;&emsp;(A) The applicant has a plan for research or training advancement and possesses the ability to carry out the plan.
 
@@ -172,7 +172,7 @@ The Director of NIH, acting through the Office of the Director of NIH or the Nat
 
 #### (4) Waiver of limitations
 
-&emsp;The limitations imposed under paragraph (1) may be waived at the discretion of the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, for applicants meeting the conditions described in subsection (c) of this section.
+&emsp;The limitations imposed under paragraph (1) may be waived at the discretion of the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, for applicantsmeeting the conditions described in subsection (c) of this section.
 
 #### (f) Recapture of payments
 
@@ -186,7 +186,7 @@ If, not later than 20 years after the completion of construction for which a gra
 
 #### (g) Guidelines
 
-Not later than 6 months after June 10, 1993, the Director of NIH, acting through the Office ofthe Director of NIH, after consultation with the Council, shall issue guidelines with respect to grants under subsection (a) of this section.
+Not later than 6 months after June 10, 1993, the Director of NIH, acting through the Office of the Director of NIH, after consultation with the Council, shall issue guidelines with respect to grants under subsection (a) of this section.
 
 (July 1, 1944, ch. 373, title IV, §404I, formerly §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107 Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330; Pub. L. 108–276, §2(b), July 21, 2004, 118 Stat. 841; Pub. L. 109–482, title I, §§103(b)(40), 104(b)(1)(M), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §404I and amended Pub. L. 112–74, div. F, title II, §221(b)(1), Dec. 23, 2011, 125 Stat. 1087.)
 

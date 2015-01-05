@@ -14,7 +14,7 @@ Intervening Rights.—Any proposed amended or new claim determined to be patenta
 
 (d)
 
-Data on Length of Review.—The Office shall make available to the public data describing the length of time between the institution of, and the issuance of a final written decision under subsection (a) for, each inter partes review.
+Data on Length of Review.—The Office shall make available to the public data describing the length of time between the institutionof, and the issuance of a final written decision under subsection (a) for, each inter partes review.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; amended Pub. L. 107–273, div. C, title III, §13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, §6(a), Sept. 16, 2011, 125 Stat. 303.)
 

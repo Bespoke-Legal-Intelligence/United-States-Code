@@ -72,7 +72,7 @@ Subsec. (b)(1). Pub. L. 100–203, §4039(h)(5)(A), as added by Pub. L. 100–36
 
 Pub. L. 100–93, §6(2), substituted "this chapter" for "subchapter XVIII of this chapter".
 
-Subsec. (b)(2). Pub. L. 100–203, §4039(h)(5)(B), as added by Pub. L. 100–360, substituted "on the same date and in the same manner as an exclusion from participation under the programs under this chapter becomes effective under section 1320a–7(c) of this title" for "at suchtime and upon such reasonable notice to the public and to the practitioner or person furnishing the services involved as may be specified in regulations. Such determination shall be effective with respect to services furnished to an individual on or after the effective date of such determination (except that in the case of institutional health care services such determination shall be effective in the manner provided in this chapter with respect to terminations of provider agreements)".
+Subsec. (b)(2). Pub. L. 100–203, §4039(h)(5)(B), as added by Pub. L. 100–360, substituted "on the same date and in the same manner as an exclusion from participation under the programs under this chapter becomes effective under section 1320a–7(c) of this title" for "at such time and upon such reasonable notice to the public and to the practitioner or person furnishing the services involved as may be specified in regulations. Such determination shall be effective with respect to services furnished to an individual on or after the effective date of such determination (except that in the case of institutional health care services such determination shall be effective in the manner provided in this chapter with respect to terminations of provider agreements)".
 
 Pub. L. 100–93, §6(2), substituted "this chapter" for "subchapter XVIII of this chapter".
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 214 of Pub. L. 104–191 effective Jan. 1, 1997, except as otherwise provided, see section 218 of Pub. L. 104–191, set out as a note under section 1320a–7 of this title.
+Amendment by section 214 of Pub. L. 104–191 effective Jan. 1, 1997, except as otherwise provided, see section218 of Pub. L. 104–191, set out as a note under section 1320a–7 of this title.
 
 Amendment by section 231(f) of Pub. L. 104–191 applicable to acts or omissions occurring on or after Jan. 1, 1997, see section 231(i) of Pub. L. 104–191, set out as a note under section 1320a–7a of this title.
 

@@ -30,7 +30,7 @@
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XI, §1104(g), Nov. 14, 1986, 100 Stat. 3965, substituted "elements of the armed forces deployed outside the United States" for "United States armed forces in Europe" in item 2341.
 
-<b>1985</b>—Pub. L. 99–145, title XIII, §1304(a)(6), Nov. 8, 1985, 99 Stat. 742, renumbered items 2321 to 2328 as 2341 to 2348, respectively, and items 2330 and 2331 as 2349 and 2350, respectively, and struck out item 2329 "Regulations".
+<b>1985</b>—Pub. L. 99–145, title XIII, §1304(a)(6), Nov. 8, 1985, 99 Stat. 742, renumbered items 2321 to 2328 as 2341 to2348, respectively, and items 2330 and 2331 as 2349 and 2350, respectively, and struck out item 2329 "Regulations".
 
 
 ---

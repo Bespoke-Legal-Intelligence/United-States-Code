@@ -6,7 +6,7 @@ The several courts vested with jurisdiction of civil actions arising under this 
 
 #### (b) Transfer of certified copies of court papers
 
-The said courts shall have jurisdiction to enforce said injunction, as provided in this chapter, as fully as if the injunction had been granted by the district court in which it is sought to be enforced. The clerk of the court or judge granting the injunction shall, when required to do so by the court before which application toenforce said injunction is made, transfer without delay to said court a certified copy of all papers on file in his office upon which said injunction was granted.
+The said courts shall have jurisdiction to enforce said injunction, as provided in this chapter, as fully as if the injunction had been granted by the district court in which it is sought to be enforced. The clerk of the court or judge granting the injunction shall, when required to do so by the court before which application to enforce said injunction is made, transfer without delay to said court a certified copy of all papers on file in his office upon which said injunction was granted.
 
 #### (c) Notice to Director
 
@@ -64,7 +64,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 &emsp;(E) a date for the hearing required under paragraph (10) of this subsection.
 
-(6) The court shall take appropriate action to protect the person against whom an order underthis subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
+(6) The court shall take appropriate action to protect the person against whom an order under this subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
 
 (7) Any materials seized under this subsection shall be taken into the custody of the court. For seizures made under this section, the court shall enter an appropriate protective order with respect to discovery and use of any records or information that has been seized. The protective order shall provide for appropriate procedures to ensure that confidential, private, proprietary, or privileged information contained in such records is not improperly disclosed or used.
 

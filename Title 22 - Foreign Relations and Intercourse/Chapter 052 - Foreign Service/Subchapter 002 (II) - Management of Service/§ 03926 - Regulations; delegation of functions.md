@@ -12,7 +12,7 @@ Pub. L. 103–236, title I, §191(a), Apr. 30, 1994, 108 Stat. 418, as amended b
 
 &emsp;"(1) establishing hiring preferences for Foreign Service Officer candidates competent in languages, with priority preference given to those languages in which the Department of State has a deficit;
 
-&emsp;"(2) establishing a standard that employees will not receive long-term training in more than 3 languages, and requiring that employees achieve full professional proficiency (S4/R4) in 1 language as a condition for training in a third, with exceptions for priority needs of the service at the discretion of the Director General;
+&emsp;"(2) establishing a standard that employees will not receive long-term training in more than 3 languages, and requiring that employees achieve full professional proficiency (S4/R4) in 1 language as a conditionfor training in a third, with exceptions for priority needs of the service at the discretion of the Director General;
 
 &emsp;"(3) requiring that employees receiving long-term training in a language, or hired with a hiring preference for a language, serve at least 2 tours in jobs requiring that language, with exceptions for certain limited-use languages and priority needs of the service at the discretion of the Director General;
 

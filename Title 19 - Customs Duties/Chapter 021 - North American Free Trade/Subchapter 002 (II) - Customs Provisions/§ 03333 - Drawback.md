@@ -8,7 +8,7 @@ For purposes of this Act and the amendments made by subsection (b) of this secti
 
 &emsp;(2) A good exported to a NAFTA country in the same condition as when imported into the United States. For purposes of this paragraph—
 
-&emsp;&emsp;(A) processes such as testing, cleaning, repacking, or inspecting a good, or preservingit in its same condition, shall not be considered to change the condition of the good, and
+&emsp;&emsp;(A) processes such as testing, cleaning, repacking, or inspecting a good, or preserving it in its same condition, shall not be considered to change the condition of the good, and
 
 &emsp;&emsp;(B) except for a good referred to in paragraph 12 of section A of Annex 703.2 of the Agreement that is exported to Mexico, if a good described in the first sentence of this paragraph is commingled with fungible goods and exported in the same condition, the origin of the good may be determined on the basis of the inventory methods provided for in the regulations implementing this title.<sup>1</sup>
 

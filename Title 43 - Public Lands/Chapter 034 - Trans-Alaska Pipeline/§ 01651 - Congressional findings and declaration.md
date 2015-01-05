@@ -8,7 +8,7 @@ The Congress finds and declares that:
 
 (c) The earliest possible construction of a trans-Alaska oil pipeline from the North Slope of Alaska to Port Valdez in that State will make the extensive proven and potential reserves of low-sulfur oil available for domestic use and will best serve the national interest.
 
-(d) A supplemental pipeline to connect the North Slope with a trans-Canada pipeline maybe needed later and it should be studied now, but it should not be regarded as an alternative for a trans-Alaska pipeline that does not traverse a foreign country.
+(d) A supplemental pipeline to connect the North Slope with a trans-Canada pipeline may be needed later and it should be studied now, but it should not be regarded as an alternative for a trans-Alaska pipeline that does not traverse a foreign country.
 
 (Pub. L. 93–153, title II, §202, Nov. 16, 1973, 87 Stat. 584.)
 
@@ -42,5 +42,5 @@ Pub. L. 93–153, title IV, §403, Nov. 16, 1973, 87 Stat. 590, provided that: "
 
 #### Equitable Allocation of North Slope Crude Oil
 
-Pub. L. 93–153, title IV, §410, Nov. 16, 1973, 87 Stat. 594, provided that: "The Congress declares that the crude oil on the North Slope of Alaska is an important part of the Nation's oil resources, and that the benefits of such crude oil should be equitably shared, directly or indirectly, by all regions of the country. The President shall use any authority he may have to insure an equitable allocation of available North Slope and other crude oil resources and petroleum products among all regions and all of the several States."
+Pub. L. 93–153, title IV, §410, Nov. 16, 1973, 87 Stat. 594, provided that: "The Congress declares that the crude oil on the North Slope of Alaska is an important part of the Nation's oil resources, and that the benefits of such crude oil should be equitably shared, directly or indirectly, by all regions of the country. The Presidentshall use any authority he may have to insure an equitable allocation of available North Slope and other crude oil resources and petroleum products among all regions and all of the several States."
 

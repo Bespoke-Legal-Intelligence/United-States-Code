@@ -8,7 +8,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 &emsp;&emsp;&emsp;(i) to educate veterans with respect to health promotion and disease prevention; and
 
-&emsp;&emsp;&emsp;(ii) to provide veterans with preventive health screenings and other clinical services, with such description setting forththe types of resources used by the Department to conduct such screenings and services and the number of veterans reached by such screenings and services.
+&emsp;&emsp;&emsp;(ii) to provide veterans with preventive health screenings and other clinical services, with such description setting forth the types of resources used by the Department to conduct such screenings and services and the number of veterans reached by such screenings and services.
 
 &emsp;&emsp;(B) The means by which the Secretary addressed the specific preventive health services needs of particular groups of veterans (including veterans with service-connected disabilities, elderly veterans, low-income veterans, women veterans, institutionalized veterans, and veterans who are at risk for mental illness).
 

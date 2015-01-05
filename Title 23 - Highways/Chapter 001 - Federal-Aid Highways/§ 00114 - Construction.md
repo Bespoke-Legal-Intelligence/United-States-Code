@@ -112,7 +112,7 @@ Subsec. (b). Pub. L. 100–17, §112(b)(1), amended subsec. (b) generally. Prior
 
 <b>1983</b>—Subsec. (b). Pub. L. 97–424 inserted "or materials produced by convict labor" after "Convict labor".
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: "On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments."
+<b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read asfollows: "On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments."
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–657 required State highway departments to erect, on any project where actual construction is in progress and visible to highway users, such informational sign or signs as prescribed by the Secretary, identifying the project and the respective contributions therefor by the State and Federal Governments.
 
@@ -280,5 +280,5 @@ Pub. L. 98–166, title II, §202, Nov. 28, 1983, 97 Stat. 1085.
 
 #### Acceleration of Projects
 
-Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: "The Secretary of Transportation shall by rule or regulation establish, as soon as practicable,alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\]."
+Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: "The Secretary of Transportation shall by rule or regulation establish, as soon as practicable, alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\]."
 

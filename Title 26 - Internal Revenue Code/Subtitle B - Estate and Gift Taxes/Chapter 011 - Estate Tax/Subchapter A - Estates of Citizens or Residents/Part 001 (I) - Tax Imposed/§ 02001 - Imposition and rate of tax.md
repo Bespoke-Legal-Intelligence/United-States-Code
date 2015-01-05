@@ -163,7 +163,7 @@ Technical correction.—The amendment made by paragraph (2) \[amending section 2
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title III, §302(f), Dec. 17, 2010, 124 Stat. 3302, provided that: "Except as otherwise provided in this subsection \[probably should be "section"\], the amendments made by this section \[amending this section and sections 2010, 2502, 2505 and 2511 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2009."
+Pub. L. 111–312, title III, §302(f), Dec. 17, 2010, 124 Stat. 3302, as amended by Pub. L. 113–295, div. A, title II, §206(b)(2), Dec. 19, 2014, 128 Stat. 4027, provided that: "Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 2010, 2502, 2505 and 2511 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2009."
 
 #### Effective Date of 2001 Amendment
 
@@ -213,7 +213,7 @@ Pub. L. 95–600, title VII, §702(h)(3), Nov. 6, 1978, 92 Stat. 2931, provided 
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XX, §2001(d)(1), Oct. 4, 1976, 90 Stat. 1854, provided that: "The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing section 2052 of this title\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments made by subsection (a)(5) \[amending section 2035 of this title\] and subparagraphs (K) and (L)of subsection (c)(1) \[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977."
+Pub. L. 94–455, title XX, §2001(d)(1), Oct. 4, 1976, 90 Stat. 1854, provided that: "The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing section 2052 of this title\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments made by subsection (a)(5) \[amending section 2035 of this title\] and subparagraphs (K) and (L) of subsection (c)(1) \[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977."
 
 #### Short Title
 

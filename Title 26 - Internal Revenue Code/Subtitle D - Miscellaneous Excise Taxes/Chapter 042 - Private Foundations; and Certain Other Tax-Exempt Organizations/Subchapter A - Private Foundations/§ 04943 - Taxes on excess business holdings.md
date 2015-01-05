@@ -104,7 +104,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) excess business holdings in such enterprise, the interest of the foundation in such enterprise (immediately after such change) shall (while held by the foundation) be treated as held by a disqualified person (rather than by the foundation) during the 5-year period beginning on the date of such change in holdings; or
 
-&emsp;&emsp;(B) an increase in excess business holdings in such enterprise (determined without regard to subparagraph (A)), subparagraph (A) shall apply, except that the excess holdings immediately preceding the increase therein shall not be treated, solely because of such increase, as held by a disqualified person (rather than by the foundation).
+&emsp;&emsp;(B) an increase in excess business holdings in such enterprise (determined without regard to subparagraph (A)), subparagraph (A) shall apply, except that the excess holdings immediately preceding the increase therein shall not be treated, solely because of suchincrease, as held by a disqualified person (rather than by the foundation).
 
 > &emsp;In any case where an acquisition by a disqualified person would result in a substitution under clause (i) or (ii) of subparagraph (D) of paragraph (4), the preceding sentence shall be applied with respect to such acquisition as if it did not contain the phrase "or by a disqualified person" in the material preceding subparagraph (A).
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) "the date of the enactment of this subsection" shall be substituted for "May 26, 1969" each place it appears in paragraphs (4), (5), and (6), and
 
-&emsp;&emsp;(B) "January 1, 2007" shall be substituted for "January 1, 1970" in paragraph (4)(E).
+&emsp;&emsp;(B) "January 1, 2007" shall be substituted for "January 1, 1971" in paragraph (4)(E).
 
 #### (f) Application of tax to supporting organizations
 
@@ -258,9 +258,9 @@ For purposes of this section—
 
 &emsp;&emsp;(A) "the date of the enactment of this subsection" shall be substituted for "May 26, 1969" each place it appears in paragraphs (4), (5), and (6), and
 
-&emsp;&emsp;(B) "January 1, 2007" shall be substituted for "January 1, 1970" in paragraph (4)(E).
+&emsp;&emsp;(B) "January 1, 2007" shall be substituted for "January 1, 1971" in paragraph (4)(E).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, §2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, §2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§307(a), 308(a), 309(a), 310(a),314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, §220(r), Dec. 19, 2014, 128 Stat. 4036.)
 
 #### References in Text
 
@@ -271,6 +271,8 @@ The date of enactment of this subsection, referred to in subsecs. (e)(3)(A) and 
 Sections 1212(c), 1233(a), and 1243(a) of Pub. L. 109–280, which directed the amendment of section 4943 without specifying the act to be amended, were executed to this section, which is section 4943 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2014</b>—Subsecs. (e)(3)(B), (f)(7)(B). Pub. L. 113–295 substituted "January 1, 1971" for "January 1, 1970".
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(c), substituted "10 percent" for "5 percent". See Codification note above.
 

@@ -22,7 +22,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(7) information concerning Head Start staff, including salaries, education, training, experience, and staff turnover;
 
-&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, homelessness, whether the child is in foster care or was referred by a child welfare agency, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
+&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, homelessness, whether the child is in foster care or wasreferred by a child welfare agency, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
 
 &emsp;(9) the use and source of funds to extend Head Start services to operate full-day and year round;
 
@@ -38,7 +38,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(11) the information contained in the documents entitled "Program Information Report" and "Head Start Cost Analyses System" (or any document similar to either), prepared with respect to Head Start programs;
 
-&emsp;(12) a description of the types of services provided to children and their families, both on-site and through referrals, includinghealth, mental health, dental care, vision care, parenting education, physical fitness, and literacy training;
+&emsp;(12) a description of the types of services provided to children and their families, both on-site and through referrals, including health, mental health, dental care, vision care, parenting education, physical fitness, and literacy training;
 
 &emsp;(13) a summary of information concerning the research, demonstration, and evaluation activities conducted under section 9844 of this title, including—
 

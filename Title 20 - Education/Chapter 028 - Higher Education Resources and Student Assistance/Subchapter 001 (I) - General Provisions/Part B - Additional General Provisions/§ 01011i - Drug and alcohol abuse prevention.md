@@ -38,7 +38,7 @@ Each institution of higher education that provides the certification required by
 
 #### (1) In general
 
-&emsp;The Secretary shall publish regulations to implement and enforce the provisions of thissection, including regulations that provide for—
+&emsp;The Secretary shall publish regulations to implement and enforce the provisions of this section, including regulations that provide for—
 
 &emsp;&emsp;(A) the periodic review of a representative sample of programs required by subsection (a) of this section; and
 

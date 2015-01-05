@@ -14,7 +14,7 @@ Compensation Guidelines.—(1) The Secretary of Transportation shall prescribe g
 
 &emsp;(E) include provisions under which the Secretary may execute a long-term essential air service contract to encourage an air carrier to provide air service to an eligible place if it would be in the public interest to do so.
 
-(2) Promotional amounts described in paragraph (1)(B) of this subsection shall be a special,segregated element of the compensation provided to a carrier under this subchapter.
+(2) Promotional amounts described in paragraph (1)(B) of this subsection shall be a special, segregated element of the compensation provided to a carrier under this subchapter.
 
 (b)
 

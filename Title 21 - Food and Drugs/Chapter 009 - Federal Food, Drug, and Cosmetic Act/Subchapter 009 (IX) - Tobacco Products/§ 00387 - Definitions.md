@@ -80,7 +80,7 @@ In this subchapter:
 
 #### (17) Smoke constituent
 
-&emsp;The term "smoke constituent" means any chemical or chemical compound in mainstream or sidestream tobacco smoke that either transfers from any component of the cigarette to the smoke or that is formed by thecombustion or heating of tobacco, additives, or other component of the tobacco product.
+&emsp;The term "smoke constituent" means any chemical or chemical compound in mainstream or sidestream tobacco smoke that either transfers from any component of the cigarette to the smoke or that is formed by the combustion or heating of tobacco, additives, or other component of the tobacco product.
 
 #### (18) Smokeless tobacco
 
@@ -148,7 +148,7 @@ Intended Effect.—Nothing in this division \[see Short Title of 2009 Amendment 
 
 "(b)
 
-Agricultural Activities.—The provisions of this division (or an amendment made by this division) which authorize the Secretary to take certain actions with regard to tobacco and tobacco products shall not be construed to affect any authority of the Secretary of Agriculture under existing law regarding the growing, cultivation, or curing of raw tobacco.
+Agricultural Activities.—The provisions of this division (or an amendment made by this division)which authorize the Secretary to take certain actions with regard to tobacco and tobacco products shall not be construed to affect any authority of the Secretary of Agriculture under existing law regarding the growing, cultivation, or curing of raw tobacco.
 
 "(c)
 
@@ -228,7 +228,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(35) Tobacco products have been used to facilitate and finance criminal activities both domestically and internationally. Illicit trade of tobacco products has been linked to organized crime and terrorist groups.
 
-&emsp;"(36) It is essential that the Food and Drug Administration review products sold or distributed for use to reduce risks or exposures associated with tobacco products and that it be empowered to review any advertising and labeling for such products. It is also essential that manufacturers, prior to marketing suchproducts, be required to demonstrate that such products will meet a series of rigorous criteria, and will benefit the health of the population as a whole, taking into account both users of tobacco products and persons who do not currently use tobacco products.
+&emsp;"(36) It is essential that the Food and Drug Administration review products sold or distributed for use to reduce risks or exposures associated with tobacco products and that it be empowered to review any advertising and labeling for such products. It is also essential that manufacturers, prior to marketing such products, be required to demonstrate that such products will meet a series of rigorous criteria, and will benefit the health of the population as a whole, taking into account both users of tobacco products and persons who do not currently use tobacco products.
 
 &emsp;"(37) Unless tobacco products that purport to reduce the risks to the public of tobacco use actually reduce such risks, those products can cause substantial harm to the public health to the extent that the individuals, who would otherwise not consume tobacco products or would consume such products less, use tobacco products purporting to reduce risk. Those who use products sold or distributed as modified risk products that do not in fact reduce risk, rather than quitting or reducing their use of tobacco products, have a substantially increased likelihood of suffering disability and premature death. The costs to society of the widespread use of products sold or distributed as modified risk products that do not in fact reduce risk or that increase risk include thousands of unnecessary deaths and injuries and huge costs to our health care system.
 
@@ -252,7 +252,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(47) In August 2006 a United States district court judge found that the major United States cigarette companies continue to target and market to youth. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).
 
-&emsp;"(48) In August 2006 a United States district court judge found that the major United States cigarette companies dramatically increased their advertising and promotional spending in ways that encourage youth to start smoking subsequent to the signing of the Master Settlement Agreement in 1998. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).
+&emsp;"(48) In August 2006 a United States district court judge found that the major United States cigarette companies dramatically increased their advertisingand promotional spending in ways that encourage youth to start smoking subsequent to the signing of the Master Settlement Agreement in 1998. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).
 
 &emsp;"(49) In August 2006 a United States district court judge found that the major United States cigarette companies have designed their cigarettes to precisely control nicotine delivery levels and provide doses of nicotine sufficient to create and sustain addiction while also concealing much of their nicotine-related research. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006)."
 
@@ -272,7 +272,7 @@ Pub. L. 111–31, div. A, §3, June 22, 2009, 123 Stat. 1781, provided that: "Th
 
 &emsp;"(6) in order to ensure that consumers are better informed, to require tobacco product manufacturers to disclose research which has not previously been made available, as well as research generated in the future, relating to the health and dependency effects or safety of tobacco products;
 
-&emsp;"(7) to continue to permit the sale of tobacco products to adults in conjunction with measures to ensurethat they are not sold or accessible to underage purchasers;
+&emsp;"(7) to continue to permit the sale of tobacco products to adults in conjunction with measures to ensure that they are not sold or accessible to underage purchasers;
 
 &emsp;"(8) to impose appropriate regulatory controls on the tobacco industry;
 

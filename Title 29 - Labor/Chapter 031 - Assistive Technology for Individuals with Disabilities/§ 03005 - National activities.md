@@ -170,7 +170,7 @@ In order to support activities designed to improve the administration of this ch
 
 #### (v) Links to public-sector resources and information
 
-&emsp;&emsp;&emsp;To the extent feasible, the site shall be linked to relevant public-sector resources and information, such as the Internet sites of the Office of Special Education and Rehabilitation Services of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the Small Business Administration, the Architectural and Transportation Barriers Compliance Board, the National Institute of Standards and Technology, the Jobs Accommodation Network funded by the Office of Disability Employment Policy of the Department of Labor, and other relevant sites.
+&emsp;&emsp;&emsp;To the extent feasible, the site shall be linked to relevant public-sector resourcesand information, such as the Internet sites of the Office of Special Education and Rehabilitation Services of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the Small Business Administration, the Architectural and Transportation Barriers Compliance Board, the National Institute of Standards and Technology, the Jobs Accommodation Network funded by the Office of Disability Employment Policy of the Department of Labor, and other relevant sites.
 
 #### (vi) Minimum library components
 
@@ -182,7 +182,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;&emsp;(III) State assistive technology program device reutilization program sites;
 
-&emsp;&emsp;&emsp;&emsp;(IV) alternative financing programs or State financing systems operated through, or independently of, State assistive technology programs, and othersources of funding for assistive technology devices; and
+&emsp;&emsp;&emsp;&emsp;(IV) alternative financing programs or State financing systems operated through, or independently of, State assistive technology programs, and other sources of funding for assistive technology devices; and
 
 &emsp;&emsp;&emsp;&emsp;(V) various programs, including programs with tax credits, available to employers for hiring or accommodating employees who are individuals with disabilities.
 
@@ -246,19 +246,21 @@ With respect to the activities described in subsection (b) to be funded under th
 
 &emsp;(3) individuals employed by protection and advocacy systems funded under section 3004 of this title;
 
-&emsp;(4) relevant employees from Federal departments and agencies, other than the Department of Education;
+&emsp;(4) relevant employees from Federal departments and agencies, other than the Department of Health and Human Services;
 
 &emsp;(5) representatives of businesses; and
 
 &emsp;(6) venders and public and private researchers and developers.
 
-(Pub. L. 105–394, §6, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1727; amended Pub. L. 110–69, title III, §3002(c)(7), Aug. 9, 2007, 121 Stat. 587.)
+(Pub. L. 105–394, §6, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1727; amended Pub. L. 110–69, title III, §3002(c)(7), Aug. 9, 2007, 121 Stat. 587; Pub. L. 113–128, title IV, §491(o)(2), July 22, 2014, 128 Stat. 1698.)
 
 #### References in Text
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(2)(B)(ii), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle D of title I of the Act is classified generally to part D (§15061 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(4). Pub. L. 113–128 substituted "Health and Human Services" for "Education".
 
 <b>2007</b>—Subsec. (b)(4)(B)(v). Pub. L. 110–69 substituted "the National Institute of Standards and Technology," for "the Technology Administration of the Department of Commerce,".
 

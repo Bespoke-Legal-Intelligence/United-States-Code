@@ -36,29 +36,7 @@ Support Accounts.—There is hereby established on the books of the Treasury sep
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(h)
-
-Annual Report.—(1) Not later than 90 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use by the Department of Defense during such fiscal year of—
-
-&emsp;(A) cooperative agreements authorized under section 2358 of this title that contain a clause under subsection (d); and
-
-&emsp;(B) transactions authorized by subsection (a).
-
-(2) The report shall include, with respect to the cooperative agreements and other transactions covered by the report, the following:
-
-&emsp;(A) The technology areas in which research projects were conducted under such agreements or other transactions.
-
-&emsp;(B) The extent of the cost-sharing among Federal Government and non-Federal sources.
-
-&emsp;(C) The extent to which the use of the cooperative agreements and other transactions—
-
-&emsp;&emsp;(i) has contributed to a broadening of the technology and industrial base available for meeting Department of Defense needs; and
-
-&emsp;&emsp;(ii) has fostered within the technology and industrial base new relationships and practices that support the national security of the United States.
-
-&emsp;(D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection (d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
-
-(3) No report is required under this subsection for a fiscal year after fiscal year 2006.
+\[(h) Repealed. Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.\]
 
 (i)
 
@@ -74,9 +52,11 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 
 &emsp;(iii) Technical information submitted on a confidential basis.
 
-(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L.101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h). Pub. L. 113–291 struck out subsec. (h) which related to annual report on use of certain cooperative agreements and transactions.
 
 <b>2003</b>—Subsec. (h)(3). Pub. L. 108–136 added par. (3).
 
@@ -160,15 +140,15 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347; Pub. L. 110–181, div. A, title VIII, §823, title X, §1063(h), Jan. 28, 2008, 122 Stat. 226, 324; Pub. L. 110–417, \[div. A\], title VIII, §824, Oct. 14, 2008, 122 Stat. 4533; Pub. L. 111–383, div. A, title VIII, §§826, 866(g)(2), Jan. 7, 2011, 124 Stat. 4270, 4298; Pub. L. 112–239, div. A, title VIII, §863, Jan. 2, 2013, 126 Stat. 1860, provided that:
+Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347; Pub. L. 110–181, div. A, title VIII, §823, title X, §1063(h), Jan. 28, 2008, 122 Stat. 226, 324; Pub. L. 110–417, \[div. A\], title VIII, §824, Oct. 14, 2008, 122 Stat. 4533; Pub. L. 111–383, div. A, title VIII, §§826, 866(g)(2), Jan. 7, 2011, 124 Stat. 4270, 4298; Pub. L. 112–239, div. A, title VIII, §863, Jan. 2, 2013, 126 Stat. 1860; Pub. L. 113–291, div. A, title VIII, §812, title X, §1071(b)(13), Dec. 19, 2014, 128 Stat. 3429, 3507, provided that:
 
 "(a)
 
-Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
+Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to enhancing the mission effectiveness of military personnel and the supporting platforms, systems, components, or materials proposed to be acquired or developed by the Department of Defense, or to improvement of platforms, systems, components, or materials in use by the Armed Forces.
 
 "(2) The authority of this section—
 
-&emsp;"(A) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 16(c) of the Office of Federal Procurement Policy Act \[former\] (41 U.S.C. 414(c)) \[now 41 U.S.C. 1702(c)\] or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
+&emsp;"(A) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 1702(c) of title 41, United States Code, \[sic\]\[)\] or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
 
 &emsp;&emsp;"(i) the requirements of subsection (d) will be met; and
 
@@ -200,11 +180,11 @@ Comptroller General Review.—(1) Each agreement entered into by an official ref
 
 "(3)(A) The right provided to the Comptroller General in a clause of an agreement under paragraph (1) is limited as provided in subparagraph (B) in the case of a party to the agreement, an entity that participates in the performance of the agreement, or a subordinate element of that party or entity if the only agreements or other transactions that the party, entity, or subordinate element entered into with Government entities in the year prior to the date of that agreement are cooperative agreements or transactions that were entered into under this section or section 2371 of title 10, United States Code.
 
-"(B) The only records of a party, other entity, or subordinate element referred to in subparagraph (A) thatthe Comptroller General may examine in the exercise of the right referred to in that subparagraph are records of the same type as the records that the Government has had the right to examine under the audit access clauses of the previous agreements or transactions referred to in such subparagraph that were entered into by that particular party, entity, or subordinate element.
+"(B) The only records of a party, other entity, or subordinate element referred to in subparagraph (A) that the Comptroller General may examine in the exercise of the right referred to in that subparagraph are records of the same type as the records that the Government has had the right to examine under the audit access clauses of the previous agreements or transactions referred to in such subparagraph that were entered into by that particular party, entity, or subordinate element.
 
 "(4) The head of the contracting activity that is carrying out the agreement may waive the applicability of the requirement in paragraph (1) to the agreement if the head of the contracting activity determines that it would not be in the public interest to apply the requirement to the agreement. The waiver shall be effective with respect to the agreement only if the head of the contracting activity transmits a notification of the waiver to Congress and the Comptroller General before entering into the agreement. The notification shall include the rationale for the determination.
 
-"(5) The Comptroller General may not examine records pursuant to a clause included in an agreement under paragraph (1) more than three years after the final payment is made by the United States under the agreement.
+"(5) The Comptroller General may not examine records pursuant to a clause included in an agreementunder paragraph (1) more than three years after the final payment is made by the United States under the agreement.
 
 "(d)
 
@@ -212,11 +192,11 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 &emsp;"(A) there is at least one nontraditional defense contractor participating to a significant extent in the prototype project; or
 
-&emsp;"(B) no nontraditional defense contractor is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
+&emsp;"(B) no nontraditional defense contractor or small business is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
 
 &emsp;&emsp;"(i) At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
 
-&emsp;&emsp;"(ii) The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3))) \[see 41 U.S.C. 1702(c)\] determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
+&emsp;&emsp;"(ii) The senior procurement executive for the agency (as designated for the purposes of section 1702(c) of title 41, United States Code) determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
 
 "(2)(A) Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.
 
@@ -232,7 +212,7 @@ Pilot Program for Transition to Follow-on Contracts.—(1) The Secretary of Defe
 
 "(2) Under the pilot program—
 
-&emsp;"(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an item or process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)) \[see 41 U.S.C. 103\]; and
+&emsp;"(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an item or process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 103 of title 41, United States Code; and
 
 &emsp;"(B) the item or process may be treated as an item or process, respectively, that is developed in part with Federal funds and in part at private expense for the purposes of section 2320 of title 10, United States Code.
 
@@ -250,7 +230,11 @@ Pilot Program for Transition to Follow-on Contracts.—(1) The Secretary of Defe
 
 "(f)
 
-Nontraditional Defense Contractor Defined.—In this section, the term 'nontraditional defense contractor' has the meaning provided by section 2302(9) of title 10, United States Code.
+Definitions.—In this section:
+
+&emsp;"(1) The term 'nontraditional defense contractor' has the meaning provided by section 2302(9) of title 10, United States Code.
+
+&emsp;"(2) The term 'small business' means a small business concern as defined under section 3 of the Small Business Act (15 U.S.C. 632).
 
 "(g)
 
@@ -268,7 +252,7 @@ Follow-On Production Contracts.—(1) A transaction entered into under this sect
 
 "(h)
 
-Applicability of Procurement Ethics Requirements.—An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of section 27 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 423) \[now 41 U.S.C. 2101 et seq.\].
+Applicability of Procurement Ethics Requirements.—An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41, United States Code.
 
 "(i)
 

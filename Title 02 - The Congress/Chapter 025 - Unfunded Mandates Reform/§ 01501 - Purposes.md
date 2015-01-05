@@ -4,7 +4,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to strengthen the partnership between the Federal Government and State, local, and tribal governments;
 
-&emsp;(2) to end the imposition, in the absence of full consideration by Congress, of Federalmandates on State, local, and tribal governments without adequate Federal funding, in a manner that may displace other essential State, local, and tribal governmental priorities;
+&emsp;(2) to end the imposition, in the absence of full consideration by Congress, of Federal mandates on State, local, and tribal governments without adequate Federal funding, in a manner that may displace other essential State, local, and tribal governmental priorities;
 
 &emsp;(3) to assist Congress in its consideration of proposed legislation establishing or revising Federal programs containing Federal mandates affecting State, local, and tribal governments, and the private sector by—
 
@@ -30,9 +30,9 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 
-Pub. L. 104–4, §1, Mar. 22, 1995, 109 Stat. 48, provided that: “This Act \[enacting this chapter and sections 658 to 658g of this title, amending sections 602, 632, and 653 of this title, and enacting provisions set out as notes under sections 1511 and 1531 of this title\] may be cited as the ‘Unfunded Mandates Reform Act of 1995’.”
+Pub. L. 104–4, §1, Mar. 22, 1995, 109 Stat. 48, provided that: "This Act \[enacting this chapter and sections 658 to 658g of this title, amending sections 602, 632, and 653 of this title, and enacting provisions set out as notes under sections 1511 and 1531 of this title\] may be cited as the 'Unfunded Mandates Reform Act of 1995'."
 

@@ -32,7 +32,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–623, §602(e)(3), substituted "(relating to trade secrets and commercial orfinancial information which is privileged or confidential)" for "(relating to trade secrets and confidential commercial and financial information)".
+<b>1984</b>—Subsec. (b). Pub. L. 98–623, §602(e)(3), substituted "(relating to trade secrets and commercial or financial information which is privileged or confidential)" for "(relating to trade secrets and confidential commercial and financial information)".
 
 Subsec. (b)(2)(B). Pub. L. 98–623, §602(e)(18), substituted "Administrator" for "administrator".
 

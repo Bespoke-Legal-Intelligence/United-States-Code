@@ -6,7 +6,7 @@ Any consumer product offered for importation into the customs territory of the U
 
 &emsp;(1) fails to comply with an applicable consumer product safety rule;
 
-&emsp;(2) is not accompanied by a certificate required by this chapter or any other Act enforced by the Commission, or is accompaniedby a false certificate, if the manufacturer in the exercise of due care has reason to know that the certificate is false or misleading in any material respect, or is not accompanied by any label or certificate (including tracking labels) required under section 2063 of this title or any rule or regulation under such section;
+&emsp;(2) is not accompanied by a certificate required by this chapter or any other Act enforced by the Commission, or is accompanied by a false certificate, if the manufacturer in the exercise of due care has reason to know that the certificate is false or misleading in any material respect, or is not accompanied by any label or certificate (including tracking labels) required under section 2063 of this title or any rule or regulation under such section;
 
 &emsp;(3) is or has been determined to be an imminently hazardous consumer product in a proceeding brought under section 2061 of this title;
 
@@ -132,7 +132,7 @@ Report to Congress.—Not later than 180 days after completion of the risk asses
 
 &emsp;&emsp;"(B) the Commission's access to the Automated Targeting System; and
 
-&emsp;&emsp;"(C) the effectiveness of the International Trade Data System in enhancing cooperation between the Commission and U.S. Customs and Border Protection for the purpose of identifying shipments of consumer products in violation of section 17(a) ofthe Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission;
+&emsp;&emsp;"(C) the effectiveness of the International Trade Data System in enhancing cooperation between the Commission and U.S. Customs and Border Protection for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission;
 
 &emsp;"(4) Whether the Commission requires additional statutory authority under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\], the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\], or the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] in order to implement the risk assessment methodology required under this section.
 

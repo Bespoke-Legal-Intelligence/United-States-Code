@@ -24,7 +24,7 @@ The Administrator shall conduct a continuing program of development, testing, an
 
 #### (b) Limitation on manufacture and sale of equipment
 
-The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to the extent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
+The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to theextent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
 
 #### (c) Management studies
 

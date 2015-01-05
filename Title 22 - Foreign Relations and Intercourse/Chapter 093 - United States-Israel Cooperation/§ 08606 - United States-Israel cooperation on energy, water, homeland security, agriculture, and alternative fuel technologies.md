@@ -1,0 +1,42 @@
+### §8606. United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies
+
+#### (a) In general
+
+The President is authorized, subject to existing law—
+
+&emsp;(1) to undertake activities in cooperation with Israel; and
+
+&emsp;(2) to provide assistance promoting cooperation in the fields of energy, water, agriculture, and alternative fuel technologies.
+
+#### (b) Requirements
+
+In carrying out subsection (a), the President is authorized, subject to existing requirements of law and any applicable agreements or understandings between the United States and Israel—
+
+&emsp;(1) to share and exchange with Israel research, technology, intelligence, information, equipment, and personnel, including through sales, leases, or exchanges in kind, that the President determines will advance the national security interests of the United States and are consistent with the Strategic Dialogue and pertinent provisions of law; and
+
+&emsp;(2) to enhance scientific cooperation between Israel and the United States.
+
+#### (c) Cooperative research pilot programs
+
+The Secretary of Homeland Security, acting through the Director of the Homeland Security Advanced Research Projects Agency and with the concurrence of the Secretary of State, is authorized, subject to existing law, to enter into cooperative research pilot programs with Israel to enhance Israel's capabilities in—
+
+&emsp;(1) border, maritime, and aviation security;
+
+&emsp;(2) explosives detection; and
+
+&emsp;(3) emergency services.
+
+(Pub. L. 113–296, §7, Dec. 19, 2014, 128 Stat. 4077.)
+
+#### Codification
+
+Section was enacted as part of the United States-Israel Strategic Partnership Act of 2014, and not as part of the United States-Israel Enhanced Security Cooperation Act of 2012 which comprises this chapter.
+
+#### Constructive Regional Energy Cooperation
+
+Pub. L. 113–296, §12(c)(2), Dec. 19, 2014, 128 Stat. 4081, provided that: "The Secretary of State shall continue the ongoing diplomacy efforts of the Secretary of State in—
+
+&emsp;"(A) engaging and supporting the energy security of Israel; and
+
+&emsp;"(B) promoting constructive regional energy cooperation in the Eastern Mediterranean."
+

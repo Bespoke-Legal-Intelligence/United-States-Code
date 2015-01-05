@@ -10,7 +10,7 @@
 | [804\.](Subchapter%20001%20%28I%29%20-%20Congressional%20Award%20Program/%C2%A7%2000804%20-%20Administration.md) | Administration. |
 | [805\.](Subchapter%20001%20%28I%29%20-%20Congressional%20Award%20Program/%C2%A7%2000805%20-%20Regional%20award%20directors%20of%20program%3B%20appointment%20criteria.md) | Regional award directors of program; appointment criteria. |
 | [806\.](Subchapter%20001%20%28I%29%20-%20Congressional%20Award%20Program/%C2%A7%2000806%20-%20Powers%2C%20functions%2C%20and%20limitations.md) | Powers, functions, and limitations. |
-| [807\.](Subchapter%20001%20%28I%29%20-%20Congressional%20Award%20Program/%C2%A7%2000807%20-%20Audits%20and%20evaluation.md) | Audits and evaluation. |
+| [807\.](Subchapter%20001%20%28I%29%20-%20Congressional%20Award%20Program/%C2%A7%2000807%20-%20Audits.md) | Audits. |
 | [808\.](Subchapter%20001%20%28I%29%20-%20Congressional%20Award%20Program/%C2%A7%2000808%20-%20Termination.md) | Termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

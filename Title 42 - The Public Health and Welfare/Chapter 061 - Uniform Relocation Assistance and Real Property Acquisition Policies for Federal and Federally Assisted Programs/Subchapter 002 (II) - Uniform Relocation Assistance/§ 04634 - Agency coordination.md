@@ -22,7 +22,7 @@ Not later than 1 year after July 6, 2012, each Federal agency responsible for fu
 
 #### (2) Included costs
 
-&emsp;The cost to a Federal agency of providing the funds described in paragraph (1) shall beincluded as part of the cost of 1 or more programs or projects undertaken by the Federal agency or with Federal financial assistance that result in the displacement of persons or the acquisition of real property.
+&emsp;The cost to a Federal agency of providing the funds described in paragraph (1) shall be included as part of the cost of 1 or more programs or projects undertaken by the Federal agency or with Federal financial assistance that result in the displacement of persons or the acquisition of real property.
 
 (Pub. L. 91–646, title II, §214, as added Pub. L. 112–141, div. A, title I, §1521(e), July 6, 2012, 126 Stat. 578.)
 

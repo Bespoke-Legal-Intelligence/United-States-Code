@@ -34,7 +34,7 @@ Each small business investment company shall be examined at least every two year
 
 #### (A) In general
 
-&emsp;&emsp;Each licensee shall submit to the Administrator a written valuation of the loans and investments of the licensee not less often than semiannually or otherwise upon the request of the Administrator, except that any licensee with no leverage outstanding shall submit such valuations annually, unless the Administrator determines otherwise.
+&emsp;&emsp;Each licensee shall submit to the Administrator a written valuation of the loans andinvestments of the licensee not less often than semiannually or otherwise upon the request of the Administrator, except that any licensee with no leverage outstanding shall submit such valuations annually, unless the Administrator determines otherwise.
 
 #### (B) Material adverse changes
 

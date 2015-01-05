@@ -34,7 +34,7 @@ For the purposes of this chapter, a transition government in Cuba is a governmen
 
 #### (b) Additional factors
 
-In addition to the requirements in subsection (a) of this section, in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
+In addition to the requirements in subsection (a), in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
 
 &emsp;(1) is demonstrably in transition from a communist totalitarian dictatorship to representative democracy;
 
@@ -56,5 +56,5 @@ In addition to the requirements in subsection (a) of this section, in determinin
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For completeclassification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 

@@ -54,7 +54,7 @@ Par. (3). Pub. L. 102–83, §5(c)(1), substituted "3452(b)" for "1652(b)".
 
 Pub. L. 104–275, title I, §101(j), Oct. 9, 1996, 110 Stat. 3325, provided that:
 
-"(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 3102 to 3109, 3117, 3118, and 3120 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].
+"(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 3102 to 3109, 3117, 3118, and 3120 of this title\]shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].
 
 "(2) The amendments made by subsection (a) (other than paragraph (2)) \[amending this section\], subsection (d) (other than subparagraphs (A) and (B) of paragraph (1)) \[amending section 3104 of this title\], and subsection (i) \[amending section 3120 of this title\] shall only apply with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under chapter 31 of title 38, United States Code, received by the Secretary of Veterans Affairs on or after the date of the enactment of this Act, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under such chapter."
 

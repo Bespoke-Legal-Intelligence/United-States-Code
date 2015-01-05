@@ -12,7 +12,7 @@ If a share of stock is transferred to an individual in a transfer in respect of 
 
 #### (b) Effect of disqualifying disposition
 
-If the transfer of a share of stock to an individual pursuant to his exercise of an option would otherwise meet the requirements of section 422(a) or 423(a) except that there is a failure to meet any of the holding period requirements of section 422(a)(1) or 423(a)(1), then any increase in the income of such individual or deduction from the income of his employer corporation for the taxable year in which such exercise occurred attributable to such disposition, shall be treated as an increase in income or a deduction from income in the taxable year of such individual or of such employer corporation in which such disposition occurred. No amount shall be required to be deducted and withheld under chapter 24 with respect to any increase in income attributable to a disposition described in the preceding sentence.
+If the transfer of a share of stock to an individual pursuant to his exercise of an option would otherwise meet the requirements of section 422(a) or 423(a) except that there is a failure to meet any of the holding period requirements of section 422(a)(1) or 423(a)(1), then any increase in the income of such individual or deduction from the income of his employer corporation for the taxable year in which such exercise occurred attributable to such disposition, shall be treated as an increase in income or a deduction from income in the taxable year of such individual or of such employer corporation in which such disposition occurred. No amount shall be required to be deducted and withheld under chapter 24with respect to any increase in income attributable to a disposition described in the preceding sentence.
 
 #### (c) Exercise by estate
 
@@ -84,7 +84,7 @@ Subsec. (d)(7). Pub. L. 85–866, §26(a)(2), added par. (7).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title II, §251(d), Oct. 22, 2004, 118 Stat. 1459, provided that: "The amendments made by this section \[amending this section, sections 423, 3121, 3231, and 3306 of this title, and section 409 of Title 42, The Public Health and Welfare\] shall apply to stock acquired pursuant to options exercised after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title II, §251(d), Oct. 22, 2004, 118 Stat. 1459, provided that: "The amendments made by thissection \[amending this section, sections 423, 3121, 3231, and 3306 of this title, and section 409 of Title 42, The Public Health and Welfare\] shall apply to stock acquired pursuant to options exercised after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 Pub. L. 108–357, title VIII, §905(b), Oct. 22, 2004, 118 Stat. 1653, provided that: "The amendment made by this section \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 2004\]."
 

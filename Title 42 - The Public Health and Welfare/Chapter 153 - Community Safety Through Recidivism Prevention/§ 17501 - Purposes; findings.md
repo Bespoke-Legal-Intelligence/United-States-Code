@@ -28,7 +28,7 @@ Congress finds the following:
 
 &emsp;(4) According to the Bureau of Justice Statistics, expenditures on corrections alone increased from $9,000,000,000 in 1982, to $59,600,000,000 in 2002. These figures do not include the cost of arrest and prosecution, nor do they take into account the cost to victims.
 
-&emsp;(5) The Serious and Violent Offender Reentry Initiative (SVORI) provided $139,000,000 in funding for State governments to develop and implement education, job training, mental health treatment, and substance abuse treatment for serious and violent offenders. ThisAct seeks to build upon the innovative and successful State reentry programs developed under the SVORI, which terminated after fiscal year 2005.
+&emsp;(5) The Serious and Violent Offender Reentry Initiative (SVORI) provided $139,000,000 in funding for State governments to develop and implement education, job training, mental health treatment, and substance abuse treatment for serious and violent offenders. This Act seeks to build upon the innovative and successful State reentry programs developed under the SVORI, which terminated after fiscal year 2005.
 
 &emsp;(6) Between 1991 and 1999, the number of children with a parent in a Federal or State correctional facility increased by more than 100 percent, from approximately 900,000 to approximately 2,000,000. According to the Bureau of Prisons, there is evidence to suggest that inmates who are connected to their children and families are more likely to avoid negative incidents and have reduced sentences.
 
@@ -62,7 +62,7 @@ Congress finds the following:
 
 #### References in Text
 
-The Act and this Act, referred to in subsecs. (a) and (b)(5), are Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+The Act and this Act, referred to in subsecs. (a) and (b)(5), are Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657,known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 

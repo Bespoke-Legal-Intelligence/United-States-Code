@@ -30,7 +30,7 @@
 
 #### (ii) Secretarial authority
 
-&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which thepayor is predominantly engaged and in which the payment of the accrued amounts occurs within 8½ months after accrual or within such other period as the Secretary may prescribe.
+&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which the payor is predominantly engaged and in which the payment of the accrued amounts occurs within 8½ months after accrual or within such other period as the Secretary may prescribe.
 
 #### (b) Relationships
 
@@ -84,11 +84,11 @@ For purposes of determining, in applying subsection (b), the ownership of stock�
 
 If—
 
-&emsp;(1) in the case of a sale or exchange of property to the taxpayer a loss sustained by the transferor is not allowable to the transferor as a deduction by reason of subsection (a)(1) (or by reason of section 24(b) of the Internal Revenue Code of 1939); and
+&emsp;(1) in the case of a sale or exchange of property to the taxpayer a loss sustained by the transferor is not allowable to the transferor as a deduction by reason of subsection (a)(1); and
 
-&emsp;(2) after December 31, 1953, the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in his hands is determined directly or indirectly by reference to such property) at a gain,
+&emsp;(2) the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in his hands is determined directly or indirectly by reference to such property) at a gain,
 
-> then such gain shall be recognized only to the extent that it exceeds so much of such loss as is properly allocable to the property sold or otherwise disposed of by the taxpayer. This subsection applies with respect to taxable years ending after December 31, 1953. This subsection shall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales) or by reason of section 118 of the Internal Revenue Code of 1939.
+> then such gain shall be recognized only to the extent that it exceeds so much of such loss as is properly allocable to the property sold or otherwise disposed of by the taxpayer. This subsection shall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales).
 
 #### (e) Special rules for pass-thru entities
 
@@ -226,13 +226,15 @@ If—
 
 Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title VIII, §841(b), Oct. 22, 2004, 118 Stat. 1598; Pub. L. 111–325, title III, §306(b), Dec. 22, 2010, 124 Stat. 3549.)
-
-#### References in Text
-
-Sections 24(b) and 118 of the Internal Revenue Code of 1939, referred to in subsec. (d), were classified to sections 24(b) and 118 of former Title 26, Internal Revenue Code. Sections 24(b) and 118 were repealed by section 7851(a)(1) of this title. For table of comparisons of the 1939 Code to the 1986 Code \[formerly I.R.C. 1954\], see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title VIII, §841(b), Oct. 22, 2004, 118 Stat. 1598; Pub. L. 111–325, title III, §306(b), Dec. 22, 2010, 124 Stat. 3549; Pub. L. 113–295, div. A, title II, §221(a)(44), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–295, in concluding provisions, struck out "This subsection applies with respect to taxable years ending after December 31, 1953. " after "by the taxpayer." and "or by reason of section 118 of the Internal Revenue Code of 1939" after "sales)".
+
+Subsec. (d)(1). Pub. L. 113–295 struck out "(or by reason of section 24(b) of the Internal Revenue Code of 1939)" after "subsection (a)(1)".
+
+Subsec. (d)(2). Pub. L. 113–295 struck out "after December 31, 1953," before "the taxpayer".
 
 <b>2010</b>—Subsec. (f)(3)(D). Pub. L. 111–325 added subpar. (D).
 
@@ -272,7 +274,7 @@ Subsec. (b)(12). Pub. L. 98–369, §174(b)(4), substituted "the same persons" f
 
 Subsec. (e). Pub. L. 98–369, §174(b)(1), added subsec. (e).
 
-Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for purposes of subsection (a)(2) where the last day of the 2½ month period falls on Saturday, Sunday, or a legal holiday, such last day be treated asfalling on the next succeeding day which is not a Saturday, Sunday, or a legal holiday, and the determination of what constitutes a legal holiday be made under section 7503 with respect to the payor's return of tax under this chapter for the preceding taxable year.
+Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for purposes of subsection (a)(2) where the last day of the 2½ month period falls on Saturday, Sunday, or a legal holiday, such last day be treated as falling on the next succeeding day which is not a Saturday, Sunday, or a legal holiday, and the determination of what constitutes a legal holiday be made under section 7503 with respect to the payor's return of tax under this chapter for the preceding taxable year.
 
 Subsec. (f). Pub. L. 98–369, §174(b)(2)(B), added subsec. (f).
 
@@ -285,6 +287,10 @@ Pub. L. 98–369, §721(s), in closing provision of par. (1) substituted "then a
 Subsec. (f). Pub. L. 97–354, §3(h)(2), added subsec. (f).
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–628 added subsec. (e).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -336,7 +342,7 @@ Subsection (b)
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by subsection (b) (other than paragraph (1) thereof) \[amending this section and sections 170, 368, 514, and 1235 of this title\] shall apply to transactions after December 31, 1983, in taxable years ending after such date.
+In general.—Except as provided in subparagraph (B), the amendments made by subsection (b) (other than paragraph (1) thereof) \[amending this section and sections 170, 368, 514, and 1235 of this title\]shall apply to transactions after December 31, 1983, in taxable years ending after such date.
 
 &emsp;"(B)
 
@@ -366,7 +372,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–628, §2(b), Nov. 10, 1978, 92 Stat. 3627, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to payments made after the date of the enactment of this Act \[Nov. 10, 1978\]."
+Pub. L. 95–628, §2(b), Nov. 10, 1978, 92 Stat. 3627, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to payments made after the date of the enactment of this Act \[Nov. 10, 1978\]."
 
 #### Construction of Section 806 of Pub. L. 99–514
 

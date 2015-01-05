@@ -28,7 +28,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "dual consolidated loss" means any net operating loss of a domestic corporation which is subject to an income tax of a foreign country on its income without regard to whether such income is from sources in or outside of such foreign country, or is subject to such a tax on a residence basis.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "dual consolidated loss" means any net operating loss of a domestic corporation which is subject to an income tax of a foreign country on its income without regard to whether such income is fromsources in or outside of such foreign country, or is subject to such a tax on a residence basis.
 
 #### (B) Special rule where loss not used under foreign law
 
@@ -40,7 +40,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (4) Income on assets acquired after the loss
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate toprevent the avoidance of the purposes of this subsection by contributing assets to the corporation with the dual consolidated loss after such loss was sustained.
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this subsection by contributing assets to the corporation with the dual consolidated loss after such loss was sustained.
 
 #### (e) Special rule for determining adjustments to basis
 
@@ -204,7 +204,7 @@ Subsec. (d). Pub. L. 88–272, §234(b)(1), redesignated subsec. (d) as (b).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property placed in service after Dec. 31,1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -220,7 +220,7 @@ Binding contract exception.—For purposes of section 1503(f)(3)(D) of the Inter
 
 "(3)
 
-Special rule when subsidiary leaves group.—If, by reason of a transaction after November 17, 1989,a corporation ceases to be, or becomes, a member of an affiliated group, the stock of such corporation shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such cessation or commencement, unless such transaction is of a kind which would not result in the recognition of any deferred intercompany gain under the consolidated return regulations by reason of the acquisition of the entire group.
+Special rule when subsidiary leaves group.—If, by reason of a transaction after November 17, 1989, a corporation ceases to be, or becomes, a member of an affiliated group, the stock of such corporation shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such cessation or commencement, unless such transaction is of a kind which would not result in the recognition of any deferred intercompany gain under the consolidated return regulations by reason of the acquisition of the entire group.
 
 "(4)
 
@@ -324,7 +324,7 @@ Pub. L. 88–272, title II, §234(c), Feb. 26, 1964, 78 Stat. 116, provided that
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1960, see section 4 of Pub.L. 86–780, set out as a note under section 904 of this title.
+Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1960, see section 4 of Pub. L. 86–780, set out as a note under section 904 of this title.
 
 #### Savings Provision
 

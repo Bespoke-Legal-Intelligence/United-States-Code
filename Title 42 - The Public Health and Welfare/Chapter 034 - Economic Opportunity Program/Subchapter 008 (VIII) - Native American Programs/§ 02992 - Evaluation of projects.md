@@ -24,7 +24,7 @@ The Commissioner shall publish the results of evaluative research and summaries 
 
 #### (f) Evaluation results as United States property
 
-The Commissioner shall take the necessary action to assure that all studies, evaluations, proposals, and data produced or developed with assistance under this subchapter shall become the property of the United States.
+The Commissioner shall take the necessary action to assure that all studies, evaluations,proposals, and data produced or developed with assistance under this subchapter shall become the property of the United States.
 
 (Pub. L. 88–452, title VIII, §811, formerly §810, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2326; renumbered §811, Pub. L. 100–175, title V, §502(3), Nov. 29, 1987, 101 Stat. 973; amended Pub. L. 102–375, title VIII, §822(11), Sept. 30, 1992, 106 Stat. 1298.)
 
@@ -34,7 +34,7 @@ A prior section 2992, Pub. L. 88–452, title VIII, §810, as added Pub. L. 90�
 
 A prior section 811 of Pub. L. 88–452 was renumbered section 812 and is classified to section 2992a of this title.
 
-Another prior section 811 of Pub. L. 88–452, title VIII, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81Stat. 723; amended Pub. L. 92–424, §26(b), Sept. 19, 1972, 86 Stat. 703, related to terms of service and was classified to section 2992a of this title, prior to repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417.
+Another prior section 811 of Pub. L. 88–452, title VIII, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 723; amended Pub. L. 92–424, §26(b), Sept. 19, 1972, 86 Stat. 703, related to terms of service and was classified to section 2992a of this title, prior to repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417.
 
 #### Amendments
 

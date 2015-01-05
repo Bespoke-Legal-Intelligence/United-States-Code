@@ -30,6 +30,8 @@
 | [2035\.](%C2%A7%2002035%20-%20Simplified%20supplemental%20nutrition%20assistance%20program.md) | Simplified supplemental nutrition assistance program. |
 | [2036\.](%C2%A7%2002036%20-%20Availability%20of%20commodities%20for%20emergency%20food%20assistance%20program.md) | Availability of commodities for emergency food assistance program. |
 | [2036a.](%C2%A7%2002036a%20-%20Nutrition%20education%20and%20obesity%20prevention%20grant%20program.md) | Nutrition education and obesity prevention grant program. |
+| [2036b.](%C2%A7%2002036b%20-%20Retail%20food%20store%20and%20recipient%20trafficking.md) | Retail food store and recipient trafficking. |
+| [2036c.](%C2%A7%2002036c%20-%20Annual%20State%20report%20on%20verification%20of%20SNAP%20participation.md) | Annual State report on verification of SNAP participation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,3 +68,5 @@
 - [&sect; 02035 - Simplified supplemental nutrition assistance program](%C2%A7%2002035%20-%20Simplified%20supplemental%20nutrition%20assistance%20program.md)
 - [&sect; 02036 - Availability of commodities for emergency food assistance program](%C2%A7%2002036%20-%20Availability%20of%20commodities%20for%20emergency%20food%20assistance%20program.md)
 - [&sect; 02036a - Nutrition education and obesity prevention grant program](%C2%A7%2002036a%20-%20Nutrition%20education%20and%20obesity%20prevention%20grant%20program.md)
+- [&sect; 02036b - Retail food store and recipient trafficking](%C2%A7%2002036b%20-%20Retail%20food%20store%20and%20recipient%20trafficking.md)
+- [&sect; 02036c - Annual State report on verification of SNAP participation](%C2%A7%2002036c%20-%20Annual%20State%20report%20on%20verification%20of%20SNAP%20participation.md)

@@ -38,7 +38,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (C) If an amendment or amendments approved pursuant to subparagraph (A) or this subparagraph maintains or extends alienability restrictions for a specified period of time, termination of the restrictions at the close of such period may be postponed if a further amendment to the articles of incorporation of the corporation is approved to extend the restrictions. There shall be no limit on the number of such amendments that can be approved. Such amendments shall not be effective to extend the restrictions unless approved prior to the expiration of the period of maintenance or extension then in force.
 
-(D) The board of directors may ask the shareholders to approve en bloc pursuant to a single vote a series of amendments (including an amendment to authorize the issuance of stockpursuant to section 1606(g) of this title) to implement a recapitalization plan that includes a provision maintaining alienability restrictions.
+(D) The board of directors may ask the shareholders to approve en bloc pursuant to a single vote a series of amendments (including an amendment to authorize the issuance of stock pursuant to section 1606(g) of this title) to implement a recapitalization plan that includes a provision maintaining alienability restrictions.
 
 (2)(A) If an amendment to the articles of incorporation of a Native Corporation maintaining or extending alienability restrictions for a specified period of time is approved pursuant to paragraph (1), the restrictions shall automatically terminate at the end of such period unless the restrictions are extended in accordance with the provisions of paragraph (1)(C).
 
@@ -70,7 +70,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (D) If an amendment approved by the shareholders of a Native Corporation pursuant to subparagraph (B) or this subparagraph extends alienability restrictions for a specified period of time, termination of the restrictions at the close of such period may be postponed if a further amendment to the articles of incorporation of the corporation is approved to extend the restrictions. There shall be no limit on the number of such amendments that can be approved. Such amendments shall not be effective to extend the restrictions unless approved prior to the expiration of the period of extension then in force.
 
-(3)(A) If an amendment to the articles of incorporation of a Native Corporation extending alienability restrictions for a specified period of time is approved pursuant to paragraph (2), the restrictions shall automatically terminate at the end of such period unless the restrictions are extended in accordance with the provisions of paragraph (2)(D).
+(3)(A) If an amendment to the articles of incorporation of a Native Corporation extendingalienability restrictions for a specified period of time is approved pursuant to paragraph (2), the restrictions shall automatically terminate at the end of such period unless the restrictions are extended in accordance with the provisions of paragraph (2)(D).
 
 (B) If the board of directors of a Native Corporation electing application of this subsection does not submit for a shareholder vote an amendment to the articles of incorporation of the corporation in accordance with paragraph (2)(B), or if the amendment submitted does not comply with paragraph (2)(C), alienability restrictions shall not terminate and shall instead remain in effect until such time as a court of competent jurisdiction, upon petition of one or more shareholders of the corporation, orders that a shareholder vote be taken on an amendment which complies with paragraph (2)(C) and such vote is conducted. Following the vote, the status of alienability restrictions shall be determined in accordance with the other provisions of this subsection and the amendment, if approved.
 
@@ -114,7 +114,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (C) The articles of incorporation of the Native Corporation shall be deemed amended to implement the provisions of the resolution authorized by paragraph (5)(B).
 
-(D) Alienable common stock issued pursuant to this subparagraph shall not be subjected to a lien or judgment execution based upon any asserted or unasserted legal obligation of the original recipient arising prior to the issuance of such stock.
+(D) Alienable common stock issued pursuant to this subparagraph shall not be subjected to a lien or judgment execution based upon any asserted or unasserted legal obligation of theoriginal recipient arising prior to the issuance of such stock.
 
 (7)(A) No share of alienable common stock issued pursuant to paragraph (6) shall carry voting rights if it is owned, legally or beneficially, by a person not a Native or a descendant of a Native.
 

@@ -74,7 +74,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 #### (2) Disapproval
 
-&emsp;If the Secretary determines that a plan reviewed under this subsection fails to meet the requirements of this section, the Secretary shall disapprove the plan and notify the publicentity which submitted the plan of such disapproval and the reasons therefor.
+&emsp;If the Secretary determines that a plan reviewed under this subsection fails to meet the requirements of this section, the Secretary shall disapprove the plan and notify the public entity which submitted the plan of such disapproval and the reasons therefor.
 
 #### (3) Modification of disapproved plan
 

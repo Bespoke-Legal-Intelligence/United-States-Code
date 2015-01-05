@@ -256,7 +256,7 @@
 
 #### (A) Failure to meet requirements of paragraph (3)(A)
 
-&emsp;&emsp;If a qualified subchapter S trust ceases to meet any requirement of paragraph (3)(A), the provisions of this subsection shall not apply to such trust as of the date it ceases to meet such requirement.
+&emsp;&emsp;If a qualified subchapter S trust ceases to meet any requirement of paragraph (3)(A),the provisions of this subsection shall not apply to such trust as of the date it ceases to meet such requirement.
 
 #### (B) Failure to meet requirements of paragraph (3)(B)
 
@@ -326,7 +326,7 @@
 
 In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810;Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198.)
 
 #### References in Text
 
@@ -426,7 +426,7 @@ Subsec. (e)(1)(A)(i). Pub. L. 104–188, §1316(e), struck out "which holds a co
 
 <b>1986</b>—Subsec. (b)(2)(B). Pub. L. 99–514, §901(d)(4)(G), substituted "which is a bank (as defined in section 585(a)(2)) or to which section 593 applies" for "to which section 585 or 593 applies".
 
-Subsec. (d)(3). Pub. L. 99–514, §1879(m)(1)(A), inserted at end "A substantially separate and independent share of a trust treated as a separate trust under section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c)."
+Subsec. (d)(3). Pub. L. 99–514, §1879(m)(1)(A), inserted at end "A substantially separate and independent share of a trust treated as a separate trust under section663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c)."
 
 <b>1984</b>—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting "during any period within a taxable year" for "during any taxable year" in provisions preceding subpar. (A), and substituting "on or before the close of such period" for "on or after the date of its incorporation and before the close of such taxable year" in subpar. (A), and "does not have gross income for such period" for "does not have taxable income for the period included within such taxable year" in subpar. (B).
 
@@ -436,7 +436,7 @@ Subsec. (d)(2)(D). Pub. L. 98–369, §721(f)(1), substituted "15 days and 2 mon
 
 Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, redesignated subpar. (C) as (A), substituted a period for ", and" at end of subpar. (B), and struck out former subpar. (A) which read "which owns stock in 1 or more S corporations".
 
-Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions assubpar. (A), inserted "Failure to meet requirements of paragraph (3)(A)" as subpar. (A) heading, substituted "of paragraph (3)(A)" for "under paragraph (3)", and added subpar. (B).
+Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted "Failure to meet requirements of paragraph (3)(A)" as subpar. (A) heading, substituted "of paragraph (3)(A)" for "under paragraph (3)", and added subpar. (B).
 
 #### Effective Date of 2007 Amendment
 
@@ -514,7 +514,7 @@ Pub. L. 98–369, div. A, title VII, §721(y), July 18, 1984, 98 Stat. 972, as a
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, any amendment made by this section \[amending this section, sections 48, 108, 267, 318, 465, 1362, 1363, 1367, 1368, 1371, 1374, 1375, 1378, 1379, 6362, and 6659 and provisions set out as a note under this section\] shall take effect as if included in the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\].
+In general.—Except as otherwise provided in this subsection, any amendment made by this section\[amending this section, sections 48, 108, 267, 318, 465, 1362, 1363, 1367, 1368, 1371, 1374, 1375, 1378, 1379, 6362, and 6659 and provisions set out as a note under this section\] shall take effect as if included in the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\].
 
 "(2)
 

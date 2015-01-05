@@ -438,6 +438,7 @@
 | 7385s–13. | Funding of administrative costs. |
 | 7385s–14. | Payment of compensation and benefits from compensation fund. |
 | 7385s–15. | Office of Ombudsman. |
+| 7385s–16. | Advisory Board on Toxic Substances and Worker Health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

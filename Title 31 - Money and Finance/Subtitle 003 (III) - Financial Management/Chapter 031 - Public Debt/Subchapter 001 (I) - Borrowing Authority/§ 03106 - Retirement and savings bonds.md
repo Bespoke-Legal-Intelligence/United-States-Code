@@ -4,7 +4,7 @@
 
 (b) With the approval of the President, the Secretary may allow owners of retirement and savings bonds to keep the bonds after maturity and continue to earn interest on them at rates that are consistent with the rate of investment yield provided by retirement and savings bonds.
 
-(c) Section 3105(c)(1)–(5) of this title applies to this section. Sections 3105(c)(6) and (d) and 3126 of this title apply to this section to the extent consistent with this section. The Secretary may prescribe the maximum amount of retirementand savings bonds issued under this section in a year that may be held by one person. However, the maximum amount shall be at least $3,000.
+(c) Section 3105(c)(1)–(5) of this title applies to this section. Sections 3105(c)(6) and (d) and 3126 of this title apply to this section to the extent consistent with this section. The Secretary may prescribe the maximum amount of retirement and savings bonds issued under this section in a year that may be held by one person. However, the maximum amount shall be at least $3,000.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 941; Pub. L. 97–452, §1(8), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -32,7 +32,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §22A(a)–(c)(1st sentence), (d); added N
 
 31:757c–2(a)(last sentence), (b)(1)(2d sentence words before 1st comma, 3d, last sentences), (d).
 
-In subsection (a), the words "In addition to the United States savings bonds authorized to be issued under section 757c of this title" are omitted as surplus. The words "through the United States Postal Service or otherwise" are omitted as surplus and unnecessary because of 39:411. The words "and may buy, redeem, and make refunds under section 3111 of this title" are added because of the restatement. The words "and to retire any outstanding obligations of the United States bearing interest or issued on a discount basis" are omitted as unnecessary because of section 3111 of the revised title. The words "as the terms thereof may provide" are omitted because of the restatement.
+In subsection (a), the words "In addition to the United States savings bonds authorized to be issued under section 757c of this title" are omitted as surplus. The words "through the United States Postal Service or otherwise" are omitted as surplus and unnecessarybecause of 39:411. The words "and may buy, redeem, and make refunds under section 3111 of this title" are added because of the restatement. The words "and to retire any outstanding obligations of the United States bearing interest or issued on a discount basis" are omitted as unnecessary because of section 3111 of the revised title. The words "as the terms thereof may provide" are omitted because of the restatement.
 
 In subsection (b), the word "conditions" is substituted for "terms" for consistency in the revised title and with other titles of the United States Code. The words "by regulations" are omitted as unnecessary. The words "at their option" are omitted as surplus.
 

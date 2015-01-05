@@ -26,7 +26,7 @@ Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that
 
 #### Short Title of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1086(a), Jan. 2, 2013, 126 Stat. 1964, provided that: "This section \[amending sections 3791, 3796 to 3796c–2, 3796d–1 to 3796d–3, 3796d–5, and 3796d–6 of this title and sections 101 and 402 of Title26, Internal Revenue Code, and enacting provisions set out as a note under section 3791 of this title\] may be cited as the 'Dale Long Public Safety Officers' Benefits Improvements Act of 2012'."
+Pub. L. 112–239, div. A, title X, §1086(a), Jan. 2, 2013, 126 Stat. 1964, provided that: "This section \[amending sections 3791, 3796 to 3796c–2, 3796d–1 to 3796d–3, 3796d–5, and 3796d–6 of this title and sections 101 and 402 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 3791 of this title\] may be cited as the 'Dale Long Public Safety Officers' Benefits Improvements Act of 2012'."
 
 #### Short Title of 2012 Amendment
 
@@ -40,7 +40,7 @@ Pub. L. 110–416, §1(a), Oct. 14, 2008, 122 Stat. 4352, provided that: "This A
 
 Pub. L. 110–345, §1, Oct. 7, 2008, 122 Stat. 3938, provided that: "This Act \[amending section 3797cc–2 of this title\] may be cited as the 'Drug Endangered Children Act of 2007'."
 
-Pub. L. 110–315, title IX, §951, Aug. 14, 2008, 122 Stat. 3470, provided that: "This part \[part E (§§951, 952) of title IX of Pub. L. 110–315, enacting subchapter XX–A of this chapter\] may be cited as the 'John R. Justice Prosecutors and Defenders Incentive Act of 2008'."
+Pub. L. 110–315, title IX, §951, Aug. 14, 2008, 122 Stat. 3470, provided that: "This part \[part E (§§951, 952) oftitle IX of Pub. L. 110–315, enacting subchapter XX–A of this chapter\] may be cited as the 'John R. Justice Prosecutors and Defenders Incentive Act of 2008'."
 
 #### Short Title of 2004 Amendment
 
@@ -94,7 +94,7 @@ Pub. L. 103–322, title XXXII, §320701, Sept. 13, 1994, 108 Stat. 2121, provid
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title I, §1551, Oct. 27, 1986, 100 Stat. 3207–41, provided that: "This subtitle \[subtitle K (§§1551, 1552) of title I of Pub. L. 99–570, enacting subchapter XII–A of this chapter and amending sections3741, 3782, 3783, 3789, 3793, and 3797 of this title\] may be cited as the 'State and Local Law Enforcement Assistance Act of 1986'."
+Pub. L. 99–570, title I, §1551, Oct. 27, 1986, 100 Stat. 3207–41, provided that: "This subtitle \[subtitle K (§§1551, 1552) of title I of Pub. L. 99–570, enacting subchapter XII–A of this chapter and amending sections 3741, 3782, 3783, 3789, 3793, and 3797 of this title\] may be cited as the 'State and Local Law Enforcement Assistance Act of 1986'."
 
 #### Short Title of 1984 Amendment
 
@@ -102,7 +102,7 @@ Pub. L. 98–473, title II, §601, Oct. 12, 1984, 98 Stat. 2077, provided that: 
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–157, §1, Dec. 27, 1979, 93 Stat. 1167, provided: "That this Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, section 1761 of Title 18, Crimes and Criminal Procedure, and section 35 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1761 of Title 18\] may be cited as the 'Justice System Improvement Act of 1979'."
+Pub. L. 96–157, §1, Dec. 27, 1979, 93 Stat. 1167, provided: "That this Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organizationand Employees, section 1761 of Title 18, Crimes and Criminal Procedure, and section 35 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1761 of Title 18\] may be cited as the 'Justice System Improvement Act of 1979'."
 
 #### Short Title of 1976 Amendments
 

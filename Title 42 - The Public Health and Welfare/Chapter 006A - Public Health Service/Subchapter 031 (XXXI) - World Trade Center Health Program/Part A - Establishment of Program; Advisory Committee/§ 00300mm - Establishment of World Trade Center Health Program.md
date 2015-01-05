@@ -82,7 +82,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 &emsp;&emsp;&emsp;(iii) with respect to individuals so certified who received such treatment, on the WTC-related health conditions for which they were treated; and
 
-&emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B inthe succeeding fiscal year and the succeeding 10-year period.
+&emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B in the succeeding fiscal year and the succeeding 10-year period.
 
 #### (B) Monitoring, initial health evaluation, and treatment costs
 

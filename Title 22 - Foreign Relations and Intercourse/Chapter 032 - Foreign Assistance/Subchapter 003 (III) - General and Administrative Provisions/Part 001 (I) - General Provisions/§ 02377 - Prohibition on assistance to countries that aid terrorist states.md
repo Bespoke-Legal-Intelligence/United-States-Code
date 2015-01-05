@@ -6,7 +6,7 @@ The President shall withhold assistance under this chapter to the government of 
 
 #### (b) Waiver
 
-Assistance prohibited by this section may be furnished to a foreign government described in subsection (a) of this section if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
+Assistance prohibited by this section may be furnished to a foreign government described in subsection (a) if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
 
 &emsp;(1) a statement of the determination;
 
@@ -28,7 +28,7 @@ Another section 620G of Pub. L. 87–195 was renumbered section 620J and is clas
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Congressional Findings
 

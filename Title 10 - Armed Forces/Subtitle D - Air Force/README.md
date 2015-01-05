@@ -66,11 +66,6 @@
 | [<b>941.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20941%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material other than to Armed Forces</b> | <b>9651</b> |
 | [<b>943.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20943%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>9681</b> |
 | [<b>945.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20945%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons/README.md) | <b>Disposition of Effects of Deceased Persons</b> | <b>9712</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
 | [<b>947.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20947%20-%20Transportation/README.md) | <b>Transportation</b> | <b>9741</b> |
 | [<b>949.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20949%20-%20Real%20Property/README.md) | <b>Real Property</b> | <b>9771</b> |
 | [<b>951.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20951%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>9801</b> |

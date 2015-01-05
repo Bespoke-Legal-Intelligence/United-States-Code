@@ -48,7 +48,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (A) In general
 
-&emsp;&emsp;If for the last taxable year of a corporation for which it was an S corporation a loss or deduction was disallowed by reason of paragraph (1), such loss or deduction shall be treated as incurred by the shareholder on the last day of any post-termination transition period.
+&emsp;&emsp;If for the last taxable year of a corporation for which it was an S corporation a loss ordeduction was disallowed by reason of paragraph (1), such loss or deduction shall be treated as incurred by the shareholder on the last day of any post-termination transition period.
 
 #### (B) Cannot exceed shareholder's basis in stock
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 632(c)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
+Amendment by section 632(c)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 701(e)(4)(K) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 

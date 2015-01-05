@@ -58,7 +58,7 @@ Service on natural persons.—Service of any subpoena may be made upon any natur
 
 &emsp;&emsp;(A) delivering a duly executed copy to the person to be served; or
 
-&emsp;&emsp;(B) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such person at his residence or principal office or place of business.
+&emsp;&emsp;(B) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed tosuch person at his residence or principal office or place of business.
 
 &emsp;(5)
 
@@ -78,7 +78,7 @@ Jurisdiction.—Whenever any petition is filed in any district court of the Unit
 
 (d)
 
-Disclosure.—Any documentary material provided pursuant to any subpoena issued underthis section shall be exempt from disclosure under section 552 of title 5, United States Code.
+Disclosure.—Any documentary material provided pursuant to any subpoena issued under this section shall be exempt from disclosure under section 552 of title 5, United States Code.
 
 (Added Pub. L. 106–168, title I, §107(a), Dec. 12, 1999, 113 Stat. 1812.)
 

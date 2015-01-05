@@ -30,7 +30,7 @@
 
 &emsp;&emsp;For purposes of subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The term "brain-related tumor" means a listed primary tumor (whether malignant or benign) occurring in any of the following sites:
+&emsp;&emsp;&emsp;(i) The term "brain-related tumor" means a listed primary tumor (whethermalignant or benign) occurring in any of the following sites:
 
 &emsp;&emsp;&emsp;&emsp;(I) The brain, meninges, spinal cord, cauda equina, a cranial nerve or nerves, or any other part of the central nervous system.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(i) a means to assure complete reporting of cancer cases (as described in subsection (a) of this section) to the statewide cancer registry by hospitals or other facilities providing screening, diagnostic or therapeutic services to patients with respect to cancer;
 
-&emsp;&emsp;&emsp;(ii) a means to assure the complete reporting of cancer cases (as defined in subsection (a) of this section) to the statewide cancer registry by physicians, surgeons, and all other health care practitioners diagnosing or providing treatment for cancer patients, except for cases directly referred to or previously admitted to a hospital or other facility providing screening, diagnostic or therapeutic services to patients in that State and reported by those facilities;
+&emsp;&emsp;&emsp;(ii) a means to assure the complete reporting of cancer cases (as defined in subsection (a) of this section) to the statewide cancer registry by physicians, surgeons, and all other health care practitioners diagnosing or providing treatment for cancer patients, except for cases directly referred to or previously admitted to a hospital or other facility providing screening,diagnostic or therapeutic services to patients in that State and reported by those facilities;
 
 &emsp;&emsp;&emsp;(iii) a means for the statewide cancer registry to access all records of physicians and surgeons, hospitals, outpatient clinics, nursing homes, and all other facilities, individuals, or agencies providing such services to patients which would identify cases of cancer or would establish characteristics of the cancer, treatment of the cancer, or medical status of any identified patient;
 
@@ -138,7 +138,7 @@ Findings.—Congress finds that—
 
 &emsp;"(1) cancer control efforts, including prevention and early detection, are best addressed locally by State health departments that can identify unique needs;
 
-&emsp;"(2) cancer control programs and existing statewide population-based cancer registries have identified cancer incidence and cancer mortality rates that indicate the burden of cancer for Americans is substantial and varies widely by geographic location and by ethnicity;
+&emsp;"(2) cancer control programs and existing statewide population-based cancer registries have identifiedcancer incidence and cancer mortality rates that indicate the burden of cancer for Americans is substantial and varies widely by geographic location and by ethnicity;
 
 &emsp;"(3) statewide cancer incidence and cancer mortality data, can be used to identify cancer trends, patterns, and variation for directing cancer control intervention;
 

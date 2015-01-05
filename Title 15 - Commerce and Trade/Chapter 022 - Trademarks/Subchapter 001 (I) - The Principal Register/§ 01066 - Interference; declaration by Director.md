@@ -14,7 +14,7 @@ Act Feb. 20, 1905, ch. 592, §7, 33 Stat. 726.
 
 <b>1988</b>—Pub. L. 100–667 substituted "used on or in connection with the goods or services" for "applied to the goods or when used in connection with the services".
 
-<b>1982</b>—Pub. L. 97–247 substituted "Upon petition showing extraordinary circumstances, the Commissioner may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when applied to the goods or when used in connection with the services of the applicant to cause confusion or mistake or to deceive" for "Whenever application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when applied to the goods or when used in connection with the services of the applicant to cause confusion or mistake or to deceive, the Commissioner may declare that an interference exists".
+<b>1982</b>—Pub. L. 97–247 substituted "Upon petition showing extraordinary circumstances, the Commissioner may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when applied to the goods or when used in connection with the services of the applicant to cause confusion or mistake or to deceive" for "Whenever application is made for the registration ofa mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when applied to the goods or when used in connection with the services of the applicant to cause confusion or mistake or to deceive, the Commissioner may declare that an interference exists".
 
 <b>1962</b>—Pub. L. 87–772 struck out "purchasers" after "or to deceive".
 
@@ -36,5 +36,5 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

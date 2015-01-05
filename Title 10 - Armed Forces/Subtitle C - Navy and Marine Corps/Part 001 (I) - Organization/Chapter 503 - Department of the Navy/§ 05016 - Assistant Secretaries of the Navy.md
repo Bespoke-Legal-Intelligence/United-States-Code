@@ -10,7 +10,7 @@
 
 (4)(A) One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Research, Development, and Acquisition. The principal duty of the Assistant Secretary shall be the overall supervision of research, development, and acquisition matters of the Department of the Navy.
 
-(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a vice admiral of the Navy or a lieutenant general of the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1733 of this title.
+(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a vice admiral of the Navy or a lieutenant general of the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in theareas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1733 of this title.
 
 (Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1047; amended Pub. L. 100–456, div. A, title VII, §702(b)\[(1)\], Sept. 29, 1988, 102 Stat. 1994; Pub. L. 110–181, div. A, title IX, §908(b), Jan. 28, 2008, 122 Stat. 278.)
 

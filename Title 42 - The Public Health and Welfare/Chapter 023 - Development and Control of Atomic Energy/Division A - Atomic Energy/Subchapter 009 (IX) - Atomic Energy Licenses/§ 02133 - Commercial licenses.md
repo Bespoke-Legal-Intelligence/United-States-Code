@@ -18,13 +18,13 @@ No license under this section may be given to any person for activities which ar
 
 #### (f) <sup>2</sup> Accident notification condition; license revocation; license amendment to include condition
 
-Each license issued for a utilization facility under this section or section 2134(b) of this title shall require as a condition thereof that in case of any accident which could result in an unplanned release of quantities of fission products in excess of allowable limits for normal operation established by the Commission, the licensee shall immediately so notify the Commission. Violation of the condition prescribed by this subsection may, in the Commission's discretion, constitute grounds for license revocation. In accordance with section 2237 of this title, the Commission shall promptly amend each license for a utilization facility issued under this section or section 2134(b) of this title which is in effect on June 30, 1980, to include the provisions required under this subsection.
+Each license issued for a utilization facility under this section or section 2134(b) of this titleshall require as a condition thereof that in case of any accident which could result in an unplanned release of quantities of fission products in excess of allowable limits for normal operation established by the Commission, the licensee shall immediately so notify the Commission. Violation of the condition prescribed by this subsection may, in the Commission's discretion, constitute grounds for license revocation. In accordance with section 2237 of this title, the Commission shall promptly amend each license for a utilization facility issued under this section or section 2134(b) of this title which is in effect on June 30, 1980, to include the provisions required under this subsection.
 
 (Aug. 1, 1946, ch. 724, title I, §103, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Aug. 6, 1956, ch. 1015, §§12, 13, 70 Stat. 1071; Pub. L. 91–560, §4, Dec. 19, 1970, 84 Stat. 1472; Pub. L. 96–295, title II, §201, June 30, 1980, 94 Stat. 786; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §621, Aug. 8, 2005, 119 Stat. 782.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, asadded by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) a group health plan and a health insurance issuer offering group health coverage shall provide an internal claims and appeals process that initially incorporates the claims and appeals procedures (including urgent claims) set forth at section 2560.503–1 of title 29, Code of Federal Regulations, as published on November 21, 2000 (65 Fed. Reg. 70256), and shall update such process in accordance with any standards established by the Secretary of Labor for such plans and issuers; and
 
-&emsp;&emsp;(B) a health insurance issuer offering individual health coverage, and any other issuernot subject to subparagraph (A), shall provide an internal claims and appeals process that initially incorporates the claims and appeals procedures set forth under applicable law (as in existence on March 23, 2010), and shall update such process in accordance with any standards established by the Secretary of Health and Human Services for such issuers.
+&emsp;&emsp;(B) a health insurance issuer offering individual health coverage, and any other issuer not subject to subparagraph (A), shall provide an internal claims and appeals process that initially incorporates the claims and appeals procedures set forth under applicable law (as in existence on March 23, 2010), and shall update such process in accordance with any standards established by the Secretary of Health and Human Services for such issuers.
 
 #### (b) External review
 
@@ -44,5 +44,5 @@ The Secretary may deem the external review process of a group health plan or hea
 
 #### Effective Date
 
-Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
+Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
 

@@ -14,7 +14,7 @@ In this section, the term "socially disadvantaged farmer or rancher" has the mea
 
 &emsp;For each county and State in the United States, the Secretary of Agriculture (referred to in this section as the "Secretary") shall annually compile program application and participation rate data regarding socially disadvantaged farmers or ranchers by computing for each program of the Department of Agriculture that serves agricultural producers and landowners—
 
-&emsp;&emsp;(A) raw numbers of applicants and participants by race, ethnicity, and gender, subject to appropriate privacy protections, as determined by the Secretary; and
+&emsp;&emsp;(A) raw numbers of applicants and participants by race, ethnicity, and gender, subjectto appropriate privacy protections, as determined by the Secretary; and
 
 &emsp;&emsp;(B) the application and participation rate, by race, ethnicity, and gender, as a percentage of the total participation rate of all agricultural producers and landowners.
 
@@ -52,19 +52,21 @@ In this section, the term "socially disadvantaged farmer or rancher" has the mea
 
 #### (e) Receipt for service or denial of service
 
-In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners and, at the time of the request, also requests a receipt, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
+In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
 
 &emsp;(1) the date, place, and subject of the request; and
 
 &emsp;(2) the action taken, not taken, or recommended to the producer or landowner.
 
-(Pub. L. 101–624, title XXV, §2501A, as added Pub. L. 107–171, title X, §10708(a), May 13, 2002, 116 Stat. 522; amended Pub. L. 110–234, title XIV, §§14003, 14006, May 22, 2008, 122 Stat. 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14003, 14006, June 18, 2008, 122 Stat. 1664, 2205, 2207.)
+(Pub. L. 101–624, title XXV, §2501A, as added Pub. L. 107–171, title X, §10708(a), May 13, 2002, 116 Stat. 522; amended Pub. L. 110–234, title XIV, §§14003, 14006, May 22, 2008, 122 Stat. 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14003, 14006, June 18, 2008, 122 Stat. 1664, 2205, 2207; Pub. L. 113–79, title XII, §12204, Feb. 7, 2014, 128 Stat. 984.)
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e). Pub. L. 113–79, in introductory provisions, struck out "and, at the time of the request, also requests a receipt" after "landowners".
 
 <b>2008</b>—Subsecs. (c), (d). Pub. L. 110–246, §14006, added subsecs. (c) and (d) and struck out former subsec. (c) which related to annual computation of the participation rate of socially disadvantaged farmers and ranchers as a percentage of the total participation of all farmers and ranchers for each Department of Agriculture program and requirement that participation according to race, ethnicity, and gender be included in each report.
 

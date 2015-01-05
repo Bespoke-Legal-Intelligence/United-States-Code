@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to any New Markets Venture Capital company that violates or fails to comply with any of the provisions of this chapter, of any regulation issued under this chapter, or of any participation agreement entered into under this chapter, the Administrator may in accordance with this section—
+With respect to any New Markets Venture Capital company that violates or fails to complywith any of the provisions of this chapter, of any regulation issued under this chapter, or of any participation agreement entered into under this chapter, the Administrator may in accordance with this section—
 
 &emsp;(1) void the participation agreement between the Administrator and the company; and
 

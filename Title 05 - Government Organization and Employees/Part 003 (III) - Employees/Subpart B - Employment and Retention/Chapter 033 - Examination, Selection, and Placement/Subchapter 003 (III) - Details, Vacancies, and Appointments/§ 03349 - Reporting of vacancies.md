@@ -32,7 +32,7 @@ A prior section 3349, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided fo
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
 
 #### Change of Name
 

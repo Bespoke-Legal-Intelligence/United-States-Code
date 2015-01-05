@@ -28,7 +28,7 @@ National Quality Management Officer.—(1) The Under Secretary for Health shall 
 
 Quality Management Officers for VISNs.—(1) The Regional Director of each Veterans Integrated Services Network shall appoint an official of the Network to act as the quality management officer of the Network.
 
-(2) The quality management officer for a Veterans Integrated Services Network shall report to the Regional Director of the Veterans Integrated Services Network, and to the NationalQuality Management Officer, regarding the discharge of the responsibilities and duties of the officer under this section.
+(2) The quality management officer for a Veterans Integrated Services Network shall report to the Regional Director of the Veterans Integrated Services Network, and to the National Quality Management Officer, regarding the discharge of the responsibilities and duties of the officer under this section.
 
 (3) The quality management officer for a Veterans Integrated Services Network shall—
 

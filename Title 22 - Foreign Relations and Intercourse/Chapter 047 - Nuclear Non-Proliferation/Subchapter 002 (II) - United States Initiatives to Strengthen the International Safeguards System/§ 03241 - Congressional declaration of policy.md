@@ -8,13 +8,13 @@ The United States is committed to continued strong support for the principles of
 
 &emsp;(c) improve the IAEA safeguards system (including accountability) to ensure—
 
-&emsp;&emsp;(1) the timely detection of a possible diversion of source or special nuclear materials which could be used for nuclear explosive devices;
+&emsp;&emsp;(1) the timely detection of a possible diversion of source or special nuclear materialswhich could be used for nuclear explosive devices;
 
 &emsp;&emsp;(2) the timely dissemination of information regarding such diversion; and
 
 &emsp;&emsp;(3) the timely implementation of internationally agreed procedures in the event of such diversion;
 
-&emsp;(d) ensure that the IAEA receives on a timely basis the data needed for it to administer an effective and comprehensive internationalsafeguards program and that the IAEA provides timely notice to the world community of any evidence of a violation of any safeguards agreement to which it is a party; and
+&emsp;(d) ensure that the IAEA receives on a timely basis the data needed for it to administer an effective and comprehensive international safeguards program and that the IAEA provides timely notice to the world community of any evidence of a violation of any safeguards agreement to which it is a party; and
 
 &emsp;(e) encourage the IAEA, to the maximum degree consistent with the Statute, to provide nations which supply nuclear materials and equipment with the data needed to assure such nations of adherence to bilateral commitments applicable to such supply.
 

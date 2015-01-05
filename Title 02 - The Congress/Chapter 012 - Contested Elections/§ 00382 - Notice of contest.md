@@ -28,7 +28,7 @@ Service of the notice of contest upon contestee shall be made as follows:
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §211(3)(A), struck out “to the House of Representatives” after “for election”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §211(3)(A), struck out "to the House of Representatives" after "for election".
 
-Subsec. (c)(4), (5). Pub. L. 104–186, §211(3)(B), struck out “or” at end of par. (4) and inserted “or” at end of par. (5).
+Subsec. (c)(4), (5). Pub. L. 104–186, §211(3)(B), struck out "or" at end of par. (4) and inserted "or" at end of par. (5).
 

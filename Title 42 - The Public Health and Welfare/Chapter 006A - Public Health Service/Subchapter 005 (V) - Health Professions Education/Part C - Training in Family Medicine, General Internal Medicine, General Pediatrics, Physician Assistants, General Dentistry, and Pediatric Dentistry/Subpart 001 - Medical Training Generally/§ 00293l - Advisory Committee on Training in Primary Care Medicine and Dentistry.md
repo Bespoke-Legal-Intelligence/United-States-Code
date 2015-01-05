@@ -58,7 +58,7 @@ The Advisory Committee shall—
 
 #### (1) Meetings
 
-&emsp;The Advisory Committee shall meet not less than 2 times each year. Such meetings shall beheld jointly with other related entities established under this subchapter where appropriate.
+&emsp;The Advisory Committee shall meet not less than 2 times each year. Such meetings shall be held jointly with other related entities established under this subchapter where appropriate.
 
 #### (2) Documents
 

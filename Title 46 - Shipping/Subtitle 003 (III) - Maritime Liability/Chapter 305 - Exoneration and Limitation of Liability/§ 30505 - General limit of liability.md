@@ -6,7 +6,7 @@ In General.—Except as provided in section 30506 of this title, the liability o
 
 (b)
 
-Claims Subject to Limitation.—Unless otherwise excluded by law, claims, debts, and liabilities subject to limitation under subsection (a) are those arising from any embezzlement,loss, or destruction of any property, goods, or merchandise shipped or put on board the vessel, any loss, damage, or injury by collision, or any act, matter, or thing, loss, damage, or forfeiture, done, occasioned, or incurred, without the privity or knowledge of the owner.
+Claims Subject to Limitation.—Unless otherwise excluded by law, claims, debts, and liabilities subject to limitation under subsection (a) are those arising from any embezzlement, loss, or destruction of any property, goods, or merchandise shipped or put on board the vessel, any loss, damage, or injury by collision, or any act, matter, or thing, loss, damage, or forfeiture, done, occasioned, or incurred, without the privity or knowledge of the owner.
 
 (c)
 

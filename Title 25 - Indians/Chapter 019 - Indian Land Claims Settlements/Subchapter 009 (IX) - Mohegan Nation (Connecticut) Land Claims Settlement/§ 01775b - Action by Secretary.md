@@ -48,7 +48,7 @@ If the Secretary makes a determination under subsection (a) of this section that
 
 #### (e) Transfers
 
-Subject to subsection (g) of this section, any transfer of lands or natural resources locatedwithin the State of Connecticut, including any such transfer made pursuant to any applicable Federal or State law (including any applicable treaty), made by, from, or on behalf of the Mohegan Tribe or any predecessor or successor in interest of the Mohegan Tribe shall be deemed to be in full force and effect, as provided in subsection (c)(1) of this section.
+Subject to subsection (g) of this section, any transfer of lands or natural resources located within the State of Connecticut, including any such transfer made pursuant to any applicable Federal or State law (including any applicable treaty), made by, from, or on behalf of the Mohegan Tribe or any predecessor or successor in interest of the Mohegan Tribe shall be deemed to be in full force and effect, as provided in subsection (c)(1) of this section.
 
 #### (f) Limitation
 
@@ -70,7 +70,7 @@ Subject to subsection (g) of this section, any transfer of lands or natural reso
 
 #### (1) Aboriginal interests
 
-&emsp;Nothing in this section may be construed to extinguish any aboriginal right, title, interest, or claim to lands or natural resources, to the extent that such right, title, interest, or claim is an excepted interest, as defined under section 1(a) of the State Agreement.
+&emsp;Nothing in this section may be construed to extinguish any aboriginal right, title, interest,or claim to lands or natural resources, to the extent that such right, title, interest, or claim is an excepted interest, as defined under section 1(a) of the State Agreement.
 
 #### (2) Personal claims
 

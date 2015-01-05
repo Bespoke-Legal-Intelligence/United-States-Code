@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of employees of such business on September 11, 2001, in the New York Liberty Zone, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of New York Liberty Zone business employees (determinedwithout regard to this subparagraph) of such business on the day to which the limitation is being applied.
+&emsp;&emsp;&emsp;&emsp;(II) the number of New York Liberty Zone business employees (determined without regard to this subparagraph) of such business on the day to which the limitation is being applied.
 
 &emsp;&emsp;&nbsp;The Secretary may require any trade or business to have the number determined under subclause (I) verified by the New York State Department of Labor.
 
@@ -120,7 +120,7 @@
 
 #### (D) Special rules
 
-&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to "and before January 1, 2014", and clause (iv) thereof shall be applied by substituting "qualified New York Liberty Zone property" for "qualified property".
+&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to "and before January 1, 2015", and clause (iv) thereof shall be applied by substituting "qualified New York Liberty Zone property" for "qualified property".
 
 #### (E) Allowance against alternative minimum tax
 
@@ -144,7 +144,7 @@
 
 #### (3) Requirement to use straight line method
 
-&emsp;The applicable depreciation method under section 168 shall be the straight line method in the case of qualified New York Liberty Zone leasehold improvement property.
+&emsp;The applicable depreciation method under section 168 shall be the straight line method inthe case of qualified New York Liberty Zone leasehold improvement property.
 
 #### (4) 9-year recovery period under alternative system
 
@@ -238,7 +238,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a bond described in paragraph (2) issued as part of an issue 90 percent (95 percent in the case of a bond described in paragraph (2)(C)) or more of the net proceeds (as defined in section 150(a)(3)) of which were used to finance facilities located within the City of New York, New York (or property which is functionally related and subordinate to facilities located within the City of New York for the furnishing of water), one additional advanced refunding after the date of the enactment of this section and before January 1, 2006, shall be allowed under the applicable rules of section 149(d) if—
+&emsp;With respect to a bond described in paragraph (2) issued as part of an issue 90 percent (95 percent in the case of a bond described in paragraph (2)(C)) or more of the net proceeds\(as defined in section 150(a)(3)) of which were used to finance facilities located within the City of New York, New York (or property which is functionally related and subordinate to facilities located within the City of New York for the furnishing of water), one additional advanced refunding after the date of the enactment of this section and before January 1, 2006, shall be allowed under the applicable rules of section 149(d) if—
 
 &emsp;&emsp;(A) the Governor or the Mayor designates the advance refunding bond for purposes of this subsection, and
 
@@ -302,13 +302,15 @@ For purposes of this section, the term "New York Liberty Zone" means the area lo
 
 For purposes of this section, the terms "Governor" and "Mayor" mean the Governor of the State of New York and the Mayor of the City of New York, New York, respectively.
 
-(Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, §309(a)–(c), title IV, §403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640; Pub. L. 110–185, title I, §103(c)(8), Feb. 13, 2008, 122 Stat. 619; Pub. L. 111–240, title II, §2022(b)(6), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(6), title VII, §761(a), Dec. 17, 2010, 124 Stat. 3306, 3323; Pub. L. 112–240, title III, §§328(a), 331(e)(4), Jan. 2, 2013, 126 Stat. 2334, 2337.)
+(Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, §309(a)–(c), title IV, §403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640; Pub. L. 110–185, title I, §103(c)(8), Feb. 13, 2008, 122 Stat. 619; Pub. L. 111–240, title II, §2022(b)(6), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(6), title VII, §761(a), Dec. 17, 2010, 124 Stat. 3306, 3323; Pub. L. 112–240, title III, §§328(a), 331(e)(4), Jan. 2, 2013, 126 Stat. 2334, 2337; Pub. L. 113–295, div. A, title I, §125(d)(4), Dec. 19, 2014, 128 Stat. 4017.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (d)(2)(D) and (e)(1), is the date of enactment of Pub. L. 107–147, which was approved Mar. 9, 2002.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(D). Pub. L. 113–295 substituted "January 1, 2015" for "January 1, 2014".
 
 <b>2013</b>—Subsec. (b)(2)(D). Pub. L. 112–240, §331(e)(4), substituted "January 1, 2014" for "January 1, 2013".
 
@@ -351,6 +353,10 @@ Subsec. (e)(2)(B). Pub. L. 108–311, §309(c), substituted "or the Municipal As
 Subsec. (f)(2). Pub. L. 108–311, §403(c)(4), inserted ", determined without regard to subparagraph (C)(i) thereof" before period at end.
 
 <b>2003</b>—Subsec. (b)(2)(C)(i). Pub. L. 108–27, which directed amendment of heading by substituting "Bonus depreciation property under section 168(k)" for "30-percent additional allowance property", was executed by making the substitution for "30 percent additional allowance property" to reflect the probable intent of Congress.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable to property placed in service after Dec. 31, 2013, in taxable years ending after such date, see section 125(e) of Pub. L. 113–295, set out as a note under section 168 of this title.
 
 #### Effective Date of 2013 Amendment
 

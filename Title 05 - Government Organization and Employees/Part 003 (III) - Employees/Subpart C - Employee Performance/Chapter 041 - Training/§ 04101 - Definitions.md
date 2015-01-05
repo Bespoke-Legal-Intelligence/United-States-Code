@@ -2,7 +2,7 @@
 
 For the purpose of this chapter—
 
-&emsp;(1) “agency”, subject to section 4102 of this title, means—
+&emsp;(1) "agency", subject to section 4102 of this title, means—
 
 &emsp;&emsp;(A) an Executive department;
 
@@ -12,23 +12,23 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(D) the Library of Congress;
 
-&emsp;&emsp;(E) the Government Printing Office; and
+&emsp;&emsp;(E) the Government Publishing Office; and
 
 &emsp;&emsp;(F) the government of the District of Columbia;
 
-&emsp;(2) “employee”, subject to section 4102 of this title, means—
+&emsp;(2) "employee", subject to section 4102 of this title, means—
 
 &emsp;&emsp;(A) an individual employed in or under an agency; and
 
 &emsp;&emsp;(B) a commissioned officer of the Environmental Science Services Administration;
 
-&emsp;(3) “Government” means the Government of the United States and the government of the District of Columbia;
+&emsp;(3) "Government" means the Government of the United States and the government of the District of Columbia;
 
-&emsp;(4) “training” means the process of providing for and making available to an employee, and placing or enrolling the employee in, a planned, prepared, and coordinated program, course, curriculum, subject, system, or routine of instruction or education, in scientific, professional, technical, mechanical, trade, clerical, fiscal, administrative, or other fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;
+&emsp;(4) "training" means the process of providing for and making available to an employee, and placing or enrolling the employee in, a planned, prepared, and coordinated program, course, curriculum, subject, system, or routine of instruction or education, in scientific, professional, technical, mechanical, trade, clerical, fiscal, administrative, or other fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;
 
-&emsp;(5) “Government facility” means property owned or substantially controlled by the Government and the services of any civilian and military personnel of the Government; and
+&emsp;(5) "Government facility" means property owned or substantially controlled by the Government and the services of any civilian and military personnel of the Government; and
 
-&emsp;(6) “non-Government facility” means—
+&emsp;(6) "non-Government facility" means—
 
 &emsp;&emsp;(A) the government of a State or of a territory or possession of the United States including the Commonwealth of Puerto Rico, and an interstate governmental organization, or a unit, subdivision, or instrumentality of any of the foregoing;
 
@@ -42,7 +42,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(F) the services and property of any of the foregoing furnishing the training.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 432; Pub. L. 90–206, title II, §224(a), Dec. 16, 1967, 81 Stat. 642; Pub. L. 97–258, §3(a)(8), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 103–226, §2(a)(1), Mar. 30, 1994, 108 Stat. 111.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 432; Pub. L. 90–206, title II, §224(a), Dec. 16, 1967, 81 Stat. 642; Pub. L. 97–258, §3(a)(8), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 103–226, §2(a)(1), Mar. 30, 1994, 108 Stat. 111; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 Historical and Revision Notes
 
@@ -58,25 +58,29 @@ Historical and Revision Notes
 
 July 7, 1958, Pub. L. 85–507, §3, 72 Stat. 328.
 
-In paragraph (1), the word “agency” is substituted for “department”. Reference to the “General Accounting Office” is omitted as included in “independent establishment” because of the definition in section 104.
+In paragraph (1), the word "agency" is substituted for "department". Reference to the "General Accounting Office" is omitted as included in "independent establishment" because of the definition in section 104.
 
-In paragraph (2)(B), the words “in the Department of Commerce” are omitted as unnecessary.
+In paragraph (2)(B), the words "in the Department of Commerce" are omitted as unnecessary.
 
-In paragraph (6)(C), the word “agency” is omitted as unnecessary and to avoid confusion with the word “agency” defined by paragraph (1).
+In paragraph (6)(C), the word "agency" is omitted as unnecessary and to avoid confusion with the word "agency" defined by paragraph (1).
 
-In paragraph (6)(E), the words “individuals other than civilian or military personnel of the Government” are substituted for “an individual not a civilian or military officer or employee of the Government of the United States or of the municipal government of the District of Columbia” to conform to paragraph (5).
+In paragraph (6)(E), the words "individuals other than civilian or military personnel of the Government" are substituted for "an individual not a civilian or military officer or employee of the Government of the United States or of the municipal government of the District of Columbia" to conform to paragraph (5).
 
-The definition of “Commission” in former section 2302(4) is omitted as unnecessary as the title “Civil Service Commission” is fully set out the first time it is used in each section of this chapter.
+The definition of "Commission" in former section 2302(4) is omitted as unnecessary as the title "Civil Service Commission" is fully set out the first time it is used in each section of this chapter.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1994</b>—Par. (4). Pub. L. 103–226 substituted “fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;” for “fields which are or will be directly related to the performance by the employee of official duties for the Government, in order to increase the knowledge, proficiency, ability, skill, and qualifications of the employee in the performance of official duties;”.
+<b>1994</b>—Par. (4). Pub. L. 103–226 substituted "fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;" for "fields which are or will be directly related to the performance by the employee of official duties for the Government, in order to increase the knowledge, proficiency, ability, skill, and qualifications of the employee in the performance of official duties;".
 
-<b>1982</b>—Par. (1)(C). Pub. L. 97–258 substituted “chapter 91” for “sections 846–852 or 856–859”.
+<b>1982</b>—Par. (1)(C). Pub. L. 97–258 substituted "chapter 91" for "sections 846–852 or 856–859".
 
-<b>1967</b>—Par. (2)(B). Pub. L. 90–206 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1967</b>—Par. (2)(B). Pub. L. 90–206 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in par. (1)(E) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1967 Amendment
 

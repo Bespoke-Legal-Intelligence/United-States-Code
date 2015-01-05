@@ -18,7 +18,7 @@
 
 #### (2) Exception for administration of the Convention
 
-&emsp;A Convention record may be disclosed, and access to such a record may be provided, inwhole or in part, among the Secretary, the Attorney General, central authorities, accredited agencies, and approved persons, only to the extent necessary to administer the Convention or this chapter.
+&emsp;A Convention record may be disclosed, and access to such a record may be provided, in whole or in part, among the Secretary, the Attorney General, central authorities, accredited agencies, and approved persons, only to the extent necessary to administer the Convention or this chapter.
 
 #### (3) Penalties for unlawful disclosure
 

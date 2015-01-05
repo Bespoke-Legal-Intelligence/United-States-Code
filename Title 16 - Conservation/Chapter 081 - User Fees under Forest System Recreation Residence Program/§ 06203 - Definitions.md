@@ -60,7 +60,7 @@ In this chapter:
 
 #### (13) Tract
 
-&emsp;The term "tract" means an established location within a National Forest containing 1 ormore cabins authorized in accordance with the program.
+&emsp;The term "tract" means an established location within a National Forest containing 1 or more cabins authorized in accordance with the program.
 
 #### (14) Tract association
 
@@ -71,4 +71,8 @@ In this chapter:
 &emsp;The term "typical lot" means a cabin lot, or a group of cabin lots, in a tract that is selected for use in an appraisal as being representative of, and that has similar value characteristics as, other lots or groups of lots within the tract.
 
 (Pub. L. 106–291, title VI, §604, Oct. 11, 2000, 114 Stat. 1014.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–291, div. B, title XXX, §3024(k), Dec. 19, 2014, 128 Stat. 3766, provided that, effective on the date of the assessment of annual permit fees in accordance with section 6214(f) of this title (as certified to Congress by the Secretary of Agriculture), this section is repealed.</i>
 

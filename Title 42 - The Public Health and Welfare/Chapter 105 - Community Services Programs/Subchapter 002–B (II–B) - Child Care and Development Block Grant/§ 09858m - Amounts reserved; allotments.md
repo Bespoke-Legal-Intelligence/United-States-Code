@@ -8,7 +8,29 @@
 
 #### (2) Indians <sup>1</sup> tribes
 
-&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall reserve not less than 2 percent of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+
+#### (B) Limitations
+
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary shall only reserve an amount that is greater than 2 percent of the amount appropriated under section 9858 of this title, for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the "reservation year") if—
+
+&emsp;&emsp;&emsp;(i) the amount appropriated under section 9858 of this title for the reservation year is greater than the amount appropriated under section 9858 of this title for fiscal year 2014; and
+
+&emsp;&emsp;&emsp;(ii) the Secretary ensures that the amount allotted to States under subsection (b) for the reservation year is not less than the amount allotted to States under subsection (b) for fiscal year 2014.
+
+#### (3) National toll-free hotline and Web site
+
+&emsp;The Secretary shall reserve up to $1,500,000 of the amount appropriated under this subchapter for each fiscal year for the operation of a national toll-free hotline and Web site, under section 9858j(b) of this title.
+
+#### (4) Technical assistance
+
+&emsp;The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to support technical assistance and dissemination activities under paragraphs (3) and (4) of section 9858g(a) of this title.
+
+#### (5) Research, demonstration, and evaluation
+
+&emsp;The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and quality of child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
 
 #### (b) State allotment
 
@@ -74,6 +96,10 @@
 
 &emsp;&emsp;The applicant will make such reports on, and conduct such audits of, programs and activities under a grant or contract under this section as the Secretary may require.
 
+#### (D) Licensing and standards
+
+&emsp;&emsp;In lieu of any licensing and regulatory requirements applicable under State or local law, the Secretary, in consultation with Indian tribes and tribal organizations, shall develop minimum child care standards that shall be applicable to Indian tribes and tribal organizations receiving assistance under this subchapter. Such standards shall appropriately reflect Indian tribe and tribal organization needs and available resources, and shall include standards requiring a publicly available application, health and safety standards, and standards requiring a reservation of funds for activities to improve the quality of child care services provided to Indian children.
+
 #### (3) Consideration of secretarial approval
 
 &emsp;In determining whether to approve an application for a grant or contract under this section, the Secretary shall take into consideration—
@@ -102,7 +128,21 @@
 
 #### (C) Limitation
 
-&emsp;&emsp;The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if the use will result in a decrease in the level of child care services provided by the Indian tribe or tribal organization as compared to the level of child care services provided by the Indian tribe or tribal organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
+
+#### (ii) Waiver
+
+&emsp;&emsp;&emsp;The Secretary shall waive the limitation described in clause (i) if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary determines that the decrease in the level of child care services provided by the Indian tribe or tribal organization is temporary; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Indian tribe or tribal organization submits to the Secretary a plan that demonstrates that after the date on which the construction or renovation is completed—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the level of child care services will increase; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the quality of child care services will improve.
 
 #### (D) Uniform procedures
 
@@ -140,13 +180,21 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 For the purposes of this section, the term "State" includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286; Pub. L. 105–33, title V, §5602(4), Aug. 5, 1997, 111 Stat. 646; Pub. L. 106–78, title VII, §752(b)(17), Oct. 22, 1999, 113 Stat. 1170.)
+(Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286; Pub. L. 105–33, title V, §5602(4), Aug. 5, 1997, 111 Stat. 646; Pub. L. 106–78, title VII, §752(b)(17), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 113–186, §9, Nov. 19, 2014, 128 Stat. 1998.)
 
 #### References in Text
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–186, §9(1)(A), designated existing provisions as subpar. (A), inserted heading, substituted "2 percent" for "1 percent, and not more than 2 percent,", and added subpar. (B).
+
+Subsec. (a)(3) to (5). Pub. L. 113–186, §9(1)(B), added pars. (3) to (5).
+
+Subsec. (c)(2)(D). Pub. L. 113–186, §9(2)(A), added subpar. (D).
+
+Subsec. (c)(6)(C). Pub. L. 113–186, §9(2)(B), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made."
 
 <b>1999</b>—Subsec. (b)(3). Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act".
 

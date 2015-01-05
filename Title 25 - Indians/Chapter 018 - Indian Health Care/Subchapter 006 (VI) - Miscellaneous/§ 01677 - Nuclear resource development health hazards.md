@@ -46,7 +46,7 @@ In the case of any Indian who—
 
 &emsp;(3) by reason of such Indian's employment, is entitled to medical care at the expense of such mine or mill operator;
 
-> the Service shall, at the request of such Indian, render appropriate medical care to such Indian for such illness or condition and may recoverthe costs of any medical care so rendered to which such Indian is entitled at the expense of such operator from such operator. Nothing in this subsection shall affect the rights of such Indian to recover damages other than such costs paid to the Service from the employer for such illness or condition.
+> the Service shall, at the request of such Indian, render appropriate medical care to such Indian for such illness or condition and may recover the costs of any medical care so rendered to which such Indian is entitled at the expense of such operator from such operator. Nothing in this subsection shall affect the rights of such Indian to recover damages other than such costs paid to the Service from the employer for such illness or condition.
 
 (Pub. L. 94–437, title VIII, §807, formerly title VII, §707, as added Pub. L. 96–537, §8(b), Dec. 17, 1980, 94 Stat. 3179; amended Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; renumbered title VIII, §807, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §813(b), Oct. 29, 1992, 106 Stat. 4572, 4590.)
 

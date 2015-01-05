@@ -150,7 +150,7 @@
 
 #### (5) Extension disapproval resolutions
 
-&emsp;(A) For purposes of paragraph (1), the term "extension disapproval resolution" means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: "That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respect to any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.", with the blank space being filled with the name of the resolving House of the Congress.
+&emsp;(A) For purposes of paragraph (1), the term "extension disapproval resolution" means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: "That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respectto any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.", with the blank space being filled with the name of the resolving House of the Congress.
 
 &emsp;(B) Extension disapproval resolutions—
 

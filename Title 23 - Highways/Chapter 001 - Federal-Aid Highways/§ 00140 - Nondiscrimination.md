@@ -20,7 +20,7 @@ Subsec. (c). Pub. L. 112–141, §1109(b), substituted "From administrative fund
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–350, §5(e)(1)(A), substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5),".
 
-Subsec. (c). Pub. L. 111–350, §5(e)(1)(B), substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)," and "section 3106 of title 41" for "section 302(e) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252(e))".
+Subsec. (c). Pub. L. 111–350, §5(e)(1)(B), substituted "section 6101(b) to (d) of title 41" for "section 3709 ofthe Revised Statutes, as amended (41 U.S.C. 5)," and "section 3106 of title 41" for "section 302(e) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252(e))".
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §1922(a), in first sentence, substituted "section 135" for "subsection (a) of section 105 of this title", in second sentence, substituted "The Secretary" for "He", in third sentence, substituted "if necessary to ensure" for "shall, where he considers it necessary to assure" and inserted "shall" before "require", and, in last sentence, substituted "the Secretary to" for "him to" and "the Secretary of Transportation" for "he".
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriatedor made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Effective Date
 

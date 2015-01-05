@@ -12,7 +12,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Surveillance activities
 
-The Director of the Centers for Disease Control and Prevention, acting through the representative of the Director on the National Asthma Education Prevention Program Coordinating Committee, shall, in carrying out subsection (a) of this section, provide an update on surveillance activities at each Committee meeting.
+The Director of the Centers for Disease Control and Prevention, acting through the representative of the Director on the National Asthma Education Prevention Program Coordinating Committee, shall, in carrying out subsection (a) of this section, provide an update onsurveillance activities at each Committee meeting.
 
 #### (c) Collaborative efforts
 

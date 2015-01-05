@@ -38,5 +38,5 @@ Subsec. (c). Pub. L. 105–368, §403(c)(6), substituted "under the control of t
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, on, or after Oct. 17, 1981, seesection 701(b)(6) of Pub. L. 97–66, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, on, or after Oct. 17, 1981, see section 701(b)(6) of Pub. L. 97–66, set out as a note under section 1114 of this title.
 

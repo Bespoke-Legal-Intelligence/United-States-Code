@@ -18,7 +18,7 @@ If the Secretary determines, after consultation with such public health official
 
 #### (2) Report
 
-&emsp;Not later than 90 days after the end of each fiscal year, the Secretary shall prepare andsubmit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
+&emsp;Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
 
 &emsp;&emsp;(A) the expenditures made from the Public Health Emergency Fund in such fiscal year; and
 
@@ -36,7 +36,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 #### (1) Emergency reassignment of federally funded personnel
 
-&emsp;Notwithstanding any other provision of law, and subject to paragraph (2), upon request by the Governor of a State or a tribal organization or such Governor or tribal organization's designee, the Secretary may authorize the requesting State or Indian tribe to temporarily reassign, for purposes of immediately addressing a public health emergency in the State or Indian tribe, State and local public health department or agency personnel funded in whole or in part through programs authorized under this chapter, as appropriate.
+&emsp;Notwithstanding any other provision of law, and subject to paragraph (2), upon request by the Governor of a State or a tribal organization or such Governor or tribal organization's designee, the Secretary may authorize the requesting State or Indian tribe to temporarilyreassign, for purposes of immediately addressing a public health emergency in the State or Indian tribe, State and local public health department or agency personnel funded in whole or in part through programs authorized under this chapter, as appropriate.
 
 #### (2) Activation of emergency reassignment
 
@@ -164,5 +164,5 @@ Subsec. (d). Pub. L. 107–188, §141, added subsec. (d).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–188, title I, §144(b), June 12, 2002, 116 Stat. 630, provided that: "The amendment made by subsection (a) \[amending this section\] applies to any public health emergency under section 319(a) of the Public Health Service Act \[42 U.S.C. 247d(a)\], including any such emergency that was in effect as of the day beforethe date of the enactment of this Act \[June 12, 2002\]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment."
+Pub. L. 107–188, title I, §144(b), June 12, 2002, 116 Stat. 630, provided that: "The amendment made by subsection (a) \[amending this section\] applies to any public health emergency under section 319(a) of the Public Health Service Act \[42 U.S.C. 247d(a)\], including any such emergency that was in effect as of the day before the date of the enactment of this Act \[June 12, 2002\]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment."
 

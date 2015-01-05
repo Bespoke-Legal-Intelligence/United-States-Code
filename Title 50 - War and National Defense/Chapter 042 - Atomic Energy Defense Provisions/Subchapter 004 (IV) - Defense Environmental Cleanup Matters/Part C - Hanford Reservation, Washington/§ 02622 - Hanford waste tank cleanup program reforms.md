@@ -50,7 +50,7 @@ Subsecs. (e), (f). Pub. L. 112–81, §3113(3), added subsec. (e) and struck out
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)\], substituted "managing, consistent with the policy direction established by the Department, all aspects of the River Protection Project, Richland, Washington" for "managing all aspects of the Tank Waste Remediation System (also referred to as the Hanford Tank Farm operations), including those portions under privatization contracts, of the Department of Energy at Hanford" in par. (2) and added par. (3).
 
-Subsec. (c). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(c)\], substituted "head" for "manager" and "tocarry out the responsibilities specified in subsection (b)(2)" for "to manage the tank waste privatization program at Hanford in an efficient and streamlined manner".
+Subsec. (c). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(c)\], substituted "head" for "manager" and "to carry out the responsibilities specified in subsection (b)(2)" for "to manage the tank waste privatization program at Hanford in an efficient and streamlined manner".
 
 Subsec. (d). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(d)\], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committees on Commerce and on National Security of the House of Representatives an integrated management plan for all aspects of the Hanford Tank Farm operations, including the roles, responsibilities, and reporting relationships of the Office."
 

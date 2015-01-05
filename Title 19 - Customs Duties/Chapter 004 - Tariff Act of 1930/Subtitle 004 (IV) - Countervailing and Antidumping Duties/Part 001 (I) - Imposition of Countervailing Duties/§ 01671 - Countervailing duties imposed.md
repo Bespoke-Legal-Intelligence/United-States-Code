@@ -182,7 +182,7 @@ Investigations After Enactment.—The amendments made by sections 1324 and 1330 
 
 "(d)
 
-Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of1930, as added by section 1321(a) \[19 U.S.C. 1677j\], and the amendments made by section 1334 \[amending section 1677h of this title\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
+Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of 1930, as added by section 1321(a) \[19 U.S.C. 1677j\], and the amendments made by section 1334 \[amending section 1677h of this title\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
 "(e)
 
@@ -252,7 +252,7 @@ Pending Investigations of Bounties or Grants.—If, on the effective date of the
 
 "(b)
 
-Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII ofthe Tariff Act of 1930 \[see Effective Date note set out above\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
+Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
 
 &emsp;"(1) If the Secretary has not yet made a preliminary determination under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to the question of less-than-fair-value sales, he shall terminate the investigation and the United States International Trade Commission shall terminate any investigation under section 201(c)(2) of the Antidumping Act, 1921 \[section 160(c)(2) of this title\], and the matter previously under investigation shall be subject to the provisions of title VII of the Tariff Act of 1930 \[this subtitle\] as if the affirmative determination called for in section 732 \[section 1673a of this title\] were made with respect to such matter on the effective date of title VII of the Tariff Act of 1930.
 

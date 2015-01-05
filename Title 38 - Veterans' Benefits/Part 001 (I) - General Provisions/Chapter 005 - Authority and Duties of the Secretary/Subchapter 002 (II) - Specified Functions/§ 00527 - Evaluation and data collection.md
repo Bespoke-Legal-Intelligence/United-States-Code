@@ -120,7 +120,7 @@ Contents of Registry.—Except as provided in subsection (c), the Registry shall
 
 &emsp;&emsp;"(E) receives from the Department of Defense a health examination similar to the health examination referred to in subparagraph (D) and requests inclusion in the Registry.
 
-&emsp;"(2) Relevant medical data relating to the health status of, and other information that the Secretary considers relevant and appropriate with respect to, each individual described in paragraph (1) who—
+&emsp;"(2) Relevant medical data relating to the health status of, and other information that the Secretaryconsiders relevant and appropriate with respect to, each individual described in paragraph (1) who—
 
 &emsp;&emsp;"(A) grants to the Secretary permission to include such information in the Registry; or
 
@@ -170,7 +170,7 @@ Covered Veterans.—(1) In accordance with subsection (a)(1)(A), the Secretary s
 
 Study.—The Director of the Office of Technology Assessment shall, in a manner consistent with the Technology Assessment Act of 1972 (2 U.S.C. 472(d) \[2 U.S.C. 471 et seq.\]), assess—
 
-&emsp;"(1) the potential utility of each of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry for scientific study and assessment of the intermediate and long-term health consequences ofmilitary service in the Persian Gulf theater of operations during the Persian Gulf War;
+&emsp;"(1) the potential utility of each of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry for scientific study and assessment of the intermediate and long-term health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War;
 
 &emsp;"(2) the extent to which each registry meets the requirements of the provisions of law under which the registry is established;
 
@@ -212,7 +212,7 @@ Definitions.—For the purposes of this section:
 
 Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
-"(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
+"(2) The agreement shall require MFUA to provide members of veterans organizations and members of thescientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
 "(3) The agreement shall permit MFUA, in conducting the review, to examine and evaluate medical records of individuals who are included in the registries referred to in section 705(d) for purposes that MFUA considers appropriate, including the purpose of identifying illnesses of those individuals.
 
@@ -254,7 +254,7 @@ Research Review and Development of Medical Education Curriculum.—(1) In order 
 
 &emsp;"(A) develop a curriculum pertaining to the care and treatment of veterans of such service who have ill-defined or undiagnosed illnesses for use in the continuing medical education of both general and specialty physicians who provide care for such veterans; and
 
-&emsp;"(B) on an ongoing basis, periodically review and provide recommendations regarding the research plans and research strategies of the Departments relating to the health consequences of military servicein the Persian Gulf theater of operations during the Persian Gulf War.
+&emsp;"(B) on an ongoing basis, periodically review and provide recommendations regarding the research plans and research strategies of the Departments relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 "(2) Recommendations to be provided under paragraph (1)(B) include any recommendations that the Academy considers appropriate for additional scientific studies (including studies related to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of any aspects of such military service. In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 

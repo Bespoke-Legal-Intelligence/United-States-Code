@@ -28,7 +28,7 @@ There shall be in the Department an Assistant to the Secretary, designated by th
 
 &emsp;(i) administering, in coordination with the relevant office in the Department, the provision of housing assistance to Indian tribes or Indian housing authorities under each program of the Department that provides for such assistance;
 
-&emsp;(ii) administering the community development block grant program for Indian tribes under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\]and the provision of assistance to Indian tribes under such Act;
+&emsp;(ii) administering the community development block grant program for Indian tribes under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] and the provision of assistance to Indian tribes under such Act;
 
 &emsp;(iii) directing, coordinating, and assisting in managing any regional offices of the Department that administer Indian programs to the extent of such programs; and
 
@@ -122,7 +122,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 &emsp;In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default and foreclosure, and other financial decisions), and the sale or other disposition of a home.
 
-(Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L. 111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163; Pub. L. 112–166, §2(g), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug.1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L. 111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163; Pub. L. 112–166, §2(g), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### References in Text
 

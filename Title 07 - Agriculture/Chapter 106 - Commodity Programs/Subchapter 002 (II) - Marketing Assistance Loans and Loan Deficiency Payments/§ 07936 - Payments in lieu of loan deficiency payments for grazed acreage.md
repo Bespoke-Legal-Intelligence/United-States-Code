@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(1) of this section shall be equal to the amount determined by multiplying—
+&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(1) shall be equal to the amount determined by multiplying—
 
 &emsp;&emsp;(A) the loan deficiency payment rate determined under section 7935(c) of this title in effect, as of the date of the agreement, for the county in which the farm is located; by
 
@@ -22,11 +22,11 @@
 
 &emsp;&emsp;&emsp;(i) the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of wheat, barley, or oats; and
 
-&emsp;&emsp;&emsp;(ii) the payment yield in effect for the calculation of direct payments under subchapter I of this chapter with respect to that loan commodity on the farm or, in the case of a farm without a payment yield for that loan commodity, an appropriate yield established by the Secretary in a manner consistent with section 7912(c) of this title.
+&emsp;&emsp;&emsp;(ii) the payment yield in effect for the calculation of direct payments under subchapter I with respect to that loan commodity on the farm or, in the case of a farm without a payment yield for that loan commodity, an appropriate yield established by the Secretary in a manner consistent with section 7912(c) of this title.
 
 #### (2) Grazing of triticale acreage
 
-&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(2) of this section shall be equal to the amount determined by multiplying—
+&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(2) shall be equal to the amount determined by multiplying—
 
 &emsp;&emsp;(A) the loan deficiency payment rate determined under section 7935(c) of this title in effect for wheat, as of the date of the agreement, for the county in which the farm is located; by
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of triticale; and
 
-&emsp;&emsp;&emsp;(ii) the payment yield in effect for the calculation of direct payments under subchapter I of this chapter with respect to wheat on the farm or, in the case of a farm without a payment yield for wheat, an appropriate yield established by the Secretary in a manner consistent with section 7912(c) of this title.
+&emsp;&emsp;&emsp;(ii) the payment yield in effect for the calculation of direct payments under subchapter I with respect to wheat on the farm or, in the case of a farm without a payment yield for wheat, an appropriate yield established by the Secretary in a manner consistent with section 7912(c) of this title.
 
 #### (c) Time, manner, and availability of payment
 
@@ -48,7 +48,7 @@
 
 #### (d) Prohibition on crop insurance indemnity or noninsured crop assistance
 
-A 2002 through 2007 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a) of this section, to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title.
+A 2002 through 2007 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title.
 
 (Pub. L. 107–171, title I, §1206, May 13, 2002, 116 Stat. 159.)
 

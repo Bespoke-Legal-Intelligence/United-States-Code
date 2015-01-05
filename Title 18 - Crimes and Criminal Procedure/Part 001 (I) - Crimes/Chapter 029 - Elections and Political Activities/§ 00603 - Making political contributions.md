@@ -1,6 +1,6 @@
 ### §603. Making political contributions
 
-(a) It shall be unlawful for an officer or employee of the United States or any department or agency thereof, or a person receiving any salary or compensation for services from money derived from the Treasury of the United States, to make any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 to any other such officer, employee or person or to any Senator or Representative in, or Delegate or Resident Commissioner to, the Congress, if the person receiving such contribution is the employer or employing authority of the person making the contribution. Any person who violates this section shall be fined under this title or imprisoned not more than three years, or both.
+(a) It shall be unlawful for an officer or employee of the United States or any department or agency thereof, or a person receiving any salary or compensation for services from money derived from the Treasury of the United States, to make any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 to any other such officer, employee or person or to any Senator or Representative in, or Delegate or Resident Commissioner to, the Congress, if the person receiving such contribution is the employer or employing authority of the person making the contribution. Any person who violates this section shall be finedunder this title or imprisoned not more than three years, or both.
 
 (b) For purposes of this section, a contribution to an authorized committee as defined in section 302(e)(1) of the Federal Election Campaign Act of 1971 shall be considered a contribution to the individual who has authorized such committee.
 
@@ -24,9 +24,9 @@ Minor changes were made in phraseology.
 
 #### References in Text
 
-Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a), is classified to section 431(8) of Title 2, The Congress.
+Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a), is classified to section 30101(8) of Title 52, Voting and Elections.
 
-Section 302(e)(1) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to section 432(e)(1) of Title 2.
+Section 302(e)(1) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to section 30102(e)(1) of Title 52.
 
 #### Amendments
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
 #### Effective Date of 1980 Amendment
 
-Amended by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of Title 2, The Congress.
+Amended by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 30101 of Title 52, Voting and Elections.
 

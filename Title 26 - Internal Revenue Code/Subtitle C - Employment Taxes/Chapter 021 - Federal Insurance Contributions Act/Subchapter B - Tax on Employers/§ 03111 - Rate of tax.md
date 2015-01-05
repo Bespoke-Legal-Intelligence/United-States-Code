@@ -2,31 +2,11 @@
 
 #### (a) Old-age, survivors, and disability insurance
 
-In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
-
-&nbsp;
-
-| <b>In cases of wages paid during:</b> | <b>The rate shall be:</b> |
-| :--- | ---: |
-| &nbsp;&nbsp;1984, 1985, 1986, or 1987 | 5\.7 percent |
-| &nbsp;&nbsp;1988 or 1989 | 6\.06 percent |
-| &nbsp;&nbsp;1990 or thereafter | 6\.2 percent. |
+In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
 
 #### (b) Hospital insurance
 
-In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
-
-&emsp;(1) with respect to wages paid during the calendar years 1974 through 1977, the rate shall be 0.90 percent;
-
-&emsp;(2) with respect to wages paid during the calendar year 1978, the rate shall be 1.00 percent;
-
-&emsp;(3) with respect to wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent;
-
-&emsp;(4) with respect to wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent;
-
-&emsp;(5) with respect to wages paid during the calendar year 1985, the rate shall be 1.35 percent; and
-
-&emsp;(6) with respect to wages paid after December 31, 1985, the rate shall be 1.45 percent.
+In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
 
 #### (c) Relief from taxes in cases covered by certain international agreements
 
@@ -112,7 +92,7 @@ During any period in which there is in effect an agreement entered into pursuant
 
 &emsp;&emsp;(B) the term "qualified veteran" has meaning <sup>1</sup> given such term by section 51(d)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L.94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, §261(e)(2), Nov. 21, 2011, 125 Stat. 730.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), titleIII, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, §261(e)(2), Nov. 21, 2011, 125 Stat. 730; Pub. L. 113–295, div. A, title II, §221(a)(99)(B), Dec. 19, 2014, 128 Stat. 4051.)
 
 #### References in Text
 
@@ -123,6 +103,22 @@ The date of the enactment of this subsection, referred to in subsec. (d)(1), is 
 Section 101(b) of the Higher Education Act of 1965, referred to in subsec. (d)(2)(B), is classified to section 1001(b) of Title 20, Education.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–295, §221(a)(99)(B)(i), substituted "6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b))." for "the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—" and table of rates.
+
+Subsec. (b). Pub. L. 113–295, §221(a)(99)(B)(ii), substituted "1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b))." for "the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
+
+&emsp;"(1) with respect to wages paid during the calendar years 1974 through 1977, the rate shall be 0.90 percent;
+
+&emsp;"(2) with respect to wages paid during the calendar year 1978, the rate shall be 1.00 percent;
+
+&emsp;"(3) with respect to wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent;
+
+&emsp;"(4) with respect to wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent;
+
+&emsp;"(5) with respect to wages paid during the calendar year 1985, the rate shall be 1.35 percent; and
+
+&emsp;"(6) with respect to wages paid after December 31, 1985, the rate shall be 1.45 percent."
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–56 added subsec. (e).
 
@@ -158,7 +154,7 @@ Subsec. (b)(3). Pub. L. 93–233, §6(b)(3), incorporated former provision of pa
 
 Subsec. (b)(4). Pub. L. 93–233, §6(b)(3), incorporated former provision of par. (3) for taxation of wages received during calendar years 1978, 1979, and 1980, decreased the applicable rate of tax from 1.25 percent to 1.10 percent, and struck out provision for 1.35 percent rate of tax for calendar years 1981, 1982, 1983, 1984, and 1985.
 
-Subsec. (b)(5). Pub. L. 93–233, §6(b)(3), incorporated former provision of par. (4) for taxation of wages received during calendar years 1981 through 1985 at applicable 1.35 percent rate of tax and struck out provision for 1.45 percent rate of tax for wages received after Dec. 31, 1985.
+Subsec. (b)(5). Pub. L. 93–233, §6(b)(3), incorporated former provision of par. (4) for taxation of wages received during calendar years 1981 through 1985 at applicable 1.35 percent rate of tax and struck out provisionfor 1.45 percent rate of tax for wages received after Dec. 31, 1985.
 
 Subsec. (b)(6). Pub. L. 93–233, §6(b)(3), incorporated former provision of par. (5) for taxation of wages received after Dec. 31, 1985 and increased the applicable rate of tax from 1.45 percent to 1.50 percent.
 
@@ -174,7 +170,7 @@ Subsec. (a)(6). Pub. L. 92–603, §135(a)(3)(B), added par. (6).
 
 Subsec. (b)(2). Pub. L. 92–603, §135(b)(3), increased rate to 1.0 percent from 0.9 percent.
 
-Subsec. (b)(2) to (5). Pub. L. 92–336, §204(b)(3), inserted references to 1976 and 1977 and substituted "0.9" for "0.65" in par. (2), substituted references for the calendar years 1978 through 1985 for references to the calendar years 1976 through 1979 and substituted "1.0" for "0.70" in par. (3), substituted references for the calendar years 1986 through 1992 for references to the calendars 1980 through 1986 and substituted "1.1" for "0.80"in par. (4), and substituted "1992" and "1986" and "1.2" for "0.9" in par. (5).
+Subsec. (b)(2) to (5). Pub. L. 92–336, §204(b)(3), inserted references to 1976 and 1977 and substituted "0.9" for "0.65" in par. (2), substituted references for the calendar years 1978 through 1985 for references to the calendar years 1976 through 1979 and substituted "1.0" for "0.70" in par. (3), substituted references for the calendar years 1986 through 1992 for references to the calendars 1980 through 1986 and substituted "1.1" for "0.80" in par. (4), and substituted "1992" and "1986" and "1.2" for "0.9" in par. (5).
 
 Subsec. (b)(3). Pub. L. 92–603, §135(b)(3), substituted "and 1980, the rate shall be 1.25 percent" for "1980, 1981, 1982, 1983, 1984, and 1985, the rate shall be 1.0 percent".
 
@@ -202,6 +198,10 @@ Subsec. (b). Pub. L. 89–97, §111(c)(6), struck out ", but without regard to 
 
 <b>1954</b>—Act Sept. 1, 1954, increased 3¼ percent rate of tax for calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–56 applicable to individuals who begin work for the employer after Nov. 21, 2011, see section 261(g) of Pub. L. 112–56, set out as a note under section 51 of this title.
@@ -214,7 +214,7 @@ Amendment by Pub. L. 111–147 applicable to wages paid after Mar. 18, 2010, see
 
 Pub. L. 100–647, title VIII, §8016(b), Nov. 10, 1988, 102 Stat. 3793, provided that:
 
-"(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 3121 and 3306 of this title, and sections 405, 410, and 411 of Title 42, The Public Health and Welfare\] shall be effective on the date of the enactment of this Act \[Nov. 10, 1988\].
+"(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section,sections 3121 and 3306 of this title, and sections 405, 410, and 411 of Title 42, The Public Health and Welfare\] shall be effective on the date of the enactment of this Act \[Nov. 10, 1988\].
 
 "(2) Any amendment made by this section to a provision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act \[42 U.S.C. 301 et seq.\] or the Internal Revenue Code of 1986 as added or amended by a provision of a particular Public Law which is so referred to, shall be effective as though it had been included or reflected in the relevant provisions of that Public Law at the time of its enactment."
 
@@ -234,7 +234,7 @@ Pub. L. 95–216, title III, §315(c), Dec. 20, 1977, 91 Stat. 1537, provided th
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) ofPub. L. 94–455, set out as a note under section 3101 of this title.
+Amendment by Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3101 of this title.
 
 #### Effective Date of 1973 Amendment
 

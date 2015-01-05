@@ -6,7 +6,7 @@ Any transfer before October 18, 1983, from, by, or on behalf of the Tribe or any
 
 #### (b) Extinguishment of title
 
-By virtue of the approval and ratification of a transfer of land or natural resources effected by subsection (a) of this section, any aboriginal title held by the Tribe or any member of the Tribe, or any other Indian, Indian nation, or tribe or band of Indians, to any land or natural resources the transfer of which was approved and ratified by subsection (a) of this section shall be regarded as extinguished as of the date of such transfer.
+By virtue of the approval and ratification of a transfer of land or natural resources effected by subsection (a) of this section, any aboriginal title held by the Tribe or any member of the Tribe, or any other Indian, Indian nation, or tribe or band of Indians, to any land or naturalresources the transfer of which was approved and ratified by subsection (a) of this section shall be regarded as extinguished as of the date of such transfer.
 
 #### (c) Extinguishment of claims
 

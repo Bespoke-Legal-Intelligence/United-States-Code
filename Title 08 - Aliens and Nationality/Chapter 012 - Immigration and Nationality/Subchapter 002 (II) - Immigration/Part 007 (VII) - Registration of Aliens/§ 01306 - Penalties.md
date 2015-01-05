@@ -20,7 +20,7 @@ Any person who with unlawful intent photographs, prints, or in any other manner 
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–208 substituted “removed” for “deported” and “part IV” for “Part V”.
+<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–208 substituted "removed" for "deported" and "part IV" for "Part V".
 
 #### Effective Date of 1996 Amendment
 
@@ -28,5 +28,5 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

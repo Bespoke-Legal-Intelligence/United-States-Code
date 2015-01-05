@@ -102,5 +102,5 @@ Pub. L. 95–384, §10(b)(6), Sept. 26, 1978, 92 Stat. 735, provided that: "Afte
 
 #### Security Supporting Assistance Program for Egypt
 
-Pub. L. 95–92, §9, Aug. 4, 1977, 91 Stat. 619, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747,provided that: "It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success."
+Pub. L. 95–92, §9, Aug. 4, 1977, 91 Stat. 619, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, provided that: "It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success."
 

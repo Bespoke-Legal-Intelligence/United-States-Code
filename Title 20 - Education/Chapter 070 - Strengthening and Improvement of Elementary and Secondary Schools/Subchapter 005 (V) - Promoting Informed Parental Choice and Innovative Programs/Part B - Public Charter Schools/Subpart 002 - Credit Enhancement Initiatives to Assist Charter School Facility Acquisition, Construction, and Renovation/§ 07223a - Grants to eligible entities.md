@@ -12,7 +12,7 @@ The Secretary shall use 100 percent of the amount available to carry out this su
 
 #### (2) Distribution of grants
 
-&emsp;The Secretary shall award at least one grant to an eligible entity described in section 7223i(2)(A) of this title, at least one grant to aneligible entity described in section 7223i(2)(B) of this title, and at least one grant to an eligible entity described in section 7223i(2)(C) of this title, if applications are submitted that permit the Secretary to do so without approving an application that is not of sufficient quality to merit approval.
+&emsp;The Secretary shall award at least one grant to an eligible entity described in section 7223i(2)(A) of this title, at least one grant to an eligible entity described in section 7223i(2)(B) of this title, and at least one grant to an eligible entity described in section 7223i(2)(C) of this title, if applications are submitted that permit the Secretary to do so without approving an application that is not of sufficient quality to merit approval.
 
 #### (c) Grant characteristics
 

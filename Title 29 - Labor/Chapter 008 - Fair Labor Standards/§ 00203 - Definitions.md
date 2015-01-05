@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;&emsp;(v) in the Library of Congress, or
 
-&emsp;&emsp;(vi) the <sup>1</sup> Government Printing Office;
+&emsp;&emsp;(vi) the <sup>1</sup> Government Publishing Office;
 
 &emsp;(B) any individual employed by the United States Postal Service or the Postal Regulatory Commission; and
 
@@ -54,7 +54,7 @@ As used in this chapter—
 
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
-(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, politicalsubdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
+(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
 
 (5) The term "employee" does not include individuals who volunteer their services solely for humanitarian purposes to private non-profit food banks and who receive from the food banks groceries.
 
@@ -70,7 +70,7 @@ As used in this chapter—
 
 (k) "Sale" or "sell" includes any sale, exchange, contract to sell, consignment for sale, shipment for sale, or other disposition.
 
-(l) "Oppressive child labor" means a condition of employment under which (1) any employee under the age of sixteen years is employed by an employer (other than a parent or a person standing in place of a parent employing his own child or a child in his custody under the age of sixteen years in an occupation other than manufacturing or mining or an occupation found by the Secretary of Labor to be particularly hazardous for the employment of children between the ages of sixteen and eighteen years or detrimental to their health or well-being) in any occupation, or (2) any employee between the ages of sixteen and eighteen years is employed by an employer in any occupation which the Secretary of Labor shall find and by order declare to be particularly hazardous for the employment of children between such ages or detrimental to their health or well-being; but oppressive child labor shall not be deemed to exist by virtue of the employment in any occupation of any person with respect to whom the employer shall have on file an unexpired certificate issued and held pursuant to regulations of the Secretary of Labor certifying that such person is above the oppressive child-labor age. The Secretary of Labor shall provide by regulation or by order that the employment of employees between the ages of fourteen and sixteen years in occupations other than manufacturing and mining shall not be deemed to constitute oppressive child labor if and to the extent that the Secretary of Labor determines that such employment is confined to periods which will not interfere with their schooling and to conditions which will not interfere with their health and well-being.
+(l) "Oppressive child labor" means a condition of employment under which (1) any employee under the age of sixteen years is employed by an employer (other than a parent or a person standing in place of a parent employing his own child or a child in his custody under the age of sixteen years in an occupation other than manufacturing or mining or an occupation found by the Secretary of Labor to be particularly hazardous for the employment of children between the ages of sixteen and eighteen years or detrimental to their health or well-being) in any occupation, or (2) any employee between the ages of sixteen and eighteen years is employed by an employer in any occupation which the Secretary of Labor shall find and by order declare to be particularlyhazardous for the employment of children between such ages or detrimental to their health or well-being; but oppressive child labor shall not be deemed to exist by virtue of the employment in any occupation of any person with respect to whom the employer shall have on file an unexpired certificate issued and held pursuant to regulations of the Secretary of Labor certifying that such person is above the oppressive child-labor age. The Secretary of Labor shall provide by regulation or by order that the employment of employees between the ages of fourteen and sixteen years in occupations other than manufacturing and mining shall not be deemed to constitute oppressive child labor if and to the extent that the Secretary of Labor determines that such employment is confined to periods which will not interfere with their schooling and to conditions which will not interfere with their health and well-being.
 
 (m) "Wage" paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: <i>Provided</i>, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: <i>Provided further</i>, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee. In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 
@@ -128,7 +128,7 @@ As used in this chapter—
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
@@ -182,7 +182,7 @@ Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage
 
 Subsec. (r)(3). Pub. L. 93–259, §6(a)(4), added par. (3).
 
-Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) "or employees handling,selling, or otherwise working on goods or materials" for "including employees handling, selling, or otherwise working on goods" and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
+Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) "or employees handling, selling, or otherwise working on goods or materials" for "including employees handling, selling, or otherwise working on goods" and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
 
 Subsec. (x). Pub. L. 93–259, §6(a)(6), added subsec. (x).
 
@@ -219,6 +219,10 @@ Subsec. (j). Act Oct. 26, 1949, §3(b), inserted "closely related" before "proce
 Subsec. (l)(1). Act Oct. 26, 1949, §3(c), included parental employment of a child under 16 years of age in an occupation found by the Secretary of Labor to be hazardous for children between the ages of 16 and 18 years, in definition of oppressive child labor.
 
 Subsecs. (n), (o). Act Oct. 26, 1949, §3(d), added subsecs. (n) and (o).
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (e)(2)(A)(vi) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Construction of 1999 Amendment
 
@@ -292,7 +296,7 @@ Pub. L. 99–150, §4(b), Nov. 13, 1985, 99 Stat. 790, provided that: "Not later
 
 #### Practice of Public Agency in Treating Certain Individuals as Volunteers Prior to April 15, 1986; Liability
 
-Pub. L. 99–150, §4(c), Nov. 13, 1985, 99 Stat. 790, provided that: "If, before April 15, 1986, the practice of a public agency was to treat certain individuals as volunteers, such individuals shall until April 15, 1986, be considered, for purposes of the Fair Labor Standards Act of 1938 \[this chapter\], as volunteers and not as employees. No public agency which is a State, a political subdivision of a State, or an interstate governmental agency shall be liable for a violation of section 6 \[29 U.S.C. 206\] occurring before April 15, 1986, with respect to services deemed by that agency to have been performed for it by an individual on a voluntary basis."
+Pub. L. 99–150, §4(c), Nov. 13, 1985, 99 Stat. 790, provided that: "If, before April 15, 1986, the practice of apublic agency was to treat certain individuals as volunteers, such individuals shall until April 15, 1986, be considered, for purposes of the Fair Labor Standards Act of 1938 \[this chapter\], as volunteers and not as employees. No public agency which is a State, a political subdivision of a State, or an interstate governmental agency shall be liable for a violation of section 6 \[29 U.S.C. 206\] occurring before April 15, 1986, with respect to services deemed by that agency to have been performed for it by an individual on a voluntary basis."
 
 #### Status of Baggers at Commissary of Military Department
 

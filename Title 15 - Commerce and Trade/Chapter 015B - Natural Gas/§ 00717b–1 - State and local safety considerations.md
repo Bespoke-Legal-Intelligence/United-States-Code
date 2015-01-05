@@ -26,7 +26,7 @@ The State agency may furnish an advisory report on State and local safety consid
 
 #### (d) Inspections
 
-The State commission of the State in which an LNG terminal is located may, after the terminal is operational, conduct safety inspections in conformance with Federal regulations and guidelines with respect to the LNG terminal upon written notice to the Commission. The State commission may notify the Commission of any alleged safety violations. The Commission shall transmit information regarding such allegations to the appropriate Federal agency, which shall take appropriate action and notify the State commission.
+The State commission of the State in which an LNG terminal is located may, after the terminal is operational, conduct safety inspections in conformance with Federal regulations and guidelines with respect to the LNG terminalupon written notice to the Commission. The State commission may notify the Commission of any alleged safety violations. The Commission shall transmit information regarding such allegations to the appropriate Federal agency, which shall take appropriate action and notify the State commission.
 
 #### (e) Emergency Response Plan
 

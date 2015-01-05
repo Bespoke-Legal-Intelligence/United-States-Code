@@ -24,7 +24,7 @@ Mandatory Exemptions From Reporting Requirements.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury shall exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
+In general.—The Secretary of the Treasury shall exempt, pursuant to section5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
 
 &emsp;&emsp;(A) Another depository institution.
 
@@ -70,7 +70,7 @@ In general.—The Secretary of the Treasury shall establish guidelines for depos
 
 &emsp;&emsp;(B)
 
-Contents.—The guidelines may include a description of the types of businesses or an itemization of specific businesses for which no exemption will be granted underthis subsection to any depository institution.
+Contents.—The guidelines may include a description of the types of businesses or an itemization of specific businesses for which no exemption will be granted under this subsection to any depository institution.
 
 &emsp;(5)
 
@@ -116,7 +116,7 @@ Depository Institution Defined.—For purposes of this section, the term "deposi
 
 &emsp;&emsp;(B) any corporation chartered under section 25A of the Federal Reserve Act; and
 
-&emsp;&emsp;(C) any corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act.
+&emsp;&emsp;(C) any corporation having an agreement or undertaking with the Board of Governorsof the Federal Reserve System under section 25 of the Federal Reserve Act.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 996; Pub. L. 103–325, title IV, §402(a), Sept. 23, 1994, 108 Stat. 2243.)
 

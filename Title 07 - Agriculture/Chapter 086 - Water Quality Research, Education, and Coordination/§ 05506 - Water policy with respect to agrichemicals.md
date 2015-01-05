@@ -12,7 +12,7 @@ The Department of Agriculture shall be the principal Federal agency responsible 
 
 #### (b) Effect on existing authority
 
-The authority granted in subsection (a) of this section does not alter or effect the responsibility of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.).
+The authority granted in subsection (a) does not alter or effect the responsibility of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.).
 
 #### (c) Participation
 

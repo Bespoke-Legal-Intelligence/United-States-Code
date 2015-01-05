@@ -42,7 +42,7 @@ Liability.—Any withdrawal liability incurred by an employer pursuant to part 1
 
 &emsp;"(2)
 
-Refunds.—Any amounts paid by an employer to a plan sponsor as a result of such withdrawal liability shall be refunded by the plan sponsor to the employer with interest (in accordance with section 401(a)(2) \[26 U.S.C. 401(a)(2)\]), less a reasonableamount for administrative expenses incurred by the plan sponsor (other than legal expenses incurred with respect to the plan) in calculating, assessing, and refunding such amounts.
+Refunds.—Any amounts paid by an employer to a plan sponsor as a result of such withdrawal liability shall be refunded by the plan sponsor to the employer with interest (in accordance with section 401(a)(2) \[26 U.S.C. 401(a)(2)\]), less a reasonable amount for administrative expenses incurred by the plan sponsor (other than legal expenses incurred with respect to the plan) in calculating, assessing, and refunding such amounts.
 
 "(c)
 

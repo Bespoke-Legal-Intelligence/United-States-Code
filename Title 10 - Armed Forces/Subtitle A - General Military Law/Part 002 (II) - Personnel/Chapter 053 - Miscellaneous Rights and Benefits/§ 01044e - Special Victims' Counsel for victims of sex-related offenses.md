@@ -2,7 +2,23 @@
 
 (a)
 
-Designation; Purposes.—The Secretary concerned shall designate legal counsel (to be known as "Special Victims' Counsel") for the purpose of providing legal assistance to an individual eligible for military legal assistance under section 1044 of this title who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.
+Designation; Purposes.—(1) The Secretary concerned shall designate legal counsel (to be known as "Special Victims' Counsel") for the purpose of providing legal assistance to an individual described in paragraph (2) who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.
+
+(2) An individual described in this paragraph is any of the following:
+
+&emsp;(A) An individual eligible for military legal assistance under section 1044 of this title.
+
+&emsp;(B) An individual who is—
+
+&emsp;&emsp;(i) not covered under subparagraph (A);
+
+&emsp;&emsp;(ii) a member of a reserve component of the armed forces; and
+
+&emsp;&emsp;(iii) a victim of an alleged sex-related offense as described in paragraph (1)—
+
+&emsp;&emsp;&emsp;(I) during a period in which the individual served on active duty, full-time National Guard duty, or inactive-duty training; or
+
+&emsp;&emsp;&emsp;(II) during any period, regardless of the duty status of the individual, if the circumstances of the alleged sex-related offense have a nexus to the military service of the victim, as determined under regulations prescribed by the Secretary of Defense.
 
 (b)
 
@@ -20,7 +36,7 @@ Types of Legal Assistance Authorized.—The types of legal assistance authorized
 
 &emsp;(3) Legal consultation regarding the responsibilities and support provided to the victim by the Sexual Assault Response Coordinator, a unit or installation Sexual Assault Victim Advocate, or domestic abuse advocate, to include any privileges that may exist regarding communications between those persons and the victim.
 
-&emsp;(4) Legal consultation regarding the potential for civil litigation against other parties (other than the Department of Defense).
+&emsp;(4) Legal consultation regarding the potential for civil litigation against other parties (other than the United States).
 
 &emsp;(5) Legal consultation regarding the military justice system, including (but not limited to)—
 
@@ -32,7 +48,7 @@ Types of Legal Assistance Authorized.—The types of legal assistance authorized
 
 &emsp;&emsp;(D) the victim's responsibility to testify, and other duties to the court.
 
-&emsp;(6) Accompanying the victim at any proceedings in connection with the reporting, military investigation, and military prosecution of the alleged sex-related offense.
+&emsp;(6) Representing the victim at any proceedings in connection with the reporting, military investigation, and military prosecution of the alleged sex-related offense.
 
 &emsp;(7) Legal consultation regarding eligibility and requirements for services available from appropriate agencies or offices for emotional and mental health counseling and other medical services;
 
@@ -50,7 +66,7 @@ Types of Legal Assistance Authorized.—The types of legal assistance authorized
 
 (c)
 
-Nature of Relationship.—The relationship between a Special Victims' Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
+Nature of Relationship.—The relationship between a Special Victims' Counsel and avictim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
 
 (d)
 
@@ -58,19 +74,19 @@ Qualifications.—An individual may not be designated as a Special Victims' Coun
 
 &emsp;(1) meets the qualifications specified in section 1044(d)(2) of this title; and
 
-&emsp;(2) is certified as competent to be designated as a Special Victims' Counsel by the Judge Advocate General of the armed force in which the judge advocate is a member or by which the civilian attorney is employed.
+&emsp;(2) is certified as competent to be designated as a Special Victims' Counsel by the Judge Advocate General of the armed force in which the judge advocate is a member or by which the civilian attorney is employed, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps.
 
 (e)
 
-Administrative Responsibility.—(1) Consistent with the regulations prescribed under subsection (h), the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims' Counsel.
+Administrative Responsibility.—(1) Consistent with the regulations prescribed under subsection (h), the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims' Counsel.
 
 (2) The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims' Counsel programs operated under this section.
 
 (f)
 
-Availability of Special Victims' Counsel.—(1) An individual eligible for military legal assistance under section 1044 of this title who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
+Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
 
-(2) The assistance of a Special Victims' Counsel under this subsection shall be available to an individual eligible for military legal assistance under section 1044 of this title regardless ofwhether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
+(2) The assistance of a Special Victims' Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
 
 (g)
 
@@ -84,7 +100,61 @@ Alleged Sex-related Offense Defined.—In this section, the term "alleged sex-re
 
 Regulations.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966.)
+(Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–291, §533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary concerned shall designate legal counsel (to be known as 'Special Victims' Counsel') for the purpose of providing legal assistance to an individual eligible for military legal assistance under section 1044 of this title who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted."
+
+Subsec. (b)(4). Pub. L. 113–291, §531(c)(1), substituted "the United States" for "the Department of Defense".
+
+Subsec. (b)(6). Pub. L. 113–291, §534(a), substituted "Representing the victim" for "Accompanying the victim".
+
+Subsec. (d)(2). Pub. L. 113–291, §531(c)(2), inserted ", and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps" before period at end.
+
+Subsec. (e)(1). Pub. L. 113–291, §531(c)(3), inserted "concerned" after "jurisdiction of the Secretary".
+
+Subsec. (f). Pub. L. 113–291, §533(b), substituted "described in subsection (a)(2)" for "eligible for military legal assistance under section 1044 of this title" in pars. (1) and (2).
+
+#### Enhancement of Victims' Rights in Connection With Prosecution of Certain Sex-Related Offenses
+
+Pub. L. 113–291, div. A, title V, §534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that:
+
+"(b)
+
+Consultation Regarding Victim's Preference in Prosecution Venue.—
+
+&emsp;"(1)
+
+Consultation process required.—The Secretary of Defense shall establish a process to ensure consultation with the victim of an alleged sex-related offense that occurs in the United States to solicit the victim's preference regarding whether the offense should be prosecuted by court-martial or in a civilian court with jurisdiction over the offense.
+
+&emsp;"(2)
+
+Convening authority consideration of preference.—The preference expressed by the victim of an alleged sex-related offense under paragraph (1) regarding the prosecution of the offense, while not binding, should be considered by the convening authority in making the determination regarding whether to refer the charge or specification for the offense to a court-martial for trial.
+
+&emsp;"(3)
+
+Notice to appropriate jurisdiction of victim's preference for civilian prosecution.—If the victim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim's preference for civilian prosecution.
+
+&emsp;"(4)
+
+Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an alleged sex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court.
+
+"(c)
+
+Modification of Manual for Courts-Martial.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], Part III of the Manual for Courts-Martial shall be modified to provide that when a victim of an alleged sex-related offense has a right to be heard in connection with the prosecution of the alleged sex-related such offense, the victim may exercise that right through counsel, including through a Special Victims' Counsel under section 1044e of title 10, United States Code (as amended by subsection (a)).
+
+"(d)
+
+Notice to Counsel on Scheduling of Proceedings.—The Secretary concerned shall establish policies and procedures designed to ensure that any counsel of the victim of an alleged sex-related offense, including a Special Victims' Counsel under section 1044e of title 10, United States Code (as amended by subsection (a)), is provided prompt and adequate notice of the scheduling of any hearing, trial, or other proceeding in connection with the prosecution of such offense in order to permit such counsel the opportunity to prepare for such proceeding.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'alleged sex-related offense' has the meaning given that term in section 1044e(g) of title 10, United States Code.
+
+&emsp;"(2) The term 'Secretary concerned' has the meaning given that term in section 101(a)(9) of such title."
 
 #### Implementation
 

@@ -18,7 +18,7 @@ In addition to any action that may be brought under subsection (a) of this secti
 
 #### (c) Separate offenses
 
-For the purpose of imposing civil penalties and criminal fines under this section, each day of a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
+For the purpose of imposing civil penalties and criminal fines under this section, each dayof a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
 
 #### (d) Injunctive relief
 
@@ -38,7 +38,7 @@ If the provisions of any permit issued under section 1412 or 1413 of this title 
 
 (2) No action may be commenced—
 
-&emsp;(A) prior to sixty days after notice of the violation has been given to the Administratoror to the Secretary, and to any alleged violator of the prohibition, limitation, criterion, or permit; or
+&emsp;(A) prior to sixty days after notice of the violation has been given to the Administrator or to the Secretary, and to any alleged violator of the prohibition, limitation, criterion, or permit; or
 
 &emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
 

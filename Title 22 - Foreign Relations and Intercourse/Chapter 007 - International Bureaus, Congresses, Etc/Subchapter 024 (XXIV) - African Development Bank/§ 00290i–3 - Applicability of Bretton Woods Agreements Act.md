@@ -1,6 +1,6 @@
 ### §290i–3. Applicability of Bretton Woods Agreements Act
 
-The provisions of section 4 of the Bretton Woods Agreements Act (22 U.S.C. 286b) shallapply with respect to the Bank to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
+The provisions of section 4 of the Bretton Woods Agreements Act (22 U.S.C. 286b) shall apply with respect to the Bank to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
 (Pub. L. 97–35, title XIII, §1335, Aug. 13, 1981, 95 Stat. 741; Pub. L. 101–240, title V, §541(e)(7), Dec. 19, 1989, 103 Stat. 2519.)
 

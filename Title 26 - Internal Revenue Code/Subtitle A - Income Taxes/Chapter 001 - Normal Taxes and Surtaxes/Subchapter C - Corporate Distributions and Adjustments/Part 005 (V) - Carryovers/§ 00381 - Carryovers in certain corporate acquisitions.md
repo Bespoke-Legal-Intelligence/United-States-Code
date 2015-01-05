@@ -32,7 +32,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
-&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryoversunder section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the "loss year") of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a "prior taxable year" (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
+&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the "loss year") of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a "prior taxable year" (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
 
 &emsp;&emsp;&emsp;(i) such taxable year shall (for the purpose of this subparagraph only) be considered to be 2 taxable years (hereinafter in this subparagraph referred to as the "pre-acquisition part year" and the "post-acquisition part year");
 
@@ -138,7 +138,7 @@ The items referred to in subsection (a) are:
 
 #### (23) Deficiency dividend of regulated investment company or real estate investment trust
 
-&emsp;If the acquiring corporation pays a deficiency dividend (as defined in section 860(f)) with respect to the distributor or transferor corporation, such distributor or transferor corporation shall, with respect to such payments, be entitled to the deficiency dividend deduction provided in section 860.
+&emsp;If the acquiring corporation pays a deficiency dividend (as defined in section 860(f)) with respect to the distributor or transferorcorporation, such distributor or transferor corporation shall, with respect to such payments, be entitled to the deficiency dividend deduction provided in section 860.
 
 #### (24) Credit under section 38
 
@@ -254,7 +254,7 @@ Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted "Treatment of certai
 
 <b>1964</b>—Subsec. (c)(15). Pub. L. 88–272, §225(i)(3), substituted "subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness" for "section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934".
 
-Subsec. (c)(19). Pub. L. 88–272, §209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shallbe treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
+Subsec. (c)(19). Pub. L. 88–272, §209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shall be treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
 
 <b>1962</b>—Subsec. (c)(23). Pub. L. 87–834 added par. (23).
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1987, with special rules for nondealers and coordination with Tax Reform Act of 1986, see section 10202(e)(1), (3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
+Amendment by Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1987,with special rules for nondealers and coordination with Tax Reform Act of 1986, see section 10202(e)(1), (3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -342,7 +342,7 @@ Pub. L. 92–178, title VI, §601(f), Dec. 10, 1971, 85 Stat. 560, provided that
 
 Amendment by section 504(c)(2) of Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec. 31, 1969, see section 504(d)(1) of Pub. L. 91–172, set out as a note under section 243 of this title.
 
-Amendment by section 512(c) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
+Amendment by section 512(c) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
 Amendment by section 521(f) of Pub. L. 91–172 applicable with respect to taxable years ending after July 24, 1969, see section 521(g) of Pub. L. 91–172, set out as a note under section 167 of this title.
 
@@ -442,7 +442,7 @@ Regulations.—For requirement that the Secretary of the Treasury or his delegat
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(1) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(1) of Pub. L. 99–514 notwithstanding any treaty obligation ofthe United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

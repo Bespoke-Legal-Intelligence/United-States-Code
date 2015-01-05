@@ -30,7 +30,7 @@ Pub. L. 102–166, title IV, §402, Nov. 21, 1991, 105 Stat. 1099, provided that
 
 "(a)
 
-In General.—Except as otherwise specifically provided, this Act \[see Short Title of 1991 Amendmentnote below\] and the amendments made by this Act shall take effect upon enactment \[Nov. 21, 1991\].
+In General.—Except as otherwise specifically provided, this Act \[see Short Title of 1991 Amendment note below\] and the amendments made by this Act shall take effect upon enactment \[Nov. 21, 1991\].
 
 "(b)
 

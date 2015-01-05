@@ -34,7 +34,7 @@ Research on Human Factors and Simulation Models.—The Administrator shall condu
 
 &emsp;(6) to develop a better understanding of the relationship between human factors and unmanned aircraft system safety; and
 
-&emsp;(7) to develop dynamic simulation models for integrating all classes of unmanned aircraftsystems into the national airspace system without any degradation of existing levels of safety for all national airspace system users.
+&emsp;(7) to develop dynamic simulation models for integrating all classes of unmanned aircraft systems into the national airspace system without any degradation of existing levels of safety for all national airspace system users.
 
 (c)
 
@@ -162,7 +162,7 @@ Maximum Amount.—Not more than a total of $2,500,000 may be expended under the 
 
 Pub. L. 112–95, title IX, §904, Feb. 14, 2012, 126 Stat. 139, provided that: "Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\] shall continue to carry out a research program under which the Administrator may make grants to and enter into cooperative agreements with institutions of higher education and pavement research organizations for research and technology demonstrations related to—
 
-&emsp;"(1) the design, construction, rehabilitation, and repair of airfield pavements to aid in the developmentof safer, more cost effective, and more durable airfield pavements; and
+&emsp;"(1) the design, construction, rehabilitation, and repair of airfield pavements to aid in the development of safer, more cost effective, and more durable airfield pavements; and
 
 &emsp;"(2) engineered material restraining systems for runways at both general aviation airports and airports with commercial air carrier operations."
 

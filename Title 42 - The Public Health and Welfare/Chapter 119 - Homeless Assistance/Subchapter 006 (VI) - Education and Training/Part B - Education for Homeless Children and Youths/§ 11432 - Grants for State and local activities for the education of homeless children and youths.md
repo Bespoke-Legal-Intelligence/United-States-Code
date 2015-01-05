@@ -24,7 +24,7 @@ No State may receive a grant under this section unless the State educational age
 
 #### (2) Reservations
 
-&emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
+&emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated foreach fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
 
 &emsp;(B)(i) The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under section 11435 of this title to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), that are consistent with the purposes of the programs described in this part.
 
@@ -90,7 +90,7 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) that no homeless child or youth is required to attend a separate school for homeless children or youths;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) that homeless children and youths shall be provided comparable services described in subsection (g)(4) of this section, including transportation services, educational services, and meals through school meals programs; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) that homeless children and youths shall be provided comparable services described in subsection (g)(4) of this section, including transportation services, educational services,and meals through school meals programs; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) that homeless children and youths should not be stigmatized by school personnel; and
 
@@ -376,7 +376,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(iii) homeless families, children, and youths receive educational services for which such families, children, and youths are eligible, including Head Start and Even Start programs and preschool programs administered by the local educational agency, and referrals to health care services, dental services, mental health services, and other appropriate services;
 
-&emsp;&emsp;&emsp;(iv) the parents or guardians of homeless children and youths are informed of the educational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;
+&emsp;&emsp;&emsp;(iv) the parents or guardians of homeless children and youths are informed of theeducational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;
 
 &emsp;&emsp;&emsp;(v) public notice of the educational rights of homeless children and youths is disseminated where such children and youths receive services under this chapter, such as schools, family shelters, and soup kitchens;
 
@@ -448,7 +448,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B)(i), is Pub. L.93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -460,7 +460,7 @@ This chapter, referred to in subsec. (g)(6)(A)(v), was in the original "this Act
 
 A prior section 11432, Pub. L. 100–77, title VII, §722, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3957, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
-Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education ofhomeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
+Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
 
 #### Amendments
 

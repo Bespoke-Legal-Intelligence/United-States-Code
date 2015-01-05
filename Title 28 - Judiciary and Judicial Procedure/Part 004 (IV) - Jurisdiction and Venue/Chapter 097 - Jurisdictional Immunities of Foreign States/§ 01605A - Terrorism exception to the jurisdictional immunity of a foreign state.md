@@ -128,7 +128,7 @@ Pub. L. 110–181, div. A, title X, §1083(c), Jan. 28, 2008, 122 Stat. 342, pro
 
 "(1)
 
-In general.—The amendments made by this section \[enacting this section and amending sections 1605,1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] shall apply to any claim arising under section 1605A of title 28, United States Code.
+In general.—The amendments made by this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] shall apply to any claim arising under section 1605A of title 28, United States Code.
 
 "(2)
 
@@ -274,7 +274,7 @@ In general.—Notwithstanding any other provision of law, upon submission of a c
 
 &emsp;&emsp;"(B) section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 \[Pub. L. 104–208, div. A, title I, §101(c)\] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
 
-&emsp;&emsp;"(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought against property of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
+&emsp;&emsp;"(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought againstproperty of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
 
 &emsp;"(2)
 

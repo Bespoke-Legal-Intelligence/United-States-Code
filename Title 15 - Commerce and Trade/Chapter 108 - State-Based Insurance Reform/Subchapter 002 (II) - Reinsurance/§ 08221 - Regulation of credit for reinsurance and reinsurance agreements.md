@@ -6,7 +6,7 @@ If the State of domicile of a ceding insurer is an NAIC-accredited State, or has
 
 #### (b) Additional preemption of extraterritorial application of State law
 
-In addition to the application of subsection (a), all laws, regulations, provisions, or other actions of a State that is not the domiciliary State of the ceding insurer, except those withrespect to taxes and assessments on insurance companies or insurance income, are preempted to the extent that they—
+In addition to the application of subsection (a), all laws, regulations, provisions, or other actions of a State that is not the domiciliary State of the ceding insurer, except those with respect to taxes and assessments on insurance companies or insurance income, are preempted to the extent that they—
 
 &emsp;(1) restrict or eliminate the rights of the ceding insurer or the assuming insurer to resolve disputes pursuant to contractual arbitration to the extent such contractual provision is not inconsistent with the provisions of title 9;
 

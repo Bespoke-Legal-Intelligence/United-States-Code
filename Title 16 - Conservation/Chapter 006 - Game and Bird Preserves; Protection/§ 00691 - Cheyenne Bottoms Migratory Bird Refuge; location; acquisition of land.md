@@ -1,6 +1,6 @@
 ### §691. Cheyenne Bottoms Migratory Bird Refuge; location; acquisition of land
 
-The Secretary of the Interior is authorized to acquire by purchase, gift, or lease not to exceed twenty thousand acres of land in what is known as the Cheyenne Bottoms, in Barton County, Kansas, or, in lieu of purchase, to compensate any owner for any damage sustained by reason of submergence of his lands.
+The Secretary of the Interior is authorized to acquire by purchase, gift, or lease not to exceed twenty thousand acres of land in what is knownas the Cheyenne Bottoms, in Barton County, Kansas, or, in lieu of purchase, to compensate any owner for any damage sustained by reason of submergence of his lands.
 
 (June 12, 1930, ch. 469, §1, 46 Stat. 579; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 

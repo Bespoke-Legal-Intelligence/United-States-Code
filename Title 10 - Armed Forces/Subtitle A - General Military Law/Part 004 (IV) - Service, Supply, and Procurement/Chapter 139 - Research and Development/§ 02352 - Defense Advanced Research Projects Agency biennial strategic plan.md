@@ -42,5 +42,5 @@ Subsec. (c). Pub. L. 113–66, §211(b), substituted "Director shall, in coordin
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title II, §211(c), Dec. 26, 2013, 127 Stat. 703, provided that: "The amendments made bythis section \[amending this section\] shall apply with respect to biennial strategic plans submitted under section 2352 of title 10, United States Code, as amended by this section, after the date of the enactment of this Act \[Dec. 26, 2013\]."
+Pub. L. 113–66, div. A, title II, §211(c), Dec. 26, 2013, 127 Stat. 703, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to biennial strategic plans submitted under section 2352 of title 10, United States Code, as amended by this section, after the date of the enactment of this Act \[Dec. 26, 2013\]."
 

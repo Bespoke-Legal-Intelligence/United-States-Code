@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, the Secretary is, subject to the pro
 
 &emsp;(3) Consistent with paragraph (2) of this subsection, the State shall create a State park or conservation/recreation area in the lands and interests in lands acquired for the project lying between the Atlantic Ocean and the western boundaries of sections 20 and 29, township 15 south, range 23 east.
 
-&emsp;(4) The State shall agree, consistent with paragraphs (2), (5) and (6) of this subsection, to preserve, enhance, interpret, and manage the water and related land resources of the area containing cultural, fish and wildlife, scenic, and recreational values in the remaining lands and interests in land acquired for the project, lying west of sections 20 and 29, township 15 south, range 23 east, as determined by the State, for the benefit and enjoyment of present and future generations of people and the development of outdoor recreation.
+&emsp;(4) The State shall agree, consistent with paragraphs (2), (5) and (6) of this subsection, to preserve, enhance, interpret, and manage the water and related land resources of the area containing cultural, fish and wildlife, scenic, and recreational values in the remaining lands and interests in land acquired for the project, lying west of sections 20 and 29, township 15south, range 23 east, as determined by the State, for the benefit and enjoyment of present and future generations of people and the development of outdoor recreation.
 
 &emsp;(5) The State shall agree to pay, from the assets of the State Canal Authority and the Cross Florida Canal Navigation District, including revenues from the sale of former project lands declared surplus by the State management plan, to the counties of Citrus, Clay, Duval, Levy, Marion, and Putnam a minimum aggregate sum of $32,000,000 in cash or, at the option of the counties, payment to be made by conveyance of surplus former project lands selected by the State at current appraised values.
 
@@ -48,7 +48,7 @@ In the 24-month period following November 28, 1990, the Secretary shall carry ou
 
 #### (1) In general
 
-&emsp;During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d) of this section. The maintenance shall be performed at a level of service that isnecessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
+&emsp;During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d) of this section. The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
 
 #### (2) Funding
 

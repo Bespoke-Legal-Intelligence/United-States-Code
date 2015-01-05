@@ -42,7 +42,7 @@ Covered Law.—A provision of law referred to in subsections (b)(2) and (c) is a
 
 &emsp;(1) provides for criminal or civil penalties; or
 
-&emsp;(2) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial items.
+&emsp;(2) specifically refers to this section and provides that, notwithstanding this section, itshall be applicable to contracts for the procurement of commercial items.
 
 (e)
 

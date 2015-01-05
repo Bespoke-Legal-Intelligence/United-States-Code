@@ -2,17 +2,17 @@
 
 #### (a) In general
 
-For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal operation and service on board a vessel” does not include any activity that is longshore work (as defined in subsection (b) of this section), except as provided under subsection (c), (d), or (e) of this section.
+For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operation and service on board a vessel" does not include any activity that is longshore work (as defined in subsection (b) of this section), except as provided under subsection (c), (d), or (e) of this section.
 
-#### (b) “Longshore work” defined
+#### (b) "Longshore work" defined
 
 #### (1) In general
 
-&emsp;In this section, except as provided in paragraph (2), the term “longshore work” means any activity relating to the loading or unloading of cargo, the operation of cargo-related equipment (whether or not integral to the vessel), and the handling of mooring lines on the dock when the vessel is made fast or let go, in the United States or the coastal waters thereof.
+&emsp;In this section, except as provided in paragraph (2), the term "longshore work" means any activity relating to the loading or unloading of cargo, the operation of cargo-related equipment (whether or not integral to the vessel), and the handling of mooring lines on the dock when the vessel is made fast or let go, in the United States or the coastal waters thereof.
 
 #### (2) Exception for safety and environmental protection
 
-&emsp;The term “longshore work” does not include the loading or unloading of any cargo for which the Secretary of Transportation has, under the authority contained in chapter 37 of title 46 (relating to Carriage of Liquid Bulk Dangerous Cargoes), section 1321 of title 33, section 4106 of the Oil Pollution Act of 1990, or section 5103(b), 5104, 5106, 5107, or 5110 of title 49 prescribed regulations which govern—
+&emsp;The term "longshore work" does not include the loading or unloading of any cargo for which the Secretary of Transportation has, under the authority contained in chapter 37 of title 46 (relating to Carriage of Liquid Bulk Dangerous Cargoes), section 1321 of title 33, section 4106 of the Oil Pollution Act of 1990, or section 5103(b), 5104, 5106, 5107, or 5110 of title 49 prescribed regulations which govern—
 
 &emsp;&emsp;(A) the handling or stowage of such cargo,
 
@@ -40,7 +40,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 &emsp;&emsp;(ii) notice of the attestation has been provided by the owner, agent, consignee, master, or commanding officer to the bargaining representative of longshore workers in the local port, or, where there is no such bargaining representative, notice of the attestation has been provided to longshore workers employed at the local port.
 
-> In applying subparagraph (B) in the case of a particular activity of longshore work consisting of the use of an automated self-unloading conveyor belt or vacuum-actuated system on a vessel, the attestation shall be required to be filed only if the Secretary of Labor finds, based on apreponderance of the evidence which may be submitted by any interested party, that the performance of such particular activity is not described in clause (i) of such subparagraph.
+> In applying subparagraph (B) in the case of a particular activity of longshore work consisting of the use of an automated self-unloading conveyor belt or vacuum-actuated system on a vessel, the attestation shall be required to be filed only if the Secretary of Labor finds, based on a preponderance of the evidence which may be submitted by any interested party, that the performance of such particular activity is not described in clause (i) of such subparagraph.
 
 (2) Subject to paragraph (4), an attestation under paragraph (1) shall—
 
@@ -48,7 +48,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 &emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner, agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
 
-(3) An owner, agent, consignee, master, or commanding officer may meet the requirements under this subsection with respect to more than one alien crewman in a single list.
+(3) An owner, agent, consignee, master, or commanding officer may meet the requirementsunder this subsection with respect to more than one alien crewman in a single list.
 
 (4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section 1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) of this section is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) of this section (and accompanying documentation) and each such list filed by the entity.
 
@@ -74,7 +74,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 #### (d) State of Alaska exception
 
-(1) Subsection (a) of this section shall not apply to a particular activity of longshore work at a particular location in the State of Alaska ifan employer of alien crewmen has filed an attestation with the Secretary of Labor at least 30 days before the date of the first performance of the activity (or anytime up to 24 hours before the first performance of the activity, upon a showing that the employer could not have reasonably anticipated the need to file an attestation for that location at that time) setting forth facts and evidence to show that—
+(1) Subsection (a) of this section shall not apply to a particular activity of longshore work at a particular location in the State of Alaska if an employer of alien crewmen has filed an attestation with the Secretary of Labor at least 30 days before the date of the first performance of the activity (or anytime up to 24 hours before the first performance of the activity, upon a showing that the employer could not have reasonably anticipated the need to file an attestation for that location at that time) setting forth facts and evidence to show that—
 
 &emsp;(A) the employer will make a bona fide request for United States longshore workers who are qualified and available in sufficient numbers to perform the activity at the particular time and location from the parties to whom notice has been provided under clauses (ii) and (iii) of subparagraph (D), except that—
 
@@ -128,11 +128,11 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (6) For purposes of this subsection—
 
-&emsp;(A) the term “contract stevedoring companies” means those stevedoring companies licensed to do business in the State of Alaska that meet the requirements of section 932 of title 33;
+&emsp;(A) the term "contract stevedoring companies" means those stevedoring companies licensed to do business in the State of Alaska that meet the requirements of section 932 of title 33;
 
-&emsp;(B) the term “employer” includes any agent or representative designated by the employer; and
+&emsp;(B) the term "employer" includes any agent or representative designated by the employer; and
 
-&emsp;(C) the terms “qualified” and “available in sufficient numbers” shall be defined by reference to industry standards in the State of Alaska, including safety considerations.
+&emsp;(C) the terms "qualified" and "available in sufficient numbers" shall be defined by reference to industry standards in the State of Alaska, including safety considerations.
 
 #### (e) Reciprocity exception
 
@@ -148,9 +148,9 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 &emsp;The Secretary of State shall, in accordance with section 553 of title 5, compile and annually maintain a list, of longshore work by particular activity, of countries where performance of such a particular activity by crewmembers aboard United States vessels is prohibited by law, regulation, or in practice in the country. By not later than 90 days after November 29, 1990, the Secretary shall publish a notice of proposed rulemaking to establish such list. The Secretary shall first establish such list by not later than 180 days after November 29, 1990.
 
-#### (3) “In practice” defined
+#### (3) "In practice" defined
 
-&emsp;For purposes of this subsection, the term “in practice” refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
+&emsp;For purposes of this subsection, the term "in practice" refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
 
 (June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29, 1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L. 103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
 
@@ -162,25 +162,25 @@ The National Labor Relations Act, referred to in subsec. (d)(1)(D)(i), is act Ju
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–208 substituted “section 5103(b), 5104, 5106, 5107, or 5110 of title 49” for “section 105 or 106 of the Hazardous Materials Transportation Act (49 U.S.C. App. 1804, 1805)”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–208 substituted "section 5103(b), 5104, 5106, 5107, or 5110 of title 49" for "section 105 or 106 of the Hazardous Materials Transportation Act (49 U.S.C. App. 1804, 1805)".
 
 <b>1994</b>—Subsecs. (a), (c)(4)(A), (5). Pub. L. 103–416, §219(gg), repealed Pub. L. 103–198, §8(b), which had made amendments identical to those made by Pub. L. 103–206, §323(b). See 1993 Amendment note below.
 
 Subsec. (d). Pub. L. 103–416, §219(gg), repealed Pub. L. 103–198, §8(a), which had made an amendment substantially identical to that made by Pub. L. 103–206, §323(a). See 1993 Amendment note below.
 
-Subsec. (d)(3)(B). Pub. L. 103–416, §219(f), substituted “subparagraph (A)(iii)” for “subparagraph (A)”.
+Subsec. (d)(3)(B). Pub. L. 103–416, §219(f), substituted "subparagraph (A)(iii)" for "subparagraph (A)".
 
 Subsec. (e). Pub. L. 103–416, §219(gg), repealed Pub. L. 103–198, §8(a), which had made an amendment substantially identical to that made by Pub. L. 103–206, §323(a). See 1993 Amendment note below.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–206, §323(b)(1), substituted “subsection (c), (d), or (e) of this section” for “subsection (c) of this section or subsection (d) of this section”. Pub. L. 103–198, §8(b)(1), which amended subsec. (a) identically, was repealed by Pub. L. 103–416, §219(gg).
+<b>1993</b>—Subsec. (a). Pub. L. 103–206, §323(b)(1), substituted "subsection (c), (d), or (e) of this section" for "subsection (c) of this section or subsection (d) of this section". Pub. L. 103–198, §8(b)(1), which amended subsec. (a) identically, was repealed by Pub. L. 103–416, §219(gg).
 
-Subsec. (c)(4)(A). Pub. L. 103–206, §323(b)(2), inserted “or subsection (d)(1) of this section” after “paragraph (1)” in two places. Pub. L. 103–198, §8(b)(2), which amended subpar. (A) identically, was repealed by Pub. L. 103–416, §219(gg).
+Subsec. (c)(4)(A). Pub. L. 103–206, §323(b)(2), inserted "or subsection (d)(1) of this section" after "paragraph (1)" in two places. Pub. L. 103–198, §8(b)(2), which amended subpar. (A) identically, was repealed by Pub. L. 103–416, §219(gg).
 
 Subsec. (c)(5). Pub. L. 103–206, §323(b)(3), added par. (5). Pub. L. 103–198, §8(b)(3), which amended subsec. (c) identically, was repealed by Pub. L. 103–416, §219(gg).
 
 Subsecs. (d), (e). Pub. L. 103–206, §323(a), added subsec. (d) and redesignated former subsec. (d) as (e). Pub. L. 103–198, §8(a), which made substantially identical amendments to this section, was repealed by Pub. L. 103–416, §219(gg).
 
-<b>1991</b>—Subsec. (c)(2)(B). Pub. L. 102–232 substituted “each list” for “each such list”.
+<b>1991</b>—Subsec. (c)(2)(B). Pub. L. 102–232 substituted "each list" for "each such list".
 
 #### Effective Date of 1994 Amendment
 
@@ -198,9 +198,9 @@ Section applicable to services performed on or after 180 days after Nov. 29, 199
 
 Pub. L. 103–206, title III, §323(c), Dec. 20, 1993, 107 Stat. 2430, provided that:
 
-“(1) The Secretary of Labor shall prescribe such regulations as may be necessary to carry out this section \[amending this section\].
+"(1) The Secretary of Labor shall prescribe such regulations as may be necessary to carry out this section \[amending this section\].
 
-“(2) Attestations filed pursuant to section 258(c) (8 U.S.C. 1288(c)) with the Secretary of Labor before the date of enactment of this Act \[Dec. 20, 1993\] shall remain valid until 60 days after the date of issuance of final regulations by the Secretary under this section.”
+"(2) Attestations filed pursuant to section 258(c) (8 U.S.C. 1288(c)) with the Secretary of Labor before the date of enactment of this Act \[Dec. 20, 1993\] shall remain valid until 60 days after the date of issuance of final regulations by the Secretary under this section."
 
 Similar provisions were contained in Pub. L. 103–198, §8(c), Dec. 17, 1993, 107 Stat. 2315, prior to repeal by Pub. L. 103–416, title II, §219(gg), Oct. 25, 1994, 108 Stat. 4319.
 
@@ -210,7 +210,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Inapplicability of Amendment by Pub. L. 101–649
 
-Pub. L. 101–649, title II, §203(a)(2), Nov. 29, 1990, 104 Stat. 5018, provided that: “This section \[enacting thissection, amending section 1101 of this title, and enacting provisions set out as a note under section 1101 of this title\] does not affect the performance of longshore work in the United States by citizens or nationals of the United States.”
+Pub. L. 101–649, title II, §203(a)(2), Nov. 29, 1990, 104 Stat. 5018, provided that: "This section \[enacting this section, amending section 1101 of this title, and enacting provisions set out as a note under section 1101 of this title\] does not affect the performance of longshore work in the United States by citizens or nationals of the United States."
 
-<i><sup>1</sup></i><i> So in original. The word “at” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "at" probably should not appear.</i>
 

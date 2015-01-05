@@ -76,7 +76,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;(i) shall provide a reasonable opportunity, not to exceed 30 days, to submit to the applicable Secretary evidence indicating a satisfactory immigration status, or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),
 
-&emsp;&emsp;&emsp;(ii) in the case of any individual receiving assistance on September 30, 1996, may not delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual until the expiration of that 30-day period; and
+&emsp;&emsp;&emsp;(ii) in the case of any individual receiving assistance on September 30, 1996, may not delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigrationstatus of that individual until the expiration of that 30-day period; and
 
 &emsp;&emsp;&emsp;(iii) in the case of any individual applying for financial assistance on or after September 30, 1996, may not deny the application for such assistance on the basis of the immigration status of that individual until the expiration of that 30-day period; and
 
@@ -86,7 +86,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;(ii) pending such verification or appeal, the applicable Secretary may not—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of any individual receiving assistance on September 30, 1996,delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of any individual receiving assistance on September 30, 1996, delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any individual applying for financial assistance on or after September 30, 1996, deny the application for such assistance on the basis of the immigration status of that individual; and
 
@@ -276,7 +276,7 @@ Subsec. (d)(4). Pub. L. 100–242, §164(c)(2), in introductory provisions, inse
 
 Subsec. (d)(4)(A)(i). Pub. L. 100–242, §164(c)(3), inserted after comma "or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),".
 
-Subsec. (d)(4)(B). Pub. L. 100–242, §164(c)(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "if there are submitted documents which the Secretary determines constitutes reasonable evidence indicating such status—".
+Subsec. (d)(4)(B). Pub. L. 100–242, §164(c)(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "if thereare submitted documents which the Secretary determines constitutes reasonable evidence indicating such status—".
 
 Subsec. (d)(4)(B)(i), (ii). Pub. L. 100–242, §164(c)(5), (6), inserted "or additional information" after "documents" in cl. (i), and "or appeal" after "verification" in cl. (ii).
 

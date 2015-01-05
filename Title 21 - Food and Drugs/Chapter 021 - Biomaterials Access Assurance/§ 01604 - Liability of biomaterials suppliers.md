@@ -20,7 +20,7 @@ Except as provided in section 1606 of this title, a biomaterials supplier shall 
 
 &emsp;The biomaterials supplier may be considered the manufacturer of the implant that allegedly caused harm to a claimant only if the biomaterials supplier—
 
-&emsp;&emsp;(A)(i) registered or was required to register with the Secretary pursuant to section 360 ofthis title and the regulations issued under such section; and
+&emsp;&emsp;(A)(i) registered or was required to register with the Secretary pursuant to section 360 of this title and the regulations issued under such section; and
 
 &emsp;&emsp;(ii) included or was required to include the implant on a list of devices filed with the Secretary pursuant to section 360(j) of this title and the regulations issued under such section;
 

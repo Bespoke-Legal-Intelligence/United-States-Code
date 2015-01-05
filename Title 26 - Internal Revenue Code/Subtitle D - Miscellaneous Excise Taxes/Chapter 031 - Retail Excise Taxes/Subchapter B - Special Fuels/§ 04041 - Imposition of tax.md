@@ -90,7 +90,7 @@
 
 #### (B) Tax where other use
 
-&emsp;&emsp;If a liquid on which no tax was imposed by reason of subparagraph (A) is used otherwisethan in an off-highway business use, a tax shall be imposed by paragraph (1)(B), (2)(B), or (3)(A)(ii) of subsection (a) (whichever is appropriate) and by the corresponding provision of subsection (d)(1) (if any).
+&emsp;&emsp;If a liquid on which no tax was imposed by reason of subparagraph (A) is used otherwise than in an off-highway business use, a tax shall be imposed by paragraph (1)(B), (2)(B), or (3)(A)(ii) of subsection (a) (whichever is appropriate) and by the corresponding provision of subsection (d)(1) (if any).
 
 #### (C) Off-highway business use defined
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), 5.4 cents, and
 
-&emsp;&emsp;&emsp;(ii) for sales or uses during calendar years 2001 through 2008, 1/10 of the blender amount applicable under section 40(h)(2) for the calendar year in which the sale or use occurs.
+&emsp;&emsp;&emsp;(ii) for sales or uses during calendar years 2001 through 2008, 1/10 of the blender amount applicable under section 40(h)(2)for the calendar year in which the sale or use occurs.
 
 #### (D) Termination
 
@@ -200,7 +200,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under thi
 
 &emsp;(5) with respect to the sale of any liquid to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization's exclusive use in the collection, storage, or transportation of blood.
 
-> For purposes of paragraph (4), the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
+> For purposes of paragraph (4), the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes aschool operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
 
 #### (h) Exemption for use by certain aircraft museums
 
@@ -252,7 +252,7 @@ No tax shall be imposed under this section on any liquid sold for use in, or use
 
 &emsp;The term "partially exempt methanol or ethanol fuel" means any liquid at least 85 percent of which consists of methanol, ethanol, or other alcohol produced from natural gas.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 478; Mar. 30, 1955, ch. 18, §3(a)(1), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(1), 70 Stat. 66; Apr. 2, 1956, ch. 160, §2(a)(1), 70 Stat. 89; June 29, 1956, ch. 462, title II, §202, 70 Stat. 387; Pub. L. 85–859, title I, §119(b)(1), Sept. 2, 1958, 72 Stat. 1286; Pub. L. 86–342, title II, §201(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(a), (c), (d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 89–44, title VIII, §802(a)(2), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §202, May 21, 1970, 84 Stat. 237; Pub. L. 91–605, title III, §303(a)(1), (2), Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–280, title III, §303(a)(1), (2), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(a)(1)(B), (C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1810, 1811, 1834; Pub. L. 94–530, §1(a), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §502(a)(1), (b), Nov. 6, 1978, 92 Stat. 2756, 2757; Pub. L. 95–600, title VII, §703(l)(1), (2), Nov. 6,1978, 92 Stat. 2942; Pub. L. 95–618, title II, §§221(b)(1), 222(a)(2), 233(a)(3)(B), Nov. 9, 1978, 92 Stat. 3185, 3187, 3191; Pub. L. 96–223, title II, §232(a)(2), Apr. 2, 1980, 94 Stat. 273; Pub. L. 96–298, §1(a), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §279(a), (b)(1), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(a)(2), (b)(1), (c)(2), (d)(2), (g)(1), 516(a)(1), (b)(1), Jan. 6, 1983, 96 Stat. 2169–2171, 2173, 2182, 2183; Pub. L. 98–369, div. A, title IX, §§911(a), 912(a), 913(a), title X, §1018(a), July 18, 1984, 98 Stat. 1005, 1007, 1008, 1021; Pub. L. 99–499, title V, §521(a)(2), (d)(1)–(3), Oct. 17, 1986, 100 Stat. 1776, 1779; Pub. L. 99–514, title IV, §422(a)(1), (2), title XVII, §1702(a), title XVIII, §1878(c)(1), Oct. 22, 1986, 100 Stat. 2229, 2773, 2903; Pub. L. 100–17, title V, §502(a)(1), (b)(1)–(3), (c)(1), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(b), Dec. 22, 1987, 101 Stat. 1330–441; Pub. L. 100–223, title IV, §§402(b), 404(b), 405(b)(3), Dec. 30, 1987, 101 Stat. 1532, 1533, 1535; Pub. L. 100–647, title I, §1017(c)(3), (4), title II, §2001(d)(2), (3)(A)–(D), Nov. 10, 1988, 102 Stat. 3576, 3595; Pub. L. 101–508, title XI, §§11211(a)(4), (b)(3), (6)(C)–(E)(i), (F), (d)(1), (2), (e)(1), (2), 11213(b)(2)(A), (B), (d)(2)(B), (e)(3), Nov. 5, 1990, 104 Stat. 1388–423, 1388–425 to 1388–427, 1388–433, 1388–436; Pub. L. 102–240, title VIII, §8002(b)(1), (2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13163(a)(2), 13241(b)(2)(A), (B)(iii), (c), (e), (f)(1), (2), 13242(d)(3)–(13), Aug. 10, 1993, 107 Stat. 453, 510, 511, 522–524; Pub. L. 104–188, title I, §§1208, 1609(a)(3), (g)(3), (4)(A), Aug. 20, 1996, 110 Stat. 1776, 1841–1843; Pub. L. 105–2, §2(a)(3), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title IX, §§902(b)(1), (2), 907(a), (b), title X, §§1031(a)(3), 1032(e)(1), (2), title XIV, §1435(b), title XVI, §1601(f)(4)(A), (B), Aug. 5, 1997, 111 Stat. 873, 875, 929, 935, 1053, 1090; Pub. L. 105–178, title IX, §§9002(a)(1)(A)–(C), 9003(a)(1)(A), (B), (b)(2)(A), 9006(a), June 9, 1998, 112 Stat. 499, 501, 502, 506; Pub. L. 105–206, title VI, §6010(g)(1), July 22, 1998, 112 Stat. 814; Pub. L. 108–357, title II, §241(a)(1), (2)(A), title III, §301(c)(5), (6), title VIII, §853(a)(6), (d)(2)(A)–(E), Oct. 22, 2004, 118 Stat. 1437, 1461, 1611–1613; Pub. L. 109–58, title XIII, §1362(b)(2), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(A)–(C), 11113(a), 11151(e)(2), 11161(b)(1), (3)(A), Aug. 10, 2005, 119 Stat. 1943, 1946, 1969–1971; Pub. L. 109–280, title XII, §1207(a), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 109–432, div. A, title II, §208, Dec. 20, 2006, 120 Stat. 2946; Pub. L. 110–172, §6(d)(1)(A), (2)(A), (3), Dec. 29, 2007, 121 Stat. 2480, 2481; Pub. L. 112–30, title I, §142(a)(1)(A), (B), (2)(A), Sept. 16, 2011, 125 Stat. 355, 356; Pub. L. 112–102, title IV, §402(a)(1)(A), (B), (2)(A), Mar. 30, 2012, 126 Stat. 281, 282; Pub. L. 112–140, title IV, §402(a)(1)(A), (B), (2)(A), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(1)(A), (B), (2)(A), July 6, 2012, 126 Stat. 844.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 478; Mar. 30, 1955, ch. 18, §3(a)(1), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(1), 70 Stat. 66; Apr. 2, 1956, ch. 160, §2(a)(1), 70 Stat. 89; June 29, 1956, ch. 462, title II, §202, 70 Stat. 387; Pub. L. 85–859, title I, §119(b)(1), Sept. 2, 1958, 72 Stat. 1286; Pub. L. 86–342, title II, §201(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(a), (c), (d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 89–44, title VIII, §802(a)(2), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §202, May 21, 1970, 84 Stat. 237; Pub. L. 91–605, title III, §303(a)(1), (2), Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–280, title III, §303(a)(1), (2), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(a)(1)(B), (C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1810, 1811, 1834; Pub. L. 94–530, §1(a), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §502(a)(1), (b), Nov. 6, 1978, 92 Stat. 2756, 2757; Pub. L. 95–600, title VII, §703(l)(1), (2), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 95–618, title II, §§221(b)(1), 222(a)(2), 233(a)(3)(B), Nov. 9, 1978, 92 Stat. 3185, 3187, 3191; Pub. L. 96–223, title II, §232(a)(2), Apr. 2, 1980, 94 Stat. 273; Pub. L. 96–298, §1(a), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §279(a), (b)(1), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(a)(2), (b)(1), (c)(2), (d)(2), (g)(1), 516(a)(1), (b)(1), Jan. 6, 1983, 96 Stat. 2169–2171, 2173, 2182, 2183; Pub. L. 98–369, div. A, title IX, §§911(a), 912(a), 913(a), title X, §1018(a), July 18, 1984, 98 Stat. 1005, 1007, 1008, 1021; Pub. L. 99–499, title V, §521(a)(2), (d)(1)–(3), Oct. 17, 1986, 100 Stat. 1776, 1779; Pub. L. 99–514, title IV, §422(a)(1), (2), title XVII, §1702(a), title XVIII, §1878(c)(1), Oct. 22, 1986, 100 Stat. 2229, 2773, 2903; Pub. L. 100–17, title V, §502(a)(1), (b)(1)–(3), (c)(1), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(b), Dec. 22, 1987, 101 Stat. 1330–441; Pub. L. 100–223, title IV, §§402(b), 404(b), 405(b)(3), Dec. 30, 1987, 101 Stat. 1532, 1533, 1535; Pub. L. 100–647, title I, §1017(c)(3), (4), title II, §2001(d)(2), (3)(A)–(D), Nov. 10, 1988, 102 Stat. 3576, 3595; Pub. L. 101–508, title XI, §§11211(a)(4), (b)(3), (6)(C)–(E)(i), (F), (d)(1), (2), (e)(1), (2), 11213(b)(2)(A), (B), (d)(2)(B), (e)(3), Nov. 5, 1990, 104 Stat. 1388–423, 1388–425 to 1388–427, 1388–433, 1388–436; Pub. L. 102–240, title VIII, §8002(b)(1), (2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13163(a)(2), 13241(b)(2)(A), (B)(iii), (c), (e), (f)(1), (2), 13242(d)(3)–(13), Aug. 10, 1993, 107 Stat. 453, 510, 511, 522–524; Pub. L. 104–188, title I, §§1208, 1609(a)(3), (g)(3), (4)(A), Aug. 20, 1996, 110 Stat. 1776, 1841–1843; Pub. L. 105–2, §2(a)(3), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title IX, §§902(b)(1), (2), 907(a), (b), title X, §§1031(a)(3), 1032(e)(1), (2), title XIV, §1435(b), title XVI, §1601(f)(4)(A), (B), Aug. 5, 1997, 111 Stat. 873, 875, 929, 935, 1053, 1090; Pub. L. 105–178, title IX, §§9002(a)(1)(A)–(C), 9003(a)(1)(A), (B), (b)(2)(A), 9006(a), June 9, 1998, 112 Stat. 499, 501, 502, 506; Pub. L. 105–206, title VI, §6010(g)(1), July 22, 1998, 112 Stat. 814; Pub. L. 108–357, title II, §241(a)(1), (2)(A), title III, §301(c)(5), (6), title VIII, §853(a)(6), (d)(2)(A)–(E), Oct. 22, 2004, 118 Stat. 1437, 1461, 1611–1613; Pub. L. 109–58, title XIII,§1362(b)(2), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(A)–(C), 11113(a), 11151(e)(2), 11161(b)(1), (3)(A), Aug. 10, 2005, 119 Stat. 1943, 1946, 1969–1971; Pub. L. 109–280, title XII, §1207(a), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 109–432, div. A, title II, §208, Dec. 20, 2006, 120 Stat. 2946; Pub. L. 110–172, §6(d)(1)(A), (2)(A), (3), Dec. 29, 2007, 121 Stat. 2480, 2481; Pub. L. 112–30, title I, §142(a)(1)(A), (B), (2)(A), Sept. 16, 2011, 125 Stat. 355, 356; Pub. L. 112–102, title IV, §402(a)(1)(A), (B), (2)(A), Mar. 30, 2012, 126 Stat. 281, 282; Pub. L. 112–140, title IV, §402(a)(1)(A), (B), (2)(A), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(1)(A), (B), (2)(A), July 6, 2012, 126 Stat. 844.)
 
 #### Amendments
 
@@ -314,7 +314,7 @@ Pub. L. 109–59, §11113(a)(1)(B), (D), added cl. (ii) and struck out former cl
 
 Subsec. (a)(2)(B)(iii). Pub. L. 109–59, §11113(a)(1)(B), struck out cl. (iii) which read as follows: "11.9 cents per gallon in the case of liquefied natural gas."
 
-Subsec. (a)(3)(A). Pub. L. 109–59, §11113(a)(2)(A), substituted "18.3 cents per energy equivalent of a gallon ofgasoline" for "48.54 cents per MCF (determined at standard temperature and pressure)" in concluding provisions.
+Subsec. (a)(3)(A). Pub. L. 109–59, §11113(a)(2)(A), substituted "18.3 cents per energy equivalent of a gallon of gasoline" for "48.54 cents per MCF (determined at standard temperature and pressure)" in concluding provisions.
 
 Subsec. (a)(3)(C). Pub. L. 109–59, §11113(a)(2)(B), substituted "energy equivalent of a gallon of gasoline" for "MCF".
 
@@ -348,7 +348,7 @@ Subsec. (a)(1)(C)(ii)(I) to (III). Pub. L. 108–357, §241(a)(1), added subcls.
 
 Subsec. (b)(2)(B). Pub. L. 108–357, §301(c)(5), substituted "coal (including peat)" for "a substance other than petroleum or natural gas".
 
-Subsec. (c). Pub. L. 108–357, §853(d)(2)(A), amended heading and text of subsec. (c) generally, substituting provisions relating to imposition of tax upon aviation-grade kerosene and providing exemption for fuel previously taxed under section 4081, for provisions relating to imposition of tax on nongasoline fuels where no tax had been imposed under section 4091.
+Subsec. (c). Pub. L. 108–357, §853(d)(2)(A), amended heading and text of subsec. (c) generally, substitutingprovisions relating to imposition of tax upon aviation-grade kerosene and providing exemption for fuel previously taxed under section 4081, for provisions relating to imposition of tax on nongasoline fuels where no tax had been imposed under section 4091.
 
 Subsec. (d)(2). Pub. L. 108–357, §853(d)(2)(B), substituted "section 4081" for "section 4091" in concluding provisions.
 
@@ -410,7 +410,7 @@ Subsec. (c)(1). Pub. L. 105–34, §1032(e)(2), substituted "kerosene and any ot
 
 Subsec. (c)(2). Pub. L. 105–34, §1435(b), inserted "or by reason of section 4261(h)" before period at end.
 
-Subsec. (c)(3). Pub. L. 105–2 amended heading and text of par. (3) generally. Prior to amendment, text read asfollows: "The taxes imposed by paragraph (1) shall apply during the period beginning on September 1, 1982, and ending on December 31, 1995, and during the period beginning on the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1996. The termination under the preceding sentence shall not apply to so much of the tax imposed by paragraph (1) as does not exceed 4.3 cents per gallon."
+Subsec. (c)(3). Pub. L. 105–2 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The taxes imposed by paragraph (1) shall apply during the period beginning on September 1, 1982, and ending on December 31, 1995, and during the period beginning on the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1996. The termination under the preceding sentence shall not apply to so much of the tax imposed by paragraph (1) as does not exceed 4.3 cents per gallon."
 
 Subsec. (c)(3)(B). Pub. L. 105–34, §1031(a)(3), substituted "September 30, 2007" for "September 30, 1997".
 
@@ -698,7 +698,7 @@ Pub. L. 91–258, §202(a), redesignated former subsec. (c) as (e), substituting
 
 Subsec. (f). Pub. L. 91–258, §202(a), redesignated former subsec. (d) as (f), substituting in par. (1) prohibition against imposition of tax "under this section on any liquid sold for use or used on a farm for farming purposes" for prior provisions that "(A) no tax shall be imposed under subsection (a)(1) or (b)(1) on the sale of any liquid sold for use on a farm for farming purposes, and (B) no tax shall be imposed under subsection (a)(2) or (b)(2) on the use of any liquid used on a farm for farming purposes".
 
-Subsec. (g). Pub. L. 91–258, §202(a), redesignated former subsec. (e) as (g), substituting "this section on any liquid sold" for "subsection (b) in the case of any fuel sold".
+Subsec. (g). Pub. L. 91–258, §202(a), redesignated former subsec. (e) as (g), substituting "this section onany liquid sold" for "subsection (b) in the case of any fuel sold".
 
 Subsec. (h). Pub. L. 91–258, §202(a), added subsec. (h).
 
@@ -732,17 +732,25 @@ Subsec. (d). Act Apr. 2, 1956, added subsec. (d).
 
 #### Effective and Termination Dates of 2012 Amendment
 
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Pub. L. 112–141, div. D, title I, §40102(f), July 6, 2012, 126 Stat. 845, provided that: "Except as otherwise provided in this section, the amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation\] shall take effect on July 1, 2012."
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Pub. L. 112–140, title IV, §402(f), June 29, 2012, 126 Stat. 403, provided that:
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4482, 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation\] shall take effect on July 1, 2012.
+
+"(2)
+
+Technical correction.—The amendment made by subsection (e) \[amending section 4482 of this title\] shall take effect as if included in section 402 of the Surface Transportation Extension Act of 2012 \[Pub. L. 112–102\]."
+
+Pub. L. 112–102, title IV, §402(f), Mar. 30, 2012, 126 Stat. 283, provided that: "The amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation\] shall take effect on April 1, 2012."
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Pub. L. 112–30, title I, §142(f), Sept. 16, 2011, 125 Stat. 357, provided that: "The amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation\] shall take effect on October 1, 2011."
 
 #### Effective Date of 2007 Amendment
 
@@ -764,7 +772,7 @@ Subsection (d).—The amendment made by subsection (d) \[amending section 4483 o
 
 Pub. L. 109–59, title XI, §11101(e), Aug. 10, 2005, 119 Stat. 1945, provided that: "The amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, 9503, and 9504 of this title, and section 460l–11 of Title 16, Conservation\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."
 
-Pub. L. 109–59, title XI, §11113(d), Aug. 10, 2005, 119 Stat. 1949, provided that: "The amendments made by this section \[amending this section and sections 4101,6426, and 6427 of this title\] shall apply to any sale or use for any period after September 30, 2006."
+Pub. L. 109–59, title XI, §11113(d), Aug. 10, 2005, 119 Stat. 1949, provided that: "The amendments made by this section \[amending this section and sections 4101, 6426, and 6427 of this title\] shall apply to any sale or use for any period after September 30, 2006."
 
 Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in the provision of the Energy Tax Incentives Act of 2005, Pub. L. 109–58, title XIII, to which such amendment relates, see section 11151(f)(3) of Pub. L. 109–59, set out as a note under section 38 of this title.
 
@@ -784,7 +792,7 @@ No exemption.—The amendments made by subsection (b) \[enacting section 6430 of
 
 Pub. L. 108–357, title II, §241(c), Oct. 22, 2004, 118 Stat. 1438, provided that: "The amendments made by this section \[amending this section and sections 4042, 4082, 6421, and 6427 of this title\] shall take effect on January 1, 2005."
 
-Amendment by section 301(c)(5), (6) of Pub. L. 108–357 applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as a note under section 40 of this title.
+Amendment by section 301(c)(5), (6) of Pub. L. 108–357 applicable to fuel sold or used after Dec. 31, 2004, seesection 301(d)(1) of Pub. L. 108–357, set out as a note under section 40 of this title.
 
 Pub. L. 108–357, title VIII, §853(e), Oct. 22, 2004, 118 Stat. 1614, provided that: "The amendments made by this section \[amending this section and sections 4081 to 4083, 4101, 4103, 4221, 6206, 6416, 6427, 6724, 9502, and 9508 of this title, redesignating subpart C of part III of subchapter A of chapter 32 of this title as subpart B of part III of subchapter A of chapter 32 of this title, and repealing former subpart B of part III of subchapter A of chapter 32 of this title\] shall apply to aviation-grade kerosene removed, entered, or sold after December 31, 2004."
 
@@ -852,7 +860,7 @@ Amendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see sect
 
 Pub. L. 99–514, title IV, §422(a)(3), Oct. 22, 1986, 100 Stat. 2230, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on January 1, 1987."
 
-Pub. L. 99–514, title XVII, §1702(c), Oct. 22, 1986, 100 Stat. 2774, provided that: "The amendments made by this section \[amending this section and section 6652 of this title\] shall apply to sales after the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVII, §1702(c), Oct. 22, 1986, 100 Stat. 2774, provided that: "The amendments made bythis section \[amending this section and section 6652 of this title\] shall apply to sales after the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 Amendment by section 1878(c)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -924,7 +932,7 @@ Exceptions.—The amendments made by sections 203 \[enacting section 7275 and am
 
 #### Effective Date of 1965 Amendment
 
-Pub. L. 89–44, title VIII, §802(d)(2), June 21, 1965, 79 Stat. 159, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall apply withrespect to casinghead and natural gasoline sold or used on or after July 1, 1965, except that such amendment shall not apply to a sale or use of casinghead or natural gasoline which was sold by a producer or importer before such date if tax under section 4081 of the Code (as in effect prior to the amendment made by subsection (a)(1) \[amending section 4082 of this title\]) was imposed with respect to such sale."
+Pub. L. 89–44, title VIII, §802(d)(2), June 21, 1965, 79 Stat. 159, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall apply with respect to casinghead and natural gasoline sold or used on or after July 1, 1965, except that such amendment shall not apply to a sale or use of casinghead or natural gasoline which was sold by a producer or importer before such date if tax under section 4081 of the Code (as in effect prior to the amendment made by subsection (a)(1) \[amending section 4082 of this title\]) was imposed with respect to such sale."
 
 #### Effective Date of 1961 Amendment
 
@@ -990,7 +998,7 @@ Pub. L. 95–618, title II, §221(c), Nov. 9, 1978, 92 Stat. 3185, as amended by
 
 &emsp;"(2) the amount of alcohol fuel sold in each State, and the amount of gasoline saved in each State by reason of the use of alcohol fuels,
 
-&emsp;"(3) the revenue loss resulting from the exemptions from tax for alcohol fuels under sections 4041(k) and 4081(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and the credit allowable under section 44E\[now 40\] of such Code and the impact of such revenue loss on the Highway Trust Fund, and
+&emsp;"(3) the revenue loss resulting from the exemptions from tax for alcohol fuels under sections 4041(k) and 4081(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and the credit allowable under section 44E \[now 40\] of such Code and the impact of such revenue loss on the Highway Trust Fund, and
 
 &emsp;"(4) the cost of production and the retail cost of alcohol fuels as compared to gasoline and special fuels not mixed with alcohol."
 

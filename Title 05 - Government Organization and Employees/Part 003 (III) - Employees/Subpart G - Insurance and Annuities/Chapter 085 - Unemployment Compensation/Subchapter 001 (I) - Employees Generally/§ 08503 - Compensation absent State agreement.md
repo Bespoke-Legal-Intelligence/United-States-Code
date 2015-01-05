@@ -2,7 +2,7 @@
 
 (a) In the case of a Federal employee whose Federal service and Federal wages are assigned under section 8504 of this title to a State which does not have an agreement with the Secretary of Labor, the Secretary, under regulations prescribed by him, shall, on the filing by the Federal employee of a claim for compensation under this subsection, pay compensation to him in the same amount, on the same terms, and subject to the same conditions as would be paid to him under the unemployment compensation law of the State if his Federal service and Federal wages had been included as employment and wages under that State law. However, if the Federal employee, without regard to his Federal service and Federal wages, has employment or wages sufficient to qualify for compensation during the benefit year under that State law, then payments of compensation under this subsection may be made only on the basis of his Federal service and Federal wages.
 
-(b) A Federal employee whose claim for compensation under subsection (a) of this section isdenied is entitled to a fair hearing under regulations prescribed by the Secretary. A final determination by the Secretary with respect to entitlement to compensation under this section is subject to review by the courts in the same manner and to the same extent as is provided by section 405(g) of title 42.
+(b) A Federal employee whose claim for compensation under subsection (a) of this section is denied is entitled to a fair hearing under regulations prescribed by the Secretary. A final determination by the Secretary with respect to entitlement to compensation under this section is subject to review by the courts in the same manner and to the same extent as is provided by section 405(g) of title 42.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 587; Pub. L. 90–83, §1(87), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, §116(e)(2), Oct. 20, 1976, 90 Stat. 2673.)
 
@@ -20,17 +20,17 @@ Act
 
 42 U.S.C. 1363.
 
-Sept. 1, 1954, ch. 1212, §4(a) “Sec. 1503”, 68 Stat. 1132.
+Sept. 1, 1954, ch. 1212, §4(a) "Sec. 1503", 68 Stat. 1132.
 
 &nbsp;
 
 Sept. 13, 1960, Pub. L. 86–778, §542(b)(1)(B), (C), (c)(1), 74 Stat. 986.
 
-In subsections (a) and (b), the words “with respect to unemployment after December 31, 1954” are omitted as obsolete.
+In subsections (a) and (b), the words "with respect to unemployment after December 31, 1954" are omitted as obsolete.
 
 In subsection (b), the last sentence is added on authority of the last sentence of former section 1362(b), which section is carried into section 8502.
 
-In subsection (c), the words “with respect to final decisions of the Secretary of Health, Education, and Welfare under subchapter II of this chapter” are omitted as unnecessary.
+In subsection (c), the words "with respect to final decisions of the Secretary of Health, Education, and Welfare under subchapter II of this chapter" are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -54,7 +54,7 @@ This section also amends 5 U.S.C. 8503 to eliminate certain provisions that are 
 
 #### Amendments
 
-<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–566, §116(e)(2), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (a) or (b)”. Former subsec. (b), which made special provision for Federal employees whose Federal service and Federal wages were assigned to the Virgin Islands, was struck out.
+<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–566, §116(e)(2), redesignated subsec. (c) as (b) and substituted "subsection (a)" for "subsection (a) or (b)". Former subsec. (b), which made special provision for Federal employees whose Federal service and Federal wages were assigned to the Virgin Islands, was struck out.
 
 Subsec. (d). Pub. L. 94–566, §116(e)(2)(A), struck out subsec. (d) which authorized the Secretary to use the personnel and facilities of the agency in the Virgin Islands cooperating with the United States Employment Service.
 

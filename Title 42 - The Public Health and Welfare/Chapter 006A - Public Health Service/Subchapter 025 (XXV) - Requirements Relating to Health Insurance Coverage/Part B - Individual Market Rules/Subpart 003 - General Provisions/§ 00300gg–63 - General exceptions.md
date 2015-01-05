@@ -8,7 +8,7 @@ The requirements of this part shall not apply to any health insurance coverage i
 
 The requirements of this part shall not apply to any health insurance coverage in relation to its provision of excepted benefits described in paragraph (2), (3), or (4) of section 300gg–91(c) of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
-(July 1, 1944, ch. 373, title XXVII, §2763, formerly §2747, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1987; renumbered §2763, Pub. L. 104–204, title VI, §605(a)(2), Sept. 26, 1996, 110 Stat. 2941.)
+(July 1, 1944, ch. 373, title XXVII, §2763, formerly §2747, as added Pub. L. 104–191, title I, §111(a),Aug. 21, 1996, 110 Stat. 1987; renumbered §2763, Pub. L. 104–204, title VI, §605(a)(2), Sept. 26, 1996, 110 Stat. 2941.)
 
 #### Effective Date
 

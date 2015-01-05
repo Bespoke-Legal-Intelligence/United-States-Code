@@ -290,7 +290,7 @@ Amendment by section 6236(c) of Pub. L. 100–647 applicable to levies issued on
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XV, §1565(b), Oct. 22, 1986, 100 Stat. 2763, provided that: "The amendment made bythis section \[amending this section\] shall apply to amounts payable after December 31, 1986."
+Pub. L. 99–514, title XV, §1565(b), Oct. 22, 1986, 100 Stat. 2763, provided that: "The amendment made by this section \[amending this section\] shall apply to amounts payable after December 31, 1986."
 
 #### Effective Date of 1984 Amendment
 

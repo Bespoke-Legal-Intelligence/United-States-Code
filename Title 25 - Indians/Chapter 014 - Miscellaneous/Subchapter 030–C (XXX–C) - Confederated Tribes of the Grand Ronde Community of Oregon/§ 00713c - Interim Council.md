@@ -8,7 +8,7 @@ There is established an Interim Council of the tribe which shall be composed of 
 
 (1) Within forty-five days after November 22, 1983, the Secretary shall announce the date of a general council meeting of the tribe to nominate candidates for election to the Interim Council. Such general council meeting shall be held within fifteen days of such announcement.
 
-(2) Within forty-five days after such general council meeting, the Secretary shall hold anelection by secret ballot to elect the members of the Interim Council from among the members nominated in such general council meeting. Absentee and write-in balloting shall be permitted.
+(2) Within forty-five days after such general council meeting, the Secretary shall hold an election by secret ballot to elect the members of the Interim Council from among the members nominated in such general council meeting. Absentee and write-in balloting shall be permitted.
 
 (3) The Secretary shall approve the results of the Interim Council election conducted pursuant to this section if he is satisfied that the requirements of this section relating to the nomination and the election processes have been met. If he is not satisfied, he shall call for another general council meeting to be held within sixty days after such election to nominate candidates for election to the Interim Council and shall hold another election within forty-five days of such meeting.
 

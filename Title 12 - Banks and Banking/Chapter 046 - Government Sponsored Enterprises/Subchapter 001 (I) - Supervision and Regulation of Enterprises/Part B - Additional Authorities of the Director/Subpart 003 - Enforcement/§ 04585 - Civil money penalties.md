@@ -6,7 +6,7 @@ The Director may impose a civil money penalty, in accordance with the provisions
 
 &emsp;(1) submit a report under section 4547 <sup>1</sup> of this title, following a notice of such failure, an opportunity for comment by the enterprise, and a final determination by the Director;
 
-&emsp;(2) submit the information required under subsection (m) or (n) of section 1723a of this title or subsection (e) or (f) of section 1456 of this title;
+&emsp;(2) submit the information required under subsection (m) or (n) of section 1723a of thistitle or subsection (e) or (f) of section 1456 of this title;
 
 &emsp;(3) solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, submit a housing plan or perform its responsibilities under a remedial order issued pursuant to section 4566(c) of this title within the required period; or
 
@@ -54,7 +54,7 @@ The amount of a penalty under this section, as determined by the Director, may n
 
 #### (d) Action to collect penalty
 
-If an enterprise fails to comply with an order by the Director imposing a civil money penalty under this section, after the order is no longer subject to review, as provided in sections 4582 and 4583 of this title, the Director may bring an action in the United States District Court for the District of Columbia to obtain a monetary judgment against the enterprise, and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action.In an action under this subsection, the validity and appropriateness of the order imposing the penalty shall not be subject to review.
+If an enterprise fails to comply with an order by the Director imposing a civil money penalty under this section, after the order is no longer subject to review, as provided in sections 4582 and 4583 of this title, the Director may bring an action in the United States District Court for the District of Columbia to obtain a monetary judgment against the enterprise, and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the order imposing the penalty shall not be subject to review.
 
 #### (e) Settlement by Director
 

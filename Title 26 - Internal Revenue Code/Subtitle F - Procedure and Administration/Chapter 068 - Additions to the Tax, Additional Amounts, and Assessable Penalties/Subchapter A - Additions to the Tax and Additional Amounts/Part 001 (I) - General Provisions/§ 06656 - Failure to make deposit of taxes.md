@@ -110,7 +110,7 @@ Application to current liabilities.—The amendment made by subsection (c) \[ame
 
 Pub. L. 104–168, title III, §304(b), July 30, 1996, 110 Stat. 1459, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to deposits required to be made after the date of the enactment of this Act \[July 30, 1996\]."
 
-Amendment by section 701(c)(3) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
+Amendment by section 701(c)(3) of Pub. L. 104–168 applicable in case of proceedings commenced after July30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
 #### Effective Date of 1989 Amendment
 

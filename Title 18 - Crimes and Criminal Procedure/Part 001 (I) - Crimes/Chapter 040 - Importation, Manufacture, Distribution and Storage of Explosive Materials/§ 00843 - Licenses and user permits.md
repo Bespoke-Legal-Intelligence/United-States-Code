@@ -20,9 +20,9 @@
 
 &emsp;(7) in the case of a limited permit, the applicant has certified in writing that the applicant will not receive explosive materials on more than 6 separate occasions during the 12-month period for which the limited permit is valid.
 
-(c) The Attorney General shall approve or deny an application within a period of 90 daysfor licenses and permits, beginning on the date such application is received by the Attorney General.
+(c) The Attorney General shall approve or deny an application within a period of 90 days for licenses and permits, beginning on the date such application is received by the Attorney General.
 
-(d) The Attorney General may revoke any license or permit issued under this section if in the opinion of the Attorney General the holder thereof has violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter, or has become ineligible to acquire explosive materials under section 842(d). The Secretary's <sup>2</sup> action under this subsection may be reviewed only as provided in subsection (e)(2) of this section.
+(d) The Attorney General may revoke any license or permit issued under this section if in the opinion of the Attorney General the holder thereof has violated any provision of this chapter or any rule or regulation prescribed by theAttorney General under this chapter, or has become ineligible to acquire explosive materials under section 842(d). The Secretary's <sup>2</sup> action under this subsection may be reviewed only as provided in subsection (e)(2) of this section.
 
 (e)(1) Any person whose application is denied or whose license or permit is revoked shall receive a written notice from the Attorney General stating the specific grounds upon which such denial or revocation is based. Any notice of a revocation of a license or permit shall be given to the holder of such license or permit prior to or concurrently with the effective date of the revocation.
 
@@ -68,7 +68,7 @@ Reimbursement.—The Secretary <sup>1</sup> shall, by regulation, authorize rei
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1122(c), in first sentence, inserted "or limited permit" after "user permit" and inserted before period at end ", including thenames of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person", in second sentence, substituted "$50 for a limited permit and $200 for any other" for "$200 for each", inserted third and fourth sentences, and struck out former third sentence which read as follows: "Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee."
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1122(c), in first sentence, inserted "or limited permit" after "user permit" and inserted before period at end ", including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person", in second sentence, substituted "$50 for a limited permit and $200 for any other" for "$200 for each", inserted third and fourth sentences, and struck out former third sentence which read as follows: "Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee."
 
 Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" in two places.
 

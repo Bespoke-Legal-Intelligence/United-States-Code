@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership
 
-There is hereby established the Kalaupapa National Historical Park Advisory Commission (hereinafter referred to as the "Commission"),which shall consist of eleven members each appointed by the Secretary for a term of five years as follows:
+There is hereby established the Kalaupapa National Historical Park Advisory Commission (hereinafter referred to as the "Commission"), which shall consist of eleven members each appointed by the Secretary for a term of five years as follows:
 
 &emsp;(1) seven members who shall be present or former patients, elected by the patient community; and
 

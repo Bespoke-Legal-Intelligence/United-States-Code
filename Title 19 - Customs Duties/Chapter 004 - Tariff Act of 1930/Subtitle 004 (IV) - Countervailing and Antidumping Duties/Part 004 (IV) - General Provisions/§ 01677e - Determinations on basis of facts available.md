@@ -32,7 +32,7 @@ If the administering authority or the Commission (as the case may be) finds that
 
 #### (c) Corroboration of secondary information
 
-When the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
+When the administering authority or the Commission relies on secondary information ratherthan on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
 
 (June 17, 1930, ch. 497, title VII, §776, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 186; amended Pub. L. 98–573, title VI, §618, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 100–418, title I, §§1326(d)(1), 1331, Aug. 23, 1988, 102 Stat. 1204, 1207; Pub. L. 103–465, title II, §231(c), Dec. 8, 1994, 108 Stat. 4896.)
 

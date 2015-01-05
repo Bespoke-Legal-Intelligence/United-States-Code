@@ -108,7 +108,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (C) Treatment of survivor annuities
 
-&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) where only the surviving spouse has the right to receive payments before the death of such surviving spouse—
+&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section 2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) where only the surviving spouse has the right to receive payments before the death of such surviving spouse—
 
 &emsp;&emsp;&emsp;(i) the interest of such surviving spouse shall be treated as a qualifying income interest for life, and
 
@@ -214,7 +214,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable under subsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
+&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable undersubsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
 
 &emsp;&emsp;&emsp;(i) as of the date on which the return of the tax imposed by this chapter is made, or
 
@@ -284,7 +284,7 @@ Subsec. (b)(7), (8). Pub. L. 97–34, §403(d)(1), added pars. (7) and (8).
 
 Subsecs. (c), (d). Pub. L. 97–34, §403(a)(1)(A), redesignated subsec. (d) as (c) and struck out former subsec. (c) relating to limitation on aggregate of deductions.
 
-<b>1978</b>—Subsec. (c)(1)(B). Pub. L. 95–600 inserted in cl. (ii) "required to be included in a gift tax return" after"with respect to any gift" and inserted following cl. (ii) "For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account".
+<b>1978</b>—Subsec. (c)(1)(B). Pub. L. 95–600 inserted in cl. (ii) "required to be included in a gift tax return" after "with respect to any gift" and inserted following cl. (ii) "For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §2009(b)(4)(E), substituted "subsections (b) and (c)" for "subsections (b), (c), and (d)".
 
@@ -294,7 +294,7 @@ Subsec. (c)(2)(B). Pub. L. 94–455, §1902(a)(12)(A), struck out "Territory," a
 
 Subsecs. (d), (e). Pub. L. 94–455, §2009(b)(4)(D), redesignated subsec. (e) as (d). Former subsec. (d), which related to disclaimers by the surviving spouse or by other persons, was struck out.
 
-<b>1966</b>—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
+<b>1966</b>—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if theperson does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
 
 #### Effective Date of 1997 Amendment
 
@@ -382,7 +382,7 @@ Pub. L. 97–34, title IV, §403(e), Aug. 13, 1981, 95 Stat. 305, as amended by 
 
 &emsp;"(A) the decedent dies after December 31, 1981,
 
-&emsp;"(B) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing that the spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
+&emsp;"(B) by reason of the death of the decedent property passes from the decedent or is acquired from thedecedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing that the spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
 
 &emsp;"(C) the formula referred to in subparagraph (B) was not amended to refer specifically to an unlimited marital deduction at any time after the date which is 30 days after the date of enactment of this Act \[Aug. 13, 1981\], and before the death of the decedent, and
 
@@ -395,6 +395,8 @@ Pub. L. 97–34, title IV, §403(e), Aug. 13, 1981, 95 Stat. 305, as amended by 
 Pub. L. 95–600, title VII, §702(g)(3), Nov. 6, 1978, 92 Stat. 2930, provided that: "The amendment made by this subsection \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976."
 
 #### Effective Date of 1976 Amendment
+
+Amendment by section 1902(a)(12)(A) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
 
 Pub. L. 94–455, title XX, §2002(d)(1), Oct. 4, 1976, 90 Stat. 1856, provided that:
 

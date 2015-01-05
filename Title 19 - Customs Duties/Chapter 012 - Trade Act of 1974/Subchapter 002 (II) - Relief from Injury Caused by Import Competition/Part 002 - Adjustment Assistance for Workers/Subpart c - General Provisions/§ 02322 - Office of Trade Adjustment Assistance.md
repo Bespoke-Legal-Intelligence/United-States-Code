@@ -54,7 +54,7 @@ The principal functions of the administrator of the Office shall be—
 
 #### Termination of Section
 
-<i>For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to</i><i>section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates notes below.</i>
+<i>For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates notes below.</i>
 
 #### Codification
 
@@ -74,5 +74,5 @@ Except as otherwise provided and subject to certain applicability provisions, se
 
 Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, section not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if this section had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
 

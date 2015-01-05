@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;Educational services and other benefits provided under this section for private schoolchildren, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.
+&emsp;Educational services and other benefits provided under this section for private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.
 
 #### (4) Expenditures
 
@@ -74,7 +74,7 @@
 
 #### (2) Disagreement
 
-&emsp;If the agency, consortium, or entity disagrees with the views of the private school officials on the provision of services through a contract, the agency, consortium, or entity shall provide to the private school officials a written explanation of the reasons why the local educational agency has chosen not to use a contractor.
+&emsp;If the agency, consortium, or entity disagrees with the views of the private school officials on the provision of services through a contract, the agency, consortium, or entityshall provide to the private school officials a written explanation of the reasons why the local educational agency has chosen not to use a contractor.
 
 #### (3) Timing
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) to propose adoption of any grouping of such standards, implementation specifications, or certification criteria, the Secretary shall, by regulation under section 553 of title 5, determine whether or not to adopt such grouping of standards, implementation specifications, or certification criteria; or
 
-&emsp;&emsp;(B) not to propose adoption of any grouping of standards, implementation specifications, or certification criteria, the Secretary shall notify the National Coordinator andthe HIT Standards Committee in writing of such determination and the reasons for not proposing the adoption of such recommendation.
+&emsp;&emsp;(B) not to propose adoption of any grouping of standards, implementation specifications, or certification criteria, the Secretary shall notify the National Coordinator and the HIT Standards Committee in writing of such determination and the reasons for not proposing the adoption of such recommendation.
 
 #### (3) Publication
 

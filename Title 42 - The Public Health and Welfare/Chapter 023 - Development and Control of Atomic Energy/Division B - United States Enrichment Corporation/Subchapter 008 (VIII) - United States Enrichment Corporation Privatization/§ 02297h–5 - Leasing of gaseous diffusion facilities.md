@@ -2,7 +2,7 @@
 
 #### (a) Transfer of lease
 
-Concurrent with privatization, the Corporation shall transfer to the private corporation the lease of the gaseous diffusion plants and related property for the remainder of the term of such lease in accordance with the terms of such lease.
+Concurrent with privatization, the Corporation shall transfer to the private corporationthe lease of the gaseous diffusion plants and related property for the remainder of the term of such lease in accordance with the terms of such lease.
 
 #### (b) Renewal
 

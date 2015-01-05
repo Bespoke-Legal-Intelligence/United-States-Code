@@ -14,7 +14,7 @@
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall use any amounts appropriated for a fiscal year under paragraph (3), and remaining after the reservation described in paragraph (4) and after grants areawarded under paragraph (1), to make grants to States under this paragraph.
+&emsp;&emsp;The Secretary shall use any amounts appropriated for a fiscal year under paragraph (3), and remaining after the reservation described in paragraph (4) and after grants are awarded under paragraph (1), to make grants to States under this paragraph.
 
 #### (B) Allotments to States
 
@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;With respect to any fiscal year, if the Secretary determines (in accordance with clause (ii)) that any amounts allotted to a State under this paragraph for such fiscal year will not be used by such State during such fiscal year for carrying out the purpose for which such amounts are allotted, the Secretary shall make such amounts available in the subsequent fiscal year for carrying out such purpose to one or more States which apply for such funds to the extent the Secretary determines that such States will be able to use such additional amounts for carrying out such purpose. Such available amounts shall be redistributed to a State pursuant to section 603(n) of this title (as such section was in effect before October 1, 1995) by substituting "the number of children residing in all States applying for such funds" for "the number of children residing in the United States in the second preceding fiscal year".
+&emsp;&emsp;&emsp;With respect to any fiscal year, if the Secretary determines (in accordance with clause (ii)) that any amounts allotted to a State under this paragraph for such fiscal year will not be used by such State during such fiscal year for carrying out the purpose for which such amounts are allotted, the Secretary shall make such amounts available in the subsequent fiscal year for carrying out such purpose to one or moreStates which apply for such funds to the extent the Secretary determines that such States will be able to use such additional amounts for carrying out such purpose. Such available amounts shall be redistributed to a State pursuant to section 603(n) of this title (as such section was in effect before October 1, 1995) by substituting "the number of children residing in all States applying for such funds" for "the number of children residing in the United States in the second preceding fiscal year".
 
 #### (ii) Time of determination and distribution
 
@@ -58,7 +58,7 @@
 
 #### (c) Application of Child Care and Development Block Grant Act of 1990
 
-Notwithstanding any other provision of law, amounts provided to a State under this section shall be transferred to the lead agency under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\], integrated by the State into the programs established by the State under such Act, and be subject to requirements and limitations of such Act.
+Notwithstanding any other provision of law, amounts provided to a State under this section shall be transferred to the lead agency under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\], integrated by the State into the programs established by the State under such Act, and be subject to requirements and limitations of such Act.
 
 #### (d) "State" defined
 
@@ -70,7 +70,7 @@ As used in this section, the term "State" means each of the 50 States and the Di
 
 Section 603(a)(1)(D) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 108–40, §3(a)(2), June 30, 2003, 117 Stat. 836.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§658A etseq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Subsec. (a)(1)(B). Pub. L. 105–33, §5601(a)(1)(C), substituted "subsections" 
 
 Subsec. (a)(2)(B). Pub. L. 105–33, §5601(a)(2)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: "Subject to subparagraph (C), the amount of a grant awarded to a State for a fiscal year under this paragraph shall be based on the formula used for determining the amount of Federal payments to the State under section 603(n) of this title (as such section was in effect before October 1, 1995)."
 
-Subsec. (a)(2)(C). Pub. L. 105–33, §5601(a)(2)(B), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: "The Secretary shall pay to each eligible State in a fiscal year an amount, under a grant under subparagraph (A), equal to the Federal medical assistance percentage for such State for fiscal year 1995 (as defined in section 1396d(b) of this title) of so much of the expenditures by the State for child care in such year as exceed the State set-aside for such State under paragraph (1)(A) for such year and the amount of State expenditures in fiscal year 1994 or 1995 (whichever is greater) that equal the non-Federal share for the programs described in subparagraph (A) of paragraph (1)."
+Subsec. (a)(2)(C). Pub. L. 105–33, §5601(a)(2)(B), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: "The Secretary shall pay to each eligible State in a fiscal year an amount, under a grant under subparagraph (A), equal to the Federal medical assistance percentage for such Statefor fiscal year 1995 (as defined in section 1396d(b) of this title) of so much of the expenditures by the State for child care in such year as exceed the State set-aside for such State under paragraph (1)(A) for such year and the amount of State expenditures in fiscal year 1994 or 1995 (whichever is greater) that equal the non-Federal share for the programs described in subparagraph (A) of paragraph (1)."
 
 Subsec. (a)(2)(D)(i). Pub. L. 105–33, §5601(a)(2)(C), substituted "any amounts allotted" for "amounts under any grant awarded" and "such amounts are allotted" for "the grant is made".
 

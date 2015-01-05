@@ -2,7 +2,7 @@
 
 #### (a) Additional material required of applicants
 
-Before issuing an advance determination of whether a pension, profit-sharing, or stock bonus plan, a trust which is a part of such a plan, or an annuity or bond purchase plan meets the requirements of part I of subchapter D of chapter 1 of title 26, the Secretary of the Treasury shall require the person applying for the determination to provide, in addition to any material and information necessary for such determination, such other material and information as may reasonably be made available at the time such application is made as the Secretary of Labor may require under subchapter I of this chapter for the administration of that subchapter. The Secretary of the Treasury shall also require that the applicant provide evidence satisfactory to the Secretary that the applicant has notified each employee who qualifies as an interested party (within the meaning of regulations prescribed under section 7476(b)(1) of title 26 (relating to declaratory judgments in connection with the qualification of certain retirement plans)) of the application for a determination.
+Before issuing an advance determination of whether a pension, profit-sharing, or stock bonus plan, a trust which is a part of such a plan, or an annuity or bond purchase plan meets the requirements of part I of subchapter D of chapter 1 of title 26, the Secretary of the Treasury shall require the person applying for the determination to provide, in addition to any material and information necessary for such determination, such other material and information as may reasonably be made available at the time such application is made as the Secretary of Labor may require under subchapter I of this chapter for the administration of that subchapter. The Secretary of the Treasury shall also require that the applicant provide evidence satisfactory to the Secretary that the applicant has notified each employee who qualifies as aninterested party (within the meaning of regulations prescribed under section 7476(b)(1) of title 26 (relating to declaratory judgments in connection with the qualification of certain retirement plans)) of the application for a determination.
 
 #### (b) Opportunity to comment on application
 
@@ -24,7 +24,7 @@ Before issuing an advance determination of whether a pension, profit-sharing, or
 
 (3) Upon receiving such a request from the Secretary of Labor, the Secretary of the Treasury shall furnish to the Secretary of Labor such information held by the Secretary of the Treasury relating to the application as the Secretary of Labor may request.
 
-(4) The Secretary of Labor shall, within 30 days after receiving a request from the Pension Benefit Guaranty Corporation or from the necessary number of employees who qualify as interested parties, notify the Secretary of the Treasury, the Pension Benefit Guaranty Corporation, and such employees with respect to whether he is going to comment on the application to which the request relates and with respect to any matters raised in such request on which he is not going to comment. If the Secretary of Labor indicates in the notice required under the preceding sentence that he is not going to comment on all or part of the mattersraised in such request, the Secretary of the Treasury shall afford the corporation, and such employees, an opportunity to comment on the application with respect to any matter on which the Secretary of Labor has declined to comment.
+(4) The Secretary of Labor shall, within 30 days after receiving a request from the Pension Benefit Guaranty Corporation or from the necessary number of employees who qualify as interested parties, notify the Secretary of the Treasury, the Pension Benefit Guaranty Corporation, and such employees with respect to whether he is going to comment on the application to which the request relates and with respect to any matters raised in such request on which he is not going to comment. If the Secretary of Labor indicates in the notice required under the preceding sentence that he is not going to comment on all or part of the matters raised in such request, the Secretary of the Treasury shall afford the corporation, and such employees, an opportunity to comment on the application with respect to any matter on which the Secretary of Labor has declined to comment.
 
 #### (c) Intervention by Pension Benefit Guaranty Corporation or Secretary of Labor into declaratory judgment action under section 7476 of title 26, action by Corporation authorized
 
@@ -48,7 +48,7 @@ This section does not apply with respect to an application for any plan received
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

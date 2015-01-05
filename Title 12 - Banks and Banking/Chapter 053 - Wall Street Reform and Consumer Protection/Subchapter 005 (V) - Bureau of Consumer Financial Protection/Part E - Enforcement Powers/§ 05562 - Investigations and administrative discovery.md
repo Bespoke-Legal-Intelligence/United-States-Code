@@ -148,7 +148,7 @@
 
 #### (C) Location
 
-&emsp;&emsp;The oral testimony of any person taken pursuant to a civil investigative demand shall be taken in the judicial district of the United States in which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the Bureau investigator before whom the oral testimony of such person is to be taken and such person.
+&emsp;&emsp;The oral testimony of any person taken pursuant to a civil investigative demand shall be taken in the judicial district of the United States in which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the Bureau investigator before whom the oraltestimony of such person is to be taken and such person.
 
 #### (D) Attorney representation
 

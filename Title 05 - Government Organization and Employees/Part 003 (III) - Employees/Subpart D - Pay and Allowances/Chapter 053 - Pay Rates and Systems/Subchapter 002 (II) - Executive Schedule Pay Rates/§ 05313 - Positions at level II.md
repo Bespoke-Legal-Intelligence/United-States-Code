@@ -94,7 +94,15 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 &emsp;Administrator of the Federal Emergency Management Agency.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, subdiv. A, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, §911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, §1(a)(2) \[title IV, §404(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, §1002(a)(2), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–71, title I, §101(c)(1), Nov. 19, 2001, 115 Stat. 602; Pub. L. 107–295, title II, §215(b), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 107–296, title XVII, §1702(a)(2), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–199, div. D, title VI, §604(b)(4)(B), Jan. 23, 2004, 118 Stat. 212; Pub. L. 108–458, title I, §1015(b), Dec. 17, 2004, 118 Stat. 3664; Pub. L. 109–295, title VI, §612(a)(1), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–53, title XXIV, §2405(e), Aug. 3, 2007, 121 Stat. 550; Pub. L. 110–289, div. A, title I, §1161(g)(1), July 30, 2008, 122 Stat. 2780; Pub. L. 111–259, title VIII, §807(a), Oct. 7, 2010, 124 Stat. 2749.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L.102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, subdiv. A, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, §911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, §1(a)(2) \[title IV, §404(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, §1002(a)(2), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–71, title I, §101(c)(1), Nov. 19, 2001, 115 Stat. 602; Pub. L. 107–295, title II, §215(b), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 107–296, title XVII, §1702(a)(2), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–199, div. D, title VI, §604(b)(4)(B), Jan. 23, 2004, 118 Stat. 212; Pub. L. 108–458, title I, §1015(b), Dec. 17, 2004, 118 Stat. 3664; Pub. L. 109–295, title VI, §612(a)(1), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–53, title XXIV, §2405(e), Aug. 3, 2007, 121 Stat. 550; Pub. L. 110–289, div. A, title I, §1161(g)(1), July 30, 2008, 122 Stat. 2780; Pub. L. 111–259, title VIII, §807(a), Oct. 7, 2010, 124 Stat. 2749; Pub. L. 113–291, div. A, title IX, §901(m)(1), Dec. 19, 2014, 128 Stat. 3468.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–291, div. A, title IX, §901(a)(1), (m)(1), Dec. 19, 2014, 128 Stat. 3462, 3468, provided that, effective Feb. 1, 2017, this section is amended by inserting above the item relating to the Under Secretary of Defense for Acquisition, Technology, and Logistics the following:</i>
+
+&emsp;<i>Under Secretary of Defense for Business Management and Information.</i>
+
+<i>See 2014 Amendment note below.</i>
 
 Historical and Revision Notes<br>1966
 
@@ -118,13 +126,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 
-The deletion of paragraph (6) of 5 U.S.C. 5313 reflects the abolition of the position of “Administrator of the Housing and Home Finance Agency” by the act of September 9, 1965, Public Law 89–174, sections 5(a), 9(c), 79 Stat. 669, 671.
+The deletion of paragraph (6) of 5 U.S.C. 5313 reflects the abolition of the position of "Administrator of the Housing and Home Finance Agency" by the act of September 9, 1965, Public Law 89–174, sections 5(a), 9(c), 79 Stat. 669, 671.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–259 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+<b>2014</b>—Pub. L. 113–291 inserted item relating to Under Secretary of Defense for Business Management and Information.
 
-<b>2008</b>—Pub. L. 110–289 substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development”.
+<b>2010</b>—Pub. L. 111–259 substituted "Director of the Central Intelligence Agency" for "Director of Central Intelligence".
+
+<b>2008</b>—Pub. L. 110–289 substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development".
 
 <b>2007</b>—Pub. L. 110–53 inserted item relating to Under Secretary of Homeland Security for Management.
 
@@ -144,7 +154,7 @@ Pub. L. 107–295 inserted item relating to Under Secretary of Transportation fo
 
 Pub. L. 106–553 inserted item relating to Deputy Secretary of State for Management and Resources.
 
-<b>1999</b>—Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>1999</b>—Pub. L. 106–65 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
 <b>1998</b>—Pub. L. 105–277, §1332(1), struck out item relating to Director of the United States Information Agency.
 
@@ -156,11 +166,11 @@ Pub. L. 105–277, §713(a)(2), inserted item relating to Deputy Director of Nat
 
 Pub. L. 103–296 inserted item relating to Deputy Commissioner of Social Security, Social Security Administration.
 
-<b>1993</b>—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
 
 <b>1992</b>—Pub. L. 102–550 inserted item relating to Director of the Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development.
 
-<b>1991</b>—Pub. L. 102–233 substituted “Independent Members, Thrift Depositor Protection Oversight Board” for “Independent Members, Oversight Board, Resolution Trust Corporation”.
+<b>1991</b>—Pub. L. 102–233 substituted "Independent Members, Thrift Depositor Protection Oversight Board" for "Independent Members, Oversight Board, Resolution Trust Corporation".
 
 <b>1990</b>—Pub. L. 101–576 inserted item relating to Deputy Director for Management, Office of Management and Budget.
 
@@ -170,7 +180,7 @@ Pub. L. 101–509 inserted items relating to Deputy Secretary of Health and Huma
 
 <b>1988</b>—Pub. L. 100–679 inserted item relating to Deputy Director of Office of Management and Budget and struck out item relating to Director of Office of Management and Budget.
 
-Pub. L. 100–527 substituted “Deputy Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+Pub. L. 100–527 substituted "Deputy Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
 <b>1987</b>—Pub. L. 100–204 struck out item relating to Ambassadors at Large.
 
@@ -178,7 +188,7 @@ Pub. L. 100–527 substituted “Deputy Secretary of Veterans Affairs” for “
 
 Pub. L. 99–348 inserted item relating to Under Secretary of Defense for Acquisition.
 
-<b>1984</b>—Pub. L. 98–216 substituted “Director of the Office of Management and Budget” for “Director of the Bureau of the Budget”.
+<b>1984</b>—Pub. L. 98–216 substituted "Director of the Office of Management and Budget" for "Director of the Bureau of the Budget".
 
 <b>1983</b>—Pub. L. 98–80 inserted item relating to Administrator of Environmental Protection Agency.
 
@@ -190,9 +200,9 @@ Pub. L. 97–449, §3(1), inserted item relating to Administrator, Federal Highw
 
 <b>1978</b>—Par. (24). Pub. L. 95–454 added par. (24) relating to Director of Office of Personnel Management.
 
-<b>1977</b>—Par. (1). Pub. L. 95–140 substituted “Deputy Secretary of Defense” for “Deputy Secretaries of Defense (2)”.
+<b>1977</b>—Par. (1). Pub. L. 95–140 substituted "Deputy Secretary of Defense" for "Deputy Secretaries of Defense (2)".
 
-Par. (22). Pub. L. 95–91 substituted “Deputy Secretary of Energy” for “Administrator of Energy Research and Development Administration”.
+Par. (22). Pub. L. 95–91 substituted "Deputy Secretary of Energy" for "Administrator of Energy Research and Development Administration".
 
 <b>1976</b>—Par. (21). Pub. L. 94–237 struck out par. (21) relating to Director of Special Action Office for Drug Abuse Prevention.
 
@@ -200,17 +210,17 @@ Par. (23). Pub. L. 94–561 added par. (23) relating to Deputy Secretary of Agri
 
 <b>1975</b>—Pub. L. 94–82 substituted provisions applying level II of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title, for provisions applying such level II to positions for which annual rate of basic pay is $30,000.
 
-<b>1974</b>—Par. (7). Pub. L. 93–496 substituted “Deputy Secretary of Transportation” for “Under Secretary for Transportation”.
+<b>1974</b>—Par. (7). Pub. L. 93–496 substituted "Deputy Secretary of Transportation" for "Under Secretary for Transportation".
 
-Par. (8). Pub. L. 93–438 substituted “Chairman, Nuclear Regulatory Commission” for “Chairman, Atomic Energy Commission”.
+Par. (8). Pub. L. 93–438 substituted "Chairman, Nuclear Regulatory Commission" for "Chairman, Atomic Energy Commission".
 
 Par. (22). Pub. L. 93–438 added par. (22) relating to Deputy Secretary of Energy.
 
-<b>1972</b>—Par. (1). Pub. L. 92–596 substituted “Deputy Secretaries of Defense (2)” for “Deputy Secretary of Defense”.
+<b>1972</b>—Par. (1). Pub. L. 92–596 substituted "Deputy Secretaries of Defense (2)" for "Deputy Secretary of Defense".
 
-Par. (2). Pub. L. 92–352 substituted “Deputy Secretary of State” for “Under Secretary of State”.
+Par. (2). Pub. L. 92–352 substituted "Deputy Secretary of State" for "Under Secretary of State".
 
-Par. (6). Pub. L. 92–302 added par. (6) relating to Deputy Secretary of the Treasury. A prior par. (6), “Administrator of the Housing and Home Finance Agency,” was repealed by Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198.
+Par. (6). Pub. L. 92–302 added par. (6) relating to Deputy Secretary of the Treasury. A prior par. (6), "Administrator of the Housing and Home Finance Agency," was repealed by Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198.
 
 Par. (21). Pub. L. 92–255 added par. (21) relating to Director of Special Action Office for Drug Abuse Prevention.
 
@@ -218,11 +228,15 @@ Par. (21). Pub. L. 92–255 added par. (21) relating to Director of Special Acti
 
 <b>1968</b>—Par. (19). Pub. L. 90–407 added par. (19) relating to Director of National Science Foundation.
 
-<b>1966</b>—Pub. L. 89–670 substituted “Under Secretary of Transportation” for “Administrator of the Federal Aviation Agency” in item (7), and inserted item (19) relating to Administrator, Federal Aviation Administration.
+<b>1966</b>—Pub. L. 89–670 substituted "Under Secretary of Transportation" for "Administrator of the Federal Aviation Agency" in item (7), and inserted item (19) relating to Administrator, Federal Aviation Administration.
 
 #### Change of Name
 
 Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–291, div. A, title IX, §901(m)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(m)(1) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
 
 #### Effective Date of 2004 Amendment
 
@@ -256,15 +270,15 @@ Amendment by Pub. L. 101–509 effective on first day of first pay period beginn
 
 Amendment by Pub. L. 100–679 effective Jan. 20, 1989, see section 11(e) of Pub. L. 100–679, set out as a note under section 5312 of this title.
 
-Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–204, title I, §178(b), Dec. 22, 1987, 101 Stat. 1362, provided that: “The amendments made by subsection (a) \[amending sections 5313 and 5315 of this title\] shall take effect 30 days after the date of enactment of this Act \[Dec. 22, 1987\] and shall not affect the salary of any individual holding the rank of Ambassador at Large immediately before the date of enactment of this Act during the period such individual continues to serve in such position.”
+Pub. L. 100–204, title I, §178(b), Dec. 22, 1987, 101 Stat. 1362, provided that: "The amendments made by subsection (a) \[amending sections 5313 and 5315 of this title\] shall take effect 30 days after the date of enactment of this Act \[Dec. 22, 1987\] and shall not affect the salary of any individual holding the rank of Ambassador at Large immediately before the date of enactment of this Act during the period such individual continues to serve in such position."
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–619 applicable to incumbent Under Secretary of Labor on Nov. 6, 1986, serving after such date, see section 2(f)(1) of Pub. L. 99–619, set out as a Present Incumbent note under section 552 of Title 29, Labor.
+Amendment by Pub. L. 99–619 applicable to incumbent Under Secretary of Labor on Nov. 6, 1986, servingafter such date, see section 2(f)(1) of Pub. L. 99–619, set out as a Present Incumbent note under section 552 of Title 29, Labor.
 
 #### Effective Date of 1980 Amendment
 
@@ -282,9 +296,9 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Pub. L. 94–561, §5, Oct. 19, 1976, 90 Stat. 2643, provided that:
 
-“(a) Except as otherwise provided in this section, this Act \[enacting section 2212b of Title 7, Agriculture, amending sections 5313 to 5316 of this title, sections 2210 and 2211 of Title 7, and section 714g of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 2210 of Title 7\] shall take effect on its date of enactment \[Oct. 19, 1976\].
+"(a) Except as otherwise provided in this section, this Act \[enacting section 2212b of Title 7, Agriculture, amending sections 5313 to 5316 of this title, sections 2210 and 2211 of Title 7, and section 714g of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 2210 of Title 7\] shall take effect on its date of enactment \[Oct. 19, 1976\].
 
-“(b) Subsection (b)(1) of section 3 of this Act \[amending section 5316 of this title\] shall take effect upon appointment of a Presidential appointee to fill the successor position created by section 2 of this Act \[section 2212b of Title 7\].”
+"(b) Subsection (b)(1) of section 3 of this Act \[amending section 5316 of this title\] shall take effect upon appointment of a Presidential appointee to fill the successor position created by section 2 of this Act \[section 2212b of Title 7\]."
 
 #### Effective Date of 1974 Amendment
 
@@ -296,7 +310,7 @@ Amendment by Pub. L. 92–302 effective May 18, 1972, see section 3 of Pub. L. 9
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–407, §15(a)(4), July 18, 1968, 82 Stat. 367, provided that: “The amendments made by this subsection \[amending sections 5313, 5314, and 5316 of this title\] (and the amendments made by sections 3 and 4 of this Act \[amending section 1864 and enacting section 1864a of Title 42, The Public Health and Welfare\] insofar as they relate to rates of basic pay) shall take effect on the first day of the first calendar month which begins on or after the date of the enactment of this Act \[July 18, 1968\].”
+Pub. L. 90–407, §15(a)(4), July 18, 1968, 82 Stat. 367, provided that: "The amendments made by this subsection \[amending sections 5313, 5314, and 5316 of this title\] (and the amendments made by sections 3 and 4 of this Act \[amending section 1864 and enacting section 1864a of Title 42, The Public Health and Welfare\] insofar as they relate to rates of basic pay) shall take effect on the first day of the first calendar month which begins on or after the date of the enactment of this Act \[July 18, 1968\]."
 
 #### Effective Date of 1966 Amendment
 
@@ -310,7 +324,7 @@ Office of Director of Office of Science and Technology abolished and functions v
 
 #### Bonus Eligibility of Under Secretary of Transportation for Security
 
-Pub. L. 107–71, title I, §101(c)(2), Nov. 19, 2001, 115 Stat. 602, provided that: “In addition to the annual rate of pay authorized by section 5313 of title 5, United States Code, the Under Secretary may receive a bonus for any calendar year not to exceed 30 percent of theannual rate of pay, based on the Secretary's evaluation of the Under Secretary's performance.”
+Pub. L. 107–71, title I, §101(c)(2), Nov. 19, 2001, 115 Stat. 602, provided that: "In addition to the annual rate of pay authorized by section 5313 of title 5, United States Code, the Under Secretary may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of pay, based on the Secretary's evaluation of the Under Secretary's performance."
 
 #### Pay Increase; Effective Date
 
@@ -328,5 +342,5 @@ For prior year salary increases per the recommendation of the President, see Pri
 
 For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under section 5318 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “The” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "The" probably should not appear.</i>
 

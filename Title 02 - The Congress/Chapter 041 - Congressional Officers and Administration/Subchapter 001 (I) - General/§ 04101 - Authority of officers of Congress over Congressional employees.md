@@ -8,9 +8,9 @@ Each officer of the Congress having responsibility for the supervision of employ
 
 &emsp;(2) to remove or otherwise discipline any employee under his supervision.
 
-#### (b) “Officer of the Congress” defined
+#### (b) "Officer of the Congress" defined
 
-As used in this section, the term “officer of the Congress” means—
+As used in this section, the term "officer of the Congress" means—
 
 &emsp;(1) an elected officer of the Senate or House of Representatives who is not a Member of the Senate or House; and
 
@@ -24,5 +24,5 @@ Section was formerly classified to section 60–1 of this title prior to editori
 
 #### Effective Date
 
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as anEffective Date of 1970 Amendment note under section 4301 of this title.
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
 

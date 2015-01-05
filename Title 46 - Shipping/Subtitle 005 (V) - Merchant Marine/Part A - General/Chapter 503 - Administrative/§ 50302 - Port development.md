@@ -142,7 +142,7 @@ Section 250 of the Balanced Budget and Emergency Deficit Control Act of 1985, re
 
 The date of enactment of this subsection, referred to in subsec. (c)(3)(C)(iii)(II)(aa), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
-The American Recovery and Reinvestment Act of 2009, referred to in subsec. (c)(3)(C)(iii)(II)(bb), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. The provisions oftitle XII of div. A of the Act making appropriations are not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (c)(3)(C)(iii)(II)(bb), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. The provisions of title XII of div. A of the Act making appropriations are not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 Section 9008 of Public Law 109–59, referred to in subsec. (c)(3)(D), is section 9008 of Pub. L. 109–59, title IX, Aug. 10, 2005, 119 Stat. 1926, which is not classified to the Code.
 

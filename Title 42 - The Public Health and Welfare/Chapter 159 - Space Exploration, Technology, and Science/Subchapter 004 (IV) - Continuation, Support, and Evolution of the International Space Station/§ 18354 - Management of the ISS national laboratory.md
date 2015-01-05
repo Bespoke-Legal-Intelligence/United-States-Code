@@ -58,7 +58,7 @@ The Administrator shall provide initial financial assistance to the organization
 
 #### (4) Responsibility for research payload
 
-&emsp;NASA shall retain its roles and responsibilities in providing research payload physical, analytical, and operations integration during pre-flight, post-flight, transportation, and orbital phases essential to ensure safe and effective flight readiness and vehicle integration of research activities approved and prioritized by the organization with which the Administrator enters into the cooperative agreement and the official or employee designated under subsection (b).
+&emsp;NASA shall retain its roles and responsibilities in providing research payload physical, analytical, and operations integration duringpre-flight, post-flight, transportation, and orbital phases essential to ensure safe and effective flight readiness and vehicle integration of research activities approved and prioritized by the organization with which the Administrator enters into the cooperative agreement and the official or employee designated under subsection (b).
 
 (Pub. L. 111–267, title V, §504, Oct. 11, 2010, 124 Stat. 2825.)
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
 
-&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title,subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
+&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
 
 &emsp;&emsp;(D) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title.
 
@@ -22,7 +22,7 @@
 
 #### (1) Expenses generally
 
-&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) of this section all expenses of the Corporation (other than expenses covered by subsection (a)(1) of this section and expenses covered by paragraph (2)(A)), including the following:
+&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) all expenses of the Corporation (other than expenses covered by subsection (a)(1) and expenses covered by paragraph (2)(A)), including the following:
 
 &emsp;&emsp;(A) Premium subsidies and indemnities.
 
@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c) of this section, but not to exceed $3,500,000 for each fiscal year, to pay the following:
+&emsp;&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $3,500,000 for each fiscal year, to pay the following:
 
 &emsp;&emsp;&emsp;(i) Costs associated with the consideration and implementation of policies, plans of insurance, and related materials submitted under section 1508(h) of this title or developed under section 1522 or 1523 of this title.
 
@@ -48,23 +48,47 @@
 
 &emsp;&emsp;Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on expenses specified in subparagraph (A).
 
+#### (C) Reviews, compliance, and integrity
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
+
+&emsp;&emsp;&emsp;&emsp;(I) to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
+
+&emsp;&emsp;&emsp;&emsp;(II) to assist the Corporation in maintaining program actuarial soundness and financial integrity.
+
+#### (ii) Secretarial action
+
+&emsp;&emsp;&emsp;For the purposes described in clause (i), the Secretary may, without further appropriation—
+
+&emsp;&emsp;&emsp;&emsp;(I) merge some or all of the funds made available under this subparagraph into the accounts of the Risk Management Agency; and
+
+&emsp;&emsp;&emsp;&emsp;(II) obligate those funds.
+
+#### (iii) Maintenance of funding
+
+&emsp;&emsp;&emsp;Funds made available under this subparagraph shall be in addition to other funds made available for costs incurred by the Corporation or the Risk Management Agency.
+
 #### (c) Insurance fund
 
 #### (1) In general
 
-&emsp;There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2) of this section, and civil fines collected under section 1515(h) of this title, to be available without fiscal year limitation.
+&emsp;There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2), and civil fines collected under section 1515(h) of this title, to be available without fiscal year limitation.
 
 #### (2) Commodity Credit Corporation funds
 
-&emsp;If at any time the amounts in the insurance fund are insufficient to enable the Corporation to carry out subsection (b) of this section, to the extent the funds of the Commodity Credit Corporation are available—
+&emsp;If at any time the amounts in the insurance fund are insufficient to enable the Corporation to carry out subsection (b), to the extent the funds of the Commodity Credit Corporation are available—
 
-&emsp;&emsp;(A) the Corporation may request the Secretary to use the funds of the Commodity Credit Corporation to carry out subsection (b) of this section; and
+&emsp;&emsp;(A) the Corporation may request the Secretary to use the funds of the Commodity Credit Corporation to carry out subsection (b); and
 
-&emsp;&emsp;(B) the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b) of this section.
+&emsp;&emsp;(B) the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b).
 
-(Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Pub. L. 96–365, title I, §§109, 110, Sept. 26, 1980, 94 Stat. 1317, 1318; Pub. L. 97–11, May 22, 1981, 95 Stat. 13; Pub. L. 99–198, title X, §1021, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 103–354, title I, §110, Oct. 13, 1994, 108 Stat. 3198; Pub. L. 104–127, title I, §193(e), Apr. 4, 1996, 110 Stat. 945; Pub. L. 105–185, title V, §531, June 23, 1998, 112 Stat. 580; Pub. L. 106–224, title I, §147, June 20, 2000, 114 Stat. 393.)
+(Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Pub. L. 96–365, title I, §§109, 110, Sept. 26, 1980, 94 Stat. 1317, 1318; Pub. L. 97–11, May 22, 1981, 95 Stat. 13; Pub. L. 99–198, title X, §1021, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 103–354, title I, §110, Oct. 13, 1994, 108 Stat. 3198; Pub. L. 104–127, title I, §193(e), Apr. 4, 1996, 110 Stat. 945; Pub. L. 105–185, title V, §531, June 23, 1998, 112 Stat. 580; Pub. L. 106–224, title I, §147, June 20, 2000, 114 Stat. 393; Pub. L. 113–79, title XI, §11021, Feb. 7, 2014, 128 Stat. 968.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(C). Pub. L. 113–79 added subpar. (C).
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted "years the following:" for "years—", in subpar. (A), substituted "The" for "the" and a period for "; and" at end, in subpar. (B), substituted "Premium" for "premium", and added subpars. (C) and (D).
 

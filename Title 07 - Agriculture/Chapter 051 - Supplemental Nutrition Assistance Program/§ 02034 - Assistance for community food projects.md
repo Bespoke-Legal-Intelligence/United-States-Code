@@ -12,35 +12,31 @@ In this section:
 
 &emsp;&emsp;(B) is designed—
 
-&emsp;&emsp;&emsp;(i)(I) to meet the food needs of low-income individuals;
+&emsp;&emsp;&emsp;(i)(I) to meet the food needs of low-income individuals through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;; <sup>1</sup>
 
 &emsp;&emsp;&emsp;(II) to increase the self-reliance of communities in providing for the food needs of the communities; and
 
-&emsp;&emsp;&emsp;(III) to promote comprehensive responses to local food, farm, and nutrition issues; or
+&emsp;&emsp;&emsp;(III) to promote comprehensive responses to local food, food access, farm, and nutrition issues; or
 
 &emsp;&emsp;&emsp;(ii) to meet specific State, local, or neighborhood food and agricultural needs, including needs relating to—
 
-&emsp;&emsp;&emsp;&emsp;(I) infrastructure improvement and development;
+&emsp;&emsp;&emsp;&emsp;(I) equipment necessary for the efficient operation of a project;
 
 &emsp;&emsp;&emsp;&emsp;(II) planning for long-term solutions; or
 
 &emsp;&emsp;&emsp;&emsp;(III) the creation of innovative marketing activities that mutually benefit agricultural producers and low-income consumers.
 
-#### (2) Center
+#### (2) Gleaner
 
-&emsp;The term "Center" means the healthy urban food enterprise development center established under subsection (h).
+&emsp;The term "gleaner" means an entity that—
 
-#### (3) Underserved community
+&emsp;&emsp;(A) collects edible, surplus food that would be thrown away and distributes the food to agencies or nonprofit organizations that feed the hungry; or
 
-&emsp;The term "underserved community" means a community (including an urban or rural community or an Indian tribe) that, as determined by the Secretary, has—
+&emsp;&emsp;(B) harvests for free distribution to the needy, or for donation to agencies or nonprofit organizations for ultimate distribution to the needy, an agricultural crop that has been donated by the owner of the crop.
 
-&emsp;&emsp;(A) limited access to affordable, healthy foods, including fresh fruits and vegetables;
+#### (3) Hunger-free communities goal
 
-&emsp;&emsp;(B) a high incidence of a diet-related disease (including obesity) as compared to the national average;
-
-&emsp;&emsp;(C) a high rate of hunger or food insecurity; or
-
-&emsp;&emsp;(D) severe or persistent poverty.
+&emsp;The term "hunger-free communities goal" means any of the 14 goals described in House Concurrent Resolution 302, 102nd Congress, agreed to October 5, 1992.
 
 #### (b) Authority to provide assistance
 
@@ -52,41 +48,55 @@ In this section:
 
 &emsp;The total amount of funds provided as grants under this section may not exceed—
 
-&emsp;&emsp;(A) $1,000,000 for fiscal year 1996; and
+&emsp;&emsp;(A) $1,000,000 for fiscal year 1996;
 
-&emsp;&emsp;(B) $5,000,000 for fiscal year 2008 and each fiscal year thereafter.
+&emsp;&emsp;(B) $5,000,000 for each of fiscal years 2008 through 2014; and
+
+&emsp;&emsp;(C) $9,000,000 for fiscal year 2015 and each fiscal year thereafter.
 
 #### (c) Eligible entities
 
-To be eligible for a grant under subsection (b) of this section, a private nonprofit entity must—
+To be eligible for a grant under subsection (b), a public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners, must—
 
 &emsp;(1) have experience in the area of—
 
-&emsp;&emsp;(A) community food work, particularly concerning small and medium-sized farms, including the provision of food to people in low-income communities and the development of new markets in low-income communities for agricultural producers; or
+&emsp;&emsp;(A) community food work, particularly concerning small and medium-sized farms, including the provision of food to people in low-income communities and the development of new markets in low-income communities for agricultural producers;
 
-&emsp;&emsp;(B) job training and business development activities for food-related activities in low-income communities;
+&emsp;&emsp;(B) job training and business development activities for food-related activities in low-income communities; or
 
-&emsp;(2) demonstrate competency to implement a project, provide fiscal accountability, collect data, and prepare reports and other necessary documentation; and
+&emsp;&emsp;(C) efforts to reduce food insecurity in the community, including food distribution, improving access to services, or coordinating services and programs;
 
-&emsp;(3) demonstrate a willingness to share information with researchers, practitioners, and other interested parties.
+&emsp;(2) demonstrate competency to implement a project, provide fiscal accountability, collect data, and prepare reports and other necessary documentation;
+
+&emsp;(3) demonstrate a willingness to share information with researchers, practitioners, and other interested parties; and
+
+&emsp;(4) collaborate with 1 or more local partner organizations to achieve at least 1 hunger-free communities goal.
 
 #### (d) Preference for certain projects
 
-In selecting community food projects to receive assistance under subsection (b) of this section, the Secretary shall give a preference to projects designed to—
+In selecting community food projects to receive assistance under subsection (b), the Secretary shall give a preference to projects designed to—
 
 &emsp;(1) develop linkages between 2 or more sectors of the food system;
 
 &emsp;(2) support the development of entrepreneurial projects;
 
-&emsp;(3) develop innovative linkages between the for-profit and nonprofit food sectors; or
+&emsp;(3) develop innovative linkages between the for-profit and nonprofit food sectors;
 
-&emsp;(4) encourage long-term planning activities, and multisystem, interagency approaches with multistakeholder collaborations, that build the long-term capacity of communities to address the food and agricultural problems of the communities, such as food policy councils and food planning associations.
+&emsp;(4) encourage long-term planning activities, and multisystem, interagency approaches with multistakeholder collaborations, that build the long-term capacity of communities to address the food and agricultural problems of the communities, such as food policy councils and food planning associations; or
+
+&emsp;(5) develop new resources and strategies to help reduce food insecurity in the community and prevent food insecurity in the future by—
+
+&emsp;&emsp;(A) developing creative food resources;
+
+&emsp;&emsp;(B) coordinating food services with park and recreation programs and other community-based outlets to reduce barriers to access; or
+
+&emsp;&emsp;(C) creating nutrition education programs for at-risk populations to enhance food-purchasing and food-preparation skills and to heighten awareness of the connection between diet and health.
 
 #### (e) Matching funds requirements
 
 #### (1) Requirements
 
-&emsp;The Federal share of the cost of establishing or carrying out a community food project that receives assistance under subsection (b) of this section may not exceed 50 percent of the cost of the project during the term of the grant.
+&emsp;The Federal share of the cost of establishing or carrying out a community food project that receives assistance under subsection (b) may not exceed 50 percent of the cost of the project during the term of the grant.
 
 #### (2) Calculation
 
@@ -100,11 +110,11 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### (1) Single grant
 
-&emsp;A community food project may be supported by only a single grant under subsection (b) of this section.
+&emsp;A community food project may be supported by only a single grant under subsection (b).
 
 #### (2) Term
 
-&emsp;The term of a grant under subsection (b) of this section may not exceed 3 years.
+&emsp;The term of a grant under subsection (b) may not exceed 5 years.
 
 #### (g) Technical assistance and related information
 
@@ -116,153 +126,27 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may provide for the sharing of information concerning community food projects and issues among and between government, private for-profit and nonprofit groups, and the public through publications, conferences, and other appropriate forums.
+&emsp;&emsp;The Secretary may provide for the sharing of information concerning community foodprojects and issues among and between government, private for-profit and nonprofit groups, and the public through publications, conferences, and other appropriate forums.
 
 #### (B) Other interested parties
 
 &emsp;&emsp;The Secretary may share information concerning community food projects with researchers, practitioners, and other interested parties.
 
-#### (h) Healthy urban food enterprise development center
+#### (h) Reports to Congress
 
-#### (1) Definition of eligible entity
+Not later than September 30, 2014, and each year thereafter, the Secretary shall submit to Congress a report that describes each grant made under this section, including—
 
-&emsp;In this subsection, the term "eligible entity" means—
+&emsp;(1) a description of any activity funded;
 
-&emsp;&emsp;(A) a nonprofit organization;
+&emsp;(2) the degree of success of each activity funded in achieving hunger-free community goals; and
 
-&emsp;&emsp;(B) a cooperative;
+&emsp;(3) the degree of success in improving the long-term capacity of a community to address food and agriculture problems related to hunger or access to healthy food.
 
-&emsp;&emsp;(C) a commercial entity;
+(Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080; Pub. L. 113–79, title IV, §4026, Feb. 7, 2014, 128 Stat. 810.)
 
-&emsp;&emsp;(D) an agricultural producer;
+#### References in Text
 
-&emsp;&emsp;(E) an academic institution;
-
-&emsp;&emsp;(F) an individual; and
-
-&emsp;&emsp;(G) such other entities as the Secretary may designate.
-
-#### (2) Establishment
-
-&emsp;The Secretary shall offer to provide a grant to a nonprofit organization to establish and support a healthy urban food enterprise development center to carry out the purpose described in paragraph (3).
-
-#### (3) Purpose
-
-&emsp;The purpose of the Center is to increase access to healthy affordable foods, including locally produced agricultural products, to underserved communities.
-
-#### (4) Activities
-
-#### (A) Technical assistance and information
-
-&emsp;&emsp;The Center shall collect, develop, and provide technical assistance and information to small and medium-sized agricultural producers, food wholesalers and retailers, schools,and other individuals and entities regarding best practices and the availability of assistance for aggregating, storing, processing, and marketing locally produced agricultural products and increasing the availability of such products in underserved communities.
-
-#### (B) Authority to subgrant
-
-&emsp;&emsp;The Center may provide subgrants to eligible entities—
-
-&emsp;&emsp;&emsp;(i) to carry out feasibility studies to establish businesses for the purpose described in paragraph (3); and
-
-&emsp;&emsp;&emsp;(ii) to establish and otherwise assist enterprises that process, distribute, aggregate, store, and market healthy affordable foods.
-
-#### (5) Priority
-
-&emsp;In providing technical assistance and grants under paragraph (4), the Center shall give priority to applications that include projects—
-
-&emsp;&emsp;(A) to benefit underserved communities; and
-
-&emsp;&emsp;(B) to develop market opportunities for small and mid-sized farm and ranch operations.
-
-#### (6) Report
-
-&emsp;For each fiscal year for which the nonprofit organization described in paragraph (2) receives funds, the organization shall submit to the Secretary a report describing the activities carried out in the preceding fiscal year, including—
-
-&emsp;&emsp;(A) a description of technical assistance provided by the Center;
-
-&emsp;&emsp;(B) the total number and a description of the subgrants provided under paragraph (4)(B);
-
-&emsp;&emsp;(C) a complete listing of cases in which the activities of the Center have resulted in increased access to healthy, affordable foods, such as fresh fruit and vegetables, particularly for school-aged children and individuals in low-income communities; and
-
-&emsp;&emsp;(D) a determination of whether the activities identified in subparagraph (C) are sustained during the years following the initial provision of technical assistance and subgrants under this section.
-
-#### (7) Competitive award process
-
-&emsp;The Secretary shall use a competitive process to award funds to establish the Center.
-
-#### (8) Limitation on administrative expenses
-
-&emsp;Not more than 10 percent of the total amount allocated for this subsection in a given fiscal year may be used for administrative expenses.
-
-#### (9) Funding
-
-#### (A) In general
-
-&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $1,000,000 for each of fiscal years 2009 through 2011.
-
-#### (B) Additional funding
-
-&emsp;&emsp;There is authorized to be appropriated $2,000,000 to carry out this subsection for fiscal year 2012.
-
-#### (i) Innovative programs for addressing common community problems
-
-#### (1) In general
-
-&emsp;The Secretary shall offer to enter into a contract with, or make a grant to, 1 nongovernmental organization that meets the requirements of paragraph (2) to coordinate with Federal agencies, States, political subdivisions, and nongovernmental organizations (collectively referred to in this subsection as "targeted entities") to gather information, and recommend to the targeted entities, innovative programs for addressing common community problems, including—
-
-&emsp;&emsp;(A) loss of farms and ranches;
-
-&emsp;&emsp;(B) rural poverty;
-
-&emsp;&emsp;(C) welfare dependency;
-
-&emsp;&emsp;(D) hunger;
-
-&emsp;&emsp;(E) the need for job training; and
-
-&emsp;&emsp;(F) the need for self-sufficiency by individuals and communities.
-
-#### (2) Nongovernmental organization
-
-&emsp;The nongovernmental organization referred to in paragraph (1) shall—
-
-&emsp;&emsp;(A) be selected by the Secretary on a competitive basis;
-
-&emsp;&emsp;(B) be experienced in working with other targeted entities and in organizing workshops that demonstrate programs to other targeted entities;
-
-&emsp;&emsp;(C) be experienced in identifying programs that effectively address community problems described in paragraph (1) that can be implemented by other targeted entities;
-
-&emsp;&emsp;(D) be experienced in, and capable of, receiving information from and communicating with other targeted entities throughout the United States;
-
-&emsp;&emsp;(E) be experienced in operating a national information clearinghouse that addresses 1 or more of the community problems described in paragraph (1); and
-
-&emsp;&emsp;(F) as a condition of entering into the contract or receiving the grant referred to in paragraph (1), agree—
-
-&emsp;&emsp;&emsp;(i) to contribute in-kind resources toward implementation of the contract or grant;
-
-&emsp;&emsp;&emsp;(ii) to provide to other targeted entities information and guidance on the innovative programs referred to in paragraph (1); and
-
-&emsp;&emsp;&emsp;(iii) to operate a national information clearinghouse on innovative means for addressing community problems described in paragraph (1) that—
-
-&emsp;&emsp;&emsp;&emsp;(I) is easily usable by—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) Federal, State, and local government agencies;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) local community leaders;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) nongovernmental organizations; and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the public; and
-
-&emsp;&emsp;&emsp;&emsp;(II) includes information on approved community food projects.
-
-#### (3) Audits; effective use of funds
-
-&emsp;The Secretary shall establish auditing procedures and otherwise ensure the effective use of funds made available to carry out this subsection.
-
-#### (4) Funding
-
-&emsp;Not later than 90 days after May 13, 2002, and on October 1 of each fiscal year thereafter, the Secretary shall allocate to carry out this subsection $200,000 of the funds made available under subsection (b) of this section, to remain available until expended.
-
-(Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080.)
+House Concurrent Resolution 302, referred to in subsec. (a)(3), is H. Con. Res. 302, Oct. 5, 1992, 106 Stat. 5204, which is not classified to the Code.
 
 #### Codification
 
@@ -271,6 +155,30 @@ Section 4406(a)(7) of Pub. L. 110–246 directed amendment of section 25 of the 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1)(B)(i)(I). Pub. L. 113–79, §4026(1)(A)(i)(I), inserted "through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;" after "individuals".
+
+Subsec. (a)(1)(B)(i)(III). Pub. L. 113–79, §4026(1)(A)(i)(II), inserted "food access," after "food,".
+
+Subsec. (a)(1)(B)(ii)(I). Pub. L. 113–79, §4026(1)(A)(ii), added subcl. (I) and struck out former subcl. (I) which read as follows: "infrastructure improvement and development;".
+
+Subsec. (a)(2), (3). Pub. L. 113–79, §4026(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which defined "Center" and "underserved community", respectively.
+
+Subsec. (b)(2)(B). Pub. L. 113–79, §4026(2)(B), substituted "each of fiscal years 2008 through 2014; and" for "fiscal year 2008 and each fiscal year thereafter."
+
+Subsec. (b)(2)(C). Pub. L. 113–79, §4026(2), added subpar. (C).
+
+Subsec. (c). Pub. L. 113–79, §4026(3)(A), substituted "public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners," for "private nonprofit entity" in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 113–79, §4026(3)(B), added subpar. (C).
+
+Subsec. (c)(4). Pub. L. 113–79, §4026(3)(C)–(E), added par. (4).
+
+Subsec. (d)(5). Pub. L. 113–79, §4026(4), added par. (5).
+
+Subsec. (f)(2). Pub. L. 113–79, §4026(5), substituted "5 years" for "3 years".
+
+Subsecs. (h), (i). Pub. L. 113–79, §4026(6), added subsec. (h) and struck out former subsecs. (h) and (i) which related to healthy urban food enterprise development center and innovative programs for addressing common community problems, respectively.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §4402(1), added subsec. (a) and struck out former subsec. (a) which defined "community food project".
 
@@ -305,4 +213,6 @@ Amendment by sections 4402 and 4406(a)(7) of Pub. L. 110–246 effective Oct. 1,
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–171, title IV, §4125(b), May 13, 2002, 116 Stat. 327, provided that: "The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\]."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

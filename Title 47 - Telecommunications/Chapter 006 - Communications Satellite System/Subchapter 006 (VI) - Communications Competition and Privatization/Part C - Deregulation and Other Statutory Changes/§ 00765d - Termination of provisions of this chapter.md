@@ -8,7 +8,7 @@ Effective on the dates specified, the following provisions of this chapter shall
 
 &emsp;(3) On the effective date of a Commission order determining under section 761(b)(2) of this title that Inmarsat privatization is consistent with criteria in sections 763 and 763c <sup>1</sup> of this title: Sections 753(b) and 753(d) of this title.
 
-&emsp;(4) On the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title: Section 701 of this title; section 702(7) of this title; paragraphs (2) through (4) and (7) of section 721(a) of this title; paragraphs (2), (6), and (7) of section 721(c) of this title; section 731 of this title; section 732 of this title; section 741 of this title; section 742 of this title; section 743 of this title; and section 744 of this title.
+&emsp;(4) On the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title: Section 701 of this title; section 702(7) of this title; paragraphs (2) through (4) and (7) of section 721(a) of this title; paragraphs (2), (6), and (7) of section 721(c) of thistitle; section 731 of this title; section 732 of this title; section 741 of this title; section 742 of this title; section 743 of this title; and section 744 of this title.
 
 (Pub. L. 87–624, title VI, §645, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 56.)
 

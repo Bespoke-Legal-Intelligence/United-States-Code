@@ -18,7 +18,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(C) any participant under any other individual account plan unless—
 
-&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
+&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the deathof the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
@@ -210,23 +210,7 @@ For purposes of this section—
 
 &emsp;(ii) The term "applicable interest rate" means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof) for the month before the date of the distribution or such other time as the Secretary of the Treasury may by regulations prescribe.
 
-&emsp;(iii) For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof) if—
-
-&emsp;&emsp;(I) section 1083(h)(2)(D) of this title were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
-
-&emsp;&emsp;(II) section 1083(h)(2)(G)(i)(II) of this title were applied by substituting "section 1055(g)(3)(A)(ii)(II) of this title" for "section 1082(b)(5)(B)(ii)(II) of this title", and
-
-&emsp;&emsp;(III) the applicable percentage under section 1083(h)(2)(G) of this title were determined in accordance with the following table:
-
-&nbsp;
-
-| &nbsp; | &nbsp; |
-| :--- | ---: |
-| <b>In the case of plan years beginning in:</b> | <b>The applicable percentage is:</b> |
-| 2008 | 20 percent |
-| 2009 | 40 percent |
-| 2010 | 60 percent |
-| 2011 | 80 percent. |
+&emsp;(iii) For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section.
 
 #### (h) Definitions
 
@@ -240,7 +224,7 @@ For purposes of this section—
 
 &emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
 
-&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefitis to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
 &emsp;(3) The term "earliest retirement age" means the earliest date on which, under the plan, the participant could elect to receive retirement benefits.
 
@@ -260,9 +244,11 @@ No consent of a spouse shall be effective for purposes of subsection (g)(1) or (
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(b)(3)(B), July 6, 2012, 126 Stat. 849.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(b)(3)(B), July 6, 2012, 126 Stat. 849; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(3)(B)(iii). Pub. L. 113–295 struck out dash after "if" and subcl. (I) designation before "section 1083(h)(2)(D)", substituted "described in such section." for "described in such section,", and struck out subcls. (II) and (III) which related to methods for calculating rates based on section 1083(h)(2)(G) of this title.
 
 <b>2012</b>—Subsec. (g)(3)(B)(ii), (iii). Pub. L. 112–141 substituted "section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof)" for "section 1083(h)(2)(C) of this title".
 
@@ -392,6 +378,10 @@ Subsec. (i). Pub. L. 98–397 substituted provisions relating to increased costs
 
 Subsec. (j). Pub. L. 98–397 added subsec. (j).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 applicable with respect to plan years beginning after Dec. 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of Title 26, Internal Revenue Code.
@@ -446,7 +436,7 @@ Amendment by section 1898(b)(6)(B) of Pub. L. 99–514 applicable to plan years 
 
 Amendment by section 1898(b)(8)(B) of Pub. L. 99–514 applicable to distributions after Oct. 22, 1986, see section 1898(b)(8)(C) of Pub. L. 99–514, as added, set out as a note under section 417 of Title 26.
 
-Amendment by section 1898(b)(1)(B), (2)(B), (3)(B), (5)(B), (7)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L.98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
+Amendment by section 1898(b)(1)(B), (2)(B), (3)(B), (5)(B), (7)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
 
 #### Effective Date of 1984 Amendment
 

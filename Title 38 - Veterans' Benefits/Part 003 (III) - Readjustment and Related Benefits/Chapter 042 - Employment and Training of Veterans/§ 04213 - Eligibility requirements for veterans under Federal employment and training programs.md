@@ -24,7 +24,11 @@
 
 &emsp;(5) Any amount received by an eligible member under chapter 106 of title 10.
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1098, §2013; amended Pub. L. 96–466, title VIII, §801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, §14(c)(10), June 13, 1991, 105 Stat. 285; renumbered §4213, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, §702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 106–419, title IV, §404(a)(9), Nov. 1, 2000, 114 Stat. 1865.)
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1098, §2013; amended Pub. L. 96–466, title VIII, §801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, §14(c)(10), June 13, 1991, 105 Stat. 285; renumbered §4213, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, §702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 106–419, title IV, §404(a)(9), Nov. 1, 2000, 114 Stat. 1865; Pub. L. 113–128, title V, §512(gg)(5), July 22, 2014, 128 Stat. 1720.)
+
+#### Amendment of Subsection (a)(4)
+
+<i>Pub. L. 113–128, title V, §§506, 512(gg)(5), July 22, 2014, 128 Stat. 1703, 1720, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(4) of this section is amended by striking "Any employment or training program carried out under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)" and inserting "Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -34,6 +38,8 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(4). Pub. L. 113–128 substituted "Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act" for "Any employment or training program carried out under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
+
 <b>2000</b>—Pub. L. 106–419 amended text generally. Prior to amendment, text read as follows: "Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program carried out under title I of the Workforce Investment Act of 1998, or any other employment or training (or related) program financed in whole or in part with Federal funds."
 
 <b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(C)\], struck out "the Job Training Partnership Act or" after "program carried out under".
@@ -42,7 +48,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(C)\], substituted "progra
 
 <b>1994</b>—Pub. L. 103–446, §702(b)(3), substituted "eligibility under" for "the needs or qualifications of participants in".
 
-Pub. L. 103–446, §702(b)(2), which directed insertion of "and any amounts received by an eligible person under chapter 106 of title 10," after "chapters 13 and 35 of suchtitle, and", was executed by making the insertion after "chapters 13 and 35 of such title," to reflect the probable intent of Congress.
+Pub. L. 103–446, §702(b)(2), which directed insertion of "and any amounts received by an eligible person under chapter 106 of title 10," after "chapters 13 and 35 of such title, and", was executed by making the insertion after "chapters 13 and 35 of such title," to reflect the probable intent of Congress.
 
 Pub. L. 103–446, §702(b)(1), which directed substitution of "chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran," for "chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran and", was executed by making the substitution for "chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran, and" to reflect the probable intent of Congress.
 
@@ -50,7 +56,11 @@ Pub. L. 103–446, §702(b)(1), which directed substitution of "chapters 11, 13,
 
 Pub. L. 102–54 substituted "the Job Training Partnership Act (29 U.S.C. 1501 et seq.)" for "the Comprehensive Employment and Training Act".
 
-<b>1980</b>—Pub. L. 96–466 substituted "Federal employment and" for "certain Federal manpower" in section catchline, and substituted "an eligible veteran" for "a veteran (as defined in section 101(2) of this title) who served on active duty for a period of more than 180 days or was discharged or released from active duty for a service-connected disability" and "any employment or training program assisted under the Comprehensive Employment and Training Act, or any other employment or" for "any manpower training program assisted under the Manpower Development and Training Act of 1962, or any other manpower" in text.
+<b>1980</b>—Pub. L. 96–466 substituted "Federal employment and" for "certain Federal manpower" in section catchline, and substituted "an eligible veteran" for "a veteran (as defined in section 101(2) of this title) who served on active duty for a period of more than 180 days or was discharged or released from active duty for a service-connected disability" and "any employment or training program assisted under the Comprehensive Employment and Training Act, or any other employment or" for "any manpower training program assistedunder the Manpower Development and Training Act of 1962, or any other manpower" in text.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendment
 

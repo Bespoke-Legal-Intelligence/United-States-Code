@@ -12,7 +12,7 @@ Section 1031 of this title, referred to in text, was repealed by Pub. L. 92–18
 
 #### Codification
 
-Section is comprised of second par. of section 13A, formerly section 13a, as added Mar. 4, 1923. Pars. 1, 3 to5 of section 13A are set out as sections 348, 350 to 352 of this title, respectively.
+Section is comprised of second par. of section 13A, formerly section 13a, as added Mar. 4, 1923. Pars. 1, 3 to 5 of section 13A are set out as sections 348, 350 to 352 of this title, respectively.
 
 #### Amendments
 

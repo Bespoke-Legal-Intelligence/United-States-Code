@@ -122,7 +122,7 @@ Savings Provisions.—
 
 Orders and other official actions not affected.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
-&emsp;&emsp;"(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office \[now Government Accountability Office\], or bya court of competent jurisdiction, in the performance of any function or authority transferred under this Act, and
+&emsp;&emsp;"(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office \[now Government Accountability Office\], or by a court of competent jurisdiction, in the performance of any function or authority transferred under this Act, and
 
 &emsp;&emsp;"(B) which are in effect at the time of the transfer;
 
@@ -138,7 +138,7 @@ Judicial proceedings and causes of actions.—No suit, action, or other proceedi
 
 #### Contract Appeals Board
 
-Pub. L. 110–161, div. H, title I, §1501, Dec. 26, 2007, 121 Stat. 2249, provided that:
+Pub. L. 110–161, div. H, title I, §1501, Dec. 26, 2007, 121 Stat. 2249, as amended by Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 "(a)
 
@@ -154,7 +154,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;"(C) the Government Accountability Office;
 
-&emsp;&emsp;"(D) the Government Printing Office;
+&emsp;&emsp;"(D) the Government Publishing Office;
 
 &emsp;&emsp;"(E) the Library of Congress;
 

@@ -222,13 +222,13 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 #### (2) Nondisclosed noneconomic substance transactions
 
-&emsp;For purposes of this subsection, the term "nondisclosed noneconomic substance transaction" means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
+&emsp;For purposes of this subsection, the term "nondisclosed noneconomic substance transaction" means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in thereturn nor in a statement attached to the return.
 
 #### (3) Special rule for amended returns
 
 &emsp;In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
-(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069.)
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028.)
 
 #### References in Text
 
@@ -246,9 +246,11 @@ A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b)(7). Pub. L. 113–295, §208(a), amended directory language of Pub. L. 111–147, §512(a)(1). See 2010 Amendment note below.
+
 <b>2010</b>—Subsec. (b)(6). Pub. L. 111–152, §1409(b)(1), added par. (6). See Codification note above.
 
-Subsec. (b)(7). Pub. L. 111–147, §512(a)(1), which directed amendment of subsec. (b) by adding par. (7) after par. (6), was executed by adding par. (7) after par. (5) to reflect the probable intent of Congress and the subsequent addition of par. (6) by Pub. L. 111–152. See above.
+Subsec. (b)(7). Pub. L. 111–147, §512(a)(1), as amended by Pub. L. 113–295, §208(a), added par. (7).
 
 Subsec. (i). Pub. L. 111–152, §1409(b)(2), added subsec. (i). See Codification note above.
 
@@ -300,7 +302,7 @@ Subsec. (d)(2)(C)(ii). Pub. L. 103–465, §744(a), added cl. (ii). Former cl. (
 
 Subsec. (d)(2)(C)(iii). Pub. L. 103–465, §744(a), (b)(2), redesignated cl. (ii) as (iii) and substituted "this subparagraph" for "clause (i)" in introductory provisions.
 
-<b>1993</b>—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "any item with respect to which the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return."
+<b>1993</b>—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "any item with respect to which the relevant facts affecting the item's tax treatment areadequately disclosed in the return or in a statement attached to the return."
 
 Subsec. (e)(1)(B)(ii). Pub. L. 103–66, §13236(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the net section 482 transfer price adjustment for the taxable year exceeds $10,000,000."
 
@@ -327,6 +329,10 @@ In general.—For purposes of this section, there is a substantial valuation ove
 Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542))."
 
 Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting '400 percent' for '200 percent',".
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title II, §208(b), Dec. 19, 2014, 128 Stat. 4028, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147\] to which it relates."
 
 #### Effective Date of 2010 Amendment
 
@@ -390,7 +396,7 @@ Pub. L. 103–465, title VII, §744(c), Dec. 8, 1994, 108 Stat. 5011, provided t
 
 Pub. L. 103–66, title XIII, §13236(e), Aug. 10, 1993, 107 Stat. 506, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993."
 
-Pub. L. 103–66, title XIII, §13251(b), Aug. 10, 1993, 107 Stat. 531, provided that: "The amendment made by this section \[amending this section\] shall apply to returns the due dates for which (determined without regard to extensions) are after December 31, 1993."
+Pub. L. 103–66, title XIII, §13251(b), Aug. 10, 1993, 107 Stat. 531, provided that: "The amendment made by thissection \[amending this section\] shall apply to returns the due dates for which (determined without regard to extensions) are after December 31, 1993."
 
 #### Effective Date of 1990 Amendment
 

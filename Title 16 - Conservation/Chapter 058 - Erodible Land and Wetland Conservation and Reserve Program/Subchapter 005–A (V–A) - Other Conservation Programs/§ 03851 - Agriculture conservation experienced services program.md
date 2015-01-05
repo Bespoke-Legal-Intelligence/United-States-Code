@@ -26,17 +26,9 @@ The Secretary shall establish a conservation experienced services program (in th
 
 &emsp;Except as provided in paragraph (2), the Secretary may carry out the ACES program using funds made available to carry out each program under this chapter.
 
-#### (2) Exclusions
+#### (2) Exclusion
 
-&emsp;Funds made available to carry out the following programs may not be used to carry out the ACES program:
-
-&emsp;&emsp;(A) The conservation reserve program.
-
-&emsp;&emsp;(B) The wetlands reserve program.
-
-&emsp;&emsp;(C) The grassland reserve program.
-
-&emsp;&emsp;(D) The conservation stewardship program.
+&emsp;Funds made available to carry out the conservation reserve program may not be used to carry out the ACES program.
 
 #### (d) Liability
 
@@ -46,7 +38,7 @@ An individual providing technical services under the ACES program is deemed to b
 
 &emsp;(2) is acting within the scope of the agreement.
 
-(Pub. L. 99–198, title XII, §1252, as added Pub. L. 110–234, title II, §2710, May 22, 2008, 122 Stat. 1082, and Pub. L. 110–246, §4(a), title II, §2710, June 18, 2008, 122 Stat. 1664, 1810.)
+(Pub. L. 99–198, title XII, §1252, as added Pub. L. 110–234, title II, §2710, May 22, 2008, 122 Stat. 1082, and Pub. L. 110–246, §4(a), title II, §2710, June 18, 2008, 122 Stat. 1664, 1810; amended Pub. L. 113–79, title II, §2504, Feb. 7, 2014, 128 Stat. 752.)
 
 #### References in Text
 
@@ -63,6 +55,18 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 1252 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1516, amended sections 2004, 2005, 2006, and 2009 of this title, prior to repeal by Pub. L. 104–127, title III, §336(e), Apr. 4, 1996, 110 Stat. 1007.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–79 amended par. (2) generally. Prior to amendment, text read as follows: "Funds made available to carry out the following programs may not be used to carry out the ACES program:
+
+&emsp;"(A) The conservation reserve program.
+
+&emsp;"(B) The wetlands reserve program.
+
+&emsp;"(C) The grassland reserve program.
+
+&emsp;"(D) The conservation stewardship program."
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ Effectiveness of Adjustment.—An adjustment under this section shall have the f
 
 (c)
 
-Equal Percentage Increase for All Members.—(1) An adjustment made under this section in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of thesecond year before the preceding calendar year (if at all).
+Equal Percentage Increase for All Members.—(1) An adjustment made under this section in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
 
 (2) Notwithstanding paragraph (1), but subject to subsection (d), the percentage of the adjustment taking effect under this section during each of fiscal years 2004, 2005, and 2006, shall be one-half of one percentage point higher than the percentage that would otherwise be applicable under such paragraph.
 
@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 108–136, §602(c)(1), (3), added subsec. (c) and struck o
 
 Subsec. (d). Pub. L. 108–136, §602(c)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which related to allocation of increase among pay grades and years-of-service.
 
-Subsec. (e). Pub. L. 108–136, §602(c)(1), (4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Whenever the President plans to exercise the authority of the President under subsection (d) with respect to any anticipated increase in the monthly basic pay of members of the uniformed services, the President shall advise Congress, at the earliest practicable time prior to the effective date of such increase, regarding the proposed allocation of such increase."
+Subsec. (e). Pub. L. 108–136, §602(c)(1), (4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Whenever the President plans to exercise the authority of the President undersubsection (d) with respect to any anticipated increase in the monthly basic pay of members of the uniformed services, the President shall advise Congress, at the earliest practicable time prior to the effective date of such increase, regarding the proposed allocation of such increase."
 
 Subsec. (f). Pub. L. 108–136, §602(c)(2), redesignated subsec. (f) as (d).
 

@@ -14,7 +14,7 @@ Such assistance shall be available—
 
 &emsp;(1) for direct services to victims of torture; and
 
-&emsp;(2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b) of this section, for the purpose of enabling such providers to provide the services described in paragraph (1).
+&emsp;(2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b), for the purpose of enabling such providers to provide the services described in paragraph (1).
 
 (Pub. L. 87–195, pt. I, §130, formerly §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112 Stat. 3017; renumbered §130, Pub. L. 106–87, §6(a), Nov. 3, 1999, 113 Stat. 1302.)
 
@@ -136,7 +136,7 @@ Sense of the Congress.—It is the sense of the Congress that the President, act
 
 &emsp;&emsp;"(B) to encourage the development of new such centers and programs;
 
-&emsp;"(2) use the voice and vote of the United States to support the work of the Special Rapporteur on Torture and the Committee Against Torture established under the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; and
+&emsp;"(2) use the voice and vote of the United States to support the work of the Special Rapporteur on Torture and the Committee Against Torture established under the Convention Against Torture and OtherCruel, Inhuman or Degrading Treatment or Punishment; and
 
 &emsp;"(3) use the voice and vote of the United States to establish a country rapporteur or similar procedural mechanism to investigate human rights violations in a country if either the Special Rapporteur or the Committee Against Torture indicates that a systematic practice of torture is prevalent in that country.
 

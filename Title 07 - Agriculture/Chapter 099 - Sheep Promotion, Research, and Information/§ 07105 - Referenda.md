@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Following the issuance of an order under section 7103 of this title, the Secretary shall conduct a referendum among producers, feeders, and importers who, during a representative period as determined by the Secretary, have been engaged in the production, feeding, or importation of sheep or sheep products for the purpose of ascertaining whether the order shall go into effect.
+&emsp;Following the issuance of an order under section 7103 of this title, the Secretary shall conduct a referendum among producers, feeders, and importers who, during a representative period as determined by the Secretary,have been engaged in the production, feeding, or importation of sheep or sheep products for the purpose of ascertaining whether the order shall go into effect.
 
 #### (2) Approval of order
 
@@ -46,7 +46,7 @@
 
 #### (4) Allocation of production
 
-&emsp;The Secretary shall determine a method of allocating, by a pro rata percentage of annualprojected or actual assessments from importers, the volume of production represented by importers in referenda conducted pursuant to this section.
+&emsp;The Secretary shall determine a method of allocating, by a pro rata percentage of annual projected or actual assessments from importers, the volume of production represented by importers in referenda conducted pursuant to this section.
 
 (Pub. L. 103–407, §6, Oct. 22, 1994, 108 Stat. 4223.)
 

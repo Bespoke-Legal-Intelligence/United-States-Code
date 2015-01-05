@@ -114,7 +114,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (1) In general
 
-&emsp;After consultation with the importing community, the Customs Service shall by regulation establish a recordkeeping compliance program which the parties listed in section 1508(a) of this title may participate in after being certified by the Customs Service under paragraph (2). Participation in the recordkeeping compliance program by recordkeepers is voluntary.
+&emsp;After consultation with the importing community, the Customs Service shall by regulation establish a recordkeeping compliance program which the parties listed in section 1508(a) of this title may participate in after being certified by the Customs Service under paragraph\(2). Participation in the recordkeeping compliance program by recordkeepers is voluntary.
 
 #### (2) Certification
 
@@ -210,7 +210,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
-(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986,100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
+(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
 
 #### References in Text
 
@@ -266,7 +266,7 @@ Subsecs. (e) to (g). Pub. L. 103–182, §615(5), added subsecs. (e) to (g).
 
 Subsec. (c)(1)(A). Pub. L. 99–570, §3117(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The term 'records' includes statements, declarations, or documents required to be kept under section 1508 of this title."
 
-<b>1978</b>—Pub. L. 95–410 substituted subsec. (a) to (c) provisions for examination of books and witnesses for prior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate or amount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
+<b>1978</b>—Pub. L. 95–410 substituted subsec. (a) to (c) provisions for examination of books and witnesses forprior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate or amount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
 
 <b>1970</b>—Pub. L. 91–271 substituted "Appropriate customs officer" for "Collectors and appraisers".
 
@@ -294,7 +294,7 @@ Act June 25, 1948, ch. 646, §38, 62 Stat. 992, provided that the amendment made
 
 #### Construction of 1993 Amendment
 
-Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
 
 #### Transfer of Functions
 

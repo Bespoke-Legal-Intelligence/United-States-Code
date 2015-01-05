@@ -66,7 +66,7 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2)(D). Pub. L. 104–208 substituted “removal because such alien is inadmissible” for “exclusion because such alien is excludable”.
+<b>1996</b>—Subsec. (b)(2)(D). Pub. L. 104–208 substituted "removal because such alien is inadmissible" for "exclusion because such alien is excludable".
 
 #### Effective Date of 1996 Amendment
 

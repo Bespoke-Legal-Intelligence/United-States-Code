@@ -36,11 +36,11 @@ The President may waive the prohibitions of section 2799aa of this title with re
 
 #### (f) Storage costs
 
-The President may release the Government of Pakistan of its contractual obligation to pay the United States Government for the storage costs of items purchased prior to October 1, 1990, but not delivered by the United States Government pursuant to subsection (e) of this section and may reimburse the Government of Pakistan for any such amount paid, on such terms and conditions as the President may prescribe: <i>Provided</i>, That such payments have no budgetary impact.
+The President may release the Government of Pakistan of its contractual obligation to pay the United States Government for the storage costs of items purchased prior to October 1, 1990, but not delivered by the United States Government pursuant to subsection (e) and may reimburse the Government of Pakistan for any such amount paid, on such terms and conditions as the President may prescribe: <i>Provided</i>, That such payments have no budgetary impact.
 
 #### (g) Inapplicability of restrictions to previously owned items
 
-Subsection (e) of this section does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
+Subsection (e) does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
 
 #### (h) Ballistic missile sanctions not affected
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (e), was in the original "this Act", meanin
 
 #### Codification
 
-Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
+Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1stSession, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsecs. (f) to (h). Pub. L. 104–107, §559(a)(2), added subsecs. (f) to (h).
 
 Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
-<b>1991</b>—Subsec. (d). Pub. L. 102–145, §118, as added by Pub. L. 102–266, which directed the amendment of subsec. (d) by substituting "April 1, 1993" for "April 1, 1991" in lieu of amendment by Pub. L. 101–513, §574(a),was executed by substituting "April 1, 1993" for "April 1, 1992" to reflect the probable intent of Congress. See Codification note above and 1990 Amendment note below.
+<b>1991</b>—Subsec. (d). Pub. L. 102–145, §118, as added by Pub. L. 102–266, which directed the amendment of subsec. (d) by substituting "April 1, 1993" for "April 1, 1991" in lieu of amendment by Pub. L. 101–513, §574(a), was executed by substituting "April 1, 1993" for "April 1, 1992" to reflect the probable intent of Congress. See Codification note above and 1990 Amendment note below.
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–513 substituted "April 1, 1992" for "April 1, 1991".
 
@@ -176,7 +176,7 @@ Limitation on United States Security Assistance to Pakistan.—
 
 &emsp;"(1)
 
-Limitation.—For fiscal year 2008, United States assistance under chapter 2 of part II of the ForeignAssistance Act of 1961 (22 U.S.C. 2311 et seq.) or section 23 of the Arms Export Control Act (22 U.S.C. 2763) may not be provided to, and a license for any item controlled under the Arms Export Control Act (22 U.S.C. 2751 et seq.) may not be approved for, Pakistan until the President transmits to the appropriate congressional committees a report that contains a determination of the President that the Government of Pakistan—
+Limitation.—For fiscal year 2008, United States assistance under chapter 2 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2311 et seq.) or section 23 of the Arms Export Control Act (22 U.S.C. 2763) may not be provided to, and a license for any item controlled under the Arms Export Control Act (22 U.S.C. 2751 et seq.) may not be approved for, Pakistan until the President transmits to the appropriate congressional committees a report that contains a determination of the President that the Government of Pakistan—
 
 &emsp;&emsp;"(A) is committed to eliminating from Pakistani territory any organization such as the Taliban, al Qaeda, or any successor, engaged in military, insurgent, or terrorist activities in Afghanistan;
 

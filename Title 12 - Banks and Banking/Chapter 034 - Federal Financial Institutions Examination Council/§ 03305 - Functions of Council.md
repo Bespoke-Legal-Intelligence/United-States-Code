@@ -16,7 +16,7 @@ The Council shall develop uniform reporting systems for federally supervised fin
 
 #### (d) Conducting schools for examiners and assistant examiners
 
-The Council shall conduct schools for examiners and assistant examiners employed by theFederal financial institutions regulatory agencies. Such schools shall be open to enrollment by employees of State financial institutions supervisory agencies and employees of the Federal Housing Finance Board under conditions specified by the Council.
+The Council shall conduct schools for examiners and assistant examiners employed by the Federal financial institutions regulatory agencies. Such schools shall be open to enrollment by employees of State financial institutions supervisory agencies and employees of the Federal Housing Finance Board under conditions specified by the Council.
 
 #### (e) Affect on Federal regulatory agency research and development of new financial institutions supervisory agencies
 
@@ -56,7 +56,7 @@ In general.—The appropriate Federal banking agencies, acting through the Feder
 
 Requirements.—An examination improvement program meets the requirements of this paragraph if, under the program, the agency is required—
 
-&emsp;"(A) to periodically review the organization and training of the staff of the agency who are responsible for conducting examinations of insured depository institutions and to make such improvements as the agency determines to be appropriate to ensure frequent, objective, and thorough examinations of such institutions; and
+&emsp;"(A) to periodically review the organization and training of the staff of the agency who are responsible for conducting examinations of insured depository institutions and to make such improvements as the agency determines to be appropriate to ensurefrequent, objective, and thorough examinations of such institutions; and
 
 &emsp;"(B) to increase the number of examiners, supervisors, and other individuals employed by the agency in connection with conducting or supervising examinations of insured depository institutions to the extent necessary to ensure frequent, objective, and thorough examinations of such institutions."
 
@@ -96,5 +96,5 @@ Pub. L. 96–399, title III, §340(d), Oct. 8, 1980, 94 Stat. 1659, directed Fed
 
 #### Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations
 
-Pub. L. 96–399, title III, §340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outlinepossible specific timetables for implementing such a unified system.
+Pub. L. 96–399, title III, §340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.
 

@@ -10,7 +10,7 @@ Date of Appointment.—The Secretary concerned shall appoint a board under this 
 
 (c)
 
-Combined Inquiries.—If it appears to the Secretary concerned that the absence or status of two or more persons is factually related, the Secretary may appoint one board under this section to conduct the inquiry into the whereabouts and status of such persons.
+Combined Inquiries.—If it appears to the Secretary concerned that the absence or statusof two or more persons is factually related, the Secretary may appoint one board under this section to conduct the inquiry into the whereabouts and status of such persons.
 
 (d)
 
@@ -140,7 +140,7 @@ Report to Family Members and Other Interested Persons.—Not later than 60 days 
 
 Treatment of Determination.—Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under section 1503 of this title and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L. 104–201, div. A, title V, §578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(3), (d)(1), title X, §1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L.104–201, div. A, title V, §578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(3), (d)(1), title X, §1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
 
 #### Amendments
 

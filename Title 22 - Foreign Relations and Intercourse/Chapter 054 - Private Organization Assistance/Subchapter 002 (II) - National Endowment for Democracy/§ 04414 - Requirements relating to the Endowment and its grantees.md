@@ -10,7 +10,7 @@
 
 #### (b) Consultation with Department of State
 
-The Endowment shall consult with the Department of State on any overseas program fundedby the Endowment prior to the commencement of the activities of that program.
+The Endowment shall consult with the Department of State on any overseas program funded by the Endowment prior to the commencement of the activities of that program.
 
 (Pub. L. 98–164, title V, §505, as added Pub. L. 99–93, title II, §210(a), Aug. 16, 1985, 99 Stat. 431.)
 

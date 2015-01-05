@@ -96,7 +96,7 @@ Sec. 723. (a) The Comptroller shall publish notice once a week for four weeks in
 
 "(b) The Comptroller shall pay the principal amount of a liquidating dividend, exclusive of any income earned thereon, to a claimant presenting a valid claim, if the claimant applies to collect within twelve months following the last date notice is published.
 
-"(c) If a creditor shall fail to apply to collect a liquidating dividend within twelve months after the lastdate notice is published, all rights of the claimant against the closed receivership fund with respect to the liquidating dividend shall be barred.
+"(c) If a creditor shall fail to apply to collect a liquidating dividend within twelve months after the last date notice is published, all rights of the claimant against the closed receivership fund with respect to the liquidating dividend shall be barred.
 
 "(d) The principal amount of any liquidating dividends (1) for which claims have not been asserted within twelve months following the last date notice is published or (2) for which the Comptroller has determined a valid claim has not been submitted shall, together with any income earned on liquidating dividends and other moneys, if any, remaining in the closed receivership fund, be covered into the general funds of the Comptroller."
 

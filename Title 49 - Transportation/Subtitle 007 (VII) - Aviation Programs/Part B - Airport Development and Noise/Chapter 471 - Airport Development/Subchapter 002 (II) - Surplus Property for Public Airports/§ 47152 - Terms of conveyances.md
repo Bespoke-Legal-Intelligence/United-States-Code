@@ -28,7 +28,7 @@ Except as provided in section 47153 of this title, the following terms apply to 
 
 &emsp;&emsp;(B) pay for damages caused by its use of the landing area if its use of the landing area is substantial.
 
-&emsp;(7) The State, political subdivision, or tax-supported organization accepting the interest shall release the Government from all liability for damages arising under an agreement that provides for Government use of any part of an airport owned, controlled, or operated by the State, political subdivision, or tax-supported organization on which, adjacent to which, orin connection with which, the property is located.
+&emsp;(7) The State, political subdivision, or tax-supported organization accepting the interest shall release the Government from all liability for damages arising under an agreement that provides for Government use of any part of an airport owned, controlled, or operated by the State, political subdivision, or tax-supported organization on which, adjacent to which, or in connection with which, the property is located.
 
 &emsp;(8) When a term under this section is not satisfied, any part of the interest in the property reverts to the Government, at the option of the Government, as the property then exists.
 

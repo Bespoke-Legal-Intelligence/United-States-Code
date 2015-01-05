@@ -26,7 +26,7 @@ Not later than 1 year after July 29, 2010, the Secretary of the Interior, the At
 
 &emsp;(6) direct Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit directors to cooperate fully with tribal requests made pursuant to section 2412 of this title, and
 
-&emsp;(7) provide for an annual review of such agreements by the Secretary of the Interior,the Attorney General, and the Secretary of Health and Human Services.
+&emsp;(7) provide for an annual review of such agreements by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services.
 
 #### (b) Character of activities
 
@@ -46,7 +46,7 @@ The Secretary of the Interior, the Attorney General, and the Secretary of Health
 
 #### (d) Publication
 
-The Memorandum of Agreement under subsection (a) of this section shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) of this section to each Indian tribe.
+The Memorandum of Agreement under subsection (a) of this section shall be submitted to Congress and published in the Federal Registernot later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) of this section to each Indian tribe.
 
 (Pub. L. 99–570, title IV, §4205, Oct. 27, 1986, 100 Stat. 3207–139; Pub. L. 111–211, title II, §241(a)(1), July 29, 2010, 124 Stat. 2287.)
 

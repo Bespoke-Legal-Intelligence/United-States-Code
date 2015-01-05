@@ -44,27 +44,13 @@ A prior section 4681, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980,
 
 <b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–34 added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: "The base tax amount for purposes of subparagraph (A) with respect to any sale or use during a calendar year before 1996 with respect to any ozone-depleting chemical is the amount determined under the following table for such calendar year:
 
-<b> </b>
+&nbsp;
 
-<b>Base tax</b>
-
-<b> "Calendar year:</b>
-
-<b>amount:</b>
-
-&nbsp;&nbsp;1993
-
-3\.35&nbsp;
-
-&nbsp;&nbsp;1994
-
-4\.35&nbsp;
-
-&nbsp;&nbsp;1995
-
-5\.35."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>"Calendar year:</b> | <b>Base tax amount:</b> |
+| :--- | ---: |
+| &nbsp;1993 | 3\.35&nbsp; |
+| &nbsp;1994 | 4\.35&nbsp; |
+| &nbsp;1995 | 5\.35." |
 
 Subsec. (b)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: "The base tax amount for purposes of subparagraph (A) with respect to any sale or use of an ozone-depleting chemical during a calendar year after the last year specified in the table under subparagraph (B) applicable to such chemical shall be the base tax amount for such last year increased by 45 cents for each year after such last year."
 
@@ -96,5 +82,5 @@ No deposits required before april 1, 1990.—No deposit of any tax imposed by su
 
 "(3)
 
-Notification of changes in international agreements.—The Secretary of the Treasury or his delegate shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of changes in the Montreal Protocol and of other international agreements to which the United States is a signatory relating to ozone-depleting chemicals."
+Notification of changes in international agreements.—The Secretary of the Treasury or his delegate shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of changes in the Montreal Protocol and of other international agreements towhich the United States is a signatory relating to ozone-depleting chemicals."
 

@@ -52,7 +52,7 @@ The Secretary shall make payments under this section only for the production of 
 
 #### (2) Timing of payments
 
-&emsp;The Secretary shall make payments to producers under this section after the Secretaryreceives documentation that the premium required under a contract has been paid to covered producers.
+&emsp;The Secretary shall make payments to producers under this section after the Secretary receives documentation that the premium required under a contract has been paid to covered producers.
 
 #### (e) Administration
 

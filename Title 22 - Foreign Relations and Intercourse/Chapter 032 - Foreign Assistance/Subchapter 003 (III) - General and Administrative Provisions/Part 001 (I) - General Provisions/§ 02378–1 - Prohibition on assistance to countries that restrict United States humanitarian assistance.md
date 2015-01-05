@@ -6,17 +6,17 @@ No assistance shall be furnished under this chapter or the Arms Export Control A
 
 #### (b) Exception
 
-Assistance may be furnished without regard to the restriction in subsection (a) of this section if the President determines that to do so is in the national security interest of the United States.
+Assistance may be furnished without regard to the restriction in subsection (a) if the Presidentdetermines that to do so is in the national security interest of the United States.
 
 #### (c) Notice
 
-Prior to making any determination under subsection (b) of this section, the President shall notify the Committee on International Relations, the Committee on Foreign Relations, and the Committees on Appropriations of the Senate and House of Representatives of his intention to make such a determination, the effective date of the determination, and the reasons for making the determination.
+Prior to making any determination under subsection (b), the President shall notify the Committee on International Relations, the Committee on Foreign Relations, and the Committees on Appropriations of the Senate and House of Representatives of his intention to make such a determination, the effective date of the determination, and the reasons for making the determination.
 
 (Pub. L. 87–195, pt. III, §620I, as added Pub. L. 104–208, div. A, title I, §101(c) \[title V, §559\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 

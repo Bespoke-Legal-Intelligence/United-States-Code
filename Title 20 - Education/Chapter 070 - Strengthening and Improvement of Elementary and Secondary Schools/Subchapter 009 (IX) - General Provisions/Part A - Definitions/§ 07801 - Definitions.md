@@ -180,7 +180,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) when used with respect to any public elementary school or secondary school teacher teaching in a State, means that—
 
-&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a teacher (including certification obtained through alternative routes to certification) or passed the State teacher licensing examination, and holds a license to teach in such State, except that when used with respect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State's public charter school law; and
+&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a teacher (including certification obtained through alternative routes to certification) or passed the State teacher licensing examination, and holds a license to teach in such State, except that when used with respect to any teacher teaching in a public charter school, theterm means that the teacher meets the requirements set forth in the State's public charter school law; and
 
 &emsp;&emsp;&emsp;(ii) the teacher has not had certification or licensure requirements waived on an emergency, temporary, or provisional basis;
 
@@ -190,7 +190,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) holds at least a bachelor's degree; and
 
-&emsp;&emsp;&emsp;&emsp;(II) has demonstrated, by passing a rigorous State test, subject knowledge and teaching skills in reading, writing, mathematics, and other areas of the basic elementary school curriculum (which may consist of passing a State-required certification or licensing test ortests in reading, writing, mathematics, and other areas of the basic elementary school curriculum); or
+&emsp;&emsp;&emsp;&emsp;(II) has demonstrated, by passing a rigorous State test, subject knowledge and teaching skills in reading, writing, mathematics, and other areas of the basic elementary school curriculum (which may consist of passing a State-required certification or licensing test or tests in reading, writing, mathematics, and other areas of the basic elementary school curriculum); or
 
 &emsp;&emsp;&emsp;(ii) a middle or secondary school teacher who is new to the profession, means that the teacher holds at least a bachelor's degree and has demonstrated a high level of competency in each of the academic subjects in which the teacher teaches by—
 
@@ -338,7 +338,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(ix) are developed with extensive participation of teachers, principals, parents, and administrators of schools to be served under this chapter;
 
-&emsp;&emsp;&emsp;(x) are designed to give teachers of limited English proficient children, and otherteachers and instructional staff, the knowledge and skills to provide instruction and appropriate language and academic support services to those children, including the appropriate use of curricula and assessments;
+&emsp;&emsp;&emsp;(x) are designed to give teachers of limited English proficient children, and other teachers and instructional staff, the knowledge and skills to provide instruction and appropriate language and academic support services to those children, including the appropriate use of curricula and assessments;
 
 &emsp;&emsp;&emsp;(xi) to the extent appropriate, provide training for teachers and principals in the use of technology so that technology and technology applications are effectively used in the classroom to improve teaching and learning in the curricula and core academic subjects in which the teachers teach;
 

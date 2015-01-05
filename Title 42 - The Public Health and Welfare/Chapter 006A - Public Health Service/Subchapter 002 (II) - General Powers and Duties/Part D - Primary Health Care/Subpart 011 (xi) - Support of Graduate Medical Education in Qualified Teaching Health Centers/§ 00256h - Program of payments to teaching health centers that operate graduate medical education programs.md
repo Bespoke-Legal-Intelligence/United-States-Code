@@ -152,7 +152,7 @@ In this section:
 
 &emsp;The term "approved graduate medical residency training program" means a residency or other postgraduate medical training program—
 
-&emsp;&emsp;(A) participation in which may be counted toward certification in a specialty or subspecialty and includes formal postgraduatetraining programs in geriatric medicine approved by the Secretary; and
+&emsp;&emsp;(A) participation in which may be counted toward certification in a specialty or subspecialty and includes formal postgraduate training programs in geriatric medicine approved by the Secretary; and
 
 &emsp;&emsp;(B) that meets criteria for accreditation (as established by the Accreditation Council for Graduate Medical Education, the American Osteopathic Association, or the American Dental Association).
 

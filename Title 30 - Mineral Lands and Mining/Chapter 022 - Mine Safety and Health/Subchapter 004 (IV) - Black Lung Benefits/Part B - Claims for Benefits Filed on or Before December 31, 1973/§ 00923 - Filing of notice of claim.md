@@ -16,7 +16,7 @@ No claim for benefits under this section shall be considered unless the claimant
 
 No miner who is engaged in coal mine employment shall (except as provided in section 921(c)(3) of this title) be entitled to any benefits under this part while so employed. Any miner who has been determined to be eligible for benefits pursuant to a claim filed while such miner was engaged in coal mine employment shall be entitled to such benefits if his or her employment terminates within one year after the date such determination becomes final.
 
-(Pub. L. 91–173, title IV, §413, Dec. 30, 1969, 83 Stat. 794; Pub. L. 92–303, §§1(c)(5)(A), 4(f), 5(2), May 19, 1972, 86 Stat. 152, 154, 155; Pub. L. 95–239, §5, Mar. 1, 1978, 92 Stat. 97; Pub. L. 97–119, title II, §202(a), (c), Dec. 29, 1981, 95 Stat. 1643; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(a), (b)(2), Nov. 2, 2002, 116 Stat. 1925.)
+(Pub. L. 91–173, title IV, §413, Dec. 30, 1969, 83 Stat. 794; Pub. L. 92–303, §§1(c)(5)(A), 4(f), 5(2), May 19, 1972, 86 Stat. 152, 154, 155; Pub. L. 95–239, §5, Mar. 1, 1978, 92 Stat. 97; Pub. L. 97–119, title II, §202(a), (c), Dec. 29, 1981, 95 Stat. 1643; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat.1488; Pub. L. 107–275, §2(a), (b)(2), Nov. 2, 2002, 116 Stat. 1925.)
 
 #### References in Text
 

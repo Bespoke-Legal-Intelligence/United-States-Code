@@ -2,7 +2,7 @@
 
 #### (a) Environmental impact provisions
 
-No action taken pursuant to, in furtherance of, or as authorized by this subchapter, shall bedeemed a major Federal action for purposes of the National Environmental Policy Act of 1969, as amended \[42 U.S.C. 4321 et seq.\].
+No action taken pursuant to, in furtherance of, or as authorized by this subchapter, shall be deemed a major Federal action for purposes of the National Environmental Policy Act of 1969, as amended \[42 U.S.C. 4321 et seq.\].
 
 #### (b) Transfer of public lands
 

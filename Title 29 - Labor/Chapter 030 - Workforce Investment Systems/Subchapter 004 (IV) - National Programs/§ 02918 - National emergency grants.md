@@ -134,7 +134,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (A) Health insurance coverage for eligible individuals in order to obtain qualified health insurance that has guaranteed issue and other consumer protections
 
-&emsp;&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) may be used to provide an eligible individual described in paragraph (4)(C) and such individual's qualifying family members with health insurance coverage for the 3-month period that immediately precedes the first eligible coverage month (as defined in section 35(b) of title 26) in which such eligible individual and such individual's qualifying family members are covered by qualified health insurance that meets the requirements described in clauses (i) through (v) <sup>2</sup> of section 35(e)(2)(A) of title 26 (or such longer minimum period as is necessary in order for such eligible individual and such individual's qualifying family members to be covered by qualified health insurance that meets such requirements).
+&emsp;&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) may be used to provide an eligible individual described in paragraph (4)(C) and such individual's qualifying family members with health insurance coverage for the 3-month period that immediately precedes the first eligible coverage month (as defined in section 35(b) of title 26) in which such eligible individual and such individual's qualifying family members are covered by qualified health insurance that meets the requirements described in clauses (i) through (v) <sup>2</sup> of section 35(e)(2)(A) of title 26 (or such longer minimum period as is necessary in order for such eligible individual and such individual's qualifying family members to be covered byqualified health insurance that meets such requirements).
 
 #### (B) Additional uses
 
@@ -280,7 +280,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this subsection for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
 
-&emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death shall be treated as an eligible individual for purposes <sup>4</sup> this subsection for a period of 24 months beginning with the date of such death, except that no qualifying family members may be taken into account with respect to such individual.
+&emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death shall be treated as an eligible individual for purposes <sup>4</sup> this subsection for a period of 24 months beginning with the date of such death, except that no qualifying family members may betaken into account with respect to such individual.
 
 #### (g) Interim health insurance coverage and other assistance
 
@@ -322,6 +322,10 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 (Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963; Pub. L. 111–5, div. B, title I, §§1899E(b), 1899K(a), Feb. 17, 2009, 123 Stat. 427, 433; Pub. L. 111–344, title I, §115(b), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §241(b)(3)(D), Oct. 21, 2011, 125 Stat. 419.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
@@ -332,7 +336,7 @@ Section 35(e)(2)(A) of title 26, referred to in subsec. (f)(1)(A), does not cont
 
 The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002), referred to in subsec. (g)(2), (5), is chapter 2 of title II of Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as in effect on the day before the effective date of Pub. L. 107–210. Chapter 2 of title II of Pub. L. 93–618 is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For effective date provisions applicable to certain amendments by Pub. L. 107–210 to chapter 2 of title II of Pub. L. 93–618, see Effective Date of 2002 Amendment note set out preceding section 2271 of Title 19. For complete classification of Pub. L. 93–618 to the Code, see section 2101 of Title 19 and Tables.
+Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002), referred to in subsec. (g)(2), (5), is chapter 2 of title II of Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as in effect on the day before the effective date of Pub. L. 107–210. Chapter 2 of title II of Pub. L. 93–618 is classified generally to part 2 (§2271 etseq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For effective date provisions applicable to certain amendments by Pub. L. 107–210 to chapter 2 of title II of Pub. L. 93–618, see Effective Date of 2002 Amendment note set out preceding section 2271 of Title 19. For complete classification of Pub. L. 93–618 to the Code, see section 2101 of Title 19 and Tables.
 
 #### Amendments
 
@@ -351,6 +355,10 @@ Subsecs. (f), (g). Pub. L. 107–210, §203(b), added subsecs. (f) and (g).
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §401(12)\], made technical amendment to reference in original act which appears in text as reference to section 5122 of title 42.
 
 Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII\], added subsec. (e).
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 2011 Amendment
 

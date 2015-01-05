@@ -14,7 +14,7 @@ The Secretary shall make grants to State educational agencies, local educational
 
 &emsp;(3) to support a major research and development program to develop more innovative and effective techniques for achieving literacy and secondary school equivalency for Indians;
 
-&emsp;(4) to provide for basic surveys and evaluations to define accurately the extent of the problems of illiteracy and lack of secondary school completion among Indians; and
+&emsp;(4) to provide for basic surveys and evaluations to define accurately the extent of theproblems of illiteracy and lack of secondary school completion among Indians; and
 
 &emsp;(5) to encourage the dissemination of information and materials relating to, and the evaluation of, the effectiveness of education programs that may offer educational opportunities to Indian adults.
 

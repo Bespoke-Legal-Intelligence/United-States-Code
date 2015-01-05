@@ -14,7 +14,7 @@ As between eligible applicants seeking assistance under sections 1471 to 1474, i
 
 #### Period of Service in Military Forces
 
-Proc. No. 3080, Jan. 5, 1955, 20 F.R. 173, fixed Jan. 31, 1955, as the date ending the period during which persons must have served in the military forces in order that such persons come within the meaning of the terms"veteran" and "deceased servicemen", contained in this section, by reason of service during the period beginning June 27, 1950.
+Proc. No. 3080, Jan. 5, 1955, 20 F.R. 173, fixed Jan. 31, 1955, as the date ending the period during which persons must have served in the military forces in order that such persons come within the meaning of the terms "veteran" and "deceased servicemen", contained in this section, by reason of service during the period beginning June 27, 1950.
 
 #### Continuation of Provisions
 

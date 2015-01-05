@@ -102,7 +102,7 @@ In general.—Not later than February 1, 2008, the Secretary of Defense shall su
 
 Elements.—The report shall include the following:
 
-&emsp;&emsp;"(A) A description of the pilot program, including the number of members of the Army who participated in the pilot program and the contributions made by the Army to the Thrift Savings Fund on behalf of such members during the period of the pilot program.
+&emsp;&emsp;"(A) A description of the pilot program, including the number of members of the Army who participated in the pilot program and the contributionsmade by the Army to the Thrift Savings Fund on behalf of such members during the period of the pilot program.
 
 &emsp;&emsp;"(B) An assessment, based on the pilot program and taking into account the views of officers and senior enlisted personnel of the Army, and of field recruiters, of the extent to which contributions by the military departments to the Thrift Savings Fund on behalf of members of the Armed Forces similar to the participants in the pilot program—
 

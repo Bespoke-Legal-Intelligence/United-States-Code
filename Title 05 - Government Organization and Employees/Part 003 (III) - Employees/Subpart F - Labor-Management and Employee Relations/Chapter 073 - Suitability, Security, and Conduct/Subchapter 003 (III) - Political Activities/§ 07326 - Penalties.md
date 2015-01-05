@@ -20,15 +20,15 @@ Section effective 30 days after Dec. 28, 2012, see section 5(a) of Pub. L. 112�
 
 Pub. L. 112–230, §5(b), Dec. 28, 2012, 126 Stat. 1617, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendment made by section 4 \[enacting this section and repealing former section 7326 of this title\] shall apply with respect to any violation occurring before, on, or after the effective date of this Act \[see above\].
 
-“(2)
+"(2)
 
 Exception.—The amendment made by section 4 shall not apply with respect to an alleged violation if, before the effective date of this Act—
 
-&emsp;“(A) the Special Counsel has presented a complaint for disciplinary action, under section 1215 of title 5, United States Code, with respect to the alleged violation; or
+&emsp;"(A) the Special Counsel has presented a complaint for disciplinary action, under section 1215 of title 5, United States Code, with respect to the alleged violation; or
 
-&emsp;“(B) the employee alleged to have committed the violation has entered into a signed settlement agreement with the Special Counsel with respect to the alleged violation.”
+&emsp;"(B) the employee alleged to have committed the violation has entered into a signed settlement agreement with the Special Counsel with respect to the alleged violation."
 

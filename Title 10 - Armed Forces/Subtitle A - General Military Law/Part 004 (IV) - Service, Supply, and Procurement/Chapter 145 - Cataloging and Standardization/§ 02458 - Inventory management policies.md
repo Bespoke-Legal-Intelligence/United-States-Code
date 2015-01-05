@@ -24,6 +24,18 @@ Personnel Evaluations.—The Secretary of Defense shall establish procedures to 
 
 Secretary of Defense to establish uniform system of valuation described in subsec. (a)(3) of this section not later than 180 days after Dec. 5, 1991, see section 347(c) of Pub. L. 102–190, set out as a note under section 2721 of this title.
 
+#### Management of Conventional Ammunition Inventory
+
+Pub. L. 113–291, div. A, title III, §352(a), (b), Dec. 19, 2014, 128 Stat. 3347, provided that:
+
+"(a)
+
+Consolidation of Data.—Not later than 240 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue Department-wide guidance designating an authoritative source of data for conventional ammunition. Not later than 10 days after issuing the guidance required by this subsection, the Under Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on what source of data has been designated under this subsection.
+
+"(b)
+
+Annual Report.—The Secretary of the Army shall include in the appropriate annual ammunition inventory reports, as determined by the Secretary, information on all available ammunition for use during the redistribution process, including any ammunition that was unclaimed and categorized for disposal by another military service during a year before the year during which the report is submitted."
+
 #### Improvement of Inventory Management Practices
 
 Pub. L. 111–84, div. A, title III, §328, Oct. 28, 2009, 123 Stat. 2255, provided that:
@@ -86,7 +98,7 @@ Pub. L. 105–261, div. A, title III, §347, Oct. 17, 1998, 112 Stat. 1980, prov
 
 "(a)
 
-Development and Submission of Schedule.—Not later than 180 days after the date of the enactmentof this Act \[Oct. 17, 1998\], the Secretary of each military department shall submit to Congress a schedule for implementing within the military department, for secondary supply items managed by that military department, inventory practices identified by the Secretary as being the best commercial inventory practices for the acquisition and distribution of such supply items consistent with military requirements. The schedule shall provide for the implementation of such practices to be completed not later than five years after the date of the enactment of this Act.
+Development and Submission of Schedule.—Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Secretary of each military department shall submit to Congress a schedule for implementing within the military department, for secondary supply items managed by that military department, inventory practices identified by the Secretary as being the best commercial inventory practices for the acquisition and distribution of such supply items consistent with military requirements. The schedule shall provide for the implementation of such practices to be completed not later than five years after the date of the enactment of this Act.
 
 "(b)
 

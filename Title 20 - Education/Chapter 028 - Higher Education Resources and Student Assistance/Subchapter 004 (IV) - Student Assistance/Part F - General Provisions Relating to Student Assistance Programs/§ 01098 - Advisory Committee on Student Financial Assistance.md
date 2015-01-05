@@ -136,7 +136,7 @@ The Advisory Committee shall—
 
 #### (k) Term of Committee
 
-Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2014.
+Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2015.
 
 #### (l) Review and analysis of regulations
 
@@ -238,7 +238,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 &emsp;&emsp;The Advisory Committee shall, not later than three years after August 14, 2008, prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
 
-(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953.)
+(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953; Pub. L. 113–174, §2, Sept. 26, 2014, 128 Stat. 1900.)
 
 #### References in Text
 
@@ -255,6 +255,8 @@ A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–3
 Another prior section 491 of Pub. L. 89–329 amended former section 403 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (k). Pub. L. 113–174 substituted "2015" for "2014".
 
 <b>2009</b>—Subsec. (l)(2)(A). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to August 14, 2008.
 
@@ -280,7 +282,7 @@ Subsec. (j)(4), (5). Pub. L. 110–315, §494C(a)(5)(B), added pars. (4) and (5)
 
 "(4) assess the implications of distance education on student eligibility and other requirements for financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, and make recommendations that will enhance access to postsecondary education through distance education while maintaining access, through on-campus instruction at eligible institutions, and program integrity; and
 
-"(5) make recommendations to the Secretary regarding redundant or outdated provisions of and regulations under this chapter, consistent with the Secretary's requirements under section 1099c–2 of this title."
+"(5) make recommendations to the Secretary regarding redundant or outdated provisions of and regulationsunder this chapter, consistent with the Secretary's requirements under section 1099c–2 of this title."
 
 Subsec. (k). Pub. L. 110–315, §494C(a)(6), substituted "2014" for "2004".
 

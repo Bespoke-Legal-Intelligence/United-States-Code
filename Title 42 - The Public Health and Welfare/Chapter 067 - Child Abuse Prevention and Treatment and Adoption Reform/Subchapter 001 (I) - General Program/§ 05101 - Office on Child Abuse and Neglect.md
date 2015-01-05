@@ -24,7 +24,7 @@ Subsec. (b)(5). Pub. L. 99–401, §103(a)(3), added par. (5). Former par. (5) r
 
 Subsec. (b)(6). Pub. L. 99–401, §103(a)(1), redesignated former par. (4) as (6). Former par. (6) redesignated (8).
 
-Subsec. (b)(7). Pub. L. 99–401, §103(a)(1), (4), redesignated former par. (5) as (7) and amended it generally, substituting "conduct research on the causes, prevention, identification, and treatment of child abuse and neglect, and on appropriate and effective investigative, administrative, and judicial procedures in cases of child abuse" for "conduct research into the causes ofchild abuse and neglect, and into the prevention, identification, and treatment thereof". Former par. (7) redesignated (9).
+Subsec. (b)(7). Pub. L. 99–401, §103(a)(1), (4), redesignated former par. (5) as (7) and amended it generally, substituting "conduct research on the causes, prevention, identification, and treatment of child abuse and neglect, and on appropriate and effective investigative, administrative, and judicial procedures in cases of child abuse" for "conduct research into the causes of child abuse and neglect, and into the prevention, identification, and treatment thereof". Former par. (7) redesignated (9).
 
 Subsec. (b)(8), (9). Pub. L. 99–401, §103(a)(1), redesignated former pars. (6) and (7) as (8) and (9), respectively.
 
@@ -36,7 +36,7 @@ Subsec. (b)(6). Pub. L. 98–457, §101(b), amended par. (6) generally. Prior to
 
 Subsec. (b)(7). Pub. L. 98–457, §101(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "in consultation with Federal agencies serving on the Advisory Board on Child Abuse and Neglect (established by section 5105 of this title), prepare a comprehensive plan for seeking to bring about maximum coordination of the goals, objectives, and activities of all agencies and organizations which have responsibilities for programs and activities related to child abuse and neglect, and submit such plan to such Advisory Board not later than twelve months after April 24, 1978."
 
-Subsec. (c). Pub. L. 98–457, §101(c), substituted "The functions of the Secretary under subsection (b) of this section may be carried out" for "The Secretary may carry out his functions under subsection (b) of this section".
+Subsec. (c). Pub. L. 98–457, §101(c), substituted "The functions of the Secretary under subsection (b) of this section may be carried out" for "The Secretary maycarry out his functions under subsection (b) of this section".
 
 Subsec. (e). Pub. L. 98–457, §101(d), added subsec. (e).
 
@@ -94,7 +94,7 @@ Pub. L. 100–294, §1, Apr. 25, 1988, 102 Stat. 102, provided that: "This Act \
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–401, §1, Aug. 27, 1986, 100 Stat. 903, provided that: "This Act \[enacting subchapter IV of this chapter and section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section and section 5117 of this title\] may becited as the 'Children's Justice and Assistance Act of 1986'."
+Pub. L. 99–401, §1, Aug. 27, 1986, 100 Stat. 903, provided that: "This Act \[enacting subchapter IV of this chapter and section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section and section 5117 of this title\] may be cited as the 'Children's Justice and Assistance Act of 1986'."
 
 Pub. L. 99–401, title I, §101, Aug. 27, 1986, 100 Stat. 903, provided that: "This title \[enacting section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Children's Justice Act'."
 

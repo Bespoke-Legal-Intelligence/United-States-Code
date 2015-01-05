@@ -168,13 +168,13 @@ Pub. L. 89–614 substituted "1087" for "1085" in introductory phrase.
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title VII, §702(b), Nov. 30, 1993, 107 Stat. 1686, provided that: "Section 1072(2)(I) of title 10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994."
+Pub. L. 103–160, div. A, title VII, §702(b), Nov. 30, 1993, 107 Stat. 1686, provided that: "Section 1072(2)(I) of title10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994."
 
 #### Effective Date of 1989 Amendment
 
 Pub. L. 101–189, div. A, title VII, §731(d), Nov. 29, 1989, 103 Stat. 1482, provided that:
 
-"(1) The amendments made by this section \[enacting section 1086a of this title and amending this sectionand sections 1076 and 1086 of this title\] apply to a person referred to in section 1072(2)(H) of title 10, United States Code (as added by subsection (a)), whose decree of divorce, dissolution, or annulment becomes final on or after the date of the enactment of this Act \[Nov. 29, 1989\].
+"(1) The amendments made by this section \[enacting section 1086a of this title and amending this section and sections 1076 and 1086 of this title\] apply to a person referred to in section 1072(2)(H) of title 10, United States Code (as added by subsection (a)), whose decree of divorce, dissolution, or annulment becomes final on or after the date of the enactment of this Act \[Nov. 29, 1989\].
 
 "(2) The amendments made by this section shall also apply to a person referred to in such section whose decree of divorce, dissolution, or annulment became final during the period beginning on September 29, 1988, and ending on the day before the date of the enactment of this Act, as if the amendments had become effective on September 29, 1988."
 

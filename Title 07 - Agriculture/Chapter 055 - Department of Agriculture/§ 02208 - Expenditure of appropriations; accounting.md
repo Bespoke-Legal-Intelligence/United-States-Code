@@ -54,7 +54,7 @@ Sense of Congress; Requirement Regarding Notice.—
 
 &emsp;"(1)
 
-Purchase of american-made equipment and products.—In the case of any equipment or product that may be authorized to be purchased with financial assistance provided using funds made available in this Act, it is the sense of the Congress that entities receiving the assistance should, in expending the assistance, purchase only American-made equipment and products.
+Purchase of american-made equipment and products.—In the case of any equipment or productthat may be authorized to be purchased with financial assistance provided using funds made available in this Act, it is the sense of the Congress that entities receiving the assistance should, in expending the assistance, purchase only American-made equipment and products.
 
 &emsp;"(2)
 

@@ -50,7 +50,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 #### (g) Working Group on United States Government-Sponsored International Exchanges and Training
 
-(1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the "Working Group").
+(1) In order to carry out the purposes of subsection (f) and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the "Working Group").
 
 (2) For purposes of this subsection, the term "Government-sponsored international exchanges and training" means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
 
@@ -106,7 +106,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original "this Act", meaning Pub. L.87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
@@ -174,7 +174,7 @@ Section 1. There is hereby established within the United States Information Agen
 
 Sec. 2. The term "Government-sponsored international exchanges and training" shall mean the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
 
-Sec. 3. The Working Group shall consist of the Associate Director for Educational and Cultural Affairs of the United States Information Agency, who shall act as Chair, and a comparable senior representative appointed by the respective Secretary of each of the Departments of State, Defense, Education, and the Attorney General, by the Administrator of the United States Agency for International Development, and by heads of other interested executive departments and agencies. In addition, representatives of the National Security Council and the Director of the Office of Management and Budget shall participate in the Working Group at their discretion. The Working Group shall be supported by an interagency staff office established in the Bureau of Education and Cultural Affairs of the United States Information Agency.
+Sec. 3. The Working Group shall consist of the Associate Director for Educational and Cultural Affairs of the United States Information Agency, who shall act as Chair, and a comparable senior representative appointed by the respective Secretary of each of the Departments of State, Defense, Education, and the Attorney General, by the Administrator of the United States Agency for International Development, and by heads of other interested executive departments and agencies. In addition, representatives of the National Security Council and the Director of the Office of Management and Budget shall participate in the Working Group at their discretion. The Working Group shall be supported by an interagency staff office established in the Bureauof Education and Cultural Affairs of the United States Information Agency.
 
 Sec. 4. The Working Group shall have the following responsibilities:
 

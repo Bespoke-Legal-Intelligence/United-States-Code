@@ -4,11 +4,11 @@ In this chapter:
 
 #### (1) Alien
 
-&emsp;The term “alien” has the meaning given the term in section 1101(a)(3) of this title.
+&emsp;The term "alien" has the meaning given the term in section 1101(a)(3) of this title.
 
 #### (2) Appropriate committees of Congress
 
-&emsp;The term “appropriate committees of Congress” means the following:
+&emsp;The term "appropriate committees of Congress" means the following:
 
 &emsp;&emsp;(A) The Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate.
 
@@ -16,11 +16,11 @@ In this chapter:
 
 #### (3) Chimera system
 
-&emsp;The term “Chimera system” means the interoperable electronic data system required to be developed and implemented by section 1722(a)(2) of this title.
+&emsp;The term "Chimera system" means the interoperable electronic data system required to be developed and implemented by section 1722(a)(2) of this title.
 
 #### (4) Federal law enforcement agencies
 
-&emsp;The term “Federal law enforcement agencies” means the following:
+&emsp;The term "Federal law enforcement agencies" means the following:
 
 &emsp;&emsp;(A) The United States Secret Service.
 
@@ -48,29 +48,29 @@ In this chapter:
 
 #### (5) Intelligence community
 
-&emsp;The term “intelligence community” has the meaning given that term in section 3003(4) of title 50.
+&emsp;The term "intelligence community" has the meaning given that term in section 3003(4) of title 50.
 
 #### (6) President
 
-&emsp;The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of Customs, and the Secretary of the Treasury.
+&emsp;The term "President" means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of Customs, and the Secretary of the Treasury.
 
 #### (7) USA PATRIOT Act
 
-&emsp;The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
+&emsp;The term "USA PATRIOT Act" means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
 
 (Pub. L. 107–173, §2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, §1112(c), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–293, title VI, §619, Aug. 9, 2004, 118 Stat. 1062.)
 
 #### References in Text
 
-This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 107–173, May 14, 2002, 116 Stat. 543, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in introductory provisions, was in the original "this Act", meaning Pub. L. 107–173, May 14, 2002, 116 Stat. 543, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in par. (7), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 
-<b>2004</b>—Par. (4)(G). Pub. L. 108–293 substituted “The Coast Guard” for “The Coastal Security Service”.
+<b>2004</b>—Par. (4)(G). Pub. L. 108–293 substituted "The Coast Guard" for "The Coastal Security Service".
 
-<b>2002</b>—Par. (4)(J). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
+<b>2002</b>—Par. (4)(J). Pub. L. 107–296 substituted "Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice" for "Bureau of Alcohol, Tobacco, and Firearms".
 
 #### Change of Name
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Short Title
 
-Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
+Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: "This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notesunder sections 1101, 1351, and 1365a of this title\] may be cited as the 'Enhanced Border Security and Visa Entry Reform Act of 2002'."
 
 #### Transfer of Functions
 
@@ -100,63 +100,63 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Pub. L. 109–367, §2, Oct. 26, 2006, 120 Stat. 2638, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 18 months after the date of the enactment of this Act \[Oct. 26, 2006\], the Secretary of Homeland Security shall take all actions the Secretary determines necessary and appropriate to achieve and maintain operational control over the entire international land and maritime borders of the United States, to include the following—
 
-&emsp;“(1) systematic surveillance of the international land and maritime borders of the United Statesthrough more effective use of personnel and technology, such as unmanned aerial vehicles, ground-based sensors, satellites, radar coverage, and cameras; and
+&emsp;"(1) systematic surveillance of the international land and maritime borders of the United States through more effective use of personnel and technology, such as unmanned aerial vehicles, ground-based sensors, satellites, radar coverage, and cameras; and
 
-&emsp;“(2) physical infrastructure enhancements to prevent unlawful entry by aliens into the United States and facilitate access to the international land and maritime borders by United States Customs and Border Protection, such as additional checkpoints, all weather access roads, and vehicle barriers.
+&emsp;"(2) physical infrastructure enhancements to prevent unlawful entry by aliens into the United States and facilitate access to the international land and maritime borders by United States Customs and Border Protection, such as additional checkpoints, all weather access roads, and vehicle barriers.
 
-“(b)
+"(b)
 
-Operational Control Defined.—In this section, the term ‘operational control’ means the prevention of all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband.
+Operational Control Defined.—In this section, the term 'operational control' means the prevention of all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband.
 
-“(c)
+"(c)
 
-Report.—Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary shall submit to Congress a report on the progress made toward achieving and maintaining operational control over the entire international land and maritime borders of the United States in accordance with this section.”
+Report.—Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary shall submit to Congress a report on the progress made toward achieving and maintaining operational control over the entire international land and maritime borders of the United States in accordance with this section."
 
 #### Border Surveillance
 
 Pub. L. 108–458, title V, §5201, Dec. 17, 2004, 118 Stat. 3733, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 6 months after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall submit to the President and the appropriate committees of Congress a comprehensive plan for the systematic surveillance of the southwest border of the United States by remotely piloted aircraft.
 
-“(b)
+"(b)
 
 Contents.—The plan submitted under subsection (a) shall include—
 
-&emsp;“(1) recommendations for establishing command and control centers, operations sites, infrastructure, maintenance, and procurement;
+&emsp;"(1) recommendations for establishing command and control centers, operations sites, infrastructure, maintenance, and procurement;
 
-&emsp;“(2) cost estimates for the implementation of the plan and ongoing operations;
+&emsp;"(2) cost estimates for the implementation of the plan and ongoing operations;
 
-&emsp;“(3) recommendations for the appropriate agent within the Department of Homeland Security to be the executive agency for remotely piloted aircraft operations;
+&emsp;"(3) recommendations for the appropriate agent within the Department of Homeland Security to be the executive agency for remotely piloted aircraft operations;
 
-&emsp;“(4) the number of remotely piloted aircraft required for the plan;
+&emsp;"(4) the number of remotely piloted aircraft required for the plan;
 
-&emsp;“(5) the types of missions the plan would undertake, including—
+&emsp;"(5) the types of missions the plan would undertake, including—
 
-&emsp;&emsp;“(A) protecting the lives of people seeking illegal entry into the United States;
+&emsp;&emsp;"(A) protecting the lives of people seeking illegal entry into the United States;
 
-&emsp;&emsp;“(B) interdicting illegal movement of people, weapons, and other contraband across the border;
+&emsp;&emsp;"(B) interdicting illegal movement of people, weapons, and other contraband across the border;
 
-&emsp;&emsp;“(C) providing investigative support to assist in the dismantling of smuggling and criminal networks along the border;
+&emsp;&emsp;"(C) providing investigative support to assist in the dismantling of smuggling and criminal networks along the border;
 
-&emsp;&emsp;“(D) using remotely piloted aircraft to serve as platforms for the collection of intelligence against smugglers and criminal networks along the border; and
+&emsp;&emsp;"(D) using remotely piloted aircraft to serve as platforms for the collection of intelligence against smugglers and criminal networks along the border; and
 
-&emsp;&emsp;“(E) further validating and testing of remotely piloted aircraft for airspace security missions;
+&emsp;&emsp;"(E) further validating and testing of remotely piloted aircraft for airspace security missions;
 
-&emsp;“(6) the equipment necessary to carry out the plan; and
+&emsp;"(6) the equipment necessary to carry out the plan; and
 
-&emsp;“(7) a recommendation regarding whether to expand the pilot program along the entire southwest border.
+&emsp;"(7) a recommendation regarding whether to expand the pilot program along the entire southwest border.
 
-“(c)
+"(c)
 
 Implementation.—The Secretary of Homeland Security shall implement the plan submitted under subsection (a) as a pilot program as soon as sufficient funds are appropriated and available for this purpose.
 
-“(d)
+"(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section."
 

@@ -46,7 +46,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(B) A procedure through which a person may choose to submit the single registration form to the agency administering the section 351A program (in the manner provided under such program), or to the agency administering the section 212 program (in the manner provided under such program).
 
-&emsp;&emsp;(C) A procedure through which a copy of a single registration form received pursuant to subparagraph (B) by the agency administering one of such programs is promptlyprovided to the agency administering the other program.
+&emsp;&emsp;(C) A procedure through which a copy of a single registration form received pursuant to subparagraph (B) by the agency administering one of such programs is promptly provided to the agency administering the other program.
 
 &emsp;&emsp;(D) A procedure through which the agency receiving the single registration form under one of such programs obtains the concurrence of the agency administering the other program that the requirements for registration under the other program have been met.
 
@@ -76,7 +76,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 #### (d) Joint regulations
 
-Not later than 18 months after the date on which the single system of registration under subsection (c)(2) of this section is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.
+Not later than 18 months after the date on which the single system of registration under subsection (c)(2) is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.
 
 (Pub. L. 107–188, title II, §221, June 12, 2002, 116 Stat. 657.)
 

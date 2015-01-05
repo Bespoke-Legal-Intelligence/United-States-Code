@@ -18,7 +18,7 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;(A) an All-Hazards Public Health Emergency Preparedness and Response Plan which shall include—
 
-&emsp;&emsp;&emsp;(i) a description of the activities such entity will carry out under the agreement tomeet the goals identified under section 300hh–1 of this title, including with respect to chemical, biological, radiological, or nuclear threats, whether naturally occurring, unintentional, or deliberate;
+&emsp;&emsp;&emsp;(i) a description of the activities such entity will carry out under the agreement to meet the goals identified under section 300hh–1 of this title, including with respect to chemical, biological, radiological, or nuclear threats, whether naturally occurring, unintentional, or deliberate;
 
 &emsp;&emsp;&emsp;(ii) a description of the activities such entity will carry out with respect to pandemic influenza, as a component of the activities carried out under clause (i), and consistent with the requirements of paragraphs (2) and (5) of subsection (g);
 
@@ -32,7 +32,7 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;&emsp;(vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801(41) of title 20) and State child care lead agencies (designated under section 9858b of this title);
 
-&emsp;&emsp;&emsp;(viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and
+&emsp;&emsp;&emsp;(viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry outunder the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and
 
 &emsp;&emsp;&emsp;(ix) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
 
@@ -194,7 +194,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 &emsp;&emsp;After determining the base amount for a State under subparagraph (B), the Secretary shall increase the base amount by an amount equal to the product of—
 
-&emsp;&emsp;&emsp;(i) the amount appropriated under paragraph (1)(A) for the fiscal year, less an amount equal to the sum of all baseamounts determined for the States under subparagraph (B), and less the amount, if any, reserved by the Secretary under paragraphs (4) and (5); and
+&emsp;&emsp;&emsp;(i) the amount appropriated under paragraph (1)(A) for the fiscal year, less an amount equal to the sum of all base amounts determined for the States under subparagraph (B), and less the amount, if any, reserved by the Secretary under paragraphs (4) and (5); and
 
 &emsp;&emsp;&emsp;(ii) subject to paragraph (4)(C), the percentage constituted by the ratio of an amount equal to the population of the State over an amount equal to the total population of the States (as indicated by the most recent data collected by the Bureau of the Census).
 
@@ -258,7 +258,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (B) Funds contingent on achieving benchmarks
 
-&emsp;&emsp;The continued availability of funds under subparagraph (A) with respect to an entityshall be contingent upon such entity achieving the benchmarks and submitting the pandemic influenza plan as described in subsection (g).
+&emsp;&emsp;The continued availability of funds under subparagraph (A) with respect to an entity shall be contingent upon such entity achieving the benchmarks and submitting the pandemic influenza plan as described in subsection (g).
 
 #### (i) Administrative and fiscal responsibility
 
@@ -322,7 +322,7 @@ Subsec. (f)(2) to (4). Pub. L. 113–5, §202(a)(3), inserted "and" at end of pa
 
 Subsec. (g)(1)(A). Pub. L. 113–5, §202(a)(4)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "include outcome goals representing operational achievement of the National Preparedness Goals developed under section 300hh–1(b) of this title; and".
 
-Subsec. (g)(2)(A). Pub. L. 113–5, §202(a)(4)(B), inserted at end "The Secretary shall periodically update, asnecessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1)."
+Subsec. (g)(2)(A). Pub. L. 113–5, §202(a)(4)(B), inserted at end "The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1)."
 
 Subsec. (h). Pub. L. 113–5, §202(a)(5), (6), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to grants for real-time disease detection improvement.
 

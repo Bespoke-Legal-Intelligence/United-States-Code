@@ -1,6 +1,6 @@
 ### §3513b. Working capital fund; availability for common personnel support services
 
-The Working Capital Fund of the Department of Health and Human Services shall on and after August 10, 1971, be available for expenses necessary for common personnel support services in the Washington area.
+The Working Capital Fund of the Department of Health and Human Services shall on and afterAugust 10, 1971, be available for expenses necessary for common personnel support services in the Washington area.
 
 (Pub. L. 92–80, title II, Aug. 10, 1971, 85 Stat. 297; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

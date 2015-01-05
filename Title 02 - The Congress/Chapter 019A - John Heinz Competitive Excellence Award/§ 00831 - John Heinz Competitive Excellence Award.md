@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the John Heinz Competitive Excellence Award, which shall be evidenced by a national medal bearing the inscription “John Heinz Competitive ExcellenceAward”. The medal, to be minted by the United States Mint and provided to the Congress, shall be of such design and bear such additional inscriptions as the Secretary of the Treasury may prescribe, in consultation with the Majority and Minority Leaders of the Senate, the Speaker and the Minority Leader of the House of Representatives, and the family of Senator John Heinz. The medal shall be—
+There is hereby established the John Heinz Competitive Excellence Award, which shall be evidenced by a national medal bearing the inscription "John Heinz Competitive Excellence Award". The medal, to be minted by the United States Mint and provided to the Congress, shall be of such design and bear such additional inscriptions as the Secretary of the Treasury may prescribe, in consultation with the Majority and Minority Leaders of the Senate, the Speaker and the Minority Leader of the House of Representatives, and the family of Senator John Heinz. The medal shall be—
 
 &emsp;(1) three inches in diameter; and
 
@@ -16,7 +16,7 @@ There is hereby established the John Heinz Competitive Excellence Award, which s
 
 #### (2) Limitation
 
-&emsp;No award shall be made under this section to an entity in either category described in paragraph (1) in any year if there is no qualified individual, organization, institution, or business recommended under subsection (c) of this section for an award in such category in that year.
+&emsp;No award shall be made under this section to an entity in either category described in paragraph (1) in any year if there is no qualified individual, organization, institution, or business recommended under subsection (c) for an award in such category in that year.
 
 #### (c) Qualification criteria for award
 
@@ -48,7 +48,7 @@ There is hereby established the John Heinz Competitive Excellence Award, which s
 
 #### (4) Panel review
 
-&emsp;The selection panel shall review the Office of Technology Assessment's evaluation of each nominee and may, based on those evaluations, recommend 1 award winner for each year for each category described in subsection (b)(1) of this section to the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives.
+&emsp;The selection panel shall review the Office of Technology Assessment's evaluation of each nominee and may, based on those evaluations, recommend 1 award winner for each year for each category described in subsection (b)(1) to the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives.
 
 #### (d) Presentation of award
 
@@ -68,7 +68,7 @@ There is hereby established the John Heinz Competitive Excellence Award, which s
 
 #### (1) Summary of evaluations
 
-&emsp;The Office of Technology Assessment shall ensure that all nominees receive a detailed summary of any evaluation conducted of such nominee under subsection (c) of this section.
+&emsp;The Office of Technology Assessment shall ensure that all nominees receive a detailed summary of any evaluation conducted of such nominee under subsection (c).
 
 #### (2) Summary of competitiveness strategy
 

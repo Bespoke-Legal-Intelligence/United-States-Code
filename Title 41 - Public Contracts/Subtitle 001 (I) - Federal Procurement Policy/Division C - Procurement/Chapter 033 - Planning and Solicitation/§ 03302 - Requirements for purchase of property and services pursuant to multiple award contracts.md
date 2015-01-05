@@ -18,7 +18,7 @@ Multiple award contract.—The term "multiple award contract" means—
 
 &emsp;&emsp;(A) a contract that is entered into by the Administrator of General Services under the multiple award schedule program referred to in section 2302(2)(C) of title 10;
 
-&emsp;&emsp;(B) a multiple award task order contract that is entered into under the authority of sections 2304a to 2304d of title 10, or chapter 41 of this title; and
+&emsp;&emsp;(B) a multiple award task order contract that is entered into under the authority ofsections 2304a to 2304d of title 10, or chapter 41 of this title; and
 
 &emsp;&emsp;(C) any other indefinite delivery, indefinite quantity contract that is entered into by the head of an executive agency with 2 or more sources pursuant to the same solicitation.
 
@@ -94,7 +94,7 @@ Applicability.—The regulations required by subsection (b) shall apply to all i
 
 #### Amendment Not Shown in Text
 
-<i>This section was derived from Pub. L. 110–417, \[div. A\], title VIII, §863(a)–(e), Oct. 14, 2008, 122 Stat. 4547, which was set out as a note under section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 863(b)(3)(A) of Pub. L. 110–417 was restated as subsec. (c)(3)(A) of this section and subsequently amended by Pub. L. 111–383, div. A, title X, §1075(e)(14), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 863(b)(3)(A) of Pub. L. 110–417 was amended by striking "subsection (d)(2)(A)" and</i><i>inserting "subsection (d)(3)(A)". Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.</i>
+<i>This section was derived from Pub. L. 110–417, \[div. A\], title VIII, §863(a)–(e), Oct. 14, 2008, 122 Stat. 4547, which was set out as a note under section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 863(b)(3)(A) of Pub. L. 110–417 was restated as subsec. (c)(3)(A) of this section and subsequently amended by Pub. L. 111–383, div. A, title X, §1075(e)(14), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 863(b)(3)(A) of Pub. L. 110–417 was amended by striking "subsection (d)(2)(A)" and inserting "subsection (d)(3)(A)". Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.</i>
 
 Historical and Revision Notes
 

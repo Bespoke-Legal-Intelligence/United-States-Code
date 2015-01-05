@@ -32,7 +32,7 @@ For other provisions requiring States to account for Federal grants, see section
 
 A prior section 1397e, act Aug. 14, 1935, ch. 531, title XX, §2006, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2347, related to program evaluation and assistance, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
-A prior section 1397e–1, act Aug. 14, 1935, ch. 531, title XX, §2007, as added Jan. 2, 1980, Pub. L. 96–178, §4(b), 93 Stat. 1296, related to child day care services, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35. See section 1397f of this title.
+A prior section 1397e–1, act Aug. 14, 1935, ch. 531, title XX, §2007, as added Jan. 2, 1980, Pub. L. 96–178, §4(b), 93 Stat. 1296, related to child day care services, prior tothe general revision of this subchapter by section 2352(a) of Pub. L. 97–35. See section 1397f of this title.
 
 #### Amendments
 

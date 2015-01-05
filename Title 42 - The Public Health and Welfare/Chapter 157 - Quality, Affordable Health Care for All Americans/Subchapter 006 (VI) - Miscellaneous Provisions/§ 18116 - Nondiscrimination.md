@@ -16,7 +16,7 @@ The Secretary may promulgate regulations to implement this section.
 
 #### References in Text
 
-This title, referred to in subsecs. (a) and (b), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsecs. (a) and (b), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, whichenacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 The Civil Rights Act of 1964, referred to in subsecs. (a) and (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Titles VI and VII of the Act are classified generally to subchapters V (§2000d et seq.) and VI (§2000e et seq.), respectively, of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 

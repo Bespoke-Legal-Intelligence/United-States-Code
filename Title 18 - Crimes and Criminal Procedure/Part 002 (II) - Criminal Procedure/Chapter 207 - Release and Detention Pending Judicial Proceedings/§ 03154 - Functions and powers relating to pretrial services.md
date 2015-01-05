@@ -74,7 +74,7 @@ Length of Program.—The demonstration program shall begin not later than Januar
 
 "(c)
 
-Selection of Districts.—The Judicial Conference of the United States shall select 8 Federal judicial districts in which to carry out the demonstration program, so that the group selected represents a mix ofdistricts on the basis of criminal caseload and the types of cases in that caseload.
+Selection of Districts.—The Judicial Conference of the United States shall select 8 Federal judicial districts in which to carry out the demonstration program, so that the group selected represents a mix of districts on the basis of criminal caseload and the types of cases in that caseload.
 
 "(d)
 

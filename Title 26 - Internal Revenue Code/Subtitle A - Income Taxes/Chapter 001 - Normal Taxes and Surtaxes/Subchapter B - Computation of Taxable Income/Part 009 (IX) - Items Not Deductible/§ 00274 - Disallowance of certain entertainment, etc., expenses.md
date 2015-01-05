@@ -8,7 +8,7 @@
 
 #### (A) Activity
 
-&emsp;&emsp;With respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, unless the taxpayer establishes that the item was directly related to, or, in the case of an item directly preceding or following a substantial and bona fide business discussion (including business meetings at a conventionor otherwise), that such item was associated with, the active conduct of the taxpayer's trade or business, or
+&emsp;&emsp;With respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, unless the taxpayer establishes that the item was directly related to, or, in the case of an item directly preceding or following a substantial and bona fide business discussion (including business meetings at a convention or otherwise), that such item was associated with, the active conduct of the taxpayer's trade or business, or
 
 #### (B) Facility
 
@@ -62,7 +62,7 @@
 
 #### (3) Domestic travel excluded
 
-&emsp;For purposes of this subsection, travel outside the United States does not include any travel from one point in the United States to another point in the United States.
+&emsp;For purposes of this subsection, travel outside the United States does not include anytravel from one point in the United States to another point in the United States.
 
 #### (d) Substantiation required
 
@@ -90,7 +90,7 @@ Subsection (a) shall not apply to—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), expenses for goods, services, and facilities,to the extent that the expenses are treated by the taxpayer, with respect to the recipient of the entertainment, amusement, or recreation, as compensation to an employee on the taxpayer's return of tax under this chapter and as wages to such employee for purposes of chapter 24 (relating to withholding of income tax at source on wages).
+&emsp;&emsp;Except as provided in subparagraph (B), expenses for goods, services, and facilities, to the extent that the expenses are treated by the taxpayer, with respect to the recipient of the entertainment, amusement, or recreation, as compensation to an employee on the taxpayer's return of tax under this chapter and as wages to such employee for purposes of chapter 24 (relating to withholding of income tax at source on wages).
 
 #### (B) Specified individuals
 
@@ -154,7 +154,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (1) In general
 
-&emsp;In the case of any individual who attends a convention, seminar, or similar meeting which is held outside the North American area, no deduction shall be allowed under section 162 for expenses allocable to such meeting unlessthe taxpayer establishes that the meeting is directly related to the active conduct of his trade or business and that, after taking into account in the manner provided by regulations prescribed by the Secretary—
+&emsp;In the case of any individual who attends a convention, seminar, or similar meeting which is held outside the North American area, no deduction shall be allowed under section 162 for expenses allocable to such meeting unless the taxpayer establishes that the meeting is directly related to the active conduct of his trade or business and that, after taking into account in the manner provided by regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) the purpose of such meeting and the activities taking place at such meeting,
 
@@ -232,7 +232,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary is authorized to negotiate and conclude an agreement for the exchange of information with any beneficiary country. Except as provided inclause (ii), an exchange of information agreement shall provide for the exchange of such information (not limited to information concerning nationals or residents of the United States or the beneficiary country) as may be necessary or appropriate to carry out and enforce the tax laws of the United States and the beneficiary country (whether criminal or civil proceedings), including information which may otherwise be subject to nondisclosure provisions of the local law of the beneficiary country such as provisions respecting bank secrecy and bearer shares. The exchange of information agreement shall be terminable by either country on reasonable notice and shall provide that information received by either country will be disclosed only to persons or authorities (including courts and administrative bodies) involved in the administration or oversight of, or in the determination of appeals in respect of, taxes of the United States or the beneficiary country and will be used by such persons or authorities only for such purposes.
+&emsp;&emsp;&emsp;The Secretary is authorized to negotiate and conclude an agreement for the exchange of information with any beneficiary country. Except as provided in clause (ii), an exchange of information agreement shall provide for the exchange of such information (not limited to information concerning nationals or residents of the United States or the beneficiary country) as may be necessary or appropriate to carry out and enforce the tax laws of the United States and the beneficiary country (whether criminal or civil proceedings), including information which may otherwise be subject to nondisclosure provisions of the local law of the beneficiary country such as provisions respecting bank secrecy and bearer shares. The exchange of information agreement shall be terminable by either country on reasonable notice and shall provide that information received by either country will be disclosed only to persons or authorities (including courts and administrative bodies) involved in the administration or oversight of, or in the determination of appeals in respect of, taxes of the United States or the beneficiary country and will be used by such persons or authorities only for such purposes.
 
 #### (ii) Nondisclosure of qualified confidential information sought for civil tax purposes
 
@@ -304,7 +304,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "qualified plan award" means an employee achievement award awardedas part of an established written plan or program of the taxpayer which does not discriminate in favor of highly compensated employees (within the meaning of section 414(q)) as to eligibility or benefits.
+&emsp;&emsp;&emsp;The term "qualified plan award" means an employee achievement award awarded as part of an established written plan or program of the taxpayer which does not discriminate in favor of highly compensated employees (within the meaning of section 414(q)) as to eligibility or benefits.
 
 #### (ii) Limitation
 
@@ -442,53 +442,13 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 #### (3) Special rule for individuals subject to Federal hours of service
 
-#### (A) In general
-
-&emsp;&emsp;In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting "the applicable percentage" for "50 percent".
-
-#### (B) Applicable percentage
-
-&emsp;&emsp;For purposes of this paragraph, the term "applicable percentage" means the percentage determined under the following table:
-
-<b>For taxable years beginning</b>
-
-<b>The applicable</b>
-
-<b> in calendar year—</b>
-
-<b>percentage is—</b>
-
-&nbsp;&nbsp;1998 or 1999
-
-55&nbsp;&nbsp;
-
-&nbsp;&nbsp;2000 or 2001
-
-60&nbsp;&nbsp;
-
-&nbsp;&nbsp;2002 or 2003
-
-65&nbsp;&nbsp;
-
-&nbsp;&nbsp;2004 or 2005
-
-70&nbsp;&nbsp;
-
-&nbsp;&nbsp;2006 or 2007
-
-75&nbsp;&nbsp;
-
-&nbsp;&nbsp;2008 or thereafter
-
-80\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting "80 percent" for "50 percent".
 
 #### (o) Regulatory authority
 
 The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
 
-(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993,107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632.)
+(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II,§217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045.)
 
 #### References in Text
 
@@ -497,6 +457,8 @@ Section 16 of the Securities Exchange Act of 1934, referred to in subsec. (e)(2)
 Section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(6)(B), is classified to section 2702(a)(1)(A) of Title 19, Customs Duties.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (n)(3). Pub. L. 113–295 struck out subpar. (A) designation and heading, substituted "substituting '80 percent' for" for "substituting 'the applicable percentage' for", and struck out subpar. (B) which listed the applicable percentage for taxable years 1998 to 2008 or thereafter.
 
 <b>2005</b>—Subsec. (e)(2)(B)(ii). Pub. L. 109–135, §403(mm)(1), (2), inserted "or a related party to the taxpayer" after "with respect to the taxpayer" in subcl. (I), "(or such related party)" after "the taxpayer" in subcl. (II), and "For purposes of this clause, a person is a related party with respect to another person if such person bears a relationship to such other person described in section 267(b) or 707(b)." at end.
 
@@ -552,7 +514,7 @@ Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendme
 
 &emsp;"(ii) such item is a qualified plan award."
 
-Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining such term in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
+Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining suchterm in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
 
 Subsec. (e)(1). Pub. L. 99–514, §142(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1), business meals, which read as follows: "Expenses for food and beverages furnished to any individual under circumstances which (taking into account the surroundings in which furnished, the taxpayer's trade, business, or income-producing activity and the relationship to such trade, business, or activity of the persons to whom the food and beverages are furnished) are of a type generally considered to be conducive to a business discussion."
 
@@ -624,6 +586,10 @@ Subsec. (i). Pub. L. 94–455, §§602(a), 1906(b)(13)(A), redesignated former s
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–272 limited subsec. (c) to individuals traveling outside the United States.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
@@ -646,7 +612,7 @@ Pub. L. 103–66, title XIII, §13272(b), Aug. 10, 1993, 107 Stat. 542, provided
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7816(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendmentrelates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7816(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -708,7 +674,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title III, §361(c), Nov. 6, 1978, 92 Stat. 2847, provided that: "The amendments made by this section \[amending this section\] shall apply to items paid or incurred after December 31, 1978, in taxable years ending after such date."
+Pub. L. 95–600, title III, §361(c), Nov. 6, 1978, 92 Stat. 2847, provided that: "The amendments made by this section \[amending this section\] shall apply to itemspaid or incurred after December 31, 1978, in taxable years ending after such date."
 
 Pub. L. 95–600, title VII, §701(g)(4), Nov. 6, 1978, 92 Stat. 2904, provided that: "The amendments made by this subsection \[amending this section\] shall apply to conventions beginning after December 31, 1976."
 

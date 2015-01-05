@@ -4,15 +4,15 @@
 
 The Secretary shall administer the Unit in accordance with sections 430f–6 to 430f–12 of this title and the laws generally applicable to units of the National Park System, including—
 
-&emsp;(1) sections 1, 2, 3, and 4 of this title; and
+&emsp;(1) the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1 et seq.); <sup>1</sup> and
 
-&emsp;(2) sections 461 to 467 of this title.
+&emsp;(2) the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes", approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>1</sup>
 
 #### (b) Duties
 
 In accordance with section 430f–5 of this title, the Secretary shall—
 
-&emsp;(1) commemorate and interpret, for the benefit of visitors and the general public, the Siege and Battle of Corinth and other CivilWar actions in the area in and around the city of Corinth within the larger context of the Civil War and American history, including the significance of the Civil War Siege and Battle of Corinth in 1862 in relation to other operations in the western theater of the Civil War; and
+&emsp;(1) commemorate and interpret, for the benefit of visitors and the general public, the Siege and Battle of Corinth and other Civil War actions in the area in and around the city of Corinth within the larger context of the Civil War and American history, including the significance of the Civil War Siege and Battle of Corinth in 1862 in relation to other operations in the western theater of the Civil War; and
 
 &emsp;(2) identify and preserve surviving features from the Civil War era in the area in and around the city of Corinth, including both military and civilian themes that include—
 
@@ -55,4 +55,12 @@ In accordance with section 430f–5 of this title, the Secretary shall—
 Nothing in subsection (c)(2) of this section authorizes the Secretary to own or manage any resource outside the Unit.
 
 (Pub. L. 106–271, §6, Sept. 22, 2000, 114 Stat. 794.)
+
+#### References in Text
+
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1 et seq.), referred to in subsec. (a)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes", approved August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (a)(2), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

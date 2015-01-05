@@ -92,7 +92,7 @@ This chapter shall apply to all persons to the extent necessary to ensure compli
 
 #### (d) Discharges in special areas
 
-(1) Except as provided in paragraphs (2) and (3), not later than December 31, 2000, all surface ships owned or operated by the Department of the Navy, and not later than December 31, 2008, all submersibles owned or operated by the Department of the Navy, shall comply with the special area requirements of Regulation 5 of Annex V to the Convention.
+(1) Except as provided in paragraphs (2) and (3), not later than December 31, 2000, all surfaceships owned or operated by the Department of the Navy, and not later than December 31, 2008, all submersibles owned or operated by the Department of the Navy, shall comply with the special area requirements of Regulation 5 of Annex V to the Convention.
 
 (2)(A) Subject to subparagraph (B), any ship described in subparagraph (C) may discharge, without regard to the special area requirements of Regulation 5 of Annex V to the Convention, the following non-plastic, non-floating garbage:
 
@@ -112,7 +112,7 @@ This chapter shall apply to all persons to the extent necessary to ensure compli
 
 &emsp;(ii) cannot fully comply with the special area requirements of Regulation 5 of Annex V to the Convention because compliance is not technologically feasible or would impair the operations or operational capability of the ship.
 
-(3)(A) Not later than December 31, 2000, the Secretary of the Navy shall prescribe and publish in the Federal Register standards to ensure that each ship described in subparagraph (B) is, to the maximum extent practicable without impairing the operations or operational capabilities of the ship, operated in a manner that isconsistent with the special area requirements of Regulation 5 of Annex V to the Convention.
+(3)(A) Not later than December 31, 2000, the Secretary of the Navy shall prescribe and publish in the Federal Register standards to ensure that each ship described in subparagraph (B) is, to the maximum extent practicable without impairing the operations or operational capabilities of the ship, operated in a manner that is consistent with the special area requirements of Regulation 5 of Annex V to the Convention.
 
 (B) Subparagraph (A) applies to surface ships that are owned or operated by the Department of the Navy that the Secretary plans to decommission during the period beginning on January 1, 2001, and ending on December 31, 2005.
 
@@ -148,7 +148,7 @@ The President may waive the effective dates of the requirements set forth in sub
 
 #### (h) Noncommercial shipping standards
 
-The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
+The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable andpracticable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 
 #### (i) Savings clause
 

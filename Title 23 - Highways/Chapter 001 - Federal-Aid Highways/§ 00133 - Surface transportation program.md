@@ -154,7 +154,7 @@ Obligation Authority.—
 
 &emsp;(1)
 
-In general.—A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(3) <sup>2</sup> shall make available during the period of fiscal years 2011 through 2014 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
+In general.—A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(3) <sup>2</sup> shall make available during the period of fiscal years 2011through 2014 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
 
 &emsp;&emsp;(A) the aggregate amount of funds that the State is required to obligate in the area under subsection (d) during the period; and
 
@@ -300,7 +300,7 @@ Subsec. (b)(4). Pub. L. 105–178, §1108(a)(4), substituted "Highway and transi
 
 Subsec. (b)(9). Pub. L. 105–178, §1108(a)(5), substituted "section 108(f)(1)(A) (other than clause (xvi)) of the Clean Air Act (42 U.S.C. 7408(f)(1)(A))" for "section 108(f)(1)(A) (other than clauses (xii) and (xvi)) of the Clean Air Act".
 
-Subsec. (b)(11). Pub. L. 105–178, §1108(a)(6), in first sentence, inserted "natural habitat and" after "participation in" in two places and also before "wetlands conservation and mitigation plans" and substituted "enhance, and create natural habitats and wetlands" for "enhance and create wetlands" and inserted at end "With respect to participation in a natural habitat or wetland mitigation effort related to a project funded under this title that has an impact that occurs within the service area of a mitigation bank, preference shall be given, to the maximum extent practicable, to the use of the mitigation bank if the bank contains sufficient available credits to offset the impact and the bank is approved in accordance with the Federal Guidance for the Establishment, Use and Operation of Mitigation Banks (60 Fed. Reg. 58605 (November 28, 1995)) or other applicable Federal law (including regulations)."
+Subsec. (b)(11). Pub. L. 105–178, §1108(a)(6), in first sentence, inserted "natural habitat and" after "participation in" in two places and also before "wetlands conservation and mitigation plans" and substituted "enhance, and create natural habitats and wetlands" for "enhance and create wetlands" and inserted at end "With respect to participation in a natural habitat or wetland mitigation effort related to a project funded under this title that has an impact that occurs within the service area of a mitigation bank, preference shall be given, to the maximum extent practicable, to the use of the mitigation bank if the bank contains sufficient available credits to offset the impact and thebank is approved in accordance with the Federal Guidance for the Establishment, Use and Operation of Mitigation Banks (60 Fed. Reg. 58605 (November 28, 1995)) or other applicable Federal law (including regulations)."
 
 Subsec. (b)(13), (14). Pub. L. 105–178, §1108(a)(7), added pars. (13) and (14).
 

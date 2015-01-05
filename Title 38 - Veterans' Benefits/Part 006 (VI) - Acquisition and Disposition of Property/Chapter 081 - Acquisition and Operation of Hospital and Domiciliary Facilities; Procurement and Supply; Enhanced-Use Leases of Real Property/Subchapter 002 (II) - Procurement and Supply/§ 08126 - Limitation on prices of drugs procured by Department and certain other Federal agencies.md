@@ -26,7 +26,7 @@
 
 &emsp;(4) The Coast Guard.
 
-(c) With respect to any covered drug the price of which is determined in accordance with a pharmaceutical pricing agreement entered into pursuant to subsection (a)(2), beginning on or after January 1, 1993, the manufacturer shall provide a discount in an amount equal to the amount by which the change in non-Federal price exceeds the amount equal to—
+(c) With respect to any covered drug the price of which is determined in accordance with a pharmaceutical pricing agreement entered into pursuant to subsection (a)(2), beginning on orafter January 1, 1993, the manufacturer shall provide a discount in an amount equal to the amount by which the change in non-Federal price exceeds the amount equal to—
 
 &emsp;(1) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the last day of the month preceding the month during which the contract for the covered drug goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); multiplied by
 
@@ -70,7 +70,7 @@
 
 &emsp;(2) The term "covered drug" means—
 
-&emsp;&emsp;(A) a drug described in section 1927(k)(7)(A)(ii) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act;
+&emsp;&emsp;(A) a drug described in section 1927(k)(7)(A)(ii) of the Social Security Act,or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act;
 
 &emsp;&emsp;(B) a drug described in section 1927(k)(7)(A)(iv) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act; or
 
@@ -120,7 +120,7 @@
 
 The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to section 1396r–8 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A\(§201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Enactment of this section, referred to in subsec. (g)(2), means enactment of Pub. L. 102–585, which enacted this section and was approved Nov. 4, 1992.
 

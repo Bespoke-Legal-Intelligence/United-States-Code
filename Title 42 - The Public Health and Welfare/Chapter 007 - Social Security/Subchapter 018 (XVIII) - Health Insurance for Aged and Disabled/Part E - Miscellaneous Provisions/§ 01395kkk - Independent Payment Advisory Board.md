@@ -32,7 +32,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;Each proposal submitted under this section in a proposal year shall meet each of the following requirements:
 
-&emsp;&emsp;&emsp;(i) If the Chief Actuary of the Centers for Medicare \& Medicaid Services has made a determination under paragraph (7)(A) in the determination year, the proposal shall include recommendations so that the proposal as a whole (after taking into account recommendations under clause (v)) will result in a net reduction in total Medicare program spending in the implementation year that is at least equal to the applicable savings target established under paragraph (7)(B) for such implementation year. In determining whether a proposal meets the requirement of the preceding sentence, reductions in Medicare program spending during the 3-month period immediately preceding the implementation year shall be counted to the extent that such reductions are a result of the implementation of recommendations contained in the proposal for a change in the payment rate for an item or service that was effective during such period pursuant to subsection (e)(2)(A).
+&emsp;&emsp;&emsp;(i) If the Chief Actuary of the Centers for Medicare \& Medicaid Services has made a determination under paragraph (7)(A) in the determination year, the proposal shall include recommendations so that the proposal as a whole (after taking into account recommendations under clause (v)) will result in a net reduction in total Medicare program spending in the implementation year that is at least equal to the applicable savings target established under paragraph (7)(B) for such implementation year. In determining whether a proposal meets the requirement of the preceding sentence, reductions in Medicare program spending during the 3-month period immediatelypreceding the implementation year shall be counted to the extent that such reductions are a result of the implementation of recommendations contained in the proposal for a change in the payment rate for an item or service that was effective during such period pursuant to subsection (e)(2)(A).
 
 &emsp;&emsp;&emsp;(ii) The proposal shall not include any recommendation to ration health care, raise revenues or Medicare beneficiary premiums under section 1395i–2, 1395i–2a, or 1395r of this title, increase Medicare beneficiary cost-sharing (including deductibles, coinsurance, and copayments), or otherwise restrict benefits or modify eligibility criteria.
 
@@ -96,7 +96,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;The Board shall not submit a proposal under clause (i) in a proposal year if the year is—
 
-&emsp;&emsp;&emsp;&emsp;(I) a year for which the Chief Actuary of the Centers for Medicare \& MedicaidServices makes a determination in the determination year under paragraph (6)(A) that the growth rate described in clause (i) of such paragraph does not exceed the growth rate described in clause (ii) of such paragraph; or
+&emsp;&emsp;&emsp;&emsp;(I) a year for which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year under paragraph (6)(A) that the growth rate described in clause (i) of such paragraph does not exceed the growth rate described in clause (ii) of such paragraph; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a year in which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the projected percentage increase (if any) for the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average) for the implementation year is less than the projected percentage increase (if any) in the Consumer Price Index for All Urban Consumers (all items; United States city average) for such implementation year.
 
@@ -152,7 +152,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;&emsp;(I) to the extent that there is projected to be a negative update to the single conversion factor applicable to payments for physicians' services under section 1395w–4(d) of this title furnished in the proposal year or the implementation year, assume that such update for such services is 0 percent rather than the negative percent that would otherwise apply; and
 
-&emsp;&emsp;&emsp;&emsp;(II) take into account any delivery system reforms or other payment changes that have been enacted or published in final rules but not yet implemented as of the making of such calculation.
+&emsp;&emsp;&emsp;&emsp;(II) take into account any delivery system reforms or other payment changes that have been enacted or published infinal rules but not yet implemented as of the making of such calculation.
 
 #### (C) Medicare per capita target growth rate
 
@@ -246,7 +246,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (B) Limitation on changes to the Board recommendations in other legislation
 
-&emsp;&emsp;It shall not be in order in the Senate or the House of Representatives to consider any bill, resolution, amendment, or conference report (other than pursuant to this section) that would repeal or otherwise change therecommendations of the Board if that change would fail to satisfy the requirements of subparagraphs (A)(i) and (C) of subsection (c)(2).
+&emsp;&emsp;It shall not be in order in the Senate or the House of Representatives to consider any bill, resolution, amendment, or conference report (other than pursuant to this section) that would repeal or otherwise change the recommendations of the Board if that change would fail to satisfy the requirements of subparagraphs (A)(i) and (C) of subsection (c)(2).
 
 #### (C) Limitation on changes to this subsection
 
@@ -304,7 +304,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (iii) After passage
 
-&emsp;&emsp;&emsp;If a bill introduced pursuant to paragraph (1) is received by one House from the other House, after such a bill is passed by the receiving House, then the vote on passage of the bill that originates in the receiving House shall be considered to be the vote on passage of the bill received from the other House as amended by the language of the receiving House.
+&emsp;&emsp;&emsp;If a bill introduced pursuant to paragraph (1) is received by one House from theother House, after such a bill is passed by the receiving House, then the vote on passage of the bill that originates in the receiving House shall be considered to be the vote on passage of the bill received from the other House as amended by the language of the receiving House.
 
 #### (iv) Disposition
 
@@ -374,7 +374,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall, except as provided in paragraph (3), implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section on August 15 of the year in which the proposal is so submitted.
+&emsp;Notwithstanding any other provision of law, the Secretary shall, except as provided inparagraph (3), implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section on August 15 of the year in which the proposal is so submitted.
 
 #### (2) Application
 
@@ -444,7 +444,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;(C) the title of which is as follows: "Joint resolution approving the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act"; and
 
-&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: "That Congress approves the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.".
+&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: "That Congress approvesthe discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.".
 
 #### (2) Procedure
 
@@ -460,7 +460,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the Senate, when the committee to which a joint resolution is referred has reported, or when a committee is discharged (under subparagraph (C)) from further consideration of a joint resolution describedin paragraph (1), it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for a motion to proceed to the consideration of the joint resolution to be made, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived, except for points of order under the Congressional Budget act <sup>6</sup> of 1974 or under budget resolutions pursuant to that Act. The motion is not debatable. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the joint resolution shall remain the unfinished business of the Senate until disposed of.
+&emsp;&emsp;&emsp;In the Senate, when the committee to which a joint resolution is referred has reported, or when a committee is discharged (under subparagraph (C)) from further consideration of a joint resolution described in paragraph (1), it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for a motion to proceed to the consideration of the joint resolution to be made, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived, except for points of order under the Congressional Budget act <sup>6</sup> of 1974 or under budget resolutions pursuant to that Act. The motion is not debatable. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the joint resolution shall remain the unfinished business of the Senate until disposed of.
 
 #### (ii) Debate limitation
 
@@ -528,7 +528,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (ii) Inclusion
 
-&emsp;&emsp;&emsp;The appointed membership of the Board shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shallalso include representatives of consumers and the elderly.
+&emsp;&emsp;&emsp;The appointed membership of the Board shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
 
 #### (iii) Majority nonproviders
 
@@ -786,9 +786,7 @@ In this section:
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 3401 of the Act amended sections 1395f, 1395l, 1395m, 1395u, 1395rr, 1395ww, 1395yy, and 1395fff of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-Parts A, B, C, and D, referred to in subsecs. (c)(2)(A)(iv), (6)(B)(i), (e)(2)(A)(ii), and (l)(2)–(4), are classified to sections 1395c et seq., 1395j et seq., 1395w–21 et seq., and 1395w–101 et seq., respectively, of this title.
-
-Section 1395w–23(n) of this title, referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses for Medicare Advantage plans, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
+Section 1395w–23(n) of this title, referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses forMedicare Advantage plans, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
 
 Section 1899A of the Social Security Act, referred to in subsecs. (e)(3)(A)(i), (f)(1)(C), (D), is section 1899A of act Aug. 14, 1935, which is classified to this section.
 

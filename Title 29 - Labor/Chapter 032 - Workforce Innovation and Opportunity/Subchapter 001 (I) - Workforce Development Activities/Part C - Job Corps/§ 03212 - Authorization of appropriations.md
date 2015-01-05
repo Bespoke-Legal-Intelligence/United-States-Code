@@ -1,0 +1,22 @@
+### §3212. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this part—
+
+&emsp;(1) $1,688,155,000 for fiscal year 2015;
+
+&emsp;(2) $1,818,548,000 for fiscal year 2016;
+
+&emsp;(3) $1,856,283,000 for fiscal year 2017;
+
+&emsp;(4) $1,897,455,000 for fiscal year 2018;
+
+&emsp;(5) $1,942,064,000 for fiscal year 2019; and
+
+&emsp;(6) $1,983,236,000 for fiscal year 2020.
+
+(Pub. L. 113–128, title I, §162, July 22, 2014, 128 Stat. 1559.)
+
+#### Effective Date
+
+Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+

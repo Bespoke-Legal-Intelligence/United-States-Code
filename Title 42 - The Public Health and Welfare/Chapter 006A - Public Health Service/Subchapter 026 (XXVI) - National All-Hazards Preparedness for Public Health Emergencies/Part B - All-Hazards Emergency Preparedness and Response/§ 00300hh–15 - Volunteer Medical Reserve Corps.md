@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after December 19, 2006, the Secretary, in collaboration with State,local, and tribal officials, shall build on State, local, and tribal programs in existence on December 19, 2006, to establish and maintain a Medical Reserve Corps (referred to in this section as the "Corps") to provide for an adequate supply of volunteers in the case of a Federal, State, local, or tribal public health emergency. The Corps shall be headed by a Director who shall be appointed by the Secretary and shall oversee the activities of the Corps chapters that exist at the State, local, and tribal levels.
+Not later than 180 days after December 19, 2006, the Secretary, in collaboration with State, local, and tribal officials, shall build on State, local, and tribal programs in existence on December 19, 2006, to establish and maintain a Medical Reserve Corps (referred to in this section as the "Corps") to provide for an adequate supply of volunteers in the case of a Federal, State, local, or tribal public health emergency. The Corps shall be headed by a Director who shall be appointed by the Secretary and shall oversee the activities of the Corps chapters that exist at the State, local, and tribal levels.
 
 #### (b) State, local, and tribal coordination
 
@@ -32,7 +32,7 @@ The Corps shall be composed of individuals who—
 
 #### (2) Drills
 
-&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trained volunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level. Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.
+&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trainedvolunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level. Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.
 
 #### (e) Deployment
 

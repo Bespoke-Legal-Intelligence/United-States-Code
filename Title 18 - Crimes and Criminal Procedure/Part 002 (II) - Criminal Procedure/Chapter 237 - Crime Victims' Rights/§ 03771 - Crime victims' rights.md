@@ -86,7 +86,7 @@ Multiple crime victims.—In a case where the court finds that the number of cri
 
 &emsp;(3)
 
-Motion for relief and writ of mandamus.—The rights described in subsection (a) shall be asserted in the district court in which a defendant is being prosecuted for the crime or, if no prosecution is underway, in the district court in the district in which the crime occurred. The district court shall take up and decide any motion asserting a victim's right forthwith. If the district court denies the relief sought, the movant may petition the court of appeals for a writ of mandamus. The courtof appeals may issue the writ on the order of a single judge pursuant to circuit rule or the Federal Rules of Appellate Procedure. The court of appeals shall take up and decide such application forthwith within 72 hours after the petition has been filed. In no event shall proceedings be stayed or subject to a continuance of more than five days for purposes of enforcing this chapter. If the court of appeals denies the relief sought, the reasons for the denial shall be clearly stated on the record in a written opinion.
+Motion for relief and writ of mandamus.—The rights described in subsection (a) shall be asserted in the district court in which a defendant is being prosecuted for the crime or, if no prosecution is underway, in the district court in the district in which the crime occurred. The district court shall take up and decide any motion asserting a victim's right forthwith. If the district court denies the relief sought, the movant may petition the court of appeals for a writ of mandamus. The court of appeals may issue the writ on the order of a single judge pursuant to circuit rule or the Federal Rules of Appellate Procedure. The court of appeals shall take up and decide such application forthwith within 72 hours after the petition has been filed. In no event shall proceedings be stayed or subject to a continuance of more than five days for purposes of enforcing this chapter. If the court of appeals denies the relief sought, the reasons for the denial shall be clearly stated on the record in a written opinion.
 
 &emsp;(4)
 
@@ -126,7 +126,7 @@ Contents.—The regulations promulgated under paragraph (1) shall—
 
 &emsp;&emsp;(A) designate an administrative authority within the Department of Justice to receive and investigate complaints relating to the provision or violation of the rights of a crime victim;
 
-&emsp;&emsp;(B) require a course of training for employees and offices of the Department of Justice that fail to comply with provisions of Federal law pertaining to the treatment of crime victims, and otherwise assist such employees and offices in responding more effectively to the needs of crime victims;
+&emsp;&emsp;(B) require a course of training for employees and offices of the Department of Justice that fail to comply with provisions of Federal law pertaining to the treatment ofcrime victims, and otherwise assist such employees and offices in responding more effectively to the needs of crime victims;
 
 &emsp;&emsp;(C) contain disciplinary sanctions, including suspension or termination from employment, for employees of the Department of Justice who willfully or wantonly fail to comply with provisions of Federal law pertaining to the treatment of crime victims; and
 

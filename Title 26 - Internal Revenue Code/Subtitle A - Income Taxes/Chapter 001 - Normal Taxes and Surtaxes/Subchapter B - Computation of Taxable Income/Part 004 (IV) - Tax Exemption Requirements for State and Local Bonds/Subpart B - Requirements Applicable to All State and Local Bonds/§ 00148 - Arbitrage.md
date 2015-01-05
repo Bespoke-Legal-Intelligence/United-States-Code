@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Qualified natural gas supply contract
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified natural gas supply contract"means any contract to acquire natural gas for resale by a utility owned by a governmental unit if the amount of gas permitted to be acquired under the contract by the utility during any year does not exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, the term "qualified natural gas supply contract" means any contract to acquire natural gas for resale by a utility owned by a governmental unit if the amount of gas permitted to be acquired under the contract by the utility during any year does not exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the annual average amount during the testing period of natural gas purchased (other than for resale) by customers of such utility who are located within the service area of such utility, and
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely by reason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
+&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely byreason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
 
 #### (2) Limitation on amount in reserve or replacement fund which may be financed by issue
 
@@ -270,7 +270,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;The spending requirement of clause (ii)(IV) shall be treated as met if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such requirement would be met at the close of such 2-year period but for areasonable retainage (not exceeding 5 percent of the available construction proceeds of the construction issue), and
+&emsp;&emsp;&emsp;&emsp;(I) such requirement would be met at the close of such 2-year period but for a reasonable retainage (not exceeding 5 percent of the available construction proceeds of the construction issue), and
 
 &emsp;&emsp;&emsp;&emsp;(II) 100 percent of the available construction proceeds of the construction issue are spent for the governmental purposes of the issue within the 3-year period beginning on the date the bonds are issued.
 
@@ -434,7 +434,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (iii) Certain refunding bonds not taken into account in determining small issuer status
 
-&emsp;&emsp;&emsp;There shall not be taken into account under subclause (IV) of clause (i) any bond issued to refund (other than to advance refund) any bond to the extent the amount of the refunding bond does not exceed the outstanding amount of the refunded bond.
+&emsp;&emsp;&emsp;There shall not be taken into account under subclause (IV) of clause (i) any bond issued to refund (other than to advance refund) any bond to the extent the amountof the refunding bond does not exceed the outstanding amount of the refunded bond.
 
 #### (iv) Certain issues issued by subordinate governmental units, etc., exempt from rebate requirement
 
@@ -470,7 +470,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(III) the aggregate face amount of all tax-exempt bonds (other than bonds described in subclause (II)) issued by such unit during the calendar year in which such issue was issued did not exceed $5,000,000.
 
-&emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similarto the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
+&emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similar to the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
 
 #### (vii) Increase in exception for bonds financing public school capital expenditures
 
@@ -572,7 +572,7 @@ Subsec. (f)(4)(C) to (E). Pub. L. 101–508, §11701(j)(3)(A), (B), added subpar
 
 Subsec. (d)(3)(E)(ii). Pub. L. 101–239, §7814(c)(2), struck out "a qualified mortgage bond or" after "in the case of".
 
-Subsec. (f)(4)(B)(i). Pub. L. 101–239, §7652(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if the gross proceeds of such issue are expended for the governmental purpose for which the issue was issued by no later than the day which is 6 months after the date of issuance of such issue. Gross proceeds which are held in a bona fide debt service fund shall not be considered gross proceeds for purposes of this subparagraph only."
+Subsec. (f)(4)(B)(i). Pub. L. 101–239, §7652(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if the gross proceeds of such issue are expended for the governmental purpose for which the issue was issued by no later than the day which is 6 months after the date of issuance of such issue. Gross proceeds which are heldin a bona fide debt service fund shall not be considered gross proceeds for purposes of this subparagraph only."
 
 Subsec. (f)(4)(B)(ii)(I). Pub. L. 101–239, §7652(d), inserted "each place it appears" after " '6 months' ".
 

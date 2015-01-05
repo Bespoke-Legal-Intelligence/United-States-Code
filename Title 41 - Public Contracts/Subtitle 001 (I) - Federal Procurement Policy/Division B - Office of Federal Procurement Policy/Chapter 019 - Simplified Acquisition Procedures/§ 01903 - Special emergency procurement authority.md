@@ -24,7 +24,7 @@ Increased Thresholds and Limitation.—For a procurement to which this section a
 
 &emsp;&emsp;(B) $1,000,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
 
-&emsp;(3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section 2304(g)(1)(B) of title 10 is deemed to be $10,000,000.
+&emsp;(3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section2304(g)(1)(B) of title 10 is deemed to be $10,000,000.
 
 (c)
 

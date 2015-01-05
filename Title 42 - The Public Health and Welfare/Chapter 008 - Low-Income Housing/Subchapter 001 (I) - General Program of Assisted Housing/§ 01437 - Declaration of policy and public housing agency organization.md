@@ -134,7 +134,7 @@ Pub. L. 104–204, title II, §201(d), Sept. 26, 1996, 110 Stat. 2893, provided 
 
 Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
 
-Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary ofHousing and Urban Development and an Indian housing authority."
+Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
 
 Pub. L. 104–99, title IV, §402(e), Jan. 26, 1996, 110 Stat. 43, which provided that amendments made by section 402(a) to (d) and (f) of Pub. L. 104–99 were also to apply to public housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and an Indian housing authority, was repealed by Pub. L. 105–276, title V, §595(e)(16), Oct. 21, 1998, 112 Stat. 2659.
 
@@ -192,7 +192,7 @@ Findings.—Congress finds that—
 
 &emsp;"(2) the inventory of public housing units owned, assisted, or operated by public housing agencies, an asset in which the Federal Government has invested over $90,000,000,000, has traditionally provided rental housing that is affordable to low-income persons;
 
-&emsp;"(3) despite serving this critical function, the public housing system is plagued by a series of problems, including the concentration of very poor people in very poor neighborhoods and disincentives for economic self-sufficiency;
+&emsp;"(3) despite serving this critical function, the public housing system is plagued by a series of problems,including the concentration of very poor people in very poor neighborhoods and disincentives for economic self-sufficiency;
 
 &emsp;"(4) the Federal method of overseeing every aspect of public housing by detailed and complex statutes and regulations has aggravated the problem and has placed excessive administrative burdens on public housing agencies; and
 
@@ -306,7 +306,7 @@ Federal Assisted Housing Programs.—For purposes of this section, the term 'Fed
 
 &emsp;"(7) the program for housing for persons with disabilities under section 811 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8013\];
 
-&emsp;"(8) the program for financing housing by a loan or mortgage insured under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715l(d)(3)\] that bearsinterest at a rate determined under the proviso of section 221(d)(5) of such Act \[12 U.S.C. 1715l(d)(5)\];
+&emsp;"(8) the program for financing housing by a loan or mortgage insured under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715l(d)(3)\] that bears interest at a rate determined under the proviso of section 221(d)(5) of such Act \[12 U.S.C. 1715l(d)(5)\];
 
 &emsp;"(9) the program under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\];
 

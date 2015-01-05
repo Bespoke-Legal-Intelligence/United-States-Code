@@ -324,7 +324,7 @@ Report.—Not later than 120 days after the date of enactment of this Act, the D
 
 "(a)
 
-Definition.—In this section, the term 'recovery audit' means a recovery audit described under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 \[Pub. L. 111–204\] (31 U.S.C. 3301 note).
+Definition.—In this section, the term 'recovery audit' means a recovery audit described under section2(h) of the Improper Payments Elimination and Recovery Act of 2010 \[Pub. L. 111–204\] (31 U.S.C. 3301 note).
 
 "(b)
 
@@ -568,7 +568,7 @@ Plan.—The plan described under subparagraph (A) shall include—
 
 &emsp;&emsp;&emsp;"(ii) the designation of a senior agency official who shall be accountable for the progress of the agency in coming into compliance for each program or activity; and
 
-&emsp;&emsp;&emsp;"(iii) the establishment of an accountability mechanism, such as a performance agreement, with appropriate incentives and consequences tied to the success of the official designated under clause (ii) in leading the efforts of the agency to come into compliance for each program and activity.
+&emsp;&emsp;&emsp;"(iii) the establishment of an accountability mechanism, such as a performance agreement, with appropriate incentives and consequences tied to the success of the official designated underclause (ii) in leading the efforts of the agency to come into compliance for each program and activity.
 
 &emsp;"(2)
 
@@ -678,7 +678,7 @@ Scope.—In conducting the reviews under paragraph (1), the head of each agency 
 
 &emsp;&emsp;&emsp;"(vi) the level, experience, and quality of training for personnel responsible for making program eligibility determinations or certifying that payments are accurate; and
 
-&emsp;&emsp;&emsp;"(vii) significant deficiencies in the audit report of the agency or other relevant management findings that might hinder accurate payment certification.
+&emsp;&emsp;&emsp;"(vii) significant deficiencies in the audit report of the agency or other relevant managementfindings that might hinder accurate payment certification.
 
 "(b)
 
@@ -920,9 +920,9 @@ Sec. 4. <i>Enhanced Focus on Contractors and Working with State and Local Stakeh
 
 (a) Within 180 days of the date of this order, the Federal Acquisition Regulatory Council, in coordination with the Director of OMB, and in consultation with the National Procurement Fraud Task Force (or its successor group), the CIGIE, and appropriate agency officials, shall recommend to the President actions designed to enhance contractor accountability for improper payments. The recommendations may include, but are not limited to, subjecting contractors to debarment, suspension, financial penalties, and identification through a public Internet website, subject to Federal privacy policies and to the extent permitted by law and where the identification would not interfere with or compromise an ongoing criminal or civil investigation, for knowingly failing timely to disclose credible evidence of significant overpayments received on Government contracts.
 
-(b) Within 30 days of the date of this order, the Director of OMB shall establish a working group consisting of Federal and elected State and local officials to make recommendations to the Director of OMB designed to improve the effectiveness of single audits of State and local governments and non-profit organizations that are expending Federal funds. The Director of OMB maydesignate an appropriate official to serve as Chair of the working group to convene its meetings and direct its work. The working group's recommendations shall be prepared in consultation with the CIGIE and submitted within 180 days of the date of this order. The recommendations shall address, among other things, the effectiveness of single audits in identifying improper payments and opportunities to streamline or eliminate single audit requirements where their value is minimal.
+(b) Within 30 days of the date of this order, the Director of OMB shall establish a working group consisting of Federal and elected State and local officials to make recommendations to the Director of OMB designed to improve the effectiveness of single audits of State and local governments and non-profit organizations that are expending Federal funds. The Director of OMB may designate an appropriate official to serve as Chair of the working group to convene its meetings and direct its work. The working group's recommendations shall be prepared in consultation with the CIGIE and submitted within 180 days of the date of this order. The recommendations shall address, among other things, the effectiveness of single audits in identifying improper payments and opportunities to streamline or eliminate single audit requirements where their value is minimal.
 
-(c) Within 30 days of the date of this order, the Director of OMB shall establish a working group (which may be separate from the group established under subsection (b) of this section) consisting of Federal and elected State and local officials to make recommendations to the Director of OMB for administrative actions designed to improve the incentives and accountability of State and local governments, as well as other entities receiving Federal funds, for reducing improper payments. The Director of OMB may designate an appropriate official to serve as Chair of the working group to convene its meetings and direct its work. The working group's recommendations shall be prepared in consultation with the CIGIE and submitted within 180 days of the date of this order.
+(c) Within 30 days of the date of this order, the Director of OMB shall establish a working group (which may be separate from the group established under subsection (b) of this section) consisting of Federal and elected State and local officials to make recommendations to the Director of OMB for administrative actions designed to improve the incentives and accountability of State and local governments, as well as other entities receiving Federal funds, for reducing improper payments. The Director of OMB may designate an appropriate official to serve as Chair of the working group toconvene its meetings and direct its work. The working group's recommendations shall be prepared in consultation with the CIGIE and submitted within 180 days of the date of this order.
 
 Sec. 5. <i>Policy Proposals</i>. The Director of OMB, in consultation with the appropriate agencies and the CIGIE, shall develop policy recommendations, including potential legislative proposals, designed to reduce improper payments, including those caused by error, waste, fraud, and abuse, across Federal programs without compromising program access, to be included, as appropriate, in the Budget of the United States Government for Fiscal Year 2011 and future years, or other Administration proposals.
 
@@ -939,6 +939,48 @@ Sec. 6. <i>General Provisions</i>.
 (c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13681. Improving the Security of Consumer Financial Transactions
+
+Ex. Ord. No. 13681, Oct. 17, 2014, 79 F.R. 63491, provided:
+
+Given that identity crimes, including credit, debit, and other payment card fraud, continue to be a risk to U.S. economic activity, and given the economic consequences of data breaches, the United States must take further action to enhance the security of data in the financial marketplace. While the U.S. Government's credit, debit, and other payment card programs already include protections against fraud, the Government must further strengthen the security of consumer data and encourage the adoption of enhanced safeguards nationwide in a manner that protects privacy and confidentiality while maintaining an efficient and innovative financial system.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the security of consumer financial transactions in both the private and public sectors, it is hereby ordered as follows:
+
+Section 1. <i>Secure Government Payments</i>. In order to strengthen data security and thereby better protect citizens doing business with the Government, executive departments and agencies (agencies) shall, as soon as possible, transition payment processing terminals and credit, debit, and other payment cards to employ enhanced security features, including chip-and-PIN technology. In determining enhanced security features to employ, agencies shall consider relevant voluntary consensus standards and specifications, as appropriate, consistent with the National Technology Transfer and Advancement Act of 1995 and Office of Management and Budget Circular A–119.
+
+(a) The Secretary of the Treasury shall take necessary steps to ensure that payment processing terminals acquired by agencies through the Department of the Treasury or through alternative means authorized by the Department of the Treasury have enhanced security features. No later than January 1, 2015, all new payment processing terminals acquired in these ways shall include hardware necessary to support such enhanced security features. By January 1, 2015, the Department of the Treasury shall develop a plan for agencies to install enabling software that supports enhanced security features.
+
+(b) The Administrator of General Services shall take necessary steps to ensure that credit, debit, and other payment cards provided through General Services Administration (GSA) contracts have enhanced security features, and shall begin replacing credit, debit, and other payment cards without enhanced security features no later than January 1, 2015.
+
+(c) The Secretary of the Treasury shall take necessary steps to ensure that Direct Express prepaid debit cards for administering Government benefits have enhanced security features, and by January 1, 2015, the Department of the Treasury shall develop a plan for the replacement of Direct Express prepaid debit cards without enhanced security features.
+
+(d) By January 1, 2015, other agencies with credit, debit, and other payment card programs shall provide to the Office of Management and Budget (OMB) plans for ensuring that their credit, debit, and other payment cards have enhanced security features.
+
+(e) Nothing in this order shall be construed to preclude agencies from adopting additional standards or upgrading to more effective technology and standards to improve the security of consumer financial transactions as technologies and threats evolve.
+
+Sec. 2. <i>Improved Identity Theft Remediation</i>. To reduce the burden on consumers who have been victims of identity theft, including by substantially reducing the amount of time necessary for a consumer to remediate typical incidents:
+
+(a) by February 15, 2015, the Attorney General, in coordination with the Secretary of Homeland Security, shall issue guidance to promote regular submissions, as appropriate and permitted by law, by Federal law enforcement agencies of compromised credentials to the National Cyber-Forensics and Training Alliance's Internet Fraud Alert System;
+
+(b) the Department of Justice, the Department of Commerce, and the Social Security Administration shall identify all publicly available agency resources for victims of identity theft, and shall provide to the Federal Trade Commission (FTC) information about such resources no later than March 15, 2015, with updates thereafter as necessary. These agencies shall work in consultation with the FTC to streamline these resources and consolidate them wherever possible at the FTC's public Web site, IdentityTheft.gov; and
+
+(c) OMB and GSA shall assist the FTC in enhancing the functionality of IdentityTheft.gov, including by coordinating with the credit bureaus to streamline the reporting and remediation process with credit bureaus' systems to the extent feasible, and in making the enhanced site available to the public by May 15, 2015.
+
+Sec. 3. <i>Securing Federal Transactions Online</i>. To help ensure that sensitive data are shared only with the appropriate person or people, within 90 days of the date of this order, the National Security Council staff, the Office of Science and Technology Policy, and OMB shall present to the President a plan, consistent with the guidance set forth in the 2011 National Strategy for Trusted Identities in Cyberspace, to ensure that all agencies making personal data accessible to citizens through digital applications require the use of multiple factors of authentication and an effective identity proofing process, as appropriate. Within 18 months of the date of this order, relevant agencies shall complete any required implementation steps set forth in the plan prepared pursuant to this section.
+
+Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+&emsp;(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -974,7 +1016,7 @@ Agencies maintain many databases containing information on a recipient's eligibi
 
 Therefore, I hereby direct agencies to review current pre-payment and pre-award procedures and ensure that a thorough review of available databases with relevant information on eligibility occurs before the release of any Federal funds, to the extent permitted by law. At a minimum, agencies shall, before payment and award, check the following existing databases (where applicable and permitted by law) to verify eligibility: the Social Security Administration's Death Master File, the General Services Administration's Excluded Parties List System, the Department of the Treasury's Debt Check Database, the Department of Housing and Urban Development's Credit Alert System or Credit Alert Interactive Voice Response System, and the Department of Health and Human Services' Office of Inspector General's List of Excluded Individuals/Entities. This network of databases, and additional databases so designated by the Director of the Office of Management and Budget (OMB) in consultation with agencies, shall be collectively known as the "Do Not Pay List." This memorandum requires agencies to review these databases with the recognition that there may be circumstances when the law nevertheless requires a payment or award to be made to a recipient listed in them. My Administration began coordination of the databases discussed in this memorandum in April 2010 by launching the Federal Awardee Performance and Integrity Information System (FAPIIS), which integrates various sources of information on the eligibility of Government contractors for award. No later than 120 days of the date of this memorandum, the Director of the OMB shall provide to the President a plan for completing integration for the remaining databases, to the extent permitted by law, so that agencies can access them through a single entry point.
 
-Each agency shall, within 90 days of the date of this memorandum, submit to the OMB a plan that includes information on its current pre-payment and pre-award procedures and a list of databases that the agency checks pursuant to those procedures. Within 180 days of the date of this memorandum, the Director of the OMB shall issue guidance, to be developed in consultation with affected agencies and taking into account current agency pre-payment and pre-award practices, on actions agencies must take to carry out this memorandum's requirements. This guidance shall clarify that the head of each agency is responsible for ensuring an efficient and accurate process for determining whether the information provided on the "Do Not Pay List" is sufficient to stop a payment, consistent with applicable laws and regulations, and, if so, whether a payment should be stopped under the circumstances. In addition, this guidance shall identify best practices and databases that agencies should utilize to conduct pre-payment checks to ensure that only eligible recipients receive Government benefits or payments.
+Each agency shall, within 90 days of the date of this memorandum, submit to the OMB a plan that includes information on its current pre-payment and pre-award procedures and a list of databases that the agency checks pursuant to those procedures. Within 180 days of the date of this memorandum, the Director of the OMB shall issue guidance, to be developed in consultation with affected agencies and taking into account current agency pre-payment and pre-award practices, on actions agencies must take to carry out this memorandum's requirements. This guidance shall clarify thatthe head of each agency is responsible for ensuring an efficient and accurate process for determining whether the information provided on the "Do Not Pay List" is sufficient to stop a payment, consistent with applicable laws and regulations, and, if so, whether a payment should be stopped under the circumstances. In addition, this guidance shall identify best practices and databases that agencies should utilize to conduct pre-payment checks to ensure that only eligible recipients receive Government benefits or payments.
 
 This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(iii) providing advice and assistance to the Secretary of State on international telecommunications policies to strengthen the position and serve the best interests of the United States in support of the Secretary of State's responsibility for the conduct of foreign affairs.
 
-&emsp;&emsp;(H) The authority to provide for the coordination of the telecommunications activities of the executive branch and assist in the formulation of policies and standards for those activities, including (but not limited to) considerations of interoperability, privacy, security, spectrum use, and emergency readiness.
+&emsp;&emsp;(H) The authority to provide for the coordination of the telecommunications activities of the executive branch and assist inthe formulation of policies and standards for those activities, including (but not limited to) considerations of interoperability, privacy, security, spectrum use, and emergency readiness.
 
 &emsp;&emsp;(I) The authority to develop and set forth telecommunications policies pertaining to the Nation's economic and technological advancement and to the regulation of the telecommunications industry.
 
@@ -174,7 +174,7 @@ Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as ame
 
 &emsp;"(4) The Administrator shall not require an eligible educational institution to provide matching funds for a grant awarded under this subsection.
 
-&emsp;"(5)(A) The Administrator shall consult with the Committee on Appropriations and the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives, on a quarterly basis regarding the pilot program assisted under this subsection.
+&emsp;"(5)(A) The Administrator shall consult with the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives, on a quarterly basis regarding the pilot program assisted under this subsection.
 
 &emsp;"(B) Not later than 1 year after the date of enactment of this section \[Dec. 26, 2007\], the Administrator shall submit to the committees described in subparagraph (A) a report evaluating the progress of the pilot program assisted under this subsection.
 

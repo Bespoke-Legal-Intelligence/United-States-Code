@@ -36,7 +36,7 @@ For all student loans under part B or D of title IV of the Higher Education Act 
 
 #### (4) Timing of subsequent sequestration order
 
-&emsp;A sequestration order required by section 902 or 903 of this title with respect to programs under such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
+&emsp;A sequestration order required by section 902 or 903 of this title with respect to programsunder such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
 
 #### (5) No increase in beneficiary charges in assignment-related cases
 
@@ -68,7 +68,7 @@ For all student loans under part B or D of title IV of the Higher Education Act 
 
 &emsp;&emsp;Payments to States for coverage of Medicare cost-sharing for certain low-income Medicare beneficiaries under section 1933 of the Social Security Act \[42 U.S.C. 1396u–3\].
 
-#### (e) Community and migrant health centers, Indian health services and facilities, and veterans’ medical care
+#### (e) Community and migrant health centers, Indian health services and facilities, and veterans' medical care
 
 (1) The maximum permissible reduction in budget authority for any account listed in paragraph (2) for any fiscal year, pursuant to an order issued under section 904 of this title, shall be 2 percent.
 
@@ -82,7 +82,7 @@ For all student loans under part B or D of title IV of the Higher Education Act 
 
 &emsp;(D) Indian health services (75-0390-0-1-551).
 
-&emsp;(E) Veterans’ medical care (36-0160-0-1-703).
+&emsp;(E) Veterans' medical care (36-0160-0-1-703).
 
 > For purposes of the preceding provisions of this paragraph, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government—Appendix.
 
@@ -106,9 +106,9 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “statutory pay system” shall have the meaning given that term in section 5302(1) of title 5.
+&emsp;&emsp;(A) The term "statutory pay system" shall have the meaning given that term in section 5302(1) of title 5.
 
-&emsp;&emsp;(B) The term “elements of military pay” means—
+&emsp;&emsp;(B) The term "elements of military pay" means—
 
 &emsp;&emsp;&emsp;(i) the elements of compensation of members of the uniformed services specified in section 1009 of title 37,
 
@@ -116,7 +116,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;&emsp;&emsp;(iii) cadet pay and midshipman pay under section 203(c) of such title.
 
-&emsp;&emsp;(C) The term “uniformed services” shall have the meaning given that term in section 101(3) of title 37.
+&emsp;&emsp;(C) The term "uniformed services" shall have the meaning given that term in section 101(3) of title 37.
 
 #### (h) Treatment of Federal administrative expenses
 
@@ -124,7 +124,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
-(3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) <sup>1</sup> of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
+(3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) <sup>1</sup> shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
 
 (4) Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
 
@@ -152,7 +152,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 > shall not be subject to reduction.
 
-(2)(A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
+(2)(A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970 for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
 
 (B) A reduction by a State in accordance with subparagraph (A) shall not be considered as a failure to fulfill the requirements of section 3304(a)(11) of title 26.
 
@@ -170,7 +170,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (3) Delayed reduction in outlays permissible
 
-&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
+&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may providefor reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
 
 #### (4) Uniform percentage rate of reduction and other limitations
 
@@ -198,7 +198,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(5) If an automatic spending increase is sequestered, the increase (in the applicable index) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
 
-&emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts andoffsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
+&emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
 (Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
@@ -212,7 +212,7 @@ Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to 
 
 This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
-Subsec. (h)(1) of this section, referred to in subsec. (h)(3), was redesignated subsec. (i)(1) of this section by Pub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
+Subsec. (h)(1), referred to in subsec. (h)(3), was redesignated subsec. (i)(1) by Pub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 204 of such Act is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
@@ -222,133 +222,133 @@ This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, De
 
 <b>2013</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted “475” for “405”.
+<b>2011</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted "475" for "405".
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–139, §10(a), struck out subsec. (a). Text read as follows: “Automatic spending increases are increases in outlays due to changes in indexes in the following programs:
+<b>2010</b>—Subsec. (a). Pub. L. 111–139, §10(a), struck out subsec. (a). Text read as follows: "Automatic spending increases are increases in outlays due to changes in indexes in the following programs:
 
-&emsp;“(1) Special milk program; and
+&emsp;"(1) Special milk program; and
 
-&emsp;“(2) Vocational rehabilitation basic State grants.
+&emsp;"(2) Vocational rehabilitation basic State grants.
 
-> In those programs all amounts other than the automatic spending increases shall be exempt from reduction under any order issued under this subchapter.”
+> In those programs all amounts other than the automatic spending increases shall be exempt from reduction under any order issued under this subchapter."
 
-Subsec. (b). Pub. L. 111–139, §10(b), substituted “origination fees under sections 438(c)(2) and (6) and 455(c) and loan processing and issuance fees under section 428(f)(1)(A)(ii) of that Act shall each be increased by the uniform percentage specified in that sequestration order, and, for student loans originated during the period of the sequestration, special allowance payments under section 438(b) of that Act accruing during the period of the sequestration shall be reduced by the uniform percentage specified in that sequestration order.” for “origination fees under sections 438(c)(2) and 455(c) of that Act shall each be increased by 0.50 percentage point.”
+Subsec. (b). Pub. L. 111–139, §10(b), substituted "origination fees under sections 438(c)(2) and (6) and 455(c) and loan processing and issuance fees under section 428(f)(1)(A)(ii) of that Act shall each be increased by the uniform percentage specified in that sequestration order, and, for student loans originated during the period of the sequestration, special allowance payments under section 438(b) of that Act accruing during the period of the sequestration shall be reduced by the uniform percentage specified in that sequestration order." for "origination fees under sections 438(c)(2) and 455(c) of that Act shall each be increased by 0.50 percentage point."
 
-Subsec. (c). Pub. L. 111–139, §10(c), struck out subsec. (c). Text read as follows: “Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act (for such fiscal year) for that portion of the State's payments which is attributable to the increases taking effect during that year. No State's matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the Social Security Act which has the effect of changing the fiscal year in which expenditures under such part are made.”
+Subsec. (c). Pub. L. 111–139, §10(c), struck out subsec. (c). Text read as follows: "Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act (for such fiscal year) for that portion of the State's payments which is attributable to the increases taking effect during that year. No State's matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the Social Security Act which has the effect of changing the fiscal year in which expenditures under such part are made."
 
-Subsec. (d)(1). Pub. L. 111–139, §10(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act, OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.”
+Subsec. (d)(1). Pub. L. 111–139, §10(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: "To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act, OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis."
 
-Subsec. (d)(2) to (6). Pub. L. 111–139, §10(d)(1), (3)–(5), added pars. (2) and (4), redesignated former pars. (2), (3),and (4) as (3), (5), and (6), respectively, and amended par. (6) generally. Prior to amendment, text of par. (6) read as follows: “In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act, the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter.”
+Subsec. (d)(2) to (6). Pub. L. 111–139, §10(d)(1), (3)–(5), added pars. (2) and (4), redesignated former pars. (2), (3), and (4) as (3), (5), and (6), respectively, and amended par. (6) generally. Prior to amendment, text of par. (6) read as follows: "In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act, the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter."
 
 Subsec. (d)(7). Pub. L. 111–139, §10(d)(6), added par. (7).
 
 Subsec. (h)(4)(C) to (H). Pub. L. 111–203 redesignated subpars. (D), (E), (F), and (H) as (C), (D), (E), and (F), respectively, and struck out former subpars. (C) and (G) which read as follows:
 
-“(C) Office of Thrift Supervision.”
+"(C) Office of Thrift Supervision."
 
-“(G) Resolution Trust Corporation.”
+"(G) Resolution Trust Corporation."
 
-Subsec. (k)(1). Pub. L. 111–139, §9(b), substituted “in paragraph (6)” for “in paragraph (5)”.
+Subsec. (k)(1). Pub. L. 111–139, §9(b), substituted "in paragraph (6)" for "in paragraph (5)".
 
-<b>1997</b>—Pub. L. 105–33, §10208(a)(1), substituted “General and special sequestration rules” for “Exceptions, limitations, and special rules” as section catchline.
+<b>1997</b>—Pub. L. 105–33, §10208(a)(1), substituted "General and special sequestration rules" for "Exceptions, limitations, and special rules" as section catchline.
 
-Subsec. (a). Pub. L. 105–33, §10208(b), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “National Wool Act;”.
+Subsec. (a). Pub. L. 105–33, §10208(b), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "National Wool Act;".
 
 Subsec. (b). Pub. L. 105–33, §10208\[(c)\], amended subsec. (b) generally, substituting new heading and text for former text consisting of pars. (1) to (3) relating to reductions required to be achieved from student loan programs operated under part B of title IV of the Higher Education Act of 1965 as a consequence of a sequestration order. Amendment was executed to reflect the probable intent of Congress based on language directing the general amendment of subsec. (b), appearing in the conference report for H.R. 2015, H. Rept. No. 105–217, 105th Congress, as adopted by the House of Representatives and Senate.
 
-Subsec. (e)(1). Pub. L. 105–33, §10208(d), substituted “shall be 2 percent.” for “shall be—” and struck out subpars. (A) and (B) which read as follows:
+Subsec. (e)(1). Pub. L. 105–33, §10208(d), substituted "shall be 2 percent." for "shall be—" and struck out subpars. (A) and (B) which read as follows:
 
-“(A) 1 percent in the case of the fiscal year 1986, and
+"(A) 1 percent in the case of the fiscal year 1986, and
 
-“(B) 2 percent in the case of any subsequent fiscal year.”
+"(B) 2 percent in the case of any subsequent fiscal year."
 
-Subsec. (h)(2). Pub. L. 105–33, §10208(e)(1), substituted “this subchapter” for “this joint resolution”.
+Subsec. (h)(2). Pub. L. 105–33, §10208(e)(1), substituted "this subchapter" for "this joint resolution".
 
-Subsec. (h)(4)(D). Pub. L. 105–33, §10208(e)(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “Office of Thrift Supervision.”
+Subsec. (h)(4)(D). Pub. L. 105–33, §10208(e)(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: "Office of Thrift Supervision."
 
 Subsec. (h)(4)(E) to (G). Pub. L. 105–33, §10208(e)(2), redesignated subpars. (F), (G), and (I) as (E), (F), and (G), respectively. Former subpar. (E) redesignated (D).
 
-Subsec. (h)(4)(H). Pub. L. 105–33, §10208(e)(2), added subpar. (H) and struck out former subpar. (H) which read as follows: “Resolution Funding Corporation.”
+Subsec. (h)(4)(H). Pub. L. 105–33, §10208(e)(2), added subpar. (H) and struck out former subpar. (H) which read as follows: "Resolution Funding Corporation."
 
 Subsec. (h)(4)(I). Pub. L. 105–33, §10208(e)(2), redesignated subpar. (I) as (G).
 
 Subsec. (j)(2) to (5). Pub. L. 105–33, §10208(f), added pars. (2) to (5) and struck out former pars. (2) to (5) which related to reduction in payments made under contracts, delayed reduction in outlays permissible, uniform percentage rate of reduction and other limitations, and no double reduction for agricultural price support and income protection programs.
 
-Subsec. (k)(1). Pub. L. 105–33, §10208(g)(1), struck out “other than a trust or special fund account” after “from any account” and inserted “, except as provided in paragraph (5)” before period.
+Subsec. (k)(1). Pub. L. 105–33, §10208(g)(1), struck out "other than a trust or special fund account" after "from any account" and inserted ", except as provided in paragraph (5)" before period.
 
-Subsec. (k)(6). Pub. L. 105–33, §10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.”
+Subsec. (k)(6). Pub. L. 105–33, §10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage."
 
 <b>1996</b>—Subsecs. (k), (l). Pub. L. 104–193 redesignated subsec. (l) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 
-Subsec. (b). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title” in pars. (1) to (3).
+Subsec. (b). Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title" in pars. (1) to (3).
 
 Pub. L. 101–508, §13101(d)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (h).
 
-Subsec. (c). Pub. L. 101–508, §13101(d)(4), inserted after first sentence “No State's matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage.”
+Subsec. (c). Pub. L. 101–508, §13101(d)(4), inserted after first sentence "No State's matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage."
 
-Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title".
 
 Pub. L. 101–508, §13101(d)(2), redesignated subsec. (f) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d)(1). Pub. L. 101–508, §13101(d)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The maximum permissible reduction for the health insurance programs under title XVIII of the Social Security Act for any fiscal year, pursuant to an order issued under section 902 of this title, consists only of a reduction of—
+Subsec. (d)(1). Pub. L. 101–508, §13101(d)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The maximum permissible reduction for the health insurance programs under title XVIII of the Social Security Act for any fiscal year, pursuant to an order issued under section 902 of this title, consists only of a reduction of—
 
-&emsp;“(A) 1 percent in the case of fiscal year 1986, and
+&emsp;"(A) 1 percent in the case of fiscal year 1986, and
 
-&emsp;“(B) 2 percent (or such higher percentage as may apply as determined in accordance with section 902(a)(4)(B)(ii) of this title) in the case of any subsequent fiscal year,
+&emsp;"(B) 2 percent (or such higher percentage as may apply as determined in accordance with section 902(a)(4)(B)(ii) of this title) in the case of any subsequent fiscal year,
 
-> in each separate payment amount otherwise made for a covered service under those programs without regard to this subchapter.”
+> in each separate payment amount otherwise made for a covered service under those programs without regard to this subchapter."
 
-Subsec. (d)(2)(C). Pub. L. 101–508, §13101(d)(6), struck out subpar. (C) which read as follows: “For purposes of this paragraph, the effective period of a sequestration order for fiscal year 1986 is the period beginning on March 1, 1986, and ending on September 30, 1986.”
+Subsec. (d)(2)(C). Pub. L. 101–508, §13101(d)(6), struck out subpar. (C) which read as follows: "For purposes of this paragraph, the effective period of a sequestration order for fiscal year 1986 is the period beginning on March 1, 1986, and ending on September 30, 1986."
 
 Subsec. (e). Pub. L. 101–508, §13101(d)(2), redesignated subsec. (k) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Subsec. (e)(1). Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title".
 
-Subsec. (f). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Subsec. (f). Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title".
 
 Pub. L. 101–508, §13101(d)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (c).
 
-Subsec. (g)(1). Pub. L. 101–509, §529 \[title I, §101(b)(4)(H)\], in closing provisions, inserted “(as increased by any amount payable under section 5304 of title 5 or section 302 of the Federal Employees Pay Comparability Act of 1990)” after “pay system” and substituted “5303” for “5305”.
+Subsec. (g)(1). Pub. L. 101–509, §529 \[title I, §101(b)(4)(H)\], in closing provisions, inserted "(as increased by any amount payable under section 5304 of title 5 or section 302 of the Federal Employees Pay Comparability Act of 1990)" after "pay system" and substituted "5303" for "5305".
 
-Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title".
 
-Subsec. (g)(2)(A). Pub. L. 101–509, §529 \[title I, §101(b)(2)(A)\], substituted “5302(1)” for “5301(c)”.
+Subsec. (g)(2)(A). Pub. L. 101–509, §529 \[title I, §101(b)(2)(A)\], substituted "5302(1)" for "5301(c)".
 
 Subsec. (h). Pub. L. 101–508, §13101(d)(2), redesignated subsec. (b) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(1). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Subsec. (h)(1). Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title".
 
 Subsec. (i). Pub. L. 101–508, §13101(d)(2), redesignated subsec. (h) as (i) and struck out former subsec. (i) which related to treatment of mine worker disability compensation increases as automatic spending increases.
 
-Subsec. (i)(1), (2)(A). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Subsec. (i)(1), (2)(A). Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title".
 
-Subsec. (j). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title” wherever appearing in pars. (2) to (5).
+Subsec. (j). Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title" wherever appearing in pars. (2) to (5).
 
 Subsec. (k). Pub. L. 101–508, §13101(d)(2), added subsec. (k). Former subsec. (k) redesignated (e).
 
 Subsec. (l). Pub. L. 101–508, §13101(d)(2), added subsec. (l) and struck out former subsec. (l) which related to treatment of obligated balances.
 
-<b>1989</b>—Subsec. (b)(4)(C). Pub. L. 101–73, §743(b)(1), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+<b>1989</b>—Subsec. (b)(4)(C). Pub. L. 101–73, §743(b)(1), substituted "Office of Thrift Supervision" for "Federal Home Loan Bank Board".
 
-Subsec. (b)(4)(D). Pub. L. 101–73, §743(b)(2), substituted “Office of Thrift Supervision” for “Federal Savings and Loan Insurance Corporation”.
+Subsec. (b)(4)(D). Pub. L. 101–73, §743(b)(2), substituted "Office of Thrift Supervision" for "Federal Savings and Loan Insurance Corporation".
 
 Subsec. (b)(4)(H), (I). Pub. L. 101–73, §743(b)(3), added subpars. (H) and (I).
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–119, §102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any amount of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority (as defined in section 651(c)(2) of this title), or obligation limitations which is sequestered or reduced pursuant to an order issued under section 902 of this title is permanently cancelled, with the exception of amounts sequestered in special or trust funds, which shall remain in such funds and be available in accordance with and to the extent permitted by law, including the provisions of this Act.”
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–119, §102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Any amount of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority (as defined in section 651(c)(2) of this title), or obligation limitations which is sequestered or reduced pursuant to an order issued under section 902 of this title is permanently cancelled, with the exception of amounts sequestered in special or trust funds, which shall remain in such funds and be available in accordance with and to the extent permitted by law, including the provisions of this Act."
 
 Subsec. (b)(4). Pub. L. 100–86 added par. (4).
 
 Subsec. (b)(4)(G). Pub. L. 100–119, §104(a)(3), added subpar. (G).
 
-Subsec. (d)(1)(B). Pub. L. 100–119, §102(b)(11), inserted “(or such higher percentage as may apply as determined in accordance with section 902(a)(4)(B)(ii) of this title)”.
+Subsec. (d)(1)(B). Pub. L. 100–119, §102(b)(11), inserted "(or such higher percentage as may apply as determined in accordance with section 902(a)(4)(B)(ii) of this title)".
 
-Subsec. (e). Pub. L. 100–119, §104(a)(4), substituted “Notwithstanding any change in the display of budget accounts, any order” for “Any order”.
+Subsec. (e). Pub. L. 100–119, §104(a)(4), substituted "Notwithstanding any change in the display of budget accounts, any order" for "Any order".
 
-Subsec. (l). Pub. L. 100–119, §102(b)(3), amended subsec. (l) generally, striking out provisions which had created an “existing contract” exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
+Subsec. (l). Pub. L. 100–119, §102(b)(3), amended subsec. (l) generally, striking out provisions which had created an "existing contract" exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
 
-<b>1986</b>—Subsec. (h)(2)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (h)(2)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Effective Date of 2013 Amendment
 
@@ -356,9 +356,9 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title III, §351, July 21, 2010, 124 Stat. 1546, provided that: “Except as provided in section 364(a) \[amending section 1438 of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1438 of Title 12\], the amendments made by this subtitle \[subtitle E (§§351–378) of title III of Pub. L. 111–203, see Tables for classification\] shall take effect on the transfer date.”
+Pub. L. 111–203, title III, §351, July 21, 2010, 124 Stat. 1546, provided that: "Except as provided in section 364(a) \[amending section 1438 of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1438 of Title 12\], the amendments made by this subtitle \[subtitle E (§§351–378) of title III of Pub. L. 111–203, see Tables for classification\] shall take effect on the transfer date."
 
-\[For definition of “transfer date” as used in section 351 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
+\[For definition of "transfer date" as used in section 351 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
 #### Effective Date of 1996 Amendment
 

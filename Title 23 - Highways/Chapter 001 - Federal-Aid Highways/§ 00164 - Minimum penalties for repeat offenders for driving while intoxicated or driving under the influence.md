@@ -166,7 +166,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date
 
-Section effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L.105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
+Section effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

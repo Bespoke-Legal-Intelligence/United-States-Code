@@ -30,7 +30,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(VI) section 300d–53 of title 42; or
 
-&emsp;&emsp;&emsp;&emsp;(VII) section 15461 of title 42;
+&emsp;&emsp;&emsp;&emsp;(VII) section 21061 of title 52;
 
 &emsp;&emsp;(B) as such employee, provides civil legal assistance as described in subparagraph (A) on a full-time basis; and
 
@@ -104,7 +104,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (A) Student loan payment amount
 
-&emsp;&emsp;Student loan repayments made by the Secretary under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed upon by theborrower and the Secretary in an agreement under paragraph (1), except that the amount paid by the Secretary under this section shall not exceed—
+&emsp;&emsp;Student loan repayments made by the Secretary under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed upon by the borrower and the Secretary in an agreement under paragraph (1), except that the amount paid by the Secretary under this section shall not exceed—
 
 &emsp;&emsp;&emsp;(i) $6,000 for any borrower in any calendar year; or
 
@@ -156,7 +156,7 @@ There are authorized to be appropriated to carry out this section $10,000,000 fo
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in (b)(1)(A)(ii)(I), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in (b)(1)(A)(ii)(I), is Pub.L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 The Protection and Advocacy for Individuals with Mental Illness Act, referred to in subsec. (b)(1)(A)(ii)(III), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Part A of title I of the Act is classified generally to part A (§10801 et seq.) of subchapter I of chapter 114 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 

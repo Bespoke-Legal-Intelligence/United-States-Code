@@ -10,7 +10,7 @@ General.—Except as otherwise provided in this section, the United States Gover
 
 &emsp;(3) 90 percent for a project at any other airport;
 
-&emsp;(4) 70 percent for a project funded by the Administrator from the discretionary fund under section 47115 at an airport receiving an exemption under section 47134; and
+&emsp;(4) 70 percent for a project funded by the Administrator from the discretionary fund undersection 47115 at an airport receiving an exemption under section 47134; and
 
 &emsp;(5) for fiscal year 2002, 100 percent for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L).<sup>1</sup>
 
@@ -38,7 +38,7 @@ In general.—In the case of any project approved after September 30, 2003, at a
 
 &emsp;(2)
 
-Limitation.—The Government's share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentage Government share applicable to any project in any State under subsection (b).
+Limitation.—The Government's share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentage Government share applicable to any project in any State under subsection (b), except that at a primary non-hub airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of another State as set forth in paragraph (1) of this subsection, the Government's share shall be an average of the Government share applicable to any project in each of the States.
 
 (d)
 
@@ -56,7 +56,7 @@ Special Rule for Economically Distressed Communities.—The Government's share o
 
 &emsp;(2) is located in an area that meets one or more of the criteria established in section 301(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3161(a)), as determined by the Secretary of Commerce.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(4), Nov. 19, 2001, 115 Stat. 629; Pub. L. 108–176, title I, §§162, 163, Dec. 12, 2003, 117 Stat. 2513; Pub. L. 112–95, title I, §137, Feb. 14, 2012, 126 Stat. 24.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(4), Nov. 19, 2001, 115 Stat. 629; Pub. L. 108–176, title I, §§162, 163, Dec. 12, 2003, 117 Stat. 2513; Pub. L. 112–95, title I, §137, Feb. 14, 2012, 126 Stat. 24; Pub. L. 113–235, div. K, title I, §119F, Dec. 16, 2014, 128 Stat. 2704.)
 
 Historical and Revision Notes
 
@@ -86,7 +86,7 @@ Sept. 3, 1982, Pub. L. 97–248, §513(b)(5), 96 Stat. 691; Dec. 30, 1987, Pub. 
 
 In subsection (a), before clause (1), the words "Except as provided in subsections (b) and (c) of this section" are substituted for "Except as otherwise provided in this chapter" because subsections (b) and (c) restate the only parts of the chapter that provide exceptions to the general rule stated in subsection (a). In clauses (1) and (2), the words "for a project" are substituted for "payable on account of any project contained in an approved project grant application submitted in accordance with this chapter" in 49 App.:2209(a) and "payable on account of any project contained in an approved project grant application" in 49 App.:2209(b) for consistency in this chapter and to eliminate unnecessary words. A project cost is allowable only if it is incurred under a grant agreement made under the chapter, and a grant agreement may be made only if the project grant application is approved. In clause (1), the words "number of passenger boardings" are substituted for "enplaning . . . of the . . . passengers enplaned" because of the definition of "passenger boardings" in section 47102 of the revised title.
 
-In subsection (b), the words "If, under subsection (a) of this section, the Government's share of allowable costs . . . is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970" and "(3) the percentage necessary to increase the Government's share to the percentage that applied on June 30, 1975, under section 17(b) of the Act" are substituted for 49 App.:2209(c) (last sentence) for clarity. The words "of the total of all lands therein" are omitted as surplus.
+In subsection (b), the words "If, under subsection (a) of this section, the Government's share of allowable costs . . . is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970" and "(3) the percentage necessary toincrease the Government's share to the percentage that applied on June 30, 1975, under section 17(b) of the Act" are substituted for 49 App.:2209(c) (last sentence) for clarity. The words "of the total of all lands therein" are omitted as surplus.
 
 In subsection (c), the words "Notwithstanding subsections (a) and (b) of this section" are substituted for "Notwithstanding any other provision of this chapter" because subsections (a) and (b) are the only other parts of the chapter that specify the United States Government's share of allowable project costs.
 
@@ -97,6 +97,8 @@ Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (a)(5), w
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–235 inserted before period at end ", except that at a primary non-hub airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of another State as set forth in paragraph (1) of this subsection, the Government's share shall be an average of the Government share applicable to any project in each of the States".
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–95, §137(1), substituted "otherwise provided in this section" for "provided in subsection (b) or subsection (c) of this section" in introductory provisions.
 

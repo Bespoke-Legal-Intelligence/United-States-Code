@@ -2,13 +2,13 @@
 
 #### (a) Establishment of Office
 
-There is established in the United States Capitol Police the Office of the Inspector General (hereafter in this section referred to as the “Office”), headed by the Inspector General of the United States Capitol Police (hereafter in this section referred to as the “Inspector General”).
+There is established in the United States Capitol Police the Office of the Inspector General (hereafter in this section referred to as the "Office"), headed by the Inspector General of the United States Capitol Police (hereafter in this section referred to as the "Inspector General").
 
 #### (b) Inspector General
 
 #### (1) Appointment
 
-&emsp;The Inspector General shall be appointed by, and under the general supervision of, the Capitol Police Board. The appointment shall be made in consultation with the Inspectors General of the Library of Congress, Government Printing Office, and the Government Accountability Office. The Capitol Police Board shall appoint the Inspector General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
+&emsp;The Inspector General shall be appointed by, and under the general supervision of, the Capitol Police Board. The appointment shall be made in consultation with the Inspectors General of the Library of Congress, Government Publishing Office, and the Government Accountability Office. The Capitol Police Board shall appoint the Inspector General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
 
 #### (2) Term of service
 
@@ -16,7 +16,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (3) Removal
 
-&emsp;The Inspector General may be removed from office prior to the expiration of his term onlyby the unanimous vote of all of the voting members of the Capitol Police Board, and the Board shall communicate the reasons for any such removal to the Committee on House Administration, the Senate Committee on Rules and Administration and the Committees on Appropriations of the House of Representatives and of the Senate.
+&emsp;The Inspector General may be removed from office prior to the expiration of his term only by the unanimous vote of all of the voting members of the Capitol Police Board, and the Board shall communicate the reasons for any such removal to the Committee on House Administration, the Senate Committee on Rules and Administration and the Committees on Appropriations of the House of Representatives and of the Senate.
 
 #### (4) Salary
 
@@ -64,7 +64,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (A) In general
 
-&emsp;&emsp;The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4) of this section.
+&emsp;&emsp;The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4).
 
 #### (B) Experts and consultants
 
@@ -72,7 +72,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (C) Independence in appointing staff
 
-&emsp;&emsp;No individual may carry out any of the duties or responsibilities of the Office unless the individual is appointed by the Inspector General, or provides services procured by theInspector General, pursuant to this paragraph. Nothing in this subparagraph may be construed to prohibit the Inspector General from entering into a contract or other arrangement for the provision of services under this section.
+&emsp;&emsp;No individual may carry out any of the duties or responsibilities of the Office unless the individual is appointed by the Inspector General, or provides services procured by the Inspector General, pursuant to this paragraph. Nothing in this subparagraph may be construed to prohibit the Inspector General from entering into a contract or other arrangement for the provision of services under this section.
 
 #### (D) Applicability of Capitol Police personnel rules
 
@@ -90,13 +90,13 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (2) No reduction in pay or benefits
 
-&emsp;The transfer of the functions of an office or entity to the Office under paragraph (1) may not result in a reduction in the pay or benefits of any employee of the office or entity, except to the extent required under subsection (d)(2)(A) of this section.
+&emsp;The transfer of the functions of an office or entity to the Office under paragraph (1) may not result in a reduction in the pay or benefits of any employee of the office or entity, except to the extent required under subsection (d)(2)(A).
 
 #### (f) Effective date
 
 This section shall be effective on August 2, 2005.
 
-(Pub. L. 109–55, title I, §1004, Aug. 2, 2005, 119 Stat. 572.)
+(Pub. L. 109–55, title I, §1004, Aug. 2, 2005, 119 Stat. 572; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
@@ -109,4 +109,8 @@ The provisions of title 5 regarding appointments in the competitive service, ref
 Section is comprised of section 1004 of Pub. L. 109–55. Subsec. (g) of section 1004 of Pub. L. 109–55 amended section 1903 of this title.
 
 Section is from the Legislative Branch Appropriations Act, 2006.
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (b)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 

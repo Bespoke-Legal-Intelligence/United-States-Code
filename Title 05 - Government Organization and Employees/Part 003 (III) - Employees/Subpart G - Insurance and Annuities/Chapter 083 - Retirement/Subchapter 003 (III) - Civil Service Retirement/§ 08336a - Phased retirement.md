@@ -2,33 +2,33 @@
 
 (a) For the purposes of this section—
 
-&emsp;(1) the term “composite retirement annuity” means the annuity computed when a phased retiree attains full retirement status;
+&emsp;(1) the term "composite retirement annuity" means the annuity computed when a phased retiree attains full retirement status;
 
-&emsp;(2) the term “full retirement status” means that a phased retiree has ceased employment and is entitled, upon application, to a composite retirement annuity;
+&emsp;(2) the term "full retirement status" means that a phased retiree has ceased employment and is entitled, upon application, to a composite retirement annuity;
 
-&emsp;(3) the term “phased employment” means the less-than-full-time employment of a phased retiree;
+&emsp;(3) the term "phased employment" means the less-than-full-time employment of a phased retiree;
 
-&emsp;(4) the term “phased retiree” means a retirement-eligible employee who—
+&emsp;(4) the term "phased retiree" means a retirement-eligible employee who—
 
 &emsp;&emsp;(A) makes an election under subsection (b); and
 
 &emsp;&emsp;(B) has not entered full retirement status;
 
-&emsp;(5) the term “phased retirement annuity” means the annuity payable under this section before full retirement;
+&emsp;(5) the term "phased retirement annuity" means the annuity payable under this section before full retirement;
 
-&emsp;(6) the term “phased retirement percentage” means the percentage which, when added to the working percentage for a phased retiree, produces a sum of 100 percent;
+&emsp;(6) the term "phased retirement percentage" means the percentage which, when added to the working percentage for a phased retiree, produces a sum of 100 percent;
 
-&emsp;(7) the term “phased retirement period” means the period beginning on the date on which an individual becomes entitled to receive a phased retirement annuity and ending on the date on which the individual dies or separates from phased employment;
+&emsp;(7) the term "phased retirement period" means the period beginning on the date on which an individual becomes entitled to receive a phased retirement annuity and ending on the date on which the individual dies or separates from phased employment;
 
-&emsp;(8) the term “phased retirement status” means that a phased retiree is concurrently employed in phased employment and eligible to receive a phased retirement annuity;
+&emsp;(8) the term "phased retirement status" means that a phased retiree is concurrently employed in phased employment and eligible to receive a phased retirement annuity;
 
-&emsp;(9) the term “retirement-eligible employee”—
+&emsp;(9) the term "retirement-eligible employee"—
 
 &emsp;&emsp;(A) means an individual who, if the individual separated from the service, would meet the requirements for retirement under subsection (a) or (b) of section 8336; but
 
 &emsp;&emsp;(B) does not include an employee described in section 8335 after the date on which the employee is required to be separated from the service by reason of such section; and
 
-&emsp;(10) the term “working percentage” means the percentage of full-time employment equal to the quotient obtained by dividing—
+&emsp;(10) the term "working percentage" means the percentage of full-time employment equal to the quotient obtained by dividing—
 
 &emsp;&emsp;(A) the number of hours per pay period to be worked by a phased retiree, as scheduled in accordance with subsection (b)(2); by
 
@@ -132,5 +132,5 @@
 
 #### Effective Date
 
-Section effective on the effective date of the implementing regulations issued by the Director of the Office of Personnel Management, see section 100121(d) of Pub. L. 112–141, set out as an Effective Date of 2012 Amendment note under section 8331 of this title.
+Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, set out as an Effective Date of 2012 Amendment note under section 8331 of this title.
 

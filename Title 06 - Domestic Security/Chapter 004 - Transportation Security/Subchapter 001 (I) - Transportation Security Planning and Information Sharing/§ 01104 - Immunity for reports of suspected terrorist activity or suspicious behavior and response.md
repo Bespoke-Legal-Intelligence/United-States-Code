@@ -30,7 +30,7 @@ In this section:
 
 #### (1) Authorized official
 
-&emsp;The term “authorized official” means—
+&emsp;The term "authorized official" means—
 
 &emsp;&emsp;(A) any employee or agent of a passenger transportation system or other person with responsibilities relating to the security of such systems;
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (2) Covered activity
 
-&emsp;The term “covered activity” means any suspicious transaction, activity, or occurrence that involves, or is directed against, a passenger transportation system or vehicle or its passengers indicating that an individual may be engaging, or preparing to engage, in a violation of law relating to—
+&emsp;The term "covered activity" means any suspicious transaction, activity, or occurrence that involves, or is directed against, a passenger transportation system or vehicle or its passengers indicating that an individual may be engaging, or preparing to engage, in a violation of law relating to—
 
 &emsp;&emsp;(A) a threat to a passenger transportation system or passenger safety or security; or
 
@@ -48,7 +48,7 @@ In this section:
 
 #### (3) Passenger transportation
 
-&emsp;The term “passenger transportation” means—
+&emsp;The term "passenger transportation" means—
 
 &emsp;&emsp;(A) public transportation, as defined in section 5302 of title 49;
 
@@ -64,11 +64,11 @@ In this section:
 
 #### (4) Passenger transportation system
 
-&emsp;The term “passenger transportation system” means an entity or entities organized to provide passenger transportation using vehicles, including the infrastructure used to provide such transportation.
+&emsp;The term "passenger transportation system" means an entity or entities organized to provide passenger transportation using vehicles, including the infrastructure used to provide such transportation.
 
 #### (5) Vehicle
 
-&emsp;The term “vehicle” has the meaning given to that term in section 1992(16) <sup>3</sup> of title 18.
+&emsp;The term "vehicle" has the meaning given to that term in section 1992(16) <sup>3</sup> of title 18.
 
 #### (e) Effective date
 
@@ -78,11 +78,11 @@ This section shall take effect on October 1, 2006, and shall apply to all activi
 
 #### References in Text
 
-Subchapter IV, referred to in subsec. (d)(3)(B), was in the original “title XV of this Act”, meaning title XV of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 422, which is classified principally to subchapter IV (§1151 et seq.) of this chapter. For complete classification of title XV to the Code, see References in Text note set out under section 1151 of this title and Tables.
+Subchapter IV, referred to in subsec. (d)(3)(B), was in the original "title XV of this Act", meaning title XV of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 422, which is classified principally to subchapter IV (§1151 et seq.) of this chapter. For complete classification of title XV to the Code, see References in Text note set out under section 1151 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “intercity rail passenger”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "intercity rail passenger".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be section “1992(d)(16)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be section "1992(d)(16)".</i>
 

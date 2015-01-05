@@ -2,7 +2,7 @@
 
 #### (a) Creation and support of Centers; affiliations; merit review in determining awards; objectives
 
-The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the "Centers"). Such centers <sup>1</sup> shall be affiliated with any United States-based nonprofit institution or organization, or groupthereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the "Centers"). Such centers <sup>1</sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
 
 &emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
@@ -48,13 +48,13 @@ The activities of the Centers shall include—
 
 (B) In order to receive assistance under this section, an applicant for financial assistance under subparagraph (A) shall provide adequate assurances that non-Federal assets obtained from the applicant and the applicant's partnering organizations will be used as a funding source to meet not less than 50 percent of the costs incurred for the first 3 years and an increasing share for each of the last 3 years. For purposes of the preceding sentence, the costs incurred means the costs incurred in connection with the activities undertaken to improve the management, productivity, and technological performance of small- and medium-sized manufacturing companies.
 
-(C) In meeting the 50 percent requirement, it is anticipated that a Center will enter into agreements with other entities such as private industry, universities, and State governments to accomplish programmatic objectives and access new and existing resources that will further the impact of the Federal investment made on behalf of small- and medium-sized manufacturing companies. All non-Federal costs,<sup>2</sup> contributed by such entities and determined by a Center as programmatically reasonable and allocable under MEP program procedures are includable as a portion of the Center's contribution.
+(C) In meeting the 50 percent requirement, it is anticipated that a Center will enter into agreements with other entities such as privateindustry, universities, and State governments to accomplish programmatic objectives and access new and existing resources that will further the impact of the Federal investment made on behalf of small- and medium-sized manufacturing companies. All non-Federal costs,<sup>2</sup> contributed by such entities and determined by a Center as programmatically reasonable and allocable under MEP program procedures are includable as a portion of the Center's contribution.
 
 (D) Each applicant under subparagraph (A) shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center's activities.
 
 (4) The Secretary shall subject each such application to merit review. In making a decision whether to approve such application and provide financial support under this subsection, the Secretary shall consider at a minimum (A) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors, (B) the quality of service to be provided, (C) geographical diversity and extent of service area, and (D) the percentage of funding and amount of in-kind commitment from other sources.
 
-(5) Each Center which receives financial assistance under this section shall be evaluated during its third year of operation by an evaluation panel appointed by the Secretary. Eachsuch evaluation panel shall be composed of private experts, none of whom shall be connected with the involved Center, and Federal officials. An official of the Institute shall chair the panel. Each evaluation panel shall measure the involved Center's performance against the objectives specified in this section. The Secretary shall not provide funding for the fourth through the sixth years of such Center's operation unless the evaluation is positive. If the evaluation is positive, the Secretary may provide continued funding through the sixth year at declining levels. A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.
+(5) Each Center which receives financial assistance under this section shall be evaluated during its third year of operation by an evaluation panel appointed by the Secretary. Each such evaluation panel shall be composed of private experts, none of whom shall be connected with the involved Center, and Federal officials. An official of the Institute shall chair the panel. Each evaluation panel shall measure the involved Center's performance against the objectives specified in this section. The Secretary shall not provide funding for the fourth through the sixth years of such Center's operation unless the evaluation is positive. If the evaluation is positive, the Secretary may provide continued funding through the sixth year at declining levels. A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.
 
 (6) The provisions of chapter 18 of title 35 shall (to the extent not inconsistent with this section) apply to the promotion of technology from research by Centers under this section except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director.
 
@@ -92,7 +92,7 @@ The activities of the Centers shall include—
 
 #### (A) In general
 
-&emsp;&emsp;The MEP Advisory Board shall consist of 10 members broadly representative of stakeholders, to be appointed by the Director. At least 2 members shall be employed by or on an advisory board for the Centers, and at least 5 other members shall be from United States small businesses in the manufacturing sector. No member shall be an employee of the Federal Government.
+&emsp;&emsp;The MEP Advisory Board shall consist of 10 members broadly representative of stakeholders, to be appointed by the Director. At least 2 members shall be employed by or on an advisory board for the Centers, and at least 5 other members shall be from UnitedStates small businesses in the manufacturing sector. No member shall be an employee of the Federal Government.
 
 #### (B) Term
 
@@ -190,7 +190,7 @@ The activities of the Centers shall include—
 
 &emsp;&emsp;(A) take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace; and
 
-&emsp;&emsp;(B) give a preference to applications for such projects to the extent the Directordeems appropriate, taking into account the broader purposes of this subsection.
+&emsp;&emsp;(B) give a preference to applications for such projects to the extent the Director deems appropriate, taking into account the broader purposes of this subsection.
 
 #### (7) <sup>3</sup> Duration
 
@@ -254,7 +254,7 @@ The Director shall—
 
 &emsp;(3) facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to such obstacles.
 
-(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042.)
+(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240,title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042.)
 
 #### References in Text
 
@@ -274,7 +274,7 @@ Subsec. (f)(3). Pub. L. 111–358, §703(a), substituted "to add capabilities to
 
 Pub. L. 111–358, §404(i), substituted "Director of the Hollings MEP program," for "Director of the Centers program,".
 
-Subsec. (f)(5). Pub. L. 111–358, §703(b), amended par. (5) generally. Prior to amendment, text read as follows:"Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
+Subsec. (f)(5). Pub. L. 111–358, §703(b), amended par. (5) generally. Prior to amendment, text read as follows: "Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
 
 &emsp;"(A) that utilize innovative or collaborative approaches to solving the problem described in the competition;
 
@@ -324,7 +324,7 @@ Pub. L. 111–358, title VII, §702, Jan. 4, 2011, 124 Stat. 4041, provided that
 
 &emsp;"(1) Over its 20-year existence, the Hollings Manufacturing Extension Partnership has proven its value to manufacturers as demonstrated by the resulting impact on jobs and the economies of all 50 States and the Nation as a whole.
 
-&emsp;"(2) The Hollings Manufacturing Extension Partnership has helped thousands of companies reinvest in themselves through process improvement and business growth initiatives leading to more sales, new markets, and the adoption of technology to deliver new products and services.
+&emsp;"(2) The Hollings Manufacturing Extension Partnership has helped thousands of companies reinvestin themselves through process improvement and business growth initiatives leading to more sales, new markets, and the adoption of technology to deliver new products and services.
 
 &emsp;"(3) Manufacturing is an increasingly important part of the construction sector as the industry moves to the use of more components and factory built sub-assemblies.
 

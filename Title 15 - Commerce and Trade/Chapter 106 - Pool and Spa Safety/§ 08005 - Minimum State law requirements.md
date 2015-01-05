@@ -8,29 +8,19 @@
 
 &emsp;&emsp;(A) the State requires by statute—
 
-&emsp;&emsp;&emsp;(i) the enclosure of all outdoor residential pools and spas by barriers to entry that will effectively prevent small children from gaining unsupervised and unfettered access to the pool or spa;
+&emsp;&emsp;&emsp;(i) the enclosure of all outdoor residential pools and spas by barriers to entry that will effectively prevent small children from gaining unsupervised and unfettered access to the pool or spa; and
 
-&emsp;&emsp;&emsp;(ii) that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;
-
-&emsp;&emsp;&emsp;(iii) that pools and spas built more than 1 year after the date of the enactment of such statute have—
+&emsp;&emsp;&emsp;(ii) that pools and spas built more than 1 year after the date of the enactment of such statute have—
 
 &emsp;&emsp;&emsp;&emsp;(I) more than 1 drain;
 
 &emsp;&emsp;&emsp;&emsp;(II) 1 or more unblockable drains; or
 
-&emsp;&emsp;&emsp;&emsp;(III) no main drain;
-
-&emsp;&emsp;&emsp;(iv) <sup>1</sup> every swimming pool and spa that has a main drain, other than an unblockable drain, be equipped with a drain cover that meets the consumer product safety standard established by section 8003 of this title; and
-
-&emsp;&emsp;&emsp;(v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and
+&emsp;&emsp;&emsp;&emsp;(III) no main drain; and
 
 &emsp;&emsp;(B) the State meets such additional State law requirements for pools and spas as the Commission may establish after public notice and a 30-day public comment period.
 
-#### (2) No liability inference associated with State notification requirement
-
-&emsp;The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement.
-
-#### (3) Use of minimum State law requirements
+#### (2) Use of minimum State law requirements
 
 &emsp;The Commission—
 
@@ -38,9 +28,9 @@
 
 &emsp;&emsp;(B) may not enforce any requirement under paragraph (1) except for the purpose of determining the eligibility of a State for a grant under section 8004 of this title.
 
-#### (4) Requirements to reflect national performance standards and Commission guidelines
+#### (3) Requirements to reflect national performance standards and Commission guidelines
 
-&emsp;In establishing minimum State law requirements under paragraph (1), the Commission shall—
+&emsp;In establishing minimum State law requirements under paragraph (1)(B), the Commission shall—
 
 &emsp;&emsp;(A) consider current or revised national performance standards on pool and spa barrier protection and entrapment prevention; and
 
@@ -74,7 +64,7 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 #### (1) In general
 
-&emsp;In establishing additional minimum State law requirements for swimming pools and spas under subsection (a)(1), the Commission shall require, at a minimum, 1 or more of the following (except for pools constructed without a single main drain):
+&emsp;In establishing additional minimum State law requirements for swimming pools and spasunder subsection (a)(1), the Commission shall require, at a minimum, 1 or more of the following (except for pools constructed without a single main drain):
 
 #### (A) Safety vacuum release system
 
@@ -104,7 +94,17 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 &emsp;Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
 
-(Pub. L. 110–140, title XIV, §1406, Dec. 19, 2007, 121 Stat. 1797.)
+(Pub. L. 110–140, title XIV, §1406, Dec. 19, 2007, 121 Stat. 1797; Pub. L. 113–76, div. E, title V, §501(2), Jan. 17, 2014, 128 Stat. 209.)
 
-<i><sup>1</sup></i><i> So in original. The word "that" probably should appear after "(iv)".</i>
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(1)(A). Pub. L. 113–76, §501(2)(A), inserted "and" at end of cl. (i), redesignated cl. (iii) as (ii) and inserted "and" at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
+
+"(ii) that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;
+
+"(iv) every swimming pool and spa that has a main drain, other than an unblockable drain, be equipped with a drain cover that meets the consumer product safety standard established by section 8003 of this title; and
+
+"(v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and".
+
+Subsec. (a)(2) to (4). Pub. L. 113–76, §501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted "paragraph (1)(B)" for "paragraph (1)" in introductory provisions of par. (3), and struck out former par. (2) which read as follows: "The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement."
 

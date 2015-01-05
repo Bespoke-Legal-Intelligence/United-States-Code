@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) reduce conflicts of interest between the self-interest of banking entities and nonbank financial companies supervised by the Board, and the interests of the customers of such entities and companies;
 
-&emsp;&emsp;(E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expectedto create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
+&emsp;&emsp;(E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expected to create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
 
 &emsp;&emsp;(F) appropriately accommodate the business of insurance within an insurance company, subject to regulation in accordance with the relevant insurance company investment laws, while protecting the safety and soundness of any banking entity with which such insurance company is affiliated and of the United States financial system; and
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) not later than 1 year after the date of establishment of the fund, be reduced through redemption, sale, or dilution to an amount that is not more than 3 percent of the total ownership interests of the fund;
 
-&emsp;&emsp;&emsp;&emsp;(II) be immaterial to the banking entity, as defined, by rule, pursuant to subsection (b)(2), but in no case may the aggregate of all of the interests of thebanking entity in all such funds exceed 3 percent of the Tier 1 capital of the banking entity.
+&emsp;&emsp;&emsp;&emsp;(II) be immaterial to the banking entity, as defined, by rule, pursuant to subsection (b)(2), but in no case may the aggregate of all of the interests of the banking entity in all such funds exceed 3 percent of the Tier 1 capital of the banking entity.
 
 #### (iii) Capital
 
@@ -200,7 +200,7 @@
 
 #### (C) Extension
 
-&emsp;&emsp;Upon an application by a banking entity, the Board may extend the period of time to meet the requirements under subparagraph (B)(ii)(I) for 2 additional years, if the Board finds that an extension would be consistent with safety and soundness and in the public interest.
+&emsp;&emsp;Upon an application by a banking entity, the Board may extend the period of time tomeet the requirements under subparagraph (B)(ii)(I) for 2 additional years, if the Board finds that an extension would be consistent with safety and soundness and in the public interest.
 
 #### (e) Anti-evasion
 
@@ -310,7 +310,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) as of May 1, 2010, was principally invested in, or was invested and contractually committed to principally invest in, illiquid assets, such as portfolio companies, real estate investments, and venture capital investments; and
 
-&emsp;&emsp;&emsp;(ii) makes all investments pursuant to, and consistent with, an investment strategy to principally invest in illiquid assets.In issuing rules regarding this subparagraph, the Board shall take into consideration the terms of investment for the hedge fund or private equity fund, including contractual obligations, the ability of the fund to divest of assets held by the fund, and any other factors that the Board determines are appropriate.
+&emsp;&emsp;&emsp;(ii) makes all investments pursuant to, and consistent with, an investment strategy to principally invest in illiquid assets. In issuing rules regarding this subparagraph, the Board shall take into consideration the terms of investment for the hedge fund or private equity fund, including contractual obligations, the ability of the fund to divest of assets held by the fund, and any other factors that the Board determines are appropriate.
 
 #### (B) Hedge fund
 

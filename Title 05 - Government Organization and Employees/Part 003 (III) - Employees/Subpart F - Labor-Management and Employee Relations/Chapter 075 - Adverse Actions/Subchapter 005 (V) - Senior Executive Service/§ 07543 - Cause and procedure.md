@@ -4,7 +4,7 @@
 
 (b) An employee against whom an action covered by this subchapter is proposed is entitled to—
 
-&emsp;(1) at least 30 days’ advance written notice, unless there is reasonable cause to believe that the employee has committed a crime for which a sentence of imprisonment can be imposed, stating specific reasons for the proposed action;
+&emsp;(1) at least 30 days' advance written notice, unless there is reasonable cause to believe that the employee has committed a crime for which a sentence of imprisonment can be imposed, stating specific reasons for the proposed action;
 
 &emsp;(2) a reasonable time, but not less than 7 days, to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer;
 
@@ -16,7 +16,7 @@
 
 (d) An employee against whom an action is taken under this section is entitled to appeal to the Merit Systems Protection Board under section 7701 of this title.
 
-(e) Copies of the notice of proposed action, the answer of the employee when written, and a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnishedto the Merit Systems Protection Board upon its request and to the employee affected upon the employee's request.
+(e) Copies of the notice of proposed action, the answer of the employee when written, and a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnished to the Merit Systems Protection Board upon its request and to the employee affected upon the employee's request.
 
 (Added Pub. L. 95–454, title IV, §411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, §1704(d)(2), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, §304(c), Nov. 8, 1984, 98 Stat. 3219.)
 
@@ -24,7 +24,7 @@
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–615 inserted reference to failure to accept a directed reassignment or to accompany a position in a transfer of function.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted “misconduct, neglect of duty, or malfeasance” for “such cause as will promote the efficiency of the service”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted "misconduct, neglect of duty, or malfeasance" for "such cause as will promote the efficiency of the service".
 
 #### Effective Date of 1984 Amendment
 

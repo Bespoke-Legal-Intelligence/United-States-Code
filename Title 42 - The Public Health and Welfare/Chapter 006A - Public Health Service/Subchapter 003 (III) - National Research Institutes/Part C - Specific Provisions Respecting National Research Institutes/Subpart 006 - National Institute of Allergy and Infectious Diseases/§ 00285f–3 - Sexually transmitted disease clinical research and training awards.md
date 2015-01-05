@@ -6,7 +6,7 @@ The Director of the Institute is authorized to establish and maintain a program 
 
 #### (b) Support of promising clinicians
 
-In order to foster the application of the most current developments in the etiology, pathogenesis, diagnosis, prevention and treatment of sexually transmitted diseases, amounts made available under this section shall be directed to the support of promising clinicians throughawards for research, study, and practice at centers of excellence in sexually transmitted disease research and treatment.
+In order to foster the application of the most current developments in the etiology, pathogenesis, diagnosis, prevention and treatment of sexually transmitted diseases, amounts made available under this section shall be directed to the support of promising clinicians through awards for research, study, and practice at centers of excellence in sexually transmitted disease research and treatment.
 
 #### (c) Excellence in certain fields
 

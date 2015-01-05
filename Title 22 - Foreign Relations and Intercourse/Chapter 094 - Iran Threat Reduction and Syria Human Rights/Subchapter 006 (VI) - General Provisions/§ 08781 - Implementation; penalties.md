@@ -28,7 +28,7 @@ The President may exercise all authorities provided under sections 1702 and 1704
 
 #### References in Text
 
-Section 312, referred to in subsec. (a)(1), is section 312 of Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1249. Subsec.\(a) of section 312 is not classified to the Code. Subsecs. (b) and (c) of section 312 amended section 8513 of this title. Subsec. (d) of section 312 enacted provisions set out as a note under section 8513 of this title.
+Section 312, referred to in subsec. (a)(1), is section 312 of Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1249. Subsec. (a) of section 312 is not classified to the Code. Subsecs. (b) and (c) of section 312 amended section 8513 of this title. Subsec. (d) of section 312 enacted provisions set out as a note under section 8513 of this title.
 
 Section 8513b of this title, as added by section 312, referred to in subsec. (a)(2), was in the original "section 104A of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, as added by section 312" and was translated as meaning section 104A of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, as added by section 216(a) of Pub. L. 112–158, to reflect the probable intent of Congress. For classification of section 312 of Pub. L. 112–158, see above.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Attorney General and the Secretary of State are authorized to establish a program (hereinafter in this section referred to as the “program”) under which the requirement of paragraph (7)(B)(i)(II) of section 1182(a) of this title may be waived by the Attorney General, in consultation with the Secretary of State and in accordance with this section, in the case of an alien who meets the following requirements:
+The Attorney General and the Secretary of State are authorized to establish a program (hereinafter in this section referred to as the "program") under which the requirement of paragraph (7)(B)(i)(II) of section 1182(a) of this title may be waived by the Attorney General, in consultation with the Secretary of State and in accordance with this section, in the case of an alien who meets the following requirements:
 
 #### (1) Seeking entry as tourist for 90 days or less
 
@@ -122,7 +122,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (E) Repatriation of aliens
 
-&emsp;&emsp;The government of the country accepts for repatriation any citizen, former citizen, or national of the country against whom a final executable order of removal is issued not later than three weeks after the issuance ofthe final order of removal. Nothing in this subparagraph creates any duty for the United States or any right for any alien with respect to removal or release. Nothing in this subparagraph gives rise to any cause of action or claim under this paragraph or any other law against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
+&emsp;&emsp;The government of the country accepts for repatriation any citizen, former citizen, or national of the country against whom a final executable order of removal is issued not later than three weeks after the issuance of the final order of removal. Nothing in this subparagraph creates any duty for the United States or any right for any alien with respect to removal or release. Nothing in this subparagraph gives rise to any cause of action or claim under this paragraph or any other law against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
 
 #### (F) Passenger information exchange
 
@@ -144,7 +144,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (B) New countries
 
-&emsp;&emsp;In the case of another country, the country may not be designated as a program country unless the following requirements are met:
+&emsp;&emsp;In the case of another country, the country may not be designated as a programcountry unless the following requirements are met:
 
 #### (i) Low nonimmigrant visa refusal rate in previous 2-year period
 
@@ -156,7 +156,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (4) Initial period
 
-&emsp;For purposes of paragraphs (2) and (3), the term “initial period” means the period beginning at the end of the 30-day period described in subsection (b)(1) of this section and ending on the last day of the first fiscal year which begins after such 30-day period.
+&emsp;For purposes of paragraphs (2) and (3), the term "initial period" means the period beginning at the end of the 30-day period described in subsection (b)(1) of this section and ending on the last day of the first fiscal year which begins after such 30-day period.
 
 #### (5) Written reports on continuing qualification; designation terminations
 
@@ -190,7 +190,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Definition
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “emergency” means—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "emergency" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) the overthrow of a democratically elected government;
 
@@ -210,7 +210,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(II) the emergency that caused the termination has ended; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationals of that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
+&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationalsof that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
 
 #### (iv) Program suspension authority
 
@@ -252,7 +252,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(iv) the total number of such nationals who were refused United States visas during the previous calendar year under each provision of this chapter under which the visas were refused; and
 
-&emsp;&emsp;&emsp;(v) the number of such nationals that were refused under section 1184(b) of thistitle as a percentage of the visas that were issued to such nationals.
+&emsp;&emsp;&emsp;(v) the number of such nationals that were refused under section 1184(b) of this title as a percentage of the visas that were issued to such nationals.
 
 #### (C) Certification
 
@@ -264,7 +264,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (E) Definition
 
-&emsp;&emsp;In this paragraph, the term “appropriate congressional committees” means the Committee on the Judiciary and the Committee on Foreign Relations of the Senate and the Committee on the Judiciary and the Committee on International Relations of the House of Representatives.
+&emsp;&emsp;In this paragraph, the term "appropriate congressional committees" means the Committee on the Judiciary and the Committee on Foreign Relations of the Senate and the Committee on the Judiciary and the Committee on International Relations of the House of Representatives.
 
 #### (8) Nonimmigrant visa refusal rate flexibility
 
@@ -310,7 +310,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Visa overstay rate defined
 
-&emsp;&emsp;&emsp;In this paragraph the term “visa overstay rate” means, with respect to a country, the ratio of—
+&emsp;&emsp;&emsp;In this paragraph the term "visa overstay rate" means, with respect to a country, the ratio of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the total number of nationals of that country who were admitted to the United States on the basis of a nonimmigrant visa whose periods of authorized stays ended during a fiscal year but who remained unlawfully in the United States beyond such periods; to
 
@@ -330,11 +330,11 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;(C) the standards of passports and travel documents issued by the country; and
 
-&emsp;&emsp;(D) other security-related factors, including the country's cooperation with the United States’ initiatives toward combating terrorism and the country's cooperation with the United States intelligence community in sharing information regarding terrorist threats.
+&emsp;&emsp;(D) other security-related factors, including the country's cooperation with the United States' initiatives toward combating terrorism and the country's cooperation with the United States intelligence community in sharing information regarding terrorist threats.
 
 #### (10) Technical assistance
 
-&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall provide technical assistance to program countries to assist those countries in meeting the requirements under this section. The Secretary of Homeland Security shall ensure that the program office within the Department of Homeland Security is adequately staffed and has resources to be able to provide such technical assistance, in addition to its duties to effectively monitor compliance of the countries participating in the program with all the requirements of the program.
+&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall provide technical assistance to program countries to assist those countries in meeting the requirements under this section. The Secretary of Homeland Security shall ensure that the program office within the Department of Homeland Security is adequately staffed and has resources to be able to provide such technical assistance, in addition to its duties to effectively monitor compliance of the countriesparticipating in the program with all the requirements of the program.
 
 #### (11) Independent review
 
@@ -380,7 +380,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (2) Termination of agreements
 
-&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
+&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days' notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
 
 #### (3) Business aircraft requirements
 
@@ -390,7 +390,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (B) Collections
 
-&emsp;&emsp;In addition to any other fee authorized by law, the Attorney General is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title.
+&emsp;&emsp;In addition to any other fee authorized by law, the Attorney General is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the totalamount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title.
 
 #### (f) Duration and termination of designation
 
@@ -422,9 +422,9 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 &emsp;Paragraph (1)(C) shall not apply unless the total number of nationals of a program country described in paragraph (4)(A) exceeds 100.
 
-#### (4) “Disqualification rate” defined
+#### (4) "Disqualification rate" defined
 
-&emsp;For purposes of this subsection, the term “disqualification rate” means the percentage which—
+&emsp;For purposes of this subsection, the term "disqualification rate" means the percentage which—
 
 &emsp;&emsp;(A) the total number of nationals of the program country who were—
 
@@ -460,7 +460,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (ii) Data provision by carriers
 
-&emsp;&emsp;&emsp;Not later than October 1, 2002, no waiver may be provided under this section to an alien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Attorney General to be sufficient to permit the Attorney General to carry out this paragraph.
+&emsp;&emsp;&emsp;Not later than October 1, 2002, no waiver may be provided under this section to analien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Attorney General to be sufficient to permit the Attorney General to carry out this paragraph.
 
 #### (iii) Calculation
 
@@ -518,7 +518,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (A) System
 
-&emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic travel authorization system (referred to in this paragraph as the “System”) to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk in permitting, the <sup>4</sup> alien to travel to the United States.
+&emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic travel authorization system (referred to in this paragraph as the "System") to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk in permitting, the <sup>4</sup> alien to travel to the United States.
 
 #### (B) Fees
 
@@ -532,11 +532,11 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (ii) Disposition of amounts collected
 
-&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
+&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel PromotionFund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
 
 #### (iii) Sunset of Travel Promotion Fund fee
 
-&emsp;&emsp;&emsp;The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2015.
+&emsp;&emsp;&emsp;The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2020.
 
 #### (C) Validity
 
@@ -602,39 +602,41 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;(B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(e), Mar. 4, 2010, 124 Stat. 62; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(3)(B). Pub. L. 111–145 amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary of Homeland Security may charge a fee for the use of the System, which shall be—
+<b>2014</b>—Subsec. (h)(3)(B)(iii). Pub. L. 113–235, §605(b), substituted "September 30, 2020" for "September 30, 2015".
 
-&emsp;“(i) set at a level that will ensure recovery of the full costs of providing and administering the System; and
+<b>2010</b>—Subsec. (h)(3)(B). Pub. L. 111–145, §9(h), formerly §9(e), as renumbered by Pub. L. 113–235, §606(1), amended subpar. (B) generally. Prior to amendment, text read as follows: "The Secretary of Homeland Security may charge a fee for the use of the System, which shall be—
 
-&emsp;“(ii) available to pay the costs incurred to administer the System.”
+&emsp;"(i) set at a level that will ensure recovery of the full costs of providing and administering the System; and
 
-Subsec. (h)(3)(B)(ii). Pub. L. 111–198, §5(a)(1), made technical amendment to reference in original act which appears in text as reference to “subsection (d) of section 2131 of title 22”.
+&emsp;"(ii) available to pay the costs incurred to administer the System."
 
-Subsec. (h)(3)(B)(iii). Pub. L. 111–198, §5(a)(2), substituted “September 30, 2015.” for “September 30, 2014.”
+Subsec. (h)(3)(B)(ii). Pub. L. 111–198, §5(a)(1), made technical amendment to reference in original act which appears in text as reference to "subsection (d) of section 2131 of title 22".
+
+Subsec. (h)(3)(B)(iii). Pub. L. 111–198, §5(a)(2), substituted "September 30, 2015." for "September 30, 2014."
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–53, §711(d)(1)(A)(i), designated concluding provisions as par. (10) and inserted heading.
 
 Subsec. (a)(11). Pub. L. 110–53, §711(d)(1)(A)(ii), added par. (11).
 
-Subsec. (c)(2)(D). Pub. L. 110–53, §711(d)(1)(B)(i)(I), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “The government of the country certifies that it reports to the United States Government on a timely basis the theft of blank passports issued by that country.”
+Subsec. (c)(2)(D). Pub. L. 110–53, §711(d)(1)(B)(i)(I), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "The government of the country certifies that it reports to the United States Government on a timely basis the theft of blank passports issued by that country."
 
 Subsec. (c)(2)(E), (F). Pub. L. 110–53, §711(d)(1)(B)(i)(II), added subpars. (E) and (F).
 
-Subsec. (c)(5)(A)(i). Pub. L. 110–53, §711(d)(1)(B)(ii)(I), substituted “Secretary of Homeland Security” for “Attorney General” in introductory provisions.
+Subsec. (c)(5)(A)(i). Pub. L. 110–53, §711(d)(1)(B)(ii)(I), substituted "Secretary of Homeland Security" for "Attorney General" in introductory provisions.
 
-Subsec. (c)(5)(A)(i)(III). Pub. L. 110–53, §711(d)(1)(B)(ii)(II)(bb)(AA), substituted “, the Committee on Foreign Affairs, and the Committee on Homeland Security,” for “and the Committee on International Relations” and “, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs” for “and the Committee on Foreign Relations”.
+Subsec. (c)(5)(A)(i)(III). Pub. L. 110–53, §711(d)(1)(B)(ii)(II)(bb)(AA), substituted ", the Committee on Foreign Affairs, and the Committee on Homeland Security," for "and the Committee on International Relations" and ", the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs" for "and the Committee on Foreign Relations".
 
 Subsec. (c)(5)(A)(i)(IV). Pub. L. 110–53, §711(d)(1)(B)(ii)(II)(aa), (bb)(BB), (cc), added subcl. (IV).
 
-Subsec. (c)(5)(A)(ii), (iii), (B)(i), (iii). Pub. L. 110–53, §711(d)(1)(B)(ii)(I), substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing.
+Subsec. (c)(5)(A)(ii), (iii), (B)(i), (iii). Pub. L. 110–53, §711(d)(1)(B)(ii)(I), substituted "Secretary of Homeland Security" for "Attorney General" wherever appearing.
 
 Subsec. (c)(5)(B)(iv). Pub. L. 110–53, §711(d)(1)(B)(ii)(III), added cl. (iv).
 
@@ -642,9 +644,9 @@ Subsec. (c)(8), (9). Pub. L. 110–53, §711(c), added pars. (8) and (9).
 
 Subsec. (c)(10), (11). Pub. L. 110–53, §711(d)(1)(B)(iii), added pars. (10) and (11).
 
-Subsec. (d). Pub. L. 110–53, §711(d)(1)(C), substituted “Secretary of Homeland Security” for “Attorney General” in first sentence and inserted at end “The Secretary of Homeland Security may not waive any eligibility requirement under this section unless the Secretary notifies, with respect to the House of Representatives, the Committee on Homeland Security, the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Appropriations, and with respect to the Senate, the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Appropriations not later than 30 days before the effective date of such waiver.”
+Subsec. (d). Pub. L. 110–53, §711(d)(1)(C), substituted "Secretary of Homeland Security" for "Attorney General" in first sentence and inserted at end "The Secretary of Homeland Security may not waive any eligibility requirement under this section unless the Secretary notifies, with respect to the House of Representatives, the Committee on Homeland Security, the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Appropriations, and with respect to the Senate, the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Appropriations not later than 30 days before the effective date of such waiver."
 
-Subsec. (f)(5). Pub. L. 110–53, §711(d)(1)(D), substituted “Secretary of Homeland Security” for “Attorney General” in two places and “theft or loss of passports” for “theft of blank passports”.
+Subsec. (f)(5). Pub. L. 110–53, §711(d)(1)(D), substituted "Secretary of Homeland Security" for "Attorney General" in two places and "theft or loss of passports" for "theft of blank passports".
 
 Subsec. (h)(3). Pub. L. 110–53, §711(d)(1)(E), added par. (3).
 
@@ -652,57 +654,57 @@ Subsec. (i). Pub. L. 110–53, §711(d)(1)(F), added subsec. (i).
 
 <b>2002</b>—Subsec. (c)(2)(D). Pub. L. 107–173, §307(a)(1), added subpar. (D).
 
-Subsec. (c)(5)(A)(i). Pub. L. 107–173, §307(a)(2), substituted “2 years” for “5 years” in introductory provisions.
+Subsec. (c)(5)(A)(i). Pub. L. 107–173, §307(a)(2), substituted "2 years" for "5 years" in introductory provisions.
 
 Subsec. (f)(5). Pub. L. 107–173, §307(a)(3), added par. (5).
 
-<b>2001</b>—Subsec. (a)(3). Pub. L. 107–56, §417(d), which directed the substitution of “(A)
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–56, §417(d), which directed the substitution of "(A)
 
-In general.—Except as provided in subparagraph (B), on or after” for “On or after” and the addition of subpar. (B), was executed making the substitution for “On and after” and adding subpar. (B) to reflect the probable intent of Congress.
+In general.—Except as provided in subparagraph (B), on or after" for "On or after" and the addition of subpar. (B), was executed making the substitution for "On and after" and adding subpar. (B) to reflect the probable intent of Congress.
 
-Pub. L. 107–56, §417(c), substituted “2003,” for “2007,”.
+Pub. L. 107–56, §417(c), substituted "2003," for "2007,".
 
-<b>2000</b>—Pub. L. 106–396, §101(a)(1), in section catchline struck out “pilot” before “program”.
+<b>2000</b>—Pub. L. 106–396, §101(a)(1), in section catchline struck out "pilot" before "program".
 
-Subsec. (a). Pub. L. 106–396, §§101(a)(2)(A), (B), 403(c), struck out “pilot” before “program” in heading and two places in introductory provisions and inserted concluding provisions.
+Subsec. (a). Pub. L. 106–396, §§101(a)(2)(A), (B), 403(c), struck out "pilot" before "program" in heading and two places in introductory provisions and inserted concluding provisions.
 
-Subsec. (a)(1). Pub. L. 106–396, §101(a)(2)(C), substituted “program” for “pilot program period (as defined in subsection (e) of this section)”.
+Subsec. (a)(1). Pub. L. 106–396, §101(a)(2)(C), substituted "program" for "pilot program period (as defined in subsection (e) of this section)".
 
-Subsec. (a)(2). Pub. L. 106–396, §101(a)(2)(D), in heading struck out “pilot” before “program”.
+Subsec. (a)(2). Pub. L. 106–396, §101(a)(2)(D), in heading struck out "pilot" before "program".
 
-Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted “, either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions,” after “to extend)”.
+Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted ", either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions," after "to extend)".
 
 Subsec. (a)(3), (4). Pub. L. 106–396, §202(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted “, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement” for “which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer”.
+Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted ", including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement" for "which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer".
 
 Pub. L. 106–396, §202(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
 Subsec. (a)(6), (7). Pub. L. 106–396, §202(a)(1), designated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 106–396, §403(b), inserted “or the alien is arriving at the port of entry on an aircraft operated under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations” after “regulations”.
+Subsec. (a)(8). Pub. L. 106–396, §403(b), inserted "or the alien is arriving at the port of entry on an aircraft operated under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations" after "regulations".
 
 Pub. L. 106–396, §202(a)(1), designated par. (7) as (8).
 
 Subsec. (a)(9). Pub. L. 106–396, §203(a), added par. (9).
 
-Subsec. (b). Pub. L. 106–396, §101(a)(3), struck out “pilot” before “program” in introductory provisions.
+Subsec. (b). Pub. L. 106–396, §101(a)(3), struck out "pilot" before "program" in introductory provisions.
 
-Subsec. (c). Pub. L. 106–396, §101(a)(4)(A), in heading struck out “pilot” before “program”.
+Subsec. (c). Pub. L. 106–396, §101(a)(4)(A), in heading struck out "pilot" before "program".
 
-Subsec. (c)(1). Pub. L. 106–396, §101(a)(4)(B), struck out “pilot” before “program”.
+Subsec. (c)(1). Pub. L. 106–396, §101(a)(4)(B), struck out "pilot" before "program".
 
-Subsec. (c)(2). Pub. L. 106–396, §101(a)(4)(C), in introductory provisions, substituted “subsection (f)” for “subsection (g)” and struck out “pilot” before “program”.
+Subsec. (c)(2). Pub. L. 106–396, §101(a)(4)(C), in introductory provisions, substituted "subsection (f)" for "subsection (g)" and struck out "pilot" before "program".
 
-Subsec. (c)(2)(B). Pub. L. 106–396, §202(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The government of the country certifies that it has or is in the process of developing a program to issue machine-readable passports to its citizens.”
+Subsec. (c)(2)(B). Pub. L. 106–396, §202(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "The government ofthe country certifies that it has or is in the process of developing a program to issue machine-readable passports to its citizens."
 
-Subsec. (c)(2)(C). Pub. L. 106–396, §204(a), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The Attorney General determines that the United States law enforcement interests would not be compromised by the designation of the country.”
+Subsec. (c)(2)(C). Pub. L. 106–396, §204(a), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: "The Attorney General determines that the United States law enforcement interests would not be compromised by the designation of the country."
 
-Subsec. (c)(3). Pub. L. 106–396, §101(a)(4)(D)(i), struck out “(within the pilot program period)” after “fiscal year” in introductory provisions.
+Subsec. (c)(3). Pub. L. 106–396, §101(a)(4)(D)(i), struck out "(within the pilot program period)" after "fiscal year" in introductory provisions.
 
-Subsec. (c)(3)(A). Pub. L. 106–396, §101(a)(4)(D)(ii), struck out “pilot” before “program” in two places in introductory provisions.
+Subsec. (c)(3)(A). Pub. L. 106–396, §101(a)(4)(D)(ii), struck out "pilot" before "program" in two places in introductory provisions.
 
-Subsec. (c)(3)(B). Pub. L. 106–396, §101(a)(4)(D)(iii), struck out “pilot” before “program” in introductory provisions.
+Subsec. (c)(3)(B). Pub. L. 106–396, §101(a)(4)(D)(iii), struck out "pilot" before "program" in introductory provisions.
 
 Subsec. (c)(5). Pub. L. 106–396, §204(b), added par. (5).
 
@@ -710,21 +712,21 @@ Subsec. (c)(6). Pub. L. 106–396, §206, added par. (6).
 
 Subsec. (c)(7). Pub. L. 106–396, §207, added par. (7).
 
-Subsec. (e)(1). Pub. L. 106–396, §§101(a)(5)(A), 403(d)(1)(A), in introductory provisions, substituted “carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier” in two places and struck out “pilot” before “program”.
+Subsec. (e)(1). Pub. L. 106–396, §§101(a)(5)(A), 403(d)(1)(A), in introductory provisions, substituted "carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title" for "carrier" in two places and struck out "pilot" before "program".
 
-Subsec. (e)(1)(B). Pub. L. 106–396, §101(a)(5)(B), struck out “pilot” before “program”.
+Subsec. (e)(1)(B). Pub. L. 106–396, §101(a)(5)(B), struck out "pilot" before "program".
 
 Subsec. (e)(1)(D). Pub. L. 106–396, §205(b), added subpar. (D).
 
-Subsec. (e)(2). Pub. L. 106–396, §403(d)(1), substituted “carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier” and “failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier's failure”.
+Subsec. (e)(2). Pub. L. 106–396, §403(d)(1), substituted "carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title" for "carrier" and "failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title" for "carrier's failure".
 
 Subsec. (e)(3). Pub. L. 106–396, §403(d)(2), added par. (3).
 
-Subsec. (f). Pub. L. 106–396, §101(a)(6), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “For purposes of this section, the term ‘pilot program period’ means the period beginning on October 1, 1988, and ending on April 30, 2000.”
+Subsec. (f). Pub. L. 106–396, §101(a)(6), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: "For purposes of this section, the term 'pilot program period' means the period beginning on October 1, 1988, and ending on April 30, 2000."
 
-Subsec. (f)(1)(A), (C). Pub. L. 106–396, §101(a)(7)(A), (B), struck out “pilot” before “program”.
+Subsec. (f)(1)(A), (C). Pub. L. 106–396, §101(a)(7)(A), (B), struck out "pilot" before "program".
 
-Subsec. (f)(2) to (4). Pub. L. 106–396, §101(a)(7)(C)–(E), substituted “as a program country” for “as a pilot program country” in two places in par. (2)(A) and struck out “pilot” before “program” in pars. (3) and (4)(A).
+Subsec. (f)(2) to (4). Pub. L. 106–396, §101(a)(7)(C)–(E), substituted "as a program country" for "as a pilot program country" in two places in par. (2)(A) and struck out "pilot" before "program" in pars. (3) and (4)(A).
 
 Subsec. (g). Pub. L. 106–396, §203(b), added subsec. (g). Former subsec. (g) redesignated (f).
 
@@ -732,73 +734,73 @@ Subsec. (h). Pub. L. 106–396, §205(a), added subsec. (h).
 
 <b>1998</b>—Subsec. (c)(2). Pub. L. 105–173, §3, reenacted heading without change and amended text generally. Prior to amendment, text consisted of introductory provisions and subpars. (A) to (D) relating to low nonimmigrant visa refusal rate for previous 2-year period, low nonimmigrant visa refusal rate for each of 2 previous years, machine readable passport program, and law enforcement interests.
 
-Subsec. (f). Pub. L. 105–173, §1, substituted “2000” for “1998”.
+Subsec. (f). Pub. L. 105–173, §1, substituted "2000" for "1998".
 
-<b>1997</b>—Subsec. (f). Pub. L. 105–119 reenacted subsec. heading without change and amended text generally, substituting “April 30, 1998” for “September 30, 1997”.
+<b>1997</b>—Subsec. (f). Pub. L. 105–119 reenacted subsec. heading without change and amended text generally, substituting "April 30, 1998" for "September 30, 1997".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §635(a)(1), in introductory provisions, substituted “Attorney General, in consultation with the Secretary of State” for “Attorney General and the Secretary of State, acting jointly”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §635(a)(1), in introductory provisions, substituted "Attorney General, in consultation with the Secretary of State" for "Attorney General and the Secretary of State, acting jointly".
 
-Subsec. (a)(2)(B). Pub. L. 104–208, §635(c)(3), struck out “or is designated as a pilot program country with probationary status under subsection (g) of this section” after “subsection (c) of this section”.
+Subsec. (a)(2)(B). Pub. L. 104–208, §635(c)(3), struck out "or is designated as a pilot program country with probationary status under subsection (g) of this section" after "subsection (c) of this section".
 
-Subsec. (b)(2). Pub. L. 104–208, §308(e)(9), substituted “removal of” for “deportation against”.
+Subsec. (b)(2). Pub. L. 104–208, §308(e)(9), substituted "removal of" for "deportation against".
 
-Subsec. (c)(1). Pub. L. 104–208, §635(a)(2), substituted “Attorney General, in consultation with the Secretary of State,” for “Attorney General and the Secretary of State acting jointly”.
+Subsec. (c)(1). Pub. L. 104–208, §635(a)(2), substituted "Attorney General, in consultation with the Secretary of State," for "Attorney General and the Secretary of State acting jointly".
 
-Subsec. (c)(3)(A)(i). Pub. L. 104–208, §308(d)(4)(F), substituted “denied admission at the time of arrival” for “excluded from admission”.
+Subsec. (c)(3)(A)(i). Pub. L. 104–208, §308(d)(4)(F), substituted "denied admission at the time of arrival" for "excluded from admission".
 
-Subsec. (d). Pub. L. 104–208, §635(a)(3), substituted “Attorney General, in consultation with the Secretary of State” for “Attorney General and the Secretary of State, acting jointly”.
+Subsec. (d). Pub. L. 104–208, §635(a)(3), substituted "Attorney General, in consultation with the Secretary of State" for "Attorney General and the Secretary of State, acting jointly".
 
-Subsec. (f). Pub. L. 104–208, §635(b), substituted “1997.” for “1996”.
+Subsec. (f). Pub. L. 104–208, §635(b), substituted "1997." for "1996".
 
 Subsec. (g). Pub. L. 104–208, §635(c)(1), amended heading and text of subsec. (g) generally. Prior to amendment, text provided authority for Attorney General and Secretary of State to designate countries as pilot program countries with probationary status.
 
-Subsec. (g)(4)(A)(i). Pub. L. 104–208, §308(d)(4)(F), substituted “denied admission at the time of arrival” for “excluded from admission”.
+Subsec. (g)(4)(A)(i). Pub. L. 104–208, §308(d)(4)(F), substituted "denied admission at the time of arrival" for "excluded from admission".
 
-<b>1994</b>—Subsec. (a)(2)(B). Pub. L. 103–416, §211(1), inserted before period at end “or is designated as a pilot program country with probationary status under subsection (g) of this section”.
+<b>1994</b>—Subsec. (a)(2)(B). Pub. L. 103–416, §211(1), inserted before period at end "or is designated as a pilot program country with probationary status under subsection (g) of this section".
 
-Subsec. (c)(2). Pub. L. 103–416, §211(3), substituted “Except as provided in subsection (g)(4) of this section, a country” for “A country”.
+Subsec. (c)(2). Pub. L. 103–416, §211(3), substituted "Except as provided in subsection (g)(4) of this section, a country" for "A country".
 
-Subsec. (f). Pub. L. 103–416, §210, substituted “1996” for “1995.”.
+Subsec. (f). Pub. L. 103–416, §210, substituted "1996" for "1995.".
 
-Pub. L. 103–415 substituted “1995” for “1994”.
+Pub. L. 103–415 substituted "1995" for "1994".
 
 Subsec. (g). Pub. L. 103–416, §211(2), added subsec. (g).
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–232, §307(l)(3), substituted “paragraph (7)(B)(i)(II)” for “paragraph (26)(B)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232, §307(l)(3), substituted "paragraph (7)(B)(i)(II)" for "paragraph (26)(B)".
 
-Subsec. (a)(4). Pub. L. 102–232, §303(a)(1)(A), in heading substituted “into the United States” for “by sea or air”.
+Subsec. (a)(4). Pub. L. 102–232, §303(a)(1)(A), in heading substituted "into the United States" for "by sea or air".
 
 Subsec. (b). Pub. L. 102–232, §303(a)(1)(B), made technical amendment to heading.
 
-Subsec. (e)(1). Pub. L. 102–232, §303(a)(2), substituted “subsection (a)(4)” for “subsection (a)(4)(C)”.
+Subsec. (e)(1). Pub. L. 102–232, §303(a)(2), substituted "subsection (a)(4)" for "subsection (a)(4)(C)".
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–649, §201(a)(1), inserted “, and presents a passport issued by,” after “is a national of”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–649, §201(a)(1), inserted ", and presents a passport issued by," after "is a national of".
 
-Subsec. (a)(3). Pub. L. 101–649, §201(a)(2), in heading substituted reference to immigration forms for reference to entry control and waiver forms, and in text substituted “completes such immigration form as the Attorney General shall establish” for “—
+Subsec. (a)(3). Pub. L. 101–649, §201(a)(2), in heading substituted reference to immigration forms for reference to entry control and waiver forms, and in text substituted "completes such immigration form as the Attorney General shall establish" for "—
 
-&emsp;“(A) completes such immigration form as the Attorney General shall establish under subsection (b)(3) of this section, and
+&emsp;"(A) completes such immigration form as the Attorney General shall establish under subsection (b)(3) of this section, and
 
-&emsp;“(B) executes a waiver of review and appeal described in subsection (b)(4) of this section”.
+&emsp;"(B) executes a waiver of review and appeal described in subsection (b)(4) of this section".
 
 Subsec. (a)(4). Pub. L. 101–649, §201(a)(3), added par. (4) and struck out former par. (4) which waived visa requirement for certain aliens having round-trip transportation tickets.
 
 Subsec. (a)(7). Pub. L. 101–649, §201(a)(4), added par. (7).
 
-Subsec. (b). Pub. L. 101–649, §201(a)(5), redesignated subsec. (b)(4) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out subsec. (b) heading “Conditions before pilot program can be put into operation” and pars. (1) to (3) which related to prior notice to Congress, automated data arrival and departure system, and visa waiver information form, respectively.
+Subsec. (b). Pub. L. 101–649, §201(a)(5), redesignated subsec. (b)(4) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out subsec. (b) heading "Conditions before pilot program can be put into operation" and pars. (1) to (3) which related to prior notice to Congress, automated data arrival and departure system, and visa waiver information form, respectively.
 
-Subsec. (c)(1). Pub. L. 101–649, §201(a)(6)(A), substituted in heading, “In general” for “Up to 8 countries” and in text substituted “any country as a pilot program country if it meets the requirements of paragraph (2)” for “up to eight countries as pilot program countries for purposes of the pilot program”.
+Subsec. (c)(1). Pub. L. 101–649, §201(a)(6)(A), substituted in heading, "In general" for "Up to 8 countries" and in text substituted "any country as a pilot program country if it meets the requirements of paragraph (2)" for "up to eight countries as pilot program countries for purposes of the pilot program".
 
-Subsec. (c)(2). Pub. L. 101–649, §201(a)(6)(B), substituted “Qualifications” for “Initial qualifications” in heading and “A country” for “For the initial period described in paragraph (4), a country” in introductory provisions, and added subpars. (C) and (D).
+Subsec. (c)(2). Pub. L. 101–649, §201(a)(6)(B), substituted "Qualifications" for "Initial qualifications" in heading and "A country" for "For the initial period described in paragraph (4), a country" in introductory provisions, and added subpars. (C) and (D).
 
 Subsec. (d). Pub. L. 101–649, §201(a)(7), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 101–649, §201(a)(7), (8), redesignated subsec. (d) as (e) and added subpar. (C) at end of par. (1). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–649, §201(a)(7), (9), redesignated subsec. (e) as (f) and substituted “on October 1, 1988, and ending on September 30, 1994” for “at the end of the 30-day period referred to in subsection (b)(1) of this section and ending on the last day of the third fiscal year which begins after such 30-day period”.
+Subsec. (f). Pub. L. 101–649, §201(a)(7), (9), redesignated subsec. (e) as (f) and substituted "on October 1, 1988, and ending on September 30, 1994" for "at the end of the 30-day period referred to in subsection (b)(1) of this section and ending on the last day of the third fiscal year which begins after such 30-day period".
 
 <b>1988</b>—Pub. L. 100–525, §2(p)(1), made technical amendment to directory language of Pub. L. 99–603, §313(a), which enacted this section.
 
-Subsec. (a). Pub. L. 100–525, §2(p)(2), substituted “hereinafter” for “hereafter”.
+Subsec. (a). Pub. L. 100–525, §2(p)(2), substituted "hereinafter" for "hereafter".
 
 #### Change of Name
 
@@ -806,7 +808,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–53, title VII, §711(d)(2), Aug. 3, 2007, 121 Stat. 345, provided that: “Section 217(a)(11) of the Immigration and Nationality Act \[8 U.S.C. 1187(a)(11)\], as added by paragraph (1)(A)(ii), shall take effect on the date that is 60 days after the date on which the Secretary of Homeland Security publishes notice in the Federal Register of the requirement under such paragraph. \[Notice published in Federal Register, Nov. 13, 2008, 73 F.R. 67354.\]”
+Pub. L. 110–53, title VII, §711(d)(2), Aug. 3, 2007, 121 Stat. 345, provided that: "Section 217(a)(11) of the Immigration and Nationality Act \[8 U.S.C. 1187(a)(11)\], as added by paragraph (1)(A)(ii), shall take effect on the date that is 60 days after the date on which the Secretary of Homeland Security publishes notice in the Federal Register of the requirement under such paragraph. \[Notice published in Federal Register, Nov. 13, 2008, 73 F.R. 67354.\]"
 
 #### Effective Date of 1996 Amendment
 
@@ -820,7 +822,7 @@ Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–649, title II, §201(d), Nov. 29, 1990, 104 Stat. 5014, provided that: “The amendments made by this section \[amending this section and section 1323 of this title\] shall take effect as of the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title II, §201(d), Nov. 29, 1990, 104 Stat. 5014, provided that: "The amendments made by this section \[amending this section and section 1323 of this title\] shall take effect as of the date of the enactment of this Act \[Nov. 29, 1990\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -832,87 +834,87 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Modernizing and Strengthening of Security of Visa Waiver Program
 
-Pub. L. 110–53, title VII, §711(b), Aug. 3, 2007, 121 Stat. 338, provided that: “It is the sense of Congress that—
+Pub. L. 110–53, title VII, §711(b), Aug. 3, 2007, 121 Stat. 338, provided that: "It is the sense of Congress that—
 
-&emsp;“(1) the United States should modernize and strengthen the security of the visa waiver program under section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) by simultaneously—
+&emsp;"(1) the United States should modernize and strengthen the security of the visa waiver program under section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) by simultaneously—
 
-&emsp;&emsp;“(A) enhancing program security requirements; and
+&emsp;&emsp;"(A) enhancing program security requirements; and
 
-&emsp;&emsp;“(B) extending visa-free travel privileges to nationals of foreign countries that are partners in the war on terrorism—
+&emsp;&emsp;"(B) extending visa-free travel privileges to nationals of foreign countries that are partners in the war on terrorism—
 
-&emsp;&emsp;&emsp;“(i) that are actively cooperating with the United States to prevent terrorist travel, including sharing counterterrorism and law enforcement information; and
+&emsp;&emsp;&emsp;"(i) that are actively cooperating with the United States to prevent terrorist travel, including sharing counterterrorism and law enforcement information; and
 
-&emsp;&emsp;&emsp;“(ii) whose nationals have demonstrated their compliance with the provisions of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] regarding the purpose and duration of their admission to the United States; and
+&emsp;&emsp;&emsp;"(ii) whose nationals have demonstrated their compliance with the provisions of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] regarding the purpose and duration of their admission to the United States; and
 
-&emsp;“(2) the modernization described in paragraph (1) will—
+&emsp;"(2) the modernization described in paragraph (1) will—
 
-&emsp;&emsp;“(A) enhance bilateral cooperation on critical counterterrorism and information sharing initiatives;
+&emsp;&emsp;"(A) enhance bilateral cooperation on critical counterterrorism and information sharing initiatives;
 
-&emsp;&emsp;“(B) support and expand tourism and business opportunities to enhance long-term economic competitiveness; and
+&emsp;&emsp;"(B) support and expand tourism and business opportunities to enhance long-term economic competitiveness; and
 
-&emsp;&emsp;“(C) strengthen bilateral relationships.”
+&emsp;&emsp;"(C) strengthen bilateral relationships."
 
 #### Machine Readable Passports
 
 Pub. L. 107–56, title IV, §417(a), (b), Oct. 26, 2001, 115 Stat. 355, provided that:
 
-“(a)
+"(a)
 
 Audits.—The Secretary of State shall, each fiscal year until September 30, 2007—
 
-&emsp;“(1) perform annual audits of the implementation of section 217(c)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1187(c)(2)(B));
+&emsp;"(1) perform annual audits of the implementation of section 217(c)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1187(c)(2)(B));
 
-&emsp;“(2) check for the implementation of precautionary measures to prevent the counterfeiting and theft of passports; and
+&emsp;"(2) check for the implementation of precautionary measures to prevent the counterfeiting and theft of passports; and
 
-&emsp;“(3) ascertain that countries designated under the visa waiver program have established a program to develop tamper-resistant passports.
+&emsp;"(3) ascertain that countries designated under the visa waiver program have established a program to develop tamper-resistant passports.
 
-“(b)
+"(b)
 
-Periodic Reports.—Beginning one year after the date of enactment of this Act \[Oct. 26, 2001\], and every year thereafter until 2007, the Secretary of State shall submit a report to Congress setting forth the findings of the most recent audit conducted under subsection (a)(1).”
+Periodic Reports.—Beginning one year after the date of enactment of this Act \[Oct. 26, 2001\], and every year thereafter until 2007, the Secretary of State shall submit a report to Congress setting forth the findings of the most recent audit conducted under subsection (a)(1)."
 
 #### Report Required
 
-Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided that: “Not later than two years after the date of the enactment of this Act \[Oct. 30, 2000\], the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate assessing the effectiveness of the program implemented under the amendments made by this section \[amending this section\] for simplifying the admission of business travelers from visa waiver program countries and compliance with the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] by such travelers under that program.”
+Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided that: "Not later than two years after the date of the enactment of this Act \[Oct. 30, 2000\], the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate assessing the effectiveness of the program implemented under the amendments made by this section \[amending this section\] for simplifying the admission of business travelers from visa waiver program countries and compliance with the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] by such travelers under that program."
 
 #### Transition Provisions
 
-Pub. L. 104–208, div. C, title VI, §635(c)(2), Sept. 30, 1996, 110 Stat. 3009–703, provided that: “A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the day before the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1)).”
+Pub. L. 104–208, div. C, title VI, §635(c)(2), Sept. 30, 1996, 110 Stat. 3009–703, provided that: "A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the day before the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1))."
 
 #### Operation of Automated Data Arrival and Departure Control System; Report to Congress
 
-Pub. L. 101–649, title II, §201(c), Nov. 29, 1990, 104 Stat. 5014, provided that: “By not later than January 1, 1992, the Attorney General, in consultation with the Secretary of State, shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report on the operation of the automated data arrival and departure control system for foreign visitors and on admission refusals and overstays for such visitors who have entered under the visa waiver program.”
+Pub. L. 101–649, title II, §201(c), Nov. 29, 1990, 104 Stat. 5014, provided that: "By not later than January 1, 1992,the Attorney General, in consultation with the Secretary of State, shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report on the operation of the automated data arrival and departure control system for foreign visitors and on admission refusals and overstays for such visitors who have entered under the visa waiver program."
 
 #### Report on Visa Waiver Pilot Program
 
 Pub. L. 99–603, title IV, §405, Nov. 6, 1986, 100 Stat. 3442, provided that:
 
-“(a)
+"(a)
 
 Monitoring and Report on the Pilot Program.—The Attorney General and the Secretary of State shall jointly monitor the pilot program established under section 217 of the Immigration and Nationality Act \[8 U.S.C. 1187\] and shall report to the Congress not later than two years after the beginning of the program.
 
-“(b)
+"(b)
 
 Details in Report.—The report shall include—
 
-&emsp;“(1) an evaluation of the program, including its impact—
+&emsp;"(1) an evaluation of the program, including its impact—
 
-&emsp;&emsp;“(A) on the control of alien visitors to the United States,
+&emsp;&emsp;"(A) on the control of alien visitors to the United States,
 
-&emsp;&emsp;“(B) on consular operations in the countries designated under the program, as well as on consular operations in other countries in which additional consular personnel have been relocated as a result of the implementation of the program, and
+&emsp;&emsp;"(B) on consular operations in the countries designated under the program, as well as on consular operations in other countries in which additional consular personnel have been relocated as a result of the implementation of the program, and
 
-&emsp;&emsp;“(C) on the United States tourism industry; and
+&emsp;&emsp;"(C) on the United States tourism industry; and
 
-&emsp;“(2) recommendations—
+&emsp;"(2) recommendations—
 
-&emsp;&emsp;“(A) on extending the pilot program period, and
+&emsp;&emsp;"(A) on extending the pilot program period, and
 
-&emsp;&emsp;“(B) on increasing the number of countries that may be designated under the program.”
+&emsp;&emsp;"(B) on increasing the number of countries that may be designated under the program."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "subsection".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "an".</i>
 

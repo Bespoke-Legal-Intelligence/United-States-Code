@@ -22,7 +22,7 @@ Recommendations for Admission of Students Under the Program.—The Secretary of 
 
 (e)
 
-DOD Financial Support.—An international student who is admitted to a senior military college under the program under this section is responsible for the cost of instruction at that college. The Secretary of Defense may, from funds available to the Department of Defense other than funds available for financial assistance under section 2107a of this title, providesome or all of the costs of instruction for any such student.
+DOD Financial Support.—An international student who is admitted to a senior military college under the program under this section is responsible for the cost of instruction at that college. The Secretary of Defense may, from funds available to the Department of Defense other than funds available for financial assistance under section 2107a of this title, provide some or all of the costs of instruction for any such student.
 
 (Added Pub. L. 106–65, div. A, title V, §541(a)(1), Oct. 5, 1999, 113 Stat. 606.)
 

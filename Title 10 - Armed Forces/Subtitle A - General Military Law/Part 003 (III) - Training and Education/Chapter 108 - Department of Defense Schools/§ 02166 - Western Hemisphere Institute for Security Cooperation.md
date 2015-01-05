@@ -100,7 +100,7 @@ Fixed Costs.—The fixed costs of operating and maintaining the Institute for a 
 
 &emsp;(1) any funds available for that fiscal year for operation and maintenance for the executive agent designated under subsection (a)(2); or
 
-&emsp;(2) if no executive agent is designated under subsection (a)(2), any funds available for that fiscal year for the Department of Defense for operation and maintenance for Defense-wide activities.
+&emsp;(2) if no executive agent is designated under subsection (a)(2), any funds available for thatfiscal year for the Department of Defense for operation and maintenance for Defense-wide activities.
 
 (h)
 

@@ -32,7 +32,7 @@
 
 #### (2) Remedies for breach of contracts
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided bythe State pursuant to paragraph (2) of such subsection will provide remedies for any breach of the contracts by the health professionals involved.
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will provide remedies for any breach of the contracts by the health professionals involved.
 
 #### (3) Limitation regarding contract inducements
 
@@ -108,7 +108,7 @@ For purposes of this section, the term "State" means each of the 50 States, the 
 
 #### (1) In general
 
-&emsp;The Secretary may award grants to States for the purpose of assisting such States in operating loan repayment programs under which such States enter into contracts to repay all or part of the eligible loans borrowed by, or on behalf of, individuals who agree to serve in State, local, or tribal health departments that serve health professional shortage areas or other areas at risk of a public health emergency, as designated by the Secretary.
+&emsp;The Secretary may award grants to States for the purpose of assisting such States in operating loan repayment programs under which such States enter into contracts to repay all or part of the eligible loans borrowed by, or on behalf of, individuals who agree to serve inState, local, or tribal health departments that serve health professional shortage areas or other areas at risk of a public health emergency, as designated by the Secretary.
 
 #### (2) Loans eligible for repayment
 

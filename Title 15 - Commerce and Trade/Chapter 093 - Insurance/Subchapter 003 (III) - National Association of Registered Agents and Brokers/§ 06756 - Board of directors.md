@@ -38,7 +38,7 @@ The term of each director shall, after the initial appointment of the members of
 
 #### (e) Board vacancies
 
-A vacancy on the Board shall be filled in the same manner as the original appointment of theinitial Board for the remainder of the term of the vacating member.
+A vacancy on the Board shall be filled in the same manner as the original appointment of the initial Board for the remainder of the term of the vacating member.
 
 #### (f) Meetings
 

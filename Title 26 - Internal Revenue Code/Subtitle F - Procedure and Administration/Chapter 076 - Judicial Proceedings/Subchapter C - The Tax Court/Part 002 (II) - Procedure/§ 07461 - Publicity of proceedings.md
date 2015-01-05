@@ -12,9 +12,9 @@ Except as provided in subsection (b), all reports of the Tax Court and all evide
 
 #### (2) Evidence, etc.
 
-&emsp;After the decision of the Tax Court in any proceeding has become final, the Tax Court may, upon motion of the taxpayer or the Secretary, permit the withdrawal by the party entitled thereto of originals of books, documents, and records, and of models, diagrams, and other exhibits, introduced in evidence before the Tax Court or any division; or the Tax Court may, on its own motion, make such other disposition thereof as it deems advisable.
+&emsp;After the decision of the Tax Court in any proceeding has become final, the Tax Courtmay, upon motion of the taxpayer or the Secretary, permit the withdrawal by the party entitled thereto of originals of books, documents, and records, and of models, diagrams, and other exhibits, introduced in evidence before the Tax Court or any division; or the Tax Court may, on its own motion, make such other disposition thereof as it deems advisable.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 887; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 98–369, div. A, title IV, §465(a), July 18, 1984, 98 Stat. 825.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 887; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §465(a), July 18, 1984, 98 Stat. 825.)
 
 #### Amendments
 

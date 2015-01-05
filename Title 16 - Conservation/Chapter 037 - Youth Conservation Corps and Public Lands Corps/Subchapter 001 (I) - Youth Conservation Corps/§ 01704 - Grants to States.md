@@ -22,7 +22,7 @@ The Secretary of the Interior and the Secretary of Agriculture shall jointly est
 
 #### (d) Appropriation percentage
 
-Thirty per centum of the sums appropriated under section 1706 of this title for any fiscal yearshall be made available for grants under this section for such fiscal year.
+Thirty per centum of the sums appropriated under section 1706 of this title for any fiscal year shall be made available for grants under this section for such fiscal year.
 
 (Pub. L. 91–378, title I, §104, formerly §4, Aug. 13, 1970, 84 Stat. 796; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1320; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, §104, and amended Pub. L. 103–82, title I, §105(1), (3), (5), Sept. 21, 1993, 107 Stat. 848.)
 

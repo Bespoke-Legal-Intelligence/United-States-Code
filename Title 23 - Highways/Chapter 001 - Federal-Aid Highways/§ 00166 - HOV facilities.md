@@ -34,7 +34,7 @@ Safety exception.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A State agency may restrict use of the HOV facility by motorcycles or bicycles (or both) if the agency certifies to the Secretary that such usewould create a safety hazard and the Secretary accepts the certification.
+In general.—A State agency may restrict use of the HOV facility by motorcycles or bicycles (or both) if the agency certifies to the Secretary that such use would create a safety hazard and the Secretary accepts the certification.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -134,7 +134,7 @@ Degraded facility.—
 
 &emsp;&emsp;(A)
 
-Definition of minimum average operating speed.—In this paragraph, the term"minimum average operating speed" means—
+Definition of minimum average operating speed.—In this paragraph, the term "minimum average operating speed" means—
 
 &emsp;&emsp;&emsp;(i) 45 miles per hour, in the case of a HOV facility with a speed limit of 50 miles per hour or greater; and
 
@@ -150,7 +150,7 @@ Management of low emission and energy-efficient vehicles.—In managing the use 
 
 (e)
 
-Certification of Low Emission and Energy-Efficient Vehicles.—Not later than 180 days after the date of enactment of this section, the Administrator of the Environmental Protection Agency shall—
+Certification of Low Emission and Energy-Efficient Vehicles.—Not later than 180 days after the date of enactment of this section,the Administrator of the Environmental Protection Agency shall—
 
 &emsp;(1) issue a final rule establishing requirements for certification of vehicles as low emission and energy-efficient vehicles for purposes of this section and requirements for the labeling of the vehicles; and
 

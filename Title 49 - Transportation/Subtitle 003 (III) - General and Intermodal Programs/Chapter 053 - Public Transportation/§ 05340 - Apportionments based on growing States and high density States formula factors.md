@@ -18,7 +18,7 @@ Growing State Apportionments.—
 
 &emsp;(1)
 
-Apportionment among states.—The amounts apportioned under subsection (b)(1) shall provide each State with an amount equal to the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based on the population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
+Apportionment among states.—The amounts apportioned under subsection (b)(1) shall provide each State with an amount equal to the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based onthe population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
 
 &emsp;(2)
 

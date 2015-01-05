@@ -1,6 +1,6 @@
 ### §156. Extension of patent term
 
-(a) The term of a patent which claims a product, a method of using a product, or a method of manufacturing a product shall be extended in accordance with this section from the original expiration date of the patent, which shall include any patent term adjustment granted under section 154(b), if—
+(a) The term of a patent which claims a product, a method of using a product, or a method ofmanufacturing a product shall be extended in accordance with this section from the original expiration date of the patent, which shall include any patent term adjustment granted under section 154(b), if—
 
 &emsp;(1) the term of the patent has not expired before an application is submitted under subsection (d)(1) for its extension;
 
@@ -64,7 +64,7 @@
 
 &emsp;(4) in no event shall more than one patent be extended under subsection (e)(1) for the same regulatory review period for any product.
 
-(d)(1) To obtain an extension of the term of a patent under this section, the owner of record of the patent or its agent shall submit an application to the Director. Except as provided in paragraph (5), such an application may only be submitted within the sixty-day period beginning on the date the product received permission under the provision of law under which the applicable regulatory review period occurred for commercial marketing or use. The application shall contain—
+(d)(1) To obtain an extension of the term of a patent under this section, the owner of record of the patent or its agent shall submit an application to the Director. Except as provided in paragraph (5), such an application may only be submitted within the sixty-day period beginning on the date the product received permission under the provision of law under which the applicableregulatory review period occurred for commercial marketing or use. The application shall contain—
 
 &emsp;(A) the identity of the approved product and the Federal statute under which regulatory review occurred;
 
@@ -106,7 +106,7 @@
 
 &emsp;(v) such patent or other information as the Director may require.
 
-(B) If the Director determines that, except for permission to market or use the product commercially, the patent would be eligible for an extension of the patent term under this section, the Director shall publish in the Federal Register a notice of such determination, includingthe identity of the product under regulatory review, and shall issue to the applicant a certificate of interim extension for a period of not more than 1 year.
+(B) If the Director determines that, except for permission to market or use the product commercially, the patent would be eligible for an extension of the patent term under this section, the Director shall publish in the Federal Register a notice of such determination, including the identity of the product under regulatory review, and shall issue to the applicant a certificate of interim extension for a period of not more than 1 year.
 
 (C) The owner of record of a patent, or its agent, for which an interim extension has been granted under subparagraph (B), may apply for not more than 4 subsequent interim extensions under this paragraph, except that, in the case of a patent subject to subsection (g)(6)(C), the owner of record of the patent, or its agent, may apply for only 1 subsequent interim extension under this paragraph. Each such subsequent application shall be made during the period beginning 60 days before, and ending 30 days before, the expiration of the preceding interim extension.
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;(iii) no clinical investigation described in paragraph (3) was begun or product development protocol described in such paragraph was submitted,
 
-> &emsp;&emsp;before such date for the approved product the period of extension determined on thebasis of the regulatory review period determined under any such paragraph may not exceed five years.
+> &emsp;&emsp;before such date for the approved product the period of extension determined on the basis of the regulatory review period determined under any such paragraph may not exceed five years.
 
 &emsp;&emsp;(C) If the patent involved was issued before the date of the enactment of this section and if an action described in subparagraph (B) was taken before the date of the enactment of this section with respect to the approved product and the commercial marketing or use of the product has not been approved before such date, the period of extension determined on the basis of the regulatory review period determined under such paragraph may not exceed two years or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years.
 
@@ -290,7 +290,7 @@ Subsec. (b). Pub. L. 100–670, §201(b), amended subsec. (b) generally. Prior t
 
 &emsp;"(1) in the case of a patent which claims a product, be limited to any use approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred;
 
-&emsp;"(2) in the case of a patent which claims a method of using a product, be limited to any use claimed bythe patent and approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred; and
+&emsp;"(2) in the case of a patent which claims a method of using a product, be limited to any use claimed by the patent and approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred; and
 
 &emsp;"(3) in the case of a patent which claims a method of manufacturing a product, be limited to the method of manufacturing as used to make the approved product."
 

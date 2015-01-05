@@ -16,7 +16,7 @@ For the purpose of any competitive program under this chapter—
 
 Prior sections 7811 to 7818 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 
-Section 7811, Pub. L. 89–10, title IX, §9111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3774, set forth purpose of provisions relating to formula grants to local educational agencies. See section 7421 of this title.
+Section 7811, Pub. L. 89–10, title IX, §9111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3774, set forth purpose of provisions relating to formulagrants to local educational agencies. See section 7421 of this title.
 
 Section 7812, Pub. L. 89–10, title IX, §9112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3774; amended Pub. L. 104–5, §1, Mar. 23, 1995, 109 Stat. 72, related to grants to local educational agencies. See section 7422 of this title.
 
@@ -30,5 +30,5 @@ Section 7816, Pub. L. 89–10, title IX, §9116, as added Pub. L. 103–382, tit
 
 Section 7817, Pub. L. 89–10, title IX, §9117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3781, related to payments. See section 7428 of this title.
 
-Section 7818, Pub. L. 89–10, title IX, §9118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3782,related to State educational agency review. See section 7429 of this title.
+Section 7818, Pub. L. 89–10, title IX, §9118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3782, related to State educational agency review. See section 7429 of this title.
 

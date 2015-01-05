@@ -50,7 +50,7 @@
 
 #### (3) Remedial course; study abroad
 
-&emsp;Nothing in this section shall be construed to exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language acquisition) which are determined by the eligible institution to be necessary to help the teacher candidate be prepared for the pursuit of a first undergraduate baccalaureate or post-baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the teacher candidate to utilize already existing knowledge, training, or skills. Nothing in this section shall be construed to exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the teacher candidate is enrolled.
+&emsp;Nothing in this section shall be construed to exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language acquisition) which are determined by the eligible institution to be necessary to help the teacher candidate be prepared for the pursuit of a first undergraduate baccalaureate or post-baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the teacher candidate to utilize already existing knowledge, training, or skills. Nothing in this section shall be construed to exclude from eligibility programs of studyabroad that are approved for credit by the home institution at which the teacher candidate is enrolled.
 
 (Pub. L. 89–329, title IV, §420M, as added Pub. L. 110–84, title I, §104, Sept. 27, 2007, 121 Stat. 787; amended Pub. L. 110–153, §3(2), Dec. 21, 2007, 121 Stat. 1824.)
 

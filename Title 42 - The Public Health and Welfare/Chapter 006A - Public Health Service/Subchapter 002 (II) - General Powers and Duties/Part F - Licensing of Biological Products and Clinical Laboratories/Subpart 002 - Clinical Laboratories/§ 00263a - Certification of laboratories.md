@@ -12,7 +12,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;The Secretary may issue or renew a certificate for a laboratory only if the laboratory meets the requirements of subsection (d) of this section.
+&emsp;The Secretary may issue or renew a certificate for a laboratory only if the laboratorymeets the requirements of subsection (d) of this section.
 
 #### (2) Term
 
@@ -62,7 +62,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;&emsp;(I) in such form and manner as the Secretary shall prescribe,
 
-&emsp;&emsp;&emsp;&emsp;(II) that describes the characteristics of the laboratory examinations and other procedures performed by the laboratory, including the number and types of laboratory examinations and other procedures performed, the methodologies for laboratory examinations and other procedures employed, and the qualifications (educational background, training, and experience) of the personnel directing and supervising the laboratory andperforming the laboratory examinations and other procedures, and
+&emsp;&emsp;&emsp;&emsp;(II) that describes the characteristics of the laboratory examinations and other procedures performed by the laboratory, including the number and types of laboratory examinations and other procedures performed, the methodologies for laboratory examinations and other procedures employed, and the qualifications (educational background, training, and experience) of the personnel directing and supervising the laboratory and performing the laboratory examinations and other procedures, and
 
 &emsp;&emsp;&emsp;&emsp;(III) that contains such other information as the Secretary may reasonably require to determine compliance with this section, and
 
@@ -378,7 +378,7 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 &emsp;(6) a list of laboratories which have been excluded from participation under title XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\].
 
-> The information to be compiled under paragraphs (1) through (6) shall be information for the calendar year preceding the date the information is to be made available to the public andshall be accompanied by such explanatory information as may be appropriate to assist in the interpretation of the information compiled under such paragraphs.
+> The information to be compiled under paragraphs (1) through (6) shall be information for the calendar year preceding the date the information is to be made available to the public and shall be accompanied by such explanatory information as may be appropriate to assist in the interpretation of the information compiled under such paragraphs.
 
 #### (o) Delegation
 

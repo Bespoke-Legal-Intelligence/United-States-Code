@@ -4,7 +4,7 @@
 
 #### (1) In House of Representatives
 
-&emsp;Except as provided by subsection (c) of this section, after the Congress has completed action on a concurrent resolution on the budget for a fiscal year, it shall not be in order in the House of Representatives to consider any bill, joint resolution, amendment, motion, or conference report providing new budget authority or reducing revenues, if—
+&emsp;Except as provided by subsection (c), after the Congress has completed action on a concurrent resolution on the budget for a fiscal year, it shall not be in order in the House of Representatives to consider any bill, joint resolution, amendment, motion, or conference report providing new budget authority or reducing revenues, if—
 
 &emsp;&emsp;(A) the enactment of that bill or resolution as reported;
 
@@ -30,15 +30,15 @@
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(3) of this section, social security surpluses equal the excess of social security revenues over social security outlays in a fiscal year or years with such an excess and social security deficits equal the excess of social security outlays over social security revenues in a fiscal year or years with such an excess.
+&emsp;For purposes of subsection (a)(3), social security surpluses equal the excess of social security revenues over social security outlays in a fiscal year or years with such an excess and social security deficits equal the excess of social security outlays over social security revenues in a fiscal year or years with such an excess.
 
 #### (2) Tax treatment
 
-&emsp;For purposes of subsection (a)(3) of this section, no provision of any legislation involving a change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues or outlays unless that provision changes the income tax treatment of social security benefits.
+&emsp;For purposes of subsection (a)(3), no provision of any legislation involving a change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues or outlays unless that provision changes the income tax treatment of social security benefits.
 
 #### (c) Exception in House of Representatives
 
-Subsection (a)(1) of this section shall not apply in the House of Representatives to any bill, joint resolution, or amendment that provides new budget authority for a fiscal year or to any conference report on any such bill or resolution, if—
+Subsection (a)(1) shall not apply in the House of Representatives to any bill, joint resolution, or amendment that provides new budget authority for a fiscal year or to any conference report on any such bill or resolution, if—
 
 &emsp;(1) the enactment of that bill or resolution as reported;
 
@@ -64,25 +64,25 @@ Section was formerly classified to section 1332 of Title 31 prior to the general
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
 
-Pub. L. 101–508, §13207(a)(1)(E), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or amendment” and struck out “or any conference report on any such bill or resolution” after “reducing revenues for such fiscal year,”.
+Pub. L. 101–508, §13207(a)(1)(E), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill, resolution, or amendment" and struck out "or any conference report on any such bill or resolution" after "reducing revenues for such fiscal year,".
 
-Pub. L. 101–508, §13112(a)(10), in closing provisions, substituted “except in the case that a declaration of war by the Congress is in effect” for “or, in the Senate, would otherwise result in a deficit for such fiscal year that—
+Pub. L. 101–508, §13112(a)(10), in closing provisions, substituted "except in the case that a declaration of war by the Congress is in effect" for "or, in the Senate, would otherwise result in a deficit for such fiscal year that—
 
-&emsp;“(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title; and
+&emsp;"(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title; and
 
-&emsp;“(B) for fiscal year 1988 or 1989, exceeds the amount of the estimated deficit for such fiscal year based on laws and regulations in effect on January 1 of the calendar year in which such fiscal year begins as measured using the budget baseline specified in section 901(a)(6) of this title minus $23,000,000,000 for fiscal year 1988 or $36,000,000,000 for fiscal year 1989;
+&emsp;"(B) for fiscal year 1988 or 1989, exceeds the amount of the estimated deficit for such fiscal year based on laws and regulations in effect on January 1 of the calendar year in which such fiscal year begins as measured using the budget baseline specified in section 901(a)(6) of this title minus $23,000,000,000 for fiscal year 1988 or $36,000,000,000 for fiscal year 1989;
 
-> except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection.”
+> except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection."
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–119 substituted “would otherwise result in a deficit for such fiscal year that—
+<b>1987</b>—Subsec. (a). Pub. L. 100–119 substituted "would otherwise result in a deficit for such fiscal year that—
 
-&emsp;“(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title; and
+&emsp;"(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title; and
 
-&emsp;“(B) for fiscal year 1988 or 1989, exceeds the amount of the estimated deficit for such fiscal year based on laws and regulations in effect on January 1 of the calendar year in which such fiscal year begins as measured using the budget baseline specified in section 901(a)(6) of this title minus $23,000,000,000 for fiscal year 1988 or $36,000,000,000 for fiscal year 1989;
+&emsp;"(B) for fiscal year 1988 or 1989, exceeds the amount of the estimated deficit for such fiscal year based on laws and regulations in effect on January 1 of the calendar year in which such fiscal year begins as measured using the budget baseline specified in section 901(a)(6) of this title minus $23,000,000,000 for fiscal year 1988 or $36,000,000,000 for fiscal year 1989;
 
-> except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection” for “would otherwise result in a deficit for such fiscal year that exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title (except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection)”.
+> except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection" for "would otherwise result in a deficit for such fiscal year that exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title (except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection)".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, striking out references to sections 641 and651 of this title, and inserting provisions relating to nonconsideration in Senate of any bill, resolution, etc., resulting in a fiscal year deficit exceeding maximum deficit amount specified in section 622(7) of this title, with certain exceptions.
+<b>1985</b>—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, striking out references to sections 641 and 651 of this title, and inserting provisions relating to nonconsideration in Senate of any bill, resolution, etc., resulting in a fiscal year deficit exceeding maximum deficit amount specified in section 622(7) of this title, with certain exceptions.
 
 Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, substituting provisions setting forth exceptions in the House of Representatives for certain bills, etc., under subsec. (a) of this section, for provisions relating to determination of outlays and revenues.
 

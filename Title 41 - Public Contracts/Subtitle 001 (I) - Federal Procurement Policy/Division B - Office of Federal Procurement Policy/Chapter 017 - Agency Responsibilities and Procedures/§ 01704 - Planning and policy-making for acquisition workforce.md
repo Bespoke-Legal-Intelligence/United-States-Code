@@ -188,11 +188,47 @@ In subsection (g)(3)(D), the reference to "section 37(j) of the Office of Federa
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–81, §864(a)(2), as amended by Pub. L. 112–239, §1076(a)(14), substituted "The Associate Administrator shall be located in the Office of Federal Procurement Policy." for "The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor)." in introductory provisions.
 
-Pub. L. 112–81, §864(a)(1), inserted "The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management." after "Programs." in introductory provisions.
+Pub. L. 112–81, §864(a)(1), inserted "The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition,human capital, and management." after "Programs." in introductory provisions.
 
 Subsec. (b)(5), (6). Pub. L. 112–81, §864(a)(3)–(5), added par. (5) and redesignated former par. (5) as (6).
 
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(14) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
+#### Expansion of Training and Use of Information Technology Cadres
+
+Pub. L. 113–291, div. A, title VIII, §835, Dec. 19, 2014, 128 Stat. 3449, provided that:
+
+"(a)
+
+Purpose.—The purpose of this section is to ensure timely progress by Federal agencies toward developing, strengthening, and deploying information technology acquisition cadres consisting of personnel with highly specialized skills in information technology acquisition, including program and project managers.
+
+"(b)
+
+Strategic Planning.—
+
+&emsp;"(1)
+
+In general.—The Administrator for Federal Procurement Policy, in consultation with the Administrator for E-Government and Information Technology, shall work with Federal agencies, other than the Department of Defense, to update their acquisition human capital plans that were developed pursuant to the October 27, 2009, guidance issued by the Administrator for Federal Procurement Policy in furtherance of section 1704(g) of title 41, United States Code (originally enacted as section 869 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4553)), to address how the agencies are meeting their human capital requirements to support the timely and effective acquisition of information technology.
+
+&emsp;"(2)
+
+Elements.—The updates required by paragraph (1) shall be submitted to the Administrator for Federal Procurement Policy and shall address, at a minimum, each Federal agency's consideration or use of the following procedures:
+
+&emsp;&emsp;"(A) Development of an information technology acquisition cadre within the agency or use of memoranda of understanding with other agencies that have such cadres or personnel with experience relevant to the agency's information technology acquisition needs.
+
+&emsp;&emsp;"(B) Development of personnel assigned to information technology acquisitions, including cross-functional training of acquisition information technology and program personnel.
+
+&emsp;&emsp;"(C) Use of the specialized career path for information technology program managers as designated by the Office of Personnel Management and plans for strengthening information technology program management.
+
+&emsp;&emsp;"(D) Use of direct hire authority.
+
+&emsp;&emsp;"(E) Conduct of peer reviews.
+
+&emsp;&emsp;"(F) Piloting of innovative approaches to information technology acquisition workforce development, such as industry-government rotations.
+
+"(c)
+
+Federal Agency Defined.—In this section, the term 'Federal agency' means each agency listed in section 901(b) of title 31, United States Code."
 

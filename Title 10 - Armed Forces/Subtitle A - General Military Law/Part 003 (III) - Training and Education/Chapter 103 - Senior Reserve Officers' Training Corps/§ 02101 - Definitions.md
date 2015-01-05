@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term "program" means the Senior Reserve Officers' Training Corps of an armed force.
 
-&emsp;(2) The term "member of the program" means a student who is enrolled in the Senior Reserve Officers' Training Corps of an armed force.
+&emsp;(2) The term "member of the program" means a student who is enrolled in the SeniorReserve Officers' Training Corps of an armed force.
 
 &emsp;(3) The term "advanced training" means the training and instruction offered in the Senior Reserve Officers' Training Corps to students enrolled in an advanced education program beyond the baccalaureate degree level or to students in the third and fourth years of a four-year Senior Reserve Officers' Training Corps course, or the equivalent period of training in an approved two-year Senior Reserve Officers' Training Corps course (except that, in the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers' Training Corps course, such term includes a fifth academic year or a combination of a part of a fifth academic year and summer sessions).
 
@@ -40,5 +40,5 @@ In General.—The Secretary of Defense shall support the acquisition of foreign 
 
 "(b)
 
-Report Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], theSecretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the actions taken to carry out this section."
+Report Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the actions taken to carry out this section."
 

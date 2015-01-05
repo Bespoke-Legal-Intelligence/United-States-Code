@@ -16,7 +16,7 @@ Funding Plan.—Before the date on which the Commandant establishes a museum und
 
 &emsp;(1) estimated planning, engineering, design, construction, operation, and maintenance costs;
 
-&emsp;(2) the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent to which there is any shortfall in funding for engineering, design, or construction; and
+&emsp;(2) the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent towhich there is any shortfall in funding for engineering, design, or construction; and
 
 &emsp;(3) a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
 

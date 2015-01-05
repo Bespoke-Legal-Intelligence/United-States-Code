@@ -18,3 +18,4 @@
 - [&sect; 05851 - Employee protection](%C2%A7%2005851%20-%20Employee%20protection.md)
 - [&sect; 05852 - Availability of funds](%C2%A7%2005852%20-%20Availability%20of%20funds.md)
 - [&sect; 05853 - Limitation on legal fee reimbursement](%C2%A7%2005853%20-%20Limitation%20on%20legal%20fee%20reimbursement.md)
+- [&sect; 05854 - Notification and reports by Chairman](%C2%A7%2005854%20-%20Notification%20and%20reports%20by%20Chairman.md)

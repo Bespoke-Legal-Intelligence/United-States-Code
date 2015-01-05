@@ -26,7 +26,7 @@ It shall be unlawful for any officer or director of any public utility to receiv
 
 &emsp;&emsp;&emsp;(i) a person described in subparagraph (A) does not participate in any deliberations or decisions of the public utility regarding the selection of a bank, trust company, banking association, or firm to underwrite or participate in the marketing of securities of the public utility, if the person serves as an officer or director of a bank, trust company, banking association, or firm that is under consideration in the deliberation process;
 
-&emsp;&emsp;&emsp;(ii) the bank, trust company, banking association, or firm of which the person is an officer or director does not engage in the underwriting of, or participate in the marketing of, securities of the public utility of which the person holds the position of officer or director;
+&emsp;&emsp;&emsp;(ii) the bank, trust company, banking association, or firm of which the person is an officer or director does not engage in theunderwriting of, or participate in the marketing of, securities of the public utility of which the person holds the position of officer or director;
 
 &emsp;&emsp;&emsp;(iii) the public utility for which the person serves or proposes to serve as an officer or director selects underwriters by competitive procedures; or
 

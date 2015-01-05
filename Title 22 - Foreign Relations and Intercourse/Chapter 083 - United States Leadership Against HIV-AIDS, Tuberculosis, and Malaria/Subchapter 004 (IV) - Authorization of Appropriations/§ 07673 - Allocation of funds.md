@@ -34,7 +34,7 @@
 
 #### (b) Orphans and vulnerable children
 
-For fiscal years 2009 through 2018, not less than 10 percent of the amounts appropriated orotherwise made available to carry out the provisions of section 2151b–2 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
+For fiscal years 2009 through 2018, not less than 10 percent of the amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
 
 #### (c) Funding allocation
 
@@ -58,7 +58,7 @@ For each of the fiscal years 2009 through 2013—
 
 &emsp;(2) any increase in the treatment goal under section 7672(a)(3) of this title above the percentage increase in the amount appropriated for bilateral global HIV/AIDS assistance for such fiscal year compared with fiscal year 2008 shall be based on long-term requirements, epidemiological evidence, the share of treatment needs being met by partner governments and other sources of treatment funding, and other appropriate factors;
 
-&emsp;(3) the treatment goal under section 7672(a)(3) of this title shall be increased above the number calculated under paragraph (1) by the same percentage that the average United States Government cost per patient of providing treatment in countries receiving bilateral HIV/AIDS assistance has decreased compared with fiscal year 2008; and
+&emsp;(3) the treatment goal under section 7672(a)(3) of this title shall be increased above the number calculated under paragraph (1) bythe same percentage that the average United States Government cost per patient of providing treatment in countries receiving bilateral HIV/AIDS assistance has decreased compared with fiscal year 2008; and
 
 &emsp;(4) the prevention and care goals established in clauses (i) and (iv) of section 2151b–2(b)(1)(A) of this title shall be increased consistent with epidemiological evidence and available resources.
 

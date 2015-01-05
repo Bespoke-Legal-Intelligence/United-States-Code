@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The recreation area shall be administered by the Secretary in accordance with this Act and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title.
+The recreation area shall be administered by the Secretary in accordance with this Act and with the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1–4).<sup>1</sup>
 
 #### (b) Hunting and fishing; fish stocking
 
-The Secretary shall permit hunting, trapping and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws. The Secretary may, after consultation with the State of West Virginia Department of Natural Resources, designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife habitat or public use and enjoyment subject to such terms and conditions as he deems necessary in the furtherance of this Act. The Secretary shall permit the State of West Virginia to undertake or continue fish stocking activities carried out by the State in consultation with the Secretary on waters within the boundaries of the recreation area. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State of West Virginia with respect to fish and wildlife <sup>1</sup>
+The Secretary shall permit hunting, trapping and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws. The Secretary may, after consultation with the State of West Virginia Department of Natural Resources, designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife habitat or public use and enjoyment subject to such terms and conditions as he deems necessary in the furtherance of this Act. The Secretary shall permit the State of West Virginia to undertake or continue fish stocking activities carried out by the State in consultation with the Secretary on waters within the boundaries of the recreation area. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State of West Virginia with respect to fish and wildlife <sup>2</sup>
 
 #### (c) Cooperative agreements with State
 
@@ -14,7 +14,7 @@ In administering the recreation area the Secretary is authorized to enter into c
 
 #### (d) Application of other provisions
 
-The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the recreation area in the same manner and to the same extent as such provisions apply to river segments referred to in such provisions.
+The provisions of section 1278(a) of this title,<sup>3</sup> shall apply to the recreation area in the same manner and to the same extent as such provisions apply to river segments referred to in such provisions.
 
 #### (e) Recreational access
 
@@ -32,7 +32,7 @@ The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the 
 
 #### (4) Access to river
 
-&emsp;(A) In order to facilitate public safety, use, and enjoyment of the recreation area, and to protect, to the maximum extent feasible, the scenic and natural resources of the area, the Secretary is authorized and directed to acquire such lands or interests in lands and to take such actions as are necessary to provide access by noncommercial entities on the north side of the Gauley River at the area known as Woods Ferry utilizing existing roads and rights-of-way. Such actions by the Secretary shall include the construction of parking and related facilities in the vicinity of Woods Ferry for noncommercial use on lands acquired pursuant to paragraph (3) or on lands acquired with the consent of the owner thereof within the boundaries of the recreation area.
+&emsp;(A) In order to facilitate public safety, use, and enjoyment of the recreation area, and to protect, to the maximum extent feasible, the scenic and natural resources of the area, the Secretary is authorized and directed to acquire such lands or interests in lands and to take such actions as are necessary to provide access by noncommercial entities on the north side of the Gauley River at the area known as Woods Ferry utilizing existing roads and rights-of-way. Such actions by the Secretary shall include the construction of parking and related facilities in the vicinity of Woods Ferry for noncommercial use on lands acquired pursuant to paragraph (3) or on landsacquired with the consent of the owner thereof within the boundaries of the recreation area.
 
 &emsp;(B) If necessary, in the discretion of the Secretary, in order to minimize environmental impacts, including visual impacts, within portions of the recreation area immediately adjacent to the river, the Secretary may, by contract or otherwise, provide transportation services for noncommercial visitors, at reasonable cost, between such parking facilities and the river.
 
@@ -48,11 +48,15 @@ After consultation with any other Federal agency managing lands and waters withi
 
 This Act, referred to in subsecs. (a) and (b), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 460m–26 to 460m–29 of this title, amended sections 460m–15 and 1274 of this title, and enacted provisions set out as notes under sections 460m–15 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 460m–15 of this title and Tables.
 
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
 #### Amendments
 
 <b>1996</b>—Subsec. (e)(4). Pub. L. 104–333 added par. (4).
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

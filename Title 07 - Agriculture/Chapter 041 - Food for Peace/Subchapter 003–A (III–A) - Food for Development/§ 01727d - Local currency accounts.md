@@ -10,7 +10,7 @@ To the extent determined to be appropriate by the Administrator, revenues genera
 
 #### (b) Ownership and programming of accounts
 
-The proceeds of sales pursuant to section 1727c(2) of this title shall be the property of the recipient country or the United States, as specified in the applicable agreement. Such proceeds shall be utilized for the benefit of the recipient country, shall be jointly programmed by the Administrator and the government of the recipient country, and shall be disbursed for the benefit ofsuch country in accordance with local currency agreements between the Administrator and that government.
+The proceeds of sales pursuant to section 1727c(2) of this title shall be the property of the recipient country or the United States, as specified in the applicable agreement. Such proceeds shall be utilized for the benefit of the recipient country, shall be jointly programmed by the Administrator and the government of the recipient country, and shall be disbursed for the benefit of such country in accordance with local currency agreements between the Administrator and that government.
 
 #### (c) Overall development strategy
 
@@ -24,7 +24,7 @@ A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enac
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient government or as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient governmentor as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–53, §206, inserted provisions relating to disbursements from the special account equal to the dollar value of credit furnished by the Commodity Credit Corporation under section 1727c(a) of this title.
 

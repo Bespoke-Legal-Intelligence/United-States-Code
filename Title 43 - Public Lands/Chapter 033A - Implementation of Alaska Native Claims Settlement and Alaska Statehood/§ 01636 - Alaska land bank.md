@@ -16,7 +16,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 &emsp;(2) Lands subject to the agreement shall be managed by the owner in a manner compatible with the management plan, if any, for the adjoining Federal or State lands, and with the requirements of this subsection. If lands subject to the agreement do not adjoin either Federal or State lands, they shall be managed in a manner compatible with the management plan, if any, of Federal or State lands which would be directly affected by the use of such private lands. If no such plan has been adopted, or if the use of such private lands would not directly affect either Federal or State lands, the owner shall manage such lands in accordance with the provisions in paragraph (1) of this subsection. Except as provided in (3) <sup>1</sup> of this subsection, nothing in this section or the management plan of any Federal or State agency shall be construed to require a private landowner to grant public access on or across his lands.
 
-&emsp;(3) If the surface landowner so consents, such lands may be made available for local or other recreational use: <i>Provided</i>, That the refusal of a private landowner to permit the uses referred to in this subsection shall not be grounds for the refusal of the Secretary or the State to enter into an agreement with the landowner under this section.
+&emsp;(3) If the surface landowner so consents, such lands may be made available for local or other recreational use: <i>Provided</i>, That the refusal of a private landowner to permit the uses referred to in this subsection shall not begrounds for the refusal of the Secretary or the State to enter into an agreement with the landowner under this section.
 
 &emsp;(4) Appropriate Federal and/or State agency heads shall have reasonable access to such privately owned land for purposes relating to the administration of the adjoining Federal or State lands, and to carry out their obligations under the agreement.
 
@@ -28,7 +28,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 &emsp;&emsp;(A) submits written notice thereof to the other parties which are signatory to the agreement; and
 
-&emsp;&emsp;(B) pays all Federal, State and local property taxes and assessments which, duringthe particular term then in effect, would have been incurred except for the agreement, together with interest on such taxes and assessments in an amount to be determined at the highest rate of interest charged with respect to delinquent property taxes by the Federal, State or local taxing authority, if any.
+&emsp;&emsp;(B) pays all Federal, State and local property taxes and assessments which, during the particular term then in effect, would have been incurred except for the agreement, together with interest on such taxes and assessments in an amount to be determined at the highest rate of interest charged with respect to delinquent property taxes by the Federal, State or local taxing authority, if any.
 
 &emsp;(8) The agreement may contain such additional terms, which are consistent with the provisions of this section, as seem desirable to the parties entering into the agreement: <i>Provided</i>, That the refusal of the landowner to agree to any additional terms shall not be grounds for the refusal of the Secretary or the State to enter into an agreement with the landowner under this section.
 
@@ -68,7 +68,7 @@ Definitions.—(A) For purposes of this subsection, the term—
 
 &emsp;(ii) "Exploration" means the examination and investigation of undeveloped land to determine the existence of subsurface nonrenewable resources; and
 
-&emsp;(iii) "Leased" means subjected to a grant of primary possession entered into for a gainful purpose with a determinable fee remaining in the hands of the grantor. With respect to a lease that conveys rights of exploration and development, the exemptions listed in paragraph (1) shall continue with respect to that portion of the leased tract that is used solely for the purposes of exploration.
+&emsp;(iii) "Leased" means subjected to a grant of primary possession entered into for a gainful purpose with a determinable fee remaining inthe hands of the grantor. With respect to a lease that conveys rights of exploration and development, the exemptions listed in paragraph (1) shall continue with respect to that portion of the leased tract that is used solely for the purposes of exploration.
 
 (B) For purposes of this subsection—
 
@@ -80,7 +80,7 @@ Definitions.—(A) For purposes of this subsection, the term—
 
 &emsp;(ii) land upon which timber resources are being harvested shall be considered developed only during the period of such harvest and only to the extent that such land is integrally related to the timber harvesting operation;
 
-&emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivisionplat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recorded by such holder or agent unless the subdivided property is a remainder parcel; and
+&emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recorded by such holder or agent unless the subdivided property is a remainder parcel; and
 
 &emsp;(iv) lands or interest in lands shall not be considered developed or leased or sold to a third party as a result of an exchange or conveyance of such land or interest in land between or among Native Corporations and trusts, partnerships, corporations, or joint ventures, whose beneficiaries, partners, shareholders, or joint venturers are Native Corporations.
 
@@ -136,7 +136,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 (5)
 
-Tax Recapture Upon Subdivision Plat Recordation.—(A) Upon the recordation with an appropriate government authority of an approved subdivision plat submitted by, or on behalf of, a Native individual, Native Corporation, or Settlement Trust with respect to land described in paragraph (1), such individual, corporation, or trust shall pay in accordance with this paragraph all State and local property taxes on the smallest practicable tract integrally related to the subdivision project that would have been incurred by the individual, corporation, or trust on such land (excluding the value of subsurface resources and timber) in the absence of the exemption described in paragraph (1)(A)(ii) during the thirty months prior to the date of the recordation of the plat.
+Tax Recapture Upon Subdivision Plat Recordation.—(A) Upon the recordation with an appropriate government authority of an approved subdivision plat submitted by, or on behalf of, a Native individual, Native Corporation, or Settlement Trust with respect to land described in paragraph (1), such individual, corporation, or trust shall pay in accordance with this paragraph all State and local property taxes on the smallest practicable tract integrally related to the subdivision project that would have been incurred by the individual, corporation, or trust on such land (excluding thevalue of subsurface resources and timber) in the absence of the exemption described in paragraph (1)(A)(ii) during the thirty months prior to the date of the recordation of the plat.
 
 (B) State and local property taxes specified in subparagraph (A) of this paragraph (together with interest at the rate of 5 per centum per annum commencing on the date of recordation of the subdivision plat) shall be paid in equal semi-annual installments over a two-year period commencing on the date six months after the date of recordation of the subdivision plat.
 

@@ -1,6 +1,6 @@
 ### §139. Director of Operational Test and Evaluation
 
-(a)(1) There is a Director of Operational Test and Evaluation in the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Director shall be appointed without regard to political affiliation and solely on the basis of fitness to perform the duties of the office of Director. The Director may be removed from office by the President. The President shall communicate the reasons for any such removal to both Houses of Congress.
+(a)(1) There is a Director of Operational Test and Evaluation in the Department of Defense,appointed from civilian life by the President, by and with the advice and consent of the Senate. The Director shall be appointed without regard to political affiliation and solely on the basis of fitness to perform the duties of the office of Director. The Director may be removed from office by the President. The President shall communicate the reasons for any such removal to both Houses of Congress.
 
 (2) In this section:
 
@@ -26,7 +26,7 @@
 
 &emsp;(6) monitor and review the live fire testing activities of the Department of Defense provided for under section 2366 of this title.
 
-(c) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Director shall consult closely with, but the Director and the Director's staff are independent of, the Under Secretary of Defense for Acquisition,Technology, and Logistics and all other officers and entities of the Department of Defense responsible for acquisition.
+(c) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Director shall consult closely with, but the Director and the Director's staff are independent of, the Under Secretary of Defense for Acquisition, Technology, and Logistics and all other officers and entities of the Department of Defense responsible for acquisition.
 
 (d) The Director may not be assigned any responsibility for developmental test and evaluation, other than the provision of advice to officials responsible for such testing.
 
@@ -140,7 +140,7 @@ Subsec. (g). Pub. L. 101–189, §802(b)(6), (8), redesignated former par. (2) o
 
 <b>1987</b>—Subsec. (a)(2)(B). Pub. L. 100–26, §7(c)(2), substituted "section 2430" for "section 2432(a)(1)".
 
-Subsec. (c). Pub. L. 100–26, §7(a)(1), substituted "to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied bysuch comments as the Secretary may wish to make on the report." for "to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report."
+Subsec. (c). Pub. L. 100–26, §7(a)(1), substituted "to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report." for "to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report."
 
 Subsec. (d). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 

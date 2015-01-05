@@ -6,5 +6,5 @@ Any person who (1) was a citizen of the Commonwealth of the Philippines on July 
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–649 substituted “applying” for “petitioning”.
+<b>1990</b>—Pub. L. 101–649 substituted "applying" for "petitioning".
 

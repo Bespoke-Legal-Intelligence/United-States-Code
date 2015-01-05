@@ -8,7 +8,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;(2) enhance and coordinate the nuclear detection efforts of Federal, State, local, and tribal governments and the private sector to ensure a managed, coordinated response;
 
-&emsp;(3) establish, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of Defense, and theSecretary of Energy, additional protocols and procedures for use within the United States to ensure that the detection of unauthorized nuclear explosive devices, fissile material, or radiological material is promptly reported to the Attorney General, the Secretary, the Secretary of Defense, the Secretary of Energy, and other appropriate officials or their respective designees for appropriate action by law enforcement, military, emergency response, or other authorities;
+&emsp;(3) establish, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of Defense, and the Secretary of Energy, additional protocols and procedures for use within the United States to ensure that the detection of unauthorized nuclear explosive devices, fissile material, or radiological material is promptly reported to the Attorney General, the Secretary, the Secretary of Defense, the Secretary of Energy, and other appropriate officials or their respective designees for appropriate action by law enforcement, military, emergency response, or other authorities;
 
 &emsp;(4) develop, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of State, the Secretary of Defense, and the Secretary of Energy, an enhanced global nuclear detection architecture with implementation under which—
 
@@ -16,7 +16,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;&emsp;(B) the Secretary of Defense will retain responsibility for implementation of Department of Defense requirements within and outside the United States; and
 
-&emsp;&emsp;(C) the Secretary of State, the Secretary of Defense, and the Secretary of Energy will maintain their respective responsibilities for policy guidance and implementation of the portion of the global architecture outside the United States, which will be implemented consistent with applicable law and relevant international arrangements;
+&emsp;&emsp;(C) the Secretary of State, the Secretary of Defense, and the Secretary of Energy willmaintain their respective responsibilities for policy guidance and implementation of the portion of the global architecture outside the United States, which will be implemented consistent with applicable law and relevant international arrangements;
 
 &emsp;(5) ensure that the expertise necessary to accurately interpret detection data is made available in a timely manner for all technology deployed by the Office to implement the global nuclear detection architecture;
 
@@ -64,7 +64,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;&emsp;&emsp;(ii) provide for the setting aside of up to 10 percent of the scholarships or fellowships awarded under this section for individuals who are Federal employees to enhance the education of such employees in areas of critical nuclear forensics and attribution needs of the United States Government, for doctoral education under the scholarship on a full-time or part-time basis;
 
-&emsp;&emsp;&emsp;(iii) provide that the Secretary may enter into a contractual agreement with an institution of higher education under which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which such scholarship is awarded;
+&emsp;&emsp;&emsp;(iii) provide that the Secretary may enter into a contractual agreement withan institution of higher education under which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which such scholarship is awarded;
 
 &emsp;&emsp;&emsp;(iv) require scholarship recipients to maintain satisfactory academic progress; and
 
@@ -88,27 +88,27 @@ In this section:
 
 #### (1) Alaska Native-serving institution
 
-&emsp;The term “Alaska Native-serving institution” has the meaning given the term in section 1059d of title 20.
+&emsp;The term "Alaska Native-serving institution" has the meaning given the term in section 1059d of title 20.
 
 #### (2) Asian American and Native American Pacific Islander-serving institution
 
-&emsp;The term “Asian American and Native American Pacific Islander-serving institution” has the meaning given the term in section 1059g of title 20.
+&emsp;The term "Asian American and Native American Pacific Islander-serving institution" has the meaning given the term in section 1059g of title 20.
 
 #### (3) Hawaiian native-serving institution
 
-&emsp;The term “Hawaiian native-serving institution” has the meaning given the term in section 1059d of title 20.
+&emsp;The term "Hawaiian native-serving institution" has the meaning given the term in section 1059d of title 20.
 
 #### (4) Hispanic-serving institution
 
-&emsp;The term “Hispanic-serving institution” has the meaning given that term in section 1101a of title 20.
+&emsp;The term "Hispanic-serving institution" has the meaning given that term in section 1101a of title 20.
 
 #### (5) Historically Black college or university
 
-&emsp;The term “historically Black college or university” has the meaning given the term “part B institution” in section 1061(2) of title 20.
+&emsp;The term "historically Black college or university" has the meaning given the term "part B institution" in section 1061(2) of title 20.
 
 #### (6) Tribal College or University
 
-&emsp;The term “Tribal College or University” has the meaning given that term in section 1059c(b) of title 20.
+&emsp;The term "Tribal College or University" has the meaning given that term in section 1059c(b) of title 20.
 
 (Pub. L. 107–296, title XIX, §1902, formerly title XVIII, §1802, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932; renumbered title XIX, §1902, Pub. L. 110–53, title I, §104(a)(1), (2), Aug. 3, 2007, 121 Stat. 294; amended Pub. L. 111–140, §4(a), Feb. 16, 2010, 124 Stat. 32.)
 
@@ -124,21 +124,21 @@ Subsec. (b). Pub. L. 111–140, §4(a)(2), added subsec. (b).
 
 #### Findings
 
-Pub. L. 111–140, §2, Feb. 16, 2010, 124 Stat. 31, provided that: “Congress finds the following:
+Pub. L. 111–140, §2, Feb. 16, 2010, 124 Stat. 31, provided that: "Congress finds the following:
 
-&emsp;“(1) The threat of a nuclear terrorist attack on American interests, both domestic and abroad, is one of the most serious threats to the national security of the United States. In the wake of an attack, attribution of responsibility would be of utmost importance. Because of the destructive power of a nuclear weapon, there could be little forensic evidence except the radioactive material in the weapon itself.
+&emsp;"(1) The threat of a nuclear terrorist attack on American interests, both domestic and abroad, is one of the most serious threats to the national security of the United States. In the wake of an attack, attribution of responsibility would be of utmost importance. Because of the destructive power of a nuclear weapon, there could be little forensic evidence except the radioactive material in the weapon itself.
 
-&emsp;“(2) Through advanced nuclear forensics, using both existing techniques and those under development, it may be possible to identify the source and pathway of a weapon or material after it is interdicted or detonated. Though identifying intercepted smuggled material is now possible in some cases, pre-detonation forensics is a relatively undeveloped field. The post-detonation nuclear forensics field is also immature, and the challenges are compounded by the pressures and time constraints of performing forensics after a nuclear or radiological attack.
+&emsp;"(2) Through advanced nuclear forensics, using both existing techniques and those under development, it may be possible to identify the source and pathway of a weapon or material after it is interdicted or detonated. Though identifying intercepted smuggled material is now possible in some cases, pre-detonation forensics is a relatively undeveloped field. The post-detonation nuclear forensics field is also immature, and the challenges are compounded by the pressures and time constraints of performing forensics after a nuclear or radiological attack.
 
-&emsp;“(3) A robust and well-known capability to identify the source of nuclear or radiological material intended for or used in an act of terror could also deter prospective proliferators. Furthermore, the threat of effective attribution could compel improved security at material storage facilities, preventing the unwitting transfer of nuclear or radiological materials.
+&emsp;"(3) A robust and well-known capability to identify the source of nuclear or radiological material intended for or used in an act of terror could also deter prospective proliferators. Furthermore, the threat of effective attribution could compel improved security at material storage facilities, preventing the unwitting transfer of nuclear or radiological materials.
 
-&emsp;“(4)(A) In order to identify special nuclear material and other radioactive materials confidently, it is necessary to have a robust capability to acquire samples in a timely manner, analyze and characterize samples, and compare samples against known signatures of nuclear and radiological material.
+&emsp;"(4)(A) In order to identify special nuclear material and other radioactive materials confidently, it is necessary to have a robust capability to acquire samples in a timely manner, analyze and characterize samples, and compare samples against known signatures of nuclear and radiological material.
 
-&emsp;“(B) Many of the radioisotopes produced in the detonation of a nuclear device have short half-lives, so the timely acquisition of samples is of the utmost importance. Over the past several decades, the ability of the United States to gather atmospheric samples—often the preferred method of sample acquisition—has diminished. This ability must be restored and modern techniques that could complement or replace existing techniques should be pursued.
+&emsp;"(B) Many of the radioisotopes produced in the detonation of a nuclear device have short half-lives, so the timely acquisition of samples is of the utmost importance. Over the past several decades, the ability of the United States to gather atmospheric samples—often the preferred method of sample acquisition—has diminished. This ability must be restored andmodern techniques that could complement or replace existing techniques should be pursued.
 
-&emsp;“(C) The discipline of pre-detonation forensics is a relatively undeveloped field. The radiation associated with a nuclear or radiological device may affect traditional forensics techniques in unknown ways. In a post-detonation scenario, radiochemistry may provide the most useful tools for analysis and characterization of samples. The number of radiochemistry programs and radiochemists in United States National Laboratories and universities has dramatically declined over the past several decades. The narrowing pipeline of qualified people into this critical field is a serious impediment to maintaining a robust and credible nuclear forensics program.
+&emsp;"(C) The discipline of pre-detonation forensics is a relatively undeveloped field. The radiation associated with a nuclear or radiological device may affect traditional forensics techniques in unknown ways. In a post-detonation scenario, radiochemistry may provide the most useful tools for analysis and characterization of samples. The number of radiochemistry programs and radiochemists in United States National Laboratories and universities has dramatically declined over the past several decades. The narrowing pipeline of qualified people into this critical field is a serious impediment to maintaining a robust and credible nuclear forensics program.
 
-&emsp;“(5) Once samples have been acquired and characterized, it is necessary to compare the results against samples of known material from reactors, weapons, and enrichment facilities, and from medical, academic, commercial, and other facilities containing such materials, throughout the world. Some of these samples are available to the International Atomic Energy Agency through safeguards agreements, and some countries maintain internal sample databases. Access to samples in many countries is limited by national security concerns.
+&emsp;"(5) Once samples have been acquired and characterized, it is necessary to compare the results against samples of known material from reactors, weapons, and enrichment facilities, and from medical, academic, commercial, and other facilities containing such materials, throughout the world. Some of these samples are available to the International Atomic Energy Agency through safeguards agreements, and some countries maintain internal sample databases. Access to samples in many countries is limited by national security concerns.
 
-&emsp;“(6) In order to create a sufficient deterrent, it is necessary to have the capability to positively identify the source of nuclear or radiological material, and potential traffickers in nuclear or radiological material must be aware of that capability. International cooperation may be essential to catalogue all existing sources of nuclear or radiological material.”
+&emsp;"(6) In order to create a sufficient deterrent, it is necessary to have the capability to positively identify the source of nuclear or radiological material, and potential traffickers in nuclear or radiological material must be aware of that capability. International cooperation may be essential to catalogue all existing sources of nuclear or radiological material."
 

@@ -13,3 +13,4 @@
 - [&sect; 11316 - Accountability](%C2%A7%2011316%20-%20Accountability.md)
 - [&sect; 11317 - Significant deviations](%C2%A7%2011317%20-%20Significant%20deviations.md)
 - [&sect; 11318 - Interagency support](%C2%A7%2011318%20-%20Interagency%20support.md)
+- [&sect; 11319 - Resources, planning, and portfolio management](%C2%A7%2011319%20-%20Resources%2C%20planning%2C%20and%20portfolio%20management.md)

@@ -42,7 +42,7 @@ The State shall exercise civil and criminal jurisdiction within the boundaries o
 
 (2) At the written request of the Tribal Council, the Secretary may—
 
-&emsp;(A) accept conveyance to the Secretary by the Tribal Council (on behalf of the tribe) oftitle to any land located within El Paso County, or Hudspeth County, Texas, that is acquired by the Tribal Council in fee simple after August 18, 1987, and
+&emsp;(A) accept conveyance to the Secretary by the Tribal Council (on behalf of the tribe) of title to any land located within El Paso County, or Hudspeth County, Texas, that is acquired by the Tribal Council in fee simple after August 18, 1987, and
 
 &emsp;(B) hold such title, upon such conveyance by the Tribal Council, in trust for the benefit of the tribe.
 

@@ -4,7 +4,7 @@
 
 #### (1) 1-year carryback and 20-year carryforward
 
-&emsp;If the sum of the business credit carryforwards to the taxable year plus the amountof the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the "unused credit year"), such excess (to the extent attributable to the amount of the current year business credit) shall be—
+&emsp;If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the "unused credit year"), such excess (to the extent attributable to the amount of the current year business credit) shall be—
 
 &emsp;&emsp;(A) a business credit carryback to the taxable year preceding the unused credit year, and
 

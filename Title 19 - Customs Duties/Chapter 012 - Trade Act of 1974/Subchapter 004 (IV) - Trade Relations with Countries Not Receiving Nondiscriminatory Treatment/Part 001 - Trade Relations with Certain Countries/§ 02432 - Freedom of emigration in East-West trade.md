@@ -42,11 +42,11 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 &emsp;(C) include, for each country with respect to which a waiver granted under subsection (c) of this section is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
 
-> If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-monthextension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
+> If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-month extension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
 
 (2)(A) The requirements of this paragraph are met if the joint resolution is enacted under the procedures set forth in section 2193 of this title, and—
 
-&emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
+&emsp;(i) the Congress adopts and transmits the joint resolution to the President before theend of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
 
 &emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override such veto on or before the later of the last day of the 60-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title) beginning on the date the Congress receives the veto message from the President.
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary is authorized—
 
-&emsp;(1) to acquire, subject to the availability of appropriations sufficient to cover its full obligations, real property or interests therein by purchase, lease for a term not to exceed 5 years, or otherwise, for use as Coast Guard family housing units, including the acquisition of condominium units, which may include the obligation to pay maintenance, repair, and other condominium-related fees; and
+&emsp;(1) to acquire, subject to the availability of appropriations sufficient to cover its full obligations, real property or interests therein by purchase, lease for a term not to exceed 5 years, or otherwise, for use as Coast Guardfamily housing units, including the acquisition of condominium units, which may include the obligation to pay maintenance, repair, and other condominium-related fees; and
 
 &emsp;(2) to dispose of by sale, lease, or otherwise, any real property or interest therein used for Coast Guard family housing units for adequate consideration.
 
@@ -10,7 +10,7 @@
 
 (2) The Secretary may enter into multiyear contracts under subsection (a) of this section whenever the Coast Guard finds that—
 
-&emsp;(A) the use of a contract will promote the efficiency of the Coast Guard family housingprogram and will result in reduced total costs under the contract; and
+&emsp;(A) the use of a contract will promote the efficiency of the Coast Guard family housing program and will result in reduced total costs under the contract; and
 
 &emsp;(B) there are realistic estimates of both the cost of the contract and the anticipated cost avoidance through the use of a multiyear contract.
 

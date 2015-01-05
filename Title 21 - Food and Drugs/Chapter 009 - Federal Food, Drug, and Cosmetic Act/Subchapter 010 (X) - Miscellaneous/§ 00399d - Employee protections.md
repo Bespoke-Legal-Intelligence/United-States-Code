@@ -16,7 +16,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (1) In general
 
-&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf)a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 #### (2) Investigation
 

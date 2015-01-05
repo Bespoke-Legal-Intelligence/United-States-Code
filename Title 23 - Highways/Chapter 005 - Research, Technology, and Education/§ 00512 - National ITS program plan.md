@@ -56,7 +56,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;"(1) enhancement of surface transportation efficiency and facilitation of intermodalism and international trade to enable existing facilities to meet a significant portion of future transportation needs, including public access to employment, goods, and services and to reduce regulatory, financial, and other transaction costs to public agencies and system users;
 
-&emsp;"(2) achievement of national transportation safety goals, including the enhancement of safe operation ofmotor vehicles and nonmotorized vehicles and improved emergency response to a crash, with particular emphasis on decreasing the number and severity of collisions;
+&emsp;"(2) achievement of national transportation safety goals, including the enhancement of safe operation of motor vehicles and nonmotorized vehicles and improved emergency response to a crash, with particular emphasis on decreasing the number and severity of collisions;
 
 &emsp;"(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
@@ -330,7 +330,7 @@ Secretary's discretion.—The Secretary may authorize exceptions to paragraph (1
 
 &emsp;&emsp;"(A) projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508 of title 23, United States Code; or
 
-&emsp;&emsp;"(B) the upgrade or expansion of an intelligent transportation system in existence on the date of enactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
+&emsp;&emsp;"(B) the upgrade or expansion of an intelligent transportation system in existence on the date ofenactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
 
 &emsp;&emsp;&emsp;"(i) would not adversely affect the goals or purposes of this subtitle \[subtitle C (§§5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title\];
 
@@ -444,7 +444,7 @@ Allocation of funds.—Of the funds made available under paragraph (1) the Secre
 
 &emsp;"(3)
 
-Applicability of title 23.—Funds authorized by this section shall be available for obligation in the same manner as if such funds were apportioned underchapter 1 of title 23, United States Code, except that the Federal share shall be 100 percent.
+Applicability of title 23.—Funds authorized by this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code, except that the Federal share shall be 100 percent.
 
 "(e)
 
@@ -528,7 +528,7 @@ Nationwide Programmatic Agreement.—
 
 &emsp;"(1)
 
-Development.—The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act (16 U.S.C. 470f) and the regulations of the Advisory Council on Historic Preservation.
+Development.—The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act (16 U.S.C. 470f) \[see 54 U.S.C. 306108\] and the regulations of the Advisory Council on Historic Preservation.
 
 &emsp;"(2)
 

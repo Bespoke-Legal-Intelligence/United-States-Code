@@ -28,7 +28,7 @@ In order to be eligible to receive any payments under section 9006, the candidat
 
 &emsp;(2) such candidates and their authorized committees will accept and expend or retain contributions to defray qualified campaign expenses only to the extent that the qualified campaign expenses incurred by such candidates and their authorized committees certified to under paragraph (1) exceed the aggregate payments received by such candidates out of the fund pursuant to section 9006.
 
-> Such certification shall be made within such time prior to the day of the presidential electionas the Commission shall prescribe by rules or regulations.
+> Such certification shall be made within such time prior to the day of the presidential election as the Commission shall prescribe by rules or regulations.
 
 #### (d) Withdrawal by candidate
 
@@ -60,7 +60,7 @@ Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted "Commission" for "
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
+Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of theInternal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
 
 #### Effective Date of 1976 Amendment
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 94–283 effective May 11, 1976, see section 306(c) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 
 #### Effective Date of 1973 Amendment
 

@@ -36,7 +36,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
 
-&emsp;(11) when the license is for an ocean thermal energy conversion facility, he determines thatthe thermal plume of the facility is expected to impinge on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility already licensed or operating, without the consent of its owner;
+&emsp;(11) when the license is for an ocean thermal energy conversion facility, he determines that the thermal plume of the facility is expected to impinge on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility already licensed or operating, without the consent of its owner;
 
 &emsp;(12) when the license is for an ocean thermal energy conversion facility, he determines that the thermal plume of the facility is expected to impinge on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation, unless the Secretary of State approves such impingement after consultation with such nation;
 

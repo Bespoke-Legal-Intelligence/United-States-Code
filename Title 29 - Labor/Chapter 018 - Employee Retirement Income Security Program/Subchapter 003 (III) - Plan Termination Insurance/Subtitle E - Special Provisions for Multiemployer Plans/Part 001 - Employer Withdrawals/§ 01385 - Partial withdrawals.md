@@ -22,7 +22,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(2)(A) There is a partial cessation of the employer's contribution obligation for the plan year if, during such year—
 
-&emsp;&emsp;(i) the employer permanently ceases to have an obligation to contribute under oneor more but fewer than all collective bargaining agreements under which the employer has been obligated to contribute under the plan but continues to perform work in the jurisdiction of the collective bargaining agreement of the type for which contributions were previously required or transfers such work to another location or to an entity or entities owned or controlled by the employer, or
+&emsp;&emsp;(i) the employer permanently ceases to have an obligation to contribute under one or more but fewer than all collective bargaining agreements under which the employer has been obligated to contribute under the plan but continues to perform work in the jurisdiction of the collective bargaining agreement of the type for which contributions were previously required or transfers such work to another location or to an entity or entities owned or controlled by the employer, or
 
 &emsp;&emsp;(ii) an employer permanently ceases to have an obligation to contribute under the plan with respect to work performed at one or more but fewer than all of its facilities, but continues to perform work at the facility of the type for which the obligation to contribute ceased.
 
@@ -80,7 +80,7 @@ Pub. L. 96–364, title I, §108(c)(2), Sept. 26, 1980, 94 Stat. 1268, provided 
 
 &emsp;"(i) the employer is engaged in the trade or business of shipping bulk cargoes in the Great Lakes Maritime Industry, and whose fleet consists of vessels the gross registered tonnage of which was at least 7,800, as stated in the American Bureau of Shipping Record, and
 
-&emsp;"(ii) whose fleet during any 5 years from the period 1970 through and including 1979 has experienced a 33 percent or more increase in the contribution units as measured from the average annual contribution units for the calendar years 1970 and 1971."
+&emsp;"(ii) whose fleet during any 5 years from the period 1970 through and including 1979 has experienced a 33 percent or more increase in the contribution units asmeasured from the average annual contribution units for the calendar years 1970 and 1971."
 
 #### Applicability to Specified Plan Year, Cessation of Contribution Obligations, and Contribution Base Units of Employer
 

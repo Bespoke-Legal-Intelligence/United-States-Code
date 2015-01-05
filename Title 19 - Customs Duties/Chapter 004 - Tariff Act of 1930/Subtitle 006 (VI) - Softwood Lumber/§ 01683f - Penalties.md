@@ -18,7 +18,7 @@ In determining the amount of civil penalties to be assessed under this section, 
 
 #### (e) Notice
 
-No penalty may be assessed under this section against a person for violating a provision of this subtitle unless the person is given notice and opportunity to make statements, both oral and written, with respect to such violation.
+No penalty may be assessed under this section against a person for violating a provision of thissubtitle unless the person is given notice and opportunity to make statements, both oral and written, with respect to such violation.
 
 #### (f) Exception
 

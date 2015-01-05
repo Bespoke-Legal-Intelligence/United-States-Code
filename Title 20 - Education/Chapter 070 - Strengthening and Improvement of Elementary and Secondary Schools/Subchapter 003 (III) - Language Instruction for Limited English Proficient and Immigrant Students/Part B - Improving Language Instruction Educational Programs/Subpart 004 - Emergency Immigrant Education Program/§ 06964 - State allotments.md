@@ -12,7 +12,7 @@ The Secretary shall, in accordance with the provisions of this section, make pay
 
 #### (2) Eligible local educational agencies
 
-&emsp;A local educational agency referred to in paragraph (1) is a local educational agency for which the sum of the number of immigrant children and youth who are enrolled in public elementary schools or secondary schools under the jurisdiction of such agency, and in nonpublic elementary schools or secondary schools within the district served by such agency, during the fiscal year for which the payments are to be made under this subpart, is equal to at least—
+&emsp;A local educational agency referred to in paragraph (1) is a local educational agency for which the sum of the number of immigrant children and youth who are enrolled in public elementary schools or secondary schools underthe jurisdiction of such agency, and in nonpublic elementary schools or secondary schools within the district served by such agency, during the fiscal year for which the payments are to be made under this subpart, is equal to at least—
 
 &emsp;&emsp;(A) 500; or
 

@@ -10,7 +10,7 @@ The Director shall report directly to the Secretary and shall have the general s
 
 <b>2007</b>—Pub. L. 110–69 substituted "The Director shall report directly to the Secretary and shall have the general" for "The Director shall have the general".
 
-<b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to appointment, powers and duties, and compensation of, and reports by, Director of the Institute for similar provisions relating to Director of the Bureau of Standards, striking out requirement that the annual report include an abstract of the work done during the year and a financial statement, and inserting provision that until such time as the Director assumes office under this section, the most recent Director of the National Bureau of Standards shall serve as Director.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to appointment, powers and duties, and compensation of, and reports by, Director of the Institute for similar provisions relating toDirector of the Bureau of Standards, striking out requirement that the annual report include an abstract of the work done during the year and a financial statement, and inserting provision that until such time as the Director assumes office under this section, the most recent Director of the National Bureau of Standards shall serve as Director.
 
 <b>1985</b>—Pub. L. 99–73 substituted "The Director" for "He" at beginning of second, third, and fourth sentences, and inserted provisions relating to compensation for the Director.
 

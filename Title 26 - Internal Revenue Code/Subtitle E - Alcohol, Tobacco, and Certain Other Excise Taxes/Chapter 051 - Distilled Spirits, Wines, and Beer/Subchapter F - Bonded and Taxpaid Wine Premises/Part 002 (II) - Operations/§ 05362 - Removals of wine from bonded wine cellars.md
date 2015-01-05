@@ -28,7 +28,7 @@ Wine may be withdrawn from bonded wine cellars on payment or determination of th
 
 #### (5) Bonded premises
 
-&emsp;For purposes of this subsection, the term "bonded premises" means a bonded wine cellaror the bonded premises of a distilled spirits plant.
+&emsp;For purposes of this subsection, the term "bonded premises" means a bonded wine cellar or the bonded premises of a distilled spirits plant.
 
 #### (c) Withdrawals of wine free of tax or without payment of tax
 
@@ -60,7 +60,7 @@ Under such regulations as the Secretary may deem necessary to protect the revenu
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, wine entered into customs bonded warehouses under subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
+&emsp;Notwithstanding any other provision of law, wine entered into customs bonded warehousesunder subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
 
 #### (2) Withdrawal for domestic use
 

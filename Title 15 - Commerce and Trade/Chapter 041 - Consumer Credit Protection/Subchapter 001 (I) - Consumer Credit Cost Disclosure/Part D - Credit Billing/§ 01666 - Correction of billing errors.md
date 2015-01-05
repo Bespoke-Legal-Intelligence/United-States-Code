@@ -2,7 +2,7 @@
 
 #### (a) Written notice by obligor to creditor; time for and contents of notice; procedure upon receipt of notice by creditor
 
-If a creditor, within sixty days after having transmitted to an obligor a statement of the obligor's account in connection with an extension of consumer credit, receives at the address disclosed under section 1637(b)(10) of this title a written notice (other than notice on a payment stub or other payment medium supplied by the creditor if the creditor so stipulates with the disclosure required under section 1637(a)(7) of this title) from the obligor in which the obligor—
+If a creditor, within sixty days after having transmitted to an obligor a statement of the obligor's account in connection with an extension of consumer credit, receives at the address disclosed under section 1637(b)(10) of this title a written notice (other than notice on a payment stub or other payment medium supplied by the creditor if the creditor so stipulates with thedisclosure required under section 1637(a)(7) of this title) from the obligor in which the obligor—
 
 &emsp;(1) sets forth or otherwise enables the creditor to identify the name and account number (if any) of the obligor,
 

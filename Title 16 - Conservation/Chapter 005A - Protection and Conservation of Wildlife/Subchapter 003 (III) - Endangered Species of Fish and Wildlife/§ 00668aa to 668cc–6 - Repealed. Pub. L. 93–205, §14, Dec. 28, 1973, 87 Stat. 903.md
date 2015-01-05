@@ -18,7 +18,7 @@ Section 668cc–4, Pub. L. 91–135, §4, Dec. 5, 1969, 83 Stat. 276, set out pe
 
 Section 668cc–5, Pub. L. 91–135, §5, Dec. 5, 1969, 83 Stat. 278, covered international agreements for fish and wildlife preservation.
 
-Section 668cc–6, Pub. L. 91–135, §6, Dec. 5, 1969, 83 Stat. 278, called for coordination of administration ofprovisions relating to endangered species of fish and wildlife with animal quarantine and tariff laws, and provided for non-impairment of functions of Secretaries of Agriculture and Treasury under agriculture and tariff laws, including imports.
+Section 668cc–6, Pub. L. 91–135, §6, Dec. 5, 1969, 83 Stat. 278, called for coordination of administration of provisions relating to endangered species of fish and wildlife with animal quarantine and tariff laws, and provided for non-impairment of functions of Secretaries of Agriculture and Treasury under agriculture and tariff laws, including imports.
 
 #### Effective Date of Repeal
 

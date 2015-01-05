@@ -24,17 +24,17 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (4) Notice and hearing
 
-&emsp;No order assessing a penalty or cease-and-desist order may be issued by the Secretaryunder this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
+&emsp;No order assessing a penalty or cease-and-desist order may be issued by the Secretary under this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
 
 #### (5) Finality
 
-&emsp;An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the United States court of appeals, as provided in subsection (d) of this section.
+&emsp;An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the United States court of appeals, as provided in subsection (d).
 
 #### (d) Review by court of appeals
 
 #### (1) In general
 
-&emsp;A person against whom an order is issued under subsection (c) of this section may obtain review of the order by—
+&emsp;A person against whom an order is issued under subsection (c) may obtain review of the order by—
 
 &emsp;&emsp;(A) filing, not later than 30 days after the person receives notice of the order, a notice of appeal in—
 

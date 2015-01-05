@@ -32,7 +32,7 @@
 
 <b>2002</b>—Subsecs. (a)(1), (2)(B), (b), (e). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–661, §1343(a)(19)(A), substituted "(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the" for "it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportationwhen the Coast Guard is not operating as a service in the Navy, that the".
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–661, §1343(a)(19)(A), substituted "(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the" for "it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, that the".
 
 Subsec. (b). Pub. L. 99–661, §1343(a)(19)(B), inserted a comma after "Secretary of Defense", substituted "with respect to the Coast Guard when it" for "when the Coast Guard", and inserted a comma after "Navy".
 

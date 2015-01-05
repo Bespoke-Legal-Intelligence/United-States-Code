@@ -10,7 +10,7 @@ Decisions of the United States Court of Appeals for the Armed Forces may be revi
 
 &emsp;(4) Cases, other than those described in paragraphs (1), (2), and (3) of this subsection, in which the Court of Appeals for the Armed Forces granted relief.
 
-(Added Pub. L. 98–209, §10(a)(1), Dec. 6, 1983, 97 Stat. 1405; amended Pub. L. 101–189, div. A, title XIII, §1304(b)(3), Nov. 29, 1989, 103 Stat. 1577; Pub. L. 103–337, div. A, title IX, §924(d)(1)(C), (2)(A), Oct. 5, 1994, 108 Stat. 2832.)
+(Added Pub. L. 98–209, §10(a)(1), Dec. 6, 1983, 97 Stat. 1405; amended Pub. L. 101–189, div. A, title XIII, §1304(b)(3), Nov. 29, 1989, 103 Stat. 1577; Pub.L. 103–337, div. A, title IX, §924(d)(1)(C), (2)(A), Oct. 5, 1994, 108 Stat. 2832.)
 
 #### Amendments
 

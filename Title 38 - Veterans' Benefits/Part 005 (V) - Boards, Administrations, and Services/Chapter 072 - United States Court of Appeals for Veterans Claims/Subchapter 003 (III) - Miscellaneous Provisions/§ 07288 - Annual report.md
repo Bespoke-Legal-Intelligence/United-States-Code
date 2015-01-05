@@ -26,7 +26,7 @@ Elements.—Each report under subsection (a) shall include, with respect to the 
 
 &emsp;&emsp;(E) The full Court.
 
-&emsp;(5) The number of each type of disposition by the Court, including settlement, affirmation,remand, vacation, dismissal, reversal, grant, and denial.
+&emsp;(5) The number of each type of disposition by the Court, including settlement, affirmation, remand, vacation, dismissal, reversal, grant, and denial.
 
 &emsp;(6) The median time from filing an appeal to disposition by each of the following:
 

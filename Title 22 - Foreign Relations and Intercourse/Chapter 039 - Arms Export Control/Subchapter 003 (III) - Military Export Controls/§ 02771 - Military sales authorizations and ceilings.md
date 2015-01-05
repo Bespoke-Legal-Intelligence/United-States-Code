@@ -18,7 +18,7 @@ Loans available under section 2763 of this title shall be provided at rates of i
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
@@ -76,7 +76,7 @@ Subsec. (b). Pub. L. 95–92, §19(2), substituted "$2,102,350,000 for the fisca
 
 Subsec. (c). Pub. L. 95–92, §19(3), substituted "year 1978" for "years 1976 and 1977" and struck out "each" before "such year".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–329, §210(a), substituted provisions authorizing appropriations not to exceed $1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977, for provisions authorizing appropriations not to exceed $405,000,000 for the fiscal year 1975.
+<b>1976</b>—Subsec. (a). Pub. L. 94–329, §210(a), substituted provisions authorizing appropriations not to exceed$1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977, for provisions authorizing appropriations not to exceed $405,000,000 for the fiscal year 1975.
 
 Subsec. (b). Pub. L. 94–329, §210(b), substituted provisions setting out the foreign military sales credit ceiling of $2,374,700,000 for the fiscal year 1976, of which not less than $1,500,000,000 shall be available only for Israel, and $2,022,100,000 for the fiscal year 1977, of which not less than $1,000,000,000 shall be available only for Israel, for provisions setting out such ceiling of $872,500,000 for the fiscal year 1975, of which amount not less than $300,000,000 shall be available to Israel only, and struck out provisions relating to obligation of $100,000,000 for financing procurement of defense articles and services by Israel and for release of Israel from contractual liability to repay United States Government for the defense article and services so financed.
 

@@ -4,13 +4,13 @@
 
 The purpose of this section is to reduce the cost of information support for the Congress by eliminating duplication among systems which provide electronic access by Congress to legislative information.
 
-#### (b) “Legislative information” defined
+#### (b) "Legislative information" defined
 
-As used in this section, the term “legislative information” means information, prepared within the legislative branch, consisting of the text of publicly available bills, amendments, committee hearings, and committee reports, the text of the Congressional Record, data relating to bill status, data relating to legislative activity, and other similar public information that is directly related to the legislative process.
+As used in this section, the term "legislative information" means information, prepared within the legislative branch, consisting of the text of publicly available bills, amendments, committee hearings, and committee reports, the text of the Congressional Record, data relating to bill status, data relating to legislative activity, and other similar public information that is directly related to the legislative process.
 
 #### (c) Development of single system to serve entire Congress
 
-Pursuant to the plan approved under subsection (d) of this section and consistent withthe provisions of any other law, the Library of Congress or the entity designated by that plan shall develop and maintain, in coordination with other appropriate entities of the legislative branch, a single legislative information retrieval system to serve the entire Congress.
+Pursuant to the plan approved under subsection (d) and consistent with the provisions of any other law, the Library of Congress or the entity designated by that plan shall develop and maintain, in coordination with other appropriate entities of the legislative branch, a single legislative information retrieval system to serve the entire Congress.
 
 #### (d) Development and approval of plan
 

@@ -70,7 +70,7 @@ In this section—
 
 #### (5) Website
 
-&emsp;The Administrator shall ensure that links to information on the eligibility and enrollment requirements for the Medicaid program and State Children's Health Insurance Program ofeach State are prominently displayed on the website of the Administration.
+&emsp;The Administrator shall ensure that links to information on the eligibility and enrollment requirements for the Medicaid program and State Children's Health Insurance Program of each State are prominently displayed on the website of the Administration.
 
 #### (6) Report
 

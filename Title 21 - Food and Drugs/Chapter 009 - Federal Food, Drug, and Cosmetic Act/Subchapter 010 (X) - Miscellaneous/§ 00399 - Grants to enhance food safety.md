@@ -72,7 +72,7 @@ The Secretary may award grants to an individual grant recipient under this secti
 
 #### (1) In general
 
-&emsp;The Secretary shall measure the status and success of each grant program authorized under the FDA Food Safety Modernization Act (and any amendment made by such Act), including the grant program under this section. A recipient of a grant described in the preceding sentence shall, at the end of each grant year, provide the Secretary with information on how grant funds were spent and the status of the efforts by such recipient to enhance food safety. To the extent practicable, the Secretary shall take the performance of such a grant recipient into account when determining whether to continue funding for such recipient.
+&emsp;The Secretary shall measure the status and success of each grant program authorized under the FDA Food Safety Modernization Act (and any amendment made by such Act), including the grant program under this section. A recipient of a grant described in the preceding sentence shall, at the end of each grant year, provide the Secretary with information on how grant funds were spent and the status of the efforts by such recipient to enhance food safety. To the extent practicable, the Secretary shall take the performance of sucha grant recipient into account when determining whether to continue funding for such recipient.
 
 #### (2) No duplication
 
@@ -100,5 +100,5 @@ The FDA Food Safety Modernization Act, referred to in subsec. (f), is Pub. L. 11
 
 #### Construction of 2011 Amendment
 
-Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, toalter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
+Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 

@@ -32,7 +32,7 @@
 
 &emsp;(2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
 
-&emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscal years of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
+&emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscalyears of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
 
 &emsp;&emsp;(A) retirements displayed by year of active commissioned service;
 
@@ -74,7 +74,7 @@
 
 &emsp;(1) The progress made in implementing the plan required by section 656 of this title to accurately measure the efforts of the Department to reflect the diverse population of the United States eligible to serve in the armed forces.
 
-&emsp;(2) The number of members of the armed forces, including reserve components, listed bygender and race or ethnicity for each rank under each military department.
+&emsp;(2) The number of members of the armed forces, including reserve components, listed by gender and race or ethnicity for each rank under each military department.
 
 &emsp;(3) The number of members of the armed forces, including reserve components, who were promoted during the year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
 
@@ -154,13 +154,51 @@ Pub. L. 104–106, §1061(d)(2), struck out subsec. (d) which read as follows: "
 
 Subsec. (e). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: "In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next threefiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended."
+Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: "In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended."
 
 Subsec. (g). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e).
 
 Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 
 <b>1991</b>—Subsec. (d)(3). Pub. L. 102–190 inserted "provide" before "a comprehensive".
+
+#### Centralized Database of Information on Military Technician Positions
+
+Pub. L. 113–291, div. A, title V, §513, Dec. 19, 2014, 128 Stat. 3359, provided that:
+
+"(a)
+
+Centralized Database Required.—The Secretary of Defense shall establish and maintain a centralized database of information on military technician positions that will contain and set forth current information on all military technician positions of the Armed Forces.
+
+"(b)
+
+Elements.—
+
+&emsp;"(1)
+
+Identification of positions.—The database required by subsection (a) shall identify each military technician position, whether dual-status or non-dual status.
+
+&emsp;"(2)
+
+Additional details.—For each military technician position identified pursuant to paragraph (1), the database required by subsection (a) shall include the following:
+
+&emsp;&emsp;"(A) A description of the functions of the position.
+
+&emsp;&emsp;"(B) A statement of the military necessity for the position.
+
+&emsp;&emsp;"(C) A statement of whether the position is—
+
+&emsp;&emsp;&emsp;"(i) a general administration, clerical, or office service occupation; or
+
+&emsp;&emsp;&emsp;"(ii) directly related to the maintenance of military readiness.
+
+"(c)
+
+Consultation.—The Secretary of Defense shall establish the database required by subsection (a) in consultation with the Secretaries of the military departments.
+
+"(d)
+
+Implementation Report.—Not later than September 1, 2015, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing the progress made in establishing the database required by subsection (a)."
 
 #### Assessment of Structure and Mix of Active and Reserve Forces
 

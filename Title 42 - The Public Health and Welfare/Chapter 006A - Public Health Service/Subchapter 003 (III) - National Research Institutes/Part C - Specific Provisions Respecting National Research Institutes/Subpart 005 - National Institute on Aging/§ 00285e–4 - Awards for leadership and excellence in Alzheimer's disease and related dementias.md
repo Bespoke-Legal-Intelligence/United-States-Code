@@ -38,5 +38,5 @@ Subsecs. (c), (d). Pub. L. 100–607, §142(d)(1)(C), substituted "the Institute
 
 #### Availability of Appropriations
 
-Pub. L. 100–607, title I, §142(b), Nov. 4, 1988, 102 Stat. 3057, provided that: "With respect to amounts madeavailable in appropriation Acts for the purpose of carrying out the programs transferred by subsection (a) to the Public Health Service Act \[sections 285e–4 to 285e–8 of this title\], such subsection may not be construed to affect the availability of such funds for such purpose."
+Pub. L. 100–607, title I, §142(b), Nov. 4, 1988, 102 Stat. 3057, provided that: "With respect to amounts made available in appropriation Acts for the purpose of carrying out the programs transferred by subsection (a) to the Public Health Service Act \[sections 285e–4 to 285e–8 of this title\], such subsection may not be construed to affect the availability of such funds for such purpose."
 

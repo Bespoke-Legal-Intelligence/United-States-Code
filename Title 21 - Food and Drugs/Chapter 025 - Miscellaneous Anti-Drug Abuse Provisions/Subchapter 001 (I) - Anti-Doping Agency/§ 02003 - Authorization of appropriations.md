@@ -2,15 +2,23 @@
 
 There are authorized to be appropriated to the United States Anti-Doping Agency—
 
-&emsp;(1) for fiscal year 2007, $9,700,000;
+&emsp;(1) for fiscal year 2014, $11,300,000;
 
-&emsp;(2) for fiscal year 2008, $10,300,000;
+&emsp;(2) for fiscal year 2015, $11,700,000;
 
-&emsp;(3) for fiscal year 2009, $10,600,000;
+&emsp;(3) for fiscal year 2016, $12,300,000;
 
-&emsp;(4) for fiscal year 2010, $11,000,000; and
+&emsp;(4) for fiscal year 2017, $12,900,000;
 
-&emsp;(5) for fiscal year 2011, $11,500,000.
+&emsp;(5) for fiscal year 2018, $13,500,000;
 
-(Pub. L. 109–469, title VII, §703, Dec. 29, 2006, 120 Stat. 3534.)
+&emsp;(6) for fiscal year 2019, $14,100,000; and
+
+&emsp;(7) for fiscal year 2020, $14,800,000.
+
+(Pub. L. 109–469, title VII, §703, Dec. 29, 2006, 120 Stat. 3534; Pub. L. 113–280, §3, Dec. 18, 2014, 128 Stat. 3020.)
+
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–280 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2007 to 2011.
 

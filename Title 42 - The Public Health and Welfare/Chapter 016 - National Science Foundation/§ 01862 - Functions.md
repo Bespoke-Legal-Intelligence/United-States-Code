@@ -4,7 +4,7 @@
 
 The Foundation is authorized and directed—
 
-&emsp;(1) to initiate and support basic scientific research and programs to strengthen scientific research potential and science education programs at all levels in the mathematical, physical, medical, biological, social, and other sciences, and to initiate and support research fundamental to the engineering process and programs to strengthen engineering research potential and engineering education programs at all levels in the various fields of engineering, by making contracts or other arrangements (including grants, loans, and other forms of assistance) to support such scientific, engineering, and educational activities and to appraise the impact of research upon industrial development and upon the general welfare;
+&emsp;(1) to initiate and support basic scientific research and programs to strengthen scientific research potential and science education programs at all levels in the mathematical, physical, medical, biological, social, and other sciences, and to initiate and support research fundamental to the engineering process and programs to strengthen engineering research potential and engineering education programsat all levels in the various fields of engineering, by making contracts or other arrangements (including grants, loans, and other forms of assistance) to support such scientific, engineering, and educational activities and to appraise the impact of research upon industrial development and upon the general welfare;
 
 &emsp;(2) to award, as provided in section 1869 of this title, scholarships and graduate fellowships for study and research in the sciences or in engineering;
 
@@ -26,7 +26,7 @@ The Foundation is authorized to initiate and support specific scientific and eng
 
 #### (c) Scientific and engineering research programs at academic and other nonprofit institutions; applied scientific and engineering research programs by Presidential directive; employment of consulting services; coordination of activities
 
-In addition to the authority contained in subsections (a) and (b) of this section, the Foundation is authorized to initiate and support scientific and engineering research, including applied research, at academic and other nonprofit institutions. When so directed by the President, the Foundation is further authorized to support, through other appropriate organizations, applied scientific research and engineering research relevant to national problems involving the public interest. In exercising the authority contained in this subsection, the Foundation may employ by grant or contract such consulting services as it deems necessary, and shall coordinate and correlate its activities with respect to any such problem with other agencies of the Federal Government undertaking similar programs in that field.
+In addition to the authority contained in subsections (a) and (b), the Foundation is authorized to initiate and support scientific and engineering research, including applied research, at academic and other nonprofit institutions. When so directed by the President, the Foundation is further authorized to support, through other appropriate organizations, applied scientific research and engineering research relevant to national problems involving the public interest. In exercising the authority contained in this subsection, the Foundation may employ by grant or contract such consulting services as it deems necessary, and shall coordinate and correlate its activities with respect to any such problem with other agencies of the Federal Government undertaking similar programs in that field.
 
 #### (d) Promotion of research and education in science and engineering
 
@@ -42,7 +42,7 @@ The Foundation shall render an annual report to the President for submission on 
 
 #### (g) Support of access to computer networks
 
-In carrying out subsection (a)(4) of this section, the Foundation is authorized to foster and support access by the research and education communities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
+In carrying out subsection (a)(4), the Foundation is authorized to foster and support access by the research and education communities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
 
 (May 10, 1950, ch. 171, §3, 64 Stat. 149; Pub. L. 85–510, §1, July 11, 1958, 72 Stat. 353; Pub. L. 86–232, §1, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §1, July 18, 1968, 82 Stat. 360; Pub. L. 92–372, §8, Aug. 10, 1972, 86 Stat. 528; Pub. L. 92–484, §10(b), Oct. 13, 1972, 86 Stat. 802; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–99, §12(a), formerly §14(a), Aug. 15, 1977, 91 Stat. 835, renumbered §12(a), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, 99 Stat. 890, 891; Pub. L. 99–383, §7(a), Aug. 21, 1986, 100 Stat. 814; Pub. L. 102–476, §4, Oct. 23, 1992, 106 Stat. 2300; Pub. L. 102–588, title II, §217, Nov. 4, 1992, 106 Stat. 5117; Pub. L. 105–207, title II, §202(e), July 29, 1998, 112 Stat. 875; Pub. L. 107–305, §7, Nov. 27, 2002, 116 Stat. 2375.)
 
@@ -86,7 +86,7 @@ Subsec. (e). Pub. L. 99–159, §110(11), inserted applicability to engineering.
 
 Subsec. (b). Pub. L. 92–484 inserted provisions authorizing the Foundation to initiate and support specific scientific activities in connection with matters relating to the effects of scientific applications upon society, and substituted provisions relating to the initiation or support pursuant to requests of activities by any other Federal department or agency, including the Office of Technology Assessment, for provisions relating to the initiation or support pursuant to requests of activities by the Secretary of State or Secretary of Defense.
 
-<b>1968</b>—Subsec. (a)(1). Pub. L. 90–407 redesignated par. (2) as (1) and added social sciences to the enumeratedlist of sciences. Former par. (1) redesignated subsec. (d).
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–407 redesignated par. (2) as (1) and added social sciences to the enumerated list of sciences. Former par. (1) redesignated subsec. (d).
 
 Subsec. (a)(2). Pub. L. 90–407 redesignated par. (4) as (2) and added social sciences to the enumerated list of sciences. Former par. (2) redesignated (1).
 
@@ -162,7 +162,7 @@ Pub. L. 95–99, §5, Aug. 15, 1977, 91 Stat. 832, provided that:
 
 &emsp;"(1) qualified scientists and engineers to work on public policy issues with significant scientific and technical components in conjunction with units of State and local government, nonprofit organizations, or bona fide public interest groups;
 
-&emsp;"(2) internship programs for science and engineering undergraduate or graduate students to work on public policy issues with significant scientific and technical components in conjunction with units ofState and local government, nonprofit organizations, or bona fide public interest groups as part of their academic training;
+&emsp;"(2) internship programs for science and engineering undergraduate or graduate students to work on public policy issues with significant scientific and technical components in conjunction with units of State and local government, nonprofit organizations, or bona fide public interest groups as part of their academic training;
 
 &emsp;"(3) forums, conferences, and workshops on public policy issues with significant scientific and technical components;
 
@@ -192,7 +192,7 @@ Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 "(c) No contract, grant or other arrangement shall be made under this Section without the prior approval of the National Science Board.
 
-"(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977."
+"(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of theNational Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977."
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 
@@ -244,7 +244,7 @@ Ex. Ord. No. 10521, Mar. 17, 1954, 19 F.R. 1499, as amended by Ex. Ord. No. 1080
 
 Section 1. The National Science Foundation (hereinafter referred to as the Foundation) shall from time to time recommend to the President policies for the promotion and support of basic research and education in the sciences, including policies with respect to furnishing guidance toward defining the responsibilities of the Federal Government in the conduct and support of basic scientific research.
 
-Sec. 2. The Foundation shall continue to make comprehensive studies and recommendations regarding the Nation's scientific research effort and its resources for scientific activities, including facilities and scientific personnel, and its foreseeable scientific needs, with particular attention to the extent of the Federal Government's activities and the resulting effects upon trained scientific personnel. In making such studies, the Foundation shall make full use of existing sources of information and research facilities within the Federal Government.
+Sec. 2. The Foundation shall continue to make comprehensive studies and recommendations regarding the Nation's scientific research effort and its resources for scientific activities, including facilities and scientific personnel, and its foreseeable scientific needs, with particular attention to the extent of the Federal Government's activities and the resulting effects upon trained scientific personnel. In making such studies,the Foundation shall make full use of existing sources of information and research facilities within the Federal Government.
 
 Sec. 3. The Foundation, in concert with each Federal agency concerned, shall review the basic scientific research programs and activities of the Federal Government in order, among other purposes, to formulate methods for strengthening the administration of such programs and activities by the responsible agencies, and to study areas of basic research where gaps or undesirable overlapping of support may exist, and shall recommend to the heads of agencies concerning the support given to basic research.
 

@@ -6,7 +6,7 @@ The Secretary is authorized to provide technical assistance to the State of Wisc
 
 #### (b) Additional grants
 
-In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l–</i>4 et seq.\], the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: <i>Provided</i>, That the maximum amount of such grants for all projects shall not exceed $2,500,000.
+In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965,<sup>1</sup> the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: <i>Provided</i>, That the maximum amount of such grants for all projects shall not exceed $2,500,000.
 
 #### (c) Costs of maintenance
 
@@ -20,11 +20,13 @@ Whenever the Secretary determines that appropriate management and protection set
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 10, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Amendments
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–199 substituted "$2,500,000" for "$425,000".
 
 <b>1970</b>—Pub. L. 91–483 substituted provisions authorizing the Secretary to provide technical assistance and financial grants in addition to those under the Land and Water Conservation Fund Act of 1965, not exceeding 25 percent of the actual cost of each development project and up to a maximum of $425,000 and to share equally the annual costs of management, protection, maintenance and rehabilitation of the reserve for provisions for part recovery of the funds granted in case of conversion, and use or disposal contrary to the purposes of the establishment of the Ice Age National Scientific Reserve, and reenacted provisions for the termination of the grants.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@
 
 (f) The Court may procure the services of experts and consultants under section 3109 of title 5.
 
-(g) The chief judge of the Court may exercise the authority of the Court under this section whenever there are not at least two other judges of the Court.
+(g) The chief judge of the Court may exercise the authority of the Court under this sectionwhenever there are not at least two other judges of the Court.
 
 (h) The Court shall not be considered to be an agency within the meaning of section 3132(a)(1) of title 5.
 

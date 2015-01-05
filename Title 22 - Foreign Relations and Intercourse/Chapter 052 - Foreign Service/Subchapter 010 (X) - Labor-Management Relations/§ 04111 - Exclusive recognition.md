@@ -16,7 +16,7 @@ If a petition is filed with the Board—
 
 &emsp;(2) by any person seeking clarification of, or an amendment to, a certification then in effect or a matter relating to representation;
 
-> the Board shall investigate the petition, and if it has reasonable cause to believe that a question of representation exists, it shall provide an opportunity for a hearing (for which a transcript shall be kept) after reasonable notice. If the Board finds on the record of the hearing that a question of representation exists, the Board shall supervise or conduct an election on the question by secret ballot and shall certify the results thereof. An election under this subsection shall not be conducted in any unit within which a valid election under this subsection has been held during the preceding 12 calendar months or with respect to which a labor organization has been certified as the exclusive representative during the preceding 24 calendar months.
+> the Board shall investigate the petition, and if it has reasonable cause to believe that a question of representation exists, it shall provide an opportunity for a hearing (for which a transcript shall be kept) after reasonable notice. If theBoard finds on the record of the hearing that a question of representation exists, the Board shall supervise or conduct an election on the question by secret ballot and shall certify the results thereof. An election under this subsection shall not be conducted in any unit within which a valid election under this subsection has been held during the preceding 12 calendar months or with respect to which a labor organization has been certified as the exclusive representative during the preceding 24 calendar months.
 
 #### (c) Intervention of labor organizations; placement on ballot
 
@@ -26,7 +26,7 @@ A labor organization which—
 
 &emsp;(2) is the exclusive representative of the employees involved;
 
-> may intervene with respect to a petition filed pursuant to subsection (b) of this section and shall be placed on the ballot of any election under subsection (b) of this section with respect to the petition.
+> may intervene with respect to a petition filed pursuant to subsection (b) and shall be placed on the ballot of any election under subsection (b) with respect to the petition.
 
 #### (d) Eligibility to vote; regulations; choices on ballot; preferential voting; certification as exclusive representative
 
@@ -48,7 +48,7 @@ Exclusive recognition shall not be accorded to a labor organization—
 
 &emsp;(1) if the Board determines that the labor organization is subject to corrupt influence or influences opposed to democratic principles; or
 
-&emsp;(2) in the case of a petition filed under subsection (b)(1)(A) of this section, if there is not credible evidence that at least 30 percent of the employees wish to be represented for the purpose of collective bargaining by the labor organization seeking exclusive recognition.
+&emsp;(2) in the case of a petition filed under subsection (b)(1)(A), if there is not credible evidence that at least 30 percent of the employees wish to be represented for the purpose of collective bargaining by the labor organization seeking exclusive recognition.
 
 #### (g) Waiver of hearings; consent elections
 

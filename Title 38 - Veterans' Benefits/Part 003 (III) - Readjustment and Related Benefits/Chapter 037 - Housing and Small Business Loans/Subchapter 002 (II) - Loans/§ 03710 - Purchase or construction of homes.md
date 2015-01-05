@@ -88,7 +88,7 @@
 
 &emsp;(A) The term "energy efficiency improvement" includes a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system, and the application of a residential energy conservation measure.
 
-&emsp;(B) The term "solar heating" has the meaning given such term in section 3(1) of the SolarHeating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(1)) and, in addition, includes a passive system based on conductive, convective, or radiant energy transfer.
+&emsp;(B) The term "solar heating" has the meaning given such term in section 3(1) of the Solar Heating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(1)) and, in addition, includes a passive system based on conductive, convective, or radiant energy transfer.
 
 &emsp;(C) The terms "solar heating and cooling" and "combined solar heating and cooling" have the meaning given such terms in section 3(2) of the Solar Heating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(2)) and, in addition, include a passive system based on conductive, convective, or radiant energy transfer.
 
@@ -150,7 +150,7 @@
 
 (2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unless the manufactured home purchased, upon being permanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
 
-(g)(1) For the purposes of this subsection, the term "veteran", when used with respect to a loan guaranteed or to be guaranteed under thischapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
+(g)(1) For the purposes of this subsection, the term "veteran", when used with respect to a loan guaranteed or to be guaranteed under this chapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
 
 (2) For the purpose of determining whether a veteran meets the standards referred to in subsection (b)(3) of this section and section 3712(e)(2) of this title, the Secretary shall prescribe regulations which establish—
 
@@ -212,7 +212,7 @@ Subsec. (e)(1). Pub. L. 103–446, §904(b)(1), inserted "or for the purpose spe
 
 Subsec. (e)(1)(A). Pub. L. 103–446, §905, inserted before semicolon at end "or, in a case in which the loan is a fixed rate loan and the loan being refinanced is an adjustable rate loan, the loan bears interest at a rate that is agreed upon by the veteran and the mortgagee".
 
-Subsec. (e)(1)(C). Pub. L. 103–446, §904(b)(2), substituted "may not exceed—" and cls. (i) and (ii) for "may not exceed an amount equal to the sum of thebalance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;".
+Subsec. (e)(1)(C). Pub. L. 103–446, §904(b)(2), substituted "may not exceed—" and cls. (i) and (ii) for "may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;".
 
 <b>1992</b>—Subsec. (a)(7). Pub. L. 102–547, §9(b)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran's home through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system or through the application of a residential energy conservation measure."
 

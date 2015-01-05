@@ -6,7 +6,7 @@ Section 1811a, act Aug. 26, 1954, ch. 937, §2, formerly ch. IV, §549, as added
 
 Section 1812, act Aug. 26, 1954, ch. 937, ch. I, §102, 68 Stat. 833, related to the basis and terms of military assistance. See section 2395 of this title.
 
-Section 1813, acts Aug. 26, 1954, ch. 937, ch. I, §103, 68 Stat. 833; July 8, 1955, ch. 301, §2(a)–(c), 69 Stat. 283; July 18, 1956, ch. 627, §3(a), 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, §2(a), 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. I, §101, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, ch. I, §101(a), 73 Stat. 247; May 14, 1960, Pub. L. 86–472, ch. I, §101(a), 74 Stat. 134, authorized appropriations for military assistance. See section 2312 of this title.
+Section 1813, acts Aug. 26, 1954, ch. 937, ch. I, §103, 68 Stat. 833; July 8, 1955, ch. 301, §2(a)–(c), 69 Stat. 283;July 18, 1956, ch. 627, §3(a), 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, §2(a), 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. I, §101, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, ch. I, §101(a), 73 Stat. 247; May 14, 1960, Pub. L. 86–472, ch. I, §101(a), 74 Stat. 134, authorized appropriations for military assistance. See section 2312 of this title.
 
 Section 1814, acts Aug. 26, 1954, ch. 937, ch. I, §104, 68 Stat. 834; Aug. 14, 1957, Pub. L. 85–141, §2(b), 71 Stat. 356, authorized NATO infrastructure contributions.
 

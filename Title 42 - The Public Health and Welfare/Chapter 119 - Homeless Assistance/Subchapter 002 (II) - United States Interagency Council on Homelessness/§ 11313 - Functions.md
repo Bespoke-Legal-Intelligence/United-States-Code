@@ -12,7 +12,7 @@ The Council shall—
 
 &emsp;(4) monitor, evaluate, and recommend improvements in programs and activities to assist homeless individuals conducted by Federal agencies, State and local governments, and private voluntary organizations;
 
-&emsp;(5) provide professional and technical assistance (by not less than 5, but in no case more than 10, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions) to States, local governments, and other public and private nonprofit organizations, in order to enable such governments and organizations to—
+&emsp;(5) provide professional and technical assistance (by not less than 5, but in no case morethan 10, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions) to States, local governments, and other public and private nonprofit organizations, in order to enable such governments and organizations to—
 
 &emsp;&emsp;(A) interpret regulations and assist in the application process for Federal assistance, including grants;
 
@@ -48,7 +48,7 @@ The Council shall—
 
 In carrying out subsection (a) of this section, the Council may—
 
-&emsp;(1) arrange national, regional, State, and local conferences for the purpose of developing and coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made; <sup>2</sup>
+&emsp;(1) arrange national, regional, State, and local conferences for the purpose of developing and coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings whichare concerned with the functions or activities for which the appropriation is made; <sup>2</sup>
 
 &emsp;(2) publish a newsletter concerning Federal, State, and local programs that are effectively meeting the needs of homeless individuals.
 
@@ -122,7 +122,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this
 
 #### Personnel From Federal Departments and Agencies
 
-Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1608, provided in part: "That the Council shall carry out its duties in the 10 standard Federal regions under section 203(a)(4) of such Act \[now 42 U.S.C. 11313(a)(5)\] only through detail, on a non-reimbursable basis, of employees of the departments and agencies represented on the Council pursuant to section 202(a) of such Act \[42 U.S.C. 11312(a)\]."
+Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1608, provided in part: "That the Council shall carry out itsduties in the 10 standard Federal regions under section 203(a)(4) of such Act \[now 42 U.S.C. 11313(a)(5)\] only through detail, on a non-reimbursable basis, of employees of the departments and agencies represented on the Council pursuant to section 202(a) of such Act \[42 U.S.C. 11312(a)\]."
 
 Similar provisions were contained in the following prior appropriations acts:
 

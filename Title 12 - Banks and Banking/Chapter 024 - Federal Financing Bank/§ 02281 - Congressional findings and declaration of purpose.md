@@ -14,7 +14,7 @@ Pub. L. 93–224, §1, Dec. 29, 1973, 87 Stat. 937, provided: "That this Act \[e
 
 #### Separability
 
-Pub. L. 93–224, §19, Dec. 29, 1973, 87 Stat. 942, provided that: "If any provision of this Act \[enacting this chapter and amending section 24 of this title\], or the application thereof to any person or circumstance, is held invalid, the validity of the remainder of the Act \[thischapter\], and the application of such provisions to other persons or circumstances, shall not be affected."
+Pub. L. 93–224, §19, Dec. 29, 1973, 87 Stat. 942, provided that: "If any provision of this Act \[enacting this chapter and amending section 24 of this title\], or the application thereof to any person or circumstance, is held invalid, the validity of the remainder of the Act \[this chapter\], and the application of such provisions to other persons or circumstances, shall not be affected."
 
 #### Executive Order No. 11782
 

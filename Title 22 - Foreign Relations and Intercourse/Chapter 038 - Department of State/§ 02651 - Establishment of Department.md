@@ -66,7 +66,7 @@ Pub. L. 94–141, §1, Nov. 29, 1975, 89 Stat. 756, provided: "That this Act \[e
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: "That this Act \[enacting sections 966, 2679a, 2680a, and2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title, and section 5924 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 901a, 966, and 2151 of this title and amending provisions set out as notes preceding section 1 of Title 50, Appendix, War and National Defense\] may be cited as the 'State Department/USIA Authorization Act, Fiscal Year 1975'."
+Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: "That this Act \[enacting sections 966, 2679a, 2680a, and 2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title, and section 5924 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 901a, 966, and 2151 of this title and amending provisions set out as notes preceding section 1 of Title 50, Appendix, War and National Defense\] may be cited as the 'State Department/USIA Authorization Act, Fiscal Year 1975'."
 
 #### Short Title of 1973 Amendment
 
@@ -88,7 +88,7 @@ For assignment of certain emergency preparedness functions to Secretary of State
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of State are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13251, Dec. 28, 2001, 67 F.R. 1599, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of State are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13251, Dec. 28, 2001, 67 F.R. 1599, listed ina table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Compliance With Congressional Budget Act
 

@@ -4,46 +4,19 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [461\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000461%20-%20Declaration%20of%20national%20policy.md) | Declaration of national policy. |
-| [462\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000462%20-%20Administration%20by%20Secretary%20of%20the%20Interior%3B%20powers%20and%20duties%20enumerated.md) | Administration by Secretary of the Interior; powers and duties enumerated. |
-| [463\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000463%20-%20National%20Park%20System%20Advisory%20Board.md) | National Park System Advisory Board. |
-| [464\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000464%20-%20Cooperation%20with%20governmental%20and%20private%20agencies.md) | Cooperation with governmental and private agencies. |
-| [465\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000465%20-%20Jurisdiction%20of%20States%20in%20acquired%20lands.md) | Jurisdiction of States in acquired lands. |
-| [466\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000466%20-%20Requirement%20for%20specific%20authorization.md) | Requirement for specific authorization. |
-| [467\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000467%20-%20Conflict%20of%20laws.md) | Conflict of laws. |
-| 467a, 467a–1. Repealed. |  |
-| [467b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000467b%20-%20Survey%20by%20Secretary%20of%20the%20Interior%20of%20sites%20for%20commemoration%20of%20former%20Presidents%20of%20the%20United%20States.md) | Survey by Secretary of the Interior of sites for commemoration of former Presidents of the United States. |
-| [468\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000468%20-%20National%20Trust%20for%20Historic%20Preservation%20in%20the%20United%20States%3B%20creation%3B%20purpose.md) | National Trust for Historic Preservation in the United States; creation; purpose. |
-| [468a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000468a%20-%20Principal%20office%20of%20National%20Trust%20Commission.md) | Principal office of National Trust Commission. |
-| [468b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000468b%20-%20Administration%20of%20National%20Trust%3B%20composition%20of%20board%20of%20trustees%3B%20terms%20of%20office%3B%20compensation%3B%20expenses.md) | Administration of National Trust; composition of board of trustees; terms of office; compensation; expenses. |
-| [468c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000468c%20-%20Powers%20and%20duties%20of%20National%20Trust.md) | Powers and duties of National Trust. |
-| [468d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000468d%20-%20Consultation%20with%20Advisory%20Board%20on%20National%20Parks%2C%20Historic%20Sites%2C%20Buildings%2C%20and%20Monuments.md) | Consultation with Advisory Board on National Parks, Historic Sites, Buildings, and Monuments. |
-| [468e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000468e%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93533%2C%20%C2%A71%2819%29%2C%20June%2029%2C%201960%2C%2074%20Stat.%20248.md) | Repealed. |
-| [469\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469%20-%20Preservation%20of%20historical%20and%20archeological%20data%20threatened%20by%20dam%20construction%20or%20alterations%20of%20terrain.md) | Preservation of historical and archeological data threatened by dam construction or alterations of terrain. |
-| [469a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469a%20-%20Notice%20of%20dam%20construction%20to%20be%20given%20Secretary%20of%20the%20Interior%20by%20United%20States%20agencies.md) | Notice of dam construction to be given Secretary of the Interior by United States agencies. |
-| 469a–1. | Threat of irreparable loss or destruction of significant scientific, prehistorical, historical, or archeological data by Federal construction projects; notice to Secretary of the Interior; survey; recovery, preservation, and protection of data. |
-| 469a–2. | Survey by Secretary of the Interior; recovery and preservation of data; compensation for delays in construction and for temporary loss of use of land. |
-| 469a–3. | Progress reports by Secretary of the Interior on surveys and work undertaken as result of surveys; disposition of relics and specimens recovered; coordination of survey and recovery activities; annual report. |
-| [469b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469b%20-%20Administration%3B%20contracts%20or%20agreements%3B%20services%20of%20experts%2C%20consultants%2C%20or%20organizations%3B%20acceptance%20of%20funds.md) | Administration; contracts or agreements; services of experts, consultants, or organizations; acceptance of funds. |
-| [469c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469c%20-%20Assistance%20to%20Secretary%20of%20the%20Interior%20by%20Federal%20agencies%20responsible%20for%20construction%20projects%3B%20authorization%20of%20appropriations.md) | Assistance to Secretary of the Interior by Federal agencies responsible for construction projects; authorization of appropriations. |
-| 469c–1. | "State" defined. |
-| 469c–2. | Costs for identification, surveys, evaluation and data recovery with respect to historic properties. |
+| 461 to 469c–2. Repealed or Omitted. |  |
 | [469d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469d%20-%20Ice%20Age%20National%20Scientific%20Reserve%3B%20statement%20of%20purpose.md) | Ice Age National Scientific Reserve; statement of purpose. |
 | [469e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469e%20-%20Plan%20for%20continental%20glaciation.md) | Plan for continental glaciation. |
 | [469f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469f%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93483%2C%20%C2%A71%281%29%2C%20Oct.%2021%2C%201970%2C%2084%20Stat.%201083.md) | Repealed. |
 | [469g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469g%20-%20Ice%20Age%20National%20Scientific%20Reserve%3B%20recommendations%20for%20Federal%20and%20State%20participation%20in%20financing%20public%20facilities%20and%20services.md) | Ice Age National Scientific Reserve; recommendations for Federal and State participation in financing public facilities and services. |
 | [469h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469h%20-%20Comprehensive%20plan%20for%20Reserve%20Development.md) | Comprehensive plan for Reserve Development. |
-| [469i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469i%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93483%2C%20%C2%A71%284%29%2C%20Oct.%2021%2C%201970%2C%2084%20Stat.%201083.md) | Repealed. |
-| [469j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469j%20-%20Commission%20for%20the%20Preservation%20of%20America%27s%20Heritage%20Abroad.md) | Commission for the Preservation of America's Heritage Abroad. |
-| [469k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469k%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93333%2C%20div.%20I%2C%20title%20VI%2C%20%C2%A7604%28e%29%281%29%2C%20Nov.%2012%2C%201996%2C%20110%20Stat.%204173%3B%20Pub.%20L.%20107%E2%80%93359%2C%20%C2%A73%284%29%28A%29%2C%20Dec.%2017%2C%202002%E2%80%A6.md) | Repealed. |
-| 469k–1. | American Battlefield Protection Program. |
-| 469<i>l.</i> | Findings and purposes. |
-| 469l–1. | National Underground Railroad Network to Freedom program. |
-| 469l–2. | Preservation of historic sites or structures. |
-| 469l–3. | Authorization of appropriations. |
-| [469m.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469m%20-%20Women%27s%20Rights%20National%20Historical%20Park.md) | Women's Rights National Historical Park. |
+| 469i to 469k. Repealed. |  |
+| 469k–1. | Transferred or Repealed. |
+| 469<i>l.</i> | Omitted or Transferred. |
+| 469l–1 to 469l–3. Repealed. |  |
+| [469m.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469m%20-%20Repealed%20or%20Omitted.md) | Repealed or Omitted. |
 | [469n.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469n%20-%20Preserve%20America%20Program.md) | Preserve America Program. |
-| 469<i>o.</i> | Save America's Treasures Program. |
+| 469<i>o.</i> | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,84 +24,39 @@
 
 |  |  |
 | :--- | ---: |
-| [470\.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/%C2%A7%2000470%20-%20Short%20title%3B%20Congressional%20finding%20and%20declaration%20of%20policy.md) | Short title; Congressional finding and declaration of policy. |
-| 470–1. | Declaration of policy of the Federal Government. |
+| 470, 470–1. | Transferred, Omitted, or Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part A—Programs
 
-|  |  |
-| :--- | ---: |
-| [470a.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20A%20-%20Programs/%C2%A7%2000470a%20-%20Historic%20preservation%20program.md) | Historic preservation program. |
-| 470a–1. | World Heritage Convention. |
-| 470a–2. | Federal undertakings outside United States; mitigation of adverse effects. |
-| [470b.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20A%20-%20Programs/%C2%A7%2000470b%20-%20Requirements%20for%20awarding%20of%20grant%20funds.md) | Requirements for awarding of grant funds. |
-| 470b–1. | Grants to National Trust for Historic Preservation. |
-| [470c.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20A%20-%20Programs/%C2%A7%2000470c%20-%20Apportionment%20of%20grant%20funds.md) | Apportionment of grant funds. |
-| [470d.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20A%20-%20Programs/%C2%A7%2000470d%20-%20Loan%20insurance%20program%20for%20preservation%20of%20property%20included%20on%20National%20Register.md) | Loan insurance program for preservation of property included on National Register. |
-| [470e.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20A%20-%20Programs/%C2%A7%2000470e%20-%20Recordkeeping%3B%20recipients%20of%20assistance%3B%20audit.md) | Recordkeeping; recipients of assistance; audit. |
-| [470f.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20A%20-%20Programs/%C2%A7%2000470f%20-%20Effect%20of%20Federal%20undertakings%20upon%20property%20listed%20in%20National%20Register%3B%20comment%20by%20Advisory%20Council%20on%20Historic%20Preservation.md) | Effect of Federal undertakings upon property listed in National Register; comment by Advisory Council on Historic Preservation. |
-| [470g.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20A%20-%20Programs/%C2%A7%2000470g%20-%20White%20House%2C%20United%20States%20Supreme%20Court%20building%2C%20and%20United%20States%20Capitol%20not%20included%20in%20program%20for%20preservation%20of%20historical%E2%80%A6.md) | White House, United States Supreme Court building, and United States Capitol not included in program for preservation of historical properties. |
-| [470h.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20A%20-%20Programs/%C2%A7%2000470h%20-%20Historic%20Preservation%20Fund%3B%20establishment%3B%20appropriations%3B%20source%20of%20revenue.md) | Historic Preservation Fund; establishment; appropriations; source of revenue. |
-| 470h–1. | Acceptance of privately donated funds by Secretary. |
-| 470h–2. | Historic properties owned or controlled by Federal agencies. |
-| 470h–3. | Lease or exchange of historic property. |
-| 470h–4. | Professional standards. |
-| 470h–5 | Interstate and international traffic in antiquities. |
+|  |
+| :--- |
+| 470a to 470h–5. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part B—Advisory Council on Historic Preservation
 
-|  |  |
-| :--- | ---: |
-| [470i.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470i%20-%20Advisory%20Council%20on%20Historic%20Preservation.md) | Advisory Council on Historic Preservation. |
-| [470j.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470j%20-%20Functions%20of%20Council%3B%20annual%20report%20to%20President%20and%20Congress%3B%20recommendations.md) | Functions of Council; annual report to President and Congress; recommendations. |
-| [470k.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470k%20-%20Cooperation%20between%20Council%20and%20instrumentalities%20of%20executive%20branch%20of%20Federal%20Government.md) | Cooperation between Council and instrumentalities of executive branch of Federal Government. |
-| 470<i>l.</i> | Compensation of members of Council. |
-| [470m.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470m%20-%20Administration.md) | Administration. |
-| [470n.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470n%20-%20International%20Centre%20for%20Study%20of%20Preservation%20and%20Restoration%20of%20Cultural%20Property.md) | International Centre for Study of Preservation and Restoration of Cultural Property. |
-| 470<i>o.</i> | Transfer of personnel, property, etc., by Department of the Interior to Council; time limit. |
-| [470p.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470p%20-%20Rights%2C%20benefits%2C%20and%20privileges%20of%20transferred%20employees.md) | Rights, benefits, and privileges of transferred employees. |
-| [470q.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470q%20-%20Operations%20of%20Council%3B%20exemption.md) | Operations of Council; exemption. |
-| [470r.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470r%20-%20Transmittal%20of%20legislative%20recommendations%2C%20or%20testimony%2C%20or%20comments%2C%20to%20any%20officer%20or%20agency%20of%20the%20United%20States%20prior%20to%20submission%E2%80%A6.md) | Transmittal of legislative recommendations, or testimony, or comments, to any officer or agency of the United States prior to submission thereof to Congress; prohibition. |
-| [470s.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470s%20-%20Rules%20and%20regulations%3B%20participation%20by%20local%20governments.md) | Rules and regulations; participation by local governments. |
-| [470t.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470t%20-%20Budget%3B%20authorization%20of%20appropriations.md) | Budget; authorization of appropriations. |
-| [470u.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470u%20-%20Report%20by%20Secretary%20to%20Council.md) | Report by Secretary to Council. |
-| [470v.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470v%20-%20Exemption%20for%20Federal%20programs%20or%20undertakings%3B%20regulations.md) | Exemption for Federal programs or undertakings; regulations. |
-| 470v–1. | Reimbursements from State and local agencies. |
-| 470v–2. | Effectiveness of Federal grant and assistance programs. |
+|  |
+| :--- |
+| 470i to 470v–2. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part C—General and Miscellaneous
 
-|  |  |
-| :--- | ---: |
-| [470w.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20C%20-%20General%20and%20Miscellaneous/%C2%A7%2000470w%20-%20Definitions.md) | Definitions. |
-| 470w–1. | Authorization for expenditure of appropriated funds. |
-| 470w–2. | Donations and bequests of money, personal property and less than fee interests in historic property. |
-| 470w–3. | Access to information. |
-| 470w–4. | Attorneys' fees and costs to prevailing parties in civil actions. |
-| 470w–5. | National Museum for the Building Arts. |
-| 470w–6. | Effective date of regulations. |
-| 470w–7. | Historic lighthouse preservation. |
-| 470w–8. | Historic light station sales. |
+|  |
+| :--- |
+| 470w to 470w–8. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part D—National Center for Preservation Technology and Training
 
-|  |  |
-| :--- | ---: |
-| [470x.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20D%20-%20National%20Center%20for%20Preservation%20Technology%20and%20Training/%C2%A7%2000470x%20-%20Findings.md) | Findings. |
-| 470x–1. | Definitions. |
-| 470x–2. | Establishment of National Center. |
-| 470x–3. | Preservation Technology and Training Board. |
-| 470x–4. | Preservation grants. |
-| 470x–5. | General provisions. |
-| 470x–6. | National Park Service preservation. |
+|  |
+| :--- |
+| 470x to 470x–6. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

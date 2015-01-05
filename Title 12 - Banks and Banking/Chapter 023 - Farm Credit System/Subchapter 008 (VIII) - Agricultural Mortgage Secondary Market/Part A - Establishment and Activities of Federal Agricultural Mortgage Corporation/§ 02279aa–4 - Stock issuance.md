@@ -30,7 +30,7 @@
 
 #### (2) Stock issued as consideration for contribution
 
-&emsp;The Corporation, from time to time, shall issue to each originator or certified facilityvoting common stock evidencing any capital contributions made pursuant to this subsection.
+&emsp;The Corporation, from time to time, shall issue to each originator or certified facility voting common stock evidencing any capital contributions made pursuant to this subsection.
 
 #### (c) Dividends
 

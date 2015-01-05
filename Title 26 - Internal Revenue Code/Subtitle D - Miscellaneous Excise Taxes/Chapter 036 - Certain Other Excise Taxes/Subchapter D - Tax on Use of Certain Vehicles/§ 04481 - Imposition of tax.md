@@ -128,13 +128,13 @@ Subsec. (e). Pub. L. 87–61, §203(b)(1), substituted "before October 1, 1972" 
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as an Effective and Termination Dates of 2012 Amendment note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as an Effective and Termination Dates of 2012 Amendment note under section 4041 of this title.
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 4041 of this title.
 
 #### Effective Date of 2005 Amendment
 
@@ -178,7 +178,7 @@ Special rule in the case of certain owner-operators.—
 
 &emsp;&emsp;"(ii) any member of any controlled groups of corporations of which the taxpayer is a member, for any taxable period shall be treated as being owned by the taxpayer during such period. The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who own highway motor vehicles through partnerships, joint ventures, and corporations.
 
-"(E) Controlled groups of corporations.—For purposes of this paragraph, the term 'controlled group of corporations' has the meaning given to such term by section 1563(a), except that—
+"(E) Controlled groups of corporations.—For purposes of this paragraph, the term 'controlledgroup of corporations' has the meaning given to such term by section 1563(a), except that—
 
 &emsp;&emsp;"(i) 'more than 50 percent' shall be substituted for 'at least 80 percent' each place it appears in section 1563(a)(1), and
 
@@ -216,7 +216,7 @@ Exemption for vehicles used for less than 5,000 miles (and certain other amendme
 
 "(3)
 
-Small owner-operator defined.—For purposes of this subsection, the term 'small owner-operator' hasthe meaning given such term by section 513(f)(2) of the Highway Revenue Act of 1982.
+Small owner-operator defined.—For purposes of this subsection, the term 'small owner-operator' has the meaning given such term by section 513(f)(2) of the Highway Revenue Act of 1982.
 
 "(4)
 

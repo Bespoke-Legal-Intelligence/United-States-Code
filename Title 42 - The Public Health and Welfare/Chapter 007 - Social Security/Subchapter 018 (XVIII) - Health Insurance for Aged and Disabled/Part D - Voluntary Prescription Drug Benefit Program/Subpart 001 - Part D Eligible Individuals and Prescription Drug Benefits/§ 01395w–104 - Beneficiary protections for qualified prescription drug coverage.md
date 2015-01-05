@@ -6,7 +6,7 @@
 
 #### (A) Application of MA information
 
-&emsp;&emsp;A PDP sponsor shall disclose, in a clear, accurate, and standardized form to each enrollee with a prescription drug plan offered by the sponsor under this part at the time of enrollment and at least annually thereafter, the information described in section 1395w–22(c)(1) of this title relating to such plan, insofar as the Secretary determines appropriate with respect to benefits provided under this part, and including the information described in subparagraph (B).
+&emsp;&emsp;A PDP sponsor shall disclose, in a clear, accurate, and standardized form to each enrollee with a prescription drug plan offered by the sponsor under this part at the time of enrollment and at least annually thereafter, the information described in section 1395w–22(c)(1) of this title relating to suchplan, insofar as the Secretary determines appropriate with respect to benefits provided under this part, and including the information described in subparagraph (B).
 
 #### (B) Drug specific information
 
@@ -90,7 +90,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The PDP sponsor of a prescription drug plan shall issue (and reissue, as appropriate)such a card (or other technology) that may be used by an enrollee to assure access to negotiated prices under section 1395w–102(d) of this title.
+&emsp;&emsp;The PDP sponsor of a prescription drug plan shall issue (and reissue, as appropriate) such a card (or other technology) that may be used by an enrollee to assure access to negotiated prices under section 1395w–102(d) of this title.
 
 #### (B) Standards
 
@@ -168,7 +168,7 @@
 
 #### (II) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may establish exceptions that permit a PDP sponsor offeringa prescription drug plan to exclude from its formulary a particular covered part D drug in a category or class that is otherwise required to be included in the formulary under subclause (I) (or to otherwise limit access to such a drug, including through prior authorization or utilization management).
+&emsp;&emsp;&emsp;&emsp;The Secretary may establish exceptions that permit a PDP sponsor offering a prescription drug plan to exclude from its formulary a particular covered part D drug in a category or class that is otherwise required to be included in the formulary under subclause (I) (or to otherwise limit access to such a drug, including through prior authorization or utilization management).
 
 #### (ii) Identification of drugs in certain categories and classes
 
@@ -254,7 +254,7 @@
 
 #### (C) Required interventions
 
-&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offermedication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
+&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offer medication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
 
 &emsp;&emsp;&emsp;(i) An annual comprehensive medication review furnished person-to-person or using telehealth technologies (as defined by the Secretary) by a licensed pharmacist or other qualified provider. The comprehensive medication review—
 
@@ -302,7 +302,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (1) Application of standards
 
-&emsp;As of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronically shall be transmitted only in accordance with such standards under an electronic prescription drug program that meets the requirements of paragraph (2).
+&emsp;As of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronically shall be transmitted only in accordance withsuch standards under an electronic prescription drug program that meets the requirements of paragraph (2).
 
 #### (2) Program requirements
 
@@ -310,7 +310,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (A) Provision of information to prescribing health care professional and dispensing pharmacies and pharmacists
 
-&emsp;&emsp;An electronic prescription drug program shall provide for the electronic transmittal to the prescribing health care professionaland to the dispensing pharmacy and pharmacist of the prescription and information on eligibility and benefits (including the drugs included in the applicable formulary, any tiered formulary structure, and any requirements for prior authorization) and of the following information with respect to the prescribing and dispensing of a covered part D drug:
+&emsp;&emsp;An electronic prescription drug program shall provide for the electronic transmittal to the prescribing health care professional and to the dispensing pharmacy and pharmacist of the prescription and information on eligibility and benefits (including the drugs included in the applicable formulary, any tiered formulary structure, and any requirements for prior authorization) and of the following information with respect to the prescribing and dispensing of a covered part D drug:
 
 &emsp;&emsp;&emsp;(i) Information on the drug being prescribed or dispensed and other drugs listed on the medication history, including information on drug-drug interactions, warnings or cautions, and, when indicated, dosage adjustments.
 
@@ -460,7 +460,7 @@ Each PDP sponsor shall provide meaningful procedures for hearing and resolving g
 
 #### (2) Request for a determination for the treatment of tiered formulary drug
 
-&emsp;In the case of a prescription drug plan offered by a PDP sponsor that provides for tiered cost-sharing for drugs included within a formulary and provides lower cost-sharing for preferred drugs included within the formulary, a part D eligible individual who is enrolled in the plan may request an exception to the tiered cost-sharing structure. Under such an exception, a nonpreferred drug could be covered under the terms applicable for preferred drugs if the prescribing physician determines that the preferred drug for treatment of the same condition either would not be as effective for the individual or would have adverse effects for the individual or both. A PDP sponsor shall have an exceptions process under this paragraph consistent with guidelines established by the Secretary for making a determination with respect to such a request. Denial of such an exception shall be treated as a coverage denial for purposes of applying subsection (h) of this section.
+&emsp;In the case of a prescription drug plan offered by a PDP sponsor that provides for tiered cost-sharing for drugs included within a formulary and provides lower cost-sharing for preferred drugs included within the formulary, a part D eligible individual who is enrolled in the plan may request an exception to the tiered cost-sharing structure. Under such an exception, a nonpreferred drug could be covered under the terms applicable for preferred drugs if the prescribing physician determines that the preferred drug for treatment of the same condition either would not be as effective for the individual or would have adverse effects for the individual or both. A PDP sponsor shall have an exceptions process under thisparagraph consistent with guidelines established by the Secretary for making a determination with respect to such a request. Denial of such an exception shall be treated as a coverage denial for purposes of applying subsection (h) of this section.
 
 #### (h) Appeals
 

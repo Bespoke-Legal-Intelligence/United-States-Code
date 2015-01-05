@@ -26,7 +26,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 #### (e) Disposition of seized cargo
 
-(1) Whenever any cargo or marine mammal or marine mammal product is seized pursuant tothis section, the Secretary shall expedite any proceedings commenced under section 1375(a) or (b) of this title. All marine mammal or marine mammal products or other cargo so seized shall be held by any person authorized by the Secretary pending disposition of such proceedings. The owner or consignee of any such marine mammal or marine mammal product or other cargo so seized shall, as soon as practicable following such seizure, be notified of that fact in accordance with regulations established by the Secretary.
+(1) Whenever any cargo or marine mammal or marine mammal product is seized pursuant to this section, the Secretary shall expedite any proceedings commenced under section 1375(a) or (b) of this title. All marine mammal or marine mammal products or other cargo so seized shall be held by any person authorized by the Secretary pending disposition of such proceedings. The owner or consignee of any such marine mammal or marine mammal product or other cargo so seized shall, as soon as practicable following such seizure, be notified of that fact in accordance with regulations established by the Secretary.
 
 (2) The Secretary may, with respect to any proceeding under section 1375(a) or (b) of this title, in lieu of holding any marine mammal or marine mammal product or other cargo, permit the person concerned to post bond or other surety satisfactory to the Secretary pending the disposition of such proceeding.
 
@@ -40,7 +40,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 &emsp;(B) no conviction results from an alleged violation of section 1375(b) of this title, such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with <sup>1</sup> thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under section 1375(a) of this title.
 
-(Pub. L. 92–522, title I, §107, Oct. 21, 1972, 86 Stat. 1037; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–479, title IX, §902(c), Jan. 12, 2007, 120 Stat. 3665.)
+(Pub. L. 92–522, title I, §107, Oct. 21, 1972, 86 Stat. 1037; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979,43 F.R. 36037, 92 Stat. 3783; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–479, title IX, §902(c), Jan. 12, 2007, 120 Stat. 3665.)
 
 #### Amendments
 

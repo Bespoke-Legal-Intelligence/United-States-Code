@@ -52,7 +52,7 @@ Limitation on Appropriations for Military Personnel.—No funds may be appropria
 
 &emsp;(2) the use of the Selected Reserve of any reserve component of the armed forces unless the end strength for the Selected Reserve of that component for that fiscal year has been authorized by law; or
 
-&emsp;(3) the use of reserve component personnel to perform active duty or full-time National Guard duty under subsection (b) unless the strength for such personnel for that reserve component for that fiscal year has been authorized by law.
+&emsp;(3) the use of reserve component personnel to perform active duty or full-time NationalGuard duty under subsection (b) unless the strength for such personnel for that reserve component for that fiscal year has been authorized by law.
 
 (d)
 
@@ -66,7 +66,7 @@ End-of-Quarter Strength Levels.—(1) The Secretary of Defense shall prescribe a
 
 (B) At least annually, the Secretary of Defense shall establish for each of the armed forces (other than the Coast Guard) the maximum permissible variance of actual strength for an armed force at the end of any given quarter from the end-of-quarter strength established pursuant to subparagraph (A). Such variance shall be such that it promotes the maintaining of the strength necessary to achieve the end-strength levels authorized in accordance with subsection (a) (as adjusted pursuant to subsection (f)) and subsection (d).
 
-(3) Whenever the Secretary establishes an end-of-quarter strength level under subparagraph (A) of paragraph (2), or modifies a strength level under the authority provided in subparagraph (B) of paragraph (2), the Secretary shall notify the Committee on Armed Services of the Senateand the Committee on Armed Services of the House of Representatives of that strength level or of that modification, as the case may be.
+(3) Whenever the Secretary establishes an end-of-quarter strength level under subparagraph (A) of paragraph (2), or modifies a strength level under the authority provided in subparagraph (B) of paragraph (2), the Secretary shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that strength level or of that modification, as the case may be.
 
 (f)
 
@@ -114,7 +114,7 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 &emsp;(8) Members of reserve components on active duty for training or full-time National Guard duty for training.
 
-&emsp;(9) Members of the Selected Reserve of the Ready Reserve on active duty to support programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952(b)).
+&emsp;(9) Members of the Selected Reserve of the Ready Reserve on active duty to support programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952(b)).<sup>1</sup>
 
 &emsp;(10) Members of the National Guard on active duty or full-time National Guard duty for the purpose of carrying out drug interdiction and counter-drug activities under section 112 of title 32.
 
@@ -124,7 +124,11 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 &emsp;(13) Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451;Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 110–181, div. A, title IV, §§416(b), 417, Jan. 28, 2008, 122 Stat. 91, 92; Pub. L. 111–84, div. A, title IV, §418, Oct. 28, 2009, 123 Stat. 2268.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 110–181, div. A, title IV, §§416(b), 417, Jan. 28, 2008, 122 Stat. 91, 92; Pub. L. 111–84, div. A, title IV, §418, Oct. 28, 2009, 123 Stat. 2268.)
+
+#### References in Text
+
+Section 1203 of the Cooperative Threat Reduction Act of 1993, referred to in subsec. (i)(9), is section 1203 of Pub. L. 103–160, div. A, title XII, which was classified to section 5952 of Title 22, Foreign Relations and Intercourse, and was repealed by Pub. L. 113–291, div. A, title XIII, §1351(3), Dec. 19, 2014, 128 Stat. 3607.
 
 #### Prior Provisions
 
@@ -300,7 +304,7 @@ Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, 
 
 #### Effect of Reserve Component on Computation of End Strength Limitation for Active Forces for Fiscal Year 1995
 
-Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, provided that a member of a reserve component who is on active duty under a call or order to active duty for 180 days or more for activities undersection 168 of this title shall not be counted (under subsec. (a)(1) of this section) against the applicable end strength limitation for members of the Armed Forces on active duty for fiscal year 1995 prescribed in section 401 of Pub. L. 103–337, formerly set out below.
+Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, provided that a member of a reserve component who is on active duty under a call or order to active duty for 180 days or more for activities under section 168 of this title shall not be counted (under subsec. (a)(1) of this section) against the applicable end strength limitation for members of the Armed Forces on active duty for fiscal year 1995 prescribed in section 401 of Pub. L. 103–337, formerly set out below.
 
 #### End Strengths for Active Forces
 
@@ -383,4 +387,6 @@ Pub. L. 101–510, div. A, title VII, §711, Nov. 5, 1990, 104 Stat. 1582, as am
 #### Operation Desert Shield Increase in End Strengths of Active Duty Personnel; Authority; Certification
 
 Pub. L. 101–510, div. A, title XI, §1117, Nov. 5, 1990, 104 Stat. 1637, authorized Secretary of Defense, after determining that operational requirements of Operation Desert Shield so require, to increase the end strengths of active duty personnel for fiscal year 1991 by an amount not greater than 0.5 percent of the total end strengths authorized by section 401 of Pub. L. 101–510, set out above, and required certification by Secretary to Committees on Armed Services of Senate and House of Representatives of necessity of such increase, prior to repeal by Pub. L. 102–25, title II, §204, Apr. 6, 1991, 105 Stat. 80.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@
 
 #### (B) Multiple types of assistance
 
-&emsp;&emsp;One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs ofindividuals and households in the particular disaster situation.
+&emsp;&emsp;One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs of individuals and households in the particular disaster situation.
 
 #### (c) Types of housing assistance
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(ii) meets the physical accessibility requirements for individuals with disabilities; and
 
-&emsp;&emsp;&emsp;(iii) is provided by the State or local government, by the owner of the site, orby the occupant who was displaced by the major disaster.
+&emsp;&emsp;&emsp;(iii) is provided by the State or local government, by the owner of the site, or by the occupant who was displaced by the major disaster.
 
 #### (B) Sites provided by the President
 
@@ -206,7 +206,7 @@
 
 #### (2) Adjustment of limit
 
-&emsp;The limit established under paragraph (1) shall be adjusted annually to reflect changes in the Consumer Price Index for All UrbanConsumers published by the Department of Labor.
+&emsp;The limit established under paragraph (1) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 #### (i) Verification measures
 

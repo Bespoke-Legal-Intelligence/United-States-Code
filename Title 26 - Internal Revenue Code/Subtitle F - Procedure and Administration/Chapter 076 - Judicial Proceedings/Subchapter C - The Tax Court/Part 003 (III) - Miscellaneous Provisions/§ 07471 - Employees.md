@@ -58,7 +58,7 @@
 
 #### (9) Competitive status
 
-&emsp;Notwithstanding any other provision of law, any employee of the Tax Court who has completed at least 1 year of continuous service under a non-temporary appointment with the Tax Court acquires a competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications.
+&emsp;Notwithstanding any other provision of law, any employee of the Tax Court who has completed at least 1 year of continuous service under a non-temporary appointment with theTax Court acquires a competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications.
 
 #### (10) Merit system principles, prohibited personnel practices, and preference eligibles
 
@@ -72,7 +72,7 @@
 
 #### (b) Expenses for travel and subsistence
 
-The employees of the Tax Court shall receive their necessary traveling expenses, and expensesfor subsistence while traveling on duty and away from their designated stations, as provided in chapter 57 of title 5, United States Code.
+The employees of the Tax Court shall receive their necessary traveling expenses, and expenses for subsistence while traveling on duty and away from their designated stations, as provided in chapter 57 of title 5, United States Code.
 
 #### (c) Special trial judges
 

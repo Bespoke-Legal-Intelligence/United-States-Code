@@ -22,7 +22,7 @@ Application.—Any motor carrier of property may apply to the Board for approval
 
 &emsp;(2)
 
-Determination of importance and restraint on competition.—Prior to the effective date of the agreement or combination, the Board shall determine whether the agreement or combination is of major transportation importance and whether there is substantial likelihood that the agreement or combination will unduly restrain competition. If the Board determines that neither of these 2 factors exists, it shall, prior to such effective date and without a hearing, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
+Determination of importance and restraint on competition.—Prior to the effective date of the agreement or combination, the Board shall determine whether the agreement or combination is of major transportation importance and whether there is substantial likelihood that the agreement or combination will unduly restrain competition. If the Board determines that neither of these 2 factors exists, it shall, prior to such effective date and without a hearing, approve and authorize theagreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
 
 &emsp;(3)
 

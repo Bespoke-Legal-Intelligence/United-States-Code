@@ -6,7 +6,7 @@ The Board of Governors of the Federal Reserve System (hereinafter referred to as
 
 #### Codification
 
-Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2–7 and 8 of section 10; par. 9 of section 10, as added June 3, 1922, ch. 205, 42 Stat. 621; par. 10 of section 10, as added Aug. 23, 1935, ch. 614, §203(d), 49 Stat. 705; and par. (12) of section 10, as added Pub. L. 111–203, title XI, §1108(b), July 21, 2010, 124 Stat. 2126, are classified to sections 242 to 247, 1, 522, 247a, and 247b, respectively, of this title. No par. between pars. (10) and (12) has been enacted.
+Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2–7 and 8 of section 10; par. 9 of section 10, as added June 3, 1922, ch. 205, 42 Stat. 621; par.10 of section 10, as added Aug. 23, 1935, ch. 614, §203(d), 49 Stat. 705; and par. (12) of section 10, as added Pub. L. 111–203, title XI, §1108(b), July 21, 2010, 124 Stat. 2126, are classified to sections 242 to 247, 1, 522, 247a, and 247b, respectively, of this title. No par. between pars. (10) and (12) has been enacted.
 
 #### Amendments
 

@@ -70,7 +70,7 @@ Clearinghouse.—The Office shall establish a clearinghouse of solutions, includ
 
 (h) The Department shall have a seal that shall be judicially recognized.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873;Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102; Pub. L. 109–59, title I, §1119(l), Aug. 10, 2005, 119 Stat. 1189; Pub. L. 110–140, title XI, §1101(a), Dec. 19, 2007, 121 Stat. 1756; Pub. L. 112–166, §2(k)(1), Aug. 10, 2012, 126 Stat. 1286.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102; Pub. L. 109–59, title I, §1119(l), Aug. 10, 2005, 119 Stat. 1189; Pub. L. 110–140, title XI, §1101(a), Dec. 19, 2007, 121 Stat. 1756; Pub. L. 112–166, §2(k)(1), Aug. 10, 2012, 126 Stat. 1286.)
 
 Historical and Revision Notes
 
@@ -120,7 +120,7 @@ In subsection (e), the words "The Secretary shall cause a . . . of office" and
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e). Pub. L. 112–166 substituted subsec. (e) designation and heading, par. (1), par. (2) designation and heading, and "The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary" for "(e) The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary".
+<b>2012</b>—Subsec. (e). Pub. L. 112–166 inserted subsec. (e) heading, struck out "The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary" before "or the General Counsel,", added par. (1), inserted par. (2) designation and heading, and, in par. (2), inserted "The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary".
 
 <b>2007</b>—Subsecs. (g), (h). Pub. L. 110–140 added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -164,7 +164,7 @@ Pub. L. 109–59, title V, §5510, Aug. 10, 2005, 119 Stat. 1828, provided that:
 
 "(a)
 
-Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations,Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 "(b)
 

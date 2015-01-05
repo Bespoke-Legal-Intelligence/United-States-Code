@@ -38,7 +38,7 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 &emsp;A facility shall have the information described in paragraph (2) available—
 
-&emsp;&emsp;(A) during the period beginning on March 23, 2010, and ending on the date such information is made available to the public under section 6101(b) of the Patient Protection and Affordable Care Act for submission to the Secretary, the Inspector General of the Department of Health and Human Services, the State in which the facility is located, and the State long-term care ombudsman in thecase where the Secretary, the Inspector General, the State, or the State long-term care ombudsman requests such information; and
+&emsp;&emsp;(A) during the period beginning on March 23, 2010, and ending on the date such information is made available to the public under section 6101(b) of the Patient Protection and Affordable Care Act for submission to the Secretary, the Inspector General of the Department of Health and Human Services, the State in which the facility is located, and the State long-term care ombudsman in the case where the Secretary, the Inspector General, the State, or the State long-term care ombudsman requests such information; and
 
 &emsp;&emsp;(B) beginning on the effective date of the final regulations promulgated under paragraph (3)(A), for reporting such information in accordance with such final regulations.
 
@@ -188,7 +188,7 @@ Pub. L. 111–148, title VI, §6101(b), Mar. 23, 2010, 124 Stat. 702, provided t
 
 #### Report on Confidentiality of Social Security Account Numbers
 
-Pub. L. 105–33, title IV, §4313(d), Aug. 5, 1997, 111 Stat. 389, provided that: "Before the amendments made by this section \[amending this section and section 1320a–3a of this title\] may become effective, the Secretary ofHealth and Human Services shall submit to Congress a report on steps the Secretary has taken to assure the confidentiality of social security account numbers that will be provided to the Secretary under such amendments."
+Pub. L. 105–33, title IV, §4313(d), Aug. 5, 1997, 111 Stat. 389, provided that: "Before the amendments made by this section \[amending this section and section 1320a–3a of this title\] may become effective, the Secretary of Health and Human Services shall submit to Congress a report on steps the Secretary has taken to assure the confidentiality of social security account numbers that will be provided to the Secretary under such amendments."
 
 <i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

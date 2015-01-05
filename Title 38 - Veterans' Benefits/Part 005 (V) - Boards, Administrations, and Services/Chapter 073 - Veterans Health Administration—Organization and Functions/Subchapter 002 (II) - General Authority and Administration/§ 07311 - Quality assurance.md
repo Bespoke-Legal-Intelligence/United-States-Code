@@ -24,7 +24,7 @@
 
 &emsp;(B) collect data and other information on mortality and morbidity rates in the Administration for each type of surgical procedure performed by the Administration and (with respect to each such procedure) compile the data and other information so collected—
 
-&emsp;&emsp;(i) for each medical facility of the Department, in the case of cardiac surgery, hearttransplant, and renal transplant programs; and
+&emsp;&emsp;(i) for each medical facility of the Department, in the case of cardiac surgery, heart transplant, and renal transplant programs; and
 
 &emsp;&emsp;(ii) in the aggregate, for each other type of surgical procedure.
 

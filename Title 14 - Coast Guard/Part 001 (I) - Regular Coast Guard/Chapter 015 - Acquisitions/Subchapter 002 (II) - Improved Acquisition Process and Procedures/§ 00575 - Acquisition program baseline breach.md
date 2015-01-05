@@ -8,7 +8,7 @@ In General.—The Commandant shall submit a report to the appropriate congressio
 
 &emsp;(2) a likely delay of more than 180 days in the delivery schedule for any individual capability or asset or class of capabilities or assets; or
 
-&emsp;(3) an anticipated failure for any individual capability or asset or class of capabilities or assets to satisfy any key performance threshold or parameter under the acquisition program baseline.
+&emsp;(3) an anticipated failure for any individual capability or asset or class of capabilities orassets to satisfy any key performance threshold or parameter under the acquisition program baseline.
 
 (b)
 

@@ -74,13 +74,13 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 #### References in Text
 
-This chapter, referred to in text, was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see ShortTitle note set out under section 1101 of this title and Tables.
+This chapter, referred to in text, was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Immigration Reform, Accountability and Security Enhancement Act of 2002, referred to in subsec. (g)(1), was S. 2444 of the 107th Congress, as introduced on May 2, 2002, which was not enacted into law. Provisions relating to the Executive Office for Immigration Review are contained in section 521 of Title 6, Domestic Security.
 
 #### Codification
 
-“Section 3113 of title 40” substituted in subsec. (b)(3) for “the Act of August 1, 1888 (Chapter 728; 25 Stat. 357)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 3113 of title 40" substituted in subsec. (b)(3) for "the Act of August 1, 1888 (Chapter 728; 25 Stat. 357)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -94,19 +94,19 @@ Pub. L. 108–7, §105(a)(2), which directed the amendment of Pub. L. 107–296,
 
 <b>2002</b>—Pub. L. 107–296, §1102(1), amended section catchline generally.
 
-Subsec. (a). Pub. L. 107–296, §1102(2)(A), as added by Pub. L. 108–7, §105(a)(1), which directed the substitution of “Secretary of Homeland Security” for “Attorney General” in heading, was executed by inserting “Secretary of Homeland Security” as heading, to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 107–296, §1102(2)(A), as added by Pub. L. 108–7, §105(a)(1), which directed the substitution of "Secretary of Homeland Security" for "Attorney General" in heading, was executed by inserting "Secretary of Homeland Security" as heading, to reflect the probable intent of Congress.
 
-Subsec. (a)(1). Pub. L. 107–296, §1102(2)(B), as added by Pub. L. 108–7, §105(a)(1), substituted “The Secretary of Homeland Security” for “The Attorney General”.
+Subsec. (a)(1). Pub. L. 107–296, §1102(2)(B), as added by Pub. L. 108–7, §105(a)(1), substituted "The Secretary of Homeland Security" for "The Attorney General".
 
-Pub. L. 107–296, §1102(2)(C), formerly §1102(2)(A), as redesignated by Pub. L. 108–7, §105(a)(2), inserted “Attorney General,” after “President,”. See 2003 Amendment note above.
+Pub. L. 107–296, §1102(2)(C), formerly §1102(2)(A), as redesignated by Pub. L. 108–7, §105(a)(2), inserted "Attorney General," after "President,". See 2003 Amendment note above.
 
 Subsec. (a)(8) to (11). Pub. L. 107–296, §1102(2)(D), formerly §1102(2)(B), as redesignated by Pub. L. 108–7, §105(a)(2), redesignated par. (8), relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving, and par. (9), relating to Attorney General authority to support administrative detention of persons in non-Federal institutions, as pars. (10) and (11), respectively. See 2003 Amendment note above.
 
 Subsec. (g). Pub. L. 107–296, §1102(3), added subsec. (g).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §372(1), (2), inserted “(1)” before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §372(1), (2), inserted "(1)" before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
 
-Pub. L. 104–208, §125, inserted at end “After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.”
+Pub. L. 104–208, §125, inserted at end "After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers."
 
 Subsec. (a)(8). Pub. L. 104–208, §372(3), added at end par. (8) relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving.
 
@@ -114,17 +114,17 @@ Subsec. (a)(9). Pub. L. 104–208, §373(1), added at end par. (9) relating to A
 
 Subsec. (b). Pub. L. 104–208, §102(d)(1)(B), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–208, §373(2), inserted at end “The Commissioner may enter into cooperative agreements with State and local law enforcement agencies for the purpose of assisting in the enforcement of the immigration laws.”
+Subsec. (c). Pub. L. 104–208, §373(2), inserted at end "The Commissioner may enter into cooperative agreements with State and local law enforcement agencies for the purpose of assisting in the enforcement of the immigration laws."
 
 Pub. L. 104–208, §102(d)(1)(A), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 104–208, §102(d)(1)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2). Pub. L. 104–208, §308(e)(4), which directed amendment of subsec. (c)(2) by substituting “cancellation of removal” for “suspension of deportation”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
+Subsec. (d)(2). Pub. L. 104–208, §308(e)(4), which directed amendment of subsec. (c)(2) by substituting "cancellation of removal" for "suspension of deportation", was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
 
-Pub. L. 104–208, §308(d)(4)(C), which directed amendment of subsec. (c)(2) by substituting “not been admitted or have been removed” for “been excluded or deported”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
+Pub. L. 104–208, §308(d)(4)(C), which directed amendment of subsec. (c)(2) by substituting "not been admitted or have been removed" for "been excluded or deported", was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
 
-Subsec. (e). Pub. L. 104–208, §102(d)(2), substituted “subsection (d)” for “subsection (c)” in par. (1).
+Subsec. (e). Pub. L. 104–208, §102(d)(2), substituted "subsection (d)" for "subsection (c)" in par. (1).
 
 Pub. L. 104–208, §102(d)(1)(A), redesignated subsec. (d) as (e).
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 104–208, §134(a), added subsec. (f).
 
 <b>1990</b>—Subsecs. (c), (d). Pub. L. 101–649 added subsecs. (c) and (d).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–525, §9(c)(1), substituted “instructions” for “intructions” and amended fourth sentence generally. Prior to amendment, fourth sentence read as follows: “He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–525, §9(c)(1), substituted "instructions" for "intructions" and amended fourth sentence generally. Prior to amendment, fourth sentence read as follows: "He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service."
 
 Subsec. (b). Pub. L. 100–525, §9(c)(2), struck out provision that Commissioner was to receive compensation at rate of $17,500 per annum.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 107–296 effective on the date of the transfer of function
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title I, §134(b), Sept. 30, 1996, 110 Stat. 3009–564, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title I, §134(b), Sept. 30, 1996, 110 Stat. 3009–564, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Amendment by section 308(d)(4)(C), (e)(4) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
@@ -156,137 +156,137 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Fingerprint Cards
 
-Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “That beginning seven calendar days after the enactment of this Act \[Nov. 26, 1997\] and for each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service may be used by the Immigration and Naturalization Service to accept, for the purpose of conducting criminal background checks on applications for any benefit under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], any FD–258 fingerprint card which has been prepared by or received from any individual or entity other than an office of the Immigration and Naturalization Service with the following exceptions: (1) State and local law enforcement agencies; and (2) United States consular offices at United States embassies and consulates abroad under the jurisdiction of the Department of State or United States military offices under the jurisdiction of the Department of Defense authorized to perform fingerprinting services to prepare FD–258 fingerprint cards for applicants residing abroad applying for immigration benefits”.
+Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: "That beginning seven calendar days after the enactment of this Act \[Nov. 26, 1997\] and for each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service may be used by the Immigration and Naturalization Service to accept, for the purpose of conducting criminal background checks on applications for any benefit under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], any FD–258 fingerprint card which has been prepared by or received from any individual or entity other than an office of the Immigration and Naturalization Service with the following exceptions: (1) State and local law enforcement agencies; and (2) United States consular offices at United States embassies and consulates abroad under the jurisdiction of the Department of State or United States military offices under the jurisdiction of the Department of Defense authorized to perform fingerprinting services to prepare FD–258 fingerprint cards for applicants residing abroad applying for immigration benefits".
 
 #### Improvement of Barriers at Border
 
 Pub. L. 104–208, div. C, title I, §102(a)–(c), Sept. 30, 1996, 110 Stat. 3009–554, 3009–555, as amended by Pub. L. 109–13, div. B, title I, §102, May 11, 2005, 119 Stat. 306; Pub. L. 109–367, §3, Oct. 26, 2006, 120 Stat. 2638; Pub. L. 110–161, div. E, title V, §564(a), Dec. 26, 2007, 121 Stat. 2090, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Homeland Security shall take such actions as may be necessary to install additional physical barriers and roads (including the removal of obstacles to detection of illegal entrants) in the vicinity of the United States border to deter illegal crossings in areas of high illegal entry into the United States.
 
-“(b)
+"(b)
 
 Construction of Fencing and Road Improvements Along the Border.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Additional fencing along southwest border.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Reinforced fencing.—In carrying out subsection (a), the Secretary of Homeland Security shall construct reinforced fencing along not less than 700 miles of the southwest border where fencing would be most practical and effective and provide for the installation of additional physical barriers, roads, lighting, cameras, and sensors to gain operational control of the southwest border.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Priority areas.—In carrying out this section \[amending this section\], the Secretary of Homeland Security shall—
 
-&emsp;&emsp;&emsp;“(i) identify the 370 miles, or other mileage determined by the Secretary, whose authority to determine other mileage shall expire on December 31, 2008, along the southwest border where fencing would be most practical and effective in deterring smugglers and aliens attempting to gain illegal entry into the United States; and
+&emsp;&emsp;&emsp;"(i) identify the 370 miles, or other mileage determined by the Secretary, whose authority to determine other mileage shall expire on December 31, 2008, along the southwest border where fencing would be most practical and effective in deterring smugglers and aliens attempting to gain illegal entry into the United States; and
 
-&emsp;&emsp;&emsp;“(ii) not later than December 31, 2008, complete construction of reinforced fencing along the miles identified under clause (i).
+&emsp;&emsp;&emsp;"(ii) not later than December 31, 2008, complete construction of reinforced fencing along the miles identified under clause (i).
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Consultation.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—In carrying out this section, the Secretary of Homeland Security shall consult with the Secretary of the Interior, the Secretary of Agriculture, States, local governments, Indian tribes, and property owners in the United States to minimize the impact on the environment, culture, commerce, and quality of life for the communities and residents located near the sites at which such fencing is to be constructed.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Savings provision.—Nothing in this subparagraph may be construed to—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) create or negate any right of action for a State, local government, or other person or entity affected by this subsection; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) create or negate any right of action for a State, local government, or other person or entity affected by this subsection; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) affect the eminent domain laws of the United States or of any State.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) affect the eminent domain laws of the United States or of any State.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Limitation on requirements.—Notwithstanding subparagraph (A), nothing in this paragraph shall require the Secretary of Homeland Security to install fencing, physical barriers, roads, lighting, cameras, and sensors in a particular location along an international border of the United States, if the Secretary determines that the use or placement of such resources is not the most appropriate means to achieve and maintain operational control over the international border at such location.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Prompt acquisition of necessary easements.—The Attorney General, acting under the authority conferred in section 103(b) of the Immigration and Nationality Act \[8 U.S.C. 1103(b)\] (as inserted by subsection (d)), shall promptly acquire such easements as may be necessary to carry out this subsection and shall commence construction of fences immediately following such acquisition (or conclusion of portions thereof).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Safety features.—The Attorney General, while constructing the additional fencing under this subsection, shall incorporate such safety features into the design of the fence system as are necessary to ensure the well-being of border patrol agents deployed within or in near proximity to the system.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Authorization of appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
-“(c)
+"(c)
 
 Waiver.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Notwithstanding any other provision of law, the Secretary of Homeland Security shall have the authority to waive all legal requirements such Secretary, in such Secretary's sole discretion, determines necessary to ensure expeditious construction of the barriers and roads under this section \[amending this section\]. Any such decision by the Secretary shall be effective upon being published in the Federal Register.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Federal court review.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any action undertaken, or any decision made, by the Secretary of Homeland Security pursuant to paragraph (1). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court shall not have jurisdiction to hear any claim not specified in this subparagraph.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Time for filing of complaint.—Any cause or claim brought pursuant to subparagraph (A) shall be filed not later than 60 days after the date of the action or decision made by the Secretary of Homeland Security. A claim shall be barred unless it is filed within the time specified.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
-Ability to seek appellate review.—An interlocutory or final judgment, decree, or order of the district court may be reviewed only upon petition for a writ of certiorari to the Supreme Court of the United States.”
+Ability to seek appellate review.—An interlocutory or final judgment, decree, or order of the district court may be reviewed only upon petition for a writ of certiorari to the Supreme Court of the United States."
 
 #### Improved Border Equipment and Technology
 
-Pub. L. 104–208, div. C, title I, §103, Sept. 30, 1996, 110 Stat. 3009–555, provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
+Pub. L. 104–208, div. C, title I, §103, Sept. 30, 1996, 110 Stat. 3009–555, provided that: "The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General."
 
 #### Hiring and Training Standards
 
 Pub. L. 104–208, div. C, title I, §106(a), (b), Sept. 30, 1996, 110 Stat. 3009–556, provided that:
 
-“(a)
+"(a)
 
-Review of Hiring Standards.—Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall complete a review of all prescreening and hiring standards used by the Commissioner of Immigration and Naturalization, and, where necessary, revise such standards to ensure that they are consistent with relevant standards of professionalism.
+Review of Hiring Standards.—Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall complete a review of all prescreening and hiring standards used by the Commissioner of Immigration and Naturalization, and, where necessary, revise such standards to ensure thatthey are consistent with relevant standards of professionalism.
 
-“(b)
+"(b)
 
-Certification.—At the conclusion of each of fiscal years 1997, 1998, 1999, 2000, and 2001, the Attorney General shall certify in writing to the Committees on the Judiciary of the House of Representatives and of the Senate that all personnel hired by the Commissioner of Immigration and Naturalization for such fiscal year were hired pursuant to the appropriate standards, as revised under subsection (a).”
+Certification.—At the conclusion of each of fiscal years 1997, 1998, 1999, 2000, and 2001, the Attorney General shall certify in writing to the Committees on the Judiciary of the House of Representatives and of the Senate that all personnel hired by the Commissioner of Immigration and Naturalization for such fiscal year were hired pursuant to the appropriate standards, as revised under subsection (a)."
 
 #### Report on Border Strategy
 
 Pub. L. 104–208, div. C, title I, §107, Sept. 30, 1996, 110 Stat. 3009–557, provided that:
 
-“(a)
+"(a)
 
 Evaluation of Strategy.—The Comptroller General of the United States shall track, monitor, and evaluate the Attorney General's strategy to deter illegal entry in the United States to determine the efficacy of such strategy.
 
-“(b)
+"(b)
 
 Cooperation.—The Attorney General, the Secretary of State, and the Secretary of Defense shall cooperate with the Comptroller General of the United States in carrying out subsection (a).
 
-“(c)
+"(c)
 
-Report.—Not later than one year after the date of the enactment of this Act \[Sept. 30, 1996\], and every year thereafter for the succeeding 5 years, the Comptroller General of the United States shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on the results of the activities undertaken under subsection (a) during the previous year. Each such report shall include an analysis of the degree to which the Attorney General's strategy has been effective in reducing illegal entry. Each such report shall include a collection and systematic analysis of data, including workload indicators, related to activities to deter illegal entry and recommendations to improve and increase border security at the border and ports of entry.”
+Report.—Not later than one year after the date of the enactment of this Act \[Sept. 30, 1996\], and every year thereafter for the succeeding 5 years, the Comptroller General of the United States shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on the results of the activities undertaken under subsection (a) during the previous year. Each such report shall include an analysis of the degree to which the Attorney General's strategy has been effective in reducing illegal entry. Each such report shall include a collection and systematic analysis of data, including workload indicators, related to activities to deter illegal entry and recommendations to improve and increase border security at the border and ports of entry."
 
 #### Compensation for Immigration Judges
 
 Pub. L. 104–208, div. C, title III, §371(c), Sept. 30, 1996, 110 Stat. 3009–645, provided that:
 
-“(1)
+"(1)
 
 In general.—There shall be four levels of pay for immigration judges, under the Immigration Judge Schedule (designated as IJ–1, 2, 3, and 4, respectively), and each such judge shall be paid at one of those levels, in accordance with the provisions of this subsection.
 
-“(2)
+"(2)
 
 Rates of pay.—
 
-&emsp;“(A) The rates of basic pay for the levels established under paragraph (1) shall be as follows:
+&emsp;"(A) The rates of basic pay for the levels established under paragraph (1) shall be as follows:
 
 &nbsp;
 
@@ -297,21 +297,21 @@ Rates of pay.—
 | IJ–3 | 90% of the next to highest rate of basic pay for the Senior Executive Service |
 | IJ–4 | 92% of the next to highest rate of basic pay for the Senior Executive Service. |
 
-&emsp;“(B) Locality pay, where applicable, shall be calculated into the basic pay for immigration judges.
+&emsp;"(B) Locality pay, where applicable, shall be calculated into the basic pay for immigration judges.
 
-“(3)
+"(3)
 
 Appointment.—
 
-&emsp;“(A) Upon appointment, an immigration judge shall be paid at IJ–1, and shall be advanced to IJ–2 upon completion of 104 weeks of service, to IJ–3 upon completion of 104 weeks of service in the next lower rate, and to IJ–4 upon completion of 52 weeks of service in the next lower rate.
+&emsp;"(A) Upon appointment, an immigration judge shall be paid at IJ–1, and shall be advanced to IJ–2 upon completion of 104 weeks of service, to IJ–3 upon completion of 104 weeks of service in the next lower rate, and to IJ–4 upon completion of 52 weeks of service in the next lower rate.
 
-&emsp;“(B) Notwithstanding subparagraph (A), the Attorney General may provide for appointment of an immigration judge at an advanced rate under such circumstances as the Attorney General may determine appropriate.
+&emsp;"(B) Notwithstanding subparagraph (A), the Attorney General may provide for appointment of an immigration judge at an advanced rate under such circumstances as the Attorney General may determine appropriate.
 
-“(4)
+"(4)
 
-Transition.—Immigration judges serving as of the effective date shall be paid at the rate that corresponds to the amount of time, as provided under paragraph (3)(A), that they have served as an immigration judge, and in no case shall be paid less after the effective date than the rate of pay prior to the effective date.”
+Transition.—Immigration judges serving as of the effective date shall be paid at the rate that corresponds to the amount of time, as provided under paragraph (3)(A), that they have served as an immigration judge, and in no case shall be paid less after the effective date than the rate of pay prior to the effective date."
 
-\[Pub. L. 104–208, div. C, title III, §371(d)(2), Sept. 30, 1996, 110 Stat. 3009–646, provided that: “Subsection (c) \[set out above\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\].”\]
+\[Pub. L. 104–208, div. C, title III, §371(d)(2), Sept. 30, 1996, 110 Stat. 3009–646, provided that: "Subsection (c) \[set out above\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."\]
 
 #### Machine-Readable Document Border Security Program
 
@@ -321,29 +321,29 @@ Pub. L. 100–690, title IV, §4604, Nov. 18, 1988, 102 Stat. 4289, which requir
 
 Pub. L. 100–690, title VII, §7350, Nov. 18, 1988, 102 Stat. 4473, provided that:
 
-“(a)
+"(a)
 
 Pilot Program Regarding the Identification of Certain Aliens.—
 
-&emsp;“(1) Within 6 months after the effective date of this subtitle \[Nov. 18, 1988\], the Attorney General shall establish, out of funds appropriated pursuant to subsection (c)(2), a pilot program in 4 cities to improve the capabilities of the Immigration and Naturalization Service (hereinafter in this section referred to as the ‘Service’) to respond to inquiries from Federal, State, and local law enforcement authorities concerning aliens who have been arrested for or convicted of, or who are the subject of any criminal investigation relating to, a violation of any law relating to controlled substances (other than an aggravated felony as defined in section 101(a)(43) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(43)\], as added by section 7342 of this subtitle).
+&emsp;"(1) Within 6 months after the effective date of this subtitle \[Nov. 18, 1988\], the Attorney General shall establish, out of funds appropriated pursuant to subsection (c)(2), a pilot program in 4 cities to improve the capabilities of the Immigration and Naturalization Service (hereinafter in this section referred to as the 'Service') to respond to inquiries from Federal, State, and local law enforcement authorities concerning aliens who have been arrested for or convicted of, or who are the subject of any criminal investigation relating to, a violation of any law relating to controlled substances (other than an aggravated felony as defined in section 101(a)(43) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(43)\], as added by section 7342 of this subtitle).
 
-&emsp;“(2) At the end of the 12-month period after the establishment of such pilot program, the Attorney General shall provide for an evaluation of its effectiveness, including an assessment by Federal, State, and local prosecutors and law enforcement agencies. The Attorney General shall submit a report containing the conclusions of such evaluation to the Committees on the Judiciary of the House of Representatives and of the Senate within 60 days after the completion of such evaluation.
+&emsp;"(2) At the end of the 12-month period after the establishment of such pilot program, the Attorney General shall provide for an evaluation of its effectiveness, including an assessment by Federal, State, and local prosecutors and law enforcement agencies. The Attorney General shall submit a report containing the conclusions of such evaluation to the Committees on the Judiciary of the House of Representatives and of the Senate within 60 days after the completion of such evaluation.
 
-“(b)
+"(b)
 
 Hiring of Investigative Agents.—
 
-&emsp;“(1) Any investigative agent hired by the Attorney General for purposes of this section shall be employed exclusively to assist Federal, State, and local law enforcement agencies in combating drug trafficking and crimes of violence by aliens.
+&emsp;"(1) Any investigative agent hired by the Attorney General for purposes of this section shall be employed exclusively to assist Federal, State, and local law enforcement agencies in combating drug trafficking and crimes of violence by aliens.
 
-&emsp;“(2) Any investigative agent hired under this section who is older than 35 years of age shall not be eligible for Federal retirement benefits made available to individuals who perform hazardous law enforcement activities.”
+&emsp;"(2) Any investigative agent hired under this section who is older than 35 years of age shall not be eligible for Federal retirement benefits made available to individuals who perform hazardous law enforcement activities."
 
 #### Pilot Program To Establish or Improve Computer Capabilities
 
 Pub. L. 99–570, title I, §1751(e), Oct. 27, 1986, 100 Stat. 3207–48, provided that:
 
-“(1) From the sums appropriated to carry out this Act, the Attorney General, through the Investigative Division of the Immigration and Naturalization Service, shall provide a pilot program in 4 cities to establish or improve the computer capabilities of the local offices of the Service and of local law enforcement agencies to respond to inquiries concerning aliens who have been arrested or convicted for, or are the subject to criminal investigation relating to, a violation of any law relating to controlled substances. The Attorney General shall select cities in a manner that provides special consideration for cities located near the land borders of the United States and for large cities which have major concentrations of aliens. Some of the sums made available under the pilot program shall be used to increase the personnel level of the Investigative Division.
+"(1) From the sums appropriated to carry out this Act, the Attorney General, through the Investigative Division of the Immigration and Naturalization Service, shall provide a pilot program in 4 cities to establish or improve the computer capabilities of the local offices of the Service and of local law enforcement agencies to respond to inquiries concerning aliens who have been arrested or convicted for, or are the subject to criminal investigation relating to, a violation of any law relating to controlled substances. The AttorneyGeneral shall select cities in a manner that provides special consideration for cities located near the land borders of the United States and for large cities which have major concentrations of aliens. Some of the sums made available under the pilot program shall be used to increase the personnel level of the Investigative Division.
 
-“(2) At the end of the first year of the pilot program, the Attorney General shall provide for an evaluation of the effectiveness of the program and shall report to Congress on such evaluation and on whether the pilot program should be extended or expanded.”
+"(2) At the end of the first year of the pilot program, the Attorney General shall provide for an evaluation of the effectiveness of the program and shall report to Congress on such evaluation and on whether the pilot program should be extended or expanded."
 
 #### Emergency Plans for Regulation of Nationals of Enemy Countries
 
@@ -418,4 +418,96 @@ Sec. 4. <i>Administration</i>. (a) To the extent permitted by law, the Departmen
 (d) This order is intended to improve the internal management of the Federal Government. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity against the United States, its departments, agencies, entities, instrumentalities, officers, employees, agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Creating Welcoming Communities and Fully Integrating Immigrants and Refugees
+
+Memorandum of President of the United States, Nov. 21, 2014, 79 F.R. 70765, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Our country has long been a beacon of hope and opportunity for people from around the world. Nearly 40 million foreign-born residents nationwide contribute to their communities every day, including 3 million refugees who have resettled here since 1975. These new Americans significantly improve our economy. They make up 13 percent of the population, but are over 16 percent of the labor force and start 28 percent of all new businesses. Moreover, immigrants or their children have founded more than 40 percent of Fortune 500 companies, which collectively employ over 10 million people worldwide and generate annual revenues of $4.2 trillion.
+
+By focusing on the civic, economic, and linguistic integration of new Americans, we can help immigrants and refugees in the United States contribute fully to our economy and their communities. Civic integration provides new Americans with security in their rights and liberties. Economic integration empowers immigrants to be self-sufficient and allows them to give back to their communities and contribute to economic growth. English language acquisition allows new Americans to attain employment or career advancement and be more active civic participants.
+
+Our success as a Nation of immigrants is rooted in our ongoing commitment to welcoming and integrating newcomers into the fabric of our country. It is important that we develop a Federal immigrant integration strategy that is innovative and competitive with those of other industrialized nations and supports mechanisms to ensure that our Nation's diverse people are contributing to society to their fullest potential.
+
+Therefore, I am establishing a White House Task Force on New Americans, an interagency effort to identify and support State and local efforts at integrationthat are working and to consider how to expand and replicate successful models. The Task Force, which will engage with community, business, and faith leaders, as well as State and local elected officials, will help determine additional steps the Federal Government can take to ensure its programs and policies are serving diverse communities that include new Americans.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
+
+Section 1. <i>White House Task Force on New Americans</i>. (a) There is established a White House Task Force on New Americans (Task Force) to develop a coordinated Federal strategy to better integrate new Americans into communities and support State and local efforts to do the same. It shall be co-chaired by the Director of the Domestic Policy Council and Secretary of Homeland Security, or their designees. In addition to the Co-Chairs, the Task Force shall consist of the following members:
+
+(i) the Secretary of State;
+
+(ii) the Attorney General;
+
+(iii) the Secretary of Agriculture;
+
+(iv) the Secretary of Commerce;
+
+(v) the Secretary of Labor;
+
+(vi) the Secretary of Health and Human Services;
+
+(vii) the Secretary of Housing and Urban Development;
+
+(viii) the Secretary of Transportation;
+
+(ix) the Secretary of Education;
+
+(x) the Chief Executive Officer of the Corporation for National and Community Service;
+
+(xi) the Director of the Office of Management and Budget;
+
+(xii) the Administrator of the Small Business Administration;
+
+(xiii) the Senior Advisor and Assistant to the President for Intergovernmental Affairs and Public Engagement;
+
+(xiv) the Director of the National Economic Council;
+
+(xv) the Assistant to the President for Homeland Security and Counterterrorism; and
+
+(xvi) the Director of the Office of Science and Technology Policy.
+
+(b) A member of the Task Force may designate a senior-level official who is from the member's department, agency, or office, and is a full-time officer or employee of the Federal Government, to perform day-to-day Task Force functions of the member. At the direction of the Co-Chairs, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this subsection, as appropriate.
+
+(c) The Secretary of Homeland Security shall appoint an Executive Director who will determine the Task Force's agenda, convene regular meetings of the Task Force, and supervise work under the direction of the Co-Chairs. The Department of Homeland Security shall provide funding and administrative support for the Task Force to the extent permitted by law and subject to the availability of appropriations. Each executive department or agency shall bear its own expenses for participating in the Task Force.
+
+Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall, consistent with applicable law, work across executive departments and agencies to:
+
+(i) review the policies and programs of all relevant executive departments and agencies to ensure they are responsive to the needs of new Americans and the receiving communities in which they reside, and identify ways in which such programs can be used to increase meaningful engagement between new Americans and the receiving community;
+
+(ii) identify and disseminate best practices at the State and local level;
+
+(iii) provide technical assistance, training, or other support to existing Federal grantees to increase their coordination and capacity to improve long-term integration and foster welcoming community climates;
+
+(iv) collect and disseminate immigrant integration data, policies, and programs that affect numerous executive departments and agencies, as well as State and local governments and nongovernmental actors;
+
+(v) conduct outreach to representatives of nonprofit organizations, State and local government agencies, elected officials, and other interested persons that can assist with the Task Force's development of recommendations;
+
+(vi) work with Federal, State, and local entities to measure and strengthen equitable access to services and programs for new Americans, consistent with applicable law; and
+
+(vii) share information with and communicate to the American public regarding the benefits that result from integrating new Americans into communities.
+
+(b) Within 120 days of the date of this memorandum, the Task Force shall develop and submit to the President an Integration Plan with recommendations for agency actions to further the integration of new Americans. The Integration Plan shall include:
+
+(i) an assessment by each Task Force member of the status and scope of the efforts by the member's department, agency, or office to further the civic, economic, and linguistic integration of new Americans, including a report on the status of any offices or programs that have been created to develop, implement, or monitor targeted initiatives concerning immigrant integration; and
+
+(ii) recommendations for issues, programs, or initiatives that should be further evaluated, studied, and implemented, as appropriate.
+
+(c) The Task Force shall provide, within 1 year of the date of this memorandum, a status report to the President regarding the implementation of this memorandum. The Task Force shall review and update the Integration Plan periodically, as appropriate, and shall present to the President any updated recommendations or findings.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Homeland Security is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

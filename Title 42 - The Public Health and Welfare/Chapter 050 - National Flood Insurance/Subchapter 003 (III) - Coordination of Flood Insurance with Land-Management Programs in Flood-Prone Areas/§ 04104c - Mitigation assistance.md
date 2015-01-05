@@ -60,7 +60,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (4) Eligibility of demolition and rebuilding of properties
 
-&emsp;The Administrator shall consider as an eligible activity the demolition and rebuilding ofproperties to at least base flood elevation or greater, if required by the Administrator or if required by any State regulation or local ordinance, and in accordance with criteria established by the Administrator.
+&emsp;The Administrator shall consider as an eligible activity the demolition and rebuilding of properties to at least base flood elevation or greater, if required by the Administrator or if required by any State regulation or local ordinance, and in accordance with criteria established by the Administrator.
 
 #### (d) Matching requirement
 
@@ -182,7 +182,7 @@ Subsec. (c)(4). Pub. L. 112–141, §100225(a)(5)(B), (E), added par. (4) and st
 
 Subsec. (c)(5). Pub. L. 112–141, §100225(a)(5)(C), redesignated par. (5) as (3).
 
-Subsec. (c)(6). Pub. L. 112–141, §100225(a)(5)(E), struck out par. (6). Text read as follows: "The Director shall consider as an eligible activity the demolition and rebuilding of properties to at least base flood levels or higher, if required by the Director or if required by any State or local ordinance, and in accordance with project implementation criteria established by the Director."
+Subsec. (c)(6). Pub. L. 112–141, §100225(a)(5)(E), struck out par. (6). Text read as follows: "The Director shallconsider as an eligible activity the demolition and rebuilding of properties to at least base flood levels or higher, if required by the Director or if required by any State or local ordinance, and in accordance with project implementation criteria established by the Director."
 
 Subsec. (d). Pub. L. 112–141, §100225(a)(1), (6), added subsec. (d) and struck out former subsec. (d) which related to notification of mitigation plan approval and grant award.
 

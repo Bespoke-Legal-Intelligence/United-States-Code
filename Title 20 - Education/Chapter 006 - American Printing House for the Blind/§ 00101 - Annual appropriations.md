@@ -50,5 +50,5 @@ Pub. L. 100–630, title IV, §404, Nov. 7, 1988, 102 Stat. 3316, provided that:
 
 #### Ineffectiveness of References to Perpetual Trust Fund and Annual Appropriations
 
-Pub. L. 100–630, title IV, §405, Nov. 7, 1988, 102 Stat. 3317, provided that: "Notwithstanding any Federal law, reference to the perpetual trust fund and permanent annual appropriations thereof established by the Act of March 3, 1879 \[see Codification note above\], shall not be given any effect."
+Pub. L. 100–630, title IV, §405, Nov. 7, 1988, 102 Stat. 3317, provided that: "Notwithstanding any Federal law, reference to the perpetual trust fund and permanentannual appropriations thereof established by the Act of March 3, 1879 \[see Codification note above\], shall not be given any effect."
 

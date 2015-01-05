@@ -46,7 +46,7 @@ Each program agency shall, through the programs and activities administered unde
 
 #### (2) Academic standards
 
-&emsp;The standards and procedures described in paragraph (1) shall provide that an individualserving in a program that receives assistance under this division—
+&emsp;The standards and procedures described in paragraph (1) shall provide that an individual serving in a program that receives assistance under this division—
 
 &emsp;&emsp;(A) who is not a high school graduate, participate in an educational curriculum so that such individual can earn a high school diploma or the equivalent of such diploma; and
 

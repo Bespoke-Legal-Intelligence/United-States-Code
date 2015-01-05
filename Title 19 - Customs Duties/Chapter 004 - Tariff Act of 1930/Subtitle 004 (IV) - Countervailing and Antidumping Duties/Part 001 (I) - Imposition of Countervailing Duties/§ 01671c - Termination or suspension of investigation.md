@@ -6,7 +6,7 @@
 
 #### (A) Withdrawal of petition
 
-&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner orby the administering authority if the investigation was initiated under section 1671a(a) of this title.
+&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1671a(a) of this title.
 
 #### (B) Refiling of petition
 
@@ -190,7 +190,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (1) In general
 
-&emsp;If the administering authority determines that an agreement accepted under subsection (b) or (c) of this section is being, or has been, violated, or no longer meets the requirements of such subsection (other than the requirement, under subsection (c)(1) of this section, of elimination of injury) and subsection (d) of this section, then, on the date of publication of its determination, it shall—
+&emsp;If the administering authority determines that an agreement accepted under subsection (b) or (c) of this section is being, or has been, violated, or no longer meets the requirementsof such subsection (other than the requirement, under subsection (c)(1) of this section, of elimination of injury) and subsection (d) of this section, then, on the date of publication of its determination, it shall—
 
 &emsp;&emsp;(A) suspend liquidation under section 1671b(d)(2) of this title of unliquidated entries of the merchandise made on or after the later of—
 
@@ -212,7 +212,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (j) Determination not to take agreement into account
 
-In making a final determination under section 1671d of this title, or in conducting a reviewunder section 1675 of this title, in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c) of this section.
+In making a final determination under section 1671d of this title, or in conducting a review under section 1675 of this title, in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c) of this section.
 
 #### (k) Termination of investigations initiated by administering authority
 

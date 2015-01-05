@@ -54,7 +54,7 @@ If section 2032A applies to any property included in the gross estate of the tra
 
 &emsp;(2) the value of such property and the amount of the taxable estate of the transferor shall be determined as if section 2032A did not apply with respect to such property.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 377; Pub. L. 94–455, title XIX, §1902(a)(2), title XX, §§2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, 90 Stat. 1804, 1850, 1862, 1888; Pub. L. 99–514, titleXIV, §1432(c)(2), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 100–647, title I, §1011A(g)(7), Nov. 10, 1988, 102 Stat. 3481; Pub. L. 105–34, title X, §1073(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title V, §532(c)(2), June 7, 2001, 115 Stat. 74.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 377; Pub. L. 94–455, title XIX, §1902(a)(2), title XX, §§2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, 90 Stat. 1804, 1850, 1862, 1888; Pub. L. 99–514, title XIV, §1432(c)(2), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 100–647, title I, §1011A(g)(7), Nov. 10, 1988, 102 Stat. 3481; Pub. L. 105–34, title X, §1073(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title V, §532(c)(2), June 7, 2001, 115 Stat. 74.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (g). Pub. L. 94–455, §2006(b)(2), added subsec. (g).
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -91,4 +91,8 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by section 1902(a)(2) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
 

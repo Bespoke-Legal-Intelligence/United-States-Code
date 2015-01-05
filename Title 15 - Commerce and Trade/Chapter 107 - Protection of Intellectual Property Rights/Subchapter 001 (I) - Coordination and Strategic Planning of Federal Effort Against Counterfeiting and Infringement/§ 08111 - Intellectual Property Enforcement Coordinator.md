@@ -128,7 +128,7 @@ Sec. 2. <i>Intellectual Property Enforcement Advisory Committee</i>.
 
 (x) such other executive branch departments, agencies, or offices as the President determines to be substantially involved in the efforts of the Federal Government to combat counterfeiting and infringement.
 
-Pursuant to the PRO IP Act (15 U.S.C. 8111), the Coordinator shall also invite the Register of Copyrights,or a senior representative of the United States Copyright Office designated by the Register of Copyrights, to serve as a member of the Enforcement Advisory Committee.
+Pursuant to the PRO IP Act (15 U.S.C. 8111), the Coordinator shall also invite the Register of Copyrights, or a senior representative of the United States Copyright Office designated by the Register of Copyrights, to serve as a member of the Enforcement Advisory Committee.
 
 (c) <i>Mission and Functions</i>.
 
@@ -140,7 +140,7 @@ Pursuant to the PRO IP Act (15 U.S.C. 8111), the Coordinator shall also invite t
 
 &emsp;(C) recommendations to enhance cooperation among Federal, State, and local authorities responsible for intellectual property enforcement.
 
-(ii) The Coordinator may establish subgroups, consisting exclusively of Enforcement Advisory Committee members or their designees, who must be officials from the designating member's department or agency, to support the functions of the Enforcement Advisory Committee. The subgroups shall be chaired by the Coordinator, or the Coordinator's designee with expertise and experience in intellectual property enforcement matters, and may include:
+(ii) The Coordinator may establish subgroups, consisting exclusively of Enforcement Advisory Committee members or their designees, who must be officials from the designating member's department or agency, to support the functions of the Enforcement Advisory Committee. The subgroups shall be chaired by the Coordinator, or the Coordinator's designee with expertiseand experience in intellectual property enforcement matters, and may include:
 
 &emsp;(A) an Enforcement Subcommittee; and
 

@@ -18,7 +18,7 @@ The Center for Quality Improvement and Patient Safety of the Agency for Healthca
 
 &emsp;&emsp;(A) best practices for quality improvement practices in the delivery of health care services; and
 
-&emsp;&emsp;(B) that include changes in processes of care and the redesign of systems used by providers that will reliably result in intended health outcomes, improve patient safety, and reduce medical errors (such as skill development for health care providersin team-based health care delivery and rapid cycle process improvement) and facilitate adoption of improved workflow;
+&emsp;&emsp;(B) that include changes in processes of care and the redesign of systems used by providers that will reliably result in intended health outcomes, improve patient safety, and reduce medical errors (such as skill development for health care providers in team-based health care delivery and rapid cycle process improvement) and facilitate adoption of improved workflow;
 
 &emsp;(3) identify health care providers, including health care systems, single institutions, and individual providers, that—
 
@@ -92,7 +92,7 @@ The Center for Quality Improvement and Patient Safety of the Agency for Healthca
 
 #### (1) Public availability
 
-&emsp;The Director shall make the research findings of the Center available to the public through multiple media and appropriate formats to reflect the varying needs of health care providers and consumers and diverse levels of health literacy.
+&emsp;The Director shall make the research findings of the Center available to the public through multiple media and appropriate formats to reflect the varying needs of healthcare providers and consumers and diverse levels of health literacy.
 
 #### (2) Linkage to health information technology
 

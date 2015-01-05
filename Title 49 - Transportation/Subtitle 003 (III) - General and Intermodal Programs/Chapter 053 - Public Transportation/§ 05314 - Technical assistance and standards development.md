@@ -26,7 +26,7 @@ Eligible activities.—The activities carried out under paragraph (1) may includ
 
 Technical Assistance.—The Secretary, through a competitive bid process, may enter into contracts, cooperative agreements, and other agreements with national nonprofit organizations that have the appropriate demonstrated capacity to provide public transportation-related technical assistance under this section. The Secretary may enter into such contracts, cooperative agreements, and other agreements to assist providers of public transportation to—
 
-&emsp;(1) comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) through technical assistance, demonstration programs, research, public education, and other activities related to complying with such Act;
+&emsp;(1) comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.)through technical assistance, demonstration programs, research, public education, and other activities related to complying with such Act;
 
 &emsp;(2) comply with human services transportation coordination requirements and to enhance the coordination of Federal resources for human services transportation with those of the Department of Transportation through technical assistance, training, and support services related to complying with such requirements;
 

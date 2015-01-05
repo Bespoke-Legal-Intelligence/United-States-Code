@@ -16,7 +16,7 @@ Tariff Requirements for Noncontiguous Domestic Trade.—
 
 &emsp;(1)
 
-Filing.—A carrier providing transportation or service described in subsection (a)(1) shall publish and file with the Board tariffs containing the rates established for suchtransportation or service. The carriers shall keep such tariffs available for public inspection. The Board shall prescribe the form and manner of publishing, filing, and keeping tariffs available for public inspection under this subsection.
+Filing.—A carrier providing transportation or service described in subsection (a)(1) shall publish and file with the Board tariffs containing the rates established for such transportation or service. The carriers shall keep such tariffs available for public inspection. The Board shall prescribe the form and manner of publishing, filing, and keeping tariffs available for public inspection under this subsection.
 
 &emsp;(2)
 

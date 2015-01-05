@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 101–204, §804(c), inserted "not less than the amount app
 
 Subsec. (b). Pub. L. 99–551, §9(c), inserted ", $60,000,000 for fiscal year 1987, $62,400,000 for fiscal year 1988, and $64,900,000 for fiscal year 1989" and struck out "$52,650,000 for fiscal year 1983, $54,300,000 for fiscal year 1984, $56,700,000 for fiscal year 1985, and" after "to be appropriated".
 
-Subsec. (c). Pub. L. 99–551, §9(d), inserted ", $29,740,000 for fiscal year 1987, $30,930,000 for fiscal year 1988, and $32,170,000 for fiscal year 1989" and struck out "$17,607,000 for fiscal year 1983, $27,800,000 for fiscal year 1984, $28,200,000 for fiscal year 1985, and" after "to be appropriated".
+Subsec. (c). Pub. L. 99–551, §9(d), inserted ", $29,740,000 for fiscal year 1987, $30,930,000 for fiscalyear 1988, and $32,170,000 for fiscal year 1989" and struck out "$17,607,000 for fiscal year 1983, $27,800,000 for fiscal year 1984, $28,200,000 for fiscal year 1985, and" after "to be appropriated".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288, §28(a), struck out "$28,691,000 for fiscal year 1982 and" after "to be appropriated", and inserted "$29,700,000 for fiscal year 1984, $30,400,000 for fiscal year 1985, and $31,100,000 for fiscal year 1986".
 

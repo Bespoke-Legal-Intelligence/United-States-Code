@@ -4,7 +4,7 @@
 
 #### (1) Assurance to Export-Import Bank of repayment
 
-&emsp;The President is authorized to provide guarantees to the Bank for liabilities described inparagraph (2) in order to satisfy the requirement of section 2(b)(1)(B) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(B)) that the Bank have <sup>1</sup> reasonable assurance of repayment.
+&emsp;The President is authorized to provide guarantees to the Bank for liabilities described in paragraph (2) in order to satisfy the requirement of section 2(b)(1)(B) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(B)) that the Bank have <sup>1</sup> reasonable assurance of repayment.
 
 #### (2) Liabilities which may be guaranteed
 
@@ -12,33 +12,33 @@
 
 #### (b) Guarantees available only for short-term guarantees and insurance
 
-Guarantees provided under subsection (a) of this section shall be for short-term guarantees and insurance extended by the Bank which shall be repayable within a period not to exceed one year from the date of arrival at the port of importation of the goods and services covered by such guarantees or insurance.
+Guarantees provided under subsection (a) shall be for short-term guarantees and insurance extended by the Bank which shall be repayable within a period not to exceed one year from the date of arrival at the port of importation of the goods and services covered by such guarantees or insurance.
 
 #### (c) Agreement on criteria and procedures
 
-Guarantees or insurance extended by the Bank and guaranteed pursuant to subsection (a) of this section shall be provided by the Bank in accordance with criteria and procedures agreed to by the Administrator and the Bank.
+Guarantees or insurance extended by the Bank and guaranteed pursuant to subsection (a) shall be provided by the Bank in accordance with criteria and procedures agreed to by the Administrator and the Bank.
 
 #### (d) Reserve fund
 
-The agreement referred to in subsection (c) of this section shall also provide for the establishment of a reserve fund by the administering agency, with such funds made available to the reserve as the Administrator deems necessary to discharge liabilities under guarantees provided under subsection (a) of this section.
+The agreement referred to in subsection (c) shall also provide for the establishment of a reserve fund by the administering agency, with such funds made available to the reserve as the Administrator deems necessary to discharge liabilities under guarantees provided under subsection (a).
 
 #### (e) Discharge of liabilities
 
 #### (1) Funds which may be used
 
-&emsp;Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilities under guarantees entered into under subsection (a) of this section.
+&emsp;Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilities under guarantees entered into under subsection (a).
 
 #### (2) Crediting of subsequent payments
 
-&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
+&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a), amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d), shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a).
 
 #### (f) Appropriations action required
 
-Commitments to guarantee under subsection (a) of this section are authorized only to the extent and in the amounts provided in advance in appropriations Acts.
+Commitments to guarantee under subsection (a) are authorized only to the extent and in the amounts provided in advance in appropriations Acts.
 
 #### (g) Limitation on outstanding commitments
 
-The aggregate amount of outstanding commitments under subsection (a) of this section may not exceed $200,000,000 of contingent liability for loan principal during any fiscal year.
+The aggregate amount of outstanding commitments under subsection (a) may not exceed $200,000,000 of contingent liability for loan principal during any fiscal year.
 
 #### (h) Omitted
 
@@ -48,13 +48,13 @@ The Bank shall provide, without reimbursement, such administrative and technical
 
 #### (j) Fees and premiums
 
-The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a) of this section, that are commensurate (in the judgment of the Bank) with the Bank's administrative costs and the risks covered by the agency's guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
+The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a), that are commensurate (in the judgment of the Bank) with the Bank's administrative costs and the risks covered by the agency's guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
 
-&emsp;(1) shall be credited to the reserve fund established pursuant to subsection (d) of this section,
+&emsp;(1) shall be credited to the reserve fund established pursuant to subsection (d),
 
 &emsp;(2) shall be merged with the funds in such reserve, and
 
-&emsp;(3) shall be available for the purpose of payments by the administering agency to the Bank for guarantees under subsection (a) of this section.
+&emsp;(3) shall be available for the purpose of payments by the administering agency to the Bank for guarantees under subsection (a).
 
 #### (k) Restrictions not applicable
 
@@ -62,7 +62,7 @@ Prohibitions on the use of foreign assistance funds for assistance for Poland sh
 
 #### (l) Expiration of authority
 
-The President may not enter into any commitments to guarantee under subsection (a) of this section after September 30, 1992.
+The President may not enter into any commitments to guarantee under subsection (a) after September 30, 1992.
 
 #### (m) Definitions
 
@@ -82,7 +82,7 @@ The Export-Import Bank Act of 1945, referred to in subsec. (a)(2), is act July 3
 
 #### Codification
 
-Subsec. (h) of this section, which required the Administrator and the President of the Bank, every 6 months,to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of guarantees and insurance provided by the Bank and guaranteed under this section during the preceding 6-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
+Subsec. (h) of this section, which required the Administrator and the President of the Bank, every 6 months, to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of guarantees and insurance provided by the Bank and guaranteed under this section during the preceding 6-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
 
 #### Delegation of Functions
 

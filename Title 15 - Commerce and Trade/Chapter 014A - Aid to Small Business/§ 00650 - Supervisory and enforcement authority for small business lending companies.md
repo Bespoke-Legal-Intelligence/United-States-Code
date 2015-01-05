@@ -46,7 +46,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;(A) The Administrator, after finding extraordinary circumstances and in order to protect the financial or legal position of the United States, may issue a suspension order without conducting a hearing pursuant to subsection (f) of this section. If the Administrator issues a suspension under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f) of this section.
 
-&emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administratormakes a decision pursuant to subparagraph (4) to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
+&emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administrator makes a decision pursuant to subparagraph (4) to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
 
 (3) The small business lending company or non-Federally regulated lender must notify borrowers of a revocation and that a new entity has been appointed to service their loans. The Administrator or an employee of the Administration designated by the Administrator may provide such notice to the borrower.
 
@@ -96,7 +96,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (B) Contents of notice
 
-&emsp;&emsp;A notice under subparagraph (A) shall contain a statement of the facts constituting grounds therefor and shall fix a time andplace at which a hearing, conducted pursuant to sections 554, 556, and 557 of title 5, will be held thereon.
+&emsp;&emsp;A notice under subparagraph (A) shall contain a statement of the facts constituting grounds therefor and shall fix a time and place at which a hearing, conducted pursuant to sections 554, 556, and 557 of title 5, will be held thereon.
 
 #### (C) Hearing
 
@@ -164,7 +164,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (D) Authority upon dismissal or other disposition
 
-&emsp;&emsp;A finding of not guilty or other disposition of charges described in subparagraph (A) shall not preclude the Administrator frominstituting proceedings under subsection (e) or (f) of this section.
+&emsp;&emsp;A finding of not guilty or other disposition of charges described in subparagraph (A) shall not preclude the Administrator from instituting proceedings under subsection (e) or (f) of this section.
 
 #### (5) Notification to small business lending company or a non-Federally regulated lender
 
@@ -174,7 +174,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (A) Issuance of orders
 
-&emsp;&emsp;After a hearing under this subsection, and not later than 30 days after the Administrator notifies the parties that the case has been submitted for final decision, the Administrator shall render a decision in the matter (which shall include findings of fact upon which its decision is predicated), and shall issue and cause to be served upon each party to the proceeding an order or orders consistent with this section. The decision of the Administrator shall constitute final agency action for purposes of chapter 7 of title 5.
+&emsp;&emsp;After a hearing under this subsection, and not later than 30 days after the Administrator notifies the parties that the case has been submitted for final decision, the Administrator shall render a decision in the matter (which shall include findings of fact upon which its decision is predicated), and shall issue and cause to be served upon eachparty to the proceeding an order or orders consistent with this section. The decision of the Administrator shall constitute final agency action for purposes of chapter 7 of title 5.
 
 #### (B) Judicial review
 

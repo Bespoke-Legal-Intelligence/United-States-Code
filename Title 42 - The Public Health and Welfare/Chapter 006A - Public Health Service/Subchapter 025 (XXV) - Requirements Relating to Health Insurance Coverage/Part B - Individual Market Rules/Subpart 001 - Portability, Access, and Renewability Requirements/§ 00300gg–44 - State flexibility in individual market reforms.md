@@ -22,7 +22,7 @@
 
 #### (2) Permissible forms of mechanisms
 
-&emsp;A private or public individual health insurance mechanism (such as a health insurancecoverage pool or programs, mandatory group conversion policies, guaranteed issue of one or more plans of individual health insurance coverage, or open enrollment by one or more health insurance issuers), or combination of such mechanisms, that is designed to provide access to health benefits for individuals in the individual market in the State in accordance with this section may constitute an acceptable alternative mechanism.
+&emsp;A private or public individual health insurance mechanism (such as a health insurance coverage pool or programs, mandatory group conversion policies, guaranteed issue of one or more plans of individual health insurance coverage, or open enrollment by one or more health insurance issuers), or combination of such mechanisms, that is designed to provide access to health benefits for individuals in the individual market in the State in accordance with this section may constitute an acceptable alternative mechanism.
 
 #### (b) Application of acceptable alternative mechanisms
 

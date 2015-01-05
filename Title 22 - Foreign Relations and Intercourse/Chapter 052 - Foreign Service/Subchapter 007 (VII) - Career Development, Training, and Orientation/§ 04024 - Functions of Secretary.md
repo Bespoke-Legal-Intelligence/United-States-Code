@@ -36,7 +36,7 @@ The Secretary may provide to family members of members of the Service or of empl
 
 #### (d) Training and certification for employees performing consular functions
 
-(1) Before a United States citizen employee (other than a diplomatic or consular officer of the United States) may be designated by the Secretary of State, pursuant to regulation, to perform a consular function abroad, the United States citizen employee shall—
+(1) Before a United States citizen employee (other than a diplomatic or consular officer ofthe United States) may be designated by the Secretary of State, pursuant to regulation, to perform a consular function abroad, the United States citizen employee shall—
 
 &emsp;(A) be required to complete successfully a program of training essentially equivalent to the training that a consular officer who is a member of the Foreign Service would receive for purposes of performing such function; and
 

@@ -82,7 +82,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) with respect to which a person described in subparagraph (A)(iii) advises as to which individuals receive grants for travel, study, or other similar purposes, if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person's advisory privileges are performed exclusively by such person in the person's capacity as a member ofa committee all of the members of which are appointed by the sponsoring organization,
+&emsp;&emsp;&emsp;&emsp;(I) such person's advisory privileges are performed exclusively by such person in the person's capacity as a member of a committee all of the members of which are appointed by the sponsoring organization,
 
 &emsp;&emsp;&emsp;&emsp;(II) no combination of persons described in subparagraph (A)(iii) (or persons related to such persons) control, directly or indirectly, such committee, and
 

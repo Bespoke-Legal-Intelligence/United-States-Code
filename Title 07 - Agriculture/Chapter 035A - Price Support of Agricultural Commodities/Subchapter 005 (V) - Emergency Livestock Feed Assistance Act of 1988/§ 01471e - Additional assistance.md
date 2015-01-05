@@ -2,7 +2,7 @@
 
 #### (a) Determination by Secretary
 
-In addition to the assistance provided under section 1471d of this title, if the Secretary determines that the livestock emergency also requires the implementation of one or more of the assistance programs described in subsection (b) of this section, the Secretary shall implement such programs.
+In addition to the assistance provided under section 1471d of this title, if the Secretary determines that the livestock emergency also requires the implementation of one or more of the assistance programs described in subsection (b), the Secretary shall implement such programs.
 
 #### (b) Programs authorized
 
@@ -26,7 +26,7 @@ Special assistance under this section includes—
 
 #### (c) Water development projects for 1988 and 1989 emergencies
 
-The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) of this section for livestock emergencies in 1988 and 1989.
+The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) for livestock emergencies in 1988 and 1989.
 
 (Oct. 31, 1949, ch. 792, title VI, §607, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 930; amended Pub. L. 101–82, title I, §142, title II, §203, Aug. 14, 1989, 103 Stat. 579, 581.)
 
@@ -41,6 +41,10 @@ Subsec. (c). Pub. L. 101–82, §203, added subsec. (c).
 Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(12) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(12) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
 

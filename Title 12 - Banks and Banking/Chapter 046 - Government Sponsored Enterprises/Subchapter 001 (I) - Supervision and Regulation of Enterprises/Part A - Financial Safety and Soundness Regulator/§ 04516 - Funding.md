@@ -62,7 +62,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (1) Deposit
 
-&emsp;Amounts received by the Director from assessments under this section may be depositedby the Director in the manner provided in section 192 of this title for monies deposited by the Comptroller of the Currency.
+&emsp;Amounts received by the Director from assessments under this section may be deposited by the Director in the manner provided in section 192 of this title for monies deposited by the Comptroller of the Currency.
 
 #### (2) Not Government funds
 
@@ -126,7 +126,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (1) In general
 
-&emsp;The Comptroller General shall annually audit the financial transactions of the Agency in accordance with the United States generally accepted government auditing standards as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where accounts of the Agency are normally kept. The representatives of the Government Accountability Office shall have access to the personnel and to all books, accounts, documents, papers, records (including electronic records), reports, files, and all other papers, automated data, things, or property belonging to or under the control of or used or employed by the Agency pertaining to its financial transactions and necessary to facilitate the audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. All such books, accounts, documents, records, reports, files, papers, and property of the Agency shall remain in possession and custody of the Agency. The Comptroller General may obtain and duplicate any such books, accounts, documents, records, working papers, automated data and files, or other information relevant to such audit without cost to the Comptroller General and the Comptroller General's right of access to suchinformation shall be enforceable pursuant to section 716(c) of title 31.
+&emsp;The Comptroller General shall annually audit the financial transactions of the Agency in accordance with the United States generally accepted government auditing standards as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where accounts of the Agency are normally kept. The representatives of the Government Accountability Office shall have access to the personnel and to all books, accounts, documents, papers, records (including electronic records), reports, files, and all other papers, automated data, things, or property belonging to or under the control of or used or employed by the Agency pertaining to its financial transactions and necessary to facilitate the audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. All such books, accounts, documents, records, reports, files, papers, and property of the Agency shall remain in possession and custody of the Agency. The Comptroller General may obtain and duplicate any such books, accounts, documents, records, working papers, automated data and files, or other information relevant to such audit without cost to the Comptroller General and the Comptroller General's right of access to such information shall be enforceable pursuant to section 716(c) of title 31.
 
 #### (2) Report
 
@@ -150,7 +150,7 @@ Section 1438(b) of this title, referred to in subsec. (f)(5), was repealed by Pu
 
 #### Codification
 
-In subsec. (h)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (h)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the UnitedStates (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

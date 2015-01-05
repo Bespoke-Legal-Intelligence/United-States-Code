@@ -64,7 +64,7 @@ Development of secure processes.—In establishing the clearinghouse, the Secret
 
 Employer alert of positive test result.—In establishing the clearinghouse, the Secretary shall develop a secure method for electronically notifying an employer of each additional positive test result or other noncompliance—
 
-&emsp;&emsp;(A) for an employee, that is entered into the clearinghouse during the 7-day periodimmediately following an employer's inquiry about the employee; and
+&emsp;&emsp;(A) for an employee, that is entered into the clearinghouse during the 7-day period immediately following an employer's inquiry about the employee; and
 
 &emsp;&emsp;(B) for an employee who is listed as having multiple employers.
 
@@ -178,7 +178,7 @@ Reporting of Records.—
 
 &emsp;(1)
 
-In general.—Beginning 30 days after the date that the clearinghouse is establishedunder subsection (a), a medical review officer, employer, service agent, and other appropriate person, as determined by the Secretary, shall promptly submit to the Secretary any record generated after the clearinghouse is initiated of an individual who—
+In general.—Beginning 30 days after the date that the clearinghouse is established under subsection (a), a medical review officer, employer, service agent, and other appropriate person, as determined by the Secretary, shall promptly submit to the Secretary any record generated after the clearinghouse is initiated of an individual who—
 
 &emsp;&emsp;(A) refuses to take an alcohol or controlled substances test required under title 49, Code of Federal Regulations;
 
@@ -282,7 +282,7 @@ Protection of privacy of individuals.—A chief commercial driver's licensing of
 
 (i)
 
-National Transportation Safety Board.—The Secretary shall establish a processfor the National Transportation Safety Board to request and receive an individual's record from the clearinghouse if the individual is involved in an accident that is under investigation by the National Transportation Safety Board.
+National Transportation Safety Board.—The Secretary shall establish a process for the National Transportation Safety Board to request and receive an individual's record from the clearinghouse if the individual is involved in an accident that is under investigation by the National Transportation Safety Board.
 
 (j)
 
@@ -404,7 +404,7 @@ Testing program.—The term "testing program" means the alcohol and controlled s
 
 The date of enactment of the Safe Roads Act of 2012, referred to in subsec. (a)(1), is the date of enactment of subtitle D of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
-Section 226 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (b)(1)(A), is section 226 of Pub. L. 106–159, which is set out as a note under section 31306 of this title.
+Section 226 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (b)(1)(A), is section 226of Pub. L. 106–159, which is set out as a note under section 31306 of this title.
 
 The Privacy Act of 1974, referred to in subsec. (d)(1), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
 

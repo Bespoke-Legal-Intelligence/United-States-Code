@@ -2,7 +2,7 @@
 
 #### (a) Filing of petition; receipt of petition; initiation of investigation
 
-A petition for a certification of eligibility to apply for adjustment assistance under this part may be filed with the Secretary of Commerce (hereinafter in this part referred to as the "Secretary") by a firm (including any agricultural firm or service sector firm) or its representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
+A petition for a certification of eligibility to apply for adjustment assistance under this partmay be filed with the Secretary of Commerce (hereinafter in this part referred to as the "Secretary") by a firm (including any agricultural firm or service sector firm) or its representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
 
 #### (b) Public hearing
 
@@ -120,7 +120,7 @@ Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provid
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see section 285 of Pub. L. 93–618 and section 541(b) of Pub. L. 113–235, set out as notes preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "data".</i>
 

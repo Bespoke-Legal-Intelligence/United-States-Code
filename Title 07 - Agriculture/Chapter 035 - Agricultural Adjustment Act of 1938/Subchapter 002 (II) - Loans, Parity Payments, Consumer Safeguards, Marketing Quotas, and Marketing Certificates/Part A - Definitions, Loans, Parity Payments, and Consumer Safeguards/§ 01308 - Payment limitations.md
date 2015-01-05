@@ -28,67 +28,23 @@ In this section through section 1308–5 of this title:
 
 &emsp;The term "Secretary" means the Secretary of Agriculture.
 
-#### (b) Limitation on direct payments, counter-cyclical payments, and ACRE payments for covered commodities (other than peanuts)
+#### (b) Limitation on payments for covered commodities (other than peanuts)
 
-#### (1) Direct payments
+The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 \[7 U.S.C. 9016, 9017\] and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014 \[7 U.S.C. 9031 et seq.\] (other than for peanuts) may not exceed $125,000.
 
-&emsp;The total amount of direct payments received, directly or indirectly, by a person or legal entity (except a joint venture or a general partnership) for any crop year under subtitle A of title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8711 et seq.\] for 1 or more covered commodities (except for peanuts) may not exceed—
+#### (c) Limitation on payments for peanuts
 
-&emsp;&emsp;(A) in the case of a person or legal entity that does not participate in the average crop revenue election program under section 1105 of that Act \[7 U.S.C. 8715\], $40,000; or
-
-&emsp;&emsp;(B) in the case of a person or legal entity that participates in the average crop revenue election program under section 1105 of that Act, an amount equal to—
-
-&emsp;&emsp;&emsp;(i) the payment limit specified in subparagraph (A); less
-
-&emsp;&emsp;&emsp;(ii) the amount of the reduction in direct payments under section 1105(a)(1) of that Act.
-
-#### (2) Counter-cyclical payments
-
-&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that does not participate in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year under subtitle A of title I of that Act \[7 U.S.C. 8711 et seq.\] for 1 or more covered commodities (except for peanuts) may not exceed $65,000.
-
-#### (3) ACRE and counter-cyclical payments
-
-&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments and counter-cyclical payments received, directly or indirectly, by the personor legal entity for any crop year for 1 or more covered commodities (except for peanuts) may not exceed the sum of—
-
-&emsp;&emsp;(A) $65,000; and
-
-&emsp;&emsp;(B) the amount by which the direct payment limitation is reduced under paragraph (1)(B).
-
-#### (c) Limitation on direct payments, counter-cyclical payments, and ACRE payments for peanuts
-
-#### (1) Direct payments
-
-&emsp;The total amount of direct payments received, directly or indirectly, by a person or legal entity (except a joint venture or a general partnership) for any crop year under subtitle C of title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8751 et seq.\] for peanuts may not exceed—
-
-&emsp;&emsp;(A) in the case of a person or legal entity that does not participate in the average crop revenue election program under section 1105 of that Act \[7 U.S.C. 8715\], $40,000; or
-
-&emsp;&emsp;(B) in the case of a person or legal entity that participates in the average crop revenue election program under section 1105 of that Act, an amount equal to—
-
-&emsp;&emsp;&emsp;(i) the payment limit specified in subparagraph (A); less
-
-&emsp;&emsp;&emsp;(ii) the amount of the reduction in direct payments under section 1105(a)(1) of that Act.
-
-#### (2) Counter-cyclical payments
-
-&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that does not participate in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year under subtitle C of title I of that Act \[7 U.S.C. 8751 et seq.\] for peanuts may not exceed $65,000.
-
-#### (3) ACRE and counter-cyclical payments
-
-&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments received, directly or indirectly, by the person or legal entity for any crop year for peanuts may not exceed the sum of—
-
-&emsp;&emsp;(A) $65,000; and
-
-&emsp;&emsp;(B) the amount by which the direct payment limitation is reduced under paragraph (1)(B).
+The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 \[7 U.S.C. 9016, 9017\] and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014 \[7 U.S.C. 9031 et seq.\] for peanuts may not exceed $125,000.
 
 #### (d) Limitation on applicability
 
-Nothing in this section authorizes any limitation on any benefit associated with the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\].
+Nothing in this section authorizes any limitation on any benefit associated with the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014 \[7 U.S.C. 9031 et seq.\] or title I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\].
 
 #### (e) Attribution of payments
 
 #### (1) In general
 
-&emsp;In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of section 1308–3a(b) of this title, the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
+&emsp;In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of section 1308–3a(b) <sup>1</sup> of this title, the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
 
 #### (2) Payments to a person
 
@@ -128,7 +84,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part)by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
+&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part) by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
 
 #### (ii) Ownership by a person
 
@@ -150,7 +106,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), payments received by a child under the age of 18 shall be attributed to the parents of the child.
+&emsp;&emsp;Except as provided in subparagraph (B), payments received by a child under the ageof 18 shall be attributed to the parents of the child.
 
 #### (B) Regulations
 
@@ -208,7 +164,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (d), a Federal agency shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\] or title XII of this Act \[16 U.S.C. 3801 et seq.\].
+&emsp;&emsp;Notwithstanding subsection (d), a Federal agency shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], title I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\], or title XII of this Act \[16 U.S.C. 3801 et seq.\].
 
 #### (B) Land rental
 
@@ -218,7 +174,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (d), except as provided in subsection (g), a State or local government, or political subdivision or agency of the government, shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\] or title XII of this Act \[16 U.S.C. 3801 et seq.\].
+&emsp;&emsp;Notwithstanding subsection (d), except as provided in subsection (g), a State or local government, or political subdivision or agency of the government, shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], title I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\], or title XII of this Act \[16 U.S.C. 3801 et seq.\].
 
 #### (B) Tenants
 
@@ -264,13 +220,17 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730.)
+(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708.)
 
 #### References in Text
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(1), (2), (c)(1), (2), (d), and (f)(5)(A), (6)(A), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. Subtitles A and C of title I of the Act are classified generally to subchapters I (§8711 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsecs. (b) to (d) and (f)(5)(A), (6)(A), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. Subtitle B of title I of the Act is classified generally to subchapter II (§9031 et seq.) of chapter 115 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
-Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, popularly known as the Sodbuster Law, which is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation.
+Pars. (1) and (2) of section 1308–3a(b) of this title, referred to in subsec. (e)(1), were repealed, and new pars. (1) and (2) were enacted, by Pub. L. 113–79, title I, §1605(a)(2), Feb. 7, 2014, 128 Stat. 707.
+
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(5)(A), (6)(A), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+
+Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation.
 
 #### Codification
 
@@ -288,11 +248,21 @@ Another prior section 1308, Pub. L. 95–113, title I, §101, Sept. 29, 1977, 91
 
 #### Amendments
 
+<b>2014</b>—Subsecs. (b), (c). Pub. L. 113–79, §1603(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c). Prior to amendment, subsec. (b) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for covered commodities other than peanuts, and subsec. (c) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for peanuts.
+
+Subsec. (d). Pub. L. 113–79, §1605(f), inserted before period at end "or title I of the Agricultural Act of 2014".
+
+Pub. L. 113–79, §1603(b)(1), substituted "the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014" for "the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008".
+
+Subsec. (f)(5)(A). Pub. L. 113–79, §1603(b)(2)(A), substituted ", title I of the Agricultural Act of 2014, or title XII" for "or title XII".
+
+Subsec. (f)(6)(A). Pub. L. 113–79, §1603(b)(2)(B), substituted ", title I of the Agricultural Act of 2014, or title XII" for "or title XII".
+
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §1603(b)(1)(A), inserted "through section 1308–5 of this title" after "this section" in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 110–246, §1603(a), substituted "Food, Conservation, and Energy Act of 2008" for "Farm Security and Rural Investment Act of 2002".
 
-Subsec. (a)(2). Pub. L. 110–246, §1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The term 'loan commodity' has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002, except that the term does not include wool, mohair, or honey."
+Subsec. (a)(2). Pub. L. 110–246, §1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The term 'loan commodity' has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of2002, except that the term does not include wool, mohair, or honey."
 
 Subsec. (a)(3) to (5). Pub. L. 110–246, §1603(b)(1)(B), (C), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
@@ -350,7 +320,7 @@ Pub. L. 100–203, §1301(a)(2)(B), which directed substitution of "Subject to s
 
 Pub. L. 100–71 designated existing provision as cl. (i) and added cl. (ii).
 
-Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence "Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of thisparagraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title" and struck out at end "Such regulations shall provide that the term 'person' does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers."
+Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence "Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title" and struck out at end "Such regulations shall provide that the term 'person' does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers."
 
 Par. (5)(B). Pub. L. 100–203, §1303(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -371,6 +341,10 @@ Par. (3). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), temporarily substi
 Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(2), temporarily inserted provision that the term "person" not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
 
 Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted "lands or animals owned" for "lands owned" and inserted "or animals are husbanded". See Effective and Termination Dates of 1986 Amendment note below.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–79, title I, §1603(c), Feb. 7, 2014, 128 Stat. 706, provided that: "The amendments made by this section \[amending this section and section 1308–3 of this title\] shall apply beginning with the 2014 crop year."
 
 #### Effective Date of 2008 Amendment
 
@@ -420,7 +394,7 @@ In general.—The Secretary of Agriculture shall implement a payment provisions 
 
 "(2)
 
-Training.—The education program shall provide training to such personnel in the fair, accurate, anduniform application to individual farming operations of the provisions of law and regulation relating to the payment provisions of sections 1001 through 1001C of the Food Security Act of 1985. Particular emphasis shall be given to the changes in the law made by sections 1301, 1302, and 1303 of this Act \[enacting section 1308–1 of this title, amending this section, and enacting provisions set out as notes under this section and section 1308–1 of this title\].
+Training.—The education program shall provide training to such personnel in the fair, accurate, and uniform application to individual farming operations of the provisions of law and regulation relating to the payment provisions of sections 1001 through 1001C of the Food Security Act of 1985. Particular emphasis shall be given to the changes in the law made by sections 1301, 1302, and 1303 of this Act \[enacting section 1308–1 of this title, amending this section, and enacting provisions set out as notes under this section and section 1308–1 of this title\].
 
 "(3)
 
@@ -456,7 +430,7 @@ Allowance for Equitable Reorganizations.—To allow for the equitable reorganiza
 
 #### Conservation Reserve Application
 
-Section 1305(d) of Pub. L. 100–203 provided that: "Notwithstanding section 1234(f)(2) of the Food Security Act of 1985 (16 U.S.C. 3834(f)), paragraphs (5) through (7) of section 1001 \[section 1308(5)–(7) of this title\], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 \[sections 1308–1 to 1308–3 of this title\] shall apply to the conservation reserve program under subtitle D of title XII of such Act (16 U.S.C. 3830 et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act \[Dec. 22, 1987\], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land."
+Pub. L. 100–203, title I, §1305(d), Dec. 22, 1987, 101 Stat. 1330–18, provided that: "Notwithstanding \[former\] section 1234(f)(2) of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3834(f)), paragraphs (5) through (7) of section 1001 \[section 1308(5)–(7) of this title\], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 \[sections 1308–1 to 1308–3 of this title\] shall apply to the conservation reserve program under subtitle D of title XII of such Act (16 U.S.C. 3830 et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act \[Dec. 22, 1987\], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land."
 
 #### Revision of Regulations
 
@@ -475,4 +449,6 @@ Pub. L. 99–500, §108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99�
 #### Separate Person Status Among Family Members
 
 Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, §101(a) \[title VI, §636\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §636\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: "Effective for each of the 1987 through 1990 crops, the Secretary may not deny a person status as a separate person solely on the ground that a family member cosigns for, or makes a loan to, such person and leases, loans, or gives such person equipment, land or labor, if such family members were organized as separate units prior to December 31, 1985."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -76,7 +76,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub.L. 105–330, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
 Pub. L. 105–330, title I, §109(a), Oct. 30, 1998, 112 Stat. 3069, provided that: "The provisions of section 8 of the Trademark Act of 1946 \[15 U.S.C. 1058\], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act \[probably should be "this title", see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\]."
 

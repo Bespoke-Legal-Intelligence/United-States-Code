@@ -14,7 +14,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 &emsp;(4) a description of the program operated by participating schools for children and youth returning from correctional facilities and, as appropriate, the types of services that such schools will provide such children and youth and other at-risk children and youth;
 
-&emsp;(5) a description of the characteristics (including learning difficulties, substance abuse problems, and other special needs) of the children and youth who will be returning from correctional facilities and, as appropriate, other at-risk children and youth expected to be served by the program, and a description of how the school will coordinate existing educational programs to meet the unique educational needs of such children and youth;
+&emsp;(5) a description of the characteristics (including learning difficulties, substance abuseproblems, and other special needs) of the children and youth who will be returning from correctional facilities and, as appropriate, other at-risk children and youth expected to be served by the program, and a description of how the school will coordinate existing educational programs to meet the unique educational needs of such children and youth;
 
 &emsp;(6) as appropriate, a description of how schools will coordinate with existing social, health, and other services to meet the needs of students returning from correctional facilities, at-risk children or youth, and other participating children or youth, including prenatal health care and nutrition services related to the health of the parent and the child or youth, parenting and child development classes, child care, targeted reentry and outreach programs, referrals to community resources, and scheduling flexibility;
 
@@ -32,7 +32,11 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 &emsp;(13) as appropriate, a description of the steps participating schools will take to find alternative placements for children and youth interested in continuing their education but unable to participate in a regular public school program.
 
-(Pub. L. 89–10, title I, §1423, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1588.)
+(Pub. L. 89–10, title I, §1423, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1588; amended Pub. L. 113–128, title V, §512(i)(3), July 22, 2014, 128 Stat. 1708.)
+
+#### Amendment of Paragraph (9)
+
+<i>Pub. L. 113–128, title V, §§506, 512(i)(3), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220" and inserting "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -43,4 +47,12 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par.
 #### Prior Provisions
 
 A prior section 6453, Pub. L. 89–10, title I, §1423, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3598; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(C), (f)(13)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to local educational agency applications, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+<b>2014</b>—Par. (9). Pub. L. 113–128 substituted "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act" for "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

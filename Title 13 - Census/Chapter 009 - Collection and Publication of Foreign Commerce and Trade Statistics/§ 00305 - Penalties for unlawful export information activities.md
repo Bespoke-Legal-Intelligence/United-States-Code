@@ -32,7 +32,7 @@ Civil Penalty Procedure.—
 
 &emsp;(1)
 
-In general.—Whenever a civil penalty is sought for a violation of this section or of section 304, the charged party is entitled to receive a formal complaint specifying the charges and, at his or her request, to contest the charges in a hearing before an administrative law judge. Any such hearing shall be conducted in accordance with sections 556 and 557 of title 5, United States Code.
+In general.—Whenever a civil penalty is sought for a violation of this section or of section 304, the charged party is entitled to receive a formal complaint specifying thecharges and, at his or her request, to contest the charges in a hearing before an administrative law judge. Any such hearing shall be conducted in accordance with sections 556 and 557 of title 5, United States Code.
 
 &emsp;(2)
 

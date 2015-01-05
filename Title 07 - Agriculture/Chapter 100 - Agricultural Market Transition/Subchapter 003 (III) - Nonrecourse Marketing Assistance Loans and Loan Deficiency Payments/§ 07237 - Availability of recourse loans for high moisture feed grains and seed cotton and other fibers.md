@@ -56,7 +56,7 @@
 
 #### (4) Waiver of interest
 
-&emsp;Notwithstanding subsection (d) of this section, the Secretary shall not charge interest on a loan made under paragraph (1).
+&emsp;Notwithstanding subsection (d), the Secretary shall not charge interest on a loan made under paragraph (1).
 
 #### (d) Repayment rates
 

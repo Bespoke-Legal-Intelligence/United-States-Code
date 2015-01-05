@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to the taxpayer under paragraph (1) for any taxable year shall not exceed $2,000.
+&emsp;&emsp;If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to thetaxpayer under paragraph (1) for any taxable year shall not exceed $2,000.
 
 #### (B) Special rule where 2 or more persons hold interests in residence
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) paragraph (1) of section 143(d) shall be applied by substituting "100 percent" for "95 percent or more".
 
-> &emsp;&emsp;Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary for administering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
+> &emsp;&emsp;Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary foradministering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
 
 #### (d) Determination of certificate credit rate
 
@@ -250,7 +250,7 @@ For purposes of this section—
 
 #### (ii) Credit amount
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "credit amount" means the sum of theproducts determined under clauses (i) and (ii) of subsection (d)(2)(A).
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "credit amount" means the sum of the products determined under clauses (i) and (ii) of subsection (d)(2)(A).
 
 #### (3) Special rule for States having constitutional home rule cities
 
@@ -372,7 +372,7 @@ Subsec. (c)(2)(A)(iii)(V). Pub. L. 99–514, §1862(a), substituted "subsection 
 
 Subsec. (c)(2)(B). Pub. L. 99–514, §1301(f)(2)(C)(i), substituted in heading and introductory provisions "section 143" for "section 103A".
 
-Pub. L. 99–514, §1301(f)(2)(F), inserted in introductory provisions reference to subcl. (V), added cl. (iii) and closing provisions, and struck out former cl. (iii) and closing provisions which read as follows:
+Pub. L. 99–514, §1301(f)(2)(F), inserted in introductory provisions reference to subcl. (V), added cl. (iii) andclosing provisions, and struck out former cl. (iii) and closing provisions which read as follows:
 
 &emsp;"(iii) paragraph (1) of section 103A(e) shall be applied by substituting '100 percent' for '90 percent or more'.
 
@@ -454,7 +454,7 @@ Amendment by section 618(b)(2)(B) of Pub. L. 107–16 applicable to taxable year
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -504,5 +504,5 @@ Elections.—The amendments made by this section shall apply to elections under 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

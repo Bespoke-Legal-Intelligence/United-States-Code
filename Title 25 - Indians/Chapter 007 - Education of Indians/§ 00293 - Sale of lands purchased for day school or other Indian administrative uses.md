@@ -10,5 +10,5 @@ In text, "chapters 1 to 11 of title 40 and division C (except sections 3302, 330
 
 #### Amendments
 
-<b>1951</b>—Act Oct. 31, 1951, inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, at beginning of section; struck out "net" before "proceeds" in clauseimmediately following first semicolon; and, in proviso, substituted "the net proceeds" for "such proceeds".
+<b>1951</b>—Act Oct. 31, 1951, inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, at beginning of section; struck out "net" before "proceeds" in clause immediately following first semicolon; and, in proviso, substituted "the net proceeds" for "such proceeds".
 

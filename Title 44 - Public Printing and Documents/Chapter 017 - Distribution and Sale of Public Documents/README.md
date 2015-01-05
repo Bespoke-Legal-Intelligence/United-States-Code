@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1701\.](%C2%A7%2001701%20-%20Publications%20for%20public%20distribution%20to%20be%20distributed%20by%20the%20Public%20Printer%3B%20mailing%20lists.md) | Publications for public distribution to be distributed by the Public Printer; mailing lists. |
+| [1701\.](%C2%A7%2001701%20-%20Publications%20for%20public%20distribution%20to%20be%20distributed%20by%20the%20Director%20of%20the%20Government%20Publishing%20Office%3B%20mailing%20lists.md) | Publications for public distribution to be distributed by the Director of the Government Publishing Office; mailing lists. |
 | [1702\.](%C2%A7%2001702%20-%20Superintendent%20of%20Documents%3B%20sale%20of%20documents.md) | Superintendent of Documents; sale of documents. |
 | [1703\.](%C2%A7%2001703%20-%20Superintendent%20of%20Documents%20assistants%2C%20blanks%2C%20printing%20and%20binding.md) | Superintendent of Documents: assistants, blanks, printing and binding. |
 | [1704\.](%C2%A7%2001704%20-%20Superintendent%20of%20Documents%20pay%20of%20employees%20for%20night%2C%20Sunday%2C%20holiday%2C%20and%20overtime%20work.md) | Superintendent of Documents: pay of employees for night, Sunday, holiday, and overtime work. |
@@ -13,7 +13,7 @@
 | [1709\.](%C2%A7%2001709%20-%20Blank%20forms%20printing%20and%20sale%20to%20public.md) | Blank forms: printing and sale to public. |
 | [1710\.](%C2%A7%2001710%20-%20Index%20of%20documents%20number%20and%20distribution.md) | Index of documents: number and distribution. |
 | [1711\.](%C2%A7%2001711%20-%20Catalog%20of%20Government%20publications.md) | Catalog of Government publications. |
-| [1712\.](%C2%A7%2001712%20-%20Documents%20for%20use%20of%20the%20Public%20Printer.md) | Documents for use of the Public Printer. |
+| [1712\.](%C2%A7%2001712%20-%20Documents%20for%20use%20of%20the%20Director%20of%20the%20Government%20Publishing%20Office.md) | Documents for use of the Director of the Government Publishing Office. |
 | [1713\.](%C2%A7%2001713%20-%20Documents%20to%20be%20delivered%20to%20the%20Executive%20Mansion.md) | Documents to be delivered to the Executive Mansion. |
 | [1714\.](%C2%A7%2001714%20-%20Publications%20for%20use%20of%20National%20Archives%20and%20Records%20Administration.md) | Publications for use of General Services Administration.<sup>1</sup> |
 
@@ -32,6 +32,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in items 1701 and 1712.
+
 #### Federal Records Management Provisions Without Effect on Chapter
 
 Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
@@ -43,7 +47,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01701 - Publications for public distribution to be distributed by the Public Printer; mailing lists](%C2%A7%2001701%20-%20Publications%20for%20public%20distribution%20to%20be%20distributed%20by%20the%20Public%20Printer%3B%20mailing%20lists.md)
+- [&sect; 01701 - Publications for public distribution to be distributed by the Director of the Government Publishing Office; mailing lists](%C2%A7%2001701%20-%20Publications%20for%20public%20distribution%20to%20be%20distributed%20by%20the%20Director%20of%20the%20Government%20Publishing%20Office%3B%20mailing%20lists.md)
 - [&sect; 01702 - Superintendent of Documents; sale of documents](%C2%A7%2001702%20-%20Superintendent%20of%20Documents%3B%20sale%20of%20documents.md)
 - [&sect; 01703 - Superintendent of Documents assistants, blanks, printing and binding](%C2%A7%2001703%20-%20Superintendent%20of%20Documents%20assistants%2C%20blanks%2C%20printing%20and%20binding.md)
 - [&sect; 01704 - Superintendent of Documents pay of employees for night, Sunday, holiday, and overtime work](%C2%A7%2001704%20-%20Superintendent%20of%20Documents%20pay%20of%20employees%20for%20night%2C%20Sunday%2C%20holiday%2C%20and%20overtime%20work.md)
@@ -54,7 +58,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 01709 - Blank forms printing and sale to public](%C2%A7%2001709%20-%20Blank%20forms%20printing%20and%20sale%20to%20public.md)
 - [&sect; 01710 - Index of documents number and distribution](%C2%A7%2001710%20-%20Index%20of%20documents%20number%20and%20distribution.md)
 - [&sect; 01711 - Catalog of Government publications](%C2%A7%2001711%20-%20Catalog%20of%20Government%20publications.md)
-- [&sect; 01712 - Documents for use of the Public Printer](%C2%A7%2001712%20-%20Documents%20for%20use%20of%20the%20Public%20Printer.md)
+- [&sect; 01712 - Documents for use of the Director of the Government Publishing Office](%C2%A7%2001712%20-%20Documents%20for%20use%20of%20the%20Director%20of%20the%20Government%20Publishing%20Office.md)
 - [&sect; 01713 - Documents to be delivered to the Executive Mansion](%C2%A7%2001713%20-%20Documents%20to%20be%20delivered%20to%20the%20Executive%20Mansion.md)
 - [&sect; 01714 - Publications for use of National Archives and Records Administration](%C2%A7%2001714%20-%20Publications%20for%20use%20of%20National%20Archives%20and%20Records%20Administration.md)
 - [&sect; 01715 - Publications for department or officer or for congressional committees](%C2%A7%2001715%20-%20Publications%20for%20department%20or%20officer%20or%20for%20congressional%20committees.md)

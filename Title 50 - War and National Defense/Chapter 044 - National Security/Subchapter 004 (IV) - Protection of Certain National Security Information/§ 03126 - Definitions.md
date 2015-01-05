@@ -2,7 +2,7 @@
 
 For the purposes of this subchapter:
 
-&emsp;(1) The term "classified information" means information or material designated and clearly marked or clearly represented, pursuant tothe provisions of a statute or Executive order (or a regulation or order issued pursuant to a statute or Executive order), as requiring a specific degree of protection against unauthorized disclosure for reasons of national security.
+&emsp;(1) The term "classified information" means information or material designated and clearly marked or clearly represented, pursuant to the provisions of a statute or Executive order (or a regulation or order issued pursuant to a statute or Executive order), as requiring a specific degree of protection against unauthorized disclosure for reasons of national security.
 
 &emsp;(2) The term "authorized", when used with respect to access to classified information, means having authority, right, or permission pursuant to the provisions of a statute, Executive order, directive of the head of any department or agency engaged in foreign intelligence or counterintelligence activities, order of any United States court, or provisions of any Rule of the House of Representatives or resolution of the Senate which assigns responsibility within the respective House of Congress for the oversight of intelligence activities.
 
@@ -36,7 +36,7 @@ For the purposes of this subchapter:
 
 &emsp;(10) The term "pattern of activities" requires a series of acts with a common purpose or objective.
 
-(July 26, 1947, ch. 343, title VI, §605, formerly §606, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123; amended Pub. L. 106–120, title III, §304(a), Dec. 3, 1999, 113 Stat. 1611; renumbered §605 and amended Pub. L. 112–277, title III, §310(a)(4)(B), title V, §506, Jan. 14, 2013, 126 Stat. 2475, 2478.)
+(July 26, 1947, ch. 343, title VI, §605, formerly §606, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123; amended Pub. L. 106–120, title III, §304(a), Dec. 3, 1999, 113 Stat. 1611; renumbered §605 and amended Pub. L. 112–277, title III, §310(a)(4)(B), title V, §506, Jan. 14, 2013, 126 Stat. 2475, 2478; Pub. L. 113–126, title VII, §703(a), July 7, 2014, 128 Stat. 1422.)
 
 #### Codification
 
@@ -48,9 +48,15 @@ A prior section 605 of act July 26, 1947, was renumbered section 604 and is clas
 
 #### Amendments
 
-<b>2013</b>—Par. (5). Pub. L. 112–277, §506, which directed amendment of section 606 of the National Security Act of 1947 by amending par. (5) generally, was executed to this section, which is section 605 of that act, to reflect the probable intent of Congress and the renumbering of section 606 as 605 by Pub. L. 112–277, §310(a)(4)(B). Prior to amendment, par. (5) read as follows: "The term 'intelligence agency' means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation."
+<b>2014</b>—Pub. L. 113–126, §703(a), made technical amendments to directory language of Pub. L. 112–277, §506. See 2013 Amendment note below.
+
+<b>2013</b>—Par. (5). Pub. L. 112–277, §506, as amended by Pub. L. 113–126, §703(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'intelligence agency' means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation."
 
 <b>1999</b>—Par. (4)(A). Pub. L. 106–120 substituted "a present or retired officer or employee" for "an officer or employee" and "a present or retired member" for "a member".
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–126, title VII, §703(b), July 7, 2014, 128 Stat. 1423, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Intelligence Authorization Act for Fiscal Year 2013 (Public Law 112–277)."
 
 #### Transfer of Functions
 

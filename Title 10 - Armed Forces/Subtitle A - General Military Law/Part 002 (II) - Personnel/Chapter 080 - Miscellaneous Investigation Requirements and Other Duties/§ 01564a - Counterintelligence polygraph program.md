@@ -102,7 +102,7 @@ Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 100–180, title XI, §1121, Dec. 4, 1987, 101Stat. 1147, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 108–136, div. A, title X, §1041(b), Nov. 24, 2003, 117 Stat. 1608.
+Provisions similar to those in this section were contained in Pub. L. 100–180, title XI, §1121, Dec. 4, 1987, 101 Stat. 1147, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 108–136, div. A, title X, §1041(b), Nov. 24, 2003, 117 Stat. 1608.
 
 #### Amendments
 

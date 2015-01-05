@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—It is the policy of the United States for the President to undertake actionsappropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
+Policy.—It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
 
 (b)
 
@@ -31,4 +31,48 @@ A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982,
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
+#### Rocket Propulsion System Development Program
+
+Pub. L. 113–291, div. A, title XVI, §1604, Dec. 19, 2014, 128 Stat. 3623, provided that:
+
+"(a)
+
+Development.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall develop a next-generation rocket propulsion system that enables the effective, efficient, and expedient transition from the use of non-allied space launch engines to a domestic alternative for national security space launches.
+
+&emsp;"(2)
+
+Requirements.—The system developed under paragraph (1) shall—
+
+&emsp;&emsp;"(A) be made in the United States;
+
+&emsp;&emsp;"(B) meet the requirements of the national security space community;
+
+&emsp;&emsp;"(C) be developed by not later than 2019;
+
+&emsp;&emsp;"(D) be developed using full and open competition; and
+
+&emsp;&emsp;"(E) be available for purchase by all space launch providers of the United States.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the appropriate congressional committees a report that includes—
+
+&emsp;"(1) a plan to carry out the development of the rocket propulsion system under subsection (a), including an analysis of the benefits of using public-private partnerships;
+
+&emsp;"(2) the requirements of the program to develop such system; and
+
+&emsp;"(3) the estimated cost of such system.
+
+"(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the following:
+
+&emsp;"(1) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+&emsp;"(2) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate."
 

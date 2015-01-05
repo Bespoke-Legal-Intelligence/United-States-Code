@@ -108,7 +108,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (C) Duties
 
-&emsp;&emsp;The working group under subparagraph (A) shall conduct an evaluation of research conducted by, and the technological developments of, agencies and departments who are represented on the working group that may have applicability to mine safety and accident response and make recommendations to the Director for the further development and eventual implementation of such technology.
+&emsp;&emsp;The working group under subparagraph (A) shall conduct an evaluation of research conducted by, and the technological developments of, agencies and departments who are represented on the working group that may have applicability to mine safety and accident response and make recommendations to the Director for the further development andeventual implementation of such technology.
 
 #### (6) Annual report
 

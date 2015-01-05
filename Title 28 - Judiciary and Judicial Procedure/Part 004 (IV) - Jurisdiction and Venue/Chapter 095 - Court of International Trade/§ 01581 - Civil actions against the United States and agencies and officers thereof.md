@@ -10,7 +10,7 @@
 
 &emsp;(1) any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 with respect to the eligibility of workers for adjustment assistance under such Act;
 
-&emsp;(2) any final determination of the Secretary of Commerce under section 251 of the TradeAct of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
+&emsp;(2) any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
 
 &emsp;(3) any final determination of the Secretary of Commerce under section 273 <sup>1</sup> of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act; and
 
@@ -68,7 +68,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 
 Section 516A of the Tariff Act of 1930, referred to in subsecs. (c) and (i), is classified to section 1516a of Title 19, Customs Duties.
 
-The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of Title 19,Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to section 2371b of Title 19, was repealed by Pub. L. 112–40, title II, §222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to section 2371b of Title 19, was repealed by Pub. L. 112–40, title II, §222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19, Customs Duties.
 

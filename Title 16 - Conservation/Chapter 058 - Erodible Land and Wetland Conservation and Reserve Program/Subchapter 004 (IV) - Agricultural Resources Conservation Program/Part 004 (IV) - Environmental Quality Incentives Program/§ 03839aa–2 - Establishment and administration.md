@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-During each of the 2002 through 2014 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.
+During each of the 2002 through 2018 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.
 
 #### (b) Practices and term
 
@@ -12,11 +12,7 @@ During each of the 2002 through 2014 fiscal years, the Secretary shall provide p
 
 #### (2) Term
 
-&emsp;A contract under the program shall have a term that—
-
-&emsp;&emsp;(A) at a minimum, is equal to the period beginning on the date on which the contract is entered into and ending on the date that is one year after the date on which all practices under the contract have been implemented; but
-
-&emsp;&emsp;(B) not to exceed 10 years.
+&emsp;A contract under the program shall have a term that does not exceed 10 years.
 
 #### (c) Bidding down
 
@@ -46,25 +42,25 @@ If the Secretary determines that the environmental values of two or more applica
 
 &emsp;In determining the amount and rate of payments under paragraph (2)(B), the Secretary may accord great significance to a practice that, as determined by the Secretary, promotes—
 
-&emsp;&emsp;(A) residue management;
+&emsp;&emsp;(A) soil health;
 
-&emsp;&emsp;(B) nutrient management;
+&emsp;&emsp;(B) water quality and quantity improvement;
 
-&emsp;&emsp;(C) air quality management;
+&emsp;&emsp;(C) nutrient management;
 
-&emsp;&emsp;(D) invasive species management;
+&emsp;&emsp;(D) pest management;
 
-&emsp;&emsp;(E) pollinator habitat;
+&emsp;&emsp;(E) air quality improvement;
 
-&emsp;&emsp;(F) animal carcass management technology; or
+&emsp;&emsp;(F) wildlife habitat development, including pollinator habitat; or
 
-&emsp;&emsp;(G) pest management.
+&emsp;&emsp;(G) invasive species management.
 
 #### (4) Increased payments for certain producers
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2), in the case of a producer that is a limited resource, socially disadvantaged farmer or rancher or a beginning farmer or rancher, the Secretary shall increase the amount that would otherwise be provided to a producer under this subsection—
+&emsp;&emsp;Notwithstanding paragraph (2), in the case of a producer that is a limited resource, socially disadvantaged farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) of title 7), or a beginning farmer or rancher, the Secretary shall increase the amount that would otherwise be provided to a producer under this subsection—
 
 &emsp;&emsp;&emsp;(i) to not more than 90 percent of the costs associated with planning, design, materials, equipment, installation, labor, management, maintenance, or training; and
 
@@ -72,7 +68,13 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (B) Advance payments
 
-&emsp;&emsp;Not more than 30 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not more than 50 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.
+
+#### (ii) Return of funds
+
+&emsp;&emsp;&emsp;If funds provided in advance are not expended during the 90-day period beginning on the date of receipt of the funds, the funds shall be returned within a reasonable timeframe, as determined by the Secretary.
 
 #### (5) Financial assistance from other sources
 
@@ -98,11 +100,35 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (f) Allocation of funding
 
-For each of fiscal years 2002 through 2012, 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production.
+#### (1) Livestock
 
-#### (g) Funding for federally recognized Native American Indian Tribes and Alaska Native Corporations
+&emsp;For each of fiscal years 2014 through 2018, at least 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production.
 
-The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any Tribal or Native Corporation member.
+#### (2) Wildlife habitat
+
+&emsp;For each of fiscal years 2014 through 2018, at least 5 percent of the funds made available forpayments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
+
+#### (g) Wildlife habitat incentive program
+
+#### (1) In general
+
+&emsp;The Secretary shall provide payments under the environmental quality incentives program for conservation practices that support the restoration, development, protection, and improvement of wildlife habitat on eligible land, including—
+
+&emsp;&emsp;(A) upland wildlife habitat;
+
+&emsp;&emsp;(B) wetland wildlife habitat;
+
+&emsp;&emsp;(C) habitat for threatened and endangered species;
+
+&emsp;&emsp;(D) fish habitat;
+
+&emsp;&emsp;(E) habitat on pivot corners and other irregular areas of a field; and
+
+&emsp;&emsp;(F) other types of wildlife habitat, as determined by the Secretary.
+
+#### (2) State technical committee
+
+&emsp;In determining the practices eligible for payment under paragraph (1) and targeted for funding under subsection (f), the Secretary shall consult with the relevant State technical committee not less often than once each year.
 
 #### (h) Water conservation or irrigation efficiency practice
 
@@ -152,7 +178,7 @@ The Secretary may enter into alternative funding arrangements with federally rec
 
 &emsp;&emsp;(B) is not in compliance with the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq).
 
-(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, §794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(a), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, §2503, May 22, 2008, 122 Stat. 1059; Pub. L. 110–246, §4(a), title II, §2503, June 18, 2008, 122 Stat. 1664, 1787; Pub. L. 112–55, div. A, title VII, §716(c), Nov. 18, 2011, 125 Stat. 582.)
+(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, §794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(a), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, §2503, May 22, 2008, 122 Stat. 1059; Pub. L. 110–246, §4(a), title II, §2503, June 18, 2008, 122 Stat. 1664, 1787; Pub. L. 112–55, div. A, title VII, §716(c), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(a), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §2203, Feb. 7, 2014, 128 Stat. 729.)
 
 #### References in Text
 
@@ -167,6 +193,40 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3839aa–2, Pub. L. 99–198, title XII, §1240B, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 998, related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79, §2203(1), which directed substitution of "2018" for "2014", was executed by making the substitution for "2015" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 113–76. See below.
+
+Pub. L. 113–76 substituted "2015" for "2014".
+
+Subsec. (b)(2). Pub. L. 113–79, §2203(2), added par. (2) and struck out former par. (2). Prior to amendment,text read as follows: "A contract under the program shall have a term that—
+
+&emsp;"(A) at a minimum, is equal to the period beginning on the date on which the contract is entered into and ending on the date that is one year after the date on which all practices under the contract have been implemented; but
+
+&emsp;"(B) not to exceed 10 years."
+
+Subsec. (d)(3)(A) to (G). Pub. L. 113–79, §2203(3)(A), added subpars. (A) to (G) and struck out former subpars. (A) to (G) which read as follows:
+
+&emsp;"(A) residue management;
+
+&emsp;"(B) nutrient management;
+
+&emsp;"(C) air quality management;
+
+&emsp;"(D) invasive species management;
+
+&emsp;"(E) pollinator habitat;
+
+&emsp;"(F) animal carcass management technology; or
+
+&emsp;"(G) pest management."
+
+Subsec. (d)(4)(A). Pub. L. 113–79, §2203(3)(B)(i), in introductory provisions, inserted ", a veteran farmer or rancher (as defined in section 2279(e) of title 7)," before "or a beginning farmer or rancher".
+
+Subsec. (d)(4)(B). Pub. L. 113–79, §2203(3)(B)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "Not more than 30 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting."
+
+Subsec. (f). Pub. L. 113–79, §2203(4), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "For each of fiscal years 2002 through 2012, 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production."
+
+Subsec. (g). Pub. L. 113–79, §2203(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any Tribal or Native Corporation member."
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–55 substituted "2014" for "2012".
 

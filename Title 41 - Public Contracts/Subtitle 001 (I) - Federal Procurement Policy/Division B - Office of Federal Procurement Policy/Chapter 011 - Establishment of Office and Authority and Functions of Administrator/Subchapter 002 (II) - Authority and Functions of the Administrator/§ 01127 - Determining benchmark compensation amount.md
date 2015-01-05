@@ -34,13 +34,13 @@ Senior executives.—The term "senior executives", with respect to a contractor,
 
 (b)
 
-Determining Benchmark Compensation Amount.—For purposes of section 4304(a)(16) of this title and section 2324(e)(1)(P) of title 10, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.
+Determining Benchmark Compensation Amount.—For purposes of section 4304(a)(16) of this title and section 2324(e)(1)(P) of title 10, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply foreach fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3689.)
 
 #### Repeal of Section
 
-<i>Pub. L. 113–67, div. A, title VII, §702(b)(1), (c), Dec. 26, 2013, 127 Stat. 1189, provided that,</i><i>applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.</i>
+<i>Pub. L. 113–67, div. A, title VII, §702(b)(1), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.</i>
 
 <i>Pub. L. 113–66, div. A, title VIII, §811(c)(1), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.</i>
 

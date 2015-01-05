@@ -8,7 +8,7 @@ Except as provided in subsection (b), the term "transfer date" means the date th
 
 #### (1) Notice required
 
-&emsp;The Secretary, in consultation with the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chairman of the Board of Governors, and the Chairperson of the Corporation, may extend the period under subsection (a) and designate a transfer date that is not later than 18 months after July 21, 2010, if the Secretary transmits to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
+&emsp;The Secretary, in consultation with the Comptroller of the Currency, the Director ofthe Office of Thrift Supervision, the Chairman of the Board of Governors, and the Chairperson of the Corporation, may extend the period under subsection (a) and designate a transfer date that is not later than 18 months after July 21, 2010, if the Secretary transmits to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
 
 &emsp;&emsp;(A) a written determination that commencement of the orderly process to implement this title <sup>1</sup> is not feasible by the date that is 1 year after July 21, 2010;
 

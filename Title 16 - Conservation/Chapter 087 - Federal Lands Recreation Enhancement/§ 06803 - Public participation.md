@@ -136,7 +136,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (A) Notice of meetings
 
-&emsp;&emsp;All meetings of a Recreation Resource Advisory Committee shall be announced at least one week in advance in a local newspaper of record and the Federal Register, and shall be open to the public.
+&emsp;&emsp;All meetings of a Recreation Resource Advisory Committee shall be announced atleast one week in advance in a local newspaper of record and the Federal Register, and shall be open to the public.
 
 #### (B) Records
 

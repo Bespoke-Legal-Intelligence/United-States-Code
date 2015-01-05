@@ -6,7 +6,7 @@ The Secretary may consider, ascertain, adjust, determine, compromise, or settle 
 
 #### Historical and Revision Notes
 
-This section closely parallels title 34, U.S.C., 1946 ed., §§600a, 600b, which authorize the Secretary of the Navy to negotiate amicable settlements of affirmative claims of the United States for damage to Government property. Experience gained by the Navy since enactment of title 34, U.S.C., 1946 ed., §§600a–600d, indicates that such amicable settlement reacts to the benefit of the Government in many cases. The provisions of this section would complement those of section 646 of this title and the two sections together would permit the Coast Guard to negotiate the settlement of claims arising out of Coast Guard floating operations, both for and against the United States. 81st Congress, House Report No. 557.
+This section closely parallels title 34, U.S.C., 1946 ed., §§600a, 600b, which authorize the Secretary of the Navy to negotiate amicable settlements of affirmative claims of the United States for damage to Government property. Experience gained by the Navy since enactment of title 34, U.S.C., 1946 ed., §§600a–600d, indicates that such amicable settlement reacts to the benefit of the Government in many cases. The provisions of this section would complement those of section 646 of this title and the two sections together would permit the Coast Guard to negotiate the settlement of claims arising out of Coast Guard floating operations, both for andagainst the United States. 81st Congress, House Report No. 557.
 
 #### Amendments
 

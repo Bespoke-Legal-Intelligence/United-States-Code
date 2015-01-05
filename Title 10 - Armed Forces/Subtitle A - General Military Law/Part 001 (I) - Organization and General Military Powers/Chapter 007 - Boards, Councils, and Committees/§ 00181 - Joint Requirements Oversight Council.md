@@ -78,7 +78,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "core mission area" means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b of this title.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610;Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891.)
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat.4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891.)
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Pub. L. 111–23, title II, §201(c), May 22, 2009, 123 Stat. 1720, provided tha
 
 #### Study Guidance for Analyses of Alternatives
 
-Pub. L. 111–23, title II, §201(d), May 22, 2009, 123 Stat. 1720, provided that: "The Director of Cost Assessment and Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum—
+Pub. L. 111–23, title II, §201(d), May 22, 2009, 123 Stat. 1720, provided that: "The Director of Cost Assessmentand Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum—
 
 &emsp;"(1) full consideration of possible trade-offs among cost, schedule, and performance objectives for each alternative considered; and
 

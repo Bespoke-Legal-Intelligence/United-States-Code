@@ -12,5 +12,5 @@ Provisions of subsec. (c) of section 112 of Pub. L. 97–51 that such subsec. (c
 
 #### Effective Date
 
-Section effective in the case of compensation payable for months after December 1981, see section 112(e) ofPub. L. 97–51, set out as an Effective Date of 1981 Amendment note under section 6301 of this title.
+Section effective in the case of compensation payable for months after December 1981, see section 112(e) of Pub. L. 97–51, set out as an Effective Date of 1981 Amendment note under section 6301 of this title.
 

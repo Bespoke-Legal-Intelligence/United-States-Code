@@ -10,17 +10,19 @@
 
 &emsp;For purposes of paragraph (1), a plan shall be treated as satisfying the minimum funding standard for a plan year if—
 
-&emsp;&emsp;(A) in the case of a defined benefit plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 1083 of this title for the plan for the plan year,
+&emsp;&emsp;(A) in the case of a defined benefit plan which is a single-employer plan (other than a CSEC plan), the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 1083 of this title for the plan for the plan year,
 
-&emsp;&emsp;(B) in the case of a money purchase plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan, and
+&emsp;&emsp;(B) in the case of a money purchase plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
 
-&emsp;&emsp;(C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 1084 of this title as of the end of the plan year.
+&emsp;&emsp;(C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 1084 of this title as of the end of the plan year, and
+
+&emsp;&emsp;(D) in the case of a CSEC plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 1085a of this title as of the end of the plan year.
 
 #### (b) Liability for contributions
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of section 1083(j) of this title) shall be paid by the employer responsible for making contributions to or under the plan.
+&emsp;Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of section 1083(j) of this title or under section 1085a(f) of this title) shall be paid by the employer responsible for making contributions to or under the plan.
 
 #### (2) Joint and several liability where employer member of controlled group
 
@@ -38,7 +40,7 @@
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan or a CSEC plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
 
 &emsp;&emsp;&emsp;(ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
@@ -48,9 +50,11 @@
 
 &emsp;&emsp;If a waiver is granted under subparagraph (A) for any plan year—
 
-&emsp;&emsp;&emsp;(i) in the case of a single-employer plan, the minimum required contribution under section 1083 of this title for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 1083(e) of this title, and
+&emsp;&emsp;&emsp;(i) in the case of a single-employer plan (other than a CSEC plan), the minimum required contribution under section 1083 of this title for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 1083(e) of this title,
 
-&emsp;&emsp;&emsp;(ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 1084(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1084(b)(2)(C) of this title.
+&emsp;&emsp;&emsp;(ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 1084(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1084(b)(2)(C) of this title, and
+
+&emsp;&emsp;&emsp;(iii) in the case of a CSEC plan, the funding standard account shall be credited under section 1085a(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1085a(b)(2)(C) of this title.
 
 #### (C) Waiver of amortized portion not allowed
 
@@ -78,7 +82,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 1301(a)(15) of this title) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1).
+&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 1301(a)(15) of this title) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 1085a(d) of this title.
 
 #### (ii) Special rules
 
@@ -86,11 +90,11 @@
 
 #### (B) Consultation with the Pension Benefit Guaranty Corporation
 
-&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury shall, before granting or modifying a waiver under this subsection with respect to a plan described in subparagraph (A)(i)—
+&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury shall, before granting or modifying a waiver under this subsection or an extension under 1085a(d) <sup>1</sup> of this title with respect to a plan described in subparagraph (A)(i)—
 
 &emsp;&emsp;&emsp;(i) provide the Pension Benefit Guaranty Corporation with—
 
-&emsp;&emsp;&emsp;&emsp;(I) notice of the completed application for any waiver or modification, and
+&emsp;&emsp;&emsp;&emsp;(I) notice of the completed application for any waiver, modification, or extension, and
 
 &emsp;&emsp;&emsp;&emsp;(II) an opportunity to comment on such application within 30 days after receipt of such notice, and
 
@@ -102,21 +106,23 @@
 
 > &emsp;&emsp;Information provided to the Corporation under this subparagraph shall be considered tax return information and subject to the safeguarding and reporting requirements of section 6103(p) of title 26.
 
-#### (C) Exception for certain waivers
+#### (C) Exception for certain waivers or extensions
 
 #### (i) In general
 
 &emsp;&emsp;&emsp;The preceding provisions of this paragraph shall not apply to any plan with respect to which the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate unpaid minimum required contributions for the plan year and all preceding plan years, and
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate unpaid minimum required contributions for the plan year and all preceding plan years, or the accumulated funding deficiency under section 1085a of this title, whichever is applicable,
 
-&emsp;&emsp;&emsp;&emsp;(II) the present value of all waiver amortization installments determined for the plan year and succeeding plan years under section 1083(e)(2) of this title,
+&emsp;&emsp;&emsp;&emsp;(II) the present value of all waiver amortization installments determined for the plan year and succeeding plan years under section 1083(e)(2) or 1085a(b)(2)(C) of this title, whichever is applicable, and
+
+&emsp;&emsp;&emsp;&emsp;(III) the total amounts not paid by reason of an extension in effect under section 1085a(d) of this title,
 
 &emsp;&emsp;&nbsp;is less than $1,000,000.
 
-#### (ii) Treatment of waivers for which applications are pending
+#### (ii) Treatment of waivers or extensions for which applications are pending
 
-&emsp;&emsp;&emsp;The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.
+&emsp;&emsp;&emsp;The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers or extensions with respect to the minimum funding standard under this subsection which are pending with respect to such plan were denied.
 
 #### (iii) Unpaid minimum required contribution
 
@@ -160,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title or section 1085a(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
 #### (B) Exception
 
@@ -192,23 +198,55 @@
 
 &emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
-> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, any extension of the amortization period under section 1084(d) of this title) is unavailable or inadequate.
+> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 1084(d) of this title or section 1085a(d) of this title) is unavailable or inadequate.
 
 #### (3) Controlled group
 
 &emsp;For purposes of this section, the term "controlled group" means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26.
 
-(Pub. L. 93–406, title I, §302, as added and amended Pub. L. 109–280, title I, §101(b), title II, §202(d), Aug. 17, 2006, 120 Stat. 784, 885; Pub. L. 110–458, title I, §§101(a)(1), 102(b)(1)(A), Dec. 23, 2008, 122 Stat. 5093, 5100.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 221(c) of Pub. L. 109–280, see Effective and Termination Dates of 2006 Amendment note below.</i>
+(Pub. L. 93–406, title I, §302, as added and amended Pub. L. 109–280, title I, §101(b), title II, §202(d), Aug. 17, 2006, 120 Stat. 784, 885; Pub. L. 110–458, title I, §§101(a)(1), 102(b)(1)(A), Dec. 23, 2008, 122 Stat. 5093, 5100; Pub. L. 113–97, title I, §102(b)(1), (2), Apr. 7, 2014, 128 Stat. 1115.)
 
 #### Prior Provisions
 
-A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat.42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title III, §301(a)(1), (2), Aug. 17, 2006, 120 Stat. 919, related to minimum funding standards, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
+A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title III, §301(a)(1), (2), Aug. 17, 2006, 120 Stat. 919, related to minimum funding standards, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–97, §102(b)(2)(M), substituted "single-employer plan (other than a CSEC plan)" for "single-employer plan".
+
+Subsec. (a)(2)(D). Pub. L. 113–97, §102(b)(1), added subpar. (D).
+
+Subsec. (b)(1). Pub. L. 113–97, §102(b)(2)(B), substituted "section 1083(j) of this title or under section 1085a(f) of this title" for "section 1083(j) of this title".
+
+Subsec. (c)(1)(A)(i). Pub. L. 113–97, §102(b)(2)(A), substituted "multiemployer plan or a CSEC plan, 10 percent" for "multiemployer plan, 10 percent".
+
+Subsec. (c)(1)(B)(i). Pub. L. 113–97, §102(b)(2)(M), substituted "single-employer plan (other than a CSEC plan)" for "single-employer plan".
+
+Subsec. (c)(1)(B)(iii). Pub. L. 113–97, §102(b)(2)(C), added cl. (iii).
+
+Subsec. (c)(4)(A)(i). Pub. L. 113–97, §102(b)(2)(D), substituted "under paragraph (1) or for granting an extension under section 1085a(d) of this title" for "under paragraph (1)".
+
+Subsec. (c)(4)(B). Pub. L. 113–97, §102(b)(2)(E), substituted "waiver under this subsection or an extension under 1085a(d) of this title" for "waiver under this subsection" in introductory provisions.
+
+Subsec. (c)(4)(B)(i)(I). Pub. L. 113–97, §102(b)(2)(F), substituted "waiver, modification, or extension" for "waiver or modification".
+
+Subsec. (c)(4)(C). Pub. L. 113–97, §102(b)(2)(G), substituted "waivers or extensions" for "waivers" in heading.
+
+Subsec. (c)(4)(C)(i)(I). Pub. L. 113–97, §102(b)(2)(I), substituted "or the accumulated funding deficiency under section 1085a of this title, whichever is applicable," for "and" at end.
+
+Subsec. (c)(4)(C)(i)(II). Pub. L. 113–97, §102(b)(2)(J), substituted "section 1083(e)(2) or 1085a(b)(2)(C) of this title, whichever is applicable, and" for "section 1083(e)(2) of this title,".
+
+Subsec. (c)(4)(C)(i)(III). Pub. L. 113–97, §102(b)(2)(K), added subcl. (III).
+
+Subsec. (c)(4)(C)(ii). Pub. L. 113–97, §102(b)(2)(L), substituted "for waivers or extensions with respect to" for "for waivers of".
+
+Pub. L. 113–97, §102(b)(2)(G), substituted "waivers or extensions" for "waivers" in heading.
+
+Subsec. (c)(7)(A). Pub. L. 113–97, §102(b)(2)(H), substituted "section 1084(d) of this title or section 1085a(d) of this title" for "section 1084(d) of this title".
+
+Subsec. (d)(2). Pub. L. 113–97, §102(b)(2)(H), substituted "section 1084(d) of this title or section 1085a(d) of this title" for "section 1084(d) of this title" in concluding provisions.
+
+Pub. L. 113–97, §102(b)(2)(A), substituted "multiemployer plan or a CSEC plan" for "multiemployer plan" in concluding provisions.
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–458, §102(b)(1)(A), substituted "the plan sponsor adopts" for "the plan adopts".
 
@@ -218,13 +256,17 @@ Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(1)(B), inserted "which reduces th
 
 Subsec. (d)(1). Pub. L. 110–458, §101(a)(1)(C), struck out ", the valuation date," after "funding method".
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, §§202(d), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, §202(d), added par. (3).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
-#### Effective and Termination Dates of 2006 Amendment
+#### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title II, §202(f), Aug. 17, 2006, 120 Stat. 885, provided that:
 
@@ -246,8 +288,6 @@ Special rule for certain restored benefits.—In the case of a multiemployer pla
 
 > the amendments made by this section shall not apply to such benefit restorations to the extent that any restriction on the providing or accrual of such benefits would otherwise apply by reason of such amendments."
 
-Amendment by section 202(d) of Pub. L. 109–280 inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see section 221(c) of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
-
 #### Effective Date
 
 Pub. L. 109–280, title I, §101(d), Aug. 17, 2006, 120 Stat. 789, provided that: "The amendments made by this section \[enacting this section and repealing former section 1082 of this title and sections 1083 to 1085, 1085a, 1085b, and 1086 of this title\] shall apply to plan years beginning after 2007."
@@ -263,4 +303,6 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
 For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

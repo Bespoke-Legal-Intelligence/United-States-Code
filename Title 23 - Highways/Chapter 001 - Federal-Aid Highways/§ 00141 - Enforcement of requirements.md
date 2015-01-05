@@ -46,7 +46,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–59, title II, §205(d)(3), Nov. 28, 1995, 109 Stat. 577, provided that: "The amendments made by paragraph (1) \[amending this section and repealing section 154 of this title\] shall be applicable to a State on the 10th day following the date of the enactment of this Act \[Nov. 28, 1995\]; except that if the legislature of a State is not in session on such date of enactment and the chief executive officer of the State declares, before such 10th day, that the legislature is not in session andthat the State prefers an applicability date for such amendments that is after the date on which the legislature will convene, such amendments shall be applicable to the State on the 60th day following the date on which the legislature next convenes."
+Pub. L. 104–59, title II, §205(d)(3), Nov. 28, 1995, 109 Stat. 577, provided that: "The amendments made by paragraph (1) \[amending this section and repealing section 154 of this title\] shall be applicable to a State on the 10th day following the date of the enactment of this Act \[Nov. 28, 1995\]; except that if the legislature of a State is not in session on such date of enactment and the chief executive officer of the State declares, before such 10th day, that the legislature is not in session and that the State prefers an applicability date for such amendments that is after the date on which the legislature will convene, such amendments shall be applicable to the State on the 60th day following the date on which the legislature next convenes."
 
 #### Effective Date of 1991 Amendment
 

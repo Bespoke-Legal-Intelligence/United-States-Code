@@ -20,7 +20,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 &emsp;&emsp;(v) any other information required by the Commission;
 
-&emsp;(B) a description of the possible form or packaging for the high-level radioactive waste and spent nuclear fuel to be emplaced in such repository, a description, to the extent practicable, of the relationship between such waste form or packaging and the geologic medium of such site, and a description of the activities being conducted by the Secretary with respectto such possible waste form or packaging or such relationship; and
+&emsp;(B) a description of the possible form or packaging for the high-level radioactive waste and spent nuclear fuel to be emplaced in such repository, a description, to the extent practicable, of the relationship between such waste form or packaging and the geologic medium of such site, and a description of the activities being conducted by the Secretary with respect to such possible waste form or packaging or such relationship; and
 
 &emsp;(C) a conceptual repository design that takes into account likely site-specific requirements.
 
@@ -80,13 +80,13 @@ Subsec. (b)(2). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(2), amended p
 
 Subsec. (b)(3). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(3), amended par. (3) identically, substituting "the Yucca Mountain site" for "a candidate site", striking "either" before "the Governor", and substituting "the State of Nevada" for "the State in which such candidate site is located, or the governing body of the affected Indian tribe where such candidate site is located, as the case may be".
 
-Subsec. (c)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(1), amended par. (1) identically, substituting"the Yucca Mountain site" for "any candidate site", "suitability of such site" for "suitability of such candidate site", and "repository at such site" for "repository at such candidate site".
+Subsec. (c)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(1), amended par. (1) identically, substituting "the Yucca Mountain site" for "any candidate site", "suitability of such site" for "suitability of such candidate site", and "repository at such site" for "repository at such candidate site".
 
 Subsec. (c)(2). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(2), amended par. (2) identically, striking out "candidate" before "site" in two places in subpar. (A) and in two places in subpar. (B).
 
 Subsec. (c)(3), (4). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(3), amended subsec. (c) identically, adding par. (3) and striking out former pars. (3) and (4) which read as follows:
 
-"(3) If site characterization activities are terminated at a candidate site for any reason, the Secretary shall (A) notify the Congress, the Governors and legislatures of all States in which candidate sites are located, and the governing bodies of all affected Indian tribes where candidate sites are located, of such termination and the reasons for such termination; and (B) remove any high-level radioactive waste, spent nuclear fuel, or other radioactive materials at or in such candidate site as promptly as practicable.
+"(3) If site characterization activities are terminated at a candidate site for any reason, the Secretary shall (A) notify the Congress, the Governors and legislatures of all States in which candidate sites are located, and the governing bodies of all affected Indian tribes wherecandidate sites are located, of such termination and the reasons for such termination; and (B) remove any high-level radioactive waste, spent nuclear fuel, or other radioactive materials at or in such candidate site as promptly as practicable.
 
 "(4) If a site is determined to be unsuitable for application for a construction authorization for a repository, the Secretary shall take reasonable and necessary steps to reclaim the site and to mitigate any significant adverse environmental impacts caused by site characterization activities."
 

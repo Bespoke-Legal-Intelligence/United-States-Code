@@ -64,7 +64,7 @@ The Secretary shall establish a historic barn preservation program—
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, or enter into contracts or cooperative agreementswith, eligible applicants to carry out an eligible project under paragraph (2).
+&emsp;The Secretary may make grants to, or enter into contracts or cooperative agreements with, eligible applicants to carry out an eligible project under paragraph (2).
 
 #### (2) Eligible projects
 

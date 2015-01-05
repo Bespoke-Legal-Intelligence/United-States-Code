@@ -46,5 +46,5 @@ Use of Funds.—Amounts received by the National Defense University for instruct
 
 #### Effective Date
 
-Pub. L. 107–107, div. A, title V, §528(b), Dec. 28, 2001, 115 Stat. 1103, provided that: "Section 2167 of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 2002."
+Pub. L. 107–107, div. A, title V, §528(b), Dec. 28, 2001, 115 Stat. 1103, provided that: "Section 2167 of title 10,United States Code, as added by subsection (a), shall take effect on January 1, 2002."
 

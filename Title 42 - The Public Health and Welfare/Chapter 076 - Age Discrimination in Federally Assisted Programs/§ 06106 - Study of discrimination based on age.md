@@ -6,7 +6,7 @@ The Commission on Civil Rights shall (1) undertake a study of unreasonable discr
 
 #### (b) Public hearings
 
-As part of the study required by this section, the Commission shall conduct public hearings toelicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
+As part of the study required by this section, the Commission shall conduct public hearings to elicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
 
 #### (c) Publication of results of analyses, research and studies by independent experts; services of voluntary or uncompensated personnel
 

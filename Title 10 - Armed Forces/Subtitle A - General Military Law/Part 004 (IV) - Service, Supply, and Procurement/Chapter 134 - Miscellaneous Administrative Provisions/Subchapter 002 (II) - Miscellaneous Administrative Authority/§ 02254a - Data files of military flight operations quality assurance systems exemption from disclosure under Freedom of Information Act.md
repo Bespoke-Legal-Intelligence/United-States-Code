@@ -40,5 +40,5 @@ The date of the enactment of this section, referred to in subsec. (a)(4), is the
 
 #### Effective Date
 
-Pub. L. 112–81, div. A, title X, §1082(b), Dec. 31, 2011, 125 Stat. 1601, provided that: "Section 2254a of title 10,United States Code, as added by subsection (a), shall apply to any information entered into any data file of the military flight operations quality assurance system before, on, or after the date of the enactment of this Act \[Dec. 31, 2011\]."
+Pub. L. 112–81, div. A, title X, §1082(b), Dec. 31, 2011, 125 Stat. 1601, provided that: "Section 2254a of title 10, United States Code, as added by subsection (a), shall apply to any information entered into any data file of the military flight operations quality assurance system before, on, or after the date of the enactment of this Act \[Dec. 31, 2011\]."
 

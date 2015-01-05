@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(ii) videos;
 
-&emsp;&emsp;&emsp;(iii) other materials, including programs and materials associated with new and emerging technologies, such as CDs, DVDs, video streaming, and other forms of multimedia; or
+&emsp;&emsp;&emsp;(iii) other materials, including programs and materials associated with new and emerging technologies, such as CDs, DVDs,video streaming, and other forms of multimedia; or
 
 &emsp;&emsp;&emsp;(iv) news (but only until September 30, 2006);
 
@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;Any eligible entity that wishes to receive a grant, or enter into a contract or cooperativeagreement, under subsection (b) or (c) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;Any eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under subsection (b) or (c) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Special rule
 

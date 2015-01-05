@@ -24,7 +24,7 @@ Act
 
 5 U.S.C. 755(c).
 
-Oct. 14, 1949, ch. 691, §104 “Sec. 5(c)”, 63 Stat. 857.
+Oct. 14, 1949, ch. 691, §104 "Sec. 5(c)", 63 Stat. 857.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

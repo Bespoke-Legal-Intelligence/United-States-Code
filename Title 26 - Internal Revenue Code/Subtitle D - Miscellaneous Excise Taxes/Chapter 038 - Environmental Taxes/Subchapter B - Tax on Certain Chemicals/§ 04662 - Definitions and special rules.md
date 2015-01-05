@@ -34,7 +34,7 @@ For purposes of this subchapter—
 
 #### (1) Methane or butane used as a fuel
 
-&emsp;Under regulations prescribed by the Secretary, methane or butane shall be treated as a taxable chemical only if it is used otherwise than as a fuel or in the manufacture or production of any motor fuel, diesel fuel, aviationfuel, or jet fuel (and, for purposes of section 4661(a), the person so using it shall be treated as the manufacturer thereof).
+&emsp;Under regulations prescribed by the Secretary, methane or butane shall be treated as a taxable chemical only if it is used otherwise than as a fuel or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel (and, for purposes of section 4661(a), the person so using it shall be treated as the manufacturer thereof).
 
 #### (2) Substances used in the production of fertilizer
 
@@ -364,7 +364,7 @@ Subsecs. (e), (f). Pub. L. 99–499, §513(b)(1), added subsec. (e) and redesign
 
 Subsec. (b)(2)(A). Pub. L. 98–369, §1019(b)(2)(A), substituted "qualified fertilizer substance" for "qualified substance".
 
-Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §1019(b)(1), inserted "fertilizer" after "qualified" wherever appearing in subpar. (B), inserted "fertilizer" after "Qualified" in subpar. (C) heading and in text substituted "The term 'qualified fertilizer use' means any use in the manufacture or production of fertilizer or for direct application as a fertilizer" for "For purposes of this subsection, the term 'qualified use' means any use in the manufacture or production of a fertilizer", and added subpar. (D).
+Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §1019(b)(1), inserted "fertilizer" after "qualified" wherever appearing in subpar. (B), inserted "fertilizer" after "Qualified" in subpar. (C) heading and in text substituted "The term 'qualified fertilizer use' means any use in the manufacture or production of fertilizer or for direct application as a fertilizer" for "For purposes of this subsection, theterm 'qualified use' means any use in the manufacture or production of a fertilizer", and added subpar. (D).
 
 Subsec. (b)(5), (6). Pub. L. 98–369, §1019(a)(1), added pars. (5) and (6).
 

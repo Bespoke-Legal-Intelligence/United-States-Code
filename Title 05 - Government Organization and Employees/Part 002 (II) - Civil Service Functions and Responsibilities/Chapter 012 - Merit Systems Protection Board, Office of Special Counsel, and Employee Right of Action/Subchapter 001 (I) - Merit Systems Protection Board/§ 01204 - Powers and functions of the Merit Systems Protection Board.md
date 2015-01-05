@@ -26,7 +26,7 @@
 
 (e)(1)(A) In any proceeding under subsection (a)(1), any member of the Board may request from the Director of the Office of Personnel Management an advisory opinion concerning the interpretation of any rule, regulation, or other policy directive promulgated by the Office of Personnel Management.
 
-(B)(i) The Merit Systems Protection Board may, during an investigation by the Office ofSpecial Counsel or during the pendency of any proceeding before the Board, issue any order which may be necessary to protect a witness or other individual from harassment, except that an agency (other than the Office of Special Counsel) may not request any such order with regard to an investigation by the Office of Special Counsel from the Board during such investigation.
+(B)(i) The Merit Systems Protection Board may, during an investigation by the Office of Special Counsel or during the pendency of any proceeding before the Board, issue any order which may be necessary to protect a witness or other individual from harassment, except that an agency (other than the Office of Special Counsel) may not request any such order with regard to an investigation by the Office of Special Counsel from the Board during such investigation.
 
 (ii) An order issued under this subparagraph may be enforced in the same manner as provided for under paragraph (2) with respect to any order under subsection (a)(2).
 
@@ -64,7 +64,7 @@
 
 (i) Except as provided in section 518 of title 28, relating to litigation before the Supreme Court, attorneys designated by the Chairman of the Board may appear for the Board, and represent the Board, in any civil action brought in connection with any function carried out by the Board pursuant to this title or as otherwise authorized by law.
 
-(j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointment made under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
+(j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointmentmade under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
 
 (k) The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall, as revised, be included as a separate item in the budget required to be transmitted to the Congress under section 1105 of title 31.
 
@@ -72,9 +72,11 @@
 
 (m)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case arising under section 1215, may require payment by the agency where the prevailing party was employed or had applied for employment at the time of the events giving rise to the case of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
 
-(2) If an employee or applicant for employment is the prevailing party of a case arisingunder section 1215 and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
+(2) If an employee or applicant for employment is the prevailing party of a case arising under section 1215 and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
 
-(Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1122, §1205; amended Pub. L. 97–258, §3(a)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered §1204 and amended Pub. L. 101–12, §3(a)(7), Apr. 10, 1989, 103 Stat. 17; Pub. L. 102–568, title V, §506(c)(4), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–353, §2(b)(2)(A), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–424, §2, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 103–446, title XII, §1203(c)(1), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 112–199, title I, §107(a), Nov. 27, 2012, 126 Stat. 1469.)
+(n) The Board may accept and use gifts and donations of property and services to carry out the duties of the Board.
+
+(Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1122, §1205; amended Pub. L. 97–258, §3(a)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered §1204 and amended Pub. L. 101–12, §3(a)(7), Apr. 10, 1989, 103 Stat. 17; Pub. L. 102–568, title V, §506(c)(4), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–353, §2(b)(2)(A), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–424, §2, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 103–446, title XII, §1203(c)(1), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 112–199, title I, §107(a), Nov. 27, 2012, 126 Stat. 1469; Pub. L. 113–76, div. E, title V, Jan. 17, 2014, 128 Stat. 217.)
 
 #### References in Text
 
@@ -86,69 +88,71 @@ A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101
 
 #### Amendments
 
-<b>2012</b>—Subsec. (m)(1). Pub. L. 112–199 substituted “agency where the prevailing party was employed or had applied for employment at the time of the events giving rise to the case” for “agency involved”.
+<b>2014</b>—Subsec. (n). Pub. L. 113–76 added subsec. (n).
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, which directed the amendment of par. (1) by substituting “section 4303” for “section 4323” could not be executed because the phrase “section 4323” does not appear in text subsequent to the intervening amendment by Pub. L. 103–353 substituting “chapter 43” for “section 4323”. See below.
+<b>2012</b>—Subsec. (m)(1). Pub. L. 112–199 substituted "agency where the prevailing party was employed or had applied for employment at the time of the events giving rise to the case" for "agency involved".
 
-Pub. L. 103–353 substituted “chapter 43” for “section 4323”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, which directed the amendment of par. (1) by substituting "section 4303" for "section 4323" could not be executed because the phrase "section 4323" does not appear in text subsequent to the intervening amendment by Pub. L. 103–353 substituting "chapter 43" for "section 4323". See below.
+
+Pub. L. 103–353 substituted "chapter 43" for "section 4323".
 
 Subsec. (m). Pub. L. 103–424 added subsec. (m).
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568 substituted “4323” for “2023”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568 substituted "4323" for "2023".
 
 <b>1989</b>—Pub. L. 101–12, §3(a)(7), renumbered section 1205 of this title as this section.
 
-Pub. L. 101–12, §3(a)(7)(A), struck out “and Special Counsel” after “Board” in section catchline.
+Pub. L. 101–12, §3(a)(7)(A), struck out "and Special Counsel" after "Board" in section catchline.
 
-Subsec. (a)(4). Pub. L. 101–12, §3(a)(7)(A), (C), substituted “subsection (f)” for “subsection (e) of this section”.
+Subsec. (a)(4). Pub. L. 101–12, §3(a)(7)(A), (C), substituted "subsection (f)" for "subsection (e) of this section".
 
-Subsec. (b)(1). Pub. L. 101–12, §3(a)(7)(A), struck out “the Special Counsel,” after “Board,”.
+Subsec. (b)(1). Pub. L. 101–12, §3(a)(7)(A), struck out "the Special Counsel," after "Board,".
 
-Subsec. (b)(2). Pub. L. 101–12, §3(a)(7)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any member of the Board, the Special Counsel, and any administrative law judge appointed by the Board under section 3105 of this title may—
+Subsec. (b)(2). Pub. L. 101–12, §3(a)(7)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Any member of the Board, the Special Counsel, and any administrative law judge appointed by the Board under section 3105 of this title may—
 
-&emsp;“(A) issue subpenas requiring the attendance and testimony of witnesses and the production of documentary or other evidence from any place in the United States or any territory or possession thereof, the Commonwealth of Puerto Rico, or the District of Columbia; and
+&emsp;"(A) issue subpenas requiring the attendance and testimony of witnesses and the production of documentary or other evidence from any place in the United States or any territory or possession thereof, the Commonwealth of Puerto Rico, or the District of Columbia; and
 
-&emsp;“(B) order the taking of depositions and order responses to written interrogatories.”
+&emsp;"(B) order the taking of depositions and order responses to written interrogatories."
 
-Subsec. (b)(3). Pub. L. 101–12, §3(a)(7)(B), substituted “subpoena” for “subpena” and “subpoenaed” for “subpenaed”.
+Subsec. (b)(3). Pub. L. 101–12, §3(a)(7)(B), substituted "subpoena" for "subpena" and "subpoenaed" for "subpenaed".
 
-Subsec. (c). Pub. L. 101–12, §3(a)(7)(B), (E), substituted “subpoena” for “subpena” in two places, “(b)(2)(A) or section 1214(b), upon application by the Board” for “(b)(2) of this section”, and “for the district” for “for the judicial district”.
+Subsec. (c). Pub. L. 101–12, §3(a)(7)(B), (E), substituted "subpoena" for "subpena" in two places, "(b)(2)(A) or section 1214(b), upon application by the Board" for "(b)(2) of this section", and "for the district" for "for the judicial district".
 
 Subsec. (d). Pub. L. 101–12, §3(a)(7)(F), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 101–12, §3(a)(7)(A), (G)(i), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(1)”, and added subpar. (B).
+Subsec. (e)(1). Pub. L. 101–12, §3(a)(7)(A), (G)(i), designated existing provisions as subpar. (A), struck out "of this section" after "subsection (a)(1)", and added subpar. (B).
 
-Subsec. (e)(2). Pub. L. 101–12, §3(a)(7)(G)(ii), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(2)”, and added subpar. (B).
+Subsec. (e)(2). Pub. L. 101–12, §3(a)(7)(G)(ii), designated existing provisions as subpar. (A), struck out "of this section" after "subsection (a)(2)", and added subpar. (B).
 
-Subsec. (e)(3). Pub. L. 101–12, §3(a)(7)(A), (G)(iii), struck out “of this section” after “subsection (a)(3)” and inserted “of Personnel Management” after “Office”.
+Subsec. (e)(3). Pub. L. 101–12, §3(a)(7)(A), (G)(iii), struck out "of this section" after "subsection (a)(3)" and inserted "of Personnel Management" after "Office".
 
 Subsec. (f). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1). Pub. L. 101–12, §3(a)(7)(H)(i), inserted “of the Office of Personnel Management” after “Director” and struck out “of this title” after “section 1103”.
+Subsec. (f)(1). Pub. L. 101–12, §3(a)(7)(H)(i), inserted "of the Office of Personnel Management" after "Director" and struck out "of this title" after "section 1103".
 
-Subsec. (f)(2). Pub. L. 101–12, §3(a)(7)(H)(ii), inserted comma after “subsection” and in subpars. (A) and (B) struck out “of this title” after “section 2302(b)”.
+Subsec. (f)(2). Pub. L. 101–12, §3(a)(7)(H)(ii), inserted comma after "subsection" and in subpars. (A) and (B) struck out "of this title" after "section 2302(b)".
 
-Subsec. (f)(3), (4). Pub. L. 101–12, §3(a)(7)(H)(iii), struck out “(A)” before “The Director”, struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented, and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
+Subsec. (f)(3), (4). Pub. L. 101–12, §3(a)(7)(H)(iii), struck out "(A)" before "The Director", struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented,and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
 
 Subsecs. (g) to (i). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsecs. (f) to (h) as (g) to (i), respectively. Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 101–12, §3(a)(7)(F), (I), redesignated former subsec. (i) as (j) and substituted “chapter 33” for “chapter 33 of this title”. Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 101–12, §3(a)(7)(F), (I), redesignated former subsec. (i) as (j) and substituted "chapter 33" for "chapter 33 of this title". Former subsec. (j) redesignated (k).
 
 Subsecs. (k), (l). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
-<b>1982</b>—Subsec. (j). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
+<b>1982</b>—Subsec. (j). Pub. L. 97–258 substituted "section 1105 of title 31" for "section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)".
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–199, title II, §202, Nov. 27, 2012, 126 Stat. 1476, provided that: “Except as otherwise provided in section 109 \[see Effective Date note set out under section 2304 of this title\], this Act \[see section 1 of Pub. L. 112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title\] shall take effect 30 days after the date of enactment of this Act \[Nov. 27, 2012\].”
+Pub. L. 112–199, title II, §202, Nov. 27, 2012, 126 Stat. 1476, provided that: "Except as otherwise provided in section 109 \[see Effective Date note set out under section 2304 of this title\], this Act \[see section 1 of Pub. L. 112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title\] shall take effect 30 days after the date of enactment of this Act \[Nov. 27, 2012\]."
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–424, §14, Oct. 29, 1994, 108 Stat. 4368, provided that: “The provisions of this Act \[amending this section and sections 1211, 1212, 1214, 1218, 1221, 2105, 2302, 4313, 7121, and 8348 of this title, enacting provisions set out as notes under sections 1212 and 1214 of this title and section 1441a of Title 12, Banks and Banking, and amending provisions set out as a note under section 5509 of this title\] and the amendments made by this Act shall be effective on and after the date of the enactment of this Act \[Oct. 29, 1994\].”
+Pub. L. 103–424, §14, Oct. 29, 1994, 108 Stat. 4368, provided that: "The provisions of this Act \[amending this section and sections 1211, 1212, 1214, 1218, 1221, 2105, 2302, 4313, 7121, and 8348 of this title, enacting provisions set out as notes under sections 1212 and 1214 of this title and section 1441a of Title 12, Banks and Banking, and amending provisions set out as a note under section 5509 of this title\] and the amendments made by this Act shall be effective on and after the date of the enactment of this Act \[Oct. 29, 1994\]."
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1989 Amendment
 

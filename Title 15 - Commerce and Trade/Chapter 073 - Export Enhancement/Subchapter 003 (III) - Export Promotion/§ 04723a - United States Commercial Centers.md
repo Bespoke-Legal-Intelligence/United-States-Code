@@ -14,7 +14,7 @@ Each Center shall—
 
 &emsp;(1) collect and publish economic and market data with respect to the host country;
 
-&emsp;(2) provide, on a user-fee basis, preliminary technical and clerical assistance, language translation, and administrative assistance, and information regarding the legal systems,laws, regulations, and procedures of the host country, to United States exporters seeking to do business in the host country; and
+&emsp;(2) provide, on a user-fee basis, preliminary technical and clerical assistance, language translation, and administrative assistance, and information regarding the legal systems, laws, regulations, and procedures of the host country, to United States exporters seeking to do business in the host country; and
 
 &emsp;(3) in other ways promote exports of United States goods and services to the host country.
 
@@ -102,5 +102,5 @@ Section was enacted as part of the Jobs Through Exports Act of 1992, and not as 
 
 #### Amendments
 
-<b>1995</b>—Subsec. (j). Pub. L. 104–66 struck out heading and text of subsec. (j). Text read as follows: "The Secretary of Commerce shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 1 year after October 28, 1992, and not later than the end of each 1-year period occurring thereafter, a report on the status, activities, andeffectiveness of the Centers. Each such report shall include any recommendations with respect to the program established under this section."
+<b>1995</b>—Subsec. (j). Pub. L. 104–66 struck out heading and text of subsec. (j). Text read as follows: "The Secretary of Commerce shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 1 year after October 28, 1992, and not later than the end of each 1-year period occurring thereafter, a report on the status, activities, and effectiveness of the Centers. Each such report shall include any recommendations with respect to the program established under this section."
 

@@ -18,7 +18,7 @@ The following entities are agencies of the Administration:
 
 #### (1) Administrator
 
-&emsp;The Administration shall be headed by an Administrator (hereinafter in this subchapter referred to as the "Administrator") who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The Administration shall be headed by an Administrator (hereinafter in this subchapterreferred to as the "Administrator") who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Deputy Administrator
 
@@ -44,7 +44,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agency for Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
 
-&emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Quality are disseminated to service providers in amanner designed to improve the delivery and effectiveness of treatment and prevention services;
+&emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Quality are disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
 
 &emsp;(10) encourage public and private entities that provide health insurance to provide benefits for substance abuse and mental health services;
 
@@ -164,7 +164,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (2) Compensation and expenses
 
-&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignmentlocation in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
+&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
 
 &emsp;(B) Expenses specified in subparagraph (A) may not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1), unless and until the expert or consultant agrees in writing to complete the entire period of assignment or one year, whichever is shorter, unless separated or reassigned for reasons beyond the control of the expert or consultant that are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for the expenses specified in subparagraph (A) is recoverable from the expert or consultant as a debt of the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
 
@@ -248,7 +248,7 @@ Subsec. (f)(4), (5). Pub. L. 111–148, §3509(d)(2), (3), added par. (4) and re
 
 <b>2000</b>—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption."
 
-Subsecs. (m) to (o). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (o), and substituted "2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003" for "1993, and such sums as may be necessary for fiscal year 1994" before period at end.
+Subsecs. (m) to (o). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (o), and substituted "2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003" for"1993, and such sums as may be necessary for fiscal year 1994" before period at end.
 
 <b>1999</b>—Subsec. (d)(8), (9). Pub. L. 106–129, which directed the substitution of "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy and Research", was executed by making the substitution for "Agency for Health Care Policy Research", to reflect the probable intent of Congress.
 
@@ -292,7 +292,7 @@ Subsecs. (e), (f). Pub. L. 98–24, §2(b)(2)(D), added subsecs. (e) and (f).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
@@ -410,7 +410,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### "SEC. 148. MERGERS.
 
-"Notwithstanding the provisions of section 401(c)(2) of the Public Health Service Act (42 U.S.C. 281(c)(2)),the Secretary of Health and Human Services may not merge the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse or the National Institute of Mental Health with any other institute or entity (or with each other) within the national research institutes for a 5-year period beginning on the date of enactment of this Act \[July 10, 1992\].
+"Notwithstanding the provisions of section 401(c)(2) of the Public Health Service Act (42 U.S.C. 281(c)(2)), the Secretary of Health and Human Services may not merge the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse or the National Institute of Mental Health with any other institute or entity (or with each other) within the national research institutes for a 5-year period beginning on the date of enactment of this Act \[July 10, 1992\].
 
 #### "SEC. 149. CONDUCT OF MULTI-YEAR RESEARCH PROJECTS.
 
@@ -423,6 +423,80 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 #### "SEC. 151. BUDGETARY AUTHORITY.
 
 "With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) \[42 U.S.C. 284(a)\], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute's advisory council."
+
+#### Assisted Outpatient Treatment Grant Program for Individuals With Serious Mental Illness
+
+Pub. L. 113–93, title II, §224, Apr. 1, 2014, 128 Stat. 1083, provided that:
+
+"(a)
+
+In General.—The Secretary shall establish a 4-year pilot program to award not more than 50 grants each year to eligible entities for assisted outpatient treatment programs for individuals with serious mental illness.
+
+"(b)
+
+Consultation.—The Secretary shall carry out this section in consultation with the Director of the National Institute of Mental Health, the Attorney General of the United States, the Administrator of the Administration for Community Living, and the Administrator of the Substance Abuse and Mental Health Services Administration.
+
+"(c)
+
+Selecting Among Applicants.—The Secretary—
+
+&emsp;"(1) may only award grants under this section to applicants that have not previously implemented an assisted outpatient treatment program; and
+
+&emsp;"(2) shall evaluate applicants based on their potential to reduce hospitalization, homelessness, incarceration, and interaction with the criminal justice system while improving the health and social outcomes of the patient.
+
+"(d)
+
+Use of Grant.—An assisted outpatient treatment program funded with a grant awarded under this section shall include—
+
+&emsp;"(1) evaluating the medical and social needs of the patients who are participating in the program;
+
+&emsp;"(2) preparing and executing treatment plans for such patients that—
+
+&emsp;&emsp;"(A) include criteria for completion of court-ordered treatment; and
+
+&emsp;&emsp;"(B) provide for monitoring of the patient's compliance with the treatment plan, including compliance with medication and other treatment regimens;
+
+&emsp;"(3) providing for such patients case management services that support the treatment plan;
+
+&emsp;"(4) ensuring appropriate referrals to medical and social service providers;
+
+&emsp;"(5) evaluating the process for implementing the program to ensure consistency with the patient's needs and State law; and
+
+&emsp;"(6) measuring treatment outcomes, including health and social outcomes such as rates of incarceration, health care utilization, and homelessness.
+
+"(e)
+
+Report.—Not later than the end of each of fiscal years 2016, 2017, and 2018, the Secretary shall submit a report to the appropriate congressional committees on the grant program under this section. Each such report shall include an evaluation of the following:
+
+&emsp;"(1) Cost savings and public health outcomes such as mortality, suicide, substance abuse, hospitalization, and use of services.
+
+&emsp;"(2) Rates of incarceration by patients.
+
+&emsp;"(3) Rates of homelessness among patients.
+
+&emsp;"(4) Patient and family satisfaction with program participation.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'assisted outpatient treatment' means medically prescribed mental health treatment that a patient receives while living in a community under the terms of a law authorizing a State or local court to order such treatment.
+
+&emsp;"(2) The term 'eligible entity' means a county, city, mental health system, mental health court, or any other entity with authority under the law of the State in which the grantee is located to implement, monitor, and oversee assisted outpatient treatment programs.
+
+&emsp;"(3) The term 'Secretary' means the Secretary of Health and Human Services.
+
+"(g)
+
+Funding.—
+
+&emsp;"(1)
+
+Amount of grants.—A grant under this section shall be in an amount that is not more than $1,000,000 for each of fiscal years 2015 through 2018. Subject to the preceding sentence, the Secretary shall determine the amount of each grant based on the population of the area, including estimated patients, to be served under the grant.
+
+&emsp;"(2)
+
+Authorization of appropriations.—There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2018."
 
 #### Report by Substance Abuse and Mental Health Services Administration
 

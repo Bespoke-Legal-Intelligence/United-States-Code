@@ -16,7 +16,7 @@ The total amount of obligations purchased and outstanding at any one time by the
 
 In order to qualify for assistance under this subchapter, the development company must demonstrate that the project to be funded is directed toward at least one of the following economic development objectives—
 
-&emsp;(1) the creation of job opportunities within two years of the completion of the project orthe preservation or retention of jobs attributable to the project;
+&emsp;(1) the creation of job opportunities within two years of the completion of the project or the preservation or retention of jobs attributable to the project;
 
 &emsp;(2) improving the economy of the locality, such as stimulating other business development in the community, bringing new income into the area, or assisting the community in diversifying and stabilizing its economy; or
 
@@ -106,5 +106,73 @@ Assistance made available under any financings made under this subchapter during
 
 #### Loan Liquidation Pilot Program
 
-Pub. L. 104–208, div. D, title II, §204, Sept. 30, 1996, 110 Stat. 3009–736, which required the Administrator to carry out a loan liquidation pilot program, was terminated effective May 14, 2007. See section 697g of this title and Regulations note set out under that section.
+Pub. L. 104–208, div. D, title II, §204, Sept. 30, 1996, 110 Stat. 3009–736, provided that:
+
+"(a)
+
+In General.—The Administrator shall carry out a loan liquidation pilot program (in this section referred to as the 'pilot program') in accordance with the requirements of this section.
+
+"(b)
+
+Selection of Development Companies.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Administrator shall establish a pilot program under which certain development companies authorized to make loans and issue debentures under title V of the Small Business Investment Act of 1958 \[15 U.S.C. 695 et seq.\] are selected by the Administrator in accordance with this subsection to carry out loan liquidations.
+
+&emsp;"(2)
+
+Conflicts of interest.—The development companies selected under paragraph (1) shall agree not to take any action that would create a potential conflict of interest involving the development company, the third party lender, or an associate of the third party lender.
+
+&emsp;"(3)
+
+Qualifications.—In order to qualify to participate in the pilot program under this section, each development company shall—
+
+&emsp;&emsp;"(A) have not less than 6 years of experience in the program established by title V of the Small Business Investment Act of 1958;
+
+&emsp;&emsp;"(B) have made, during the 6 most recent fiscal years, an average of not less than 10 loans per year through the program established by such title V of the Small Business Investment Act of 1958;
+
+&emsp;&emsp;"(C) have not less than 2 years of experience in liquidating loans under the authority of a Federal, State, or other lending program; and
+
+&emsp;&emsp;"(D) meet such other requirements as the Administration may establish.
+
+"(c)
+
+Authority of Development Companies.—The development companies selected under subsection (b) shall, for loans in their portfolio of loans made through debentures guaranteed under title V of the Small Business Investment Act of 1958 \[15 U.S.C. 695 et seq.\] that are in default after the date of enactment of this Act \[Sept. 30, 1996\], be authorized to—
+
+&emsp;"(1) perform all liquidation and foreclosure functions, including the acceleration or purchase of community injection funds, subject to such company obtaining prior written approval from the Administrator before committing the agency to purchase any other indebtedness secured by the property: <i>Provided</i>, That the Administrator shall approve or deny a request for such purchase within a period of 10 business days; and
+
+&emsp;"(2) liquidate such loans in a reasonable and sound manner and according to commercially accepted practices pursuant to a liquidation plan approved by the administrator in advance of its implementation. If the administrator does not approve or deny a request for approval of a liquidation plan within 10 business days of the date on which the request is made (or with respect to any routine liquidation activity under such a plan, within 5 business days) such request shall be deemed to be approved.
+
+"(d)
+
+Authority of the Administrator.—In carrying out the pilot program, the Administrator shall—
+
+&emsp;"(1) have full authority to rescind the authority granted any development company under this section upon a 10-day written notice stating the reasons for the rescission; and
+
+&emsp;"(2) not later than 90 days after the admission of the development companies specified in subsection (b), implement the pilot program.
+
+"(e)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall issue a report on the results of the pilot program to the Committees on Small Business of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\]. The report shall include information relating to—
+
+&emsp;&emsp;"(A) the total dollar amount of each loan and project liquidated;
+
+&emsp;&emsp;"(B) the total dollar amount guaranteed by the Administration;
+
+&emsp;&emsp;"(C) total dollar losses;
+
+&emsp;&emsp;"(D) total recoveries both as percentage of the amount guaranteed and the total cost of the project; and
+
+&emsp;&emsp;"(E) a comparison of the pilot program information with the same information for liquidation conducted outside the pilot program over the period of time.
+
+&emsp;"(2)
+
+Reporting period.—The report shall be based on data from, and issued not later than 90 days after the close of, the first eight 8 \[sic\] fiscal quarters of the pilot program's operation after the date of implementation."
+
+\[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) \[title III, §307(b)\] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.\]
 

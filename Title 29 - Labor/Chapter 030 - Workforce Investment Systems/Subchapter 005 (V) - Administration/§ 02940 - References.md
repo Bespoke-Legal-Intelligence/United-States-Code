@@ -18,6 +18,10 @@ Except as otherwise specified, a reference in a Federal law (other than a refere
 
 (Pub. L. 105–220, title I, §190, Aug. 7, 1998, 112 Stat. 1054; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(h)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–435.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 The Comprehensive Employment and Training Act, referred to in subsec. (a), is Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of this title, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357.
@@ -34,6 +38,10 @@ This Act, referred to in subsec. (b), is the Workforce Investment Act of 1998. S
 
 <b>1998</b>—Pub. L. 105–277 amended section catchline and text generally. Prior to amendment, text read as follows: "Effective on August 7, 1998, all references in any other provision of law (other than section 665 of title 18) to the Comprehensive Employment and Training Act, or to the Job Training Partnership Act, as the case may be, shall be deemed to refer to the 'Workforce Investment Act of 1998.' "
 
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], seesection 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(h)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–435, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the Workforce Investment Act of 1998 \[Pub. L. 105–220\]."
@@ -49,4 +57,6 @@ Preparation.—After consultation with the appropriate committees of Congress an
 "(b)
 
 Submission to Congress.—Not later than 6 months after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit to Congress the recommended legislation referred to under subsection (a)."
+
+<i>\[Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], section 199A of Pub. L. 105–220, set out above, is repealed.\]</i>
 

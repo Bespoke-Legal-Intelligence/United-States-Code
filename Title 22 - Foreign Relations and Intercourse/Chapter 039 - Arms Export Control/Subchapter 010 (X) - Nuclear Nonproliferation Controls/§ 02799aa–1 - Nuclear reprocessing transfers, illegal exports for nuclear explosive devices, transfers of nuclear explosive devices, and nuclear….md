@@ -10,7 +10,7 @@
 
 > For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
-(2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
+(2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
 
 (3)(A) A certification under paragraph (2) of this subsection shall take effect on the date on which the certification is received by the Congress. However, if, within 30 calendar days after receiving this certification, the Congress enacts a joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, then upon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
 
@@ -56,7 +56,7 @@
 
 &emsp;(E) The United States Government shall oppose, in accordance with section 262d of this title, the extension of any loan or financial or technical assistance to that country by any international financial institution.
 
-&emsp;(F) The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food orother agricultural commodities, which includes fertilizer.
+&emsp;(F) The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities, which includes fertilizer.
 
 &emsp;(G) The authorities of section 2405 of title 50, Appendix, shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\] (relating to congressional oversight of intelligence activities).
 
@@ -88,7 +88,7 @@
 
 As used in this section, the term "non-nuclear-weapon state" means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
-(Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627.)
+(Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 #### References in Text
 
@@ -98,13 +98,15 @@ This chapter, referred to in subsecs. (a)(1) and (b)(2)(B)(i), (C), was in the o
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsecs. (a)(3)(B) and (b)(4)(C), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
-For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 \[part B of title VIII of Pub.L. 103–236\], referred to in subsec. (b)(1), as 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 \[part B of title VIII of Pub. L. 103–236\], referred to in subsec. (b)(1), as 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 The National Security Act of 1947, referred to in subsec. (b)(2)(D)(i), (G), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 102 of the Arms Export Control Act, referred to in subsec. (b)(4)(D), is classified to this section.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–276 substituted "the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and" for "the Speaker of the House of Representatives and".
 
 <b>1998</b>—Subsec. (b)(2)(D)(ii). Pub. L. 105–194, §2(c), inserted "medicines, medical equipment, and" after "to".
 
@@ -126,7 +128,7 @@ Functions of President under subsec. (a)(2) of this section delegated to Secreta
 
 #### Waiver of Certain Sanctions Against North Korea
 
-Pub. L. 110–252, title I, §1405, June 30, 2008, 122 Stat. 2337, provided that:
+Pub. L. 110–252, title I, §1405, June 30, 2008, 122 Stat. 2337, as amended by Pub. L. 113–188, title VIII, §801, Nov. 26, 2014, 128 Stat. 2020; Pub. L. 113–235, div. J, title VII, §7034(i), Dec. 16, 2014, 128 Stat. 2624, provided that:
 
 "(a)
 
@@ -172,59 +174,17 @@ Exception related to certain activities occurring after date of enactment.—The
 
 &emsp;"(4)
 
-Limited exception related to lethal weapons.—The authority under subsection (a) shall not apply with respect to any export of lethal defense articles that would be prevented by the application of section 102(b)(2) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(2)\].
+Limited exception related to lethal weapons.—The authority under subsection (a) shall not apply with respect to any export of lethal defense articles that would be prevented by the application of section 102(b)(2) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(2)\]."
 
 "(c)
-
-Notifications and Reports.—
-
-&emsp;"(1)
-
-Congressional notification.—The President shall notify the appropriate congressional committees in writing not later than 15 days before exercising the waiver authority under subsection (a).
-
-&emsp;"(2)
-
-Annual report.—Not later than January 31, 2009, and annually thereafter, the President shall submit to the appropriate congressional committees a report that—
-
-&emsp;&emsp;"(A) lists all waivers issued under subsection (a) during the preceding year;
-
-&emsp;&emsp;"(B) describes in detail the progress that is being made in the implementation of the commitment undertaken by North Korea, in the Joint Statement of September 19, 2005, to abandon all nuclear weapons and existing nuclear programs as part of the verifiable denuclearization of the Korean Peninsula;
-
-&emsp;&emsp;"(C) discusses specifically any shortcomings in the implementation by North Korea of that commitment; and
-
-&emsp;&emsp;"(D) lists and describes the progress and shortcomings, in the preceding year, of all other programs promoting the elimination of the capability of North Korea to develop, deploy, transfer, or maintain weapons of mass destruction or their delivery systems.
-
-&emsp;"(3)
-
-Report on verification measures relating to north korea's nuclear programs.—
-
-&emsp;&emsp;"(A)
-
-In general.—Not later than 15 days after the date of enactment of this Act \[June 30, 2008\], the Secretary of State shall submit to the appropriate congressional committees a report on verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement of February 13, 2007, with specific focus on how such verification measures are defined under the Six-Party Talks Agreement and understood by the United States Government.
-
-&emsp;&emsp;"(B)
-
-Matters to be included.—The report required under subsection (A) shall include, among other elements, a description of—
-
-&emsp;&emsp;&emsp;"(i) how the United States will confirm that North Korea has 'provided a complete and correct declaration of all of its nuclear programs';
-
-&emsp;&emsp;&emsp;"(ii) how the United States will maintain a high and ongoing level of confidence that North Korea has fully met the terms of the Six-Party Talks Agreement relating to its nuclear programs;
-
-&emsp;&emsp;&emsp;"(iii) any diplomatic agreement with North Korea regarding verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement (other than implementing arrangements made during on-site operations); and
-
-&emsp;&emsp;&emsp;"(iv) any significant and continuing disagreement with North Korea regarding verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement.
-
-&emsp;&emsp;"(C)
-
-Form.—The report required under subsection (A) shall be submitted in unclassified form, but may include a classified annex.
-
-"(d)
 
 Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
 
 &emsp;"(1) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
 
 &emsp;"(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives."
+
+\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235, which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 of Pub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
 
 #### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
 
@@ -294,7 +254,7 @@ Determination of President of the United States, No. 98–25, May 30, 1998, 63 F
 
 #### Waiver of Certain Sanctions Against India and Pakistan
 
-Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub. L. 106–79, set out as a note above, or section 101(a) \[title IX, §902\] of Pub. L. 105–277, formerly set out in a note above, were contained in the following:
+Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub.L. 106–79, set out as a note above, or section 101(a) \[title IX, §902\] of Pub. L. 105–277, formerly set out in a note above, were contained in the following:
 
 Determination of President of the United States, No. 2001–28, Sept. 22, 2001, 66 F.R. 50095.
 

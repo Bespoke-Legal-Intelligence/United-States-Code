@@ -12,7 +12,7 @@ Each application submitted under subsection (a) of this section shall include—
 
 &emsp;&emsp;(A) how a grant awarded under this part will be used to promote desegregation, including how the proposed magnet school programs will increase interaction among students of different social, economic, ethnic, and racial backgrounds;
 
-&emsp;&emsp;(B) the manner and extent to which the magnet school program will increase studentacademic achievement in the instructional area or areas offered by the school;
+&emsp;&emsp;(B) the manner and extent to which the magnet school program will increase student academic achievement in the instructional area or areas offered by the school;
 
 &emsp;&emsp;(C) how the applicant will continue the magnet school program after assistance under this part is no longer available, and, if applicable, an explanation of why magnet schools established or supported by the applicant with grant funds under this part cannot be continued without the use of grant funds under this part;
 

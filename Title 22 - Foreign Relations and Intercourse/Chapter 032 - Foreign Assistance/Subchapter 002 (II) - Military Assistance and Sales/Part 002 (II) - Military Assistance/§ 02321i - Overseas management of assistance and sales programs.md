@@ -20,7 +20,7 @@ In order to carry out his responsibilities for the management of international s
 
 #### (b) Furnishing of advisory and training assistance
 
-Advisory and training assistance conducted by military personnel assigned under this section shall be kept to an absolute minimum. It is the sense of the Congress that advising and training assistance in countries to which military personnel are assigned under this section shall be provided primarily by other personnel who are not assigned under this section and who are detailed for limited periods to perform specific tasks.
+Advisory and training assistance conducted by military personnel assigned under this sectionshall be kept to an absolute minimum. It is the sense of the Congress that advising and training assistance in countries to which military personnel are assigned under this section shall be provided primarily by other personnel who are not assigned under this section and who are detailed for limited periods to perform specific tasks.
 
 #### (c) Number of personnel assigned; waiver; procedures applicable
 
@@ -40,7 +40,7 @@ Members of the Armed Forces assigned to a foreign country under this section sha
 
 The President shall continue to instruct United States diplomatic and military personnel in the United States missions abroad that they should not encourage, promote, or influence the purchase by any foreign country of United States-made military equipment, unless they are specifically instructed to do so by an appropriate official of the executive branch.
 
-(Pub. L. 87–195, pt. II, §515, as added Pub. L. 93–559, §16, Dec. 30, 1974, 88 Stat. 1799; amended Pub. L. 94–329, title I, §104, June 30, 1976, 90 Stat. 731; Pub. L. 95–92, §7(a), Aug. 4, 1977, 91 Stat. 615; Pub. L. 95–384, §9, Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §7, Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §114, Dec. 16, 1980, 94 Stat. 3139; Pub. L. 97–113, title I, §112, Dec. 29, 1981, 95 Stat.1527; Pub. L. 99–83, title I, §125, Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–690, title IV, §4305(a), Nov. 18, 1988, 102 Stat. 4273; Pub. L. 101–165, title IX, §9104(a), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1213; Pub. L. 102–391, title V, §556(c), Oct. 6, 1992, 106 Stat. 1675; Pub. L. 104–164, title I, §143, July 21, 1996, 110 Stat. 1434.)
+(Pub. L. 87–195, pt. II, §515, as added Pub. L. 93–559, §16, Dec. 30, 1974, 88 Stat. 1799; amended Pub. L. 94–329, title I, §104, June 30, 1976, 90 Stat. 731; Pub. L. 95–92, §7(a), Aug. 4, 1977, 91 Stat. 615; Pub. L. 95–384, §9, Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §7, Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §114, Dec. 16, 1980, 94 Stat. 3139; Pub. L. 97–113, title I, §112, Dec. 29, 1981, 95 Stat. 1527; Pub. L. 99–83, title I, §125, Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–690, title IV, §4305(a), Nov. 18, 1988, 102 Stat. 4273; Pub. L. 101–165, title IX, §9104(a), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1213; Pub. L. 102–391, title V, §556(c), Oct. 6, 1992, 106 Stat. 1675; Pub. L. 104–164, title I, §143, July 21, 1996, 110 Stat. 1434.)
 
 #### References in Text
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 95–384, §9(d), inserted "for fixed" after "for specific 
 
 Subsec. (h). Pub. L. 95–384, §9(e), added subsec. (h).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–92 substituted provisions requiring specific Congressional authorization for a military assistance advisory group, etc., to operate inany foreign country and set forth exceptions to such requirement, for provisions authorizing deductions of expenditures from military assistance appropriations during the period beginning July 1, 1976, and ending Sept. 30, 1977, under section 2312 of this title where under this section reimbursement is requested by the expending government agency or if the available funds are deposited in the Treasury as miscellaneous receipts.
+<b>1977</b>—Subsec. (a). Pub. L. 95–92 substituted provisions requiring specific Congressional authorization for a military assistance advisory group, etc., to operate in any foreign country and set forth exceptions to such requirement, for provisions authorizing deductions of expenditures from military assistance appropriations during the period beginning July 1, 1976, and ending Sept. 30, 1977, under section 2312 of this title where under this section reimbursement is requested by the expending government agency or if the available funds are deposited in the Treasury as miscellaneous receipts.
 
 Subsec. (b). Pub. L. 95–92 substituted provisions relating to assignment of military personnel to specified countries by President for implementation of management responsibilities during fiscal year 1978 under international security assistance programs, for provisions requiring specific Congressional authority for assignment of any military assistance advisory group, etc., to operate in any foreign country after Sept. 30, 1977, and provisions relating to assignment by the President of military personnel to diplomatic missions of the United States.
 

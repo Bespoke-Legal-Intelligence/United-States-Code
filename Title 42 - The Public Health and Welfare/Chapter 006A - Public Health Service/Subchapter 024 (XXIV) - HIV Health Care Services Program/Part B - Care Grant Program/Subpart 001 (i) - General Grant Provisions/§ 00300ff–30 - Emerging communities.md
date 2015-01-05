@@ -18,7 +18,7 @@ To be eligible to receive a supplemental grant under subsection (a) of this sect
 
 #### (c) Reporting requirements
 
-A State that desires a grant under this section shall, as part of the State application submitted under section 300ff–27 of this title, submit a detailed description of the manner in which theState will use amounts received under the grant and of the severity of need. Such description shall include—
+A State that desires a grant under this section shall, as part of the State application submitted under section 300ff–27 of this title, submit a detailed description of the manner in which the State will use amounts received under the grant and of the severity of need. Such description shall include—
 
 &emsp;(1) a report concerning the dissemination of supplemental funds under this section and the plan for the utilization of such funds in the emerging community;
 

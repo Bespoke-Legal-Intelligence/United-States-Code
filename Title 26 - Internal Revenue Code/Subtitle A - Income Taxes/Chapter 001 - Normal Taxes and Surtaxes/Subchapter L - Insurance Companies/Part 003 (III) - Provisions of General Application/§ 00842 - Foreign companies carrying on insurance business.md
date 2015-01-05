@@ -96,7 +96,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (B) Limitation on reduction
 
-&emsp;&emsp;The reduction under subparagraph (A) shall not exceed the increase in taxes underpart I or II (as the case may be) by reason of the increase in effectively connected income of the company resulting from subsection (b).
+&emsp;&emsp;The reduction under subparagraph (A) shall not exceed the increase in taxes under part I or II (as the case may be) by reason of the increase in effectively connected income of the company resulting from subsection (b).
 
 #### (3) Data used in determining domestic asset/liability percentages and domestic investment yields
 

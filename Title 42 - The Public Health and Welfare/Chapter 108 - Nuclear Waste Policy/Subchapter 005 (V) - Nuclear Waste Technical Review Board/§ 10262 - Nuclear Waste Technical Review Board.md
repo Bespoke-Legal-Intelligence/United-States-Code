@@ -34,7 +34,7 @@ There is established a Nuclear Waste Technical Review Board that shall be an ind
 
 (5) Members of the Board shall be appointed for terms of 4 years, each such term to commence 120 days after December 22, 1987, except that of the 11 members first appointed to the Board, 5 shall serve for 2 years and 6 shall serve for 4 years, to be designated by the President at the time of appointment.
 
-(Pub. L. 97–425, title V, §502, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5051, Dec. 22, 1987, 101 Stat. 1330–248.)
+(Pub. L. 97–425, title V, §502, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat.1329–104, 1329–121; Pub. L. 100–203, title V, §5051, Dec. 22, 1987, 101 Stat. 1330–248.)
 
 #### Codification
 

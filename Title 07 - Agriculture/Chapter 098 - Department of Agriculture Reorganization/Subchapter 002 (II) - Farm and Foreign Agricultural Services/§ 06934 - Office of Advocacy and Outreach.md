@@ -108,7 +108,7 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 
 #### (D) Other duties
 
-&emsp;&emsp;The Small Farms and Beginning Farmers and Ranchers Group may carry out other duties to improve access to, and participation in, programs of the Department by smallfarms and ranches and beginning farmers or ranchers, as determined by the Secretary.
+&emsp;&emsp;The Small Farms and Beginning Farmers and Ranchers Group may carry out other duties to improve access to, and participation in, programs of the Department by small farms and ranches and beginning farmers or ranchers, as determined by the Secretary.
 
 #### (f) Farmworker Coordinator
 
@@ -134,9 +134,13 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 
 #### (3) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2009 through 2012.
+&emsp;There are authorized to be appropriated to carry out this subsection—
 
-(Pub. L. 103–354, title II, §226B, as added Pub. L. 110–234, title XIV, §14013(a), May 22, 2008, 122 Stat. 1450, and Pub. L. 110–246, §4(a), title XIV, §14013(a), June 18, 2008, 122 Stat. 1664, 2212.)
+&emsp;&emsp;(A) such sums as are necessary for each of fiscal years 2009 through 2013; and
+
+&emsp;&emsp;(B) $2,000,000 for each of fiscal years 2014 through 2018.
+
+(Pub. L. 103–354, title II, §226B, as added Pub. L. 110–234, title XIV, §14013(a), May 22, 2008, 122 Stat. 1450, and Pub. L. 110–246, §4(a), title XIV, §14013(a), June 18, 2008, 122 Stat. 1664, 2212; amended Pub. L. 113–79, title XII, §12202, Feb. 7, 2014, 128 Stat. 984.)
 
 #### References in Text
 
@@ -149,6 +153,10 @@ Section 5(b) of the Agricultural Credit Improvement Act of 1992, referred to in 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (f)(3). Pub. L. 113–79 amended par. (3) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2009 through 2012."
 
 #### Effective Date
 

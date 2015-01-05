@@ -6,7 +6,7 @@ Consultation Regarding Appointment.—Before submitting a recommendation to the 
 
 (b)
 
-Concurrence in Appointment.—(1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 (50 U.S.C. 403–6(b)).<sup>1</sup>
+Concurrence in Appointment.—(1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 (50 U.S.C. 3041(b)).
 
 (2) Paragraph (1) applies to the following positions:
 
@@ -28,17 +28,15 @@ Performance Evaluations.—(1) The Director of National Intelligence shall provi
 
 &emsp;(C) The Director of the National Geospatial-Intelligence Agency.
 
-(Added Pub. L. 102–190, div. A, title IX, §922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, §1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, §921(d)(4), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(4), (5), (c)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(3)–(5), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
-
-#### References in Text
-
-The National Security Act of 1947, referred to in subsec. (b)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 106 of the Act is now classified to section 3041 of Title 50. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 102–190, div. A, title IX, §922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, §1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, §921(d)(4), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(4), (5), (c)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(3)–(5), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, §1071(c)(4), Dec. 19, 2014, 128 Stat. 3508.)
 
 #### Prior Provisions
 
 A prior section 201 was renumbered section 202 of this title and subsequently repealed.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3041(b))" for "(50 U.S.C. 403–6(b))".
 
 <b>2009</b>—Subsecs. (a), (b)(1), (c)(1). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(3)–(5). See 2008 Amendment notes below.
 
@@ -58,7 +56,7 @@ Pub. L. 110–181, §931(a)(5), and Pub. L. 110–417, §932(a)(5), amended par.
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made bysection 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Effective Date of 1996 Amendment
 
@@ -83,6 +81,4 @@ Management.—The center shall be managed by the Defense Intelligence Agency in 
 "(c)
 
 Responsiveness to Command Authorities.—The Secretary shall ensure that the center is fully responsive to the intelligence needs of the Secretary, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

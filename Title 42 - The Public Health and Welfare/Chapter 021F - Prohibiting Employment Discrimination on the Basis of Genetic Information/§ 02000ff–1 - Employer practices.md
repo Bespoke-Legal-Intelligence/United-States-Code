@@ -46,7 +46,7 @@ It shall be an unlawful employment practice for an employer to request, require,
 
 &emsp;&emsp;(E) the employer, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific employees; or
 
-&emsp;(6) where the employer conducts DNA analysis for law enforcement purposes as a forensic laboratory or for purposes of human remains identification, and requests or requires genetic information of such employer's employees, but only to the extent that such genetic information is used for analysis of DNA identificationmarkers for quality control to detect sample contamination.
+&emsp;(6) where the employer conducts DNA analysis for law enforcement purposes as a forensic laboratory or for purposes of human remains identification, and requests or requires genetic information of such employer's employees, but only to the extent that such genetic information is used for analysis of DNA identification markers for quality control to detect sample contamination.
 
 #### (c) Preservation of protections
 

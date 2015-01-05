@@ -24,7 +24,7 @@ The Administrator of FEMA and the Comptroller General of the United States, or a
 
 #### (d) Inventions and discoveries
 
-All property rights with respect to inventions and discoveries, which are made in the course of or under contract with any government agency pursuant to this chapter, shall be subject to the basic policies set forth in the President's Statement of Government Patent Policy issued August 23, 1971, or such revisions of that statement of the policy as may subsequently be promulgated and published in the Federal Register.
+All property rights with respect to inventions and discoveries, which are made in the course ofor under contract with any government agency pursuant to this chapter, shall be subject to the basic policies set forth in the President's Statement of Government Patent Policy issued August 23, 1971, or such revisions of that statement of the policy as may subsequently be promulgated and published in the Federal Register.
 
 #### (e) Coordination
 
@@ -104,7 +104,7 @@ Reports.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 20, 1997\], and annually thereafter, the Administrator shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budgetrequest to Congress under section 1105(a) of title 31, United States Code.
+In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 20, 1997\], and annually thereafter, the Administrator shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
 
 &emsp;&emsp;"(B)
 

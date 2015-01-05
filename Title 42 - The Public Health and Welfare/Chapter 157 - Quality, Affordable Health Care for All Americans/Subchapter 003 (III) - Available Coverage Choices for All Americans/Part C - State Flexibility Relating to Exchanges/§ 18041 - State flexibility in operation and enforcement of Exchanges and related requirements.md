@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, as soon as practicable after March 23, 2010, issue regulations settingstandards for meeting the requirements under this title,<sup>1</sup> and the amendments made by this title,<sup>1</sup> with respect to—
+&emsp;The Secretary shall, as soon as practicable after March 23, 2010, issue regulations setting standards for meeting the requirements under this title,<sup>1</sup> and the amendments made by this title,<sup>1</sup> with respect to—
 
 &emsp;&emsp;(A) the establishment and operation of Exchanges (including SHOP Exchanges);
 
@@ -72,7 +72,7 @@ Nothing in this title <sup>1</sup> shall be construed to preempt any State law 
 
 This title, referred to in subsecs. (a)(1) and (d), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
-Subtitles A and C, referred to in subsecs. (a)(1) and (c)(1)(B)(ii)(II), are subtitles A (§§1001–1004) and C (§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
+Subtitles A and C, referred to in subsecs. (a)(1) and (c)(1)(B)(ii)(II), are subtitles A (§§1001–1004) and C\(§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

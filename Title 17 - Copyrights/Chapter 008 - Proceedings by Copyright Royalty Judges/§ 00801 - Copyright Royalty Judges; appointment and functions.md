@@ -28,7 +28,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 > &emsp;&emsp;except that—
 
-&emsp;&emsp;&emsp;(I) if the average rates charged cable system subscribers for the basic service of providing secondary transmissions are changed so that the average rates exceed national monetary inflation, no change in the rates established by section 111(d)(1)(B) shall be permitted; and
+&emsp;&emsp;&emsp;(I) if the average rates charged cable system subscribers for the basic service of providing secondary transmissions arechanged so that the average rates exceed national monetary inflation, no change in the rates established by section 111(d)(1)(B) shall be permitted; and
 
 &emsp;&emsp;&emsp;(II) no increase in the royalty fee shall be permitted based on any reduction in the average number of distant signal equivalents per subscriber.
 
@@ -42,7 +42,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;&emsp;(C) In the event of any change in the rules and regulations of the Federal Communications Commission with respect to syndicated and sports program exclusivity after April 15, 1976, the rates established by section 111(d)(1)(B) may be adjusted to assure that such rates are reasonable in light of the changes to such rules and regulations, but any such adjustment shall apply only to the affected television broadcast signals carried on those systems affected by the change.
 
-&emsp;&emsp;(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) <sup>1</sup> shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribersfor the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
+&emsp;&emsp;(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) <sup>1</sup> shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
 
 &emsp;(3)(A) To authorize the distribution, under sections 111, 119, and 1007, of those royalty fees collected under sections 111, 119, and 1005, as the case may be, to the extent that the Copyright Royalty Judges have found that the distribution of such fees is not subject to controversy.
 
@@ -68,7 +68,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;(7)(A) To adopt as a basis for statutory terms and rates or as a basis for the distribution of statutory royalty payments, an agreement concerning such matters reached among some or all of the participants in a proceeding at any time during the proceeding, except that—
 
-&emsp;&emsp;(i) the Copyright Royalty Judges shall provide to those that would be bound by the terms, rates, or other determination set by any agreement in a proceeding to determine royalty rates an opportunity to comment on the agreement and shall provide to participants in the proceeding under section 803(b)(2) that would be bound by the terms, rates, or other determination set by the agreement an opportunity to comment on the agreement and object to its adoption as a basis for statutory terms and rates; and
+&emsp;&emsp;(i) the Copyright Royalty Judges shall provide to those that would be bound by theterms, rates, or other determination set by any agreement in a proceeding to determine royalty rates an opportunity to comment on the agreement and shall provide to participants in the proceeding under section 803(b)(2) that would be bound by the terms, rates, or other determination set by the agreement an opportunity to comment on the agreement and object to its adoption as a basis for statutory terms and rates; and
 
 &emsp;&emsp;(ii) the Copyright Royalty Judges may decline to adopt the agreement as a basis for statutory terms and rates for participants that are not parties to the agreement, if any participant described in clause (i) objects to the agreement and the Copyright Royalty Judges conclude, based on the record before them if one exists, that the agreement does not provide a reasonable basis for setting statutory terms or rates.
 
@@ -98,7 +98,7 @@ Effective Date of Actions.—On and after the date of the enactment of the Copyr
 
 #### References in Text
 
-Section 111(d)(1)(D) of this title, referred to in subsec. (b)(2)(D), was amended generally by Pub. L. 111–175,title I, §104(c)(1)(C), May 27, 2010, 124 Stat. 1232, and, as so amended, no longer relates to gross receipts limitations.
+Section 111(d)(1)(D) of this title, referred to in subsec. (b)(2)(D), was amended generally by Pub. L. 111–175, title I, §104(c)(1)(C), May 27, 2010, 124 Stat. 1232, and, as so amended, no longer relates to gross receipts limitations.
 
 The date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsec. (f), is the date of the enactment of Pub. L. 108–419, which was approved Nov. 30, 2004.
 
@@ -134,7 +134,7 @@ Transition Provisions.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraphs (2) and (3), the amendments made by this Act shall not affect any proceedings commenced, petitions filed, or voluntary agreements entered into before the effective date provided in subsection (a) under the provisions of title 17, United States Code, as amended by this Act, and pending on such effective date. Such proceedings shall continue, determinations made in such proceedings, and appeals taken therefrom, as if this Act had not been enacted, and shall continue in effect until modified under title 17, United States Code, as amended by this Act. Such petitions filed and voluntary agreements entered into shall remain in effect as if this Act had not been enacted. For purposes of this paragraph, the Librarian of Congress may determine whether a proceeding has commenced. The Librarian of Congress may terminate any proceeding commenced before the effective date provided in subsection (a) pursuant to chapter 8 of title 17, United States Code, and any proceeding so terminated shall become null and void. In such cases, the Copyright Royalty Judges may initiate a new proceeding in accordance with regulations adopted pursuant to section 803(b)(6) of title 17, United States Code.
+In general.—Subject to paragraphs (2) and (3), the amendments made by this Act shall not affect any proceedings commenced, petitions filed, or voluntary agreements entered into before the effective date provided in subsection (a) under the provisions of title 17, United States Code, as amended by this Act, and pending on such effective date. Such proceedings shall continue, determinations made in such proceedings, and appeals taken therefrom, as if this Act had not been enacted, and shall continue in effect until modified under title 17, United States Code, as amended by this Act. Such petitions filed and voluntary agreements entered into shall remain in effectas if this Act had not been enacted. For purposes of this paragraph, the Librarian of Congress may determine whether a proceeding has commenced. The Librarian of Congress may terminate any proceeding commenced before the effective date provided in subsection (a) pursuant to chapter 8 of title 17, United States Code, and any proceeding so terminated shall become null and void. In such cases, the Copyright Royalty Judges may initiate a new proceeding in accordance with regulations adopted pursuant to section 803(b)(6) of title 17, United States Code.
 
 &emsp;"(2)
 

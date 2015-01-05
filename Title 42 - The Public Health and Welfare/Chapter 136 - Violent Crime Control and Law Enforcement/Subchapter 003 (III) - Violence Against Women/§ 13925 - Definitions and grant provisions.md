@@ -18,7 +18,7 @@ In this subchapter:
 
 #### (4) Community-based organization
 
-&emsp;The term "community-based organization" means a nonprofit, nongovernmental, or tribal organization that serves a specific geographic community that—
+&emsp;The term "community-based organization" means a nonprofit, nongovernmental, or tribalorganization that serves a specific geographic community that—
 
 &emsp;&emsp;(A) focuses primarily on domestic violence, dating violence, sexual assault, or stalking;
 
@@ -262,7 +262,7 @@ In this subchapter:
 
 #### (43) Victim service provider
 
-&emsp;The term "victim service provider" means a nonprofit, nongovernmental or tribal organization or rape crisis center, including a State or tribal coalition, that assists or advocates for domestic violence, dating violence, sexual assault, or stalking victims, including domestic violence shelters, faith-based organizations, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
+&emsp;The term "victim service provider" means a nonprofit, nongovernmental or tribal organization or rape crisis center, including a State or tribal coalition, that assists or advocatesfor domestic violence, dating violence, sexual assault, or stalking victims, including domestic violence shelters, faith-based organizations, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
 #### (44) Victim services or services
 
@@ -388,11 +388,11 @@ In this subchapter:
 
 #### (A) Nondiscrimination
 
-&emsp;&emsp;No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080),<sup>2</sup> the Violence Against WomenReauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
+&emsp;&emsp;No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080),<sup>2</sup> the Violence Against Women Reauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
 
 #### (B) Exception
 
-&emsp;&emsp;If sex segregation or sex-specific programming is necessary to the essential operation of a program, nothing in this paragraph shall prevent any such program or activity from consideration of an individual's sex. In such circumstances, grantees may meet the requirements of this paragraph by providing comparable services to individuals who cannot be provided with the sex-segregated or sex-specific programming.
+&emsp;&emsp;If sex segregation or sex-specific programming is necessary to the essential operationof a program, nothing in this paragraph shall prevent any such program or activity from consideration of an individual's sex. In such circumstances, grantees may meet the requirements of this paragraph by providing comparable services to individuals who cannot be provided with the sex-segregated or sex-specific programming.
 
 #### (C) Discrimination
 
@@ -528,7 +528,7 @@ The Violence Against Women and Department of Justice Reauthorization Act of 2005
 
 The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (b)(13)(A), is Pub. L. 113–4, Mar. 7, 2013, 127 Stat. 54. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 13701 of this title and Tables.
 
-Section 3789d of this title, referred to in subsec. (b)(13)(C), was in the original a reference to "section3789d of title 42, United States Code" but probably should have been a reference to section 809 of Pub. L. 90–351, which is classified to section 3789d of this title.
+Section 3789d of this title, referred to in subsec. (b)(13)(C), was in the original a reference to "section 3789d of title 42, United States Code" but probably should have been a reference to section 809 of Pub. L. 90–351, which is classified to section 3789d of this title.
 
 The date of the enactment of this Act, referred to in subsec. (b)(16)(A)(i), (D), probably means the date of enactment of Pub. L. 113–4, which enacted subsec. (b)(16) of this section and was approved Mar. 7, 2013.
 
@@ -740,11 +740,11 @@ Pub. L. 109–162, title III, §301, Jan. 5, 2006, 119 Stat. 3003, provided that
 
 &emsp;"(6) Only one State specifically allows for minors to petition the court for protection orders.
 
-&emsp;"(7) Many youth are involved in dating relationships, and these relationships can include the same kind of domestic violence and dating violence seen in the adult population. In fact, more than 40 percent ofall incidents of domestic violence involve people who are not married.
+&emsp;"(7) Many youth are involved in dating relationships, and these relationships can include the same kind of domestic violence and dating violence seen in the adult population. In fact, more than 40 percent of all incidents of domestic violence involve people who are not married.
 
 &emsp;"(8) 40 percent of girls ages 14 to 17 report knowing someone their age who has been hit or beaten by a boyfriend, and 13 percent of college women report being stalked.
 
-&emsp;"(9) Of college women who said they had been the victims of rape or attempted rape, 12.8 percent of completed rapes, 35 percent of attempted rapes, and 22.9 percent of threatened rapes took place on a date. Almost 60 percent of the completed rapes that occurred on campus took place in the victim's residence.
+&emsp;"(9) Of college women who said they had been the victims of rape or attempted rape, 12.8 percent of completed rapes, 35 percent of attempted rapes, and 22.9 percent of threatened rapes took place on a date.Almost 60 percent of the completed rapes that occurred on campus took place in the victim's residence.
 
 &emsp;"(10) According to a 3-year study of student-athletes at 10 Division I universities, male athletes made up only 3.3 percent of the general male university population, but they accounted for 19 percent of the students reported for sexual assault and 35 percent of domestic violence perpetrators."
 

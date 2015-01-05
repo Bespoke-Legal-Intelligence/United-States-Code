@@ -10,7 +10,7 @@ Applicability.—The research, development, and technology provisions of this se
 
 &emsp;(2)
 
-Coverage.—Surface transportation research and technology development shall include all activities within the innovation lifecycle leading to technology development and transfer, as well as the introduction of new and innovative ideas, practices, and approaches, through such mechanisms as field applications, education and training, communications, impact analysis, and technical support.
+Coverage.—Surface transportation research and technology development shall include all activities within the innovation lifecycle leading to technology development and transfer, as well as the introduction ofnew and innovative ideas, practices, and approaches, through such mechanisms as field applications, education and training, communications, impact analysis, and technical support.
 
 &emsp;(3)
 
@@ -124,7 +124,7 @@ Cooperation, grants, and contracts.—The Secretary may carry out research, deve
 
 &emsp;(4)
 
-Technological innovation.—The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan of the Secretary developed under section 508.
+Technological innovation.—The programs and activities carried out under this section shall be consistent with the transportation research and development strategicplan of the Secretary developed under section 508.
 
 &emsp;(5)
 
@@ -224,7 +224,7 @@ Related entity.—In this subparagraph, the term "related entity" means a contra
 
 &emsp;&emsp;&emsp;(ii)
 
-Financial responsibility.—A participant shall obtain liability insurance ordemonstrate financial responsibility, in amounts determined by the Secretary, for claims by—
+Financial responsibility.—A participant shall obtain liability insurance or demonstrate financial responsibility, in amounts determined by the Secretary, for claims by—
 
 &emsp;&emsp;&emsp;&emsp;(I) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
 
@@ -324,7 +324,7 @@ Reports.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-In general.—The Secretary shall submit to the committees described in clause (i) on an annual basis a report on the activities carried out under subparagraph (A) in the preceding fiscal year ifthe Secretary exercised the authority under subparagraph (A) in that fiscal year.
+In general.—The Secretary shall submit to the committees described in clause (i) on an annual basis a report on the activities carried out under subparagraph (A) in the preceding fiscal year if the Secretary exercised the authority under subparagraph (A) in that fiscal year.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -416,7 +416,7 @@ Subsec. (a)(4)(B) to (G). Pub. L. 112–141, §52002(a)(2)(E), added subpars. (B
 
 Subsec. (a)(5). Pub. L. 112–141, §52002(a)(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(5)(C). Pub. L. 112–141, §52002(a)(2)(F), substituted "all highway objectives seeking to improve the performance of the transportation system" for "policy and planning".
+Subsec. (a)(5)(C). Pub. L. 112–141, §52002(a)(2)(F), substituted "all highway objectives seeking to improvethe performance of the transportation system" for "policy and planning".
 
 Subsec. (a)(6). Pub. L. 112–141, §52002(a)(2)(A), (G), redesignated par. (5) as (6) and inserted "tribal governments," after "local governments,". Former par. (6) redesignated (7).
 
@@ -484,7 +484,7 @@ Pub. L. 109–59, §5201(b)(1), redesignated subsec. (f) as (g). Former subsec. 
 
 Subsec. (h). Pub. L. 109–59, §5201(k), added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
 
-Pub. L. 109–59, §5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to besubmitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
+Pub. L. 109–59, §5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
 
 Subsec. (i). Pub. L. 109–59, §5201(l), added subsec. (i).
 
@@ -504,7 +504,7 @@ In General.—The Secretary \[of Transportation\] shall fund and carry out a pro
 
 "(b)
 
-Purposes.—The purpose of the TSIMS project is to further the development of a software application to provide for the collection, integration, management, and dissemination of safety data from and for use among State and local safety and transportation agencies, including driver licensing, vehicle registration, emergency management system, injury surveillance, roadway inventory, and motor carrier databases.
+Purposes.—The purpose of the TSIMS project is to further the development of a software application toprovide for the collection, integration, management, and dissemination of safety data from and for use among State and local safety and transportation agencies, including driver licensing, vehicle registration, emergency management system, injury surveillance, roadway inventory, and motor carrier databases.
 
 "(c)
 
@@ -848,7 +848,7 @@ Use of rights-of-way.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—An intelligent transportation system project described in this paragraph or paragraph (6) that involves privately owned intelligent transportation system components and is carried out using funds made available from the Highway Trust Fund shall not be subject to any law (including a regulation) of a State or political subdivision of a State prohibiting or regulatingcommercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been used for planning, design, construction, or maintenance for the project, if the Secretary determines that such use is in the public interest.
+In general.—An intelligent transportation system project described in this paragraph or paragraph (6) that involves privately owned intelligent transportation system components and is carried out using funds made available from the Highway Trust Fund shall not be subject to any law (including a regulation) of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been used for planning, design, construction, or maintenance for the project, if the Secretary determines that such use is in the public interest.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -868,7 +868,7 @@ Corrosion control and prevention.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall make a grant to conduct a study on the costs and benefits of corrosion control and prevention. The study shall be conducted in conjunction with an interdisciplinary team of experts from the fields of metallurgy, chemistry, economics, and others, as appropriate. Not later than September 30, 2001, the Secretary shall submit to Congress a report on the study results, together with any recommendations.
+In general.—The Secretary shall make a grant to conduct a study on the costs and benefits of corrosion control and prevention. The study shall be conducted in conjunction with an interdisciplinary team of experts from the fields of metallurgy, chemistry, economics, and others, as appropriate. Not later than September 30, 2001, theSecretary shall submit to Congress a report on the study results, together with any recommendations.
 
 &emsp;&emsp;"(B)
 
@@ -1102,7 +1102,7 @@ Guidelines and requirements.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall issue guidelines and requirements for the evaluation ofoperational tests and deployment projects carried out under this subtitle.
+In general.—The Secretary shall issue guidelines and requirements for the evaluation of operational tests and deployment projects carried out under this subtitle.
 
 &emsp;&emsp;"(B)
 
@@ -1118,7 +1118,7 @@ Special rule.—Any survey, questionnaire, or interview that the Secretary consi
 
 "(k)
 
-Use of Rights-of-Way.—Intelligent transportation system projects specified in section 5117(b)(3) and 5117(b)(6) \[set out above\] and involving privately owned intelligent transportation system components that is carried out using funds made available from the Highway Trust Fund shall not be subject to any law or regulation of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance, if the Secretary of Transportation determines that such use is in the public interest. Nothing in this subsection shall affect the authority of a State or political subdivision of a State to regulate highway safety.
+Use of Rights-of-Way.—Intelligent transportation system projects specified in section 5117(b)(3)and 5117(b)(6) \[set out above\] and involving privately owned intelligent transportation system components that is carried out using funds made available from the Highway Trust Fund shall not be subject to any law or regulation of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance, if the Secretary of Transportation determines that such use is in the public interest. Nothing in this subsection shall affect the authority of a State or political subdivision of a State to regulate highway safety.
 
 #### "SEC. 5205. NATIONAL ITS PROGRAM PLAN.
 

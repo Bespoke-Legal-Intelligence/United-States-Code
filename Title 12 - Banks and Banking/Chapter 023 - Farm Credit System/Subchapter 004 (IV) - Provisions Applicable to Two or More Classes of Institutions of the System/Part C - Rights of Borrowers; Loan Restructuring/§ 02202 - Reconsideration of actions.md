@@ -22,7 +22,7 @@
 
 #### (c) Personal appearance
 
-An applicant for a loan or for restructuring, who is entitled to and has requested a review under this section, may appear in person before the credit review committee, and may be accompanied by counsel or by any other representative of such person's choice, to seek a reversal of the decision on the application under review.
+An applicant for a loan or for restructuring, who is entitled to and has requested a reviewunder this section, may appear in person before the credit review committee, and may be accompanied by counsel or by any other representative of such person's choice, to seek a reversal of the decision on the application under review.
 
 #### (d) Independent appraisal
 
@@ -32,7 +32,7 @@ An applicant for a loan or for restructuring, who is entitled to and has request
 
 #### (2) Arrangement and cost
 
-&emsp;Within 30 days after a request for an appraisal under paragraph (1), the credit reviewcommittee shall present the borrower with a list of three appraisers approved by the appropriate qualified lender from which the borrower shall select an appraiser to conduct the appraisal the cost of which shall be borne by the borrower, and shall consider the results of such appraisal in any final determination with respect to the loan.
+&emsp;Within 30 days after a request for an appraisal under paragraph (1), the credit review committee shall present the borrower with a list of three appraisers approved by the appropriate qualified lender from which the borrower shall select an appraiser to conduct the appraisal the cost of which shall be borne by the borrower, and shall consider the results of such appraisal in any final determination with respect to the loan.
 
 #### (3) Copy to borrower
 

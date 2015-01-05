@@ -60,7 +60,7 @@ The Foundation shall maintain its principal office in the metropolitan area of W
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(6), was in the original "this title", meaning title IX of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1725, which enacted this subchapter and amended section 5314 of Title 5, Government Organization and Employees, section 9101 of Title 31, Money and Finance, and section 3021 of Title 50, Warand National Defense. For complete classification of title IX to the Code, see Tables.
+This subchapter, referred to in subsec. (a)(6), was in the original "this title", meaning title IX of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1725, which enacted this subchapter and amended section 5314 of Title 5, Government Organization and Employees, section 9101 of Title 31, Money and Finance, and section 3021 of Title 50, War and National Defense. For complete classification of title IX to the Code, see Tables.
 
 #### Codification
 

@@ -8,19 +8,19 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (1) In general
 
-&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $4,226,000,000 for each of fiscal years 2008 through 2012, of which, for each fiscal year—
+&emsp;The Secretary may make or guarantee loans under subchapters I and II from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $4,226,000,000 for each of fiscal years 2008 through 2018, of which, for each fiscal year—
 
 &emsp;&emsp;(A) $1,200,000,000 shall be for direct loans, of which—
 
-&emsp;&emsp;&emsp;(i) $350,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
+&emsp;&emsp;&emsp;(i) $350,000,000 shall be for farm ownership loans under subchapter I; and
 
-&emsp;&emsp;&emsp;(ii) $850,000,000 shall be for operating loans under subchapter II of this chapter; and
+&emsp;&emsp;&emsp;(ii) $850,000,000 shall be for operating loans under subchapter II; and
 
 &emsp;&emsp;(B) $3,026,000,000 shall be for guaranteed loans, of which—
 
-&emsp;&emsp;&emsp;(i) $1,000,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
+&emsp;&emsp;&emsp;(i) $1,000,000,000 shall be for guarantees of farm ownership loans under subchapter I; and
 
-&emsp;&emsp;&emsp;(ii) $2,026,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
+&emsp;&emsp;&emsp;(ii) $2,026,000,000 shall be for guarantees of operating loans under subchapter II.
 
 #### (2) Beginning farmers and ranchers
 
@@ -44,7 +44,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 &emsp;&emsp;&emsp;&emsp;(II) for fiscal year 1999, 30 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2008 through 2012, an amount that is not less than 50 percent of the total amount.
+&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2008 through 2018, an amount that is not less than 50 percent.
 
 #### (iii) Funds reserved until September 1
 
@@ -72,7 +72,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (a) of this section, subject to subparagraph (B)—
+&emsp;&emsp;Notwithstanding subsection (a), subject to subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) beginning on August 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers under the down payment loan program established under section 1935 of this title, if sufficient direct farm ownership loan funds are not otherwise available; and
 
@@ -86,7 +86,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (a) of this section, subject to subparagraphs (B) and (C), beginning on September 1 of each fiscal year, the Secretary may use available funds made available under subchapter III of this chapter for the fiscal year to fund the credit sale of farm real estate in the inventory of the Secretary.
+&emsp;&emsp;Notwithstanding subsection (a), subject to subparagraphs (B) and (C), beginning on September 1 of each fiscal year, the Secretary may use available funds made available under subchapter III for the fiscal year to fund the credit sale of farm real estate in the inventory of the Secretary.
 
 #### (B) Supplemental appropriations
 
@@ -106,7 +106,7 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 
 (2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
-(Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§5311, 5312, May 13, 2002, 116 Stat. 346, 347; Pub. L. 110–234, title V, §§5302(b), 5303, May 22, 2008, 122 Stat. 1152; Pub. L. 110–246, §4(a), title V, §§5302(b), 5303, June 18, 2008, 122 Stat. 1664, 1913, 1914.)
+(Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§5311, 5312, May 13, 2002, 116 Stat. 346, 347; Pub. L. 110–234, title V, §§5302(b), 5303, May 22, 2008, 122 Stat. 1152; Pub. L. 110–246, §4(a), title V, §§5302(b), 5303, June 18, 2008, 122 Stat. 1664, 1913, 1914; Pub. L. 113–79, title V, §§5304, 5305, Feb. 7, 2014, 128 Stat. 840.)
 
 #### References in Text
 
@@ -118,6 +118,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–79, §5304, substituted "2018" for "2012" in introductory provisions.
+
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 113–79, §5305, substituted "2018" for "2012" and struck out "of the total amount" before period at end.
+
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §5303(1), substituted "$4,226,000,000 for each of fiscal years 2008 through 2012" for "$3,796,000,000 for each of fiscal years 2003 through 2007" in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 110–246, §5303(2), in introductory provisions, substituted "$1,200,000,000" for "$770,000,000", in cl. (i), substituted "$350,000,000" for "$205,000,000", and, in cl. (ii), substituted "$850,000,000" for "$565,000,000".
@@ -128,7 +132,7 @@ Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, §5302(b)(1)(B), substituted "200
 
 Subsec. (b)(2)(B)(i). Pub. L. 110–246, §5302(b)(2), substituted "an amount that is not less than 40 percent of the total amount" for "25 percent".
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §5311, reenacted heading without change and amended text generally.Prior to amendment, text related to guaranteed loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for fiscal years 1996 to 2002.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §5311, reenacted heading without change and amended text generally. Prior to amendment, text related to guaranteed loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for fiscal years 1996 to 2002.
 
 Subsec. (b)(2)(A)(ii)(III). Pub. L. 107–171, §5312, substituted "2003 through 2007" for "2000 through 2002".
 

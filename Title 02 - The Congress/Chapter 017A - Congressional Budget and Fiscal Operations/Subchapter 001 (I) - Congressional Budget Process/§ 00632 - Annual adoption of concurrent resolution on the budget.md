@@ -24,7 +24,7 @@ On or before April 15 of each year, the Congress shall complete action on a conc
 
 The concurrent resolution on the budget may—
 
-&emsp;(1) set forth, if required by subsection (f) of this section, the calendar year in which, in the opinion of the Congress, the goals for reducing unemployment set forth in section 4(b) of the Employment Act of 1946 \[15 U.S.C. 1022a(b)\] should be achieved;
+&emsp;(1) set forth, if required by subsection (f), the calendar year in which, in the opinion of the Congress, the goals for reducing unemployment set forth in section 4(b) of the Employment Act of 1946 \[15 U.S.C. 1022a(b)\] should be achieved;
 
 &emsp;(2) include reconciliation directives described in section 641 of this title;
 
@@ -32,9 +32,9 @@ The concurrent resolution on the budget may—
 
 &emsp;(4) set forth such other matters, and require such other procedures, relating to the budget, as may be appropriate to carry out the purposes of this Act;
 
-&emsp;(5) include a heading entitled “Debt Increase as Measure of Deficit” in which the concurrent resolution shall set forth the amounts by which the debt subject to limit (in section 3101 of title 31) has increased or would increase in each of the relevant fiscal years;
+&emsp;(5) include a heading entitled "Debt Increase as Measure of Deficit" in which the concurrent resolution shall set forth the amounts by which the debt subject to limit (in section 3101 of title 31) has increased or would increase in each of the relevant fiscal years;
 
-&emsp;(6) include a heading entitled “Display of Federal Retirement Trust Fund Balances” in which the concurrent resolution shall set forth the balances of the Federal retirement trust funds;
+&emsp;(6) include a heading entitled "Display of Federal Retirement Trust Fund Balances" in which the concurrent resolution shall set forth the balances of the Federal retirement trust funds;
 
 &emsp;(7) set forth procedures in the Senate whereby committee allocations, aggregates, and other levels can be revised for legislation if that legislation would not increase the deficit, or would not increase the deficit when taken with other legislation enacted after the adoption of the resolution, for the first fiscal year or the total period of fiscal years covered by the resolution;
 
@@ -48,13 +48,13 @@ If the Committee on the Budget of the House of Representatives reports any concu
 
 #### (d) Views and estimates of other committees
 
-Within 6 weeks after the President submits a budget under section 1105(a) of title 31, or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to thefiscal policy appropriate to the goals of the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee <sup>1</sup> of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
+Within 6 weeks after the President submits a budget under section 1105(a) of title 31, or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) which relate to matters within its jurisdiction or functions. Any Committee <sup>1</sup> of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
 
 #### (e) Hearings and report
 
 #### (1) In general
 
-&emsp;In developing the concurrent resolution on the budget referred to in subsection (a) of this section for each fiscal year, the Committee on the Budget of each House shall hold hearings and shall receive testimony from Members of Congress and such appropriate representatives of Federal departments and agencies, the general public, and national organizations as the committee deems desirable. Each of the recommendations as to short-term and medium-term goals set forth in the report submitted by the members of the Joint Economic Committee under subsection (d) of this section may be considered by the Committee on the Budget of each House as part of its consideration of such concurrent resolution, and its report may reflect its views thereon, including its views on how the estimates of revenues and levels of budget authority and outlays set forth in such concurrent resolution are designed to achieve any goals it is recommending.
+&emsp;In developing the concurrent resolution on the budget referred to in subsection (a) for each fiscal year, the Committee on the Budget of each House shall hold hearings and shall receive testimony from Members of Congress and such appropriate representatives of Federal departments and agencies, the general public, and national organizations as the committee deems desirable. Each of the recommendations as to short-term and medium-term goals set forth in the report submitted by the members of the Joint Economic Committee under subsection (d) may be considered by the Committee on the Budget of each House as part of its consideration of such concurrent resolution, and its report may reflect its views thereon, including its views on how the estimates of revenues and levels of budget authority and outlays set forth in such concurrent resolution are designed to achieve any goals it is recommending.
 
 #### (2) Required contents of report
 
@@ -92,7 +92,7 @@ Within 6 weeks after the President submits a budget under section 1105(a) of tit
 
 (2) After the Congress has expressed its opinion pursuant to paragraph (1) as to the year in which the goals for reducing unemployment set forth in section 4(b) of the Employment Act of 1946 \[15 U.S.C. 1022a(b)\] can be achieved, if, pursuant to section 4(e) of such Act \[15 U.S.C. 1022a(e)\], the President recommends in the Economic Report that such goals be achieved in a year which is different from the year in which the Congress has expressed its opinion that such goals should be achieved, either in its action pursuant to paragraph (1) or in its most recent action pursuant to this paragraph, the concurrent resolution on the budget for the fiscal year beginning after the date on which such Economic Report is received by the Congress may set forth the year in which, in the opinion of the Congress, such goals can be achieved.
 
-(3) It shall be in order to amend the provision of such resolution setting forth such year only if the amendment thereto also proposes to alter the estimates, amounts, and levels (as described in subsection (a) of this section) set forth in such resolution in germane fashion in order to be consistent with the economic goals (as described in sections 3(a)(2) and 4(b) of the Employment Act of 1946 \[15 U.S.C. 1022(a)(2), 1022a(b)\]) which such amendment proposes can be achieved by the year specified in such amendment.
+(3) It shall be in order to amend the provision of such resolution setting forth such year only if the amendment thereto also proposes to alter the estimates, amounts, and levels (as described in subsection (a)) set forth in such resolution in germane fashion in order to be consistent with the economic goals (as described in sections 3(a)(2) and 4(b) of the Employment Act of 1946 \[15 U.S.C. 1022(a)(2), 1022a(b)\]) which such amendment proposes can be achieved by the year specified in such amendment.
 
 #### (g) Economic assumptions
 
@@ -118,7 +118,7 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a) and (i), is classified generally to Title 26, Internal Revenue Code.
 
-This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, andsection 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 The Employment Act of 1946, referred to in subsec. (d), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of Title 15 and Tables.
 
@@ -130,27 +130,27 @@ Section was formerly classified to section 1322 of Title 31 prior to the general
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–67, §122(2), substituted “old-age” for “old age” in concluding provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 113–67, §122(2), substituted "old-age" for "old age" in concluding provisions.
 
-Subsec. (a)(6), (7). Pub. L. 113–67, §122(1), substituted “for purposes” for “For purposes”.
+Subsec. (a)(6), (7). Pub. L. 113–67, §122(1), substituted "for purposes" for "For purposes".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10105(a), in introductory provisions, substituted "and for at least each of the 4 ensuing fiscal years" for ", and planning levels for each of the two ensuing fiscal years,".
 
-Subsec. (a)(1), (4). Pub. L. 105–33, §10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
+Subsec. (a)(1), (4). Pub. L. 105–33, §10105(b), substituted "and outlays" for ", budget outlays, direct loan obligations, and primary loan guarantee commitments".
 
 Subsec. (b)(7). Pub. L. 105–33, §10105(c)(1), added par. (7) and struck out former par. (7) which related to setting forth pay-as-you-go procedures for the Senate.
 
 Subsec. (b)(9). Pub. L. 105–33, §10105(c)(2), (3), added par. (9).
 
-Subsec. (d). Pub. L. 105–33, §10105(d), in first sentence, inserted “or at such time as may be requested by the Committee on the Budget,” after “title 31,”.
+Subsec. (d). Pub. L. 105–33, §10105(d), in first sentence, inserted "or at such time as may be requested by the Committee on the Budget," after "title 31,".
 
 Subsec. (e). Pub. L. 105–33, §10105(e), designated existing provisions as par. (1), inserted par. heading, added pars. (2) and (3), and struck out former last sentence consisting of pars. (1) to (9) which contained requirements for contents of report to accompany the concurrent resolution on the budget.
 
-Subsec. (i). Pub. L. 105–33, §10105(f)(1), inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
+Subsec. (i). Pub. L. 105–33, §10105(f)(1), inserted heading and substituted "(or amendment, motion, or conference report on the resolution)" for "as reported to the Senate".
 
-<b>1995</b>—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will considerany proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–4 inserted at end "Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13301(b), inserted at end: "The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter."
 
 Subsec. (a)(6), (7). Pub. L. 101–508, §13303(a), added pars. (6) and (7).
 
@@ -158,17 +158,17 @@ Subsec. (b)(5), (6). Pub. L. 101–508, §13203, added pars. (5) and (6).
 
 Subsec. (b)(7), (8). Pub. L. 101–508, §13204, added pars. (7) and (8).
 
-Subsec. (d). Pub. L. 101–508, §13112(a)(5), substituted “Within 6 weeks after the President submits a budget under section 1105(a) of title 31” for “On or before February 25 of each year”.
+Subsec. (d). Pub. L. 101–508, §13112(a)(5), substituted "Within 6 weeks after the President submits a budget under section 1105(a) of title 31" for "On or before February 25 of each year".
 
 Subsec. (i). Pub. L. 101–508, §13303(b), amended subsec. (i) generally, substituting present provisions for former provisions relating to maximum deficit amounts.
 
 <b>1988</b>—Subsec. (e)(10). Pub. L. 100–418 temporarily added par. (10). See Effective and Termination Dates of 1988 Amendment note below.
 
-<b>1987</b>—Subsec. (g). Pub. L. 100–119, §208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
+<b>1987</b>—Subsec. (g). Pub. L. 100–119, §208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based."
 
 Subsec. (i)(2). Pub. L. 100–119, §106(d), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-<b>1985</b>—Pub. L. 99–177 substituted “Adoption of concurrent resolution on the budget” for “Adoption of first concurrent resolution” in section catchline.
+<b>1985</b>—Pub. L. 99–177 substituted "Adoption of concurrent resolution on the budget" for "Adoption of first concurrent resolution" in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, substituting provisions relating to content of concurrent resolution on the budget, for provisions relating to action required to be completed by May 15 of each year.
 
@@ -184,7 +184,7 @@ Subsecs. (f) to (i). Pub. L. 99–177, §§201(b), 275(b)(2)(B), in amending sec
 
 <b>1978</b>—Subsec. (a)(6), (7). Pub. L. 95–523, §304(a), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (d). Pub. L. 95–523, §303(a), which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forth in the Joint Economic Committee report and the reflection of its views in its report and insertion of “also” after “concurrent resolution shall” was executed to subsec. (d) to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 95–523, §303(a), which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forth in the Joint Economic Committee report and the reflection of its views in its report and insertion of "also" after "concurrent resolution shall" was executed to subsec. (d) to reflect the probable intent of Congress.
 
 Subsec. (e). Pub. L. 95–523, §304(b), added subsec. (e).
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XIII, §13306, Nov. 5, 1990, 104 Stat. 1388–628, provided that: “Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
+Pub. L. 101–508, title XIII, §13306, Nov. 5, 1990, 104 Stat. 1388–628, provided that: "Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991."
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -206,53 +206,53 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 #### Exclusion of Social Security From All Budgets
 
-Pub. L. 101–508, title XIII, §13301(a), Nov. 5, 1990, 104 Stat. 1388–623, provided that: “Notwithstanding any other provision of law, the receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund shall not be counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of—
+Pub. L. 101–508, title XIII, §13301(a), Nov. 5, 1990, 104 Stat. 1388–623, provided that: "Notwithstanding any other provision of law, the receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund shall not be counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of—
 
-&emsp;“(1) the budget of the United States Government as submitted by the President,
+&emsp;"(1) the budget of the United States Government as submitted by the President,
 
-&emsp;“(2) the congressional budget, or
+&emsp;"(2) the congressional budget, or
 
-&emsp;“(3) the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of this title\].”
+&emsp;"(3) the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of this title\]."
 
 #### Protection of OASDI Trust Funds in House of Representatives
 
 Pub. L. 101–508, title XIII, §13302, Nov. 5, 1990, 104 Stat. 1388–623, provided that:
 
-“(a)
+"(a)
 
 In General.—It shall not be in order in the House of Representatives to consider any bill or joint resolution, as reported, or any amendment thereto or conference report thereon, if, upon enactment—
 
-&emsp;“(1)(A) such legislation under consideration would provide for a net increase in OASDI benefits of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in the most recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act \[42 U.S.C. 401(c)(2)\], and (B) such legislation under consideration does not provide at least a net increase, for such 75-year period, in OASDI taxes of the amount by which the net increase in such benefits exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period,
+&emsp;"(1)(A) such legislation under consideration would provide for a net increase in OASDI benefits of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in the most recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act \[42 U.S.C. 401(c)(2)\], and (B) such legislation under consideration does not provide at least a net increase, for such 75-year period, in OASDI taxes of the amount by which the net increase in such benefits exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period,
 
-&emsp;“(2)(A) such legislation under consideration would provide for a net increase in OASDI benefits (for the 5-year estimating period for such legislation under consideration), (B) such net increase, together with the net increases in OASDI benefits resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net increase, for the 5-year estimating period for such legislation under consideration, in OASDI taxes which, together with net increases in OASDI taxes resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net increase derived under subparagraph (B) exceeds $250,000,000;
+&emsp;"(2)(A) such legislation under consideration would provide for a net increase in OASDI benefits (for the 5-year estimating period for such legislation under consideration), (B) such net increase, together with the net increases in OASDI benefits resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net increase, for the 5-year estimating period for such legislation under consideration, in OASDI taxes which, together with net increases in OASDI taxes resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net increase derived under subparagraph (B) exceeds $250,000,000;
 
-&emsp;“(3)(A) such legislation under consideration would provide for a net decrease in OASDI taxes of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in the most recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act, and (B) such legislation under consideration does not provide at least a net decrease, for such 75-year period, in OASDI benefits of the amount by which the net decrease in such taxes exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period, or
+&emsp;"(3)(A) such legislation under consideration would provide for a net decrease in OASDI taxes of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in the most recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act, and (B) such legislation under consideration does not provide at least a net decrease, for such 75-year period, in OASDI benefits of the amount by which the net decrease in such taxes exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period, or
 
-&emsp;“(4)(A) such legislation under consideration would provide for a net decrease in OASDI taxes (for the 5-year estimating period for such legislation under consideration), (B) such net decrease, together with the net decreases in OASDI taxes resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net decrease, for the 5-year estimating period for such legislation under consideration, in OASDI benefits which, together with net decreases in OASDI benefits resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net decrease derived under subparagraph (B) exceeds $250,000,000.
+&emsp;"(4)(A) such legislation under consideration would provide for a net decrease in OASDI taxes (for the 5-year estimating period for such legislation under consideration), (B) such net decrease, together with the net decreases in OASDI taxes resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net decrease, for the 5-year estimating period for such legislation under consideration, in OASDI benefits which, together with net decreases in OASDI benefits resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net decrease derived under subparagraph (B) exceeds $250,000,000.
 
-“(b)
+"(b)
 
 Application.—In applying paragraph (3) or (4) of subsection (a), any provision of any bill or joint resolution, as reported, or any amendment thereto, or conference report thereon, the effect of which is to provide for a net decrease for any period in taxes described in subsection (c)(2)(A) shall be disregarded if such bill, joint resolution, amendment, or conference report also includes a provision the effect of which is to provide for a net increase of at least an equivalent amount for such period in medicare taxes.
 
-“(c)
+"(c)
 
 Definitions.—For purposes of this subsection:
 
-&emsp;“(1) The term ‘OASDI benefits’ means the benefits under the old-age, survivors, and disability insurance programs under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
+&emsp;"(1) The term 'OASDI benefits' means the benefits under the old-age, survivors, and disability insurance programs under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
 
-&emsp;“(2) The term ‘OASDI taxes’ means—
+&emsp;"(2) The term 'OASDI taxes' means—
 
-&emsp;&emsp;“(A) the taxes imposed under sections 1401(a), 3101(a), and 3111(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 1401(a), 3101(a), 3111(a)\], and
+&emsp;&emsp;"(A) the taxes imposed under sections 1401(a), 3101(a), and 3111(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 1401(a), 3101(a), 3111(a)\], and
 
-&emsp;&emsp;“(B) the taxes imposed under chapter 1 of such Code \[26 U.S.C. 1 et seq.\] (to the extent attributable to section 86 of such Code \[26 U.S.C. 86\]).
+&emsp;&emsp;"(B) the taxes imposed under chapter 1 of such Code \[26 U.S.C. 1 et seq.\] (to the extent attributable to section 86 of such Code \[26 U.S.C. 86\]).
 
-&emsp;“(3) The term ‘medicare taxes’ means the taxes imposed under sections 1401(b), 3101(b), and 3111(b) of the Internal Revenue Code of 1986.
+&emsp;"(3) The term 'medicare taxes' means the taxes imposed under sections 1401(b), 3101(b), and 3111(b) of the Internal Revenue Code of 1986.
 
-&emsp;“(4) The term ‘previous legislation’ shall not include legislation enacted before fiscal year 1991.
+&emsp;"(4) The term 'previous legislation' shall not include legislation enacted before fiscal year 1991.
 
-&emsp;“(5) The term ‘5-year estimating period’ means, with respect to any legislation, the fiscal year in which such legislation becomes or would become effective and the next 4 fiscal years.
+&emsp;"(5) The term '5-year estimating period' means, with respect to any legislation, the fiscal year inwhich such legislation becomes or would become effective and the next 4 fiscal years.
 
-&emsp;“(6) No provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 shall be treated as affecting the amount of OASDI taxes referred to in paragraph (2)(B) unless such provision changes the income tax treatment of OASDI benefits.”
+&emsp;"(6) No provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 shall be treated as affecting the amount of OASDI taxes referred to in paragraph (2)(B) unless such provision changes the income tax treatment of OASDI benefits."
 
 #### Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982
 

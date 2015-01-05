@@ -24,7 +24,7 @@ As used in this chapter—
 
 &emsp;(7) The term "Secretary" means the Secretary of the Interior.
 
-&emsp;(8) The term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the TrustTerritory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+&emsp;(8) The term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 96–366, §3, Sept. 29, 1980, 94 Stat. 1323.)
 

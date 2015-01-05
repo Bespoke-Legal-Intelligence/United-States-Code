@@ -46,7 +46,7 @@ Aug. 14, 1957, Pub. L. 85–136, 71 Stat. 352.
 
 &nbsp;
 
-June 20, 1958, Pub. L. 85–462, §§10 (less “(i)”), 11, 72 Stat. 213, 213A.
+June 20, 1958, Pub. L. 85–462, §§10 (less "(i)"), 11, 72 Stat. 213, 213A.
 
 &nbsp;
 
@@ -94,13 +94,13 @@ Sept. 6, 1958, Pub. L. 85–927, §3, 72 Stat. 1781.
 
 The section is reorganized for clarity.
 
-In subsection (a)(2), the date “October 4, 1961” is substituted for “the date of enactment of this subparagraph”.
+In subsection (a)(2), the date "October 4, 1961" is substituted for "the date of enactment of this subparagraph".
 
 Subsection (c)(6) is added on authority of section 302 of the Act of July 29, 1958, Pub. L. 85–568, 72 Stat. 433, 42 U.S.C. 2453, and Transfer Plan, effective March 15, 1960, 25 F.R. 2151, section 2(c) of which in effect transferred from the Department of Defense to the National Aeronautics and Space Administration 5 of the 372 positions authorized to be placed in GS–16, 17, and 18 pursuant to section 1(a) of the Act of Sept. 23, 1959, Pub. L. 86–377, 73 Stat. 700.
 
-In subsection (c)(8), the words “on and after July 7, 1955” are omitted as obsolete.
+In subsection (c)(8), the words "on and after July 7, 1955" are omitted as obsolete.
 
-In subsection (d), the words “subsequent to February 1, 1958” are omitted as obsolete and the words “of the Government” are omitted as unnecessary.
+In subsection (d), the words "subsequent to February 1, 1958" are omitted as obsolete and the words "of the Government" are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -112,29 +112,29 @@ The amendment to 5 U.S.C. 5108(c)(5) corrects a typographical error and conforms
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–68 added subsec. (c).
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–372 inserted “published by the Director of the Office of Personnel Management in such form as the Director may determine” after “and procedures”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–372 inserted "published by the Director of the Office of Personnel Management in such form as the Director may determine" after "and procedures".
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–378 substituted a period for semicolon at end.
 
 <b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions relating to classification of positions above GS–15, consisting of subsecs. (a) and (b), for provisions relating to classification of provisions at GS–16, 17, and 18, consisting of subsecs. (a) to (c).
 
-Subsec. (c). Pub. L. 101–474 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: “the Director of the Administrative Office of the United States Courts, subject to the standards and procedures prescribed by this chapter, may place a total of 17 positions in GS–16, 17, and 18; and”.
+Subsec. (c). Pub. L. 101–474 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: "the Director of the Administrative Office of the United States Courts, subject to the standards and procedures prescribed by this chapter, may place a total of 17 positions in GS–16, 17, and 18; and".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–325 added cl. (iii) and substituted “the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service” for “GS–16, 17, and 18 in the Federal Bureau of Investigation” in last sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–325 added cl. (iii) and substituted "the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service" for "GS–16, 17, and 18 in the Federal Bureau of Investigation" in last sentence.
 
-Subsec. (c)(1). Pub. L. 100–702 substituted “17 positions” for “15 positions”.
+Subsec. (c)(1). Pub. L. 100–702 substituted "17 positions" for "15 positions".
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–191 struck out par. (1) which authorized Comptroller General, subject to procedures prescribed by this section, to place a total of 90 positions in General Accounting Office in GS–16, 17, and 18, and redesignated pars. (2) to (4) as (1) to (3), respectively.
 
 <b>1979</b>—Subsec. (c)(4), (17). Pub. L. 96–54 redesignated par. (17), relating to executive departments or agencies in which boards of contracts appeals are established, as par. (4).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–630 substituted “3,310” for “3,301”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–630 substituted "3,310" for "3,301".
 
-Pub. L. 95–612 substituted “3362” for “3301”.
+Pub. L. 95–612 substituted "3362" for "3301".
 
 Pub. L. 95–454, §414(a)(1)(C), substituted provisions authorizing Director of Office of Personnel Management to establish the maximum number of positions, not to exceed 10,777, which may be placed in GS–16, 17, and 18, and the Senior Executive Service and to place positions in GS–16, 17, or 18, and requiring the President to carry out the Director's authority for proposed positions in the Federal Bureau of Investigation for provisions authorizing a majority of the Civil Service Commissioners to establish the maximum number of positions, not to exceed 3362 (in addition to certain specified positions), which may be placed in GS–16, 17, and 18, placing a percentage limitation on the number of positions placed in GS–17 and 18, and requiring the approval of a majority of the Commissioners to place positions in GS–16, 17, or 18.
 
-Pub. L. 95–251 substituted “340 administrative law judge” for “240 hearing examiner”.
+Pub. L. 95–251 substituted "340 administrative law judge" for "240 hearing examiner".
 
 Subsec. (c)(2). Pub. L. 95–454, §414(a)(1)(A)(i), (D)(i), redesignated par. (3), relating to the Director of the Administrative Office of the United States, as (2) and repealed former par. (2) relating to the Federal Bureau of Investigation.
 
@@ -144,7 +144,7 @@ Pub. L. 95–454, §414(a)(1)(D), redesignated par. (12), relating to the Chief 
 
 Subsec. (c)(4) to (11). Pub. L. 95–454, §414(a)(1)(A)(i), repealed par. (4) relating to the Commissioner of Immigration and Naturalization, par. (5) relating to the Secretary of Defense, par. (6) relating to the Administrator of the National Aeronautics and Space Administration, pars. (7) and (8) relating to the Attorney General, par. (9) relating to the Railroad Retirement Board, par. (10) relating to the Secretary of Labor and the Occupational Safety and Health Review Commission, and par. (11) relating to the Law Enforcement Assistance Administration.
 
-Subsec. (c)(8). Pub. L. 95–624 substituted “45” for “32”.
+Subsec. (c)(8). Pub. L. 95–624 substituted "45" for "32".
 
 Subsec. (c)(12). Pub. L. 95–454, §414(a)(1)(D)(i), redesignated par. (12) relating to the Chief Judge of the United States Tax Court, as (3).
 
@@ -160,11 +160,11 @@ Subsec. (f). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (f) which au
 
 Subsec. (g). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (g) which authorized Pension Benefit Guaranty Corporation to place additional positions in grades GS–16, 17, and 18.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–219 substituted “3301” for “3293”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–219 substituted "3301" for "3293".
 
-Pub. L. 95–190 substituted “3293” for “3243”.
+Pub. L. 95–190 substituted "3293" for "3243".
 
-Pub. L. 95–91 substituted “3243” for “2754”.
+Pub. L. 95–91 substituted "3243" for "2754".
 
 <b>1976</b>—Subsec. (c)(7). Pub. L. 94–233 restructured provisions and, as restructured, deleted authority relating to 8 positions of Member of the Board of Parole in GS–17.
 
@@ -188,21 +188,21 @@ Subsec. (f). Pub. L. 93–406, §507(b), added subsec. (f).
 
 Subsec. (g). Pub. L. 93–406, §4002(c), added subsec. (g).
 
-<b>1973</b>—Subsec. (c)(10). Pub. L. 93–83 substituted in par. (10) as added by Pub. L. 91–644 “twenty-two” for “twenty”.
+<b>1973</b>—Subsec. (c)(10). Pub. L. 93–83 substituted in par. (10) as added by Pub. L. 91–644 "twenty-two" for "twenty".
 
 <b>1972</b>—Subsec. (c). Pub. L. 92–261 added par. (11).
 
-<b>1971</b>—Subsec. (a). Pub. L. 91–656, §9(b), substituted “2,754” for “2,734”.
+<b>1971</b>—Subsec. (a). Pub. L. 91–656, §9(b), substituted "2,754" for "2,734".
 
 Subsec. (c)(10). Pub. L. 91–656, §9(a), added par. (10) relating to Chief Judge of the United States Tax Court.
 
 Pub. L. 91–644 added par. (10) relating to Law Enforcement Assistance Administration.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–206 substituted “2,734” for “2,727”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–206 substituted "2,734" for "2,727".
 
 Subsec. (c)(10). Pub. L. 91–596 added par. (10) relating to positions in the Department of Labor.
 
-<b>1969</b>—Subsec. (a). Pub. L. 91–187, §1(a), substituted “2,727” for “2,577”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–187, §1(a), substituted "2,727" for "2,577".
 
 Subsec. (b)(2). Pub. L. 91–187, §1(b), increased number of positions in Library of Congress from 28 to 44.
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–702, title I, §109, Nov. 19, 1988, 102 Stat. 4645, provided that: “This title \[amending this section\] shall become effective on January 1, 1989.”
+Pub. L. 100–702, title I, §109, Nov. 19, 1988, 102 Stat. 4645, provided that: "This title \[amending this section\] shall become effective on January 1, 1989."
 
 #### Effective Date of 1980 Amendment
 
@@ -280,21 +280,21 @@ Pub. L. 95–612, §3(a), (c), Nov. 8, 1978, 92 Stat. 3091, 3092, relating to th
 
 #### Termination of Authority To Place Positions in GS–16, 17, or 18 of the General Schedule
 
-Pub. L. 95–454, title IV, §414(a)(1)(B), Oct. 13, 1978, 92 Stat. 1177, provided that: “Notwithstanding any other provision of law (other than section 5108 of such title 5), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5 under any such provision to place one or more positions in GS–16, 17, or 18 of the General Schedule, is hereby terminated.”
+Pub. L. 95–454, title IV, §414(a)(1)(B), Oct. 13, 1978, 92 Stat. 1177, provided that: "Notwithstanding any other provision of law (other than section 5108 of such title 5), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5 under any such provision to place one or more positions in GS–16, 17, or 18 of the General Schedule, is hereby terminated."
 
 #### Limitations on Executive Positions Not To Apply to Individuals Occupying Those Positions on October 12, 1978
 
 Pub. L. 95–454, title IV, §414(a)(3), Oct. 13, 1978, 92 Stat. 1178, provided that:
 
-“(A) The provisions of paragraphs (1) and (2) of this subsection \[amending sections 3104 and 5108 of this title\] shall not apply with respect to any position so long as the individual occupying such position on the day before the date of the enactment of this Act \[Oct. 13, 1978\] continues to occupy such position.
+"(A) The provisions of paragraphs (1) and (2) of this subsection \[amending sections 3104 and 5108 of this title\] shall not apply with respect to any position so long as the individual occupying such position on the day before the date of the enactment of this Act \[Oct. 13, 1978\] continues to occupy such position.
 
-“(B) The Director—
+"(B) The Director—
 
-&emsp;“(i) in establishing under section 5108 of title 5, United States Code, the maximum number of positions which may be placed in GS–16, 17, and 18 of the General Schedule, and
+&emsp;"(i) in establishing under section 5108 of title 5, United States Code, the maximum number of positions which may be placed in GS–16, 17, and 18 of the General Schedule, and
 
-&emsp;“(ii) in establishing under section 3104 of such title 5 the maximum number of scientific or professional positions which may be established,
+&emsp;"(ii) in establishing under section 3104 of such title 5 the maximum number of scientific or professional positions which may be established,
 
-> shall take into account positions to which subparagraph (A) of this paragraph applies.”
+> shall take into account positions to which subparagraph (A) of this paragraph applies."
 
 \[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.\]
 

@@ -6,7 +6,7 @@ Appropriations for any fiscal year for grants, loans, contracts, or other paymen
 
 #### (b) Succeeding fiscal year
 
-(1) Notwithstanding any other provision of law, unless enacted in specific limitation of the provisions of this subsection, any funds from appropriations to carry out any programs to which this chapter is applicable during any fiscal year, which are not obligated and expended by educational agencies or institutions prior to the beginning of the fiscal year succeeding the fiscal year for which such funds were appropriated shall remain available for obligation and expenditure by such agencies and institutions during such succeeding fiscal year.
+(1) Notwithstanding any other provision of law, unless enacted in specific limitation of the provisions of this subsection, any funds from appropriations to carry out any programs to which this chapter is applicable during any fiscal year,which are not obligated and expended by educational agencies or institutions prior to the beginning of the fiscal year succeeding the fiscal year for which such funds were appropriated shall remain available for obligation and expenditure by such agencies and institutions during such succeeding fiscal year.
 
 (2) Any funds under any applicable program which, pursuant to paragraph (1), are available for obligation and expenditure in the year succeeding the fiscal year for which they were appropriated shall be obligated and expended in accordance with—
 
@@ -60,5 +60,5 @@ Pub. L. 93–380, title V, §506(b), Aug. 21, 1974, 88 Stat. 565, provided that:
 
 #### Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions
 
-Pub. L. 94–482, title III, §327, Oct. 12, 1976, 90 Stat. 2220, provided that: "The provisions of section 414 \[now422\] of the General Education Provisions Act \[section 1226a of this title\], relating to the contingent extension of applicable programs, shall not apply to the Indochina Refugee Children Assistance Act of 1976 \[former section 1211b of this title\], or to any program of financial assistance for educational purposes for Indochinese refugee children."
+Pub. L. 94–482, title III, §327, Oct. 12, 1976, 90 Stat. 2220, provided that: "The provisions of section 414 \[now 422\] of the General Education Provisions Act \[section 1226a of this title\], relating to the contingent extension of applicable programs, shall not apply to the Indochina Refugee Children Assistance Act of 1976 \[former section 1211b of this title\], or to any program of financial assistance for educational purposes for Indochinese refugee children."
 

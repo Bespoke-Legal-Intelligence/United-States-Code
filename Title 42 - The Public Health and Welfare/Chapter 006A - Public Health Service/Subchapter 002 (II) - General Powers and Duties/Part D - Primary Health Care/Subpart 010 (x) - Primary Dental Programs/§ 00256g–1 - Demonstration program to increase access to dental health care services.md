@@ -28,7 +28,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 &emsp;&emsp;(D) an Indian Health Service facility or a tribe or tribal organization (as such terms are defined in section 450b of title 25);
 
-&emsp;&emsp;(E) a State or county public health clinic, a health facility operated by an Indian tribe or tribal organization, or urban Indian organization providing dental services; or
+&emsp;&emsp;(E) a State or county public health clinic, a health facility operated by an Indian tribeor tribal organization, or urban Indian organization providing dental services; or
 
 &emsp;&emsp;(F) a public hospital or health system;
 

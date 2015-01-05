@@ -50,13 +50,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b). Pub. L. 113–61 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to southern judicial district of Mississippi comprising five divisions and provided for holding court in those divisions.
+<b>2013</b>—Subsec. (b). Pub. L. 113–61 amended subsec. (b) generally. Prior to amendment, subsec. (b) related tosouthern judicial district of Mississippi comprising five divisions and provided for holding court in those divisions.
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–188 added subsec. (a) and struck out former subsec. (a) which related to northern judicial district of Mississippi comprising four divisions and provided for holding court in those divisions.
 
 <b>2004</b>—Subsec. (a)(3). Pub. L. 108–455 inserted "and Cleveland" after "Clarksdale".
 
-<b>1999</b>—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out ": <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodationsare furnished at no cost to the United States" before period at end.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out ": <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodations are furnished at no cost to the United States" before period at end.
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–408 provided for holding court at Corinth.
 

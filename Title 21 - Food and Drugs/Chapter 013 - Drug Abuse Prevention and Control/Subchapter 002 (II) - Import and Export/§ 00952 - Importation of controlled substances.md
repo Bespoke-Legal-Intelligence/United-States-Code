@@ -6,7 +6,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 &emsp;(1) such amounts of crude opium, poppy straw, concentrate of poppy straw, and coca leaves, and of ephedrine, pseudoephedrine, and phenylpropanolamine, as the Attorney General finds to be necessary to provide for medical, scientific, or other legitimate purposes, and
 
-&emsp;(2) such amounts of any controlled substance in schedule I or II or any narcotic drug in schedule III, IV, or V that the Attorney General finds to be necessary to provide for the medical, scientific, or other legitimate needs of the United States—
+&emsp;(2) such amounts of any controlled substance in schedule I or II or any narcotic drug in schedule III, IV, or V that the Attorney General finds to be necessary to provide for themedical, scientific, or other legitimate needs of the United States—
 
 &emsp;&emsp;(A) during an emergency in which domestic supplies of such substance or drug are found by the Attorney General to be inadequate,
 
@@ -18,7 +18,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 #### (b) Nonnarcotic controlled substances in schedule III, IV, or V
 
-It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the UnitedStates), or to import into the United States from  any  place  outside  thereof,  any  nonnarcotic controlled substance in schedule III, IV, or V, unless such nonnarcotic controlled substance—
+It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United States from  any  place  outside  thereof,  any  nonnarcotic controlled substance in schedule III, IV, or V, unless such nonnarcotic controlled substance—
 
 &emsp;(1) is imported for medical, scientific, or other legitimate uses, and
 

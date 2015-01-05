@@ -20,7 +20,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;(A) the domestic corporation is not and has not been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii), or
 
-&emsp;&emsp;(B) as of the date of the disposition, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).
+&emsp;&emsp;(B) as of the date of the disposition, interests in such corporation are not UnitedStates real property interests by reason of section 897(c)(1)(B).
 
 #### (4) Transferee receives qualifying statement
 
@@ -140,7 +140,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;&emsp;(ii) any transferee's agent or qualified substitute, such agent or substitute has actual knowledge that such affidavit is false,
 
-> &emsp;&emsp;such agent or qualified substitute shall so notify the transferee at such time and insuch manner as the Secretary shall require by regulations.
+> &emsp;&emsp;such agent or qualified substitute shall so notify the transferee at such time and in such manner as the Secretary shall require by regulations.
 
 #### (2) Failure to furnish notice
 
@@ -204,7 +204,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (6) Distributions by regulated investment companies and real estate investment trusts
 
-&emsp;If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct andwithhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the amount so treated.
+&emsp;If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the amount so treated.
 
 #### (7) Regulations
 

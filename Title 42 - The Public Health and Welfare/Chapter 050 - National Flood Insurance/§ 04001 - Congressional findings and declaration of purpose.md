@@ -30,7 +30,7 @@ The Congress also finds that (1) the damage and loss which results from mudslide
 
 For effective date of this chapter, referred to in subsec. (c), see section 1377 of Pub. L. 90–448, set out as an Effective Date note below.
 
-This chapter, referred to in subsecs. (d) to (f), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, knownas the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (d) to (f), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -43,6 +43,10 @@ This chapter, referred to in subsecs. (d) to (f), was in the original a referenc
 #### Effective Date
 
 Pub. L. 90–448, title XIII, §1377, Aug. 1, 1968, 82 Stat. 589, provided that: "This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment."
+
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–89, §1(a), Mar. 21, 2014, 128 Stat. 1020, provided that: "This Act \[enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and section 2604 of Title 12, Banks and Banking, enacting provisions set out as notes under sections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under section 4012a of this title\] may be cited as the 'Homeowner Flood Insurance Affordability Act of 2014'."
 
 #### Short Title of 2012 Amendment
 
@@ -92,7 +96,7 @@ Pub. L. 90–448, title XIII, §1301, Aug. 1, 1968, 82 Stat. 572, provided that:
 
 Pub. L. 103–325, title V, §583, Sept. 23, 1994, 108 Stat. 2287, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that: "The Administrator of the Federal Emergency Management Agency and any appropriate Federal agency may each issue any regulations necessary to carry out the applicable provisions of this title \[see Short Title of 1994 Amendment note above\] and the applicable amendments made by this title."
 
-\[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
+\[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
 
 \[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

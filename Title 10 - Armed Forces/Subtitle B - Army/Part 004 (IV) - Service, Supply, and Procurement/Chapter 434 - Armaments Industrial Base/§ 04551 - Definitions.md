@@ -94,7 +94,7 @@ Loan Guarantees.—(1) Subject to paragraph (2), the Secretary of the Army may g
 
 "(2) Loan guarantees under this subsection may not be committed except to the extent that appropriations of budget authority to cover their costs are made in advance, as required by section 504 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661c).
 
-"(3) The Secretary of the Army may enter into agreements with the Administrator of the Small Business Administration or the Administrator of the Farmers Home Administration, the Administrator of the Rural Development Administration, or the head of other appropriate agencies of the Department of Agriculture, under which such Administrators may, under this subsection—
+"(3) The Secretary of the Army may enter into agreements with the Administrator of the Small Business Administration or the Administrator of the Farmers Home Administration, the Administrator of the RuralDevelopment Administration, or the head of other appropriate agencies of the Department of Agriculture, under which such Administrators may, under this subsection—
 
 &emsp;"(A) process applications for loan guarantees;
 

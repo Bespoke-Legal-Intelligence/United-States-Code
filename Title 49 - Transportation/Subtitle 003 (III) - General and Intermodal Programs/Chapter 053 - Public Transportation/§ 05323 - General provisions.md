@@ -184,7 +184,7 @@ Written determination.—Before issuing a waiver under paragraph (2), the Secret
 
 &emsp;&emsp;(B)
 
-Annual report.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, and annually thereafter, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report listing any waiver issued under paragraph (2) during the preceding year.
+Annual report.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, and annually thereafter, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report listingany waiver issued under paragraph (2) during the preceding year.
 
 &emsp;(4)
 
@@ -220,7 +220,7 @@ Administrative review.—A party adversely affected by an agency action under th
 
 (k)
 
-Participation of Governmental Agencies in Design and Delivery of TransportationServices.—Governmental agencies and nonprofit organizations that receive assistance from Government sources (other than the Department of Transportation) for nonemergency transportation services shall—
+Participation of Governmental Agencies in Design and Delivery of Transportation Services.—Governmental agencies and nonprofit organizations that receive assistance from Government sources (other than the Department of Transportation) for nonemergency transportation services shall—
 
 &emsp;(1) participate and coordinate with recipients of assistance under this chapter in the design and delivery of transportation services; and
 
@@ -480,7 +480,7 @@ The Federal Public Transportation Act of 2012, referred to in subsec. (j)(6), is
 
 <b>2008</b>—Subsec. (n). Pub. L. 110–244 substituted "section 5336(d)(2)" for "section 5336(e)(2)".
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with section 5333(b) of this title.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential toa program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with section 5333(b) of this title.
 
 Subsec. (a)(2). Pub. L. 109–59, §3023(a)(2), inserted heading.
 
@@ -558,5 +558,5 @@ Pub. L. 109–59, title III, §3023(i)(5), Aug. 10, 2005, 119 Stat. 1618, requir
 
 #### Final Assembly of Buses
 
-Pub. L. 105–178, title III, §3035, June 9, 1998, 112 Stat. 387, required certain buses manufactured after Sept. 1, 1999, to conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
+Pub. L. 105–178, title III, §3035, June 9, 1998, 112 Stat. 387, required certain buses manufactured after Sept. 1,1999, to conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
 

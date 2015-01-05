@@ -42,7 +42,7 @@ Definition of Covered Educational Institution.—In this section the term "cover
 
 &emsp;(2) an accredited postsecondary minority institution.
 
-(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242; amended Pub. L. 111–383, div. A, title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title II, §219, Dec. 31, 2011, 125 Stat. 1335; Pub. L. 112–239, div.A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949.)
+(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242; amended Pub. L. 111–383, div. A, title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title II, §219, Dec. 31, 2011, 125 Stat. 1335; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949.)
 
 #### References in Text
 

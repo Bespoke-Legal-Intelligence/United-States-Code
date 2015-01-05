@@ -48,7 +48,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 &emsp;(ii) if a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the individual is given a period of at least 45 days within which to consider the agreement;
 
-&emsp;(G) the agreement provides that for a period of at least 7 days following the execution of such agreement, the individual may revoke the agreement, and the agreement shall not become effective or enforceable until the revocation period has expired;
+&emsp;(G) the agreement provides that for a period of at least 7 days following the execution of such agreement, the individual may revokethe agreement, and the agreement shall not become effective or enforceable until the revocation period has expired;
 
 &emsp;(H) if a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the employer (at the commencement of the period specified in subparagraph (F)) informs the individual in writing in a manner calculated to be understood by the average individual eligible to participate, as to—
 

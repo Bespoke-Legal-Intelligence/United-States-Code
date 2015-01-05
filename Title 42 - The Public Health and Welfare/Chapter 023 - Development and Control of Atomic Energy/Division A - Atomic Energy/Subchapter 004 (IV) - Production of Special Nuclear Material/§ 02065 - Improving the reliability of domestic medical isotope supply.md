@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) there is no alternative nuclear reactor fuel, enriched in the isotope U–235 to less than 20 percent, that can be used in that reactor;
 
-&emsp;&emsp;(B) the reactor operator has provided assurances that, whenever an alternative nuclear reactor fuel, enriched in the isotopeU–235 to less than 20 percent, can be used in that reactor, it will use that alternative in lieu of highly enriched uranium; and
+&emsp;&emsp;(B) the reactor operator has provided assurances that, whenever an alternative nuclear reactor fuel, enriched in the isotope U–235 to less than 20 percent, can be used in that reactor, it will use that alternative in lieu of highly enriched uranium; and
 
 &emsp;&emsp;(C) the reactor operator has provided a current report on the status of its efforts to convert the reactor to an alternative nuclear reactor fuel enriched in the isotope U–235 to less than 20 percent, and an anticipated schedule for completion of conversion.
 
@@ -116,7 +116,7 @@ Notwithstanding section 10101 of this title, radioactive material resulting from
 
 #### References in Text
 
-This subtitle, referred to in subsec. (c)(5), is subtitle F (§§3171–3178) of title XXXI of div. C of Pub. L. 112–239. For complete classification of this subtitle to the Code,see Short Title of 2013 Amendment note set out under section 2011 of this title and Tables.
+This subtitle, referred to in subsec. (c)(5), is subtitle F (§§3171–3178) of title XXXI of div. C of Pub. L. 112–239. For complete classification of this subtitle to the Code, see Short Title of 2013 Amendment note set out under section 2011 of this title and Tables.
 
 #### Codification
 

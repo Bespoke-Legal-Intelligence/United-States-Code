@@ -4,7 +4,7 @@
 
 #### (1) Distilled spirits
 
-&emsp;Every wholesale dealer in liquors who sells distilled spirits to other dealers shall keepdaily a record of distilled spirits received and disposed of by him, in such form and at such place and containing such information, and shall submit correct summaries of such records to the Secretary at such time and in such form and manner, as the Secretary shall by regulations prescribe. Such dealer shall also submit correct extracts from or copies of such records, at such time and in such form and manner as the Secretary may by regulations prescribe; however, the Secretary may on application by such dealer, in accordance with such regulations, relieve him from this requirement until further notice, whenever the Secretary deems that the submission of such extracts or copies serves no useful purpose in law enforcement or in protection of the revenue.
+&emsp;Every wholesale dealer in liquors who sells distilled spirits to other dealers shall keep daily a record of distilled spirits received and disposed of by him, in such form and at such place and containing such information, and shall submit correct summaries of such records to the Secretary at such time and in such form and manner, as the Secretary shall by regulations prescribe. Such dealer shall also submit correct extracts from or copies of such records, at such time and in such form and manner as the Secretary may by regulations prescribe; however, the Secretary may on application by such dealer, in accordance with such regulations, relieve him from this requirement until further notice, whenever the Secretary deems that the submission of such extracts or copies serves no useful purpose in law enforcement or in protection of the revenue.
 
 #### (2) Wines and beer
 
@@ -72,5 +72,5 @@ Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(c)(1) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(c)(1) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

@@ -46,7 +46,7 @@
 
 #### (3) Distribution
 
-&emsp;The Secretary shall distribute the available funds among all eligible applicants, taking into account the number of patients with HIV/AIDS served and the unreimbursed oral healthcare costs incurred by each institution as compared with the total number of patients served and costs incurred by all eligible applicants.
+&emsp;The Secretary shall distribute the available funds among all eligible applicants, taking into account the number of patients with HIV/AIDS served and the unreimbursed oral health care costs incurred by each institution as compared with the total number of patients served and costs incurred by all eligible applicants.
 
 #### (4) Maintenance of effort
 

@@ -40,7 +40,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (2) Written request to holders of approved applications
 
-&emsp;The Commissioner of Food and Drugs, in consultation with the Director of the National Institutes of Health, may issue a written request based on the proposed pediatric study request for the indication or indications submitted pursuant to paragraph (1) (which shall include a timeframe for negotiations for an agreement) for pediatric studies concerning a drug identified under subsection (a) to all holders of an approved application for the drug. Such a written request shall be made in a manner equivalent to the manner in which a written request is made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\] or section 262(m) of this title, including with respect to information provided on the pediatric studies to be conducted pursuant to the request and using appropriate formulations for each age group for which the study is requested.
+&emsp;The Commissioner of Food and Drugs, in consultation with the Director of the NationalInstitutes of Health, may issue a written request based on the proposed pediatric study request for the indication or indications submitted pursuant to paragraph (1) (which shall include a timeframe for negotiations for an agreement) for pediatric studies concerning a drug identified under subsection (a) to all holders of an approved application for the drug. Such a written request shall be made in a manner equivalent to the manner in which a written request is made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\] or section 262(m) of this title, including with respect to information provided on the pediatric studies to be conducted pursuant to the request and using appropriate formulations for each age group for which the study is requested.
 
 #### (3) Requests for proposals
 
@@ -108,7 +108,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (d) Dissemination of pediatric information
 
-Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health, shall studythe feasibility of establishing a compilation of information on pediatric drug use and report the findings to Congress.
+Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health, shall study the feasibility of establishing a compilation of information on pediatric drug use and report the findings to Congress.
 
 #### (e) Authorization of appropriations
 

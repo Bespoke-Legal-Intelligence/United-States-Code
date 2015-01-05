@@ -34,7 +34,7 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### (B) Decrease in Federal support
 
-&emsp;&emsp;If the amount made available under this subchapter for a fiscal year is less than theamount made available under this subchapter for the preceding fiscal year, then the expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
+&emsp;&emsp;If the amount made available under this subchapter for a fiscal year is less than the amount made available under this subchapter for the preceding fiscal year, then the expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
 
 #### (2) Level of State expenditures
 

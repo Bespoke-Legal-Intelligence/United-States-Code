@@ -22,7 +22,7 @@ Payments made pursuant to this subchapter shall be made only to the person or pe
 
 &emsp;(4) if a receiver or trustee for any such partnership or corporation, duly appointed by a court of competent jurisdiction in the United States, makes an assignment of the claim, or any part thereof, with respect to which an award is made, or makes an assignment of such award, or any part thereof, payment shall be made to the assignee, as his interest may appear; and
 
-&emsp;(5) in the case of any assignment of an award, or any part thereof, which is made in writing and duly acknowledged and filed, after such award is certified to the Secretary of the Treasury, payment may, in the discretion of the Secretary of the Treasury, be made to the assignee, as his interest may appear.
+&emsp;(5) in the case of any assignment of an award, or any part thereof, which is made inwriting and duly acknowledged and filed, after such award is certified to the Secretary of the Treasury, payment may, in the discretion of the Secretary of the Treasury, be made to the assignee, as his interest may appear.
 
 #### (d) Erroneous payments as bar to further recovery
 

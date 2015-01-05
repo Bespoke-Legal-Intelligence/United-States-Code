@@ -20,7 +20,7 @@ State-funded Early Acquisition of Real Property Interests.—
 
 &emsp;(1)
 
-In general.—A State may carry out, at the expense of the State, acquisitions of interests in real property for a project before completion of the review process required for the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) without affecting subsequent approvals required for the project by the State or any Federal agency.
+In general.—A State may carry out, at the expense of the State, acquisitions of interests in real property for a project before completion of the review process required for the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) without affecting subsequent approvals requiredfor the project by the State or any Federal agency.
 
 &emsp;(2)
 
@@ -44,7 +44,7 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 &emsp;&emsp;(E) the alternative for which the real property interest is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration of the environmental impacts of various alternatives;
 
-&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the real property interest was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and incompliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
+&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the real property interest was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and in compliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
 
 &emsp;&emsp;(G) before the time that the cost incurred by a State is approved for Federal participation, the Secretary has determined that the property acquired in advance of Federal approval or authorization did not influence the environmental assessment of the project, the decision relative to the need to construct the project, or the selection of the project design or location.
 
@@ -186,7 +186,7 @@ Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as 
 
 <b>1994</b>—Subsec. (d)(2)(F). Pub. L. 103–429 substituted "section 303 of title 49" for "section 4(f) of the Department of Transportation Act".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted "Federal-aid highway" for "of the Federal-aid highway systems, including the Interstate System," and "which may be expended on such highway" for "for expenditure on any of the Federal-aid highway systems, including the Interstate System,".
+<b>1992</b>—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted "Federal-aid highway" for "of the Federal-aid highway systems, including the Interstate System,"and "which may be expended on such highway" for "for expenditure on any of the Federal-aid highway systems, including the Interstate System,".
 
 Subsec. (c)(2). Pub. L. 102–388, §346(3), inserted "and passenger transit facilities".
 
@@ -232,7 +232,7 @@ Pub. L. 105–178, title I, §1211(e)(2), June 9, 1998, 112 Stat. 188, provided 
 
 "(A)
 
-In general.—Funds advanced to a State by the Secretary from the right-of-way revolving fund established by section 108(c) of title 23, United States Code,prior to the date of enactment of this Act \[June 9, 1998\] shall remain available to the State for use on the projects for which the funds were advanced for a period of 20 years from the date on which the funds were advanced.
+In general.—Funds advanced to a State by the Secretary from the right-of-way revolving fund established by section 108(c) of title 23, United States Code, prior to the date of enactment of this Act \[June 9, 1998\] shall remain available to the State for use on the projects for which the funds were advanced for a period of 20 years from the date on which the funds were advanced.
 
 "(B)
 

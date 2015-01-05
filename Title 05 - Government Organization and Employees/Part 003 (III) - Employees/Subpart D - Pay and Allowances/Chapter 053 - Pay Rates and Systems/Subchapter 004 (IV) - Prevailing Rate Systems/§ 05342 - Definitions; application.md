@@ -2,7 +2,7 @@
 
 (a) For the purpose of this subchapter—
 
-&emsp;(1) “agency” means an Executive agency; but does not include—
+&emsp;(1) "agency" means an Executive agency; but does not include—
 
 &emsp;&emsp;(A) a Government controlled corporation;
 
@@ -24,15 +24,15 @@
 
 &emsp;&emsp;(K) the National Geospatial-Intelligence Agency, Department of Defense;
 
-&emsp;(2) “prevailing rate employee” means—
+&emsp;(2) "prevailing rate employee" means—
 
 &emsp;&emsp;(A) an individual employed in or under an agency in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or laboring experience and knowledge as the paramount requirement;
 
 &emsp;&emsp;(B) an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or laboring experience and knowledge as the paramount requirement; and
 
-&emsp;&emsp;(C) an employee of the Veterans’ Canteen Service, Department of Veterans Affairs, excepted from chapter 51 of this title by section 5102(c)(14) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or labor experience and knowledge as the paramount requirement; and
+&emsp;&emsp;(C) an employee of the Veterans' Canteen Service, Department of Veterans Affairs, excepted from chapter 51 of this title by section 5102(c)(14) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or labor experience and knowledge as the paramount requirement; and
 
-&emsp;(3) “position” means the work, consisting of duties and responsibilities, assignable to a prevailing rate employee.
+&emsp;(3) "position" means the work, consisting of duties and responsibilities, assignable to a prevailing rate employee.
 
 (b)(1) Except as provided by paragraphs (2) and (3) of this subsection, this subchapter applies to all prevailing rate employees and positions in or under an agency.
 
@@ -56,29 +56,29 @@ Provisions similar to those comprising subsec. (b) of this section were containe
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(K). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (a)(1)(K). Pub. L. 110–417 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-<b>2004</b>—Subsec. (a)(1)(H). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(1)(H). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §3548(a)(3)(A), which directed amendment of subsec. (a)(1) by striking subpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
 
-Subsec. (a)(1)(L). Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+Subsec. (a)(1)(L). Pub. L. 104–201, §1122(a)(1), substituted "National Imagery and Mapping Agency" for "Central Imagery Office".
 
-<b>1994</b>—Subsec. (a)(1)(J) to (L). Pub. L. 103–359 directed the amendment of subpar. (J) by striking out “or” at end which could not be executed because par. (1) does not contain a subpar. (J), added “or” at end of subpar. (K), and added subpar. (L).
+<b>1994</b>—Subsec. (a)(1)(J) to (L). Pub. L. 103–359 directed the amendment of subpar. (J) by striking out "or" at end which could not be executed because par. (1) does not contain a subpar. (J), added "or" at end of subpar. (K), and added subpar. (L).
 
-<b>1991</b>—Subsec. (a)(2)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(2)(C). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1984</b>—Subsec. (a)(1)(I) to (K). Pub. L. 98–618 struck out “or” at end of subpar. (I), inserted “or” at end of subpar. (J), and added subpar. (K).
+<b>1984</b>—Subsec. (a)(1)(I) to (K). Pub. L. 98–618 struck out "or" at end of subpar. (I), inserted "or" at end of subpar. (J), and added subpar. (K).
 
 <b>1983</b>—Subsec. (a)(1)(C) to (J). Pub. L. 97–468, eff. Jan. 5, 1985, struck out subpar. (C) which excluded the Alaska Railroad and redesignated subpars. (D) to (J) as (C) to (I), respectively. See Effective Date of 1983 Amendment note below.
 
 <b>1980</b>—Subsec. (a)(1)(J). Pub. L. 96–191 added subpar. (J).
 
-<b>1979</b>—Subsec. (a)(1)(G). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Subsec. (a)(1)(G). Pub. L. 96–70 substituted "Commission" for "Company".
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201,set out as a note under section 193 of Title 10, Armed Forces.
+Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
 #### Effective Date of 1983 Amendment
 
@@ -102,9 +102,9 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Dissolution of Virgin Islands Corporation
 
-Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
+Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1,1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
 
-<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "or" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Subsec. (a)(1) does not contain a subpar. (I).</i>
 

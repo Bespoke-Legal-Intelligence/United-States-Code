@@ -1,6 +1,6 @@
 ### §5701. Confidential nature of claims
 
-(a) All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
+(a) All files, records, reports, and other papers and documents pertaining to any claim underany of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
 
 (b) The Secretary shall make disclosure of such files, records, reports, and other papers and documents as are described in subsection (a) of this section as follows:
 
@@ -88,7 +88,7 @@
 
 &emsp;(i) the individual is near death (as determined by the Secretary) or is deceased; and
 
-&emsp;(ii) the disclosure is permitted under regulations promulgated pursuant to section 264 ofthe Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
+&emsp;(ii) the disclosure is permitted under regulations promulgated pursuant to section 264 of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
 
 (B) An entity described in this subparagraph is—
 

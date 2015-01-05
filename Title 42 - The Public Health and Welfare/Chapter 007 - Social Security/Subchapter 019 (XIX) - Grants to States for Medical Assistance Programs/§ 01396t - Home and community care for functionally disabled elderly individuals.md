@@ -42,7 +42,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(ii) subsequently discontinues such waiver, individuals who were eligible for benefits under the waiver as of the date of its discontinuance and who would, but for income or resources, be eligible for medical assistance for home and community care under the plan shall, notwithstanding any other provision of this subchapter, be deemed a functionally disabled elderly individual for so long as the individual would have remained eligible for medical assistance under such waiver.
 
-&emsp;(B) In the case of a State which used a health insuring organization before January 1, 1986, and which, as of December 31, 1990, had in effect a waiver under section 1315 of this title that provides under the State plan under thissubchapter for personal care services for functionally disabled individuals, the term "functionally disabled elderly individual" may include, at the option of the State, an individual who—
+&emsp;(B) In the case of a State which used a health insuring organization before January 1, 1986, and which, as of December 31, 1990, had in effect a waiver under section 1315 of this title that provides under the State plan under this subchapter for personal care services for functionally disabled individuals, the term "functionally disabled elderly individual" may include, at the option of the State, an individual who—
 
 &emsp;&emsp;(i) is 65 years of age or older or is disabled (as determined under the supplemental security income program under subchapter XVI of this chapter);
 
@@ -118,7 +118,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;&emsp;(ii) based on such assessment or review, determine whether the individual is (or continues to be) functionally disabled.
 
-> &emsp;&emsp;The results of such an assessment or review shall be used in establishing, reviewing, andrevising the individual's ICCP under subsection (d)(1) of this section.
+> &emsp;&emsp;The results of such an assessment or review shall be used in establishing, reviewing, and revising the individual's ICCP under subsection (d)(1) of this section.
 
 #### (G) Appeal procedures
 
@@ -132,7 +132,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(A) is established, and is periodically reviewed and revised, by a qualified case manager after a face-to-face interview with the individual or primary caregiver and based upon the most recent comprehensive functional assessment of such individual conducted under subsection (c)(2) of this section;
 
-&emsp;&emsp;(B) specifies, within any amount, duration, and scope limitations imposed on home and community care provided under the State plan, the home and community care to be provided to such individual under the plan, and indicates the individual's preferences for the types and providers of services; and
+&emsp;&emsp;(B) specifies, within any amount, duration, and scope limitations imposed on home andcommunity care provided under the State plan, the home and community care to be provided to such individual under the plan, and indicates the individual's preferences for the types and providers of services; and
 
 &emsp;&emsp;(C) may specify other services required by such individual.
 
@@ -276,7 +276,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(A) must disclose persons with an ownership or control interest (including such persons as defined in section 1320a–3(a)(3) of this title) in the setting; and
 
-&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
+&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to havefailed to meet the requirements of paragraph (2).
 
 #### (i) Survey and certification process
 
@@ -372,7 +372,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each State shall establish by law (whether statute or regulation) at least the following remedy: A civil money penalty assessed and collected, with interest, for each day in which the provider is or was out of compliance with a requirement of this section. Funds collected by a State as a result of imposition of such a penalty (or as a result of the imposition by the State of a civil money penalty under subsection (i)(3)(A) of this section) may be applied to reimbursement of individuals for personal funds lost due to a failure of home or community care providers to meet the requirements of this section. The State also shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Suchcriteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
+&emsp;&emsp;&emsp;Each State shall establish by law (whether statute or regulation) at least the following remedy: A civil money penalty assessed and collected, with interest, for each day in which the provider is or was out of compliance with a requirement of this section. Funds collected by a State as a result of imposition of such a penalty (or as a result of the imposition by the State of a civil money penalty under subsection (i)(3)(A) of this section) may be applied to reimbursement of individuals for personal funds lost due to a failure of home or community care providers to meet the requirements of this section. The State also shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
 #### (ii) Deadline and guidance
 
@@ -382,7 +382,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (A) For State providers
 
-&emsp;&emsp;With respect to a State provider of home or community care, the Secretary shall have the authority and duties of a State under this subsection, except that the civil money penalty remedy described in subparagraph (C) shall be substituted for the civil money remedy described in paragraph (1)(B)(i).
+&emsp;&emsp;With respect to a State provider of home or community care, the Secretary shall havethe authority and duties of a State under this subsection, except that the civil money penalty remedy described in subparagraph (C) shall be substituted for the civil money remedy described in paragraph (1)(B)(i).
 
 #### (B) Other providers
 

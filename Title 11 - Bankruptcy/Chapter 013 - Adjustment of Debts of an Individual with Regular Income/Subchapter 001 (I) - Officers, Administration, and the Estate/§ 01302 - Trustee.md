@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(II) was reaffirmed by the debtor under section 524(c).
 
-(2)(A) The holder of a claim described in subsection (b)(6) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
+(2)(A) The holder of a claim described in subsection (b)(6) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described inparagraph (1)(C)(iv) the last known address of the debtor.
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
 
@@ -80,7 +80,7 @@ Subsection (d) gives the trustee an additional duty if the debtor is engaged in 
 
 #### References in Text
 
-Chapter XIII of the Bankruptcy Act, referred to in subsec. (b)(3), is chapter XIII of act July 1, 1898, ch. 541,as added June 22, 1938, ch. 575, §1, 52 Stat. 930, which was classified to chapter 13 (§1001 et seq.) of former Title 11.
+Chapter XIII of the Bankruptcy Act, referred to in subsec. (b)(3), is chapter XIII of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, §1, 52 Stat. 930, which was classified to chapter 13 (§1001 et seq.) of former Title 11.
 
 Sections 464 and 466 of the Social Security Act, referred to in subsec. (d)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
 

@@ -116,7 +116,7 @@
 
 #### (B) Aliens transferred from Department of Health and Human Services to Department of Homeland Security custody
 
-&emsp;&emsp;If a minor described in subparagraph (A) reaches 18 years of age and is transferred to the custody of the Secretary of Homeland Security, the Secretary shall consider placement in the least restrictive setting available after taking into account the alien's danger to self, danger to the community, and risk of flight. Such aliens shall be eligible to participate in alternative to detentionprograms, utilizing a continuum of alternatives based on the alien's need for supervision, which may include placement of the alien with an individual or an organizational sponsor, or in a supervised group home.
+&emsp;&emsp;If a minor described in subparagraph (A) reaches 18 years of age and is transferred to the custody of the Secretary of Homeland Security, the Secretary shall consider placement in the least restrictive setting available after taking into account the alien's danger to self, danger to the community, and risk of flight. Such aliens shall be eligible to participate in alternative to detention programs, utilizing a continuum of alternatives based on the alien's need for supervision, which may include placement of the alien with an individual or an organizational sponsor, or in a supervised group home.
 
 #### (3) Safety and suitability assessments
 
@@ -126,7 +126,7 @@
 
 #### (B) Home studies
 
-&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
+&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, ortrafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
 
 #### (C) Access to information
 
@@ -186,7 +186,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As soon as practicable after March 7, 2013, the Comptroller General of the United States shall conduct a study regarding the effectiveness of the Child Advocate Program operated by the Secretary of Health and Human Services.
+&emsp;&emsp;&emsp;As soon as practicable after March 7, 2013, the Comptroller General of theUnited States shall conduct a study regarding the effectiveness of the Child Advocate Program operated by the Secretary of Health and Human Services.
 
 #### (ii) Matters to be studied
 
@@ -244,7 +244,7 @@
 
 #### (B) State reimbursement
 
-&emsp;&emsp;Subject to the availability of appropriations, if State foster care funds are expendedon behalf of a child who is not described in subparagraph (A) and has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), or status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),,<sup>2</sup> the Federal Government shall reimburse the State in which the child resides for such expenditures by the State.
+&emsp;&emsp;Subject to the availability of appropriations, if State foster care funds are expended on behalf of a child who is not described in subparagraph (A) and has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), or status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),,<sup>2</sup> the Federal Government shall reimburse the State in which the child resides for such expenditures by the State.
 
 #### (5) State courts acting in loco parentis
 
@@ -258,7 +258,7 @@
 
 #### (8) Specialized needs of unaccompanied alien children
 
-&emsp;Applications for asylum and other forms of relief from removal in which an unaccompanied alien child is the principal applicant shall be governed by regulations which take into account the specialized needs of unaccompanied alien children and which address both procedural and substantive aspects of handling unaccompanied alien children's cases.
+&emsp;Applications for asylum and other forms of relief from removal in which an unaccompanied alien child is the principal applicant shall be governed by regulations which takeinto account the specialized needs of unaccompanied alien children and which address both procedural and substantive aspects of handling unaccompanied alien children's cases.
 
 #### (e) Training
 
@@ -268,7 +268,7 @@ The Secretary of State, the Secretary of Homeland Security, the Secretary of Hea
 
 #### (g) Definition of unaccompanied alien child
 
-For purposes of this section, the term “unaccompanied alien child” has the meaning given such term in section 279(g) of title 6.
+For purposes of this section, the term "unaccompanied alien child" has the meaning given such term in section 279(g) of title 6.
 
 #### (h) Effective date
 
@@ -288,7 +288,7 @@ The Secretary of Health and Human Services may award grants to, and enter into c
 
 The Immigration and Nationality Act, referred to in subsec. (a)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-March 7, 2013, referred to in subsec. (c)(6)(E)(iii), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 113–4, known as the Violence Against Women Reauthorization Act of 2013, which enacted subsec. (c)(6)(B) to (F), to reflect the probable intent of Congress. Other references to March 7, 2013, in subpars. (B) to (F) of subsec. (c)(6) were in the original “the date of the enactment of the Violence Against Women Reauthorization Act of 2013”.
+March 7, 2013, referred to in subsec. (c)(6)(E)(iii), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 113–4, known as the Violence Against Women Reauthorization Act of 2013, which enacted subsec. (c)(6)(B) to (F), to reflect the probable intent of Congress. Other references to March 7, 2013, in subpars. (B) to (F) of subsec. (c)(6) were in the original "the date of the enactment of the Violence Against Women Reauthorization Act of 2013".
 
 #### Codification
 
@@ -300,15 +300,15 @@ Section was enacted as part of the William Wilberforce Trafficking Victims Prote
 
 <b>2013</b>—Subsec. (c)(2). Pub. L. 113–4, §1261, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (c)(6). Pub. L. 113–4, §1262, designated existing provisions as subpar. (A), inserted heading, struck out “and criminal” after “immune from civil”, and added subpars. (B) to (F).
+Subsec. (c)(6). Pub. L. 113–4, §1262, designated existing provisions as subpar. (A), inserted heading, struck out "and criminal" after "immune from civil", and added subpars. (B) to (F).
 
-Subsec. (d)(4)(A). Pub. L. 113–4, §1263(1), in introductory provisions, struck out “either” before “in the custody”, substituted “such child,” for “such child or who”, and inserted “, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),” before “, shall be eligible for placement”.
+Subsec. (d)(4)(A). Pub. L. 113–4, §1263(1), in introductory provisions, struck out "either" before "in the custody", substituted "such child," for "such child or who", and inserted ", or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U))," before ", shall be eligible for placement".
 
-Subsec. (d)(4)(B). Pub. L. 113–4, §1263(2), inserted “, or status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U)),” before “, the Federal Government”.
+Subsec. (d)(4)(B). Pub. L. 113–4, §1263(2), inserted ", or status under section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(U))," before ", the Federal Government".
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Secretary of Health and Human Services”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Secretary of Health and Human Services".</i>
 

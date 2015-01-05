@@ -12,7 +12,7 @@
 
 &emsp;(C) Section 752 of the Public Health Service Act, as that section was in effect between October 1, 1977, and August 13, 1981.
 
-(c) Special pay authorized under sections 301d, 302 through 302j, and 303 of this title is in addition to any other pay or allowance to which an officer is entitled. The amount of special pay to which an officer is entitled under any of such sections may not be included in computing the amount of any increase in pay authorized by any other provision of this title or in computing retired pay, separation pay, severance pay, or readjustment pay.
+(c) Special pay authorized under sections 301d, 302 through 302j, and 303 of this title is in addition to any other pay or allowance to which an officer is entitled. The amount of special pay to which an officer is entitled under any of such sections may not be included in computing theamount of any increase in pay authorized by any other provision of this title or in computing retired pay, separation pay, severance pay, or readjustment pay.
 
 (d) The Secretary of Defense shall conduct a review every two years of the special pay for health professionals authorized by sections 301d, 302 through 302j, and 303 of this title.
 
@@ -60,7 +60,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 (5) In this subsection:
 
-&emsp;(A) The term "bonus or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this subsection.
+&emsp;(A) The term "bonus or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers tothe repayment requirements of this subsection.
 
 &emsp;(B) The term "service", as used in paragraph (4)(B), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus or similar benefit offered by the Secretary of Defense or the Secretary concerned—
 

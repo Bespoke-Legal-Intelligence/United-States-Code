@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;(4) The term "Secretary of Defense" means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–377, title I, §101(a), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 112–239, div. A, title VI, §681(c), Jan. 2, 2013, 126 Stat. 1795.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–377,title I, §101(a), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 112–239, div. A, title VI, §681(c), Jan. 2, 2013, 126 Stat. 1795.)
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Availability of revoked entitlement.—Any entitlement revoked by an individual 
 
 &emsp;"(C)
 
-Availability of unrevoked entitlement.—Any entitlement described in subparagraph (A) that is not revoked by an individual in accordance with that subparagraph shall remain available to the dependent or dependents concerned in accordance with the current transfer of such entitlement under section 3020 of title 38, United States Code.
+Availability of unrevoked entitlement.—Any entitlement described in subparagraph (A) thatis not revoked by an individual in accordance with that subparagraph shall remain available to the dependent or dependents concerned in accordance with the current transfer of such entitlement under section 3020 of title 38, United States Code.
 
 "(4)
 
@@ -198,7 +198,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The original GI Bill, approved just weeks after D-Day, educated nearly 8 million Americans and helped transform this Nation. We owe the same obligations to this generation of service men and women as was afforded that previous one. This is the promise of the Post-9/11 Veterans Educational Assistance Act of 2008 (title V, Public Law 110–252) (Post-9/11 GI Bill) and the continued provision of educational benefits in the Department of Defense's Tuition Assistance Program (10 U.S.C. 2007): to provide our service members, veterans, spouses, and other family members the opportunity to pursue a high-quality education and gain the skills and training they need to fill the jobs of tomorrow.
 
-Since the Post-9/11 GI Bill became law, there have been reports of aggressive and deceptive targeting of service members, veterans, and their families by some educational institutions. For example, some institutions have recruited veterans with serious brain injuries and emotional vulnerabilities without providing academic support and counseling; encouraged service members and veterans to take out costly institutional loans rather than encouraging them to apply for Federal student loans first; engaged in misleading recruiting practices on military installations; and failed to disclose meaningful information that allows potential students to determine whether the institution has a good record of graduating service members, veterans, and their families and positioning them for success in the workforce.
+Since the Post-9/11 GI Bill became law, there have been reports of aggressive and deceptive targeting of service members, veterans, and their families by some educational institutions. For example, some institutions have recruited veterans with serious brain injuries and emotional vulnerabilities without providing academic support and counseling; encouraged service members and veterans to take out costly institutional loans rather than encouraging them to apply for Federal student loans first; engaged in misleading recruiting practices on military installations; and failed to disclose meaningful information that allows potential students to determine whether the institution has a good record of graduating service members, veterans,and their families and positioning them for success in the workforce.
 
 To ensure our service members, veterans, spouses, and other family members have the information they need to make informed decisions concerning their well-earned Federal military and veterans educational benefits, I am directing my Administration to develop Principles of Excellence to strengthen oversight, enforcement, and accountability within these benefits programs.
 
@@ -216,7 +216,7 @@ To the extent permitted by law, the Principles, implemented pursuant to section 
 
 (e) allow service members and reservists to be readmitted to a program if they are temporarily unable to attend class or have to suspend their studies due to service requirements, and take additional steps to accommodate short absences due to service obligations, provided that satisfactory academic progress is being made by the service members and reservists prior to suspending their studies;
 
-(f) agree to an institutional refund policy that is aligned with the refund of unearned student aid rulesapplicable to Federal student aid provided through the Department of Education under Title IV of the Higher Education Act of 1965, as required under section 484B of that Act when students withdraw prior to course completion;
+(f) agree to an institutional refund policy that is aligned with the refund of unearned student aid rules applicable to Federal student aid provided through the Department of Education under Title IV of the Higher Education Act of 1965, as required under section 484B of that Act when students withdraw prior to course completion;
 
 (g) provide educational plans for all individuals using Federal military and veterans educational benefits that detail how they will fulfill all the requirements necessary to graduate and the expected timeline of completion; and
 
@@ -232,7 +232,7 @@ Sec. 3. <i>Implementation of the Principles of Excellence</i>.
 
 (d) The Secretary of Veterans Affairs, in consultation with the Secretaries of Defense and Education, shall provide to prospective military and veteran students, prior to using their benefits, streamlined tools to compare educational institutions using key measures of affordability and value through the Department of Veterans Affairs' eBenefits portal. The eBenefits portal shall be updated to facilitate access to school performance information, consumer protection information, and key Federal financial aid documents. The Secretaries of Defense and Veterans Affairs shall also ensure that service members and veterans have access to that information through educational counseling offered by those Departments.
 
-Sec. 4. <i>Strengthening Enforcement and Compliance Mechanisms</i>. Service members, veterans, spouses, and other family members should have access to a strong enforcement system through which to file complaints when institutions fail to follow the Principles. Within 90 days of the date of this order, the Secretaries of Defense and Veterans Affairs, in consultation with the Secretary of Education and the Director of the CFPB, as well as with the Attorney General, as appropriate, shall submit to the President a plan to strengthen enforcement and compliance mechanisms. The plan shall include proposals to:
+Sec. 4. <i>Strengthening Enforcement and Compliance Mechanisms</i>. Service members, veterans, spouses, andother family members should have access to a strong enforcement system through which to file complaints when institutions fail to follow the Principles. Within 90 days of the date of this order, the Secretaries of Defense and Veterans Affairs, in consultation with the Secretary of Education and the Director of the CFPB, as well as with the Attorney General, as appropriate, shall submit to the President a plan to strengthen enforcement and compliance mechanisms. The plan shall include proposals to:
 
 (a) create a centralized complaint system for students receiving Federal military and veterans educational benefits to register complaints that can be tracked and responded to by the Departments of Defense, Veterans Affairs, Justice, and Education, the CFPB, and other relevant agencies;
 

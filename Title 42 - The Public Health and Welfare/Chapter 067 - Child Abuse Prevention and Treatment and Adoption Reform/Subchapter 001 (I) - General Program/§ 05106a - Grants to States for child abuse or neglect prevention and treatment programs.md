@@ -54,7 +54,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;(A) to provide child abuse and neglect prevention and treatment services (including linkages with education systems), and the use of differential response; and
 
-&emsp;&emsp;(B) to address the health needs, including mental health needs, of children identified as victims of child abuse or neglect;,<sup>1</sup> including supporting prompt, comprehensive health and developmental evaluations for children who are the subject of substantiated child maltreatment reports; or
+&emsp;&emsp;(B) to address the health needs, including mental health needs, of children identified as victims of child abuse or neglect;,<sup>1</sup> including supporting prompt, comprehensive health and developmental evaluations forchildren who are the subject of substantiated child maltreatment reports; or
 
 &emsp;(14) developing and implementing procedures for collaboration among child protective services, domestic violence services, and other agencies in—
 
@@ -124,7 +124,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;&emsp;(V) a grand jury or court, upon a finding that information in the record is necessary for the determination of an issue before the court or grand jury; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) other entities or classes of individuals statutorily authorized by the State to receive such information pursuant to a legitimate State purpose;
+&emsp;&emsp;&emsp;&emsp;(VI) other entities or classes of individuals statutorily authorized by the Stateto receive such information pursuant to a legitimate State purpose;
 
 &emsp;&emsp;&emsp;(ix) provisions to require a State to disclose confidential information to any Federal, State, or local government entity, or any agent of such entity, that has a need for such information in order to carry out its responsibilities under law to protect children from child abuse and neglect;
 
@@ -172,7 +172,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(xxi) provisions and procedures for referral of a child under the age of 3 who is involved in a substantiated case of child abuse or neglect to early intervention services funded under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.);
 
-&emsp;&emsp;&emsp;(xxii) provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act (42 U.S.C. 671(a)(20)) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household; and
+&emsp;&emsp;&emsp;(xxii) provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act (42 U.S.C. 671(a)(20)) for prospective foster and adoptive parents and other adult relativesand non-relatives residing in the household; and
 
 &emsp;&emsp;&emsp;(xxiii) provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
 
@@ -230,7 +230,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 #### (i) Establishment of panels by States receiving minimum allotment
 
-&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section 5116b(b)(1)(A) of this title for a fiscal year shall establish not less than 1 citizen review panel.
+&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section 5116b(b)(1)(A) of this title for a fiscal yearshall establish not less than 1 citizen review panel.
 
 #### (ii) Designation of existing entities
 
@@ -398,11 +398,11 @@ Within 6 months after receiving the State reports under subsection (d) of this s
 
 #### (A) Minimum allotments to States for increased appropriations years
 
-&emsp;&emsp;In any fiscal year for which the grant funds exceed the fiscal year 2009 grant fundsby more than $1,000,000, the Secretary shall adjust the allotments under paragraph (2), as necessary, such that no State that applies for a grant under this section receives an allotment in an amount that is less than—
+&emsp;&emsp;In any fiscal year for which the grant funds exceed the fiscal year 2009 grant funds by more than $1,000,000, the Secretary shall adjust the allotments under paragraph (2), as necessary, such that no State that applies for a grant under this section receives an allotment in an amount that is less than—
 
 &emsp;&emsp;&emsp;(i) $100,000, for a fiscal year in which the grant funds exceed the fiscal year 2009 grant funds by more than $1,000,000 but less than $2,000,000;
 
-&emsp;&emsp;&emsp;(ii) $125,000, for a fiscal year in which the grant funds exceed the fiscal year 2009 grant funds by at least $2,000,000 but less than $3,000,000; and
+&emsp;&emsp;&emsp;(ii) $125,000, for a fiscal year in which the grant funds exceed the fiscal year 2009grant funds by at least $2,000,000 but less than $3,000,000; and
 
 &emsp;&emsp;&emsp;(iii) $150,000, for a fiscal year in which the grant funds exceed the fiscal year 2009 grant funds by at least $3,000,000.
 
@@ -568,7 +568,7 @@ Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cl. (ii) as (iv). Former cl. (
 
 Subsec. (b)(2)(A)(v). Pub. L. 108–36, §114(b)(1)(B)(iv), added cl. (v). Former cl. (v) redesignated (viii).
 
-Subsec. (b)(2)(A)(vi), (vii). Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cls. (iii) and (iv) as (vi) and (vii), respectively. Former cls. (vi) and (vii) redesignated (x) and (xi), respectively.
+Subsec. (b)(2)(A)(vi), (vii). Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cls. (iii) and (iv) as (vi) and\(vii), respectively. Former cls. (vi) and (vii) redesignated (x) and (xi), respectively.
 
 Subsec. (b)(2)(A)(viii). Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cl. (v) as (viii). Former cl. (viii) redesignated (xii).
 

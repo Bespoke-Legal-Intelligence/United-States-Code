@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §§39, 574; sections 23, 101, 1406 of titl
 
 Section consolidates portions of sections 39 and 574 of title 18, U.S.C., 1940 ed., with jurisdictional provisions of sections 23, 101, and 1406 of title 48, U.S.C., 1940 ed., and section 39 of title 50 U.S.C., 1940 ed., with changes of phraseology necessary to effect consolidation.
 
-The revised section simplifies and clarifies the Federal jurisdiction of the district courts of the Territories and Possessions. The enumeration of sections in section 574 of title 18, U.S.C., 1940 ed., was omitted as incomplete and misleading and the general language ofthe revised section was made applicable to the Canal Zone.
+The revised section simplifies and clarifies the Federal jurisdiction of the district courts of the Territories and Possessions. The enumeration of sections in section 574 of title 18, U.S.C., 1940 ed., was omitted as incomplete and misleading and the general language of the revised section was made applicable to the Canal Zone.
 
 The phrase "the several courts of the first instance in the Philippine Islands" in section 574 of title 18, U.S.C., 1940 ed., was omitted as obsolete in view of the independence of the Commonwealth of the Philippines effective July 4, 1946.
 

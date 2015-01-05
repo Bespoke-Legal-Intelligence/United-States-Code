@@ -20,7 +20,7 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (3)(A) Not later than 2 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
 
-(B) Not later than 3 years after August 8, 2005, each State regulatory authority (with respect toeach electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
+(B) Not later than 3 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
 
 (4)(A) Not later than 1 year after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to the standard established by paragraph (14) of section 2621(d) of this title.
 
@@ -60,7 +60,7 @@ Subsections (b) and (c) of this section shall not apply to the standard establis
 
 #### (f) Prior State actions relating to standard under section 2621(d)(15)
 
-Subsections (b) and (c) of this section shall not apply to the standard established by paragraph\(15) of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
+Subsections (b) and (c) of this section shall not apply to the standard established by paragraph (15) of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
 
 &emsp;(1) the State has implemented for such utility the standard concerned (or a comparable standard);
 

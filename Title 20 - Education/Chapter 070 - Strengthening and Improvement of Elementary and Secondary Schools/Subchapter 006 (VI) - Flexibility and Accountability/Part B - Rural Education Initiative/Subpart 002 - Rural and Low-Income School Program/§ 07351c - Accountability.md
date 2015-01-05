@@ -36,7 +36,7 @@ Each local educational agency or specially qualified agency that receives a gran
 
 Each State educational agency or specially qualified agency that receives a grant under this subpart shall—
 
-&emsp;(1) after the third year that a local educational agency or specially qualified agency in the State receives funds under this subpart, and on the basis of the results of the assessments described in subsection (d) of this section—
+&emsp;(1) after the third year that a local educational agency or specially qualified agencyin the State receives funds under this subpart, and on the basis of the results of the assessments described in subsection (d) of this section—
 
 &emsp;&emsp;(A) in the case of a local educational agency, determine whether the local educational agency made adequate yearly progress, as described in section 6311(b)(2) of this title; and
 

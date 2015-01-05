@@ -2,7 +2,7 @@
 
 #### (a) Certification procedure
 
-Upon the filing of an application for international registration and payment of the prescribed fees, the Director shall examine the international application for the purpose of certifying that the information contained in the international application corresponds to the information contained in the basic application orbasic registration at the time of the certification.
+Upon the filing of an application for international registration and payment of the prescribed fees, the Director shall examine the international application for the purpose of certifying that the information contained in the international application corresponds to the information contained in the basic application or basic registration at the time of the certification.
 
 #### (b) Transmittal
 

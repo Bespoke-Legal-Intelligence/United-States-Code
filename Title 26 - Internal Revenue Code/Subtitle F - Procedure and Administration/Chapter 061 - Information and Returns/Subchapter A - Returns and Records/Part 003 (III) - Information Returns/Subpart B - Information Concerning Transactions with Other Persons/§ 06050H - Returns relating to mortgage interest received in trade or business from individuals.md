@@ -86,7 +86,7 @@ For purposes of subsection (a), an amount received by a cooperative housing corp
 
 &emsp;&emsp;&emsp;(ii) private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901), as in effect on the date of the enactment of this subsection).
 
-(Added Pub. L. 98–369, div. A, title I, §145(a), July 18, 1984, 98 Stat. 684; amended Pub. L.99–514, title XV, §1501(c)(11), title XVIII, §1811(a)(1), Oct. 22, 1986, 100 Stat. 2739, 2832; Pub. L. 101–239, title VII, §7646(a), (b), Dec. 19, 1989, 103 Stat. 2382; Pub. L. 104–168, title XII, §1201(a)(8), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(23), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–432, div. A, title IV, §419(c), Dec. 20, 2006, 120 Stat. 2968.)
+(Added Pub. L. 98–369, div. A, title I, §145(a), July 18, 1984, 98 Stat. 684; amended Pub. L. 99–514, title XV, §1501(c)(11), title XVIII, §1811(a)(1), Oct. 22, 1986, 100 Stat. 2739, 2832; Pub. L. 101–239, title VII, §7646(a), (b), Dec. 19, 1989, 103 Stat. 2382; Pub. L. 104–168, title XII, §1201(a)(8), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(23), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–432, div. A, title IV, §419(c), Dec. 20, 2006, 120 Stat. 2968.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ Subsec. (d)(1). Pub. L. 104–168 substituted "name, address, and phone number o
 
 Subsec. (b)(2)(C), (D). Pub. L. 102–239, §7646(a), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (d)(2). Pub. L. 102–239, §7646(b)(2), inserted "(other than points)" after "subsection (a)(2)" and "(and the information required under subsection (b)(2)(C))" after "to be furnished".
+Subsec. (d)(2). Pub. L. 102–239, §7646(b)(2), inserted "(other than points)" after "subsection (a)(2)" and"(and the information required under subsection (b)(2)(C))" after "to be furnished".
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–514, §1501(c)(11), in amending subsec. (d) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 

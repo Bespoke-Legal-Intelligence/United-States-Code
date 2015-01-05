@@ -4,13 +4,13 @@
 
 #### (1) Requirement
 
-&emsp;Except as provided in subsection (b) of this section, a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
+&emsp;Except as provided in subsection (b), a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
 
-#### (2) Designation of country of origin for beef, lamb, pork, chicken, and goat meat
+#### (2) Designation of country of origin for beef, lamb, pork, chicken, goat, and venison meat
 
 #### (A) United States country of origin
 
-&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
+&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
 
 &emsp;&emsp;&emsp;(i) exclusively born, raised, and slaughtered in the United States;
 
@@ -22,7 +22,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat that is derived from an animal that is—
+&emsp;&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is—
 
 &emsp;&emsp;&emsp;&emsp;(I) not exclusively born, raised, and slaughtered in the United States,
 
@@ -38,7 +38,7 @@
 
 #### (C) Imported for immediate slaughter
 
-&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—
+&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—
 
 &emsp;&emsp;&emsp;(i) the country from which the animal was imported; and
 
@@ -46,21 +46,21 @@
 
 #### (D) Foreign country of origin
 
-&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
+&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
 
-#### (E) Ground beef, pork, lamb, chicken, and goat
+#### (E) Ground beef, pork, lamb, chicken, goat, and venison
 
-&emsp;&emsp;The notice of country of origin for ground beef, ground pork, ground lamb, ground chicken, or ground goat shall include—
+&emsp;&emsp;The notice of country of origin for ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison shall include—
 
-&emsp;&emsp;&emsp;(i) a list of all countries of origin of such ground beef, ground pork, ground lamb, ground chicken, or ground goat; or
+&emsp;&emsp;&emsp;(i) a list of all countries of origin of such ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison; or
 
-&emsp;&emsp;&emsp;(ii) a list of all reasonably possible countries of origin of such ground beef, ground pork, ground lamb, ground chicken, or ground goat.
+&emsp;&emsp;&emsp;(ii) a list of all reasonably possible countries of origin of such ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison.
 
 #### (3) Designation of country of origin for fish
 
 #### (A) In general
 
-&emsp;&emsp;A retailer of a covered commodity that is farm-raised fish or wild fish may designatethe covered commodity as having a United States country of origin only if the covered commodity—
+&emsp;&emsp;A retailer of a covered commodity that is farm-raised fish or wild fish may designate the covered commodity as having a United States country of origin only if the covered commodity—
 
 &emsp;&emsp;&emsp;(i) in the case of farm-raised fish, is hatched, raised, harvested, and processed in the United States; and
 
@@ -86,7 +86,7 @@
 
 #### (b) Exemption for food service establishments
 
-Subsection (a) of this section shall not apply to a covered commodity if the covered commodity is—
+Subsection (a) shall not apply to a covered commodity if the covered commodity is—
 
 &emsp;(1) prepared or served in a food service establishment; and
 
@@ -98,7 +98,7 @@ Subsection (a) of this section shall not apply to a covered commodity if the cov
 
 #### (1) In general
 
-&emsp;The information required by subsection (a) of this section may be provided to consumers by means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
+&emsp;The information required by subsection (a) may be provided to consumers by means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
 
 #### (2) Labeled commodities
 
@@ -144,7 +144,7 @@ Any person engaged in the business of supplying a covered commodity to a retaile
 
 &emsp;&emsp;(E) the origin verification system established to carry out the market access program under section 5623 of this title.
 
-(Aug. 14, 1946, ch. 966, title II, §282, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 107–206, title I, §208, Aug. 2, 2002, 116 Stat. 833; Pub. L. 110–234, title XI, §11002(2), May 22, 2008, 122 Stat. 1352; Pub. L. 110–246, §4(a), title XI, §11002(2), June 18, 2008, 122 Stat. 1664, 2113.)
+(Aug. 14, 1946, ch. 966, title II, §282, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 107–206, title I, §208, Aug. 2, 2002, 116 Stat. 833; Pub. L. 110–234, title XI, §11002(2), May 22, 2008, 122 Stat. 1352; Pub. L. 110–246, §4(a), title XI, §11002(2), June 18, 2008, 122 Stat. 1664, 2113; Pub. L. 113–79, title XII, §12104(b)(2), Feb. 7, 2014, 128 Stat. 979.)
 
 #### References in Text
 
@@ -157,6 +157,12 @@ May 13, 2002, referred to in subsec. (f)(2), was in the original "the date of en
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–79, §12104(b)(2)(A), substituted "goat, and venison" for "and goat" in heading.
+
+Subsec. (a)(2)(A), (B)(i), (C), (D). Pub. L. 113–79, §12104(b)(2)(B), substituted "goat, or venison" for "or goat".
+
+Subsec. (a)(2)(E). Pub. L. 113–79, §12104(b)(2)(C), substituted "goat, and venison" for "and goat" in heading and "ground goat, or ground venison" for "or ground goat" wherever appearing in text.
 
 <b>2008</b>—Subsec. (a)(2) to (4). Pub. L. 110–246, §11002(2)(A), added pars. (2) to (4) and struck out former pars. (2) and (3) which related to designation of United States as country of origin for beef, lamb, pork, fish, perishable agricultural commodities, and peanuts, and requirement that notice of country of origin for fish shall distinguish between wild and farm-raised fish.
 

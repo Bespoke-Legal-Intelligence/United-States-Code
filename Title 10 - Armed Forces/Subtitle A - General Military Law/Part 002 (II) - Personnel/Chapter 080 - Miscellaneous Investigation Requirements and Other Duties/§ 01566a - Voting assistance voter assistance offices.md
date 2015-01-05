@@ -2,15 +2,15 @@
 
 (a)
 
-Designation of Offices on Military Installations as Voter Assistance Offices.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
+Designation of Offices on Military Installations as Voter Assistance Offices.—Under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location, to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
 
-&emsp;(1) Information on voter registration procedures and absentee ballot procedures (including the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff)).
+&emsp;(1) Information on voter registration procedures and absentee ballot procedures (including the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff)).<sup>1</sup>
 
 &emsp;(2) Information and assistance, if requested, including access to the Internet where practicable, to register to vote in an election for Federal office.
 
 &emsp;(3) Information and assistance, if requested, including access to the Internet where practicable, to update the individual's voter registration information, including instructions for absent uniformed services voters to change their address by submitting the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act to the appropriate State election official.
 
-&emsp;(4) Information and assistance, if requested, to request an absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.).
+&emsp;(4) Information and assistance, if requested, to request an absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.).<sup>1</sup>
 
 (b)
 
@@ -46,33 +46,43 @@ Outreach.—The Secretary of each military department, or the Presidential desig
 
 (e)
 
-Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–5(a)(2)) for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
+Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–5(a)(2)) <sup>1</sup> for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
 
 (f)
 
-Regulations.—The Secretary of Defense shall prescribe regulations relating to the administration of the requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
+Regulations.—
+
+&emsp;(1) The Secretary of Defense shall prescribe regulations relating to the administration of the requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
+
+&emsp;(2) The Secretary of a military department shall provide the Committees on Armed Services of the Senate and the House of Representatives with notice of any decision by the Secretary to close a voter assistance office that was designated on an installation before the date of the enactment of this paragraph. The notice shall include the rational for the closure, the timing of the closure, the number of covered individuals supported by the office, and the plan for providing the assistance available under subsection (a) to covered individuals after the closure of the office.
 
 (g)
 
 Definitions.—In this section:
 
-&emsp;(1) The term "absent uniformed services voter" has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
+&emsp;(1) The term "absent uniformed services voter" has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).<sup>1</sup>
 
-&emsp;(2) The term "Federal office" has the meaning given that term in section 107(3) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(3)).
+&emsp;(2) The term "Federal office" has the meaning given that term in section 107(3) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(3)).<sup>1</sup>
 
-&emsp;(3) The term "Presidential designee" means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).
+&emsp;(3) The term "Presidential designee" means the official designated by the President undersection 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).<sup>1</sup>
 
-(Added Pub. L. 111–84, div. A, title V, §583(b)(1), Oct. 28, 2009, 123 Stat. 2328; amended Pub. L. 111–383, div. A, title X, §1075(b)(21), Jan. 7, 2011, 124 Stat. 4370.)
+(Added Pub. L. 111–84, div. A, title V, §583(b)(1), Oct. 28, 2009, 123 Stat. 2328; amended Pub. L. 111–383, div. A, title X, §1075(b)(21), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 113–291, div. A, title V, §592, title X, §1071(e)(2), Dec. 19, 2014, 128 Stat. 3395, 3509.)
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§20301 et seq.) of Title 52. Sections 101 and 107 of the Act are now classified to sections 20301 and 20310, respectively, of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (a)(4), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
-
-The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§20501 et seq.) of Title 52. Section 7 of the Act is now classified to section 20506 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a). Pub. L. 113–291, §1071(e)(2), which directed substitution of "Under" for "Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under" in introductory provisions, could not be executed because of the prior amendment by Pub. L. 113–291, §592(a)(1). See below.
+
+Pub. L. 113–291, §592(a), in introductory provisions, substituted "Under" for "Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under" and inserted ", or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location," after "their jurisdiction".
+
+Subsec. (f). Pub. L. 113–291, §592(b), designated existing provisions as par. (1) and added par. (2).
+
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–383 inserted closing parenthesis before period at end.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

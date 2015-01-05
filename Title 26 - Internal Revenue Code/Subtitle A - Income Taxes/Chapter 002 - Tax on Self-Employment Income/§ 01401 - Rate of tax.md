@@ -2,33 +2,13 @@
 
 #### (a) Old-age, survivors, and disability insurance
 
-In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to the following percent of the amount of the self-employment income for such taxable year:
-
-&nbsp;
-
-| &nbsp; | &nbsp; | &nbsp; |
-| :--- | :---: | ---: |
-| <b>  In the case of a taxable year</b> |  |  |
-| <b>Beginning after:</b> | <b>And before:</b> | <b>Percent:</b> |
-| December 31, 1983 | January 1, 1988 | 11\.40 |
-| December 31, 1987 | January 1, 1990 | 12\.12 |
-| December 31, 1989 | 12\.40 |  |
+In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 12.4 percent of the amount of the self-employment income for such taxable year.
 
 #### (b) Hospital insurance
 
 #### (1) In general
 
-&emsp;In addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to the following percent of the amount of the self-employment income for such taxable year:
-
-&nbsp;
-
-| &nbsp; | &nbsp; | &nbsp; |
-| :--- | :---: | ---: |
-| <b>  In the case of a taxable year</b> |  |  |
-| <b>Beginning after:</b> | <b>And before:</b> | <b>Percent:</b> |
-| December 31, 1983 | January 1, 1985 | 2\.60&nbsp;&nbsp; |
-| December 31, 1984 | January 1, 1986 | 2\.70&nbsp;&nbsp; |
-| December 31, 1985 | 2\.90. |  |
+&emsp;In addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 2.9 percent of the amount of the self-employment income for such taxable year.
 
 #### (2) Additional tax
 
@@ -50,13 +30,37 @@ In addition to other taxes, there shall be imposed for each taxable year, on the
 
 During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, the self-employment income of an individual shall be exempt from the taxes imposed by this section to the extent that such self-employment income is subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §208(a), 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §202(a), 70 Stat. 845; Pub. L.85–840, title IV, §401(a), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title I, §111(c)(4), title III, §321(a), July 30, 1965, 79 Stat. 342, 394; Pub. L. 90–248, title I, §109(a)(1), (b)(1), Jan. 2, 1968, 81 Stat. 835, 836; Pub. L. 92–336, title II, §204 (a)(1), (b)(1), July 1, 1972, 86 Stat. 420, 421; Pub. L. 92–603, title I, §135(a)(1), (b)(1), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(b)(1), Dec. 31, 1973, 87 Stat. 955; Pub. L. 94–455, title XIX, §1901(a)(154), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–216, title I, §101(a)(3), (b)(3), title III, §317(b)(1), Dec. 20, 1977, 91 Stat. 1511, 1512, 1539; Pub. L. 98–21, title I, §124(a), (b), Apr. 20, 1983, 97 Stat. 89; Pub. L. 101–508, title XI, §11801(a)(36), (c)(16), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, §9015(b)(1), title X, §10906(b), Mar. 23, 2010, 124 Stat. 871, 1020; Pub. L. 111–152, title I, §1402(b)(1)(B), Mar. 30, 2010, 124 Stat. 1063.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §208(a), 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §202(a), 70 Stat. 845; Pub. L. 85–840, title IV, §401(a), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title I, §111(c)(4), title III, §321(a), July 30, 1965, 79 Stat. 342, 394; Pub. L. 90–248, title I, §109(a)(1), (b)(1), Jan. 2, 1968, 81 Stat. 835, 836; Pub. L. 92–336, title II, §204 (a)(1), (b)(1), July 1, 1972, 86 Stat. 420, 421; Pub. L. 92–603, title I, §135(a)(1), (b)(1), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(b)(1), Dec. 31, 1973, 87 Stat. 955; Pub. L. 94–455, title XIX, §1901(a)(154), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–216, title I, §101(a)(3), (b)(3), title III, §317(b)(1), Dec. 20, 1977, 91 Stat. 1511, 1512, 1539; Pub. L. 98–21, title I, §124(a), (b), Apr. 20, 1983, 97 Stat. 89; Pub. L. 101–508, title XI, §11801(a)(36), (c)(16), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, §9015(b)(1), title X, §10906(b), Mar. 23, 2010, 124 Stat. 871, 1020; Pub. L. 111–152, title I, §1402(b)(1)(B), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §221(a)(89), (90), Dec. 19, 2014, 128 Stat. 4050.)
 
 #### References in Text
 
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to section 433 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–295, §221(a)(89), substituted "12.4 percent of the amount of the self-employment income for such taxable year." for "the followingpercent of the amount of the self-employment income for such taxable year:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| <b>  "In the case of a taxable year</b> |  |  |
+| <b>Beginning after:</b> | <b>And before:</b> | <b>Percent:</b> |
+| December 31, 1983 | January 1, 1988 | 11\.40 |
+| December 31, 1987 | January 1, 1990 | 12\.12 |
+| December 31, 1989 | 12\.40". |  |
+
+Subsec. (b)(1). Pub. L. 113–295, §221(a)(90), substituted "2.9 percent of the amount of the self-employment income for such taxable year." for "the following percent of the amount of the self-employment income for such taxable year:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| <b>  "In the case of a taxable year</b> |  |  |
+| <b>Beginning after:</b> | <b>And before:</b> | <b>Percent:</b> |
+| December 31, 1983 | January 1, 1985 | 2\.60&nbsp;&nbsp; |
+| December 31, 1984 | January 1, 1986 | 2\.70&nbsp;&nbsp; |
+| December 31, 1985 | 2\.90." |  |
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–148, §9015(b)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -98,11 +102,11 @@ Subsec. (b)(6). Pub. L. 93–233 added par. (6).
 
 <b>1972</b>—Subsec. (a)(3). Pub. L. 92–603, §135(a)(1)(A), substituted "1973" for "1978".
 
-Subsec. (a)(4). Pub. L. 92–603, §135(a)(1)(B), substituted provisions that in the case of taxable years beginning after Dec. 31, 1972, the tax shall be equal to 7.0 percent of the amount of the self-employment income for such taxable year, for provisions that in the case of taxableyears beginning after Dec. 31, 1977, and before Jan. 1, 2011, the tax shall be equal to 6.7 percent of the amount of the self-employment income for such taxable year.
+Subsec. (a)(4). Pub. L. 92–603, §135(a)(1)(B), substituted provisions that in the case of taxable years beginning after Dec. 31, 1972, the tax shall be equal to 7.0 percent of the amount of the self-employment income for such taxable year, for provisions that in the case of taxable years beginning after Dec. 31, 1977, and before Jan. 1, 2011, the tax shall be equal to 6.7 percent of the amount of the self-employment income for such taxable year.
 
 Subsec. (a)(5). Pub. L. 92–603, §135(a)(1)(B), struck out par. (5) which provided that in the case of taxable years beginning after Dec. 31, 2010, the tax shall be equal to 7.0 percent of the amount of the self-employment income for the taxable year.
 
-Subsec. (a)(3) to (5). Pub. L. 92–336, §204(a)(1), substituted "January 1, 1978" for "January 1, 1973" and struck out "and" after "such taxable year" in par. (3), extended from any taxable year beginning after December 31, 1972 to any taxable year beginning after December 31, 1977, and before January 1, 2011, and decreased from 7.0 percent to 6.7 percent the provisions relating to the tax on self-employment income in par. (4), and added par. (5).
+Subsec. (a)(3) to (5). Pub. L. 92–336, §204(a)(1), substituted "January 1, 1978" for "January 1, 1973" and struck out "and" after "such taxable year" in par. (3),extended from any taxable year beginning after December 31, 1972 to any taxable year beginning after December 31, 1977, and before January 1, 2011, and decreased from 7.0 percent to 6.7 percent the provisions relating to the tax on self-employment income in par. (4), and added par. (5).
 
 Subsec. (b)(2). Pub. L. 92–603, §135(b)(1), increased the rate of tax from 0.9 percent to 1.0 percent.
 
@@ -130,6 +134,10 @@ Subsec. (b). Pub. L. 89–97, §111(c)(4), struck out provision that for purpose
 
 <b>1954</b>—Act Sept. 1, 1954, increased the 47/8 percent rate of tax on self-employment income for taxable years beginning after Dec. 31, 1969, to 5¼ percent for taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1975, and 6 percent for taxable years beginning after Dec. 31, 1974.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–152, title I, §1402(b)(3), Mar. 30, 2010, 124 Stat. 1063, provided that: "The amendments made by this subsection \[amending this section and sections 3101 and 6654 of this title\] shall apply with respect to remuneration received, and taxable years beginning after, December 31, 2012."
@@ -152,7 +160,7 @@ Subsection (c).—The amendments made by subsection (c) \[amending sections 32, 
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–216, title I, §104, Dec. 20, 1977, 91 Stat. 1514, provided that: "The amendments made by this title\[amending this section, sections 3101 and 3111 of this title, and sections 401, 415, and 430 of Title 42, The Public Health and Welfare\] shall apply with respect to remuneration paid or received, and taxable years beginning, after 1977."
+Pub. L. 95–216, title I, §104, Dec. 20, 1977, 91 Stat. 1514, provided that: "The amendments made by this title \[amending this section, sections 3101 and 3111 of this title, and sections 401, 415, and 430 of Title 42, The Public Health and Welfare\] shall apply with respect to remuneration paid or received, and taxable years beginning, after 1977."
 
 #### Effective Date of 1976 Amendment
 
@@ -236,7 +244,7 @@ Transfers of Funds.—
 
 &emsp;"(1)
 
-Transfers to federal old-age and survivors insurance trust fund.—There are hereby appropriated to the Federal Old-Age and Survivors Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) amounts equal to the reduction in revenues to the Treasury by reason of the application of subsection (a). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund had such amendments not been enacted.
+Transfers to federal old-age and survivors insurance trust fund.—There are hereby appropriated to the Federal Old-Age and Survivors Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) amounts equal to the reduction in revenues to the Treasury by reason of the application of subsection (a). Amounts appropriated bythe preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund had such amendments not been enacted.
 
 &emsp;"(2)
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(i) individuals who are representatives of institutions of higher education that plan, develop, and carry out high quality programs of personnel preparation;
 
-&emsp;&emsp;&emsp;(ii) individuals who design and carry out scientifically based research targeted tothe improvement of special education programs and services;
+&emsp;&emsp;&emsp;(ii) individuals who design and carry out scientifically based research targeted to the improvement of special education programs and services;
 
 &emsp;&emsp;&emsp;(iii) individuals who have recognized experience and knowledge necessary to integrate and apply scientifically based research findings to improve educational and transitional results for children with disabilities;
 
@@ -116,7 +116,7 @@ Another prior section 1483, Pub. L. 91–230, title VI, §683, as added Pub. L. 
 
 A prior section 1484, Pub. L. 91–230, title VI, §684, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 152, which related to technical assistance for parent training and information centers, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1484, Pub. L. 91–230, title VI, §684, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986,100 Stat. 1154; amended Pub. L. 101–476, title IX, §901(b)(185), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, §§19(a)(1), (b), 25(b), Oct. 7, 1991, 105 Stat. 600, 601, 607; Pub. L. 103–382, title III, §313(a), Oct. 20, 1994, 108 Stat. 3935, related to allocation of funds, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1484, Pub. L. 91–230, title VI, §684, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1154; amended Pub. L. 101–476, title IX, §901(b)(185), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, §§19(a)(1), (b), 25(b), Oct. 7, 1991, 105 Stat. 600, 601, 607; Pub. L. 103–382, title III, §313(a), Oct. 20, 1994, 108 Stat. 3935, related to allocation of funds, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
 A prior section 1484a, Pub. L. 91–230, title VI, §685, as added Pub. L. 102–119, §21(2), Oct. 7, 1991, 105 Stat. 602; amended Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 103–448, title II, §204(w)(2)(B), Nov. 2, 1994, 108 Stat. 4746, related to establishment, composition, functions, etc., of the Federal Interagency Coordinating Council, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 

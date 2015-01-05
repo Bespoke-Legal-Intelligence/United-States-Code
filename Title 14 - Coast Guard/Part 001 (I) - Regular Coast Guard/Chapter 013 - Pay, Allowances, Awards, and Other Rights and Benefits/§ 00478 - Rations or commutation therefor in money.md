@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 14, U.S.C., 1946 ed., §§134, 135 (Mar. 25, 1940, ch. 71, title I, 54 Stat. 64; June 6, 1940, ch. 257, §10, 54 Stat. 248; May 31, 1941, ch. 156, title I, §1, 55 Stat. 221; Feb. 7, 1942, ch. 46, title I, 56 Stat. 71; June 26, 1943, ch. 147, §1, 57 Stat. 211; June 22, 1944, ch. 269, §1, 58 Stat. 316; May 29, 1945, ch. 130, §1, 59 Stat. 216; July 12, 1946, ch. 569, §1, 60 Stat. 531; Aug. 2, 1946, ch. 756, §31, 60 Stat. 857; July 1, 1947, ch. 186, title I, §101, 61 Stat. 226).
+Based on title 14, U.S.C., 1946 ed., §§134, 135 (Mar. 25, 1940, ch. 71, title I, 54 Stat. 64; June 6, 1940, ch. 257, §10,54 Stat. 248; May 31, 1941, ch. 156, title I, §1, 55 Stat. 221; Feb. 7, 1942, ch. 46, title I, 56 Stat. 71; June 26, 1943, ch. 147, §1, 57 Stat. 211; June 22, 1944, ch. 269, §1, 58 Stat. 316; May 29, 1945, ch. 130, §1, 59 Stat. 216; July 12, 1946, ch. 569, §1, 60 Stat. 531; Aug. 2, 1946, ch. 756, §31, 60 Stat. 857; July 1, 1947, ch. 186, title I, §101, 61 Stat. 226).
 
 The provisions of said section 134 are extended to include all persons who might be entitled to receive money for commuted rations, rather than only the officer in charge of the mess.
 

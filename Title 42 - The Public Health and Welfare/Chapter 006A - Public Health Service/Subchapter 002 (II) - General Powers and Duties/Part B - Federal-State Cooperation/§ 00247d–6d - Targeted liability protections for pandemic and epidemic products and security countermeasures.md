@@ -120,7 +120,7 @@
 
 #### (9) Report to Congress
 
-&emsp;Within 30 days after making a declaration under paragraph (1), the Secretary shall submit to the appropriate committees of the Congress a report that provides an explanation of the reasons for issuing the declaration and the reasons underlying the determinations of the Secretary with respect to paragraph (2). Within 30 days after making an amendment under paragraph (4), the Secretary shall submit to such committees a report that provides the reasons underlying the determination of the Secretary to make the amendment.
+&emsp;Within 30 days after making a declaration under paragraph (1), the Secretary shall submit to the appropriate committees of the Congress a report that provides an explanation ofthe reasons for issuing the declaration and the reasons underlying the determinations of the Secretary with respect to paragraph (2). Within 30 days after making an amendment under paragraph (4), the Secretary shall submit to such committees a report that provides the reasons underlying the determination of the Secretary to make the amendment.
 
 #### (c) Definition of willful misconduct
 
@@ -184,7 +184,7 @@
 
 #### (i) Enforcement action
 
-&emsp;&emsp;&emsp;The term "enforcement action" means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
+&emsp;&emsp;&emsp;The term "enforcement action" means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct,of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
 
 #### (ii) Covered remedy
 
@@ -378,7 +378,7 @@ In this section:
 
 &emsp;&emsp;(A) a contractor or subcontractor of a manufacturer;
 
-&emsp;&emsp;(B) a supplier or licenser of any product, intellectual property, service, research tool,or component or other article used in the design, development, clinical testing, investigation, or manufacturing of a covered countermeasure; and
+&emsp;&emsp;(B) a supplier or licenser of any product, intellectual property, service, research tool, or component or other article used in the design, development, clinical testing, investigation, or manufacturing of a covered countermeasure; and
 
 &emsp;&emsp;(C) any or all of the parents, subsidiaries, affiliates, successors, and assigns of a manufacturer.
 

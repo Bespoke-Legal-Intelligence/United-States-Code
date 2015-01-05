@@ -166,7 +166,7 @@ Term of President's Council of Advisors on Science and Technology extended until
 
 Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex.Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Executive Order No. 13237
 
@@ -310,7 +310,7 @@ Term of President's Council of Advisors on Science and Technology extended until
 
 Memorandum of President of the United States, Mar. 27, 1997, 62 F.R. 26369, provided:
 
-Memorandum for the Secretary of Defense, the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Energy, the Secretary of Education, the Secretary of Veterans Affairs, the Director of Central Intelligence, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, the Chair of the Nuclear Regulatory Commission, the Director of the Office of Science and Technology Policy, \[and\] the Chair of the Consumer Product Safety Commission
+Memorandum for the Secretary of Defense, the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary ofTransportation, the Secretary of Energy, the Secretary of Education, the Secretary of Veterans Affairs, the Director of Central Intelligence, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, the Chair of the Nuclear Regulatory Commission, the Director of the Office of Science and Technology Policy, \[and\] the Chair of the Consumer Product Safety Commission
 
 I have worked hard to restore trust and ensure openness in government. This memorandum will further our progress toward these goals by strengthening the Federal Government's protections for human subjects of classified research.
 

@@ -10,7 +10,7 @@ Section was formerly classified to section 121 of this title prior to editorial 
 
 #### Amendments
 
-<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
+<b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee on Rules".
 
 #### Effective Date of 1946 Amendment
 

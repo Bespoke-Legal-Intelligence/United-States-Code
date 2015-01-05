@@ -46,7 +46,7 @@ In subsec. (b), "chapter 51 and subchapter III of chapter 53 of title 5" substit
 
 <b>1995</b>—Subsec. (d)(1). Pub. L. 104–66 in first sentence substituted "biennially" and "preceding two years" for "annually" and "preceding year", respectively.
 
-<b>1974</b>—Subsec. (d)(1). Pub. L. 93–259, §§24(c), 27(1), (2), inserted provision at end of subsec. (d) requiring the report to Congress to include a summary of the specialcertificates issued under section 214(b) of this title, designated subsec. (d) provisions as subsec. (d)(1), and required the report to contain an evaluation and appraisal of overtime coverage established by this chapter, respectively.
+<b>1974</b>—Subsec. (d)(1). Pub. L. 93–259, §§24(c), 27(1), (2), inserted provision at end of subsec. (d) requiring the report to Congress to include a summary of the special certificates issued under section 214(b) of this title, designated subsec. (d) provisions as subsec. (d)(1), and required the report to contain an evaluation and appraisal of overtime coverage established by this chapter, respectively.
 
 Subsec. (d)(2), (3). Pub. L. 93–259, §27(3), added pars. (2) and (3).
 
@@ -86,7 +86,7 @@ Functions relating to enforcement and administration of equal pay provisions ves
 
 "Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (f), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 #### Minimum Wage Study Commission; Establishment, Purposes, Composition, Etc.
 

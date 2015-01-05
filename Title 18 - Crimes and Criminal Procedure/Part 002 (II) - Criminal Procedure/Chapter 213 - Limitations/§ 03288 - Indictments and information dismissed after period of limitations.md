@@ -8,7 +8,7 @@ Whenever an indictment or information charging a felony is dismissed for any rea
 
 Based on title 18, U.S.C., 1940 ed., §§556a, 587, 589 (Apr. 30, 1934, ch. 170, §1, 48 Stat. 648; May 10, 1934, ch. 278, §§1, 3, 48 Stat. 772; July 10, 1940, ch. 567, 54 Stat. 747).
 
-This section is a consolidation of sections 556a, 587, and 589 of title 18, U.S.C., 1940 ed., without change ofsubstance. (See reviser's note under section 3289 of this title.)
+This section is a consolidation of sections 556a, 587, and 589 of title 18, U.S.C., 1940 ed., without change of substance. (See reviser's note under section 3289 of this title.)
 
 #### Amendments
 

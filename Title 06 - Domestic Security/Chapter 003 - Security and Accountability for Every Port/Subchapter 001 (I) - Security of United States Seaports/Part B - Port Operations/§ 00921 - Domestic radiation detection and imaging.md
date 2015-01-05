@@ -72,7 +72,7 @@ Not later than 3 years after October 13, 2006, the Secretary shall fully impleme
 
 #### (1) Establishment
 
-&emsp;In accordance with subsection (b), and in order to comply with this section, the Secretary shall establish an Intermodal Rail Radiation Detection Test Center (referred to in this subsection as the “Test Center”).
+&emsp;In accordance with subsection (b), and in order to comply with this section, the Secretary shall establish an Intermodal Rail Radiation Detection Test Center (referred to in this subsection as the "Test Center").
 
 #### (2) Projects
 

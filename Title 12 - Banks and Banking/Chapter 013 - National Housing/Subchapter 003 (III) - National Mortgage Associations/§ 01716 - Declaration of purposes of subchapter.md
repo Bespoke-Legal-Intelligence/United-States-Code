@@ -34,7 +34,7 @@ Par. (5). Pub. L. 102–550, §1381(a)(1), (3), redesignated par. (4) as (5) and
 
 Subsec. (a)(1)(G). Act June 29, 1954, substituted in first sentence "August 1, 1954" for "July 1, 1954".
 
-<b>1953</b>—Subsec. (a)(1)(E). Act June 30, 1953, §12, in cl. (2), substituted "principal amount to be paid therefor" for "unpaid principal balance thereof", and "aggregate principal amount" for "aggregate amount"; and substituted three provisos for former proviso which madesuch cl. (2) and any terms therein inapplicable to any defense or disaster mortgages as defined in subpar. (G) of par. (1).
+<b>1953</b>—Subsec. (a)(1)(E). Act June 30, 1953, §12, in cl. (2), substituted "principal amount to be paid therefor" for "unpaid principal balance thereof", and "aggregate principal amount" for "aggregate amount"; and substituted three provisos for former proviso which made such cl. (2) and any terms therein inapplicable to any defense or disaster mortgages as defined in subpar. (G) of par. (1).
 
 Subsec. (a)(1)(G). Act June 30, 1953, §13(a), substituted in first sentence "July 1, 1954" for "July 1, 1953".
 

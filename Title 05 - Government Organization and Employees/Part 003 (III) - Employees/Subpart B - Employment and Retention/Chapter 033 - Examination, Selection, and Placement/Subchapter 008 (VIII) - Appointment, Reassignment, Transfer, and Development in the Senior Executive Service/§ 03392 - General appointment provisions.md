@@ -8,7 +8,7 @@
 
 (b) Not more than 30 percent of the Senior Executive Service positions authorized under section 3133 of this title may at any time be filled by individuals who did not have 5 years of current continuous service in the civil service immediately preceding their initial appointment to the Senior Executive Service, unless the President certifies to the Congress that the limitation would hinder the efficiency of the Government. In applying the preceding sentence, any break in service of 3 days or less shall be disregarded.
 
-(c)(1) If a career appointee is appointed by the President, by and with the advice and consent of the Senate, to a civilian position in the executive branch which is not in the Senior Executive Service, and the rate of basic pay payable for which is equal to or greater than the rate payable for level V of the Executive Schedule, the career appointee may elect (at such time and in such manner as the Office may prescribe) to continue to have the provisions of this title relating to basic pay, performance awards, awarding of ranks, severance pay, leave, and retirement apply as if the career appointee remained in the Senior Executive Service position from which he was appointed. Such provisions shall apply in lieu of the provisions which would otherwise apply—
+(c)(1) If a career appointee is appointed by the President, by and with the advice and consent of the Senate, to a civilian position in the executive branch which is not in the Senior Executive Service, and the rate of basic pay payable for which is equal to or greater than the rate payable for level V of the Executive Schedule, thecareer appointee may elect (at such time and in such manner as the Office may prescribe) to continue to have the provisions of this title relating to basic pay, performance awards, awarding of ranks, severance pay, leave, and retirement apply as if the career appointee remained in the Senior Executive Service position from which he was appointed. Such provisions shall apply in lieu of the provisions which would otherwise apply—
 
 &emsp;(A) to the extent provided under regulations prescribed by the Office, and
 
@@ -40,33 +40,33 @@ A prior section 3392, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–335, §7(b)(1), July 17, 1990, 104 Stat. 325, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[July 17, 1990\].”
+Pub. L. 101–335, §7(b)(1), July 17, 1990, 104 Stat. 325, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[July 17, 1990\]."
 
 #### Election by Persons Previously Appointed; Retroactive Performance Awards
 
 Pub. L. 101–335, §7(b)(2), (3), July 17, 1990, 104 Stat. 325, as amended by Pub. L. 102–378, §7(a), Oct. 2, 1992, 106 Stat. 1359, provided that:
 
-“(2)
+"(2)
 
 Election by persons previously appointed.—The Office of Personnel Management shall prescribe regulations (including procedures and deadlines) under which an election under section 3392(c)(2) of title 5, United States Code (as amended by this section) may be made by any individual who—
 
-&emsp;“(A) on the date of enactment of this Act \[July 17, 1990\], is serving in a civilian position in the executive branch which—
+&emsp;"(A) on the date of enactment of this Act \[July 17, 1990\], is serving in a civilian position in the executive branch which—
 
-&emsp;&emsp;“(i) is not in the Senior Executive Service; and
+&emsp;&emsp;"(i) is not in the Senior Executive Service; and
 
-&emsp;&emsp;“(ii) satisfies section 3392(c)(2)(B) of such title 5 (as so amended);
+&emsp;&emsp;"(ii) satisfies section 3392(c)(2)(B) of such title 5 (as so amended);
 
-&emsp;“(B) was appointed to that position on or after November 1, 1986, and has served continuously in such position since then;
+&emsp;"(B) was appointed to that position on or after November 1, 1986, and has served continuously in such position since then;
 
-&emsp;“(C) was a career appointee (within the meaning of section 3132(a)(4) of such title 5) immediately before having been so appointed; and
+&emsp;"(C) was a career appointee (within the meaning of section 3132(a)(4) of such title 5) immediately before having been so appointed; and
 
-&emsp;“(D) was not, based on such individual's appointment to the position described in subparagraph (A), eligible to make an election under section 3392(c) of such title 5 (as then in effect).
+&emsp;"(D) was not, based on such individual's appointment to the position described in subparagraph (A), eligible to make an election under section 3392(c) of such title 5 (as then in effect).
 
 > An election under this paragraph shall be effective as of the date of appointment to the position described in subparagraph (A).
 
-“(3)
+"(3)
 
-Retroactive performance awards.—If an individual elects under paragraph (2) to continue to be subject to performance awards, the head of the agency in which such individual is serving shall determine whether to grant retroactive performance awards for any fiscal years prior to fiscal year 1991 to such individual, and the amount of any such awards, without regard to the provisions of subsection (b) of section 5383 of title 5, United States Code, and subsections (b) and (c) of section 5384 of such title. Before granting an award, the head of the agency shall make a written determination that the individual's performance during the fiscal year for which the award is given was at least fully successful, and shall consider the recommendation of the agency's performance review board with respect to the award. No such award for performance during any fiscal year may be less than 5 percent nor more than 15 percent of the individual's rate of basic pay as of the end of such fiscal year.”
+Retroactive performance awards.—If an individual elects under paragraph (2) to continue to be subject to performance awards, the head of the agency in which such individual is serving shall determine whether to grant retroactive performance awards for any fiscal years prior to fiscal year 1991 to such individual, and the amount of any such awards, without regard to the provisions of subsection (b) of section 5383 of title 5, United States Code, and subsections (b) and (c) of section 5384 of such title. Before granting an award, the head of the agency shall make a written determination that the individual's performance during the fiscal year for which the award is given was at least fully successful, and shall consider the recommendation of the agency's performance review board with respect to the award. No such award for performance during any fiscal year may be less than 5 percent nor more than 15 percent of the individual's rate of basic pay as of the end of such fiscal year."
 
-\[Pub. L. 102–378, §7(b), Oct. 2, 1992, 106 Stat. 1359, provided that: “The amendment made by subsection (a) \[enacting section 7(b)(3) of Pub. L. 101–335, set out above\] shall be effective as if enacted as a part of section 7 of the Thrift Savings Plan Technical Amendments Act of 1990 \[Pub. L. 101–335\].”\]
+\[Pub. L. 102–378, §7(b), Oct. 2, 1992, 106 Stat. 1359, provided that: "The amendment made by subsection (a) \[enacting section 7(b)(3) of Pub. L. 101–335, set out above\] shall be effective as if enacted as a part of section 7 of the Thrift Savings Plan Technical Amendments Act of 1990 \[Pub. L. 101–335\]."\]
 

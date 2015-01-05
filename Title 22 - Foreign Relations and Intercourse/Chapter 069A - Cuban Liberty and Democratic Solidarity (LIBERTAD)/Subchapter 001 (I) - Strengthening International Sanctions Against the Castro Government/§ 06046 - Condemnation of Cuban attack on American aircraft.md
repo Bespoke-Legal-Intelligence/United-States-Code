@@ -22,7 +22,7 @@ The Congress makes the following findings:
 
 &emsp;(9) The Cuban dictatorship, if it truly felt threatened by the flight of these unarmed aircraft, could have and should have pursued other peaceful options as required by international law.
 
-&emsp;(10) The response chosen by Fidel Castro, the use of lethal force, was completely inappropriate to the situation presented to the CubanGovernment, making such actions a blatant and barbaric violation of international law and tantamount to cold-blooded murder.
+&emsp;(10) The response chosen by Fidel Castro, the use of lethal force, was completely inappropriate to the situation presented to the Cuban Government, making such actions a blatant and barbaric violation of international law and tantamount to cold-blooded murder.
 
 &emsp;(11) There were no survivors of the attack on these aircraft, and the crew of a third aircraft managed to escape this criminal attack by Castro's Air Force.
 
@@ -38,7 +38,7 @@ The Congress makes the following findings:
 
 (1) The Congress strongly condemns the act of terrorism by the Castro regime in shooting down the Brothers to the Rescue aircraft on February 24, 1996.
 
-(2) The Congress extends its condolences to the families of Pablo Morales, Carlos Costa, Mario de la Pena, and Armando Alejandre, the victims of the attack.
+(2) The Congress extends its condolences to the families of Pablo Morales, Carlos Costa,Mario de la Pena, and Armando Alejandre, the victims of the attack.
 
 (3) The Congress urges the President to seek, in the International Court of Justice, indictment for this act of terrorism by Fidel Castro.
 

@@ -1,0 +1,24 @@
+### §143. Enhancement of Federal and non-Federal cybersecurity
+
+In carrying out the responsibilities under section 121 of this title, the Under Secretary appointed under section 113(a)(1)(H) of this title shall—
+
+&emsp;(1) as appropriate, provide to State and local government entities, and upon request to private entities that own or operate critical information systems—
+
+&emsp;&emsp;(A) analysis and warnings related to threats to, and vulnerabilities of, critical information systems; and
+
+&emsp;&emsp;(B) in coordination with the Under Secretary for Emergency Preparedness and Response, crisis management support in response to threats to, or attacks on, critical information systems; and
+
+&emsp;(2) as appropriate, provide technical assistance, upon request, to the private sector and other government entities, in coordination with the Under Secretary for Emergency Preparedness and Response, with respect to emergency recovery plans to respond to major failures of critical information systems; and
+
+&emsp;(3) fulfill the responsibilities of the Secretary to protect Federal information systems under subchapter II of chapter 35 of title 44.
+
+(Pub. L. 107–296, title II, §223, Nov. 25, 2002, 116 Stat. 2156; Pub. L. 110–53, title V, §531(b)(1)(A), Aug. 3, 2007, 121 Stat. 334; Pub. L. 113–283, §2(e)(3)(A), Dec. 18, 2014, 128 Stat. 3086.)
+
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–283, §2(e)(3)(A)(i), (ii), inserted "Federal and" before "non-Federal" in section catchline and substituted "the Under Secretary appointed under section 113(a)(1)(H) of this title" for "the Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection" in introductory provisions.
+
+Par. (3). Pub. L. 113–283, §2(e)(3)(A)(iii), (iv), added par. (3).
+
+<b>2007</b>—Pub. L. 110–53 substituted "Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection" for "Under Secretary for Information Analysis and Infrastructure Protection" in introductory provisions.
+

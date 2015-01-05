@@ -2,7 +2,7 @@
 
 #### (a) Applicability of civil service provisions
 
-(1) <sup>1</sup> Except as otherwise specified by law, all periods of civilian and military and naval service, and all other periods through the date of final separation of a participant from the Service that the Secretary of State determines would be creditable toward retirement under the Civil Service Retirement and Disability System (as determined in accordance with section 8332 of title 5), shall be creditable for purposes of this part. Conversely, any such service performed after December 31, 1976, that would not be creditable under specified conditions under section 8332 of title 5, shall be excluded under this part under the same conditions.
+(1) <sup>1</sup> Except as otherwise specified by law, all periods of civilian and military and naval service, and all other periods through the date of final separation of a participant from the Service that the Secretary of State determines would be creditable toward retirement under the Civil Service Retirement and Disability System (as determined in accordance with section 8332 of title 5), shall be creditable for purposes of this part. Conversely, any such service performed after December 31, 1976, that would not be creditable under specified conditions under section8332 of title 5, shall be excluded under this part under the same conditions.
 
 (2) The service of an individual who first becomes a participant on or after October 17, 1983, without any credit under this section for civilian service performed prior to October 1, 1982, shall include credit for:
 
@@ -10,9 +10,9 @@
 
 &emsp;(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this part is based, only if a deposit (with interest if any is required) is made with respect to that period, as provided in section 4045(e) of this title.
 
-(3) The service of an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j) of this section.
+(3) The service of an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j).
 
-(4) The service of an individual who first became a participant before October 17, 1983, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1976, to subsection (j) of this section.
+(4) The service of an individual who first became a participant before October 17, 1983, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1976, to subsection (j).
 
 #### (b) Unused sick leave credit
 
@@ -58,9 +58,9 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 (1) Service of a participant shall be considered creditable service for purposes of applying provisions of this part relating to former spouses if such service would be creditable—
 
-&emsp;(A) under subsection (c)(1) or (2) of this section but for the fact an election was not made under subsection (c)(1) of this section or a special contribution was not made under subsection (c)(2) of this section, and
+&emsp;(A) under subsection (c)(1) or (2) but for the fact an election was not made under subsection (c)(1) or a special contribution was not made under subsection (c)(2), and
 
-&emsp;(B) under subsection (d) of this section but for the fact that a refund of contributions has not been repaid unless the former spouse received under this part a portion of the lump sum (or a spousal agreement or court order provided otherwise).
+&emsp;(B) under subsection (d) but for the fact that a refund of contributions has not been repaid unless the former spouse received under this part a portion of the lump sum (or a spousal agreement or court order provided otherwise).
 
 (2) A former spouse shall not be considered as married to a participant for periods assumed to be creditable service under section 4048(a) of this title or section 4049(e) of this title.
 
@@ -100,7 +100,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 "(e) The preceding provisions of this section shall take effect with respect to any annuity payment payable under chapter 8 of the Act \[this subchapter\] for calendar months beginning after the date of this Order \[Oct. 17, 1983\].
 
-"(f) The Secretary of Health and Human Services shall furnish such information to the Secretary ofState as may be necessary to carry out the preceding provisions of this section."
+"(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section."
 
 <i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 

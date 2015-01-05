@@ -2,7 +2,7 @@
 
 #### (a) Lands to be taken in trust
 
-The Secretary shall accept any real property located in Coos and Curry Counties not to exceed one thousand acres for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary: <i>Provided</i>, That, at the time of such acceptance, there are no adverse legal claims onsuch property including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to his authority under the Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\].
+The Secretary shall accept any real property located in Coos and Curry Counties not to exceed one thousand acres for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary: <i>Provided</i>, That, at the time of such acceptance, there are no adverse legal claims on such property including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to his authority under the Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\].
 
 #### (b) Lands to be part of reservation
 
@@ -112,7 +112,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;(D) To the extent that Federal law authorizes the Coquille Indian Tribe to assume regulatory authority over an area, nothing herein shall be construed to enlarge or diminish the tribe's <sup>1</sup> authority to do so under such law.
 
-&emsp;(E) Unless and except to the extent that the tribe <sup>1</sup> has assumed jurisdiction over theCoquille Forest pursuant to Federal law, or otherwise with the consent of the State, the State of Oregon shall have jurisdiction and authority to enforce its laws addressing the subjects listed in subparagraph 10 <sup>8</sup> of this subsection on the Coquille Forest against the Coquille Indian Tribe, its members and all other persons and entities, in the same manner and with the same remedies and protections and appeal rights as otherwise provided by general Oregon law. Where the State of Oregon and Coquille Indian Tribe agree regarding the exercise of tribal civil regulatory jurisdiction over activities on the Coquille Forest lands, the tribe <sup>1</sup> may exercise such jurisdiction as its <sup>9</sup> agreed upon.
+&emsp;(E) Unless and except to the extent that the tribe <sup>1</sup> has assumed jurisdiction over the Coquille Forest pursuant to Federal law, or otherwise with the consent of the State, the State of Oregon shall have jurisdiction and authority to enforce its laws addressing the subjects listed in subparagraph 10 <sup>8</sup> of this subsection on the Coquille Forest against the Coquille Indian Tribe, its members and all other persons and entities, in the same manner and with the same remedies and protections and appeal rights as otherwise provided by general Oregon law. Where the State of Oregon and Coquille Indian Tribe agree regarding the exercise of tribal civil regulatory jurisdiction over activities on the Coquille Forest lands, the tribe <sup>1</sup> may exercise such jurisdiction as its <sup>9</sup> agreed upon.
 
 #### (12) Conflict between laws
 

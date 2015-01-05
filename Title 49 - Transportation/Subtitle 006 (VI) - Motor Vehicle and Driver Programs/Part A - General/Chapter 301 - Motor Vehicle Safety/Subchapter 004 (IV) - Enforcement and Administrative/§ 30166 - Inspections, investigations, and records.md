@@ -36,7 +36,7 @@ Matters That Can Be Inspected and Impoundment.—In carrying out this chapter, a
 
 (d)
 
-Reasonable Compensation.—When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motorvehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
+Reasonable Compensation.—When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
 
 (e)
 
@@ -150,7 +150,7 @@ Secretary's specifications.—In requiring the reporting of any information requ
 
 &emsp;&emsp;(B)
 
-Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
+Information in possession of manufacturer.—The regulations promulgated bythe Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
 
 &emsp;&emsp;(C)
 
@@ -194,7 +194,7 @@ In general.—The Secretary may promulgate rules requiring a senior official res
 
 &emsp;&emsp;&emsp;(i) contain any untrue statement of a material fact; or
 
-&emsp;&emsp;&emsp;(ii) omit to state a material fact necessary in order to make the statementsmade not misleading, in light of the circumstances under which such statements were made.
+&emsp;&emsp;&emsp;(ii) omit to state a material fact necessary in order to make the statements made not misleading, in light of the circumstances under which such statements were made.
 
 &emsp;(2)
 
@@ -322,7 +322,7 @@ In subsection (d), the words "for the purpose of inspection" and "the authority 
 
 In subsection (e), the words "establish and" are omitted as surplus. The words "This subsection does not impose" are substituted for "Nothing in this subsection shall be construed as imposing" for consistency and to eliminate unnecessary words.
 
-In subsection (f), the words "notices, bulletins, and other" are omitted as surplus. The words "with a motor vehicle safety standard prescribed under this chapter" are added for clarity. The text of15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
+In subsection (f), the words "notices, bulletins, and other" are omitted as surplus. The words "with a motor vehicle safety standard prescribed under this chapter" are added for clarity. The text of 15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
 
 In subsection (g)(1), before clause (A), the words "or on the authorization of the Secretary, any officer or employee of the Department of Transportation" are omitted as surplus because of 49:322(b). In clause (A), the words "in writing", "in such form as the Secretary may prescribe", "relating to any function of the Secretary under this subchapter", and "shall be filed with the Secretary within such reasonable period as the Secretary may prescribe" are omitted as surplus. In clause (B), the words "sit and act at such times and places" are omitted as being included in "conduct hearings". The word "records" is substituted for "such books, papers, correspondence, memorandums, contracts, agreements, or other records" for consistency in the revised title and with other titles of the United States Code.
 
@@ -366,7 +366,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399, provided that the amendment made by section 6(f)(3) is effective Dec. 29, 1995.
+Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399, provided that the amendment made by that section is effective Dec. 29, 1995.
 
 #### Effective Date of 1995 Amendment
 

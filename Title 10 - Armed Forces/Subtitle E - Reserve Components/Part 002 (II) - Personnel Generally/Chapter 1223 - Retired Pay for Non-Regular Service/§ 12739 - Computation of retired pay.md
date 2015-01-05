@@ -6,7 +6,7 @@
 
 &emsp;(2) 2½ percent of the years of service credited to that person under section 12733 of this title.
 
-(b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in thearmed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
+(b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in the armed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
 
 (c)(1) Except as provided in paragraph (2), the total amount of the monthly retired pay computed under subsections (a) and (b) may not exceed 75 percent of the retired pay base upon which the computation is based.
 
@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 107–314, §632(a)(1), redesignated subsec. (c) as (d).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §632(c), Dec. 2, 2002, 116 Stat. 2572, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 2002, and shall apply with respect to retired pay for months beginning on or after that date."
+Pub. L. 107–314, div. A, title VI, §632(c), Dec. 2, 2002, 116 Stat. 2572, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shalltake effect on October 1, 2002, and shall apply with respect to retired pay for months beginning on or after that date."
 
 #### Effective Date
 

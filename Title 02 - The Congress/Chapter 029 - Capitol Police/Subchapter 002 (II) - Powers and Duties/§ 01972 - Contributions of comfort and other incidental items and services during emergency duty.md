@@ -6,5 +6,5 @@ In addition to the authority provided under section 1971 of this title, at any t
 
 #### Codification
 
-Section was classified to section 206d–1 of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206d–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

@@ -24,7 +24,7 @@
 
 > For the purposes of clause (1), the dates of the beginning and ending of an armed conflict are the dates established by concurrent resolution of Congress or by a determination of the President.
 
-(c) Payment may not be made under this section for reimbursement for medical, hospital, orburial services furnished at the expense of the United States.
+(c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States.
 
 (d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 

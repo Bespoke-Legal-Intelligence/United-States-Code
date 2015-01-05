@@ -40,7 +40,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (B) Adjustment in Board representation
 
-&emsp;&emsp;Three years after the assessment of Hass avocados commences pursuant to an order, and at the end of each 3-year period thereafter, the Avocado Board shall adjust the proportion of producer representatives to importer representatives on the Board under subparagraph (A)(iii) on the basis of the amount of assessments collected from producers and importers over the immediately preceding 3-year period. Any adjustmentunder this subparagraph shall be subject to the review and approval of the Secretary.
+&emsp;&emsp;Three years after the assessment of Hass avocados commences pursuant to an order, and at the end of each 3-year period thereafter, the Avocado Board shall adjust the proportion of producer representatives to importer representatives on the Board under subparagraph (A)(iii) on the basis of the amount of assessments collected from producers and importers over the immediately preceding 3-year period. Any adjustment under this subparagraph shall be subject to the review and approval of the Secretary.
 
 #### (3) Nomination process
 
@@ -94,13 +94,13 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;(4) employ such persons as the Board determines are necessary, and set the compensation and define the duties of the persons;
 
-&emsp;(5)(A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d) of this section; and
+&emsp;(5)(A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d); and
 
-&emsp;(B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) of this section plans or projects for Hass avocado promotion, industry information, consumer information, or related research;
+&emsp;(B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) plans or projects for Hass avocado promotion, industry information, consumer information, or related research;
 
-&emsp;(6)(A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d) of this section; or
+&emsp;(6)(A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d); or
 
-&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) of this section, and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
+&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
 
 &emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
 
@@ -218,7 +218,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (2) Use of existing personnel and facilities
 
-&emsp;The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations, as provided in subsection (e)(1)(A) of this section.
+&emsp;The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations, as provided in subsection (e)(1)(A).
 
 #### (h) Assessments
 
@@ -276,7 +276,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (4) Timing of submitting assessments
 
-&emsp;The order shall provide that each person required to remit assessments under this subsection shall remit to the Board the assessment due from each sale of Hass avocados thatis subject to an assessment within such time period after the sale (not to exceed 60 days after the end of the month in which the sale took place) as is specified in the order.
+&emsp;The order shall provide that each person required to remit assessments under this subsection shall remit to the Board the assessment due from each sale of Hass avocados that is subject to an assessment within such time period after the sale (not to exceed 60 days after the end of the month in which the sale took place) as is specified in the order.
 
 #### (5) Claiming an exemption from collecting assessments
 
@@ -292,7 +292,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (7) Use of assessment funds
 
-&emsp;The order shall provide that assessment funds shall be used for payment of costs incurred in implementing and administering the order, with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter, including any expenses incurred by the Secretary in conducting referenda under this chapter, subject to subsection (i) of this section.
+&emsp;The order shall provide that assessment funds shall be used for payment of costs incurred in implementing and administering the order, with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter, including any expenses incurred by the Secretary in conducting referenda under this chapter, subject to subsection (i).
 
 #### (8) Assessment funds for State association
 
@@ -346,7 +346,7 @@ The order shall provide for reimbursing the Secretary—
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A) of this section.
+&emsp;Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A).
 
 #### (k) Prohibition on use of funds to influence governmental action
 
@@ -418,7 +418,7 @@ The Board may not engage in, and shall prohibit the employees and agents of the 
 
 #### (o) Other terms of the order
 
-The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section).
+The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h)).
 
 (Pub. L. 106–387, §1(a) \[title XII, §1205\], Oct. 28, 2000, 114 Stat. 1549, 1549A–82.)
 

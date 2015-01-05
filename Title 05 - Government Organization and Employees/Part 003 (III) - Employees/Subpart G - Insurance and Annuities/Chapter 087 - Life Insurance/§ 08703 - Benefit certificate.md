@@ -18,13 +18,13 @@ Historical and Revision Notes
 
 Aug. 17, 1954, ch. 752, §9, 68 Stat. 742.
 
-The words “each insured employee” are coextensive with and substituted for “each employee insured under such policy”.
+The words "each insured employee" are coextensive with and substituted for "each employee insured under such policy".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 #### Effective Date of 1978 Amendment
 

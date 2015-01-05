@@ -20,7 +20,7 @@ The Secretary is authorized to make advances to producers for the purpose of ass
 
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by Reorg. Plan No. 3 of 1946, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation andAdjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942.
+Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942.
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 

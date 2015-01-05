@@ -1,0 +1,22 @@
+### §10013. Definitions
+
+Except as otherwise provided in this chapter, as used in this chapter—
+
+&emsp;(1) the terms "elementary education" and "secondary education" have the meaning given such terms under State law;
+
+&emsp;(2) the term "high-need local educational agency" means a local educational agency—
+
+&emsp;&emsp;(A) that serves not fewer than 10,000 children from families with incomes below the poverty line; or
+
+&emsp;&emsp;(B) for which not less than 20 percent of the children served by the agency are from families with incomes below the poverty line;
+
+&emsp;(3) the term "institution of higher education" has the meaning given such term in section 1001 of this title;
+
+&emsp;(4) the term "Secretary" means the Secretary of Education;
+
+&emsp;(5) the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico; and
+
+&emsp;(6) any other term used that is defined in section 7801 of this title shall have the meaning given the term in such section.
+
+(Pub. L. 111–5, div. A, title XIV, §14013, Feb. 17, 2009, 123 Stat. 286.)
+

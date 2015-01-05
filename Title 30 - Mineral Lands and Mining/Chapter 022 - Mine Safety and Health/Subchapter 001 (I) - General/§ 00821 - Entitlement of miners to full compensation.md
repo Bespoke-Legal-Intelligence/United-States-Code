@@ -6,7 +6,7 @@ If a coal or other mine or area of such mine is closed by an order issued under 
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–164 substituted provisions relating to the entitlement of miners to their full compensation when they are idled as the result of the operation of this chapter for provisions relating to the maintenanceof records, which provisions, as revised, were transferred to section 813 of this title.
+<b>1977</b>—Pub. L. 95–164 substituted provisions relating to the entitlement of miners to their full compensation when they are idled as the result of the operation of this chapter for provisions relating to the maintenance of records, which provisions, as revised, were transferred to section 813 of this title.
 
 #### Effective Date of 1977 Amendment
 

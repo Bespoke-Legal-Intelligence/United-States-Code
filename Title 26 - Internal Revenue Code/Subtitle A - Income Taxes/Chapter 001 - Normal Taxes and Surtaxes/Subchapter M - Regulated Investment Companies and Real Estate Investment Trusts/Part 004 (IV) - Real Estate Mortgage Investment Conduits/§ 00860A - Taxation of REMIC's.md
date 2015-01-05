@@ -48,5 +48,5 @@ Special rule for coordination with wash-sale rules.—Notwithstanding paragraphs
 
 #### Study of Amendments by Pub. L. 99–514
 
-Pub. L. 99–514, title VI, §675(d), as added by Pub. L. 100–647, title I, §1006(w)(2), Nov. 10, 1988, 102 Stat. 3427, directed Secretary of the Treasury to conduct a study of the operation of the amendments made by this part \[this subtitle\] and their competitive impact on savingsand loan institutions and similar financial institutions and, not later than Jan. 1, 1990, report to Congress, prior to repeal by Pub. L. 101–508, title XI, §11832(5), Nov. 5, 1990, 104 Stat. 1388–559.
+Pub. L. 99–514, title VI, §675(d), as added by Pub. L. 100–647, title I, §1006(w)(2), Nov. 10, 1988, 102 Stat. 3427, directed Secretary of the Treasury to conduct a study of the operation of the amendments made by this part \[this subtitle\] and their competitive impact on savings and loan institutions and similar financial institutions and, not later than Jan. 1, 1990, report to Congress, prior to repeal by Pub. L. 101–508, title XI, §11832(5), Nov. 5, 1990, 104 Stat. 1388–559.
 

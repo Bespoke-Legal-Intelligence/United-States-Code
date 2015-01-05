@@ -18,8 +18,7 @@
 | [6425\.](%C2%A7%2006425%20-%20Adjustment%20of%20overpayment%20of%20estimated%20income%20tax%20by%20corporation.md) | Adjustment of overpayment of estimated income tax by corporation. |
 | [6426\.](%C2%A7%2006426%20-%20Credit%20for%20alcohol%20fuel%2C%20biodiesel%2C%20and%20alternative%20fuel%20mixtures.md) | Credit for alcohol fuel, biodiesel, and alternative fuel mixtures. |
 | [6427\.](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md) | Fuels not used for taxable purposes. |
-| [6428\.](%C2%A7%2006428%20-%202008%20recovery%20rebates%20for%20individuals.md) | 2008 recovery rebates for individuals. |
-| [6429\.](%C2%A7%2006429%20-%20Advance%20payment%20of%20portion%20of%20increased%20child%20credit%20for%202003.md) | Advance payment of portion of increased child credit for 2003. |
+| \[6428, 6429. Repealed.\] |  |
 | [6430\.](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md) | Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate. |
 | [6431\.](%C2%A7%2006431%20-%20Credit%20for%20qualified%20bonds%20allowed%20to%20issuer.md) | Credit for qualified bonds allowed to issuer. |
 | [6432\.](%C2%A7%2006432%20-%20COBRA%20premium%20assistance.md) | COBRA premium assistance. |
@@ -27,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(112)(A), (113), Dec. 19, 2014, 128 Stat. 4054, struck out item 6428 "2008 recovery rebates for individuals" and item 6429 "Advance payment of portion of increased child credit for 2003".
 
 <b>2009</b>—Pub. L. 111–5, div. B, title I, §1531(c)(7), title III, §3001(a)(12)(C), Feb. 17, 2009, 123 Stat. 360, 463, added items 6431 and 6432.
 
@@ -102,8 +103,8 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06425 - Adjustment of overpayment of estimated income tax by corporation](%C2%A7%2006425%20-%20Adjustment%20of%20overpayment%20of%20estimated%20income%20tax%20by%20corporation.md)
 - [&sect; 06426 - Credit for alcohol fuel, biodiesel, and alternative fuel mixtures](%C2%A7%2006426%20-%20Credit%20for%20alcohol%20fuel%2C%20biodiesel%2C%20and%20alternative%20fuel%20mixtures.md)
 - [&sect; 06427 - Fuels not used for taxable purposes](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md)
-- [&sect; 06428 - 2008 recovery rebates for individuals](%C2%A7%2006428%20-%202008%20recovery%20rebates%20for%20individuals.md)
-- [&sect; 06429 - Advance payment of portion of increased child credit for 2003](%C2%A7%2006429%20-%20Advance%20payment%20of%20portion%20of%20increased%20child%20credit%20for%202003.md)
+- [&sect; 06428 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(112)(A), Dec. 19, 2014, 128 Stat. 4054](%C2%A7%2006428%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%28112%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204054.md)
+- [&sect; 06429 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(113), Dec. 19, 2014, 128 Stat. 4054](%C2%A7%2006429%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%28113%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204054.md)
 - [&sect; 06430 - Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md)
 - [&sect; 06431 - Credit for qualified bonds allowed to issuer](%C2%A7%2006431%20-%20Credit%20for%20qualified%20bonds%20allowed%20to%20issuer.md)
 - [&sect; 06432 - COBRA premium assistance](%C2%A7%2006432%20-%20COBRA%20premium%20assistance.md)

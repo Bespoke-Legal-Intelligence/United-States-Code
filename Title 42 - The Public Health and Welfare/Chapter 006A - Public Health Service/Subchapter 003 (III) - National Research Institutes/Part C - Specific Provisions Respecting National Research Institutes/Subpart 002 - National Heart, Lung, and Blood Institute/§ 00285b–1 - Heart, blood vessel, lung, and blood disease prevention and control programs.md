@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–43 substituted subsecs. (a) and (b) for former section which read as follows: "The Director of the Institute, under policies established by the Director of NIH and after consultation with the advisory council for the Institute, shall establish programs as necessary for cooperation with other Federal health agencies, State, local, and regional public health agencies, and nonprofit private health agencies in the diagnosis, prevention, and treatment (including the provision of emergency medical services) of heart, blood vessel, lung, and blood diseases, appropriately emphasizing the prevention, diagnosis, and treatment of such diseases of children."
+<b>1993</b>—Pub. L. 103–43 substituted subsecs. (a) and (b) for former section which read as follows: "The Directorof the Institute, under policies established by the Director of NIH and after consultation with the advisory council for the Institute, shall establish programs as necessary for cooperation with other Federal health agencies, State, local, and regional public health agencies, and nonprofit private health agencies in the diagnosis, prevention, and treatment (including the provision of emergency medical services) of heart, blood vessel, lung, and blood diseases, appropriately emphasizing the prevention, diagnosis, and treatment of such diseases of children."
 

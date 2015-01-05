@@ -10,7 +10,7 @@ With respect to diseases described in subsection (a) of this section, the Secret
 
 #### (c) Authorized activities
 
-With respect to any sexually transmitted disease described in subsection (a) of this section,the activities referred to in such subsection are—
+With respect to any sexually transmitted disease described in subsection (a) of this section, the activities referred to in such subsection are—
 
 &emsp;(1) screening women for the disease and for secondary conditions resulting from the disease, subject to compliance with criteria issued under subsection (f) of this section;
 
@@ -36,7 +36,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (e) Required providers regarding certain services
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c)of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
 
 #### (f) Quality assurance regarding screening for diseases
 
@@ -82,7 +82,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (k) Maintenance of effort
 
-With respect to activities for which a grant under subsection (a) of this section is authorizedto be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
+With respect to activities for which a grant under subsection (a) of this section is authorized to be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
 
 #### (l) Requirement of application
 
@@ -106,7 +106,7 @@ With respect to activities for which a grant under subsection (a) of this sectio
 
 #### (m) Duration of grant
 
-The period during which payments are made to an entity from a grant under subsection (a) of this section may not exceed 3 years. The provision of such payments shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
+The period during which payments are made to an entity from a grant under subsection (a) of this section may not exceed 3 years. The provision of such payments shall be subject to annualapproval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
 
 #### (n) Technical assistance, and supplies and services in lieu of grant funds
 
@@ -144,7 +144,7 @@ The Secretary shall coordinate the program carried out under this section with a
 
 #### (q) Authorization of appropriations
 
-For the purpose of carrying out this section, other than subsections (o) and (r) of this section,there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1998.
+For the purpose of carrying out this section, other than subsections (o) and (r) of this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1998.
 
 #### (r) Separate grants for research on delivery of services
 

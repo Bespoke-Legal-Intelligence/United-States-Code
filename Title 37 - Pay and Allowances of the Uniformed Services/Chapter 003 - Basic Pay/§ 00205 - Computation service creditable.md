@@ -56,7 +56,7 @@
 
 (c) The periods of service authorized to be counted under subsection (a) shall, under regulations prescribed by the Secretary concerned, include service performed by a member of a uniformed service before he became 18 years of age.
 
-(d) Notwithstanding subsection (a), a commissioned officer may not count in computing basic pay a period of service after October 13, 1964, that the officer performed concurrently as a member of the Senior Reserve Officers' Training Corps, except for service that the officer performed on or after August 1, 1979, other than for training as an enlisted member of the Selected Reserve may be so counted.
+(d) Notwithstanding subsection (a), a commissioned officer may not count in computing basicpay a period of service after October 13, 1964, that the officer performed concurrently as a member of the Senior Reserve Officers' Training Corps, except for service that the officer performed on or after August 1, 1979, other than for training as an enlisted member of the Selected Reserve may be so counted.
 
 (e)(1) Notwithstanding subsection (a), a period of service described in paragraph (2) of a member who enlists in a reserve component may not be counted under this section.
 
@@ -66,7 +66,7 @@
 
 &emsp;(B) Service performed while a member of a reserve component under an enlistment under section 513 of title 10 (other than a period of active duty to which the member is ordered under chapter 1209 of title 10 or another provision of law).
 
-(f) Notwithstanding subsection (a), the periods of service of a commissioned officer appointed under section 12203 of title 10 after receiving financial assistance under section 16401 of suchtitle that are counted under this section may not include a period of service after January 1, 2000, that the officer performed concurrently as an enlisted member of the Marine Corps Platoon Leaders Class program and the Marine Corps Reserve, except that service after that date that the officer performed before commissioning (concurrently with the period of service as a member of the Marine Corps Platoon Leaders Class program) as an enlisted member on active duty or as a member of the Selected Reserve may be so counted.
+(f) Notwithstanding subsection (a), the periods of service of a commissioned officer appointed under section 12203 of title 10 after receiving financial assistance under section 16401 of such title that are counted under this section may not include a period of service after January 1, 2000, that the officer performed concurrently as an enlisted member of the Marine Corps Platoon Leaders Class program and the Marine Corps Reserve, except that service after that date that the officer performed before commissioning (concurrently with the period of service as a member of the Marine Corps Platoon Leaders Class program) as an enlisted member on active duty or as a member of the Selected Reserve may be so counted.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 458; Pub. L. 88–647, title II, §202(1), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §49(a)(1), (b), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–545, §2, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–342, title VIII, §813(b)(3)(D), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title IV, §402, title V, §516(3), Dec. 12, 1980, 94 Stat. 2904, 2937; Pub. L. 98–525, title VI, §607(a), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 101–189, div. A, title V, §501(c), Nov. 29, 1989, 103 Stat. 1435; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title V, §517(b), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 103–35, title II, §204(a)(1), May 31, 1993, 107 Stat. 102; Pub. L. 103–337, div. A, title XVI, §1676(b)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title V, §507(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 105–85, div. A, title X, §1073(b), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, §551(c), Oct. 5, 1999, 113 Stat. 614; Pub. L. 106–398, §1 \[\[div. A\], title V, §533(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–111; Pub. L. 109–163, div. A, title V, §515(d)(1)(C), Jan. 6, 2006, 119 Stat. 3236.)
 
@@ -176,11 +176,11 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Inclusion of Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff Among Senior Enlisted Members of the Armed Forces
 
-Pub. L. 109–163, div. A, title VI, §685(a), Jan. 6, 2006, 119 Stat. 3325, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(5), Oct. 17, 2006, 120 Stat. 2401, provided that:
+Pub. L. 109–163, div. A, title VI, §685(a), Jan. 6, 2006, 119 Stat. 3325, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(5), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 113–291, div. A, title VI, §603(a)(2)(A), Dec. 19, 2014, 128 Stat. 3398, provided that:
 
 "(1)
 
-Equal treatment.—The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
+Equal treatment.—The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff or as Senior Enlisted Advisor to the Chief of the National Guard Bureau shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
 
 "(2)
 
@@ -196,5 +196,5 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. (particularly §625) of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. (particularly §625) of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
 

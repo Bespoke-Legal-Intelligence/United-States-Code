@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(A)(i) be licensed, or otherwise have approval, by the appropriate Federal, State, or local licensing authority; or
 
-&emsp;&emsp;(ii) be in compliance with appropriate procedures for renewing participation in theprogram, as prescribed by the Secretary, and not be the subject of information possessed by the State indicating that the license of the institution or home will not be renewed;
+&emsp;&emsp;(ii) be in compliance with appropriate procedures for renewing participation in the program, as prescribed by the Secretary, and not be the subject of information possessed by the State indicating that the license of the institution or home will not be renewed;
 
 &emsp;&emsp;(B) if Federal, State, or local licensing or approval is not available—
 
@@ -104,7 +104,7 @@ For the fiscal year ending September 30, 1979, and for each subsequent fiscal ye
 
 (5) A child shall be considered automatically eligible for benefits under this section without further application or eligibility determination, if the child is enrolled as a participant in a Head Start program authorized under the Head Start Act (42 U.S.C. 9831 et seq.), on the basis of a determination that the child meets the eligibility criteria prescribed under section 645(a)(1)(B) of the Head Start Act (42 U.S.C. 9840(a)(1)(B)).
 
-(6) A child who has not yet entered kindergarten shall be considered automatically eligible for benefits under this section without further application or eligibility determination if the child is enrolled as a participant in the Even Start program under part B of chapter 1 of titleI of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.).<sup>1</sup>
+(6) A child who has not yet entered kindergarten shall be considered automatically eligible for benefits under this section without further application or eligibility determination if the child is enrolled as a participant in the Even Start program under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.).<sup>1</sup>
 
 #### (d) Institution approval and applications
 
@@ -190,7 +190,7 @@ For the fiscal year ending September 30, 1979, and for each subsequent fiscal ye
 
 &emsp;&emsp;&emsp;(ii) annually confirm to the State agency that the institution, and any facilities of the institution in which the program is operated by a sponsoring organization, is in compliance with subsection (a)(5); and
 
-&emsp;&emsp;&emsp;(iii) annually submit to the State agency any additional information necessary to confirm that the institution is in compliance with all other requirements to participate in the program, as established inthis chapter and by the Secretary by regulation.
+&emsp;&emsp;&emsp;(iii) annually submit to the State agency any additional information necessary to confirm that the institution is in compliance with all other requirements to participate in the program, as established in this chapter and by the Secretary by regulation.
 
 #### (B) Required reviews of sponsored facilities
 
@@ -300,7 +300,7 @@ For the fiscal year ending September 30, 1979, and for each subsequent fiscal ye
 
 #### (II) Requirement for review
 
-&emsp;&emsp;&emsp;&emsp;Prior to any determination to suspend participation of an institution under subclause (I), the State agency shall provide for an independent review of the proposed suspension in accordance with subclause (III).
+&emsp;&emsp;&emsp;&emsp;Prior to any determination to suspend participation of an institution undersubclause (I), the State agency shall provide for an independent review of the proposed suspension in accordance with subclause (III).
 
 #### (III) Review procedure
 
@@ -354,7 +354,7 @@ For the fiscal year ending September 30, 1979, and for each subsequent fiscal ye
 
 #### (5) Secretarial hearing
 
-&emsp;If a State does not provide a hearing to an institution concerning a State action taken onthe basis of a Federal audit determination, the Secretary, on request, shall afford a hearing to the institution concerning the action.
+&emsp;If a State does not provide a hearing to an institution concerning a State action taken on the basis of a Federal audit determination, the Secretary, on request, shall afford a hearing to the institution concerning the action.
 
 #### (f) State disbursements to institutions
 
@@ -434,7 +434,7 @@ Reimbursement.—Except as provided in subclause (III), a tier I family or group
 
 &emsp;&emsp;&emsp;(III)
 
-Factors.—Except as provided in subclause (IV), the reimbursement factorsapplied to a home referred to in subclause (II) shall be the factors in effect on July 1, 1996.
+Factors.—Except as provided in subclause (IV), the reimbursement factors applied to a home referred to in subclause (II) shall be the factors in effect on July 1, 1996.
 
 &emsp;&emsp;&emsp;(IV)
 
@@ -454,7 +454,7 @@ Factors.—Except as provided in subclause (II), with respect to meals or supple
 
 &emsp;&emsp;&emsp;&emsp;(bb)
 
-Adjustments.—The factors shall be adjusted on July 1, 1997, and each July 1 thereafter, to reflect changes in the Consumer Price Index for food at home for the most recent 12-month period for which the data are available. The reimbursement factors under this item shall be rounded down to the nearest lower cent increment and based on the unrounded adjustment for the preceding 12-month period.
+Adjustments.—The factors shall be adjusted on July 1, 1997, and each July 1 thereafter, to reflect changes in the Consumer Price Index for food at home for the most recent 12-month period for which the data are available. The reimbursement factors under this item shall be rounded down to the nearest lowercent increment and based on the unrounded adjustment for the preceding 12-month period.
 
 &emsp;&emsp;&emsp;&emsp;(cc)
 
@@ -508,7 +508,7 @@ Simplified meal counting and reporting procedures.—The Secretary shall prescri
 
 &emsp;&emsp;&emsp;(V)
 
-Minimum verification requirements.—The Secretary may establish any minimum verification requirements that are necessary to carry out this clause.
+Minimum verification requirements.—The Secretary may establish anyminimum verification requirements that are necessary to carry out this clause.
 
 &emsp;(B)
 
@@ -560,7 +560,7 @@ School data.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—A State agency administering the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966\(42 U.S.C. 1771 et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than ½ of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
+In general.—A State agency administering the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than ½ of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -568,7 +568,7 @@ Use of data from preceding school year.—In determining for a fiscal year or ot
 
 &emsp;&emsp;(iii)
 
-Duration of determination.—For purposes of this section, a determination that a family or group day care home is located in an area that qualifies the home as a tier I family or group day care home (as the term is defined in subparagraph (A)(ii)(I)), shall be in effect for 5 years (unless the determination is made on the basis of census data, in which case the determination shall remain in effect until more recent census data are available) unless the State agency determines that the area in which the home is located no longer qualifies the home as a tier I family or group day care home.
+Duration of determination.—For purposes of this section, a determination that a family or group day care home is located in an area that qualifies the home as a tier I family or group day care home (as the term is defined in subparagraph (A)(ii)(I)), shall be in effect for 5 years (unless the determination is made on the basis of census data, in which case the determination shall remain in effect until more recent census data are available) unless the Stateagency determines that the area in which the home is located no longer qualifies the home as a tier I family or group day care home.
 
 (4) By the first day of each month of operation, the State may provide advance payments for the month to each approved institution in an amount that reflects the full level of valid claims customarily received from such institution for one month's operation. In the case of a newly participating institution, the amount of the advance shall reflect the State's best estimate of the level of valid claims such institutions will submit. If the State has reason to believe that an institution will not be able to submit a valid claim covering the period for which such an advance has been made, the subsequent month's advance payment shall be withheld until the State receives a valid claim. Payments advanced to institutions that are not subsequently deducted from a valid claim for reimbursement shall be repaid upon demand by the State. Any prior payment that is under dispute may be subtracted from an advance payment.
 
@@ -642,7 +642,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;An institution, family or group day care home, or sponsored center that elects to make a substitution authorized under this paragraph shall not be required to provide beverages other than beverages the State has identified as acceptable substitutes.
+&emsp;&emsp;&emsp;An institution, family or group day care home, or sponsored center that elects tomake a substitution authorized under this paragraph shall not be required to provide beverages other than beverages the State has identified as acceptable substitutes.
 
 #### (D) Excess expenses borne by institution
 
@@ -686,7 +686,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in conducting management evaluations, reviews, or audits under this section, the Secretary or a State agency may disregard any overpayment to an institution for a fiscal year if the totaloverpayment to the institution for the fiscal year does not exceed an amount that is consistent with the disregards allowed in other programs under this chapter and recognizes the cost of collecting small claims, as determined by the Secretary.
+&emsp;&emsp;Subject to subparagraph (B), in conducting management evaluations, reviews, or audits under this section, the Secretary or a State agency may disregard any overpayment to an institution for a fiscal year if the total overpayment to the institution for the fiscal year does not exceed an amount that is consistent with the disregards allowed in other programs under this chapter and recognizes the cost of collecting small claims, as determined by the Secretary.
 
 #### (B) Criminal or fraud violations
 
@@ -746,7 +746,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;(ii) provides for such care and services directly or under arrangements made by the agency or organization whereby the agency or organization maintains professional management responsibility for all such services; and
 
-&emsp;(B) the term "proprietary title XIX or title XX center" means any private, for-profit center providing adult day care services for which it receives compensation from amounts granted to the States under title XIX or XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397et seq.\] and which title XIX or title XX beneficiaries were not less than 25 percent of enrolled eligible participants in a calendar month preceding initial application or annual reapplication for program participation.
+&emsp;(B) the term "proprietary title XIX or title XX center" means any private, for-profit center providing adult day care services for which it receives compensation from amounts granted to the States under title XIX or XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\] and which title XIX or title XX beneficiaries were not less than 25 percent of enrolled eligible participants in a calendar month preceding initial application or annual reapplication for program participation.
 
 (3)(A) The Secretary, in consulation <sup>2</sup> with the Assistant Secretary for Aging, shall establish, within 6 months of October 1, 1988, separate guidelines for reimbursement of institutions described in this subsection. Such reimbursement shall take into account the nutritional requirements of eligible persons, as determined by the Secretary on the basis of tested nutritional research, except that such reimbursement shall not be less than would otherwise be required under this section.
 
@@ -850,7 +850,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;(A) receives materials that include—
 
-&emsp;&emsp;&emsp;(i) a basic explanation of the importance and benefits of the special supplemental nutrition program for women, infants, and children;
+&emsp;&emsp;&emsp;(i) a basic explanation of the importance and benefits of the special supplementalnutrition program for women, infants, and children;
 
 &emsp;&emsp;&emsp;(ii) the maximum State income eligibility standards, according to family size, for the program; and
 
@@ -982,7 +982,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under clause (i), without further appropriation.
 
-(June 4, 1946, ch. 281, §17, as added Pub. L. 94–105, §16, Oct. 7, 1975, 89 Stat. 522; amended Pub. L. 95–166, §§3, 19(d), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §2, Nov. 10, 1978, 92 Stat. 3603; Pub. L. 96–499, title II, §§207(a), 208(b), (c), Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§810, 817(c), 819(k), Aug. 13, 1981, 95 Stat. 528, 532, 534; Pub. L. 99–500, title III, §§361, 372(a), Oct. 18, 1986, 100 Stat. 1783–367, 1783–369, and Pub. L. 99–591, title III, §§361, 372(a), Oct. 30, 1986, 100 Stat. 3341–370, 3341–372; Pub. L. 99–661, div. D, title IV, §4401, title V, §4502(a), Nov. 14, 1986, 100 Stat. 4079, 4080; Pub. L. 100–175, title IV, §401, Nov. 29, 1987, 101 Stat. 972; Pub. L. 100–435, title II, §§211, 214, Sept. 19, 1988, 102 Stat. 1657, 1659; Pub. L. 100–460, title VI, §641, Oct. 1, 1988, 102 Stat. 2265; Pub. L. 101–147, title I, §§105(a), (b), 131(b), title II, §204(a), title III, §§310, 312(2), Nov. 10, 1989, 103 Stat. 883, 907, 909, 915, 916; Pub. L. 102–342, title II, §§202, 203, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–375, title VIII, §811(a), Sept. 30, 1992, 106 Stat. 1295; Pub. L. 103–171, §3(b)(4), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–448, title I, §§105(c), 109(b), 116, Nov. 2, 1994, 108 Stat. 4702, 4705, 4714; Pub. L. 104–193, title VII, §708(a)–(j), Aug. 22, 1996, 110 Stat. 2293–2299; Pub. L. 105–336, title I, §§101(b), 107(a)–(j)(1), (2)(B), (3)(C), Oct. 31, 1998, 112 Stat. 3144, 3149–3153; Pub. L. 106–224, title II, §243(a), (b)(1)–(4)(A), (5), (c)–(g)(1), (h), (i), June 20, 2000, 114 Stat. 413–420; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–472, title III, §307(c), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–214; Pub. L. 107–76, title VII, §§743, 771, Nov. 28, 2001, 115 Stat. 738, 745; Pub. L. 108–7, div. A, title VII, §735, Feb. 20, 2003, 117 Stat. 43; Pub. L. 108–134, §2, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §2, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §119(a)–(h), June 30, 2004, 118 Stat. 753–755; Pub. L. 110–134, §29(c)(2), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–161, div. A, title VII, §744, Dec. 26, 2007, 121 Stat. 1881; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(Z), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(Z), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 111–8, div. A, title VII, §735, Mar. 11, 2009, 123 Stat. 559; Pub. L. 111–80, titleVII, §730, Oct. 21, 2009, 123 Stat. 2125; Pub. L. 111–296, title I, §§121, 122, title II, §221, title III, §§331–335, title IV, §441(a)(7), (8), Dec. 13, 2010, 124 Stat. 3205, 3224, 3248–3252, 3264.)
+(June 4, 1946, ch. 281, §17, as added Pub. L. 94–105, §16, Oct. 7, 1975, 89 Stat. 522; amended Pub. L. 95–166, §§3, 19(d), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §2, Nov. 10, 1978, 92 Stat. 3603; Pub. L. 96–499, title II, §§207(a), 208(b), (c), Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§810, 817(c), 819(k), Aug. 13, 1981, 95 Stat. 528, 532, 534; Pub. L. 99–500, title III, §§361, 372(a), Oct. 18, 1986, 100 Stat. 1783–367, 1783–369, and Pub. L. 99–591, title III, §§361, 372(a), Oct. 30, 1986, 100 Stat. 3341–370, 3341–372; Pub. L. 99–661, div. D, title IV, §4401, title V, §4502(a), Nov. 14, 1986, 100 Stat. 4079, 4080; Pub. L. 100–175, title IV, §401, Nov. 29, 1987, 101 Stat. 972; Pub. L. 100–435, title II, §§211, 214, Sept. 19, 1988, 102 Stat. 1657, 1659; Pub. L. 100–460, title VI, §641, Oct. 1, 1988, 102 Stat. 2265; Pub. L. 101–147, title I, §§105(a), (b), 131(b), title II, §204(a), title III, §§310, 312(2), Nov. 10, 1989, 103 Stat. 883, 907, 909, 915, 916; Pub. L. 102–342, title II, §§202, 203, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–375, title VIII, §811(a), Sept. 30, 1992, 106 Stat. 1295; Pub. L. 103–171, §3(b)(4), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–448, title I, §§105(c), 109(b), 116, Nov. 2, 1994, 108 Stat. 4702, 4705, 4714; Pub. L. 104–193, title VII, §708(a)–(j), Aug. 22, 1996, 110 Stat. 2293–2299; Pub. L. 105–336, title I, §§101(b), 107(a)–(j)(1), (2)(B), (3)(C), Oct. 31, 1998, 112 Stat. 3144, 3149–3153; Pub. L. 106–224, title II, §243(a), (b)(1)–(4)(A), (5), (c)–(g)(1), (h), (i), June 20, 2000, 114 Stat. 413–420; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–472, title III, §307(c), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–214; Pub. L. 107–76, title VII, §§743, 771, Nov. 28, 2001, 115 Stat. 738, 745; Pub. L. 108–7, div. A, title VII, §735, Feb. 20, 2003, 117 Stat. 43; Pub. L. 108–134, §2, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §2, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §119(a)–(h), June 30, 2004, 118 Stat. 753–755; Pub. L. 110–134, §29(c)(2), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–161, div. A, title VII, §744, Dec. 26, 2007, 121 Stat. 1881; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(Z), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(Z), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 111–8, div. A, title VII, §735, Mar. 11, 2009, 123 Stat. 559; Pub. L. 111–80, title VII, §730, Oct. 21, 2009, 123 Stat. 2125; Pub. L. 111–296, title I, §§121, 122, title II, §221, title III, §§331–335, title IV, §441(a)(7), (8), Dec. 13, 2010, 124 Stat. 3205, 3224, 3248–3252, 3264.)
 
 #### References in Text
 
@@ -1224,7 +1224,7 @@ Subsec. (g)(1)(A). Pub. L. 104–193, §708(g)(1), struck out at end "Such meals
 
 Subsec. (g)(1)(B). Pub. L. 104–193, §708(g)(2), struck out at end "The Secretary shall provide additional technical assistance to those institutions and family or group day care home sponsoring organizations that are having difficulty maintaining compliance with the requirements."
 
-Subsec. (k). Pub. L. 104–193, §708(h), added heading and text of subsec. (k) and struck out former subsec. (k) consisting of pars. (1) to (3) which related to training and technical assistance, monitoring, research, and demonstration projects.
+Subsec. (k). Pub. L. 104–193, §708(h), added heading and text of subsec. (k) and struck out former subsec.\(k) consisting of pars. (1) to (3) which related to training and technical assistance, monitoring, research, and demonstration projects.
 
 Subsec. (m). Pub. L. 104–193, §708(i), substituted "available at any reasonable time" for "available at all times".
 
@@ -1388,7 +1388,7 @@ Amendment by section 119(a), (b), (d)–(f), (h) of Pub. L. 108–265 effective 
 
 Pub. L. 106–224, title II, §243(b)(4)(B), June 20, 2000, 114 Stat. 417, provided that: "In the case of a child that is enrolled in a sponsored child care center or family or group day care home participating in the child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) before the date of the enactment of this Act \[June 20, 2000\], the center or home shall provide information to the child's parents or guardians pursuant to section 17(d)(3) of that Act \[42 U.S.C. 1766(d)(3)\], as added by subparagraph (A), not later than 90 days after the date of the enactment of this Act."
 
-Pub. L. 106–224, title II, §243(g)(2), June 20, 2000, 114 Stat. 419, provided that: "The Secretary may carry out demonstration projects in the State described in section 17(p)(3)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1766(p)(3)(C)\], as added by paragraph (1)(B)(iv), beginning not earlier than October 1, 2001."
+Pub. L. 106–224, title II, §243(g)(2), June 20, 2000, 114 Stat. 419, provided that: "The Secretary may carry outdemonstration projects in the State described in section 17(p)(3)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1766(p)(3)(C)\], as added by paragraph (1)(B)(iv), beginning not earlier than October 1, 2001."
 
 #### Effective Date of 1998 Amendment
 
@@ -1498,7 +1498,7 @@ Definition of Program.—In this section, the term 'program' means the child and
 
 "(b)
 
-Establishment.—The Secretary \[of Agriculture\], in conjunction with States and participating institutions, shall continue to examine the feasibility of reducing unnecessary or duplicative paperwork resulting from regulations and recordkeeping requirements for State agencies, institutions, family and group day care homes, and sponsored centers participating in the program.
+Establishment.—The Secretary \[of Agriculture\], in conjunction with States and participating institutions, shall continue to examine the feasibility of reducing unnecessary or duplicative paperwork resulting from regulations and recordkeeping requirements forState agencies, institutions, family and group day care homes, and sponsored centers participating in the program.
 
 "(c)
 
@@ -1572,7 +1572,7 @@ Evaluation.—Each grant recipient shall identify an institution of higher educa
 
 "(5)
 
-Report.—The Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry and the Committee onHealth, Education, Labor, and Pensions, of the Senate a report that includes—
+Report.—The Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Health, Education, Labor, and Pensions, of the Senate a report that includes—
 
 &emsp;"(A) the evaluation completed by the institution of higher education under paragraph (4);
 

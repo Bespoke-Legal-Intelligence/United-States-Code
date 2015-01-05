@@ -44,7 +44,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (F) Coordination of grants and agreements
 
-&emsp;&emsp;Align and coordinate medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this chapter, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to—
+&emsp;&emsp;Align and coordinate medical and public health grants and cooperative agreements asapplicable to preparedness and response activities authorized under this chapter, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to—
 
 &emsp;&emsp;&emsp;(i) optimize and streamline medical and public health preparedness and response capabilities and the ability of local communities to respond to public health emergencies; and
 
@@ -122,7 +122,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 #### (1) In general
 
-&emsp;Not later than 180 days after March 13, 2013, and every year thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Director of the Biomedical Advanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs. Such strategy and plan shall be known as the "Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan".
+&emsp;Not later than 180 days after March 13, 2013, and every year thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Director of the BiomedicalAdvanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs. Such strategy and plan shall be known as the "Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan".
 
 #### (2) Requirements
 
@@ -152,7 +152,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;&emsp;(i) a list of such countermeasures and products necessary to address the needs of pediatric populations;
 
-&emsp;&emsp;&emsp;(ii) a description of measures taken to coordinate with the Office of PediatricTherapeutics of the Food and Drug Administration to maximize the labeling, dosages, and formulations of such countermeasures and products for pediatric populations;
+&emsp;&emsp;&emsp;(ii) a description of measures taken to coordinate with the Office of Pediatric Therapeutics of the Food and Drug Administration to maximize the labeling, dosages, and formulations of such countermeasures and products for pediatric populations;
 
 &emsp;&emsp;&emsp;(iii) a description of existing gaps in the Strategic National Stockpile and the development of such countermeasures and products to address the needs of pediatric populations; and
 
@@ -214,7 +214,7 @@ Subsec. (b)(4)(D) to (H). Pub. L. 113–5, §102(a)(1)(B), added subpars. (D) to
 
 Subsec. (b)(7). Pub. L. 113–5, §102(a)(1)(C), added par. (7).
 
-Subsec. (c). Pub. L. 113–5, §102(a)(2), added subsec. (c) and struck out former subsec. (c) which directed that the Assistant Secretary would have authority over and responsibility for the National Disaster Medical System and the Hospital Preparedness Cooperative Agreement Program, would exercise the responsibilities and authorities of the Secretary with respect to the coordination of the Medical Reserve Corps, the Emergency System for Advance Registration of Volunteer Health Professionals, the Strategic National Stockpile, andthe Cities Readiness Initiative, and would assume other duties as determined appropriate by the Secretary.
+Subsec. (c). Pub. L. 113–5, §102(a)(2), added subsec. (c) and struck out former subsec. (c) which directed that the Assistant Secretary would have authority over and responsibility for the National Disaster Medical System and the Hospital Preparedness Cooperative Agreement Program, would exercise the responsibilities and authorities of the Secretary with respect to the coordination of the Medical Reserve Corps, the Emergency System for Advance Registration of Volunteer Health Professionals, the Strategic National Stockpile, and the Cities Readiness Initiative, and would assume other duties as determined appropriate by the Secretary.
 
 Subsecs. (d), (e). Pub. L. 113–5, §102(a)(3), added subsecs. (d) and (e).
 

@@ -116,7 +116,7 @@ In subsection (b)(1)(E), the word "mail" is omitted as being included in "cargo"
 
 #### References in Text
 
-The date of the enactment of the Aviation and Transportation Security Act, referred to in subsec. (c)(4), isthe date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of the enactment of the Aviation and Transportation Security Act, referred to in subsec. (c)(4), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
 #### Amendments
 
@@ -200,7 +200,7 @@ Grants.—Grants awarded under this subtitle \[probably should be "this section"
 
 "(c)
 
-Budget Submission.—A budget submission and detailed strategy for deploying the identified security upgrades recommended upon completion of the grantsawarded under subsection (b), shall be submitted to Congress as part of the Department of Transportation's annual budget submission.
+Budget Submission.—A budget submission and detailed strategy for deploying the identified security upgrades recommended upon completion of the grants awarded under subsection (b), shall be submitted to Congress as part of the Department of Transportation's annual budget submission.
 
 "(d)
 

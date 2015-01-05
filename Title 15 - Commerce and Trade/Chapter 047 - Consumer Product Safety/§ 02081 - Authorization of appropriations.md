@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 110–314, §201(c), redesignated subsec. (c) as (b).
 
 <b>1978</b>—Subsec. (a)(5) to (7). Pub. L. 95–631 added pars. (5) to (7).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–284, §2, substituted "$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978" for "$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscal year ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975".
+<b>1976</b>—Subsec. (a). Pub. L. 94–284, §2, substituted "$51,000,000 for the fiscal year ending June 30, 1976,$14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978" for "$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscal year ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975".
 
 Subsec. (c). Pub. L. 94–284, §5(b), added subsec. (c).
 

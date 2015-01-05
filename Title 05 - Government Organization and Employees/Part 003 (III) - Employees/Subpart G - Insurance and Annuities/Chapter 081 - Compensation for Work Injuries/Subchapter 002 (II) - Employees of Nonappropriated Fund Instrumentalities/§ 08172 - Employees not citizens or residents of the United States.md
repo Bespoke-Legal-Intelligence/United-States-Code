@@ -1,6 +1,6 @@
 ### §8172. Employees not citizens or residents of the United States
 
-In case of disability or death resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is—
+In case of disability or death resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers' Compensation Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is—
 
 &emsp;(1) not a citizen or permanent resident of the United States or a territory or possession of the United States; and
 
@@ -22,15 +22,15 @@ Historical and Revision Notes
 
 5 U.S.C. 150k–1(b).
 
-July 18, 1958, Pub. L. 85–538, §1 “Sec. 2(b)”, 72 Stat. 397.
+July 18, 1958, Pub. L. 85–538, §1 "Sec. 2(b)", 72 Stat. 397.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106 substituted “(33 U.S.C. 902(2))” for “(33 U.S.C. 2(2))” in introductory provisions.
+<b>1996</b>—Pub. L. 104–106 substituted "(33 U.S.C. 902(2))" for "(33 U.S.C. 2(2))" in introductory provisions.
 
-<b>1994</b>—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33” in introductory provisions.
+<b>1994</b>—Pub. L. 103–337 substituted "section 2(2) of the Longshore and Harbor Workers' Compensation Act (33 U.S.C. 2(2))" for "section 902(2) of title 33" in introductory provisions.
 
-Pub. L. 103–272 substituted “Secretary of Transportation” for “Secretary of the Treasury” in concluding provisions.
+Pub. L. 103–272 substituted "Secretary of Transportation" for "Secretary of the Treasury" in concluding provisions.
 

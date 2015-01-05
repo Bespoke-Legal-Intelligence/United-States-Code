@@ -6,7 +6,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 #### (b) State participation in repository siting decisions
 
-(1) Unless otherwise provided by State law, the Governor or legislature of each State shall have authority to submit a notice of disapproval to the Congress under paragraph (2). In any case in which State law provides for submission of any such notice of disapproval by any other person or entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
+(1) Unless otherwise provided by State law, the Governor or legislature of each State shall have authority to submit a notice of disapproval to the Congress under paragraph (2). In any case in which State law provides for submission of any such notice of disapproval by any other personor entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
 
 (2) Upon the submission by the President to the Congress of a recommendation of a site for a repository, the Governor or legislature of the State in which such site is located may disapprove the site designation and submit to the Congress a notice of disapproval. Such Governor or legislature may submit such a notice of disapproval to the Congress not later than the 60 days after the date that the President recommends such site to the Congress under section 10134 of this title. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why such Governor or legislature disapproved the recommended repository site involved.
 
@@ -50,7 +50,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (4)(A) The State of Nevada or any affected unit of local government may not receive any grant under paragraph (1) after the expiration of the 1-year period following—
 
-&emsp;(i) the date on which the Secretary notifies the Governor and legislature of the State ofNevada of the termination of site characterization activities at the site in such State;
+&emsp;(i) the date on which the Secretary notifies the Governor and legislature of the State of Nevada of the termination of site characterization activities at the site in such State;
 
 &emsp;(ii) the date on which the Yucca Mountain site is disapproved under section 10135 of this title; or
 

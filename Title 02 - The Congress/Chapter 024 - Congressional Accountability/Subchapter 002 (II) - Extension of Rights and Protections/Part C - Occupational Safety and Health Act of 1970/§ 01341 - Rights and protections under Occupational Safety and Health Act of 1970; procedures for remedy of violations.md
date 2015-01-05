@@ -10,17 +10,17 @@
 
 &emsp;For purposes of the application under this section of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\]—
 
-&emsp;&emsp;(A) the term “employer” as used in such Act means an employing office;
+&emsp;&emsp;(A) the term "employer" as used in such Act means an employing office;
 
-&emsp;&emsp;(B) the term “employee” as used in such Act means a covered employee;
+&emsp;&emsp;(B) the term "employee" as used in such Act means a covered employee;
 
-&emsp;&emsp;(C) the term “employing office” includes the Government Accountability Office, the Library of Congress, and any entity listed in subsection (a) of section 1331 of this title that is responsible for correcting a violation of this section, irrespective of whether the entity has an employment relationship with any covered employee in any employing office in which such a violation occurs; and
+&emsp;&emsp;(C) the term "employing office" includes the Government Accountability Office, the Library of Congress, and any entity listed in subsection (a) of section 1331 of this title that is responsible for correcting a violation of this section, irrespective of whether the entity has an employment relationship with any covered employee in any employing office in which such a violation occurs; and
 
-&emsp;&emsp;(D) the term “employee” includes employees of the Government Accountability Office and the Library of Congress.
+&emsp;&emsp;(D) the term "employee" includes employees of the Government Accountability Office and the Library of Congress.
 
 #### (b) Remedy
 
-The remedy for a violation of subsection (a) of this section shall be an order to correct the violation, including such order as would be appropriate if issued under section 13(a) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 662(a)).
+The remedy for a violation of subsection (a) shall be an order to correct the violation, including such order as would be appropriate if issued under section 13(a) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 662(a)).
 
 #### (c) Procedures
 
@@ -32,7 +32,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 &emsp;For purposes of this section, the General Counsel shall exercise the authorities granted to the Secretary of Labor in sections 9 and 10 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 658 and 659), to issue—
 
-&emsp;&emsp;(A) a citation or notice to any employing office responsible for correcting a violation of subsection (a) of this section; or
+&emsp;&emsp;(A) a citation or notice to any employing office responsible for correcting a violation of subsection (a); or
 
 &emsp;&emsp;(B) a notification to any employing office that the General Counsel believes has failed to correct a violation for which a citation has been issued within the period permitted for its correction.
 
@@ -46,11 +46,11 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (5) Judicial review
 
-&emsp;The General Counsel or employing office aggrieved by a final decision of the Board under paragraph (3) or (4), may file a petition for review with the United States Court of Appeals for the Federal Circuit pursuant to section 1407 of this title.
+&emsp;The General Counsel or employing office aggrieved by a final decision of the Board underparagraph (3) or (4), may file a petition for review with the United States Court of Appeals for the Federal Circuit pursuant to section 1407 of this title.
 
 #### (6) Compliance date
 
-&emsp;If new appropriated funds are necessary to correct a violation of subsection (a) of this section for which a citation is issued, or to comply with an order requiring correction of such a violation, correction or compliance shall take place as soon as possible, but not later than the end of the fiscal year following the fiscal year in which the citation is issued or the order requiring correction becomes final and not subject to further review.
+&emsp;If new appropriated funds are necessary to correct a violation of subsection (a) for which a citation is issued, or to comply with an order requiring correction of such a violation, correction or compliance shall take place as soon as possible, but not later than the end of the fiscal year following the fiscal year in which the citation is issued or the order requiring correction becomes final and not subject to further review.
 
 #### (d) Regulations to implement section
 
@@ -60,17 +60,17 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (2) Agency regulations
 
-&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (3) Employing office responsible for correction
 
-&emsp;The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for different categories of violations of subsection (a) of this section, the employing office responsible for correction of a particular violation.
+&emsp;The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for different categories of violations of subsection (a), the employing office responsible for correction of a particular violation.
 
 #### (e) Periodic inspections; report to Congress
 
 #### (1) Periodic inspections
 
-&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1) of this section, shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a) of this section.
+&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
 
 #### (2) Report
 
@@ -82,7 +82,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (3) Action after report
 
-&emsp;If a report identifies any violation of this section, the General Counsel shall issue a citation or notice in accordance with subsection (c)(2)(A) of this section.
+&emsp;If a report identifies any violation of this section, the General Counsel shall issue a citation or notice in accordance with subsection (c)(2)(A).
 
 #### (4) Detailed personnel
 
@@ -90,13 +90,13 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (f) Initial period for study and corrective action
 
-The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other employing offices to identify any violations of subsection (a) of this section, to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other employing offices by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under subsection (e)(1) of this section and shall submit the report under subsection (e)(2) of this section for the One Hundred Fourth Congress.
+The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other employing offices to identify any violations of subsection (a), to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other employing offices by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under subsection (e)(1) and shall submit the report under subsection (e)(2) for the One Hundred Fourth Congress.
 
 #### (g) Effective date
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), subsections (a), (b), (c), and (e)(3) of this section shall be effective on January 1, 1997.
+&emsp;Except as provided in paragraph (2), subsections (a), (b), (c), and (e)(3) shall be effective on January 1, 1997.
 
 #### (2) Government Accountability Office and Library of Congress
 
@@ -110,11 +110,11 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), i
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e)(1). Pub. L. 110–437 substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Service,”.
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–437 substituted "the Office of Congressional Accessibility Services," for "the Capitol Guide Service,".
 
-<b>2004</b>—Subsecs. (a)(2)(C), (D), (e)(1) . Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (a)(2)(C), (D), (e)(1) . Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-Subsec. (g)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
+Subsec. (g)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading and text.
 
 #### Effective Date of 2008 Amendment
 

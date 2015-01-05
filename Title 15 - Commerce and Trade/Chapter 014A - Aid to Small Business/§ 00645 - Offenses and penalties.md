@@ -22,7 +22,7 @@ Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or co
 
 &emsp;(C) subcontract that is to be included as part or all of a goal contained in a subcontracting plan required pursuant to section 637(d) of this title; or
 
-&emsp;(D) prime or subcontract to be awarded as a result, or in furtherance, of any other provision of Federal law that specifically references section 637(d) of this title for a definition of program eligibility,<sup>1</sup> shall be subject to the penalties and remedies described in paragraph (2).
+&emsp;(D) prime or subcontract to be awarded as a result, or in furtherance, of any other provision of Federal law that specifically references section 637(d) of this title for a definition of program eligibility,<sup>1</sup> shall be subject to thepenalties and remedies described in paragraph (2).
 
 (2) Any person who violates paragraph (1) shall—
 

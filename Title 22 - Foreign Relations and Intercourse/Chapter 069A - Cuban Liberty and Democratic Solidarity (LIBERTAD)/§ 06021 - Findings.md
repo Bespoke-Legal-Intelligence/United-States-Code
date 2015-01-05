@@ -20,7 +20,7 @@ The Congress makes the following findings:
 
 &emsp;(5) As long as free elections are not held in Cuba, the economic condition of the country and the welfare of the Cuban people will not improve in any significant way.
 
-&emsp;(6) The totalitarian nature of the Castro regime has deprived the Cuban people of any peaceful means to improve their condition and has led thousands of Cuban citizens to risk or lose their lives in dangerous attempts to escape from Cuba to freedom.
+&emsp;(6) The totalitarian nature of the Castro regime has deprived the Cuban people of anypeaceful means to improve their condition and has led thousands of Cuban citizens to risk or lose their lives in dangerous attempts to escape from Cuba to freedom.
 
 &emsp;(7) Radio Marti and Television Marti have both been effective vehicles for providing the people of Cuba with news and information and have helped to bolster the morale of the people of Cuba living under tyranny.
 
@@ -62,7 +62,7 @@ The Congress makes the following findings:
 
 &emsp;(26) United Nations Security Council Resolution 940 of July 31, 1994, subsequently authorized the use of "all necessary means" to restore the "democratically elected government of Haiti", and the democratically elected government of Haiti was restored to power on October 15, 1994.
 
-&emsp;(27) The Cuban people deserve to be assisted in a decisive manner to end the tyranny that has oppressed them for 36 years, and the continued failure to do so constitutes ethically improper conduct by the international community.
+&emsp;(27) The Cuban people deserve to be assisted in a decisive manner to end the tyranny thathas oppressed them for 36 years, and the continued failure to do so constitutes ethically improper conduct by the international community.
 
 &emsp;(28) For the past 36 years, the Cuban Government has posed and continues to pose a national security threat to the United States.
 

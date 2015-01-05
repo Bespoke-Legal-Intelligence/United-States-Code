@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) The name of the covered recipient.
 
-&emsp;&emsp;&emsp;(ii) The business address of the covered recipient and, in the case of a covered recipient who is a physician, the specialty and National Provider Identifier of the covered recipient.
+&emsp;&emsp;&emsp;(ii) The business address of the covered recipient and, in the case of a covered recipient who is a physician, the specialtyand National Provider Identifier of the covered recipient.
 
 &emsp;&emsp;&emsp;(iii) The amount of the payment or other transfer of value.
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), any applicable manufacturer or applicable group purchasing organization that knowingly fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subject to a civil money penalty of not less than $10,000, but not more than $100,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
+&emsp;&emsp;Subject to subparagraph (B), any applicable manufacturer or applicable group purchasing organization that knowingly fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subjectto a civil money penalty of not less than $10,000, but not more than $100,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
 
 #### (B) Limitation
 
@@ -118,7 +118,7 @@
 
 #### (B) Definition of terms
 
-&emsp;&emsp;The procedures established under subparagraph (A) shall provide for the definition ofterms (other than those terms defined in subsection (e)), as appropriate, for purposes of this section.
+&emsp;&emsp;The procedures established under subparagraph (A) shall provide for the definition of terms (other than those terms defined in subsection (e)), as appropriate, for purposes of this section.
 
 #### (C) Public availability
 
@@ -150,7 +150,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of information submitted under subsection (a) with respect to a payment or other transfer of value made to a covered recipient by an applicable manufacturer pursuant to a product research or development agreement for services furnished in connection with research on a potential new medical technology or a new application of an existing medical technology or the development of a new drug, device, biological, or medical supply, or by an applicable manufacturer in connection with a clinical investigation regarding a new drug, device, biological, or medical supply, the procedures established under subparagraph (A)(ii) shall provide that such information is made available to the public on the first date described in the matter preceding clause (i) in subparagraph (C) after the earlier of the following:
+&emsp;&emsp;&emsp;In the case of information submitted under subsection (a) with respect to a payment or other transfer of value made to a covered recipient by an applicable manufacturer pursuant to a product research or development agreement for services furnished in connection with research on a potential new medical technology or a new application of an existing medical technology or the development of a new drug, device, biological, or medical supply, or by an applicable manufacturer in connection with a clinical investigation regarding a new drug, device, biological, or medical supply, the procedures established under subparagraph (A)(ii) shall provide that such information is made available to the public on the first date described in thematter preceding clause (i) in subparagraph (C) after the earlier of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The date of the approval or clearance of the covered drug, device, biological, or medical supply by the Food and Drug Administration.
 
@@ -170,7 +170,7 @@
 
 &emsp;Not later than April 1 of each year beginning with 2013, the Secretary shall submit to Congress a report that includes the following:
 
-&emsp;&emsp;(A) The information submitted under subsection (a) during the preceding year, aggregated for each applicable manufacturer and applicable group purchasing organization that submitted such information during such year (except, in the case of information submitted with respect to a payment orother transfer of value described in subsection (c)(1)(E)(i), such information shall be included in the first report submitted to Congress after the date on which such information is made available to the public under such subsection).
+&emsp;&emsp;(A) The information submitted under subsection (a) during the preceding year, aggregated for each applicable manufacturer and applicable group purchasing organization that submitted such information during such year (except, in the case of information submitted with respect to a payment or other transfer of value described in subsection (c)(1)(E)(i), such information shall be included in the first report submitted to Congress after the date on which such information is made available to the public under such subsection).
 
 &emsp;&emsp;(B) A description of any enforcement actions taken to carry out this section, including any penalties imposed under subsection (b), during the preceding year.
 
@@ -250,7 +250,7 @@ In this section:
 
 #### (9) Manufacturer of a covered drug, device, biological, or medical supply
 
-&emsp;The term "manufacturer of a covered drug, device, biological, or medical supply" means any entity which is engaged in the production, preparation, propagation, compounding, or conversion of a covered drug, device, biological, or medical supply (or any entity under common ownership with such entity which provides assistance or support to such entity with respect to the production, preparation,propagation, compounding, conversion, marketing, promotion, sale, or distribution of a covered drug, device, biological, or medical supply).
+&emsp;The term "manufacturer of a covered drug, device, biological, or medical supply" means any entity which is engaged in the production, preparation, propagation, compounding, or conversion of a covered drug, device, biological, or medical supply (or any entity under common ownership with such entity which provides assistance or support to such entity with respect to the production, preparation, propagation, compounding, conversion, marketing, promotion, sale, or distribution of a covered drug, device, biological, or medical supply).
 
 #### (10) Payment or other transfer of value
 

@@ -1,0 +1,130 @@
+### §2015. Program to assist members in obtaining professional credentials
+
+(a)
+
+Program Required.—The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials related to military training and skills that—
+
+&emsp;(1) are acquired during service in the armed forces incident to the performance of their military duties; and
+
+&emsp;(2) translate into civilian occupations.
+
+(b)
+
+Payment of Expenses.—(1) Under the program required by this section, the Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall provide for the payment of expenses of members for professional accreditation, Federal occupational licenses, State-imposed and professional licenses, professional certification, and related expenses.
+
+(2) The authority under paragraph (1) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
+
+(c)
+
+Regulations.—(1) The Secretary of Defense and the Secretary of Homeland Security shall prescribe regulations to carry out this section.
+
+(2) The regulations shall apply uniformly to the armed forces to the extent practicable.
+
+(3) The regulations shall include the following:
+
+&emsp;(A) Requirements for eligibility for participation in the program under this section.
+
+&emsp;(B) A description of the professional credentials and occupations covered by the program.
+
+&emsp;(C) Mechanisms for oversight of the payment of expenses and the provision of other benefits under the program.
+
+&emsp;(D) Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
+
+(d)
+
+Expenses Defined.—In this section, the term "expenses" means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
+
+(Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, §551(a), Dec. 19, 2014, 128 Stat. 3376.)
+
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–291 amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
+
+#### Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses
+
+Pub. L. 113–66, div. A, title V, §542, Dec. 26, 2013, 127 Stat. 762, provided that:
+
+"(a)
+
+Improvement of Information Available to Members of the Armed Forces About Correlation.—
+
+&emsp;"(1)
+
+In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable, make information on civilian credentialing opportunities available to members of the Armed Forces beginning with, and at every stage of, training of members for military occupational specialties, in order to permit members—
+
+&emsp;&emsp;"(A) to evaluate the extent to which such training correlates with the skills and training required in connection with various civilian certifications and licenses; and
+
+&emsp;&emsp;"(B) to assess the suitability of such training for obtaining or pursuing such civilian certifications and licenses.
+
+&emsp;"(2)
+
+Coordination with transition goals plans success program.—Information shall be made available under paragraph (1) in a manner consistent with the Transition Goals Plans Success (GPS) program.
+
+&emsp;"(3)
+
+Types of information.—The information made available under paragraph (1) shall include, but not be limited to, the following:
+
+&emsp;&emsp;"(A) Information on the civilian occupational equivalents of military occupational specialties (MOS).
+
+&emsp;&emsp;"(B) Information on civilian license or certification requirements, including examination requirements.
+
+&emsp;&emsp;"(C) Information on the availability and opportunities for use of educational benefits available to members of the Armed Forces, as appropriate, corresponding training, or continuing education that leads to a certification exam in order to provide a pathway to credentialing opportunities.
+
+&emsp;"(4)
+
+Use and adaptation of certain programs.—In making information available under paragraph (1),the Secretaries of the military departments may use and adapt appropriate portions of the Credentialing Opportunities On-Line (COOL) programs of the Army and the Navy and the Credentialing and Educational Research Tool (CERT) of the Air Force.
+
+"(b)
+
+Improvement of Access of Accredited Civilian Credentialing and Related Entities to Military Training Content.—
+
+&emsp;"(1)
+
+In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as military course training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed.
+
+&emsp;"(2)
+
+Entities.—The entities specified in this paragraph are the following:
+
+&emsp;&emsp;"(A) Civilian credentialing agencies.
+
+&emsp;&emsp;"(B) Entities approved by the Secretary of Veterans Affairs, or by State approving agencies, for purposes of the use of educational assistance benefits under the laws administered by the Secretary of Veterans Affairs.
+
+&emsp;"(3)
+
+Central repository.—The actions taken pursuant to paragraph (1) may include the establishment of a central repository of information on training and training materials provided members in connection with military occupational specialities that is readily accessible by entities specified in paragraph (2) in order to meet requests described in paragraph (1)."
+
+#### Pilot Program on Receipt of Civilian Credentialing for Skills Required for Military Occupational Specialties
+
+Pub. L. 112–81, div. A, title V, §558, Dec. 31, 2011, 125 Stat. 1418, as amended by Pub. L. 112–239, div. A, title V, §543, Jan. 2, 2013, 126 Stat. 1737, provided that:
+
+"(a)
+
+Pilot Program Required.—Commencing not later than nine months after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of permitting enlisted members of the Armed Forces to obtain civilian credentialing or licensing for skills required for military occupational specialties (MOS) or qualification for duty specialty codes.
+
+"(b)
+
+Elements.—In carrying out the pilot program, the Secretary shall—
+
+&emsp;"(1) designate not less than three military occupational specialities or duty speciality codes for coverage under the pilot program;
+
+&emsp;"(2) consider utilizing industry-recognized certifications or licensing standards for civilian occupational skills comparable to the specialties or codes so designated; and
+
+&emsp;"(3) permit enlisted members of the Armed Forces to obtain the credentials or licenses required for the specialities or codes so designated through civilian credentialing or licensing entities, institutions, or bodies selected by the Secretary for purposes of the pilot program, whether concurrently with military training, at the completion of military training, or both.
+
+"(c)
+
+Duration.—The Secretary shall complete the pilot program by not later than five years after the date of the commencement of the pilot program.
+
+"(d)
+
+Report.—Not later than one year after commencement of the pilot program, the Secretary shall submit to Congress a report on the pilot program. The report shall set forth the following:
+
+&emsp;"(1) The number of enlisted members who participated in the pilot program.
+
+&emsp;"(2) A description of the costs incurred by the Department of Defense in connection with the receipt by members of credentialing or licensing under the pilot program.
+
+&emsp;"(3) A comparison of the cost associated with receipt by members of credentialing or licensing under the pilot program with the cost of receipt of similar credentialing or licensing by recently-discharged veterans of the Armed Forces under programs currently operated by the Department of Veterans Affairs and the Department of Labor.
+
+&emsp;"(4) The recommendation of the Secretary as to the feasibility and advisability of expanding the pilot program to additional military occupational specialties or duty specialty codes, and, if such expansion is considered feasible and advisable, a list of the military occupational specialties and duty specialty codes recommended for inclusion in the expansion."
+

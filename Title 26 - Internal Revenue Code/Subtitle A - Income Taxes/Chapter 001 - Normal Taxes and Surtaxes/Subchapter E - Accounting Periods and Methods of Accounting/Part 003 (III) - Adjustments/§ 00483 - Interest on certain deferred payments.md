@@ -60,7 +60,7 @@ For purposes of this section, the term "total unstated interest" means, with res
 
 #### (1) In general
 
-&emsp;In the case of any qualified sale, the discount rate used in determining the totalunstated interest rate under subsection (b) shall not exceed 6 percent, compounded semiannually.
+&emsp;In the case of any qualified sale, the discount rate used in determining the total unstated interest rate under subsection (b) shall not exceed 6 percent, compounded semiannually.
 
 #### (2) Qualified sale
 

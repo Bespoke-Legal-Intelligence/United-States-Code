@@ -54,7 +54,7 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 
 "(d)
 
-Impact Aid.—With respect to title VIII (Impact Aid) \[probably means title VIII of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
+Impact Aid.—With respect to title VIII (Impact Aid) \[probably means title VIII of Pub. L. 89–10, 20U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
 
 #### Short Title of 2013 Amendment
 
@@ -142,7 +142,7 @@ Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct
 
 Pub. L. 89–10, title X, §10971, as added by Pub. L. 106–554, §1(a)(1) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–89, which provided that subpart 2 (§§10971–10978) of part J of title X of Pub. L. 89–10, enacting subpart 2 of part J of former subchapter X of this chapter, could be cited as the "Rural Education Achievement Program", was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
-Pub. L. 89–10, title X, §10999A, as added by Pub. L. 106–554, §1(a)(1) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, which provided that part L (§§10999A–10999L) of title X of Pub. L. 89–10, enacting part L of former subchapter X of this chapter, could be cited as the "Physical Education for Progress Act", was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
+Pub. L. 89–10, title X, §10999A, as added by Pub. L. 106–554, §1(a)(1) \[title VII, §701\], Dec. 21, 2000, 114 Stat.2763, 2763A–76, which provided that part L (§§10999A–10999L) of title X of Pub. L. 89–10, enacting part L of former subchapter X of this chapter, could be cited as the "Physical Education for Progress Act", was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
 #### Continuation of Awards
 
@@ -244,7 +244,7 @@ Sec. 4. <i>Compliance Monitoring System</i>. Consistent with the implementation 
 
 Sec. 5. <i>Consultation</i>. The Secretary shall, where appropriate, consult with executive agencies, State and local education officials, educators, community-based groups, and others in carrying out this Executive order.
 
-Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to, and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

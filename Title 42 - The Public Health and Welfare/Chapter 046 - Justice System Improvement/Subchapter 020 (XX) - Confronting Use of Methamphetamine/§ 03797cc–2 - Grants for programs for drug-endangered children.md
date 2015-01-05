@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall make grants to States, territories, and Indian tribes (as defined in section 3797d of this title) for the purpose of carrying out programs to provide comprehensive services to aid children who are living in a homein which methamphetamine or other controlled substances are unlawfully manufactured, distributed, dispensed, or used.
+The Attorney General shall make grants to States, territories, and Indian tribes (as defined in section 3797d of this title) for the purpose of carrying out programs to provide comprehensive services to aid children who are living in a home in which methamphetamine or other controlled substances are unlawfully manufactured, distributed, dispensed, or used.
 
 #### (b) Certain requirements
 

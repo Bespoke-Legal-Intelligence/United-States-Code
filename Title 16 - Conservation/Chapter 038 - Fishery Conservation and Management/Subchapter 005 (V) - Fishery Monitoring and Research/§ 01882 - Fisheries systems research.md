@@ -48,7 +48,7 @@ The advisory panel established under this section shall be deemed an advisory pa
 
 &emsp;The Secretary is authorized to provide necessary technical advice and assistance, including grants, to the Councils for the development and design of regional pilot programs that build upon the recommendations of the advisory panel and, when completed, the study.
 
-(Pub. L. 94–265, title IV, §406, Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–354, §1, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–61, §1, Aug. 15, 1979, 93 Stat. 407; Pub. L. 97–453, §14(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §111(a), Nov. 14, 1986,100 Stat. 3715; Pub. L. 101–627, title I, §119, Nov. 28, 1990, 104 Stat. 4459; Pub. L. 104–297, title II, §207(a), Oct. 11, 1996, 110 Stat. 3612; Pub. L. 109–479, title II, §210, Jan. 12, 2007, 120 Stat. 3617.)
+(Pub. L. 94–265, title IV, §406, Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–354, §1, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–61, §1, Aug. 15, 1979, 93 Stat. 407; Pub. L. 97–453, §14(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §111(a), Nov. 14, 1986, 100 Stat. 3715; Pub. L. 101–627, title I, §119, Nov. 28, 1990, 104 Stat. 4459; Pub. L. 104–297, title II, §207(a), Oct. 11, 1996, 110 Stat. 3612; Pub. L. 109–479, title II, §210, Jan. 12, 2007, 120 Stat. 3617.)
 
 #### References in Text
 

@@ -10,7 +10,7 @@ Replacement of existing buildings.—When the Administrator of General Services 
 
 &emsp;(2)
 
-Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and division C (except sections 3302,3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;(3)
 

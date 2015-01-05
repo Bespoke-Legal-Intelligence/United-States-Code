@@ -26,7 +26,7 @@ A primary nonferrous smelter order under this section may be issued to a primary
 
 &emsp;(2) the requirement of the applicable implementation plan with respect to which the order is issued is an emission limitation or standard for sulfur oxides which is necessary and intended to be itself sufficient to enable attainment and maintenance of national primary and secondary ambient air quality standards for sulfur oxides; and
 
-&emsp;(3) such smelter is unable to comply with such requirement by the applicable date for compliance because no means of emission limitation applicable to such smelter which will enable it to achieve compliance with such requirement has been adequately demonstrated to be reasonably available (as determined by the Administrator, taking into account the cost of compliance, non-air quality health and environmental impact, and energy consideration).
+&emsp;(3) such smelter is unable to comply with such requirement by the applicable date for compliance because no means of emission limitation applicable to such smelter which willenable it to achieve compliance with such requirement has been adequately demonstrated to be reasonably available (as determined by the Administrator, taking into account the cost of compliance, non-air quality health and environmental impact, and energy consideration).
 
 #### (c) Second orders
 

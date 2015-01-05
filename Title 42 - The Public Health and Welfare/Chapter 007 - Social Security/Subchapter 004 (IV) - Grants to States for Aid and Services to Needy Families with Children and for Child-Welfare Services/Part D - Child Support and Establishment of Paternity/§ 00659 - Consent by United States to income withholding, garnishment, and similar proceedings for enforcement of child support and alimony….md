@@ -20,7 +20,7 @@ With respect to notice to withhold income pursuant to subsection (a)(1) or (b) o
 
 #### (2) Response to notice or process
 
-&emsp;If an agent designated pursuant to paragraph (1) of this subsection receives notice pursuant to State procedures in effect pursuant to subsection (a)(1) or (b) of section 666 of this title, or is effectively served with anyorder, process, or interrogatory, with respect to an individual's child support or alimony payment obligations, the agent shall—
+&emsp;If an agent designated pursuant to paragraph (1) of this subsection receives notice pursuant to State procedures in effect pursuant to subsection (a)(1) or (b) of section 666 of this title, or is effectively served with any order, process, or interrogatory, with respect to an individual's child support or alimony payment obligations, the agent shall—
 
 &emsp;&emsp;(A) as soon as possible (but not later than 15 days) thereafter, send written notice of the notice or service (together with a copy of the notice or service) to the individual at the duty station or last-known home address of the individual;
 
@@ -88,7 +88,7 @@ Authority to promulgate regulations for the implementation of this section shall
 
 &emsp;&emsp;(B) do not include any payment—
 
-&emsp;&emsp;&emsp;(i) by way of reimbursement or otherwise, to defray expenses incurred by theindividual in carrying out duties associated with the employment of the individual;
+&emsp;&emsp;&emsp;(i) by way of reimbursement or otherwise, to defray expenses incurred by the individual in carrying out duties associated with the employment of the individual;
 
 &emsp;&emsp;&emsp;(ii) as allowances for members of the uniformed services payable pursuant to chapter 7 of title 37, as prescribed by the Secretaries concerned (defined by section 101(5) of title 37) as necessary for the efficient performance of duty; or
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
 
-(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -240,7 +240,7 @@ NOW, THEREFORE, by the authority vested in me as President by the Constitution a
 
 #### PART I—PURPOSE
 
-Section 101. This executive order: (a) Establishes the executive branch of the Federal Government, throughits civilian employees and Uniformed Services members, as a model employer in promoting and facilitating the establishment and enforcement of child support.
+Section 101. This executive order: (a) Establishes the executive branch of the Federal Government, through its civilian employees and Uniformed Services members, as a model employer in promoting and facilitating the establishment and enforcement of child support.
 
 (b) Requires all Federal agencies, including the Uniformed Services, to cooperate fully in efforts to establish paternity and child support orders and to enforce the collection of child and medical support in all situations where such actions may be required.
 
@@ -270,7 +270,7 @@ Sec. 303. <i>Federal Parent Locator</i>. Every Federal agency shall cooperate wi
 
 Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offset purposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(o)–(u).
 
-(b) All Federal agencies shall inform current and prospective employees that crossmatches are routinely made between Federal personnel records and State records on individuals who owe child support, and inform employees how to initiate voluntary wage withholding requests.
+(b) All Federal agencies shall inform current and prospective employees that crossmatches are routinelymade between Federal personnel records and State records on individuals who owe child support, and inform employees how to initiate voluntary wage withholding requests.
 
 Sec. 305. <i>Availability of Service</i>. All Federal agencies shall advise current and prospective employees of services authorized under title IV-D of the Social Security Act \[42 U.S.C. 651 et seq.\] that are available through the States. At a minimum, information shall be provided annually to current employees through the Employee Assistance Program, or similar programs, and to new employees during routine orientation.
 
@@ -286,7 +286,7 @@ Sec. 402. <i>Additional Federal Agency Actions</i>. (a) OPM and HHS shall jointl
 
 (i) any changes that would be needed to ensure that Federal employees comply with child support orders that require them to provide health insurance coverage for their children;
 
-(ii) changes needed to ensure that more accurate and up-to-date data about civilian and uniformed personnelwho are being sought in conjunction with State paternity or child support actions can be obtained from Federal agencies and their payroll and personnel records, to improve efforts to locate noncustodial parents and their income and assets;
+(ii) changes needed to ensure that more accurate and up-to-date data about civilian and uniformed personnel who are being sought in conjunction with State paternity or child support actions can be obtained from Federal agencies and their payroll and personnel records, to improve efforts to locate noncustodial parents and their income and assets;
 
 (iii) changes needed for selecting Federal agencies to test and evaluate new approaches to the establishment and enforcement of child support obligations;
 

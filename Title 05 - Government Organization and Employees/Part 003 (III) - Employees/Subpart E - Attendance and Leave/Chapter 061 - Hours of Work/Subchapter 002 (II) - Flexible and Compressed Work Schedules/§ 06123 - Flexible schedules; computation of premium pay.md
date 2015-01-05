@@ -1,6 +1,6 @@
 ### §6123. Flexible schedules; computation of premium pay
 
-(a) For purposes of determining compensation for overtime hours in the case of an employee participating in a program under section 6122 of this title—
+(a) For purposes of determining compensation for overtime hours in the case of an employeeparticipating in a program under section 6122 of this title—
 
 &emsp;(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1) and section <sup>1</sup> 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other provision of law; or
 
@@ -30,11 +30,11 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–378 substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–378 substituted "5543(a)(1) and section 5544(a)" for "5543(a)(1), 5544(a), and 5550".
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–40, §403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–40, §403(c)(2)(A), substituted "section 7453(e)" for "section 4107(e)(5)".
 
-Subsec. (c)(2). Pub. L. 102–40, §403(c)(2)(B), in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
+Subsec. (c)(2). Pub. L. 102–40, §403(c)(2)(B), in introductory provisions substituted "section 7453(b)" for "section 4107(e)(2)" and in subpar. (B) substituted "subsection (b) of such section 7453" for "subsection (e)(2) of such section 4107".
 
-<i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "section" probably should not appear.</i>
 

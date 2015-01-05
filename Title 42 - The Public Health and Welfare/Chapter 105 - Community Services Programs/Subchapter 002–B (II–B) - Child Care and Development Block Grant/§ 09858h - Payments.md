@@ -42,7 +42,7 @@ Pub. L. 102–586, §8(d), Nov. 4, 1992, 106 Stat. 5036, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section9858q of this title and amending this section and section 9858n of this title\] shall take effect on the date of enactment of this Act \[Nov. 4, 1992\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 9858q of this title and amending this section and section 9858n of this title\] shall take effect on the date of enactment of this Act \[Nov. 4, 1992\].
 
 "(2)
 

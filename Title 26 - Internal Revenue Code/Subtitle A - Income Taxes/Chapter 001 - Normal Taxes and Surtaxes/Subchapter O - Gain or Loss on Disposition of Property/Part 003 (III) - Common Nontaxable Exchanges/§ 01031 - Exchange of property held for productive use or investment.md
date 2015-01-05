@@ -46,7 +46,7 @@ If an exchange would be within the provisions of subsection (a), of section 1035
 
 #### (d) Basis
 
-If property was acquired on an exchange described in this section, section 1035(a), section 1036(a), or section 1037(a), then the basis shall be the same as that of the property exchanged, decreased in the amount of any money received by the taxpayer and increased in the amount of gain or decreased in the amount of loss to the taxpayer that was recognized on such exchange. If the property so acquired consisted in part of the type of property permitted by this section, section 1035(a), section 1036(a), or section 1037(a), to be received without the recognition of gain or loss, and in part of other property, the basis provided in this subsection shall be allocated between the properties (other than money) received, and for the purpose of the allocation there shall be assigned to such other property an amount equivalent to its fair market value at the date of the exchange. For purposes of this section, section 1035(a), and section 1036(a), where as part of the consideration to the taxpayer another party to the exchange assumed (as determined under section 357(d)) a liability of the taxpayer, such assumption shall be considered as money received by the taxpayer on the exchange.
+If property was acquired on an exchange described in this section, section 1035(a), section 1036(a), or section 1037(a), then the basis shall be the same as that of the property exchanged, decreased in the amount of any money received by the taxpayer and increased in the amount of gain or decreased in the amount of loss to the taxpayer that was recognized on such exchange. If the property so acquired consisted in part ofthe type of property permitted by this section, section 1035(a), section 1036(a), or section 1037(a), to be received without the recognition of gain or loss, and in part of other property, the basis provided in this subsection shall be allocated between the properties (other than money) received, and for the purpose of the allocation there shall be assigned to such other property an amount equivalent to its fair market value at the date of the exchange. For purposes of this section, section 1035(a), and section 1036(a), where as part of the consideration to the taxpayer another party to the exchange assumed (as determined under section 357(d)) a liability of the taxpayer, such assumption shall be considered as money received by the taxpayer on the exchange.
 
 #### (e) Exchanges of livestock of different sexes
 
@@ -96,7 +96,7 @@ For purposes of this section, livestock of different sexes are not property of a
 
 #### (2) Property to which subsection applies
 
-&emsp;This paragraph shall apply to any property for any period during which the holder's riskof loss with respect to the property is substantially diminished by—
+&emsp;This paragraph shall apply to any property for any period during which the holder's risk of loss with respect to the property is substantially diminished by—
 
 &emsp;&emsp;(A) the holding of a put with respect to such property,
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (i) Special rules for mutual ditch, reservoir, or irrigation company stock
 
-For purposes of subsection (a)(2)(B), the term "stocks" shall not include shares in a mutual ditch, reservoir, or irrigation company if at the time of the exchange—
+For purposes of subsection (a)(2)(B), the term "stocks" shall not include shares in a mutualditch, reservoir, or irrigation company if at the time of the exchange—
 
 &emsp;(1) the mutual ditch, reservoir, or irrigation company is an organization described in section 501(c)(12)(A) (determined without regard to the percentage of its income that is collected from its members for the purpose of meeting losses and expenses), and
 
@@ -176,7 +176,7 @@ Subsec. (f)(3). Pub. L. 101–508, §11701(h), substituted "section 267(b) or 70
 
 <b>1959</b>—Subsecs. (b) to (d). Pub. L. 86–346 inserted references to section 1037(a) in subsecs. (b) and (c) and in first two sentences of subsec. (d).
 
-<b>1958</b>—Subsec. (d). Pub. L. 85–866 inserted in first sentence a comma between "exchanged" and "decreased"and "or decreased in the amount of loss", and substituted in second sentence "subsection" for "paragraph".
+<b>1958</b>—Subsec. (d). Pub. L. 85–866 inserted in first sentence a comma between "exchanged" and "decreased" and "or decreased in the amount of loss", and substituted in second sentence "subsection" for "paragraph".
 
 #### Effective Date of 2008 Amendment
 

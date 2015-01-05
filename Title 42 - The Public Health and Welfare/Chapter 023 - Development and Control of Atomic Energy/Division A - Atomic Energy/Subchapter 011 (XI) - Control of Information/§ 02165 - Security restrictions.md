@@ -2,7 +2,7 @@
 
 #### (a) On contractors and licensees
 
-No arrangement shall be made under section 2051 of this title, no contract shall be made or continued in effect under section 2061 of this title, and no license shall be issued under section 2133 or 2134 of this title, unless the person with whom such arrangement is made, the contractor or prospective contractor, or the prospective licensee agrees in writing not to permit any individual to have access to Restricted Data until the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
+No arrangement shall be made under section 2051 of this title, no contract shall be made or continued in effect under section 2061 of this title, and no license shall be issued under section 2133 or 2134 of this title, unless the person with whom such arrangement is made, the contractor or prospective contractor, or the prospective licensee agrees in writing not to permit any individual to have access to Restricted Datauntil the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
 
 #### (b) Employment of personnel; access to Restricted Data
 
@@ -34,7 +34,7 @@ In the event an investigation made pursuant to subsections (a) and (b) of this s
 
 #### (g) Investigation standards
 
-The Commission shall establish standards and specifications in writing as to the scope and extent of investigations, the reports of which will be utilized by the Commission in making the determination, pursuant to subsections (a), (b), and (c) of this section, that permitting a person access to restricted data will not endanger the common defense and security. Such standards and specifications shall be based on the location and class or kind of work to be done, and shall,among other considerations, take into account the degree of importance to the common defense and security of the restricted data to which access will be permitted.
+The Commission shall establish standards and specifications in writing as to the scope and extent of investigations, the reports of which will be utilized by the Commission in making the determination, pursuant to subsections (a), (b), and (c) of this section, that permitting a person access to restricted data will not endanger the common defense and security. Such standards and specifications shall be based on the location and class or kind of work to be done, and shall, among other considerations, take into account the degree of importance to the common defense and security of the restricted data to which access will be permitted.
 
 #### (h) War time clearance
 
@@ -50,7 +50,7 @@ Provisions similar to this section were contained in section 1810(b)(5) of this 
 
 <b>2003</b>—Subsec. (e)(2). Pub. L. 108–136, §3131(b), struck out "or a Personnel Security and Assurance Program" after "Special Access Program".
 
-Subsec. (f). Pub. L. 108–136, §3131(a), amended text of subsec. (f) generally. Prior to amendment, text read as follows: "Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigation and reports required by such provisions shall be made by the Federal Bureau of Investigation."
+Subsec. (f). Pub. L. 108–136, §3131(a), amended text of subsec. (f) generally. Prior to amendment, text read as follows: "Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigationand reports required by such provisions shall be made by the Federal Bureau of Investigation."
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
 

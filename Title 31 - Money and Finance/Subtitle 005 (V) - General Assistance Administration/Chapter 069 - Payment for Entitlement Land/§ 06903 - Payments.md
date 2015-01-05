@@ -42,209 +42,58 @@
 
 &nbsp;
 
-<b>the limitation</b>
-
-&nbsp;
-
-<b>is equal to the</b>
-
-&nbsp;
-
-<b>population</b>
-
-<b>If population equals—</b>
-
-<b>times—</b>
-
-&emsp;&emsp;&nbsp;5,000
-
-$110.00&nbsp;
-
-&emsp;&emsp;&nbsp;6,000
-
-103\.00&nbsp;
-
-&emsp;&emsp;&nbsp;7,000
-
-97\.00&nbsp;
-
-&emsp;&emsp;&nbsp;8,000
-
-90\.00&nbsp;
-
-&emsp;&emsp;&nbsp;9,000
-
-84\.00&nbsp;
-
-&emsp;&emsp;10,000
-
-77\.00&nbsp;
-
-&emsp;&emsp;11,000
-
-75\.00&nbsp;
-
-&emsp;&emsp;12,000
-
-73\.00&nbsp;
-
-&emsp;&emsp;13,000
-
-70\.00&nbsp;
-
-&emsp;&emsp;14,000
-
-68\.00 
-
-&emsp;&emsp;15,000
-
-66\.00&nbsp;
-
-&emsp;&emsp;16,000
-
-65\.00&nbsp;
-
-&emsp;&emsp;17,000
-
-64\.00&nbsp;
-
-&emsp;&emsp;18,000
-
-63\.00&nbsp;
-
-&emsp;&emsp;19,000
-
-62\.00&nbsp;
-
-&emsp;&emsp;20,000
-
-61\.00&nbsp;
-
-&emsp;&emsp;21,000
-
-60\.00&nbsp;
-
-&emsp;&emsp;22,000
-
-59\.00&nbsp;
-
-&emsp;&emsp;23,000
-
-59\.00&nbsp;
-
-&emsp;&emsp;24,000
-
-58\.00&nbsp;
-
-&emsp;&emsp;25,000
-
-57\.00&nbsp;
-
-&emsp;&emsp;26,000
-
-56\.00&nbsp;
-
-&emsp;&emsp;27,000
-
-56\.00&nbsp;
-
-&emsp;&emsp;28,000
-
-56\.00&nbsp;
-
-&emsp;&emsp;29,000
-
-55\.00&nbsp;
-
-&emsp;&emsp;30,000
-
-55\.00&nbsp;
-
-&emsp;&emsp;31,000
-
-54\.00&nbsp;
-
-&emsp;&emsp;32,000
-
-54\.00&nbsp;
-
-&emsp;&emsp;33,000
-
-53\.00&nbsp;
-
-&emsp;&emsp;34,000
-
-53\.00&nbsp;
-
-&emsp;&emsp;35,000
-
-52\.00&nbsp;
-
-&emsp;&emsp;36,000
-
-52\.00&nbsp;
-
-&emsp;&emsp;37,000
-
-51\.00&nbsp;
-
-&emsp;&emsp;38,000
-
-51\.00&nbsp;
-
-&emsp;&emsp;39,000
-
-50\.00&nbsp;
-
-&emsp;&emsp;40,000
-
-50\.00&nbsp;
-
-&emsp;&emsp;41,000
-
-49\.00&nbsp;
-
-&emsp;&emsp;42,000
-
-48\.00&nbsp;
-
-&emsp;&emsp;43,000
-
-48\.00&nbsp;
-
-&emsp;&emsp;44,000
-
-47\.00&nbsp;
-
-&emsp;&emsp;45,000
-
-47\.00&nbsp;
-
-&emsp;&emsp;46,000
-
-46\.00&nbsp;
-
-&emsp;&emsp;47,000
-
-46\.00&nbsp;
-
-&emsp;&emsp;48,000
-
-45\.00&nbsp;
-
-&emsp;&emsp;49,000
-
-45\.00&nbsp;
-
-&emsp;&emsp;50,000
-
-44\.00.&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;If the population equals— | <b>the limitation is equal to the population times—</b> |
+| :--- | ---: |
+| &nbsp;5,000 | $110.00&nbsp;&nbsp; |
+| &nbsp;6,000 | 103\.00&nbsp;&nbsp; |
+| &nbsp;7,000 | 97\.00&nbsp;&nbsp; |
+| &nbsp;8,000 | 90\.00&nbsp;&nbsp; |
+| &nbsp;9,000 | 84\.00&nbsp;&nbsp; |
+| 10,000 | 77\.00&nbsp;&nbsp; |
+| 11,000 | 75\.00&nbsp;&nbsp; |
+| 12,000 | 73\.00&nbsp;&nbsp; |
+| 13,000 | 70\.00&nbsp;&nbsp; |
+| 14,000 | 68\.00&nbsp;&nbsp; |
+| 15,000 | 66\.00&nbsp;&nbsp; |
+| 16,000 | 65\.00&nbsp;&nbsp; |
+| 17,000 | 64\.00&nbsp;&nbsp; |
+| 18,000 | 63\.00&nbsp;&nbsp; |
+| 19,000 | 62\.00&nbsp;&nbsp; |
+| 20,000 | 61\.00&nbsp;&nbsp; |
+| 21,000 | 60\.00&nbsp;&nbsp; |
+| 22,000 | 59\.00   |
+| 23,000 | 59\.00&nbsp;&nbsp; |
+| 24,000 | 58\.00&nbsp;&nbsp; |
+| 25,000 | 57\.00&nbsp;&nbsp; |
+| 26,000 | 56\.00&nbsp;&nbsp; |
+| 27,000 | 56\.00&nbsp;&nbsp; |
+| 28,000 | 56\.00&nbsp;&nbsp; |
+| 29,000 | 55\.00&nbsp;&nbsp; |
+| 30,000 | 55\.00&nbsp;&nbsp; |
+| 31,000 | 54\.00&nbsp;&nbsp; |
+| 32,000 | 54\.00&nbsp;&nbsp; |
+| 33,000 | 53\.00&nbsp;&nbsp; |
+| 34,000 | 53\.00&nbsp;&nbsp; |
+| 35,000 | 52\.00&nbsp;&nbsp; |
+| 36,000 | 52\.00&nbsp;&nbsp; |
+| 37,000 | 51\.00&nbsp;&nbsp; |
+| 38,000 | 51\.00&nbsp;&nbsp; |
+| 39,000 | 50\.00&nbsp;&nbsp; |
+| 40,000 | 50\.00&nbsp;&nbsp; |
+| 41,000 | 49\.00&nbsp;&nbsp; |
+| 42,000 | 48\.00&nbsp;&nbsp; |
+| 43,000 | 48\.00&nbsp;&nbsp; |
+| 44,000 | 47\.00&nbsp;&nbsp; |
+| 45,000 | 47\.00&nbsp;&nbsp; |
+| 46,000 | 46\.00&nbsp;&nbsp; |
+| 47,000 | 46\.00&nbsp;&nbsp; |
+| 48,000 | 45\.00&nbsp;&nbsp; |
+| 49,000 | 45\.00&nbsp;&nbsp; |
+| 50,000 | 44\.00. |
 
 (d) On October 1 of each year after the date of enactment of the Payment in Lieu of Taxes Act, the Secretary of the Interior shall adjust each dollar amount specified in subsections (b) and (c) to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor, for the 12 months ending the preceding June 30.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 98–63, title I, §101(2), July 30, 1983, 97 Stat. 324; Pub. L. 103–397, §§2, 3, 5(b), Oct. 22, 1994, 108 Stat. 4156–4158; Pub. L. 106–393, §4, Oct. 30, 2000, 114 Stat. 1610.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324; Pub. L. 103–397, §§2, 3, 5(b), Oct. 22, 1994, 108 Stat. 4156–4158; Pub. L. 106–393, §4, Oct. 30, 2000, 114 Stat. 1610.)
 
 Historical and Revision Notes
 
@@ -328,7 +177,7 @@ Pub. L. 103–397, §5(b)(3), amended table generally for fiscal year 1997 by au
 
 Pub. L. 103–397, §5(b)(2), amended table generally for fiscal year 1996 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $24.75 to $62.00 under prior table to $29.50 to $74.00.
 
-Pub. L. 103–397, §5(b)(1), amended table generally for fiscal year 1995 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $20.00 to $50.00 under prior table to $24.75 to $62.00.
+Pub. L. 103–397, §5(b)(1), amended table generally for fiscal year 1995 by augmenting dollar amounts by whichpopulation totals must be multiplied in order to equal the limitation from $20.00 to $50.00 under prior table to $24.75 to $62.00.
 
 Subsec. (d). Pub. L. 103–397, §3, added subsec. (d).
 
@@ -348,5 +197,5 @@ Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the am
 
 #### Payments Made Prior to January 1, 1983
 
-Pub. L. 98–63, title I, §101(3), July 30, 1983, 97 Stat. 324, provided in part that: "The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended \[Pub. L. 94–565, see 31 U.S.C. 6901 et seq.\], or regulations pursuant thereto."
+Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324, provided in part that: "The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended \[Pub. L. 94–565, see 31 U.S.C. 6901 et seq.\], or regulations pursuant thereto."
 

@@ -38,7 +38,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each eligible agency submitting a State plan, there shall be established, in accordance with this subparagraph, levels of performance for each of the core indicators of performance described in paragraph\(2)(A) for adult education and literacy activities authorized under this part. The levels of performance established under this subparagraph shall, at a minimum—
+&emsp;&emsp;&emsp;For each eligible agency submitting a State plan, there shall be established, in accordance with this subparagraph, levels of performance for each of the core indicators of performance described in paragraph (2)(A) for adult education and literacy activities authorized under this part. The levels of performance established under this subparagraph shall, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) be expressed in an objective, quantifiable, and measurable form; and
 
@@ -90,7 +90,15 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 (Pub. L. 105–220, title II, §212, Aug. 7, 1998, 112 Stat. 1064; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(c)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (b)(3)(A)(vi). Pub. L. 105–277 substituted "2871(i)(1) of title 29" for "2871(j) of title 29".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

@@ -30,7 +30,7 @@ The Commission shall meet at the call of the Chair or a majority of its members,
 
 #### (e) Bylaws and charter
 
-The Commission may make such bylaws, rules, and regulations as it considers necessary to carry out its functions under this subchapter. The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Commission.
+The Commission may make such bylaws, rules, and regulations as it considers necessary to carry out its functions under this subchapter. The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972;86 Stat. 776), are hereby waived with respect to this Commission.
 
 #### (f) Functions
 

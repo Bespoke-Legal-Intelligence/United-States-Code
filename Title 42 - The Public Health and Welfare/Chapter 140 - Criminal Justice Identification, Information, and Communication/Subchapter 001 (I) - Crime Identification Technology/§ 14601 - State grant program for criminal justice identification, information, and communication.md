@@ -70,7 +70,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b)of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note).
+&emsp;To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note).
 
 #### (2) Information sharing
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 Pub. L. 105–251, title I, §101, Oct. 9, 1998, 112 Stat. 1871, provided that: "This title \[enacting this subchapter\] may be cited as the 'Crime Identification Technology Act of 1998'."
 
-Pub. L. 105–251, title II, §201, Oct. 9, 1998, 112 Stat. 1874, provided that: "This title \[enacting subchapter II of this chapter, amending sections 5119a and 5119b of this title, and enacting provisions set out as a noteunder section 5101 of this title\] may be cited as the 'National Criminal History Access and Child Protection Act'."
+Pub. L. 105–251, title II, §201, Oct. 9, 1998, 112 Stat. 1874, provided that: "This title \[enacting subchapter II of this chapter, amending sections 5119a and 5119b of this title, and enacting provisions set out as a note under section 5101 of this title\] may be cited as the 'National Criminal History Access and Child Protection Act'."
 
 Pub. L. 105–251, title II, §211, Oct. 9, 1998, 112 Stat. 1874, provided that: "This subtitle \[subtitle A (§§211–217) of title II of Pub. L. 105–251, enacting subchapter II of this chapter\] may be cited as the 'National Crime Prevention and Privacy Compact Act of 1998'."
 

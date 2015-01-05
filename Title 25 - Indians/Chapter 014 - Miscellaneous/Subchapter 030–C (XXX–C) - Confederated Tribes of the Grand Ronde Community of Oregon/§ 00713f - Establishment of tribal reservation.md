@@ -8,7 +8,7 @@
 
 #### (b) Consultation with State and local officials required
 
-To assure that legitimate State and local interests are not prejudiced by the proposed enlargement of the reservation, the Secretary shall notify and consult all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon, and any other interested party in developing any plan under subsection (a) of this section. The Secretary shall provide complete information on the proposed plan to such officials and interested parties, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as he may possess, and shall request comments and additional information, on the following subjects:
+To assure that legitimate State and local interests are not prejudiced by the proposed enlargement of the reservation, the Secretary shall notify and consult all appropriate officialsof the State of Oregon, all appropriate local governmental officials in the State of Oregon, and any other interested party in developing any plan under subsection (a) of this section. The Secretary shall provide complete information on the proposed plan to such officials and interested parties, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as he may possess, and shall request comments and additional information, on the following subjects:
 
 &emsp;(1) The size and location of the proposed reservation.
 
@@ -24,7 +24,7 @@ To assure that legitimate State and local interests are not prejudiced by the pr
 
 Any plan developed by the Secretary under subsection (a) of this section shall provide that—
 
-&emsp;(1) any real property transferred by the tribe or any member to the Secretary shall be takenand held in the name of the United States for the benefit of the tribe and shall be a part of the reservation of the tribe;
+&emsp;(1) any real property transferred by the tribe or any member to the Secretary shall be taken and held in the name of the United States for the benefit of the tribe and shall be a part of the reservation of the tribe;
 
 &emsp;(2) the establishment of the reservation shall not grant or restore to the tribe or any member any hunting, fishing, or trapping right of any kind on such reservation, including any indirect or procedural right or advantage over individuals who are not members of the tribe;
 

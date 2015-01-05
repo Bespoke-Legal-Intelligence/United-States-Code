@@ -68,7 +68,7 @@ In general.—A civil investigative demand issued under subsection (a) may not r
 
 &emsp;&emsp;(A) the standards applicable to subpoenas or subpoenas duces tecum issued by a court of the United States to aid in a grand jury investigation; or
 
-&emsp;&emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand isappropriate and consistent with the provisions and purposes of this section.
+&emsp;&emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand is appropriate and consistent with the provisions and purposes of this section.
 
 &emsp;(2)
 
@@ -128,7 +128,7 @@ Sworn certificates.—The production of documentary material in response to a ci
 
 &emsp;(2)
 
-Production of materials.—Any person upon whom any civil investigative demand for the production of documentary material has been served under this section shall make such material available for inspection and copying to the false claims law investigator identified in such demand at the principal place of business of such person, or at such other place as the false claims law investigator and the person thereafter may agree and prescribe in writing, or as the court may direct under subsection (j)(1). Such material shall be made so available on the return date specified in such demand, or on such later date as the false claims law investigator may prescribe in writing. Such person may, upon written agreement between the person and the false claims law investigator, substitute copies for originals of all or any part of such material.
+Production of materials.—Any person upon whom any civil investigative demand forthe production of documentary material has been served under this section shall make such material available for inspection and copying to the false claims law investigator identified in such demand at the principal place of business of such person, or at such other place as the false claims law investigator and the person thereafter may agree and prescribe in writing, or as the court may direct under subsection (j)(1). Such material shall be made so available on the return date specified in such demand, or on such later date as the false claims law investigator may prescribe in writing. Such person may, upon written agreement between the person and the false claims law investigator, substitute copies for originals of all or any part of such material.
 
 (g)
 
@@ -138,7 +138,7 @@ Interrogatories.—Each interrogatory in a civil investigative demand served und
 
 &emsp;(2) in the case of a person other than a natural person, the person or persons responsible for answering each interrogatory.
 
-> If any interrogatory is objected to, the reasons for the objection shall be stated in the certificate instead of an answer. The certificate shall state that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand isdirected has been submitted. To the extent that any information is not furnished, the information shall be identified and reasons set forth with particularity regarding the reasons why the information was not furnished.
+> If any interrogatory is objected to, the reasons for the objection shall be stated in the certificate instead of an answer. The certificate shall state that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand is directed has been submitted. To the extent that any information is not furnished, the information shall be identified and reasons set forth with particularity regarding the reasons why the information was not furnished.
 
 (h)
 
@@ -188,7 +188,7 @@ Designation.—The Attorney General shall designate a false claims law investiga
 
 &emsp;(2)
 
-Responsibility for materials; disclosure.—(A) A false claims law investigator whoreceives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
+Responsibility for materials; disclosure.—(A) A false claims law investigator who receives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
 
 &emsp;(B) The custodian may cause the preparation of such copies of such documentary material, answers to interrogatories, or transcripts of oral testimony as may be required for official use by any false claims law investigator, or other officer or employee of the Department of Justice. Such material, answers, and transcripts may be used by any such authorized false claims law investigator or other officer or employee in connection with the taking of oral testimony under this section.
 
@@ -216,7 +216,7 @@ Conditions for return of material.—If any documentary material has been produc
 
 &emsp;(5)
 
-Appointment of successor custodians.—In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony produced pursuant to a civil investigative demand under this section, or in the event of the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Attorney General shall promptly—
+Appointment of successor custodians.—In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts oforal testimony produced pursuant to a civil investigative demand under this section, or in the event of the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Attorney General shall promptly—
 
 &emsp;&emsp;(A) designate another false claims law investigator to serve as custodian of such material, answers, or transcripts, and
 
@@ -262,7 +262,7 @@ Jurisdiction.—Whenever any petition is filed in any district court of the Unit
 
 &emsp;(6)
 
-Applicability of federal rules of civil procedure.—The Federal Rules of Civil Procedure shall apply to any petition under this subsection, to the extent that such rules are not inconsistent with the provisions of this section.
+Applicability of federal rules of civil procedure.—The Federal Rules of Civil Procedure shall apply to any petition under thissubsection, to the extent that such rules are not inconsistent with the provisions of this section.
 
 (k)
 
@@ -282,7 +282,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(3) the term "false claims law investigator" means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
 
-&emsp;(4) the term "person" means any natural person, partnership, corporation, association,or other legal entity, including any State or political subdivision of a State;
+&emsp;(4) the term "person" means any natural person, partnership, corporation, association, or other legal entity, including any State or political subdivision of a State;
 
 &emsp;(5) the term "documentary material" includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret such data compilations, and any product of discovery;
 

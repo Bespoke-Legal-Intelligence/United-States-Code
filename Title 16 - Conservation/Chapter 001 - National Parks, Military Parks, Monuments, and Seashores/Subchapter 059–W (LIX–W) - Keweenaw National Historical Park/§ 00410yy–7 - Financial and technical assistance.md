@@ -10,7 +10,7 @@ The Secretary may provide to any owner of property within the park containing na
 
 #### (b) Matching funds
 
-Funds authorized to be appropriated to the Secretary for the purposes of this section shall be expended in the ratio of $1 of Federal funds for each $1 of funds contributed by non-Federal sources. For the purposes of this subsection, the Secretary is authorized to accept from non-Federal sources, and to utilize for purposes of this subchapter, any money so contributed. Donations of land, or interests in land, by the State of Michigan may be considered as a contribution from non-Federal sources for the purposes of this subsection.
+Funds authorized to be appropriated to the Secretary for the purposes of this section shallbe expended in the ratio of $1 of Federal funds for each $1 of funds contributed by non-Federal sources. For the purposes of this subsection, the Secretary is authorized to accept from non-Federal sources, and to utilize for purposes of this subchapter, any money so contributed. Donations of land, or interests in land, by the State of Michigan may be considered as a contribution from non-Federal sources for the purposes of this subsection.
 
 (Pub. L. 102–543, §8, Oct. 27, 1992, 106 Stat. 3571; Pub. L. 111–11, title VII, §7101(b), Mar. 30, 2009, 123 Stat. 1190.)
 

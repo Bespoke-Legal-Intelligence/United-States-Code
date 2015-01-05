@@ -78,7 +78,7 @@ Information described.—The information described in this paragraph is informat
 
 "(c)
 
-Contingency Operation Defined.—In this section, the term 'contingency operation' has the meaninggiven that term in section 101(a)(13) of title 10, United States Code."
+Contingency Operation Defined.—In this section, the term 'contingency operation' has the meaning given that term in section 101(a)(13) of title 10, United States Code."
 
 #### Quarterly Detailed Accounting for Operations Conducted as Part of the Global War on Terrorism
 

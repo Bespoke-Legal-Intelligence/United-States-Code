@@ -18,7 +18,7 @@
 
 #### (b) Action by Federal Trade Commission precluding action by Secretary; exception
 
-(1) If the Secretary notifies the Federal Trade Commission under subsection (a) of this section of action proposed to be taken under subchapter III of this chapter with respect to a food or food advertising and the Commission notifies the Secretary in writing, within the 30-day periodbeginning on the date of the receipt of such notice, that—
+(1) If the Secretary notifies the Federal Trade Commission under subsection (a) of this section of action proposed to be taken under subchapter III of this chapter with respect to a food or food advertising and the Commission notifies the Secretary in writing, within the 30-day period beginning on the date of the receipt of such notice, that—
 
 &emsp;(A) it has initiated under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] an investigation of such advertising to determine if it is prohibited by such Act or any order or rule under such Act,
 

@@ -60,7 +60,7 @@ July 9, 1918, ch. 143, subch. XV, §8 (last par.), 40 Stat. 888.
 
 50:172 (91st through 109th words of last par.).
 
-In subsection (a), the words "an executive department or the Federal Maritime Board" are substituted for the words "any department or the United States Maritime Commission" to reflect an opinion of the Judge Advocate General of the Army (JAGA 1954/1723) and to name the successor of the United States Maritime Commission. The last 18 words are inserted to reflect that opinion (see the Act of February 20, 1931 (10 U.S.C. 1354)). The words "and dispose of" are omitted as surplusage.
+In subsection (a), the words "an executive department or the Federal Maritime Board" are substitutedfor the words "any department or the United States Maritime Commission" to reflect an opinion of the Judge Advocate General of the Army (JAGA 1954/1723) and to name the successor of the United States Maritime Commission. The last 18 words are inserted to reflect that opinion (see the Act of February 20, 1931 (10 U.S.C. 1354)). The words "and dispose of" are omitted as surplusage.
 
 In subsection (b), the words "an executive department or the Federal Maritime Board" are inserted for clarity and to name the successor of the United States Maritime Commission.
 
@@ -88,7 +88,7 @@ Subsec. (f)(2), (3). Pub. L. 99–561, §4(3)(C), amended pars. (2) and (3) gene
 
 "(2) Subject to paragraph (3), there shall be deposited into the reserve account not later than December 31 of each year, for credit to the preceding fiscal year, an amount equal to one-half of the amount (if any) remaining of the total amount received by the United States during that fiscal year as proceeds from the sale of forest products after (A) the reimbursement of appropriations of the Department of Defense under subsection (d) for expenses of production of forest products during that fiscal year, and (B) the payment to States under subsection (e) for that fiscal year.
 
-"(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) wouldcause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000."
+"(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) would cause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000."
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–407, §809(a)(1), substituted "forest products produced on land owned or leased by a military department or the" for "logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or".
 

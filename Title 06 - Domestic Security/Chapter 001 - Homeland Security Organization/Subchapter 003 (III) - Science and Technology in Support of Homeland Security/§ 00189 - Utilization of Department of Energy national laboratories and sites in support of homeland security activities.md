@@ -6,11 +6,11 @@
 
 &emsp;In carrying out the missions of the Department, the Secretary may utilize the Department of Energy national laboratories and sites through any 1 or more of the following methods, as the Secretary considers appropriate:
 
-&emsp;&emsp;(A) A joint sponsorship arrangement referred to in subsection (b) of this section.
+&emsp;&emsp;(A) A joint sponsorship arrangement referred to in subsection (b).
 
-&emsp;&emsp;(B) A direct contract between the Department and the applicable Department of Energy laboratory or site, subject to subsection (c) of this section.
+&emsp;&emsp;(B) A direct contract between the Department and the applicable Department of Energy laboratory or site, subject to subsection (c).
 
-&emsp;&emsp;(C) Any “work for others” basis made available by that laboratory or site.
+&emsp;&emsp;(C) Any "work for others" basis made available by that laboratory or site.
 
 &emsp;&emsp;(D) Any other method provided by law.
 
@@ -46,7 +46,7 @@
 
 #### (c) Separate contracting
 
-To the extent that programs or activities transferred by this chapter from the Department of Energy to the Department of Homeland Security are being carried out through direct contracts with the operator of a national laboratory or site of the Department of Energy, the Secretary of Homeland Security and the Secretary of Energy shall ensure that direct contracts for such programs and activities between the Department of Homeland Security and such operator are separate from the direct contracts of the Department of Energy with such operator.
+To the extent that programs or activities transferred by this chapter from the Department of Energy to the Department of HomelandSecurity are being carried out through direct contracts with the operator of a national laboratory or site of the Department of Energy, the Secretary of Homeland Security and the Secretary of Energy shall ensure that direct contracts for such programs and activities between the Department of Homeland Security and such operator are separate from the direct contracts of the Department of Energy with such operator.
 
 #### (d) Authority with respect to cooperative research and development agreements and licensing agreements
 
@@ -72,9 +72,9 @@ The Secretary of Energy shall ensure that any research, development, test, and e
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Codification
 
-In subsec. (b)(6), “section 3303(a)(1)(C) of title 41” substituted for “section 303(b)(1)(C) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(b)(1)(C))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(6), "section 3303(a)(1)(C) of title 41" substituted for "section 303(b)(1)(C) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(b)(1)(C))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

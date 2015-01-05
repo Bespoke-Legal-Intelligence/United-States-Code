@@ -88,7 +88,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The limits established under subsection (a) shall not apply to any component part of a children's product that is not accessible to a child through normal and reasonably foreseeable use and abuse of such product, as determined by the Commission. A component part is not accessible under this subparagraph if such component part is not physically exposed by reason of a sealed covering or casing and does not become physically exposed through reasonably foreseeable use and abuse of the product. Reasonably foreseeable use and abuse shall include swallowing, mouthing, breaking, or other children's activities, and the aging of the product.
+&emsp;&emsp;The limits established under subsection (a) shall not apply to any component part of a children's product that is not accessible to a child through normal and reasonably foreseeable use and abuse of such product, as determined by the Commission. A componentpart is not accessible under this subparagraph if such component part is not physically exposed by reason of a sealed covering or casing and does not become physically exposed through reasonably foreseeable use and abuse of the product. Reasonably foreseeable use and abuse shall include swallowing, mouthing, breaking, or other children's activities, and the aging of the product.
 
 #### (B) Inaccessibility proceeding
 
@@ -106,7 +106,7 @@
 
 &emsp;If the Commission determines that it is not technologically feasible for certain electronic devices, including devices containing batteries, to comply with subsection (a), the Commission, by regulation, shall—
 
-&emsp;&emsp;(A) issue requirements to eliminate or minimize the potential for exposure to andaccessibility of lead in such electronic devices, which may include requirements that such electronic devices be equipped with a child-resistant cover or casing that prevents exposure to and accessibility of the parts of the product containing lead; and
+&emsp;&emsp;(A) issue requirements to eliminate or minimize the potential for exposure to and accessibility of lead in such electronic devices, which may include requirements that such electronic devices be equipped with a child-resistant cover or casing that prevents exposure to and accessibility of the parts of the product containing lead; and
 
 &emsp;&emsp;(B) establish a schedule by which such electronic devices shall be in full compliance with the limits in subsection (a), unless the Commission determines that full compliance will not be technologically feasible for such devices within a schedule set by the Commission.
 
@@ -218,7 +218,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (6) No effect on legal limit
 
-&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method of measurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
+&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method ofmeasurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
 
 #### (7) Construction
 
@@ -234,7 +234,7 @@ Any ban imposed by subsection (a) or rule promulgated under subsection (a) or (b
 
 The Federal Hazardous Substances Act, referred to in subsec. (a)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
-The Consumer Product Safety Act, referred to in subsec. (c), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (c), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 This Act, referred to in subsec. (e)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
 

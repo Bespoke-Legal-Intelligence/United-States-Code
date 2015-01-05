@@ -24,7 +24,7 @@ Amendment by Pub. L. 100–702 effective Dec. 1, 1988, see section 407 of Pub. L
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, whichis the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of title 28, Judiciary and Judicial Procedure.
 
 <i><sup>1</sup></i><i> Section catchline was not amended to conform to change made in text by Pub. L. 100–702.</i>
 

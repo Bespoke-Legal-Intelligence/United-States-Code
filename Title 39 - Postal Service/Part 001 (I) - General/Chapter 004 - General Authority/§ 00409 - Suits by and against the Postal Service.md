@@ -36,7 +36,7 @@
 
 (f)(1) Each building constructed or altered by the Postal Service shall be constructed or altered, to the maximum extent feasible as determined by the Postal Service, in compliance with 1 of the nationally recognized model building codes and with other applicable nationally recognized codes.
 
-(2) Each building constructed or altered by the Postal Service shall be constructed or altered only after consideration of all requirements (other than procedural requirements) of zoning laws, land use laws, and applicable environmental laws of a State or subdivision of a State which would apply to the building if it were not a building constructed or altered by an establishment of the Government of the United States.
+(2) Each building constructed or altered by the Postal Service shall be constructed or alteredonly after consideration of all requirements (other than procedural requirements) of zoning laws, land use laws, and applicable environmental laws of a State or subdivision of a State which would apply to the building if it were not a building constructed or altered by an establishment of the Government of the United States.
 
 (3) For purposes of meeting the requirements of paragraphs (1) and (2) with respect to a building, the Postal Service shall—
 
@@ -112,7 +112,7 @@ The date of enactment of this subsection, referred to in subsec. (e)(3), is the 
 
 Subsecs. (d) to (h). Pub. L. 109–435, §404(a), added subsecs. (d) to (h) and struck out former subsecs. (d) and (e), which read as follows:
 
-"(d) The Department of Justice shall furnish, under section 411 of this title, the Postal Service such legalrepresentation as it may require, but with the prior consent of the Attorney General the Postal Service may employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
+"(d) The Department of Justice shall furnish, under section 411 of this title, the Postal Service such legal representation as it may require, but with the prior consent of the Attorney General the Postal Service may employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
 
 "(e) A judgment against the Government of the United States arising out of activities of the Postal Service shall be paid by the Postal Service out of any funds available to the Postal Service."
 

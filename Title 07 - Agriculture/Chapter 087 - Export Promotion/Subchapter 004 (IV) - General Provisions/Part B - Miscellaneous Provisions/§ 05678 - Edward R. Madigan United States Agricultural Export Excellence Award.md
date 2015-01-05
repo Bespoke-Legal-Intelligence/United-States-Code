@@ -22,11 +22,11 @@ Congress finds that—
 
 #### (b) Establishment
 
-There is established the Edward R. Madigan United States Agricultural Export Excellence Award, which shall be evidenced by a medal bearing the inscription "Edward R. Madigan United States Agricultural Export Excellence Award". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary of Agriculture (referred to in this section as the "Secretary") may prescribe.
+There is established the Edward R. Madigan United States Agricultural Export Excellence Award, which shall be evidenced by a medal bearing the inscription "Edward R. Madigan United States Agricultural Export ExcellenceAward". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary of Agriculture (referred to in this section as the "Secretary") may prescribe.
 
 #### (c) Selection of recipient
 
-The President or the Secretary (on the basis of recommendations received from the board established under subsection (h) of this section) shall periodically provide the award to companies and other entities that in the judgment of the President or the Secretary substantially encourage entrepreneurial efforts in the food and agriculture sector for advancing United States agricultural exports.
+The President or the Secretary (on the basis of recommendations received from the board established under subsection (h)) shall periodically provide the award to companies and other entities that in the judgment of the President or the Secretary substantially encourage entrepreneurial efforts in the food and agriculture sector for advancing United States agricultural exports.
 
 #### (d) Presentation of award
 
@@ -50,7 +50,7 @@ Separate awards shall be made to qualifying entities in each of the following ca
 
 An entity may qualify for an award under this section only if the entity—
 
-&emsp;(1)(A) applies to the board established under subsection (h) of this section in writing for the award; or
+&emsp;(1)(A) applies to the board established under subsection (h) in writing for the award; or
 
 &emsp;(B) is recommended for the award by a Governor of a State;
 
@@ -58,7 +58,7 @@ An entity may qualify for an award under this section only if the entity—
 
 &emsp;(B) has provided significant assistance to others in an effort to create new markets for United States agricultural exports or increase United States agricultural exports;
 
-&emsp;(3) has not received another award in the same category under subsection (f) of this section during the preceding 5-year period; and
+&emsp;(3) has not received another award in the same category under subsection (f) during the preceding 5-year period; and
 
 &emsp;(4) meets such other requirements and specifications as the Secretary determines are appropriate to achieve the objectives of this section.
 
@@ -70,7 +70,7 @@ An entity may qualify for an award under this section only if the entity—
 
 #### (2) Meetings
 
-&emsp;The board shall meet at least once annually to review and evaluate all applicants and entities recommended by States under subsection (g)(1) of this section.
+&emsp;The board shall meet at least once annually to review and evaluate all applicants and entities recommended by States under subsection (g)(1).
 
 #### (3) Recommendations of board
 

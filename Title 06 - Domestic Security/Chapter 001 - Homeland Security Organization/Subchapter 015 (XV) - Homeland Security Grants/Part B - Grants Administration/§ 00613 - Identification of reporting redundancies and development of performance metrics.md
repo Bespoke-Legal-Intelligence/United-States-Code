@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term “covered grants” means grants awarded under section 604 of this title, grants awarded under section 605 of this title, and any other grants specified by the Administrator.
+In this section, the term "covered grants" means grants awarded under section 604 of this title, grants awarded under section 605 of this title, and any other grants specified by the Administrator.
 
 #### (b) Initial report
 
@@ -40,7 +40,7 @@ Not later than 1 year after the date on which the initial report is required to 
 
 &emsp;&emsp;(A) a description of the objectives and goals of the program;
 
-&emsp;&emsp;(B) an assessment of the extent to which the objectives and goals described in subparagraph (A) have been met, based on the quantifiable performance measures and metrics required under this section, section 612(a)(4) of this title, and section 749 of this title;
+&emsp;&emsp;(B) an assessment of the extent to which the objectives and goals described in subparagraph (A) have been met, based on the quantifiable performance measures and metrics required under this section, section 612(a)(4) <sup>1</sup> of this title, and section 749 of this title;
 
 &emsp;&emsp;(C) recommendations for any program modifications to improve the effectiveness of the program, to address changed or emerging conditions; and
 
@@ -65,4 +65,10 @@ Not later than 1 year after the date on which the initial report is required to 
 &emsp;There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this subsection.
 
 (Pub. L. 107–296, title XX, §2023, as added Pub. L. 111–271, §2(a), Oct. 12, 2010, 124 Stat. 2852.)
+
+#### References in Text
+
+Section 612(a)(4) of this title, referred to in subsec. (c)(3)(B), was redesignated section 612(a)(3) of this title by Pub. L. 113–284, §2(c)(2)(A), Dec. 18, 2014, 128 Stat. 3089.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

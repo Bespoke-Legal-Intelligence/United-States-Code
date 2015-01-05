@@ -10,7 +10,7 @@ In order to preserve biological diversity, the President is authorized to furnis
 
 #### (c) Funding level
 
-For fiscal year 1987, not less than $2,500,000 of the funds available to carry out subchapter I of this chapter (excluding funds made available to carry out section 2151b(c)(2) of this title, relating to the Child Survival Fund) shall be allocated for assistance pursuant to subsection (b) of this section for activities which were not funded prior to fiscal year 1987. In addition, the Agency for International Development shall, to the fullest extent possible, continue and increase assistance pursuant to subsection (b) of this section for activities for which assistance was provided in fiscal years prior to fiscal year 1987.
+For fiscal year 1987, not less than $2,500,000 of the funds available to carry out subchapter I of this chapter (excluding funds made available to carry out section 2151b(c)(2) of this title, relating to the Child Survival Fund) shall be allocated for assistance pursuant to subsection (b) for activities which were not funded prior to fiscal year 1987. In addition, the Agency for International Development shall, to the fullest extent possible, continue and increase assistance pursuant to subsection (b) for activities for which assistance was provided in fiscal years prior to fiscal year 1987.
 
 #### (d) Country analysis requirements
 
@@ -40,7 +40,7 @@ The Administrator of the Agency for International Development shall—
 
 &emsp;(4) support training and education efforts which improve the capacity of recipient countries to prevent loss of biological diversity;
 
-&emsp;(5) whenever possible, enter into long-term agreements in which the recipient country agrees to protect ecosystems or other wildlife habitats recommended for protection by relevant governmental or nongovernmental organizations or as a result of activities undertaken pursuant to paragraph (6), and the United States agrees to provide, subject to obtaining the necessary appropriations, additional assistance necessary for the establishment and maintenance of such protected areas;
+&emsp;(5) whenever possible, enter into long-term agreements in which the recipient country agrees to protect ecosystems or other wildlife habitats recommended for protection by relevant governmental or nongovernmental organizations or as a result of activities undertaken pursuant to paragraph (6), and theUnited States agrees to provide, subject to obtaining the necessary appropriations, additional assistance necessary for the establishment and maintenance of such protected areas;
 
 &emsp;(6) support, as necessary and in cooperation with the appropriate governmental and nongovernmental organizations, efforts to identify and survey ecosystems in recipient countries worthy of protection;
 

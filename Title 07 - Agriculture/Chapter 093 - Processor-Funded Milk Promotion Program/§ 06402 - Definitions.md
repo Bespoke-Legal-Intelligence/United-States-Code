@@ -44,7 +44,7 @@ As used in this chapter:
 
 <b>2002</b>—Par. (3). Pub. L. 107–171, §1506(a), added par. (3) and struck out heading and text of former par. (3). Text read as follows: "The term 'fluid milk product'—
 
-&emsp;"(A) means any of the following products in fluid or frozen form: milk, skim milk, lowfat milk, milkdrinks, buttermilk, filled milk, and milkshake and ice milk mixes containing less than 20 percent total solids, including any such products that are flavored, cultured, modified with added nonfat milk solids, concentrated (if in a consumer-type package), or reconstituted; and
+&emsp;"(A) means any of the following products in fluid or frozen form: milk, skim milk, lowfat milk, milk drinks, buttermilk, filled milk, and milkshake and ice milk mixes containing less than 20 percent total solids, including any such products that are flavored, cultured, modified with added nonfat milk solids, concentrated (if in a consumer-type package), or reconstituted; and
 
 &emsp;"(B) does not include evaporated or condensed milk (plain or sweetened), evaporated or condensed skim milk (plain or sweetened), formulas specially prepared for infant feeding or dietary use that are packaged in hermetically sealed glass or all-metal containers, any product that contains by weight less than 6.5 percent nonfat milk solids, and whey."
 

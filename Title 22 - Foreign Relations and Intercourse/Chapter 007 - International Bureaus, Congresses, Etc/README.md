@@ -265,6 +265,7 @@
 | 277g–2. | Consultation with Administrator of Environmental Protection Agency and other authorities. |
 | 277g–3. | Authorization of appropriations. |
 | [277h.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277h%20-%20Authority%20of%20the%20International%20Boundary%20and%20Water%20Commission%20to%20assist%20State%20and%20local%20governments.md) | Authority of the International Boundary and Water Commission to assist State and local governments. |
+| [277i.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277i%20-%20Report%20on%20water%20sharing.md) | Report on water sharing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -444,6 +445,8 @@
 | [284w.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284w%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
 | [284x.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284x%20-%20Sixteenth%20replenishment.md) | Sixteenth replenishment. |
 | [284y.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284y%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
+| [284z.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284z%20-%20Seventeenth%20replenishment.md) | Seventeenth replenishment. |
+| [284aa.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284aa%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -483,6 +486,7 @@
 | [285cc.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285cc%20-%20Eighth%20replenishment.md) | Eighth replenishment. |
 | [285dd.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285dd%20-%20Ninth%20replenishment.md) | Ninth replenishment. |
 | [285ee.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285ee%20-%20Fifth%20capital%20increase.md) | Fifth capital increase. |
+| [285ff.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285ff%20-%20Tenth%20replenishment.md) | Tenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -699,15 +703,17 @@
 | 290g–19. | Multilateral Debt Relief Initiative. |
 | 290g–20. | Twelfth replenishment. |
 | 290g–21. | Multilateral debt relief. |
+| 290g–22. | Thirteenth replenishment. |
+| 290g–23. | Multilateral debt relief. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XXIII—AFRICAN DEVELOPMENT FOUNDATION
+#### SUBCHAPTER XXIII—UNITED STATES AFRICAN DEVELOPMENT FOUNDATION
 
 |  |  |
 | :--- | ---: |
-| [290h.](Subchapter%20023%20%28XXIII%29%20-%20African%20Development%20Foundation/%C2%A7%2000290h%20-%20Congressional%20findings.md) | Congressional findings. |
-| 290h–1. | African Development Foundation. |
+| [290h.](Subchapter%20023%20%28XXIII%29%20-%20United%20States%20African%20Development%20Foundation/%C2%A7%2000290h%20-%20Congressional%20findings.md) | Congressional findings. |
+| 290h–1. | United States African Development Foundation. |
 | 290h–2. | Congressional declaration of purposes. |
 | 290h–3. | Functions of Foundation. |
 | 290h–4. | Powers of Foundation. |
@@ -793,7 +799,7 @@
 | 290m–3. | "Border Environment Cooperation Agreement" defined. |
 | 290m–4. | Authority to agree to certain amendments to the Border Environment Cooperation Agreement. |
 | 290m–5. | Grants out of paid-in capital resources. |
-| 290m–6. | Annual report. |
+| 290m–6. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1001,7 +1007,7 @@
 - [Subchapter 020 (XX) - World Health Organization](Subchapter%20020%20%28XX%29%20-%20World%20Health%20Organization/README.md)
 - [Subchapter 021 (XXI) - Inter-American Foundation](Subchapter%20021%20%28XXI%29%20-%20Inter-American%20Foundation/README.md)
 - [Subchapter 022 (XXII) - African Development Fund](Subchapter%20022%20%28XXII%29%20-%20African%20Development%20Fund/README.md)
-- [Subchapter 023 (XXIII) - African Development Foundation](Subchapter%20023%20%28XXIII%29%20-%20African%20Development%20Foundation/README.md)
+- [Subchapter 023 (XXIII) - United States African Development Foundation](Subchapter%20023%20%28XXIII%29%20-%20United%20States%20African%20Development%20Foundation/README.md)
 - [Subchapter 024 (XXIV) - African Development Bank](Subchapter%20024%20%28XXIV%29%20-%20African%20Development%20Bank/README.md)
 - [Subchapter 025 (XXV) - United States-India Fund for Cultural, Educational, and Scientific Cooperation](Subchapter%20025%20%28XXV%29%20-%20United%20States-India%20Fund%20for%20Cultural%2C%20Educational%2C%20and%20Scientific%20Cooperation/README.md)
 - [Subchapter 026 (XXVI) - Multilateral Investment Guarantee Agency](Subchapter%20026%20%28XXVI%29%20-%20Multilateral%20Investment%20Guarantee%20Agency/README.md)

@@ -52,7 +52,7 @@
 
 (k) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to comply with a direction issued by the Secretary under section 3311(b) of this title is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
 
-(l) A person committing an act described by subsections (b)–(f) of this section is liable to theGovernment for a civil penalty of not more than $5,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+(l) A person committing an act described by subsections (b)–(f) of this section is liable to the Government for a civil penalty of not more than $5,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 517; Pub. L. 98–498, title II, §211(c), Oct. 19, 1984, 98 Stat. 2304; Pub. L. 99–307, §1(6), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §4302(b), Aug. 18, 1990, 104 Stat. 538; Pub. L. 104–324, title III, §310, title VII, §713, Oct. 19, 1996, 110 Stat. 3919, 3936; Pub. L. 109–304, §15(13), Oct. 6, 2006, 120 Stat. 1703.)
 
@@ -120,7 +120,7 @@ Subsec. (e). Pub. L. 98–498, §211(c)(4), substituted "$10,000" for "$2,000".
 
 Subsec. (f). Pub. L. 98–498, §211(c)(5), substituted "$10,000" for "$5,000".
 
-Subsec. (g). Pub. L. 98–498, §211(c)(6), substituted "is liable to the Government for a civil penalty of not more than $5,000" for "shall be fined not more than $10,000, imprisoned for not more than one year, or both".
+Subsec. (g). Pub. L. 98–498, §211(c)(6), substituted "is liable to the Government for a civil penalty of notmore than $5,000" for "shall be fined not more than $10,000, imprisoned for not more than one year, or both".
 
 Subsec. (h). Pub. L. 98–498, §211(c)(7), substituted "Government for a civil penalty of not more than $1,000." for "United States Government for a civil penalty of not more than $500."
 

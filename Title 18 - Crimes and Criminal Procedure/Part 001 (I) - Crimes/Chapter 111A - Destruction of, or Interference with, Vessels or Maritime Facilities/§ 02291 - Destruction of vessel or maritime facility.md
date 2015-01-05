@@ -8,7 +8,7 @@ Offense.—Whoever knowingly—
 
 &emsp;(2) places or causes to be placed a destructive device, as defined in section 921(a)(4), destructive substance, as defined in section 31(a)(3), or an explosive, as defined in section 844(j) in, upon, or near, or otherwise makes or causes to be made unworkable or unusable or hazardous to work or use, any vessel, or any part or other materials used or intended to be used in connection with the operation of a vessel;
 
-&emsp;(3) sets fire to, damages, destroys, or disables or places a destructive device or substance in, upon, or near, any maritime facility, including any aid to navigation, lock, canal, or vessel traffic service facility or equipment;
+&emsp;(3) sets fire to, damages, destroys, or disables or places a destructive device or substance in, upon, or near, any maritime facility, including any aid to navigation, lock,canal, or vessel traffic service facility or equipment;
 
 &emsp;(4) interferes by force or violence with the operation of any maritime facility, including any aid to navigation, lock, canal, or vessel traffic service facility or equipment, if such action is likely to endanger the safety of any vessel in navigation;
 

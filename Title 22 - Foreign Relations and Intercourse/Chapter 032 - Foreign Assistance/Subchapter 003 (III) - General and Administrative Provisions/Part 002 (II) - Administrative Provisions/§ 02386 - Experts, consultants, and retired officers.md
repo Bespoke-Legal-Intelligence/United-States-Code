@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 88–448, §402(a)(35), repealed subsec. (c) which related 
 
 Pub. L. 88–633, §302(b)(2), substituted "section 101(3) of Title 37" for "Career Compensation Act of 1949, as amended," in subsec. (c) subsequent to the repeal of such subsection by Pub. L. 88–448.
 
-<b>1963</b>—Subsec. (b). Pub. L. 88–205 substituted "Service of an individual as an expert or consultant under subsection (a) of this section shall not" for "Nor shall such service", and struck out provisions exempting individuals serving under subsec. (a) of this section from coverage of sections 281, 283, or 284 of title 18, section 99 of title 5, or any Federal law imposing restrictions, requirements, or penalties in connection with claims or matters involving the U.S. Government, except insofar as such provisions prohibited such individuals from receiving compensation in respect of any matter in which such individual was directly involved in the performance of such service.
+<b>1963</b>—Subsec. (b). Pub. L. 88–205 substituted "Service of an individual as an expert or consultant under subsection (a) of this section shall not" for "Nor shall suchservice", and struck out provisions exempting individuals serving under subsec. (a) of this section from coverage of sections 281, 283, or 284 of title 18, section 99 of title 5, or any Federal law imposing restrictions, requirements, or penalties in connection with claims or matters involving the U.S. Government, except insofar as such provisions prohibited such individuals from receiving compensation in respect of any matter in which such individual was directly involved in the performance of such service.
 
 #### Effective Date of 1964 Amendment
 

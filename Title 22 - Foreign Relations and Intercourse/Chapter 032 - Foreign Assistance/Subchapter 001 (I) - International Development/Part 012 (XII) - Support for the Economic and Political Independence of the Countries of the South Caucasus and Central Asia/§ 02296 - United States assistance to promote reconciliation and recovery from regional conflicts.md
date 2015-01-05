@@ -14,7 +14,7 @@ The purposes of assistance under this section include—
 
 #### (1) In general
 
-&emsp;To carry out the purposes of subsection (a) of this section, the President is authorized to provide humanitarian assistance and economic reconstruction assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c) of this section.
+&emsp;To carry out the purposes of subsection (a), the President is authorized to provide humanitarian assistance and economic reconstruction assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c).
 
 #### (2) Definition of humanitarian assistance
 
@@ -22,7 +22,7 @@ The purposes of assistance under this section include—
 
 #### (c) Activities supported
 
-Activities that may be supported by assistance under subsection (b) of this section include—
+Activities that may be supported by assistance under subsection (b) include—
 
 &emsp;(1) providing for the humanitarian needs of victims of the conflicts;
 

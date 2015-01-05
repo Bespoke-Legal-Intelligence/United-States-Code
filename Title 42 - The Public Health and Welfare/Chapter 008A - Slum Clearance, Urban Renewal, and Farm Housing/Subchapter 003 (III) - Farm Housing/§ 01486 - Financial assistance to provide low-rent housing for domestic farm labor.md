@@ -36,7 +36,7 @@ The Secretary shall prescribe regulations to insure that Federal funds expended 
 
 #### (f) Wages; labor standards; waiver; authority and functions of Secretary
 
-All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
+All laborers and mechanics employed by contractors or subcontractors on projects assistedby the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
 
 #### (g) Definitions
 
@@ -78,7 +78,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;The Secretary may provide the following assistance for housing under this subsection:
 
-&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisitionand rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
+&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
 
 &emsp;&emsp;&emsp;(ii) A grant, in an amount not to exceed $400,000, for moderate rehabilitation of an existing structure for use in the provision of housing under this subsection.
 
@@ -160,7 +160,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term "applicant" means a State, political subdivision thereof, Indian tribe, any private nonprofit organization incorporated within the State that has applied for a grant under this subsection.
+&emsp;&emsp;(A) The term "applicant" means a State, political subdivision thereof, Indian tribe,any private nonprofit organization incorporated within the State that has applied for a grant under this subsection.
 
 &emsp;&emsp;(B) The term "homeless individual" has the same meaning given the term under section 11302 of this title.
 

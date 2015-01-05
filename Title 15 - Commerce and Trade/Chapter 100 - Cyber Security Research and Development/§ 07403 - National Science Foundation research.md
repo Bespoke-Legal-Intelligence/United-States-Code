@@ -20,9 +20,39 @@
 
 &emsp;&emsp;(G) vulnerability assessments and techniques for quantifying risk;
 
-&emsp;&emsp;(H) remote access and wireless security; and
+&emsp;&emsp;(H) remote access and wireless security;
 
-&emsp;&emsp;(I) enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property.
+&emsp;&emsp;(I) enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property;
+
+&emsp;&emsp;(J) secure fundamental protocols that are integral to inter-network communications and data exchange;
+
+&emsp;&emsp;(K) secure software engineering and software assurance, including—
+
+&emsp;&emsp;&emsp;(i) programming languages and systems that include fundamental security features;
+
+&emsp;&emsp;&emsp;(ii) portable or reusable code that remains secure when deployed in various environments;
+
+&emsp;&emsp;&emsp;(iii) verification and validation technologies to ensure that requirements and specifications have been implemented; and
+
+&emsp;&emsp;&emsp;(iv) models for comparison and metrics to assure that required standards have been met;
+
+&emsp;&emsp;(L) holistic system security that—
+
+&emsp;&emsp;&emsp;(i) addresses the building of secure systems from trusted and untrusted components;
+
+&emsp;&emsp;&emsp;(ii) proactively reduces vulnerabilities;
+
+&emsp;&emsp;&emsp;(iii) addresses insider threats; and
+
+&emsp;&emsp;&emsp;(iv) supports privacy in conjunction with improved security;
+
+&emsp;&emsp;(M) monitoring and detection;
+
+&emsp;&emsp;(N) mitigation and rapid recovery methods;
+
+&emsp;&emsp;(O) security of wireless networks and mobile devices; and
+
+&emsp;&emsp;(P) security of cloud infrastructure and services.
 
 #### (2) Merit review; competition
 
@@ -54,7 +84,7 @@
 
 #### (3) Purpose
 
-&emsp;The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including the research areas described in subsection (a)(1) of this section.
+&emsp;The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1) of this section.
 
 #### (4) Applications
 
@@ -64,9 +94,9 @@
 
 &emsp;&emsp;(B) how the Center will promote active collaboration among scientists and engineers from different disciplines, such as computer scientists, engineers, mathematicians, and social science researchers;
 
-&emsp;&emsp;(C) how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individualsfrom groups historically underrepresented in these fields; and
+&emsp;&emsp;(C) how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individuals from groups historically underrepresented in these fields; and
 
-&emsp;&emsp;(D) how the center <sup>1</sup> will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.
+&emsp;&emsp;(D) how the Center will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.
 
 #### (5) Criteria
 
@@ -76,9 +106,23 @@
 
 &emsp;&emsp;(B) the experience of the applicant in conducting research on computer and network security and the capacity of the applicant to foster new multidisciplinary collaborations;
 
-&emsp;&emsp;(C) the capacity of the applicant to attract and provide adequate support for a diverse group of undergraduate and graduate students and postdoctoral fellows to pursue computer and network security research; and
+&emsp;&emsp;(C) the capacity of the applicant to attract and provide adequate support for a diverse group of undergraduate and graduate students and postdoctoral fellows to pursue computer and network security research;
 
-&emsp;&emsp;(D) the extent to which the applicant will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions, and the role the partners will play in the research undertaken by the Center.
+&emsp;&emsp;(D) the extent to which the applicant will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions, and the role the partners will play in the research undertaken by the Center;
+
+&emsp;&emsp;(E) the demonstrated capability of the applicant to conduct high performance computation integral to complex computer and network security research, through on-site or off-site computing;
+
+&emsp;&emsp;(F) the applicant's affiliation with private sector entities involved with industrial research described in subsection (a)(1);
+
+&emsp;&emsp;(G) the capability of the applicant to conduct research in a secure environment;
+
+&emsp;&emsp;(H) the applicant's affiliation with existing research programs of the Federal Government;
+
+&emsp;&emsp;(I) the applicant's experience managing public-private partnerships to transition new technologies into a commercial setting or the government user community;
+
+&emsp;&emsp;(J) the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and
+
+&emsp;&emsp;(K) the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and high-performance computing, nanotechnology, or industrial control systems.
 
 #### (6) Annual meeting
 
@@ -98,7 +142,15 @@
 
 &emsp;&emsp;(E) $36,000,000 for fiscal year 2007.
 
-(Pub. L. 107–305, §4, Nov. 27, 2002, 116 Stat. 2368.)
+(Pub. L. 107–305, §4, Nov. 27, 2002, 116 Stat. 2368; Pub. L. 113–274, title II, §§201(e), 202, Dec. 18, 2014, 128 Stat. 2978.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(1)(J) to (P). Pub. L. 113–274, §201(e), added subpars. (J) to (P).
+
+Subsec. (b)(3). Pub. L. 113–274, §202(1), substituted "improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas" for "the research areas".
+
+Subsec. (b)(4)(D). Pub. L. 113–274, §202(2), substituted "the Center" for "the center".
+
+Subsec. (b)(5)(E) to (K). Pub. L. 113–274, §202(3), added subpars. (E) to (K).
 

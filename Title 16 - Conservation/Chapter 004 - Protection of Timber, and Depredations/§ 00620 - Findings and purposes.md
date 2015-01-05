@@ -52,7 +52,7 @@ Subsec. (b)(5). Pub. L. 106–36, §1002(a)(1)(B), substituted "WTO Agreement an
 
 #### Effective Date
 
-Pub. L. 101–382, title IV, §494, Aug. 20, 1990, 104 Stat. 725, provided that: "Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\]."
+Pub. L. 101–382, title IV, §494, Aug. 20, 1990, 104 Stat. 725, provided that: "Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisionsset out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\]."
 
 #### Short Title of 1997 Amendment
 
@@ -64,5 +64,5 @@ Pub. L. 103–45, §1, July 1, 1993, 107 Stat. 223, provided that: "This Act \[a
 
 #### Short Title
 
-Pub. L. 101–382, title IV, §487, Aug. 20, 1990, 104 Stat. 714, provided that: "This title \[enacting this sectionand sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the 'Forest Resources Conservation and Shortage Relief Act of 1990'."
+Pub. L. 101–382, title IV, §487, Aug. 20, 1990, 104 Stat. 714, provided that: "This title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the 'Forest Resources Conservation and Shortage Relief Act of 1990'."
 

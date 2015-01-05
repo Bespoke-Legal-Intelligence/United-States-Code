@@ -8,11 +8,9 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 &emsp;(2) 18.25 cents per pound for raw cane sugar for the 2009 crop year;
 
-&emsp;(3) 18.50 cents per pound for raw cane sugar for the 2010 crop year;
+&emsp;(3) 18.50 cents per pound for raw cane sugar for the 2010 crop year; and
 
-&emsp;(4) 18.75 cents per pound for raw cane sugar for the 2011 crop year; and
-
-&emsp;(5) 18.75 cents per pound for raw cane sugar for the 2012 crop year.
+&emsp;(4) 18.75 cents per pound for raw cane sugar for each of the 2011 through 2018 crop years.
 
 #### (b) Sugar beets
 
@@ -20,7 +18,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 &emsp;(1) 22.9 cents per pound for refined beet sugar for the 2008 crop year; and
 
-&emsp;(2) a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2012 crop years.
+&emsp;(2) a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2018 crop years.
 
 #### (c) Term of loans
 
@@ -108,7 +106,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (6) Term of loan
 
-&emsp;The term of a loan made under this subsection for a quantity of in-process sugars and syrups, when combined with the term of a loan made with respect to the raw cane sugar or refined beet sugar derived from the in-process sugars and syrups, may not exceed 9 months, consistent with subsection (c).
+&emsp;The term of a loan made under this subsection for a quantity of in-process sugars andsyrups, when combined with the term of a loan made with respect to the raw cane sugar or refined beet sugar derived from the in-process sugars and syrups, may not exceed 9 months, consistent with subsection (c).
 
 #### (f) Avoiding forfeitures; Corporation inventory disposition
 
@@ -128,7 +126,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (C) Additional authority
 
-&emsp;&emsp;The authority provided under this paragraph is in addition to any authority of theCommodity Credit Corporation under any other law.
+&emsp;&emsp;The authority provided under this paragraph is in addition to any authority of the Commodity Credit Corporation under any other law.
 
 #### (g) Information reporting
 
@@ -184,9 +182,9 @@ For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Sc
 
 #### (i) Effective period
 
-This section shall be effective only for the 2008 through 2012 crops of sugar beets and sugarcane.
+This section shall be effective only for the 2008 through 2018 crops of sugar beets and sugarcane.
 
-(Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931; Pub. L. 106–387, §1(a) \[title VIII, §836\], Oct. 28, 2000, 114 Stat. 1549, 1549A–62; Pub. L. 107–171, title I, §1401(a), May 13, 2002, 116 Stat. 183; Pub. L. 110–234, title I, §1401(a), May 22, 2008, 122 Stat. 977; Pub. L. 110–246, §4(a), title I, §1401(a), June 18, 2008, 122 Stat. 1664, 1705.)
+(Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931; Pub. L. 106–387, §1(a) \[title VIII, §836\], Oct. 28, 2000, 114 Stat. 1549, 1549A–62; Pub. L.107–171, title I, §1401(a), May 13, 2002, 116 Stat. 183; Pub. L. 110–234, title I, §1401(a), May 22, 2008, 122 Stat. 977; Pub. L. 110–246, §4(a), title I, §1401(a), June 18, 2008, 122 Stat. 1664, 1705; Pub. L. 113–79, title I, §1301(a), Feb. 7, 2014, 128 Stat. 687.)
 
 #### References in Text
 
@@ -198,6 +196,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(3)–(5). Pub. L. 113–79, §1301(a)(1), inserted "and" at end of par. (3), substituted "each of the 2011 through 2018 crop years." for "the 2011 crop year; and" in par. (4), and struck out par. (5) which read as follows: "18.75 cents per pound for raw cane sugar for the 2012 crop year."
+
+Subsec. (b)(2). Pub. L. 113–79, §1301(a)(2), substituted "2018" for "2012".
+
+Subsec. (i). Pub. L. 113–79, §1301(a)(3), substituted "2018" for "2012".
+
 <b>2008</b>—Pub. L. 110–246, §1401(a), amended section generally, substituting provisions relating to loan program for the 2008 through 2012 crops of sugar beets and sugarcane, consisting of subsecs. (a) to (i), for provisions relating to loan program for the 1996 through 2007 crops of sugar beets and sugarcane, including provisions relating to loan rate adjustments, consisting of subsecs. (a) to (j).
 
 <b>2002</b>—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), (d), (e), and (h), and substituting in subsec. (c) provisions relating to loan rate adjustments for provisions relating to reduction in loan rates, in subsec. (f) provisions relating to loans for in-process sugar for provisions for marketing assessment, in subsec. (g) provisions relating to avoiding forfeitures and corporate inventory disposition for provisions relating to forfeiture penalty, in subsec. (i) provisions relating to substitution of refined sugar for provisions relating to crops, and adding subsec. (j).
@@ -206,7 +210,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pub. L. 106–387, §1(a) \[title VIII, §836(1)(A)\], substituted "nonrecourse" for "recourse".
 
-Subsec. (e)(2), (3). Pub. L. 106–387, §1(a) \[title VIII, §836(2)–(4)\], redesignated par. (3) as (2), substituted"The Secretary shall" for "If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall", and struck out heading and text of former par. (2). Text read as follows: "During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan."
+Subsec. (e)(2), (3). Pub. L. 106–387, §1(a) \[title VIII, §836(2)–(4)\], redesignated par. (3) as (2), substituted "The Secretary shall" for "If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall", and struck out heading and text of former par. (2). Text read as follows: "During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan."
 
 #### Effective Date of 2008 Amendment
 

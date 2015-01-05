@@ -22,17 +22,15 @@ The adjustment authorized in section 1311(a) shall be made by assessing and coll
 
 The amount to be assessed and collected in the same manner as a deficiency, or to be refunded or credited in the same manner as an overpayment, under this part, shall not be diminished by any credit or set-off based upon any item other than the one which was the subject of the adjustment. The amount of the adjustment under this part, if paid, shall not be recovered by a claim or suit for refund or suit for erroneous refund based upon any item other than the one which was the subject of the adjustment.
 
-#### (d) Periods for which adjustments may be made
-
-No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932.
-
-#### (e) Taxes imposed by subtitle C
+#### (d) Taxes imposed by subtitle C
 
 This part shall not apply to any tax imposed by subtitle C (sec. 3101 and following relating to employment taxes).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 340; Pub. L. 85–866, title I, §59(b), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 89–44, title VIII, §809(d)(5)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title V, §512(f)(7), (8), Dec. 30, 1969, 83 Stat. 641, 642; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 340; Pub. L. 85–866, title I, §59(b), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 89–44, title VIII, §809(d)(5)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title V, §512(f)(7), (8), Dec. 30, 1969, 83 Stat. 641, 642; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–295, div. A, title II, §221(a)(87), Dec. 19, 2014, 128 Stat. 4050.)
 
 #### Amendments
+
+<b>2014</b>—Subsecs. (d), (e). Pub. L. 113–295 redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932."
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
@@ -44,6 +42,10 @@ Subsec. (b). Pub. L. 91–172, §512(f)(8), inserted reference to net capital lo
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 substituted in second sentence "The" for "Other than in the case of an adjustment resulting from a determination under section 1313(a)(4), the".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 1969 Amendment
 
 Amendment by Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
@@ -54,5 +56,5 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 effective with respect to determinations made after Nov. 14, 1954, see section59(c) of Pub. L. 85–866, set out as a note under section 1312 of this title.
+Amendment by Pub. L. 85–866 effective with respect to determinations made after Nov. 14, 1954, see section 59(c) of Pub. L. 85–866, set out as a note under section 1312 of this title.
 

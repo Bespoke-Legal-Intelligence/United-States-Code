@@ -14,7 +14,7 @@ Facilitating enhanced insight.—Facilitating the enhanced insight of the privat
 
 &emsp;(2)
 
-Creating network.—Creating a network of academic institutions, aerospace contractors, and Administration centers that willcommit to donating appropriate technical assistance to small businesses, giving preference to socially and economically disadvantaged small business concerns, small business concerns owned and controlled by service-disabled veterans, and HUBZone small business concerns. This paragraph shall not apply to any contracting actions entered into or taken by the Administration.
+Creating network.—Creating a network of academic institutions, aerospace contractors, and Administration centers that will commit to donating appropriate technical assistance to small businesses, giving preference to socially and economically disadvantaged small business concerns, small business concerns owned and controlled by service-disabled veterans, and HUBZone small business concerns. This paragraph shall not apply to any contracting actions entered into or taken by the Administration.
 
 &emsp;(3)
 

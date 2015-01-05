@@ -254,7 +254,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (1) Voluntary assessments
 
-&emsp;After the approval of a risk evaluation and mitigation strategy under subsection (a), theresponsible person involved may, subject to paragraph (2), submit to the Secretary an assessment of the approved strategy for the drug involved at any time.
+&emsp;After the approval of a risk evaluation and mitigation strategy under subsection (a), the responsible person involved may, subject to paragraph (2), submit to the Secretary an assessment of the approved strategy for the drug involved at any time.
 
 #### (2) Required assessments
 
@@ -320,7 +320,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (C) Public availability
 
-&emsp;&emsp;Upon acting on a proposed risk evaluation and mitigation strategy or proposed modification to a risk evaluation and mitigationstrategy under subparagraph (A), the Secretary shall make publicly available an action letter describing the actions taken by the Secretary under such subparagraph (A).
+&emsp;&emsp;Upon acting on a proposed risk evaluation and mitigation strategy or proposed modification to a risk evaluation and mitigation strategy under subparagraph (A), the Secretary shall make publicly available an action letter describing the actions taken by the Secretary under such subparagraph (A).
 
 #### (3) Dispute resolution at initial approval
 
@@ -392,7 +392,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (I) Effect on action deadline
 
-&emsp;&emsp;With respect to a proposal or assessment referred to in paragraph (1), the Secretary shall be considered to have met the action deadline for the action letter on the application if the responsible person requests the dispute resolution process described in this paragraph and if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.
+&emsp;&emsp;With respect to a proposal or assessment referred to in paragraph (1), the Secretary shall be considered to have met the action deadline for the action letter on the application if the responsible person requests the dispute resolution process described in thisparagraph and if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.
 
 #### (J) Disqualification
 
@@ -464,9 +464,9 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(A) A Medication Guide or patient package insert, if required under subsection (e) for the applicable listed drug.
 
-&emsp;&emsp;(B) Elements to assure safe use, if required under subsection (f) for the listed drug. Adrug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
+&emsp;&emsp;(B) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>2</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
+&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single,system,<sup>2</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
 
 &emsp;&emsp;&emsp;(ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
 

@@ -38,7 +38,7 @@ The Director shall, on December 31, 1990, and on June 30 every two years thereaf
 
 Each entity receiving sums made available under this chapter for administrative purposes shall certify that such sums will not be used to supplant State or local funds, but will be used to increase the amount of such funds that would, in the absence of Federal funds, be made available for these purposes.
 
-(Pub. L. 98–473, title II, §1407, Oct. 12, 1984, 98 Stat. 2176; Pub. L. 99–646, §48, Nov. 10, 1986, 100Stat. 3605; Pub. L. 100–690, title VII, §7123(b)(10)–(14), Nov. 18, 1988, 102 Stat. 4421, 4422; Pub. L. 103–322, title XXIII, §§230206, 230207, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–294, title VI, §604(b)(9), Oct. 11, 1996, 110 Stat. 3507.)
+(Pub. L. 98–473, title II, §1407, Oct. 12, 1984, 98 Stat. 2176; Pub. L. 99–646, §48, Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7123(b)(10)–(14), Nov. 18, 1988, 102 Stat. 4421, 4422; Pub. L. 103–322, title XXIII, §§230206, 230207, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–294, title VI, §604(b)(9), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### References in Text
 

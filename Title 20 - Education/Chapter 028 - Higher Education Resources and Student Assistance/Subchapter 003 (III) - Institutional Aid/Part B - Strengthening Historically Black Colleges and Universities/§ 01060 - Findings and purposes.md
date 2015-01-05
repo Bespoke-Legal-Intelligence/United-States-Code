@@ -32,7 +32,7 @@ Ex. Ord. No. 12677, Apr. 28, 1989, 54 F.R. 18869, which provided for the develop
 
 #### Executive Order No. 12876
 
-Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, which established in the Department of Education the President's Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee, was revoked by Ex. Ord. No. 13256, §11, Feb. 12, 2002, 67 F.R. 6825, formerly set out below.
+Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, which established in the Department of Education the President's Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee,was revoked by Ex. Ord. No. 13256, §11, Feb. 12, 2002, 67 F.R. 6825, formerly set out below.
 
 #### Executive Order No. 13256
 
@@ -62,7 +62,7 @@ Sec. 2. <i>White House Initiative on HBCUs.</i>
 
 (v) exploring new ways of improving the relationship between the Federal Government and HBCUs.
 
-(c) <i>Administration</i>. There shall be an Executive Director of the Initiative. The Department shall provide the staff, resources, and assistance for the Initiative, andshall assist the Initiative in fulfilling its mission and responsibilities under this order.
+(c) <i>Administration</i>. There shall be an Executive Director of the Initiative. The Department shall provide the staff, resources, and assistance for the Initiative, and shall assist the Initiative in fulfilling its mission and responsibilities under this order.
 
 (d) <i>Federal Agency Plans</i>. (1) Each executive department and agency designated by the Secretary of Education (Secretary) shall prepare an annual plan (agency plan) of its efforts to strengthen the capacity of HBCUs through increased participation in appropriate Federal programs and initiatives. Where appropriate, each agency plan shall address, among other things, the agency's proposed efforts to:
 
@@ -130,7 +130,7 @@ Term of President's Board of Advisors on Historically Black Colleges and Univers
 
 Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30,2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

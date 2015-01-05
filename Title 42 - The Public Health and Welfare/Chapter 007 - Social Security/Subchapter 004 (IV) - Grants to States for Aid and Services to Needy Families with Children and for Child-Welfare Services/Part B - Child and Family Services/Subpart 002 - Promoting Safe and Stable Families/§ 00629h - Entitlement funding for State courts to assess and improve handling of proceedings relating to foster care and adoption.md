@@ -46,7 +46,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 &emsp;&emsp;(B) in the case of a grant for the purpose described in subsection (a)(4), a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under section 629d of this title, or the State plan approved under part E; and
 
-&emsp;&emsp;(C) in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contract with the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
+&emsp;&emsp;(C) in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contractwith the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
 
 #### (2) Single grant application
 
@@ -68,7 +68,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 #### (2) Amount described
 
-&emsp;The amount described in this paragraph for any fiscal year with respect to the purpose or purposes referred to in a subparagraph of subsection (b)(2) is the amount that bears the same ratio to the total of the amounts allocated under paragraph (3) of this subsection for grants for the purpose or purposes as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States thehighest State courts of which have approved applications under this section for grants for the purpose or purposes.
+&emsp;The amount described in this paragraph for any fiscal year with respect to the purpose or purposes referred to in a subparagraph of subsection (b)(2) is the amount that bears the same ratio to the total of the amounts allocated under paragraph (3) of this subsection for grants for the purpose or purposes as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under this section for grants for the purpose or purposes.
 
 #### (3) Allocation of funds
 
@@ -156,7 +156,7 @@ Subsec. (b). Pub. L. 109–171, §7401(a)(2), amended subsec. (b) generally. Pri
 
 Subsec. (b)(1). Pub. L. 109–239, §8(b), as amended by Pub. L. 112–34, §104(e), inserted "shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and" after "highest State court" in introductory provisions.
 
-Subsec. (c). Pub. L. 109–171, §7401(a)(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in subpar. (A), inserted "of this section for a grant described in subsection (b)(2)(A) of this section" after "subsection (b)" and substituted "subparagraph (B) of this paragraph" for "paragraph\(2) of this subsection", in subpar. (B), substituted "this subparagraph" for "this paragraph" and "subparagraph (A) of this paragraph" for "paragraph (1) of this subsection" and inserted "for such a grant" after "subsection (b)", and added par. (2).
+Subsec. (c). Pub. L. 109–171, §7401(a)(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in subpar. (A), inserted "of this section for a grant described in subsection (b)(2)(A) of this section" after "subsection (b)" and substituted "subparagraph (B) of this paragraph" for "paragraph (2) of this subsection", in subpar. (B), substituted "this subparagraph" for "this paragraph" and "subparagraph (A) of this paragraph" for "paragraph (1) of this subsection" and inserted "for such a grant" after "subsection (b)", and added par. (2).
 
 Subsec. (c)(1)(A). Pub. L. 109–288 substituted "2011" for "2006".
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted ifState legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

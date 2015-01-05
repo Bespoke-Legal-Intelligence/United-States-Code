@@ -6,13 +6,19 @@ Establishment.—The Commandant of the Coast Guard may establish and operate one
 
 (b)
 
-Missions.—Each center shall—
+Missions.—Any center established under subsection (a) shall—
 
-&emsp;(1) promote and facilitate education, training, and research;
+&emsp;(1) promote, facilitate, and conduct—
 
-&emsp;(2) develop a repository of information on its missions and specialties; and
+&emsp;&emsp;(A) education;
 
-&emsp;(3) perform any other missions as the Commandant may specify.
+&emsp;&emsp;(B) training; and
+
+&emsp;&emsp;(C) activities authorized under section 93(a)(4);
+
+&emsp;(2) be a repository of information on operations, practices, and resources related to the mission for which the center was established; and
+
+&emsp;(3) perform and support the mission for which the center was established.
 
 (c)
 
@@ -36,5 +42,15 @@ Acceptance of Donations.—
 
 &emsp;(3) The Commandant shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a donation from a foreign source would have a result described in paragraph (2).
 
-(Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2955.)
+(Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2955; amended Pub. L. 113–281, title II, §204, Dec. 18, 2014, 128 Stat. 3025.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–281 amended subsec. (b) generally. Prior to amendment, text read as follows: "Each center shall—
+
+&emsp;"(1) promote and facilitate education, training, and research;
+
+&emsp;"(2) develop a repository of information on its missions and specialties; and
+
+&emsp;"(3) perform any other missions as the Commandant may specify."
 

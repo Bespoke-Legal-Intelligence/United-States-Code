@@ -28,7 +28,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (1) Plan required for making payments
 
-&emsp;No voluntary separation incentive payment may be paid under this section with respect to an office unless the head of the office submits a plan described in paragraph (2) to each applicable committee described in paragraph (3),and each applicable committee approves the plan.
+&emsp;No voluntary separation incentive payment may be paid under this section with respect to an office unless the head of the office submits a plan described in paragraph (2) to each applicable committee described in paragraph (3), and each applicable committee approves the plan.
 
 #### (2) Contents of plan
 
@@ -46,7 +46,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (3) Applicable committee
 
-&emsp;For purposes of this subsection, the “applicable committee” with respect to an office means any committee of the House of Representatives or Senate with jurisdiction over the activities of the office under the applicable rules of the House of Representatives and the Senate (as determined by the head of the office), but does not include the Committees on Appropriations of the House of Representatives and the Senate.
+&emsp;For purposes of this subsection, the "applicable committee" with respect to an office means any committee of the House of Representatives or Senate with jurisdiction over the activities of the office under the applicable rules of the House of Representatives and the Senate (as determined by the head of the office), but does not include the Committees on Appropriations of the House of Representatives and the Senate.
 
 #### (d) Repealed. Pub. L. 112–74, div. G, title I, §1401(a)(1), Dec. 23, 2011, 125 Stat. 1134
 
@@ -54,7 +54,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (1) In general
 
-&emsp;In this section, an “eligible employee” is an employee (as defined in section 2105,<sup>1</sup> United States Code) or a Congressional employee (as defined in section 2107,<sup>2</sup> United States Code) who—
+&emsp;In this section, an "eligible employee" is an employee (as defined in section 2105,<sup>1</sup> United States Code) or a Congressional employee (as defined in section 2107,<sup>2</sup> United States Code) who—
 
 &emsp;&emsp;(A) is serving under an appointment without time limitation; and
 
@@ -62,7 +62,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (2) Exclusions
 
-&emsp;An “eligible employee” does not include any of the following:
+&emsp;An "eligible employee" does not include any of the following:
 
 &emsp;&emsp;(A) A reemployed annuitant under subchapter III of chapter 83 or 84 of title 5 or another retirement system for employees of the Government.
 
@@ -78,7 +78,7 @@ A voluntary separation incentive payment made under this section—
 
 &emsp;&emsp;&emsp;(i) during the 36-month period preceding the date of separation of that employee, performed service for which a student loan repayment benefit was or is to be paid under section 5379 of title 5 or any other authority;
 
-&emsp;&emsp;&emsp;(ii) during the 24-month period preceding the date of separation of that employee, performed service for which a recruitment or relocation bonus was or is to be paid under section 5753 of such title or any other authority; or
+&emsp;&emsp;&emsp;(ii) during the 24-month period preceding the date of separation of that employee,performed service for which a recruitment or relocation bonus was or is to be paid under section 5753 of such title or any other authority; or
 
 &emsp;&emsp;&emsp;(iii) during the 12-month period preceding the date of separation of that employee, performed service for which a retention bonus was or is to be paid under section 5754 of such title or any other authority.
 
@@ -98,7 +98,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (3) Treatment of personal services contracts
 
-&emsp;For purposes of paragraph (1) (but not paragraph (2)), the term “employment” includes employment under a personal services contract with the United States.
+&emsp;For purposes of paragraph (1) (but not paragraph (2)), the term "employment" includes employment under a personal services contract with the United States.
 
 #### (g) Effective date
 
@@ -114,15 +114,15 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d). Pub. L. 112–74, §1401(a)(1), struck out subsec. (d). Prior to amendment, text read as follows: “This section shall not apply to any office which is an Executive agency under section 105 of title 5 or any employee of such an office.”
+<b>2011</b>—Subsec. (d). Pub. L. 112–74, §1401(a)(1), struck out subsec. (d). Prior to amendment, text read as follows: "This section shall not apply to any office which is an Executive agency under section 105 of title 5 or any employee of such an office."
 
-Subsec. (f)(2)(A). Pub. L. 112–74, §1401(a)(2), substituted “title 5, but excluding the Government Accountability Office” for “title 5”.
+Subsec. (f)(2)(A). Pub. L. 112–74, §1401(a)(2), substituted "title 5, but excluding the Government Accountability Office" for "title 5".
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–74, div. G, title I, §1401(c), Dec. 23, 2011, 125 Stat. 1134, provided that: “The amendments made by this section \[amending this section and section 3521 of Title 5, Government Organization and Employees\] shall apply with respect to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year.”
+Pub. L. 112–74, div. G, title I, §1401(c), Dec. 23, 2011, 125 Stat. 1134, provided that: "The amendments made by this section \[amending this section and section 3521 of Title 5, Government Organization and Employees\] shall apply with respect to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “2105 of title 5,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "2105 of title 5,".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “2107 of title 5,”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "2107 of title 5,".</i>
 

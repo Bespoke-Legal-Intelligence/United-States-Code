@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Basic application
 
-&emsp;The term "basic application" means the application for the registration of a mark that has been filed with an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
+&emsp;The term "basic application" means the application for the registration of a mark thathas been filed with an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
 
 #### (2) Basic registration
 

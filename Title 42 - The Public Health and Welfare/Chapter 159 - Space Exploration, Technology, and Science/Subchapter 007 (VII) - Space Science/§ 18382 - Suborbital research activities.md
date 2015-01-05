@@ -10,7 +10,7 @@ The Administrator shall designate an officer or employee of the Science Mission 
 
 #### (c) Establishment of Suborbital Research Program
 
-The Administrator shall establish a Suborbital Research Program within the Science Mission Directorate that shall include the use of sounding rockets, aircraft, high altitude balloons, suborbital reusable launch vehicles, and commercial launch vehicles to advance science and train the next generation of scientists and engineers in systems engineering and systems integration which are vital to maintaining critical skills in the aerospace workforce. The program shall integrate existing suborbital research programs with orbital missions at the discretion of the designated officer or employee and shall emphasize the participation of undergraduate and graduate students and post-doctoral researchers when formulating announcements of opportunity.
+The Administrator shall establish a Suborbital Research Program within the ScienceMission Directorate that shall include the use of sounding rockets, aircraft, high altitude balloons, suborbital reusable launch vehicles, and commercial launch vehicles to advance science and train the next generation of scientists and engineers in systems engineering and systems integration which are vital to maintaining critical skills in the aerospace workforce. The program shall integrate existing suborbital research programs with orbital missions at the discretion of the designated officer or employee and shall emphasize the participation of undergraduate and graduate students and post-doctoral researchers when formulating announcements of opportunity.
 
 #### (d) Report
 

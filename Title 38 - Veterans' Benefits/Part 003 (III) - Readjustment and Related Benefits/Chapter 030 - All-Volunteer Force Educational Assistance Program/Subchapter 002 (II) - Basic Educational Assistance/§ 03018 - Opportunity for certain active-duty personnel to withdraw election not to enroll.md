@@ -8,7 +8,7 @@
 
 &emsp;(3) is serving on active duty during the open period,
 
-> shall have the opportunity, in accordance with this section and on such form as the Secretary of Defense shall prescribe, to withdraw an election made under section 3011(c)(1) or 3012(d)(1) of this title not to receive educational assistance under this chapter.
+> shall have the opportunity, in accordance with this section and on such form as the Secretaryof Defense shall prescribe, to withdraw an election made under section 3011(c)(1) or 3012(d)(1) of this title not to receive educational assistance under this chapter.
 
 (b) An individual described in clauses (1) through (3) of subsection (a) of this section who made an election under section 3011(c)(1) or 3012(d)(1) of this title and who—
 

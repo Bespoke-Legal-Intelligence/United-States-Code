@@ -38,7 +38,7 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
 Aug. 2, 1946, ch. 756, §40(d), 60 Stat. 858.
 
-In subsection (a) the words "appropriated funds" are substituted for the words "naval appropriations", and the definition of "naval personnel" in 5 U.S.C. 421g, which is applicable to this section, is executed. In executing this definition the words "while on active duty"are omitted as unnecessary, since a member not on active duty would not have an official station within the meaning of this section.
+In subsection (a) the words "appropriated funds" are substituted for the words "naval appropriations", and the definition of "naval personnel" in 5 U.S.C. 421g, which is applicable to this section, is executed. In executing this definition the words "while on active duty" are omitted as unnecessary, since a member not on active duty would not have an official station within the meaning of this section.
 
 #### Amendments
 
@@ -56,5 +56,5 @@ The directory language of, but not the amendment made by, Pub. L. 89–718, §8(
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

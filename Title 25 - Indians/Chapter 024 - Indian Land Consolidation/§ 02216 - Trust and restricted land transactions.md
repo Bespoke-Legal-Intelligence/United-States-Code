@@ -68,7 +68,7 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply to a parcel of, or interest in, trust or restricted land that is part of a family farm that is conveyed to a member of the family of a landowner (as defined in section 2205(c)(2)(A)(iv) of this title) if the conveyance requires that in the event that the parcel or interest is offered for sale to an entity or person that is not a member of the family of the landowner, the Indian tribe with jurisdiction over the land shall be afforded the opportunity to purchase the interest pursuant to paragraph (1).
+&emsp;&emsp;Paragraph (1) shall not apply to a parcel of, or interest in, trust or restricted land that is part of a family farm that is conveyed to a member of the family of a landowner (as defined in section 2205(c)(2)(A)(iv) of this title) if the conveyance requires thatin the event that the parcel or interest is offered for sale to an entity or person that is not a member of the family of the landowner, the Indian tribe with jurisdiction over the land shall be afforded the opportunity to purchase the interest pursuant to paragraph (1).
 
 #### (B) Applicability of other provision
 

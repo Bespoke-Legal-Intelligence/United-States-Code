@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iii) which challenges the consistency of the draft management plan with the purposes and standards of sections 544 to 544p of this title or with other applicable law prior to the certification or adoption of the Management Plan pursuant to section 544d of this title; or
 
-&emsp;&emsp;(B) under paragraph (2)(B) of this subsection prior to sixty days after the plaintiff has given notice in writing of such action to the Secretary, the Commission, and to the county in which the failure to perform any act or duty pursuant to sections 544 to 544p of this title is alleged: <i>Provided</i>, That such action may be brought immediately after such notification where the violation or order complained of constitutes an imminent threat to the health or safety of the plaintiff or would immediately affect a legal interest of the plaintiff.
+&emsp;&emsp;(B) under paragraph (2)(B) of this subsection prior to sixty days after the plaintiff has given notice in writing of such action tothe Secretary, the Commission, and to the county in which the failure to perform any act or duty pursuant to sections 544 to 544p of this title is alleged: <i>Provided</i>, That such action may be brought immediately after such notification where the violation or order complained of constitutes an imminent threat to the health or safety of the plaintiff or would immediately affect a legal interest of the plaintiff.
 
 #### (4) Judicial review
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(A) to review any appeals taken to the Commission pursuant to subsection (a)(2) of this section;
 
-&emsp;&emsp;(B) over any civil action brought by the Commission pursuant to subsection (b)(1) ofthis section or against the Commission, a State, or a county pursuant to subsection (b)(2) of this section;
+&emsp;&emsp;(B) over any civil action brought by the Commission pursuant to subsection (b)(1) of this section or against the Commission, a State, or a county pursuant to subsection (b)(2) of this section;
 
 &emsp;&emsp;(C) over any appeal of any order, regulation, or other action of the Commission or a county taken pursuant to paragraph 4 <sup>2</sup> of this subsection; or
 

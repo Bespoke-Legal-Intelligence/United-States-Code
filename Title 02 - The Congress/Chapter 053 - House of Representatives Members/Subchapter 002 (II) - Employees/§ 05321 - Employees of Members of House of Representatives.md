@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Under the Members’ Representational Allowance, each Member of the House of Representatives may employ not more than 18 permanent employees and a total of not more than 4 additional employees in the following categories:
+Under the Members' Representational Allowance, each Member of the House of Representatives may employ not more than 18 permanent employees and a total of not more than 4 additional employees in the following categories:
 
 &emsp;(1) Interns.
 
@@ -18,7 +18,7 @@ Under the Members’ Representational Allowance, each Member of the House of Rep
 
 For purposes of this section, interns and temporary employees shall be excluded from the operation of the following provisions of title 5:
 
-&emsp;(1) Chapter 84 (relating to the Federal Employees’ Retirement System).
+&emsp;(1) Chapter 84 (relating to the Federal Employees' Retirement System).
 
 &emsp;(2) Chapter 87 (relating to life insurance).
 
@@ -28,15 +28,15 @@ For purposes of this section, interns and temporary employees shall be excluded 
 
 As used in this section—
 
-&emsp;(1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
+&emsp;(1) the term "Member of the House of Representatives" means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
 
-&emsp;(2) the term “intern” means, with respect to a Member of the House of Representatives, an individual who serves in the office of the Member for not more than 120 days in a 12-month period and whose service is primarily for the educational experience of the individual;
+&emsp;(2) the term "intern" means, with respect to a Member of the House of Representatives, an individual who serves in the office of the Member for not more than 120 days in a 12-month period and whose service is primarily for the educational experience of the individual;
 
-&emsp;(3) the term “part-time employee” means, with respect to a Member of the House of Representatives, an individual who is employed by the Member and whose normally assigned work schedule is not more than the equivalent of 15 full working days per month;
+&emsp;(3) the term "part-time employee" means, with respect to a Member of the House of Representatives, an individual who is employed by the Member and whose normally assigned work schedule is not more than the equivalent of 15 full working days per month;
 
-&emsp;(4) the term “temporary employee” means, with respect to a Member of the House of Representatives, an individual who is employed for a specific purpose or task and who is employed for not more than 90 days in a 12-month period, except that the term of such employment may be extended with the written approval of the Committee on House Oversight; and
+&emsp;(4) the term "temporary employee" means, with respect to a Member of the House of Representatives, an individual who is employed for a specific purpose or task and who is employed for not more than 90 days in a 12-month period, except that the term of such employment may be extended with the written approval of the Committee on House Oversight; and
 
-&emsp;(5) the term “shared employee” means an employee who is paid by more than one employing authority of the House of Representatives.
+&emsp;(5) the term "shared employee" means an employee who is paid by more than one employing authority of the House of Representatives.
 
 #### (d) Regulations
 
@@ -48,15 +48,15 @@ The Committee on House Oversight shall have authority to prescribe regulations t
 
 Section was formerly classified to section 92 of this title prior to editorial reclassification and renumbering as this section.
 
-Section is comprised of section 104 of Pub. L. 104–186. Subsec. (e)(1) of section 104 of Pub. L. 104–186 repealedformer section 92 of this title. Subsec. (e)(2) and (3) of section 104 of Pub. L. 104–186 repealed provisions formerly set out as notes under section 92 of this title.
+Section is comprised of section 104 of Pub. L. 104–186. Subsec. (e)(1) of section 104 of Pub. L. 104–186 repealed former section 92 of this title. Subsec. (e)(2) and (3) of section 104 of Pub. L. 104–186 repealed provisions formerly set out as notes under section 92 of this title.
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–57, §103(b)(2), struck out “Clerk hire” before “Employees” in section catchline.
+<b>1999</b>—Pub. L. 106–57, §103(b)(2), struck out "Clerk hire" before "Employees" in section catchline.
 
-Subsec. (a). Pub. L. 106–57, §103(b)(1), struck out “clerk hire” before “employees” in two places in introductory provisions.
+Subsec. (a). Pub. L. 106–57, §103(b)(1), struck out "clerk hire" before "employees" in two places in introductory provisions.
 
-<b>1997</b>—Subsec. (c)(2). Pub. L. 105–55 struck out “in the District of Columbia” after “office of the Member”.
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–55 struck out "in the District of Columbia" after "office of the Member".
 
 #### Change of Name
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 106–57 applicable with respect to the first session of th
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–55, title I, §104(b), Oct. 7, 1997, 111 Stat. 1184, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning on or after October 1, 1997.”
+Pub. L. 105–55, title I, §104(b), Oct. 7, 1997, 111 Stat. 1184, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning on or after October 1, 1997."
 
 #### Employment of Permanent Clerks
 

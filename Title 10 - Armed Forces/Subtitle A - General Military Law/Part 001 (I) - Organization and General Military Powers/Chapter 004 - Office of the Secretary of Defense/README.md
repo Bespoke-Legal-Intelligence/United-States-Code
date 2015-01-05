@@ -16,10 +16,7 @@
 | [137\.](%C2%A7%2000137%20-%20Under%20Secretary%20of%20Defense%20for%20Intelligence.md) | Under Secretary of Defense for Intelligence. |
 | [137a.](%C2%A7%2000137a%20-%20Principal%20Deputy%20Under%20Secretaries%20of%20Defense.md) | Principal Deputy Under Secretaries of Defense. |
 | [138\.](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md) | Assistant Secretaries of Defense. |
-| [138a.](%C2%A7%2000138a%20-%20Assistant%20Secretary%20of%20Defense%20for%20Logistics%20and%20Materiel%20Readiness.md) | Assistant Secretary of Defense for Logistics and Materiel Readiness. |
-| [138b.](%C2%A7%2000138b%20-%20Assistant%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md) | Assistant Secretary of Defense for Research and Engineering. |
-| [138c.](%C2%A7%2000138c%20-%20Assistant%20Secretary%20of%20Defense%20for%20Operational%20Energy%20Plans%20and%20Programs.md) | Assistant Secretary of Defense for Operational Energy Plans and Programs. |
-| [138d.](%C2%A7%2000138d%20-%20Assistant%20Secretary%20of%20Defense%20for%20Nuclear%2C%20Chemical%2C%20and%20Biological%20Defense%20Programs.md) | Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs. |
+| \[138a to 138d. Repealed.\] |  |
 | [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
 | [139a.](%C2%A7%2000139a%20-%20Director%20of%20Cost%20Assessment%20and%20Program%20Evaluation.md) | Director of Cost Assessment and Program Evaluation. |
 | [139b.](%C2%A7%2000139b%20-%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Developmental%20Test%20and%20Evaluation%3B%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Systems%E2%80%A6.md) | Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance. |
@@ -28,13 +25,21 @@
 | [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
 | \[140a to 140c. Renumbered.\] |  |
 | [141\.](%C2%A7%2000141%20-%20Inspector%20General.md) | Inspector General. |
-| \[142. | Renumbered.\] |
+| [142\.](%C2%A7%2000142%20-%20Chief%20Information%20Officer.md) | Chief Information Officer. |
 | [143\.](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md) | Office of the Secretary of Defense personnel: limitation. |
 | [144\.](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: "132a. Under Secretary of Defense for Business Management and Information."</i>
+
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title IX, §901(l)(1)(B), (C), Dec. 19, 2014, 128 Stat. 3468, added item 142 and struck out items 138a "Assistant Secretary of Defense for Logistics and Materiel Readiness", 138b "Assistant Secretary of Defense for Research and Engineering", 138c "Assistant Secretary of Defense for Operational Energy Plans and Programs", and 138d "Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs".
+
+Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" in item 132a.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b "Deputy Under Secretary of Defense for Logistics and Materiel Readiness".
 
@@ -100,6 +105,10 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 <b>1972</b>—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted "Deputy Secretaries" for "Deputy Secretary" in item 134.
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1), which is on Feb. 1, 2017.
+
 
 ---
 
@@ -120,10 +129,9 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 - [&sect; 00137 - Under Secretary of Defense for Intelligence](%C2%A7%2000137%20-%20Under%20Secretary%20of%20Defense%20for%20Intelligence.md)
 - [&sect; 00137a - Principal Deputy Under Secretaries of Defense](%C2%A7%2000137a%20-%20Principal%20Deputy%20Under%20Secretaries%20of%20Defense.md)
 - [&sect; 00138 - Assistant Secretaries of Defense](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md)
-- [&sect; 00138a - Assistant Secretary of Defense for Logistics and Materiel Readiness](%C2%A7%2000138a%20-%20Assistant%20Secretary%20of%20Defense%20for%20Logistics%20and%20Materiel%20Readiness.md)
-- [&sect; 00138b - Assistant Secretary of Defense for Research and Engineering](%C2%A7%2000138b%20-%20Assistant%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md)
-- [&sect; 00138c - Assistant Secretary of Defense for Operational Energy Plans and Programs](%C2%A7%2000138c%20-%20Assistant%20Secretary%20of%20Defense%20for%20Operational%20Energy%20Plans%20and%20Programs.md)
-- [&sect; 00138d - Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs](%C2%A7%2000138d%20-%20Assistant%20Secretary%20of%20Defense%20for%20Nuclear%2C%20Chemical%2C%20and%20Biological%20Defense%20Programs.md)
+- [&sect; 00138a, 138b - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(h)(4), Dec. 19, 2014, 128 Stat. 3467](%C2%A7%2000138a%2C%20138b%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28h%29%284%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203467.md)
+- [&sect; 00138c - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(g)(2), Dec. 19, 2014, 128 Stat. 3466](%C2%A7%2000138c%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28g%29%282%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203466.md)
+- [&sect; 00138d - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(h)(4), Dec. 19, 2014, 128 Stat. 3467](%C2%A7%2000138d%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28h%29%284%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203467.md)
 - [&sect; 00139 - Director of Operational Test and Evaluation](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md)
 - [&sect; 00139a - Director of Cost Assessment and Program Evaluation](%C2%A7%2000139a%20-%20Director%20of%20Cost%20Assessment%20and%20Program%20Evaluation.md)
 - [&sect; 00139b - Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems&#8230;](%C2%A7%2000139b%20-%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Developmental%20Test%20and%20Evaluation%3B%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Systems%E2%80%A6.md)
@@ -134,6 +142,6 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 - [&sect; 00140b - Renumbered &sect;423](%C2%A7%2000140b%20-%20Renumbered%20%C2%A7423.md)
 - [&sect; 00140c - Renumbered &sect;130](%C2%A7%2000140c%20-%20Renumbered%20%C2%A7130.md)
 - [&sect; 00141 - Inspector General](%C2%A7%2000141%20-%20Inspector%20General.md)
-- [&sect; 00142 - Renumbered &sect;138d](%C2%A7%2000142%20-%20Renumbered%20%C2%A7138d.md)
+- [&sect; 00142 - Chief Information Officer](%C2%A7%2000142%20-%20Chief%20Information%20Officer.md)
 - [&sect; 00143 - Office of the Secretary of Defense personnel limitation](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md)
 - [&sect; 00144 - Director of Small Business Programs](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md)

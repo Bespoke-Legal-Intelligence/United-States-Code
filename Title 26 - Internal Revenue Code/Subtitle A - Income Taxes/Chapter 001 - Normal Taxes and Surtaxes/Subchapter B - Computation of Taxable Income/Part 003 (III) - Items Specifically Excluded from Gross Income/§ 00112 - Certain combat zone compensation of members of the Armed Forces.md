@@ -26,9 +26,9 @@ For purposes of this section—
 
 &emsp;(1) The term "commissioned officer" does not include a commissioned warrant officer.
 
-&emsp;(2) The term "combat zone" means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have (after June 24, 1950) engaged in combat.
+&emsp;(2) The term "combat zone" means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have engaged in combat.
 
-&emsp;(3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by ExecutiveOrder as the date of the termination of combatant activities in such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.
+&emsp;(3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone.
 
 &emsp;(4) The term "compensation" does not include pensions and retirement pay.
 
@@ -52,9 +52,13 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, the Vietnam conflict began February 28, 1961, and ends on the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam. For purposes of this subsection, an individual is in a missing status as a result of the Vietnam conflict if immediately before such status began he was performing service in Vietnam or was performing service in Southeast Asia in direct support of military operations in Vietnam.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 34; Pub. L. 89–739, §1, Nov. 2, 1966, 80 Stat. 1165; Pub. L. 92–279, §1, Apr. 26, 1972, 86 Stat. 124; Pub. L. 93–597, §2(a), (b), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–569, §3(b), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 104–117, §1(d), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §1704(t)(4)(A), Aug. 20, 1996, 110 Stat. 1887.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 34; Pub. L. 89–739, §1, Nov. 2, 1966, 80 Stat. 1165; Pub. L. 92–279, §1, Apr. 26, 1972, 86 Stat. 124; Pub. L. 93–597, §2(a), (b), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–569, §3(b), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 104–117, §1(d), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §1704(t)(4)(A), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 113–295, div. A, title II, §221(a)(18), Dec. 19, 2014, 128 Stat. 4039.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–295, §221(a)(18)(A), struck out "(after June 24, 1950)" after "are or have".
+
+Subsec. (c)(3). Pub. L. 113–295, §221(a)(18)(B), substituted "such zone." for "such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195."
 
 <b>1996</b>—Pub. L. 104–188 substituted "combat zone compensation" for "combat pay" in section catchline.
 
@@ -84,6 +88,10 @@ Subsec. (c)(5). Pub. L. 93–597, §2(b), struck out par. (5) which defined "ind
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–739 substituted "$500" for "$200".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 1975 Amendment
 
 Pub. L. 93–597, §2(c), Jan. 2, 1975, 88 Stat. 1950, provided that: "The amendments made by this section \[amending this section\] shall take effect on July 1, 1973."
@@ -98,7 +106,7 @@ Pub. L. 89–739, §2, Nov. 2, 1966, 80 Stat. 1165, provided that: "The amendmen
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37,United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
 
 #### Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations
 
@@ -174,7 +182,7 @@ General Rule.—For purposes of the following provisions of the Internal Revenue
 
 "(b)
 
-Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual's permanent duty station, the term 'qualified hazardous duty area' includes, during the period for which such entitlement is in effect, any area in which such services are performed.
+Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area'means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual's permanent duty station, the term 'qualified hazardous duty area' includes, during the period for which such entitlement is in effect, any area in which such services are performed.
 
 "(c)
 

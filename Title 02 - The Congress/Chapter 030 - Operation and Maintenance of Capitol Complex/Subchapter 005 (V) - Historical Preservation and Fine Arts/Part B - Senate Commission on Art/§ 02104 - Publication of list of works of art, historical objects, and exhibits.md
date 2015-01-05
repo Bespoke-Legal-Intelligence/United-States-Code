@@ -6,7 +6,7 @@ The Commission shall, from time to time, but at least once every ten years, publ
 
 #### Codification
 
-Section was classified to section 188b–3 of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 4 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law by Pub. L. 100–696.
 

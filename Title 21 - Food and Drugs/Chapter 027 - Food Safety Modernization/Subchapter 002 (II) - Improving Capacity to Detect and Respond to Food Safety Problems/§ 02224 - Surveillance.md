@@ -64,7 +64,7 @@ In this Act, the term "foodborne illness outbreak" means the occurrence of 2 or 
 
 &emsp;&emsp;(D) Improve the effectiveness of Federal, State, and local partnerships to coordinate food safety and defense resources and reduce the incidence of foodborne illness.
 
-&emsp;&emsp;(E) Share information on a timely basis among public health and food regulatory agencies, with the food industry, with health care providers, and with the public.
+&emsp;&emsp;(E) Share information on a timely basis among public health and food regulatoryagencies, with the food industry, with health care providers, and with the public.
 
 &emsp;&emsp;(F) Strengthen the capacity of State and local agencies to achieve the goals described in section 2202 of this title.
 

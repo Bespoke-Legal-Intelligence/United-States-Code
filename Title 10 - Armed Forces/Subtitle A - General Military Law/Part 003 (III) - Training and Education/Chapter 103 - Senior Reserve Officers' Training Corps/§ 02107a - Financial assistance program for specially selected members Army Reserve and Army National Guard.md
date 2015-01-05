@@ -16,7 +16,7 @@
 
 &emsp;(E) agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army Reserve or the Army National Guard of the United States; and
 
-&emsp;(F) agree in writing that he will serve in a troop program unit of the Army Reserve or Army National Guard for not less than eight years.
+&emsp;(F) agree in writing that he will serve in a troop program unit of the Army Reserve orArmy National Guard for not less than eight years.
 
 (2) Performance of duty under an agreement under this subsection shall be under such terms and conditions as the Secretary of the Army may prescribe and may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed.
 
@@ -44,7 +44,7 @@
 
 (C) The agreement and reimbursement requirements established in section 2005 of this title are applicable to financial assistance under this paragraph.
 
-(D) An officer receiving financial assistance under this paragraph shall be attached to a unitof the Army as determined by the Secretary and shall be considered to be a member of the Senior Reserve Officers' Training Corps on inactive duty for training, as defined in section 101(23) of title 38.
+(D) An officer receiving financial assistance under this paragraph shall be attached to a unit of the Army as determined by the Secretary and shall be considered to be a member of the Senior Reserve Officers' Training Corps on inactive duty for training, as defined in section 101(23) of title 38.
 
 (E) A qualified officer who did not previously receive financial assistance under this section is eligible to receive educational assistance under this paragraph.
 
@@ -66,7 +66,7 @@
 
 (j) Financial assistance provided under this section to a cadet appointed at a military junior college is designated as, and shall be known as, an "Ike Skelton Early Commissioning Program Scholarship".
 
-(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003, 117 Stat. 1463; Pub. L. 108–375, div. A, title V, §524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, §535, Oct. 17, 2006, 120 Stat. 2207; Pub. L. 110–181, div. A, title V, §§522, 523, Jan. 28, 2008, 122 Stat. 102, 103; Pub. L. 111–84, div. A, title V, §522, Oct. 28, 2009, 123 Stat. 2285.)
+(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003,117 Stat. 1463; Pub. L. 108–375, div. A, title V, §524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, §535, Oct. 17, 2006, 120 Stat. 2207; Pub. L. 110–181, div. A, title V, §§522, 523, Jan. 28, 2008, 122 Stat. 102, 103; Pub. L. 111–84, div. A, title V, §522, Oct. 28, 2009, 123 Stat. 2285.)
 
 #### Amendments
 

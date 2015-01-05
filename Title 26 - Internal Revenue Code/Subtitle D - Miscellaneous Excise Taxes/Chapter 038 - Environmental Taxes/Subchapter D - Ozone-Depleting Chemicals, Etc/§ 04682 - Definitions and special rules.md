@@ -43,91 +43,30 @@ For purposes of this subchapter—
 
 For purposes of this subchapter, the term "ozone-depletion factor" means, with respect to an ozone-depleting chemical, the factor assigned to such chemical under the following table:
 
-Ozone-depleting chemical:
+&nbsp;
 
-<b>Ozone-depletion factor:</b>
-
-&emsp;&emsp;CFC–11
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–12
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–113
-
-0\.8&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–114
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–115
-
-0\.6&nbsp;&nbsp;
-
-&emsp;&emsp;Halon-1211
-
-3\.0&nbsp;&nbsp;
-
-&emsp;&emsp;Halon-1301
-
-10\.0&nbsp;&nbsp;
-
-&emsp;&emsp;Halon-2402
-
-6\.0&nbsp;&nbsp;
-
-&emsp;&emsp;Carbon tetrachloride
-
-1\.1&nbsp;&nbsp;
-
-&emsp;&emsp;Methyl chloroform
-
-0\.1&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–13.
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–111
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–112
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–211
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–212
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–213
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–214
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–215
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–216
-
-1\.0&nbsp;&nbsp;
-
-&emsp;&emsp;CFC–217
-
-1\.0.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>Ozone-depleting chemical:</b> | <b>Ozone-depletion factor:</b> |
+| :--- | ---: |
+| CFC–11 | 1\.0&nbsp;&nbsp; |
+| CFC–12 | 1\.0&nbsp;&nbsp; |
+| CFC–113 | 0\.8&nbsp;&nbsp; |
+| CFC–114 | 1\.0&nbsp;&nbsp; |
+| CFC–115 | 0\.6&nbsp;&nbsp; |
+| Halon-1211 | 3\.0&nbsp;&nbsp; |
+| Halon-1301 | 10\.0&nbsp;&nbsp; |
+| Halon-2402 | 6\.0&nbsp;&nbsp; |
+| Carbon tetrachloride | 1\.1&nbsp;&nbsp; |
+| Methyl chloroform | 0\.1&nbsp;&nbsp; |
+| CFC–13 | 1\.0&nbsp;&nbsp; |
+| CFC–111 | 1\.0&nbsp;&nbsp; |
+| CFC–112 | 1\.0&nbsp;&nbsp; |
+| CFC–211 | 1\.0&nbsp;&nbsp; |
+| CFC–212 | 1\.0&nbsp;&nbsp; |
+| CFC–213 | 1\.0&nbsp;&nbsp; |
+| CFC–214 | 1\.0&nbsp;&nbsp; |
+| CFC–215 | 1\.0&nbsp;&nbsp; |
+| CFC–216 | 1\.0&nbsp;&nbsp; |
+| CFC–217 | 1\.0. |
 
 #### (c) Imported taxable product
 
@@ -135,7 +74,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;The term "imported taxable product" means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if anyozone-depleting chemical was used as material in the manufacture or production of such product.
+&emsp;The term "imported taxable product" means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if any ozone-depleting chemical was used as material in the manufacture or production of such product.
 
 #### (2) De minimis exception
 
@@ -259,15 +198,11 @@ For purposes of this subchapter—
 
 #### (2) Overpayments
 
-&emsp;If any substance on which tax was paid under this subchapter is used by any person as a propellant in metered-dose inhalers, credit or refund without interest shall be allowed to such person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this paragraph.
+&emsp;If any substance on which tax was paid under this subchapter is used by any person asa propellant in metered-dose inhalers, credit or refund without interest shall be allowed to such person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this paragraph.
 
 #### (h) Imposition of floor stocks taxes
 
-#### (1) January 1, 1990, tax
-
-&emsp;On any ozone-depleting chemical which on January 1, 1990, is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990.
-
-#### (2) Other tax-increase dates
+#### (1) In general
 
 #### (A) In general
 
@@ -283,23 +218,25 @@ For purposes of this subchapter—
 
 #### (C) Tax-increase date
 
-&emsp;&emsp;For purposes of this paragraph, the term "tax-increase date" means January 1 of any calendar year after 1991.
+&emsp;&emsp;For purposes of this paragraph, the term "tax-increase date" means January 1 of any calendar year.
 
-#### (3) Due date
+#### (2) Due date
 
 &emsp;The taxes imposed by this subsection on January 1 of any calendar year shall be paid on or before June 30 of such year.
 
-#### (4) Application of other laws
+#### (3) Application of other laws
 
 &emsp;All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051.)
+(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, §221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### Prior Provisions
 
 A prior section 4682, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980, 94 Stat. 2804, was contained in subchapter C of this chapter, prior to repeal by Pub. L. 99–499, title V, §514(a)(1), (c), Oct. 17, 1986, 100 Stat. 1767, effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h). Pub. L. 113–295 redesignated pars. (2) to (4) as (1) to (3), respectively, in par. (1), as so redesignated, substituted "In general" for "Other tax-increase dates" in heading and struck out "after 1991" after "calendar year" in subpar. (C), and struck out former par. (1), which read as follows: "On any ozone-depleting chemical which on January 1, 1990, is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990."
 
 <b>1997</b>—Subsec. (d)(1). Pub. L. 105–34, §903(a), substituted "recycled Halon-1301 or recycled Halon-2402" for "recycled halon".
 
@@ -334,6 +271,10 @@ Subsec. (d)(3)(B)(ii). Pub. L. 101–508, §11701(g)(5), substituted last senten
 Subsec. (d)(3)(C). Pub. L. 101–508, §11203(b), added subpar. (C).
 
 Subsec. (h)(3). Pub. L. 101–508, §11203(d)(2), substituted "June 30" for "April 1".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

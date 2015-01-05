@@ -2,9 +2,9 @@
 
 (a) For the purpose of this chapter—
 
-&emsp;(1) “person” means an individual, labor organization, or agency;
+&emsp;(1) "person" means an individual, labor organization, or agency;
 
-&emsp;(2) “employee” means an individual—
+&emsp;(2) "employee" means an individual—
 
 &emsp;&emsp;(A) employed in an agency; or
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(v) any person who participates in a strike in violation of section 7311 of this title;
 
-&emsp;(3) “agency” means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Printing Office, and the Smithsonian Institution <sup>1</sup> but does not include—
+&emsp;(3) "agency" means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans' Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Publishing Office, and the Smithsonian Institution <sup>1</sup> but does not include—
 
 &emsp;&emsp;(A) the Government Accountability Office;
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(H) the United States Secret Service and the United States Secret Service Uniformed Division.
 
-&emsp;(4) “labor organization” means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose the dealing with an agency concerning grievances and conditions of employment, but does not include—
+&emsp;(4) "labor organization" means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose the dealing with an agency concerning grievances and conditions of employment, but does not include—
 
 &emsp;&emsp;(A) an organization which, by its constitution, bylaws, tacit agreement among its members, or otherwise, denies membership because of race, color, creed, national origin, sex, age, preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
 
@@ -50,15 +50,15 @@
 
 &emsp;&emsp;(D) an organization which participates in the conduct of a strike against the Government or any agency thereof or imposes a duty or obligation to conduct, assist, or participate in such a strike;
 
-&emsp;(5) “dues” means dues, fees, and assessments;
+&emsp;(5) "dues" means dues, fees, and assessments;
 
-&emsp;(6) “Authority” means the Federal Labor Relations Authority described in section 7104(a) of this title;
+&emsp;(6) "Authority" means the Federal Labor Relations Authority described in section 7104(a) of this title;
 
-&emsp;(7) “Panel” means the Federal Service Impasses Panel described in section 7119(c) of this title;
+&emsp;(7) "Panel" means the Federal Service Impasses Panel described in section 7119(c) of this title;
 
-&emsp;(8) “collective bargaining agreement” means an agreement entered into as a result of collective bargaining pursuant to the provisions of this chapter;
+&emsp;(8) "collective bargaining agreement" means an agreement entered into as a result of collective bargaining pursuant to the provisions of this chapter;
 
-&emsp;(9) “grievance” means any complaint—
+&emsp;(9) "grievance" means any complaint—
 
 &emsp;&emsp;(A) by any employee concerning any matter relating to the employment of the employee;
 
@@ -70,15 +70,15 @@
 
 &emsp;&emsp;&emsp;(ii) any claimed violation, misinterpretation, or misapplication of any law, rule, or regulation affecting conditions of employment;
 
-&emsp;(10) “supervisor” means an individual employed by an agency having authority in the interest of the agency to hire, direct, assign, promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term “supervisor” includes only those individuals who devote a preponderance of their employment time to exercising such authority;
+&emsp;(10) "supervisor" means an individual employed by an agency having authority in the interest of the agency to hire, direct, assign, promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term "supervisor" includes only those individuals who devote a preponderance of their employment time to exercising such authority;
 
-&emsp;(11) “management official” means an individual employed by an agency in a position the duties and responsibilities of which require or authorize the individual to formulate, determine, or influence the policies of the agency;
+&emsp;(11) "management official" means an individual employed by an agency in a position the duties and responsibilities of which require or authorize the individual to formulate, determine, or influence the policies of the agency;
 
-&emsp;(12) “collective bargaining” means the performance of the mutual obligation of the representative of an agency and the exclusive representative of employees in an appropriate unit in the agency to meet at reasonable times and to consult and bargain in a good-faith effort to reach agreement with respect to the conditions of employment affecting such employees and to execute, if requested by either party, a written document incorporating any collective bargaining agreement reached, but the obligation referred to in this paragraph does not compel either party to agree to a proposal or to make a concession;
+&emsp;(12) "collective bargaining" means the performance of the mutual obligation of the representative of an agency and the exclusive representative of employees in an appropriate unit in the agency to meet at reasonable times and to consult and bargain in a good-faith effort to reach agreement with respect to the conditions of employment affecting such employees and to execute, if requested by either party, a written document incorporating any collective bargaining agreement reached, but the obligation referred to in this paragraph does not compel either party to agree to a proposal or to make a concession;
 
-&emsp;(13) “confidential employee” means an employee who acts in a confidential capacity with respect to an individual who formulates or effectuates management policies in the field of labor-management relations;
+&emsp;(13) "confidential employee" means an employee who acts in a confidential capacity with respect to an individual who formulates or effectuates management policies in the field of labor-management relations;
 
-&emsp;(14) “conditions of employment” means personnel policies, practices, and matters, whether established by rule, regulation, or otherwise, affecting working conditions, except that such term does not include policies, practices, and matters—
+&emsp;(14) "conditions of employment" means personnel policies, practices, and matters, whether established by rule, regulation, or otherwise, affecting working conditions, except that such term does not include policies, practices, and matters—
 
 &emsp;&emsp;(A) relating to political activities prohibited under subchapter III of chapter 73 of this title;
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(C) to the extent such matters are specifically provided for by Federal statute;
 
-&emsp;(15) “professional employee” means—
+&emsp;(15) "professional employee" means—
 
 &emsp;&emsp;(A) an employee engaged in the performance of work—
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) an employee who has completed the courses of specialized intellectual instruction and study described in subparagraph (A)(i) of this paragraph and is performing related work under appropriate direction or guidance to qualify the employee as a professional employee described in subparagraph (A) of this paragraph;
 
-&emsp;(16) “exclusive representative” means any labor organization which—
+&emsp;(16) "exclusive representative" means any labor organization which—
 
 &emsp;&emsp;(A) is certified as the exclusive representative of employees in an appropriate unit pursuant to section 7111 of this title; or
 
@@ -112,9 +112,9 @@
 
 > &emsp;&emsp;and continues to be so recognized in accordance with the provisions of this chapter;
 
-&emsp;(17) “firefighter” means any employee engaged in the performance of work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment; and
+&emsp;(17) "firefighter" means any employee engaged in the performance of work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment; and
 
-&emsp;(18) “United States” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
+&emsp;(18) "United States" means the 50 States, the District of Columbia, the Commonwealthof Puerto Rico, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
 (b)(1) The President may issue an order excluding any agency or subdivision thereof from coverage under this chapter if the President determines that—
 
@@ -124,29 +124,31 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(3)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(3)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>2000</b>—Subsec. (a)(3)(H). Pub. L. 106–554 added subpar. (H).
 
-<b>1998</b>—Subsec. (a)(2)(B)(iv). Pub. L. 105–277 substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+<b>1998</b>—Subsec. (a)(2)(B)(iv). Pub. L. 105–277 substituted "Agency for International Development" for "United States International Development Cooperation Agency".
 
-Subsec. (a)(3). Pub. L. 105–220, in introductory provisions, struck out “and” after “Library of Congress,” and inserted “and the Smithsonian Institution” after “Government Printing Office,”.
+Subsec. (a)(3). Pub. L. 105–220, in introductory provisions, struck out "and" after "Library of Congress," and inserted "and the Smithsonian Institution" after "Government Printing Office,".
 
-<b>1996</b>—Subsec. (a)(3)(F) to (H). Pub. L. 104–201 inserted “or” at end of subpar. (F), substituted a period for “; or” at end of subpar. (G), and struck out subpar. (H) which read as follows: “the Central Imagery Office;”.
+<b>1996</b>—Subsec. (a)(3)(F) to (H). Pub. L. 104–201 inserted "or" at end of subpar. (F), substituted a period for "; or" at end of subpar. (G), and struck out subpar. (H) which read as follows: "the Central Imagery Office;".
 
 <b>1994</b>—Subsec. (a)(3)(H). Pub. L. 103–359 added subpar. (H).
 
-<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1980</b>—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out “the Agency for International Development, or” after “Department of State,” and inserted “the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce” after “Communication Agency”.
+<b>1980</b>—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out "the Agency for International Development, or" after "Department of State," and inserted "the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce" after "Communication Agency".
 
 #### Change of Name
 
 International Communication Agency, referred to in subsec. (a)(2)(B)(iv), redesignated United States Information Agency and Director or any other official of International Communication Agency redesignated as Director or other official, as appropriate, of United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State by sections 6531 and 6532 of Title 22.
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (a)(3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1998 Amendment
 
@@ -170,7 +172,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997;Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -178,7 +180,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Determinations
 
-1–101. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to those agencies or subdivisions in a manner consistent with national security requirements and considerations. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
+1–101. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to thoseagencies or subdivisions in a manner consistent with national security requirements and considerations. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
 1–102. Having determined that it is necessary in the interest of national security, the provisions of Chapter 71 of Title 5 of the United States Code are suspended with respect to any agency, installation, or activity listed in Section 1–3 of this Order. However, such suspension shall be applicable only to that portion of the agency, installation, or activity which is located outside the 50 States and the District of Columbia.
 
@@ -228,7 +230,7 @@ Exclusions
 
 (f) Fleet Intelligence Center, Pacific (FICPAC).
 
-(g) Units composed primarily of employees engaged in the operation, repair, and/or maintenance of “off line” or “on line” cryptographic equipment.
+(g) Units composed primarily of employees engaged in the operation, repair, and/or maintenance of "off line" or "on line" cryptographic equipment.
 
 (h) Units composed primarily of employees of naval telecommunications activities in positions which require a cryptographic authorization.
 
@@ -280,7 +282,7 @@ a. The Office of Enforcement and the Office of Intelligence, including all domes
 
 b. The Office of Special Operations, the Threat Analysis Group, the Enforcement Operations Division, the Witness Security Division and the Court Security Division in the Office of the Director and the Enforcement Division in Offices of the United States Marshals in the United States Marshals Service.
 
-(c) United States Attorneys’ Offices.
+(c) United States Attorneys' Offices.
 
 (d) Criminal Division.
 
@@ -466,7 +468,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States ofAmerica, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
 Section 1. <i>Determinations</i>. The agencies or subdivisions thereof set forth in Section 3 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to these agencies or subdivisions in a manner consistent with national security requirements and considerations. These agencies or subdivisions thereof are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
@@ -490,15 +492,15 @@ Section 1. <i>Determinations</i>. The subdivisions of the Department of Justice 
 
 Sec. 2. <i>Amendment of Executive Order 12171</i>. Executive Order 12171 of November 19, 1979, as amended, \[set out above\] is further amended by adding to the end of section 1–209 the following new subsections:
 
-“(c) United States Attorneys’ Offices.
+"(c) United States Attorneys' Offices.
 
-\[“\](d) Criminal Division.
+\["\](d) Criminal Division.
 
-\[“\](e) INTERPOL—U.S. National Central Bureau.
+\["\](e) INTERPOL—U.S. National Central Bureau.
 
-\[“\](f) National Drug Intelligence Center.
+\["\](f) National Drug Intelligence Center.
 
-\[“\](g) Office of Intelligence Policy and Review.”
+\["\](g) Office of Intelligence Policy and Review."
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

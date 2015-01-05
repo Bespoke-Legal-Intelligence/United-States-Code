@@ -12,7 +12,7 @@
 
 #### (2) Director of Trade Policy
 
-&emsp;There shall be a Director of Trade Policy (in this subsection referred to as the “Director”), who shall be subject to the direction and control of the official designated pursuant to paragraph (1). The Director shall—
+&emsp;There shall be a Director of Trade Policy (in this subsection referred to as the "Director"), who shall be subject to the direction and control of the official designated pursuant to paragraph (1). The Director shall—
 
 &emsp;&emsp;(A) advise the official designated pursuant to paragraph (1) regarding all aspects of Department policies relating to the trade and customs revenue functions of the Department;
 
@@ -46,7 +46,7 @@
 
 #### (5) Definition
 
-&emsp;In this section, the term “customs revenue functions” means the functions described in section 212(b)(2) of this title.
+&emsp;In this section, the term "customs revenue functions" means the functions described in section 212(b)(2) of this title.
 
 #### (c) Consultation on trade and customs revenue functions
 

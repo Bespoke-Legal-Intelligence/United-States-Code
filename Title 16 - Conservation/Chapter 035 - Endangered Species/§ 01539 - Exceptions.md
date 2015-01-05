@@ -94,7 +94,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(B) Any prohibition set forth in section 1538(a)(1)(E) or (F) of this title.
 
-(3) Any person seeking an exemption described in paragraph (2) of this subsection shall make application therefor to the Secretary in such form and manner as he shall prescribe, but no such application may be considered by the Secretary unless the application—
+(3) Any person seeking an exemption described in paragraph (2) of this subsection shall makeapplication therefor to the Secretary in such form and manner as he shall prescribe, but no such application may be considered by the Secretary unless the application—
 
 &emsp;(A) is received by the Secretary before the close of the one-year period beginning on the date on which regulations promulgated by the Secretary to carry out this subsection first take effect;
 
@@ -210,7 +210,7 @@ This chapter, referred to in text, was in the original "this Act", except for "t
 
 Section 668cc–3 of this title, referred to in subsec. (b), was repealed by Pub. L. 93–205, §14, Dec. 28, 1973, 87 Stat. 903.
 
-Subsec. (f) of section 1533 of this title, referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of section 1533 of this title, was redesignated as subsec. (f), by Pub. L. 97–304, §2(a)(4)(B), (C), Oct. 13, 1982, 96 Stat. 1415. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of section 1533 of this title.
+Subsec. (f) of section 1533 of this title, referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of section 1533 of this title, was redesignated as subsec. (f), by Pub. L. 97–304, §2(a)(4)(B), (C), Oct. 13, 1982, 96 Stat. 1415. For provisions relating to promulgation ofregulations, see subsecs. (b) and (h) of section 1533 of this title.
 
 Effective date of this subsection, referred to in subsec. (f)(6)(A), probably means the date of enactment of subsec. (f) by section 2 of Pub. L. 94–359, July 12, 1976.
 

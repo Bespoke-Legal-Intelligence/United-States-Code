@@ -14,9 +14,9 @@ The Secretary shall provide grants in accordance with this section to assist the
 
 #### (b) Priority
 
-In carrying out subsection (a) of this section, the Secretary shall—
+In carrying out subsection (a), the Secretary shall—
 
-&emsp;(1) give priority to projects described in subsection (a)(1) of this section; and
+&emsp;(1) give priority to projects described in subsection (a)(1); and
 
 &emsp;(2) provide at least 70 percent of all such grants to such projects.
 
@@ -26,7 +26,7 @@ To be eligible to obtain a grant under this section, an applicant shall—
 
 &emsp;(1) be a public or private nonprofit entity; and
 
-&emsp;(2) in the case of a grant made under subsection (a)(1) of this section, demonstrate to the Secretary that the decline referred to in such subsection occurred, or will occur, within 2 years of the date the application was filed for such grant.
+&emsp;(2) in the case of a grant made under subsection (a)(1), demonstrate to the Secretary that the decline referred to in such subsection occurred, or will occur, within 2 years of the date the application was filed for such grant.
 
 #### (d) Uses
 
@@ -44,7 +44,7 @@ To be eligible to obtain a grant under this section, an applicant shall—
 
 #### (2) Joint proposals
 
-&emsp;Nothing in this section shall preclude rural communities from submitting joint proposals for emergency water assistance, subject to the restrictions contained in subsection (e) of this section. Such restrictions should be considered in the aggregate, depending on the number of communities involved.
+&emsp;Nothing in this section shall preclude rural communities from submitting joint proposals for emergency water assistance, subject to the restrictions contained in subsection (e). Such restrictions should be considered in the aggregate, depending on the number of communities involved.
 
 #### (e) Restrictions
 
@@ -64,13 +64,13 @@ To be eligible to obtain a grant under this section, an applicant shall—
 
 Grants made under this section may not exceed—
 
-&emsp;(1) in the case of each grant made under subsection (a)(1) of this section, $500,000; and
+&emsp;(1) in the case of each grant made under subsection (a)(1), $500,000; and
 
-&emsp;(2) in the case of each grant made under subsection (a)(2) of this section, $150,000.
+&emsp;(2) in the case of each grant made under subsection (a)(2), $150,000.
 
 #### (g) Full funding
 
-Subject to subsection (e) of this section, grants under this section shall be made in an amount equal to 100 percent of the costs of the projects conducted under this section.
+Subject to subsection (e), grants under this section shall be made in an amount equal to 100 percent of the costs of the projects conducted under this section.
 
 #### (h) Application
 
@@ -106,9 +106,9 @@ Subject to subsection (e) of this section, grants under this section shall be ma
 
 #### (2) Authorization of appropriations
 
-&emsp;In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2008 through 2012.
+&emsp;In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2008 through 2018.
 
-(Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, §742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, §6009, May 13, 2002, 116 Stat. 356; Pub. L. 110–234, title VI, §6008, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6008, June 18, 2008, 122 Stat. 1664, 1924.)
+(Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, §742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, §6009, May 13, 2002, 116 Stat. 356; Pub. L. 110–234, title VI, §6008, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6008, June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, §6007, Feb. 7, 2014, 128 Stat. 843.)
 
 #### References in Text
 
@@ -123,6 +123,8 @@ For definition of "this chapter", referred to in subsec. (h)(2)(B), see note set
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i)(2). Pub. L. 113–79 substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (i)(2). Pub. L. 110–246, §6008, substituted "2008 through 2012" for "2003 through 2007".
 

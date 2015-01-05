@@ -72,5 +72,5 @@ Section 1393d, Pub. L. 88–210, title I, §195, as added Pub. L. 93–380, titl
 
 Section 1393e, Pub. L. 88–210, title I, §196, as added Pub. L. 93–380, title VIII, §841(a)(7), Aug. 21, 1974, 88 Stat. 609, set forth application requirements for grants and contracts for bilingual vocational training programs.
 
-Section 1393f, Pub. L. 88–210, title I, §197, as added Pub. L. 93–380, title VIII, §841(a)(7), Aug. 21, 1974, 88 Stat. 609; amended Pub. L. 94–482, title V, §501(j)(2), Oct. 12, 1976, 90 Stat. 2237, set forth criteria for approval byCommissioner of applications for grants and contracts for bilingual vocational training programs.
+Section 1393f, Pub. L. 88–210, title I, §197, as added Pub. L. 93–380, title VIII, §841(a)(7), Aug. 21, 1974, 88 Stat. 609; amended Pub. L. 94–482, title V, §501(j)(2), Oct. 12, 1976, 90 Stat. 2237, set forth criteria for approval by Commissioner of applications for grants and contracts for bilingual vocational training programs.
 

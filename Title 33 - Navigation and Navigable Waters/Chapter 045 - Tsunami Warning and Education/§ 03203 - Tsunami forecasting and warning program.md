@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall operate a program to provide tsunami detection, forecasting, and warnings for the Pacific and Arctic Ocean regions and for the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico region.
+The Administrator, through the National Weather Service and in consultation with otherrelevant Administration offices, shall operate a program to provide tsunami detection, forecasting, and warnings for the Pacific and Arctic Ocean regions and for the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico region.
 
 #### (b) Components
 
@@ -116,7 +116,7 @@ The Administrator shall notify the Committee on Commerce, Science, and Transport
 
 #### (i) Report
 
-Not later than January 31, 2010, the Comptroller General of the United States shall transmit a report to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Science of the House of Representatives that—
+Not later than January 31, 2010, the Comptroller General of the United States shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives that—
 
 &emsp;(1) evaluates the current status of the tsunami detection, forecasting, and warning system and the tsunami hazard mitigation program established under this chapter, including progress toward tsunami inundation mapping of all coastal areas vulnerable to tsunami and whether there has been any degradation of services as a result of the expansion of the program;
 

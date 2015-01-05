@@ -2,7 +2,7 @@
 
 (a)
 
-Facility Security Officers.—The Secretary shall establish comprehensive facility security officer training requirements designed to provide full security training that would lead to certification of such officers. In establishing the requirements, the Secretary shall—
+Facility Security Officers.—The Secretary shall establish comprehensive facility security officer training requirements designed toprovide full security training that would lead to certification of such officers. In establishing the requirements, the Secretary shall—
 
 &emsp;(1) work with affected industry stakeholders; and
 

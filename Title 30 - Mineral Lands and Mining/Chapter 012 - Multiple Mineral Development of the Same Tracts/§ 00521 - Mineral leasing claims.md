@@ -2,7 +2,7 @@
 
 #### (a) Preference categories
 
-Subject to the conditions and provisions of this chapter and to any valid intervening rights acquired under the laws of the United States,any mining claim located under the mining laws of the United States subsequent to July 31, 1939, and prior to February 10, 1954, on lands of the United States, which at the time of location were—
+Subject to the conditions and provisions of this chapter and to any valid intervening rights acquired under the laws of the United States, any mining claim located under the mining laws of the United States subsequent to July 31, 1939, and prior to February 10, 1954, on lands of theUnited States, which at the time of location were—
 
 &emsp;(1) included in a permit or lease issued under the mineral leasing laws; or
 

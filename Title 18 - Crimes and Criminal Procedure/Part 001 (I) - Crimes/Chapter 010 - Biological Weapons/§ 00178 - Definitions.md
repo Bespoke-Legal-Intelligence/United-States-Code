@@ -22,7 +22,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) any vector;
 
-&emsp;(4) the term "vector" means a living organism, or molecule, including a recombinant or synthesized molecule, capable of carrying a biological agent or toxin to a host; and
+&emsp;(4) the term "vector" means a living organism, or molecule, including a recombinant orsynthesized molecule, capable of carrying a biological agent or toxin to a host; and
 
 &emsp;(5) the term "national of the United States" has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 

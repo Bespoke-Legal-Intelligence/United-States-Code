@@ -274,7 +274,7 @@ Fee.—An individual charged a fee for a transportation security card issued und
 
 &emsp;(3)
 
-Regulations.—Not later than 2 years after the commencement of the pilot program under paragraph (1)(C), the Secretary, after a notice and comment period that includes at least 1 public hearing, shall promulgate final regulations that require the deployment of transportation security card readers that are consistent with the findings of the pilot program and build upon the regulations prescribed under subsection (a).
+Regulations.—Not later than 2 years after the commencement of the pilot programunder paragraph (1)(C), the Secretary, after a notice and comment period that includes at least 1 public hearing, shall promulgate final regulations that require the deployment of transportation security card readers that are consistent with the findings of the pilot program and build upon the regulations prescribed under subsection (a).
 
 &emsp;(4)
 

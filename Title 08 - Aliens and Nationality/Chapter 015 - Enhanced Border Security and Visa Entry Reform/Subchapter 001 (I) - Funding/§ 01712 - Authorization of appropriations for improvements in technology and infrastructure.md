@@ -34,111 +34,111 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Pub. L. 109–13, div. B, title III, §302, May 11, 2005, 119 Stat. 316, provided that:
 
-“(a)
+"(a)
 
 Pilot Program.—Not later than 180 days after the date of the enactment of this division \[May 11, 2005\], the Under Secretary of Homeland Security for Science and Technology, in consultation with the Under Secretary of Homeland Security for Border and Transportation Security, the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection, and the Secretary of Defense, shall develop a pilot program to utilize, or increase the utilization of, ground surveillance technologies to enhance the border security of the United States. In developing the program, the Under Secretary shall—
 
-&emsp;“(1) consider various current and proposed ground surveillance technologies that could be utilized to enhance the border security of the United States;
+&emsp;"(1) consider various current and proposed ground surveillance technologies that could be utilized to enhance the border security of the United States;
 
-&emsp;“(2) assess the threats to the border security of the United States that could be addressed by the utilization of such technologies; and
+&emsp;"(2) assess the threats to the border security of the United States that could be addressed by the utilization of such technologies; and
 
-&emsp;“(3) assess the feasibility and advisability of utilizing such technologies to address such threats, including an assessment of the technologies considered best suited to address such threats.
+&emsp;"(3) assess the feasibility and advisability of utilizing such technologies to address such threats, including an assessment of the technologies considered best suited to address such threats.
 
-“(b)
+"(b)
 
 Additional Requirements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The pilot program shall include the utilization of a variety of ground surveillancetechnologies in a variety of topographies and areas (including both populated and unpopulated areas) on both the northern and southern borders of the United States in order to evaluate, for a range of circumstances—
+In general.—The pilot program shall include the utilization of a variety of ground surveillance technologies in a variety of topographies and areas (including both populated and unpopulated areas) on both the northern and southern borders of the United States in order to evaluate, for a range of circumstances—
 
-&emsp;&emsp;“(A) the significance of previous experiences with such technologies in homeland security or critical infrastructure protection for the utilization of such technologies for border security;
+&emsp;&emsp;"(A) the significance of previous experiences with such technologies in homeland security or critical infrastructure protection for the utilization of such technologies for border security;
 
-&emsp;&emsp;“(B) the cost, utility, and effectiveness of such technologies for border security; and
+&emsp;&emsp;"(B) the cost, utility, and effectiveness of such technologies for border security; and
 
-&emsp;&emsp;“(C) liability, safety, and privacy concerns relating to the utilization of such technologies for border security.
+&emsp;&emsp;"(C) liability, safety, and privacy concerns relating to the utilization of such technologies for border security.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Technologies.—The ground surveillance technologies utilized in the pilot program shall include the following:
 
-&emsp;&emsp;“(A) Video camera technology.
+&emsp;&emsp;"(A) Video camera technology.
 
-&emsp;&emsp;“(B) Sensor technology.
+&emsp;&emsp;"(B) Sensor technology.
 
-&emsp;&emsp;“(C) Motion detection technology.
+&emsp;&emsp;"(C) Motion detection technology.
 
-“(c)
+"(c)
 
 Implementation.—The Under Secretary of Homeland Security for Border and Transportation Security shall implement the pilot program developed under this section.
 
-“(d)
+"(d)
 
-Report.—Not later than 1 year after implementing the pilot program under subsection (a), the Under Secretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science, Space, and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program.”
+Report.—Not later than 1 year after implementing the pilot program under subsection (a), the Under Secretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science, Space, and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program."
 
 #### Advanced Technology Northern Border Security Pilot Program
 
 Pub. L. 108–458, title V, subtitle A, Dec. 17, 2004, 118 Stat. 3732, provided that:
 
-#### “SEC. 5101. ESTABLISHMENT.
+#### "SEC. 5101. ESTABLISHMENT.
 
-“The Secretary of Homeland Security may carry out a pilot program to test various advanced technologies that will improve border security between ports of entry along the northern border of the United States.
+"The Secretary of Homeland Security may carry out a pilot program to test various advanced technologies that will improve border security between ports of entry along the northern border of the United States.
 
-#### “SEC. 5102. PROGRAM REQUIREMENTS.
+#### "SEC. 5102. PROGRAM REQUIREMENTS.
 
-“(a)
+"(a)
 
 Required Features.—The Secretary of Homeland Security shall design the pilot program under this subtitle to have the following features:
 
-&emsp;“(1) Use of advanced technological systems, including sensors, video, and unmanned aerial vehicles, for border surveillance.
+&emsp;"(1) Use of advanced technological systems, including sensors, video, and unmanned aerial vehicles, for border surveillance.
 
-&emsp;“(2) Use of advanced computing and decision integration software for—
+&emsp;"(2) Use of advanced computing and decision integration software for—
 
-&emsp;&emsp;“(A) evaluation of data indicating border incursions;
+&emsp;&emsp;"(A) evaluation of data indicating border incursions;
 
-&emsp;&emsp;“(B) assessment of threat potential; and
+&emsp;&emsp;"(B) assessment of threat potential; and
 
-&emsp;&emsp;“(C) rapid real-time communication, monitoring, intelligence gathering, deployment, and response.
+&emsp;&emsp;"(C) rapid real-time communication, monitoring, intelligence gathering, deployment, and response.
 
-&emsp;“(3) Testing of advanced technology systems and software to determine best and most cost-effective uses of advanced technology to improve border security.
+&emsp;"(3) Testing of advanced technology systems and software to determine best and most cost-effective uses of advanced technology to improve border security.
 
-&emsp;“(4) Operation of the program in remote stretches of border lands with long distances between 24-hour ports of entry with a relatively small presence of United States border patrol officers.
+&emsp;"(4) Operation of the program in remote stretches of border lands with long distances between 24-hour ports of entry with a relatively small presence of United States border patrol officers.
 
-&emsp;“(5) Capability to expand the program upon a determination by the Secretary that expansion would be an appropriate and cost-effective means of improving border security.
+&emsp;"(5) Capability to expand the program upon a determination by the Secretary that expansion would be an appropriate and cost-effective means of improving border security.
 
-“(b)
+"(b)
 
 Coordination With Other Agencies.—The Secretary of Homeland Security shall ensure that the operation of the pilot program under this subtitle—
 
-&emsp;“(1) is coordinated among United States, State, local, and Canadian law enforcement and border security agencies; and
+&emsp;"(1) is coordinated among United States, State, local, and Canadian law enforcement and border security agencies; and
 
-&emsp;“(2) includes ongoing communication among such agencies.
+&emsp;"(2) includes ongoing communication among such agencies.
 
-#### “SEC. 5103. ADMINISTRATIVE PROVISIONS.
+#### "SEC. 5103. ADMINISTRATIVE PROVISIONS.
 
-“(a)
+"(a)
 
 Procurement of Advanced Technology.—The Secretary of Homeland Security may enter into contracts for the procurement or use of such advanced technologies as the Secretary determines appropriate for the pilot program under this subtitle.
 
-“(b)
+"(b)
 
 Program Partnerships.—In carrying out the pilot program under this subtitle, the Secretary of Homeland Security may provide for the establishment of cooperative arrangements for participation in the pilot program by such participants as law enforcement and border security agencies referred to in section 5102(b), institutions of higher education, and private sector entities.
 
-#### “SEC. 5104. REPORT.
+#### "SEC. 5104. REPORT.
 
-“(a)
+"(a)
 
 Requirement for Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall submit to Congress a report on the pilot program under this subtitle.
 
-“(b)
+"(b)
 
 Content.—The report under subsection (a) shall include the following matters:
 
-&emsp;“(1) A discussion of the implementation of the pilot program, including the experience under the pilot program.
+&emsp;"(1) A discussion of the implementation of the pilot program, including the experience under the pilot program.
 
-&emsp;“(2) A recommendation regarding whether to expand the pilot program along the entire northern border of the United States and a timeline for the implementation of the expansion.
+&emsp;"(2) A recommendation regarding whether to expand the pilot program along the entire northern border of the United States and a timeline for the implementation of the expansion.
 
-#### “SEC. 5105. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 5105. AUTHORIZATION OF APPROPRIATIONS.
 
-“There is authorized to be appropriated such sums as may be necessary to carry out the pilot program under this subtitle.”
+"There is authorized to be appropriated such sums as may be necessary to carry out the pilot program under this subtitle."
 

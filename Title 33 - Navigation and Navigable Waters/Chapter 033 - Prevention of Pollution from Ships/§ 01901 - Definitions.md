@@ -168,7 +168,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 #### "SEC. 1403. PROHIBITION ON DISCHARGE OF UNTREATED SEWAGE.
 
-"No person shall discharge any untreated sewage from a cruise vessel into the waters of the AlexanderArchipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
+"No person shall discharge any untreated sewage from a cruise vessel into the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
 
 #### "SEC. 1404. LIMITATIONS ON DISCHARGE OF TREATED SEWAGE OR GRAYWATER.
 
@@ -242,7 +242,7 @@ Classes of penalties.—
 
 &emsp;&emsp;"(A)
 
-Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 perviolation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary's or Administrator's proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
+Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 per violation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary's or Administrator's proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
 
 &emsp;&emsp;"(B)
 

@@ -40,7 +40,7 @@ If the Secretary of the Army makes a determination pursuant to subsection (b) of
 
 (2) In conducting such review, the Secretary of the Army shall consult with all affected parties, including, but not limited to, the Secretary, the South Florida Water Management District and agricultural users within adjacent agricultural areas.
 
-(3) If, on the basis of such review, the Secretary of the Army determines that an adjacent agricultural area has been, or will be adversely affected, the Secretary of the Army is authorized and directed, in accordance with the provisions of subsection (d) of this section, to construct a flood protection system for such area: <i>Provided</i>, That the provisions of subsection (d)(2) of this section shall be applicable only to the extent that the Secretary, in consultation withthe Secretary of the Army, determines that the park will not be adversely affected.
+(3) If, on the basis of such review, the Secretary of the Army determines that an adjacent agricultural area has been, or will be adversely affected, the Secretary of the Army is authorized and directed, in accordance with the provisions of subsection (d) of this section, to construct a flood protection system for such area: <i>Provided</i>, That the provisions of subsection (d)(2) of this section shall be applicable only to the extent that the Secretary, in consultation with the Secretary of the Army, determines that the park will not be adversely affected.
 
 (4) The provisions of this subsection shall only be applicable if the Secretary of the Army has previously made a determination that such adjacent agricultural area will not be adversely affected.
 
@@ -70,7 +70,7 @@ The Secretary of the Army is directed in analysis, design and engineering associ
 
 (2) With respect to any lands acquired pursuant to this subsection, the Secretary may provide not more than 25 percent of the total cost of such acquisition.
 
-(3) All funds made available pursuant to this subsection shall be transferred to the State of Florida or a political subdivision of the State, subject to an agreement that any lands acquired with such funds will be managed in perpetuity for the restoration of natural flows to the park or Florida Bay.
+(3) All funds made available pursuant to this subsection shall be transferred to the State of Florida or a political subdivision of the State, subject to an agreement that any lands acquired with such funds will be managed in perpetuityfor the restoration of natural flows to the park or Florida Bay.
 
 (4) The lands referred to in paragraph (1) are those lands or interests therein adjacent to, or affecting the restoration of natural water flows to, the park or Florida Bay which are located east of the park and known as the Frog Pond, Rocky Glades Agricultural Area, and the Eight-and-One-Half Square-Mile Area.
 

@@ -28,7 +28,7 @@ Unless otherwise specified, eligible commodities shall include—
 
 #### (3) Technical assistance
 
-&emsp;The Secretary or the Commodity Credit Corporation shall provide technical advice and assistance relating to the barter of agricultural commodities to any United States exporter who requests such advice or assistance.
+&emsp;The Secretary or the Commodity Credit Corporation shall provide technical advice and assistance relating to the barter of agriculturalcommodities to any United States exporter who requests such advice or assistance.
 
 #### (d) Transfer of foreign products to other Government agencies
 

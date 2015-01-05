@@ -172,7 +172,7 @@ Marketing report.—
 
 &emsp;&emsp;(A)
 
-Report required for 10 years.—For each fiscal year beginning before fiscal year 2003, the Secretary shall submit an annual report on all marketing activities and expenses of the Fund to the Congress before the end of the 3-month period beginning at the end of such fiscal year.
+Report required for 10 years.—For each fiscal year beginning before fiscal year2003, the Secretary shall submit an annual report on all marketing activities and expenses of the Fund to the Congress before the end of the 3-month period beginning at the end of such fiscal year.
 
 &emsp;&emsp;(B)
 
@@ -214,7 +214,7 @@ Annual audits.—
 
 &emsp;&emsp;(A)
 
-Annual audits of recipients required.—Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such amount, for an annual audit, in accordance with generally accepted government auditing standards by an independent public accountant selected by the organization, of all such payments to the organization beginning in thefirst fiscal year of the organization in which any such amount is received and continuing until all amounts received by such organization from the fund <sup>1</sup> with respect to such surcharges are fully expended or placed in trust.
+Annual audits of recipients required.—Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such amount, for an annual audit, in accordance with generally accepted government auditing standards by an independent public accountant selected by the organization, of all such payments to the organization beginning in the first fiscal year of the organization in which any such amount is received and continuing until all amounts received by such organization from the fund <sup>1</sup> with respect to such surcharges are fully expended or placed in trust.
 
 &emsp;&emsp;(B)
 
@@ -248,7 +248,7 @@ Waiver of paragraph.—The Secretary of the Treasury may waive the application o
 
 &emsp;&emsp;(G)
 
-Nonapplicability to federal entities.—This paragraph shall not apply to any Federal agency or department or any independent establishment in the executive branch that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item.
+Nonapplicability to federal entities.—This paragraph shall not apply to any Federal agency or department or any independent establishment in the executivebranch that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item.
 
 &emsp;&emsp;(H)
 

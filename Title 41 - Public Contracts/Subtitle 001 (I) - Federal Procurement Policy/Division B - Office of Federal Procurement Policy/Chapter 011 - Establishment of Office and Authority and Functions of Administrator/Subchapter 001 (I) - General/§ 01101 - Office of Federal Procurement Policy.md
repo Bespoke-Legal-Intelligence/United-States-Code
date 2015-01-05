@@ -10,7 +10,7 @@ Purposes.—The purposes of the Office of Federal Procurement Policy are to—
 
 &emsp;(1) provide overall direction of Government-wide procurement policies, regulations, procedures, and forms for executive agencies; and
 
-&emsp;(2) promote economy, efficiency, and effectiveness in the procurement of property andservices by the executive branch of the Federal Government.
+&emsp;(2) promote economy, efficiency, and effectiveness in the procurement of property and services by the executive branch of the Federal Government.
 
 (c)
 

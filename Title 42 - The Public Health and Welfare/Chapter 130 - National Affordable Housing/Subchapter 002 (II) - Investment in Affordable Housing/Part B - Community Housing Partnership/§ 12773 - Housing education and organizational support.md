@@ -52,7 +52,7 @@ The Secretary shall provide this assistance only through contract—
 
 &emsp;&emsp;(B) has demonstrated experience in providing a range of assistance (such as financing, technical assistance, construction and property management assistance, capacity building and training) to community housing development organizations or similar organizations that engage in community revitalization;
 
-&emsp;&emsp;(C) has demonstrated the ability to provide technical assistance and training forcommunity-based developers of affordable housing;
+&emsp;&emsp;(C) has demonstrated the ability to provide technical assistance and training for community-based developers of affordable housing;
 
 &emsp;&emsp;(D) has described the uses to which such assistance will be put and the intended beneficiaries of the assistance; and
 
@@ -128,5 +128,5 @@ Subsec. (f). Pub. L. 102–550, §213(a)(3), added subsec. (f).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 

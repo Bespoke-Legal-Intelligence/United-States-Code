@@ -48,11 +48,11 @@
 
 #### (1) Assignment by historic peanut producers
 
-&emsp;The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) of this section for each farm of the historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
+&emsp;The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) for each farm of the historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
 
 #### (2) Limitation on acreage assignment
 
-&emsp;Notwithstanding paragraph (1), the average acreage determined under subsection (a)(2) of this section for a farm may not be assigned to a farm in a contiguous State unless—
+&emsp;Notwithstanding paragraph (1), the average acreage determined under subsection (a)(2) for a farm may not be assigned to a farm in a contiguous State unless—
 
 &emsp;&emsp;(A) the historic peanut producer making the assignment produced peanuts in that State during at least 1 of the 1998 through 2001 crop years; or
 
@@ -70,15 +70,15 @@
 
 #### (4) Assignment deadlines
 
-&emsp;Not later than March 31, 2003, an historic peanut producer shall submit to the Secretarynotice of the assignments made by the producer under this subsection. If an historic peanut producer fails to submit the notice by that date, the notice shall be submitted in such other manner as the Secretary may prescribe.
+&emsp;Not later than March 31, 2003, an historic peanut producer shall submit to the Secretary notice of the assignments made by the producer under this subsection. If an historic peanut producer fails to submit the notice by that date, the notice shall be submitted in such other manner as the Secretary may prescribe.
 
 #### (c) Payment yield
 
-The average of all of the yields assigned by historic peanut producers under subsection (b) of this section to a farm shall be considered to be the payment yield for that farm for the purpose of making direct payments and counter-cyclical payments under this subchapter.
+The average of all of the yields assigned by historic peanut producers under subsection (b) to a farm shall be considered to be the payment yield for that farm for the purpose of making direct payments and counter-cyclical payments under this subchapter.
 
 #### (d) Base acres for peanuts
 
-Subject to subsection (e) of this section, the total number of acres assigned by historic peanut producers under subsection (b) of this section to a farm shall be considered to be the farm's base acres for peanuts for the purpose of making direct payments and counter-cyclical payments under this subchapter.
+Subject to subsection (e), the total number of acres assigned by historic peanut producers under subsection (b) to a farm shall be considered to be the farm's base acres for peanuts for the purpose of making direct payments and counter-cyclical payments under this subchapter.
 
 #### (e) Treatment of conservation reserve contract acreage
 
@@ -98,13 +98,13 @@ Subject to subsection (e) of this section, the total number of acres assigned by
 
 #### (1) Required reduction
 
-&emsp;If the sum of the base acres for peanuts for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for peanuts for the farm or the base acres for 1 or more covered commodities under subchapter I of this chapter for the farm so that the sum of the base acres for peanuts and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+&emsp;If the sum of the base acres for peanuts for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for peanuts for the farm or the base acres for 1 or more covered commodities under subchapter I for the farm so that the sum of the base acres for peanuts and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
 
 #### (2) Other acreage
 
 &emsp;For purposes of paragraph (1), the Secretary shall include the following:
 
-&emsp;&emsp;(A) Any base acres for the farm under subchapter I of this chapter.
+&emsp;&emsp;(A) Any base acres for the farm under subchapter I.
 
 &emsp;&emsp;(B) Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3830 et seq.).
 

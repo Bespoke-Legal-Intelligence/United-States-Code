@@ -74,7 +74,7 @@
 
 #### (3) Refund to indemnifying bank
 
-&emsp;If a claimant bank reverses, in accordance with section 5006(e) of this title, a recredit previously made to a consumer account under section 5006(c) of this title, or otherwise receives a credit or recredit with regard to suchsubstitute check, the claimant bank shall promptly refund to any indemnifying bank any amount previously advanced by the indemnifying bank in connection with such substitute check.
+&emsp;If a claimant bank reverses, in accordance with section 5006(e) of this title, a recredit previously made to a consumer account under section 5006(c) of this title, or otherwise receives a credit or recredit with regard to such substitute check, the claimant bank shall promptly refund to any indemnifying bank any amount previously advanced by the indemnifying bank in connection with such substitute check.
 
 #### (d) Production of original check or a sufficient copy governed by section 5005(d)
 

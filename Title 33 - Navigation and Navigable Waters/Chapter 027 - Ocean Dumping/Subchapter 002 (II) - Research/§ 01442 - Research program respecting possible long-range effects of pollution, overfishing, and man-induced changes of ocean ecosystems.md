@@ -14,7 +14,7 @@
 
 &emsp;(D) the development of methodologies, techniques, and equipment for disposal of waste materials to minimize degradation of the marine environment.
 
-(3) The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for ocean pollution research and development and monitoring prepared under section 1703 <sup>1</sup> of this title.
+(3) The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for oceanpollution research and development and monitoring prepared under section 1703 <sup>1</sup> of this title.
 
 #### (b) Action with other nations
 
@@ -40,7 +40,7 @@ Section 1703 of this title, referred to in subsec. (a)(3), was repealed by Pub. 
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272, §6062(1)–(3), designated existing provisions as par. (1), substituted "in close consultation" for "in consultation", and added par. (2).
 
-Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) whichrequired the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
+Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
 
 Subsecs. (d), (e). Pub. L. 99–272, §6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 

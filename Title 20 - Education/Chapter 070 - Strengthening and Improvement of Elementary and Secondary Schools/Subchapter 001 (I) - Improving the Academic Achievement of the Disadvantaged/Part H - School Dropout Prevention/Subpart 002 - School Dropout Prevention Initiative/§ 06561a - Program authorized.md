@@ -42,7 +42,7 @@
 
 #### (3) Amount equal to or exceeds $250,000,000
 
-&emsp;If the amount appropriated under section 6553 of this title for a fiscal year equals or exceeds $250,000,000, then the Secretary shall use such amount to award a grant to each State educational agency in an amount that bears the same relation to such appropriated amount as the amount the State educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount received by all State educational agencies under such part for the preceding fiscal year, to enable the State educational agency to award subgrants under subsection (b) of this section.
+&emsp;If the amount appropriated under section 6553 of this title for a fiscal year equals or exceeds $250,000,000, then the Secretary shall use such amount to award a grant to each State educational agency in an amount that bears the same relation to such appropriated amount as the amount the State educationalagency received under part A of this subchapter for the preceding fiscal year bears to the amount received by all State educational agencies under such part for the preceding fiscal year, to enable the State educational agency to award subgrants under subsection (b) of this section.
 
 #### (b) Subgrants to local educational agencies
 

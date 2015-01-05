@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-The Secretary shall, in accordance with this section (including the agenda developed undersubsection (d)(1)(A) of this section) and within 2 months after October 24, 1992, establish a comprehensive program to—
+The Secretary shall, in accordance with this section (including the agenda developed under subsection (d)(1)(A) of this section) and within 2 months after October 24, 1992, establish a comprehensive program to—
 
 &emsp;(1) determine whether or not exposure to electric and magnetic fields produced by the generation, transmission, and use of electric energy affects human health;
 
@@ -202,7 +202,7 @@ All authority under this section shall expire on December 31, 1998.
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-This Act, referred to in subsec. (k), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+This Act, referred to in subsec. (k), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act tothe Code, see Short Title note set out under section 13201 of this title and Tables.
 
 #### Amendments
 

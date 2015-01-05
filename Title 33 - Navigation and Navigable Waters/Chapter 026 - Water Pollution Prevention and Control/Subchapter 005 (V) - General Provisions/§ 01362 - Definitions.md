@@ -12,7 +12,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (5) The term "person" means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body.
 
-(6) The term "pollutant" means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt and industrial, municipal, and agricultural waste discharged into water. This term does not mean (A) "sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces" within the meaning of section 1322 of this title; or (B) water, gas, or other material which is injected into a well to facilitate production of oil or gas,or water derived in association with oil or gas production and disposed of in a well, if the well used either to facilitate production or for disposal purposes is approved by authority of the State in which the well is located, and if such State determines that such injection or disposal will not result in the degradation of ground or surface water resources.
+(6) The term "pollutant" means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt and industrial, municipal, and agricultural waste discharged into water. This term does not mean (A) "sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces" within the meaning of section 1322 of this title; or (B) water, gas, or other material which is injected into a well to facilitate production of oil or gas, or water derived in association with oil or gas production and disposed of in a well, if the well used either to facilitate production or for disposal purposes is approved by authority of the State in which the well is located, and if such State determines that such injection or disposal will not result in the degradation of ground or surface water resources.
 
 (7) The term "navigable waters" means the waters of the United States, including the territorial seas.
 
@@ -112,9 +112,15 @@ Exclusion.—The term "recreational vessel" does not include a vessel that is su
 
 &emsp;&emsp;(ii) carries paying passengers.
 
-(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650.)
+(26)
+
+Treatment works.—The term "treatment works" has the meaning given the term in section 1292 of this title.
+
+(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650; Pub. L. 113–121, title V, §5012(b), June 10, 2014, 128 Stat. 1328.)
 
 #### Amendments
+
+<b>2014</b>—Par. (26). Pub. L. 113–121 added par. (26).
 
 <b>2008</b>—Par. (25). Pub. L. 110–288 added par. (25).
 
@@ -131,6 +137,10 @@ Exclusion.—The term "recreational vessel" does not include a vessel that is su
 Par. (14). Pub. L. 100–4, §503, inserted "agricultural stormwater discharges and" after "does not include".
 
 <b>1977</b>—Par. (14). Pub. L. 95–217 inserted provision that "point source" does not include return flows from irrigated agriculture.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5012(c) of Pub. L. 113–121, set out as a note under section 1292 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

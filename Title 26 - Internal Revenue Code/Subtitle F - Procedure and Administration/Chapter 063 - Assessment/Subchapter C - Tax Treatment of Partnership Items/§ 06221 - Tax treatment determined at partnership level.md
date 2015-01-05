@@ -10,7 +10,7 @@ Except as otherwise provided in this subchapter, the tax treatment of any partne
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XII, §1238(c), Aug. 5, 1997, 111 Stat. 1027, provided that: "The amendments made by this section \[amending this section and sections 6226 and 6230 of this title\] shall apply to partnership taxableyears ending after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XII, §1238(c), Aug. 5, 1997, 111 Stat. 1027, provided that: "The amendments made by this section \[amending this section and sections 6226 and 6230 of this title\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date
 

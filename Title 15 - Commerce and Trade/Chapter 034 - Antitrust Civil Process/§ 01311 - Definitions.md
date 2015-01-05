@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(b) The term "antitrust order" means any final order, decree, or judgment of any court of the United States, duly entered in any case or proceeding arising under any antitrust law;
 
-&emsp;(c) The term "antitrust investigation" means any inquiry conducted by any antitrustinvestigator for the purpose of ascertaining whether any person is or has been engaged in any antitrust violation or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which, if consummated, may result in an antitrust violation;
+&emsp;(c) The term "antitrust investigation" means any inquiry conducted by any antitrust investigator for the purpose of ascertaining whether any person is or has been engaged in any antitrust violation or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which, if consummated, may result in an antitrust violation;
 
 &emsp;(d) The term "antitrust violation" means any act or omission in violation of any antitrust law, any antitrust order or, with respect to the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6201 et seq.\], any of the foreign antitrust laws;
 
@@ -60,7 +60,7 @@ Subsec. (h). Pub. L. 94–435, §101(4), substituted "the custodian" for "the an
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–435, title I, §106, Sept. 30, 1976, 90 Stat. 1390, provided that: "The amendments to the Antitrust Civil Process Act \[see section 1 of Pub. L. 87–664 set out as a Short Title note under this section\] and to section 1505 of title 18, United States Code, made by this title \[title I of Pub. L. 94–435\] shall take effect on the date of enactment of this Act \[Sept. 30, 1976\], except section 3(i)(8) of the Antitrust Civil Process Act \[section 1312(i)(8) of this title\] (as amended by this Act) shall take effect on the later of (1) the date of enactment of this Act \[Sept. 30, 1976\], or (2) October 1, 1976. Any such amendment which provides for the production of documentary material, answers to interrogatories, or oral testimony shall apply to any act or practice without regard to the date on which it occurred."
+Pub. L. 94–435, title I, §106, Sept. 30, 1976, 90 Stat. 1390, provided that: "The amendments to the Antitrust Civil Process Act \[see section 1 of Pub. L. 87–664 set out as a Short Title note under this section\] and to section1505 of title 18, United States Code, made by this title \[title I of Pub. L. 94–435\] shall take effect on the date of enactment of this Act \[Sept. 30, 1976\], except section 3(i)(8) of the Antitrust Civil Process Act \[section 1312(i)(8) of this title\] (as amended by this Act) shall take effect on the later of (1) the date of enactment of this Act \[Sept. 30, 1976\], or (2) October 1, 1976. Any such amendment which provides for the production of documentary material, answers to interrogatories, or oral testimony shall apply to any act or practice without regard to the date on which it occurred."
 
 #### Short Title of 1980 Amendment
 

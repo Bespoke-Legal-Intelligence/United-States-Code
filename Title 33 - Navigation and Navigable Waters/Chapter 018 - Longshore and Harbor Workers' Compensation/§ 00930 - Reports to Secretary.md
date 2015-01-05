@@ -10,7 +10,7 @@ Additional reports in respect of such injury and of the condition of such employ
 
 #### (c) Use as evidence
 
-Any report provided for in subsection (a) or (b) of this section shall not be evidence of any factstated in such report in any proceeding in respect of such injury or death on account of which the report is made.
+Any report provided for in subsection (a) or (b) of this section shall not be evidence of any fact stated in such report in any proceeding in respect of such injury or death on account of which the report is made.
 
 #### (d) Compliance by mailing
 

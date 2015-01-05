@@ -20,9 +20,9 @@ Historical and Revision Notes
 
 5 U.S.C. 118k(d) (less 1st sentence).
 
-July 19, 1940, ch. 640, §4 “Sec. 12(d) (less 1st sentence)”, 54 Stat. 769.
+July 19, 1940, ch. 640, §4 "Sec. 12(d) (less 1st sentence)", 54 Stat. 769.
 
-In subsection (a), the word “affirmation” is omitted as included in “oath” on authority of section 1 of title 1, United States Code. The title of the court is changed to conform to title 28.
+In subsection (a), the word "affirmation" is omitted as included in "oath" on authority of section 1 of title 1, United States Code. The title of the court is changed to conform to title 28.
 
 In subsection (c), the prohibition is restated in positive form.
 
@@ -30,9 +30,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Merit Systems Protection Board” and “Board” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted "Merit Systems Protection Board" and "Board" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
 
-Subsecs. (b), (c). Pub. L. 95–454 substituted “Board” for “Commission” wherever appearing.
+Subsecs. (b), (c). Pub. L. 95–454 substituted "Board" for "Commission" wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

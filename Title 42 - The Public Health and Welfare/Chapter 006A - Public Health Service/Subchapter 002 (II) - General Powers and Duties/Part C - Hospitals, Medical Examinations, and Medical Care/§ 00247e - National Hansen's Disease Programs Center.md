@@ -18,7 +18,7 @@ The Secretary shall carry out subsections (a) and (b) of this section acting thr
 
 #### (d) Payments to Board of Health of Hawaii
 
-The Secretary shall make payments to the Board of Health of the State of Hawaii for the care and treatment (including outpatient care)in its facilities of persons suffering from Hansen's disease at a rate determined by the Secretary. The rate shall be approximately equal to the operating cost per patient of such facilities, except that the rate may not exceed the comparable costs per patient with Hansen's disease for care and treatment provided by the Center referred to in subsection (a) of this section. Payments under this subsection are subject to the availability of appropriations for such purpose.
+The Secretary shall make payments to the Board of Health of the State of Hawaii for the care and treatment (including outpatient care) in its facilities of persons suffering from Hansen's disease at a rate determined by the Secretary. The rate shall be approximately equal to the operating cost per patient of such facilities, except that the rate may not exceed the comparable costs per patient with Hansen's disease for care and treatment provided by the Center referred to in subsection (a) of this section. Payments under this subsection are subject to the availability of appropriations for such purpose.
 
 (July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; Pub. L. 86–624, §29(b), July 12, 1960, 74 Stat. 419; renumbered §339, Pub. L. 94–484, title IV, §407(b)(2), Oct. 12, 1976, 90 Stat. 2268; renumbered §320, and amended Pub. L. 95–626, title I, §105(a), Nov. 10, 1978, 92 Stat. 3560; Pub. L. 96–32, §7(b), July 10, 1979, 93 Stat. 84; Pub. L. 99–117, §2(a), Oct. 7, 1985, 99 Stat. 491; Pub. L. 105–78, title II, §211(h), Nov. 13, 1997, 111 Stat. 1494; Pub. L. 107–220, §1(a), Aug. 21, 2002, 116 Stat. 1332.)
 
@@ -78,7 +78,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 "(2) Any conveyance under paragraph (1) is not effective unless the deed or other instrument of conveyance contains the conditions specified in subsection (d); the instrument specifies that the United States and the State of Louisiana agree to such conditions; and the instrument specifies that, if the State engages in a material breach of the conditions, title to the real property and improvements involved reverts to the United States at the election of the Secretary.
 
-"(c)(1) With respect to Federal equipment and other items of Federal personal property that are in use atthe Center as of the date of the enactment of this Act \[Nov. 13, 1997\], the Secretary may, subject to paragraph (2), transfer to the State such items as the Secretary determines to be appropriate, if the Secretary makes the transfer under subsection (b).
+"(c)(1) With respect to Federal equipment and other items of Federal personal property that are in use at the Center as of the date of the enactment of this Act \[Nov. 13, 1997\], the Secretary may, subject to paragraph (2), transfer to the State such items as the Secretary determines to be appropriate, if the Secretary makes the transfer under subsection (b).
 
 "(2) A transfer of equipment or other items may be made under paragraph (1) only if the State agrees that, during the 30-year period beginning on the date on which the transfer under subsection (b) is made, the items will be used exclusively for purposes that promote the health or education of the public, except that the Secretary may authorize such exceptions as the Secretary determines to be appropriate.
 
@@ -132,7 +132,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 &emsp;"(A) If as of the date of the transfer under subsection (b) the individual is eligible for an annuity under section 8336 or 8412 of title 5, United States Code, then once the individual separates from the service and thereby becomes entitled to receive the annuity, the pay differential shall be included in the computation of the annuity if the individual separated from the service not later than the expiration of the 90-day period beginning on the date of the transfer.
 
-&emsp;"(B) If the individual is not eligible for such an annuity as of the date of the transfer under subsection\(b) but subsequently does become eligible, then once the individual separates from the service and thereby becomes entitled to receive the annuity, the pay differential shall be included in the computation of the annuity if the individual separated from the service not later than the expiration of the 90-day period beginning on the date on which the individual first became eligible for the annuity.
+&emsp;"(B) If the individual is not eligible for such an annuity as of the date of the transfer under subsection (b) but subsequently does become eligible, then once the individual separates from the service and thereby becomes entitled to receive the annuity, the pay differential shall be included in the computation of the annuity if the individual separated from the service not later than the expiration of the 90-day period beginning on the date on which the individual first became eligible for the annuity.
 
 &emsp;"(C) For purposes of this paragraph, the individual is eligible for the annuity if the individual meets all conditions under such section 8336 or 8412 to be entitled to the annuity, except the condition that the individual be separated from the service.
 
@@ -142,7 +142,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 &emsp;"(B) During calendar year 1997, any payment under subparagraph (A) shall be made under section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208) \[5 U.S.C. 5597 note\], except that, for purposes of this subparagraph, subsection (b) of such section 663 does not apply.
 
-&emsp;"(C) During calendar year 1998, such section 663 applies with respect to payments under subparagraph (A) to the same extent and in the same manner as such section applied with respect to the payments during fiscal year 1997, and for purposes of this subparagraph, the reference in subsection (c)(2)(D) of such section 663 to December 31, 1997, is deemed to be a reference to December 31, 1998.
+&emsp;"(C) During calendar year 1998, such section 663 applies with respect to payments under subparagraph (A) to the same extent and in the same manner as such section applied with respect to the paymentsduring fiscal year 1997, and for purposes of this subparagraph, the reference in subsection (c)(2)(D) of such section 663 to December 31, 1997, is deemed to be a reference to December 31, 1998.
 
 "(f) The following provisions apply if under subsection (a) the Secretary makes the decision to relocate the Center:
 

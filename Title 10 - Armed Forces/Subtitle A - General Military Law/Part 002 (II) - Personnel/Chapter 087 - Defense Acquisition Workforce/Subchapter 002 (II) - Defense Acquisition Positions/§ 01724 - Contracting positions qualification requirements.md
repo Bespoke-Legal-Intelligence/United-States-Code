@@ -2,7 +2,7 @@
 
 (a)
 
-Contracting Officers.—The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contractingofficer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
+Contracting Officers.—The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
 
 &emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
 
@@ -58,7 +58,7 @@ Contingency Contracting Force.—The Secretary shall establish qualification req
 
 &emsp;(2) passing an examination that demonstrates skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours or the equivalent of study in any of the disciplines described in paragraph (1).
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97;Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183; Pub. L. 108–136, div. A, title VIII, §831(b)(1), Nov. 24, 2003, 117 Stat. 1549; Pub. L. 108–375, div. A, title X, §1084(d)(14), (h)(1), Oct. 28, 2004, 118 Stat. 2062, 2064.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97; Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183; Pub. L. 108–136, div. A, title VIII, §831(b)(1), Nov. 24, 2003, 117 Stat. 1549; Pub. L. 108–375, div. A, title X, §1084(d)(14), (h)(1), Oct. 28, 2004, 118 Stat. 2062, 2064.)
 
 #### References in Text
 

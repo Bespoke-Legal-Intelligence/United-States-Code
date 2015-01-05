@@ -52,7 +52,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery, including its economic impact, and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors;
 
-&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector, any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery and; <sup>3</sup>
+&emsp;(14) to the extent that rebuilding plans or other conservation and management measureswhich reduce the overall harvest in a fishery are necessary, allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector, any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery and; <sup>3</sup>
 
 &emsp;(15) establish a mechanism for specifying annual catch limits in the plan (including a multiyear plan), implementing regulations, or annual specifications, at a level such that overfishing does not occur in the fishery, including measures to ensure accountability.
 
@@ -270,7 +270,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Exceptions to Subsection (d)(1) and Section 1883 Plan Restrictions
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: "Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended by this section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: "Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended bythis section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
 
 &emsp;"(1) allows the use of more than one groundfish fishing permit by each fishing vessel; and/or
 

@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, no employer shall be subje
 
 &emsp;(2) activities which are preliminary to or postliminary to said principal activity or activities,
 
-> which occur either prior to the time on any particular workday at which such employee commences, or subsequent to the time on any particular workday at which he ceases, such principal activity or activities. For purposes of this subsection, the use of an employer's vehicle for travel by an employee and activities performed by an employee which are incidental to the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative of such employee.
+> which occur either prior to the time on any particular workday at which such employee commences, or subsequent to the time on any particular workday at which he ceases, such principal activity or activities. For purposes of this subsection, the use of an employer's vehicle fortravel by an employee and activities performed by an employee which are incidental to the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative of such employee.
 
 #### (b) Compensability by contract or custom
 
@@ -36,7 +36,7 @@ The Walsh-Healey and Bacon-Davis Acts, referred to in subsecs. (a) and (d), are 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–188 in closing provisions inserted at end "For purposes of this subsection, theuse of an employer's vehicle for travel by an employee and activities performed by an employee which are incidental to the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative of such employee."
+<b>1996</b>—Subsec. (a). Pub. L. 104–188 in closing provisions inserted at end "For purposes of this subsection, the use of an employer's vehicle for travel by an employee and activities performed by an employee which are incidental to the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative of such employee."
 
 #### Effective Date of 1996 Amendment
 

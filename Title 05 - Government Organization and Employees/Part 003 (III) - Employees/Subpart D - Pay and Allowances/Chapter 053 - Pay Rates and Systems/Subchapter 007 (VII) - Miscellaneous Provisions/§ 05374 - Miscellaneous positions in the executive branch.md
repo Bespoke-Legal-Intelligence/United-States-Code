@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Aug. 14, 1964, Pub. L. 88–426, §309, 78 Stat. 433.
 
-The word “office” is omitted as included in “position”. The words “before August 14, 1964” are substituted for “prior to the date of enactment of this Act”. The words “pursuant to section 303 of this Act” are omitted as surplusage.
+The word "office" is omitted as included in "position". The words "before August 14, 1964" are substituted for "prior to the date of enactment of this Act". The words "pursuant to section 303 of this Act" are omitted as surplusage.
 
 Standard changes are made to conform to the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -28,7 +28,7 @@ Section 305 of the Government Employees Salary Reform Act of 1964, referred to i
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
 #### Effective Date of 1978 Amendment
 

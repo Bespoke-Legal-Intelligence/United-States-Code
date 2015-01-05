@@ -20,7 +20,7 @@ Consultation.—In establishing and implementing the Northwest Fisheries Reinves
 
 (3)
 
-Activities Under Program.—Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection <sup>1</sup> (1), under the terms and conditions provided in section 713c–3(c) of title 15, except that, in making awards under this section for projects involving participation in fisheries for underutilized species, the Secretary shall give the highest priority to a person who owns or operates a fishingvessel permitted under this chapter to participate in the New England groundfish fishery who agrees to surrender that permit to the Secretary during the duration of the contract, grant or other assistance.
+Activities Under Program.—Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection <sup>1</sup> (1), under the terms and conditions provided in section 713c–3(c) of title 15, except that, in making awards under this section for projects involving participation in fisheries for underutilized species, the Secretary shall give the highest priority to a person who owns or operates a fishing vessel permitted under this chapter to participate in the New England groundfish fishery who agrees to surrender that permit to the Secretary during the duration of the contract, grant or other assistance.
 
 (4)
 
@@ -36,7 +36,7 @@ The New England Fishery Management Council, in consultation with other appropria
 
 #### (d) "Underutilized species" defined
 
-For purposes of this section, the term "underutilized species of the northwest Atlantic Ocean" means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
+For purposes of this section, the term "underutilized species of the northwest AtlanticOcean" means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
 
 (Pub. L. 94–265, title III, §314, as added Pub. L. 102–567, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4317; amended Pub. L. 104–297, title I, §117(b), Oct. 11, 1996, 110 Stat. 3604.)
 

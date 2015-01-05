@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall use amounts reserved in section 9903(b)(2) of this title—
 
-&emsp;&emsp;(A) for training, technical assistance, planning, evaluation, and performance measurement, to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligibleentities), and for reporting and data collection activities, related to programs carried out under this chapter; and
+&emsp;&emsp;(A) for training, technical assistance, planning, evaluation, and performance measurement, to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligible entities), and for reporting and data collection activities, related to programs carried out under this chapter; and
 
 &emsp;&emsp;(B) to distribute amounts in accordance with subsection (c) of this section.
 

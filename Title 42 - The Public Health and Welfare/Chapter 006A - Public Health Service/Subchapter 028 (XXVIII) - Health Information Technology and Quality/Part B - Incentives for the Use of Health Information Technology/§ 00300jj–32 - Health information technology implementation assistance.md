@@ -30,7 +30,7 @@ To assist health care providers to adopt, implement, and effectively use certifi
 
 &emsp;&emsp;(C) assemble, analyze, and widely disseminate evidence and experience related to the adoption, implementation, and effective use of health information technology that allows for the electronic exchange and use of information including through the regional centers described in subsection (c);
 
-&emsp;&emsp;(D) provide technical assistance for the establishment and evaluation of regional andlocal health information networks to facilitate the electronic exchange of information across health care settings and improve the quality of health care;
+&emsp;&emsp;(D) provide technical assistance for the establishment and evaluation of regional and local health information networks to facilitate the electronic exchange of information across health care settings and improve the quality of health care;
 
 &emsp;&emsp;(E) provide technical assistance for the development and dissemination of solutions to barriers to the exchange of electronic health information; and
 

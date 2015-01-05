@@ -38,7 +38,7 @@
 
 #### (b) Eligibility
 
-To be eligible to receive a subgrant under this subpart, a local educational agency desiring a subgrant shall submit an application to theState educational agency in accordance with subsection (d) of this section. Such an application shall be amended, as necessary, to reflect changes in the activities and programs of the local educational agency.
+To be eligible to receive a subgrant under this subpart, a local educational agency desiring a subgrant shall submit an application to the State educational agency in accordance with subsection (d) of this section. Such an application shall be amended, as necessary, to reflect changes in the activities and programs of the local educational agency.
 
 #### (c) Development
 
@@ -114,7 +114,7 @@ An application submitted by a local educational agency under this section shall 
 
 &emsp;(8) an assurance that the application and any waiver request under section 7115(a)(3) of this title will be available for public review after submission of the application; and
 
-&emsp;(9) such other assurances, goals, and objectives identified through scientifically basedresearch that the State may reasonably require in accordance with the purpose of this part.
+&emsp;(9) such other assurances, goals, and objectives identified through scientifically based research that the State may reasonably require in accordance with the purpose of this part.
 
 #### (e) Review of application
 
@@ -138,7 +138,7 @@ An application submitted by a local educational agency under this section shall 
 
 #### (3) Notification
 
-&emsp;If the State educational agency finds that the application is not in compliance, in whole or in part, with this subpart, the State educational agency shall—
+&emsp;If the State educational agency finds that the application is not in compliance, in wholeor in part, with this subpart, the State educational agency shall—
 
 &emsp;&emsp;(A) give the local educational agency notice and an opportunity for a hearing; and
 

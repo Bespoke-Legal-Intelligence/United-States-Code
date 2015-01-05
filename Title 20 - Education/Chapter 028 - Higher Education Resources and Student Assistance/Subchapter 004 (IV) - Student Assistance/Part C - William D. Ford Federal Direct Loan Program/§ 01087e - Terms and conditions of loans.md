@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
 
-&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
+&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2)of this title) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
 
 #### (B) Exception
 
@@ -112,7 +112,7 @@
 
 #### (B) In school and grace period rules
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
@@ -152,7 +152,7 @@
 
 #### (C) PLUS loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to FederalDirect PLUS Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under subparagraph (A)—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to Federal Direct PLUS Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) by substituting "3.1 percent" for "2.3 percent"; and
 
@@ -228,7 +228,7 @@
 
 #### (C) PLUS loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct PLUSLoans, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct PLUS Loans, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 4.6 percent; or
 
@@ -254,7 +254,7 @@
 
 #### (B) Accountability
 
-&emsp;&emsp;Prior to publishing regulations proposing repayment incentives with respect to loans for which the first disbursement of principal is made before July 1, 2012, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the authorizing committees not less than 60 days prior to the publication of regulations proposing such reductions.
+&emsp;&emsp;Prior to publishing regulations proposing repayment incentives with respect to loans for which the first disbursement of principal is made before July 1, 2012, the Secretaryshall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the authorizing committees not less than 60 days prior to the publication of regulations proposing such reductions.
 
 #### (C) No repayment incentives for new loans disbursed on or after July 1, 2012
 
@@ -444,7 +444,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (2) Payments and refunds
 
-&emsp;Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of this subchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
+&emsp;Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of thissubchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
 
 #### (3) Transaction histories
 
@@ -516,7 +516,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (2) Consolidation loans
 
-&emsp;In the case of any consolidation loan made under this part that is disbursed on or after October 1, 2008, interest shall not accrue pursuant to this subsection only on such portion of such loan as was used to repay a loan made under this part for which the first disbursement is made on or after October 1, 2008.
+&emsp;In the case of any consolidation loan made under this part that is disbursed on or afterOctober 1, 2008, interest shall not accrue pursuant to this subsection only on such portion of such loan as was used to repay a loan made under this part for which the first disbursement is made on or after October 1, 2008.
 
 #### (3) Eligible military borrower
 
@@ -720,7 +720,7 @@ Amendment by Pub. L. 107–314 applicable with respect to interest, and any spec
 
 #### Effective Date of 1998 Amendment
 
-Amendment by sections 401(g)(6) and 452(b), (c) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwiseprovided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+Amendment by sections 401(g)(6) and 452(b), (c) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 Pub. L. 105–244, title IV, §452(d), Oct. 7, 1998, 112 Stat. 1717, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to any loan made under part D of title IV of the Higher Education Act of 1965 \[this part\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to a Federal Direct Consolidation Loan for which the application is received on or after October 1, 1998, and before July 1, 2003."
 

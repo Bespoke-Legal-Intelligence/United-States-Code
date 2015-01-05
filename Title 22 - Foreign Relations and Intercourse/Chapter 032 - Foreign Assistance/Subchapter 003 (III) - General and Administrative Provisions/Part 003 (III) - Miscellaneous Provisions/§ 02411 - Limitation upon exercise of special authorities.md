@@ -2,7 +2,7 @@
 
 The President shall not exercise any special authority granted to him under section 2318(a), 2348a(c)(2), or 2360(a) of this title unless the President, before he intends to exercise any such authority, notifies the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate in writing of each such intended exercise, the section of this chapter under which such authority is to be exercised, and the justification for, and the extent of, the exercise of such authority.
 
-(Pub. L. 87–195, pt. III, §652, as added Pub. L. 91–652, §8, Jan. 5, 1971, 84 Stat. 1943; amended Pub. L. 92–226, pt. III, §304(a)(1), Feb. 7, 1972, 86 Stat. 28; Pub. L. 96–533, title I, §117(b), Dec. 16, 1980, 94 Stat. 3141; Pub. L. 99–83, title I, §105(b)(2), Aug. 8, 1985, 99 Stat. 196; Pub. L. 104–164, title I, §103(c), July 21, 1996, 110 Stat. 1424.)
+(Pub. L. 87–195, pt. III, §652, as added Pub. L. 91–652, §8, Jan. 5, 1971, 84 Stat. 1943; amendedPub. L. 92–226, pt. III, §304(a)(1), Feb. 7, 1972, 86 Stat. 28; Pub. L. 96–533, title I, §117(b), Dec. 16, 1980, 94 Stat. 3141; Pub. L. 99–83, title I, §105(b)(2), Aug. 8, 1985, 99 Stat. 196; Pub. L. 104–164, title I, §103(c), July 21, 1996, 110 Stat. 1424.)
 
 #### References in Text
 

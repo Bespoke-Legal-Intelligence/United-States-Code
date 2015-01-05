@@ -30,5 +30,5 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 #### Savings Provisions
 
-Provisions of 35 U.S.C. 291, as in effect on the day before the expiration of the 18-month period beginning on Sept. 16, 2011, apply to each claim of certain applications for patent, and certain patents issued thereon, for which the amendments made by section 3 of Pub. L. 112–29 also apply, see section 3(n)(2) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+Provisions of 35 U.S.C. 291, as in effect on the day before the expiration of the 18-month period beginning onSept. 16, 2011, apply to each claim of certain applications for patent, and certain patents issued thereon, for which the amendments made by section 3 of Pub. L. 112–29 also apply, see section 3(n)(2) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 

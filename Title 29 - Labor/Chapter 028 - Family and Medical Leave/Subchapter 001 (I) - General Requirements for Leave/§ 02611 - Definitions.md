@@ -54,7 +54,7 @@ As used in this subchapter:
 
 #### (3) Employ; employee; State
 
-&emsp;The terms "employ", "employee", and "State" have the same meanings given suchterms in subsections (c), (e), and (g) of section 203 of this title.
+&emsp;The terms "employ", "employee", and "State" have the same meanings given such terms in subsections (c), (e), and (g) of section 203 of this title.
 
 #### (4) Employer
 
@@ -158,7 +158,7 @@ As used in this subchapter:
 
 &emsp;The term "serious injury or illness"—
 
-&emsp;&emsp;(A) in the case of a member of the Armed Forces (including a member of the NationalGuard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating; and
+&emsp;&emsp;(A) in the case of a member of the Armed Forces (including a member of the National Guard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating; and
 
 &emsp;&emsp;(B) in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (15)(B), means a qualifying (as defined by the Secretary of Labor) injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that manifested itself before or after the member became a veteran.
 

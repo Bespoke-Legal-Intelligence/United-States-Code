@@ -80,7 +80,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an urban and community forestry challenge cost-share program. Funds or other support shall be provided under such program to eligible communities and organizations, on a competitive basis, for urban and community forestry projects. The Secretary shall annually make awards under the program in accordance with criteria developed in consultation with, and after consideration of recommendations received from, the National Urban and Community Forestry Advisory Council established under subsection (g) of this section. Each State forester or equivalent State official may make recommendations to the Secretary for awards under the program for project proposals in their State which meet such criteria. Awards shall be consistent with the cost-share requirements of this section.
+&emsp;The Secretary shall establish an urban and community forestry challenge cost-share program. Funds or other support shall be provided under such program to eligible communities and organizations, on a competitive basis, forurban and community forestry projects. The Secretary shall annually make awards under the program in accordance with criteria developed in consultation with, and after consideration of recommendations received from, the National Urban and Community Forestry Advisory Council established under subsection (g) of this section. Each State forester or equivalent State official may make recommendations to the Secretary for awards under the program for project proposals in their State which meet such criteria. Awards shall be consistent with the cost-share requirements of this section.
 
 #### (2) Cost-sharing
 

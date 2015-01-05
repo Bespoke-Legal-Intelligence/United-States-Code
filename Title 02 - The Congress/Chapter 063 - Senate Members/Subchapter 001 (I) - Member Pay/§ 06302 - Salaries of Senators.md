@@ -1,8 +1,8 @@
 ### §6302. Salaries of Senators
 
-Salaries of Senators appointed to fill vacancies in the Senate shall commence on the day of their appointment and continue until their successors are elected and qualified: <i>Provided</i>, That when Senators have been elected during a sine die adjournment of the Senate to succeed appointees, the salaries of Senators so elected shall commence on the day following their election.
+Salaries of Senators appointed to fill vacancies in the Senate shall commence on the day oftheir appointment and continue until their successors are elected and qualified: <i>Provided</i>, That when Senators have been elected during a sine die adjournment of the Senate to succeed appointees, the salaries of Senators so elected shall commence on the day following their election.
 
-Salaries of Senators elected during a session to succeed appointees shall commence on the day they qualify: <i>Provided</i>, That when Senators have been elected during a session to succeed appointees, but have not qualified, the salaries of Senators so elected shall commence on the dayfollowing the sine die adjournment of the Senate.
+Salaries of Senators elected during a session to succeed appointees shall commence on the day they qualify: <i>Provided</i>, That when Senators have been elected during a session to succeed appointees, but have not qualified, the salaries of Senators so elected shall commence on the day following the sine die adjournment of the Senate.
 
 When no appointments have been made the salaries of Senators elected to fill such vacancies shall commence on the day following their election.
 
@@ -24,9 +24,9 @@ R.S. §51.
 
 <b>1934</b>—Act June 19, 1934, made nonsubstantive changes in grammar and punctuation.
 
-<b>1931</b>—Act Feb. 6, 1931, made nonsubstantive changes in grammar and punctuation and struck out “to fill such vacancies” after “When no appointments have been made”.
+<b>1931</b>—Act Feb. 6, 1931, made nonsubstantive changes in grammar and punctuation and struck out "to fill such vacancies" after "When no appointments have been made".
 
 #### Constitutional Provisions
 
-The first section of amendment XX to the Constitution provides in part: “\* \* \* the terms of Senators and Representatives \[shall end\] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”
+The first section of amendment XX to the Constitution provides in part: "\* \* \* the terms of Senators and Representatives \[shall end\] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin."
 

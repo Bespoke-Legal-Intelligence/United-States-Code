@@ -16,10 +16,13 @@
 | [2249b.](%C2%A7%2002249b%20-%20Display%20of%20State%2C%20District%20of%20Columbia%2C%20commonwealth%2C%20and%20territorial%20flags%20by%20the%20armed%20forces.md) | Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces. |
 | [2249c.](%C2%A7%2002249c%20-%20Regional%20Defense%20Combating%20Terrorism%20Fellowship%20Program%20authority%20to%20use%20appropriated%20funds%20for%20costs%20associated%20with%20education%20and%E2%80%A6.md) | Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials. |
 | [2249d.](%C2%A7%2002249d%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md) | Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces. |
+| [2249e.](%C2%A7%2002249e%20-%20Prohibition%20on%20use%20of%20funds%20for%20assistance%20to%20units%20of%20foreign%20security%20forces%20that%20have%20committed%20a%20gross%20violation%20of%20human%20rights.md) | Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title XII, §1204(a)(2), Dec. 19, 2014, 128 Stat. 3533, added item 2249e.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §588(b)(2), Jan. 2, 2013, 126 Stat. 1769, substituted "Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces." for "Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display." in item 2249b.
 
@@ -76,3 +79,4 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 - [&sect; 02249b - Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces](%C2%A7%2002249b%20-%20Display%20of%20State%2C%20District%20of%20Columbia%2C%20commonwealth%2C%20and%20territorial%20flags%20by%20the%20armed%20forces.md)
 - [&sect; 02249c - Regional Defense Combating Terrorism Fellowship Program authority to use appropriated funds for costs associated with education and&#8230;](%C2%A7%2002249c%20-%20Regional%20Defense%20Combating%20Terrorism%20Fellowship%20Program%20authority%20to%20use%20appropriated%20funds%20for%20costs%20associated%20with%20education%20and%E2%80%A6.md)
 - [&sect; 02249d - Distribution to certain foreign personnel of education and training materials and information technology to enhance military&#8230;](%C2%A7%2002249d%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md)
+- [&sect; 02249e - Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights](%C2%A7%2002249e%20-%20Prohibition%20on%20use%20of%20funds%20for%20assistance%20to%20units%20of%20foreign%20security%20forces%20that%20have%20committed%20a%20gross%20violation%20of%20human%20rights.md)

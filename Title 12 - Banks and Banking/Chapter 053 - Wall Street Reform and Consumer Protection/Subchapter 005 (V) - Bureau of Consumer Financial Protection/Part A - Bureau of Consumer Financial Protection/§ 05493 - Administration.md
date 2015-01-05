@@ -30,7 +30,7 @@
 
 #### (2) Compensation
 
-&emsp;Notwithstanding any otherwise applicable provision of title 5 concerning compensation, including the provisions of chapter 51 and chapter 53, the following provisions shallapply with respect to employees of the Bureau:
+&emsp;Notwithstanding any otherwise applicable provision of title 5 concerning compensation, including the provisions of chapter 51 and chapter 53, the following provisions shall apply with respect to employees of the Bureau:
 
 &emsp;&emsp;(A) The rates of basic pay for all employees of the Bureau may be set and adjusted by the Director.
 

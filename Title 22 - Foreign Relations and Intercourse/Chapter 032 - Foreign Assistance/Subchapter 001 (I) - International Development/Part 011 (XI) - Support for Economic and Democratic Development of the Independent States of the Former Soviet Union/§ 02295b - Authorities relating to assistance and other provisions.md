@@ -52,13 +52,13 @@ Funds made available for assistance under this part may be used for procurement�
 
 #### (i) Terms and conditions
 
-Assistance under this part shall be provided on such terms and conditions as the President may determine, consistent with applicable provisions of law (except as otherwise provided in subsection (j) of this section).
+Assistance under this part shall be provided on such terms and conditions as the President may determine, consistent with applicable provisions of law (except as otherwise provided in subsection (j)).
 
 #### (j) Waiver of certain provisions
 
 #### (1) In general
 
-&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistance under this part notwithstanding any other provision of law, except for—
+&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g), may be used to provide assistance under thispart notwithstanding any other provision of law, except for—
 
 &emsp;&emsp;(A) this part;
 
@@ -90,7 +90,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;&emsp;(B) imports from the Cuban Government at preferential tariff rates;
 
-&emsp;&emsp;(C) exchange arrangements that include advance delivery of commodities, arrangements in which the Cuban Government is not held accountable for unfulfilled exchange contracts, and arrangements underwhich Cuba does not pay appropriate transportation, insurance, or finance costs; and
+&emsp;&emsp;(C) exchange arrangements that include advance delivery of commodities, arrangements in which the Cuban Government is not held accountable for unfulfilled exchange contracts, and arrangements under which Cuba does not pay appropriate transportation, insurance, or finance costs; and
 
 &emsp;&emsp;(D) the exchange, reduction, or forgiveness of debt of the Cuban Government in return for a grant by the Cuban Government of an equity interest in a property, investment, or operation of the Cuban Government or of a Cuban national.
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 Functions of President under subsecs. (c) and (g) of this section delegated to Coordinator by section 2(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 

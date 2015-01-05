@@ -18,7 +18,7 @@ Availability of Compensation.—(1) If the Secretary decides that basic essentia
 
 &emsp;(B) the contractual and marketing arrangements the applicant has made with a larger carrier to ensure service beyond the hub airport;
 
-&emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at thehub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
+&emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at the hub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
 
 &emsp;(D) the preferences of the actual and potential users of air transportation at the eligible place, giving substantial weight to the views of the elected officials representing the users;
 
@@ -26,7 +26,7 @@ Availability of Compensation.—(1) If the Secretary decides that basic essentia
 
 &emsp;(F) for an eligible place in Alaska, the experience of the applicant in providing, in Alaska, scheduled air service, or significant patterns of non-scheduled air service under an exemption granted under section 40109(a) and (c)–(h) of this title.
 
-(2) Under guidelines prescribed under section 41737(a) of this title, the Secretary shall pay the rate of compensation for providing basic essential air service under this section and section 41734 of this title.
+(2) Under guidelines prescribed under section 41737(a) of this title, the Secretary shall pay therate of compensation for providing basic essential air service under this section and section 41734 of this title.
 
 (d)
 
@@ -120,7 +120,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(1), (3), (4), (9); added
 
 49 App.:1389(b)(1)(D).
 
-In subsection (a), the words "the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place" are substituted for "Such determination shall bemade" because the determinations for those places have been made. The words "by not later than December 29, 1988" are substituted for "no later than the last day of the 1-year period beginning on December 30, 1987" for clarity. The words "and only after consideration of the views of any interested community and the State agency of the State in which such community is located" and 49 App.:1389(b)(1)(C) are omitted as executed.
+In subsection (a), the words "the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place" are substituted for "Such determination shall be made" because the determinations for those places have been made. The words "by not later than December 29, 1988" are substituted for "no later than the last day of the 1-year period beginning on December 30, 1987" for clarity. The words "and only after consideration of the views of any interested community and the State agency of the State in which such community is located" and 49 App.:1389(b)(1)(C) are omitted as executed.
 
 In subsections (b)(1) and (e), the words "appropriate State authority" are substituted for "State agency" for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
 

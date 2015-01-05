@@ -1,6 +1,6 @@
 ### §1484. Interpretation and administration; other right, duty, privilege, or immunity and other remedy unaffected
 
-This chapter shall be interpreted and administered in a manner consistent with the convention, the protocol, and other international law.Except as specifically provided, nothing in this chapter may be interpreted to prejudice any otherwise applicable right, duty, privilege, or immunity or deprive any country or person of any remedy otherwise applicable.
+This chapter shall be interpreted and administered in a manner consistent with the convention, the protocol, and other international law. Except as specifically provided, nothing in this chapter may be interpreted to prejudice any otherwise applicable right, duty, privilege, or immunity or deprive any country or person of any remedy otherwise applicable.
 
 (Pub. L. 93–248, §15, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, §1(6), June 26, 1978, 92 Stat. 345.)
 

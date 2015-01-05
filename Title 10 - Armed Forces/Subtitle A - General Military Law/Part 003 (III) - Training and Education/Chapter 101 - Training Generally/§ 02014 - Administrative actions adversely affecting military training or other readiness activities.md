@@ -42,7 +42,7 @@ Limitation on Delegation of Authority.—The head of an Executive agency may not
 
 Definition.—In this section, the term "Executive agency" has the meaning given such term in section 105 of title 5, except that the term does not include the Government Accountability Office.
 
-(Added Pub. L. 105–85, div. A, title III, §325(a), Nov. 18, 1997, 111 Stat. 1678; amended Pub. L.106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(c)(3), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 105–85, div. A, title III, §325(a), Nov. 18, 1997, 111 Stat. 1678; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(c)(3), Oct. 28, 2004, 118 Stat. 2061.)
 
 #### Amendments
 

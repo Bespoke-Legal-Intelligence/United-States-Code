@@ -2,7 +2,7 @@
 
 (a)(1) A bankruptcy judge or a United States magistrate judge appointed under chapter 43 of this title, who has retired under the provisions of section 377 of this title or under the applicable provisions of title 5 upon attaining the age and years of service requirements established in section 371(c) of this title, may agree to be recalled to serve under this section for a period of five years as a bankruptcy judge or magistrate judge, as the case may be, upon certification that substantial service is expected to be performed by such retired judge or magistrate judge during such 5-year period. With the agreement of the judge or magistrate judge involved, a certification under this subsection may be renewed for successive 5-year periods.
 
-(2) For purposes of paragraph (1) of this subsection, a certification may be made, in the case of a bankruptcy judge or a United States magistrate,<sup>1</sup> by the judicial council of the circuit inwhich the official duty station of the judge or magistrate at the time of retirement was located.
+(2) For purposes of paragraph (1) of this subsection, a certification may be made, in the case of a bankruptcy judge or a United States magistrate,<sup>1</sup> by the judicial council of the circuit in which the official duty station of the judge or magistrate at the time of retirement was located.
 
 (3) For purposes of this section, the term "bankruptcy judge" means a bankruptcy judge appointed under chapter 6 of this title or serving as a bankruptcy judge on March 31, 1984.
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of this title.
+Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistratejudges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of this title.
 
 #### Effective Date
 

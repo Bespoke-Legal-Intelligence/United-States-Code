@@ -62,7 +62,7 @@ Considerations.—In developing the regulations, the Secretary shall consider sa
 
 &emsp;(3)
 
-Completion of testing.—The Secretary, in consultation with the Chairman of the Federal Energy Regulatory Commission and State regulators, as appropriate, shall establishtimeframes for the completion of such testing that take into account potential consequences to public safety and the environment and that minimize costs and service disruptions.
+Completion of testing.—The Secretary, in consultation with the Chairman of the Federal Energy Regulatory Commission and State regulators, as appropriate, shall establish timeframes for the completion of such testing that take into account potential consequences to public safety and the environment and that minimize costs and service disruptions.
 
 (e)
 

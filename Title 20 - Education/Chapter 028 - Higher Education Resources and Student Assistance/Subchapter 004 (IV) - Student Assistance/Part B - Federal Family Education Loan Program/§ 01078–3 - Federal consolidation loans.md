@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(F) that the lender shall disclose to a prospective borrower, in simple and understandable terms, at the time the lender provides an application for a consolidation loan—
 
-&emsp;&emsp;&emsp;(i) whether consolidation would result in a loss of loan benefits under this part orpart C, including loan forgiveness, cancellation, and deferment;
+&emsp;&emsp;&emsp;(i) whether consolidation would result in a loss of loan benefits under this part or part C, including loan forgiveness, cancellation, and deferment;
 
 &emsp;&emsp;&emsp;(ii) with respect to Federal Perkins Loans under part D—
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(B) provides for the payment of interest and the repayment of principal in accordance with subsection (c) of this section;
 
-&emsp;&emsp;(C)(i) provides that periodic installments of principal need not be paid, but interest shall accrue and be paid in accordance with clause (ii), during any period for which the borrower would be eligible for a deferral under section 1078(b)(1)(M) of this title, andthat any such period shall not be included in determining the repayment schedule pursuant to subsection (c)(2) of this section; and
+&emsp;&emsp;(C)(i) provides that periodic installments of principal need not be paid, but interest shall accrue and be paid in accordance with clause (ii), during any period for which the borrower would be eligible for a deferral under section 1078(b)(1)(M) of this title, and that any such period shall not be included in determining the repayment schedule pursuant to subsection (c)(2) of this section; and
 
 &emsp;&emsp;(ii) provides that interest shall accrue and be paid during any such period—
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;(ii) is equal to or greater than $7,500 but less than $10,000, then such consolidation loan shall be repaid in not more than 12 years;
 
-&emsp;&emsp;(iii) is equal to or greater than $10,000 but less than $20,000, then such consolidation loan shall be repaid in not more than 15 years;
+&emsp;&emsp;(iii) is equal to or greater than $10,000 but less than $20,000, then such consolidationloan shall be repaid in not more than 15 years;
 
 &emsp;&emsp;(iv) is equal to or greater than $20,000 but less than $40,000, then such consolidation loan shall be repaid in not more than 20 years;
 
@@ -264,7 +264,7 @@
 
 #### (C) Publication of maximum interest rate
 
-&emsp;&emsp;The Secretary shall determine the applicable rate of interest under subparagraph (B)after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of such determination.
+&emsp;&emsp;The Secretary shall determine the applicable rate of interest under subparagraph (B) after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of such determination.
 
 #### (3) Special rules
 
@@ -402,7 +402,7 @@ Subsec. (e). Pub. L. 109–171, §8004(b)(3), substituted "2012" for "2004".
 
 Subsec. (a)(4)(C). Pub. L. 105–244, §420(b), added subpar. (C) and struck out former subpar. (C) which read as follows: "made under part C of this subchapter, except that loans made under such part shall be eligible student loans only for consolidation loans for which the application is received by an eligible lender during the period beginning on November 13, 1997, and ending on October 1, 1998;".
 
-Subsec. (b)(1)(A)(i). Pub. L. 105–244, §420(c)(1), inserted "except that this clause shall not apply in the case of a borrower with multiple holders of loans under this part," after "under this section,".
+Subsec. (b)(1)(A)(i). Pub. L. 105–244, §420(c)(1), inserted "except that this clause shall not apply in the case ofa borrower with multiple holders of loans under this part," after "under this section,".
 
 Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted "during any such period" after "and be paid" in introductory provisions and struck out ", or on or after October 1, 1998," before "that consolidated" in subcl. (I) and "and before October 1, 1998," before "except that" in subcl. (II).
 
@@ -464,7 +464,7 @@ Subsec. (c)(2)(A). Pub. L. 103–208, §2(c)(36), inserted period at end of cl. 
 
 Pub. L. 103–66, §4046(a)(3)(B)(i), in introductory provisions substituted "income-sensitive repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms" for "income sensitive repayment schedules. Such repayment terms", added cl. (i), and redesignated former cls. (i) to (v) as (ii) to (vi), respectively.
 
-Subsec. (c)(2)(B), (C). Pub. L. 103–66, §4046(a)(3)(B)(ii), (iii), redesignated subpar. (C) as (B) and struck outformer subpar. (B) which read as follows: "Unless a consolidation loan under subparagraph (A)(ii) will be used to discharge at least $5,000 of loans made under this part, such loan shall be repaid in accordance with subparagraph (A)(i)."
+Subsec. (c)(2)(B), (C). Pub. L. 103–66, §4046(a)(3)(B)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "Unless a consolidation loan under subparagraph (A)(ii) will be used to discharge at least $5,000 of loans made under this part, such loan shall be repaid in accordance with subparagraph (A)(i)."
 
 Subsec. (c)(3)(A). Pub. L. 103–208, §2(c)(37), inserted "be an amount" before "equal to".
 
@@ -478,7 +478,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 102–325, §419(b)(1)(A), substituted "$7,500" fo
 
 Subsec. (a)(3)(A)(ii). Pub. L. 102–325, §419(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "is in repayment status, or in a grace period preceding repayment, and is not delinquent with respect to any required payment on such indebtedness by more than 90 days."
 
-Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan."
+Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "An individual's status as an eligibleborrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan."
 
 Subsec. (a)(3)(C). Pub. L. 102–325, §419(d), added subpar. (C).
 
@@ -550,7 +550,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under this section for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
+Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under this section for which application is received by an eligible lender on or afterOct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
 
 Amendment by section 420 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

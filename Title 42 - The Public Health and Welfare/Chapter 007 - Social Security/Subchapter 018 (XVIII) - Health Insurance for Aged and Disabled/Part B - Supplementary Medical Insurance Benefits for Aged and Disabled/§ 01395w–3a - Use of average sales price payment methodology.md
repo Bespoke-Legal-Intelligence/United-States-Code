@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), this section shall apply to payment for drugs and biologicals that are described in section 1395u(o)(1)(C) of this title and that are furnished on or after January 1, 2005.
+&emsp;Except as provided in paragraph (2), this section shall apply to payment for drugs andbiologicals that are described in section 1395u(o)(1)(C) of this title and that are furnished on or after January 1, 2005.
 
 #### (2) Election
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(i) computing the sum of the products (for each National Drug Code assigned to such drug products) of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the manufacturer's average sales price (as defined in subsection (c)), determined by the Secretary without dividing such price by the total number of billingunits for the National Drug Code for the billing and payment code; and
+&emsp;&emsp;&emsp;&emsp;(I) the manufacturer's average sales price (as defined in subsection (c)), determined by the Secretary without dividing such price by the total number of billing units for the National Drug Code for the billing and payment code; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total number of units specified under paragraph (2) sold; and
 
@@ -152,7 +152,7 @@
 
 #### (C) Use of contractors; implementation
 
-&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
+&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the paymentamount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
 
 #### (6) Definitions and other rules
 
@@ -222,7 +222,7 @@
 
 #### (2) Comparison of prices
 
-&emsp;Based upon such studies and other data for drugs and biologicals, the Inspector Generalshall compare the average sales price under this section for drugs and biologicals with—
+&emsp;Based upon such studies and other data for drugs and biologicals, the Inspector General shall compare the average sales price under this section for drugs and biologicals with—
 
 &emsp;&emsp;(A) the widely available market price for such drugs and biologicals (if any); and
 
@@ -232,7 +232,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may disregard the average sales price for a drug or biological that exceeds the widely available market price or the average manufacturer price for such drug or biological by the applicable threshold percentage (as defined in subparagraph (B)).
+&emsp;&emsp;The Secretary may disregard the average sales price for a drug or biological that exceeds the widely available market price or the average manufacturer price for suchdrug or biological by the applicable threshold percentage (as defined in subparagraph (B)).
 
 #### (B) Applicable threshold percentage defined
 

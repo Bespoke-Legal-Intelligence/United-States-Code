@@ -4,7 +4,7 @@
 
 (b) The authority of the Secretary of Defense to make payments under subsection (a) is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
-(c) Members of the armed forces may not receive benefits under both subsection (a) and any other provision of this title for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
+(c) Members of the armed forces may not receive benefits under both subsection (a) and anyother provision of this title for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
 
 (d) Regulations prescribed under subsection (a) may not take effect until the Secretary of Defense has submitted such regulations to—
 

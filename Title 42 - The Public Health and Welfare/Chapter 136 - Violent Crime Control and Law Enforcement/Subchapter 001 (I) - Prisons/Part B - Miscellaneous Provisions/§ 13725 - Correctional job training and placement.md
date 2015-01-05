@@ -38,7 +38,7 @@ As used in this section:
 
 The Attorney General, acting through the Director of the Office of Correctional Job Training and Placement, in consultation with the Secretary of Labor, shall—
 
-&emsp;(1) assist in coordinating the activities of the Federal Bonding Program of the Department of Labor, the activities of the Department of Labor related to the certification of eligibility for targeted jobs credits under section 51 of title 26 with respect to ex-offenders, and any other correctional job training or placement program of the Department of Justice or Department of Labor;
+&emsp;(1) assist in coordinating the activities of the Federal Bonding Program of the Department of Labor, the activities of the Department of Labor related to the certification ofeligibility for targeted jobs credits under section 51 of title 26 with respect to ex-offenders, and any other correctional job training or placement program of the Department of Justice or Department of Labor;
 
 &emsp;(2) provide technical assistance to State and local employment and training agencies that—
 

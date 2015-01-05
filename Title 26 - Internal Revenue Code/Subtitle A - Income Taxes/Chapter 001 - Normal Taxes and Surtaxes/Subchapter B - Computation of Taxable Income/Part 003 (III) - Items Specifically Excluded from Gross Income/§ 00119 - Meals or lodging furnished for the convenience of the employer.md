@@ -202,7 +202,7 @@ Other Definitions.—For purposes of this section—
 
 &emsp;"(1)
 
-State police officer.—The term 'State police officer' means any police officer (including a highwaypatrolman) employed by a State (or the District of Columbia) on a full-time basis with the power to arrest.
+State police officer.—The term 'State police officer' means any police officer (including a highway patrolman) employed by a State (or the District of Columbia) on a full-time basis with the power to arrest.
 
 &emsp;"(2)
 

@@ -44,11 +44,11 @@ Not later than 240 days after publication of the proposed order, the Secretary s
 
 #### (C) Attributed quantity for handlers
 
-&emsp;&emsp;The quantity of honey and honey products attributed to the vote of a handler shall bethe quantity handled in the representative period described in paragraph (2) for which the handler would have owed assessments had the amended order been in effect.
+&emsp;&emsp;The quantity of honey and honey products attributed to the vote of a handler shall be the quantity handled in the representative period described in paragraph (2) for which the handler would have owed assessments had the amended order been in effect.
 
 #### (4) Effectiveness of order
 
-&emsp;The amended order shall become effective only if the Secretary determines that the amended order is effective in accordance with section 4611 of this title.
+&emsp;The amended order shall become effective only if the Secretary determines that theamended order is effective in accordance with section 4611 of this title.
 
 #### (e) Continuation of existing order if amended order is rejected
 
@@ -62,7 +62,7 @@ If adoption of the amended order is not approved—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if adoption of the amended order is not approved in the referendum required under subsection (d) of this section, the Secretary may issue an amended order that implements some or all of the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, or makes other changes to an existing order, in accordance with the administrative procedures specified in sections 4604 and 4605 of this title.
+&emsp;Subject to paragraph (2), if adoption of the amended order is not approved in the referendum required under subsection (d), the Secretary may issue an amended order that implements some or all of the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, or makes other changes to an existing order, in accordance with the administrative procedures specified in sections 4604 and 4605 of this title.
 
 #### (2) Approval
 

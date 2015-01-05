@@ -10,7 +10,7 @@ The method of mining followed in any coal mine shall not expose the miner to unu
 
 #### (c) Location and supply of roof support material; safety devices for roof work
 
-The operator, in accordance with the approved plan, shall provide at or near each working faceand at such other locations in the coal mine as the Secretary may prescribe an ample supply of suitable materials of proper size with which to secure the roof of all working places in a safe manner. Safety posts, jacks, or other approved devices shall be used to protect the workmen when roof material is being taken down, crossbars are being installed, roof bolt- holes are being drilled, roof bolts are being installed, and in such other circumstances as may be appropriate. Loose roof and overhanging or loose faces and ribs shall be taken down or supported. Except in the case of recovery work, supports knocked out shall be replaced promptly.
+The operator, in accordance with the approved plan, shall provide at or near each working face and at such other locations in the coal mine as the Secretary may prescribe an ample supply of suitable materials of proper size with which to secure the roof of all working places in a safe manner. Safety posts, jacks, or other approved devices shall be used to protect the workmen when roof material is being taken down, crossbars are being installed, roof bolt- holes are being drilled, roof bolts are being installed, and in such other circumstances as may be appropriate. Loose roof and overhanging or loose faces and ribs shall be taken down or supported. Except in the case of recovery work, supports knocked out shall be replaced promptly.
 
 #### (d) Roof bolts
 
@@ -18,7 +18,7 @@ When installation of roof bolts is permitted, such roof bolts shall be tested in
 
 #### (e) Recovery of roof bolts
 
-Roof bolts shall not be recovered where complete extractions of pillars are attempted, where adjacent to clay veins, or at the locations of other irregularities, whether natural or otherwise, that induce abnormal hazards. Where roof bolt recovery is permitted, it shall be conducted only in accordance with methods prescribed in the approved roof control plan, and shall be conducted by experienced miners and only where adequate temporary support is provided.
+Roof bolts shall not be recovered where complete extractions of pillars are attempted, where adjacent to clay veins, or at the locations of other irregularities, whether natural or otherwise, that induce abnormal hazards. Where roofbolt recovery is permitted, it shall be conducted only in accordance with methods prescribed in the approved roof control plan, and shall be conducted by experienced miners and only where adequate temporary support is provided.
 
 #### (f) Safety inspections; correction of dangerous conditions
 

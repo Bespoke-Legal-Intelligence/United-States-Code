@@ -52,7 +52,7 @@ The Secretary shall develop, issue, and publish in the Federal Register, not lat
 
 #### (i) Report
 
-Not later than 4 years after January 8, 2002, the Secretary shall prepare and submit to the President and the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the status of education of homeless children and youths, which shall include information on—
+Not later than 4 years after January 8, 2002, the Secretary shall prepare and submit to the President and the Committee on Education andthe Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the status of education of homeless children and youths, which shall include information on—
 
 &emsp;(1) the education of homeless children and youths; and
 

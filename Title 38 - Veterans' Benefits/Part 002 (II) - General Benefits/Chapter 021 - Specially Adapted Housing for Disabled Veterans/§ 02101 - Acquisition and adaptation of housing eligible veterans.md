@@ -44,9 +44,9 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraphs (3) an
 
 &emsp;(C) the nature and condition of the proposed housing unit are such as to be suitable to the veteran's needs for dwelling purposes.
 
-(4)(A) Except as provided in subparagraph (B), the Secretary's authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2014.
+(4)(A) Except as provided in subparagraph (B), the Secretary's authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2015.
 
-(B) In fiscal year 2014, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
+(B) In each of fiscal years 2014 and 2015, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 
 (b)
 
@@ -74,13 +74,17 @@ Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secreta
 
 Regulations.—Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, §401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, §105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177; Pub. L. 113–37, §2(g), Sept. 30, 2013, 127 Stat. 524.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48),702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, §401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, §105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177; Pub. L. 113–37, §2(g), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title IV, §405, Sept. 26, 2014, 128 Stat. 1905.)
 
 #### Prior Provisions
 
 Prior section 2101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, related to eligibility for mustering-out payments, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(4)(A). Pub. L. 113–175, §405(1), substituted "September 30, 2015" for "September 30, 2014".
+
+Subsec. (a)(4)(B). Pub. L. 113–175, §405(2), substituted "each of fiscal years 2014 and 2015" for "fiscal year 2014".
 
 <b>2013</b>—Subsec. (a)(4). Pub. L. 113–37 designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), the Secretary's" for "The Secretary's" and "September 30, 2014" for "September 30, 2013", and added subpar. (B).
 
@@ -159,6 +163,200 @@ Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub.
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–117 effective Oct. 1, 1977, see section 501 of Pub. L. 95–117, set out as a note under section 1114 of this title.
+
+#### Pilot Program to Rehabilitate and Modify Homes of Disabled and Low-Income Veterans
+
+Pub. L. 113–291, div. A, title X, §1079, Dec. 19, 2014, 128 Stat. 3521, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Disabled.—The term 'disabled' means an individual with a disability, as defined by section 12102 of title 42, United States Code.
+
+&emsp;"(2)
+
+Eligible veteran.—The term 'eligible veteran' means a disabled or low-income veteran.
+
+&emsp;"(3)
+
+Energy efficient features or equipment.—The term 'energy efficient features or equipment' means features of, or equipment in, a primary residence that help reduce the amount of electricity used to heat, cool, or ventilate such residence, including insulation, weatherstripping, air sealing, heating system repairs, duct sealing, or other measures.
+
+&emsp;"(4)
+
+Low-income veteran.—The term 'low-income veteran' means a veteran whose income does not exceed 80 percent of the median income for an area, as determined by the Secretary.
+
+&emsp;"(5)
+
+Nonprofit organization.—The term 'nonprofit organization' means an organization that is—
+
+&emsp;&emsp;"(A) described in section 501(c)(3) or 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3), (19)\]; and
+
+&emsp;&emsp;"(B) exempt from tax under section 501(a) of such Code \[26 U.S.C. 501(a)\].
+
+&emsp;"(6)
+
+Primary residence.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'primary residence' means a single family house, a duplex, or a unit within a multiple-dwelling structure that is the principal dwelling of an eligible veteran and is owned by such veteran or a family member of such veteran.
+
+&emsp;&emsp;"(B)
+
+Family member defined.—For purposes of this paragraph, the term 'family member' includes—
+
+&emsp;&emsp;&emsp;"(i) a spouse, child, grandchild, parent, or sibling;
+
+&emsp;&emsp;&emsp;"(ii) a spouse of such a child, grandchild, parent, or sibling; or
+
+&emsp;&emsp;&emsp;"(iii) any individual related by blood or affinity whose close association with a veteran is the equivalent of a family relationship.
+
+&emsp;"(7)
+
+Qualified organization.—The term 'qualified organization' means a nonprofit organization that provides nationwide or statewide programs that primarily serve veterans or low-income individuals.
+
+&emsp;"(8)
+
+Secretary.—The term 'Secretary' means the Secretary of Housing and Urban Development.
+
+&emsp;"(9)
+
+Veteran.—The term 'veteran' has the meaning given the term in section 101 of title 38, United States Code.
+
+&emsp;"(10)
+
+Veterans service organization.—The term 'veterans service organization' means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.
+
+"(b)
+
+Establishment of a Pilot Program.—
+
+&emsp;"(1)
+
+Grant.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall establish a pilot program to award grants to qualified organizations to rehabilitate and modify the primary residence of eligible veterans.
+
+&emsp;&emsp;"(B)
+
+Coordination.—The Secretary shall work in conjunction with the Secretary of Veterans Affairs to establish and oversee the pilot program and to ensure that such program meets the needs of eligible veterans.
+
+&emsp;&emsp;"(C)
+
+Maximum grant.—A grant award under the pilot program to any one qualified organization shall not exceed $1,000,000 in any one fiscal year, and such an award shall remain available until expended by such organization.
+
+&emsp;"(2)
+
+Application.—
+
+&emsp;&emsp;"(A)
+
+In general.—Each qualified organization that desires a grant under the pilot program shall submit an application to the Secretary at such time, in such manner, and, in addition to the information required under subparagraph (B), accompanied by such information as the Secretary may reasonably require.
+
+&emsp;&emsp;"(B)
+
+Contents.—Each application submitted under subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;"(i) a plan of action detailing outreach initiatives;
+
+&emsp;&emsp;&emsp;"(ii) the approximate number of veterans the qualified organization intends to serve using grant funds;
+
+&emsp;&emsp;&emsp;"(iii) a description of the type of work that will be conducted, such as interior home modifications, energy efficiency improvements, and other similar categories of work; and
+
+&emsp;&emsp;&emsp;"(iv) a plan for working with the Department of Veterans Affairs and veterans service organizations to identify veterans who are not eligible for programs under chapter 21 of title 38, United States Code, and meet their needs.
+
+&emsp;"(3)
+
+Use of funds.—A grant award under the pilot program shall be used—
+
+&emsp;&emsp;"(A) to modify and rehabilitate the primary residence of an eligible veteran, and may include—
+
+&emsp;&emsp;&emsp;"(i) installing wheelchair ramps, widening exterior and interior doors, reconfigurating and re-equipping bathrooms (which includes installing new fixtures and grab bars), removing doorway thresholds, installing special lighting, adding additional electrical outlets and electrical service, and installing appropriate floor coverings to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) accommodate the functional limitations that result from having a disability; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) if such residence does not have modifications necessary to reduce the chances that an elderly, but not disabled person, will fall in their home, reduce the risks of such an elderly person from falling;
+
+&emsp;&emsp;&emsp;"(ii) rehabilitating such residence that is in a state of interior or exterior disrepair; and
+
+&emsp;&emsp;&emsp;"(iii) installing energy efficient features or equipment if—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) an eligible veteran's monthly utility costs for such residence is more than 5 percent of such veteran's monthly income; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) an energy audit of such residence indicates that the installation of energy efficient features or equipment will reduce such costs by 10 percent or more; and
+
+&emsp;&emsp;"(B) in connection with modification and rehabilitation services provided under the pilot program, to provide technical, administrative, and training support to an affiliate of a qualified organization receiving a grant under such pilot program.
+
+&emsp;"(4)
+
+Limitation on use of funds.—Funds may be expended under the pilot program only for the benefit of an eligible veteran who the Secretary determines is residing in and reasonably intends to continue residing in a primary residence owned by such veteran or by a member of such veteran's family. The Secretary shall make this determination on the basis of a certification by the veteran or a member of the veteran's family that the veteran intends to continue residing in the primary residence for a sufficient period of time to be determined by the Secretary.
+
+&emsp;"(5)
+
+Oversight.—The Secretary shall direct the oversight of the grant funds for the pilot program so that such funds are used efficiently until expended to fulfill the purpose of addressing the adaptive housing needs of eligible veterans.
+
+&emsp;"(6)
+
+Matching funds.—
+
+&emsp;&emsp;"(A)
+
+In general.—A qualified organization receiving a grant under the pilot program shall contribute towards the housing modification and rehabilitation services provided to eligible veterans anamount equal to not less than 50 percent of the grant award received by such organization.
+
+&emsp;&emsp;"(B)
+
+In-kind contributions.—In order to meet the requirement under subparagraph (A), such organization may arrange for in-kind contributions.
+
+&emsp;"(7)
+
+Limitation cost to the veterans.—A qualified organization receiving a grant under the pilot program shall modify or rehabilitate the primary residence of an eligible veteran at no cost to such veteran (including application fees) or at a cost such that such veteran pays no more than 30 percent of his or her income in housing costs during any month.
+
+&emsp;"(8)
+
+Reports.—
+
+&emsp;&emsp;"(A)
+
+Annual report.—The Secretary shall submit to Congress, on an annual basis, a report that provides, with respect to the year for which such report is written—
+
+&emsp;&emsp;&emsp;"(i) the number of eligible veterans provided assistance under the pilot program;
+
+&emsp;&emsp;&emsp;"(ii) the socioeconomic characteristics of such veterans, including their gender, age, race, and ethnicity;
+
+&emsp;&emsp;&emsp;"(iii) the total number, types, and locations of entities contracted under such program to administer the grant funding;
+
+&emsp;&emsp;&emsp;"(iv) the amount of matching funds and in-kind contributions raised with each grant;
+
+&emsp;&emsp;&emsp;"(v) a description of the housing rehabilitation and modification services provided, costs saved, and actions taken under such program;
+
+&emsp;&emsp;&emsp;"(vi) a description of the outreach initiatives implemented by the Secretary to educate the general public and eligible entities about such program;
+
+&emsp;&emsp;&emsp;"(vii) a description of the outreach initiatives instituted by grant recipients to engage eligible veterans and veteran service organizations in projects utilizing grant funds under such program;
+
+&emsp;&emsp;&emsp;"(viii) a description of the outreach initiatives instituted by grant recipients to identify eligible veterans and their families; and
+
+&emsp;&emsp;&emsp;"(ix) any other information that the Secretary considers relevant in assessing such program.
+
+&emsp;&emsp;"(B)
+
+Final report.—Not later than 6 months after the completion of the pilot program, the Secretary shall submit to Congress a report that provides such information that the Secretary considers relevant in assessing the pilot program.
+
+&emsp;&emsp;"(C)
+
+Inspector general report.—Not later than March 31, 2019, the Inspector General of the Department of Housing and Urban Development shall submit to the Chairmen and Ranking Members of the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing a review of—
+
+&emsp;&emsp;&emsp;"(i) the use of appropriated funds by the Secretary and by grantees under the pilot program; and
+
+&emsp;&emsp;&emsp;"(ii) oversight and accountability of grantees under the pilot program.
+
+&emsp;"(9)
+
+Authorization of appropriations.—There are authorized to be appropriated for the Department of Housing and Urban Development for carrying out this section $4,000,000 for each of fiscal years 2015 through 2019."
 
 <i><sup>1</sup></i><i> So in original. Probably should be a separate subcl. and be designated "(II)".</i>
 

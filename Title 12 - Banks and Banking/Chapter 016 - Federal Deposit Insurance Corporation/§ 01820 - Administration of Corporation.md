@@ -44,7 +44,7 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 #### (B) Commitment by foreign banks to allow examinations of affiliates
 
-&emsp;&emsp;No branch or depository institution subsidiary of a foreign bank may become an insured depository institution unless such foreign bank submits a written binding commitment to the Board of Directors to permit any examination of any affiliate of such branch or depository institution subsidiary pursuant to subparagraph (A) to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter.
+&emsp;&emsp;No branch or depository institution subsidiary of a foreign bank may become an insured depository institution unless such foreign bank submits a written binding commitment to the Board of Directors to permit any examination of any affiliate of such branch or depository institution subsidiarypursuant to subparagraph (A) to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter.
 
 #### (5) Examination of insured State branches
 
@@ -136,7 +136,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (8) Report
 
-&emsp;At the time the system provided for in paragraph (6) is established, the Federal bankingagencies shall submit a joint report describing the system to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives. Thereafter, the Federal banking agencies shall annually submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives regarding the progress of the agencies in implementing the system and indicating areas in which enhancements to the system, including legislature improvements, would be appropriate.
+&emsp;At the time the system provided for in paragraph (6) is established, the Federal banking agencies shall submit a joint report describing the system to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives. Thereafter, the Federal banking agencies shall annually submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives regarding the progress of the agencies in implementing the system and indicating areas in which enhancements to the system, including legislature improvements, would be appropriate.
 
 #### (9) Standards for determining adequacy of State examinations
 
@@ -154,7 +154,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (2) Examination of affiliates
 
-&emsp;The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) of this section may be assessed by the Corporation against each affiliate which is examined to meet the Corporation's expenses in carrying out such examination.
+&emsp;The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) may be assessed by the Corporation against each affiliate which is examined to meet the Corporation's expenses in carrying out such examination.
 
 #### (3) Assessment against depository institution in case of affiliate's refusal to pay
 
@@ -178,7 +178,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;&emsp;If any affiliate of any insured depository institution—
 
-&emsp;&emsp;&emsp;(i) refuses to permit an examiner appointed by the Board of Directors under subsection (b)(1) of this section to conduct an examination; or
+&emsp;&emsp;&emsp;(i) refuses to permit an examiner appointed by the Board of Directors under subsection (b)(1) to conduct an examination; or
 
 &emsp;&emsp;&emsp;(ii) refuses to provide any information required to be disclosed in the course of any examination,
 
@@ -204,7 +204,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;&emsp;&emsp;(i) being read or scanned by computer; and
 
-&emsp;&emsp;&emsp;(ii) being reproduced from such electronic medium or format by printing any other form of reproduction of electronically stored data.
+&emsp;&emsp;&emsp;(ii) being reproduced from such electronic medium or format by printing anyother form of reproduction of electronically stored data.
 
 #### (2) Treatment as original records
 
@@ -212,7 +212,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (3) Authority of the Federal banking agencies
 
-&emsp;Any photographs, microphotographs, or photographic film or copies thereof described inparagraph (1)(A) or reproduction of electronically stored data described in paragraph (1)(B) shall be preserved in such manner as the Federal banking agency shall prescribe, and the original records, papers, or documents may be destroyed or otherwise disposed of as the Federal banking agency may direct.
+&emsp;Any photographs, microphotographs, or photographic film or copies thereof described in paragraph (1)(A) or reproduction of electronically stored data described in paragraph (1)(B) shall be preserved in such manner as the Federal banking agency shall prescribe, and the original records, papers, or documents may be destroyed or otherwise disposed of as the Federal banking agency may direct.
 
 #### (g) Authority to prescribe regulations and definitions
 
@@ -406,11 +406,11 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;&emsp;&emsp;(I) to remove such person from office or to prohibit such person from further participation in the conduct of the affairs of the depository institution, depository institution holding company, or other company for a period of up to 5 years; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any insured depository institution for a period of up to 5 years.
+&emsp;&emsp;&emsp;&emsp;(II) to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any insureddepository institution for a period of up to 5 years.
 
 #### (ii) Civil monetary penalty
 
-&emsp;&emsp;&emsp;The Federal banking agency may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with section 1818(i) of this title. In lieu of an action by the Federal banking agency under this clause, the Attorney General of the United States may bring a civil actionunder this clause in the appropriate United States district court.
+&emsp;&emsp;&emsp;The Federal banking agency may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with section 1818(i) of this title. In lieu of an action by the Federal banking agency under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
 
 #### (B) Scope of prohibition order
 
@@ -454,7 +454,7 @@ Subsec. (k)(5)(B)(ii) to (iv). Pub. L. 111–203, §363(4)(B), inserted "and" af
 
 <b>2006</b>—Subsec. (d)(4)(A). Pub. L. 109–351, §605, substituted "$500,000,000" for "$250,000,000".
 
-Subsec. (f). Pub. L. 109–351, §723(a), amended subsec. (f) generally. Prior to amendment, text read as follows: "The Corporation may cause any and all records, papers, or documents kept by it or in its possession or custody to be photographed or microphotographed or otherwise reproduced upon film, which photographic film shall comply with the minimum standards of quality approved for permanent photographic records by the National Institute of Standards and Technology. Such photographs, microphotographs, or photographic film or copies thereof shall be deemed to be an original record for all purposes, including introduction in evidence in all State and Federal courts or administrative agencies and shall be admissible to prove any act, transaction, occurrence, or event therein recorded. Such photographs, microphotographs, or reproduction shall be preserved in such manner as the Board of Directors of the Corporation shall prescribe and the original records, papers, or documents may be destroyed or otherwise disposed of as the Board shall direct."
+Subsec. (f). Pub. L. 109–351, §723(a), amended subsec. (f) generally. Prior to amendment, text read as follows: "The Corporation may cause any and all records, papers, or documents kept by it or in its possession or custody to be photographed or microphotographed or otherwise reproduced upon film, which photographic film shall comply with the minimum standards of quality approved for permanent photographic records bythe National Institute of Standards and Technology. Such photographs, microphotographs, or photographic film or copies thereof shall be deemed to be an original record for all purposes, including introduction in evidence in all State and Federal courts or administrative agencies and shall be admissible to prove any act, transaction, occurrence, or event therein recorded. Such photographs, microphotographs, or reproduction shall be preserved in such manner as the Board of Directors of the Corporation shall prescribe and the original records, papers, or documents may be destroyed or otherwise disposed of as the Board shall direct."
 
 Subsec. (h). Pub. L. 109–351, §711, amended subsec. (h) generally. Prior to amendment, subsec. (h) related to coordination of examination authority.
 
@@ -544,7 +544,7 @@ Subsec. (d). Pub. L. 97–320, §410(g), inserted "as in section 221a(b) of this
 
 Pub. L. 95–369 inserted "any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank" after "(except a District bank)", inserted "or branch" after "and any closed insured bank", substituted "any national bank, insured Federal branch of a foreign bank, or District bank" for "any national bank or District bank" and inserted "and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits" after "effect of such relations upon such banks".
 
-Subsec. (c). Pub. L. 95–630, §305(b), among other changes, inserted references to State nonmember banks, other institutions making application to become insured banks, and investigations to determine compliance with applicable law and regulations and struck out provisions defining "affiliate" and "member bank".
+Subsec. (c). Pub. L. 95–630, §305(b), among other changes, inserted references to State nonmemberbanks, other institutions making application to become insured banks, and investigations to determine compliance with applicable law and regulations and struck out provisions defining "affiliate" and "member bank".
 
 Subsec. (d). Pub. L. 95–630, §305(b), substituted provisions defining the terms "affiliate" and "member bank" for provisions relating to the enforcement of subpenas and orders.
 

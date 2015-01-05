@@ -1,20 +1,40 @@
 ### §4281. Small aircraft on nonestablished lines
 
-The taxes imposed by sections 4261 and 4271 shall not apply to transportation by an aircraft having a maximum certificated takeoff weight of 6,000 pounds or less, except when such aircraft is operated on an established line or when such aircraft is a jet aircraft. For purposes of the preceding sentence, the term "maximum certificated takeoff weight" means the maximum such weight contained in the type certificate or airworthiness certificate. For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.
+#### (a) In general
 
-(Added Pub. L. 91–258, title II, §205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 97–248, title II, §280(c)(2)(B), Sept. 3, 1982, 96 Stat. 564; Pub. L. 109–59, title XI, §11124(a), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, §1107(a), Feb. 14, 2012, 126 Stat. 154.)
+The taxes imposed by sections 4261 and 4271 shall not apply to transportation by an aircraft having a maximum certificated takeoff weight of 6,000 pounds or less, except when such aircraft is operated on an established line or when such aircraft is a jet aircraft.
+
+#### (b) Maximum certificated takeoff weight
+
+For purposes of this section, the term "maximum certificated takeoff weight" means the maximum such weight contained in the type certificate or airworthiness certificate.
+
+#### (c) Sightseeing
+
+For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.
+
+#### (d) Jet aircraft
+
+For purposes of this section, the term "jet aircraft" shall not include any aircraft which is a rotorcraft or propeller aircraft.
+
+(Added Pub. L. 91–258, title II, §205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 97–248, title II, §280(c)(2)(B), Sept. 3, 1982, 96 Stat. 564; Pub. L. 109–59, title XI, §11124(a), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, §1107(a), Feb. 14, 2012, 126 Stat. 154; Pub. L. 113–295, div. A, title II, §204(a), Dec. 19, 2014, 128 Stat. 4025.)
 
 #### Prior Provisions
 
-A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
+A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil bypipeline, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295 amended section generally. Prior to amendment, text read as follows: "The taxes imposed by sections 4261 and 4271 shall not apply to transportation by an aircraft having a maximum certificated takeoff weight of 6,000 pounds or less, except when such aircraft is operated on an established line or when such aircraft is a jet aircraft. For purposes of the preceding sentence, the term 'maximum certificated takeoff weight' means the maximum such weight contained in the type certificate or airworthiness certificate. For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing."
 
 <b>2012</b>—Pub. L. 112–95 inserted "or when such aircraft is a jet aircraft" after "an established line" in first sentence.
 
 <b>2005</b>—Pub. L. 109–59 inserted at end "For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing."
 
 <b>1982</b>—Pub. L. 97–248 struck out "(as defined in section 4492(b))" after "certificated takeoff weight", and inserted provision defining "maximum certificated takeoff weight".
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title II, §204(b), Dec. 19, 2014, 128 Stat. 4025, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 1107 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\]."
 
 #### Effective Date of 2012 Amendment
 

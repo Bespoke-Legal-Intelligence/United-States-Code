@@ -118,7 +118,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (C) Special rule for citrus and almond growers
 
-&emsp;&emsp;An election under this paragraph shall not apply with respect to any item which is attributable to the planting, cultivation, maintenance, or development of any citrus or almond grove (or part thereof) and which is incurred before the close of the 4th taxable year beginning with the taxable year in which the trees were planted. For purposesof the preceding sentence, the portion of a citrus or almond grove planted in 1 taxable year shall be treated separately from the portion of such grove planted in another taxable year.
+&emsp;&emsp;An election under this paragraph shall not apply with respect to any item which is attributable to the planting, cultivation, maintenance, or development of any citrus or almond grove (or part thereof) and which is incurred before the close of the 4th taxable year beginning with the taxable year in which the trees were planted. For purposes of the preceding sentence, the portion of a citrus or almond grove planted in 1 taxable year shall be treated separately from the portion of such grove planted in another taxable year.
 
 #### (D) Election
 
@@ -296,7 +296,7 @@ For purposes of this section—
 
 #### (A) Writer
 
-&emsp;&emsp;The term "writer" means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
+&emsp;&emsp;The term "writer" means any individual if the personal efforts of such individual create (or may reasonably be expected to create) aliterary manuscript, musical composition (including any accompanying words), or dance score.
 
 #### (B) Photographer
 
@@ -480,7 +480,7 @@ Interest and taxes.—Section 263A of such Code shall not apply to property desc
 
 "(5)
 
-Transition rule concerning capitalization of inventory rules.—In the case of a corporation which on the date of the enactment of this Act \[Oct. 22, 1986\] was a member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
+Transition rule concerning capitalization of inventory rules.—In the case of a corporation which on the date of the enactment of this Act \[Oct. 22, 1986\]was a member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
 
 &emsp;"(A) was incorporated in California on April 15, 1925,
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) Except as provided in this section, sections 30113 and 30114 of this title, and subchapter III of this chapter, a person may not manufacture for sale, sell, offer for sale, introduce or deliver for introduction in interstate commerce, or import into the United States, any motor vehicle or motor vehicle equipment manufactured on or after the date an applicable motor vehicle safety standard prescribed under this chapter takes effect unless the vehicle or equipment complies with the standard and iscovered by a certification issued under section 30115 of this title.
+General.—(1) Except as provided in this section, sections 30113 and 30114 of this title, and subchapter III of this chapter, a person may not manufacture for sale, sell, offer for sale, introduce or deliver for introduction in interstate commerce, or import into the United States, any motor vehicle or motor vehicle equipment manufactured on or after the date an applicable motor vehicle safety standard prescribed under this chapter takes effect unless the vehicle or equipment complies with the standard and is covered by a certification issued under section 30115 of this title.
 
 (2) Except as provided in this section, sections 30113 and 30114 of this title, and subchapter III of this chapter, a school or school system may not purchase or lease a new 15-passenger van if it will be used significantly by, or on behalf of, the school or school system to transport preprimary, primary, or secondary school students to or from school or an event related to school, unless the 15-passenger van complies with the motor vehicle standards prescribed for school buses and multifunction school activity buses under this title. This paragraph does not apply to the purchase or lease of a 15-passenger van under a contract executed before the date of enactment of this paragraph.
 
@@ -94,7 +94,7 @@ The date of enactment of this paragraph, referred to in subsec. (a)(2), is the d
 
 Subsec. (b)(2)(C). Pub. L. 112–141, §31207(2), added subpar. (C).
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, which directed amendment of section 30112(a), without specifying thetitle to be amended, by designating existing provisions as par. (1) and adding par. (2), was executed to this section, to reflect the probable intent of Congress.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, which directed amendment of section 30112(a), without specifying the title to be amended, by designating existing provisions as par. (1) and adding par. (2), was executed to this section, to reflect the probable intent of Congress.
 
 #### Effective Date of 2012 Amendment
 

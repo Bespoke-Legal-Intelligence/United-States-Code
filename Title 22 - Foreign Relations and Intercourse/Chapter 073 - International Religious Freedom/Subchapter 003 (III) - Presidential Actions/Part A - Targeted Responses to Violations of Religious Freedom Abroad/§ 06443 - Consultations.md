@@ -16,19 +16,19 @@ As soon as practicable after the President decides to take action under section 
 
 #### (2) Use of multilateral fora
 
-&emsp;If the President determines it to be appropriate, such consultations may be sought and may occur in a multilateral forum, but, in any event, the President shall consult with appropriate foreign governments for the purposes of achieving a coordinated international policy on actions that may be taken with respect to a country described in subsection (a) of this section, prior to implementing any such action.
+&emsp;If the President determines it to be appropriate, such consultations may be sought and may occur in a multilateral forum, but, in any event, the President shall consult with appropriate foreign governments for the purposes of achieving a coordinated international policy on actions that may be taken with respect to a country described in subsection (a), prior to implementing any such action.
 
 #### (3) Election of nondisclosure of negotiations to public
 
-&emsp;If negotiations are undertaken or an agreement is concluded with a foreign government regarding steps to cease the pattern of violations by that government, and if public disclosure of such negotiations or agreement would jeopardize the negotiations or the implementation of such agreement, as the case may be, the President may refrain from disclosing such negotiations and such agreement to the public, except that the President shall inform the appropriate congressional committees of the nature and extent of such negotiations and any agreement reached.
+&emsp;If negotiations are undertaken or an agreement is concluded with a foreign government regarding steps to cease the pattern of violations by that government, and if public disclosure of such negotiations or agreement would jeopardize the negotiations or the implementation of such agreement, as the case may be, the President may refrain from disclosingsuch negotiations and such agreement to the public, except that the President shall inform the appropriate congressional committees of the nature and extent of such negotiations and any agreement reached.
 
 #### (c) Duty to consult with humanitarian organizations
 
-The President should consult with appropriate humanitarian and religious organizations concerning the potential impact of United States policies to promote freedom of religion in countries described in subsection (a) of this section.
+The President should consult with appropriate humanitarian and religious organizations concerning the potential impact of United States policies to promote freedom of religion in countries described in subsection (a).
 
 #### (d) Duty to consult with United States interested parties
 
-The President shall, as appropriate, consult with United States interested parties as to the potential impact of intended Presidential action or actions in countries described in subsection (a) of this section on economic or other interests of the United States.
+The President shall, as appropriate, consult with United States interested parties as to the potential impact of intended Presidential action or actions in countries described in subsection (a) on economic or other interests of the United States.
 
 (Pub. L. 105–292, title IV, §403, Oct. 27, 1998, 112 Stat. 2804.)
 

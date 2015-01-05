@@ -38,7 +38,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 &emsp;&emsp;(B) files a claim for refund of an overpayment of tax under section 6511 for the taxable year involved.
 
-> &emsp;If a claim for refund is filed by the taxpayer, then solely for purposes of determining (for the taxable year involved) the amount of any computational adjustment in connection with a partnership proceeding under this subchapter (other than under this section) or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), the items that are the subject of the notice of adjustment shall be presumed to have been correctly reported on the taxpayer's return during the pendency of the refund claim (and, if within the time prescribed by section 6532 the taxpayer commences a civil action for refund under section 7422, until the decision in the refund action becomes final).
+> &emsp;If a claim for refund is filed by the taxpayer, then solely for purposes of determining (for the taxable year involved) the amount of any computational adjustment in connection with a partnership proceeding under this subchapter (other than under this section) or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), the items that are the subject of the notice of adjustment shall be presumed to have been correctly reported on the taxpayer's return during the pendency of the refundclaim (and, if within the time prescribed by section 6532 the taxpayer commences a civil action for refund under section 7422, until the decision in the refund action becomes final).
 
 #### (e) Limitations period
 
@@ -66,7 +66,7 @@ If the Secretary mails a notice of adjustment to the taxpayer for a taxable year
 
 #### (1) In general
 
-&emsp;The treatment of any item that has been determined pursuant to subsection (c) or (d) shall be taken into account in determining the amount of any computational adjustment thatis made in connection with a partnership proceeding under this subchapter (other than under this section), or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), for the taxable year involved. Notwithstanding any other law or rule of law pertaining to the period of limitations on the making of assessments, for purposes of the preceding sentence, any adjustment made in accordance with this section shall be taken into account regardless of whether any assessment has been made with respect to such adjustment.
+&emsp;The treatment of any item that has been determined pursuant to subsection (c) or (d) shall be taken into account in determining the amount of any computational adjustment that is made in connection with a partnership proceeding under this subchapter (other than under this section), or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), for the taxable year involved. Notwithstanding any other law or rule of law pertaining to the period of limitations on the making of assessments, for purposes of the preceding sentence, any adjustment made in accordance with this section shall be taken into account regardless of whether any assessment has been made with respect to such adjustment.
 
 #### (2) Special rule in case of computational adjustment
 
@@ -104,7 +104,7 @@ If the Secretary mails a notice of adjustment to the taxpayer for a taxable year
 
 #### (2) Special rule if Secretary erroneously mails notice of deficiency
 
-&emsp;If the Secretary erroneously determines that subchapter B applies to a taxable year of a taxpayer and consistent with that determination timely mails a notice of deficiency to the taxpayer pursuant to section 6212, the notice of deficiency shall be treated as a notice of adjustment under subsection (a) and any petition that is filed in respect of the notice shall be treated as an action brought under subsection (c).
+&emsp;If the Secretary erroneously determines that subchapter B applies to a taxable year of ataxpayer and consistent with that determination timely mails a notice of deficiency to the taxpayer pursuant to section 6212, the notice of deficiency shall be treated as a notice of adjustment under subsection (a) and any petition that is filed in respect of the notice shall be treated as an action brought under subsection (c).
 
 (Added Pub. L. 105–34, title XII, §1231(a), Aug. 5, 1997, 111 Stat. 1020; amended Pub. L. 107–147, title IV, §416(d)(1)(D), Mar. 9, 2002, 116 Stat. 55.)
 

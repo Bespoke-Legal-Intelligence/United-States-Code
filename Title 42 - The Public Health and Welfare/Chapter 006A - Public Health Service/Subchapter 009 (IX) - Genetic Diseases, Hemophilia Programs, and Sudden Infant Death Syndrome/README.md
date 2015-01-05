@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–278, title IV, §403(b)(3), Apr. 22, 1976, 90 Stat. 409, substituted "GENETIC DISEASES" for"GENETIC BLOOD DISORDERS" and inserted "HEMOPHILIA PROGRAMS" in subchapter heading.
+<b>1976</b>—Pub. L. 94–278, title IV, §403(b)(3), Apr. 22, 1976, 90 Stat. 409, substituted "GENETIC DISEASES" for "GENETIC BLOOD DISORDERS" and inserted "HEMOPHILIA PROGRAMS" in subchapter heading.
 
 <b>1974</b>—Pub. L. 93–270, §3(b), Apr. 22, 1974, 88 Stat. 92, inserted "SUDDEN INFANT DEATH SYNDROME" in subchapter heading.
 

@@ -66,7 +66,7 @@ Expedited review.—Not later than 30 days after the Farm Credit Administration 
 
 &emsp;"(3)
 
-Submission to stockholders.—On approval of the plan by the Farm Credit Administration, the special committee shall, under such procedures as may be established by the committee, submit the plan andrecommendations to all voting stockholders of the district banks for cooperatives and the Central Bank for Cooperatives.
+Submission to stockholders.—On approval of the plan by the Farm Credit Administration, the special committee shall, under such procedures as may be established by the committee, submit the plan and recommendations to all voting stockholders of the district banks for cooperatives and the Central Bank for Cooperatives.
 
 "(b)
 

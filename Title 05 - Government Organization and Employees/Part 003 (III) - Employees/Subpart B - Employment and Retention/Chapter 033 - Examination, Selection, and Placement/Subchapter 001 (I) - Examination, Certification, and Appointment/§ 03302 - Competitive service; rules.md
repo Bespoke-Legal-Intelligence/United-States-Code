@@ -1,6 +1,6 @@
 ### §3302. Competitive service; rules
 
-The President may prescribe rules governing the competitive service. The rules shall provide, as nearly as conditions of good administration warrant, for—
+The President may prescribe rules governing the competitive service. The rules shall provide,as nearly as conditions of good administration warrant, for—
 
 &emsp;(1) necessary exceptions of positions from the competitive service; and
 
@@ -24,17 +24,17 @@ Historical and Revision Notes
 
 Jan. 16, 1883, ch. 27, §2(1) (less function of Civil Service Commission), (2) 8 (last sentence), 22 Stat. 403, 404.
 
-The reference to the competitive service is substituted for the reference to the Act creating that service. The reference to reasons for the exceptions is omitted as covered by section 1308 of this title. The words “provide for” are substituted for “provide and declare”. Paragraph (1) is supplied to preserve the President's power to except positions from the competitive service, previously implied from the power to except from the first rule in former section 633(2). Authority to make exceptions to so much of former section 633(2) as is restated in this section and section 1302(a) is omitted as meaningless. Authority to make exceptions to so much of former section 633(2) as is restated in section 3318(a) is omitted as superseded by former section 857, which is carried into section 3318(a). In the last sentence, the words “Each officer and individual employed in an agency” are substituted for “officers of the United States in the departments and offices” because of the restrictive definition of “officer” in section 2104.
+The reference to the competitive service is substituted for the reference to the Act creating that service. The reference to reasons for the exceptions is omitted as covered by section 1308 of this title. The words "provide for" are substituted for "provide and declare". Paragraph (1) is supplied to preserve the President's power to except positions from the competitive service, previously implied from the power to except from the first rule in former section 633(2). Authority to make exceptions to so much of former section 633(2) as is restated in this section and section 1302(a) is omitted as meaningless. Authority to make exceptions to so much of former section 633(2) as is restated in section 3318(a) is omitted as superseded by former section 857, which is carried into section 3318(a). In the last sentence, the words "Each officer and individual employed in an agency" are substituted for "officers of the United States in the departments and offices" because of the restrictive definition of "officer" in section 2104.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1993</b>—Par. (2). Pub. L. 103–94 substituted “and 7203” for “7203, 7321, and 7322”.
+<b>1993</b>—Par. (2). Pub. L. 103–94 substituted "and 7203" for "7203, 7321, and 7322".
 
 <b>1979</b>—Par. (2). Pub. L. 96–54 amended par. (2) in same manner as amendment by section 703(c)(1) of Pub. L. 95–454. See 1978 Amendment note below.
 
-<b>1978</b>—Par. (2). Pub. L. 95–454 substituted “7202, 7203” for “7152, 7153”.
+<b>1978</b>—Par. (2). Pub. L. 95–454 substituted "7202, 7203" for "7152, 7153".
 
 Pub. L. 95–228 struck out reference to section 3306(a)(1) of this title. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of section 2105 of this title, and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, amendment by Pub. L. 95–454, §703(c)(2) was executed to section 2105 of this title, and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
 
@@ -66,7 +66,7 @@ WHEREAS the development of skills is most effectively achieved through a program
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution of the United States, by sections 3301 and 3302 of title 5, United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. (a) Subject to paragraph (b) of this section, the head of an agency may make an excepted appointment, to be known as a “veterans readjustment appointment”, to any position in the competitive service up to and including GS–5 or the equivalent thereof, of a veteran or disabled veteran as defined in section 2108(1), (2), of title 5, United States Code, who:
+Section 1. (a) Subject to paragraph (b) of this section, the head of an agency may make an excepted appointment, to be known as a "veterans readjustment appointment", to any position in the competitive service up to and including GS–5 or the equivalent thereof, of a veteran or disabled veteran as defined in section 2108(1), (2), of title 5, United States Code, who:
 
 (1) served on active duty in the armed forces of the United States during the Vietnam era;
 
@@ -86,7 +86,7 @@ Section 1. (a) Subject to paragraph (b) of this section, the head of an agency m
 
 (e) An employee serving under a veterans readjustment appointment may be promoted, reassigned, or transferred.
 
-(f) An employee who completes the training or educational program and who has satisfactorily completed two years of substantially continuous service under a veterans readjustment appointment shall be converted to career-conditional or career employment. An employee converted under this paragraph shall automatically acquire a competitive status.
+(f) An employee who completes the training or educational program and who has satisfactorily completed two years of substantially continuous service under aveterans readjustment appointment shall be converted to career-conditional or career employment. An employee converted under this paragraph shall automatically acquire a competitive status.
 
 (g) In selecting an applicant for appointment under this section, an agency shall not discriminate because of race, color, religion, sex, national origin, or political affiliation.
 
@@ -98,9 +98,9 @@ Sec. 3. Any law, Executive order, or regulation which would disqualify an applic
 
 Sec. 4. For the purpose of this order:
 
-(a) “agency” means a military department as defined in section 102 of title 5, United States Code, an executive agency (other than the General Accounting Office \[now Government Accountability Office\]) as defined in section 105 of title 5, United States Code, and those portions of the legislative and judicial branches of the Federal Government and of the government of the District of Columbia having positions in the competitive service; and
+(a) "agency" means a military department as defined in section 102 of title 5, United States Code, an executive agency (other than the General Accounting Office \[now Government Accountability Office\]) as defined in section 105 of title 5, United States Code, and those portions of the legislative and judicial branches of the Federal Government and of the government of the District of Columbia having positions in the competitive service; and
 
-(b) “Vietnam era” means the period beginning August 5, 1964, and ending on such date thereafter as may be determined by Presidential proclamation or concurrent resolution of the Congress.
+(b) "Vietnam era" means the period beginning August 5, 1964, and ending on such date thereafter as may be determined by Presidential proclamation or concurrent resolution of the Congress.
 
 Sec. 5. The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the provisions of this order.
 

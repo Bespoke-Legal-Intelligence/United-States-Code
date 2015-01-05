@@ -8,11 +8,11 @@
 
 &emsp;(i) assist Head Start agencies to collaborate with entities involved in State and local planning processes to better meet the needs of low-income children from birth to school entry, and their families;
 
-&emsp;(ii) assist Head Start agencies to coordinate activities with the State agency responsible for administering the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.) and entities providing resource and referral services in the State, to make full-working-day and full calendar year services available to children;
+&emsp;(ii) assist Head Start agencies to coordinate activities with the State agency responsible for administering the State program carried out under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\] and entities providing resource and referral services in the State, to make full-working-day and full calendar year services available to children;
 
 &emsp;(iii) promote alignment of curricula used in Head Start programs and continuity of services with the Head Start Child Outcomes Framework and, as appropriate, State early learning standards;
 
-&emsp;(iv) promote better linkages between Head Start agencies and other child and family agencies, including agencies that providehealth, mental health, or family services, or other child or family supportive services, such as services provided under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
+&emsp;(iv) promote better linkages between Head Start agencies and other child and family agencies, including agencies that provide health, mental health, or family services, or other child or family supportive services, such as services provided under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
 
 &emsp;(v) carry out the activities of the State Director of Head Start Collaboration authorized in paragraph (4).
 
@@ -50,7 +50,7 @@
 
 &emsp;(D) consult with the chief State school officer, local educational agencies, and providers of early childhood education and development, at both the State and local levels;
 
-&emsp;(E) promote partnerships between Head Start agencies, schools, law enforcement, relevant community-based organizations, and substance abuse and mental health treatment agencies to strengthen family and community environments and to reduce the impact on child development of substance abuse, child abuse, domestic violence, and other high-risk behaviors that compromise healthy development;
+&emsp;(E) promote partnerships between Head Start agencies, schools, law enforcement, relevant community-based organizations, and substance abuse and mental health treatment agencies to strengthen family and community environments and to reduce the impact onchild development of substance abuse, child abuse, domestic violence, and other high-risk behaviors that compromise healthy development;
 
 &emsp;(F) promote partnerships between Head Start agencies and other organizations in order to enhance Head Start program quality, including partnerships to promote inclusion of more books in Head Start classrooms;
 
@@ -114,7 +114,7 @@
 
 &emsp;(ii) supporting professional development, recruitment, and retention initiatives for early childhood educators;
 
-&emsp;(iii) enhancing existing early childhood education and development programs and services (in existence on the date on which the grant involved is awarded), including quality improvement activities authorized under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\]; and
+&emsp;(iii) enhancing existing early childhood education and development programs and services (in existence on the date on which the grant involved is awarded), including quality improvement activities authorized under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\]; and
 
 &emsp;(iv) carrying out other activities consistent with the State's plan and application, pursuant to subparagraph (B).
 
@@ -150,7 +150,7 @@
 
 #### References in Text
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsecs. (a)(2)(B)(ii) and (b)(2)(A)(iii), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsecs. (a)(2)(B)(ii) and (b)(2)(A)(iii), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B)(iv) and (b)(1)(C)(viii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 

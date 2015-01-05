@@ -26,7 +26,7 @@ Revocation authority.—If the Board of Governors of the Postal Service finds th
 
 (c)
 
-Exceptions for Critical Positions.—Notwithstanding any other provision of law, the Board of Governors may allow up to 12 officers or employees of the Postal Service in critical senior executive or equivalent positions to receive total compensation in an amount not to exceed 120 percent of the total annual compensation payable to the Vice President under section 104 of title 3 as of the end of the calendar year in which such payment is received. For each exception made under this subsection, the Board shall provide written notification to the Director of the Office of Personnel Management and the Congress within 30 days after the payment is made setting forth the name of the officer or employee involved, the critical nature of his or her duties and responsibilities, and the basis for determining that such payment is warranted.
+Exceptions for Critical Positions.—Notwithstanding any other provision of law, theBoard of Governors may allow up to 12 officers or employees of the Postal Service in critical senior executive or equivalent positions to receive total compensation in an amount not to exceed 120 percent of the total annual compensation payable to the Vice President under section 104 of title 3 as of the end of the calendar year in which such payment is received. For each exception made under this subsection, the Board shall provide written notification to the Director of the Office of Personnel Management and the Congress within 30 days after the payment is made setting forth the name of the officer or employee involved, the critical nature of his or her duties and responsibilities, and the basis for determining that such payment is warranted.
 
 (d)
 
@@ -36,7 +36,7 @@ Information for Inclusion in Comprehensive Statement.—Included in its comprehe
 
 &emsp;(2) the amount of the bonus or other payment; and
 
-&emsp;(3) the amount by which the limitation set forth in the last sentence of section 1003(a) wasexceeded as a result of such bonus or other payment.
+&emsp;(3) the amount by which the limitation set forth in the last sentence of section 1003(a) was exceeded as a result of such bonus or other payment.
 
 (e)
 

@@ -32,7 +32,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If transfers under subparagraphs (B) and (C) cannot be accomplished during the periods specified in those subparagraphs, the county committee of the Farm ServiceAgency for the applicable county shall place the acreage base in a pool for possible assignment to other farms.
+&emsp;&emsp;&emsp;If transfers under subparagraphs (B) and (C) cannot be accomplished during the periods specified in those subparagraphs, the county committee of the Farm Service Agency for the applicable county shall place the acreage base in a pool for possible assignment to other farms.
 
 #### (ii) Acceptance of requests
 

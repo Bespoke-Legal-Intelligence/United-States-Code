@@ -4,13 +4,13 @@ In this chapter—
 
 &emsp;(1) "entitlement land" means land owned by the United States Government—
 
-&emsp;&emsp;(A) that is in the National Park System or the National Forest System, including wilderness areas and lands described in section 2 of the Act of June 22, 1948 (16 U.S.C. 577d),and section 1 of the Act of June 22, 1956 (16 U.S.C. 577d–1);
+&emsp;&emsp;(A) that is in the National Park System or the National Forest System, including wilderness areas and lands described in section 2 of the Act of June 22, 1948 (16 U.S.C. 577d), and section 1 of the Act of June 22, 1956 (16 U.S.C. 577d–1);
 
 &emsp;&emsp;(B) the Secretary of the Interior administers through the Bureau of Land Management;
 
 &emsp;&emsp;(C) dedicated to the use of the Government for water resource development projects;
 
-&emsp;&emsp;(D) on which are located semi-active or inactive installations (except industrial installations) that the Secretary of the Army keeps for mobilization and for reserve component training;
+&emsp;&emsp;(D) on which are located semi-active or inactive installations (except industrial installations) that the Secretary of the Armykeeps for mobilization and for reserve component training;
 
 &emsp;&emsp;(E) that is a dredge disposal area under the jurisdiction of the Secretary of the Army;
 
@@ -40,7 +40,7 @@ In this chapter—
 
 &emsp;(B) the term "governmental services" includes, but is not limited to, those services that relate to public safety, the environment, housing, social services, transportation, and governmental administration.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, §101(1), July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, §1033(a), Nov. 12, 1996, 110 Stat. 4239; Pub. L. 105–83, title III, §350, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–263, §5(d), Oct. 19, 1998, 112 Stat. 2348.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, §1033(a), Nov. 12, 1996, 110 Stat. 4239; Pub. L. 105–83, title III, §350, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–263, §5(d), Oct. 19, 1998, 112 Stat. 2348.)
 
 Historical and Revision Notes
 
@@ -94,7 +94,7 @@ Section 5 of the Southern Nevada Public Land Management Act of 1998, referred to
 
 <b>1996</b>—Par. (2). Pub. L. 104–333 amended par. (2) generally. Prior to amendment, par. (2) read as follows: " 'unit of general local government' means:
 
-&emsp;"(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in aState that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term 'governmental services' includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
+&emsp;"(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term 'governmental services' includes, but is notlimited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
 
 &emsp;"(B) the District of Columbia;
 

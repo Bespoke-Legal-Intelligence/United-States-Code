@@ -48,7 +48,7 @@ Compensation.—Each member of each Advisory Committee shall be compensated for 
 
 (f)
 
-Access to Information.—Members of each Advisory Committee shall be provided access torecords and information in the United States Patent and Trademark Office, except for personnel or other privileged information and information concerning patent applications required to be kept in confidence by section 122.
+Access to Information.—Members of each Advisory Committee shall be provided access to records and information in the United States Patent and Trademark Office, except for personnel or other privileged information and information concerning patent applications required to be kept in confidence by section 122.
 
 (g)
 
@@ -110,5 +110,5 @@ In general.—The Secretary of Commerce shall, in the Secretary's discretion, de
 
 "(B)
 
-Deemed termination of terms.—In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee under section 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act \[Jan. 14, 2013\], regardless of whether December 1 is before or after the date on which such member's term would terminate if this Act had not been enacted."
+Deemed termination of terms.—In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee undersection 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act \[Jan. 14, 2013\], regardless of whether December 1 is before or after the date on which such member's term would terminate if this Act had not been enacted."
 

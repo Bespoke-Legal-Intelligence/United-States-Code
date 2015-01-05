@@ -164,7 +164,7 @@ Plan development considerations.—The Board shall—
 
 "(C)
 
-Report.—Within 180 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall submit a report to the Committee on Commerce, Science, and Transportation ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
+Report.—Within 180 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
 
 &emsp;"(i) an updated copy of the plan developed pursuant to subparagraph (A)(i);
 

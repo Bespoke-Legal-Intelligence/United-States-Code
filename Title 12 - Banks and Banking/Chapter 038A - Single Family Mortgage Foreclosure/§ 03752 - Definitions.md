@@ -4,7 +4,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (1) Bona fide purchaser
 
-&emsp;The term "bona fide purchaser" means a purchaser for value in good faith and without notice of any adverse claim, and who acquires the security property free of any adverse claim.
+&emsp;The term "bona fide purchaser" means a purchaser for value in good faith and withoutnotice of any adverse claim, and who acquires the security property free of any adverse claim.
 
 #### (2) County
 

@@ -10,7 +10,7 @@ Not later than 60 days after November 25, 2002, the President shall transmit to 
 
 #### (b) Plan elements
 
-The plan transmitted under subsection (a) of this section shall contain, consistent with this chapter, such elements as the President deems appropriate, including the following:
+The plan transmitted under subsection (a) shall contain, consistent with this chapter, such elements as the President deems appropriate, including the following:
 
 &emsp;(1) Identification of any functions of agencies transferred to the Department pursuant to this chapter that will not be transferred to the Department under the plan.
 
@@ -26,21 +26,21 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 #### (c) Modification of plan
 
-The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan until that part of the plan becomes effective in accordance with subsection (d) of this section.
+The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan until that part of the plan becomes effective in accordance with subsection (d).
 
 #### (d) Effective date
 
 #### (1) In general
 
-&emsp;The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (d) of this section, shall become effective for an agency on the earlier of—
+&emsp;The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (d), shall become effective for an agency on the earlier of—
 
-&emsp;&emsp;(A) the date specified in the plan (or the plan as modified pursuant to subsection (d) of this section), except that such date may not be earlier than 90 days after the date the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a) of this section; or
+&emsp;&emsp;(A) the date specified in the plan (or the plan as modified pursuant to subsection (d)), except that such date may not be earlier than 90 days after the date the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a); or
 
 &emsp;&emsp;(B) the end of the transition period.
 
 #### (2) Statutory construction
 
-&emsp;Nothing in this subsection may be construed to require the transfer of functions, personnel, records, balances of appropriations, or other assets of an agency on a single date.
+&emsp;Nothing in this subsection may be construed to require the transfer of functions, personnel,records, balances of appropriations, or other assets of an agency on a single date.
 
 #### (3) Supersedes existing law
 
@@ -50,7 +50,7 @@ The President may, on the basis of consultations with the appropriate congressio
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### DEPARTMENT OF HOMELAND SECURITY
 
@@ -62,13 +62,13 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 #### Introduction
 
-This Reorganization Plan is submitted pursuant to Section 1502 of the Department \[sic\] of Homeland Security Act of 2002 \[6 U.S.C. 542\] (“the Act”), which requires submission, not later than 60 days after enactment \[Nov. 25, 2002\], of a reorganization plan regarding two categories of information concerning plans for the Department of Homeland Security (“the Department” or “DHS”):
+This Reorganization Plan is submitted pursuant to Section 1502 of the Department \[sic\] of Homeland Security Act of 2002 \[6 U.S.C. 542\] ("the Act"), which requires submission, not later than 60 days after enactment \[Nov. 25, 2002\], of a reorganization plan regarding two categories of information concerning plans for the Department of Homeland Security ("the Department" or "DHS"):
 
 &emsp;(1) The transfer of agencies, personnel, assets, and obligations to the Department pursuant to this Act \[Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135\].
 
 &emsp;(2) Any consolidation, reorganization, or streamlining of agencies transferred to the Department pursuant to this Act. Section 1502(a).
 
-Section 1502(b) of the Act identifies six elements, together with other elements “as the President deems appropriate,” as among those for discussion in the plan. Each of the elements set out in the statute is identified <i>verbatim</i> below, followed by a discussion of current plans with respect to that element.
+Section 1502(b) of the Act identifies six elements, together with other elements "as the President deems appropriate," as among those for discussion in the plan. Each of the elements set out in the statute is identified <i>verbatim</i> below, followed by a discussion of current plans with respect to that element.
 
 This plan is subject to modification pursuant to Section 1502(d) of the Act, which provides that on the basis of consultations with appropriate congressional committees the President may modify or revise any part of the plan until that part of the plan becomes effective. Additional details concerning the process for establishing the Department will become available in the coming weeks and months, and the President will work closely with Congress to modify this plan consistent with the Act.
 
@@ -78,9 +78,9 @@ This plan is subject to modification pursuant to Section 1502(d) of the Act, whi
 
 &emsp;Except as otherwise directed in the Act, all functions of agencies that are to be transferred to the Department pursuant to the Act will be transferred to the Department under the plan. The functions of agencies being transferred to the Department which the Act directs are not to be transferred are the following:
 
-&emsp;&emsp;• Pursuant to Section 201(g)(1) of the Act \[6 U.S.C. 121(g)(1)\], the Computer Investigations and Operations Section (“CIOS”) of the National Infrastructure Protection Center (“NIPC”) of the Federal Bureau of Investigation (“FBI”) will not transfer to the Department with the rest of NIPC. CIOS is the FBI headquarters entity responsible for managing all FBI computer intrusion field office cases (whether law enforcement or national security related).
+&emsp;&emsp;• Pursuant to Section 201(g)(1) of the Act \[6 U.S.C. 121(g)(1)\], the Computer Investigations and Operations Section ("CIOS") of the National Infrastructure Protection Center ("NIPC") of the Federal Bureau of Investigation ("FBI") will not transfer to the Department with the rest of NIPC. CIOS is the FBI headquarters entity responsible for managing all FBI computer intrusion field office cases (whether law enforcement or national security related).
 
-&emsp;&emsp;• Pursuant to Sections 421(c) \& (d) of the Act \[6 U.S.C. 231(c), (d)\], the regulatory responsibilities and quarantine activities relating to agricultural import and entry inspection activities of the United States Department of Agriculture (“the USDA”) Animal and Plant Health Inspection Service (“APHIS”) will remain with the USDA, as will the Secretary of Agriculture's authority to issue regulations, policies, and procedures regarding the functions transferred pursuant to Sections 421(a) \& (b) of the Act.
+&emsp;&emsp;• Pursuant to Sections 421(c) \& (d) of the Act \[6 U.S.C. 231(c), (d)\], the regulatory responsibilities and quarantine activities relating to agricultural import and entry inspection activities of the United States Department of Agriculture ("the USDA") Animal and Plant Health Inspection Service ("APHIS") will remain with the USDA, as will the Secretary of Agriculture's authority to issue regulations, policies, and procedures regarding the functions transferred pursuant to Sections 421(a) \& (b) of the Act.
 
 &emsp;&emsp;• Pursuant to Subtitle B of Title IV of the Act \[6 U.S.C. 211 et seq.\], the authorities of the Secretary of the Treasury related to Customs revenue functions, as defined in the statute, will not transfer to the Department.
 
@@ -144,7 +144,7 @@ A. <i>Steps to be taken by the Secretary to organize the Department</i>. The Pre
 
 &emsp;• Establish, within the Office of the Secretary, the Office for State and Local Government Coordination, the Office of International Affairs, and the Office of National Capital Region Coordination.
 
-&emsp;• Establish the Homeland Security Advanced Research Projects Agency and the Acceleration Fund for Research and Development of Homeland Security Technologies.
+&emsp;• Establish the Homeland Security Advanced Research Projects Agency and the Acceleration Fundfor Research and Development of Homeland Security Technologies.
 
 &emsp;• Establish within the Directorate of Science and Technology the Office for National Laboratories.
 
@@ -154,11 +154,11 @@ A. <i>Steps to be taken by the Secretary to organize the Department</i>. The Pre
 
 <i>March 1, 2003:</i>
 
-&emsp;• Transfer the Critical Infrastructure Assurance Office (“CIAO”) of the Department of Commerce, the National Communications System (“the NCS”), the NIPC of the FBI (other than the CIOS), the National Infrastructure Simulation and Analysis Center (“NISAC”), the Energy Assurance Office (“EAO”) of the Department of Energy, and the Federal Computer Incident Response Center of the General Services Administration (“FedCIRC”).
+&emsp;• Transfer the Critical Infrastructure Assurance Office ("CIAO") of the Department of Commerce, the National Communications System ("the NCS"), the NIPC of the FBI (other than the CIOS), the National Infrastructure Simulation and Analysis Center ("NISAC"), the Energy Assurance Office ("EAO") of the Department of Energy, and the Federal Computer Incident Response Center of the General Services Administration ("FedCIRC").
 
 &emsp;• Transfer the Coast Guard.
 
-&emsp;• Transfer the Customs Service, the Transportation Security Administration (“the TSA”), functions of the Immigration and Naturalization Service (“the INS”), the Federal Protective Service (“the FPS”), the Office of Domestic Preparedness (“the ODP”), and the Federal Law Enforcement Training Center (“the FLETC”).
+&emsp;• Transfer the Customs Service, the Transportation Security Administration ("the TSA"), functions of the Immigration and Naturalization Service ("the INS"), the Federal Protective Service ("the FPS"), the Office of Domestic Preparedness ("the ODP"), and the Federal Law Enforcement Training Center ("the FLETC").
 
 &emsp;• Transfer the functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under the laws specified in Section 421(b) of the Act \[6 U.S.C. 231(b)\] from the Animal and Plant Health Inspection Service.
 
@@ -178,9 +178,9 @@ A. <i>Steps to be taken by the Secretary to organize the Department</i>. The Pre
 
 &emsp;&emsp;º The Environmental Measurements Laboratory of the Department of Energy.
 
-&emsp;• Transfer the Federal Emergency Management Agency (“FEMA”).
+&emsp;• Transfer the Federal Emergency Management Agency ("FEMA").
 
-&emsp;• Transfer the Integrated Hazard Information System of the National Oceanic and Atmospheric Administration, which shall be renamed “FIRESTAT.”
+&emsp;• Transfer the Integrated Hazard Information System of the National Oceanic and Atmospheric Administration, which shall be renamed "FIRESTAT."
 
 &emsp;• Transfer the National Domestic Preparedness Office of the FBI, including the functions of the Attorney General relating thereto.
 
@@ -208,7 +208,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;<b>1. Information Analysis and Infrastructure Protection</b>
 
-&emsp;&emsp;a. <i>Under Secretary for Information Analysis and Infrastructure Protection (“IA and IP”):</i> Will be responsible for oversight of functions of NIPC, NCS, CIAO, NISAC, EAO, and FedCIRC transferred by the Act, the management of the Directorate's Information Analysis and Infrastructure Protection duties, and the administration of the Homeland Security Advisory System.
+&emsp;&emsp;a. <i>Under Secretary for Information Analysis and Infrastructure Protection ("IA and IP"):</i> Will be responsible for oversight of functions of NIPC, NCS, CIAO, NISAC, EAO, and FedCIRC transferred by the Act, the management of the Directorate's Information Analysis and Infrastructure Protection duties, and the administration of the Homeland Security Advisory System.
 
 &emsp;&emsp;b. <i>Assistant Secretary for Information Analysis:</i> Will oversee the following Information Analysis functions:
 
@@ -242,7 +242,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Treat information in such databases in a manner that complies with applicable Federal law on privacy.
 
-&emsp;&emsp;&emsp;• Coordinate training and other support to the elements and personnel of the Department, otheragencies of the Federal Government, and State and local governments that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.
+&emsp;&emsp;&emsp;• Coordinate training and other support to the elements and personnel of the Department, other agencies of the Federal Government, and State and local governments that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.
 
 &emsp;&emsp;&emsp;• Coordinate with elements of the intelligence community and with Federal, State, and local law enforcement agencies, and the private sector, as appropriate.
 
@@ -274,7 +274,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Support the Under Secretary for Information Analysis and Infrastructure Protection by assessing and testing homeland security vulnerabilities and possible threats.
 
-&emsp;&emsp;&emsp;• Conduct basic and applied research, development, demonstration, testing, and evaluation activities that are relevant to any or all elements of the Department, through both intramural and extramural programs, except that such responsibility does not extend to human health-related research and development activities.
+&emsp;&emsp;&emsp;• Conduct basic and applied research, development, demonstration, testing, and evaluation activities that are relevant to any or all elements ofthe Department, through both intramural and extramural programs, except that such responsibility does not extend to human health-related research and development activities.
 
 &emsp;&emsp;&emsp;• Establish priorities for directing, funding, and conducting national research, development, test and evaluation, and procurement of technology and systems for—
 
@@ -288,7 +288,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Collaborate with the Secretary of Agriculture and the Attorney General as provided in Section 212 of the Agricultural Bioterrorism Protection Act of 2002 (7 U.S.C. §8401), as amended by Section 1709(b) of the Act.
 
-&emsp;&emsp;&emsp;• Collaborate with the Secretary of Health and Human Services and the Attorney General in determining any new biological agents and toxins that shall be listed as “select agents” in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to Section 351A of the Public Health Service Act (42 U.S.C. §262a).
+&emsp;&emsp;&emsp;• Collaborate with the Secretary of Health and Human Services and the Attorney General in determining any new biological agents and toxins that shall be listed as "select agents" in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to Section 351A of the Public Health Service Act (42 U.S.C. §262a).
 
 &emsp;&emsp;&emsp;• Support United States leadership in science and technology.
 
@@ -302,7 +302,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;<b>3. Border and Transportation Security</b>
 
-&emsp;&emsp;The Directorate of Border and Transportation Security (“BTS”) will include the following: the Bureau of Border Security \[now Bureau of Immigration and Customs Enforcement\]; the Office for Domestic Preparedness; the Customs Service \[now Bureau of Customs and Border Protection\]; the Transportation Security Administration; FLETC; and FPS.
+&emsp;&emsp;The Directorate of Border and Transportation Security ("BTS") will include the following: the Bureau of Border Security \[now Bureau of Immigration and Customs Enforcement\]; the Office for Domestic Preparedness; the Customs Service \[now Bureau of Customs and Border Protection\]; the Transportation Security Administration; FLETC; and FPS.
 
 &emsp;&emsp;The BTS Directorate will also have in place the key leaders of the new Directorate to include:
 
@@ -420,7 +420,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;• The attached tables \[not set out in the Code\] provide estimates of the unobligated balances as of September 30, 2002, for the agencies and programs that will be transferred to the Department. The first table provides estimates of unobligated balances for the accounts that are moving to the Department in whole. The second table provides estimates of the unobligated balances in the accounts of which only a portion will be transferring to the new Department. These latter estimates, however, are of the unobligated balances for the full account, only a portion of which are associated with the activities that will be transferred to the Department. In addition, these unobligated balances are based on the Department of Treasury's estimates as of September 30, 2002, which are the latest available figures. Since October 1, 2002, Departments and agencies (except the Department of Defense) have been operating under continuing resolutions, and, as such, have been spending these balances to maintain current operations.
 
-> &emsp;Authority to reallocate unexpended funds of agencies transferred under this Plan is found in H.J. Res. 124 \[Pub. L. 107–294, Nov. 23, 2002, 116 Stat. 2062\], the continuing resolution in effect currently and until January 11, 2003. The resolution provides authority for the Office of Management and Budget to transfer an amount not to exceed $140,000,000 from unobligated balances of appropriations enacted before October 1, 2002 “for organizations and entities that will be transferred to the new Department and for salaries and expenses associated with the initiation of the Department.” Such authority may be exercised upon providing 15 days’ notice to the Appropriations Committees. We anticipate that it may be necessary to provide funding through such transfers both for transferring entities and for salaries and expenses associated with the initiation of the Department, including, for example, those associated with establishing the Office of the Secretary and other new offices provided for in the Act. Any plan to use such funding will follow the procedures required under the continuing resolution, including the provision of at least 15 days’ notice to the Appropriations Committees.
+> &emsp;Authority to reallocate unexpended funds of agencies transferred under this Plan is found in H.J. Res. 124 \[Pub. L. 107–294, Nov. 23, 2002, 116 Stat. 2062\], the continuing resolution in effect currently and until January 11, 2003. The resolution provides authority for the Office of Management and Budget to transfer an amount not to exceed $140,000,000 from unobligated balances of appropriations enacted before October 1, 2002 "for organizations and entities that will be transferred to the new Department and for salaries and expenses associated with the initiation of the Department." Such authority may be exercised upon providing 15 days' notice to the Appropriations Committees. We anticipate that it may be necessary to provide funding through such transfers both for transferring entities and for salaries and expenses associated with the initiation of the Department, including, for example, those associated with establishing the Office of the Secretary and other new offices provided for in the Act. Any plan to use such funding will follow the procedures required under the continuing resolution, including the provision of at least 15 days' notice to the Appropriations Committees.
 
 <b>(5) Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations of agencies transferred under the plan.</b>
 
@@ -464,15 +464,15 @@ Enclosure.
 
 #### Introduction
 
-This Reorganization Plan Modification is submitted pursuant to the Homeland Security Act (“the Act”) of 2002 \[Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135\]. All elements of the Department of Homeland Security Reorganization Plan of November 25, 2002 (“the Plan”) \[set out above\] remain as submitted except for those modifications addressed herein.
+This Reorganization Plan Modification is submitted pursuant to the Homeland Security Act ("the Act") of 2002 \[Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135\]. All elements of the Department of Homeland Security Reorganization Plan of November 25, 2002 ("the Plan") \[set out above\] remain as submitted except for those modifications addressed herein.
 
 #### Purpose of Modification
 
-This modification of the Plan is to establish and specify organizational units within the Border and Transportation Security Directorate. This modification presents a structural change, but does not consolidate, discontinue, or diminish transferred agencies’ current operations in the field.
+This modification of the Plan is to establish and specify organizational units within the Border and Transportation Security Directorate. This modification presents a structural change, but does not consolidate, discontinue, or diminish transferred agencies' current operations in the field.
 
 #### Plan Modifications
 
-(a) <i>Rename the “Bureau of Border Security” the “Bureau of Immigration and Customs Enforcement.”</i> As required by the Act, this Bureau will be headed by an Assistant Secretary who will report directly to the Undersecretary for Border and Transportation Security.
+(a) <i>Rename the "Bureau of Border Security" the "Bureau of Immigration and Customs Enforcement."</i> As required by the Act, this Bureau will be headed by an Assistant Secretary who will report directly to the Undersecretary for Border and Transportation Security.
 
 &emsp;This Bureau will comprise Immigration Naturalization Service (INS) interior enforcement functions, including the detention and removal program, the intelligence program, and the investigations program. At the same time, pursuant to this modification, the interior enforcement resources and missions of the Customs Service and the Federal Protective Service will be added to this Bureau. The mission of the Bureau is:
 
@@ -490,7 +490,7 @@ The Assistant Secretary will:
 
 &emsp;2\. Advise the Under Secretary for Border and Transportation Security with respect to any policy or operation of the Bureau that may affect the Bureau of Citizenship and Immigration Services established under subtitle E of the Act \[probably means subtitle E of title IV of the Act, 6 U.S.C. 271 et seq.\], including potentially conflicting policies and operations.
 
-(b) <i>Rename the “Customs Service” the “Bureau of Customs and Border Protection.”</i> This Bureau will be headed by the Commissioner of Customs and will report to the Under Secretary for Border and Transportation Security.
+(b) <i>Rename the "Customs Service" the "Bureau of Customs and Border Protection."</i> This Bureau will be headed by the Commissioner of Customs and will report to the Under Secretary for Border and Transportation Security.
 
 &emsp;The Bureau will contain the resources and missions relating to borders and ports of entry of the Customs Service, the INS, including the Border Patrol and the inspections program, and the agricultural inspections function of the Agricultural Quarantine Inspection program.
 
@@ -498,9 +498,9 @@ The Commissioner will:
 
 &emsp;1\. Establish and oversee the administration of the policies for performing the Border Patrol and inspections program functions as are—
 
-&emsp;&emsp;(a) transferred to the Under Secretary for Border and Transportation Security by Section 441 of the Act \[6 U.S.C. 251\] and delegated to the Commissioner by the Under Secretary for Border and Transportation Security; or
+&emsp;&emsp;(a) transferred to the Under Secretary for Border and Transportation Security by Section 441 of theAct \[6 U.S.C. 251\] and delegated to the Commissioner by the Under Secretary for Border and Transportation Security; or
 
-&emsp;&emsp;(b) otherwise vested in the Assistant Secretary \[probably should be “Commissioner”\] by law.
+&emsp;&emsp;(b) otherwise vested in the Assistant Secretary \[probably should be "Commissioner"\] by law.
 
 &emsp;2\. Advise the Under Secretary for Border and Transportation Security with respect to any policy or operation of the Bureau that may affect the Bureau of Citizenship and Immigration Services established under subtitle E of the Act \[probably means subtitle E of title IV of the Act, 6 U.S.C. 271 et seq.\], including potentially conflicting policies and operations.
 
@@ -544,7 +544,7 @@ The White House, <i>Washington, January 30, 2003.</i>
 
 <i>Dear Mr. Speaker: (Dear Mr. President:)</i> <sup>1</sup>
 
-Pursuant to section 1502 of the Homeland Security Act of 2002 \[6 U.S.C. 542\] (Public Law 107–296) (the “Act”), I submit herewith the enclosed Reorganization Plan Modification for the Department of Homeland Security (DHS), which represents a modification of certain aspects of the DHS Reorganization Plan \[set out above\] I submitted to you on November 25, 2002. The modification involves organizational units within the DHS Border and Transportation Security Directorate. The enclosed Reorganization Plan Modification provides information concerning the elements identified in section 1502(b), and is itself subject to modification pursuant to section 1502(d) of the Act. In accordance with section 1502(a) of the Act, please transmit this Reorganization Plan Modification to the appropriate congressional committees.
+Pursuant to section 1502 of the Homeland Security Act of 2002 \[6 U.S.C. 542\] (Public Law 107–296) (the "Act"), I submit herewith the enclosed Reorganization Plan Modification for the Department of Homeland Security (DHS), which represents a modification of certain aspects of the DHS Reorganization Plan \[set out above\] I submitted to you on November 25, 2002. The modification involves organizational units within the DHS Border and Transportation Security Directorate. The enclosed Reorganization Plan Modification provides information concerning the elements identified in section 1502(b), and is itself subject to modification pursuant to section 1502(d) of the Act. In accordance with section 1502(a) of the Act, please transmit this Reorganization Plan Modification to the appropriate congressional committees.
 
 > Sincerely,
 

@@ -56,7 +56,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term "golden parachute payment" means any payment (or any agreement to make any payment) in the nature of compensation by any regulated entity for the benefit of any affiliated party pursuant to an obligation of such regulated entity that—
+&emsp;&emsp;For purposes of this subsection, the term "golden parachute payment" means any payment (or any agreement to make anypayment) in the nature of compensation by any regulated entity for the benefit of any affiliated party pursuant to an obligation of such regulated entity that—
 
 &emsp;&emsp;&emsp;(i) is contingent on the termination of such party's affiliation with the regulated entity; and
 

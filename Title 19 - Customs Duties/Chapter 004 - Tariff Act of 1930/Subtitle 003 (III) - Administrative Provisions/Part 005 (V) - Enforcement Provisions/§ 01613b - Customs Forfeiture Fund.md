@@ -102,7 +102,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 (2)(A) Subject to subparagraph (B), there are authorized to be appropriated from the Fund not to exceed $20,000,000 for each fiscal year to carry out the purposes set forth in subsections (a)(3) and (b) of this section for such fiscal year.
 
-(B) Of the amount authorized to be appropriated under subparagraph (A), not to exceed the following, shall be available to carry out the purposes set forth in subsection (a)(3) of this section:
+(B) Of the amount authorized to be appropriated under subparagraph (A), not to exceedthe following, shall be available to carry out the purposes set forth in subsection (a)(3) of this section:
 
 &emsp;(i) $14,855,000 for fiscal year 1991.
 

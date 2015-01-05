@@ -44,7 +44,7 @@ Pub. L. 103–322 substituted "fined under this title" for "fined not more than 
 
 <b>1978</b>—Pub. L. 95–598 substituted, wherever appearing, "debtor" for "bankrupt", "case under title 11" for "bankruptcy proceeding", and "provisions of title 11" for "bankruptcy law"; and substituted "a custodian" for "the receiver, custodian", wherever appearing, and "recorded information, including books, documents, records, and papers, relating to the property or financial affairs" for "document affecting or relating to the property or affairs", in two places.
 
-<b>1976</b>—Pub. L. 94–550 inserted paragraph covering the knowing and fraudulent making of a false declaration,certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28 or in relation to any bankruptcy proceeding.
+<b>1976</b>—Pub. L. 94–550 inserted paragraph covering the knowing and fraudulent making of a false declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28 or in relation to any bankruptcy proceeding.
 
 <b>1960</b>—Pub. L. 86–701 included fraudulent transfers and concealment of property by persons in their individual capacity in sixth par.
 

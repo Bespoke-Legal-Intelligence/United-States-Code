@@ -1,6 +1,6 @@
 ### §751. Rules of survey
 
-The public lands shall be divided by north and south lines run according to the true meridian,and by others crossing them at right angles, so as to form townships of six miles square, unless where the line of an Indian reservation, or of tracts of land surveyed or patented prior to May 18, 1796, or the course of navigable rivers, may render this impracticable; and in that case this rule must be departed from no further than such particular circumstances require.
+The public lands shall be divided by north and south lines run according to the true meridian, and by others crossing them at right angles, so as to form townships of six miles square, unless where the line of an Indian reservation, or of tracts of land surveyed or patented prior to May 18, 1796, or the course of navigable rivers, may render this impracticable; and in that case this rule must be departed from no further than such particular circumstances require.
 
 Second. The corners of the townships must be marked with progressive numbers from the beginning; each distance of a mile between such corners must be also distinctly marked with marks different from those of the corners.
 
@@ -66,13 +66,13 @@ Topics.—In the report required by subsection (c), the Secretary of the Interio
 
 &emsp;"(1) relevant recommendations made by the National Academy of Sciences (National Research Council) on the concept of a multipurpose cadastre from time to time prior to the date of enactment of this Act \[Aug. 20, 1988\];
 
-&emsp;"(2) ongoing activities concerning development of an overall reference frame for land and resource information, including but not limited to a geodeticnetwork, a series of current and accurate large-scale maps, cadastral overlay maps, unique identifying numbers linking specific land parcels to a common index of all land records in United States cadastral systems, and a series of land data files;
+&emsp;"(2) ongoing activities concerning development of an overall reference frame for land and resource information, including but not limited to a geodetic network, a series of current and accurate large-scale maps, cadastral overlay maps, unique identifying numbers linking specific land parcels to a common index of all land records in United States cadastral systems, and a series of land data files;
 
 &emsp;"(3) ways to achieve better definition of the roles of Federal and other governmental agencies and the private sector in dealing with land information systems;
 
 &emsp;"(4) ways to improve the coordination of Federal land information activities; and
 
-&emsp;"(5) model standards developed by the Secretary for compatible multipurpose land information systems for use by Federal, State and local governmental agencies, the public, and the private sector.
+&emsp;"(5) model standards developed by the Secretary for compatible multipurpose land information systemsfor use by Federal, State and local governmental agencies, the public, and the private sector.
 
 "(e)
 

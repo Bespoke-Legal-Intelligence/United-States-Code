@@ -2,7 +2,7 @@
 
 #### (a) Prohibition against fraudulent use of "Made in America" labels
 
-A person shall not intentionally affix a label bearing the inscription of "Made in America",or any inscription with that meaning, to any product sold in or shipped to the United States, if that product is not a domestic product.
+A person shall not intentionally affix a label bearing the inscription of "Made in America", or any inscription with that meaning, to any product sold in or shipped to the United States, if that product is not a domestic product.
 
 #### (b) Report
 
@@ -20,5 +20,5 @@ For the purposes of this section, the term "domestic product" means a product—
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of theDepartment of Housing and Urban Development Act which comprises this chapter.
 

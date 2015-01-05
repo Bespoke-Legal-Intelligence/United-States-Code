@@ -140,7 +140,7 @@ Pub. L. 104–106, div. A, title VI, §614(a)(2), Feb. 10, 1996, 110 Stat. 361, 
 
 Pub. L. 102–25, title VII, §702(a)(1), Apr. 6, 1991, 105 Stat. 117, substituted "Multiyear retention" for "Retention" in item 301d.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title VI, §§611(a)(2), 618(c)(2), title XII, §1203(a)(2), title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1576, 1579, 1657, 1717, revised chapter heading so as to appear in all capital letters, added item 301d, inserted "and nonphysician health care providers" after "psychologists" in item 302c, and added item 317.
+<b>1990</b>—Pub. L. 101–510, div. A, title VI, §§611(a)(2), 618(c)(2), title XII, §1203(a)(2), title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1576, 1579, 1657, 1717, revised chapterheading so as to appear in all capital letters, added item 301d, inserted "and nonphysician health care providers" after "psychologists" in item 302c, and added item 317.
 
 <b>1989</b>—Pub. L. 101–189, div. A, title V, §505(a)(2), title VII, §§704(b)(2), 705(a)(2), 706(a)(2), Nov. 29, 1989, 103 Stat. 1438, 1471–1473, struck out "in the Public Health Service Corps" after "psychologists" in item 302c and added items 302d, 302e, and 308d.
 
@@ -166,7 +166,7 @@ Pub. L. 96–284, §§2(b), 3(a)(2), (b)(6), 4(d)(4), 5(b), June 28, 1980, 94 St
 
 <b>1979</b>—Pub. L. 96–107, title IV, §404(a)(2), Nov. 9, 1979, 93 Stat. 808, struck out item 309 "Reserves; members of National Guard: additional pay for performance of administrative duty."
 
-<b>1978</b>—Pub. L. 95–485, title IV, §404(b), title VIII, §804(b)(2), Oct. 20, 1978, 92 Stat. 1615, 1621, substituted"on duty" for "on sea duty or duty" in item 305, and added items 305a and 308c.
+<b>1978</b>—Pub. L. 95–485, title IV, §404(b), title VIII, §804(b)(2), Oct. 20, 1978, 92 Stat. 1615, 1621, substituted "on duty" for "on sea duty or duty" in item 305, and added items 305a and 308c.
 
 <b>1977</b>—Pub. L. 95–79, title IV, §403(a)(2), July 30, 1977, 91 Stat. 331, added item 308b.
 

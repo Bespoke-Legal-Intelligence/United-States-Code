@@ -26,7 +26,7 @@ Conditions on Leases.—A lease under subsection (a)—
 
 &emsp;(6) except as otherwise provided in subsection (d), shall require the lessee to provide the covered entities specified in paragraph (1) of that subsection the right to establish and operate a community support facility or provide community support services, or seek equitable compensation for morale, welfare, and recreation programs of the Department of Defense in lieu of the operation of such a facility or the provision of such services, if the Secretary determines that the lessee will provide merchandise or services in direct competition with covered entities through the lease; and
 
-&emsp;(7) may not provide for a leaseback by the Secretary concerned with an annual paymentin excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount.
+&emsp;(7) may not provide for a leaseback by the Secretary concerned with an annual payment in excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount.
 
 (c)
 
@@ -106,15 +106,15 @@ Deposit and Use of Proceeds.—(1)(A) The Secretary concerned shall deposit in a
 
 (D) At least 50 percent of the proceeds deposited in the special account established for the Secretary concerned shall be available for activities described in subparagraph (C) only at the military installation or Defense Agency location where the proceeds were derived.
 
-(E) If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a) of this title, the proceeds shall be available for activities described in subparagraph (C) only at that museum.
+(E) If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a) <sup>1</sup> of this title, the proceeds shall be available for activities described in subparagraph (C) only at that museum.
 
 (2) Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
 
-(3) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary concerned (other than lands acquired by the United Statesfor flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
+(3) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary concerned (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
 
-(4) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005, shall be deposited into the account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+(4) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005, shall be deposited into the account established under section 2906(a) <sup>1</sup> of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(5) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+(5) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) <sup>1</sup> of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
 (f)
 
@@ -160,6 +160,14 @@ Competitive Procedures for Selection of Certain Lessees; Exception.—(1) If a p
 
 &emsp;(C) The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
 
+(4)(A) Paragraph (1) does not apply to a renewal, extension, or succeeding lease by the Secretary concerned with a financial institution selected in accordance with the Department of Defense Financial Management Regulation providing for the selection of financial institutions to operate on military installations if each of the following applies:
+
+&emsp;(i) The on-base financial institution was selected before the date of the enactment of this paragraph or competitive procedures are used for the selection of any new financial institutions.
+
+&emsp;(ii) A current and binding operating agreement is in place between the installation commander and the selected on-base financial institution.
+
+(B) The renewal, extension, or succeeding lease shall terminate upon the termination of the operating agreement described in subparagraph (A)(ii) associated with that lease.
+
 (i)
 
 Definitions.—In this section:
@@ -182,7 +190,7 @@ Definitions.—In this section:
 
 Exclusion of Certain Lands.—This section does not apply to oil, mineral, or phosphate lands.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, §1063(c)(13), div. B, title XXVIII, §2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, §1073(a)(26), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–350, §5(b)(44), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1075(b)(41), div. B, title XXVIII, §§2811(g)–2813(a), Jan. 7, 2011, 124 Stat. 4371, 4463; Pub. L. 112–239, div. B, title XXVII, §2712(c)(2), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 113–66, div. B, title XXVIII, §2812, Dec. 26, 2013, 127 Stat. 1014.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, §1063(c)(13), div. B, title XXVIII, §2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, §1073(a)(26), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–350, §5(b)(44), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1075(b)(41), div. B, title XXVIII,§§2811(g)–2813(a), Jan. 7, 2011, 124 Stat. 4371, 4463; Pub. L. 112–239, div. B, title XXVII, §2712(c)(2), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 113–66, div. B, title XXVIII, §2812, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 113–291, div. B, title XXVIII, §2811, Dec. 19, 2014, 128 Stat. 3700.)
 
 Historical and Revision Notes
 
@@ -264,9 +272,17 @@ In subsection (e), the words "of property" are inserted for clarity. The words "
 
 #### References in Text
 
+Section 489 of this title, referred to in subsec. (e)(1)(E), was repealed by Pub. L. 113–291, div. A, title III, §331(a), Dec. 19, 2014, 128 Stat. 3344.
+
+Sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e)(4), (5), which established, respectively, the Department of Defense Base Closure Account 1990 and the Department of Defense Base Closure Account 2005, were repealed by Pub. L. 112–239, div. B, title XXVII, §2711(a), Jan. 2, 2013, 126 Stat. 2140. A new section 2906, establishing the Department of Defense Base Closure Account, was enacted by section 2711(a) of Pub. L. 112–239.
+
 The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
+The date of the enactment of this paragraph, referred to in subsec. (h)(4)(A)(i), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
+
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(4). Pub. L. 113–291 added par. (4).
 
 <b>2013</b>—Subsec. (e)(1)(C)(vi). Pub. L. 113–66, §2812(a), added cl. (vi).
 
@@ -464,7 +480,7 @@ Subsec. (b)(4). Pub. L. 102–190, §2862(a)(2), (3), added par. (4) and redesig
 
 Subsec. (b)(5). Pub. L. 102–190, §2862(a)(2), (4), redesignated par. (4) as (5) and inserted "improvement," before "maintenance" and "the payment of" before "part or all".
 
-Subsec. (d)(3). Pub. L. 102–190, §2862(b), redesignated subpar. (B) as par. (3), substituted "As part of the request for authorizations of appropriations submitted to the Committees on Armed Services of the Senate and House of Representatives for each fiscal year" for "As part of the request for authorizations of appropriations to such Committees for each fiscal year after fiscal year 1992", redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "As part of the request for authorizations of appropriations for fiscal year 1992 to the Committees on Armed Services of the Senate and of the House of Representatives, the Secretary of Defense shall include an explanation of each lease from which money rentals will be received and deposited under this subsection during fiscal year 1991, together with an estimate of the amount to be received from each such lease and an explanation of the anticipated expenditures of such receipts."
+Subsec. (d)(3). Pub. L. 102–190, §2862(b), redesignated subpar. (B) as par. (3), substituted "As part of the request for authorizations of appropriations submitted to the Committees on Armed Services of the Senate and House of Representatives for each fiscal year" for "As part of the request for authorizations of appropriations to such Committees for each fiscal year after fiscal year 1992", redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "As part of the request for authorizations of appropriations for fiscal year 1992 to the Committees on Armed Services of the Senate and ofthe House of Representatives, the Secretary of Defense shall include an explanation of each lease from which money rentals will be received and deposited under this subsection during fiscal year 1991, together with an estimate of the amount to be received from each such lease and an explanation of the anticipated expenditures of such receipts."
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–510 added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: "Except as provided in paragraph (2), money rentals received by the United States directly from a lease under this section shall be covered into the Treasury as miscellaneous receipts. Payments for utilities or services furnished to the lessee under such a lease by the department concerned may be covered into the Treasury to the credit of the appropriation from which the cost of furnishing them was paid."
 
@@ -531,4 +547,6 @@ Pub. L. 102–396, title IX, §9107, Oct. 6, 1992, 106 Stat. 1927.
 #### Leasing of Defense Property; Notification of Congress; Waiver; Report to Congress; Definition
 
 Pub. L. 96–533, title I, §109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, provided that before the Secretary of a military department exercised his authority under section 2667 of title 10, United States Code, in order to lease defense property to a foreign government for a period of more than six months, the President had to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, a written notification of the particulars of the proposed lease, prior to repeal by Pub. L. 97–113, title I, §109(d)(1), Dec. 29, 1981, 95 Stat. 1526. See section 2795 et seq. of Title 22, Foreign Relations and Intercourse.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ Notice and Exception.—The prohibition in subsection (a) shall not apply to a c
 
 &emsp;(2) not later than 7 days before entering into such contract, the Secretary, in consultation with the Director of National Intelligence, submits to the congressional defense committees a national security assessment for such contract that includes the following:
 
-&emsp;&emsp;(A) The projected period of performance (including any period covered by options to extend the contract), the financial terms,and a description of the services to be provided under the contract.
+&emsp;&emsp;(A) The projected period of performance (including any period covered by options to extend the contract), the financial terms, and a description of the services to be provided under the contract.
 
 &emsp;&emsp;(B) To the extent practicable, a description of the ownership interest that a covered foreign country has in the foreign entity providing satellite services to the Department of Defense under the contract and the launch or other satellite services that will be provided in a covered foreign country under the contract.
 

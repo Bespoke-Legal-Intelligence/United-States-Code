@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whoever violates any provision of law to which this section is made applicable by subsection (c) of this section shall be subject to a civil penalty in an amount assessed by the court in a civil action under this section.
+Whoever violates any provision of law to which this section is made applicable by subsection (c) shall be subject to a civil penalty in an amount assessed by the court in a civil action under this section.
 
 #### (b) Maximum amount of penalty
 
@@ -46,7 +46,7 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 #### (1) In general
 
-&emsp;For the purpose of conducting a civil investigation in contemplation of a civil proceedingunder this section, the Attorney General may—
+&emsp;For the purpose of conducting a civil investigation in contemplation of a civil proceeding under this section, the Attorney General may—
 
 &emsp;&emsp;(A) administer oaths and affirmations;
 
@@ -56,7 +56,7 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 #### (2) Procedures applicable
 
-&emsp;The same procedures and limitations as are provided with respect to civil investigative demands in subsections (g), (h), and (j) of section 1968 of title 18 apply with respect to a subpoena issued under this subsection. Process required by such subsections to be served upon the custodian shall be served on the Attorney General. Failure to comply with an order of the court to enforce such subpoena shall be punishable as contempt.
+&emsp;The same procedures and limitations as are provided with respect to civil investigative demands in subsections (g), (h), and (j) of section 1968 of title 18 apply with respect to a subpoena issued under this subsection. Process required by such subsections to be served uponthe custodian shall be served on the Attorney General. Failure to comply with an order of the court to enforce such subpoena shall be punishable as contempt.
 
 #### (3) Limitation
 

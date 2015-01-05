@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (ii) Wells not in production entire year
 
-&emsp;&emsp;&emsp;In the case of a well which is not capable of production during each day of a taxable year, the limitations under this paragraph applicable to the well shall be proportionately reduced to reflect the ratio which the number of days of production bears tothe total number of days in the taxable year.
+&emsp;&emsp;&emsp;In the case of a well which is not capable of production during each day of a taxable year, the limitations under this paragraph applicable to the well shall be proportionately reduced to reflect the ratio which the number of days of production bears to the total number of days in the taxable year.
 
 #### (3) Definitions
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (1) Production attributable to the taxpayer
 
-&emsp;In the case of a qualified marginal well in which there is more than one owner of operating interests in the well and the crude oil or natural gas production exceeds the limitation under subsection (c)(2), qualifying crude oil production or qualifying natural gas production attributable to the taxpayer shall be determined on the basis of the ratio which taxpayer's revenue interest in the production bears to the aggregate of the revenue interests of all operating interest owners in the production.
+&emsp;In the case of a qualified marginal well in which there is more than one owner of operating interests in the well and the crude oil ornatural gas production exceeds the limitation under subsection (c)(2), qualifying crude oil production or qualifying natural gas production attributable to the taxpayer shall be determined on the basis of the ratio which taxpayer's revenue interest in the production bears to the aggregate of the revenue interests of all operating interest owners in the production.
 
 #### (2) Operating interest required
 

@@ -42,7 +42,39 @@ Academy Personnel.—To carry out this part, the Secretary may—
 
 &emsp;(2) pay the individual without regard to chapter 51 and subchapter III of chapter 53 of title 5.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1569; Pub. L. 112–213, title IV, §404, Dec. 20, 2012, 126 Stat. 1570.)
+(e)
+
+Donation for Historical Purposes.—
+
+&emsp;(1)
+
+In general.—The Secretary may convey the right, title, and interest of the United States Government in any property administered by the Maritime Administration, except real estate or vessels, if—
+
+&emsp;&emsp;(A) the Secretary determines that such property is not needed by the Maritime Administration; and
+
+&emsp;&emsp;(B) the recipient—
+
+&emsp;&emsp;&emsp;(i) is a nonprofit organization, a State, or a political subdivision of a State;
+
+&emsp;&emsp;&emsp;(ii) agrees to hold the Government harmless for any claims arising from exposure to hazardous materials, including asbestos, polychlorinated biphenyls, or lead paint, after conveyance of the property;
+
+&emsp;&emsp;&emsp;(iii) provides a description and explanation of the intended use of the property to the Secretary for approval;
+
+&emsp;&emsp;&emsp;(iv) has provided to the Secretary proof, as determined by the Secretary, of resources sufficient to accomplish the intended use provided under clause (iii) and to maintain the property;
+
+&emsp;&emsp;&emsp;(v) agrees that when the recipient no longer requires the property, the recipient shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) return the property to the Secretary, at the recipient's expense and in the same condition as received except for ordinary wear and tear; or
+
+&emsp;&emsp;&emsp;&emsp;(II) subject to the approval of the Secretary, retain, sell, or otherwise dispose of the property in a manner consistent with applicable law; and
+
+&emsp;&emsp;&emsp;(vi) agrees to any additional terms the Secretary considers appropriate.
+
+&emsp;(2)
+
+Reversion.—The Secretary shall include in any conveyance under this subsection terms under which all right, title, and interest conveyed by the Secretary shall revert to the Government if the Secretary determines the property has been used other than as approved by the Secretary under paragraph (1)(B)(iii).
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1569; Pub. L. 112–213, title IV, §404, Dec. 20, 2012, 126 Stat. 1570; Pub. L. 113–281, title III, §302, Dec. 18, 2014, 128 Stat. 3042.)
 
 Historical and Revision Notes
 
@@ -77,6 +109,8 @@ June 29, 1936, ch. 858, title XIII, §1308(b)–(d), as added Pub. L. 96–453, 
 In subsection (c), the word "department" is omitted as unnecessary because of the definition of "agency" in chapter 1 of the revised title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e). Pub. L. 113–281 added subsec. (e).
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–213, §404(1), struck out "Surplus" before "Property" in heading.
 

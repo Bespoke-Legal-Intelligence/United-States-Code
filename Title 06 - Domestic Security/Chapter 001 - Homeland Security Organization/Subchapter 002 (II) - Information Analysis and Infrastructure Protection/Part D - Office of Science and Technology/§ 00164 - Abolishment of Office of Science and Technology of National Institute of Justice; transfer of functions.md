@@ -6,7 +6,7 @@ The Attorney General may transfer to the Office any other program or activity of
 
 #### (b) Transfer of personnel and assets
 
-With respect to any function, power, or duty, or any program or activity, that is established in the Office, those employees and assets of the element of the Department of Justice from which the transfer is made that the Attorney General determines are needed to perform that function, power, or duty, or for that program or activity, as the case may be, shall be transferred to the Office: <i>Provided</i>, That any such transfer shall be carried out in accordance with section 605 of Public Law 107–77.
+With respect to any function, power, or duty, or any program or activity, that is establishedin the Office, those employees and assets of the element of the Department of Justice from which the transfer is made that the Attorney General determines are needed to perform that function, power, or duty, or for that program or activity, as the case may be, shall be transferred to the Office: <i>Provided</i>, That any such transfer shall be carried out in accordance with section 605 of Public Law 107–77.
 
 #### (c) Report on implementation
 
@@ -22,9 +22,9 @@ Not later than 1 year after November 25, 2002, the Attorney General shall submit
 
 Section 605 of Public Law 107–77, referred to in subsec. (b), is section 605 of Pub. L. 107–77, title VI, Nov. 28, 2001, 115 Stat. 798, which is not classified to the Code.
 
-This subchapter, referred to in subsec. (c), was in the original “this title”, meaning title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2145, which enacted this subchapter, amended sections 1030, 2511, 2512, 2520, 2701 to 2703, and 3125 of Title 18, Crimes and Criminal Procedure, sections 3712 and 3722 of Title 42, The Public Health and Welfare, and section 401a of Title 50, War and National Defense, and enacted provisions set out as a note under section 101 of this title and listed in a Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses table set out under section 994 of Title 28, Judiciary and Judicial Procedure. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsec. (c), was in the original "this title", meaning title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2145, which enacted this subchapter, amended sections 1030, 2511, 2512, 2520, 2701 to 2703, and 3125 of Title 18, Crimes and Criminal Procedure, sections 3712 and 3722 of Title 42, The Public Health and Welfare, and section 401a of Title 50, War and National Defense, and enacted provisions set out as a note under section 101 of this title and listed in a Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses table set out under section 994 of Title 28, Judiciary and Judicial Procedure. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–7 inserted before period at end “: <i>Provided</i>, That any such transfer shall be carried out in accordance with section 605 of Public Law 107–77”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–7 inserted before period at end ": <i>Provided</i>, That any such transfer shall be carried out in accordance with section 605 of Public Law 107–77".
 

@@ -26,7 +26,7 @@ Illinois is divided into three judicial districts to be known as the Northern, C
 
 &emsp;&emsp;Court for the Southern District shall be held at Alton, Benton, Cairo, and East Saint Louis.
 
-(June 25, 1948, ch. 646, 62 Stat. 878; Aug. 10, 1950, ch. 675, §1, 64 Stat. 438; Pub. L. 87–36, §3(c), May 19, 1961, 75 Stat. 83; Pub. L. 91–272, §8, June 2, 1970, 84 Stat. 297; Pub. L. 95–408, §4(b)(1), Oct. 2, 1978, 92 Stat. 884; Pub. L. 95–573, §1, Nov. 2, 1978,92 Stat. 2458; Pub. L. 98–620, title IV, §406(a), (c), Nov. 8, 1984, 98 Stat. 3361; Pub. L. 106–130, §2, Dec. 6, 1999, 113 Stat. 1677.)
+(June 25, 1948, ch. 646, 62 Stat. 878; Aug. 10, 1950, ch. 675, §1, 64 Stat. 438; Pub. L. 87–36, §3(c), May 19, 1961, 75 Stat. 83; Pub. L. 91–272, §8, June 2, 1970, 84 Stat. 297; Pub. L. 95–408, §4(b)(1), Oct. 2, 1978, 92 Stat. 884; Pub. L. 95–573, §1, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 98–620, title IV, §406(a), (c), Nov. 8, 1984, 98 Stat. 3361; Pub. L. 106–130, §2, Dec. 6, 1999, 113 Stat. 1677.)
 
 #### Historical and Revision Notes
 
@@ -94,5 +94,5 @@ Pub. L. 95–408, §4(b)(2)–(4), as added by Pub. L. 96–4, §1, Mar. 30, 197
 
 "(3) This section does not in any manner affect the tenure of the United States attorney, the assistant United States attorneys, or the United States marshal for the Eastern District of Illinois or for the Southern District of Illinois who are in office on the effective date of this Act \[180 days after Oct. 2, 1978\]. The United States attorney, the assistant United States attorneys, and the United States marshal for the Eastern District and for the Southern District of Illinois shall, on the effective date of this Act, become the United States attorney, the assistant United States attorneys, and the United States marshal for the Southern District and for the Central District of Illinois, respectively.
 
-"(4) Notwithstanding section 3240 of title 18, United States Code, any grand jury impaneled on or after the effective date of this Act \[180 days after Oct. 2, 1978\] by a district court for the Central District or the Southern District of Illinois may inquire into and return indictments charging offenses against the criminal laws ofthe United States alleged to have been committed anywhere within the territory of the respective judicial districts as such districts were constituted before or after the effective date of this Act."
+"(4) Notwithstanding section 3240 of title 18, United States Code, any grand jury impaneled on or after the effective date of this Act \[180 days after Oct. 2, 1978\] by a district court for the Central District or the Southern District of Illinois may inquire into and return indictments charging offenses against the criminal laws of the United States alleged to have been committed anywhere within the territory of the respective judicial districts as such districts were constituted before or after the effective date of this Act."
 

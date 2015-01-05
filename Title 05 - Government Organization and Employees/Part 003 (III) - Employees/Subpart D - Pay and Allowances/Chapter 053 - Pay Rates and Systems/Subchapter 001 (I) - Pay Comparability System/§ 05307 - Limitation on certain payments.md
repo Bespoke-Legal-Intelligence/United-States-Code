@@ -16,7 +16,7 @@
 
 (c) The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this section (subject to subsection (d)), including regulations (consistent with section 5582) concerning how a lump-sum payment under subsection (b) shall be made with respect to any employee who dies before an amount payable to such employee under subsection (b) is made.
 
-(d)(1) Notwithstanding any other provision of this section, subsection (a)(1) shall be applied by substituting “the total annual compensation payable to the Vice President under section 104 of title 3” for “the annual rate of basic pay payable for level I of the Executive Schedule” in the case of any employee who—
+(d)(1) Notwithstanding any other provision of this section, subsection (a)(1) shall be applied by substituting "the total annual compensation payable to the Vice President under section 104 of title 3" for "the annual rate of basic pay payable for level I of the Executive Schedule" in the case of any employee who—
 
 &emsp;(A) is paid under section 5376 or 5383 of this title or section 332(f), 603, or 604 of title 28; and
 
@@ -32,7 +32,7 @@
 
 (4) Notwithstanding any provision of paragraph (3), any regulations, certifications, or other measures necessary to carry out this subsection with respect to employees within the judicial branch shall be the responsibility of the Director of the Administrative Office of the United States Courts. However, the regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, §3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, §2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, §207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII, §1322, Nov. 25, 2002, 116 Stat. 2297; Pub. L. 110–372, §3(a), Oct. 8, 2008, 122 Stat. 4045.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, §3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, §2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, §207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII,§1322, Nov. 25, 2002, 116 Stat. 2297; Pub. L. 110–372, §3(a), Oct. 8, 2008, 122 Stat. 4045.)
 
 #### References in Text
 
@@ -42,35 +42,35 @@ Section 5757, referred to in subsec. (a)(2)(B), probably means the section 5757 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(2). Pub. L. 110–372, §3(a)(1), substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–372, §3(a)(1), substituted "applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance" for "the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance".
 
-Subsec. (d)(3)(B). Pub. L. 110–372, §3(a)(2), substituted “The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months” for “An agency's certification under this subsection shall be for a period of 2 calendar years” and struck out “, for purposes of either or both of those years,” after “time”.
+Subsec. (d)(3)(B). Pub. L. 110–372, §3(a)(2), substituted "The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months" for "An agency's certification under this subsection shall be for a period of 2 calendar years" and struck out ", for purposes of either or both of those years," after "time".
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1322(b)(1), inserted “or as otherwise provided under subsection (d),” after “under law,”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1322(b)(1), inserted "or as otherwise provided under subsection (d)," after "under law,".
 
-Subsec. (a)(2)(B). Pub. L. 107–273 substituted “5755, or 5757” for “or 5755”.
+Subsec. (a)(2)(B). Pub. L. 107–273 substituted "5755, or 5757" for "or 5755".
 
-Subsec. (c). Pub. L. 107–296, §1322(b)(2), substituted “this section (subject to subsection (d)),” for “this section,”.
+Subsec. (c). Pub. L. 107–296, §1322(b)(2), substituted "this section (subject to subsection (d))," for "this section,".
 
 Subsec. (d). Pub. L. 107–296, §1322(a), added subsec. (d).
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–77, §2(1)–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–77, §2(1)–(3), designated existing provisions as par. (1), substituted "cause the" for "cause to the", and added par. (2).
 
-Subsec. (b)(3). Pub. L. 102–77, §2(4), struck out par. (3) which read as follows: “Paragraph (1) shall not apply to an amount if, or to the extent that, it is attributable to a payment the authority for which would derive from section 4505a(d), 5753(e), or 5754(e).”
+Subsec. (b)(3). Pub. L. 102–77, §2(4), struck out par. (3) which read as follows: "Paragraph (1) shall not apply to an amount if, or to the extent that, it is attributable to a payment the authority for which would derive from section 4505a(d), 5753(e), or 5754(e)."
 
 <b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions prohibiting cash payments to employees in excess of annual rate of basic pay payable for level I of Executive Schedule in a calendar year, for provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15” for “section 665”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted "sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15" for "section 665".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–372, §3(c), Oct. 8, 2008, 122 Stat. 4046, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 8, 2008\].”
+Pub. L. 110–372, §3(c), Oct. 8, 2008, 122 Stat. 4046, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 8, 2008\]."
 
 #### Effective Date of 2002 Amendments
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–273, div. A, title II, §207(c), Nov. 2, 2002, 116 Stat. 1780, provided that: “The amendments made bythis section \[enacting section 5757 of this title and amending this section\] shall take effect on the first day of the first applicable pay period beginning on or after 6 months after the date of enactment of this Act \[Nov. 2, 2002\].”
+Pub. L. 107–273, div. A, title II, §207(c), Nov. 2, 2002, 116 Stat. 1780, provided that: "The amendments made by this section \[enacting section 5757 of this title and amending this section\] shall take effect on the first day of the first applicable pay period beginning on or after 6 months after the date of enactment of this Act \[Nov. 2, 2002\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -80,37 +80,37 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 Pub. L. 110–372, §3(b), Oct. 8, 2008, 122 Stat. 4045, provided that:
 
-“(1)
+"(1)
 
 Extension to 2009.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment of this Act \[Oct. 8, 2008\] and scheduled to expire at the end of calendar year 2008, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Limitation.—The expiration of any extension under this paragraph shall be not later than the later of—
 
-&emsp;&emsp;“(i) June 30, 2009; or
+&emsp;&emsp;"(i) June 30, 2009; or
 
-&emsp;&emsp;“(ii) the first anniversary of the date of the certification.
+&emsp;&emsp;"(ii) the first anniversary of the date of the certification.
 
-“(2)
+"(2)
 
 Extension to 2010.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment and scheduled to expire at the end of calendar year 2009, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Limitation.—The expiration of any extension under this paragraph shall be not later than the later of—
 
-&emsp;&emsp;“(i) June 30, 2010; or
+&emsp;&emsp;"(i) June 30, 2010; or
 
-&emsp;&emsp;“(ii) the second anniversary of the date of the certification.”
+&emsp;&emsp;"(ii) the second anniversary of the date of the certification."
 
 #### Freeze on Discretionary Awards, Bonuses, and Similar Payments for Federal Political Appointees
 
@@ -118,15 +118,15 @@ Memorandum of President of the United States, Aug. 3, 2010, 75 F.R. 47433, provi
 
 Memorandum for the Assistant to the President and Chief of Staff \[and\] The Heads of Executive Departments and Agencies
 
-At a time when so many American families are struggling to make ends meet, I am committed to making sure the Federal Government is spending the taxpayers’ money wisely and carefully, and cutting costs wherever possible. I am committed to ending programs that do not work, streamlining those that do, and bringing a new responsibility for stewardship of tax dollars. Like households and businesses across the country, the Federal Government is tightening its belt. This effort began during my first days in office, when I froze the salaries of the senior members of my White House Staff.
+At a time when so many American families are struggling to make ends meet, I am committed to making sure the Federal Government is spending the taxpayers' money wisely and carefully, and cutting costs wherever possible. I am committed to ending programs that do not work, streamlining those that do, and bringing a new responsibility for stewardship of tax dollars. Like households and businesses across the country, the Federal Government is tightening its belt. This effort began during my first days in office, when I froze the salaries of the senior members of my White House Staff.
 
 As a next step in this effort, I direct you to suspend cash awards, quality step increases, bonuses, and similar discretionary payments or salary adjustments to any politically appointed Federal employee, commencing immediately, and continuing through the end of Fiscal Year 2011. I also direct the Office of Personnel Management to issue guidance, in consultation with the Office of Management and Budget, to assist departments and agencies in implementing this policy.
 
 In addition to these actions freezing discretionary payments, I have proposed in my Budget for Fiscal Year 2011 a salary freeze for senior political appointees throughout the Federal Government. Unlike the administrative action I have taken today in this memorandum, my proposed salary freeze requires legislation, so it cannot be implemented absent legislative action by the Congress.
 
-I appreciate the hard work of our Federal workforce, and understand how important these payments can be to many workers and their families. Yet like households and businesses across the country, we need to make tough choices about how to spend our funds.
+I appreciate the hard work of our Federal workforce, and understand how important these payments can beto many workers and their families. Yet like households and businesses across the country, we need to make tough choices about how to spend our funds.
 
-This memorandum shall be carried out to the extent permitted by law and consistent with executive departments’ and agencies’ legal authorities. Nothing in this memorandum shall be construed to affect payments or salary adjustments for Federal employees who are not political appointees. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+This memorandum shall be carried out to the extent permitted by law and consistent with executive departments' and agencies' legal authorities. Nothing in this memorandum shall be construed to affect payments or salary adjustments for Federal employees who are not political appointees. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Director of the Office of Management and Budget is hereby authorized and directed to publish this memorandum in the Federal Register.
 
@@ -134,5 +134,5 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “applying”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "applying".</i>
 

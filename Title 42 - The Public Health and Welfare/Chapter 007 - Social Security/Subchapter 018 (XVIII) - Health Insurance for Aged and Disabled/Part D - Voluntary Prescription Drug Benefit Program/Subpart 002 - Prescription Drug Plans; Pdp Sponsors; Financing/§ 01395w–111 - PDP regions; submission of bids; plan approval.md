@@ -14,7 +14,7 @@
 
 #### (B) Relation to MA regions
 
-&emsp;&emsp;To the extent practicable, PDP regions shall be the same as MA regions under section 1395w–27a(a)(2) of this title. The Secretary may establish PDP regions which are not the same as MA regions if the Secretary determines that the establishment of different regions under this part would improve access to benefits under this part.
+&emsp;&emsp;To the extent practicable, PDP regions shall be the same as MA regions under section 1395w–27a(a)(2) of this title. The Secretary may establish PDP regions which arenot the same as MA regions if the Secretary determines that the establishment of different regions under this part would improve access to benefits under this part.
 
 #### (C) Authority for territories
 
@@ -106,7 +106,7 @@
 
 #### (2) Accounting for drug utilization
 
-&emsp;Such processes and methods for determining actuarial valuation shall take into account the effect that providing alternative prescription drug coverage (rather than standard prescription drug coverage) has on drug utilization.
+&emsp;Such processes and methods for determining actuarial valuation shall take into accountthe effect that providing alternative prescription drug coverage (rather than standard prescription drug coverage) has on drug utilization.
 
 #### (3) Responsibilities
 
@@ -122,7 +122,7 @@
 
 #### (1) Review of information
 
-&emsp;The Secretary shall review the information filed under subsection (b) of this section forthe purpose of conducting negotiations under paragraph (2).
+&emsp;The Secretary shall review the information filed under subsection (b) of this section for the purpose of conducting negotiations under paragraph (2).
 
 #### (2) Negotiation regarding terms and conditions
 
@@ -190,7 +190,7 @@
 
 #### (B) Maximizing assumption of risk
 
-&emsp;&emsp;The Secretary shall provide priority in approval for those plans bearing the highest level of risk (as computed by the Secretary), but the Secretary may take into account the level of the bids submitted by such plans.
+&emsp;&emsp;The Secretary shall provide priority in approval for those plans bearing the highestlevel of risk (as computed by the Secretary), but the Secretary may take into account the level of the bids submitted by such plans.
 
 #### (C) No full underwriting for limited risk plans
 
@@ -206,7 +206,7 @@
 
 #### (A) Limited risk plan
 
-&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which the PDP sponsor includes a modification of risklevel described in subparagraph (E) of subsection (b)(2) of this section in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
+&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which the PDP sponsor includes a modification of risk level described in subparagraph (E) of subsection (b)(2) of this section in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
 
 #### (B) Full risk plan
 
@@ -280,7 +280,7 @@
 
 #### (i) Costs
 
-&emsp;&emsp;&emsp;The entity contains costs to the Medicare Prescription Drug Account and to part D eligible individuals enrolled in a fallback prescription drug plan offered bythe entity through mechanisms such as generic substitution and price discounts.
+&emsp;&emsp;&emsp;The entity contains costs to the Medicare Prescription Drug Account and to part D eligible individuals enrolled in a fallback prescription drug plan offered by the entity through mechanisms such as generic substitution and price discounts.
 
 #### (ii) Quality programs
 
@@ -358,7 +358,7 @@ Pub. L. 108–173, title I, §107(a), Dec. 8, 2003, 117 Stat. 2169, provided tha
 
 "(1)
 
-In general.—The Secretary \[of Health and Human Services\] shall conduct a study that examinesvariations in per capita spending for covered part D drugs under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] among PDP regions and, with respect to such spending, the amount of such variation that is attributable to—
+In general.—The Secretary \[of Health and Human Services\] shall conduct a study that examines variations in per capita spending for covered part D drugs under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] among PDP regions and, with respect to such spending, the amount of such variation that is attributable to—
 
 &emsp;"(A) price variations (described in section 1860D–15(c)(2) of such Act \[42 U.S.C. 1395w–115(c)(2)\]); and
 

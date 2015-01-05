@@ -2,7 +2,7 @@
 
 #### (a) Duties of Secretary
 
-The Secretary of Agriculture is charged with the responsibility for the proper administration of sections 361a to 361i of this title, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretary to furnish such advice and assistance as will best promote the purposes of said sections, including participation in coordination of research initiated under said sections by the State agricultural experiment stations, from time to time to indicate such lines of inquiry as to him seem most important, and to encourage and assist in the establishment and maintenance of cooperation by and between the several State agricultural experiment stations, and between the stations and the United States Department of Agriculture.
+The Secretary of Agriculture is charged with the responsibility for the proper administration of sections 361a to 361i of this title, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretaryto furnish such advice and assistance as will best promote the purposes of said sections, including participation in coordination of research initiated under said sections by the State agricultural experiment stations, from time to time to indicate such lines of inquiry as to him seem most important, and to encourage and assist in the establishment and maintenance of cooperation by and between the several State agricultural experiment stations, and between the stations and the United States Department of Agriculture.
 
 #### (b) Ascertainment of entitlement
 
@@ -30,7 +30,7 @@ Before funds may be provided to a State under sections 361a to 361i of this titl
 
 #### (e) Requirements related to plan of work
 
-Each plan of work for a State required under subsection (d) of this section shall contain descriptions of the following:
+Each plan of work for a State required under subsection (d) shall contain descriptions of the following:
 
 &emsp;(1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
 
@@ -44,7 +44,7 @@ Each plan of work for a State required under subsection (d) of this section shal
 
 #### (1) Development
 
-&emsp;The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d) of this section.
+&emsp;The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d).
 
 #### (2) Consultation
 
@@ -52,7 +52,7 @@ Each plan of work for a State required under subsection (d) of this section shal
 
 #### (g) Treatment of plans of work for other purposes
 
-To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) of this section to satisfy other appropriate Federal reporting requirements.
+To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) to satisfy other appropriate Federal reporting requirements.
 
 (Mar. 2, 1887, ch. 314, §7, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 86–533, §1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, §3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, §103(f)(2), title II, §202(b), June 23, 1998, 112 Stat. 528, 532; Pub. L. 107–171, title VII, §7202, May 13, 2002, 116 Stat. 437.)
 
@@ -66,7 +66,7 @@ Section was formerly classified to section 379 of this title. See section 361h o
 
 <b>1998</b>—Pub. L. 105–185, §202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
 
-Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus."
+Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the nextCongress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus."
 
 <b>1976</b>—Pub. L. 94–273 substituted "October" for "July" in second par.
 

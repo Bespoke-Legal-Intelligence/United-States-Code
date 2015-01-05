@@ -106,7 +106,7 @@ Pub. L. 103–160, div. A, title VI, §622(b), Nov. 30, 1993, 107 Stat. 1683, as
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title VI, §622(b), Nov. 29, 1989, 103 Stat. 1447, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to expenses incurred after August 31, 1990."
+Pub. L. 101–189, div. A, title VI, §622(b), Nov. 29, 1989, 103 Stat. 1447, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to expenses incurred after August 31, 1990."
 
 #### Effective Date of 1984 Amendment
 

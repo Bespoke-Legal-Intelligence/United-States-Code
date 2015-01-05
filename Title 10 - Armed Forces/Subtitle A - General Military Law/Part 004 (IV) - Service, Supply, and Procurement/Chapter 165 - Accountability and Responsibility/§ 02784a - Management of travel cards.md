@@ -16,7 +16,7 @@ Offsets for Delinquent Travel Card Charges.—(1) The Secretary of Defense may r
 
 &emsp;(B) does not dispute the amount of the delinquency.
 
-(2) The amount deducted and withheld from pay under paragraph (1) with respect to a debt owed a creditor as described in that paragraph shall be disbursed to the creditor to reduce the amount of the debt.
+(2) The amount deducted and withheld from pay under paragraph (1) with respect to a debt owed a creditor as described in that paragraphshall be disbursed to the creditor to reduce the amount of the debt.
 
 (3) The amount of pay deducted and withheld from the pay owed to an employee or member with respect to a pay period under paragraph (1) may not exceed 15 percent of the disposable pay of the employee or member for that pay period, except that a higher amount may be deducted and withheld with the written consent of the employee or member.
 

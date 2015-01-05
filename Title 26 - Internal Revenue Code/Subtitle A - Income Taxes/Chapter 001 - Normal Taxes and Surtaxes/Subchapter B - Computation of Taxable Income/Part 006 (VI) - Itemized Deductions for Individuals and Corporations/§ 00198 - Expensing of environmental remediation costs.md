@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Special rule for expenditures for depreciable property
 
-&emsp;Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that theportion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
+&emsp;Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that the portion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
 
 #### (c) Qualified contaminated site
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Taxpayer must receive statement from State environmental agency
 
-&emsp;An area shall be treated as a qualified contaminated site with respect to expenditures paid or incurred during any taxable year only if the taxpayer receives a statement from the appropriate agency of the State in which such area is located that such area meets the requirement of paragraph (1)(B).
+&emsp;An area shall be treated as a qualified contaminated site with respect to expenditures paid or incurred during any taxable year onlyif the taxpayer receives a statement from the appropriate agency of the State in which such area is located that such area meets the requirement of paragraph (1)(B).
 
 #### (4) Appropriate State agency
 

@@ -16,7 +16,7 @@ For purposes of section 1842 of this title, a nonbank financial company supervis
 
 #### (3) Notice procedures
 
-&emsp;The notice procedures set forth in section 1843(j)(1) of this title, without regard to section 1843(j)(3) of this title, shall apply to an acquisition of any company (other than an insured depository institution) by a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors, as described in paragraph\(1), including any such company engaged in activities described in section 1843(k) of this title.
+&emsp;The notice procedures set forth in section 1843(j)(1) of this title, without regard to section 1843(j)(3) of this title, shall apply to an acquisition of any company (other than an insured depository institution) by a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors, as described in paragraph (1), including any such company engaged in activities described in section 1843(k) of this title.
 
 #### (4) Standards for review
 

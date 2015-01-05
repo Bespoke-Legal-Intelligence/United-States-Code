@@ -8,7 +8,7 @@ If an installment obligation is satisfied at other than its face value or distri
 
 &emsp;(2) the fair market value of the obligation at the time of distribution, transmission, or disposition, in the case of the distribution, transmission, or disposition otherwise than by sale or exchange.
 
-> any gain or loss so resulting shall be considered as resulting from the sale or exchange of the property in respect of which the installment obligation was received.
+> any gain or loss so resulting shall be considered as resulting from the sale or exchange of theproperty in respect of which the installment obligation was received.
 
 #### (b) Basis of obligation
 

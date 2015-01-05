@@ -40,7 +40,7 @@ A corporation shall not be considered a regulated investment company for any tax
 
 &emsp;&emsp;&emsp;(iii) the securities of one or more qualified publicly traded partnerships (as defined in subsection (h)).
 
-> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from apartnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
+> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from a partnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
 
 #### (c) Rules applicable to subsection (b)(3)
 
@@ -74,7 +74,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 #### (A) In general
 
-&emsp;&emsp;A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i)) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
+&emsp;&emsp;A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i) of this paragraph) for such quarter shall nevertheless be considered to have satisfied therequirements of such subsection for such quarter if—
 
 &emsp;&emsp;&emsp;(i) following the corporation's identification of the failure to satisfy the requirements of such subsection for such quarter, a description of each asset that causes the corporation to fail to satisfy the requirements of such subsection at the close of such quarter is set forth in a schedule for such quarter filed in the manner provided by the Secretary,
 
@@ -94,7 +94,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 &emsp;&emsp;&emsp;&emsp;(II) $10,000,000, and
 
-&emsp;&emsp;&emsp;(ii)(I) the corporation, following the identification of such failure, disposes of assets in order to meet the requirements of such subsection within 6 months after the last day of the quarter in which the corporation's identification of the failure to satisfy the requirements of such subsection occurred or such other time periodprescribed by the Secretary and in the manner prescribed by the Secretary, or
+&emsp;&emsp;&emsp;(ii)(I) the corporation, following the identification of such failure, disposes of assets in order to meet the requirements of such subsection within 6 months after the last day of the quarter in which the corporation's identification of the failure to satisfy the requirements of such subsection occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
 
 &emsp;&emsp;&emsp;(II) the requirements of such subsection are otherwise met within the time period specified in subclause (I).
 
@@ -190,13 +190,15 @@ For purposes of this section, the term "qualified publicly traded partnership" m
 
 &emsp;&emsp;(B) 1/9 of the gross income of such company which is derived from such sources.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22,1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, §205(e), Dec. 19, 2014, 128 Stat. 4027.)
 
 #### References in Text
 
 The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(2)(A). Pub. L. 113–295 inserted "of this paragraph" after "subparagraph (B)(i)" in introductory provisions.
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–325, §201(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -260,7 +262,7 @@ Subsec. (q). Pub. L. 100–647, §1006(o)(1), redesignated subsec. (q) as (h).
 
 Subsec. (b). Pub. L. 99–514, §1235(f)(3), inserted "or 1293(a)" and "or 1293(c) (as the case may be)", in concluding provision.
 
-Pub. L. 99–514, §653(c), inserted before last sentence "For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities)."
+Pub. L. 99–514, §653(c), inserted before last sentence "For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company's principal business of investing in stock or securities (oroptions and futures with respect to stock or securities)."
 
 Subsec. (b)(2). Pub. L. 99–514, §653(b), inserted "(as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies".
 
@@ -291,6 +293,10 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 <b>1958</b>—Subsec. (e)(1). Pub. L. 85–866, §38(a), substituted "not earlier than 60 days" for "not less than 60 days" in first sentence.
 
 Subsec. (e)(2). Pub. L. 85–866, §38(b), substituted "issuer" for "issues".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective as if included in the provision of the Regulated Investment Company Modernization Act of 2010, Pub. L. 111–325, to which such amendment relates, with savings provision in certain cases of an election by a regulated investment company under section 852(b)(8) of this title, see section 205(f) of Pub. L. 113–295, set out as a note under section 852 of this title.
 
 #### Effective Date of 2010 Amendment
 

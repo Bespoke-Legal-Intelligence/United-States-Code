@@ -24,7 +24,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(B) actively and regularly seek the participation of non-governmental indigenous peoples and conservation organizations in the host countries at all stages of project planning and strategy sessions;
 
-&emsp;&emsp;(C) fully inform local communities and appropriate non-governmental organizations with interests in local development projects of all project planning sufficiently in advance of project appraisal to allow informedparticipation of local communities and non-governmental organizations that may be adversely affected by them;
+&emsp;&emsp;(C) fully inform local communities and appropriate non-governmental organizations with interests in local development projects of all project planning sufficiently in advance of project appraisal to allow informed participation of local communities and non-governmental organizations that may be adversely affected by them;
 
 &emsp;(3) establish a regular integrated multidisciplinary planning process to conduct land use capability analyses in reviewing potential loans. Such plans shall include, but not be limited to, a review of ongoing or other potential resource utilization efforts in and adjacent to the project area;
 
@@ -76,7 +76,7 @@ In the report of the Secretary of the Treasury required by subsection (e), regar
 
 The Administrator of the Agency for International Development in conjunction with the Secretaries of Treasury and State shall—
 
-&emsp;(1) instruct overseas missions of the Agency for International Development and embassies of the United States to analyze the impacts of Multilateral Development Bank projects proposed to be undertaken in the host country well in advance of a project's approval by the relevant institution. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
+&emsp;(1) instruct overseas missions of the Agency for International Development and embassiesof the United States to analyze the impacts of Multilateral Development Bank projects proposed to be undertaken in the host country well in advance of a project's approval by the relevant institution. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
 
 &emsp;(2) in preparation of reviews required by subsection (g)(1), compile a list of categories of projects likely to have adverse impacts on the environment, natural resources, or indigenous peoples. The list shall be developed in consultation with interested members of the public and made available to the Committee on Appropriations by December 31, 1986 and semiannually thereafter; and
 
@@ -128,7 +128,7 @@ Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, provided that:
 
 &emsp;"(3) provide analysis for each proposed loan to support additional power generating capacity, comparing the economic and environmental costs of investments in demand reduction, including energy conservation and end-use energy efficiency, with the economic and environmental costs of the proposal;
 
-&emsp;"(4) assure that systematic, detailed environmental impact assessments (EIA) of proposed energyprojects, or projects with potential significant environmental impacts, are conducted early in the project cycle. Assessments should include but not be limited to—
+&emsp;"(4) assure that systematic, detailed environmental impact assessments (EIA) of proposed energy projects, or projects with potential significant environmental impacts, are conducted early in the project cycle. Assessments should include but not be limited to—
 
 &emsp;&emsp;"(A) consideration of a wide range of alternatives to the proposed project including, where feasible, alternative investments in end-use energy efficiency and non-conventional renewable energy; and
 

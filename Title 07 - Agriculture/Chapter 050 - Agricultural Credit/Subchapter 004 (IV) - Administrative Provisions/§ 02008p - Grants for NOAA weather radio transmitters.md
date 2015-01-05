@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Rural Utilities Service, may make grants to public and nonprofit entities, and borrowers of loans made by the Rural Utilities Service, for the Federal share of the cost of acquiring radio transmitters to increase coverage of rural areas by the all hazards weather radio broadcast system of the National Oceanic and Atmospheric Administration.
+The Secretary, acting through the Administrator of the Rural Utilities Service, may make grants to public and nonprofit entities, and borrowers of loans made by the Rural UtilitiesService, for the Federal share of the cost of acquiring radio transmitters to increase coverage of rural areas by the all hazards weather radio broadcast system of the National Oceanic and Atmospheric Administration.
 
 #### (b) Eligibility
 
@@ -14,19 +14,21 @@ To be eligible for a grant under this section, an applicant shall provide to the
 
 #### (c) Federal share
 
-A grant provided under this section shall be not more than 75 percent of the total cost of acquiring a radio transmitter, as described in subsection (a) of this section.
+A grant provided under this section shall be not more than 75 percent of the total cost of acquiring a radio transmitter, as described in subsection (a).
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
+There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
 
-(Pub. L. 87–128, title III, §379B, as added Pub. L. 107–171, title VI, §6024, May 13, 2002, 116 Stat. 371; amended Pub. L. 110–234, title VI, §6021, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6021, June 18, 2008, 122 Stat. 1664, 1934.)
+(Pub. L. 87–128, title III, §379B, as added Pub. L. 107–171, title VI, §6024, May 13, 2002, 116 Stat. 371; amended Pub. L. 110–234, title VI, §6021, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6021, June 18, 2008, 122 Stat. 1664, 1934; Pub. L. 113–79, title VI, §6022, Feb. 7, 2014, 128 Stat. 848.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–79 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012."
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–246, §6021, substituted "2008 through 2012" for "2002 through 2007".
 

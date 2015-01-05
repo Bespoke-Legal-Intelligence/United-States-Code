@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(bb) the prior adoption were treated as never having occurred; or
 
-&emsp;(ii) in the case of a child who is an applicable child for the fiscal year (as so defined), the child meets the requirements of subparagraph (A)(ii)(II), is determined eligible for adoption assistance payments under this part with respect to a prior adoption (or who would have been determined eligible for such payments had the Adoption and Safe Families Act of 1997 been in effect at the time that such determination would have been made), and is available for adoption because the prior adoptionhas been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died.
+&emsp;(ii) in the case of a child who is an applicable child for the fiscal year (as so defined), the child meets the requirements of subparagraph (A)(ii)(II), is determined eligible for adoption assistance payments under this part with respect to a prior adoption (or who would have been determined eligible for such payments had the Adoption and Safe Families Act of 1997 been in effect at the time that such determination would have been made), and is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died.
 
 (D) In determining the eligibility for adoption assistance payments of a child in a legal guardianship arrangement described in section 671(a)(28) of this title, the placement of the child with the relative guardian involved and any kinship guardianship assistance payments made on behalf of the child shall be considered never to have been made.
 
@@ -98,9 +98,23 @@
 
 &emsp;(iii) was adopted outside of the United States or was brought into the United States for the purpose of being adopted.
 
-(B) Subparagraph (A) shall not be construed as prohibiting payments under this part for an applicable child described in subparagraph (A) that is placed in foster care subsequent to the failure, as determined by the State, of the initial adoption of the child by the parents described in subparagraph (A).
+(B) Subparagraph (A) shall not be construed as prohibiting payments under this part for an applicable child described in subparagraph (A) that is placed in foster care subsequent to the failure,as determined by the State, of the initial adoption of the child by the parents described in subparagraph (A).
 
-(8) A State shall spend an amount equal to the amount of savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year to provide to children or families any service (including post-adoption services) that may be provided under this part or part B, and shall document how such amounts are spent, including on post-adoption services.
+(8)(A) A State shall calculate the savings (if any) resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year, using a methodology specified by the Secretary or an alternate methodology proposed by the State and approved by the Secretary.
+
+(B) A State shall annually report to the Secretary—
+
+&emsp;(i) the methodology used to make the calculation described in subparagraph (A), without regard to whether any savings are found;
+
+&emsp;(ii) the amount of any savings referred to in subparagraph (A); and
+
+&emsp;(iii) how any such savings are spent, accounting for and reporting the spending separately from any other spending reported to the Secretary under part B or this part.
+
+(C) The Secretary shall make all information reported pursuant to subparagraph (B) available on the website of the Department of Health and Human Services in a location easily accessible to the public.
+
+(D)(i) A State shall spend an amount equal to the amount of the savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year, to provide to children of families any service that may be provided under part B or this part. A State shall spend not less than 30 percent of any such savings on post-adoption services, post-guardianship services, and services to support and sustain positive permanent outcomes for children who otherwise might enter into foster care under the responsibility of the State, with at least 2/3 of the spending by the State to comply with such 30 percent requirement being spent on post-adoption and post-guardianship services.
+
+(ii) Any State spending required under clause (i) shall be used to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or this part.
 
 #### (b) Aid for dependent children; assistance for minor children in needy families
 
@@ -202,13 +216,17 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) kinship guardianship assistance payments may be paid on behalf of each sibling so placed.
 
+#### (C) Eligibility not affected by replacement of guardian with a successor guardian
+
+&emsp;&emsp;In the event of the death or incapacity of the relative guardian, the eligibility of a child for a kinship guardianship assistance payment under this subsection shall not be affected by reason of the replacement of the relative guardian with a successor legal guardian named in the kinship guardianship assistance agreement referred to in paragraph (1) (including in any amendment to the agreement), notwithstanding subparagraph (A) of this paragraph and section 671(a)(28) of this title.
+
 #### (e) Applicable child defined
 
 #### (1) On the basis of age
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraphs (2) and (3), in this section, the term "applicable child" means a child for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
+&emsp;&emsp;Subject to paragraphs (2) and (3), in this section, the term "applicable child" means achild for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
 
 #### (B) Applicable age
 
@@ -244,15 +262,19 @@ For purposes of this section—
 
 &emsp;&emsp;(C) meets the requirements of subsection (a)(2)(A)(ii).
 
-(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133; Pub. L. 109–171, title VII, §7404(b), Feb. 8, 2006, 120 Stat. 153; Pub. L. 110–351, title I, §101(b), (c)(1), (5), (f), title II, §201(c), title IV, §402, Oct. 7, 2008, 122 Stat. 3950, 3951, 3953, 3958, 3975; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 112–34, title I, §106(c), Sept. 30, 2011, 125 Stat. 377.)
+(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133; Pub. L. 109–171, title VII, §7404(b), Feb. 8, 2006, 120 Stat. 153; Pub. L. 110–351, title I, §101(b), (c)(1), (5), (f), title II, §201(c), title IV, §402, Oct. 7, 2008, 122 Stat. 3950, 3951, 3953, 3958, 3975; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 112–34, title I, §106(c), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title II, §§206, 207, Sept. 29, 2014, 128 Stat. 1939, 1940.)
 
 #### References in Text
 
 The Adoption and Safe Families Act of 1997, referred to in subsec. (a)(2)(C)(ii), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1305 of this title and Tables.
 
-Division A of subchapter XX, referred to in subsec. (b)(2), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act,enacting subchapter XX of this chapter, does not contain a subtitle 1.
+Division A of subchapter XX, referred to in subsec. (b)(2), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(8). Pub. L. 113–183, §206, amended par. (8) generally. Prior to amendment, par. (8) read as follows: "A State shall spend an amount equal to the amount of savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year to provide to children or families any service (including post-adoption services) that may be provided under this part or part B, and shall document how such amounts are spent, including on post-adoption services."
+
+Subsec. (d)(3)(C). Pub. L. 113–183, §207, added subpar. (C).
 
 <b>2011</b>—Subsec. (a)(8). Pub. L. 112–34 inserted ", and shall document how such amounts are spent, including on post-adoption services" before the period.
 
@@ -266,7 +288,7 @@ Subsec. (a)(2)(C). Pub. L. 110–351, §402(1)(A)(ii), substituted "if—" for "
 
 Subsec. (a)(2)(D). Pub. L. 110–351, §101(c)(1), added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 110–351, §201(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Notwithstanding the preceding paragraph, (A) no payment may be made to parents with respect to any child who has attained the age of eighteen (or, where the State determines that the child has a mental or physical handicap which warrants the continuation of assistance, the age of twenty-one), and (B) no payment may be made to parents with respect to any child if the State determines that the parents are no longer legally responsible for the support of the child or if the State determines that the child is no longer receiving any support from such parents. Parents who have been receiving adoption assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for such assistance payments, or eligible for assistance payments in a different amount."
+Subsec. (a)(4). Pub. L. 110–351, §201(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Notwithstanding the preceding paragraph, (A) no payment may be made to parents with respect to any child who has attained the age of eighteen (or, where the State determines that the child has a mental or physical handicap which warrants the continuation of assistance, the age of twenty-one), and (B) no payment may be made to parents with respect to any child if the State determines that the parents are no longer legally responsible for the support of the child or if the State determines that the child is no longer receivingany support from such parents. Parents who have been receiving adoption assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for such assistance payments, or eligible for assistance payments in a different amount."
 
 Subsec. (a)(7), (8). Pub. L. 110–351, §402(1)(B), added pars. (7) and (8).
 
@@ -316,7 +338,7 @@ Subsec. (b). Pub. L. 100–203, §9133(b)(4), inserted sentence at end.
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–603, as amended Pub. L. 100–203, §9139(b), inserted at end "The last sentence of section 672(a) of this title shall apply, for purposes of subparagraph (B), in any case where the child is an alien described in that sentence."
 
-Pub. L. 99–514, §1711(a), substituted par. (1) and introductory text of par. (2) for former introductory text ofpar. (1) which read as follows: "Each State with a plan approved under this part shall, directly through the State agency or through another public or nonprofit private agency, make adoption assistance payments pursuant to an adoption assistance agreement in amounts determined under paragraph (2) of this subsection to parents who, after June 17, 1980, adopt a child who—". Former par. (2) redesignated (3).
+Pub. L. 99–514, §1711(a), substituted par. (1) and introductory text of par. (2) for former introductory text of par. (1) which read as follows: "Each State with a plan approved under this part shall, directly through the State agency or through another public or nonprofit private agency, make adoption assistance payments pursuant to an adoption assistance agreement in amounts determined under paragraph (2) of this subsection to parents who, after June 17, 1980, adopt a child who—". Former par. (2) redesignated (3).
 
 Subsec. (a)(3). Pub. L. 99–514, §1711(a)(1), (c)(3), redesignated par. (2) as (3), substituted "payments to be made in any case under clauses (i) and (ii) of paragraph (1)(B)" for "adoption assistance payments", and inserted "made under clause (ii) of paragraph (1)(B)". Former par. (3) redesignated (4).
 
@@ -333,6 +355,10 @@ Subsec. (b)(1)(A). Pub. L. 99–514, §1711(c)(5), substituted "subsection (a)(2
 Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted "without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter" for "without providing adoption assistance", and inserted "or medical assistance under subchapter XIX of this chapter" after "appropriate adoptive parents without providing adoption assistance under this section".
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–272, §102(a)(3), inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by section 206 of Pub. L. 113–183 effective Oct. 1, 2014, see section 210(d) of Pub. L. 113–183, set out as a note under section 671 of this title.
 
 #### Effective Date of 2011 Amendment
 

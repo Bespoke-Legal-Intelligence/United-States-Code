@@ -28,13 +28,13 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 (f)
 
-Authority to Accept Financial and Other Support.—(1) The Secretary of Defense and the Secretaries of the military departments may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
+Authority to Accept Financial and Other Support.—(1) The Secretary of Defense and theSecretaries of the military departments may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
 
 (2) The Secretary of Defense shall remain the executive agent to carry out the program regardless of the source of funds for the program or any transfer of jurisdiction over the program within the executive branch.
 
 (g)
 
-Annual Report.—Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on the program under this section. The report shall contain a discussion of the design and conduct of the programand an evaluation of the effectiveness of the program.
+Annual Report.—Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on the program under this section. The report shall contain a discussion of the design and conduct of the program and an evaluation of the effectiveness of the program.
 
 (h)
 

@@ -44,7 +44,7 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;(A) the amount reserved under subsection (b)(2)(B) of this section for the first such subsequent fiscal year of not being a transitional area is deemed to be reduced by an amount equal to the total of—
 
-&emsp;&emsp;&emsp;(i) the amount of the grant that, pursuant to section 300ff–13(a) of this title, was made under section 300ff–19(d)(2)(A) of thistitle for the metropolitan area for the preceding fiscal year; and
+&emsp;&emsp;&emsp;(i) the amount of the grant that, pursuant to section 300ff–13(a) of this title, was made under section 300ff–19(d)(2)(A) of this title for the metropolitan area for the preceding fiscal year; and
 
 &emsp;&emsp;&emsp;(ii) $500,000; and
 

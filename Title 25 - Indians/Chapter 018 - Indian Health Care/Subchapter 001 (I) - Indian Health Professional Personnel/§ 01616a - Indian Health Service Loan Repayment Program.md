@@ -162,7 +162,7 @@ Section 215 of title 42 shall not apply to individuals during their period of ob
 
 The Secretary, in assigning individuals to serve in Indian health programs pursuant to contracts entered into under this section, shall—
 
-&emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receive consideration on an equal basis with programs that are administered directly by the Service; and
+&emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receiveconsideration on an equal basis with programs that are administered directly by the Service; and
 
 &emsp;(2) give priority to assigning individuals to Indian health programs that have a need for health professionals to provide health care services as a result of individuals having breached contracts entered into under this section.
 
@@ -206,7 +206,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;(ii) enter into contracts for the recovery of such damages with collection agencies selected by the Secretary.
 
-(C) Each contract for recovering damages pursuant to this subsection shall provide that thecontractor will, not less than once each 6 months, submit to the Secretary a status report on the success of the contractor in collecting such damages. Section 3718 of title 31 shall apply to any such contract to the extent not inconsistent with this subsection.
+(C) Each contract for recovering damages pursuant to this subsection shall provide that the contractor will, not less than once each 6 months, submit to the Secretary a status report on the success of the contractor in collecting such damages. Section 3718 of title 31 shall apply to any such contract to the extent not inconsistent with this subsection.
 
 #### (m) Cancellation or waiver of obligations; bankruptcy discharge
 

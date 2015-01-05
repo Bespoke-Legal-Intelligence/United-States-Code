@@ -112,7 +112,7 @@ The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oc
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 113–4 added par. (1), redesignated former pars. (1) to (14) as (2) to (15), respectively, and substituted "paragraph (9)" for "paragraph (8)" in par. (14)and "paragraph (9) or (10)" for "paragraph (8) or (9)" in par. (15).
+<b>2013</b>—Pub. L. 113–4 added par. (1), redesignated former pars. (1) to (14) as (2) to (15), respectively, and substituted "paragraph (9)" for "paragraph (8)" in par. (14) and "paragraph (9) or (10)" for "paragraph (8) or (9)" in par. (15).
 
 <b>2008</b>—Par. (1). Pub. L. 110–457 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 

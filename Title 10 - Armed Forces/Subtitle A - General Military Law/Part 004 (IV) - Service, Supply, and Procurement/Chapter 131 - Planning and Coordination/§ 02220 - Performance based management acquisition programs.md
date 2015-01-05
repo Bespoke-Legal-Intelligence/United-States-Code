@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 104–106, §4321(b)(1), substituted "October 13, 1994" for
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 ofPub. L. 104–106, set out as a note under section 2302 of this title.
+For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 #### Pilot Programs for Testing Program Manager Performance of Product Support Oversight Responsibilities for Life Cycle of Acquisition Programs
 

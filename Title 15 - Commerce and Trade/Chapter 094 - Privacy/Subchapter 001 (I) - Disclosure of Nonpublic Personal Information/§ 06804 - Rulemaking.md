@@ -22,7 +22,7 @@
 
 #### (2) Coordination, consistency, and comparability
 
-&emsp;Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with <sup>1</sup> representatives of State insurance authorities designated by the National Association of Insurance Commissioners, for the purpose of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
+&emsp;Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with <sup>1</sup> representatives of State insurance authorities designated by the National Association of Insurance Commissioners, for the purpose of assuring, to theextent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
 
 #### (3) Procedures and deadline
 

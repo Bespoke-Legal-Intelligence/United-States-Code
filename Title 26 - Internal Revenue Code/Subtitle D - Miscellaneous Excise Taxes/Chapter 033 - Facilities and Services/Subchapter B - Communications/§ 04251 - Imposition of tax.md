@@ -68,21 +68,12 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 <b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'applicable percentage' means—
 
-<b>"With respect to amount paid pur-</b>
+&nbsp;
 
-<b> suant to bills first rendered:</b>
-
-<b>The percentage is:</b>
-
-&nbsp;&nbsp;During 1983, 1984, 1985, 1986, or 1987
-
-3&nbsp;&nbsp;
-
-&nbsp;&nbsp;During 1988 or thereafter
-
-0\."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>"With respect to amount paid pursuant to bills first rendered:</b> | <b>The percentage is:</b> |
+| :--- | ---: |
+| During 1983, 1984, 1985, 1986, or 1987 | 3&nbsp;&nbsp; |
+| During 1988 or thereafter | 0\." |
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 inserted "1985," after "1984," in table.
 
@@ -92,17 +83,17 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 &nbsp;
 
-| <b>"Amounts paid pursuant to bills first rendered—</b> | <b>Percent—</b> |
+| <b>"Amounts paid pursuant to bills first rendered—</b> | <b>Percent—</b> |
 | :--- | ---: |
-| "Before January 1, 1973 | 10 |
-| During 1973 | 9 |
-| During 1974 | 8 |
-| During 1975 | 7 |
-| During 1976 | 6 |
-| During 1977 | 5 |
-| During 1978 | 4 |
-| During 1979 | 3 |
-| During 1980 or 1981 | 2 |
+| Before January 1, 1973 | 10&nbsp;&nbsp; |
+| During 1973 | 9&nbsp;&nbsp; |
+| During 1974 | 8&nbsp;&nbsp; |
+| During 1975 | 7&nbsp;&nbsp; |
+| During 1976 | 6&nbsp;&nbsp; |
+| During 1977 | 5&nbsp;&nbsp; |
+| During 1978 | 4&nbsp;&nbsp; |
+| During 1979 | 3&nbsp;&nbsp; |
+| During 1980 or 1981 | 2&nbsp;&nbsp; |
 | During 1982, 1983, or 1984 | 1" |
 
 Subsec. (b). Pub. L. 97–248 added subsec. (b) and struck out former subsec. (b) which provided that the tax imposed by former subsec. (a) would not apply to amounts paid pursuant to bills first rendered on or after January 1, 1985.

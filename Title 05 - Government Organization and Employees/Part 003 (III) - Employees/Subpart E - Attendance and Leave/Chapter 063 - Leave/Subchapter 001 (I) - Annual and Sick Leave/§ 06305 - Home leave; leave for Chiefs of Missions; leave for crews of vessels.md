@@ -8,7 +8,7 @@
 
 &emsp;(3) may not be made the basis for terminal leave or for a lump-sum payment.
 
-(b) The President may authorize leave of absence to a chief of mission excepted from this subchapter by section 6301(2)(xii) of this title foruse in the United States and its territories or possessions. Leave so authorized does not constitute a leave system and may not be made the basis for a lump-sum payment.
+(b) The President may authorize leave of absence to a chief of mission excepted from this subchapter by section 6301(2)(xii) of this title for use in the United States and its territories or possessions. Leave so authorized does not constitute a leave system and may not be made the basis for a lump-sum payment.
 
 (c) An officer, crewmember, or other employee serving aboard an oceangoing vessel on an extended voyage may be granted leave of absence, under regulations of the Office of Personnel Management, at a rate not to exceed 2 days for each 30 calendar days of that service without regard to other leave provided by this subchapter. Leave so granted—
 
@@ -38,31 +38,31 @@ Oct. 30, 1951, ch. 631, §203(f), 65 Stat. 680.
 
 &nbsp;
 
-Sept. 6, 1960, Pub. L. 86–707, §401 “(f)”, 74 Stat. 799.
+Sept. 6, 1960, Pub. L. 86–707, §401 "(f)", 74 Stat. 799.
 
 (b)
 
 5 U.S.C. 2061(c)(2).
 
-July 2, 1953, ch. 178, §1 “(c)(2)”, 67 Stat. 136.
+July 2, 1953, ch. 178, §1 "(c)(2)", 67 Stat. 136.
 
-The words “in his discretion” are omitted as unnecessary in view of the permissive grant of authority.
+The words "in his discretion" are omitted as unnecessary in view of the permissive grant of authority.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “may not be made the basis for a lump-sum payment; and”.
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "may not be made the basis for a lump-sum payment; and".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2312(c), inserted “(or after a shorter period of such service if the employee's assignment is terminated for the convenience of the Government)” after “outside the United States”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2312(c), inserted "(or after a shorter period of such service if the employee's assignment is terminated for the convenience of the Government)" after "outside the United States".
 
-Subsec. (b). Pub. L. 96–465, §2314(f)(2), substituted “a chief of mission” for “an officer” after “leave of absence to”.
+Subsec. (b). Pub. L. 96–465, §2314(f)(2), substituted "a chief of mission" for "an officer" after "leave of absence to".
 
-<b>1979</b>—Subsec. (c)(3). Pub. L. 96–54 substituted “Office” for “Commission”.
+<b>1979</b>—Subsec. (c)(3). Pub. L. 96–54 substituted "Office" for "Commission".
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
-<b>1968</b>—Subsec. (c). Pub. L. 90–623 substituted “2” and “30” for “two” and “thirty”, respectively.
+<b>1968</b>—Subsec. (c). Pub. L. 90–623 substituted "2" and "30" for "two" and "thirty", respectively.
 
 <b>1966</b>—Pub. L. 89–747 added subsec. (c) and inserted reference to leave for crews of vessels in section catchline.
 

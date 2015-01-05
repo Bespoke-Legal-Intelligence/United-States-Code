@@ -1,16 +1,32 @@
 ### §2107. Acceptance of records for historical preservation
 
-When it appears to the Archivist to be in the public interest, he may—
+(a)
 
-&emsp;(1) accept for deposit with the National Archives of the United States the records of aFederal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government;
+In General.—When it appears to the Archivist to be in the public interest, the Archivist may—
 
-&emsp;(2) direct and effect the transfer to the National Archives of the United States of records of a Federal agency that have been in existence for more than thirty years and determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government, unless the head of the agency which has custody of them certified in writing to the Archivist that they must be retained in his custody for use in the conduct of the regular current business of the agency;
+&emsp;(1) accept for deposit with the National Archives of the United States the records of a Federal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government;
 
-&emsp;(3) direct and effect, with the approval of the head of the originating agency, or if the existence of the agency has been terminated, then with the approval of his successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
+&emsp;(2) direct and effect the transfer of records of a Federal agency determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government to the National Archives of the United States, as soon as practicable, and at a time mutually agreed upon by the Archivist and the head of that Federal agency not later than thirty years after such records were created or received by that agency, unless the head of such agency has certified in writing to the Archivist that such records must be retained in the custody of such agency for use in the conduct of the regular business of the agency;
+
+&emsp;(3) direct and effect, with the approval of the head of the originating Federal agency, or if the existence of the agency has been terminated, with the approval of the head of that agency's successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
 
 &emsp;(4) transfer materials from private sources authorized to be received by the Archivist by section 2111 of this title.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1287, §2103; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–416, §1(a), Oct. 5, 1978, 92 Stat. 915; renumbered §2107 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(1), Oct. 19, 1984, 98 Stat. 2280, 2285.)
+(b)
+
+Early Transfer of Records.—The Archivist—
+
+&emsp;(1) in consultation with the head of the originating Federal agency, is authorized to accept a copy of the records described in subsection (a)(2) that have been in existence for less than thirty years; and
+
+&emsp;(2) may not disclose any such records until the expiration of—
+
+&emsp;&emsp;(A) the thirty-year period described in paragraph (1);
+
+&emsp;&emsp;(B) any longer period established by the Archivist by order; or
+
+&emsp;&emsp;(C) any shorter period agreed to by the originating Federal agency.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1287, §2103; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–416, §1(a), Oct. 5, 1978, 92 Stat. 915; renumbered §2107 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(1), Oct. 19, 1984, 98 Stat. 2280, 2285; Pub. L. 113–187, §3(a), Nov. 26, 2014, 128 Stat. 2007.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +37,8 @@ Based on 44 U.S. Code, 1964 ed., §397(a) (June 30, 1949, ch. 288, title V, §50
 A prior section 2107 was renumbered section 2111 of this title.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–187 amended section generally. Prior to amendment, section provided for the acceptance of records by and transfer of records to the National Archives for historical preservation.
 
 <b>1984</b>—Pub. L. 98–497, §107(a)(1), substituted "Archivist" for "Administrator of General Services" in provisions preceding par. (1), substituted ", the Congress, the Architect of the Capitol, or the Supreme Court" for "or of the Congress" in par. (1), substituted "Archivist" for "Administrator" in par. (2), and substituted "Archivist" for "Administrator" and "section 2111" for "section 2107" in par. (4).
 
@@ -70,7 +88,7 @@ Findings and Declarations.—The Congress finds and declares that—
 
 &emsp;"(4) legislation is necessary because congressional records related to the assassination of President John F. Kennedy would not otherwise be subject to public disclosure until at least the year 2029;
 
-&emsp;"(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
+&emsp;"(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely publicdisclosure of records relating to the assassination of President John F. Kennedy;
 
 &emsp;"(6) legislation is necessary because \[former\] Executive Order No. 12356, entitled 'National Security Information' has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
 
@@ -276,7 +294,7 @@ Custody of Postponed Assassination Records.—An assassination record the public
 
 "(g)
 
-Periodic Review of Postponed Assassination Records.—(1) All postponed or redacted records shall be reviewed periodically by the originating agency andthe Archivist consistent with the recommendations of the Review Board under section 9(c)(3)(B).
+Periodic Review of Postponed Assassination Records.—(1) All postponed or redacted records shall be reviewed periodically by the originating agency and the Archivist consistent with the recommendations of the Review Board under section 9(c)(3)(B).
 
 "(2)(A) A periodic review shall address the public disclosure of additional assassination records in the Collection under the standards of this Act.
 
@@ -456,7 +474,7 @@ Termination and Winding Up.—(1) The Review Board and the terms of its members 
 
 "(a)
 
-Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard to political affiliation, to the position of Executive Director.
+Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard topolitical affiliation, to the position of Executive Director.
 
 "(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
 
@@ -552,7 +570,7 @@ Determinations of the Review Board.—(1) The Review Board shall direct that all
 
 &emsp;"(B) a statement, based on a review of the proceedings and in conformity with the decisions reflected therein, designating a recommended specified time at which or a specified occurrence following which the material may be appropriately disclosed to the public under this Act.
 
-"(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
+"(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed inthe Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
 
 "(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the case of legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
 
@@ -562,7 +580,7 @@ Presidential Authority Over Review Board Determination.—
 
 &emsp;"(1)
 
-Public disclosure or postponement of disclosure.—After the Review Board has made a formaldetermination concerning the public disclosure or postponement of disclosure of an executive branch assassination record or information within such a record, or of any information contained in an assassination record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 6, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive branch agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 6, accompanied by a copy of the identification aid required under section 4.
+Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch assassination record or information within such a record, or of any information contained in an assassination record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 6, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive branch agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 6, accompanied by a copy of the identification aid required under section 4.
 
 &emsp;"(2)
 
@@ -634,7 +652,7 @@ Freedom of Information Act.—Nothing in this Act shall be construed to eliminat
 
 "(c)
 
-Judicial Review.—Nothing in this Act shall be construed to preclude judicial review, under chapter 7 of title 5, United States Code, of final actions taken or required to be taken under this Act.
+Judicial Review.—Nothing in this Act shall be construed to preclude judicial review, under chapter 7of title 5, United States Code, of final actions taken or required to be taken under this Act.
 
 "(d)
 

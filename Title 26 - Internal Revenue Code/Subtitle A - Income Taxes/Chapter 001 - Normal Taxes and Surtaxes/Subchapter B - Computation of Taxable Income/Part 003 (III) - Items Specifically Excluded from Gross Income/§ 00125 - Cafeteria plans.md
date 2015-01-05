@@ -16,7 +16,7 @@ Except as provided in subsection (b), no amount shall be included in the gross i
 
 #### (2) Key employees
 
-&emsp;In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the statutory nontaxable benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, statutory nontaxable benefits shall be determined without regard to the second sentence of subsection (f).
+&emsp;In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the qualified benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, qualified benefits shall be determined without regard to the second sentence of subsection (f).
 
 #### (3) Year of inclusion
 
@@ -142,13 +142,13 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement merely because such arrangement provides for qualified reservist distributions.
+&emsp;For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement (and shall not fail to be treated as an accident or health plan) merely because such arrangement provides for qualified reservist distributions.
 
 #### (2) Qualified reservist distribution
 
-&emsp;For purposes of this subsection, the term "qualified reservist distribution" means,<sup>2</sup> any distribution to an individual of all or a portion of the balance in the employee's account under such arrangement if—
+&emsp;For purposes of this subsection, the term "qualified reservist distribution" means any distribution to an individual of all or a portion of the balance in the employee's account under such arrangement if—
 
-&emsp;&emsp;(A) such individual was (by reason of being a member of a reserve component (as definedin section 101 of title 37, United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
+&emsp;&emsp;(A) such individual was (by reason of being a member of a reserve component (as defined in section 101 of title 37, United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
 
 &emsp;&emsp;(B) such distribution is made during the period beginning on the date of such order or call and ending on the last date that reimbursements could otherwise be made under such arrangement for the plan year which includes the date of such order or call.
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §§213(b), 220(f), (g), Dec. 19, 2014, 128 Stat. 4033, 4036.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -314,13 +314,19 @@ Sections 1301, 1311, and 1312 of the Patient Protection and Affordable Care Act,
 
 #### Codification
 
-Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(d)(1) of Pub. L. 99–514 (amending this section generally) had not been enacted. Subsequent to amendment by Pub. L. 99–514, this section was amended by Pub. L. 100–647 andPub. L. 101–239. See 1989 and 1988 Amendment notes below.
+Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(d)(1) of Pub. L. 99–514 (amending this section generally) had not been enacted. Subsequent to amendment by Pub. L. 99–514, this section was amended by Pub. L. 100–647 and Pub. L. 101–239. See 1989 and 1988 Amendment notes below.
 
 #### Prior Provisions
 
 A prior section 125 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2). Pub. L. 113–295, §220(f), substituted "qualified benefits" for "statutory nontaxable benefits" in two places.
+
+Subsec. (h)(1). Pub. L. 113–295, §213(b), inserted "(and shall not fail to be treated as an accident or health plan)" before "merely".
+
+Subsec. (h)(2). Pub. L. 113–295, §220(g), substituted "means any" for "means, any" in introductory provisions.
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–148, §1515(a), (b), substituted "For purposes of this section—" for "For purposes of this section,"; designated remainder of first sentence and second sentence as par. (1), inserted heading, and substituted "The term" for "the term"; designated third sentence as par. (2), inserted heading, and substituted "The term 'qualified benefit' shall not include" for "Such term shall not include"; and added par. (3).
 
@@ -420,6 +426,10 @@ Subsec. (g)(3)(B). Pub. L. 96–222 substituted "employment requirement" for "se
 
 Subsec. (g)(4). Pub. L. 96–613, §5(b)(2), and Pub. L. 96–605, §201(b)(2), made identical amendments by substituting "controlled groups, etc." for "controlled groups" in heading, and by substituting "subsection (b), (c), or (m) of section 414" for "subsection (b) or (c) of section 414" in text.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by section 213(b) of Pub. L. 113–295 effective as if included in the provisions of the Heroes Earnings Assistance and Relief Tax Act of 2008, Pub. L. 110–245, to which such amendment relates, see section 213(d) of Pub. L. 113–295, set out as a note under section 121 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–148, title I, §1515(c), Mar. 23, 2010, 124 Stat. 258, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
@@ -458,7 +468,7 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 Amendment by sections 1011B(a)(11)–(13) and 1018(t)(6) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 4002(b)(2) of Pub. L. 100–647 applicable to taxable years ending after Dec. 31, 1987, see section 4002(c) of Pub. L. 100–647, set out as a note under section 120 of this title.
+Pub. L. 100–647, title IV, §4002(c), Nov. 10, 1988, 102 Stat. 3643, provided that: "The amendments made by this section \[amending this section and section 120 of this title\] shall apply to taxable years ending after December 31, 1987."
 
 Pub. L. 100–647, title VI, §6051(c), Nov. 10, 1988, 102 Stat. 3696, provided that: "The amendments made by this section \[amending this section and section 89 of this title\] shall take effect as if included in the amendments made by section 1151 of the Reform Act \[Pub. L. 99–514, see Effective Date of 1986 Amendment note set out under section 79 of this title\]."
 
@@ -478,7 +488,7 @@ Amendment by Pub. L. 98–369 effective Jan. 1, 1985, see section 531(h) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan in existence on Nov. 30, 1980 where amendments by section201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to plan years beginning after Nov. 30, 1980, see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
+Amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan in existence on Nov. 30, 1980 where amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to plan years beginning after Nov. 30, 1980, see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
 
 Pub. L. 96–605, title II, §226(b), Dec. 28, 1980, 94 Stat. 3530, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1980."
 
@@ -537,6 +547,4 @@ Collective bargaining agreements.—In the case of any cafeteria plan in existen
 Special rule where contributions or reimbursements suspended.—For purposes of subparagraphs (A) and (B), a plan shall not be treated as not continuing to fail to satisfy the rules referred to in such subparagraphs with respect to any benefit provided in the form of a flexible spending arrangement merely because contributions or reimbursements (or both) with respect to such plan were suspended before January 1, 1985."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -230,7 +230,7 @@ In this section:
 
 &emsp;(2) The term "essentially a copy of an approved drug" means—
 
-&emsp;&emsp;(A) a drug that is identical or nearly identical to an approved drug, or a marketed drug not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless, in the case of an approved drug, the drug appears on the drug shortage list in effect under section 356e of this title at thetime of compounding, distribution, and dispensing; or
+&emsp;&emsp;(A) a drug that is identical or nearly identical to an approved drug, or a marketed drug not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless, in the case of an approved drug, the drug appears on the drug shortage list in effect under section 356e of this title at the time of compounding, distribution, and dispensing; or
 
 &emsp;&emsp;(B) a drug, a component of which is a bulk drug substance that is a component of an approved drug or a marketed drug that is not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless there is a change that produces for an individual patient a clinical difference, as determined by the prescribing practitioner, between the compounded drug and the comparable approved drug.
 

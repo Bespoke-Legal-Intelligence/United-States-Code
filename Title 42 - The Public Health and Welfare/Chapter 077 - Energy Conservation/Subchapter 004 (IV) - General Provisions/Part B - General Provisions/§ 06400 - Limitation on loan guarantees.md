@@ -1,6 +1,6 @@
 ### §6400. Limitation on loan guarantees
 
-Loan guarantees and obligation guarantees under this Act or any amendment to another law made by this Act may not be issued in violation of any limitation in appropriations or other Acts, with respect to the amounts of outstanding obligational authority.
+Loan guarantees and obligation guarantees under this Act or any amendment to anotherlaw made by this Act may not be issued in violation of any limitation in appropriations or other Acts, with respect to the amounts of outstanding obligational authority.
 
 (Pub. L. 94–163, title V, §530, Dec. 22, 1975, 89 Stat. 964.)
 

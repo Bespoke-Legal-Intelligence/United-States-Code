@@ -2,7 +2,7 @@
 
 #### (a) Loan authority
 
-The Secretary, after consultation with the Commission, is authorized to make a loan toany municipality, electric cooperative, industrial development agency, nonprofit organization, or other person to assist such person in defraying up to 90 percent of the costs of—
+The Secretary, after consultation with the Commission, is authorized to make a loan to any municipality, electric cooperative, industrial development agency, nonprofit organization, or other person to assist such person in defraying up to 90 percent of the costs of—
 
 &emsp;(1) studies to determine the feasibility of undertaking a small hydroelectric power project at an existing dam or dams and
 

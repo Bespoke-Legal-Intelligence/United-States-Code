@@ -30,7 +30,7 @@ Pilot Programs Authorized.—Consistent with such regulations as the Secretary o
 
 Selection of Programs.—In selecting the pilot programs to be conducted under subsection (a), the Commander shall—
 
-&emsp;"(1) identify family support activities that have a direct and concrete impact on the readiness of special operations forces, but that are not being provided by the Secretary of a military department to the immediate family members of members of the Armed Forces assigned to special operations forces; and
+&emsp;"(1) identify family support activities that have a direct and concrete impact on the readiness of specialoperations forces, but that are not being provided by the Secretary of a military department to the immediate family members of members of the Armed Forces assigned to special operations forces; and
 
 &emsp;"(2) conduct a cost-benefit analysis of each family support activity proposed to be included in a pilot program.
 

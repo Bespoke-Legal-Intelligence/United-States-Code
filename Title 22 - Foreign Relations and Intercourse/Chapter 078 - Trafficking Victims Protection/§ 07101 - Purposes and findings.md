@@ -28,7 +28,7 @@ Congress finds that:
 
 &emsp;(10) Trafficking also involves violations of other laws, including labor and immigration codes and laws against kidnapping, slavery, false imprisonment, assault, battery, pandering, fraud, and extortion.
 
-&emsp;(11) Trafficking exposes victims to serious health risks. Women and children trafficked in the sex industry are exposed to deadly diseases, including HIV and AIDS. Traffickingvictims are sometimes worked or physically brutalized to death.
+&emsp;(11) Trafficking exposes victims to serious health risks. Women and children trafficked in the sex industry are exposed to deadly diseases, including HIV and AIDS. Trafficking victims are sometimes worked or physically brutalized to death.
 
 &emsp;(12) Trafficking in persons substantially affects interstate and foreign commerce. Trafficking for such purposes as involuntary servitude, peonage, and other forms of forced labor has an impact on the nationwide employment network and labor market. Within the context of slavery, servitude, and labor or services which are obtained or maintained through coercive conduct that amounts to a condition of servitude, victims are subjected to a range of violations.
 
@@ -40,7 +40,7 @@ Congress finds that:
 
 &emsp;(16) In some countries, enforcement against traffickers is also hindered by official indifference, by corruption, and sometimes even by official participation in trafficking.
 
-&emsp;(17) Existing laws often fail to protect victims of trafficking, and because victims are often illegal immigrants in the destination country, they are repeatedly punished more harshly than the traffickers themselves.
+&emsp;(17) Existing laws often fail to protect victims of trafficking, and because victims are often illegal immigrants in the destinationcountry, they are repeatedly punished more harshly than the traffickers themselves.
 
 &emsp;(18) Additionally, adequate services and facilities do not exist to meet victims' needs regarding health care, housing, education, and legal assistance, which safely reintegrate trafficking victims into their home countries.
 
@@ -134,7 +134,7 @@ Pub. L. 109–164, §2, Jan. 10, 2006, 119 Stat. 3558, provided that: "Congress 
 
 &emsp;"(5) No known studies exist that quantify the problem of trafficking in children for the purpose of commercial sexual exploitation in the United States. According to a report issued by researchers at the University of Pennsylvania in 2001, as many as 300,000 children in the United States are at risk for commercial sexual exploitation, including trafficking, at any given time.
 
-&emsp;"(6) Runaway and homeless children in the United States are highly susceptible to being domesticallytrafficked for commercial sexual exploitation. According to the National Runaway Switchboard, every day in the United States, between 1,300,000 and 2,800,000 runaway and homeless youth live on the streets. One out of every seven children will run away from home before the age of 18.
+&emsp;"(6) Runaway and homeless children in the United States are highly susceptible to being domestically trafficked for commercial sexual exploitation. According to the National Runaway Switchboard, every day in the United States, between 1,300,000 and 2,800,000 runaway and homeless youth live on the streets. One out of every seven children will run away from home before the age of 18.
 
 &emsp;"(7) Following armed conflicts and during humanitarian emergencies, indigenous populations face increased security challenges and vulnerabilities which result in myriad forms of violence, including trafficking for sexual and labor exploitation. Foreign policy and foreign aid professionals increasingly recognize the increased activity of human traffickers in post-conflict settings and during humanitarian emergencies.
 

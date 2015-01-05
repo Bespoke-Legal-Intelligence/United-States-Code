@@ -2,11 +2,11 @@
 
 #### (a) Creation
 
-In accordance with the findings and declaration of purpose in section 471 of this title, there is hereby created the Office of Technology Assessment (hereinafter referred to as the “Office”) which shall be within and responsible to the legislative branch of the Government.
+In accordance with the findings and declaration of purpose in section 471 of this title, there is hereby created the Office of Technology Assessment (hereinafter referred to as the "Office") which shall be within and responsible to the legislative branch of the Government.
 
 #### (b) Composition
 
-The Office shall consist of a Technology Assessment Board (hereinafter referred to as the “Board”) which shall formulate and promulgate the policies of the Office, and a Director who shall carry out such policies and administer the operations of the Office.
+The Office shall consist of a Technology Assessment Board (hereinafter referred to as the "Board") which shall formulate and promulgatethe policies of the Office, and a Director who shall carry out such policies and administer the operations of the Office.
 
 #### (c) Functions and duties
 
@@ -26,7 +26,7 @@ The basic function of the Office shall be to provide early indications of the pr
 
 &emsp;(7) identify areas where additional research or data collection is required to provide adequate support for the assessments and estimates described in paragraph (1) through (5) of this subsection; and
 
-&emsp;(8) undertake such additional associated activities as the appropriate authorities specified under subsection (d) of this section may direct.
+&emsp;(8) undertake such additional associated activities as the appropriate authorities specified under subsection (d) may direct.
 
 #### (d) Initiation of assessment activities
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) instruction on international documents and United States policy in human rights, which shall be mandatory for all members of the Service having reporting responsibilities relating to human rights and for chiefs of mission;
 
-&emsp;(2) instruction on the internationally recognized right to freedom of religion, the nature, activities, and beliefs of different religions,and the various aspects and manifestations of violations of religious freedom; and
+&emsp;(2) instruction on the internationally recognized right to freedom of religion, the nature, activities, and beliefs of different religions, and the various aspects and manifestations of violations of religious freedom; and
 
 &emsp;(3) instruction on international documents and United States policy on trafficking in persons, including provisions of the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; 22 U.S.C. 7101 et seq.) which may affect the United States bilateral relationships.
 

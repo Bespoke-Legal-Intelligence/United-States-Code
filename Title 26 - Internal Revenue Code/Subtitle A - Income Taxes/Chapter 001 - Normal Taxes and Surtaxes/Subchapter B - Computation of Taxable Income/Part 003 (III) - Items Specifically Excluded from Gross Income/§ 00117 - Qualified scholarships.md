@@ -66,7 +66,7 @@ Section 338A(g)(1)(A) of the Public Health Service Act, referred to in subsec. (
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–16 designated existing provisions as par. (1), inserted par. heading, substituted"Except as provided in paragraph (2), subsections (a)" for "Subsections (a)", and added par. (2).
+<b>2001</b>—Subsec. (c). Pub. L. 107–16 designated existing provisions as par. (1), inserted par. heading, substituted "Except as provided in paragraph (2), subsections (a)" for "Subsections (a)", and added par. (2).
 
 <b>1996</b>—Subsec. (d)(2)(B). Pub. L. 104–188 substituted "section 132(h)" for "section 132(f)".
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 

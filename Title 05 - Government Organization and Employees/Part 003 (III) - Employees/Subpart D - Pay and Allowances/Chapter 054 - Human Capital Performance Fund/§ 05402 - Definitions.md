@@ -2,9 +2,9 @@
 
 For the purpose of this chapter—
 
-&emsp;(1) “agency” means an Executive agency under section 105, but does not include the Government Accountability Office;
+&emsp;(1) "agency" means an Executive agency under section 105, but does not include the Government Accountability Office;
 
-&emsp;(2) “employee” includes—
+&emsp;(2) "employee" includes—
 
 &emsp;&emsp;(A) an individual paid under a statutory pay system defined in section 5302(1);
 
@@ -26,7 +26,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(vi) an individual in a position which is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; and
 
-&emsp;(3) “Office” means the Office of Personnel Management.
+&emsp;(3) "Office" means the Office of Personnel Management.
 
 (Added Pub. L. 108–136, div. A, title XI, §1129(a), Nov. 24, 2003, 117 Stat. 1642; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -36,5 +36,5 @@ A prior section 5402, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 
 
 #### Amendments
 
-<b>2004</b>—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

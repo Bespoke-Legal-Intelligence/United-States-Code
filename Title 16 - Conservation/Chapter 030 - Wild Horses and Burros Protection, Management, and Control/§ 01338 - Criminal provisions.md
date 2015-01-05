@@ -12,7 +12,7 @@ Any person who—
 
 &emsp;(4) except as provided in section 1333(e) of this title, processes or permits to be processed into commercial products the remains of a wild free-roaming horse or burro, or
 
-&emsp;(5) sells, directly or indirectly, a wild free-roaming horse or burro maintained on privateor leased land pursuant to section 1334 of this title, or the remains thereof, or
+&emsp;(5) sells, directly or indirectly, a wild free-roaming horse or burro maintained on private or leased land pursuant to section 1334 of this title, or the remains thereof, or
 
 &emsp;(6) willfully violates a regulation issued pursuant to this chapter,
 

@@ -2,7 +2,7 @@
 
 #### (a) Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; provisions applicable to Muir Woods National Monument and Fort Point National Historic Site
 
-The Secretary shall administer the lands, waters and interests therein acquired for the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, and the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter. Notwithstanding their inclusion within the boundaries of the recreation area, the Muir Woods National Monument and Fort Point National Historic Site shall continue to be administered as distinct and identifiable units of the national park system in accordance with the laws applicable to such monument and historic site.
+The Secretary shall administer the lands, waters and interests therein acquired for the recreation area in accordance with the provisions of the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4),<sup>1</sup> as amended and supplemented, and the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter. Notwithstanding their inclusion within the boundaries of the recreation area, the Muir Woods National Monument and Fort Point National Historic Site shall continue to be administered as distinct and identifiable units of the national park system in accordance with the laws applicable to such monument and historic site.
 
 #### (b) Federal-State cooperative agreements for police and fire protection
 
@@ -26,13 +26,17 @@ Notwithstanding any other provisions of law, in the administration of those parc
 
 (Pub. L. 92–589, §4, Oct. 27, 1972, 86 Stat. 1302; Pub. L. 95–625, title III, §317(f), Nov. 10, 1978, 92 Stat. 3486; Pub. L. 99–395, §§1, 2(a), Aug. 27, 1986, 100 Stat. 836; Pub. L. 100–348, §6, June 27, 1988, 102 Stat. 657.)
 
+#### References in Text
+
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
 #### Amendments
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–348 substituted "San Francisco Maritime National Historical Park" for "National Maritime Museum".
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–395, §2(a), substituted "and for admission to the sailing vessel Balclutha and other historic vessels of the National Maritime Museum" for "and, for a period not exceeding five years from November 10, 1978, for admission to the sailing vessel Balclutha".
 
-Subsec. (f). Pub. L. 99–395, §1, struck out provision which had included a coordinated public and private access system to and within the recreation area and other units of the national park system in Marin and San Francisco Counties among the allowable uses to whichrental proceeds from Haslett Warehouse, Cliff House Properties and Louis' Restaurant were to be put, inserted in second proviso a reference to the administration of the AFDL–38 Drydock and other vessels or heavy marine equipment, and inserted parenthetical in second proviso to include rental or lease of properties under management contracts into which the Secretary may enter.
+Subsec. (f). Pub. L. 99–395, §1, struck out provision which had included a coordinated public and private access system to and within the recreation area and other units of the national park system in Marin and San Francisco Counties among the allowable uses to which rental proceeds from Haslett Warehouse, Cliff House Properties and Louis' Restaurant were to be put, inserted in second proviso a reference to the administration of the AFDL–38 Drydock and other vessels or heavy marine equipment, and inserted parenthetical in second proviso to include rental or lease of properties under management contracts into which the Secretary may enter.
 
 <b>1978</b>—Subsecs. (e), (f). Pub. L. 95–625 added subsecs. (e) and (f).
 
@@ -48,11 +52,13 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §121\], Nov. 29, 1999, 113 S
 
 #### Fort Baker Golden Gate National Recreation Area; Tax and Special Assessment Exemption
 
-Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159, as amended by Pub. L. 111–88, div. A, title I, §123, Oct. 30, 2009, 123 Stat. 2932, provided that: "All properties administered by the National Park Service at Fort Baker, Golden Gate National Recreation Area, and leases, concessions, permits and other agreements associated with those properties, hereafter shall be exempt from all taxes and special assessments, except sales tax, by the State of California and its political subdivisions, including the County of Marin and the City of Sausalito."
+Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159, as amended by Pub. L.111–88, div. A, title I, §123, Oct. 30, 2009, 123 Stat. 2932, provided that: "All properties administered by the National Park Service at Fort Baker, Golden Gate National Recreation Area, and leases, concessions, permits and other agreements associated with those properties, hereafter shall be exempt from all taxes and special assessments, except sales tax, by the State of California and its political subdivisions, including the County of Marin and the City of Sausalito."
 
 Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) \[title I, §150\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–268.
 
 #### Fees or Admission Charges; Moneys Collected Since November 10, 1983
 
 Pub. L. 99–395, §2(b), Aug. 27, 1986, 100 Stat. 836, provided that: "Notwithstanding any other provisions of law, moneys collected pursuant to section 4(e) of the Act of October 27, 1972 (16 U.S.C. 460bb–3; 92 Stat. 3486), since November 10, 1983, shall be deemed to have been collected in accordance with such section as amended by this Act."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

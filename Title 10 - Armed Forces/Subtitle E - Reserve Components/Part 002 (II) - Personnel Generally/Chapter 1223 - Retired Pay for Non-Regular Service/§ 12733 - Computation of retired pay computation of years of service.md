@@ -4,7 +4,7 @@ For the purpose of computing the retired pay of a person under this chapter, the
 
 &emsp;(1) The person's days of active service.
 
-&emsp;(2) The person's days of full-time service under sections 316, 502, 503, 504, and 505 of title32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
+&emsp;(2) The person's days of full-time service under sections 316, 502, 503, 504, and 505 of title 32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
 
 &emsp;(3) One day for each point credited to the person under clause (B), (C), or (D) of section 12732(a)(2) of this title, but not more than—
 

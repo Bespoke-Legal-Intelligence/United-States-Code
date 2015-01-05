@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(A) provide to PACE program eligible individuals enrolled with the provider, regardless of source of payment and directly or under contracts with other entities, at a minimum—
 
-&emsp;&emsp;&emsp;(i) all items and services covered under this subchapter (for individuals enrolledunder this section) and all items and services covered under subchapter XIX of this chapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under this subchapter or such subchapter, respectively; and
+&emsp;&emsp;&emsp;(i) all items and services covered under this subchapter (for individuals enrolled under this section) and all items and services covered under subchapter XIX of this chapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under this subchapter or such subchapter, respectively; and
 
 &emsp;&emsp;&emsp;(ii) all additional items and services specified in regulations, based upon those required under the PACE protocol;
 
@@ -128,7 +128,7 @@
 
 #### (B) Reference to related provision for noncontract providers of services
 
-&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providers for services covered under this subchapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
+&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providersfor services covered under this subchapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
 
 #### (4) Reference to related provision for services covered under subchapter XIX but not under this subchapter
 
@@ -160,7 +160,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonablywould be expected to meet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -190,7 +190,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a PACE provider with a PACE program agreement under this section, except as provided in this subsection or by regulations, the Secretary shall make prospective monthly payments of a capitation amount for each PACE program eligible individual enrolled under the agreement under this section in the same manner and from the same sources as payments are made to a Medicare+Choice organization under section 1395w–23 of this title (or, for periods beginning before January 1, 1999, to an eligible organization under a risk-sharing contract under section 1395mm of this title). Such payments shall be subject to adjustment in the manner described in section 1395w–23(a)(2) of this title or section 1395mm(a)(1)(E) of this title, as the case may be.
+&emsp;In the case of a PACE provider with a PACE program agreement under this section, except as provided in this subsection or by regulations, the Secretary shall make prospective monthly payments of a capitation amount for each PACE program eligible individual enrolled under the agreement under this section in the same manner and from the same sources as payments are made to a Medicare+Choice organization under section 1395w–23 of this title (or, for periods beginning before January 1, 1999, to an eligible organization under a risk-sharing contract under section 1395mmof this title). Such payments shall be subject to adjustment in the manner described in section 1395w–23(a)(2) of this title or section 1395mm(a)(1)(E) of this title, as the case may be.
 
 #### (2) Capitation amount
 
@@ -500,7 +500,7 @@ program.—The term 'PACE program' has the meaning given that term in sections 1
 
 &emsp;"(3) PACE
 
-provider.—The term 'PACE provider' has the meaning given that term in section 1894(a)(3) or 1934(a)(3) of the Social Security Act (42 U.S.C. 1395eee(a)(3); 1396u–4(a)(3)).
+provider.—The term 'PACE provider' has the meaning given that term in section 1894(a)(3)or 1934(a)(3) of the Social Security Act (42 U.S.C. 1395eee(a)(3); 1396u–4(a)(3)).
 
 &emsp;"(4)
 
@@ -652,7 +652,7 @@ Appropriation.—
 
 &emsp;&emsp;"(A)
 
-In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary $10,000,000 to carry out this subsection for the period of fiscal years 2006 through 2010.
+In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriatedto the Secretary $10,000,000 to carry out this subsection for the period of fiscal years 2006 through 2010.
 
 &emsp;&emsp;"(B)
 
@@ -704,7 +704,7 @@ Elimination of replication requirement.—Section 9412(b)(2)(B) of such Act, as 
 
 &emsp;"(3)
 
-Timely consideration of applications.—In considering an application for waivers under such section before the effective date of the repeals undersubsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
+Timely consideration of applications.—In considering an application for waivers under such section before the effective date of the repeals under subsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
 
 "(c)
 
@@ -754,7 +754,7 @@ In general.—Subject to subparagraph (B), in the case of waivers granted with r
 
 &emsp;&emsp;"(B)
 
-State option to seek extension of current period.—A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 4 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs."
+State option to seek extension of current period.—A State may elect to maintain the PACEprograms which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 4 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs."
 
 #### PACE Programs; Study and Reports
 

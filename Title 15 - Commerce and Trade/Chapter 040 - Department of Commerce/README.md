@@ -58,6 +58,11 @@
 | [1541\.](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md) | Administrative Law Judges. |
 | [1542\.](%C2%A7%2001542%20-%20Establishment%20of%20the%20Ernest%20F.%20Hollings%20Scholarship%20Program.md) | Establishment of the Ernest F. Hollings Scholarship Program. |
 | [1543\.](%C2%A7%2001543%20-%20Task%20force%20on%20job%20repatriation%20and%20manufacturing%20growth.md) | Task force on job repatriation and manufacturing growth. |
+| [1544\.](%C2%A7%2001544%20-%20Promotion%20of%20tourist%20travel.md) | Promotion of tourist travel. |
+| [1545\.](%C2%A7%2001545%20-%20Cooperation%20with%20travel%20agencies%3B%20publication%20of%20information.md) | Cooperation with travel agencies; publication of information. |
+| [1546\.](%C2%A7%2001546%20-%20Advisory%20committee%20for%20promotion%20of%20tourist%20travel%3B%20expenses.md) | Advisory committee for promotion of tourist travel; expenses. |
+| [1547\.](%C2%A7%2001547%20-%20Rules%20and%20regulations%3B%20employees.md) | Rules and regulations; employees. |
+| [1548\.](%C2%A7%2001548%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -123,3 +128,8 @@
 - [&sect; 01541 - Administrative Law Judges](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md)
 - [&sect; 01542 - Establishment of the Ernest F. Hollings Scholarship Program](%C2%A7%2001542%20-%20Establishment%20of%20the%20Ernest%20F.%20Hollings%20Scholarship%20Program.md)
 - [&sect; 01543 - Task force on job repatriation and manufacturing growth](%C2%A7%2001543%20-%20Task%20force%20on%20job%20repatriation%20and%20manufacturing%20growth.md)
+- [&sect; 01544 - Promotion of tourist travel](%C2%A7%2001544%20-%20Promotion%20of%20tourist%20travel.md)
+- [&sect; 01545 - Cooperation with travel agencies; publication of information](%C2%A7%2001545%20-%20Cooperation%20with%20travel%20agencies%3B%20publication%20of%20information.md)
+- [&sect; 01546 - Advisory committee for promotion of tourist travel; expenses](%C2%A7%2001546%20-%20Advisory%20committee%20for%20promotion%20of%20tourist%20travel%3B%20expenses.md)
+- [&sect; 01547 - Rules and regulations; employees](%C2%A7%2001547%20-%20Rules%20and%20regulations%3B%20employees.md)
+- [&sect; 01548 - Authorization of appropriations](%C2%A7%2001548%20-%20Authorization%20of%20appropriations.md)

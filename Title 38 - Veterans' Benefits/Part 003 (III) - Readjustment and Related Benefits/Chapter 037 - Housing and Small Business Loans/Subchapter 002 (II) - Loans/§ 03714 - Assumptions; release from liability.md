@@ -1,6 +1,6 @@
 ### §3714. Assumptions; release from liability
 
-(a)(1) Except as provided in subsection (f) of this section, if a veteran or any other person disposes of residential property securing a loan guaranteed, insured, or made under this chapter and the veteran or other person notifies the holder of the loan in writing before the property is disposed of, the veteran or other person, as the case may be, shall be relieved of all further liability to the Secretary with respect to theloan (including liability for any loss resulting from any default of the purchaser or any subsequent owner of the property) and the application for assumption shall be approved if the holder determines that—
+(a)(1) Except as provided in subsection (f) of this section, if a veteran or any other person disposes of residential property securing a loan guaranteed, insured, or made under this chapter and the veteran or other person notifies the holder of the loan in writing before the property is disposed of, the veteran or other person, as the case may be, shall be relieved of all further liability to the Secretary with respect to the loan (including liability for any loss resulting from any default of the purchaser or any subsequent owner of the property) and the application for assumption shall be approved if the holder determines that—
 
 &emsp;(A) the loan is current; and
 

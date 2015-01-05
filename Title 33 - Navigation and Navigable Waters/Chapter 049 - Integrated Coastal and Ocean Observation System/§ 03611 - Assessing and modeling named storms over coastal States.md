@@ -68,7 +68,7 @@ In this section:
 
 #### (B) Post-storm assessment required
 
-&emsp;&emsp;Upon identification of a named storm under subparagraph (A), the Administratorshall develop a post-storm assessment for such named storm using the Named Storm Event Model and covered data collected for such named storm pursuant to the protocol established under subsection (c)(1).
+&emsp;&emsp;Upon identification of a named storm under subparagraph (A), the Administrator shall develop a post-storm assessment for such named storm using the Named Storm Event Model and covered data collected for such named storm pursuant to the protocol established under subsection (c)(1).
 
 #### (C) Submittal of post-storm assessment
 
@@ -92,7 +92,7 @@ In this section:
 
 #### (6) Availability
 
-&emsp;The Administrator shall make available to the public the Named Storm Event Model and any post-storm assessment developed under this subsection.
+&emsp;The Administrator shall make available to the public the Named Storm Event Model andany post-storm assessment developed under this subsection.
 
 #### (c) Establishment of a protocol for post-storm assessment
 

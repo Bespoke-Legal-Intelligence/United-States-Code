@@ -10,5 +10,5 @@ Section 3044c, Pub. L. 89–73, title VI, §612, as added Pub. L. 91–69, §9, 
 
 Section 3044d, Pub. L. 89–73, title VI, §613, as added Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 113; amended Pub. L. 93–29, title VI, §603(c), May 3, 1973, 87 Stat. 55, related to interagency cooperation.
 
-Section 3044e, Pub. L. 89–73, title VI, §614, as added Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 114; amended Pub. L. 93–29, title VI, §604, May 3, 1973, 87 Stat. 55, related to authorization of appropriations.
+Section 3044e, Pub. L. 89–73, title VI, §614, as added Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 114; amendedPub. L. 93–29, title VI, §604, May 3, 1973, 87 Stat. 55, related to authorization of appropriations.
 

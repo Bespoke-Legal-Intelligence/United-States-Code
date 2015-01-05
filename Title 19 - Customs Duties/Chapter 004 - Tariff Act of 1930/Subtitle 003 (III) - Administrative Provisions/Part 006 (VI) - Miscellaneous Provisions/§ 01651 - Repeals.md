@@ -54,7 +54,7 @@ The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, c
 
 #### Codification
 
-In subsec. (d)(1), "Section 60501 or 60502 of title 46" substituted for "Subsections 1, 2, and 3 of paragraph J of Section IV of the Act entitled 'An Act to reduce tariff duties and to provide revenue for the Government, and for other purposes,' approved October 3, 1913 (relating to restrictions on importations in foreign vessels or through contiguous countries), as modified by the Act of March 4, 1915, chapter 171" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 60501 and 60502 of Title 46, Shipping.
+In subsec. (d)(1), "Section 60501 or 60502 of title 46" substituted for "Subsections 1, 2, and 3 of paragraph J of Section IV of the Act entitled 'An Act to reduce tariff duties and to provide revenue for the Government, and for other purposes,' approved October 3, 1913 (relating to restrictions on importations in foreign vessels orthrough contiguous countries), as modified by the Act of March 4, 1915, chapter 171" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 60501 and 60502 of Title 46, Shipping.
 
 #### Prior Provisions
 

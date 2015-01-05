@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(E) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program; and
 
-&emsp;&emsp;(F) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carriedout under subsection (b)(2)(A)(i) of this section.
+&emsp;&emsp;(F) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i) of this section.
 
 #### (5) Advisory Committee
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;&emsp;(iv) shall support the implementation of a comprehensive earthquake education and public awareness program, including development of materials and their wide dissemination to all appropriate audiences and support public access to locality-specific information that may assist the public in preparing for, mitigating against, responding to and recovering from earthquakes and related disasters;
 
-&emsp;&emsp;&emsp;(v) shall assist the National Institute of Standards and Technology, other Federal agencies, and private sector groups, in the preparation, maintenance, and wide dissemination of seismic resistant design guidance and related information on building codes, standards, and practices for new and existing buildings, structures, and lifelines, and aid in the development of performance-based design guidelines andmethodologies supporting model codes for buildings, structures, and lifelines that are cost effective and affordable;
+&emsp;&emsp;&emsp;(v) shall assist the National Institute of Standards and Technology, other Federal agencies, and private sector groups, in the preparation, maintenance, and wide dissemination of seismic resistant design guidance and related information on building codes, standards, and practices for new and existing buildings, structures, and lifelines, and aid in the development of performance-based design guidelines and methodologies supporting model codes for buildings, structures, and lifelines that are cost effective and affordable;
 
 &emsp;&emsp;&emsp;(vi) shall develop, coordinate, and execute the National Response Plan when required following an earthquake, and support the development of specific State and local plans for each high risk area to ensure the availability of adequate emergency medical resources, search and rescue personnel and equipment, and emergency broadcast capability;
 

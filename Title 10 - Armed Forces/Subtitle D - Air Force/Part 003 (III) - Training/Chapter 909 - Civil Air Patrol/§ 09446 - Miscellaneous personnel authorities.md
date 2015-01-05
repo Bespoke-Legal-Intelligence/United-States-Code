@@ -10,7 +10,7 @@ Use of Retired Air Force Personnel.—(1) Upon the request of a person retired f
 
 (b)
 
-Use of Civil Air Patrol Chaplains.—The Secretary of the Air Force may use the services of Civil Air Patrol chaplains in support of the Air Force active duty and reserve component forces to the extent and under conditions that the Secretary determines appropriate.
+Use of Civil Air Patrol Chaplains.—The Secretary of the Air Force may use the services of Civil Air Patrol chaplains in support of the Air Force active duty and reserve componentforces to the extent and under conditions that the Secretary determines appropriate.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–297.)
 

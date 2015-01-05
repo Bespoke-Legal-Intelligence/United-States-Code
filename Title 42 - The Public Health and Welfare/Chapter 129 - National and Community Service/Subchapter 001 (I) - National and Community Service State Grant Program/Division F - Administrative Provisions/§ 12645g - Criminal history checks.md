@@ -70,7 +70,7 @@ An individual shall be ineligible to serve in a position described under subsect
 
 #### References in Text
 
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(1), (c)(3), and (d)(1)(A), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 151 (§16901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of this title and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(1), (c)(3), and (d)(1)(A), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 151 (§16901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification ofthis Act to the Code, see Short Title note set out under section 16901 of this title and Tables.
 
 #### Amendments
 

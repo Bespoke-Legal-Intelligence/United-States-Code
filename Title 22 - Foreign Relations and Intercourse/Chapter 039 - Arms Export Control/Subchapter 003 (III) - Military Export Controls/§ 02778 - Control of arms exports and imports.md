@@ -10,9 +10,9 @@
 
 #### (b) Registration and licensing requirements for manufacturers, exporters, or importers of designated defense articles and defense services
 
-(1)(A)(i) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engages in the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) of this section shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in the United States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreign governments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
+(1)(A)(i) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engages in the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in theUnited States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreign governments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
 
-(ii)(I) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1) of this section, or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
+(ii)(I) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1), or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
 
 (II) Such brokering activities shall include the financing, transportation, freight forwarding, or taking of any other action that facilitates the manufacture, export, or import of a defense article or defense service.
 
@@ -22,17 +22,17 @@
 
 &emsp;(bb) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
 
-(IV) For purposes of this clause, the term "foreign defense article or defense service" includes any non-United States defense article or defense service of a nature described on the UnitedStates Munitions List regardless of whether such article or service is of United States origin or whether such article or service contains United States origin components.
+(IV) For purposes of this clause, the term "foreign defense article or defense service" includes any non-United States defense article or defense service of a nature described on the United States Munitions List regardless of whether such article or service is of United States origin or whether such article or service contains United States origin components.
 
-(B) <sup>1</sup> The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
+(B) The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
 
 &emsp;(i) such firearms are among those firearms that the Secretary of the Treasury is, or was at any time, required to authorize the importation of by reason of the provisions of section 925(e) of title 18 (including the requirement for the listing of such firearms as curios or relics under section 921(a)(13) of that title); and
 
 &emsp;(ii) such foreign government certifies to the United States Government that such firearms are owned by such foreign government.
 
-(B) <sup>1</sup> A copy of each registration made under this paragraph shall be transmitted to the Secretary of the Treasury for review regarding law enforcement concerns. The Secretary shall report to the President regarding such concerns as necessary.
+(C) A copy of each registration made under this paragraph shall be transmitted to the Secretary of the Treasury for review regarding law enforcement concerns. The Secretary shall report to the President regarding such concerns as necessary.
 
-(2) Except as otherwise specifically provided in regulations issued under subsection (a)(1) of this section, no defense articles or defense services designated by the President under subsection (a)(1) of this section may be exported or imported without a license for such export or import, issued in accordance with this chapter and regulations issued under this chapter, except that no license shall be required for exports or imports made by or for an agency of the United States Government (A) for official use by a department or agency of the United States Government, or (B) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
+(2) Except as otherwise specifically provided in regulations issued under subsection (a)(1), no defense articles or defense services designated by the President under subsection (a)(1) may be exported or imported without a license for such export or import, issued in accordance with this chapter and regulations issued under this chapter, except that no license shall be required for exports or imports made by or for an agency of the United States Government (A) for official use by a department or agency of the United States Government, or (B) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
 
 (3)(A) For each of the fiscal years 1988 and 1989, $250,000 of registration fees collected pursuant to paragraph (1) shall be credited to a Department of State account, to be available without fiscal year limitation. Fees credited to that account shall be available only for the payment of expenses incurred for—
 
@@ -50,21 +50,43 @@ Any person who willfully violates any provision of this section, section 2779 of
 
 #### (e) Enforcement powers of President
 
-In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50 U.S.C. App. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 U.S.C. App. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
+In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articlesand defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50 U.S.C. App. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 U.S.C. App. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
 
 #### (f) Periodic review of items on Munitions List; exemptions
 
-(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
+(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
 
-(2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) of this section or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
+(2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
 
 &emsp;(A) a description of the scope of the exemption, including a detailed summary of the defense articles, defense services, and related technical data covered by the exemption; and
 
-&emsp;(B) a determination by the Attorney General that the bilateral agreement concluded under subsection (j) of this section requires the compilation and maintenance of sufficient documentation relating to the export of United States defense articles, defense services, and related technical data to facilitate law enforcement efforts to detect, prevent, and prosecute criminal violations of any provision of this chapter, including the efforts on the part of countries and factions engaged in international terrorism to illicitly acquire sophisticated United States defense items.
+&emsp;(B) a determination by the Attorney General that the bilateral agreement concluded under subsection (j) requires the compilation and maintenance of sufficient documentation relating to the export of United States defense articles, defense services, and related technical data to facilitate law enforcement efforts to detect, prevent, and prosecute criminal violations of any provision of this chapter, including the efforts on the part of countries and factions engaged in international terrorism to illicitly acquire sophisticated United States defense items.
 
 (3) Paragraph (2) shall not apply with respect to an exemption for Canada from the licensing requirements of this chapter for the export of defense items.
 
 (4) Paragraph (2) shall not apply with respect to an exemption under subsection (j)(1) to give effect to a treaty referred to in subsection (j)(1)(C)(i) (and any implementing arrangements to such treaty), provided that the President promulgates regulations to implement and enforce such treaty under this section and section 2779 of this title.
+
+(5)(A) Except as provided in subparagraph (B), the President shall take such actions as may be necessary to require that, at the time of export or reexport of any major defense equipment listed on the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations, the major defense equipment will not be subsequently modified so as to transform such major defense equipment into a defense article.
+
+(B) The President may authorize the transformation of any major defense equipment described in subparagraph (A) into a defense article if the President—
+
+&emsp;(i) determines that such transformation is appropriate and in the national interests of the United States; and
+
+&emsp;(ii) provides notice of such transformation to the chairman of the Committee on Foreign Affairs of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate consistent with the notification requirements of section 2776(b)(5)(A) of this title.
+
+(C) In this paragraph, the term "defense article" means an item designated by the President pursuant to subsection (a)(1).
+
+(6) The President shall ensure that any major defense equipment that is listed on the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations, shall continue to be subject to the notification and reporting requirements of the following provisions of law:
+
+&emsp;(A) Section 2321j(f) of this title.
+
+&emsp;(B) Section 2415 of this title.
+
+&emsp;(C) Section 2753(d)(3)(A) of this title.
+
+&emsp;(D) Section 2765 of this title.
+
+&emsp;(E) Section 2776(b), (c), and (d) of this title.
 
 #### (g) Identification of persons convicted or subject to indictment for violations of certain provisions
 
@@ -92,9 +114,9 @@ In carrying out functions under this section with respect to the export of defen
 
 &emsp;&emsp;(x) section 601 of the National Security Act of 1947 (relating to intelligence identities protection; \[50 U.S.C. 3121\]),
 
-&emsp;&emsp;(xi) section 603(b) or (c) of the Comprehensive Anti-Apartheid Act of 1986 (22 U.S.C. 5113(b) and (c)); <sup>2</sup> or
+&emsp;&emsp;(xi) section 603(b) or (c) of the Comprehensive Anti-Apartheid Act of 1986 (22 U.S.C. 5113(b) and (c)), or
 
-&emsp;&emsp;(xii) section <sup>3</sup> 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, relating to missile systems designed to destroy aircraft (18 U.S.C. 2332g), prohibitions governing atomic weapons (42 U.S.C. 2122), radiological dispersal devices (18 U.S.C. 2332h), and variola virus (18 U.S.C. 175b <sup>4</sup>);
+&emsp;&emsp;(xii) sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, relating to missile systems designed to destroy aircraft (18 U.S.C. 2332g), prohibitions governing atomic weapons (42 U.S.C. 2122), radiological dispersal devices (18 U.S.C. 2332h), and variola virus (18 U.S.C. 175c);
 
 &emsp;(B) persons who are the subject of an indictment or have been convicted under section 371 of title 18 for conspiracy to violate any of the statutes cited in subparagraph (A); and
 
@@ -142,7 +164,7 @@ In carrying out functions under this section with respect to the export of defen
 
 &emsp;(B) the term "foreign government" includes any agency or subdivision of a foreign government, including an official mission of a foreign government;
 
-&emsp;(C) the term "foreign person" means any person who is not a citizen or national of the United States or lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], and includes foreign corporations, international organizations, and foreign governments;
+&emsp;(C) the term "foreign person" means any person who is not a citizen or national of the United States or lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C.1101 et seq.\], and includes foreign corporations, international organizations, and foreign governments;
 
 &emsp;(D) the term "party to the export" means—
 
@@ -156,7 +178,7 @@ In carrying out functions under this section with respect to the export of defen
 
 #### (h) Judicial review of designation of items as defense articles or services
 
-The designation by the President (or by an official to whom the President's functions under subsection (a) of this section have been duly delegated), in regulations issued under this section, of items as defense articles or defense services for purposes of this section shall not be subject to judicial review.
+The designation by the President (or by an official to whom the President's functions under subsection (a) have been duly delegated), in regulations issued under this section, of items as defense articles or defense services for purposes of this section shall not be subject to judicial review.
 
 #### (i) Report to Department of State
 
@@ -202,13 +224,13 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;&emsp;(V) defense articles and defense services specific to the design and testing of nuclear weapons which are controlled under United States Munitions List Category XVI(a) and (b), along with associated defense articles in Category XVI(d) and technology in Category XVI(e);
 
-&emsp;&emsp;&emsp;&emsp;(VI) with regard to the treaty cited in clause (i)(I), defense articles and defense services that the United States controls under the United States Munitions List that are not controlled by the United Kingdom, as defined in the United Kingdom Military List or Annex 4 to the United Kingdom Dual Use List, or any successor lists thereto; and
+&emsp;&emsp;&emsp;&emsp;(VI) with regard to the treaty cited in clause (i)(I), defense articles and defenseservices that the United States controls under the United States Munitions List that are not controlled by the United Kingdom, as defined in the United Kingdom Military List or Annex 4 to the United Kingdom Dual Use List, or any successor lists thereto; and
 
 &emsp;&emsp;&emsp;&emsp;(VII) with regard to the treaty cited in clause (i)(II), defense articles for which Australian laws, regulations, or other commitments would prevent Australia from enforcing the control measures specified in such treaty.
 
 #### (2) Requirements of bilateral agreement
 
-&emsp;A bilateral agreement referred to <sup>5</sup> paragraph (1)—
+&emsp;A bilateral agreement referred to in paragraph (1)—
 
 &emsp;&emsp;(A) shall, at a minimum, require the foreign country, as necessary, to revise its policies and practices, and promulgate or enact necessary modifications to its laws and regulations to establish an export control regime that is at least comparable to United States law, regulation, and policy requiring—
 
@@ -234,7 +256,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 #### (3) Advance certification
 
-&emsp;Not less than 30 days before authorizing an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items, the President shall transmit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a certification that—
+&emsp;Not less than 30 days before authorizing an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items, the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a certification that—
 
 &emsp;&emsp;(A) the United States has entered into a bilateral agreement with that foreign country satisfying all requirements set forth in paragraph (2);
 
@@ -254,11 +276,35 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;The term "appropriate congressional committees" means—
 
-&emsp;&emsp;&emsp;(i) the Committee on International Relations and the Committee on Appropriations of the House of Representatives; and
+&emsp;&emsp;&emsp;(i) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;&emsp;&emsp;(ii) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799.)
+#### (k) Licensing of certain commerce-controlled items
+
+#### (1) In general
+
+&emsp;A license or other approval from the Department of State granted in accordance with this section may also authorize the export of items subject to the Export Administration Regulations if such items are to be used in or with defense articles controlled on the United States Munitions List.
+
+#### (2) Other requirements
+
+&emsp;The following requirements shall apply with respect to a license or other approval to authorize the export of items subject to the Export Administration Regulations under paragraph (1):
+
+&emsp;&emsp;(A) Separate approval from the Department of Commerce shall not be required forsuch items if such items are approved for export under a Department of State license or other approval.
+
+&emsp;&emsp;(B) Such items subject to the Export Administration Regulations that are exported pursuant to a Department of State license or other approval would remain under the jurisdiction of the Department of Commerce with respect to any subsequent transactions.
+
+&emsp;&emsp;(C) The inclusion of the term "subject to the EAR" or any similar term on a Department of State license or approval shall not affect the jurisdiction with respect to such items.
+
+#### (3) Definition
+
+&emsp;In this subsection, the term "Export Administration Regulations" means—
+
+&emsp;&emsp;(A) the Export Administration Regulations as maintained and amended under the authority of the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.); or
+
+&emsp;&emsp;(B) any successor regulations.
+
+(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799; Pub. L. 113–276, title II, §§204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, 128 Stat. 2990–2993.)
 
 #### References in Text
 
@@ -272,11 +318,33 @@ Sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Wea
 
 The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
+The International Emergency Economic Powers Act, referred to in subsec. (k)(3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
 #### Reference to Section 1934 of This Title Deemed Reference to This Section
 
 Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, provided in part that: "Any reference to such section \[section 1934 of this title\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[this section\] and any reference to licenses issued under section 38 of the Arms Export Control Act \[this section\] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954."
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(B), (C). Pub. L. 113–276, §208(b)(1)(A)(i), redesignated subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations as (C).
+
+Subsec. (f)(1). Pub. L. 113–276, §208(a)(1), substituted "the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and" for "the Speaker of the House of Representatives and".
+
+Subsec. (f)(2). Pub. L. 113–276, §208(a)(3), substituted "Foreign Affairs" for "International Relations" in introductory provisions.
+
+Subsec. (f)(5). Pub. L. 113–276, §205(a), added par. (5).
+
+Subsec. (f)(6). Pub. L. 113–276, §205(b), added par. (6).
+
+Subsec. (g)(1)(A)(xi). Pub. L. 113–276, §208(b)(1)(A)(ii)(I), substituted ", or" for "; or".
+
+Subsec. (g)(1)(A)(xii). Pub. L. 113–276, §208(b)(1)(A)(ii)(II), substituted "sections" for "section" and "(18 U.S.C. 175c)" for "(18 U.S.C. 175b)".
+
+Subsec. (j)(2). Pub. L. 113–276, §208(b)(1)(A)(iii), inserted "in" before "paragraph (1)" in introductory provisions.
+
+Subsec. (j)(3), (4)(B)(i). Pub. L. 113–276, §208(a)(3), substituted "Foreign Affairs" for "International Relations".
+
+Subsec. (k). Pub. L. 113–276, §204, added subsec. (k).
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–266, §103(a), substituted "this section, section 2779 of this title, a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or section 2779 of this title, including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or an implementing arrangement pursuant to such treaty" for "this section or section 2779 of this title, or any rule or regulation issued under either section".
 
@@ -292,7 +360,7 @@ Subsec. (j)(1)(C). Pub. L. 111–266, §102(b)(2), added subpar. (C).
 
 <b>2004</b>—Subsec. (g)(1)(A)(xii). Pub. L. 108–458 added cl. (xii).
 
-<b>2002</b>—Subsec. (f)(1). Pub. L. 107–228 substituted "The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notificationsunder section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law." for "Such a report shall be submitted at least 30 days before any item is removed from the Munitions List and shall describe the nature of any controls to be imposed on that item under the Export Administration Act of 1979."
+<b>2002</b>—Subsec. (f)(1). Pub. L. 107–228 substituted "The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law." for "Such a report shall be submitted at least 30 days before any item is removed from the Munitions List and shall describe the nature of any controls to be imposed on that item under the Export Administration Act of 1979."
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–280, §102(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -368,7 +436,7 @@ Pub. L. 100–202, §101(b) \[title VIII, §8142(b)\], Dec. 22, 1987, 101 Stat. 
 
 "(B) In the case of an import permit described in subparagraph (A) which was suspended, revoked, or withdrawn by the Secretary of the Treasury during the period beginning on July 1, 1986, and ending on the date of the enactment of this Act \[Dec. 22, 1987\] under the conditions described in such subparagraph, such import permit shall be reinstated and reissued immediately upon the enactment of this Act, and in any event not later than ten days after the date of the enactment of this Act.
 
-"(3) During the period preceding the revision of regulations issued under section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] to reflect theprovisions of subparagraph (B) of such section, as added by subsection (a), such regulations may not be applied with respect to matters covered by paragraph (2) of this subsection so as to prohibit or otherwise restrict the importation of firearms described in that paragraph or in any other manner inconsistent with that paragraph, notwithstanding that such regulations have not yet been so revised: <i>Provided</i>, That this section shall not take effect if during the twenty day period beginning on the date of enactment of this section \[Dec. 22, 1987\] the Secretary of State, the Secretary of Defense, or the Secretary of the Treasury notifies Congress that he has an objection to the intent of this section: <i>Provided further</i>, That the Attorney General shall, within the period of time stated in the first proviso, submit a certification to Congress indicating whether the enactment of this section will interfere with any ongoing criminal investigation with respect to this section. If a certification of criminal investigative interference or an objection to the intent of this section is made, as herein provided, no permit shall be issued to anyone."
+"(3) During the period preceding the revision of regulations issued under section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] to reflect the provisions of subparagraph (B) of such section, as added by subsection (a), such regulations may not be applied with respect to matters covered by paragraph (2) of this subsection so as to prohibit or otherwise restrict the importation of firearms described in that paragraph or in any other manner inconsistent with that paragraph, notwithstanding that such regulations have not yet been so revised: <i>Provided</i>, That this section shall not take effect if during the twenty day period beginning on the date of enactment of this section \[Dec. 22, 1987\] the Secretary of State, the Secretary of Defense, or the Secretary of the Treasury notifies Congress that he has an objection to the intent of this section: <i>Provided further</i>, That the Attorney General shall, within the period of time stated in the first proviso, submit a certification to Congress indicating whether the enactment of this section will interfere with any ongoing criminal investigation with respect to this section. If a certification of criminal investigative interference or an objection to the intent of this section is made, as herein provided, no permit shall be issued to anyone."
 
 #### Effective Date of 1985 Amendment
 
@@ -718,7 +786,7 @@ Contents of Report.—The report required by subsection (a) shall include, at a 
 
 &emsp;&emsp;"(B) countermeasures that may be necessary to overcome the use of such technologies and technical information.
 
-&emsp;"(3) An audit by the Inspectors General of the Departments of Defense, State, Commerce, and Energy, in consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, of the policies and procedures of the United States Government with respect to the export of technologies and technical information referred to in subsection (a) to countries and entities of concern.
+&emsp;"(3) An audit by the Inspectors General of the Departments of Defense, State, Commerce, and Energy, in consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, of the policies and procedures of theUnited States Government with respect to the export of technologies and technical information referred to in subsection (a) to countries and entities of concern.
 
 &emsp;"(4) The status of the implementation or other disposition of recommendations included in reports of audits by Inspectors General that have been set forth in a previous annual report under this section pursuant to paragraph (3).
 
@@ -1070,7 +1138,7 @@ Mandatory intelligence community review.—The Secretary of Commerce and the Sec
 
 &emsp;"(6)
 
-Mandatory sharing of approved licenses and agreements.—The Secretary of State shall provide copies of all approved export licenses and technical assistance agreements associated with launches in foreign countries of satellites to the Secretaries of Defense and Energy, the Director of Central Intelligence, and the Director of the Arms Control and Disarmament Agency.
+Mandatory sharing of approved licenses and agreements.—The Secretary of State shall providecopies of all approved export licenses and technical assistance agreements associated with launches in foreign countries of satellites to the Secretaries of Defense and Energy, the Director of Central Intelligence, and the Director of the Arms Control and Disarmament Agency.
 
 &emsp;"(7)
 
@@ -1160,7 +1228,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Landmine Export Moratorium
 
-Pub. L. 102–484, div. A, title XIII, §1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, §1182(c)(3), title XIV, §1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, §558, Feb. 12, 1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §556\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161;Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §553\], Nov. 29, 1999, 113 Stat. 1535, 1501A–99; Pub. L. 107–115, title V, §548, Jan. 10, 2002, 115 Stat. 2156; Pub. L. 110–161, div. J, title VI, §634(j), Dec. 26, 2007, 121 Stat. 2329, provided that:
+Pub. L. 102–484, div. A, title XIII, §1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, §1182(c)(3), title XIV, §1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, §558, Feb. 12, 1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §556\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §553\], Nov. 29, 1999, 113 Stat. 1535, 1501A–99; Pub. L. 107–115, title V, §548, Jan. 10, 2002, 115 Stat. 2156; Pub. L. 110–161, div. J, title VI, §634(j), Dec. 26, 2007, 121 Stat. 2329, provided that:
 
 "(a)
 
@@ -1230,7 +1298,7 @@ Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, provided that:
 
 &emsp;"(7) security, stability, peace, and prosperity in the Middle East and Persian Gulf region are important to the welfare of the international economy and to the national security interests of the United States;
 
-&emsp;"(8) future security and stability in the Middle East and Persian Gulf region would be enhanced throughthe development of a multilateral arms transfer and control regime similar to those of the Nuclear Suppliers' Group, the Missile Technology Control Regime, and the Australia Chemical Weapons Suppliers Group;
+&emsp;"(8) future security and stability in the Middle East and Persian Gulf region would be enhanced through the development of a multilateral arms transfer and control regime similar to those of the Nuclear Suppliers' Group, the Missile Technology Control Regime, and the Australia Chemical Weapons Suppliers Group;
 
 &emsp;"(9) such a regime should be developed, implemented, and agreed to through multilateral negotiations, including under the auspices of the 5 permanent members of the United Nations Security Council;
 
@@ -1407,14 +1475,4 @@ Ex. Ord. No. 12470, §3, Mar. 30, 1984, 49 F.R. 13099, listed in a table under s
 Ex. Ord. No. 12451, §3, Dec. 20, 1983, 48 F.R. 56563, listed in a table under section 1701 of Title 50.
 
 Ex. Ord. No. 12444, §3, Oct. 14, 1983, 48 F.R. 48215, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12451, Dec. 20, 1983, 48 F.R. 56563.
-
-<i><sup>1</sup></i><i> So in original. There are two subpars. designated "(B)".</i>
-
-<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "sections".</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be "175c".</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be followed by "in".</i>
 

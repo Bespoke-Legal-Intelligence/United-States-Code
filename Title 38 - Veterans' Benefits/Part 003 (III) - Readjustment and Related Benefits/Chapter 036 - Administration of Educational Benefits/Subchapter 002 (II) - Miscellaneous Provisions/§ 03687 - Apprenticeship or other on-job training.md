@@ -23,7 +23,7 @@
 
 (2) The monthly training assistance allowance of an eligible person pursuing a program described under subsection (a) shall be $574 for the first six months, $429 for the second six months, $285 for the third six months, and $144 for the fourth and any succeeding six-month period of training.
 
-(3) In any month in which an eligible veteran or person pursuing a program of apprenticeship or a program of other on-job training fails to complete one hundred and twenty hours of training in such month, the monthly training assistance allowance set forth in subsection\(b)(1) or (2) of this section, as applicable, shall be reduced proportionately in the proportion that the number of hours worked bears to one hundred and twenty hours rounded off to the nearest eight hours.
+(3) In any month in which an eligible veteran or person pursuing a program of apprenticeship or a program of other on-job training fails to complete one hundred and twenty hours of training in such month, the monthly training assistance allowance set forth in subsection (b)(1) or (2) of this section, as applicable, shall be reduced proportionately in the proportion that the number of hours worked bears to one hundred and twenty hours rounded off to the nearest eight hours.
 
 (c) For the purpose of this chapter, the terms "program of apprenticeship" and "program of other on-job training" shall have the same meaning as "program of education"; and the term "training assistance allowance" shall have the same meaning as "educational assistance allowance" as set forth in chapters 34 and 35 of this title.
 
@@ -53,7 +53,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in former section 1683, as added by Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, §103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, §7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
+Provisions similar to those comprising this section were contained in former section 1683, as added by Pub.L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, §103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, §7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
 
 #### Amendments
 
@@ -83,7 +83,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "3452(a)(1)" for "1652(a)(
 
 Pub. L. 96–466, §203(3), increased monthly training assistance allowance of eligible veterans in column II from $226, $169, $113, and $56 to $237, $177, $119, and $59; in column III from $254, $197, $141, and $84 to $267, $207, $148, and $88; in column IV from $277, $221, $164, and $108 to $291, $232, $172, and $113; in column V from $12, $12, $12, and $12 to $13, $13, $13, and $13, respectively.
 
-<b>1977</b>—Subsec. (b)(1). Pub. L. 95–202 increased monthly training assistance allowance of eligible veterans in column II from $212, $159, $106, and $53 to $226, $169, $113, and $56; in column III from $238, $185, $132, and $79 to$254, $197, $141, and $84; in column IV from $260, $207, $154, and $101 to $277, $221, $164, and $108; in column V from $11, $11, $11, and $11 to $12, $12, $12, and $12, respectively.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–202 increased monthly training assistance allowance of eligible veterans in column II from $212, $159, $106, and $53 to $226, $169, $113, and $56; in column III from $238, $185, $132, and $79 to $254, $197, $141, and $84; in column IV from $260, $207, $154, and $101 to $277, $221, $164, and $108; in column V from $11, $11, $11, and $11 to $12, $12, $12, and $12, respectively.
 
 <b>1976</b>—Subsec. (b)(1). Pub. L. 94–502 increased monthly training assistance allowance of eligible veterans in column II from "$196", "$147", "$98", and "$49" to "$212", "$159", "$106", and "$53"; in column III from "$220", "$171", "$122", and "$73" to "$238", "$185", "$132", and "$79"; in column IV from "$240", "$191", "$142", and "$93" to "$260", "$207", "$154", and "$101"; and in column V from "$10", "$10", "$10", and "$10" to "$11", "$11", "$11", and "$11" respectively.
 

@@ -26,17 +26,13 @@ The Director shall submit to the Librarian for inclusion in the annual report of
 
 (Pub. L. 94–201, §7, Jan. 2, 1976, 89 Stat. 1133; Pub. L. 105–275, §312(b)(2), Oct. 21, 1998, 112 Stat. 2459.)
 
-#### References in Text
-
-For Federal property disposal statutes, referred to in subsec. (a)(2), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
-
 #### Codification
 
 In subsec. (a)(7), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(8), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)" on authority of Pub. L. 97–258,§4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(8), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end ", but no individual so appointed shall receive compensation in excess of the rate received by the Deputy Director of the Center".
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end ", but no individual so appointedshall receive compensation in excess of the rate received by the Deputy Director of the Center".
 

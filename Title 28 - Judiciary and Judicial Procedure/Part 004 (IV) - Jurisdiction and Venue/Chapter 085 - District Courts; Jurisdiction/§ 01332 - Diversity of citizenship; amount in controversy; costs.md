@@ -10,7 +10,7 @@
 
 &emsp;(4) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States.
 
-(b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
+(b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district courtmay deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
 
 (c) For the purposes of this section and section 1441 of this title—
 
@@ -130,7 +130,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §41(1) (Mar. 3, 1911, ch. 231, §24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, §1, 48 Stat. 775; Aug. 21, 1937, ch. 726, §1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
-Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1341, 1342,1345, 1354, and 1359 of this title. (See reviser's notes under said sections.)
+Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1331, 1341, 1342, 1345, 1354, and 1359 of this title. (See reviser's notes under said sections.)
 
 Jurisdiction conferred by other sections of this chapter, except section 1335, is not dependent upon diversity of citizenship. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq. §§30–43. See, also, reviser's note under section 1331 of this title.) As to citizenship of bank where jurisdiction depends upon diversity of citizenship, see section 1348 of this title.
 
@@ -142,7 +142,7 @@ The revised section conforms with the views of Philip F. Herrick, United States 
 
 This changes the law to insure uniformity. The 1940 amendment applied only to the provision as to controversies between "citizens of different States." The new definition in subsection (b) extends the 1940 amendment to apply to controversies between citizens of the Territories or the District of Columbia, and foreign states or citizens or subjects thereof.
 
-The diversity of citizenship language of section 41(1) of title 28, U.S.C., 1940 ed., as amended in 1940, was described as ambiguous in <i>McGarry v. City of Bethlehem</i>, 45 F.Supp. 385, 386. In that case the 1940 amendment was held unconstitutional insofar as it affected the District of Columbia. However, two other district courts upheld the amendment. <i>Winkler v. Daniels</i>, D.C.Va. 1942, 43 F.Supp. 265; <i>Glaeser v. Acacia Mutual Life Ass'n</i>., D.C.Cal. 1944, 55 F.Supp. 925.
+The diversity of citizenship language of section 41(1) of title 28, U.S.C., 1940 ed., as amended in 1940, was described as ambiguous in <i>McGarry v. City of Bethlehem</i>, 45 F.Supp. 385, 386. In that case the 1940 amendment was held unconstitutional insofar as it affected the District of Columbia. However, two other district courts upheldthe amendment. <i>Winkler v. Daniels</i>, D.C.Va. 1942, 43 F.Supp. 265; <i>Glaeser v. Acacia Mutual Life Ass'n</i>., D.C.Cal. 1944, 55 F.Supp. 925.
 
 This section is intended to cover all diversity of citizenship instances in civil actions in accordance with the judicial construction of the language in the original section 41(1) of title 28, U.S.C., 1940 ed. Therefore, the revised language covers civil actions between—
 
@@ -166,643 +166,168 @@ The sentence "The foregoing provisions as to the sum or value of the matter in c
 
 Section 41(1) of title 28, U.S.C., 1940 ed., as originally enacted, purported to include all jurisdictional provisions relating to the district courts. Subsequently, many special jurisdictional provisions were enacted and incorporated in other titles of the U.S.C., 1940 ed., as follows:
 
-<i>Title</i>
-
-<i>Section</i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-7
-
-209
-
-7
-
-210
-
-7
-
-216
-
-7
-
-292
-
-7
-
-499g
-
-7
-
-608a(6)
-
-7
-
-608c(15)(B)
-
-7
-
-610(b)(2)
-
-7
-
-648
-
-7
-
-1175
-
-7
-
-1365–1367
-
-7
-
-1376
-
-7
-
-1508(c)
-
-8
-
-164
-
-8
-
-701
-
-8
-
-903
-
-9
-
-4
-
-9
-
-8
-
-9
-
-9
-
-11
-
-11(a)
-
-11
-
-46
-
-11
-
-205(a)(l)
-
-11
-
-401
-
-11
-
-511
-
-11
-
-512
-
-11
-
-514–516
-
-11
-
-711
-
-11
-
-712
-
-11
-
-811
-
-11
-
-812
-
-11
-
-1011
-
-11
-
-1012
-
-11
-
-1013
-
-11
-
-1200
-
-12
-
-93
-
-12
-
-195
-
-12
-
-632
-
-15
-
-4
-
-15
-
-9
-
-15
-
-15
-
-15
-
-25
-
-15
-
-26
-
-15
-
-31
-
-15
-
-53
-
-15
-
-68e
-
-15
-
-77t
-
-15
-
-77v
-
-15
-
-77vvv
-
-15
-
-78u(e)
-
-15
-
-78u(f)
-
-15
-
-78aa
-
-15
-
-79k(d)(e)
-
-15
-
-79r(f)(g)
-
-15
-
-80a–25
-
-15
-
-80a–34
-
-15
-
-80a–35
-
-15
-
-80a–41(c)(e)
-
-15
-
-80a–43
-
-15
-
-80b–14
-
-15
-
-97
-
-15
-
-99
-
-15
-
-433
-
-15
-
-715d(c)
-
-15
-
-715i
-
-15
-
-717s
-
-15
-
-717u
-
-16
-
-10
-
-16
-
-583e
-
-16
-
-820
-
-16
-
-825m
-
-16
-
-825n
-
-16
-
-825p
-
-17
-
-26
-
-17
-
-34
-
-21
-
-193
-
-21
-
-332
-
-21
-
-355
-
-25
-
-314
-
-25
-
-345
-
-26
-
-3633
-
-26
-
-3800
-
-27
-
-207
-
-29
-
-101
-
-29
-
-103–109
-
-29
-
-160(e)
-
-29
-
-216
-
-29
-
-217
-
-30
-
-188
-
-31
-
-232
-
-33
-
-495
-
-33
-
-918
-
-33
-
-921
-
-35
-
-63
-
-35
-
-66
-
-35
-
-67
-
-35
-
-72a
-
-35
-
-90
-
-38
-
-445
-
-40
-
-257
-
-40
-
-270b
-
-40
-
-361
-
-41
-
-113(b)(2)
-
-42
-
-405(c)(5)(g)
-
-43
-
-546
-
-43
-
-1062
-
-45
-
-56
-
-45
-
-88
-
-45
-
-89
-
-45
-
-153(p)
-
-45
-
-159
-
-45
-
-185
-
-45
-
-228j4
-
-45
-
-228k
-
-45
-
-268
-
-45
-
-355(f)
-
-46
-
-597
-
-46
-
-688
-
-46
-
-711
-
-46
-
-741 et seq.
-
-46
-
-781 et seq.
-
-46
-
-941(c)
-
-46
-
-951
-
-46
-
-954
-
-46
-
-1114(c)
-
-46
-
-1128d
-
-47
-
-11
-
-47
-
-13
-
-47
-
-33
-
-47
-
-36
-
-47
-
-207
-
-47
-
-401
-
-47
-
-406
-
-47
-
-407
-
-48
-
-242
-
-48
-
-245
-
-49
-
-5(8)
-
-49
-
-9
-
-49
-
-16(2)
-
-49
-
-16(9)
-
-49
-
-16(12)
-
-49
-
-17(9)
-
-49
-
-19a(l)
-
-49
-
-20(9)
-
-49
-
-23
-
-49
-
-26(h)
-
-49
-
-41(1)(3)
-
-49
-
-43
-
-49
-
-181(b)(c)
-
-49
-
-305(g)
-
-49
-
-322(b)
-
-49
-
-647
-
-49
-
-916
-
-49
-
-1017
-
-49
-
-1021
-
-50
-
-23
-
-D.C. Code
-
-11–305—11–307
-
-D.C. Code
-
-11–309
-
-D.C. Code
-
-11–324
+&nbsp;
+
+| <i>Title</i> | <i>Section</i> |
+| :--- | ---: |
+| 7 | 209 |
+| 7 | 210 |
+| 7 | 216 |
+| 7 | 292 |
+| 7 | 499g |
+| 7 | 608a(6) |
+| 7 | 608c(15)(B) |
+| 7 | 610(b)(2) |
+| 7 | 648 |
+| 7 | 1175 |
+| 7 | 1365—1367 |
+| 7 | 1376 |
+| 7 | 1508(c) |
+| 8 | 164 |
+| 8 | 701 |
+| 8 | 903 |
+| 9 | 4 |
+| 9 | 8 |
+| 9 | 9 |
+| 11 | 11(a) |
+| 11 | 46 |
+| 11 | 205(a), (<i>l</i>) |
+| 11 | 401 |
+| 11 | 511 |
+| 11 | 512 |
+| 11 | 514—516 |
+| 11 | 711 |
+| 11 | 712 |
+| 11 | 811 |
+| 11 | 812 |
+| 11 | 1011 |
+| 11 | 1012 |
+| 11 | 1013 |
+| 11 | 1200 |
+| 12 | 93 |
+| 12 | 195 |
+| 12 | 632 |
+| 15 | 4 |
+| 15 | 9 |
+| 15 | 15 |
+| 15 | 25 |
+| 15 | 26 |
+| 15 | 31 |
+| 15 | 53 |
+| 15 | 68e |
+| 15 | 77t |
+| 15 | 77v |
+| 15 | 77vvv |
+| 15 | 78u(e) |
+| 15 | 78u(f) |
+| 15 | 78aa |
+| 15 | 79k(d), (e) |
+| 15 | 79r(f), (g) |
+| 15 | 80a–25 |
+| 15 | 80a–34 |
+| 15 | 80a–35 |
+| 15 | 80a–41(c), (e) |
+| 15 | 80a–43 |
+| 15 | 80b–14 |
+| 15 | 97 |
+| 15 | 99 |
+| 15 | 433 |
+| 15 | 715d(c) |
+| 15 | 715i |
+| 15 | 717s |
+| 15 | 717u |
+| 16 | 10 |
+| 16 | 583e |
+| 16 | 820 |
+| 16 | 825m |
+| 16 | 825n |
+| 16 | 825p |
+| 17 | 26 |
+| 17 | 34 |
+| 21 | 193 |
+| 21 | 332 |
+| 21 | 355 |
+| 25 | 314 |
+| 25 | 345 |
+| 26 | 3633 |
+| 26 | 3800 |
+| 27 | 207 |
+| 29 | 101 |
+| 29 | 103—109 |
+| 29 | 160(e) |
+| 29 | 216 |
+| 29 | 217 |
+| 30 | 188 |
+| 31 | 232 |
+| 33 | 495 |
+| 33 | 918 |
+| 33 | 921 |
+| 35 | 63 |
+| 35 | 66 |
+| 35 | 67 |
+| 35 | 72a |
+| 35 | 90 |
+| 38 | 445 |
+| 40 | 257 |
+| 40 | 270b |
+| 40 | 361 |
+| 41 | 113(b)(2) |
+| 42 | 405(c)(5), (g) |
+| 43 | 546 |
+| 43 | 1062 |
+| 45 | 56 |
+| 45 | 88 |
+| 45 | 89 |
+| 45 | 153(p) |
+| 45 | 159 |
+| 45 | 185 |
+| 45 | 228j(b)4 |
+| 45 | 228k |
+| 45 | 268 |
+| 45 | 355(f) |
+| 46 | 597 |
+| 46 | 688 |
+| 46 | 711 |
+| 46 | 741 et seq. |
+| 46 | 781 et seq. |
+| 46 | 941(c) |
+| 46 | 951 |
+| 46 | 954 |
+| 46 | 1114(c) |
+| 46 | 1128d |
+| 47 | 11 |
+| 47 | 13 |
+| 47 | 33 |
+| 47 | 36 |
+| 47 | 207 |
+| 47 | 401 |
+| 47 | 406 |
+| 47 | 407 |
+| 48 | 242 |
+| 48 | 245 |
+| 49 | 5(8) |
+| 49 | 9 |
+| 49 | 16(2) |
+| 49 | 16(9) |
+| 49 | 16(12) |
+| 49 | 17(9) |
+| 49 | 19a(<i>l</i>) |
+| 49 | 20(9) |
+| 49 | 23 |
+| 49 | 26(h) |
+| 49 | 41(1), (3) |
+| 49 | 43 |
+| 49 | 181(b), (c) |
+| 49 | 305(g) |
+| 49 | 322(b) |
+| 49 | 647 |
+| 49 | 916 |
+| 49 | 1017 |
+| 49 | 1021 |
+| 50 | 23 |
+| D.C. Code | 11–305—11–307 |
+| D.C. Code | 11–309 |
+| D.C. Code | 11–324 |
 
 #### References in Text
 

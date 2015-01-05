@@ -36,7 +36,7 @@ The Secretary shall make payments under a conservation security contract as soon
 
 &emsp;&emsp;&emsp;(iii) An enhanced payment that is determined by the Secretary in a manner that ensures equity across regions of the United States, if the producer—
 
-&emsp;&emsp;&emsp;&emsp;(I) implements or maintains multiple conservation practices that exceed minimum requirements for the applicable tier of participation (including practices that involve a change in land use, such as resource-conserving crop rotation, managed rotational grazing, or conservation buffer practices);
+&emsp;&emsp;&emsp;&emsp;(I) implements or maintains multiple conservation practices that exceed minimum requirements for the applicable tier of participation (including practices that involve a change in land use, such as resource-conserving crop rotation,managed rotational grazing, or conservation buffer practices);
 
 &emsp;&emsp;&emsp;&emsp;(II) addresses local conservation priorities in addition to resources of concern for the agricultural operation;
 

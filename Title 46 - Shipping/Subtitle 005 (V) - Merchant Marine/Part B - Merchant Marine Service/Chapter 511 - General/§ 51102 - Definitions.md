@@ -16,7 +16,7 @@ Merchant marine officer.—The term "merchant marine officer" means an individua
 
 &emsp;&emsp;(A) a master, mate, or pilot on a documented vessel that—
 
-&emsp;&emsp;&emsp;(i) is of at least 1,000 gross tons as measured under section 14502 of this title or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title; and
+&emsp;&emsp;&emsp;(i) is of at least 1,000 gross tons as measured under section 14502 of this title or analternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title; and
 
 &emsp;&emsp;&emsp;(ii) operates on the oceans or the Great Lakes; or
 

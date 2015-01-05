@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is established in the Research and Innovative Technology Administration an Office of Intermodalism.
+Establishment.—There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation an Office of Intermodalism.
 
 (b)
 
@@ -48,7 +48,7 @@ In general.—The Director, in consultation with the advisory board established 
 
 &emsp;(2)
 
-Progress reports.—The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and theCommittee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
+Progress reports.—The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
 
 &emsp;&emsp;(A) describe progress made toward achieving the plan's goals;
 
@@ -90,7 +90,7 @@ Administrative and Clerical Support.—The Director shall provide administrative
 
 Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation such sums as may be necessary for fiscal years 2006 through 2009 to carry out this chapter.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, §5109(b), June 9, 1998, 112 Stat. 440; Pub. L. 108–426, §4(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title IV, §4149, Aug. 10, 2005, 119 Stat. 1750; Pub. L. 110–244, title III, §301(k), June 6, 2008, 122 Stat. 1616.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, §5109(b), June 9, 1998, 112 Stat. 440; Pub. L. 108–426, §4(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title IV, §4149, Aug. 10, 2005, 119 Stat. 1750; Pub. L. 110–244, title III, §301(k), June 6, 2008, 122 Stat. 1616; Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574.)
 
 Historical and Revision Notes
 
@@ -141,4 +141,8 @@ Pub. L. 109–59, §4149(2), redesignated subsec. (f) as (h) relating to adminis
 &emsp;"(C) public and private investment in intermodal transportation facilities and services.
 
 "(2) The Director shall make information from the data base available to the public."
+
+#### Change of Name
+
+"Office of the Assistant Secretary for Research and Technology of the Department of Transportation" substituted for "Research and Innovative Technology Administration" in subsec. (a) on authority of title I of div. L of Pub. L. 113–76, set out in part as a Transfer of Duties and Powers note under section 112 of this title.
 

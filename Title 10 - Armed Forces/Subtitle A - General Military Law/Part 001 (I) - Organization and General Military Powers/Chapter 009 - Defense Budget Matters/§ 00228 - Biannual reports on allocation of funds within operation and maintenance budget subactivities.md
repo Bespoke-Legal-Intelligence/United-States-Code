@@ -2,7 +2,7 @@
 
 (a)
 
-Biannual Report.—The Secretary of Defense shall submit to the congressional defense committees a biannual report on the allocation of appropriations to O\&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not later than 60 days after the end of the two fiscal-year quarters to which the report pertains.
+Biannual Report.—The Secretary of Defense shall submit to the congressional defense committees a biannual report on the allocationof appropriations to O\&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not later than 60 days after the end of the two fiscal-year quarters to which the report pertains.
 
 (b)
 

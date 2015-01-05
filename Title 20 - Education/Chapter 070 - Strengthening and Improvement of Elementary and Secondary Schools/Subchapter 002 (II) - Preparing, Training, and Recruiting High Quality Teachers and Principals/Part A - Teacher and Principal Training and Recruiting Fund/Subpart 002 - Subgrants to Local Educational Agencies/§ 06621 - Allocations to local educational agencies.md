@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) an amount that bears the same relationship to 20 percent of the excess amount as the number of individuals age 5 through 17 in the geographic area served by the agency, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in the geographic areas served by all the local educational agencies in the State, as so determined; and
 
-&emsp;&emsp;(B) an amount that bears the same relationship to 80 percent of the excess amount as the number of individuals age 5 through 17 from families with incomes below the poverty line in the geographic area served by the agency, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in the geographic areas served by all the local educational agencies in the State, as so determined.
+&emsp;&emsp;(B) an amount that bears the same relationship to 80 percent of the excess amountas the number of individuals age 5 through 17 from families with incomes below the poverty line in the geographic area served by the agency, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in the geographic areas served by all the local educational agencies in the State, as so determined.
 
 (Pub. L. 89–10, title II, §2121, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1627.)
 

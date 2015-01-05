@@ -48,7 +48,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1992</b>—Subsec. (a)(3). Pub. L. 102–378 substituted a period for semicolon at end.
 
-<b>1978</b>—Pub. L. 95–454 substituted “Establishment of performance appraisal systems” for “Performance-rating plans; establishment of” in section catchline and in text substituted provisions relating to the establishment of a performance appraisal system, for provisions relating to the establishment of performance-rating plans.
+<b>1978</b>—Pub. L. 95–454 substituted "Establishment of performance appraisal systems" for "Performance-rating plans; establishment of" in section catchline and in text substituted provisions relating to the establishment of a performance appraisal system, for provisions relating to the establishment of performance-rating plans.
 
 #### Effective Date of 1978 Amendment
 

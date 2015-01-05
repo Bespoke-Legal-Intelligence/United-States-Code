@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1051\.](%C2%A7%2001051%20-%20Property%20acquired%20during%20affiliation.md) | Property acquired during affiliation. |
+| \[1051. | Repealed.\] |
 | [1052\.](%C2%A7%2001052%20-%20Basis%20established%20by%20the%20Revenue%20Act%20of%201932%20or%201934%20or%20by%20the%20Internal%20Revenue%20Code%20of%201939.md) | Basis established by the Revenue Act of 1932 or 1934 or by the Internal Revenue Code of 1939. |
 | [1053\.](%C2%A7%2001053%20-%20Property%20acquired%20before%20March%201%2C%201913.md) | Property acquired before March 1, 1913. |
 | [1054\.](%C2%A7%2001054%20-%20Certain%20stock%20of%20Federal%20National%20Mortgage%20Association.md) | Certain stock of Federal National Mortgage Association. |
@@ -17,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(78), Dec. 19, 2014, 128 Stat. 4049, struck out item 1051 "Property acquired during affiliation".
 
 <b>2004</b>—Pub. L. 108–357, title VIII, §886(b)(1)(B), Oct. 22, 2004, 118 Stat. 1641, struck out item 1056 "Basis limitation for player contracts transferred in connection with the the sale of a franchise".
 
@@ -39,7 +41,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01051 - Property acquired during affiliation](%C2%A7%2001051%20-%20Property%20acquired%20during%20affiliation.md)
+- [&sect; 01051 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(78), Dec. 19, 2014, 128 Stat. 4049](%C2%A7%2001051%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%2878%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204049.md)
 - [&sect; 01052 - Basis established by the Revenue Act of 1932 or 1934 or by the Internal Revenue Code of 1939](%C2%A7%2001052%20-%20Basis%20established%20by%20the%20Revenue%20Act%20of%201932%20or%201934%20or%20by%20the%20Internal%20Revenue%20Code%20of%201939.md)
 - [&sect; 01053 - Property acquired before March 1, 1913](%C2%A7%2001053%20-%20Property%20acquired%20before%20March%201%2C%201913.md)
 - [&sect; 01054 - Certain stock of Federal National Mortgage Association](%C2%A7%2001054%20-%20Certain%20stock%20of%20Federal%20National%20Mortgage%20Association.md)

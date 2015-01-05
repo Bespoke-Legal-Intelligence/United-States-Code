@@ -56,7 +56,7 @@ For purposes of subsection (b)(3), an eligible entity shall establish a certifie
 
 #### (e) Use of funds
 
-Amounts deposited in a Loan Fund, including loan repayments and interest earned on such amounts, shall be used only for awarding loans or loan guarantees, making reimbursements described in subsection (g)(4)(A), or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in the Loan Fund established under subsection (c). Loans under this section may be used by a health care provider to—
+Amounts deposited in a Loan Fund, including loan repayments and interest earned on such amounts, shall be used only for awarding loans or loan guarantees, making reimbursements described in subsection (g)(4)(A), or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in the Loan Fund established under subsection (c). Loansunder this section may be used by a health care provider to—
 
 &emsp;(1) facilitate the purchase of certified EHR technology;
 
@@ -108,7 +108,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 #### (A) In general
 
-&emsp;&emsp;A Loan Fund established under this section may accept contributions from private sector entities, except that such entitiesmay not specify the recipient or recipients of any loan issued under this subsection. An eligible entity may agree to reimburse a private sector entity for any contribution made under this subparagraph, except that the amount of such reimbursement may not be greater than the principal amount of the contribution made.
+&emsp;&emsp;A Loan Fund established under this section may accept contributions from private sector entities, except that such entities may not specify the recipient or recipients of any loan issued under this subsection. An eligible entity may agree to reimburse a private sector entity for any contribution made under this subparagraph, except that the amount of such reimbursement may not be greater than the principal amount of the contribution made.
 
 #### (B) Availability of information
 
@@ -134,7 +134,7 @@ The Secretary may not make an award under this section prior to January 1, 2010.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620.Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should appear at end of subpar. (D).</i>
 

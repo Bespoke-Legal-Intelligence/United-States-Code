@@ -6,7 +6,7 @@ Except as provided in subsection (b), (c)(1), (d), (e), or (f) of this section, 
 
 &emsp;(1) that relates to the regulation of a drug that is not subject to the requirements of section 353(b)(1) or 353(f)(1)(A) of this title; and
 
-&emsp;(2) that is different from or in addition to, or that is otherwise not identical with, a requirement under this chapter, the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 etseq.), or the Fair Packaging and Labeling Act (15 U.S.C. 1451 et seq.).
+&emsp;(2) that is different from or in addition to, or that is otherwise not identical with, a requirement under this chapter, the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), or the Fair Packaging and Labeling Act (15 U.S.C. 1451 et seq.).
 
 #### (b) Exemption
 

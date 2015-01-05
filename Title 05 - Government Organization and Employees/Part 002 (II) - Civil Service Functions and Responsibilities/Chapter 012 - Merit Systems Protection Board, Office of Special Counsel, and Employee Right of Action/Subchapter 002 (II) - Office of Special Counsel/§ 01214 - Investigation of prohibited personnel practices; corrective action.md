@@ -68,7 +68,7 @@
 
 (D) If the Special Counsel finds, in consultation with the individual subject to the prohibited personnel practice, that the agency has acted to correct the prohibited personnel practice, the Special Counsel shall file such finding with the Board, together with any written comments which the individual may provide.
 
-(E) A determination by the Special Counsel under this paragraph shall not be cited or referred to in any proceeding under this paragraphor any other administrative or judicial proceeding for any purpose, without the consent of the person submitting the allegation of a prohibited personnel practice.
+(E) A determination by the Special Counsel under this paragraph shall not be cited or referred to in any proceeding under this paragraph or any other administrative or judicial proceeding for any purpose, without the consent of the person submitting the allegation of a prohibited personnel practice.
 
 (3) Whenever the Special Counsel petitions the Board for corrective action, the Board shall provide an opportunity for—
 
@@ -114,13 +114,13 @@
 
 #### Amendments
 
-<b>2012</b>—Subsecs. (a)(3), (b)(4)(A). Pub. L. 112–199, §101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
+<b>2012</b>—Subsecs. (a)(3), (b)(4)(A). Pub. L. 112–199, §101(b)(1)(A), inserted "or section 2302(b)(9)(A)(i), (B), (C), or (D)" after "section 2302(b)(8)".
 
-Subsec. (b)(4)(B)(i). Pub. L. 112–199, §101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure”.
+Subsec. (b)(4)(B)(i). Pub. L. 112–199, §101(b)(1)(A), (2)(A), inserted "or section 2302(b)(9)(A)(i), (B), (C), or (D)" after "section 2302(b)(8)" in two places and inserted "or protected activity" after "disclosure".
 
-Subsec. (b)(4)(B)(ii). Pub. L. 112–199, §114(a), inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
+Subsec. (b)(4)(B)(ii). Pub. L. 112–199, §114(a), inserted ", after a finding that a protected disclosure was a contributing factor," after "ordered if".
 
-Subsec. (g)(2). Pub. L. 112–199, §107(b), substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential damages.”
+Subsec. (g)(2). Pub. L. 112–199, §107(b), substituted "any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs)." for "and any other reasonable and foreseeable consequential damages."
 
 Subsec. (h). Pub. L. 112–199, §104(c)(1), added subsec. (h).
 
@@ -138,5 +138,5 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 #### Termination Statement
 
-Pub. L. 103–424, §12(b), Oct. 29, 1994, 108 Stat. 4367, provided that: “The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person's allegations.”
+Pub. L. 103–424, §12(b), Oct. 29, 1994, 108 Stat. 4367, provided that: "The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person's allegations."
 

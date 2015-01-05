@@ -26,7 +26,7 @@ An eligible entity that receives a grant under subsection (a) of this section sh
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2003 through 2007.
 
-(July 1, 1944, ch. 373, title VIII, §862, formerly §852, as added Pub. L. 107–205, title I, §102, Aug. 1, 2002, 116 Stat. 812; renumbered §862, Pub. L.111–148, title V, §5310(b)(9)(A), Mar. 23, 2010, 124 Stat. 631.)
+(July 1, 1944, ch. 373, title VIII, §862, formerly §852, as added Pub. L. 107–205, title I, §102, Aug. 1, 2002, 116 Stat. 812; renumbered §862, Pub. L. 111–148, title V, §5310(b)(9)(A), Mar. 23, 2010, 124 Stat. 631.)
 
 #### Prior Provisions
 

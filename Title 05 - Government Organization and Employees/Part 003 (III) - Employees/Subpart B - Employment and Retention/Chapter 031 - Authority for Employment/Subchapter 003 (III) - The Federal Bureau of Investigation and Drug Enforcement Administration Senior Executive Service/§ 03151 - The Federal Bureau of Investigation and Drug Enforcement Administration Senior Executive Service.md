@@ -1,6 +1,6 @@
 ### §3151. The Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service
 
-(a) The Attorney General may by regulation establish a personnel system for senior personnel within the Federal Bureau of Investigation and the Drug Enforcement Administration to be known as the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service (hereinafter in this subchapter referred to as the “FBI–DEA Senior Executive Service”). The regulations establishing the FBI–DEA Senior Executive Service shall—
+(a) The Attorney General may by regulation establish a personnel system for senior personnel within the Federal Bureau of Investigation and the Drug Enforcement Administration to be known as the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service (hereinafter in this subchapter referred to as the "FBI–DEA Senior Executive Service"). The regulations establishing the FBI–DEA Senior Executive Service shall—
 
 &emsp;(1) meet the requirements set forth in section 3131 for the Senior Executive Service;
 
@@ -34,7 +34,7 @@
 
 (c) The President, based on the recommendations of the Attorney General, may award ranks to members of the FBI–DEA Senior Executive Service in a manner consistent with the provisions of section 4507.
 
-(d) Notwithstanding any other provision of this section, the Attorney General may detail or assign any member of the FBI–DEA Senior Executive Service to serve in a position outside the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) in which the member's expertise and experience may be of benefit to the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) or another Government agency. Any such member shall not byreason of such detail or assignment lose any entitlement or status associated with membership in the FBI–DEA Senior Executive Service.
+(d) Notwithstanding any other provision of this section, the Attorney General may detail or assign any member of the FBI–DEA Senior Executive Service to serve in a position outside the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) in which the member's expertise and experience may be of benefit to the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) or another Government agency. Any such member shall not by reason of such detail or assignment lose any entitlement or status associated with membership in the FBI–DEA Senior Executive Service.
 
 (e) The Attorney General shall each year submit to Congress, at the time the budget is submitted by the President to the Congress for the next fiscal year, a report on the FBI–DEA Senior Executive Service. The report shall include, in the aggregate and by agency—
 
@@ -62,17 +62,17 @@ Provisions of this title governing appointments and other personnel actions in t
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–108 struck out par. (1) designation before “Except as provided”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows:
+<b>2005</b>—Subsec. (b). Pub. L. 109–108 struck out par. (1) designation before "Except as provided", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows:
 
-“(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
+"(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
 
-“(B) For the purpose of subparagraph (A), ‘career employee in the civil service’ shall have such meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes.”
+"(B) For the purpose of subparagraph (A), 'career employee in the civil service' shall have such meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes."
 
 <b>1989</b>—Subsec. (a)(5)(E). Pub. L. 101–194 added subpar. (E).
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–194, title V, §506(d), Nov. 30, 1989, 103 Stat. 1759, provided that: “The amendments made by this section \[enacting section 3393a of this title and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and section 3610 of Title 50, War and National Defense\] shall take effect on January 1, 1991.”
+Pub. L. 101–194, title V, §506(d), Nov. 30, 1989, 103 Stat. 1759, provided that: "The amendments made by this section \[enacting section 3393a of this title and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and section 3610 of Title 50, War and National Defense\] shall take effect on January 1, 1991."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

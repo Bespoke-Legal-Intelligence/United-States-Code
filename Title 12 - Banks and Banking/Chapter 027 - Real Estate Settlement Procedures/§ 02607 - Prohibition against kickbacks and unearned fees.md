@@ -34,7 +34,7 @@ The Consumer Financial Protection Act of 2010, referred to in subsec. (d)(4), is
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(5). Pub. L. 111–203, §1098(6), which directed substituting "Bureau" for "Secretary", was executed by making the substitution for "Secretary" thefirst time appearing, to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (c)(5). Pub. L. 111–203, §1098(6), which directed substituting "Bureau" for "Secretary", was executed by making the substitution for "Secretary" the first time appearing, to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 111–203, §1098(7)(A), inserted "Bureau and" before "Secretary" in heading that had been supplied editorially.
 

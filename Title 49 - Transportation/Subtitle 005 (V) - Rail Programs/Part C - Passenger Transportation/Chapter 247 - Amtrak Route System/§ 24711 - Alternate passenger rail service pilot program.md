@@ -62,7 +62,7 @@ Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referr
 
 Section 217 of that Act, referred to in subsec. (c)(2), is section 217 of Pub. L. 110–432, which is set out as a note under section 24702 of this title.
 
-Section 121 of the Amtrak Reform and Accountability Act of 1997, referred to in subsec. (c)(3), is section 121 of Pub. L. 105–134, which amended section 24312 of this title and enacted provisions set out as a note under section 24312 of this title.
+Section 121 of the Amtrak Reform and Accountability Act of 1997, referred to in subsec. (c)(3), is section 121 ofPub. L. 105–134, which amended section 24312 of this title and enacted provisions set out as a note under section 24312 of this title.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 

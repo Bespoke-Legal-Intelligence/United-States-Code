@@ -2,9 +2,9 @@
 
 (a) For the purpose of this subchapter, except section 3504—
 
-&emsp;(1) “active service” has the meaning given it by section 101 of title 37;
+&emsp;(1) "active service" has the meaning given it by section 101 of title 37;
 
-&emsp;(2) “a retired member of a uniformed service” means a member or former member of a uniformed service who is entitled, under statute, to retired, retirement, or retainer pay on account of his service as such a member; and
+&emsp;(2) "a retired member of a uniformed service" means a member or former member of a uniformed service who is entitled, under statute, to retired, retirement, or retainer pay on account of his service as such a member; and
 
 &emsp;(3) a preference eligible employee who is a retired member of a uniformed service is considered a preference eligible only if—
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) resulting from injury or disease received in line of duty as a direct result of armed conflict; or
 
-&emsp;&emsp;&emsp;(ii) caused by an instrumentality of war and incurred in the line of duty during a period of war as defined by sections 101 and 1101 of title 38;
+&emsp;&emsp;&emsp;(ii) caused by an instrumentality of war and incurred in the line of duty during aperiod of war as defined by sections 101 and 1101 of title 38;
 
 &emsp;&emsp;(B) his service does not include twenty or more years of full-time active service, regardless of when performed but not including periods of active duty for training; or
 
@@ -42,11 +42,11 @@ Aug. 19, 1964, Pub. L. 88–448, §101 (as applicable to §202), 78 Stat. 484.
 
 5 U.S.C. 861(b).
 
-June 27, 1944, ch. 287, §12(b); added Aug. 19, 1964, Pub. L. 88–448, §202(4) (“(b)”), 78 Stat. 486.
+June 27, 1944, ch. 287, §12(b); added Aug. 19, 1964, Pub. L. 88–448, §202(4) ("(b)"), 78 Stat. 486.
 
-In subsection (a), the definitions of “uniformed services” and “armed forces” are omitted as unnecessary in view of the definitions in section 2101. The definition of “civilian office” is omitted as unnecessary as subsection (b) of this section states the application of this subchapter.
+In subsection (a), the definitions of "uniformed services" and "armed forces" are omitted as unnecessary in view of the definitions in section 2101. The definition of "civilian office" is omitted as unnecessary as subsection (b) of this section states the application of this subchapter.
 
-In subsection (a)(3), the words “Notwithstanding any other provision of this Act” are omitted as unnecessary. The words “preference eligible employee” are coextensive with and substituted for “employee \* \* \* included under section 2 of this Act” in view of the definition of preference eligible in section 2108. In paragraph (3)(C), the words “on November 30, 1964, he was employed in a position to which this subchapter applies and thereafter he continued to be so employed” are substituted for “immediately prior to the effective date of this subsection, he was employed in a civilian office to which this Act applies and, on and after such date, he continues to be employed in any such office”.
+In subsection (a)(3), the words "Notwithstanding any other provision of this Act" are omitted as unnecessary. The words "preference eligible employee" are coextensive with and substituted for "employee \* \* \* included under section 2 of this Act" in view of the definition of preference eligible in section 2108. In paragraph (3)(C), the words "on November 30, 1964, he was employed in a position to which this subchapter applies and thereafter he continued to be so employed" are substituted for "immediately prior to the effective date of this subsection, he was employed in a civilian office to which this Act applies and, on and after such date, he continues to be employed in any such office".
 
 Subsection (b) is supplied on authority of sections 2, 12, and 20 of the Act of June 27, 1944, ch. 287, 58 Stat. 387, 391, which are carried into this title.
 
@@ -60,7 +60,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–454 inserted reference to a member of Senior Executive Service.
 
-<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out “, except an employee whose appointment is made under section 3311 of title 39” after “or made with the advice and consent of, the Senate”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out ", except an employee whose appointment is made under section 3311 of title 39" after "or made with the advice and consent of, the Senate".
 
 #### Effective Date of 1978 Amendment
 

@@ -4,7 +4,7 @@ The purposes of the New Markets Venture Capital Program established under this p
 
 &emsp;(1) to promote economic development and the creation of wealth and job opportunities in low-income geographic areas and among individuals living in such areas by encouraging developmental venture capital investments in smaller enterprises primarily located in such areas; and
 
-&emsp;(2) to establish a developmental venture capital program, with the mission of addressingthe unmet equity investment needs of small enterprises located in low-income geographic areas, to be administered by the Administrator—
+&emsp;(2) to establish a developmental venture capital program, with the mission of addressing the unmet equity investment needs of small enterprises located in low-income geographic areas, to be administered by the Administrator—
 
 &emsp;&emsp;(A) to enter into participation agreements with New Markets Venture Capital companies;
 

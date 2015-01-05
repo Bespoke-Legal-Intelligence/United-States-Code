@@ -52,7 +52,7 @@ Pub. L. 104–201, div. A, title XIV, §1416(c)(2)(B), Sept. 23, 1996, 110 Stat.
 
 Pub. L. 104–132, title III, §§303(b), 321(b), title V, §521(c), title VII, §702(b), Apr. 24, 1996, 110 Stat. 1253, 1254, 1287, 1294, added items 2332b to 2332d and 2339B.
 
-<b>1994</b>—Pub. L. 103–322, title XII, §120005(b), Sept. 13, 1994, 108 Stat. 2023, as amended by Pub. L. 104–294, titleVI, §604(b)(5), Oct. 11, 1996, 110 Stat. 3506, added item 2339A.
+<b>1994</b>—Pub. L. 103–322, title XII, §120005(b), Sept. 13, 1994, 108 Stat. 2023, as amended by Pub. L. 104–294, title VI, §604(b)(5), Oct. 11, 1996, 110 Stat. 3506, added item 2339A.
 
 Pub. L. 103–322, title VI, §60023(b), title XXV, §250002(a)(1), (b)(2), Sept. 13, 1994, 108 Stat. 1981, 2082, 2085, renumbered chapter 113A as 113B, amended chapter heading generally, substituting "113B" for "113A", and added item 2332a.
 

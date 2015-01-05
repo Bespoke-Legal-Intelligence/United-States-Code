@@ -45,7 +45,7 @@
 | [957\.](%C2%A7%2000957%20-%20Right%20of%20way%20to%20electric%20power%20companies.md) | Right of way to electric power companies. |
 | [958\.](%C2%A7%2000958%20-%20Rights%20of%20way%20for%20wagon%20roads%20or%20railroads.md) | Rights of way for wagon roads or railroads. |
 | [959\.](%C2%A7%2000959%20-%20Rights%20of%20way%20for%20electrical%20plants%2C%20etc.md) | Rights of way for electrical plants, etc. |
-| [961\.](%C2%A7%2000961%20-%201%20Rights-of-way%20through%20public%20lands%2C%20Indian%2C%20and%20other%20reservations%20for%20power%20and%20communications%20facilities.md) | Rights-of-way through public lands, Indian, and other reservations for power and communications facilities. |
+| [961\.](%C2%A7%2000961%20-%201%20Rights-of-way%20for%20power%20and%20communications%20facilities.md) | Rights-of-way for power and communications facilities. |
 | [962\.](%C2%A7%2000962%20-%20Right%20of%20way%20in%20Colorado%20and%20Wyoming%20to%20pipeline%20companies.md) | Right of way in Colorado and Wyoming to pipeline companies. |
 | [963\.](%C2%A7%2000963%20-%20Applications%20for%20Colorado%20and%20Wyoming%20pipeline%20right%20of%20way.md) | Applications for Colorado and Wyoming pipeline right of way. |
 | [964\.](%C2%A7%2000964%20-%20Limit%20of%20time%20for%20completion%20of%20Colorado%20and%20Wyoming%20pipelines%3B%20forfeiture.md) | Limit of time for completion of Colorado and Wyoming pipelines; forfeiture. |
@@ -114,7 +114,7 @@
 - [&sect; 00957 - Right of way to electric power companies](%C2%A7%2000957%20-%20Right%20of%20way%20to%20electric%20power%20companies.md)
 - [&sect; 00958 - Rights of way for wagon roads or railroads](%C2%A7%2000958%20-%20Rights%20of%20way%20for%20wagon%20roads%20or%20railroads.md)
 - [&sect; 00959 - Rights of way for electrical plants, etc](%C2%A7%2000959%20-%20Rights%20of%20way%20for%20electrical%20plants%2C%20etc.md)
-- [&sect; 00961 - 1 Rights-of-way through public lands, Indian, and other reservations for power and communications facilities](%C2%A7%2000961%20-%201%20Rights-of-way%20through%20public%20lands%2C%20Indian%2C%20and%20other%20reservations%20for%20power%20and%20communications%20facilities.md)
+- [&sect; 00961 - 1 Rights-of-way for power and communications facilities](%C2%A7%2000961%20-%201%20Rights-of-way%20for%20power%20and%20communications%20facilities.md)
 - [&sect; 00962 - Right of way in Colorado and Wyoming to pipeline companies](%C2%A7%2000962%20-%20Right%20of%20way%20in%20Colorado%20and%20Wyoming%20to%20pipeline%20companies.md)
 - [&sect; 00963 - Applications for Colorado and Wyoming pipeline right of way](%C2%A7%2000963%20-%20Applications%20for%20Colorado%20and%20Wyoming%20pipeline%20right%20of%20way.md)
 - [&sect; 00964 - Limit of time for completion of Colorado and Wyoming pipelines; forfeiture](%C2%A7%2000964%20-%20Limit%20of%20time%20for%20completion%20of%20Colorado%20and%20Wyoming%20pipelines%3B%20forfeiture.md)

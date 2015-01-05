@@ -24,7 +24,7 @@ An order shall contain the terms and conditions specified in this section.
 
 #### (5) Compensation and expenses
 
-&emsp;A member of the Board shall serve without compensation, but shall be reimbursed for the expenses of the member incurred in the performance of duties for the Board.
+&emsp;A member of the Board shall serve without compensation, but shall be reimbursed for theexpenses of the member incurred in the performance of duties for the Board.
 
 #### (c) Powers and duties of Board
 
@@ -40,7 +40,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 &emsp;(5) to accept and receive voluntary contributions, gifts, and market promotion or similar funds;
 
-&emsp;(6) to invest, pending disbursement under a plan or project, funds collected through assessments authorized under subsection (f) of this section, only in—
+&emsp;(6) to invest, pending disbursement under a plan or project, funds collected through assessments authorized under subsection (f), only in—
 
 &emsp;&emsp;(A) obligations of the United States or an agency of the United States;
 
@@ -108,7 +108,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C) and subsection (c)(5) of this section, the order shall provide that the assessments collected shall be used by the Board—
+&emsp;&emsp;Subject to subparagraphs (B) and (C) and subsection (c)(5), the order shall provide that the assessments collected shall be used by the Board—
 
 &emsp;&emsp;&emsp;(i) to pay expenses incurred in implementing and administering the order, with provision for a reasonable reserve; and
 
@@ -116,7 +116,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (B) Expenditures based on source of assessments
 
-&emsp;&emsp;In implementing plans and projects of promotion, research, consumer information, and industry information, the Board shall expend funds on—
+&emsp;&emsp;In implementing plans and projects of promotion, research, consumer information,and industry information, the Board shall expend funds on—
 
 &emsp;&emsp;&emsp;(i) plans and projects for popcorn marketed in the United States or Canada in proportion to the amount of assessments collected on domestically marketed popcorn; and
 

@@ -10,7 +10,7 @@ The Classification Act of 1949, referred to in text, is act Oct. 28, 1949, ch. 7
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 substituted “Archivist” for “Administrator”.
+<b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator".
 
 #### Effective Date of 1984 Amendment
 

@@ -2,7 +2,7 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) “agency” means—
+&emsp;(1) "agency" means—
 
 &emsp;&emsp;(A) an Executive agency;
 
@@ -12,7 +12,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(D) the Botanic Garden;
 
-&emsp;&emsp;(E) the Government Printing Office;
+&emsp;&emsp;(E) the Government Publishing Office;
 
 &emsp;&emsp;(F) the government of the District of Columbia; and
 
@@ -24,15 +24,15 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(ii) the Central Bank for Cooperatives;
 
-&emsp;(2) “employee” means—
+&emsp;(2) "employee" means—
 
 &emsp;&emsp;(A) an employee as defined by section 2105; and
 
 &emsp;&emsp;(B) an individual employed by the government of the District of Columbia; and
 
-&emsp;(3) “Government” means the Government of the United States and the government of the District of Columbia.
+&emsp;(3) "Government" means the Government of the United States and the government of the District of Columbia.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, §503(a), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–690, title VII, §7106(a), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–474, §5(f), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–89, §3(b)(1)(C), Sept. 30, 1993, 107 Stat. 981.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, §503(a), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–690, title VII, §7106(a), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–474, §5(f), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–89, §3(b)(1)(C), Sept. 30, 1993, 107 Stat. 981; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 Historical and Revision Notes
 
@@ -50,9 +50,9 @@ Sept. 1, 1954, ch. 1208, §303, 68 Stat. 1113.
 
 Aug. 18, 1959, Pub. L. 86–168, §202(d), 73 Stat. 389.
 
-In paragraph (1), the term “Executive agency” is coextensive with and substituted for “executive department or independent agency in the executive branch of the Government including a Government-owned or controlled corporation” in view of the definition of “Executive agency” in section 105. Application to the General Accounting Office (included in the term “Executive agency”) is based on former section 933a.
+In paragraph (1), the term "Executive agency" is coextensive with and substituted for "executive department or independent agency in the executive branch of the Government including a Government-owned or controlled corporation" in view of the definition of "Executive agency" in section 105. Application to the General Accounting Office (included in the term "Executive agency") is based on former section 933a.
 
-Paragraph (2) is supplied because the definition of “employee” in section 2105 does not encompass individuals employed by the government of the District of Columbia.
+Paragraph (2) is supplied because the definition of "employee" in section 2105 does not encompass individuals employed by the government of the District of Columbia.
 
 Paragraph (3) is supplied for clarity and convenience.
 
@@ -60,17 +60,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1993</b>—Par. (2)(A). Pub. L. 103–89 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee as defined by section 2105 of this title, but does not include an employee covered by the performance management and recognition system established under chapter 54 of this title; and”.
+<b>1993</b>—Par. (2)(A). Pub. L. 103–89 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "an employee as defined by section 2105 of this title, but does not include an employee covered by the performance management and recognition system established under chapter 54 of this title; and".
 
-<b>1990</b>—Par. (1). Pub. L. 101–474 redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
+<b>1990</b>—Par. (1). Pub. L. 101–474 redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of "agency".
 
 <b>1988</b>—Par. (1)(H). Pub. L. 100–690 added subpar. (H).
 
-<b>1984</b>—Par. (2)(A). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Par. (2)(A). Pub. L. 98–615 substituted "the performance management and recognition system established under chapter 54" for "the merit pay system established under section 5402".
 
-<b>1981</b>—Pub. L. 97–35 substituted “subchapter” for “chapter” in provision preceding par. (1).
+<b>1981</b>—Pub. L. 97–35 substituted "subchapter" for "chapter" in provision preceding par. (1).
 
 <b>1978</b>—Par. (2)(A). Pub. L. 95–454 inserted reference to an employee covered by merit pay system established under section 5402 of this title.
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in par. (1)(E) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1993 Amendment
 
@@ -82,7 +86,7 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XVII, §1703(c), Aug. 13, 1981, 95 Stat. 756, provided that: “The amendments made by this section \[enacting subchapter II of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981.”
+Pub. L. 97–35, title XVII, §1703(c), Aug. 13, 1981, 95 Stat. 756, provided that: "The amendments made by this section \[enacting subchapter II of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981."
 
 #### Effective Date of 1978 Amendment
 

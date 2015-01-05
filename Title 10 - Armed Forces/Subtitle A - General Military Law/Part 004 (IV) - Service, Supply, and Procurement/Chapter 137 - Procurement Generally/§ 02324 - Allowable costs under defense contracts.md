@@ -62,19 +62,23 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(K) Costs incurred in making any payment (commonly known as a "golden parachute payment") which is—
 
-&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to anemployee upon termination of employment; and
+&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to an employee upon termination of employment; and
 
 &emsp;&emsp;(ii) is paid to the employee contingent upon, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
 
 &emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
-&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providingsimilar services in the United States, as determined under the Federal Acquisition Regulation.
 
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
 
 &emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
 
-&emsp;(P) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 1127 of title 41, except that the Secretary of Defense may establish one or more narrowly targeted exceptions for scientists and engineers upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
+&emsp;(P) <sup>1</sup> Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
+
+&emsp;(P) <sup>1</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+
+&emsp;(Q) Costs incurred by a contractor in connection with a congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in subsection (k)(2).
 
 (2)(A) The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
 
@@ -198,7 +202,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 &emsp;(E) A disposition of the proceeding by consent or compromise if such action could have resulted in a disposition described in subparagraph (A), (B), (C), or (D).
 
-(3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromisepursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
+(3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
 
 (4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the head of the agency or Secretary of the military department concerned that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the agency head or Secretary determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the agency or military department.
 
@@ -248,17 +252,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term "fiscal year" means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L.113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189.)
-
-#### Amendment of Subsection (e)(1)(P)
-
-<i>Pub. L. 113–67, div. A, title VII, §702(a)(2), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (e)(1)(P) of this section is amended to read as follows:</i>
-
-&emsp;<i>"(P) Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities."</i>
-
-<i>Pub. L. 113–66, div. A, title VIII, §811(a), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (e)(1)(P) of this section is amended to read as follows:</i>
-
-&emsp;<i>"(P) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities."</i>
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L.111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460.)
 
 #### Historical and Revision Notes
 
@@ -278,7 +272,11 @@ Another section 2324 of this title was contained in chapter 138 and was renumber
 
 #### Amendments
 
-<b>2013</b>—Subsec. (k)(1). Pub. L. 112–239, §827(g)(1), substituted "commenced by the United States, by a State, or by a contractor employee submitting a complaint under section 2409 of this title" for "commenced by the United States or a State".
+<b>2014</b>—Subsec. (e)(1)(Q). Pub. L. 113–291 added subpar. (Q).
+
+<b>2013</b>—Subsec. (e)(1)(P). Pub. L. 113–66 and Pub. L. 113–67 amended subpar. (P) generally. Prior to amendment, subpar. (P) read as follows: "Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 1127 of title 41, except that the Secretary of Defense may establish one or more narrowly targeted exceptions for scientists and engineers upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities." See Effective Date of 2013 Amendment notes below.
+
+Subsec. (k)(1). Pub. L. 112–239, §827(g)(1), substituted "commenced by the United States, by a State, or by a contractor employee submitting a complaint under section 2409 of this title" for "commenced by the United States or a State".
 
 Subsec. (k)(2)(C). Pub. L. 112–239, §827(g)(2), substituted "the imposition of a monetary penalty or an order to take corrective action under section 2409 of this title" for "the imposition of a monetary penalty".
 
@@ -556,7 +554,7 @@ Pub. L. 99–145, title IX, §911(c), Nov. 8, 1985, 99 Stat. 685, provided that:
 
 #### Regulations
 
-Pub. L. 103–355, title II, §2101(e), Oct. 13, 1994, 108 Stat. 3309, provided that: "The regulations of the Secretary of Defense implementing section 2324 of title 10, United States Code, shall remain in effect until the Federal Acquisition Regulation is revised to implement the amendments made by this section \[amending this section\]."
+Pub. L. 103–355, title II, §2101(e), Oct. 13, 1994, 108 Stat. 3309, provided that: "The regulations of the Secretary of Defense implementing section 2324 of title 10, UnitedStates Code, shall remain in effect until the Federal Acquisition Regulation is revised to implement the amendments made by this section \[amending this section\]."
 
 Pub. L. 100–700, §8(d), Nov. 19, 1988, 102 Stat. 4638, provided that: "The regulations necessary for the implementation of section 306(e) of the Federal Property and Administrative Services Act of 1949 \[now 41 U.S.C. 4304\] (as added by subsection (a)) and section 2324(k)(5) of title 10, United States Code (as added by subsection (b))—
 
@@ -584,7 +582,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Report and Regulations on Excessive Pass-Through Charges
 
-Pub. L. 109–364, div. A, title VIII, §852, Oct. 17, 2006, 120 Stat. 2340, provided that:
+Pub. L. 109–364, div. A, title VIII, §852, Oct. 17, 2006, 120 Stat. 2340, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(3)(B), Dec. 19, 2014, 128 Stat. 3506, provided that:
 
 "(a)
 
@@ -620,7 +618,7 @@ Scope of regulations.—The regulations prescribed under this subsection—
 
 &emsp;&emsp;&emsp;"(i) awarded on the basis of adequate price competition; or
 
-&emsp;&emsp;&emsp;"(ii) for the acquisition of a commercial item, as defined in section 4(12) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)) \[see 41 U.S.C. 103\]; and
+&emsp;&emsp;&emsp;"(ii) for the acquisition of a commercial item, as defined in section 103 of title 41, United States Code; and
 
 &emsp;&emsp;"(B) may include such additional exceptions as the Secretary determines to be necessary in the interest of the national defense.
 
@@ -733,4 +731,6 @@ Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as
 #### Burden of Proof in Government Contract Dispute Resolution
 
 Pub. L. 99–145, title IX, §933, Nov. 8, 1985, 99 Stat. 700, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or any other Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
+
+<i><sup>1</sup></i><i> So in original. Two subpars. (P) have been enacted.</i>
 

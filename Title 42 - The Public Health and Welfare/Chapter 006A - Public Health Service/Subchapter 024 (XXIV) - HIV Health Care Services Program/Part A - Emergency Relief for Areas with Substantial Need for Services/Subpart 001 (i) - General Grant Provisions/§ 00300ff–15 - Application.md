@@ -116,7 +116,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (3) Applicability of limitation on amount of charge
 
-&emsp;The Secretary may not make a grant under section 300ff–11 of this title to an eligible area unless the eligible area agrees that the limitations established in subparagraphs (C), (D) and\(E) of paragraph (1) regarding the imposition of charges for services applies to the annual aggregate of charges imposed for such services, without regard to whether they are characterized as enrollment fees, premiums, deductibles, cost sharing, copayments, coinsurance, or other charges.
+&emsp;The Secretary may not make a grant under section 300ff–11 of this title to an eligible area unless the eligible area agrees that the limitations established in subparagraphs (C), (D) and (E) of paragraph (1) regarding the imposition of charges for services applies to the annual aggregate of charges imposed for such services, without regard to whether they are characterized as enrollment fees, premiums, deductibles, cost sharing, copayments, coinsurance, or other charges.
 
 #### (4) Waiver regarding secondary agreements
 

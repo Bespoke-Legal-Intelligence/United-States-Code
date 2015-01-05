@@ -16,7 +16,7 @@ Covered Individuals.—The care and services provided under subsection (a) shall
 
 (c)
 
-Authorities of State Protection and Advocacy Systems.—Nothing in subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 shall be construed as preventing a State protection and advocacy system (as defined in section 1710C(g) of this title) from exercising the authorities described in such subtitle with respect to individuals provided rehabilitative treatment or services under section 1710C of this title in a non-Department facility.
+Authorities of State Protection and Advocacy Systems.—Nothing in subtitle C of theDevelopmental Disabilities Assistance and Bill of Rights Act of 2000 shall be construed as preventing a State protection and advocacy system (as defined in section 1710C(g) of this title) from exercising the authorities described in such subtitle with respect to individuals provided rehabilitative treatment or services under section 1710C of this title in a non-Department facility.
 
 (d)
 

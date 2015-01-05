@@ -10,6 +10,7 @@
 | [1856b.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20United%20States%20Property/%C2%A7%2001856b%20-%20Emergency%20assistance.md) | Emergency assistance. |
 | [1856c.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20United%20States%20Property/%C2%A7%2001856c%20-%20Service%20in%20line%20of%20duty.md) | Service in line of duty. |
 | [1856d.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20United%20States%20Property/%C2%A7%2001856d%20-%20Funds.md) | Funds. |
+| [1856e.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20United%20States%20Property/%C2%A7%2001856e%20-%20Reimbursement%20of%20fire%20funds.md) | Reimbursement of fire funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

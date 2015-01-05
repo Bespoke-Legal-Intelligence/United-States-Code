@@ -38,7 +38,7 @@ The notice requirements of this chapter and sections 3410 and 3412 of this title
 
 (2) When financial records are sought pursuant to this subsection, the Government authority shall submit to the financial institution the certificate required by section 3403(b) of this title. For access pursuant to paragraph (1)(B), no further certification shall be required for subsequent access by the certifying Government authority during the term of the loan, loan guaranty, or loan insurance agreement.
 
-(3) After the effective date of this chapter, whenever a customer applies for participation in a Government loan, loan guaranty, or loan insurance program, the Government authority administering such program shall give the customer written notice of the authority's access rights under this subsection. No further notification shall be required for subsequent access bythat authority during the term of the loan, loan guaranty, or loan insurance agreement.
+(3) After the effective date of this chapter, whenever a customer applies for participation in a Government loan, loan guaranty, or loan insurance program, the Government authority administering such program shall give the customer written notice of the authority's access rights under this subsection. No further notification shall be required for subsequent access by that authority during the term of the loan, loan guaranty, or loan insurance agreement.
 
 (4) Financial records obtained pursuant to this subsection may be used only for the purpose for which they were originally obtained, and may be transferred to another agency or department only when the transfer is to facilitate a lawful proceeding, investigation, examination, or inspection directed at a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer), or at a legal entity which is not a customer, except that—
 
@@ -60,7 +60,7 @@ This chapter shall not apply when financial records are sought by the Government
 
 #### (k) Disclosure necessary for proper administration of programs of certain Government authorities
 
-(1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board, where the disclosure of such information is necessary to, and such information is used solely for the purpose of, the proper administration of section 1441 of title 26, title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\].
+(1) Nothing in this chapter shall apply to the disclosure by the financial institution of thename and address of any customer to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board, where the disclosure of such information is necessary to, and such information is used solely for the purpose of, the proper administration of section 1441 of title 26, title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\].
 
 (2) Nothing in this chapter shall apply to the disclosure by the financial institution of information contained in the financial records of any customer to any Government authority that certifies, disburses, or collects payments, where the disclosure of such information is necessary to, and such information is used solely for the purpose of—
 
@@ -78,7 +78,7 @@ Nothing in this chapter shall apply when any financial institution or supervisor
 
 &emsp;(2) any provision of subchapter II of chapter 53 of title 31 or of section 1956 or 1957 of title 18.
 
-> No supervisory agency which transfers any such record under this subsection shall be deemed tohave waived any privilege applicable to that record under law.
+> No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.
 
 #### (m) Disclosure to, or examination by, employees or agents of Board of Governors of Federal Reserve System or Federal Reserve Bank
 
@@ -106,7 +106,7 @@ Nothing in this chapter shall apply to the disclosure of any financial record or
 
 Nothing in this chapter shall apply to the examination by or disclosure to the Bureau of Consumer Financial Protection of financial records or information in the exercise of its authority with respect to a financial institution.
 
-(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, §4(a), title XIV, §14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, §1216(a), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title X, §1099(3), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C),Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, §4(a), title XIV, §14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, §1216(a), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title X, §1099(3), July 21, 2010, 124 Stat. 2105.)
 
 #### References in Text
 

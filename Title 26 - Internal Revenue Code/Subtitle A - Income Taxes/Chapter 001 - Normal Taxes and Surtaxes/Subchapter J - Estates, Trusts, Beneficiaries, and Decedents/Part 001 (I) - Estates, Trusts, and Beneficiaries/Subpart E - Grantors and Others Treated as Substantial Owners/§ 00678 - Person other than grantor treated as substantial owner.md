@@ -24,7 +24,7 @@ Subsection (a) shall not apply with respect to a power which has been renounced 
 
 &emsp;&emsp;<b>For provision under which beneficiary of trust is treated as owner of the portion of the trust which consists of stock in an S corporation, see section 1361(d).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 231; Pub. L. 94–455, title X, §1013(b), Oct. 4, 1976, 90 Stat. 1615;Pub. L. 97–448, title I, §102(i)(2), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 106–554, §1(a)(7) \[title III, §319(8)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 231; Pub. L. 94–455, title X, §1013(b), Oct. 4, 1976, 90 Stat. 1615; Pub. L. 97–448, title I, §102(i)(2), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 106–554, §1(a)(7) \[title III, §319(8)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### Amendments
 

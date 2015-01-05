@@ -30,7 +30,7 @@ Costs of Preparation for Sale or Exchange.—In this section, the term "full cos
 
 &emsp;(4) Removal and disposal of hazardous wastes.
 
-&emsp;(5) Environmental surveys to determine the presence of regulated materials containingpolychlorinated biphenyl (PCB) and, if such materials are found, the removal and disposal of such materials.
+&emsp;(5) Environmental surveys to determine the presence of regulated materials containing polychlorinated biphenyl (PCB) and, if such materials are found, the removal and disposal of such materials.
 
 &emsp;(6) Other costs related to such preparation.
 
@@ -40,25 +40,23 @@ Obsolete Service Craft.—For purposes of this section, an obsolete service craf
 
 (f)
 
-Inapplicability of Advertising Requirement.—Section 3709 <sup>1</sup> of the Revised Statutes (41 U.S.C. 5) does not apply to sales of service craft and boats described in subsection (a).
+Inapplicability of Advertising Requirement.—Section 6101 of title 41 does not apply to sales of service craft and boats described in subsection (a).
 
 (g)
 
 Regulations.—The Secretary of the Navy shall prescribe regulations for the purposes of this section.
 
-(Added Pub. L. 108–375, div. A, title X, §1012(a)(1), Oct. 28, 2004, 118 Stat. 2039.)
-
-#### References in Text
-
-Section 3709 of the Revised Statutes, referred to in subsec. (f), was classified to section 5 of former Title 41, Public Contracts, and was repealed and restated as section 6101 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+(Added Pub. L. 108–375, div. A, title X, §1012(a)(1), Oct. 28, 2004, 118 Stat. 2039; amended Pub. L. 113–291, div. A, title X, §1071(a)(12), Dec. 19, 2014, 128 Stat. 3505.)
 
 #### Prior Provisions
 
 A prior section 7312, added Pub. L. 100–180, div. A, title XI, §1102(a)(1), Dec. 4, 1987, 101 Stat. 1145; amended Pub. L. 100–456, div. A, title XII, §1223, Sept. 29, 1988, 102 Stat. 2054; Pub. L. 101–189, div. A, title XVI, §1612, Nov. 29, 1989, 103 Stat. 1601, related to progress payments under certain contracts for repair or maintenance of naval vessels, prior to repeal by Pub. L. 103–355, title II, §2001(j)(1), title X, §10001, Oct. 13, 1994, 108 Stat. 3303, 3404, effective Oct. 13, 1994, except as otherwise provided. See section 2307(g) of this title.
 
+#### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–291 substituted "Section 6101 of title 41" for "Section 3709 of the Revised Statutes (41 U.S.C. 5)".
+
 #### Effective Date
 
 Pub. L. 108–375, div. A, title X, §1012(b), Oct. 28, 2004, 118 Stat. 2040, provided that: "Section 7312 of title 10, United States Code, as added by subsection (a), shall apply with respect to amounts received on or after the date of the enactment of this Act \[Oct. 28, 2004\] and to amounts received before the date of the enactment of this Act and not obligated as of that date."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

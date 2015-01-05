@@ -42,7 +42,7 @@ A State or unit of local government may, in using a grant under this part for pu
 
 Notwithstanding any other provision of this Act, no funds provided under this part may be used, directly or indirectly, to provide any of the following matters:
 
-&emsp;(1) Any security enhancements or any equipment to any nongovernmental entity that isnot engaged in criminal justice or public safety.
+&emsp;(1) Any security enhancements or any equipment to any nongovernmental entity that is not engaged in criminal justice or public safety.
 
 &emsp;(2) Unless the Attorney General certifies that extraordinary and exigent circumstances exist that make the use of such funds to provide such matters essential to the maintenance of public safety and good order—
 
@@ -72,7 +72,7 @@ Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indi
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as theOmnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Prior Provisions
 

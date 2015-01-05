@@ -4,7 +4,7 @@ The duties and powers of the Department of the Interior include the preservation
 
 The Secretary of the Interior shall from time to time collect and publish useful information as to the propagation, uses, and preservation of such birds.
 
-And the Secretary of the Interior shall make and publish all needful rules and regulations forcarrying out the purposes of this Act, and shall expend for said purposes such sums as Congress may appropriate therefor.
+And the Secretary of the Interior shall make and publish all needful rules and regulations for carrying out the purposes of this Act, and shall expend for said purposes such sums as Congress may appropriate therefor.
 
 (May 25, 1900, ch. 553, §1, 31 Stat. 187; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
@@ -50,7 +50,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (b) In coordination with affected Federal agencies, the Service shall develop a schedule for completion of the MOUs within 180 days of the date of this order. The schedule shall give priority to completing the MOUs with agencies having the most substantive impacts on migratory birds.
 
-(c) Each MOU shall establish protocols for implementation of the MOU and for reporting accomplishments. These protocols may be incorporated into existing actions; however, the MOU shall recognize that the agency may not be able to implement some elements of the MOU until such time as the agency has successfully included them in each agency's formal planning processes (such as revision of agency land management plans, land use compatibility guidelines, integrated resource management plans, and fishery management plans), including public participation and NEPA analysis, as appropriate. This order and the MOUs to be developed by the agencies are intended to be implemented when new actions or renewal of contracts, permits, delegations, or other third party agreements are initiated as well as during the initiation of new, or revisions to, land management plans.
+(c) Each MOU shall establish protocols for implementation of the MOU and for reporting accomplishments. These protocols may be incorporated into existing actions; however, the MOU shall recognize that the agency may not be able to implement some elements of the MOU until such time as the agency has successfully included them in each agency's formal planning processes (such as revision of agency land management plans, land use compatibility guidelines, integrated resource management plans, and fishery management plans), including public participation and NEPA analysis, as appropriate. This order and the MOUs to be developed by the agencies are intended to be implemented when new actions or renewal of contracts, permits, delegations, or other third party agreements are initiated as well asduring the initiation of new, or revisions to, land management plans.
 
 (d) Each MOU shall include an elevation process to resolve any dispute between the signatory agencies regarding a particular practice or activity.
 

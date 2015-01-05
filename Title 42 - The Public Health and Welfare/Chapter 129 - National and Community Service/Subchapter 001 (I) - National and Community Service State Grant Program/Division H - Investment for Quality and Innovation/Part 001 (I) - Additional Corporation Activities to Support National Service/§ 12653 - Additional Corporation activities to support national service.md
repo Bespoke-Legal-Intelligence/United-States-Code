@@ -104,7 +104,7 @@ A prior section 12653, Pub. L. 101–610, title I, §195, as added Pub. L. 102�
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively, and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
+<b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively,and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
 
 Subsec. (a). Pub. L. 111–13, §1802(a)(1), substituted "subsection (g)" for "subsection (r) of this section".
 

@@ -6,5 +6,5 @@ If a Clean Coal Power Initiative project selected after March 11, 2009, for nego
 
 #### Codification
 
-Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act,2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 

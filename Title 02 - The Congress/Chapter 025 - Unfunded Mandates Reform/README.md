@@ -45,7 +45,7 @@
 | [1552\.](Subchapter%20003%20%28III%29%20-%20Review%20of%20Federal%20Mandates/%C2%A7%2001552%20-%20Report%20on%20Federal%20mandates%20by%20Advisory%20Commission%20on%20Intergovernmental%20Relations.md) | Report on Federal mandates by Advisory Commission on Intergovernmental Relations. |
 | [1553\.](Subchapter%20003%20%28III%29%20-%20Review%20of%20Federal%20Mandates/%C2%A7%2001553%20-%20Special%20authorities%20of%20Advisory%20Commission.md) | Special authorities of Advisory Commission. |
 | [1554\.](Subchapter%20003%20%28III%29%20-%20Review%20of%20Federal%20Mandates/%C2%A7%2001554%20-%20Annual%20report%20to%20Congress%20regarding%20Federal%20court%20rulings.md) | Annual report to Congress regarding Federal court rulings. |
-| [1555\.](Subchapter%20003%20%28III%29%20-%20Review%20of%20Federal%20Mandates/%C2%A7%2001555%20-%20%E2%80%9CFederal%20mandate%E2%80%9D%20defined.md) | “Federal mandate” defined. |
+| [1555\.](Subchapter%20003%20%28III%29%20-%20Review%20of%20Federal%20Mandates/%C2%A7%2001555%20-%20Federal%20mandate%20defined.md) | "Federal mandate" defined. |
 | [1556\.](Subchapter%20003%20%28III%29%20-%20Review%20of%20Federal%20Mandates/%C2%A7%2001556%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

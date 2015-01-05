@@ -14,7 +14,7 @@
 
 #### (B) Time and scope
 
-&emsp;&emsp;The election provided by paragraph (1) for the taxable year may be made at any timebefore the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for the taxable year. Such an election for the taxable year shall apply to all expenditures described in paragraph (1) paid or incurred by the taxpayer during the taxable year or during any subsequent taxable year. Such an election may not be revoked unless the Secretary consents to such revocation.
+&emsp;&emsp;The election provided by paragraph (1) for the taxable year may be made at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for the taxable year. Such an election for the taxable year shall apply to all expenditures described in paragraph (1) paid or incurred by the taxpayer during the taxable year or during any subsequent taxable year. Such an election may not be revoked unless the Secretary consents to such revocation.
 
 #### (C) Deficiencies
 
@@ -200,7 +200,7 @@ Amendment by section 1901(a)(89), (b)(3)(K), (21)(C)–(E) of Pub. L. 94–455 e
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec. 31, 1969, and for purposes of this section, elections under section 615(e) of this title, effective with respect to exploration expenditures paid or incurred before Jan. 1, 1970, to be treated as an election under subsec. (a) of this section with respect to exploration expenditures paid or incurred after Dec. 31, 1969, see section 504(d) of Pub. L. 91–172, set out as a note under section 243 of this title.
+Amendment by Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec. 31, 1969, and for purposes of this section, elections under section 615(e) of this title, effective with respectto exploration expenditures paid or incurred before Jan. 1, 1970, to be treated as an election under subsec. (a) of this section with respect to exploration expenditures paid or incurred after Dec. 31, 1969, see section 504(d) of Pub. L. 91–172, set out as a note under section 243 of this title.
 
 #### Effective Date
 

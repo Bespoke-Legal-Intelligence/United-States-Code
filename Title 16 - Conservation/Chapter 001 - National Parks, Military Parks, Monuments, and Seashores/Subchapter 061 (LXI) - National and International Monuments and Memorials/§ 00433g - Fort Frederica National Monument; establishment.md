@@ -22,7 +22,7 @@ Pub. L. 108–417, Nov. 30, 2004, 118 Stat. 2339, provided that:
 
 "(a)
 
-In General.—Notwithstanding section 5(b) of Public Law 90–401 (16 U.S.C. 460l–22(b)), the Secretary of the Interior is authorized to convey to Christ Church of St. Simons Island, Georgia, the approximately 6.0 acres of land within the boundary of Fort Frederica National Monument adjacent to Christ Church and depicted as 'NPS Lands for Exchange' on the map entitled 'Fort Frederica National Monument 2003 Boundary Revision' numbered 369/80016, and dated April 2003, in exchange for approximately 8.7 acres of land to be acquired by Christ Church, which is depicted as 'Private Lands for Addition' on the same map.
+In General.—Notwithstanding section 5(b) of Public Law 90–401 (\[former\] 16 U.S.C. 460l–22(b)) \[see 54 U.S.C. 102901(b)\], the Secretary of the Interior is authorized to convey to Christ Church of St. Simons Island, Georgia, the approximately 6.0 acres of land within the boundary of Fort Frederica National Monument adjacent to Christ Church and depicted as 'NPS Lands for Exchange' on the map entitled 'Fort Frederica National Monument 2003 Boundary Revision' numbered 369/80016, and dated April 2003, in exchange for approximately 8.7 acres of land to be acquired by Christ Church, which is depicted as 'Private Lands for Addition' on the same map.
 
 "(b)
 

@@ -10,5 +10,5 @@ Section was formerly classified to section 125 of this title prior to editorial 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House” and “applicable accounts of the House of Representatives” for “contingent fund of the House”.
+<b>1996</b>—Pub. L. 104–186 substituted "Chief Administrative Officer of the House of Representatives" for "Clerk of the House" and "applicable accounts of the House of Representatives" for "contingent fund of the House".
 

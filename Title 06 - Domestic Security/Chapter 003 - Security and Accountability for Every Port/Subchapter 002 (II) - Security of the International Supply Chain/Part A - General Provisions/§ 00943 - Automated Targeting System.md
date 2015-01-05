@@ -30,7 +30,7 @@ The Secretary, acting through the Commissioner, shall—
 
 #### (d) Regulations
 
-The Secretary shall promulgate regulations to carry out this section. In promulgating suchregulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 (19 U.S.C. 2071 note), including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
+The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 (19 U.S.C. 2071 note), including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
 
 #### (e) System improvements
 

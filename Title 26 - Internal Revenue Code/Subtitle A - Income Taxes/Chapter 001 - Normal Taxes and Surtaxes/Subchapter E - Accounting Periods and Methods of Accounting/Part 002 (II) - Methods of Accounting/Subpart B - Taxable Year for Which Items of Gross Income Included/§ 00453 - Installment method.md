@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (c) Installment method defined
 
-For purposes of this section, the term "installment method" means a method under which the income recognized for any taxable year from a disposition is that proportion of the paymentsreceived in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
+For purposes of this section, the term "installment method" means a method under which the income recognized for any taxable year from a disposition is that proportion of the payments received in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
 
 #### (d) Election out
 
@@ -122,7 +122,7 @@ For purposes of this section, the term "installment method" means a method under
 
 #### (8) Extension of statute of limitations
 
-&emsp;The period for assessing a deficiency with respect to a first disposition (to the extent suchdeficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such assessment.
+&emsp;The period for assessing a deficiency with respect to a first disposition (to the extent such deficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such assessment.
 
 #### (f) Definitions and special rules
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, in a liquidation to which section 331 applies, the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan ofcomplete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
+&emsp;&emsp;If, in a liquidation to which section 331 applies, the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan of complete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
 
 #### (B) Obligations attributable to sale of inventory must result from bulk sale
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (D) Coordination with subsection (e)(1)(A)
 
-&emsp;&emsp;For purposes of subsection (e)(1)(A), disposition of property by the corporation shall be treated also as disposition of such property by the shareholder.
+&emsp;&emsp;For purposes of subsection (e)(1)(A), disposition of property by the corporation shallbe treated also as disposition of such property by the shareholder.
 
 #### (E) Sales by liquidating subsidiaries
 
@@ -330,7 +330,7 @@ For purposes of subsection (b)(2)(A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) a timeshare right to use or a timeshare ownership interest in residential real property for not more than 6 weeks per year, or a right to use specified campgrounds for recreational purposes, or
 
-&emsp;&emsp;&emsp;&emsp;(II) any residential lot, but only if the taxpayer (or any related person) is not to make any improvements with respect to such lot.
+&emsp;&emsp;&emsp;&emsp;(II) any residential lot, but only if the taxpayer (or any related person) is not tomake any improvements with respect to such lot.
 
 &emsp;&emsp;&nbsp;For purposes of subclause (I), a timeshare right to use (or timeshare ownership interest in) property held by the spouse, children, grandchildren, or parents of an individual shall be treated as held by such individual.
 
@@ -372,7 +372,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### Prior Provisions
 
-A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L.94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
+A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
 
 #### Amendments
 
@@ -456,7 +456,7 @@ Subsec. (i). Pub. L. 98–369, §112(a), amended subsec. (i) generally, substitu
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §897(b), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendment made bythis section \[amending this section\] shall apply to sales occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §897(b), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendment made by this section \[amending this section\] shall apply to sales occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date and Construction of 2000 Amendment
 
@@ -558,7 +558,7 @@ Coordination with tax reform act of 1986.—The amendments made by this section 
 
 Amendment by section 631(e)(8) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Amendment by section 642(a)(1)(D), (3), (b) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxableyears ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
+Amendment by section 642(a)(1)(D), (3), (b) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
 
 Pub. L. 99–514, title VIII, §812(c), Oct. 22, 1986, 100 Stat. 2372, as amended by Pub. L. 100–647, title I, §1008(g)(3)–(6), Nov. 10, 1988, 102 Stat. 3443, provided that:
 
@@ -584,31 +584,14 @@ Change in method of accounting.—In the case of any taxpayer who made sales und
 
 &nbsp;
 
-<b>The applicable</b>
+| <b> "In the case of the:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| 1st taxable year | 15&nbsp;&nbsp; |
+| 2nd taxable year | 25&nbsp;&nbsp; |
+| 3rd taxable year | 30&nbsp;&nbsp; |
+| 4th taxable year | 30\. |
 
-<b> "In the case of the:</b>
-
-<b>percentage is:</b>
-
-&emsp;&emsp;1st taxable year
-
-15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2nd taxable year
-
-25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;3rd taxable year
-
-30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;4th taxable year
-
-30\.&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> If the taxpayer's last taxable year beginning before January 1, 1987, was the taxpayer's 1st taxable year in which sales were made under a revolving credit plan, all adjustments under section 481 of such Code shall be taken into account in the taxpayer's 1st taxable year beginning after December 31, 1986.
+> If the taxpayer's last taxable year beginning before January 1, 1987, was the taxpayer's 1st taxable year inwhich sales were made under a revolving credit plan, all adjustments under section 481 of such Code shall be taken into account in the taxpayer's 1st taxable year beginning after December 31, 1986.
 
 "(4)
 
@@ -682,7 +665,7 @@ Exception.—The amendments made by this section shall not apply with respect to
 
 Special rule for certain dispositions before october 1, 1984.—The amendments made by this section shall not apply to any disposition before October 1, 1984, of all or substantially all of the personal property of a cable television business pursuant to a written offer delivered by the seller on June 20, 1984, but only if the last payment under the installment contract is due no later than October 1, 1989."
 
-Amendment by section 421(b)(6)(B), (C) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election tohave amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
+Amendment by section 421(b)(6)(B), (C) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -714,7 +697,7 @@ For section 453a.—Section 453A of the Internal Revenue Code of 1986 (as amende
 
 "(5)
 
-For section 453b(f).—Section 453B(f) of the Internal Revenue Code of 1986 (as amended by section 2) shall apply to installment obligations becoming unenforceable after the date of the enactment of this Act \[Oct. 19, 1980\].
+For section 453b(f).—Section 453B(f) of the Internal Revenue Code of 1986 (as amended by section 2)shall apply to installment obligations becoming unenforceable after the date of the enactment of this Act \[Oct. 19, 1980\].
 
 "(6)
 

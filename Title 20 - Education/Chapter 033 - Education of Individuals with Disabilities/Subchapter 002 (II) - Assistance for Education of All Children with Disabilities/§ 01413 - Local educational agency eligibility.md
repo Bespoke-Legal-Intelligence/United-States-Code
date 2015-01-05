@@ -32,7 +32,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 &emsp;&emsp;&emsp;&emsp;(I) has left the jurisdiction of the agency;
 
-&emsp;&emsp;&emsp;&emsp;(II) has reached the age at which the obligation of the agency to provide a free appropriate public education to the child has terminated; or
+&emsp;&emsp;&emsp;&emsp;(II) has reached the age at which the obligation of the agency to provide a freeappropriate public education to the child has terminated; or
 
 &emsp;&emsp;&emsp;&emsp;(III) no longer needs such program of special education; or
 
@@ -42,7 +42,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (i) Amounts in excess
 
-&emsp;&emsp;&emsp;Notwithstanding clauses (ii) and (iii) of subparagraph (A), for any fiscal year forwhich the allocation received by a local educational agency under section 1411(f) of this title exceeds the amount the local educational agency received for the previous fiscal year, the local educational agency may reduce the level of expenditures otherwise required by subparagraph (A)(iii) by not more than 50 percent of the amount of such excess.
+&emsp;&emsp;&emsp;Notwithstanding clauses (ii) and (iii) of subparagraph (A), for any fiscal year for which the allocation received by a local educational agency under section 1411(f) of this title exceeds the amount the local educational agency received for the previous fiscal year, the local educational agency may reduce the level of expenditures otherwise required by subparagraph (A)(iii) by not more than 50 percent of the amount of such excess.
 
 #### (ii) Use of amounts to carry out activities under ESEA
 
@@ -96,7 +96,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 &emsp;In carrying out this subchapter with respect to charter schools that are public schools of the local educational agency, the local educational agency—
 
-&emsp;&emsp;(A) serves children with disabilities attending those charter schools in the same manner as the local educational agency serves children with disabilities in its other schools, including providing supplementary and related services on site at the charter school to the same extent to which the local educational agency has a policy or practice of providing such services on the site to its other public schools; and
+&emsp;&emsp;(A) serves children with disabilities attending those charter schools in the same manner as the local educational agency serves children with disabilities in its other schools, including providing supplementary and related services on site at the charter school to the same extent to which the local educational agency has a policy or practiceof providing such services on the site to its other public schools; and
 
 &emsp;&emsp;(B) provides funds under this subchapter to those charter schools—
 
@@ -230,7 +230,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (1) In general
 
-&emsp;A State educational agency shall use the payments that would otherwise have beenavailable to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local educational agency, or for whom that State agency is responsible, if the State educational agency determines that the local educational agency or State agency, as the case may be—
+&emsp;A State educational agency shall use the payments that would otherwise have been available to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local educational agency, or for whom that State agency is responsible, if the State educational agency determines that the local educational agency or State agency, as the case may be—
 
 &emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such local educational agency or State agency under this section;
 
@@ -276,7 +276,7 @@ The State may require that a local educational agency include in the records of 
 
 #### (5) Limitation
 
-&emsp;Notwithstanding paragraph (1), a State educational agency may not reduce the level of expenditures described in paragraph (1) if any local educational agency in the State would, as a result of such reduction, receive less than 100 percent of the amount necessary to ensure that all children with disabilities served by the local educational agency receive a free appropriate public education from the combination of Federal funds received under this chapter and State funds received from the State educational agency.
+&emsp;Notwithstanding paragraph (1), a State educational agency may not reduce the level of expenditures described in paragraph (1) if anylocal educational agency in the State would, as a result of such reduction, receive less than 100 percent of the amount necessary to ensure that all children with disabilities served by the local educational agency receive a free appropriate public education from the combination of Federal funds received under this chapter and State funds received from the State educational agency.
 
 (Pub. L. 91–230, title VI, §613, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2694.)
 

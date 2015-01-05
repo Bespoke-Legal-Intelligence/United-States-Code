@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Subject to the limitations in section 1066c of this title, the Secretary is authorized to enter into insurance agreements to provide financialinsurance to guarantee the full payment of principal and interest on qualified bonds upon the conditions set forth in subsections (b), (c) and (d) of this section.
+Subject to the limitations in section 1066c of this title, the Secretary is authorized to enter into insurance agreements to provide financial insurance to guarantee the full payment of principal and interest on qualified bonds upon the conditions set forth in subsections (b), (c) and (d) of this section.
 
 #### (b) Responsibilities of designated bonding authority
 

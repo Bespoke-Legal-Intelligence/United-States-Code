@@ -14,7 +14,7 @@ The Farm Credit Administration—
 
 &emsp;(6) may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding) as are necessary to execute such functions. Expenditures by the administration shall be allowed and paid upon the presentation of itemized vouchers therefor approved by the governor of the administration.
 
-&emsp;(7) may sell at public or private sale to the highest responsible bidder, upon such terms and after such public advertisement as the Farm Credit Administration may deem in the public interest, any property, real or personal, or any interest therein, acquired by the United States on account of or as a result of any loans made from the revolving fund authorized by section 1141d of this title; may lease any such property, pending its sale, on such terms and for such period, not in excess of five years, as the Farm Credit Administration may deem in the public interest; and may incur and pay, from the said revolving fund, obligations and expenses for the operation, upkeep, maintenance, repair, disposition, insurance, and protection of any such property: <i>Provided</i>, That section 6101 of title 41 shall not be construed to apply to any purchase or service on account of such property.
+&emsp;(7) may sell at public or private sale to the highest responsible bidder, upon such terms and after such public advertisement as the Farm Credit Administration may deem in the public interest, any property, real or personal, or any interest therein, acquired by the United States on account of or as a result of any loans made from the revolving fund authorized by section 1141d of this title; may lease any such property, pending its sale, on such terms and for such period, not in excess of five years, as the Farm Credit Administration may deem in the public interest; and may incur and pay,from the said revolving fund, obligations and expenses for the operation, upkeep, maintenance, repair, disposition, insurance, and protection of any such property: <i>Provided</i>, That section 6101 of title 41 shall not be construed to apply to any purchase or service on account of such property.
 
 (June 15, 1929, ch. 24, §4, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, §37, 50 Stat. 717; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 96–592, title V, §510, Dec. 24, 1980, 94 Stat. 3451.)
 
@@ -60,7 +60,7 @@ For termination, effective May 15, 2000, of reporting provisions in par. (3) of 
 
 #### Transfer of Functions
 
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm CreditAdministration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
+Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
 
 #### Exceptions From Transfer of Functions
 

@@ -6,7 +6,7 @@ The sentence of imprisonment imposed on a person convicted of an offense under t
 
 #### (b) Circumstances
 
-For purposes of subsection (a), the circumstance described in this subsection is that the offense described in subsection (a) was committed by a person who—
+For purposes of subsection (a), the circumstance described in this subsection is that theoffense described in subsection (a) was committed by a person who—
 
 &emsp;(1) was enrolled in, or who was acting on behalf of any person or entity enrolled in, any dedicated commuter lane, alternative or accelerated inspection system, or other facilitated entry program administered or approved by the Federal Government for use in entering the United States; and
 

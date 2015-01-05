@@ -12,7 +12,7 @@
 | [566\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000566%20-%20Department%20of%20Defense%20consultation.md) | Department of Defense consultation. |
 | [567\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000567%20-%20Undefinitized%20contractual%20actions.md) | Undefinitized contractual actions. |
 | [568\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000568%20-%20Guidance%20on%20excessive%20pass-through%20charges.md) | Guidance on excessive pass-through charges. |
-| [569\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569%20-%20Report%20on%20former%20Coast%20Guard%20officials%20employed%20by%20contractors%20to%20the%20agency.md) | Report on former Coast Guard officials employed by contractors to the agency. |
+| [569\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569%20-%20Mission%20need%20statement.md) | Mission need statement. |
 | [569a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569a%20-%20Major%20acquisitions.md) | Major acquisitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,6 +49,8 @@
 A prior chapter 15 of this title, consisting of sections 561 to 576 and relating to Coast Guard discipline, was repealed by act May 5, 1950, ch. 169, §14(v), 64 Stat. 148.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–281, title II, §215(b), Dec. 18, 2014, 128 Stat. 3035, substituted "Mission need statement" for "Report on former Coast Guard officials employed by contractors to the agency" in item 569.
 
 <b>2012</b>—Pub. L. 112–213, title II, §§210(b), 211(b), Dec. 20, 2012, 126 Stat. 1551, 1552, added items 569a and 577.
 

@@ -44,7 +44,7 @@ No later than 1 year after December 19, 2002, the Secretary shall establish the 
 
 Voting members of the panel shall—
 
-&emsp;(1) receive compensation at a rate established by the Secretary, not to exceed themaximum daily rate payable under section 5376 of title 5 when actually engaged in the performance of duties for such panel; and
+&emsp;(1) receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under section 5376 of title 5 when actually engaged in the performance of duties for such panel; and
 
 &emsp;(2) be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
 

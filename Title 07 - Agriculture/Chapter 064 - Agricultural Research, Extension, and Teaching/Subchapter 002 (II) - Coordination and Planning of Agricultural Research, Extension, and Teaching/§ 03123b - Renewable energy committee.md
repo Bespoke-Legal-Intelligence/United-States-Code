@@ -2,7 +2,7 @@
 
 #### (a) Initial members
 
-Not later than 90 days after the date of enactment of this section, the executive committee ofthe Advisory Board shall establish and appoint the initial members of a permanent renewable energy committee.
+Not later than 90 days after the date of enactment of this section, the executive committee of the Advisory Board shall establish and appoint the initial members of a permanent renewable energy committee.
 
 #### (b) Duties
 

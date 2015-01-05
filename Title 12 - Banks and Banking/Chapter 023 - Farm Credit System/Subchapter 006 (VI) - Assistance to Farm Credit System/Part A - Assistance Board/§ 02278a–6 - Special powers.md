@@ -20,7 +20,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;(5) require the institution to obtain approval from the Assistance Board before setting the policy on credit standards to be used, and the policy on rates of interest to be charged on loans, by the institution, including requiring that—
 
-&emsp;&emsp;(A) the institution set interest rates at levels necessary to ensure that the cost ofmoney to the institution reflects the marginal cost to the institution of borrowing an additional amount of money at the time a new loan is made; and
+&emsp;&emsp;(A) the institution set interest rates at levels necessary to ensure that the cost of money to the institution reflects the marginal cost to the institution of borrowing an additional amount of money at the time a new loan is made; and
 
 &emsp;&emsp;(B) loans primarily secured by real estate mortgages not exceed 85 percent of the appraised agricultural value of the real estate security, or 75 percent of the then current market value of the real estate security, whichever is greater;
 

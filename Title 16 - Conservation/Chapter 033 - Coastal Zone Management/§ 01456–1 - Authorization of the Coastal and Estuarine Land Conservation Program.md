@@ -40,11 +40,11 @@ The Secretary shall allocate funds to coastal states or National Estuarine Resea
 
 &emsp;&emsp;(ii) serve to mitigate the adverse impacts caused by coastal population growth in the coastal environment.
 
-&emsp;(8) In developing guidelines under this section, the Secretary shall consult with coastalstates, other Federal agencies, and other interested stakeholders with expertise in land acquisition and conservation procedures.
+&emsp;(8) In developing guidelines under this section, the Secretary shall consult with coastal states, other Federal agencies, and other interested stakeholders with expertise in land acquisition and conservation procedures.
 
 &emsp;(9) Eligible coastal states or National Estuarine Research Reserves may allocate grants to local governments or agencies eligible for assistance under section 1455a(e) of this title.
 
-&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, and shall submit such evaluations to Congress triennially.
+&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, andshall submit such evaluations to Congress triennially.
 
 #### (d) Limitations and private property protections
 
@@ -110,7 +110,7 @@ If any property is acquired in whole or in part with funds made available throug
 
 &emsp;&emsp;(A) the title to the property will be held by the grant recipient or another appropriate public agency designated by the recipient in perpetuity;
 
-&emsp;&emsp;(B) the property will be managed in a manner that is consistent with the purposes forwhich the land entered into the program and shall not convert such property to other uses; and
+&emsp;&emsp;(B) the property will be managed in a manner that is consistent with the purposes for which the land entered into the program and shall not convert such property to other uses; and
 
 &emsp;&emsp;(C) if the property or interest in land is sold, exchanged, or divested, funds equal to the current value will be returned to the Secretary in accordance with applicable Federal law for redistribution in the grant process; and
 

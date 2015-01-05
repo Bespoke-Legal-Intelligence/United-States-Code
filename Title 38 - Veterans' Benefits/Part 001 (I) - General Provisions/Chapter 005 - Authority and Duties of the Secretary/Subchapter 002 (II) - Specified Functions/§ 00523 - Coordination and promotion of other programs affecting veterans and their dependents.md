@@ -70,7 +70,7 @@ Elements.—Each application submitted under paragraph (1) shall include the fol
 
 &emsp;&emsp;"(A) A description of the consultations, if any, with the Department of Veterans Affairs in the development of the proposal under the application.
 
-&emsp;&emsp;"(B) A plan to coordinate activities under the pilot program, to the greatest extent possible, withthe local, State, and Federal providers of services for veterans to reduce duplication of services and to enhance the effect of such services.
+&emsp;&emsp;"(B) A plan to coordinate activities under the pilot program, to the greatest extent possible, with the local, State, and Federal providers of services for veterans to reduce duplication of services and to enhance the effect of such services.
 
 "(f)
 

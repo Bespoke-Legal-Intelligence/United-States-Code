@@ -14,7 +14,7 @@ All personnel actions affecting covered employees shall be made free from any di
 
 #### (1) Civil rights
 
-&emsp;The remedy for a violation of subsection (a)(1) of this section shall be—
+&emsp;The remedy for a violation of subsection (a)(1) shall be—
 
 &emsp;&emsp;(A) such remedy as would be appropriate if awarded under section 706(g) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(g)); and
 
@@ -22,7 +22,7 @@ All personnel actions affecting covered employees shall be made free from any di
 
 #### (2) Age discrimination
 
-&emsp;The remedy for a violation of subsection (a)(2) of this section shall be—
+&emsp;The remedy for a violation of subsection (a)(2) shall be—
 
 &emsp;&emsp;(A) such remedy as would be appropriate if awarded under section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)); and
 
@@ -32,7 +32,7 @@ All personnel actions affecting covered employees shall be made free from any di
 
 #### (3) Disabilities discrimination
 
-&emsp;The remedy for a violation of subsection (a)(3) of this section shall be—
+&emsp;The remedy for a violation of subsection (a)(3) shall be—
 
 &emsp;&emsp;(A) such remedy as would be appropriate if awarded under section 505(a)(1) of the Rehabilitation Act of 1973 (29 U.S.C. 794a(a)(1)) or section 107(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12117(a)); and
 
@@ -52,63 +52,63 @@ Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 2
 
 #### Coverage of House of Representatives and the Agencies of the Legislative Branch
 
-Pub. L. 102–166, title I, §117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 102–166, title I, §117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
-“(a)
+"(a)
 
 Coverage of the House of Representatives.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Notwithstanding any provision of title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) or of other law, the purposes of such title shall, subject to paragraph (2), apply in their entirety to the House of Representatives.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Employment in the house.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Application.—The rights and protections under title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) shall, subject to subparagraph (B), apply with respect to any employee in an employment position in the House of Representatives and any employing authority of the House of Representatives.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Administration.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—In the administration of this paragraph, the remedies and procedures made applicable pursuant to the resolution described in clause (ii) shall apply exclusively.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Resolution.—The resolution referred to in clause (i) is the Fair Employment Practices Resolution (House Resolution 558 of the One Hundredth Congress, as agreed to October 4, 1988), as incorporated into the Rules of the House of Representatives of the One Hundred Second Congress as Rule LI, or any other provision that continues in effect the provisions of such resolution.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Exercise of rulemaking power.—The provisions of subparagraph (B) are enacted by the House of Representatives as an exercise of the rulemaking power of the House of Representatives, with full recognition of the right of the House to change its rules, in the same manner, and to the same extent as in the case of any other rule of the House.
 
-“(b)
+"(b)
 
 Instrumentalities of Congress.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The rights and protections under this title \[see Tables for classification\] and title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) shall, subject to paragraph (2), apply with respect to the conduct of each instrumentality of the Congress.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Establishment of remedies and procedures by instrumentalities.—The chief official of each instrumentality of the Congress shall establish remedies and procedures to be utilized with respect to the rights and protections provided pursuant to paragraph (1). Such remedies and procedures shall apply exclusively, except for the employees who are defined as Senate employees, in \[former\] section 301(c)(1) \[former 42 U.S.C. 2000e–16a(c)(1)\].
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report to congress.—The chief official of each instrumentality of the Congress shall, after establishing remedies and procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Definition of instrumentalities.—For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Printing Office, the Office of Technology Assessment, and the United States Botanic Garden.
+Definition of instrumentalities.—For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Publishing Office, the Office of Technology Assessment, and the United States Botanic Garden.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Construction.—Nothing in this section shall alter the enforcement procedures for individuals protected under section 717 of title VII for \[of\] the Civil Rights Act of 1964 (42 U.S.C. 2000e–16).”
+Construction.—Nothing in this section shall alter the enforcement procedures for individuals protected under section 717 of title VII for \[of\] the Civil Rights Act of 1964 (42 U.S.C. 2000e–16)."
 
 \[Section effective Nov. 21, 1991, except as otherwise provided, see section 402(a) of Pub. L. 102–166, set out as an Effective Date of 1991 Amendment note under section 1981 of Title 42, The Public Health and Welfare.\]
 

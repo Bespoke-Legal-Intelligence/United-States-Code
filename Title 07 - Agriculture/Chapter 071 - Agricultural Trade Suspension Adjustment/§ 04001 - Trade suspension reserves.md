@@ -58,7 +58,7 @@ Section 1445e of this title, referred to in subsec. (c)(2), was amended generall
 
 <b>1998</b>—Subsec. (d)(2). Pub. L. 105–385 made technical amendment to reference in original act which appears in text as reference to section 1736f–1 of this title.
 
-<b>1996</b>—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: "The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of thissubsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to 'wheat' in such subsections of section 1736f–1 of this title shall be deemed to be references to 'agricultural commodities'."
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: "The provisions of subsections (c), (d), (e), (f), and (g)(2) ofsection 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of this subsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to 'wheat' in such subsections of section 1736f–1 of this title shall be deemed to be references to 'agricultural commodities'."
 
 <b>1981</b>—Subsec. (c)(2)(A). Pub. L. 97–98, §1004(1), substituted "third sentence" for "second sentence".
 

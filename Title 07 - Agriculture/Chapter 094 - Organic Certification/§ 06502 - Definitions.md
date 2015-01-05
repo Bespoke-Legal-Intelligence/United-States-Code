@@ -56,7 +56,7 @@ As used in this chapter:
 
 #### (13) Organic plan
 
-&emsp;The term "organic plan" means a plan of management of an organic farming or handling operation that has been agreed to by the producer or handler and the certifying agent and that includes written plans concerning all aspects of agricultural production or handling described in this chapter including crop rotation and other practices as required under this chapter.
+&emsp;The term "organic plan" means a plan of management of an organic farming or handling operation that has been agreed to by the producer or handler and the certifying agent and that includes written plans concerning allaspects of agricultural production or handling described in this chapter including crop rotation and other practices as required under this chapter.
 
 #### (14) Organically produced
 

@@ -6,11 +6,11 @@ Appropriations under this heading for management personnel and miscellaneous res
 
 #### References in Text
 
-Appropriations under this heading, referred to in text, probably means appropriations under the headings “ARCHITECT OF THE CAPITOL”, “
+Appropriations under this heading, referred to in text, probably means appropriations under the headings "ARCHITECT OF THE CAPITOL", "
 
-Capital Buildings and Grounds”, and “
+Capital Buildings and Grounds", and "
 
-senate office buildings” in the annual Legislative Branch Appropriations Act.
+senate office buildings" in the annual Legislative Branch Appropriations Act.
 
 #### Codification
 

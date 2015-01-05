@@ -26,7 +26,7 @@
 
 > However, an employee or his beneficiary may not receive benefits referred to in subparagraphs (A) and (B) of this paragraph (3), based on service during an assignment under this subchapter for which the employee or, if he dies without making such an election, his beneficiary elects to receive benefits, under any State or local government retirement or insurance law or program, which the Office of Personnel Management determines to be similar. The Federal agency shall deposit currently in the Employee's Life Insurance Fund, the Employee's Health Benefits Fund or other applicable health benefits system, respectively, the amount of the Government's contributions on account of service with respect to which employee contributions are collected as provided in subparagraphs (A) and (B) of this paragraph (3).
 
-(d)(1) An employee so assigned and on leave without pay who dies or suffers disability as a result of personal injury sustained while in the performance of his duty during an assignment under this subchapter shall be treated, for the purpose of subchapter I of chapter 81 of this title, as though he were an employee as defined by section 8101 of this title who had sustained the injury in the performance of duty. When an employee (or his dependents in case of death) entitled by reason of injury or death to benefits under subchapter I of chapter 81 of this title is also entitled to benefits from a State or local government for the same injury or death, he (or his dependents in case of death) shall elect which benefits he will receive. The election shall be made within one year after the injury or death, or such further time as the Secretary of Labor may allow for reasonable cause shown. When made, the election is irrevocable unless otherwise provided by law.
+(d)(1) An employee so assigned and on leave without pay who dies or suffers disability as a result of personal injury sustained while in the performance of his duty during an assignment under this subchapter shall be treated, for the purpose of subchapter I of chapter 81 of this title, as though he were an employee as defined by section 8101 of this title who had sustained the injury in the performance of duty. When an employee (or his dependents in case of death) entitled by reason of injury or death to benefits under subchapter I of chapter 81 of this title is also entitled to benefits from a State or local government for the same injury or death, he (or his dependents in case of death) shall elect which benefits he will receive. The election shall be made within one year after the injury ordeath, or such further time as the Secretary of Labor may allow for reasonable cause shown. When made, the election is irrevocable unless otherwise provided by law.
 
 (2) An employee who elects to receive benefits from a State or local government may not receive an annuity under subchapter III of chapter 83 of this title and benefits from the State or local government for injury or disability to himself covering the same period of time. This provision does not—
 
@@ -44,11 +44,11 @@ The Federal Tort Claims Act, referred to in subsec. (a), is title IV of act Aug.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–378 substituted “or local” for “and local” in section catchline.
+<b>1992</b>—Pub. L. 102–378 substituted "or local" for "and local" in section catchline.
 
-<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454, §603(b), substituted “a Federal” for “an executive” and “Federal agency” for “executive agency”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454, §603(b), substituted "a Federal" for "an executive" and "Federal agency" for "executive agency".
 
-Subsec. (c). Pub. L. 95–454, §§603(b), 906(a)(2), substituted “Federal agency” for “executive agency” wherever appearing, and “Office of Personnel Management” for “Civil Service Commission”.
+Subsec. (c). Pub. L. 95–454, §§603(b), 906(a)(2), substituted "Federal agency" for "executive agency" wherever appearing, and "Office of Personnel Management" for "Civil Service Commission".
 
 #### Effective Date of 1978 Amendment
 

@@ -6,7 +6,7 @@ In this section, the term "livestock" includes elk, reindeer, bison, horses, and
 
 #### (b) Availability of assistance
 
-In such amounts as are provided in advance in appropriation Acts, the Secretary of Agriculturemay provide assistance to dairy and other livestock producers to cover economic losses incurred by such producers in connection with the production of livestock.
+In such amounts as are provided in advance in appropriation Acts, the Secretary of Agriculture may provide assistance to dairy and other livestock producers to cover economic losses incurred by such producers in connection with the production of livestock.
 
 #### (c) Types of assistance
 
@@ -42,5 +42,5 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–97 applicable to losses resulting from a disaster that occurs on or after July 28, 2005, and inapplicable to losses resulting from a disaster that occurs before such date, see section 784(c) of Pub. L. 109–97, set out as a note under section 1471 of this title.
+Amendment by Pub. L. 109–97 applicable to losses resulting from a disaster that occurs on or after July 28, 2005, and inapplicable to losses resulting from a disaster that occurs before such date, see section 784(c) ofPub. L. 109–97, set out as a note under section 1471 of this title.
 

@@ -14,7 +14,7 @@ Travel and Transportation Authorized.—(1) Under uniform regulations prescribed
 
 &emsp;&emsp;(ii) is not described in clause (i), but has a wound or an injury incurred in an operation or area designated as a combat operation or combat zone, respectively, by the Secretary of Defense and is hospitalized in a medical facility for treatment of that wound or injury.
 
-(3) Not more than a total of three roundtrips may be provided under paragraph (1) in any 60-day period at Government expense to the individuals who, with respect to a member, are the designated individuals of that member in effect during that period. However, if the Secretary concerned has granted a waiver under the second sentence of paragraph (1) with respect to amember, then for any 60-day period in which the waiver is in effect the limitation in the preceding sentence shall be adjusted accordingly. In addition, during any period during which there is in effect a non-medical attendant designation for a member under section 481k of this title, not more than a total of two roundtrips may be provided under paragraph (1) in any 60-day period at Government expense until there no longer is a designation of a non-medical attendant or that designation transfers to another individual, in which case during the transfer period three roundtrips may be provided.
+(3) Not more than a total of three roundtrips may be provided under paragraph (1) in any 60-day period at Government expense to the individuals who, with respect to a member, are the designated individuals of that member in effect during that period. However, if the Secretary concerned has granted a waiver under the second sentence of paragraph (1) with respect to a member, then for any 60-day period in which the waiver is in effect the limitation in the preceding sentence shall be adjusted accordingly. In addition, during any period during which there is in effect a non-medical attendant designation for a member under section 481k of this title, not more than a total of two roundtrips may be provided under paragraph (1) in any 60-day period at Government expense until there no longer is a designation of a non-medical attendant or that designation transfers to another individual, in which case during the transfer period three roundtrips may be provided.
 
 (4) In the case of a designated individual who is also a member of the uniformed services, that member may be provided travel and transportation under this section in the same manner as a designated individual who is not a member.
 
@@ -50,7 +50,7 @@ Definitions.—(1) In this section, the term "designated individual", with respe
 
 &emsp;(ii) The member is diagnosed with a mental disorder and has psychotic symptoms that require intensive mental health treatment or hospitalization.
 
-&emsp;(iii) The member is diagnosed with a mental disorder and has severe symptoms or severe impairment in functioning that require intensive mental health treatment or hospitalization.
+&emsp;(iii) The member is diagnosed with a mental disorder and has severe symptoms or severeimpairment in functioning that require intensive mental health treatment or hospitalization.
 
 (c)
 

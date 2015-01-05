@@ -18,7 +18,7 @@
 
 #### (1) Collection of information at reasonable cost
 
-&emsp;The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Vocational and Adult Education, and an entity assisted under section 2328 of this title (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
+&emsp;The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Career, Technical, and Adult Education, and an entity assisted under section 2328 of this title (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
 
 #### (2) Cooperation of States
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(iii) academic and career and technical education achievement and employment outcomes of career and technical education, including analyses of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the extent and success of the integration of rigorous and challenging academic and career and technical education for students participating in career and technical education programs, including a review of the effect of suchintegration on the academic and technical proficiency achievement of such students (including the number of such students receiving a secondary school diploma); and
+&emsp;&emsp;&emsp;&emsp;(I) the extent and success of the integration of rigorous and challenging academic and career and technical education for students participating in career and technical education programs, including a review of the effect of such integration on the academic and technical proficiency achievement of such students (including the number of such students receiving a secondary school diploma); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the extent to which career and technical education programs prepare students, including special populations, for subsequent employment in high skill, high wage occupations (including those in which mathematics and science skills are critical), or for participation in postsecondary education;
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) effective in-service and preservice teacher and faculty education that assists career and technical education programs in—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 6311(b)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards,as adopted by States under section 6311(b)(1) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) coordinating technical education with industry-recognized certification requirements;
 
@@ -182,7 +182,7 @@
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012.
 
-(Pub. L. 88–210, title I, §114, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 702.)
+(Pub. L. 88–210, title I, §114, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 702; amended Pub. L. 113–76, div. H, title III, §307(d), Jan. 17, 2014, 128 Stat. 399.)
 
 #### References in Text
 
@@ -195,4 +195,8 @@ The Carl D. Perkins Career and Technical Education Improvement Act of 2006, refe
 A prior section 2324, Pub. L. 88–210, title I, §114, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3089, related to national activities, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2324, Pub. L. 88–210, title I, §114, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, §114, Sept. 25, 1990, 104 Stat. 769, related to development and approval of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–76 substituted "Office of Career, Technical, and Adult Education" for "Office of Vocational and Adult Education".
 

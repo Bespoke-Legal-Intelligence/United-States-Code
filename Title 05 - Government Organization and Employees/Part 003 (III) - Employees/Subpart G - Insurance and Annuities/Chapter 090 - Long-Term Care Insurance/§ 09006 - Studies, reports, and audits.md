@@ -20,7 +20,7 @@ Reports by the Government Accountability Office.—The Government Accountability
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-Subsec. (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and two places in text.
+Subsec. (c). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading and two places in text.
 

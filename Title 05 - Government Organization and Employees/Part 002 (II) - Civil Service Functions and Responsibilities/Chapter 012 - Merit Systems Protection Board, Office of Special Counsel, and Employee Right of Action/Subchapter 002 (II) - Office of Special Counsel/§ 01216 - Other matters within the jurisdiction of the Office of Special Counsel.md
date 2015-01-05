@@ -1,6 +1,6 @@
 ### §1216. Other matters within the jurisdiction of the Office of Special Counsel
 
-(a) In addition to the authority otherwise provided in this chapter, the Special Counsel shall,except as provided in subsection (b), conduct an investigation of any allegation concerning—
+(a) In addition to the authority otherwise provided in this chapter, the Special Counsel shall, except as provided in subsection (b), conduct an investigation of any allegation concerning—
 
 &emsp;(1) political activity prohibited under subchapter III of chapter 73, relating to political activities by Federal employees;
 
@@ -22,9 +22,9 @@
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–94 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-“(1) If an investigation by the Special Counsel under subsection (a)(1) substantiates an allegation relating to any activity prohibited under section 7324, the Special Counsel may petition the Merit Systems Protection Board for any penalties provided for under section 7325.
+"(1) If an investigation by the Special Counsel under subsection (a)(1) substantiates an allegation relating to any activity prohibited under section 7324, the Special Counsel may petition the Merit Systems Protection Board for any penalties provided for under section 7325.
 
-“(2) If the Special Counsel receives an allegation concerning any matter under paragraph (3), (4), or (5) of subsection (a), the Special Counsel may investigate and seek corrective action under section 1214 in the same way as if a prohibited personnel practice were involved.”
+"(2) If the Special Counsel receives an allegation concerning any matter under paragraph (3), (4), or (5) of subsection (a), the Special Counsel may investigate and seek corrective action under section 1214 in the same way as if a prohibited personnel practice were involved."
 
 #### Effective Date of 1993 Amendment; Savings Provision
 

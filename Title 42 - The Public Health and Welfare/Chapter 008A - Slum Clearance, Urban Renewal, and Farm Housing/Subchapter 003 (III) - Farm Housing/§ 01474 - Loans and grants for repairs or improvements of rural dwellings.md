@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites; purposes; amounts; terms
 
-The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling safer or more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitarywater supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate. Any portion of the sums advanced to the borrower treated as a loan shall be secured and be repayable within twenty years in accordance with the principles and conditions set forth in this subchapter, except that a loan for less than $7,500 need be evidenced only by a promissory note. Sums made available by grant may be made subject to the conditions set forth in this subchapter for the protection of the Government with respect to contributions made on loans made by the Secretary.
+The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling safer or more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitary water supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate. Any portion of the sums advanced to the borrower treated as a loan shall be secured and be repayable within twenty years in accordance with the principles and conditions set forth in this subchapter, except that a loan for less than $7,500 need be evidenced only by a promissory note. Sums made available by grant may be made subject to the conditions set forth in this subchapter for the protection of the Government with respect to contributions made on loans made by the Secretary.
 
 #### (b) Additional purposes
 
@@ -18,7 +18,11 @@ In order to encourage adequate family-size farms the Secretary may make loans un
 
 (4) For purposes of this subsection, the terms "elderly," "handicapped person," "low income," and "weatherization materials" shall have the same meanings given such terms in paragraphs (3), (5), (7), and (9), respectively, of section 412 of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6862\].
 
-(July 15, 1949, ch. 338, title V, §504, 63 Stat. 434; Pub. L. 87–723, §4(c)(3), Sept. 28, 1962, 76 Stat. 672; Pub. L. 89–754, title VIII, §803, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–609, title VIII, §803(a), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 93–383, title V, §504, Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–619, title II, §232(a), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–153, title V, §510, Dec. 21, 1979, 93 Stat. 1137; Pub. L. 98–181, title I \[title V, §504\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(32), (f)(24)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–569, title VII, §702, Dec. 27, 2000, 114 Stat. 3013.)
+(July 15, 1949, ch. 338, title V, §504, 63 Stat. 434; Pub. L. 87–723, §4(c)(3), Sept. 28, 1962, 76 Stat. 672; Pub. L. 89–754, title VIII, §803, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–609, title VIII, §803(a), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 93–383, title V, §504, Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–619, title II, §232(a), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–153, title V, §510, Dec. 21, 1979, 93 Stat. 1137; Pub. L. 98–181, title I \[title V, §504\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(32), (f)(24)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–569, title VII, §702, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 113–128, title V, §512(o), July 22, 2014, 128 Stat. 1711.)
+
+#### Amendment of Subsection (c)(3)
+
+<i>Pub. L. 113–128, title V, §§506, 512(o), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(3) of this section is amended by striking "an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 or the Older American Community Service Employment Act," and inserting "an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act or the Community Service Senior Opportunities Act,". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -32,6 +36,8 @@ The Older American Community Service Employment Act, referred to in subsec. (c)(
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(3). Pub. L. 113–128 substituted "an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act or the Community Service Senior Opportunities Act," for "an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 or the Older American Community Service Employment Act,".
+
 <b>2000</b>—Subsec. (a). Pub. L. 106–569 substituted "$7,500" for "$2,500" in fourth sentence.
 
 <b>1998</b>—Subsec. (c)(3). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(24)\], struck out "the Job Training Partnership Act or" after "pursuant to".
@@ -40,7 +46,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(32)\], substituted "pursuant 
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted "The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling safer or more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitary water supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate." for "In the event the Secretary determines that an eligible applicant cannot qualify for a loan under the provisions of sections 1472 and 1473 of this title and that repairs or improvements should be made to a rural dwelling occupied by him in order to make such dwelling safe and sanitary and remove hazards to the health of the occupant, his family, or the community, and that repairs should be made to farm buildings in order to remove hazards and make such buildings safe, the Secretary may make a grant or a combined loan and grant to the applicant to cover the cost of improvements or additions, such as repairing roofs, providing toilet facilities, providing a convenient and sanitary water supply, supplying screens, repairing or providing structural supports, or making similar repairs, additions, or improvements, including all preliminary and installation costs in obtaining central water and sewer service. No assistance shall be extended to any individual or family under this subsection in the form of a grant in excess of $5,000, and no assistance shall be extended to any individual or family under this subsection in the form of a loan or a combined loan and grant in excess of $7,500."
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions limiting the assistance in the form of grants to any individual or family to $5,000 and in the form of loans or combined loans and grants to $7,500 for provisions limiting loans, grants, or combined loans and grants to $5,000 in the case of assistance to individuals.
+<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions limiting the assistance in the form of grants toany individual or family to $5,000 and in the form of loans or combined loans and grants to $7,500 for provisions limiting loans, grants, or combined loans and grants to $5,000 in the case of assistance to individuals.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–619 added subsec. (c).
 
@@ -51,6 +57,10 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(32)\], substituted "pursuant 
 <b>1966</b>—Subsec. (a). Pub. L. 89–754 increased limitation on assistance from $1,000 to $1,500.
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–723 substituted "in the form of a loan, grant, or combined loan and grant in excess of $1,000" for "(1) in the form of a loan, or combined loan and grant, in excess of $1,000, or (2) in the form of a grant (whether or not combined with a loan) in excess of $500."
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendment
 

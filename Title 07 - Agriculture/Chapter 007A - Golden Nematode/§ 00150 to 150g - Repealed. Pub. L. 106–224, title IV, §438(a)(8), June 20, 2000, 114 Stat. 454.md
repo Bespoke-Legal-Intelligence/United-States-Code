@@ -4,7 +4,7 @@ Section 150, act June 15, 1948, ch. 471, §1, 62 Stat. 442, set forth government
 
 Section 150a, act June 15, 1948, ch. 471, §2, 62 Stat. 443, authorized Secretary of Agriculture to carry out operations to eradicate, suppress, control, or prevent spread of golden nematode.
 
-Section 150b, act June 15, 1948, ch. 471, §3, 62 Stat. 443, related to inspections, quarantines, restrictions onplanting, crop destruction, and compensation of growers.
+Section 150b, act June 15, 1948, ch. 471, §3, 62 Stat. 443, related to inspections, quarantines, restrictions on planting, crop destruction, and compensation of growers.
 
 Section 150c, act June 15, 1948, ch. 471, §4, 62 Stat. 443, made expenditure of funds discretionary with Secretary.
 

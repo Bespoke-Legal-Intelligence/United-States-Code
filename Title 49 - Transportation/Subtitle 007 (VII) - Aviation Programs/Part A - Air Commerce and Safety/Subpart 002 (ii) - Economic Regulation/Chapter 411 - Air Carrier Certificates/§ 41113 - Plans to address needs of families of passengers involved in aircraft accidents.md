@@ -44,11 +44,11 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(B) At a minimum, the written notice shall advise an owner (i) to contact the insurer of the property as the authoritative source for information about coverage and compensation; (ii) to not rely on unofficial information offered by air carrier representatives about compensation by the air carrier for accident-site property damage; and (iii) to obtain photographic or other detailed evidence of property damage as soon as possible after the accident, consistent with restrictions on access to the accident site.
 
-&emsp;(18) An assurance that, in the case of an accident in which the National Transportation Safety Board conducts a public hearing or comparable proceeding at a location greater than 80 miles from the accident site, the aircarrier will ensure that the proceeding is made available simultaneously by electronic means at a location open to the public at both the origin city and destination city of the air carrier's flight if that city is located in the United States.
+&emsp;(18) An assurance that, in the case of an accident in which the National Transportation Safety Board conducts a public hearing or comparable proceeding at a location greater than 80 miles from the accident site, the air carrier will ensure that the proceeding is made available simultaneously by electronic means at a location open to the public at both the origin city and destination city of the air carrier's flight if that city is located in the United States.
 
 (c)
 
-Certificate Requirement.—The Secretary may not approve an application for a certificate of public convenience and necessity under section 41102 of this title unless the applicant has included as part of such application a plan that meets the requirements of subsection (b).
+Certificate Requirement.—The Secretary may not approve an application for a certificateof public convenience and necessity under section 41102 of this title unless the applicant has included as part of such application a plan that meets the requirements of subsection (b).
 
 (d)
 
@@ -126,7 +126,7 @@ Guidelines and Recommendations.—The task force established pursuant to subsect
 
 &emsp;&emsp;"(B) an analysis of the added costs to air carriers and travel agents that would result if air carriers were required to take the steps described in subparagraph (A);
 
-&emsp;&emsp;"(C) an analysis of any inconvenience to passengers, including flight delays, that would result ifair carriers were required to take the steps described in subparagraph (A); and
+&emsp;&emsp;"(C) an analysis of any inconvenience to passengers, including flight delays, that would result if air carriers were required to take the steps described in subparagraph (A); and
 
 &emsp;&emsp;"(D) an analysis of the implications for personal privacy that would result if air carriers were required to take the steps described in subparagraph (A).
 

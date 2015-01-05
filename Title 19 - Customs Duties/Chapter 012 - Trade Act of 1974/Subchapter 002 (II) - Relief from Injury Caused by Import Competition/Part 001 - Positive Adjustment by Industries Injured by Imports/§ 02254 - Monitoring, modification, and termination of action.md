@@ -14,7 +14,7 @@
 
 (1) Action taken under section 2253 of this title may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A) of this section) if the President—
 
-&emsp;(A) after taking into account any report or advice submitted by the Commission under subsection (a) of this section and after seeking the advice of the Secretary of Commerce and the Secretary of Labor, determines, on the basis that either—
+&emsp;(A) after taking into account any report or advice submitted by the Commission under subsection (a) of this section and after seeking the advice of the Secretary of Commerce andthe Secretary of Labor, determines, on the basis that either—
 
 &emsp;&emsp;(i) the domestic industry has not made adequate efforts to make a positive adjustment to import competition, or
 
@@ -40,7 +40,7 @@
 
 (1) After any action taken under section 2253 of this title has terminated, the Commission shall evaluate the effectiveness of the actions in facilitating positive adjustment by the domestic industry to import competition, consistent with the reasons set out by the President in the report submitted to the Congress under section 2253(b) of this title.
 
-(2) During the course of the evaluation conducted under paragraph (1), the Commission shall, after reasonable public notice, hold ahearing on the effectiveness of the action. All interested persons shall have the opportunity to attend such hearing and to present evidence or testimony at such hearing.
+(2) During the course of the evaluation conducted under paragraph (1), the Commission shall, after reasonable public notice, hold a hearing on the effectiveness of the action. All interested persons shall have the opportunity to attend such hearing and to present evidence or testimony at such hearing.
 
 (3) A report on the evaluation made under paragraph (1) and the hearings held under paragraph (2) shall be submitted by the Commission to the President and to the Congress by no later than the 180th day after the day on which the actions taken under section 2253 of this title terminated.
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Au
 
 #### Effective Date
 
-Section effective Aug. 23, 1988, and applicable with respect to investigations initiated under this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2251 of this title.
+Section effective Aug. 23, 1988, and applicable with respect to investigations initiated under this part on orafter that date, see section 1401(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2251 of this title.
 

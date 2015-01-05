@@ -22,7 +22,7 @@ For the purposes of this subchapter—
 
 &emsp;(6) The term "transfer" means any transaction involving, or any transaction the purpose of which was to effect, a change in title to or control of any land or natural resources, and any act, event, or circumstance that resulted in a change in title to, possession of, dominion over, or control of land or natural resources, including any sale, grant, lease, allotment, partition, or conveyance, whether pursuant to a treaty, compact, or statute of a State or otherwise.
 
-&emsp;(7) The term "reservation" means the existing reservation of the Tribe as defined bychapter 824 of the Connecticut General Statutes and any settlement lands taken in trust by the United States for the Tribe.
+&emsp;(7) The term "reservation" means the existing reservation of the Tribe as defined by chapter 824 of the Connecticut General Statutes and any settlement lands taken in trust by the United States for the Tribe.
 
 (Pub. L. 98–134, §3, Oct. 18, 1983, 97 Stat. 852.)
 

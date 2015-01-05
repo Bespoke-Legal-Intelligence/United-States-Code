@@ -28,7 +28,7 @@
 
 &emsp;(ii) is assigned to a deployable ship or mobile unit or to other duty designated for the purpose of this section; or
 
-&emsp;(iii) on or after August 29, 2005, performs duty designated by the Secretary of Defense as qualifying duty for purposes of this subsection.
+&emsp;(iii) on or after August 29, 2005, performs duty designated by the Secretary of Defense asqualifying duty for purposes of this subsection.
 
 (C) Except as provided in paragraph (2), leave in excess of the days of leave authorized to be accumulated under subsection (b) or (d) that are accumulated under this paragraph is lost unless it is used by the member before the end of the third fiscal year (or fourth fiscal year, if accumulated while subsection (d) is in effect) after the fiscal year in which the continuous period of service referred to in subparagraph (B) terminated.
 
@@ -184,7 +184,7 @@ Pub. L. 98–94, title X, §1031(b)(1), (2), Sept. 24, 1983, 97 Stat. 671, provi
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by the officer empowered to act on the sentence on or after that effective date, see section 7(a) and (b)(1) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
+Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209),or under section 860 of this title by the officer empowered to act on the sentence on or after that effective date, see section 7(a) and (b)(1) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
 
 #### Effective Date of 1972 Amendment
 

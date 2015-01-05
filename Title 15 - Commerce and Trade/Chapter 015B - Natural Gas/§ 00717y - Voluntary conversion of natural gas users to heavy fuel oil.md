@@ -8,7 +8,7 @@
 
 &emsp;(i) natural gas—
 
-&emsp;&emsp;(I) received by the user pursuant to a contract entered into before September 1, 1977, not including any renewal or extension thereof entered into or on or after such date other than any such extension or renewal pursuant to the exercise by such user of an option to extend or renew such contract;
+&emsp;&emsp;(I) received by the user pursuant to a contract entered into before September 1, 1977, not including any renewal or extension thereof entered into or on or after such dateother than any such extension or renewal pursuant to the exercise by such user of an option to extend or renew such contract;
 
 &emsp;&emsp;(II) other than natural gas the sale for resale or the transportation of which was subject to the jurisdiction of the Federal Power Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] as of September 1, 1977;
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
 
-&emsp;(4) The term "contractual interests" means the right to receive natural gas under contractas affected by an applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
+&emsp;(4) The term "contractual interests" means the right to receive natural gas under contract as affected by an applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
 
 &emsp;(5) The term "interstate pipeline" means any person engaged in natural gas transportation subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\].
 
@@ -112,7 +112,7 @@ The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(
 
 The Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (e)(10), is Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3291, as amended, which is classified principally to chapter 92 (§8301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 42 and Tables.
 
-The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60\(§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 #### Codification
 

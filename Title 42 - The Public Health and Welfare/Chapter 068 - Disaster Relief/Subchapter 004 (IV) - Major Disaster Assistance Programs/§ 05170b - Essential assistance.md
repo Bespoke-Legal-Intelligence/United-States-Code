@@ -104,7 +104,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 &emsp;Nothing in this subsection shall affect the ability of the President to reimburse labor force expenses provided pursuant to an authorized mutual aid pact.
 
-(Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4,Oct. 6, 2006, 120 Stat. 1726; Pub. L. 113–2, div. B, §1108(b), Jan. 29, 2013, 127 Stat. 47.)
+(Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4, Oct. 6, 2006, 120 Stat. 1726; Pub. L. 113–2, div. B, §1108(b), Jan. 29, 2013, 127 Stat. 47.)
 
 #### References in Text
 

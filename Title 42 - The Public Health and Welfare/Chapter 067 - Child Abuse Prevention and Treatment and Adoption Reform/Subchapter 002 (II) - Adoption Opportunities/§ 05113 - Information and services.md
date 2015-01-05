@@ -22,7 +22,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;(7) increase the effective use of public or private agencies (including community-based and other organizations) by States, or sectarian institutions, for the recruitment of potential adoptive and foster families and to provide assistance in the placement of children for adoption, including assisting in efforts to work with organizations that promote the placement of older children, minority children, and children with special needs;
 
-&emsp;(8) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide for the coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
+&emsp;(8) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide forthe coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
 
 &emsp;(9) maintain (directly or by grant to or contract with public or private agencies or organizations) a National Resource Center for Special Needs Adoption to—
 
@@ -110,7 +110,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (A) Applications
 
-&emsp;&emsp;Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary, consistent with the purpose of this subchapter. Each application shall contain information that—
+&emsp;&emsp;Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use fundsduring the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary, consistent with the purpose of this subchapter. Each application shall contain information that—
 
 &emsp;&emsp;&emsp;(i) describes how the State plans to improve the placement rate of children in permanent homes;
 
@@ -168,7 +168,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–320, §301(b)(1), substituted "older children, minority children, and children with special needs, particularly infants and toddlers with disabilities who have life-threatening conditions, and services to families considering adoption of children with special needs." for "children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs."
 
-Subsec. (b)(1). Pub. L. 111–320, §301(b)(2)(A), substituted a comma for "and" after "regarding adoption"and inserted ", and post-legal adoption services" after "adoption assistance programs".
+Subsec. (b)(1). Pub. L. 111–320, §301(b)(2)(A), substituted a comma for "and" after "regarding adoption" and inserted ", and post-legal adoption services" after "adoption assistance programs".
 
 Subsec. (b)(2). Pub. L. 111–320, §301(b)(2)(B), inserted ", including efforts to promote the adoption of older children, minority children, and children with special needs" after "national level".
 

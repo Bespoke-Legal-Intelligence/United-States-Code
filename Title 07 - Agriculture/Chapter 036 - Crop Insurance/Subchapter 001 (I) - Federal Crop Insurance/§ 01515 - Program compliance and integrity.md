@@ -26,7 +26,47 @@
 
 #### (c) Reconciling producer information
 
-The Secretary shall develop and implement a coordinated plan for the Corporation and the Farm Service Agency to reconcile all relevant information received by the Corporation or the Farm Service Agency from a producer who obtains crop insurance coverage under this subchapter. Beginning with the 2001 crop year, the Secretary shall require that the Corporation and the Farm Service Agency reconcile such producer-derived information on at least an annual basis in order to identify and address any discrepancies.
+#### (1) In general
+
+&emsp;The Secretary shall develop and implement a coordinated plan for the Corporation and the Farm Service Agency to reconcile all relevant information received by the Corporation or the Farm Service Agency from a producer who obtains crop insurance coverage under this subchapter.
+
+#### (2) Frequency
+
+&emsp;Beginning with the 2001 crop year, the Secretary shall require that the Corporation and the Farm Service Agency reconcile such producer-derived information on at least an annual basis in order to identify and address any discrepancies.
+
+#### (3) Corrections
+
+#### (A) In general
+
+&emsp;&emsp;In addition to the corrections permitted by the Corporation as of the day before February 7, 2014, the Corporation shall establish procedures that allow an agent or an approved insurance provider, subject to subparagraph (B)—
+
+&emsp;&emsp;&emsp;(i) within a reasonable amount of time following the applicable sales closing date, to correct errors in information that is provided by a producer for the purpose of obtaining coverage under any policy or plan of insurance made available under this subchapter to ensure that the eligibility information is correct and consistent with information reported by the producer for other programs administered by the Secretary;
+
+&emsp;&emsp;&emsp;(ii) within a reasonable amount of time following—
+
+&emsp;&emsp;&emsp;&emsp;(I) the acreage reporting date, to reconcile errors in the information reported by the producer with correct information determined from any other program administered by the Secretary; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the date of any subsequent correction of data by the Farm Service Agency made as a result of the verification of information, to make conforming corrections; and
+
+&emsp;&emsp;&emsp;(iii) at any time, to correct electronic transmission errors that were made by an agent or approved insurance provider, or such errors made by the Farm Service Agency or any other agency of the Department of Agriculture in transmitting the information provided by the producer for purposes of other programs of the Department to the extent an agent or approved insurance provider relied upon the erroneous information for crop insurance purposes.
+
+#### (B) Limitation
+
+&emsp;&emsp;In accordance with the procedures of the Corporation, correction to the information described in clauses (i) and (ii) of subparagraph (A) may only be made if the corrections do not allow the producer—
+
+&emsp;&emsp;&emsp;(i) to avoid ineligibility requirements for insurance or obtain a disproportionate benefit under the crop insurance program or any related program administered by the Secretary;
+
+&emsp;&emsp;&emsp;(ii) to obtain, enhance, or increase an insurance guarantee or indemnity if a cause of loss exists or has occurred before any correction has been made, or avoid premium owed if no loss is likely to occur; or
+
+&emsp;&emsp;&emsp;(iii) to avoid an obligation or requirement under any Federal or State law.
+
+#### (C) Exception to late filing sanctions
+
+&emsp;&emsp;Any corrections made within a reasonable amount of time, in accordance with established procedures, pursuant to this paragraph shall not be subject to any late filing sanctions authorized in the reinsurance agreement with the Corporation.
+
+#### (D) Late payment of debt
+
+&emsp;&emsp;In the case of a producer that has inadvertently failed to pay a debt due as specified by regulations of the Corporation and has been determined to be ineligible for crop insurance pursuant to the terms of the policy as a result of that failure, the Corporation may determine to allow the producer to pay the debt and purchase the crop insurance after the sales closing date, in accordance with procedures and limitations established by the Corporation.
 
 #### (d) Identification and elimination of fraud, waste, and abuse
 
@@ -46,7 +86,7 @@ The Secretary shall develop and implement a coordinated plan for the Corporation
 
 #### (3) Use of field infrastructure
 
-&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass thesame basic competency tests as required of loss adjusters of approved insurance providers.
+&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass the same basic competency tests as required of loss adjusters of approved insurance providers.
 
 #### (4) Maintenance of provider effort
 
@@ -86,7 +126,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;The Secretary shall establish procedures under which the Corporation will be able to identify the following:
 
-&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
+&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales bythe agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
 
 &emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this subchapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
 
@@ -198,9 +238,21 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (j) Information management
 
-#### (1) Systems upgrades
+#### (1) Systems maintenance and upgrades
 
-&emsp;The Secretary shall upgrade the information management systems of the Corporation used in the administration and enforcement and this subchapter. In upgrading the systems, the Secretary shall ensure that new hardware and software are compatible with the hardware and software used by other agencies of the Department to maximize data sharing and promote the purpose of this section.
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall maintain and upgrade the information management systems of the Corporation used in the administration and enforcement of this subchapter.
+
+#### (B) Requirement
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In maintaining and upgrading the systems, the Secretary shall ensure that new hardware and software are compatible with the hardware and software used by other agencies of the Department to maximize data sharing and promote the purposes of this section.
+
+#### (ii) Acreage report streamlining initiative project
+
+&emsp;&emsp;&emsp;As soon as practicable, the Secretary shall develop and implement an acreage report streamlining initiative project to allow producers to report acreage and other information directly to the Department.
 
 #### (2) Use of available information technologies
 
@@ -208,31 +260,43 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (3) Use of private sector
 
-&emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection,which shall be subject to competition on a periodic basis, as determined by the Secretary.
+&emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection, which shall be subject to competition on a periodic basis, as determined by the Secretary.
 
 #### (k) Funding
 
 #### (1) Information technology
 
-&emsp;To carry out subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title, not more than $15,000,000 for each of fiscal years 2008 through 2010, and not more than $9,000,000 for fiscal year 2011.
+#### (A) In general
+
+&emsp;&emsp;For purposes of subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title, not more than—
+
+&emsp;&emsp;&emsp;(i)(I) for fiscal year 2014, $14,000,000; and
+
+&emsp;&emsp;&emsp;(II) for each of fiscal years 2015 through 2018, $9,000,000; or
+
+&emsp;&emsp;&emsp;(ii) if the Acreage Crop Reporting Streamlining Initiative (ACRSI) project is substantially completed by September 30, 2015, not more than $14,000,000 for each of the fiscal years 2015 through 2018.
+
+#### (B) Notification
+
+&emsp;&emsp;The Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the substantial completion of the Acreage Crop Reporting Streamlining Initiative (ACRSI) project not later than July 1, 2015.
 
 #### (2) Data mining
 
 &emsp;To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title, not more than $4,000,000 for fiscal year 2009 and each subsequent fiscal year.
 
-(Feb. 16, 1938, ch. 30, title V, §515, as added Pub. L. 103–354, title I, §109, Oct. 13, 1994, 108 Stat. 3197; amended Pub. L. 106–224, title I, §121(a), June 20, 2000, 114 Stat. 372; Pub. L. 110–234, title XII, §§12021, 12033(c)(2), May 22, 2008, 122 Stat. 1382, 1405; Pub. L. 110–246, §4(a), title XII, §§12021, 12033(c)(2), June 18, 2008, 122 Stat. 1664, 2144, 2167; Pub. L. 110–398, §1(c), Oct. 13, 2008, 122 Stat. 4214.)
+(Feb. 16, 1938, ch. 30, title V, §515, as added Pub. L. 103–354, title I, §109, Oct. 13, 1994, 108 Stat. 3197; amended Pub. L. 106–224, title I, §121(a), June 20, 2000, 114 Stat. 372; Pub. L. 110–234, title XII, §§12021, 12033(c)(2), May 22, 2008, 122 Stat. 1382, 1405; Pub. L. 110–246, §4(a), title XII, §§12021, 12033(c)(2), June 18, 2008, 122 Stat. 1664, 2144, 2167; Pub. L. 110–398, §1(c), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 113–79, title XI, §§11019, 11020, Feb. 7, 2014, 128 Stat. 966, 968.)
 
 #### References in Text
 
 The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, as amended, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, asamended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(iv), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -245,6 +309,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section, act Feb. 16, 1938, ch. 30, title V, §515, 52 Stat. 77, provided for appointment and compensation of an advisory committee, prior to repeal by Pub. L. 96–365, title I, §108, Sept. 26, 1980, 94 Stat. 1317.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–79, §11019, designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
+
+Subsec. (j)(1). Pub. L. 113–79, §11020(1), added par. (1) and struck out former par. (1). Text read as follows: "The Secretary shall upgrade the information management systems of the Corporation used in the administration and enforcement and this subchapter. In upgrading the systems, the Secretary shall ensure that new hardware and software are compatible with the hardware and software used by other agencies of the Department to maximize data sharing and promote the purpose of this section."
+
+Subsec. (k)(1). Pub. L. 113–79, §11020(2), added par. (1) and struck out former par. (1). Text read as follows: "To carry out subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title, not more than $15,000,000 for each of fiscal years 2008 through 2010, and not more than $9,000,000 for fiscal year 2011."
 
 <b>2008</b>—Subsecs. (c) to (h). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" wherever appearing.
 

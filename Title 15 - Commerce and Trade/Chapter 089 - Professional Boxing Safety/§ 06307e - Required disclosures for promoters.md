@@ -8,7 +8,7 @@ A promoter shall not be entitled to receive any compensation directly or indirec
 
 &emsp;(2) a statement made under penalty of perjury that there are no other agreements, written or oral, between the promoter and the boxer with respect to that match; and
 
-&emsp;(3)(A) all fees, charges, and expenses that will be assessed by or through the promoter on the boxer pertaining to the event, including any portion of the boxer's purse that the promoter will receive, and training expenses;
+&emsp;(3)(A) all fees, charges, and expenses that will be assessed by or through the promoter onthe boxer pertaining to the event, including any portion of the boxer's purse that the promoter will receive, and training expenses;
 
 &emsp;(B) all payments, gifts, or benefits the promoter is providing to any sanctioning organization affiliated with the event; and
 

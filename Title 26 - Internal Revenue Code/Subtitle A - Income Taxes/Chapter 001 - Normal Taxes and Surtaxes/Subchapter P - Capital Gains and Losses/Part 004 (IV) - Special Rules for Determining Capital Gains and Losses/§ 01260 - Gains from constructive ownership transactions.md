@@ -134,5 +134,5 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date
 
-Pub. L. 106–170, title V, §534(c), Dec. 17, 1999, 113 Stat. 1934, provided that: "The amendments made by this section \[enacting this section\] shall apply to transactions entered into after July 11, 1999."
+Pub. L. 106–170, title V, §534(c), Dec. 17, 1999, 113 Stat. 1934, provided that: "The amendments made by thissection \[enacting this section\] shall apply to transactions entered into after July 11, 1999."
 

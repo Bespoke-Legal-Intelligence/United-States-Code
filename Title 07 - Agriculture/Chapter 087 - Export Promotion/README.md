@@ -95,7 +95,7 @@
 | :--- | ---: |
 | [5711\.](Subchapter%20006%20%28VI%29%20-%20Reports/%C2%A7%2005711%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7241%28c%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20964.md) | Repealed. |
 | [5712\.](Subchapter%20006%20%28VI%29%20-%20Reports/%C2%A7%2005712%20-%20Export%20reporting%20and%20contract%20sanctity.md) | Export reporting and contract sanctity. |
-| [5713\.](Subchapter%20006%20%28VI%29%20-%20Reports/%C2%A7%2005713%20-%20Other%20reports%20to%20Congress.md) | Other reports to Congress. |
+| [5713\.](Subchapter%20006%20%28VI%29%20-%20Reports/%C2%A7%2005713%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93188%2C%20title%20I%2C%20%C2%A7101%28d%29%2C%20Nov.%2026%2C%202014%2C%20128%20Stat.%202017.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

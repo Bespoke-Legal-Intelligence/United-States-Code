@@ -16,7 +16,7 @@ For purposes of this section, the term "publicly traded partnership" means any p
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year ifsuch partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
+&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year if such partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
 
 #### (2) Gross income requirements
 
@@ -24,7 +24,7 @@ For purposes of this section, the term "publicly traded partnership" means any p
 
 #### (3) Exception not to apply to certain partnerships which could qualify as regulated investment companies
 
-&emsp;This subsection shall not apply to any partnership which would be described in section 851(a) if such partnership were a domestic corporation. To the extent provided in regulations, the preceding sentence shall not apply to any partnership a principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to commodities.
+&emsp;This subsection shall not apply to any partnership which would be described in section851(a) if such partnership were a domestic corporation. To the extent provided in regulations, the preceding sentence shall not apply to any partnership a principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to commodities.
 
 #### (d) Qualifying income
 
@@ -164,7 +164,7 @@ Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted "or to pay such amount
 
 Pub. L. 110–343, div. B, title I, §116(b), Oct. 3, 2008, 122 Stat. 3831, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date."
 
-Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: "The amendment made by this section \[amending this section\] shall take effect onthe date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date."
+Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date."
 
 #### Effective Date of 2004 Amendment
 

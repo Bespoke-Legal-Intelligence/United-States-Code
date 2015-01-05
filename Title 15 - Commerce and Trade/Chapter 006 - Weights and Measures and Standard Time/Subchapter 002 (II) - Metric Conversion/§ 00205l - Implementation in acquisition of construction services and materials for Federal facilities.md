@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in chapter 137 of title 10, section 2377 of title 10, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determinationof a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 3307(b) to (d) of title 41, then the provisions of <sup>1</sup> 2377 or 3307(b) to (d) shall take precedence.
+Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in chapter 137 of title 10, section 2377 of title 10, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 3307(b) to (d) of title 41, then the provisions of <sup>1</sup> 2377 or 3307(b) to (d) shall take precedence.
 
 #### (b) Concrete masonry units
 
@@ -46,13 +46,13 @@ The provisions of subsections (b) and (c) of this section shall not apply to Fed
 
 > The construction metrication ombudsman shall be independent of the contracting officer for construction contracts.
 
-(2) The ombudsman shall be responsible for ensuring that the agency is not implementing the metric system of measurement in a manner that is impractical or is likely to cause significant inefficiencies or loss of markets to United States firms in violation of the policy stated in section 205b(2) of this title, or is otherwise inconsistent with guidance issued by the Secretary of Commerce in consultation with the Interagency Council on Metric Policy while ensuring that the goals of this subchapter are observed.
+(2) The ombudsman shall be responsible for ensuring that the agency is not implementing the metric system of measurement in a manner that is impractical or is likely to cause significant inefficiencies or loss of markets to United States firms in violation of the policy stated in section 205b(2) of this title, or is otherwise inconsistent with guidance issued by the Secretary of Commerce in consultation with theInteragency Council on Metric Policy while ensuring that the goals of this subchapter are observed.
 
 (3) The ombudsman shall respond to each complaint in writing within 60 days and make a recommendation to the head of the executive agency for an appropriate resolution thereto. In such a recommendation, the ombudsman shall consider—
 
 &emsp;(A) whether the agency is adequately applying the policies and procedures in this section;
 
-&emsp;(B) whether the availability of hard-metric products and services from United Statesfirms is sufficient to ensure full and open competition; and
+&emsp;(B) whether the availability of hard-metric products and services from United States firms is sufficient to ensure full and open competition; and
 
 &emsp;(C) the total installed price to the Federal Government.
 

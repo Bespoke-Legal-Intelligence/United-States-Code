@@ -64,7 +64,7 @@ Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: "That this Act \[
 
 #### Short Title
 
-Pub. L. 96–480, §1, Oct. 21, 1980, 94 Stat. 2311, provided: "That this Act \[enacting this chapter\] may be cited asthe 'Stevenson-Wydler Technology Innovation Act of 1980'."
+Pub. L. 96–480, §1, Oct. 21, 1980, 94 Stat. 2311, provided: "That this Act \[enacting this chapter\] may be cited as the 'Stevenson-Wydler Technology Innovation Act of 1980'."
 
 #### Study on Economic Competitiveness and Innovative Capacity of United States and Development of National Economic Competitiveness Strategy
 
@@ -274,7 +274,7 @@ Pub. L. 102–245, §2, Feb. 14, 1992, 106 Stat. 7, provided that: "As used in t
 
 &emsp;"(2) the term 'advanced manufacturing technology' means numerically-controlled machine tools, robots, automated process control equipment, computerized flexible manufacturing systems, associated computer software, and other technology for improving manufacturing and industrial processes;
 
-&emsp;"(3) the term 'advanced materials' means a field of research including the study of composites, ceramics, metals, polymers, superconducting materials, materials produced through biotechnology, and materials production technologies, including coated systems,that provide the potential for significant advantages over existing materials;
+&emsp;"(3) the term 'advanced materials' means a field of research including the study of composites, ceramics, metals, polymers, superconducting materials, materials produced through biotechnology, and materials production technologies, including coated systems, that provide the potential for significant advantages over existing materials;
 
 &emsp;"(4) the term 'Institute' means the National Institute of Standards and Technology;
 
@@ -334,7 +334,7 @@ Procedures.—(1) The chairman shall call the first meeting of the Commission wi
 
 "(3) The Commission may use such personnel detailed from Federal agencies as may be necessary to enable it to carry out its duties.
 
-"(4) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
+"(4) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission while away from their homes or regular places of business, shall be allowedtravel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
 "(e)
 

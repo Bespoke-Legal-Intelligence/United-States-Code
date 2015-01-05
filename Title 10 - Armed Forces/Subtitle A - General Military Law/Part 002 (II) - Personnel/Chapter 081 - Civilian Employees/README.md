@@ -104,7 +104,7 @@ Pub. L. 113–66, div. A, title XI, §1108, Dec. 26, 2013, 127 Stat. 889, provid
 
 "(a)
 
-Regulations.—No later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe regulations implementing the authority in subsection (a) of section 1111of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 1580 note prec.).
+Regulations.—No later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe regulations implementing the authority in subsection (a) of section 1111 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 1580 note prec.).
 
 "(b)
 
@@ -120,7 +120,7 @@ Pub. L. 111–84, div. A, title XI, §1111, Oct. 28, 2009, 123 Stat. 2495, as am
 
 "(a)
 
-Availability of Funds.—Funds authorized to be appropriated for the Department of Defense that are available for the purchase of contract services to meet a requirement that is anticipated to continue for five years or more shall be available to provide compensation for civilian employees of the Department to meet the same requirement.
+Availability of Funds.—Funds authorized to be appropriated for the Department of Defense that areavailable for the purchase of contract services to meet a requirement that is anticipated to continue for five years or more shall be available to provide compensation for civilian employees of the Department to meet the same requirement.
 
 "(b)
 
@@ -240,7 +240,7 @@ Objective, merit-based principles for personnel decisions.—The Secretary shall
 
 &emsp;"(7)
 
-Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) \[now 115b(g)\] of title 10, United States Code)."
+Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department ofDefense (as defined in section 115b(f) of title 10, United States Code) \[see now 10 U.S.C. 115b(h)\]."
 
 #### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates
 
@@ -322,7 +322,7 @@ Earlier termination.—If the Secretary of Defense, jointly with the Secretary o
 
 Pub. L. 110–181, div. A, title VIII, §851, Jan. 28, 2008, 122 Stat. 247, which required that, in updates of the strategic human capital plan, the Secretary of Defense was to include a separate section focused on the defense acquisition workforce, was repealed by Pub. L. 111–84, div. A, title XI, §1108(c)(3), Oct. 28, 2009, 123 Stat. 2492.
 
-Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which required the Secretary of Defense to develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic human capital plan to shape and improve the civilian employee workforce of the Department of Defense, along with updates and the assessment of the Secretary of the progress of the Department in implementing the plan, and required the Comptroller General to submit to the Committees on Armed Services areport on the plan, was repealed by Pub. L. 111–84, div. A, title XI, §1108(c)(1), Oct. 28, 2009, 123 Stat. 2491.
+Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which required the Secretary of Defense to develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic human capital plan to shape and improve the civilian employee workforce of the Department of Defense, along with updates and the assessment of the Secretary of the progress of the Department in implementing the plan, and required the Comptroller General to submit to the Committees on Armed Services a report on the plan, was repealed by Pub. L. 111–84, div. A, title XI, §1108(c)(1), Oct. 28, 2009, 123 Stat. 2491.
 
 
 ---

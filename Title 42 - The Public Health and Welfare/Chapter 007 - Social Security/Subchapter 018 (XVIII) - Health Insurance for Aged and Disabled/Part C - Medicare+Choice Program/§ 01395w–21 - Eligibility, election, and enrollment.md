@@ -190,7 +190,7 @@
 
 #### (C) Rights
 
-&emsp;&emsp;A general description of procedural rights (including grievance and appeals procedures)of beneficiaries under the original medicare fee-for-service program and the Medicare+Choice program and the right to be protected against discrimination based on health status-related factors under section 1395w–22(b) of this title.
+&emsp;&emsp;A general description of procedural rights (including grievance and appeals procedures) of beneficiaries under the original medicare fee-for-service program and the Medicare+Choice program and the right to be protected against discrimination based on health status-related factors under section 1395w–22(b) of this title.
 
 #### (D) Information on medigap and medicare select
 
@@ -346,7 +346,7 @@
 
 &emsp;&emsp;&emsp;(i) with respect to a year before 2002, the month of November before such year;
 
-&emsp;&emsp;&emsp;(ii) with respect to 2002, 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year;
+&emsp;&emsp;&emsp;(ii) with respect to 2002, 2003, 2004, and 2005, the period beginning on November 15and ending on December 31 of the year before such year;
 
 &emsp;&emsp;&emsp;(iii) with respect to 2006, the period beginning on November 15, 2005, and ending on May 15, 2006;
 
@@ -408,7 +408,7 @@
 
 #### (1) During initial coverage election period
 
-&emsp;An election of coverage made during the initial coverage election period under subsection (e)(1) of this section shall take effect upon the date the individual becomes entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, except as the Secretary may provide (consistent with section 1395q of this title) in order to prevent retroactive coverage.
+&emsp;An election of coverage made during the initial coverage election period under subsection (e)(1) of this section shall take effect upon thedate the individual becomes entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, except as the Secretary may provide (consistent with section 1395q of this title) in order to prevent retroactive coverage.
 
 #### (2) During continuous open enrollment periods
 
@@ -480,7 +480,7 @@
 
 #### (2) Review
 
-&emsp;The standards established under section 1395w–26 of this title shall include guidelines for the review of any material or form submitted and under such guidelines the Secretary shall disapprove (or later require the correction of) such material or form if the material or form is materially inaccurate or misleading or otherwise makes a material misrepresentation.
+&emsp;The standards established under section 1395w–26 of this title shall include guidelinesfor the review of any material or form submitted and under such guidelines the Secretary shall disapprove (or later require the correction of) such material or form if the material or form is materially inaccurate or misleading or otherwise makes a material misrepresentation.
 
 #### (3) Deemed approval (1-stop shopping)
 
@@ -544,7 +544,7 @@
 
 #### (B) Cross-selling
 
-&emsp;&emsp;The sale of other non-health related products (such as annuities and life insurance) during any sales or marketing activity or presentation conducted with respect to a Medicare Advantage plan.
+&emsp;&emsp;The sale of other non-health related products (such as annuities and life insurance)during any sales or marketing activity or presentation conducted with respect to a Medicare Advantage plan.
 
 #### (C) Meals
 
@@ -784,7 +784,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §501(d)\], Nov. 29, 1999, 11
 
 "(1) The amendments made by subsection (a) \[amending this section and section 1395ss of this title\] apply to notices of impending terminations or discontinuances made on or after the date of the enactment of this Act \[Nov. 29, 1999\].
 
-"(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after the date of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act."
+"(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after the date of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice paymentareas from a service area that occur before, on, or after the date of the enactment of this Act."
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §502(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, provided that: "The amendments made by this section \[amending this section\] apply to elections and changes of coverage made on or after January 1, 2000."
 
@@ -792,7 +792,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §519(b)\], Nov. 29, 1999, 11
 
 #### Regulations
 
-Pub. L. 108–173, title II, §223(b), Dec. 8, 2003, 117 Stat. 2207, provided that: "The Secretary \[of Health and Human Services\] shall revise the regulations previously promulgated to carry out part C of title XVIII of the Social Security Act \[42 U.S.C. 1395w–21 et seq.\] tocarry out the provisions of this Act \[see Tables for classification\]."
+Pub. L. 108–173, title II, §223(b), Dec. 8, 2003, 117 Stat. 2207, provided that: "The Secretary \[of Health and Human Services\] shall revise the regulations previously promulgated to carry out part C of title XVIII of the Social Security Act \[42 U.S.C. 1395w–21 et seq.\] to carry out the provisions of this Act \[see Tables for classification\]."
 
 #### Construction
 
@@ -846,7 +846,7 @@ Enrollment in new plans.—During the period beginning on January 1, 2008, and e
 
 Pub. L. 108–173, title II, §231(d), Dec. 8, 2003, 117 Stat. 2208, provided that: "In promulgating regulations to carry out section 1851(a)(2)(A)(ii) of the Social Security Act \[42 U.S.C. 1395w–21(a)(2)(A)(ii)\] (as added by subsection (a)) and section 1859(b)(6) of such Act \[42 U.S.C. 1395w–28(b)(6)\] (as added by subsection (b)), the Secretary \[of Health and Human Services\] may provide (notwithstanding section 1859(b)(6)(A) of such Act) for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals."
 
-Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: "Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\]."
+Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: "Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact ofspecialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\]."
 
 #### MedPAC Study on Consumer Coalitions
 
@@ -854,7 +854,7 @@ Pub. L. 106–554, §1(a)(6) \[title I, §124\], Dec. 21, 2000, 114 Stat. 2763, 
 
 #### Report on Accounting for VA and DOD Expenditures for Medicare Beneficiaries
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §551\], Nov. 29, 1999, 113 Stat. 1536, 1501A–392, directed the Secretaryof Health and Human Services, jointly with the Secretaries of Defense and of Veterans Affairs, to submit to Congress, no later than Apr. 1, 2001, a report on the estimated use of health care services furnished by the Departments of Defense and of Veterans Affairs to medicare beneficiaries.
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §551\], Nov. 29, 1999, 113 Stat. 1536, 1501A–392, directed the Secretary of Health and Human Services, jointly with the Secretaries of Defense and of Veterans Affairs, to submit to Congress, no later than Apr. 1, 2001, a report on the estimated use of health care services furnished by the Departments of Defense and of Veterans Affairs to medicare beneficiaries.
 
 #### Report on Medicare MSA (Medical Savings Account) Plans
 

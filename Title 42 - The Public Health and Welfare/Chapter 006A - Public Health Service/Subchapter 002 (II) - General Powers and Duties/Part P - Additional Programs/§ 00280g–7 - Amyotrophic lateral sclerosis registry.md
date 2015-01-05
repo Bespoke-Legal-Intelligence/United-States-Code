@@ -6,7 +6,7 @@
 
 &emsp;Not later than 1 year after the receipt of the report described in subsection (b)(2)(A), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may, if scientifically advisable—
 
-&emsp;&emsp;(A) develop a system to collect data on amyotrophic lateral sclerosis (referred to inthis section as "ALS") and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS, including information with respect to the incidence and prevalence of the disease in the United States; and
+&emsp;&emsp;(A) develop a system to collect data on amyotrophic lateral sclerosis (referred to in this section as "ALS") and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS, including information with respect to the incidence and prevalence of the disease in the United States; and
 
 &emsp;&emsp;(B) establish a national registry for the collection and storage of such data to develop a population-based registry of cases in the United States of ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS.
 
@@ -86,7 +86,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;In establishing the National ALS Registry under subsection (a), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may—
 
-&emsp;&emsp;(A) identify, build upon, expand, and coordinate among existing data and surveillancesystems, surveys, registries, and other Federal public health and environmental infrastructure wherever possible, which may include—
+&emsp;&emsp;(A) identify, build upon, expand, and coordinate among existing data and surveillance systems, surveys, registries, and other Federal public health and environmental infrastructure wherever possible, which may include—
 
 &emsp;&emsp;&emsp;(i) any registry pilot projects previously supported by the Centers for Disease Control and Prevention;
 
@@ -94,7 +94,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;&emsp;&emsp;(iii) the DNA and Cell Line Repository of the National Institute of Neurological Disorders and Stroke Human Genetics Resource Center at the National Institutes of Health;
 
-&emsp;&emsp;&emsp;(iv) Agency for Toxic Substances and Disease Registry studies, including studies conducted in Illinois, Missouri, El Paso and San Antonio, Texas, and Massachusetts;
+&emsp;&emsp;&emsp;(iv) Agency for Toxic Substances and Disease Registry studies, including studiesconducted in Illinois, Missouri, El Paso and San Antonio, Texas, and Massachusetts;
 
 &emsp;&emsp;&emsp;(v) State-based ALS registries;
 

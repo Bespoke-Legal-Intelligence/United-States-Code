@@ -20,7 +20,7 @@
 | [6516\.](%C2%A7%2006516%20-%20Peer%20review%20of%20certifying%20agents.md) | Peer review of certifying agents. |
 | [6517\.](%C2%A7%2006517%20-%20National%20List.md) | National List. |
 | [6518\.](%C2%A7%2006518%20-%20National%20Organic%20Standards%20Board.md) | National Organic Standards Board. |
-| [6519\.](%C2%A7%2006519%20-%20Violations%20of%20chapter.md) | Violations of chapter. |
+| [6519\.](%C2%A7%2006519%20-%20Recordkeeping%2C%20investigations%2C%20and%20enforcement.md) | Recordkeeping, investigations, and enforcement. |
 | [6520\.](%C2%A7%2006520%20-%20Administrative%20appeal.md) | Administrative appeal. |
 | [6521\.](%C2%A7%2006521%20-%20Administration.md) | Administration. |
 | [6522\.](%C2%A7%2006522%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -51,7 +51,7 @@
 - [&sect; 06516 - Peer review of certifying agents](%C2%A7%2006516%20-%20Peer%20review%20of%20certifying%20agents.md)
 - [&sect; 06517 - National List](%C2%A7%2006517%20-%20National%20List.md)
 - [&sect; 06518 - National Organic Standards Board](%C2%A7%2006518%20-%20National%20Organic%20Standards%20Board.md)
-- [&sect; 06519 - Violations of chapter](%C2%A7%2006519%20-%20Violations%20of%20chapter.md)
+- [&sect; 06519 - Recordkeeping, investigations, and enforcement](%C2%A7%2006519%20-%20Recordkeeping%2C%20investigations%2C%20and%20enforcement.md)
 - [&sect; 06520 - Administrative appeal](%C2%A7%2006520%20-%20Administrative%20appeal.md)
 - [&sect; 06521 - Administration](%C2%A7%2006521%20-%20Administration.md)
 - [&sect; 06522 - Authorization of appropriations](%C2%A7%2006522%20-%20Authorization%20of%20appropriations.md)

@@ -18,7 +18,7 @@ The Fund shall consult with and consider the views of the appropriate Federal ba
 
 #### (2) Timing of response from appropriate Federal banking agency
 
-&emsp;If the information, reports, or records requested by the Fund pursuant to paragraph (1)are not provided by the appropriate Federal banking agency in less than 15 calendar days after the date on which the material is requested, the Fund may request the information from or impose the recordkeeping or reporting requirements directly on such institutions with notice to the appropriate Federal banking agency.
+&emsp;If the information, reports, or records requested by the Fund pursuant to paragraph (1) are not provided by the appropriate Federal banking agency in less than 15 calendar days after the date on which the material is requested, the Fund may request the information from or impose the recordkeeping or reporting requirements directly on such institutions with notice to the appropriate Federal banking agency.
 
 #### (3) Elimination of duplicative information and reporting requirements
 

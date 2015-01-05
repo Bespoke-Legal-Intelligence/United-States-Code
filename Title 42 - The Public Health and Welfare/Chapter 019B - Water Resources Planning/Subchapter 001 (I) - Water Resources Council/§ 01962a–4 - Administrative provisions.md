@@ -10,7 +10,7 @@ Any member of the Council is authorized to administer oaths when it is determine
 
 #### (c) Records; public inspection
 
-To the extent permitted by law, all appropriate records and papers of the Council may bemade available for public inspection during ordinary office hours.
+To the extent permitted by law, all appropriate records and papers of the Council may be made available for public inspection during ordinary office hours.
 
 #### (d) Information and personnel from other Federal agencies
 

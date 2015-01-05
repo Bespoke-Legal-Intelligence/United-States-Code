@@ -82,7 +82,7 @@
 
 (h)(1) A headstone or marker may not be furnished under subsection (a) for the unmarked grave of a person described in section 2411(b) of this title.
 
-(2) A memorial headstone or marker may not be furnished under subsection (b) for the purposeof commemorating a person described in section 2411(b) of this title.
+(2) A memorial headstone or marker may not be furnished under subsection (b) for the purpose of commemorating a person described in section 2411(b) of this title.
 
 (3) A headstone or marker may not be furnished under subsection (d) for the grave of a person described in section 2411(b) of this title.
 
@@ -248,7 +248,7 @@ Pub. L. 101–237, title V, §504(b), Dec. 18, 1989, 103 Stat. 2094, provided th
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, on, or after Oct. 17, 1981, seesection 701(b)(6) of Pub. L. 97–66, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, on, or after Oct. 17, 1981, see section 701(b)(6) of Pub. L. 97–66, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1980 Amendment
 

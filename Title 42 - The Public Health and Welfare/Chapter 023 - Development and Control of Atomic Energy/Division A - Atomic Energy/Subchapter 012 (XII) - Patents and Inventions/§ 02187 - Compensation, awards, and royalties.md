@@ -10,7 +10,7 @@ The Commission shall designate a Patent Compensation Board to consider applicati
 
 (2) Any person seeking to obtain the just compensation provided in section 2181 of this title shall make application therefor to the Commission in accordance with such procedures as the Commission may by regulation establish.
 
-(3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, an award. The Commission may also, after consultation with the General Advisory Committee, and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
+(3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, an award. The Commission may also, after consultation with the General Advisory Committee,and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
 
 #### (c) Standards
 
@@ -46,7 +46,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided forby law. See Pub. L. 92–463, §14, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See Pub. L. 92–463, §14, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 11477. Awards by Commission Without Approval of President
 

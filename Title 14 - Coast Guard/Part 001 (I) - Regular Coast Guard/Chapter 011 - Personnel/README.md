@@ -69,6 +69,7 @@
 | [293\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000293%20-%20Compulsory%20retirement.md) | Compulsory retirement. |
 | [294\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000294%20-%20Retirement%20for%20physical%20disability%20after%20selection%20for%20promotion%3B%20grade%20in%20which%20retired.md) | Retirement for physical disability after selection for promotion; grade in which retired. |
 | [295\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000295%20-%20Deferment%20of%20retirement%20or%20separation%20for%20medical%20reasons.md) | Deferment of retirement or separation for medical reasons. |
+| [296\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000296%20-%20Flag%20officers.md) | Flag officers. |
 | \[301 to 315. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -143,6 +144,7 @@
 | [425\.](General%20Provisions/%C2%A7%2000425%20-%20Board%20for%20Correction%20of%20Military%20Records%20deadline.md) | Board for Correction of Military Records deadline. |
 | [426\.](General%20Provisions/%C2%A7%2000426%20-%20Emergency%20leave%20retention%20authority.md) | Emergency leave retention authority. |
 | [427\.](General%20Provisions/%C2%A7%2000427%20-%20Prohibition%20of%20certain%20involuntary%20administrative%20separations.md) | Prohibition of certain involuntary administrative separations. |
+| [428\.](General%20Provisions/%C2%A7%2000428%20-%20Sea%20service%20letters.md) | Sea service letters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -158,11 +160,13 @@
 
 #### Historical and Revision Notes
 
-This chapter, dealing with the appointment, enlistment, promotion, retirement and recall of all military personnel, covers subject matter which has been greatly affected by war-time legislation and, therefore, has required rather extensive rewriting of existing law in order to correlate all of the various provisions. An attempt has been made to provide for enlisted men and warrant officers in a manner similar to the way that commissioned officers are provided for; for example, the act of February 21, 1946, ch. 34, 60 Stat. 29 (title 14, U.S.C., 1946 ed., §162a), made provision for the retirement of commissioned officers on half pay after twenty years naval service, and a prewar statute provided for twenty year retirement of enlisted men on half pay. This leaves warrant officers the only military group not eligible for retirement in twenty years, and a provision such as found in section 305 of this title, granting such retirement, seems clearly indicated in order to avoid unjust discrimination.
+This chapter, dealing with the appointment, enlistment, promotion, retirement and recall of all militarypersonnel, covers subject matter which has been greatly affected by war-time legislation and, therefore, has required rather extensive rewriting of existing law in order to correlate all of the various provisions. An attempt has been made to provide for enlisted men and warrant officers in a manner similar to the way that commissioned officers are provided for; for example, the act of February 21, 1946, ch. 34, 60 Stat. 29 (title 14, U.S.C., 1946 ed., §162a), made provision for the retirement of commissioned officers on half pay after twenty years naval service, and a prewar statute provided for twenty year retirement of enlisted men on half pay. This leaves warrant officers the only military group not eligible for retirement in twenty years, and a provision such as found in section 305 of this title, granting such retirement, seems clearly indicated in order to avoid unjust discrimination.
 
 The subject matter seemed to break down into the sub-heads of "Commissioned Officers", "Warrant Officers", "Enlisted Men", and "General Provisions". Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term "commissioned officer" includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as "Coast Guard personnel" or "personnel of the Coast Guard", as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–281, title II, §212(b), title III, §305(b)(2), Dec. 18, 2014, 128 Stat. 3029, 3044, added items 296 and 428.
 
 <b>2012</b>—Pub. L. 112–213, title II, §§208(d), 209(b), Dec. 20, 2012, 126 Stat. 1549, 1550, added items 263 and 427.
 

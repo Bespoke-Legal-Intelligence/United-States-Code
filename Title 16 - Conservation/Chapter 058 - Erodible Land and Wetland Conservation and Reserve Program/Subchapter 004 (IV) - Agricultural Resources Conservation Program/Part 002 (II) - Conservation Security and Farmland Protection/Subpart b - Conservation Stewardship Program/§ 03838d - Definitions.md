@@ -2,11 +2,19 @@
 
 In this subpart:
 
-#### (1) Conservation activities
+#### (1) Agricultural operation
+
+&emsp;The term "agricultural operation" means all eligible land, whether or not contiguous, that is—
+
+&emsp;&emsp;(A) under the effective control of a producer at the time the producer enters into a contract under the program; and
+
+&emsp;&emsp;(B) operated with equipment, labor, management, and production or cultivation practices that are substantially separate from other agricultural operations, as determined by the Secretary.
+
+#### (2) Conservation activities
 
 #### (A) In general
 
-&emsp;&emsp;The term "conservation activities" means conservation systems, practices, or management measures that are designed to address a resource concern.
+&emsp;&emsp;The term "conservation activities" means conservation systems, practices, or management measures.
 
 #### (B) Inclusions
 
@@ -14,17 +22,13 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(i) structural measures, vegetative measures, and land management measures, including agriculture drainage management systems, as determined by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) planning needed to address a resource concern.
-
-#### (2) Conservation measurement tools
-
-&emsp;The term "conservation measurement tools" means procedures to estimate the level of environmental benefit to be achieved by a producer in implementing conservation activities, including indices or other measures developed by the Secretary.
+&emsp;&emsp;&emsp;(ii) planning needed to address a priority resource concern.
 
 #### (3) Conservation stewardship plan
 
 &emsp;The term "conservation stewardship plan" means a plan that—
 
-&emsp;&emsp;(A) identifies and inventories resource concerns;
+&emsp;&emsp;(A) identifies and inventories priority resource concerns;
 
 &emsp;&emsp;(B) establishes benchmark data and conservation objectives;
 
@@ -32,27 +36,51 @@ In this subpart:
 
 &emsp;&emsp;(D) includes a schedule and evaluation plan for the planning, installation, and management of the new and existing conservation activities.
 
-#### (4) Priority resource concern
+#### (4) Eligible land
 
-&emsp;The term "priority resource concern" means a resource concern that is identified at the State level, in consultation with the State Technical Committee, as a priority for a particular watershed or area of the State.
+#### (A) In general
 
-#### (5) Program
+&emsp;&emsp;The term "eligible land" means—
+
+&emsp;&emsp;&emsp;(i) private or tribal land on which agricultural commodities, livestock, or forest-related products are produced; and
+
+&emsp;&emsp;&emsp;(ii) lands associated with the land described in clause (i) on which priority resource concerns could be addressed through a contract under the program.
+
+#### (B) Inclusions
+
+&emsp;&emsp;The term "eligible land" includes—
+
+&emsp;&emsp;&emsp;(i) cropland;
+
+&emsp;&emsp;&emsp;(ii) grassland;
+
+&emsp;&emsp;&emsp;(iii) rangeland;
+
+&emsp;&emsp;&emsp;(iv) pasture land;
+
+&emsp;&emsp;&emsp;(v) nonindustrial private forest land; and
+
+&emsp;&emsp;&emsp;(vi) other land in agricultural areas (including cropped woodland, marshes, and agricultural land used or capable of being used for the production of livestock), as determined by the Secretary.
+
+#### (5) Priority resource concern
+
+&emsp;The term "priority resource concern" means a natural resource concern or problem, as determined by the Secretary, that—
+
+&emsp;&emsp;(A) is identified at the national, State, or local level as a priority for a particular area of a State;
+
+&emsp;&emsp;(B) represents a significant concern in a State or region; and
+
+&emsp;&emsp;(C) is likely to be addressed successfully through the implementation of conservation activities under this program.
+
+#### (6) Program
 
 &emsp;The term "program" means the conservation stewardship program established by this subpart.
 
-#### (6) Resource concern
-
-&emsp;The term "resource concern" means a specific natural resource impairment or problem, as determined by the Secretary, that—
-
-&emsp;&emsp;(A) represents a significant concern in a State or region; and
-
-&emsp;&emsp;(B) is likely to be addressed successfully through the implementation of conservation activities by producers on land eligible for enrollment in the program.
-
 #### (7) Stewardship threshold
 
-&emsp;The term "stewardship threshold" means the level of natural resource conservation and environmental management required, as determined by the Secretary using conservation measurement tools, to improve and conserve the quality and condition of a resource concern.
+&emsp;The term "stewardship threshold" means the level of management required, as determined by the Secretary, to conserve and improve the quality and condition of a natural resource.
 
-(Pub. L. 99–198, title XII, §1238D, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1768.)
+(Pub. L. 99–198, title XII, §1238D, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1768; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 721.)
 
 #### Codification
 
@@ -62,7 +90,23 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 A prior section 3838d, Pub. L. 99–198, title XII, §1238D, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3595, related to technical assistance for water quality protection, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section defined terms for this subpart.
+
 #### Effective Date
 
 Enactment of this subpart and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+
+#### Effect on Existing Contracts
+
+Pub. L. 113–79, title II, §2101(b), Feb. 7, 2014, 128 Stat. 728, provided that:
+
+"(1)
+
+In general.—The amendment made by this section \[amending sections 3838d to 3838g of this title\] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838d et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.
+
+"(2)
+
+Conservation stewardship program.—Funds made available under section 1241(a)(4) of the Food Security Act of 1985 (16 U.S.C. 3841(a)(4)) (as amended by section 2601(a) of this title) may be used to administer and make payments to program participants that enrolled into contracts during any of fiscal years 2009 through 2013."
 

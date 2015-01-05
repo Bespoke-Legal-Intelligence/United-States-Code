@@ -222,7 +222,7 @@ Implementation.—Any program proposed under subsection (a) may be implemented o
 
 "(c)
 
-Availability of Funds.—Any payment made by the Director of the Federal Bureau of Investigation to carry out any program proposed to be established under subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose."
+Availability of Funds.—Any payment made by the Director of the Federal Bureau of Investigation to carry out any program proposed to be established under subsection (a) may be made in any fiscal year only tothe extent that appropriated funds are available for that purpose."
 
 #### Confirmation and Compensation of Director; Term of Service
 

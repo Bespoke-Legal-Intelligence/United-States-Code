@@ -68,7 +68,7 @@ In this section:
 
 #### (5) Covered installation
 
-&emsp;The term "covered installation" means a nuclear installation at which the occurrence of a nuclear incident could result in a request for funds under Article VII of the Convention.
+&emsp;The term "covered installation" means a nuclear installation at which the occurrenceof a nuclear incident could result in a request for funds under Article VII of the Convention.
 
 #### (6) Covered person
 
@@ -182,7 +182,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the nature and intended purpose of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) the quantity of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
+&emsp;&emsp;&emsp;&emsp;(II) the quantity of the goods and services supplied by each nuclear supplier toeach covered installation outside the United States;
 
 &emsp;&emsp;&emsp;&emsp;(III) the hazards associated with the supplied goods and services if the goods and services fail to achieve the intended purposes;
 
@@ -270,7 +270,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (B) Action by Secretary of Treasury
 
-&emsp;&emsp;The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdiction under Article XIII of the Convention with respect to the applicable covered incident.
+&emsp;&emsp;The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdictionunder Article XIII of the Convention with respect to the applicable covered incident.
 
 #### (3) Failure to pay
 
@@ -288,7 +288,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (A) In general
 
-&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United StatesCourt of Appeals for the District of Columbia Circuit.
+&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
 
 #### (B) Supreme Court jurisdiction
 

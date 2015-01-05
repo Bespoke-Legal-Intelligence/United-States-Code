@@ -10,7 +10,7 @@ The Congress finds and declares that—
 
 &emsp;(3) almost 35 per centum of all rare, threatened, and endangered species of animals are dependent on wetland ecosystems;
 
-&emsp;(4) wetland ecosystems provide substantial flood and storm control values and can obviate the need for expensive manmade control measures;
+&emsp;(4) wetland ecosystems provide substantial flood and storm control values and can obviatethe need for expensive manmade control measures;
 
 &emsp;(5) wetland ecosystems make a significant contribution to water availability and quality, recharging ground water, filtering surface runoff, and providing waste treatment;
 

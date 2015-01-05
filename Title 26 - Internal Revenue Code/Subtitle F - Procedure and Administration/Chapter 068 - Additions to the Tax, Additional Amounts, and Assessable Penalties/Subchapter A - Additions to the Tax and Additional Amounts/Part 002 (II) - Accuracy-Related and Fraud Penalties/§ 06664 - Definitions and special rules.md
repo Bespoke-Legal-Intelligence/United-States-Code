@@ -30,7 +30,7 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 #### (3) Special rule for certain valuation overstatements
 
-&emsp;In the case of any underpayment attributable to a substantial or gross valuation overstatement under chapter 1 with respect to charitable deduction property, paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—
+&emsp;In the case of any underpayment attributable to a substantial or gross valuationoverstatement under chapter 1 with respect to charitable deduction property, paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—
 
 &emsp;&emsp;(A) the claimed value of the property was based on a qualified appraisal made by a qualified appraiser, and
 
@@ -124,7 +124,7 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 #### Codification
 
-Section 1409(c) of Pub. L. 111–152, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment notes below.
+Section 1409(c) of Pub. L. 111–152, which directed the amendment of section 6664 without specifying the actto be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
 Section 1219(a)(3), (c)(2) of Pub. L. 109–280, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 

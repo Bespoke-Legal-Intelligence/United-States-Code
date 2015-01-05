@@ -100,7 +100,7 @@ An order shall contain the terms and provisions specified in this section.
 
 &emsp;&emsp;(A) 2 nominees shall be submitted for each appointment to the PromoFlor Council;
 
-&emsp;&emsp;(B) nominations for each appointment of a qualified wholesale handler, producer that is a qualified handler, or importer that is a qualified handler to the PromoFlor Councilshall be made by qualified wholesale handlers, producers that are qualified handlers, or importers that are qualified handlers, respectively, through an election process, in accordance with regulations issued by the Secretary;
+&emsp;&emsp;(B) nominations for each appointment of a qualified wholesale handler, producer that is a qualified handler, or importer that is a qualified handler to the PromoFlor Council shall be made by qualified wholesale handlers, producers that are qualified handlers, or importers that are qualified handlers, respectively, through an election process, in accordance with regulations issued by the Secretary;
 
 &emsp;&emsp;(C) nominations for—
 
@@ -170,13 +170,13 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 &emsp;(4) employ such persons as the PromoFlor Council determines are necessary, and set the compensation and define the duties of the persons;
 
-&emsp;(5)(A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d) of this section; and
+&emsp;(5)(A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d); and
 
-&emsp;(B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) of this section plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
+&emsp;(B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
 
-&emsp;(6)(A) implement plans and projects for cut flowers or cut greens promotion, consumer information, or related research, as provided in subsection (d) of this section; or
+&emsp;(6)(A) implement plans and projects for cut flowers or cut greens promotion, consumer information, or related research, as provided in subsection (d); or
 
-&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) of this section, and pay the costs of the implementation, or contracts and agreements, with funds received under the order;
+&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreements, with funds received under the order;
 
 &emsp;(7) evaluate on-going and completed plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
 
@@ -296,7 +296,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each qualified handler shall pay to the PromoFlor Council, in the manner provided in the order, an assessment on each sale of cut flowers or cut greens to a retailer or an exempt handler (including each transaction described in subparagraph (C)(ii)), except to the extent that the sale is excluded from assessments under section 6805(a) of this title.
+&emsp;&emsp;The order shall provide that each qualified handler shall pay to the PromoFlor Council, in the manner provided in the order, an assessment on each sale of cut flowers or cut greens to a retailer or an exempt handler\(including each transaction described in subparagraph (C)(ii)), except to the extent that the sale is excluded from assessments under section 6805(a) of this title.
 
 #### (B) Published lists
 
@@ -424,7 +424,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (ii) Requirements and procedures
 
-&emsp;&emsp;&emsp;A handler described in clause (i) shall establish that the handler is financially unable to make the payment in accordance with application and documentation requirements and review procedures established under rules recommended by thePromoFlor Council, approved by the Secretary, and issued after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title.
+&emsp;&emsp;&emsp;A handler described in clause (i) shall establish that the handler is financially unable to make the payment in accordance with application and documentation requirements and review procedures established under rules recommended by the PromoFlor Council, approved by the Secretary, and issued after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title.
 
 #### (B) Criteria and responsibility for determinations
 
@@ -454,7 +454,7 @@ The order shall prohibit the use of any funds received by the PromoFlor Council 
 
 #### (A) In general
 
-&emsp;&emsp;Information obtained from books, records, or reports under paragraph (1) or subsection (h)(6) of this section, or from reports required under section 6805(b)(3) of this title, shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the PromoFlor Council.
+&emsp;&emsp;Information obtained from books, records, or reports under paragraph (1) or subsection (h)(6), or from reports required under section 6805(b)(3) of this title, shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the PromoFlor Council.
 
 #### (B) Suits and hearings
 
@@ -504,7 +504,7 @@ The order shall prohibit the use of any funds received by the PromoFlor Council 
 
 #### (l) Other terms of order
 
-The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (includingprovision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section and for carrying out section 6805 of this title).
+The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) and for carrying out section 6805 of this title).
 
 (Pub. L. 103–190, §5, Dec. 14, 1993, 107 Stat. 2272.)
 

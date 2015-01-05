@@ -66,7 +66,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 &emsp;(18) delegate to associations such functions as the bank determines appropriate;
 
-&emsp;(19) amend and modify loan contracts, documents, and payment schedules, and release, subordinate, or substitute security for any of such items;
+&emsp;(19) amend and modify loan contracts, documents, and payment schedules, and release,subordinate, or substitute security for any of such items;
 
 &emsp;(20) for loans made by the bank, require associations to endorse notes and other obligations of borrowers from the bank;
 

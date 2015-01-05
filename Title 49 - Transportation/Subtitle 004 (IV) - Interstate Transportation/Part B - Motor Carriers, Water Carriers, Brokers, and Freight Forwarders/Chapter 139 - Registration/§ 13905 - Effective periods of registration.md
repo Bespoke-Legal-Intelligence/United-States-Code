@@ -60,7 +60,7 @@ Complaints and actions on secretary's own initiative.—On complaint or on the S
 
 &emsp;&emsp;&emsp;(i) this part;
 
-&emsp;&emsp;&emsp;(ii) an applicable regulation or order of the Secretary or the Board, including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations (or successor regulations), for transportation provided by an over-the-road bus; or
+&emsp;&emsp;&emsp;(ii) an applicable regulation or order of the Secretary or the Board, including the accessibility requirements established by the Secretary under subpart H of part 37 oftitle 49, Code of Federal Regulations (or successor regulations), for transportation provided by an over-the-road bus; or
 
 &emsp;&emsp;&emsp;(iii) a condition of its registration;
 
@@ -110,7 +110,7 @@ Protection of safety.—Notwithstanding subchapter II of chapter 5 of title 5, t
 
 &emsp;&emsp;(A) may suspend the registration of a motor carrier, a freight forwarder, or a broker for failure to comply with requirements of the Secretary pursuant to section 13904(e) or 13906 or an order or regulation of the Secretary prescribed under those sections; and
 
-&emsp;&emsp;(B) shall revoke the registration of a motor carrier that has been prohibited fromoperating in interstate commerce for failure to comply with the safety fitness requirements of section 31144.
+&emsp;&emsp;(B) shall revoke the registration of a motor carrier that has been prohibited from operating in interstate commerce for failure to comply with the safety fitness requirements of section 31144.
 
 &emsp;(2)
 

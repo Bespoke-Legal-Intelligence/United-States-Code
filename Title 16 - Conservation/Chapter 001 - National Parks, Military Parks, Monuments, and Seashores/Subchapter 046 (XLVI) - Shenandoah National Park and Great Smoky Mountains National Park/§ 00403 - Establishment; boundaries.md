@@ -10,7 +10,7 @@ Pub. L. 108–343, Oct. 18, 2004, 118 Stat. 1372, known as the "Tapoco Project L
 
 #### Land Exchange in Great Smoky Mountains National Park
 
-For land exchange between National Park Service and Eastern Band of Cherokee Indians involving tract in Great Smoky Mountains National Park, see section138 of Pub. L. 108–108, classified as a note under section 460a–5 of this title.
+For land exchange between National Park Service and Eastern Band of Cherokee Indians involving tract in Great Smoky Mountains National Park, see section 138 of Pub. L. 108–108, classified as a note under section 460a–5 of this title.
 
 #### Right-of-way Permits for Natural Gas Pipelines in Great Smoky Mountains National Park
 

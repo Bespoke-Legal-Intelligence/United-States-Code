@@ -16,7 +16,7 @@ Words "that similar" after "manner" were omitted as unnecessary.
 
 #### Change of Name
 
-Words "magistrate judge" substituted for "magistrate" in text pursuant to section 321 of Pub. L.101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judge" substituted for "magistrate" in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1968 Amendment
 

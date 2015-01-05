@@ -38,11 +38,11 @@
 
 &emsp;&emsp;&emsp;(viii) current or former applicants for, or recipients of, vocational rehabilitation services;
 
-&emsp;&emsp;&emsp;(ix) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects;
+&emsp;&emsp;&emsp;(ix) in a State in which one or more projects are funded under section 741 of this title, at least one representative of the directors of the projects located in such State;
 
 &emsp;&emsp;&emsp;(x) at least one representative of the State educational agency responsible for the public education of students with disabilities who are eligible to receive services under this subchapter and part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\]; and
 
-&emsp;&emsp;&emsp;(xi) at least one representative of the State workforce investment board.
+&emsp;&emsp;&emsp;(xi) at least one representative of the State workforce development board.
 
 #### (B) Separate Council
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(iii) at least one representative described in subparagraph (A)(iii);
 
-&emsp;&emsp;&emsp;(iv) at least one vocational rehabilitation counselor described in subparagraph (A)(iv), who shall serve as described in such subparagraph;
+&emsp;&emsp;&emsp;(iv) at least one vocational rehabilitation counselor described in subparagraph\(A)(iv), who shall serve as described in such subparagraph;
 
 &emsp;&emsp;&emsp;(v) at least one representative described in subparagraph (A)(v);
 
@@ -150,7 +150,7 @@
 
 #### (c) Functions of Council
 
-The Council shall, after consulting with the State workforce investment board—
+The Council shall, after consulting with the State workforce development board—
 
 &emsp;(1) review, analyze, and advise the designated State unit regarding the performance of the responsibilities of the unit under this subchapter, particularly responsibilities relating to—
 
@@ -178,7 +178,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 &emsp;(5) prepare and submit an annual report to the Governor and the Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
 
-&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act \[20 U.S.C. 1412(a)(20)\], the State Council on Developmental Disabilities established under section 15025 of title 42, the State mental health planning council established under section 300x–3(a) of title 42, and the State workforce investment board;
+&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act \[20 U.S.C. 1412(a)(20)\], the State Council on Developmental Disabilities established under section 15025 of title 42, the State mental health planning council established under section 300x–3(a) of title 42 and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 (29 U.S.C. 3001 et seq.);
 
 &emsp;(7) provide for coordination and the establishment of working relationships between the designated State agency and the Statewide Independent Living Council and centers for independent living within the State; and
 
@@ -218,11 +218,13 @@ The Council may use funds allocated to the Council by the designated State unit 
 
 The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
-(Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, §401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–446, title III, §305(h)(2), (3), Dec. 3, 2004, 118 Stat. 2805.)
+(Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, §401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–446, title III, §305(h)(2), (3), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, §415, July 22, 2014, 128 Stat. 1654.)
 
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(A)(x), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+The Assistive Technology Act of 1998, referred to in subsec. (c)(6), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -230,17 +232,29 @@ A prior section 725, Pub. L. 93–112, title I, §105, as added Pub. L. 102–56
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b)(1)(A)(ix). Pub. L. 113–128, §415(1)(A), added cl. (ix) and struck out former cl. (ix) which read as follows: "in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects;".
+
+Subsec. (b)(1)(A)(xi). Pub. L. 113–128, §415(1)(B), substituted "State workforce development board" for "State workforce investment board".
+
+Subsec. (c). Pub. L. 113–128, §415(2)(A), substituted "State workforce development board" for "State workforce investment board" in introductory provisions.
+
+Subsec. (c)(6). Pub. L. 113–128, §415(2)(B), substituted "section 300x–3(a) of title 42 and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 (29 U.S.C. 3001 et seq.);" for "section 300x–3(a) of title 42, and the State workforce investment board;".
+
 <b>2004</b>—Subsec. (b)(1)(A)(ii). Pub. L. 108–446, §305(h)(2), substituted "671 of the Individuals with Disabilities Education Act" for "682(a) of the Individuals with Disabilities Education Act (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)".
 
 Subsec. (c)(6). Pub. L. 108–446, §305(h)(3), substituted "section 612(a)(20)" for "section 612(a)(21)" and "Individuals with" for "Individual with" and struck out "(as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)" before ", the State Council".
 
 <b>2000</b>—Subsec. (c)(6). Pub. L. 106–402 substituted "the State Council on Developmental Disabilities established under section 15025 of title 42" for "the State Developmental Disabilities Council described in section 6024 of title 42".
 
-<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted "Governor or, in the case ofa State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity" for "Governor" in first sentence and "appointing authority" for "Governor" in second and third sentences.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted "Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity" for "Governor" in first sentence and "appointing authority" for "Governor" in second and third sentences.
 
 Subsec. (b)(4)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(B)\], substituted "section 705(20)(B)" for "section 705(20)(A)".
 
 Subsec. (b)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(C)\], substituted "chief executive officer" for "Governor" in heading and "appointing authority described in paragraph (3) shall" for "Governor shall" in text.
 
 Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(D)\], substituted "appointing authority described in paragraph (3)" for "Governor".
+
+#### Definitions of Terms in Pub. L. 113–128
+
+Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

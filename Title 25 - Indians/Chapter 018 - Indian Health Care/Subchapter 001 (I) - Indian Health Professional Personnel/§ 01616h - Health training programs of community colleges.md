@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;(3) The term "junior or community college" has the meaning given to such term by section 1058(e) <sup>1</sup> of title 20.
 
-(Pub. L. 94–437, title I, §115, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4797;amended Pub. L. 102–573, title I, §117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(I)(ii), Aug. 14, 2008, 122 Stat. 3467.)
+(Pub. L. 94–437, title I, §115, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4797; amended Pub. L. 102–573, title I, §117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(I)(ii), Aug. 14, 2008, 122 Stat. 3467.)
 
 #### References in Text
 

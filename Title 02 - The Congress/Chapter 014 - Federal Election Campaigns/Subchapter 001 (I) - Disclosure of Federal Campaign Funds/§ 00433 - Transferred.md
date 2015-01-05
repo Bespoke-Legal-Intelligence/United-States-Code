@@ -1,0 +1,6 @@
+### §433. Transferred
+
+#### Codification
+
+Section 433 was editorially reclassified as section 30103 of Title 52, Voting and Elections.
+

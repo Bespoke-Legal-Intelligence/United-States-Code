@@ -6,7 +6,7 @@ Establishment.—The Secretary of the Navy, with the advice and assistance of th
 
 (b)
 
-Commander.—The Marine Forces Reserve is commanded by the Commander, Marine Forces Reserve. The Commander, Marine Forces Reserve, reports directly to the Commandant of the Marine Corps.
+Commander.—The Marine Forces Reserve is commanded by the Commander, Marine Forces Reserve. The Commander, Marine ForcesReserve, reports directly to the Commandant of the Marine Corps.
 
 (c)
 

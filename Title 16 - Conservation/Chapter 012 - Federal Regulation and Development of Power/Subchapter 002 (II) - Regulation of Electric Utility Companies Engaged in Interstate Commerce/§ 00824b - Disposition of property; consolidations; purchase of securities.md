@@ -34,7 +34,7 @@ The Commission may grant any application for an order under this section in whol
 
 #### References in Text
 
-The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of Title 42 and Tables.
+The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§16451 et seq.) of subchapterXII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of Title 42 and Tables.
 
 #### Amendments
 

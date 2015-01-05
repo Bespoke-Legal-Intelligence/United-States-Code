@@ -2,7 +2,7 @@
 
 #### (a) Exchange authorized
 
-For the purpose of protecting and consolidating Federal lands within the Wilderness Area, the Secretary may carry out a land exchange with Tom J. Davis Livestock, Incorporated, to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in section 460nnn–105(a) of this title, consisting of a total of approximately 5,340 acres in exchangefor the private lands described in subsection (b) of this section.
+For the purpose of protecting and consolidating Federal lands within the Wilderness Area, the Secretary may carry out a land exchange with Tom J. Davis Livestock, Incorporated, to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in section 460nnn–105(a) of this title, consisting of a total of approximately 5,340 acres in exchange for the private lands described in subsection (b) of this section.
 
 #### (b) Receipt of non-Federal lands
 

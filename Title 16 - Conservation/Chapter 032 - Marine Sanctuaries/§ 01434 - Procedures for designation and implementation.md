@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) provide notice of the proposal in newspapers of general circulation or electronic media in the communities that may be affected by the proposal; and
 
-&emsp;&emsp;(C) no later than the day on which the notice required under subparagraph (A) is submitted to the Office of the Federal Register, submit a copy of that notice and the draftsanctuary designation documents prepared pursuant to paragraph (2), including an executive summary, to the Committee on Resources of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Governor of each State in which any part of the proposed sanctuary would be located.
+&emsp;&emsp;(C) no later than the day on which the notice required under subparagraph (A) is submitted to the Office of the Federal Register, submit a copy of that notice and the draft sanctuary designation documents prepared pursuant to paragraph (2), including an executive summary, to the Committee on Resources of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Governor of each State in which any part of the proposed sanctuary would be located.
 
 #### (2) Sanctuary designation documents
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(ii) Proposed mechanisms to coordinate existing regulatory and management authorities within the area.
 
-&emsp;&emsp;&emsp;(iii) The proposed goals and objectives, management responsibilities, resource studies, and appropriate strategies for managing sanctuary resources of the proposed sanctuary, including interpretation and education, innovative management strategies, research, monitoring and assessment, resource protection, restoration, enforcement, and surveillance activities.
+&emsp;&emsp;&emsp;(iii) The proposed goals and objectives, management responsibilities, resourcestudies, and appropriate strategies for managing sanctuary resources of the proposed sanctuary, including interpretation and education, innovative management strategies, research, monitoring and assessment, resource protection, restoration, enforcement, and surveillance activities.
 
 &emsp;&emsp;&emsp;(iv) An evaluation of the advantages of cooperative State and Federal management if all or part of the proposed sanctuary is within the territorial limits of any State or is superjacent to the subsoil and seabed within the seaward boundary of a State, as that boundary is established under the Submerged Lands Act (43 U.S.C. 1301 et seq.).
 
@@ -62,13 +62,13 @@
 
 #### (6) Committee action
 
-&emsp;After receiving the documents under subsection (a)(1)(C) of this section, the Committeeon Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate may each hold hearings on the proposed designation and on the matters set forth in the documents. If within the forty-five day period of continuous session of Congress beginning on the date of submission of the documents, either Committee issues a report concerning matters addressed in the documents, the Secretary shall consider this report before publishing a notice to designate the national marine sanctuary.
+&emsp;After receiving the documents under subsection (a)(1)(C) of this section, the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate may each hold hearings on the proposed designation and on the matters set forth in the documents. If within the forty-five day period of continuous session of Congress beginning on the date of submission of the documents, either Committee issues a report concerning matters addressed in the documents, the Secretary shall consider this report before publishing a notice to designate the national marine sanctuary.
 
 #### (b) Taking effect of designations
 
 #### (1) Notice
 
-&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
+&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect inthe area of the sanctuary lying within the seaward boundary of the State.
 
 #### (2) Withdrawal of designation
 
@@ -114,7 +114,7 @@
 
 #### (e) Review of management plans
 
-Not more than five years after the date of designation of any national marine sanctuary, andthereafter at intervals not exceeding five years, the Secretary shall evaluate the substantive progress toward implementing the management plan and goals for the sanctuary, especially the effectiveness of site-specific management techniques and strategies, and shall revise the management plan and regulations as necessary to fulfill the purposes and policies of this chapter. This review shall include a prioritization of management objectives.
+Not more than five years after the date of designation of any national marine sanctuary, and thereafter at intervals not exceeding five years, the Secretary shall evaluate the substantive progress toward implementing the management plan and goals for the sanctuary, especially the effectiveness of site-specific management techniques and strategies, and shall revise the management plan and regulations as necessary to fulfill the purposes and policies of this chapter. This review shall include a prioritization of management objectives.
 
 #### (f) Limitation on designation of new sanctuaries
 

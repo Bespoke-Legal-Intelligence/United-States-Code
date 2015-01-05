@@ -96,7 +96,7 @@ Not later than 1 year after December 19, 2007, and annually thereafter through S
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out the demonstration project described in section <sup>3</sup> (b)(1), $10,000,000 for the period of fiscal years 2008 through 2012, and to carry out the demonstration project described in section <sup>3</sup> (b)(2), $10,000,000 for the period of fiscal years 2008 through 2012, to remain available until expended.
+There is authorized to be appropriated to carry out the demonstration project described insection <sup>3</sup> (b)(1), $10,000,000 for the period of fiscal years 2008 through 2012, and to carry out the demonstration project described in section <sup>3</sup> (b)(2), $10,000,000 for the period of fiscal years 2008 through 2012, to remain available until expended.
 
 (Pub. L. 110–140, title IV, §491, Dec. 19, 2007, 121 Stat. 1649.)
 

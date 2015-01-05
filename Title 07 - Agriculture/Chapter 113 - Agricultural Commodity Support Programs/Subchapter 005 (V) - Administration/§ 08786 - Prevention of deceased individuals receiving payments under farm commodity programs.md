@@ -4,7 +4,7 @@
 
 Not later than 180 days after the date of enactment of this Act, the Secretary shall promulgate regulations that—
 
-&emsp;(1) describe the circumstances under which, in order to allow for the settlement of estatesand for related purposes, payments may be issued in the name of a deceased individual; and
+&emsp;(1) describe the circumstances under which, in order to allow for the settlement of estates and for related purposes, payments may be issued in the name of a deceased individual; and
 
 &emsp;(2) preclude the issuance of payments to, and on behalf of, deceased individuals that were not eligible for the payments.
 

@@ -48,7 +48,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 &emsp;(17) buy and sell obligations of or insured by the United States or any agency thereof or of any banks of the Farm Credit System;
 
-&emsp;(18) invest association funds in such obligations as may be authorized in regulations of the Farm Credit Administration and approved by the bank and deposit securities and current funds of the association with any member bank of the Federal Reserve System, with the Farm Credit Bank, or with any bank insured by the Federal Deposit Insurance Corporation, and pay fees therefor and receive interest thereon as may be agreed;
+&emsp;(18) invest association funds in such obligations as may be authorized in regulations of the Farm Credit Administration and approved by the bank and deposit securities and current funds of the association with any member bank of the Federal Reserve System, with theFarm Credit Bank, or with any bank insured by the Federal Deposit Insurance Corporation, and pay fees therefor and receive interest thereon as may be agreed;
 
 &emsp;(19) perform such other function delegated to the association by the Farm Credit Bank of the district;
 

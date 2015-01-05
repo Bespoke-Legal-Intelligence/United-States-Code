@@ -10,6 +10,10 @@
 
 &emsp;The information and guidelines contained in each report required under paragraph (1) shall be based on the preponderance of the scientific and medical knowledge which is current at the time the report is prepared.
 
+#### (3) Pregnant women and young children
+
+&emsp;Not later than the 2020 report and in each report thereafter, the Secretaries shall include national nutritional and dietary information and guidelines for pregnant women and children from birth until the age of 2.
+
 #### (b) Approval by Secretaries
 
 #### (1) Review
@@ -26,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) provide in such notice for a public comment period of thirty days; and
 
-&emsp;&emsp;&emsp;(iii) make available for public inspection and copying during normal business hours any comment received by the agency during such comment period.
+&emsp;&emsp;&emsp;(iii) make available for public inspection and copying during normal business hoursany comment received by the agency during such comment period.
 
 #### (B) Review of comments
 
@@ -62,9 +66,13 @@ This section does not place any limitations on—
 
 &emsp;(3) the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
-(Pub. L. 101–445, title III, §301, Oct. 22, 1990, 104 Stat. 1042.)
+(Pub. L. 101–445, title III, §301, Oct. 22, 1990, 104 Stat. 1042; Pub. L. 113–79, title IV, §4204, Feb. 7, 2014, 128 Stat. 822.)
 
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(3). Pub. L. 113–79 added par. (3).
 

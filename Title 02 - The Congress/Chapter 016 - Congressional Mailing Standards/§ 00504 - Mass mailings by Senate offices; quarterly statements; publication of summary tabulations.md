@@ -12,13 +12,13 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–283 inserted before period at end “, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses”.
+<b>1994</b>—Pub. L. 103–283 inserted before period at end ", and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses".
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–283, title I, §3(c), July 22, 1994, 108 Stat. 1427, provided that: “The amendments made by this section \[amending this section and section 4108 of this title\] shall be effective with respect to—
+Pub. L. 103–283, title I, §3(c), July 22, 1994, 108 Stat. 1427, provided that: "The amendments made by this section \[amending this section and section 4108 of this title\] shall be effective with respect to—
 
-&emsp;“(1) reports and statements covering periods beginning on and after October 1, 1994; and
+&emsp;"(1) reports and statements covering periods beginning on and after October 1, 1994; and
 
-&emsp;“(2) appropriations made and obligations incurred on and after such date.”
+&emsp;"(2) appropriations made and obligations incurred on and after such date."
 

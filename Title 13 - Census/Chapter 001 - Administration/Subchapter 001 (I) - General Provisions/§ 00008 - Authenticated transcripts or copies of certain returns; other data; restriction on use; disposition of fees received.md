@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 13, U.S.C., 1952 ed., §218, and section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (June 18, 1929, ch. 28, §18, 46 Stat. 25; July 15, 1949, ch. 338, title VI, §607, 63 Stat. 441).
+Based on title 13, U.S.C., 1952 ed., §218, and section 1442 of title 42, U.S.C., 1952 ed., The Public Health andWelfare (June 18, 1929, ch. 28, §18, 46 Stat. 25; July 15, 1949, ch. 338, title VI, §607, 63 Stat. 441).
 
 Section consolidates section 218 of title 13, U.S.C., 1952 ed., with that part of subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such section 218 applicable to the censuses of housing. For remainder of such section 1442 of title 42 (which has been transferred in its entirety to this revised title), see Distribution Table.
 

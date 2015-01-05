@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to traveland transportation allowances under section 474 of this title, and to transportation of his dependents, baggage, and household effects under sections 476 and 479 of this title, if otherwise qualified, for travel performed before the effective date of orders that direct him to make a change of station and that are later—
+Authority.—Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances under section 474 of this title, and to transportation of his dependents, baggage, and household effects under sections 476 and 479 of this title, if otherwise qualified, for travel performed before the effective date of orders that direct him to make a change of station and that are later—
 
 &emsp;(1) canceled, revoked, or modified to direct him to return to the station from which he was being transferred; or
 

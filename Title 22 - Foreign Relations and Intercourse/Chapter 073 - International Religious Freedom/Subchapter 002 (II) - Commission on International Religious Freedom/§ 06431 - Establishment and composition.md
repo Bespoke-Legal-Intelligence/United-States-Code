@@ -24,7 +24,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (A) In general
 
-&emsp;&emsp;Members of the Commission shall be selected among distinguished individualsnoted for their knowledge and experience in fields relevant to the issue of international religious freedom, including foreign affairs, direct experience abroad, human rights, and international law.
+&emsp;&emsp;Members of the Commission shall be selected among distinguished individuals noted for their knowledge and experience in fields relevant to the issue of international religious freedom, including foreign affairs, direct experience abroad, human rights, and international law.
 
 #### (B) Security clearances
 
@@ -48,15 +48,15 @@ There is established the United States Commission on International Religious Fre
 
 #### (B) Presidential appointments
 
-&emsp;&emsp;Of the three members of the Commission appointed by the President under subsection (b)(1)(B)(i) of this section, two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
+&emsp;&emsp;Of the three members of the Commission appointed by the President under subsection (b)(1)(B)(i), two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
 
 #### (C) Appointments by the President pro tempore of the Senate
 
-&emsp;&emsp;Of the three members of the Commission appointed by the President pro tempore of the Senate under subsection (b)(1)(B)(ii) of this section, one of the appointments made upon the recommendation of the leader in the Senate of the political party that is not the political party of the President shall be appointed to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
+&emsp;&emsp;Of the three members of the Commission appointed by the President pro tempore of the Senate under subsection (b)(1)(B)(ii), one of the appointments made upon the recommendation of the leader in the Senate of the political party that is not the political party of the President shall be appointed to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
 
 #### (D) Appointments by the Speaker of the House of Representatives
 
-&emsp;&emsp;Of the three members of the Commission appointed by the Speaker of the House of Representatives under subsection (b)(1)(B)(iii) of this section, one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
+&emsp;&emsp;Of the three members of the Commission appointed by the Speaker of the House of Representatives under subsection (b)(1)(B)(iii), one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
 
 #### (E) Appointments to 1-year terms
 
@@ -92,7 +92,7 @@ The Administrator of General Services shall provide to the Commission on a reimb
 
 #### (i) Funding
 
-Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular placesof business in the performance of services for the Commission. Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the "Federal Travel Regulation") and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
+Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the "Federal Travel Regulation") and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
 
 (Pub. L. 105–292, title II, §201, Oct. 27, 1998, 112 Stat. 2797; Pub. L. 106–55, §§1(a), 2(b), Aug. 17, 1999, 113 Stat. 401, 406; Pub. L. 107–228, div. A, title VI, §681(b)–(d), Sept. 30, 2002, 116 Stat. 1408, 1409; Pub. L. 112–75, §2, Dec. 23, 2011, 125 Stat. 1272.)
 

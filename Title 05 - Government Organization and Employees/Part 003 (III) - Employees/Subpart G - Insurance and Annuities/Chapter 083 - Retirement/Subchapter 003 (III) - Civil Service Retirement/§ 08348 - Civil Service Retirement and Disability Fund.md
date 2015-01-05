@@ -12,11 +12,11 @@
 
 &emsp;(3) is made available, subject to such annual limitation as the Congress may prescribe, for any expenses incurred by the Merit Systems Protection Board in the administration of appeals authorized under sections 8347(d) and 8461(e) of this title.
 
-(b) The Secretary of the Treasury may accept and credit to the Fund money received in the form of a donation, gift, legacy, or bequest, or otherwise contributed for the benefit of civil-service employees generally.
+(b) The Secretary of the Treasury may accept and credit to the Fund money received in the form of a donation, gift, legacy, or bequest, orotherwise contributed for the benefit of civil-service employees generally.
 
 (c) The Secretary shall immediately invest in interest-bearing securities of the United States such currently available portions of the Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
 
-(d) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are extended to authorize the issuance at par of public-debt obligations for purchase by the Fund. The obligations issued for purchase by the Fund shall have maturities fixed with due regard for the needs of the Fund and bear interest at a rate equal to the average market yield computed as of the end of the calendar month next preceding the date of the issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the publicdebt which are not due or callable until after the expiration of 4 years from the end of that calendar month. If the average market yield is not a multiple of 1/8 of 1 percent, the rate of interest on the obligations shall be the multiple of 1/8 of 1 percent nearest the average market yield.
+(d) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are extended to authorize the issuance at par of public-debt obligations for purchase by the Fund. The obligations issued for purchase by the Fund shall have maturities fixed with due regard for the needs of the Fund and bear interest at a rate equal to the average market yield computed as of the end of the calendar month next preceding the date of the issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of that calendar month. If the average market yield is not a multiple of 1/8 of 1 percent, the rate of interest on the obligations shall be the multiple of 1/8 of 1 percent nearest the average market yield.
 
 (e) The Secretary may purchase other interest-bearing obligations of the United States, or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price only if he determines that the purchases are in the public interest.
 
@@ -32,7 +32,7 @@
 
 (g) At the end of each fiscal year, the Office shall notify the Secretary of the Treasury of the amount equivalent to (1) interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the System, and (2) that portion of disbursement for annuities for that year which the Office estimates is attributable to credit allowed for military service, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title. Before closing the accounts for each fiscal year, the Secretary shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the following percentages of such amounts: 10 percent for 1971; 20 percent for 1972; 30 percent for 1973; 40 percent for 1974; 50 percent for 1975; 60 percent for 1976; 70 percent for 1977; 80 percent for 1978; 90 percent for 1979; and 100 percent for 1980 and for each fiscal year thereafter.
 
-(h)(1) In this subsection, the term “Postal surplus or supplemental liability” means the estimated difference, as determined by the Office, between—
+(h)(1) In this subsection, the term "Postal surplus or supplemental liability" means the estimated difference, as determined by the Office, between—
 
 &emsp;(A) the actuarial present value of all future benefits payable from the Fund under this subchapter to current or former employees of the United States Postal Service and attributable to civilian employment with the United States Postal Service; and
 
@@ -78,9 +78,9 @@
 
 (5) For purposes of this subsection and subsections (k) and (l) of this section—
 
-&emsp;(A) the term “public debt limit” means the limitation imposed by section 3101(b) of title 31; and
+&emsp;(A) the term "public debt limit" means the limitation imposed by section 3101(b) of title 31; and
 
-&emsp;(B) the term “debt issuance suspension period” means any period for which the Secretary of the Treasury determines for purposes of this subsection that the issuance of obligations of the United States may not be made without exceeding the public debt limit.
+&emsp;(B) the term "debt issuance suspension period" means any period for which the Secretary of the Treasury determines for purposes of this subsection that the issuance of obligations of the United States may not be made without exceeding the public debt limit.
 
 (k)(1) Subject to paragraph (2) of this subsection, the Secretary of the Treasury may sell or redeem securities, obligations, or other invested assets of the Fund before maturity in order to prevent the public debt of the United States from exceeding the public debt limit.
 
@@ -90,7 +90,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, titleVII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249.)
 
 Historical and Revision Notes<br>1966
 
@@ -108,7 +108,7 @@ Act
 
 5 U.S.C. 2267.
 
-July 31, 1956, ch. 804, §401 “Sec. 17”, 70 Stat. 759.
+July 31, 1956, ch. 804, §401 "Sec. 17", 70 Stat. 759.
 
 &nbsp;
 
@@ -118,13 +118,13 @@ Oct. 4, 1961, Pub. L. 87–350, §1(a), 75 Stat. 770.
 
 \[Uncodified\].
 
-Aug. 28, 1958, Pub. L. 85–844, §101 (par. under “Civil Service Retirement and Disability Fund”), 72 Stat. 1064.
+Aug. 28, 1958, Pub. L. 85–844, §101 (par. under "Civil Service Retirement and Disability Fund"), 72 Stat. 1064.
 
 In subsection (a), the first sentence is based on former section 2251(f), which is carried into section 8331.
 
-In subsection (f), the words “to carry out this subchapter” are substituted for “to continue this chapter in full force and effect”.
+In subsection (f), the words "to carry out this subchapter" are substituted for "to continue this chapter in full force and effect".
 
-In subsection (g), the words “after the enactment of this Act” are omitted as executed.
+In subsection (g), the words "after the enactment of this Act" are omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -160,53 +160,53 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 <b>2003</b>—Subsec. (h). Pub. L. 108–18, §2(c), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
-“(h)(1) Notwithstanding any other statute, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to active and retired Postal Service officers and employees, and to their survivors, when the increase results from an employee-management agreement under title 39, or any administrative action by the Postal Service taken pursuant to law, which authorizes increases in pay on which benefits are computed.
+"(h)(1) Notwithstanding any other statute, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to active and retired Postal Service officers and employees, and to their survivors, when the increase results from an employee-management agreement under title 39, or any administrative action by the Postal Service taken pursuant to law, which authorizes increases in pay on which benefits are computed.
 
-“(2) The estimated increase in the unfunded liability, referred to in paragraph (1) of this subsection, shall be determined by the Office of Personnel Management. The United States Postal Service shall pay the amount so determined to the Office in 30 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, with the first payment thereof due at the end of the fiscal year in which an increase in pay becomes effective.”
+"(2) The estimated increase in the unfunded liability, referred to in paragraph (1) of this subsection, shall be determined by the Office of Personnel Management. The United States Postal Service shall pay the amount so determined to the Office in 30 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, with the first payment thereof due at the end of the fiscal year in which an increase in pay becomes effective."
 
 Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read as follows:
 
-“(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July 1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under section 8340 of this title.
+"(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July 1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under section 8340 of this title.
 
-“(2) The estimated increase in the unfunded liability referred to in paragraph (1) of this subsection shall be determined by the Office after consultation with the Postal Service. The Postal Service shall pay the amount so determined to the Office in 15 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, and with the first payment thereof due at the end of the fiscal year in which the cost-of-living adjustment with respect to which the payment relates becomes effective.
+"(2) The estimated increase in the unfunded liability referred to in paragraph (1) of this subsection shall be determined by the Office after consultation with the Postal Service. The Postal Service shall pay the amount so determined to the Office in 15 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, and with the first payment thereof due at the end of the fiscal year in which the cost-of-living adjustment with respect to which the payment relates becomes effective.
 
-“(3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.”
+"(3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office."
 
-<b>1998</b>—Subsec. (g). Pub. L. 105–362 struck out at end “The Office shall report to the President and to the Congress the sums credited to the Fund under this subsection.”
+<b>1998</b>—Subsec. (g). Pub. L. 105–362 struck out at end "The Office shall report to the President and to the Congress the sums credited to the Fund under this subsection."
 
-<b>1996</b>—Subsec. (l)(1). Pub. L. 104–316 struck out at end “The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States.”
+<b>1996</b>—Subsec. (l)(1). Pub. L. 104–316 struck out at end "The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States."
 
-<b>1995</b>—Subsec. (a)(1)(B). Pub. L. 104–52 inserted “in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title,” after “of law),” and “or section 8345(k) or 8469 of this title” before semicolon at end.
+<b>1995</b>—Subsec. (a)(1)(B). Pub. L. 104–52 inserted "in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title," after "of law)," and "or section 8345(k) or 8469 of this title" before semicolon at end.
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–424 added par. (3).
 
-<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted "in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law)," before "and in withholding".
 
-Subsec. (i)(1). Pub. L. 101–510 substituted “1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991” for “1979”.
+Subsec. (i)(1). Pub. L. 101–510 substituted "1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991" for "1979".
 
-Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted “July 1, 1971” for “October 1, 1986” in two places.
+Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted "July 1, 1971" for "October 1, 1986" in two places.
 
 <b>1989</b>—Subsec. (m). Pub. L. 101–239 added subsec. (m).
 
-<b>1987</b>—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
+<b>1987</b>—Subsec. (i)(2). Pub. L. 100–203 substituted "The Panama Canal Commission shall pay to the Fund from funds available to it" for "The Secretary of the Treasury shall pay to the Fund from appropriations".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted "or 8462" and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
 
 Subsecs. (j) to (l). Pub. L. 99–509 added subsecs. (j) to (l).
 
-<b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–615 inserted “, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,”.
+<b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–615 inserted ", in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,".
 
-Subsec. (d). Pub. L. 98–216 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended,”.
+Subsec. (d). Pub. L. 98–216 substituted "chapter 31 of title 31" for "the Second Liberty Bond Act, as amended,".
 
-<b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–346 inserted “and in withholding taxes pursuant to section 3405 of title 26”.
+<b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–346 inserted "and in withholding taxes pursuant to section 3405 of title 26".
 
-Subsec. (g). Pub. L. 97–253, §306(f), inserted “, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title” after “allowed for military service”.
+Subsec. (g). Pub. L. 97–253, §306(f), inserted ", less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title" after "allowed for military service".
 
 <b>1979</b>—Subsec. (i). Pub. L. 96–70 added subsec. (i).
 
-<b>1978</b>—Subsecs. (a), (g), (h)(2). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a), (g), (h)(2). Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
 
-<b>1975</b>—Subsec. (h)(2). Pub. L. 94–183 substituted “30” for “thirty”.
+<b>1975</b>—Subsec. (h)(2). Pub. L. 94–183 substituted "30" for "thirty".
 
 <b>1974</b>—Subsec. (h). Pub. L. 93–349 added subsec. (h).
 
@@ -222,11 +222,11 @@ Amendment by Pub. L. 109–435 effective Oct. 1, 2006, see section 805(a) of Pub
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–18, §2(d)(2), Apr. 23, 2003, 117 Stat. 627, provided that: “Nothing in this subsection \[repealing subsec. (m) of this section and provisions set out as a note under this section\] shall be considered to affect any payments made before the date of the enactment of this Act \[Apr. 23, 2003\] under either of the provisions of law repealed by paragraph (1).”
+Pub. L. 108–18, §2(d)(2), Apr. 23, 2003, 117 Stat. 627, provided that: "Nothing in this subsection \[repealing subsec. (m) of this section and provisions set out as a note under this section\] shall be considered to affect any payments made before the date of the enactment of this Act \[Apr. 23, 2003\] under either of the provisions of law repealed by paragraph (1)."
 
 #### Effective Date of 1990 Amendment
 
-Section 7101(d) of Pub. L. 101–508 provided that: “This section and the amendments made by this section \[amending this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under this section\] shall take effect on October 1, 1990.”
+Section 7101(d) of Pub. L. 101–508 provided that: "This section and the amendments made by this section \[amending this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under this section\] shall take effect on October 1, 1990."
 
 #### Effective Date of 1989 Amendment
 
@@ -264,37 +264,37 @@ Amendment by Pub. L. 93–349 effective July 1, 1971, except that the Postal Ser
 
 #### Effective Date of 1969 Amendment
 
-Section 103(b)(1) of Pub. L. 91–93 provided that: “The provisions of subsection (g) of section 8348 of title 5, United States Code, as contained in the amendment made by subsection (a)(2) of this section, shall become effective at the beginning of the fiscal year which ends on June 30, 1971.”
+Section 103(b)(1) of Pub. L. 91–93 provided that: "The provisions of subsection (g) of section 8348 of title 5, United States Code, as contained in the amendment made by subsection (a)(2) of this section, shall become effective at the beginning of the fiscal year which ends on June 30, 1971."
 
 #### Review by Postal Regulatory Commission
 
 Pub. L. 109–435, title VIII, §802(c), Dec. 20, 2006, 120 Stat. 3250, provided that:
 
-“(1)
+"(1)
 
 In general.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Request for review.—Notwithstanding any other provision of this section \[amending this section and section 8334 of this title\] (including any amendment made by this section), any determination or redetermination made by the Office of Personnel Management under this section (including any amendment made by this section) shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this subsection.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of pension obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
+Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of pension obligations, to conduct a review in accordance with generally accepted actuarial practices and principles andto provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
 
-“(2)
+"(2)
 
-Reconsideration.—Upon receiving the report from the Commission under paragraph (1), the Office of Personnel Management shall reconsider its determination or redetermination in light of such report, and shall make any appropriate adjustments. The Office shall submit a report containing the results of its reconsideration to the Commission, the Postal Service, and Congress.”
+Reconsideration.—Upon receiving the report from the Commission under paragraph (1), the Office of Personnel Management shall reconsider its determination or redetermination in light of such report, and shall make any appropriate adjustments. The Office shall submit a report containing the results of its reconsideration to the Commission, the Postal Service, and Congress."
 
 #### Payments To Reimburse Fund for Increase in Unfunded Liability
 
 Pub. L. 105–261, div. C, title XXXI, §3154(l), Oct. 17, 1998, 112 Stat. 2256, provided that:
 
-“(1) The Department of Energy shall pay into the Civil Service Retirement and Disability Fund an amount determined by the Director of the Office of Personnel Management to be necessary to reimburse the Fund for any estimated increase in the unfunded liability of the Fund resulting from the amendments related to the Civil Service Retirement System under this section \[amending sections 3307, 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\], and for any estimated increase in the supplemental liability of the Fund resulting from the amendments related to the Federal Employees Retirement System under this section.
+"(1) The Department of Energy shall pay into the Civil Service Retirement and Disability Fund an amount determined by the Director of the Office of Personnel Management to be necessary to reimburse the Fund for any estimated increase in the unfunded liability of the Fund resulting from the amendments related to the Civil Service Retirement System under this section \[amending sections 3307, 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\], and for any estimated increase in the supplemental liability of the Fund resulting from the amendments related to the Federal Employees Retirement System under this section.
 
-“(2) The Department shall pay the amount so determined in five equal annual installments with interest computed at the rate used in the most recent valuation of the Federal Employees Retirement System.
+"(2) The Department shall pay the amount so determined in five equal annual installments with interest computed at the rate used in the most recent valuation of the Federal Employees Retirement System.
 
-“(3) The Department shall make payments under this subsection from amounts available for weapons activities of the Department.”
+"(3) The Department shall make payments under this subsection from amounts available for weapons activities of the Department."
 
 #### Payments by Postal Service Relating to Corrected Calculations for Past Retirement COLAs
 
@@ -304,9 +304,9 @@ Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, required t
 
 Pub. L. 102–484, div. D, title XLIV, §4436(d), Oct. 23, 1992, 106 Stat. 2724, as amended by Pub. L. 103–337, div. A, title III, §341(b)(2), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 105–85, div. A, title XI, §1106(b)(2), Nov. 18, 1997, 111 Stat. 1924, provided that:
 
-“(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees’ Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a major reduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
+"(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees' Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a major reduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
 
-“(2) This subsection shall apply with respect to applications for retirement benefits based on separations occurring before January 1, 2002.”
+"(2) This subsection shall apply with respect to applications for retirement benefits based on separations occurring before January 1, 2002."
 
 #### Pre-1991 Cost-of-Living Adjustments
 
@@ -316,7 +316,7 @@ Pub. L. 101–508, title VII, §7101(c), Nov. 5, 1990, 104 Stat. 1388–331, as 
 
 Pub. L. 101–508, title VII, §7103, Nov. 5, 1990, 104 Stat. 1388–333, required the United States Postal Service to pay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
 
-#### Certain Postal Service Annuitants; Size of Annual Installments To Fund Previous Years’ COLAs
+#### Certain Postal Service Annuitants; Size of Annual Installments To Fund Previous Years' COLAs
 
 Section 4002(b)(2) of Pub. L. 101–239, which provided that notwithstanding any provision of section 8348(m) of this title the estimated increase in the unfunded liability referred to in section 8348(m)(1) was to be payable based on annual installments equal to specified amounts for fiscal years 1987 to 1989, was repealed by Pub. L. 101–508, title VII, §7101(b), Nov. 5, 1990, 104 Stat. 1388–331.
 
@@ -326,7 +326,7 @@ Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made 
 
 #### Status of Original Subsec. (g) Provisions During Period From Oct. 20, 1969 to June 30, 1970
 
-Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as Effective Date of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
+Section 103(b)(2) of Pub. L. 91–93 provided that: "Paragraph (1) of this subsection \[set out as Effective Date of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment."
 
 #### Inapplicability to Benefits Under Pub. L. 89–737 of Prohibition Against Payment of Increased Annuity Benefit Without Compensating Appropriation
 
@@ -334,5 +334,5 @@ Section 3 of Pub. L. 89–737, Nov. 2, 1966, 80 Stat. 1164, which provided that 
 
 #### Redemption of Obligations Held Prior to Oct. 4, 1961; Reinvestment of Proceeds
 
-Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that: “All special issues in which the civil service retirement and disability fund is invested in accordance with section 17(d) of the Civil Service Retirement Act \[subsecs. (d) and (e) of this section\] as in effect prior to the enactment of this Act \[Oct. 4, 1961\] shall be redeemed and the moneys reinvested by the Secretary of the Treasury, as nearly as may be practicable, in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962, in accordance with such section 17(d), as amended by subsection (a) of this section.”
+Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that: "All special issues in which the civil service retirement and disability fund is invested in accordance with section 17(d) of the Civil Service Retirement Act \[subsecs. (d) and (e) of this section\] as in effect prior to the enactment of this Act \[Oct. 4, 1961\] shall be redeemed and the moneys reinvested by the Secretary of the Treasury, as nearly as may be practicable, in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962, in accordance with such section 17(d), as amended by subsection (a) of this section."
 

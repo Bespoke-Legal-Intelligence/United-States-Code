@@ -66,5 +66,5 @@ Pub. L. 108–183, title I, §104(d), Dec. 16, 2003, 117 Stat. 2656, provided th
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–328 effective first day of second calendar month which begins after June 30, 1972, see section 301(a) of Pub. L. 92–328, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 92–328 effective first day of second calendar month which begins after June 30, 1972,see section 301(a) of Pub. L. 92–328, set out as a note under section 1114 of this title.
 

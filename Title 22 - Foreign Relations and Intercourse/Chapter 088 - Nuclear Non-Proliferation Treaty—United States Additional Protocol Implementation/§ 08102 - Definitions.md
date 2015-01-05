@@ -40,7 +40,7 @@ In this chapter:
 
 #### (10) Nuclear-weapon State Party and non-nuclear-weapon State Party
 
-&emsp;The terms "nuclear-weapon State Party" and "non-nuclear-weapon State Party" havethe meanings given such terms in the Nuclear Non-Proliferation Treaty.
+&emsp;The terms "nuclear-weapon State Party" and "non-nuclear-weapon State Party" have the meanings given such terms in the Nuclear Non-Proliferation Treaty.
 
 #### (11) Person
 
@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the territorial sea and the overlying airspace;
 
-&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (41), respectively, of section 40102(a) of title 49; and
+&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are definedin paragraphs (17) and (41), respectively, of section 40102(a) of title 49; and
 
 &emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 70502(b) of title 46.
 

@@ -102,9 +102,17 @@ To be eligible to receive a grant under this section, a local board or entity sh
 
 (Pub. L. 105–220, title I, §169, Aug. 7, 1998, 112 Stat. 1028; Pub. L. 106–113, div. B, §1000(a)(4) \[title V, §518\], Nov. 29, 1999, 113 Stat. 1535, 1501A–276.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (d)(2)(B). Pub. L. 106–113 substituted "or Alaska Natives." for "or Alaska Native villages or Native groups (as such terms are defined in section 1602 of title 43)."
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

@@ -16,7 +16,7 @@ Every registered investment company shall file with the Commission—
 
 #### (c) Minimizing reporting burdens
 
-(1) The Commission shall take such action as it deems necessary or appropriate, consistent with the public interest and the protection of investors, to avoid unnecessary reporting by, and minimize the compliance burdens on, registered investment companies and their affiliated persons in exercising its authority—
+(1) The Commission shall take such action as it deems necessary or appropriate, consistentwith the public interest and the protection of investors, to avoid unnecessary reporting by, and minimize the compliance burdens on, registered investment companies and their affiliated persons in exercising its authority—
 
 &emsp;(A) under subsection (f) of this section; and
 
@@ -64,7 +64,7 @@ Every person who is directly or indirectly the beneficial owner of more than 10 
 
 #### (i) Disclosure to church plan participants
 
-A person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title shall provide disclosure to plan participants, in writing, and not less frequently than annually, and for new participants joining such a plan after May 31, 1996, as soon as is practicable after joining such plan, that—
+A person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14)of this title shall provide disclosure to plan participants, in writing, and not less frequently than annually, and for new participants joining such a plan after May 31, 1996, as soon as is practicable after joining such plan, that—
 
 &emsp;(1) the plan, or any company or account maintained to manage or hold plan assets and interests in such plan, company, or account, are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or State securities laws; and
 
@@ -72,7 +72,7 @@ A person that maintains a church plan that is excluded from the definition of an
 
 #### (j) Notice to Commission
 
-The Commission may issue rules and regulations to require any person that maintains achurch plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
+The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
 
 (Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g), Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237.)
 

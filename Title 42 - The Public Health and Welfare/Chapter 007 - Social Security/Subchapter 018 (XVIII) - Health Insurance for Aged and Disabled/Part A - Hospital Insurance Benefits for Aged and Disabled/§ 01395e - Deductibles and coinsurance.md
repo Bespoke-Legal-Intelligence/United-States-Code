@@ -6,7 +6,7 @@
 
 &emsp;(A) one-fourth of the inpatient hospital deductible for each day (before the 91st day) on which such individual is furnished such services during such spell of illness after such services have been furnished to him for 60 days during such spell; and
 
-&emsp;(B) one-half of the inpatient hospital deductible for each day (before the day following thelast day for which such individual is entitled under section 1395d(a)(1) of this title to have payment made on his behalf for inpatient hospital services or inpatient critical access hospital services during such spell of illness) on which such individual is furnished such services during such spell of illness after such services have been furnished to him for 90 days during such spell;
+&emsp;(B) one-half of the inpatient hospital deductible for each day (before the day following the last day for which such individual is entitled under section 1395d(a)(1) of this title to have payment made on his behalf for inpatient hospital services or inpatient critical access hospital services during such spell of illness) on which such individual is furnished such services during such spell of illness after such services have been furnished to him for 90 days during such spell;
 
 > except that the reduction under this sentence for any day shall not exceed the charges imposed for that day with respect to such individual for such services (and for this purpose, if the customary charges for such services are greater than the charges so imposed, such customary charges shall be considered to be the charges so imposed).
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) to the coinsurance amounts under subsection (a) of this section for inpatient hospital services, inpatient critical access hospital services and post-hospital extended care services furnished in that year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 292; amended Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, 81 Stat. 847, 848, 852, 854; Pub. L. 97–35, title XXI, §§2131(a), 2132(a), Aug. 13, 1981, 95 Stat. 797; Pub. L. 97–248, title I, §122(e), Sept. 3, 1982, 96 Stat. 361; Pub. L. 99–272, title IX, §9125(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 99–509, title IX, §9301(a),Oct. 21, 1986, 100 Stat. 1981; Pub. L. 100–203, title IV, §4002(f)(3), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), July 1, 1988, 102 Stat. 769; Pub. L. 100–360, title I, §102, July 1, 1988, 102 Stat. 685; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 103–432, title I, §102(g)(2), (3), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79Stat. 292; amended Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, 81 Stat. 847, 848, 852, 854; Pub. L. 97–35, title XXI, §§2131(a), 2132(a), Aug. 13, 1981, 95 Stat. 797; Pub. L. 97–248, title I, §122(e), Sept. 3, 1982, 96 Stat. 361; Pub. L. 99–272, title IX, §9125(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 99–509, title IX, §9301(a), Oct. 21, 1986, 100 Stat. 1981; Pub. L. 100–203, title IV, §4002(f)(3), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), July 1, 1988, 102 Stat. 769; Pub. L. 100–360, title I, §102, July 1, 1988, 102 Stat. 685; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 103–432, title I, §102(g)(2), (3), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Pub. L. 99–272, title IX, §9125(b), Apr. 7, 1986, 100 Stat. 168, provided tha
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
 
 #### Effective Date of 1981 Amendment
 

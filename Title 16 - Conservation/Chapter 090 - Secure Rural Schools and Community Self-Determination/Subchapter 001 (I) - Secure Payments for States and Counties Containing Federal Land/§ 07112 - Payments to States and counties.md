@@ -26,7 +26,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (B) Failure to transmit
 
-&emsp;&emsp;If an election for an affected county is not transmitted to the Secretary concerned by the date specified under subparagraph (A), the affected county shall be considered to have elected to receive a share of the State payment, the county payment, or a share of the State payment and the county payment, as applicable.
+&emsp;&emsp;If an election for an affected county is not transmitted to the Secretary concerned bythe date specified under subparagraph (A), the affected county shall be considered to have elected to receive a share of the State payment, the county payment, or a share of the State payment and the county payment, as applicable.
 
 #### (2) Duration of election
 

@@ -22,7 +22,7 @@ The Act of June 18, 1934 (25 U.S.C. 461 et seq.), shall be applicable to the Tri
 
 #### (f) Certain rights not altered
 
-Except as specifically provided in this subchapter, nothing in this subchapter shall alterany property right or obligation, any contractual right or obligation, or any obligation for taxes levied.
+Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes levied.
 
 (Pub. L. 103–454, title III, §303, Nov. 2, 1994, 108 Stat. 4793.)
 

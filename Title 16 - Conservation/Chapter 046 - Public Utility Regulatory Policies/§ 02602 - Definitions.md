@@ -54,7 +54,7 @@ As used in this Act, except as otherwise specifically provided—
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. For completeclassification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+This Act, referred to in text, is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 The Sherman Antitrust Act (15 U.S.C. 1 and following), referred to in par. (1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which enacted sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 

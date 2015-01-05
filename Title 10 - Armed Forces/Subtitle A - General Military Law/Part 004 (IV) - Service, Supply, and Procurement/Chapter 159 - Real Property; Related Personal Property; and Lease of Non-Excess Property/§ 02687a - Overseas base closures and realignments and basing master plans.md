@@ -90,15 +90,51 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a nonappropriated fund instrumentality.
 
-&emsp;(4) The term "nonappropriated fund instrumentality" means an instrumentality of the United States under the jurisdiction of the armed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
+&emsp;(4) The term "nonappropriated fund instrumentality" means an instrumentality of the United States under the jurisdiction of the armed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical ormental improvement of members of the armed forces.
 
-(Added Pub. L. 111–84, div. B, title XXVIII, §2822(a)(1), Oct. 28, 2009, 123 Stat. 2665; amended Pub. L. 111–383, div. A, title X, §1075(b)(44), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. A, title X, §1076(f)(34), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–66, div. B, title XXVIII, §2807(a), Dec. 26, 2013, 127 Stat. 1008.)
+(Added Pub. L. 111–84, div. B, title XXVIII, §2822(a)(1), Oct. 28, 2009, 123 Stat. 2665; amended Pub. L. 111–383, div. A, title X, §1075(b)(44), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. A, title X, §1076(f)(34), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–66, div. B, title XXVIII, §2807(a), Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. B, title XXVIII, §2803(a), Dec. 19, 2014, 128 Stat. 3696.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 113–291, div. B, title XXVIII, §2803(a), (d), Dec. 19, 2014, 128 Stat. 3696, 3697, provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (f) is amended to read as follows:</i>
+
+<i>(f)</i>
+
+<i>Authorized Use of Payments-In-Kind and In-Kind Contributions.—(1) A military construction project, as defined in chapter 159 of this title, may be accepted as payment-in-kind or as an in-kind contribution required by a bilateral agreement with a host country only if that military construction project is authorized by law.</i>
+
+<i>(2) Operations of United States forces may be funded through payment-in-kind or an in-kind contribution required by a bilateral agreement with a host country under this section only if the costs covered by such payment or contribution are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under 1105 of title 31.</i>
+
+<i>(3) If funds previously appropriated for a military construction project or operating costs are subsequently addressed in an agreement for payment-in-kind or by an in-kind contribution required by a bilateral agreement with a host country, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.</i>
+
+<i>(4) This subsection does not apply to a military construction project that—</i>
+
+&emsp;<i>(A) was specified in a bilateral agreement with a host country that was entered into before December 26, 2013;</i>
+
+&emsp;<i>(B) was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015;</i>
+
+&emsp;<i>(C) was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510; 10 U.S.C. 2687 note) before December 26, 2013; or</i>
+
+&emsp;<i>(D) subject to paragraph (6), will cost less than the cost specified in subsection (a)(2) of section 2805 of this title for certain unspecified minor military construction projects.</i>
+
+<i>(5) This subsection does not apply to an in-kind contribution toward operating costs that—</i>
+
+&emsp;<i>(A) was specified in a bilateral agreement with a host country that was entered into before December 26, 2013;</i>
+
+&emsp;<i>(B) was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015; or</i>
+
+&emsp;<i>(C) was accepted as an in-kind contribution for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510; 10 U.S.C. 2687 note) before December 26, 2013.</i>
+
+<i>(6) In the case of a military construction project excluded pursuant to paragraph (4)(D) whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.</i>
+
+<i>See 2014 Amendment note below.</i>
 
 #### References in Text
 
 The date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014, referred to in subsec. (f)(4)(A) and (B), is the date of enactment of div. B of Pub. L. 113–66, which was approved Dec. 26, 2013.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–291 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind.
 
 <b>2013</b>—Pub. L. 113–66, §2807(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
 
@@ -107,4 +143,12 @@ Subsec. (a). Pub. L. 112–239, §1076(f)(34)(A), substituted "Foreign Relations
 Subsec. (b)(1). Pub. L. 112–239, §1076(f)(34)(B), struck out comma after "including" and substituted "the Treaty" for "The Treaty".
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "31 for" for "31for" in introductory provisions.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–291, div. B, title XXVIII, §2803(d), Dec. 19, 2014, 128 Stat. 3697, provided that: "The amendments made by this section \[amending this section and section 2802 of this title\] shall take effect on the later of—
+
+&emsp;"(1) September 30, 2016; or
+
+&emsp;"(2) the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017."
 

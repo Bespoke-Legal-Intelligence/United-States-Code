@@ -54,7 +54,7 @@
 
 Subsec. (a)(1). Pub. L. 104–106, §1040(c), substituted "Navy Exchange Service Command" for "Navy Resale and Services Support Office".
 
-Pub. L. 104–106, §1040(a), inserted at end "Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties."
+Pub. L. 104–106, §1040(a), inserted at end "Such term includes a civilian employee of a support organizationwithin the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties."
 
 Subsec. (d). Pub. L. 104–106, §903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting "official in the Department of Defense with principal responsibility for personnel and readiness" for "Assistant Secretary of Defense for Manpower and Logistics", was repealed by Pub. L. 104–201.
 

@@ -18,7 +18,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (3) The Secretary may by regulation remove drugs subject to section 355 of this title from the requirements of paragraph (1) of this subsection when such requirements are not necessary for the protection of the public health.
 
-(4)(A) A drug that is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing the label of the drug fails to bear, at a minimum, the symbol "Rx only".
+(4)(A) A drug that is subject to paragraph (1) shall be deemed to be misbranded if at any timeprior to dispensing the label of the drug fails to bear, at a minimum, the symbol "Rx only".
 
 (B) A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing the label of the drug bears the symbol described in subparagraph (A).
 
@@ -80,7 +80,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (C) Each drug manufacturer or authorized distributor of record which makes distributions by mail or common carrier under this paragraph shall maintain, for a period of 3 years, the request forms submitted for such distributions and the receipts submitted for such distributions and shall maintain a record of distributions of drug samples which identifies the drugs distributed and the recipients of the distributions. Forms, receipts, and records required to be maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to Federal and State officials engaged in the regulation of drugs and in the enforcement of laws applicable to drugs.
 
-(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
+(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) ofthis section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
 
 &emsp;(A) Drug samples may only be distributed—
 
@@ -100,21 +100,151 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(F) Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
 
-#### (e) Wholesale distributors; guidelines for licensing; definitions
+(4) In this subsection, the term "authorized distributors of record" means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer's products.
 
-(1)(A) Each person who is engaged in the wholesale distribution of a drug subject to subsection (b) of this section and who is not the manufacturer or an authorized distributor of record of such drug shall, before each wholesale distribution of such drug (including each distribution to an authorized distributor of record or to a retail pharmacy), provide to the person who receives the drug a statement (in such form and containing such information as the Secretary may require) identifying each prior sale, purchase, or trade of such drug (including the date of the transaction and the names and addresses of all parties to the transaction).
+#### (e) Licensing and reporting requirements for wholesale distributors; fees; definitions
 
-(B) Each manufacturer of a drug subject to subsection (b) of this section shall maintain at its corporate offices a current list of the authorized distributors of record of such drug.
+(1)
 
-(2)(A) No person may engage in the wholesale distribution in interstate commerce of drugs subject to subsection (b) of this section in a State unless such person is licensed by the State in accordance with the guidelines issued under subparagraph (B).
+Requirement.—Subject to section 360eee–2 of this title:
 
-(B) The Secretary shall by regulation issue guidelines establishing minimum standards, terms, and conditions for the licensing of persons to make wholesale distributions in interstate commerce of drugs subject to subsection (b) of this section. Such guidelines shall prescribe requirements for the storage and handling of such drugs and for the establishment and maintenance of records of the distributions of such drugs.
+&emsp;(A)
 
-(3) For the purposes of this subsection and subsection (d) of this section—
+In general.—No person may engage in wholesale distribution of a drug subject to subsection (b)(1) in any State unless such person—
 
-&emsp;(A) the term "authorized distributors of record" means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer's products, and
+&emsp;&emsp;(i)(I) is licensed by the State from which the drug is distributed; or
 
-&emsp;(B) the term "wholesale distribution" means distribution of drugs subject to subsection (b) of this section to other than the consumer or patient but does not include intracompany sales and does not include distributions of drugs described in subsection (c)(3)(B) of this section.
+&emsp;&emsp;(II) if the State from which the drug is distributed has not established a licensure requirement, is licensed by the Secretary; and
+
+&emsp;&emsp;(ii) if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of a person that distributes drugs into the State.
+
+&emsp;(B)
+
+Standards.—Each Federal and State license described in subparagraph (A) shall meet the standards, terms, and conditions established by the Secretary under section 360eee–2 of this title.
+
+(2)
+
+Reporting and database.—
+
+&emsp;(A)
+
+Reporting.—Beginning January 1, 2015, any person who owns or operates an establishment that engages in wholesale distribution shall—
+
+&emsp;&emsp;(i) report to the Secretary, on an annual basis pursuant to a schedule determined by the Secretary—
+
+&emsp;&emsp;&emsp;(I) each State by which the person is licensed and the appropriate identification number of each such license; and
+
+&emsp;&emsp;&emsp;(II) the name, address, and contact information of each facility at which, and all trade names under which, the person conducts business; and
+
+&emsp;&emsp;(ii) report to the Secretary within a reasonable period of time and in a reasonable manner, as determined by the Secretary, any significant disciplinary actions, such as the revocation or suspension of a wholesale distributor license, taken by a State or the Federal Government during the reporting period against the wholesale distributor.
+
+&emsp;(B)
+
+Database.—Not later than January 1, 2015, the Secretary shall establish a database of authorized wholesale distributors. Such database shall—
+
+&emsp;&emsp;(i) identify each authorized wholesale distributor by name, contact information, and each State where such wholesale distributor is appropriately licensed to engage in wholesale distribution;
+
+&emsp;&emsp;(ii) be available to the public on the Internet Web site of the Food and Drug Administration; and
+
+&emsp;&emsp;(iii) be regularly updated on a schedule determined by the Secretary.
+
+&emsp;(C)
+
+Coordination.—The Secretary shall establish a format and procedure for appropriate State officials to access the information provided pursuant to subparagraph (A) in a prompt and secure manner.
+
+&emsp;(D)
+
+Confidentiality.—Nothing in this paragraph shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5 or section 1905 of title 18.
+
+(3)
+
+Costs.—
+
+&emsp;(A)
+
+Authorized fees of secretary.—If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+
+&emsp;(B)
+
+State licensing fees.—Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.
+
+(4) For the purposes of this subsection and subsection (d), the term "wholesale distribution" means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
+
+&emsp;(A) intracompany distribution of any drug between members of an affiliate or within a manufacturer;
+
+&emsp;(B) the distribution of a drug, or an offer to distribute a drug among hospitals or other health care entities which are under common control;
+
+&emsp;(C) the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to section 247d of title 42, except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+
+&emsp;(D) the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b)(1);
+
+&emsp;(E) the distribution of minimal quantities of drug by a licensed retail pharmacy to a licensed practitioner for office use;
+
+&emsp;(F) the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
+
+&emsp;(G) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
+
+&emsp;(H) the distribution of a drug by the manufacturer of such drug;
+
+&emsp;(I) the receipt or transfer of a drug by an authorized third-party logistics provider provided that such third-party logistics provider does not take ownership of the drug;
+
+&emsp;(J) a common carrier that transports a drug, provided that the common carrier does not take ownership of the drug;
+
+&emsp;(K) the distribution of a drug, or an offer to distribute a drug by an authorized repackager that has taken ownership or possession of the drug and repacks it in accordance with section 360eee–1(e) of this title;
+
+&emsp;(L) salable drug returns when conducted by a dispenser;
+
+&emsp;(M) the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this subparagraph as a "medical convenience kit") if—
+
+&emsp;&emsp;(i) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with section 360(b)(2) of this title;
+
+&emsp;&emsp;(ii) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970 \[21 U.S.C. 801 et seq.\];
+
+&emsp;&emsp;(iii) in the case of a medical convenience kit that includes a product, the person that manufacturers the kit—
+
+&emsp;&emsp;&emsp;(I) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
+
+&emsp;&emsp;&emsp;(II) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
+
+&emsp;&emsp;(iv) in the case of a medical convenience kit that includes a product, the product is—
+
+&emsp;&emsp;&emsp;(I) an intravenous solution intended for the replenishment of fluids and electrolytes;
+
+&emsp;&emsp;&emsp;(II) a product intended to maintain the equilibrium of water and minerals in the body;
+
+&emsp;&emsp;&emsp;(III) a product intended for irrigation or reconstitution;
+
+&emsp;&emsp;&emsp;(IV) an anesthetic;
+
+&emsp;&emsp;&emsp;(V) an anticoagulant;
+
+&emsp;&emsp;&emsp;(VI) a vasopressor; or
+
+&emsp;&emsp;&emsp;(VII) a sympathomimetic;
+
+&emsp;(N) the distribution of an intravenous drug that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
+
+&emsp;(O) the distribution of an intravenous drug used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
+
+&emsp;(P) the distribution of a drug that is intended for irrigation, or sterile water, whether intended for such purposes or for injection;
+
+&emsp;(Q) the distribution of medical gas, as defined in section 360ddd of this title;
+
+&emsp;(R) facilitating the distribution of a product by providing solely administrative services, including processing of orders and payments; or
+
+&emsp;(S) the transfer of a product by a hospital or other health care entity, or by a wholesale distributor or manufacturer operating at the direction of the hospital or other health care entity, to a repackager described in section 360eee(16)(B) of this title and registered under section 360 of this title for the purpose of repackaging the drug for use by that hospital, or other health care entity and other health care entities that are under common control, if ownership of the drug remains with the hospital or other health care entity at all times.
+
+(5)
+
+Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under section 360eee(22) of this title shall obtain a license as a third-party logistics provider as described in section 360eee–3(a) of this title and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
+
+(6)
+
+Affiliate.—For purposes of this subsection, the term "affiliate" means a business entity that has a relationship with a second business entity if, directly or indirectly—
+
+&emsp;(A) one business entity controls, or has the power to control, the other business entity; or
+
+&emsp;(B) a third party controls, or has the power to control, both of the business entities.
 
 #### (f) Veterinary prescription drugs
 
@@ -208,161 +338,9 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635.)
 
-#### Amendment of Subsections (d) and (e)
-
-<i>Pub. L. 113–54, title II, §204(a)(1)–(4), (b), (c), Nov. 27, 2013, 127 Stat. 630–636, provided that, effective Jan. 1, 2015, this section is amended as follows:</i>
-
-<i>(1) in subsection (d), by adding at the end the following:</i>
-
-<i>(4) In this subsection, the term "authorized distributors of record" means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer's products.; and</i>
-
-<i>(2) in subsection (e), by striking paragraphs (1) to (3) and adding the following:</i>
-
-<i>(1)</i>
-
-<i>Requirement.—Subject to section 360eee–2 of this title:</i>
-
-&emsp;<i>(A)</i>
-
-<i>In general.—No person may engage in wholesale distribution of a drug subject to subsection (b)(1) in any State unless such person—</i>
-
-&emsp;&emsp;<i>(i)(I) is licensed by the State from which the drug is distributed; or</i>
-
-&emsp;&emsp;<i>(II) if the State from which the drug is distributed has not established a licensure requirement, is licensed by the Secretary; and</i>
-
-&emsp;&emsp;<i>(ii) if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of a person that distributes drugs into the State.</i>
-
-&emsp;<i>(B)</i>
-
-<i>Standards.—Each Federal and State license described in subparagraph (A) shall meet the standards, terms, and conditions established by the Secretary under section 360eee–2 of this title.</i>
-
-<i>(2)</i>
-
-<i>Reporting and database.—</i>
-
-&emsp;<i>(A)</i>
-
-<i>Reporting.—Beginning January 1, 2015, any person who owns or operates an establishment that engages in wholesale distribution shall—</i>
-
-&emsp;&emsp;<i>(i) report to the Secretary, on an annual basis pursuant to a schedule determined by the Secretary—</i>
-
-&emsp;&emsp;&emsp;<i>(I) each State by which the person is licensed and the appropriate identification number of each such license; and</i>
-
-&emsp;&emsp;&emsp;<i>(II) the name, address, and contact information of each facility at which, and all trade names under which, the person conducts business; and</i>
-
-&emsp;&emsp;<i>(ii) report to the Secretary within a reasonable period of time and in a reasonable manner, as determined by the Secretary, any significant disciplinary actions, such as the revocation or suspension of a wholesale distributor license, taken by a State or the Federal Government during the reporting period against the wholesale distributor.</i>
-
-&emsp;<i>(B)</i>
-
-<i>Database.—Not later than January 1, 2015, the Secretary shall establish a database of authorized wholesale distributors. Such database shall—</i>
-
-&emsp;&emsp;<i>(i) identify each authorized wholesale distributor by name, contact information, and each State where such wholesale distributor is appropriately licensed to engage in wholesale distribution;</i>
-
-&emsp;&emsp;<i>(ii) be available to the public on the Internet Web site of the Food and Drug Administration; and</i>
-
-&emsp;&emsp;<i>(iii) be regularly updated on a schedule determined by the Secretary.</i>
-
-&emsp;<i>(C)</i>
-
-<i>Coordination.—The Secretary shall establish a format and procedure for appropriate State officials to access the information provided pursuant to subparagraph (A) in a prompt and secure manner.</i>
-
-&emsp;<i>(D)</i>
-
-<i>Confidentiality.—Nothing in this paragraph shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5 or section 1905 of title 18.</i>
-
-<i>(3)</i>
-
-<i>Costs.—</i>
-
-&emsp;<i>(A)</i>
-
-<i>Authorized fees of secretary.—If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and</i><i>conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.</i>
-
-&emsp;<i>(B)</i>
-
-<i>State licensing fees.—Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.</i>
-
-<i>(4) For the purposes of this subsection and subsection (d), the term "wholesale distribution" means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—</i>
-
-&emsp;<i>(A) intracompany distribution of any drug between members of an affiliate or within a manufacturer;</i>
-
-&emsp;<i>(B) the distribution of a drug, or an offer to distribute a drug among hospitals or other health care entities which are under common control;</i>
-
-&emsp;<i>(C) the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to section 247d of title 42, except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;</i>
-
-&emsp;<i>(D) the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b)(1);</i>
-
-&emsp;<i>(E) the distribution of minimal quantities of drug by a licensed retail pharmacy to a licensed practitioner for office use;</i>
-
-&emsp;<i>(F) the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;</i>
-
-&emsp;<i>(G) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;</i>
-
-&emsp;<i>(H) the distribution of a drug by the manufacturer of such drug;</i>
-
-&emsp;<i>(I) the receipt or transfer of a drug by an authorized third-party logistics provider provided that such third-party logistics provider does not take ownership of the drug;</i>
-
-&emsp;<i>(J) a common carrier that transports a drug, provided that the common carrier does not take ownership of the drug;</i>
-
-&emsp;<i>(K) the distribution of a drug, or an offer to distribute a drug by an authorized repackager that has taken ownership or possession of the drug and repacks it in accordance with section 360eee–1(e) of this title;</i>
-
-&emsp;<i>(L) salable drug returns when conducted by a dispenser;</i>
-
-&emsp;<i>(M) the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this subparagraph as a "medical convenience kit") if—</i>
-
-&emsp;&emsp;<i>(i) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with section 360(b)(2) of this title;</i>
-
-&emsp;&emsp;<i>(ii) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970;</i>
-
-&emsp;&emsp;<i>(iii) in the case of a medical convenience kit that includes a product, the person that manufacturers the kit—</i>
-
-&emsp;&emsp;&emsp;<i>(I) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and</i>
-
-&emsp;&emsp;&emsp;<i>(II) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and</i>
-
-&emsp;&emsp;<i>(iv) in the case of a medical convenience kit that includes a product, the product is—</i>
-
-&emsp;&emsp;&emsp;<i>(I) an intravenous solution intended for the replenishment of fluids and electrolytes;</i>
-
-&emsp;&emsp;&emsp;<i>(II) a product intended to maintain the equilibrium of water and minerals in the body;</i>
-
-&emsp;&emsp;&emsp;<i>(III) a product intended for irrigation or reconstitution;</i>
-
-&emsp;&emsp;&emsp;<i>(IV) an anesthetic;</i>
-
-&emsp;&emsp;&emsp;<i>(V) an anticoagulant;</i>
-
-&emsp;&emsp;&emsp;<i>(VI) a vasopressor; or</i>
-
-&emsp;&emsp;&emsp;<i>(VII) a sympathomimetic;</i>
-
-&emsp;<i>(N) the distribution of an intravenous drug that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);</i>
-
-&emsp;<i>(O) the distribution of an intravenous drug used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;</i>
-
-&emsp;<i>(P) the distribution of a drug that is intended for irrigation, or sterile water, whether intended for such purposes or for injection;</i>
-
-&emsp;<i>(Q) the distribution of medical gas, as defined in section 360ddd of this title;</i>
-
-&emsp;<i>(R) facilitating the distribution of a product by providing solely administrative services, including processing of orders and payments; or</i>
-
-&emsp;<i>(S) the transfer of a product by a hospital or other health care entity, or by a wholesale distributor or manufacturer operating at the direction of the hospital or other health care entity, to a repackager described in section 360eee(16)(B) of this title and registered under section 360 of this title for the purpose of repackaging the drug for use by that hospital, or other health care entity and other health care entities that are under common control, if ownership of the drug remains with the hospital or other health care entity at all times.</i>
-
-<i>(5)</i>
-
-<i>Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under section 360eee(22) of this title shall obtain a license as a third-party logistics provider as described in section 360eee–3(a) of this title and</i><i>is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.</i>
-
-<i>(6)</i>
-
-<i>Affiliate.—For purposes of this subsection, the term "affiliate" means a business entity that has a relationship with a second business entity if, directly or indirectly—</i>
-
-&emsp;<i>(A) one business entity controls, or has the power to control, the other business entity; or</i>
-
-&emsp;<i>(B) a third party controls, or has the power to control, both of the business entities.</i>
-
-<i>See 2013 Amendment notes below.</i>
-
 #### References in Text
+
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (e)(4)(M)(ii), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 Section 357 of this title, referred to in subsec. (g)(5)(C)(i), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
@@ -456,7 +434,7 @@ Pub. L. 113–54, title II, §204(c), Nov. 27, 2013, 127 Stat. 636, provided tha
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
+Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section501 of Pub. L. 105–115, set out as a note under section 321 of this title.
 
 #### Termination Date of 1992 Amendment
 
@@ -524,7 +502,7 @@ Plan.—The plan described in subsection (a) shall—
 
 "(d)
 
-Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may conferwith and assist private parties in the development of the plan described in subsections (a) and (b).
+Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
 
 "(e)
 

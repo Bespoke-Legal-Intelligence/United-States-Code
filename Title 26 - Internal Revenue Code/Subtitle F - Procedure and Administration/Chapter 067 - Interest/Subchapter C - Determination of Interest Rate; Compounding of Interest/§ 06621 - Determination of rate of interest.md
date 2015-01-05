@@ -192,7 +192,7 @@ Pub. L. 98–369, div. A, title I, §144(c), July 18, 1984, 98 Stat. 684, provid
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title III, §345(b), Sept. 3, 1982, 96 Stat. 636, as amended by Pub. L. 98–369, div. A, title VII, §714(m), July 18, 1984, 98 Stat. 963, provided that: "The amendment made by this section \[amending this section\] shall apply to adjustments taking effect on or after January 1, 1983."
+Pub. L. 97–248, title III, §345(b), Sept. 3, 1982, 96 Stat. 636, as amended by Pub. L. 98–369, div. A, title VII,§714(m), July 18, 1984, 98 Stat. 963, provided that: "The amendment made by this section \[amending this section\] shall apply to adjustments taking effect on or after January 1, 1983."
 
 #### Effective Date of 1981 Amendment
 

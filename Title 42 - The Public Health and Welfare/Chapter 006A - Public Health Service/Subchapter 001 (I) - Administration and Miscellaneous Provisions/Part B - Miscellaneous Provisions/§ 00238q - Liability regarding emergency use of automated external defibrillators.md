@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, any person who uses or att
 
 &emsp;&emsp;(A) the employee or agent was not an employee or agent who would have been reasonably expected to use the device; or
 
-&emsp;&emsp;(B) the period of time elapsing between the engagement of the person as an employee or agent and the occurrence of the harm (or between the acquisition of the device and the occurrence of the harm, in any case in which the device was acquired after such engagement of the person) was not a reasonably sufficient period in which to provide the training.
+&emsp;&emsp;(B) the period of time elapsing between the engagement of the person as an employee or agent and the occurrence of the harm (or between the acquisition of the device and the occurrence of the harm, in any case in whichthe device was acquired after such engagement of the person) was not a reasonably sufficient period in which to provide the training.
 
 #### (b) Inapplicability of immunity
 
@@ -34,7 +34,7 @@ Immunity under subsection (a) of this section does not apply to a person if—
 
 &emsp;&emsp;(A) This section does not establish any cause of action, or require that an automated external defibrillator device be placed at any building or other location.
 
-&emsp;&emsp;(B) With respect to a class of persons for which this section provides immunity from civil liability, this section supersedes thelaw of a State only to the extent that the State has no statute or regulations that provide persons in such class with immunity for civil liability arising from the use by such persons of automated external defibrillator devices in emergency situations (within the meaning of the State law or regulation involved).
+&emsp;&emsp;(B) With respect to a class of persons for which this section provides immunity from civil liability, this section supersedes the law of a State only to the extent that the State has no statute or regulations that provide persons in such class with immunity for civil liability arising from the use by such persons of automated external defibrillator devices in emergency situations (within the meaning of the State law or regulation involved).
 
 &emsp;&emsp;(C) This section does not waive any protection from liability for Federal officers or employees under—
 
@@ -80,7 +80,7 @@ In any civil action arising under State law, the courts of the State involved ha
 
 &emsp;&emsp;(ii) The term "economic loss" means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
 
-&emsp;&emsp;(iii) The term "noneconomic losses" means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
+&emsp;&emsp;(iii) The term "noneconomic losses" means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society andcompanionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
 
 (July 1, 1944, ch. 373, title II, §248, as added Pub. L. 106–505, title IV, §404, Nov. 13, 2000, 114 Stat. 2338.)
 

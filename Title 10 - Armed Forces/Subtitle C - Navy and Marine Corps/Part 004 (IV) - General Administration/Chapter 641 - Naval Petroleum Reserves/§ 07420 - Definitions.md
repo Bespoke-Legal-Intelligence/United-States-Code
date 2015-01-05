@@ -166,7 +166,7 @@ Amount.—There are hereby authorized to be appropriated to the Secretary of Ene
 
 &emsp;"(2) closeout activities at Naval Petroleum Reserve Numbered 1 upon the sale of that reserve under subtitle B of title XXXIV of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 7420 note); and
 
-&emsp;"(3) activities under this title relating to the disposition of Naval Petroleum Reserve Numbered 2,Naval Petroleum Reserve Numbered 3, and Oil Shale Reserve Numbered 2.
+&emsp;"(3) activities under this title relating to the disposition of Naval Petroleum Reserve Numbered 2, Naval Petroleum Reserve Numbered 3, and Oil Shale Reserve Numbered 2.
 
 "(b)
 
@@ -334,7 +334,7 @@ Remedial Action at Moab Site.—(1)(A) The Secretary of Energy shall prepare a p
 
 "(B) Upon making the determination referred to in subparagraph (A), the Secretary of Energy shall transfer all remaining royalty amounts to the general fund of the Treasury and release to the Tribe the royalty interest retained by the United States under subsection (e).
 
-"(4)(A) Funds made available to the Department of Energy for national security activities shall not be used to carry out the remedial action under paragraph (1), except that the Secretary of Energy may use such funds for program direction directly related to the remedial action.
+"(4)(A) Funds made available to the Department of Energy for national security activities shall not beused to carry out the remedial action under paragraph (1), except that the Secretary of Energy may use such funds for program direction directly related to the remedial action.
 
 "(B) There are authorized to be appropriated to the Secretary of Energy to carry out the remedial action under paragraph (1) such sums as are necessary.
 
@@ -374,7 +374,7 @@ Waiver of Requirements Regarding Consultation and Approval.—Section 7431 of ti
 
 Oil Shale Reserve Numbered 2.—This section does not apply to the transfer of Oil Shale Reserve Numbered 2 under section 3405."
 
-Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, provided that:
+Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–291, div. A, title X, §1071(b)(12), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 #### "SEC. 3411. DEFINITIONS.
 
@@ -468,7 +468,7 @@ Oversight.—The Comptroller General shall monitor the actions of the Secretary 
 
 "(k)
 
-Acquisition of Services.—The Secretary may enter into contracts for the acquisition of services required under this section under the authority of paragraph (7) of section 303(c) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253(c)) \[see 41 U.S.C. 3304(a)(7)\], except that the notification required under subparagraph (B) of such paragraph \[now 41 U.S.C. 3304(a)(7)(B)\] for each contract shall be submitted to Congress not less than 7 days before the award of the contract.
+Acquisition of Services.—The Secretary may enter into contracts for the acquisition of services required under this section under the authority of paragraph (7) of section 3304(a) of title 41, United States Code, except that the notification required under subparagraph (B) of such paragraph for each contract shall be submitted to Congress not less than 7 days before the award of the contract.
 
 #### "SEC. 3413. EFFECT OF SALE OF RESERVE.
 
@@ -490,7 +490,7 @@ Preservation of Private Right, Title, and Interest.—Nothing in this subtitle s
 
 "(d)
 
-Transfer of Otherwise Nontransferable Permit.—The Secretary may transfer to the purchaser orpurchasers (as the case may be) of Naval Petroleum Reserve Numbered 1 the incidental take permit regarding the reserve issued to the Secretary by the United States Fish and Wildlife Service and in effect on the effective date if the Secretary determines that transfer of the permit is necessary to expedite the sale of the reserve in a manner that maximizes the value of the sale to the United States. The transferred permit shall cover the identical activities, and shall be subject to the same terms and conditions, as apply to the permit at the time of the transfer.
+Transfer of Otherwise Nontransferable Permit.—The Secretary may transfer to the purchaser or purchasers (as the case may be) of Naval Petroleum Reserve Numbered 1 the incidental take permit regarding the reserve issued to the Secretary by the United States Fish and Wildlife Service and in effect on the effective date if the Secretary determines that transfer of the permit is necessary to expedite the sale of the reserve in a manner that maximizes the value of the sale to the United States. The transferred permit shall cover the identical activities, and shall be subject tothe same terms and conditions, as apply to the permit at the time of the transfer.
 
 #### "SEC. 3414. CONDITIONS ON SALE PROCESS.
 

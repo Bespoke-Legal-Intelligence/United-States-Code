@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(iii) identified as being in positions which are becoming surplus or excess to the agency's future ability to carry out its mission effectively; and
 
-&emsp;(E) as determined by the agency under regulations prescribed by the Office, is within the scope of the offer of voluntary early retirement, which may be made on the basis of—
+&emsp;(E) as determined by the agency under regulations prescribed by the Office, is within thescope of the offer of voluntary early retirement, which may be made on the basis of—
 
 &emsp;&emsp;(i) 1 or more organizational units;
 
@@ -78,13 +78,13 @@
 
 (4) For the purpose of this subsection—
 
-&emsp;(A) “Panama Canal service” means—
+&emsp;(A) "Panama Canal service" means—
 
 &emsp;&emsp;(i) service as an employee of the Canal Zone Government, the Panama Canal Company, or the Panama Canal Commission; or
 
 &emsp;&emsp;(ii) service at a permanent duty station in the Canal Zone or Republic of Panama as an employee of an Executive agency conducting operations in the Canal Zone or the Republic of Panama; and
 
-&emsp;(B) “Executive agency” includes the United States District Court for the District of the Canal Zone and the Smithsonian Institution.
+&emsp;(B) "Executive agency" includes the United States District Court for the District of the Canal Zone and the Smithsonian Institution.
 
 (j)(1) Except as provided in paragraph (3), an employee is entitled to an annuity if he—
 
@@ -118,9 +118,9 @@
 
 (4) For the purpose of this subsection—
 
-&emsp;(A) “Bureau of Indian Affairs” means (i) the Bureau of Indian Affairs and (ii) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
+&emsp;(A) "Bureau of Indian Affairs" means (i) the Bureau of Indian Affairs and (ii) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
 
-&emsp;(B) “Indian preference laws” means section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
+&emsp;(B) "Indian preference laws" means section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
 
 (k) A bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge, is entitled to an annuity.
 
@@ -178,7 +178,7 @@
 
 (5) A determination of which employees are within the scope of an offer of early retirement shall be made only on the basis of consistent and well-documented application of the relevant criteria.
 
-(6) In this subsection, the term “major organizational adjustment” means any of the following:
+(6) In this subsection, the term "major organizational adjustment" means any of the following:
 
 &emsp;(A) A major reorganization.
 
@@ -212,7 +212,7 @@ Act
 
 5 U.S.C. 2256 (less last sentence in (f)).
 
-July 31, 1956, ch. 804, §401 “Sec. 6 (less last sentence in (f))”, 70 Stat. 749.
+July 31, 1956, ch. 804, §401 "Sec. 6 (less last sentence in (f))", 70 Stat. 749.
 
 &nbsp;
 
@@ -244,7 +244,7 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §504, 80 Stat. 301.
 
-In subsections (a) and (b), the words “is entitled to” are substituted for “shall \* \* \* be paid”. The words “computed as provided in section 9” are omitted as unnecessary in view of 5 U.S.C. 8339.
+In subsections (a) and (b), the words "is entitled to" are substituted for "shall \* \* \* be paid". The words"computed as provided in section 9" are omitted as unnecessary in view of 5 U.S.C. 8339.
 
 #### References in Text
 
@@ -254,23 +254,23 @@ The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(1). Pub. L. 110–161, §535(a)(4)(A), substituted “nuclear materials courier, or customs and border protection officer” for “or nuclear materials courier”.
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–161, §535(a)(4)(A), substituted "nuclear materials courier, or customs and border protection officer" for "or nuclear materials courier".
 
-Subsecs. (m), (n). Pub. L. 110–161, §535(a)(4)(B), substituted “as a law enforcement officer, or as a customs and border protection officer,” for “or as a law enforcement officer,”.
+Subsecs. (m), (n). Pub. L. 110–161, §535(a)(4)(B), substituted "as a law enforcement officer, or as a customs and border protection officer," for "or as a law enforcement officer,".
 
-<b>2002</b>—Subsec. (d)(2). Pub. L. 107–296, §1313(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “except in the case of an employee who is separated from the service under a program carried out under subsection (p), while serving in a geographic area designated by the Office of Personnel Management, is separated from the service voluntarily during a period in which the Office determines that—
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–296, §1313(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "except in the case of an employee who is separated from the service under a program carried out under subsection (p), while serving in a geographic area designated by the Office of Personnel Management, is separated from the service voluntarily during a period in which the Office determines that—
 
-&emsp;“(A) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
+&emsp;"(A) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
 
-&emsp;“(B) a significant percent of the employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);”.
+&emsp;"(B) a significant percent of the employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);".
 
-Subsec. (h)(1). Pub. L. 107–296, §1321(a)(4)(A), struck out “for failure to be recertified as a senior executive under section 3393a or” before “for less than”.
+Subsec. (h)(1). Pub. L. 107–296, §1321(a)(4)(A), struck out "for failure to be recertified as a senior executive under section 3393a or" before "for less than".
 
-<b>2001</b>—Subsec. (d)(2). Pub. L. 107–107, §1048(i)(5)(A), substituted “subsection (p)” for “subsection (o)” in introductory provisions.
+<b>2001</b>—Subsec. (d)(2). Pub. L. 107–107, §1048(i)(5)(A), substituted "subsection (p)" for "subsection (o)" in introductory provisions.
 
 Subsecs. (o), (p). Pub. L. 107–107, §1048(i)(5)(B), redesignated subsec. (o), relating to Department of Defense employees, as (p).
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (o),” before “while serving” in introductory provisions.
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(1)\], inserted "except in the case of an employee who is separated from the service under a program carried out under subsection (o)," before "while serving" in introductory provisions.
 
 Subsec. (n). Pub. L. 106–553 added subsec. (n). Former subsec. (n), relating to computation of annuity under section 8339 of this title, redesignated (o).
 
@@ -280,31 +280,31 @@ Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(2)\], added subsec. (o)
 
 <b>1999</b>—Subsecs. (d)(2), (o). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(a). See 1998 Amendment notes below.
 
-<b>1998</b>—Subsec. (c)(1). Pub. L. 105–261, §3154(e), substituted “, firefighter, or nuclear materials courier” for “or firefighter”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–261, §3154(e), substituted ", firefighter, or nuclear materials courier" for "or firefighter".
 
-Subsec. (d)(2). Pub. L. 105–261, §1109(a)(1), which directed insertion of “except in the case of an employee described in subsection (o)(1),” after “(2)”, was repealed by Pub. L. 106–58.
+Subsec. (d)(2). Pub. L. 105–261, §1109(a)(1), which directed insertion of "except in the case of an employee described in subsection (o)(1)," after "(2)", was repealed by Pub. L. 106–58.
 
 Subsec. (o). Pub. L. 105–261, §1109(a)(2), which directed addition of subsec. (o), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by Pub. L. 106–58.
 
-<b>1994</b>—Subsec. (l). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+<b>1994</b>—Subsec. (l). Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals".
 
-<b>1992</b>—Subsec. (k). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” in two places.
+<b>1992</b>—Subsec. (k). Pub. L. 102–572 substituted "Court of Federal Claims" for "Claims Court" in two places.
 
 <b>1990</b>—Subsec. (i)(3), (4). Pub. L. 101–510 added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (k). Pub. L. 101–650 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge or United States magistrate who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge or United States magistrate, is entitled to an annuity.”
+Subsec. (k). Pub. L. 101–650 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "A bankruptcy judge or United States magistrate who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge or United States magistrate, is entitled to an annuity."
 
 Subsecs. (m), (n). Pub. L. 101–428 added subsec. (m) and redesignated former subsec. (m) as (n).
 
-<b>1989</b>—Subsec. (h)(1). Pub. L. 101–194, §506(b)(7)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
+<b>1989</b>—Subsec. (h)(1). Pub. L. 101–194, §506(b)(7)(A), substituted "for failure to be recertified as a senior executive under section 3393a or for" for "for".
 
-Subsec. (h)(2), (3). Pub. L. 101–194, §506(b)(7)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
+Subsec. (h)(2), (3). Pub. L. 101–194, §506(b)(7)(B), (C), substituted "for failure to be recertified as a senior executive or for" for "for".
 
 <b>1988</b>—Subsec. (h)(3). Pub. L. 100–325 added par. (3).
 
-<b>1987</b>—Subsec. (k). Pub. L. 100–53 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge who is separated from service, except by removal, after becoming sixty-two years of age and completing ten years of service as a bankruptcy judge is entitled to an annuity.”
+<b>1987</b>—Subsec. (k). Pub. L. 100–53 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "A bankruptcy judge who is separated from service, except by removal, after becoming sixty-two years of age and completing ten years of service as a bankruptcy judge is entitled to an annuity."
 
-<b>1985</b>—Subsec. (j)(3)(A). Pub. L. 99–190 substituted “10 years” for “5 years”.
+<b>1985</b>—Subsec. (j)(3)(A). Pub. L. 99–190 substituted "10 years" for "5 years".
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–615 inserted provision that for purposes of par. (1), separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency.
 
@@ -332,13 +332,13 @@ Pub. L. 96–70, §1241(a)(2), redesignated former subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 96–135 redesignated former subsec. (j) as (k).
 
-<b>1978</b>—Subsec. (d)(2). Pub. L. 95–454, §306, substituted provisions relating to the employee's agency undergoing a major reorganization, reduction in force, or transfer of function, as determined by the Office of Personnel Management, for provisions relating to the employee's agency undergoing a major reduction in force, as determined by the Commission.
+<b>1978</b>—Subsec. (d)(2). Pub. L. 95–454, §306, substituted provisions relating to the employee's agency undergoing a major reorganization, reduction in force, ortransfer of function, as determined by the Office of Personnel Management, for provisions relating to the employee's agency undergoing a major reduction in force, as determined by the Commission.
 
 Subsecs. (h), (i). Pub. L. 95–454, §412(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>1975</b>—Subsecs. (d), (g). Pub. L. 94–183 substituted “an” for “a reduced” after “is entitled to”.
+<b>1975</b>—Subsecs. (d), (g). Pub. L. 94–183 substituted "an" for "a reduced" after "is entitled to".
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining “detention” to include the duties of specified employees.
+<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining "detention" to include the duties of specified employees.
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–39 reenacted existing provisions, designated part of such provisions as item (1) and added item (2).
 
@@ -348,7 +348,7 @@ Subsecs. (e) to (h). Pub. L. 92–297 added subsec. (e) and redesignated former 
 
 #### Change of Name
 
-“United States magistrate judge” substituted for “United States magistrate” wherever appearing in subsec. (k) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" wherever appearing in subsec. (k) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508 of Title 20, Education.
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, and applicable to bankrup
 
 #### Effective Date of 1982 Amendment
 
-Section 308(b) of Pub. L. 97–253 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1982.”
+Section 308(b) of Pub. L. 97–253 provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1982."
 
 #### Effective Date of 1981 Amendment
 
@@ -404,15 +404,15 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 
 #### Effective Date of 1979 Amendments
 
-Section 1(d) of Pub. L. 96–135 provided that: “The amendments made by this section \[amending this section and section 8339 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1979\].”
+Section 1(d) of Pub. L. 96–135 provided that: "The amendments made by this section \[amending this section and section 8339 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1979\]."
 
-Section 1241(b)(1) of Pub. L. 96–70 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 27, 1979\], but no amount of annuity under chapter 83 of title 5, United States Code, accruing by reason of those amendments shall be payable for any period before October 1, 1979.”
+Section 1241(b)(1) of Pub. L. 96–70 provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 27, 1979\], but no amount of annuity under chapter 83 of title 5, United States Code, accruing by reason of those amendments shall be payable for any period before October 1, 1979."
 
 #### Effective Date of 1978 Amendment
 
 Amendment by section 306 of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-Amendment by section 412 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by section 412 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review ofprovisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -424,71 +424,71 @@ Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see sect
 
 #### Regulations
 
-Pub. L. 107–296, title XIII, §1313(b)(5), Nov. 25, 2002, 116 Stat. 2296, provided that: “The Office of Personnel Management may prescribe regulations to carry out this subsection \[amending this section and section 8414 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 8414 of this title\].”
+Pub. L. 107–296, title XIII, §1313(b)(5), Nov. 25, 2002, 116 Stat. 2296, provided that: "The Office of Personnel Management may prescribe regulations to carry out this subsection \[amending this section and section 8414 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 8414 of this title\]."
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Government Accountability Office: Voluntary Early Retirement
 
-Pub. L. 107–296, title XIII, §1313(b)(3), Nov. 25, 2002, 116 Stat. 2296, provided that: “The amendments made by this subsection \[amending this section and section 8414 of this title and repealing provisions set out as notes under this section and section 8414 of this title\] shall not be construed to affect the authority under section 1 of Public Law 106–303 (5 U.S.C. 8336 note; 114 State. 1063).”
+Pub. L. 107–296, title XIII, §1313(b)(3), Nov. 25, 2002, 116 Stat. 2296, provided that: "The amendments made by this subsection \[amending this section and section 8414 of this title and repealing provisions set out as notes under this section and section 8414 of this title\] shall not be construed to affect the authority under section 1 of Public Law 106–303 (5 U.S.C. 8336 note; 114 State. 1063)."
 
 Pub. L. 106–303, §1, Oct. 13, 2000, 114 Stat. 1063, as amended by Pub. L. 108–271, §§2(a), (b)(1), 8(b), July 7, 2004, 118 Stat. 811, 814, provided that:
 
-“(a)
+"(a)
 
 Civil Service Retirement System.—Effective October 13, 2000, paragraph (2) of section 8336(d) of title 5, United States Code, shall, with respect to officers and employees of the Government Accountability Office, be applied as if it had been amended to read as follows:
 
-&emsp;“ ‘(2)(A) has been employed continuously by the Government Accountability Office for at least the 31-day period immediately preceding the start of the period referred to in subparagraph (D);
+&emsp;" '(2)(A) has been employed continuously by the Government Accountability Office for at least the 31-day period immediately preceding the start of the period referred to in subparagraph (D);
 
-&emsp;“ ‘(B) is serving under an appointment that is not time limited;
+&emsp;" '(B) is serving under an appointment that is not time limited;
 
-&emsp;“ ‘(C) has not received a notice of involuntary separation, for misconduct or unacceptable performance, with respect to which final action remains pending; and
+&emsp;" '(C) has not received a notice of involuntary separation, for misconduct or unacceptable performance, with respect to which final action remains pending; and
 
-&emsp;“ ‘(D) is separated from the service voluntarily during a period with respect to which the Comptroller General determines that the application of this subsection is necessary and appropriate for the purpose of—
+&emsp;" '(D) is separated from the service voluntarily during a period with respect to which the Comptroller General determines that the application of this subsection is necessary and appropriate for the purpose of—
 
-&emsp;&emsp;“ ‘(i) realigning the Government Accountability Office's workforce in order to meet budgetary constraints or mission needs;
+&emsp;&emsp;" '(i) realigning the Government Accountability Office's workforce in order to meet budgetary constraints or mission needs;
 
-&emsp;&emsp;“ ‘(ii) correcting skill imbalances; or
+&emsp;&emsp;" '(ii) correcting skill imbalances; or
 
-&emsp;&emsp;“ ‘(iii) reducing high-grade, managerial, or supervisory positions;’.
+&emsp;&emsp;" '(iii) reducing high-grade, managerial, or supervisory positions;'.
 
-“(b)
+"(b)
 
-Federal Employees’ Retirement System.—Effective October 13, 2000, subparagraph (B) of section 8414(b)(1) of title 5, United States Code, shall, with respect to officers and employees of the Government Accountability Office, be applied as if it had been amended to read as follows:
+Federal Employees' Retirement System.—Effective October 13, 2000, subparagraph (B) of section 8414(b)(1) of title 5, United States Code, shall, with respect to officers and employees of the Government Accountability Office, be applied as if it had been amended to read as follows:
 
-&emsp;“ ‘(B)(i) has been employed continuously by the Government Accountability Office for at least the 31-day period immediately preceding the start of the period referred to in clause (iv);
+&emsp;" '(B)(i) has been employed continuously by the Government Accountability Office for at least the 31-day period immediately preceding the start of the period referred to in clause (iv);
 
-&emsp;“ ‘(ii) is serving under an appointment that is not time limited;
+&emsp;" '(ii) is serving under an appointment that is not time limited;
 
-&emsp;“ ‘(iii) has not received a notice of involuntary separation, for misconduct or unacceptable performance, with respect to which final action remains pending; and
+&emsp;" '(iii) has not received a notice of involuntary separation, for misconduct or unacceptable performance, with respect to which final action remains pending; and
 
-&emsp;“ ‘(iv) is separated from the service voluntarily during a period with respect to which the Comptroller General determines that the application of this subsection is necessary and appropriate for the purpose of—
+&emsp;" '(iv) is separated from the service voluntarily during a period with respect to which the Comptroller General determines that the application of this subsection is necessary and appropriate for the purpose of—
 
-&emsp;&emsp;“ ‘(I) realigning the Government Accountability Office's workforce in order to meet budgetary constraints or mission needs;
+&emsp;&emsp;" '(I) realigning the Government Accountability Office's workforce in order to meet budgetary constraints or mission needs;
 
-&emsp;&emsp;“ ‘(II) correcting skill imbalances; or
+&emsp;&emsp;" '(II) correcting skill imbalances; or
 
-&emsp;&emsp;“ ‘(III) reducing high-grade, managerial, or supervisory positions;’.
+&emsp;&emsp;" '(III) reducing high-grade, managerial, or supervisory positions;'.
 
-“(c)
+"(c)
 
 Numerical Limitation.—Not to exceed 10 percent of the Government Accountability Office's workforce (as of the start of a fiscal year) shall be permitted to take voluntary early retirement in such fiscal year pursuant to this section.
 
-“(d)
+"(d)
 
 Regulations.—The Comptroller General shall prescribe any regulations necessary to carry out this section, including regulations under which an early retirement offer may be made to any employee or group of employees based on—
 
-&emsp;“(1) geographic area, organizational unit, or occupational series or level;
+&emsp;"(1) geographic area, organizational unit, or occupational series or level;
 
-&emsp;“(2) skills, knowledge, or performance; or
+&emsp;"(2) skills, knowledge, or performance; or
 
-&emsp;“(3) such other similar factors (or combination of factors described in this or any other paragraph of this subsection) as the Comptroller General considers necessary and appropriate in order to achieve the purpose involved.
+&emsp;"(3) such other similar factors (or combination of factors described in this or any other paragraph of this subsection) as the Comptroller General considers necessary and appropriate in order to achieve the purpose involved.
 
-“(e)
+"(e)
 
-Sense of Congress.—It is the sense of Congress that the implementation of this section is intended to reshape the Government Accountability Office workforce and not downsize the Government Accountability Office workforce.”
+Sense of Congress.—It is the sense of Congress that the implementation of this section is intended to reshape the Government Accountability Office workforce and not downsize the Government Accountability Office workforce."
 
 #### Application of Subsection (d)(2)
 
@@ -500,11 +500,11 @@ Nonapplicability of annuity provisions of subsec. (j) of this section to individ
 
 #### Individuals Entitled to Annuity Payments for Period Prior to October 1, 1979
 
-Section 1241(b)(2) of Pub. L. 96–70 provided that: “Effective October 1, 1979, any individual who, but for paragraph (1) of this subsection \[set out as an Effective Date of 1979 Amendment note above\], would have been entitled to one or more annuity payments pursuant to the amendments made by this section \[amending this section\] for periods before October 1, 1979, shall be entitled, to such extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such annuity payments.”
+Section 1241(b)(2) of Pub. L. 96–70 provided that: "Effective October 1, 1979, any individual who, but for paragraph (1) of this subsection \[set out as an Effective Date of 1979 Amendment note above\], would have been entitled to one or more annuity payments pursuant to the amendments made by this section \[amending this section\] for periods before October 1, 1979, shall be entitled, to such extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such annuity payments."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “serving”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "serving".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

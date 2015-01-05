@@ -2,7 +2,7 @@
 
 #### (a) Payments considered as distributive share or guaranteed payment
 
-Payments made in liquidation of the interest of a retiring partner or a deceased partner shall, except as provided in subsection (b), be considered—
+Payments made in liquidation of the interest of a retiring partner or a deceased partner shall,except as provided in subsection (b), be considered—
 
 &emsp;(1) as a distributive share to the recipient of partnership income if the amount thereof is determined with regard to the income of the partnership, or
 
@@ -56,5 +56,5 @@ Binding contract exception.—The amendments made by this section shall not appl
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges,and distributions taking place after Oct. 9, 1975, see section 701(u)(13)(C) of Pub. L. 95–600, set out as a note under section 751 of this title.
+Amendment by Pub. L. 95–600 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges, and distributions taking place after Oct. 9, 1975, see section 701(u)(13)(C) of Pub. L. 95–600, set out as a note under section 751 of this title.
 

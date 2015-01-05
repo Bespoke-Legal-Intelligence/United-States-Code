@@ -80,7 +80,7 @@ Notwithstanding subsection (a), any wine produced in the United States at any pl
 
 #### Prior Provisions
 
-A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar.29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

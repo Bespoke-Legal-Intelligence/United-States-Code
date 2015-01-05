@@ -64,9 +64,9 @@ Sept. 13, 1960, Pub. L. 86–767, §202, 74 Stat. 907.
 
 Sept. 4, 1964, Pub. L. 88–581, §4(b), 78 Stat. 919.
 
-In subsection (a)(2), “Air Force” is added on authority of the Act of July 26, 1947, ch. 343, §207(a), (f), 61 Stat. 502, and sections 8010—8013 of title 10, United States Code. This does not affect the operation of this subsection insofar as it concerns members of the Coast Guard whose pension is based in whole or in part on service with the Coast Guard when it operated as a part of the Navy.
+In subsection (a)(2), "Air Force" is added on authority of the Act of July 26, 1947, ch. 343, §207(a), (f), 61 Stat. 502, and sections 8010—8013 of title 10, United States Code. This does not affect the operation of this subsection insofar as it concerns members of the CoastGuard whose pension is based in whole or in part on service with the Coast Guard when it operated as a part of the Navy.
 
-In subsection (b), the reference to the definition of “employee” in former section 790 is omitted as unnecessary as the definition is included in section 8101 for the entire subchapter.
+In subsection (b), the reference to the definition of "employee" in former section 790 is omitted as unnecessary as the definition is included in section 8101 for the entire subchapter.
 
 Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
 
@@ -88,7 +88,7 @@ Act
 
 July 4, 1966, Pub. L. 89–488, §5(a), 80 Stat. 253.
 
-The words “another retirement system for employees of the Government” are substituted for “any other Federal Act or program providing retirement benefits for employees”.
+The words "another retirement system for employees of the Government" are substituted for "any other Federal Act or program providing retirement benefits for employees".
 
 #### References in Text
 
@@ -96,13 +96,13 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(4). Pub. L. 106–398 struck out “, subject to the reduction of such pay in accordance with section 5532(b) of title 5, United States Code” after “uniformed services”.
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–398 struck out ", subject to the reduction of such pay in accordance with section 5532(b) of title 5, United States Code" after "uniformed services".
 
-<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–335 added subsec. (d).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–416 struck out “and” in cl. (1), substituted a semicolon for a period in cl. (2), and added cls. (3) and (4).
+<b>1974</b>—Subsec. (a). Pub. L. 93–416 struck out "and" in cl. (1), substituted a semicolon for a period in cl. (2), and added cls. (3) and (4).
 
 #### Effective Date of 1986 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–416, §9(b), Sept. 7, 1974, 88 Stat. 1145, provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
+Pub. L. 93–416, §9(b), Sept. 7, 1974, 88 Stat. 1145, provided that: "The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act."
 
 #### Personnel Not Affected by 1967 Increase
 

@@ -80,7 +80,7 @@
 
 &emsp;(A) between the Postal Service and the postmasters' organization as represented by the organization; or
 
-&emsp;(B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters' organizations (acting in concert) as represented by either or any of the postmasters' organizations involved.
+&emsp;(B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters' organizations (acting inconcert) as represented by either or any of the postmasters' organizations involved.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 96–326, Aug. 8, 1980, 94 Stat. 1023; Pub. L. 108–86, §2(a)–(c), Sept. 30, 2003, 117 Stat. 1052.)
 

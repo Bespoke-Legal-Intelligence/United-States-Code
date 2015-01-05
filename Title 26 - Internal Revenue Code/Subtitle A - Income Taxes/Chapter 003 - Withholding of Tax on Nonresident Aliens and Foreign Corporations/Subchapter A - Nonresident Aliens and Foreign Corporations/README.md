@@ -21,7 +21,7 @@
 
 <b>1983</b>—Pub. L. 97–455, §1(d)(2), Jan. 12, 1983, 96 Stat. 2498, added item 1444.
 
-<i>.</i><i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

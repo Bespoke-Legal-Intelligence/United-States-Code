@@ -134,7 +134,7 @@ In general.—The Secretary shall issue guidelines and requirements for the repo
 
 &emsp;&emsp;(B)
 
-Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions toensure the objectivity and independence of the reporting entity so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this chapter.
+Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this chapter.
 
 &emsp;&emsp;(C)
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Center
 
-There shall be in the Institute an agency to be known as the National Center for Medical Rehabilitation Research (hereafter in this section referred to as the "Center"). The Director of theInstitute shall appoint a qualified individual to serve as Director of the Center. The Director of the Center shall report directly to the Director of the Institute.
+There shall be in the Institute an agency to be known as the National Center for Medical Rehabilitation Research (hereafter in this section referred to as the "Center"). The Director of the Institute shall appoint a qualified individual to serve as Director of the Center. The Director of the Center shall report directly to the Director of the Institute.
 
 #### (b) Purpose
 
@@ -64,7 +64,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 (2) The Advisory Board shall review and assess Federal research priorities, activities, and findings regarding medical rehabilitation research, and shall advise the Director of the Center and the Director of the Institute on the provisions of the Research Plan.
 
-(3)(A) The Director of NIH shall appoint to the Advisory Board 18 qualified representatives ofthe public who are not officers or employees of the Federal Government. Of such members, 12 shall be representatives of health and scientific disciplines with respect to medical rehabilitation and 6 shall be individuals representing the interests of individuals undergoing, or in need of, medical rehabilitation.
+(3)(A) The Director of NIH shall appoint to the Advisory Board 18 qualified representatives of the public who are not officers or employees of the Federal Government. Of such members, 12 shall be representatives of health and scientific disciplines with respect to medical rehabilitation and 6 shall be individuals representing the interests of individuals undergoing, or in need of, medical rehabilitation.
 
 (B) The following officials shall serve as ex officio members of the Advisory Board:
 
@@ -111,6 +111,10 @@ Section 284b of this title, referred to in subsec. (d)(3)(B), (4), was repealed 
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+
+#### Transfer of Functions
+
+Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of section 3515e of Title 42, The Public Health and Welfare.
 
 #### Preventing Duplicative Programs of Medical Rehabilitation Research
 

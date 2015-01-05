@@ -34,15 +34,15 @@ Impact on Basic Pay.—A bonus paid under this section is not part of the basic 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2). Pub. L. 111–259, §443(1), substituted “is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills” for “is transferred to a different geographic area with a higher cost of living”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–259, §443(1), substituted "is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills" for "is transferred to a different geographic area with a higher cost of living".
 
-Subsec. (b)(2). Pub. L. 111–259, §443(2), substituted “, including requirements for a bonus recipient's repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.” for the period.
+Subsec. (b)(2). Pub. L. 111–259, §443(2), substituted ", including requirements for a bonus recipient's repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation." for the period.
 
-Subsec. (c). Pub. L. 111–259, §443(3), substituted “annual rate of basic pay. The bonus may be paid in a lump sum or installments linked to completion of periods of service.” for “basic pay.”
+Subsec. (c). Pub. L. 111–259, §443(3), substituted "annual rate of basic pay. The bonus may be paid in a lump sum or installments linked to completion of periods of service." for "basic pay."
 
-Subsec. (d). Pub. L. 111–259, §443(4), substituted “bonus paid under this section” for “retention bonus”.
+Subsec. (d). Pub. L. 111–259, §443(4), substituted "bonus paid under this section" for "retention bonus".
 
-<b>2009</b>—Subsec. (e). Pub. L. 111–117 struck out subsec. (e). Text read as follows: “The authority to grant bonuses under this section shall cease to be available after December 31, 2009.”
+<b>2009</b>—Subsec. (e). Pub. L. 111–117 struck out subsec. (e). Text read as follows: "The authority to grant bonuses under this section shall cease to be available after December 31, 2009."
 
 <i><sup>1</sup></i><i> So in original. No section 5758 has been enacted.</i>
 

@@ -22,7 +22,7 @@ The service projects carried out by the National Civilian Community Corps shall�
 
 #### (B) Other sources
 
-&emsp;&emsp;Other public and private organizations and agencies, including community-based entities and representatives of local communities in the vicinity of a Corps campus, may develop proposals for projects for a Corps campus. Corps members shall also be encouraged to identify projects for the Corps.
+&emsp;&emsp;Other public and private organizations and agencies, including community-based entities and representatives of local communities in the vicinity of a Corps campus, may develop proposals for projects for a Corpscampus. Corps members shall also be encouraged to identify projects for the Corps.
 
 #### (2) Consultation requirements
 
@@ -36,7 +36,7 @@ The service projects carried out by the National Civilian Community Corps shall�
 
 #### (2) Innovative local arrangements for project performance
 
-&emsp;The Director shall encourage campus directors to negotiate with representatives of localcommunities, to the extent practicable, innovative arrangements for the performance of projects. The arrangements may provide for cost-sharing and the provision by the communities of in-kind support and other support.
+&emsp;The Director shall encourage campus directors to negotiate with representatives of local communities, to the extent practicable, innovative arrangements for the performance of projects. The arrangements may provide for cost-sharing and the provision by the communities of in-kind support and other support.
 
 (Pub. L. 101–610, title I, §157, formerly §195F, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2526; renumbered §157 and amended Pub. L. 103–82, title I, §104(b), title IV, §§402(b)(2), 403(b), Sept. 21, 1993, 107 Stat. 840, 919, 920; Pub. L. 111–13, title I, §1507, Apr. 21, 2009, 123 Stat. 1524.)
 

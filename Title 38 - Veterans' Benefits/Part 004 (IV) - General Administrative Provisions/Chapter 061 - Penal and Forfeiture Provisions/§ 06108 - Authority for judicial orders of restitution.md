@@ -6,7 +6,7 @@
 
 (c) If the court does not order restitution, or orders only partial restitution, under subsection (a), the court shall state on the record the reasons therefor.
 
-(d) Amounts received in connection with misuse by a fiduciary of funds paid as benefits under laws administered by the Secretary shall be paidto the individual whose benefits were misused. If the Secretary has previously reissued the misused benefits, the amounts shall be treated in the same manner as overpayments recouped by the Secretary and shall be deposited to the credit of the applicable revolving fund, trust fund, or appropriation.
+(d) Amounts received in connection with misuse by a fiduciary of funds paid as benefits under laws administered by the Secretary shall be paid to the individual whose benefits were misused. If the Secretary has previously reissued the misused benefits, the amounts shall be treated in the same manner as overpayments recouped by the Secretary and shall be deposited to the credit of the applicable revolving fund, trust fund, or appropriation.
 
 (Added Pub. L. 108–454, title V, §504(b)(1), Dec. 10, 2004, 118 Stat. 3621.)
 

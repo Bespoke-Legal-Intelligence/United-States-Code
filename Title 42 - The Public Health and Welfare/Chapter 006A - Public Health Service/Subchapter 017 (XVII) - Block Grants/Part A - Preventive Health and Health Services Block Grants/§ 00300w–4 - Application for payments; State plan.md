@@ -122,7 +122,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–590, which directed amendment of subsec. (c) by adding at the end thereof a new par. (7), was executed by adding par. (7) after par. (6) and before the last sentence to reflect the probable intent of Congress.
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–607 inserted at end "The description shall include a statement of the publichealth objectives expected to be achieved by the State through the use of the payments the State will receive under section 300w–2 of this title."
+<b>1988</b>—Subsec. (d). Pub. L. 100–607 inserted at end "The description shall include a statement of the public health objectives expected to be achieved by the State through the use of the payments the State will receive under section 300w–2 of this title."
 
 <b>1986</b>—Subsec. (c)(6). Pub. L. 99–646 and Pub. L. 99–654 amended par. (6) identically, substituting "sex offense" for "rape".
 

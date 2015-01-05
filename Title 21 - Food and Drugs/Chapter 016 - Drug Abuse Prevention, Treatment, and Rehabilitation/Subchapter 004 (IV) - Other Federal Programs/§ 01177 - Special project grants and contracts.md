@@ -2,13 +2,13 @@
 
 #### (a) Scope of programs; priority
 
-The Secretary <sup>1</sup> acting through the National Institute on Drug Abuse, may make grants to and enter into contracts with individuals and public and private nonprofit entities—
+The Secretary <sup>1</sup> acting through the National Institute on Drug Abuse, may make grants toand enter into contracts with individuals and public and private nonprofit entities—
 
 &emsp;(1) to provide training seminars, educational programs, and technical assistance for the development, demonstration, and evaluation of drug abuse prevention, treatment, and rehabilitation programs; and
 
 &emsp;(2) to conduct demonstration and evaluation projects, with a high priority on prevention and early intervention projects and on identifying new and more effective drug abuse prevention, treatment, and rehabilitation programs.
 
-> In the implementation of his authority under this section, the Secretary shall accord a high priority to applications for grants or contracts for primary prevention programs. For purposes of the preceding sentence, primary prevention programs include programs designed to discourage persons from beginning drug abuse. To the extent that appropriations authorized under this section are used to fund treatment services, the Secretary shall not limit such funding to treatment for opiate abuse, but shall also provide support for treatment for non-opiate drug abuse including polydrug abuse. Furthermore, nothing shall prevent the use of funds provided underthis section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
+> In the implementation of his authority under this section, the Secretary shall accord a high priority to applications for grants or contracts for primary prevention programs. For purposes of the preceding sentence, primary prevention programs include programs designed to discourage persons from beginning drug abuse. To the extent that appropriations authorized under this section are used to fund treatment services, the Secretary shall not limit such funding to treatment for opiate abuse, but shall also provide support for treatment for non-opiate drug abuse including polydrug abuse. Furthermore, nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
 
 #### (b) Authorization of appropriations
 
@@ -32,7 +32,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 #### (d) Programs and projects aimed at underserved groups; encouragement and special consideration given to applications
 
-The Secretary shall encourage the submission of and give special consideration to applications under this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
+The Secretary shall encourage the submission of and give special consideration to applicationsunder this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
 
 #### (e) Payments; advances; reimbursement; installments
 
@@ -78,7 +78,7 @@ Subsec. (a)(6). Pub. L. 96–181, §7(a)(3), in provisions relating to evaluatio
 
 Subsec. (b). Pub. L. 96–181, §7(b), inserted authorization of appropriations for grants and contracts under pars. (3) and (6) of subsec. (a) and for other programs and activities for fiscal years ending Sept. 30, 1980, and Sept. 30, 1981, and required certain percentage of appropriated funds to be obligated for grants and contracts for primary prevention and intervention programs designed to discourage individuals from abusing drugs.
 
-Subsec. (d). Pub. L. 96–181, §7(c), inserted provisions for special consideration to applications for programs and projects for prevention and treatment of drug abuse and drug dependence by elderly.
+Subsec. (d). Pub. L. 96–181, §7(c), inserted provisions for special consideration to applications for programsand projects for prevention and treatment of drug abuse and drug dependence by elderly.
 
 Subsec. (f). Pub. L. 96–181, §7(d), added subsec. (f).
 

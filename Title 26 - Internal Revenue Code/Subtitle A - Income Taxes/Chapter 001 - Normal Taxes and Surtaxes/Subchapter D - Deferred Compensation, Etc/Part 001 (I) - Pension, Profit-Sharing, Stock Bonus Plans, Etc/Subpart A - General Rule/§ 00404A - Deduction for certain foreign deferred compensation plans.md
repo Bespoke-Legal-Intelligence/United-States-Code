@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Payment after close of taxable year
 
-&emsp;For purposes of paragraph (1), a payment made after the close of a taxable year shall betreated as made on the last day of such year if the payment is made—
+&emsp;For purposes of paragraph (1), a payment made after the close of a taxable year shall be treated as made on the last day of such year if the payment is made—
 
 &emsp;&emsp;(A) on account of such year, and
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (e) Qualified foreign plan
 
-For purposes of this section, the term "qualified foreign plan" means any written plan of anemployer for deferring the receipt of compensation but only if—
+For purposes of this section, the term "qualified foreign plan" means any written plan of an employer for deferring the receipt of compensation but only if—
 
 &emsp;(1) such plan is for the exclusive benefit of the employer's employees or their beneficiaries,
 
@@ -202,7 +202,7 @@ For purposes of this section—
 
 #### (h) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes ofthis section (including regulations providing for the coordination of the provisions of this section with section 404 in the case of a plan which has been subject to both of such sections).
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section (including regulations providing for the coordination of the provisions of this section with section 404 in the case of a plan which has been subject to both of such sections).
 
 (Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, §1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 109–280, title VIII, §801(c)(4), Aug. 17, 2006, 120 Stat. 995.)
 
@@ -260,7 +260,7 @@ Revocation only with consent.—An election under this paragraph may be revoked 
 
 &emsp;"(E)
 
-Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of a refund, or the assessment of a deficiency, was not barred by any law or rule of law.
+Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of arefund, or the assessment of a deficiency, was not barred by any law or rule of law.
 
 "(3)
 

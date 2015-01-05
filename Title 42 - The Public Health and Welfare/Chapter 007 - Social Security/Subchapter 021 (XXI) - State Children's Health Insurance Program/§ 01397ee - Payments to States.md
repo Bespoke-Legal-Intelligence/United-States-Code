@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2009 is equal to the monthly average unduplicated number of qualifying children enrolled in the State plan under subchapter XIX during fiscal year 2007 increased by the population growth for children in that State from 2007 to 2008 (as estimated by the Bureau of the Census) plus 4 percentage points, and further increased by the population growth for children in that State from 2008 to 2009 (as estimated by the Bureau of the Census) plus 4 percentage points;
 
-&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 2010, 2011, and 2012, is equal to the baseline number of child enrollees for the State for the previous fiscal year under subchapter XIX, increased by the population growthfor children in that State from the calendar year in which the respective fiscal year begins to the succeeding calendar year (as estimated by the Bureau of the Census) plus 3.5 percentage points;
+&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 2010, 2011, and 2012, is equal to the baseline number of child enrollees for the State for the previous fiscal year under subchapter XIX, increased by the population growth for children in that State from the calendar year in which the respective fiscal year begins to the succeeding calendar year (as estimated by the Bureau of the Census) plus 3.5 percentage points;
 
 &emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2013, 2014, and 2015, is equal to the baseline number of child enrollees for the State for the previous fiscal year under subchapter XIX, increased by the population growth for children in that State from the calendar year in which the respective fiscal year begins to the succeeding calendar year (as estimated by the Bureau of the Census) plus 3 percentage points; and
 
@@ -190,7 +190,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State provides, in the case of renewal of a child's eligibility for medical assistance under subchapter XIX or child health assistance under this subchapter, a pre-printed form completed by the State based on the information available to the State and notice to the parent or caretaker relative of the child that eligibility of the child will be renewed and continuedbased on such information unless the State is provided other information. Nothing in this clause shall be construed as preventing a State from verifying, through electronic and other means, the information so provided.
+&emsp;&emsp;&emsp;The State provides, in the case of renewal of a child's eligibility for medical assistance under subchapter XIX or child health assistance under this subchapter, a pre-printed form completed by the State based on the information available to the State and notice to the parent or caretaker relative of the child that eligibility of the child will be renewed and continued based on such information unless the State is provided other information. Nothing in this clause shall be construed as preventing a State from verifying, through electronic and other means, the information so provided.
 
 #### (ii) Satisfaction through demonstrated use of ex parte process
 
@@ -282,7 +282,7 @@ For purposes of subsection (a) of this section, the "enhanced FMAP", for a State
 
 #### (B) Other Federal governmental programs
 
-&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) of this section or any other provision of law, no payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
+&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) of this section or any other provision of law, no payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has beenmade or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
 
 #### (7) Limitation on payment for abortions
 
@@ -356,7 +356,7 @@ For purposes of subsection (a) of this section, the "enhanced FMAP", for a State
 
 #### (iii) Employer opt-out
 
-&emsp;&emsp;&emsp;An employer may notify a State that it elects to opt-out of being directly paid apremium assistance subsidy on behalf of an employee. In the event of such a notification, an employer shall withhold the total amount of the employee contribution required for enrollment of the employee and the child in the qualified employer-sponsored coverage and the State shall pay the premium assistance subsidy directly to the employee.
+&emsp;&emsp;&emsp;An employer may notify a State that it elects to opt-out of being directly paid a premium assistance subsidy on behalf of an employee. In the event of such a notification, an employer shall withhold the total amount of the employee contribution required for enrollment of the employee and the child in the qualified employer-sponsored coverage and the State shall pay the premium assistance subsidy directly to the employee.
 
 #### (iv) Treatment as child health assistance
 
@@ -400,7 +400,7 @@ For purposes of subsection (a) of this section, the "enhanced FMAP", for a State
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A State may establish an employer-family premium assistance purchasing pool for employers with less than 250 employees who have at least 1 employee who is a pregnant woman eligible for assistance under the State child health plan (including through the application of an option described in section 1397ll(f) of this title) or a member of a family with at least 1 targeted low-income child and to provide a premium assistance subsidy under this paragraph for enrollment in coverage made available through such pool.
+&emsp;&emsp;&emsp;A State may establish an employer-family premium assistance purchasing pool for employers with less than 250 employees who have at least 1 employee who is a pregnant woman eligible for assistance under the State child health plan (including through the application of an option described in section 1397ll(f) of this title) or a member of a family with at least 1targeted low-income child and to provide a premium assistance subsidy under this paragraph for enrollment in coverage made available through such pool.
 
 #### (ii) Access to choice of coverage
 
@@ -412,7 +412,7 @@ For purposes of subsection (a) of this section, the "enhanced FMAP", for a State
 
 #### (J) No effect on premium assistance waiver programs
 
-&emsp;&emsp;Nothing in this paragraph shall be construed as limiting the authority of a State to offer premium assistance under section 1396e or 1396e–1 of this title, a waiver described in paragraph (2)(B) or (3), a waiver approved under section 1315 of this title, orother authority in effect prior to February 4, 2009.
+&emsp;&emsp;Nothing in this paragraph shall be construed as limiting the authority of a State to offer premium assistance under section 1396e or 1396e–1 of this title, a waiver described in paragraph (2)(B) or (3), a waiver approved under section 1315 of this title, or other authority in effect prior to February 4, 2009.
 
 #### (K) Notice of availability
 
@@ -514,7 +514,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (2) Qualifying State
 
-&emsp;In this subsection, the term "qualifying State" means a State that, on and after April 15, 1997, has an income eligibility standardthat is at least 184 percent of the poverty line with respect to any 1 or more categories of children (other than infants) who are eligible for medical assistance under section 1396a(a)(10)(A) of this title or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on August 1, 1994, or July 1, 1995, has an income eligibility standard under such waiver for children that is at least 185 percent of the poverty line, or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on January 1, 1994, has an income eligibility standard under such waiver for children who lack health insurance that is at least 185 percent of the poverty line, or, in the case of a State that had a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on October 1, 1993, had an income eligibility standard under such waiver for children that was at least 185 percent of the poverty line and on and after July 1, 1998, has an income eligibility standard for children under section 1396a(a)(10)(A) of this title or a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that is at least 185 percent of the poverty line.
+&emsp;In this subsection, the term "qualifying State" means a State that, on and after April 15, 1997, has an income eligibility standard that is at least 184 percent of the poverty line with respect to any 1 or more categories of children (other than infants) who are eligible for medical assistance under section 1396a(a)(10)(A) of this title or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on August 1, 1994, or July 1, 1995, has an income eligibility standard under such waiver for children that is at least 185 percent of the poverty line, or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on January 1, 1994, has an income eligibility standard under such waiver for children who lack health insurance that is at least 185 percent of the poverty line, or, in the case of a State that had a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on October 1, 1993, had an income eligibility standard under such waiver for children that was at least 185 percent of the poverty line and on and after July 1, 1998, has an income eligibility standard for children under section 1396a(a)(10)(A) of this title or a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that is at least 185 percent of the poverty line.
 
 #### (3) Construction
 
@@ -536,7 +536,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 Sections 108 and 115 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (a)(3)(E)(ii)(I)(bb), (H), are sections 108 and 115, respectively, of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, 35. Section 108 is not classified to the Code. Section 115 is set out as a note under section 1396d of this title.
 
-The Improper Payments Information Act of 2002, referred to in subsec. (c)(2)(C)(iv), (11), is Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, which is set out as a note under section 3321 of Title 31, Money and Finance.
+The Improper Payments Information Act of 2002, referred to in subsec. (c)(2)(C)(iv), (11), is Pub. L. 107–300,Nov. 26, 2002, 116 Stat. 2350, which is set out as a note under section 3321 of Title 31, Money and Finance.
 
 Section 2701 of the Public Health Service Act, referred to in subsec. (c)(10)(B)(i)(I), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
@@ -552,7 +552,7 @@ Subsec. (a)(3)(F)(iii). Pub. L. 111–148, §2101(c), inserted "or any children 
 
 Subsec. (b). Pub. L. 111–148, §10203(c)(1), substituted "2015" for "2013".
 
-Pub. L. 111–148, §2101(a), inserted at end "Notwithstanding the preceding sentence, during the period thatbegins on October 1, 2013, and ends on September 30, 2019, the enhanced FMAP determined for a State for a fiscal year (or for any portion of a fiscal year occurring during such period) shall be increased by 23 percentage points, but in no case shall exceed 100 percent. The increase in the enhanced FMAP under the preceding sentence shall not apply with respect to determining the payment to a State under subsection (a)(1) for expenditures described in subparagraph (D)(iv), paragraphs (8), (9), (11) of subsection (c), or clause (4) of the first sentence of section 1396d(b) of this title."
+Pub. L. 111–148, §2101(a), inserted at end "Notwithstanding the preceding sentence, during the period that begins on October 1, 2013, and ends on September 30, 2019, the enhanced FMAP determined for a State for a fiscal year (or for any portion of a fiscal year occurring during such period) shall be increased by 23 percentage points, but in no case shall exceed 100 percent. The increase in the enhanced FMAP under the preceding sentence shall not apply with respect to determining the payment to a State under subsection (a)(1) for expenditures described in subparagraph (D)(iv), paragraphs (8), (9), (11) of subsection (c), or clause (4) of the first sentence of section 1396d(b) of this title."
 
 Subsec. (c)(3)(A). Pub. L. 111–148, §10203(b)(4)(A), inserted dash after "relative to" in introductory provisions.
 
@@ -688,7 +688,7 @@ Pub. L. 105–100, title I, §162, Nov. 19, 1997, 111 Stat. 2188, provided in pa
 
 #### Construction of 2009 Amendment
 
-Pub. L. 111–3, title I, §114(b), Feb. 4, 2009, 123 Stat. 35, provided that: "Nothing in the amendments made by this section \[amending this section\] shall be construed as—
+Pub. L. 111–3, title I, §114(b), Feb. 4, 2009, 123 Stat. 35, provided that: "Nothing in the amendments made bythis section \[amending this section\] shall be construed as—
 
 &emsp;"(1) changing any income eligibility level for children under title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\]; or
 
@@ -700,7 +700,7 @@ Pub. L. 111–3, title VI, §601(b)–(g), Feb. 4, 2009, 123 Stat. 96–98, as a
 
 "(b)
 
-Final Rule Required To Be in Effect for All States.—Notwithstanding parts 431 and 457 of title 42, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Feb. 4, 2009\]), the Secretary shall not calculate or publish any national or State-specific error rate based on the application of the payment error rate measurement (in this section referred to as 'PERM') requirements to CHIP until after the date that is 6 months after the date on which a new final rule (in this section referred to as the 'new final rule') promulgated after the date of the enactment of this Act \[Feb. 4, 2009\] and implementing such requirements in accordance with the requirements of subsection (c) is in effect for all States. Any calculation of a national error rate or a State specific error rate after such new final rule in effect for all States may only be inclusive of errors, as defined in such new final rule or in guidance issued within a reasonable time frame after the effective date for such new final rule that includes detailed guidance for the specific methodology for error determinations. The Secretary is not required under this subsection to calculate or publish a national or aState-specific error rate for fiscal year 2009 or fiscal year 2010.
+Final Rule Required To Be in Effect for All States.—Notwithstanding parts 431 and 457 of title 42, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Feb. 4, 2009\]), the Secretary shall not calculate or publish any national or State-specific error rate based on the application of the payment error rate measurement (in this section referred to as 'PERM') requirements to CHIP until after the date that is 6 months after the date on which a new final rule (in this section referred to as the 'new final rule') promulgated after the date of the enactment of this Act \[Feb. 4, 2009\] and implementing such requirements in accordance with the requirements of subsection (c) is in effect for all States. Any calculation of a national error rate or a State specific error rate after such new final rule in effect for all States may only be inclusive of errors, as defined in such new final rule or in guidance issued within a reasonable time frame after the effective date for such new final rule that includes detailed guidance for the specific methodology for error determinations. The Secretary is not required under this subsection to calculate or publish a national or a State-specific error rate for fiscal year 2009 or fiscal year 2010.
 
 "(c)
 

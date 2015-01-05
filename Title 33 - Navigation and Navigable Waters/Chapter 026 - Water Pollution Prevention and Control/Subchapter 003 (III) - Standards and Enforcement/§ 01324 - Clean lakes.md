@@ -106,7 +106,7 @@ Subsec. (d)(3). Pub. L. 106–457, §702(2), substituted "Notwithstanding sectio
 
 Subsec. (d)(4)(B)(i). Pub. L. 106–457, §702(3), substituted "$25,000,000" for "$15,000,000".
 
-<b>1998</b>—Subsec. (a)(3), (4). Pub. L. 105–362, §501(b), which directed the redesignation of par. (4) as (3) and strikingout of heading and text of par. (3), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+<b>1998</b>—Subsec. (a)(3), (4). Pub. L. 105–362, §501(b), which directed the redesignation of par. (4) as (3) and striking out of heading and text of par. (3), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 <b>1995</b>—Subsec. (d)(3). Pub. L. 104–66 substituted "By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure" for "The Administrator shall report annually to the Committee on Public Works and Transportation".
 

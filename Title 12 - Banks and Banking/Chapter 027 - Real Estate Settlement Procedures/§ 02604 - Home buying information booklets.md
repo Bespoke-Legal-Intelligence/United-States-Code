@@ -2,7 +2,7 @@
 
 #### (a) Preparation and distribution
 
-The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of different ethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists, organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
+The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of differentethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists, organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
 
 #### (b) Contents
 
@@ -30,7 +30,7 @@ Each booklet shall be in such form and detail as the Director shall prescribe an
 
 &emsp;(7) A brief explanation of the nature of a home equity line of credit and a reference to the pamphlet required to be provided under section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\].
 
-&emsp;(8) Information about homeownership counseling services made available pursuant to section 1701x(a)(4) of this title, a recommendationthat the consumer use such services, and notification that a list of certified providers of homeownership counseling in the area, and their contact information, is available.
+&emsp;(8) Information about homeownership counseling services made available pursuant to section 1701x(a)(4) of this title, a recommendation that the consumer use such services, and notification that a list of certified providers of homeownership counseling in the area, and their contact information, is available.
 
 &emsp;(9) An explanation of the nature and purpose of escrow accounts when used in connection with loans secured by residential real estate and the requirements under section 2609 of this title regarding such accounts.
 
@@ -42,7 +42,7 @@ Each booklet shall be in such form and detail as the Director shall prescribe an
 
 &emsp;(13) Notice that the Office of Housing of the Department of Housing and Urban Development has made publicly available a brochure regarding loan fraud and a World Wide Web address and toll-free telephone number for obtaining the brochure.
 
-&emsp;(14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards.
+&emsp;(14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards, and the following statement: "Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.".
 
 > The booklet prepared pursuant to this section shall take into consideration differences in real estate settlement procedures that may exist among the several States and territories of the United States and among separate political subdivisions within the same State and territory.
 
@@ -58,7 +58,7 @@ Each lender referred to in subsection (a) of this section shall provide the book
 
 Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
 
-(Pub. L. 93–533, §5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §4, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 102–550, title IX, §951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, §1098(3), title XIV, §1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, §100222, July 6, 2012, 126 Stat. 934.)
+(Pub. L. 93–533, §5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §4, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 102–550, title IX, §951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, §1098(3), title XIV, §1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, §100222, July 6, 2012, 126 Stat. 934; Pub. L. 113–89, §13(b), Mar. 21, 2014, 128 Stat. 1026.)
 
 #### References in Text
 
@@ -68,7 +68,9 @@ The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 9
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(14). Pub. L. 112–141 added par. (14).
+<b>2014</b>—Subsec. (b)(14). Pub. L. 113–89 inserted before period at end ", and the following statement: 'Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.' " and transferred par. (14) to appear after par. (13).
+
+<b>2012</b>—Subsec. (b)(14). Pub. L. 112–141 added par. (14) at end of subsec. (b).
 
 <b>2010</b>—Pub. L. 111–203, §1450(1), substituted "Home buying" for "Special" in section catchline.
 

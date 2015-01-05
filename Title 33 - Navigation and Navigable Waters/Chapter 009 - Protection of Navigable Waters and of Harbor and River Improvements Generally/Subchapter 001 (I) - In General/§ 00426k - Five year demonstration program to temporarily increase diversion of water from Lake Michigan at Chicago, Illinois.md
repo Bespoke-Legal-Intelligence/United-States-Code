@@ -18,7 +18,7 @@ The Chief of Engineers shall conduct a study and a demonstration program to dete
 
 #### (e) "Controllable diversion" defined
 
-For purposes of this section, controllable diversion is defined as that diversion at Wilmette,O'Brien, and Chicago River control structures which is not attributable to leakage or which is not necessary for navigational requirements.
+For purposes of this section, controllable diversion is defined as that diversion at Wilmette, O'Brien, and Chicago River control structures which is not attributable to leakage or which is not necessary for navigational requirements.
 
 (Pub. L. 94–587, §166, Oct. 22, 1976, 90 Stat. 2934.)
 

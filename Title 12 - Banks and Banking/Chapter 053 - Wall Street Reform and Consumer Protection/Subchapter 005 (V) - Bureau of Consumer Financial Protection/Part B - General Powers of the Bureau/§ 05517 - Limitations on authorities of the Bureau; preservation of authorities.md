@@ -12,7 +12,7 @@
 
 &emsp;&emsp;Except as provided in subparagraph (B), and subject to subparagraph (C), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a merchant, retailer, or seller of nonfinancial goods or services, but only to the extent that such person—
 
-&emsp;&emsp;&emsp;(i) extends credit directly to a consumer, in a case in which the good or service being provided is not itself a consumer financial product or service (other than credit described in this subparagraph), exclusively for the purpose of enabling thatconsumer to purchase such nonfinancial good or service directly from the merchant, retailer, or seller;
+&emsp;&emsp;&emsp;(i) extends credit directly to a consumer, in a case in which the good or servicebeing provided is not itself a consumer financial product or service (other than credit described in this subparagraph), exclusively for the purpose of enabling that consumer to purchase such nonfinancial good or service directly from the merchant, retailer, or seller;
 
 &emsp;&emsp;&emsp;(ii) directly, or through an agreement with another person, collects debt arising from credit extended as described in clause (i); or
 
@@ -74,7 +74,7 @@
 
 #### (1) Real estate brokerage activities excluded
 
-&emsp;Without limiting subsection (a), and except as permitted in paragraph (2), the Bureau maynot exercise any rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a person that is licensed or registered as a real estate broker or real estate agent, in accordance with State law, to the extent that such person—
+&emsp;Without limiting subsection (a), and except as permitted in paragraph (2), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a person that is licensed or registered as a real estate broker or real estate agent, in accordance with State law, to the extent that such person—
 
 &emsp;&emsp;(A) acts as a real estate agent or broker for a buyer, seller, lessor, or lessee of real property;
 
@@ -150,11 +150,11 @@
 
 #### (B) Not a customary and usual accounting activity
 
-&emsp;&emsp;For purposes of this subsection, extending or brokering credit is not a customary and usual accounting activity, or incidental thereto.
+&emsp;&emsp;For purposes of this subsection, extending or brokering credit is not a customary andusual accounting activity, or incidental thereto.
 
 #### (C) Rule of construction
 
-&emsp;&emsp;For purposes of subparagraphs (A) and (B), a person described in paragraph (1)(A) shallnot be deemed to be extending credit, if such person is only extending credit directly to a consumer, exclusively for the purpose of enabling such consumer to purchase services described in clause (i) or (ii) of paragraph (1)(A) directly from such person, and such credit is—
+&emsp;&emsp;For purposes of subparagraphs (A) and (B), a person described in paragraph (1)(A) shall not be deemed to be extending credit, if such person is only extending credit directly to a consumer, exclusively for the purpose of enabling such consumer to purchase services described in clause (i) or (ii) of paragraph (1)(A) directly from such person, and such credit is—
 
 &emsp;&emsp;&emsp;(i) not subject to a finance charge; and
 
@@ -226,7 +226,7 @@
 
 #### (ii) Agency response
 
-&emsp;&emsp;&emsp;In response to a request by the Bureau, the Secretary and the Secretary of Labor shall jointly issue a written response, not later than 90 days after receipt of such request, to grant or deny the request of the Bureau regarding implementation of appropriate consumer protection standards under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
+&emsp;&emsp;&emsp;In response to a request by the Bureau, the Secretary and the Secretary of Labor shall jointly issue a written response, notlater than 90 days after receipt of such request, to grant or deny the request of the Bureau regarding implementation of appropriate consumer protection standards under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
 
 #### (iii) Scope of Bureau action
 
@@ -238,7 +238,7 @@
 
 #### (4) Specified plan or arrangement
 
-&emsp;For purposes of this subsection, the term "specified plan or arrangement" means any plan, account, or arrangement described in section 220, 223, 401(a), 403(a), 403(b), 408, 408A, 529, or 530 of title 26, or any employee benefit or compensation plan or arrangement, including a plan that is subject to title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\], or any prepaid tuition program offered by a State.
+&emsp;For purposes of this subsection, the term "specified plan or arrangement" means any plan, account, or arrangement described in section 220, 223, 401(a), 403(a), 403(b), 408, 408A, 529, 529A, or 530 of title 26, or any employee benefit or compensation plan or arrangement, including a plan that is subject to title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\], or any prepaid tuition program offered by a State.
 
 #### (h) Persons regulated by a State securities commission
 
@@ -274,7 +274,7 @@
 
 #### (1) In general
 
-&emsp;No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Farm Credit Administration to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Farm Credit Administration. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by the Farm Credit Administration.
+&emsp;No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Farm Credit Administration to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Farm Credit Administration. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> withrespect to a person regulated by the Farm Credit Administration.
 
 #### (2) Definition
 
@@ -322,7 +322,7 @@ Nothing in this title <sup>1</sup> shall affect the authority of the Corporatio
 
 No provision of this title <sup>1</sup> shall be construed as affecting any authority arising under the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
 
-(Pub. L. 111–203, title X, §1027, July 21, 2010, 124 Stat. 1995.)
+(Pub. L. 111–203, title X, §1027, July 21, 2010, 124 Stat. 1995; Pub. L. 113–295, div. B, title I, §102(e)(7), Dec. 19, 2014, 128 Stat. 4062.)
 
 #### References in Text
 
@@ -343,6 +343,14 @@ The Federal Deposit Insurance Act, referred to in subsec. (r), is act Sept. 21, 
 The Federal Credit Union Act, referred to in subsec. (r), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (s), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (g)(4). Pub. L. 113–295 inserted ", 529A" after "529".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

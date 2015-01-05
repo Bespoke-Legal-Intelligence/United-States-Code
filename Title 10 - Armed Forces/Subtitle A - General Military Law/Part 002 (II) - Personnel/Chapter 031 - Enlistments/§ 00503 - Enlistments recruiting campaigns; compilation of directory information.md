@@ -28,7 +28,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B)).
 
-(B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
+(B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the studentif the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
@@ -170,7 +170,7 @@ Covered graduates.—Paragraph (1) applies with respect to \[a\] person who—
 
 Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
 
-&emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, and attitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
+&emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, andattitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
 
 &emsp;"(2) Means for assessing how qualified persons fulfill their enlistment obligation.
 
@@ -382,7 +382,7 @@ Outreach Through Motor Sports.—(1) One of the pilot programs shall be a pilot 
 
 &emsp;"(D) For the Army to sponsor motor sports competitions for high school students at which recruiters meet with potential recruits.
 
-&emsp;"(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronic mail addresses of persons who are identified as potential recruits through activities under the pilot program.
+&emsp;"(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronicmail addresses of persons who are identified as potential recruits through activities under the pilot program.
 
 &emsp;"(F) Any other activities associated with motor sports competition that the Secretary determines appropriate for Army recruitment purposes.
 
@@ -392,7 +392,7 @@ Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot pr
 
 "(2) The Secretary of the Army shall select the institutions and colleges to be invited to participate in the pilot program.
 
-"(3) The conduct of the pilot program at an institution or college shall be subject to an agreement which the Secretary shall enter into with the governing bodyor authorized official of the institution or college, as the case may be.
+"(3) The conduct of the pilot program at an institution or college shall be subject to an agreement which the Secretary shall enter into with the governing body or authorized official of the institution or college, as the case may be.
 
 "(4) Under the pilot program, the Secretary shall provide for the following:
 

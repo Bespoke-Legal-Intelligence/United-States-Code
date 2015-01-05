@@ -22,13 +22,13 @@ Historical and Revision Notes
 
 Sept. 1, 1954, ch. 1208, §304(a), 68 Stat. 1113.
 
-The word “employee” is substituted for “civilian officers and employees of the Government” in view of the definition of “employee” in section 4501.
+The word "employee" is substituted for "civilian officers and employees of the Government" in view of the definition of "employee" in section 4501.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1978</b>—Par. (1). Pub. L. 95–454 inserted “or achieves a significant reduction in paperwork”.
+<b>1978</b>—Par. (1). Pub. L. 95–454 inserted "or achieves a significant reduction in paperwork".
 
 #### Effective Date of 1978 Amendment
 

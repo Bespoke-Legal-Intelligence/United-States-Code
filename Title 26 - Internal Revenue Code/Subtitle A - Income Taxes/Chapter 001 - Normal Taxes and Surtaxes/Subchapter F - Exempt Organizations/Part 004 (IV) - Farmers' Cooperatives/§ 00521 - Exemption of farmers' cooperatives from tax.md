@@ -28,7 +28,7 @@ A farmers' cooperative organization described in subsection (b)(1) shall be exem
 
 #### (6) Netting of losses
 
-&emsp;Exemption shall not be denied any such association because such association computes its net earnings for purposes of determining any amount available for distribution to patrons in the manner described in paragraph (1) of section 1388(j).
+&emsp;Exemption shall not be denied any such association because such association computesits net earnings for purposes of determining any amount available for distribution to patrons in the manner described in paragraph (1) of section 1388(j).
 
 #### (7) Cross reference
 

@@ -54,7 +54,7 @@ Feb. 25, 1946, ch. 35, §1, 60 Stat. 30; Aug. 4, 1949, ch. 393, §18, 63 Stat. 5
 
 In subsections (a) and (b), the words "General Accounting Office" are substituted for the words "accounting officers", for clarity.
 
-In subsection (a), the word "member" is substituted for the words "officers or enlisted persons", in 10:868and 34:941a. The words "his legal representative" are substituted for the words "a duly appointed legal representative of the estate", since an estate, being property and not an entity, has no representative. The words "duly appointed" are omitted as surplusage. The words "highest on the following list" are substituted for the words "following order of precedence", in 10:868 and 34:941a. Clauses (1)–(4) are substituted for the words between the first and second colons of 10:868 and 34:941a. The words "Surviving spouse" are substituted for the words "widow or widower" after the words "First, to".
+In subsection (a), the word "member" is substituted for the words "officers or enlisted persons", in 10:868 and 34:941a. The words "his legal representative" are substituted for the words "a duly appointed legal representative of the estate", since an estate, being property and not an entity, has no representative. The words "duly appointed" are omitted as surplusage. The words "highest on the following list" are substituted for the words "following order of precedence", in 10:868 and 34:941a. Clauses (1)–(4) are substituted for the words between the first and second colons of 10:868 and 34:941a. The words "Surviving spouse" are substituted for the words "widow or widower" after the words "First, to".
 
 In subsection (b), the words "That this section shall not be so construed as to prevent", "or persons", and "actually", in 10:868 and 34:941a, are omitted as surplusage.
 
@@ -106,7 +106,7 @@ In subsection (c), the word "Under" is substituted for the words "Subject to". T
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–316 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shall be made by the military department concerned or the Department of Transportation, as the case may be. Payment under clause (6) of subsection (a) shall be made—
+<b>1996</b>—Subsec. (c). Pub. L. 104–316 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shallbe made by the military department concerned or the Department of Transportation, as the case may be. Payment under clause (6) of subsection (a) shall be made—
 
 &emsp;"(1) upon settlement by the General Accounting Office; or
 

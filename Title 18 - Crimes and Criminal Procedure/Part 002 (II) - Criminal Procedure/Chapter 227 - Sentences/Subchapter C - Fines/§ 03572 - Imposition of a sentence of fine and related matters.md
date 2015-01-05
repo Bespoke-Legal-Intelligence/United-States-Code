@@ -6,7 +6,7 @@ Factors To Be Considered.—In determining whether to impose a fine, and the amo
 
 &emsp;(1) the defendant's income, earning capacity, and financial resources;
 
-&emsp;(2) the burden that the fine will impose upon the defendant, any person who is financiallydependent on the defendant, or any other person (including a government) that would be responsible for the welfare of any person financially dependent on the defendant, relative to the burden that alternative punishments would impose;
+&emsp;(2) the burden that the fine will impose upon the defendant, any person who is financially dependent on the defendant, or any other person (including a government) that would be responsible for the welfare of any person financially dependent on the defendant, relative to the burden that alternative punishments would impose;
 
 &emsp;(3) any pecuniary loss inflicted upon others as a result of the offense;
 
@@ -46,7 +46,7 @@ Time, Method of Payment, and Related Items.—(1) A person sentenced to pay a fi
 
 (e)
 
-Alternative Sentence Precluded.—At the time a defendant is sentenced to pay a fine, the court may not impose an alternative sentence to be carried out if the fine is not paid.
+Alternative Sentence Precluded.—At the time a defendant is sentenced to pay a fine,the court may not impose an alternative sentence to be carried out if the fine is not paid.
 
 (f)
 

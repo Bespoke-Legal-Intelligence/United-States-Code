@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (ii) $1,000,000 limitation
 
-&emsp;&emsp;&emsp;Clause (i) shall apply only if it can be determined at the time of the sale or exchange that the sales price cannot exceed$1,000,000. For purposes of the preceding sentence, all sales and exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange.
+&emsp;&emsp;&emsp;Clause (i) shall apply only if it can be determined at the time of the sale or exchange that the sales price cannot exceed $1,000,000. For purposes of the preceding sentence, all sales and exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange.
 
 #### (B) Sales of principal residences
 

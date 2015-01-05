@@ -32,7 +32,7 @@ The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 9
 
 In subsec. (b), the words "the Federal Energy Administration," which followed "Environmental Protection Agency," have been omitted from the Code in view of the termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
 
-In subsec. (c), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" onauthority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (e), "chapter 83 of title 41" substituted for "title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

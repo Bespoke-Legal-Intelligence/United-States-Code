@@ -38,7 +38,7 @@ Guarantee of prompt patent and trademark office responses.—Subject to the limi
 
 &emsp;&emsp;&emsp;&emsp;(II) the date of commencement of the national stage under section 371 in an international application;
 
-&emsp;&emsp;&emsp;(ii) respond to a reply under section 132, or to an appeal taken under section 134,within 4 months after the date on which the reply was filed or the appeal was taken;
+&emsp;&emsp;&emsp;(ii) respond to a reply under section 132, or to an appeal taken under section 134, within 4 months after the date on which the reply was filed or the appeal was taken;
 
 &emsp;&emsp;&emsp;(iii) act on an application within 4 months after the date of a decision by the Patent Trial and Appeal Board under section 134 or 135 or a decision by a Federal court under section 141, 145, or 146 in a case in which allowable claims remain in the application; or
 
@@ -102,7 +102,7 @@ Procedures for patent term adjustment determination.—
 
 &emsp;&emsp;&emsp;(i) make a determination of the period of any patent term adjustment under this subsection, and shall transmit a notice of that determination no later than the date of issuance of the patent; and
 
-&emsp;&emsp;&emsp;(ii) provide the applicant one opportunity to request reconsideration of any patent term adjustment determination made by the Director.
+&emsp;&emsp;&emsp;(ii) provide the applicant one opportunity to request reconsideration of anypatent term adjustment determination made by the Director.
 
 &emsp;&emsp;(C) The Director shall reinstate all or part of the cumulative period of time of an adjustment under paragraph (2)(C) if the applicant, prior to the issuance of the patent, makes a showing that, in spite of all due care, the applicant was unable to respond within the 3-month period, but in no case shall more than three additional months for each such response beyond the original 3-month period be reinstated.
 
@@ -170,7 +170,7 @@ Effective date.—The right under paragraph (1) to obtain a reasonable royalty b
 
 Copies.—The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335; Pub. L. 112–211, title I, §102(6), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, §1(h), Jan. 14, 2013, 126 Stat. 2457.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat.1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335; Pub. L. 112–211, title I, §102(6), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, §1(h), Jan. 14, 2013, 126 Stat. 2457.)
 
 #### Amendment of Section
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to procee
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filedon and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under section 100 of this title.
+Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under section 100 of this title.
 
 #### Effective Date of 2011 Amendment
 

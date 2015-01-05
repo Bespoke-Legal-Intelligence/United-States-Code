@@ -58,7 +58,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 &emsp;&emsp;The amount each Federal Home Loan Bank shall pay under subparagraph (A) shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
 
-&emsp;&emsp;&emsp;(i) the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (e) of this section (computed without regard to paragraphs (3) or (6) of such subsection); by
+&emsp;&emsp;&emsp;(i) the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (e) (computed without regard to paragraphs (3) or (6) of such subsection); by
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount the Thrift Depositor Protection Oversight Board required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
 
@@ -68,7 +68,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 #### (9) No compensation from Funding Corporation
 
-&emsp;Members of the Directorate of the Funding Corporation shall receive no pay, allowance,or benefit from the Funding Corporation for serving on the Directorate.
+&emsp;Members of the Directorate of the Funding Corporation shall receive no pay, allowance, or benefit from the Funding Corporation for serving on the Directorate.
 
 #### (d) Powers of Funding Corporation
 
@@ -88,7 +88,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (4) Impose assessments
 
-&emsp;To impose assessments in accordance with subsection (e)(7) of this section.
+&emsp;To impose assessments in accordance with subsection (e)(7).
 
 #### (5) Corporate seal
 
@@ -170,57 +170,22 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;Of the first $1,000,000,000 of the aggregate that the Director (pursuant to section 1441 of this title) or the Thrift Depositor Protection Oversight Board (under this section) may require the Federal Home Loan Banks collectively to invest in the capital stock of the Financing Corporation or invest in the capital stock of the Funding Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to the Bank) shall invest shall be determined by the Director or the Thrift Depositor Protection Oversight Board (as the case may be) by multiplying the aggregate amount of such investment by all Banks by the percentage appearing in the following table for each such Bank:
 
-<b>   Bank</b>
+&nbsp;
 
-<b>Percentage</b>
-
-&nbsp;Federal Home Loan Bank of Boston
-
-&nbsp;1.8629
-
-&nbsp;Federal Home Loan Bank of New York
-
-&nbsp;9.1006
-
-&nbsp;Federal Home Loan Bank of Pittsburgh
-
-&nbsp;4.2702
-
-&nbsp;Federal Home Loan Bank of Atlanta
-
-&nbsp;14.4007
-
-&nbsp;Federal Home Loan Bank of Cincinnati
-
-&nbsp;8.2653
-
-&nbsp;Federal Home Loan Bank of Indianapolis
-
-&nbsp;5.2863
-
-&nbsp;Federal Home Loan Bank of Chicago
-
-&nbsp;9.6886
-
-&nbsp;Federal Home Loan Bank of Des Moines
-
-&nbsp;6.9301
-
-&nbsp;Federal Home Loan Bank of Dallas
-
-&nbsp;8.8181
-
-&nbsp;Federal Home Loan Bank of Topeka
-
-&nbsp;5.2706
-
-&nbsp;Federal Home Loan Bank of San Francisco
-
-&nbsp;19.9644
-
-&nbsp;Federal Home Loan Bank of Seattle
-
-&nbsp;6.1422
+| <b> Bank</b> | <b>Percentage</b> |
+| :--- | ---: |
+| Federal Home Loan Bank of Boston | 1\.8629 |
+| Federal Home Loan Bank of New York | 9\.1006 |
+| Federal Home Loan Bank of Pittsburgh | 4\.2702 |
+| Federal Home Loan Bank of Atlanta | 14\.4007 |
+| Federal Home Loan Bank of Cincinnati | 8\.2653 |
+| Federal Home Loan Bank of Indianapolis | 5\.2863 |
+| Federal Home Loan Bank of Chicago | 9\.6886 |
+| Federal Home Loan Bank of Des Moines | 6\.9301 |
+| Federal Home Loan Bank of Dallas | 8\.8181 |
+| Federal Home Loan Bank of Topeka | 5\.2706 |
+| Federal Home Loan Bank of San Francisco | 19\.9644 |
+| Federal Home Loan Bank of Seattle | 6\.1422 |
 
 #### (5) Pro rata distribution of amounts required to be invested in excess of $1,000,000,000
 
@@ -238,7 +203,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a "remaining Bank") to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficient Bank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
+&emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficientBank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
 
 &emsp;&emsp;&emsp;(iii) the requirements contained in subparagraph (D) relating to the use of net earnings shall apply to the deficient Bank until such Bank has reimbursed the remaining Banks for all of the excess amount.
 
@@ -302,7 +267,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of the net earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
+&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of thenet earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
 
 #### (ii) Annual determination
 
@@ -398,7 +363,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (2) Separate account for zero coupon instruments held to ensure payment of principal
 
-&emsp;Except as provided in subsection (e)(8) of this section, the Funding Corporation shall invest amounts received pursuant to subsection (e) of this section in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
+&emsp;Except as provided in subsection (e)(8), the Funding Corporation shall invest amounts received pursuant to subsection (e) in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
 
 &emsp;&emsp;(A) which are direct obligations of the United States issued by the Secretary; and
 
@@ -408,7 +373,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (1) Treatment for certain purposes
 
-&emsp;Except as provided in subsection (f)(7)(B) of this section, the Funding Corporation shall be treated as a Federal Home Loan Bank for purposes of section 1433 of this title (to the extent such section relates to State, municipal, and local taxation) and section 1443 of this title.
+&emsp;Except as provided in subsection (f)(7)(B), the Funding Corporation shall be treated as a Federal Home Loan Bank for purposes of section 1433 of this title (to the extent such section relates to State, municipal, and local taxation) and section 1443 of this title.
 
 #### (2) Federal Reserve banks as depositaries and fiscal agents
 
@@ -438,7 +403,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;The report required under paragraph (1) shall include—
 
-&emsp;&emsp;(A) audited statements and any information necessary to make known the financial condition and operations of the Funding Corporation in accordance with generally accepted accounting principles;
+&emsp;&emsp;(A) audited statements and any information necessary to make known the financialcondition and operations of the Funding Corporation in accordance with generally accepted accounting principles;
 
 &emsp;&emsp;(B) the financial operating plans and forecasts (including estimates of actual and future spending, and estimates of actual and future cash obligations) of the Funding Corporation taking into account its financial commitments, guarantees, and other contingent liabilities; and
 
@@ -474,17 +439,17 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term "custodian fee" means—
 
-&emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
+&emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g); and
 
 &emsp;&emsp;(B) any other expense incurred by the Funding Corporation in connection with the establishment or maintenance of such account.
 
 #### (3) Funding Corporation
 
-&emsp;The term "Funding Corporation" means the Resolution Funding Corporation established in subsection (b) of this section.
+&emsp;The term "Funding Corporation" means the Resolution Funding Corporation established in subsection (b).
 
 #### (4) Funding Corporation Principal Fund
 
-&emsp;The term "Funding Corporation Principal Fund" means the separate account established under subsection (g)(2) of this section.
+&emsp;The term "Funding Corporation Principal Fund" means the separate account established under subsection (g)(2).
 
 #### (5) Issuance costs
 
@@ -496,7 +461,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (6) Net earnings
 
-&emsp;The term "net earnings" means net earnings without reduction for chargeoffs or expenses incurred by a Federal Home Loan Bank for the purchase of capital stock of the Financing Corporation or payments relating to the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of this section.
+&emsp;The term "net earnings" means net earnings without reduction for chargeoffs or expenses incurred by a Federal Home Loan Bank for the purchase of capital stock of the Financing Corporation or payments relating to the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f).
 
 #### (7) Thrift Depositor Protection Oversight Board
 
@@ -528,7 +493,7 @@ For purposes of this section, the following definitions shall apply:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI,§1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
 
 #### References in Text
 

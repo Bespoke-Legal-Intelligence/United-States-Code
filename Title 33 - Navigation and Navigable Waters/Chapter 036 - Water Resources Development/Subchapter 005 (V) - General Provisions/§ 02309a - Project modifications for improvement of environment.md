@@ -6,7 +6,7 @@ The Secretary is authorized to review water resources projects constructed by th
 
 #### (b) Authority to make modifications
 
-The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasible and consistent with the authorized project purposes, and (2) will improve the quality of the environment in the public interest.
+The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasibleand consistent with the authorized project purposes, and (2) will improve the quality of the environment in the public interest.
 
 #### (c) Restoration of environmental quality
 
@@ -24,7 +24,7 @@ The Secretary is authorized to carry out a program for the purpose of making suc
 
 #### (d) Non-Federal share; limitation on maximum Federal expenditure
 
-The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) of this section shall be 25 percent. Not more than 80 percent of the non-Federal share may be in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $5,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
+The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) of this section shall be 25 percent. The non-Federal share may be provided in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $10,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
 
 #### (e) Coordination of actions
 
@@ -44,7 +44,7 @@ There is authorized to be appropriated not to exceed $40,000,000 annually to car
 
 In this section, the term "water resources project constructed by the Secretary" includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
 
-(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, §210(c), Dec. 11, 2000, 114 Stat. 2592; Pub. L. 110–114, title II, §2024, Nov. 8, 2007, 121 Stat. 1079.)
+(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, §210(c), Dec. 11, 2000, 114 Stat. 2592; Pub. L. 110–114, title II, §2024, Nov. 8, 2007, 121 Stat. 1079; Pub. L. 113–121, title I, §1030(f), June 10, 2014, 128 Stat. 1232.)
 
 #### Codification
 
@@ -53,6 +53,8 @@ Subsec. (f) of this section, which required the Secretary to transmit biennial r
 Section was formerly set out as a note under section 2294 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–121 substituted "The non-Federal share may be provided" for "Not more than 80 percent of the non-Federal share may be" and "$10,000,000" for "$5,000,000".
 
 <b>2007</b>—Subsec. (h). Pub. L. 110–114 substituted "$40,000,000" for "$25,000,000".
 
@@ -82,7 +84,7 @@ Subsec. (e). Pub. L. 102–580, §202(2), substituted "$25,000,000" for "$15,000
 
 Subsec. (b). Pub. L. 101–640, §304(b), substituted "program" for "demonstration program in the 5-year period beginning on the date of enactment of this Act" and struck out "before the date of enactment of this Act" after "constructed by the Secretary".
 
-Subsec. (d). Pub. L. 101–640, §304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conducted under subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program."
+Subsec. (d). Pub. L. 101–640, §304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conductedunder subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program."
 
 Subsec. (e). Pub. L. 101–640, §304(d), substituted "$15,000,000 annually to carry out this section" for "$25,000,000 to carry out this section".
 

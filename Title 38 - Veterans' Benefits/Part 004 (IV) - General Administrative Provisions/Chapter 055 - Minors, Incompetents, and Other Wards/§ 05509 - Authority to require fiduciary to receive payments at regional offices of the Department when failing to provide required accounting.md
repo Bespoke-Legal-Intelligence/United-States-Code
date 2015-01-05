@@ -6,7 +6,7 @@ Required Reports and Accountings.—The Secretary may require a fiduciary to fil
 
 (b)
 
-Actions Upon Failure To File.—In any case in which a fiduciary fails to submit a report or accounting required by the Secretary under subsection (a), the Secretary may, after furnishing notice to such fiduciary and the beneficiaryentitled to such payment of benefits, require that such fiduciary appear in person at a regional office of the Department serving the area in which the beneficiary resides in order to receive such payments.
+Actions Upon Failure To File.—In any case in which a fiduciary fails to submit a report or accounting required by the Secretary under subsection (a), the Secretary may, after furnishing notice to such fiduciary and the beneficiary entitled to such payment of benefits, require that such fiduciary appear in person at a regional office of the Department serving the area in which the beneficiary resides in order to receive such payments.
 
 (Added Pub. L. 108–454, title V, §504(a)(1), Dec. 10, 2004, 118 Stat. 3621.)
 

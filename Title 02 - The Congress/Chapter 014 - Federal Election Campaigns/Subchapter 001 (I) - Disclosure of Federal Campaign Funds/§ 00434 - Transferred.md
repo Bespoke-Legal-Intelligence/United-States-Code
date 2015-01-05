@@ -1,0 +1,6 @@
+### §434. Transferred
+
+#### Codification
+
+Section 434 was editorially reclassified as section 30104 of Title 52, Voting and Elections.
+

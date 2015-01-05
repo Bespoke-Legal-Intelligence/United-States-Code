@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2012 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
+Subject to subsection (b), there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2018 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
 
 #### (b) Allowable administrative costs
 
 Not more than 3 percent of the funds made available for any project for an agricultural research facility shall be available for administration of the project.
 
-(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7405, June 18, 2008, 122 Stat. 1664, 2008.)
+(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, §7403, Feb. 7, 2014, 128 Stat. 895.)
 
 #### Codification
 
@@ -36,13 +36,15 @@ A prior section 390i, Pub. L. 88–74, §8, formerly §10, July 22, 1963, 77 Sta
 
 A prior section 8 of Pub. L. 88–74 was classified to section 390g of this title prior to repeal by Pub. L. 99–198.
 
-A prior section 390j, Pub. L. 88–74, §9, formerly §11, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV,§1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §9, Pub. L. 99–198, title XIV, §1411(k), Dec. 23, 1985, 99 Stat. 1548, related to availability of appropriated funds for administration, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390j, Pub. L. 88–74, §9, formerly §11, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §9, Pub. L. 99–198, title XIV, §1411(k), Dec. 23, 1985, 99 Stat. 1548, related to availability of appropriated funds for administration, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified to section 390h of this title, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 390k, Pub. L. 88–74, §12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79 substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7405, substituted "2012" for "2007".
 

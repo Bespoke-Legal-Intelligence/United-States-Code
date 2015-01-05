@@ -70,7 +70,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 #### (5) Joint fiduciaries
 
-&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
+&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the returnis, to the best of his knowledge and belief, true and correct.
 
 #### (6) IRA share of partnership income
 
@@ -212,7 +212,7 @@ Pub. L. 106–230, §3(d), July 1, 2000, 114 Stat. 483, provided that: "The amen
 
 Amendment by section 312(d)(11) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d)\[(e)\] of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
+Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec.31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -264,13 +264,13 @@ Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years e
 
 Amendment by Pub. L. 94–164 applicable to taxable years ending after Dec. 31, 1975 and before Jan. 1, 1977, see section 2(g) of Pub. L. 94–164, set out as a note under section 32 of this title.
 
-Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to applyto taxable years ending after Dec. 31, 1976, see section 209(a) of Pub. L. 94–12, as amended, set out as a note under section 3 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to apply to taxable years ending after Dec. 31, 1976, see section 209(a) of Pub. L. 94–12, as amended, set out as a note under section 3 of this title.
 
 #### Effective Date of 1974 Amendments
 
 Amendment by Pub. L. 93–625 applicable to taxable years beginning after Dec. 31, 1974, see section 10(e) of Pub. L. 93–625, set out as an Effective Date note under section 527 of this title.
 
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1971, see section 410(c)(2) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1971, see section 410(c)(2) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 
 #### Effective Date of 1971 Amendment
 

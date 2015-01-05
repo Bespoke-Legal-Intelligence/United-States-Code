@@ -4,7 +4,7 @@
 
 The provisions of sections 206 (except subsection (d) in the case of paragraph (1) of this subsection) and 207 of this title shall not apply with respect to—
 
-&emsp;(1) any employee employed in a bona fide executive, administrative, or professional capacity (including any employee employed in the capacity of academic administrative personnelor teacher in elementary or secondary schools), or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary, subject to the provisions of subchapter II of chapter 5 of title 5, except that an employee of a retail or service establishment shall not be excluded from the definition of employee employed in a bona fide executive or administrative capacity because of the number of hours in his workweek which he devotes to activities not directly or closely related to the performance of executive or administrative activities, if less than 40 per centum of his hours worked in the workweek are devoted to such activities); or
+&emsp;(1) any employee employed in a bona fide executive, administrative, or professional capacity (including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools), or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary, subject to the provisions of subchapter II of chapter 5 of title 5, except that an employee of a retail or service establishment shall not be excluded from the definition of employee employed in a bona fide executive or administrative capacity because of the number of hours in his workweek which he devotes to activities not directly or closely related to the performance of executive or administrative activities, if less than 40 per centum of his hours worked in the workweek are devoted to such activities); or
 
 &emsp;(2) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
@@ -14,7 +14,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(5) any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee; or
 
-&emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (D) if such employee (other than an employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
+&emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (D) if such employee (other thanan employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
@@ -32,7 +32,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(15) any employee employed on a casual basis in domestic service employment to provide babysitting services or any employee employed in domestic service employment to provide companionship services for individuals who (because of age or infirmity) are unable to care for themselves (as such terms are defined and delimited by regulations of the Secretary); or
 
-&emsp;(16) a criminal investigator who is paid availability pay under section 5545a of title 5; or
+&emsp;(16) a criminal investigator who is paid availability pay under section 5545a of title 5;
 
 &emsp;(17) any employee who is a computer systems analyst, computer programmer, software engineer, or other similarly skilled worker, whose primary duty is—
 
@@ -44,7 +44,9 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;&emsp;(D) a combination of duties described in subparagraphs (A), (B), and (C) the performance of which requires the same level of skills, and
 
-> &emsp;who, in the case of an employee who is compensated on an hourly basis, is compensated at a rate of not less than $27.63 an hour.
+> &emsp;who, in the case of an employee who is compensated on an hourly basis, is compensated at a rate of not less than $27.63 an hour; or
+
+&emsp;(18) any employee who is a border patrol agent, as defined in section 5550(a) of title 5.
 
 #### (b) Maximum hour requirements
 
@@ -74,7 +76,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(11) any employee employed as a driver or driver's helper making local deliveries, who is compensated for such employment on the basis of trip rates, or other delivery payment plan, if the Secretary shall find that such plan has the general purpose and effect of reducing hours worked by such employees to, or below, the maximum workweek applicable to them under section 207(a) of this title; or
 
-&emsp;(12) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which are used exclusively for supply and storing of water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
+&emsp;(12) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which are used exclusively for supply and storing ofwater, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
 
 &emsp;(13) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (A) is primarily employed during his workweek in agriculture by such farmer, and (B) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a)(1) of this title; or
 
@@ -158,7 +160,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(i)(I) the scrap paper balers and paper box compactors meet the American National Standards Institute's Standard ANSI Z245.5–1990 for scrap paper balers and Standard ANSI Z245.2–1992 for paper box compactors; or
 
-&emsp;(II) the scrap paper balers and paper box compactors meet an applicable standard thatis adopted by the American National Standards Institute after August 6, 1996, and that is certified by the Secretary to be at least as protective of the safety of minors as the standard described in subclause (I);
+&emsp;(II) the scrap paper balers and paper box compactors meet an applicable standard that is adopted by the American National Standards Institute after August 6, 1996, and that is certified by the Secretary to be at least as protective of the safety of minors as the standard described in subclause (I);
 
 &emsp;(ii) the scrap paper balers and paper box compactors include an on-off switch incorporating a key-lock or other system and the control of the system is maintained in the custody of employees who are 18 years of age or older;
 
@@ -262,7 +264,7 @@ The provisions of section 207 of this title shall not apply with respect to empl
 
 #### (f) Employment in foreign countries and certain United States territories
 
-The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\]; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
+The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outerContinental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\]; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
 
 #### (g) Certain employment in retail or service establishments, agriculture
 
@@ -294,7 +296,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 #### (i) Cotton ginning
 
-The provisions of section 207 of this title shall not apply for a period or periods of not morethan fourteen workweeks in the aggregate in any period of fifty-two consecutive weeks to any employee who—
+The provisions of section 207 of this title shall not apply for a period or periods of not more than fourteen workweeks in the aggregate in any period of fifty-two consecutive weeks to any employee who—
 
 &emsp;(1) is engaged in the ginning of cotton for market in any place of employment located in a county where cotton is grown in commercial quantities; and
 
@@ -320,7 +322,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 > &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
-(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct. 31, 1998, 112 Stat. 3137; Pub. L. 108–199, div. E, title I, §108, Jan. 23, 2004, 118 Stat. 236.)
+(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct.31, 1998, 112 Stat. 3137; Pub. L. 108–199, div. E, title I, §108, Jan. 23, 2004, 118 Stat. 236; Pub. L. 113–277, §2(g)(2), Dec. 18, 2014, 128 Stat. 3005.)
 
 #### References in Text
 
@@ -330,7 +332,7 @@ Section 206(a)(5) of this title, referred to in subsec. (c)(1)(A), was redesigna
 
 Section 206(a)(3) of this title, referred to in subsec. (e), was repealed and section 206(a)(4) of this title was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Codification
 
@@ -339,6 +341,8 @@ In subsec. (a)(1), "subchapter II of chapter 5 of title 5" substituted for "the 
 In subsec. (b)(1), "section 31502 of title 49" substituted for "section 3102 of title 49" on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, "section 3102 of title 49" substituted for "section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]", on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
+
+Subsec. (a)(18). Pub. L. 113–277 added par. (18).
 
 <b>2004</b>—Subsec. (c)(7). Pub. L. 108–199 added par. (7).
 
@@ -446,7 +450,7 @@ Subsec. (a)(2). Pub. L. 89–601, §201(a), revised the retail or service establ
 
 Subsec. (a)(3). Pub. L. 89–601, §§201(b)(2), 202, repealed par. (3) relating to employees of laundry, cleaning, and fabric or clothing repair establishments doing more than 50 per centum of their annual dollar volume of business within the state in which the establishment is located and enacted a new par. (3) relating to employees of amusement or recreational establishments which do not operate for more than seven months in any calendar year or which had receipts over a six-month period which were not more than 331/3 per centum of its average receipts for the other six months of such year.
 
-Subsec. (a)(6). Pub. L. 89–601, §203(a), limited the provisions exempting agricultural employees from application of sections 206 and 207 of this title by narrowing the class of exempted agricultural employees to include only an employee employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than 500 man-days of agricultural labor, an employee who is the spouse, parent, child, or other member of his employer's immediate family, certain hand harvest laborers, or an employee principally engaged in the range production of livestock. See subsec. (b)(12) of this section.
+Subsec. (a)(6). Pub. L. 89–601, §203(a), limited the provisions exempting agricultural employees from application of sections 206 and 207 of this title by narrowingthe class of exempted agricultural employees to include only an employee employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than 500 man-days of agricultural labor, an employee who is the spouse, parent, child, or other member of his employer's immediate family, certain hand harvest laborers, or an employee principally engaged in the range production of livestock. See subsec. (b)(12) of this section.
 
 Subsec. (a)(7). Pub. L. 89–601, §215(c), extended coverage to include employees exempted by a certificate of the Secretary.
 
@@ -484,7 +488,7 @@ Subsec. (b)(1). Pub. L. 89–670 substituted "Secretary of Transportation" for "
 
 Subsec. (b)(7). Pub. L. 89–601, §206(c), narrowed the scope of the exemption from any employee of the covered transportation companies to drivers, operators, and conductors only and narrowed the range of covered transportation companies from any street, suburban, or interurban electric railway, or local trolley or motorbus carrier to only those of such named enterprises as have their rates and service subject to regulation by a state or local agency.
 
-Subsec. (b)(8). Pub. L. 89–601, §§201(b)(1), 211, repealed par. (8) which named employees of gasoline service stations as a group to which section 207 of this title shall not apply and enacted a new par. (8) providing that section 207 of this title shall not apply with respect to hotel, motel, or restaurant employees and employees who receive compensation for employment in excess 48 hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed and who is employed by an institution other than ahospital primarily engaged in the care of the sick, the aged, or the mentally ill or defective residing on the premises.
+Subsec. (b)(8). Pub. L. 89–601, §§201(b)(1), 211, repealed par. (8) which named employees of gasoline service stations as a group to which section 207 of this title shall not apply and enacted a new par. (8) providing that section 207 of this title shall not apply with respect to hotel, motel, or restaurant employees and employees who receive compensation for employment in excess 48 hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed and who is employed by an institution other than a hospital primarily engaged in the care of the sick, the aged, or the mentally ill or defective residing on the premises.
 
 Subsec. (b)(10). Pub. L. 89–601, §§209(b), 212(a), repealed par. (10) which granted an unlimited overtime exemption relating to petroleum distribution employees and enacted a new par. (10) relating to salesmen, partsmen, or mechanics primarily engaged in selling or servicing automobiles, trailers, trucks, farm implements, or aircraft if employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles to ultimate purchasers. See subsec. (b)(3) of this section.
 
@@ -658,7 +662,7 @@ Pub. L. 93–259, §23(c), Apr. 8, 1974, 88 Stat. 69, provided in part for amend
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602of Pub. L. 89–601, set out as a note under section 203 of this title.
+Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
 
 #### Study of Agricultural Handling and Processing Exemptions and Rates of Pay in Exempt Food Service Enterprises
 

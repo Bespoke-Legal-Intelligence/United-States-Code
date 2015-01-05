@@ -10,15 +10,15 @@ In this section:
 
 #### (2) Coordinating Committee
 
-&emsp;The term "Coordinating Committee" means the National Rural Development Coordinating Committee established by subsection (c) of this section.
+&emsp;The term "Coordinating Committee" means the National Rural Development Coordinating Committee established by subsection (c).
 
 #### (3) Partnership
 
-&emsp;The term "Partnership" means the National Rural Development Partnership continued by subsection (b) of this section.
+&emsp;The term "Partnership" means the National Rural Development Partnership continued by subsection (b).
 
 #### (4) State rural development council
 
-&emsp;The term "State rural development council" means a State rural development council that meets the requirements of subsection (d) of this section.
+&emsp;The term "State rural development council" means a State rural development council that meets the requirements of subsection (d).
 
 #### (b) Partnership
 
@@ -90,7 +90,7 @@ In this section:
 
 &emsp;&emsp;(D) develop and facilitate strategies to reduce or eliminate administrative and regulatory impediments; and
 
-&emsp;&emsp;(E) require each State rural development council receiving funds under this section to submit an annual report on the use of the funds, including a description of strategic plans, goals, performance measures, and outcomes for the State rural development council of the State.
+&emsp;&emsp;(E) require each State rural development council receiving funds under this section tosubmit an annual report on the use of the funds, including a description of strategic plans, goals, performance measures, and outcomes for the State rural development council of the State.
 
 #### (4) Federal participation in Coordinating Committee
 
@@ -132,7 +132,7 @@ In this section:
 
 &emsp;A State rural development council shall—
 
-&emsp;&emsp;(A) facilitate collaboration among Federal, State, local, and tribal governments and the private and nonprofit sectors in the planning and implementation of programsand policies that have an impact on rural areas of the State;
+&emsp;&emsp;(A) facilitate collaboration among Federal, State, local, and tribal governments and the private and nonprofit sectors in the planning and implementation of programs and policies that have an impact on rural areas of the State;
 
 &emsp;&emsp;(B) monitor, report, and comment on policies and programs that address, or fail to address, the needs of the rural areas of the State;
 
@@ -176,7 +176,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a State rural development council shall provide matching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2) of this section.
+&emsp;Except as provided in paragraph (2), a State rural development council shall providematching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2).
 
 #### (2) Exceptions to matching requirement for certain Federal funds
 
@@ -194,7 +194,7 @@ In this section:
 
 #### (1) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
+&emsp;There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2018.
 
 #### (2) Federal agencies
 
@@ -212,9 +212,9 @@ In this section:
 
 #### (h) Termination
 
-The authority provided under this section shall terminate on September 30, 2012.
+The authority provided under this section shall terminate on September 30, 2018.
 
-(Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, §6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6019, June 18, 2008, 122 Stat. 1664, 1933.)
+(Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, §6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6019, June 18, 2008, 122 Stat. 1664, 1933; Pub. L. 113–79, title VI, §6021, Feb. 7, 2014, 128 Stat. 847.)
 
 #### Codification
 
@@ -223,6 +223,10 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(1). Pub. L. 113–79, §6021(1), substituted "2018" for "2012".
+
+Subsec. (h). Pub. L. 113–79, §6021(2), substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (g)(1). Pub. L. 110–246, §6019(1), substituted "2008 through 2012" for "2003 through 2007".
 

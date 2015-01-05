@@ -60,7 +60,7 @@ Budget and Funding Matters.—(1) Not later than 30 days after the President sub
 
 &emsp;(A) whether such budget allows the Federal Government to meet the required capabilities of the command, control, and communications system for the national leadership of the United States during the fiscal year covered by the budget and the four subsequent fiscal years; and
 
-&emsp;(B) if the Commander determines that such budget does not allow the Federal Governmentto meet such required capabilities, a description of the steps being taken to meet such required capabilities.
+&emsp;(B) if the Commander determines that such budget does not allow the Federal Government to meet such required capabilities, a description of the steps being taken to meet such required capabilities.
 
 (2) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under paragraph (1), the Chairman shall submit to the congressional defense committees—
 

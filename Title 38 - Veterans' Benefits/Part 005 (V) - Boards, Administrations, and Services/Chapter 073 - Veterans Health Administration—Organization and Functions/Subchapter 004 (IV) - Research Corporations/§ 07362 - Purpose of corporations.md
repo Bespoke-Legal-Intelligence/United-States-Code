@@ -14,7 +14,7 @@
 
 &emsp;(2) In the case of veterans under the care of the Veterans Health Administration, such term means instruction or other learning experiences related to improving and maintaining the health of veterans and includes education and training for patients and families and guardians of patients.
 
-(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 510, §4162; renumbered §7362 andamended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1)–(3), May 7, 1991, 105 Stat. 221, 239; Pub. L. 106–117, title II, §204(b), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §§802, 804(b), May 5, 2010, 124 Stat. 1176, 1179.)
+(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 510, §4162; renumbered §7362 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1)–(3), May 7, 1991, 105 Stat. 221, 239; Pub. L. 106–117, title II, §204(b), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §§802, 804(b), May 5, 2010, 124 Stat. 1176, 1179.)
 
 #### References in Text
 

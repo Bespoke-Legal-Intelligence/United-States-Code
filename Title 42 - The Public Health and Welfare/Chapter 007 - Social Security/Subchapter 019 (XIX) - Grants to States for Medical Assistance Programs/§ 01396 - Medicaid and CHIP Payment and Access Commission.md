@@ -70,7 +70,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (4) Creation of early-warning system
 
-&emsp;MACPAC shall create an early-warning system to identify provider shortage areas, aswell as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report.
+&emsp;MACPAC shall create an early-warning system to identify provider shortage areas, as well as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report.
 
 #### (5) Comments on certain secretarial reports and regulations
 
@@ -84,7 +84,35 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (6) Agenda and additional reviews
 
-&emsp;MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC's agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
+#### (A) In general
+
+&emsp;&emsp;MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC's agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
+
+#### (B) Review and reports regarding Medicaid DSH
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;MACPAC shall review and submit an annual report to Congress on disproportionate share hospital payments under section 1396r–4 of this title. Each report shall include the information specified in clause (ii).
+
+#### (ii) Required report information
+
+&emsp;&emsp;&emsp;Each report required under this subparagraph shall include the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Data relating to changes in the number of uninsured individuals.
+
+&emsp;&emsp;&emsp;&emsp;(II) Data relating to the amount and sources of hospitals' uncompensated care costs, including the amount of such costs that are the result of providing unreimbursed or under-reimbursed services, charity care, or bad debt.
+
+&emsp;&emsp;&emsp;&emsp;(III) Data identifying hospitals with high levels of uncompensated care that also provide access to essential community services for low-income, uninsured, and vulnerable populations, such as graduate medical education, and the continuum of primary through quarternary care, including the provision of trauma care and public health services.
+
+&emsp;&emsp;&emsp;&emsp;(IV) State-specific analyses regarding the relationship between the most recent State DSH allotment and the projected State DSH allotment for the succeeding year and the data reported under subclauses (I), (II), and (III) for the State.
+
+#### (iii) Data
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Secretary regularly shall provide MACPAC with the most recent State reports and most recent independent certified audits submitted under section 1396r–4(j) of this title, cost reports submitted under subchapter XVIII of this chapter, and such other data as MACPAC may request for purposes of conducting the reviews and preparing and submitting the annual reports required under this subparagraph.
+
+#### (iv) Submission deadlines
+
+&emsp;&emsp;&emsp;The first report required under this subparagraph shall be submitted to Congress not later than February 1, 2016. Subsequent reports shall be submitted as part of, or with, each annual report required under paragraph (1)(C) during the period of fiscal years 2017 through 2024.
 
 #### (7) Availability of reports
 
@@ -134,7 +162,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (A) In general
 
-&emsp;&emsp;The membership of MACPAC shall include individuals who have had direct experienceas enrollees or parents or caregivers of enrollees in Medicaid or CHIP and individuals with national recognition for their expertise in Federal safety net health programs, health finance and economics, actuarial science, health plans and integrated delivery systems, reimbursement for health care, health information technology, and other providers of health services, public health, and other related fields, who provide a mix of different professions, broad geographic representation, and a balance between urban and rural representation.
+&emsp;&emsp;The membership of MACPAC shall include individuals who have had direct experience as enrollees or parents or caregivers of enrollees in Medicaid or CHIP and individuals with national recognition for their expertise in Federal safety net health programs, health finance and economics, actuarial science, health plans and integrated delivery systems, reimbursement for health care, health information technology, and other providers of health services, public health, and other related fields, who provide a mix of different professions, broad geographic representation, and a balance between urban and rural representation.
 
 #### (B) Inclusion
 
@@ -160,7 +188,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (4) Compensation
 
-&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to MACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply toMACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -234,11 +262,11 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 &emsp;Amounts made available under paragraphs (2) and (3) to MACPAC to carry out the provisions of this section shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II, §2801(a), Mar. 23, 2010, 124 Stat. 328.)
+(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II, §2801(a), Mar. 23, 2010, 124 Stat. 328; Pub. L. 113–93, title II, §221(b), Apr. 1, 2014, 128 Stat. 1076.)
 
 #### References in Text
 
-Section 2081 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(13), probably means section 2602 of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 315, which is classified to section 1315b of this title. Section 2602 of Pub. L. 111–148 established the Federal Coordinated Health Care Office, and Pub. L. 111–148 does not contain a section 2081.
+Section 2081 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(13), probably means section 2602 of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 315, which is classified to section 1315b of this title. Section 2602 of Pub. L. 111–148 established the FederalCoordinated Health Care Office, and Pub. L. 111–148 does not contain a section 2081.
 
 The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
@@ -251,6 +279,8 @@ In subsec. (d)(3), "section 6101 of title 41" substituted for "section 3709 of t
 A prior section 1396, act Aug. 14, 1935, ch. 531, title XIX, §1901, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 343; amended Pub. L. 93–233, §13(a)(1), Dec. 31, 1973, 87 Stat. 960; Pub. L. 98–369, div. B, title VI, §2663(j)(3)(C), July 18, 1984, 98 Stat. 1171, which related to appropriations, was transferred to section 1396–1 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(6). Pub. L. 113–93 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–148, §2801(a)(1)(A)(i), inserted "for all States" before "and annual" in heading.
 
@@ -270,7 +300,7 @@ Subsec. (b)(2)(B) to (H). Pub. L. 111–148, §2801(a)(1)(B)(ii)–(v), added su
 
 Subsec. (b)(3). Pub. L. 111–148, §2801(a)(1)(D), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 111–148, §2801(a)(1)(C), (E), redesignated par. (3) as (4) and substituted ", as well as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries.MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report." for "or any other problems that threaten access to care or the health care status of Medicaid and CHIP beneficiaries." Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 111–148, §2801(a)(1)(C), (E), redesignated par. (3) as (4) and substituted ", as well as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report." for "or any other problems that threaten access to care or the health care status of Medicaid and CHIP beneficiaries." Former par. (4) redesignated (5).
 
 Subsec. (b)(5). Pub. L. 111–148, §2801(a)(1)(C), (F), redesignated par. (4) as (5), inserted "and regulations" after "reports" in heading, designated existing provisions as subpar. (A) and inserted heading, inserted "and the Secretary" after "appropriate committees of Congress" in subpar. (A), and added subpar. (B). Former par. (5) redesignated (6).
 
@@ -328,7 +358,7 @@ In General.—In order to assure continuity of coverage of low-income children u
 
 "(b)
 
-Report to Congress.—After development of such model process, the Secretary of Health andHuman Services shall submit to Congress a report describing additional steps or authority needed to make further improvements to coordinate the enrollment, retention, and coverage under CHIP and Medicaid of children described in subsection (a)."
+Report to Congress.—After development of such model process, the Secretary of Health and Human Services shall submit to Congress a report describing additional steps or authority needed to make further improvements to coordinate the enrollment, retention, and coverage under CHIP and Medicaid of children described in subsection (a)."
 
 #### Improved Accessibility of Dental Provider Information to Enrollees Under Medicaid and CHIP
 

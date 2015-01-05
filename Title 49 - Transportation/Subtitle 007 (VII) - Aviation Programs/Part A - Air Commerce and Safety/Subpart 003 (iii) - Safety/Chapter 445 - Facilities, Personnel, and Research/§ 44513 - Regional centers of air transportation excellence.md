@@ -106,7 +106,7 @@ Pub. L. 112–95, title IX, §908, Feb. 14, 2012, 126 Stat. 140, provided that:
 
 Establishment.—Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\] may establish a center of excellence to conduct research on—
 
-&emsp;"(1) human performance in the air transportation environment, including among air transportationpersonnel such as air traffic controllers, pilots, and technicians; and
+&emsp;"(1) human performance in the air transportation environment, including among air transportation personnel such as air traffic controllers, pilots, and technicians; and
 
 &emsp;"(2) any other aviation human resource issue pertinent to developing and maintaining a safe and efficient air transportation system.
 

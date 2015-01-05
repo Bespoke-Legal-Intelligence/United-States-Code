@@ -34,7 +34,7 @@ The Congress finds that:
 
 &emsp;(14) In 1938, the United States Congress again acknowledged the unique status of the Hawaiian people by including in the Act of June 20, 1938 (52 Stat. 781 et seq.), a provision to lease lands within the extension to Native Hawaiians and to permit fishing in the area "only by native Hawaiian residents of said area or of adjacent villages and by visitors under their guidance".
 
-&emsp;(15) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges, and legislative amendments affecting the rights of beneficiaries under such Act.
+&emsp;(15) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approveland exchanges, and legislative amendments affecting the rights of beneficiaries under such Act.
 
 &emsp;(16) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for administration over portions of the ceded public lands trust not retained by the United States to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the legal responsibility of the State for the betterment of the conditions of Native Hawaiians under section 5(f) of the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4, 6).
 
@@ -44,7 +44,7 @@ The Congress finds that:
 
 &emsp;(19) This historical and unique legal relationship has been consistently recognized and affirmed by the Congress through the enactment of Federal laws which extend to the Hawaiian people the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities, including the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\]; the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\]; the National Museum of the American Indian Act \[20 U.S.C. 80q et seq.\]; and the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
 
-&emsp;(20) The United States has also recognized and reaffirmed the trust relationship to the Hawaiian people through legislation which authorizes the provision of services to NativeHawaiians, specifically, the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, the Veterans' Benefits and Services Act of 1988, the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Native Hawaiian Health Care Act of 1988, the Health Professions Reauthorization Act of 1988, the Nursing Shortage Reduction and Education Extension Act of 1988, the Handicapped Programs Technical Amendments Act of 1988, the Indian Health Care Amendments of 1988, and the Disadvantaged Minority Health Improvement Act of 1990.
+&emsp;(20) The United States has also recognized and reaffirmed the trust relationship to the Hawaiian people through legislation which authorizes the provision of services to Native Hawaiians, specifically, the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, the Veterans' Benefits and Services Act of 1988, the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Native Hawaiian Health Care Act of 1988, the Health Professions Reauthorization Act of 1988, the Nursing Shortage Reduction and Education Extension Act of 1988, the Handicapped Programs Technical Amendments Act of 1988, the Indian Health Care Amendments of 1988, and the Disadvantaged Minority Health Improvement Act of 1990.
 
 &emsp;(21) The United States has also affirmed the historical and unique legal relationship to the Hawaiian people by authorizing the provision of services to Native Hawaiians to address problems of alcohol and drug abuse under the Anti-Drug Abuse Act of 1986.
 
@@ -76,7 +76,7 @@ The Older Americans Act of 1965, referred to in par. (20), is Pub. L. 89–73, J
 
 The Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, referred to in par. (20), is Pub. L. 100–146, Oct. 29, 1987, 101 Stat. 840, as amended. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6000 of this title and Tables.
 
-The Veterans' Benefits and Services Act of 1988, referred to in par. (20), is Pub. L. 100–322, May 20, 1988, 102 Stat. 487, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 101 of Title 38, Veterans' Benefits, and Tables.
+The Veterans' Benefits and Services Act of 1988, referred to in par. (20), is Pub. L. 100–322, May 20, 1988, 102 Stat. 487, as amended. For complete classification ofthis Act to the Code, see Short Title of 1988 Amendments note set out under section 101 of Title 38, Veterans' Benefits, and Tables.
 
 The Rehabilitation Act of 1973, referred to in par. (20), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
@@ -96,9 +96,9 @@ The Anti-Drug Abuse Act of 1986, referred to in par. (21), is Pub. L. 99–570, 
 
 #### Codification
 
-The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senateon Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
-Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of this section is based on section 1 of Pub. L. 100–579, as subsequently amended.
+Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of this section is based on section 2 of Pub. L. 100–579, as subsequently amended.
 
 #### Amendments
 

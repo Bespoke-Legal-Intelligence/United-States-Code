@@ -106,7 +106,7 @@ In general.—A plan shall not be treated as failing to meet the requirements of
 
 &emsp;&emsp;(ii)
 
-Similarly situated.—For purposes of this subparagraph, a participant is similarlysituated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
+Similarly situated.—For purposes of this subparagraph, a participant is similarly situated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
 
 &emsp;&emsp;(iii)
 
@@ -150,7 +150,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>1</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>1</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under theplan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -178,7 +178,7 @@ Termination requirements.—An applicable defined benefit plan shall not be trea
 
 &emsp;&emsp;&emsp;(I) if the interest credit rate (or an equivalent amount) under the plan is a variable rate, the rate of interest used to determine accrued benefits under the plan shall be equal to the average of the rates of interest used under the plan during the 5-year period ending on the termination date, and
 
-&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specifiedunder the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
+&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
 
 &emsp;(C)
 
@@ -230,7 +230,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 &emsp;(i) all mandatory contributions made by the employee,
 
-&emsp;(ii) interest (if any) under the plan to the end of the last plan year to which section 1053(a)(2) of this title does not apply (by reason of the applicable effective date), and
+&emsp;(ii) interest (if any) under the plan to the end of the last plan year to which section1053(a)(2) of this title does not apply (by reason of the applicable effective date), and
 
 &emsp;(iii) interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually—
 
@@ -384,7 +384,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
 
-(3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title) is less than 100 percent after taking into account the effect of the amendment.
+(3) This subsection shall apply only to plans (other than multiemployer plans or CSEC plans) covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title) is less than 100 percent after taking into account the effect of the amendment.
 
 (4) For purposes of this subsection, the term "employer" has the meaning set forth in section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title.
 
@@ -448,7 +448,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities ifany employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
+&emsp;&emsp;&emsp;Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities if any employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
 
 #### (ii) Exception for certain controlled groups with publicly traded securities
 
@@ -516,39 +516,61 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;For purposes of subparagraph (A), the applicable percentage shall be determined as follows:
 
-<b> Plan year to which</b>
+&nbsp;
 
-<b>The applicable</b>
+| <b> Plan year to which paragraph (3)  applies:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| 1st | 33&nbsp;&nbsp; |
+| 2d | 66&nbsp;&nbsp; |
+| 3d | 100\. |
 
-<b>  paragraph (3) applies:</b>
+#### (k) Special rule for determining normal retirement age for certain existing defined benefit plans
 
-<b>percentage is:</b>
+#### (1) In general
 
-&emsp;&emsp;1st
+&emsp;Notwithstanding section 1002(24) of this title, an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
 
-33&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### (2) Applicable plan
 
-&emsp;&emsp;2d
+&emsp;For purposes of this subsection—
 
-66&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### (A) In general
 
-&emsp;&emsp;3d
+&emsp;&emsp;The term "applicable plan" means a defined benefit plan the terms of which, on or before December 8, 2014, provided for a normal retirement age which is the earlier of—
 
-100\.&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;(i) an age otherwise permitted under section 1002(24) of this title, or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;(ii) the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
 
-#### (k) Cross reference
+> &emsp;&emsp;A plan shall not fail to be treated as an applicable plan solely because the normal retirement age described in the preceding sentence only applied to certain participants or only applied to employees of certain employers in the case of a plan maintained by more than 1 employer.
+
+#### (B) Expanded application
+
+&emsp;&emsp;Subject to subparagraph (C), if, after December 8, 2014, an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
+
+#### (C) Limitation on expanded application
+
+&emsp;&emsp;A defined benefit plan shall be an applicable plan only with respect to an individual who—
+
+&emsp;&emsp;&emsp;(i) is a participant in the plan on or before January 1, 2017, or
+
+&emsp;&emsp;&emsp;(ii) is an employee at any time on or before January 1, 2017, of any employer maintaining the plan, and who becomes a participant in such plan after such date.
+
+#### (l) Cross reference
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i)(3). Pub. L. 113–97 substituted "multiemployer plans or CSEC plans" for "multiemployer plans".
+
+Subsecs. (k), (l). Pub. L. 113–235 added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>2008</b>—Subsec. (b)(5)(A)(iii). Pub. L. 110–458, §107(a)(2)(A), substituted "subparagraph" for "clause".
 
@@ -664,6 +686,12 @@ Subsec. (e). Pub. L. 98–397, §102(f), substituted "5 consecutive 1-year break
 
 Subsec. (g). Pub. L. 98–397, §301(a)(2), designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–235 applicable to all periods before, on, and after Dec. 16, 2014, see section 2(c) of div. P of Pub. L. 113–235, set out as a note under section 411 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
@@ -728,7 +756,7 @@ Plan amendments not required until january 1, 1989.—If any amendment made by t
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988,with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignated and amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
 

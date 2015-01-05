@@ -12,7 +12,7 @@ Other prior sections 583 to 590 were renumbered sections 563 to 570 of this titl
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–320 inserted “State, local, and tribal governments,” after “other Federal agencies,”.
+<b>1996</b>—Pub. L. 104–320 inserted "State, local, and tribal governments," after "other Federal agencies,".
 
 <b>1992</b>—Pub. L. 102–354 renumbered section 593 of this title as this section.
 

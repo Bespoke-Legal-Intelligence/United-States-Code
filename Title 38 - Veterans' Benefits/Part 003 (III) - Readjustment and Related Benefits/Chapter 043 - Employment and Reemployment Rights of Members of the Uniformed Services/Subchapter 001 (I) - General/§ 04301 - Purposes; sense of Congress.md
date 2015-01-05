@@ -14,7 +14,7 @@
 
 #### Prior Provisions
 
-A prior section 4301, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1594, §2021; amended Pub. L. 94–502, title VI, §608(1), (2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 99–576, title III, §331, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 102–12, §5(a), Mar. 18, 1991, 105 Stat. 36; Pub. L.102–25, title III, §340(a), Apr. 6, 1991, 105 Stat. 92; renumbered §4301, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date note below.
+A prior section 4301, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1594, §2021; amended Pub. L. 94–502, title VI, §608(1), (2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 99–576, title III, §331, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 102–12, §5(a), Mar. 18, 1991, 105 Stat. 36; Pub. L. 102–25, title III, §340(a), Apr. 6, 1991, 105 Stat. 92; renumbered §4301, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date note below.
 
 Another prior section 4301 was renumbered section 7601 of this title.
 
@@ -94,7 +94,7 @@ Pub. L. 111–275, title I, §105, Oct. 13, 2010, 124 Stat. 2868, as amended by 
 
 "(a)
 
-Establishment of Project.—The Secretary of Labor and the Office of Special Counsel shall carry out a 36-month demonstration project under which certain claims against Federal executive agencies under chapter 43 of title 38, United States Code, are referred to, or otherwise received by, the Office of Special Counsel for assistance, including investigation and resolution of the claim as well as enforcement of rights with respect to the claim. The demonstration program shall begin not later than 60 days after the Comptroller General of the United States submits the report required under subsection (e)(3).
+Establishment of Project.—The Secretary of Labor and the Office of Special Counsel shall carry out a 36-month demonstration project under which certain claims against Federal executive agencies under chapter 43 of title 38, United States Code, are referred to, or otherwise received by, the Office of Special Counsel for assistance, including investigation and resolution of the claim as well as enforcement of rights with respectto the claim. The demonstration program shall begin not later than 60 days after the Comptroller General of the United States submits the report required under subsection (e)(3).
 
 "(b)
 

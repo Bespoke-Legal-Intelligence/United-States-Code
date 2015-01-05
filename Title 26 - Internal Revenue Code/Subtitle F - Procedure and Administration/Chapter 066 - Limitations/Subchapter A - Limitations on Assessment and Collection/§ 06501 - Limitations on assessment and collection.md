@@ -40,7 +40,7 @@ Except as otherwise provided in this section, the amount of any tax imposed by t
 
 #### (A) In general
 
-&emsp;&emsp;Where, before the expiration of the time prescribed in this section for the assessment of any tax imposed by this title, except the estate tax provided in chapter 11, both the Secretary and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.
+&emsp;&emsp;Where, before the expiration of the time prescribed in this section for the assessment of any tax imposed by this title, except the estate tax provided in chapter 11, both theSecretary and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.
 
 #### (B) Notice to taxpayer of right to refuse or limit extension
 
@@ -48,7 +48,7 @@ Except as otherwise provided in this section, the amount of any tax imposed by t
 
 #### (5) Tax resulting from changes in certain income tax or estate tax credits
 
-&emsp;&emsp;<b>For special rules applicable in cases where the adjustment of certain taxes allowed as a credit against income taxes or estate taxes results in additional tax, see section 905(c) (relating to the foreign tax</b><b>credit for income tax purposes) and section 2016 (relating to taxes of foreign countries, States, etc., claimed as credit against estate taxes).</b>
+&emsp;&emsp;<b>For special rules applicable in cases where the adjustment of certain taxes allowed as a credit against income taxes or estate taxes results in additional tax, see section 905(c) (relating to the foreign tax credit for income tax purposes) and section 2016 (relating to taxes of foreign countries, States, etc., claimed as credit against estate taxes).</b>
 
 #### (6) Termination of private foundation status
 
@@ -110,7 +110,7 @@ Except as otherwise provided in subsection (c)—
 
 &emsp;&emsp;&emsp;(ii) such amount—
 
-&emsp;&emsp;&emsp;&emsp;(I) is attributable to one or more assets with respect to which information is required to be reported under section 6038D (or would be so required if such section were applied without regard to the dollar threshold specified in subsection (a)thereof and without regard to any exceptions provided pursuant to subsection (h)(1) thereof), and
+&emsp;&emsp;&emsp;&emsp;(I) is attributable to one or more assets with respect to which information is required to be reported under section 6038D (or would be so required if such section were applied without regard to the dollar threshold specified in subsection (a) thereof and without regard to any exceptions provided pursuant to subsection (h)(1) thereof), and
 
 &emsp;&emsp;&emsp;&emsp;(II) is in excess of $5,000,
 
@@ -198,7 +198,7 @@ In a case where an amount has been applied, credited, or refunded under section 
 
 #### (m) Deficiencies attributable to election of certain credits
 
-The period for assessing a deficiency attributable to any election under section 30(e)(6), 30B(h)(9), 30C(e)(5), 30D(e)(4), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
+The period for assessing a deficiency attributable to any election under <sup>1</sup> 30B(h)(9), 30C(e)(5), 30D(e)(4), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
 
 #### (n) Cross references
 
@@ -208,9 +208,11 @@ The period for assessing a deficiency attributable to any election under section
 
 &emsp;&emsp;<b>(3) For declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return, see section 6234.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 803; Pub. L. 85–859, title I, §165(a), Sept. 2, 1958, 72 Stat. 1313; Pub. L. 85–866, title I, §§80, 81, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 86–69, §3(g), June 25, 1959, 73 Stat. 140; Pub. L. 86–780, §3(c), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–794, title III, §317(c), Oct. 11, 1962, 76 Stat. 890; Pub. L. 87–834, §2(e)(1), Oct. 16, 1962, 76 Stat. 971; Pub. L. 87–858, §3(b)(4), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–272, title II, §225(k)(6), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–571, §3(b), Sept. 2, 1964, 78 Stat. 857; Pub. L. 89–44, title VIII, §810(a), (b), June 21, 1965, 79 Stat. 169; Pub. L. 89–721, §§2(f), 3(a), Nov. 2, 1966, 80 Stat. 1150, 1151; Pub. L. 89–809, title I, §105(f)(3), Nov. 13, 1966, 80 Stat. 1568; Pub. L. 90–225, §2(c), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(g)(1)–(3), title V, §512(e)(1), Dec. 30, 1969, 83 Stat. 525, 639; Pub. L. 91–614, title I, §102(d)(8), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 92–178, title V, §504(c), title VI, §601(d)(1), (e)(2), Dec. 10, 1971, 85 Stat. 551, 558, 560; Pub. L. 93–406, title II, §1016(a)(14), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title X, §§1031(b)(5), 1035(d)(3),title XIII, §§1302(b), 1307(d)(2)(F)(vi), title XIX, §1906(b)(13)(A), title XXI, §2107(g)(2)(A), Oct. 4, 1976, 90 Stat. 1623, 1633, 1714, 1728, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(A), (5)(B), May 23, 1977, 91 Stat. 149, 151; Pub. L. 95–227, §4(d)(4), (5), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title II, §212(a), title III, §321(b)(2), title V, §504(b)(3), title VII, §§701(t)(3)(A), 703(n), (p)(2), Nov. 6, 1978, 92 Stat. 2818, 2835, 2881, 2912, 2943, 2944; Pub. L. 95–628, §8(c)(1), Nov. 10, 1978, 92 Stat. 3631; Pub. L. 96–222, title I, §§102(a)(2)(A), 103(a)(6)(G)(x), Apr. 1, 1980, 94 Stat. 208, 210; Pub. L. 96–223, title I, §101(g)(1), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title IV, §402(c)(5), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §§131(d)(2), 163(b)(1), title II, §211(b)(24), title III, §314(a)(3), title IV, §§447(a), 474(r)(39), title VII, §714(p)(2)(F), title VIII, §801(d)(14), July 18, 1984, 98 Stat. 664, 697, 757, 787, 817, 846, 965, 997; Pub. L. 99–514, title XVIII, §§1810(g)(3), 1847(b)(12)–(14), Oct. 22, 1986, 100 Stat. 2828, 2857; Pub. L. 100–203, title X, §§10712(c)(2), 10714(c), Dec. 22, 1987, 101 Stat. 1330–467, 1330–471; Pub. L. 100–418, title I, §1941(b)(2)(H), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1008(j)(1), title IV, §4008(c)(2), Nov. 10, 1988, 102 Stat. 3445, 3653; Pub. L. 101–239, title VII, §7814(e)(2)(E), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 101–508, title XI, §§11511(c)(2), 11602(b), Nov. 5, 1990, 104 Stat. 1388–485, 1388–500; Pub. L. 104–188, title I, §§1702(e)(3), 1703(n)(8), 1704(j)(4)(B), Aug. 20, 1996, 110 Stat. 1870, 1877, 1882; Pub. L. 105–34, title V, §506(b), title XI, §1145(a), title XII, §§1239(e)(2), 1284(a), title XVI, §1601(g)(2), Aug. 5, 1997, 111 Stat. 855, 985, 1028, 1038, 1092; Pub. L. 105–206, title III, §3461(b), title VI, §§6007(e)(2)(A), 6023(27), July 22, 1998, 112 Stat. 764, 809, 826; Pub. L. 108–357, title IV, §413(c)(28), title VIII, §814(a), Oct. 22, 2004, 118 Stat. 1509, 1581; Pub. L. 109–58, title XIII, §§1341(b)(4), 1342(b)(4), Aug. 8, 2005, 119 Stat. 1049, 1051; Pub. L. 109–135, title IV, §403(y), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 110–172, §7(a)(2)(B), Dec. 29, 2007, 121 Stat. 2482; Pub. L. 110–343, div. B, title II, §205(d)(3), title IV, §402(d), Oct. 3, 2008, 122 Stat. 3839, 3854; Pub. L. 111–5, div. B, title I, §§1141(b)(4), 1142(b)(7), Feb. 17, 2009, 123 Stat. 328, 331; Pub. L. 111–147, title V, §§501(c)(2), (3), 513(a)(1), (2)(A), (b), (c), Mar. 18, 2010, 124 Stat. 106, 111, 112; Pub. L. 111–226, title II, §218(a), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §3(b)(2), Aug. 16, 2010, 124 Stat. 2498.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 803; Pub. L. 85–859, title I, §165(a), Sept. 2, 1958, 72 Stat. 1313; Pub. L. 85–866, title I, §§80, 81, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 86–69, §3(g), June 25, 1959, 73 Stat. 140; Pub. L. 86–780, §3(c), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–794, title III, §317(c), Oct. 11, 1962, 76 Stat. 890; Pub. L. 87–834, §2(e)(1), Oct. 16, 1962, 76 Stat. 971; Pub. L. 87–858, §3(b)(4), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–272, title II, §225(k)(6), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–571, §3(b), Sept. 2, 1964, 78 Stat. 857; Pub. L. 89–44, title VIII, §810(a), (b), June 21, 1965, 79 Stat. 169; Pub. L. 89–721, §§2(f), 3(a), Nov. 2, 1966, 80 Stat. 1150, 1151; Pub. L. 89–809, title I, §105(f)(3), Nov. 13, 1966, 80 Stat. 1568; Pub. L. 90–225, §2(c), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(g)(1)–(3), title V, §512(e)(1), Dec. 30, 1969, 83 Stat. 525, 639; Pub. L. 91–614, title I, §102(d)(8), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 92–178, title V, §504(c), title VI, §601(d)(1), (e)(2), Dec. 10, 1971, 85 Stat. 551, 558, 560; Pub. L. 93–406, title II, §1016(a)(14), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title X, §§1031(b)(5), 1035(d)(3), title XIII, §§1302(b), 1307(d)(2)(F)(vi), title XIX, §1906(b)(13)(A), title XXI, §2107(g)(2)(A), Oct. 4, 1976, 90 Stat. 1623, 1633, 1714, 1728, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(A), (5)(B), May 23, 1977, 91 Stat. 149, 151; Pub. L. 95–227, §4(d)(4), (5), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title II, §212(a), title III, §321(b)(2), title V, §504(b)(3), title VII, §§701(t)(3)(A), 703(n), (p)(2), Nov. 6, 1978, 92 Stat. 2818, 2835, 2881, 2912, 2943, 2944; Pub. L. 95–628, §8(c)(1), Nov. 10, 1978, 92 Stat. 3631; Pub. L. 96–222, title I, §§102(a)(2)(A), 103(a)(6)(G)(x), Apr. 1, 1980, 94 Stat. 208, 210; Pub. L. 96–223, title I, §101(g)(1), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title IV, §402(c)(5), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §§131(d)(2), 163(b)(1), title II, §211(b)(24), title III, §314(a)(3), title IV, §§447(a), 474(r)(39), title VII, §714(p)(2)(F), title VIII, §801(d)(14), July 18, 1984, 98 Stat. 664, 697, 757, 787, 817, 846, 965, 997; Pub. L. 99–514, title XVIII, §§1810(g)(3), 1847(b)(12)–(14), Oct. 22, 1986, 100 Stat. 2828, 2857; Pub. L. 100–203, title X, §§10712(c)(2), 10714(c), Dec. 22, 1987, 101 Stat. 1330–467, 1330–471; Pub. L. 100–418, title I, §1941(b)(2)(H), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1008(j)(1), title IV, §4008(c)(2), Nov. 10, 1988, 102 Stat. 3445, 3653; Pub. L. 101–239, title VII, §7814(e)(2)(E), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 101–508, title XI, §§11511(c)(2), 11602(b), Nov. 5, 1990, 104 Stat. 1388–485, 1388–500; Pub. L. 104–188, title I, §§1702(e)(3), 1703(n)(8), 1704(j)(4)(B), Aug. 20, 1996, 110 Stat. 1870, 1877, 1882; Pub. L. 105–34, title V, §506(b), title XI, §1145(a), title XII, §§1239(e)(2), 1284(a), title XVI, §1601(g)(2), Aug. 5, 1997, 111 Stat. 855, 985, 1028, 1038, 1092; Pub. L. 105–206, title III, §3461(b), title VI, §§6007(e)(2)(A), 6023(27), July 22, 1998, 112 Stat. 764, 809, 826; Pub. L. 108–357, title IV, §413(c)(28), title VIII, §814(a), Oct. 22, 2004, 118 Stat. 1509, 1581; Pub. L. 109–58, title XIII, §§1341(b)(4), 1342(b)(4), Aug. 8, 2005, 119 Stat. 1049, 1051; Pub. L. 109–135, title IV, §403(y), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 110–172, §7(a)(2)(B), Dec. 29, 2007, 121 Stat. 2482; Pub. L. 110–343, div. B, title II, §205(d)(3), title IV, §402(d), Oct. 3, 2008, 122 Stat. 3839, 3854; Pub. L. 111–5, div. B, title I, §§1141(b)(4), 1142(b)(7), Feb. 17, 2009, 123 Stat. 328, 331; Pub. L. 111–147, title V, §§501(c)(2), (3), 513(a)(1), (2)(A), (b), (c), Mar. 18, 2010, 124 Stat. 106, 111, 112; Pub. L. 111–226, title II, §218(a), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §3(b)(2), Aug. 16, 2010, 124 Stat. 2498; Pub. L. 113–295, div. A, title II, §221(a)(2)(E), Dec. 19, 2014, 128 Stat. 4037.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (m). Pub. L. 113–295 struck out "section 30(e)(6)," before "30B(h)(9),".
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–147, §501(c)(2), inserted "4," after "chapter 3,".
 
@@ -252,7 +254,7 @@ Subsec. (e)(1)(B). Pub. L. 108–357, §413(c)(28), reenacted heading without ch
 
 <b>1998</b>—Subsec. (c)(4). Pub. L. 105–206, §3461(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (c)(9). Pub. L. 105–206, §6007(e)(2)(A), struck out at end "The value of any item which is so disclosed may not be redetermined by the Secretary after the expiration of the period under subsection (a)."
+Subsec. (c)(9). Pub. L. 105–206, §6007(e)(2)(A), struck out at end "The value of any item which is so disclosedmay not be redetermined by the Secretary after the expiration of the period under subsection (a)."
 
 Subsec. (m). Pub. L. 105–206, §6023(27), substituted "election under section 30(d)(4), 40(f), 43, 45B, 45C(d)(4), or 51(j) (or any" for "election under sections 30(d)(4), 40(f), 43, 45B, or 51(j) (or any".
 
@@ -260,7 +262,7 @@ Subsec. (m). Pub. L. 105–206, §6023(27), substituted "election under section 
 
 Subsec. (c)(8). Pub. L. 105–34, §1145(a), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: "In the case of any tax imposed on any exchange or distribution by reason of subsection (a), (d), or (e) of section 367, the time for assessment of such tax shall not expire before the date which is 3 years after the date on which the Secretary is notified of such exchange or distribution under section 6038B(a)."
 
-Subsec. (c)(9). Pub. L. 105–34, §506(b), reenacted par. (9) heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: "If any gift of property the value of which is determined under section 2701 or 2702 (or any increase in taxable gifts required under section 2701(d)) is required to be shown on a return of tax imposed by chapter 12 (without regard to section 2503(b)), and is not shown on suchreturn, any tax imposed by chapter 12 on such gift may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time. The preceding sentence shall not apply to any item not shown as a gift on such return if such item is disclosed in such return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item."
+Subsec. (c)(9). Pub. L. 105–34, §506(b), reenacted par. (9) heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: "If any gift of property the value of which is determined under section 2701 or 2702 (or any increase in taxable gifts required under section 2701(d)) is required to be shown on a return of tax imposed by chapter 12 (without regard to section 2503(b)), and is not shown on such return, any tax imposed by chapter 12 on such gift may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time. The preceding sentence shall not apply to any item not shown as a gift on such return if such item is disclosed in such return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item."
 
 Subsec. (m). Pub. L. 105–34, §1601(g)(2), provided that sections 1703(n)(8) and 1704(j)(4)(B) of Pub. L. 104–188 shall be applied as if the reference in the directory language to the redesignation by section 1602 referred to the redesignation by section 1702. See 1996 Amendment note below.
 
@@ -440,6 +442,10 @@ Subsec. (g)(2). Pub. L. 85–866, §81(a), substituted "organization" for "corpo
 
 Subsecs. (h), (i). Pub. L. 85–866, §81(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–237 applicable to restitution ordered after Aug. 16, 2010, see section 3(c) of Pub. L. 111–237, set out as a note under section 6201 of this title.
@@ -576,7 +582,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendments
 
-Amendment by Pub. L. 95–628 applicable to carrybacks arising in taxable years beginning after Nov. 10,1978, see section 8(d) of Pub. L. 95–628, set out as a note under section 6511 of this title.
+Amendment by Pub. L. 95–628 applicable to carrybacks arising in taxable years beginning after Nov. 10, 1978, see section 8(d) of Pub. L. 95–628, set out as a note under section 6511 of this title.
 
 Pub. L. 95–600, title II, §212(c), Nov. 6, 1978, 92 Stat. 2819, provided that: "The amendments made by this section \[amending this section and sections 6511 and 6512 of this title\] shall apply to partnership items arising in partnership taxable years beginning after December 31, 1978."
 
@@ -656,7 +662,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years ending af
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1957, see section 4 of Pub.L. 86–780, set out as a note under section 904 of this title.
+Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1957, see section 4 of Pub. L. 86–780, set out as a note under section 904 of this title.
 
 #### Effective Date of 1959 Amendment
 
@@ -671,4 +677,6 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 

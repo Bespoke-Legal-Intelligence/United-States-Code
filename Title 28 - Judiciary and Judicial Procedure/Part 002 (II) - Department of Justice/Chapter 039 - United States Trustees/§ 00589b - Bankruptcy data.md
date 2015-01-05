@@ -56,7 +56,7 @@ Periodic Reports.—The uniform forms for periodic reports required under subsec
 
 &emsp;(4) cash receipts, cash disbursements and profitability of the debtor for the most recent period and cumulatively since the date of the order for relief;
 
-&emsp;(5) compliance with title 11, whether or not tax returns and tax payments since the date ofthe order for relief have been timely filed and made;
+&emsp;(5) compliance with title 11, whether or not tax returns and tax payments since the date of the order for relief have been timely filed and made;
 
 &emsp;(6) all professional fees approved by the court in the case for the most recent period and cumulatively since the date of the order for relief (separately reported, for the professional fees incurred by or on behalf of the debtor, between those that would have been incurred absent a bankruptcy case and those not); and
 

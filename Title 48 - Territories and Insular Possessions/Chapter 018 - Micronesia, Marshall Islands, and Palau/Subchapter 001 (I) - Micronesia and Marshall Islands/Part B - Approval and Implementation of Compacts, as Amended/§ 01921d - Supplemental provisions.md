@@ -2,7 +2,7 @@
 
 #### (a) Domestic program requirements
 
-Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated in the Federated States of Micronesia or the Republic of the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicableto such programs when operating in the United States (including its territories and commonwealths).
+Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated in the Federated States of Micronesia or the Republic of the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs when operating in the United States (including its territories and commonwealths).
 
 #### (b) Relations with the Federated States of Micronesia and the Republic of the Marshall Islands
 
@@ -10,7 +10,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 (2) Appropriations made pursuant to subsections (a)(1) and (a)(3) through (6) of section 221 of Article II of Title Two of the U.S.-FSM Compact and subsection (a)(1) and (a)(3) through (5) of the U.S.-RMI Compact shall be made directly to the agencies named in those subsections.
 
-(3) Appropriations for services and programs referred to in subsection (b) of section 221 of Article II of Title Two of the U.S.-FSM Compact or U.S.-RMI Compact and appropriations for services and programs referred to in subsection (f) of this section and section 1921g(a) of this title shall be made to the relevant agencies in accordance with the terms of the appropriations for such services and programs.
+(3) Appropriations for services and programs referred to in subsection (b) of section 221 of Article II of Title Two of the U.S.-FSM Compact or U.S.-RMI Compact and appropriations for services and programs referred to in subsection (f) and section 1921g(a) of this title shall be made to the relevant agencies in accordance with the terms of the appropriations for such services and programs.
 
 (4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
@@ -66,7 +66,7 @@ Additional scope.—Section 214 of the U.S.-RMI Compact shall be construed to re
 
 (8)
 
-Oversight and coordination.—It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensureeffective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
+Oversight and coordination.—It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensure effective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
 
 (9) The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 215 of the U.S.-FSM Compact and referred to in section 462(b)(5) of the U.S.-FSM Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 216 of the U.S.-RMI Compact and referred to in section 462(b)(5) of the U.S.-RMI Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. It is the sense of Congress that the appointees should be designated from the Department of State, the Department of the Interior, and the Department of the Treasury.
 
@@ -98,7 +98,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), section 221(a)(6) of the U.S.–FSM Compact and section 221(a)(5) of the U.S.–RMI Compact shall each be construed and applied in accordance with the two Agreements to Amend Article X of the Federal Programs and Service Agreements signed on June 30, 2004, and on June 18, 2004, respectively,provided that all activities carried out by the United States Agency for International Development and the Federal Emergency Management Agency under Article X of the Federal Programs and Services Agreements may be carried out notwithstanding any other provision of law. In the sections referred to in this clause, the term "United States Agency for International Development, Office of Foreign Disaster Assistance" shall be construed to mean "the United States Agency for International Development".
+&emsp;&emsp;&emsp;Subject to clause (ii), section 221(a)(6) of the U.S.–FSM Compact and section 221(a)(5) of the U.S.–RMI Compact shall each be construed and applied in accordance with the two Agreements to Amend Article X of the Federal Programs and Service Agreements signed on June 30, 2004, and on June 18, 2004, respectively, provided that all activities carried out by the United States Agency for International Development and the Federal Emergency Management Agency under Article X of the Federal Programs and Services Agreements may be carried out notwithstanding any other provision of law. In the sections referred to in this clause, the term "United States Agency for International Development, Office of Foreign Disaster Assistance" shall be construed to mean "the United States Agency for International Development".
 
 #### (ii) Definition of will provide funding
 
@@ -120,7 +120,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (iii) Supplemental education grants
 
-&emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), other than subtitle C of that Act (29 U.S.C. 2881 et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.; commonly known as the Adult Education and Family Literacy Act), title I of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
+&emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), other than subtitle C of that Act (29 U.S.C. 2881 et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.; commonly known asthe Adult Education and Family Literacy Act), title I of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
 
 &emsp;&emsp;&emsp;&emsp;(I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
 
@@ -150,7 +150,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (ix) Applicability
 
-&emsp;&emsp;&emsp;The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009, to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
+&emsp;&emsp;&emsp;The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009,<sup>1</sup> to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
 
 &emsp;&emsp;(C) The Legal Services Corporation, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions).
 
@@ -182,11 +182,11 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (2) Authorization and continuing appropriation
 
-&emsp;There is hereby authorized and appropriated to the Secretary of the Interior, out of anyfunds in the Treasury not otherwise appropriated, to remain available until expended, for each fiscal year from 2004 through 2023, $300,000, as adjusted for inflation under section 218 of the U.S.-FSM Compact and the U.S.-RMI Compact, to carry out the purposes of this section.
+&emsp;There is hereby authorized and appropriated to the Secretary of the Interior, out of any funds in the Treasury not otherwise appropriated, to remain available until expended, for each fiscal year from 2004 through 2023, $300,000, as adjusted for inflation under section 218 of the U.S.-FSM Compact and the U.S.-RMI Compact, to carry out the purposes of this section.
 
 #### (j) Technical assistance
 
-Technical assistance may be provided pursuant to section 224 of the U.S.-FSM Compact or the U.S.-RMI Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Natural Resources Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under the National Historic Preservation Act (80 Stat. 915; 16 U.S.C. 470–470t), shall be on a nonreimbursable basis. During the period the U.S.-FSM Compact and the U.S.-RMI Compact are in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Republic of the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Any funds provided pursuant to subsections (c) and (g) to (m) of this section and sections 1921a(a) and 1921b(a), (b), (f) to (h), and (j) of this title shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact, the U.S.-RMI Compact, or their related subsidiary agreements.
+Technical assistance may be provided pursuant to section 224 of the U.S.-FSM Compact or the U.S.-RMI Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Natural Resources Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under division A of subtitle III of title 54, shall be on a nonreimbursable basis. During the period the U.S.-FSM Compact and the U.S.-RMI Compact are in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Republic of the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Any funds provided pursuant to subsections (c) and (g) to (m) and sections 1921a(a) and 1921b(a), (b), (f) to (h), and (j) of this title shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact, the U.S.-RMI Compact, or their related subsidiary agreements.
 
 #### (k) Prior service benefits program
 
@@ -224,13 +224,17 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (3) Obligations
 
-&emsp;For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume anyobligations of an existing legal entity and take assignment of any contract or other agreement to which the existing legal entity is party.
+&emsp;For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume any obligations of an existing legal entity and take assignment of any contract or other agreement to which the existing legal entity is party.
 
 #### (4) Assistance
 
 &emsp;Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
 
-(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(l), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 110–229, title VIII, §§803(a), 804, 805, 806(a)(3), May 8, 2008, 122 Stat. 870, 871.)
+(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(l), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 110–229, title VIII, §§803(a), 804, 805, 806(a)(3), May 8, 2008, 122 Stat. 870, 871; Pub. L. 113–128, title V, §512(g)(1), July 22, 2014, 128 Stat. 1708; Pub. L. 113–287, §5(o)(2), Dec. 19, 2014, 128 Stat. 3272.)
+
+#### Amendment of Subsection (f)(1)(B)(iii)
+
+<i>Pub. L. 113–128, title V, §§506, 512(g)(1), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(1)(B)(iii) of this section is amended by striking "title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), other than subtitle C of that Act (29 U.S.C. 2881 et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.; commonly known as the Adult Education and Family Literacy Act)," and inserting "titles I (other than subtitle C) and II of the Workforce Innovation and Opportunity Act,". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -254,9 +258,11 @@ Carl D. Perkins Career and Technical Education Act of 2006, referred to in subse
 
 The Head Start Act, referred to in subsec. (f)(1)(B)(iii), (v), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (j), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
-
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(1)(B)(iii). Pub. L. 113–128, in introductory provisions, substituted "titles I (other than subtitle C) and II of the Workforce Innovation and Opportunity Act," for "title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), other than subtitle C of that Act (29 U.S.C. 2881 et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.; commonly known as the Adult Education and Family Literacy Act),".
+
+Subsec. (j). Pub. L. 113–287 substituted "division A of subtitle III of title 54" for "the National Historic Preservation Act (80 Stat. 915; 16 U.S.C. 470–470t)".
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–229, §806(a)(3), substituted "Trust Funds)" for "Trust Fund)".
 
@@ -274,13 +280,23 @@ Subsec. (f)(1)(C). Pub. L. 110–229, §805, inserted before period at end ", w
 
 <b>2006</b>—Subsec. (f)(1)(B)(iii). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–229, title VIII, §803(b), May 8, 2008, 122 Stat. 870, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as of the date that is 180 days after the date of enactment of this Act \[May 8, 2008\]."
 
 #### Continued Applicability of Subsection (f)(1)(B)(ix)
 
+Pub. L. 113–235, div. G, title III, §306, Dec. 16, 2014, 128 Stat. 2504, provided that: "Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting '2015' for '2009'."
+
+Pub. L. 113–76, div. H, title III, §306, Jan. 17, 2014, 128 Stat. 399, provided that: "Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting '2014' for '2009'."
+
 Pub. L. 112–74, div. F, title III, §306, Dec. 23, 2011, 125 Stat. 1099, provided that: "Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting '2012' for '2009'."
 
 Pub. L. 111–117, div. D, title III, §309, Dec. 16, 2009, 123 Stat. 3272, provided that: "Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting '2010' for '2009'."
+
+<i><sup>1</sup></i><i> See Continued Applicability of Subsection (f)(1)(B)(ix) notes below.</i>
 

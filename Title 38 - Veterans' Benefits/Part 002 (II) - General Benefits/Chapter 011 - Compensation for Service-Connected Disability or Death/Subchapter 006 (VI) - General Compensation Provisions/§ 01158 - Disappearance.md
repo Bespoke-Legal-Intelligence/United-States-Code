@@ -1,6 +1,6 @@
 ### §1158. Disappearance
 
-Where a veteran receiving compensation under this chapter disappears, the Secretary may pay the compensation otherwise payable to the veteran to such veteran's spouse, children, and parents. Payments made to such spouse, child, or parent under the preceding sentence shall not exceed the amounts payable to each if the veteran had died from service-connected disability.
+Where a veteran receiving compensation under this chapter disappears, the Secretary may pay the compensation otherwise payable to the veteran to such veteran's spouse, children, and parents. Payments made to such spouse, child, orparent under the preceding sentence shall not exceed the amounts payable to each if the veteran had died from service-connected disability.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, §358; Pub. L. 86–212, Sept. 1, 1959, 73 Stat. 436; Pub. L. 94–433, title IV, §404(21), Sept. 30, 1976, 90 Stat. 1379; renumbered §1158 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 5 U.S.C. 53.
 
-Mar. 3, 1893, ch. 208 (5th par. under “Public Buildings”), 27 Stat. 591.
+Mar. 3, 1893, ch. 208 (5th par. under "Public Buildings"), 27 Stat. 591.
 
 The prohibition is restated in positive form.
 

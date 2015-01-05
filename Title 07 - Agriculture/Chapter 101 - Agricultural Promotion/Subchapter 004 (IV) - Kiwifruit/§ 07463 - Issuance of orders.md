@@ -16,7 +16,7 @@ To effectuate the purposes of this subchapter specified in section 7461(b) of th
 
 #### (3) Issuance of order
 
-&emsp;After notice and opportunity for public comment are provided under paragraph (2), theSecretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with this subchapter.
+&emsp;After notice and opportunity for public comment are provided under paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with this subchapter.
 
 #### (c) Amendments
 

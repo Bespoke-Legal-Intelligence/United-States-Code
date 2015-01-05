@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;(B) coal combustion fly ash; and
 
-&emsp;&emsp;(C) any other waste material or byproduct recovered or diverted from solid waste that the Administrator, in consultation with an agency head, determines should be treated as recovered mineral component under this section for use in cement or concrete projects paid for, in whole or in part, by the agency head.
+&emsp;&emsp;(C) any other waste material or byproduct recovered or diverted from solid waste that the Administrator, in consultation with an agency head, determines should be treatedas recovered mineral component under this section for use in cement or concrete projects paid for, in whole or in part, by the agency head.
 
 #### (b) Implementation of requirements
 

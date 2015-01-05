@@ -1,10 +1,12 @@
 ### §6436. Termination
 
-The Commission shall terminate on September 30, 2014.
+The Commission shall terminate on September 30, 2015.
 
-(Pub. L. 105–292, title II, §209, formerly §206, Oct. 27, 1998, 112 Stat. 2800; renumbered §209 and amended Pub. L. 106–55, §1(b)(2), (c), Aug. 17, 1999, 113 Stat. 401, 405; Pub. L. 107–228, div. A, title VI, §681(g), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, §6, Dec. 23, 2011, 125 Stat. 1273.)
+(Pub. L. 105–292, title II, §209, formerly §206, Oct. 27, 1998, 112 Stat. 2800; renumbered §209 and amended Pub. L. 106–55, §1(b)(2), (c), Aug. 17, 1999, 113 Stat. 401, 405; Pub. L. 107–228, div. A, title VI, §681(g), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, §6, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 113–271, §1(2), Dec. 18, 2014, 128 Stat. 2951.)
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–271 substituted "September 30, 2015" for "September 30, 2014".
 
 <b>2011</b>—Pub. L. 112–75 substituted "September 30, 2014" for "September 30, 2011".
 
@@ -12,7 +14,11 @@ The Commission shall terminate on September 30, 2014.
 
 <b>1999</b>—Pub. L. 106–55, §1(c), which directed substitution of "on May 14, 2003" for "4 years after the initial appointment of all the Commissioners", was executed by making the substitution for "4 years after the initial appointment of all of the Commissioners", to reflect the probable intent of Congress.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–271 effective as if enacted on Dec. 10, 2014, see section 2 of Pub. L. 113–271, set out as a note under section 6435 of this title.
+
 #### Extension of Termination Date
 
-Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1173, provided in part: "That section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) shall be applied by substituting 'September 30, 2012' for 'September 30, 2011' ".
+Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1173, provided in part: "That section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436)shall be applied by substituting 'September 30, 2012' for 'September 30, 2011' ".
 

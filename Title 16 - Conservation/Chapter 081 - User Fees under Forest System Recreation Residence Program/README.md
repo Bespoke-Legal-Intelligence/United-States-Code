@@ -15,6 +15,7 @@
 | [6211\.](%C2%A7%2006211%20-%20Consistency%20with%20other%20law%20and%20rights.md) | Consistency with other law and rights. |
 | [6212\.](%C2%A7%2006212%20-%20Regulations.md) | Regulations. |
 | [6213\.](%C2%A7%2006213%20-%20Transition%20provisions.md) | Transition provisions. |
+| [6214\.](%C2%A7%2006214%20-%20Cabin%20user%20and%20transfer%20fees.md) | Cabin user and transfer fees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,3 +37,4 @@
 - [&sect; 06211 - Consistency with other law and rights](%C2%A7%2006211%20-%20Consistency%20with%20other%20law%20and%20rights.md)
 - [&sect; 06212 - Regulations](%C2%A7%2006212%20-%20Regulations.md)
 - [&sect; 06213 - Transition provisions](%C2%A7%2006213%20-%20Transition%20provisions.md)
+- [&sect; 06214 - Cabin user and transfer fees](%C2%A7%2006214%20-%20Cabin%20user%20and%20transfer%20fees.md)

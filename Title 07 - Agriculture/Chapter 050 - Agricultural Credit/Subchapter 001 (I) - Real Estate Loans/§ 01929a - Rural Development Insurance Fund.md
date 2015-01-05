@@ -28,7 +28,7 @@ The Secretary shall deposit in the Insurance Fund any charges collected for loan
 
 The Secretary may utilize the Insurance Fund—
 
-&emsp;(1) to pay amounts to which the holder of insured notes is entitled on loans heretofore or hereafter insured accruing between the date of any payments by the borrower and the date oftransmittal of any such payments to the holder. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
+&emsp;(1) to pay amounts to which the holder of insured notes is entitled on loans heretofore or hereafter insured accruing between the date of any payments by the borrower and the date of transmittal of any such payments to the holder. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
 
 &emsp;(2) to pay to the holder of insured notes any deferred or defaulted installment, or upon assignment of the note to the Secretary at the Secretary's request, the entire balance due on the loan;
 
@@ -40,7 +40,7 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 
-&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, eitherdirectly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (h) Gross income; interest or other income on insured loans
 
@@ -134,7 +134,7 @@ Pub. L. 99–509, title I, §1001, Oct. 21, 1986, 100 Stat. 1874, as amended by 
 
 "(a)
 
-Sales Required.—The Secretary of Agriculture, under such terms as the Secretary may prescribe, shall sell notes and other obligations held in the Rural Development Insurance Fund established under section 309A of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1929a\] in such amounts as to realize net proceeds to the Government of not less than—
+Sales Required.—The Secretary of Agriculture, under such terms as the Secretary may prescribe, shall sell notes and other obligations held in the Rural Development Insurance Fund established under section309A of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1929a\] in such amounts as to realize net proceeds to the Government of not less than—
 
 &emsp;"(1) $1,000,000,000 from such sales during fiscal year 1987,
 

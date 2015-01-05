@@ -4,7 +4,7 @@
 
 #### (1) Intervention as matter of right
 
-&emsp;The Secretary of Energy may intervene as a matter of right in any proceeding relating to the prorationing of, or other limitations upon,natural gas production which is conducted by any State agency having regulatory jurisdiction over the production of natural gas.
+&emsp;The Secretary of Energy may intervene as a matter of right in any proceeding relating to the prorationing of, or other limitations upon, natural gas production which is conducted by any State agency having regulatory jurisdiction over the production of natural gas.
 
 #### (2) Enforcement of right to intervene
 

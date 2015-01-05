@@ -6,7 +6,7 @@ The Secretary may establish, appoint members of, and use the services of, adviso
 
 #### (b) Termination
 
-Any advisory committee established by the Secretary shall terminate 2 years after the dateof its establishment, unless the Secretary makes a written determination to extend the advisory committee to a specified date, which shall not be more than 2 years after the date on which such determination is made. The Secretary may make any number of subsequent extensions consistent with this subsection.
+Any advisory committee established by the Secretary shall terminate 2 years after the date of its establishment, unless the Secretary makes a written determination to extend the advisory committee to a specified date, which shall not be more than 2 years after the date on which such determination is made. The Secretary may make any number of subsequent extensions consistent with this subsection.
 
 (Pub. L. 107–296, title VIII, §871, Nov. 25, 2002, 116 Stat. 2243.)
 

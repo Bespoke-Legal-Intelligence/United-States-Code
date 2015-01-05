@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-Nothing in this section shall be construed to affect the application of section 1251(g) of this title, and all of the provisions of this section shall be carried out in accordance with the provisions of such section 1251(g) of this title. Indian tribes shall be treated as States for purposes of such section 1251(g) of this title.
+Nothing in this section shall be construed to affect the application of section 1251(g) of this title, and all of the provisions of this sectionshall be carried out in accordance with the provisions of such section 1251(g) of this title. Indian tribes shall be treated as States for purposes of such section 1251(g) of this title.
 
 #### (b) Assessment of sewage treatment needs; report
 
@@ -10,7 +10,23 @@ The Administrator, in cooperation with the Director of the Indian Health Service
 
 #### (c) Reservation of funds
 
-The Administrator shall reserve each fiscal year beginning after September 30, 1986, before allotments to the States under section 1285(e) of this title, one-half of one percent of the sums appropriated under section 1287 of this title. Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203 \[43 U.S.C. 1601 et seq.\].
+#### (1) Fiscal years 1987–2014
+
+&emsp;The Administrator shall reserve each of fiscal years 1987 through 2014, before allotments to the States under section 1285(e) of this title, one-half of one percent of the sums appropriated under section 1287 of this title.
+
+#### (2) Fiscal year 2015 and thereafter
+
+&emsp;For fiscal year 2015 and each fiscal year thereafter, the Administrator shall reserve, before allotments to the States under section 1384(a) of this title, not less than 0.5 percent and not more than 2.0 percent of the funds made available to carry out subchapter VI.
+
+#### (3) Use of funds
+
+&emsp;Funds reserved under this subsection shall be available only for grants for projects and activities eligible for assistance under section 1383(c) of this title to serve—
+
+&emsp;&emsp;(A) Indian tribes (as defined in subsection (h));
+
+&emsp;&emsp;(B) former Indian reservations in Oklahoma (as determined by the Secretary of the Interior); and
+
+&emsp;&emsp;(C) Native villages (as defined in section 1602 of title 43).
 
 #### (d) Cooperative agreements
 
@@ -26,7 +42,7 @@ The Administrator is authorized to treat an Indian tribe as a State for purposes
 
 &emsp;(3) the Indian tribe is reasonably expected to be capable, in the Administrator's judgment, of carrying out the functions to be exercised in a manner consistent with the terms and purposes of this chapter and of all applicable regulations.
 
-> Such treatment as a State may include the direct provision of funds reserved under subsection (c) of this section to the governing bodies of Indian tribes, and the determination of priorities by Indian tribes, where not determined by the Administrator in cooperation with the Director of the Indian Health Service. The Administrator, in cooperation with the Director of the Indian Health Service, is authorized to make grants under subchapter II of this chapter in an amount not to exceed 100 percent of the cost of a project. Not later than 18 months after February 4, 1987, the Administrator shall, in consultation with Indian tribes, promulgate final regulations which specify how Indian tribes shall be treated as States for purposes of this chapter. The Administrator shall, in promulgating such regulations, consult affected States sharing common water bodies and provide a mechanism for the resolution of any unreasonable consequences that may arise as a result of differing water quality standards that may be set by States and Indian tribes locatedon common bodies of water. Such mechanism shall provide for explicit consideration of relevant factors including, but not limited to, the effects of differing water quality permit requirements on upstream and downstream dischargers, economic impacts, and present and historical uses and quality of the waters subject to such standards. Such mechanism should provide for the avoidance of such unreasonable consequences in a manner consistent with the objective of this chapter.
+> Such treatment as a State may include the direct provision of funds reserved under subsection (c) of this section to the governing bodies of Indian tribes, and the determination of priorities by Indian tribes, where not determined by the Administrator in cooperation with the Director of the Indian Health Service. The Administrator, in cooperation with the Director of the Indian Health Service, is authorized to make grants under subchapter II of this chapter in an amount not to exceed 100 percent of the cost of a project. Not later than 18 months after February 4, 1987, the Administrator shall, in consultation with Indian tribes, promulgate final regulations which specify how Indian tribes shall be treated as States for purposes of this chapter. The Administrator shall, in promulgating such regulations, consult affected States sharing common water bodies and provide a mechanism for the resolution of any unreasonable consequences that may arise as a result of differing water quality standards that may be set by States and Indian tribes located on common bodies of water. Such mechanism shall provide for explicit consideration of relevant factors including, but not limited to, the effects of differing water quality permit requirements on upstream and downstream dischargers, economic impacts, and present and historical uses and quality of the waters subject to such standards. Such mechanism should provide for the avoidance of such unreasonable consequences in a manner consistent with the objective of this chapter.
 
 #### (f) Grants for nonpoint source programs
 
@@ -50,11 +66,9 @@ For purposes of this section, the term—
 
 &emsp;(2) "Indian tribe" means any Indian tribe, band, group, or community recognized by the Secretary of the Interior and exercising governmental authority over a Federal Indian reservation.
 
-(June 30, 1948, ch. 758, title V, §518, as added Pub. L. 100–4, title V, §506, Feb. 4, 1987, 101 Stat. 76; amended Pub. L. 100–581, title II, §207, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 106–284, §6, Oct. 10, 2000, 114 Stat. 876.)
+(June 30, 1948, ch. 758, title V, §518, as added Pub. L. 100–4, title V, §506, Feb. 4, 1987, 101 Stat. 76; amended Pub. L. 100–581, title II, §207, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 106–284, §6, Oct. 10, 2000, 114 Stat. 876; Pub. L. 113–121, title V, §5013, June 10, 2014, 128 Stat. 1328.)
 
 #### References in Text
-
-Public Law 92–203, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. The term "Alaska Native Villages" is defined in section 3 of Pub. L. 92–203 which is classified to section 1602 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
@@ -63,6 +77,10 @@ Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 
 A prior section 518 of act June 30, 1948, was renumbered section 519 and is set out as a note under section 1251 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–121, §5013(1), (3), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+Subsec. (c)(1). Pub. L. 113–121, §5013(2), substituted "each of fiscal years 1987 through 2014," for "each fiscal year beginning after September 30, 1986," and struck out at end "Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203."
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–284 substituted "1344, and 1346 of this title" for "and 1344 of this title" in introductory provisions.
 

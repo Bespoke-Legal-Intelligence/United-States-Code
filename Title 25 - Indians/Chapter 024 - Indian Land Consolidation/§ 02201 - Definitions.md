@@ -152,7 +152,7 @@ Pub. L. 108–374, §10, Oct. 27, 2004, 118 Stat. 1810, provided that: "The Secr
 
 #### Severability
 
-Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119 Stat. 2952, provided that: "If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i)of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect."
+Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119 Stat. 2952, provided that: "If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect."
 
 #### Congressional Findings
 
@@ -242,7 +242,7 @@ Pub. L. 106–462, title I, §102, Nov. 7, 2000, 114 Stat. 1992, provided that: 
 
 #### Authorization of Appropriations
 
-Pub. L. 106–462, title I, §105, Nov. 7, 2000, 114 Stat. 2007, provided that: "There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title\] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law."
+Pub. L. 106–462, title I, §105, Nov. 7, 2000, 114 Stat. 2007, provided that: "There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title\] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law."
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

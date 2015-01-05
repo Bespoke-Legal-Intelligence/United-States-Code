@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 5 U.S.C. 54.
 
-Oct. 22, 1913, ch. 32, §1 (last par. under “Interstate Commerce Commission”), 38 Stat. 212.
+Oct. 22, 1913, ch. 32, §1 (last par. under "Interstate Commerce Commission"), 38 Stat. 212.
 
 The prohibition is restated in positive form.
 

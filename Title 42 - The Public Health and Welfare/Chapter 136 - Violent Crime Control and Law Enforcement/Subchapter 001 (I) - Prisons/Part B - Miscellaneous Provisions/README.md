@@ -14,3 +14,5 @@ Part B—Miscellaneous Provisions
 - [&sect; 13726a - Definitions](%C2%A7%2013726a%20-%20Definitions.md)
 - [&sect; 13726b - Federal regulation of prisoner transport companies](%C2%A7%2013726b%20-%20Federal%20regulation%20of%20prisoner%20transport%20companies.md)
 - [&sect; 13726c - Enforcement](%C2%A7%2013726c%20-%20Enforcement.md)
+- [&sect; 13727 - State information regarding individuals who die in the custody of law enforcement](%C2%A7%2013727%20-%20State%20information%20regarding%20individuals%20who%20die%20in%20the%20custody%20of%20law%20enforcement.md)
+- [&sect; 13727a - Federal law enforcement death in custody reporting requirement](%C2%A7%2013727a%20-%20Federal%20law%20enforcement%20death%20in%20custody%20reporting%20requirement.md)

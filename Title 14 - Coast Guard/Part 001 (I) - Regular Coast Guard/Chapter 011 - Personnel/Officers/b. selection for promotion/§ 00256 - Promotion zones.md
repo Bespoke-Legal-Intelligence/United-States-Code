@@ -10,7 +10,7 @@
 
 > However, such number of officers shall not exceed the number to be selected for promotion divided by six-tenths.
 
-(b) Promotion zones from which officers will be selected for promotion to the grade of rearadmiral (lower half) shall be established by the Secretary as the needs of the service require.
+(b) Promotion zones from which officers will be selected for promotion to the grade of rear admiral (lower half) shall be established by the Secretary as the needs of the service require.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179; amended Pub. L. 89–444, §1(16), June 9, 1966, 80 Stat. 196; Pub. L. 97–417, §2(3), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 99–661, div. A, title XIII, §1343(c), Nov. 14, 1986, 100 Stat. 3995.)
 

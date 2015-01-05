@@ -50,7 +50,7 @@ Amendment by Pub. L. 97–34 applicable to expenditures incurred after Dec. 31, 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 effective as if included within the enactment of this section by section 2124 of Pub. L. 94–455, see section 701(f)(8) of Pub. L. 95–600, set out as an Effective and Termination Dates of 1978 Amendments note under section 167 of this title.
+Amendment by Pub. L. 95–600 effective as if included within the enactment of this section by section 2124 ofPub. L. 94–455, see section 701(f)(8) of Pub. L. 95–600, set out as an Effective and Termination Dates of 1978 Amendments note under section 167 of this title.
 
 #### Effective Date
 

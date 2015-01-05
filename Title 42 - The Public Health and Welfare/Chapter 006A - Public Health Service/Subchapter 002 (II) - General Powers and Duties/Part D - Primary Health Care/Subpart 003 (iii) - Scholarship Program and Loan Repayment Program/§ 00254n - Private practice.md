@@ -64,7 +64,7 @@ A prior section 338D of act July 1, 1944, was renumbered section 338E by section
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–251 added subsec. (b) and struck out former subsec. (b) which related to written agreements, regulations, and actions to ensure compliance.
+<b>2002</b>—Subsec. (b). Pub. L. 107–251 added subsec. (b) and struck out former subsec. (b) which related to writtenagreements, regulations, and actions to ensure compliance.
 
 <b>1990</b>—Subsec. (a)(1), (2). Pub. L. 101–597 substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 

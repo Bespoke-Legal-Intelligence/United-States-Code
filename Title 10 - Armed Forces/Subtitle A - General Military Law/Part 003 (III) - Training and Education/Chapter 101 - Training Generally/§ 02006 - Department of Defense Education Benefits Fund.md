@@ -32,7 +32,7 @@
 
 &emsp;(3) Any return on investment of the assets of the Fund.
 
-(d) The Secretary of the Treasury shall transfer from the Fund to the Secretary of Veterans Affairs such amounts as may be necessary to enable the Secretary of Veterans Affairs to make required payments of armed forces education liabilities. The Secretary of the Treasury, the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating, and the Secretary of Veterans Affairs shall enter into an agreement as to how and when, and the amounts in which, such transfers shall be made. Except for investments under subsection (h), amounts in the Fund may not be used for any purpose other than transfers as described in this subsection.
+(d) The Secretary of the Treasury shall transfer from the Fund to the Secretary of Veterans Affairs such amounts as may be necessary to enable the Secretary of Veterans Affairs to make required payments of armed forces education liabilities. The Secretary of the Treasury, the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating, and the Secretary of Veterans Affairs shall enter into an agreement as to how and when,and the amounts in which, such transfers shall be made. Except for investments under subsection (h), amounts in the Fund may not be used for any purpose other than transfers as described in this subsection.
 
 (e)(1) The Secretary of Defense shall carry out periodic actuarial valuations of the educational programs described in subsection (b)(1).
 
@@ -40,7 +40,7 @@
 
 (3) If at the time of any such valuation there has been a change in benefits under an education program described in subsection (b)(1) that has been made since the last such valuation and that increases or decreases the present value of benefits payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the liquidation of the unfunded liability (or negative unfunded liability) thus created such that the present value of the sum of the amortization payments equals the increase or decrease in the present value of such benefits.
 
-(4) If at the time of any such valuation the Secretary of Defense determines that, basedupon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the liquidation of such gain or loss through an increase or decrease in the payments that would otherwise be made to the Fund.
+(4) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the liquidation of such gain or loss through an increase or decrease in the payments that would otherwise be made to the Fund.
 
 (5) Based on the determinations under paragraphs (2), (3), and (4) the Secretary of Defense shall determine the amount needed to be appropriated to the Department of Defense and the Department in which the Coast Guard is operating for the next fiscal year for payments to be made to the Fund under subsection (f). The President shall include not less than the full amount so determined in the budget transmitted to Congress for the next fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
 

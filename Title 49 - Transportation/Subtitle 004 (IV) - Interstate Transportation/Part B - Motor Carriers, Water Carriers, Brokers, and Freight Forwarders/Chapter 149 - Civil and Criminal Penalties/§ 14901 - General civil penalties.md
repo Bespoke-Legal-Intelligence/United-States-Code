@@ -34,7 +34,7 @@ In general.—If a carrier providing transportation of household goods subject t
 
 &emsp;(2)
 
-Estimate of broker without carrier agreement.—If a broker for transportation ofhousehold goods subject to jurisdiction under subchapter I of chapter 135 makes an estimate of the cost of transporting any such goods before entering into an agreement with a carrier to provide transportation of household goods subject to such jurisdiction, the broker is liable to the United States for a civil penalty of not less than $10,000 for each violation.
+Estimate of broker without carrier agreement.—If a broker for transportation of household goods subject to jurisdiction under subchapter I of chapter 135 makes an estimate of the cost of transporting any such goods before entering into an agreement with a carrier to provide transportation of household goods subject to such jurisdiction, the broker is liable to the United States for a civil penalty of not less than $10,000 for each violation.
 
 &emsp;(3)
 

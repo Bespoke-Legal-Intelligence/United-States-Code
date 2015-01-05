@@ -16,7 +16,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) who is or will be functioning in a role identified in a State, local, or Department of Health and Human Services smallpox emergency response plan (as defined in paragraph (7)) approved by the Secretary;
 
-&emsp;&emsp;(C) who has volunteered and been selected to be a member of a smallpox emergency response plan described in subparagraph (B)prior to the time at which the Secretary publicly announces that an active case of smallpox has been identified either within or outside of the United States; and
+&emsp;&emsp;(C) who has volunteered and been selected to be a member of a smallpox emergency response plan described in subparagraph (B) prior to the time at which the Secretary publicly announces that an active case of smallpox has been identified either within or outside of the United States; and
 
 &emsp;&emsp;(D) to whom a smallpox vaccine is administered pursuant to such approved plan during the effective period of the Declaration (including the portion of such period before April 30, 2003).
 

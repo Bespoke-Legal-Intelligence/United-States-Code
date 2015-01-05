@@ -144,5 +144,5 @@ Effective date.—Funds provided for fiscal year 2007 transit security grants un
 
 #### References in Text
 
-Public Law 110–28, referred to in subsec. (m)(4), is Pub. L. 110–28, May 25, 2007, 121 Stat. 112, known as the U.S. Troop Readinesss, Veterans’ Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007. For complete classification of this Act to the Code, see Tables.
+Public Law 110–28, referred to in subsec. (m)(4), is Pub. L. 110–28, May 25, 2007, 121 Stat. 112, known as the U.S. Troop Readinesss, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007. For complete classification of this Act to the Code, see Tables.
 

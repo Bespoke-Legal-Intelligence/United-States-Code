@@ -1,0 +1,6 @@
+### §15324. Transferred
+
+#### Codification
+
+Section 15324 was editorially reclassified as section 20924 of Title 52, Voting and Elections.
+

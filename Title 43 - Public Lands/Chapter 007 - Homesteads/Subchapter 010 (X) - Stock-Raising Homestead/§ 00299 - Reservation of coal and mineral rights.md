@@ -62,7 +62,7 @@ The Secretary shall authorize a person to conduct mineral activities (other than
 
 &emsp;(B) payment to the surface owner of compensation for any permanent loss of income of the surface owner due to loss or impairment of grazing, or other uses of the land by the surface owner to the extent that reclamation required by the plan of operations would not permit such uses to continue at the level existing prior to the commencement of mineral activities.
 
-(2) In determining the bond amount to cover permanent loss of income under paragraph (1)(B), the Secretary shall consider, where appropriate, the potential loss of value due to theestimated permanent reduction in utilization of the land.
+(2) In determining the bond amount to cover permanent loss of income under paragraph (1)(B), the Secretary shall consider, where appropriate, the potential loss of value due to the estimated permanent reduction in utilization of the land.
 
 #### (f) Plan of operations
 
@@ -112,7 +112,7 @@ Lands affected by mineral activities under a plan of operations approved pursuan
 
 #### (j) Inspections
 
-Should any surface owner of land subject to this subchapter have reason to believe that they are or may be adversely affected by mineral activities due to any violation of the terms and conditions of a plan of operations approved under subsection (f) of this section, such surface owner may request an inspection of such lands. The Secretary shall determine within 10 days of the receipt of the request whether the request states a reason to believe that a violation exists, except in the event the surface owner alleges and provides reason to believe that an imminent danger exists, the 10-day period shall be waived and the inspection conducted immediately. When an inspection is conducted under this paragraph, the Secretary shall notify the surface owner and such surface owner shall be allowed to accompany the inspector on the inspection.
+Should any surface owner of land subject to this subchapter have reason to believe that they are or may be adversely affected by mineral activities due to any violation of the terms and conditions of a plan of operations approved under subsection (f) of this section, such surface owner may request an inspection of such lands. The Secretary shall determine within 10 days ofthe receipt of the request whether the request states a reason to believe that a violation exists, except in the event the surface owner alleges and provides reason to believe that an imminent danger exists, the 10-day period shall be waived and the inspection conducted immediately. When an inspection is conducted under this paragraph, the Secretary shall notify the surface owner and such surface owner shall be allowed to accompany the inspector on the inspection.
 
 #### (k) Damages for failure to comply
 
@@ -176,7 +176,7 @@ This title, referred to in subsec. (i)(1), is unidentifiable because act Dec. 29
 
 The Mineral Leasing Act, referred to in subsec. (p)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (p)(2), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (p)(2), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566,as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 The Materials Act of 1947, referred to in subsec. (p)(3), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 

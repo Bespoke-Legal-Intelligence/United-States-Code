@@ -4,7 +4,7 @@ Notwithstanding the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), the 
 
 &emsp;(1) continue to operate any branch or agency that the savings association operated immediately before the savings association became a bank; and
 
-&emsp;(2) establish, acquire, and operate additional branches and agencies at any location within any State in which the savings association operated a branch immediately before the savings association became a bank, if the law of the State in which the branch is located, or is to be located, would permit establishment of the branch if the bank were a State bank chartered by such State.
+&emsp;(2) establish, acquire, and operate additional branches and agencies at any location within any State in which the savings association operated a branch immediately before the savings association became a bank, if the law ofthe State in which the branch is located, or is to be located, would permit establishment of the branch if the bank were a State bank chartered by such State.
 
 (Pub. L. 111–203, title III, §341, July 21, 2010, 124 Stat. 1540.)
 

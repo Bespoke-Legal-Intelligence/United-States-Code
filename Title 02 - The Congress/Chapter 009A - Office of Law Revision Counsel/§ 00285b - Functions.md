@@ -12,7 +12,7 @@ The functions of the Office shall be as follows:
 
 &emsp;(5) To prepare and submit periodically such revisions in the titles of the Code which have been enacted into positive law as may be necessary to keep such titles current.
 
-&emsp;(6) To prepare and publish periodically new editions of the District of Columbia Code, withannual cumulative supplements reflecting newly enacted laws, through publication of the fifth annual cumulative supplement to the 1973 edition of such Code.
+&emsp;(6) To prepare and publish periodically new editions of the District of Columbia Code, with annual cumulative supplements reflecting newly enacted laws, through publication of the fifth annual cumulative supplement to the 1973 edition of such Code.
 
 &emsp;(7) To provide the Committee on the Judiciary with such advice and assistance as the committee may request in carrying out its functions with respect to the revision and codification of the Federal statutes.
 
@@ -24,17 +24,17 @@ Section is based on section 205(c) of House Resolution No. 988, Ninety-third Con
 
 #### Amendments
 
-<b>1976</b>—Par. (6). Pub. L. 94–386 substituted “through publication of the fifth annual cumulative supplement to the 1973 edition of such Code” for “until such time as the District of Columbia Self–Government and Governmental Reorganization Act becomes effective”.
+<b>1976</b>—Par. (6). Pub. L. 94–386 substituted "through publication of the fifth annual cumulative supplement to the 1973 edition of such Code" for "until such time as the District of Columbia Self–Government and Governmental Reorganization Act becomes effective".
 
 #### Preparation and Publication of District of Columbia Code Under Direction of Council of the District of Columbia
 
 Pub. L. 94–386, §2, Aug. 14, 1976, 90 Stat. 1170, provided that:
 
-“(a) After publication by the Law Revision Counsel of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, new editions of the District of Columbia Code (and annual cumulative supplements thereto) shall be prepared and published under the direction of the Council of the District of Columbia and shall set forth the general and permanent laws relating to or in force in the District of Columbia, whether enacted by the Congress or by the Council of the District of Columbia, except such laws as are of application in the District of Columbia by reason of being laws of the United States general and permanent in nature.
+"(a) After publication by the Law Revision Counsel of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, new editions of the District of Columbia Code (and annual cumulative supplements thereto) shall be prepared and published under the direction of the Council of the District of Columbia and shall set forth the general and permanent laws relating to or in force in the District of Columbia, whether enacted by the Congress or by the Council of the District of Columbia, except such laws as are of application in the District of Columbia by reason of being laws of the United States general and permanent in nature.
 
-“(b) After completion of the printing of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, the Public Printer shall, as the Council of the District of Columbia may request, either—
+"(b) After completion of the printing of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, the Public Printer \[now Director of the Government Publishing Office\] shall, as the Council of the District of Columbia may request, either—
 
-&emsp;“(1) furnish to the Council of the District of Columbia, on such terms as the Public Printer (in consultation with the Joint Committee on Printing) deems appropriate, the type used in preparing the 1973 edition of the District of Columbia Code and the fifth annual cumulative supplement to such edition;  or
+&emsp;"(1) furnish to the Council of the District of Columbia, on such terms as the Public Printer \[now Director of the Government Publishing Office\] (in consultation with the Joint Committee on Printing) deems appropriate, the type used in preparing the 1973 edition of the District of Columbia Code and the fifth annual cumulative supplement to such edition;  or
 
-&emsp;“(2) make such arrangements with the Council of the District of Columbia as the Public Printer (in consultation with the Joint Committee on Printing) deems appropriate for the printing by the Government Printing Office of future editions of the District of Columbia Code, and annual cumulative supplements thereto, prepared under the direction of the Council of the District of Columbia.”
+&emsp;"(2) make such arrangements with the Council of the District of Columbia as the Public Printer \[now Director of the Government Publishing Office\] (in consultation with the Joint Committee on Printing) deems appropriate for the printing by the Government Printing Office \[now Government Publishing Office\] of future editions of the District of Columbia Code, and annual cumulative supplements thereto, prepared under the direction of the Council of the District of Columbia."
 

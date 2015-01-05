@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To improve the sharing of information within the scope of the information sharing environment established under section 485 of this title with State, local, tribal, and private sector officials, the Director of National Intelligence, through the program manager for the information sharing environment, in coordination with the Secretary, shall coordinate and oversee the creation of an Interagency Threat Assessment and Coordination Group (referred to in this section as the “ITACG”).
+To improve the sharing of information within the scope of the information sharing environment established under section 485 of this title with State, local, tribal, and private sector officials, the Director of National Intelligence, through the program manager for the information sharing environment, in coordination with the Secretary, shall coordinate and oversee the creation of an Interagency Threat Assessment and Coordination Group (referred to in this section as the "ITACG").
 
 #### (b) Composition of ITACG
 
@@ -24,7 +24,7 @@ The program manager shall—
 
 #### (d) Responsibilities of Secretary
 
-The Secretary, or the Secretary's designee, in coordination with the Director of the National Counterterrorism Center and the ITACG Advisory Council, shall—
+The Secretary, or the Secretary's designee, in coordination with the Director of the NationalCounterterrorism Center and the ITACG Advisory Council, shall—
 
 &emsp;(1) create policies and standards for the creation of information products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, that are suitable for dissemination to State, local, and tribal governments and the private sector;
 
@@ -82,7 +82,7 @@ The Secretary, or the Secretary's designee, shall serve as the chair of the ITAC
 
 &emsp;&emsp;(G) other Federal entities as appropriate;
 
-&emsp;(2) the program manager of the information sharing environment, designated under section 485(f) of this title, or the program manager's designee; and
+&emsp;(2) the program manager of the information sharing environment, designated under section485(f) of this title, or the program manager's designee; and
 
 &emsp;(3) executive level law enforcement and intelligence officials from State, local, and tribal governments.
 
@@ -130,7 +130,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–258, §5(c)(1), struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–258, §5(c)(1), struck out ", in consultation with the Information Sharing Council," after "program manager" in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 111–258, §5(c)(2)–(4), added par. (3).
 
@@ -138,5 +138,5 @@ Subsec. (d)(5)(E), (F). Pub. L. 111–258, §5(b)(2)(A), added subpar. (E) and r
 
 Subsec. (d)(8), (9). Pub. L. 111–258, §5(b)(2)(B)–(D), added pars. (8) and (9).
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “3056(f)(1)(E)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "3056(f)(1)(E)".</i>
 

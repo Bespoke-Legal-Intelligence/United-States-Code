@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(A) the term "financing" includes any loan or extension of credit;
 
-&emsp;&emsp;(B) the term "United States depository institution" means any entity (including its foreign branches or subsidiaries) organized under the laws of any jurisdiction within the United States, or any agency, office or branch located in the United States of a foreign entity, that is engaged primarily in the business of banking (including a bank, savings bank, savings association, credit union, trust company, or United States bank holding company); and
+&emsp;&emsp;(B) the term "United States depository institution" means any entity (including its foreign branches or subsidiaries) organized under the laws of any jurisdiction within the United States, or any agency, office orbranch located in the United States of a foreign entity, that is engaged primarily in the business of banking (including a bank, savings bank, savings association, credit union, trust company, or United States bank holding company); and
 
 &emsp;&emsp;(C) the term "United States person" means the Federal Government, any State or local government, or any private person or entity of the United States.
 

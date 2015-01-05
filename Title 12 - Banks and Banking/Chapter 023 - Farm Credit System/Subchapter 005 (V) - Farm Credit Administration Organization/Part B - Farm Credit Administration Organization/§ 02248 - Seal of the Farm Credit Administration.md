@@ -2,7 +2,7 @@
 
 The Farm Credit Administration shall have a seal, as adopted by the Board, which shall be judicially noted.
 
-(Pub. L. 92–181, title V, §5.13, formerly §5.14, Dec. 10, 1971, 85 Stat. 620; renumbered §5.13 and amended Pub. L. 99–205, title II, §201(3), Dec. 23, 1985, 99 Stat. 1690.)
+(Pub. L. 92–181, title V, §5.13, formerly §5.14, Dec. 10, 1971, 85 Stat. 620; renumbered §5.13 andamended Pub. L. 99–205, title II, §201(3), Dec. 23, 1985, 99 Stat. 1690.)
 
 #### Prior Provisions
 

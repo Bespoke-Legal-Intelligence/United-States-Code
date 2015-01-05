@@ -38,7 +38,7 @@ In awarding grants under this section, the Director shall ensure that grants are
 
 A grant recipient under this section shall consult from time to time with regional children's advocacy centers in its census region that are grant recipients under section 13001b of this title.
 
-(Pub. L. 101–647, title II, §214, formerly §212, Nov. 29, 1990, 104 Stat. 4793; renumbered §214 andamended Pub. L. 102–586, §6(b)(1), (c), Nov. 4, 1992, 106 Stat. 5029, 5034; Pub. L. 107–273, div. C, title II, §12221(b)(1)(A), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 101–647, title II, §214, formerly §212, Nov. 29, 1990, 104 Stat. 4793; renumbered §214 and amended Pub. L. 102–586, §6(b)(1), (c), Nov. 4, 1992, 106 Stat. 5029, 5034; Pub. L. 107–273, div. C, title II, §12221(b)(1)(A), Nov. 2, 2002, 116 Stat. 1894.)
 
 #### Prior Provisions
 

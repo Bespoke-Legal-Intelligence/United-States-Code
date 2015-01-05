@@ -2,7 +2,7 @@
 
 #### (a) Conditions for prepayment
 
-Except as provided in subsection (c) of this section, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 936 of this title may prepay such loan (or any loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
+Except as provided in subsection (c), a borrower of a loan made by the Federal Financing Bank and guaranteed under section 936 of this title may prepay such loan (or any loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
 
 &emsp;(1) the loan is outstanding on July 2, 1986;
 
@@ -18,11 +18,11 @@ No sums in addition to the payment of the outstanding principal balance due on t
 
 (1) A borrower will not qualify for prepayment under this section if, in the opinion of the Secretary of the Treasury, to prepay in such borrower's case would adversely affect the operation of the Federal Financing Bank.
 
-(2) Paragraph (1) shall be effective in fiscal year 1987 only for any loan the prepayment of the principal amount of which will cause the cumulative amount of net proceeds from all suchprepayments made during such year to exceed $2,017,500,000.
+(2) Paragraph (1) shall be effective in fiscal year 1987 only for any loan the prepayment of the principal amount of which will cause the cumulative amount of net proceeds from all such prepayments made during such year to exceed $2,017,500,000.
 
 #### (d) Amount of permissible prepayments; establishment of eligibility criteria
 
-(1) The Secretary shall permit, subject to subsection (a) of this section, prepayments of principal on loans in fiscal year 1987 under this section or Public Law 99–349 in such amounts as to realize net proceeds from all such prepayments in fiscal year 1987 in an amount not less than $2,017,500,000.
+(1) The Secretary shall permit, subject to subsection (a), prepayments of principal on loans in fiscal year 1987 under this section or Public Law 99–349 in such amounts as to realize net proceeds from all such prepayments in fiscal year 1987 in an amount not less than $2,017,500,000.
 
 (2) The Secretary shall establish—
 
@@ -88,7 +88,7 @@ Study.—Not later than January 1, 1989, the Comptroller General of the United S
 
 #### Prepayment of Guaranteed Loans; Restrictions
 
-Pub. L. 100–202, §101(k) \[title VI, §633\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: "Hereafter, notwithstanding section 306A(c), (d), and (e) of the Rural Electrification Act of 1936, as amended \[7 U.S.C. 936a(c), (d), (e)\], a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A(a) and (b) of such Act: <i>Provided</i>, That any prepayment in excess of $2,500,000,000 shall be subject to the approval of the Secretary of the Treasury."
+Pub. L. 100–202, §101(k) \[title VI, §633\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: "Hereafter, notwithstanding section 306A(c), (d), and (e) of the Rural Electrification Act of 1936, as amended \[7 U.S.C. 936a(c), (d), (e)\], a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A(a) and (b) of such Act: <i>Provided</i>, That any prepayment in excess of$2,500,000,000 shall be subject to the approval of the Secretary of the Treasury."
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that: "Hereafter, notwithstanding section 306A(d) of the Rural Electrification Act of 1936 (7 U.S.C. 936a(d)), a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A of such Act."
 

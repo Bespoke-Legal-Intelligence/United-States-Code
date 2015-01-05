@@ -20,7 +20,7 @@ No provision of this chapter or any other provision of law administered by the a
 
 #### References in Text
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a), is Pub. L.111–203, July 21, 2010, 124 Stat. 1376. Subtitle A (§§311–319) of title III of the Act enacted part A (§5411 et seq.) of subchapter III of chapter 53 and sections 4b and 16 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and section 3502 of Title 44, Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Subtitle A (§§311–319) of title III of the Act enacted part A (§5411 et seq.) of subchapter III of chapter 53 and sections 4b and 16 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and section 3502 of Title 44, Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (a), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. For complete classification of this Act to the Code, see Tables.
 

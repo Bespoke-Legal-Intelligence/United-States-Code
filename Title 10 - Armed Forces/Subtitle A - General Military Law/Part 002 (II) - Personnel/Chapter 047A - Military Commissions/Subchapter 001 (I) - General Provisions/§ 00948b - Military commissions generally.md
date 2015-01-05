@@ -20,7 +20,7 @@ Inapplicability of Certain Provisions.—(1) The following provisions of this ti
 
 &emsp;(B) Sections 831(a), (b), and (d) (articles 31(a), (b), and (d) of the Uniform Code of Military Justice), relating to compulsory self-incrimination.
 
-&emsp;(C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to pretrial investigation.
+&emsp;(C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to preliminary hearing.
 
 (2) Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
 
@@ -29,10 +29,6 @@ Inapplicability of Certain Provisions.—(1) The following provisions of this ti
 Geneva Conventions Not Establishing Private Right of Action.—No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2575; amended Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), Dec. 26, 2013, 127 Stat. 958.)
-
-#### Amendment of Subsection (d)(1)(C)
-
-<i>Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), (d)(1), Dec. 26, 2013, 127 Stat. 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, subsection (d)(1)(C) of this section is amended by striking "pretrial investigation" and inserting "preliminary hearing". See 2013 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -44,7 +40,7 @@ A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–66 effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, see section 1702(d)(1) of Pub. L. 113–66, set out as a note under section 802 of this title.
+Amendment by Pub. L. 113–66 effective on the later of Dec. 26, 2014, or the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Dec. 19, 2014) and applicable with respect to preliminary hearings conducted on or after that effective date, see section 1702(d)(1) of Pub. L. 113–66, set out as a note under section 802 of this title.
 
 #### Ex. Ord. No. 13425. Trial of Alien Unlawful Enemy Combatants by Military Commission
 

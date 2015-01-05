@@ -20,7 +20,7 @@ With respect to a hospital-based skilled nursing facility, the Secretary may not
 
 #### (c) Adjustments in limitations; publication of data
 
-The Secretary may make adjustments in the limits set forth in subsection (a) of this sectionwith respect to any skilled nursing facility to the extent the Secretary deems appropriate, based upon case mix or circumstances beyond the control of the facility. The Secretary shall publish the data and criteria to be used for purposes of this subsection on an annual basis.
+The Secretary may make adjustments in the limits set forth in subsection (a) of this section with respect to any skilled nursing facility to the extent the Secretary deems appropriate, based upon case mix or circumstances beyond the control of the facility. The Secretary shall publish the data and criteria to be used for purposes of this subsection on an annual basis.
 
 #### (d) Access to skilled nursing facilities
 
@@ -72,7 +72,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;&emsp;&emsp;(I) means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A of this subchapter; and
 
-&emsp;&emsp;&emsp;&emsp;(II) includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B of this subchapter and which are furnishedto an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
+&emsp;&emsp;&emsp;&emsp;(II) includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B of this subchapter and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
 
 #### (ii) Services excluded
 
@@ -124,7 +124,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "transition period" means, with respect to a skilled nursing facility, the 3 cost reporting periods of the facility beginning with the first cost reporting period.
+&emsp;&emsp;&emsp;The term "transition period" means, with respect to a skilled nursing facility,the 3 cost reporting periods of the facility beginning with the first cost reporting period.
 
 #### (ii) Treatment of new skilled nursing facilities
 
@@ -190,7 +190,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (ii) Freestanding facilities
 
-&emsp;&emsp;&emsp;The Secretary shall compute a weighted average per diem rate for freestanding facilities by computing an average of the standardized amounts computed under subparagraph (C) only for such facilities,weighted for each facility by the number of days of extended care services furnished during the cost reporting period referred to in subparagraph (A).
+&emsp;&emsp;&emsp;The Secretary shall compute a weighted average per diem rate for freestanding facilities by computing an average of the standardized amounts computed under subparagraph (C) only for such facilities, weighted for each facility by the number of days of extended care services furnished during the cost reporting period referred to in subparagraph (A).
 
 #### (iii) Separate computation
 
@@ -250,7 +250,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (A) Skilled nursing facility market basket index
 
-&emsp;&emsp;The Secretary shall establish a skilled nursing facility market basket index that reflects changes over time in the prices of anappropriate mix of goods and services included in covered skilled nursing facility services.
+&emsp;&emsp;The Secretary shall establish a skilled nursing facility market basket index that reflects changes over time in the prices of an appropriate mix of goods and services included in covered skilled nursing facility services.
 
 #### (B) Skilled nursing facility market basket percentage
 
@@ -262,15 +262,47 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;&emsp;For fiscal year 2012 and each subsequent fiscal year, after determining the percentage described in clause (i), the Secretary shall reduce such percentage by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title. The application of the preceding sentence may result in such percentage being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
 
-#### (6) Submission of resident assessment data
+#### (6) Reporting of assessment and quality data
 
-&emsp;A skilled nursing facility, or a facility described in paragraph (7)(B), shall provide the Secretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursing facility, or a facility described in paragraph (7), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title.
+#### (A) Reduction in update for failure to report
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For fiscal years beginning with fiscal year 2018, in the case of a skilled nursing facility that does not submit data, as applicable, in accordance with subclauses (II) and (III) of subparagraph (B)(i) with respect to such a fiscal year, after determining the percentage described in paragraph (5)(B)(i), and after application of paragraph (5)(B)(ii), the Secretary shall reduce such percentage for payment rates during such fiscal year by 2 percentage points.
+
+#### (ii) Special rule
+
+&emsp;&emsp;&emsp;The application of this subparagraph may result in the percentage described in paragraph (5)(B)(i), after application of paragraph (5)(B)(ii), being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
+
+#### (iii) Noncumulative application
+
+&emsp;&emsp;&emsp;Any reduction under clause (i) shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the payment amount under this subsection for a subsequent fiscal year.
+
+#### (B) Assessment and measure data
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A skilled nursing facility, or a facility (other than a critical access hospital) described in paragraph (7)(B), shall submit to the Secretary, in a manner and within the timeframes prescribed by the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I) subject to clause (iii), the resident assessment data necessary to develop and implement the rates under this subsection;
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal years beginning on or after the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to skilled nursing facilities and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, data on such quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1); and
+
+&emsp;&emsp;&emsp;&emsp;(III) for fiscal years beginning on or after October 1, 2018, standardized patient assessment data required under subsection (b)(1) of section 1395lll of this title.
+
+#### (ii) Use of standard instrument
+
+&emsp;&emsp;&emsp;For purposes of meeting the requirement under clause (i), a skilled nursing facility, or a facility (other than a critical access hospital) described in paragraph (7)(B), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title.
+
+#### (iii) Non-duplication
+
+&emsp;&emsp;&emsp;To the extent data submitted under subclause (II) or (III) of clause (i) duplicates other data required to be submitted under clause (i)(I), the submission of such data under such a subclause shall be in lieu of the submission of such data under clause (i)(I). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1395lll of this title, taking into account the different specified application dates under subsection (a)(2)(E) of such section.
 
 #### (7) Treatment of medicare swing bed hospitals
 
 #### (A) Transition
 
-&emsp;&emsp;Subject to subparagraph (C), the Secretary shall determine an appropriate manner in which to apply this subsection to the facilities described in subparagraph (B) (other than critical access hospitals), taking into account the purposes of this subsection, and shall provide that at the end of the transition period (as defined in paragraph (2)(E)) such facilities shall be paid only under this subsection. Payment shall not be made under this subsection to such facilities for cost reporting periods beginning before such date (not earlier than July 1, 1999) as the Secretary specifies.
+&emsp;&emsp;Subject to subparagraph (C), the Secretary shall determine an appropriate manner in which to apply this subsection to the facilities described in subparagraph (B) (other than critical access hospitals), taking into account the purposes of this subsection, andshall provide that at the end of the transition period (as defined in paragraph (2)(E)) such facilities shall be paid only under this subsection. Payment shall not be made under this subsection to such facilities for cost reporting periods beginning before such date (not earlier than July 1, 1999) as the Secretary specifies.
 
 #### (B) Facilities described
 
@@ -338,7 +370,189 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;The Secretary shall establish procedures to make information on expenditures submitted under this subsection readily available to interested parties upon request, subject to such requirements as the Secretary may specify under the procedures established under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711.)
+#### (g) Skilled nursing facility readmission measure
+
+#### (1) Readmission measure
+
+&emsp;Not later than October 1, 2015, the Secretary shall specify a skilled nursing facility all-cause all-condition hospital readmission measure (or any successor to such a measure).
+
+#### (2) Resource use measure
+
+&emsp;Not later than October 1, 2016, the Secretary shall specify a measure to reflect an all-condition risk-adjusted potentially preventable hospital readmission rate for skilled nursing facilities.
+
+#### (3) Measure adjustments
+
+&emsp;When specifying the measures under paragraphs (1) and (2), the Secretary shall devise a methodology to achieve a high level of reliability and validity, especially for skilled nursing facilities with a low volume of readmissions.
+
+#### (4) Pre-rulemaking process (measure application partnership process)
+
+&emsp;The application of the provisions of section 1395aaa–1 of this title shall be optional in the case of a measure specified under paragraph (1) and a measure specified under paragraph (2).
+
+#### (5) Feedback reports to skilled nursing facilities
+
+&emsp;Beginning October 1, 2016, and every quarter thereafter, the Secretary shall provide confidential feedback reports to skilled nursing facilities on the performance of such facilities with respect to a measure specified under paragraph (1) or (2).
+
+#### (6) Public reporting of skilled nursing facilities
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary shall establish procedures for making available to the public by posting on the Nursing Home Compare Medicare website (or a successor website) described in section 1395i–3(i) of this title information on the performance of skilled nursing facilities with respect to a measure specified under paragraph (1) and a measure specified under paragraph (2).
+
+#### (B) Opportunity to review
+
+&emsp;&emsp;The procedures under subparagraph (A) shall ensure that a skilled nursing facility has the opportunity to review and submit corrections to the information that is to be made public with respect to the facility prior to such information being made public.
+
+#### (C) Timing
+
+&emsp;&emsp;Such procedures shall provide that the information described in subparagraph (A) is made publicly available beginning not later than October 1, 2017.
+
+#### (7) Non-application of Paperwork Reduction Act
+
+&emsp;Chapter 35 of title 44 (commonly referred to as the "Paperwork Reduction Act of 1995") shall not apply to this subsection.
+
+#### (h) Skilled nursing facility value-based purchasing program
+
+#### (1) Establishment
+
+#### (A) In general
+
+&emsp;&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall establish a skilled nursing facility value-based purchasing program (in this subsection referred to as the "SNF VBP Program") under which value-based incentive payments are made in a fiscal year to skilled nursing facilities.
+
+#### (B) Program to begin in fiscal year 2019
+
+&emsp;&emsp;The SNF VBP Program shall apply to payments for services furnished on or after October 1, 2018.
+
+#### (2) Application of measures
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program.
+
+#### (B) Replacement
+
+&emsp;&emsp;For purposes of the SNF VBP Program, the Secretary shall apply the measure specified under (g)(2) <sup>1</sup> instead of the measure specified under (g)(1) <sup>1</sup> as soon as practicable.
+
+#### (3) Performance standards
+
+#### (A) Establishment
+
+&emsp;&emsp;The Secretary shall establish performance standards with respect to the measure applied under paragraph (2) for a performance period for a fiscal year.
+
+#### (B) Higher of achievement and improvement
+
+&emsp;&emsp;The performance standards established under subparagraph (A) shall include levels of achievement and improvement. In calculating the SNF performance score under paragraph (4), the Secretary shall use the higher of either improvement or achievement.
+
+#### (C) Timing
+
+&emsp;&emsp;The Secretary shall establish and announce the performance standards established under subparagraph (A) not later than 60 days prior to the beginning of the performance period for the fiscal year involved.
+
+#### (4) SNF performance score
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measure applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the "SNF performance score") for each skilled nursing facility for each such performance period.
+
+#### (B) Ranking of SNF performance scores
+
+&emsp;&emsp;The Secretary shall, for the performance period for each fiscal year, rank the SNF performance scores determined under subparagraph (A) from low to high.
+
+#### (5) Calculation of value-based incentive payments
+
+#### (A) In general
+
+&emsp;&emsp;With respect to a skilled nursing facility, based on the ranking under paragraph (4)(B) for a performance period for a fiscal year, the Secretary shall increase the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to such skilled nursing facility (and after application of paragraph (6)) for services furnished by such facility during such fiscal year by the value-based incentive payment amount under subparagraph (B).
+
+#### (B) Value-based incentive payment amount
+
+&emsp;&emsp;The value-based incentive payment amount for services furnished by a skilled nursing facility in a fiscal year shall be equal to the product of—
+
+&emsp;&emsp;&emsp;(i) the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to such skilled nursing facility for such services furnished by the skilled nursing facility during such fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) the value-based incentive payment percentage specified under subparagraph (C) for the skilled nursing facility for such fiscal year.
+
+#### (C) Value-based incentive payment percentage
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall specify a value-based incentive payment percentage for a skilled nursing facility for a fiscal year which may include a zero percentage.
+
+#### (ii) Requirements
+
+&emsp;&emsp;&emsp;In specifying the value-based incentive payment percentage for each skilled nursing facility for a fiscal year under clause (i), the Secretary shall ensure that—
+
+&emsp;&emsp;&emsp;&emsp;(I) such percentage is based on the SNF performance score of the skilled nursing facility provided under paragraph (4) for the performance period for such fiscal year;
+
+&emsp;&emsp;&emsp;&emsp;(II) the application of all such percentages in such fiscal year results in an appropriate distribution of value-based incentive payments under subparagraph (B) such that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) skilled nursing facilities with the highest rankings under paragraph (4)(B) receive the highest value-based incentive payment amounts under subparagraph (B);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) skilled nursing facilities with the lowest rankings under paragraph (4)(B) receive the lowest value-based incentive payment amounts under subparagraph (B); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in the case of skilled nursing facilities in the lowest 40 percent of the ranking under paragraph (4)(B), the payment rate under subparagraph (A) for services furnished by such facility during such fiscal year shall be less than the payment rate for such services for such fiscal year that would otherwise apply under subsection (e)(4)(G) without application of this subsection; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the total amount of value-based incentive payments under this paragraph for all skilled nursing facilities in such fiscal year shall be greater than or equal to 50 percent, but not greater than 70 percent, of the total amount of the reductions to payments for such fiscal year under paragraph (6), as estimated by the Secretary.
+
+#### (6) Funding for value-based incentive payments
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall reduce the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to a skilled nursing facility for services furnished by such facility during a fiscal year (beginning with fiscal year 2019) by the applicable percent (as defined in subparagraph (B)). The Secretary shall make such reductions for all skilled nursing facilities in the fiscal year involved, regardless of whether or not the skilled nursing facility has been determined by the Secretary to have earned a value-based incentive payment under paragraph (5) for such fiscal year.
+
+#### (B) Applicable percent
+
+&emsp;&emsp;For purposes of subparagraph (A), the term "applicable percent" means, with respect to fiscal year 2019 and succeeding fiscal years, 2 percent.
+
+#### (7) Announcement of net result of adjustments
+
+&emsp;Under the SNF VBP Program, the Secretary shall, not later than 60 days prior to the fiscal year involved, inform each skilled nursing facility of the adjustments to payments to the skilled nursing facility for services furnished by such facility during the fiscal year under paragraphs (5) and (6).
+
+#### (8) No effect in subsequent fiscal years
+
+&emsp;The value-based incentive payment under paragraph (5) and the payment reductionunder paragraph (6) shall each apply only with respect to the fiscal year involved, and the Secretary shall not take into account such value-based incentive payment or payment reduction in making payments to a skilled nursing facility under this section in a subsequent fiscal year.
+
+#### (9) Public reporting
+
+#### (A) SNF specific information
+
+&emsp;&emsp;The Secretary shall make available to the public, by posting on the Nursing Home Compare Medicare website (or a successor website) described in section 1395i–3(i) of this title in an easily understandable format, information regarding the performance of individual skilled nursing facilities under the SNF VBP Program, with respect to a fiscal year, including—
+
+&emsp;&emsp;&emsp;(i) the SNF performance score of the skilled nursing facility for such fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) the ranking of the skilled nursing facility under paragraph (4)(B) for the performance period for such fiscal year.
+
+#### (B) Aggregate information
+
+&emsp;&emsp;The Secretary shall periodically post on the Nursing Home Compare Medicare website (or a successor website) described in section 1395i–3(i) of this title aggregate information on the SNF VBP Program, including—
+
+&emsp;&emsp;&emsp;(i) the range of SNF performance scores provided under paragraph (4)(A); and
+
+&emsp;&emsp;&emsp;(ii) the number of skilled nursing facilities receiving value-based incentive payments under paragraph (5) and the range and total amount of such value-based incentive payments.
+
+#### (10) Limitation on review
+
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise of the following:
+
+&emsp;&emsp;(A) The methodology used to determine the value-based incentive payment percentage and the amount of the value-based incentive payment under paragraph (5).
+
+&emsp;&emsp;(B) The determination of the amount of funding available for such value-based incentive payments under paragraph (5)(C)(ii)(III) and the payment reduction under paragraph (6).
+
+&emsp;&emsp;(C) The establishment of the performance standards under paragraph (3) and the performance period.
+
+&emsp;&emsp;(D) The methodology developed under paragraph (4) that is used to calculate SNF performance scores and the calculation of such scores.
+
+&emsp;&emsp;(E) The ranking determinations under paragraph (4)(B).
+
+#### (11) Funding for program management
+
+&emsp;The Secretary shall provide for the one time transfer from the Federal Hospital Insurance Trust Fund established under section 1395i of this title to the Centers for Medicare \& Medicaid Services Program Management Account of—
+
+&emsp;&emsp;(A) for purposes of subsection (g)(2), $2,000,000; and
+
+&emsp;&emsp;(B) for purposes of implementing this subsection, $10,000,000.
+
+> &emsp;Such funds shall remain available until expended.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965.)
 
 #### References in Text
 
@@ -347,6 +561,12 @@ Section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (e)(12)(A), is section 1(a)(6) \[title III, §314(a)\] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–499, which is not classified to the Code.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(6). Pub. L. 113–185 amended par. (6) generally. Prior to amendment, text read as follows: "A skilled nursing facility, or a facility described in paragraph (7)(B), shall provide the Secretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursing facility, or a facility described in paragraph (7), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title."
+
+Subsec. (g). Pub. L. 113–93, §215(a), added subsec. (g).
+
+Subsec. (h). Pub. L. 113–93, §215(b), added subsec. (h).
 
 <b>2010</b>—Subsec. (e)(5)(B). Pub. L. 111–148, §3401(b), designated existing provisions as cl. (i), inserted heading, substituted "Subject to clause (ii), the term" for "The term", and added cl. (ii).
 
@@ -520,7 +740,7 @@ Pub. L. 106–554, §1(a)(6) \[title V, §547(b)\], Dec. 21, 2000, 114 Stat. 276
 
 #### GAO Report on Adequacy of SNF Payment Rates
 
-Pub. L. 106–554, §1(a)(6) \[title III, §311(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–498, provided that: "Not later than July 1, 2002, the Comptroller General of the United States shall submit to Congress a report on the adequacy of medicare payment rates to skilled nursing facilities and the extent to which medicare contributes to the financial viability of such facilities. Such reportshall take into account the role of private payors, medicaid, and case mix on the financial performance of these facilities, and shall include an analysis (by specific RUG classification) of the number and characteristics of such facilities."
+Pub. L. 106–554, §1(a)(6) \[title III, §311(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–498, provided that: "Not later than July 1, 2002, the Comptroller General of the United States shall submit to Congress a report on the adequacy of medicare payment rates to skilled nursing facilities and the extent to which medicare contributes to the financial viability of such facilities. Such report shall take into account the role of private payors, medicaid, and case mix on the financial performance of these facilities, and shall include an analysis (by specific RUG classification) of the number and characteristics of such facilities."
 
 #### HCFA Study of Classification Systems for SNF Residents
 
@@ -576,7 +796,7 @@ Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided th
 
 #### No Change in Limits on Per Diem Service Costs for Extended Care Services for Fiscal Years 1994 and 1995
 
-Pub. L. 103–66, title XIII, §13503(a)(1), Aug. 10, 1993, 107 Stat. 578, provided that: "The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[42 U.S.C. 1395yy\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years."
+Pub. L. 103–66, title XIII, §13503(a)(1), Aug. 10, 1993, 107 Stat. 578, provided that: "The Secretary of Health andHuman Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[42 U.S.C. 1395yy\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years."
 
 #### No Change in Prospective Payments for Services Furnished During Fiscal Years 1994 and 1995
 
@@ -611,4 +831,6 @@ Reports.—(A) By not later than April 1, 1991, the Secretary (acting through th
 #### Use of More Recent Data Regarding Routine Service Costs of Skilled Nursing Facilities
 
 Pub. L. 101–239, title VI, §6024, Dec. 19, 1989, 103 Stat. 2167, as amended by Pub. L. 101–508, title IV, §4008(e)(1), Nov. 5, 1990, 104 Stat. 1388–45, provided that: "The Secretary of Health and Human Services shall determine mean per diem routine service costs for freestanding and hospital based skilled nursing facilities under section 1888(a) of the Social Security Act \[42 U.S.C. 1395yy(a)\] for cost reporting periods beginning on or after October 1, 1989, in accordance with regulations published by the Secretary that require the use of cost reports submitted by skilled nursing facilities for cost reporting periods beginning not earlier than October 1, 1985. The Secretary shall update such costs under such section for cost reporting periods beginning on or after October 1, 1989, by using cost reports submitted by skilled nursing facilities for cost reporting periods ending not earlier than January 31, 1988, and not later than December 31, 1988."
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "subsection".</i>
 

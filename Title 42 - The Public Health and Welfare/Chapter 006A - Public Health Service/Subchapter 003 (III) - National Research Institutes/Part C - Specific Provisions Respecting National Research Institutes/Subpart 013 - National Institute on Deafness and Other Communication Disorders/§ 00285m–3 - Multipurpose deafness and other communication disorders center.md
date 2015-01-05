@@ -26,7 +26,7 @@ Each center assisted under this section shall, at least, conduct—
 
 &emsp;&emsp;(A) on the importance of early detection of disorders of hearing and other communication processes, of seeking prompt treatment, rehabilitation, and of following an appropriate regimen; and
 
-&emsp;&emsp;(B) on the importance of avoiding exposure to noise and other environmental toxic agents that may affect disorders of hearing or other communication processes.
+&emsp;&emsp;(B) on the importance of avoiding exposure to noise and other environmental toxicagents that may affect disorders of hearing or other communication processes.
 
 #### (d) Stipends
 
@@ -36,7 +36,7 @@ A center may use funds provided under subsection (a) of this section to provide 
 
 Each center assisted under this section may conduct programs—
 
-&emsp;(1) to establish the effectiveness of new and improved methods of detection, referral, anddiagnosis of individuals at risk of developing disorders of hearing or other communication processes; and
+&emsp;(1) to establish the effectiveness of new and improved methods of detection, referral, and diagnosis of individuals at risk of developing disorders of hearing or other communication processes; and
 
 &emsp;(2) to disseminate the results of research, screening, and other activities, and develop means of standardizing patient data and recordkeeping.
 

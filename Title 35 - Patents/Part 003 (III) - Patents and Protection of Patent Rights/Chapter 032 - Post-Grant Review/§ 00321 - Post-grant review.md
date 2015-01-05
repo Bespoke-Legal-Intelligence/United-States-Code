@@ -68,7 +68,7 @@ Establishment.—Not later than the date that is 1 year after the date of the en
 
 &emsp;&emsp;"(A) Section 321(c) of title 35, United States Code, and subsections (b), (e)(2), and (f) of section 325 of such title shall not apply to a transitional proceeding.
 
-&emsp;&emsp;"(B) A person may not file a petition for a transitional proceeding with respect to a covered businessmethod patent unless the person or the person's real party in interest or privy has been sued for infringement of the patent or has been charged with infringement under that patent.
+&emsp;&emsp;"(B) A person may not file a petition for a transitional proceeding with respect to a covered business method patent unless the person or the person's real party in interest or privy has been sued for infringement of the patent or has been charged with infringement under that patent.
 
 &emsp;&emsp;"(C) A petitioner in a transitional proceeding who challenges the validity of 1 or more claims in a covered business method patent on a ground raised under section 102 or 103 of title 35, United States Code, as in effect on the day before the effective date set forth in section 3(n)(1) \[set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title\], may support such ground only on the basis of—
 
@@ -94,7 +94,7 @@ Sunset.—
 
 &emsp;&emsp;"(A)
 
-In general.—This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 8-year period beginning on the date that the regulations issued under to \[sic\] paragraph (1) take effect.
+In general.—This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 8-year period beginning on the date that the regulations issued under to \[sic\] paragraph (1) take effect \[Regulations effective Sept. 16, 2012, see 77 F.R. 48680.\].
 
 &emsp;&emsp;"(B)
 

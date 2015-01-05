@@ -6,11 +6,11 @@ The Administrator of each facility of the Retirement Home shall collect a monthl
 
 #### (b) Deposit of fees
 
-The Administrators shall deposit fees collected under subsection (a) of this section in the Armed Forces Retirement Home Trust Fund.
+The Administrators shall deposit fees collected under subsection (a) in the Armed Forces Retirement Home Trust Fund.
 
 #### (c) Fixing fees
 
-(1) The Chief Operating Officer, with the approval of the Secretary of Defense, shall from time to time prescribe the fees required by subsection (a) of this section. Changes to such fees shall be based on the financial needs of the Retirement Home and the ability of the residents to pay. A change of a fee may not take effect until 120 days after the Secretary of Defense transmits a notification of the change to the Committees on Armed Services of the Senate and the House of Representatives.
+(1) The Chief Operating Officer, with the approval of the Secretary of Defense, shall from time to time prescribe the fees required by subsection (a). Changes to such fees shall be based on the financial needs of the Retirement Home and the ability of the residents to pay. A change of a fee may not take effect until 120 days after the Secretary of Defense transmits a notification of the change to the Committees on Armed Services of the Senate and the House of Representatives.
 
 (2) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
 
@@ -30,7 +30,7 @@ Subsec. (d). Pub. L. 112–81, §565(b), struck out subsec. (d) which related to
 
 <b>2001</b>—Pub. L. 107–107 reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to collection of monthly fees in subsec. (a), deposit of fees in subsec. (b), fixing fees in subsec. (c), and application of fees in subsec. (d).
 
-<b>1994</b>—Subsec. (c)(2). Pub. L. 103–337, §371(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The fee shall be fixed as a percentage of Federal payments made to a resident, including monthly retired or retainer pay, monthly civil service annuity, monthly compensation or pension paid to the resident by the Secretary of Veterans Affairs, and Social Security payments. Residents who do not receive suchFederal payments shall be required to pay a monthly fee that is equivalent to the average monthly fee paid by residents who receive Federal payments, subject to such adjustments in the fee as the Retirement Home Board may make. The percentage shall be the same for each establishment of the Retirement Home."
+<b>1994</b>—Subsec. (c)(2). Pub. L. 103–337, §371(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The fee shall be fixed as a percentage of Federal payments made to a resident, including monthly retired or retainer pay, monthly civil service annuity, monthly compensation or pension paid to the resident by the Secretary of Veterans Affairs, and Social Security payments. Residents who do not receive such Federal payments shall be required to pay a monthly fee that is equivalent to the average monthly fee paid by residents who receive Federal payments, subject to such adjustments in the fee as the Retirement Home Board may make. The percentage shall be the same for each establishment of the Retirement Home."
 
 Subsec. (d). Pub. L. 103–337, §371(b)(2), added subsec. (d) and struck out former subsec. (d) which specified fees to be paid by residents of the Naval Home and residents of the United States Soldiers' and Airmen's Home who became residents of the Retirement Home on the effective date specified in section 1541(a) of Pub. L. 101–510.
 

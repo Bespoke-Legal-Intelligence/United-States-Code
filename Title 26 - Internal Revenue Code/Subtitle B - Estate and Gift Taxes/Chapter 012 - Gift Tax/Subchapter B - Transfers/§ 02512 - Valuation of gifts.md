@@ -20,7 +20,7 @@
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) ofPub. L. 97–34, set out as a note under section 2501 of this title.
 
 #### Effective Date of 1970 Amendment
 

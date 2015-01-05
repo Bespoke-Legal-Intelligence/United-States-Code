@@ -2,7 +2,7 @@
 
 #### (a) Medically necessary leave of absence
 
-In this section, the term "medically necessary leave of absence" means, with respect to a dependent child described in subsection (b)(2) in connection with a group health plan, a leave of absence of such child from a postsecondary educational institution (including an institution ofhigher education as defined in section 102 of the Higher Education Act of 1965), or any other change in enrollment of such child at such an institution, that—
+In this section, the term "medically necessary leave of absence" means, with respect to a dependent child described in subsection (b)(2) in connection with a group health plan, a leave of absence of such child from a postsecondary educational institution (including an institution of higher education as defined in section 102 of the Higher Education Act of 1965), or any other change in enrollment of such child at such an institution, that—
 
 &emsp;(1) commences while such child is suffering from a serious illness or injury;
 
@@ -46,7 +46,7 @@ If—
 
 &emsp;(1) a dependent child of a participant or beneficiary is in a period of coverage under a group health plan, pursuant to a medically necessary leave of absence of the child described in subsection (b);
 
-&emsp;(2) the manner in which the participant or beneficiary is covered under the plan changes, whether through a change in health insurance coverage or health insurance issuer, a change between health insurance coverage and self-insured coverage, or otherwise; and
+&emsp;(2) the manner in which the participant or beneficiary is covered under the plan changes,whether through a change in health insurance coverage or health insurance issuer, a change between health insurance coverage and self-insured coverage, or otherwise; and
 
 &emsp;(3) the coverage as so changed continues to provide coverage of beneficiaries as dependent children,
 

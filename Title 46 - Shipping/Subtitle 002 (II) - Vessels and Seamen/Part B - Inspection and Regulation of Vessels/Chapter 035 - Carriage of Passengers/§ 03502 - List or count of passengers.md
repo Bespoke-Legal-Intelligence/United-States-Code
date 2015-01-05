@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 46:462
 
-Section 3502 is related to section 3501 and requires the listing or counting of passengers on certain vessels. This requirement applies to large as well as small passenger vessels when operating on the types of voyages enumerated. This section also applies to a foreign vessel arriving at a port or place in the United States.
+Section 3502 is related to section 3501 and requires the listing or counting of passengers on certain vessels. This requirement applies to large as well as small passenger vessels when operating on the types of voyagesenumerated. This section also applies to a foreign vessel arriving at a port or place in the United States.
 
 #### Transfer of Functions
 

@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the scheduled interval between the beginning or end and the end or beginning of any two segments of the portion of such transportation referred to in subparagraph (A)(i) is not more than 12 hours.
 
-> &emsp;For purposes of this paragraph, in the case of personnel of the United States Army, Air Force, Navy, Marine Corps, and Coast Guard traveling in uniform at their own expense when on official leave, furlough, or pass, the scheduled interval described in subparagraph (A) shall be deemed to be not more than 12 hours if a ticket for the subsequent portion of such transportation is purchased within 12 hours after the end of the earlier portion of such transportation and the purchaser accepts and utilizes the first accommodations actually available to him for such subsequent portion.
+> &emsp;For purposes of this paragraph, in the case of personnel of the United States Army, AirForce, Navy, Marine Corps, and Coast Guard traveling in uniform at their own expense when on official leave, furlough, or pass, the scheduled interval described in subparagraph (A) shall be deemed to be not more than 12 hours if a ticket for the subsequent portion of such transportation is purchased within 12 hours after the end of the earlier portion of such transportation and the purchaser accepts and utilizes the first accommodations actually available to him for such subsequent portion.
 
 #### (d) Transportation
 

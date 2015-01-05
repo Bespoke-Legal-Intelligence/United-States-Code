@@ -11,3 +11,4 @@
 - [&sect; 13002 - Local children's advocacy centers](%C2%A7%2013002%20-%20Local%20children%27s%20advocacy%20centers.md)
 - [&sect; 13003 - Grants for specialized technical assistance and training programs](%C2%A7%2013003%20-%20Grants%20for%20specialized%20technical%20assistance%20and%20training%20programs.md)
 - [&sect; 13004 - Authorization of appropriations](%C2%A7%2013004%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 13005 - Accountability](%C2%A7%2013005%20-%20Accountability.md)

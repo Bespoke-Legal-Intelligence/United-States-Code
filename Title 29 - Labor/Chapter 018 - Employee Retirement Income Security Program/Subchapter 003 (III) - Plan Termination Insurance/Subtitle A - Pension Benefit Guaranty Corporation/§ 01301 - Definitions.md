@@ -42,7 +42,7 @@
 
 &emsp;(8) "nonforfeitable benefit" means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements of this chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant's accumulated mandatory employee contributions upon the participant's death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
 
-&emsp;(9) "reorganization index" means the amount determined under section 1421(b) of this title;
+&emsp;(9) Repealed. Pub. L. 113–235, div. O, title I, §108(a)(3)(A), Dec. 16, 2014, 128 Stat. 2787.
 
 &emsp;(10) "plan sponsor" means, with respect to a multiemployer plan—
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) the determination of whether two or more persons are under "common control" shall be made under regulations of the corporation which are consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under subsections (b) and (c) of section 414 of title 26; and
 
-&emsp;&emsp;(C)(i) notwithstanding any other provision of this subchapter, during any period in which an individual possesses, directly or indirectly, the power to direct or cause the direction of the management and policies ofan affected air carrier of which he was an accountable owner, whether through the ownership of voting securities, by contract, or otherwise, the affected air carrier shall be considered to be under common control not only with those persons described in subparagraph (B), but also with all related persons; and
+&emsp;&emsp;(C)(i) notwithstanding any other provision of this subchapter, during any period in which an individual possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of an affected air carrier of which he was an accountable owner, whether through the ownership of voting securities, by contract, or otherwise, the affected air carrier shall be considered to be under common control not only with those persons described in subparagraph (B), but also with all related persons; and
 
 &emsp;&emsp;(ii) for purposes of this subparagraph, the term—
 
@@ -120,7 +120,7 @@
 
 &emsp;(B) the term "Secretary of the Treasury" means the Secretary of the Treasury or such Secretary's delegate.
 
-(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §108(b)(1), formerly §107(b)(1), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
+(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §108(b)(1), formerly §107(b)(1), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 113–235, div. O, title I, §108(a)(3)(A), Dec. 16, 2014, 128 Stat. 2787.)
 
 #### References in Text
 
@@ -135,6 +135,8 @@ Section 412, referred to in subsec. (b)(2)(A), was amended generally by Pub. L. 
 In subsec. (a)(14)(C)(ii)(I), "section 40102(a)(2) of title 49" substituted for "section 101(3) of the Federal Aviation Act of 1958" and "section 41102 of title 49" substituted for "section 401 of such Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(9). Pub. L. 113–235 struck out par. (9) which defined "reorganization index".
 
 <b>2006</b>—Subsec. (a)(13). Pub. L. 109–280 substituted "1082(b)(1)" for "1082(c)(11)(A)", "1082(b)(2)" for "1082(c)(11)(B)", "412(b)(1)" for "412(c)(11)(A)", and "412(b)(2)" for "412(c)(11)(B)".
 
@@ -195,6 +197,10 @@ Subsec. (a)(7). Pub. L. 96–364, §402(a)(1)(D), inserted reference to section 
 Subsec. (a)(8) to (12). Pub. L. 96–364, §402(a)(1)(E), added pars. (8) to (12).
 
 Subsec. (b). Pub. L. 96–364, §402(a)(1)(F), which was executed by designating existing provisions as par. (1) and adding pars. (2) to (4), notwithstanding directory language that pars. (2) to (4) be added at end of subsec. (c)(1) as redesignated, was struck out by Pub. L. 99–272, §11004(b). See 1986 Amendment note above.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of div. O of Pub. L. 113–235, set out as an Effective Date of Repeal note under section 418 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

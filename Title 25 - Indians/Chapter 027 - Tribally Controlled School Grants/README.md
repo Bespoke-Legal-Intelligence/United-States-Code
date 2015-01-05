@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [2501\.](%C2%A7%2002501%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
 | [2502\.](%C2%A7%2002502%20-%20Grants%20authorized.md) | Grants authorized. |
+| [2502a.](%C2%A7%2002502a%20-%20Retrocession%20or%20re-assumption%20of%20Indian%20education%20funds.md) | Retrocession or re-assumption of Indian education funds. |
 | [2503\.](%C2%A7%2002503%20-%20Composition%20of%20grants.md) | Composition of grants. |
 | [2504\.](%C2%A7%2002504%20-%20Eligibility%20for%20grants.md) | Eligibility for grants. |
 | [2505\.](%C2%A7%2002505%20-%20Duration%20of%20eligibility%20determination.md) | Duration of eligibility determination. |
@@ -23,6 +24,7 @@
 
 - [&sect; 02501 - Declaration of policy](%C2%A7%2002501%20-%20Declaration%20of%20policy.md)
 - [&sect; 02502 - Grants authorized](%C2%A7%2002502%20-%20Grants%20authorized.md)
+- [&sect; 02502a - Retrocession or re-assumption of Indian education funds](%C2%A7%2002502a%20-%20Retrocession%20or%20re-assumption%20of%20Indian%20education%20funds.md)
 - [&sect; 02503 - Composition of grants](%C2%A7%2002503%20-%20Composition%20of%20grants.md)
 - [&sect; 02504 - Eligibility for grants](%C2%A7%2002504%20-%20Eligibility%20for%20grants.md)
 - [&sect; 02505 - Duration of eligibility determination](%C2%A7%2002505%20-%20Duration%20of%20eligibility%20determination.md)

@@ -94,11 +94,11 @@ Pub. L. 91–452, title XI, §1105(a), (b), Oct. 15, 1970, 84 Stat. 959, provide
 
 "(a) Except as provided in subsection (b), the provisions of chapter 40 of title 18, United States Code, as enacted by section 1102 of this title shall take effect one hundred and twenty days after the date of enactment of this Act \[Oct. 15, 1970\].
 
-"(b) The following sections of chapter 40 of title 18, United States Code, as enacted by section 1102 of this title shall take effect on the date of the enactment of this Act \[Oct. 15, 1970\]: sections 841, 844(d), (e), (f), (g),\(h), (i), and (j), 845, 846, 847, 848 and 849 \[no section 849 was enacted\]."
+"(b) The following sections of chapter 40 of title 18, United States Code, as enacted by section 1102 of this title shall take effect on the date of the enactment of this Act \[Oct. 15, 1970\]: sections 841, 844(d), (e), (f), (g), (h), (i), and (j), 845, 846, 847, 848 and 849 \[no section 849 was enacted\]."
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–296, title XI, §1121, Nov. 25, 2002, 116 Stat. 2280, provided that: "This subtitle \[subtitle C (§§1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title\] may be referred to as the 'Safe Explosives Act'."
+Pub. L. 107–296, title XI, §1121, Nov. 25, 2002, 116 Stat. 2280, provided that: "This subtitle \[subtitle C\(§§1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title\] may be referred to as the 'Safe Explosives Act'."
 
 #### Short Title of 1982 Amendment
 

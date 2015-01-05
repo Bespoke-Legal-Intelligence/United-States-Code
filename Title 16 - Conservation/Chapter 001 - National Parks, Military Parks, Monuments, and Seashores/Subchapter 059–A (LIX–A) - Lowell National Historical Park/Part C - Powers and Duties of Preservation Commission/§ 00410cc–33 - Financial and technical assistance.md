@@ -4,7 +4,7 @@
 
 The Commission may make loans to the Lowell Development and Financial Corporation (established under chapter 844 of the Massachusetts General Laws and hereinafter referred to as the "corporation") to enable the corporation to provide low interest loans for the preservation, restoration, or development of any property described in section 410cc–32(d)(1) of this title. The Commission may make any such loan to the corporation only after entering into a loan agreement with the corporation which includes the following terms:
 
-&emsp;(1) The loan to the corporation shall have a maturity of thirty-five years. At the end of such period, the corporation shall repay to the Secretary of the Treasury (in a lump sum) for deposit in the general fund of the Treasury the full amount of the loan and any additional amounts accruing to the corporation pursuantto this subsection excepting those amounts expended by the corporation for reasonable administrative expenses.
+&emsp;(1) The loan to the corporation shall have a maturity of thirty-five years. At the end of such period, the corporation shall repay to the Secretary of the Treasury (in a lump sum) for deposit in the general fund of the Treasury the full amount of the loan and any additional amounts accruing to the corporation pursuant to this subsection excepting those amounts expended by the corporation for reasonable administrative expenses.
 
 &emsp;(2) The money received from the Commission, and any interest earned on such money, may be obligated by the corporation only for low interest loans made under paragraphs (6) and (7) of this subsection, except that the corporation may use such money to the extent the Commission considers reasonable to satisfy the costs of the corporation in administering the loan or procuring loan guarantees or insurance.
 
@@ -54,5 +54,5 @@ The Commission shall make available to the Secretary, upon request, all accounts
 
 #### Codification
 
-Subsec. (e) of this section, which required the Secretary to make an annual report to Congress describing the loans, grants, and technical assistance provided under this section and under section 410cc–23 of thistitle, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 108 of House Document No. 103–7.
+Subsec. (e) of this section, which required the Secretary to make an annual report to Congress describing the loans, grants, and technical assistance provided under this section and under section 410cc–23 of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 108 of House Document No. 103–7.
 

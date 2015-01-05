@@ -44,5 +44,5 @@ Pub. L. 103–337, div. A, title XVI, §1692, Oct. 5, 1994, 108 Stat. 3027, prov
 
 #### Preservation of Pre-Existing Rights, Duties, Penalties, and Proceedings
 
-Pub. L. 103–337, div. A, title XVI, §1693, Oct. 5, 1994, 108 Stat. 3027, provided that: "Except as otherwise provided in this title \[see Tables for classification\], theprovisions of this title and the amendments made by this title do not affect rights and duties that matured, penalties that were incurred, or proceedings that were begun before the effective date of this title under section 1691(b)(1) \[set out above\]."
+Pub. L. 103–337, div. A, title XVI, §1693, Oct. 5, 1994, 108 Stat. 3027, provided that: "Except as otherwise provided in this title \[see Tables for classification\], the provisions of this title and the amendments made by this title do not affect rights and duties that matured, penalties that were incurred, or proceedings that were begun before the effective date of this title under section 1691(b)(1) \[set out above\]."
 

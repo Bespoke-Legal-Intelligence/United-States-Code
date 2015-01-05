@@ -22,7 +22,7 @@
 
 #### (B) Areas of concern
 
-&emsp;&emsp;In conducting the functions described in subparagraph (A), a Resource Center shallfocus on priority areas of concern for the Resource Centers regarding Native Americans who are older individuals, which areas shall be—
+&emsp;&emsp;In conducting the functions described in subparagraph (A), a Resource Center shall focus on priority areas of concern for the Resource Centers regarding Native Americans who are older individuals, which areas shall be—
 
 &emsp;&emsp;&emsp;(i) health (including mental health) problems;
 

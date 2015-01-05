@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Aug. 26, 1950, ch. 803, §1 (1st 31 words of 3d proviso), 64 Stat. 477.
 
-The words “suspended or removed under section 7532 of this title” are coextensive with and substituted for “whose employment is so suspended or terminated under the authority of said sections”.
+The words "suspended or removed under section 7532 of this title" are coextensive with and substituted for "whose employment is so suspended or terminated under the authority of said sections".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

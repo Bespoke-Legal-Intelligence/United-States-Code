@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1101\.](%C2%A7%2001101%20-%20Printing%20and%20binding%20for%20the%20President.md) | Printing and binding for the President. |
-| [1102\.](%C2%A7%2001102%20-%20Printing%20to%20be%20authorized%20by%20law%20and%20necessary%20to%20the%20public%20business%2C%20not%20in%20excess%20of%20appropriation%2C%20and%20on%20special%20requisition%20filed%E2%80%A6.md) | Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Public Printer. |
+| [1102\.](%C2%A7%2001102%20-%20Printing%20to%20be%20authorized%20by%20law%20and%20necessary%20to%20the%20public%20business%2C%20not%20in%20excess%20of%20appropriation%2C%20and%20on%20special%20requisition%20filed%E2%80%A6.md) | Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Director of the Government Publishing Office. |
 | [1103\.](%C2%A7%2001103%20-%20Certificate%20of%20necessity%3B%20estimate%20of%20cost.md) | Certificate of necessity; estimate of cost. |
 | [1104\.](%C2%A7%2001104%20-%20Restrictions%20on%20use%20of%20illustrations.md) | Restrictions on use of illustrations. |
 | [1105\.](%C2%A7%2001105%20-%20Form%20and%20style%20of%20work%20for%20departments.md) | Form and style of work for departments. |
@@ -12,11 +12,11 @@
 | [1108\.](%C2%A7%2001108%20-%20Presidential%20approval%20required%20for%20printing%20of%20periodicals%3B%20number%20printed%3B%20sale%20to%20public.md) | Presidential approval required for printing of periodicals; number printed; sale to public. |
 | [1109\.](%C2%A7%2001109%20-%20Printing%20documents%20in%20two%20or%20more%20editions%3B%20full%20number%20and%20allotment%20of%20full%20quota.md) | Printing documents in two or more editions; full number and allotment of full quota. |
 | [1110\.](%C2%A7%2001110%20-%20Daily%20examination%20of%20Congressional%20Record%20for%20immediate%20ordering%20of%20documents%20for%20official%20use%3B%20limit%3B%20bills%20and%20resolutions.md) | Daily examination of Congressional Record for immediate ordering of documents for official use; limit; bills and resolutions. |
-| [1111\.](%C2%A7%2001111%20-%20Annual%20reports%20time%20for%20furnishing%20manuscript%20and%20proofs%20to%20Public%20Printer.md) | Annual reports: time for furnishing manuscript and proofs to Public Printer. |
+| [1111\.](%C2%A7%2001111%20-%20Annual%20reports%20time%20for%20furnishing%20manuscript%20and%20proofs%20to%20Director%20of%20the%20Government%20Publishing%20Office.md) | Annual reports: time for furnishing manuscript and proofs to Director of the Government Publishing Office. |
 | [1112\.](%C2%A7%2001112%20-%20Annual%20reports%20type%20for%20reports%20of%20executive%20officers.md) | Annual reports: type for reports of executive officers. |
 | [1113\.](%C2%A7%2001113%20-%20Annual%20reports%20exclusion%20of%20irrelevant%20matter.md) | Annual reports: exclusion of irrelevant matter. |
 | [1114\.](%C2%A7%2001114%20-%20Annual%20reports%20number%20of%20copies%20for%20Congress.md) | Annual reports: number of copies for Congress. |
-| [1115\.](%C2%A7%2001115%20-%20Annual%20reports%20time%20of%20delivery%20by%20Public%20Printer%20to%20Congress.md) | Annual reports: time of delivery by Public Printer to Congress. |
+| [1115\.](%C2%A7%2001115%20-%20Annual%20reports%20time%20of%20delivery%20by%20Director%20of%20the%20Government%20Publishing%20Office%20to%20Congress.md) | Annual reports: time of delivery by Director of the Government Publishing Office to Congress. |
 | [1116\.](%C2%A7%2001116%20-%20Annual%20reports%20limitation%20on%20number%20of%20copies%20printed%3B%20reports%20of%20bureau%20chiefs.md) | Annual reports: limitation on number of copies printed; reports of bureau chiefs. |
 | [1117\.](%C2%A7%2001117%20-%20Annual%20reports%20discontinuance%20of%20printing%20of%20annual%20or%20special%20reports%20to%20keep%20within%20appropriations.md) | Annual reports: discontinuance of printing of annual or special reports to keep within appropriations. |
 | [1118\.](%C2%A7%2001118%20-%20Documents%20beyond%20scope%20of%20ordinary%20departmental%20business.md) | Documents beyond scope of ordinary departmental business. |
@@ -29,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in items 1102, 1111, and 1115.
 
 <b>1984</b>—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted "Presidential" for "Bureau of Budget" in item 1108.
 
@@ -51,11 +53,11 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 01108 - Presidential approval required for printing of periodicals; number printed; sale to public](%C2%A7%2001108%20-%20Presidential%20approval%20required%20for%20printing%20of%20periodicals%3B%20number%20printed%3B%20sale%20to%20public.md)
 - [&sect; 01109 - Printing documents in two or more editions; full number and allotment of full quota](%C2%A7%2001109%20-%20Printing%20documents%20in%20two%20or%20more%20editions%3B%20full%20number%20and%20allotment%20of%20full%20quota.md)
 - [&sect; 01110 - Daily examination of Congressional Record for immediate ordering of documents for official use; limit; bills and resolutions](%C2%A7%2001110%20-%20Daily%20examination%20of%20Congressional%20Record%20for%20immediate%20ordering%20of%20documents%20for%20official%20use%3B%20limit%3B%20bills%20and%20resolutions.md)
-- [&sect; 01111 - Annual reports time for furnishing manuscript and proofs to Public Printer](%C2%A7%2001111%20-%20Annual%20reports%20time%20for%20furnishing%20manuscript%20and%20proofs%20to%20Public%20Printer.md)
+- [&sect; 01111 - Annual reports time for furnishing manuscript and proofs to Director of the Government Publishing Office](%C2%A7%2001111%20-%20Annual%20reports%20time%20for%20furnishing%20manuscript%20and%20proofs%20to%20Director%20of%20the%20Government%20Publishing%20Office.md)
 - [&sect; 01112 - Annual reports type for reports of executive officers](%C2%A7%2001112%20-%20Annual%20reports%20type%20for%20reports%20of%20executive%20officers.md)
 - [&sect; 01113 - Annual reports exclusion of irrelevant matter](%C2%A7%2001113%20-%20Annual%20reports%20exclusion%20of%20irrelevant%20matter.md)
 - [&sect; 01114 - Annual reports number of copies for Congress](%C2%A7%2001114%20-%20Annual%20reports%20number%20of%20copies%20for%20Congress.md)
-- [&sect; 01115 - Annual reports time of delivery by Public Printer to Congress](%C2%A7%2001115%20-%20Annual%20reports%20time%20of%20delivery%20by%20Public%20Printer%20to%20Congress.md)
+- [&sect; 01115 - Annual reports time of delivery by Director of the Government Publishing Office to Congress](%C2%A7%2001115%20-%20Annual%20reports%20time%20of%20delivery%20by%20Director%20of%20the%20Government%20Publishing%20Office%20to%20Congress.md)
 - [&sect; 01116 - Annual reports limitation on number of copies printed; reports of bureau chiefs](%C2%A7%2001116%20-%20Annual%20reports%20limitation%20on%20number%20of%20copies%20printed%3B%20reports%20of%20bureau%20chiefs.md)
 - [&sect; 01117 - Annual reports discontinuance of printing of annual or special reports to keep within appropriations](%C2%A7%2001117%20-%20Annual%20reports%20discontinuance%20of%20printing%20of%20annual%20or%20special%20reports%20to%20keep%20within%20appropriations.md)
 - [&sect; 01118 - Documents beyond scope of ordinary departmental business](%C2%A7%2001118%20-%20Documents%20beyond%20scope%20of%20ordinary%20departmental%20business.md)

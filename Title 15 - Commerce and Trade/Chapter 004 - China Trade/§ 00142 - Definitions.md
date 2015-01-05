@@ -24,7 +24,7 @@ Congress by private act Dec. 22, 1944, ch. 691, 58 Stat. 1086, provided for the 
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia".
+Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "United States District Courtfor the District of Columbia" for "district court of the United States for the District of Columbia".
 
 Act June 25, 1936, substituted "district court of the United States for the District of Columbia" for "Supreme Court of the District of Columbia".
 

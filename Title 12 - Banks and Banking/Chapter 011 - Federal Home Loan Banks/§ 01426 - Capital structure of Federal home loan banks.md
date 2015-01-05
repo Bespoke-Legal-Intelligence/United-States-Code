@@ -68,19 +68,19 @@
 
 #### (6) Transition period
 
-&emsp;Notwithstanding any other provision of this chapter, the requirements relating to purchase and retention of capital stock of a Federal home loan bank by any member thereof in effect on the day before November 12, 1999, shall continue in effect with respect to each Federal home loan bank until the regulations required by this subsection have taken effect and the capital structure plan required by subsection (b) of this section has been approved by the Director and implemented by such bank.
+&emsp;Notwithstanding any other provision of this chapter, the requirements relating to purchase and retention of capital stock of a Federal home loan bank by any member thereof in effect on the day before November 12, 1999, shall continue in effect with respect to each Federal home loan bank until the regulations required by this subsection have taken effect and the capital structure plan required by subsection (b) has been approved by the Director and implemented by such bank.
 
 #### (b) Capital structure plan
 
 #### (1) Approval of plans
 
-&emsp;Not later than 270 days after the date of publication by the Director of final regulations in accordance with subsection (a) of this section, the board of directors of each Federal home loan bank shall submit for approval by the Director a plan establishing and implementing a capital structure for such bank that—
+&emsp;Not later than 270 days after the date of publication by the Director of final regulations in accordance with subsection (a), the board of directors of each Federal home loan bank shall submit for approval by the Director a plan establishing and implementing a capital structure for such bank that—
 
 &emsp;&emsp;(A) the board of directors determines is best suited for the condition and operation of the bank and the interests of the members of the bank;
 
-&emsp;&emsp;(B) meets the requirements of subsection (c) of this section; and
+&emsp;&emsp;(B) meets the requirements of subsection (c); and
 
-&emsp;&emsp;(C) meets the minimum capital standards and requirements established under subsection (a) of this section and other regulations prescribed by the Director.
+&emsp;&emsp;(C) meets the minimum capital standards and requirements established under subsection (a) and other regulations prescribed by the Director.
 
 #### (2) Approval of modifications
 
@@ -112,7 +112,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (C) Minimum amount
 
-&emsp;&emsp;Each capital structure plan of a Federal home loan bank shall require that the minimum stock investment established for members shall be set at a level that is sufficient for the bank to meet the minimum capital requirements established by the Director under subsection (a) of this section.
+&emsp;&emsp;Each capital structure plan of a Federal home loan bank shall require that the minimum stock investment established for members shall be set at a level that is sufficient for the bank to meet the minimum capital requirements established by the Director under subsection (a).
 
 #### (D) Adjustments to minimum required investment
 
@@ -122,11 +122,11 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (A) In general
 
-&emsp;&emsp;The capital structure plan of each Federal home loan bank shall specify the date on which it shall take effect, and may provide for a transition period of not longer than 3 years to allow the bank to come into compliance with the capital requirements prescribed under subsection (a) of this section, and to allow any institution that was a member of the bank on November 12, 1999, to come into compliance with the minimum investment required pursuant to the plan.
+&emsp;&emsp;The capital structure plan of each Federal home loan bank shall specify the date on which it shall take effect, and may provide for a transition period of not longer than 3 years to allow the bank to come into compliance with the capital requirements prescribed under subsection (a), and to allow any institution that was a member of the bank on November 12, 1999, to come into compliance with the minimum investment required pursuant to the plan.
 
 #### (B) Interim purchase requirements
 
-&emsp;&emsp;The capital structure plan of a Federal home loan bank may allow any member referred to in subparagraph (A) that would berequired by the terms of the capital structure plan to increase its investment in the stock of the bank to do so in periodic installments during the transition period.
+&emsp;&emsp;The capital structure plan of a Federal home loan bank may allow any member referred to in subparagraph (A) that would be required by the terms of the capital structure plan to increase its investment in the stock of the bank to do so in periodic installments during the transition period.
 
 #### (3) Disposition of shares
 
@@ -162,7 +162,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 &emsp;Before filing a capital structure plan with the Director, each Federal home loan bank shall conduct a review of the plan by—
 
-&emsp;&emsp;(A) an independent certified public accountant, to ensure, to the extent possible, that implementation of the plan would not result in any write-down of the redeemable bank stock investment of its members; and
+&emsp;&emsp;(A) an independent certified public accountant, to ensure, to the extent possible,that implementation of the plan would not result in any write-down of the redeemable bank stock investment of its members; and
 
 &emsp;&emsp;(B) at least one major credit rating agency, to determine, to the extent possible, whether implementation of the plan would have any material effect on the credit ratings of the bank.
 
@@ -186,15 +186,15 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 &emsp;&emsp;An institution, the membership of which is terminated in accordance with subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) shall surrender redeemable stock to the Federal home loan bank, and shall receive in cash the par value of the stock, upon the expiration of the applicable notice period under subsection (a)(4)(A) of this section;
+&emsp;&emsp;&emsp;(i) shall surrender redeemable stock to the Federal home loan bank, and shall receive in cash the par value of the stock, upon the expiration of the applicable notice period under subsection (a)(4)(A);
 
-&emsp;&emsp;&emsp;(ii) shall receive any dividends declared on its redeemable stock, during the applicable notice period under subsection (a)(4)(A) of this section; and
+&emsp;&emsp;&emsp;(ii) shall receive any dividends declared on its redeemable stock, during the applicable notice period under subsection (a)(4)(A); and
 
 &emsp;&emsp;&emsp;(iii) shall not be entitled to any other rights or privileges accorded to members after the date of the termination.
 
 #### (C) Commencement of notice period
 
-&emsp;&emsp;With respect to an institution, the membership of which is terminated in accordance with subparagraph (A), the applicable notice period under subsection (a)(4) of this sectionfor each class of redeemable stock shall commence on the earlier of—
+&emsp;&emsp;With respect to an institution, the membership of which is terminated in accordance with subparagraph (A), the applicable notice period under subsection (a)(4) for each class of redeemable stock shall commence on the earlier of—
 
 &emsp;&emsp;&emsp;(i) the date of such termination; or
 
@@ -230,7 +230,7 @@ If the Director or the board of directors of a Federal home loan bank determines
 
 #### (2) Exception for withdrawals from membership before 1998
 
-&emsp;Any institution that withdrew from membership in any Federal home loan bank before December 31, 1997, may acquire shares of a Federal home loan bank at any time after that date, subject to the approval of the Director and the requirements of this chapter.
+&emsp;Any institution that withdrew from membership in any Federal home loan bank before December 31, 1997, may acquire shares of a Federal home loan bank at any time after thatdate, subject to the approval of the Director and the requirements of this chapter.
 
 #### (h) Treatment of retained earnings
 

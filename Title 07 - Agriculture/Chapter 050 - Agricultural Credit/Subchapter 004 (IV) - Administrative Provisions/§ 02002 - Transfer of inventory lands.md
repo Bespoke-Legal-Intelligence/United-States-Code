@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, the Secretary may transfer to any Federal or State agency, for conservation purposes any real property, or interest therein, administered by the Secretary under this Act—
+Subject to subsection (b), the Secretary may transfer to any Federal or State agency, for conservation purposes any real property, or interest therein, administered by the Secretary under this Act—
 
 &emsp;(1) with respect to which the rights of all prior owners and operators have expired;
 
@@ -18,13 +18,13 @@ Subject to subsection (b) of this section, the Secretary may transfer to any Fed
 
 #### (b) Conditions
 
-The Secretary may not transfer any property or interest in property under subsection (a) of this section unless—
+The Secretary may not transfer any property or interest in property under subsection (a) unless—
 
 &emsp;(1) at least 2 public notices are given of the transfer;
 
 &emsp;(2) if requested, at least 1 public meeting is held prior to the transfer; and
 
-&emsp;(3) the Governor and at least 1 elected county official of the State and county where the property is located are consulted prior to the transfer.
+&emsp;(3) the Governor and at least 1 elected county official of the State and county where theproperty is located are consulted prior to the transfer.
 
 (Pub. L. 87–128, title III, §354, as added Pub. L. 100–233, title VI, §616, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 104–127, title VI, §646, Apr. 4, 1996, 110 Stat. 1103.)
 
@@ -34,5 +34,5 @@ This Act, referred to in subsec. (a), refers to the Agricultural Act of 1961, Pu
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 designated existing provisions as subsec. (a), inserted heading, substituted "Subject to subsection (b) of this section, the Secretary" for "The Secretary, without reimbursement," in introductory provisions, added par. (2) and struck out former par. (2) which read as follows: "that is determined by the Secretary to be suitable or surplus; and", and added subsec. (b).
+<b>1996</b>—Pub. L. 104–127 designated existing provisions as subsec. (a), inserted heading, substituted "Subject to subsection (b), the Secretary" for "The Secretary, without reimbursement," in introductory provisions, added par. (2) and struck out former par. (2) which read as follows: "that is determined by the Secretary to be suitable or surplus; and", and added subsec. (b).
 

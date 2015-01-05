@@ -1,6 +1,6 @@
 ### §772. Annuity of the Comptroller General
 
-(a) Except as provided in subsection (c) of this section, a Comptroller General serving a complete term as Comptroller General or who retires under section 703(e)(1) of this title is entitled to receive an annuity for life equal to the pay the Comptroller General is receiving on completion of the term or at the time of retirement. An annuity of a Comptroller General who completes a term before becoming 65 years of age is reduced by .25 percent for each complete month the Comptroller General is under 65 years of age.
+(a) Except as provided in subsection (c) of this section, a Comptroller General serving a complete term as Comptroller General or who retires under section 703(e)(1) of this title is entitled to receive an annuity for life equal to thepay the Comptroller General is receiving on completion of the term or at the time of retirement. An annuity of a Comptroller General who completes a term before becoming 65 years of age is reduced by .25 percent for each complete month the Comptroller General is under 65 years of age.
 
 (b) Except as provided in subsection (c) of this section, a Comptroller General becoming permanently disabled shall be retired and is entitled to receive an annuity for life equal to—
 
@@ -82,7 +82,7 @@ In subsection (e), the words "Comptroller General" are substituted for "person" 
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–426, §203(1), substituted "retires under section 703(e)(1) of this title" for "is retired for age under section 703(e)(1) of this title after serving at least 10 years".
 
-Subsec. (c). Pub. L. 100–426, §203(2), substituted "subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be)" for "subchapter III of chapter 83 of title 5 remains subject to subchapter III".
+Subsec. (c). Pub. L. 100–426, §203(2), substituted "subchapter III of chapter 83 or chapter 84 of title 5 remainssubject to such subchapter III or such chapter 84 (as the case may be)" for "subchapter III of chapter 83 of title 5 remains subject to subchapter III".
 
 #### Effective Date of 1988 Amendment
 

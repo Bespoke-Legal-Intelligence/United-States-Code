@@ -1,6 +1,6 @@
 ### §1621. Congressional declaration of purpose; use of existing facilities; cooperation with States
 
-The Congress declares that a sound, efficient, and privately operated system for distributing and marketing agricultural products is essential to a prosperous agriculture and is indispensable to the maintenance of full employment and to the welfare, prosperity, and health of the Nation. It is further declared to be the policy of Congress to promote through research, study, experimentation, and through cooperation among Federal and State agencies, farm organizations, and private industry a scientific approach to the problems of marketing, transportation, and distribution of agricultural products similar to the scientific methods which have been utilized so successfully during the past eighty-four years in connection with the production of agricultural products so that such products capable of being produced in abundance may be marketed in an orderly manner and efficiently distributed. In order to attain these objectives, it is the intent of Congress to provide for (1) continuous research to improve the marketing, handling, storage, processing, transportation, and distribution of agricultural products; (2) cooperation among Federal and State agencies, producers, industry organizations, and others in the development and effectuation of research and marketing programs to improve the distribution processes; (3) an integrated administration of all laws enacted by Congress to aid the distribution of agricultural products through research, market aids and services, and regulatory activities, to the end that marketing methods and facilities may be improved, that distribution costs may be reduced and the price spread between the producer and consumer may be narrowed, that dietary and nutritional standards may be improved, that new and wider markets for American agricultural products may be developed, both in the United States and in other countries, with a view to making it possible for the full production of American farms to be disposed of usefully, economically, profitably, and in an orderly manner. In effectuating the purposes of this chapter, maximum use shall be made of existing research facilities owned or controlled by the Federal Government or by State agricultural experiment stations and of the facilities of the Federal and State extension services. To the maximum extent practicable marketing research work done under this chapter in cooperation with the States shall be done in cooperation with the State agricultural experiment stations; marketing educational and demonstrational work done under this chapter in cooperation with the States shall be done in cooperation with the State agricultural extension service; market information, inspection, regulatory work and other marketing service done under this chapter in cooperation with the State agencies shall be done in cooperation with the State departments of agriculture, and State bureaus and departments of markets.
+The Congress declares that a sound, efficient, and privately operated system for distributing and marketing agricultural products is essential to a prosperous agriculture and is indispensable to the maintenance of full employment and to the welfare, prosperity, and health of the Nation. It is further declared to be the policy of Congress to promote through research, study, experimentation, and through cooperation among Federal and State agencies, farm organizations, and private industry a scientific approach to the problems of marketing, transportation, and distribution of agricultural products similar to the scientific methods which have been utilized so successfully during the past eighty-four years in connection with the production of agricultural products so that such products capable of being produced in abundance may be marketed in an orderly manner and efficiently distributed. In order to attain these objectives, it is the intent of Congress to provide for (1) continuous research to improve the marketing, handling, storage, processing, transportation, and distribution of agricultural products; (2) cooperation among Federal and State agencies, producers, industry organizations, and others in the development and effectuation of research and marketing programs to improve the distribution processes; (3) an integrated administration of all laws enacted by Congress to aid the distribution of agricultural products through research, market aids and services, and regulatory activities, to the end that marketing methods and facilities may be improved, that distribution costs may be reduced and the price spread between the producer and consumer may be narrowed, that dietary and nutritional standards may be improved, that new and wider markets for American agricultural products may be developed, both in the United States and in other countries, with a view to making it possible for the full production of American farms to be disposed of usefully, economically, profitably, and in an orderly manner. In effectuating the purposes of this chapter, maximum use shall be made of existing research facilities owned or controlled by the Federal Government or by State agricultural experiment stations and of the facilities of the Federal and State extension services. To the maximum extent practicable marketing research work done under this chapter in cooperation with the States shall be done in cooperation with the State agricultural experiment stations; marketing educational and demonstrational work done under this chapter in cooperation with the States shall be done in cooperation with the State agricultural extension service; market information, inspection,regulatory work and other marketing service done under this chapter in cooperation with the State agencies shall be done in cooperation with the State departments of agriculture, and State bureaus and departments of markets.
 
 (Aug. 14, 1946, ch. 966, title II, §202, 60 Stat. 1087.)
 
@@ -10,7 +10,7 @@ Under this chapter, referred to in text, was in the original "hereunder", and wa
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–239, §1, Sept. 27, 2010, 124 Stat. 2501, provided that: "This Act \[enacting section 1635k of this title, amending sections 1636i, 1637b, and 5712 of this title, enacting provisions set out as notes under sections 1635k and 1637b of this title, and amending provisions set out as a note under section 1635 of this title\]may be cited as the 'Mandatory Price Reporting Act of 2010'."
+Pub. L. 111–239, §1, Sept. 27, 2010, 124 Stat. 2501, provided that: "This Act \[enacting section 1635k of this title, amending sections 1636i, 1637b, and 5712 of this title, enacting provisions set out as notes under sections 1635k and 1637b of this title, and amending provisions set out as a note under section 1635 of this title\] may be cited as the 'Mandatory Price Reporting Act of 2010'."
 
 #### Short Title of 2000 Amendment
 
@@ -26,7 +26,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Specialty Crops Competitiveness
 
-Pub. L. 108–465, §§2, 3, title I, §101, Dec. 21, 2004, 118 Stat. 3882, 3883, as amended by Pub. L. 110–234, title X, §10109, May 22, 2008, 122 Stat. 1338; Pub. L. 110–246, §4(a), title X, §10109, June 18, 2008, 122 Stat. 1664, 2100, provided that:
+Pub. L. 108–465, §§2, 3, title I, §101, Dec. 21, 2004, 118 Stat. 3882, 3883, as amended by Pub. L. 110–234, title X, §10109, May 22, 2008, 122 Stat. 1338; Pub. L. 110–246, §4(a), title X, §10109, June 18, 2008, 122 Stat. 1664, 2100; Pub. L. 113–79, title X, §10010, Feb. 7, 2014, 128 Stat. 949, provided that:
 
 #### "SEC. 2. FINDINGS AND PURPOSE.
 
@@ -66,11 +66,15 @@ Purpose.—It is the purpose of this Act \[see Short Title of 2004 Amendment not
 
 "(a)
 
-Availability and Purpose of Grants.—Using the funds made available under subsection (j), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2012 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
+Availability and Purpose of Grants.—Using the funds made available under subsection (l), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2018 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
 
 "(b)
 
-Grants Based on Value of Production.—Subject to subsection (c), the amount of the grant for a fiscal year to a State under this section shall bear the same ratio to the total amount made available under subsection (j) for that fiscal year as the value of specialty crop production in the State during the preceding calendar year bears to the value of specialty crop production during the preceding calendar year in all States whose application for a grant for that fiscal year is accepted by the Secretary under subsection (f).
+Grants Based on Value and Acreage.—Subject to subsection (c), for each State whose application for a grant for a fiscal year that \[sic\] is accepted by the Secretary under subsection (f), the amount of the grant for that fiscal year to the State under this section shall bear the same ratio to the total amount made available under subsection (l)(1) for that fiscal year as—
+
+&emsp;"(1) the average of the most recent available value of specialty crop production in the State and the acreage of specialty crop production in the State, as demonstrated in the most recent Census of Agriculture data; bears to
+
+&emsp;"(2) the average of the most recent available value of specialty crop production in all States and the acreage of specialty crop production in all States, as demonstrated in the most recent Census of Agriculture data.
 
 "(c)
 
@@ -124,13 +128,61 @@ Use of reallocated funds.—Funds allocated to a State under this subsection sha
 
 "(j)
 
-Funding.—Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make grants under this section, using—
+Multistate Projects.—Not later than 180 days after the effective date of the Agricultural Act of 2014 \[Feb. 7, 2014\], the Secretary of Agriculture shall issue guidance for the purpose of making grants to multistate projects under this section for projects involving—
 
-&emsp;"(1) $10,000,000 for fiscal year 2008;
+&emsp;"(1) food safety;
 
-&emsp;"(2) $49,000,000 for fiscal year 2009; and
+&emsp;"(2) plant pests and disease;
 
-&emsp;"(3) $55,000,000 for each of fiscal years 2010 through 2012."
+&emsp;"(3) research;
+
+&emsp;"(4) crop-specific projects addressing common issues; and
+
+&emsp;"(5) any other area that furthers the purposes of this section, as determined by the Secretary.
+
+"(k)
+
+Administration.—
+
+&emsp;"(1)
+
+Department.—The Secretary of Agriculture may not use more than 3 percent of the funds made available to carry out this section for a fiscal year for administrative expenses.
+
+&emsp;"(2)
+
+States.—A State receiving a grant under this section may not use more than 8 percent of the funds received under the grant for a fiscal year for administrative expenses.
+
+"(l)
+
+Funding.—
+
+&emsp;"(1)
+
+In general.—Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make grants under this section, using—
+
+&emsp;&emsp;"(A) $10,000,000 for fiscal year 2008;
+
+&emsp;&emsp;"(B) $49,000,000 for fiscal year 2009;
+
+&emsp;&emsp;"(C) $55,000,000 for each of fiscal years 2010 through 2012;
+
+&emsp;&emsp;"(D) $72,500,000 for each of fiscal years 2014 through 2017; and
+
+&emsp;&emsp;"(E) $85,000,000 for fiscal year 2018 and each fiscal year thereafter.
+
+&emsp;"(2)
+
+Multistate projects.—Of the funds made available under paragraph (1), the Secretary may use to carry out subsection (j), to remain available until expended—
+
+&emsp;&emsp;"(A) $1,000,000 for fiscal year 2014;
+
+&emsp;&emsp;"(B) $2,000,000 for fiscal year 2015;
+
+&emsp;&emsp;"(C) $3,000,000 for fiscal year 2016;
+
+&emsp;&emsp;"(D) $4,000,000 for fiscal year 2017; and
+
+&emsp;&emsp;"(E) $5,000,000 for fiscal year 2018."
 
 #### National Commission on Food Marketing
 

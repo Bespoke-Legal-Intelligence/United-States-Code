@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(D) animal fats and oils and greases, fish and marine mammal oils held in warehouses, cold storage, and in transit to consuming establishments.
 
-(b) The Secretary shall not be required to collect, more frequently than he deems necessary to provide reliable statistical reports, information from any person who produces, holds, orconsumes fats and oils in inconsequential quantities.
+(b) The Secretary shall not be required to collect, more frequently than he deems necessary to provide reliable statistical reports, information from any person who produces, holds, or consumes fats and oils in inconsequential quantities.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1017.)
 

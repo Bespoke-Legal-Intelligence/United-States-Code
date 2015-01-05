@@ -6,7 +6,7 @@ The Agency for International Development shall develop and implement a program f
 
 #### (b) Participation by Enterprise Funds and other agencies and organizations
 
-In carrying out subsection (a) of this section, the Agency for International Development may utilize the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and other appropriate Government and private agencies, programs, and organizations such as—
+In carrying out subsection (a), the Agency for International Development may utilize the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and other appropriate Government and private agencies, programs, and organizations such as—
 
 &emsp;(1) the Department of Agriculture;
 
@@ -22,7 +22,7 @@ In carrying out subsection (a) of this section, the Agency for International Dev
 
 #### (c) Nonapplicability of other provisions of law
 
-Assistance provided pursuant to subsection (a) of this section under the authorities of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] may be provided notwithstanding any other provision of law.
+Assistance provided pursuant to subsection (a) under the authorities of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] may be provided notwithstanding any other provision of law.
 
 #### (d) Authorization of appropriations
 
@@ -36,7 +36,7 @@ Any activities carried out pursuant to this chapter through the Farmer-to-Farmer
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. Chapter 1 of part I of the Foreign Assistance Act of 1961 is classified generally to part I (§2151 et seq.) of subchapter I of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. Chapter 1 of part I of the Foreign Assistance Act of 1961 is classified generally to part I (§2151 et seq.) of subchapter I of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 

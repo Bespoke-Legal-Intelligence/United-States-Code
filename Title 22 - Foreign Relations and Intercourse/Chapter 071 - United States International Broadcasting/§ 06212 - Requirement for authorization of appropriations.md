@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, for the fiscal year 1994 and for eac
 
 #### (b) Subsequent authorization
 
-The limitation under subsection (a) of this section shall not apply to the extent that an authorization of appropriations is enacted after such funds are appropriated.
+The limitation under subsection (a) shall not apply to the extent that an authorization of appropriations is enacted after such funds are appropriated.
 
 #### (c) Application
 
@@ -24,7 +24,7 @@ The provisions of this section—
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (c)(2), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For completeclassification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 

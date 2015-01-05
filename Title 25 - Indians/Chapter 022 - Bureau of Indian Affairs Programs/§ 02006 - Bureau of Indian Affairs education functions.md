@@ -68,7 +68,7 @@ Education personnel who are under the direction and supervision of the Director 
 
 #### (1) Guidelines
 
-&emsp;Notwithstanding any other provision of law, the Director of the Office shall promulgate guidelines for the establishment and administration of mechanisms for the acceptance of gifts and bequests for the use and benefit of particular schools or designated Bureau-operated education programs, including, in appropriate cases, the establishment and administration of trust funds.
+&emsp;Notwithstanding any other provision of law, the Director of the Office shall promulgate guidelines for the establishment and administration of mechanisms for the acceptance of gifts and bequests for the use and benefit ofparticular schools or designated Bureau-operated education programs, including, in appropriate cases, the establishment and administration of trust funds.
 
 #### (2) Monitoring and reports
 

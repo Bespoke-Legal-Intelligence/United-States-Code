@@ -34,7 +34,7 @@ My Administration is also committed to improving educational opportunities for s
 
 Sec. 2. <i>Definitions</i>. (a) "Agency" means any executive department or agency designated by the Secretary of Education and the Secretary of the Interior to participate in this order.
 
-(b) "Indian tribe" means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a \[et seq.\].
+(b) "Indian tribe" means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community thatthe Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a \[et seq.\].
 
 (c) "American Indian and Alaska Native" means a member of an Indian tribe, as membership is defined by the tribe.
 
@@ -76,7 +76,7 @@ The Executive Director shall work closely with the BIE Director and shall provid
 
 (ii) supporting the expanded implementation of education reform strategies that have shown evidence of success in enabling AI/AN students to acquire a rigorous and well-rounded education and increasing their access to the support services that prepare them for college, careers, and civic involvement;
 
-(iii) increasing the number and percentage of AI/AN students who have access to excellent teachers and school leaders, including effective science, technology, engineering, and mathematics (STEM), language, andspecial education teachers, in part by supporting efforts to improve the recruitment, development, and retention of effective AI/AN teachers and other effective teachers and school leaders, particularly through TCUs;
+(iii) increasing the number and percentage of AI/AN students who have access to excellent teachers and school leaders, including effective science, technology, engineering, and mathematics (STEM), language, and special education teachers, in part by supporting efforts to improve the recruitment, development, and retention of effective AI/AN teachers and other effective teachers and school leaders, particularly through TCUs;
 
 (iv) reducing the AI/AN student dropout rate and helping a greater number and percentage of those students who stay in high school to be ready for college and careers by the time of their graduation and college completion, in part by promoting a positive school climate and supporting successful and innovative dropout-prevention and recovery strategies that better engage AI/AN youths in their learning and help them catch up academically;
 
@@ -88,7 +88,7 @@ The Executive Director shall work closely with the BIE Director and shall provid
 
 (3) To facilitate a new partnership between the Department of Education and the Department of the Interior, to improve AI/AN education, the Executive Director shall work with the BIE Director and develop a Memorandum of Understanding (MOU) between the two Departments that will take advantage of both Departments' expertise, resources, and facilities. The MOU shall be completed within 120 days of the date of this order. Among other things, the MOU shall address how the Departments will collaborate in carrying out the policy set out in section 1 of this order.
 
-(c) <i>Funding and Administrative Support</i>. Subject to the availability of appropriations, the Department of Education shall fund the Initiative, including NACIE. The Department shall also provide administrative support for the Initiative to the extent permitted by law and within existing appropriations.
+(c) <i>Funding and Administrative Support</i>. Subject to the availability of appropriations, the Department of Education shall fund the Initiative, including NACIE. The Department shall also provide administrative supportfor the Initiative to the extent permitted by law and within existing appropriations.
 
 (d) <i>Interagency Working Group</i>. There is established the Interagency Working Group on AI/AN education and TCUs, which shall be convened by the Initiative's Executive Director. The Working Group shall consist of senior officials from the Department of Education and the Department of the Interior and officials from the Departments of Justice, Agriculture, Labor, Health and Human Services, and Energy, the Environmental Protection Agency, and the White House Domestic Policy Council, as well as such additional agencies and offices as the Secretaries of Education and the Interior may designate. Senior officials shall be designated by the heads of their respective agencies and offices. The Secretaries of Education and the Interior shall serve as the co-chairs of the Interagency Working Group.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall register, subject to section 13906(b), a person to be abroker for transportation of property subject to jurisdiction under subchapter I of chapter 135, if the Secretary determines that the person—
+In General.—The Secretary shall register, subject to section 13906(b), a person to be a broker for transportation of property subject to jurisdiction under subchapter I of chapter 135, if the Secretary determines that the person—
 
 &emsp;(1) has sufficient experience to qualify the person to act as a broker for transportation; and
 

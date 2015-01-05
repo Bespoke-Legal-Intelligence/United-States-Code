@@ -43,7 +43,7 @@ Monthly Maximum Rates.—The monthly rate of any career enlisted flyer incentive
 
 (e)
 
-Eligibility of Reserve Component Members When Performing Inactive Duty Training.—Under regulations prescribed by the Secretary concerned, when a member of a reserve component or the National Guard, who is entitled to compensation under section 206 of this title, meets the definition of eligible career enlisted flyer, the Secretary concerned may increase the member's compensation by an amount equal to 1/30 of the monthly incentive pay authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service who is entitled to basic pay under section 204 of this title. The reserve component member may receive the increase for as long as the member is qualified forit, for each regular period of instruction or period of appropriate duty, at which the member is engaged for at least two hours, or for the performance of such other equivalent training, instruction, duty or appropriate duties, as the Secretary may prescribe under section 206(a) of this title.
+Eligibility of Reserve Component Members When Performing Inactive Duty Training.—Under regulations prescribed by the Secretary concerned, when a member of a reserve component or the National Guard, who is entitled to compensation under section 206 of this title, meets the definition of eligible career enlisted flyer, the Secretary concerned may increase the member's compensation by an amount equal to 1/30 of the monthly incentive pay authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service who is entitled to basic pay under section 204 of this title. The reserve component member may receive the increase for as long as the member is qualified for it, for each regular period of instruction or period of appropriate duty, at which the member is engaged for at least two hours, or for the performance of such other equivalent training, instruction, duty or appropriate duties, as the Secretary may prescribe under section 206(a) of this title.
 
 (f)
 
@@ -51,7 +51,7 @@ Relation to Hazardous Duty Incentive Pay or Diving Duty Special Pay.—A member 
 
 (g)
 
-Save Pay Provision.—If, immediately before a member receives incentive pay under this section, the member was entitled to incentive pay under section 301(a) of this title, the rate at which the member is paid incentive pay under this section shall be equal to the higher of the monthly amount applicable under subsection (d) or the rate of incentive pay the member was receiving under subsection (b) or (c)(2)(A) of section 301 of this title.
+Save Pay Provision.—If, immediately before a member receives incentive pay under this section, the member was entitled to incentive pay under section 301(a) of this title, the rate atwhich the member is paid incentive pay under this section shall be equal to the higher of the monthly amount applicable under subsection (d) or the rate of incentive pay the member was receiving under subsection (b) or (c)(2)(A) of section 301 of this title.
 
 (h)
 

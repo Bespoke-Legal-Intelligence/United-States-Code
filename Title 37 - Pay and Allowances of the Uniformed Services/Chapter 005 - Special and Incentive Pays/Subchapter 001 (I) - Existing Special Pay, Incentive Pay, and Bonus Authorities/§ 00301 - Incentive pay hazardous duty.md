@@ -30,107 +30,34 @@
 
 (b) For the performance of hazardous duty described in paragraph (1) of subsection (a), a member is entitled to monthly incentive pay as follows:
 
-Pay Grade
+&nbsp;
 
-Monthly Rate
-
-&nbsp;&nbsp;O–10
-
-$150&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–9
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–8
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–7
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–6
-
-250&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–5
-
-250&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–4
-
-225&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–3
-
-175&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–2
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;O–1
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;W–5
-
-250&nbsp;&nbsp;
-
-&nbsp;&nbsp;W–4
-
-250&nbsp;&nbsp;
-
-&nbsp;&nbsp;W–3
-
-175&nbsp;&nbsp;
-
-&nbsp;&nbsp;W–2
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;W–1
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–9
-
-240&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–8
-
-240&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–7
-
-240&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–6
-
-215&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–5
-
-190&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–4
-
-165&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–3
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–2
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;E–1
-
-150&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| Pay Grade | Monthly Rate |
+| :--- | ---: |
+| O–10 | $150  |
+| O–9 | 150&nbsp; |
+| O–8 | 150&nbsp; |
+| O–7 | 150&nbsp; |
+| O–6 | 250&nbsp; |
+| O–5 | 250&nbsp; |
+| O–4 | 225&nbsp; |
+| O–3 | 175&nbsp; |
+| O–2 | 150&nbsp; |
+| O–1 | 150&nbsp; |
+| W–5 | 250&nbsp; |
+| W–4 | 250&nbsp; |
+| W–3 | 175&nbsp; |
+| W–2 | 150&nbsp; |
+| W–1 | 150&nbsp; |
+| E–9 | 240&nbsp; |
+| E–8 | 240&nbsp; |
+| E–7 | 240&nbsp; |
+| E–6 | 215&nbsp; |
+| E–5 | 190&nbsp; |
+| E–4 | 165&nbsp; |
+| E–3 | 150&nbsp; |
+| E–2 | 150&nbsp; |
+| E–1 | 150&nbsp; |
 
 (c)(1) For the performance of hazardous duty described in paragraphs (2) through (12) of subsection (a), a member is entitled to $150 a month. However, a member performing hazardous duty described in paragraph (3) of that subsection who also performs as an essential part of such duty parachute jumping in military free fall operations involving parachute deployment by the jumper without the use of a static line is entitled to $225 a month.
 
@@ -192,7 +119,7 @@ $150&nbsp;&nbsp;
 
 (2)(A) If in any calendar month a member performs duty as described in paragraph (1) and while entitled to basic pay also performs hazardous duty as described in the same paragraph of subsection (a) as constitutes the predicate for his entitlement under paragraph (1), the earned units of measuring entitlement for incentive pay under this section shall be combined. If the sum of units determined under the preceding sentence equals or exceeds the minimum standard prescribed by the President for entitlement to pay specified under subsections (b) and (c) for a member of corresponding grade who is entitled to basic pay for the entire relevant month, the member shall be entitled to an increase in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) or (c) for the performance of that hazardous duty by a member of corresponding grade who is entitled to basic pay for the entire month.
 
-(B) A member who qualifies for entitlement under this paragraph is entitled to the increase for each day in the relevant month in which he is entitled to basic pay pursuant to section 204 of this title or to compensation under section 206 of this title.
+(B) A member who qualifies for entitlement under this paragraph is entitled to the increasefor each day in the relevant month in which he is entitled to basic pay pursuant to section 204 of this title or to compensation under section 206 of this title.
 
 (C) In this paragraph, the term "units" means the significant increments of performance prescribed as qualifying standards in regulations promulgated by the President pursuant to this section.
 
@@ -290,7 +217,7 @@ Pub. L. 105–85, §614(a)(1), in table substituted "150" for "110" as monthly r
 
 Subsec. (c)(1). Pub. L. 105–85, §614(c), substituted "$150" for "$110" and "$225" for "$165".
 
-Subsec. (c)(2)(A). Pub. L. 105–85, §614(b), in table substituted "150" for "100" in first column for pay grade W–1, "150" for "110" in last column for pay grade O–7 and above, and "150" for "125" in first column for pay grades O–1 to O–3, E–4 and below, and E–5, in second column for pay grade W–1, and in fourteenth and fifteenth columns for pay grade E–4 and below.
+Subsec. (c)(2)(A). Pub. L. 105–85, §614(b), in table substituted "150" for "100" in first column for pay gradeW–1, "150" for "110" in last column for pay grade O–7 and above, and "150" for "125" in first column for pay grades O–1 to O–3, E–4 and below, and E–5, in second column for pay grade W–1, and in fourteenth and fifteenth columns for pay grade E–4 and below.
 
 <b>1996</b>—Subsec. (a)(11). Pub. L. 104–106, §615(a), substituted "a member" for "an officer (other than a warrant officer)".
 
@@ -368,7 +295,7 @@ Subsec. (g). Pub. L. 93–294, §2(2), repealed subsec. (g) which required the S
 
 <b>1972</b>—Subsec. (a)(2)(A). Pub. L. 92–436 included in the hazardous duty for incentive pay of a member of a submarine operational command the application of hours served underway in excess of 48 during the preceding five calendar months and not used to qualify for incentive pay, to satisfy of underway time requirements for the current month.
 
-<b>1966</b>—Subsec. (a)(2). Pub. L. 89–718 made only style changes by capitalizing letter designations for cls. "A", "B", and "C" and by setting off text following cl. C through the device of moving the margin to the left of the margin for the clauses.
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–718 made only style changes by capitalizing letter designations for cls. "A", "B", and "C" and by setting off text following cl. Cthrough the device of moving the margin to the left of the margin for the clauses.
 
 <b>1965</b>—Subsec. (a)(2). Pub. L. 89–278 included duty as a member of a submarine operational command staff whose duties require serving on a submarine during underway operations for certain specified periods within term "hazardous duty".
 
@@ -392,7 +319,7 @@ Pub. L. 107–107, div. A, title VI, §615(c), Dec. 28, 2001, 115 Stat. 1136, pr
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title VI, §614(b), Oct. 17, 1998, 112 Stat. 2040, provided that: "The amendment made bysubsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date."
+Pub. L. 105–261, div. A, title VI, §614(b), Oct. 17, 1998, 112 Stat. 2040, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date."
 
 #### Effective Date of 1991 Amendment
 
@@ -540,7 +467,7 @@ Ex. Ord. No. 10152, Aug. 17, 1950, 15 F.R. 5489, as amended by Ex. Ord. No. 1061
 
 #### Executive Order No. 11157
 
-Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, which related to regulations regarding incentive pay for hazardous duty, special pay for sea duty and duty at certain other locations, and basic allowances for subsistence and quarters, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out below.
+Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No.12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, which related to regulations regarding incentive pay for hazardous duty, special pay for sea duty and duty at certain other locations, and basic allowances for subsistence and quarters, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out below.
 
 #### Ex. Ord. No. 13294. Regulations Relating to Hazardous Duty Incentive Pay, Aviation Career Incentive Pay, and Submarine Duty Incentive Pay
 

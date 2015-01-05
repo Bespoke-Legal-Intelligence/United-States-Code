@@ -24,7 +24,7 @@ Review and approval.—The Secretary shall review and approve or disapprove rail
 
 &emsp;(4)
 
-Voluntary compliance.—A railroad carrier that is not required to submit a railroad safety risk reduction program under this section may voluntarily submit a program thatmeets the requirements of this section to the Secretary. The Secretary shall approve or disapprove any program submitted under this paragraph.
+Voluntary compliance.—A railroad carrier that is not required to submit a railroad safety risk reduction program under this section may voluntarily submit a program that meets the requirements of this section to the Secretary. The Secretary shall approve or disapprove any program submitted under this paragraph.
 
 (b)
 
@@ -96,7 +96,7 @@ Additional elements.—A railroad shall consider the need to include in its fati
 
 &emsp;&emsp;(C) Effects on employee fatigue of an employee's short-term or sustained response to emergency situations, such as derailments and natural disasters, or engagement in other intensive working conditions.
 
-&emsp;&emsp;(D) Scheduling practices for employees, including innovative scheduling practices, on-duty call practices, work and rest cycles, increased consecutive days off for employees, changes in shift patterns, appropriate scheduling practices for varying types of work, and other aspects of employee schedulingthat would reduce employee fatigue and cumulative sleep loss.
+&emsp;&emsp;(D) Scheduling practices for employees, including innovative scheduling practices, on-duty call practices, work and rest cycles, increased consecutive days off for employees, changes in shift patterns, appropriate scheduling practices for varying types of work, and other aspects of employee scheduling that would reduce employee fatigue and cumulative sleep loss.
 
 &emsp;&emsp;(E) Methods to minimize accidents and incidents that occur as a result of working at times when scientific and medical research have shown increased fatigue disrupts employees' circadian rhythm.
 

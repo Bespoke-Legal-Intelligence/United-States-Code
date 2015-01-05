@@ -23,6 +23,7 @@
 | [3124a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003124a%20-%20Federal-State%20partnership%20and%20coordination.md) | Federal-State partnership and coordination. |
 | [3125\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125%20-%20Annual%20report%20of%20Secretary%20of%20Agriculture%20to%20President%20and%20Congress.md) | Annual report of Secretary of Agriculture to President and Congress. |
 | [3125a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125a%20-%20National%20Agricultural%20Library.md) | National Agricultural Library. |
+| 3125a–1. | Agricultural and food law research, legal tools, and information. |
 | [3125b.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125b%20-%20National%20Rural%20Information%20Center%20Clearinghouse.md) | National Rural Information Center Clearinghouse. |
 | [3125c.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125c%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7859%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201173.md) | Repealed. |
 | [3126\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003126%20-%20Libraries%20and%20information%20network.md) | Libraries and information network. |
@@ -40,10 +41,11 @@
 | :--- | ---: |
 | [3151\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003151%20-%20Grants%20to%20enhance%20research%20capacity%20in%20schools%20of%20veterinary%20medicine.md) | Grants to enhance research capacity in schools of veterinary medicine. |
 | [3151a.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003151a%20-%20Veterinary%20medicine%20loan%20repayment.md) | Veterinary medicine loan repayment. |
+| [3151b.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003151b%20-%20Veterinary%20services%20grant%20program.md) | Veterinary services grant program. |
 | [3152\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003152%20-%20Grants%20and%20fellowships%20for%20food%20and%20agricultural%20sciences%20education.md) | Grants and fellowships for food and agricultural sciences education. |
 | [3153\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003153%20-%20National%20Agricultural%20Science%20Award.md) | National Agricultural Science Award. |
 | [3154\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003154%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20VII%2C%20%C2%A77110%28a%29%2C%20May%2022%2C%202008%2C%20122%20Stat.%201218%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20VII%2C%20%C2%A77110%28a%29%2C%20June%E2%80%A6.md) | Repealed. |
-| [3155\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003155%20-%20Policy%20research%20centers.md) | Policy research centers. |
+| [3155\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003155%20-%20Agricultural%20and%20food%20policy%20research%20centers.md) | Agricultural and food policy research centers. |
 | [3156\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003156%20-%20Education%20grants%20to%20Alaska%20Native%20serving%20institutions%20and%20Native%20Hawaiian%20serving%20institutions.md) | Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,8 +57,7 @@
 | [3171\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003171%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
 | [3172\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003172%20-%20Duties%20of%20Secretary%20of%20Agriculture.md) | Duties of Secretary of Agriculture. |
 | [3173\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003173%20-%20Research%20by%20Department%20of%20Agriculture.md) | Research by Department of Agriculture. |
-| [3174\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003174%20-%20Human%20nutrition%20intervention%20and%20health%20promotion%20research%20program.md) | Human nutrition intervention and health promotion research program. |
-| [3174a.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003174a%20-%20Pilot%20research%20program%20to%20combine%20medical%20and%20agricultural%20research.md) | Pilot research program to combine medical and agricultural research. |
+| 3174, 3174a. Repealed. |  |
 | [3175\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003175%20-%20Nutrition%20education%20program.md) | Nutrition education program. |
 | [3175a.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003175a%20-%20Nutrition%20and%20consumer%20education%3B%20Congressional%20findings.md) | Nutrition and consumer education; Congressional findings. |
 | [3175b.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003175b%20-%20Expansion%20of%20effective%20food%2C%20nutrition%2C%20and%20consumer%20education%20services.md) | Expansion of effective food, nutrition, and consumer education services. |
@@ -78,7 +79,7 @@
 | [3192\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003192%20-%20Definitions.md) | Definitions. |
 | [3193\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003193%20-%20Authorization%20to%20Secretary%20of%20Agriculture.md) | Authorization to Secretary of Agriculture. |
 | [3194\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003194%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7854%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
-| [3195\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003195%20-%20Continuing%20animal%20health%20and%20disease%20research%20programs.md) | Continuing animal health and disease research programs. |
+| [3195\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003195%20-%20Continuing%20animal%20health%20and%20disease%2C%20food%20security%2C%20and%20stewardship%20research%2C%20education%2C%20and%20extension%20programs.md) | Continuing animal health and disease, food security, and stewardship research, education, and extension programs. |
 | [3196\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003196%20-%20Research%20on%20national%20and%20regional%20animal%20health%20or%20disease%20problems.md) | Research on national and regional animal health or disease problems. |
 | [3197\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003197%20-%20Availability%20of%20appropriated%20funds.md) | Availability of appropriated funds. |
 | [3198\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003198%20-%20Withholding%20of%20appropriated%20funds.md) | Withholding of appropriated funds. |
@@ -98,8 +99,8 @@
 | [3222a.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7855%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
 | [3222b.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222b%20-%20Grants%20to%20upgrade%20agricultural%20and%20food%20sciences%20facilities%20at%201890%20land-grant%20colleges%2C%20including%20Tuskegee%20University.md) | Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University. |
 | 3222b–1. | Grants to upgrade agriculture and food sciences facilities at the District of Columbia land-grant university. |
-| 3222b–2. | Grants to upgrade agriculture and food sciences facilities and equipment at insular area land-grant institutions. |
-| [3222c.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222c%20-%20National%20research%20and%20training%20virtual%20centers.md) | National research and training virtual centers. |
+| 3222b–2. | Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities. |
+| [3222c.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222c%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77114%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20875.md) | Repealed. |
 | [3222d.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222d%20-%20Matching%20funds%20requirement%20for%20research%20and%20extension%20activities%20at%20eligible%20institutions.md) | Matching funds requirement for research and extension activities at eligible institutions. |
 | [3223\.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003223%20-%20Grants%20for%20acquisition%20and%20improvement%20of%20research%20facilities%20and%20equipment.md) | Grants for acquisition and improvement of research facilities and equipment. |
 | [3224\.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003224%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7873%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201175%3B%20Pub.%20L.%20105%E2%80%93185%2C%20title%20VI%2C%20%C2%A7606%28g%29%2C%20June%2023%2C%201998%2C%20112%E2%80%A6.md) | Repealed. |
@@ -142,7 +143,7 @@
 |  |  |
 | :--- | ---: |
 | [3310\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003310%20-%20Limitation%20on%20indirect%20costs%20for%20agricultural%20research%2C%20education%2C%20and%20extension%20programs.md) | Limitation on indirect costs for agricultural research, education, and extension programs. |
-| [3310a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003310a%20-%20Research%20equipment%20grants.md) | Research equipment grants. |
+| [3310a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003310a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77118%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20875.md) | Repealed. |
 | [3311\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003311%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [3312\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003312%20-%20Authorization%20of%20appropriations%20for%20extension%20education.md) | Authorization of appropriations for extension education. |
 | [3313\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003313%20-%20Payment%20of%20funds.md) | Payment of funds. |
@@ -210,6 +211,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XV—GENERAL PROVISIONS
+
+|  |  |
+| :--- | ---: |
+| [3371\.](Subchapter%20015%20%28XV%29%20-%20General%20Provisions/%C2%A7%2003371%20-%20Matching%20funds%20requirement.md) | Matching funds requirement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -229,3 +238,4 @@
 - [Subchapter 012 (XII) - Rangeland Research](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/README.md)
 - [Subchapter 013 (XIII) - Biosecurity](Subchapter%20013%20%28XIII%29%20-%20Biosecurity/README.md)
 - [Subchapter 014 (XIV) - Institutions of Higher Education in Insular Areas](Subchapter%20014%20%28XIV%29%20-%20Institutions%20of%20Higher%20Education%20in%20Insular%20Areas/README.md)
+- [Subchapter 015 (XV) - General Provisions](Subchapter%20015%20%28XV%29%20-%20General%20Provisions/README.md)

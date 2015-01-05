@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 101–189, §1621(a)(1), substituted "Department of Veteran
 
 &emsp;"(2) inactive duty training (other than work or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution under the sponsorship of an armed force or the Public Health Service);
 
-> if the Administrator of Veterans' Affairs determines that the death resulted from (A) disease or injury incurred or aggravated while performing duty under clause (1) or the travel described in subsection (b), or (B) injury incurred or aggravated while performing training under clause (2) or the travel described in subsection (b)(2).
+> if the Administrator of Veterans' Affairs determines that the death resulted from (A) disease or injury incurred or aggravated while performing duty underclause (1) or the travel described in subsection (b), or (B) injury incurred or aggravated while performing training under clause (2) or the travel described in subsection (b)(2).
 
 "(b) The travel covered by subsection (a) is—
 

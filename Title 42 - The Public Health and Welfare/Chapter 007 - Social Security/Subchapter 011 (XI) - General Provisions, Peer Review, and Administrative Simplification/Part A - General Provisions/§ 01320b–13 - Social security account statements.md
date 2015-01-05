@@ -10,7 +10,7 @@
 
 &emsp;(B) an estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for old-age, survivors, and disability insurance as shown by the records of the Commissioner on the date of the request;
 
-&emsp;(C) a separate estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for hospital insurance as shown by the records of the Commissioner on the date of the request;
+&emsp;(C) a separate estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual forhospital insurance as shown by the records of the Commissioner on the date of the request;
 
 &emsp;(D) an estimate of the potential monthly retirement, disability, survivor, and auxiliary benefits payable on the eligible individual's account together with a description of the benefits payable under the medicare program of subchapter XVIII of this chapter; and
 
@@ -32,7 +32,7 @@ The Commissioner shall, to the maximum extent practicable, take such steps as ar
 
 (1) By not later than September 30, 1995, the Commissioner shall provide a statement to each eligible individual who has attained age 60 by October 1, 1994, and who is not receiving benefits under subchapter II of this chapter and for whom a current mailing address can be determined through such methods as the Commissioner determines to be appropriate. In fiscal years 1995 through 1999 the Commissioner shall provide a statement to each eligible individual who attains age 60 in such fiscal years and who is not receiving benefits under subchapter II of this chapter and for whom a current mailing address can be determined through such methods as the Commissioner determines to be appropriate. The Commissioner shall provide with each statement to an eligible individual notice that such statement is updated annually and is available upon request.
 
-(2) Beginning not later than October 1, 1999, the Commissioner shall provide a statement on an annual basis to each eligible individual who is not receiving benefits under subchapter II of this chapter and for whom a mailing address can be determined through such methods as the Commissioner determines to be appropriate. With respect to statements provided to eligible individuals who have not attained age 50, such statements need not include estimates ofmonthly retirement benefits. However, if such statements provided to eligible individuals who have not attained age 50 do not include estimates of retirement benefit amounts, such statements shall include a description of the benefits (including auxiliary benefits) that are available upon retirement.
+(2) Beginning not later than October 1, 1999, the Commissioner shall provide a statement on an annual basis to each eligible individual who is not receiving benefits under subchapter II of this chapter and for whom a mailing address can be determined through such methods as the Commissioner determines to be appropriate. With respect to statements provided to eligible individuals who have not attained age 50, such statements need not include estimates of monthly retirement benefits. However, if such statements provided to eligible individuals who have not attained age 50 do not include estimates of retirement benefit amounts, such statements shall include a description of the benefits (including auxiliary benefits) that are available upon retirement.
 
 #### (d) Disclosure to governmental employees of effect of noncovered employment
 

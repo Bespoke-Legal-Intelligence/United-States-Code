@@ -4,7 +4,7 @@
 
 (b) The Secretary of State shall be responsible for formulation, coordination, and oversight of foreign policy related to international communications and information policy. The Secretary of State shall—
 
-&emsp;(1) exercise primary authority for the conduct of foreign policy with respect to such telecommunications functions, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this responsibility, the Secretary shall coordinate with other agencies as appropriate, and, in particular, shall give full consideration to the authority vested by law or Executive order in the Federal Communications Commission, the Department of Commerce and the Office of the United States Trade Representative in this area;
+&emsp;(1) exercise primary authority for the conduct of foreign policy with respect to such telecommunications functions, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this responsibility, the Secretary shall coordinate with other agencies as appropriate, and, in particular, shall give full consideration to the authority vested by law or Executive order in the Federal Communications Commission, the Department of Commerce and the Office of theUnited States Trade Representative in this area;
 
 &emsp;(2) maintain continuing liaison with other executive branch agencies concerned with international communications and information policy and with the Federal Communications Commission, as appropriate;
 
@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 103–236, §162(k)(1)(B)(i), inserted introductory provisi
 
 Subsec. (b)(1). Pub. L. 103–236, §162(k)(1)(B)(iv), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (b)(2). Pub. L. 103–236, §162(k)(1)(B)(ii), (iii), (v), redesignated par. (1) as (2), struck out "with the bureaus and offices of the Department of State and" after"continuing liaison", inserted "and with the Federal Communications Commission, as appropriate" before semicolon, and struck out former par. (2) which read as follows: "in accordance with such authority as may be delegated by the President pursuant to Executive order, chair such agency and interagency meetings as may be necessary to coordinate actions on pending issues to ensure proper policy coordination;".
+Subsec. (b)(2). Pub. L. 103–236, §162(k)(1)(B)(ii), (iii), (v), redesignated par. (1) as (2), struck out "with the bureaus and offices of the Department of State and" after "continuing liaison", inserted "and with the Federal Communications Commission, as appropriate" before semicolon, and struck out former par. (2) which read as follows: "in accordance with such authority as may be delegated by the President pursuant to Executive order, chair such agency and interagency meetings as may be necessary to coordinate actions on pending issues to ensure proper policy coordination;".
 
 Subsec. (b)(3). Pub. L. 103–236, §162(k)(1)(B)(vi), substituted "any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;" for "the Senior Interagency Group on International Communications and Information Policy".
 

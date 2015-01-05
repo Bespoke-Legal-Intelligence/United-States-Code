@@ -2,7 +2,7 @@
 
 Congress finds that—
 
-&emsp;(1) the safety and integrity of the United States food supply are vital to public health,to public confidence in the food supply, and to the success of the food sector of the Nation's economy;
+&emsp;(1) the safety and integrity of the United States food supply are vital to public health, to public confidence in the food supply, and to the success of the food sector of the Nation's economy;
 
 &emsp;(2) illnesses and deaths of individuals and companion animals caused by contaminated food—
 

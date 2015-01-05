@@ -22,7 +22,7 @@ The Secretary shall enter into contracts to provide educational training to all 
 
 #### (2) Loan conditions
 
-&emsp;The need of a borrower who satisfies the criteria set out in section 1922(a)(2) or 1941(a)(2) of this title for management assistance under this section shall not be cause for denial of eligibility of the borrower for a direct loan under this chapter.
+&emsp;The need of a borrower who satisfies the criteria set out in section 1922(a)(1)(B) or 1941(a)(1)(B) of this title for management assistance under this section shall not be cause for denial of eligibility of the borrower for a direct loan under this chapter.
 
 #### (d) Guidelines and curriculum
 
@@ -30,7 +30,7 @@ The Secretary shall issue regulations establishing guidelines and curriculum for
 
 #### (e) Payment
 
-A borrower shall pay for training received under this section, and may use funds from operating loans made under subchapter II of this chapter to pay for the training.
+A borrower shall pay for training received under this section, and may use funds from operating loans made under subchapter II to pay for the training.
 
 #### (f) Waivers
 
@@ -42,13 +42,15 @@ A borrower shall pay for training received under this section, and may use funds
 
 &emsp;The Secretary shall establish criteria providing for the application of paragraph (1) consistently in all counties nationwide.
 
-(Pub. L. 87–128, title III, §359, as added Pub. L. 101–624, title XVIII, §1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §805(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§5316, 5501(c), May 13, 2002, 116 Stat. 348, 351.)
+(Pub. L. 87–128, title III, §359, as added Pub. L. 101–624, title XVIII, §1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §805(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§5316, 5501(c), May 13, 2002, 116 Stat. 348, 351; Pub. L. 113–79, title V, §5306, Feb. 7, 2014, 128 Stat. 840.)
 
 #### References in Text
 
 For definition of "this chapter", referred to in subsecs. (a) and (c), see note set out under section 1921 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–79 substituted "section 1922(a)(1)(B) or 1941(a)(1)(B)" for "section 1922(a)(2) or 1941(a)(2)".
 
 <b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §5501(c), struck out "established pursuant to section 1982 of this title," after "appropriate county committee".
 

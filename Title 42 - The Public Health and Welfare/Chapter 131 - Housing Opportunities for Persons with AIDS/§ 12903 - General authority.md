@@ -26,7 +26,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 #### (2) Minimum grant
 
-&emsp;Subject only to the availability of amounts pursuant to appropriations Acts under section 12912 of this title, for each fiscal year each eligible grantee under paragraph (1) shall receive funding according to its proportionate share of the total, except that each entity shall receive a minimum allocation of $200,000 from subparagraphs (A) and (B) of paragraph (1) combined, and any increase this entails from the formula amount will be deducted from all other allocations exceeding $200,000 on a pro rata basis. If allocation under subparagraph (A) of paragraph (1) would allocate less than $200,000 for any State, the allocation for such State shall be $200,000 and the amount of the increase under this sentence shall be deducted on a pro rata basis from the allocations of the other States, except that a reduction under this subparagraph may not reduce the amount allocated to any eligible entity to less than $200,000.
+&emsp;Subject only to the availability of amounts pursuant to appropriations Acts under section 12912 of this title, for each fiscal year each eligible grantee under paragraph (1) shall receive funding according to its proportionate share ofthe total, except that each entity shall receive a minimum allocation of $200,000 from subparagraphs (A) and (B) of paragraph (1) combined, and any increase this entails from the formula amount will be deducted from all other allocations exceeding $200,000 on a pro rata basis. If allocation under subparagraph (A) of paragraph (1) would allocate less than $200,000 for any State, the allocation for such State shall be $200,000 and the amount of the increase under this sentence shall be deducted on a pro rata basis from the allocations of the other States, except that a reduction under this subparagraph may not reduce the amount allocated to any eligible entity to less than $200,000.
 
 #### (3) Nonformula allocation
 
@@ -56,7 +56,7 @@ Funds made available under this section shall be allocated among applications su
 
 &emsp;(3) a description of the public and private resources that are expected to be made available in connection with the proposed activities;
 
-&emsp;(4) assurances satisfactory to the Secretary that any property purchased, leased, rehabilitated, renovated, or converted with assistance under this section shall be operated for notless than 10 years for the purpose specified in the application, except as otherwise specified in this chapter;
+&emsp;(4) assurances satisfactory to the Secretary that any property purchased, leased, rehabilitated, renovated, or converted with assistance under this section shall be operated for not less than 10 years for the purpose specified in the application, except as otherwise specified in this chapter;
 
 &emsp;(5) evidence in a form acceptable to the Secretary that the proposed activities will meet urgent needs that are not being met by available public and private sources; and
 
@@ -84,7 +84,7 @@ Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out fo
 
 In general.—90 percent of the amounts approved in appropriations Acts under section 12912 of this title shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
 
-&emsp;"(A) 75 percent among units of general local government located in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome and States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in subparagraph (A), and
+&emsp;"(A) 75 percent among units of general local government located in metropolitan statistical areas with populations in excess of 500,000 and more than1,500 cases of acquired immunodeficiency syndrome and States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in subparagraph (A), and
 
 &emsp;"(B) 25 percent among units of general local government in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome, that have a higher than average per capita incidence of acquired immunodeficiency syndrome."
 

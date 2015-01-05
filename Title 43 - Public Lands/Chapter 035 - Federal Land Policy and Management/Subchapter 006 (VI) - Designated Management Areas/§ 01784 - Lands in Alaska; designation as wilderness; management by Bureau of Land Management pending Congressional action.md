@@ -188,7 +188,7 @@ Management.—
 
 &emsp;&emsp;"(ii) Members of the Committee shall serve without pay.
 
-&emsp;&emsp;"(iii) The BLM shall hold meetings of the Lake Todatonten Special Management Area Committee at least once per year to discuss management issues within the Special Management Area. The BLM shall not allow any new type of activity in the Special Management Area without first conferring with the Committee in a timely manner.
+&emsp;&emsp;"(iii) The BLM shall hold meetings of the Lake Todatonten Special Management Area Committeeat least once per year to discuss management issues within the Special Management Area. The BLM shall not allow any new type of activity in the Special Management Area without first conferring with the Committee in a timely manner.
 
 &emsp;"(3)
 

@@ -24,7 +24,7 @@ In a Y2K action other than a claim for breach or repudiation of contract, and in
 
 #### (3) Certain claims excluded
 
-&emsp;For purposes of paragraph (1)(C), claims in which the defendant's actual or constructiveawareness of an actual or potential Y2K failure is an element of the claim under applicable law do not include claims for negligence but do include claims such as fraud, constructive fraud, breach of fiduciary duty, negligent misrepresentation, and interference with contract or economic advantage.
+&emsp;For purposes of paragraph (1)(C), claims in which the defendant's actual or constructive awareness of an actual or potential Y2K failure is an element of the claim under applicable law do not include claims for negligence but do include claims such as fraud, constructive fraud, breach of fiduciary duty, negligent misrepresentation, and interference with contract or economic advantage.
 
 #### (c) Control not determinative of liability
 
@@ -38,5 +38,5 @@ The protections for the exchanges of information provided by section 4 of the Ye
 
 #### References in Text
 
-Section 4 of the Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (d), is section 4 of Pub. L. 105–271, which was formerly set out in a note under section 1 of this title.
+Section 4 of the Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (d), is section 4 ofPub. L. 105–271, which was formerly set out in a note under section 1 of this title.
 

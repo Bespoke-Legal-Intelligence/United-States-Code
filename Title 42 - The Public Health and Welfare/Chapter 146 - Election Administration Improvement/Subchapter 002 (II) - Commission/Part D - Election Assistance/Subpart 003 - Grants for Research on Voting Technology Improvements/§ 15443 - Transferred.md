@@ -1,0 +1,6 @@
+### §15443. Transferred
+
+#### Codification
+
+Section 15443 was editorially reclassified as section 21043 of Title 52, Voting and Elections.
+

@@ -26,7 +26,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 &emsp;(C) the enforcement and monitoring of environmental quality laws.
 
-(3) The 20 percent of the costs of planning, developing, and implementing a program for which a grant is awarded under paragraph (1) that are not to be paid from such grant may be paid by the grant recipient in cash or through the provision of property or services, but only to the extent that such cash or property is from any source (including any Federal agency) other than a program, contract, or grant authorized under this subchapter.
+(3) The 20 percent of the costs of planning, developing, and implementing a program for which a grant is awarded under paragraph (1) that arenot to be paid from such grant may be paid by the grant recipient in cash or through the provision of property or services, but only to the extent that such cash or property is from any source (including any Federal agency) other than a program, contract, or grant authorized under this subchapter.
 
 (4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian tribes to the Commissioner in such form as the Commissioner shall prescribe.
 
@@ -34,7 +34,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 This Act, referred to in subsec. (a), probably means the Native American Programs Act of 1974, Pub. L. 88–452, title VIII, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to this subchapter, see section 2991 of this title.
 

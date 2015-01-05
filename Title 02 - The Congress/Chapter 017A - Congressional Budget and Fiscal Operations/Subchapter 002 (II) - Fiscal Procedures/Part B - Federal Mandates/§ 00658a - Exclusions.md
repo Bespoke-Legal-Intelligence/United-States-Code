@@ -14,7 +14,7 @@ This part shall not apply to any provision in a bill, joint resolution, amendmen
 
 &emsp;(6) the President designates as emergency legislation and that the Congress so designates in statute; or
 
-&emsp;(7) relates to the old-age, survivors, and disability insurance program under title II of theSocial Security Act \[42 U.S.C. 401 et seq.\] (including taxes imposed by sections 3101(a) and 3111(a) of title 26 (relating to old-age, survivors, and disability insurance)).
+&emsp;(7) relates to the old-age, survivors, and disability insurance program under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] (including taxes imposed by sections 3101(a) and 3111(a) of title 26 (relating to old-age, survivors, and disability insurance)).
 
 (Pub. L. 93–344, title IV, §422, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 53.)
 

@@ -8,7 +8,7 @@
 
 (d) A person causing or allowing the departure of a vessel from a place within the jurisdiction of the United States in violation of a detention order issued under section 5113 of this title commits a class A misdemeanor.
 
-(e) A person causing or allowing the alteration, concealment, or removal of a mark placed on a vessel under section 5103(b) of this title and the regulations prescribed under this chapter, except to make a lawful change or to escape enemy capture in time of war, commits a class A misdemeanor.
+(e) A person causing or allowing the alteration, concealment, or removal of a mark placedon a vessel under section 5103(b) of this title and the regulations prescribed under this chapter, except to make a lawful change or to escape enemy capture in time of war, commits a class A misdemeanor.
 
 (Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1918; Pub. L. 101–380, title IV, §4302(d), Aug. 18, 1990, 104 Stat. 538.)
 

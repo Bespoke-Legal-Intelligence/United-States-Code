@@ -20,7 +20,7 @@ Fund Purposes.—(1) Funds in the National Defense Sealift Fund shall be availab
 
 &emsp;(D) Research and development relating to national defense sealift.
 
-&emsp;(E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), and for the costs of acquisition ofvessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
+&emsp;(E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
 
 (2) Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
 
@@ -40,7 +40,7 @@ Deposits.—There shall be deposited in the Fund the following:
 
 &emsp;&emsp;(D) research and development relating to national defense sealift.
 
-&emsp;(2) All receipts from the disposition of national defense sealift vessels, excluding receipts from the sale, exchange, or scrapping of National Defense Reserve Fleet vessels under sections 57101–57104 and chapter 573 of title 46.
+&emsp;(2) All receipts from the disposition of national defense sealift vessels, excluding receipts from the sale, exchange, or scrapping ofNational Defense Reserve Fleet vessels under sections 57101–57104 and chapter 573 of title 46.
 
 &emsp;(3) All receipts from the charter of vessels under section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 7291 note).
 

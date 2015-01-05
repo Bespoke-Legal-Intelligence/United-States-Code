@@ -29,7 +29,7 @@
 
 #### Effective Date
 
-Pub. L. 98–473, title II, §§212(a)(1), (3)–(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2010, 2031, as amended, enacted heading, analysis, and section 3673 of this chapter (§§3661 to 3673), provided that sections 3577, 3578, 3579, 3580, 3611, 3612, 3615, 3617, 3618, 3619, 3620, and 3656 of this title are renumbered as sections 3661, 3662, 3663, 3664, 3665, 3666, 3667, 3668, 3669, 3670, 3671, and 3672, respectively, of this chapter, and amended section 3663 of this chapter, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this chapter. Section 235 of Pub. L. 98–473, as amended, relating to effective dates, is set out as a note under section 3551 of this title.
+Pub. L. 98–473, title II, §§212(a)(1), (3)–(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2010, 2031, as amended, enacted heading, analysis, and section 3673 of this chapter (§§3661 to 3673), provided that sections 3577, 3578, 3579, 3580, 3611, 3612, 3615, 3617, 3618, 3619, 3620, and 3656 of this title are renumbered as sections 3661, 3662, 3663, 3664, 3665, 3666, 3667, 3668, 3669, 3670, 3671, and 3672, respectively, of this chapter, and amended section 3663 of this chapter, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this chapter. Section 235 of Pub. L. 98–473, as amended, relatingto effective dates, is set out as a note under section 3551 of this title.
 
 
 ---

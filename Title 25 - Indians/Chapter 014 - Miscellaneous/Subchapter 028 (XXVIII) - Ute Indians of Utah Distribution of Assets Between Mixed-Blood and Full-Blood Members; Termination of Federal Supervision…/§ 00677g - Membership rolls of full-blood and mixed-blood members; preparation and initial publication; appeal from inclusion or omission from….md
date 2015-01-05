@@ -6,5 +6,5 @@ The tribe shall have a period of thirty days from August 27, 1954 in which to pr
 
 #### Amendments
 
-<b>1956</b>—Act Aug. 2, 1956, prohibited constructions of this subchapter granting inheritable interest in tribal assets to full-blood members of the tribe or preventing future membership in the tribe in accordance with its constitution and bylaws.
+<b>1956</b>—Act Aug. 2, 1956, prohibited constructions of this subchapter granting inheritable interest in tribalassets to full-blood members of the tribe or preventing future membership in the tribe in accordance with its constitution and bylaws.
 

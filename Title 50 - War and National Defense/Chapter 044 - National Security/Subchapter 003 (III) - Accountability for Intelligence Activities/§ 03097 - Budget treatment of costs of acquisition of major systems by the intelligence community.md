@@ -2,7 +2,7 @@
 
 #### (a) Independent cost estimates
 
-(1) The Director of National Intelligence shall, in consultation with the head of each element ofthe intelligence community concerned, prepare an independent cost estimate of the full life-cycle cost of development, procurement, and operation of each major system to be acquired by the intelligence community.
+(1) The Director of National Intelligence shall, in consultation with the head of each element of the intelligence community concerned, prepare an independent cost estimate of the full life-cycle cost of development, procurement, and operation of each major system to be acquired by the intelligence community.
 
 (2)(A) Each independent cost estimate for a major system shall, to the maximum extent practicable, specify the amount required to be appropriated and obligated to develop, procure, and operate the major system in each fiscal year of the proposed period of development, procurement, and operation of the major system.
 
@@ -108,7 +108,7 @@ Pub. L. 108–177, title III, §312(a), Dec. 13, 2003, 117 Stat. 2606, provided 
 
 &emsp;"(4) Independent cost estimates, prepared by independent offices, have historically represented a more accurate projection of the costs of acquisition of major systems.
 
-&emsp;"(5) Recognizing the benefits associated with independent cost estimates for the acquisition of major systems, the Secretary of Defense has built upon the statutory requirement in section 2434 of title 10, United States Code, to develop and consider independent cost estimates for the acquisition of such systems by mandating the use of such estimates in budget requests of the Department of Defense.
+&emsp;"(5) Recognizing the benefits associated with independent cost estimates for the acquisition of majorsystems, the Secretary of Defense has built upon the statutory requirement in section 2434 of title 10, United States Code, to develop and consider independent cost estimates for the acquisition of such systems by mandating the use of such estimates in budget requests of the Department of Defense.
 
 &emsp;"(6) The mandatory use throughout the intelligence community of independent cost estimates for the acquisition of major systems will assist the President and Congress in the development and funding of budgets which more accurately reflect the requirements and priorities of the United States Government for intelligence and intelligence-related activities."
 

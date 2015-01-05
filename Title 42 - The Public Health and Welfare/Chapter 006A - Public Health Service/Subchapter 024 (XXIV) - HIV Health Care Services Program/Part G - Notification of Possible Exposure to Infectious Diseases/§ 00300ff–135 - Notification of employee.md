@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After receiving a notification for purposes of section 300ff–132 or 300ff–133(d)(2) of this title, adesignated officer of emergency response employees shall, to the extent practicable, immediately notify each of such employees who—
+After receiving a notification for purposes of section 300ff–132 or 300ff–133(d)(2) of this title, a designated officer of emergency response employees shall, to the extent practicable, immediately notify each of such employees who—
 
 &emsp;(1) responded to the emergency involved; and
 

@@ -10,5 +10,5 @@ Section was formerly classified identically to sections 38b and 125a of this tit
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives or the contingent fund” for “contingent fund of the House of Representatives or”.
+<b>1996</b>—Pub. L. 104–186 substituted "applicable accounts of the House of Representatives or the contingent fund" for "contingent fund of the House of Representatives or".
 

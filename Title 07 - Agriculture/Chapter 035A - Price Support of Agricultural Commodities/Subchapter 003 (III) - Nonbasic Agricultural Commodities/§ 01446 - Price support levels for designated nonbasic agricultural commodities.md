@@ -4,7 +4,7 @@
 
 (b) The price of honey shall be supported through loans, purchases, or other operations at a level not in excess of 90 per centum nor less than 60 per centum of the parity price thereof; and the price of tung nuts for each crop of tung nuts through the 1976 crop shall be supported through loans, purchases, or other operations at a level not in excess of 90 per centum nor less than 60 per centum of the parity price therefor: <i>Provided</i>, That in any crop year through the 1976 crop year in which the Secretary determines that the domestic production of tung oil will be less than the anticipated domestic demand for such oil, the price of tung nuts shall be supported at not less than 65 per centum of the parity price therefor.
 
-(c) Except as provided in section 1446e <sup>1</sup> of this title, the price of milk shall be supported at such level not in excess of 90 per centum nor less than 75 per centum of the parity price therefor as the Secretary determines necessary in order to assure an adequate supply of pure and wholesome milk to meet current needs, reflect changes in the cost of production, and assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs. Such price support shall be provided through the purchase of milk and the products of milk.
+(c) Except as provided in section 1446e <sup>1</sup> of this title, the price of milk shall be supported atsuch level not in excess of 90 per centum nor less than 75 per centum of the parity price therefor as the Secretary determines necessary in order to assure an adequate supply of pure and wholesome milk to meet current needs, reflect changes in the cost of production, and assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs. Such price support shall be provided through the purchase of milk and the products of milk.
 
 (d) Notwithstanding any other provision of law—
 
@@ -40,13 +40,13 @@
 
 &emsp;(D) The funds remitted to the Corporation under this paragraph shall be considered as included in the payments to a producer of milk for purposes of the minimum price provisions of the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937.
 
-&emsp;(E)(i) In lieu of any reductions in payments made by the Secretary for the purchase of milk and the products of milk under this subsection during the period beginning March 1, 1986, and ending September 30, 1986, required under the order issued by the President on February 1, 1986, under section 252 <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) \[2 U.S.C. 902\], the Secretary shall increase the amount of thereduction required under subparagraph (A) during the period beginning April 1, 1986, and ending September 30, 1986, as the sole means of meeting any reductions required under the order in payments made by the Secretary for the purchase of milk and the products of milk under this subsection.
+&emsp;(E)(i) In lieu of any reductions in payments made by the Secretary for the purchase of milk and the products of milk under this subsection during the period beginning March 1, 1986, and ending September 30, 1986, required under the order issued by the President on February 1, 1986, under section 252 <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) \[2 U.S.C. 902\], the Secretary shall increase the amount of the reduction required under subparagraph (A) during the period beginning April 1, 1986, and ending September 30, 1986, as the sole means of meeting any reductions required under the order in payments made by the Secretary for the purchase of milk and the products of milk under this subsection.
 
 &emsp;(ii) The aggregate amount of any increased reduction under clause (i) shall be equal, to the extent practicable, to the aggregate amount of the reduction that would otherwise be required under the order referred to in clause (i) in payments made by the Secretary for the purchase of milk and the products of milk under this subsection during the period beginning March 1, 1986, and ending September 30, 1986, except that the amount of any increased reduction under clause (i) may not exceed 12 cents per hundredweight of milk marketed.
 
 &emsp;(F)(i) The Secretary—
 
-&emsp;&emsp;(I) notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985 and any order issued by the President under section 252 <sup>1</sup> of such Act \[2 U.S.C. 902\] for a fiscal year; and
+&emsp;&emsp;(I) notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985and any order issued by the President under section 252 <sup>1</sup> of such Act \[2 U.S.C. 902\] for a fiscal year; and
 
 &emsp;&emsp;(II) in lieu of making any reduction in payments for the purchase of milk or the products of milk under this subsection during such fiscal year under any such order;
 
@@ -76,7 +76,7 @@
 
 &emsp;(v) Any producer of milk who seeks to enter into a contract for payments under this paragraph shall provide the Secretary with (I) evidence of such producer's marketing history; (II) the size and composition of the producer's dairy herd during the period the marketing history is determined; and (III) the size and composition of the producer's dairy herd at the time the bid is submitted, as the Secretary deems necessary and appropriate.
 
-&emsp;(vi) Except as provided in subparagraph (D), no producer who commenced marketing of milk in the 15-month period ending March 31,1986, shall be eligible to enter into a contract for payments under this subparagraph.
+&emsp;(vi) Except as provided in subparagraph (D), no producer who commenced marketing of milk in the 15-month period ending March 31, 1986, shall be eligible to enter into a contract for payments under this subparagraph.
 
 &emsp;(vii) A contract entered into under this paragraph by a producer who by reason of death cannot perform or assign such contract may be performed or assigned by the estate of such producer.
 
@@ -84,7 +84,7 @@
 
 &emsp;(C) In setting the terms and conditions of any milk diversion or milk production termination under this paragraph and of each contract made under this subparagraph, the Secretary shall take into account any adverse effect of such program or contracts on beef, pork, and poultry producers in the United States and shall take all feasible steps to minimize such effect.
 
-&emsp;(D) A producer who commenced marketing milk after December 31, 1984, shall be eligible to enter into a contract for payments under this subparagraph if such producer's entire milk production facility and entire dairy herd were transferred to the producer by reason of a gift from, or the death of, a member or members of the family of the producer. The term "member of the family of the producer" means (i) an ancestor of the producer, (ii) the spouse of the producer, (iii) a lineal descendant of the producer, or the producer's spouse, or a parent of the producer, or (iv) the spouse of any such lineal descendant.
+&emsp;(D) A producer who commenced marketing milk after December 31, 1984, shall be eligibleto enter into a contract for payments under this subparagraph if such producer's entire milk production facility and entire dairy herd were transferred to the producer by reason of a gift from, or the death of, a member or members of the family of the producer. The term "member of the family of the producer" means (i) an ancestor of the producer, (ii) the spouse of the producer, (iii) a lineal descendant of the producer, or the producer's spouse, or a parent of the producer, or (iv) the spouse of any such lineal descendant.
 
 &emsp;(E) Application for payment shall be made by producers through the county committees established under section 590h(b) of title 16.
 
@@ -108,7 +108,7 @@
 
 &emsp;(iii) Each person who retains or acquires an interest in dairy cattle or the production of milk in violation of a contract entered into under this paragraph shall be liable, in addition to any amount due under paragraph (3)(A)(iv), to a marketing penalty on the quantity of milk produced during the period in which such ownership is prohibited under the contract. Such penalty shall be computed at the rate or rates of the support price for milk in effect during the period in which the milk production occurred.
 
-&emsp;(iv) Each person who makes a false statement in a bid submitted under paragraph (3) as to (I) the marketings of milk for commercial use by the producer, or (II) the size or composition of the dairy herd that produced such marketings, or (III) the size or composition of the dairy herd at the time the bid is submitted shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of $5,000 for each head of cattle to which such statement applied.
+&emsp;(iv) Each person who makes a false statement in a bid submitted under paragraph (3) asto (I) the marketings of milk for commercial use by the producer, or (II) the size or composition of the dairy herd that produced such marketings, or (III) the size or composition of the dairy herd at the time the bid is submitted shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of $5,000 for each head of cattle to which such statement applied.
 
 &emsp;(v) Each person who makes a false statement as to the number of dairy cattle that was sold for slaughter or export under a contract under paragraph (3)(A) shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of not more than $5,000 for each head of cattle to which such statement applied.
 
@@ -206,7 +206,7 @@ Subsec. (d)(3)(D). Pub. L. 99–198, §101(b)(1), in amending subpar. (D) genera
 
 Subsec. (d)(3)(E). Pub. L. 99–198, §101(b)(1), (3), struck out subpar. (E) which specified conditions under which Secretary could modify contracts entered into under this paragraph, and redesignated subpar. (K) as (E).
 
-Subsec. (d)(3)(F). Pub. L. 99–198, §101(b)(1), struck out subpar. (F) which required domestic producers of milk seeking to enter into contracts for diversion payments to provide Secretary with evidence of such producer's marketing history, as defined by this subparagraph, which Secretary could adjust to take into account natural disasters or other conditions and factors where necessary.
+Subsec. (d)(3)(F). Pub. L. 99–198, §101(b)(1), struck out subpar. (F) which required domestic producers of milkseeking to enter into contracts for diversion payments to provide Secretary with evidence of such producer's marketing history, as defined by this subparagraph, which Secretary could adjust to take into account natural disasters or other conditions and factors where necessary.
 
 Subsec. (d)(3)(G). Pub. L. 99–198, §101(b)(1), struck out subpar. (G) which provided that no marketing history could be assigned to any producer who commenced marketing milk after Dec. 31, 1982, except as provided in subpar. (H).
 
@@ -356,9 +356,13 @@ Act Aug. 28, 1954, ch. 1041, title VII, §709, 68 Stat. 912, which provided that
 
 #### Inapplicability of Section
 
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(8) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(8) of this title.
+
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(8) of this title.
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(H) of this title.
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(H) of this title.
 
 #### Application of 1990 Amendments
 
@@ -408,7 +412,7 @@ Pub. L. 99–198, title I, §108, Dec. 23, 1985, 99 Stat. 1367, provided that: "
 
 #### National Commission on Dairy Policy
 
-Pub. L. 99–198, title I, subtitle D (§§141–146), Dec. 23, 1985, 99 Stat. 1374, as amended by Pub. L. 100–28, §1, Apr. 24, 1987, 101 Stat. 291, established a National Commission on Dairy Policy to study and make recommendations concerning future operation of the Federal program established to support price of milk marketed by producers in the United States, directed Commission to submit to Secretary of Agriculture and Congress, not later than Mar. 31, 1988, a report containing results of its study and its recommendations, and provided for termination of Commission 30 days after submitting its report.
+Pub. L. 99–198, title I, subtitle D (§§141–146), Dec. 23, 1985, 99 Stat. 1374, as amended by Pub. L. 100–28, §1, Apr.24, 1987, 101 Stat. 291, established a National Commission on Dairy Policy to study and make recommendations concerning future operation of the Federal program established to support price of milk marketed by producers in the United States, directed Commission to submit to Secretary of Agriculture and Congress, not later than Mar. 31, 1988, a report containing results of its study and its recommendations, and provided for termination of Commission 30 days after submitting its report.
 
 #### Applicability of Subsection (d)(2), (3) to 48 Contiguous States, December 1983, Through May 1984
 

@@ -10,7 +10,7 @@ As used in this chapter:
 
 (3) The term "disposal" means the discharge, deposit, injection, dumping, spilling, leaking, or placing of any solid waste or hazardous waste into or on any land or water so that such solid waste or hazardous waste or any constituent thereof may enter the environment or be emitted into the air or discharged into any waters, including ground waters.
 
-(4) The term "Federal agency" means any department, agency, or other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation, and the Government Printing Office.
+(4) The term "Federal agency" means any department, agency, or other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation, and the Government Publishing Office.
 
 (5) The term "hazardous waste" means a solid waste, or combination of solid wastes, which because of its quantity, concentration, or physical, chemical, or infectious characteristics may—
 
@@ -44,7 +44,7 @@ As used in this chapter:
 
 (18) The term "recoverable" refers to the capability and likelihood of being recovered from solid waste for a commercial or industrial use.
 
-(19) The term "recovered material" means waste material and byproducts which have beenrecovered or diverted from solid waste, but such term does not include those materials and byproducts generated from, and commonly reused within, an original manufacturing process.
+(19) The term "recovered material" means waste material and byproducts which have been recovered or diverted from solid waste, but such term does not include those materials and byproducts generated from, and commonly reused within, an original manufacturing process.
 
 (20) The term "recovered resources" means material or energy recovered from solid waste.
 
@@ -104,7 +104,7 @@ As used in this chapter:
 
 (41) The term "mixed waste" means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
-(Pub. L. 89–272, title II, §1004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2798; amended Pub. L. 95–609, §7(b), Nov. 8, 1978, 92 Stat. 3081; Pub. L. 96–463, §3, Oct. 15, 1980, 94 Stat. 2055; Pub. L. 96–482, §2, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 100–582, §3, Nov. 1, 1988, 102 Stat. 2958; Pub. L. 102–386, title I, §§103, 105(b), Oct. 6, 1992, 106 Stat. 1507, 1512.)
+(Pub. L. 89–272, title II, §1004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2798; amended Pub. L. 95–609, §7(b), Nov. 8, 1978, 92 Stat. 3081; Pub. L. 96–463, §3, Oct. 15, 1980, 94 Stat. 2055; Pub. L. 96–482, §2, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 100–582, §3, Nov. 1, 1988, 102 Stat. 2958; Pub. L. 102–386, title I, §§103, 105(b), Oct. 6, 1992, 106 Stat. 1507, 1512; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
@@ -134,7 +134,11 @@ Par. (10). Pub. L. 95–609, §7(b)(2), substituted "management" for "disposal".
 
 Par. (29)(C). Pub. L. 95–609, §7(b)(3), substituted "the collection, source separation, storage, transportation, transfer, processing, treatment or disposal" for "the treatment".
 
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in par. (4) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
 #### Transfer of Functions
 
-Enforcement functions of Administrator or other official of Environmental Protection Agency related to compliance with resource conservation and recovery permits used under this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official of Environmental Protection Agency related tocompliance with resource conservation and recovery permits used under this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

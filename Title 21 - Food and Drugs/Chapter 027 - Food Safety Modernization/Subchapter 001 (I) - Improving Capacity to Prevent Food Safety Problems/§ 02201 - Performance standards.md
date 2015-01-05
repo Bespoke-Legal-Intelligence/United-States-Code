@@ -20,7 +20,7 @@ The Secretary shall coordinate with the Secretary of Agriculture to avoid issuin
 
 #### (d) Review
 
-The Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding action levels, or regulations promulgated under this section.
+The Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding actionlevels, or regulations promulgated under this section.
 
 (Pub. L. 111–353, title I, §104, Jan. 4, 2011, 124 Stat. 3899.)
 

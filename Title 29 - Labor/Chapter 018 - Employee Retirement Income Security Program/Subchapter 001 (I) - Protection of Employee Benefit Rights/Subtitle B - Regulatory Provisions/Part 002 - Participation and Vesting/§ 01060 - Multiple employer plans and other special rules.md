@@ -68,35 +68,14 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;&emsp;If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title, the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table:
 
-<b> If the participant's age</b>
+&nbsp;
 
-<b>The</b>
-
-<b>  as of the beginning</b>
-
-<b>percentage</b>
-
-<b>  of the year is—</b>
-
-<b>is—</b>
-
-&emsp;&emsp;30 or less
-
-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Over 30 but less than 40
-
-4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;40 or over but less than 50
-
-6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;50 or over
-
-8\.&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>  If the participant's age as of the   beginning of the year is—</b> | <b>The percentage is—</b> |
+| :--- | ---: |
+| 30 or less | 2&nbsp;&nbsp; |
+| Over 30 but less than 40 | 4&nbsp;&nbsp; |
+| 40 or over but less than 50 | 6&nbsp;&nbsp; |
+| 50 or over | 8\. |
 
 #### (iv) Years of service
 
@@ -208,13 +187,65 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;The term "qualified cash or deferred arrangement" has the meaning given such term by section 401(k)(2) of title 26.
 
-(Pub. L. 93–406, title I, §210, Sept. 2, 1974, 88 Stat. 866; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(10), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title IX, §903(b)(1), (2)(A), Aug. 17, 2006, 120 Stat. 1044, 1048; Pub. L. 110–458, title I, §109(c)(2), Dec. 23, 2008, 122 Stat. 5111.)
+#### (f) Cooperative and small employer charity pension plans
+
+#### (1) In general
+
+&emsp;For purposes of this subchapter, except as provided in this subsection, a CSEC plan is an employee pension benefit plan (other than a multiemployer plan) that is a defined benefit plan—
+
+&emsp;&emsp;(A) to which section 104 of the Pension Protection Act of 2006 applies, without regard to—
+
+&emsp;&emsp;&emsp;(i) section 104(a)(2) of such Act;
+
+&emsp;&emsp;&emsp;(ii) the amendments to such section 104 by section 202(b) of the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010; and
+
+&emsp;&emsp;&emsp;(iii) paragraph (3)(B);
+
+&emsp;&emsp;(B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3) of title 26; or
+
+&emsp;&emsp;(C) that, as of June 25, 2010, was maintained by an employer—
+
+&emsp;&emsp;&emsp;(i) described in section 501(c)(3) of such title,
+
+&emsp;&emsp;&emsp;(ii) chartered under part B of subtitle II of title 36,
+
+&emsp;&emsp;&emsp;(iii) with employees in at least 40 States, and
+
+&emsp;&emsp;&emsp;(iv) whose primary exempt purpose is to provide services with respect to children.
+
+#### (2) Aggregation
+
+&emsp;All employers that are treated as a single employer under subsection (b) or (c) of section 414 of title 26 shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph <sup>2</sup> (B) and (C) of paragraph (1).
+
+#### (3) Election
+
+#### (A) In general
+
+&emsp;&emsp;If a plan falls within the definition of a CSEC plan under this subsection (withoutregard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013, not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
+
+#### (B) Special rule
+
+&emsp;&emsp;If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.
+
+(Pub. L. 93–406, title I, §210, Sept. 2, 1974, 88 Stat. 866; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(10), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title IX, §903(b)(1), (2)(A), Aug. 17, 2006, 120 Stat. 1044, 1048; Pub. L. 110–458, title I, §109(c)(2), Dec. 23, 2008, 122 Stat. 5111; Pub. L. 113–97, title I, §§101, 103(a), Apr. 7, 2014, 128 Stat. 1102, 1117; Pub. L. 113–235, div. P, §3(a), Dec. 16, 2014, 128 Stat. 2829.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
+Section 104 of the Pension Protection Act of 2006, referred to in subsec. (f)(1)(A), (3)(B), is section 104 of Pub. L. 109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (f)(3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1001 of this title and Tables.
+
 #### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–97, §101, added subsec. (f).
+
+Subsec. (f)(1)(C). Pub. L. 113–235, §3(a)(1), added subpar. (C).
+
+Subsec. (f)(2). Pub. L. 113–235, §3(a)(2), substituted "subparagraph (B) and (C) of paragraph (1)" for "paragraph (1)(B)".
+
+Subsec. (f)(3). Pub. L. 113–97, §103(a), added par. (3).
 
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–458, §109(c)(2)(A), inserted at end "In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately."
 
@@ -227,6 +258,14 @@ Subsec. (e). Pub. L. 109–280, §903(b)(1), added subsec. (e).
 <b>1989</b>—Subsec. (c). Pub. L. 101–239, §7894(c)(10), substituted "and (e)(3)(C) of such Code" for "and (e)(3)(C) of such code", which for purposes of codification was translated as "and (e)(3)(C) of title 26" thus requiring no change in text.
 
 Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### Effective Date of 2014 Amendment
+
+Amendments by Pub. L. 113–235 effective as if included in the amendments made by the Cooperative and Small Employer Charity Pension Flexibility Act, Pub. L. 113–97, see section 3(c) of Pub. L. 113–235, set out as a note under section 414 of Title 26, Internal Revenue Code.
+
+Amendment by section 101 of Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+Pub. L. 113–97, title I, §103(d), Apr. 7, 2014, 128 Stat. 1120, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under section 401 of Title 26, Internal Revenue Code\] shall apply as of the date of enactment of this Act \[Apr. 7, 2014\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -247,4 +286,6 @@ Amendment by section 7894(c)(10) of Pub. L. 101–239 effective, except as other
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "subparagraphs".</i>
 

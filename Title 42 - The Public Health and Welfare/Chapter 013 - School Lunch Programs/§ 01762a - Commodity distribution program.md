@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law, the Secretary shall—
 
-&emsp;(1) use funds available to carry out the provisions of section 612c of title 7 which are not expended or needed to carry out such provisions, to purchase (without regard to the provisions of existing law governing the expenditure of public funds) agricultural commodities and their products of the types customarily purchased under such section (which may include domestic seafood commodities and theirproducts), for donation to maintain the annually programmed level of assistance for programs carried on under this chapter, the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], and title III of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq.\]; and
+&emsp;(1) use funds available to carry out the provisions of section 612c of title 7 which are not expended or needed to carry out such provisions, to purchase (without regard to the provisions of existing law governing the expenditure of public funds) agricultural commodities and their products of the types customarily purchased under such section (which may include domestic seafood commodities and their products), for donation to maintain the annually programmed level of assistance for programs carried on under this chapter, the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], and title III of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq.\]; and
 
 &emsp;(2) if stocks of the Commodity Credit Corporation are not available, use the funds of such Corporation to purchase agricultural commodities and their products of the types customarily available under section 1431 of title 7, for such donation.
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, the Secretary shall—
 
 #### (c) Authorization of appropriations for purchase of products or for cash payments in lieu of donations
 
-The Secretary may use funds appropriated from the general fund of the Treasury to purchase agricultural commodities and their products of the types customarily purchased for donation under section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965 or for cash payments in lieu of such donations under section 311(b)(1) <sup>1</sup> of such Act. There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this subsection.
+The Secretary may use funds appropriated from the general fund of the Treasury to purchase agricultural commodities and their products of the types customarily purchased for donation under section 311(a)(4) <sup>1</sup> of the OlderAmericans Act of 1965 or for cash payments in lieu of such donations under section 311(b)(1) <sup>1</sup> of such Act. There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this subsection.
 
 #### (d) Assistance procedures; cost and benefits, review; technical assistance; report to Congress; food quality standards contracting procedures
 
@@ -86,7 +86,7 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 &emsp;&emsp;(G) schools that offer irradiated food products are encouraged to offer alternatives to irradiated food products as part of the meal plan used by the schools.
 
-(June 4, 1946, ch. 281, §14, as added Pub. L. 93–326, §2, June 30, 1974, 88 Stat. 286; amended Pub. L. 94–105, §10, Oct. 7, 1975, 89 Stat. 515; Pub. L. 95–166, §6, Nov. 10, 1977, 91 Stat. 1334; Pub. L. 95–627, §12(b), Nov. 10, 1978, 92 Stat. 3625; Pub. L. 96–499, title II, §202(c), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§813(a), 819(j), Aug. 13, 1981, 95 Stat. 530, 533; Pub. L. 98–459, title VIII, §801(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–500, title III, §§312, 363, Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, and Pub. L. 99–591, title III, §§312, 363, Oct. 30, 1986, 100 Stat. 3341–363, 3341–371; Pub. L. 99–661, div. D, title I, §4102, title IV, §4403, Nov. 14, 1986, 100 Stat. 4071, 4079; Pub. L. 100–356, §2, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §103(a)–(b)(2)(A), (c), Nov. 10, 1989, 103 Stat. 882; Pub. L. 103–448, title I, §115, Nov. 2, 1994, 108 Stat. 4713; Pub. L. 104–193, title VII, §707, Aug. 22, 1996, 110 Stat. 2293; Pub. L. 105–336, title I, §§101(b), 106, Oct. 31, 1998, 112 Stat. 3144, 3149; Pub. L. 108–134, §4, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §4, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§117, 118, June 30, 2004, 118 Stat. 752; Pub. L. 111–296, title IV, §441(a)(6), Dec. 13, 2010, 124 Stat. 3264.)
+(June 4, 1946, ch. 281, §14, as added Pub. L. 93–326, §2, June 30, 1974, 88 Stat. 286; amended Pub. L. 94–105, §10, Oct. 7, 1975, 89 Stat. 515; Pub. L.95–166, §6, Nov. 10, 1977, 91 Stat. 1334; Pub. L. 95–627, §12(b), Nov. 10, 1978, 92 Stat. 3625; Pub. L. 96–499, title II, §202(c), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§813(a), 819(j), Aug. 13, 1981, 95 Stat. 530, 533; Pub. L. 98–459, title VIII, §801(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–500, title III, §§312, 363, Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, and Pub. L. 99–591, title III, §§312, 363, Oct. 30, 1986, 100 Stat. 3341–363, 3341–371; Pub. L. 99–661, div. D, title I, §4102, title IV, §4403, Nov. 14, 1986, 100 Stat. 4071, 4079; Pub. L. 100–356, §2, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §103(a)–(b)(2)(A), (c), Nov. 10, 1989, 103 Stat. 882; Pub. L. 103–448, title I, §115, Nov. 2, 1994, 108 Stat. 4713; Pub. L. 104–193, title VII, §707, Aug. 22, 1996, 110 Stat. 2293; Pub. L. 105–336, title I, §§101(b), 106, Oct. 31, 1998, 112 Stat. 3144, 3149; Pub. L. 108–134, §4, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §4, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§117, 118, June 30, 2004, 118 Stat. 752; Pub. L. 111–296, title IV, §441(a)(6), Dec. 13, 2010, 124 Stat. 3264.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Subsec. (b). Pub. L. 103–448, §115(2), designated existing provisions as par.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–147, §103(a), substituted "1994" for "1989".
 
-Subsec. (g). Pub. L. 101–147, §103(b)(1), (2)(A), amended subsec. (g), as amended identically by Pub. L. 99–500 and 99–591, §363, and Pub. L. 99–661, §4403, and as further amended by Pub. L. 100–356, §2, to read as if only the amendment by Pub. L. 99–661 was enacted, and further amended subsec. (g) identically to the amendmentsthat were made by section 2(a) and (b) of Pub. L. 100–356, resulting in changing text by striking out only the language that was inserted by section 2(c) of Pub. L. 100–356 at the end of par. (3)(A), "The Secretary shall complete action on any claim submitted under this subparagraph not later than 45 days after June 28, 1988.", see 1986 and 1988 Amendment notes below.
+Subsec. (g). Pub. L. 101–147, §103(b)(1), (2)(A), amended subsec. (g), as amended identically by Pub. L. 99–500 and 99–591, §363, and Pub. L. 99–661, §4403, and as further amended by Pub. L. 100–356, §2, to read as if only the amendment by Pub. L. 99–661 was enacted, and further amended subsec. (g) identically to the amendments that were made by section 2(a) and (b) of Pub. L. 100–356, resulting in changing text by striking out only the language that was inserted by section 2(c) of Pub. L. 100–356 at the end of par. (3)(A), "The Secretary shall complete action on any claim submitted under this subparagraph not later than 45 days after June 28, 1988.", see 1986 and 1988 Amendment notes below.
 
 Subsec. (g)(3)(A). Pub. L. 101–147, §103(c), substituted last four sentences for former last two sentences which read as follows: "The Secretary, in computing losses sustained by any school district under the preceding sentence, shall base such computation on the actual amount of assistance received by such school district under this chapter for the school year ending June 30, 1982, including—
 
@@ -146,7 +146,7 @@ Pub. L. 100–356, §2(a), inserted at end "The Secretary, in computing losses s
 
 &emsp;"(ii) the value of assistance provided in the form of either cash or commodity letters of credit.
 
-> The Secretary may provide cash compensation under this subparagraph only to eligible school districts that submit applications for such compensation not later than May 1, 1988."
+> The Secretary may provide cash compensation under this subparagraph only to eligible school districts thatsubmit applications for such compensation not later than May 1, 1988."
 
 Subsec. (g)(3)(B). Pub. L. 100–356, §2(b), substituted "such sums as may be necessary" for "$50,000".
 

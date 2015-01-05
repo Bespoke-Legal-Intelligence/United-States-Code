@@ -58,7 +58,7 @@ To be eligible to receive assistance under this part, a project shall advance ef
 
 #### (A) Allocation of funds
 
-&emsp;&emsp;The Secretary shall ensure that up to 30 percent of the funds made available under section 15961(a) of this title are used to fund projects other than those described in paragraph (1).
+&emsp;&emsp;The Secretary shall ensure that up to 30 percent of the funds made available undersection 15961(a) of this title are used to fund projects other than those described in paragraph (1).
 
 #### (B) Technical milestones
 
@@ -216,7 +216,7 @@ This Act, referred to in subsec. (i), is Pub. L. 109–58, Aug. 8, 2005, 119 Sta
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1)(B)(ii)(I). Pub. L. 110–140 added subcl. (I) and struck out former subcl. (I) which read asfollows: "to remove at least 99 percent of sulfur dioxide;".
+<b>2007</b>—Subsec. (b)(1)(B)(ii)(I). Pub. L. 110–140 added subcl. (I) and struck out former subcl. (I) which read as follows: "to remove at least 99 percent of sulfur dioxide;".
 
 #### Effective Date of 2007 Amendment
 

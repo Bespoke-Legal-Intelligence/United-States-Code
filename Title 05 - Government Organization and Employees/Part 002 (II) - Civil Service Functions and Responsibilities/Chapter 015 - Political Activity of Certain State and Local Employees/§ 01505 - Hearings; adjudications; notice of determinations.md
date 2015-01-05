@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 5 U.S.C. 118k(b) (3d sentence, less 4th, through 17th words, and 4th sentence).
 
-July 19, 1940, ch. 640, §4 “Sec. 12(b) (3d sentence, less 4th through 17th words, and 4th sentence)”, 54 Stat. 768.
+July 19, 1940, ch. 640, §4 "Sec. 12(b) (3d sentence, less 4th through 17th words, and 4th sentence)", 54 Stat. 768.
 
 June 11, 1960, Pub. L. 86–507, §1(1), 74 Stat. 200.
 
@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Merit Systems Protection Board” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454 substituted "Merit Systems Protection Board" for "Civil Service Commission".
 
 #### Effective Date of 1978 Amendment
 

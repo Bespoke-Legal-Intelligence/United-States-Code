@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (C) Archer MSAs and HSAs
 
-&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage underan arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
+&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage under an arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
 
 #### (D) Allocation on a monthly basis
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 #### (C) Waiver by Secretary
 
-&emsp;&emsp;In the case of any such failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by paragraph (1), to the extent that the payment of such penalty would be excessive or otherwise inequitable relative to the failure involved.
+&emsp;&emsp;In the case of any such failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by paragraph (1), to theextent that the payment of such penalty would be excessive or otherwise inequitable relative to the failure involved.
 
 #### (f) Other definitions and special rules
 

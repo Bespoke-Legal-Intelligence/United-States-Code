@@ -52,7 +52,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the specific project for which the grant proposal is submitted, including the manner in which the grant will be used to develop, offer, or improve an educational or career training program that is suited to workers eligible for training under section 2296 of this title;
 
-&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted willmeet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title; and
+&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will meet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title; and
 
 &emsp;&emsp;&emsp;(iii) any previous experience of the eligible institution in providing educational or career training programs to workers eligible for training under section 2296 of this title.
 

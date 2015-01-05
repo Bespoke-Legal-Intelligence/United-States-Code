@@ -34,7 +34,7 @@ The Secretary may make expenditures from the Storage Fund, subject to subsection
 
 &emsp;(2) the administrative cost of the interim storage program;
 
-&emsp;(3) the costs associated with acquisition, design, modification, replacement, operation,and construction of facilities at an interim storage site, consistent with the restrictions in section 10155 of this title;
+&emsp;(3) the costs associated with acquisition, design, modification, replacement, operation, and construction of facilities at an interim storage site, consistent with the restrictions in section 10155 of this title;
 
 &emsp;(4) the cost of transportation of spent nuclear fuel; and
 
@@ -42,7 +42,7 @@ The Secretary may make expenditures from the Storage Fund, subject to subsection
 
 #### (e) Impact assistance
 
-(1) Beginning the first fiscal year which commences after January 7, 1983, the Secretary shall make annual impact assistance payments to a State or appropriate unit of local government, or both, in order to mitigate social or economic impacts occasioned by the establishment and subsequent operation of any interim storage capacity within the jurisdicational <sup>1</sup> boundaries of such government or governments and authorized under this part: <i>Provided, however</i>, That such impact assistance payments shall not exceed (A) ten per centum of the costs incurred in paragraphs (1) and (2), or (B) $15 per kilogram of spent fuel, whichever is less;
+(1) Beginning the first fiscal year which commences after January 7, 1983, the Secretary shall make annual impact assistance payments to a State or appropriate unit of local government, or both, in order to mitigate social or economic impacts occasioned by the establishment and subsequent operation of any interim storage capacity within the jurisdicational <sup>1</sup> boundaries ofsuch government or governments and authorized under this part: <i>Provided, however</i>, That such impact assistance payments shall not exceed (A) ten per centum of the costs incurred in paragraphs (1) and (2), or (B) $15 per kilogram of spent fuel, whichever is less;
 
 (2) Payments made available to States and units of local government pursuant to this section shall be—
 

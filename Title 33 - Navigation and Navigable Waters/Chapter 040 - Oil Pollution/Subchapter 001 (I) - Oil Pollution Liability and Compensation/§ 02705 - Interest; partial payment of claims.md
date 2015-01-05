@@ -8,7 +8,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the period for which interest shall be paid is the period beginning on the 30th day following thedate on which the claim is presented to the responsible party or guarantor and ending on the date on which the claim is paid.
+&emsp;Except as provided in paragraph (2), the period for which interest shall be paid is the period beginning on the 30th day following the date on which the claim is presented to the responsible party or guarantor and ending on the date on which the claim is paid.
 
 #### (2) Exclusion of period due to offer by guarantor
 
@@ -16,7 +16,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (3) Exclusion of periods in interests of justice
 
-&emsp;If in any period a claimant is not paid due to reasons beyond the control of the responsible party or because it would not serve the interests of justice, no interest shall accrue under this section during that period.
+&emsp;If in any period a claimant is not paid due to reasons beyond the control of the responsibleparty or because it would not serve the interests of justice, no interest shall accrue under this section during that period.
 
 #### (4) Calculation of interest
 

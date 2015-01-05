@@ -16,7 +16,7 @@ Period of Availability.—(1) The period of availability of an amount under subs
 
 &emsp;(A) expires 180 days after the expiration of the period for bringing an action on that claim in the United States Court of Federal Claims under section 7104(b) of title 41 if, within that 180-day period—
 
-&emsp;&emsp;(i) no appeal on the claim is commenced at the Armed Services Board of Contract Appeals under section 7 of such Act; and
+&emsp;&emsp;(i) no appeal on the claim is commenced at the Armed Services Board of Contract Appeals under section 7104(a) of such title; and
 
 &emsp;&emsp;(ii) no action on the claim is commenced in a court of the United States; or
 
@@ -24,19 +24,19 @@ Period of Availability.—(1) The period of availability of an amount under subs
 
 &emsp;&emsp;(i) in the case of a settlement of the claim, 180 days after the date of the settlement; or
 
-&emsp;&emsp;(ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7 <sup>1</sup> of the Contract Disputes Act of 1978 or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
+&emsp;&emsp;(ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7104(a) of title 41 or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
 
 (2) While available under this section, an amount may be obligated or expended only for a purpose described in subsection (a).
 
 (3) Upon the expiration of the period of availability of an amount under paragraph (1), the amount shall be covered into the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 105–85, div. A, title VIII, §831(a), Nov. 18, 1997, 111 Stat. 1841; amended Pub. L. 108–136, div. A, title X, §1031(a)(21), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, §5(b)(32), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, §1061(15), Dec. 31, 2011, 125 Stat. 1583.)
-
-#### References in Text
-
-Section 7 of the Contract Disputes Act of 1978, referred to in subsec. (b)(1)(B)(ii), means section 7 of Pub. L. 95–563, which was classified to section 606 of former Title 41, Public Contracts, and was repealed and restated as section 7104(a) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+(Added Pub. L. 105–85, div. A, title VIII, §831(a), Nov. 18, 1997, 111 Stat. 1841; amended Pub. L. 108–136, div. A, title X, §1031(a)(21), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, §5(b)(32), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, §1061(15), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 113–291, div. A, title X, §1071(a)(8), Dec. 19, 2014, 128 Stat. 3504.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(A)(i). Pub. L. 113–291, §1071(a)(8)(A), substituted "section 7104(a) of such title" for "section 7 of such Act".
+
+Subsec. (b)(1)(B)(ii). Pub. L. 113–291, §1071(a)(8)(B), substituted "section 7104(a) of title 41" for "section 7 of the Contract Disputes Act of 1978".
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(b)(32)(A), substituted "chapter 71 of title 41" for "the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)" in introductory provisions.
 
@@ -55,6 +55,4 @@ Subsec. (c)(2). Pub. L. 108–136, §1031(a)(21)(C), substituted "under this sec
 Subsec. (c)(3). Pub. L. 108–136, §1031(a)(21)(D), substituted "under this section during that fiscal year" for "in such preceding year".
 
 Subsec. (c)(4). Pub. L. 108–136, §1031(a)(21)(E), substituted "under this section during that fiscal year" for "in such preceding year".
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,13 +30,13 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;&emsp;(ii) a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election; or
 
-&emsp;(B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission.<sup>1</sup>
+&emsp;(B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision ofsecurities-related advice, then such adviser shall register with the Commission.<sup>1</sup>
 
 &emsp;(7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 \[15 U.S.C. 80a–53\], who solely advises—
 
 &emsp;&emsp;(A) small business investment companies that are licensees under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\];
 
-&emsp;&emsp;(B) entities that have received from the Small Business Administration notice to proceed to qualify for a license as a smallbusiness investment company under the Small Business Investment Act of 1958, which notice or license has not been revoked; or
+&emsp;&emsp;(B) entities that have received from the Small Business Administration notice to proceed to qualify for a license as a small business investment company under the Small Business Investment Act of 1958, which notice or license has not been revoked; or
 
 &emsp;&emsp;(C) applicants that are affiliated with 1 or more licensed small business investment companies described in subparagraph (A) and that have applied for another license under the Small Business Investment Act of 1958, which application remains pending.
 
@@ -78,7 +78,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;(1) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was at the time and in the light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which is required to be stated therein.
 
-&emsp;(2) has been convicted within ten years preceding the filing of any application for registration or at any time thereafter of any felony or misdemeanor or of a substantiallyequivalent crime by a foreign court of competent jurisdiction which the Commission finds—
+&emsp;(2) has been convicted within ten years preceding the filing of any application for registration or at any time thereafter of any felony or misdemeanor or of a substantially equivalent crime by a foreign court of competent jurisdiction which the Commission finds—
 
 &emsp;&emsp;(A) involves the purchase or sale of any security, the taking of a false oath, the making of a false report, bribery, perjury, burglary, any substantially equivalent activity however denominated by the laws of the relevant foreign government, or conspiracy to commit any such offense;
 
@@ -110,9 +110,9 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;&emsp;(A) made or caused to be made in any application for registration or report required to be filed with a foreign securities authority, or in any proceeding before a foreign securities authority with respect to registration, any statement that was at the time and in light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any application or report to a foreign securities authority any material fact that is required to be stated therein;
 
-&emsp;&emsp;(B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
+&emsp;&emsp;(B) violated any foreign statute or regulation regarding transactions in securities orcontracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
 
-&emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>3</sup> regulatory authority, to have failed reasonably to supervise, with a viewto preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
+&emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>3</sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
 
 &emsp;(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
 
@@ -146,7 +146,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 &emsp;&emsp;&emsp;(iii) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein; or
 
-&emsp;&emsp;&emsp;(iv) has failed reasonably to supervise, within the meaning of subsection (e)(6) of this section, with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; <sup>4</sup>
+&emsp;&emsp;&emsp;(iv) has failed reasonably to supervise, within the meaning of subsection (e)(6) ofthis section, with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; <sup>4</sup>
 
 #### (B) Cease-and-desist proceedings
 
@@ -202,7 +202,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (1) Authority of Commission
 
-&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
+&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as theCommission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
 
 #### (2) Hearing
 
@@ -254,7 +254,7 @@ No investment adviser that acts as an investment adviser solely to 1 or more ven
 
 #### (1) In general
 
-&emsp;The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of <sup>5</sup> such investment adviser acts solely as an adviser to private funds and hasassets under management in the United States of less than $150,000,000.
+&emsp;The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of <sup>5</sup> such investment adviser acts solely as an adviser to private funds and has assets under management in the United States of less than $150,000,000.
 
 #### (2) Reporting
 
@@ -314,7 +314,7 @@ Subsec. (f). Pub. L. 107–204, §604(c)(2), substituted "(8), or (9)" for "or (
 
 <b>1998</b>—Subsec. (e)(8)(B). Pub. L. 105–353 inserted "or" after semicolon at end.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of "subsection (b) of this section and section 80b–3a of this title" for "subsection (b) ofthis section", was executed by making the substitution for "subsection (b)" to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of "subsection (b) of this section and section 80b–3a of this title" for "subsection (b) of this section", was executed by making the substitution for "subsection (b)" to reflect the probable intent of Congress.
 
 Subsec. (b)(5). Pub. L. 104–290, §508(d), added par. (5).
 
@@ -430,7 +430,7 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by section 24(a) of Pub. L. 91–547 effective on expiration of one year after Dec. 14,1970, see section 30 (introductory text and par. (1)) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by section 24(a) of Pub. L. 91–547 effective on expiration of one year after Dec. 14, 1970, see section 30 (introductory text and par. (1)) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
 #### Transfer of Functions
 

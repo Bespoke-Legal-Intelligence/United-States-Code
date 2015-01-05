@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount of the death benefit under paragraph (1) in a fiscal year shall equal theamount of the comparable benefit calculated under the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) in such fiscal year, without regard to any reduction attributable to a limitation on appropriations, but subject to subparagraph (B).
+&emsp;&emsp;The amount of the death benefit under paragraph (1) in a fiscal year shall equal the amount of the comparable benefit calculated under the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) in such fiscal year, without regard to any reduction attributable to a limitation on appropriations, but subject to subparagraph (B).
 
 #### (B) Reduction for payments for lost employment income
 

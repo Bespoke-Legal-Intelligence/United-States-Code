@@ -68,7 +68,7 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (1) In general
 
-&emsp;A Federal regulatory agency may, with respect to matter within its jurisdiction, by regulation or order issued after notice and an opportunity for public comment, exempt without condition a specified category or type of record from the requirements relating to consent in section 7001(c) of this title if such exemption is necessary to eliminate a substantial burden on electronic commerce and willnot increase the material risk of harm to consumers.
+&emsp;A Federal regulatory agency may, with respect to matter within its jurisdiction, by regulation or order issued after notice and an opportunity for public comment, exempt without condition a specified category or type of record from the requirements relating to consent in section 7001(c) of this title if such exemption is necessary to eliminate a substantial burden on electronic commerce and will not increase the material risk of harm to consumers.
 
 #### (2) Prospectuses
 
@@ -84,5 +84,5 @@ The Federal Communications Commission shall not hold any contract for telecommun
 
 The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of Title 44, Public Printing and Documents, and enacted provisions set out as a note under section 3504 of Title 44. For complete classification of this Act to the Code, see Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally tosubchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 

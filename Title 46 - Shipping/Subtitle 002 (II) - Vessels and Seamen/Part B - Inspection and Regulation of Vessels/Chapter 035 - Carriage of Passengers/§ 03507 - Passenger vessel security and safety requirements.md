@@ -36,7 +36,7 @@ In general.—Except as provided in subparagraph (B), the requirements of paragr
 
 &emsp;&emsp;(B)
 
-Latch and key requirements.—The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
+Latch and key requirements.—The requirements of paragraph (1)(C) take effect onthe date of enactment of the Cruise Vessel Security and Safety Act of 2010.
 
 (b)
 
@@ -82,7 +82,7 @@ Embassy and consulate locations.—The owner of a vessel to which this section a
 
 Sexual Assault.—The owner of a vessel to which this section applies shall—
 
-&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications andother medications designed to prevent sexually transmitted diseases after a sexual assault;
+&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault;
 
 &emsp;(2) maintain on the vessel equipment and materials for performing a medical examination in sexual assault cases to evaluate the patient for trauma, provide medical care, and preserve relevant medical evidence;
 
@@ -112,7 +112,7 @@ Confidentiality of Sexual Assault Examination and Support Information.—The mas
 
 &emsp;(1) treat all information concerning an examination under subsection (d) confidential, so that no medical information may be released to the cruise line or other owner of the vessel or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient's next-of-kin, except that nothing in this paragraph prohibits the release of—
 
-&emsp;&emsp;(A) information, other than medical findings, necessary for the owner or master of the vessel to comply with the provisions of subsection (g) or other applicable incident reporting laws;
+&emsp;&emsp;(A) information, other than medical findings, necessary for the owner or master ofthe vessel to comply with the provisions of subsection (g) or other applicable incident reporting laws;
 
 &emsp;&emsp;(B) information to secure the safety of passengers or crew on board the vessel; or
 
@@ -186,9 +186,9 @@ In general.—The owner of a vessel to which this section applies (or the owner'
 
 &emsp;&emsp;&emsp;(i) shall contact the nearest Federal Bureau of Investigation Field Office or Legal Attache by telephone as soon as possible after the occurrence on board the vessel of an incident involving homicide, suspicious death, a missing United States national, kidnapping, assault with serious bodily injury, any offense to which section 2241, 2242, 2243, or 2244(a) or (c) of title 18 applies, firing or tampering with the vessel, or theft of money or property in excess of $10,000 to report the incident;
 
-&emsp;&emsp;&emsp;(ii) shall furnish a written report of the incident to an Internet based portal maintained by the Secretary;
+&emsp;&emsp;&emsp;(ii) shall furnish a written report of each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A);
 
-&emsp;&emsp;&emsp;(iii) may report any serious incident that does not meet the reporting requirements of clause (i) and that does not require immediate attention by the Federal Bureau of Investigation via the Internet based portal maintained by the Secretary; and
+&emsp;&emsp;&emsp;(iii) may report any serious incident that does not meet the reporting requirements of clause (i) and that does not require immediate attention by the Federal Bureau of Investigation via the Internet website maintained by the Secretary of Transportation under paragraph (4)(A); and
 
 &emsp;&emsp;&emsp;(iv) may report any other criminal incident involving passengers or crewmembers, or both, to the proper State or local government law enforcement authority.
 
@@ -210,11 +210,35 @@ Availability of incident data via internet.—
 
 &emsp;&emsp;(A)
 
-Website.—The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member.
+Website.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Secretary of Transportation shall maintain a statistical compilation of all incidents on board a cruise vessel specified in paragraph (3)(A)(i) on an Internet website that provides a numerical accounting of the missing persons and alleged crimes reported under that paragraph without regard to the investigative status of the incident.
+
+&emsp;&emsp;&emsp;(ii)
+
+Updates and other requirements.—The compilation under clause (i) shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) be updated not less frequently than quarterly;
+
+&emsp;&emsp;&emsp;&emsp;(II) be able to be sorted by cruise line;
+
+&emsp;&emsp;&emsp;&emsp;(III) identify each cruise line by name;
+
+&emsp;&emsp;&emsp;&emsp;(IV) identify each crime or alleged crime committed or allegedly committed by a passenger or crewmember;
+
+&emsp;&emsp;&emsp;&emsp;(V) identify the number of individuals alleged overboard; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) include the approximate number of passengers and crew carried by each cruise line during each quarterly reporting period.
+
+&emsp;&emsp;&emsp;(iii)
+
+User-friendly format.—The Secretary of Transportation shall ensure that the compilation, data, and any other information provided on the Internet website maintained under this subparagraph are in a user-friendly format. The Secretary shall, to the greatest extent practicable, use existing commercial off the shelf technology to transfer and establish the website, and shall not independently develop software, or acquire new hardware in operating the site.
 
 &emsp;&emsp;(B)
 
-Access to website.—Each cruise line taking on or discharging passengers in the United States shall include a link on its Internet website to the website maintained by the Secretary under subparagraph (A).
+Access to website.—Each cruise line taking on or discharging passengers in the United States shall include a link on its Internet website to the website maintained by the Secretary of Transportation under subparagraph (A).
 
 (h)
 
@@ -280,11 +304,21 @@ Commandant.—The term "Commandant" means the Commandant of the Coast Guard.
 
 Owner.—The term "owner" means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
 
-(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2244.)
+(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2244; amended Pub. L. 113–281, title III, §321, Dec. 18, 2014, 128 Stat. 3054.)
 
 #### References in Text
 
 The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a)(1)(C), (3) and (i), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (g)(3)(A)(ii). Pub. L. 113–281, §321(a)(1), substituted "each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A)" for "the incident to an Internet based portal maintained by the Secretary".
+
+Subsec. (g)(3)(A)(iii). Pub. L. 113–281, §321(a)(2), substituted "Internet website maintained by the Secretary of Transportation under paragraph (4)(A)" for "Internet based portal maintained by the Secretary".
+
+Subsec. (g)(4)(A). Pub. L. 113–281, §321(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member."
+
+Subsec. (g)(4)(B). Pub. L. 113–281, §321(b)(2), substituted "Secretary of Transportation" for "Secretary".
 
 #### Findings
 

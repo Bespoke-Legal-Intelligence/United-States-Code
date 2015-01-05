@@ -28,7 +28,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(i) the term "gross income" means "earned income" within the meaning of section 911(b) of title 26 (determined without regard to any community property laws),
 
-&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that plan shall be aggregated with amounts received from any other employer under that plan during the same period, and
+&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that planshall be aggregated with amounts received from any other employer under that plan during the same period, and
 
 &emsp;(iii) any non-basic benefit shall be disregarded.
 
@@ -48,7 +48,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(ii) the amount of benefits that would be guaranteed under this section if the participant were not a majority owner.
 
-(6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that suchtrust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
+(6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that such trust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
 
 (B) No benefits accrued under a plan after the date on which an amendment of the plan is adopted which causes the Secretary of the Treasury to determine that any trust under the plan has ceased to meet the requirements of section 401(a) of title 26 or that the plan has ceased to meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph shall not apply if the amendment is revoked as of the date it was first effective or amended to comply with such requirements.
 
@@ -84,7 +84,7 @@ In general.—Except as provided in subparagraph (C), the term "recovery ratio" 
 
 &emsp;(i) the corporation has determined the value of recoveries under section 1362, 1363, or 1364 of this title, and
 
-&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
+&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year inwhich occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
 
 (C) In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, for purposes of this section, the term "recovery ratio" means, with respect to the termination of such plan, the ratio of—
 
@@ -152,7 +152,7 @@ Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this secti
 
 Subsec. (h). Pub. L. 109–280, §402(g)(2)(A), added subsec. (h).
 
-<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end "The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply."
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end "The maximum guaranteed monthly benefitshall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply."
 
 Subsec. (f). Pub. L. 103–465, §766(c), added subsec. (f).
 
@@ -176,7 +176,7 @@ Subsec. (d). Pub. L. 99–272, §11016(c)(9), added subsec. (d).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted ", in accordance with this section," after "guarantee" and "single-employer" before "plan which", and struck out "the terms of" after "under".
 
-Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted "(7)" for "(8)", struck out par. (5) relatingto receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
+Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted "(7)" for "(8)", struck out par. (5) relating to receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
 
 #### Effective Date of 2006 Amendment
 

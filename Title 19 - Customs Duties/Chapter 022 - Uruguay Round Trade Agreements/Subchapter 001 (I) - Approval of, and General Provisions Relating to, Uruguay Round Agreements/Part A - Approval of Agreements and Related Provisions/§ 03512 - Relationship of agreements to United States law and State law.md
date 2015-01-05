@@ -44,7 +44,7 @@
 
 #### (C) Federal-State cooperation in WTO dispute settlement
 
-&emsp;&emsp;(i) When a WTO member requests consultations with the United States under Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title (hereafter in this subsection referred to as the "Dispute Settlement Understanding") concerning whether the law of a State is inconsistent with the obligations undertaken by the United States in any of the Uruguay Round Agreements, the Trade Representative shall notify the Governor of the State or the Governor's designee, and the chief legal officer of the jurisdiction whose law is the subject of the consultations, as soon aspossible after the request is received, but in no event later than 7 days thereafter.
+&emsp;&emsp;(i) When a WTO member requests consultations with the United States under Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title (hereafter in this subsection referred to as the "Dispute Settlement Understanding") concerning whether the law of a State is inconsistent with the obligations undertaken by the United States in any of the Uruguay Round Agreements, the Trade Representative shall notify the Governor of the State or the Governor's designee, and the chief legal officer of the jurisdiction whose law is the subject of the consultations, as soon as possible after the request is received, but in no event later than 7 days thereafter.
 
 &emsp;&emsp;(ii) Not later than 30 days after receiving such a request for consultations, the Trade Representative shall consult with representatives of the State concerned regarding the matter. If the consultations involve the laws of a large number of States, the Trade Representative may consult with an appropriate group of representatives of the States concerned, as determined by those States.
 
@@ -116,7 +116,7 @@
 
 #### (2) Intent of Congress
 
-&emsp;It is the intention of the Congress through paragraph (1) to occupy the field with respect to any cause of action or defense under or in connection with any of the Uruguay Round Agreements, including by precluding any person other than the United States from bringing any action against any State or political subdivision thereof or raising any defense to the application of State law under or in connection with any of the Uruguay Round Agreements—
+&emsp;It is the intention of the Congress through paragraph (1) to occupy the field with respect to any cause of action or defense under or inconnection with any of the Uruguay Round Agreements, including by precluding any person other than the United States from bringing any action against any State or political subdivision thereof or raising any defense to the application of State law under or in connection with any of the Uruguay Round Agreements—
 
 &emsp;&emsp;(A) on the basis of a judgment obtained by the United States in an action brought under any such agreement; or
 

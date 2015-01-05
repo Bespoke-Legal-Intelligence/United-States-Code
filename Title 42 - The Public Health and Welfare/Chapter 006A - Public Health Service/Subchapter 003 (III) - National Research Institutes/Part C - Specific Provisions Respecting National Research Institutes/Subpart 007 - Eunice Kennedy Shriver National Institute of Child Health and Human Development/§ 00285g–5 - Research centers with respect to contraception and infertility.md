@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts
 
-The Director of the Institute, after consultation with the advisory council for the Institute, shall make grants to, or enter into contracts with, public or nonprofit private entities for the development and operation of centers to conduct activities for the purpose of improving methods of contraception and centers to conduct activities for the purpose of improving methods of diagnosis and treatment of infertility.
+The Director of the Institute, after consultation with the advisory council for the Institute, shall make grants to, or enter into contracts with, public or nonprofit private entities for the development and operation of centers to conduct activities for the purpose of improving methodsof contraception and centers to conduct activities for the purpose of improving methods of diagnosis and treatment of infertility.
 
 #### (b) Number of centers
 

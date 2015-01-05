@@ -8,7 +8,7 @@
 
 (C) The Director shall not provide a stipend under this subsection to an individual who elects to receive a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
-(2) Stipends shall be payable only upon completion of a period of service, except that under such circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In the event of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
+(2) Stipends shall be payable only upon completion of a period of service, except that under such circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, tomembers of the volunteer's family or others during the period of the volunteer's service. In the event of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
 
 #### (b) Description of allowances and support services; determination of allowance; adjustments; methodology
 
@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 101–204, §102(2), designated existing provisions as par.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–288 inserted "pre-service training and where appropriate in-service training,".
 
-<b>1979</b>—Subsec. (a)(2). Pub. L. 96–143 substituted "under such circumstances as the Director shall determine, in accordance with regulations which the director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service" for "in extraordinary circumstances the Director may from time to time advance all or a portion of the accrued stipend to or on behalf of a volunteer".
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–143 substituted "under such circumstances as the Director shall determine, in accordance with regulations which the director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer'sservice" for "in extraordinary circumstances the Director may from time to time advance all or a portion of the accrued stipend to or on behalf of a volunteer".
 
 <b>1975</b>—Subsec. (a)(1). Pub. L. 94–130 substituted "shall not exceed $75" for "shall not exceed $50".
 

@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 94–455, §1901(b)(21)(F), struck out "under section 615 (
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–172 substituted "(relating to pre-1970 exploration expenditures) or under section 617 (relating to deduction and recapture of certain mining exploration expenditures)" for "(relating to exploration expenditures) or under section 617 (relating to additional exploration expenditures in the case of domestic mining)".
 
-<b>1966</b>—Subsec. (b). Pub. L. 89–570 provided for election under section 615 (relating to exploration expenditures) or under section 617 (relating to additional exploration expenditures in the case of domestic mining).
+<b>1966</b>—Subsec. (b). Pub. L. 89–570 provided for election under section 615 (relating to exploration expenditures)or under section 617 (relating to additional exploration expenditures in the case of domestic mining).
 
 #### Effective Date of 1993 Amendment
 

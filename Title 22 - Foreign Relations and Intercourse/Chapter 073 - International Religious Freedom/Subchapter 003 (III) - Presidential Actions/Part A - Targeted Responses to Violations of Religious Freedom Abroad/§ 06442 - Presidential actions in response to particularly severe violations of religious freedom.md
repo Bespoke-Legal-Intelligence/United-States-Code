@@ -8,11 +8,11 @@
 
 &emsp;&emsp;(A) to oppose particularly severe violations of religious freedom that are or have been engaged in or tolerated by the governments of foreign countries; and
 
-&emsp;&emsp;(B) to promote the right to freedom of religion in those countries through the actions described in subsection (c) of this section.
+&emsp;&emsp;(B) to promote the right to freedom of religion in those countries through the actions described in subsection (c).
 
 #### (2) Requirement of Presidential action
 
-&emsp;Whenever the President determines that the government of a foreign country has engaged in or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c) of this section.
+&emsp;Whenever the President determines that the government of a foreign country has engaged in or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c).
 
 #### (b) Designations of countries of particular concern for religious freedom
 
@@ -24,7 +24,7 @@
 
 #### (B) Basis of review
 
-&emsp;&emsp;Each review conducted under subparagraph (A) shall be based upon information contained in the latest Country Reports on Human Rights Practices, the Annual Report,and on any other evidence available and shall take into account any findings or recommendations by the Commission with respect to the foreign country.
+&emsp;&emsp;Each review conducted under subparagraph (A) shall be based upon information contained in the latest Country Reports on Human Rights Practices, the Annual Report, and on any other evidence available and shall take into account any findings or recommendations by the Commission with respect to the foreign country.
 
 #### (C) Implementation
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2), (3), (4), and (5) with respect to each country of particular concern for religious freedom designated under subsection (b)(1)(A) of this section, the President shall, after the requirements of sections 6443 and 6444 of this title have been satisfied, but not later than 90 days (or 180 days in case of a delay under paragraph (3)) after the date of designation of the country under that subsection, carry out one or more of the following actions under subparagraph (A) or subparagraph (B):
+&emsp;Subject to paragraphs (2), (3), (4), and (5) with respect to each country of particular concern for religious freedom designated under subsection (b)(1)(A), the President shall, after the requirements of sections 6443 and 6444 of this title have been satisfied, but not later than 90 days (or 180 days in case of a delay under paragraph (3)) after the date of designation of the country under that subsection, carry out one or more of the following actions under subparagraph (A) or subparagraph (B):
 
 #### (A) Presidential actions
 
@@ -70,7 +70,7 @@
 
 &emsp;If, on or before the date that the President is required (but for this paragraph) to take action under paragraph (1), the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary—
 
-&emsp;&emsp;(A) for a continuation of negotiations that have been commenced with the government of that country to bring about a cessation of the violations by the foreign country;
+&emsp;&emsp;(A) for a continuation of negotiations that have been commenced with the governmentof that country to bring about a cessation of the violations by the foreign country;
 
 &emsp;&emsp;(B) for a continuation of multilateral negotiations into which the United States has entered to bring about a cessation of the violations by the foreign country;
 
@@ -96,7 +96,7 @@
 
 #### (d) Statutory construction
 
-A determination under this chapter, or any amendment made by this chapter, that a foreigncountry has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
+A determination under this chapter, or any amendment made by this chapter, that a foreign country has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
 
 (Pub. L. 105–292, title IV, §402, Oct. 27, 1998, 112 Stat. 2802; Pub. L. 106–55, §2(a), Aug. 17, 1999, 113 Stat. 405.)
 

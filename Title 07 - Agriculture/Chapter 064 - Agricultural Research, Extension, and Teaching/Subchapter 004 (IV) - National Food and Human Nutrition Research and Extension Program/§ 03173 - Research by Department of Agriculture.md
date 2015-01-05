@@ -6,7 +6,7 @@ The Secretary shall establish research into food and human nutrition as a separa
 
 #### (b) Periodic consultation with administrators of other Federal departments and agencies
 
-The Secretary, in administering the food and human nutrition research program, shall periodically consult with the administrators of the other Federal departments and agencies that have responsibility for programs dealing with human food and nutrition, as to the specific research needs of those departments and agencies.
+The Secretary, in administering the food and human nutrition research program, shall periodically consult with the administrators of theother Federal departments and agencies that have responsibility for programs dealing with human food and nutrition, as to the specific research needs of those departments and agencies.
 
 (Pub. L. 95–113, title XIV, §1423, Sept. 29, 1977, 91 Stat. 999.)
 

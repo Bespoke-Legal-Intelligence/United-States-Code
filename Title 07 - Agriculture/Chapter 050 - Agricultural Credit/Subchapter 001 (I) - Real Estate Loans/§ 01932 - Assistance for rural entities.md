@@ -18,7 +18,7 @@
 
 &emsp;The Secretary may make and insure loans to public, private, or cooperative organizations organized for profit or nonprofit and private investment funds that invest primarily in cooperative organizations, to Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, or to individuals for the purposes of—
 
-&emsp;&emsp;(A) improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural communities, including pollution abatement and control;
+&emsp;&emsp;(A) improving, developing, or financing business, industry, and employment (including through the financing of working capital) and improving the economic and environmental climate in rural communities, including pollution abatement and control;
 
 &emsp;&emsp;(B) the conservation, development, and use of water for aquaculture purposes in rural areas;
 
@@ -36,47 +36,71 @@
 
 #### (b) Solid waste management grants
 
-The Secretary may make grants to nonprofit organizations for the provision of regional technical assistance to local and regional governments and related agencies for the purpose of reducing or eliminating pollution of water resources and improving the planning and management of solid waste disposal facilities. Grants made under this paragraph for the provision of technical assistance shall be made for 100 percent of the cost of such assistance.
+#### (1) In general
 
-#### (c) Rural business enterprise grants
+&emsp;The Secretary may make grants to nonprofit organizations for the provision of regional technical assistance to local and regional governments and related agencies for the purpose of reducing or eliminating pollution of water resources and improving the planning and management of solid waste disposal facilities. Grants made under this paragraph for the provision of technical assistance shall be made for 100 percent of the cost of such assistance.
 
-#### (1) Grants
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2014 through 2018.
+
+#### (c) Rural business development grants
+
+#### (1) In general
+
+&emsp;The Secretary may make grants under this subsection to eligible entities described in paragraph (2) in rural areas that primarily serve rural areas for purposes described in paragraph (3).
+
+#### (2) Eligible entities
+
+&emsp;The Secretary may make grants under this subsection to—
+
+&emsp;&emsp;(A) governmental entities;
+
+&emsp;&emsp;(B) Indian tribes; and
+
+&emsp;&emsp;(C) nonprofit entities.
+
+#### (3) Eligible purposes for grants
+
+&emsp;Eligible entities that receive grants under this subsection may use the grant funds for—
+
+&emsp;&emsp;(A) business opportunity projects that—
+
+&emsp;&emsp;&emsp;(i) identify and analyze business opportunities;
+
+&emsp;&emsp;&emsp;(ii) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers;
+
+&emsp;&emsp;&emsp;(iii) assist in the establishment of new rural businesses and the maintenance of existing businesses, including through business support centers;
+
+&emsp;&emsp;&emsp;(iv) conduct regional, community, and local economic development planning and coordination, and leadership development; and
+
+&emsp;&emsp;&emsp;(v) establish centers for training, technology, and trade that will provide training to rural businesses in the use of interactive communications technologies to develop international trade opportunities and markets; and
+
+&emsp;&emsp;(B) projects that support the development of business enterprises that finance or facilitate—
+
+&emsp;&emsp;&emsp;(i) the development of small and emerging private business enterprise;
+
+&emsp;&emsp;&emsp;(ii) the establishment, expansion, and operation of rural distance learning networks;
+
+&emsp;&emsp;&emsp;(iii) the development of rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students; and
+
+&emsp;&emsp;&emsp;(iv) the provision of technical assistance and training to rural communities for the purpose of improving passenger transportation services or facilities.
+
+#### (4) Authorization of appropriations
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may also make grants, not to exceed $50,000,000 annually, to public bodies and private nonprofit corporations for measures designed to finance and facilitate development of small and emerging private business enterprises (including nonprofit entities) or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students, including the development, construction or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refinancing, services and fees.
+&emsp;&emsp;There is authorized to be appropriated to the Secretary to carry out this subsection $65,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
 
-#### (B) Small and emerging private business enterprises
+#### (B) Allocation
 
-#### (i) In general
-
-&emsp;&emsp;&emsp;For the purpose of subparagraph (A), a small and emerging private business enterprise shall include (regardless of the number of employees or operating capital of the enterprise) an eligible nonprofit entity, or other tax-exempt organization, with a principal office in an area that is located—
-
-&emsp;&emsp;&emsp;&emsp;(I) on land of an existing or former Native American reservation; and
-
-&emsp;&emsp;&emsp;&emsp;(II) in a city, town, or unincorporated area that has a population of not more than 5,000 inhabitants.
-
-#### (ii) Use of grant
-
-&emsp;&emsp;&emsp;An eligible nonprofit entity, or other tax exempt organization, described in clause (i) may use assistance provided under this paragraph to create, expand, or operate value-added processing in an area described in clause (i) in connection with production agriculture.
-
-#### (iii) Priority
-
-&emsp;&emsp;&emsp;In making grants under this paragraph, the Secretary shall give priority to grants that will be used to provide assistance to eligible nonprofit entities and other tax exempt organizations described in clause (i).
-
-#### (2) Passenger transportation services or facilities
-
-&emsp;The Secretary may award grants on a competitive basis to qualified nonprofit organizations for the provision of technical assistance and training to rural communities for the purpose of improving passenger transportation services or facilities. Assistance provided under this paragraph may include on-site technical assistance to local and regional governments, public transit agencies, and related nonprofit and for-profit organizations in rural areas, the development of training materials, and the provision of necessary training assistance to local officials and agencies in rural areas.
-
-#### (3) Grants to aid industries in adjusting to terminated Federal agricultural programs or increased foreign competition
-
-&emsp;The Secretary may make grants under this section to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade.
+&emsp;&emsp;Of the funds made available under subparagraph (A) for a fiscal year, not more than 10 percent shall be used for the purposes described in paragraph (3)(A).
 
 #### (d) Joint loans or grants for private business enterprises; restrictions; system of certification for expeditious processing of requests for assistance; prior approval of grant or loan; equity investment as condition for loan commitment; issuance of certificates of beneficial ownership of notes
 
-(1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) of this section for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) of this section for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
+(1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
 
-(2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but thislimitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
+(2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
 
 (3) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, which is calculated to or likely to result in an increase in the production of goods, materials, or commodities, or the availability of services or facilities in the area, when there is not sufficient demand for such goods, materials, commodities, services, or facilities, to employ the efficient capacity of existing competitive commercial or industrial enterprises, unless such financial or other assistance will not have an adverse effect upon existing competitive enterprises in the area.
 
@@ -84,7 +108,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 (5) No grant or loan authorized to be made under this chapter shall require or be subject to the prior approval of any officer, employee, or agency of any State.
 
-(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
+(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purposethe loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
 
 (7) No provision of law shall prohibit issuance by the Secretary of certificates evidencing beneficial ownership in a block of notes insured or guaranteed under this chapter or Title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; any sale by the Secretary of such certificates shall be treated as a sale of assets for the purposes of chapter 11 of title 31. Any security representing beneficial ownership in a block of notes guaranteed or insured under this chapter or Title V of the Housing Act of 1949 issued by a private entity shall be exempt from laws administered by the Securities and Exchange Commission, except sections 77q, 77v, and 77x of title 15; however, the Secretary shall require (i) that the issuer place such notes in the custody of an institution chartered by a Federal or State agency to act as trustee and (ii) that the issuer provide such periodic reports of sales as the Secretary deems necessary.
 
@@ -124,7 +148,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 &emsp;&emsp;&emsp;(ii) Programs for the collection, interpretation, and dissemination of information that may be useful to individuals, cooperatives, small businesses, and other similar entities in rural areas served by the center.
 
-&emsp;&emsp;&emsp;(iii) Programs providing training and instruction for individuals, cooperatives,small businesses, and other similar entities in rural areas served by the center.
+&emsp;&emsp;&emsp;(iii) Programs providing training and instruction for individuals, cooperatives, small businesses, and other similar entities in rural areas served by the center.
 
 &emsp;&emsp;&emsp;(iv) Programs providing loans and grants to individuals, cooperatives, small businesses, and other similar entities in rural areas served by the center.
 
@@ -210,9 +234,13 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 &emsp;&emsp;&emsp;To the extent there are insufficient applications to carry out clause (i), the Secretary shall use the funds as otherwise authorized by this subsection.
 
-#### (12) Authorization of appropriations
+#### (12) Interagency working group
 
-&emsp;There are authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2008 through 2012.
+&emsp;Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and local cooperative organizations that have cooperative programs and interests.
+
+#### (13) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2014 through 2018.
 
 #### (f) Grants to broadcasting systems
 
@@ -222,7 +250,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (2) Grants
 
-&emsp;The Secretary may make grants to statewide private nonprofit public television systems, whose coverage area is predominately rural, for the purpose of demonstrating the effectiveness of such systems in providing information on agriculture and other issues of importance to farmers and other rural residents. Grants available under this paragraph may be used for capital equipment expenditures, start-up and program costs, and other costs necessary to the operation of such demonstrations.
+&emsp;The Secretary may make grants to statewide private nonprofit public television systems, whose coverage area is predominately rural, for the purpose of demonstrating the effectiveness of such systems in providing information on agriculture and other issues of importance to farmers and other rural residents. Grants available under this paragraph may be used for capital equipment expenditures,start-up and program costs, and other costs necessary to the operation of such demonstrations.
 
 #### (3) Authorization of appropriations
 
@@ -232,7 +260,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (1) Definition of business and industry loan
 
-&emsp;In this subsection, the term "business and industry loan" means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(2)(A) of this section, including guarantees described in paragraph (3)(A)(ii).
+&emsp;In this subsection, the term "business and industry loan" means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(2)(A), including guarantees described in paragraph (3)(A)(ii).
 
 #### (2) Loan guarantees for the purchase of cooperative stock
 
@@ -254,7 +282,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may make or guarantee a business and industry loan to a cooperative organization that is headquartered in a metropolitan area if the loan is used for a project or venture described in subsection (a) of this section that is located in a rural area or a loan guarantee that meets the requirements of paragraph (6).
+&emsp;&emsp;&emsp;The Secretary may make or guarantee a business and industry loan to a cooperative organization that is headquartered in a metropolitan area if the loan is used for a project or venture described in subsection (a) that is located in a rural area or a loan guarantee that meets the requirements of paragraph (6).
 
 #### (ii) Equity
 
@@ -278,7 +306,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (5) Fees
 
-&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan inan amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
+&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan in an amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
 
 #### (6) Loan guarantees in nonrural areas
 
@@ -290,7 +318,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 &emsp;&emsp;&emsp;(ii) the applicant demonstrates to the Secretary that the primary benefit of the loan guarantee will be to provide employment for residents of a rural area; and
 
-&emsp;&emsp;&emsp;(iii) the total amount of business and industry loans guaranteed for a fiscal year under this paragraph does not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A) of this section.
+&emsp;&emsp;&emsp;(iii) the total amount of business and industry loans guaranteed for a fiscal year under this paragraph does not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A).
 
 #### (B) Principal amounts
 
@@ -298,7 +326,13 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (7) Intangible assets
 
-&emsp;In determining whether a cooperative organization is eligible for a guaranteed business and industry loan, the Secretary may consider the market value of a properly appraised brand name, patent, or trademark of the cooperative.
+#### (A) In general
+
+&emsp;&emsp;In determining whether a cooperative organization is eligible for a guaranteed business and industry loan, the Secretary may consider the market value of a properly appraised brand name, patent, or trademark of the cooperative.
+
+#### (B) Accounts receivable
+
+&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may takeaccounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
 
 #### (8) Limitations on loan guarantees for cooperative organizations
 
@@ -328,7 +362,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (C) Maximum amount
 
-&emsp;&emsp;The total amount of business and industry loans made to cooperative organizations and guaranteed for a fiscal year under this subsection with principal amounts that are in excess of $25,000,000 may not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A) of this section.
+&emsp;&emsp;The total amount of business and industry loans made to cooperative organizations and guaranteed for a fiscal year under this subsection with principal amounts that are in excess of $25,000,000 may not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A).
 
 #### (9) Locally or regionally produced agricultural food products
 
@@ -366,19 +400,11 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 &emsp;&emsp;&emsp;In making or guaranteeing a loan under clause (i), the Secretary shall give priority to projects that have components benefitting underserved communities.
 
-#### (iv) Reports
-
-&emsp;&emsp;&emsp;Not later than 2 years after the date of enactment of this paragraph and annuallythereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes projects carried out using loans or loan guarantees made under clause (i), including—
-
-&emsp;&emsp;&emsp;&emsp;(I) the characteristics of the communities served; and
-
-&emsp;&emsp;&emsp;&emsp;(II) resulting benefits.
-
-#### (v) Reservation of funds
+#### (iv) Reservation of funds
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For each of fiscal years 2008 through 2012, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
+&emsp;&emsp;&emsp;&emsp;For each of fiscal years 2008 through 2018, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
 
 #### (II) Availability of funds
 
@@ -386,7 +412,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (h) Loan guarantees for certain loans
 
-The Secretary may guarantee loans made under subsection (a) of this section to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
+The Secretary may guarantee loans made under subsection (a) to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
 
 #### (i) Appropriate technology transfer for rural areas program
 
@@ -428,13 +454,13 @@ The Secretary may guarantee loans made under subsection (a) of this section to f
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2012.
+&emsp;There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2018.
 
 #### (j) Rural economic area partnership zones
 
-Effective beginning on the date of enactment of this subsection through September 30, 2012, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
+Effective beginning on the date of enactment of this subsection through September 30, 2018, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
-(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931.)
+(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931; Pub. L. 113–79, title VI, §§6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, 128 Stat. 843–845; Pub. L. 113–188, title I, §101(c), Nov. 26, 2014, 128 Stat. 2017.)
 
 #### References in Text
 
@@ -444,7 +470,7 @@ For definition of "this chapter", referred to in subsec. (d)(5), (7), see note s
 
 Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under section 1441 of Title 42 and Tables.
 
-The date of enactment of this paragraph and the date of enactment of this subsection, referred to in subsecs.\(g)(9)(B)(iv) and (j), respectively, is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of this subsection, referred to in subsec. (j), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
@@ -455,6 +481,24 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–79, §6010(a), inserted "(including through the financing of working capital)" after "employment".
+
+Subsec. (b). Pub. L. 113–79, §6011, designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (c). Pub. L. 113–79, §6012(a), added subsec. (c) and struck out former subsec. (c) which related to rural business enterprise grants.
+
+Subsec. (e)(12), (13). Pub. L. 113–79, §6013, added par. (12), redesignated former par. (12) as (13), and substituted "$40,000,000 for each of fiscal years 2014 through 2018" for "$50,000,000 for each of fiscal years 2008 through 2012".
+
+Subsec. (g)(7). Pub. L. 113–79, §6010(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (g)(9)(B)(iv), (v). Pub. L. 113–188 redesignated cl. (v) as (iv) and struck out former cl. (iv) which required annual reports describing projects carried out using loans or loan guarantees made under cl. (i).
+
+Subsec. (g)(9)(B)(v)(I). Pub. L. 113–79, §6014, substituted "2018" for "2012".
+
+Subsec. (i)(4). Pub. L. 113–79, §6015, substituted "2018" for "2012".
+
+Subsec. (j). Pub. L. 113–79, §6016, substituted "2018" for "2012".
 
 <b>2008</b>—Pub. L. 110–246, §6012(a)(1), inserted section catchline.
 
@@ -632,6 +676,10 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions under this section and under section 1323 of Pub. L. 99–198, set out as a note below, transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
+#### Regulations
+
+Pub. L. 113–79, title VI, §6010(c), Feb. 7, 2014, 128 Stat. 843, provided that: "Not later than 180 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall promulgate such regulations as are necessary to implement the amendments made by this section."
+
 #### Business Development
 
 Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided that: "The purposes of this chapter \[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
@@ -642,7 +690,7 @@ Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided 
 
 #### Guarantee by Secretary of Agriculture of Loans to Nonprofit National Rural Development and Finance Corporations
 
-Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, §407(c), Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, §101(k) \[title VI, §636\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357, provided that:
+Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, §407(c), Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, §101(k) \[title VI, §636\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 113–79, title VI, §6017(b), Feb. 7, 2014, 128 Stat. 846, provided that:
 
 "(a)(1) Prior to September 30, 1988, the Secretary of Agriculture (hereafter in this section referred to as the 'Secretary') shall guarantee loans made by public agencies or private organizations (including loans made by financial institutions such as insurance companies) to nonprofit national rural development and finance corporations that establish similar and affiliated statewide rural development and finance programs for the purpose of providing loans, guarantees, and other financial assistance to profit or nonprofit local businesses to improve business, industry, and employment opportunities in a rural area (as determined by the Secretary).
 
@@ -664,19 +712,9 @@ Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended b
 
 "(2) All funds in, appropriated to, or repaid to the Rural Development Loan Fund, including those on deposit and available upon date of enactment \[Dec. 23, 1985\], under sections 623 and 633 \[42 U.S.C. 9812, 9822\] of the Community Economic Development Act of 1981 (42 U.S.C. 9801 et seq.) shall be transferred to the Secretary provided that—
 
-&emsp;"(A) all funds on deposit and available on date of enactment shall be used for the purpose of making grants under paragraph (1) and shall remain available until expended;
+&emsp;"(A) all funds on deposit and available on date of enactment shall be used for the purpose of making grants under paragraph (1) and shall remain available until expended; and
 
-&emsp;"(B) notwithstanding any other provision of law, all loans to intermediary borrowers made prior to date of enactment, shall upon date of enactment, for the life of such loan, bear a rate of interest not to exceed that in effect upon the date of issuance of such loans; and
-
-&emsp;"(C) notwithstanding paragraph (1), all funds other than funds to which subparagraph (A) applies shall be used by the Secretary to make loans—
-
-&emsp;&emsp;"(i) to the entities;
-
-&emsp;&emsp;"(ii) for the purposes; and
-
-&emsp;&emsp;"(iii) subject to the terms and conditions;
-
-> &emsp;specified in the first, second, and last sentences of section 623(a) of the Community Economic Development Act of 1981 (42 U.S.C. 9812(a)). For purposes of this subparagraph, any reference in such sentences to the Secretary shall be deemed to be a reference to the Secretary of Agriculture."
+&emsp;"(B) notwithstanding any other provision of law, all loans to intermediary borrowers made prior to date of enactment, shall upon date of enactment, for the life of such loan, bear a rate of interest not to exceed that in effect upon the date of issuance of such loans."
 
 Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: "That such grant funds \[probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act."
 

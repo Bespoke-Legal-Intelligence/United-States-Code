@@ -38,7 +38,7 @@
 
 &emsp;(8) The term "total disability permanent in nature" means any disability rated total for the purposes of disability compensation which is based upon an impairment reasonably certain to continue throughout the life of the disabled person.
 
-&emsp;(9) The term "training establishment" means any establishment providing apprentice or other training on the job, including those under the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board of vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the "National Apprenticeship Act" (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.
+&emsp;(9) The term "training establishment" means any establishment providing apprenticeor other training on the job, including those under the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board of vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the "National Apprenticeship Act" (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.
 
 &emsp;(10) The term "institution of higher learning" means a college, university, or similar institution, including a technical or business school, offering postsecondary level academic instruction that leads to an associate or higher degree if the school is empowered by the appropriate State education authority under State law to grant an associate or higher degree. When there is no State law to authorize the granting of a degree, the school may be recognized as an institution of higher learning if it is accredited for degree programs by a recognized accrediting agency. Such term shall also include a hospital offering educational programs at the postsecondary level without regard to whether the hospital grants a postsecondary degree. Such term shall also include an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
 
@@ -52,7 +52,7 @@
 
 (d) No eligible person may be afforded educational assistance under this chapter unless such person was discharged or released after each period such person was on duty with the Armed Forces under conditions other than dishonorable, or while such person is on duty with the Armed Forces.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title I, §§114(a), 122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §§108(a), 110(a), Dec. 27, 2001, 115 Stat. 985, 986; Pub. L. 108–454,title I, §106(a), Dec. 10, 2004, 118 Stat. 3602; Pub. L. 109–444, §3(a), (b)(1), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §301(a), (b)(1), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3468.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title I, §§114(a), 122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §§108(a), 110(a), Dec. 27, 2001, 115 Stat. 985, 986; Pub. L. 108–454, title I, §106(a), Dec. 10, 2004, 118 Stat. 3602; Pub. L. 109–444, §3(a), (b)(1), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §301(a), (b)(1), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3468.)
 
 #### References in Text
 
@@ -118,7 +118,7 @@ Subsec. (a)(11). Pub. L. 102–83, §5(c)(1), substituted "3675" for "1775".
 
 <b>1983</b>—Subsec. (a)(1)(A)(iii), (C). Pub. L. 98–160, §702(12)(A), struck out ", United States Code," after "title 37" and inserted a comma after "regulations issued thereunder".
 
-Subsec. (a)(9). Pub. L. 98–160, §702(12)(B), substituted "the Act of August 16, 1937, popularly known as the'National Apprenticeship Act' (29 U.S.C. 50 et seq.)" for "chapter 4C of title 29".
+Subsec. (a)(9). Pub. L. 98–160, §702(12)(B), substituted "the Act of August 16, 1937, popularly known as the 'National Apprenticeship Act' (29 U.S.C. 50 et seq.)" for "chapter 4C of title 29".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–466, §801(c)(1), inserted "and chapter 36 of this title" after "chapter" in introductory text.
 
@@ -196,7 +196,7 @@ Amendment by section 110(a) of Pub. L. 107–103 applicable to enrollments in co
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 122(a) of Pub. L. 106–419 effective Mar. 1, 2001, and applicable with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date, see section122(d) of Pub. L. 106–419, set out as a note under section 3032 of this title.
+Amendment by section 122(a) of Pub. L. 106–419 effective Mar. 1, 2001, and applicable with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date, see section 122(d) of Pub. L. 106–419, set out as a note under section 3032 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 
 #### Eligible Person
 
-Pub. L. 86–785, §5, Sept. 14, 1960, 74 Stat. 1024, as amended by Pub. L. 87–815, §2(b), Oct. 15, 1962, 76 Stat. 927, which contained a savings clause which granted five years of educational training to certain children of veterans dying of disabilities incurred subsequent to the Korean War, was repealed by Pub. L. 91–24, §14(c), June 11, 1969, 83 Stat. 35, effective June 11, 1969, except as to any indebtedness which may be due the Government as the result of any benefits granted thereunder.
+Pub. L. 86–785, §5, Sept. 14, 1960, 74 Stat. 1024, as amended by Pub. L. 87–815, §2(b), Oct. 15, 1962, 76 Stat. 927, which contained a savings clause which granted five years of educational training to certain children ofveterans dying of disabilities incurred subsequent to the Korean War, was repealed by Pub. L. 91–24, §14(c), June 11, 1969, 83 Stat. 35, effective June 11, 1969, except as to any indebtedness which may be due the Government as the result of any benefits granted thereunder.
 
 #### Children of Spanish-American War Veterans
 

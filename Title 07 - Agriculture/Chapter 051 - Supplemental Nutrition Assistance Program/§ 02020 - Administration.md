@@ -8,7 +8,7 @@
 
 #### (2) Local administration
 
-&emsp;The responsibility of the agency of the State government shall not be affected by whether the program is operated on a State-administered or county-administered basis, as provided under section 2012(t)(1) of this title.
+&emsp;The responsibility of the agency of the State government shall not be affected by whether the program is operated on a State-administered or county-administered basis, as provided under section 2012(t)(1) <sup>1</sup> of this title.
 
 #### (3) Records
 
@@ -50,7 +50,7 @@
 
 #### (b) Correction of improper denials and underissuances
 
-When a State agency learns, through its own reviews under section 2025 of this title or other reviews, or through other sources, that it has improperly denied, terminated, or underissued benefits to an eligible household, the State agency shall promptly restore any improperly denied benefits to the extent required by subsection (e)(11) of this section and section 2023(b) of this title, and shall take other steps to prevent a recurrence of such errors where such error was caused by the application of State agency practices, rules or procedures inconsistent with the requirements of this chapter or with regulations or policies of the Secretary issued under the authority of this chapter.
+When a State agency learns, through its own reviews under section 2025 of this title or other reviews, or through other sources, that it has improperly denied, terminated, or underissued benefits to an eligible household, the State agency shall promptly restore any improperly denied benefits to the extent required by subsection (e)(11) and section 2023(b) of this title, and shall take other steps to prevent a recurrence of such errors where such error was caused by the application of State agency practices, rules or procedures inconsistent with the requirements of this chapter or with regulations or policies of the Secretary issued under the authority of this chapter.
 
 #### (c) Civil rights compliance
 
@@ -72,7 +72,7 @@ When a State agency learns, through its own reviews under section 2025 of this t
 
 #### (d) Plan of operation by State agency; approval by Secretary; Indians
 
-The State agency (as defined in section 2012(t)(1) of this title) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in section 2012(t)(1) of this title shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in section 2012(t)(1) of this title) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in section 2012(t)(2) of this title is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act (25 U.S.C. 450) and similar Acts of Congress, the tribal organization's management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to section 2012(t)(2) of this title. A State agency, as defined in section 2012(t)(1) of this title, before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State's plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
+The State agency (as defined in section 2012(t)(1) <sup>1</sup> of this title) of each State desiring toparticipate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in section 2012(t)(1) <sup>1</sup> of this title shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in section 2012(t)(1) <sup>1</sup> of this title) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in section 2012(t)(2) <sup>1</sup> of this title is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act (25 U.S.C. 450) and similar Acts of Congress, the tribal organization's management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to section 2012(t)(2) <sup>1</sup> of this title. A State agency, as defined in section 2012(t)(1) <sup>1</sup> of this title, before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State's plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
 
 #### (e) Requisites of State plan of operation
 
@@ -114,7 +114,7 @@ Electronic and automated systems.—
 
 &emsp;&emsp;(i)
 
-In general.—Nothing in this chapter shall prohibit the use of signatures provided and maintained electronically, storage of records using automated retrieval systems only, or any other feature of a State agency's application system that does not rely exclusively on the collection and retention of paper applications or other records.
+In general.—Nothing in this chapter shall prohibit the use of signatures providedand maintained electronically, storage of records using automated retrieval systems only, or any other feature of a State agency's application system that does not rely exclusively on the collection and retention of paper applications or other records.
 
 &emsp;&emsp;(ii)
 
@@ -140,11 +140,11 @@ Requirements.—A system established under clause (ii) shall—
 
 &emsp;(D) The signature of any adult under this paragraph shall be considered sufficient to comply with any provision of Federal law requiring a household member to sign an application or statement;
 
-&emsp;(3) that the State agency shall thereafter promptly determine the eligibility of each applicant household by way of verification of income other than that determined to be excluded by section 2014(d) of this title (in part through the use of the information, if any, obtained under section 2025(e) of this title), household size (in any case such size is questionable), and such other eligibility factors as the Secretary determines to be necessary to implement sections 2014 and 2015 of this title, although the State agency may verify prior to certification, whether questionable or not, the size of any applicant household and such other eligibility factors as the State agency determines are necessary, so as to complete certification of and provide an allotment retroactive to the period of application to any eligible household not later than thirty days following its filing of an application, and that the State agency shall provide each applicant household, at the time of application, a clear written statement explaining what acts the household must perform to cooperate in obtaining verification and otherwise completing the application process;
+&emsp;(3) that the State agency shall thereafter promptly determine the eligibility of each applicant household by way of verification of income other than that determined to be excluded by section 2014(d) of this title (in part through the use of the information, if any, obtained under section 2025(e) of this title and after compliance with the requirement specified in paragraph (24)), household size (in any case such size is questionable), and such other eligibility factors as the Secretary determines to be necessary to implement sections 2014 and 2015 of this title, although the State agency may verify prior to certification, whether questionable or not, the size of any applicant household and such other eligibility factors as the State agency determines are necessary, so as to complete certification of and provide an allotment retroactive to the period of application to any eligible household not later than thirty days following its filing of an application, and that the State agency shall provide each applicant household, at the time of application, a clear written statement explaining what acts the household must perform to cooperate in obtaining verification and otherwise completing the application process;
 
 &emsp;(4) that the State agency shall insure that each participating household receive a notice of expiration of its certification prior to the start of the last month of its certification period advising the household that it must submit a new application in order to renew its eligibility for a new certification period and, further, that each such household which seeks to be certified another time or more times thereafter by filing an application for such recertification no later than fifteen days prior to the day upon which its existing certification period expires shall, if found to be still eligible, receive its allotment no later than one month after the receipt of the last allotment issued to it pursuant to its prior certification, but if such household is found to be ineligible or to be eligible for a smaller allotment during the new certification period it shall not continue to participate and receive benefits on the basis authorized for the preceding certification period even if it makes a timely request for a fair hearing pursuant to paragraph (10) of this subsection: <i>Provided</i>, That the timeliness standards for submitting the notice of expiration and filing an application for recertification may be modified by the Secretary in light of sections 2014(f)(2) and 2015(c) of this title if administratively necessary;
 
-&emsp;(5) the specific standards to be used in determining the eligibility of applicant householdswhich shall be in accordance with sections 2014 and 2015 of this title and shall include no additional requirements imposed by the State agency;
+&emsp;(5) the specific standards to be used in determining the eligibility of applicant households which shall be in accordance with sections 2014 and 2015 of this title and shall include no additional requirements imposed by the State agency;
 
 &emsp;(6) that—
 
@@ -204,13 +204,13 @@ Requirements.—A system established under clause (ii) shall—
 
 &emsp;(13) for indicators of expected performance in the administration of the program;
 
-&emsp;(14) that the State agency shall specify a plan of operation for providing supplemental nutrition assistance program benefits for households that are victims of a disaster; that such plan shall include, but not be limited to, procedures for informing the public about the disaster program and how to apply for its benefits, coordination with Federal and private disaster relief agencies and local government officials, application procedures to reduce hardship and inconvenience and deter fraud, and instruction of caseworkers in procedures for implementing and operating the disaster program;
+&emsp;(14) that the State agency shall specify a plan of operation for providing supplemental nutrition assistance program benefits for households that are victims of a disaster; thatsuch plan shall include, but not be limited to, procedures for informing the public about the disaster program and how to apply for its benefits, coordination with Federal and private disaster relief agencies and local government officials, application procedures to reduce hardship and inconvenience and deter fraud, and instruction of caseworkers in procedures for implementing and operating the disaster program;
 
 &emsp;(15) notwithstanding paragraph (8) of this subsection, for the immediate reporting to the Immigration and Naturalization Service by the State agency of a determination by personnel responsible for the certification or recertification of households that any member of a household is ineligible to receive supplemental nutrition assistance program benefits because that member is present in the United States in violation of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\];
 
 &emsp;(16) at the option of the State agency, for the establishment and operation of an automatic data processing and information retrieval system that meets such conditions as the Secretary may prescribe and that is designed to provide efficient and effective administration of the supplemental nutrition assistance program;
 
-&emsp;(17) at the option of the State agency, that information may be requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1137 of the Social Security Act \[42 U.S.C. 1320b–7\] and that any additional information available from agencies administering State unemployment compensation laws under the provisions of section 303(d) of the Social Security Act \[42 U.S.C. 503(d)\] may be requested and utilized by the State agency described in section 2012(t)(1) of this title to the extent permitted under the provisions of section 303(d) of the Social Security Act;
+&emsp;(17) at the option of the State agency, that information may be requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1137 of the Social Security Act \[42 U.S.C. 1320b–7\] and that any additional information available from agencies administering State unemployment compensation laws under the provisions of section 303(d) of the Social Security Act \[42 U.S.C. 503(d)\] may be requested and utilized by the State agency described in section 2012(t)(1) <sup>1</sup> of this title to the extent permitted under the provisions of section 303(d) of the Social Security Act;
 
 &emsp;(18) that the State agency shall establish a system and take action on a periodic basis—
 
@@ -228,15 +228,33 @@ Requirements.—A system established under clause (ii) shall—
 
 &emsp;(21) at the option of the State, for procedures necessary to obtain payment of uncollected overissuance of benefits from unemployment compensation pursuant to section 2022(c) of this title;
 
-&emsp;(22) the guidelines the State agency uses in carrying out section 2015(i) of this title; and
+&emsp;(22) the guidelines the State agency uses in carrying out section 2015(i) of this title;
 
-&emsp;(23) if a State elects to carry out a Simplified Supplemental Nutrition AssistanceProgram under section 2035 of this title, the plans of the State agency for operating the program, including—
+&emsp;(23) if a State elects to carry out a Simplified Supplemental Nutrition Assistance Program under section 2035 of this title, the plans of the State agency for operating the program, including—
 
 &emsp;&emsp;(A) the rules and procedures to be followed by the State agency to determine supplemental nutrition assistance program benefits;
 
 &emsp;&emsp;(B) how the State agency will address the needs of households that experience high shelter costs in relation to the incomes of the households; and
 
-&emsp;&emsp;(C) a description of the method by which the State agency will carry out a quality control system under section 2025(c) of this title.
+&emsp;&emsp;(C) a description of the method by which the State agency will carry out a quality control system under section 2025(c) of this title;
+
+&emsp;(24) that the State agency shall request wage data directly from the National Directory of New Hires established under section 453(i) of the Social Security Act (42 U.S.C. 653(i)) relevant to determining eligibility to receive supplemental nutrition assistance program benefits and determining the correct amount of those benefits at the time of certification; and
+
+&emsp;(25) if the State elects to carry out a program to contract with private establishments to offer meals at concessional prices, as described in paragraphs (3), (4), and (9) of section 2012(k) of this title—
+
+&emsp;&emsp;(A) the plans of the State agency for operating the program, including—
+
+&emsp;&emsp;&emsp;(i) documentation of a need that eligible homeless, elderly, and disabled clients are underserved in a particular geographic area;
+
+&emsp;&emsp;&emsp;(ii) the manner by which the State agency will limit participation to only those private establishments that the State determines necessary to meet the need identified in clause (i); and
+
+&emsp;&emsp;&emsp;(iii) any other conditions the Secretary may prescribe, such as the level of security necessary to ensure that only eligible recipients participate in the program; and
+
+&emsp;&emsp;(B) a report by the State agency to the Secretary annually, the schedule of which shall be established by the Secretary, that includes—
+
+&emsp;&emsp;&emsp;(i) the number of households and individual recipients authorized to participate in the program, including any information on whether the individual recipient is elderly, disabled, or homeless; and
+
+&emsp;&emsp;&emsp;(ii) an assessment of whether the program is meeting an established need, as documented under subparagraph (A)(i).
 
 #### (f) Repealed. Pub. L. 111–296, title II, §241(b)(2), Dec. 13, 2010, 124 Stat. 3236
 
@@ -262,7 +280,7 @@ If the Secretary determines that there has been negligence or fraud on the part 
 
 (1) Any individual who is an applicant for or recipient of supplemental security income or social security benefits (under regulations prescribed by the Secretary in conjunction with the Commissioner of Social Security) shall be informed of the availability of benefits under the supplemental nutrition assistance program and informed of the availability of a simple application to participate in such program at the social security office.
 
-(2) The Secretary and the Commissioner of Social Security shall revise the memorandum of understanding in effect on December 23, 1985, regarding services to be provided in social security offices under this subsection and subsection (i) of this section, in a manner to ensure that—
+(2) The Secretary and the Commissioner of Social Security shall revise the memorandum of understanding in effect on December 23, 1985, regarding services to be provided in social security offices under this subsection and subsection (i), in a manner to ensure that—
 
 &emsp;(A) applicants for and recipients of social security benefits are adequately notified in social security offices that assistance may be available to them under this chapter;
 
@@ -306,11 +324,11 @@ The Secretary shall require State agencies to conduct verification and implement
 
 #### (p) State verification option
 
-Notwithstanding any other provision of law, in carrying out the supplemental nutrition assistance program, a State agency shall not be required to use an income and eligibility or an immigration status verification system established under section 1137 of the Social Security Act (42 U.S.C. 1320b–7).
+In carrying out the supplemental nutrition assistance program, a State agency shall be required to use an immigration status verification system established under section 1137 of the Social Security Act (42 U.S.C. 1320b–7), and an income and eligibility verification system, in accordance with standards set by the Secretary.
 
 #### (q) Denial of benefits for prisoners
 
-The Secretary shall assist States, to the maximum extent practicable, in implementing a system to conduct computer matches or other systems to prevent prisoners described in subsection (e)(18)(B) of this section from participating in the supplemental nutrition assistance program as a member of any household.
+The Secretary shall assist States, to the maximum extent practicable, in implementing a system to conduct computer matches or other systems to prevent prisoners described in subsection (e)(18)(B) from participating in the supplemental nutrition assistance program as a member of any household.
 
 #### (r) Denial of benefits for deceased individuals
 
@@ -442,9 +460,41 @@ Each State agency shall—
 
 &emsp;&emsp;(B) each State agency shall cooperate in carrying out paragraphs (3)(F) and (4) of section 9(b) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)).
 
-(Pub. L. 88–525, §11, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 969; Pub. L. 96–249, title I, §§113, 116–120, 122, 123, May 26, 1980, 94 Stat. 361–363; Pub. L. 97–35, title I, §111(a), Aug. 13, 1981, 95 Stat. 362; Pub. L. 97–98, title XIII, §§1316–1320(a), 1321–1323, Dec. 22, 1981, 95 Stat. 1286, 1287; Pub. L. 97–253, title I, §§166–174, 180(b)(1), 189(b)(2), 190(c)(1), Sept. 8, 1982, 96 Stat. 779, 780, 783, 787; Pub. L. 98–204, §7, Dec. 2, 1983, 97 Stat. 1386; Pub. L. 98–369, div. B, title VI, §2651(i), July 18, 1984, 98 Stat. 1150; Pub. L. 99–198, title XV, §§1507(b), 1517(b), 1525–1531(a), (b), 1535(b)(1), 1537(b), (c), Dec. 23, 1985, 99 Stat. 1568, 1576, 1580–1582, 1584, 1586, 1587; Pub. L. 100–77, title VIII, §§808(a), 809(a), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, §204(a), title III, §§310, 311, 320, 321(a), 322, 323, 330, 352, Sept. 19, 1988, 102 Stat. 1657, 1660–1662, 1665; Pub. L. 101–624, title XVII, §§1736–1741, 1763(b), Nov. 28, 1990, 104 Stat. 3793, 3794, 3806; Pub. L. 102–237, title IX, §941(5), (6), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §13941(a), Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–296, title I, §108(f)(2), (3), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, §1011(x), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–193, title VIII, §§809(b), 819(b), 835–840, 844(b), 848(b)(1), 854(b), Aug. 22, 1996, 110 Stat. 2313, 2320, 2329–2331, 2333, 2334, 2342; Pub. L. 105–33, title I, §§1003(a)(1), (2), (b), 1004, Aug. 5, 1997, 111 Stat. 255, 256; Pub. L. 105–379, §1(a), Nov. 12, 1998, 112 Stat. 3399; Pub. L. 107–171, title IV, §§4114(a), 4115(a), 4116(a), May 13, 2002, 116 Stat. 314, 315; Pub. L. 108–265, title I, §104(b)(2), June 30, 2004, 118 Stat. 737; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, §7511(c)(5), May 22, 2008, 122 Stat. 1092, 1093, 1101, 1102, 1107, 1110–1112, 1140, 1267; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, §7511(c)(5), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1862, 1863, 1868, 1871–1874, 1902, 2029; Pub. L. 111–296, title II, §241(b)(2), Dec. 13, 2010, 124 Stat. 3236.)
+#### (v) Data exchange standards for improved interoperability
+
+#### (1) Designation
+
+&emsp;The Secretary shall, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, designate data exchange standards to govern, under this chapter—
+
+&emsp;&emsp;(A) necessary categories of information that State agencies operating related programs are required under applicable law to electronically exchange with another State agency; and
+
+&emsp;&emsp;(B) Federal reporting and data exchange required under applicable law.
+
+#### (2) Requirements
+
+&emsp;The data exchange standards required by paragraph (1) shall, to the maximum extent practicable—
+
+&emsp;&emsp;(A) incorporate a widely accepted, nonproprietary, searchable, computer-readable format, such as the eXtensible Markup Language;
+
+&emsp;&emsp;(B) contain interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model;
+
+&emsp;&emsp;(C) incorporate interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance;
+
+&emsp;&emsp;(D) be consistent with and implement applicable accounting principles;
+
+&emsp;&emsp;(E) be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+
+&emsp;&emsp;(F) be capable of being continually upgraded as necessary.
+
+#### (3) Rules of construction
+
+&emsp;Nothing in this subsection requires a change to existing data exchange standards for Federal reporting found to be effective and efficient.
+
+(Pub. L. 88–525, §11, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 969; Pub. L. 96–249, title I, §§113, 116–120, 122, 123, May 26, 1980, 94 Stat. 361–363; Pub. L. 97–35, title I, §111(a), Aug. 13, 1981, 95 Stat. 362; Pub. L. 97–98, title XIII, §§1316–1320(a), 1321–1323, Dec. 22, 1981, 95 Stat. 1286, 1287; Pub. L. 97–253, title I, §§166–174, 180(b)(1), 189(b)(2), 190(c)(1), Sept. 8, 1982, 96 Stat. 779, 780, 783, 787; Pub. L. 98–204, §7, Dec. 2, 1983, 97 Stat. 1386; Pub. L. 98–369, div. B, title VI, §2651(i), July 18, 1984, 98 Stat. 1150; Pub. L. 99–198, title XV, §§1507(b), 1517(b), 1525–1531(a), (b), 1535(b)(1), 1537(b), (c), Dec. 23, 1985, 99 Stat. 1568, 1576, 1580–1582, 1584, 1586, 1587; Pub. L. 100–77, title VIII, §§808(a), 809(a), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, §204(a), title III, §§310, 311, 320, 321(a), 322, 323, 330, 352, Sept. 19, 1988, 102 Stat. 1657, 1660–1662, 1665; Pub. L. 101–624, title XVII, §§1736–1741, 1763(b), Nov. 28, 1990, 104 Stat. 3793, 3794, 3806; Pub. L. 102–237, title IX, §941(5), (6), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §13941(a), Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–296, title I, §108(f)(2), (3), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, §1011(x), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–193, title VIII, §§809(b), 819(b), 835–840, 844(b), 848(b)(1), 854(b), Aug. 22, 1996, 110 Stat. 2313, 2320, 2329–2331, 2333, 2334, 2342; Pub. L. 105–33, title I, §§1003(a)(1), (2), (b), 1004, Aug. 5, 1997, 111 Stat. 255, 256; Pub. L. 105–379, §1(a), Nov. 12, 1998, 112 Stat. 3399; Pub. L. 107–171, title IV, §§4114(a), 4115(a), 4116(a), May 13, 2002, 116 Stat. 314, 315; Pub. L. 108–265, title I, §104(b)(2), June 30, 2004, 118 Stat. 737; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, §7511(c)(5), May 22, 2008, 122 Stat. 1092, 1093, 1101, 1102, 1107, 1110–1112, 1140, 1267; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, §7511(c)(5), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1862, 1863, 1868, 1871–1874, 1902, 2029; Pub. L. 111–296, title II, §241(b)(2), Dec. 13, 2010, 124 Stat. 3236; Pub. L. 113–79, title IV, §§4013, 4014(a), 4015, 4016(a), Feb. 7, 2014, 128 Stat. 793, 795.)
 
 #### References in Text
+
+Subsec. (t) of section 2012 of this title, referred to in subsecs. (a)(2), (d), and (e)(17), was redesignated as subsec. (s) by Pub. L. 113–79, title IV, §4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
 
 The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(A), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
@@ -462,13 +512,23 @@ The Social Security Act, referred to in subsec. (s)(1)(A), is act Aug. 14, 1935,
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (u), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (u)(2)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 etseq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (u)(2)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+Subsec. (e)(3). Pub. L. 113–79, §4013(1), inserted "and after compliance with the requirement specified in paragraph (24)" after "section 2025(e) of this title".
+
+Subsec. (e)(24). Pub. L. 113–79, §4013(2)–(4), added par. (24).
+
+Subsec. (e)(25). Pub. L. 113–79, §4014(a), added par. (25).
+
+Subsec. (p). Pub. L. 113–79, §4015, added subsec. (p) and struck out former subsec. (p). Prior to amendment, text read as follows: "Notwithstanding any other provision of law, in carrying out the supplemental nutrition assistance program, a State agency shall not be required to use an income and eligibility or an immigration status verification system established under section 1137 of the Social Security Act (42 U.S.C. 1320b–7)."
+
+Subsec. (v). Pub. L. 113–79, §4016(a), added subsec. (v).
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–296 struck out subsec. (f) which related to nutrition education.
 
@@ -502,7 +562,7 @@ Pub. L. 110–246, §4115(b)(8)(B)(i), substituted "paragraph (15) or (18)(B)" f
 
 Subsec. (e)(8)(F). Pub. L. 110–246, §4120(2), (4), redesignated subpar. (E) as (F) and inserted "or subsection (u)" before semicolon at end.
 
-Subsec. (e)(15) to (17). Pub. L. 110–246, §4115(b)(8)(B)(ii)–(iv), redesignated pars. (16) to (18) as (15) to (17), respectively, in par. (17), substituted "described in section 2012(t)(1) of this title" for "(described in section 2012(n)(1) of this title)", and struck out former par. (15) which read as follows: "that the State agency shall require each household certified as eligible to participate by methods other than the out-of-office methods specified in the fourth sentence of paragraph (2) of this subsection in those project areas or parts of project areas in which the Secretary, in consultation with the Department's Inspector General, finds that it would be useful to protect the program's integrity and would be cost effective, to present a photographic identification card when using its authorization card in order to receive its coupons. The State agency may permit a member of a household to comply with this paragraph by presenting a photographic identification card used to receive assistance under a welfare or public assistance program;".
+Subsec. (e)(15) to (17). Pub. L. 110–246, §4115(b)(8)(B)(ii)–(iv), redesignated pars. (16) to (18) as (15) to (17), respectively, in par. (17), substituted "described in section 2012(t)(1) of this title" for "(described in section 2012(n)(1) of this title)", and struck out former par. (15) which read as follows: "that the State agency shall require each household certified as eligible to participate by methods other than the out-of-office methods specified in the fourth sentence of paragraph (2) of this subsection in those project areas or parts of project areas in which the Secretary, in consultation with the Department's Inspector General, finds that it would be useful to protect the program'sintegrity and would be cost effective, to present a photographic identification card when using its authorization card in order to receive its coupons. The State agency may permit a member of a household to comply with this paragraph by presenting a photographic identification card used to receive assistance under a welfare or public assistance program;".
 
 Subsec. (e)(18) to (24). Pub. L. 110–246, §4115(b)(8)(B)(ii), (iii), redesignated pars. (20) to (25) as (18) to (23), respectively, and struck out former par. (19) which read as follows: "that, in project areas or parts thereof where authorization cards are used, and eligible households are required to present photographic identification cards in order to receive their coupons, the State agency shall include, in any agreement or contract with a coupon issuer, a provision that (A) the issuer shall (i) require the presenter to furnish a photographic identification card at the time the authorization card is presented, and (ii) record on the authorization card the identification number shown on the photographic identification card; and (B) if the State agency determines that the authorization card has been stolen or otherwise was not received by a household certified as eligible, the issuer shall be liable to the State agency for the face value of any coupons issued in the transaction in which such card is used and the issuer fails to comply with the requirements of clause (A) of this paragraph;". Former par. (18) redesignated (17).
 
@@ -520,7 +580,7 @@ Subsec. (k). Pub. L. 110–246, §4002(a)(6)(B), substituted "may provide, on re
 
 Subsec. (l). Pub. L. 110–246, §4002(a)(6)(C), substituted "supplemental nutrition assistance program participation" for "food stamp participation".
 
-Subsec. (n). Pub. L. 110–246, §4115(b)(8)(E), substituted "both benefits and benefits or payments" for "bothcoupons and benefits or payments" and "both benefits and assistance provided in lieu of benefits" for "both coupons and assistance provided in lieu of coupons".
+Subsec. (n). Pub. L. 110–246, §4115(b)(8)(E), substituted "both benefits and benefits or payments" for "both coupons and benefits or payments" and "both benefits and assistance provided in lieu of benefits" for "both coupons and assistance provided in lieu of coupons".
 
 Subsec. (q). Pub. L. 110–246, §4115(b)(8)(F), substituted "subsection (e)(18)(B)" for "subsection (e)(20)(B)".
 
@@ -560,7 +620,7 @@ Subsec. (q). Pub. L. 105–33, §1003(b), added subsec. (q).
 
 Subsec. (e)(3). Pub. L. 104–193, §§809(b), 835(1)(B), substituted "shall" for "shall—" after "and that the State agency", struck out "(A)" before "provide each applicant household" and struck out subpars. (B) to (E) and concluding provisions which provided that State agency was to assist each applicant household in obtaining appropriate verification and completing application process, not require any household to submit additional proof of matter on which State agency already had current verification, not deny any application for participation solely because of failure of person outside household to cooperate, process applications if household complied with requirements of first sentence of section 2015(c) of this title by taking appropriate steps to verify information otherwise required to be verified under this chapter, provide household, at time of each certification and recertification, with statement describing reporting responsibilities of household under this chapter, and provide toll-free or local telephone number, or telephone number at which collect calls would be accepted by State agency, at which household could reach appropriate representative of State agency.
 
-Subsec. (e)(6). Pub. L. 104–193, §836, substituted "(6) that—" for "(6) that", realigned margins of subpars. (A) and (B), in subpar. (B) substituted "Office of Personnel Management" for "United States Civil Service Commission", and struck out subpars. (C) to (E) which read as follows: "(C) the State agency shall provide a continuing, comprehensive program of training for all personnel undertaking such certification so that eligible households are promptly and accurately certified to receive the allotments for which they are eligible under this chapter; (D) the State agency, at its option, may undertake intensive training to ensure that State agency personnel who undertake the certification of households that include a member who engages in farming are qualified to perform such certification; and (E) at its option, the State agency may provide, or contract for the provision of, training and assistance to persons working with volunteer or nonprofit organizations that provide program information activities or eligibility screening to persons potentially eligible for food stamps;".
+Subsec. (e)(6). Pub. L. 104–193, §836, substituted "(6) that—" for "(6) that", realigned margins of subpars. (A) and (B), in subpar. (B) substituted "Office of Personnel Management" for "United States Civil Service Commission", and struck out subpars. (C) to (E) which read as follows: "(C) the State agency shall provide a continuing, comprehensive program of training for all personnel undertaking such certification so that eligible households are promptly and accurately certified to receive the allotments for which they are eligible under this chapter; (D) the State agency, at its option, may undertake intensive training to ensure that State agency personnel who undertake the certification of households that include a member who engages in farming are qualified to perform such certification; and (E) at its option, the State agency may provide, or contractfor the provision of, training and assistance to persons working with volunteer or nonprofit organizations that provide program information activities or eligibility screening to persons potentially eligible for food stamps;".
 
 Subsec. (e)(8). Pub. L. 104–193, §§837, 844(b), in introductory provisions, substituted "except that—" for "except that", in subpar. (A), realigned margin, substituted "the safeguards" for "such safeguards" and semicolon for comma at end, in subpar. (B), realigned margin and substituted "chapter;" for "chapter, and", in subpar. (C), realigned margin, substituted "the safeguards" for "such safeguards", struck out "and excluding claims arising from an error of the State agency, that has not been recovered pursuant to such section" before ", from Federal pay", and inserted before semicolon at end "or a Federal income tax refund as authorized by section 3720A of title 31", and added subpars. (D) and (E).
 
@@ -636,7 +696,7 @@ Subsec. (f). Pub. L. 101–624, §1739, inserted first sentence and struck out f
 
 Subsec. (g). Pub. L. 101–624, §1763(b), inserted "or the requirements established pursuant to section 2032 of this title" after "section 2025(b)(1) of this title" in first sentence.
 
-Subsec. (i)(3). Pub. L. 101–624, §1740, inserted "in a State that has a single State-wide general assistance application form" after "grant" and inserted before semicolon at end ", and households applying for a localgeneral assistance grant in a local jurisdiction in which the agency administering the general assistance program also administers the food stamp program shall be provided an application for participation in the food stamp program at the time of their application for general assistance, along with information concerning how to apply for the food stamp program".
+Subsec. (i)(3). Pub. L. 101–624, §1740, inserted "in a State that has a single State-wide general assistance application form" after "grant" and inserted before semicolon at end ", and households applying for a local general assistance grant in a local jurisdiction in which the agency administering the general assistance program also administers the food stamp program shall be provided an application for participation in the food stamp program at the time of their application for general assistance, along with information concerning how to apply for the food stamp program".
 
 Subsec. (j)(1). Pub. L. 101–624, §1741, inserted "supplemental security income or" after "recipient of".
 
@@ -668,7 +728,7 @@ Subsec. (e)(9). Pub. L. 100–77, §809(a), added subpars. (B) and (C), redesign
 
 Pub. L. 99–198, §1525, inserted requirement that one adult member of a household that is applying for a coupon allotment certify in writing, under penalty of perjury, the truth of the information contained in the application for the allotment.
 
-Subsec. (e)(3). Pub. L. 99–198, §1527, struck out "only" after "verification", inserted ", household size (in any case such size is questionable,", and substituted "such other eligibility factors as the State agency determines are necessary" for "any factors of eligibility involving households that fall within the State agency's error-prone household profiles as developed by the State agency from the error rate reduction system conducted under section 2025 of this title and as approved by the Secretary".
+Subsec. (e)(3). Pub. L. 99–198, §1527, struck out "only" after "verification", inserted ", household size (in any case such size is questionable,", and substituted "such other eligibility factors as the State agency determinesare necessary" for "any factors of eligibility involving households that fall within the State agency's error-prone household profiles as developed by the State agency from the error rate reduction system conducted under section 2025 of this title and as approved by the Secretary".
 
 Subsec. (e)(16). Pub. L. 99–198, §1528, substituted "fourth sentence" for "last sentence", inserted "and would be cost effective" after "integrity", and inserted provision authorizing the State agency to permit a member of a household to comply with this paragraph by presenting a photographic identification card used to receive assistance under a welfare or public assistance program.
 
@@ -722,7 +782,7 @@ Subsec. (e)(14) to (21). Pub. L. 97–253, §190(c)(1), redesignated pars. (14) 
 
 Subsec. (e)(22). Pub. L. 97–253, §§172, 190(c)(1), added par. (22) and redesignated it as par. (21).
 
-Subsec. (i). Pub. L. 97–253, §§173, 189(b)(2)(A), inserted provision requiring each State agency to implement pars. (1) and (2), and permitting each such agency to implement either par. (3) or (4), or both, and substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
+Subsec. (i). Pub. L. 97–253, §§173, 189(b)(2)(A), inserted provision requiring each State agency to implement pars. (1) and (2), and permitting each such agency to implement either par. (3) or (4), or both, and substituted reference to the Secretary of Health andHuman Services for former reference to the Secretary of Health, Education, and Welfare.
 
 Subsec. (j). Pub. L. 97–253, §189(b)(2)(B), substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
 
@@ -822,7 +882,7 @@ Amendment by sections 1736(1), 1737, 1738, 1740, and 1741 of Pub. L. 101–624 e
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 to be effective and implemented on July 1, 1989, except that amendment by sections 204(a), 310, 311, 321(a), 322, 323, and 352 of Pub. L. 100–435 to become effective and implemented on Oct. 1, 1989, if final order is issued under section 902(b) ofTitle 2, The Congress, for fiscal year 1989 making reductions and sequestrations specified in the report required under section 901(a)(3)(A) of Title 2, see section 701(b)(4), (c)(2) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 to be effective and implemented on July 1, 1989, except that amendment by sections 204(a), 310, 311, 321(a), 322, 323, and 352 of Pub. L. 100–435 to become effective and implemented on Oct. 1, 1989, if final order is issued under section 902(b) of Title 2, The Congress, for fiscal year 1989 making reductions and sequestrations specified in the report required under section 901(a)(3)(A) of Title 2, see section 701(b)(4), (c)(2) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -858,6 +918,26 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 
 #### Regulations
 
+Pub. L. 113–79, title IV, §4016(b), Feb. 7, 2014, 128 Stat. 795, provided that:
+
+"(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall issue a proposed rule to carry out the amendments made by this section \[amending this section\].
+
+"(2)
+
+Requirements.—The rule shall—
+
+&emsp;"(A) identify federally required data exchanges;
+
+&emsp;"(B) include specification and timing of exchanges to be standardized;
+
+&emsp;"(C) address the factors used in determining whether and when to standardize data exchanges;
+
+&emsp;"(D) specify State implementation options; and
+
+&emsp;"(E) describe future milestones."
+
 Secretary of Agriculture to promulgate regulations necessary to implement amendment of this section by Pub. L. 105–33, not later than one year after Aug. 5, 1997, see §1005(a) of Pub. L. 105–33 set out as a note under section 2015 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
@@ -889,4 +969,6 @@ Ex. Ord. No. 12116, Jan. 19, 1979, 44 F.R. 4647, provided:
 By the authority vested in me as President of the United States of America by Section 11(k) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] (91 Stat. 974; 7 U.S.C. 2020(k)), the United States Postal Service is hereby granted approval for post offices in all or part of any State to issue food stamps to eligible households, upon request by the appropriate State agency, as defined in Section 3(n) of the Food Stamp Act of 1977 (91 Stat. 960; 7 U.S.C. 2012(n)).
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

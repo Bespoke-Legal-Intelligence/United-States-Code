@@ -76,7 +76,7 @@ Nonapplication.—Subsections (b) and (c) of this section do not apply to—
 
 (e)
 
-Grant Limitations.—Beginning on the 91st day after the Secretary prescribes a regulation under subsection (a) of this section, a sponsor ofa facility operating under an airport noise or access restriction on the operation of stage 3 aircraft that first became effective after October 1, 1990, is eligible for a grant under section 47104 of this title and is eligible to impose a passenger facility charge under section 40117 of this title only if the restriction has been—
+Grant Limitations.—Beginning on the 91st day after the Secretary prescribes a regulation under subsection (a) of this section, a sponsor of a facility operating under an airport noise or access restriction on the operation of stage 3 aircraft that first became effective after October 1, 1990, is eligible for a grant under section 47104 of this title and is eligible to impose a passenger facility charge under section 40117 of this title only if the restriction has been—
 
 &emsp;(1) agreed to by the airport proprietor and aircraft operators;
 

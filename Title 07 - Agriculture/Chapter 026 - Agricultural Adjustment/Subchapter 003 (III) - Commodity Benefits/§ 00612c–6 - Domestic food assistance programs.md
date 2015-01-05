@@ -76,7 +76,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 112–55 inserted "except section 21, and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except sections 17 and 21" before period at end.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–55 inserted "except section 21, and the Child Nutrition Act of 1966 (42 U.S.C.1771 et seq.), except sections 17 and 21" before period at end.
 
 #### Effective Date
 

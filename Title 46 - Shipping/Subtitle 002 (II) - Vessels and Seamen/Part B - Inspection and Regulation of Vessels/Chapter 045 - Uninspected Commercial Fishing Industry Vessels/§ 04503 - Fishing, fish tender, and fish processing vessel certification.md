@@ -58,7 +58,7 @@ Subsec. (a). Pub. L. 111–281, §604(e)(1)(B), struck out "fish processing" bef
 
 Subsecs. (c), (d). Pub. L. 111–281, §604(e)(1)(C), added subsecs. (c) and (d).
 
-<b>1988</b>—Pub. L. 100–424 amended section generally, substituting "Fish processing vessel certification" for "Equivalency" in section catchline, and provisions which require certification issued by American Bureauof Shipping or similar organization for fish processing vessel built after July 27, 1990, or undergoes major conversion completed after that date, for provisions which deemed compliance with this chapter if vessel has unexpired certificate of inspection issued by foreign country that is party to International Convention for Safety of Life at Sea to which United States is party.
+<b>1988</b>—Pub. L. 100–424 amended section generally, substituting "Fish processing vessel certification" for "Equivalency" in section catchline, and provisions which require certification issued by American Bureau of Shipping or similar organization for fish processing vessel built after July 27, 1990, or undergoes major conversion completed after that date, for provisions which deemed compliance with this chapter if vessel has unexpired certificate of inspection issued by foreign country that is party to International Convention for Safety of Life at Sea to which United States is party.
 
 <b>1984</b>—Pub. L. 98–557 substituted "is deemed" for "shall be deemed".
 

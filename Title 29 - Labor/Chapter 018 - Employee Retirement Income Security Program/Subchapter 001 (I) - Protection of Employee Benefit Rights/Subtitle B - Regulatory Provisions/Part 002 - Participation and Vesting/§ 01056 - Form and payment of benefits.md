@@ -52,7 +52,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(i) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate payee covered by the order,
 
-&emsp;(ii) the amount or percentage of the participant's benefits to be paid by the plan to each such alternate payee, or the manner in which such amount or percentage is to be determined,
+&emsp;(ii) the amount or percentage of the participant's benefits to be paid by the plan to eachsuch alternate payee, or the manner in which such amount or percentage is to be determined,
 
 &emsp;(iii) the number of payments or period to which such order applies, and
 
@@ -186,7 +186,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;For purposes of paragraph (1), the term "prohibited payment" means—
 
-&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
+&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
 
 &emsp;&emsp;(B) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -262,7 +262,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (B) Bankruptcy
 
-&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
+&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 1083(h)(2)(C)(iv) of this title) is not less than 100 percent.
 
 #### (C) Limited payment if percentage at least 60 percent but less than 80 percent
 
@@ -382,7 +382,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;(ii) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actual adjusted funding target attainment percentage of the plan for the current plan year,
 
-> &emsp;&emsp;until the enrolled actuary so certifies, such first day shall be deemed, for purposes ofsuch paragraph, to be the valuation date of the plan for the current plan year and the adjusted funding target attainment percentage of the plan as of such first day shall, for purposes of such paragraph, be presumed to be equal to 10 percentage points less than the adjusted funding target attainment percentage of the plan for such preceding plan year.
+> &emsp;&emsp;until the enrolled actuary so certifies, such first day shall be deemed, for purposes of such paragraph, to be the valuation date of the plan for the current plan year and the adjusted funding target attainment percentage of the plan as of such first day shall, for purposes of such paragraph, be presumed to be equal to 10 percentage points less than the adjusted funding target attainment percentage of the plan for such preceding plan year.
 
 #### (8) Treatment of plan as of close of prohibited or cessation period
 
@@ -390,7 +390,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) Operation of plan after period
 
-&emsp;&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period for which any limitation of payment or accrual of benefits under paragraph (3) or (4) applies.
+&emsp;&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the periodfor which any limitation of payment or accrual of benefits under paragraph (3) or (4) applies.
 
 #### (B) Treatment of affected benefits
 
@@ -410,77 +410,19 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (C) Application to plans which are fully funded without regard to reductions for funding balances
 
-#### (i) In general
-
-&emsp;&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
-
-#### (ii) Transition rule
-
-&emsp;&emsp;&emsp;Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for "100 percent" the applicable percentage determined in accordance with the following table:
-
-<b> In the case of a plan year</b>
-
-<b>The applicable</b>
-
-<b>  beginning in calendar year:</b>
-
-<b>percentage is</b>
-
-&emsp;&emsp;2008
-
-92&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2009
-
-94&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2010
-
-96\.&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### (iii) Limitation
-
-&emsp;&emsp;&emsp;Clause (ii) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
-
-#### (D) Special rule for certain years
-
-&emsp;&emsp;Solely for purposes of any applicable provision—
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;For plan years beginning on or after October 1, 2008, and before October 1, 2010, the adjusted funding target attainment percentage of a plan shall be the greater of—
-
-&emsp;&emsp;&emsp;&emsp;(I) such percentage, as determined without regard to this subparagraph, or
-
-&emsp;&emsp;&emsp;&emsp;(II) the adjusted funding target attainment percentage for such plan for the plan year beginning after October 1, 2007, and before October 1, 2008, as determined under rules prescribed by the Secretary of the Treasury.
-
-#### (ii) Special rule
-
-&emsp;&emsp;&emsp;In the case of a plan for which the valuation date is not the first day of the plan year—
-
-&emsp;&emsp;&emsp;&emsp;(I) clause (i) shall apply to plan years beginning after December 31, 2007, and before January 1, 2010, and
-
-&emsp;&emsp;&emsp;&emsp;(II) clause (i)(II) shall apply based on the last plan year beginning before November 1, 2007, as determined under rules prescribed by the Secretary of the Treasury.
-
-#### (iii) Applicable provision
-
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "applicable provision" means—
-
-&emsp;&emsp;&emsp;&emsp;(I) paragraph (3), but only for purposes of applying such paragraph to a payment which, as determined under rules prescribed by the Secretary of the Treasury, is a payment under a social security leveling option which accelerates payments under the plan before, and reduces payments after, a participant starts receiving social security benefits in order to provide substantially similar aggregate payments both before and after such benefits are received, and
-
-&emsp;&emsp;&emsp;&emsp;(II) paragraph (4).
+&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
 
 #### (10) Secretarial authority for plans with alternate valuation date
 
 &emsp;In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
 
-#### (11) Special rule for 2008
+#### \[(11) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(57)(G)(ii), Dec. 19, 2014, 128 Stat. 4047\]
 
-&emsp;For purposes of this subsection, in the case of plan years beginning in 2008, the fundingtarget attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
+#### (12) CSEC plans
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299.)
+&emsp;This subsection shall not apply to a CSEC plan (as defined in section 1060(f) of this title).
+
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047.)
 
 #### References in Text
 
@@ -491,6 +433,16 @@ The Railroad Retirement Act of 1937, referred to in subsec. (b), is act Aug. 29,
 This chapter, referred to in subsecs. (e)(4) and (g)(5)(C)(i), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(3)(B). Pub. L. 113–159 substituted "of such plan (determined by not taking into account any adjustment of segment rates under section 1083(h)(2)(C)(iv) of this title)" for "of such plan".
+
+Subsec. (g)(9)(C). Pub. L. 113–295, §221(a)(57)(E)(ii), struck out cl. (i) designation and heading and struck out cls. (ii) and (iii) which related to transition rule for plan years 2008 to 2010 and limitation on transition rule, respectively.
+
+Subsec. (g)(9)(D). Pub. L. 113–295, §221(a)(57)(F)(ii), struck out subpar. (D) which related to special rule for certain years.
+
+Subsec. (g)(11). Pub. L. 113–295, §221(a)(57)(G)(ii), struck out par. (11). Text read as follows: "For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide."
+
+Subsec. (g)(12). Pub. L. 113–97 added par. (12).
 
 <b>2010</b>—Subsec. (g)(9)(D). Pub. L. 111–192, §203(a)(1), added subpar. (D).
 
@@ -551,6 +503,14 @@ Subsec. (d)(3)(M). Pub. L. 99–514, §1898(c)(5), added subpar. (M).
 Subsec. (d)(3)(N). Pub. L. 99–514, §1898(c)(4)(B), redesignated subpar. (L) as (N).
 
 <b>1984</b>—Subsec. (d)(3). Pub. L. 98–397 added par. (3).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 113–159 applicable to plan years beginning after Dec. 31, 2014, except as otherwise provided, see section 2003(c)(3) of Pub. L. 113–159, set out as a note under section 436 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 

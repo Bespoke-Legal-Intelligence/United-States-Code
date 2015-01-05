@@ -18,7 +18,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;(iii) in a program assisted under subchapter IV of this chapter; <sup>1</sup>
 
-&emsp;(iv) in the private practice of the applicable profession if, as determined by the Secretary,in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians; or <sup>2</sup>
+&emsp;(iv) in the private practice of the applicable profession if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians; or <sup>2</sup>
 
 (B) At the request of any individual who has entered into a contract referred to in subparagraph (A) and who receives a degree in medicine (including osteopathic or allopathic medicine), dentistry, optometry, podiatry, or pharmacy, the Secretary shall defer the active duty service obligation of that individual under that contract, in order that such individual may complete any internship, residency, or other advanced clinical training that is required for the practice of that health profession, for an appropriate period (in years, as determined by the Secretary), subject to the following conditions:
 
@@ -78,7 +78,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 #### (c) Placement Office
 
-The Secretary shall, acting through the Service, establish a Placement Office to develop andimplement a national policy for the placement, to available vacancies within the Service, of Indian Health Scholarship recipients required to meet the active duty service obligation prescribed under section 254m of title 42 without regard to any competitive personnel system, agency personnel limitation, or Indian preference policy.
+The Secretary shall, acting through the Service, establish a Placement Office to develop and implement a national policy for the placement, to available vacancies within the Service, of Indian Health Scholarship recipients required to meet the active duty service obligation prescribed under section 254m of title 42 without regard to any competitive personnel system, agency personnel limitation, or Indian preference policy.
 
 (Pub. L. 94–437, title I, §104, as added Pub. L. 100–713, title I, §104(a), Nov. 23, 1988, 102 Stat. 4786; amended Pub. L. 102–573, title I, §§102(c), 103, Oct. 29, 1992, 106 Stat. 4531, 4532; Pub. L. 104–313, §2(b), Oct. 19, 1996, 110 Stat. 3820.)
 

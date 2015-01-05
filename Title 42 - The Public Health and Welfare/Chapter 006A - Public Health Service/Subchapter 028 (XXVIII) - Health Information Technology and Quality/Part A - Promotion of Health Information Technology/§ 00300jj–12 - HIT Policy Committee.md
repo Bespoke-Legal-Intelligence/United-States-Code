@@ -8,7 +8,7 @@ There is established a HIT Policy Committee to make policy recommendations to th
 
 #### (1) Recommendations on health information technology infrastructure
 
-&emsp;The HIT Policy Committee shall recommend a policy framework for the development and adoption of a nationwide health information technology infrastructure that permits the electronic exchange and use of health information as is consistent with the strategic plan under section 300jj–11(c)(3) of this title and that includes the recommendations under paragraph (2). The Committee shall update such recommendations and make new recommendations as appropriate.
+&emsp;The HIT Policy Committee shall recommend a policy framework for the development andadoption of a nationwide health information technology infrastructure that permits the electronic exchange and use of health information as is consistent with the strategic plan under section 300jj–11(c)(3) of this title and that includes the recommendations under paragraph (2). The Committee shall update such recommendations and make new recommendations as appropriate.
 
 #### (2) Specific areas of standard development
 
@@ -138,7 +138,7 @@ There is established a HIT Policy Committee to make policy recommendations to th
 
 #### (A) In general
 
-&emsp;&emsp;The terms of the members of the HIT Policy Committee shall be for 3 years, exceptthat the Comptroller General shall designate staggered terms for the members first appointed.
+&emsp;&emsp;The terms of the members of the HIT Policy Committee shall be for 3 years, except that the Comptroller General shall designate staggered terms for the members first appointed.
 
 #### (B) Vacancies
 
@@ -166,7 +166,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 of suc
 
 #### (e) Publication
 
-The Secretary shall provide for publication in the Federal Register and the posting on the Internet website of the Office of the National Coordinator for Health Information Technology of all policy recommendations made by the HIT Policy Committee under this section.
+The Secretary shall provide for publication in the Federal Register and the posting on theInternet website of the Office of the National Coordinator for Health Information Technology of all policy recommendations made by the HIT Policy Committee under this section.
 
 (July 1, 1944, ch. 373, title XXX, §3002, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 234.)
 

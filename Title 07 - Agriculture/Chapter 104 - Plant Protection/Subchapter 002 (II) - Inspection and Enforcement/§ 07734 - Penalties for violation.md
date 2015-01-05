@@ -22,7 +22,7 @@
 
 &emsp;Any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
 
-&emsp;&emsp;(A) $50,000 in the case of any individual (except that the civil penalty may not exceed $1,000 in the case of an initial violation of this chapter by an individual moving regulated articles not for monetary gain), $250,000 in the case of any other person for each violation, $500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation; or
+&emsp;&emsp;(A) $50,000 in the case of any individual (except that the civil penalty may not exceed $1,000 in the case of an initial violation of this chapter by an individual moving regulated articles not for monetary gain), $250,000 in the case of any other person for each violation, $500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and$1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation; or
 
 &emsp;&emsp;(B) twice the gross gain or gross loss for any violation, forgery, counterfeiting, unauthorized use, defacing, or destruction of a certificate, permit, or other document provided for in this chapter that results in the person deriving pecuniary gain or causing pecuniary loss to another.
 

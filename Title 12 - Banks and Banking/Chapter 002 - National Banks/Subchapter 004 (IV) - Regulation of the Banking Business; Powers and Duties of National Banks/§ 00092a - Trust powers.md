@@ -50,7 +50,7 @@ Any national banking association desiring to surrender its right to exercise the
 
 (4) A revocation order shall become effective not earlier than the expiration of thirty days after service of such order upon the association so served (except in the case of a revocation order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Comptroller or a reviewing court.
 
-(Pub. L. 87–722, §1, Sept. 28, 1962, 76 Stat. 668; Pub. L. 96–221, title VII, §704, Mar. 31, 1980, 94Stat. 187; Pub. L. 112–231, §2(b)(1), Dec. 28, 2012, 126 Stat. 1619.)
+(Pub. L. 87–722, §1, Sept. 28, 1962, 76 Stat. 668; Pub. L. 96–221, title VII, §704, Mar. 31, 1980, 94 Stat. 187; Pub. L. 112–231, §2(b)(1), Dec. 28, 2012, 126 Stat. 1619.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@ In accordance with regulations prescribed by the Secretary—
 
 > &emsp;of such beneficiary's rights under this subsection.<sup>1</sup>
 
-> For purposes of paragraph (4), any notification shall be made within 14 days of the date on which the plan administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+> For purposes of paragraph (4), any notification shall be made within 14 days of the date onwhich the plan administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 (July 1, 1944, ch. 373, title XXII, §2206, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(6)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 100–203, title IV, §4009(j)(8), Dec. 22, 1987, 101 Stat. 1330–59; Pub. L. 101–239, title VI, §6702(c), Dec. 19, 1989, 103 Stat. 2295; Pub. L. 104–191, title IV, §421(a)(2), Aug. 21, 1996, 110 Stat. 2088.)
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 99–514 applicable only with respect to qualifying events 
 
 #### Notification to Covered Employees
 
-Pub. L. 99–272, title X, §10003(c), Apr. 7, 1986, 100 Stat. 236, provided that: "At the time that the amendmentsmade by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[42 U.S.C. 300bb–1\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[42 U.S.C. 300bb–1 et seq.\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[42 U.S.C. 300bb–6(1)\] with respect to such individuals."
+Pub. L. 99–272, title X, §10003(c), Apr. 7, 1986, 100 Stat. 236, provided that: "At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[42 U.S.C. 300bb–1\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[42 U.S.C. 300bb–1 et seq.\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[42 U.S.C. 300bb–6(1)\] with respect to such individuals."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subchapter".</i>
 

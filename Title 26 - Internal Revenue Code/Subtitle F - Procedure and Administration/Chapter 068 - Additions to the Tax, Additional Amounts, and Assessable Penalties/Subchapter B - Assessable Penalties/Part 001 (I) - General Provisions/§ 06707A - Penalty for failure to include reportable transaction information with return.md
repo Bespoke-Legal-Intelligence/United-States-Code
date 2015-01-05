@@ -72,7 +72,7 @@ In the case of a person—
 
 &emsp;&emsp;(C) is required to pay a penalty under section 6662(h) with respect to any reportable transaction and would (but for section 6662A(e)(2)(B)) have been subject to penalty under section 6662A at a rate prescribed under section 6662A(c),
 
-> the requirement to pay such penalty shall be disclosed in such reports filed by such person forsuch periods as the Secretary shall specify. Failure to make a disclosure in accordance with the preceding sentence shall be treated as a failure to which the penalty under subsection (b)(2) applies.
+> the requirement to pay such penalty shall be disclosed in such reports filed by such person for such periods as the Secretary shall specify. Failure to make a disclosure in accordance with the preceding sentence shall be treated as a failure to which the penalty under subsection (b)(2) applies.
 
 #### (f) Coordination with other penalties
 

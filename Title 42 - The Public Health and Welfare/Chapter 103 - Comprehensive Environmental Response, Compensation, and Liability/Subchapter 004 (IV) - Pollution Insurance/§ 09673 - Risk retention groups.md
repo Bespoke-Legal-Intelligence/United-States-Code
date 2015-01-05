@@ -26,7 +26,7 @@ Except as provided in this section, a risk retention group shall be exempt from 
 
 &emsp;&emsp;(B) Pay, on a nondiscriminatory basis, applicable premium and other taxes which are levied on admitted insurers and surplus line insurers, brokers, or policyholders under the laws of the State.
 
-&emsp;&emsp;(C) Participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers of pollution liability insurance losses and expenses incurred on policies written through such mechanism.
+&emsp;&emsp;(C) Participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers ofpollution liability insurance losses and expenses incurred on policies written through such mechanism.
 
 &emsp;&emsp;(D) Submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to pollution liability insurance losses and expenses.
 
@@ -40,7 +40,7 @@ Except as provided in this section, a risk retention group shall be exempt from 
 
 &emsp;&emsp;&emsp;(ii) the commissioner of the jurisdiction in which the group is chartered has not begun or has refused to initiate an examination of the group.
 
-&emsp;&emsp;(H) Comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate sucha proceeding after notice of a finding of financial impairment under subparagraph (G).
+&emsp;&emsp;(H) Comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (G).
 
 #### (c) Application of exemptions
 

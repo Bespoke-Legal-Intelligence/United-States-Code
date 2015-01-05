@@ -18,3 +18,4 @@
 - [&sect; 02286i - Annual authorization of appropriations](%C2%A7%2002286i%20-%20Annual%20authorization%20of%20appropriations.md)
 - [&sect; 02286j - Procurement of inspector general services](%C2%A7%2002286j%20-%20Procurement%20of%20inspector%20general%20services.md)
 - [&sect; 02286k - Inspector General](%C2%A7%2002286k%20-%20Inspector%20General.md)
+- [&sect; 02286l - Authority of Inspector General](%C2%A7%2002286l%20-%20Authority%20of%20Inspector%20General.md)

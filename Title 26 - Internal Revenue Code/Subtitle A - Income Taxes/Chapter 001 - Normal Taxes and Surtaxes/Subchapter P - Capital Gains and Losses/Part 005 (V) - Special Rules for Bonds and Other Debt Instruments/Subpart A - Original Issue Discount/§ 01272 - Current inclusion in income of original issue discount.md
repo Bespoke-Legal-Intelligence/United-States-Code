@@ -104,7 +104,7 @@
 
 #### (A) Reduction
 
-&emsp;&emsp;For purposes of this subsection, in the case of any purchase after its original issue of adebt instrument to which this subsection applies, the daily portion for any day shall be reduced by an amount equal to the amount which would be the daily portion for such day (without regard to this paragraph) multiplied by the fraction determined under subparagraph (B).
+&emsp;&emsp;For purposes of this subsection, in the case of any purchase after its original issue of a debt instrument to which this subsection applies, the daily portion for any day shall be reduced by an amount equal to the amount which would be the daily portion for such day (without regard to this paragraph) multiplied by the fraction determined under subparagraph (B).
 
 #### (B) Determination of fraction
 
@@ -198,11 +198,11 @@ This section shall not apply to any holder—
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1004(b)(1), Aug. 5, 1997, 111 Stat. 911, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title X, §1004(b)(1), Aug. 5, 1997, 111 Stat. 911, provided that: "The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to debt instruments issued after Dec. 31, 1986, in taxable yearsending after such date, see section 675(b) of Pub. L. 99–514, set out as an Effective Date note under section 860A of this title.
+Amendment by Pub. L. 99–514 applicable to debt instruments issued after Dec. 31, 1986, in taxable years ending after such date, see section 675(b) of Pub. L. 99–514, set out as an Effective Date note under section 860A of this title.
 
 #### Effective Date
 

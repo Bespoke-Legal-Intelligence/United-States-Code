@@ -8,7 +8,7 @@
 
 #### (2) Inclusion of California as separate order
 
-&emsp;Upon the petition and approval of California dairy producers in the manner provided in section 608c of this title, the Secretary shall designate the State of California as a separate Federal milk marketing order. The order covering California shall have the right to reblend and distribute order receipts to recognize quota value.
+&emsp;Upon the petition and approval of California dairy producers in the manner provided in section 608c of this title, the Secretary shall designate the State of California as a separate Federal milk marketing order. The order covering California shall have the right to reblend and distribute order receipts to recognize quota value. Subsection (b) does not apply to the authority of the Secretary under this subsection.
 
 #### (3) Related issues addressed in consolidation
 
@@ -26,13 +26,13 @@
 
 #### (1) Use of informal rulemaking
 
-&emsp;To implement the consolidation of Federal milk marketing orders and related reforms under subsection (a) of this section, the Secretary shall use the notice and comment procedures provided in section 553 of title 5.
+&emsp;To implement the consolidation of Federal milk marketing orders and related reforms under subsection (a), the Secretary shall use the notice and comment procedures provided in section 553 of title 5.
 
 #### (2) Time limitations
 
 #### (A) Proposed amendments
 
-&emsp;&emsp;The Secretary shall announce the proposed amendments to be made under subsection (a) of this section not later than 2 years after April 4, 1996.
+&emsp;&emsp;The Secretary shall announce the proposed amendments to be made under subsection (a) not later than 2 years after April 4, 1996.
 
 #### (B) Final amendments
 
@@ -40,11 +40,11 @@
 
 #### (3) Effect of court order
 
-&emsp;The actions authorized by this subsection are intended to ensure the timely publication and implementation of new and amended Federal milk marketing orders. In the event that the Secretary is enjoined or otherwise restrained by a court order from publishing or implementing the consolidation and related reforms under subsection (a) of this section, the length of time for which that injunction or other restraining order is effective shall be added to the time limitations specified in paragraph (2) thereby extending those time limitations by a period of time equal to the period of time for which the injunction or other restraining order is effective.
+&emsp;The actions authorized by this subsection are intended to ensure the timely publication and implementation of new and amended Federal milk marketing orders. In the event that the Secretary is enjoined or otherwise restrained by a court order from publishing or implementing the consolidation and related reforms under subsection (a), the length of time for which that injunction or other restraining order is effective shall be added to the time limitations specified in paragraph (2) thereby extending those time limitations by a period of time equal to the period of time for which the injunction or other restraining order is effective.
 
 #### (c) Failure to timely consolidate orders
 
-If the Secretary fails to implement the consolidation required under subsection (a)(1) of this section within the time period required under subsection (b)(2)(B) of this section (plus any additional period provided under subsection (b)(3) of this section), the Secretary may not assess or collect assessments from milk producers or handlers under such section 608c of this title for marketing order administration and services provided under such section after the end of that period until the consolidation is completed. The Secretary may not reduce the level of services provided under the section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
+If the Secretary fails to implement the consolidation required under subsection (a)(1) within the time period required under subsection (b)(2)(B) (plus any additional period provided under subsection (b)(3)), the Secretary may not assess or collect assessments from milk producers or handlers under such section 608c of this title for marketing order administration and services provided under such section after the end of that period until the consolidation is completed. The Secretary may not reduce the level of services provided under the section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
 
 #### (d) Report regarding further reforms
 
@@ -52,9 +52,9 @@ If the Secretary fails to implement the consolidation required under subsection 
 
 &emsp;Not later than April 1, 1997, the Secretary shall submit to Congress a report—
 
-&emsp;&emsp;(A) reviewing the Federal milk marketing order system established pursuant to section 608c of this title in light of the reforms required by subsection (a) of this section;
+&emsp;&emsp;(A) reviewing the Federal milk marketing order system established pursuant to section 608c of this title in light of the reforms required by subsection (a);
 
-&emsp;&emsp;(B) describing the efforts underway and the progress made in implementing the reforms required by subsection (a) of this section; and
+&emsp;&emsp;(B) describing the efforts underway and the progress made in implementing the reforms required by subsection (a); and
 
 &emsp;&emsp;(C) containing such recommendations as the Secretary considers appropriate for further improvements and reforms to the Federal milk marketing order system.
 
@@ -62,7 +62,11 @@ If the Secretary fails to implement the consolidation required under subsection 
 
 &emsp;Any limitation imposed by Act of Congress on the conduct or completion of reports to Congress shall not apply to the report required under this section, unless the limitation specifically refers to this section.
 
-(Pub. L. 104–127, title I, §143, Apr. 4, 1996, 110 Stat. 915.)
+(Pub. L. 104–127, title I, §143, Apr. 4, 1996, 110 Stat. 915; Pub. L. 113–79, title I, §1410(d), Feb. 7, 2014, 128 Stat. 693.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–79 inserted at end "Subsection (b) does not apply to the authority of the Secretary under this subsection."
 
 #### Use of Option 1A as Price Structure for Class I Milk Under Consolidated Federal Milk Marketing Orders
 

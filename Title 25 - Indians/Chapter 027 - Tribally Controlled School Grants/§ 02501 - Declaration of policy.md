@@ -32,7 +32,7 @@ Congress declares a commitment to the policies described in this section and sup
 
 #### (f) Termination
 
-Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and anypolicy of unilateral termination of Federal relations with any Indian nation.
+Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and any policy of unilateral termination of Federal relations with any Indian nation.
 
 (Pub. L. 100–297, title V, §5202, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063.)
 

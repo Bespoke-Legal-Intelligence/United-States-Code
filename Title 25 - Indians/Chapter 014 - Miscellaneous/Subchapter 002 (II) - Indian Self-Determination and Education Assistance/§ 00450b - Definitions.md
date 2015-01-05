@@ -34,7 +34,7 @@ For purposes of this subchapter, the term—
 
 &emsp;&emsp;(3) for the health facility maintenance and improvement program administered by the Secretary of Health and Human Services.
 
-(Pub. L. 93–638, §4, Jan. 4, 1975, 88 Stat. 2204; Pub. L. 100–472, title I, §103, Oct. 5, 1988, 102 Stat. 2286; Pub. L. 100–581, title II, §208, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–301, §2(a)(1)–(3), May 24, 1990, 104 Stat. 206; Pub. L. 101–644, title II, §202(1), (2), Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–413, title I, §102(1), Oct. 25, 1994, 108 Stat. 4250.)
+(Pub. L. 93–638, §4, Jan. 4, 1975, 88 Stat. 2204; Pub. L. 100–472, title I, §103, Oct. 5, 1988, 102 Stat. 2286; Pub. L. 100–581, title II, §208, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–301, §2(a)(1)–(3), May 24, 1990, 104 Stat. 206; Pub. L. 101–644, title II, §202(1), (2), Nov. 29, 1990, 104 Stat. 4665; Pub. L.103–413, title I, §102(1), Oct. 25, 1994, 108 Stat. 4250.)
 
 #### References in Text
 

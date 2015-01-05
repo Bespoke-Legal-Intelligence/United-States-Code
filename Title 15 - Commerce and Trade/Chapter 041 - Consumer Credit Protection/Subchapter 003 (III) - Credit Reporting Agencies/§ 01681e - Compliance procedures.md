@@ -42,7 +42,7 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 &emsp;A person who procures a consumer report for purposes of reselling the report (or any information in the report) shall—
 
-&emsp;&emsp;(A) establish and comply with reasonable procedures designed to ensure that the report (or information) is resold by the person only for a purpose for which the report may be furnished under section 1681b of this title, including by requiring that each person to which the report (or information) is resoldand that resells or provides the report (or information) to any other person—
+&emsp;&emsp;(A) establish and comply with reasonable procedures designed to ensure that the report (or information) is resold by the person only for a purpose for which the report may be furnished under section 1681b of this title, including by requiring that each person to which the report (or information) is resold and that resells or provides the report (or information) to any other person—
 
 &emsp;&emsp;&emsp;(i) identifies each end user of the resold report (or information);
 

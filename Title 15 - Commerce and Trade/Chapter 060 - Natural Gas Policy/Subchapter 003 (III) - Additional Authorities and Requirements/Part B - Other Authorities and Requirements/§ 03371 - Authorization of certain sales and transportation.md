@@ -116,7 +116,7 @@
 
 #### (B) Verification of compliance
 
-&emsp;&emsp;Any application for authorization of any sale under paragraph (1) shall be accompanied by a statement by the intrastatepipeline involved verifying by oath or affirmation that such sale, if authorized, would comply with all requirements applicable to such sale under this subsection and all terms and conditions established, by rule or order, by the Commission and applicable to such sale.
+&emsp;&emsp;Any application for authorization of any sale under paragraph (1) shall be accompanied by a statement by the intrastate pipeline involved verifying by oath or affirmation that such sale, if authorized, would comply with all requirements applicable to such sale under this subsection and all terms and conditions established, by rule or order, by the Commission and applicable to such sale.
 
 #### (6) Termination of sales
 

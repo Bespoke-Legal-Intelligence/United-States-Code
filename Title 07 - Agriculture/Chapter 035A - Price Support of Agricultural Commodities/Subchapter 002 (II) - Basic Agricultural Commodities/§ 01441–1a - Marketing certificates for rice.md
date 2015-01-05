@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, whenever, during the period beginnin
 
 #### (b) Determination of value of certificates
 
-The value of each certificate issued under subsection (a) of this section shall be based on the difference between—
+The value of each certificate issued under subsection (a) shall be based on the difference between—
 
 &emsp;(1) the loan repayment rate for the class of rice; and
 
@@ -18,7 +18,7 @@ The Commodity Credit Corporation, under regulations prescribed by the Secretary 
 
 #### (d) Exchange of certificates for commodities and products
 
-Insofar as practicable, the Secretary shall permit owners of certificates to designate the commodities and the products thereof, including storage sites thereof, such owners would prefer to receive in exchange for certificates. If any certificate is not presented for redemption, marketing, or exchange within a reasonable number of days after the issuance of such certificate (as determined by the Secretary), reasonable costs of storage and other carrying charges, as determined by the Secretary, shall be deducted from the value of the certificate for the period beginning after such reasonable number of days and ending with the date of the presentation of suchcertificate to the Commodity Credit Corporation.
+Insofar as practicable, the Secretary shall permit owners of certificates to designate the commodities and the products thereof, including storage sites thereof, such owners would prefer to receive in exchange for certificates. If any certificate is not presented for redemption, marketing, or exchange within a reasonable number of days after the issuance of such certificate (as determined by the Secretary), reasonable costs of storage and other carrying charges, as determined by the Secretary, shall be deducted from the value of the certificate for the period beginning after such reasonable number of days and ending with the date of the presentation of such certificate to the Commodity Credit Corporation.
 
 #### (e) Prevention of adverse effects
 

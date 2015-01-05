@@ -2,7 +2,7 @@
 
 #### (a) Initial report
 
-Not later than April 30, 1982, the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b) of this section.
+Not later than April 30, 1982, the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b).
 
 #### (b) Annual report; content
 
@@ -30,7 +30,7 @@ Not later than January 15 of each year (beginning in 1983), the President shall 
 
 (1) The reports required by this section shall be as detailed as possible.
 
-(2) The information pursuant to subsection (b)(3) of this section shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
+(2) The information pursuant to subsection (b)(3) shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
 
 (3) The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under section 3424(a) of this title shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.
 
@@ -40,7 +40,7 @@ Not later than January 15 of each year (beginning in 1983), the President shall 
 
 Ex. Ord. No. 12361, Apr. 27, 1982, 47 F.R. 18313, provided:
 
-By the authority vested in me as President of the United States of America by the Multinational Force and Observers Participation Resolution (Public Law 97–132, 95 Stat. 1693) \[this subchapter\] and Section 301 ofTitle 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by the Multinational Force and Observers Participation Resolution (Public Law 97–132, 95 Stat. 1693) \[this subchapter\] and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Delegation of Functions</i>. The reporting function conferred upon the President by Section 6 of the Multinational Force and Observers Participation Resolution (22 U.S.C. 3425) is delegated to the Secretary of State.
 

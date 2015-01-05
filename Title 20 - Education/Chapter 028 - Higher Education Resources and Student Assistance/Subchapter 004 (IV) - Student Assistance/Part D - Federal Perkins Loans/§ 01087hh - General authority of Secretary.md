@@ -4,7 +4,7 @@ In carrying out the provisions of this part, the Secretary is authorized—
 
 &emsp;(1) to consent to modification, with respect to rate of interest, time of payment of any installment of principal and interest or any portion thereof, or any other provision of any note evidencing a loan which has been made under this part;
 
-&emsp;(2) to enforce, pay, compromise, waive, or release any right, title, claim, lien, or demand,however acquired, including any equity or any right of redemption;
+&emsp;(2) to enforce, pay, compromise, waive, or release any right, title, claim, lien, or demand, however acquired, including any equity or any right of redemption;
 
 &emsp;(3) to conduct litigation in accordance with the provisions of section 1082(a)(2) of this title; and
 

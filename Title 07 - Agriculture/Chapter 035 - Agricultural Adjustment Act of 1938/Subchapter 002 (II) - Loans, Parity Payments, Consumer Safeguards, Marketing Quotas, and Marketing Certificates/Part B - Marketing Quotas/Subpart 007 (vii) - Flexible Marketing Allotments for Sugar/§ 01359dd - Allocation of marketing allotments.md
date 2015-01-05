@@ -40,7 +40,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraphs (B) and (D), the Secretary, on application of any processor that begins processing sugarcane on or after May 13, 2002, and after a hearing (if requested by the affected sugarcaneprocessors and growers) and on such notice as the Secretary by regulation may prescribe, may provide the processor with an allocation that provides a fair, efficient and equitable distribution of the allocations from the allotment for the State in which the processor is located.
+&emsp;&emsp;&emsp;Notwithstanding subparagraphs (B) and (D), the Secretary, on application of any processor that begins processing sugarcane on or after May 13, 2002, and after a hearing (if requested by the affected sugarcane processors and growers) and on such notice as the Secretary by regulation may prescribe, may provide the processor with an allocation that provides a fair, efficient and equitable distribution of the allocations from the allotment for the State in which the processor is located.
 
 #### (ii) Proportionate share States
 
@@ -196,7 +196,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a new entrant acquires an existing factory that has processed sugar beets from the 1998 or subsequent crop year and has a production history, on the mutual agreement of the new entrant and the company currently holding the allocation associated with the factory, the Secretary shall transfer to the new entrant a portion of the allocation of the current allocation holder to reflect the historical contribution of the production of the 1 or more sold factories to the total allocation of the current allocation holder, unless the new entrant and current allocation holder have agreed upon the transfer of a different portion of the allocation of the current allocation holder, in which case, the Secretary shall transfer that portion agreed upon by the new entrant and the current allocation holder.
+&emsp;&emsp;&emsp;&emsp;If a new entrant acquires an existing factory that has processed sugar beets from the 1998 or subsequent crop year and has a production history, on the mutual agreement of the new entrant and the company currently holding the allocation associated with the factory, the Secretary shall transfer to the new entrant a portion of the allocation of the current allocation holder to reflect the historical contribution of the production of the 1 or more sold factories to the total allocation of the current allocation holder, unless the new entrant and current allocation holder have agreed uponthe transfer of a different portion of the allocation of the current allocation holder, in which case, the Secretary shall transfer that portion agreed upon by the new entrant and the current allocation holder.
 
 #### (II) Prohibition
 

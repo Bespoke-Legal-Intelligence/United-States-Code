@@ -16,7 +16,7 @@
 
 &emsp;(iii) each respondent may file, not later than 10 days after receipt of notice from the Secretary, an answer to such complaint; and
 
-&emsp;(iv) the Secretary shall make an investigation of the alleged discriminatory housing practice and complete such investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 daysafter the commencement of such further action), unless it is impracticable to do so.
+&emsp;(iv) the Secretary shall make an investigation of the alleged discriminatory housing practice and complete such investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), unless it is impracticable to do so.
 
 (C) If the Secretary is unable to complete the investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
 
@@ -28,7 +28,7 @@
 
 #### (b) Investigative report and conciliation
 
-(1) During the period beginning with the filing of such complaint and ending with the filing of a charge or a dismissal by the Secretary, the Secretary shall, to the extent feasible, engage in conciliation with respect to such complaint.
+(1) During the period beginning with the filing of such complaint and ending with the filing ofa charge or a dismissal by the Secretary, the Secretary shall, to the extent feasible, engage in conciliation with respect to such complaint.
 
 (2) A conciliation agreement arising out of such conciliation shall be an agreement between the respondent and the complainant, and shall be subject to approval by the Secretary.
 
@@ -98,7 +98,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 (B) Before making such certification, the Secretary shall take into account the current practices and past performance, if any, of such agency.
 
-(4) During the period which begins on September 13, 1988, and ends 40 months after September 13, 1988, each agency certified (including an agency certified for interim referrals pursuant to 24 CFR 115.11, unless such agency is subsequently denied recognition under 24 CFR 115.7) for the purposes of this subchapter on the day before September 13, 1988, shall for the purposes of this subsection be considered certified under this subsection with respect to those matters for which such agency was certified on September 13, 1988. If the Secretary determines in an individual case that an agency has not been able to meet the certification requirements within this 40-month period due to exceptional circumstances, such as the infrequency of legislative sessions in that jurisdiction, the Secretary may extend such period by not more than 8 months.
+(4) During the period which begins on September 13, 1988, and ends 40 months after September 13, 1988, each agency certified (including an agency certified for interim referrals pursuant to 24 CFR 115.11, unless such agency is subsequently denied recognition under 24 CFR 115.7) for the purposes of this subchapter on the day before September 13, 1988, shall for the purposes of this subsection be considered certified under this subsection with respect to those matters for which such agency was certified on September 13, 1988. If the Secretary determines in an individual case that an agency has not been able tomeet the certification requirements within this 40-month period due to exceptional circumstances, such as the infrequency of legislative sessions in that jurisdiction, the Secretary may extend such period by not more than 8 months.
 
 (5) Not less frequently than every 5 years, the Secretary shall determine whether each agency certified under this subsection continues to qualify for certification. The Secretary shall take appropriate action with respect to any agency not so qualifying.
 

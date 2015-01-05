@@ -52,7 +52,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;(ii) monitor compliance by long-term care facilities and providers with the procedures and requirements of the nationwide program;
 
-&emsp;&emsp;&emsp;(iii) as appropriate, provide for a provisional period of employment by a long-term care facility or provider of a direct patient access employee, not to exceed 60 days, pending completion of the required criminal history background check and, in the case where the employee has appealed the results of such background check, pending completion of the appeals process, during which the employee shall be subject to direct on-site supervision (in accordance with procedures established by theState to ensure that a long-term care facility or provider furnishes such direct on-site supervision);
+&emsp;&emsp;&emsp;(iii) as appropriate, provide for a provisional period of employment by a long-term care facility or provider of a direct patient access employee, not to exceed 60 days, pending completion of the required criminal history background check and, in the case where the employee has appealed the results of such background check, pending completion of the appeals process, during which the employee shall be subject to direct on-site supervision (in accordance with procedures established by the State to ensure that a long-term care facility or provider furnishes such direct on-site supervision);
 
 &emsp;&emsp;&emsp;(iv) provide an independent process by which a provisional employee or an employee may appeal or dispute the accuracy of the information obtained in a background check performed under the nationwide program, including the specification of criteria for appeals for direct patient access employees found to have disqualifying information which shall include consideration of the passage of time, extenuating circumstances, demonstration of rehabilitation, and relevancy of the particular disqualifying information with respect to the current employment of the individual;
 
@@ -168,7 +168,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;&emsp;(III) A determination of the extent to which conducting such background checks leads to any unintended consequences, including a reduction in the available workforce for long-term care facilities or providers.
 
-&emsp;&emsp;&emsp;&emsp;(IV) An assessment of the impact of the nationwide program on reducing the number of incidents of neglect, abuse, and misappropriation of resident property to the extent practicable.
+&emsp;&emsp;&emsp;&emsp;(IV) An assessment of the impact of the nationwide program on reducing thenumber of incidents of neglect, abuse, and misappropriation of resident property to the extent practicable.
 
 &emsp;&emsp;&emsp;&emsp;(V) An evaluation of other aspects of the nationwide program, as determined appropriate by the Secretary.
 
@@ -278,7 +278,7 @@ Use of information.—A participating State shall ensure that a long-term care f
 
 &emsp;&emsp;"(B)
 
-Immunity from liability.—A participating State shall ensure that a long-term care facility or provider that, in denying employment for an individual selected for hire as a direct patient access employee (including during any period of provisional employment), reasonably relies upon information obtained through a background check of the individual, shall not be liable in any action brought by the individual based on the employment determination resulting from the information.
+Immunity from liability.—A participating State shall ensure that a long-term care facility orprovider that, in denying employment for an individual selected for hire as a direct patient access employee (including during any period of provisional employment), reasonably relies upon information obtained through a background check of the individual, shall not be liable in any action brought by the individual based on the employment determination resulting from the information.
 
 &emsp;"(5)
 

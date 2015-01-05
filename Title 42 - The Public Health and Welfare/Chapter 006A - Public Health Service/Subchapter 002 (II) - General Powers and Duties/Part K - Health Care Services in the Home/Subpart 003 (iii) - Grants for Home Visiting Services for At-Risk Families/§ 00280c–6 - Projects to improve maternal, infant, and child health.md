@@ -30,7 +30,7 @@
 
 &emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) regarding the provision of services under paragraph (1), the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
-&emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
+&emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under suchclause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
 
 #### (b) Home visiting services for eligible families
 
@@ -256,7 +256,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there is authorized to be appropriated $30,000,000 for each of the fiscal years 1993 and 1994.
 
-(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L.108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 

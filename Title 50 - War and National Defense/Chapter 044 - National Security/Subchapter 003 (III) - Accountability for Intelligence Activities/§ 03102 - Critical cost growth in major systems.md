@@ -2,7 +2,7 @@
 
 #### (a) Reassessment of major system
 
-If the Director of National Intelligence determines under section 3101(d) of this title that the total acquisition cost of a major system has increased by a percentage equal to or greater thanthe critical cost growth threshold for the major system, the Director shall—
+If the Director of National Intelligence determines under section 3101(d) of this title that the total acquisition cost of a major system has increased by a percentage equal to or greater than the critical cost growth threshold for the major system, the Director shall—
 
 &emsp;(1) determine the root cause or causes of the critical cost growth, in accordance with applicable statutory requirements, policies, procedures, and guidance; and
 
@@ -64,7 +64,7 @@ Any report or certification required to be submitted under this section may be s
 
 #### (f) Waiver
 
-(1) The Director may waive the requirements of subsections (d)(2), (e), and (g) of section 3101 of this title and subsections (a)(2), (b), (c), and (d) of this section with respect to a major system if the Director determines that at least 90 percent of the amount of the current Baseline Estimate for the major system has been expended.
+(1) The Director may waive the requirements of subsections (d)(2), (e), and (g) of section 3101of this title and subsections (a)(2), (b), (c), and (d) of this section with respect to a major system if the Director determines that at least 90 percent of the amount of the current Baseline Estimate for the major system has been expended.
 
 (2)(A) If the Director grants a waiver under paragraph (1) with respect to a major system, the Director shall submit to the congressional intelligence committees written notice of the waiver that includes—
 
@@ -76,7 +76,7 @@ Any report or certification required to be submitted under this section may be s
 
 &emsp;&emsp;(II) a certification that includes the elements described in subparagraphs (A), (B), and (E) of subsection (b)(2).
 
-(B) The Director shall submit the written notice required by subparagraph (A) not later than 90 days after the date that the Director receivesa major system cost report under subsection (b) or (c) of section 3101 of this title that indicates that the total acquisition cost for the major system has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold.
+(B) The Director shall submit the written notice required by subparagraph (A) not later than 90 days after the date that the Director receives a major system cost report under subsection (b) or (c) of section 3101 of this title that indicates that the total acquisition cost for the major system has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold.
 
 #### (g) Definitions
 

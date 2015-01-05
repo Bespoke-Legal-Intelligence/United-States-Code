@@ -18,7 +18,7 @@ Designation, Nonapplication, Selection, and Procedures.—(1) For purposes of th
 
 (5) A manufacturer may not be required to comply with the standard under a selection under paragraph (3) of this subsection for a model year beginning earlier than 6 months after the date of the selection.
 
-(6) A passenger motor vehicle line subject on October 25, 1992, to parts marking requirements under sections 602 and 603 of the Motor Vehicle Information and Cost Savings Act (Public Law 92–513, 86 Stat. 947), as added by section 101(a) of the Motor Vehicle Theft Law Enforcement Act of 1984 (Public Law 98–547, 98 Stat. 2756), continues to be subject to the requirements of this section and section 33102 of this title unless the line is exempted under section 33106 of this title.
+(6) A passenger motor vehicle line subject on October 25, 1992, to parts marking requirements under sections 602 and 603 of the Motor Vehicle Information and Cost Savings Act (Public Law 92–513, 86 Stat. 947), as added by section 101(a) of the Motor Vehicle Theft Law Enforcement Actof 1984 (Public Law 98–547, 98 Stat. 2756), continues to be subject to the requirements of this section and section 33102 of this title unless the line is exempted under section 33106 of this title.
 
 (b)
 
@@ -90,7 +90,7 @@ In subsection (a)(1)(B), the words "after December 31, 1989," are substituted fo
 
 In subsection (a)(6), the word "passenger" is added because the source provisions in the revised chapter apply to passenger motor vehicles.
 
-In subsection (b)(2)(B), the words "Administrator of the" are added for clarity and consistency because of section 1(b) of Reorganization Plan No. 3 of 1970 (eff. Dec. 2, 1970, 84 Stat. 2086). The words "model years 1983 and 1984" are substituted for "the 2 model years having the same model-year designations as the 2 calendaryears specified in subsection (a)(1)(A) of this section" because the particular years are now known.
+In subsection (b)(2)(B), the words "Administrator of the" are added for clarity and consistency because of section 1(b) of Reorganization Plan No. 3 of 1970 (eff. Dec. 2, 1970, 84 Stat. 2086). The words "model years 1983 and 1984" are substituted for "the 2 model years having the same model-year designations as the 2 calendar years specified in subsection (a)(1)(A) of this section" because the particular years are now known.
 
 In subsection (b)(4), the words "Immediately upon enactment of this subchapter" are omitted as executed. The words "or sources" are omitted because of 1:1.
 

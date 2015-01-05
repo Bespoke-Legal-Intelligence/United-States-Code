@@ -34,11 +34,13 @@ Definitions.—In this section:
 
 &emsp;(2) The term "information technology" has the meaning given that term by section 11101 of title 40.
 
-&emsp;(3) The term "national security system" has the meaning given that term by section 3542(b)(2) of title 44.
+&emsp;(3) The term "national security system" has the meaning given that term by section 3552(b)(5) <sup>1</sup> of title 44.
 
-(Added Pub. L. 105–261, div. A, title III, §331(a)(1), Oct. 17, 1998, 112 Stat. 1967; amended Pub. L. 106–398, §1 \[\[div. A\], title VIII, §811(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210; Pub. L. 107–217, §3(b)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, §906(b), Oct. 17, 2006, 120 Stat. 2354.)
+(Added Pub. L. 105–261, div. A, title III, §331(a)(1), Oct. 17, 1998, 112 Stat. 1967; amended Pub. L. 106–398, §1 \[\[div. A\], title VIII, §811(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210; Pub. L. 107–217, §3(b)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, §906(b), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 113–283, §2(e)(5)(B), Dec. 18, 2014, 128 Stat. 3087.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(3). Pub. L. 113–283 substituted "section 3552(b)(5)" for "section 3542(b)(2)".
 
 <b>2006</b>—Subsec. (c)(3). Pub. L. 109–364 substituted "section 3542(b)(2) of title 44" for "section 11103 of title 40".
 
@@ -202,13 +204,13 @@ Pub. L. 111–383, div. A, title IX, §931, Jan. 7, 2011, 124 Stat. 4334, provid
 
 In General.—The Secretary of Defense shall direct the Chief Information Officer of the Department of Defense to work, in coordination with the Chief Information Officers of the military departments and the Defense Agencies and with senior cybersecurity and information assurance officials within the Department of Defense and otherwise within the Federal Government, to achieve, to the extent practicable, the following:
 
-&emsp;"(1) The continuous prioritization of the policies, principles, standards, and guidelines developed under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) based upon the evolving threat of information security incidents with respect to national security systems, the vulnerability of such systems tosuch incidents, and the consequences of information security incidents involving such systems.
+&emsp;"(1) The continuous prioritization of the policies, principles, standards, and guidelines developed under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) based upon the evolving threat of information security incidents with respect to national security systems, the vulnerability of such systems to such incidents, and the consequences of information security incidents involving such systems.
 
-&emsp;"(2) The automation of continuous monitoring of the effectiveness of the information security policies, procedures, and practices within the information infrastructure of the Department of Defense, and the compliance of that infrastructure with such policies, procedures, and practices, including automation of—
+&emsp;"(2) The automation of continuous monitoring of the effectiveness of the information security policies, procedures, and practices within the information infrastructure of the Department of Defense, and thecompliance of that infrastructure with such policies, procedures, and practices, including automation of—
 
 &emsp;&emsp;"(A) management, operational, and technical controls of every information system identified in the inventory required under section 3505(c) of title 44, United States Code; and
 
-&emsp;&emsp;"(B) management, operational, and technical controls relied on for evaluations under section 3545 of title 44, United States Code.
+&emsp;&emsp;"(B) management, operational, and technical controls relied on for evaluations under \[former\] section 3545 of title 44, United States Code \[see now 44 U.S.C. 3555\].
 
 "(b)
 
@@ -222,5 +224,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'information infrastructure' means the underlying framework, equipment, and software that an information system and related assets rely on to process, transmit, receive, or store information electronically.
 
-&emsp;"(3) The term 'national security system' has the meaning given that term in section 3542(b)(2) of title 44, United States Code."
+&emsp;"(3) The term 'national security system' has the meaning given that term in \[former\] section 3542(b)(2) of title 44, United States Code \[see now 44 U.S.C. 3552(b)(6)\]."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "3552(b)(6)".</i>
 

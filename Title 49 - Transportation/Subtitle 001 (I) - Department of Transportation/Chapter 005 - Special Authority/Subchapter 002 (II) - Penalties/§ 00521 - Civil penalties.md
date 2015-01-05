@@ -221,7 +221,7 @@ Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted "under subchapt
 
 Pub. L. 103–272, §4(j)(11)(D), substituted "chapter 59 of this title" for "section 508 of this title".
 
-Subsec. (b)(2)(B). Pub. L. 103–272, §5(m)(11)(C), substituted "section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title" for "section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986".
+Subsec. (b)(2)(B). Pub. L. 103–272, §5(m)(11)(C), substituted "section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title" for "section 12002, 12003,12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986".
 
 Subsec. (b)(3). Pub. L. 103–272, §5(m)(11)(D), substituted "subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title" for "section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986".
 
@@ -301,7 +301,7 @@ Submission to congress.—The Secretary shall transmit the results of such study
 
 #### Report; Penalties; Effectiveness
 
-Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
+Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminalpenalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

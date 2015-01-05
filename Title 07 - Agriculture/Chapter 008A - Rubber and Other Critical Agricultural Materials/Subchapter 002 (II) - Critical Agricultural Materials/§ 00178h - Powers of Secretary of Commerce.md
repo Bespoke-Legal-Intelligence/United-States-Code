@@ -2,7 +2,7 @@
 
 In carrying out the provisions of this subchapter, the Secretary of Commerce is authorized to—
 
-&emsp;(a) make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), and enter into contracts with such institutions and organizations and with industrial or engineering firms;
+&emsp;(a) make grants to States, education institutions, scientific organizations, and Indiantribes as defined in the Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), and enter into contracts with such institutions and organizations and with industrial or engineering firms;
 
 &emsp;(b) acquire the services of biologists, agronomists, foresters, geneticists, engineers, economists, and other personnel having expertise in native agricultural crops which could supply critical agricultural materials by contract or otherwise;
 

@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 111–275, §501(b), substituted "$700 (as increased from t
 
 Subsec. (c). Pub. L. 111–275, §501(c), added subsec. (c).
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–183, §501(a)(1), in introductory provisions, substituted "burial in a national cemetery under section 2402 of this title" for "a burialallowance under such section 2302, or under such subsection, who was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, or who is a veteran of any war".
+<b>2003</b>—Subsec. (b). Pub. L. 108–183, §501(a)(1), in introductory provisions, substituted "burial in a national cemetery under section 2402 of this title" for "a burial allowance under such section 2302, or under such subsection, who was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, or who is a veteran of any war".
 
 Subsec. (b)(2). Pub. L. 108–183, §501(a)(2), substituted "is eligible for a burial allowance under section 2302 of this title or under subsection (a) of this section, or was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, and such veteran" for "(other than a veteran whose eligibility for benefits under this subsection is based on being a veteran of any war)".
 

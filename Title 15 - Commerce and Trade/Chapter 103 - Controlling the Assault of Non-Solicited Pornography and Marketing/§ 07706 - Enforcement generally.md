@@ -70,7 +70,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying the number of violations (with each separately addressed unlawful message received by or addressed to such residents treated as a separate violation) by up to $250.
+&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying thenumber of violations (with each separately addressed unlawful message received by or addressed to such residents treated as a separate violation) by up to $250.
 
 #### (B) Limitation
 
@@ -144,7 +144,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (1) Action authorized
 
-&emsp;A provider of Internet access service adversely affected by a violation of section7704(a)(1), (b), or (d) of this title, or a pattern or practice that violates paragraph (2), (3), (4), or (5) of section 7704(a) of this title, may bring a civil action in any district court of the United States with jurisdiction over the defendant—
+&emsp;A provider of Internet access service adversely affected by a violation of section 7704(a)(1), (b), or (d) of this title, or a pattern or practice that violates paragraph (2), (3), (4), or (5) of section 7704(a) of this title, may bring a civil action in any district court of the United States with jurisdiction over the defendant—
 
 &emsp;&emsp;(A) to enjoin further violation by the defendant; or
 

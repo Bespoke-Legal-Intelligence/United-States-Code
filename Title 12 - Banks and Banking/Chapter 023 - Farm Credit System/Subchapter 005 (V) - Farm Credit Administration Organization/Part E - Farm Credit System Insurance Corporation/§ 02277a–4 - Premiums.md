@@ -110,7 +110,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;(B) there shall be credited to the allocated insurance reserves account <sup>1</sup> of each insured system <sup>2</sup> bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as—
 
-&emsp;&emsp;&emsp;(i) the average principal outstanding for the calendar year on insured obligations issued by the bank (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)); bears to
+&emsp;&emsp;&emsp;(i) the average principal outstanding for the calendar year on insured obligationsissued by the bank (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)); bears to
 
 &emsp;&emsp;&emsp;(ii) the average principal outstanding for the calendar year on insured obligations issued by all insured System banks (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)).
 
@@ -130,7 +130,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (D), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the balance in the Allocated Insurance Reserves Account of the System bank; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determinedby dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
 
 #### (B) Authority to eliminate or reduce payments
 
@@ -178,7 +178,7 @@ Subsec. (c). Pub. L. 110–246, §5404(c), designated existing provisions as par
 
 Subsec. (d). Pub. L. 110–246, §5404(d)(1), (2), in heading, substituted "loan and investment amounts" for "principal outstanding" and, in introductory provisions, substituted "For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—" for "For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—".
 
-Subsec. (d)(1) to (3). Pub. L. 110–246, §5404(d)(3), (4), in pars. (1) to (3), inserted "all loans or investmentsmade" after par. designation and, in pars. (1) and (2), inserted "or investments" after "such loans".
+Subsec. (d)(1) to (3). Pub. L. 110–246, §5404(d)(3), (4), in pars. (1) to (3), inserted "all loans or investments made" after par. designation and, in pars. (1) and (2), inserted "or investments" after "such loans".
 
 Subsec. (e)(3). Pub. L. 110–246, §5404(e)(1), substituted "the secure base amount" for "the average secure base amount for the calendar year (as calculated on an average daily balance basis)".
 

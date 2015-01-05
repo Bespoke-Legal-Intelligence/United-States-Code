@@ -10,9 +10,9 @@ The Secretary shall—
 
 #### (b) Authorization of appropriations
 
-In addition to any other funds made available through annual appropriations for market news services, there is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
+In addition to any other funds made available through annual appropriations for market news services, there is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
 
-(Pub. L. 110–234, title X, §10107, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, §4(a), title X, §10107, June 18, 2008, 122 Stat. 1664, 2099.)
+(Pub. L. 110–234, title X, §10107, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, §4(a), title X, §10107, June 18, 2008, 122 Stat. 1664, 2099; Pub. L. 113–79, title X, §10001, Feb. 7, 2014, 128 Stat. 939.)
 
 #### References in Text
 
@@ -24,6 +24,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
+#### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–79 substituted "2018" for "2012".
+
 #### Effective Date
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
@@ -32,7 +36,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 "Secretary" as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-Pub. L. 110–234, title X, §10001, May 22, 2008, 122 Stat. 1335, and Pub. L. 110–246, §4(a), title X, §10001, June 18, 2008, 122 Stat. 1664, 2096, provided that: "In this title \[enacting this section, sections 1622c, 7655a, 7721, and 7761 of this title, and section 2104a of Title 16, Conservation, amending sections 608e–1, 1622, 2204g, 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under section 1621 of this title\]:
+Pub. L. 110–234, title X, §10001, May 22, 2008, 122 Stat. 1335, and Pub. L. 110–246, §4(a), title X, §10001, June 18, 2008, 122 Stat. 1664, 2096, provided that: "In this title \[enacting this section, former section 1622c, sections 7655a, 7721, and former section 7761 of this title, and section 2104a of Title 16, Conservation, amending sections 608e–1, 1622, 2204g, 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under section 1621 of this title\]:
 
 &emsp;"(1)
 

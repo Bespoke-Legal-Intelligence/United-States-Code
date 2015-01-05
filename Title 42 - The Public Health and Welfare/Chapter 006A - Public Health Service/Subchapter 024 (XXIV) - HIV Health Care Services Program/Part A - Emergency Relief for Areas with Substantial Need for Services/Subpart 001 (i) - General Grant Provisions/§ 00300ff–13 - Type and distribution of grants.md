@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out section 300ff–11(a) of this title, the Secretary shall make a grant for each eligible area for which an application under section 300ff–15(a) of this title has been approved. Each such grant shall be made in an amount determined in accordance with paragraph (3).
+&emsp;In carrying out section 300ff–11(a) of this title, the Secretary shall make a grant for each eligible area for which an application under section 300ff–15(a) of this title has been approved. Each such grant shall be made in anamount determined in accordance with paragraph (3).
 
 #### (2) Expedited distribution
 
@@ -126,7 +126,7 @@
 
 #### (ii) Use of amounts involved
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to subsection (b) for the fiscal year involved, subject to paragraph (4) and section 300ff–20(d)(2) of this title.
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of thelimitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to subsection (b) for the fiscal year involved, subject to paragraph (4) and section 300ff–20(d)(2) of this title.
 
 #### (4) Increases in grant
 
@@ -158,7 +158,7 @@
 
 #### (1) In general
 
-&emsp;Subject to subsection (a)(4)(B)(i) and section 300ff–20(d) of this title, the Secretary shall disburse the remainder of amounts not disbursed under subsection (a)(2) of this section for such fiscal year for the purpose of making grants under section 300ff–11(a) of this title to eligibleareas whose application under section 300ff–15(b) of this title—
+&emsp;Subject to subsection (a)(4)(B)(i) and section 300ff–20(d) of this title, the Secretary shall disburse the remainder of amounts not disbursed under subsection (a)(2) of this section for such fiscal year for the purpose of making grants under section 300ff–11(a) of this title to eligible areas whose application under section 300ff–15(b) of this title—
 
 &emsp;&emsp;(A) contains a report concerning the dissemination of emergency relief funds under subsection (a) of this section and the plan for utilization of such funds;
 
@@ -192,7 +192,7 @@
 
 #### (B) Demonstrated need
 
-&emsp;&emsp;The factors considered by the Secretary in determining whether an eligible area has a demonstrated need for purposes of paragraph (1)(B) may include any or all of the following:
+&emsp;&emsp;The factors considered by the Secretary in determining whether an eligible area has a demonstrated need for purposes of paragraph\(1)(B) may include any or all of the following:
 
 &emsp;&emsp;&emsp;(i) The unmet need for such services, as determined under section 300ff–12(b)(4) of this title or other community input process as defined under section 300ff–19(d)(1)(A) of this title.
 
@@ -392,7 +392,7 @@ Subsec. (b)(1)(B). Pub. L. 109–415, §103(1)(B), substituted "demonstrates the
 
 Subsec. (b)(1)(E). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
-Subsec. (b)(1)(F). Pub. L. 109–415, §103(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: "demonstrates the inclusiveness of the planning council membership, with particular emphasis on affected communities and individuals with HIV disease; and".
+Subsec. (b)(1)(F). Pub. L. 109–415, §103(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: "demonstrates the inclusiveness of theplanning council membership, with particular emphasis on affected communities and individuals with HIV disease; and".
 
 Subsec. (b)(1)(H). Pub. L. 109–415, §103(1)(D), (E), added subpar. (H).
 

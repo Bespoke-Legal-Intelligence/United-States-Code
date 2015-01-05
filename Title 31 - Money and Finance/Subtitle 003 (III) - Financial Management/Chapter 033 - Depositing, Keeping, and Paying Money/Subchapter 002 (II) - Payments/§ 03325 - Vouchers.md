@@ -24,7 +24,7 @@
 
 (d) The head of an executive agency or an officer or employee of an executive agency referred to in subsection (a)(1)(B), as applicable, shall include with each certified voucher submitted to a disbursing official pursuant to this section the taxpayer identifying number of each person to whom payment may be made under the voucher.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 951; Pub. L. 104–106, div. A, title IX, §913(b), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–134, title III, §31001(g)(1)(B), (y), Apr. 26, 1996, 110 Stat.1321–363, 1321–378; Pub. L. 104–201, div. A, title X, §1009(b), Sept. 23, 1996, 110 Stat. 2634; Pub. L. 109–241, title IX, §902(b)(2), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 951; Pub. L. 104–106, div. A, title IX, §913(b), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–134, title III, §31001(g)(1)(B), (y), Apr. 26, 1996, 110 Stat. 1321–363, 1321–378; Pub. L. 104–201, div. A, title X, §1009(b), Sept. 23, 1996, 110 Stat. 2634; Pub. L. 109–241, title IX, §902(b)(2), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes
 

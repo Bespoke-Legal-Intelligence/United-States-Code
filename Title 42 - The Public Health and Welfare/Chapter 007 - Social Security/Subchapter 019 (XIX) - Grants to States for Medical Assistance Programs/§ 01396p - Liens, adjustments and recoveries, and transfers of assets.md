@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) at the option of the State, any items or services under the State plan (but not including medical assistance for medicare cost-sharing or for benefits described in section 1396a(a)(10)(E) of this title).
 
-&emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
+&emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medicalassistance paid on behalf of the individual for nursing facility and other long-term care services.
 
 &emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had a State plan amendment approved as of May 14, 1993, and which satisfies clause (iv), or which has a State plan amendment that provides for a qualified State long-term care insurance partnership (as defined in clause (iii)) which provided for the disregard of any assets or resources—
 
@@ -162,7 +162,7 @@
 
 &emsp;(B) For purposes of this paragraph and paragraph (1)(C)—
 
-&emsp;&emsp;(i) the terms "model regulation" and "model Act" mean the long-term care insurance model regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of October 2000);
+&emsp;&emsp;(i) the terms "model regulation" and "model Act" mean the long-term care insurance model regulation, and the long-termcare insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of October 2000);
 
 &emsp;&emsp;(ii) any provision of the model regulation or model Act listed under subparagraph (A) shall be treated as including any other provision of such regulation or Act necessary to implement the provision; and
 
@@ -208,7 +208,7 @@
 
 &emsp;(II) the average monthly cost to a private patient of nursing facility services in the State (or, at the option of the State, in the community in which the individual is institutionalized) at the time of application.
 
-(iii) The number of months of ineligibility otherwise determined under clause (i) or (ii) with respect to the disposal of an asset shall be reduced—
+(iii) The number of months of ineligibility otherwise determined under clause (i) or (ii)with respect to the disposal of an asset shall be reduced—
 
 &emsp;(I) in the case of periods of ineligibility determined under clause (i), by the number of months of ineligibility applicable to the individual under clause (ii) as a result of such disposal, and
 
@@ -370,7 +370,7 @@
 
 (1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relating to long-term care services) for an individual, the application of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
 
-(2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of the right of the State under such subsection as apreferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
+(2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of the right of the State under such subsection as a preferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
 
 (B) In the case of such an issuer receiving notice under subparagraph (A), the State may require the issuer to notify the State when there is a change in the amount of income or principal being withdrawn from the amount that was being withdrawn at the time of the most recent disclosure described in paragraph (1). A State shall take such information into account in determining the amount of the State's obligations for medical assistance or in the individual's eligibility for such assistance.
 
@@ -380,7 +380,7 @@
 
 #### (f) Disqualification for long-term care assistance for individuals with substantial home equity
 
-(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facility services or other long-term care services, the individual shall not be eligible for such assistance if the individual's equity interest in the individual's home exceeds $500,000.
+(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facilityservices or other long-term care services, the individual shall not be eligible for such assistance if the individual's equity interest in the individual's home exceeds $500,000.
 
 (B) A State may elect, without regard to the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability), to apply subparagraph (A) by substituting for "$500,000", an amount that exceeds such amount, but does not exceed $750,000.
 
@@ -432,13 +432,13 @@ In this section, the following definitions shall apply:
 
 &emsp;(4) The term "noninstitutionalized individual" means an individual receiving any of the services specified in subsection (c)(1)(C)(ii) of this section.
 
-&emsp;(5) The term "resources" has the meaning given such term in section 1382b of this title,without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
+&emsp;(5) The term "resources" has the meaning given such term in section 1382b of this title, without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(l)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628; Pub. L. 109–171, title VI, §§6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, 120 Stat. 61–68; Pub. L. 109–432, div. B, title IV, §405(b)(1), Dec. 20, 2006, 120 Stat. 2998; Pub. L. 110–275, title I, §115(a), July 15, 2008, 122 Stat. 2507; Pub. L. 111–5, div. B, title V, §5006(c), Feb. 17, 2009, 123 Stat. 507; Pub. L. 113–67, div. A, title II, §202(b)(3), Dec. 26, 2013, 127 Stat. 1177.)
 
 #### Amendment of Subsection (a)(1)(A)
 
-<i>Pub. L. 113–67, div. A, title II, §202(b)(3), (c), Dec. 26, 2013, 127 Stat. 1177, provided that, effective Oct. 1, 2014, subsection (a)(1)(A) of this section is amended to read as follows:</i>
+<i>Pub. L. 113–67, div. A, title II, §202(b)(3), (c), Dec. 26, 2013, 127 Stat. 1177, as amended by Pub. L. 113–93, title II, §211, Apr. 1, 2014, 128 Stat. 1047, provided that, effective Oct. 1, 2016, subsection (a)(1)(A) of this section is amended to read as follows:</i>
 
 &emsp;<i>(A) pursuant to—</i>
 
@@ -564,7 +564,7 @@ Subsec. (c)(2)(B)(iii). Pub. L. 97–448, §309(b)(22), substituted in subcl. (I
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–67 effective Oct. 1, 2014, see section 202(c) of Pub. L. 113–67, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 113–67 effective Oct. 1, 2016, see section 202(c) of Pub. L. 113–67, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -608,7 +608,7 @@ Extension of effective date for state law amendment.—In the case of a State pl
 
 Pub. L. 103–66, title XIII, §13611(e), Aug. 10, 1993, 107 Stat. 627, provided that:
 
-"(1) The amendments made by this section \[amending this section and sections 1396a and 1396r–5 of this title\] shall apply, except as provided in this subsection, to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+"(1) The amendments made by this section \[amending this section and sections 1396a and 1396r–5 of this title\] shall apply, except as provided in this subsection, to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning onor after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 "(2) The amendments made by this section shall not apply—
 

@@ -1,0 +1,6 @@
+### §15303. Transferred
+
+#### Codification
+
+Section 15303 was editorially reclassified as section 20903 of Title 52, Voting and Elections.
+

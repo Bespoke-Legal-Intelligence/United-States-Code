@@ -16,11 +16,13 @@ Nothing in this subchapter shall be construed—
 
 #### (2) Sectarian agency or organization
 
-&emsp;In the case of a sectarian agency or organization, no funds made available under this subchapter may be used for the purposes described in paragraph (1) except to the extent that renovation or repair is necessary to bring the facility of such agency or organization into compliance with health and safety requirements referred to in section 9858c(c)(2)(F) of this title.
+&emsp;In the case of a sectarian agency or organization, no funds made available under this subchapter may be used for the purposes described in paragraph (1) except to the extent that renovation or repair is necessary to bring the facility of such agency or organization into compliance with health and safety requirements referred to in section 9858c(c)(2)(I) of this title.
 
-(Pub. L. 97–35, title VI, §658F, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–240; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §606, Aug. 22, 1996, 110 Stat. 2283.)
+(Pub. L. 97–35, title VI, §658F, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–240; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §606, Aug. 22, 1996, 110 Stat. 2283; Pub. L. 113–186, §5(c), Nov. 19, 2014, 128 Stat. 1987.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2). Pub. L. 113–186 substituted "section 9858c(c)(2)(I)" for "section 9858c(c)(2)(F)".
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–193 substituted "Except as provided for in section 9858m(c)(6) of this title, no funds" for "No funds".
 

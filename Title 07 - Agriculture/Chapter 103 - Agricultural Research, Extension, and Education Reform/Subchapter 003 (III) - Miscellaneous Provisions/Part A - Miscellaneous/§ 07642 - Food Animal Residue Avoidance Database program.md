@@ -22,7 +22,7 @@ In carrying out the FARAD program, the Secretary shall—
 
 &emsp;(3) publish periodically a compilation of food animal drugs approved by the Food and Drug Administration;
 
-&emsp;(4) make information on food animal drugs available to the public through handbooks and other literature, computer software, a telephone hotline, and the Internet;
+&emsp;(4) make information on food animal drugs available to the public through handbooks andother literature, computer software, a telephone hotline, and the Internet;
 
 &emsp;(5) furnish producer quality-assurance programs with up-to-date data on approved drugs;
 
@@ -34,7 +34,7 @@ In carrying out the FARAD program, the Secretary shall—
 
 #### (c) Contract, grants, and cooperative agreements
 
-The Secretary shall offer to enter into a contract, grant, or cooperative agreement with 1 ormore appropriate colleges and universities to operate the FARAD program. The term of the contract, grant, or cooperative agreement shall be 3 years, with options to extend the term of the contract triennially.
+The Secretary shall offer to enter into a contract, grant, or cooperative agreement with 1 or more appropriate colleges and universities to operate the FARAD program. The term of the contract, grant, or cooperative agreement shall be 3 years, with options to extend the term of the contract triennially.
 
 #### (d) Indirect costs
 
@@ -42,15 +42,17 @@ Federal funds provided by the Secretary under a contract, grant, or cooperative 
 
 #### (e) Authorization of appropriations
 
-In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2012.
+In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2018.
 
-(Pub. L. 105–185, title VI, §604, June 23, 1998, 112 Stat. 586; Pub. L. 110–234, title VII, §7312, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, §4(a), title VII, §7312, June 18, 2008, 122 Stat. 1664, 2006.)
+(Pub. L. 105–185, title VI, §604, June 23, 1998, 112 Stat. 586; Pub. L. 110–234, title VII, §7312, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, §4(a), title VII, §7312, June 18, 2008, 122 Stat. 1664, 2006; Pub. L. 113–79, title VII, §7307, Feb. 7, 2014, 128 Stat. 891.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e). Pub. L. 113–79 substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–246, §7312, added subsec. (e).
 

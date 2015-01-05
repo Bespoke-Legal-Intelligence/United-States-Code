@@ -88,7 +88,7 @@ As used in this section:
 
 &emsp;&emsp;(A) The facility has submitted the required materials to the accreditation body within the established time frames for the submission of such materials but the accreditation body is unable to complete the reaccreditation process before the certification expires.
 
-&emsp;&emsp;(B) The facility has acquired additional or replacement equipment, or has had significant personnel changes or other unforeseen situations that have caused the facility to be unable to meet reaccreditation timeframes, but in the opinion of the accreditation body have not compromised the quality of mammography.
+&emsp;&emsp;(B) The facility has acquired additional or replacement equipment, or has had significant personnel changes or other unforeseen situations that have caused the facility tobe unable to meet reaccreditation timeframes, but in the opinion of the accreditation body have not compromised the quality of mammography.
 
 #### (3) Limited provisional certificate
 
@@ -376,7 +376,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) In carrying out the program, the Secretary may not select a facility for inclusion in the program unless the facility is substantially free of incidents of noncompliance with the standards under subsection (f) of this section. The Secretary may at any time provide that a facility will no longer be included in the program.
 
-&emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significantsample, subject to compliance with clause (ii).
+&emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significant sample, subject to compliance with clause (ii).
 
 &emsp;&emsp;&emsp;(iv) Facilities that are selected for inclusion in the program shall be inspected at such intervals as the Secretary determines will reasonably ensure that the facilities are maintaining compliance with such standards.
 
@@ -444,7 +444,7 @@ As used in this section:
 
 #### (3) Ineligibility to own or operate facilities after revocation
 
-&emsp;If the Secretary revokes the certificate of a facility on the basis of an act described inparagraph (1), no person who owned or operated the facility at the time of the act may, within 2 years of the revocation of the certificate, own or operate a facility that requires a certificate under this section.
+&emsp;If the Secretary revokes the certificate of a facility on the basis of an act described in paragraph (1), no person who owned or operated the facility at the time of the act may, within 2 years of the revocation of the certificate, own or operate a facility that requires a certificate under this section.
 
 #### (j) Injunctions
 
@@ -460,7 +460,7 @@ If the Secretary determines that—
 
 #### (1) Petition
 
-&emsp;If the Secretary imposes a sanction on a facility under subsection (h) of this section or suspends or revokes the certificate of a facility under subsection (i) of this section, the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+&emsp;If the Secretary imposes a sanction on a facility under subsection (h) of this section or suspends or revokes the certificate of a facility under subsection (i) of this section, the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerkof the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence
 
@@ -510,7 +510,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 #### (1) Establishment
 
-&emsp;In carrying out this section, the Secretary shall establish an advisory committee to beknown as the National Mammography Quality Assurance Advisory Committee (hereafter in this subsection referred to as the "Advisory Committee").
+&emsp;In carrying out this section, the Secretary shall establish an advisory committee to be known as the National Mammography Quality Assurance Advisory Committee (hereafter in this subsection referred to as the "Advisory Committee").
 
 #### (2) Composition
 
@@ -694,7 +694,7 @@ Subsec. (b)(1)(B). Pub. L. 108–365, §2(1)(B), inserted "or a limited provisio
 
 Subsec. (c)(2) to (4). Pub. L. 108–365, §2(2), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-Subsec. (n)(2). Pub. L. 108–365, §3(1), reenacted subpar. (C) without change, added concluding provisions, and struck out former concluding provisions which read as follows: "whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography and at least 2 practicing physicians who provide mammography services."
+Subsec. (n)(2). Pub. L. 108–365, §3(1), reenacted subpar. (C) without change, added concluding provisions, andstruck out former concluding provisions which read as follows: "whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography and at least 2 practicing physicians who provide mammography services."
 
 Subsec. (n)(4). Pub. L. 108–365, §3(2), substituted "annually" for "biannually".
 
@@ -762,7 +762,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

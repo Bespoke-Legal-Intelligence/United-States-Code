@@ -14,7 +14,7 @@
 
 &emsp;(B) with respect to the Sergeant at Arms, the position of minority pair clerk in the House, and
 
-&emsp;(C) with respect to the Chief Administrative Officer, positions under the House Radio and Television Correspondents’ Gallery and the House Periodical Press Gallery.
+&emsp;(C) with respect to the Chief Administrative Officer, positions under the House Radio and Television Correspondents' Gallery and the House Periodical Press Gallery.
 
 (2) The position descriptions shall—
 
@@ -48,15 +48,15 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 291 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 291 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1)(C). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper”.
+<b>1996</b>—Subsec. (b)(1)(C). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Doorkeeper".
 
-<b>1995</b>—Subsec. (b)(1). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster”.
+<b>1995</b>—Subsec. (b)(1). Pub. L. 104–53 substituted "Chief Administrative Officer, and the Inspector General" for "Doorkeeper, and the Postmaster".
 
-Subsec. (c). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
+Subsec. (c). Pub. L. 104–53 substituted "Chief Administrative Officer, and the Inspector General" for "Doorkeeper, and the Postmaster,".
 
 #### Transfer of Functions
 

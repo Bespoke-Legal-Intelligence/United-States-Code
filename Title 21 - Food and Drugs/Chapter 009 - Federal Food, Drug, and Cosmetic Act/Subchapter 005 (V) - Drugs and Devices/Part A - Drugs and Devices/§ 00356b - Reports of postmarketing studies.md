@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A sponsor of a drug that has entered into an agreement with the Secretary to conduct a postmarketing study of a drug shall submit to the Secretary, within 1 year after the approval of such drug and annually thereafter until the study is completed or terminated, a report of the progress of the study or the reasons for the failure of the sponsor to conduct the study. The report shall be submitted in such form as is prescribed by the Secretary in regulations issued by the Secretary.
+&emsp;A sponsor of a drug that has entered into an agreement with the Secretary to conduct apostmarketing study of a drug shall submit to the Secretary, within 1 year after the approval of such drug and annually thereafter until the study is completed or terminated, a report of the progress of the study or the reasons for the failure of the sponsor to conduct the study. The report shall be submitted in such form as is prescribed by the Secretary in regulations issued by the Secretary.
 
 #### (2) Agreements prior to effective date
 

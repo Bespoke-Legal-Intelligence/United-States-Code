@@ -1,6 +1,6 @@
 ### §4802. Securities and Exchange Commission
 
-(a) In this section, the term “Commission” means the Securities and Exchange Commission.
+(a) In this section, the term "Commission" means the Securities and Exchange Commission.
 
 (b) The Commission may appoint and fix the compensation of such officers, attorneys, economists, examiners, and other employees as may be necessary for carrying out its functions under the securities laws as defined under section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c).
 
@@ -16,41 +16,41 @@
 
 #### Employees Represented by Labor Organizations
 
-Pub. L. 107–123, §8(b), Jan. 16, 2002, 115 Stat. 2398, provided that: “To the extent that any employee of the Securities and Exchange Commission is represented by a labor organization with exclusive recognition in accordance with chapter 71 of title 5, United States Code, no reduction in base pay of such employee shall bemade by reason of enactment of this section \[enacting this chapter, amending sections 3132 and 5373 of this title, section 1833b of Title 12, Banks and Banking, and section 78d of Title 15, Commerce and Trade, and enacting provisions set out as a note under this section\] (including the amendments made by this section).”
+Pub. L. 107–123, §8(b), Jan. 16, 2002, 115 Stat. 2398, provided that: "To the extent that any employee of the Securities and Exchange Commission is represented by a labor organization with exclusive recognition in accordance with chapter 71 of title 5, United States Code, no reduction in base pay of such employee shall be made by reason of enactment of this section \[enacting this chapter, amending sections 3132 and 5373 of this title, section 1833b of Title 12, Banks and Banking, and section 78d of Title 15, Commerce and Trade, and enacting provisions set out as a note under this section\] (including the amendments made by this section)."
 
 #### Implementation Plan and Report
 
 Pub. L. 107–123, §8(c), Jan. 16, 2002, 115 Stat. 2398, provided that:
 
-“(1)
+"(1)
 
 Implementation plan.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The Securities and Exchange Commission shall develop a plan to implement section 4802 of title 5, United States Code, as added by this section.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Inclusion in annual performance plan and report.—The Securities and Exchange Commission shall include—
 
-&emsp;&emsp;“(i) the plan developed under this paragraph in the annual program performance plan submitted under section 1115 of title 31, United States Code; and
+&emsp;&emsp;"(i) the plan developed under this paragraph in the annual program performance plan submitted under section 1115 of title 31, United States Code; and
 
-&emsp;&emsp;“(ii) the effects of implementing the plan developed under this paragraph in the annual program performance report submitted under section 1116 of title 31, United States Code.
+&emsp;&emsp;"(ii) the effects of implementing the plan developed under this paragraph in the annual program performance report submitted under section 1116 of title 31, United States Code.
 
-“(2)
+"(2)
 
 Implementation report.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Before implementing the plan developed under paragraph (1), the Securities and Exchange Commission shall submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Committee on Financial Services of the House of Representatives, and the Office of Personnel Management on the details of the plan.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Content.—The report under this paragraph shall include—
 
-&emsp;&emsp;“(i) evidence and supporting documentation justifying the plan; and
+&emsp;&emsp;"(i) evidence and supporting documentation justifying the plan; and
 
-&emsp;&emsp;“(ii) budgeting projections on costs and benefits resulting from the plan.”
+&emsp;&emsp;"(ii) budgeting projections on costs and benefits resulting from the plan."
 

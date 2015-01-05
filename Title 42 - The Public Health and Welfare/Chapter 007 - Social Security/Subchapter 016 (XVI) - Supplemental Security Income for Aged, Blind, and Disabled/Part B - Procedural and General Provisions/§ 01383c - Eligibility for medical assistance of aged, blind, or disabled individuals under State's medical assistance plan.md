@@ -6,7 +6,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 #### (b) Preservation of benefit status for certain disabled widows and widowers
 
-(1) An eligible disabled widow or widower (described in paragraph (2)) who is entitled to a widow's or widower's insurance benefit based on a disability for any month under section 402(e) or (f) of this title but is not eligible for benefits under this subchapter in that month, and who applies for the protection of this subsection under paragraph (3), shall be deemed for purposes of subchapter XIX of this chapter to be an individual with respect to whom benefits under this subchapter are paid in that month if he or she—
+(1) An eligible disabled widow or widower (described in paragraph (2)) who is entitled to a widow's or widower's insurance benefit based on a disability for any month under section 402(e) or (f) of this title but is not eligible for benefits under this subchapter in that month, and who applies for the protection of this subsectionunder paragraph (3), shall be deemed for purposes of subchapter XIX of this chapter to be an individual with respect to whom benefits under this subchapter are paid in that month if he or she—
 
 &emsp;(A) has been continuously entitled to such widow's or widower's insurance benefits from the first month for which the increase described in paragraph (2)(C) was reflected in such benefits through the month involved, and
 
@@ -56,7 +56,7 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 Section 134 of the Social Security Amendments of 1983 (Public Law 98–21), referred to in subsec. (b)(2)(C), is section 134 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 97, which amended section 402 of this title and enacted provisions set out as a note under section 402 of this title.
 
-Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L.93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 The effective date of this subsection, referred to in subsec. (c)(1), is July 1, 1987, except as otherwise provided. See section 10(b) of Pub. L. 99–643, set out as an Effective Date of 1986 Amendments note under section 1396a of this title.
 
@@ -116,7 +116,7 @@ Pub. L. 100–203, title IX, §9116(b), Dec. 22, 1987, 101 Stat. 1330–306, pro
 
 #### State Determinations
 
-Pub. L. 100–203, title IX, §9116(c), Dec. 22, 1987, 101 Stat. 1330–306, provided that: "Any determination required under section 1634(d) of the Social Security Act \[subsec. (d) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] (or State supplementary payments) in the absence of benefits under section 202 \[section 402 of this title\] shall be made by the appropriate State agency."
+Pub. L. 100–203, title IX, §9116(c), Dec. 22, 1987, 101 Stat. 1330–306, provided that: "Any determination required under section 1634(d) of the Social Security Act \[subsec. (d) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] (or State supplementary payments) in the absence of benefits under section 202\[section 402 of this title\] shall be made by the appropriate State agency."
 
 Pub. L. 99–643, §6(b), Nov. 10, 1986, 100 Stat. 3578, provided that: "Any determination required under section 1634(c) of the Social Security Act \[subsec. (c) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] in the absence of children's benefits (or an increase thereof) shall be made by the appropriate State agency."
 

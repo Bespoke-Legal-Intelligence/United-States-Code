@@ -84,7 +84,7 @@ Another prior section 3014 was renumbered section 3015 of this title and subsequ
 
 #### Effective Date of 1988 Amendment
 
-Requirements of subsec. (c)(5) of this section applicable with respect to any person appointed on or after Sept. 29, 1988, as head of office or other entity designated for conducting auditing function in a military department, see section 325(d)(1) of Pub. L. 100–456, set out as a note under section 5014 of this title.
+Requirements of subsec. (c)(5) of this section applicable with respect to any person appointed on or afterSept. 29, 1988, as head of office or other entity designated for conducting auditing function in a military department, see section 325(d)(1) of Pub. L. 100–456, set out as a note under section 5014 of this title.
 
 #### Effective Date
 

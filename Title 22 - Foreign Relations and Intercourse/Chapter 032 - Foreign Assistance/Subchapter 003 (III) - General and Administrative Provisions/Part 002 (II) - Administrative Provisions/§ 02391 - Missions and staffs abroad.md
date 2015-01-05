@@ -16,7 +16,7 @@ The President may appoint any United States citizen who is not an employee of th
 
 Wherever practicable, especially in the case of the smaller programs, assistance under subchapter I of this chapter shall be administered under the direction of the Chief of the United States Diplomatic Mission by the principal economic officer of the mission.
 
-(Pub. L. 87–195, pt. III, §631, Sept. 4, 1961, 75 Stat. 453; Pub. L. 88–205, pt. III, §302(d), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(f), Sept. 6, 1965, 79 Stat. 660; Pub. L. 95–92, §7(c), Aug. 4, 1977, 91 Stat. 617; Pub. L. 96–465, title II, §2203(c), (d), Oct. 17, 1980, 94 Stat. 2159.)
+(Pub. L. 87–195, pt. III, §631, Sept. 4, 1961, 75 Stat. 453; Pub. L. 88–205, pt. III, §302(d), Dec. 16, 1963,77 Stat. 389; Pub. L. 89–171, pt. III, §302(f), Sept. 6, 1965, 79 Stat. 660; Pub. L. 95–92, §7(c), Aug. 4, 1977, 91 Stat. 617; Pub. L. 96–465, title II, §2203(c), (d), Oct. 17, 1980, 94 Stat. 2159.)
 
 #### References in Text
 
@@ -28,7 +28,7 @@ Section 102(a)(3) of that Act, referred to in subsecs. (b) and (c), was redesign
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter,and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 

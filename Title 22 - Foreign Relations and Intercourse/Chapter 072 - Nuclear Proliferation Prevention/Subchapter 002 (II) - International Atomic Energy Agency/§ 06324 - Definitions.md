@@ -8,7 +8,7 @@ As used in this subchapter—
 
 &emsp;(3) the term "near real time material accountancy" means a method of accounting for the location, quantity, and disposition of special fissionable material at facilities that store or process such material, in which verification of peaceful use is continuously achieved by means of frequent physical inventories and the use of in-process instrumentation;
 
-&emsp;(4) the term "special fissionable material" has the meaning given that term by Article XX(1) of the Statute of the International Atomic Energy Agency, done at the Headquarters of the United Nations on October 26, 1956;
+&emsp;(4) the term "special fissionable material" has the meaning given that term by Article XX(1) of the Statute of the InternationalAtomic Energy Agency, done at the Headquarters of the United Nations on October 26, 1956;
 
 &emsp;(5) the term "the Treaty" means the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow on July 1, 1968; and
 

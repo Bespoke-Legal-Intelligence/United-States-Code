@@ -6,7 +6,7 @@ Whoever invents or discovers any new and useful process, machine, manufacture, o
 
 #### Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, §1, 29 Stat. 692, (2) May23, 1930, ch. 312, §1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, §1, 53 Stat. 1212).
+Based on Title 35, U.S.C., 1946 ed., §31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, §1, 29 Stat. 692, (2) May 23, 1930, ch. 312, §1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, §1, 53 Stat. 1212).
 
 The corresponding section of existing statute is split into two sections, section 101 relating to the subject matter for which patents may be obtained, and section 102 defining statutory novelty and stating other conditions for patentability.
 

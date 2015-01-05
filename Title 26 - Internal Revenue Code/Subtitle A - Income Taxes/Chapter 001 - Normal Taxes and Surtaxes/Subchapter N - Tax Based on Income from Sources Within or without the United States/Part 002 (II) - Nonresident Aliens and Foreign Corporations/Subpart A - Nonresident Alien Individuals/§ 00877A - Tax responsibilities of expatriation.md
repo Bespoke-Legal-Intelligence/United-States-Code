@@ -12,7 +12,7 @@ For purposes of this subtitle—
 
 &emsp;In the case of any sale under paragraph (1)—
 
-&emsp;&emsp;(A) notwithstanding any other provision of this title, any gain arising from such saleshall be taken into account for the taxable year of the sale, and
+&emsp;&emsp;(A) notwithstanding any other provision of this title, any gain arising from such sale shall be taken into account for the taxable year of the sale, and
 
 &emsp;&emsp;(B) any loss arising from such sale shall be taken into account for the taxable year of the sale to the extent otherwise provided by this title, except that section 1091 shall not apply to any such loss.
 
@@ -172,7 +172,7 @@ Subsection (a) shall not apply to—
 
 #### (2) Specified tax deferred account
 
-&emsp;For purposes of paragraph (1), the term "specified tax deferred account" means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
+&emsp;For purposes of paragraph (1), the term "specified tax deferred account" means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a qualified ABLE program (as defined in section 529A), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
 
 #### (f) Special rules for nongrantor trusts
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 #### (6) Early distribution tax
 
-&emsp;The term "early distribution tax" means any increase in tax imposed under section 72(t), 220(e)(4),<sup>1</sup> 223(f)(4), 409A(a)(1)(B), 529(c)(6), or 530(d)(4).
+&emsp;The term "early distribution tax" means any increase in tax imposed under section 72(t), 220(e)(4),<sup>1</sup> 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
 
 #### (h) Other rules
 
@@ -276,7 +276,7 @@ For purposes of this section—
 
 &emsp;In the case of any covered expatriate, notwithstanding any other provision of this title—
 
-&emsp;&emsp;(A) any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect toproperty disposed of by the taxpayer shall terminate on the day before the expatriation date, and
+&emsp;&emsp;(A) any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect to property disposed of by the taxpayer shall terminate on the day before the expatriation date, and
 
 &emsp;&emsp;(B) any extension of time for payment of tax shall cease to apply on the day before the expatriation date and the unpaid portion of such tax shall be due and payable at the time and in the manner prescribed by the Secretary.
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638.)
+(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -301,6 +301,16 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 #### References in Text
 
 Section 220(e), referred to in subsec. (g)(6), does not contain a par. (4).
+
+#### Amendments
+
+<b>2014</b>—Subsec. (e)(2). Pub. L. 113–295, §102(e)(2)(A), inserted "a qualified ABLE program (as defined in section 529A)," after "529),".
+
+Subsec. (g)(6). Pub. L. 113–295, §102(e)(2)(B), inserted "529A(c)(3)," after "529(c)(6),".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

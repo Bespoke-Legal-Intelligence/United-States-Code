@@ -4,7 +4,7 @@
 
 Except as specifically provided in this section, the Commission shall not revise—
 
-&emsp;(1) the regulations concerning equal employment opportunity as in effect on September 1, 1992 (47 C.F.R. 73.2080) as such regulationsapply to television broadcast station licensees and permittees; or
+&emsp;(1) the regulations concerning equal employment opportunity as in effect on September 1, 1992 (47 C.F.R. 73.2080) as such regulations apply to television broadcast station licensees and permittees; or
 
 &emsp;(2) the forms used by such licensees and permittees to report pertinent employment data to the Commission.
 

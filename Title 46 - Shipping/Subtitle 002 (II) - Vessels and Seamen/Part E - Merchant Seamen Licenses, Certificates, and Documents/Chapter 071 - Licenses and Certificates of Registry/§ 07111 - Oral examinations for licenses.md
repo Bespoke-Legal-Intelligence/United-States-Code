@@ -2,7 +2,7 @@
 
 An individual may take an oral examination for a license to serve on a fishing, fish processing, or fish tender vessel not required to be inspected under part B of this subtitle.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 541; Pub. L. 98–364, title IV, §402(8)(B), July 17, 1984, 98 Stat.447; Pub. L. 99–307, §1(10), May 19, 1986, 100 Stat. 445.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 541; Pub. L. 98–364, title IV, §402(8)(B), July 17, 1984, 98 Stat. 447; Pub. L. 99–307, §1(10), May 19, 1986, 100 Stat. 445.)
 
 Historical and Revision Notes
 

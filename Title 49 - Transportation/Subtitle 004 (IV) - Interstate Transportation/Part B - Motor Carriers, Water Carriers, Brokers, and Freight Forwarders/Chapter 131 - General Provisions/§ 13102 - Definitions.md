@@ -84,7 +84,7 @@ Household goods motor carrier.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "household goods motor carrier" means a motor carrierthat, in the ordinary course of its business of providing transportation of household goods, offers some or all of the following additional services:
+In general.—The term "household goods motor carrier" means a motor carrier that, in the ordinary course of its business of providing transportation of household goods, offers some or all of the following additional services:
 
 &emsp;&emsp;&emsp;(i) Binding and nonbinding estimates.
 

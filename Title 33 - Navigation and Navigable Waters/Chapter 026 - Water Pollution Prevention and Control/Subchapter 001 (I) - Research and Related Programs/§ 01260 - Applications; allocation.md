@@ -2,7 +2,7 @@
 
 (1) A grant or contract authorized by section 1259 of this title may be made only upon application to the Administrator at such time or times and containing such information as he may prescribe, except that no such application shall be approved unless it—
 
-&emsp;(A) sets forth programs, activities, research, or development for which a grant is authorized under section 1259 of this title and describes the relation to any program set forth by the applicant in an application, if any, submitted pursuant to section 1261 of this title;
+&emsp;(A) sets forth programs, activities, research, or development for which a grant is authorizedunder section 1259 of this title and describes the relation to any program set forth by the applicant in an application, if any, submitted pursuant to section 1261 of this title;
 
 &emsp;(B) provides such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for Federal funds paid to the applicant under this section; and
 

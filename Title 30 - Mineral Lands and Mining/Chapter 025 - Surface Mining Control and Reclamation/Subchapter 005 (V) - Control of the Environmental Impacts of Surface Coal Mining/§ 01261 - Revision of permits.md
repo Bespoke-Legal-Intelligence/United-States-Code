@@ -10,7 +10,7 @@
 
 #### (b) Transfer, assignment, or sale of rights under permit
 
-No transfer, assignment, or sale of the rights granted under any permit issued pursuant to this chapter shall be made without the written approval of the regulatory authority.
+No transfer, assignment, or sale of the rights granted under any permit issued pursuant tothis chapter shall be made without the written approval of the regulatory authority.
 
 #### (c) Review of outstanding permits
 

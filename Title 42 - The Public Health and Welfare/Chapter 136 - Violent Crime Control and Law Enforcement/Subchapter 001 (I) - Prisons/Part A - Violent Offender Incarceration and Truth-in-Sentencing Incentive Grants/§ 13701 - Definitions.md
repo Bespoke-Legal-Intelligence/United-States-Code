@@ -18,13 +18,19 @@ Unless otherwise provided, for purposes of this part—
 
 A prior section 13701, Pub. L. 103–322, title II, §20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–242, §1, Dec. 18, 2014, 128 Stat. 2860, provided that: "This Act \[enacting sections 13727 and 13727a of this title\] may be cited as the 'Death in Custody Reporting Act of 2013'."
+
+Pub. L. 113–182, §1, Sept. 29, 2014, 128 Stat. 1918, provided that: "This Act \[amending sections 14135, 14136, and 14136a of this title\] may be cited as the 'Debbie Smith Reauthorization Act of 2014'."
+
 #### Short Title of 2013 Amendment
 
 Pub. L. 113–4, §1, Mar. 7, 2013, 127 Stat. 54, provided that: "This Act \[see Tables for classification\] may be cited as the 'Violence Against Women Reauthorization Act of 2013'."
 
 Pub. L. 113–4, title X, §1001, Mar. 7, 2013, 127 Stat. 127, provided that: "This title \[amending section 14135 of this title and enacting provisions set out as notes under section 14135 of this title\] may be cited as the 'Sexual Assault Forensic Evidence Reporting Act of 2013' or the 'SAFER Act of 2013'."
 
-Pub. L. 112–253, §1, Jan. 10, 2013, 126 Stat. 2407, provided that: "This Act \[enacting sections 14137 to 14137c of this title and amending section 14135 of this title\] may be cited as the 'Katie Sepich Enhanced DNA Collection Act of 2012'."
+Pub. L. 112–253, §1, Jan. 10, 2013, 126 Stat. 2407, provided that: "This Act \[enacting sections 14137 to 14137cof this title and amending section 14135 of this title\] may be cited as the 'Katie Sepich Enhanced DNA Collection Act of 2012'."
 
 #### Short Title of 2008 Amendment
 
@@ -66,7 +72,7 @@ Pub. L. 106–297, §1, Oct. 13, 2000, 114 Stat. 1045, provided that: "This Act 
 
 #### Short Title of 1996 Amendments
 
-Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: "This Act \[enacting sections 14072 and 14073 ofthis title, amending section 14071 of this title, and enacting provisions set out as notes under section 14071 of this title\] may be cited as the 'Pam Lychner Sexual Offender Tracking and Identification Act of 1996'."
+Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: "This Act \[enacting sections 14072 and 14073 of this title, amending section 14071 of this title, and enacting provisions set out as notes under section 14071 of this title\] may be cited as the 'Pam Lychner Sexual Offender Tracking and Identification Act of 1996'."
 
 Pub. L. 104–145, §1, May 17, 1996, 110 Stat. 1345, provided that: "This Act \[amending section 14071 of this title\] may be cited as 'Megan's Law'."
 
@@ -86,7 +92,7 @@ Pub. L. 103–322, title IV, §40201, Sept. 13, 1994, 108 Stat. 1925, provided t
 
 Pub. L. 103–322, title IV, §40301, Sept. 13, 1994, 108 Stat. 1941, provided that: "This subtitle \[subtitle C (§§40301–40304) of title IV of Pub. L. 103–322, enacting part C (§13981) of subchapter III of this chapter and amending section 1988 of this title and section 1445 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Civil Rights Remedies for Gender-Motivated Violence Act'."
 
-Pub. L. 103–322, title IV, §40401, Sept. 13, 1994, 108 Stat. 1942, provided that: "This subtitle \[subtitle D (§§40401–40422) of title IV of Pub. L. 103–322, enacting part D (§13991 et seq.) of subchapter III of this chapter\] may be cited as the 'Equal Justice for Women in the Courts Act of 1994'."
+Pub. L. 103–322, title IV, §40401, Sept. 13, 1994, 108 Stat. 1942, provided that: "This subtitle \[subtitle D\(§§40401–40422) of title IV of Pub. L. 103–322, enacting part D (§13991 et seq.) of subchapter III of this chapter\] may be cited as the 'Equal Justice for Women in the Courts Act of 1994'."
 
 Pub. L. 103–322, title IV, §41001, as added by Pub. L. 109–162, title I, §105(a), Jan. 5, 2006, 119 Stat. 2979, provided that subtitle J of title IV of Pub. L. 103–322, enacting part I (§14043 et seq.) of subchapter III of this chapter, could be cited as the "Violence Against Women Act Court Training and Improvements Act of 2005", prior to repeal by Pub. L. 113–4, title I, §104(b), Mar. 7, 2013, 127 Stat. 76.
 

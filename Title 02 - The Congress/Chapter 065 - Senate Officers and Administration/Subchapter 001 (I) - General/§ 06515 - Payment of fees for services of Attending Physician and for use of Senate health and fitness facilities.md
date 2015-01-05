@@ -28,5 +28,5 @@ Section was formerly classified to section 121e of this title prior to editorial
 
 Section is from the Legislative Branch Appropriations Act, 1993.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “provisions”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "provisions".</i>
 

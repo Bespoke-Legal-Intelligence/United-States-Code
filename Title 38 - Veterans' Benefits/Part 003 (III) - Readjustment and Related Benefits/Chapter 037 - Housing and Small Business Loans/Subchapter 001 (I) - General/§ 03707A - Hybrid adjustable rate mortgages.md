@@ -2,7 +2,7 @@
 
 (a) The Secretary shall carry out a project under this section for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act in accordance with the provisions of this section with respect to hybrid adjustable rate mortgages described in subsection (b).
 
-(b) Adjustable rate mortgages that are guaranteed under this section shall be adjustable ratemortgages (commonly referred to as "hybrid adjustable rate mortgages") having interest rate adjustment provisions that—
+(b) Adjustable rate mortgages that are guaranteed under this section shall be adjustable rate mortgages (commonly referred to as "hybrid adjustable rate mortgages") having interest rate adjustment provisions that—
 
 &emsp;(1) specify an initial rate of interest that is fixed for a period of not less than the first three years of the mortgage term;
 
@@ -38,7 +38,7 @@
 
 (e) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
-(Added Pub. L. 107–330, title III, §303(a), Dec. 6, 2002, 116 Stat. 2825; amended Pub. L. 108–454, title IV, §405(a), (b), Dec. 10, 2004, 118 Stat. 3616; Pub. L. 109–233, title I, §102, June 15, 2006, 120 Stat. 399; Pub. L. 110–389, title V, §505(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–154, title II, §209, Aug. 6, 2012, 126 Stat. 1179.)
+(Added Pub. L. 107–330, title III, §303(a), Dec. 6, 2002, 116 Stat. 2825; amended Pub. L. 108–454, title IV, §405(a), (b), Dec. 10, 2004, 118 Stat. 3616; Pub. L. 109–233, title I, §102, June 15, 2006, 120 Stat.399; Pub. L. 110–389, title V, §505(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–154, title II, §209, Aug. 6, 2012, 126 Stat. 1179.)
 
 #### References in Text
 

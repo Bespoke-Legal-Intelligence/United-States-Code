@@ -16,7 +16,7 @@ There is authorized to be appropriated to the Environmental Dispute Resolution F
 
 There is authorized to be appropriated to carry out section 5604(7) of this title $12,300,000 for the 5-fiscal year period beginning with the fiscal year in which this subsection is enacted.
 
-(Pub. L. 102–259, §13, formerly §11, Mar. 19, 1992, 106 Stat. 84; renumbered §13 and amended Pub.L. 105–156, §§6(a), 8, Feb. 11, 1998, 112 Stat. 9, 12; Pub. L. 106–568, title VIII, §817(c), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 108–160, §2, Dec. 6, 2003, 117 Stat. 2013.)
+(Pub. L. 102–259, §13, formerly §11, Mar. 19, 1992, 106 Stat. 84; renumbered §13 and amended Pub. L. 105–156, §§6(a), 8, Feb. 11, 1998, 112 Stat. 9, 12; Pub. L. 106–568, title VIII, §817(c), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 108–160, §2, Dec. 6, 2003, 117 Stat. 2013.)
 
 #### References in Text
 
@@ -38,5 +38,5 @@ This subsection, referred to in subsec. (c), was enacted by Pub. L. 106–568, w
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–568 added subsec. (c).
 
-<b>1998</b>—Pub. L. 105–156, §8, designated existing provisions as subsec. (a), inserted heading, substituted "There is authorized to be appropriated to the Trust Fund" for "There are authorized to be appropriated to the Fund", and added subsec. (b).
+<b>1998</b>—Pub. L. 105–156, §8, designated existing provisions as subsec. (a), inserted heading, substituted"There is authorized to be appropriated to the Trust Fund" for "There are authorized to be appropriated to the Fund", and added subsec. (b).
 

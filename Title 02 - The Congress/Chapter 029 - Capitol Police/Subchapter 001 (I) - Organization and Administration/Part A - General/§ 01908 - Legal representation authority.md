@@ -24,11 +24,11 @@
 
 #### (1) Direction for appearance
 
-&emsp;Entrance of appearance authorized under subsection (a) of this section shall be subject to the direction of the Capitol Police Board.
+&emsp;Entrance of appearance authorized under subsection (a) shall be subject to the direction of the Capitol Police Board.
 
 #### (2) United States Supreme Court
 
-&emsp;The authority under subsection (a) of this section shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
+&emsp;The authority under subsection (a) shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
 
 #### (c) Effective date
 
@@ -42,15 +42,15 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–145, §3(b)(1), substituted “the General Counsel to the Chief of Police and the United States Capitol Police” for “the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police”.
+<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–145, §3(b)(1), substituted "the General Counsel to the Chief of Police and the United States Capitol Police" for "the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police".
 
-Subsec. (a)(2)(B). Pub. L. 111–145, §4(a)(1), substituted “the Employment Counsel to the Chief of Police and the United States Capitol Police” for “the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police”.
+Subsec. (a)(2)(B). Pub. L. 111–145, §4(a)(1), substituted "the Employment Counsel to the Chief of Police and the United States Capitol Police" for "the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police".
 
 #### Construction of 2010 Amendment
 
-Pub. L. 111–145, §3(b)(2), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act \[Mar. 4, 2010\].”
+Pub. L. 111–145, §3(b)(2), Mar. 4, 2010, 124 Stat. 52, provided that: "Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act \[Mar. 4, 2010\]."
 
-Pub. L. 111–145, §4(a)(2), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act \[Mar. 4, 2010\].”
+Pub. L. 111–145, §4(a)(2), Mar. 4, 2010, 124 Stat. 52, provided that: "Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act \[Mar. 4, 2010\]."
 
-Pub. L. 111–145, §4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note above\] or the amendments made by this section may be construed to affect the status of the individual serving as the Employment Counsel to the Chief of Police and the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\].”
+Pub. L. 111–145, §4(b), Mar. 4, 2010, 124 Stat. 52, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note above\] or the amendments made by this section may be construed to affect the status of the individual serving as the Employment Counsel to the Chief of Police and the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\]."
 

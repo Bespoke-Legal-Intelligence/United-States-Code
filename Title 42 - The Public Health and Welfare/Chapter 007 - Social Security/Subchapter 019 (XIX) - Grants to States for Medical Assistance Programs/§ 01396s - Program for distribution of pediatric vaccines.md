@@ -6,7 +6,7 @@
 
 &emsp;In order to meet the requirement of section 1396a(a)(62) of this title, each State shall establish a pediatric vaccine distribution program (which may be administered by the State department of health), consistent with the requirements of this section, under which—
 
-&emsp;&emsp;(A) each vaccine-eligible child (as defined in subsection (b) of this section), in receiving an immunization with a qualified pediatric vaccine (as defined in subsection (h)(8) of this section) from a program-registered provider (as defined in subsection (c) of thissection) on or after October 1, 1994, is entitled to receive the immunization without charge for the cost of such vaccine; and
+&emsp;&emsp;(A) each vaccine-eligible child (as defined in subsection (b) of this section), in receiving an immunization with a qualified pediatric vaccine (as defined in subsection (h)(8) of this section) from a program-registered provider (as defined in subsection (c) of this section) on or after October 1, 1994, is entitled to receive the immunization without charge for the cost of such vaccine; and
 
 &emsp;&emsp;(B)(i) each program-registered provider who administers such a pediatric vaccine to a vaccine-eligible child on or after such date is entitled to receive such vaccine under the program without charge either for the vaccine or its delivery to the provider, and (ii) no vaccine is distributed under the program to a provider unless the provider is a program-registered provider.
 
@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide under subsection (d) of this section for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
+&emsp;&emsp;The Secretary shall provide under subsection (d) of this section for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States ofthe vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
 
 #### (B) Special rules where vaccine is unavailable
 
@@ -72,7 +72,7 @@ For purposes of this section:
 
 #### (1) Defined
 
-&emsp;In this section, except as otherwise provided, the term "program-registered provider"means, with respect to a State, any health care provider that—
+&emsp;In this section, except as otherwise provided, the term "program-registered provider" means, with respect to a State, any health care provider that—
 
 &emsp;&emsp;(A) is licensed or otherwise authorized for administration of pediatric vaccines under the law of the State in which the administration occurs (subject to section 254f(e) of this title), without regard to whether or not the provider participates in the plan under this subchapter;
 
@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (B) Negotiation of discounted price for current vaccines
 
-&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as ofMay 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from May 1993 to the month before the month in which such contract is entered into.
+&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as of May 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from May 1993 to the month before the month in which such contract is entered into.
 
 #### (C) Negotiation of discounted price for new vaccines
 

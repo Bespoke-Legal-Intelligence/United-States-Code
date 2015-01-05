@@ -34,7 +34,7 @@ As used in this subchapter:
 
 #### (5) State plan
 
-&emsp;The term "State plan" means the document which gives assurances that the officially designated State library administrative agency has the fiscal and legal authority and capability to administer all aspects of this subchapter, provides assurances for establishing the State's policies, priorities, criteria, and procedures necessary to the implementation of all programs under this subchapter, submits copies for approval as required by regulations promulgated by the Director, identifies a State's library needs, and sets forth the activities to be taken toward meeting the identified needs supported with the assistance of Federal funds made available under this subchapter.
+&emsp;The term "State plan" means the document which gives assurances that the officially designated State library administrative agency has the fiscal and legal authority and capability to administer all aspects of this subchapter, provides assurances for establishing the State's policies, priorities, criteria, andprocedures necessary to the implementation of all programs under this subchapter, submits copies for approval as required by regulations promulgated by the Director, identifies a State's library needs, and sets forth the activities to be taken toward meeting the identified needs supported with the assistance of Federal funds made available under this subchapter.
 
 (Pub. L. 94–462, title II, §213, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 105–128, §3, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, §202, Sept. 25, 2003, 117 Stat. 997.)
 

@@ -38,7 +38,7 @@
 
 #### (B) Treatment when annuitant returns to service
 
-&emsp;&emsp;If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title, or reinstated or reappointed, in the case of a recovered disability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
+&emsp;&emsp;If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title, or reinstated or reappointed, in the case of a recovereddisability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
 
 #### (6) Disability annuitant
 
@@ -96,7 +96,7 @@
 
 #### (B) Election of spouse annuity
 
-&emsp;&emsp;Subject to paragraph (4)(B), the participant may elect in writing within one year after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
+&emsp;&emsp;Subject to paragraph (4)(B), the participant may elect in writing within one yearafter receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
 
 #### (c) Optional additional survivor annuities for other former spouse or surviving spouse
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(B) a spousal agreement or court order under section 2094(b) of this title may provide for,
 
-> &emsp;an additional survivor annuity under this subsection for any other former spouse or spousesurviving the participant, if the participant satisfactorily passes a physical examination as prescribed by the Director.
+> &emsp;an additional survivor annuity under this subsection for any other former spouse or spouse surviving the participant, if the participant satisfactorily passes a physical examination as prescribed by the Director.
 
 #### (2) Limitation
 

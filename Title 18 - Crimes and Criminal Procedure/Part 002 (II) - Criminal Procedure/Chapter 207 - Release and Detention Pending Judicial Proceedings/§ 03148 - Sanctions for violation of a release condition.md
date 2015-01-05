@@ -30,7 +30,7 @@ Prosecution for Contempt.—The judicial officer may commence a prosecution for 
 
 #### Prior Provisions
 
-A prior section 3148, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215; amended Pub. L. 91–452, title X, §1002, Oct. 12, 1970, 84 Stat. 952, related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3148, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215; amended Pub. L. 91–452, title X,§1002, Oct. 12, 1970, 84 Stat. 952, related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
 

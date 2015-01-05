@@ -44,7 +44,7 @@ This section shall not apply to a debt which is evidenced by a security as defin
 
 &emsp;&emsp;<b>(2) For special rule for banks with respect to worthless securities, see section 582.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 50; Pub. L. 85–866, title I, §8, Sept. 2, 1958, 72 Stat. 1608; Pub. L. 89–722, §1(a), Nov. 2, 1966, 80 Stat. 1151; Pub. L.91–172, title IV, §431(c)(1), Dec. 30, 1969, 83 Stat. 619; Pub. L. 94–455, title VI, §605(a), title XIV, §1402(b)(1)(A), (2), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1575, 1731, 1732, 1834; Pub. L. 98–369, div. A, title X, §1001(b)(1), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VIII, §805(a), (b), title IX, §901(d)(4)(A), Oct. 22, 1986, 100 Stat. 2361, 2379; Pub. L. 100–647, title I, §1008(d)(1), (2), Nov. 10, 1988, 102 Stat. 3439.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 50; Pub. L. 85–866, title I, §8, Sept. 2, 1958, 72 Stat. 1608; Pub. L. 89–722, §1(a), Nov. 2, 1966, 80 Stat. 1151; Pub. L. 91–172, title IV, §431(c)(1), Dec. 30, 1969, 83 Stat. 619; Pub. L. 94–455, title VI, §605(a), title XIV, §1402(b)(1)(A), (2), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1575, 1731, 1732, 1834; Pub. L. 98–369, div. A, title X, §1001(b)(1), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VIII, §805(a), (b), title IX, §901(d)(4)(A), Oct. 22, 1986, 100 Stat. 2361, 2379; Pub. L. 100–647, title I, §1008(d)(1), (2), Nov. 10, 1988, 102 Stat. 3439.)
 
 #### Amendments
 
@@ -132,9 +132,9 @@ Pub. L. 89–722, §2, Nov. 2, 1966, 80 Stat. 1152, as amended by Pub. L. 99–5
 
 "(b) If—
 
-&emsp;"(1) the taxpayer before October 22, 1965, claimed a deduction, for a taxable year ending before such date, under section 166(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for an addition to a reserve for bad debts on account of debt obligations described in section 166(g)(1)(A) of such Code (as amended by the first section of this Act), and
+&emsp;"(1) the taxpayer before October 22, 1965, claimed a deduction, for a taxable year ending before such date,under section 166(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for an addition to a reserve for bad debts on account of debt obligations described in section 166(g)(1)(A) of such Code (as amended by the first section of this Act), and
 
-&emsp;"(2) the assessment of a deficiency of the tax imposed by chapter 1 of such Code for such taxable yearand each subsequent taxable year ending before October 22, 1965, is not prevented on December 31, 1966, by the operation of any law or rule of law,
+&emsp;"(2) the assessment of a deficiency of the tax imposed by chapter 1 of such Code for such taxable year and each subsequent taxable year ending before October 22, 1965, is not prevented on December 31, 1966, by the operation of any law or rule of law,
 
 > then such deduction on account of such debt obligations shall be allowed for each such taxable year under such section 166(c) to the extent that the deduction would have been allowable under the provisions of such section 166(g)(1)(A) if such provisions applied to such taxable years.
 

@@ -34,9 +34,9 @@
 
 #### (2) Express statement
 
-&emsp;For purposes of paragraph (1), the term “express statement”, with respect to information or records, means—
+&emsp;For purposes of paragraph (1), the term "express statement", with respect to information or records, means—
 
-&emsp;&emsp;(A) in the case of written information or records, a written marking on the information or records substantially similar to the following: “This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure as provided by the provisions of the Critical Infrastructure Information Act of 2002.”; or
+&emsp;&emsp;(A) in the case of written information or records, a written marking on the information or records substantially similar to the following: "This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure as provided by the provisions of the Critical Infrastructure Information Act of 2002."; or
 
 &emsp;&emsp;(B) in the case of oral information, a similar written statement submitted within a reasonable period following the oral communication.
 
@@ -46,7 +46,7 @@ No communication of critical infrastructure information to a covered Federal age
 
 #### (c) Independently obtained information
 
-Nothing in this section shall be construed to limit or otherwise affect the ability of a State, local, or Federal Government entity, agency, or authority, or any third party, under applicable law, to obtain critical infrastructure information in a manner not covered by subsection (a) of this section, including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law. For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5.
+Nothing in this section shall be construed to limit or otherwise affect the ability of a State, local, or Federal Government entity, agency, or authority, or any third party, under applicable law, to obtain critical infrastructure information in a manner not covered by subsection (a), including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law. For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5.
 
 #### (d) Treatment of voluntary submittal of information
 
@@ -96,9 +96,9 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c). Pub. L. 112–199 inserted at end “For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5.”
+<b>2012</b>—Subsec. (c). Pub. L. 112–199 inserted at end "For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5."
 
-<b>2004</b>—Subsec. (a)(1)(D)(ii)(II). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(1)(D)(ii)(II). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 #### Effective Date of 2012 Amendment
 

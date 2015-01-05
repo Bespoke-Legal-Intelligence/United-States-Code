@@ -170,3 +170,7 @@ In the development of specific appraisal guidelines in accordance with subsectio
 
 (Pub. L. 106–291, title VI, §606, Oct. 11, 2000, 114 Stat. 1015.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–291, div. B, title XXX, §3024(k), Dec. 19, 2014, 128 Stat. 3766, provided that, effective on the date of the assessment of annual permit fees in accordance with section 6214(f) of this title (as certified to Congress by the Secretary of Agriculture), this section is repealed.</i>
+

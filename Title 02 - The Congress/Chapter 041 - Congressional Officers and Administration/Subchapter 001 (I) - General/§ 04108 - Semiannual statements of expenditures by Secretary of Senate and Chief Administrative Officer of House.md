@@ -1,8 +1,8 @@
 ### §4108. Semiannual statements of expenditures by Secretary of Senate and Chief Administrative Officer of House
 
-(1) Commencing with the semiannual period beginning on July 1, 1964, and ending on December 31, 1964, and for each semiannual period thereafter, the Secretary of the Senate and the Chief Administrative Officer of the House of Representatives shall compile, and, not later than sixty days following the close of the semiannual period, submit to the Senate and House of Representatives, respectively, and make available to the public, in lieu of the reports and information required by sections 102, 103, and 104 <sup>1</sup> of this title, and S. Res. 139, Eighty-sixth Congress, a report containing a detailed statement, by items, of the manner in which appropriations and other funds available for disbursement by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as the case may be, have been expended during the semiannual period covered by the report, including (1) the name of every person to whom any part of such appropriation has been paid, (2) if for anything furnished, the quantity and price thereof, (3) if for services rendered, the nature of the services, the time employed, and the name, title, and specific amount paid to each person, and (4) a complete statement of all amounts appropriated, received, or expended, and any unexpended balances. Such reports shall include the information contained in statements of accountability and supporting vouchers submitted to the Government Accountability Office pursuant to the provisions of section 3523(a) of title 31. Notwithstanding the foregoing provisions of this section, in any case in which the voucher or vouchers covering payment to any person for attendance as a witness before any committee of the Senate or House of Representatives, or any subcommittee thereof, during any semiannual period, indicate that all appearances of such person covered by such voucher or vouchers were as a witness in executive session of the committee or subcommittee, information regarding such payment, except for date of payment, voucher number, and amount paid, shall not be included in the report compiled pursuant to this section for such semiannual period. Any information excluded from a report for any semiannual period by reason of the foregoing sentence shall be included in the report compiled pursuant to this section for the succeeding semiannual period. Reports required to be submitted to the Senate and the House of Representatives under this section may be printed as Senate and House documents, respectively.
+(1) Commencing with the semiannual period beginning on July 1, 1964, and ending on December 31, 1964, and for each semiannual period thereafter, the Secretary of the Senate and the Chief Administrative Officer of the House of Representatives shall compile, and, not later than sixty days following the close of the semiannual period, submit to the Senate and House of Representatives, respectively, and make available to the public, in lieu of the reports and information required by sections 102, 103, and 104 <sup>1</sup> of this title, and S. Res. 139, Eighty-sixth Congress, a report containing a detailed statement, by items, of the manner in which appropriations and other funds available for disbursement by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as the case may be, have been expended during the semiannual period covered by the report, including (1) the name of every person to whom any part of such appropriation has been paid, (2) if for anything furnished, the quantity and price thereof, (3) if for services rendered, the nature of the services, the time employed, and the name, title, and specific amount paid to each person, and (4) a complete statement of all amounts appropriated, received, or expended, and any unexpended balances. Such reports shall include the information containedin statements of accountability and supporting vouchers submitted to the Government Accountability Office pursuant to the provisions of section 3523(a) of title 31. Notwithstanding the foregoing provisions of this section, in any case in which the voucher or vouchers covering payment to any person for attendance as a witness before any committee of the Senate or House of Representatives, or any subcommittee thereof, during any semiannual period, indicate that all appearances of such person covered by such voucher or vouchers were as a witness in executive session of the committee or subcommittee, information regarding such payment, except for date of payment, voucher number, and amount paid, shall not be included in the report compiled pursuant to this section for such semiannual period. Any information excluded from a report for any semiannual period by reason of the foregoing sentence shall be included in the report compiled pursuant to this section for the succeeding semiannual period. Reports required to be submitted to the Senate and the House of Representatives under this section may be printed as Senate and House documents, respectively.
 
-(2) The report by the Secretary of the Senate under paragraph (1) for the semiannual period beginning on January 1, 1976, shall include the period beginning on July 1, 1976, and ending on September 30, 1976, and such semiannual period shall be treated as closing on September 30, 1976. Thereafter, the report by the Secretary of theSenate under paragraph (1) shall be for the semiannual periods beginning on October 1 and ending on March 31 and beginning on April 1 and ending on September 30 of each year.
+(2) The report by the Secretary of the Senate under paragraph (1) for the semiannual period beginning on January 1, 1976, shall include the period beginning on July 1, 1976, and ending on September 30, 1976, and such semiannual period shall be treated as closing on September 30, 1976. Thereafter, the report by the Secretary of the Senate under paragraph (1) shall be for the semiannual periods beginning on October 1 and ending on March 31 and beginning on April 1 and ending on September 30 of each year.
 
 (3) The report requirement relating to quantity, as contained in subparagraph (2) of paragraph (1), does not apply with respect to the Senate.
 
@@ -46,21 +46,21 @@ Sections 103 and 104 of this title, referred to in par. (1), were omitted from t
 
 Section was formerly classified to section 104a of this title prior to editorial reclassification and renumbering as this section.
 
-In par. (1), “section 3523(a) of title 31” substituted for “section 117(a) of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 67(a))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In par. (1), "section 3523(a) of title 31" substituted for "section 117(a) of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 67(a))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section is based on the first paragraph of section 105(a) of Pub. L. 88–454. Remainder of section 105(a) was classified to section 67 of former Title 31, which was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted as section 3523 of Title 31, Money and Finance.
 
 #### Amendments
 
-<b>2009</b>—Par. (1). Pub. L. 111–68, §2(1), substituted “may” for “shall” in last sentence.
+<b>2009</b>—Par. (1). Pub. L. 111–68, §2(1), substituted "may" for "shall" in last sentence.
 
 Par. (6). Pub. L. 111–68, §2(2), added par. (6).
 
-<b>2004</b>—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>2000</b>—Par. (5). Pub. L. 106–554 added par. (5).
 
-<b>1996</b>—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in two places.
+<b>1996</b>—Par. (1). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk" in two places.
 
 <b>1994</b>—Pub. L. 103–283 added par. (4).
 
@@ -68,19 +68,19 @@ Par. (6). Pub. L. 111–68, §2(2), added par. (6).
 
 <b>1976</b>—Pub. L. 94–303 designated existing provisions as par. (1) and added par. (2).
 
-<b>1964</b>—Pub. L. 88–656 provided that information regarding persons paid by voucher for appearances as a witness before any committee of Congress in executive session shall not be included in semiannual report except for date of payment, voucher number, and amount paid, however, any information so excluded shall be included in next succeeding semiannual period.
+<b>1964</b>—Pub. L. 88–656 provided that information regarding persons paid by voucher for appearances as a witness before any committee of Congress in executive session shall not be included in semiannual report except for date of payment, voucher number, and amount paid,however, any information so excluded shall be included in next succeeding semiannual period.
 
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(2) \[title I, §1(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–96, provided that:
 
-“(1)
+"(1)
 
 In general.—Subject to paragraph (2), the amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
 
-“(2)
+"(2)
 
-First report after enactment.—The Secretary of the Senate may elect to compile and submit the report for the semiannual period during which the date of enactment of this section occurs, as if the amendment made by this section had not been enacted.”
+First report after enactment.—The Secretary of the Senate may elect to compile and submit the report for the semiannual period during which the date of enactment of this section occurs, as if the amendment made by this section had not been enacted."
 
 #### Effective Date of 1994 Amendment
 

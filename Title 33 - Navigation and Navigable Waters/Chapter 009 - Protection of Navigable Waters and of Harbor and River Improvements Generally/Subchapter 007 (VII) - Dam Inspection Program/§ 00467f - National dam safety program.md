@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with thissection, a coordinated national dam safety program. The Program shall—
+The Administrator, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
 
 &emsp;(1) be administered by FEMA to achieve the objectives set forth in subsection (c) of this section;
 
@@ -18,7 +18,7 @@ The Director, in consultation with ICODS and State dam safety agencies, and the 
 
 #### (b) Duties
 
-The Director shall prepare a strategic plan—
+The Administrator shall prepare a strategic plan—
 
 &emsp;(1) to establish goals, priorities, performance measures, and target dates toward effectively administering this subchapter in order to improve the safety of dams in the United States; and
 
@@ -34,7 +34,7 @@ The objectives of the Program are to—
 
 &emsp;(3) encourage the establishment and implementation of effective dam safety programs in each State based on State standards;
 
-&emsp;(4) develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;
+&emsp;(4) develop and implement a comprehensive dam safety hazard education and public awareness initiative to assist the public in preparing for, mitigating, responding to, and recovering from dam incidents;
 
 &emsp;(5) develop technical assistance materials for Federal and non-Federal dam safety programs;
 
@@ -84,7 +84,7 @@ The objectives of the Program are to—
 
 #### (1) In general
 
-&emsp;To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Director shall provide assistance with amounts made available under section 467j of this title to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).
+&emsp;To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Administrator shall provide assistance with amounts made available under section 467j <sup>1</sup> of this title to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).
 
 #### (2) Criteria and budgeting requirement
 
@@ -102,7 +102,7 @@ The objectives of the Program are to—
 
 &emsp;&emsp;&emsp;(iv) the authority to require or perform periodic evaluations of all dams and reservoirs to determine the extent of the threat to human life and property in case of failure;
 
-&emsp;&emsp;&emsp;(v)(I) the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would posea significant threat to human life and property in case of failure to determine the continued safety of the dams and reservoirs; and
+&emsp;&emsp;&emsp;(v)(I) the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would pose a significant threat to human life and property in case of failure to determine the continued safety of the dams and reservoirs; and
 
 &emsp;&emsp;&emsp;(II) a procedure for more detailed and frequent safety inspections;
 
@@ -134,35 +134,35 @@ The objectives of the Program are to—
 
 #### (3) Work plans
 
-&emsp;The Director shall enter into a <sup>1</sup> agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
+&emsp;The Administrator shall enter into a <sup>2</sup> agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
 
 #### (4) Maintenance of effort
 
-&emsp;Assistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Director as the Director requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure dam safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year.
+&emsp;Assistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Administrator as the Administrator requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure dam safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year.
 
 #### (5) Approval of programs
 
 #### (A) Submission
 
-&emsp;&emsp;For a State to be eligible for assistance under this subsection, a plan for a State dam safety program shall be submitted to the Director for approval.
+&emsp;&emsp;For a State to be eligible for assistance under this subsection, a plan for a State dam safety program shall be submitted to the Administrator for approval.
 
 #### (B) Approval
 
-&emsp;&emsp;A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Director unless the Director determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
+&emsp;&emsp;A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
 
 #### (C) Notification of disapproval
 
-&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
+&emsp;&emsp;If the Administrator determines that a State dam safety program does not meet the requirements for approval, the Administrator shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
 
 #### (6) Review of State dam safety programs
 
-&emsp;Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
+&emsp;Using the expertise of the Board, the Administrator shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Administrator concurs, the Administrator shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
 
 #### (f) Board
 
 #### (1) Establishment
 
-&emsp;The Director shall establish an advisory board to be known as the "National Dam Safety Review Board" to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Director on national dam safety policy.
+&emsp;The Administrator shall establish an advisory board to be known as the "National Dam Safety Review Board" to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Administrator on national dam safety policy.
 
 #### (2) Authority
 
@@ -170,7 +170,7 @@ The objectives of the Program are to—
 
 #### (3) Voting membership
 
-&emsp;The Board shall consist of 11 voting members selected by the Director for expertise in dam safety, of whom—
+&emsp;The Board shall consist of 11 voting members selected by the Administrator for expertise in dam safety, of whom—
 
 &emsp;&emsp;(A) 1 member shall represent the Department of Agriculture;
 
@@ -182,13 +182,13 @@ The objectives of the Program are to—
 
 &emsp;&emsp;(E) 1 member shall represent the Federal Energy Regulatory Commission;
 
-&emsp;&emsp;(F) 5 members shall be selected by the Director from among State dam safety officials; and
+&emsp;&emsp;(F) 5 members shall be selected by the Administrator from among State dam safety officials; and
 
-&emsp;&emsp;(G) 1 member shall be selected by the Director to represent the private sector.
+&emsp;&emsp;(G) 1 member shall be selected by the Administrator to represent the private sector.
 
 #### (4) Nonvoting membership
 
-&emsp;The Director, in consultation with the Board, may invite a representative of the National Laboratories of the Department of Energy and may invite representatives from Federal or State agencies or dam safety experts, as needed, to participate in meetings of the Board.
+&emsp;The Administrator, in consultation with the Board, may invite a representative of the National Laboratories of the Department of Energy and may invite representatives from Federal or State agencies, representatives from nongovernmental organizations, or dam safety experts, as needed, to participate in meetings of the Board.
 
 #### (5) Duties
 
@@ -202,13 +202,13 @@ The objectives of the Program are to—
 
 #### (6) Work groups
 
-&emsp;The Director may establish work groups under the Board to assist the Board in accomplishing its goals. The work groups shall consist of members of the Board and other individuals selected by the Director.
+&emsp;The Administrator may establish work groups under the Board to assist the Board in accomplishing its goals. The work groups shall consist of members of the Board and other individuals selected by the Administrator.
 
 #### (7) Compensation of members
 
 #### (A) Federal employees
 
-&emsp;&emsp;Each member of the Board who is an officer or employee of the United States shall serve without compensation in addition to compensation received for the services of the member as an officer or employee of the United States.
+&emsp;&emsp;Each member of the Board who is an officer or employee of the United States shall serve without compensation in addition to compensation received for the services of themember as an officer or employee of the United States.
 
 #### (B) Other members
 
@@ -228,9 +228,11 @@ The objectives of the Program are to—
 
 &emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
 
-(Pub. L. 92–367, §8, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, §3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451; Pub. L. 109–460, §1(c), Dec. 22, 2006, 120 Stat. 3401.)
+(Pub. L. 92–367, §8, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, §3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451; Pub. L. 109–460, §1(c), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 113–121, title III, §3001(a)(1), (c), June 10, 2014, 128 Stat. 1282.)
 
 #### References in Text
+
+Section 467j of this title, referred to in subsec. (e)(1), was in the original "section 13" and was translated as meaning section 13 of Pub. L. 92–367 prior to its redesignation as section 14 by Pub. L. 113–121, §3001(d)(1).
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -241,6 +243,12 @@ A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XI
 A prior section 8 of Pub. L. 92–367 was classified to section 467g of this title prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–121, §3001(a)(1), substituted "Administrator" for "Director" wherever appearing.
+
+Subsec. (c)(4). Pub. L. 113–121, §3001(c)(1), added par. (4) and struck out former par. (4) which read as follows: "develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;".
+
+Subsec. (f)(4). Pub. L. 113–121, §3001(c)(2), inserted ", representatives from nongovernmental organizations," after "State agencies".
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–460, §1(c)(1), substituted "performance measures, and target dates toward effectively administering this subchapter in order to" for "and target dates to".
 
@@ -284,7 +292,7 @@ Subsec. (e)(1). Pub. L. 107–310, §3(f)(1), substituted "the Director shall pr
 
 &emsp;"(A) in accordance with the criteria specified in paragraph (2); and
 
-&emsp;"(B) in accordance with more advanced requirements and standards established by the Board and the Director with the assistance of established criteria such as the Model State Dam Safety Program published by FEMA, numbered 123 and dated April 1987, and amendments to the Model State Dam Safety Program."
+&emsp;"(B) in accordance with more advanced requirements and standards established by the Board and the Director with the assistance of established criteria such as the Model State Dam Safety Programpublished by FEMA, numbered 123 and dated April 1987, and amendments to the Model State Dam Safety Program."
 
 Subsec. (e)(2). Pub. L. 107–310, §3(f)(2)(A), in introductory provisions, struck out "primary" after "For a State to be eligible for" and ", and for a State to be eligible for advanced assistance under this subsection, a State dam safety program must meet the following criteria and budgeting requirement and be working toward meeting the advanced requirements and standards established under paragraph (1)(B)" before colon.
 
@@ -324,7 +332,9 @@ Subsec. (h). Pub. L. 107–310, §3(e)(1), redesignated subsec. (h) as (f).
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "an".</i>
 

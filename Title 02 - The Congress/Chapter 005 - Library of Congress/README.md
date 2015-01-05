@@ -7,6 +7,7 @@
 | [132a.](%C2%A7%2000132a%20-%20Appropriations%20for%20increase%20of%20general%20library.md) | Appropriations for increase of general library. |
 | 132a–1. | Obligations for reimbursable and revolving fund activities; limitation. |
 | 132a–2. | Furniture, furnishings, and office and library equipment; transfer of funds. |
+| 132a–3. | Authority to transfer amounts between categories of appropriations. |
 | [132b.](%C2%A7%2000132b%20-%20Joint%20Committee%20on%20the%20Library.md) | Joint Committee on the Library. |
 | [133\.](%C2%A7%2000133%20-%20Joint%20Committee%20during%20recess%20of%20Congress.md) | Joint Committee during recess of Congress. |
 | [134\.](%C2%A7%2000134%20-%20Incidental%20expenses%20of%20law%20library.md) | Incidental expenses of law library. |
@@ -76,7 +77,7 @@
 | [166\.](%C2%A7%2000166%20-%20Congressional%20Research%20Service.md) | Congressional Research Service. |
 | 167 to 167h. Repealed. |  |
 | [167i.](%C2%A7%2000167i%20-%20Suspension%20of%20prohibitions%20against%20use%20of%20Library%20buildings%20and%20grounds.md) | Suspension of prohibitions against use of Library buildings and grounds. |
-| [167j.](%C2%A7%2000167j%20-%20Area%20comprising%20Library%20of%20Congress%20grounds%3B%20%E2%80%9Cbuildings%20and%20grounds%E2%80%9D%20defined.md) | Area comprising Library of Congress grounds; “buildings and grounds” defined. |
+| [167j.](%C2%A7%2000167j%20-%20Area%20comprising%20Library%20of%20Congress%20grounds%3B%20buildings%20and%20grounds%20defined.md) | Area comprising Library of Congress grounds; "buildings and grounds" defined. |
 | [168\.](%C2%A7%2000168%20-%20Constitution%20of%20the%20United%20States%3B%20preparation%20and%20publication%20of%20revised%20edition%3B%20annotations%3B%20supplements%3B%20decennial%20editions%20and%E2%80%A6.md) | Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements. |
 | [168a.](%C2%A7%2000168a%20-%20Printing%20of%20Constitution%20Annotated%20as%20Senate%20documents.md) | Printing of Constitution Annotated as Senate documents. |
 | [168b.](%C2%A7%2000168b%20-%20Printing%20and%20distribution%20of%20additional%20copies%20of%20Constitution%20Annotated.md) | Printing and distribution of additional copies of Constitution Annotated. |
@@ -128,6 +129,7 @@
 - [&sect; 00132a - Appropriations for increase of general library](%C2%A7%2000132a%20-%20Appropriations%20for%20increase%20of%20general%20library.md)
 - [&sect; 00132a&#8211;1 - Obligations for reimbursable and revolving fund activities; limitation](%C2%A7%2000132a%E2%80%931%20-%20Obligations%20for%20reimbursable%20and%20revolving%20fund%20activities%3B%20limitation.md)
 - [&sect; 00132a&#8211;2 - Furniture, furnishings, and office and library equipment; transfer of funds](%C2%A7%2000132a%E2%80%932%20-%20Furniture%2C%20furnishings%2C%20and%20office%20and%20library%20equipment%3B%20transfer%20of%20funds.md)
+- [&sect; 00132a&#8211;3 - Authority to transfer amounts between categories of appropriations](%C2%A7%2000132a%E2%80%933%20-%20Authority%20to%20transfer%20amounts%20between%20categories%20of%20appropriations.md)
 - [&sect; 00132b - Joint Committee on the Library](%C2%A7%2000132b%20-%20Joint%20Committee%20on%20the%20Library.md)
 - [&sect; 00133 - Joint Committee during recess of Congress](%C2%A7%2000133%20-%20Joint%20Committee%20during%20recess%20of%20Congress.md)
 - [&sect; 00134 - Incidental expenses of law library](%C2%A7%2000134%20-%20Incidental%20expenses%20of%20law%20library.md)
@@ -198,7 +200,7 @@
 - [&sect; 00166 - Congressional Research Service](%C2%A7%2000166%20-%20Congressional%20Research%20Service.md)
 - [&sect; 00167 to 167h - Repealed. Pub. L. 110&#8211;161, div. H, title I, &sect;1004(d)(1)(B), (2)(B), Dec. 26, 2007, 121 Stat. 2233, 2234, and Pub. L. 110&#8211;178&#8230;](%C2%A7%2000167%20to%20167h%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93161%2C%20div.%20H%2C%20title%20I%2C%20%C2%A71004%28d%29%281%29%28B%29%2C%20%282%29%28B%29%2C%20Dec.%2026%2C%202007%2C%20121%20Stat.%202233%2C%202234%2C%20and%20Pub.%20L.%20110%E2%80%93178%E2%80%A6.md)
 - [&sect; 00167i - Suspension of prohibitions against use of Library buildings and grounds](%C2%A7%2000167i%20-%20Suspension%20of%20prohibitions%20against%20use%20of%20Library%20buildings%20and%20grounds.md)
-- [&sect; 00167j - Area comprising Library of Congress grounds; &#8220;buildings and grounds&#8221; defined](%C2%A7%2000167j%20-%20Area%20comprising%20Library%20of%20Congress%20grounds%3B%20%E2%80%9Cbuildings%20and%20grounds%E2%80%9D%20defined.md)
+- [&sect; 00167j - Area comprising Library of Congress grounds; buildings and grounds defined](%C2%A7%2000167j%20-%20Area%20comprising%20Library%20of%20Congress%20grounds%3B%20buildings%20and%20grounds%20defined.md)
 - [&sect; 00168 - Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and&#8230;](%C2%A7%2000168%20-%20Constitution%20of%20the%20United%20States%3B%20preparation%20and%20publication%20of%20revised%20edition%3B%20annotations%3B%20supplements%3B%20decennial%20editions%20and%E2%80%A6.md)
 - [&sect; 00168a - Printing of Constitution Annotated as Senate documents](%C2%A7%2000168a%20-%20Printing%20of%20Constitution%20Annotated%20as%20Senate%20documents.md)
 - [&sect; 00168b - Printing and distribution of additional copies of Constitution Annotated](%C2%A7%2000168b%20-%20Printing%20and%20distribution%20of%20additional%20copies%20of%20Constitution%20Annotated.md)

@@ -92,7 +92,7 @@
 
 #### (F) Signature
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter and part C of subchapter I of chapter 34 of title 42, the Secretary may continue to permit an electronic version of the form under this paragraph to be submitted without a signature, if a signature is subsequently submitted by the applicant or if the applicant uses a personal identification number provided by the Secretary under subparagraph (G).
+&emsp;&emsp;Notwithstanding any other provision of this chapter and part C of subchapter I ofchapter 34 of title 42, the Secretary may continue to permit an electronic version of the form under this paragraph to be submitted without a signature, if a signature is subsequently submitted by the applicant or if the applicant uses a personal identification number provided by the Secretary under subparagraph (G).
 
 #### (G) Personal identification numbers authorized
 
@@ -164,7 +164,7 @@
 
 #### (E) Consequences if State does not accept simplified forms
 
-&emsp;&emsp;If a State does not permit an applicant to file a form described in paragraph (2)(B) or (3)(B) for purposes of determining eligibility for State need-based financial aid, the Secretary may determine that State-specific questions for such State will not be included on a form described in paragraph (2)(B) or\(3)(B). If the Secretary makes such determination, the Secretary shall advise the State of the Secretary's determination.
+&emsp;&emsp;If a State does not permit an applicant to file a form described in paragraph (2)(B) or\(3)(B) for purposes of determining eligibility for State need-based financial aid, the Secretary may determine that State-specific questions for such State will not be included on a form described in paragraph (2)(B) or (3)(B). If the Secretary makes such determination, the Secretary shall advise the State of the Secretary's determination.
 
 #### (F) Lack of State response to request for information
 
@@ -218,7 +218,7 @@
 
 #### (12) Parent's social security number and birth date
 
-&emsp;The Secretary is authorized to include space on the forms developed under this subsectionfor the social security number and birth date of parents of dependent students seeking financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The Secretary is authorized to include space on the forms developed under this subsection for the social security number and birth date of parents of dependent students seeking financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (b) Information to committees of Congress
 
@@ -270,7 +270,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;(C) To measure the impact of using income information from the years prior to enrollment on—
 
-&emsp;&emsp;&emsp;(i) eligibility for financial aid under this subchapter and part C of subchapter I ofchapter 34 of title 42 and for other State and institutional aid; and
+&emsp;&emsp;&emsp;(i) eligibility for financial aid under this subchapter and part C of subchapter I of chapter 34 of title 42 and for other State and institutional aid; and
 
 &emsp;&emsp;&emsp;(ii) the cost of financial aid programs under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -404,7 +404,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;(C) how the alternative approaches for calculating the expected family contribution will—
 
-&emsp;&emsp;&emsp;(i) rely mainly, in the case of students and parents who file income tax returns, on information available on the 1040, 1040EZ, and 1040A; and
+&emsp;&emsp;&emsp;(i) rely mainly, in the case of students and parents who file income tax returns,on information available on the 1040, 1040EZ, and 1040A; and
 
 &emsp;&emsp;&emsp;(ii) include formulas for adjusting income or asset information to produce similar results to the existing approach with less data;
 
@@ -464,7 +464,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) whether State data are required by State law, State regulations, or policy directives; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the extent to which any State-specific information requirements can be met by completion of a State application linked to the electronic version of the FAFSA; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the extent to which any State-specific information requirements canbe met by completion of a State application linked to the electronic version of the FAFSA; and
 
 &emsp;&emsp;&emsp;&emsp;(III) information on institutional needs, including the extent to which institutions of higher education are already using supplemental forms to collect additional data from students and their families to determine eligibility for institutional funds; and
 
@@ -528,7 +528,7 @@ Subsec. (e)(8)(A). Pub. L. 111–39, §407(b)(3)(B), substituted "determine" for
 
 Subsec. (b). Pub. L. 110–315, §483(a)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to streamlined reapplication process.
 
-Subsec. (c). Pub. L. 110–315, §483(a)(4), substituted "or other appropriate provider of technical assistance andinformation on postsecondary educational services for individuals with disabilities, including the National Technical Assistance Center under section 1140q of this title. The Secretary shall continue to implement, to the extent practicable, a toll-free telephone based system to permit applicants who meet the requirements of subsection (b) or (c) of section 1087ss of this title to submit an application over such system" for "that is authorized under section 1485(d)(2)(C) of this title".
+Subsec. (c). Pub. L. 110–315, §483(a)(4), substituted "or other appropriate provider of technical assistance and information on postsecondary educational services for individuals with disabilities, including the National Technical Assistance Center under section 1140q of this title. The Secretary shall continue to implement, to the extent practicable, a toll-free telephone based system to permit applicants who meet the requirements of subsection (b) or (c) of section 1087ss of this title to submit an application over such system" for "that is authorized under section 1485(d)(2)(C) of this title".
 
 Pub. L. 110–315, §483(a)(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
@@ -598,7 +598,7 @@ Amendment by Pub. L. 111–152 effective July 1, 2010, see section 2101(c) of Pu
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -617,6 +617,18 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
 Subsec. (e) of this section applicable to student assistance awarded for periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
+
+#### Identification of Foster Youth on FAFSA
+
+Pub. L. 113–235, div. G, title III, §308, Dec. 16, 2014, 128 Stat. 2504, provided that: "The Secretary of Education shall—
+
+&emsp;"(1) modify the Free Application for Federal Student Aid described in section 483 of the HEA \[Higher Education Act of 1965, 20 U.S.C. 1090\] so that the Free Application for Federal Student Aid contains an individual box for the purpose of identifying students who are foster youth or were in the foster care system; and
+
+&emsp;"(2) utilize such identification as a tool to notify students who are foster youth or were in the foster care system of their potential eligibility for Federal student aid, including postsecondary education programs through the John H. Chafee Foster Care Independence Program and any other Federal programs under which such students may be eligible to receive assistance."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 113–76, div. H, title III, §310, Jan. 17, 2014, 128 Stat. 400.
 
 #### Delayed Implementation of EZ FAFSA
 

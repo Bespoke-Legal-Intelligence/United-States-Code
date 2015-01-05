@@ -16,7 +16,7 @@ Northeast Corridor Infrastructure and Operations Advisory Commission.—
 
 &emsp;(2) The Secretary shall ensure that the membership belonging to any of the groups enumerated under paragraph (1) shall not constitute a majority of the Commission's memberships.
 
-&emsp;(3) The Commission shall establish a schedule and location for convening meetings, butshall meet no less than four times per fiscal year, and the Commission shall develop rules and procedures to govern the Commission's proceedings.
+&emsp;(3) The Commission shall establish a schedule and location for convening meetings, but shall meet no less than four times per fiscal year, and the Commission shall develop rules and procedures to govern the Commission's proceedings.
 
 &emsp;(4) A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
@@ -96,7 +96,7 @@ Revisions.—The Commission may make necessary revisions to the formula develope
 
 (d)
 
-Transmission of Statement of Goals and Recommendations.—The Commission shall transmit to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
+Transmission of Statement of Goals and Recommendations.—The Commission shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
 &emsp;(1) the statement of goals developed under subsection (b) within 1 year after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008; and
 

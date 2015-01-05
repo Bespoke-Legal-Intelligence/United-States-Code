@@ -6,7 +6,7 @@ The district courts of the United States are vested with jurisdiction specifical
 
 #### (b) Referral to Attorney General
 
-A civil action authorized to be commenced under this section shall be referred to the Attorney General for appropriate action, except that the Secretary shall not be required to refer to the Attorney General a violation of this subchapter if the Secretary believes that the administration and enforcement of this subchapter would be adequately served by providing a suitable written notice or warning to the person committing the violation or by administrative action under subsection (c) of this section.
+A civil action authorized to be commenced under this section shall be referred to the Attorney General for appropriate action, except that the Secretary shall not be required to refer to the Attorney General a violation of this subchapter if the Secretary believes that the administration and enforcement of this subchapter would be adequately served by providing a suitable written notice or warning to the person committing the violation or by administrative action under subsection (c).
 
 #### (c) Civil penalties and orders
 
@@ -34,13 +34,13 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (4) Finality
 
-&emsp;The order of the Secretary assessing a penalty or imposing a cease-and-desist order under this subsection shall be final and conclusive unless the affected person files an appeal of the order in the appropriate district court of the United States in accordance with subsection (d) of this section.
+&emsp;The order of the Secretary assessing a penalty or imposing a cease-and-desist order under this subsection shall be final and conclusive unless the affected person files an appeal of the order in the appropriate district court of the United States in accordance with subsection (d).
 
 #### (d) Review by district court
 
 #### (1) Commencement of action
 
-&emsp;Any person who has been determined to be in violation of this subchapter, or against whom a civil penalty has been assessed or a cease-and-desist order issued under subsection (c) of this section, may obtain review of the penalty or cease-and-desist order by—
+&emsp;Any person who has been determined to be in violation of this subchapter, or against whom a civil penalty has been assessed or a cease-and-desist order issued under subsection (c), may obtain review of the penalty or cease-and-desist order by—
 
 &emsp;&emsp;(A) filing, within the 30-day period beginning on the date the penalty is assessed or cease-and-desist order issued, a notice of appeal in—
 
@@ -60,11 +60,11 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (e) Failure to obey cease-and-desist orders
 
-Any person who fails to obey a cease-and-desist order issued under this section after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of the cease-and-desist order.
+Any person who fails to obey a cease-and-desist order issued under this section after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d), of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of the cease-and-desist order.
 
 #### (f) Failure to pay penalties
 
-If a person fails to pay an assessment of a civil penalty under this section after the assessment has become a final and unappealable order, orafter the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+If a person fails to pay an assessment of a civil penalty under this section after the assessment has become a final and unappealable order, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 #### (g) Additional remedies
 

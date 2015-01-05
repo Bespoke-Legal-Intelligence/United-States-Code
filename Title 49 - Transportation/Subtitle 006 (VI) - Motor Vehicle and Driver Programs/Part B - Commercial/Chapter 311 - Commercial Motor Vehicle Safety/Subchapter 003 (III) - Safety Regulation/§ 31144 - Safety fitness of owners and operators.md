@@ -112,11 +112,19 @@ Grants.—The Secretary may make grants to States and local governments for new 
 
 &emsp;&emsp;(B)
 
-Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
+Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year and up to $21,304,110 for the period beginning on October 1, 2014, and ending on May 31, 2015, for audits of new entrant motor carriers conducted pursuant to this paragraph.
 
 &emsp;&emsp;(C)
 
 Determination.—If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
+
+&emsp;(6)
+
+Additional requirements for household goods motor carriers.—(A) In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.
+
+&emsp;(B)
+
+Elements.—In the regulations issued pursuant to subparagraph (A), the Secretary shall establish the elements of the consumer protections standards review, including basic management controls. In establishing the elements, the Secretary shall consider the effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
 
 (h)
 
@@ -166,21 +174,7 @@ Periodic update of safety fitness rating.—In conducting the safety reviews req
 
 &emsp;&emsp;(B) annually assess the safety fitness of certain motor carriers of passengers that serve primarily urban areas with high passenger loads.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(e), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(e), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §§32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, §112002(d), July 6, 2012, 126 Stat. 778, 784, 808, 813, 828, 983.)
-
-#### Amendment of Subsection (g)
-
-<i>Pub. L. 112–141, §3, div. C, title II, §32921(b), (c), July 6, 2012, 126 Stat. 413, 828, provided</i><i>that, effective 2 years after the date of enactment of Pub. L. 112–141 (see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways), subsection (g) of this section is amended by adding at the end the following:</i>
-
-&emsp;<i>(6)</i>
-
-<i>Additional requirements for household goods motor carriers.—(A) In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.</i>
-
-&emsp;<i>(B)</i>
-
-<i>Elements.—In the regulations issued pursuant to subparagraph (A), the Secretary shall establish the elements of the consumer protections standards review, including basic management controls. In establishing the elements, the Secretary shall consider the effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.</i>
-
-<i>See 2012 Amendment note below.</i>
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(e), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(e), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §§32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, §112002(d), July 6, 2012, 126 Stat. 778, 784, 808, 813, 828, 983; Pub. L. 113–159, title I, §1102(e), Aug. 8, 2014, 128 Stat. 1844.)
 
 Historical and Revision Notes
 
@@ -215,6 +209,8 @@ In subsection (a)(1), the words "after notice and opportunity for comment" are o
 The date of enactment of the Motorcoach Enhanced Safety Act of 2012, referred to in subsec. (i)(1)(B), is the date of enactment of subtitle G of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(5)(B). Pub. L. 113–159 inserted "and up to $21,304,110 for the period beginning on October 1, 2014, and ending on May 31, 2015," after "per fiscal year".
 
 <b>2012</b>—Subsec. (g)(1). Pub. L. 112–141, §32102(a), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary shall require, by regulation, each owner and each operator granted new operating authority, after the date on which section 31148(b) is first implemented, to undergo a safety review within the first 18 months after the owner or operator, as the case may be, begins operations under such authority."
 

@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Areas of emphasis
 
-&emsp;The term "areas of emphasis" means the areas related to quality assurance activities, education activities and early intervention activities, child care-related activities, health-related activities, employment-related activities, housing-related activities, transportation-related activities, recreation-related activities, and other services available or offered to individuals in a community, including formal and informal community supports, that affect their quality of life.
+&emsp;The term "areas of emphasis" means the areas related to quality assurance activities,education activities and early intervention activities, child care-related activities, health-related activities, employment-related activities, housing-related activities, transportation-related activities, recreation-related activities, and other services available or offered to individuals in a community, including formal and informal community supports, that affect their quality of life.
 
 #### (3) Assistive technology device
 
@@ -86,7 +86,7 @@ In this subchapter:
 
 #### (10) Education activities
 
-&emsp;The term "education activities" means advocacy, capacity building, and systemic change activities that result in individuals with developmental disabilities being able to access appropriate supports and modifications when necessary, to maximize their educational potential, to benefit from lifelong educational activities, and to be integrated and included in all facets of student life.
+&emsp;The term "education activities" means advocacy, capacity building, and systemic change activities that result in individuals with developmental disabilities being able to access appropriate supports and modificationswhen necessary, to maximize their educational potential, to benefit from lifelong educational activities, and to be integrated and included in all facets of student life.
 
 #### (11) Employment-related activities
 
@@ -124,7 +124,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) live in homes close to community resources, with regular contact with individuals without disabilities in their communities;
 
-&emsp;&emsp;(C) enjoy full access to and active participation in the same community activitiesand types of employment as individuals without disabilities; and
+&emsp;&emsp;(C) enjoy full access to and active participation in the same community activities and types of employment as individuals without disabilities; and
 
 &emsp;&emsp;(D) take full advantage of their integration into the same community resources as individuals without disabilities, living, learning, working, and enjoying life in regular contact with individuals without disabilities.
 
@@ -168,7 +168,7 @@ In this subchapter:
 
 #### (19) Personal assistance services
 
-&emsp;The term "personal assistance services" means a range of services, provided by 1 or more individuals, designed to assist an individual with a disability to perform daily activities, including activities on or off a job that such individual would typically perform if such individual did not have a disability. Such services shall be designed to increase such individual's control in life and ability to perform everyday activities, including activities on or off a job.
+&emsp;The term "personal assistance services" means a range of services, provided by 1 or more individuals, designed to assist an individual with a disability to perform daily activities, including activities on or off a job that such individual would typically perform if such individual did not have a disability.Such services shall be designed to increase such individual's control in life and ability to perform everyday activities, including activities on or off a job.
 
 #### (20) Prevention activities
 

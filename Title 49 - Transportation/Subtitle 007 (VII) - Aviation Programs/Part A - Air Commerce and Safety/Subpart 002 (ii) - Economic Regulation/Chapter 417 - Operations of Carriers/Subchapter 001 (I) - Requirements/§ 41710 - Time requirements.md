@@ -2,7 +2,7 @@
 
 When a matter requiring action of the Secretary of Transportation is submitted under section 40109(a) or (c)–(h), 41309, or 42111 of this title and an evidentiary hearing—
 
-&emsp;(1) is ordered, the Secretary shall make a final decision on the matter not later than thelast day of the 12th month that begins after the date the matter is submitted; or
+&emsp;(1) is ordered, the Secretary shall make a final decision on the matter not later than the last day of the 12th month that begins after the date the matter is submitted; or
 
 &emsp;(2) is not ordered, the Secretary shall make a final decision on the matter not later than the last day of the 6th month that begins after the date the matter is submitted.
 
@@ -30,5 +30,5 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1010; added Oct. 24, 1978, Pub.
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
-In this section, before clause (1), the words "matter requiring action of the Secretary" are substituted for "application or other written document" for clarity. The reference to 49 App.:1378 and 1379 is omitted as obsolete because under 49 App.:1551(a)(7), those sections ceased to be in effect on January 1, 1989. The words "on or after the one-hundred-eightieth day after October 24, 1978" are omitted as executed. In clauses (1) and (2), the words "order or" are omitted as surplus.
+In this section, before clause (1), the words "matter requiring action of the Secretary" are substituted for "application or other written document" for clarity. The reference to 49 App.:1378 and 1379 is omitted as obsolete because under 49 App.:1551(a)(7), those sectionsceased to be in effect on January 1, 1989. The words "on or after the one-hundred-eightieth day after October 24, 1978" are omitted as executed. In clauses (1) and (2), the words "order or" are omitted as surplus.
 

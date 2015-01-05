@@ -32,7 +32,7 @@ Certification Interrupted by Contingency Operation.—(1) Notwithstanding subsec
 
 (2) The Secretary concerned may treat the date on which the member was assigned to duty in connection with the contingency operation as equivalent to a certification date. In the case of a member whose certification will expire during such a duty assignment, the Secretary shall commence the next one-year certification period on the date on which the prior certification period expires.
 
-(3) A member who is paid a bonus under the authority of this subsection shall complete the certification required by subsection (c) for the foreign language for which the bonus was paid not later than the end of the 180-day period beginning on the date on which the member is released from the assignment in connection with the contingency operation. The Secretary concerned may extend that period for a member inaccordance with regulations prescribed under subsection (f).
+(3) A member who is paid a bonus under the authority of this subsection shall complete the certification required by subsection (c) for the foreign language for which the bonus was paid not later than the end of the 180-day period beginning on the date on which the member is released from the assignment in connection with the contingency operation. The Secretary concerned may extend that period for a member in accordance with regulations prescribed under subsection (f).
 
 (4) If a member fails to obtain the required certification under subsection (c) before the end of the period provided under paragraph (3), the Secretary concerned may require the member to repay all or a portion of the bonus in the manner provided in section 303a(e) of this title.
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 109–163, §639(b)(1), struck out heading and text of subs
 
 Subsec. (h). Pub. L. 109–163, §639(b)(2), redesignated subsec. (h) as (f).
 
-<b>2004</b>—Pub. L. 108–375 amended section catchline and text generally, substituting provisions relating to special pay and bonus for members with foreign languageproficiency for former provisions which related to: in subsec. (a) requirements for payment of special pay to member of uniformed services who is entitled to basic pay under section 204 of this title for foreign language proficiency; in subsec. (b) determination of monthly rate for special pay; in subsec. (c) increased compensation for member of reserve component who is entitled to compensation under section 206 of this title and who generally meets requirements in subsec. (a); and in subsec. (d) administration of section.
+<b>2004</b>—Pub. L. 108–375 amended section catchline and text generally, substituting provisions relating to special pay and bonus for members with foreign language proficiency for former provisions which related to: in subsec. (a) requirements for payment of special pay to member of uniformed services who is entitled to basic pay under section 204 of this title for foreign language proficiency; in subsec. (b) determination of monthly rate for special pay; in subsec. (c) increased compensation for member of reserve component who is entitled to compensation under section 206 of this title and who generally meets requirements in subsec. (a); and in subsec. (d) administration of section.
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 

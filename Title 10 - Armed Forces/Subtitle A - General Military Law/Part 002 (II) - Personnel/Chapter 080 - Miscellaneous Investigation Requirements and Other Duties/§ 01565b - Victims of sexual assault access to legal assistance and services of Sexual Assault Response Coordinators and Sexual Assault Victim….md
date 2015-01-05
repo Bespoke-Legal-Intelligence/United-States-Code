@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Legal Assistance and Victim Advocate Services.—(1) A member of the armed forces, or a dependent of a member, who is the victim of a sexual assault may be provided the following:
+Availability of Legal Assistance and Victim Advocate Services.—(1) A member ofthe armed forces, or a dependent of a member, who is the victim of a sexual assault may be provided the following:
 
 &emsp;(A) Legal assistance provided by military or civilian legal assistance counsel pursuant to sections 1044 and 1044e of this title.
 

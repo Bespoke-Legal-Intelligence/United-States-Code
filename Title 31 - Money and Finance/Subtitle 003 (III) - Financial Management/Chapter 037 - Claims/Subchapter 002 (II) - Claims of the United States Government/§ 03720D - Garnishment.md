@@ -40,7 +40,7 @@
 
 (f)(1) The employer of an individual—
 
-&emsp;(A) shall pay to the head of an executive, judicial, or legislative agency as directed in awithholding order issued in an action under this section with respect to the individual, and
+&emsp;(A) shall pay to the head of an executive, judicial, or legislative agency as directed in a withholding order issued in an action under this section with respect to the individual, and
 
 &emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due an employee following receipt by such employer of notice of the withholding order, plus attorneys' fees, costs, and, in the court's discretion, punitive damages.
 

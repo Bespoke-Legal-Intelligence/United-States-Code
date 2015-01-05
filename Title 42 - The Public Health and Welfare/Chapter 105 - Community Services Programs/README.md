@@ -108,17 +108,18 @@
 
 |  |  |
 | :--- | ---: |
+| [9857\.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009857%20-%20Short%20title%20and%20purposes.md) | Short title and purposes. |
 | [9858\.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [9858a.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858a%20-%20Establishment%20of%20block%20grant%20program.md) | Establishment of block grant program. |
 | [9858b.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858b%20-%20Lead%20agency.md) | Lead agency. |
 | [9858c.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858c%20-%20Application%20and%20plan.md) | Application and plan. |
 | [9858d.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858d%20-%20Limitations%20on%20State%20allotments.md) | Limitations on State allotments. |
-| [9858e.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858e%20-%20Activities%20to%20improve%20quality%20of%20child%20care.md) | Activities to improve quality of child care. |
-| [9858f.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858f%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VI%2C%20%C2%A7608%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202284.md) | Repealed. |
+| [9858e.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858e%20-%20Activities%20to%20improve%20the%20quality%20of%20child%20care.md) | Activities to improve the quality of child care. |
+| [9858f.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858f%20-%20Criminal%20background%20checks.md) | Criminal background checks. |
 | [9858g.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858g%20-%20Administration%20and%20enforcement.md) | Administration and enforcement. |
 | [9858h.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858h%20-%20Payments.md) | Payments. |
 | [9858i.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858i%20-%20Reports%20and%20audits.md) | Reports and audits. |
-| [9858j.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858j%20-%20Report%20by%20Secretary.md) | Report by Secretary. |
+| [9858j.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858j%20-%20Reports%2C%20hotline%2C%20and%20Web%20site.md) | Reports, hotline, and Web site. |
 | [9858k.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858k%20-%20Limitations%20on%20use%20of%20financial%20assistance%20for%20certain%20purposes.md) | Limitations on use of financial assistance for certain purposes. |
 | 9858<i>l.</i> | Nondiscrimination. |
 | [9858m.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858m%20-%20Amounts%20reserved%3B%20allotments.md) | Amounts reserved; allotments. |
@@ -126,6 +127,7 @@
 | 9858<i>o.</i> | Parental rights and responsibilities. |
 | [9858p.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858p%20-%20Severability.md) | Severability. |
 | [9858q.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858q%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
+| [9858r.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858r%20-%20Studies%20on%20waiting%20lists.md) | Studies on waiting lists. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

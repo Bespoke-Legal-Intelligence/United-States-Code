@@ -16,7 +16,7 @@ Any person who—
 
 #### (b) Failure to take corrective action
 
-If corrective action in not taken within 40 days or a longer period as the Secretary may agree to, after due notice or the report referred to in subsection (a)(1) of this section, such person shall be liable for a civil penalty of not more than $5,000 per violation for each day such violation continues, dating from the date of such notice or report.
+If corrective action in not taken within 40 days or a longer period as the Secretary may agree to, after due notice or the report referred to in subsection (a)(1), such person shall be liable for a civil penalty of not more than $5,000 per violation for each day such violation continues, dating from the date of such notice or report.
 
 #### (c) Failure to make royalty payment; failure to permit lawful entry, inspection, or audit; failure to notify Secretary of well production
 
@@ -48,7 +48,7 @@ No penalty under this section shall be assessed until the person charged with a 
 
 #### (f) Deduction of penalty from sums owed by United States
 
-The amount of any penalty under this section, as finally determined <sup>2</sup> may be deducted from any sums owing by the United States to the person charged.
+The amount of any penalty under this section, as finally determined <sup>2</sup> may be deducted fromany sums owing by the United States to the person charged.
 
 #### (g) Compromise or reduction of penalties
 
@@ -56,7 +56,7 @@ On a case-by-case basis the Secretary may compromise or reduce civil penalties u
 
 #### (h) Notice
 
-Notice under subsection (a) of this section shall be by personal service by an authorized representative of the Secretary or by registered mail. Any person may, in the manner prescribed by the Secretary, designate a representative to receive any notice under this subsection.
+Notice under this <sup>3</sup> subsection (a) shall be by personal service by an authorized representative of the Secretary or by registered mail. Any person may, in the manner prescribed by the Secretary, designate a representative to receive any notice under this subsection.
 
 #### (i) Reasons on record for amount of penalty
 
@@ -64,21 +64,21 @@ In determining the amount of such penalty, or whether it should be remitted or r
 
 #### (j) Review
 
-Any person who has requested a hearing in accordance with subsection (e) of this section within the time the Secretary has prescribed for such a hearing and who is aggrieved by a final order of the Secretary under this section may seek review of such order in the United States district court for the judicial district in whichthe violation allegedly took place. Review by the district court shall be only on the administrative record and not de novo. Such an action shall be barred unless filed within 90 days after the Secretary's final order.
+Any person who has requested a hearing in accordance with subsection (e) within the time the Secretary has prescribed for such a hearing and who is aggrieved by a final order of the Secretary under this section may seek review of such order in the United States district court for the judicial district in which the violation allegedly took place. Review by the district court shall be only on the administrative record and not de novo. Such an action shall be barred unless filed within 90 days after the Secretary's final order.
 
 #### (k) Failure to pay penalty
 
 If any person fails to pay an assessment of a civil penalty under this chapter—
 
-&emsp;(1) after the order making the assessment has become a final order and if such person does not file a petition for judicial review of the order in accordance with subsection (j) of this section, or
+&emsp;(1) after the order making the assessment has become a final order and if such person does not file a petition for judicial review of the order in accordance with subsection (j), or
 
-&emsp;(2) after a court in an action brought under subsection (j) of this section has entered a final judgment in favor of the Secretary,
+&emsp;(2) after a court in an action brought under subsection (j) has entered a final judgment in favor of the Secretary,
 
-> the court shall have jurisdiction to award the amount assessed plus interest from the date of the expiration of the 90-day period referred to in subsection (j) of this section. Judgment by the court shall include an order to pay.
+> the court shall have jurisdiction to award the amount assessed plus interest from the date of the expiration of the 90-day period referred to in subsection (j). Judgment by the court shall include an order to pay.
 
 #### (l) Nonliability for leases automatically terminated
 
-No person shall be liable for a civil penalty under subsection (a) or (b) of this section for failure to pay any rental for any lease automatically terminated pursuant to section 188 of this title.
+No person shall be liable for a civil penalty under subsection (a) or (b) for failure to pay any rental for any lease automatically terminated pursuant to section 188 of this title.
 
 (Pub. L. 97–451, title I, §109, Jan. 12, 1983, 96 Stat. 2454.)
 
@@ -89,4 +89,6 @@ Section 1712(a) of this title, referred to in subsec. (a)(2), was amended genera
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

@@ -22,7 +22,7 @@ A prior section 2715, Pub. L. 88–452, title I, §105, Aug. 20, 1964, 78 Stat. 
 
 Section 2716, Pub. L. 88–452, title I, §106, as added Pub. L. 95–568, §3(b), Nov. 2, 1978, 92 Stat. 2425, set forth authorization of appropriations.
 
-A prior section 2716, Pub. L. 88–452, title I, §106, Aug. 20, 1964, 78 Stat. 510; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat.223; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 674, related to enrollment and assignment of Job Corps enrollees, prior to repeal by Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883.
+A prior section 2716, Pub. L. 88–452, title I, §106, Aug. 20, 1964, 78 Stat. 510; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 674, related to enrollment and assignment of Job Corps enrollees, prior to repeal by Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883.
 
 #### Effective Date of Repeal
 

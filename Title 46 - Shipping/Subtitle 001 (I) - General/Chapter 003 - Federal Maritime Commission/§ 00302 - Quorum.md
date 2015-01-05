@@ -1,6 +1,6 @@
 ### §302. Quorum
 
-A vacancy or vacancies in the membership of the Federal Maritime Commission do not impairthe power of the Commission to execute its functions. The affirmative vote of a majority of the Commissioners serving on the Commission is required to dispose of any matter before the Commission.
+A vacancy or vacancies in the membership of the Federal Maritime Commission do not impair the power of the Commission to execute its functions. The affirmative vote of a majority of the Commissioners serving on the Commission is required to dispose of any matter before the Commission.
 
 (Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1489.)
 

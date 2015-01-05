@@ -58,7 +58,7 @@ Notwithstanding section 107(a)(2) of the Ethics in Government Act of 1978, the f
 
 #### (1) 15 or more days in advance
 
-&emsp;As soon as practicable, but (except as provided in paragraph (2)) not later than 15 days prior to a meeting of an advisory committeeto which a written determination as referred to in section 208(b)(1) of title 18 or a written certification as referred to in section 208(b)(3) of such title, applies, the Secretary shall disclose (other than information exempted from disclosure under section 552 or section 552a of title 5 (popularly known as the Freedom of Information Act and the Privacy Act of 1974, respectively)) on the Internet Web site of the Food and Drug Administration—
+&emsp;As soon as practicable, but (except as provided in paragraph (2)) not later than 15 days prior to a meeting of an advisory committee to which a written determination as referred to in section 208(b)(1) of title 18 or a written certification as referred to in section 208(b)(3) of such title, applies, the Secretary shall disclose (other than information exempted from disclosure under section 552 or section 552a of title 5 (popularly known as the Freedom of Information Act and the Privacy Act of 1974, respectively)) on the Internet Web site of the Food and Drug Administration—
 
 &emsp;&emsp;(A) the type, nature, and magnitude of the financial interests of the advisory committee member to which such determination or certification applies; and
 
@@ -88,7 +88,7 @@ The Secretary shall ensure that the public record and transcript of each meeting
 
 #### (2) Public availability
 
-&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committees specified in such paragraph, the Secretary shall make each such report available to the public.
+&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committeesspecified in such paragraph, the Secretary shall make each such report available to the public.
 
 #### (f) Periodic review of guidance
 

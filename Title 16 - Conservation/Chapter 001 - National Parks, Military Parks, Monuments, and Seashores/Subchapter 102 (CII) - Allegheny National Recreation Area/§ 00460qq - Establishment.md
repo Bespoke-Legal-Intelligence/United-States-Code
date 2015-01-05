@@ -52,5 +52,5 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pu
 
 #### Findings and Purpose; Map and Description
 
-For Congressional findings, statement of purpose, and requirements for filing of maps and legal descriptionsunder Pub. L. 98–585, Pennsylvania Wilderness Act of 1984, see sections 2, 3, and 7 of Pub. L. 98–585, Oct. 30, 1984, 98 Stat. 3100, 3102.
+For Congressional findings, statement of purpose, and requirements for filing of maps and legal descriptions under Pub. L. 98–585, Pennsylvania Wilderness Act of 1984, see sections 2, 3, and 7 of Pub. L. 98–585, Oct. 30, 1984, 98 Stat. 3100, 3102.
 

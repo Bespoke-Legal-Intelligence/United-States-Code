@@ -28,7 +28,7 @@ In this title: <sup>1</sup>
 
 #### (3) Treatment of qualified direct primary care medical home plans
 
-&emsp;The Secretary of Health and Human Services shall permit a qualified health plan to provide coverage through a qualified directprimary care medical home plan that meets criteria established by the Secretary, so long as the qualified health plan meets all requirements that are otherwise applicable and the services covered by the medical home plan are coordinated with the entity offering the qualified health plan.
+&emsp;The Secretary of Health and Human Services shall permit a qualified health plan to provide coverage through a qualified direct primary care medical home plan that meets criteria established by the Secretary, so long as the qualified health plan meets all requirements that are otherwise applicable and the services covered by the medical home plan are coordinated with the entity offering the qualified health plan.
 
 #### (4) Variation based on rating area
 

@@ -14,7 +14,7 @@ Use of Federal Lands Highway Funds.—Funds authorized for forest highways, fore
 
 (d)
 
-State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) <sup>1</sup> of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promotingand facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) <sup>1</sup> of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
 (e)
 
@@ -102,7 +102,7 @@ Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out h
 
 <b>1995</b>—Subsec. (f). Pub. L. 104–59 substituted "determined in accordance with section 120(b)" for "80 percent".
 
-<b>1991</b>—Pub. L. 102–240 substituted "walkways" for "walkway" in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkwaysand bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under this section unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
+<b>1991</b>—Pub. L. 102–240 substituted "walkways" for "walkway" in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkways and bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under this section unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
 
 <b>1987</b>—Subsec. (b)(1). Pub. L. 100–17 inserted "and sums apportioned or allocated for highway substitute projects in accordance with section 103(e)(4) of this title" after "title" in second sentence.
 
@@ -120,7 +120,7 @@ Subsec. (f). Pub. L. 97–424 redesignated as subsec. (f) that portion of former
 
 Subsec. (g). Pub. L. 97–424 redesignated former subsec. (d) as (g).
 
-Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substituted reference to subsecs. (a), (b), (e), and (f) of this section for reference to former subsecs. (a) and (c), and substituted provision that no State shall obligate more than $4,500,000 for such projects in any fiscal year, except that the Secretary may, upon application, waive this limitation for a State for any fiscal year for provision that no State was to obligate more than $2,500,000 for such projects for any fiscal year.
+Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substituted reference to subsecs. (a), (b),\(e), and (f) of this section for reference to former subsecs. (a) and (c), and substituted provision that no State shall obligate more than $4,500,000 for such projects in any fiscal year, except that the Secretary may, upon application, waive this limitation for a State for any fiscal year for provision that no State was to obligate more than $2,500,000 for such projects for any fiscal year.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–599 inserted provision relating to energy conservation and struck out requirement that such construction be in conjunction with Federal-aid highways.
 

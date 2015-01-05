@@ -6,7 +6,7 @@ System for Monitoring Performance.—(1) The Secretary of Defense shall monitor 
 
 (2) In carrying out paragraph (1), the Secretary shall—
 
-&emsp;(A) compare the cost of performing the function before the public-private competition to the cost of performing the function after theimplementation of the results of the public-private competition; and
+&emsp;(A) compare the cost of performing the function before the public-private competition to the cost of performing the function after the implementation of the results of the public-private competition; and
 
 &emsp;(B) identify any actual savings of the Department of Defense after the implementation of the results of the public-private competition and compare such savings to the estimated savings identified pursuant to section 2461(a)(1)(E) of this title for that public-private competition;
 

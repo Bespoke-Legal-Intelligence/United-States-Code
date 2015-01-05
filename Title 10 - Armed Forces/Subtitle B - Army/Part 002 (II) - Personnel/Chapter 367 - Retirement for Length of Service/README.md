@@ -30,13 +30,13 @@
 
 <b>1981</b>—Pub. L. 97–22, §10(b)(5), July 10, 1981, 95 Stat. 137, struck out item 3922 "Thirty years or five years in grade: regular brigadier generals".
 
-<b>1980</b>—Pub. L. 96–513, title V, §502(16), Dec. 12, 1980, 94 Stat. 2910, struck out item 3913 "Twenty years or more: deferred officers not recommended for promotion", item 3916 "Twenty-eight years: promotion-list lieutenant colonels", item 3919 "Thirty years or more: regularcommissioned officers; excessive number", item 3921 "Thirty years or five years in grade: promotion-list colonels", item 3923 "Thirty-five years or five years in grade: regular major generals", and item 3927 "Computation of years of service: mandatory retirement; regular commissioned officers".
+<b>1980</b>—Pub. L. 96–513, title V, §502(16), Dec. 12, 1980, 94 Stat. 2910, struck out item 3913 "Twenty years or more: deferred officers not recommended for promotion", item 3916 "Twenty-eight years: promotion-list lieutenant colonels", item 3919 "Thirty years or more: regular commissioned officers; excessive number", item 3921 "Thirty years or five years in grade: promotion-list colonels", item 3923 "Thirty-five years or five years in grade: regular major generals", and item 3927 "Computation of years of service: mandatory retirement; regular commissioned officers".
 
 Pub. L. 96–343, §9(a)(3), Sept. 8, 1980, 94 Stat. 1128, struck out "regular" before "enlisted members" in items 3914 and 3925.
 
 <b>1967</b>—Pub. L. 90–130, §1(13), Nov. 8, 1967, 81 Stat. 376, struck out item 3915 "Twenty-five years: regular majors; Women's Army Corps, Army Nurse Corps and Army Medical Specialist Corps".
 
-<b>1957</b>—Pub. L. 85–155, title I, §101(20), title IV, §401(3), Aug. 21, 1957, 71 Stat. 380, 390, included the Army Nurse Corps and the Army Medical Specialist Corps within item 3915, and struck out item 3912 "Twenty years or more: regular commissioned officers; Army Nurse Corps and Women's Medical Specialist Corps" and item 3928 "Computation of years of service: voluntary retirement; regular commissioned officers; Army Nurse Corps and Women's Medical Specialist Corps".
+<b>1957</b>—Pub. L. 85–155, title I, §101(20), title IV, §401(3), Aug. 21, 1957, 71 Stat. 380, 390, included the Army NurseCorps and the Army Medical Specialist Corps within item 3915, and struck out item 3912 "Twenty years or more: regular commissioned officers; Army Nurse Corps and Women's Medical Specialist Corps" and item 3928 "Computation of years of service: voluntary retirement; regular commissioned officers; Army Nurse Corps and Women's Medical Specialist Corps".
 
 
 ---

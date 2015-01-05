@@ -16,7 +16,7 @@ The Secretary of Agriculture (hereafter in this section referred to as the "Secr
 
 &emsp;&emsp;(C) The term "farming operations and practices" includes the integration of crops and crop-plant variety selection, rotation practices, tillage systems, soil conserving and soil building practices, nutrient management strategies, biological control and integrated pest management strategies, livestock production and management systems, animal waste management systems, water and energy conservation measures, and health and safety considerations.
 
-&emsp;&emsp;(D) The term "integrated farm management plan" means a comprehensive, multiyear, site-specific plan that meets the requirements of subsection (f) of this section.
+&emsp;&emsp;(D) The term "integrated farm management plan" means a comprehensive, multiyear, site-specific plan that meets the requirements of subsection (f).
 
 #### (2) Crops
 

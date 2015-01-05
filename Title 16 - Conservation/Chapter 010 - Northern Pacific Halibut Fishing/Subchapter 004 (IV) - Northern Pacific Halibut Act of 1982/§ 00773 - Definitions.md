@@ -2,7 +2,7 @@
 
 As used in this subchapter the term:
 
-(a) "Convention" means the Convention between the United States of America and Canada for the Preservation of the Halibut Fishery of the Northern Pacific Ocean and Bering Sea, signed at Ottawa, Canada on March 2, 1953, as amended by the Protocol Amending the Convention, signed at Washington March 29, 1979, and includes the regulations promulgated thereunder.
+(a) "Convention" means the Convention between the United States of America and Canadafor the Preservation of the Halibut Fishery of the Northern Pacific Ocean and Bering Sea, signed at Ottawa, Canada on March 2, 1953, as amended by the Protocol Amending the Convention, signed at Washington March 29, 1979, and includes the regulations promulgated thereunder.
 
 (b) "Commission" means the International Pacific Halibut Commission provided for by article III of the Convention.
 

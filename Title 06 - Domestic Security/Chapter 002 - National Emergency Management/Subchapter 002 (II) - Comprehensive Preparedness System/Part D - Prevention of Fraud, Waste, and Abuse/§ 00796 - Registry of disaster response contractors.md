@@ -4,9 +4,9 @@
 
 In this section—
 
-&emsp;(1) the term “registry” means the registry created under subsection (b); and
+&emsp;(1) the term "registry" means the registry created under subsection (b); and
 
-&emsp;(2) the terms “small business concern”, “small business concern owned and controlled by socially and economically disadvantaged individuals”, “small business concern owned and controlled by women”, and “small business concern owned and controlled by service-disabled veterans” have the meanings given those terms under the Small Business Act (15 U.S.C. 631 et seq.).
+&emsp;(2) the terms "small business concern", "small business concern owned and controlled by socially and economically disadvantaged individuals", "small business concern owned and controlled by women", and "small business concern owned and controlled by service-disabled veterans" have the meanings given those terms under the Small Business Act (15 U.S.C. 631 et seq.).
 
 #### (b) Registry
 

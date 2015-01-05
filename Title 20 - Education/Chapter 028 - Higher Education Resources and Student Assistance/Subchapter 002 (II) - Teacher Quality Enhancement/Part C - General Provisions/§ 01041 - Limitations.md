@@ -26,7 +26,7 @@ Another prior section 1041, Pub. L. 89–329, title II, §231, as added Pub. L. 
 
 Another prior section 1041, Pub. L. 89–329, title II, §231, as added Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090, set out the Congressional statement of findings and purpose for the research library resources strengthening program, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-Another prior section 1041, Pub. L. 89–329, title II, §231, Nov. 8, 1965, 79 Stat. 1228; Pub. L. 90–575, title II, §§217, 218, Oct. 16, 1968, 82 Stat. 1037; Pub. L. 92–318, title I, §114(a), June 23, 1972, 86 Stat. 240, authorized appropriations for assistance to Library of Congress for acquisition of Library material, prior to the general amendment of former part C of this subchapter by Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090.
+Another prior section 1041, Pub. L. 89–329, title II, §231, Nov. 8, 1965, 79 Stat. 1228; Pub. L. 90–575, title II, §§217, 218, Oct. 16, 1968, 82 Stat. 1037; Pub. L. 92–318, titleI, §114(a), June 23, 1972, 86 Stat. 240, authorized appropriations for assistance to Library of Congress for acquisition of Library material, prior to the general amendment of former part C of this subchapter by Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090.
 
 A prior section 1042, Pub. L. 89–329, title II, §222, as added Pub. L. 107–110, title X, §1051(3), Jan. 8, 2002, 115 Stat. 2081, related to eligibility to receive a grant or enter into a contract or cooperative agreement under sections 1041 to 1044 of this title, prior to repeal by Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3154.
 

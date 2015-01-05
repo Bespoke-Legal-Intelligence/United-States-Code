@@ -110,7 +110,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the qualified entity agrees—
 
-&emsp;&emsp;&emsp;&emsp;(I) to deposit, not later than 1 month after an amount is deposited pursuant to clause (i)(I), at least a 100-percent, and up to a 200-percent, match of that amount into the individual development account established for the eligible participant; and
+&emsp;&emsp;&emsp;&emsp;(I) to deposit, not later than 1 month after an amount is deposited pursuant to clause (i)(I), at least a 100-percent, andup to a 200-percent, match of that amount into the individual development account established for the eligible participant; and
 
 &emsp;&emsp;&emsp;&emsp;(II) with uses of funds proposed by the eligible participant.
 
@@ -248,9 +248,9 @@ In carrying out this section, the Secretary may promulgate regulations to ensure
 
 #### (h) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.
+There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2018.
 
-(Pub. L. 87–128, title III, §333B, as added Pub. L. 110–234, title V, §5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, §4(a), title V, §5301, June 18, 2008, 122 Stat. 1664, 1908.)
+(Pub. L. 87–128, title III, §333B, as added Pub. L. 110–234, title V, §5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, §4(a), title V, §5301, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, §5301, Feb. 7, 2014, 128 Stat. 839.)
 
 #### References in Text
 
@@ -262,7 +262,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 1983b, Pub. L. 87–128, title III, §333B, as added Pub. L. 99–198, title XIII, §1313(a), Dec. 23, 1985, 99 Stat. 1525; amended Pub. L. 100–233, title VI, §608, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII,§1812, Nov. 28, 1990, 104 Stat. 3821, related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233. See section 6991 et seq. of this title.
+A prior section 1983b, Pub. L. 87–128, title III, §333B, as added Pub. L. 99–198, title XIII, §1313(a), Dec. 23, 1985, 99 Stat. 1525; amended Pub. L. 100–233, title VI, §608, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, §1812, Nov. 28, 1990, 104 Stat. 3821, related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233. See section 6991 et seq. of this title.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (h). Pub. L. 113–79 substituted "2018" for "2012".
 
 #### Effective Date
 

@@ -74,7 +74,7 @@ Pub. L. 93–567, §1, Dec. 31, 1974, 88 Stat. 1845, provided: "That this Act \[
 
 #### Short Title of 1971 Amendment
 
-Pub. L. 92–65, title I, §101, Aug. 5, 1971, 85 Stat. 166, provided that: "This title \[enacting section 3123 of this title and amending this section, sections 3135, 3141, 3152, 3161, 3162, 3171, 3188a, and 3191 of this title, and provisions set out as a note under section 3162 of this title\]may be cited as the 'Public Works and Economic Development Act Amendments of 1971'."
+Pub. L. 92–65, title I, §101, Aug. 5, 1971, 85 Stat. 166, provided that: "This title \[enacting section 3123 of this title and amending this section, sections 3135, 3141, 3152, 3161, 3162, 3171, 3188a, and 3191 of this title, and provisions set out as a note under section 3162 of this title\] may be cited as the 'Public Works and Economic Development Act Amendments of 1971'."
 
 #### Short Title of 1969 Amendment
 
@@ -480,7 +480,7 @@ Availability.—Any sums appropriated under the authorization contained in this 
 
 Sec. 310 \[sic\]. (a) The Federal Co-chairman of the Denali Commission shall appoint an Economic Development Committee to be chaired by the president of the Alaska Federation of Natives which shall include the Commissioner of Community and Economic Affairs for the State of Alaska, a representative from the Alaska Bankers Association, the chairman of the Alaska Permanent Fund, a representative from the Alaska State Chamber of Commerce, and a representative from each region. Of the regional representatives, at least two each shall be from Native regional corporations, Native non-profit corporations, tribes, and borough governments.
 
-"(b) The Economic Development Committee is authorized to consider and approve applications from Regional Advisory Committees for grants and loans to promote economic development and promote private sector investment to reduce poverty in economically distressed rural villages. The Economic Development Committee may make mini-grants to individual applicants and may issue loans under such terms and conditions as it determines.
+"(b) The Economic Development Committee is authorized to consider and approve applications from Regional Advisory Committees for grants and loans to promote economic development and promote privatesector investment to reduce poverty in economically distressed rural villages. The Economic Development Committee may make mini-grants to individual applicants and may issue loans under such terms and conditions as it determines.
 
 "(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region, local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
 

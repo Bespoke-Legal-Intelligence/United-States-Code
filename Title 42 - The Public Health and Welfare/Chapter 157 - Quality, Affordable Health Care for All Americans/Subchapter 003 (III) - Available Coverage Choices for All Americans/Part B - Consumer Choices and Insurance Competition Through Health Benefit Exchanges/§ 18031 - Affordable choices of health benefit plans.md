@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) include within health insurance plan networks those essential community providers, where available, that serve predominately low-income, medically-underserved individuals, such as health care providers defined in section 340B(a)(4) of the Public Health Service Act \[42 U.S.C. 256b(a)(4)\] and providers described in section 1927(c)(1)(D)(i)(IV) of the Social Security Act \[42 U.S.C. 1396r–8(c)(1)(D)(i)(IV)\] as set forth by section 221 of Public Law 111–8, except that nothing in this subparagraph shall be construed to require any health plan to provide coverage for any specific medical procedure;
 
-&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
+&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measuressuch as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
 
 &emsp;&emsp;(ii) receive such accreditation within a period established by an Exchange for such accreditation that is applicable to all qualified health plans;
 
@@ -132,7 +132,7 @@
 
 #### (ii) Offering of stand-alone dental benefits
 
-&emsp;&emsp;&emsp;Each Exchange within a State shall allow an issuer of a plan that only provides limited scope dental benefits meeting the requirements of section 9832(c)(2)(A) of title 26 to offer the plan through the Exchange (either separately or in conjunction with a qualified health plan) if the plan provides pediatric dental benefits meeting the requirements of section 18022(b)(1)(J) of this title).
+&emsp;&emsp;&emsp;Each Exchange within a State shall allow an issuer of a plan that only provideslimited scope dental benefits meeting the requirements of section 9832(c)(2)(A) of title 26 to offer the plan through the Exchange (either separately or in conjunction with a qualified health plan) if the plan provides pediatric dental benefits meeting the requirements of section 18022(b)(1)(J) of this title).
 
 #### (3) Rules relating to additional required benefits
 
@@ -374,7 +374,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To be eligible to receive a grant under paragraph (1), an entity shall demonstrate to the Exchange involved that the entity has existing relationships, or could readily establish relationships, with employers and employees, consumers (including uninsured and underinsured consumers), or self-employed individuals likely to be qualified to enroll in a qualified health plan.
+&emsp;&emsp;To be eligible to receive a grant under paragraph (1), an entity shall demonstrate to the Exchange involved that the entity hasexisting relationships, or could readily establish relationships, with employers and employees, consumers (including uninsured and underinsured consumers), or self-employed individuals likely to be qualified to enroll in a qualified health plan.
 
 #### (B) Types
 
@@ -438,7 +438,7 @@ Section 2716 of the Public Health Service Act, referred to in subsec. (c)(5), pr
 
 The Social Security Act, referred to in subsecs. (c)(6)(C), (d)(4)(F), and (f)(3)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title XVIII of the Act is classified generally to part D (§1395w–101 et seq.) of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Section 2794 of the Public Health Service Act, referred to in subsec. (e)(2), probably means section 2794 of act July 1, 1944, as added by section 1003 of Pub. L. 111–148, which relates to premium increases for consumers and is classified to section 300gg–94 of this title. Another section 2794 of act July 1, 1944, relates to uniform fraud and abuse referral format and is classified to section 300gg–95 of this title.
+Section 2794 of the Public Health Service Act, referred to in subsec. (e)(2), probably means section 2794 of act July 1, 1944, as added by section 1003 of Pub. L.111–148, which relates to premium increases for consumers and is classified to section 300gg–94 of this title. Another section 2794 of act July 1, 1944, relates to uniform fraud and abuse referral format and is classified to section 300gg–95 of this title.
 
 The Public Health Service Act, referred to in subsec. (h)(1)(A)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C of title IX of the Act is classified generally to part C (§299b–21 et seq.) of subchapter VII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -448,7 +448,7 @@ This subchapter, referred to in subsec. (k), was in the original "this subtitle"
 
 <b>2010</b>—Subsec. (c)(1)(I). Pub. L. 111–148, §10203(a), added subpar. (I).
 
-Subsec. (d)(3)(B)(ii). Pub. L. 111–148, §10104(e)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "A State shall make payments to or on behalf of an individual eligible for the premium tax credit under section 36B of title 26 and any cost-sharing reduction under section 18071 of thistitle to defray the cost to the individual of any additional benefits described in clause (i) which are not eligible for such credit or reduction under section 36B(b)(3)(D) of title 26 and section 18071(c)(4) of this title."
+Subsec. (d)(3)(B)(ii). Pub. L. 111–148, §10104(e)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "A State shall make payments to or on behalf of an individual eligible for the premium tax credit under section 36B of title 26 and any cost-sharing reduction under section 18071 of this title to defray the cost to the individual of any additional benefits described in clause (i) which are not eligible for such credit or reduction under section 36B(b)(3)(D) of title 26 and section 18071(c)(4) of this title."
 
 Subsec. (d)(6)(A). Pub. L. 111–148, §10104(e)(2), inserted "educated" before "health care".
 

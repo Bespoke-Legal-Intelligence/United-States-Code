@@ -24,7 +24,7 @@ The Secretary shall establish and carry out a program of national leadership act
 
 &emsp;&emsp;(iii) disseminating best practices information, including information regarding promising practices resulting from federally funded demonstration programs;
 
-&emsp;&emsp;(E) providing for the conduct of an independent evaluation and assessment of adult education and literacy activities through studies and analyses conducted independently through grants and contracts awarded on a competitive basis, which evaluation and assessment shall include descriptions of—
+&emsp;&emsp;(E) providing for the conduct of an independent evaluation and assessment of adult education and literacy activities through studies and analyses conducted independently through grants and contracts awardedon a competitive basis, which evaluation and assessment shall include descriptions of—
 
 &emsp;&emsp;&emsp;(i) the effect of performance measures and other measures of accountability on the delivery of adult education and literacy activities, including family literacy services;
 
@@ -42,9 +42,17 @@ The Secretary shall establish and carry out a program of national leadership act
 
 (Pub. L. 105–220, title II, §243, Aug. 7, 1998, 112 Stat. 1078; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(e)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417; Pub. L. 110–154, §1(c)(2), Dec. 21, 2007, 121 Stat. 1827.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### Amendments
 
 <b>2007</b>—Par. (2)(A). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 
 <b>1998</b>—Par. (2)(B). Pub. L. 105–277 substituted "quality" for "qualify".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

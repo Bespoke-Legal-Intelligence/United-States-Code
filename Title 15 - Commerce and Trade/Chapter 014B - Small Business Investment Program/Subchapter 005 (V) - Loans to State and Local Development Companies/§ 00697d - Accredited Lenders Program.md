@@ -22,7 +22,7 @@ The Administration may designate a qualified State or local development company 
 
 #### (c) Expedited processing of loan applications
 
-The Administration shall develop an expedited procedure for processing a loan application or servicing action submitted by a qualified State or local development company that has been designated as an accredited lender in accordance with subsection (b) of this section.
+The Administration shall develop an expedited procedure for processing a loan application orservicing action submitted by a qualified State or local development company that has been designated as an accredited lender in accordance with subsection (b) of this section.
 
 #### (d) Suspension or revocation of designation
 

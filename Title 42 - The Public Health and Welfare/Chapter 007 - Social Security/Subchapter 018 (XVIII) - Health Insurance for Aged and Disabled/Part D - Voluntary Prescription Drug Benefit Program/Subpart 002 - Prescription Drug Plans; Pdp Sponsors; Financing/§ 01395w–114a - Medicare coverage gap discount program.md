@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the "program") by not later than January 1, 2011. Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish a model agreement for use under the program by not later than 180 days after March 23, 2010, in consultation with manufacturers, and allow for comment on such model agreement.
+The Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the "program") by not later than January 1, 2011. Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish amodel agreement for use under the program by not later than 180 days after March 23, 2010, in consultation with manufacturers, and allow for comment on such model agreement.
 
 #### (b) Terms of agreement
 
@@ -20,7 +20,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (i) Special rule for 2011
 
-&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this sectionwith respect to the period beginning on January 1, 2011, and ending on December 31, 2011, the manufacturer shall enter into such agreement not later than not later than <sup>1</sup> 30 days after the date of the establishment of a model agreement under subsection (a).
+&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this section with respect to the period beginning on January 1, 2011, and ending on December 31, 2011, the manufacturer shall enter into such agreement not later than not later than <sup>1</sup> 30 days after the date of the establishment of a model agreement under subsection (a).
 
 #### (ii) 2012 and subsequent years
 
@@ -78,7 +78,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 &emsp;&emsp;&emsp;(iii) in the case where, during the period beginning on January 1, 2011, and ending on December 31, 2011, it is not practicable to provide such discounted prices at the point-of-sale (as described in clause (ii)), the establishment of procedures to provide such discounted prices as soon as practicable after the point-of-sale;
 
-&emsp;&emsp;&emsp;(iv) the establishment of procedures to ensure that, not later than the applicable number of calendar days after the dispensing of an applicable drug by a pharmacy or mail order service, the pharmacy or mail order service is reimbursed for an amount equal to the difference between—
+&emsp;&emsp;&emsp;(iv) the establishment of procedures to ensure that, not later than the applicablenumber of calendar days after the dispensing of an applicable drug by a pharmacy or mail order service, the pharmacy or mail order service is reimbursed for an amount equal to the difference between—
 
 &emsp;&emsp;&emsp;&emsp;(I) the negotiated price of the applicable drug; and
 
@@ -170,7 +170,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (f) Clarification regarding availability of other covered part D drugs
 
-Nothing in this section shall prevent an applicable beneficiary from purchasing a covered partD drug that is not an applicable drug (including a generic drug or a drug that is not on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in).
+Nothing in this section shall prevent an applicable beneficiary from purchasing a covered part D drug that is not an applicable drug (including a generic drug or a drug that is not on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in).
 
 #### (g) Definitions
 
@@ -256,7 +256,7 @@ Subsec. (d)(2)(B). Pub. L. 111–152, §1101(b)(2)(D), substituted "January 1, 2
 
 Subsec. (g)(1). Pub. L. 111–152, §1101(b)(2)(E)(i), substituted "a covered part D drug" for "an applicable drug" in introductory provisions.
 
-Subsec. (g)(1)(C) to (E). Pub. L. 111–152, §1101(b)(2)(E)(ii)–(iv), inserted "and" at end of subpar.\(C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: "is not subject to a reduction in premium subsidy under section 1395r(i) of this title; and".
+Subsec. (g)(1)(C) to (E). Pub. L. 111–152, §1101(b)(2)(E)(ii)–(iv), inserted "and" at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: "is not subject to a reduction in premium subsidy under section 1395r(i) of this title; and".
 
 <i><sup>1</sup></i><i> So in original. Second "not later than" probably should not appear.</i>
 

@@ -84,7 +84,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 &emsp;&emsp;&emsp;(i) one-half shall be appointed by the President, in consultation with the elected leaders of the President's party in Congress (either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and either the Majority Leader or the Minority Leader of the Senate; <sup>1</sup> and
 
-&emsp;&emsp;&emsp;(ii) one-half shall be appointed by the elected leaders of Congress of the party to which the President does not belong (one-half of that allotment to be appointed byeither the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and one-half of that allotment to be appointed by either the Majority Leader or the Minority Leader of the Senate).
+&emsp;&emsp;&emsp;(ii) one-half shall be appointed by the elected leaders of Congress of the party to which the President does not belong (one-half of that allotment to be appointed by either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and one-half of that allotment to be appointed by either the Majority Leader or the Minority Leader of the Senate).
 
 #### (B) Appointment requirements
 
@@ -166,7 +166,7 @@ The Secretary may enter into contracts to carry out the Secretary's responsibili
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) ofchapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

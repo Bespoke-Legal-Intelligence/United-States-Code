@@ -4,7 +4,7 @@
 
 #### (1) Mandatory grant
 
-&emsp;The Secretary shall make a grant to any eligible State for any fiscal year for which the State requests a grant under this section in an amount equal to 5 percent of the total amount allocated for the State under section 2009d(f) of this title.
+&emsp;The Secretary shall make a grant to any eligible State for any fiscal year for which theState requests a grant under this section in an amount equal to 5 percent of the total amount allocated for the State under section 2009d(f) of this title.
 
 #### (2) Permissive grant
 
@@ -24,9 +24,9 @@
 
 &emsp;A State shall be eligible for a grant under paragraph (1) if the State makes commitments to the Secretary to—
 
-&emsp;&emsp;(A) expend from non-Federal sources in accordance with subsection (c) of this section an amount that is not less than 200 percent of the amount of the grant; and
+&emsp;&emsp;(A) expend from non-Federal sources in accordance with subsection (c) an amount that is not less than 200 percent of the amount of the grant; and
 
-&emsp;&emsp;(B) maintain the amounts paid to the State under this subsection and the amount referred to in subparagraph (A) in an account separate from all other State funds until expended in accordance with subsection (c) of this section.
+&emsp;&emsp;(B) maintain the amounts paid to the State under this subsection and the amount referred to in subparagraph (A) in an account separate from all other State funds until expended in accordance with subsection (c).
 
 #### (3) Source of funds
 

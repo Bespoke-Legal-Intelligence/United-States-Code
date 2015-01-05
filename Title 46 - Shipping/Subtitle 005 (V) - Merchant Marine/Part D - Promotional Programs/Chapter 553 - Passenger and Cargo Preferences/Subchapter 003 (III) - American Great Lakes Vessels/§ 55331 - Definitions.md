@@ -4,7 +4,7 @@ In this subchapter:
 
 &emsp;(1)
 
-American great lakes vessel.—The term "American Great Lakes vessel" means a vessel so designated under section 55332 of this title, but only during the period the designation is in effect.
+American great lakes vessel.—The term "American Great Lakes vessel" means avessel so designated under section 55332 of this title, but only during the period the designation is in effect.
 
 &emsp;(2)
 

@@ -10,7 +10,7 @@ Terms and Conditions.—An assignment made pursuant to subsection (a) shall be s
 
 (c)
 
-Definition.—For purposes of this section, the term “Office of the Chief Technology Officer” means the office established in the executive branch of the government of the District of Columbia under the Office of the Chief Technology Officer Establishment Act of 1998 (sec. 1–1401 et seq., D.C. Official Code).
+Definition.—For purposes of this section, the term "Office of the Chief Technology Officer" means the office established in the executive branch of the government of the District of Columbia under the Office of the Chief Technology Officer Establishment Act of 1998 (sec. 1–1401 et seq., D.C. Official Code).
 
 (Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
 

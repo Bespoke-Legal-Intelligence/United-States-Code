@@ -8,6 +8,7 @@
 | [1754\.](%C2%A7%2001754%20-%20Nutrition%20promotion.md) | Nutrition promotion. |
 | [1755\.](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md) | Direct expenditures for agricultural commodities and other foods. |
 | [1755a.](%C2%A7%2001755a%20-%20Whole%20grain%20products.md) | Whole grain products. |
+| [1755b.](%C2%A7%2001755b%20-%20Pulse%20crop%20products.md) | Pulse crop products. |
 | [1756\.](%C2%A7%2001756%20-%20Payments%20to%20States.md) | Payments to States. |
 | [1757\.](%C2%A7%2001757%20-%20State%20disbursement%20to%20schools.md) | State disbursement to schools. |
 | [1758\.](%C2%A7%2001758%20-%20Program%20requirements.md) | Program requirements. |
@@ -50,6 +51,7 @@
 - [&sect; 01754 - Nutrition promotion](%C2%A7%2001754%20-%20Nutrition%20promotion.md)
 - [&sect; 01755 - Direct expenditures for agricultural commodities and other foods](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md)
 - [&sect; 01755a - Whole grain products](%C2%A7%2001755a%20-%20Whole%20grain%20products.md)
+- [&sect; 01755b - Pulse crop products](%C2%A7%2001755b%20-%20Pulse%20crop%20products.md)
 - [&sect; 01756 - Payments to States](%C2%A7%2001756%20-%20Payments%20to%20States.md)
 - [&sect; 01757 - State disbursement to schools](%C2%A7%2001757%20-%20State%20disbursement%20to%20schools.md)
 - [&sect; 01758 - Program requirements](%C2%A7%2001758%20-%20Program%20requirements.md)

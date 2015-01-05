@@ -6,7 +6,7 @@ The Secretary may cooperate with other Federal agencies or entities, States or p
 
 #### (b) Responsibility
 
-The individual or entity cooperating with the Secretary under subsection (a) of this section shall be responsible for—
+The individual or entity cooperating with the Secretary under subsection (a) shall be responsible for—
 
 &emsp;(1) the authority necessary to conduct the operations or take measures on all land and properties within the foreign country or State, other than those owned or controlled by the United States; and
 
@@ -40,7 +40,7 @@ The Secretary shall ensure that phytosanitary issues involving imports and expor
 
 #### (1) In general
 
-&emsp;A State may provide to a unit of local government in the State described in paragraph\(2) any cost-sharing assistance or financing mechanism provided to the State under a cooperative agreement entered into under this Act between the Secretary and the State relating to the eradication, prevention, control, or suppression of plant pests.
+&emsp;A State may provide to a unit of local government in the State described in paragraph (2) any cost-sharing assistance or financing mechanism provided to the State under a cooperative agreement entered into under this Act between the Secretary and the State relating to the eradication, prevention, control, or suppression of plant pests.
 
 #### (2) Requirements
 

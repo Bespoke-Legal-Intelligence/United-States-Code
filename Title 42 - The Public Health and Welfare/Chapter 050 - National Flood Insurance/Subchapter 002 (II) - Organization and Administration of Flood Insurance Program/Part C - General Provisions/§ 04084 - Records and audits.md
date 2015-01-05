@@ -1,6 +1,6 @@
 ### §4084. Records and audits
 
-(a) The flood insurance pool formed or otherwise created under part A of this subchapter, and any insurance company or other private organization executing any contract, agreement, or other appropriate arrangement with the Administrator under part B of this subchapter or this part, shall keep such records as the Administrator shall prescribe, including records which fully disclose the total costs of the program undertaken or the services being rendered, and such other records as will facilitate an effective audit.
+(a) The flood insurance pool formed or otherwise created under part A of this subchapter, and any insurance company or other private organization executing any contract, agreement,or other appropriate arrangement with the Administrator under part B of this subchapter or this part, shall keep such records as the Administrator shall prescribe, including records which fully disclose the total costs of the program undertaken or the services being rendered, and such other records as will facilitate an effective audit.
 
 (b) The Administrator and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the pool and any such insurance company or other private organization that are pertinent to the costs of the program undertaken or the services being rendered.
 
@@ -14,7 +14,7 @@
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

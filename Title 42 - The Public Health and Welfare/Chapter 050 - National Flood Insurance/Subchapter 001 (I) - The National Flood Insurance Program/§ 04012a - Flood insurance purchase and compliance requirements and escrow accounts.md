@@ -36,7 +36,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (B) New coverage
 
-&emsp;&emsp;Paragraphs (2) and (3) shall apply only with respect to any loan made, increased,extended, or renewed after the expiration of the 1-year period beginning on September 23, 1994. Paragraph (1) shall apply with respect to any loan made, increased, extended, or renewed by any lender supervised by the Farm Credit Administration only after the expiration of the period under this subparagraph.
+&emsp;&emsp;Paragraphs (2) and (3) shall apply only with respect to any loan made, increased, extended, or renewed after the expiration of the 1-year period beginning on September 23, 1994. Paragraph (1) shall apply with respect to any loan made, increased, extended, or renewed by any lender supervised by the Farm Credit Administration only after the expiration of the period under this subparagraph.
 
 #### (C) Continued effect of regulations
 
@@ -104,11 +104,15 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;(B) a repayment term of 1 year or less.
 
+#### (3) Detached structures
+
+&emsp;Notwithstanding any other provision of this section, flood insurance shall not be required, in the case of any residential property, for any structure that is a part of such property but is detached from the primary residential structure of such property and does not serve as a residence.
+
 #### (d) Escrow of flood insurance payments
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulatedlending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
 
 #### (2) Federal agency lenders
 
@@ -156,7 +160,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (B) Effect of determination
 
-&emsp;&emsp;Any person to whom a borrower provides a letter issued by the Administrator pursuantto subparagraph (A), stating that the building or mobile home securing the loan of the borrower is not in an area having special flood hazards, shall have no obligation under this title <sup>2</sup> to require the purchase of flood insurance for such building or mobile home during the period determined by the Administrator, which shall be specified in the letter and shall begin on the date on which such letter is provided.
+&emsp;&emsp;Any person to whom a borrower provides a letter issued by the Administrator pursuant to subparagraph (A), stating that the building or mobile home securing the loan of the borrower is not in an area having special flood hazards, shall have no obligation under this title <sup>2</sup> to require the purchase of flood insurance for such building or mobile home during the period determined by the Administrator, which shall be specified in the letter and shall begin on the date on which such letter is provided.
 
 #### (C) Effect of failure to respond
 
@@ -256,31 +260,53 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;The purchaser or transferee of such a loan may be charged the fee in the case of sale or transfer of the loan.
 
-(Pub. L. 93–234, title I, §102, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§522–526, 531, 582(c), Sept. 23, 1994, 108 Stat. 2257–2262, 2267, 2287; Pub. L. 110–289, div. A, title I, §1161(e), July 30, 2008, 122 Stat. 2780; Pub. L. 112–141, div. F, title II, §§100208, 100209(a), 100238(a)(1), 100239(a), 100244(a), July 6, 2012, 126 Stat. 919, 920, 958, 966; Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485.)
+(Pub. L. 93–234, title I, §102, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§522–526, 531, 582(c), Sept. 23, 1994, 108 Stat. 2257–2262, 2267, 2287; Pub. L. 110–289, div. A, title I, §1161(e), July 30, 2008, 122 Stat. 2780; Pub. L. 112–141, div. F, title II, §§100208, 100209(a), 100238(a)(1), 100239(a), 100244(a), July 6, 2012, 126 Stat. 919, 920, 958, 966; Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485; Pub. L. 113–89, §§13(a), 25(a), Mar. 21, 2014, 128 Stat. 1026, 1030.)
 
 #### Amendment of Subsection (d)(1)
 
-<i>Pub. L. 112–141, div. F, title II, §100209, July 6, 2012, 126 Stat. 920, as amended by Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485, provided that, applicable to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, subsection (d) of this section is amended to read as follows:</i>
+<i>Pub. L. 112–141, div. F, title II, §100209(a), July 6, 2012, 126 Stat. 920; Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485; Pub. L. 113–89, §25(a), (b)(1), Mar. 21, 2014, 128 Stat. 1030, provided that, applicable to any loan that is originated, refinanced, increased, extended, or renewed on or after Jan. 1, 2016, with provision for optional applicability, subsection (d)(1) of this section is amended to read as follows:</i>
 
 #### <i>(1) Regulated lending institutions</i>
 
 #### <i>(A) Federal entities responsible for lending regulations</i>
 
-&emsp;&emsp;<i>Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (C), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.</i>
+&emsp;&emsp;<i>Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (B), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.</i>
 
 #### <i>(B) Limitation</i>
 
-&emsp;&emsp;<i>Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lending institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A) or (B), if—</i>
+&emsp;&emsp;<i>Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lend</i><i>ing institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A)—</i>
 
-&emsp;&emsp;&emsp;<i>(i) the regulated lending institution has total assets of less than $1,000,000,000; and</i>
+&emsp;&emsp;&emsp;<i>(i) if—</i>
 
-&emsp;&emsp;&emsp;<i>(ii) on or before July 6, 2012, the regulated lending institution—</i>
+&emsp;&emsp;&emsp;&emsp;<i>(I) the regulated lending institution has total assets of less than $1,000,000,000; and</i>
 
-&emsp;&emsp;&emsp;&emsp;<i>(I) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and</i>
+&emsp;&emsp;&emsp;&emsp;<i>(II) on or before July 6, 2012, the regulated lending institution—</i>
 
-&emsp;&emsp;&emsp;&emsp;<i>(II) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home.</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and</i>
 
-<i>See 2012 Amendment note below.</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home; or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) in the case of a loan that—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) is provided by the condominium association, cooperative, homeowners association, or other applicable group; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) is secured by residential improved real estate or a mobile home that is used as collateral for a business purpose;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) is a home equity line of credit;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) is a nonperforming loan; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VI) has a term of not longer than 12 months.</i>
+
+<i>See 2012, 2013, and 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -288,7 +314,7 @@ The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(
 
 The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, Pub. L. 95–630, title X, Nov. 10, 1978, 92 Stat. 3694, which is classified principally to chapter 34 (§3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 12 and Tables.
 
-Section 522(a) of Public Law 103–325, referred to in subsec. (b)(4)(C), was in original "section 522(a) of suchAct", which generally amended subsec. (b) of this section.
+Section 522(a) of Public Law 103–325, referred to in subsec. (b)(4)(C), was in original "section 522(a) of such Act", which generally amended subsec. (b) of this section.
 
 This title, referred to in subsec. (e)(5)(B), (C), means title I of Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 977, which enacted this section and section 4104 of this title and amended sections 4001, 4013 to 4016, 4026, 4054, 4056, and 4121 of this title.
 
@@ -297,6 +323,12 @@ This title, referred to in subsec. (e)(5)(B), (C), means title I of Pub. L. 93�
 Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(3). Pub. L. 113–89, §13(a), added par. (3).
+
+Subsec. (d)(1)(A). Pub. L. 113–89, §25(a)(1), substituted "subparagraph (B)" for "subparagraph (C)".
+
+Subsec. (d)(1)(B). Pub. L. 113–89, §25(a)(2), substituted "under subparagraph (A)—" for "under subparagraph (A) or (B), if—" in introductory provisions, designated existing provisions as cl. (i) and inserted "if—" after cl. (i) designation, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, of subcl. (II), and added cl. (ii).
 
 <b>2013</b>—Subsec. (d)(1)(A). Pub. L. 112–281 inserted "residential" before "improved real estate" in two places.
 
@@ -320,7 +352,7 @@ Subsec. (c)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" f
 
 Subsec. (d)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: "Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed."
+Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: "Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved realestate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed."
 
 Subsec. (e)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
@@ -350,19 +382,67 @@ Subsecs. (d) to (h). Pub. L. 103–325, §§523–526, added subsecs. (d) to (h)
 
 <b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–89, §25(b)(1), Mar. 21, 2014, 128 Stat. 1031, provided that:
+
+"(1)
+
+In general.—
+
+&emsp;"(A)
+
+Required application.—The amendments to section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)) made by section 100209(a) of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 920) and by subsection (a) of this section shall apply to any loan that is originated, refinanced, increased, extended, or renewed on or after January 1, 2016.
+
+&emsp;"(B)
+
+Optional application.—
+
+&emsp;&emsp;"(i)
+
+Definitions.—In this subparagraph—
+
+&emsp;&emsp;&emsp;"(I) the terms 'Federal entity for lending regulation', 'improved real estate', 'regulated lending institution', and 'servicer' have the meanings given the terms in section 3 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4003);
+
+&emsp;&emsp;&emsp;"(II) the term 'outstanding loan' means a loan that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) is outstanding as of January 1, 2016;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) is not subject to the requirement to escrow premiums and fees for flood insurance under section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)) as in effect on July 5, 2012; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(cc) would, if the loan had been originated, refinanced, increased, extended, or renewed on or after January 1, 2016, be subject to the requirements under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended; and
+
+&emsp;&emsp;&emsp;"(III) the term 'section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended' means section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)(A)), as amended by—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) section 100209(a) of the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141; 126 Stat. 920); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) subsection (a) of this section.
+
+&emsp;&emsp;"(ii)
+
+Option to escrow flood insurance payments.—Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that each regulated lending institution or servicer of an outstanding loan shall offer and make available to a borrower the option to have the borrower's payment of premiums and fees for flood insurance under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), including the escrow of such payments, be treated in the same manner provided under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended."
+
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on the date of enactment of this Act \[July 6, 2012\]."
+Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, which provided that the amendment made to this section by section 100209(a) of Pub. L. 112–141 would apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, was repealed by Pub. L. 113–89, §25(b)(2), Mar. 21, 2014, 128 Stat. 1032. For effective date of amendment by section 100209(a) of Pub. L. 112–141, see Effective Date of 2014 Amendment note above.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 582(c) of Pub. L. 103–325 applicable to disasters declared after Sept. 23, 1994, see section 5154a(e) of this title.
+
+#### Rule of Construction
+
+Pub. L. 113–89, §25(b)(3), Mar. 21, 2014, 128 Stat. 1032, provided that: "Nothing in this section \[amending this section and enacting and repealing provisions set out as notes under this section\] or the amendments made by this section shall be construed to supersede, during the period beginning on July 6, 2012 and ending on December 31, 2015, the requirements under section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)), as in effect on July 5, 2012."
 
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Treatment of Floodproofed Residential Basements
+
+Pub. L. 113–89, §21, Mar. 21, 2014, 128 Stat. 1028, provided that: "The Administrator \[of the Federal Emergency Management Agency\] shall continue to extend exceptions and variances for flood-proofed basements consistent with section 60.6 of title 44, Code of Federal Regulations, which are effective April 3, 2009; and section 60.3 of such title, which are effective April 3, 2009."
 
 <i><sup>1</sup></i><i> So in original. The word "is" probably should not appear.</i>
 

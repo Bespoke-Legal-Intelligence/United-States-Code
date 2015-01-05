@@ -20,7 +20,7 @@
 
 &emsp;(B) the overhead cost, including site-wide indirect costs, associated with such research and activities.
 
-(2)(A) Subject to subparagraph (B), the Secretary shall also impose on the department, agency, or person or entity concerned a Federal administrative charge (which includes any depreciation and imputed interest charges) in an amount not to exceed 3 percent of the full costincurred in carrying out the research and activities concerned.
+(2)(A) Subject to subparagraph (B), the Secretary shall also impose on the department, agency, or person or entity concerned a Federal administrative charge (which includes any depreciation and imputed interest charges) in an amount not to exceed 3 percent of the full cost incurred in carrying out the research and activities concerned.
 
 (B) The Secretary may waive the imposition of the Federal administrative charge required by subparagraph (A) in the case of research and other activities conducted on behalf of small business concerns, institutions of higher education, non-profit entities, and State and local governments.
 

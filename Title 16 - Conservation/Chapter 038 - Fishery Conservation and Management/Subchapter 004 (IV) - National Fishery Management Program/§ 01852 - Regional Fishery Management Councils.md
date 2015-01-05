@@ -30,7 +30,7 @@
 
 #### (G) North Pacific Council
 
-&emsp;The North Pacific Fishery Management Council shall consist of the States of Alaska, Washington, and Oregon and shall have authority over the fisheries in the Arctic Ocean, Bering Sea, and Pacific Ocean seaward of Alaska. The North Pacific Council shall have 11 voting members, including 7 appointed by the Secretary in accordance with subsection (b)(2) of this section (5 of whom shall be appointed from the State of Alaska and 2 of whom shall be appointed from the State of Washington).
+&emsp;The North Pacific Fishery Management Council shall consist of the States of Alaska, Washington, and Oregon and shall have authority over the fisheries in the Arctic Ocean,Bering Sea, and Pacific Ocean seaward of Alaska. The North Pacific Council shall have 11 voting members, including 7 appointed by the Secretary in accordance with subsection (b)(2) of this section (5 of whom shall be appointed from the State of Alaska and 2 of whom shall be appointed from the State of Washington).
 
 #### (H) Western Pacific Council
 
@@ -226,7 +226,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(B) Emergency meetings shall be held at the call of the chairman or equivalent presiding officer.
 
-&emsp;(C) Timely public notice of each regular meeting and each emergency meeting, including the time, place, and agenda of the meeting, shall be provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient. Timely notice of each regular meeting shall also be published in the Federal Register. The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.
+&emsp;(C) Timely public notice of each regular meeting and each emergency meeting, including the time, place, and agenda of the meeting, shall be provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient. Timely notice of each regular meeting shall also be published in the Federal Register. The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.
 
 &emsp;(D) Interested persons shall be permitted to present oral or written statements regarding the matters on the agenda at meetings. All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.
 
@@ -248,7 +248,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 (5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) of this section are involved, on a continuing basis, in the development and amendment of fishery management plans.
 
-(6) At any time when a Council determines it appropriate to consider new information from aState or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
+(6) At any time when a Council determines it appropriate to consider new information from a State or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
 
 #### (j) Disclosure of financial interest and recusal
 
@@ -340,7 +340,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 #### (3) Required training
 
-&emsp;Council members appointed after January 12, 2007, shall complete a training course that meets the requirements of this section not later than 1 year after the date on which they were appointed. Any Council member who has completed a training course within 24 months before January 12, 2007, shall be considered to have met the training requirement of this paragraph.
+&emsp;Council members appointed after January 12, 2007, shall complete a training course that meets the requirements of this section not later than 1 year after the date on which they were appointed. Any Council member who has completed a training course within 24 monthsbefore January 12, 2007, shall be considered to have met the training requirement of this paragraph.
 
 #### (l) Council coordination committee
 
@@ -386,7 +386,7 @@ Pub. L. 109–479, §103(c)(2), redesignated par. (6) as (7).
 
 Subsec. (h)(8). Pub. L. 109–479, §103(d)(2), redesignated par. (7) as (8).
 
-Subsec. (i)(1). Pub. L. 109–479, §103(h)(1), substituted "to the Councils, the Council coordination committee established under subsection (l), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g)." for "to the Councils or to the scientific and statistical committeesor advisory panels established under subsection (g) of this section."
+Subsec. (i)(1). Pub. L. 109–479, §103(h)(1), substituted "to the Councils, the Council coordination committee established under subsection (l), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g)." for "to the Councils or to the scientific and statistical committees or advisory panels established under subsection (g) of this section."
 
 Subsec. (i)(2). Pub. L. 109–479, §103(h)(2), in introductory provisions, substituted "of a Council, of the Council coordination committee established under subsection (l), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):" for "of a Council, and of the scientific and statistical committee and advisory panels established under subsection (g) of this section:".
 
@@ -574,7 +574,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House ofRepresentatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Disclosure of Financial Interest by Incumbent Voting Members and Executive Directors
 

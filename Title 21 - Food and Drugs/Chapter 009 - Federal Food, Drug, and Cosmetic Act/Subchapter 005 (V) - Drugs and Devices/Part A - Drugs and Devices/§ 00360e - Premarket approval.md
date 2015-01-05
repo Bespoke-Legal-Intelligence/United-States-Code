@@ -74,7 +74,7 @@ A class III device—
 
 &emsp;(x) A statement that the applicant believes to the best of the applicant's knowledge that all data and information submitted to the Secretary are truthful and accurate and that no material fact has been omitted in the report.
 
-&emsp;(xi) Any additional data and information, including information of the type required in paragraph (1) for an application under such paragraph, that the Secretary determines is necessary to determine whether there is reasonable assurance of safety and effectiveness for the reprocessed device.
+&emsp;(xi) Any additional data and information, including information of the type required in paragraph (1) for an application under such paragraph, that the Secretary determines isnecessary to determine whether there is reasonable assurance of safety and effectiveness for the reprocessed device.
 
 &emsp;(xii) Validation data described in section 360(o)(1)(A) of this title that demonstrates that the reasonable assurance of the safety or effectiveness of the device will remain after the maximum number of times the device is reprocessed as intended by the person submitting such report.
 
@@ -116,9 +116,9 @@ A class III device—
 
 (ii) An order approving an application for a device may require as a condition to such approval that the sale and distribution of the device be restricted but only to the extent that the sale and distribution of a device may be restricted under a regulation under section 360j(e) of this title.
 
-(iii) The Secretary shall accept and review statistically valid and reliable data and any otherinformation from investigations conducted under the authority of regulations required by section 360j(g) of this title to make a determination of whether there is a reasonable assurance of safety and effectiveness of a device subject to a pending application under this section if—
+(iii) The Secretary shall accept and review statistically valid and reliable data and any other information from investigations conducted under the authority of regulations required by section 360j(g) of this title to make a determination of whether there is a reasonable assurance of safety and effectiveness of a device subject to a pending application under this section if—
 
-&emsp;(I) the data or information is derived from investigations of an earlier version of the device, the device has been modified during or after the investigations (but prior to submission of an application under subsection (c) of this section) and such a modification of the device does not constitute a significant change in the design or in the basic principles of operation of the device that would invalidate the data or information; or
+&emsp;(I) the data or information is derived from investigations of an earlier version of the device, the device has been modified during or after the investigations (but prior to submission of an application under subsection (c) of this section) and such a modification of the device does not constitute a significant changein the design or in the basic principles of operation of the device that would invalidate the data or information; or
 
 &emsp;(II) the data or information relates to a device approved under this section, is available for use under this chapter, and is relevant to the design and intended use of the device for which the application is pending.
 
@@ -172,7 +172,7 @@ A class III device—
 
 &emsp;(II) clinical data from the approved application and any supplement to the approved application provide a reasonable assurance of safety and effectiveness for the changed device.
 
-(ii) The Secretary may require, when necessary, additional clinical data to evaluate the design modification of the device to provide a reasonable assurance of safety and effectiveness.
+(ii) The Secretary may require, when necessary, additional clinical data to evaluate thedesign modification of the device to provide a reasonable assurance of safety and effectiveness.
 
 #### (e) Withdrawal and temporary suspension of approval of application
 
@@ -216,7 +216,7 @@ A class III device—
 
 &emsp;&emsp;(ii) a description of the preclinical trials (if any) of the device and a specification of (I) the results from such trials to be required before the commencement of clinical trials of the device, and (II) any permissible variations in preclinical trials and the results therefrom,
 
-&emsp;&emsp;(iii) a description of the clinical trials (if any) of the device and a specification of (I) the results from such trials to be required before the filing of a notice of completion of the requirements of the protocol, and (II) any permissible variations in such trials and the results therefrom,
+&emsp;&emsp;(iii) a description of the clinical trials (if any) of the device and a specification of (I) the results from such trials to be required before the filing of a notice of completion ofthe requirements of the protocol, and (II) any permissible variations in such trials and the results therefrom,
 
 &emsp;&emsp;(iv) a description of the methods to be used in, and the facilities and controls to be used for, the manufacture, processing, and, when relevant, packing and installation of the device,
 
@@ -266,7 +266,7 @@ A class III device—
 
 &emsp;(B) an order under subsection (f)(6)(A) of this section revoking an approved protocol, under subsection (f)(6)(B) of this section declaring that an approved protocol has not been completed, or under subsection (f)(7) of this section revoking the approval of a device,
 
-> the Secretary shall, unless he finds the petition to be without good cause or unless a petition for review of such order has been submitted under paragraph (2), hold a hearing, in accordance with section 554 of title 5, on the order. The panel or panels which considered the application, protocol, or device subject to such order shall designate a member to appear and testify at any such hearing upon request of the Secretary, the petitioner, or the officer conducting the hearing, but this requirement does not preclude any other member of the panel or panels from appearing and testifying at any such hearing. Upon completion of such hearing and after considering the record established in such hearing, the Secretary shall issue an order either affirming the order subject to the hearing or reversing such order and, as appropriate, approving or denying approval of the application, reinstating the application's approval, approving the protocol, or placing in effect a notice of completion.
+> the Secretary shall, unless he finds the petition to be without good cause or unless a petition for review of such order has been submitted under paragraph (2), hold a hearing, in accordance with section 554 of title 5, on the order. Thepanel or panels which considered the application, protocol, or device subject to such order shall designate a member to appear and testify at any such hearing upon request of the Secretary, the petitioner, or the officer conducting the hearing, but this requirement does not preclude any other member of the panel or panels from appearing and testifying at any such hearing. Upon completion of such hearing and after considering the record established in such hearing, the Secretary shall issue an order either affirming the order subject to the hearing or reversing such order and, as appropriate, approving or denying approval of the application, reinstating the application's approval, approving the protocol, or placing in effect a notice of completion.
 
 (2)(A) Upon petition for review of—
 
@@ -296,7 +296,7 @@ Orders of the Secretary under this section shall be served (1) in person by any 
 
 > revising the classification of the device so that the device is classified into class I or class II, unless the administrative order issued under this paragraph requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria set forth in section 360c(a) of this title.
 
-(3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the order requiring a device to remain in class III, establish a schedule for the issuance of an administrative order under subsection (b) for each device which is subject to the order requiring the device to remain in class III.
+(3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 monthsafter the effective date of the order requiring a device to remain in class III, establish a schedule for the issuance of an administrative order under subsection (b) for each device which is subject to the order requiring the device to remain in class III.
 
 (June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056.)
 

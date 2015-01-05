@@ -32,7 +32,7 @@ As used in this part—
 
 #### Termination Date of 2009 Amendment
 
-Pub. L. 111–5, div. A, title V, §508(f), Feb. 17, 2009, 123 Stat. 159, provided that: "The amendments made by this section \[amending this section and section 694b of this title\] shall remain in effect until September 30, 2010."
+Pub. L. 111–5, div. A, title V, §508(f), Feb. 17, 2009, 123 Stat. 159, provided that: "The amendments made by this section \[amending this section and section 694b ofthis title\] shall remain in effect until September 30, 2010."
 
 #### Technical Assistance in Connection with Construction Contracts; Authorization of Appropriations
 

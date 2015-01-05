@@ -40,7 +40,7 @@ Libraries.—A library (as that term is defined in section 213(1) of the Library
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "No wire or electronic communication service provider, or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section."
+<b>2006</b>—Subsec. (c). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "No wire or electronic communication service provider, or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section."
 
 Subsec. (c)(4). Pub. L. 109–178, §4(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance."
 
@@ -66,7 +66,7 @@ Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out "in a position not low
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–293 inserted "local and long distance" before "toll billing records".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–142, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "
+<b>1993</b>—Subsec. (b). Pub. L. 103–142, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: "
 
 Required Certification.—The Director of the Federal Bureau of Investigation (or an individual within the Federal Bureau of Investigation designated for this purpose by the Director) may request any such information and records if the Director (or the Director's designee) certifies in writing to the wire or electronic communication service provider to which the request is made that—
 

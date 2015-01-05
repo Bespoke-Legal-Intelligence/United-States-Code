@@ -8,7 +8,7 @@ The Secretary may not make a grant under this part unless—
 
 &emsp;(3) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
 
-(July 1, 1944, ch. 373, title XXVI, §2665, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 614; amended Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2665, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104Stat. 614; amended Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Amendments
 

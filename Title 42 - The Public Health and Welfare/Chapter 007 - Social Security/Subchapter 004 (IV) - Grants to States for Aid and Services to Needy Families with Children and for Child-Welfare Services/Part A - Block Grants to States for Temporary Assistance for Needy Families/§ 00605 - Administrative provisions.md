@@ -12,7 +12,7 @@ Not later than 3 months before the payment of any such quarterly installment to 
 
 #### (1) Computation
 
-&emsp;The Secretary shall estimate the amount to be paid to each eligible State for each quarter under this part, such estimate to be based on a report filed by the State containing an estimate by the State of the total sum to be expended by the State in the quarter under the State program funded under this part and such other information as the Secretary may find necessary.
+&emsp;The Secretary shall estimate the amount to be paid to each eligible State for each quarter under this part, such estimate to be based on a report filed by the State containing an estimate by the State of the total sum to be expended by the State in the quarter under theState program funded under this part and such other information as the Secretary may find necessary.
 
 #### (2) Certification
 
@@ -20,7 +20,7 @@ Not later than 3 months before the payment of any such quarterly installment to 
 
 #### (d) Payment method
 
-Upon receipt of a certification under subsection (c)(2) of this section with respect to aState, the Secretary of the Treasury shall, through the Fiscal Service of the Department of the Treasury and before audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
+Upon receipt of a certification under subsection (c)(2) of this section with respect to a State, the Secretary of the Treasury shall, through the Fiscal Service of the Department of the Treasury and before audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
 (Aug. 14, 1935, ch. 531, title IV, §405, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2128; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

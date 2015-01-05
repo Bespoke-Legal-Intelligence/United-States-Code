@@ -38,7 +38,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 A person described in subsection (a) of this section shall be subject to liability under this subsection to the trustee appointed under subsection (b) or (c) of section 1342 of this title. The liability of such person under this subsection shall consist of—
 
-&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the planyear in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
+&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
 
 &emsp;(2) the sum of the waiver amortization charge (within the meaning of section 1083(e)(1) of this title and 430(e)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of waiver amortization installments (if any) determined for succeeding plan years under section 1083(e)(2) of this title and section 430(e)(2) of title 26,
 
@@ -80,15 +80,175 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 #### (e) Treatment of substantial cessation of operations
 
-If an employer ceases operations at a facility in any location and, as a result of such cessation of operations, more than 20 percent of the total number of his employees who are participants under a plan established and maintained by him are separated from employment, the employer shall be treated with respect to that plan as if he were a substantial employer under a plan under which more than one employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
+#### (1) General rule
 
-(Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §108(b)(4), formerly §107(b)(4), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
+&emsp;Except as provided in paragraphs (3) and (4), if there is a substantial cessation of operations at a facility in any location, the employer shall be treated with respect to any single employer plan established and maintained by the employer covering participants at such facility as if the employer were a substantial employer under a plan under which more than one employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
+
+#### (2) Substantial cessation of operations
+
+&emsp;For purposes of this subsection:
+
+#### (A) In general
+
+&emsp;&emsp;The term "substantial cessation of operations" means a permanent cessation of operations at a facility which results in a workforce reduction of a number of eligible employees at the facility equivalent to more than 15 percent of the number of all eligible employees of the employer, determined immediately before the earlier of—
+
+&emsp;&emsp;&emsp;(i) the date of the employer's decision to implement such cessation, or
+
+&emsp;&emsp;&emsp;(ii) in the case of a workforce reduction which includes 1 or more eligible employees described in paragraph (6)(B), the earliest date on which any such eligible employee was separated from employment.
+
+#### (B) Workforce reduction
+
+&emsp;&emsp;Subject to subparagraphs (C) and (D), the term "workforce reduction" means the number of eligible employees at a facility who are separated from employment by reason of the permanent cessation of operations of the employer at the facility.
+
+#### (C) Relocation of workforce
+
+&emsp;&emsp;An eligible employee separated from employment at a facility shall not be taken into account in computing a workforce reduction if, within a reasonable period of time, the employee is replaced by the employer, at the same or another facility located in the United States, by an employee who is a citizen or resident of the United States.
+
+#### (D) Dispositions
+
+&emsp;&emsp;If, whether by reason of a sale or other disposition of the assets or stock of a contributing sponsor (or any member of the same controlled group as such a sponsor) of the plan relating to operations at a facility or otherwise, an employer (the "transferee employer") other than the employer which experiences the substantial cessation of operations (the "transferor employer") conducts any portion of such operations, then—
+
+&emsp;&emsp;&emsp;(i) an eligible employee separated from employment with the transferor employer at the facility shall not be taken into account in computing a workforce reduction if—
+
+&emsp;&emsp;&emsp;&emsp;(I) within a reasonable period of time, the employee is replaced by the transferee employer by an employee who is a citizen or resident of the United States; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an eligible employee who is a participant in a single employer plan maintained by the transferor employer, the transferee employer, within a reasonable period of time, maintains a single employer plan which includes the assets and liabilities attributable to the accrued benefit of the eligible employee at the time of separation from employment with the transferor employer; and
+
+&emsp;&emsp;&emsp;(ii) an eligible employee who continues to be employed at the facility by the transferee employer shall not be taken into account in computing a workforce reduction if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the eligible employee is not a participant in a single employer plan maintained by the transferor employer, or
+
+&emsp;&emsp;&emsp;&emsp;(II) in any other case, the transferee employer, within a reasonable period of time, maintains a single employer plan which includes the assets and liabilities attributable to the accrued benefit of the eligible employee at the time of separation from employment with the transferor employer.
+
+#### (3) Exemption for plans with limited underfunding
+
+&emsp;Paragraph (1) shall not apply with respect to a single employer plan if, for the plan year preceding the plan year in which the cessation occurred—
+
+&emsp;&emsp;(A) there were fewer than 100 participants with accrued benefits under the plan as of the valuation date of the plan for the plan year (as determined under section 1083(g)(2) of this title); or
+
+&emsp;&emsp;(B) the ratio of the market value of the assets of the plan to the funding target of theplan for the plan year was 90 percent or greater.
+
+#### (4) Election to make additional contributions to satisfy liability
+
+#### (A) In general
+
+&emsp;&emsp;An employer may elect to satisfy the employer's liability with respect to a plan by reason of paragraph (1) by making additional contributions to the plan in the amount determined under subparagraph (B) for each plan year in the 7-plan-year period beginning with the plan year in which the cessation occurred. Any such additional contribution for a plan year shall be in addition to any minimum required contribution under section 1083 of this title for such plan year and shall be paid not later than the earlier of—
+
+&emsp;&emsp;&emsp;(i) the due date for the minimum required contribution for such year under section 1083(j) of this title; or
+
+&emsp;&emsp;&emsp;(ii) in the case of the first such contribution, the date that is 1 year after the date on which the employer notifies the Corporation of the substantial cessation of operations or the date the Corporation determines a substantial cessation of operations has occurred, and in the case of subsequent contributions, the same date in each succeeding year.
+
+#### (B) Amount determined
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (iii), the amount determined under this subparagraph with respect to each plan year in the 7-plan-year period is the product of—
+
+&emsp;&emsp;&emsp;&emsp;(I) 1/7 of the unfunded vested benefits determined under section 1306(a)(3)(E) of this title as of the valuation date of the plan (as determined under section 1083(g)(2) of this title) for the plan year preceding the plan year in which the cessation occurred; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the reduction fraction.
+
+#### (ii) Reduction fraction
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the reduction fraction of a single employer plan is equal to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number of participants with accrued benefits in the plan who were included in computing the workforce reduction under paragraph (2)(B) as a result of the cessation of operations at the facility; divided by
+
+&emsp;&emsp;&emsp;&emsp;(II) the number of eligible employees of the employer who are participants with accrued benefits in the plan, determined as of the same date the determination under paragraph (2)(A) is made.
+
+#### (iii) Limitation
+
+&emsp;&emsp;&emsp;The additional contribution under this subparagraph for any plan year shall not exceed the excess, if any, of—
+
+&emsp;&emsp;&emsp;&emsp;(I) 25 percent of the difference between the market value of the assets of the plan and the funding target of the plan for the preceding plan year; over
+
+&emsp;&emsp;&emsp;&emsp;(II) the minimum required contribution under section 1083 of this title for the plan year.
+
+#### (C) Permitted cessation of annual installments when plan becomes sufficiently funded
+
+&emsp;&emsp;An employer's obligation to make additional contributions under this paragraph shall not apply to—
+
+&emsp;&emsp;&emsp;(i) the first plan year (beginning on or after the first day of the plan year in which the cessation occurs) for which the ratio of the market value of the assets of the plan to the funding target of the plan for the plan year is 90 percent or greater, or
+
+&emsp;&emsp;&emsp;(ii) any plan year following such first plan year.
+
+#### (D) Coordination with funding waivers
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If the Secretary of the Treasury issues a funding waiver under section 1082(c) of this title with respect to the plan for a plan year in the 7-plan-year period under subparagraph (A), the additional contribution with respect to such plan year shall be permanently waived.
+
+#### (ii) Notice
+
+&emsp;&emsp;&emsp;An employer maintaining a plan with respect to which such a funding waiver has been issued or a request for such a funding waiver is pending shall provide notice to the Secretary of the Treasury, in such form and at such time as the Secretary of the Treasury shall provide, of a cessation of operations to which paragraph (1) applies.
+
+#### (E) Enforcement
+
+#### (i) Notice
+
+&emsp;&emsp;&emsp;An employer making the election under this paragraph shall provide notice to the Corporation, in accordance with rules prescribed by the Corporation, of—
+
+&emsp;&emsp;&emsp;&emsp;(I) such election, not later than 30 days after the earlier of the date the employer notifies the Corporation of the substantial cessation of operations or the date the Corporation determines a substantial cessation of operations has occurred;
+
+&emsp;&emsp;&emsp;&emsp;(II) the payment of each additional contribution, not later than 10 days after such payment;
+
+&emsp;&emsp;&emsp;&emsp;(III) any failure to pay the additional contribution in the full amount for any year in the 7-plan-year period, not later than 10 days after the due date for such payment;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the waiver under subparagraph (D)(i) of the obligation to make an additional contribution for any year, not later than 30 days after the funding waiver described in such subparagraph is granted; and
+
+&emsp;&emsp;&emsp;&emsp;(V) the cessation of any obligation to make additional contributions under subparagraph (C), not later than 10 days after the due date for payment of the additional contribution for the first plan year to which such cessation applies.
+
+#### (ii) Acceleration of liability to the plan for failure to pay
+
+&emsp;&emsp;&emsp;If an employer fails to pay the additional contribution in the full amount for anyyear in the 7-plan-year period by the due date for such payment, the employer shall, as of such date, be liable to the plan in an amount equal to the balance which remains unpaid as of such date of the aggregate amount of additional contributions required to be paid by the employer during such 7-year-plan period. The Corporation may waive or settle the liability described in the preceding sentence, at the discretion of the Corporation.
+
+#### (iii) Civil action
+
+&emsp;&emsp;&emsp;The Corporation may bring a civil action in the district courts of the United States in accordance with section 1303(e) of this title to compel an employer making such election to pay the additional contributions required under this paragraph.
+
+#### (5) Definitions
+
+&emsp;For purposes of this subsection:
+
+#### (A) Eligible employee
+
+&emsp;&emsp;The term "eligible employee" means an employee who is eligible to participate in an employee pension benefit plan (as defined in section 1002(2) of this title) established and maintained by the employer.
+
+#### (B) Funding target
+
+&emsp;&emsp;The term "funding target" means, with respect to any plan year, the funding target as determined under section 1306(a)(3)(E)(iii)(I) of this title for purposes of determining the premium paid to the Corporation under section 1307 of this title for the plan year.
+
+#### (C) Market value
+
+&emsp;&emsp;The market value of the assets of a plan shall be determined in the same manner as for purposes of section 1306(a)(3)(E) of this title.
+
+#### (6) Special rules
+
+#### (A) Change in operation of certain facilities and property
+
+&emsp;&emsp;For purposes of paragraphs (1) and (2), an employer shall not be treated as ceasing operations at a qualified lodging facility (as defined in section 856(d)(9)(D) of title 26) if such operations are continued by an eligible independent contractor (as defined in section 856(d)(9)(A) of such title) pursuant to an agreement with the employer.
+
+#### (B) Aggregation of prior separations
+
+&emsp;&emsp;The workforce reduction under paragraph (2) with respect to any cessation of operations shall be determined by taking into account any separation from employment of any eligible employee at the facility (other than a separation which is not taken into account as workforce reduction by reason of subparagraph (C) or (D) of paragraph (2)) which—
+
+&emsp;&emsp;&emsp;(i) is related to the permanent cessation of operations of the employer at the facility, and
+
+&emsp;&emsp;&emsp;(ii) occurs during the 3-year period preceding such cessation.
+
+#### (C) No addition to prefunding balance
+
+&emsp;&emsp;For purposes of section 1083(f)(6)(B) of this title and section 430(f)(6)(B) of title 26, any additional contribution made under paragraph (4) shall be treated in the same manner as a contribution an employer is required to make in order to avoid a benefit reduction under paragraph (1), (2), or (4) of section 1056(g) of this title or subsection (b), (c), or (e) of section 436 of title 26 for the plan year.
+
+(Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §108(b)(4), formerly §107(b)(4), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; amended Pub. L. 113–235, div. P, §1(a), Dec. 16, 2014, 128 Stat. 2822.)
 
 #### Amendments
 
+<b>2014</b>—Subsec. (e). Pub. L. 113–235 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of substantial cessation of operations.
+
 <b>2006</b>—Subsec. (c)(1) to (3). Pub. L. 109–280 added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
-"(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions\(other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
+"(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
 
 "(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such date under section 1083 of this title or section 412(d) of title 26 (if any), and
 
@@ -102,7 +262,7 @@ Subsecs. (c)(1), (d)(2)(B). Pub. L. 101–239, §7891(a)(1), substituted "Intern
 
 Subsec. (d)(3). Pub. L. 101–239, §7881(f)(10)(B), amended Pub. L. 100–203, §9312(b)(2)(B)(ii), see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §9312(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) of this section shall consist of the sum of—
+<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §9312(b)(2)(A), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: "Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) of this section shall consist of the sum of—
 
 &emsp;"(i) the lesser of—
 
@@ -146,6 +306,18 @@ Subsec. (f). Pub. L. 99–272, §11011(a)(1), (b), redesignated former subsec. (
 
 <b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted "title 11" and "a debtor in a case under chapter 7 of such title" for "the Bankruptcy Act" and "the subject of a proceeding under that Act", respectively.
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–235, div. P, §1(b), Dec. 16, 2014, 128 Stat. 2826, provided that:
+
+"(1)
+
+In general.—The amendment made by this section \[amending this section\] shall apply to a cessation of operations or other event at a facility occurring on or after the date of enactment of this Act \[Dec. 16, 2014\].
+
+"(2)
+
+Transition rule.—An employer that had a cessation of operations before the date of enactment of this Act \[Dec. 16, 2014\] (as determined under subsection 4062(e) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1362(e)\] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final administrative determination that a substantial cessation of operations has occurred."
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
@@ -171,6 +343,10 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### Direction to the Pension Benefit Guaranty Corporation
+
+Pub. L. 113–235, div. P, §1(c), Dec. 16, 2014, 128 Stat. 2827, provided that: "The Pension Benefit Guaranty Corporation shall not take any enforcement, administrative, or other action pursuant to section 4062(e) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1362(e)\], or in connection with an agreement settling liability arising under such section, that is inconsistent with the amendment made by this section \[amending this section\], without regard to whether the action relates to a cessation or other event that occurs before, on, or after the date of the enactment of this Act \[Dec. 16, 2014\], unless such action is in connection with a settlement agreement that is in place beforeJune 1, 2014. The Pension Benefit Guaranty Corporation shall not initiate a new enforcement action with respect to section 4062(e) of such Act that is inconsistent with its enforcement policy in effect on June 1, 2014."
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

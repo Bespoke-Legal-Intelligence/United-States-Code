@@ -1,6 +1,6 @@
 ### §300hh–16. At-risk individuals
 
-The Secretary, acting through such employee of the Department of Health and Human Services as determined by the Secretary and designated publicly (which may, at the discretion of the Secretary, involve the appointment ordesignation of an individual as the Director of At-Risk Individuals), shall—
+The Secretary, acting through such employee of the Department of Health and Human Services as determined by the Secretary and designated publicly (which may, at the discretion of the Secretary, involve the appointment or designation of an individual as the Director of At-Risk Individuals), shall—
 
 &emsp;(1) monitor emerging issues and concerns as they relate to medical and public health preparedness and response for at-risk individuals in the event of a public health emergency declared by the Secretary under section 247d of this title;
 

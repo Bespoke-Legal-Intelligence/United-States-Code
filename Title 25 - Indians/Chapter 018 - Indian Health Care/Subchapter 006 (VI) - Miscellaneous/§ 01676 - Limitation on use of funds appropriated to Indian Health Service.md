@@ -2,7 +2,7 @@
 
 #### (a) HHS appropriations
 
-Any limitation on the use of funds contained in an Act providing appropriations for the Department of Health and Human Services for a period with respect to the performance of abortions shall apply for that period with respect tothe performance of abortions using funds contained in an Act providing appropriations for the Indian Health Service.
+Any limitation on the use of funds contained in an Act providing appropriations for the Department of Health and Human Services for a period with respect to the performance of abortions shall apply for that period with respect to the performance of abortions using funds contained in an Act providing appropriations for the Indian Health Service.
 
 #### (b) Limitations pursuant to other Federal law
 

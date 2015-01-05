@@ -30,7 +30,7 @@ Agreement Requirements.—An agreement under this section shall require the stud
 
 &emsp;&emsp;(B) as an employee in a United States maritime-related industry, profession, or marine science (as determined by the Secretary), if the Secretary determines that service under subparagraph (A) is not available to the individual;
 
-&emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
+&emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the NationalOceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
 
 &emsp;&emsp;(D) by a combination of the service alternatives referred to in subparagraphs (A)–(C); and
 
@@ -128,7 +128,7 @@ Subsec. (b). Pub. L. 110–417, §3503(3), inserted "before the start of each ac
 
 Pub. L. 110–417, §3503(1), (2), substituted "$8,000" for "$4,000" and inserted "tuition," after "uniforms,".
 
-Subsec. (c). Pub. L. 110–181, §3526(d), incorporated the substance of the amendments by Pub. L. 109–364, §3508, into this section by striking out "Midshipman and" before "Enlisted" in heading and "midshipman and" before "enlisted" in text and inserting "or the Coast Guard Reserve" after "Reserve)". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (c). Pub. L. 110–181, §3526(d), incorporated the substance of the amendments by Pub. L. 109–364, §3508, into this section by striking out "Midshipman and" before "Enlisted" in heading and "midshipman and" before "enlisted" in text and inserting "or the Coast Guard Reserve" after "Reserve)". See 2006 Amendmentnote below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendments by Pub. L. 109–163, §515(g)(2)(A), into this section by substituting "Navy Reserve" for "Naval Reserve" in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 

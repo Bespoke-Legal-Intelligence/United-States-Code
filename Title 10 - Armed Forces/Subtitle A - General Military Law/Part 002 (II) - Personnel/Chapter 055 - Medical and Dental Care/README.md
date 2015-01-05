@@ -21,6 +21,7 @@
 | [1074k.](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md) | Long-term care insurance. |
 | 1074<i>l.</i> | Notification to Congress of hospitalization of combat wounded members. |
 | [1074m.](%C2%A7%2001074m%20-%20Mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces%20deployed%20in%20support%20of%20a%20contingency%20operation.md) | Mental health assessments for members of the armed forces deployed in support of a contingency operation. |
+| [1074n.](%C2%A7%2001074n%20-%20Annual%20mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces.md) | Annual mental health assessments for members of the armed forces. |
 | \[1075. | Repealed.\] |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
@@ -35,6 +36,7 @@
 | [1079\.](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md) | Contracts for medical care for spouses and children: plans. |
 | [1079a.](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md) | CHAMPUS: treatment of refunds and other amounts collected. |
 | [1079b.](%C2%A7%2001079b%20-%20Procedures%20for%20charging%20fees%20for%20care%20provided%20to%20civilians%3B%20retention%20and%20use%20of%20fees%20collected.md) | Procedures for charging fees for care provided to civilians; retention and use of fees collected. |
+| [1079c.](%C2%A7%2001079c%20-%20Provisional%20coverage%20for%20emerging%20services%20and%20supplies.md) | Provisional coverage for emerging services and supplies. |
 | [1080\.](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md) | Contracts for medical care for spouses and children: election of facilities. |
 | [1081\.](%C2%A7%2001081%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20review%20and%20adjustment%20of%20payments.md) | Contracts for medical care for spouses and children: review and adjustment of payments. |
 | [1082\.](%C2%A7%2001082%20-%20Contracts%20for%20health%20care%20advisory%20committees.md) | Contracts for health care: advisory committees. |
@@ -67,6 +69,7 @@
 | [1097a.](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md) | TRICARE Prime: automatic enrollments; payment options. |
 | [1097b.](%C2%A7%2001097b%20-%20TRICARE%20program%20financial%20management.md) | TRICARE program: financial management. |
 | [1097c.](%C2%A7%2001097c%20-%20TRICARE%20program%20relationship%20with%20employer-sponsored%20group%20health%20plans.md) | TRICARE program: relationship with employer-sponsored group health plans. |
+| [1097d.](%C2%A7%2001097d%20-%20TRICARE%20program%20notice%20of%20change%20to%20benefits.md) | TRICARE program: notice of change to benefits. |
 | [1098\.](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md) | Incentives for participation in cost-effective health care plans. |
 | [1099\.](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md) | Health care enrollment system. |
 | [1100\.](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md) | Defense Health Program Account. |
@@ -87,6 +90,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title VII, §§701(a)(2), 704(b), 711(b), Dec. 19, 2014, 128 Stat. 3408, 3413, 3414, added items 1074n, 1079c, and 1097d.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title VII, §§702(a)(2), 704(b), 711(a)(2), Dec. 31, 2011, 125 Stat. 1471, 1473, 1476, added items 1074m, 1078b, and 1090a.
 
@@ -186,6 +191,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01074k - Long-term care insurance](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md)
 - [&sect; 01074l - Notification to Congress of hospitalization of combat wounded members](%C2%A7%2001074l%20-%20Notification%20to%20Congress%20of%20hospitalization%20of%20combat%20wounded%20members.md)
 - [&sect; 01074m - Mental health assessments for members of the armed forces deployed in support of a contingency operation](%C2%A7%2001074m%20-%20Mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces%20deployed%20in%20support%20of%20a%20contingency%20operation.md)
+- [&sect; 01074n - Annual mental health assessments for members of the armed forces](%C2%A7%2001074n%20-%20Annual%20mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces.md)
 - [&sect; 01075 - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;607(a)(1), Oct. 28, 2004, 118 Stat. 1946](%C2%A7%2001075%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7607%28a%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201946.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
@@ -200,6 +206,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01079 - Contracts for medical care for spouses and children plans](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md)
 - [&sect; 01079a - CHAMPUS treatment of refunds and other amounts collected](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md)
 - [&sect; 01079b - Procedures for charging fees for care provided to civilians; retention and use of fees collected](%C2%A7%2001079b%20-%20Procedures%20for%20charging%20fees%20for%20care%20provided%20to%20civilians%3B%20retention%20and%20use%20of%20fees%20collected.md)
+- [&sect; 01079c - Provisional coverage for emerging services and supplies](%C2%A7%2001079c%20-%20Provisional%20coverage%20for%20emerging%20services%20and%20supplies.md)
 - [&sect; 01080 - Contracts for medical care for spouses and children election of facilities](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md)
 - [&sect; 01081 - Contracts for medical care for spouses and children review and adjustment of payments](%C2%A7%2001081%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20review%20and%20adjustment%20of%20payments.md)
 - [&sect; 01082 - Contracts for health care advisory committees](%C2%A7%2001082%20-%20Contracts%20for%20health%20care%20advisory%20committees.md)
@@ -232,6 +239,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01097a - TRICARE Prime automatic enrollments; payment options](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md)
 - [&sect; 01097b - TRICARE program financial management](%C2%A7%2001097b%20-%20TRICARE%20program%20financial%20management.md)
 - [&sect; 01097c - TRICARE program relationship with employer-sponsored group health plans](%C2%A7%2001097c%20-%20TRICARE%20program%20relationship%20with%20employer-sponsored%20group%20health%20plans.md)
+- [&sect; 01097d - TRICARE program notice of change to benefits](%C2%A7%2001097d%20-%20TRICARE%20program%20notice%20of%20change%20to%20benefits.md)
 - [&sect; 01098 - Incentives for participation in cost-effective health care plans](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md)
 - [&sect; 01099 - Health care enrollment system](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md)
 - [&sect; 01100 - Defense Health Program Account](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md)

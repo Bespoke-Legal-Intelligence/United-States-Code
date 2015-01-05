@@ -36,7 +36,7 @@ The word "regular" is deleted \[in sections 9335 and 9336\] to make clear that a
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted ", except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person's academic field" after "Secretary of the Air Force".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §529(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy."
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §529(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Dean of the Faculty shall be appointed as an additional permanent professor from thepermanent professors who have served as heads of departments of instruction at the Academy."
 
 Subsec. (b). Pub. L. 108–136, §529(b), in first sentence, substituted "on active duty" for "of the Air Force" and inserted "(or the equivalent)" after "brigadier general" in two places and, in last sentence, inserted "applicable" before "limitation" and struck out "of the Air Force" after "general officers".
 

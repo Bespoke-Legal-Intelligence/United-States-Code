@@ -20,7 +20,7 @@
 
 (c)(1) Except in any case to which subsection (b) of this section applies, if an agency involved in collective bargaining with an exclusive representative alleges that the duty to bargain in good faith does not extend to any matter, the exclusive representative may appeal the allegation to the Authority in accordance with the provisions of this subsection.
 
-(2) The exclusive representative may, on or before the 15th day after the date on which theagency first makes the allegation referred to in paragraph (1) of this subsection, institute an appeal under this subsection by—
+(2) The exclusive representative may, on or before the 15th day after the date on which the agency first makes the allegation referred to in paragraph (1) of this subsection, institute an appeal under this subsection by—
 
 &emsp;(A) filing a petition with the Authority; and
 
@@ -36,7 +36,7 @@
 
 &emsp;(B) furnish a copy of such statement to the exclusive representative.
 
-(4) On or before the 15th day after the date of the receipt by the exclusive representative of a copy of a statement under paragraph (3)(B) of this subsection, the exclusive representative shall file with the Authority its response to the statement.
+(4) On or before the 15th day after the date of the receipt by the exclusive representative of a copy of a statement under paragraph (3)(B) of this subsection, the exclusive representativeshall file with the Authority its response to the statement.
 
 (5) A hearing may be held, in the discretion of the Authority, before a determination is made under this subsection. If a hearing is held, it shall not include the General Counsel as a party.
 

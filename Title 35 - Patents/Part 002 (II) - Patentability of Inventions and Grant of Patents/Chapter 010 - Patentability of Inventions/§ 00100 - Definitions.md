@@ -100,7 +100,7 @@ In general.—Except as otherwise provided in this section \[amending this secti
 
 "(2)
 
-Interfering patents.—The provisions of sections 102(g), 135, and 291 of title 35, United States Code, as in effect on the day before the effective date set forth in paragraph (1) of this subsection, shall apply to each claim of an application for patent, and any patent issued thereon, for which the amendments made by this section also apply, if such application or patent contains or contained at any time—
+Interfering patents.—The provisions of sections 102(g), 135, and 291 of title 35, United States Code, as in effect on the day before the effective date set forth in paragraph (1) of this subsection, shall apply to each claim of an application for patent, and any patentissued thereon, for which the amendments made by this section also apply, if such application or patent contains or contained at any time—
 
 &emsp;"(A) a claim to an invention having an effective filing date as defined in section 100(i) of title 35, United States Code, that occurs before the effective date set forth in paragraph (1) of this subsection; or
 

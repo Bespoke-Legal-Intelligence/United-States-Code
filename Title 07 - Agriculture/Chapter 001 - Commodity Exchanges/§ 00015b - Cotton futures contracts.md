@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (2) Determination
 
-&emsp;In determining, pursuant to the provisions of this section, what markets are bona fide spot markets, the Secretary is directed to consider only markets in which spot cotton is sold in such volume and under such conditions as customarily to reflect accurately the value of middling cotton and the differences between the prices or values of middling cotton and of other grades of cotton for which standards shall have been established by the Secretary; except that if there are not sufficient places, in the markets of which are made bona fide sales of spot cotton of grades for which standards are established by the Secretary, to enable him to designate at least five spot markets in accordance with subsection (f)(3) of this section, he shall, from data as to spot sales collected by him, make rules and regulations for determining the actual commercial differences in the value of spot cotton of the grades established by him as reflected by bona fide sales of spot cotton, of the same or different grades, in the market selected and designated by him, from time to time, for that purpose, and in that event differences in value of cotton of various grades involved in contracts made pursuant to subsection (f)(1) and (2) of this section shall be determined in compliance with such rules and regulations. It shall be the duty of any person engaged in the business of dealing in cotton, when requested by the Secretary or any agent acting under his instructions, to answer correctly to the best of his knowledge, under oath or otherwise, all questions touching his knowledge of the number of bales, the classification, the price or bona fide price offered, and other terms of purchase or sale, of any cotton involved in any transaction participated in by him, or to produce all books, letters, papers, or documents in his possession or under his control relating to such matter. A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.
+&emsp;In determining, pursuant to the provisions of this section, what markets are bona fide spot markets, the Secretary is directed to consider only markets in which spot cotton is sold in such volume and under such conditions as customarily to reflect accurately the value of middling cotton and the differences between the prices or values of middling cotton and of other grades of cotton for which standards shall have been established by the Secretary; except that if there are not sufficient places, in the markets of which are made bona fide sales of spot cotton of grades for which standards are established by the Secretary, to enable him to designate at least five spot markets in accordance with subsection (f)(3), he shall, from data as to spot sales collected by him, make rules and regulations for determining the actual commercial differences in the value of spot cotton of the grades established by him as reflected by bona fide sales of spot cotton, of the same or different grades, in the market selected and designated by him, from time to time, for that purpose, and in that event differences in value of cotton of various grades involved in contracts made pursuant to subsection (f)(1) and (2) shall be determined in compliance with such rules and regulations. It shall be the duty of any person engaged in the business of dealing in cotton, when requested by the Secretary or any agent acting under his instructions, to answer correctly to the best of his knowledge, under oath or otherwise, all questions touching his knowledge of the number of bales, the classification, the price or bona fide price offered, and other terms of purchase or sale, of any cotton involved in any transaction participated in by him, or to produce all books, letters, papers, or documents in his possession or under his control relating to such matter. A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.
 
 #### (3) Withholding information
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (e) Form and validity of cotton futures contracts
 
-Each cotton futures contract shall be a basis grade contract, or a tendered grade contract, or a specific grade contract as specified in subsections (f), (g), or (h) of this section and shall be in writing plainly stating, or evidenced by written memorandum showing, the terms of such contract, including the quantity of the cotton involved and the names and addresses of the seller and buyer in such contract, and shall be signed by the party to be charged, or by his agent in his behalf. No cotton futures contract which does not conform to such requirements shall be enforceable by, or on behalf of, any party to such contract or his privies.
+Each cotton futures contract shall be a basis grade contract, or a tendered grade contract, or a specific grade contract as specified in subsections (f), (g), or (h) and shall be in writing plainly stating, or evidenced by written memorandum showing, the terms of such contract, including the quantity of the cotton involved and the names and addresses of the seller and buyer in such contract, and shall be signed by the party to be charged, or by his agent in his behalf. No cotton futures contract which does not conform to such requirements shall be enforceable by, or on behalf of, any party to such contract or his privies.
 
 #### (f) Basis grade contracts
 
@@ -62,7 +62,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (B) Specification of grade, price, and dates of sale and settlement
 
-&emsp;&emsp;Specify the basis grade for the cotton involved in the contract, which shall be one of the grades for which standards are established by the Secretary, except grades prohibited from being delivered on a contract made under this subsection by subparagraph (E), the price per pound at which the cotton of such basis grade is contracted to be bought or sold, the date when the purchase or sale was made, and the month or months in which the contract is to be fulfilled or settled; except that middling shall be deemed the basis grade incorporated into the contract if no other basis grade be specified either in the contract or in the memorandum evidencing the same.
+&emsp;&emsp;Specify the basis grade for the cotton involved in the contract, which shall be one of the grades for which standards are established by the Secretary, except grades prohibited from being delivered on a contractmade under this subsection by subparagraph (E), the price per pound at which the cotton of such basis grade is contracted to be bought or sold, the date when the purchase or sale was made, and the month or months in which the contract is to be fulfilled or settled; except that middling shall be deemed the basis grade incorporated into the contract if no other basis grade be specified either in the contract or in the memorandum evidencing the same.
 
 #### (C) Provision for delivery of standard grades only
 
@@ -90,7 +90,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (3) Delivery allowances
 
-&emsp;For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic <sup>1</sup> grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cotton established by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of another grade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
+&emsp;For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic <sup>1</sup> grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cotton established by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of anothergrade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
 
 #### (g) Tendered grade contracts
 
@@ -100,7 +100,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (A) Compliance with subsection (f)
 
-&emsp;&emsp;Comply with all the terms and conditions of subsection (f) of this section not inconsistent with this subsection; and
+&emsp;&emsp;Comply with all the terms and conditions of subsection (f) not inconsistent with this subsection; and
 
 #### (B) Provision for contingent specific performance
 
@@ -142,7 +142,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (3) Application of subsection
 
-&emsp;This subsection shall not be construed to apply to any contract of sale made in compliance with subsection (f) or (g) of this section.
+&emsp;This subsection shall not be construed to apply to any contract of sale made in compliance with subsection (f) or (g).
 
 #### (i) Liability of principal for acts of agent
 
@@ -154,11 +154,11 @@ The Secretary is authorized to make such regulations with the force and effect o
 
 #### (k) Violations
 
-Any person who knowingly violates any regulation made in pursuance of this section, shall, upon conviction thereof, be fined not less than $100 nor more than $500, for each violation thereof, in the discretion of the court, and, in case of natural persons, may, in addition be punished by imprisonment for not less than 30 days nor morethan 90 days, for each violation, in the discretion of the court except that this subsection shall not apply to violations subject to subsection (d)(3) of this section.
+Any person who knowingly violates any regulation made in pursuance of this section, shall, upon conviction thereof, be fined not less than $100 nor more than $500, for each violation thereof, in the discretion of the court, and, in case of natural persons, may, in addition be punished by imprisonment for not less than 30 days nor more than 90 days, for each violation, in the discretion of the court except that this subsection shall not apply to violations subject to subsection (d)(3).
 
 #### (l) Applicability to contracts prior to effective date
 
-The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
+The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior tosuch effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
 
 #### (m) Authorization
 

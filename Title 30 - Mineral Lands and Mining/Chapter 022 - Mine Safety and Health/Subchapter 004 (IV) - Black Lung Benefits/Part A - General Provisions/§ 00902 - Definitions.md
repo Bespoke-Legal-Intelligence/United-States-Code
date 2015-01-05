@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 (a) The term "dependent" means—
 
-&emsp;(1) a child as defined in subsection (g) of this section without regard to subparagraph (2)(B)(ii) thereof; or
+&emsp;(1) a child as defined in subsection (g) without regard to subparagraph (2)(B)(ii) thereof; or
 
 &emsp;(2) a wife who is a member of the same household as the miner, or is receiving regular contributions from the miner for her support, or whose husband is a miner who has been ordered by a court to contribute to her support, or who meets the requirements of section 416(b)(1) or (2) of title 42. The determination of an individual's status as the "wife" of a miner shall be made in accordance with section 416(h)(1) of title 42 as if such miner were the "insured individual" referred to therein. The term "wife" also includes a "divorced wife" as defined in section 416(d)(1) of title 42 who is receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary, from the miner, or is receiving substantial contributions from the miner (pursuant to a written agreement), or there is in effect a court order for substantial contributions to her support from such miner.
 
@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 &emsp;(A) in the case of a living miner, such regulations shall provide that a miner shall be considered totally disabled when pneumoconiosis prevents him or her from engaging in gainful employment requiring the skills and abilities comparable to those of any employment in a mine or mines in which he or she previously engaged with some regularity and over a substantial period of time;
 
-&emsp;(B) such regulations shall provide that (i) a deceased miner's employment in a mine at the time of death shall not be used as conclusiveevidence that the miner was not totally disabled; and (ii) in the case of a living miner, if there are changed circumstances of employment indicative of reduced ability to perform his or her usual coal mine work, such miner's employment in a mine shall not be used as conclusive evidence that the miner is not totally disabled;
+&emsp;(B) such regulations shall provide that (i) a deceased miner's employment in a mine at the time of death shall not be used as conclusive evidence that the miner was not totally disabled; and (ii) in the case of a living miner, if there are changed circumstances of employment indicative of reduced ability to perform his or her usual coal mine work, such miner's employment in a mine shall not be used as conclusive evidence that the miner is not totally disabled;
 
 &emsp;(C) such regulations shall not provide more restrictive criteria than those applicable under section 423(d) of title 42; and
 
@@ -34,7 +34,7 @@ For purposes of this subchapter—
 
 &emsp;(C) any claim filed on or before the effective date of regulations promulgated under this subsection by the Secretary of Labor;
 
-> shall not be more restrictive than the criteria applicable to a claim filed on June 30, 1973, whether or not the final disposition of any such claim occurs after the date of such promulgation of regulations by the Secretary of Labor.
+> shall not be more restrictive than the criteria applicable to a claim filed on June 30, 1973, whether or not the final disposition of any suchclaim occurs after the date of such promulgation of regulations by the Secretary of Labor.
 
 (g) The term "child" means a child or a step-child who is—
 
@@ -90,7 +90,7 @@ Subsec. (i). Pub. L. 97–119, §205(b), added subsec. (i).
 
 Subsec. (d). Pub. L. 95–239, §2(b), substituted "any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal" for "any individual who is or was employed in a coal mine" and inserted provisions that extended to definition of the term "miner" so as to include also an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent that such individual was exposed to coal dust as a result of such employment.
 
-Subsec. (f). Pub. L. 95–239, §2(c), designated existing provisions as pars. (1)(A) and (1)(C), inserted references in the provisions preceding par. (1)(A) to regulationspromulgated by the Secretary of Labor for claims under part C of this subchapter and to the relevant provisions of subsecs. (b) and (d) of section 923 of this title, and added pars. (1)(B), (1)(D), and (2).
+Subsec. (f). Pub. L. 95–239, §2(c), designated existing provisions as pars. (1)(A) and (1)(C), inserted references in the provisions preceding par. (1)(A) to regulations promulgated by the Secretary of Labor for claims under part C of this subchapter and to the relevant provisions of subsecs. (b) and (d) of section 923 of this title, and added pars. (1)(B), (1)(D), and (2).
 
 Subsec. (h). Pub. L. 95–239, §2(d), added subsec. (h).
 
@@ -114,7 +114,7 @@ Pub. L. 107–275, §4, Nov. 2, 2002, 116 Stat. 1928, provided that: "This Act \
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1981 Amendment
 

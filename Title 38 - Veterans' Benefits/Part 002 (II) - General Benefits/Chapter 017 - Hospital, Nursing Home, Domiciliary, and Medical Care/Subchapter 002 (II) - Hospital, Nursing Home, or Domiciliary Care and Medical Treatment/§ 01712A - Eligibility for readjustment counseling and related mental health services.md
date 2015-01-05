@@ -58,7 +58,7 @@
 
 (f) The Secretary, in cooperation with the Secretary of Defense, shall take such action as the Secretary considers appropriate to notify veterans who may be eligible for assistance under this section of such potential eligibility.
 
-(g) In carrying out this section and in furtherance of the Secretary's responsibility to carry out outreach activities under chapter 63 of this title, the Secretary may provide for and facilitate the participation of personnel employed by the Secretary to provide services under this section in recreational programs that are—
+(g) In carrying out this section and in furtherance of the Secretary's responsibility to carryout outreach activities under chapter 63 of this title, the Secretary may provide for and facilitate the participation of personnel employed by the Secretary to provide services under this section in recreational programs that are—
 
 &emsp;(1) designed to encourage the readjustment of veterans described in subsection (a)(1)(C); and
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(B) lives with the veteran or member but is not a member of the family of the veteran or member.
 
-(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX,§§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, §1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, §901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, §402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, §727, Jan. 2, 2013, 126 Stat. 1809.)
+(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, §1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, §901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, §402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, §727, Jan. 2, 2013, 126 Stat. 1809.)
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Subsec. (g)(1). Pub. L. 98–160, §101(b)(1), substituted "September 30, 1988" 
 
 Subsec. (g)(1)(A). Pub. L. 98–160, §101(b)(1), substituted "October 1, 1988" for "October 1, 1984".
 
-Subsec. (g)(2). Pub. L. 98–160, §101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting "Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the Administrator's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental healthservices provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans' Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder" for "Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection", and adding subpar. (B).
+Subsec. (g)(2). Pub. L. 98–160, §101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting "Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the Administrator's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans' Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder" for "Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection", and adding subpar. (B).
 
 Subsec. (g)(3). Pub. L. 98–160, §101(b)(2), added par. (3).
 
@@ -432,7 +432,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 #### Pilot Program on Counseling in Retreat Settings for Women Veterans Newly Separated From Service
 
-Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, provided that:
+Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept. 26, 2014, 128 Stat. 1902, provided that:
 
 "(a)
 
@@ -468,7 +468,7 @@ Locations.—The Secretary shall carry out the pilot program at not fewer than t
 
 "(d)
 
-Duration.—The pilot program shall be carried out during the 2-year period beginning on the date of the commencement of the pilot program.
+Termination.—The authority to carry out a pilot program under this section shall terminate on December 31, 2015.
 
 "(e)
 
@@ -476,7 +476,7 @@ Report.—Not later than 180 days after the completion of the pilot program, the
 
 "(f)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010 and 2011, $2,000,000 to carry out the pilot program."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010, 2011, and 2015, $2,000,000 to carry out the pilot program."
 
 #### Program on Readjustment and Mental Health Care Services for Veterans Who Served in Operation Enduring Freedom and Operation Iraqi Freedom
 
@@ -692,7 +692,7 @@ Elements.—The strategy implemented under paragraph (1) shall assess the impact
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'community mental health center' has the meaning given such term in section 410.2 oftitle 42, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act \[Oct. 10, 2008\]).
+&emsp;"(1) The term 'community mental health center' has the meaning given such term in section 410.2 of title 42, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act \[Oct. 10, 2008\]).
 
 &emsp;"(2) The term 'eligible veteran' means a veteran in need of mental health services who—
 
@@ -928,7 +928,7 @@ Additional Outreach Workers.—The Secretary of Veterans Affairs shall employ no
 
 "(b)
 
-Construction With Current Outreach Program.—The veterans employed under subsection (a) are in addition to any veterans employed by the Secretary for the purpose described in that subsection under the February 2004 program of the Department of Veterans Affairs to provide outreach described in that subsection.
+Construction With Current Outreach Program.—The veterans employed under subsection (a) arein addition to any veterans employed by the Secretary for the purpose described in that subsection under the February 2004 program of the Department of Veterans Affairs to provide outreach described in that subsection.
 
 "(c)
 
@@ -968,7 +968,7 @@ Information To Be Included.—The study conducted pursuant to this section shall
 
 "(d)
 
-Report.—The Secretary shall submit to the Committees on Veterans' Affairs of the Senate andHouse of Representatives a report on the results of the study under this section. The report shall be submitted no later than October 1, 2004."
+Report.—The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the results of the study under this section. The report shall be submitted no later than October 1, 2004."
 
 #### Specialized Mental Health Services
 
@@ -1180,7 +1180,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 "(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department to provide diagnostic and treatment services for PTSD to veterans eligible for health care furnished by the Department.
 
-"(3) The Special Committee shall also advise the Under Secretary for Health regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment of PTSD (A) in designated PTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department.
+"(3) The Special Committee shall also advise the Under Secretary for Health regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment ofPTSD (A) in designated PTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department.
 
 "(4) The Special Committee shall also make recommendations to the Under Secretary for Health for guidance with respect to PTSD regarding—
 
@@ -1206,7 +1206,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 &emsp;"(A) A list of the members of the Special Committee.
 
-&emsp;"(B) A list of all designated PTSD programs and other programs providing treatment for PTSD, together with a description of the resources that have been allocated for the development and operation of each such program, a description of the education and training that has been provided for Department health-care personnel in such programs and elsewhere within the Department in the diagnosis and treatment of PTSD, and specification of the funding thathas been allocated to each such program and elsewhere within the Department to support research relating to PTSD.
+&emsp;"(B) A list of all designated PTSD programs and other programs providing treatment for PTSD, together with a description of the resources that have been allocated for the development and operation of each such program, a description of the education and training that has been provided for Department health-care personnel in such programs and elsewhere within the Department in the diagnosis and treatment of PTSD, and specification of the funding that has been allocated to each such program and elsewhere within the Department to support research relating to PTSD.
 
 &emsp;"(C) The assessment of the Under Secretary for Health of the Department, after consultation with the Special Committee, regarding the capability of the Department to meet the needs for inpatient and outpatient PTSD diagnosis and treatment (both through designated PTSD programs and otherwise) of veterans who served in the Republic of Vietnam during the Vietnam era, former prisoners of war, and other veterans eligible for health care from the Department and the efficacy of the treatment so provided, as well as a description of the results of any evaluations that have been made of PTSD treatment programs.
 

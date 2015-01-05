@@ -18,7 +18,7 @@ Availability; eligible persons.—The Secretary concerned may pay a proficiency 
 
 &emsp;&emsp;(A) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title or is enrolled in an officer training program; and
 
-&emsp;&emsp;(B) is determined to have, and maintains, certified proficiency under subsection (d) ina skill designated as critical by the Secretary concerned or is in training to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical by the Secretary concerned.
+&emsp;&emsp;(B) is determined to have, and maintains, certified proficiency under subsection (d) in a skill designated as critical by the Secretary concerned or is in training to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical by the Secretary concerned.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Availability of incentive pay.—The Secretary concerned may pay incentive pay t
 
 &emsp;(2)
 
-Inclusion of certain senior rotc members.—Incentive pay may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers' Training Corps program even though the student is in the first year of the four-year course under the program. While the student receives the incentive pay, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives a proficiency bonus under subsection (b)(2) covering the same month, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
+Inclusion of certain senior rotc members.—Incentive pay may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers' Training Corps program even though the student is in the first year of the four-year course under the program. While the student receives the incentive pay, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section2103a of title 10. However, if the student receives a proficiency bonus under subsection (b)(2) covering the same month, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
 
 &emsp;(3)
 
@@ -88,19 +88,21 @@ Repayment.—A member who receives skill incentive pay or a proficiency bonus un
 
 (h)
 
-Relationship to Other Pays and Allowances.—A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the memberis entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
+Relationship to Other Pays and Allowances.—A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2014.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2015.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(8), Dec. 26, 2013, 127 Stat. 781.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(8), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(9), Dec. 19, 2014, 128 Stat. 3401.)
 
 #### References in Text
 
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, §618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 
 <b>2013</b>—Subsec. (i). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 

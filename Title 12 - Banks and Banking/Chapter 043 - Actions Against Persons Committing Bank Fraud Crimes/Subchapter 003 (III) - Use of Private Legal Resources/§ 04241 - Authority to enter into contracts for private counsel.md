@@ -6,7 +6,7 @@ The Attorney General may enter into contracts retaining private counsel to furni
 
 #### (b) Terms and conditions
 
-Each contract under subsection (a) of this section shall include the provisions described insection 4244 of this title and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
+Each contract under subsection (a) of this section shall include the provisions described in section 4244 of this title and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
 
 #### (c) Limitation of fee
 

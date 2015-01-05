@@ -26,7 +26,7 @@ The Advisory Council shall make an annual report of its findings and recommendat
 
 #### (d) Compensation and travel expenses
 
-(1) Members of the Council who are not regular officers or employees of the United States Government shall, while serving on business of the Council, be entitled to receive compensation at rates fixed by the Secretary of Energy but not exceeding the daily rate prescribed for GS-18 of the General Schedule under section 5332 of title 5 and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+(1) Members of the Council who are not regular officers or employees of the United States Government shall, while serving on business of the Council, be entitled to receive compensationat rates fixed by the Secretary of Energy but not exceeding the daily rate prescribed for GS-18 of the General Schedule under section 5332 of title 5 and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 (2) Members of the Council who are officers or employees of the Government shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties on the Council.
 
@@ -50,7 +50,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its durationis otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

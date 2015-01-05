@@ -28,7 +28,7 @@
 
 (c)(1) The Secretary may not provide hospital care or medical services to a veteran under paragraph (2) or (3) of section 1710(a) of this title unless the veteran enrolls in the system of patient enrollment established by the Secretary under subsection (a).
 
-(2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in thesystem of patient enrollment referred to in subsection (a) of this section.
+(2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
 
 (Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, §202(a), Jan. 23, 2002, 115 Stat. 2457; Pub. L. 107–330, title III, §308(g)(4), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 111–163, title V, §512, May 5, 2010, 124 Stat. 1164.)
 

@@ -14,7 +14,7 @@ The Corporation is hereby authorized to do the following:
 
 &emsp;(D) loss due to business interruption caused by any of the risks set forth in subparagraphs (A), (B), and (C).
 
-(2) Recognizing that major private investments in less developed friendly countries or areas are often made by enterprises in which there is multinational participation, including significant United States private participation, the Corporation may make arrangements with foreign governments (including agencies, instrumentalities, or political subdivisions thereof) or with multilateral organizations and institutions for sharing liabilities assumed under investment insurance for such investments and may in connection therewith issue insurance to investors not otherwise eligible hereunder, except that liabilities assumed by the Corporation under the authority of this subsection shall be consistent with the purposes of this subpart and that the maximum share of liabilities so assumed shall not exceed the proportionate participation by eligible investors in the project.
+(2) Recognizing that major private investments in less developed friendly countries or areas are often made by enterprises in which there is multinational participation, including significant United States private participation, the Corporation may make arrangements withforeign governments (including agencies, instrumentalities, or political subdivisions thereof) or with multilateral organizations and institutions for sharing liabilities assumed under investment insurance for such investments and may in connection therewith issue insurance to investors not otherwise eligible hereunder, except that liabilities assumed by the Corporation under the authority of this subsection shall be consistent with the purposes of this subpart and that the maximum share of liabilities so assumed shall not exceed the proportionate participation by eligible investors in the project.
 
 (3) Not more than 10 per centum of the maximum contingent liability of investment insurance which the Corporation is permitted to have outstanding under section 2195(a)(1) <sup>1</sup> of this title shall be issued to a single investor.
 
@@ -52,7 +52,7 @@ To administer and manage special projects and programs, including programs of fi
 
 (3) To hold an ownership interest in any association or other entity established for the purposes of sharing risks under investment insurance.
 
-(4) To issue, upon such terms and conditions as it may determine, reinsurance of liabilities assumed by other insurers or groups thereof in respect of risks referred to in subsection (a)(1) of this section.
+(4) To issue, upon such terms and conditions as it may determine, reinsurance of liabilities assumed by other insurers or groups thereof in respect of risks referred to in subsection (a)(1).
 
 > The amount of reinsurance of liabilities under this subpart which the Corporation may issue shall not in the aggregate exceed at any one time an amount equal to the amount authorized for the maximum contingent liability outstanding at any one time under section 2195(a)(1) <sup>1</sup> of this title. All reinsurance issued by the Corporation under this subsection shall require that the reinsured party retain for his own account specified portions of liability, whether first loss or otherwise.
 
@@ -64,7 +64,7 @@ To administer and manage special projects and programs, including programs of fi
 
 &emsp;&emsp;(A) the aggregate amount of the Corporation's equity investment with respect to any project shall not exceed 30 percent of the aggregate amount of all equity investment made with respect to such project at the time that the Corporation's equity investment is made, except for securities acquired through the enforcement of any lien, pledge, or contractual arrangement as a result of a default by any party under any agreement relating to the terms of the Corporation's investment; and
 
-&emsp;&emsp;(B) the Corporation's equity investment under this subsection with respect to any project, when added to any other investments made or guaranteed by the Corporation under subsection (b) or (c) of this section with respect to such project, shall not cause the aggregate amount of all such investment to exceed, at the time any such investment is made or guaranteed by the Corporation, 75 percent of the total investment committed to such project as determined by the Corporation.
+&emsp;&emsp;(B) the Corporation's equity investment under this subsection with respect to any project, when added to any other investments made or guaranteed by the Corporation under subsection (b) or (c) with respect to such project, shall not cause the aggregate amount of all such investment to exceed, at the time any such investment is made or guaranteed by the Corporation, 75 percent of the total investment committed to such project as determined by the Corporation.
 
 > &emsp;The determination of the Corporation under subparagraph (B) shall be conclusive for purposes of the Corporation's authority to make or guarantee any such investment.
 
@@ -96,9 +96,9 @@ To issue to—
 
 &emsp;(2) local financial institutions, guaranties,
 
-> denominated in currencies other than United States dollars, of loans and other investments made to projects sponsored by or significantly involving eligible investors, assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine, for projects that the Corporation determines to have significant developmental effects or as the Corporation determines to be necessary or appropriate to carry out the purposes of this subpart.
+> denominated in currencies other than United States dollars, of loans and other investmentsmade to projects sponsored by or significantly involving eligible investors, assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine, for projects that the Corporation determines to have significant developmental effects or as the Corporation determines to be necessary or appropriate to carry out the purposes of this subpart.
 
-(Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1,1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112; Pub. L. 108–158, §§4(a), 5(a), Dec. 3, 2003, 117 Stat. 1950.)
+(Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112; Pub. L. 108–158, §§4(a), 5(a), Dec. 3, 2003, 117 Stat. 1950.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ Subsec. (b). Pub. L. 97–65, §4(b)(1), substituted "which the Corporation is p
 
 Subsec. (f)(1). Pub. L. 97–65, §4(b)(2), struck out provisions under which the Corporation was prohibited from making or carrying out any association or risk-sharing agreement for the direct underwriting of insurance by the Corporation with others, other than on an individual basis where such direct underwriting facilitated the purposes of the Corporation as set forth in section 2191 of this title.
 
-Subsec. (f)(4). Pub. L. 97–65, §4(b)(3), struck out provisions which had placed a $600,000,000 limit in any oneyear on the amount of reinsurance which the Corporation may issue and which had directed the Corporation to endeavor to increase to the maximum extent possible the specified portions of liability, whether first loss or otherwise, which a reinsured party must retain for his own account.
+Subsec. (f)(4). Pub. L. 97–65, §4(b)(3), struck out provisions which had placed a $600,000,000 limit in any one year on the amount of reinsurance which the Corporation may issue and which had directed the Corporation to endeavor to increase to the maximum extent possible the specified portions of liability, whether first loss or otherwise, which a reinsured party must retain for his own account.
 
 <b>1978</b>—Subsec. (a)(2). Pub. L. 95–268, §3(1), struck out provisions relating to limitations on maximum share of liabilities assumed under par. (1) of this subsection.
 
@@ -188,9 +188,13 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 #### Extension of OPIC Authority
 
-Pub. L. 112–74, div. I, title VII, §7065(b), Dec. 23, 2011, 125 Stat. 1252, provided that: "Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2012."
+Pub. L. 113–235, div. J, title VII, §7073(b), Dec. 16, 2014, 128 Stat. 2679, provided that: "Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2015."
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 113–76, div. K, title VII, §7064(b), Jan. 17, 2014, 128 Stat. 557.
+
+Pub. L. 112–74, div. I, title VII, §7065(b), Dec. 23, 2011, 125 Stat. 1252.
 
 Pub. L. 111–117, div. F, title VII, §7079(c), Dec. 16, 2009, 123 Stat. 3396.
 

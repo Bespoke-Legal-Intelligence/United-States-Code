@@ -1,6 +1,6 @@
 ### §§1961c to 1961c–8. Repealed. Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316
 
-Section 1961c, Pub. L. 88–379, title III, §300, July 17, 1964, 78 Stat. 332, related to cooperation of Federal, State and private agencies with Secretary of the Interior who was directed to make information on relevant projects available. See section 7877(a) of this title.
+Section 1961c, Pub. L. 88–379, title III, §300, July 17, 1964, 78 Stat. 332, related to cooperation of Federal,State and private agencies with Secretary of the Interior who was directed to make information on relevant projects available. See section 7877(a) of this title.
 
 Section 1961c–1, Pub. L. 88–379, title III, §301, July 17, 1964, 78 Stat. 332, related to lack of authority of Secretary of the Interior over water resources research of other Federal agencies and lack of effect that this chapter had on existing authorities and responsibilities of Federal agencies. See section 7881 of this title.
 

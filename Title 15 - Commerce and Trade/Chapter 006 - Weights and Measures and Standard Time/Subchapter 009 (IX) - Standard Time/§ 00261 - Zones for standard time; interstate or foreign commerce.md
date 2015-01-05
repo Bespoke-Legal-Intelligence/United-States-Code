@@ -8,7 +8,7 @@ For the purpose of establishing the standard time of the United States, the terr
 
 In this section, the term "Coordinated Universal Time" means the time scale maintained through the General Conference of Weights and Measures and interpreted or modified for the United States by the Secretary of Commerce in coordination with the Secretary of the Navy.
 
-(Mar. 19, 1918, ch. 24, §1, 40 Stat. 450; Pub. L. 89–387, §4(a), Apr. 13, 1966, 80 Stat. 108; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 106–564, §1(a), Dec. 23, 2000, 114 Stat. 2811; Pub. L. 110–69, title III, §3013(c)(3), Aug. 9, 2007, 121 Stat. 598.)
+(Mar. 19, 1918, ch. 24, §1, 40 Stat. 450; Pub. L. 89–387, §4(a), Apr. 13, 1966, 80 Stat. 108; Pub. L.97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 106–564, §1(a), Dec. 23, 2000, 114 Stat. 2811; Pub. L. 110–69, title III, §3013(c)(3), Aug. 9, 2007, 121 Stat. 598.)
 
 #### Amendments
 

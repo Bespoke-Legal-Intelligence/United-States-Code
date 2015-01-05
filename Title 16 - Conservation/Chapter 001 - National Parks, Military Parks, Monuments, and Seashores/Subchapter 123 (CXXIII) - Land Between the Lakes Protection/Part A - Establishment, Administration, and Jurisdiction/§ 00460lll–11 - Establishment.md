@@ -28,7 +28,7 @@ On the transfer of administrative jurisdiction under section 460lll–41 of this
 
 #### (1) In general
 
-&emsp;The Recreation Area shall comprise the federally owned land, water, and interests in the land and water lying between Kentucky Lake and Lake Barkley in the States of Kentucky and Tennessee, as generally depicted on the map entitled "Land Between the Lakes National Recreation Area—January, 1998".
+&emsp;The Recreation Area shall comprise the federally owned land, water, and interests in theland and water lying between Kentucky Lake and Lake Barkley in the States of Kentucky and Tennessee, as generally depicted on the map entitled "Land Between the Lakes National Recreation Area—January, 1998".
 
 #### (2) Map
 

@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the insurance commission (or any agency or office performing like functions) of any State that the Office determines has—
 
-&emsp;&emsp;&emsp;(i) adopted rules on the appropriate use of designations in the sale of insurance products that, to the extent practicable, conform to the minimum requirements of the National Association of InsuranceCommissioners Model Regulation on the Use of Senior-Specific Certifications and Professional Designations in the Sale of Life Insurance and Annuities (or any successor thereto); and
+&emsp;&emsp;&emsp;(i) adopted rules on the appropriate use of designations in the sale of insurance products that, to the extent practicable, conform to the minimum requirements of the National Association of Insurance Commissioners Model Regulation on the Use of Senior-Specific Certifications and Professional Designations in the Sale of Life Insurance and Annuities (or any successor thereto); and
 
 &emsp;&emsp;&emsp;(ii) adopted rules with respect to fiduciary or suitability requirements in the sale of annuities that meet or exceed the minimum requirements established by the Suitability in Annuity Transactions Model Regulation of the National Association of Insurance Commissioners (or any successor thereto); or
 
@@ -84,7 +84,7 @@ A State or eligible entity desiring a grant under this section shall submit an a
 
 #### (d) Performance objectives and reporting requirements
 
-The Office may establish such performance objectives and reporting requirements for Statesand eligible entities receiving a grant under this section as the Office determines are necessary to carry out and assess the effectiveness of the program under this section.
+The Office may establish such performance objectives and reporting requirements for States and eligible entities receiving a grant under this section as the Office determines are necessary to carry out and assess the effectiveness of the program under this section.
 
 #### (e) Maximum amount
 

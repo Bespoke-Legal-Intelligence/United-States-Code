@@ -28,7 +28,7 @@
 
 #### (7) Evaluating the need for and the effectiveness and adverse effects of vaccines and immunization activities
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction to the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the National Center for Health Statistics, the National Center for Health Services Research and Health Care Technology Assessment, and the Centers for Medicare \& Medicaid Services in monitoring the need for and the effectiveness and adverse effects of vaccines and immunization activities.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of thistitle, coordinate and provide direction to the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the National Center for Health Statistics, the National Center for Health Services Research and Health Care Technology Assessment, and the Centers for Medicare \& Medicaid Services in monitoring the need for and the effectiveness and adverse effects of vaccines and immunization activities.
 
 #### (8) Coordinating governmental and non-governmental activities
 

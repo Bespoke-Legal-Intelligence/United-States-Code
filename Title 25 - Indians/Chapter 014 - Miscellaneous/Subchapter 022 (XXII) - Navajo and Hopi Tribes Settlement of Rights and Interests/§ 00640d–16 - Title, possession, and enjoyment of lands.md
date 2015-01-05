@@ -6,7 +6,7 @@ Nothing in this subchapter shall affect the title, possession, and enjoyment of 
 
 #### (b) Relocation of Federal employees
 
-Nothing in this subchapter shall require the relocation from any area partitioned pursuant to this subchapter of the household of any Navajo or Hopi individual who is employed by the Federal Government within such area or to prevent such employees or their households from residing in such areas in the future: <i>Provided</i>,That any such Federal employee who would, except for the provisions of this subsection, be relocated under the terms of this subchapter may elect to be so relocated.
+Nothing in this subchapter shall require the relocation from any area partitioned pursuant to this subchapter of the household of any Navajo or Hopi individual who is employed by the Federal Government within such area or to prevent such employees or their households from residing in such areas in the future: <i>Provided</i>, That any such Federal employee who would, except for the provisions of this subsection, be relocated under the terms of this subchapter may elect to be so relocated.
 
 (Pub. L. 93–531, §17, Dec. 22, 1974, 88 Stat. 1720.)
 

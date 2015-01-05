@@ -6,7 +6,7 @@ In the case of violation or threatened violation of, or failure to obey, a tempo
 
 #### Prior Provisions
 
-A prior section 5.27 of Pub. L. 92–181, which amended section 393 of this title and sections 5314 and 5315 ofTitle 5, Government Organization and Employees, was renumbered section 5.41.
+A prior section 5.27 of Pub. L. 92–181, which amended section 393 of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, was renumbered section 5.41.
 
 #### Effective Date
 

@@ -34,7 +34,7 @@ Elements Regarding Major Automated Information System Programs.—The documents 
 
 (c)
 
-Baseline.—(1) For purposes of this chapter, the initial submittal to Congress of the documents required by subsection (a) with respect to a major automated information system program shall constitute the original estimate or information originally submitted on such programfor purposes of the reports and determinations on program changes in section 2445c of this title.
+Baseline.—(1) For purposes of this chapter, the initial submittal to Congress of the documents required by subsection (a) with respect to a major automated information system program shall constitute the original estimate or information originally submitted on such program for purposes of the reports and determinations on program changes in section 2445c of this title.
 
 (2) An adjustment or revision of the original estimate or information originally submitted on a program may be treated as the original estimate or information originally submitted on the program if the adjustment or revision is the result of a critical change in the program covered by section 2445c(d) of this title.
 

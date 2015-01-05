@@ -168,7 +168,7 @@ The Foundation shall—
 
 #### (e) Incorporation
 
-The ex officio members of the Board shall serve as incorporators and shall take whateveractions necessary to incorporate the Foundation.
+The ex officio members of the Board shall serve as incorporators and shall take whatever actions necessary to incorporate the Foundation.
 
 #### (f) Nonprofit status
 
@@ -256,7 +256,7 @@ Federal Government employees may serve on committees advisory to the Foundation 
 
 &emsp;Beginning with fiscal year 2009, the Executive Director shall submit to Congress and the Commissioner an annual report that—
 
-&emsp;&emsp;(A) describes the activities of the Foundation and the progress of the Foundation infurthering the goals and priorities established under subsection (c)(2), including the practical impact of the Foundation on regulated product development;
+&emsp;&emsp;(A) describes the activities of the Foundation and the progress of the Foundation in furthering the goals and priorities established under subsection (c)(2), including the practical impact of the Foundation on regulated product development;
 
 &emsp;&emsp;(B) provides a specific accounting of the source and use of all funds used by the Foundation to carry out such activities; and
 

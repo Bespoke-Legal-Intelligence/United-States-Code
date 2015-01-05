@@ -10,13 +10,13 @@ The actuarial report of a plan required by subsection (a) shall be prepared and 
 
 &emsp;(1) a description of the funding method and actuarial assumptions used to determine costs under the plan,
 
-&emsp;(2) a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431, to zero,
+&emsp;(2) a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, the accumulated funding deficiency under section 433, or the accumulated funding deficiency determined under section 431, to zero,
 
 &emsp;(3) a statement—
 
 &emsp;&emsp;(A) that to the best of his knowledge the report is complete and accurate, and
 
-&emsp;&emsp;(B) the requirements for reasonable actuarial assumptions under section 430(h)(1) or 431(c)(3), whichever are applicable, have been complied with.<sup>1</sup>
+&emsp;&emsp;(B) the <sup>1</sup> requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with.<sup>2</sup>
 
 &emsp;(4) such other information as may be necessary to fully and fairly disclose the actuarial position of the plan, and
 
@@ -30,7 +30,7 @@ The actuarial report and statement required by this section shall be filed at th
 
 &emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the report required to be filed under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §1033(a), Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–280, title I, §114(f), Aug. 17, 2006, 120 Stat. 855.)
+(Added Pub. L. 93–406, title II, §1033(a), Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–280, title I, §114(f), Aug. 17, 2006, 120 Stat. 855; Pub. L. 113–97, title II, §202(c)(10), Apr. 7, 2014, 128 Stat. 1138.)
 
 #### References in Text
 
@@ -38,11 +38,19 @@ Section 3004 of title III of the Employee Retirement Income Security Act of 1974
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b)(2). Pub. L. 113–97, §202(c)(10)(A), substituted "430, the accumulated funding deficiency under section 433," for "430,".
+
+Subsec. (b)(3)(B). Pub. L. 113–97, §202(c)(10)(B), substituted "430(h)(1), 431(c)(3), or 433(c)(3)" for "430(h)(1) or 431(c)(3)".
+
 <b>2006</b>—Subsec. (b)(2). Pub. L. 109–280, §114(f)(1), substituted "the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431," for "the accumulated funding deficiency (as defined in section 412(a))".
 
 Subsec. (b)(3)(B). Pub. L. 109–280, §114(f)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "the requirements of section 412(c) (relating to reasonable actuarial assumptions) have been complied with,".
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -60,5 +68,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 Pub. L. 93–406, title X, §1033(c), Sept. 2, 1974, 88 Stat. 948, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The Secretary of the Treasury and the Secretary of Labor shall take such steps as may be necessary to assure coordination to the maximum extent feasible between the actuarial reports required by section 6059 of the Internal Revenue Code of 1986 and by section 103(d) of title I of the Employee Retirement Income Security Act of 1974 \[section 1023(d) of Title 29, Labor\]."
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "that".</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
 

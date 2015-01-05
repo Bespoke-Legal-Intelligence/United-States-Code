@@ -192,7 +192,7 @@ There is authorized to be appropriated for purposes of carrying out the complian
 
 &emsp;&emsp;&emsp;The amount under clause (i) shall not exceed—
 
-&emsp;&emsp;&emsp;&emsp;(I) 1 percent of the amount of meal reimbursements earned for the fiscal yearfor the first finding of 1 or more program violations under subparagraph (A);
+&emsp;&emsp;&emsp;&emsp;(I) 1 percent of the amount of meal reimbursements earned for the fiscal year for the first finding of 1 or more program violations under subparagraph (A);
 
 &emsp;&emsp;&emsp;&emsp;(II) 5 percent of the amount of meal reimbursements earned for the fiscal year for the second finding of 1 or more program violations under subparagraph (A); and
 
@@ -262,7 +262,7 @@ Subsec. (d). Pub. L. 108–265, §127, substituted "$6,000,000 for each of fisca
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 2004 Amendment
 

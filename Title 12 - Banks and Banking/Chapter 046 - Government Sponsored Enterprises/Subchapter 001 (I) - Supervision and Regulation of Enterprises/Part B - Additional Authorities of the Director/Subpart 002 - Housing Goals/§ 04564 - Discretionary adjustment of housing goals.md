@@ -24,5 +24,5 @@ Section 301(b)(3) of the Federal Home Loan Mortgage Corporation Act, referred to
 
 #### Prior Provisions
 
-A prior section 4564, Pub. L. 102–550, title XIII, §1334, Oct. 28, 1992, 106 Stat. 3960, related to central cities, rural areas, and other underserved areas housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, §1128(a), July 30, 2008, 122 Stat. 2696.
+A prior section 4564, Pub. L. 102–550, title XIII, §1334, Oct. 28, 1992, 106 Stat. 3960, related to central cities,rural areas, and other underserved areas housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, §1128(a), July 30, 2008, 122 Stat. 2696.
 

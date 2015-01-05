@@ -30,7 +30,7 @@
 
 (2) The committee shall meet as needed at the call of the United States Trade Representative or at the call of two-thirds of the members of the committee. The chairman of the committee shall be elected by the committee from among its members.
 
-(3) The United States Trade Representative shall make available to the committee such staff, information, personnel, and administrative services and assistance as it may reasonably require to carry out its activities.
+(3) The United States Trade Representative shall make available to the committee suchstaff, information, personnel, and administrative services and assistance as it may reasonably require to carry out its activities.
 
 #### (c) General policy, sectoral, or functional advisory committees
 
@@ -84,7 +84,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 &emsp;(2) to all other advisory committees which may be established under subsection (c) of this section, except that—
 
-&emsp;&emsp;(A) the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the President's designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives, or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section; and
+&emsp;&emsp;(A) the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the President's designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives, or bargaining positions with respect to matters referred toin subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section; and
 
 &emsp;&emsp;(B) notwithstanding subsection (a)(2) of section 14 of the Federal Advisory Committee Act, any committee established under subsection (b) or (c) of this section may, in the discretion of the President or the President's designee, terminate not later than the expiration of the 4-year period beginning on the date of its establishment.
 
@@ -106,7 +106,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 &emsp;(B) the appropriate advisory committee established under this section.
 
-(3) Information submitted in confidence by officers or employees of the United States to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c) of this section, maybe disclosed in accordance with rules issued by the United States Trade Representative and the Secretaries of Commerce, Labor, Defense, Agriculture, or other executive departments, as appropriate, after consultation with the relevant advisory committees established under subsection (c) of this section. Such rules shall define the categories of information which require restricted or confidential handling by such committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the development of trade policy, priorities, or United States negotiating objectives. Such rules shall, to the maximum extent feasible, permit meaningful consultations by advisory committee members with persons affected by matters referred to in subsection (a) of this section.
+(3) Information submitted in confidence by officers or employees of the United States to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c) of this section, may be disclosed in accordance with rules issued by the United States Trade Representative and the Secretaries of Commerce, Labor, Defense, Agriculture, or other executive departments, as appropriate, after consultation with the relevant advisory committees established under subsection (c) of this section. Such rules shall define the categories of information which require restricted or confidential handling by such committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the development of trade policy, priorities, or United States negotiating objectives. Such rules shall, to the maximum extent feasible, permit meaningful consultations by advisory committee members with persons affected by matters referred to in subsection (a) of this section.
 
 #### (h) Advisory committee support
 
@@ -124,7 +124,7 @@ It shall be the responsibility of the United States Trade Representative, in con
 
 #### (j) Private organizations or groups
 
-In addition to any advisory committee established under this section, the President shall provide adequate, timely and continuing opportunity for the submission on an informal basis (and, if such information is submitted under the provisions of subsection (g) of this section, on a confidential basis) by private organizations or groups, representing government, labor, industry, agriculture, small business, service industries, consumer interests, and others, of statistics, data and other trade information, as well as policy recommendations, pertinent to any matter referred to in subsection (a) of this section.
+In addition to any advisory committee established under this section, the President shall provide adequate, timely and continuing opportunity for the submission on an informal basis (and, if such information is submitted under the provisions of subsection (g) of this section, on a confidential basis) by private organizations or groups, representing government, labor, industry, agriculture, small business, service industries, consumer interests, and others, of statistics, data and other trade information, as well as policy recommendations, pertinent to anymatter referred to in subsection (a) of this section.
 
 #### (k) Scope of participation by members of advisory committees
 
@@ -240,7 +240,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Ex. Ord. No. 12905, Mar. 25, 1994, 59 F.R. 14733, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and section 135(c)(1) of the Trade Act of 1974, as amended (19 U.S.C. 2155(c)(1)) ("Act"), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and section 135(c)(1) of the Trade Act of 1974, as amended (19 U.S.C. 2155(c)(1)) ("Act"), it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is established in the Office of the United States Trade Representative ("Trade Representative"\[)\] the "Trade and Environment Policy Advisory Committee" ("Committee").
 
@@ -274,7 +274,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Trade and Environment Policy Advisory Committee
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set outunder section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(o), Sept. 29, 1997, 62 F.R. 51755, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

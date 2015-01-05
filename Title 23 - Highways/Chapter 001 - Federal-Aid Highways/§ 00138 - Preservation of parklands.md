@@ -2,7 +2,7 @@
 
 (a)
 
-Declaration of Policy.—It is declared to be the national policy that special effort should be made to preserve the natural beauty of the countryside and public park and recreation lands, wildlife and waterfowl refuges, and historic sites. The Secretary of Transportation shall cooperate and consult with the Secretaries of the Interior, Housing and Urban Development, and Agriculture, and with the States in developing transportation plans and programs that include measures to maintain or enhance the natural beauty of the lands traversed. After the effective date of the Federal-Aid Highway Act of 1968, the Secretary shall not approve any program or project (other than any project for a Federal lands transportation facility) which requires the use of any publicly owned land from a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance as determined by the Federal, State, or local officials having jurisdiction thereof, or any land from an historic site of national, State, or local significance as so determined by such officials unless (1) there is no feasible and prudent alternative to the use of such land, and (2) such program includes all possible planning tominimize harm to such park, recreational area, wildlife and waterfowl refuge, or historic site resulting from such use. In carrying out the national policy declared in this section the Secretary, in cooperation with the Secretary of the Interior and appropriate State and local officials, is authorized to conduct studies as to the most feasible Federal-aid routes for the movement of motor vehicular traffic through or around national parks so as to best serve the needs of the traveling public while preserving the natural beauty of these areas.
+Declaration of Policy.—It is declared to be the national policy that special effort should be made to preserve the natural beauty of the countryside and public park and recreation lands, wildlife and waterfowl refuges, and historic sites. The Secretary of Transportation shall cooperate and consult with the Secretaries of the Interior, Housing and Urban Development, and Agriculture, and with the States in developing transportation plans and programs that include measures to maintain or enhance the natural beauty of the lands traversed. After the effective date of the Federal-Aid Highway Act of 1968, the Secretary shall not approve any program or project (other than any project for a Federal lands transportation facility) which requires the use of any publicly owned land from a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance as determined by the Federal, State, or local officials having jurisdiction thereof, or any land from an historic site of national, State, or local significance as so determined by such officials unless (1) there is no feasible and prudent alternative to the use of such land, and (2) such program includes all possible planning to minimize harm to such park, recreational area, wildlife and waterfowl refuge, or historic site resulting from such use. In carrying out the national policy declared in this section the Secretary, in cooperation with the Secretary of the Interior and appropriate State and local officials, is authorized to conduct studies as to the most feasible Federal-aid routes for the movement of motor vehicular traffic through or around national parks so as to best serve the needs of the traveling public while preserving the natural beauty of these areas.
 
 (b)
 
@@ -28,7 +28,7 @@ Criteria.—In making any determination under this subsection, the Secretary sha
 
 Historic sites.—With respect to historic sites, the Secretary may make a finding of de minimis impact only if—
 
-&emsp;&emsp;(A) the Secretary has determined, in accordance with the consultation process required under section 106 of the National Historic Preservation Act (16 U.S.C. 470f), that—
+&emsp;&emsp;(A) the Secretary has determined, in accordance with the consultation process required under section 306108 of title 54, that—
 
 &emsp;&emsp;&emsp;(i) the transportation program or project will have no adverse effect on the historic site; or
 
@@ -46,13 +46,15 @@ Parks, recreation areas, and wildlife or waterfowl refuges.—With respect to pa
 
 &emsp;&emsp;(B) the finding of the Secretary has received concurrence from the officials with jurisdiction over the park, recreation area, or wildlife or waterfowl refuge.
 
-(Added Pub. L. 89–574, §15(a), Sept. 13, 1966, 80 Stat. 771; amended Pub. L. 90–495, §18(a), Aug. 23, 1968, 82 Stat. 823; Pub. L. 94–280, title I, §124, May 5, 1976, 90 Stat. 440; Pub. L. 100–17, title I, §133(b)(10), Apr. 2, 1987, 101 Stat. 171; Pub. L. 109–59, title VI, §6009(a)(1), Aug. 10, 2005, 119 Stat. 1874; Pub. L. 112–141, div. A, title I, §1119(c)(2), July 6, 2012, 126 Stat. 492.)
+(Added Pub. L. 89–574, §15(a), Sept. 13, 1966, 80 Stat. 771; amended Pub. L. 90–495, §18(a), Aug. 23, 1968, 82 Stat. 823; Pub. L. 94–280, title I, §124, May 5, 1976, 90 Stat. 440; Pub. L. 100–17, title I, §133(b)(10), Apr. 2, 1987, 101 Stat. 171; Pub. L. 109–59, title VI, §6009(a)(1), Aug. 10, 2005, 119 Stat. 1874; Pub. L. 112–141, div. A, title I, §1119(c)(2), July 6, 2012, 126 Stat. 492; Pub. L. 113–287, §5(f)(2), Dec. 19, 2014, 128 Stat. 3268.)
 
 #### References in Text
 
 For the effective date of the Federal-Aid Highway Act of 1968, referred to in subsec. (a), see section 37 of Pub. L. 90–495, as amended, set out as an Effective Date of 1968 Amendment note under section 101 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(A). Pub. L. 113–287 substituted "section 306108 of title 54" for "section 106 of the National Historic Preservation Act (16 U.S.C. 470f)" in introductory provisions.
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted "Federal lands transportation facility" for "park road or parkway under section 204 of this title".
 

@@ -1,6 +1,6 @@
 ### §297i. Procedures for appeal of terminations
 
-In any case in which the Secretary intends to terminate an agreement with a school of nursing under this part, the Secretary shall provide the school with a written notice specifying such intention and stating that the school may request a formal hearing with respect to such termination. If the school requests such a hearingwithin 30 days after the receipt of such notice, the Secretary shall provide such school with a hearing conducted by an administrative law judge.
+In any case in which the Secretary intends to terminate an agreement with a school of nursing under this part, the Secretary shall provide the school with a written notice specifying such intention and stating that the school may request a formal hearing with respect to such termination. If the school requests such a hearing within 30 days after the receipt of such notice, the Secretary shall provide such school with a hearing conducted by an administrative law judge.
 
 (July 1, 1944, ch. 373, title VIII, §842, as added Pub. L. 99–92, §8(g), Aug. 16, 1985, 99 Stat. 399; amended Pub. L. 111–148, title V, §5310(b)(2), Mar. 23, 2010, 124 Stat. 631.)
 
@@ -14,7 +14,7 @@ A prior section 297j, act July 1, 1944, ch. 373, title VIII, §843, as added Nov
 
 A prior section 843 of act July 1, 1944, was renumbered section 853, and was classified to section 298b of this title prior to repeal by Pub. L. 105–392.
 
-Another prior section 297j, act July 1, 1944, ch. 373, title VIII, §845, formerly §860, as added Aug. 16, 1968, Pub. L. 90–490, title II, §223(a), 82 Stat. 785; amended July 9, 1971, Pub. L. 92–52, §4, 85 Stat. 145; Nov. 18, 1971, Pub. L. 92–158, §7, 85 Stat. 478; renumbered §845 and amended July 29, 1975, Pub. L. 94–63, title IX, §§902(f), 937, 941(j)(1), (2), 89 Stat. 355, 363, 366; Sept. 29, 1979, Pub. L. 96–76, title I, §110(a), (b), 93 Stat. 580; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2758(a), (b), 95 Stat. 932, set forth provisions relating to scholarship grants to schools of nursing, prior to repeal by Pub. L. 99–92, §9(a)(2), Aug. 16, 1985, 99 Stat. 400, eff. Oct. 1, 1985.
+Another prior section 297j, act July 1, 1944, ch. 373, title VIII, §845, formerly §860, as added Aug. 16, 1968,Pub. L. 90–490, title II, §223(a), 82 Stat. 785; amended July 9, 1971, Pub. L. 92–52, §4, 85 Stat. 145; Nov. 18, 1971, Pub. L. 92–158, §7, 85 Stat. 478; renumbered §845 and amended July 29, 1975, Pub. L. 94–63, title IX, §§902(f), 937, 941(j)(1), (2), 89 Stat. 355, 363, 366; Sept. 29, 1979, Pub. L. 96–76, title I, §110(a), (b), 93 Stat. 580; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2758(a), (b), 95 Stat. 932, set forth provisions relating to scholarship grants to schools of nursing, prior to repeal by Pub. L. 99–92, §9(a)(2), Aug. 16, 1985, 99 Stat. 400, eff. Oct. 1, 1985.
 
 A prior section 845 of act July 1, 1944, was renumbered section 855, and was classified to section 298b–2 of this title prior to repeal by Pub. L. 105–392.
 

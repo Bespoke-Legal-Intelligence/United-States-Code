@@ -28,7 +28,7 @@ Report.—The Secretary shall include the following information in reports submi
 
 &emsp;(1) a description of the extent to which each State has adopted and implemented the minimum Federal standards under section 6103 or maintains an alternative program under subsection (c);
 
-&emsp;(2) an analysis by the Secretary of the overall effectiveness of each State's one-call notification program and the one-call notification systems operating under such program in achieving the purposes of this chapter;
+&emsp;(2) an analysis by the Secretary of the overall effectiveness of each State's one-call notification program and the one-call notificationsystems operating under such program in achieving the purposes of this chapter;
 
 &emsp;(3) the impact of each State's decisions on the extent of required participation in one-call notification systems on prevention of damage to underground facilities; and
 

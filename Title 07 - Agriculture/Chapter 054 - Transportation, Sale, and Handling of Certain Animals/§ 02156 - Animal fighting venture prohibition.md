@@ -1,12 +1,20 @@
 ### §2156. Animal fighting venture prohibition
 
-#### (a) Sponsoring or exhibiting an animal in an animal fighting venture
+#### (a) Sponsoring or exhibiting an animal in, attending, or causing an individual who has not attained the age of 16 to attend, an animal fighting venture
 
-#### (1) In general
+#### (1) Sponsoring or exhibiting
 
-&emsp;Except as provided in paragraph (2), it shall be unlawful for any person to knowingly sponsor or exhibit an animal in an animal fighting venture.
+&emsp;Except as provided in paragraph (3), it shall be unlawful for any person to knowingly sponsor or exhibit an animal in an animal fighting venture.
 
-#### (2) Special rule for certain State <sup>1</sup>
+#### (2) Attending or causing an individual who has not attained the age of 16 to attend
+
+&emsp;It shall be unlawful for any person to—
+
+&emsp;&emsp;(A) knowingly attend an animal fighting venture; or
+
+&emsp;&emsp;(B) knowingly cause an individual who has not attained the age of 16 to attend an animal fighting venture.
+
+#### (3) Special rule for certain State <sup>1</sup>
 
 &emsp;With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.
 
@@ -20,7 +28,7 @@ It shall be unlawful for any person to knowingly use the mail service of the Uni
 
 #### (d) Violation of State law
 
-Notwithstanding the provisions of subsection (c) of this section, the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.
+Notwithstanding the provisions of subsection (c), the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.
 
 #### (e) Buying, selling, delivering, or transporting sharp instruments for use in animal fighting venture
 
@@ -34,7 +42,7 @@ The Secretary or any other person authorized by him shall make such investigatio
 
 In this section—
 
-&emsp;(1) the term "animal fighting venture" means any event, in or affecting interstate or foreign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment, except that the term "animal fighting venture" shall not be deemed to include any activity the primary purpose of which involves the use of one or more animals in hunting another animal;
+&emsp;(1) the term "animal fighting venture" means any event, in or affecting interstate orforeign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment, except that the term "animal fighting venture" shall not be deemed to include any activity the primary purpose of which involves the use of one or more animals in hunting another animal;
 
 &emsp;(2) the term "instrumentality of interstate commerce" means any written, wire, radio, television or other form of communication in, or using a facility of, interstate commerce;
 
@@ -58,7 +66,7 @@ The conduct by any person of any activity prohibited by this section shall not r
 
 The criminal penalties for violations of subsection (a), (b), (c), or (e) are provided in section 49 of title 18.
 
-(Pub. L. 89–544, §26, as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492; Pub. L. 110–22, §3, May 3, 2007, 121 Stat. 88; Pub. L. 110–234, title XIV, §14207(a), May 22, 2008, 122 Stat. 1461; Pub. L. 110–246, §4(a), title XIV, §14207(a), June 18, 2008, 122 Stat. 1664, 2223.)
+(Pub. L. 89–544, §26, as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492; Pub. L. 110–22, §3, May 3, 2007, 121 Stat. 88; Pub. L. 110–234, title XIV, §14207(a), May 22, 2008, 122 Stat. 1461; Pub. L. 110–246, §4(a), title XIV, §14207(a), June 18, 2008, 122 Stat. 1664, 2223; Pub. L. 113–79, title XII, §12308(b)(1), Feb. 7, 2014, 128 Stat. 990.)
 
 #### Codification
 
@@ -67,6 +75,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279. Subsec. (i)(2) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279, amended section 3001(a) of Title 39, Postal Service.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79, §12308(b)(1)(A), substituted "Sponsoring or exhibiting an animal in, attending, or causing an individual who has not attained the age of 16 to attend," for "Sponsoring or exhibiting an animal in" in heading.
+
+Subsec. (a)(1). Pub. L. 113–79, §12308(b)(1)(B)(i), (ii), substituted "Sponsoring or exhibiting" for "In general" in heading and "paragraph (3)" for "paragraph (2)" in text.
+
+Subsec. (a)(2), (3). Pub. L. 113–79, §12308(b)(1)(B)(iii), (iv), added par. (2) and redesignated former par. (2) as (3).
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §14207(a)(1)(A), struck out ", if any animal in the venture was moved in interstate or foreign commerce" before period at end.
 
@@ -114,7 +128,7 @@ Subsec. (i). Pub. L. 110–22, §3(5), added subsec. (i).
 
 Subsec. (b). Pub. L. 107–171, §10302(a)(2), substituted "deliver, or receive" for "or deliver to another person or receive from another person".
 
-Subsec. (d). Pub. L. 107–171, §10302(a)(3), substituted "subsection (c) of this section" for "subsections (a), (b), or (c) of this section".
+Subsec. (d). Pub. L. 107–171, §10302(a)(3), substituted "subsection (c)" for "subsections (a), (b), or (c) of this section".
 
 Subsec. (e). Pub. L. 107–171, §10303(a)(1), inserted heading and substituted "$15,000" for "$5,000" in text.
 

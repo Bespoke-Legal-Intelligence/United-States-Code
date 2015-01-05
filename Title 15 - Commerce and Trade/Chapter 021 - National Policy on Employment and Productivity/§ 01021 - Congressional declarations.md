@@ -2,7 +2,7 @@
 
 #### (a) Generally
 
-The Congress declares that it is the continuing policy and responsibility of the Federal Government to use all practicable means, consistent with its needs and obligations and other essential national policies, and with the assistance and cooperation of both small and larger businesses, agriculture, labor, and State and local governments, to coordinate and utilize all its plans, functions, and resources for the purpose of creating and maintaining, in a manner calculated to foster and promote free competitive enterprise and the general welfare, conditions which promote useful employment opportunities, including self-employment, for those able, willing, and seeking to work, and promote full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance through increased exports and improvement in the international competitiveness of agriculture, business, and industry, and reasonable price stability as provided in section 1022b(b) of this title.
+The Congress declares that it is the continuing policy and responsibility of the Federal Government to use all practicable means, consistent with its needs and obligations and other essential national policies, and with the assistance and cooperation of both small and larger businesses, agriculture, labor, and State and local governments, to coordinate and utilize all its plans, functions, and resources for the purpose of creating and maintaining, in a manner calculated to foster and promote free competitive enterprise and the general welfare, conditions which promote useful employment opportunities, including self-employment, for those able, willing, and seeking to work, and promote full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance through increased exports and improvement in the internationalcompetitiveness of agriculture, business, and industry, and reasonable price stability as provided in section 1022b(b) of this title.
 
 #### (b) Full opportunities for employment
 
@@ -64,7 +64,7 @@ Act Feb. 20, 1946, ch. 33, §1, 60 Stat. 23, provided: "This Act \[enacting this
 
 #### Statement of Purpose
 
-Pub. L. 95–523, title I, §101, Oct. 27, 1978, 92 Stat. 1890, provided that: "It is the purpose of this title \[enactingsections 1022a to 1022f of this title, amending sections 1021, 1022 and 1023 of this title and section 225a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 225a of Title 12\]—
+Pub. L. 95–523, title I, §101, Oct. 27, 1978, 92 Stat. 1890, provided that: "It is the purpose of this title \[enacting sections 1022a to 1022f of this title, amending sections 1021, 1022 and 1023 of this title and section 225a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 225a of Title 12\]—
 
 &emsp;"(1) to declare the general policies of this Act \[see Short Title note under section 3101 of this title\];
 

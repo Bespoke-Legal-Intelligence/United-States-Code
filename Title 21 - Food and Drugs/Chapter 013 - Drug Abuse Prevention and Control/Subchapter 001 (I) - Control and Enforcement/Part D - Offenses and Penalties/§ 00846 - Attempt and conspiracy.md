@@ -1,6 +1,6 @@
 ### §846. Attempt and conspiracy
 
-Any person who attempts or conspires to commit any offense defined in this subchapter shallbe subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
+Any person who attempts or conspires to commit any offense defined in this subchapter shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
 (Pub. L. 91–513, title II, §406, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 100–690, title VI, §6470(a), Nov. 18, 1988, 102 Stat. 4377.)
 

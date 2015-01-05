@@ -14,7 +14,7 @@
 
 #### (2) Preliminary applications
 
-&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
+&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for useby eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
 
 #### (b) Contents
 
@@ -38,7 +38,7 @@ An institution, in its application for a grant, shall—
 
 &emsp;&emsp;(B) in the case of any development project which consists of several components (as described by the applicant pursuant to subparagraph (A)), a statement identifying those components which, if separately funded, would be sound investments of Federal funds and those components which would be sound investments of Federal funds only if funded under this subchapter in conjunction with other parts of the development project (as specified by the applicant);
 
-&emsp;&emsp;(C) an evaluation by the applicant of the priority given any proposed project forwhich funds are sought in relation to any other projects for which funds are sought by the applicant under this subchapter, and a similar evaluation regarding priorities among the components of any single proposed project (as described by the applicant pursuant to subparagraph (A));
+&emsp;&emsp;(C) an evaluation by the applicant of the priority given any proposed project for which funds are sought in relation to any other projects for which funds are sought by the applicant under this subchapter, and a similar evaluation regarding priorities among the components of any single proposed project (as described by the applicant pursuant to subparagraph (A));
 
 &emsp;&emsp;(D) a detailed budget showing the manner in which funds for any proposed project would be spent by the applicant; and
 
@@ -70,7 +70,7 @@ Section was formerly classified to section 1066 of this title prior to renumberi
 
 #### Prior Provisions
 
-A prior section 1068, Pub. L. 89–329, title III, §353, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305, which related to application review process, was renumbered section 393 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068b of this title.
+A prior section 1068, Pub. L. 89–329, title III, §353, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305, which related to application review process,was renumbered section 393 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068b of this title.
 
 Another prior section 1068, Pub. L. 89–329, title III, §343, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, related to application review process and provided for reader panels, recommendation of such panels, and notification to institutions, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 

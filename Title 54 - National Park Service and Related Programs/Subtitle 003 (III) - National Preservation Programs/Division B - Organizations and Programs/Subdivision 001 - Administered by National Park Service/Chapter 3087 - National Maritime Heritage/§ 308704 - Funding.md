@@ -1,0 +1,212 @@
+### §308704. Funding
+
+(a)
+
+Availability of Funds From Sale and Scrapping of Obsolete Vessels.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of law, the amount of funds credited in a fiscal year to the Vessel Operations Revolving Fund established by section 50301(a) of title 46 that is attributable to the sale of obsolete vessels in the National Defense Reserve Fleet that are scrapped or sold under section 57102, 57103, or 57104 of title 46 shall be available until expended as follows:
+
+&emsp;&emsp;(A) Fifty percent shall be available to the Administrator of the Maritime Administration for such acquisition, maintenance, repair, reconditioning, or improvement of vessels in the National Defense Reserve Fleet as is authorized under other Federal law.
+
+&emsp;&emsp;(B) Twenty five percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
+
+&emsp;&emsp;(C) The remainder shall be available—
+
+&emsp;&emsp;&emsp;(i) to the Secretary to carry out the Program, as provided in subsection (b); or
+
+&emsp;&emsp;&emsp;(ii) if otherwise determined by the Administrator of the Maritime Administration, for use in the preservation and presentation to the public of maritime heritage property of the Maritime Administration.
+
+&emsp;(2)
+
+Applicability.—Paragraph (1) does not apply to amounts credited to the Vessel Operations Revolving Fund before July 1, 1994.
+
+(b)
+
+Use of Amounts for Program.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (2), of amounts available each fiscal year for the Program under subsection (a)(1)(C)—
+
+&emsp;&emsp;(A) one half shall be used for grants under section 308703(b) of this title; and
+
+&emsp;&emsp;(B) one half shall be used for grants under section 308703(c) of this title.
+
+&emsp;(2)
+
+Administrative expenses.—
+
+&emsp;&emsp;(A)
+
+In general.—Not more than 15 percent or $500,000, whichever is less, of the amount available for the Program under subsection (a)(1)(C) for a fiscal year may be used for expenses of administering the Program.
+
+&emsp;&emsp;(B)
+
+Allocation.—Of the amount available under subparagraph (A) for a fiscal year—
+
+&emsp;&emsp;&emsp;(i) one half shall be allocated to the National Trust for expenses incurred in administering grants under section 308703(b) of this title; and
+
+&emsp;&emsp;&emsp;(ii) one half shall be allocated as appropriate by the Secretary to the Service and participating State Historic Preservation Officers.
+
+(c)
+
+Disposal of Vessels.—
+
+&emsp;(1)
+
+Requirement.—The Secretary of Transportation shall dispose (by sale or by purchase of disposal services) of all vessels described in paragraph (2)—
+
+&emsp;&emsp;(A) in accordance with a priority system for disposing of vessels, as determined by the Secretary, that shall include provisions requiring the Maritime Administration to—
+
+&emsp;&emsp;&emsp;(i) dispose of all deteriorated high priority ships that are available for disposal within 12 months of their designation as available for disposal; and
+
+&emsp;&emsp;&emsp;(ii) give priority to the disposition of those vessels that pose the most significant danger to the environment or cost the most to maintain;
+
+&emsp;&emsp;(B) in the manner that provides the best value to the Federal Government, except in any case in which obtaining the best value would require towing a vessel and the towing poses a serious threat to the environment; and
+
+&emsp;&emsp;(C) in accordance with the plan of the Department of Transportation for disposal of those vessels and requirements under sections 57102 to 57104 of title 46.
+
+&emsp;(2)
+
+Description of vessels.—The vessels referred to in paragraph (1) are the vessels in the National Defense Reserve Fleet after July 1, 1994, that—
+
+&emsp;&emsp;(A) are not assigned to the Ready Reserve Force component of the National Defense Reserve Fleet; and
+
+&emsp;&emsp;(B) are not specifically authorized or required by statute to be used for a particular purpose.
+
+(d)
+
+Treatment of Available Amounts.—Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3241.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+308704
+
+16 U.S.C. 5405.
+
+Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, §3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, §3509, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(n), Jan. 7, 2011, 124 Stat. 4378.
+
+The text of 16 U.S.C. 5405(b)(2) is omitted as obsolete.
+
+In subsection (a)(1)(C), before subparagraph (i), the words "whether collected before or after October 28, 2009" are omitted as obsolete.
+
+#### Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling
+
+Pub. L. 107–314, div. C, title XXXV, §3504(c), (d), Dec. 2, 2002, 116 Stat. 2755, 2756, provided that:
+
+"(c)
+
+Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(1)(A) The Secretary of Transportation, Secretary of State, and Administrator of the Environmental Protection Agency shall jointly carry out one or more pilot programs through the Maritime Administration to explore the feasibility and advisability of various alternatives for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels.
+
+"(B) The pilot programs shall be carried out in accordance with applicable provisions of law and regulations.
+
+"(2)(A) The pilot programs under paragraph (1) shall be carried out during fiscal year 2003.
+
+"(B) The pilot programs shall include a total of not more than four vessels.
+
+"(C) The authority provided by this subsection is in addition to any other authority available to Maritime Administration for exporting obsolete vessels in the National Defense Reserve Fleet.
+
+"(3) Activities under the pilot programs under paragraph (1) shall include the following:
+
+&emsp;"(A) Exploration of the feasibility and advisability of a variety of alternatives (developed for purposes of the pilot programs) for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels.
+
+&emsp;"(B) Response by the Maritime Administration to proposals from the international ship recycling industry for innovative and cost-effective disposal solutions for obsolete vessels in the National Defense Reserve Fleet, including an evaluation of the feasibility and advisability of such proposals.
+
+&emsp;"(C) Demonstration of the extent to which the cost-effective dismantlement or recycling of obsolete vessels in the National Defense Reserve Fleet can be accomplished abroad in \[a\] manner that appropriately addresses concerns regarding worker health and safety and the environment.
+
+&emsp;"(D) Opportunities to transfer abroad processes, methodologies, and technologies for ship dismantlement and recycling in order to support the pilot programs and to improve international practices and standards for ship dismantlement and recycling.
+
+&emsp;"(E) Exploration of cooperative efforts with foreign governments (under a global action program on ship recycling or other program) in order to foster economically and environmentally sound ship recycling abroad.
+
+"(4) The Secretary of Transportation shall submit to Congress a report on the pilot programs under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[section 1 \[div. C, title XXXV, §3502\] of Pub. L. 106–398, which amended former section 5405 of Title 16, Conservation, and enacted provisions set out below\]. The report shall include a description of the activities under the pilot programs, and such recommendations for further legislative or administrative action as the Secretary considers appropriate.
+
+"(d)
+
+Construction.—Nothing in this section shall be construed to establish a preference for the reefing or export of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001."
+
+#### Scrapping of National Defense Reserve Fleet Vessels
+
+Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(b)–(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490 to 1654A–492, as amended by Pub. L. 109–163, div. C, title XXXV, §3505(a), Jan. 6, 2006, 119 Stat. 3551; Pub. L. 112–81, div. C, title XXXV, §3504, Dec. 31, 2011, 125 Stat. 1717; Pub. L. 112–239, div. C, title XXXV, §3502, Jan. 2, 2013, 126 Stat. 2222, provided that:
+
+"(b)
+
+Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 (\[former\] 16 U.S.C. 5405(c)(1)) \[see 54 U.S.C. 308704(c)(1)\] through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—
+
+&emsp;"(1) at least cost to the Government;
+
+&emsp;"(2) in a timely manner;
+
+&emsp;"(3) giving consideration to worker safety and the environment; and
+
+&emsp;"(4) in a manner that minimizes the geographic distance that a vessel must be towed when towing a vessel poses a serious threat to the environment.
+
+"(c)
+
+Comprehensive Management Plan.—
+
+&emsp;"(1)
+
+Requirement to develop plan.—The Secretary of Transportation shall prepare, publish, and submit to the Congress by not later than 180 days after the date of the enactment of this Act \[probably should be "this subsection", Jan. 6, 2006\] a comprehensive plan for management of the vessel disposal program of the Maritime Administration in accordance with the recommendations made in the Government Accountability Office in report number GAO–05–264, dated March 2005.
+
+&emsp;"(2)
+
+Contents of plan.—The plan shall—
+
+&emsp;&emsp;"(A) include a strategy and implementation plan for disposal of obsolete National Defense Reserve Fleet vessels (including vessels added to the fleet after the enactment of this paragraph) in a timely manner, maximizing the use of all available disposal methods, including dismantling, use for artificial reefs, donation, and Navy training exercises;
+
+&emsp;&emsp;"(B) identify and describe the funding and other resources necessary to implement the plan, and specific milestones for disposal of vessels under the plan;
+
+&emsp;&emsp;"(C) establish performance measures to track progress toward achieving the goals of the program, including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph;
+
+&emsp;&emsp;"(D) develop a formal decisionmaking framework for the program; and
+
+&emsp;&emsp;"(E) identify external factors that could impede successful implementation of the plan, and describe steps to be taken to mitigate the effects of such factors.
+
+"(d)
+
+Implementation of Management Plan.—
+
+&emsp;"(1)
+
+Requirement to implement.—Subject to the availability of appropriations, the Secretary shall implement the vessel disposal program of the Maritime Administration in accordance with—
+
+&emsp;&emsp;"(A) the management plan submitted under subsection (c); and
+
+&emsp;&emsp;"(B) the requirements set forth in paragraph (2).
+
+&emsp;"(2)
+
+Utilization of domestic sources.—In the procurement of services under the vessel disposal program of the Maritime Administration, the Secretary shall—
+
+&emsp;&emsp;"(A) use full and open competition; and
+
+&emsp;&emsp;"(B) utilize domestic sources to the maximum extent practicable.
+
+"(e)
+
+Failure to Submit Plan.—
+
+&emsp;"(1)
+
+Private management contract for disposal of maritime administration vessels.—The Secretary of Transportation, subject to the availability of appropriations, shall promptly award a contract using full and open competition to expeditiously implement all aspects of disposal of obsolete National Defense Reserve Fleet vessels.
+
+&emsp;"(2)
+
+Application.—This subsection shall apply beginning 180 days after the date of the enactment of this subsection \[Jan. 6, 2006\], unless the Secretary of Transportation has submitted to the Congress the comprehensive plan required under subsection (c).
+
+"(f)
+
+Briefings.—The Maritime Administrator shall, upon request, provide briefings to the Committee on Transportation and Infrastructure, the Committee on Natural Resources, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in recycling vessels, problems encountered with recycling vessels, issues relating to vessel recycling, and other issues relating to vessel recycling and disposal."
+

@@ -174,7 +174,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (E) Connectivity
 
-&emsp;&emsp;The eligible entity proposes a project that promotes local connectivity within areas,communities, or populations to be served through the project.
+&emsp;&emsp;The eligible entity proposes a project that promotes local connectivity within areas, communities, or populations to be served through the project.
 
 #### (F) Integration
 

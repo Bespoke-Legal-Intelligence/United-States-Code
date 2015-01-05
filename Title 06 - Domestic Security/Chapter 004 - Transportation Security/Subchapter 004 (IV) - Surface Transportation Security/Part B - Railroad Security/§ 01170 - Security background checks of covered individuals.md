@@ -6,7 +6,7 @@ In this section, the following definitions apply:
 
 #### (1) Security background check
 
-&emsp;The term “security background check” means reviewing, for the purpose of identifying individuals who may pose a threat to transportation security or national security, or of terrorism—
+&emsp;The term "security background check" means reviewing, for the purpose of identifying individuals who may pose a threat to transportation security or national security, or of terrorism—
 
 &emsp;&emsp;(A) relevant criminal history databases;
 
@@ -16,7 +16,7 @@ In this section, the following definitions apply:
 
 #### (2) Covered individual
 
-&emsp;The term “covered individual” means an employee of a railroad carrier or a contractor or subcontractor of a railroad carrier.
+&emsp;The term "covered individual" means an employee of a railroad carrier or a contractor or subcontractor of a railroad carrier.
 
 #### (b) Guidance
 
@@ -28,7 +28,7 @@ In this section, the following definitions apply:
 
 #### (c) Requirements
 
-If the Secretary issues a rule, regulation, or directive requiring a railroad carrier or contractor or subcontractor of a railroad carrier to perform a security background check of a covered individual, then the Secretary shall prohibit the railroad carrier or contractor or subcontractor of a railroad carrier from making an adverse employment decision, including removal or suspension of the covered individual, due to such rule, regulation, or directive with respect to a covered individual unless the railroad carrier or contractor or subcontractor of a railroad carrier determines that the covered individual—
+If the Secretary issues a rule, regulation, or directive requiring a railroad carrier or contractor or subcontractor of a railroad carrier to perform a security background check of a covered individual, then the Secretary shall prohibit the railroad carrier or contractor or subcontractor of a railroad carrier from making an adverseemployment decision, including removal or suspension of the covered individual, due to such rule, regulation, or directive with respect to a covered individual unless the railroad carrier or contractor or subcontractor of a railroad carrier determines that the covered individual—
 
 &emsp;(1) has been convicted of, has been found not guilty by reason of insanity, or is under want, warrant, or indictment for a permanent disqualifying criminal offense listed in part 1572 of title 49, Code of Federal Regulations;
 
@@ -64,7 +64,7 @@ Nothing in this section shall be construed to affect the process for review esta
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act June 27, 1952, ch. 477, 66 Stat.163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. The term “alien” is defined in section 101(a)(3) of the Act which is classified to section 1101(a)(3) of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. The term "alien" is defined in section 101(a)(3) of the Act which is classified to section 1101(a)(3) of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

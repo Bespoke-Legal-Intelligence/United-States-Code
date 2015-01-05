@@ -64,7 +64,7 @@ Application of amendments.—The amendments made by subsection (a) \[amending th
 
 "(2)
 
-Restoration of certain unobligated amounts.—The balance of any unobligated amount withdrawn under section 1552(a)(2) of title 31, UnitedStates Code, as in effect on the day before the date of the enactment of this Act, from an account the obligated balance of which has not been transferred under section 1552(a)(1) of title 31, United States Code, as in effect on the day before the date of the enactment of this section, is hereby restored to that account.
+Restoration of certain unobligated amounts.—The balance of any unobligated amount withdrawn under section 1552(a)(2) of title 31, United States Code, as in effect on the day before the date of the enactment of this Act, from an account the obligated balance of which has not been transferred under section 1552(a)(1) of title 31, United States Code, as in effect on the day before the date of the enactment of this section, is hereby restored to that account.
 
 "(3)
 

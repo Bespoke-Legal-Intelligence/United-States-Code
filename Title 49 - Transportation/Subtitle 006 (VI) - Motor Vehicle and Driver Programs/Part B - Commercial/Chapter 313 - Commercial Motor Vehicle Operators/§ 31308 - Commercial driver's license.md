@@ -46,7 +46,7 @@ The words "Not later than July 15, 1988" are omitted as obsolete.
 
 #### Amendments
 
-<b>2012</b>—Par. (1). Pub. L. 112–141 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "an individual issued a commercial driver's license passwritten and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;".
+<b>2012</b>—Par. (1). Pub. L. 112–141 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "anindividual issued a commercial driver's license pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;".
 
 <b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §4122(2)(A). See 2005 Amendment note below.
 

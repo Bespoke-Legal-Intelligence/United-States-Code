@@ -1,6 +1,6 @@
 ### §4540. Architectural and engineering services
 
-(a) Whenever he considers that it is advantageous to the national defense and that existing facilities of the Department of the Army are inadequate, the Secretary of the Army may, by contract or otherwise, employ the architectural or engineering services of any person outside that Department for producing and delivering designs, plans, drawings, and specificationsneeded for any public works or utilities project of the Department.
+(a) Whenever he considers that it is advantageous to the national defense and that existing facilities of the Department of the Army are inadequate, the Secretary of the Army may, by contract or otherwise, employ the architectural or engineering services of any person outside that Department for producing and delivering designs, plans, drawings, and specifications needed for any public works or utilities project of the Department.
 
 (b) The fee for any service under this section may not be more than 6 percent of the estimated cost, as determined by the Secretary, of the project to which it applies.
 

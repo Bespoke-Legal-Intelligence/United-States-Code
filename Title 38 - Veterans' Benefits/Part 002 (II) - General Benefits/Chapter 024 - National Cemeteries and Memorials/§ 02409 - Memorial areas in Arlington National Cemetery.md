@@ -48,7 +48,7 @@
 
 &emsp;(i) make available on an Internet website notification of the waiver and the rationale for the waiver; and
 
-&emsp;(ii) submit to the Committee on Veterans' Affairs and the Committee on Armed Servicesof the Senate and the Committee on Veterans' Affairs and the Committee on Armed Services of the House of Representatives written notice of the waiver and the rationale for the waiver.
+&emsp;(ii) submit to the Committee on Veterans' Affairs and the Committee on Armed Services of the Senate and the Committee on Veterans' Affairs and the Committee on Armed Services of the House of Representatives written notice of the waiver and the rationale for the waiver.
 
 (4) The Secretary of the Army shall provide notice to the Committee on Veterans' Affairs and the Committee on Armed Services of the Senate and the Committee on Veterans' Affairs and the Committee on Armed Services of the House of Representatives of any monument proposed to be placed in Arlington National Cemetery. During the 60-day period beginning on the date on which such notice is received, Congress may pass a joint resolution of disapproval of the placement of the monument. The proposed monument may not be placed in Arlington National Cemetery until the later of—
 
@@ -82,7 +82,7 @@ Pub. L. 108–11, title III, Apr. 16, 2003, 117 Stat. 603, provided that:
 
 "(a)
 
-Construction Required.—The Secretary of the Army shall, in consultation with the Administrator of the National Aeronautics and Space Administration, construct at an appropriate place in Arlington National Cemetery, Virginia, a memorial marker honoring the seven members of the crew of the Columbia Orbiter who died on February 1, 2003, over the State of Texas during the landing of space shuttle mission STS–107.
+Construction Required.—The Secretary of the Army shall, in consultation with the Administrator of the National Aeronautics and Space Administration, construct at an appropriate place in Arlington NationalCemetery, Virginia, a memorial marker honoring the seven members of the crew of the Columbia Orbiter who died on February 1, 2003, over the State of Texas during the landing of space shuttle mission STS–107.
 
 "(b)
 

@@ -10,7 +10,7 @@ The Director may delegate to agencies authority to make estimates of costs. The 
 
 #### (c) Coordination with Congressional Budget Office
 
-In developing estimation guidelines, regulations, or criteria to be used by Federal agencies,the Director shall consult with the Director of the Congressional Budget Office.
+In developing estimation guidelines, regulations, or criteria to be used by Federal agencies, the Director shall consult with the Director of the Congressional Budget Office.
 
 #### (d) Improving cost estimates
 

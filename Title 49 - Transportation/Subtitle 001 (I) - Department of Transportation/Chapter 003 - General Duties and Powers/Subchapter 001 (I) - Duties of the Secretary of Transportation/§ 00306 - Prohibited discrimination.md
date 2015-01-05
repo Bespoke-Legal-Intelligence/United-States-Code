@@ -16,7 +16,7 @@
 
 &emsp;(4) take other action provided by law.
 
-(e) When a matter is referred to the Attorney General under subsection (d)(2) of this section, or when the Attorney General has reason to believe that a person is engaged in a pattern or practice violating this section, the Attorney General may begin a civil action in a district court of the United States for appropriate relief.
+(e) When a matter is referred to the Attorney General under subsection (d)(2) of this section,or when the Attorney General has reason to believe that a person is engaged in a pattern or practice violating this section, the Attorney General may begin a civil action in a district court of the United States for appropriate relief.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2421; Pub. L. 98–216, §2(3), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(7), July 5, 1994, 108 Stat. 1376.)
 

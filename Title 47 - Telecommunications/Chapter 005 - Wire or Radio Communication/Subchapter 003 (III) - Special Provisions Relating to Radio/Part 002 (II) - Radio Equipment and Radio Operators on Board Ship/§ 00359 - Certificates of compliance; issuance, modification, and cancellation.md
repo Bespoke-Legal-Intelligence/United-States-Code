@@ -18,7 +18,7 @@ This part, referred to in subsec. (b), commences with section 351 of this title.
 
 <b>1954</b>—Act Aug. 13, 1954, §2(a)(1), amended credit to section by changing section number from "359" to "361" of act June 19, 1934.
 
-Subsec. (b). Act Aug. 13, 1954, §2(f), amended subsection generally to provide, among other changes, that certificates of compliance be issued "upon request to any vessel" and to provide that safety radiotelegraph certificates and safety radiotelephony certificates and certain exemption certificates be issued by the Federal Communications Commission.
+Subsec. (b). Act Aug. 13, 1954, §2(f), amended subsection generally to provide, among other changes, that certificates of compliance be issued "upon requestto any vessel" and to provide that safety radiotelegraph certificates and safety radiotelephony certificates and certain exemption certificates be issued by the Federal Communications Commission.
 
 #### Effective Date
 

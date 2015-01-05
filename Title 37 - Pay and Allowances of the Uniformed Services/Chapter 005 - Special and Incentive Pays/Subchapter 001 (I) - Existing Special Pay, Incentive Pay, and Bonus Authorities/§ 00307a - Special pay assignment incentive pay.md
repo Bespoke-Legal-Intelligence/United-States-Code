@@ -22,7 +22,7 @@ Maximum Rate or Amount.—(1) The maximum monthly rate of incentive pay payable 
 
 (3) The amount of each installment payment of incentive pay payable to a member on an installment basis under this section shall be the amount equal to—
 
-&emsp;(A) the product of (i) a monthly rate specified in the written agreement of the memberunder subsection (b)(2) (which monthly rate may not exceed the maximum monthly rate authorized under paragraph (1) at the time of the written agreement), and (ii) the number of months in the period for which incentive pay will be paid; divided by
+&emsp;(A) the product of (i) a monthly rate specified in the written agreement of the member under subsection (b)(2) (which monthly rate may not exceed the maximum monthly rate authorized under paragraph (1) at the time of the written agreement), and (ii) the number of months in the period for which incentive pay will be paid; divided by
 
 &emsp;(B) the number of installments over such period.
 
@@ -46,11 +46,13 @@ Status Not Affected by Temporary Duty or Leave.—The service of a member in an 
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2014.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2015.
 
-(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, \[div. A\], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(2), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(2), Dec. 26, 2013, 127 Stat. 781.)
+(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, \[div. A\], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2),Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(2), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(2), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §615(2), Dec. 19, 2014, 128 Stat. 3401.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 
 <b>2013</b>—Subsec. (g). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
@@ -102,7 +104,7 @@ Pub. L. 108–375, div. A, title VI, §617(c), Oct. 28, 2004, 118 Stat. 1949, pr
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under aprovision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Payment of Assignment Incentive Pay for Reserve Members Serving in Combat Zone for More Than 22 Months
 

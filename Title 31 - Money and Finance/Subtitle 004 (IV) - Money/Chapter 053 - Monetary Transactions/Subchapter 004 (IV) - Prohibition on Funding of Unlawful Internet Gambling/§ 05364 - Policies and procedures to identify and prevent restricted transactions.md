@@ -20,7 +20,7 @@ Requirements for Policies and Procedures.—In prescribing regulations under sub
 
 &emsp;(2) to the extent practical, permit any participant in a payment system to choose among alternative means of identifying and blocking, or otherwise preventing or prohibiting the acceptance of the products or services of the payment system or participant in connection with, restricted transactions;
 
-&emsp;(3) exempt certain restricted transactions or designated payment systems from any requirement imposed under such regulations, if the Secretary and the Board jointly find that it is not reasonably practical to identify and block,or otherwise prevent or prohibit the acceptance of, such transactions; and
+&emsp;(3) exempt certain restricted transactions or designated payment systems from any requirement imposed under such regulations, if the Secretary and the Board jointly find that it is not reasonably practical to identify and block, or otherwise prevent or prohibit the acceptance of, such transactions; and
 
 &emsp;(4) ensure that transactions in connection with any activity excluded from the definition of unlawful internet gambling in subparagraph (B), (C), or (D)(i) of section 5362(10) are not blocked or otherwise prevented or prohibited by the prescribed regulations.
 

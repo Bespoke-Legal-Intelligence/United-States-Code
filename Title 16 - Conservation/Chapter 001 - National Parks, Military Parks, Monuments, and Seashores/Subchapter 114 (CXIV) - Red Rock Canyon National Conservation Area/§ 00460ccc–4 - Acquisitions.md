@@ -18,6 +18,88 @@ All exchanges pursuant to subsection (a) of this section shall be made in a mann
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–161, which directed the amendment of section 460ccc–4(a) of the Red Rock Canyon National Conservation Area Establishment Act authorization by striking out "with donated or appropriated funds" in par. (1), striking out par. (2), and redesignating pars. (3) and (4) as (2) and (3), respectively, was executed by making the amendments to subsec. (a) of this section, which is section 6 of the Red Rock Canyon National Conservation Area Establishment Act of 1990, to reflect the probable intent of Congress. Prior to amendment, "with donated or appropriated funds" appeared after "purchase" and par. (2) read as follows: "Lands or interests therein owned by the State of Nevada or a political subdivision thereof may be acquired by donation or exchange only."
 
+#### Addition of Land to Red Rock Canyon National Conservation Area; Military Overflights
+
+Pub. L. 113–291, div. B, title XXX, §3092(b), (l), Dec. 19, 2014, 128 Stat. 3867, 3879, provided that:
+
+"(b)
+
+Addition of Land to Red Rock Canyon National Conservation Area.—
+
+&emsp;"(1)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;"(A)
+
+Conservation area.—The term 'Conservation Area' means the Red Rock Canyon National Conservation Area established by the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.).
+
+&emsp;&emsp;"(B)
+
+Map.—The term 'Map' means the map entitled 'North Las Vegas Valley Overview' and dated November 5, 2013.
+
+&emsp;&emsp;"(C)
+
+Secretary.—The term 'Secretary' means the Secretary of the Interior, acting through the Bureau of Land Management.
+
+&emsp;"(2)
+
+Addition of land to conservation area.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Conservation Area is expanded to include the land depicted on the Map as 'Additions to Red Rock NCA'.
+
+&emsp;&emsp;"(B)
+
+Management plan.—Not later than 2 years after the date on which the land is acquired, the Secretary shall update the management plan for the Conservation Area to reflect the management requirements of the acquired land.
+
+&emsp;&emsp;"(C)
+
+Map and legal description.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—As soon as practicable after the date of enactment of this section \[Dec. 19, 2014\], the Secretary shall finalize the legal description of the parcel to be conveyed under this subsection.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Minor errors.—The Secretary may correct any minor error in—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Map; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the legal description.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Availability.—The Map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+
+"(l)
+
+Military Overflights.—
+
+&emsp;"(1)
+
+Findings.—Congress finds that military aircraft testing and training activities in the State of Nevada—
+
+&emsp;&emsp;"(A) are an important part of the national defense system of the United States; and
+
+&emsp;&emsp;"(B) are essential in order to secure an enduring and viable national defense system for the current and future generations of people of the United States.
+
+&emsp;"(2)
+
+Overflights.—Nothing in this section \[enacting section 460aaaa of this title, amending section 460hhh–6 of this title, and enacting provisions listed in a table of Miscellaneous National Monuments set out under section 320301 of Title 54, National Park Service and Related programs\] restricts or precludes any military overflight, including—
+
+&emsp;&emsp;"(A) low-level overflights of military aircraft over the Federal land;
+
+&emsp;&emsp;"(B) flight testing and evaluation; and
+
+&emsp;&emsp;"(C) the designation or creation of new units of special airspace, or the use or establishment of military flight training routes, over—
+
+&emsp;&emsp;&emsp;"(i) the Tule Springs Fossil Beds National Monument established by subsection (a)(2)(A) \[enacting provisions listed in a table of Miscellaneous National Monuments set out under section 320301 of Title 54\]; or
+
+&emsp;&emsp;&emsp;"(ii) the Red Rock Canyon National Conservation Area established by the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) (as modified by subsection (b))."
+
 #### Red Rock Canyon National Conservation Area Protection and Enhancement
 
 Pub. L. 107–282, title I, Nov. 6, 2002, 116 Stat. 1995, provided that:
@@ -150,7 +232,7 @@ Inclusion of Acquired Lands.—Upon acquisition by the United States of lands un
 
 &emsp;"(1) administer the lands as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.), the Southern Nevada Public Lands \[Land\] Management Act of 1998 (Public Law 105–263), and all other applicable laws; and
 
-&emsp;"(2) create new maps showing the boundaries of Red Rock as modified or pursuant to this Act, and makesuch maps available for review at the Las Vegas District Office of the Bureau of Land Management and the State Office of the Bureau of Land Management, Reno, Nevada.
+&emsp;"(2) create new maps showing the boundaries of Red Rock as modified or pursuant to this Act, and make such maps available for review at the Las Vegas District Office of the Bureau of Land Management and the State Office of the Bureau of Land Management, Reno, Nevada.
 
 "(c)
 

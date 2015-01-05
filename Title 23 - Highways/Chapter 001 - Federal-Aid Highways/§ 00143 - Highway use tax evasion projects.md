@@ -146,7 +146,7 @@ Subsec. (c)(3). Pub. L. 105–178, §1114(c)(2), (3), as added by Pub. L. 105–
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–87, §122(a), (c), substituted "projects" for "demonstration projects" and "a Federal-aid system (other than the Interstate System)" for "the Federal-aid primary system" and deleted "to demonstrate the role that highways can play" before "to promote".
 
-Subsec. (b). Pub. L. 93–87, §122(a), substituted "projects" for "demonstration projects" and "a Federal-aidsystem (other than the Interstate System)" for "the Federal-aid primary system".
+Subsec. (b). Pub. L. 93–87, §122(a), substituted "projects" for "demonstration projects" and "a Federal-aid system (other than the Interstate System)" for "the Federal-aid primary system".
 
 Subsec. (c). Pub. L. 93–87, §122(a), substituted "project" for "demonstration project" and "a Federal-aid system (other than the Interstate System)" for "the Federal-aid primary system".
 
@@ -168,7 +168,7 @@ Pub. L. 102–240, title VIII, §8002(g), (h), Dec. 18, 1991, 105 Stat. 2204, 22
 
 "(g)
 
-Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
+Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportationshall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
 
 "\[(h) Repealed. Pub. L. 105–178, title I, §1114(b)(3)(B), June 9, 1998, 112 Stat. 154.\]"
 

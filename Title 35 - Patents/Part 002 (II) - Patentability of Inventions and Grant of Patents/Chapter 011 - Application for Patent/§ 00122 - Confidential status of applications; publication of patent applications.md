@@ -32,7 +32,7 @@ Exceptions.—(A) An application shall not be published if that application is�
 
 &emsp;(ii) An applicant may rescind a request made under clause (i) at any time.
 
-&emsp;(iii) An applicant who has made a request under clause (i) but who subsequently files, in a foreign country or under a multilateral international agreement specified in clause (i), an application directed to the invention disclosed in the application filed in the Patent and Trademark Office, shall notify the Director of such filing not later than 45 days after the date of the filing of such foreign or international application. A failure of the applicant to provide such notice within the prescribed period shall result in the application being regarded as abandoned.
+&emsp;(iii) An applicant who has made a request under clause (i) but who subsequently files, in a foreign country or under a multilateral international agreement specified in clause (i), an application directed to the invention disclosed in the application filed in the Patent and Trademark Office, shall notify the Director of such filing not later than 45 days after the date of the filing of such foreign or international application. A failure of the applicant to provide such notice within the prescribedperiod shall result in the application being regarded as abandoned.
 
 &emsp;(iv) If an applicant rescinds a request made under clause (i) or notifies the Director that an application was filed in a foreign country or under a multilateral international agreement specified in clause (i), the application shall be published in accordance with the provisions of paragraph (1) on or as soon as is practical after the date that is specified in clause (i).
 
@@ -108,7 +108,7 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, and applications published pursuant to subsec. (b) of this section resulting from an international application filed before Nov. 29, 2000 not to be effective as prior art as of the filing date of the international application, but to be effective as prior art in accordance with section 102(e) of this title in effect on Nov. 28, 2000, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (includinginternational applications designating the United States) filed on or after that date, and applications published pursuant to subsec. (b) of this section resulting from an international application filed before Nov. 29, 2000 not to be effective as prior art as of the filing date of the international application, but to be effective as prior art in accordance with section 102(e) of this title in effect on Nov. 28, 2000, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 #### Effective Date of 1975 Amendment
 

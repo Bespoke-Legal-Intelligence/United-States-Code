@@ -1,6 +1,6 @@
 ### §3703. Regulations
 
-(a) The Secretary shall prescribe regulations for the design, construction, alteration, repair, maintenance, operation, equipping, personnel qualification, and manning of vessels to which this chapter applies, that may be necessary for increased protection against hazards to life and property, for navigation and vessel safety, and for enhanced protection of the marine environment. The Secretary may prescribe different regulations applicable to vessels engaged in the domestic trade, and also may prescribe regulations that exceed standards set internationally. Regulations prescribed by the Secretary under this subsection are in addition to regulations prescribed under other laws that may apply to any of those vessels. Regulations prescribedunder this subsection shall include requirements about—
+(a) The Secretary shall prescribe regulations for the design, construction, alteration, repair, maintenance, operation, equipping, personnel qualification, and manning of vessels to which this chapter applies, that may be necessary for increased protection against hazards to life and property, for navigation and vessel safety, and for enhanced protection of the marine environment. The Secretary may prescribe different regulations applicable to vessels engaged in the domestic trade, and also may prescribe regulations that exceed standards set internationally. Regulations prescribed by the Secretary under this subsection are in addition to regulations prescribed under other laws that may apply to any of those vessels. Regulations prescribed under this subsection shall include requirements about—
 
 &emsp;(1) superstructures, hulls, cargo holds or tanks, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, and boilers;
 
@@ -78,7 +78,7 @@ Interim period.—After the effective date of this Act \[Oct. 15, 2010\], prior 
 
 &emsp;"(B) authorize a master, mate, or engineer who possesses an ocean or near coastal license and endorsement under part 11 of subchapter B of title 46, Code of Federal Regulations, (or any successor regulation) that qualifies the licensed officer for service on offshore supply vessels of at least 3,000 gross tons but less than 6,000 gross tons, as measured under section 14302 of title 46, United States Code, to operate offshore supply vessels of at least 6,000 gross tons, as measured under such section; and
 
-&emsp;"(C) authorize any such master, mate, or engineer who also possesses an ocean or near coastal license and endorsement under such part that qualifies the licensed officer for service on non trade-restrictedvessels of at least 1,600 gross tons but less than 3,000 gross tons, as measured under such section, to increase the tonnage limitation of such license and endorsement under section 11.402(c) of such part, using service on vessels certificated under both subchapters I and L of such title and measured only under such section, except that such tonnage limitation shall not exceed 10,000 gross tons as measured under such section."
+&emsp;"(C) authorize any such master, mate, or engineer who also possesses an ocean or near coastal license and endorsement under such part that qualifies the licensed officer for service on non trade-restricted vessels of at least 1,600 gross tons but less than 3,000 gross tons, as measured under such section, to increase the tonnage limitation of such license and endorsement under section 11.402(c) of such part, using service on vessels certificated under both subchapters I and L of such title and measured only under such section, except that such tonnage limitation shall not exceed 10,000 gross tons as measured under such section."
 
 #### Oil Transfers From Vessels
 
@@ -202,7 +202,7 @@ Matters to be included.—The study under this subsection shall include a review
 
 &emsp;"(4)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study under this subsection.
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives areport on the results of the study under this subsection.
 
 &emsp;"(5)
 

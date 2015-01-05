@@ -2,7 +2,7 @@
 
 "Political subdivision" or "political subdivisions" as used in this subchapter shall be understood to include any State, irrigation or other district, municipality, or other governmental organization.
 
-"Reclamation law" as used in this subchapter shall be understood to mean that certain Act ofCongress of the United States approved June 17, 1902, and the Acts amendatory thereof and supplemental thereto.
+"Reclamation law" as used in this subchapter shall be understood to mean that certain Act of Congress of the United States approved June 17, 1902, and the Acts amendatory thereof and supplemental thereto.
 
 "Maintenance" as used herein shall be deemed to include in each instance provision for keeping the works in good operating condition.
 

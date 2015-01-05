@@ -32,7 +32,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection(b).
 
-(d) In this section, the term "commissioned service obligation", with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense,any later date up to the eighth anniversary of such appointment.
+(d) In this section, the term "commissioned service obligation", with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 (e)(1) This section does not apply to a cadet who is not a citizen or national of the United States.
 
@@ -40,7 +40,7 @@
 
 (f) A cadet or former cadet who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(25), Oct. 13, 1964, 78 Stat. 1073; Pub. L. 98–525, title V, §§541(c), 542(d), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(c), Nov. 8, 1985, 99 Stat. 625; Pub. L. 101–189, div. A, title V, §511(d), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(c), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(11), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(c), Jan. 7, 2011, 124 Stat. 4221.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(25), Oct. 13, 1964, 78 Stat. 1073; Pub. L. 98–525, title V, §§541(c), 542(d), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(c), Nov. 8, 1985, 99 Stat. 625; Pub. L. 101–189,div. A, title V, §511(d), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(c), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(11), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(c), Jan. 7, 2011, 124 Stat. 4221.)
 
 Historical and Revision Notes
 

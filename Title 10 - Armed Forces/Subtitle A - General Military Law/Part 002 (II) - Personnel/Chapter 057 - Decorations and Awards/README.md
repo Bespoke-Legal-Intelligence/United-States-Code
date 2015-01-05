@@ -11,6 +11,7 @@
 | [1127\.](%C2%A7%2001127%20-%20Precedence%20of%20the%20award%20of%20the%20Purple%20Heart.md) | Precedence of the award of the Purple Heart. |
 | [1128\.](%C2%A7%2001128%20-%20Prisoner-of-war%20medal%20issue.md) | Prisoner-of-war medal: issue. |
 | [1129\.](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md) | Purple Heart: members killed or wounded in action by friendly fire. |
+| [1129a.](%C2%A7%2001129a%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20attacks%20by%20foreign%20terrorist%20organizations.md) | Purple Heart: members killed or wounded in attacks by foreign terrorist organizations. |
 | [1130\.](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review.md) | Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review. |
 | [1131\.](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md) | Purple Heart: limitation to members of the armed forces. |
 | [1132\.](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md) | Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies. |
@@ -22,6 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title V, §571(a)(1)(B), Dec. 19, 2014, 128 Stat. 3387, added item 1129a.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title V, §563(a)(2), Dec. 26, 2013, 127 Stat. 767, added item 1134a.
 
@@ -193,19 +196,17 @@ Sec. 4. The Humanitarian Service Medal or device may be awarded posthumously, an
 
 #### Ex. Ord. No. 12019. Defense Meritorious Service Medal
 
-Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, provided:
+Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, as amended by Ex. Ord. No. 13666, Apr. 18, 2014, 79 F.R. 22591, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
+Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 
 Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
 
 Sec. 3. No more than one Defense Meritorious Service Medal shall be awarded to any one person, but for each succeeding outstanding meritorious achievement or service justifying such an award a suitable device to be worn with that medal may be awarded under such regulations as the Secretary of Defense may prescribe.
 
 Sec. 4. The Defense Meritorious Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
-
-Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12793. Presidential Service Certificate and Presidential Service Badge
 
@@ -229,7 +230,7 @@ Ex. Ord. No. 12830, Jan. 9, 1993, 58 F.R. 4061, as amended by Ex. Ord. No. 13286
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Military Outstanding Volunteer Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security. Members of the Armed Forces of the United States (including Reserve components) who perform outstanding volunteer service to the civilian community of a sustained, direct, and consequential nature are eligible for the medal.
+Section 1. There is hereby established a Military Outstanding Volunteer Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security. Members of the Armed Forces of the United States (including Reservecomponents) who perform outstanding volunteer service to the civilian community of a sustained, direct, and consequential nature are eligible for the medal.
 
 Sec. 2. The Military Outstanding Volunteer Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense. The Secretary of Defense shall prescribe regulations to govern the award and wear of the Military Outstanding Volunteer Service Medal. The regulations shall place the Military Outstanding Volunteer Service Medal in order of precedence immediately after the Humanitarian Service Medal.
 
@@ -287,6 +288,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01127 - Precedence of the award of the Purple Heart](%C2%A7%2001127%20-%20Precedence%20of%20the%20award%20of%20the%20Purple%20Heart.md)
 - [&sect; 01128 - Prisoner-of-war medal issue](%C2%A7%2001128%20-%20Prisoner-of-war%20medal%20issue.md)
 - [&sect; 01129 - Purple Heart members killed or wounded in action by friendly fire](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md)
+- [&sect; 01129a - Purple Heart members killed or wounded in attacks by foreign terrorist organizations](%C2%A7%2001129a%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20attacks%20by%20foreign%20terrorist%20organizations.md)
 - [&sect; 01130 - Consideration of proposals for decorations not previously submitted in timely fashion procedures for review](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review.md)
 - [&sect; 01131 - Purple Heart limitation to members of the armed forces](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md)
 - [&sect; 01132 - Presentation of decorations prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent&#8230;](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md)

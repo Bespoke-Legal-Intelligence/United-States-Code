@@ -1,6 +1,6 @@
 ### §3543. Postponing a distress warrant proceeding
 
-(a) A distress warrant proceeding may be postponed for a reasonable time if the Secretary of the Treasury believes the public interest will not be harmed by the postponement.
+(a) A distress warrant proceeding may be postponed for a reasonable time if the Secretary ofthe Treasury believes the public interest will not be harmed by the postponement.
 
 (b)(1) A person adversely affected by a distress warrant issued under section 3541 of this title may bring a civil action in a district court of the United States. The complaint shall state the kind and extent of the harm. The court may grant an injunction to stay any part of a distress warrant proceeding required by the action after the person applying for the injunction gives a bond in an amount the court prescribes for carrying out a judgment.
 

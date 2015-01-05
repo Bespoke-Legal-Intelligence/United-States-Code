@@ -56,5 +56,5 @@ Functions of President under Earthquake Hazards Reduction Act of 1977 delegated,
 
 #### Report on At-Risk Populations
 
-Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal Emergency Management Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
+Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal EmergencyManagement Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
 

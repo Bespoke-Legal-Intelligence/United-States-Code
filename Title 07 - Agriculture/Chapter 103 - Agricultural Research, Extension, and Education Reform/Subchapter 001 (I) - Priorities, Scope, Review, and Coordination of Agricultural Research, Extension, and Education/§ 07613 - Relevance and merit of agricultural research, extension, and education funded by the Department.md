@@ -6,15 +6,15 @@
 
 &emsp;The Secretary shall establish procedures that provide for scientific peer review of each agricultural research grant administered, on a competitive basis, by the National Institute of Food and Agriculture of the Department.
 
-#### (2) Merit review of extension and education grants
+#### (2) Relevance and merit review of research, extension, and education grants
 
 #### (A) Establishment of procedures
 
-&emsp;&emsp;The Secretary shall establish procedures that provide for merit review of each agricultural extension or education grant administered, on a competitive basis, by the National Institute of Food and Agriculture.
+&emsp;&emsp;The Secretary shall establish procedures that provide for relevance and merit review of each agricultural research, extension, or education grant administered, on a competitive basis, by the National Institute of Food and Agriculture.
 
 #### (B) Consultation with Advisory Board
 
-&emsp;&emsp;The Secretary shall consult with the Advisory Board in establishing the merit review procedures.
+&emsp;&emsp;The Secretary shall consult with the Advisory Board in establishing the merit review procedures on a continuous basis.
 
 #### (3) Consideration
 
@@ -32,11 +32,11 @@ On an annual basis, the Advisory Board shall review—
 
 #### (1) Review results
 
-&emsp;As soon as practicable after the review is conducted under subsection (b) of this section for a fiscal year, the Secretary shall consider the results of the review when formulatingeach request for proposals, and evaluating proposals, involving an agricultural research, extension, or education activity funded, on a competitive basis, by the Department.
+&emsp;As soon as practicable after the review is conducted under subsection (b) for a fiscal year, the Secretary shall consider the results of the review when formulating each request for proposals, and evaluating proposals, involving an agricultural research, extension, or education activity funded, on a competitive basis, by the Department.
 
 #### (2) Input
 
-&emsp;In formulating a request for proposals described in paragraph (1) for a fiscal year, the Secretary shall solicit and consider input from persons who conduct or use agricultural research, extension, or education regarding the prior year's request for proposals.
+&emsp;In formulating a request for proposals described in paragraph (1) for a fiscal year, theSecretary shall solicit and consider input from persons who conduct or use agricultural research, extension, or education regarding the prior year's request for proposals.
 
 #### (d) Scientific peer review of agricultural research
 
@@ -96,7 +96,7 @@ On an annual basis, the Advisory Board shall review—
 
 &emsp;&emsp;(B) review the activity in accordance with such process.
 
-(Pub. L. 105–185, title I, §103, June 23, 1998, 112 Stat. 527; Pub. L. 110–234, title VII, §§7129(c)(3), 7301, 7511(c)(30), May 22, 2008, 122 Stat. 1227, 1242, 1270; Pub. L. 110–246, §4(a), title VII, §§7129(c)(3), 7301, 7511(c)(30), June 18, 2008, 122 Stat. 1664, 1988, 2003, 2031.)
+(Pub. L. 105–185, title I, §103, June 23, 1998, 112 Stat. 527; Pub. L. 110–234, title VII, §§7129(c)(3), 7301, 7511(c)(30), May 22, 2008, 122 Stat. 1227, 1242, 1270; Pub. L. 110–246, §4(a), title VII, §§7129(c)(3), 7301, 7511(c)(30), June 18, 2008, 122 Stat. 1664, 1988, 2003, 2031; Pub. L. 113–79, title VII, §7301, Feb. 7, 2014, 128 Stat. 887.)
 
 #### Codification
 
@@ -105,6 +105,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 103 of Pub. L. 105–185. Subsec. (f) of section 103 of Pub. L. 105–185 amended sections 361g, 3221, and 3222 of this title and repealed sections 346 and 3314 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–79, §7301(1), substituted "Relevance and merit review of research, extension," for "Merit review of extension" in heading.
+
+Subsec. (a)(2)(A). Pub. L. 113–79, §7301(2), inserted "relevance and" before "merit" and substituted "research, extension, or education" for "extension or education".
+
+Subsec. (a)(2)(B). Pub. L. 113–79, §7301(3), inserted "on a continuous basis" after "procedures".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(30), substituted "National Institute of Food and Agriculture" for "Cooperative State Research, Education, and Extension Service" in heading and "the National Institute of Food and Agriculture" for "the Cooperative State Research, Education, and Extension Service" in text of pars. (1) and (2)(A).
 

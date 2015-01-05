@@ -218,7 +218,7 @@
 
 #### (4) Budget neutral payment condition
 
-&emsp;Under this section, the Secretary shall ensure that the aggregate sum of medicare program benefit expenditures for beneficiaries participating in chronic care improvementprograms and funds paid to chronic care improvement organizations under this section, shall not exceed the medicare program benefit expenditures that the Secretary estimates would have been made for such targeted beneficiaries in the absence of such programs.
+&emsp;Under this section, the Secretary shall ensure that the aggregate sum of medicare program benefit expenditures for beneficiaries participating in chronic care improvement programs and funds paid to chronic care improvement organizations under this section, shall not exceed the medicare program benefit expenditures that the Secretary estimates would have been made for such targeted beneficiaries in the absence of such programs.
 
 #### (g) Funding
 

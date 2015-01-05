@@ -26,7 +26,7 @@ Apportionment.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—For the purpose of imposing any penalty under this title or title 49, the amounts shall be treated as being apportioned to Puerto Rico under sections 104(b) and 144 (as in effect for fiscal year 1997) for each program funded under those sections in an amount determined by multiplying—
+In general.—For the purpose of imposing any penalty under this title or title 49, the amounts shall be treated as being apportioned to Puerto Rico under sections104(b) and 144 (as in effect for fiscal year 1997) for each program funded under those sections in an amount determined by multiplying—
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate of the amounts for the fiscal year; by
 

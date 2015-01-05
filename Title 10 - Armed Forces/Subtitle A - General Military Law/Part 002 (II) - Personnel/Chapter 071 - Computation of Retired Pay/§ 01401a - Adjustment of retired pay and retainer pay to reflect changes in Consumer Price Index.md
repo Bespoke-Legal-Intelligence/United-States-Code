@@ -114,9 +114,9 @@ Definitions.—In this section:
 
 Price Index for a Quarter.—For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.
 
-(Added Pub. L. 88–132, §5(g)(1), Oct. 2, 1963, 77 Stat. 213; amended Pub. L. 89–132, §5(b), Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §2(a)(1), Dec. 16, 1967, 81 Stat. 652; Pub. L. 91–179, §1, Dec. 30, 1969, 83 Stat. 837; Pub. L. 94–106, title VIII, §806, Oct. 7, 1975, 89 Stat. 538; Pub. L. 94–361, title VIII, §801(a), July 14, 1976, 90 Stat. 929; Pub. L. 94–440, title XIII, §1306(d)(1), Oct. 1, 1976, 90 Stat. 1462; Pub. L. 96–342, title VIII, §812(b)(1), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 98–94, title IX, §§921(a)(1), (b), 922(a)(2), Sept. 24, 1983, 97 Stat. 640, 641; Pub. L. 98–525, title XIV, §1405(26), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–348, title I, §102, July 1, 1986, 100 Stat. 683; Pub. L. 100–180, div. A, title XII, §1231(21), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–224, §1, Dec. 30, 1987, 101 Stat. 1536; Pub. L. 100–456, div. A, title VI, §622(a), Sept. 29, 1988, 102 Stat. 1983; Pub. L. 101–189, div. A, title VI, §651(b)(1), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–66, title II, §2001, Aug. 10, 1993, 107 Stat. 335; Pub. L. 103–160, div. A, title XI, §1182(e), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–335, title VIII, §8114A(b)(1), Sept. 30, 1994, 108 Stat. 2648; Pub. L. 103–337, div. A, title VI, §633(a), Oct. 5, 1994, 108 Stat. 2787; Pub. L. 104–106, div. A, title VI, §631(a), (c), Feb. 10, 1996, 110 Stat. 364, 365; Pub. L. 104–201, div. A, title VI, §§631(a), 632(a), Sept. 23, 1996, 110 Stat. 2549; Pub. L. 106–65, div. A, title VI, §§641(b), 643(b)(1), title X, §1066(a)(10), Oct. 5, 1999, 113 Stat. 662, 663, 771; Pub. L. 107–314, div. A, title VI, §633, Dec. 2, 2002, 116 Stat. 2572; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178; Pub. L. 113–66, div. A, title VI, §631(a), (b), title X, §1091(a)(9), Dec. 26, 2013, 127 Stat. 785, 876; Pub. L. 113–67, div. A, title IV, §403(a), Dec. 26, 2013, 127 Stat. 1186.)
+(Added Pub. L. 88–132, §5(g)(1), Oct. 2, 1963, 77 Stat. 213; amended Pub. L. 89–132, §5(b), Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §2(a)(1), Dec. 16, 1967, 81 Stat. 652; Pub. L. 91–179, §1, Dec. 30, 1969, 83 Stat. 837; Pub. L. 94–106, title VIII, §806, Oct. 7, 1975, 89 Stat. 538; Pub. L. 94–361, title VIII, §801(a), July 14, 1976, 90 Stat. 929; Pub. L. 94–440, title XIII, §1306(d)(1), Oct. 1, 1976, 90 Stat. 1462; Pub. L. 96–342, title VIII, §812(b)(1), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 98–94, title IX, §§921(a)(1), (b), 922(a)(2), Sept. 24, 1983, 97 Stat. 640, 641; Pub. L. 98–525, title XIV, §1405(26), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–348, title I, §102, July 1, 1986, 100 Stat. 683; Pub. L. 100–180, div. A, title XII, §1231(21), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–224, §1, Dec. 30, 1987, 101 Stat. 1536; Pub. L. 100–456, div. A, title VI, §622(a), Sept. 29, 1988, 102 Stat. 1983; Pub. L. 101–189, div. A, title VI, §651(b)(1), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–66, title II, §2001, Aug. 10, 1993, 107 Stat. 335; Pub. L. 103–160, div. A, title XI, §1182(e), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–335, title VIII, §8114A(b)(1), Sept. 30, 1994, 108 Stat. 2648; Pub. L. 103–337, div. A, title VI, §633(a), Oct. 5, 1994, 108 Stat. 2787; Pub. L. 104–106, div. A, title VI, §631(a), (c), Feb. 10, 1996, 110 Stat. 364, 365; Pub. L. 104–201, div. A, title VI, §§631(a), 632(a), Sept. 23, 1996, 110 Stat. 2549; Pub. L. 106–65, div. A, title VI, §§641(b), 643(b)(1), title X, §1066(a)(10), Oct. 5, 1999, 113 Stat. 662, 663, 771; Pub. L. 107–314, div. A, title VI, §633, Dec. 2, 2002, 116 Stat. 2572; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178; Pub. L. 113–66, div. A, title VI, §631(a), (b), title X, §1091(a)(9), Dec. 26, 2013, 127 Stat. 785, 876; Pub. L. 113–67, div. A, title IV, §403(a), Dec. 26, 2013, 127 Stat. 1186; Pub. L.113–76, div. C, title X, §10001(a), (b)(3), Jan. 17, 2014, 128 Stat. 151; Pub. L. 113–82, §2(a), Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–291, div. A, title VI, §623, Dec. 19, 2014, 128 Stat. 3403.)
 
-#### Amendment of Subsection (b)
+#### Amendment of Subsections (b) and (f)
 
 <i>Pub. L. 113–67, div. A, title IV, §403(a), (c), Dec. 26, 2013, 127 Stat. 1186, provided that, effective Dec. 1, 2015, subsection (b) of this section is amended:</i>
 
@@ -156,11 +156,47 @@ Price Index for a Quarter.—For purposes of this section, the price index for a
 
 <i>See 2013 Amendment notes below.</i>
 
+<i>Pub. L. 113–76, div. C, title X, §10001(a), (b)(3), (c), Jan. 17, 2014, 128 Stat. 151, provided that, effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, this section is amended:</i>
+
+<i>(1) in subsection (b)(4), as added by section 403(a) of Pub. L. 113–67 (see above):</i>
+
+<i>(A) in subparagraph (A), by inserting after "age" the following: "(other than a member or former member retired under chapter 61 of this title)"; and</i>
+
+<i>(B) by adding at the end the following new subparagraph:</i>
+
+&emsp;&emsp;<i>"(F)</i>
+
+<i>Inapplicability to amount of retired pay used in computation of sbp annuity for survivors.—In the computation pursuant to subsection (d) or (f) of section 1448 of this title of an annuity for survivors of a member or person who dies while subject to the application of this paragraph, the amount of the retired pay of such member or person for purposes of such computation shall be the amount of retired pay that would have been payable to such member or person at the time of death without regard to the application of this paragraph."; and</i>
+
+<i>(2) in subsection (f)(2), by inserting "or subsection (b)(4)" after "subsection (b)(2)".</i>
+
+<i>See 2014 Amendment notes below.</i>
+
+<i>Pub. L. 113–82, §2, Feb. 15, 2014, 128 Stat. 1009, provided that, effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, subsection (b)(4) of this section, as added by section 403(a) of Pub. L. 113–67 (see above), is amended by adding at the end the following new subparagraph:</i>
+
+&emsp;&emsp;<i>(G)</i>
+
+<i>Members covered.—This paragraph applies to a member or former member of an armed force who first became a member of a uniformed service on or after January 1, 2014.</i>
+
+<i>See 2014 Amendment note below.</i>
+
+<i>Pub. L. 113–291, div. A, title VI, §623, Dec. 19, 2014, 128 Stat. 3403, provided that subsection (b)(4)(G) of this section (see above), which takes effect Dec. 1, 2015, pursuant to section 403(a) of Pub. L. 113–67, as amended, is amended by striking "January 1, 2014" and inserting "January 1, 2016". See 2014 Amendment note below.</i>
+
 #### References in Text
 
 Section 322 of title 37 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(3), and section 322 of title 37 (as in effect before January 28, 2008), referred to in subsecs. (d) and (e), mean section 322 of title 37 as in effect before enactment of Pub. L. 110–181 on January 28, 2008. Section 322 of title 37 was renumbered as section 354 of title 37 and amended by Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(4)(A). Pub. L. 113–76, §10001(a)(1), inserted "(other than a member or former member retired under chapter 61 of this title)" after "age".
+
+Subsec. (b)(4)(F). Pub. L. 113–76, §10001(a)(2), added subpar. (F).
+
+Subsec. (b)(4)(G). Pub. L. 113–291 substituted "January 1, 2016" for "January 1, 2014".
+
+Pub. L. 113–82 added subpar. (G).
+
+Subsec. (f)(3). Pub. L. 113–76, §10001(b)(3), which directed the insertion of "or subsection (b)(4)" after "subsection (b)(2)" in par. (2), was executed by making the insertion in par. (3) to reflect the probable intent of Congress.
 
 <b>2013</b>—Subsec. (b)(1). Pub. L. 113–67, §403(a)(1), substituted "paragraph (2), (3), or (4)" for "paragraphs (2) and (3)".
 
@@ -366,11 +402,17 @@ Subsecs. (c) to (e). Pub. L. 90–207 added subsecs. (c) to (e).
 
 <b>1965</b>—Subsec. (b). Pub. L. 89–132 substituted provisions requiring the Secretary of Defense to determine the per centum for each calendar month that the Consumer Price Index has increased over the base Consumer Price Index, and if the index has shown an increase of at least 3 per centum over the base index for three consecutive calendar months to increase the retired or retainer pay by the highest per centum of increase in the index, for provisions which required a determination of the increase over the preceding calendar year and permitted an increase in the retired or retainer pay if the index advanced 3 per centum or more for a full calendar year.
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–82, §2(b), Feb. 15, 2014, 128 Stat. 1009, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on December 1, 2015, immediately after the coming into effect of section 403 of the Bipartisan Budget Act of 2013 \[section 403 of Pub. L. 113–67, amending this section and section 1410 of this title and enacting provisions set out as a note under this section\] and the amendments made by that section."
+
+Pub. L. 113–76, div. C, title X, §10001(c), Jan. 17, 2014, 128 Stat. 151, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 1413a and 1414 of this title\] shall take effect on December 1, 2015, immediately after the coming into effect of section 403 of the Bipartisan Budget Act of 2013 \[section 403 of Pub. L. 113–67, amending this section and section 1410 of this title and enacting provisions set out as a note under this section\] and the amendments made by that section."
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 113–67, div. A, title IV, §403(c), Dec. 26, 2013, 127 Stat. 1186, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1410 of this title\] shall take effect on December 1, 2015."
 
-Pub. L. 113–66, div. A, title VI, §631(c), Dec. 26, 2013, 127 Stat. 785, provided that: "Paragraph (2) of section1401a(f) of title 10, United States Code, as added by the amendment made by subsection (a)(3), applies to the computation of retired pay or retainer pay of any person who first became a member of a uniformed service on or after September 8, 1980, regardless of when the member first becomes entitled to retired or retainer pay."
+Pub. L. 113–66, div. A, title VI, §631(c), Dec. 26, 2013, 127 Stat. 785, provided that: "Paragraph (2) of section 1401a(f) of title 10, United States Code, as added by the amendment made by subsection (a)(3), applies to the computation of retired pay or retainer pay of any person who first became a member of a uniformed service on or after September 8, 1980, regardless of when the member first becomes entitled to retired or retainer pay."
 
 #### Effective Date of 1999 Amendment
 
@@ -448,7 +490,7 @@ Limitation.—Subsection (a) shall be effective only if there is appropriated to
 
 "(d)
 
-Authorization of Appropriations.—There is authorized to be appropriated for fiscal year 1995 to the Department of Defense Military Retirement Fund thesum of $376,000,000 to offset increased outlays to be made from that fund during fiscal year 1995 by reason of the provisions of subsection (a)."
+Authorization of Appropriations.—There is authorized to be appropriated for fiscal year 1995 to the Department of Defense Military Retirement Fund the sum of $376,000,000 to offset increased outlays to be made from that fund during fiscal year 1995 by reason of the provisions of subsection (a)."
 
 #### Sense of Congress on Equal Treatment of Effective Dates for Future Cost-of-Living Adjustments for Military and Civilian Retirees
 
@@ -544,7 +586,7 @@ Pub. L. 96–342, title VIII, §812, Sept. 8, 1980, 94 Stat. 1098, as amended by
 
 "(a)(1) The increase in the retired and retainer pay of members and former members of the uniformed services which but for this section would be made effective September 1, 1980, under the provisions of paragraph (2)(B) of section 1401a(b) of title 10, United States Code, shall not be made.
 
-"(2)(A) In making the determination required by the provisions of paragraph (1)(A) of section 1401a(b) of title 10, United States Code, to be made on January 1, 1981,or within a reasonable time thereafter, the Secretary of Defense shall determine the percent change in the index (as such term is defined in section 1401a(a) of title 10, United States Code) published for December 1980 over the index published for December 1979 (rather than over the index published for June 1980).
+"(2)(A) In making the determination required by the provisions of paragraph (1)(A) of section 1401a(b) of title 10, United States Code, to be made on January 1, 1981, or within a reasonable time thereafter, the Secretary of Defense shall determine the percent change in the index (as such term is defined in section 1401a(a) of title 10, United States Code) published for December 1980 over the index published for December 1979 (rather than over the index published for June 1980).
 
 "(B) The increase in the retired and retainer pay of members and former members of the uniformed services to be made effective March 1, 1981, under the provisions of paragraph (2)(A) of such section shall, in lieu of the increase prescribed by such paragraph, be the percent change computed under subparagraph (A), adjusted to the nearest 1/10 of one percent.
 
@@ -560,7 +602,7 @@ Pub. L. 96–342, title VIII, §812, Sept. 8, 1980, 94 Stat. 1098, as amended by
 
 "(3) If legislation described in paragraph (2) is enacted to provide for the adjustment of annuities paid under subchapter III of chapter 83 of title 5, United States Code, on a once-a-year basis, the President shall exercise the authority vested in him under section 292 of the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note) to provide for cost-of-living adjustments in the annuities paid under such Act on an identical basis.
 
-"(4) If at the time the first adjustment in retired and retainer pay is made under section 1401a(b) of title 10, United States Code, as amended by paragraph (1) of this subsection, the period upon which the most recent adjustment in such retired and retainer pay was computed is not identical to the period upon which the most recent adjustment in annuities under subchapter III of chapter 83 of title 5, United States Code, was computed, then the percentage increase to be made under such section 1401a(b) at the time of the first such adjustment shall be computed in the same manner as the percentage increase made at the same time in annuities under subchapter III of chapter 83 of title 5, United States Code, is computed, but shall be based on the period beginning on the last day of the period upon which the most recent adjustment in such retired and retainer pay was computed and ending on the last day of the period upon which the adjustment being made at the same time in annuities under such subchapter III is computed. The President shall by Executive order provide for a similar computation of the adjustment in annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note) which is made at the same time as the increase in retired and retainer pay to which the preceeding \[preceding\] sentence is applicable.
+"(4) If at the time the first adjustment in retired and retainer pay is made under section 1401a(b) of title 10, United States Code, as amended by paragraph (1) of this subsection, the period upon which the most recent adjustment in such retired and retainer pay was computed is not identical to the period upon which the most recent adjustment in annuities under subchapterIII of chapter 83 of title 5, United States Code, was computed, then the percentage increase to be made under such section 1401a(b) at the time of the first such adjustment shall be computed in the same manner as the percentage increase made at the same time in annuities under subchapter III of chapter 83 of title 5, United States Code, is computed, but shall be based on the period beginning on the last day of the period upon which the most recent adjustment in such retired and retainer pay was computed and ending on the last day of the period upon which the adjustment being made at the same time in annuities under such subchapter III is computed. The President shall by Executive order provide for a similar computation of the adjustment in annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees (\[former\] 50 U.S.C. 403 note) which is made at the same time as the increase in retired and retainer pay to which the preceeding \[preceding\] sentence is applicable.
 
 "(c) For the purposes of this section, the term 'uniformed services' means—
 
@@ -588,7 +630,7 @@ Pub. L. 94–361, title VIII, §801(c), July 14, 1976, 90 Stat. 929, provided th
 
 "(1) The amendments made by subsections (a) \[to subsec. (b) of this section\] and (b) \[to provisions formerly set out as a note under section 403 of title 50\] shall not become effective unless legislation is enacted repealing the so-called 1 per centum add-on provision applicable to the cost-of-living adjustment of annuities paid under chapter 83 of title 5, United States Code. In the event such legislation is enacted, such amendments shall become effective with respect to the cost-of-living adjustment of the retired pay and retainer pay of members and former members of the Armed Forces and the cost-of-living adjustment of annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees at the same time the repeal of such 1 per centum add-on provision becomes effective with respect to such cost-of-living adjustment of annuities paid under such chapter 83.
 
-"(2) If any change other than the repeal of the so-called 1 per centum add-on provision referred to inparagraph (1) is made in the method of computing the cost-of-living adjustment of annuities paid under chapter 83 of title 5, United States Code, the President shall make the same change in the cost-of-living adjustment of retired pay and retainer pay of members and former members of the Armed Forces and the cost-of-living adjustment of annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees. Any change made under this paragraph shall have the same effective date as the effective date applicable to such change made in annuities under chapter 83 of title 5, United States Code.
+"(2) If any change other than the repeal of the so-called 1 per centum add-on provision referred to in paragraph (1) is made in the method of computing the cost-of-living adjustment of annuities paid under chapter 83 of title 5, United States Code, the President shall make the same change in the cost-of-living adjustment of retired pay and retainer pay of members and former members of the Armed Forces and the cost-of-living adjustment of annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees. Any change made under this paragraph shall have the same effective date as the effective date applicable to such change made in annuities under chapter 83 of title 5, United States Code.
 
 "(3) The provisions of paragraphs (1) and (2) relating to any change in the method of computing the cost-of-living adjustment of the retired pay or retainer pay of members and former members of the Armed Forces shall be applicable to the computation of cost-of-living adjustments of the retired pay of commissioned officers of the National Oceanic and Atmospheric Administration and the retired pay of commissioned officers of the Public Health Service."
 

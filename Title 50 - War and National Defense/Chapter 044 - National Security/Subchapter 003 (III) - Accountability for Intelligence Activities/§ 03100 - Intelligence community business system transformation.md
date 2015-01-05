@@ -74,7 +74,7 @@ The Director of National Intelligence shall be responsible for the entire life c
 
 (2) The Board shall—
 
-&emsp;(A) recommend to the Director policies and procedures necessary to effectively integrateall business activities and any transformation, reform, reorganization, or process improvement initiatives undertaken within the intelligence community;
+&emsp;(A) recommend to the Director policies and procedures necessary to effectively integrate all business activities and any transformation, reform, reorganization, or process improvement initiatives undertaken within the intelligence community;
 
 &emsp;(B) review and approve any major update of—
 
@@ -110,7 +110,7 @@ Nothing in this section shall be construed to exempt funds authorized to be appr
 
 #### (j) Reports
 
-Not later than March 31 of each of the years 2011 through 2015, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the compliance of the intelligence community with the requirements of this section. Each such report shall—
+Not later than March 31 of each of the years 2011 through 2014, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the compliance of the intelligence community with the requirements of this section. Each such report shall—
 
 &emsp;(1) describe actions taken and proposed for meeting the requirements of subsection (a), including—
 
@@ -138,21 +138,25 @@ In this section:
 
 &emsp;&emsp;(B) any significant modification or enhancement of an existing intelligence community business system (other than necessary to maintain current services).
 
-&emsp;(5) The term "national security system" has the meaning given that term in section 3542 of title 44.
+&emsp;(5) The term "national security system" has the meaning given that term in section 3542 <sup>1</sup> of title 44.
 
 &emsp;(6) The term "Office of Business Transformation of the Office of the Director of National Intelligence" includes any successor office that assumes the functions of the Office of Business Transformation of the Office of the Director of National Intelligence as carried out by the Office of Business Transformation on October 7, 2010.
 
-(July 26, 1947, ch. 343, title V, §506D, as added Pub. L. 111–259, title III, §322(a)(1), Oct. 7, 2010, 124 Stat. 2669; amended Pub. L. 112–277, title III, §310(a)(3), Jan. 14, 2013, 126 Stat. 2475.)
+(July 26, 1947, ch. 343, title V, §506D, as added Pub. L. 111–259, title III, §322(a)(1), Oct. 7, 2010, 124 Stat. 2669; amended Pub. L. 112–277, title III, §310(a)(3), Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title III, §329(b)(3), July 7, 2014, 128 Stat. 1406.)
 
 #### References in Text
 
 Section 8083 of the Department of Defense Appropriations Act, 2005, referred to in subsec. (g), is section 8083 of Pub. L. 108–287, title VIII, Aug. 5, 2004, 118 Stat. 989, which is not classified to the Code.
+
+Section 3542 of title 44, referred to in subsec. (k)(5), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions defining "national security system" are now contained in section 3552 of title 44, as enacted by Pub. L. 113–283.
 
 #### Codification
 
 Section was formerly classified to section 415a–6 of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (j). Pub. L. 113–126 substituted "2014" for "2015" in introductory provisions.
 
 <b>2013</b>—Subsec. (e). Pub. L. 112–277 struck out subsec. (e) which required inclusion of certain budget information in the budget materials submitted to Congress for each fiscal year after fiscal year 2011.
 
@@ -187,4 +191,6 @@ Requirement for implementation plan.—In developing such an enterprise architec
 Submission of acquisition strategy.—Based on the results of an enterprise process management review and the availability of funds, the Director shall submit the acquisition strategy described in subparagraph (B)(i) to the congressional intelligence committees not later than March 31, 2011."
 
 \[For definitions of terms used in section 322(b) of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a note under section 3003 of this title.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

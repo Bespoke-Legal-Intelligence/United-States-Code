@@ -70,7 +70,7 @@ A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) 
 
 #### (2) Limitation
 
-&emsp;In any case where there is a surviving former spouse or surviving former wife or husband of such participant who is entitled to a share of such participant's lump-sum credit under paragraphs (2) and (3) of subsection (b) of this section, the lump-sum credit payable under paragraph (1) shall be reduced by the lump-sum credit payable to such former spouse or former wife or husband.
+&emsp;In any case where there is a surviving former spouse or surviving former wife or husband of such participant who is entitled to ashare of such participant's lump-sum credit under paragraphs (2) and (3) of subsection (b) of this section, the lump-sum credit payable under paragraph (1) shall be reduced by the lump-sum credit payable to such former spouse or former wife or husband.
 
 #### (e) Termination of all annuity rights
 

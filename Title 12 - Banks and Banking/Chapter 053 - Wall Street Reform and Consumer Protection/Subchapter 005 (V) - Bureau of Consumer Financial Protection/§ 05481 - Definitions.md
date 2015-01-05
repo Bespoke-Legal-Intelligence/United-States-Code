@@ -72,7 +72,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (12) Enumerated consumer laws
 
-&emsp;Except as otherwise specifically provided in section 5519 of this title, subtitle G or subtitle H, the term "enumerated consumer laws" means—
+&emsp;Except as otherwise specifically provided in section 5519 of this title, subtitle G or subtitleH, the term "enumerated consumer laws" means—
 
 &emsp;&emsp;(A) the Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.);
 
@@ -146,9 +146,9 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(vi) providing check cashing, check collection, or check guaranty services;
 
-&emsp;&emsp;&emsp;(vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through anonline banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
+&emsp;&emsp;&emsp;(vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through an online banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
 
-&emsp;&emsp;&emsp;&emsp;(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructions by the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
+&emsp;&emsp;&emsp;&emsp;(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructionsby the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
 
 &emsp;&emsp;&emsp;&emsp;(II) provides access to a host server to a person for purposes of enabling that person to establish and maintain a website;
 
@@ -292,7 +292,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(i) any director, officer, or employee charged with managerial responsibility for, or controlling shareholder of, or agent for, such covered person;
 
-&emsp;&emsp;&emsp;(ii) any shareholder, consultant, joint venture partner, or other person, as determined by the Bureau (by rule or on a case-by-case basis) who materially participatesin the conduct of the affairs of such covered person; and
+&emsp;&emsp;&emsp;(ii) any shareholder, consultant, joint venture partner, or other person, as determined by the Bureau (by rule or on a case-by-case basis) who materially participates in the conduct of the affairs of such covered person; and
 
 &emsp;&emsp;&emsp;(iii) any independent contractor (including any attorney, appraiser, or accountant) who knowingly or recklessly participates in any—
 
@@ -304,7 +304,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (A) In general
 
-&emsp;&emsp;The term "service provider" means any person that provides a material service to a covered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
+&emsp;&emsp;The term "service provider" means any person that provides a material service to acovered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
 
 &emsp;&emsp;&emsp;(i) participates in designing, operating, or maintaining the consumer financial product or service; or
 
@@ -410,7 +410,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 #### Designation as Enumerated Consumer Law Under the Purview of the Bureau of Consumer Financial Protection
 
-Pub. L. 111–203, title XIV, §1400(b), July 21, 2010, 124 Stat. 2136, provided that: "Subtitles A, B, C, and E \[subtitles A (§§1401–1406), B (§§1411–1422), C (§§1431–1433), and E (§§1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting section 1639h of Title 15\], 1472 \[enacting section 1639e of Title 15 and amending section 1604 of Title 15\], 1475 \[amending section 2603 of this title\], and 1476 \[not classified to the Code\], and the amendmentsmade by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[12 U.S.C. 5481\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under section 5301 of this title\], including the transfer of functions and personnel under subtitle F of title X \[§§1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle."
+Pub. L. 111–203, title XIV, §1400(b), July 21, 2010, 124 Stat. 2136, provided that: "Subtitles A, B, C, and E \[subtitles A (§§1401–1406), B (§§1411–1422), C (§§1431–1433), and E (§§1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15\] and sections 1471 \[enacting section 1639h of Title 15\], 1472 \[enacting section 1639e of Title 15 and amending section 1604 of Title 15\], 1475 \[amending section 2603 of this title\], and 1476 \[not classified to the Code\], and the amendments made by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 \[12 U.S.C. 5481\], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X \[see Short Title note set out under section 5301 of this title\], including the transfer of functions and personnel under subtitle F of title X \[§§1061–1067, enacting part F of this subchapter\] and the savings provisions of such subtitle."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

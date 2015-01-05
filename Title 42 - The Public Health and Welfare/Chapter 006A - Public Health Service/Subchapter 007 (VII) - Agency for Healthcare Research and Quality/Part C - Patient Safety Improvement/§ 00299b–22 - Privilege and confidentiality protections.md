@@ -10,7 +10,7 @@ Notwithstanding any other provision of Federal, State, or local law, and subject
 
 &emsp;(3) subject to disclosure pursuant to section 552 of title 5 (commonly known as the Freedom of Information Act) or any other similar Federal, State, or local law;
 
-&emsp;(4) admitted as evidence in any Federal, State, or local governmental civil proceeding,criminal proceeding, administrative rulemaking proceeding, or administrative adjudicatory proceeding, including any such proceeding against a provider; or
+&emsp;(4) admitted as evidence in any Federal, State, or local governmental civil proceeding, criminal proceeding, administrative rulemaking proceeding, or administrative adjudicatory proceeding, including any such proceeding against a provider; or
 
 &emsp;(5) admitted in a professional disciplinary proceeding of a professional disciplinary body established or specifically authorized under State law.
 

@@ -14,7 +14,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;(3) whether an individual's coverage under an employer-sponsored health benefits plan is treated as unaffordable under sections 36B(c)(2)(C) and 5000A(e)(2) of title 26; <sup>1</sup> and
 
-&emsp;(4) whether to grant a certification under section 18031(d)(4)(H) of this title attesting that, for purposes of the individual responsibility requirement under section 5000A of title 26, an individual is entitled to an exemption from either the individual responsibility requirement or the penalty imposed by such section.
+&emsp;(4) whether to grant a certification under section 18031(d)(4)(H) of this title attestingthat, for purposes of the individual responsibility requirement under section 5000A of title 26, an individual is entitled to an exemption from either the individual responsibility requirement or the penalty imposed by such section.
 
 #### (b) Information required to be provided by applicants
 
@@ -158,7 +158,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### (i) Reasonable effort
 
-&emsp;&emsp;&emsp;The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, by contacting the applicant to confirm theaccuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
+&emsp;&emsp;&emsp;The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, by contacting the applicant to confirm the accuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
 
 #### (ii) Notice and opportunity to correct
 
@@ -216,7 +216,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### (B) Confidentiality
 
-&emsp;&emsp;Notwithstanding any provision of this title <sup>1</sup> (or the amendments made by this title) <sup>1</sup> or section 6103 of title 26, an employer shall not be entitled to any taxpayer return information with respect to an employee for purposes of determining whether the employer is subject to the penalty under section 4980H of title 26 with respect to the employee, except that—
+&emsp;&emsp;Notwithstanding any provision of this title <sup>1</sup> (or the amendments made by this title) <sup>1</sup> or section 6103 of title 26, an employer shall not be entitled to any taxpayer returninformation with respect to an employee for purposes of determining whether the employer is subject to the penalty under section 4980H of title 26 with respect to the employee, except that—
 
 &emsp;&emsp;&emsp;(i) the employer may be notified as to the name of an employee and whether or not the employee's income is above or below the threshold by which the affordability of an employer's health insurance coverage is measured; and
 
@@ -292,7 +292,7 @@ In the case of information provided under subsection (b) that is not required un
 
 Sections 36B(c)(2)(C) and 5000A(e)(2) of title 26, section 6103(l)(21) of title 26, and section 5000A of title 26, referred to in subsecs. (a)(3) and (b)(3)(A), (5), were in the original "sections 36B(c)(2)(C) and 5000A(e)(2)", "section 6103(l)(21)", and "section 5000A", respectively, and were translated as if they had been followed by "of the Internal Revenue Code of 1986", to reflect the probable intent of Congress.
 
-This title, referred to in subsecs. (f)(2)(B) and (i)(1), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsecs. (f)(2)(B) and (i)(1), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130,which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 Section 1513, referred to in subsec. (i)(1), means section 1513 of Pub. L. 111–148.
 

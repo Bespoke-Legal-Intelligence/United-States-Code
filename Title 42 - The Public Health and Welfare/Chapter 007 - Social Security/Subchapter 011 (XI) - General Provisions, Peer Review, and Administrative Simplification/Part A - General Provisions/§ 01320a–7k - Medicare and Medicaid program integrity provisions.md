@@ -134,7 +134,7 @@ The Secretary shall promulgate a regulation that requires, not later than Januar
 
 #### References in Text
 
-The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(2), is Pub. L.104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(2), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "clause (i)".</i>
 

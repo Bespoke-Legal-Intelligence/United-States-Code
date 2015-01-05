@@ -20,7 +20,7 @@ To the extent consistent with the provisions of this chapter or as otherwise ord
 
 #### (c) Reports by trustee to court
 
-The trustee shall make to the court and to SIPC such written reports as may be required of a trustee in a case under chapter 7 of title 11, and shall include in such reports information with respect to the progress made in distributing cash and securities to customers. Such reports shall be in such form and detail as the Commission determines by rule to present fairly the results of the liquidation proceeding as of the date of or for the period covered by such reports, having due regard for the requirements of section 78q of this title and the rules prescribed under such section and the magnitude of items and transactions involved in connection with the operations of a broker or dealer.
+The trustee shall make to the court and to SIPC such written reports as may be required of a trustee in a case under chapter 7 of title 11, and shall include in such reports informationwith respect to the progress made in distributing cash and securities to customers. Such reports shall be in such form and detail as the Commission determines by rule to present fairly the results of the liquidation proceeding as of the date of or for the period covered by such reports, having due regard for the requirements of section 78q of this title and the rules prescribed under such section and the magnitude of items and transactions involved in connection with the operations of a broker or dealer.
 
 #### (d) Investigations
 
@@ -28,7 +28,7 @@ The trustee shall—
 
 &emsp;(1) as soon as practicable, investigate the acts, conduct, property, liabilities, and financial condition of the debtor, the operation of its business, and any other matter, to the extent relevant to the liquidation proceeding, and report thereon to the court;
 
-&emsp;(2) examine, by deposition or otherwise, the directors and officers of the debtor and anyother witnesses concerning any of the matters referred to in paragraph (1);
+&emsp;(2) examine, by deposition or otherwise, the directors and officers of the debtor and any other witnesses concerning any of the matters referred to in paragraph (1);
 
 &emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities, and to any causes of action available to the estate; and
 

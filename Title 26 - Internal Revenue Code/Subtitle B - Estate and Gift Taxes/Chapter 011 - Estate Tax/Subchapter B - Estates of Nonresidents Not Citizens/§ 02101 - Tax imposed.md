@@ -26,7 +26,7 @@ The tax imposed by this section shall be the amount equal to the excess (if any)
 
 &emsp;For purposes of this section, the rules of section 2001(d) shall apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 94–455, title XX, §2001(c)(1)(D), Oct. 4, 1976, 90 Stat. 1850; Pub. L. 100–647, title V, §5032(a), (c), Nov. 10, 1988, 102 Stat. 3669; Pub. L. 101–239, title VII, §7815(c), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 103–66, title XIII, §13208(b)(3), Aug. 10, 1993, 107 Stat. 469; Pub. L. 107–147, title IV, §411(g)(2), Mar. 9, 2002, 116 Stat. 46.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(a), Nov. 13, 1966, 80 Stat. 1571;Pub. L. 94–455, title XX, §2001(c)(1)(D), Oct. 4, 1976, 90 Stat. 1850; Pub. L. 100–647, title V, §5032(a), (c), Nov. 10, 1988, 102 Stat. 3669; Pub. L. 101–239, title VII, §7815(c), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 103–66, title XIII, §13208(b)(3), Aug. 10, 1993, 107 Stat. 469; Pub. L. 107–147, title IV, §411(g)(2), Mar. 9, 2002, 116 Stat. 46.)
 
 #### Amendments
 

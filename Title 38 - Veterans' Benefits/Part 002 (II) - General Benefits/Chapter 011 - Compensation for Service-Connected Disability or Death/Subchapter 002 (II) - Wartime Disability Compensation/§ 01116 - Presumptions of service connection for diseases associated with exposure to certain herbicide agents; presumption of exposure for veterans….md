@@ -58,7 +58,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: "Presumptions of service connectionfor diseases associated with exposure to certain herbicide agents".
+<b>2001</b>—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: "Presumptions of service connection for diseases associated with exposure to certain herbicide agents".
 
 Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out "within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" before period at end.
 
@@ -118,7 +118,7 @@ Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, pr
 
 #### Agreement With National Academy of Sciences
 
-Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988, provided that:
+Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905, provided that:
 
 "(a)
 
@@ -136,7 +136,7 @@ Review of Scientific Evidence.—Under an agreement between the Secretary and th
 
 Scientific Determinations Concerning Diseases.—(1) For each disease reviewed, the Academy shall determine (to the extent that available scientific data permit meaningful determinations)—
 
-&emsp;"(A) whether a statistical association with herbicide exposure exists, taking into account thestrength of the scientific evidence and the appropriateness of the statistical and epidemiological methods used to detect the association;
+&emsp;"(A) whether a statistical association with herbicide exposure exists, taking into account the strength of the scientific evidence and the appropriateness of the statistical and epidemiological methods used to detect the association;
 
 &emsp;"(B) the increased risk of the disease among those exposed to herbicides during service in the Republic of Vietnam during the Vietnam era; and
 
@@ -160,7 +160,7 @@ Subsequent Reviews.—An agreement under subsection (b) shall require the Nation
 
 Reports.—(1) The agreement between the Secretary and the National Academy of Sciences shall require the Academy to transmit to the Secretary and the Committees on Veterans' Affairs of the Senate and House of Representatives periodic written reports regarding the Academy's activities under the agreement. Such reports shall be submitted at least once every two years (as measured from the date of the first report).
 
-"(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d), (B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
+"(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d),\(B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
 
 "(h)
 
@@ -168,7 +168,7 @@ Limitation on Authority.—The authority to enter into agreements under this sec
 
 "(i)
 
-Sunset.—This section shall cease to be effective on October 1, 2014.
+Sunset.—This section shall cease to be effective on December 31, 2015.
 
 "(j)
 
@@ -208,7 +208,7 @@ In General.—Subject to subsections (d) and (e), the Secretary of Veterans Affa
 
 "(b)
 
-Annual Report.—The Secretary shall submit to the Committees on Veterans' Affairs of the Senate andthe House of Representatives an annual report containing—
+Annual Report.—The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives an annual report containing—
 
 &emsp;"(1) the information compiled in accordance with subsection (a);
 
@@ -310,7 +310,7 @@ Consultation With the National Academy of Sciences.—(1) To the extent provided
 
 "(e)
 
-Funding.—The authority of the Secretary to carry out this section is effective in any fiscal yearonly to the extent or in the amount specifically provided in statutory language in appropriations Acts.
+Funding.—The authority of the Secretary to carry out this section is effective in any fiscal year only to the extent or in the amount specifically provided in statutory language in appropriations Acts.
 
 "(f)
 
@@ -338,7 +338,7 @@ Blood Testing.—Subject to subsections (d) and (e), in the case of a veteran de
 
 "(b)
 
-Notification of Test Results.—Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a complete explanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran's exposure to TCDD while serving in the Republic of Vietnam.
+Notification of Test Results.—Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a completeexplanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran's exposure to TCDD while serving in the Republic of Vietnam.
 
 "(c)
 
@@ -400,7 +400,7 @@ OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol u
 
 &emsp;"(B) containing the Director's conclusions regarding the scientific validity and objectivity of the protocol.
 
-"(2) If the Director has not approved a protocol under subsection (b)(1) by the last day of the 180-day periodbeginning on the date of the enactment of this Act \[Apr. 7, 1986\], the Director—
+"(2) If the Director has not approved a protocol under subsection (b)(1) by the last day of the 180-day period beginning on the date of the enactment of this Act \[Apr. 7, 1986\], the Director—
 
 &emsp;"(A) shall, on such day, submit to the appropriate committees of the Congress a report describing the reasons why the Director has not approved such a protocol; and
 

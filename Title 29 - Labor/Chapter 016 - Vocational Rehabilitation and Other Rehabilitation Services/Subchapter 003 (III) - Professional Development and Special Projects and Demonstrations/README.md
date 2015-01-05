@@ -12,6 +12,5 @@ Title III of the Rehabilitation Act of 1973, comprising this subchapter, was ori
 - [&sect; 00771 - Declaration of purpose and competitive basis of grants and contracts](%C2%A7%2000771%20-%20Declaration%20of%20purpose%20and%20competitive%20basis%20of%20grants%20and%20contracts.md)
 - [&sect; 00772 - Training](%C2%A7%2000772%20-%20Training.md)
 - [&sect; 00773 - Demonstration and training programs](%C2%A7%2000773%20-%20Demonstration%20and%20training%20programs.md)
-- [&sect; 00774 - Migrant and seasonal farmworkers](%C2%A7%2000774%20-%20Migrant%20and%20seasonal%20farmworkers.md)
-- [&sect; 00775 - Recreational programs](%C2%A7%2000775%20-%20Recreational%20programs.md)
+- [&sect; 00774, 775 - Repealed. Pub. L. 113&#8211;128, title IV, &sect;443(1), July 22, 2014, 128 Stat. 1674](%C2%A7%2000774%2C%20775%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93128%2C%20title%20IV%2C%20%C2%A7443%281%29%2C%20July%2022%2C%202014%2C%20128%20Stat.%201674.md)
 - [&sect; 00776 - Measuring of project outcomes and performance](%C2%A7%2000776%20-%20Measuring%20of%20project%20outcomes%20and%20performance.md)

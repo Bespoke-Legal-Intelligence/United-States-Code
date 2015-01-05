@@ -94,7 +94,7 @@ Required Board Action for Prescribing Standards and Interpretations.—Before pr
 
 &emsp;(2) prepare and publish a report in the Federal Register on the issues reviewed under paragraph (1);
 
-&emsp;(3)(A) publish an advanced notice of proposed rulemaking in the Federal Register to solicit comments on the report prepared under paragraph (2);
+&emsp;(3)(A) publish an advanced notice of proposed rulemaking in the Federal Register to solicitcomments on the report prepared under paragraph (2);
 
 &emsp;(B) provide all parties affected at least 60 days after publication to submit their views and comments; and
 
@@ -104,7 +104,7 @@ Required Board Action for Prescribing Standards and Interpretations.—Before pr
 
 (d)
 
-Effective Dates.—Rules, regulations, cost accounting standards, and modifications thereofprescribed or amended under this chapter shall have the full force and effect of law, and shall become effective within 120 days after publication in the Federal Register in final form, unless the Board determines that a longer period is necessary. The Board shall determine implementation dates for contractors and subcontractors. The dates may not be later than the beginning of the second fiscal year of the contractor or subcontractor after the standard becomes effective.
+Effective Dates.—Rules, regulations, cost accounting standards, and modifications thereof prescribed or amended under this chapter shall have the full force and effect of law, and shall become effective within 120 days after publication in the Federal Register in final form, unless the Board determines that a longer period is necessary. The Board shall determine implementation dates for contractors and subcontractors. The dates may not be later than the beginning of the second fiscal year of the contractor or subcontractor after the standard becomes effective.
 
 (e)
 
@@ -226,5 +226,5 @@ Effective Date.—The amendments made by subsections (a) and (b) \[see Tables fo
 
 &emsp;"(1) contracts that are entered into on or after such effective date; and
 
-&emsp;"(2) determinations made on or after such effective date regarding whether a segment of a contractor orsubcontractor is subject to the cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41 U.S.C. 1502(a), (b)\], regardless of whether the contracts on which such determinations are made were entered into before, on, or after such date."
+&emsp;"(2) determinations made on or after such effective date regarding whether a segment of a contractor or subcontractor is subject to the cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41 U.S.C. 1502(a), (b)\], regardless of whether the contracts on which such determinations are made were entered into before, on, or after such date."
 

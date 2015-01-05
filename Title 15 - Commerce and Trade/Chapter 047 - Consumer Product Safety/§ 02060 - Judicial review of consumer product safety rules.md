@@ -14,7 +14,7 @@ Upon the filing of the petition under subsection (a) of this section the court s
 
 #### (d) Supreme Court review
 
-The judgment of the court affirming or setting aside, in whole or in part, any consumer product safety rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
+The judgment of the court affirming or setting aside, in whole or in part, any consumer product safety rule shall be final, subject to review by the Supreme Court of the United States uponcertiorari or certification, as provided in section 1254 of title 28.
 
 #### (e) Other remedies
 

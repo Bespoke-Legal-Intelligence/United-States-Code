@@ -14,9 +14,9 @@ Assistance authorized under this subpart shall be in addition to any allotments 
 
 #### (d) Disclosure of funds to Administrator; annual report
 
-Universities may accept and expend funds from other sources, public and private, in orderto carry out the purposes of this subpart. All such funds, both prospective and inhand, shall be periodically disclosed to the Administrator as he shall by regulation require, but no less often than in an annual report.
+Universities may accept and expend funds from other sources, public and private, in order to carry out the purposes of this subpart. All such funds, both prospective and inhand, shall be periodically disclosed to the Administrator as he shall by regulation require, but no less often than in an annual report.
 
-(Pub. L. 87–195, pt. I, §299, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 865; amended Pub. L. 95–424, title I, §102(c)(2), Oct. 6, 1978, 92 Stat. 941.)
+(Pub. L. 87–195, pt. I, §299, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 865;amended Pub. L. 95–424, title I, §102(c)(2), Oct. 6, 1978, 92 Stat. 941.)
 
 #### Amendments
 

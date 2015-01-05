@@ -6,7 +6,7 @@ The Secretary is authorized to establish and maintain in the Department a Consol
 
 #### (b) Functions of Consolidated Farm Service Agency
 
-If the Secretary establishes the Consolidated Farm Service Agency under subsection (a) of this section, the Secretary is authorized to assign to the Agency jurisdiction over the following functions:
+If the Secretary establishes the Consolidated Farm Service Agency under subsection (a), the Secretary is authorized to assign to the Agency jurisdiction over the following functions:
 
 &emsp;(1) Agricultural price and income support programs, production adjustment programs, and related programs.
 
@@ -20,7 +20,7 @@ If the Secretary establishes the Consolidated Farm Service Agency under subsecti
 
 #### (c) Special concurrence requirements for certain functions
 
-In carrying out the programs specified in subsection (b)(4) of this section, the Secretary shall—
+In carrying out the programs specified in subsection (b)(4), the Secretary shall—
 
 &emsp;(1) acting on the recommendations of the Consolidated Farm Service Agency, with the concurrence of the Natural Resources Conservation Service, issue regulations to carry out such programs;
 
@@ -36,13 +36,13 @@ In carrying out the programs specified in subsection (b)(4) of this section, the
 
 #### (1) In general
 
-&emsp;Until such time as an adverse decision described in this paragraph is referred to the National Appeals Division for consideration, the Consolidated Farm Service Agency shall have initial jurisdiction over any administrative appeal resulting from an adverse decision made under title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.), including an adverse decision involving technical determinations made by the Natural Resources Conservation Service.
+&emsp;Until such time as an adverse decision described in this paragraph is referred to the National Appeals Division for consideration, the Consolidated Farm Service Agency shall haveinitial jurisdiction over any administrative appeal resulting from an adverse decision made under title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.), including an adverse decision involving technical determinations made by the Natural Resources Conservation Service.
 
 #### (2) Treatment of technical determination
 
 #### (A) In general
 
-&emsp;&emsp;With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Consolidated Farm Service Agency, byrule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Consolidated Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under section 590h(b)(5) of title 16. If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Consolidated Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
+&emsp;&emsp;With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Consolidated Farm Service Agency, by rule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Consolidated Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under section 590h(b)(5) of title 16. If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Consolidated Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
 
 #### (B) Economic hardship
 
@@ -86,7 +86,7 @@ For purposes of subsections (c) through (f) of this section:
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 

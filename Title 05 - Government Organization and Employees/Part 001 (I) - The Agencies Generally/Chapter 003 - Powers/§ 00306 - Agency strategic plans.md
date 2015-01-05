@@ -22,15 +22,15 @@
 
 &emsp;(8) a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations to be conducted.
 
-(b) The strategic plan shall cover a period of not less than 4 years following the fiscal year in which the plan is submitted. As needed, the head of the agency may make adjustments to the strategic plan to reflect significant changes in the environment in which the agency is operating, with appropriate notification of Congress.
+(b) The strategic plan shall cover a period of not less than 4 years following the fiscal year inwhich the plan is submitted. As needed, the head of the agency may make adjustments to the strategic plan to reflect significant changes in the environment in which the agency is operating, with appropriate notification of Congress.
 
-(c) The performance plan required by section 1115(b) of title 31 shall be consistent with the agency's strategic plan. A performance planmay not be submitted for a fiscal year not covered by a current strategic plan under this section.
+(c) The performance plan required by section 1115(b) of title 31 shall be consistent with the agency's strategic plan. A performance plan may not be submitted for a fiscal year not covered by a current strategic plan under this section.
 
 (d) When developing or making adjustments to a strategic plan, the agency shall consult periodically with the Congress, including majority and minority views from the appropriate authorizing, appropriations, and oversight committees, and shall solicit and consider the views and suggestions of those entities potentially affected by or interested in such a plan. The agency shall consult with the appropriate committees of Congress at least once every 2 years.
 
 (e) The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of strategic plans under this section shall be performed only by Federal employees.
 
-(f) For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the United States Postal Service, and the Postal Regulatory Commission.
+(f) For purposes of this section the term "agency" means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the United States Postal Service, and the Postal Regulatory Commission.
 
 (Added Pub. L. 111–352, §2, Jan. 4, 2011, 124 Stat. 3866.)
 

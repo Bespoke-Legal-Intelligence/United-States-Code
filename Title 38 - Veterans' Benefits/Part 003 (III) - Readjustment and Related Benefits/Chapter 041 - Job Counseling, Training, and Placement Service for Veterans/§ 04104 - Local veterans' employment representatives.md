@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 102–16, §10(a)(8)(D), struck out subsec. (d) which read 
 
 <b>1989</b>—Subsec. (b)(7). Pub. L. 101–237 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1988</b>—Pub. L. 100–323 substituted "Local veterans' employment representatives" for "Employees of local offices" as section catchline and amended section generally. Prior to amendment, section read as follows: "Except as may be determined by the Secretary of Labor based on a demonstrated lack of need for such services, there shall be assigned by the administrative head of the employment service in each State one or more employees, preferably eligible veterans or eligible persons, on the staffs of local employment service offices, whoseservices shall be fully devoted to discharging the duties prescribed for the veterans' employment representative and such representative's assistants."
+<b>1988</b>—Pub. L. 100–323 substituted "Local veterans' employment representatives" for "Employees of local offices" as section catchline and amended section generally. Prior to amendment, section read as follows: "Except as may be determined by the Secretary of Labor based on a demonstrated lack of need for such services, there shall be assigned by the administrative head of the employment service in each State one or more employees, preferably eligible veterans or eligible persons, on the staffs of local employment service offices, whose services shall be fully devoted to discharging the duties prescribed for the veterans' employment representative and such representative's assistants."
 
 <b>1976</b>—Pub. L. 94–502 substituted "eligible veterans or eligible persons" for "eligible veterans" and "such representative's" for "his".
 

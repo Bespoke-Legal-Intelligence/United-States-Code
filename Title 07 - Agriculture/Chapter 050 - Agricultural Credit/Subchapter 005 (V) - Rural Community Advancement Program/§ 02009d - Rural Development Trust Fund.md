@@ -20,11 +20,11 @@ There are established in the Trust Fund the following accounts:
 
 Notwithstanding any other provision of law, each fiscal year—
 
-&emsp;(1) all amounts made available to carry out the authorities described in subsection (d)(1) of this section for the fiscal year shall be deposited into the rural community facilities account of the Trust Fund;
+&emsp;(1) all amounts made available to carry out the authorities described in subsection (d)(1) for the fiscal year shall be deposited into the rural community facilities account of the Trust Fund;
 
-&emsp;(2) all amounts made available to carry out the authorities described in subsection (d)(2) of this section for the fiscal year shall be deposited into the rural utilities account of the Trust Fund; and
+&emsp;(2) all amounts made available to carry out the authorities described in subsection (d)(2) for the fiscal year shall be deposited into the rural utilities account of the Trust Fund; and
 
-&emsp;(3) all amounts made available to carry out the authorities described in subsection (d)(3) of this section for the fiscal year shall be deposited into the rural business and cooperative development account of the Trust Fund.
+&emsp;(3) all amounts made available to carry out the authorities described in subsection (d)(3) for the fiscal year shall be deposited into the rural business and cooperative development account of the Trust Fund.
 
 #### (d) Function categories
 
@@ -54,7 +54,7 @@ The function categories described in this subsection are the following:
 
 &emsp;The rural business and cooperative development category consists of all amounts made available for—
 
-&emsp;&emsp;(A) rural business opportunity grants under section 1926(a)(11)(A) of this title;
+&emsp;&emsp;(A) rural business opportunity grants under section 1926(a)(11)(A) <sup>1</sup> of this title;
 
 &emsp;&emsp;(B) business and industry direct and guaranteed loans under section 1932(a)(2)(A) of this title; or
 
@@ -64,21 +64,25 @@ The function categories described in this subsection are the following:
 
 #### (1) Transfers into account
 
-&emsp;Each fiscal year, the Secretary shall transfer to the federally recognized Indian tribe account of the Trust Fund 3 percent of the amount deposited into the Trust Fund for the fiscal year under subsection (d) of this section.
+&emsp;Each fiscal year, the Secretary shall transfer to the federally recognized Indian tribe account of the Trust Fund 3 percent of the amount deposited into the Trust Fund for the fiscal year under subsection (d).
 
 #### (2) Use of funds
 
-&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts inthe federally recognized Indian tribe account for use pursuant to any authority described in subsection (d) of this section.
+&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts in the federally recognized Indian tribe account for use pursuant to any authority described in subsection (d).
 
 #### (f) Allocation among States
 
-The Secretary shall allocate the amounts in each account specified in subsection (c) of this section among the States in a fair, reasonable, and appropriate manner that takes into consideration rural population, levels of income, unemployment, and other relevant factors, as determined by the Secretary.
+The Secretary shall allocate the amounts in each account specified in subsection (c) among the States in a fair, reasonable, and appropriate manner that takes into consideration rural population, levels of income, unemployment, and other relevant factors, as determined by the Secretary.
 
 #### (g) Availability of funds allocated for States
 
-The Secretary shall make available to each State the total amount allocated for the State under subsection (f) of this section that remains after applying section 2009f of this title.
+The Secretary shall make available to each State the total amount allocated for the State under subsection (f) that remains after applying section 2009f of this title.
 
-(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927.)
+(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140;amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927.)
+
+#### References in Text
+
+Section 1926(a)(11) of this title, referred to in subsec. (d)(3)(A), was repealed by Pub. L. 113–79, title VI, §6012(b), Feb. 7, 2014, 128 Stat. 845.
 
 #### Codification
 
@@ -94,7 +98,7 @@ Subsec. (e). Pub. L. 107–171, §6026(a)(2), (3), redesignated subsec. (f) as (
 
 Subsec. (f). Pub. L. 107–171, §6026(a)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsecs. (g), (h). Pub. L. 107–171, §6026(a)(3), (4), redesignated subsec. (h) as (g) and substituted "subsection (f) of this section" for "subsection (g) of this section". Former subsec. (g) redesignated (f).
+Subsecs. (g), (h). Pub. L. 107–171, §6026(a)(3), (4), redesignated subsec. (h) as (g) and substituted "subsection (f)" for "subsection (g) of this section". Former subsec. (g) redesignated (f).
 
 <b>2000</b>—Subsec. (d)(1)(B). Pub. L. 106–472, §305(b), substituted "paragraph (19), (20), or (21)" for "paragraph (19) or (20)".
 
@@ -117,4 +121,6 @@ Pub. L. 112–55, div. A, title VII, §747, Nov. 18, 2011, 125 Stat. 590, provid
 &emsp;"(3) Any prior balances in the Rural Development, Rural Community Advancement Program account for programs authorized by sections 306 and 310B \[7 U.S.C. 1926, 1932\] and described in sections 310B(f) and 381E(d)(3) of such Act be transferred and merged with the 'Rural Business Program Account' and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer; and
 
 &emsp;"(4) Any prior balances in the Rural Development, Rural Community Advancement Program account programs authorized by sections 306, 306A, 306C, 306D, 306E, and 310B \[7 U.S.C. 1926, 1926a, 1926c, 1926d, 1926e, 1932\] and described in sections 306C(a)(2), 306D, 306E, and 381E(d)(2) of such Act be transferred to and merged with the 'Rural Water and Waste Disposal Program Account' and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

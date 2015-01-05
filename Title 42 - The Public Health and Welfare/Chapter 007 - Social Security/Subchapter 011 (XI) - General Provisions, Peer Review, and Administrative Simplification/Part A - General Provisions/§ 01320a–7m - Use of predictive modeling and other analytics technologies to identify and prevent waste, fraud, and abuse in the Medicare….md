@@ -44,7 +44,7 @@ The predictive analytics technologies used by the Secretary shall—
 
 #### (3) Second implementation year
 
-&emsp;Based on the results of the report and recommendation required under subsection (e)(1)(B), the Secretary shall expand the use of predictive analytics technologies on October 1, 2012, to apply to an additional 10 States identified by the Secretary as having the highest risk of waste, fraud, or abuse in the Medicare fee-for-service program, after the States identified under paragraph (2).
+&emsp;Based on the results of the report and recommendation required under subsection (e)(1)(B), the Secretary shall expand the use of predictive analytics technologies on October 1, 2012, to apply to an additional 10 States identified by the Secretary as having the highest risk of waste, fraud, or abuse in the Medicarefee-for-service program, after the States identified under paragraph (2).
 
 #### (4) Third implementation year
 
@@ -116,7 +116,7 @@ The predictive analytics technologies used by the Secretary shall—
 
 &emsp;&emsp;(C) An analysis of the extent to which the use of predictive analytics technologies successfully prevented and detected waste, fraud, or abuse in the Medicare fee-for-service program.
 
-&emsp;&emsp;(D) A review of whether the predictive analytics technologies affected access to, or the quality of, items and services furnished to Medicare beneficiaries.
+&emsp;&emsp;(D) A review of whether the predictive analytics technologies affected access to, orthe quality of, items and services furnished to Medicare beneficiaries.
 
 &emsp;&emsp;(E) A review of what effect, if any, the use of predictive analytics technologies had on Medicare providers.
 
@@ -188,7 +188,7 @@ In this section:
 
 #### (5) Medicare fee-for-service program
 
-&emsp;The term "Medicare fee-for-service program" means the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395\[c\] et seq.\[; 1395j et seq.\]).
+&emsp;The term "Medicare fee-for-service program" means the original medicare fee-for-service program under parts A and B of titleXVIII of the Social Security Act (42 U.S.C. 1395\[c\] et seq.\[; 1395j et seq.\]).
 
 #### (6) Medicare provider
 

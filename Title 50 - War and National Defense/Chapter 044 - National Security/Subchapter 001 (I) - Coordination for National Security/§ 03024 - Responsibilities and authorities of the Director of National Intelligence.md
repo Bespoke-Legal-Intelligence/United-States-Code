@@ -48,7 +48,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (7)(A) The Director of National Intelligence shall provide a semi-annual report, beginning April 1, 2005, and ending April 1, 2007, to the President and the Congress regarding implementation of this section.
 
-(B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instance in which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
+(B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instancein which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
 
 #### (d) Role of Director of National Intelligence in transfer and reprogramming of funds
 
@@ -88,7 +88,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(v) the transfer or reprogramming does not terminate an acquisition program.
 
-(B) A transfer or reprogramming may be made without regard to a limitation set forth in clause (iv) or (v) of subparagraph (A) if the transfer has the concurrence of the head of the department involved or the Director of the Central Intelligence Agency (in the case of the Central Intelligence Agency). The authority to provide such concurrence may only be delegated bythe head of the department involved or the Director of the Central Intelligence Agency (in the case of the Central Intelligence Agency) to the deputy of such officer.
+(B) A transfer or reprogramming may be made without regard to a limitation set forth in clause (iv) or (v) of subparagraph (A) if the transfer has the concurrence of the head of the department involved or the Director of the Central Intelligence Agency (in the case of the Central Intelligence Agency). The authority to provide such concurrence may only be delegated by the head of the department involved or the Director of the Central Intelligence Agency (in the case of the Central Intelligence Agency) to the deputy of such officer.
 
 (6) Funds transferred or reprogrammed under this subsection shall remain available for the same period as the appropriations account to which transferred or reprogrammed.
 
@@ -150,7 +150,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(A) the nature of the national security threats facing the United States will continue to challenge the intelligence community to respond rapidly and flexibly to bring analytic resources to bear against emerging and unforeseen requirements;
 
-&emsp;(B) both the Office of the Director of National Intelligence and any analytic centersdetermined to be necessary should be fully and properly supported with appropriate levels of personnel resources and that the President's yearly budget requests adequately support those needs; and
+&emsp;(B) both the Office of the Director of National Intelligence and any analytic centers determined to be necessary should be fully and properly supported with appropriate levels of personnel resources and that the President's yearly budget requests adequately support those needs; and
 
 &emsp;(C) the President should utilize all legal and administrative discretion to ensure that the Director of National Intelligence and all other elements of the intelligence community have the necessary resources and procedures to respond promptly and effectively to emerging and unforeseen national security challenges.
 
@@ -204,7 +204,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (B) The Director of National Intelligence, in consultation with the Attorney General, shall establish guidelines and procedures for conducting an accountability review under subparagraph (A).
 
-(C)(i) The Director of National Intelligence shall provide the findings of an accountability review conducted under subparagraph (A) and the Director's recommendations for corrective or punitive action, if any, to the head of the applicable element of the intelligence community.Such recommendations may include a recommendation for dismissal of personnel.
+(C)(i) The Director of National Intelligence shall provide the findings of an accountability review conducted under subparagraph (A) and the Director's recommendations for corrective or punitive action, if any, to the head of the applicable element of the intelligence community. Such recommendations may include a recommendation for dismissal of personnel.
 
 (ii) If the head of such element does not implement a recommendation made by the Director under clause (i), the head of such element shall submit to the congressional intelligence committees a notice of the determination not to implement the recommendation, including the reasons for the determination.
 
@@ -240,7 +240,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (3) Except as otherwise directed by the President or with the specific written agreement of the head of the department or agency in question, a Federal agency or official shall not be considered to have met any obligation to provide any information, report, assessment, or other material (including unevaluated intelligence information) to that department or agency solely by virtue of having provided that information, report, assessment, or other material to the Director of National Intelligence or the National Counterterrorism Center.
 
-(4) Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1).
+(4) The Director of National Intelligence shall, in a timely manner, report to Congress any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively ensure maximum availability of access to intelligence information within the intelligence community consistent with the protection of the national security of the United States.
 
 #### (h) Analysis
 
@@ -274,7 +274,7 @@ To ensure the most accurate analysis of intelligence is derived from all sources
 
 (3) The Director may only delegate a duty or authority given the Director under this subsection to the Principal Deputy Director of National Intelligence.
 
-#### (j) Uniform procedures for sensitive compartmented information
+#### (j) Uniform procedures for classified information
 
 The Director of National Intelligence, subject to the direction of the President, shall—
 
@@ -282,9 +282,13 @@ The Director of National Intelligence, subject to the direction of the President
 
 &emsp;(2) ensure the consistent implementation of those standards and procedures throughout such agencies and departments;
 
-&emsp;(3) ensure that security clearances granted by individual elements of the intelligence community are recognized by all elements of the intelligence community, and under contracts entered into by those agencies; and
+&emsp;(3) ensure that security clearances granted by individual elements of the intelligence community are recognized by all elements of the intelligence community, and under contracts entered into by those agencies;
 
-&emsp;(4) ensure that the process for investigation and adjudication of an application for access to sensitive compartmented information is performed in the most expeditious manner possible consistent with applicable standards for national security.
+&emsp;(4) ensure that the process for investigation and adjudication of an application for access to sensitive compartmented information is performed in the most expeditious manner possible consistent with applicable standards for national security;
+
+&emsp;(5) ensure that the background of each employee or officer of an element of the intelligence community, each contractor to an element of the intelligence community, and each individual employee of such a contractor who has been determined to be eligible for access to classified information is monitored on a continual basis under standards developed by the Director, including with respect to the frequency of evaluation, during the period of eligibility of such employee or officer of an element of the intelligence community, such contractor, or such individual employee to such a contractor to determine whether such employee or officer of an element of the intelligence community, such contractor, and such individual employee of such a contractor continues to meet the requirements for eligibility for access to classified information; and
+
+&emsp;(6) develop procedures to require information sharing between elements of the intelligence community concerning potentially derogatory security information regarding an employee or officer of an element of the intelligence community, a contractor to an element of the intelligence community, or an individual employee of such a contractor thatmay impact the eligibility of such employee or officer of an element of the intelligence community, such contractor, or such individual employee of such a contractor for a security clearance.
 
 #### (k) Coordination with foreign governments
 
@@ -330,7 +334,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 #### (m) Additional authority with respect to personnel
 
-(1) In addition to the authorities under subsection (f)(3) of this section, the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the Central Intelligence Agency may exercisesuch authority with respect to personnel of the Central Intelligence Agency.
+(1) In addition to the authorities under subsection (f)(3) of this section, the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the Central Intelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency.
 
 (2) Employees and applicants for employment of the Office of the Director of National Intelligence shall have the same rights and protections under the Office of the Director of National Intelligence as employees of the Central Intelligence Agency have under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004.
 
@@ -480,17 +484,31 @@ The Director of National Intelligence shall, in consultation with the heads of d
 
 The Director of National Intelligence, in consultation with the heads of the appropriate elements of the intelligence community and the Secretary of State, shall provide to the President, the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate an addendum to each Nuclear Proliferation Assessment Statement accompanying a civilian nuclear cooperation agreement, containing a comprehensive analysis of the country's export control system with respect to nuclear-related matters, including interactions with other countries of proliferation concern and the actual or suspected nuclear, dual-use, or missile-related transfers to such countries.
 
-(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886.)
+#### (x) Requirements for intelligence community contractors
+
+The Director of National Intelligence, in consultation with the head of each department of the Federal Government that contains an element of the intelligence community and the Director of the Central Intelligence Agency, shall—
+
+&emsp;(1) ensure that—
+
+&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by the Director of National Intelligence for intelligence community networks; and
+
+&emsp;&emsp;(B) each contract awarded by an element of the intelligence community includes provisions requiring the contractor comply with such plan and such standards;
+
+&emsp;(2) conduct periodic assessments of each security plan required under paragraph (1)(A) to ensure such security plan complies with the requirements of such paragraph; and
+
+&emsp;(3) ensure that the insider threat detection capabilities and insider threat policies of the intelligence community apply to facilities of contractors with access to a classified network.
+
+(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886; Pub. L. 113–126, title III, §329(b)(2), title V, §§501, 502(a), July 7, 2014, 128 Stat. 1406, 1411, 1412.)
 
 #### References in Text
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c)(6), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c)(6), is Pub. L.93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (f)(6), (9), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Executive Order No. 13526, referred to in subsec. (g)(1)(G), is set out as a note under section 3161 of this title.
 
-The Goldwater-Nichols Department of Defense Reorganization Act of 1986, referred to in subsec. (l)(3)(C), isPub. L. 99–433, Oct. 1, 1986, 100 Stat. 992. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 111 of Title 10, Armed Forces, and Tables.
+The Goldwater-Nichols Department of Defense Reorganization Act of 1986, referred to in subsec. (l)(3)(C), is Pub. L. 99–433, Oct. 1, 1986, 100 Stat. 992. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 111 of Title 10, Armed Forces, and Tables.
 
 The Central Intelligence Agency Act of 1949, referred to in subsecs. (m) and (n)(1), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of this title prior to editorial reclassification in this title and is now classified generally to chapter 46 (§3501 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -509,6 +527,14 @@ A prior section 102A of act July 26, 1947, ch. 343, title I, as added Pub. L. 10
 Another prior section 102a of act July 26, 1947, ch. 343, title I, as added Pub. L. 98–215, title IV, §403, Dec. 9, 1983, 97 Stat. 1477, related to appointment of Director of the Intelligence Community Staff prior to repeal by Pub. L. 102–496, title VII, §705(a)(1), Oct. 24, 1992, 106 Stat. 3190.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(4). Pub. L. 113–126, §329(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1)."
+
+Subsec. (j). Pub. L. 113–126, §501(1), substituted "classified information" for "sensitive compartmented information" in heading.
+
+Subsec. (j)(5), (6). Pub. L. 113–126, §501(2)–(4), added pars. (5) and (6).
+
+Subsec. (x). Pub. L. 113–126, §502(a), added subsec. (x).
 
 <b>2012</b>—Subsec. (e)(3)(D). Pub. L. 112–87, §311(d), substituted "For each of the fiscal years 2010, 2011, and 2012, the" for "The" in introductory provisions.
 
@@ -541,6 +567,10 @@ Subsec. (n). Pub. L. 111–259, §804(2)(D), inserted "and other" after "Acquisi
 Subsec. (n)(4). Pub. L. 111–259, §326, added par. (4).
 
 Subsecs. (s) to (u). Pub. L. 111–259, §§303, 304, 307, added subsecs. (s) to (u).
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–126, title V, §502(b), July 7, 2014, 128 Stat. 1412, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into or renewed after the date of the enactment of this Act \[July 7, 2014\]."
 
 #### Effective Date
 
@@ -580,7 +610,7 @@ Development of Procedures.—The Director of National Intelligence, in consultat
 
 &emsp;"(1) Methods by which the Director of the Central Intelligence Agency and the Secretary of Defense can improve communication and coordination in the planning, execution, and sustainment of operations, including, as a minimum—
 
-&emsp;&emsp;"(A) information exchange between senior officials of the Central Intelligence Agency and seniorofficers and officials of the Department of Defense when planning for such an operation commences by either organization; and
+&emsp;&emsp;"(A) information exchange between senior officials of the Central Intelligence Agency and senior officers and officials of the Department of Defense when planning for such an operation commences by either organization; and
 
 &emsp;&emsp;"(B) exchange of information between the Secretary and the Director of the Central Intelligence Agency to ensure that senior operational officials in both the Department of Defense and the Central Intelligence Agency have knowledge of the existence of the ongoing operations of the other.
 

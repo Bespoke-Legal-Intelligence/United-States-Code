@@ -2,7 +2,7 @@
 
 #### (a) General objectives; persons conducting the evaluation
 
-The Director shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals, in general, and in relation to their cost, their impact on related programs, and their structure and mechanism for delivery of services. Each program shall be evaluated at least once every three years. Evaluations shall be conducted bypersons not immediately involved in the administration of the program or project evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title.
+The Director shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals, in general, and in relation to their cost, their impact on related programs, and their structure and mechanism for delivery of services. Each program shall be evaluated at least once every three years. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title.
 
 #### (b) General standards; publication; reports of ensuing actions
 
@@ -14,7 +14,7 @@ In carrying out evaluations under this subchapter, the Director shall, whenever 
 
 #### (d) Summaries of results; publication
 
-The Director shall publish summaries of the results of evaluations of program and project impact and effectiveness no later than sixty days after the completion thereof.
+The Director shall publish summaries of the results of evaluations of program and projectimpact and effectiveness no later than sixty days after the completion thereof.
 
 #### (e) Federal property
 

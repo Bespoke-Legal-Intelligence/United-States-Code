@@ -2,11 +2,11 @@
 
 #### (a) Mandatory injunction upon application of President
 
-Upon application of the President, by the Attorney General, the United States District Courts shall have jurisdiction to issue mandatory injunctions commanding any person to comply with the provisions of this chapter or any regulation issued thereunder.
+Upon application of the President, by the Attorney General, the United States DistrictCourts shall have jurisdiction to issue mandatory injunctions commanding any person to comply with the provisions of this chapter or any regulation issued thereunder.
 
 #### (b) Discretionary action in district court to enjoin acts or practices
 
-Whenever it shall appear to the President that any person is engaged or about to engage in anyacts or practices that constitute or will constitute a violation of any provision of this chapter or of any regulation thereunder, he may in his discretion, by the Attorney General, bring an action in the proper United States District Court to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond.
+Whenever it shall appear to the President that any person is engaged or about to engage in any acts or practices that constitute or will constitute a violation of any provision of this chapter or of any regulation thereunder, he may in his discretion, by the Attorney General, bring an action in the proper United States District Court to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond.
 
 #### (c) Exclusive jurisdiction of district court; review
 

@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 &emsp;(2) to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if providedfor by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>2</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
+&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>2</sup> of the Actof June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
 
 &emsp;(4) to provide for printing and binding outside the continental limits of the United States, without regard to section 501 of title 44;
 
@@ -62,7 +62,7 @@ Pub. L. 96–60, title II, §209, Aug. 15, 1979, 93 Stat. 402, provided that: "T
 
 #### Transfer of Functions
 
-"Director of the United States Information Agency" substituted for "Director of the International Communication Agency" in par. (3) pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title, which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and the Director thereof. UnitedStates Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+"Director of the United States Information Agency" substituted for "Director of the International Communication Agency" in par. (3) pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title, which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and the Director thereof. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 The Commission on Educational Exchange, created by section 1466 of this title, abolished pursuant to Pub. L. 87–256, §111(a)(2), Sept. 21, 1961, 75 Stat. 538.
 

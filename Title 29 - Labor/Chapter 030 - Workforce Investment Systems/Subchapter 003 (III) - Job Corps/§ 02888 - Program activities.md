@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each Job Corps center shall provide enrollees with an intensive, well organized, and fully supervised program of education, vocational training, work experience, recreational activities, physical rehabilitation and development, and counseling. Each Job Corps center shall provide enrollees assigned to the center with access to core services described in section 2864(d)(2) of this title and the intensive services described in section 2864(d)(3) of this title.
+&emsp;Each Job Corps center shall provide enrollees with an intensive, well organized, and fully supervised program of education, vocational training, work experience, recreational activities, physical rehabilitation and development, and counseling. Each Job Corps center shallprovide enrollees assigned to the center with access to core services described in section 2864(d)(2) of this title and the intensive services described in section 2864(d)(3) of this title.
 
 #### (2) Relationship to opportunities
 
@@ -18,7 +18,7 @@
 
 #### (b) Education and vocational training
 
-The Secretary may arrange for education and vocational training of enrollees through localpublic or private educational agencies, vocational educational institutions, or technical institutes, whenever such entities provide education and training substantially equivalent in cost and quality to that which the Secretary could provide through other means.
+The Secretary may arrange for education and vocational training of enrollees through local public or private educational agencies, vocational educational institutions, or technical institutes, whenever such entities provide education and training substantially equivalent in cost and quality to that which the Secretary could provide through other means.
 
 #### (c) Advanced career training programs
 
@@ -50,7 +50,15 @@ The Secretary shall, to the extent practicable, provide child care at or near Jo
 
 (Pub. L. 105–220, title I, §148, Aug. 7, 1998, 112 Stat. 1011.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1698 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

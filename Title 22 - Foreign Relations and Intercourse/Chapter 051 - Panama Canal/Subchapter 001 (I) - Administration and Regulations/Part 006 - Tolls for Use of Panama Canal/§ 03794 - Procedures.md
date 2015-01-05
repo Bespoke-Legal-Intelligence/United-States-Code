@@ -20,7 +20,7 @@ After consideration of the relevant matter presented, the Commission may revise 
 
 #### (c) Publication of notice of changes in rules of measurement and rates of tolls in Federal Register
 
-After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission may change the rules of measurement or rates of tolls, as the case may be. The Commission shall publish notice of any such change in the Federal Register not less than 30 days before the effective date of the change.
+After the proceedings have been conducted pursuant to subsections (a) and (b), the Commission may change the rules of measurement or rates of tolls, as the case may be. The Commission shall publish notice of any such change in the Federal Register not less than 30 days before the effective date of the change.
 
 #### (d) Judicial review
 
@@ -34,7 +34,7 @@ Action to change the rules of measurement for the Panama Canal or the rates of t
 
 Subsec. (c). Pub. L. 104–106, §3528(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission shall publish in the Federal Register a notice of the changes in the rules of measurement or rates of tolls, as the case may be, to be recommended to the President."
 
-Subsec. (d). Pub. L. 104–106, §3528(3), redesignated subsec. (f) as (d) and struck out former subsec. (d) whichread as follows: "Upon publication of the notice pursuant to subsection (c) of this section, the Commission shall forward a complete record of the proceedings, with the recommendation of the Commission, to the President for his consideration. The President may approve, disapprove, or modify any or all of the changes in the rules of measurement or rates of tolls recommended by the Commission."
+Subsec. (d). Pub. L. 104–106, §3528(3), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: "Upon publication of the notice pursuant to subsection (c) of this section, the Commission shall forward a complete record of the proceedings, with the recommendation of the Commission, to the President for his consideration. The President may approve, disapprove, or modify any or all of the changes in the rules of measurement or rates of tolls recommended by the Commission."
 
 Subsec. (e). Pub. L. 104–106, §3528(3), struck out subsec. (e) which read as follows: "Rules of measurement or rates of tolls prescribed by the President pursuant to this part shall take effect on a date prescribed by the President which is not less than 30 days after the President publishes such rules or rates in the Federal Register."
 

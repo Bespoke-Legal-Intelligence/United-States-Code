@@ -114,7 +114,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 #### (1) Programs
 
-&emsp;In order to determine the need to convene a management conference under this section or at the request of such a management conference, the Administrator shall coordinateand implement, through the National Marine Pollution Program Office and the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration, as appropriate, for one or more estuarine zones—
+&emsp;In order to determine the need to convene a management conference under this section or at the request of such a management conference, the Administrator shall coordinate and implement, through the National Marine Pollution Program Office and the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration, as appropriate, for one or more estuarine zones—
 
 &emsp;&emsp;(A) a long-term program of trend assessment monitoring measuring variations in pollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;
 

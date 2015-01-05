@@ -50,7 +50,7 @@ The President is authorized to provide assistance on a non-reimbursable basis fo
 
 #### (c) Targeted assistance
 
-In carrying out sustainable poverty-focused programs under subsection (a) of this section, 50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006, such resources shall be used for—
+In carrying out sustainable poverty-focused programs under subsection (a), 50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006, such resources shall be used for—
 
 &emsp;(1) support of programs under this section through practitioner institutions that—
 

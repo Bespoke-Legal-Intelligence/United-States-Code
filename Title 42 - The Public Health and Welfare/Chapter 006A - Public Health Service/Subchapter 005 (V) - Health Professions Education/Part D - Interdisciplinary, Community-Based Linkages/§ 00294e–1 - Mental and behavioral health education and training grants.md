@@ -44,7 +44,7 @@ For grants authorized under subsection (a)(1), at least 4 of the grant recipient
 
 (3) In selecting the grant recipients in training programs in child and adolescent mental health under subsections (a)(3) and (a)(4), the Secretary shall give priority to applicants that—
 
-&emsp;(A) have demonstrated the ability to collect data on the number of students trained inchild and adolescent mental health and the populations served by such students after graduation or completion of preservice or in-service training;
+&emsp;(A) have demonstrated the ability to collect data on the number of students trained in child and adolescent mental health and the populations served by such students after graduation or completion of preservice or in-service training;
 
 &emsp;(B) have demonstrated familiarity with evidence-based methods in child and adolescent mental health services, including substance abuse prevention and treatment services;
 

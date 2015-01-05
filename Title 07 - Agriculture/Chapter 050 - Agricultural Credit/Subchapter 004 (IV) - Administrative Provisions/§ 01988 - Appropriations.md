@@ -12,7 +12,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 &emsp;(ii) The loan is to have been fully disbursed to the borrower before the sale.
 
-(B) After a loan is sold in the secondary market, the lender shall remain obligated under its guarantee agreement with the Secretary, and shall continue to service the loan in accordance with the terms and conditions of such agreement.
+(B) After a loan is sold in the secondary market, the lender shall remain obligated under itsguarantee agreement with the Secretary, and shall continue to service the loan in accordance with the terms and conditions of such agreement.
 
 (C) The Secretary shall develop such procedures as are necessary for the facilitation, administration, and promotion of secondary market operations, and for determining the increase of farmers' access to capital at reasonable rates and terms as a result of secondary market operations.
 

@@ -40,7 +40,7 @@ There is established a Medal of Valor Review Board (hereinafter in this chapter 
 
 #### (C) Voting and rules
 
-&emsp;&emsp;A majority of the members shall constitute a quorum to conduct business, but the Board may establish a lesser quorum for conducting hearings scheduled by the Board. The Board may establish by majority voteany other rules for the conduct of the Board's business, if such rules are not inconsistent with this chapter or other applicable law.
+&emsp;&emsp;A majority of the members shall constitute a quorum to conduct business, but the Board may establish a lesser quorum for conducting hearings scheduled by the Board. The Board may establish by majority vote any other rules for the conduct of the Board's business, if such rules are not inconsistent with this chapter or other applicable law.
 
 #### (c) Duties
 

@@ -56,7 +56,7 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 Subsecs. (b), (c). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease" wherever appearing.
 
-Subsec. (d). Pub. L. 109–415, §210, substituted "there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009." for "there are authorized to be appropriated $30,000,000 for fiscal year 2001,and such sums as may be necessary for each of the fiscal years 2002 through 2005."
+Subsec. (d). Pub. L. 109–415, §210, substituted "there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009." for "there are authorized to be appropriated $30,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005."
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

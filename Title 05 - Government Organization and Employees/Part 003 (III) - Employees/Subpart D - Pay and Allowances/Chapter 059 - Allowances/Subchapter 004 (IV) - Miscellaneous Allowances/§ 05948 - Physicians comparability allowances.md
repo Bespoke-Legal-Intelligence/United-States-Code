@@ -20,7 +20,7 @@
 
 (c) The head of an agency, pursuant to such regulations, criteria, and conditions as the President or his designee may prescribe, shall determine categories of positions applicable to physicians in such agency with respect to which there is a significant recruitment and retention problem. Only physicians serving in such positions shall be eligible for an allowance pursuant to this section. The amounts of each such allowance shall be determined by the agency head, subject to such regulations, criteria, and conditions as the President or his designee may prescribe, and shall be the minimum amount necessary to deal with the recruitment and retention problem for each such category of physicians.
 
-(d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service.
+(d) Any agreement entered into by a physician under this section shall be for a period of oneyear of service in the agency involved unless the physician requests an agreement for a longer period of service.
 
 (e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
@@ -28,7 +28,7 @@
 
 (g) For the purpose of this section—
 
-&emsp;(1) “Government physician” means any individual employed as a physician or dentist who is paid under—
+&emsp;(1) "Government physician" means any individual employed as a physician or dentist who is paid under—
 
 &emsp;&emsp;(A) section 5332 of this title, relating to the General Schedule;
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(K) subchapter IX of chapter 53, relating to special occupational pay systems; and
 
-&emsp;(2) “agency” means an Executive agency, as defined in section 105 of this title, the Library of Congress, and the District of Columbia government.
+&emsp;(2) "agency" means an Executive agency, as defined in section 105 of this title, the Library of Congress, and the District of Columbia government.
 
 (h)(1) Any allowance paid under this section shall not be considered as basic pay for the purposes of subchapter VI and section 5595 of chapter 55, chapter 81 or 87 of this title, or other benefits related to basic pay.
 
@@ -76,13 +76,13 @@
 
 #### References in Text
 
-Sections 4104 and 4114 of title 38, referred to in subsec. (a), were repealed by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210, and a new section 4101 containing different subject matter was added. For provisions similar to those contained in sections 4104 and 4114 prior to repeal, see sections 7401 and 7405 to 7407 of Title 38, Veterans’ Benefits.
+Sections 4104 and 4114 of title 38, referred to in subsec. (a), were repealed by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. Subsequently, section 2004 of Title 38, Veterans' Benefits, was renumbered as section 4104 of Title 38 and a new section 4114 of Title 38 was added. The new sections 4104 and 4114 do not contain the same subject matter as the former sections. For provisions similar to those contained in former sections 4104 and 4114 prior to repeal, see sections 7401 and 7405 to 7407 of Title 38.
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title II of the Public Health Service Act is classified generally to subchapter I (§201 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (g)(1)(E), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 4 of title I of the Act is classified generally to subchapter IV (§3961 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-The Central Intelligence Agency Act of 1949, referred to in (g)(1)(F), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in chapter 46 (§3501 et seq.) of Title 50. Section 10 of the Act, which was renumbered as section 8 of that Act by Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337, is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in (g)(1)(F), is act June 20, 1949, ch. 227, 63 Stat. 208,which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in chapter 46 (§3501 et seq.) of Title 50. Section 10 of the Act, which was renumbered as section 8 of that Act by Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337, is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1202 of the Panama Canal Act of 1979, referred to in subsec. (g)(1)(G), is classified to section 3642 of Title 22, Foreign Relations and Intercourse.
 
@@ -90,65 +90,65 @@ Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
+<b>2000</b>—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: "No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007."
 
-Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
+Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: "No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002."
 
-Subsec. (h)(1). Pub. L. 106–571, §3(d), substituted “chapter 81 or 87” for “chapter 81, 83, or 87”.
+Subsec. (h)(1). Pub. L. 106–571, §3(d), substituted "chapter 81 or 87" for "chapter 81, 83, or 87".
 
-Subsec. (j). Pub. L. 106–571, §2(b), in par. (1), substituted “(j)” for “(j)(1)”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, in par. (5), substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “In addition to the information required under paragraph (1), the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
+Subsec. (j). Pub. L. 106–571, §2(b), in par. (1), substituted "(j)" for "(j)(1)", redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, in par. (5), substituted "paragraph (2)" for "subparagraph (B)", and struck out former par. (2) which read as follows: "In addition to the information required under paragraph (1), the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
 
-&emsp;“(A) recommendations as to whether or not such authority should be continued beyond September 30, 2000, and, if so, by what period of time; and
+&emsp;"(A) recommendations as to whether or not such authority should be continued beyond September 30, 2000, and, if so, by what period of time; and
 
-&emsp;“(B) the reasons for those recommendations.”
+&emsp;"(B) the reasons for those recommendations."
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–266 substituted “$30,000” for “$20,000”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–266 substituted "$30,000" for "$20,000".
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–61, §517(a)(1), substituted “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.” for “No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999.”
+<b>1997</b>—Subsec. (d). Pub. L. 105–61, §517(a)(1), substituted "No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002." for "No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999."
 
-Subsec. (j)(2)(A). Pub. L. 105–61, §517(a)(2), substituted “September 30, 2000” for “September 30, 1997”.
+Subsec. (j)(2)(A). Pub. L. 105–61, §517(a)(2), substituted "September 30, 2000" for "September 30, 1997".
 
-<b>1993</b>—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
+<b>1993</b>—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: "No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995."
 
-Subsec. (g)(1)(C) to (L). Pub. L. 103–89 redesignated subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpar. (C) which read as follows: “chapter 54 of this title, relating to the performance management and recognition system;”.
+Subsec. (g)(1)(C) to (L). Pub. L. 103–89 redesignated subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpar. (C) which read as follows: "chapter 54 of this title, relating to the performance management and recognition system;".
 
 Subsec. (j). Pub. L. 103–114, §2(a), added subsec. (j).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(51)(A), inserted “, section 5307,” after “provisions of this section” in first sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(51)(A), inserted ", section 5307," after "provisions of this section" in first sentence.
 
-Subsec. (g)(1)(D). Pub. L. 102–378, §2(51)(B)(i), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “section 5371 of this title, or similar statutory authority, relating to administratively determined pay for certain specially qualified scientific or professional personnel;”.
+Subsec. (g)(1)(D). Pub. L. 102–378, §2(51)(B)(i), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "section 5371 of this title, or similar statutory authority, relating to administratively determined pay for certain specially qualified scientific or professional personnel;".
 
 Subsec. (g)(1)(J) to (L). Pub. L. 102–378, §2(51)(B)(ii)–(iv), added subpars. (J) to (L).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–420 added second sentence and struck out former second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 1990, nor shall any agreement cover a period of service extending beyond September 30, 1992.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–420 added second sentence and struck out former second sentence which read as follows: "No agreement shall be entered into under this section later than September 30, 1990, nor shall any agreement cover a period of service extending beyond September 30, 1992."
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–140, §1(a)(3), inserted last sentence.
 
-Subsec. (a)(1). Pub. L. 100–140, §1(a)(1), substituted “$14,000” for “$7,000”.
+Subsec. (a)(1). Pub. L. 100–140, §1(a)(1), substituted "$14,000" for "$7,000".
 
-Subsec. (a)(2). Pub. L. 100–140, §1(a)(2), substituted “$20,000” for “$10,000”.
+Subsec. (a)(2). Pub. L. 100–140, §1(a)(2), substituted "$20,000" for "$10,000".
 
-Subsec. (d). Pub. L. 100–140, §1(b), substituted “September 30, 1990” for “September 30, 1987” and “September 30, 1992” for “September 30, 1989”.
+Subsec. (d). Pub. L. 100–140, §1(b), substituted "September 30, 1990" for "September 30, 1987" and "September 30, 1992" for "September 30, 1989".
 
-<b>1984</b>—Subsec. (g)(1)(C). Pub. L. 98–615 substituted “performance management and recognition system” for “Merit Pay System”.
+<b>1984</b>—Subsec. (g)(1)(C). Pub. L. 98–615 substituted "performance management and recognition system" for "Merit Pay System".
 
-<b>1983</b>—Subsec. (d). Pub. L. 98–168 substituted “1987” for “1983”, and “1989” for “1985”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–168 substituted "1987" for "1983", and "1989" for "1985".
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–141, §2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
+<b>1981</b>—Subsec. (d). Pub. L. 97–141, §2(1), substituted "September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985" for "September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983".
 
-Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
+Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted "chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)" for "title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)".
 
-<b>1979</b>—Subsec. (d). Pub. L. 96–166, §2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
+<b>1979</b>—Subsec. (d). Pub. L. 96–166, §2(1), substituted "September 30, 1981" for "September 30, 1979" and "September 30, 1983" for "September 30, 1981".
 
-Subsec. (g)(1). Pub. L. 96–166, §2(2)(A), directed the amendment of subsec. (g)(1) by inserting “or dentist” after “physician” which was executed by inserting the term after “employed as a physician” in introductory phrase as the probable intent of Congress.
+Subsec. (g)(1). Pub. L. 96–166, §2(2)(A), directed the amendment of subsec. (g)(1) by inserting "or dentist" after "physician" which was executed by inserting the term after "employed as a physician" in introductory phrase as the probable intent of Congress.
 
-Pub. L. 96–166, §2(2)(B)–(E), redesignated subpars. (B) through (G) as (D) through (I), respectively, added subpars. (B) and (C), substituted in subpar. (D) as redesignated, “5371” for “5361”, and substituted in subpar. (H) as redesignated, “section 1202 of the Panama Canal Act of 1979, relating to the Panama Canal Commission; or” for “section 121 of title 2 of the Canal Zone Code, relating to the Canal Zone Government and the Panama Canal Company; or”.
+Pub. L. 96–166, §2(2)(B)–(E), redesignated subpars. (B) through (G) as (D) through (I), respectively, added subpars. (B) and (C), substituted in subpar. (D) as redesignated, "5371" for "5361", and substituted in subpar. (H) as redesignated, "section 1202 of the Panama Canal Act of 1979, relating to the Panama Canal Commission; or" for "section 121 of title 2 of the Canal Zone Code, relating to the Canal Zone Government and the Panama Canal Company; or".
 
 Subsec. (g)(2). Pub. L. 96–166, §2(3), inserted reference to the Library of Congress.
 
 #### Effective Date of 1997 Amendment
 
-Section 517(c) of Pub. L. 105–61 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall take effect on the date of enactment of this Act \[Oct. 10, 1997\].”
+Section 517(c) of Pub. L. 105–61 provided that: "The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall take effect on the date of enactment of this Act \[Oct. 10, 1997\]."
 
 #### Effective Date of 1993 Amendment
 
@@ -160,65 +160,65 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of Repeal
 
-Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, §1(c), as added Pub. L. 103–114, §1(b)(1), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 101–420, §1(b), as added Pub. L. 103–114, §1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, §1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, §517(b), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 106–554, §1(a)(1) \[title II, §218(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, which provided that this section would be repealed, unless specifically extended by Act of Congress, effective on Sept. 30, 2007, was repealed by Pub. L. 106–571, §2(a)(2), Dec. 28, 2000, 114 Stat. 3054.
+Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, §1(c), as added Pub. L. 103–114, §1(b)(1), Oct. 26, 1993, 107 Stat.1115; Pub. L. 101–420, §1(b), as added Pub. L. 103–114, §1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, §1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, §517(b), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 106–554, §1(a)(1) \[title II, §218(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, which provided that this section would be repealed, unless specifically extended by Act of Congress, effective on Sept. 30, 2007, was repealed by Pub. L. 106–571, §2(a)(2), Dec. 28, 2000, 114 Stat. 3054.
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–571, §1, Dec. 28, 2000, 114 Stat. 3054, provided that: “This Act \[amending this section and sections 8331, 8339, 8401, and 8415 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 2000’.”
+Pub. L. 106–571, §1, Dec. 28, 2000, 114 Stat. 3054, provided that: "This Act \[amending this section and sections 8331, 8339, 8401, and 8415 of this title\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 2000'."
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–168, title I, §101, Nov. 29, 1983, 97 Stat. 1105, provided that: “This title \[amending this section, enacting provisions set out below, and amending provisions set out as a note above\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1983’.”
+Pub. L. 98–168, title I, §101, Nov. 29, 1983, 97 Stat. 1105, provided that: "This title \[amending this section, enacting provisions set out below, and amending provisions set out as a note above\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1983'."
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–141, §1, Dec. 29, 1981, 95 Stat. 1719, provided: “That this Act \[amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
+Pub. L. 97–141, §1, Dec. 29, 1981, 95 Stat. 1719, provided: "That this Act \[amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1981'."
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–166, §1, Dec. 29, 1979, 93 Stat. 1273, provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
+Pub. L. 96–166, §1, Dec. 29, 1979, 93 Stat. 1273, provided: "That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1979'."
 
 #### Short Title
 
-Pub. L. 95–603, §1, Nov. 6, 1978, 92 Stat. 3018, provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Federal Physicians Comparability Allowance Act of 1978’.”
+Pub. L. 95–603, §1, Nov. 6, 1978, 92 Stat. 3018, provided: "That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the 'Federal Physicians Comparability Allowance Act of 1978'."
 
 #### Construction of 1998 Amendment
 
-Pub. L. 105–266, §7(c), Oct. 19, 1998, 112 Stat. 2370, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note below\] shall be considered to authorize additional or supplemental appropriations for the fiscal year in which occurs the date of the enactment of this Act \[Oct. 19, 1998\].”
+Pub. L. 105–266, §7(c), Oct. 19, 1998, 112 Stat. 2370, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note below\] shall be considered to authorize additional or supplemental appropriations for the fiscal year in which occurs the date of the enactment of this Act \[Oct. 19, 1998\]."
 
 #### Construction of 1993 Amendment
 
-Pub. L. 103–114, §1(a)(4), Oct. 26, 1993, 107 Stat. 1115, provided that: “The amendments made by this subsection \[amending this section and provisions set out above\] shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending September 30, 1993.”
+Pub. L. 103–114, §1(a)(4), Oct. 26, 1993, 107 Stat. 1115, provided that: "The amendments made by this subsection \[amending this section and provisions set out above\] shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending September 30, 1993."
 
-Pub. L. 103–114, §1(c), Oct. 26, 1993, 107 Stat. 1116, provided that: “For purposes of applying the amendments made by this section \[amending this section and enacting and amending provisions set out as notes above\]—
+Pub. L. 103–114, §1(c), Oct. 26, 1993, 107 Stat. 1116, provided that: "For purposes of applying the amendments made by this section \[amending this section and enacting and amending provisions set out as notes above\]—
 
-&emsp;“(1) the provisions of subsection (b)(1) \[enacting and amending provisions set out as notes above\] shall be treated as having been enacted immediately before the provisions of subsection (b)(2) \[enacting and amending provisions set out as notes above\]; and
+&emsp;"(1) the provisions of subsection (b)(1) \[enacting and amending provisions set out as notes above\] shall be treated as having been enacted immediately before the provisions of subsection (b)(2) \[enacting and amending provisions set out as notes above\]; and
 
-&emsp;“(2) the provisions of subsection (b)(2) shall be treated as having been enacted immediately before the provisions of subsection (a) \[amending this section and enacting and amending provisions set out as notes above\].”
+&emsp;"(2) the provisions of subsection (b)(2) shall be treated as having been enacted immediately before the provisions of subsection (a) \[amending this section and enacting and amending provisions set out as notes above\]."
 
 #### Modification of Service Agreements in Effect on October 19, 1998; Limitation
 
 Pub. L. 105–266, §7(b), Oct. 19, 1998, 112 Stat. 2369, provided that:
 
-“(1)
+"(1)
 
 In general.—Any service agreement under section 5948 of title 5, United States Code, which is in effect on the date of the enactment of this Act \[Oct. 19, 1998\] may, with respect to any period of service remaining in such agreement, be modified based on the amendment made by subsection (a) \[amending this section\].
 
-“(2)
+"(2)
 
-Limitation.—A modification taking effect under this subsection in any year shall not cause an allowance to be increased to a rate which, if applied throughout such year, would cause the limitation under section 5948(a)(2) of such title (as amended by this section), or any other applicable limitation, to be exceeded.”
+Limitation.—A modification taking effect under this subsection in any year shall not cause an allowance to be increased to a rate which, if applied throughout such year, would cause the limitation under section 5948(a)(2) of such title (as amended by this section), or any other applicable limitation, to be exceeded."
 
 #### Effectiveness of Service Agreements Limited by Appropriation Acts
 
-Pub. L. 103–114, §1(a)(3), Oct. 26, 1993, 107 Stat. 1115, provided that: “Any service agreement entered into on or after the date of the enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 103–114, §1(a)(3), Oct. 26, 1993, 107 Stat. 1115, provided that: "Any service agreement entered into on or after the date of the enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts."
 
 #### Due Date for First Annual Report on Operation of Section
 
-Pub. L. 103–114, §2(b), Oct. 26, 1993, 107 Stat. 1116, provided that: “The first report under section 5948(j) of title 5, United States Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
+Pub. L. 103–114, §2(b), Oct. 26, 1993, 107 Stat. 1116, provided that: "The first report under section 5948(j) of title 5, United States Code, as amended by subsection (a), shall be due not later than June 30, 1994."
 
 #### Pay of Certain Federal Physicians for Fiscal Year 1982
 
-Pub. L. 98–168, title I, §103, Nov. 29, 1983, 97 Stat. 1105, provided that any individual whose aggregate pay for fiscal year 1982 exceeded the limitation set forth in section 5383(b) of this title is relieved of all liability to the United States for any amounts paid to such individual in excess of such limitation if, and to the extent that, such liability takes into account any allowance paid under this section, provided for repayment to individuals relieved from liability of amounts already paid, and defined the terms “aggregate pay”, “appropriate agency head”, and “agency”.
+Pub. L. 98–168, title I, §103, Nov. 29, 1983, 97 Stat. 1105, provided that any individual whose aggregate pay for fiscal year 1982 exceeded the limitation set forth in section 5383(b) of this title is relieved of all liability to the United States for any amounts paid to such individual in excess of such limitation if, and to the extent that, such liability takes into account any allowance paid under this section, provided for repayment to individuals relieved from liability of amounts already paid, and defined the terms "aggregate pay", "appropriate agency head", and "agency".
 
 #### Service Agreements Entered Into On or After December 29, 1981; Advance Authorization; Fiscal Year 1982
 

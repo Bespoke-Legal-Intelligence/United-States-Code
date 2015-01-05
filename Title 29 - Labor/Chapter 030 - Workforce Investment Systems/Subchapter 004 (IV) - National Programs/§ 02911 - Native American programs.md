@@ -40,7 +40,7 @@ As used in this section:
 
 #### (2) Exception
 
-&emsp;The competition for grants, contracts, or cooperative agreements conducted under paragraph (1) shall be conducted every 2 years, except that if a recipient of such a grant, contract, or agreement has performed satisfactorily, the Secretary may waive the requirements for such competition on receipt from the recipient of a satisfactory 2-year program plan for the succeeding 2-year period of the grant, contract, or agreement.
+&emsp;The competition for grants, contracts, or cooperative agreements conducted under paragraph (1) shall be conducted every 2 years, except that if a recipient of such a grant, contract, or agreement has performed satisfactorily, the Secretary may waive the requirements for such competition on receipt from the recipient of a satisfactory 2-year programplan for the succeeding 2-year period of the grant, contract, or agreement.
 
 #### (d) Authorized activities
 
@@ -120,7 +120,7 @@ Nothing in this section shall be construed—
 
 #### (A) In general
 
-&emsp;&emsp;Using funds made available to carry out this section, the Secretary shall establish a Native American Employment and Training Council to facilitate the consultation described in paragraph (2).
+&emsp;&emsp;Using funds made available to carry out this section, the Secretary shall establish a Native American Employment and TrainingCouncil to facilitate the consultation described in paragraph (2).
 
 #### (B) Composition
 
@@ -180,6 +180,10 @@ Grants, contracts, and cooperative agreements entered into under this section sh
 
 (Pub. L. 105–220, title I, §166, Aug. 7, 1998, 112 Stat. 1021; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 107–110, title VII, §702(g), Jan. 8, 2002, 115 Stat. 1947.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
@@ -205,6 +209,10 @@ Provisions similar to this section were contained in sections 1671 and 1673 of t
 <b>2002</b>—Subsec. (b)(3). Pub. L. 107–110 substituted "section 7517 of title 20" for "paragraphs (1) and (3), respectively, of section 7912 of title 20".
 
 <b>1998</b>—Subsec. (h)(3)(A). Pub. L. 105–277 substituted "subparagraph (B)" for "paragraph (2)".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 2002 Amendment
 

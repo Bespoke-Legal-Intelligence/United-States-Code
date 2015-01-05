@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term "advisory and assistance services" has the samemeaning given that term in section 1105(g) of title 31.
+Definition.—In this section, the term "advisory and assistance services" has the same meaning given that term in section 1105(g) of title 31.
 
 (b)
 
@@ -154,5 +154,5 @@ In subsection (c)(2)(C), the words "Committee on Oversight and Government Reform
 
 #### Senate Revision Amendment
 
-Senate amendment to the bill effectively struck out subsec. (c)(2) and redesignated subsec. (c)(1) as (c). See S. Amdt. 4726 (111th Cong.), 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+Senate amendment to the bill effectively struck out subsec. (c)(2) and redesignated subsec. (c)(1) as (c). See S. Amdt. 4726 (111th Cong.), 156 Cong. Rec. 18683 (2010).
 

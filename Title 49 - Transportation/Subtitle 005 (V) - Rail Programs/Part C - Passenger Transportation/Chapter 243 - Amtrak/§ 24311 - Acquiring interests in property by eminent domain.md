@@ -16,7 +16,7 @@ General Authority.—(1) To the extent financial resources are available, Amtrak
 
 (b)
 
-Civil Actions.—(1) A civil action to acquire an interest in property by eminent domainunder subsection (a) of this section must be brought in the district court of the United States for the judicial district in which the property is located or, if a single piece of property is located in more than one judicial district, in any judicial district in which any piece of the property is located. An interest is condemned and taken by Amtrak for its use when a declaration of taking is filed under this subsection and an amount of money estimated in the declaration to be just compensation for the interest is deposited in the court. The declaration may be filed with the complaint in the action or at any time before judgment. The declaration must contain or be accompanied by—
+Civil Actions.—(1) A civil action to acquire an interest in property by eminent domain under subsection (a) of this section must be brought in the district court of the United States for the judicial district in which the property is located or, if a single piece of property is located in more than one judicial district, in any judicial district in which any piece of the property is located. An interest is condemned and taken by Amtrak for its use when a declaration of taking is filed under this subsection and an amount of money estimated in the declaration to be just compensation for the interest is deposited in the court. The declaration may be filed with the complaint in the action or at any time before judgment. The declaration must contain or be accompanied by—
 
 &emsp;(A) a statement of the public use for which the interest is taken;
 

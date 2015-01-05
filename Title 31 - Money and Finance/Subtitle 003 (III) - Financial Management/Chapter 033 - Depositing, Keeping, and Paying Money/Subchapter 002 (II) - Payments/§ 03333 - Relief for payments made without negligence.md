@@ -14,7 +14,7 @@
 
 (b) This section does not relieve another individual from civil or criminal liability for a check, draft, warrant, or debt obligation of the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, §220(a), Dec. 8, 2004, 118 Stat. 3242; Pub. L. 110–161, div. D, title I, §119, Dec. 26, 2007, 121 Stat. 1979.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, §220(a), Dec. 8, 2004, 118Stat. 3242; Pub. L. 110–161, div. D, title I, §119, Dec. 26, 2007, 121 Stat. 1979.)
 
 Historical and Revision Notes
 

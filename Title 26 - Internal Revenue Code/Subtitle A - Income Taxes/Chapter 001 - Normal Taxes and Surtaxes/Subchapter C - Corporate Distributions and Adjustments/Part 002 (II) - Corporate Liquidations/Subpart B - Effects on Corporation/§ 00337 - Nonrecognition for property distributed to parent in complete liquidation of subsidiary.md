@@ -26,7 +26,7 @@ No gain or loss shall be recognized to the liquidating corporation on the distri
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall not apply to any distribution of property to an organizationdescribed in section 511(a)(2) if, immediately after such distribution, such organization uses such property in an activity the income from which is subject to tax under section 511(a).
+&emsp;&emsp;&emsp;Subparagraph (A) shall not apply to any distribution of property to an organization described in section 511(a)(2) if, immediately after such distribution, such organization uses such property in an activity the income from which is subject to tax under section 511(a).
 
 #### (ii) Later disposition or change in use
 

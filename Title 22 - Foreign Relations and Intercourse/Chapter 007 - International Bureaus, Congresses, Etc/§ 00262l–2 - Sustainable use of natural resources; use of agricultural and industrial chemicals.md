@@ -4,7 +4,7 @@
 
 It is the policy of the United States that sustainable economic growth must be predicated on sustainable use of natural resources. The Secretary of the Treasury shall instruct the United States Executive Directors of the Multilateral Development Banks (MDB's) to—
 
-&emsp;(1) promote the adoption of internal guidelines requiring the use of least-cost planning techniques in evaluating proposed energy loans, and consider refusal to support power generation, utilization or energy sector loansunless cost-effective conservation measures have been fully evaluated and considered;
+&emsp;(1) promote the adoption of internal guidelines requiring the use of least-cost planning techniques in evaluating proposed energy loans, and consider refusal to support power generation, utilization or energy sector loans unless cost-effective conservation measures have been fully evaluated and considered;
 
 &emsp;(2) encourage each MDB to offer technical assistance to borrower nations in preparing national energy plans. Special emphasis shall be given to least-cost analysis in making decisions on energy use and development, and such analyses shall take into account all demand-side as well as supply-side options;
 

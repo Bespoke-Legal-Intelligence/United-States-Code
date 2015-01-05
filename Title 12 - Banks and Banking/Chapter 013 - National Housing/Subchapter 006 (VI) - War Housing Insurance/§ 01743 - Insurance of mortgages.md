@@ -16,7 +16,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 &emsp;&emsp;(A) not to exceed $5,000,000; and
 
-&emsp;&emsp;(B) not to exceed 90 per centum of the amount which the Secretary estimates will be the necessary current cost of the completed property or project, including the land; the proposed physical improvements; utilities within the boundaries of the property or project; architects' fees; taxes and interest accruing during construction; and other miscellaneous charges incidental to construction and approved by the Secretary: <i>Provided</i>, That such mortgage shall not in any event exceed the amount which the Secretary estimates will be the cost of the completed physical improvements on the property or project, exclusive of off-site public utilities and streets, and organization and legal expenses: <i>And provided further</i>, That the principal obligation of the mortgage shall not, in any event, exceed 90 per centum of the Secretary's estimate of the replacement cost of the property or project on the basis of the costs prevailing on December 31,1947, for properties or projects of comparable quality in the locality where such property or project is to be located; and
+&emsp;&emsp;(B) not to exceed 90 per centum of the amount which the Secretary estimates will be the necessary current cost of the completed property or project, including the land; the proposed physical improvements; utilities within the boundaries of the property or project; architects' fees; taxes and interest accruing during construction; and other miscellaneous charges incidental to construction and approved by the Secretary: <i>Provided</i>, That such mortgage shall not in any event exceed the amount which the Secretary estimates will be the cost of the completed physical improvements on the property or project, exclusive of off-site public utilities and streets, and organization and legal expenses: <i>And provided further</i>, That the principal obligation of the mortgage shall not, in any event, exceed 90 per centum of the Secretary's estimate of the replacement cost of the property or project on the basis of the costs prevailing on December 31, 1947, for properties or projects of comparable quality in the locality where such property or project is to be located; and
 
 &emsp;&emsp;(C) not to exceed $8,100 per family unit for such part of such property or project as may be attributable to dwelling use.
 
@@ -38,11 +38,11 @@ Debentures issued under this section shall be issued in accordance with the prov
 
 The provisions of section 1713(k) of this title shall be applicable to mortgages insured under this section, except that, as applied to such mortgages, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
 
-#### (g) Mortgages in connection with sale of property under subchapter I, II, VIII, or X of this chapter
+#### (g) Mortgages in connection with sale of property under subchapter I, II, VIII, or X
 
-The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X of this chapter any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.
+The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.
 
-(June 27, 1934, ch. 847, title VI, §608, as added May 26, 1942, ch. 319, §11, 56 Stat. 303; amended Mar. 31, 1945, ch. 48, §2, 59 Stat. 47; May 22, 1946, ch. 268, §10(f), (g), 60 Stat. 214; Aug. 10, 1948, ch. 832, title I, §101(b), (c), 62 Stat. 1269; Apr. 20, 1950,ch. 94, title I, §122, 64 Stat. 59; Sept. 1, 1951, ch. 378, title II, §206, 65 Stat. 303; Pub. L. 89–117, title XI, §1108(q), Aug. 10, 1965, 79 Stat. 506; Pub. L. 90–19, §1(a)(3), (4), May 25, 1967, 81 Stat. 17.)
+(June 27, 1934, ch. 847, title VI, §608, as added May 26, 1942, ch. 319, §11, 56 Stat. 303; amended Mar. 31, 1945, ch. 48, §2, 59 Stat. 47; May 22, 1946, ch. 268, §10(f), (g), 60 Stat. 214; Aug. 10, 1948, ch. 832, title I, §101(b), (c), 62 Stat. 1269; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Sept. 1, 1951, ch. 378, title II, §206, 65 Stat. 303; Pub. L. 89–117, title XI, §1108(q), Aug. 10, 1965, 79 Stat. 506; Pub. L. 90–19, §1(a)(3), (4), May 25, 1967, 81 Stat. 17.)
 
 #### References in Text
 

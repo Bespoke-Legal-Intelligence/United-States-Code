@@ -70,7 +70,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;&emsp;&emsp;(ii) 5 percent of so much of the ordinary gross income derived therefrom as exceeds $500,000; and
 
-&emsp;&emsp;(D) the loans to a person who is a shareholder in such company during the taxable year by or for whom 10 percent or more in value of its outstanding stock is owned directly or indirectly (including, in the case of an individual, stock owned by members of his family as defined in section 544(a)(2)), outstanding at any time during such year do not exceed $5,000 in principal amount;
+&emsp;&emsp;(D) the loans to a person who is a shareholder in such company during the taxable year by or for whom 10 percent or more in value of its outstanding stock is owned directly or indirectly (including, in the case ofan individual, stock owned by members of his family as defined in section 544(a)(2)), outstanding at any time during such year do not exceed $5,000 in principal amount;
 
 &emsp;(7) A <sup>2</sup> small business investment company which is licensed by the Small Business Administration and operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following) and which is actively engaged in the business of providing funds to small business concerns under that Act. This paragraph shall not apply if any shareholder of the small business investment company owns at any time during the taxable year directly or indirectly (including, in the case of an individual, ownership by the members of his family as defined in section 544(a)(2)) a 5 per centum or more proprietary interest in a small business concern to which funds are provided by the investment company or 5 per centum or more in value of the outstanding stock of such concern; and
 
@@ -126,7 +126,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, §413(b)(1), Oct. 22, 2004, 118 Stat. 1506.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II,§225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, §413(b)(1), Oct. 22, 2004, 118 Stat. 1506.)
 
 #### References in Text
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United Statespersons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
 #### Effective Date of 1986 Amendment
 

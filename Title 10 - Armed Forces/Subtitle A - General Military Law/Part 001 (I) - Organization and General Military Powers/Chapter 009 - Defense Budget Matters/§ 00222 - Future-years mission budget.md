@@ -28,5 +28,5 @@ Subsec. (b). Pub. L. 110–181, §944(b), substituted "on the basis of both majo
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title IX, §944(c), Jan. 28, 2008, 122 Stat. 290, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the future-years mission budget for fiscal year 2010 and each fiscal year thereafter."
+Pub. L. 110–181, div. A, title IX, §944(c), Jan. 28, 2008, 122 Stat. 290, provided that: "The amendments made by this section \[amending this section\] shall apply withrespect to the future-years mission budget for fiscal year 2010 and each fiscal year thereafter."
 

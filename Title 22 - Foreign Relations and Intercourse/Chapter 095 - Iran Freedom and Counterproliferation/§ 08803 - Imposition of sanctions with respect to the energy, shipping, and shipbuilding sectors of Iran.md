@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(1) Iran's energy, shipping, and shipbuilding sectors and Iran's ports are facilitating the Government of Iran's nuclear proliferation activities by providing revenue to support proliferation activities.
 
-&emsp;(2) The United Nations Security Council and the United States Government have expressed concern about the proliferation risks presented by the Iranian nuclear program.
+&emsp;(2) The United Nations Security Council and the United States Government have expressedconcern about the proliferation risks presented by the Iranian nuclear program.
 
 &emsp;(3) The Director General of the International Atomic Energy Agency (in this section referred to as the "IAEA") has in successive reports (GOV/2012/37 and GOV/2011/65) identified possible military dimensions of Iran's nuclear program.
 
@@ -76,7 +76,7 @@ Entities that operate ports in Iran and entities in the energy, shipping, and sh
 
 #### (3) Goods and services described
 
-&emsp;Goods or services described in this paragraph are significant goods or services used in connection with the energy, shipping, or shipbuilding sectors of Iran, including the National Iranian Oil Company, the National Iranian Tanker Company, and the Islamic Republic of Iran Shipping Lines.
+&emsp;Goods or services described in this paragraph are significant goods or services used inconnection with the energy, shipping, or shipbuilding sectors of Iran, including the National Iranian Oil Company, the National Iranian Tanker Company, and the Islamic Republic of Iran Shipping Lines.
 
 #### (e) Humanitarian exception
 
@@ -128,7 +128,7 @@ The President may provide for an exception from the imposition of sanctions unde
 
 #### (2) Financial transactions
 
-&emsp;This section shall apply to a foreign financial institution that conducts or facilitates afinancial transaction for the sale, supply, or transfer to or from Iran of natural gas unless—
+&emsp;This section shall apply to a foreign financial institution that conducts or facilitates a financial transaction for the sale, supply, or transfer to or from Iran of natural gas unless—
 
 &emsp;&emsp;(A) the financial transaction is only for trade in goods or services—
 

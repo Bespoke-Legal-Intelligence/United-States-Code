@@ -10,5 +10,5 @@ Each reserve warrant officer of the Army, Navy, Air Force, or Marine Corps who i
 
 #### Effective Date
 
-Section effective on the first day of the first month that begins more than 180 days after Dec. 28, 2001, seesection 517(g) of Pub. L. 107–107, set out as an Effective Date of 2001 Amendment note under section 10154 of this title.
+Section effective on the first day of the first month that begins more than 180 days after Dec. 28, 2001, see section 517(g) of Pub. L. 107–107, set out as an Effective Date of 2001 Amendment note under section 10154 of this title.
 

@@ -6,11 +6,11 @@
 
 &emsp;(2) knowingly solicit, accept, or receive a political contribution from any person, unless such person is—
 
-&emsp;&emsp;(A) a member of the same Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4)));
+&emsp;&emsp;(A) a member of the same Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); <sup>1</sup>
 
 &emsp;&emsp;(B) not a subordinate employee; and
 
-&emsp;&emsp;(C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); or
+&emsp;&emsp;(C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) <sup>1</sup> of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); <sup>1</sup> or
 
 &emsp;(3) run for the nomination or as a candidate for election to a partisan political office; or
 
@@ -60,7 +60,7 @@
 
 (3) No employee of the Criminal Division or National Security Division of the Department of Justice (except one appointed by the President, by and with the advice and consent of the Senate), may take an active part in political management or political campaigns.
 
-(4) For purposes of this subsection, the term “active part in political management or in a political campaign” means those acts of political management or political campaigning which were prohibited for employees of the competitive service before July 19, 1940, by determinations of the Civil Service Commission under the rules prescribed by the President.
+(4) For purposes of this subsection, the term "active part in political management or in a political campaign" means those acts of political management or political campaigning which were prohibited for employees of the competitive service before July 19, 1940, by determinations of the Civil Service Commission under the rules prescribed by the President.
 
 (c) An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
@@ -70,23 +70,25 @@
 
 The date of enactment of the Hatch Act Reform Amendments of 1993, referred to in subsec. (a)(2)(A), (C), is the date of enactment of Pub. L. 103–94, which was approved Oct. 6, 1993.
 
+The Federal Election Campaign Act of 1971, referred to in subsec. (a)(2)(A), (C), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§30101 et seq.) of Title 52. Section 315 of this Act is now classified to section 30116 of Title 52. For complete classification of this Act to the Code, see Tables.
+
 #### Prior Provisions
 
 A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employee in Executive agency from requesting, receiving from, or giving to, an employee, a Member of Congress, or an officer of a uniformed service, a thing of value for political purposes and provided for removal from service of employee for violation, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 110–417 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–177 inserted “or National Security Division” after “Criminal Division”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–177 inserted "or National Security Division" after "Criminal Division".
 
 <b>2004</b>—Subsec. (b)(2)(B)(i)(XIV). Pub. L. 108–458 added subcl. (XIV).
 
-<b>2002</b>—Subsec. (b)(2)(B)(i)(I). Pub. L. 107–252 inserted “or the Election Assistance Commission” after “Commission”.
+<b>2002</b>—Subsec. (b)(2)(B)(i)(I). Pub. L. 107–252 inserted "or the Election Assistance Commission" after "Commission".
 
-<b>2000</b>—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted “5372a, or 5372b” for “or 5372a”.
+<b>2000</b>—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted "5372a, or 5372b" for "or 5372a".
 
-<b>1996</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 104–201 substituted "National Imagery and Mapping Agency" for "Central Imagery Office".
 
 <b>1994</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
 
@@ -98,7 +100,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 15323 of Title 42, The Public Health and Welfare, see section 15534(a) of Title 42.
+Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 20923 of Title 52, Voting and Elections, see section 21134(a) of Title 52.
 
 #### Effective Date of 1996 Amendment
 
@@ -111,4 +113,6 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

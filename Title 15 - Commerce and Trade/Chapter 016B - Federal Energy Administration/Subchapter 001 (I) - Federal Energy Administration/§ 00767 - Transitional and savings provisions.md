@@ -20,7 +20,7 @@ Except as provided in subsection (e) of this section—
 
 &emsp;(1) the provisions of this chapter shall not affect suits commenced prior to the date this chapter takes effect, and
 
-&emsp;(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in thesame manner and effect as if this chapter had not been enacted.
+&emsp;(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this chapter had not been enacted.
 
 #### (d) Litigation; abatement prohibition; Federal parties
 

@@ -130,7 +130,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 301 of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to casescommenced under this title before Oct. 22, 1994, and amendment by section 305(c) of Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to agreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by section 301 of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, and amendment by section 305(c) of Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to agreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

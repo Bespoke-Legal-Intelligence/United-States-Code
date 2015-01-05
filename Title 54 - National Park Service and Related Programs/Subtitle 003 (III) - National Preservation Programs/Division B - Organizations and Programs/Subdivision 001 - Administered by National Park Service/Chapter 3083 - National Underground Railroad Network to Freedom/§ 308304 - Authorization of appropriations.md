@@ -1,0 +1,32 @@
+### §308304. Authorization of appropriations
+
+(a)
+
+Amounts.—There is authorized to be appropriated to carry out this chapter $2,500,000 for each fiscal year, of which—
+
+&emsp;(1) $2,000,000 shall be used to carry out section 308302 of this title; and
+
+&emsp;(2) $500,000 shall be used to carry out section 308303 of this title.
+
+(b)
+
+Limitation.—No amount may be appropriated for the purposes of this chapter except to the Secretary for carrying out the responsibilities of the Secretary as set forth in this chapter.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3235.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+308304
+
+16 U.S.C. 469<i>l</i>–3.
+
+Pub. L. 105–203, §5, as added Pub. L. 110–229, title III, subtitle G, §361(a)(3), May 8, 2008, 122 Stat. 801.
+

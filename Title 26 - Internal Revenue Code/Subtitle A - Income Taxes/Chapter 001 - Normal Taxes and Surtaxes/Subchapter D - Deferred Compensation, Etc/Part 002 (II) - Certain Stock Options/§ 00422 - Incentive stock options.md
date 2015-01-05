@@ -10,7 +10,7 @@ Section 421(a) shall apply with respect to the transfer of a share of stock to a
 
 #### (b) Incentive stock option
 
-For purposes of this part, the term "incentive stock option" means an option granted to an individual for any reason connected with his employment by a corporation, if granted by the employer corporation or its parent or subsidiarycorporation, to purchase stock of any of such corporations, but only if—
+For purposes of this part, the term "incentive stock option" means an option granted to an individual for any reason connected with his employment by a corporation, if granted by the employer corporation or its parent or subsidiary corporation, to purchase stock of any of such corporations, but only if—
 
 &emsp;(1) the option is granted pursuant to a plan which includes the aggregate number of shares which may be issued under options and the employees (or class of employees) eligible to receive options, and which is approved by the stockholders of the granting corporation within 12 months before or after the date such plan is adopted;
 
@@ -156,7 +156,7 @@ Amendment by section 2662 of Pub. L. 98–369 effective as though included in th
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, seesection 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date
 

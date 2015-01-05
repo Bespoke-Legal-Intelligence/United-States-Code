@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [7101\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2007101%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
-| [7102\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2007102%20-%20Employees%E2%80%99%20rights.md) | Employees’ rights. |
+| [7102\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2007102%20-%20Employees%27%20rights.md) | Employees' rights. |
 | [7103\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2007103%20-%20Definitions%3B%20application.md) | Definitions; application. |
 | [7104\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2007104%20-%20Federal%20Labor%20Relations%20Authority.md) | Federal Labor Relations Authority. |
 | [7105\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2007105%20-%20Powers%20and%20duties%20of%20the%20Authority.md) | Powers and duties of the Authority. |
@@ -54,7 +54,7 @@
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, title VII, §§701, 703(a)(2), Oct. 13, 1978, 92 Stat. 1191, 1217, in heading for Subpart F inserted “Labor-Management and” before “Employee”, in heading for chapter 71 substituted “LABOR-MANAGEMENT RELATIONS” for “POLICIES”, in heading for subchapter I substituted “GENERAL PROVISIONS” for “EMPLOYEE ORGANIZATIONS”, in item 7101 substituted “Findings and purpose” for “Right to organize; postal employees”, in item 7102 substituted “Employees’ rights” for “Right to petition Congress; employees”, added items 7103 to 7106, and added subchapter II and items 7111 to 7120, subchapter III and items 7121 to 7123, and subchapter IV and items 7131 to 7135. Former subchapter II heading “ANTIDISCRIMINATION IN EMPLOYMENT” and items 7151 to 7154, “Policy”, “Marital status”, “Physical handicap”, and “Other prohibitions”, respectively, were transferred to subchapter I of chapter 72 and renumbered and amended.
+<b>1978</b>—Pub. L. 95–454, title VII, §§701, 703(a)(2), Oct. 13, 1978, 92 Stat. 1191, 1217, in heading for Subpart F inserted "Labor-Management and" before "Employee", in heading for chapter 71 substituted "LABOR-MANAGEMENT RELATIONS" for "POLICIES", in heading for subchapter I substituted "GENERAL PROVISIONS" for "EMPLOYEE ORGANIZATIONS", in item 7101 substituted "Findings and purpose" for "Right to organize; postal employees", in item 7102 substituted "Employees' rights" for "Right to petition Congress; employees", added items 7103 to 7106, and added subchapter II and items 7111 to 7120, subchapter III and items 7121 to 7123, and subchapter IV and items 7131 to 7135. Former subchapter II heading "ANTIDISCRIMINATION IN EMPLOYMENT" and items 7151 to 7154, "Policy", "Marital status", "Physical handicap", and "Other prohibitions", respectively, were transferred to subchapter I of chapter 72 and renumbered and amended.
 
 
 ---

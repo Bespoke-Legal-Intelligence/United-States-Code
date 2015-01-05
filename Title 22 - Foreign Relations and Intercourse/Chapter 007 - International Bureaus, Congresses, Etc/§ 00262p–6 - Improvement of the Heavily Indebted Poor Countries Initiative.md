@@ -6,7 +6,7 @@ In order to accelerate multilateral debt relief and promote human and economic d
 
 #### (1) Focus on poverty reduction, good governance, transparency, and participation of citizens
 
-&emsp;A country which is otherwise eligible to receive cancellation of debt under the modified Heavily Indebted Poor Countries Initiative may receive such cancellation only if the country has committed, in connection with social and economic reform programs that are jointly developed, financed, and administered by the World Bank and the IMF—
+&emsp;A country which is otherwise eligible to receive cancellation of debt under the modifiedHeavily Indebted Poor Countries Initiative may receive such cancellation only if the country has committed, in connection with social and economic reform programs that are jointly developed, financed, and administered by the World Bank and the IMF—
 
 &emsp;&emsp;(A) to enable, facilitate, or encourage the implementation of policy changes and institutional reforms under economic reform programs, in a manner that ensures that such policy changes and institutional reforms are designed and adopted through transparent and participatory processes;
 

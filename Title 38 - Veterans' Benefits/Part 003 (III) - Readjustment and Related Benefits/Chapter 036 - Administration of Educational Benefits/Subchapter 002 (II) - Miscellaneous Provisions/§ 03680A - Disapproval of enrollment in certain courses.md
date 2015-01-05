@@ -10,7 +10,7 @@
 
 &emsp;(4) any independent study program except an accredited independent study program (including open circuit television) leading (A) to a standard college degree, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning.
 
-(b) Except to the extent otherwise specifically provided in this title or chapter 106 of title 10, the Secretary shall not approve the enrollment of an eligible veteran in any course of flight training other than one given by an educational institution of higher learning for credit toward a standard college degree the eligible veteran is seeking.
+(b) Except to the extent otherwise specifically provided in this title or chapter 106 of title 10, the Secretary shall not approve the enrollment of an eligible veteran in any course of flighttraining other than one given by an educational institution of higher learning for credit toward a standard college degree the eligible veteran is seeking.
 
 (c) The Secretary shall not approve the enrollment of an eligible veteran in any course to be pursued by radio.
 
@@ -70,7 +70,7 @@ Pub. L. 107–103, title I, §111(b), Dec. 27, 2001, 115 Stat. 987, provided tha
 
 #### Savings Provision
 
-Section not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
+Section not applicable to any person receiving educational assistance for pursuit of an independent studyprogram in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
 
 #### Transfer of Functions
 

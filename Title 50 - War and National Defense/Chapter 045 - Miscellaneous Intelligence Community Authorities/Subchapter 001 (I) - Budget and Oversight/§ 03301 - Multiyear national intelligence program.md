@@ -6,7 +6,7 @@ The Director of National Intelligence shall submit to the congressional committe
 
 #### (b) Time of submission
 
-The Director of National Intelligence shall submit the report required by subsection (a) ofthis section each year at or about the same time that the budget is submitted to Congress pursuant to section 1105(a) of title 31.
+The Director of National Intelligence shall submit the report required by subsection (a) of this section each year at or about the same time that the budget is submitted to Congress pursuant to section 1105(a) of title 31.
 
 #### (c) Consistency with budget estimates
 

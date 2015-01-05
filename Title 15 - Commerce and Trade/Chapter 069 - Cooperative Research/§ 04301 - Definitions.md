@@ -40,7 +40,7 @@
 
 (b) The term "joint venture" excludes the following activities involving two or more persons:
 
-&emsp;(1) exchanging information among competitors relating to costs, sales, profitability, prices, marketing, or distribution of any product, process, or service if such information is not reasonably required to carry out the purpose of such venture,
+&emsp;(1) exchanging information among competitors relating to costs, sales, profitability, prices, marketing, or distribution of any product, process, or service if such information isnot reasonably required to carry out the purpose of such venture,
 
 &emsp;(2) entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the marketing, distribution, or provision by any person who is a party to such venture of any product, process, or service, other than—
 
@@ -110,7 +110,7 @@ Pub. L. 103–42, §1, June 10, 1993, 107 Stat. 117, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 98–462, §1, Oct. 11, 1984, 98 Stat. 1815, as amended by Pub. L. 103–42, §3(a), June 10, 1993, 107 Stat. 117, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Cooperative Research and Production Act of 1993'."
+Pub. L. 98–462, §1, Oct. 11, 1984, 98 Stat. 1815, as amended by Pub. L. 103–42, §3(a), June 10, 1993, 107 Stat.117, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Cooperative Research and Production Act of 1993'."
 
 #### Construction of 2004 Amendment
 
@@ -150,7 +150,7 @@ Pub. L. 108–237, title I, §102, June 22, 2004, 118 Stat. 661, provided that: 
 
 &emsp;"(7) Standards developed by government entities generally are not subject to challenge under the antitrust laws.
 
-&emsp;"(8) Private developers of the technical standards that are used as Government standards are often not similarly protected, leaving such developers vulnerable to being named as codefendants in lawsuits eventhough the likelihood of their being held liable is remote in most cases, and they generally have limited resources to defend themselves in such lawsuits.
+&emsp;"(8) Private developers of the technical standards that are used as Government standards are often not similarly protected, leaving such developers vulnerable to being named as codefendants in lawsuits even though the likelihood of their being held liable is remote in most cases, and they generally have limited resources to defend themselves in such lawsuits.
 
 &emsp;"(9) Standards development organizations do not stand to benefit from any antitrust violations that might occur in the voluntary consensus standards development process.
 

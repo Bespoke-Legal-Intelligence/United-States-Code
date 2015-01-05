@@ -22,7 +22,7 @@ Under the demonstration project—
 
 #### (d) Actions involving discrimination
 
-Notwithstanding any other provision of this section, if, in the case of any matter described in section 7702(a)(1)(B) of title 5, there is no judicially reviewable action under the demonstration project within 120 days after the filing of an appeal or other formal request for review (referred to in subsection (c)(2) of this section), an employee shall be entitled to file a civil action to the same extent and in the same manner as provided in section 7702(e)(1) of such title 5 (in the matter following subparagraph (C) thereof).
+Notwithstanding any other provision of this section, if, in the case of any matter described in section 7702(a)(1)(B) of title 5, there is no judicially reviewable action under the demonstration project within 120 days after the filing of an appeal or other formal request for review (referred to in subsection (c)(2)), an employee shall be entitled to file a civil action to the same extent and in the same manner as provided in section 7702(e)(1) of such title 5 (in the matter following subparagraph (C) thereof).
 
 #### (e) Certain employees
 
@@ -40,13 +40,13 @@ The Government Accountability Office shall prepare and submit to the Committees 
 
 #### (g) Definition
 
-In this section, the term “covered entity” has the meaning given such term in section 292(a)(2) of this title.
+In this section, the term "covered entity" has the meaning given such term in section 292(a)(2) of this title.
 
 (Pub. L. 107–296, title IV, §473, Nov. 25, 2002, 116 Stat. 2208; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 
 #### Change of Name
 

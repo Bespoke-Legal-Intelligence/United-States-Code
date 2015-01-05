@@ -22,7 +22,7 @@ The Congress makes the following findings:
 
 &emsp;(5) The Cuban Government is offering foreign investors the opportunity to purchase an equity interest in, manage, or enter into joint ventures using property and assets some of which were confiscated from United States nationals.
 
-&emsp;(6) This "trafficking" in confiscated property provides badly needed financial benefit, including hard currency, oil, and productiveinvestment and expertise, to the current Cuban Government and thus undermines the foreign policy of the United States—
+&emsp;(6) This "trafficking" in confiscated property provides badly needed financial benefit, including hard currency, oil, and productive investment and expertise, to the current Cuban Government and thus undermines the foreign policy of the United States—
 
 &emsp;&emsp;(A) to bring democratic institutions to Cuba through the pressure of a general economic embargo at a time when the Castro regime has proven to be vulnerable to international economic pressure; and
 

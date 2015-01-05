@@ -94,7 +94,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the United States Government
 
 Sec. 2. <i>Responsibilities of Agency Heads</i>. In connection with the acquisition and use of computer software, the head of each executive agency shall:
 
-(a) ensure agency compliance with copyright laws protecting computer software and with the provisions of this order to ensure that only authorized computer software is acquired for and used on the agency's computers;
+(a) ensure agency compliance with copyright laws protecting computer software and with the provisions of this order to ensure that only authorized computersoftware is acquired for and used on the agency's computers;
 
 (b) utilize performance measures as recommended by the Chief Information Officers Council pursuant to section 3 of this order to assess the agency's compliance with this order;
 

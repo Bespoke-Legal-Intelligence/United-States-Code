@@ -38,7 +38,7 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 &emsp;&emsp;(B) permit an individual who is employed in the field of child welfare services to apply for a traineeship with a stipend if the traineeship furthers the progress of the individual toward the completion of degree requirements; and
 
-&emsp;&emsp;(C) develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purpose of determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
+&emsp;&emsp;(C) develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purposeof determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
 
 (Aug. 14, 1935, ch. 531, title IV, §426, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 915; amended Pub. L. 100–203, title IX, §9137, Dec. 22, 1987, 101 Stat. 1330–319; Pub. L. 103–432, title II, §205(b), Oct. 31, 1994, 108 Stat. 4457; Pub. L. 109–288, §§6(f)(2), 11(b), Sept. 28, 2006, 120 Stat. 1247, 1255.)
 
@@ -48,7 +48,7 @@ Section 628a of this title, referred to in subsec. (a)(1)(C), was transferred an
 
 #### Codification
 
-Section 628a of this title, which was transferred and redesignated as subsec. (c) of this section by Pub. L. 109–288, was based on act Aug. 14, 1935, ch. 531, title IV,§429, as added Pub. L. 103–432, title II, §205(a), Oct. 31, 1994, 108 Stat. 4456.
+Section 628a of this title, which was transferred and redesignated as subsec. (c) of this section by Pub. L. 109–288, was based on act Aug. 14, 1935, ch. 531, title IV, §429, as added Pub. L. 103–432, title II, §205(a), Oct. 31, 1994, 108 Stat. 4456.
 
 #### Amendments
 

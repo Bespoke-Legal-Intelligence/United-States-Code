@@ -21,6 +21,7 @@ d. discharges; retirements; revocation of commissions
 - [&sect; 00293 - Compulsory retirement](%C2%A7%2000293%20-%20Compulsory%20retirement.md)
 - [&sect; 00294 - Retirement for physical disability after selection for promotion; grade in which retired](%C2%A7%2000294%20-%20Retirement%20for%20physical%20disability%20after%20selection%20for%20promotion%3B%20grade%20in%20which%20retired.md)
 - [&sect; 00295 - Deferment of retirement or separation for medical reasons](%C2%A7%2000295%20-%20Deferment%20of%20retirement%20or%20separation%20for%20medical%20reasons.md)
+- [&sect; 00296 - Flag officers](%C2%A7%2000296%20-%20Flag%20officers.md)
 - [&sect; 00301, 302 - Repealed. Pub. L. 88&#8211;130, &sect;1(10)(A), Sept. 24, 1963, 77 Stat. 177](%C2%A7%2000301%2C%20302%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93130%2C%20%C2%A71%2810%29%28A%29%2C%20Sept.%2024%2C%201963%2C%2077%20Stat.%20177.md)
 - [&sect; 00303 to 305 - Repealed. May 29, 1954, ch. 249, &sect;20(o), 68 Stat. 167](%C2%A7%2000303%20to%20305%20-%20Repealed.%20May%2029%2C%201954%2C%20ch.%20249%2C%20%C2%A720%28o%29%2C%2068%20Stat.%20167.md)
 - [&sect; 00306 - Repealed. Aug. 3, 1950, ch. 536, &sect;36, 64 Stat. 408](%C2%A7%2000306%20-%20Repealed.%20Aug.%203%2C%201950%2C%20ch.%20536%2C%20%C2%A736%2C%2064%20Stat.%20408.md)

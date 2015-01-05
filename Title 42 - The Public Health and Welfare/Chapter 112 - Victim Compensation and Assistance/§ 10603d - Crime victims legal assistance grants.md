@@ -10,7 +10,7 @@ Grant amounts under this section may not be used to bring a cause of action for 
 
 #### (c) False Claims Act
 
-Notwithstanding any other provision of law, amounts collected pursuant to sections 3729through 3731 of title 31 (commonly known as the "False Claims Act") may be used for grants under this section, subject to appropriation.
+Notwithstanding any other provision of law, amounts collected pursuant to sections 3729 through 3731 of title 31 (commonly known as the "False Claims Act") may be used for grants under this section, subject to appropriation.
 
 (Pub. L. 98–473, title II, §1404D, as added Pub. L. 108–405, title I, §103(a), Oct. 30, 2004, 118 Stat. 2264.)
 

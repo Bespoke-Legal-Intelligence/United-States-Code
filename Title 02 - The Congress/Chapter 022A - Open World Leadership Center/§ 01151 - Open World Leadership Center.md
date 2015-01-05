@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;There is established in the legislative branch of the Government a center to be known as the “Open World Leadership Center <sup>1</sup> (the “Center”).
+&emsp;There is established in the legislative branch of the Government a center to be known as the "Open World Leadership Center <sup>1</sup> (the "Center").
 
 #### (2) Board of Trustees
 
-&emsp;The Center shall be subject to the supervision and direction of a Board of Trustees (the “Board”) which shall be composed of 11 members as follows:
+&emsp;The Center shall be subject to the supervision and direction of a Board of Trustees (the "Board") which shall be composed of 11 members as follows:
 
 &emsp;&emsp;(A) Two Members of the House of Representatives appointed by the Speaker of the House of Representatives, one of whom shall be designated by the Majority Leader of the House of Representatives and one of whom shall be designated by the Minority Leader of the House of Representatives.
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) The chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives and the chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the Senate.
 
-> &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of theterm. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+> &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of the term. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
 #### (b) Purpose and authority of the Center
 
@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each organization in the United States desiring a grant under this section shall submit an application to the Center at such time, in such manner, and accompanied by such information as the Center may reasonably require.
+&emsp;&emsp;Each organization in the United States desiring a grant under this section shall submit an application to the Center at suchtime, in such manner, and accompanied by such information as the Center may reasonably require.
 
 #### (B) Contents
 
@@ -74,7 +74,7 @@
 
 #### (1) In general
 
-&emsp;There is established in the Treasury of the United States a trust fund to be known as the “Open World Leadership Center Trust Fund” (the “Fund”) which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.
+&emsp;There is established in the Treasury of the United States a trust fund to be known as the "Open World Leadership Center Trust Fund" (the "Fund") which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.
 
 #### (2) Donations
 
@@ -120,11 +120,11 @@ Any amounts appropriated for use in the program established under section 3011 o
 
 #### (2) Transfer
 
-&emsp;Subsection (g) of this section shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
+&emsp;Subsection (g) shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
 
 #### (j) <sup>2</sup> Eligible foreign state defined
 
-In this section, the term “eligible foreign state” means—
+In this section, the term "eligible foreign state" means—
 
 &emsp;(1) any country specified in section 5801 of title 22;
 
@@ -140,223 +140,223 @@ Section 3011 of the 1999 Emergency Supplemental Appropriations Act, referred to 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2)(A). Pub. L. 111–68, §1601(a)(1), substituted “Members of the House of Representatives” for “members”.
+<b>2009</b>—Subsec. (a)(2)(A). Pub. L. 111–68, §1601(a)(1), substituted "Members of the House of Representatives" for "members".
 
-Subsec. (a)(2)(B). Pub. L. 111–68, §1601(a)(2), substituted “Senators” for “members”.
+Subsec. (a)(2)(B). Pub. L. 111–68, §1601(a)(2), substituted "Senators" for "members".
 
-Subsec. (d). Pub. L. 111–68, §1601(b), substituted “On behalf of the Board, the Librarian of Congress shall appoint” for “The Board shall appoint”.
+Subsec. (d). Pub. L. 111–68, §1601(b), substituted "On behalf of the Board, the Librarian of Congress shall appoint" for "The Board shall appoint".
 
-<b>2007</b>—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13, §3402(b), had not been enacted. See 2005 Amendment note below.
+<b>2007</b>—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13,§3402(b), had not been enacted. See 2005 Amendment note below.
 
-<b>2005</b>—Subsec. (a)(2)(E). Pub. L. 109–13, §3402(b), which substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”, was repealed by Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
+<b>2005</b>—Subsec. (a)(2)(E). Pub. L. 109–13, §3402(b), which substituted "chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)" for "chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives", was repealed by Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–447, §1502(1), substituted “11 members” for “nine members” in introductory provisions.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–447, §1502(1), substituted "11 members" for "nine members" in introductory provisions.
 
 Subsec. (a)(2)(E). Pub. L. 108–447, §1502(2), added subpar. (E).
 
 Subsec. (j)(3). Pub. L. 108–447, §1501, added par. (3).
 
-<b>2003</b>—Pub. L. 108–7, §1401(a)(1), substituted “Open World Leadership Center” for “Center for Russian Leadership Development” in section catchline.
+<b>2003</b>—Pub. L. 108–7, §1401(a)(1), substituted "Open World Leadership Center" for "Center for Russian Leadership Development" in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–7, §1401(a)(2)(A), substituted “a center to be known as the ‘Open World Leadership Center (the ‘Center’)” for “a center to be known as the ‘Center for Russian Leadership Development’ (the ‘Center’)”.
+Subsec. (a)(1). Pub. L. 108–7, §1401(a)(2)(A), substituted "a center to be known as the 'Open World Leadership Center (the 'Center')" for "a center to be known as the 'Center for Russian Leadership Development' (the 'Center')".
 
-Subsec. (a)(2). Pub. L. 108–7, §1401(a)(2)(B)(i), inserted “(the ‘Board’)” after “Board of Trustees” in introductory provisions.
+Subsec. (a)(2). Pub. L. 108–7, §1401(a)(2)(B)(i), inserted "(the 'Board')" after "Board of Trustees" in introductory provisions.
 
-Subsec. (a)(2)(D). Pub. L. 108–7, §1401(a)(2)(B)(ii), substituted “relations between the United States and eligible foreign states” for “United States and Russian relations”.
+Subsec. (a)(2)(D). Pub. L. 108–7, §1401(a)(2)(B)(ii), substituted "relations between the United States and eligible foreign states" for "United States and Russian relations".
 
-Subsec. (b)(1). Pub. L. 108–7, §1401(a)(3)(A), substituted “eligible foreign states” for “Russia” and inserted “and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions” before period at end.
+Subsec. (b)(1). Pub. L. 108–7, §1401(a)(3)(A), substituted "eligible foreign states" for "Russia" and inserted "and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions" before period at end.
 
-Subsec. (b)(2). Pub. L. 108–7, §1401(a)(3)(B), substituted “nationals of eligible foreign states” for “Russian nationals”.
+Subsec. (b)(2). Pub. L. 108–7, §1401(a)(3)(B), substituted "nationals of eligible foreign states" for "Russian nationals".
 
-Subsec. (b)(3)(B). Pub. L. 108–7, §1401(a)(3)(C)(i), substituted “3,500” for “3,000”.
+Subsec. (b)(3)(B). Pub. L. 108–7, §1401(a)(3)(C)(i), substituted "3,500" for "3,000".
 
-Subsec. (b)(3)(C)(i). Pub. L. 108–7, §1401(a)(3)(C)(ii), substituted “an eligible foreign state” for “Russia”.
+Subsec. (b)(3)(C)(i). Pub. L. 108–7, §1401(a)(3)(C)(ii), substituted "an eligible foreign state" for "Russia".
 
-Subsec. (c)(1). Pub. L. 108–7, §1401(a)(4)(A), substituted “Open World Leadership Center Trust Fund” for “Russian Leadership Development Center Trust Fund”.
+Subsec. (c)(1). Pub. L. 108–7, §1401(a)(4)(A), substituted "Open World Leadership Center Trust Fund" for "Russian Leadership Development Center Trust Fund".
 
-Subsec. (c)(3)(B). Pub. L. 108–7, §1401(a)(4)(B), struck out “of Trustees of the Center” after “Board”.
+Subsec. (c)(3)(B). Pub. L. 108–7, §1401(a)(4)(B), struck out "of Trustees of the Center" after "Board".
 
-Subsec. (h)(2). Pub. L. 108–7, §1401(a)(5), struck out “of Trustees of the Center” after “Board”.
+Subsec. (h)(2). Pub. L. 108–7, §1401(a)(5), struck out "of Trustees of the Center" after "Board".
 
 Subsec. (j). Pub. L. 108–7, §1401(a)(6), added subsec. (j).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–68, div. A, title I, §1601(c), Oct. 1, 2009, 123 Stat. 2041, provided that: “The amendments made by this subsection \[probably means section 1601 of Pub. L. 111–68, which amended this section\] shall apply with respect to—
+Pub. L. 111–68, div. A, title I, §1601(c), Oct. 1, 2009, 123 Stat. 2041, provided that: "The amendments made by this subsection \[probably means section 1601 of Pub. L. 111–68, which amended this section\] shall apply with respect to—
 
-&emsp;“(1) appointments made on and after the date of enactment of this Act \[Oct. 1, 2009\]; and
+&emsp;"(1) appointments made on and after the date of enactment of this Act \[Oct. 1, 2009\]; and
 
-&emsp;“(2) the remainder of the fiscal year in which enacted, and each fiscal year thereafter.”
+&emsp;"(2) the remainder of the fiscal year in which enacted, and each fiscal year thereafter."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–7, div. H, title I, §1401(b), Feb. 20, 2003, 117 Stat. 382, provided that: “The amendments made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Feb. 20, 2003\].”
+Pub. L. 108–7, div. H, title I, §1401(b), Feb. 20, 2003, 117 Stat. 382, provided that: "The amendments made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Feb. 20, 2003\]."
 
 #### Construction of 2005 Amendment
 
-Pub. L. 109–289, div. B, title II, §20703(d)(6), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39, provided that: “Section 3402 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 272) \[amending this section and provisions set out as a note under section 132b of this title\] is repealed, and each provision of law amended by such section is restored as if such section had not been enacted into law.”
+Pub. L. 109–289, div. B, title II, §20703(d)(6), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39, provided that: "Section 3402 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 272) \[amending this section and provisions set out as a note under section 132b of this title\] is repealed, and each provision of law amended by such section is restored as if such section had not been enacted into law."
 
 #### Russian Leadership Program
 
 Pub. L. 106–31, title III, §3011, May 21, 1999, 113 Stat. 93, as amended by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §585\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117; Pub. L. 106–554, §1(a)(2) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–119, provided that:
 
-“(a)
+"(a)
 
 Purpose.—It is the purpose of this section to establish, in accordance with the provisions of this section—
 
-&emsp;“(1) a pilot program within the Library of Congress for fiscal years 2000 and 2001; and
+&emsp;"(1) a pilot program within the Library of Congress for fiscal years 2000 and 2001; and
 
-&emsp;“(2) a permanent program within the Executive agency designated by the President of the United States for fiscal years 2002 and thereafter,
+&emsp;"(2) a permanent program within the Executive agency designated by the President of the United States for fiscal years 2002 and thereafter,
 
 > to enable emerging political leaders of Russia at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States.
 
-“(b)
+"(b)
 
 Grants.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The head of the administering agency shall annually award grants to government or community organizations in the United States that seek to establish programs under which those organizations will host eligible Russians for the purpose described in subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Duration.—The period of stay in the United States for any eligible Russian supported with grant funds under this section shall not exceed 30 days.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Limitation.—The number of eligible Russians supported with grant funds under this section shall not exceed 3,000 in any fiscal year.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Administration.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Subject to the availability of appropriations, the head of the administering agency—
 
-&emsp;&emsp;&emsp;“(i) may contract with nongovernmental organizations having expertise in carrying out the activities described in subsection (a) for the purpose of carrying out the administrative functions of the program (other than the awarding of grants); and
+&emsp;&emsp;&emsp;"(i) may contract with nongovernmental organizations having expertise in carrying out the activities described in subsection (a) for the purpose of carrying out the administrative functions of the program (other than the awarding of grants); and
 
-&emsp;&emsp;&emsp;“(ii) may, without regard to the civil service laws and regulations (or, in the case of the Librarian of Congress, any requirement for competition in hiring), appoint and terminate an executive director and such other additional personnel as may be necessary to enable the administering agency to perform its duties under this section.
+&emsp;&emsp;&emsp;"(ii) may, without regard to the civil service laws and regulations (or, in the case of the Librarian of Congress, any requirement for competition in hiring), appoint and terminate an executive director and such other additional personnel as may be necessary to enable the administering agency to perform its duties under this section.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Waiver of competitive bidding.—The Librarian of Congress, after consultation with the Joint Committee on the Library of Congress, may enter into contracts under subparagraph (A)(i) to carry out the pilot program during fiscal years 2000 and 2001 without regard to section 3709 of the Revised Statutes \[see 41 U.S.C. 6101\] or any other requirement for competitive contracting or the providing of notice of contracting opportunities.
 
-“(c)
+"(c)
 
 Use of Funds.—Grants awarded under subsection (b) shall be used to pay—
 
-&emsp;“(1) the costs and expenses incurred by each program participant in traveling between Russia and the United States and in traveling within the United States;
+&emsp;"(1) the costs and expenses incurred by each program participant in traveling between Russia and the United States and in traveling within the United States;
 
-&emsp;“(2) the costs of providing lodging in the United States to each program participant, whether in public accommodations or in private homes; and
+&emsp;"(2) the costs of providing lodging in the United States to each program participant, whether in public accommodations or in private homes; and
 
-&emsp;“(3) such additional administrative expenses incurred by organizations in carrying out the program as the head of the administering agency may prescribe.
+&emsp;"(3) such additional administrative expenses incurred by organizations in carrying out the program as the head of the administering agency may prescribe.
 
-“(d)
+"(d)
 
 Application.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Each organization in the United States desiring a grant under this section shall submit an application to the head of the administering agency at such time, in such manner, and accompanied by such information as such head may reasonably require.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Contents.—Each application submitted pursuant to paragraph (1) shall—
 
-&emsp;&emsp;“(A) describe the activities for which assistance under this section is sought;
+&emsp;&emsp;"(A) describe the activities for which assistance under this section is sought;
 
-&emsp;&emsp;“(B) include the number of program participants to be supported;
+&emsp;&emsp;"(B) include the number of program participants to be supported;
 
-&emsp;&emsp;“(C) describe the qualifications of the individuals who will be participating in the program; and
+&emsp;&emsp;"(C) describe the qualifications of the individuals who will be participating in the program; and
 
-&emsp;&emsp;“(D) provide such additional assurances as the head of the administering agency determines to be essential to ensure compliance with the requirements of this section.
+&emsp;&emsp;"(D) provide such additional assurances as the head of the administering agency determines to be essential to ensure compliance with the requirements of this section.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Waiver.—The Librarian of Congress may waive the requirement of this subsection in carrying out the pilot program during fiscal years 2000 and 2001.
 
-“(e)
+"(e)
 
 Advisory Board.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—There is established a Russian Leadership Program Advisory Board which shall advise the head of the administering agency as to the carrying out of the permanent program during fiscal years 2002 and thereafter.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Membership.—The Advisory Board under paragraph (1) shall consist of—
 
-&emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
+&emsp;&emsp;"(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
 
-&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
+&emsp;&emsp;"(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
 
-&emsp;&emsp;“(C) the Librarian of Congress;
+&emsp;&emsp;"(C) the Librarian of Congress;
 
-&emsp;&emsp;“(D) a private individual with expertise in international exchange programs, designated by the Librarian of Congress; and
+&emsp;&emsp;"(D) a private individual with expertise in international exchange programs, designated by the Librarian of Congress; and
 
-&emsp;&emsp;“(E) an officer or employee of the administering agency, designated by the head of the administering agency.
+&emsp;&emsp;"(E) an officer or employee of the administering agency, designated by the head of the administering agency.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Terms.—Each member appointed under paragraph (2) shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of the term.
 
-“(f)
+"(f)
 
 Reporting.—The head of the administering agency shall, not later than 3 months following the close of each fiscal year for which such agency administered the program, report to Congress with respect to the conduct of such program during such fiscal year. Such report shall include information with respect to the number of participants in the program and the cost of the program, and any recommendations on improvements necessary to enable the program to carry out the purposes of this section.
 
-“(g)
+"(g)
 
 Funding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Fiscal year 1999.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-In general.—Of funds made available under the heading ‘SENATE’ under title I of the Legislative \[Branch\] Appropriations Act, 1999 (Public Law 105–275; 112 Stat. 2430 et seq.) \[see Tables for classification\], $10,000,000 shall be made available, subject to the approval of the Committee on Appropriations of the Senate, to the administering agency to carry out the program.
+In general.—Of funds made available under the heading 'SENATE' under title I of the Legislative \[Branch\] Appropriations Act, 1999 (Public Law 105–275; 112 Stat. 2430 et seq.) \[see Tables for classification\], $10,000,000 shall be made available, subject to the approval of the Committee on Appropriations of the Senate, to the administering agency to carry out the program.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Use of funds at close of fiscal year.—Funds made available under this paragraph which are unexpended and unobligated as of the close of fiscal year 1999 shall no longer be available for such purpose and shall be available for the purpose originally appropriated.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Fiscal year 2000 and subsequent fiscal years.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Authorization of appropriations.—There are authorized to be appropriated to the administering agency for fiscal years 2000 and thereafter such sums as may be necessary to carry out the program.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Availability of funds.—Amounts appropriated pursuant to subparagraph (A) are authorized to remain available until expended.
 
-“(h)
+"(h)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administering agency.—The term ‘administering agency’ means—
+Administering agency.—The term 'administering agency' means—
 
-&emsp;&emsp;“(A) for fiscal years 2000 and 2001, the Library of Congress; and
+&emsp;&emsp;"(A) for fiscal years 2000 and 2001, the Library of Congress; and
 
-&emsp;&emsp;“(B) for fiscal year 2002, and subsequent fiscal years, the Executive agency designated by thePresident of the United States under subsection (a)(2).
+&emsp;&emsp;"(B) for fiscal year 2002, and subsequent fiscal years, the Executive agency designated by the President of the United States under subsection (a)(2).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Eligible russian.—The term ‘eligible Russian’ means a Russian national who is an emerging political leader at any level of government.
+Eligible russian.—The term 'eligible Russian' means a Russian national who is an emerging political leader at any level of government.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Program.—The term ‘program’ means the grant program established under this section.
+Program.—The term 'program' means the grant program established under this section.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Program participant.—The term ‘program participant’ means an eligible Russian selected for participation in the program.”
+Program participant.—The term 'program participant' means an eligible Russian selected for participation in the program."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by closing quotation marks.</i>
 

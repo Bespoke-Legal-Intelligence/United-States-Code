@@ -6,7 +6,7 @@ There shall be within the Council a subcommittee to be known as the "Appraisal S
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 inserted ", the Bureau of Consumer Financial Protection, and the Federal Housing Finance Agency" after "agencies" and "At all times atleast one member of the Appraisal Subcommittee shall have demonstrated knowledge and competence through licensure, certification, or professional designation within the appraisal profession." at the end.
+<b>2010</b>—Pub. L. 111–203 inserted ", the Bureau of Consumer Financial Protection, and the Federal Housing Finance Agency" after "agencies" and "At all times at least one member of the Appraisal Subcommittee shall have demonstrated knowledge and competence through licensure, certification, or professional designation within the appraisal profession." at the end.
 
 #### Effective Date of 2010 Amendment
 

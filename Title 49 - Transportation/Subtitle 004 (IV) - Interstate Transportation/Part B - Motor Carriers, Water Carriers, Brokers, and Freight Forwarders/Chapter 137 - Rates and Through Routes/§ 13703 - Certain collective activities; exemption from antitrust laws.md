@@ -46,7 +46,7 @@ Reasonableness.—The Board may suspend and investigate the reasonableness of an
 
 &emsp;&emsp;(B)
 
-Actions not in the public interest.—The Board may investigate any action takenpursuant to an agreement approved under this section. If the Board finds that the action is not in the public interest, the Board may take such measures as may be necessary to protect the public interest with regard to the action, including issuing an order directing the parties to cease and desist or modify the action.
+Actions not in the public interest.—The Board may investigate any action taken pursuant to an agreement approved under this section. If the Board finds that the action is not in the public interest, the Board may take such measures as may be necessary to protect the public interest with regard to the action, including issuing an order directing the parties to cease and desist or modify the action.
 
 &emsp;(6)
 
@@ -62,7 +62,7 @@ Review.—
 
 &emsp;(1)
 
-In general.—The Board may review an agreement approved under this section, on its own initiative or on request, and shall change the conditions of approval or terminate it when necessary to protect the public interest. Action of the Board under this section—
+In general.—The Board may review an agreement approved under this section, on its own initiative or on request, and shall changethe conditions of approval or terminate it when necessary to protect the public interest. Action of the Board under this section—
 
 &emsp;&emsp;(A) approving an agreement,
 
@@ -166,7 +166,7 @@ Provisions similar to those in this section were contained in section 10706 of t
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–159, §227(a), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
 
-Subsec. (d). Pub. L. 106–159, §227(b), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, the agreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending."
+Subsec. (d). Pub. L. 106–159, §227(b), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, theagreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending."
 
 Subsec. (e). Pub. L. 106–159, §227(c), designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 

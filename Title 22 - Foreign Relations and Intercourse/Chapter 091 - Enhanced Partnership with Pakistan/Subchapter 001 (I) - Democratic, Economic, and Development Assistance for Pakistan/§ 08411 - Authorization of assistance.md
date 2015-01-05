@@ -46,7 +46,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;&emsp;(A) programs that support sustainable economic growth, including in rural areas, and the sustainable management of natural resources through investments in water resource management systems;
 
-&emsp;&emsp;(B) expansion of agricultural and rural development, such as farm-to-market roads, systems to prevent spoilage and waste, and other small-scale infrastructure improvements;
+&emsp;&emsp;(B) expansion of agricultural and rural development, such as farm-to-market roads,systems to prevent spoilage and waste, and other small-scale infrastructure improvements;
 
 &emsp;&emsp;(C) investments in energy, including energy generation and cross-border infrastructure projects with Afghanistan;
 

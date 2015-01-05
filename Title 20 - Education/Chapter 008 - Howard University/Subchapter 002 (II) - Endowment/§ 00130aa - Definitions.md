@@ -24,5 +24,5 @@ Pub. L. 98–480, title II, §209, Oct. 17, 1984, 98 Stat. 2247, provided that: 
 
 #### Short Title
 
-Pub. L. 98–480, title II, §201, Oct. 17, 1984, 98 Stat. 2245, provided that: "This title \[enacting this subchapter, amending section 123 of this title, and enacting provisions set out as a note above\] may be cited as the 'Howard University Endowment Act'."
+Pub. L. 98–480, title II, §201, Oct. 17, 1984, 98 Stat. 2245, provided that: "This title \[enacting this subchapter,amending section 123 of this title, and enacting provisions set out as a note above\] may be cited as the 'Howard University Endowment Act'."
 

@@ -36,7 +36,7 @@ Congress finds that—
 
 <b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which outlined congressional findings and declaration of purpose of subchapter.
 
-<b>1981</b>—Pub. L. 97–98 substituted "schools or colleges of veterinary medicine and State agricultural experiment stations that conduct animal health and disease research" for "colleges of veterinary medicine or departments of veterinary sciences or animal pathology, and similar units conducting animal health and disease research in the State agricultural experiment stations,".
+<b>1981</b>—Pub. L. 97–98 substituted "schools or colleges of veterinary medicine and State agricultural experiment stations that conduct animal health and disease research" for "colleges of veterinary medicine or departments of veterinary sciences or animal pathology, andsimilar units conducting animal health and disease research in the State agricultural experiment stations,".
 
 #### Effective Date of 1981 Amendment
 

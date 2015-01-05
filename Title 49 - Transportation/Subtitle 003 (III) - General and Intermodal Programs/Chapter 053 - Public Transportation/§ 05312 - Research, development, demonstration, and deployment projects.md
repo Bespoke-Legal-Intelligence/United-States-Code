@@ -148,7 +148,7 @@ Project eligibility.—A project that receives assistance under paragraph (1) sh
 
 &emsp;(4)
 
-Evaluation.—Not later than 2 years after the date on which a project receives assistance under paragraph (1), the Secretary shall conduct a comprehensive evaluation of the success or failure of the projects funded under this subsection and any plan for broad-based implementation of the innovation promoted by successful projects.
+Evaluation.—Not later than 2 years after the date on which a project receives assistance under paragraph (1), the Secretary shall conduct a comprehensive evaluation of the success or failure of the projects funded under this subsection and any plan for broad-basedimplementation of the innovation promoted by successful projects.
 
 &emsp;(5)
 

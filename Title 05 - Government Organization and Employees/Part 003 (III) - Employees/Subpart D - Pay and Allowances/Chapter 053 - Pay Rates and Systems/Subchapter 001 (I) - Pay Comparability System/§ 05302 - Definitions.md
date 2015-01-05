@@ -2,7 +2,7 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) the term “statutory pay system” means a pay system under—
+&emsp;(1) the term "statutory pay system" means a pay system under—
 
 &emsp;&emsp;(A) subchapter III, relating to the General Schedule;
 
@@ -10,21 +10,21 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) chapter 74 of title 38, relating to the Veterans Health Administration (other than a position subject to section 7451 of title 38);
 
-&emsp;(2) the term “ECI” means the Employment Cost Index (wages and salaries, private industry workers) published quarterly by the Bureau of Labor Statistics;
+&emsp;(2) the term "ECI" means the Employment Cost Index (wages and salaries, private industry workers) published quarterly by the Bureau of Labor Statistics;
 
-&emsp;(3) the “base quarter” for any year is the 3-month period ending on September 30 of such year;
+&emsp;(3) the "base quarter" for any year is the 3-month period ending on September 30 of such year;
 
-&emsp;(4) the term “pay agent” means the agent designated by the President under section 5304(d)(1);
+&emsp;(4) the term "pay agent" means the agent designated by the President under section 5304(d)(1);
 
-&emsp;(5) the term “locality” or “pay locality” means any locality, as established or modified under section 5304;
+&emsp;(5) the term "locality" or "pay locality" means any locality, as established or modified under section 5304;
 
-&emsp;(6) the term “pay disparity”, as used with respect to a locality, means the extent to which rates of pay payable under the General Schedule are generally lower than the rates paid for the same levels of work by non-Federal workers in the same locality; except as otherwise required in this subchapter, a pay disparity shall be expressed as a single percentage which, if uniformly applied to employees within the locality who are receiving rates of pay under the General Schedule, would cause the rates payable to such employees to become substantially equal (when considered in the aggregate) to the rates paid to non-Federal workers for the same levels of work in the same locality;
+&emsp;(6) the term "pay disparity", as used with respect to a locality, means the extent to which rates of pay payable under the General Schedule are generally lower than the rates paid for the same levels of work by non-Federal workers in the same locality; except as otherwise required in this subchapter, a pay disparity shall be expressed as a single percentage which, if uniformly applied to employees within the locality who are receiving rates of pay under the General Schedule, would cause the rates payable to such employees to become substantially equal (when considered in the aggregate) to the rates paid to non-Federal workers for the same levels of work in the same locality;
 
-&emsp;(7) the term “comparability payment” means a payment payable under section 5304;
+&emsp;(7) the term "comparability payment" means a payment payable under section 5304;
 
-&emsp;(8) the term “rates of pay under the General Schedule”, “rates of pay for the General Schedule”, or “scheduled rates of basic pay” means the rates of basic pay under the General Schedule as established by section 5332, excluding pay under section 5304 and any other additional pay of any kind; and
+&emsp;(8) the term "rates of pay under the General Schedule", "rates of pay for the General Schedule", or "scheduled rates of basic pay" means the rates of basic pay under the General Schedule as established by section 5332, excluding pay under section 5304 and any other additional pay of any kind; and
 
-&emsp;(9) the term “General Schedule position” means any position to which subchapter III applies.
+&emsp;(9) the term "General Schedule position" means any position to which subchapter III applies.
 
 (Added Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429; amended Pub. L. 102–378, §2(25), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 103–89, §3(b)(1)(E), Sept. 30, 1993, 107 Stat. 981; Pub. L. 108–411, title III, §301(a)(1), Oct. 30, 2004, 118 Stat. 2313.)
 
@@ -38,17 +38,17 @@ A prior section 5302, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458, provided fo
 
 #### Amendments
 
-<b>2004</b>—Par. (8). Pub. L. 108–411 added par. (8) and struck out former par. (8) which read as follows: “the term ‘rates of pay under the General Schedule’, ‘rates of pay for the General Schedule’, or ‘scheduled rates of basic pay’ means—
+<b>2004</b>—Par. (8). Pub. L. 108–411 added par. (8) and struck out former par. (8) which read as follows: "the term 'rates of pay under the General Schedule', 'rates of pay for the General Schedule', or 'scheduled rates of basic pay' means—
 
-&emsp;“(A) the rates of basic pay set forth in the General Schedule; and
+&emsp;"(A) the rates of basic pay set forth in the General Schedule; and
 
-&emsp;“(B) in the case of an employee receiving a retained rate of basic pay under section 5363, the rate of basic pay payable under such section; and”.
+&emsp;"(B) in the case of an employee receiving a retained rate of basic pay under section 5363, the rate of basic pay payable under such section; and".
 
-<b>1993</b>—Par. (8). Pub. L. 103–89, §3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
+<b>1993</b>—Par. (8). Pub. L. 103–89, §3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and".
 
-Par. (9). Pub. L. 103–89, §3(b)(1)(E)(ii), substituted “applies” for “applies (including any position under the performance management and recognition system)”.
+Par. (9). Pub. L. 103–89, §3(b)(1)(E)(ii), substituted "applies" for "applies (including any position under the performance management and recognition system)".
 
-<b>1992</b>—Par. (1)(C). Pub. L. 102–378, §2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
+<b>1992</b>—Par. (1)(C). Pub. L. 102–378, §2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;".
 
 Par. (8)(C). Pub. L. 102–378, §2(25)(B), added subpar. (C).
 

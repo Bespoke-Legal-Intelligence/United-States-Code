@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 (5) The term "intermediary nation" means a nation that exports yellowfin tuna or yellowfin tuna products to the United States and that imports yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation into the United States pursuant to section 1371(a)(2)(B) of this title.
 
-(6) The term "marine mammal" means any mammal which (A) is morphologically adaptedto the marine environment (including sea otters and members of the orders Sirenia, Pinnipedia and Cetacea), or (B) primarily inhabits the marine environment (such as the polar bear); and, for the purposes of this chapter, includes any part of any such marine mammal, including its raw, dressed, or dyed fur or skin.
+(6) The term "marine mammal" means any mammal which (A) is morphologically adapted to the marine environment (including sea otters and members of the orders Sirenia, Pinnipedia and Cetacea), or (B) primarily inhabits the marine environment (such as the polar bear); and, for the purposes of this chapter, includes any part of any such marine mammal, including its raw, dressed, or dyed fur or skin.
 
 (7) The term "marine mammal product" means any item of merchandise which consists, or is composed in whole or in part, of any marine mammal.
 
@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 &emsp;(A) the territorial sea of the United States;
 
-&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
+&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the UnitedStates, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
 
 &emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured, except that this subparagraph shall not apply before the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
@@ -184,7 +184,7 @@ Par. (13). Pub. L. 97–58, §1(b)(2)(C), (E), redesignated par. (14) as (13) an
 
 Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15) as (13) and (14), respectively.
 
-<b>1976</b>—Par. (15)(B). Pub. L. 94–265 substituted "the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured" for "the fisheries zone established pursuant to the Act of October 14, 1966".
+<b>1976</b>—Par. (15)(B). Pub. L. 94–265 substituted "the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on itis 200 nautical miles from the baseline from which the territorial sea is measured" for "the fisheries zone established pursuant to the Act of October 14, 1966".
 
 <b>1973</b>—Par. (1)(B). Pub. L. 93–205 substituted "Endangered Species Act of 1973" for "Endangered Species Conservation Act of 1969".
 

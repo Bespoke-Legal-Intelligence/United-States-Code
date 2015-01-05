@@ -86,7 +86,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—CENTER FOR AUDIT EXCELLENCE
+
+|  |  |
+| :--- | ---: |
+| [791\.](Subchapter%20007%20%28VII%29%20-%20Center%20for%20Audit%20Excellence/%C2%A7%2000791%20-%20Center%20for%20Audit%20Excellence.md) | Center for Audit Excellence. |
+| [792\.](Subchapter%20007%20%28VII%29%20-%20Center%20for%20Audit%20Excellence/%C2%A7%2000792%20-%20Account.md) | Account. |
+| [793\.](Subchapter%20007%20%28VII%29%20-%20Center%20for%20Audit%20Excellence/%C2%A7%2000793%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–235, div. H, title I, §1401(a)(2), Dec. 16, 2014, 128 Stat. 2541, added subchapter VII heading and items 791 to 793.
 
 <b>2008</b>—Pub. L. 110–323, §5(c), Sept. 22, 2008, 122 Stat. 3547, added item 705.
 
@@ -111,3 +123,4 @@
 - [Subchapter 004 (IV) - Personnel Appeals Board](Subchapter%20004%20%28IV%29%20-%20Personnel%20Appeals%20Board/README.md)
 - [Subchapter 005 (V) - Annuities](Subchapter%20005%20%28V%29%20-%20Annuities/README.md)
 - [Subchapter 006 (VI) - Property Management](Subchapter%20006%20%28VI%29%20-%20Property%20Management/README.md)
+- [Subchapter 007 (VII) - Center for Audit Excellence](Subchapter%20007%20%28VII%29%20-%20Center%20for%20Audit%20Excellence/README.md)

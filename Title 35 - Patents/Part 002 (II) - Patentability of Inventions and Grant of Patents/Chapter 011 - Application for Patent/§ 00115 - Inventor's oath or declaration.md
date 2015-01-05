@@ -66,7 +66,7 @@ Exception.—The requirements under this section shall not apply to an individua
 
 &emsp;&emsp;(A) an oath or declaration meeting the requirements of subsection (a) was executed by the individual and was filed in connection with the earlier-filed application;
 
-&emsp;&emsp;(B) a substitute statement meeting the requirements of subsection (d) was filed in connection with the earlier filed application with respect to the individual; or
+&emsp;&emsp;(B) a substitute statement meeting the requirements of subsection (d) was filed inconnection with the earlier filed application with respect to the individual; or
 
 &emsp;&emsp;(C) an assignment meeting the requirements of subsection (e) was executed with respect to the earlier-filed application by the individual and was recorded in connection with the earlier-filed application.
 

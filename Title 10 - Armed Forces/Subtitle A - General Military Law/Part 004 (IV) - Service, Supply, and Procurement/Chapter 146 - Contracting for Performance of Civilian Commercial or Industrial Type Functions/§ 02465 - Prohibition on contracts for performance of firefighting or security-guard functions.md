@@ -42,7 +42,7 @@ Training.—Any contract or agreement entered into under this section shall pres
 
 "(c)
 
-Report.—One year after the date of enactment of this section \[Oct. 26, 2001\], the Secretary of Defenseshall submit a report to the Committees on Armed Services of the Senate and the House of Representatives describing the use of the authority granted under this section and the use by the Department of Defense of other means to improve the performance of security functions on military installations and facilities located within the United States."
+Report.—One year after the date of enactment of this section \[Oct. 26, 2001\], the Secretary of Defense shall submit a report to the Committees on Armed Services of the Senate and the House of Representatives describing the use of the authority granted under this section and the use by the Department of Defense of other means to improve the performance of security functions on military installations and facilities located within the United States."
 
 #### Performance of Emergency Response Functions at Chemical Weapons Storage Installations
 

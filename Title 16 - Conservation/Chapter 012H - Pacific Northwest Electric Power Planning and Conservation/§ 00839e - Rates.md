@@ -14,7 +14,7 @@
 
 #### (b) General application of rates to meet general requirements
 
-(1) The Administrator shall establish a rate or rates of general application for electric power sold to meet the general requirements of public body, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric power acquired by the Administrator under section 839c(c) of this title and then from other resources.
+(1) The Administrator shall establish a rate or rates of general application for electric powersold to meet the general requirements of public body, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric power acquired by the Administrator under section 839c(c) of this title and then from other resources.
 
 (2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) of this section for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customers if, the Administrator assumes that—
 
@@ -94,7 +94,7 @@ Except to the extent that the allocation of costs and benefits is governed by pr
 
 #### (h) Surcharges
 
-Notwithstanding any other provision of this section (except the provisions of subsection (a) of this section), the Administrator shall adjust power rates to include any surcharges arising under section 839b(f) of this title, and shall allocate any revenues from such charges in suchmanner as the Administrator determines will help achieve the purposes of section 839b(f) of this title.
+Notwithstanding any other provision of this section (except the provisions of subsection (a) of this section), the Administrator shall adjust power rates to include any surcharges arising under section 839b(f) of this title, and shall allocate any revenues from such charges in such manner as the Administrator determines will help achieve the purposes of section 839b(f) of this title.
 
 #### (i) Procedures
 
@@ -134,7 +134,7 @@ In order to further the purposes of this chapter and to protect the consumers of
 
 #### (m) Impact aid payments; formula
 
-(1) Beginning the first fiscal year after the plan and program required by section 839b(d)and (h) of this title are finally adopted, the Administrator may, subject to the provisions of this section, make annual impact aid payments to the appropriate local governments within the region with respect to major transmission facilities of the Administrator, as defined in section 3(c) of the Federal Columbia River Transmission Act \[16 U.S.C. 838a(c)\]—
+(1) Beginning the first fiscal year after the plan and program required by section 839b(d) and (h) of this title are finally adopted, the Administrator may, subject to the provisions of this section, make annual impact aid payments to the appropriate local governments within the region with respect to major transmission facilities of the Administrator, as defined in section 3(c) of the Federal Columbia River Transmission Act \[16 U.S.C. 838a(c)\]—
 
 &emsp;(A) which are located within the jurisdictional boundaries of such governments,
 
@@ -146,7 +146,7 @@ In order to further the purposes of this chapter and to protect the consumers of
 
 (3) Payments made pursuant to this subsection shall be made solely from the fund established by section 11 of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i\]. The provisions of section 13 of such Act \[16 U.S.C. 838k\], and any appropriations provided to the Administrator under any law, shall not be available for such payments. The authorization of payments under this subsection shall not be construed as an obligation of the United States.
 
-(4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency (other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently made available to the Administrator for such facilities.
+(4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency (other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency forpurposes of such agency and subsequently made available to the Administrator for such facilities.
 
 #### (n) Limiting the inclusion of costs of protection of, mitigation of damage to, and enhancement of fish and wildlife, within rates charged by the Bonneville Power Administration, to the rate period in which the costs are incurred
 

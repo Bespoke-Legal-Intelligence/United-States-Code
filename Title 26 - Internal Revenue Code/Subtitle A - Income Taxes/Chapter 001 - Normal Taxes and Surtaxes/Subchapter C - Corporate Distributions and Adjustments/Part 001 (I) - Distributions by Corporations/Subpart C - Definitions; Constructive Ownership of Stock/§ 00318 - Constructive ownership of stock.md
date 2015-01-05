@@ -44,7 +44,7 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 &emsp;&emsp;&emsp;(i) Stock owned, directly or indirectly, by or for a beneficiary of a trust (other than an employees' trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by the trust, unless such beneficiary's interest in the trust is a remote contingent interest. For purposes of this clause, a contingent interest of a beneficiary in a trust shall be considered remote if, under the maximum exercise of discretion by the trustee in favor of such beneficiary, the value of such interest, computed actuarially, is 5 percent or less of the value of the trust property.
 
-&emsp;&emsp;&emsp;(ii) Stock owned, directly or indirectly, by or for a person who is considered theowner of any portion of a trust under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners), shall be considered as owned by the trust.
+&emsp;&emsp;&emsp;(ii) Stock owned, directly or indirectly, by or for a person who is considered the owner of any portion of a trust under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners), shall be considered as owned by the trust.
 
 #### (C) To corporations
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 99–514 applicable to any ownership change after Dec. 31, 
 
 Amendment by section 712(k)(5)(E) of Pub. L. 98–369 not applicable to any qualified stock purchase where the acquisition date is before Sept. 1, 1982, see section 712(k)(9)(A) of Pub. L. 98–369, set out as a note under section 338 of this title.
 
-Amendment by section 712(k)(5)(E) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 712(k)(5)(E) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 Amendment by section 721(j) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 

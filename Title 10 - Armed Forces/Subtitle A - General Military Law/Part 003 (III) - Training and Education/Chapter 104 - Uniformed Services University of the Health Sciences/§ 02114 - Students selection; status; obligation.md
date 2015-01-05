@@ -8,27 +8,13 @@
 
 (c) Medical students who graduate shall be required to serve on active duty unless they are covered by section 2115 of this title. Medical students who graduate shall be required, except as provided in section 2115 of this title, to serve thereafter on active duty under such regulations as the Secretary of Defense or the Secretary of Health and Human Services, as appropriate, may prescribe for not less than seven years, unless sooner released. Upon completion of, or release from, the active-duty service obligation, a member of the program who served on active-duty for less than 10 years shall serve in the Ready Reserve for the period specified in the following table:
 
-<b>Period of Service</b>
+&nbsp;
 
-<b>Ready Reserve</b>
-
-<b> on Active Duty</b>
-
-<b>Obligation</b>
-
-&nbsp;&nbsp;Less than 8 years
-
-6 years
-
-&nbsp;&nbsp;8 years or more, but less than 9
-
-4 years
-
-&nbsp;&nbsp;9 years or more, but less than 10
-
-2 years
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| Period of Service on Active Duty | <b>Ready Reserve Obligation</b> |
+| :--- | ---: |
+| &nbsp;Less than 8 years | 6 years |
+| &nbsp;8 years or more, but less than 9 | 4 years |
+| &nbsp;9 years or more, but less than 10 | 2 years |
 
 > The service credit exclusions specified in section 2126 of this title shall apply to students covered by this section.
 
@@ -44,7 +30,7 @@
 
 (4) Each foreign country from which a student is permitted to receive instruction at the University under this subsection shall reimburse the United States for the cost of providing such instruction, unless such reimbursement is waived by the Secretary of Defense. The Secretary of Defense shall prescribe the rates for reimbursement under this paragraph.
 
-(5) Except as the President determines, a person receiving instruction at the Universityunder this subsection is subject to the same regulations governing attendance, discipline, discharge, and dismissal as a student enrolled in the University. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this subsection that differ from the regulations that apply to a student enrolled in the University.
+(5) Except as the President determines, a person receiving instruction at the University under this subsection is subject to the same regulations governing attendance, discipline, discharge, and dismissal as a student enrolled in the University. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this subsection that differ from the regulations that apply to a student enrolled in the University.
 
 (g) In this section, the term "commissioned service obligation" means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
 

@@ -22,49 +22,18 @@
 
 In designating countries as "beneficiary countries" under this chapter the President shall consider only the following countries and territories or successor political entities:
 
-&nbsp;Anguilla
-
-Saint Lucia
-
-&nbsp;Antigua and Barbuda
-
-Saint Vincent and the
-
-&nbsp;Bahamas, The
-
-&nbsp;Grenadines
-
-&nbsp;Barbados
-
-Suriname
-
-&nbsp;Belize
-
-Trinidad and Tobago
-
-&nbsp;Dominica
-
-Cayman Islands
-
-&nbsp;Grenada
-
-Montserrat
-
-&nbsp;Guyana
-
-Netherlands Antilles
-
-&nbsp;Haiti
-
-Saint Christopher-Nevis
-
-&nbsp;Jamaica
-
-Turks and Caicos Islands
-
-&nbsp;Virgin Islands, British
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| Anguilla | Saint Lucia |
+| Antigua and Barbuda | Saint Vincent and the Grenadines |
+| Bahamas, The | Suriname |
+| Barbados | Trinidad and Tobago |
+| Belize | Cayman Islands |
+| Dominica | Montserrat |
+| Grenada | Netherlands Antilles |
+| Guyana | Saint Christopher-Nevis |
+| Haiti | Turks and Caicos Islands |
+| Jamaica | Virgin Islands, British |
 
 > In addition, the President shall not designate any country a beneficiary country under this chapter—
 

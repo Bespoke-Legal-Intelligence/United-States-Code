@@ -6,7 +6,7 @@ The Secretary shall permit hunting and fishing on lands and waters within the se
 
 #### (b) No authority to regulate maritime activities
 
-Nothing in sections 459h to 459h–10 of this title <sup>1</sup> or any other provision of law shall affect any right of the State of Mississippi, or give the Secretary any authority, to regulate maritime activities, including nonseashore fishing activities (including shrimping), in any area that, on December 21, 2000, is outside the designated boundary of the seashore (including the buffer zone).
+Nothing in sections 459h to 459h–10 of this title <sup>1</sup> or any other provision of law shall affectany right of the State of Mississippi, or give the Secretary any authority, to regulate maritime activities, including nonseashore fishing activities (including shrimping), in any area that, on December 21, 2000, is outside the designated boundary of the seashore (including the buffer zone).
 
 (Pub. L. 91–660, §3, Jan. 8, 1971, 84 Stat. 1968; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–232.)
 

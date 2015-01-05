@@ -86,7 +86,7 @@ An eligible entity that receives a grant under this division may use grant funds
 
 #### (c) Additional permissible activities for States
 
-In addition to the required activities described in subsection (a) and the permissible activities described in subsection (b), an eligible entity described in section 1070a–21(c)(1) of this title receiving funds under this division may use grant funds to carry out one or more of the following activities:
+In addition to the required activities described in subsection (a) and the permissible activitiesdescribed in subsection (b), an eligible entity described in section 1070a–21(c)(1) of this title receiving funds under this division may use grant funds to carry out one or more of the following activities:
 
 &emsp;(1) Providing technical assistance to—
 

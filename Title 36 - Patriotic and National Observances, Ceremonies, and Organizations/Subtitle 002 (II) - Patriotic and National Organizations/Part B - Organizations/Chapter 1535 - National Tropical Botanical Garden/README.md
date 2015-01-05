@@ -15,11 +15,13 @@
 | [153511\.](%C2%A7%20153511%20-%20Service%20of%20process.md) | Service of process. |
 | [153512\.](%C2%A7%20153512%20-%20Liability%20for%20acts%20of%20officers%20and%20agents.md) | Liability for acts of officers and agents. |
 | [153513\.](%C2%A7%20153513%20-%20Distribution%20of%20assets%20on%20dissolution%20or%20final%20liquidation.md) | Distribution of assets on dissolution or final liquidation. |
-| [153514\.](%C2%A7%20153514%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations.<sup>1</sup> |
+| [153514\.](%C2%A7%20153514%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> Editorially supplied. Section added by Pub. L. 111–11 without corresponding amendment of chapter analysis.</i>
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–237, §3(c)(7), Dec. 18, 2014, 128 Stat. 2840, added item 153514.
 
 
 ---

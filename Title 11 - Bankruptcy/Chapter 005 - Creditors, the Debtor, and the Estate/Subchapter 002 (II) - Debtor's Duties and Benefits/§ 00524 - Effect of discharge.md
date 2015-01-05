@@ -2,7 +2,7 @@
 
 (a) A discharge in a case under this title—
 
-&emsp;(1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged undersection 727, 944, 1141, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
+&emsp;(1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged under section 727, 944, 1141, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
 
 &emsp;(2) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover or offset any such debt as a personal liability of the debtor, whether or not discharge of such debt is waived; and
 
@@ -110,7 +110,7 @@
 
 &emsp;(i) the injunction shall be valid and enforceable and may not be revoked or modified by any court except through appeal in accordance with paragraph (6);
 
-&emsp;(ii) no entity that pursuant to such plan or thereafter becomes a direct or indirect transferee of, or successor to any assets of, a debtor or trust that is the subject of the injunction shall be liable with respect to any claim or demand made against such entity by reason of its becoming such a transferee or successor; and
+&emsp;(ii) no entity that pursuant to such plan or thereafter becomes a direct or indirect transferee of, or successor to any assets of, a debtor or trust that is the subject of the injunctionshall be liable with respect to any claim or demand made against such entity by reason of its becoming such a transferee or successor; and
 
 &emsp;(iii) no entity that pursuant to such plan or thereafter makes a loan to such a debtor or trust or to such a successor or transferee shall, by reason of making the loan, be liable with respect to any claim or demand made against such entity, nor shall any pledge of assets made in connection with such a loan be upset or impaired for that reason;
 
@@ -120,7 +120,7 @@
 
 &emsp;(ii) relieve any such entity of the duty to comply with, or of liability under, any Federal or State law regarding the making of a fraudulent conveyance in a transaction described in subparagraph (A)(ii) or (iii); or
 
-&emsp;(iii) relieve a debtor of the debtor's obligation to comply with the terms of the plan of reorganization, or affect the power of thecourt to exercise its authority under sections 1141 and 1142 to compel the debtor to do so.
+&emsp;(iii) relieve a debtor of the debtor's obligation to comply with the terms of the plan of reorganization, or affect the power of the court to exercise its authority under sections 1141 and 1142 to compel the debtor to do so.
 
 (4)(A)(i) Subject to subparagraph (B), an injunction described in paragraph (1) shall be valid and enforceable against all entities that it addresses.
 
@@ -188,7 +188,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(B) if such trust meets such requirements on the date such stay is lifted or dissolved, such trust shall be considered to have met such requirements continuously from the date of the enactment of this Act.
 
-(i) The willful failure of a creditor to credit payments received under a plan confirmed underthis title, unless the order confirming the plan is revoked, the plan is in default, or the creditor has not received payments required to be made under the plan in the manner required by the plan (including crediting the amounts required under the plan), shall constitute a violation of an injunction under subsection (a)(2) if the act of the creditor to collect and failure to credit payments in the manner required by the plan caused material injury to the debtor.
+(i) The willful failure of a creditor to credit payments received under a plan confirmed under this title, unless the order confirming the plan is revoked, the plan is in default, or the creditor has not received payments required to be made under the plan in the manner required by the plan (including crediting the amounts required under the plan), shall constitute a violation of an injunction under subsection (a)(2) if the act of the creditor to collect and failure to credit payments in the manner required by the plan caused material injury to the debtor.
 
 (j) Subsection (a)(2) does not operate as an injunction against an act by a creditor that is the holder of a secured claim, if—
 
@@ -232,13 +232,13 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(ii) if, at the time the petition is filed, the debt is an extension of credit other than under an open end credit plan, as the terms "credit" and "open end credit plan" are defined in section 103 of the Truth in Lending Act, then—
 
-&emsp;&emsp;&emsp;(I) the annual percentage rate under section 128(a)(4) of the Truth in Lending Act, as disclosed to the debtor in the most recent disclosure statement given to the debtor prior to the entering into an agreement of the kind specified in subsection (c) with respect to the debt, or, if no such disclosure statement was given to the debtor, the annual percentage rate as it would have been so disclosed at the time the disclosure statement is given to the debtor, or to the extent this annual percentage rate is not readily available or not applicable, then
+&emsp;&emsp;&emsp;(I) the annual percentage rate under section 128(a)(4) of the Truth in Lending Act,as disclosed to the debtor in the most recent disclosure statement given to the debtor prior to the entering into an agreement of the kind specified in subsection (c) with respect to the debt, or, if no such disclosure statement was given to the debtor, the annual percentage rate as it would have been so disclosed at the time the disclosure statement is given to the debtor, or to the extent this annual percentage rate is not readily available or not applicable, then
 
 &emsp;&emsp;&emsp;(II) the simple interest rate applicable to the amount reaffirmed as of the date the disclosure statement is given to the debtor, or if different simple interest rates apply to different balances, the simple interest rate applicable to each such balance, identifying the amount of such balance included in the amount reaffirmed, or
 
 &emsp;&emsp;&emsp;(III) if the entity making the disclosure elects, to disclose the annual percentage rate under (I) and the simple interest rate under (II).
 
-&emsp;(F) If the underlying debt transaction was disclosed as a variable rate transaction on themost recent disclosure given under the Truth in Lending Act, by stating "The interest rate on your loan may be a variable interest rate which changes from time to time, so that the annual percentage rate disclosed here may be higher or lower.".
+&emsp;(F) If the underlying debt transaction was disclosed as a variable rate transaction on the most recent disclosure given under the Truth in Lending Act, by stating "The interest rate on your loan may be a variable interest rate which changes from time to time, so that the annual percentage rate disclosed here may be higher or lower.".
 
 &emsp;(G) If the debt is secured by a security interest which has not been waived in whole or in part or determined to be void by a final order of the court at the time of the disclosure, by disclosing that a security interest or lien in goods or property is asserted over some or all of the debts the debtor is reaffirming and listing the items and their original purchase price that are subject to the asserted security interest, or if not a purchase-money security interest then listing by items or types and the original amount of the loan.
 
@@ -276,7 +276,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 "Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make.
 
-"What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A 'lien' isoften referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State's law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.".
+"What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A 'lien' is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State's law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.".
 
 &emsp;(ii) In the case of a reaffirmation under subsection (m)(2), numbered paragraph 6 in the disclosures required by clause (i) of this subparagraph shall read as follows:
 
@@ -348,7 +348,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;(3) The requirements of subsections (c)(2) and (k) shall be satisfied if disclosures required under those subsections are given in good faith.
 
-(m)(1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall bepresumed that such agreement is an undue hardship on the debtor if the debtor's monthly income less the debtor's monthly expenses as shown on the debtor's completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor's discharge.
+(m)(1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor's monthly income less the debtor's monthly expenses as shown on the debtor's completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor's discharge.
 
 (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
@@ -466,5 +466,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Construction
 
-Pub. L. 103–394, title I, §111(b), Oct. 22, 1994, 108 Stat. 4117, provided that: "Nothing in subsection (a), or in the amendments made by subsection (a) \[amending this section\], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization."
+Pub. L. 103–394, title I, §111(b), Oct. 22, 1994, 108 Stat. 4117, provided that: "Nothing in subsection (a), or inthe amendments made by subsection (a) \[amending this section\], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization."
 

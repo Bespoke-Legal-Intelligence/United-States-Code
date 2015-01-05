@@ -38,7 +38,7 @@ The Congenital Heart Disease Surveillance System shall be made available to the 
 
 #### (e) Patient privacy
 
-The Secretary shall ensure that the Congenital Heart Disease Surveillance System is maintained in a manner that complies with the regulations promulgated under section 264 of theHealth Insurance Portability and Accountability Act of 1996.
+The Secretary shall ensure that the Congenital Heart Disease Surveillance System is maintained in a manner that complies with the regulations promulgated under section 264 of the Health Insurance Portability and Accountability Act of 1996.
 
 #### (f) Eligibility for grant
 

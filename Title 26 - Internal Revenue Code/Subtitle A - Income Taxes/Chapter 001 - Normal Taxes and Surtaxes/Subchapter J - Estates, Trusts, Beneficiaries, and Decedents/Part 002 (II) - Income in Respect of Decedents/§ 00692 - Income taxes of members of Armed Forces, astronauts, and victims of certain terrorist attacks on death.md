@@ -4,7 +4,7 @@
 
 In the case of any individual who dies while in active service as a member of the Armed Forces of the United States, if such death occurred while serving in a combat zone (as determined under section 112) or as a result of wounds, disease, or injury incurred while so serving—
 
-&emsp;(1) any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone after June 24, 1950; and
+&emsp;(1) any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone; and
 
 &emsp;(2) any tax under this subtitle and under the corresponding provisions of prior revenue laws for taxable years preceding those specified in paragraph (1) which is unpaid at the date of his death (including interest, additions to the tax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and if collected shall be credited or refunded as an overpayment.
 
@@ -16,7 +16,7 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 #### (1) In general
 
-&emsp;In the case of any individual who dies while a military or civilian employee of the United States, if such death occurs as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred in a terroristic or military action, any tax imposed by this subtitle shall not apply—
+&emsp;In the case of any individual who dies while a military or civilian employee of the United States, if such death occurs as a result of wounds or injury which was incurred while theindividual was a military or civilian employee of the United States and which was incurred in a terroristic or military action, any tax imposed by this subtitle shall not apply—
 
 &emsp;&emsp;(A) with respect to the taxable year in which falls the date of his death, and
 
@@ -72,9 +72,11 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 &emsp;The provisions of this subsection shall apply to any astronaut whose death occurs in the line of duty, except that paragraph (3)(B) shall be applied by using the date of the death of the astronaut rather than September 11, 2001.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 238; Pub. L. 93–597, §4(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1901(a)(92), Oct. 4, 1976, 90 Stat. 1780; Pub. L. 94–569, §3(c), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(b), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–259, §1(a), Apr. 10, 1984, 98 Stat. 142; Pub. L. 98–369, div. A, title VII, §722(g)(2), (3), July 18, 1984, 98 Stat. 974; Pub. L. 99–514, title XVII, §1708(a)(2), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 107–134, title I, §§101(a), (c)(1), 113(b), Jan. 23, 2002, 115 Stat. 2428, 2435; Pub. L. 108–121, title I, §110(a)(1), (3)(A), Nov. 11, 2003, 117 Stat. 1342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 238; Pub. L. 93–597, §4(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1901(a)(92), Oct. 4, 1976, 90 Stat. 1780; Pub. L. 94–569, §3(c), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(b), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–259, §1(a), Apr. 10, 1984, 98 Stat. 142; Pub. L. 98–369, div. A, title VII, §722(g)(2), (3), July 18, 1984, 98 Stat. 974; Pub. L. 99–514, title XVII, §1708(a)(2), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 107–134, title I, §§101(a), (c)(1), 113(b), Jan. 23, 2002, 115 Stat. 2428, 2435; Pub. L. 108–121, title I, §110(a)(1), (3)(A), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 113–295, div. A, title II, §221(a)(67), Dec. 19, 2014, 128 Stat. 4048.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295 struck out "after June 24, 1950" after "combat zone".
 
 <b>2003</b>—Pub. L. 108–121, §110(a)(3)(A), inserted ", astronauts," after "Forces" in section catchline.
 
@@ -96,7 +98,7 @@ Subsec. (d). Pub. L. 107–134, §101(a), added subsec. (d).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–259 added subsec. (c).
 
-Subsec. (c)(1). Pub. L. 98–369, §722(g)(2), which directed amendment of par. (1) of this section by substituting "as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred" for "as a result of wounds or injury incurred" was executed to par. (1) of subsec. (c) to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 98–369, §722(g)(2), which directed amendment of par. (1) of this section by substituting "as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred"for "as a result of wounds or injury incurred" was executed to par. (1) of subsec. (c) to reflect the probable intent of Congress.
 
 Subsec. (c)(2)(A). Pub. L. 98–369, §722(g)(3), inserted "which a preponderance of the evidence indicates was".
 
@@ -109,6 +111,10 @@ Pub. L. 94–455 substituted "of members" for "on members" in heading.
 <b>1975</b>—Subsec. (a). Pub. L. 93–597, §4(a)(1), (2), designated existing provisions as subsec. (a), added heading, and in subsec. (a) as so designated, struck out "during an induction period (as defined in section 112(c)(5))", respectively.
 
 Subsec. (b). Pub. L. 93–597, §4(a)(3), added subsec. (b).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2003 Amendment
 

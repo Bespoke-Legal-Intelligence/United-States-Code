@@ -62,7 +62,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 &emsp;&emsp;&emsp;&emsp;(III) a maintenance schedule for checking the reliability of self rescuers, retiring older self-rescuers first, and introducing new self-rescuer technology, such as units with interchangeable air or oxygen cylinders not requiring doffing to replenish airflow and units with supplies of greater than 60 minutes, as they are approved by the Administration and become available on the market; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) training for each miner in proper procedures for donning self-rescuers, switching from one unit to another, and ensuring a proper fit.
+&emsp;&emsp;&emsp;&emsp;(IV) training for each miner in proper procedures for donning self-rescuers,switching from one unit to another, and ensuring a proper fit.
 
 #### (iv) Post-accident lifelines
 
@@ -108,7 +108,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original "this Act", meaning Pub. L. 91–173,Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 

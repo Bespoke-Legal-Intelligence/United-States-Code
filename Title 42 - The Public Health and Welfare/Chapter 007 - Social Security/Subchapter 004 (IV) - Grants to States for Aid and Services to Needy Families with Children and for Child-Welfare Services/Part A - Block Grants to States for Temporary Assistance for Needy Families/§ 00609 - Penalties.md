@@ -38,7 +38,7 @@ Subject to this section:
 
 #### (ii) Rescission of penalty
 
-&emsp;&emsp;&emsp;The Secretary shall rescind a penalty imposed on a State under clause (i) with respect to a report required by section 611(c)(1)(A) of this title if the State submits the report not later than—
+&emsp;&emsp;&emsp;The Secretary shall rescind a penalty imposed on a State under clause (i) withrespect to a report required by section 611(c)(1)(A) of this title if the State submits the report not later than—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the report required under section 611(c)(1)(A)(i) of this title, June 15, 2011; and
 
@@ -46,7 +46,7 @@ Subject to this section:
 
 #### (iii) Penalty based on severity of failure
 
-&emsp;&emsp;&emsp;The Secretary shall impose a reduction under clause (i) with respect to a fiscalyear based on the degree of noncompliance.
+&emsp;&emsp;&emsp;The Secretary shall impose a reduction under clause (i) with respect to a fiscal year based on the degree of noncompliance.
 
 #### (3) Failure to satisfy minimum participation rates
 
@@ -162,7 +162,7 @@ Subject to this section:
 
 #### (v) Source of data
 
-&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretary shall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F of this subchapter) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretaryshall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F of this subchapter) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
 
 #### (8) Noncompliance of State child support enforcement program with requirements of part D
 
@@ -434,11 +434,11 @@ Subsec. (a)(7)(B)(iv). Pub. L. 105–33, §5001(a)(2), amended heading and text 
 
 Subsec. (a)(7)(B)(v). Pub. L. 105–33, §5506(f), added cl. (v).
 
-Subsec. (a)(8). Pub. L. 105–33, §5506(g), amended heading and text of par. (8) generally. Prior to amendment, par. (8) provided that if a State program operated under part D of this subchapter was found to not have complied substantially with the requirements of such part for any quarter, and was not complying substantially with such requirements at the time of the finding, the Secretary was to reduce the grant payable to the State under section 603(a)(1) of this title for certain quarters until the program was found to be in substantial compliance with such requirements.
+Subsec. (a)(8). Pub. L. 105–33, §5506(g), amended heading and text of par. (8) generally. Prior to amendment, par. (8) provided that if a State program operated under part D of this subchapter was found to not have complied substantially with the requirements of such part for any quarter, and was not complying substantiallywith such requirements at the time of the finding, the Secretary was to reduce the grant payable to the State under section 603(a)(1) of this title for certain quarters until the program was found to be in substantial compliance with such requirements.
 
 Subsec. (a)(9). Pub. L. 105–33, §5506(h), substituted "608(a)(7)" for "608(a)(1)(B)".
 
-Subsec. (a)(10). Pub. L. 105–33, §5506(i), substituted "the qualified State expenditures (as defined in paragraph (7)(B)(i) (other than the expenditures described in subclause (I)(bb) of that paragraph)) under the State program funded under this part for the fiscal year" for "the expenditures under the State program funded under this part for the fiscal year (excluding any amounts made available by the Federal Government)", inserted "excluding any amount expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994) for fiscal year 1994," after "(as defined in paragraph (7)(B)(iii) of this subsection),", and inserted before period at end"that the State has not remitted under section 603(b)(6) of this title".
+Subsec. (a)(10). Pub. L. 105–33, §5506(i), substituted "the qualified State expenditures (as defined in paragraph (7)(B)(i) (other than the expenditures described in subclause (I)(bb) of that paragraph)) under the State program funded under this part for the fiscal year" for "the expenditures under the State program funded under this part for the fiscal year (excluding any amounts made available by the Federal Government)", inserted "excluding any amount expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994) for fiscal year 1994," after "(as defined in paragraph (7)(B)(iii) of this subsection),", and inserted before period at end "that the State has not remitted under section 603(b)(6) of this title".
 
 Subsec. (a)(12). Pub. L. 105–33, §5506(j), in heading substituted "Requirement" for "Failure" and "reductions; penalty for failure to do so" for "reductions" and in text inserted at end "If the State fails during such succeeding fiscal year to make the expenditure required by the preceding sentence from its own funds, the Secretary may reduce the grant payable to the State under section 603(a)(1) of this title for the fiscal year that follows such succeeding fiscal year by an amount equal to the sum of—
 

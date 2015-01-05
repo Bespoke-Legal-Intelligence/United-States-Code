@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) an individual serving in the armed forces at a distant station if the President decides the advance is necessary to disburse regularly pay and allowances.
 
-(c) Before the Secretary of the Treasury acts on a requisition for an advance, the ComptrollerGeneral shall act on the requisition under section 3522 of this title. The Comptroller General does not countersign a requisition for an advance.
+(c) Before the Secretary of the Treasury acts on a requisition for an advance, the Comptroller General shall act on the requisition under section 3522 of this title. The Comptroller General does not countersign a requisition for an advance.
 
 (d) The head of an agency may pay in advance from appropriations available for the purpose—
 
@@ -80,7 +80,7 @@ June 12, 1930, ch. 470, 46 Stat. 580, §2; added Dec. 22, 1974, Pub. L. 93–534
 
 Apr. 15, 1926, ch. 146, §101(proviso on p. 267), 44 Stat. 267.
 
-In subsection (a), the words "Except as provided in this section" are added for clarity. The words "already provided" and "already delivered" are substituted for "rendered . . . delivered previously to such payment" for clarity and consistency.
+In subsection (a), the words "Except as provided in this section" are added for clarity. The words "alreadyprovided" and "already delivered" are substituted for "rendered . . . delivered previously to such payment" for clarity and consistency.
 
 In subsection (b), before clause (1), the words "in any case" and "It shall, however, be lawful under the special direction of" are omitted as surplus. In clause (2)(A)(i), the word "official" is substituted for "officer" for consistency in the revised title. The words "of the Government" are omitted as surplus. Clause (2)(A)(ii) is substituted for "the public engagements" for clarity. In clause (2)(B), the word "individual" is substituted for "persons" for consistency. The words "armed forces" are substituted for "military and naval service" for consistency with title 10. The words "and proper" are omitted as unnecessary. The words "disburse regularly pay and allowances" are substituted for "discharge of the pay and emoluments to which they may be entitled cannot be regularly effected" to eliminate unnecessary words, for clarity, and for consistency with title 37.
 

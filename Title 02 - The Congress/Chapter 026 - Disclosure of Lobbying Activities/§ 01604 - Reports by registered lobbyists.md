@@ -6,7 +6,7 @@ No later than 20 days after the end of the quarterly period beginning on the fir
 
 #### (b) Contents of report
 
-Each quarterly report filed under subsection (a) of this section shall contain—
+Each quarterly report filed under subsection (a) shall contain—
 
 &emsp;(1) the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration, including information under section 1603(b)(3) of this title;
 
@@ -48,7 +48,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 &emsp;&emsp;(D) the name of each Federal candidate or officeholder, leadership PAC, or political party committee, to whom aggregate contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization within the semiannual period, and the date and amount of each such contribution made within the semiannual period;
 
-&emsp;&emsp;(E) the date, recipient, and amount of funds contributed or disbursed during thesemiannual period by the person or organization or a political committee established or controlled by the person or organization—
+&emsp;&emsp;(E) the date, recipient, and amount of funds contributed or disbursed during the semiannual period by the person or organization or a political committee established or controlled by the person or organization—
 
 &emsp;&emsp;&emsp;(i) to pay the cost of an event to honor or recognize a covered legislative branch official or covered executive branch official;
 
@@ -58,7 +58,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 &emsp;&emsp;&emsp;(iv) to pay the costs of a meeting, retreat, conference, or other similar event held by, or in the name of, 1 or more covered legislative branch officials or covered executive branch officials,
 
-> &emsp;&emsp;except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under section 434 of this title;
+> &emsp;&emsp;except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under section 30104 of title 52;
 
 &emsp;&emsp;(F) the name of each Presidential library foundation, and each Presidential inaugural committee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and
 
@@ -70,7 +70,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 #### (2) Definition
 
-&emsp;In this subsection, the term “leadership PAC” has the meaning given such term in section 434(i)(8)(B) of this title.
+&emsp;In this subsection, the term "leadership PAC" has the meaning given such term in section 30104(i)(8)(B) of title 52.
 
 #### (e) Electronic filing required
 
@@ -80,37 +80,37 @@ A report required to be filed under this section shall be filed in electronic fo
 
 #### References in Text
 
-This chapter, referred to in subsec. (e), was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–81, §201(a)(1), substituted, in heading, “Quarterly” for “Semiannual” and, in text, “20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title, or on the first business day after such 20th day if the 20th day is not a business day,” for “45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under section 1603 of this title,” and “such quarterly period” for “such semiannual period”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–81, §201(a)(1), substituted, in heading, "Quarterly" for "Semiannual" and, in text, "20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title, or on the first business day after such 20th day if the 20th day is not a business day," for "45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under section 1603 of this title," and "such quarterly period" for "such semiannual period".
 
-Subsec. (b). Pub. L. 110–81, §201(a)(2)(A), substituted “quarterly report” for “semiannual report” in introductory provisions.
+Subsec. (b). Pub. L. 110–81, §201(a)(2)(A), substituted "quarterly report" for "semiannual report" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–81, §207(a)(2), inserted “, including information under section 1603(b)(3) of this title” before semicolon.
+Subsec. (b)(1). Pub. L. 110–81, §207(a)(2), inserted ", including information under section 1603(b)(3) of this title" before semicolon.
 
-Subsec. (b)(2). Pub. L. 110–81, §201(a)(2)(B), substituted “quarterly period” for “semiannual filing period” in introductory provisions.
+Subsec. (b)(2). Pub. L. 110–81, §201(a)(2)(B), substituted "quarterly period" for "semiannual filing period" in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 110–81, §201(a)(2)(C), substituted “quarterly period” for “semiannual period”.
+Subsec. (b)(3). Pub. L. 110–81, §201(a)(2)(C), substituted "quarterly period" for "semiannual period".
 
-Subsec. (b)(4). Pub. L. 110–81, §201(a)(2)(D), substituted “quarterly period” for “semiannual filing period”.
+Subsec. (b)(4). Pub. L. 110–81, §201(a)(2)(D), substituted "quarterly period" for "semiannual filing period".
 
 Subsec. (b)(5). Pub. L. 110–81, §202, added par. (5).
 
-Subsec. (c)(1). Pub. L. 110–81, §201(b)(6)(A), substituted “$5,000” for “$10,000” and “$10,000” for “$20,000”.
+Subsec. (c)(1). Pub. L. 110–81, §201(b)(6)(A), substituted "$5,000" for "$10,000" and "$10,000" for "$20,000".
 
-Subsec. (c)(2). Pub. L. 110–81, §201(b)(6)(B), substituted “$5,000” for “$10,000” in two places.
+Subsec. (c)(2). Pub. L. 110–81, §201(b)(6)(B), substituted "$5,000" for "$10,000" in two places.
 
 Subsec. (d). Pub. L. 110–81, §203(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 110–81, §205, added subsec. (e).
 
-<b>1998</b>—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: “A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).”
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: "A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8)."
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–81, title II, §203(b), Sept. 14, 2007, 121 Stat. 744, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the first semiannual period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1604(d)(1)\] (as added by this section) that begins after the date of the enactment of this Act \[Sept. 14, 2007\] and each succeeding semiannual period.”
+Pub. L. 110–81, title II, §203(b), Sept. 14, 2007, 121 Stat. 744, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to the first semiannual period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1604(d)(1)\] (as added by this section) that begins after the date of the enactment of this Act \[Sept. 14, 2007\] and each succeeding semiannual period."
 
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 434 of this title.
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
 

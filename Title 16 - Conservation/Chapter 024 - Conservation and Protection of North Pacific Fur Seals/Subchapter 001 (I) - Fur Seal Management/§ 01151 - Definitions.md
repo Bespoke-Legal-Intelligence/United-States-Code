@@ -2,7 +2,7 @@
 
 (a) "Commission" means the North Pacific Fur Seal Commission established pursuant to article V of the Convention.
 
-(b) "Convention" means the Interim Convention on the Conservation of North Pacific FurSeals signed at Washington on February 9, 1957, as amended by the protocol signed in Washington on October 8, 1963; by the exchange of notes among the party governments which became effective on September 3, 1969; by the protocol signed in Washington on May 7, 1976; and by the protocol signed in Washington on October 14, 1980, by the parties.
+(b) "Convention" means the Interim Convention on the Conservation of North Pacific Fur Seals signed at Washington on February 9, 1957, as amended by the protocol signed in Washington on October 8, 1963; by the exchange of notes among the party governments which became effective on September 3, 1969; by the protocol signed in Washington on May 7, 1976; and by the protocol signed in Washington on October 14, 1980, by the parties.
 
 (c) "Cure" or "curing" means the performance of those post-harvest activities traditionally performed on the Pribilof Islands, including cooling, washing, removal of blubber, soaking in brine, draining, treating with salt or boric acid, and packing in containers for shipment of fur seal skins.
 

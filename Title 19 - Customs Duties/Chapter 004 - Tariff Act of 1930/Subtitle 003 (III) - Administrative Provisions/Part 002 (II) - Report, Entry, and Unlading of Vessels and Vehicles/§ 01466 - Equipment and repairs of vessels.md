@@ -66,7 +66,7 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 &emsp;(1) the cost of any equipment, or any part of equipment, purchased for, or the repair parts or materials to be used, or the expense of repairs made in a foreign country with respect to, LASH (Lighter Aboard Ship) barges documented under the laws of the United States and utilized as cargo containers;
 
-&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, in the United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
+&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, inthe United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
 
 &emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country; or
 
@@ -82,7 +82,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f)
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
+Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114 and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
 
 #### Amendments
 

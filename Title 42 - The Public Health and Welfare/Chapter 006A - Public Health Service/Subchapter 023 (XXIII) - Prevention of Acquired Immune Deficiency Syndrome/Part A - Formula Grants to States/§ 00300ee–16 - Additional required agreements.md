@@ -60,7 +60,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 #### (b) "Significant percentage" defined
 
-For purposes of subsection (a)(5) of this section, the term "significant percentage" means at least a percentage of 1 percent of the number of reported cases of acquired immune deficiency syndrome in the United States.
+For purposes of subsection (a)(5) of this section, the term "significant percentage" means at least a percentage of 1 percent of the numberof reported cases of acquired immune deficiency syndrome in the United States.
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2506, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3097; amended Pub. L. 100–690, title II, §2619(d) \[(e)\], Nov. 18, 1988, 102 Stat. 4243; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 

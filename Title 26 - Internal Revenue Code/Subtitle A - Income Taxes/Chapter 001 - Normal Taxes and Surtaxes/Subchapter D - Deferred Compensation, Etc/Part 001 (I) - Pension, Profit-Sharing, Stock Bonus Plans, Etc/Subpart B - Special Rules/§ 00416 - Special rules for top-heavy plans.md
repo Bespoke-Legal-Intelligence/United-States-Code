@@ -16,41 +16,21 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (A) 3-year vesting
 
-&emsp;&emsp;A plan satisfies the requirements of this subparagraph if an employee who has completed at least 3 years of service with the employer or employers maintaining the plan has a nonforfeitable right to 100 percent of his accrued benefit derived from employer contributions.
+&emsp;&emsp;A plan satisfies the requirements of this subparagraph if an employee who has completed at least 3 years of service with theemployer or employers maintaining the plan has a nonforfeitable right to 100 percent of his accrued benefit derived from employer contributions.
 
 #### (B) 6-year graded vesting
 
 &emsp;&emsp;A plan satisfies the requirements of this subparagraph if an employee has a nonforfeitable right to a percentage of his accrued benefit derived from employer contributions determined under the following table:
 
-<b> </b>
+&nbsp;
 
-<b>The nonforfeitable</b>
-
-<b>Years of service</b>
-
-<b>percentage is:</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-2
-
-&nbsp;&nbsp;&nbsp;20
-
-3
-
-&nbsp;&nbsp;&nbsp;40
-
-4
-
-&nbsp;&nbsp;&nbsp;60
-
-5
-
-&nbsp;&nbsp;&nbsp;80
-
-6 or more
-
-&nbsp;&nbsp;&nbsp;100
+| <b> Years of service</b> | <b>The nonforfeitable percentage is:</b> |
+| :--- | ---: |
+| 2 | 20 |
+| 3 | 40 |
+| 4 | 60 |
+| 5 | 80 |
+| 6 or more | 100 |
 
 #### (2) Certain rules made applicable
 
@@ -218,7 +198,7 @@ For purposes of this section—
 
 #### (B) Benefits not taken into account if employee ceases to be key employee
 
-&emsp;&emsp;If any individual is a non-key employee with respect to any plan for any plan year, but such individual was a key employee with respect to such plan for any prior plan year, any accrued benefit for such employee (and the account of such employee) shall not be taken into account.
+&emsp;&emsp;If any individual is a non-key employee with respect to any plan for any plan year, but such individual was a key employee with respect to such plan for any prior plan year,any accrued benefit for such employee (and the account of such employee) shall not be taken into account.
 
 #### (C) Determination date
 
@@ -276,7 +256,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) a 1-percent owner of the employer having an annual compensation from the employer of more than $150,000.
 
-> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. In the case of plan years beginningafter December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
+> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. In the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
 
 #### (B) Percentage owners
 

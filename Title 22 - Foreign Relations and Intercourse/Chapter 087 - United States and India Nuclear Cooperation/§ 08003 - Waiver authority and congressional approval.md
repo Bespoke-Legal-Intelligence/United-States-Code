@@ -148,7 +148,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;&emsp;&emsp;(II) the nuclear technology identified for transfer will be used only for peaceful safeguarded nuclear activities and will not be used for any military or nuclear explosive purpose; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the nuclear technology identified for transfer will not be retransferred without the prior consent of the United States, and facilities, equipment, or materials derived through the use of transferred technology will not be transferred without the prior consent of the United States.
+&emsp;&emsp;&emsp;&emsp;(III) the nuclear technology identified for transfer will not be retransferred without the prior consent of the UnitedStates, and facilities, equipment, or materials derived through the use of transferred technology will not be transferred without the prior consent of the United States.
 
 &emsp;&emsp;&emsp;(iii) In the event the IAEA is unable to implement safeguards as required by an agreement for cooperation arranged pursuant to section 2153 of title 42, appropriate assurance that arrangements will be put in place expeditiously that are consistent with the requirements of section 2153(a)(1) of title 42 regarding the maintenance of safeguards as set forth in the agreement regardless of whether the agreement is terminated or suspended for any reason.
 
@@ -224,7 +224,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(i) is not consistent with applicable guidelines or decisions of the NSG; or
 
-&emsp;&emsp;&emsp;(ii) would not meet the standards applied to exports or reexports of such material, equipment, or technology of United States origin;
+&emsp;&emsp;&emsp;(ii) would not meet the standards applied to exports or reexports of such material,equipment, or technology of United States origin;
 
 &emsp;&emsp;(D) either—
 
@@ -278,7 +278,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;&emsp;(II) nuclear explosive devices;
 
-&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that canbe attributed to India's declared civil reactors;
+&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that can be attributed to India's declared civil reactors;
 
 &emsp;&emsp;(J) an analysis as to whether imported uranium has affected the rate of production in India of nuclear explosive devices;
 
@@ -298,7 +298,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(i) a listing of—
 
-&emsp;&emsp;&emsp;&emsp;(I) all provision of sensitive nuclear technology to India, and other such information as may be so designated by the United States or India under Article 1(Q); and
+&emsp;&emsp;&emsp;&emsp;(I) all provision of sensitive nuclear technology to India, and other such information as may be so designated bythe United States or India under Article 1(Q); and
 
 &emsp;&emsp;&emsp;&emsp;(II) all facilities in India notified pursuant to Article 7(1) of the Agreement;
 
@@ -338,7 +338,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 #### (B) Report on progress toward regional nonproliferation
 
-&emsp;&emsp;The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under section 2376(c) of this title.
+&emsp;&emsp;The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under section 2376(c) <sup>2</sup> of this title.
 
 #### (4) Form
 
@@ -351,6 +351,8 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 This chapter, referred to in subsec. (d)(1), (2), (3)(A), was in the original "this title", meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
 Section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, referred to in subsec. (g)(2)(M), is section 101(a) of Pub. L. 110–369, which is set out in a note under section 8001 of this title.
+
+Section 2376(c) of this title, referred to in subsec. (g)(3)(B), was repealed by Pub. L. 113–188, title XIV, §1401, Nov. 26, 2014, 128 Stat. 2023.
 
 #### Codification
 
@@ -413,4 +415,6 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Regulations,".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@
 
 #### (C) Expected levels of performance
 
-&emsp;&emsp;The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awarded under the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels of performance for each grantee, including any comments submitted by the grantee regarding the grantee's satisfaction with the negotiated levels.
+&emsp;&emsp;The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awardedunder the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels of performance for each grantee, including any comments submitted by the grantee regarding the grantee's satisfaction with the negotiated levels.
 
 #### (D) Adjustment
 

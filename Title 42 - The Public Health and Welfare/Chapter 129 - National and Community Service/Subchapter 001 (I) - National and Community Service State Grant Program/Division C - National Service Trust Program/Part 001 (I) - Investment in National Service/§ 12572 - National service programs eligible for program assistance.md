@@ -126,7 +126,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) assisting in the development of local recycling programs;
 
-&emsp;&emsp;&emsp;(vii) renewing and rehabilitating national and State parks and forests, city parks, county parks and other public lands, and trails owned or maintained by the Federal Government or a State, including planting trees, carrying out reforestation, carrying out forest health restoration measures, carrying out erosion control measures, fire hazard reduction measures, and rehabilitation and maintenance of historic sites and structures throughout the national park system, and providing trail enhancements, rehabilitation, and repairs;
+&emsp;&emsp;&emsp;(vii) renewing and rehabilitating national and State parks and forests, city parks, county parks and other public lands, and trails owned or maintained by the Federal Government or a State, including planting trees, carrying out reforestation, carrying out forest health restoration measures, carrying out erosioncontrol measures, fire hazard reduction measures, and rehabilitation and maintenance of historic sites and structures throughout the national park system, and providing trail enhancements, rehabilitation, and repairs;
 
 &emsp;&emsp;&emsp;(viii) cleaning and improving rivers maintained by the Federal Government or a State;
 
@@ -136,7 +136,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;&emsp;(I) undertakes meaningful service projects with visible public benefits, including projects involving urban renewal, sustaining natural resources, or improving human services;
 
-&emsp;&emsp;&emsp;&emsp;(II) includes as participants youths and young adults who are age 16 through 25,including out-of-school youth and other disadvantaged youth (such as youth who are aging out of foster care, youth who have limited English proficiency, homeless youth, and youth who are individuals with disabilities), who are age 16 through 25; and
+&emsp;&emsp;&emsp;&emsp;(II) includes as participants youths and young adults who are age 16 through 25, including out-of-school youth and other disadvantaged youth (such as youth who are aging out of foster care, youth who have limited English proficiency, homeless youth, and youth who are individuals with disabilities), who are age 16 through 25; and
 
 &emsp;&emsp;&emsp;&emsp;(III) provides those participants who are youth and young adults with—
 
@@ -184,7 +184,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(v) assisting veterans in developing mentoring relationships with economically disadvantaged students;
 
-&emsp;&emsp;&emsp;(vi) developing projects to assist veterans with disabilities, veterans who are unemployed, older veterans, and veterans in rural communities, including assisting veterans described in this clause with transportation; or
+&emsp;&emsp;&emsp;(vi) developing projects to assist veterans with disabilities, veterans who are unemployed, older veterans, and veterans inrural communities, including assisting veterans described in this clause with transportation; or
 
 &emsp;&emsp;&emsp;(vii) other activities, addressing unmet needs of veterans, that the Corporation may designate.
 
@@ -204,7 +204,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) the number of economically disadvantaged students engaged in mentoring relationships with veterans;
 
-&emsp;&emsp;&emsp;(vii) the number of projects designed to meet identifiable public needs of veterans,especially veterans with disabilities, veterans who are unemployed, older veterans, and veterans in rural communities;
+&emsp;&emsp;&emsp;(vii) the number of projects designed to meet identifiable public needs of veterans, especially veterans with disabilities, veterans who are unemployed, older veterans, and veterans in rural communities;
 
 &emsp;&emsp;&emsp;(viii) any additional indicator that relates to education or skill attainment that assists in providing veterans with the skills to address identifiable public needs, or that relates to improving the lives of veterans, of members of the Armed Forces on active duty, and of families of the veterans and the members on active duty, and that the Corporation, in consultation (as appropriate) with the Secretary of Veterans Affairs, establishes; or
 
@@ -396,7 +396,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (4) Encouragement of intergenerational components of programs
 
-&emsp;The Corporation shall encourage national service programs eligible to receive assistance or approved national service positions under this division to establish, if consistent with the purposes of the program, an intergenerational component of the program that combines students, out-of-school youths, disadvantaged youth, and older adults as participants to provide services to address unmet human, educational, environmental, or public safety needs.
+&emsp;The Corporation shall encourage national service programs eligible to receive assistanceor approved national service positions under this division to establish, if consistent with the purposes of the program, an intergenerational component of the program that combines students, out-of-school youths, disadvantaged youth, and older adults as participants to provide services to address unmet human, educational, environmental, or public safety needs.
 
 #### (e) Priorities for certain corps
 

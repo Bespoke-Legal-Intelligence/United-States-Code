@@ -10,7 +10,7 @@ For purposes of this subchapter, the term "public lands" shall have the same mea
 
 #### (c) Incorporation and management of after-acquired lands
 
-Except as otherwise provided in section 460uu–45 of this title, any lands or interests therein within the boundaries of the monument or conservation area which after December 31, 1987, may be acquired by the United States shall be incorporated into the monument or conservation area, as the case may be, and managed accordingly, and all provisions of this subchapter and other laws applicable to the monument orthe conservation area, as the case may be, shall apply to such incorporated lands.
+Except as otherwise provided in section 460uu–45 of this title, any lands or interests therein within the boundaries of the monument or conservation area which after December 31, 1987, may be acquired by the United States shall be incorporated into the monument or conservation area, as the case may be, and managed accordingly, and all provisions of this subchapter and other laws applicable to the monument or the conservation area, as the case may be, shall apply to such incorporated lands.
 
 #### (d) Prohibition on transfer of lands out of Federal ownership; withdrawal of lands from all forms of entry
 
@@ -24,7 +24,7 @@ The acreages cited in this subchapter are approximate, and in the event of discr
 
 #### (f) Acceptance of lands proposed for donation
 
-The Secretary is authorized to accept any lands contiguous to the boundaries of the Pecos National Monument (as such boundaries were established on December 31, 1987) which may be proposed for donation to the United States. If acceptance of such lands proposed for donation would be in furtherance of the purposes for which the Pecos National Monument was established, the Secretary shall accept such lands, and upon such acceptance such lands shall be incorporated into such monument and managed accordingly.
+The Secretary is authorized to accept any lands contiguous to the boundaries of the Pecos National Monument (as such boundaries were established on December 31, 1987) which may be proposed for donation to the United States. Ifacceptance of such lands proposed for donation would be in furtherance of the purposes for which the Pecos National Monument was established, the Secretary shall accept such lands, and upon such acceptance such lands shall be incorporated into such monument and managed accordingly.
 
 #### (g) Redesignation and revision of boundaries of Capulin Mountain National Monument
 
@@ -42,5 +42,5 @@ The Secretary is authorized to accept any lands contiguous to the boundaries of 
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-Act of September 5, 1962, referred to in subsec. (g)(3), is Pub. L. 87–635, Sept. 5, 1962, 76 Stat. 436, which enacted provisions listed in the National Monuments Established Under Presidential Proclamation table set out under section 431 of this title.
+Act of September 5, 1962, referred to in subsec. (g)(3), is Pub. L. 87–635, Sept. 5, 1962, 76 Stat. 436, which enacted provisions listed in the National Monuments Established Under Presidential Proclamation table set out under section 320301 of Title 54, National Park Service and Related Programs.
 

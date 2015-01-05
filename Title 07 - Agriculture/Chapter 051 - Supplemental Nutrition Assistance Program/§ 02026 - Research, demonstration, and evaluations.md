@@ -2,13 +2,13 @@
 
 #### (a) Contracts or grants; issuance of aggregate allotments
 
-(1) The Secretary may enter into contracts with or make grants to public or private organizations or agencies under this section to undertake research that will help improve the administration and effectiveness of the supplemental nutrition assistance program in delivering nutrition-related benefits. The waiver authority of the Secretary under subsection (b) of this section shall extend to all contracts and grants under this section.
+(1) The Secretary may enter into contracts with or make grants to public or private organizations or agencies under this section to undertake research that will help improve the administration and effectiveness of the supplemental nutrition assistance program in delivering nutrition-related benefits. The waiver authority of the Secretary under subsection (b) shall extend to all contracts and grants under this section.
 
 (2) The Secretary may, on application, permit not more than two State agencies to establish procedures that allow households whose monthly supplemental nutrition assistance program benefits do not exceed $20, at their option, to receive, in lieu of their supplemental nutrition assistance program benefits for the initial period under section 2017 of this title and their regular allotment in following months, and at intervals of up to 3 months thereafter, aggregate allotments not to exceed $60 and covering not more than 3 months' benefits. The allotments shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title (except that no household shall begin to receive combined allotments under this section until it has complied with all applicable verification requirements of section 2020(e)(3) of this title) and (with respect to the first aggregate allotment so issued) within 40 days of the last benefit issuance.
 
 #### (b) Pilot projects
 
-(1)(A) The Secretary may conduct on a trial basis, in one or more areas of the United States, pilot or experimental projects designed to test program changes that might increase the efficiency of the supplemental nutrition assistance program and improve the delivery of supplemental nutrition assistance program benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.
+(1)(A) The Secretary may conduct on a trial basis, in one or more areas of the United States, pilot or experimental projects designed to testprogram changes that might increase the efficiency of the supplemental nutrition assistance program and improve the delivery of supplemental nutrition assistance program benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.
 
 (B)
 
@@ -52,7 +52,7 @@ Impermissible projects.—The Secretary may not conduct a project under subparag
 
 &emsp;&emsp;(III) is inconsistent with—
 
-&emsp;&emsp;&emsp;(aa) paragraphs (4) and (5) of section 2012(n) of this title;
+&emsp;&emsp;&emsp;(aa) paragraphs (4) and (5) of section 2012(n) <sup>1</sup> of this title;
 
 &emsp;&emsp;&emsp;(bb) the last sentence of section 2014(a) of this title, insofar as a waiver denies assistance to an otherwise eligible household or individual if the household or individual has not failed to comply with any work, behavioral, or other conduct requirement under this or another program;
 
@@ -66,7 +66,7 @@ Impermissible projects.—The Secretary may not conduct a project under subparag
 
 &emsp;&emsp;&emsp;(gg) the time standard under section 2020(e)(3) of this title;
 
-&emsp;&emsp;&emsp;(hh) subsection (a), (c), (g), (h)(2), or (h)(3) of section 2025 of this title;
+&emsp;&emsp;&emsp;(hh) subsection (a), (c), (g), (h)(1)(F), (h)(2), or (h)(3) of section 2025 of this title;
 
 &emsp;&emsp;&emsp;(ii) this paragraph; or
 
@@ -94,7 +94,7 @@ Cash payment pilot projects.—Subject to the availability of appropriations und
 
 (C)(i) No waiver or demonstration program shall be approved under this chapter after November 28, 1990, unless—
 
-&emsp;(I) any household whose food assistance is issued in a form other than EBT cards has its allotment increased to the extent necessary to compensate for any State or local sales tax that may be collected in all or part of the area covered by the demonstration project, the tax on purchases of food by any such household is waived, or the Secretary determines on the basis of information provided by the State agency that the increase is unnecessary on the basis of the limited nature of the items subject to the State or local sales tax; and
+&emsp;(I) any household whose food assistance is issued in a form other than EBT cards has its allotment increased to the extent necessary tocompensate for any State or local sales tax that may be collected in all or part of the area covered by the demonstration project, the tax on purchases of food by any such household is waived, or the Secretary determines on the basis of information provided by the State agency that the increase is unnecessary on the basis of the limited nature of the items subject to the State or local sales tax; and
 
 &emsp;(II) the State agency conducting the demonstration project pays the cost of any increased allotments.
 
@@ -128,7 +128,7 @@ Notice of denial.—On denial of a waiver request under clause (i)(III), the Sec
 
 (3)(A) The Secretary may conduct demonstration projects to test improved consistency or coordination between the supplemental nutrition assistance program employment and training program and the Job Opportunities and Basic Skills program under title IV of the Social Security Act (42 U.S.C. 601 et seq.).
 
-(B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for supplemental nutrition assistance program recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F <sup>1</sup> of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) <sup>1</sup> of such Act (42 U.S.C. 682(f)).
+(B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for supplemental nutrition assistance program recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F <sup>1</sup> of title IV of the Social Security Act (42U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) <sup>1</sup> of such Act (42 U.S.C. 682(f)).
 
 (C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to "aid to families with dependent children" in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
 
@@ -212,7 +212,7 @@ The Secretary shall conduct a study of the effects of reductions made in benefit
 
 #### (f) Demonstration projects for development and use of intelligent benefit cards to pay benefits
 
-In order to encourage States to plan, design, develop, and implement a system for making supplemental nutrition assistance program benefits available through the use of intelligent benefit cards or other automated or electronic benefit delivery systems, the Secretary may conduct one or more pilot or experimental projects, subject to the restrictions imposed by subsection (b)(1) of this section and section 2016(f)(2) of this title, designed to test whether the use of such cards or systems can enhance the efficiency and effectiveness of program operations while ensuring that individuals receive correct benefit amounts on a timely basis. Intelligent benefit cards developed under such a demonstration project shall contain information, encoded on a computer chip embedded in a credit card medium, including the eligibility of the individual and the amount of benefits to which such individual is entitled. Any other automated or electronic benefit delivery system developed under such a demonstration project shall be able to use a plastic card to access such information from a data file.
+In order to encourage States to plan, design, develop, and implement a system for making supplemental nutrition assistance program benefits available through the use of intelligent benefit cards or other automated or electronic benefit delivery systems, the Secretary may conduct one or more pilot or experimental projects, subject to the restrictions imposed by subsection (b)(1) and section 2016(f)(2) of this title, designed to test whether the use of such cards or systems can enhance the efficiency and effectiveness of program operations while ensuring that individuals receive correct benefit amounts on a timely basis. Intelligent benefit cards developed under such a demonstration project shall contain information, encoded on a computer chip embedded in a credit card medium, including the eligibility of the individual and the amount of benefits to which such individual is entitled. Any other automated or electronic benefit delivery system developed under such a demonstration project shall be able to use a plastic card to access such information from a data file.
 
 #### (g) Study of effectiveness of employment and training programs
 
@@ -226,7 +226,7 @@ In order to assess the effectiveness of the employment and training programs est
 
 #### (h) Demonstration projects for vehicle exclusion limits
 
-The Secretary shall conduct a sufficient number of demonstration projects to evaluate the effects, in both rural and urban areas, of including in financial resources under section 2014(g) ofthis title the fair market value of licensed vehicles to the extent the value of each vehicle exceeds $4,500, but excluding the value of—
+The Secretary shall conduct a sufficient number of demonstration projects to evaluate the effects, in both rural and urban areas, of including in financial resources under section 2014(g) of this title the fair market value of licensed vehicles to the extent the value of each vehicle exceeds $4,500, but excluding the value of—
 
 &emsp;(1) any licensed vehicle that is used to produce earned income, necessary for transportation of an elderly or physically disabled household member, or used as the household's home; and
 
@@ -294,7 +294,7 @@ The Secretary shall use up to $4,000,000 of the funds provided in advance in app
 
 &emsp;&emsp;(E) provide incentives at the point of purchase to encourage households participating in the supplemental nutrition assistance program to purchase fruits, vegetables, or other healthful foods; or
 
-&emsp;&emsp;(F) provide to participating households integrated communication and education programs, including the provision of funding for a portion of a school-based nutrition coordinator to implement a broad nutritionaction plan and parent nutrition education programs in elementary schools, separately or in combination with pilot projects carried out under subparagraphs (A) through (E).
+&emsp;&emsp;(F) provide to participating households integrated communication and education programs, including the provision of funding for a portion of a school-based nutrition coordinator to implement a broad nutrition action plan and parent nutrition education programs in elementary schools, separately or in combination with pilot projects carried out under subparagraphs (A) through (E).
 
 #### (4) Evaluation and reporting
 
@@ -344,9 +344,23 @@ The Secretary shall use up to $4,000,000 of the funds provided in advance in app
 
 &emsp;&emsp;Out of any funds made available under section 2027 of this title, on October 1, 2008, the Secretary shall make available $20,000,000 to carry out a project described in paragraph (3)(E), to remain available until expended.
 
-(Pub. L. 88–525, §17, as added Pub. L. 93–86, §3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, §4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, §941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, §204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, §401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(d), title VIII, §§815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, \[(b)\], June 12, 1997, 111 Stat. 217; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(C), (f)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4112(b)(4), 4116(b), 4122(b), 4123(a), May 13, 2002, 116 Stat. 313, 316, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1117, 1141; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1879, 1902.)
+#### (l) Cooperation with program research and evaluation
+
+Subject to the requirements of this chapter, including protections under section 2020(e)(8) of this title, States, State agencies, local agencies, institutions, facilities such as data consortiums, and contractors participating in programs authorized under this chapter shall—
+
+&emsp;(1) cooperate with officials and contractors acting on behalf of the Secretary in the conduct of evaluations and studies under this chapter; and
+
+&emsp;(2) submit information at such time and in such manner as the Secretary may require.
+
+(Pub. L. 88–525, §17, as added Pub. L. 93–86, §3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, §4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, §941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, §204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, §401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(d), title VIII, §§815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, \[(b)\], June 12, 1997, 111 Stat. 217; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(C), (f)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4112(b)(4), 4116(b), 4122(b), 4123(a), May 13, 2002, 116 Stat. 313, 316, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1117, 1141; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1879, 1902; Pub. L. 113–79, title IV, §§4022(b)(3), 4023, Feb. 7, 2014, 128 Stat. 808, 809; Pub. L. 113–128, title V, §512(l)(3), July 22, 2014, 128 Stat. 1709.)
+
+#### Amendment of Subsection (b)(2)
+
+<i>Pub. L. 113–128, title V, §§506, 512(l)(3), July 22, 2014, 128 Stat. 1703, 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(2) of this section is amended by striking "a program carried out under title I of the Workforce Investment Act of 1998" and inserting "a program carried out under title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
 
 #### References in Text
+
+Section 2012(n) of this title, referred to in subsec. (b)(1)(B)(iv)(III)(aa), was redesignated as section 2012(m) of this title by Pub. L. 113–79, title IV, §4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
 
 The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (3)(A), (B), (I) and (d)(1)(B), (3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV, part A of title IV, and title XVI of the Act are classified generally to subchapter IV (§601 et seq.), part A (§601 et seq.) of subchapter IV, and subchapter XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -369,6 +383,12 @@ The Food Stamp Act Amendments of 1982, referred to in subsec. (e), is subtitle E
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(B)(iv)(III)(hh). Pub. L. 113–79, §4022(b)(3), inserted "(h)(1)(F)," after "(g),".
+
+Subsec. (b)(2). Pub. L. 113–128 substituted "a program carried out under title I of the Workforce Innovation and Opportunity Act" for "a program carried out under title I of the Workforce Investment Act of 1998".
+
+Subsec. (l). Pub. L. 113–79, §4023, added subsec. (l).
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
@@ -444,7 +464,7 @@ Pub. L. 110–246, §4002(a)(9)(G), substituted "supplemental nutrition assistan
 
 Subsec. (k). Pub. L. 110–246, §4141, added subsec. (k).
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §4123(a), substituted "enter into contracts with or make grants to public or private organizations or agencies under this section to" for ", by way of making contracts with or grants to public or private organizations or agencies,"and inserted at end "The waiver authority of the Secretary under subsection (b) of this section shall extend to all contracts and grants under this section."
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §4123(a), substituted "enter into contracts with or make grants to public or private organizations or agencies under this section to" for ", by way of making contracts with or grants to public or private organizations or agencies," and inserted at end "The waiver authority of the Secretary under subsection (b) shall extend to all contracts and grants under this section."
 
 Subsec. (b)(1)(B)(iv)(III)(aa). Pub. L. 107–171, §4112(b)(4), substituted "paragraphs (4) and (5) of section 2012(i) of this title" for "the last 2 sentences of section 2012(i) of this title".
 
@@ -516,7 +536,7 @@ Pub. L. 99–114 substituted "through November 15, 1985" for "until October 1, 1
 
 Subsecs. (d) to (f). Pub. L. 99–198, §1540(b), (c), struck out subsec. (d) which had authorized the Secretary to conduct statewide pilot projects respecting the processing of applications for certain recipients, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (f) as (d), and struck out former subsec. (d), which provided that notwithstanding any other provision of law, the Secretary has required, in consultation with the Secretary of the Treasury, to conduct a study, through the use of Federal income tax data, of the feasibility, alternative methods of implementation, and the effects of a program to recover food stamp benefits from members of eligible households in which the adjusted gross income of members of suchhouseholds for a calendar year (as defined by the Internal Revenue Code of 1954) exceeded twice the income poverty guidelines set forth in section 2014(c) of this title, and that such study had to be conducted in rural and urban areas only on a voluntary basis by food stamp recipients, and that the Secretary was required, no later than twelve months and eighteen months from September 29, 1977, to report the results of the study to the Committees on Agriculture and Ways and Means of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Finance of the Senate, together with such recommendations as the Secretary deemed appropriate.
+<b>1982</b>—Subsec. (d). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (f) as (d), and struck out former subsec. (d), which provided that notwithstanding any other provision of law, the Secretary has required, in consultation with the Secretary of the Treasury, to conduct a study, through the use of Federal income tax data, of the feasibility, alternative methods of implementation, and the effects of a program to recover food stamp benefits from members of eligible households in which the adjusted gross income of members of such households for a calendar year (as defined by the Internal Revenue Code of 1954) exceeded twice the income poverty guidelines set forth in section 2014(c) of this title, and that such study had to be conducted in rural and urban areas only on a voluntary basis by food stamp recipients, and that the Secretary was required, no later than twelve months and eighteen months from September 29, 1977, to report the results of the study to the Committees on Agriculture and Ways and Means of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Finance of the Senate, together with such recommendations as the Secretary deemed appropriate.
 
 Subsec. (e). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (g) as (e) and struck out former subsec. (e) which provided for a study of the Consumer Price Index and other alternative consumer price or cost-of-living indices.
 
@@ -539,6 +559,10 @@ Subsec. (e). Pub. L. 96–249, §133, added subsec. (e).
 <b>1978</b>—Subsec. (b)(2). Pub. L. 95–400 required issuance of an interim report no later than Oct. 1, 1979, and substituted requirement for issuance of a final report no later than Oct. 1, 1980, for prior requirement of a final report no later than eighteen months following Sept. 29, 1977.
 
 <b>1977</b>—Pub. L. 95–113 substituted provisions relating to research, demonstrations, and evaluations for provisions relating to the purchase with coupons of hunting and fishing equipment for procuring food by members of eligible households living in Alaska.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2008 Amendment
 

@@ -14,3 +14,4 @@
 - [&sect; 03327 - Limitation on transfer of funds between CIA and Department of Defense; congressional notification required](%C2%A7%2003327%20-%20Limitation%20on%20transfer%20of%20funds%20between%20CIA%20and%20Department%20of%20Defense%3B%20congressional%20notification%20required.md)
 - [&sect; 03328 - Study or plan of surrender; use of appropriations](%C2%A7%2003328%20-%20Study%20or%20plan%20of%20surrender%3B%20use%20of%20appropriations.md)
 - [&sect; 03329 - Intelligence community contracting](%C2%A7%2003329%20-%20Intelligence%20community%20contracting.md)
+- [&sect; 03330 - Reports to the intelligence community on penetrations of networks and information systems of certain contractors](%C2%A7%2003330%20-%20Reports%20to%20the%20intelligence%20community%20on%20penetrations%20of%20networks%20and%20information%20systems%20of%20certain%20contractors.md)

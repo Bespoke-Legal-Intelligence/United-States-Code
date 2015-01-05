@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) is—
 
-&emsp;&emsp;&emsp;&emsp;(I) maintained by one or more current or former employers (including without limitation any State or local government or political subdivision thereof or any agency or instrumentality of any of the foregoing), employee organization, a voluntary employees' beneficiary association, or a committee or board of individuals appointed to administer such plan; or
+&emsp;&emsp;&emsp;&emsp;(I) maintained by one or more current or former employers (including withoutlimitation any State or local government or political subdivision thereof or any agency or instrumentality of any of the foregoing), employee organization, a voluntary employees' beneficiary association, or a committee or board of individuals appointed to administer such plan; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a multiemployer plan (as defined in section 1002(37) of title 29); and
 

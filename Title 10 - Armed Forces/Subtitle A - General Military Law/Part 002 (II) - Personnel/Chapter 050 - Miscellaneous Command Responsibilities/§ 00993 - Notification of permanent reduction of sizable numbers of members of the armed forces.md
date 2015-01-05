@@ -12,7 +12,7 @@ Notice Requirements.—No irrevocable action may be taken to effect or implement
 
 &emsp;&emsp;(A) submits to Congress a notice of the proposed reduction and the number of military and civilian personnel assignments affected, including reductions in base operations support services and personnel to occur because of the proposed reduction; and
 
-&emsp;&emsp;(B) includes in the notice a justification for the reduction and an evaluation of thecosts and benefits of the reduction and of the local economic, strategic, and operational consequences of the reduction; and
+&emsp;&emsp;(B) includes in the notice a justification for the reduction and an evaluation of the costs and benefits of the reduction and of the local economic, strategic, and operational consequences of the reduction; and
 
 &emsp;(2) a period of 90 days expires following the day on which the notice is submitted to Congress.
 

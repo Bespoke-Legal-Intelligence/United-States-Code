@@ -172,7 +172,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 &emsp;&emsp;(C) designating facilities as critical access hospitals; and
 
-&emsp;&emsp;(D) providing support for critical access hospitals for quality improvement, quality reporting, performance improvements, and benchmarking.
+&emsp;&emsp;(D) providing support for critical access hospitals for quality improvement, qualityreporting, performance improvements, and benchmarking.
 
 #### (2) Rural emergency medical services
 
@@ -208,7 +208,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (E) Use of funds
 
-&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staffon computer information systems, to offset costs related to the implementation of prospective payment systems and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
+&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staff on computer information systems, to offset costs related to the implementation of prospective payment systems and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
 
 #### (F) Reports
 
@@ -244,7 +244,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (5) Use of funds for Federal administrative expenses
 
-&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (for each of fiscal years 2005 through 2008) and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009), up to 5 percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
+&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (for each of fiscal years 2005 through 2008) and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009), up to 5percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
 
 #### (6) Providing mental health services and other health services to veterans and other residents of rural areas
 
@@ -328,7 +328,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (3) State authority to waive 35-mile rule
 
-&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection\(c)(2)(B)(i)(II) of this section, as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II) of this section, as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 #### (i) Waiver of conflicting part A provisions
 
@@ -352,7 +352,7 @@ Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernizat
 
 <b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted "and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
 
-Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted ", to offset" for ", and to offset" and inserted "and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
+Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted ", to offset" for ", and to offset" and inserted"and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
 
 Subsec. (j). Pub. L. 111–148, §3129(a), substituted "2010, for" for "2010, and for" and inserted "and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended" before period at end.
 

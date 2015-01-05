@@ -1,6 +1,6 @@
 ### §11710. Report
 
-The President shall, at the time the budget is submitted under section 1105 of title 31, for eachfiscal year transmit to the Congress a report on the progress made in meeting the objectives of this chapter, including a review of programs established or assisted pursuant to this chapter and an assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Native Hawaiians, and ensure a health status for Native Hawaiians, which are at a parity with the health services available to, and the health status of, the general population.
+The President shall, at the time the budget is submitted under section 1105 of title 31, for each fiscal year transmit to the Congress a report on the progress made in meeting the objectives of this chapter, including a review of programs established or assisted pursuant to this chapter and an assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Native Hawaiians, and ensure a health status for Native Hawaiians, which are at a parity with the health services available to, and the health status of, the general population.
 
 (Pub. L. 100–579, §11, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2311, Nov. 18, 1988, 102 Stat. 4229; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 
@@ -10,7 +10,7 @@ The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress
 
 Section was formerly classified to section 11709 of this title prior to the general amendment of this chapter by Pub. L. 102–396.
 
-Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section is based on section 1 of Pub. L. 100–579, as subsequently amended.
+Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section is based on section 11 of Pub. L. 100–579, as subsequently amended.
 
 #### Prior Provisions
 

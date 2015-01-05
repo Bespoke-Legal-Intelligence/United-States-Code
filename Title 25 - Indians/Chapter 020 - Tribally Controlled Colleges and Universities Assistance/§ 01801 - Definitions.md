@@ -10,7 +10,7 @@
 
 &emsp;(4) "tribally controlled college or university" means an institution of higher education which is formally controlled, or has been formally sanctioned, or chartered, by the governing body of an Indian tribe or tribes, except that no more than one such institution shall be recognized with respect to any such tribe;
 
-&emsp;(5) "institution of higher education" means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> ofsuch section shall be deemed to refer to the Secretary of the Interior;
+&emsp;(5) "institution of higher education" means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
 
 &emsp;(6) "national Indian organization" means an organization which the Secretary finds is nationally based, represents a substantial Indian constituency, and has expertise in the fields of tribally controlled colleges and universities and Indian higher education;
 
@@ -24,7 +24,7 @@
 
 &emsp;(9) "satisfactory progress toward a degree or certificate" has the meaning given to such term by the institution at which the student is enrolled.
 
-(b) The following conditions shall apply for the purpose of determining the Indian student count pursuant to subsection (a)(8) of this section:
+(b) The following conditions shall apply for the purpose of determining the Indian studentcount pursuant to subsection (a)(8) of this section:
 
 &emsp;(1) Such number shall be calculated on the basis of the registrations of Indian students as in effect at the conclusion of the third week of each academic term.
 

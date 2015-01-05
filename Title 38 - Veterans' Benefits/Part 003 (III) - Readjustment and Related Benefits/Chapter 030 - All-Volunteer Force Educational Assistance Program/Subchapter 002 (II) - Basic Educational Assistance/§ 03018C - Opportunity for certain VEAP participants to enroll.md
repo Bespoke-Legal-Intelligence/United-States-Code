@@ -18,7 +18,7 @@
 
 &emsp;(1) the basic pay of the individual shall be reduced (in a manner determined by the Secretary of Defense) until the total amount by which such basic pay is reduced is $1,200; or
 
-&emsp;(2) to the extent that basic pay is not so reduced before the individual's discharge or release from active duty as specified in subsection (a)(4), the Secretary shall collect from the individual an amount equal to the difference between $1,200 and the total amount of reductions under paragraph (1), which shall bepaid into the Treasury of the United States as miscellaneous receipts.
+&emsp;(2) to the extent that basic pay is not so reduced before the individual's discharge or release from active duty as specified in subsection (a)(4), the Secretary shall collect from the individual an amount equal to the difference between $1,200 and the total amount of reductions under paragraph (1), which shall be paid into the Treasury of the United States as miscellaneous receipts.
 
 (c)(1) Except as provided in paragraph (3), an individual who is enrolled in the educational benefits program provided by chapter 32 of this title and who makes the election described in subsection (a)(5) shall be disenrolled from such chapter 32 program as of the date of such election.
 

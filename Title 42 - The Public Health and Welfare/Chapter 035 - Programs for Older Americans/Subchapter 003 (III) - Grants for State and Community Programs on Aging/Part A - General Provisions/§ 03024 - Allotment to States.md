@@ -128,7 +128,7 @@ Subsec. (d)(1)(C). Pub. L. 97–115, §4(b), (c)(2), redesignated subpar. (B) as
 
 Amendment by section 304 (excluding pars. (1) and (2) of subsec. (a)) of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
-Amendment by section 304 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+Amendment by section 304 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 

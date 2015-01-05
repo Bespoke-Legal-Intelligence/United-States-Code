@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(VII) Similarity of products or services.
 
-&emsp;(ii) The entity's lack of notice or awareness of a potential or pending claim under this chapter at the time of a merger, acquisition, or other form of succession shall not be considered when applying the multi-factor test under clause (i).
+&emsp;(ii) The entity's lack of notice or awareness of a potential or pending claim under thischapter at the time of a merger, acquisition, or other form of succession shall not be considered when applying the multi-factor test under clause (i).
 
 &emsp;(5) The term "Federal executive agency" includes the United States Postal Service, the Postal Regulatory Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
 
@@ -78,7 +78,7 @@ For the purposes of this chapter—
 
 #### Prior Provisions
 
-A prior section 4303, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1596, §2023; amended Pub. L. 97–295, §4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered §4303 and amended Pub. L. 102–568, title V, §506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-dayperiod beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
+A prior section 4303, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1596, §2023; amended Pub. L. 97–295, §4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered §4303 and amended Pub. L. 102–568, title V, §506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
 
 Another prior section 4303 was renumbered section 7603 of this title.
 

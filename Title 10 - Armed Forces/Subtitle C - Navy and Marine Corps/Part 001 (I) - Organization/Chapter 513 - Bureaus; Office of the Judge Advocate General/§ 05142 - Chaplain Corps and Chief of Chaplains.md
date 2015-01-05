@@ -2,7 +2,7 @@
 
 (a) The Chaplain Corps is a staff corps of the Navy and shall be organized in accordance with regulations prescribed by the Secretary of the Navy.
 
-(b) There is in the executive part of the Department of the Navy the office of the Chief of Chaplains of the Navy. The Chief of Chaplains shall be appointed by the President, by and with the advice and consent of the Senate, from officers of the Chaplain Corps in the grade of commander or above who are serving on active dutyand who have served on active duty in the Chaplain Corps for at least eight years.
+(b) There is in the executive part of the Department of the Navy the office of the Chief of Chaplains of the Navy. The Chief of Chaplains shall be appointed by the President, by and with the advice and consent of the Senate, from officers of the Chaplain Corps in the grade of commander or above who are serving on active duty and who have served on active duty in the Chaplain Corps for at least eight years.
 
 (c) An officer appointed as the Chief of Chaplains shall be appointed for a term of four years. However, the President may terminate or extend the appointment at any time.
 

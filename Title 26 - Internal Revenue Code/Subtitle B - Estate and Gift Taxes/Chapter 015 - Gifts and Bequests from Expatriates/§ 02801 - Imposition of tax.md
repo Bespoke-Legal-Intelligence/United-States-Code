@@ -4,7 +4,7 @@
 
 If, during any calendar year, any United States citizen or resident receives any covered gift or bequest, there is hereby imposed a tax equal to the product of—
 
-&emsp;(1) the highest rate of tax specified in the table contained in section 2001(c) as in effect on the date of such receipt (or, if greater, the highest rate of tax specified in the table applicable under section 2502(a) as in effect on the date), and
+&emsp;(1) the highest rate of tax specified in the table contained in section 2001(c) as in effect on the date of such receipt, and
 
 &emsp;(2) the value of such covered gift or bequest.
 
@@ -70,7 +70,15 @@ The tax imposed by subsection (a) on any covered gift or bequest shall be reduce
 
 For purposes of this section, the term "covered expatriate" has the meaning given to such term by section 877A(g)(1).
 
-(Added Pub. L. 110–245, title III, §301(b)(1), June 17, 2008, 122 Stat. 1644.)
+(Added Pub. L. 110–245, title III, §301(b)(1), June 17, 2008, 122 Stat. 1644; amended Pub. L. 113–295, div. A, title II, §206(b)(1), Dec. 19, 2014, 128 Stat. 4027.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295 struck out "(or, if greater, the highest rate of tax specified in the tableapplicable under section 2502(a) as in effect on the date)" after "such receipt".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, Pub. L. 111–312, to which such amendment relates, see section 206(d) of Pub. L. 113–295, set out as a note under section 32 of this title.
 
 #### Effective Date
 
@@ -82,5 +90,5 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 "(2)
 
-Gifts and bequests.—Chapter 15 of the Internal Revenue Code of 1986 (as added by subsection (b)) shall apply to covered gifts and bequests (as defined in section 2801 of such Code, as so added) received on or after the date of the enactment of this Act from transferors\(or from the estates of transferors) whose expatriation date is on or after such date of enactment."
+Gifts and bequests.—Chapter 15 of the Internal Revenue Code of 1986 (as added by subsection (b)) shall apply to covered gifts and bequests (as defined in section 2801 of such Code, as so added) received on or after the date of the enactment of this Act from transferors (or from the estates of transferors) whose expatriation date is on or after such date of enactment."
 

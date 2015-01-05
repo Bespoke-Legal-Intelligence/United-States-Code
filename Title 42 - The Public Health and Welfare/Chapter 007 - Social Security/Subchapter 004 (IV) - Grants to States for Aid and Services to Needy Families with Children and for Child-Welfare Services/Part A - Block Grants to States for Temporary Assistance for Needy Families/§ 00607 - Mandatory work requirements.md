@@ -69,7 +69,7 @@
 
 &emsp;&emsp;The Secretary shall prescribe regulations for reducing the minimum participation rate otherwise required by this section for a fiscal year by the number of percentage points equal to the number of percentage points (if any) by which—
 
-&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
+&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part orany other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
 
 &emsp;&emsp;&emsp;(ii) the average monthly number of families that received assistance under any State program referred to in clause (i) during fiscal year 2005.
 
@@ -77,7 +77,7 @@
 
 #### (B) Eligibility changes not counted
 
-&emsp;&emsp;The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences ineligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2005. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
+&emsp;&emsp;The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences in eligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2005. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
 
 #### (4) State option to include individuals receiving assistance under a tribal family assistance plan or tribal work program
 
@@ -97,33 +97,12 @@
 
 &nbsp;
 
-<b>The minimum</b>
-
-<b> If the month is</b>
-
-<b>average number of</b>
-
-<b>  in fiscal year:</b>
-
-<b>hours per week is:</b>
-
-&emsp;&emsp;1997
-
-20&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;1998
-
-20&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;1999
-
-25&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2000 or thereafter
-
-30\.&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;If the month is in fiscal year: | <b>The minimum average number of hours per week is:</b> |
+| :--- | ---: |
+| &nbsp;1997 | 20&nbsp;&nbsp; |
+| &nbsp;1998 | 20&nbsp;&nbsp; |
+| &nbsp;1999 | 25&nbsp;&nbsp; |
+| &nbsp;2000 or thereafter | 30\. |
 
 #### (B) 2-parent families
 
@@ -147,7 +126,7 @@
 
 #### (B) Single parent or relative with child under age 6 deemed to be meeting work participation requirements if parent or relative is engaged in work for 20 hours per week
 
-&emsp;&emsp;For purposes of determining monthly participation rates under subsection (b)(1)(B)(i) of this section, a recipient who is the only parent or caretaker relative in the family of a child who has not attained 6 years of age is deemed to be engaged in work for a month if the recipient is engaged in work for an average of at least 20 hours per week during the month.
+&emsp;&emsp;For purposes of determining monthly participation rates under subsection (b)(1)(B)(i) of this section, a recipient who is the only parent or caretaker relative in the family of a child who has not attained 6 years of age is deemed to be engaged in work for a monthif the recipient is engaged in work for an average of at least 20 hours per week during the month.
 
 #### (C) Single teen head of household or married teen who maintains satisfactory school attendance deemed to be meeting work participation requirements
 
@@ -231,7 +210,7 @@ As used in this section, the term "work activities" means—
 
 #### (4) No preemption
 
-&emsp;Nothing in this subsection shall preempt or supersede any provision of State or local law that provides greater protection for employees from displacement.
+&emsp;Nothing in this subsection shall preempt or supersede any provision of State or local lawthat provides greater protection for employees from displacement.
 
 #### (g) Sense of Congress
 
@@ -283,13 +262,13 @@ A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8
 
 <b>2009</b>—Subsec. (b)(3)(A)(i). Pub. L. 111–5, §2101(d)(2), struck out "(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))" before "under the State".
 
-Pub. L. 111–5, §2101(b), inserted "(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))" before "under the State".
+Pub. L. 111–5, §2101(b), inserted "(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fundbase year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))" before "under the State".
 
 <b>2006</b>—Subsecs. (a)(1), (2), (b)(1)(B)(i). Pub. L. 109–171, §7102(b)(1), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 
 Subsec. (b)(3)(A)(i). Pub. L. 109–171, §7102(a)(1)(A), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 
-Subsec. (b)(3)(A)(ii). Pub. L. 109–171, §7102(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "the average monthly number of familiesthat received aid under the State plan approved under part A of this subchapter (as in effect on September 30, 1995) during fiscal year 1995."
+Subsec. (b)(3)(A)(ii). Pub. L. 109–171, §7102(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "the average monthly number of families that received aid under the State plan approved under part A of this subchapter (as in effect on September 30, 1995) during fiscal year 1995."
 
 Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted "and the eligibility criteria in effect during fiscal year 2005" for "and eligibility criteria under the State program operated under the State plan approved under part A of this subchapter (as such plan and such part were in effect on September 30, 1995)".
 

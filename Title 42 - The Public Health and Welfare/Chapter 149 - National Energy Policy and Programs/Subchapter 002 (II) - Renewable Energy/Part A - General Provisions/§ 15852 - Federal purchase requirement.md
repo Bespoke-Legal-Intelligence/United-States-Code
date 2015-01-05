@@ -154,7 +154,7 @@ Sec. 5. <i>Definitions</i>. As used in this memorandum:
 
 (h) "Energy or water metering" means energy or water consumption recording for the purposes of billing by a utility company or energy or water management at an installation, campus, or building level, which conforms with established accuracy standards and uses utility-grade meters.
 
-(i) "Sub-metering" means the application of metering technology to provide for capturing data at thelevel necessary to facilitate energy or water management at different buildings in a multi-building campus, different floors of the same building, different tenants in a multi-tenant office facility, individual building systems (e.g. heating and cooling, lighting, plug loads), electrical circuits, or specific devices.
+(i) "Sub-metering" means the application of metering technology to provide for capturing data at the level necessary to facilitate energy or water management at different buildings in a multi-building campus, different floors of the same building, different tenants in a multi-tenant office facility, individual building systems (e.g. heating and cooling, lighting, plug loads), electrical circuits, or specific devices.
 
 Sec. 6. <i>Limitations</i>. (a) This memorandum shall apply to an agency with respect to the activities, personnel, resources, and facilities of the agency that are located within the United States. The head of an agency may provide that this memorandum shall apply in whole or in part with respect to the activities, personnel, resources, and facilities of the agency that are not located within the United States, if the head of the agency determines that such application is in the interest of the United States.
 

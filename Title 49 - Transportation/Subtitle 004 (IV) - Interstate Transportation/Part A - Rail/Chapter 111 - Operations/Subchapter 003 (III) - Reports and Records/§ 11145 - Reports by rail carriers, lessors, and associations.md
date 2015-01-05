@@ -2,7 +2,7 @@
 
 (a) The Board may require—
 
-&emsp;(1) rail carriers, lessors, and associations, or classes of them as the Board may prescribe, tofile annual, periodic, and special reports with the Board containing answers to questions asked by it; and
+&emsp;(1) rail carriers, lessors, and associations, or classes of them as the Board may prescribe, to file annual, periodic, and special reports with the Board containing answers to questions asked by it; and
 
 &emsp;(2) a person furnishing cars to a rail carrier to file reports with the Board containing answers to questions about those cars.
 
@@ -14,5 +14,5 @@
 
 #### Prior Provisions
 
-A prior section 11145, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1427; Pub. L. 96–296, §5(b), July 1, 1980, 94 Stat. 796, related to reports by carriers, lessors, and associations, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11145, 14123, and 15723 of this title.
+A prior section 11145, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1427; Pub. L. 96–296, §5(b), July 1, 1980, 94 Stat. 796,related to reports by carriers, lessors, and associations, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11145, 14123, and 15723 of this title.
 

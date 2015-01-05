@@ -8,7 +8,7 @@ In order to provide thrift institutions for the deposit of funds and for the ext
 
 &emsp;(2) to issue charters therefor,
 
-> giving primary consideration of the best practices of thrift institutions in the United States.The lending and investment powers conferred by this section are intended to encourage such institutions to provide credit for housing safely and soundly.
+> giving primary consideration of the best practices of thrift institutions in the United States. The lending and investment powers conferred by this section are intended to encourage such institutions to provide credit for housing safely and soundly.
 
 #### (b) Deposits and related powers
 
@@ -40,7 +40,7 @@ In order to provide thrift institutions for the deposit of funds and for the ext
 
 #### (A) In general
 
-&emsp;&emsp;Subject to regulation by the Comptroller of the Currency but without regard to any other provision of this subsection, any Federal savings association that is in compliance with the capital standards in effect under subsection (t) of this section may borrow funds from a State mortgage finance agency of the State in which the head office of such savings association is situated to the same extent as State law authorizes a savings association organized under the laws of such State to borrow from the State mortgage finance agency.
+&emsp;&emsp;Subject to regulation by the Comptroller of the Currency but without regard to any other provision of this subsection, any Federal savings association that is in compliance with the capital standards in effect under subsection (t) may borrow funds from a State mortgage finance agency of the State in which the head office of such savings association is situated to the same extent as State law authorizes a savings association organized under the laws of such State to borrow from the State mortgage finance agency.
 
 #### (B) Interest rate
 
@@ -48,7 +48,7 @@ In order to provide thrift institutions for the deposit of funds and for the ext
 
 #### (4) Mutual capital certificates
 
-&emsp;In accordance with regulations issued by the Comptroller of the Currency, mutual capital certificates may be issued and sold directly to subscribers or through underwriters. Such certificates may be included in calculating capital for the purpose of subsection (t) of this section to the extent permitted by the Comptroller of the Currency. The issuance of certificates under this paragraph does not constitute a change of control or ownership under this chapter or any other law unless there is in fact a change in control or reorganization. Regulations relating to the issuance and sale of mutual capital certificates shall provide that such certificates—
+&emsp;In accordance with regulations issued by the Comptroller of the Currency, mutual capital certificates may be issued and sold directly to subscribers or through underwriters. Such certificates may be included in calculating capital for the purpose of subsection (t) to the extent permitted by the Comptroller of the Currency. The issuance of certificates under this paragraph does not constitute a change of control or ownership under this chapter or any other law unless there is in fact a change in control or reorganization. Regulations relating to the issuance and sale of mutual capital certificates shall provide that such certificates—
 
 &emsp;&emsp;(A) are subordinate to all savings accounts, savings certificates, and debt obligations;
 
@@ -114,7 +114,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;Loans to—
 
-&emsp;&emsp;&emsp;(i) financial institutions with respect to which the United States or an agency or instrumentality thereof has any function of examination or supervision, or
+&emsp;&emsp;&emsp;(i) financial institutions with respect to which the United States or an agency orinstrumentality thereof has any function of examination or supervision, or
 
 &emsp;&emsp;&emsp;(ii) any broker or dealer registered with the Securities and Exchange Commission,
 
@@ -150,7 +150,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;&emsp;(i) is registered with the Securities and Exchange Commission under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], and
 
-&emsp;&emsp;&emsp;(ii) the portfolio of which is restricted by such management company's investmentpolicy (changeable only if authorized by shareholder vote) solely to investments that a Federal savings association by law or regulation may, without limitation as to percentage of assets, invest in, sell, redeem, hold, or otherwise deal in.
+&emsp;&emsp;&emsp;(ii) the portfolio of which is restricted by such management company's investment policy (changeable only if authorized by shareholder vote) solely to investments that a Federal savings association by law or regulation may, without limitation as to percentage of assets, invest in, sell, redeem, hold, or otherwise deal in.
 
 #### (R) Mortgage-backed securities
 
@@ -186,7 +186,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percent of the Federal savings association's capital, as determined under subsection (t) of this section.
+&emsp;&emsp;&emsp;Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percent of the Federal savings association's capital, as determined under subsection (t).
 
 #### (ii) Exception
 
@@ -240,7 +240,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (A) Business development credit corporations
 
-&emsp;&emsp;A Federal savings association that is in compliance with the capital standards prescribed under subsection (t) of this section may invest in, lend to, or to <sup>2</sup> commit itself to lend to, any business development credit corporation incorporated in the State in which the home office of the association is located in the same manner and to the same extent as savings associations chartered by such State are authorized. The aggregate amount of such investments, loans, and commitments of any such Federal savings association shall not exceed one-half of 1 percent of the association's total outstanding loans or $250,000, whichever is less.
+&emsp;&emsp;A Federal savings association that is in compliance with the capital standards prescribed under subsection (t) may invest in, lend to, or to <sup>2</sup> commit itself to lend to, any business development credit corporation incorporated in the State in which the home office of the association is located in the same manner and to the same extent as savings associations chartered by such State are authorized. The aggregate amount of such investments, loans, and commitments of any such Federal savings association shall not exceed one-half of 1 percent of the association's total outstanding loans or $250,000, whichever is less.
 
 #### (B) Service corporations
 
@@ -248,7 +248,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (C) Foreign assistance investments
 
-&emsp;&emsp;Investments in housing project loans having the benefit of any guaranty under section 221 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2181\] or loans having the benefit of any guarantee under section 224 of such Act \[22 U.S.C. 2184\],<sup>1</sup> or any commitment or agreement with respect to such loans made pursuant to either of such sections and in the share capital and capital reserve of the Inter-American Savings and Loan Bank. This authority extends to the acquisition, holding, and disposition of loans guaranteed under section 221 or 222 of such Act \[22 U.S.C. 2181 or 2182\]. Investments under this subparagraph shall not exceed 1 percent of the Federal savings association's assets.
+&emsp;&emsp;Investments in housing project loans having the benefit of any guaranty under section 221 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2181\] or loans having the benefit of any guarantee under section 224 of such Act \[22 U.S.C. 2184\],<sup>1</sup> or any commitment or agreement with respect to such loans made pursuant to either of such sections and in the share capital and capital reserve of the Inter-American Savings and Loan Bank. This authority extends to the acquisition, holding, and disposition of loans guaranteed under section 221 or 222 of such Act \[22 U.S.C. 2181 or 2182\]. Investments under thissubparagraph shall not exceed 1 percent of the Federal savings association's assets.
 
 #### (D) Small business investment companies
 
@@ -278,7 +278,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (A) Residential property
 
-&emsp;&emsp;The terms "residential real property" or "residential real estate" mean leaseholds, homes (including condominiums and cooperatives, except that in connection with loans on individual cooperative units, such loans shall be adequately secured as defined by the Comptroller) and, combinations of homes or dwelling units and business property, involving only minor or incidentalbusiness use, or property to be improved by construction of such structures.
+&emsp;&emsp;The terms "residential real property" or "residential real estate" mean leaseholds, homes (including condominiums and cooperatives, except that in connection with loans on individual cooperative units, such loans shall be adequately secured as defined by the Comptroller) and, combinations of homes or dwelling units and business property, involving only minor or incidental business use, or property to be improved by construction of such structures.
 
 #### (B) Loans
 
@@ -298,7 +298,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;(ii) In the course of any examination of any savings association, upon request by the appropriate Federal banking agency, prompt and complete access shall be given to all savings association officers, directors, employees, and agents, and to all relevant books, records, or documents of any type.
 
-&emsp;&emsp;(iii) Upon request made in the course of supervision or oversight of any savings association, for the purpose of acting on any application or determining the condition of any savings association, including whether operations are being conducted safely, soundly, or in compliance with charters, laws, regulations, directives, written agreements, or conditions imposed in writing in connection with the granting of an application or other request, the appropriate Federal banking agency shall be given prompt and complete access to all savings association officers, directors, employees, and agents, and to all relevant books, records, or documents of any type.
+&emsp;&emsp;(iii) Upon request made in the course of supervision or oversight of any savings association, for the purpose of acting on any application or determining the condition ofany savings association, including whether operations are being conducted safely, soundly, or in compliance with charters, laws, regulations, directives, written agreements, or conditions imposed in writing in connection with the granting of an application or other request, the appropriate Federal banking agency shall be given prompt and complete access to all savings association officers, directors, employees, and agents, and to all relevant books, records, or documents of any type.
 
 &emsp;&emsp;(iv) If prompt and complete access upon request is not given as required in this subsection, the appropriate Federal banking agency may apply to the United States district court for the judicial district (or the United States court in any territory) in which the principal office of the institution is located, or in which the person denying such access resides or carries on business, for an order requiring that such information be promptly provided.
 
@@ -312,7 +312,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;(vi) In any proceeding under this section, the appropriate Federal banking agency may administer oaths and affirmations, take depositions, and issue subpenas. The Comptroller may prescribe regulations with respect to any such proceedings. The attendance of witnesses and the production of documents provided for in this subsection may be required from any place in any State or in any territory at any designated place where such proceeding is being conducted.
 
-&emsp;&emsp;(vii) Any party to a proceeding under this section may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district (or the United States court in any territory) in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpoena issued pursuant to this subsection or section 10(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1820(c)\], and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. All expenses ofthe appropriate Federal banking agency in connection with this section shall be considered as nonadministrative expenses. Any court having jurisdiction of any proceeding instituted under this section by a savings association, or a director or officer thereof, may allow to any such party reasonable expenses and attorneys' fees. Such expenses and fees shall be paid by the savings association.
+&emsp;&emsp;(vii) Any party to a proceeding under this section may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district (or the United States court in any territory) in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpoena issued pursuant to this subsection or section 10(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1820(c)\], and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. All expenses of the appropriate Federal banking agency in connection with this section shall be considered as nonadministrative expenses. Any court having jurisdiction of any proceeding instituted under this section by a savings association, or a director or officer thereof, may allow to any such party reasonable expenses and attorneys' fees. Such expenses and fees shall be paid by the savings association.
 
 #### (2) Conservatorships and receiverships
 
@@ -330,7 +330,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (D) Court action
 
-&emsp;&emsp;Except as otherwise provided in this subsection, no court may take any action for or toward the removal of any conservator or receiver or, except at the request of the appropriate Federal banking agency, to restrain or affect the exercise of powers or functions of a conservator or receiver.
+&emsp;&emsp;Except as otherwise provided in this subsection, no court may take any action for ortoward the removal of any conservator or receiver or, except at the request of the appropriate Federal banking agency, to restrain or affect the exercise of powers or functions of a conservator or receiver.
 
 #### (E) Powers
 
@@ -350,7 +350,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (A) In general
 
-&emsp;&emsp;The Comptroller may prescribe regulations for the reorganization, consolidation, liquidation, and dissolution of savings associations, for the merger of insured savings associations with insured savings associations, for savings associations in conservatorship and receivership, and for the conduct of conservatorships and receiverships. The Comptroller may, by regulationor otherwise, provide for the exercise of functions by members, stockholders, directors, or officers of a savings association during conservatorship and receivership.
+&emsp;&emsp;The Comptroller may prescribe regulations for the reorganization, consolidation, liquidation, and dissolution of savings associations, for the merger of insured savings associations with insured savings associations, for savings associations in conservatorship and receivership, and for the conduct of conservatorships and receiverships. The Comptroller may, by regulation or otherwise, provide for the exercise of functions by members, stockholders, directors, or officers of a savings association during conservatorship and receivership.
 
 #### (B) FDIC as conservator or receiver
 
@@ -388,7 +388,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 &emsp;&emsp;&emsp;(ii) has failed to correct any problem with the procedures maintained by such association which was previously reported to the association by the appropriate Federal banking agency,
 
-> &emsp;&emsp;the appropriate Federal banking agency shall issue an order under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] requiring such association to cease and desist from its violation of this paragraph or regulations prescribed under this paragraph.
+> &emsp;&emsp;the appropriate Federal banking agency shall issue an order under section 8 of theFederal Deposit Insurance Act \[12 U.S.C. 1818\] requiring such association to cease and desist from its violation of this paragraph or regulations prescribed under this paragraph.
 
 #### (7) Regulation and examination of savings association service companies, subsidiaries, and service providers
 
@@ -418,7 +418,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (E) Administration by the Comptroller and the Corporation
 
-&emsp;&emsp;The Comptroller may issue such regulations, and the appropriate Federal bankingagency may issue such orders, including those issued pursuant to section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], as may be necessary to administer and carry out this paragraph and to prevent evasion of this paragraph.
+&emsp;&emsp;The Comptroller may issue such regulations, and the appropriate Federal banking agency may issue such orders, including those issued pursuant to section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], as may be necessary to administer and carry out this paragraph and to prevent evasion of this paragraph.
 
 #### (8) Definitions
 
@@ -548,7 +548,7 @@ No State, county, municipal, or local taxing authority may impose any tax on Fed
 
 #### (k) Depository of public money
 
-When designated for that purpose by the Secretary of the Treasury, a savings association the deposits of which are insured by the Corporation shall be a depository of public money and may be employed as fiscal agent of the Governmentunder such regulations as may be prescribed by the Secretary and shall perform all such reasonable duties as fiscal agent of the Government as may be required of it. A savings association the deposits of which are insured by the Corporation may act as agent for any other instrumentality of the United States when designated for that purpose by such instrumentality, including services in connection with the collection of taxes and other obligations owed the United States, and the Secretary of the Treasury may deposit public money in any such savings association, and shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
+When designated for that purpose by the Secretary of the Treasury, a savings association the deposits of which are insured by the Corporation shall be a depository of public money and may be employed as fiscal agent of the Government under such regulations as may be prescribed by the Secretary and shall perform all such reasonable duties as fiscal agent of the Government as may be required of it. A savings association the deposits of which are insured by the Corporation may act as agent for any other instrumentality of the United States when designated for that purpose by such instrumentality, including services in connection with the collection of taxes and other obligations owed the United States, and the Secretary of the Treasury may deposit public money in any such savings association, and shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
 
 #### (l) Retirement accounts
 
@@ -624,7 +624,7 @@ A Federal savings association is authorized to act as trustee of any trust creat
 
 &emsp;(A) In addition to the authority conferred by other law, if, in the opinion of the Comptroller, a Federal savings association is unlawfully or unsoundly exercising, or has unlawfully or unsoundly exercised, or has failed for a period of 5 consecutive years to exercise, the powers granted by this subsection or otherwise fails or has failed to comply with the requirements of this subsection, the Comptroller may issue and serve upon the association a notice of intent to revoke the authority of the association to exercise the powers granted by this subsection. The notice shall contain a statement of the facts constituting the alleged unlawful or unsound exercise of powers, or failure to exercise powers, or failure to comply, and shall fix a time and place at which a hearing will be held to determine whether an order revoking authority to exercise such powers should issue against the association.
 
-&emsp;(B) Such hearing shall be conducted in accordance with the provisions of subsection (d)(1)(B) of this section, and subject to judicial review as therein provided, and shall be fixed for a date not earlier than 30 days and not later than 60 days after service of such notice unless the Comptroller sets an earlier or later date at the request of any Federal savings association so served.
+&emsp;(B) Such hearing shall be conducted in accordance with the provisions of subsection (d)(1)(B), and subject to judicial review as therein provided, and shall be fixed for a date not earlier than 30 days and not later than 60 days after service of such notice unless the Comptroller sets an earlier or later date at the request of any Federal savings association so served.
 
 &emsp;(C) Unless the Federal savings association so served shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the issuance of the revocation order. In the event of such consent, or if upon the record made at any such hearing, the Comptroller shall find that any allegation specified in the notice of charges has been established, the Comptroller may issue and serve upon the association an order prohibiting it from accepting any new or additional trust accounts and revoking authority to exercise any and all powers granted by this subsection, except that such order shall permit the association to continue to service all previously accepted trust accounts pending their expeditious divestiture or termination.
 
@@ -636,7 +636,7 @@ A Federal savings association is authorized to act as trustee of any trust creat
 
 (2)(A) Any Federal savings bank chartered pursuant to this subsection shall continue to be insured by the Deposit Insurance Fund.
 
-(B) The Comptroller shall notify the Corporation of any application under this chapter forconversion to a Federal charter by an institution insured by the Corporation, shall consult with the Corporation before disposing of the application, and shall notify the Corporation of the determination of the Comptroller with respect to such application.
+(B) The Comptroller shall notify the Corporation of any application under this chapter for conversion to a Federal charter by an institution insured by the Corporation, shall consult with the Corporation before disposing of the application, and shall notify the Corporation of the determination of the Comptroller with respect to such application.
 
 (C) Notwithstanding any other provision of law, if the Corporation determines that conversion into a Federal stock savings bank or the chartering of a Federal stock savings bank is necessary to prevent the default of a savings bank it insures or to reopen a savings bank in default that it insured, or if the Corporation determines, with the concurrence of the Comptroller, that severe financial conditions exist that threaten the stability of a savings bank insured by the Corporation and that such a conversion or charter is likely to improve the financial condition of such savings bank, the Corporation shall provide the Comptroller with a certificate of such determination, the reasons therefor in conformance with the requirements of this chapter, and the bank shall be converted or chartered by the Comptroller, pursuant to the regulations thereof, from the time the Corporation issues the certificate.
 
@@ -718,11 +718,11 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (2) Minimum capital levels may be determined by Comptroller of the Currency case-by-case
 
-&emsp;The Comptroller of the Currency may, consistent with subsection (t) of this section, establish the minimum level of capital for a savings association at such amount or at such ratio of capital-to-assets as the Comptroller of the Currency determines to be necessary or appropriate for such association in light of the particular circumstances of the association.
+&emsp;The Comptroller of the Currency may, consistent with subsection (t), establish the minimum level of capital for a savings association at such amount or at such ratio of capital-to-assets as the Comptroller of the Currency determines to be necessary or appropriate for such association in light of the particular circumstances of the association.
 
 #### (3) Unsafe or unsound practice
 
-&emsp;In the discretion of the appropriate Federal banking agency, the appropriate Federal banking agency,<sup>6</sup> may treat the failure of any savings association to maintain capital at or above the minimum level required by the Comptroller under this subsection or subsection (t) of this section as an unsafe or unsound practice.
+&emsp;In the discretion of the appropriate Federal banking agency, the appropriate Federal banking agency,<sup>6</sup> may treat the failure of any savings association to maintain capital at or above the minimum level required by the Comptroller under this subsection or subsection (t) as an unsafe or unsound practice.
 
 #### (4) Directive to increase capital
 
@@ -776,7 +776,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (C) Risk-based capital requirement
 
-&emsp;&emsp;Notwithstanding paragraph (1)(C), the risk-based capital requirement prescribed under paragraph (1) may deviate from the risk-based capital standards applicable to national banks to reflect interest-rate risk or other risks, but such deviations shall not, in the aggregate, result in materially lower levels of capital being required of savings associations under the risk-based capital requirement than would be required under the risk-based capital standards applicable to national banks.
+&emsp;&emsp;Notwithstanding paragraph (1)(C), the risk-based capital requirement prescribed under paragraph (1) may deviate from the risk-based capital standards applicable to national banks to reflect interest-rate risk or other risks, but such deviations shall not, in the aggregate, result in materially lowerlevels of capital being required of savings associations under the risk-based capital requirement than would be required under the risk-based capital standards applicable to national banks.
 
 #### (3) \[Repealed\].
 
@@ -820,7 +820,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (E) Consolidation of subsidiaries not separately capitalized
 
-&emsp;&emsp;In determining compliance with capital standards prescribed under paragraph (1),the assets and liabilities of each of a savings association's subsidiaries (other than any subsidiary described in subparagraph (C)(ii)) shall be consolidated with the savings association's assets and liabilities, unless all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital pursuant to subparagraph (A).
+&emsp;&emsp;In determining compliance with capital standards prescribed under paragraph (1), the assets and liabilities of each of a savings association's subsidiaries (other than any subsidiary described in subparagraph (C)(ii)) shall be consolidated with the savings association's assets and liabilities, unless all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital pursuant to subparagraph (A).
 
 #### (6) Consequences of failing to comply with capital standards
 
@@ -936,7 +936,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (A) In general
 
-&emsp;&emsp;The standards prescribed under paragraph (1) shall include all relevant substantive definitions established by the Comptroller of the Currency for national banks.
+&emsp;&emsp;The standards prescribed under paragraph (1) shall include all relevant substantivedefinitions established by the Comptroller of the Currency for national banks.
 
 #### (B) Special rule
 
@@ -956,7 +956,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 &emsp;&emsp;(ii) To develop domestic residential housing units, not to exceed the lesser of $30,000,000 or 30 percent of the savings association's unimpaired capital and unimpaired surplus, if—
 
-&emsp;&emsp;&emsp;(I) the savings association is and continues to be in compliance with the fully phased-in capital standards prescribed under subsection (t) of this section;
+&emsp;&emsp;&emsp;(I) the savings association is and continues to be in compliance with the fully phased-in capital standards prescribed under subsection (t);
 
 &emsp;&emsp;&emsp;(II) the appropriate Federal banking agency, by order, permits the savings association to avail itself of the higher limit provided by this clause;
 
@@ -1052,7 +1052,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (I) Duty to notify
 
-&emsp;&emsp;&emsp;If a Federal savings association has been convicted of any criminal offense under section 1956 or 1957 of title 18, the AttorneyGeneral shall provide to the Comptroller a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
+&emsp;&emsp;&emsp;If a Federal savings association has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Comptroller a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
 
 #### (II) Notice of termination; pretermination hearing
 
@@ -1064,7 +1064,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 #### (C) Judicial review
 
-&emsp;&emsp;Subsection (d)(1)(B)(vii) of this section shall apply to any proceeding under this subsection.
+&emsp;&emsp;Subsection (d)(1)(B)(vii) shall apply to any proceeding under this subsection.
 
 #### (2) Factors to be considered
 
@@ -1092,7 +1092,7 @@ Exceptions.—The Board may, by regulation or order, permit such exceptions to t
 
 In determining whether a Federal court has diversity jurisdiction over a case in which a Federal savings association is a party, the Federal savings association shall be considered to be a citizen only of the State in which such savings association has its home office.
 
-(June 13, 1933, ch. 64, §5, 48 Stat. 132; Apr. 27, 1934, ch. 168, §§5, 6, 48 Stat. 645, 646; May 28, 1935, ch. 150, §18, 49 Stat. 297; Aug. 10, 1939, ch. 666, title IX, §909, 53 Stat. 1402; Aug. 6, 1947, ch. 503, 61 Stat. 786; July 3, 1948, ch. 825, §1, 62 Stat. 1239; Oct. 20, 1951, ch. 521, title III, §313(d), 65 Stat. 490; July 14, 1952, ch. 723, §12, 66 Stat. 604; Aug. 2, 1954, ch. 649, title II, §204(b), title V, §503, 68 Stat. 622, 634; Aug. 11, 1955, ch. 783, title I, §110, 69 Stat. 641; Aug. 7, 1956, ch. 1029, title VI, §604, 70 Stat. 1114; Pub. L. 85–857, §13(f), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 86–372, title VIII, §805, Sept. 23, 1959, 73 Stat. 687; Pub. L. 86–507, §1(11), June 11, 1960, 74 Stat. 200; Pub. L. 87–70, title IX, §901, June 30, 1961, 75 Stat. 189; Pub. L. 87–779, §1, Oct. 9, 1962, 76 Stat. 778; Pub. L. 87–834, §6(e)(1), Oct. 16, 1962, 76 Stat. 984; Pub. L. 88–560, title IX, §§901(a), 902–905, 907, 908, 910, Sept. 2, 1964, 78 Stat. 804–806; Pub. L. 89–117, title II, §201(b)(3), title XI, §1110(a)–(c), Aug. 10, 1965, 79 Stat. 465, 507; Pub. L. 89–695, title I, §101(a), Oct. 16, 1966, 80 Stat. 1028; Pub. L. 90–448, title III, §304(b), title IV, §416(c), title VIII, §§804(e), 807(m), title XVII, §1716, Aug. 1, 1968, 82 Stat. 508, 518, 543, 545, 608; Pub. L. 90–505, §5, Sept. 21, 1968, 82 Stat. 858; Pub. L. 90–575, title I, §118(b), Oct. 16, 1968, 82 Stat. 1026; Pub. L. 91–152, title IV, §416(b), Dec. 24, 1969, 83 Stat. 401; Pub. L. 91–351, title VII, §§706, 708, 709, July 24, 1970, 84 Stat. 462, 463; Pub. L. 91–609, title VII, §727(d), title IX, §907(b), (c), Dec. 31, 1970, 84 Stat. 1803, 1811; Pub. L. 92–318, title I, §133(c)(3), June 23, 1972, 86 Stat. 270; Pub. L. 93–100, §5(b), Aug. 16, 1973, 87 Stat. 343; Pub. L. 93–383, title VII, §§702–706, title VIII, §§802(i)(2), 805(c)(4), Aug. 22, 1974, 88 Stat. 715, 716, 725, 727; Pub. L. 93–449, §4(d), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 93–495, title I, §101(e), Oct. 28, 1974, 88 Stat. 1502; Pub. L. 94–60, July 25, 1975, 89 Stat. 301; Pub. L. 94–375, §22, Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–128, title IV, §§401–405, Oct. 12, 1977, 91 Stat. 1136, 1137; Pub. L. 95–147, §2(a), Oct. 28, 1977, 91 Stat. 1227; Pub. L. 95–630, title I, §§107(a)(3), (c)(3), (d)(3), (e)(3), 111(c), title II, §208(b), title XII, §§1202, 1204, title XVII, §1701, Nov. 10, 1978, 92 Stat. 3651, 3655, 3659, 3662, 3668, 3675, 3710, 3711, 3714; Pub. L. 96–153, title III, §§325, 326, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–161, title I, §102, Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§304, 307, title IV, §§401–404, 407(a), 408, Mar. 31, 1980, 94 Stat. 146, 147, 151, 155, 156, 158–160; Pub. L. 97–320, title I, §§112, 114(b), (c), 121, 141(a)(2), (5), title II, §202(b), title III, §§311–313, 321–325, 328–331, 334, 351, title IV, §§424(a), (d)(8), (e), 427(a), Oct. 15, 1982, 96 Stat. 1471, 1475, 1479, 1489, 1492, 1496, 1497, 1499–1504, 1507, 1522–1524;Pub. L. 97–457, §§2, 12, 14(a)(1), (b), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–440, title I, §105(a), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–620, title IV, §402(9), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1359(b), Oct. 27, 1986, 100 Stat. 3207–27; Pub. L. 100–86, title IV, §§406(a), 413(a), title V, §509(a), Aug. 10, 1987, 101 Stat. 614, 621, 635; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282; Pub. L. 102–242, title I, §§131(d), 133(d), title IV, §441, title V, §501(c), Dec. 19, 1991, 105 Stat. 2267, 2271, 2381, 2391; Pub. L. 102–310, July 1, 1992, 106 Stat. 276; Pub. L. 102–550, title IX, §953, title XV, §1502(b), title XVI, §§1603(d)(8), 1606(f)(1)–(3), Oct. 28, 1992, 106 Stat. 3893, 4046, 4080, 4088; Pub. L. 103–325, title II, §206(a), title III, §322(b), title IV, §411(c)(2)(D), Sept. 23, 1994, 108 Stat. 2199, 2227, 2253; Pub. L. 104–208, div. A, title II, §§2216(b), 2303(a)–(d), (f), 2704(d)(12)(A), Sept. 30, 1996, 110 Stat. 3009–413, 3009–424, 3009–490; Pub. L. 105–164, §3(a)(1), Mar. 20, 1998, 112 Stat. 33; Pub. L. 106–102, title VI, §603, title VII, §739, Nov. 12, 1999, 113 Stat. 1450, 1480; Pub. L. 106–554, §1(a)(8) \[§1(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–665; Pub. L. 106–569, title XII, §1201(b)(1), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(1), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 109–351, title IV, §§402–404, title VI, §608(a), Oct. 13, 2006, 120 Stat. 1974, 1983; Pub. L. 111–203, title III, §369(5), title VI, §§610(b), 612(c), 627(a)(2), July 21, 2010, 124 Stat. 1559, 1612, 1613, 1640.)
+(June 13, 1933, ch. 64, §5, 48 Stat. 132; Apr. 27, 1934, ch. 168, §§5, 6, 48 Stat. 645, 646; May 28, 1935, ch. 150, §18, 49 Stat. 297; Aug. 10, 1939, ch. 666, title IX, §909, 53 Stat. 1402; Aug. 6, 1947, ch. 503, 61 Stat. 786; July 3, 1948, ch. 825, §1, 62 Stat. 1239; Oct. 20, 1951, ch. 521, title III, §313(d), 65 Stat. 490; July 14, 1952, ch. 723, §12, 66 Stat. 604; Aug. 2, 1954, ch. 649, title II, §204(b), title V, §503, 68 Stat. 622, 634; Aug. 11, 1955, ch. 783, title I, §110, 69 Stat. 641; Aug. 7, 1956, ch. 1029, title VI, §604, 70 Stat. 1114; Pub. L. 85–857, §13(f), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 86–372, title VIII, §805, Sept. 23, 1959, 73 Stat. 687; Pub. L. 86–507, §1(11), June 11, 1960, 74 Stat. 200; Pub. L. 87–70, title IX, §901, June 30, 1961, 75 Stat. 189; Pub. L. 87–779, §1, Oct. 9, 1962, 76 Stat. 778; Pub. L. 87–834, §6(e)(1), Oct. 16, 1962, 76 Stat. 984; Pub. L. 88–560, title IX, §§901(a), 902–905, 907, 908, 910, Sept. 2, 1964, 78 Stat. 804–806; Pub. L. 89–117, title II, §201(b)(3), title XI, §1110(a)–(c), Aug. 10, 1965, 79 Stat. 465, 507; Pub. L. 89–695, title I, §101(a), Oct. 16, 1966, 80 Stat. 1028; Pub. L. 90–448, title III, §304(b), title IV, §416(c), title VIII, §§804(e), 807(m), title XVII, §1716, Aug. 1, 1968, 82 Stat. 508, 518, 543, 545, 608; Pub. L. 90–505, §5, Sept. 21, 1968, 82 Stat. 858; Pub. L. 90–575, title I, §118(b), Oct. 16, 1968, 82 Stat. 1026; Pub. L. 91–152, title IV, §416(b), Dec. 24, 1969, 83 Stat. 401; Pub. L. 91–351, title VII, §§706, 708, 709, July 24, 1970, 84 Stat. 462, 463; Pub. L. 91–609, title VII, §727(d), title IX, §907(b), (c), Dec. 31, 1970, 84 Stat. 1803, 1811; Pub. L. 92–318, title I, §133(c)(3), June 23, 1972, 86 Stat. 270; Pub. L. 93–100, §5(b), Aug. 16, 1973, 87 Stat. 343; Pub. L. 93–383, title VII, §§702–706, title VIII, §§802(i)(2), 805(c)(4), Aug. 22, 1974, 88 Stat. 715, 716, 725, 727; Pub. L. 93–449, §4(d), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 93–495, title I, §101(e), Oct. 28, 1974, 88 Stat. 1502; Pub. L. 94–60, July 25, 1975, 89 Stat. 301; Pub. L. 94–375, §22, Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–128, title IV, §§401–405, Oct. 12, 1977, 91 Stat. 1136, 1137; Pub. L. 95–147, §2(a), Oct. 28, 1977, 91 Stat. 1227; Pub. L. 95–630, title I, §§107(a)(3), (c)(3), (d)(3), (e)(3), 111(c), title II, §208(b), title XII, §§1202, 1204, title XVII, §1701, Nov. 10, 1978, 92 Stat. 3651, 3655, 3659, 3662, 3668, 3675, 3710, 3711, 3714; Pub. L. 96–153, title III, §§325, 326, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–161, title I, §102, Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§304, 307, title IV, §§401–404, 407(a), 408, Mar. 31, 1980, 94 Stat. 146, 147, 151, 155, 156, 158–160; Pub. L. 97–320, title I, §§112, 114(b), (c), 121, 141(a)(2), (5), title II, §202(b), title III, §§311–313, 321–325, 328–331, 334, 351, title IV, §§424(a), (d)(8), (e), 427(a), Oct. 15, 1982, 96 Stat. 1471, 1475, 1479, 1489, 1492, 1496, 1497, 1499–1504, 1507, 1522–1524; Pub. L. 97–457, §§2, 12, 14(a)(1), (b), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–440, title I, §105(a), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–620, title IV, §402(9), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1359(b), Oct. 27, 1986, 100 Stat. 3207–27; Pub. L. 100–86, title IV, §§406(a), 413(a), title V, §509(a), Aug. 10, 1987, 101 Stat. 614, 621, 635; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282; Pub. L. 102–242, title I, §§131(d), 133(d), title IV, §441, title V, §501(c), Dec. 19, 1991, 105 Stat. 2267, 2271, 2381, 2391; Pub. L. 102–310, July 1, 1992, 106 Stat. 276; Pub. L. 102–550, title IX, §953, title XV, §1502(b), title XVI, §§1603(d)(8), 1606(f)(1)–(3), Oct. 28, 1992, 106 Stat. 3893, 4046, 4080, 4088; Pub. L. 103–325, title II, §206(a), title III, §322(b), title IV, §411(c)(2)(D), Sept. 23, 1994, 108 Stat. 2199, 2227, 2253; Pub. L. 104–208, div. A, title II, §§2216(b), 2303(a)–(d), (f), 2704(d)(12)(A), Sept. 30, 1996, 110 Stat. 3009–413, 3009–424, 3009–490; Pub. L. 105–164, §3(a)(1), Mar. 20, 1998, 112 Stat. 33; Pub. L. 106–102, title VI, §603, title VII, §739, Nov. 12, 1999, 113 Stat. 1450, 1480; Pub. L. 106–554, §1(a)(8) \[§1(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–665; Pub. L. 106–569, title XII, §1201(b)(1), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(1), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 109–351, title IV, §§402–404, title VI, §608(a), Oct. 13, 2006, 120 Stat. 1974, 1983; Pub. L. 111–203, title III, §369(5), title VI, §§610(b), 612(c), 627(a)(2), July 21, 2010, 124 Stat. 1559, 1612, 1613, 1640.)
 
 #### References in Text
 
@@ -1138,7 +1138,7 @@ Subsec. (c)(1), (2). Pub. L. 111–203, §369(5)(P), substituted "Comptroller" f
 
 Subsec. (c)(5)(A). Pub. L. 111–203, §369(5)(C)(i)(I), substituted "appropriate Federal banking agency" for "Director".
 
-Subsec. (c)(5)(B). Pub. L. 111–203, §369(5)(C)(i)(II), substituted "The appropriate Federal banking agency" for"The Director" and "the appropriate Federal banking agency" for "the Director".
+Subsec. (c)(5)(B). Pub. L. 111–203, §369(5)(C)(i)(II), substituted "The appropriate Federal banking agency" for "The Director" and "the appropriate Federal banking agency" for "the Director".
 
 Subsec. (c)(6)(A). Pub. L. 111–203, §369(5)(P), substituted "Comptroller" for "Director".
 
@@ -1384,7 +1384,7 @@ Subsec. (t)(5)(D)(iii) to (ix). Pub. L. 102–550, §953, added cls. (iii) to (v
 
 Subsec. (w). Pub. L. 102–550, §1502(b), added subsec. (w).
 
-<b>1991</b>—Subsec. (c)(2)(B). Pub. L. 102–242, §441(b), which directed amendment of subpar. (B) by inserting before period at end the following: ", provided however, that no amount in excess of 30 percent of the assets may be invested in loans made directly by the association to the original obligor, and the association does not pay finder, referral, or other fees, directly or indirectly, to a third party.", could not be executed because subpar. (B) did not contain a period at end thereof. The newlanguage probably was intended to be inserted before period at end of subpar. (D).
+<b>1991</b>—Subsec. (c)(2)(B). Pub. L. 102–242, §441(b), which directed amendment of subpar. (B) by inserting before period at end the following: ", provided however, that no amount in excess of 30 percent of the assets may be invested in loans made directly by the association to the original obligor, and the association does not pay finder, referral, or other fees, directly or indirectly, to a third party.", could not be executed because subpar. (B) did not contain a period at end thereof. The new language probably was intended to be inserted before period at end of subpar. (D).
 
 Subsec. (c)(2)(D). Pub. L. 102–242, §441(a), substituted "35 percent" for "30 percent".
 
@@ -1442,7 +1442,7 @@ Subsec. (b)(5)(C). Pub. L. 97–320, §202(b)(2), added subpar. (C) which consis
 
 Subsec. (c)(1)(A). Pub. L. 97–320, §321, substituted "transaction accounts" for "negotiable order-of-withdrawal accounts".
 
-Subsec. (c)(1)(B). Pub. L. 97–320, §322, substituted "Loans on the security of liens upon residential or nonresidential real property, except that the loans and investments of an association on nonresidential real property may not exceed 40 per centum of its assets" for "Loans on the security of liens upon residential real property in an amount which, when added to the amount unpaid upon prior mortgages, liens or encumbrances, if any, upon such real estate does not exceed the appraised value thereof, except that the amount of any such loan hereafter made shall not exceed 662/3 per centum of the appraised value if such real estate is unimproved, 75 per centum of the appraised value if such real estate is improved by offsite improvements such as street, water, sewers, or other utilities, 75 per centum of the appraised value if such real estate is in the process of being improved by a building or buildings to be constructed or in the process of construction, or 90 per centum of the appraised value if such real estate is improved by a building or buildings. Notwithstanding the above loan-to-value ratios, the Board may permit a loan-to-value ratio in excess of 90 per centum if such real estate is improved by a building or buildings and that portion of the unpaid balance of such loan which is in excess of an amount equal to 90 per centum ofsuch value is guaranteed or insured by a public or private mortgage insurer or in the case of any loan for the purpose of providing housing for persons of low income, as described in regulations of the Board.
+Subsec. (c)(1)(B). Pub. L. 97–320, §322, substituted "Loans on the security of liens upon residential or nonresidential real property, except that the loans and investments of an association on nonresidential real property may not exceed 40 per centum of its assets" for "Loans on the security of liens upon residential real property in an amount which, when added to the amount unpaid upon prior mortgages, liens or encumbrances, if any, upon such real estate does not exceed the appraised value thereof, except that the amount of any such loan hereafter made shall not exceed 662/3 per centum of the appraised value if such real estate is unimproved, 75 per centum of the appraised value if such real estate is improved by offsite improvements such as street, water, sewers, or other utilities, 75 per centum of the appraised value if such real estate is in the process of being improved by a building or buildings to be constructed or in the process of construction, or 90 per centum of the appraised value if such real estate is improved by a building or buildings. Notwithstanding the above loan-to-value ratios, the Board may permit a loan-to-value ratio in excess of 90 per centum if such real estate is improved by a building or buildings and that portion of the unpaid balance of such loan which is in excess of an amount equal to 90 per centum of such value is guaranteed or insured by a public or private mortgage insurer or in the case of any loan for the purpose of providing housing for persons of low income, as described in regulations of the Board.
 
 Subsec. (c)(1)(G). Pub. L. 97–320, §323, inserted ", or in the savings accounts, certificates, or other accounts of any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation" after "Federal Deposit Insurance Corporation".
 
@@ -1582,7 +1582,7 @@ Pub. L. 93–383, §802(i)(2), in twelfth par. inserted reference to section 802
 
 Pub. L. 93–449 in seventeenth par. inserted reference to section 408(a) of title 26. As enacted section 4(d) of Pub. L. 93–449 amended nineteenth par.; however the amendment was executed to seventeenth par. editorially since this would appear to be the probable intent of Congress.
 
-Pub. L. 93–383, §702, added par. authorizing associations to invest an amount not exceeding the greater of\(A) the sum of its surplus, undivided profits, and reserves or (B) 3 per centum of its assets, in loans or in interests therein.
+Pub. L. 93–383, §702, added par. authorizing associations to invest an amount not exceeding the greater of (A) the sum of its surplus, undivided profits, and reserves or (B) 3 per centum of its assets, in loans or in interests therein.
 
 Pub. L. 93–383, §704, added par. authorizing associations to invest in loans and advances of credit and interests therein upon the security of or respecting real property or interests therein.
 
@@ -1628,7 +1628,7 @@ Pub. L. 90–448, §1716(f), inserted par. permitting an association to invest i
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–695 amended provisions generally, substituting pars. (1) to (14) for former pars. (1) (consisting of thirteen sentences) and (2) (consisting of eleven sentences), such pars. (2) to (5), (7) to (10), (12)(A)(B), (13), and (14) being new provisions.
 
-<b>1965</b>—Subsec. (c). Pub. L. 89–117 added par. which permitted an association to invest in loans (1) secured by mortgages as to which the association has the benefit of insurance under title X of the National Housing Act or of a commitment or agreement for such insurance, or (2) guaranteed by the President under section 2184 of title 22, and prohibited investments under cl. (2) to exceed 1 per centum of the assets of such association, provided that, for purposes of this subsection, "other dwelling units" would include living accommodations for students, employees, or staff members of a college, or university, or hospital, reduced from 15 to 10 years the time by which a lease period must extend beyond the maturity date of the debt in order that a leaseholdinterest qualify as "real property" or "real estate" within this section, and added par. which prohibited any District of Columbia building and loan associations from establishing a branch or moving its principal office without the prior written approval of the Federal Home Loan Bank Board and forbade any other building and loan associations from establishing a branch office in the District or moving its principal office in the District without such approval.
+<b>1965</b>—Subsec. (c). Pub. L. 89–117 added par. which permitted an association to invest in loans (1) secured by mortgages as to which the association has the benefit of insurance under title X of the National Housing Act or of a commitment or agreement for such insurance, or (2) guaranteed by the President under section 2184 of title 22, and prohibited investments under cl. (2) to exceed 1 per centum of the assets of such association, provided that, for purposes of this subsection, "other dwelling units" would include living accommodations for students, employees, or staff members of a college, or university, or hospital, reduced from 15 to 10 years the time by which a lease period must extend beyond the maturity date of the debt in order that a leasehold interest qualify as "real property" or "real estate" within this section, and added par. which prohibited any District of Columbia building and loan associations from establishing a branch or moving its principal office without the prior written approval of the Federal Home Loan Bank Board and forbade any other building and loan associations from establishing a branch office in the District or moving its principal office in the District without such approval.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–560, §§901(a), 902–905, 907, 908, 910, amended provisions as follows:
 
@@ -1648,7 +1648,7 @@ Section 908 substituted in first sentence of second par. "20 per centum" and "$5
 
 Section 910 inserted after second par. the paragraph which authorized the association to invest in loans, obligations, and advances of credit made for the payment of expenses of college or university education but limited such investments to 5 per centum of the assets of the association.
 
-<b>1962</b>—Subsec. (c). Pub. L. 87–779, in first par., substituted provisions authorizing loans on the security of first liens upon real property within fifty miles of their home office which constitute first liens upon homes, combinations of homes and business property, other dwelling units, or combinations of dwelling units, including homes, and business property involving only minor or incidental business use, for provisions which permitted loans on the security of first liens upon homes or combination of homes and business property within fifty miles of their home office, and provisions limiting the amount of loan on the security of first liens to not more than $35,000 for each single-family dwelling, and not more than such amount per room as the Board may determine within the limits allowable in section 1713(c)(3) of this title for any other dwelling unit, for provisions which limited the amount of the loan to not more than $35,000 on the security of a first lien upon a home or combination of home and business property, inserted provisions requiring the Board to limit by regulation to not more than 15 per centum of the assets of the association the aggregate amount or amounts of the investments which may be made by an association on the security of property which comprises or includes more than four dwelling units or does not constitute homes or combinations of homes and business property, changed provisions which permitted use of additional sums not exceeding 20 per centum of the assets of the association without regard to area restriction for the making or purchase of participating interests in first liens on one- to four-family homes to permit use of such sums for the making or purchase of participating interests in real property of the type described in the opening provisions of this subsection, and substituted "dollar amount limitation" for "$35,000 limitation" in fourth par.
+<b>1962</b>—Subsec. (c). Pub. L. 87–779, in first par., substituted provisions authorizing loans on the security of first liens upon real property within fifty miles of their home office which constitute first liens upon homes, combinations of homes and business property, other dwelling units, or combinations of dwelling units, including homes, and business property involving only minor or incidental business use, for provisions which permitted loans on the security of first liens upon homes or combination of homes and business property within fifty miles of their home office, and provisions limiting the amount of loan on the security of first liens to not more than $35,000 for each single-family dwelling, and not more than such amount per room as the Board may determine within the limits allowable in section 1713(c)(3) of this title for any other dwelling unit, for provisions which limited the amount of the loan to not more than $35,000 on the security of a first lien upon a home or combination of home and business property, inserted provisions requiring the Board to limit by regulation to not more than 15 per centum of the assets of the association the aggregate amount or amounts of the investments which may be made by an association on the security of property which comprises or includes more than four dwelling units or doesnot constitute homes or combinations of homes and business property, changed provisions which permitted use of additional sums not exceeding 20 per centum of the assets of the association without regard to area restriction for the making or purchase of participating interests in first liens on one- to four-family homes to permit use of such sums for the making or purchase of participating interests in real property of the type described in the opening provisions of this subsection, and substituted "dollar amount limitation" for "$35,000 limitation" in fourth par.
 
 Subsec. (h). Pub. L. 87–834 struck out provisions which exempted such associations, including their franchises, capital, reserves, and surplus, and their loans and income, and all shares of such associations both as to their value and the income therefrom, from all taxation imposed by the United States.
 
@@ -1666,7 +1666,7 @@ Subsec. (h). Pub. L. 87–834 struck out provisions which exempted such associat
 
 <b>1954</b>—Subsec. (c). Act Aug. 2, 1954, §§204(b), 503(1), (3), amended provisions as follows: section 204(b) inserted the reference to obligations of the Federal National Mortgage Association in second proviso of first par.; section 503(1), (3), substituted "$35,000" for "$20,000" in two places in first par. and increased from $1,500 to $2,500 the maximum amount of an unsecured loan in which a Federal savings and loan association may invest in second par.
 
-Subsec. (d). Act Aug. 2, 1954, §503(2), amended provisions generally to provide a means by administrativeand court proceedings whereby the Board may enforce compliance with law and regulations by Federal savings and loan associations in cases where the Board felt that the appointment of a conservator or receiver was not necessary or desirable; and to set out the grounds, and provide the procedure, for the appointment of conservators, receivers, and supervisory representatives.
+Subsec. (d). Act Aug. 2, 1954, §503(2), amended provisions generally to provide a means by administrative and court proceedings whereby the Board may enforce compliance with law and regulations by Federal savings and loan associations in cases where the Board felt that the appointment of a conservator or receiver was not necessary or desirable; and to set out the grounds, and provide the procedure, for the appointment of conservators, receivers, and supervisory representatives.
 
 <b>1952</b>—Subsec. (c). Act July 14, 1952, inserted penultimate sentence to first par.
 

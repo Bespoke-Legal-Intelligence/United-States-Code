@@ -30,7 +30,7 @@ Point Bonita, Point Diablo, Point Montara, and Lime Point shall remain under the
 
 #### (h) Transfer of certain property of Navy Department to administrative jurisdiction of Secretary
 
-That portion of Fort Miley comprising approximately one and seven-tenths acres of land presently used and required by the Secretary of the Navy for its inshore, underseas warfare installations shall remain under the administrative jurisdiction of the Department of the Navy until such time as all or any portion thereof is determined by the Department of Defense to be excess to its needs, at which time such excess portion shall be transferred to the administrative jurisdiction of the Secretary for purposes of this subchapter. That property known as the Pillar Point Military Reservation, under the jurisdiction of the Secretary of Defense shall be transferred to the administrative jurisdiction of the Secretary at such time as the property, or any portion thereof, becomes excess to the needs of the Department of Defense.
+That portion of Fort Miley comprising approximately one and seven-tenths acres of land presently used and required by the Secretary of the Navy for its inshore, underseas warfare installations shall remain under the administrative jurisdiction of the Department of the Navy until such time as all or any portion thereof is determined by the Department of Defense to be excess to its needs, at which time such excessportion shall be transferred to the administrative jurisdiction of the Secretary for purposes of this subchapter. That property known as the Pillar Point Military Reservation, under the jurisdiction of the Secretary of Defense shall be transferred to the administrative jurisdiction of the Secretary at such time as the property, or any portion thereof, becomes excess to the needs of the Department of Defense.
 
 #### (i) New construction; limitation; notice and public hearing; exceptions
 
@@ -42,7 +42,7 @@ The owner of improved residential property or of agricultural property on the da
 
 #### (k) "Improved and agricultural property" defined
 
-The term "improved property", as used in subsection (j) of this section, means a detached, noncommercial residential dwelling, the construction of which was begun before June 1, 1971,or, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated. The term "agricultural property" as used in this subchapter means lands which are in regular use for agricultural, ranching, or dairying purposes as of January 1, 1978, together with residential and other structures related to the above uses of the property as such structures exist on said date.
+The term "improved property", as used in subsection (j) of this section, means a detached, noncommercial residential dwelling, the construction of which was begun before June 1, 1971, or, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated. The term "agricultural property" as used in this subchapter means lands which are in regular use for agricultural, ranching, or dairying purposes as of January 1, 1978, together with residential and other structures related to the above uses of the property as such structures exist on said date.
 
 #### (l) Relocation assistance benefits and rights; waiver through retention of right of use and occupancy; displaced person status of owner
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the Secretary shall have the same au
 
 #### (n) Management of State donated lands
 
-The Secretary shall accept and shall manage in accordance with this subchapter, any land and improvements adjacent to the recreation area which are donated by the State of California or its political subdivisions. The boundaries of the recreation area shall be changed to include such donated lands.
+The Secretary shall accept and shall manage in accordance with this subchapter, any landand improvements adjacent to the recreation area which are donated by the State of California or its political subdivisions. The boundaries of the recreation area shall be changed to include such donated lands.
 
 #### (o) Payment deferral; scheduling; interest rate
 

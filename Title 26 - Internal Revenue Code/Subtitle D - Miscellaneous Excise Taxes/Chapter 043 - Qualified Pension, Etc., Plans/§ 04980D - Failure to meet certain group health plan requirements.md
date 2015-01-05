@@ -34,7 +34,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (B) Higher minimum tax where violations are more than de minimis
 
-&emsp;&emsp;To the extent violations for which any person is liable under subsection (e) for anyyear are more than de minimis, subparagraph (A) shall be applied by substituting "$15,000" for "$2,500" with respect to such person.
+&emsp;&emsp;To the extent violations for which any person is liable under subsection (e) for any year are more than de minimis, subparagraph (A) shall be applied by substituting "$15,000" for "$2,500" with respect to such person.
 
 #### (C) Exception for church plans
 
@@ -78,7 +78,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of failures with respect to a specified multiple employer health plan, the tax imposed by subsection (a) for failures during the taxable year of the trust forming part of such plan shall not exceed the amount equal to the lesser of—
+&emsp;&emsp;&emsp;In the case of failures with respect to a specified multiple employer health plan,the tax imposed by subsection (a) for failures during the taxable year of the trust forming part of such plan shall not exceed the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 percent of the amount paid or incurred by such trust during such taxable year to provide medical care (as defined in section 9832(d)(3)) directly or through insurance, reimbursement, or otherwise, or
 

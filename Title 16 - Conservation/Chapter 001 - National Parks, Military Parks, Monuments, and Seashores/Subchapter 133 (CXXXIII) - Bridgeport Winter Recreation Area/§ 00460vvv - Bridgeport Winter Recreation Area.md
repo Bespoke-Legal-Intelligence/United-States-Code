@@ -78,7 +78,7 @@ The Secretary shall establish an appropriate snowmobile crossing point along the
 
 #### (g) Military activities at United States Marine Corps Mountain Warfare Training Center
 
-The designation of the Bridgeport Winter Recreation Area by this section is not intended to restrict or preclude the activities conducted by the United States Armed Forces at the United States Marine Corps Mountain Warfare Training Center.
+The designation of the Bridgeport Winter Recreation Area by this section is not intendedto restrict or preclude the activities conducted by the United States Armed Forces at the United States Marine Corps Mountain Warfare Training Center.
 
 (Pub. L. 111–11, title I, §1806, Mar. 30, 2009, 123 Stat. 1059; Pub. L. 111–84, div. B, title XXVIII, §2874, Oct. 28, 2009, 123 Stat. 2697.)
 

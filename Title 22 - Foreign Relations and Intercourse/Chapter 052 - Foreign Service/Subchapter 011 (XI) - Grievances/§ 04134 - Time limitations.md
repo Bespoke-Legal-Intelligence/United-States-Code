@@ -10,7 +10,7 @@ If a grievance is not resolved under Department procedures (which have been nego
 
 #### (c) Grievances based on alleged discrimination
 
-(1) In applying subsection (a) of this section with respect to an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title, the reference to "2 years" shall be deemed to read "180 days", subject to paragraph (2).
+(1) In applying subsection (a) with respect to an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title, the reference to "2 years" shall be deemed to read "180 days", subject to paragraph (2).
 
 (2) If the occurrence or occurrences giving rise to the grievance are alleged to have occurred while the grievant was assigned to a post abroad, the 180-day period provided for under paragraph (1) shall not commence until the earlier of—
 
@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 102–138, §153(b)(2), added subsec. (c).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §330(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, provided that: "The amendments made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 29, 1999\] and shall apply to grievances which arise on or after such effective date."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §330(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, providedthat: "The amendments made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 29, 1999\] and shall apply to grievances which arise on or after such effective date."
 
 #### Effective Date of 1991 Amendment
 

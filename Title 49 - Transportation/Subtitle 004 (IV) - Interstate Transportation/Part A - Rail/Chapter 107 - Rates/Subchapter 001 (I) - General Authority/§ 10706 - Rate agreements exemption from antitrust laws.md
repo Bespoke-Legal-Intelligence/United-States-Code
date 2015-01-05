@@ -18,7 +18,7 @@
 
 &emsp;(iii) the names of each of its affiliates and the names, addresses, and affiliates of each of its officers and directors and of each person, together with an affiliate, owning or controlling any debt, equity, or security interest in it having a value of at least $1,000,000.
 
-(3)(A) An organization established or continued under an agreement approved under this subsection shall make a final disposition of a rule or rate docketed with it by the 120th dayafter the proposal is docketed. Such an organization may not—
+(3)(A) An organization established or continued under an agreement approved under this subsection shall make a final disposition of a rule or rate docketed with it by the 120th day after the proposal is docketed. Such an organization may not—
 
 &emsp;(i) permit a rail carrier to discuss, to participate in agreements related to, or to vote on single-line rates proposed by another rail carrier, except that for purposes of general rate increases and broad changes in rates, classifications, rules, and practices only, if the Board finds at any time that the implementation of this clause is not feasible, it may delay or suspend such implementation in whole or in part;
 

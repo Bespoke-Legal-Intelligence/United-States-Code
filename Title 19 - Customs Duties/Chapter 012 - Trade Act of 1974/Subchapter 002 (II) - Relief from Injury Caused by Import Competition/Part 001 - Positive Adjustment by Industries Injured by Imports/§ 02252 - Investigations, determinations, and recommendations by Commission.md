@@ -2,7 +2,7 @@
 
 #### (a) Petitions and adjustment plans
 
-(1) A petition requesting action under this part for the purpose of facilitating positive adjustment to import competition may be filedwith the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, which is representative of an industry.
+(1) A petition requesting action under this part for the purpose of facilitating positive adjustment to import competition may be filed with the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, which is representative of an industry.
 
 (2) A petition under paragraph (1)—
 
@@ -78,7 +78,7 @@
 
 (2) In making determinations under subsection (b) of this section, the Commission shall—
 
-&emsp;(A) consider the condition of the domestic industry over the course of the relevant business cycle, but may not aggregate the causes of declining demand associated with a recession or economic downturn in the United States economy into a single cause of serious injury or threat of injury; and
+&emsp;(A) consider the condition of the domestic industry over the course of the relevant business cycle, but may not aggregate the causesof declining demand associated with a recession or economic downturn in the United States economy into a single cause of serious injury or threat of injury; and
 
 &emsp;(B) examine factors other than imports which may be a cause of serious injury, or threat of serious injury, to the domestic industry.
 
@@ -130,7 +130,7 @@
 
 &emsp;(II) the serious injury cannot be timely prevented through investigation under subsection (b) of this section and action under section 2253 of this title.
 
-(D) At the request of the Commission, the Secretary of Agriculture shall promptly provide to the Commission any relevant information that the Department of Agriculture may have for purposes of making determinations and findings under this subsection.
+(D) At the request of the Commission, the Secretary of Agriculture shall promptly provide to the Commission any relevant information thatthe Department of Agriculture may have for purposes of making determinations and findings under this subsection.
 
 (E) Whenever the Commission makes an affirmative preliminary determination under subparagraph (C), the Commission shall find the amount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference to increasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
@@ -260,7 +260,7 @@
 
 &emsp;&emsp;(i) the short- and long-term effects that implementation of the action recommended under subection <sup>1</sup> (e) of this section is likely to have on the petitioning domestic industry, on other domestic industries, and on consumers, and
 
-&emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
+&emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers andthe communities where production facilities of such industry are located, and on other domestic industries.
 
 (3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
 
@@ -320,7 +320,7 @@ The Commission shall promulgate regulations to provide access to confidential bu
 
 #### References in Text
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L.103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 Title II of the United States-Jordan Free Trade Area Implementation Act, referred to in subsec. (a)(8), is title II of Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, which is set out in a note under section 2112 of this title.
 
@@ -350,7 +350,7 @@ The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(8). Pub. L. 112–43, §§107(c), 316, in first sentence, temporarily struck out "and" before"title III of the United States–Colombia Trade Promotion Agreement Implementation Act" and inserted before period at end ", and title III of the United States–Panama Trade Promotion Agreement Implementation Act". See Effective and Termination Dates of 2011 Amendment note below.
+<b>2011</b>—Subsec. (a)(8). Pub. L. 112–43, §§107(c), 316, in first sentence, temporarily struck out "and" before "title III of the United States–Colombia Trade Promotion Agreement Implementation Act" and inserted before period at end ", and title III of the United States–Panama Trade Promotion Agreement Implementation Act". See Effective and Termination Dates of 2011 Amendment note below.
 
 Pub. L. 112–42, §§107(c), 316, in first sentence, temporarily struck out "and" before "title III of the United States–Korea Free Trade Agreement Implementation Act" and inserted before period at end ", and title III of the United States–Colombia Trade Promotion Agreement Implementation Act". See Effective and Termination Dates of 2011 Amendment note below.
 
@@ -372,7 +372,7 @@ Pub. L. 108–286, §§106(c), 316, in first sentence, temporarily struck out "a
 
 Pub. L. 108–77, §§107(c), 316, in first sentence, temporarily struck out "and" before "title II" and inserted before period at end ", and title III of the United States-Chile Free Trade Agreement Implementation Act". See Effective and Termination Dates of 2003 Amendments note below.
 
-<b>2001</b>—Subsec. (a)(8). Pub. L. 107–43, in first sentence, temporarily substituted ", part 1" for "and part 1" and inserted before period at end ", and title II of the United States-Jordan Free Trade Area Implementation Act". See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(8). Pub. L. 107–43, in first sentence, temporarily substituted ", part 1" for "and part 1" andinserted before period at end ", and title II of the United States-Jordan Free Trade Area Implementation Act". See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1996</b>—Subsec. (d)(4)(A)(i). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to subsection (b) of this section.
 
@@ -486,7 +486,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiatedunder this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
 #### Uruguay Round Agreements: Entry Into Force
 

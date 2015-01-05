@@ -44,7 +44,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (1) In general
 
-&emsp;If an obligation to which this section applies is outstanding as of the close of any taxableyear, the tax imposed by this chapter for such taxable year shall be increased by the amount of interest determined in the manner provided under paragraph (2).
+&emsp;If an obligation to which this section applies is outstanding as of the close of any taxable year, the tax imposed by this chapter for such taxable year shall be increased by the amount of interest determined in the manner provided under paragraph (2).
 
 #### (2) Computation of interest
 
@@ -210,7 +210,7 @@ Pub. L. 100–647, title VI, §6031, Nov. 10, 1988, 102 Stat. 3695, provided tha
 
 "(a)
 
-General Rule.—Section 453A(d) of the 1986 Code (relating to pledges, etc., of installment obligations) shall not apply to any pledge after December 17, 1987, of an installment obligation to secure any indebtednessif such indebtedness is incurred to refinance indebtedness which was outstanding on December 17, 1987, and which was secured on such date and all times thereafter before such refinancing by a pledge of such installment obligation.
+General Rule.—Section 453A(d) of the 1986 Code (relating to pledges, etc., of installment obligations) shall not apply to any pledge after December 17, 1987, of an installment obligation to secure any indebtedness if such indebtedness is incurred to refinance indebtedness which was outstanding on December 17, 1987, and which was secured on such date and all times thereafter before such refinancing by a pledge of such installment obligation.
 
 "(b)
 

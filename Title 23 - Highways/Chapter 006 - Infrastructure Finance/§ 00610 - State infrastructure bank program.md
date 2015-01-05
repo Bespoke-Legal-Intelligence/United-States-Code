@@ -88,7 +88,7 @@ Highway account.—Subject to subsection (j), the Secretary may permit a State e
 
 &emsp;(2)
 
-Transit account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistanceunder section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2005 through 2009 for capital projects under each of such sections.
+Transit account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2005 through 2009 for capital projects under each of such sections.
 
 &emsp;(3)
 
@@ -166,7 +166,7 @@ In general.—The requirements of this title and title 49 that would otherwise a
 
 &emsp;(2)
 
-Repayments.—The requirements of this title and title 49 shall apply to repaymentsfrom non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
+Repayments.—The requirements of this title and title 49 shall apply to repayments from non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
 
 (i)
 
@@ -180,7 +180,7 @@ Management of Federal Funds.—Sections 3335 and 6503 of title 31 shall not appl
 
 Program Administration.—For each of fiscal years 2005 through 2009, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
-(Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub. L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §1519(c)(12), July 6, 2012, 126 Stat. 577.)
+(Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub.L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §1519(c)(12), July 6, 2012, 126 Stat. 577.)
 
 #### References in Text
 

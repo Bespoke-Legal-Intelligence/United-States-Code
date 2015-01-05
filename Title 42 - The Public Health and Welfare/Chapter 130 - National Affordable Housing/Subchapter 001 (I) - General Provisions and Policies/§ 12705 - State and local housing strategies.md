@@ -10,7 +10,7 @@ The Secretary shall provide assistance directly to a jurisdiction only if—
 
 &emsp;(3) the housing strategy, and any annual update of such strategy, is approved by the Secretary.
 
-> The Secretary shall establish such dates and manner for the submission and approval of housing strategies under this section that the Secretary determines will facilitate orderly program management by jurisdictions and providefor timely investment or other use of funds made available under subchapter II of this chapter and other programs requiring submission of a housing strategy. If the Secretary finds there is good cause, the Secretary may provide reasonable extensions of any deadlines for submission of a jurisdiction's housing strategy.
+> The Secretary shall establish such dates and manner for the submission and approval of housing strategies under this section that the Secretary determines will facilitate orderly program management by jurisdictions and provide for timely investment or other use of funds made available under subchapter II of this chapter and other programs requiring submission of a housing strategy. If the Secretary finds there is good cause, the Secretary may provide reasonable extensions of any deadlines for submission of a jurisdiction's housing strategy.
 
 #### (b) Contents
 
@@ -62,7 +62,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 #### (1) In general
 
-&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 days after receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) of this section has not been provided in a substantially complete manner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) of this section shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
+&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 daysafter receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) of this section has not been provided in a substantially complete manner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) of this section shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
 
 #### (2) Actions in case of disapproval
 
@@ -88,7 +88,7 @@ The Secretary may establish such requirements as the Secretary deems appropriate
 
 #### (f) Barrier removal
 
-Not later than 4 months after completion of the final report of the Secretary's AdvisoryCommission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal or modification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
+Not later than 4 months after completion of the final report of the Secretary's Advisory Commission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal or modification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
 
 #### (g) Treatment of troubled public housing agencies
 
@@ -112,7 +112,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (b)(7)
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(7), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
-The effective date of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (g)(2), probably means the general effective date for title V of Pub. L. 105–276, included in section 503 of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+The effective date of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (g)(2),probably means the general effective date for title V of Pub. L. 105–276, included in section 503 of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 #### (b) Encouragement of applications with respect to treatment use in circumstances other than clinical trials
 
-(1) In the case of a new drug with respect to which the Secretary has made a determinationdescribed in subsection (a) of this section and with respect to which an exemption is in effect for purposes of section 355(i) of title 21, the Secretary shall—
+(1) In the case of a new drug with respect to which the Secretary has made a determination described in subsection (a) of this section and with respect to which an exemption is in effect for purposes of section 355(i) of title 21, the Secretary shall—
 
 &emsp;(A) as appropriate, encourage the sponsor of the investigation of the new drug to submit to the Secretary, in accordance with regulations issued under such section, an application to use the drug in the treatment of individuals—
 

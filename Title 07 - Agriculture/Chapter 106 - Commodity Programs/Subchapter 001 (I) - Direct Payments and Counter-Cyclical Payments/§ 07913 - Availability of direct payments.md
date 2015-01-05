@@ -2,7 +2,7 @@
 
 #### (a) Payment required
 
-For each of the 2002 through 2007 crop years of each covered commodity, the Secretary shall make direct payments to producers on farms forwhich payment yields and base acres are established.
+For each of the 2002 through 2007 crop years of each covered commodity, the Secretary shall make direct payments to producers on farms for which payment yields and base acres are established.
 
 #### (b) Payment rate
 
@@ -30,7 +30,7 @@ The payment rates used to make direct payments with respect to covered commoditi
 
 The amount of the direct payment to be paid to the producers on a farm for a covered commodity for a crop year shall be equal to the product of the following:
 
-&emsp;(1) The payment rate specified in subsection (b) of this section.
+&emsp;(1) The payment rate specified in subsection (b).
 
 &emsp;(2) The payment acres of the covered commodity on the farm.
 

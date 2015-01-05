@@ -48,7 +48,7 @@ Designation.—The designation required by subsection (b) shall be made not late
 
 #### Requirements for Senior Department of Defense Officials Seeking Employment With Defense Contractors
 
-Pub. L. 110–181, div. A, title VIII, §847, Jan. 28, 2008, 122 Stat. 243, provided that:
+Pub. L. 110–181, div. A, title VIII, §847, Jan. 28, 2008, 122 Stat. 243, as amended by Pub. L. 113–291, div. A, title VIII, §855, title X, §1071(b)(2)(C), Dec. 19, 2014, 128 Stat. 3460, 3506, provided that:
 
 "(a)
 
@@ -68,11 +68,11 @@ Written opinion.—Not later than 30 days after receiving a request by an offici
 
 &emsp;"(4)
 
-Contractor requirement.—A Department of Defense contractor may not knowingly provide compensation to a former Department of Defense officialdescribed in subsection (c) within two years after such former official leaves service in the Department of Defense, without first determining that the former official has sought and received (or has not received after 30 days of seeking) a written opinion from the appropriate ethics counselor regarding the applicability of post-employment restrictions to the activities that the former official is expected to undertake on behalf of the contractor.
+Contractor requirement.—A Department of Defense contractor may not knowingly provide compensation to a former Department of Defense official described in subsection (c) within two years after such former official leaves service in the Department of Defense, without first determining that the former official has sought and received (or has not received after 30 days of seeking) a written opinion from the appropriate ethics counselor regarding the applicability of post-employment restrictions to the activities that the former official is expected to undertake on behalf of the contractor.
 
 &emsp;"(5)
 
-Administrative actions.—In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in section 27(e) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 423(e)) \[now 41 U.S.C. 2105\] that the Secretary of Defense determines to be appropriate.
+Administrative actions.—In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in section 2105 of title 41, United States Code\[,\] that the Secretary of Defense determines to be appropriate.
 
 "(b)
 
@@ -80,7 +80,7 @@ Recordkeeping Requirement.—
 
 &emsp;"(1)
 
-Database.—Each request for a written opinion made pursuant to this section, and each written opinion provided pursuant to such a request, shall be retained by the Department of Defense in a central database or repository for not less than five years beginning on the date on which the written opinion was provided.
+Database.—Each request for a written opinion made pursuant to this section, and each written opinion provided pursuant to such a request, shall be retained by the Department of Defense in a central database or repository maintained by the General Counsel of the Department for not less than five years beginning on the date on which the written opinion was provided.
 
 &emsp;"(2)
 
@@ -90,7 +90,7 @@ Inspector general review.—The Inspector General of the Department of Defense s
 
 Covered Department of Defense Officials.—An official or former official of the Department of Defense is covered by the requirements of this section if such official or former official—
 
-&emsp;"(1) participated personally and substantially in an acquisition as defined in section 4(16) of the Office of Federal Procurement Policy Act \[now 41 U.S.C. 131\] with a value in excess of $10,000,000 and serves or served—
+&emsp;"(1) participated personally and substantially in an acquisition as defined in section 131 of title 41, United States Code\[,\] with a value in excess of $10,000,000 and serves or served—
 
 &emsp;&emsp;"(A) in an Executive Schedule position under subchapter II of chapter 53 of title 5, United States Code;
 
@@ -104,7 +104,7 @@ Covered Department of Defense Officials.—An official or former official of the
 
 Definition.—In this section, the term 'post-employment restrictions' includes—
 
-&emsp;"(1) section 27 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 423) \[now 41 U.S.C. 2101 et seq.\];
+&emsp;"(1) chapter 21 of title 41, United States Code;
 
 &emsp;"(2) section 207 of title 18, United States Code; and
 
@@ -116,7 +116,7 @@ Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, as 
 
 #### Demonstration Project Relating to Certain Personnel Management Policies and Procedures
 
-Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as amended by Pub. L. 105–85, div. A, title VIII, §845, Nov. 18, 1997, 111 Stat. 1845; Pub. L. 107–314, div. A, title VIII, §813(b), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XI, §1112, Nov. 24, 2003, 117 Stat. 1634, which encouraged the Secretary of Defense to commence a demonstration project relating to improving the personnel management policies or procedures that apply to the acquisition workforce of the Department of Defense and supporting personnel, was repealed and restated as section 1762 of this title by Pub. L. 111–383, div. A, title VIII, §872(a)(1), (b), Jan. 17, 2011, 124 Stat. 4300, 4302.
+Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as amended by Pub. L. 105–85, div. A, title VIII, §845, Nov. 18, 1997, 111 Stat. 1845; Pub. L. 107–314, div. A, title VIII, §813(b), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XI, §1112, Nov. 24, 2003, 117 Stat. 1634, which encouraged the Secretary of Defense to commence a demonstration project relating to improving the personnel management policies or procedures that apply to the acquisition workforce of the Department of Defense and supporting personnel, was repealed and restated as section 1762 of this title by Pub. L. 111–383, div. A, title VIII, §872(a)(1), (b), Jan. 7, 2011, 124 Stat. 4300, 4302.
 
 #### Evaluation by Comptroller General
 

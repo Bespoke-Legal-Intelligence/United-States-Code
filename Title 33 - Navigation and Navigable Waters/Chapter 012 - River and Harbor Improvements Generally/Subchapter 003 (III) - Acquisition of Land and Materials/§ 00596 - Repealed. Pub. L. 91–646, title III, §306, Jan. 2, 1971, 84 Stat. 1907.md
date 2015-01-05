@@ -8,5 +8,5 @@ Repeal not applicable to any State so long as sections 4630 and 4655 of title 42
 
 #### Savings Provision
 
-Any rights or liabilities existing under provisions repealed by section 306 of Pub. L. 91–646 as not affected by such repeal, see section 306 of Pub. L. 91–646, set out in part as a Savings Provision note under section 4651 of Title 42, The Public Health and Welfare.
+Any rights or liabilities existing under provisions repealed by section 306 of Pub. L. 91–646 as not affected bysuch repeal, see section 306 of Pub. L. 91–646, set out in part as a Savings Provision note under section 4651 of Title 42, The Public Health and Welfare.
 

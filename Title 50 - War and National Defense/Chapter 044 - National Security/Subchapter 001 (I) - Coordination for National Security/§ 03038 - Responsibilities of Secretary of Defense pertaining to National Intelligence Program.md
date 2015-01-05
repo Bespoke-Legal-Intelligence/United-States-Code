@@ -100,7 +100,7 @@ Subsec. (b)(6)(A). Pub. L. 108–458, §1071(a)(1)(F), substituted "Director of 
 
 <b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §921(e)(2), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-Subsec. (d). Pub. L. 108–177 struck out subsec. (d) which related to annual evaluations of performanceand responsiveness of certain elements of the intelligence community.
+Subsec. (d). Pub. L. 108–177 struck out subsec. (d) which related to annual evaluations of performance and responsiveness of certain elements of the intelligence community.
 
 Subsec. (d)(3). Pub. L. 108–136, §921(e)(2), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
@@ -136,7 +136,7 @@ Pub. L. 109–163, div. A, title IX, §931, Jan. 6, 2006, 119 Stat. 3411, provid
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) Open-source intelligence (OSINT) is intelligence that is produced from publicly available information and is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement.
+&emsp;"(1) Open-source intelligence (OSINT) is intelligence that is produced from publicly available information and is collected, exploited, and disseminated in a timely manner to an appropriate audiencefor the purpose of addressing a specific intelligence requirement.
 
 &emsp;"(2) With the Information Revolution, the amount, significance, and accessibility of open-source information has expanded significantly, but the intelligence community has not expanded its exploitation efforts and systems to produce open-source intelligence.
 

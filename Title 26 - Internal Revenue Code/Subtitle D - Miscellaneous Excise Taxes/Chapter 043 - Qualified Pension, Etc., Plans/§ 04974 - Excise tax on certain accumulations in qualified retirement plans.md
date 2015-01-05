@@ -6,7 +6,7 @@ If the amount distributed during the taxable year of the payee under any qualifi
 
 #### (b) Minimum required distribution
 
-For purposes of this section, the term "minimum required distribution" means the minimum amount required to be distributed during a taxable year under section 401(a)(9), 403(b)(10), 408(a)(6), 408(b)(3), or 457(d)(2), as the case maybe, as determined under regulations prescribed by the Secretary.
+For purposes of this section, the term "minimum required distribution" means the minimum amount required to be distributed during a taxable year under section 401(a)(9), 403(b)(10), 408(a)(6), 408(b)(3), or 457(d)(2), as the case may be, as determined under regulations prescribed by the Secretary.
 
 #### (c) Qualified retirement plan
 

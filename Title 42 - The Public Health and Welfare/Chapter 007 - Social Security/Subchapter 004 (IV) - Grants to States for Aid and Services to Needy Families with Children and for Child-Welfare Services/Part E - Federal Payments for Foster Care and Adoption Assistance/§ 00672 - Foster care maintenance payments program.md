@@ -96,7 +96,7 @@ Expenditures by a State that would be considered administrative expenditures for
 
 &emsp;(1) in the case of a child who has been removed in accordance with subsection (a) of this section from the home of a relative specified in section 606(a) of this title (as in effect on July 16, 1996), only for expenditures—
 
-&emsp;&emsp;(A) with respect to a period of not more than the lesser of 12 months or the average length of time it takes for the State to license or approve a home as a foster home, in which the child is in the home of a relativeand an application is pending for licensing or approval of the home as a foster family home; or
+&emsp;&emsp;(A) with respect to a period of not more than the lesser of 12 months or the average length of time it takes for the State to license or approve a home as a foster home, in which the child is in the home of a relative and an application is pending for licensing or approval of the home as a foster family home; or
 
 &emsp;&emsp;(B) with respect to a period of not more than 1 calendar month when a child moves from a facility not eligible for payments under this part into a foster family home or child care institution licensed or approved by the State; and
 
@@ -206,7 +206,7 @@ Pub. L. 100–203, title IX, §9133(c), Dec. 22, 1987, 101 Stat. 1330–315, pro
 
 Pub. L. 96–272, title I, §102(a)(1), June 17, 1980, 94 Stat. 513, as amended by Pub. L. 98–118, §3(a), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(1), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, 12306(c)(1), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(1), Dec. 22, 1987, 101 Stat. 1330–313, provided that the amendment made by that section is effective with respect to expenditures made after Sept. 30, 1980.
 
-Pub. L. 96–272, title I, §102(c), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979."
+Pub. L. 96–272, title I, §102(c), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsections (a) and (b) \[amending thissection and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979."
 
 \[Pub. L. 100–203, title IX, §9131(b), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsection (a) \[amending section 102(a)(1), (c), and (e) of Pub. L. 96–272, set out as notes under this section\] shall become effective October 1, 1987."\]
 

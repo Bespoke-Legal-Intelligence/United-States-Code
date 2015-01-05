@@ -12,19 +12,19 @@ General Rule.—The appropriate authorities of each State—
 
 Definitions.—In this section:
 
-&emsp;"child" means—
+&emsp;(1) The term "child" means—
 
 &emsp;&emsp;(A) a person under 18 years of age; and
 
 &emsp;&emsp;(B) a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
 
-&emsp;"child's State" means the State in which a child resides.
+&emsp;(2) The term "child's State" means the State in which a child resides.
 
-&emsp;"child's home State" means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
+&emsp;(3) The term "child's home State" means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
 
-&emsp;"child support" means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
+&emsp;(4) The term "child support" means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
 
-&emsp;"child support order"—
+&emsp;(5) The term "child support order"—
 
 &emsp;&emsp;(A) means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
 
@@ -34,7 +34,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(ii) an initial order or a modification of an order.
 
-&emsp;"contestant" means—
+&emsp;(6) The term "contestant" means—
 
 &emsp;&emsp;(A) a person (including a parent) who—
 
@@ -46,11 +46,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a State or political subdivision of a State to which the right to obtain child support has been assigned.
 
-&emsp;"court" means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
+&emsp;(7) The term "court" means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
 
-&emsp;"modification" means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
+&emsp;(8) The term "modification" means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
 
-&emsp;"State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in section 1151 of title 18).
+&emsp;(9) The term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in section 1151 of title 18).
 
 (c)
 
@@ -80,7 +80,7 @@ Authority To Modify Orders.—A court of a State may modify a child support orde
 
 (f)
 
-Recognition of Child Support Orders.—If 1 or more child support orders have been issuedwith regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
 
 &emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
@@ -102,7 +102,7 @@ Choice of Law.—
 
 &emsp;(1)
 
-In general.—In a proceeding to establish, modify, or enforce a child support order, the forum State's law shall apply except as provided in paragraphs (2) and (3).
+In general.—In a proceeding to establish, modify, or enforce a child support order,the forum State's law shall apply except as provided in paragraphs (2) and (3).
 
 &emsp;(2)
 
@@ -116,9 +116,25 @@ Period of limitation.—In an action to enforce arrears under a child support or
 
 Registration for Modification.—If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
 
-(Added Pub. L. 103–383, §3(a), Oct. 20, 1994, 108 Stat. 4064; amended Pub. L. 104–193, title III, §322, Aug. 22, 1996, 110 Stat. 2221; Pub. L. 105–33, title V, §5554, Aug. 5, 1997, 111 Stat. 636.)
+(Added Pub. L. 103–383, §3(a), Oct. 20, 1994, 108 Stat. 4064; amended Pub. L. 104–193, title III, §322, Aug. 22, 1996, 110 Stat. 2221; Pub. L. 105–33, title V, §5554, Aug. 5, 1997, 111 Stat. 636; Pub. L. 113–183, title III, §301(f)(2), Sept. 29, 2014, 128 Stat. 1944.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–183, title III, §301(f)(2)(A), (B), (3)(B)(i), Sept. 29, 2014, 128 Stat. 1944, 1945, provided that, effective on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States, this section is amended as follows:</i>
+
+<i>(1) in subsection (d), by striking "individual contestant" and inserting "individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,"; and</i>
+
+<i>(2) in subsection (e)(2)(A), by striking "individual contestant" and inserting "individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–183, §301(f)(2)(C), inserted designations for pars. (1) to (9) and "The term" after each designation.
+
+Subsec. (d). Pub. L. 113–183, §301(f)(2)(A), substituted "individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order," for "individual contestant".
+
+Subsec. (e)(2)(A). Pub. L. 113–183, §301(f)(2)(B), substituted "individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order" for "individual contestant".
 
 <b>1997</b>—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted "a court having jurisdiction over the parties shall issue a child support order, which must be recognized." for "a court may issue a child support order, which must be recognized."
 
@@ -152,6 +168,14 @@ Pub. L. 104–193, §322(9), redesignated subsec. (g) as (h).
 
 Subsec. (i). Pub. L. 104–193, §322(13), added subsec. (i).
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–183, title III, §301(f)(3)(B), Sept. 29, 2014, 128 Stat. 1945, provided that:
+
+"(i) The amendments made by subparagraphs (A) and (B) of paragraph (2) \[amending this section\] shall take effect on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States.
+
+"(ii) The amendments made by subparagraph (C) of paragraph (2) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 29, 2014\]."
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective as if included in enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of Title 42, The Public Health and Welfare.
@@ -174,7 +198,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(3) those laws, along with the limits imposed by the Federal system on the authority of each State to take certain actions outside its own boundaries—
 
-&emsp;&emsp;"(A) encourage noncustodial parents to relocate outside the States where their children and the custodial parents reside to avoid the jurisdiction of the courts of such States, resulting in an increase inthe amount of interstate travel and communication required to establish and collect on child support orders and a burden on custodial parents that is expensive, time consuming, and disruptive of occupations and commercial activity;
+&emsp;&emsp;"(A) encourage noncustodial parents to relocate outside the States where their children and the custodial parents reside to avoid the jurisdiction of the courts of such States, resulting in an increase in the amount of interstate travel and communication required to establish and collect on child support orders and a burden on custodial parents that is expensive, time consuming, and disruptive of occupations and commercial activity;
 
 &emsp;&emsp;"(B) contribute to the pressing problem of relatively low levels of child support payments in interstate cases and to inequities in child support payments levels that are based solely on the noncustodial parent's choice of residence;
 

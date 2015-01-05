@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Fund
 
-&emsp;The term “Fund” means the Acceleration Fund for Research and Development of Homeland Security Technologies established in subsection (c) of this section.
+&emsp;The term "Fund" means the Acceleration Fund for Research and Development of Homeland Security Technologies established in subsection (c).
 
 #### (2) Homeland security research
 
-&emsp;The term “homeland security research” means research relevant to the detection of, prevention of, protection against, response to, attribution of, and recovery from homeland security threats, particularly acts of terrorism.
+&emsp;The term "homeland security research" means research relevant to the detection of, prevention of, protection against, response to, attribution of, and recovery from homeland security threats, particularly acts of terrorism.
 
 #### (3) HSARPA
 
-&emsp;The term “HSARPA” means the Homeland Security Advanced Research Projects Agency established in subsection (b) of this section.
+&emsp;The term "HSARPA" means the Homeland Security Advanced Research Projects Agency established in subsection (b).
 
 #### (4) Under Secretary
 
-&emsp;The term “Under Secretary” means the Under Secretary for Science and Technology.
+&emsp;The term "Under Secretary" means the Under Secretary for Science and Technology.
 
 #### (b) Homeland Security Advanced Research Projects Agency
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (5) Coordination
 
-&emsp;The Director shall ensure that the activities of HSARPA are coordinated with those ofother relevant research agencies, and may run projects jointly with other agencies.
+&emsp;The Director shall ensure that the activities of HSARPA are coordinated with those of other relevant research agencies, and may run projects jointly with other agencies.
 
 #### (6) Personnel
 
@@ -54,7 +54,7 @@ In this section:
 
 #### (7) Demonstrations
 
-&emsp;The Director, periodically, shall hold homeland security technology demonstrations to improve contact among technology developers, vendors and acquisition personnel.
+&emsp;The Director, periodically, shall hold homeland security technology demonstrations toimprove contact among technology developers, vendors and acquisition personnel.
 
 #### (c) Fund
 

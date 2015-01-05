@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Community Enterprise Assessment Credit Board established under subsection (d) of this section shall issue guidelines for insured depository institutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
+&emsp;The Community Enterprise Assessment Credit Board established under subsection (d) shall issue guidelines for insured depository institutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
 
 &emsp;&emsp;(A) designate the eligibility requirements for any institution meeting applicable capital standards to receive an assessment credit under section 1817(b)(7) of this title; and
 
@@ -120,7 +120,7 @@
 
 #### (ii) Public notice
 
-&emsp;&emsp;&emsp;Upon the effective date of any designation of an area as a qualified distressedcommunity, an insured depository institution shall publish a notice of such designation in major newspapers and other community publications which serve such area.
+&emsp;&emsp;&emsp;Upon the effective date of any designation of an area as a qualified distressed community, an insured depository institution shall publish a notice of such designation in major newspapers and other community publications which serve such area.
 
 #### (B) Agency duties relating to designations
 
@@ -214,7 +214,7 @@
 
 #### (1) Procedure for determining community enterprise assessment credits
 
-&emsp;The Board shall establish procedures for accepting and considering applications by insured depository institutions under subsection (a)(1) of this section for community enterprise assessment credits and making determinations with respect to such applications.
+&emsp;The Board shall establish procedures for accepting and considering applications by insured depository institutions under subsection (a)(1) for community enterprise assessment credits and making determinations with respect to such applications.
 
 #### (2) Notice to FDIC
 
@@ -238,7 +238,7 @@ No community development financial institution may receive a community enterpris
 
 #### (A) In general
 
-&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
+&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for anyfiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
 
 #### (B) Priority for support of efforts of CDFI
 
@@ -282,11 +282,11 @@ No community development financial institution may receive a community enterpris
 
 #### (2) Qualifying investments
 
-&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subsection (a)(2)(C) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award based on the leverage ratio between the dollar amount of the activities that form the basis for the institution's application and the amount of the assessment credit calculated in accordance with this section for such activities.
+&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subsection (a)(2)(C) for any semiannual period for which such appropriation is available, determine which institutions shall receive an award based on the leverage ratio between the dollar amount of the activities that form the basis for the institution's application and the amount of the assessment credit calculated in accordance with this section for such activities.
 
 #### (i) Determination of amount of assessment credit
 
-Notwithstanding any other provision of this section, the determination of the amount of any community enterprise assessment credit under subsection (a)(3) of this section for any insured depository institution for any semiannual period shall be made solely at the discretion of the Board. No insured depository institution shall be awarded community enterprise assessment credits for any semiannual period in excess of an amount determined by the Board.
+Notwithstanding any other provision of this section, the determination of the amount of any community enterprise assessment credit under subsection (a)(3) for any insured depository institution for any semiannual period shall be made solely at the discretion of the Board. No insured depository institution shall be awarded community enterprise assessment credits for any semiannual period in excess of an amount determined by the Board.
 
 #### (j) Definitions
 
@@ -298,7 +298,7 @@ For purposes of this section—
 
 #### (2) Board
 
-&emsp;The term "Board" means the Community Enterprise Assessment Credit Board established under the amendment made <sup>2</sup> by subsection (d) of this section.
+&emsp;The term "Board" means the Community Enterprise Assessment Credit Board established under the amendment made <sup>2</sup> by subsection (d).
 
 #### (3) Insured depository institution
 
@@ -316,7 +316,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C), is title VI of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2115, which is classified to subchapter I (§8101 et seq.) of chapter 90 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 601 of Pub. L. 95–557, set out as a Short Title note under section 8101 of Title 42 and Tables.
+The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C), is title VI of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2115, which is classified to subchapter I (§8101 et seq.) of chapter 90 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 601 of Pub. L. 95–557,set out as a Short Title note under section 8101 of Title 42 and Tables.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(D), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
@@ -386,7 +386,7 @@ Income.—At least 70 percent of the families and unrelated individuals residing
 
 "(B)
 
-Poverty.—At least 20 percent of the residents residing in the area have incomes which are less than the national poverty level (as determined pursuant to criteria established by the Director of the Office of Management and Budget).
+Poverty.—At least 20 percent of the residents residing in the area have incomes which are less thanthe national poverty level (as determined pursuant to criteria established by the Director of the Office of Management and Budget).
 
 "(C)
 

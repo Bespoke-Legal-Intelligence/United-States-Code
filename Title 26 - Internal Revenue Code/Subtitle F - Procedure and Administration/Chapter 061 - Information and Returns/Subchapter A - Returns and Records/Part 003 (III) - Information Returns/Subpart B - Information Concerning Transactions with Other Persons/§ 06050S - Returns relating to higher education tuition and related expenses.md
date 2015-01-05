@@ -144,7 +144,7 @@ Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3712(c), July 22, 1998, 112 Stat. 782, provided that: "The amendments made bythis section \[amending this section\] shall apply to returns required to be filed with respect to taxable years beginning after December 31, 1998."
+Pub. L. 105–206, title III, §3712(c), July 22, 1998, 112 Stat. 782, provided that: "The amendments made by this section \[amending this section\] shall apply to returns required to be filed with respect to taxable years beginning after December 31, 1998."
 
 Amendment by section 6004(a)(2) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

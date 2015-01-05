@@ -6,7 +6,7 @@ Except as provided in subsection (b), for purposes of this subtitle, the term "t
 
 #### (b) Individuals who do not itemize their deductions
 
-In the case of an individual who does not elect to itemize his deductions for the taxable year,for purposes of this subtitle, the term "taxable income" means adjusted gross income, minus—
+In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term "taxable income" means adjusted gross income, minus—
 
 &emsp;(1) the standard deduction, and
 
@@ -20,15 +20,9 @@ For purposes of this subtitle—
 
 &emsp;Except as otherwise provided in this subsection, the term "standard deduction" means the sum of—
 
-&emsp;&emsp;(A) the basic standard deduction,
+&emsp;&emsp;(A) the basic standard deduction, and
 
-&emsp;&emsp;(B) the additional standard deduction,
-
-&emsp;&emsp;(C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction,
-
-&emsp;&emsp;(D) the disaster loss deduction, and
-
-&emsp;&emsp;(E) the motor vehicle sales tax deduction.
+&emsp;&emsp;(B) the additional standard deduction.
 
 #### (2) Basic standard deduction
 
@@ -82,24 +76,6 @@ For purposes of this subtitle—
 
 > &emsp;the standard deduction shall be zero.
 
-#### (7) Real property tax deduction
-
-&emsp;For purposes of paragraph (1), the real property tax deduction is the lesser of—
-
-&emsp;&emsp;(A) the amount allowable as a deduction under this chapter for State and local taxes described in section 164(a)(1), or
-
-&emsp;&emsp;(B) $500 ($1,000 in the case of a joint return).
-
-> &emsp;Any taxes taken into account under section 62(a) shall not be taken into account under this paragraph.
-
-#### (8) Disaster loss deduction
-
-&emsp;For the purposes of paragraph (1), the term "disaster loss deduction" means the net disaster loss (as defined in section 165(h)(3)(B)).
-
-#### (9) Motor vehicle sales tax deduction
-
-&emsp;For purposes of paragraph (1), the term "motor vehicle sales tax deduction" means the amount allowable as a deduction under section 164(a)(6). Such term shall not include any amount taken into account under section 62(a).
-
 #### (d) Itemized deductions
 
 For purposes of this subtitle, the term "itemized deductions" means the deductions allowable under this chapter other than—
@@ -120,7 +96,7 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 #### (3) Change of election
 
-&emsp;Under regulations prescribed by the Secretary, a change of election with respect to itemized deductions for any taxable year may be made after the filing of the return for such year. If the spouse of the taxpayer filed a separate return for any taxable year correspondingto the taxable year of the taxpayer, the change shall not be allowed unless, in accordance with such regulations—
+&emsp;Under regulations prescribed by the Secretary, a change of election with respect to itemized deductions for any taxable year may be made after the filing of the return for such year. If the spouse of the taxpayer filed a separate return for any taxable year corresponding to the taxable year of the taxpayer, the change shall not be allowed unless, in accordance with such regulations—
 
 &emsp;&emsp;(A) the spouse makes a change of election with respect to itemized deductions, for the taxable year covered in such separate return, consistent with the change of treatment sought by the taxpayer, and
 
@@ -160,13 +136,27 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318; Pub. L. 113–295, div. A, title II, §221(a)(13), Dec. 19, 2014, 128 Stat. 4039.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–295, §221(a)(13)(A), added subpars. (A) and (B) and struck out former subpars. (A) to (E) which read as follows:
+
+"(A) the basic standard deduction,
+
+"(B) the additional standard deduction,
+
+"(C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction,
+
+"(D) the disaster loss deduction, and
+
+"(E) the motor vehicle sales tax deduction."
+
+Subsec. (c)(7) to (9). Pub. L. 113–295, §221(a)(13)(B), struck out pars. (7) to (9) which related to real property tax deduction, disaster loss deduction, and motor vehicle sales tax deduction, respectively.
 
 <b>2009</b>—Subsec. (c)(1)(E). Pub. L. 111–5, §1008(c)(1), added subpar. (E).
 
@@ -316,6 +306,10 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 
 <b>1977</b>—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, "General rule" and "Individuals electing standard deduction" to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, "Corporations", "Individuals", "Excess itemized deductions", "Zero bracket amount", "Unused zero bracket amount", "Itemized deductions", "Election to itemize", and "Marital status".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–5 applicable to purchases on or after Feb. 17, 2009, in taxable years ending after such date, see section 1008(e) of Pub. L. 111–5, set out as a note under section 56 of this title.
@@ -384,7 +378,7 @@ Amendment by Pub. L. 95–600 effective with respect to taxable years beginning 
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Savings Provision
 

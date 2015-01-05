@@ -10,7 +10,7 @@ The Foundation is authorized to—
 
 &emsp;&emsp;(C) provide traineeship and fellowship opportunities for women in science and engineering;
 
-&emsp;(2) support programs in science, engineering, and mathematics in elementary and secondary schools so as to stimulate the acquisition of knowledge, skills, and information by female students and to increase female student awareness of career opportunities requiring scientific and engineering skills;
+&emsp;(2) support programs in science, engineering, and mathematics in elementary and secondary schools so as to stimulate the acquisition of knowledge, skills, and information by femalestudents and to increase female student awareness of career opportunities requiring scientific and engineering skills;
 
 &emsp;(3) support activities in continuing education in science and engineering which provide opportunities for women who—
 
@@ -270,7 +270,7 @@ Contract Authority.—To the extent provided in advance in appropriations Acts, 
 
 "(a)
 
-In General.—Nothing in this Act shall be construed to require any non-Federal entity (such as abusiness, college or university, foundation, or research organization) to provide information to the Commission concerning such entity's personnel policies, including salaries and benefits, promotion criteria, and affirmative action plans.
+In General.—Nothing in this Act shall be construed to require any non-Federal entity (such as a business, college or university, foundation, or research organization) to provide information to the Commission concerning such entity's personnel policies, including salaries and benefits, promotion criteria, and affirmative action plans.
 
 "(b)
 

@@ -12,19 +12,17 @@
 
 &emsp;(1) The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to section 181 of this title.
 
-&emsp;(2) The cost estimate referred to in section 2366a(a)(4) <sup>1</sup> of this title.
+&emsp;(2) The cost estimate referred to in section 2366a(a)(6) of this title.
 
 &emsp;(3) The cost estimate referred to in section 2366b(a)(1)(C) of this title.
 
 &emsp;(4) The cost estimate within a baseline description as required by section 2435 of this title.
 
-(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b), May 22, 2009, 123 Stat. 1728.)
-
-#### References in Text
-
-Section 2366a(a)(4) of this title, referred to in subsec. (c)(2), was redesignated section 2366a(a)(7) of this title by Pub. L. 112–81, div. A, title VIII, §801(a)(1)(B), Dec. 31, 2011, 125 Stat. 1482.
+(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, §1071(f)(18), Dec. 19, 2014, 128 Stat. 3511.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–291 substituted "section 2366a(a)(6)" for "section 2366a(a)(4)".
 
 <b>2009</b>—Subsec. (a)(2). Pub. L. 111–23, §206(b)(1), inserted ", including all planned increments or spirals," after "an eventual total expenditure for procurement".
 
@@ -35,6 +33,26 @@ Subsec. (c). Pub. L. 111–23, §206(b)(2), added subsec. (c).
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
 <b>1992</b>—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted "$300,000,000" for "$200,000,000", "1990" for "1980" in two places, and "$1,800,000,000" for "$1,000,000,000", and added subsec. (b).
+
+#### Improving Analytic Support to Systems Acquisition and Allocation of Acquisition, Intelligence, Surveillance and Reconnaissance Assets
+
+Pub. L. 113–291, div. A, title X, §1058, Dec. 19, 2014, 128 Stat. 3501, provided that:
+
+"(a)
+
+Guidance.—Not later than 120 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall review and issue or revise guidance to components of the Department of Defense to improve the application of operations research and systems analysis to—
+
+&emsp;"(1) the requirements process for acquisition of major defense acquisition programs and major automated information systems; and
+
+&emsp;"(2) the allocation of intelligence, surveillance, and reconnaissance systems to the combatant commands.
+
+"(b)
+
+Briefing of Congress.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall brief—
+
+&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on any guidance issued or revised under subsection (a); and
+
+&emsp;"(2) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives on any guidance issued or revised under subsection (a)(2) relevant to intelligence."
 
 #### Limitation on use of Cost-Type Contracts
 
@@ -128,7 +146,7 @@ Elements.—The guidance required by subsection (a) shall, at a minimum—
 
 &emsp;"(2) require the military departments to retain each estimate of operating and support costs that is developed at any time during the life cycle of a major weapon system, together with supporting documentation used to develop the estimate;
 
-&emsp;"(3) require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system,to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;
+&emsp;"(3) require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;
 
 &emsp;"(4) establish standard requirements for the collection of data on operating and support costs for major weapon systems and require the military departments to revise their Visibility and Management of Operating and Support Costs (VAMOSC) systems to ensure that they collect complete and accurate data in compliance with such requirements and make such data available in a timely manner;
 
@@ -220,7 +238,7 @@ Pub. L. 111–23, title I, §102(b), May 22, 2009, 123 Stat. 1714, as amended by
 
 "(1)
 
-Plans.—The service acquisition executive of each military department and each Defense Agencywith responsibility for a major defense acquisition program shall develop and implement plans to ensure the military department or Defense Agency concerned has provided appropriate resources for each of the following:
+Plans.—The service acquisition executive of each military department and each Defense Agency with responsibility for a major defense acquisition program shall develop and implement plans to ensure the military department or Defense Agency concerned has provided appropriate resources for each of the following:
 
 &emsp;"(A) Developmental testing organizations with adequate numbers of trained personnel in order to—
 
@@ -294,7 +312,7 @@ Measures To Ensure Competition.—The measures to ensure competition, or the opt
 
 Additional Measures To Ensure Competition at Subcontract Level.—The Secretary shall take actions to ensure competition or the option of competition at the subcontract level on major defense acquisition programs by—
 
-&emsp;"(1) where appropriate, breaking out a major subsystem, conducting a separate competition for the subsystem, and providing the subsystem to the prime contractor as Government-furnished equipment;
+&emsp;"(1) where appropriate, breaking out a major subsystem, conducting a separate competition for thesubsystem, and providing the subsystem to the prime contractor as Government-furnished equipment;
 
 &emsp;"(2) requiring prime contractors to give full and fair consideration to qualified sources other than the prime contractor for the development or construction of major subsystems and components of major weapon systems;
 
@@ -304,7 +322,7 @@ Additional Measures To Ensure Competition at Subcontract Level.—The Secretary 
 
 "(d)
 
-Consideration of Competition Throughout Maintenance and Sustainment of Major Weapon Systems and Subsystems.—Whenever a decision regarding source of repair results in a plan to award a contractfor performance of maintenance and sustainment of a major weapon system or subsystem of a major weapon system, the Secretary shall take actions to ensure that, to the maximum extent practicable and consistent with statutory requirements, contracts for such maintenance and sustainment, or for components needed for such maintenance and sustainment, are awarded on a competitive basis and give full consideration to all sources (including sources that partner or subcontract with public or private sector repair activities).
+Consideration of Competition Throughout Maintenance and Sustainment of Major Weapon Systems and Subsystems.—Whenever a decision regarding source of repair results in a plan to award a contract for performance of maintenance and sustainment of a major weapon system or subsystem of a major weapon system, the Secretary shall take actions to ensure that, to the maximum extent practicable and consistent with statutory requirements, contracts for such maintenance and sustainment, or for components needed for such maintenance and sustainment, are awarded on a competitive basis and give full consideration to all sources (including sources that partner or subcontract with public or private sector repair activities).
 
 "(e)
 
@@ -506,7 +524,7 @@ Applicability.—The Secretary of Defense shall modify the guidance described in
 
 "(f)
 
-Major Defense Acquisition Program Defined.—In this section, the term 'major defense acquisition program' has the meaning given that term in section 2430(a) of title 10, United States Code."
+Major Defense Acquisition Program Defined.—In this section, the term 'major defense acquisitionprogram' has the meaning given that term in section 2430(a) of title 10, United States Code."
 
 #### Preservation of Tooling for Major Defense Acquisition Programs
 
@@ -608,7 +626,7 @@ Guidance on Tenure and Accountability of Program Managers Before Milestone B.—
 
 "(d)
 
-Guidance on Tenure and Accountability of Program Managers After Milestone B.—Not later than 180 days after the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure and accountability of program managers for the program execution period (from Milestone B approval (or Key Decision Point B approval in the case of a space program) until the delivery of the first production units of a program). The guidance issued pursuant to this subsection shall address, at a minimum—
+Guidance on Tenure and Accountability of Program Managers After Milestone B.—Not later than 180 days after the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure and accountability of program managers for the program execution period\(from Milestone B approval (or Key Decision Point B approval in the case of a space program) until the delivery of the first production units of a program). The guidance issued pursuant to this subsection shall address, at a minimum—
 
 &emsp;"(1) the need for a performance agreement between a program manager and the milestone decision authority for the program, setting forth expected parameters for cost, schedule, and performance, and appropriate commitments by the program manager and the milestone decision authority to ensure that such parameters are met;
 
@@ -710,7 +728,7 @@ Authority.—The Secretary of Defense is authorized to conduct major defense acq
 
 "(b)
 
-Limitation on Spiral Development Programs.—A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance with subsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretary of Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the military department or Defense Agency concerned, but such authority may not be further delegated.
+Limitation on Spiral Development Programs.—A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance with subsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretaryof Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the military department or Defense Agency concerned, but such authority may not be further delegated.
 
 "(c)
 
@@ -804,7 +822,7 @@ Operational Test and Evaluation.—The Secretary of Defense may waive the requir
 
 "(c)
 
-Selected Acquisition Reports.—The Secretary of Defense may waive the requirements of sections 2432and 2433 of title 10, United States Code, for such a defense acquisition program if the Secretary provides a single annual report to Congress at the end of each fiscal year that describes the status of the program in relation to the baseline description for the program established under section 2435 of such title."
+Selected Acquisition Reports.—The Secretary of Defense may waive the requirements of sections 2432 and 2433 of title 10, United States Code, for such a defense acquisition program if the Secretary provides a single annual report to Congress at the end of each fiscal year that describes the status of the program in relation to the baseline description for the program established under section 2435 of such title."
 
 Pub. L. 103–355, title V, §5064, Oct. 13, 1994, 108 Stat. 3359, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VIII, §801(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–202, 1654A–203, provided that:
 
@@ -995,6 +1013,4 @@ Pub. L. 111–23, §2, May 22, 2009, 123 Stat. 1704, provided that: "In this Act
 &emsp;"(2) The term 'major defense acquisition program' has the meaning given that term in section 2430 of title 10, United States Code.
 
 &emsp;"(3) The term 'major weapon system' has the meaning given that term in section 2379(d) \[probably means section 2379(f)\] of title 10, United States Code."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

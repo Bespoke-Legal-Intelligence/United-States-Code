@@ -12,15 +12,15 @@ In order to recruit or retain qualified personnel, the Chief of the Capitol Poli
 
 #### (1) Application of regulations under executive branch program
 
-&emsp;In carrying out subsection (a)(1) of this section, the Chief of the Capitol Police may, by regulation, make applicable such provisions of section 5379 of title 5 as the Chief determines necessary to provide for such program.
+&emsp;In carrying out subsection (a)(1), the Chief of the Capitol Police may, by regulation, make applicable such provisions of section 5379 of title 5 as the Chief determines necessary to provide for such program.
 
 #### (2) Restrictions on prior reimbursements
 
-&emsp;The Capitol Police may not reimburse any individual under subsection (a)(1) of this section for any repayments made by the individual prior to entering into an agreement with the Capitol Police to participate in the program under this section.
+&emsp;The Capitol Police may not reimburse any individual under subsection (a)(1) for any repayments made by the individual prior to entering into an agreement with the Capitol Police to participate in the program under this section.
 
 #### (3) Use of recovered amounts
 
-&emsp;Any amount repaid by, or recovered from, an individual under subsection (a)(1) of this section and its implementing regulations shall be credited to the appropriation account available for salaries or general expenses of the Capitol Police at the time of repayment or recovery. Such credited amount may be used for any authorized purpose of the account and shall remain available until expended.
+&emsp;Any amount repaid by, or recovered from, an individual under subsection (a)(1) and its implementing regulations shall be credited to the appropriation account available for salaries or general expenses of the Capitol Police at the time of repayment or recovery. Such credited amount may be used for any authorized purpose of the account and shall remain available until expended.
 
 #### (c) Limit on amount of payments
 
@@ -46,5 +46,5 @@ Section was classified to section 207b–1 of former Title 40, prior to the enac
 
 #### Deadline for Regulations
 
-Pub. L. 108–7, div. H, title I, §1020, Feb. 20, 2003, 117 Stat. 370, provided that: “Not later than 60 days after the date of the enactment of this Act \[Feb. 20, 2003\], the Chief of the Capitol Police shall promulgate any regulations required by sections 1004, 1006, 1007, and 1011 of this Act \[enacting section 1931 of this title and amending this section and section 1927 of this title\].”
+Pub. L. 108–7, div. H, title I, §1020, Feb. 20, 2003, 117 Stat. 370, provided that: "Not later than 60 days after the date of the enactment of this Act \[Feb. 20, 2003\], the Chief of the Capitol Police shall promulgate any regulations required by sections 1004, 1006, 1007, and 1011 of this Act \[enacting section 1931 of this title and amending this section and section 1927 of this title\]."
 

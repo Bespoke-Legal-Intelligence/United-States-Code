@@ -30,7 +30,7 @@ The collection of amounts under subsection (c) of this section shall cease after
 
 &emsp;(1) 15 years after October 24, 1992; or
 
-&emsp;(2) the collection of $2,250,000,000 (to be annually adjusted for inflation using the Consumer Price Index for all-urban consumers publishedby the Department of Labor) under such subsection.
+&emsp;(2) the collection of $2,250,000,000 (to be annually adjusted for inflation using the Consumer Price Index for all-urban consumers published by the Department of Labor) under such subsection.
 
 #### (f) Continuation of deposits
 

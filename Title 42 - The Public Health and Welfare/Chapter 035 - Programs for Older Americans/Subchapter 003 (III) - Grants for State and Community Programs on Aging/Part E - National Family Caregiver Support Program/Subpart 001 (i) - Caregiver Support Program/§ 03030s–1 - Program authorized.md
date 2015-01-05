@@ -62,7 +62,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 #### (1) In general
 
-&emsp;(A) From sums appropriated under section 3023(e) of this title for fiscal years 2007, 2008, 2009, 2010, and 2011, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
+&emsp;(A) From sums appropriated under section 3023(e) of this title for fiscal years 2007, 2008,2009, 2010, and 2011, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
 
 &emsp;(B) In determining the amounts allotted to States from the sums appropriated under section 3023 of this title for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under subparagraph (A) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (2).
 
@@ -100,7 +100,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 &emsp;&emsp;A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to grandparents and older individuals who are relative caregivers of a child who is not more than 18 years of age.
 
-(Pub. L. 89–73, title III, §373, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat.2254; amended Pub. L. 109–365, title III, §321, Oct. 17, 2006, 120 Stat. 2551.)
+(Pub. L. 89–73, title III, §373, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2254; amended Pub. L. 109–365, title III, §321, Oct. 17, 2006, 120 Stat. 2551.)
 
 #### Amendments
 

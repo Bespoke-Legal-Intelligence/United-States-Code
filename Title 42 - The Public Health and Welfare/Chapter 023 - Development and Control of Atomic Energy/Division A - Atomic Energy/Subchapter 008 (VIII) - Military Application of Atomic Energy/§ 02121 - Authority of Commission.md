@@ -82,7 +82,7 @@ Composition and Administration of Panel.—(1) The panel shall consist of privat
 
 Duties of Panel.—Each year the panel shall review and assess the following:
 
-&emsp;"(1) The annual certification process, including the conclusions and recommendations resulting from the process, for the safety, security, and reliability of thenuclear weapons stockpile of the United States, as carried out by the directors of the national weapons laboratories.
+&emsp;"(1) The annual certification process, including the conclusions and recommendations resulting from the process, for the safety, security, and reliability of the nuclear weapons stockpile of the United States, as carried out by the directors of the national weapons laboratories.
 
 &emsp;"(2) The long-term adequacy of the process of certifying the safety, security, and reliability of the nuclear weapons stockpile of the United States.
 
@@ -154,7 +154,7 @@ Duties.—(1) The Commission shall develop a plan for recruiting and retaining w
 
 "(2) In developing the plan, the Commission shall—
 
-&emsp;"(A) identify actions that the Secretary may undertake to attract qualified scientific, engineering, and technical personnel to the nuclear weapons complex of the Department; and
+&emsp;"(A) identify actions that the Secretary may undertake to attract qualified scientific, engineering, andtechnical personnel to the nuclear weapons complex of the Department; and
 
 &emsp;"(B) review and recommend improvements to the on-going efforts of the Department to attract such personnel to the nuclear weapons complex.
 
@@ -220,7 +220,7 @@ Pub. L. 103–160, div. C, title XXXI, §3136, Nov. 30, 1993, 107 Stat. 1946, ex
 
 Pub. L. 105–85, div. C, title XXXI, §3156, Nov. 18, 1997, 111 Stat. 2045, expressed findings of Congress and policy of United States about the direction and conduct of the stockpile stewardship program, prior to repeal by Pub. L. 105–261, div. C, title XXXI, §3157, Oct. 17, 1998, 112 Stat. 2257.
 
-Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4201 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2521 of Title 50, War and National Defense.
+Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946, as amended by Pub. L. 105–85, div. C, titleXXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4201 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2521 of Title 50, War and National Defense.
 
 #### Limitations on United States Nuclear Weapons Testing
 
@@ -322,5 +322,5 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 #### Nuclear Test Ban Readiness Program
 
-Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, which wasformerly set out as a note under this section, was renumbered section 4207 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2527 of Title 50, War and National Defense.
+Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4207 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2527 of Title 50, War and National Defense.
 

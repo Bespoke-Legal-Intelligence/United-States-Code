@@ -79,15 +79,15 @@
 | [<b>36.</b>](Chapter%20036%20-%20Forest%20and%20Rangeland%20Renewable%20Resources%20Planning/README.md) | <b>Forest and Rangeland Renewable Resources Planning</b> | <b>1600</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Youth%20Conservation%20Corps%20and%20Public%20Lands%20Corps/README.md) | <b>Youth Conservation Corps and Public Lands Corps</b> | <b>1701</b> |
 | [<b>38.</b>](Chapter%20038%20-%20Fishery%20Conservation%20and%20Management/README.md) | <b>Fishery Conservation and Management</b> | <b>1801</b> |
-| [<b>39.</b>](Chapter%20039%20-%20Mining%20Activity%20Within%20National%20Park%20System%20Areas/README.md) | <b>Mining Activity Within National Park System Areas</b> | <b>1901</b> |
+| [<b>39.</b>](Chapter%20039%20-%20Mining%20Activity%20Within%20National%20Park%20System%20Areas/README.md) | <b>Mining Activity Within National Park System Areas \[Repealed\]</b> | <b>1901</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Soil%20and%20Water%20Resources%20Conservation/README.md) | <b>Soil and Water Resources Conservation</b> | <b>2001</b> |
 | [<b>41.</b>](Chapter%20041%20-%20Cooperative%20Forestry%20Assistance/README.md) | <b>Cooperative Forestry Assistance</b> | <b>2101</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Emergency%20Conservation%20Program/README.md) | <b>Emergency Conservation Program</b> | <b>2201</b> |
-| [<b>43.</b>](Chapter%20043%20-%20Public%20Transportation%20Programs%20for%20National%20Park%20System%20Areas/README.md) | <b>Public Transportation Programs for National Park System Areas</b> | <b>2301</b> |
+| [<b>43.</b>](Chapter%20043%20-%20Public%20Transportation%20Programs%20for%20National%20Park%20System%20Areas/README.md) | <b>Public Transportation Programs for National Park System Areas \[Omitted, Transferred, or Repealed\]</b> | <b>2301</b> |
 | [<b>44.</b>](Chapter%20044%20-%20Antarctic%20Conservation/README.md) | <b>Antarctic Conservation</b> | <b>2401</b> |
 | [<b>44A.</b>](Chapter%20044A%20-%20Antarctic%20Marine%20Living%20Resources%20Convention/README.md) | <b>Antarctic Marine Living Resources Convention</b> | <b>2431</b> |
 | [<b>44B.</b>](Chapter%20044B%20-%20Antarctic%20Mineral%20Resources%20Protection/README.md) | <b>Antarctic Mineral Resources Protection</b> | <b>2461</b> |
-| [<b>45.</b>](Chapter%20045%20-%20Urban%20Park%20and%20Recreation%20Recovery%20Program/README.md) | <b>Urban Park and Recreation Recovery Program</b> | <b>2501</b> |
+| [<b>45.</b>](Chapter%20045%20-%20Urban%20Park%20and%20Recreation%20Recovery%20Program/README.md) | <b>Urban Park and Recreation Recovery Program \[Omitted, Transferred, or Repealed\]</b> | <b>2501</b> |
 | [<b>46.</b>](Chapter%20046%20-%20Public%20Utility%20Regulatory%20Policies/README.md) | <b>Public Utility Regulatory Policies</b> | <b>2601</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Small%20Hydroelectric%20Power%20Projects/README.md) | <b>Small Hydroelectric Power Projects</b> | <b>2701</b> |
 | [<b>48.</b>](Chapter%20048%20-%20National%20Aquaculture%20Policy%2C%20Planning%2C%20and%20Development/README.md) | <b>National Aquaculture Policy, Planning, and Development</b> | <b>2801</b> |
@@ -122,12 +122,12 @@
 | [<b>71A.</b>](Chapter%20071A%20-%20Atlantic%20Striped%20Bass%20Conservation/README.md) | <b>Atlantic Striped Bass Conservation</b> | <b>5151</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Recreational%20Hunting%20Safety/README.md) | <b>Recreational Hunting Safety</b> | <b>5201</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Rhinoceros%20and%20Tiger%20Conservation/README.md) | <b>Rhinoceros and Tiger Conservation</b> | <b>5301</b> |
-| [<b>74.</b>](Chapter%20074%20-%20National%20Maritime%20Heritage/README.md) | <b>National Maritime Heritage</b> | <b>5401</b> |
+| [<b>74.</b>](Chapter%20074%20-%20National%20Maritime%20Heritage/README.md) | <b>National Maritime Heritage \[Omitted or Repealed\]</b> | <b>5401</b> |
 | [<b>75.</b>](Chapter%20075%20-%20High%20Seas%20Fishing%20Compliance/README.md) | <b>High Seas Fishing Compliance</b> | <b>5501</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Northwest%20Atlantic%20Fisheries%20Convention/README.md) | <b>Northwest Atlantic Fisheries Convention</b> | <b>5601</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md) | <b>Yukon River Salmon</b> | <b>5701</b> |
 | [<b>78.</b>](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md) | <b>National Natural Resources Conservation Foundation</b> | <b>5801</b> |
-| [<b>79.</b>](Chapter%20079%20-%20National%20Park%20Service%20Management/README.md) | <b>National Park Service Management</b> | <b>5901</b> |
+| [<b>79.</b>](Chapter%20079%20-%20National%20Park%20Service%20Management/README.md) | <b>National Park Service Management \[Repealed\]</b> | <b>5901</b> |
 | [<b>80.</b>](Chapter%20080%20-%20Neotropical%20Migratory%20Bird%20Conservation/README.md) | <b>Neotropical Migratory Bird Conservation</b> | <b>6101</b> |
 | [<b>81.</b>](Chapter%20081%20-%20User%20Fees%20under%20Forest%20System%20Recreation%20Residence%20Program/README.md) | <b>User Fees Under Forest System Recreation Residence Program</b> | <b>6201</b> |
 | [<b>81A.</b>](Chapter%20081A%20-%20National%20Forest%20Organizational%20Camp%20Fee%20Improvement/README.md) | <b>National Forest Organizational Camp Fee Improvement</b> | <b>6231</b> |

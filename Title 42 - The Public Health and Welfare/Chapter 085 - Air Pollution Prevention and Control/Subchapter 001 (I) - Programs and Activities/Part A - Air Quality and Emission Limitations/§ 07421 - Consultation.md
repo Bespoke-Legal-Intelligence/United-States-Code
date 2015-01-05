@@ -12,7 +12,7 @@ In carrying out the requirements of this chapter requiring applicable implementa
 
 > and in carrying out the requirements of section 7413(d) <sup>1</sup> of this title (relating to certain enforcement orders), the State shall provide a satisfactory process of consultation with general purpose local governments, designated organizations of elected officials of local governments and any Federal land manager having authority over Federal land to which the State plan applies, effective with respect to any such requirement which is adopted more than one year after August 7, 1977, as part of such plan. Such process shall be in accordance with regulations promulgated by the Administrator to assure adequate consultation. The Administrator shall update as necessary the original regulations required and promulgated under this section (as in effect immediately before November 15, 1990) to ensure adequate consultation. Only a general purpose unit of local government, regional agency, or council of governments adversely affected by action of the Administrator approving any portion of a plan referred to in this subsection <sup>2</sup> may petition for judicial review of such action on the basis of a violation of the requirements of this section.
 
-(July 14, 1955, ch. 360, title I, §121, as added Pub. L. 95–95, title I, §119, Aug. 7, 1977, 91 Stat. 719; amended Pub. L. 101–549, title I, §108(h), Nov. 15, 1990, 104 Stat. 2467.)
+(July 14, 1955, ch. 360, title I, §121, as added Pub. L. 95–95, title I, §119, Aug. 7, 1977, 91 Stat. 719;amended Pub. L. 101–549, title I, §108(h), Nov. 15, 1990, 104 Stat. 2467.)
 
 #### References in Text
 

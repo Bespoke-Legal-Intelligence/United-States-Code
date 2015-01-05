@@ -6,5 +6,5 @@ Nothing in this subchapter shall be applied in contravention of the provisions o
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–525 substituted “before December 25, 1952” for “upon the effective date of this subchapter”.
+<b>1988</b>—Pub. L. 100–525 substituted "before December 25, 1952" for "upon the effective date of this subchapter".
 

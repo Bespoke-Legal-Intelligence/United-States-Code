@@ -6,7 +6,7 @@
 
 &emsp;(2) which are in effect at the time this Act takes effect,
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed as the case may be, by theparties thereto or by any court of competent jurisdiction.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed as the case may be, by the parties thereto or by any court of competent jurisdiction.
 
 (b) Nothing in this Act shall affect the procedures or requirements applicable to agreements for cooperation entered into pursuant to sections 2121(c), 2164(b), or 2164(c) of this title or arrangements pursuant thereto as it was in effect immediately prior to March 10, 1978.
 

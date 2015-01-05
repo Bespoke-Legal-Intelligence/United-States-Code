@@ -6,17 +6,17 @@ During the period beginning on June 1, 2002, and ending on December 31, 2007, th
 
 #### (b) Rate
 
-During the period specified in subsection (a) of this section, the price of milk shall be supported at a rate equal to $9.90 per hundredweight for milk containing 3.67 percent butterfat.
+During the period specified in subsection (a), the price of milk shall be supported at a rate equal to $9.90 per hundredweight for milk containing 3.67 percent butterfat.
 
 #### (c) Purchase prices
 
 #### (1) Uniform prices
 
-&emsp;The support purchase prices under this section for each of the products of milk (butter, cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
+&emsp;The support purchase prices under this section for each of the products of milk (butter,cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
 
 #### (2) Sufficient prices
 
-&emsp;The purchase prices shall be sufficient to enable plants of average efficiency to pay producers, on average, a price that is not less than the rate of price support for milk in effect under subsection (b) of this section.
+&emsp;The purchase prices shall be sufficient to enable plants of average efficiency to pay producers, on average, a price that is not less than the rate of price support for milk in effect under subsection (b).
 
 #### (d) Special rule for butter and nonfat dry milk purchase prices
 

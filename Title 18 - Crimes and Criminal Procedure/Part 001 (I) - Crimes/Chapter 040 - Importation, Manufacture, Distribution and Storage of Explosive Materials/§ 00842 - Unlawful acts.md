@@ -4,7 +4,7 @@
 
 &emsp;(1) to engage in the business of importing, manufacturing, or dealing in explosive materials without a license issued under this chapter;
 
-&emsp;(2) knowingly to withhold information or to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive for the purpose ofobtaining explosive materials, or a license, permit, exemption, or relief from disability under the provisions of this chapter;
+&emsp;(2) knowingly to withhold information or to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive for the purpose of obtaining explosive materials, or a license, permit, exemption, or relief from disability under the provisions of this chapter;
 
 &emsp;(3) other than a licensee or permittee knowingly—
 
@@ -66,7 +66,7 @@
 
 (g) It shall be unlawful for any licensee or permittee knowingly to make any false entry in any record which he is required to keep pursuant to this section or regulations promulgated under section 847 of this title.
 
-(h) It shall be unlawful for any person to receive, possess, transport, ship, conceal, store, barter, sell, dispose of, or pledge or accept as security for a loan, any stolen explosive materials which are moving as, which are part of, which constitute, or which have been shipped or transported in, interstate or foreign commerce, either before or after such materials were stolen, knowing or having reasonable cause to believe that the explosive materials were stolen.
+(h) It shall be unlawful for any person to receive, possess, transport, ship, conceal, store, barter, sell, dispose of, or pledge or accept as security for a loan, any stolen explosive materials which are moving as, which are part of, which constitute, or which have been shipped or transported in, interstate or foreign commerce, eitherbefore or after such materials were stolen, knowing or having reasonable cause to believe that the explosive materials were stolen.
 
 (i) It shall be unlawful for any person—
 
@@ -116,7 +116,7 @@
 
 &emsp;(B) the shipment, transportation, transfer, receipt, or possession of any plastic explosive that was imported or brought into, or manufactured in the United States prior to the date of enactment of this subsection by or on behalf of any agency of the United States performing a military or police function (including any military reserve component) or by or on behalf of the National Guard of any State, not later than 15 years after the date of entry into force of the Convention on the Marking of Plastic Explosives, with respect to the United States.
 
-(o) It shall be unlawful for any person, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on the date of enactment of this subsection, to fail to report to the Attorney General within 120 days after such date of enactment the quantity of such explosives possessed, the manufacturer or importer, any marks of identification on such explosives, and such other information as the Attorney General may prescribe by regulation.
+(o) It shall be unlawful for any person, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on the date of enactment of this subsection, to fail to report to the Attorney General within 120 days after such date of enactment the quantity of such explosives possessed,the manufacturer or importer, any marks of identification on such explosives, and such other information as the Attorney General may prescribe by regulation.
 
 (p)
 

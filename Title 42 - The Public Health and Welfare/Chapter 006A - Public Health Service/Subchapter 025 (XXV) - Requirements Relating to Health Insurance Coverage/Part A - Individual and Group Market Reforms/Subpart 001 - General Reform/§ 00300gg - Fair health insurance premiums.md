@@ -138,7 +138,7 @@ Findings Relating to Exercise of Commerce Clause Authority.—Congress finds the
 
 &emsp;"(3) It is a necessary and proper exercise of Congressional authority to impose requirements under this title on group health plans and health insurance coverage (including coverage offered to individuals previously covered under group health plans) in order to promote commerce among the States.
 
-&emsp;"(4) Congress, however, intends to defer to States, to the maximum extent practicable, in carrying out such requirements with respect to insurers and health maintenance organizations that are subject toState regulation, consistent with the provisions of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\].
+&emsp;"(4) Congress, however, intends to defer to States, to the maximum extent practicable, in carrying out such requirements with respect to insurers and health maintenance organizations that are subject to State regulation, consistent with the provisions of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\].
 
 "(b)
 

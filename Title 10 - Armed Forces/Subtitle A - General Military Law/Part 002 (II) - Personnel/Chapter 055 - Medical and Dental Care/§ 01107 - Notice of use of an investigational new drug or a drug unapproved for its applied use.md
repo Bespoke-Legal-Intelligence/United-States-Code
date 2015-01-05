@@ -58,7 +58,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "investigational new drug" means a drug covered by section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)).
 
-&emsp;(2) The term "drug unapproved for its applied use" means a drug administered for a use not described in the approved labeling of the drug under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355).
+&emsp;(2) The term "drug unapproved for its applied use" means a drug administered for a usenot described in the approved labeling of the drug under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355).
 
 (Added Pub. L. 105–85, div. A, title VII, §766(a), Nov. 18, 1997, 111 Stat. 1827; amended Pub. L. 105–261, div. A, title VII, §731(a)(1), (b), Oct. 17, 1998, 112 Stat. 2070, 2071; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(7), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VII, §726(a), Oct. 28, 2004, 118 Stat. 1992.)
 
@@ -184,7 +184,7 @@ Sec. 5. <i>Training for Military Personnel</i>. (a) The DoD shall provide ongoin
 
 (d) The DoD shall keep operational commanders informed of the overall requirements of successful protocol execution and their role, with the support of medical personnel, in ensuring successful execution of the protocol.
 
-Sec. 6. <i>Scope</i>. (a) This order applies to the consideration and Presidential approval of a waiver of informed consent under 10 U.S.C. 1107 and does not apply to other FDA regulations.
+Sec. 6. <i>Scope</i>. (a) This order applies to the consideration and Presidential approval of a waiver of informedconsent under 10 U.S.C. 1107 and does not apply to other FDA regulations.
 
 (b) This order is intended only to improve the internal management of the Federal Government. Nothing contained in this order shall create any right or benefit, substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 

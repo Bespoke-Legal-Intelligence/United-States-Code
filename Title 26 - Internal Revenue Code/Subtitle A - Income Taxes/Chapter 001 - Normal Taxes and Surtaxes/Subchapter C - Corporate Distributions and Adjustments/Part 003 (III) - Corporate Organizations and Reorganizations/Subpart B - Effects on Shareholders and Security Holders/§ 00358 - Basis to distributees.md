@@ -30,7 +30,7 @@ In the case of an exchange to which section 351, 354, 355, 356, or 361 applies�
 
 #### (1) In general
 
-&emsp;Under regulations prescribed by the Secretary, the basis determined under subsection (a)(1) shall be allocated among the properties permitted to be received without the recognition of gain or loss.
+&emsp;Under regulations prescribed by the Secretary, the basis determined under subsection\(a)(1) shall be allocated among the properties permitted to be received without the recognition of gain or loss.
 
 #### (2) Special rule for section 355
 
@@ -104,7 +104,7 @@ In the case of a distribution to which section 355 (or so much of section 356 as
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §11801(c)(8)(G)(i), substituted "or 361" for "361, 371(b), or 374".
 
-Subsec. (b)(3). Pub. L. 101–508, §11801(c)(8)(G)(ii), struck out par. (3) "Certain exchanges involving ConRail" which read as follows: "To the extent provided in regulations prescribed by the Secretary in the case of an exchange to which section 354(d) (or so much of section 356 as relates to section 354(d)) or section 374(c) applies, for purposes of allocating basis under paragraph (1), stock of the Consolidated Rail Corporation and the certificate of value of the United States Railway Association which relates to such stock shall, so long as they are held by the same person, be treated as one property."
+Subsec. (b)(3). Pub. L. 101–508, §11801(c)(8)(G)(ii), struck out par. (3) "Certain exchanges involving ConRail" which read as follows: "To the extent provided in regulations prescribed by the Secretary in the case of an exchange to which section 354(d) (or so much of section 356 as relates to section 354(d)) or section 374(c) applies, for purposes of allocating basis under paragraph (1), stock of the Consolidated Rail Corporation and thecertificate of value of the United States Railway Association which relates to such stock shall, so long as they are held by the same person, be treated as one property."
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–647 added subsec. (f).
 

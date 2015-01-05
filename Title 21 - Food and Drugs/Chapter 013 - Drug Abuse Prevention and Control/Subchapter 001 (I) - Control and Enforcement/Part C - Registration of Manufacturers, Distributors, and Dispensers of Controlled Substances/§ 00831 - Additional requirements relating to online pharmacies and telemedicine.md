@@ -30,7 +30,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 #### (1) In general
 
-&emsp;Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in such form and manner as the Attorney General shall determine, and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
+&emsp;Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in such form and manner as the Attorney General shall determine,and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
 
 #### (2) Contents
 
@@ -82,7 +82,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 &emsp;&emsp;&emsp;(i) is exempted from such registration in all States under section 822(d) of this title; or
 
-&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of VeteransAffairs registered under section 823(f) of this title.
+&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title.
 
 #### (2) Regulations
 
@@ -100,7 +100,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (2) To Attorney General
 
-&emsp;Not later than 30 days after the date that a prescription described in subparagraph (A) is issued, the Secretary of Veterans Affairs shall report to the Attorney General the authorization of that emergency prescription.
+&emsp;Not later than 30 days after the date that a prescription described in subparagraph (A) isissued, the Secretary of Veterans Affairs shall report to the Attorney General the authorization of that emergency prescription.
 
 #### (j) Clarification concerning prescription transfers
 

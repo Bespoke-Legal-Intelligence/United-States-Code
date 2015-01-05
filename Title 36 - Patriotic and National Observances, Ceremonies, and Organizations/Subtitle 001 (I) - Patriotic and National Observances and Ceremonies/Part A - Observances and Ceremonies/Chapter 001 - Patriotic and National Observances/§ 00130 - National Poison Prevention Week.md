@@ -26,7 +26,7 @@ Proc. No. 8484, Mar. 15, 2010, 75 F.R. 13215, provided:
 
 Since 1962, during National Poison Prevention Week we alert American families about the dangers of accidental poisonings and provide information on safety measures that can prevent senseless injuries and deaths. With nearly two million poison exposures reported each year, we must take every precaution to guard against these preventable tragedies.
 
-Sadly, more than half of all reported poisonings involve children under the age of six, and the vast majority take place in the home. Parents should keep household chemicals and medicines in child-proof containers, beyond the reach of their children. Thanks to safety regulations and awareness campaigns like NationalPoison Prevention Week, childhood death rates from unintentional poisonings have fallen considerably. However, adult death rates have steadily risen in recent years.
+Sadly, more than half of all reported poisonings involve children under the age of six, and the vast majority take place in the home. Parents should keep household chemicals and medicines in child-proof containers, beyond the reach of their children. Thanks to safety regulations and awareness campaigns like National Poison Prevention Week, childhood death rates from unintentional poisonings have fallen considerably. However, adult death rates have steadily risen in recent years.
 
 We must each remember to read labels thoroughly before taking medications, to keep medicines in their original packaging, and to dispose of them properly. Consulting a physician before combining prescription drugs or using them with alcohol also reduces our risks.
 

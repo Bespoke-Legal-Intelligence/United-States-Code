@@ -28,7 +28,7 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (2) Credit in excess of fair market value
 
-&emsp;Each advertisement described in subsection (a) of this section that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
+&emsp;Each advertisement described in subsection (a) of this section that relates to an extensionof credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
 
 &emsp;&emsp;(A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
 

@@ -86,7 +86,7 @@ During the period October 1, 1996, through September 30, 2001, the total new pri
 
 #### (2) Payment
 
-&emsp;The Administrator is not required to pay, during construction of the project, facility, or separable unit or feature, the interest calculated, accrued, and capitalized under subsection (f)(1) of this section.
+&emsp;The Administrator is not required to pay, during construction of the project, facility, orseparable unit or feature, the interest calculated, accrued, and capitalized under subsection (f)(1) of this section.
 
 #### (3) One-year rate
 
@@ -130,7 +130,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### (1) Repayment
 
-&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and topay interest on the principal, only from the "Administrator's net proceeds," as defined in section 838k(b) of this title.
+&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and to pay interest on the principal, only from the "Administrator's net proceeds," as defined in section 838k(b) of this title.
 
 #### (2) Payment of capital investment
 

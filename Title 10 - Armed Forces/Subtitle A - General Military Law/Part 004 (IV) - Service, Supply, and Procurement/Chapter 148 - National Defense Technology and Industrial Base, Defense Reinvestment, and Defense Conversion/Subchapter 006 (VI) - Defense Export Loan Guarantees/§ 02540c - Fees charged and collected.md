@@ -18,7 +18,7 @@ Administrative Fees.—(1) The Secretary of Defense shall charge a fee for each 
 
 (2)(A) If for any fiscal year amounts in the special account established under paragraph (1) are not available (or are not anticipated to be available) in a sufficient amount for administrative expenses of the Department of Defense for that fiscal year that are directly attributable to the administration of the program under this subchapter, the Secretary may use amounts currently available for operations and maintenance for Defense-wide activities, not to exceed $500,000 in any fiscal year, for those expenses.
 
-(B) The Secretary shall, from funds in the special account established under paragraph (1), replenish operations and maintenance accountsfor amounts expended under subparagraph (A) as soon as the Secretary determines practicable.
+(B) The Secretary shall, from funds in the special account established under paragraph (1), replenish operations and maintenance accounts for amounts expended under subparagraph (A) as soon as the Secretary determines practicable.
 
 (Added Pub. L. 104–106, div. A, title XIII, §1321(a)(1), Feb. 10, 1996, 110 Stat. 476; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1081(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–284.)
 

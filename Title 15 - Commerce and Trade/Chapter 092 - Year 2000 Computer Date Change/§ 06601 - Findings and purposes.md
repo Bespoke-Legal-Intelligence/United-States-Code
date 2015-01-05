@@ -8,7 +8,7 @@ The Congress finds the following:
 
 &emsp;(B) If not corrected, the problem described in subparagraph (A) and resulting failures could incapacitate systems that are essential to the functioning of markets, commerce, consumer products, utilities, Government, and safety and defense systems, in the United States and throughout the world.
 
-&emsp;(2) It is in the national interest that producers and users of technology products concentrate their attention and resources in the time remaining before January 1, 2000, on assessing, fixing, testing, and developing contingency plans to address any and all outstanding year 2000 computer date-change problems, so as to minimize possible disruptions associated with computer failures.
+&emsp;(2) It is in the national interest that producers and users of technology products concentrate their attention and resources in thetime remaining before January 1, 2000, on assessing, fixing, testing, and developing contingency plans to address any and all outstanding year 2000 computer date-change problems, so as to minimize possible disruptions associated with computer failures.
 
 &emsp;(3)(A) Because year 2000 computer date-change problems may affect virtually all businesses and other users of technology products to some degree, there is a substantial likelihood that actual or potential year 2000 failures will prompt a significant volume of litigation, much of it insubstantial.
 
@@ -42,7 +42,7 @@ Based upon the power of the Congress under Article I, Section 8, Clause 3 of the
 
 &emsp;(3) to encourage private and public parties alike to resolve disputes relating to year 2000 computer date-change problems by alternative dispute mechanisms in order to avoid costly and time-consuming litigation, to initiate those mechanisms as early as possible, and to encourage the prompt identification and correction of such problems; and
 
-&emsp;(4) to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals andbusinesses that have suffered real injury to obtain complete relief.
+&emsp;(4) to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals and businesses that have suffered real injury to obtain complete relief.
 
 (Pub. L. 106–37, §2, July 20, 1999, 113 Stat. 185.)
 

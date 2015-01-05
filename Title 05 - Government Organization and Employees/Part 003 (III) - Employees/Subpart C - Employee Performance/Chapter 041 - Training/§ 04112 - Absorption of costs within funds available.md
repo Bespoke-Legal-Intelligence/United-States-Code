@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 July 7, 1958, Pub. L. 85–507, §23, 72 Stat. 338.
 
-In subsection (a), the words “for each fiscal year” are substituted for “for the fiscal year in which this chapter is enacted and for each succeeding fiscal year”.
+In subsection (a), the words "for each fiscal year" are substituted for "for the fiscal year in which this chapter is enacted and for each succeeding fiscal year".
 
 In subsection (b), the prohibition is restated in positive form.
 
@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted "President" for "Director of the Bureau of the Budget".
 
 #### Effective Date of 1979 Amendment
 

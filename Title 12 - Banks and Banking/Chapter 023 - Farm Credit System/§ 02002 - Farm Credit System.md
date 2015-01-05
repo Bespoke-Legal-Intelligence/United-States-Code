@@ -68,7 +68,7 @@ In general.—Not later than 6 months after the date of the enactment of this se
 
 &emsp;&emsp;"(B)
 
-Composition.—The special committee selected under subparagraph (A) shall be composed of one representative from each Farm Credit Bank board and the members of the Board of Directors of the Assistance Board.
+Composition.—The special committee selected under subparagraph (A) shall be composed of one representative from each Farm Credit Bankboard and the members of the Board of Directors of the Assistance Board.
 
 &emsp;"(2)
 

@@ -6,7 +6,7 @@ Grants shall be made under this subchapter only in response to applications by t
 
 #### (b) Determination of support; factors considered
 
-The Secretary shall consult with the Secretary of Education to determine the reasonablenumber of students required to support a tribally controlled college or university. Consideration shall be given to such factors as tribal and cultural differences, isolation, the presence of alternate education sources, and proposed curriculum.
+The Secretary shall consult with the Secretary of Education to determine the reasonable number of students required to support a tribally controlled college or university. Consideration shall be given to such factors as tribal and cultural differences, isolation, the presence of alternate education sources, and proposed curriculum.
 
 #### (c) Priority and number of grants
 

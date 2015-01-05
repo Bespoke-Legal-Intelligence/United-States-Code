@@ -6,7 +6,7 @@ Section 6362, added Pub. L. 92–512, title II, §202(a), Oct. 20, 1972, 86 Stat
 
 Section 6363, added Pub. L. 92–512, title II, §202(a), Oct. 20, 1972, 86 Stat. 942; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–620, title IV, §402(28)(C), Nov. 8, 1984, 98 Stat. 3359, related to State agreements and other procedures.
 
-Section 6364, added Pub. L. 92–512, title II, §202(a), Oct. 20, 1972, 86 Stat. 944; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, authorized Secretary to prescribe regulations for this subchapter.
+Section 6364, added Pub. L. 92–512, title II, §202(a), Oct. 20, 1972, 86 Stat. 944; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, authorized Secretary to prescribe regulations for this subchapter.
 
 Section 6365, added Pub. L. 92–512, title II, §202(a), Oct. 20, 1972, 86 Stat. 944; amended Pub. L. 94–455, title XIX, §1906(a)(21), Oct. 4, 1976, 90 Stat. 1826; Pub. L. 97–248, title III, §§307(a)(8), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369, set forth definitions and special rules for this subchapter.
 

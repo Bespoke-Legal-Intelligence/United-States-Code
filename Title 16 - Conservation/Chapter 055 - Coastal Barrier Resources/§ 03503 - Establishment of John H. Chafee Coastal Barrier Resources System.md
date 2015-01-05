@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled "Coastal Barrier Resources System", dated October 24, 1990, as those maps may be modified, revised, or corrected under—
+There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers andother areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled "Coastal Barrier Resources System", dated October 24, 1990, as those maps may be modified, revised, or corrected under—
 
 &emsp;(1) subsection (f)(3) of this section;
 
@@ -86,7 +86,7 @@ The Secretary shall—
 
 &emsp;Nothing in this subsection supersedes the official maps referred to in subsection (a) of this section.
 
-(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395.)
+(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999,113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395.)
 
 #### Codification
 
@@ -178,7 +178,7 @@ Contents.—The report required under subsection (a) shall contain—
 
 &emsp;"(3) a summary of the comments received from the Governors of the States, other government officials, and the public regarding the digital maps;
 
-&emsp;"(4) a summary and update of the protocols and findings of the report required under section 6(d) of the Coastal Barrier Resources Reauthorization Act of 2000 (16 U.S.C. 3503 note; Public Law 106–514); and
+&emsp;"(4) a summary and update of the protocols and findings of the report required under section 6(d) ofthe Coastal Barrier Resources Reauthorization Act of 2000 (16 U.S.C. 3503 note; Public Law 106–514); and
 
 &emsp;"(5) an analysis of any benefits that the public would receive by using digital mapping technology for all System units and otherwise protected areas.
 
@@ -369,6 +369,8 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 #### Revision of Maps for Units of System
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+
+Pub. L. 113–253, Dec. 18, 2014, 128 Stat. 2895.
 
 Pub. L. 110–419, §1, Oct. 15, 2008, 122 Stat. 4773.
 

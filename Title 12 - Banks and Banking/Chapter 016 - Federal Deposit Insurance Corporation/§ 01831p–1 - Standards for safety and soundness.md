@@ -16,7 +16,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;&emsp;(E) asset growth; and
 
-&emsp;&emsp;(F) compensation, fees, and benefits, in accordance with subsection (c) of this section; and
+&emsp;&emsp;(F) compensation, fees, and benefits, in accordance with subsection (c); and
 
 &emsp;(2) such other operational and managerial standards as the agency determines to be appropriate.
 
@@ -56,7 +56,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 #### (1) In general
 
-&emsp;Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation or guideline. Such regulations or guidelines may not prescribe standards that set a specific level or range of compensation for directors, officers, or employees of insured depository institutions.
+&emsp;Standards under subsections (a), (b), and (c) shall be prescribed by regulation or guideline. Such regulations or guidelines may not prescribe standards that set a specific level or range of compensation for directors, officers, or employees of insured depository institutions.
 
 #### (2) Applicability of other laws
 
@@ -64,7 +64,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 #### (3) Senior executive officers at undercapitalized institutions
 
-&emsp;Paragraph (1) shall not affect the authority of any appropriate Federal banking agency torestrict compensation paid to any senior executive officer of an undercapitalized insured depository institution pursuant to section 1831o of this title.
+&emsp;Paragraph (1) shall not affect the authority of any appropriate Federal banking agency to restrict compensation paid to any senior executive officer of an undercapitalized insured depository institution pursuant to section 1831o of this title.
 
 #### (4) Safety and soundness or enforcement actions
 
@@ -80,7 +80,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 #### (A) In general
 
-&emsp;&emsp;If the appropriate Federal banking agency determines that an insured depository institution fails to meet any standard prescribed under subsection (a) or (b) of this section—
+&emsp;&emsp;If the appropriate Federal banking agency determines that an insured depository institution fails to meet any standard prescribed under subsection (a) or (b)—
 
 &emsp;&emsp;&emsp;(i) if such standard is prescribed by regulation of the agency, the agency shall require the institution to submit an acceptable plan to the agency within the time allowed by the agency under subparagraph (C); and
 
@@ -94,7 +94,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;&emsp;The appropriate Federal banking agency shall by regulation establish deadlines that—
 
-&emsp;&emsp;&emsp;(i) provide institutions with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c) of this section; and
+&emsp;&emsp;&emsp;(i) provide institutions with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c); and
 
 &emsp;&emsp;&emsp;(ii) require the agency to act on plans expeditiously, and generally not later than 30 days after the plan is submitted.
 
@@ -118,7 +118,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;In complying with paragraph (2), the appropriate Federal banking agency shall take 1 or more of the actions described in clauses (i) through (iii) of paragraph (2)(B) if—
 
-&emsp;&emsp;(A) the agency determines that the insured depository institution fails to meet any standard prescribed under subsection (a)(1) or (b)(1) of this section;
+&emsp;&emsp;(A) the agency determines that the insured depository institution fails to meet any standard prescribed under subsection (a)(1) or (b)(1);
 
 &emsp;&emsp;(B) the institution has not corrected the deficiency; and
 
@@ -168,7 +168,7 @@ Subsec. (d). Pub. L. 103–325, §318(b)(1), struck out "by regulation" after "S
 
 Subsec. (d)(1). Pub. L. 103–325, §318(b)(2), inserted "or guideline" before period at end of first sentence and inserted "or guidelines" after "Such regulations" in second sentence.
 
-Subsec. (e)(1)(A). Pub. L. 103–325, §318(c)(2)(A)–(C), struck out "or depository institution holding company" after "insured depository institution", substituted "or (b) of this section—
+Subsec. (e)(1)(A). Pub. L. 103–325, §318(c)(2)(A)–(C), struck out "or depository institution holding company" after "insured depository institution", substituted "or (b)—
 
 &emsp;"(i) if such standard is prescribed by regulation of the agency, the agency shall require"
 

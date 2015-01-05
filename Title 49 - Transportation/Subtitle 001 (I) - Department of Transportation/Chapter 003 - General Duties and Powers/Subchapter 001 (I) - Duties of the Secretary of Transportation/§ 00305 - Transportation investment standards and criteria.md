@@ -1,6 +1,6 @@
 ### §305. Transportation investment standards and criteria
 
-(a) Subject to sections 301–304 <sup>1</sup> of this title, the Secretary of Transportation shall develop standards and criteria to formulate and economically evaluate all proposals for investing amounts of the United States Government in transportation facilities and equipment. Basedon experience, the Secretary shall revise the standards and criteria. When approved by Congress, the Secretary shall prescribe standards and criteria developed or revised under this subsection. This subsection does not apply to—
+(a) Subject to sections 301–304 <sup>1</sup> of this title, the Secretary of Transportation shall develop standards and criteria to formulate and economically evaluate all proposals for investing amounts of the United States Government in transportation facilities and equipment. Based on experience, the Secretary shall revise the standards and criteria. When approved by Congress, the Secretary shall prescribe standards and criteria developed or revised under this subsection. This subsection does not apply to—
 
 &emsp;(1) the acquisition of transportation facilities or equipment by a department, agency, or instrumentality of the Government to provide transportation for its use;
 

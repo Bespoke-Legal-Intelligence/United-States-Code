@@ -6,19 +6,7 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 
 #### (b) Tier 2 tax
 
-#### (1) In general
-
-&emsp;In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the applicable percentage of the compensation paid during any calendar year by such employer for services rendered to such employer.
-
-#### (2) Applicable percentage
-
-&emsp;For purposes of paragraph (1), the term "applicable percentage" means—
-
-&emsp;&emsp;(A) 15.6 percent in the case of compensation paid during 2002,
-
-&emsp;&emsp;(B) 14.2 percent in the case of compensation paid during 2003, and
-
-&emsp;&emsp;(C) in the case of compensation paid during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the percentage determined under section 3241 for any calendar year of the compensation paid during such calendar year by such employer for services rendered to such employer.
 
 #### (c) Special rate for certain individuals hired in 2010
 
@@ -60,13 +48,15 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 
 &emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §202, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, §301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, §102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, §501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, §203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, §741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(c), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 107–90, title II, §§203(b), 204(a), Dec. 21, 2001, 115 Stat. 891; Pub. L. 111–147, title I, §101(d)(1), Mar. 18, 2010, 124 Stat. 74.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §202, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, §301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, §102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, §501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, §203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, §741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(c), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 107–90, title II, §§203(b), 204(a), Dec. 21, 2001, 115 Stat. 891; Pub. L. 111–147, title I, §101(d)(1), Mar. 18, 2010, 124 Stat. 74; Pub. L. 113–295, div. A, title II, §221(a)(100)(C), Dec. 19, 2014, 128 Stat. 4052.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of the enactment of Pub. L. 111–147, which was approved Mar. 18, 2010.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
 <b>2010</b>—Subsecs. (c), (d). Pub. L. 111–147 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -78,21 +68,12 @@ Subsecs. (c) to (e). Pub. L. 107–90, §203(b), redesignated subsec. (e) as (c)
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentage of compensation paid during any calendar year by such employer for services rendered to such employer:
 
-<b> "In the case of compensation</b>
+&nbsp;
 
-<b>  paid during:</b>
-
-<b>The rate shall be:</b>
-
-&emsp;&emsp;1985
-
-13\.75&nbsp;&nbsp;
-
-&emsp;&emsp;1986 or thereafter
-
-14\.75."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>"In the case of compensation paid during:</b> | <b>The rate shall be:</b> |
+| :--- | ---: |
+| &nbsp;1985 | 13\.75&nbsp;&nbsp; |
+| &nbsp;1986 or thereafter | 14\.75." |
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–76, §222(a), in amending subsec. (a) generally, substituted provisions imposing an excise tax on employers, with respect to having individuals in his employ, equal to a percentage of compensation paid as set out in an accompanying table, for provisions which imposed an excise tax on employers, with respect to having individuals in his employ, equal to 12.75 percent of so much of the compensation paid in any calendar month by such employer for services rendered to him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable "wages" as defined in section 3121 for any month, with certain exceptions dealing with multiple employers.
 
@@ -138,15 +119,19 @@ Subsec. (b). Pub. L. 89–97 substituted "the rate of the tax imposed with respe
 
 <b>1963</b>—Subsec. (a). Pub. L. 88–133 limited the existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–28, §201(d)(1), (2)(A), (B), designated former provisions of section as subsec. (a), increased the tax from 6¼ percent of the compensation not in excess of $350 for any calendar month to 6¾ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 7¼ percent for services rendered after Dec. 31, 1961, and substituted "after the month in which this provision was amended in 1959" for "after 1954" and for "after December 31, 1954" in six places, "not more than $400" for "not more than $350", and "less than $400" for "less than $350".
+<b>1959</b>—Subsec. (a). Pub. L. 86–28, §201(d)(1), (2)(A), (B), designated former provisions of section as subsec. (a), increased the tax from 6¼ percent of the compensation not in excess of $350 for any calendar month to 6¾ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 7¼ percent for services rendered after Dec. 31, 1961, and substituted "after the month in which thisprovision was amended in 1959" for "after 1954" and for "after December 31, 1954" in six places, "not more than $400" for "not more than $350", and "less than $400" for "less than $350".
 
 Subsec. (b). Pub. L. 86–28, §201(d)(2)(C), added subsec. (b).
 
 <b>1954</b>—Act Aug. 31, 1954, substituted "$350" for "$300" wherever appearing.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–147 applicable to compensation paid after Mar. 18, 2010, see section 101(e) ofPub. L. 111–147, set out as a note under section 51 of this title.
+Amendment by Pub. L. 111–147 applicable to compensation paid after Mar. 18, 2010, see section 101(e) of Pub. L. 111–147, set out as a note under section 51 of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -210,5 +195,5 @@ For provision that no penalties or interest shall be assessed on account of any 
 
 #### Excise Taxes on Employers; Employees Covered by Certain Supplemental Pension Plans
 
-Pub. L. 91–215, §5(b)(2), Mar. 17, 1970, 84 Stat. 71, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to (A) supplemental annuities paid on or after April 1, 1970, and (B) man-hours with respect to which compensation is paid for services rendered to such employer on or after such day."
+Pub. L. 91–215, §5(b)(2), Mar. 17, 1970, 84 Stat. 71, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to (A) supplementalannuities paid on or after April 1, 1970, and (B) man-hours with respect to which compensation is paid for services rendered to such employer on or after such day."
 

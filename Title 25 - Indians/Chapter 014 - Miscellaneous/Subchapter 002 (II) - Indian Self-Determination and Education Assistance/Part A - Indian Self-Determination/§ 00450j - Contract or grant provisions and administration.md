@@ -86,7 +86,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 &emsp;&emsp;(A) subject to the provisions of subparagraph (B), title to property and equipment furnished by the Federal Government for use in the performance of the contract or purchased with funds under any self-determination contract or grant agreement shall, unless otherwise requested by the tribe or tribal organization, vest in the appropriate tribe or tribal organization;
 
-&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, or termination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
+&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, or termination, title to such property andequipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
 
 &emsp;&emsp;(C) all property referred to in subparagraph (A) shall remain eligible for replacement on the same basis as if title to such property were vested in the United States; and
 
@@ -118,13 +118,13 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 (1) Upon the request of an Indian tribe or tribal organization, the Secretary shall enter into a lease with the Indian tribe or tribal organization that holds title to, a leasehold interest in, or a trust interest in, a facility used by the Indian tribe or tribal organization for the administration and delivery of services under this subchapter.
 
-(2) The Secretary shall compensate each Indian tribe or tribal organization that enters into a lease under paragraph (1) for the use of the facility leased for the purposes specified in such paragraph. Such compensation may include rent, depreciation based on the useful life of the facility, principal and interest paid or accrued,operation and maintenance expenses, and such other reasonable expenses that the Secretary determines, by regulation, to be allowable.
+(2) The Secretary shall compensate each Indian tribe or tribal organization that enters into a lease under paragraph (1) for the use of the facility leased for the purposes specified in such paragraph. Such compensation may include rent, depreciation based on the useful life of the facility, principal and interest paid or accrued, operation and maintenance expenses, and such other reasonable expenses that the Secretary determines, by regulation, to be allowable.
 
 #### (m) Statutory requirements; technical assistance; precontract negotiation phase; fixed price construction contract
 
 (1) Each construction contract requested, approved, or awarded under this subchapter, shall be subject to—
 
-&emsp;(A) except as otherwise provided in this subchapter, the provisions of this subchapter, other than sections 450f(a)(2), 450j–1(l), 450l and 450m of this title; and
+&emsp;(A) except as otherwise provided in this subchapter, the provisions of this subchapter,other than sections 450f(a)(2), 450j–1(l), 450l and 450m of this title; and
 
 &emsp;(B) section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (104 Stat. 1959).
 
@@ -178,11 +178,11 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 #### (1) In general
 
-&emsp;At the option of an Indian tribe or tribal organization, patient records may be deemed tobe Federal records under those provisions of title 44 that are commonly referred to as the "Federal Records Act of 1950" for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
+&emsp;At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions of title 44 that are commonly referred to as the "Federal Records Act of 1950" for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
 
 #### (2) Treatment of records
 
-&emsp;Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the "Federal Records Act of 1950" pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
+&emsp;Patient records that are deemed to be Federal records under those provisions of title 44that are commonly referred to as the "Federal Records Act of 1950" pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
 
 (Pub. L. 93–638, title I, §105, formerly §106, Jan. 4, 1975, 88 Stat. 2210; renumbered §105 and amended Pub. L. 100–472, title II, §204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, §2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, §7, Feb. 12, 1996, 110 Stat. 764; Pub. L. 106–260, §§7, 8, Aug. 18, 2000, 114 Stat. 732, 733.)
 
@@ -228,13 +228,13 @@ A prior section 105 of Pub. L. 93–638 was renumbered section 104 by Pub. L. 10
 
 #### Amendments
 
-<b>2000</b>—Subsec. (k). Pub. L. 106–260, §7, substituted "deemed an executive agency and part of the Indian Health Service" for "deemed an executive agency" and inserted at end "For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or otherFederal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements."
+<b>2000</b>—Subsec. (k). Pub. L. 106–260, §7, substituted "deemed an executive agency and part of the Indian Health Service" for "deemed an executive agency" and inserted at end "For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements."
 
 Subsec. (o). Pub. L. 106–260, §8, added subsec. (o).
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, §102(11). See 1994 Amendment note below.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: "Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts."
+<b>1994</b>—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: "Contracts with tribal organizations pursuantto section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts."
 
 Subsec. (e). Pub. L. 103–413, §102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: "Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe."
 
@@ -274,7 +274,7 @@ Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) a
 
 #### Continued Availability of Certain Funds
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 105 Stat. 2681–231, 2681–246, provided in part that: "hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 \[25 U.S.C. 450f et seq.\] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A \[probably means prior versions of 25 U.S.C. 2001 and 2008a\]) shall remain available until expended by the contractor or grantee".
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part that: "hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 \[25 U.S.C. 450f et seq.\] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A \[probably means prior versions of 25 U.S.C. 2001 and 2008a\]) shall remain available until expended by the contractor or grantee".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "provisions".</i>
 

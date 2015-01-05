@@ -20,7 +20,17 @@ The responsibilities of an eligible agency under this subchapter shall include�
 
 Except with respect to the responsibilities set forth in subsection (a), the eligible agency may delegate any of the other responsibilities of the eligible agency that involve the administration, operation, or supervision of activities assisted under this subchapter, in whole or in part, to 1 or more appropriate State agencies.
 
-(Pub. L. 88–210, title I, §121, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 715.)
+(Pub. L. 88–210, title I, §121, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, §512(e)(2), July 22, 2014, 128 Stat. 1706.)
+
+#### Amendment of Subsection (a)(4)
+
+<i>Pub. L. 113–128, title V, §§506, 512(e)(2), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(4) of this section is amended:</i>
+
+<i>(1) in subparagraph (A), by striking "activities undertaken by the State boards under section 2821 of title 29" and inserting "activities undertaken by the State boards under section 3111 of title 29"; and</i>
+
+<i>(2) in subparagraph (B), by striking "the service delivery system under section 2841 of title 29" and inserting "the one-stop delivery system under section 3151 of title 29".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### Prior Provisions
 
@@ -37,4 +47,14 @@ Section 2341a, Pub. L. 88–210, title II, §232, as added Pub. L. 101–392, ti
 Section 2341b, Pub. L. 88–210, title II, §233, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 782, related to special rule for minimal allocations. See section 2353 of this title.
 
 Section 2341c, Pub. L. 88–210, title II, §234, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 783, related to reallocations. See section 2353 of this title.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(4)(A). Pub. L. 113–128, §512(e)(2)(A), substituted "activities undertaken by the State boards under section 3111 of title 29" for "activities undertaken by the State boards under section 2821 of title 29".
+
+Subsec. (a)(4)(B). Pub. L. 113–128, §512(e)(2)(B), substituted "the one-stop delivery system under section 3151 of title 29" for "the service delivery system under section 2841 of title 29".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

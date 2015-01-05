@@ -50,7 +50,7 @@
 
 #### (d) Puerto Rico
 
-(1) There are authorized to be appropriated for grants to the Government of Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government ofPuerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.
+(1) There are authorized to be appropriated for grants to the Government of Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.
 
 (2) The United States Customs Service should station an aerostat in Puerto Rico.
 

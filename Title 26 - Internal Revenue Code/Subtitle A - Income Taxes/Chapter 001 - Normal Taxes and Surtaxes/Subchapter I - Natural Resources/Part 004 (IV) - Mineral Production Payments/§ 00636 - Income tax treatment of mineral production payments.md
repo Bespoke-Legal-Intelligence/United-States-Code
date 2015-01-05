@@ -44,7 +44,7 @@ Special rule.—With respect to a taxpayer who does not elect the treatment prov
 
 &emsp;"(A) the excess of
 
-&emsp;&emsp;"(i) the aggregate amount of production payments carved out and sold by the taxpayer during the 12-month period immediately preceding his taxable year which includes August 7, 1969, over
+&emsp;&emsp;"(i) the aggregate amount of production payments carved out and sold by the taxpayer duringthe 12-month period immediately preceding his taxable year which includes August 7, 1969, over
 
 &emsp;&emsp;"(ii) the aggregate amount of production payments carved out before August 7, 1969, by the taxpayer during his taxable year which includes such date, or
 

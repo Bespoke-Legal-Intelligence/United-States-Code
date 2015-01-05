@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) The payment of money or the furnishing of services to an affiliate under contract, lease, or otherwise.
 
-&emsp;&emsp;(D) Any transaction in which an affiliate acts as an agent or broker or receives a feefor its services to the bank or to any other person.
+&emsp;&emsp;(D) Any transaction in which an affiliate acts as an agent or broker or receives a fee for its services to the bank or to any other person.
 
 &emsp;&emsp;(E) Any transaction or series of transactions with a third party—
 

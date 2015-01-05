@@ -192,7 +192,7 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 
 #### Reports
 
-Pub. L. 107–189, §8(c), June 14, 2002, 116 Stat. 701, provided that: "The Export-Import Bank of the United States shall include in the annual report required by section 8(a) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635g(a)\] for each of fiscal years 2002 through 2006 a report on the efforts made by the Bank to carry out subparagraphs (E)(x) and (J) of section 2(b)(1) of such Act \[12 U.S.C. 635(b)(1)\], and on how the efforts are assisting small businesses."
+Pub. L. 107–189, §8(c), June 14, 2002, 116 Stat. 701, provided that: "The Export-Import Bank of the United States shall include in the annual report required by section 8(a) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635g(a)\] for each of fiscal years 2002 through 2006 a report on the efforts made by the Bank to carry outsubparagraphs (E)(x) and (J) of section 2(b)(1) of such Act \[12 U.S.C. 635(b)(1)\], and on how the efforts are assisting small businesses."
 
 #### Financing for Renewable Energy Projects
 

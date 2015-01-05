@@ -108,7 +108,7 @@
 
 &emsp;&emsp;The Secretary shall debar a person under subsection (a) or (b) of this section for the following periods:
 
-&emsp;&emsp;&emsp;(i) The period of debarment of a person (other than an individual) under subsection (a)(1) of this section shall not be less than 1 year or more than 10 years, but if an act leading to a subsequent debarment under subsection (a) of this sectionoccurs within 10 years after such person has been debarred under subsection (a)(1) of this section, the period of debarment shall be permanent.
+&emsp;&emsp;&emsp;(i) The period of debarment of a person (other than an individual) under subsection (a)(1) of this section shall not be less than 1 year or more than 10 years, but if an act leading to a subsequent debarment under subsection (a) of this section occurs within 10 years after such person has been debarred under subsection (a)(1) of this section, the period of debarment shall be permanent.
 
 &emsp;&emsp;&emsp;(ii) The debarment of an individual under subsection (a)(2) of this section shall be permanent.
 
@@ -292,7 +292,7 @@ The Secretary shall withdraw an order of suspension of the distribution of a dru
 
 &emsp;(2) the initial determination was in error.
 
-> The Secretary shall act on a submission of a petition under this subsection within 180 days of the date of its submission and the Secretary may consider the petition concurrently with the suspension proceeding. Any information submitted to the Secretary under this subsection does not constitute an amendment or supplement to a pending or approved abbreviated drug application.
+> The Secretary shall act on a submission of a petition under this subsection within 180 days of the date of its submission and the Secretary may consider the petition concurrently with the suspension proceeding. Any information submitted to the Secretary under this subsection doesnot constitute an amendment or supplement to a pending or approved abbreviated drug application.
 
 #### (i) Procedure
 
@@ -350,7 +350,7 @@ Any application for approval of a drug product shall include—
 
 &emsp;Subsections (c)(3), (d), (e), (i), (j), and (l)(1) of this section apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1) of this section, or an individual who is debarred under subsection (a)(2) of this section, respectively.
 
-(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
+(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub.L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
 
 #### Prior Provisions
 

@@ -22,7 +22,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;(2) provide assurances that the institution will comply with requirements established by the Secretary relating to student loan information with respect to loans made under this part;
 
-&emsp;(3) provide that the institution accepts responsibility and financial liability stemming from its failure to perform its functions pursuant to the agreement;
+&emsp;(3) provide that the institution accepts responsibility and financial liability stemmingfrom its failure to perform its functions pursuant to the agreement;
 
 &emsp;(4) provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with institutions of higher education, to ensure that the institution is complying with program requirements and meeting program objectives;
 

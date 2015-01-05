@@ -11,7 +11,7 @@ Subtitle E—Special Provisions for Multiemployer Plans
 
 - [Part 001 - Employer Withdrawals](Part%20001%20-%20Employer%20Withdrawals/README.md)
 - [Part 002 - Merger or Transfer of Plan Assets or Liabilities](Part%20002%20-%20Merger%20or%20Transfer%20of%20Plan%20Assets%20or%20Liabilities/README.md)
-- [Part 003 - Reorganization; Minimum Contribution Requirement for Multiemployer Plans](Part%20003%20-%20Reorganization%3B%20Minimum%20Contribution%20Requirement%20for%20Multiemployer%20Plans/README.md)
+- [Part 003 - Insolvent Plans](Part%20003%20-%20Insolvent%20Plans/README.md)
 - [Part 004 - Financial Assistance](Part%20004%20-%20Financial%20Assistance/README.md)
 - [Part 005 - Benefits After Termination](Part%20005%20-%20Benefits%20After%20Termination/README.md)
 - [Part 006 - Enforcement](Part%20006%20-%20Enforcement/README.md)

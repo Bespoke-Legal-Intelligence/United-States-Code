@@ -28,7 +28,7 @@ Once during each 5-year period (the 1st such period beginning on September 23, 1
 
 The Administrator shall revise and update any floodplain areas and flood-risk zones—
 
-&emsp;(1) upon the determination of the Administrator, according to the assessment under subsection (e) of this section, that revision and updating are necessary for the areas and zones; or
+&emsp;(1) upon the determination of the Administrator, according to the assessment under subsection (e) of this section, that revision andupdating are necessary for the areas and zones; or
 
 &emsp;(2) upon the request from any State or local government stating that specific floodplain areas or flood-risk zones in the State or locality need revision or updating, if sufficient technical data justifying the request is submitted and the unit of government making the request agrees to provide funds in an amount determined by the Administrator.
 
@@ -38,7 +38,7 @@ To promote compliance with the requirements of this chapter, the Administrator s
 
 #### (h) Notification of flood map changes
 
-The Administrator shall cause notice to be published in the Federal Register (or shall provide notice by another comparable method) of any change to flood insurance map panels and any change to flood insurance map panels issuedin the form of a letter of map amendment or a letter of map revision. Such notice shall be published or otherwise provided not later than 30 days after the map change or revision becomes effective. Notice by any method other than publication in the Federal Register shall include all pertinent information, provide for regular and frequent distribution, and be at least as accessible to map users as notice in the Federal Register. All notices under this subsection shall include information on how to obtain copies of the changes or revisions.
+The Administrator shall cause notice to be published in the Federal Register (or shall provide notice by another comparable method) of any change to flood insurance map panels and any change to flood insurance map panels issued in the form of a letter of map amendment or a letter of map revision. Such notice shall be published or otherwise provided not later than 30 days after the map change or revision becomes effective. Notice by any method other than publication in the Federal Register shall include all pertinent information, provide for regular and frequent distribution, and be at least as accessible to map users as notice in the Federal Register. All notices under this subsection shall include information on how to obtain copies of the changes or revisions.
 
 #### (i) Compendia of flood map changes
 

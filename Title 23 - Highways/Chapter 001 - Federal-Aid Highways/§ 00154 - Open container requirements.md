@@ -10,7 +10,7 @@ Alcoholic beverage.—The term "alcoholic beverage" has the meaning given the te
 
 &emsp;(2)
 
-Motor vehicle.—The term "motor vehicle" means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
+Motor vehicle.—The term "motor vehicle" means a vehicle driven or drawn by mechanical power and manufactured primarilyfor use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
 
 &emsp;(3)
 
@@ -114,7 +114,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
 
-&emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
+&emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highwaysand highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 
 &emsp;(7)
 

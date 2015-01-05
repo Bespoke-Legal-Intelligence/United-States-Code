@@ -18,7 +18,7 @@
 
 &emsp;(3) donating such leave in whole or part to another leave recipient; if a leave donor elects to donate only part of restored leave to another recipient, the donor may elect to have the remaining leave credited to the donor's annual leave account in accordance with paragraph (1) or (2).
 
-(c) The Office shall prescribe regulations under which this section shall be applied in the case ofan employee who is paid other than on the basis of biweekly pay periods.
+(c) The Office shall prescribe regulations under which this section shall be applied in the case of an employee who is paid other than on the basis of biweekly pay periods.
 
 (d) Restorations of leave under this section shall be carried out in a manner consistent with regulations prescribed to carry out section 6334(c), if applicable.
 

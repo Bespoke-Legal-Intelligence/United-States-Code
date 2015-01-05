@@ -48,7 +48,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 #### (2) Consent as precondition to disclosure
 
-&emsp;Any entity which maintains a record of personal data and which receives a request from the Secretary or a program entity for such data for purposes of this section shall not transfer any such data to the Secretary or to a program entity unless the individual whose personal data is to be so transferred gives an informed consent for such transfer.
+&emsp;Any entity which maintains a record of personal data and which receives a request from the Secretary or a program entity for suchdata for purposes of this section shall not transfer any such data to the Secretary or to a program entity unless the individual whose personal data is to be so transferred gives an informed consent for such transfer.
 
 #### (3) Disclosure by Secretary
 

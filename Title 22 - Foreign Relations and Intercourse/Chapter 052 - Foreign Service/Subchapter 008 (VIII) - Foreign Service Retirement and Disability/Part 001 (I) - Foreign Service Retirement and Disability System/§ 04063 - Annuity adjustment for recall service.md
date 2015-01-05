@@ -12,7 +12,7 @@ If the recall service lasts less than one year, the contributions of the annuita
 
 If an annuitant becomes subject to part II of this subchapter by reason of recall service—
 
-&emsp;(1) subsections (a) and (b) of this section shall not apply to such annuitant; and
+&emsp;(1) subsections (a) and (b) shall not apply to such annuitant; and
 
 &emsp;(2) section 4064 of this title shall apply to the recall service as if such service were reemployment.
 

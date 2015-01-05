@@ -36,7 +36,7 @@ The Commissioner or the Secretary (as applicable) may, pursuant to regulations, 
 
 &emsp;(2) in the case of a violation consisting of a broadcast or telecast, $25,000,
 
-> against any person for each violation by such person of subsection (a) of this section. In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or morewords, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.
+> against any person for each violation by such person of subsection (a) of this section. In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.
 
 #### (c) Application of other law; compromise, recovery, and deposit into Treasury of civil money penalties
 
@@ -52,7 +52,7 @@ The preceding provisions of this section may be enforced through the Office of t
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–203, §204(a)(2), substituted "Prohibitions relating to references" for "Prohibition of misuse of symbols, emblems, or names in reference" in section catchline.
+<b>2004</b>—Pub. L. 108–203, §204(a)(2), substituted "Prohibitions relating to references" for "Prohibition of misuseof symbols, emblems, or names in reference" in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–203, §207(a)(3), which directed the substitution of "the Centers for Medicare \& Medicaid Services," for "the Health Care Financing Administration," wherever appearing in concluding provisions, could not be executed because "the Health Care Financing Administration," did not appear subsequent to amendment by Pub. L. 108–173, §900(e)(1)(B)(i). See 2003 Amendment note below.
 
@@ -80,7 +80,7 @@ Subsec. (a)(1)(B). Pub. L. 103–296, §312(b)(2), substituted "Social Security 
 
 Subsec. (a)(2). Pub. L. 103–296, §304(b), substituted "405(c)(2)(F)" for "405(c)(2)(E)".
 
-Subsec. (a)(2)(A), (B). Pub. L. 103–296, §108(b)(12)(A), in par. (2) as added by Pub. L. 103–296, §312(a), designatedexisting provisions as subpar. (A), struck out "or of the Department of Health and Human Services" after "Social Security Administration", substituted "Commissioner of Social Security" for "Secretary", and added subpar. (B).
+Subsec. (a)(2)(A), (B). Pub. L. 103–296, §108(b)(12)(A), in par. (2) as added by Pub. L. 103–296, §312(a), designated existing provisions as subpar. (A), struck out "or of the Department of Health and Human Services" after "Social Security Administration", substituted "Commissioner of Social Security" for "Secretary", and added subpar. (B).
 
 Subsec. (a)(3). Pub. L. 103–296, §312(e), added par. (3).
 
@@ -146,7 +146,7 @@ In general.—The Secretary of Health and Human Services and the Commissioner of
 
 "(2)
 
-When due.—The reports required by paragraph (1) shall be submitted not later than December 1, 1995,not later than December 1, 1997, and not later than December 1, 1999, respectively."
+When due.—The reports required by paragraph (1) shall be submitted not later than December 1, 1995, not later than December 1, 1997, and not later than December 1, 1999, respectively."
 
 #### Consultation by United States Postal Service Regarding Prevention of Deceptive Mailings
 

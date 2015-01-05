@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) a full-time employee of a nonprofit organization operating under a contract with a State or unit of local government, who devotes substantially all of the employee's full-time employment to providing legal representation to indigent persons in criminal or juvenile delinquency cases (including supervision, education, or training of other persons providing such representation); or
 
-&emsp;&emsp;&emsp;(iii) employed as a full-time Federal defender attorney in a defender organizationestablished pursuant to subsection (g) of section 3006A of title 18 that provides legal representation to indigent persons in criminal or juvenile delinquency cases.
+&emsp;&emsp;&emsp;(iii) employed as a full-time Federal defender attorney in a defender organization established pursuant to subsection (g) of section 3006A of title 18 that provides legal representation to indigent persons in criminal or juvenile delinquency cases.
 
 #### (3) Student loan
 
@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) A Federal Direct PLUS Loan made to the parents of a dependent student.
 
-&emsp;&emsp;&emsp;(iii) A loan made under section 428C or 455(g) of the Higher Education Act of 1965 (20 U.S.C. 1078–3 and 1087e(g)) to the extent that such loan was used to repay a loan described in clause (i) or (ii).
+&emsp;&emsp;&emsp;(iii) A loan made under section 428C or 455(g) of the Higher Education Act of 1965 (20 U.S.C. 1078–3 and 1087e(g)) to the extentthat such loan was used to repay a loan described in clause (i) or (ii).
 
 #### (c) Program authorized
 

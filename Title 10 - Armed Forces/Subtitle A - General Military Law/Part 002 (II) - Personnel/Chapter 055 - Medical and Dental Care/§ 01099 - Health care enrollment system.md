@@ -8,7 +8,7 @@ Establishment of System.—The Secretary of Defense, after consultation with the
 
 Description of System.—Such system shall—
 
-&emsp;(1) allow covered beneficiaries to elect a health care plan from eligible health care plans designated by the Secretary of Defense; or
+&emsp;(1) allow covered beneficiaries to elect a health care plan from eligible health careplans designated by the Secretary of Defense; or
 
 &emsp;(2) if necessary in order to ensure full use of facilities of the uniformed services in a geographical area, assign covered beneficiaries who reside in such area to such facilities.
 

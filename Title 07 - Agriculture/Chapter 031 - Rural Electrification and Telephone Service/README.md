@@ -8,7 +8,7 @@
 | [902\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000902%20-%20General%20authority%20of%20Secretary%20of%20Agriculture.md) | General authority of Secretary of Agriculture. |
 | [903\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000903%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [904\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000904%20-%20Loans%20for%20electrical%20plants%20and%20transmission%20lines.md) | Loans for electrical plants and transmission lines. |
-| [905\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000905%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7774%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201150.md) | Repealed. |
+| [905\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000905%20-%20Fees%20for%20certain%20loan%20guarantees.md) | Fees for certain loan guarantees. |
 | [906\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906%20-%20Funding%20for%20administrative%20expenses.md) | Funding for administrative expenses. |
 | [906a.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906a%20-%20Use%20of%20funds%20outside%20the%20United%20States%20or%20its%20territories%20prohibited.md) | Use of funds outside the United States or its territories prohibited. |
 | [907\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000907%20-%20Acquisition%20of%20property%20pledged%20for%20loans%3B%20disposition%3B%20sale%20of%20pledged%20property%20by%20borrower.md) | Acquisition of property pledged for loans; disposition; sale of pledged property by borrower. |
@@ -117,6 +117,7 @@
 | :--- | ---: |
 | [950bb.](Subchapter%20006%20%28VI%29%20-%20Rural%20Broadband%20Access/%C2%A7%2000950bb%20-%20Access%20to%20broadband%20telecommunications%20services%20in%20rural%20areas.md) | Access to broadband telecommunications services in rural areas. |
 | 950bb–1. | National Center for Rural Telecommunications Assessment. |
+| 950bb–2. | Rural Gigabit Network Pilot Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

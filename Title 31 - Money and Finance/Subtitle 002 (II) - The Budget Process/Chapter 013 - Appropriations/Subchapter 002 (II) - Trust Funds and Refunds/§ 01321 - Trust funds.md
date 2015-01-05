@@ -216,7 +216,7 @@ June 26, 1934, ch. 756, §20(less (a)(last sentence last proviso)), 48 Stat. 123
 
 31:725s(a)(2d sentence, last sentence 1st, 2d provisos).
 
-In the section, the cross-references to subsection (b) in the source provisions being restated are assumed tobe references to clauses (1)–(84) of subsection (a) because the source provisions contain no subsection (b).
+In the section, the cross-references to subsection (b) in the source provisions being restated are assumed to be references to clauses (1)–(84) of subsection (a) because the source provisions contain no subsection (b).
 
 In subsection (a), the words "appearing on the books of the Government" and "on the books of the Treasury" are omitted as surplus.
 

@@ -6,7 +6,7 @@ The Secretary may establish and maintain, and regulate the use of, stock drivewa
 
 #### (b) Grazing of livestock free of charge
 
-The Secretary may permit any person, including prospectors and miners, to graze free ofcharge a small number of livestock upon any land included within any grazing district.
+The Secretary may permit any person, including prospectors and miners, to graze free of charge a small number of livestock upon any land included within any grazing district.
 
 #### (c) Grazing allotments to Eskimos or other native or half-breed
 

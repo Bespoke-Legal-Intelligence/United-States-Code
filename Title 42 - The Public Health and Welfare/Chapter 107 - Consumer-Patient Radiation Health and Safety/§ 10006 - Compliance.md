@@ -28,5 +28,5 @@ Notwithstanding any other provision of this section, in the case of a State whic
 
 #### Amendments
 
-<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows: "The Secretary shall be responsible for continued monitoring of compliance by theStates with the applicable provisions of this chapter and shall report to the Senate and the House of Representatives by January 1, 1982, and January 1 of each succeeding year the status of the States' compliance with the purposes of this chapter."
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows: "The Secretary shall be responsible for continued monitoring of compliance by the States with the applicable provisions of this chapter and shall report to the Senate and the House of Representatives by January 1, 1982, and January 1 of each succeeding year the status of the States' compliance with the purposes of this chapter."
 

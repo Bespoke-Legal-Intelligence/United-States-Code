@@ -12,7 +12,7 @@ The Secretary of Commerce, acting through the Secretary of State, shall promptly
 
 #### (b) Report
 
-The Secretary of Commerce shall include in annual reports under section 5611 of this title—
+The Secretary of Commerce shall include in annual reports under section 5611 <sup>1</sup> of this title—
 
 &emsp;(1) a description of the results of negotiations held pursuant to subsection (a) of this section;
 
@@ -25,4 +25,10 @@ The Secretary of Commerce shall include in annual reports under section 5611 of 
 In this section the term "Straddling Fish Stocks Agreement" means the United Nations Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
 
 (Pub. L. 104–43, title II, §213, as added Pub. L. 105–384, title II, §201(d), Nov. 13, 1998, 112 Stat. 3452.)
+
+#### References in Text
+
+Section 5611 of this title, referred to in subsec. (b), was repealed by Pub. L. 113–188, title II, §201(f), Nov. 26, 2014, 128 Stat. 2018.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

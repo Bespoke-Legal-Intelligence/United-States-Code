@@ -18,7 +18,7 @@
 
 &emsp;If funds allocated in accordance with subsection (c) of this section are insufficient to serve all eligible school attendance areas, a local educational agency shall—
 
-&emsp;&emsp;(A) annually rank, without regard to grade spans, such agency's eligible school attendance areas in which the concentration of children from low-income families exceeds 75 percent from highest to lowest according to the percentage of children from low-income families; and
+&emsp;&emsp;(A) annually rank, without regard to grade spans, such agency's eligible school attendance areas in which the concentration ofchildren from low-income families exceeds 75 percent from highest to lowest according to the percentage of children from low-income families; and
 
 &emsp;&emsp;(B) serve such eligible school attendance areas in rank order.
 

@@ -44,13 +44,13 @@ Changes to Certification.—(1) The program manager for a major defense acquisit
 
 &emsp;(B) otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certification.
 
-(2) Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certification concerned or rescind Milestone B approval if the milestone decision authority determines that such certification or approval is no longer valid.
+(2) Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certification concerned or rescindMilestone B approval if the milestone decision authority determines that such certification or approval is no longer valid.
 
 (c)
 
 Submission to Congress.—(1) The certification required under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
 
-(2) A summary of any information provided to the milestone decision authority pursuant to subsection (b) and a description of the actionstaken as a result of such information shall be submitted with the first Selected Acquisition Report submitted under section 2432 of this title after receipt of such information by the milestone decision authority.
+(2) A summary of any information provided to the milestone decision authority pursuant to subsection (b) and a description of the actions taken as a result of such information shall be submitted with the first Selected Acquisition Report submitted under section 2432 of this title after receipt of such information by the milestone decision authority.
 
 (d)
 
@@ -118,7 +118,7 @@ Subsec. (a)(3)(D). Pub. L. 111–383, §901(j)(4), substituted "Assistant Secret
 
 Subsec. (a)(3)(E) to (G). Pub. L. 112–81, §801(b)(1), added subpars. (E) and (F) and redesignated former subpar. (E) as (G).
 
-Subsec. (b)(1). Pub. L. 111–383, §814(c)(1)(A), substituted "any changes to the program or a designatedmajor subprogram of such program" for "any changes to the program" in introductory provisions.
+Subsec. (b)(1). Pub. L. 111–383, §814(c)(1)(A), substituted "any changes to the program or a designated major subprogram of such program" for "any changes to the program" in introductory provisions.
 
 Subsec. (b)(1)(B). Pub. L. 111–383, §814(c)(1)(B), substituted "otherwise cause the program or subprogram" for "otherwise cause the program".
 
@@ -198,7 +198,7 @@ Pub. L. 111–383, div. A, title VIII, §813(d)(1), Jan. 7, 2011, 124 Stat. 4265
 
 Amendment by section 901(j)(4) of Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
-Pub. L. 111–383, div. A, title X, §1075(k), Jan. 7, 2011, 124 Stat. 4378, provided that the amendment made by section 1075(k)(1) is effective as of May 22, 2009, and as if included in Pub. L. 111–23 as enacted.
+Pub. L. 111–383, div. A, title X, §1075(k), Jan. 7, 2011, 124 Stat. 4378, provided that the amendment made bysection 1075(k)(1) is effective as of May 22, 2009, and as if included in Pub. L. 111–23 as enacted.
 
 #### Certification and Review of Programs Entering Development Prior to Enactment of Section 2366b of Title 10
 

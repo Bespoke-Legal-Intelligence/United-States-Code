@@ -2,7 +2,7 @@
 
 (a)
 
-Determination by Secretary.—Upon receiving a recommendation under section 1502(a) of this title that a person be placed in a missing status, the Secretary receiving the recommendation shall review the recommendation and, not later than 10 days after receiving such recommendation, shall appoint a board under this section to conduct an inquiry into the whereabouts and status of the person.
+Determination by Secretary.—Upon receiving a recommendation under section 1502(a)of this title that a person be placed in a missing status, the Secretary receiving the recommendation shall review the recommendation and, not later than 10 days after receiving such recommendation, shall appoint a board under this section to conduct an inquiry into the whereabouts and status of the person.
 
 (b)
 
@@ -42,7 +42,7 @@ Duties of Board.—A board appointed to conduct an inquiry into the whereabouts 
 
 Board Proceedings.—During the proceedings of an inquiry under this section, a board shall—
 
-&emsp;(1) collect, record, and safeguard all facts, documents, statements, photographs, tapes,messages, maps, sketches, reports, and other information (whether classified or unclassified) relating to the whereabouts and status of each person covered by the inquiry;
+&emsp;(1) collect, record, and safeguard all facts, documents, statements, photographs, tapes, messages, maps, sketches, reports, and other information (whether classified or unclassified) relating to the whereabouts and status of each person covered by the inquiry;
 
 &emsp;(2) gather information relating to actions taken to find the person, including any evidence of the whereabouts and status of the person arising from such actions; and
 
@@ -76,7 +76,7 @@ Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an
 
 (g)
 
-Access to Proceedings.—The proceedings of a board during an inquiry under this section shall be closed to the public (including, with respect to the person covered by the inquiry, the primary next of kin, other members of the immediate family, and any other previously designated person of the person).
+Access to Proceedings.—The proceedings of a board during an inquiry under this sectionshall be closed to the public (including, with respect to the person covered by the inquiry, the primary next of kin, other members of the immediate family, and any other previously designated person of the person).
 
 (h)
 

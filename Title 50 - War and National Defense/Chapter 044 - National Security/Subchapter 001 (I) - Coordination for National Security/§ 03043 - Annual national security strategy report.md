@@ -38,7 +38,7 @@ Section was formerly classified to section 404a of this title prior to editorial
 
 #### National Security Planning Guidance To Deny Safe Havens to Al-Qaeda and Its Violent Extremist Affiliates
 
-Pub. L. 112–81, div. A, title X, §1032, Dec. 31, 2011, 125 Stat. 1571, provided that:
+Pub. L. 112–81, div. A, title X, §1032, Dec. 31, 2011, 125 Stat. 1571, as amended by Pub. L. 113–291, div. A, title XII, §1262, Dec. 19, 2014, 128 Stat. 3580, provided that:
 
 "(a)
 
@@ -60,17 +60,27 @@ Contents of guidance.—The guidance required under paragraph (1) shall include 
 
 &emsp;&emsp;"(B) For each specified geographic area, a description, analysis, and discussion of the core problems and contributing issues that allow or could allow al-Qaeda and its violent extremist affiliates to use the area as a safe haven from which to plan and launch attacks, engage in propaganda, or raise funds and other support, including any ongoing or potential radicalization of the population, or to use the area as a key transit route for personnel, weapons, funding, or other support.
 
-&emsp;&emsp;"(C) A list of short-term, mid-term, and long-term goals for each specified geographic area, prioritized by importance.
+&emsp;&emsp;"(C) For each specified geographic area, a description of the following:
 
-&emsp;&emsp;"(D) A description of the role and mission of each Federal department and agency involved in executing the guidance, including the Departments of Defense, Justice, Treasury, and State and the Agency for International Development.
+&emsp;&emsp;&emsp;"(i) The feasibility of conducting multilateral programs to train and equip the military forces of relevant countries in the area.
 
-&emsp;&emsp;"(E) A description of gaps in United States capabilities to meet the goals listed pursuant to subparagraph (C), and the extent to which those gaps can be met through coordination with nongovernmental, international, or private sector organizations, entities, or companies.
+&emsp;&emsp;&emsp;"(ii) The authority and funding that would be required to support such programs.
+
+&emsp;&emsp;&emsp;"(iii) How such programs would be implemented.
+
+&emsp;&emsp;&emsp;"(iv) How such programs would support the national security priorities and interests of the United States and complement other efforts of the United States Government in the area and in other specified geographic areas.
+
+&emsp;&emsp;"(D) A list of short-term, mid-term, and long-term goals for each specified geographic area, prioritized by importance.
+
+&emsp;&emsp;"(E) A description of the role and mission of each Federal department and agency involved in executing the guidance, including the Departments of Defense, Justice, Treasury, and State and the Agency for International Development.
+
+&emsp;&emsp;"(F) A description of gaps in United States capabilities to meet the goals listed pursuant to subparagraph (D), and the extent to which those gaps can be met through coordination with nongovernmental, international, or private sector organizations, entities, or companies.
 
 &emsp;"(3)
 
 Review and update of guidance.—The President shall review and update the guidance required under paragraph (1) as necessary. Any such review shall address each of the following:
 
-&emsp;&emsp;"(A) The overall progress made toward achieving the goals listed pursuant to paragraph (2)(C), including an overall assessment of the progress in denying a safe haven to al-Qaeda and its violent extremist affiliates.
+&emsp;&emsp;"(A) The overall progress made toward achieving the goals listed pursuant to paragraph (2)(D), including an overall assessment of the progress in denying a safe haven to al-Qaeda and its violent extremist affiliates.
 
 &emsp;&emsp;"(B) The performance of each Federal department and agency involved in executing the guidance.
 
@@ -79,6 +89,26 @@ Review and update of guidance.—The President shall review and update the guida
 &emsp;&emsp;"(D) Any addition to, deletion from, or change in the order of the prioritized list maintained pursuant to paragraph (2)(A).
 
 &emsp;"(4)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report that contains a detailed summary of the national security planning guidance required under paragraph (1), including any updates thereto.
+
+&emsp;&emsp;"(B)
+
+Form.—The report may include a classified annex as determined to be necessary by the President.
+
+&emsp;&emsp;"(C)
+
+Definition.—In this paragraph, the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;&emsp;"(i) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;&emsp;"(ii) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;"(5)
 
 Specified geographic area defined.—In this subsection, the term 'specified geographic area' means any country, subnational territory, or region—
 
@@ -98,7 +128,7 @@ Pub. L. 112–81, div. A, title X, §1072, Dec. 31, 2011, 125 Stat. 1592, provid
 
 Implementation Plan.—Not later than 270 days after the date of the enactment of this Act \[Dec. 31, 2011\], the President shall submit to the appropriate congressional committees an implementation plan for achieving the whole-of-government integration vision prescribed in the President's National Security Strategy of May 2010. The implementation plan shall include—
 
-&emsp;"(1) a description of ongoing and future actions planned to be taken by the President and the Executive agencies to implement organizational changes, programs, and any other efforts to achieve each component of the whole-of-government vision prescribed in the National Security Strategy;
+&emsp;"(1) a description of ongoing and future actions planned to be taken by the President and the Executive agencies to implement organizational changes,programs, and any other efforts to achieve each component of the whole-of-government vision prescribed in the National Security Strategy;
 
 &emsp;"(2) a timeline for specific actions taken and planned to be taken by the President and the Executive agencies to implement each component of the whole-of-government vision prescribed in the National Security Strategy;
 

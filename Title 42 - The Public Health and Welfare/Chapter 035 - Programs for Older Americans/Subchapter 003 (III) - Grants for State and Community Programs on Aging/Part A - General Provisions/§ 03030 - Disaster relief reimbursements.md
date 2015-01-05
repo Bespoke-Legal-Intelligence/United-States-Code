@@ -18,7 +18,7 @@
 
 Nothing in this section shall be construed to prohibit expenditures by States and such tribal organizations for disaster relief for older individuals in excess of amounts reimbursable under this section, by using funds made available to them under other sections of this chapter or under other provisions of Federal or State law, or from private sources.
 
-(Pub. L. 89–73, title III, §310, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §§3(d), 11(b)(2), Dec. 29, 1981, 95 Stat. 1597, 1606; Pub. L. 100–707, title I, §109(q), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §309, Sept. 30, 1992, 106 Stat. 1202, 1235; Pub. L. 103–171, §§2(10), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §308, Nov. 13, 2000, 114 Stat. 2246.)
+(Pub. L. 89–73, title III, §310, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533;amended Pub. L. 97–115, §§3(d), 11(b)(2), Dec. 29, 1981, 95 Stat. 1597, 1606; Pub. L. 100–707, title I, §109(q), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §309, Sept. 30, 1992, 106 Stat. 1202, 1235; Pub. L. 103–171, §§2(10), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §308, Nov. 13, 2000, 114 Stat. 2246.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ Subsec. (a)(1). Pub. L. 103–171, §2(10), substituted "Robert T. Stafford Disa
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–375, §§102(b)(10)(A), 309(1)(A), substituted "area agencies on aging" for "area agencies" and inserted "(and related supplies)" after "supportive services".
 
-Subsec. (a)(2). Pub. L. 102–375, §309(2), substituted "2 percent" for "5 percent" and "to carry out subchapterIV of this chapter" for "for carrying out the purposes of section 3035a of this title".
+Subsec. (a)(2). Pub. L. 102–375, §309(2), substituted "2 percent" for "5 percent" and "to carry out subchapter IV of this chapter" for "for carrying out the purposes of section 3035a of this title".
 
 Subsec. (a)(3). Pub. L. 102–375, §309(1)(B), added par. (3).
 

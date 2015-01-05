@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) in developing the plan consult with the resident advisory board established under subsection (e) of this section; and
 
-&emsp;&emsp;(B) ensure that the plan under this section is consistent with the applicable comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the jurisdiction in which the public housing agency is located, in accordance with title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\], and contains a certification by the appropriate State or local official that the plan meets the requirements of this paragraph and a description of the mannerin which the applicable contents of the public housing agency plan are consistent with the comprehensive housing affordability strategy.
+&emsp;&emsp;(B) ensure that the plan under this section is consistent with the applicable comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the jurisdiction in which the public housing agency is located, in accordance with title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\], and contains a certification by the appropriate State or local official that the plan meets the requirements of this paragraph and a description of the manner in which the applicable contents of the public housing agency plan are consistent with the comprehensive housing affordability strategy.
 
 #### (d) Contents
 
@@ -70,7 +70,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) Needs
 
-&emsp;A statement of the housing needs of low-income and very low-income families residing in the jurisdiction served by the public housing agency, and of other low-income and very low-income families on the waiting list of the agency (including housing needs of elderly families and disabled families), and the means by which the public housing agency intends, to the maximum extent practicable, to address those needs.
+&emsp;A statement of the housing needs of low-income and very low-income families residing in the jurisdiction served by the public housing agency, and of other low-income and very low-income families on the waiting list of the agency (including housing needs of elderly families and disabled families), and the meansby which the public housing agency intends, to the maximum extent practicable, to address those needs.
 
 #### (2) Financial resources
 
@@ -156,7 +156,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (B) Establishment
 
-&emsp;&emsp;The plan shall be established in consultation with the police officer or officers in command for the appropriate precinct or police department.
+&emsp;&emsp;The plan shall be established in consultation with the police officer or officers incommand for the appropriate precinct or police department.
 
 #### (C) Content
 
@@ -212,7 +212,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (B) Applicability of waiver authority
 
-&emsp;&emsp;Paragraph (3) shall apply to qualified public housing agencies, except that for purposes of such qualified public housing agencies, subparagraph (B) of such paragraph shall be applied by substituting "the functions described in the second sentence ofparagraph (4)(A)" for "the functions described in paragraph (2)".
+&emsp;&emsp;Paragraph (3) shall apply to qualified public housing agencies, except that for purposes of such qualified public housing agencies, subparagraph (B) of such paragraph shall be applied by substituting "the functions described in the second sentence of paragraph (4)(A)" for "the functions described in paragraph (2)".
 
 #### (f) Public hearings
 
@@ -364,7 +364,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 &emsp;&emsp;(B) if the Secretary determines, based on a finding of the Secretary or other information available to the Secretary, that a public housing agency is not complying with the applicable public housing agency plan, take such actions as the Secretary determines to be appropriate to ensure such compliance.
 
-(Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat.2531; amended Pub. L. 109–162, title VI, §603, Jan. 5, 2006, 119 Stat. 3040; Pub. L. 110–289, div. B, title VII, §2702, July 30, 2008, 122 Stat. 2863.)
+(Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat. 2531; amended Pub. L. 109–162, title VI, §603, Jan. 5, 2006, 119 Stat. 3040; Pub. L. 110–289, div. B, title VII, §2702, July 30, 2008, 122 Stat. 2863.)
 
 #### References in Text
 
@@ -374,7 +374,7 @@ The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–35
 
 The Fair Housing Act, referred to in subsec. (d)(16), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(16), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(16), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 

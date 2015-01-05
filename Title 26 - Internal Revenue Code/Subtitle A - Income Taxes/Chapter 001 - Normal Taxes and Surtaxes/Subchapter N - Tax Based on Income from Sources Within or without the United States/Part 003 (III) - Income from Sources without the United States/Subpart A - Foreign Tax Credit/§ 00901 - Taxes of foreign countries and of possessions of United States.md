@@ -18,7 +18,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (3) Alien resident of the United States or Puerto Rico
 
-&emsp;In the case of an alien resident of the United States and in the case of an alien individualwho is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any foreign country; and
+&emsp;In the case of an alien resident of the United States and in the case of an alien individual who is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any foreign country; and
 
 #### (4) Nonresident alien individuals and foreign corporations
 
@@ -26,7 +26,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (5) Partnerships and estates
 
-&emsp;In the case of any person described in paragraph (1), (2), (3), or (4), who is a member of a partnership or a beneficiary of an estate or trust, the amount of his proportionate share of the taxes (described in such paragraph) of the partnership or the estate or trust paid or accrued during the taxable year to a foreign country or to any possession of the United States, as the case may be. Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.
+&emsp;In the case of any person described in paragraph (1), (2), (3), or (4), who is a member of a partnership or a beneficiary of an estate or trust, the amount of his proportionate share of the taxes (described in such paragraph) of thepartnership or the estate or trust paid or accrued during the taxable year to a foreign country or to any possession of the United States, as the case may be. Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.
 
 #### (c) Similar credit required for certain alien residents
 
@@ -178,7 +178,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (2) Deemed paid taxes
 
-&emsp;In the case of income, war profits, or excess profits taxes deemed paid under section 853, 902, or 960 through a chain of ownership of stock in 1 or more corporations, no credit shall be allowed under subsection (a) for such taxes if—
+&emsp;In the case of income, war profits, or excess profits taxes deemed paid under section 853, 902, or 960 through a chain of ownership of stock in 1 or more corporations, no creditshall be allowed under subsection (a) for such taxes if—
 
 &emsp;&emsp;(A) any stock of any corporation in such chain (the ownership of which is required to obtain credit under subsection (a) for such taxes) is held for less than the period described in paragraph (1)(A)(i), or
 
@@ -268,7 +268,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (3) Exceptions
 
-&emsp;The Secretary may by regulation provide that paragraph (1) shall not apply to property where the Secretary determines that the application of paragraph (1) to such property is not necessary to carry out the purposes of this subsection.
+&emsp;The Secretary may by regulation provide that paragraph (1) shall not apply to propertywhere the Secretary determines that the application of paragraph (1) to such property is not necessary to carry out the purposes of this subsection.
 
 #### (4) Certain rules to apply
 
@@ -500,7 +500,7 @@ Subsecs. (c) to (e). Pub. L. 89–809, §106(b)(2), added subsec. (c) and redesi
 
 Subsec. (d)(4). Pub. L. 87–834, §9(d)(3), added par. (4).
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted "applicable" before "limitation" and substituted "Such choice for any taxable year may be made orchanged at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year" for "Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable."
+<b>1960</b>—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted "applicable" before "limitation" and substituted "Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year" for "Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable."
 
 Subsec. (b). Pub. L. 86–780, §3(b), inserted "applicable" before "limitation".
 
@@ -588,7 +588,7 @@ Amendment by section 801(d)(1) of Pub. L. 98–369 applicable to transactions af
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 201(d)(8)(A) of Pub. L. 97–248 applicable to taxable years beginning after Dec. 31,1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
+Amendment by section 201(d)(8)(A) of Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
 
 Amendment by section 265(b)(2)(A)(iv) of Pub. L. 97–248 applicable to distributions after Dec. 31, 1982, see section 265(c)(2) of Pub. L. 97–248, set out as a note under section 72 of this title.
 

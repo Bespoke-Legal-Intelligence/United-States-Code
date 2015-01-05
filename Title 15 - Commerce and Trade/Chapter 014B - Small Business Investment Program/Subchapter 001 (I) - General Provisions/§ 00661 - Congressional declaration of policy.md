@@ -76,7 +76,7 @@ Pub. L. 85–699, title I, §101, Aug. 21, 1958, 72 Stat. 689, as amended by Pub
 
 #### Regulations
 
-Pub. L. 102–366, title IV, §415, Sept. 4, 1992, 106 Stat. 1018, provided that: "Notwithstanding any law, rule,regulation or administrative moratorium, except as otherwise expressly provided in this Act \[probably means "this title", see Short Title of 1992 Amendment note above\], the Small Business Administration shall—
+Pub. L. 102–366, title IV, §415, Sept. 4, 1992, 106 Stat. 1018, provided that: "Notwithstanding any law, rule, regulation or administrative moratorium, except as otherwise expressly provided in this Act \[probably means "this title", see Short Title of 1992 Amendment note above\], the Small Business Administration shall—
 
 &emsp;"(1) within 90 days after the date of enactment of this Act \[Sept. 4, 1992\], publish in the Federal Register proposed rules and regulations implementing this Act and the amendments made by this Act; and
 

@@ -30,7 +30,7 @@ Annual Report Related to Installations Energy Management.—Not later than 120 d
 
 (b)
 
-Annual Report Related to Operational Energy.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Operational Energy Plans and Programs, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 138c of this title.
+Annual Report Related to Operational Energy.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of theoperational energy strategy established pursuant to section 138c <sup>1</sup> of this title.
 
 (2) The annual report under this subsection shall address and include the following:
 
@@ -54,7 +54,7 @@ Annual Report Related to Operational Energy.—(1) Simultaneous with the annual 
 
 (3) If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§314(b), 342, div. B, title XXVIII, §§2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, §1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§314(b), 342, div. B, title XXVIII, §§2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, §1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, §901(k)(4), Dec. 19, 2014, 128 Stat. 3468.)
 
 #### References in Text
 
@@ -62,7 +62,11 @@ The Energy Policy Act of 2005, referred to in subsec. (a)(1), is Pub. L. 109–5
 
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), (9), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under section 6834 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of Title 42 and Tables.
 
+Section 138c of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 113–291, div. A, title IX, §901(g)(2), Dec. 19, 2014, 128 Stat. 3466. See now section 2926 of this title, enacted by Pub. L. 113–291, which relates to operational energy activities and is largely comprised of provisions transferred from former section 138c.
+
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–291 substituted "Energy, Installations, and Environment" for "Operational Energy Plans and Programs".
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §1076(d)(6)(A), substituted "section 553" for "section 533".
 
@@ -107,4 +111,6 @@ Subsec. (b)(4). Pub. L. 112–81, §2821(b)(4), struck out par. (4) which read a
 Subsec. (a). Pub. L. 110–417, §2832, in heading substituted "Annual Report Related to Installations Energy Management" for "Report Required", in par. (1) inserted ", the Energy Independence and Security Act of 2007 (Public Law 110–140)," after "(Public Law 109–58)", and added par. (6).
 
 Subsec. (b). Pub. L. 110–417, §331(a), added subsec. (b) and struck out former subsec. (b) which related to requirements for the initial report to be submitted by the Secretary of Defense.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

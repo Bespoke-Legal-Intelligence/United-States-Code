@@ -78,7 +78,7 @@ In subsection (c), the words "not less than $5" are omitted as surplusage.
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190, §639(a), substituted ", the Persian Gulf conflict, or a contingency operation" for "or during the Persian Gulf conflict" before period at end of second sentence and struck out at end "For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law."
+<b>1991</b>—Subsec. (b). Pub. L. 102–190, §639(a), substituted ", the Persian Gulf conflict, or a contingency operation" for "or during the Persian Gulf conflict" before period at end of second sentence and struck out at end "For purposes of this subsection, the Vietnam conflictbegins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law."
 
 Pub. L. 102–25, §310(a), (c)(1), struck out ", as defined in section 551(2) of title 37," after "missing status", inserted "or during the Persian Gulf conflict" before period at end of second sentence, and substituted "May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law" for "the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam".
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 102–190, §639(b), added subsec. (f) and redesignated for
 
 Pub. L. 102–25, §310(b), added subsec. (f).
 
-Subsec. (g). Pub. L. 102–190, §639(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Priorto amendment, subsec. (g) read as follows: "In this section, the term 'missing status' has the meaning given such term in section 551(2) of title 37."
+Subsec. (g). Pub. L. 102–190, §639(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. (g) read as follows: "In this section, the term 'missing status' has the meaning given such term in section 551(2) of title 37."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–661 substituted "armed forces" for "armed force".
 
@@ -136,7 +136,7 @@ Pub. L. 89–538, §2, Aug. 14, 1966, 80 Stat. 347, provided that:
 
 #### Extension of Coverage to Public Health Service and Coast and Geodetic Survey Personnel; Rules and Regulations
 
-Pub. L. 89–538, §3(c), Aug. 14, 1966, 80 Stat. 348, provided that: "Regulations prescribed by the Secretary of Commerce and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under subsections (a) and (b) \[extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively\] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of title 10, United States Code."
+Pub. L. 89–538, §3(c), Aug. 14, 1966, 80 Stat. 348, provided that: "Regulations prescribed by the Secretary ofCommerce and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under subsections (a) and (b) \[extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively\] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of title 10, United States Code."
 
 #### Public Health Service
 

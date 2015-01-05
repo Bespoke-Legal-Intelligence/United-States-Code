@@ -78,7 +78,7 @@
 
 #### (B) Composition
 
-&emsp;&emsp;The State Coordinating Committee shall be chaired and administered by the State forester, or equivalent State official, or the designee thereof, and shall be composed, to the extent practicable, of—
+&emsp;&emsp;The State Coordinating Committee shall be chaired and administered by the Stateforester, or equivalent State official, or the designee thereof, and shall be composed, to the extent practicable, of—
 
 &emsp;&emsp;&emsp;(i) representatives from the Forest Service, Soil Conservation Service, Agricultural Stabilization and Conservation Service, and National Institute of Food and Agriculture;
 

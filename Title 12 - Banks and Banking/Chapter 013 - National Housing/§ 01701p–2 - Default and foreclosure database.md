@@ -42,7 +42,7 @@ In establishing and maintaining the database described in subsection (a), the Se
 
 #### Codification
 
-Section was enacted as part of the Expand and Preserve Home Ownership Through Counseling Act and also as part of the Mortgage Reform and Anti-Predatory Lending Act and as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the National Housing Act which comprises this chapter.
+Section was enacted as part of the Expand and Preserve Home Ownership Through Counseling Act andalso as part of the Mortgage Reform and Anti-Predatory Lending Act and as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the National Housing Act which comprises this chapter.
 
 #### Effective Date
 

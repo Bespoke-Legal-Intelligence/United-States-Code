@@ -8,7 +8,7 @@ Conveyance Authority.—The Secretary of a military department may convey a util
 
 Selection of Conveyee.—(1) If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
 
-(2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
+(2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other thancompetitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
 
 (3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
 
@@ -100,7 +100,7 @@ A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d)(2). Pub. L. 113–66 inserted at end "The determination of cost effectiveness shall be madeusing a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract."
+<b>2013</b>—Subsec. (d)(2). Pub. L. 113–66 inserted at end "The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract."
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–81, §1061(21)(A), struck out par. (1) designation before "The Secretary of a military department" and struck out pars. (2) and (3) which related to conditions for entry into a contract to convey all or part of a utility system and conditions under which the Secretary concerned could not reconsider conversion to contractor operation under section 2461 of this title for a five-year period, respectively.
 

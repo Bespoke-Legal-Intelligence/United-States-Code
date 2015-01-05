@@ -18,7 +18,7 @@ No deduction shall be allowed for—
 
 #### (4) Interest related to exempt-interest dividends
 
-&emsp;Interest on indebtedness incurred or continued to purchase or carry shares of stock of a regulated investment company which during the taxable year of the holder thereof distributes exempt-interest dividends.
+&emsp;Interest on indebtedness incurred or continued to purchase or carry shares of stock of a regulated investment company which duringthe taxable year of the holder thereof distributes exempt-interest dividends.
 
 #### (5) Special rules for application of paragraph (2) in the case of short sales
 
@@ -130,7 +130,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;&emsp;(II) the average maturity date of the refunding obligations issued as part of the issue of which such refunding obligation is a part is not later than the average maturity date of the obligations to be refunded by such issue, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the refunding obligation has a maturity date which is not later than thedate which is 30 years after the date the original qualified tax-exempt obligation was issued.
+&emsp;&emsp;&emsp;&emsp;(III) the refunding obligation has a maturity date which is not later than the date which is 30 years after the date the original qualified tax-exempt obligation was issued.
 
 &emsp;&emsp;&nbsp;Subclause (II) shall not apply if the average maturity of the issue of which the original qualified tax-exempt obligation was a part (and of the issue of which the obligations to be refunded are a part) is 3 years or less. For purposes of this clause, average maturity shall be determined in accordance with section 147(b)(2)(A).
 
@@ -282,7 +282,7 @@ Pub. L. 97–34, §301(b)(2), inserted ", or to purchase or carry any certifica
 
 Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
-<b>1964</b>—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable yeardoesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
+<b>1964</b>—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable year doesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
 
 #### Effective Date of 2009 Amendment
 
@@ -368,7 +368,7 @@ Transitional rules.—For purposes of sections 265(b) and 291(e)(1)(B) of the In
 
 &emsp;"(K) Louisville, Kentucky, Speed Mansion renovation project.
 
-&emsp;"(L) Charleston, South Carolina, 2 Festival Market Place projects at Union Pier Terminal and 1 project at the Remount Road Container Yard, State Pier No. 15 at North Charleston Terminal.
+&emsp;"(L) Charleston, South Carolina, 2 Festival Market Place projects at Union Pier Terminal and 1 projectat the Remount Road Container Yard, State Pier No. 15 at North Charleston Terminal.
 
 &emsp;"(M) New Orleans, Louisiana, Upper Pontalba Building renovation.
 

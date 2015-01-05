@@ -90,7 +90,7 @@ Public transportation performance targets.—In urbanized areas with a populatio
 
 &emsp;&emsp;(C)
 
-Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
+Integration of other performance-based plans.—A State shall integrate intothe statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
 
 &emsp;&emsp;(D)
 
@@ -116,7 +116,7 @@ Long-Range Statewide Transportation Plan.—
 
 &emsp;(1)
 
-Development.—Each State shall develop a long-range statewide transportation plan,with a minimum 20-year forecast period for all areas of the State, that provides for the development and implementation of the intermodal transportation system of the State.
+Development.—Each State shall develop a long-range statewide transportation plan, with a minimum 20-year forecast period for all areas of the State, that provides for the development and implementation of the intermodal transportation system of the State.
 
 &emsp;(2)
 
@@ -290,7 +290,7 @@ In general.—An annual listing of projects for which funds have been obligated 
 
 &emsp;&emsp;&emsp;(ii)
 
-Funding categories.—The listing described in clause (i) shall be consistent with the funding categories identified in each metropolitan transportation improvement program.
+Funding categories.—The listing described in clause (i) shall be consistentwith the funding categories identified in each metropolitan transportation improvement program.
 
 &emsp;&emsp;(C)
 
@@ -410,7 +410,7 @@ Treatment of Certain State Laws as Congestion Management Processes.—For purpos
 
 (j)
 
-Continuation of Current Review Practice.—Since the statewide transportation plan and the transportation improvement program described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the statewide transportation plans and the transportation improvement program are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by theSecretary concerning statewide transportation plans or the transportation improvement program described in this section have not been reviewed under that Act as of January 1, 1997, any decision by the Secretary concerning a metropolitan or statewide transportation plan or the transportation improvement program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+Continuation of Current Review Practice.—Since the statewide transportation plan and the transportation improvement program described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the statewide transportation plans and the transportation improvement program are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning statewide transportation plans or the transportation improvement program described in this section have not been reviewed under that Act as of January 1, 1997, any decision by the Secretary concerning a metropolitan or statewide transportation plan or the transportation improvement program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 (k)
 
@@ -458,7 +458,7 @@ Duties.—The duties of a regional transportation planning organization shall in
 
 &emsp;(5)
 
-States without regional transportation planning organizations.—If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
+States without regional transportation planning organizations.—If a Statechooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 793; Pub. L. 105–178, title III, §3005, June 9, 1998, 112 Stat. 345; Pub. L. 105–206, title IX, §9009(c)(2), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3006(a), Aug. 10, 2005, 119 Stat. 1559; Pub. L. 112–141, div. B, §20006, July 6, 2012, 126 Stat. 643.)
 

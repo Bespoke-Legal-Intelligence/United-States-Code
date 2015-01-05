@@ -16,7 +16,7 @@ To be eligible to receive a grant award under this section, a State shall submit
 
 &emsp;&emsp;(i) persons convicted of a part 1 violent crime on average serve not less than 85 percent of the prison term established under the State's sentencing and release guidelines; or
 
-&emsp;&emsp;(ii) persons convicted of a part 1 violent crime on average serve not less than 85 percent of the maximum prison term allowedunder the sentence imposed by the court (not counting time not actually served such as administrative or statutory incentives for good behavior); and
+&emsp;&emsp;(ii) persons convicted of a part 1 violent crime on average serve not less than 85 percent of the maximum prison term allowed under the sentence imposed by the court (not counting time not actually served such as administrative or statutory incentives for good behavior); and
 
 &emsp;(2) such State has provided assurances that it will follow guidelines established by the Attorney General in reporting, on a quarterly basis, information regarding the death of any person who is in the process of arrest, is en route to be incarcerated, or is incarcerated at a municipal or county jail, State prison, or other local or State correctional facility (including any juvenile facility) that, at a minimum, includes—
 

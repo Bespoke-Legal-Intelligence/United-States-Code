@@ -6,7 +6,7 @@ Each budget request submitted to Congress for the Department under section 1105 
 
 #### (b) Contents
 
-The Future Years Homeland Security Program under subsection (a) of this section shall—
+The Future Years Homeland Security Program under subsection (a) shall—
 
 &emsp;(1) include the same type of information, organizational structure, and level of detail as the future years defense program submitted to Congress by the Secretary of Defense under section 221 of title 10;
 
@@ -22,5 +22,5 @@ This section shall take effect with respect to the preparation and submission of
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–330 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Future Years Homeland Security Program under subsection (a) of this section shall be structured, and include the same type of information and level of detail, as the Future Years Defense Program submitted to Congress by the Department of Defense under section 221 of title 10.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–330 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Future Years Homeland Security Program under subsection (a) of this section shall be structured, and include the same type of information and level of detail, as the Future Years Defense Program submitted to Congress by the Department of Defense under section 221 of title 10."
 

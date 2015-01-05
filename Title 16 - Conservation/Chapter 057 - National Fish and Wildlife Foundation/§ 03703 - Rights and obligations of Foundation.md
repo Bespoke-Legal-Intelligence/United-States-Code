@@ -186,7 +186,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 
 &emsp;&emsp;"(D) the occurrence of whale populations in offshore waters where undertaking research, monitoring, and conservation measures is difficult and costly;
 
-&emsp;"(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and AtmosphericAdministration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
+&emsp;"(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and Atmospheric Administration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
 
 &emsp;"(B) the heads of other Federal agencies and the Marine Mammal Commission established under section 201 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1401) have related research and management activities under the Marine Mammal Protection Act of 1972 or the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 

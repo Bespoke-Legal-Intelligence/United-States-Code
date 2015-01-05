@@ -20,7 +20,7 @@ Duties of Director.—(1) The Director shall have the following duties:
 
 &emsp;&emsp;(ii) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in section 139(i) <sup>1</sup> of this title.
 
-&emsp;(B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
+&emsp;(B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
 
 &emsp;(C) To complete and maintain the strategic plan required by subsection (d).
 
@@ -44,9 +44,11 @@ Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) No
 
 &emsp;(D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
 
-&emsp;(E) An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
+&emsp;(E) An assessment of plans and business case analyses supporting any significant modification of the test and evaluation facilities and resources of the Department projected, proposed, or recommended by the Secretary of a military department or the head of a Defense Agency for such period, including with respect to the expansion, divestment, consolidation, or curtailment of activities.
 
-&emsp;(F) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
+&emsp;(F) An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
+
+&emsp;(G) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
 
 (3) Upon completing a strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
 
@@ -54,7 +56,7 @@ Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) No
 
 (e)
 
-Certification of Budgets.—(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary's or Defense Agency head's proposed budget for test and evaluation activities for a fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
+Certification of Budgets.—(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary's or Defense Agency head's proposed budget for test and evaluation activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
 
 (2)(A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 of the year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
 
@@ -68,23 +70,41 @@ Certification of Budgets.—(1) The Secretary of Defense, acting through the Und
 
 (f)
 
-Supervision of Director by Under Secretary.—The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
+Approval of Certain Modifications.—(1) The Secretary of a military department or the head of a Defense Agency with test and evaluation responsibilities may not implement a projected, proposed, or recommended significant modification of the test and evaluation facilities and resources of the Department, including with respect to the expansion, divestment, consolidation, or curtailment of activities, until—
+
+&emsp;(A) the Secretary or the head, as the case may be, submits to the Director a business case analysis for such modification; and
+
+&emsp;(B) the Director reviews such analysis and approves such modification.
+
+(2) The Director shall submit to the Secretary of Defense an annual report containing the comments of the Director with respect to each business case analysis reviewed under paragraph (1)(B) during the year covered by the report.
 
 (g)
 
-Administrative Support of Center.—The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director's responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
+Supervision of Director by Under Secretary.—The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
 
 (h)
 
+Administrative Support of Center.—The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director's responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
+
+(i)
+
 Definition.—In this section, the term "Major Range and Test Facility Base" means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 
-(Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, §251, Oct. 28, 2009, 123 Stat. 2241.)
+(Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, §251, Oct. 28, 2009, 123 Stat. 2241; Pub. L. 113–291, div. A, title II, §214, Dec. 19, 2014, 128 Stat. 3326.)
 
 #### References in Text
 
 Section 139(i) of this title, referred to in subsec. (c)(1)(A)(ii), was redesignated as section 139(j) of this title by Pub. L. 110–181, title II, §221, Jan. 28, 2008, 122 Stat. 37.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1)(B). Pub. L. 113–291, §214(a), inserted ", including with respect to the expansion, divestment, consolidation, or curtailment of activities," after "Base".
+
+Subsec. (d)(2)(E) to (G). Pub. L. 113–291, §214(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+Subsec. (e)(1). Pub. L. 113–291, §214(c), inserted "and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year" after "activities for a fiscal year".
+
+Subsecs. (f) to (i). Pub. L. 113–291, §214(d), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–84 inserted par. (1) designation before "The Director", redesignated former par. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
 
@@ -102,7 +122,7 @@ Subsec. (e)(1). Pub. L. 108–136, §212(b)(2), struck out ", the Director of O
 
 #### Administration of Programs To Begin After First Strategic Plan
 
-Pub. L. 107–314, div. A, title II, §231(b), (c), Dec. 2, 2002, 116 Stat. 2489, directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec.\(c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.
+Pub. L. 107–314, div. A, title II, §231(b), (c), Dec. 2, 2002, 116 Stat. 2489, directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec. (c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

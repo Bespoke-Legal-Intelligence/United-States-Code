@@ -6,41 +6,13 @@ Ten-Month Clearance Percentage.—Of the applications received by a Corrections 
 
 &nbsp;
 
-<b>The percentage on which final </b>
-
-<b> For applications</b>
-
-<b>Correction Board action   </b>
-
-<b> received during—</b>
-
-<b>must be completed within  </b>
-
-&nbsp;
-
-<b>10 months of receipt is—   </b>
-
-&nbsp;&nbsp;the  period  of  fiscal  years  2001  and  2002
-
-50&nbsp;&nbsp;
-
-&nbsp;&nbsp;the  period  of  fiscal  years  2003  and  2004
-
-60&nbsp;&nbsp;
-
-&nbsp;&nbsp;the period of fiscal years 2005, 2006, and     2007
-
-70&nbsp;&nbsp;
-
-&nbsp;&nbsp;the period of fiscal years 2008, 2009, and     2010
-
-80&nbsp;&nbsp;
-
-&nbsp;&nbsp;the period of any fiscal year after fiscal     year 2010
-
-90\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| For applications received during—&nbsp; | <b>The percentage on which final Correction Board action must be completed within 10 months ofreceipt is—</b> |
+| :--- | ---: |
+| the period of fiscal years 2001 and 2002 | 50&nbsp;&nbsp;&nbsp; |
+| the period of fiscal years 2003 and 2004 | 60&nbsp;&nbsp;&nbsp; |
+| the period of fiscal years 2005, 2006, and 2007 | 70&nbsp;&nbsp;&nbsp; |
+| the period of fiscal years 2008, 2009, and 2010 | 80&nbsp;&nbsp;&nbsp; |
+| the period of any fiscal year after fiscal year 2010 | 90\.&nbsp; |
 
 (b)
 
@@ -52,7 +24,7 @@ Waiver Authority.—The Secretary of the military department concerned may exclu
 
 (d)
 
-Failure To Meet Timeliness Standards Not To Affect Any Individual Application.—Failure of a Corrections Board to meet the applicable timeliness standard for any period of time under subsection (a) or (b) does not confer any presumption or advantage with respect to consideration by the board of any application.
+Failure To Meet Timeliness Standards Not To Affect Any Individual Application.—Failure of a Corrections Board to meet the applicable timeliness standard for any period of time under subsection (a) or (b) does not conferany presumption or advantage with respect to consideration by the board of any application.
 
 (e)
 

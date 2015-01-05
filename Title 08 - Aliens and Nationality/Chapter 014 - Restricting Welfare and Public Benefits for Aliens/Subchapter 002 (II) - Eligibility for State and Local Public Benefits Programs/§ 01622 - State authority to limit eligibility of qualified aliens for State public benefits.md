@@ -48,7 +48,7 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 The Immigration and Nationality Act, referred to in subsecs. (a) and (b)(2)(A), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(1)(D), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
@@ -58,19 +58,19 @@ The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 19
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(1)(C). Pub. L. 105–33, §5581(b)(3), substituted “withholding” for “with-holding”.
+<b>1997</b>—Subsec. (b)(1)(C). Pub. L. 105–33, §5581(b)(3), substituted "withholding" for "with-holding".
 
-Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
 
 Subsec. (b)(1)(D). Pub. L. 105–33, §5302(c)(2), added subpar. (D).
 
 Subsec. (b)(1)(E). Pub. L. 105–33, §5306(d), added subpar. (E).
 
-Subsec. (b)(3)(A). Pub. L. 105–33, §5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+Subsec. (b)(3)(A). Pub. L. 105–33, §5563(c), inserted ", 1101, or 1301, or as described in section 107" after "section 101".
 
-Pub. L. 105–33, §5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+Pub. L. 105–33, §5563(a), inserted "and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38" after "alienage".
 
-Subsec. (b)(3)(C). Pub. L. 105–33, §5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+Subsec. (b)(3)(C). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
 
 #### Effective Date of 1997 Amendment
 
@@ -80,5 +80,5 @@ Amendment by sections 5562, 5563, and 5581(b)(3) of Pub. L. 105–33 effective a
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph (A) or (B)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subparagraph (A) or (B)".</i>
 

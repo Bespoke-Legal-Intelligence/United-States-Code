@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Pay Compensation.—The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armedforces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
+Authority To Pay Compensation.—The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
 
 (b)
 
@@ -34,7 +34,7 @@ Recipients of Payments.—In the case of any individual described in subsection 
 
 &emsp;(3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 
-&emsp;(4) For purposes of this subsection, an individual's status as a "dependent child" shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
+&emsp;(4) For purposes of this subsection, an individual's status as a "dependent child" shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the separation action is initiated by a commander of the individual described in subsection (b).
 
 (e)
 
@@ -104,7 +104,7 @@ Dependent Child Defined.—In this section, the term "dependent child", with res
 
 &emsp;(1) who is under 18 years of age;
 
-&emsp;(2) who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the caseof the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support; or
+&emsp;(2) who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support; or
 
 &emsp;(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support.
 
@@ -116,9 +116,11 @@ Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary co
 
 (3) The authority of the Secretary concerned under paragraph (1) may not be delegated.
 
-(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748.)
+(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, §621, Dec. 19, 2014, 128 Stat. 3401.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(4). Pub. L. 113–291 substituted "as of the date on which the separation action is initiated by a commander of the individual described in subsection (b)" for "as of the date on which the individual described in subsection (b) is separated from active duty".
 
 <b>2013</b>—Subsec. (f)(4). Pub. L. 112–239, §564(a)(1), added par. (4).
 
@@ -214,5 +216,5 @@ Pub. L. 103–160, div. A, title V, §554(b), Nov. 30, 1993, 107 Stat. 1666, as 
 
 #### Duration of Transitional Compensation Payments
 
-Pub. L. 108–136, div. A, title V, §572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: "Policies under subsection (e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\]."
+Pub. L. 108–136, div. A, title V, §572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: "Policies under subsection\(e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\]."
 

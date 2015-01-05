@@ -6,7 +6,7 @@ Not later than 3 months after November 27, 2002, the Director of the National In
 
 &emsp;(1) review existing studies and associated data on the architectural, hardware, and software vulnerabilities and interdependencies in United States critical infrastructure networks;
 
-&emsp;(2) identify and assess gaps in technical capability for robust critical infrastructure network security and make recommendations forresearch priorities and resource requirements; and
+&emsp;(2) identify and assess gaps in technical capability for robust critical infrastructure network security and make recommendations for research priorities and resource requirements; and
 
 &emsp;(3) review any and all other essential elements of computer and network security, including security of industrial process controls, to be determined in the conduct of the study.
 

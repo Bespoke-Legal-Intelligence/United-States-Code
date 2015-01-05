@@ -77,7 +77,7 @@ Pub. L. 110–181, div. A, title VI, §671(b)(2), title XII, §1203(e)(2), Jan. 
 
 Pub. L. 104–106, div. A, title XV, §1504(a)(2), Feb. 10, 1996, 110 Stat. 513, made technical correction to Pub. L. 103–337, §531(g)(2). See 1994 Amendment note below.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title V, §531(g)(2), Oct. 5, 1994, 108 Stat. 2758, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(2), Feb. 10, 1996, 110 Stat. 513, substituted "Protected communications;" for "Communicating with a Member of Congress or Inspector General;" in item 1034.
+<b>1994</b>—Pub. L. 103–337, div. A, title V, §531(g)(2), Oct. 5, 1994, 108 Stat. 2758, as amended by Pub. L. 104–106, div.A, title XV, §1504(a)(2), Feb. 10, 1996, 110 Stat. 513, substituted "Protected communications;" for "Communicating with a Member of Congress or Inspector General;" in item 1034.
 
 Pub. L. 103–337, div. A, title V, §535(c)(2), title VI, §653(b), title X, §1070(a)(5)(B), (6)(B), title XVI, §1671(b)(9), Oct. 5, 1994, 108 Stat. 2763, 2795, 2855, 3013, struck out item 1033 "Compensation: Reserve on active duty accepting from any person", redesignated item 1058 "Dependents of members separated for dependent abuse: transitional compensation" as item 1059 and amended it generally, redesignated item 1058 "Military service of retired members with newly democratic nations: consent of Congress" as item 1060, and added item 1060a.
 
@@ -85,7 +85,7 @@ Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, 
 
 <b>1993</b>—Pub. L. 103–160, div. A, title V, §§551(a)(2), 574(b), title XIV, §1433(b)(2), Nov. 30, 1993, 107 Stat. 1662, 1675, 1834, added item 1044b and items 1058 "Responsibilities of military law enforcement officials at scenes of domestic violence" and 1058 "Military service of retired members with newly democratic nations: consent of Congress".
 
-Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A,title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 "Dependents of members separated for dependent abuse: transitional compensation".
+Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 "Dependents of members separated for dependent abuse: transitional compensation".
 
 <b>1992</b>—Pub. L. 102–484, div. A, title VI, §651(b), title X, §1080(b), Oct. 23, 1992, 106 Stat. 2426, 2514, added items 1046 and 1057.
 
@@ -167,7 +167,7 @@ Regulations.—The Secretary of Defense shall issue regulations implementing the
 
 #### Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages
 
-Pub. L. 112–81, div. A, title V, §544, Dec. 31, 2011, 125 Stat. 1412, provided that: "A military chaplain who, as a matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so."
+Pub. L. 112–81, div. A, title V, §544, Dec. 31, 2011, 125 Stat. 1412, provided that: "A military chaplain who, asa matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so."
 
 #### Prohibition on Infringing on the Individual Right to Lawfully Acquire, Possess, Own, Carry, and Otherwise Use Privately Owned Firearms, Ammunition, and Other Weapons
 

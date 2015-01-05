@@ -14,15 +14,15 @@ In this subchapter:
 
 #### (2) Counter-cyclical payment
 
-&emsp;The term "counter-cyclical payment" means a payment made to producers on a farm under section 8754 of this title.
+&emsp;The term "counter-cyclical payment" means a payment made to producers on a farm under section 8754 <sup>1</sup> of this title.
 
 #### (3) Direct payment
 
-&emsp;The term "direct payment" means a direct payment made to producers on a farm under section 8753 of this title.
+&emsp;The term "direct payment" means a direct payment made to producers on a farm under section 8753 <sup>1</sup> of this title.
 
 #### (4) Effective price
 
-&emsp;The term "effective price" means the price calculated by the Secretary under section 8754 of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
+&emsp;The term "effective price" means the price calculated by the Secretary under section 8754 <sup>1</sup> of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
 
 #### (5) Payment acres
 
@@ -72,7 +72,15 @@ In this subchapter:
 
 (Pub. L. 110–234, title I, §1301, May 22, 2008, 122 Stat. 966; Pub. L. 110–246, §4(a), title I, §1301, June 18, 2008, 122 Stat. 1664, 1695.)
 
+#### References in Text
+
+Section 8754 of this title, referred to in pars. (2) and (4), was repealed by Pub. L. 113–79, title I, §1102(a), Feb. 7, 2014, 128 Stat. 658.
+
+Section 8753 of this title, referred to in par. (3), was repealed by Pub. L. 113–79, title I, §1101, Feb. 7, 2014, 128 Stat. 658.
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

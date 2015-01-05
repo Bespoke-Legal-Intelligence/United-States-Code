@@ -10,7 +10,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 &emsp;The term "audit report" means a document, report, notice, or other record—
 
-&emsp;&emsp;(A) prepared following an audit performed for purposes of compliance by an issuer,broker, or dealer with the requirements of the securities laws; and
+&emsp;&emsp;(A) prepared following an audit performed for purposes of compliance by an issuer, broker, or dealer with the requirements of the securities laws; and
 
 &emsp;&emsp;(B) in which a public accounting firm either—
 

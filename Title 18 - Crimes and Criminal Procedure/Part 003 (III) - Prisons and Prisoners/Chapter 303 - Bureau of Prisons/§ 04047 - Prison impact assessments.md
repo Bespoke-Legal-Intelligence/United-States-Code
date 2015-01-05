@@ -12,7 +12,7 @@
 
 &emsp;(4) a statement of the methodologies and assumptions utilized in preparing the assessment.
 
-(c) The Attorney General shall prepare and transmit to the Congress, by March 1 of each year, a prison impact assessment reflecting the cumulative effect of all relevant changes in thelaw taking effect during the preceding calendar year.
+(c) The Attorney General shall prepare and transmit to the Congress, by March 1 of each year, a prison impact assessment reflecting the cumulative effect of all relevant changes in the law taking effect during the preceding calendar year.
 
 (Added Pub. L. 103–322, title II, §20402(a), Sept. 13, 1994, 108 Stat. 1824.)
 

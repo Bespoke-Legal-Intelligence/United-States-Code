@@ -54,7 +54,7 @@ The Secretary shall establish a process for the voluntary mediation of disputes 
 
 #### (i) Professional personnel; employment, assignment, or transfer
 
-The Secretary shall employ, assign, or transfer sufficient professional personnel, includingjudges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.
+The Secretary shall employ, assign, or transfer sufficient professional personnel, including judges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.
 
 (Pub. L. 90–247, title IV, §451, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2346; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 349.)
 

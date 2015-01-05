@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-To provide access to sources of private financing to Indian families, Indian housing authorities, and Indian tribes, who otherwise could not acquire housing financing because of the unique legal status of Indian lands, the Secretary may guarantee not to exceed 100 percent of the unpaid principal and interest due on any loan eligible under subsection (b) of this section made to an Indian family, Indian housing authority, or Indian tribe.
+To provide access to sources of private financing to Indian families, Indian housing authorities, and Indian tribes, who otherwise could not acquire housing financing because of the unique legal status of Indian lands, the Secretary may guarantee not to exceed 100 percent of the unpaid principal and interest due on any loan eligible under subsection (b) made to an Indian family, Indian housing authority, or Indian tribe.
 
 #### (b) Eligible loans
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (1) In general
 
-&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, to exercise proper credit or underwriting judgment, or has engaged in practices otherwise detrimental to the interest of a borrower or the United States, the Secretary may—
+&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) has failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, to exercise proper credit or underwriting judgment, or has engaged in practices otherwise detrimental to the interest of a borrower or the United States, the Secretary may—
 
 &emsp;&emsp;(A) refuse, either temporarily or permanently, to guarantee any further loans made by such lender or holder;
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (2) Civil money penalties for intentional violations
 
-&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has intentionally failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, or to exercise proper credit or underwriting judgment, the Secretary may impose a civil money penalty on such lender or holder in the manner and amount provided under section 536 of the National Housing Act \[12 U.S.C. 1735f–14\] with respect to mortgagees and lenders under such Act.
+&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) has intentionally failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, or to exercise proper credit or underwriting judgment, the Secretary may impose a civil money penalty on such lender or holder in the manner and amount provided under section 536 of the National Housing Act \[12 U.S.C. 1735f–14\] with respect to mortgagees and lenders under such Act.
 
 #### (3) Payment on loans made in good faith
 
@@ -108,15 +108,15 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (i) Foreclosure
 
-&emsp;&emsp;&emsp;The holder of the certificate may initiate foreclosure proceedings (after providing written notice of such action to the Secretary) and upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (e) of this section) plus reasonable fees and expenses as approved by the Secretary. The Secretary shall be subrogated to the rights of the holder of the guarantee and the lender holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;The holder of the certificate may initiate foreclosure proceedings (after providing written notice of such action to the Secretary) and upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (e)) plus reasonable fees and expenses as approved by the Secretary. The Secretary shall be subrogated to the rights of the holder of the guarantee and the lender holder shall assign the obligation and security to the Secretary.
 
 #### (ii) No foreclosure
 
-&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e)). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
 
 #### (B) Requirements
 
-&emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder of the guarantee shall exhaust all reasonable possibilities of collection. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
+&emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder ofthe guarantee shall exhaust all reasonable possibilities of collection. Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
 
 #### (2) Limitations on liquidation
 
@@ -136,7 +136,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;(B) any amounts appropriated under paragraph (7);
 
-&emsp;&emsp;(C) any guarantee fees collected under subsection (d) of this section; and
+&emsp;&emsp;(C) any guarantee fees collected under subsection (d); and
 
 &emsp;&emsp;(D) any interest or earnings on amounts invested under paragraph (4).
 
@@ -236,7 +236,7 @@ For purposes of this section:
 
 &emsp;(1) The term "family" means 1 or more persons maintaining a household, as the Secretary shall by regulation provide.
 
-&emsp;(2) The term "Guarantee Fund" means the Indian Housing Loan Guarantee Fund established under subsection (i) of this section.
+&emsp;(2) The term "Guarantee Fund" means the Indian Housing Loan Guarantee Fund established under subsection (i).
 
 &emsp;(3) The term "Indian" means person recognized as being Indian or Alaska Native by an Indian tribe, the Federal Government, or any State.
 
@@ -260,7 +260,7 @@ For purposes of this section:
 
 &emsp;(6) The term "Secretary" means the Secretary of Housing and Urban Development.
 
-&emsp;(7) The term "standard housing" means a dwelling unit or housing that complies with the requirements established under subsection (j) of this section.
+&emsp;(7) The term "standard housing" means a dwelling unit or housing that complies with the requirements established under subsection (j).
 
 &emsp;(8)
 
@@ -268,11 +268,11 @@ Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe
 
 &emsp;(9) The term "trust land" means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–37, §2, June 18, 2007, 121 Stat. 229; Pub. L. 113–6, div. F, title VIII, §1806, Mar. 26, 2013, 127 Stat. 433.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–37, §2, June 18, 2007, 121 Stat. 229; Pub. L. 113–6, div. F, title VIII, §1806, Mar. 26, 2013, 127 Stat. 433; Pub. L. 113–235, div. K, title II, §241, Dec. 16, 2014, 128 Stat. 2759.)
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, asamended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
@@ -289,6 +289,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(1)(B). Pub. L. 113–235 inserted after first sentence "Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary."
 
 <b>2013</b>—Subsec. (d). Pub. L. 113–6 amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary shall fix and collect a guarantee fee for the guarantee of loans under this section, which may not exceed the amount equal to 1 percent of the principal obligation of the loan. The fee shall be paid by the lender at time of issuance of the guarantee and shall be adequate, in the determination of the Secretary, to cover expenses and probable losses. The Secretary shall deposit any fees collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i) of this section."
 
@@ -322,7 +324,7 @@ Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out "in a court 
 
 Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: "Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary."
 
-Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted "restricted Indian land, the mortgagee or" for "tribal allotted or trust land,", in second sentence substituted "mortgagee or the Secretary" for "Secretary" in two places, and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary."
+Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted "restricted Indian land, the mortgagee or" for "tribal allotted or trust land,", in second sentence substituted "mortgagee or the Secretary" for "Secretary" in two places, and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of theholder of the guarantee and the holder shall assign the obligation and security to the Secretary."
 
 Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year."
 
@@ -344,7 +346,7 @@ Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided th
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "3702(d)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "subsection (d) of this section".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection (d)".</i>
 
 <i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

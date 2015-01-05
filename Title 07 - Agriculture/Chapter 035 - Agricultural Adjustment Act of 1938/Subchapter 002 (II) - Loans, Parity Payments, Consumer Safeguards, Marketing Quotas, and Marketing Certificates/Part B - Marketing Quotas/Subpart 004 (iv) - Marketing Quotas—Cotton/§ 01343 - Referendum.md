@@ -1,6 +1,6 @@
 ### §1343. Referendum
 
-Not later than December 15 following the issuance of the marketing quota proclamation provided for in section 1342 of this title, the Secretary shall conduct a referendum, by secret ballot, of farmers engaged in the production of cotton in the calendar year in which the referendum is held, to determine whether such farmers are in favor of or opposed to the quota so proclaimed. If more than one-third of the farmers voting in the referendum oppose the national marketing quota, such quota shall become ineffective upon proclamation of the results of the referendum. The Secretary shall proclaim the results of any referendum held hereunder withinthirty days after the date of such referendum. Notwithstanding any other provision hereof, the referendum with respect to the national marketing quota for cotton for the marketing year beginning August 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress.
+Not later than December 15 following the issuance of the marketing quota proclamation provided for in section 1342 of this title, the Secretary shall conduct a referendum, by secret ballot, of farmers engaged in the production of cotton in the calendar year in which the referendum is held, to determine whether such farmers are in favor of or opposed to the quota so proclaimed. If more than one-third of the farmers voting in the referendum oppose the national marketing quota, such quota shall become ineffective upon proclamation of the results of the referendum. The Secretary shall proclaim the results of any referendum held hereunder within thirty days after the date of such referendum. Notwithstanding any other provision hereof, the referendum with respect to the national marketing quota for cotton for the marketing year beginning August 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress.
 
 (Feb. 16, 1938, ch. 30, title III, §343, 52 Stat. 56; Apr. 7, 1938, ch. 107, §8, 52 Stat. 203; July 26, 1939, ch. 376, 53 Stat. 1125; July 3, 1948, ch. 827, title II, §207(c), 62 Stat. 1257; Aug. 29, 1949, ch. 518, §1, 63 Stat. 670; Oct. 31, 1949, ch. 792, title IV, §415(e), 63 Stat. 1058; Pub. L. 97–77, §2(c), Nov. 13, 1981, 95 Stat. 1069; Pub. L. 99–157, §4, Nov. 15, 1985, 99 Stat. 818.)
 
@@ -31,6 +31,10 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 #### Inapplicability of Section
 
 Section inapplicable to 1984 and subsequent crops of extra long staple cotton, see section 3 of Pub. L. 98–88, set out as a note under section 1342 of this title.
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
 

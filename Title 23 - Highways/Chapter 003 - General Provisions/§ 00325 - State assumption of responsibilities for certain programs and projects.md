@@ -18,7 +18,7 @@ First 3 fiscal years.—In the first 3 fiscal years following the date of enactm
 
 &emsp;(2)
 
-Scope of program.—Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary's responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under any Federal law as such requirements apply to the following projects:
+Scope of program.—Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary's responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under anyFederal law as such requirements apply to the following projects:
 
 &emsp;&emsp;(A) Projects funded under section 104(h).<sup>1</sup>
 
@@ -94,7 +94,7 @@ Other federal agency views.—Before assigning to a State a responsibility of th
 
 (d)
 
-State Defined.—With respect to the recreational trails program, the term "State"means the State agency designated by the Governor of the State in accordance with section 206(c)(1).
+State Defined.—With respect to the recreational trails program, the term "State" means the State agency designated by the Governor of the State in accordance with section 206(c)(1).
 
 (e)
 

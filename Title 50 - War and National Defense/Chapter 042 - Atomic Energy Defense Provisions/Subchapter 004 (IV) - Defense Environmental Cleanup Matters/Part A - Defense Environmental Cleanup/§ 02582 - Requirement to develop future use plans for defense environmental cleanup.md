@@ -50,7 +50,7 @@ Section was formerly set out as a note under section 7274k of Title 42, The Publ
 
 Subsec. (a). Pub. L. 113–66, §3146(e)(2)(B), substituted "defense environmental cleanup" for "environmental restoration and waste management".
 
-Subsec. (b)(2) to (4). Pub. L. 113–66, §3146(e)(2)(C), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out former par. (2) which read as follows: "Rocky Flats Plant, Golden, Colorado."
+Subsec. (b)(2) to (4). Pub. L. 113–66, §3146(e)(2)(C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "Rocky Flats Plant, Golden, Colorado."
 
 Subsec. (c)(2). Pub. L. 113–66, §3146(e)(2)(D), substituted "for defense environmental cleanup" for "for program direction in carrying out environmental restoration and waste management".
 

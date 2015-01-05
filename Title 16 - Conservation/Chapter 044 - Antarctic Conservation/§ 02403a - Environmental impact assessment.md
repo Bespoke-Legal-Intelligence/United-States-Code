@@ -4,7 +4,7 @@
 
 (1)(A) The obligations of the United States under Article 8 of and Annex I to the Protocol shall be implemented by applying the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to proposals for Federal agency activities in Antarctica, as specified in this section.
 
-(B) The obligations contained in section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) shall apply to all proposals for Federal agency activities occurring in Antarctica and affecting the quality of the human environment in Antarctica or dependent or associated ecosystems, only as specified in this section. For purposes of the application of such section 102(2)(C) under this subsection, the term "significantly affecting the quality of the human environment" shall have the same meaning as the term "more than a minor or transitory impact".
+(B) The obligations contained in section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) shall apply to all proposals for Federal agency activities occurring in Antarctica and affecting the quality ofthe human environment in Antarctica or dependent or associated ecosystems, only as specified in this section. For purposes of the application of such section 102(2)(C) under this subsection, the term "significantly affecting the quality of the human environment" shall have the same meaning as the term "more than a minor or transitory impact".
 
 (2)(A) Unless an agency which proposes to conduct a Federal activity in Antarctica determines that the activity will have less than a minor or transitory impact, or unless a comprehensive environmental evaluation is being prepared in accordance with subparagraph (C), the agency shall prepare an initial environmental evaluation in accordance with Article 2 of Annex I to the Protocol.
 
@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, the requirements of this section sha
 
 #### (g) Decisions on permit applications
 
-The provisions of this section requiring environmental impact assessments (including initial environmental evaluations and comprehensive environmental evaluations) shall not apply to Federal actions with respect to issuing permits under section 2404 of this title.
+The provisions of this section requiring environmental impact assessments (including initial environmental evaluations and comprehensiveenvironmental evaluations) shall not apply to Federal actions with respect to issuing permits under section 2404 of this title.
 
 #### (h) Publication of notices
 

@@ -8,13 +8,11 @@ Section 2503(a) of Pub. L. 107–171, which directed that subchapter B (this sub
 
 #### Prior Provisions
 
-A prior subpart C, consisting of sections 3838n to 3838q, was redesignated subpart D of this part by Pub. L. 110–234, title II, §2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768.
+A prior subpart C, consisting of sections 3838n to 3838q, was redesignated subpart D of this part by Pub. L. 110–234, title II, §2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, and was subsequently repealed by Pub. L. 113–79, title II, §2705(a), Feb. 7, 2014, 128 Stat. 768.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03838h - Definitions](%C2%A7%2003838h%20-%20Definitions.md)
-- [&sect; 03838i - Farmland protection program](%C2%A7%2003838i%20-%20Farmland%20protection%20program.md)
-- [&sect; 03838j - Farm viability program](%C2%A7%2003838j%20-%20Farm%20viability%20program.md)
+- [&sect; 03838h to 3838j - Repealed. Pub. L. 113&#8211;79, title II, &sect;2704(a), Feb. 7, 2014, 128 Stat. 767](%C2%A7%2003838h%20to%203838j%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72704%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20767.md)

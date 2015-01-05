@@ -116,7 +116,7 @@ If—
 
 #### (6) Uncompensated use of trust property treated as a payment
 
-&emsp;For purposes of this subsection, a loan of cash or marketable securities (or the use of any other trust property) directly or indirectly to or by any United States person (whether or not a beneficiary under the terms of the trust) shall be treated as paid or accumulated for the benefit of a United States person. The preceding sentence shall not apply to the extent that the United States person repays the loan at a market rate of interest (or pays the fair market value of the use of such property) within a reasonable period of time.
+&emsp;For purposes of this subsection, a loan of cash or marketable securities (or the use ofany other trust property) directly or indirectly to or by any United States person (whether or not a beneficiary under the terms of the trust) shall be treated as paid or accumulated for the benefit of a United States person. The preceding sentence shall not apply to the extent that the United States person repays the loan at a market rate of interest (or pays the fair market value of the use of such property) within a reasonable period of time.
 
 #### (d) Presumption that foreign trust has United States beneficiary
 
@@ -146,7 +146,7 @@ Subsecs. (d), (e). Pub. L. 111–147, §532(a), added subsec. (d) and redesignat
 
 <b>1997</b>—Subsec. (a)(3)(C)(ii), (iii). Pub. L. 105–34 inserted ", owner," after "grantor".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1903(b), which directed that subsec. (a) of this section be amended by substituting "section 6048(a)(3)(B)(ii)" for "section404(a)(4) or 404A", was executed to par. (1) by making the substitution for "section 404(a)(4) Or section 404A" to reflect the probable intent of Congress. See 1998 Amendment note above.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1903(b), which directed that subsec. (a) of this section be amended by substituting "section 6048(a)(3)(B)(ii)" for "section 404(a)(4) or 404A", was executed to par. (1) by making the substitution for "section 404(a)(4) Or section 404A" to reflect the probable intent of Congress. See 1998 Amendment note above.
 
 Subsec. (a)(2)(B). Pub. L. 104–188, §1903(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "
 

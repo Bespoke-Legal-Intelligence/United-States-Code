@@ -34,7 +34,7 @@ Savings clause.—Nothing in this section shall limit or otherwise affect any ot
 
 #### References in Text
 
-The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure. The Supplemental Rules for Certain Admiralty and Maritime Claims, which are set out as part of the Federal Rules of Civil Procedure, were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
 
 The Federal Rules of Evidence, referred to in subsec. (b), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

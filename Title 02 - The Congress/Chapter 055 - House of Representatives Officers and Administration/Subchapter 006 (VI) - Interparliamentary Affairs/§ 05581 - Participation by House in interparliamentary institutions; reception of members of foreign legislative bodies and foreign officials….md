@@ -14,13 +14,13 @@ Section is based on section 1 of House Resolution No. 1047, Ninety-fifth Congres
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–83 substituted “$40,000” for “$80,000”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–83 substituted "$40,000" for "$80,000".
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–275 substituted “$80,000” for “$55,000”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–275 substituted "$80,000" for "$55,000".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House” and “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–186 substituted "applicable accounts of the House of Representatives" for "contingent fund of the House" and "House Oversight" for "House Administration".
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
 #### Change of Name
 

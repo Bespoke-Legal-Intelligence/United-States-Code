@@ -26,7 +26,7 @@
 
 &emsp;(A) at the end of the period for which the officer is retained the officer will be qualified for retirement under section 3911, 6323, or 8911 of this title; and
 
-&emsp;(B) the officer will not, before the end of that period, reach the age at which transfer from an active status or discharge is required by this title or title 14.
+&emsp;(B) the officer will not, before the end of that period, reach the age at which transferfrom an active status or discharge is required by this title or title 14.
 
 (3) An officer who is retained on active duty or full-time National Guard duty under this section may not be removed from an active status while on that duty.
 
@@ -96,7 +96,7 @@ Subsecs. (a), (b). Pub. L. 103–337, §1675(d)(3)(B), substituted "573, 1407, o
 
 Pub. L. 103–337, §1675(d)(3)(A), substituted "12732" for "1332" wherever appearing.
 
-Subsec. (e). Pub. L. 103–337, §1675(d)(3)(C), added subsec. (e) and struck out former subsec. (e) which read asfollows: "A reserve commissioned officer on active duty (other than for training) who, on the date on which he would otherwise be removed from an active status under section 3846, 3848, 3851, 3852, 6389, 6397, 6403, 6410, 8846, 8848, 8851, or 8852 of this title or section 740 of title 14, and who is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title, may, in the discretion of the Secretary concerned, be retained on active duty for a period of not more than two years, if at the end of that period he will be qualified for retirement under one of those sections and will not, before the end of that period, reach the age at which transfer from an active status or discharge is required by this title or title 14. An officer who is retained on active duty under this section may not be removed from an active status while he is on that duty. For officers covered by section 3846, 3848, 3851, or 3852 of this title, the ages at which transfer from an active status or discharge is required are those set forth in section 3843, 3844, or 3845 of this title, or section 21(e) of Public Law 85–861, as the case may be."
+Subsec. (e). Pub. L. 103–337, §1675(d)(3)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: "A reserve commissioned officer on active duty (other than for training) who, on the date on which he would otherwise be removed from an active status under section 3846, 3848, 3851, 3852, 6389, 6397, 6403, 6410, 8846, 8848, 8851, or 8852 of this title or section 740 of title 14, and who is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title, may, in the discretion of the Secretary concerned, be retained on active duty for a period of not more than two years, if at the end of that period he will be qualified for retirement under one of those sections and will not, before the end of that period, reach the age at which transfer from an active status or discharge is required by this title or title 14. An officer who is retained on active duty under this section may not be removed from an active status while he is on that duty. For officers covered by section 3846, 3848, 3851, or 3852 of this title, the ages at which transfer from an active status or discharge is required are those set forth in section 3843, 3844, or 3845 of this title, or section 21(e) of Public Law 85–861, as the case may be."
 
 <b>1980</b>—Subsec. (e). Pub. L. 96–513 substituted "Public Law 85–861" for "the Act enacting this section".
 

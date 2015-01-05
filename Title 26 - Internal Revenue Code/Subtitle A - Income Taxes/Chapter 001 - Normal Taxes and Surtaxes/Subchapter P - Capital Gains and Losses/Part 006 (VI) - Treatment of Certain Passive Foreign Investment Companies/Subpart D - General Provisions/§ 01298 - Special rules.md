@@ -166,7 +166,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any intangible property (as defined in section 936(h)(3)(B)) with respect to which a controlled foreign corporation isa licensee and which is used by such foreign corporation in the active conduct of a trade or business, the adjusted basis of the total assets of such foreign corporation shall be increased by an amount equal to 300 percent of the payments made during the taxable year by such foreign corporation for the use of such intangible property.
+&emsp;&emsp;In the case of any intangible property (as defined in section 936(h)(3)(B)) with respect to which a controlled foreign corporation is a licensee and which is used by such foreign corporation in the active conduct of a trade or business, the adjusted basis of the total assets of such foreign corporation shall be increased by an amount equal to 300 percent of the payments made during the taxable year by such foreign corporation for the use of such intangible property.
 
 #### (B) Exceptions
 

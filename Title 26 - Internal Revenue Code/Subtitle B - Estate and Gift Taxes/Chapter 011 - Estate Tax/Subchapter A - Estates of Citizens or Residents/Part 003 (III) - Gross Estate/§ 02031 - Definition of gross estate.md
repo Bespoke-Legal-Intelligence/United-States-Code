@@ -16,45 +16,13 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 &emsp;&emsp;(A) the applicable percentage of the value of land subject to a qualified conservation easement, reduced by the amount of any deduction under section 2055(f) with respect to such land, or
 
-&emsp;&emsp;(B) the exclusion limitation.
+&emsp;&emsp;(II) <sup>1</sup> $500,000.
 
 #### (2) Applicable percentage
 
-&emsp;For purposes of paragraph (1), the term "applicable percentage" means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservationeasement is less than 30 percent of the value of the land <sup>1</sup> (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+&emsp;For purposes of paragraph (1), the term "applicable percentage" means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land ( <sup>2</sup> determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
-#### (3) Exclusion limitation
-
-&emsp;For purposes of paragraph (1), the exclusion limitation is the limitation determined in accordance with the following table:
-
-<b> In the case of estates of</b>
-
-<b>The exclusion</b>
-
-<b>  decedents dying during:</b>
-
-<b>limitation is:</b>
-
-&emsp;&emsp;1998
-
-$100,000&nbsp;&nbsp;
-
-&emsp;&emsp;1999
-
-$200,000&nbsp;&nbsp;
-
-&emsp;&emsp;2000
-
-$300,000&nbsp;&nbsp;
-
-&emsp;&emsp;2001
-
-$400,000&nbsp;&nbsp;
-
-&emsp;&emsp;2002 or thereafter
-
-$500,000.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### \[(3) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(96), Dec. 19, 2014, 128 Stat. 4051\]
 
 #### (4) Treatment of certain indebtedness
 
@@ -86,7 +54,7 @@ $500,000.
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply to the value of any development right retained by the donor in the conveyance of a qualified conservation easement.
+&emsp;&emsp;Paragraph (1) shall not apply to the value of any development right retained by thedonor in the conveyance of a qualified conservation easement.
 
 #### (B) Termination of retained development right
 
@@ -126,7 +94,7 @@ $500,000.
 
 &emsp;&emsp;&emsp;(ii) which was owned by the decedent or a member of the decedent's family at all times during the 3-year period ending on the date of the decedent's death, and
 
-&emsp;&emsp;&emsp;(iii) with respect to which a qualified conservation easement has been made by an individual described in subparagraph\(C), as of the date of the election described in paragraph (6).
+&emsp;&emsp;&emsp;(iii) with respect to which a qualified conservation easement has been made by an individual described in subparagraph (C), as of the date of the election described in paragraph (6).
 
 #### (B) Qualified conservation easement
 
@@ -154,15 +122,25 @@ $500,000.
 
 #### (10) Application of this section to interests in partnerships, corporations, and trusts
 
-&emsp;This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3).
+&emsp;This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3) (as in effect before its repeal).
 
 #### (d) Cross reference
 
 &emsp;&emsp;<b>For executor's right to be furnished on request a statement regarding any valuation made by the Secretary within the gross estate, see section 7517.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 380; Pub. L. 87–834, §18(a)(1), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2008(a)(2)(A), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 105–34, title V, §508(a), Aug. 5, 1997, 111 Stat. 857; Pub. L. 105–206, title VI, §6007(g), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4006(c)(3), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 107–16, title V, §551(a), (b), June 7, 2001, 115 Stat. 86.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 380; Pub. L. 87–834, §18(a)(1), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2008(a)(2)(A), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 105–34, title V, §508(a), Aug. 5, 1997, 111 Stat. 857; Pub. L. 105–206, title VI, §6007(g), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4006(c)(3), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 107–16, title V, §551(a),\(b), June 7, 2001, 115 Stat. 86; Pub. L. 113–295, div. A, title II, §221(a)(96), (97)(B), Dec. 19, 2014, 128 Stat. 4051.)
+
+#### References in Text
+
+Section 2057, referred to in subsec. (c)(10), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(97)(A), Dec. 19, 2014, 128 Stat. 4051, effective Dec. 19, 2014.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–295, §221(a)(96), substituted "(II) $500,000." for "(B) the exclusion limitation."
+
+Subsec. (c)(3). Pub. L. 113–295, §221(a)(96), struck out par. (3), which set out table of exclusion limitations.
+
+Subsec. (c)(10). Pub. L. 113–295, §221(a)(97)(B), inserted "(as in effect before its repeal)" before period at end.
 
 <b>2001</b>—Subsec. (c)(2). Pub. L. 107–16, §551(b), inserted at end "The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B)."
 
@@ -187,6 +165,10 @@ Pub. L. 105–206, §6007(g)(1), redesignated par. (9) as (10).
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside the United States.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -216,5 +198,7 @@ Pub. L. 87–834, §18(b), Oct. 16, 1962, 76 Stat. 1052, provided that:
 
 > In the case of real property, or an interest therein, situated outside of the United States (including a general power of appointment in respect of such property or interest, and including property held by the decedent and the survivor in a joint tenancy or tenancy by the entirety) which was acquired by the decedent after January 31, 1962, by gift within the meaning of section 2511, or from a prior decedent by devise or inheritance, or by reason of death, form of ownership, or other conditions (including the exercise or nonexercise of a power of appointment), for purposes of this paragraph such property or interest therein shall be deemed to have been acquired by the decedent before February 1, 1962, if before that date the donor or prior decedent had acquired the property or his interest therein or had possessed a power of appointment in respect of the property or interest."
 
-<i><sup>1</sup></i><i> So in original. No closing parenthesis was enacted.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(B)".</i>
+
+<i><sup>2</sup></i><i> So in original. There is no corresponding closing parenthesis.</i>
 

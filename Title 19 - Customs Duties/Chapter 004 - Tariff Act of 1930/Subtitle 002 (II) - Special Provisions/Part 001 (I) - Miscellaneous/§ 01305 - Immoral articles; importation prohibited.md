@@ -12,13 +12,13 @@ Upon the appearance of any such book or matter at any customs office, the same s
 
 &emsp;(2) the place to which such book or matter is addressed;
 
-> and the United States attorney shall institute proceedings in the district court for the forfeiture, confiscation, and destruction of the book or matter seized. Upon the adjudication that such book or matter thus seized is of the character the entry of which is by this section prohibited, it shall be ordered destroyed and shall be destroyed. Upon adjudication that such book or matter thus seized is not of the character the entry of which is by this section prohibited, it shall not be excluded from entry under the provisions of this section.
+> and the United States attorney shall institute proceedings in the district court for the forfeiture, confiscation, and destruction of the book or matter seized. Upon the adjudication that such book or matter thus seized is of the character the entry of which is by this section prohibited,it shall be ordered destroyed and shall be destroyed. Upon adjudication that such book or matter thus seized is not of the character the entry of which is by this section prohibited, it shall not be excluded from entry under the provisions of this section.
 
 In any such proceeding any party in interest may upon demand have the facts at issue determined by a jury and any party may have an appeal or the right of review as in the case of ordinary actions or suits.
 
 #### (c) <sup>1</sup> Institution of forfeiture proceedings
 
-Notwithstanding the provisions of subsections (a) and (b) of this section, whenever a customsofficer discovers any obscene material after such material has been imported or brought into the United States, or attempted to be imported or brought into the United States, he may refer the matter to the United States attorney for the institution of forfeiture proceedings under this section. Such proceedings shall begin no more than 30 days after the time the material is seized; except that no seizure or forfeiture shall be invalidated for delay if the claimant is responsible for extending the action beyond the allowable time limits or if proceedings are postponed pending the consideration of constitutional issues.
+Notwithstanding the provisions of subsections (a) and (b) of this section, whenever a customs officer discovers any obscene material after such material has been imported or brought into the United States, or attempted to be imported or brought into the United States, he may refer the matter to the United States attorney for the institution of forfeiture proceedings under this section. Such proceedings shall begin no more than 30 days after the time the material is seized; except that no seizure or forfeiture shall be invalidated for delay if the claimant is responsible for extending the action beyond the allowable time limits or if proceedings are postponed pending the consideration of constitutional issues.
 
 #### (d) Stay of forfeiture proceedings
 
@@ -42,7 +42,7 @@ Upon motion of the United States, a court shall stay such civil forfeiture proce
 
 #### (c) <sup>3</sup> Stay on motion
 
-Upon motion of the United States, a court, for good cause shown, shall stay civil forfeiture proceedings commenced under this section pending the completion of any related criminal matter whether in the same or in a different district.
+Upon motion of the United States, a court, for good cause shown, shall stay civil forfeiture proceedings commenced under this section pendingthe completion of any related criminal matter whether in the same or in a different district.
 
 (June 17, 1930, ch. 497, title III, §305, 46 Stat. 688; June 25, 1948, ch. 645, §21, 62 Stat. 862; June 25, 1948, ch. 646, §1, 62 Stat. 869; Pub. L. 91–271, title III, §301(a), June 2, 1970, 84 Stat. 287; Pub. L. 91–662, §1, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 96–417, title VI, §601(2), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 100–418, title I, §1901(a), Aug. 23, 1988, 102 Stat. 1312; Pub. L. 100–449, title II, §206, Sept. 28, 1988, 102 Stat. 1864; Pub. L. 100–690, title VII, §7522(e)\[d\], Nov. 18, 1988, 102 Stat. 4500.)
 
@@ -114,7 +114,7 @@ Memorandum for the Secretary of Health and Human Services
 
 In Import Alert 66–47, the Food and Drug Administration ("FDA") excluded the drug Mifepristine—commonly known as RU–486—from the list of drugs that individuals can import into the United States for their "personal use," although the drugs have not yet been approved for distribution by the FDA. (<i>See</i> FDA Regulatory Procedures Manual, Chapter 9–71.) Import Alert 66–47 effectively bans the importation into this Nation of a drug that is used in other nations as a nonsurgical means of abortion.
 
-I am informed that in excluding RU–486 from the personal use importation exemption, the FDA appears to have based its decision on factors other than an assessment of the possible health and safety risks of the drug. Accordingly, I hereby direct that you promptly instruct the FDA to determine whether there is sufficient evidence to warrant exclusion of RU–486 from the list of drugs that qualify for the personal use importation exemption. Furthermore, if the FDA concludes that RU–486 meets the criteria for the personal use importation exemption, I direct that you immediately take steps to rescind Import Alert 66–47.
+I am informed that in excluding RU–486 from the personal use importation exemption, the FDA appears to have based its decision on factors other than an assessment of the possible health and safety risks of the drug. Accordingly, I hereby direct that you promptlyinstruct the FDA to determine whether there is sufficient evidence to warrant exclusion of RU–486 from the list of drugs that qualify for the personal use importation exemption. Furthermore, if the FDA concludes that RU–486 meets the criteria for the personal use importation exemption, I direct that you immediately take steps to rescind Import Alert 66–47.
 
 In addition, I direct that you promptly assess initiatives by which the Department of Health and Human Services can promote the testing, licensing, and manufacturing in the United States of RU–486 or other antiprogestins.
 

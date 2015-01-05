@@ -96,7 +96,7 @@ In subsec. (c)(2)(N), "division C (except sections 3302, 3307(e), 3501(b), 3509,
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–425, §1(a), substituted "Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944," for "Subject to the negotiation and conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 1005 of this Act,".
 
-Subsec. (c)(1). Pub. L. 108–425, §1(b)(1), added par. (1) and struck out former par. (1) which read as follows: "Subject to the availability of appropriations to carry out this subsection and notwithstanding any provisionof Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract."
+Subsec. (c)(1). Pub. L. 108–425, §1(b)(1), added par. (1) and struck out former par. (1) which read as follows: "Subject to the availability of appropriations to carry out this subsection and notwithstanding any provision of Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract."
 
 Subsec. (c)(2)(I). Pub. L. 108–425, §1(b)(2), substituted ", including costs associated with the purchase of any insurance or other financial instrument under subparagraph (K). Costs associated with the purchase of such insurance or other financial instrument may be amortized over the term of the contract." for ", with such annual payment to maintain the owner's 20 percent equity position throughout the term of the contract."
 
@@ -110,7 +110,7 @@ Subsec. (c)(2)(L), (M). Pub. L. 108–425, §1(b)(4), added subpars. (L) and (M)
 
 Pub. L. 108–425, §1(b)(3), redesignated subpars. (J) and (K) as (L) and (M), respectively. Former subpars. (L) and (M) redesignated (N) and (O), respectively.
 
-Subsec. (c)(2)(N). Pub. L. 108–425, §1(b)(3), (5), redesignated subpar. (L) as (N) and inserted "under applicable law" after "competitive procedures". Former subpar. (N) redesignated (P).
+Subsec. (c)(2)(N). Pub. L. 108–425, §1(b)(3), (5), redesignated subpar. (L) as (N) and inserted "under applicablelaw" after "competitive procedures". Former subpar. (N) redesignated (P).
 
 Subsec. (c)(2)(O) to (R). Pub. L. 108–425, §1(b)(3), redesignated subpars. (M) to (P) as (O) to (R), respectively.
 

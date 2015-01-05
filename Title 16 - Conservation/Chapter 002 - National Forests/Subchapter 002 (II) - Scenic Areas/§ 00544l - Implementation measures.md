@@ -22,7 +22,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 (1) Subject to section 544n(b) of this title, in the case of any land or interest therein acquired by the Secretary pursuant to section 544g of this title, which was subject to local real property taxes within the five years preceding such acquisition and which is located in a county which has in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title, the Secretary is authorized and directed to make annual payments to the county in which such lands are located in an amount equal to 1 per centum of the fair market value of such land or interest therein on the date of acquisition by the Secretary.
 
-(2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during thelast full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
+(2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during the last full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
 
 (3)
 
@@ -68,7 +68,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;&emsp;(ii) The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
-&emsp;&emsp;(iii) Projects under the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11) and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+&emsp;&emsp;(iii) Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
 &emsp;&emsp;(iv) Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
@@ -86,7 +86,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 Subject to valid existing rights, all public lands within the scenic area administered by the Secretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
 
-(Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294; Pub. L. 106–291, title III, §346(e), Oct. 11, 2000, 114 Stat. 1000.)
+(Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294; Pub. L. 106–291, title III, §346(e), Oct. 11, 2000, 114 Stat. 1000; Pub. L. 113–287, §5(d)(16), Dec. 19, 2014, 128 Stat. 3265.)
 
 #### References in Text
 
@@ -96,17 +96,17 @@ Act of June 9, 1916, referred to in subsec. (e)(2)(A)(ii), is act June 9, 1916, 
 
 Act of Feb. 26, 1919, referred to in subsec. (e)(2)(A)(ii), is act Feb. 26, 1919, ch. 47, 40 Stat. 1179, which is not classified to the Code.
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (e)(3)(D)(iii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
 The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
 The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed The Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of The Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Robert T. Stafford Disaster Relief and Emergency Assistance Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
 
 Section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103), referred to in subsec. (e)(3)(D)(v), was repealed by Pub. L. 103–325, title V, §551(a), Sept. 23, 1994, 108 Stat. 2269.
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L.93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(3)(D)(iii). Pub. L. 113–287, which directed amendment of subsec. (e)(3)(D)(iii) by substituting "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11)", was executed by making the substitution for "the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–4 through 11)", to reflect the probable intent of Congress.
 
 <b>2000</b>—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Except as provided in subparagraph (B), no payment" for "No payment", substituted "eighth full fiscal year" for "fifth full fiscal year", and added subpar. (B).
 

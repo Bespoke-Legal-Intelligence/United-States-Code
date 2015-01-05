@@ -20,7 +20,7 @@ The Maine Indian Claims Settlement Act of 1980, referred to in par. (2), is Pub.
 
 #### Amendments
 
-<b>2009</b>—Par. (1). Pub. L. 111–39, §406(a)(5)(A), substituted "under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat.365) (commonly known as the 'Per Capita Act') or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and" for "under the Per Capita Act or the Distribution of Judgment Funds Act; and".
+<b>2009</b>—Par. (1). Pub. L. 111–39, §406(a)(5)(A), substituted "under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the 'Per Capita Act') or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and" for "under the Per Capita Act or the Distribution of Judgment Funds Act; and".
 
 Par. (2). Pub. L. 111–39, §406(a)(5)(B), substituted "Alaska" for "Alaskan" and inserted "(43 U.S.C. 1601 et seq.)" after "Native Claims Settlement Act" and "of 1980 (25 U.S.C. 1721 et seq.)" after "Maine Indian Claims Settlement Act".
 

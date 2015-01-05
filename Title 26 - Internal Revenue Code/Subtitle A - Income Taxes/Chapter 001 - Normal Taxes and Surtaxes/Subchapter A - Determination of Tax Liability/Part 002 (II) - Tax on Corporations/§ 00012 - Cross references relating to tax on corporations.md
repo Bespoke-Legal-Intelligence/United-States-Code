@@ -14,7 +14,7 @@
 
 &emsp;&emsp;<b>(7) For alternative minimum tax, see section 55.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 11; Pub. L. 88–272, title II, §234(b)(4), Feb. 26, 1964, 78 Stat. 115; Pub. L. 91–172, title III, §301(b)(3), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–12, title III, §303(c)(2), Mar. 29, 1975, 89 Stat. 44; Pub. L. 95–600, title III,§301(b)(1), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 98–369, div. A, title IV, §474(r)(29)(E), July 18, 1984, 98 Stat. 844; Pub. L. 99–514, title VII, §701(e)(4)(B), Oct. 22, 1986, 100 Stat. 2343.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 11; Pub. L. 88–272, title II, §234(b)(4), Feb. 26, 1964, 78 Stat. 115; Pub. L. 91–172, title III, §301(b)(3), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–12, title III, §303(c)(2), Mar. 29, 1975, 89 Stat. 44; Pub. L. 95–600, title III, §301(b)(1), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 98–369, div. A, title IV, §474(r)(29)(E), July 18, 1984, 98 Stat. 844; Pub. L. 99–514, title VII, §701(e)(4)(B), Oct. 22, 1986, 100 Stat. 2343.)
 
 #### Amendments
 

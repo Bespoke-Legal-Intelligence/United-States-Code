@@ -34,7 +34,7 @@ For purposes of this section:
 
 #### (E) Critically undercapitalized
 
-&emsp;&emsp;An insured depository institution is "critically undercapitalized" if it fails to meet any level specified under subsection (c)(3)(A) of this section.
+&emsp;&emsp;An insured depository institution is "critically undercapitalized" if it fails to meet any level specified under subsection (c)(3)(A).
 
 #### (2) Other definitions
 
@@ -64,7 +64,7 @@ For purposes of this section:
 
 #### (C) Capital restoration plan
 
-&emsp;&emsp;The term "capital restoration plan" means a plan submitted under subsection (e)(2) of this section.
+&emsp;&emsp;The term "capital restoration plan" means a plan submitted under subsection (e)(2).
 
 #### (D) Company
 
@@ -76,7 +76,7 @@ For purposes of this section:
 
 #### (F) Relevant capital measure
 
-&emsp;&emsp;The term "relevant capital measure" means the measures described in subsection (c) of this section.
+&emsp;&emsp;The term "relevant capital measure" means the measures described in subsection (c).
 
 #### (G) Required minimum level
 
@@ -260,7 +260,7 @@ For purposes of this section:
 
 #### (5) Discretionary safeguards
 
-&emsp;The appropriate Federal banking agency may, with respect to any undercapitalized insured depository institution, take actions described in any subparagraph of subsection (f)(2) of this section if the agency determines that those actions are necessary to carry out the purpose of this section.
+&emsp;The appropriate Federal banking agency may, with respect to any undercapitalized insured depository institution, take actions described in any subparagraph of subsection (f)(2) if the agency determines that those actions are necessary to carry out the purpose of this section.
 
 #### (f) Provisions applicable to significantly undercapitalized institutions and undercapitalized institutions that fail to submit and implement capital restoration plans
 
@@ -272,7 +272,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) is undercapitalized and—
 
-&emsp;&emsp;&emsp;(i) fails to submit an acceptable capital restoration plan within the time allowed by the appropriate Federal banking agency under subsection (e)(2)(D) of this section; or
+&emsp;&emsp;&emsp;(i) fails to submit an acceptable capital restoration plan within the time allowed by the appropriate Federal banking agency under subsection (e)(2)(D); or
 
 &emsp;&emsp;&emsp;(ii) fails in any material respect to implement a plan accepted by the agency.
 
@@ -308,7 +308,7 @@ For purposes of this section:
 
 #### (D) Restricting asset growth
 
-&emsp;&emsp;Restricting the institution's asset growth more stringently than subsection (e)(3) of this section, or requiring the institution to reduce its total assets.
+&emsp;&emsp;Restricting the institution's asset growth more stringently than subsection (e)(3), or requiring the institution to reduce its total assets.
 
 #### (E) Restricting activities
 
@@ -384,7 +384,7 @@ For purposes of this section:
 
 #### (5) Discretion to impose certain additional restrictions
 
-&emsp;The agency may impose 1 or more of the restrictions prescribed by regulation under subsection (i) of this section if the agency determines that those restrictions are necessary to carry out the purpose of this section.
+&emsp;The agency may impose 1 or more of the restrictions prescribed by regulation under subsection (i) if the agency determines that those restrictions are necessary to carry out the purpose of this section.
 
 #### (6) Consultation with other regulators
 
@@ -398,9 +398,9 @@ For purposes of this section:
 
 &emsp;&emsp;(A) if the institution is well capitalized, reclassify the institution as adequately capitalized;
 
-&emsp;&emsp;(B) if the institution is adequately capitalized (but not well capitalized), require the institution to comply with 1 or more provisions of subsections (d) and (e) of this section, as if the institution were undercapitalized; or
+&emsp;&emsp;(B) if the institution is adequately capitalized (but not well capitalized), require the institution to comply with 1 or more provisions of subsections (d) and (e), as if the institution were undercapitalized; or
 
-&emsp;&emsp;(C) if the institution is undercapitalized, take any 1 or more actions authorized under subsection (f)(2) of this section as if the institution were significantly undercapitalized.
+&emsp;&emsp;(C) if the institution is undercapitalized, take any 1 or more actions authorized under subsection (f)(2) as if the institution were significantly undercapitalized.
 
 #### (2) Contents of plan
 
@@ -410,7 +410,7 @@ For purposes of this section:
 
 #### (1) Activities restricted
 
-&emsp;Any critically undercapitalized insured depository institution shall comply with restrictions prescribed by the Corporation under subsection (i) of this section.
+&emsp;Any critically undercapitalized insured depository institution shall comply with restrictions prescribed by the Corporation under subsection (i).
 
 #### (2) Payments on subordinated debt prohibited
 
@@ -422,7 +422,7 @@ For purposes of this section:
 
 &emsp;&emsp;The Corporation may make exceptions to subparagraph (A) if—
 
-&emsp;&emsp;&emsp;(i) the appropriate Federal banking agency has taken action with respect to the insured depository institution under paragraph (3)(A)(ii); and
+&emsp;&emsp;&emsp;(i) the appropriate Federal banking agency has taken action with respect tothe insured depository institution under paragraph (3)(A)(ii); and
 
 &emsp;&emsp;&emsp;(ii) the Corporation determines that the exception would further the purpose of this section.
 
@@ -486,7 +486,7 @@ To carry out the purpose of this section, the Corporation shall, by regulation o
 
 #### (j) Certain Government-controlled institutions exempted
 
-Subsections (e) through (i) of this section (other than paragraph (3) of subsection (e) of this section) shall not apply—
+Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall not apply—
 
 &emsp;(1) to an insured depository institution for which the Corporation or the Resolution Trust Corporation is conservator; or
 
@@ -496,7 +496,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 #### (1) In general
 
-&emsp;If the Deposit Insurance Fund incurs a material loss with respect to an insured depository institution on or after July 1, 1993, the inspector general of the appropriate Federal banking agency shall—
+&emsp;If the Deposit Insurance Fund incurs a material loss with respect to an insured depositoryinstitution on or after July 1, 1993, the inspector general of the appropriate Federal banking agency shall—
 
 &emsp;&emsp;(A) make a written report to that agency reviewing the agency's supervision of the institution (including the agency's implementation of this section), which shall—
 
@@ -576,7 +576,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;&emsp;&emsp;(ii) for each loss incurred by the Deposit Insurance Fund that is not a material loss, determine—
 
-&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Federal banking agency or State bank supervisor for appointing the Corporation as receiver under section 1821(c)(5) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Federal banking agency or State bank supervisor for appointing the Corporationas receiver under section 1821(c)(5) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) whether any unusual circumstances exist that might warrant an in-depth review of the loss; and
 
@@ -616,7 +616,7 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 #### (1) Timely petition required
 
-&emsp;A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) of this section may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
+&emsp;A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
 
 #### (2) Procedure
 
@@ -652,11 +652,11 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 &emsp;&emsp;(A) to become adequately capitalized, to the extent that the order is based on the institution's capital level or failure to submit or implement a capital restoration plan; and
 
-&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
+&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1).
 
 #### (o) Transition rules for savings associations
 
-Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 1994, to any insured savings association if—
+Subsections (e)(2), (f), and (h) shall not apply before July 1, 1994, to any insured savings association if—
 
 &emsp;(1) before December 19, 1991—
 
@@ -668,7 +668,7 @@ Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 
 
 &emsp;(3) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI,§1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19,1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
 
 #### References in Text
 

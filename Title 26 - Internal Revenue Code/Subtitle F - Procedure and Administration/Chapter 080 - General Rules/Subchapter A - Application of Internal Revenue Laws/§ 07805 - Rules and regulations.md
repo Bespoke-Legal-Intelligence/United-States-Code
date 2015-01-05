@@ -110,7 +110,7 @@ Pub. L. 101–508, title XI, §11621(b), Nov. 5, 1990, 104 Stat. 1388–504, pro
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VI, §6232(b), Nov. 10, 1988, 102 Stat. 3735, provided that: "The amendments made by this section \[amending this section\] shall apply to anyregulation issued after the date which is 10 days after the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title VI, §6232(b), Nov. 10, 1988, 102 Stat. 3735, provided that: "The amendments made by this section \[amending this section\] shall apply to any regulation issued after the date which is 10 days after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1984 Amendment
 

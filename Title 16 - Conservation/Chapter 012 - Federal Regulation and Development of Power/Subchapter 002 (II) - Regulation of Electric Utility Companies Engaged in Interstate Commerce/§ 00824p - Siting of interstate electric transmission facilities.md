@@ -4,7 +4,7 @@
 
 (1) Not later than 1 year after August 8, 2005, and every 3 years thereafter, the Secretary of Energy (referred to in this section as the "Secretary"), in consultation with affected States, shall conduct a study of electric transmission congestion.
 
-(2) After considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.
+(2) After considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion thatadversely affects consumers as a national interest electric transmission corridor.
 
 (3) The Secretary shall conduct the study and issue the report in consultation with any appropriate regional entity referred to in section 824o of this title.
 
@@ -44,7 +44,7 @@ Except as provided in subsection (i) of this section, the Commission may, after 
 
 &emsp;(3) the proposed construction or modification is consistent with the public interest;
 
-&emsp;(4) the proposed construction or modification will significantly reduce transmissioncongestion in interstate commerce and protects or benefits consumers;
+&emsp;(4) the proposed construction or modification will significantly reduce transmission congestion in interstate commerce and protects or benefits consumers;
 
 &emsp;(5) the proposed construction or modification is consistent with sound national energy policy and will enhance energy independence; and
 
@@ -146,7 +146,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 (ii) Interested Indian tribes, multistate entities, and State agencies may enter the memorandum of understanding.
 
-(C) The head of each Federal agency with authority to issue a Federal authorization shall designate a senior official responsible for, and dedicate sufficient other staff and resources to ensure, full implementation of the regulations and memorandum required under this paragraph.
+(C) The head of each Federal agency with authority to issue a Federal authorization shalldesignate a senior official responsible for, and dedicate sufficient other staff and resources to ensure, full implementation of the regulations and memorandum required under this paragraph.
 
 (8)(A) Each Federal land use authorization for an electricity transmission facility shall be issued—
 

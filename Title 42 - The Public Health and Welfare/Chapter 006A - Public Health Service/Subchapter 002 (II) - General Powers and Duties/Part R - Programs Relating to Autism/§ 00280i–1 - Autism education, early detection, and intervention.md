@@ -12,7 +12,7 @@ It is the purpose of this section—
 
 The Secretary shall, subject to the availability of appropriations, establish and evaluate activities to—
 
-&emsp;(1) provide information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
+&emsp;(1) provide culturally competent information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
 
 &emsp;(2) promote research into the development and validation of reliable screening tools for autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
 
@@ -38,7 +38,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(iii) the Healthy Start program;
 
-&emsp;&emsp;&emsp;(iv) programs under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\];
+&emsp;&emsp;&emsp;(iv) programs under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\];
 
 &emsp;&emsp;&emsp;(v) programs under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (particularly the Medicaid Early and Periodic Screening, Diagnosis and Treatment Program);
 
@@ -60,11 +60,11 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (A) Designation
 
-&emsp;&emsp;As a condition on the provision of assistance or the conduct of activities under this section with respect to a State, the Secretary may require the Governor of the State—
+&emsp;&emsp;As a condition on the provision of assistance or the conduct of activities under thissection with respect to a State, the Secretary may require the Governor of the State—
 
 &emsp;&emsp;&emsp;(i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 
-&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports, and evidence-based interventions.
+&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with an autism spectrum disorder), and evidence-based interventions.
 
 #### (B) Requirements of agency
 
@@ -128,7 +128,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(iv) demonstrate a capacity to evaluate, diagnose or rule out, develop, and provide evidence-based interventions to individuals with autism spectrum disorder and other developmental disabilities; and
 
-&emsp;&emsp;&emsp;(v) demonstrate an ability to use a family-centered approach; and
+&emsp;&emsp;&emsp;(v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in section 300ii of this title); and
 
 &emsp;&emsp;(C) program sites provide culturally competent services.
 
@@ -142,17 +142,17 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (f) Intervention
 
-The Secretary shall promote research, through grants or contracts, to determine the evidence-based practices for interventions for individuals with autism spectrum disorder or other developmental disabilities, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
+The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
 
 #### (g) Sunset
 
-This section shall not apply after September 30, 2014.
+This section shall not apply after September 30, 2019.
 
-(July 1, 1944, ch. 373, title III, §399BB, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2823; amended Pub. L. 112–32, §2(2), Sept. 30, 2011, 125 Stat. 361.)
+(July 1, 1944, ch. 373, title III, §399BB, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2823; amended Pub. L. 112–32, §2(2), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §4, Aug. 8, 2014, 128 Stat. 1831.)
 
 #### References in Text
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c)(1)(A)(iv), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c)(1)(A)(iv), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
 The Social Security Act, referred to in subsecs. (c)(1)(A)(v)–(vii), (d)(2)(C), and (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -163,6 +163,16 @@ The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–157, §4(1), inserted "culturally competent" after "provide".
+
+Subsec. (c)(2)(A)(ii). Pub. L. 113–157, §4(2), inserted "(which may include respite care for caregivers of individuals with an autism spectrum disorder)" after "services and supports".
+
+Subsec. (e)(1)(B)(v). Pub. L. 113–157, §4(3), inserted before semicolon ", which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in section 300ii of this title)".
+
+Subsec. (f). Pub. L. 113–157, §4(4), substituted "grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with" for "grants or contracts, to determine the evidence-based practices for interventions for individuals with".
+
+Subsec. (g). Pub. L. 113–157, §4(5), substituted "2019" for "2014".
 
 <b>2011</b>—Subsec. (g). Pub. L. 112–32 substituted "2014" for "2011".
 

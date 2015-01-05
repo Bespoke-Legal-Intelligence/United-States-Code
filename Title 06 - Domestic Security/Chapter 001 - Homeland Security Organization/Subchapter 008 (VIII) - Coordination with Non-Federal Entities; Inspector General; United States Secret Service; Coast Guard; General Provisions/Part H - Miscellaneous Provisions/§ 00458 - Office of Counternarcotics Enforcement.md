@@ -22,7 +22,7 @@ The Director of the Office of Counternarcotics Enforcement shall not be employed
 
 The Secretary shall direct the Director of the Office of Counternarcotics Enforcement—
 
-&emsp;(1) to coordinate policy and operations within the Department, between the Department and other Federal departments and agencies, and between the Department and State and local agencies with respect to stopping the entry of illegal drugs into the United States;
+&emsp;(1) to coordinate policy and operations within the Department, between the Departmentand other Federal departments and agencies, and between the Department and State and local agencies with respect to stopping the entry of illegal drugs into the United States;
 
 &emsp;(2) to ensure the adequacy of resources within the Department for stopping the entry of illegal drugs into the United States;
 
@@ -68,17 +68,17 @@ Nothing in this section shall be construed to authorize direct control of the op
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end.
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–469, §103(f)(2)(A), substituted “The” for “Except as provided in subsection (d) of this section, the”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–469, §103(f)(2)(A), substituted "The" for "Except as provided in subsection (d) of this section, the".
 
-Subsecs. (d) to (g). Pub. L. 109–469, §103(f)(2)(B), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed.”
+Subsecs. (d) to (g). Pub. L. 109–469, §103(f)(2)(B), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: "The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed."
 
-<b>2004</b>—Pub. L. 108–458 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary shall appoint a senior official in the Department to assume primary responsibility for coordinating policy and operations within the Department and between the Department and other Federal departments and agencies with respect to interdicting the entry of illegal drugs into the United States, and tracking and severing connections between illegal drug trafficking and terrorism. Such official shall—
+<b>2004</b>—Pub. L. 108–458 amended section catchline and text generally. Prior to amendment, text read as follows: "The Secretary shall appoint a senior official in the Department to assume primary responsibility for coordinating policy and operations within the Department and between the Department and other Federal departments and agencies with respect to interdicting the entry of illegal drugs into the United States, and tracking and severing connections between illegal drug trafficking and terrorism. Such official shall—
 
-&emsp;“(1) ensure the adequacy of resources within the Department for illicit drug interdiction; and
+&emsp;"(1) ensure the adequacy of resources within the Department for illicit drug interdiction; and
 
-&emsp;“(2) serve as the United States Interdiction Coordinator for the Director of National Drug Control Policy.”
+&emsp;"(2) serve as the United States Interdiction Coordinator for the Director of National Drug Control Policy."
 
 #### Effective Date of 2012 Amendment
 

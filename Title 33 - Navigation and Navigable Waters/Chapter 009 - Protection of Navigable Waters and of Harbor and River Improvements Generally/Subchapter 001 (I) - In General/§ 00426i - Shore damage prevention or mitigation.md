@@ -10,7 +10,7 @@ The costs of implementing measures under this section shall be cost-shared in th
 
 #### (c) Requirement for specific authorization
 
-No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $5,000,000.
+No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $10,000,000.
 
 #### (d) Coordination
 
@@ -20,9 +20,11 @@ The Secretary shall—
 
 &emsp;(2) to the extent practicable, combine mitigation projects with other shore protection projects in the same area into a comprehensive regional project.
 
-(Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291.)
+(Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, §1030(c), June 10, 2014, 128 Stat. 1232.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–121 substituted "$10,000,000" for "$5,000,000".
 
 <b>1999</b>—Pub. L. 106–53 designated first sentence as subsec. (a), inserted heading, and inserted "and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway" after "navigation works", designated second sentence as subsec. (b) and inserted heading, and designated third sentence as subsec. (c), inserted heading, and substituted "$5,000,000" for "$2,000,000", and added subsec. (d).
 

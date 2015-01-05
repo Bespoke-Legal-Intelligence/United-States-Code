@@ -8,7 +8,7 @@
 
 (c) The Secretary may extend the period of a vocational rehabilitation program for a veteran to the extent that the Secretary determines that an extension of such period is necessary to enable such veteran to achieve a vocational goal if the Secretary also determines—
 
-&emsp;(1) that such veteran had previously been rehabilitated to the point of employability but (A) such veteran's need for further vocational rehabilitation has arisen out of a worsening of such veteran's service-connected disability that precludes such veteran from performing the duties of the occupation for which such veteran had been so rehabilitated, or (B) the occupation for which such veteran had been so rehabilitated is not suitable in view of such veteran's current employment handicap and capabilities; or
+&emsp;(1) that such veteran had previously been rehabilitated to the point of employability but (A) such veteran's need for further vocational rehabilitation has arisen out of a worsening of such veteran's service-connected disability that precludes such veteran from performing the duties of the occupation for which such veteran had been so rehabilitated, or (B) the occupation for which such veteran had been so rehabilitated is not suitable in view of suchveteran's current employment handicap and capabilities; or
 
 &emsp;(2) under regulations which the Secretary shall prescribe, that such veteran has a serious employment handicap and that an extension of such period is necessary to accomplish the purposes of a rehabilitation program for such veteran.
 
@@ -32,7 +32,7 @@
 
 (3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18,1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 112–56, title II, §233(a)(2), Nov. 21, 2011, 125 Stat. 720.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 112–56, title II, §233(a)(2), Nov. 21, 2011, 125 Stat. 720.)
 
 #### Prior Provisions
 

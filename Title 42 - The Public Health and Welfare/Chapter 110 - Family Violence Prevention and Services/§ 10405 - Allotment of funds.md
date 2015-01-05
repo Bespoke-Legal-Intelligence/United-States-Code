@@ -6,7 +6,7 @@ From the sums appropriated under section 10403 of this title and available for g
 
 &emsp;(1) Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than 1/8 of 1 percent of the amounts available for grants under section 10406(a) of this title for the fiscal year for which the allotment is made; and
 
-&emsp;(2) each State shall be allotted for a grant under section 10406(a) of this title, $600,000,with the remaining funds to be allotted to each State in an amount that bears the same ratio to such remaining funds as the population of such State bears to the population of all States.
+&emsp;(2) each State shall be allotted for a grant under section 10406(a) of this title, $600,000, with the remaining funds to be allotted to each State in an amount that bears the same ratio to such remaining funds as the population of such State bears to the population of all States.
 
 #### (b) Population
 

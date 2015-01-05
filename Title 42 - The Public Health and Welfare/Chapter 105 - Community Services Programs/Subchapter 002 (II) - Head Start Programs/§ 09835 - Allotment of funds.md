@@ -18,7 +18,7 @@
 
 &emsp;(v) to provide an amount for the Republic of Palau (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) for each of fiscal years 2008 and 2009, and (if legislation approving a new agreement regarding United States assistance for the Republic of Palau has not been enacted by September 30, 2009) for each of fiscal years 2010 through 2012, that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency's base grant for the prior fiscal year; and
 
-&emsp;(vi) to provide an amount for a collaboration grant under section 9837b(a) of this title for each State, for the Indian Head Start programs, and for the migrant and seasonal Head Start programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
+&emsp;(vi) to provide an amount for a collaboration grant under section 9837b(a) of this title for each State, for the Indian Head Start programs, and for the migrant and seasonal HeadStart programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
 
 (C)(i) The Secretary shall reserve for each fiscal year an amount that is not less than 2.5 percent and not more than 3 percent of the sums appropriated pursuant to section 9834 of this title for that fiscal year, to fund training and technical assistance activities, from which reserved amount—
 
@@ -66,7 +66,7 @@
 
 &emsp;(iii) if the remaining amount is not sufficient to carry out clause (ii) for the fiscal year involved, use that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage of the cost of living increase described in clause (i).
 
-(B)(i) Notwithstanding any other provision of this paragraph, the Indian Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, and the migrant and seasonal Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, under clause (i)(II), and subclauses (I)(aa) and (II)(bb) of clause (ii), of subparagraph (A) (referred to in this subsection as the "special expansion provisions"), to increase enrollment in the programs involved.
+(B)(i) Notwithstanding any other provision of this paragraph, the Indian Head Start programsshall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, and the migrant and seasonal Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, under clause (i)(II), and subclauses (I)(aa) and (II)(bb) of clause (ii), of subparagraph (A) (referred to in this subsection as the "special expansion provisions"), to increase enrollment in the programs involved.
 
 (ii)(I) Funds that are appropriated under section 9834 of this title for a fiscal year, and made available to Indian Head Start programs or migrant or seasonal Head Start programs under the special expansion provisions, shall remain available until the end of the following fiscal year.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(I) use 50 percent for Head Start programs funded under paragraph (2)(B)(i) (other than Early Head Start programs), of which—
 
-&emsp;&emsp;&emsp;(aa) the covered percentage shall be allocated among the States serving less than 60 percent (as determined by the Secretary) of children who are 3 or 4 years of age from families whose income is below the poverty line, by allocating to each of those States an amount that bears the same relationship to that covered percentage as the number of children who are less than 5 years of age from families whose income is below the poverty line (referred to in this subclause as "young low-income children") in that State bears to the number of young low-income children in all those States; and
+&emsp;&emsp;&emsp;(aa) the covered percentage shall be allocated among the States serving less than 60 percent (as determined by the Secretary) of children who are 3 or 4 years of age from families whose income is below the poverty line, by allocating to each of those States an amount that bears the same relationship to that covered percentage as the number of children who are less than 5 years of age from families whose income is below the poverty line (referred toin this subclause as "young low-income children") in that State bears to the number of young low-income children in all those States; and
 
 &emsp;&emsp;&emsp;(bb) the remainder shall be allocated proportionately among the States on the basis of the number of young low-income children; and
 
@@ -254,7 +254,7 @@ The Secretary shall adopt appropriate administrative measures to assure that the
 
 &emsp;(D) the extent to which the family needs assessment and communitywide strategic planning and needs assessment of the applicant reflect a need to provide full-working-day or full calendar year services and the extent to which, and manner in which, the applicant demonstrates the ability to collaborate and participate with the State and local community providers of child care or preschool services to provide full-working-day full calendar year services;
 
-&emsp;(E) the number of eligible children, as described in clause (i) or (ii) of section 9840(a)(1)(B) of this title, in each communitywho are not participating in a Head Start program or any other publicly funded early childhood education and development program;
+&emsp;(E) the number of eligible children, as described in clause (i) or (ii) of section 9840(a)(1)(B) of this title, in each community who are not participating in a Head Start program or any other publicly funded early childhood education and development program;
 
 &emsp;(F) the concentration of low-income families in each community;
 
@@ -406,7 +406,7 @@ Subsec. (a)(3)(A)(i)(I). Pub. L. 105–285, §106(a)(2)(A), substituted "60 perc
 
 Subsec. (a)(3)(B)(ii). Pub. L. 105–285, §106(a)(2)(B)(i), substituted "adequate numbers of qualified staff" for "adequate qualified staff" and inserted "and children with disabilities" before ", when appropriate".
 
-Subsec. (a)(3)(B)(iv). Pub. L. 105–285, §106(a)(2)(B)(ii), inserted before period at end ", and to encourage thestaff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development".
+Subsec. (a)(3)(B)(iv). Pub. L. 105–285, §106(a)(2)(B)(ii), inserted before period at end ", and to encourage the staff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development".
 
 Subsec. (a)(3)(B)(v). Pub. L. 105–285, §106(a)(2)(B)(iii), inserted "and collaboration efforts for such programs" before period at end.
 
@@ -460,7 +460,7 @@ Subsec. (g)(2)(A). Pub. L. 105–285, §106(c)(1)(A), inserted before semicolon 
 
 Subsec. (g)(2)(C). Pub. L. 105–285, §106(c)(1)(B), inserted ", and organizations and public entities serving children with disabilities" before semicolon at end.
 
-Subsec. (g)(2)(D). Pub. L. 105–285, §106(c)(1)(C), inserted before semicolon at end "and the extent to which, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services".
+Subsec. (g)(2)(D). Pub. L. 105–285, §106(c)(1)(C), inserted before semicolon at end "and the extent towhich, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services".
 
 Subsec. (g)(2)(E). Pub. L. 105–285, §106(c)(1)(D), substituted "program or any other early childhood program;" for "program; and".
 
@@ -476,7 +476,7 @@ Subsec. (l). Pub. L. 105–285, §106(d), designated existing provisions as par.
 
 Subsec. (a)(2)(A). Pub. L. 103–252, §105(b)(2)(A), substituted "1994" for "1990".
 
-Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted "(including payments for all costs (other thancompensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title)" after "Secretary".
+Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted "(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title)" after "Secretary".
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 

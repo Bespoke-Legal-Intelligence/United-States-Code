@@ -28,9 +28,9 @@ Each annual report required by subsection (a) of this section shall contain—
 
 &emsp;(8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
 
-&emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
+&emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) <sup>1</sup> of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
 
-&emsp;(10) in consultation with the Secretary of State and the Administrator of the Agency forInternational Development, an assessment of the progress being made to implement the objectives of title XIII; and
+&emsp;(10) in consultation with the Secretary of State and the Administrator of the Agency for International Development, an assessment of the progress being made to implement the objectives of title XIII; and
 
 &emsp;(11) a report on—
 
@@ -50,7 +50,7 @@ As used in this title, title XVIII, and title XIX:
 
 #### (2) International financial institutions
 
-&emsp;The term "international financial institutions" means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank <sup>1</sup> Bank for Economic Cooperation and Development in the Middle East and North Africa,,<sup>2</sup> and Inter-American Investment Corporation.
+&emsp;The term "international financial institutions" means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank <sup>2</sup> Bank for Economic Cooperation and Development in the Middle East and North Africa,,<sup>3</sup> and Inter-American Investment Corporation.
 
 #### (3) Multilateral development institutions
 
@@ -82,6 +82,8 @@ Section 2018(c) of the International Narcotics Act of 1986, referred to in subse
 
 This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–7 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables.
 
+Section 262d(c) of this title, referred to in subsec. (b)(9), was repealed by Pub. L. 113–188, title XVI, §1601(b), Nov. 26, 2014, 128 Stat. 2025.
+
 Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
@@ -94,7 +96,7 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced byCommittee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Contents of Reports; Applicability of Statutory Requirements
 
@@ -206,7 +208,7 @@ Report.—On the termination of the Commission, the Commission shall submit to t
 
 "(h)
 
-Termination.—The Commission shall terminate 6 months after the first meeting of the Commission,which shall be not later than 30 days after the appointment of all members of the Commission.
+Termination.—The Commission shall terminate 6 months after the first meeting of the Commission, which shall be not later than 30 days after the appointment of all members of the Commission.
 
 "(i)
 
@@ -242,7 +244,9 @@ Pub. L. 105–277, div. A, §101(d) \[title VI, §606\], Oct. 21, 1998, 112 Stat
 
 Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, as amended by Pub. L. 106–200, title IV, §404(a), May 18, 2000, 114 Stat. 291, provided that: "For purposes of sections 601 through 606 of this title \[see Tables for classification\], the term 'appropriate committees' means the Committees on Appropriations, Foreign Relations, Finance, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations, Ways and Means, and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

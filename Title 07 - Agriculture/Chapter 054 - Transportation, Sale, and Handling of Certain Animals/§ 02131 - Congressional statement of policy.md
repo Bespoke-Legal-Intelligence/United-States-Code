@@ -20,7 +20,7 @@ The Congress finds that animals and activities which are regulated under this ch
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–198, title XVII, §1759, Dec. 23, 1985, 99 Stat. 1650, provided that: "This subtitle \[subtitle F (§§1751–1759), enacting section 2157 of this title, amending sections 2132, 2143 to 2146, and 2149 of this title, and enacting provisions set out as notes under this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 23, 1985\]."
+Pub. L. 99–198, title XVII, §1759, Dec. 23, 1985, 99 Stat. 1650, provided that: "This subtitle \[subtitle F\(§§1751–1759), enacting section 2157 of this title, amending sections 2132, 2143 to 2146, and 2149 of this title, and enacting provisions set out as notes under this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 23, 1985\]."
 
 #### Effective Date of 1970 Amendment
 
@@ -44,7 +44,7 @@ Pub. L. 99–198, title XVII, subtitle F (§§1751–1759), §1751, Dec. 23, 198
 
 &emsp;"(1) the use of animals is instrumental in certain research and education for advancing knowledge of cures and treatment for diseases and injuries which afflict both humans and animals;
 
-&emsp;"(2) methods of testing that do not use animals are being and continue to be developed which are faster,less expensive, and more accurate than traditional animal experiments for some purposes and further opportunities exist for the development of these methods of testing;
+&emsp;"(2) methods of testing that do not use animals are being and continue to be developed which are faster, less expensive, and more accurate than traditional animal experiments for some purposes and further opportunities exist for the development of these methods of testing;
 
 &emsp;"(3) measures which eliminate or minimize the unnecessary duplication of experiments on animals can result in more productive use of Federal funds; and
 

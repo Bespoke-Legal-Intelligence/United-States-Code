@@ -2,33 +2,33 @@
 
 #### (a) Establishment of tracking system
 
-The Secretary, not later than 1 year after the effective date of this chapter, in consultation with the Technology Advisory Committee established under subsection (c) of this section, shall establish an Internet-based system, that will permit a person, employer, immigrant, or nonimmigrant who has filings with the Secretary for any benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), access to online information about the processing status of the filing involved.
+The Secretary, not later than 1 year after the effective date of this chapter, in consultation with the Technology Advisory Committee established under subsection (c), shall establish an Internet-based system, that will permit a person, employer, immigrant, or nonimmigrant who has filings with the Secretary for any benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), access to online information about the processing status of the filing involved.
 
 #### (b) Feasibility study for online filing and improved processing
 
 #### (1) Online filing
 
-&emsp;The Secretary, in consultation with the Technology Advisory Committee established under subsection (c) of this section, shall conduct a feasibility study on the online filing of the filings described in subsection (a) of this section. The study shall include a review of computerization and technology of the Immigration and Naturalization Service relating to the immigration services and processing of filings related to immigrant services. The study shall also include an estimate of the timeframe and cost and shall consider other factors in implementing such a filing system, including the feasibility of fee payment online.
+&emsp;The Secretary, in consultation with the Technology Advisory Committee established under subsection (c), shall conduct a feasibility study on the online filing of the filings described in subsection (a). The study shall include a review of computerization and technology of the Immigration and Naturalization Service relating to the immigration services and processing of filings related to immigrant services. The study shall also include an estimate of the timeframe and cost and shall consider other factors in implementing such a filing system, including the feasibility of fee payment online.
 
 #### (2) Report
 
-&emsp;A report on the study under this subsection shall be submitted to the Committees on the Judiciary of the House of Representatives andthe Senate not later than 1 year after the effective date of this chapter.
+&emsp;A report on the study under this subsection shall be submitted to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the effective date of this chapter.
 
 #### (c) Technology Advisory Committee
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish, not later than 60 days after the effective date of this chapter, an advisory committee (in this section referred to as the “Technology Advisory Committee”) to assist the Secretary in—
+&emsp;The Secretary shall establish, not later than 60 days after the effective date of this chapter, an advisory committee (in this section referred to as the "Technology Advisory Committee") to assist the Secretary in—
 
-&emsp;&emsp;(A) establishing the tracking system under subsection (a) of this section; and
+&emsp;&emsp;(A) establishing the tracking system under subsection (a); and
 
-&emsp;&emsp;(B) conducting the study under subsection (b) of this section.
+&emsp;&emsp;(B) conducting the study under subsection (b).
 
 > &emsp;The Technology Advisory Committee shall be established after consultation with the Committees on the Judiciary of the House of Representatives and the Senate.
 
 #### (2) Composition
 
-&emsp;The Technology Advisory Committee shall be composed of representatives from high technology companies capable of establishing and implementing the system in an expeditious manner, and representatives of persons who may use the tracking system described in subsection (a) of this section and the online filing system described in subsection (b)(1) of this section.
+&emsp;The Technology Advisory Committee shall be composed of representatives from high technology companies capable of establishing and implementing the system in an expeditious manner, and representatives of persons who may use the tracking system described in subsection (a) and the online filing system described in subsection (b)(1).
 
 (Pub. L. 107–296, title IV, §461, Nov. 25, 2002, 116 Stat. 2202.)
 

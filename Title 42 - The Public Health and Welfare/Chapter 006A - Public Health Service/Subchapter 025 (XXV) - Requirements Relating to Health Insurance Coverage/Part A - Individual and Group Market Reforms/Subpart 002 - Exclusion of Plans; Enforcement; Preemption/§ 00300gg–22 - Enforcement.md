@@ -144,7 +144,7 @@
 
 #### (i) Penalty not to apply where failure not discovered exercising reasonable diligence
 
-&emsp;&emsp;&emsp;No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the person otherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
+&emsp;&emsp;&emsp;No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the personotherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
 
 #### (ii) Penalty not to apply to failures corrected within certain periods
 
@@ -186,7 +186,7 @@ A prior section 2723 of act July 1, 1944, was renumbered section 2724 and is cla
 
 Subsec. (a)(2). Pub. L. 111–148, §1563(c)(13)(a)(ii), formerly §1562(c)(13)(A)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "or individual health insurance coverage" after "group health plans".
 
-Subsec. (b)(1)(B). Pub. L. 111–148, §1563(c)(13)(B), formerly §1562(c)(13)(B), as renumbered by Pub. L. 111–148,§10107(b)(1), inserted "individual health insurance coverage or" after "with respect to".
+Subsec. (b)(1)(B). Pub. L. 111–148, §1563(c)(13)(B), formerly §1562(c)(13)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "individual health insurance coverage or" after "with respect to".
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–233 added par. (3).
 

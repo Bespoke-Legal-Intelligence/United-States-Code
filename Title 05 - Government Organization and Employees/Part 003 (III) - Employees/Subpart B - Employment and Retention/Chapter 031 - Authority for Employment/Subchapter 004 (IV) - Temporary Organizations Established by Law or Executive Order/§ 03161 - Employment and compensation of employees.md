@@ -2,7 +2,7 @@
 
 (a)
 
-Definition of Temporary Organization.—For the purposes of this subchapter, the term “temporary organization” means a commission, committee, board, or other organization that—
+Definition of Temporary Organization.—For the purposes of this subchapter, the term "temporary organization" means a commission, committee, board, or other organization that—
 
 &emsp;(1) is established by law or Executive order for a specific period not in excess of three years for the purpose of performing a specific study or other project; and
 
@@ -30,7 +30,7 @@ Compensation.—(1) The rate of basic pay for an employee appointed under subsec
 
 (4) The rate of basic pay for a senior staff position of a temporary organization may, in a case determined by the head of the temporary organization as exceptional, exceed the maximum rate of basic pay authorized under paragraph (3), but may not exceed the maximum rate of basic pay authorized for an executive level position under paragraph (2).
 
-(5) In this subsection, the term “basic pay” includes locality pay provided for under section 5304 of this title.
+(5) In this subsection, the term "basic pay" includes locality pay provided for under section 5304 of this title.
 
 (e)
 

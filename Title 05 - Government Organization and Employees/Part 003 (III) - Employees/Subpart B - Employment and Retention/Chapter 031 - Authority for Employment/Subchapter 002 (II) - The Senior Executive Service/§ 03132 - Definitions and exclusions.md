@@ -2,21 +2,21 @@
 
 (a) For the purpose of this subchapter—
 
-&emsp;(1) “agency” means an Executive agency, except a Government corporation and the Government Accountability Office, but does not include—
+&emsp;(1) "agency" means an Executive agency, except a Government corporation and the Government Accountability Office, but does not include—
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Office ofthe Director of National Intelligence, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Office of the Director of National Intelligence, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission or the Election Assistance Commission;
 
-&emsp;&emsp;(D) the Office of the Comptroller of the Currency, the Office of Thrift Supervision,,<sup>1</sup> the Resolution Trust Corporation, the Farm Credit Administration, the Federal Housing Finance Agency, the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;
+&emsp;&emsp;(D) the Office of the Comptroller of the Currency, the Office of Thrift Supervision,,<sup>1</sup>the Resolution Trust Corporation, the Farm Credit Administration, the Federal Housing Finance Agency, the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;
 
 &emsp;&emsp;(E) the Securities and Exchange Commission; or
 
 &emsp;&emsp;(F) the Commodity Futures Trading Commission;
 
-&emsp;(2) “Senior Executive Service position” means any position in an agency which is classified above GS–15 pursuant to section 5108 or in level IV or V of the Executive Schedule, or an equivalent position, which is not required to be filled by an appointment by the President by and with the advice and consent of the Senate, and in which an employee—
+&emsp;(2) "Senior Executive Service position" means any position in an agency which is classified above GS–15 pursuant to section 5108 or in level IV or V of the Executive Schedule, or an equivalent position, which is not required to be filled by an appointment by the President by and with the advice and consent of the Senate, and in which an employee—
 
 &emsp;&emsp;(A) directs the work of an organizational unit;
 
@@ -30,23 +30,25 @@
 
 > &emsp;but does not include—
 
-&emsp;&emsp;(i) any position in the Foreign Service of the United States; or
+&emsp;&emsp;(i) any position in the Foreign Service of the United States;
 
-&emsp;&emsp;(ii) an administrative law judge position under section 3105 of this title;
+&emsp;&emsp;(ii) an administrative law judge position under section 3105 of this title; or
 
-&emsp;(3) “senior executive” means a member of the Senior Executive Service;
+&emsp;&emsp;(iii) any position established as a qualified position in the excepted service by the Secretary of Homeland Security under section 226 <sup>2</sup> of the Homeland Security Act of 2002;
 
-&emsp;(4) “career appointee” means an individual in a Senior Executive Service position whose appointment to the position or previous appointment to another Senior Executive Service position was based on approval by the Office of Personnel Management of the executive qualifications of such individual;
+&emsp;(3) "senior executive" means a member of the Senior Executive Service;
 
-&emsp;(5) “limited term appointee” means an individual appointed under a nonrenewable appointment for a term of 3 years or less to a Senior Executive Service position the duties of which will expire at the end of such term;
+&emsp;(4) "career appointee" means an individual in a Senior Executive Service position whose appointment to the position or previous appointment to another Senior Executive Service position was based on approval by the Office of Personnel Management of the executive qualifications of such individual;
 
-&emsp;(6) “limited emergency appointee” means an individual appointed under a nonrenewable appointment, not to exceed 18 months, to a Senior Executive Service position established to meet a bona fide, unanticipated, urgent need;
+&emsp;(5) "limited term appointee" means an individual appointed under a nonrenewable appointment for a term of 3 years or less to a Senior Executive Service position the duties of which will expire at the end of such term;
 
-&emsp;(7) “noncareer appointee” means an individual in a Senior Executive Service position who is not a career appointee, a limited term appointee, or a limited emergency appointee;
+&emsp;(6) "limited emergency appointee" means an individual appointed under a nonrenewable appointment, not to exceed 18 months, to a Senior Executive Service position established to meet a bona fide, unanticipated, urgent need;
 
-&emsp;(8) “career reserved position” means a position which is required to be filled by a career appointee and which is designated under subsection (b) of this section; and
+&emsp;(7) "noncareer appointee" means an individual in a Senior Executive Service position who is not a career appointee, a limited term appointee, or a limited emergency appointee;
 
-&emsp;(9) “general position” means any position, other than a career reserved position, which may be filled by either a career appointee, noncareer appointee, limited emergency appointee, or limited term appointee.
+&emsp;(8) "career reserved position" means a position which is required to be filled by a career appointee and which is designated under subsection (b) of this section; and
+
+&emsp;(9) "general position" means any position, other than a career reserved position, which may be filled by either a career appointee, noncareer appointee, limited emergency appointee, or limited term appointee.
 
 (b)(1) For the purpose of paragraph (8) of subsection (a) of this section, the Office shall prescribe the criteria and regulations governing the designation of career reserved positions. The criteria and regulations shall provide that a position shall be designated as a career reserved position only if the filling of the position by a career appointee is necessary to ensure impartiality, or the public's confidence in the impartiality, of the Government. The head of each agency shall be responsible for designating career reserved positions in such agency in accordance with such criteria and regulations.
 
@@ -70,7 +72,7 @@
 
 &emsp;(3) upon completion of its review, recommend to the President whether the agency or unit should be excluded from the coverage of this subchapter.
 
-> If the Office recommends that an agency or unit thereof be excluded from the coverage of thissubchapter, the President may, on written determination, make the exclusion for the period determined by the President to be appropriate.
+> If the Office recommends that an agency or unit thereof be excluded from the coverage of this subchapter, the President may, on written determination, make the exclusion for the period determined by the President to be appropriate.
 
 (d) Any agency or unit which is excluded from coverage under subsection (c) of this section shall make a sustained effort to bring its personnel system into conformity with the Senior Executive Service to the extent practicable.
 
@@ -84,65 +86,69 @@
 
 > the Office shall, within 30 days after the action, transmit to the Congress written notice of the exclusion or revocation.
 
-(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, §152(d)(4), July 21, 2010, 124 Stat. 1414; Pub. L. 112–277, title V, §505(b), Jan. 14, 2013, 126 Stat. 2478.)
+(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, §152(d)(4), July 21, 2010, 124 Stat. 1414; Pub. L. 112–277, title V, §505(b), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–277, §3(b), Dec. 18, 2014, 128 Stat. 3008.)
 
 #### References in Text
 
 Level IV or V of the Executive Schedule, referred to in subsec. (a)(2), are set out in sections 5315 and 5316 of this title.
 
+Section 226 of the Homeland Security Act of 2002, referred to in cl. (iii) of concluding provisions of subsec. (a)(2), probably means the section 226 of Pub. L. 107–296 as added by Pub. L. 113–277, §3(a), Dec. 18, 2014, 128 Stat. 3005, which is classified to section 147 of Title 6, Domestic Security.
+
 The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsec. (b)(3), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1)(B). Pub. L. 112–277 inserted “the Office of the Director of National Intelligence,” after “the Central Intelligence Agency,”.
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–277 added cl. (iii) of concluding provisions.
 
-<b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203 substituted “the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;” for “and the National Credit Union Administration;”.
+<b>2013</b>—Subsec. (a)(1)(B). Pub. L. 112–277 inserted "the Office of the Director of National Intelligence," after "the Central Intelligence Agency,".
 
-<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203 substituted "the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;" for "and the National Credit Union Administration;".
 
-Pub. L. 110–289, §1161(g)(2)(A), substituted “, and” for “,, and”.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–417 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-Subsec. (a)(1)(D). Pub. L. 110–289, §1161(g)(2)(B), struck out “the Federal Housing Finance Board” after “the Office of Thrift Supervision,”, substituted “the Federal Housing Finance Agency” for “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”, and struck out “or or” at end.
+Pub. L. 110–289, §1161(g)(2)(A), substituted ", and" for ",, and".
 
-Subsec. (a)(1)(E), (F). Pub. L. 110–289, §1161(g)(2)(C), (D), inserted “or” at end of subpar. (E), relating to Securities and Exchange Commission, and redesignated subpar. (E), relating to Commodity Futures Trading Commission, as (F).
+Subsec. (a)(1)(D). Pub. L. 110–289, §1161(g)(2)(B), struck out "the Federal Housing Finance Board" after "the Office of Thrift Supervision,", substituted "the Federal Housing Finance Agency" for "the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development", and struck out "or or" at end.
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+Subsec. (a)(1)(E), (F). Pub. L. 110–289, §1161(g)(2)(C), (D), inserted "or" at end of subpar. (E), relating to Securities and Exchange Commission, and redesignated subpar. (E), relating to Commodity Futures Trading Commission, as (F).
 
-<b>2002</b>—Subsec. (a)(1)(C). Pub. L. 107–252, §811(b), inserted “or the Election Assistance Commission” after “Commission”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
 
-Pub. L. 107–171, §10702(c)(1)(A), which directed amendment by striking “or” at the end, could not be executed because the word “or” did not appear at the end. See below.
+<b>2002</b>—Subsec. (a)(1)(C). Pub. L. 107–252, §811(b), inserted "or the Election Assistance Commission" after "Commission".
 
-Pub. L. 107–123, §8(d)(1)(B)(i), struck out “or” at end.
+Pub. L. 107–171, §10702(c)(1)(A), which directed amendment by striking "or" at the end, could not be executed because the word "or" did not appear at the end. See below.
 
-Subsec. (a)(1)(D). Pub. L. 107–171, §10702(c)(1)(B), inserted “or” at end.
+Pub. L. 107–123, §8(d)(1)(B)(i), struck out "or" at end.
 
-Pub. L. 107–123, §8(d)(1)(B)(ii), inserted “or” at end.
+Subsec. (a)(1)(D). Pub. L. 107–171, §10702(c)(1)(B), inserted "or" at end.
+
+Pub. L. 107–123, §8(d)(1)(B)(ii), inserted "or" at end.
 
 Subsec. (a)(1)(E). Pub. L. 107–171, §10702(c)(1)(C), added subpar. (E) relating to Commodity Futures Trading Commission.
 
 Pub. L. 107–123, §8(d)(1)(B)(iii), added subpar. (E) relating to the Securities and Exchange Commission.
 
-<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–201 substituted "National Imagery and Mapping Agency" for "Central Imagery Office".
 
-<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–359 inserted "the Central Imagery Office," after "Defense Intelligence Agency,".
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–496 inserted ", Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10," after "National Security Agency".
 
-Subsec. (a)(1)(D). Pub. L. 102–550 inserted “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development,” after “Farm Credit Administration,”.
+Subsec. (a)(1)(D). Pub. L. 102–550 inserted "the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development," after "Farm Credit Administration,".
 
 <b>1990</b>—Subsec. (a)(1)(D). Pub. L. 101–624 inserted reference to Farm Credit Administration.
 
-Subsec. (a)(2). Pub. L. 101–509 substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18 of the General Schedule”.
+Subsec. (a)(2). Pub. L. 101–509 substituted "classified above GS–15 pursuant to section 5108" for "in GS–16, 17, or 18 of the General Schedule".
 
 <b>1989</b>—Subsec. (a)(1)(D). Pub. L. 101–73 added subpar. (D).
 
 <b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–325, §2(c)(1), inserted reference to Drug Enforcement Administration.
 
-Subsec. (a)(2)(iii). Pub. L. 100–235, §2(c)(2), struck out cl. (iii) which read as follows: “any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);”.
+Subsec. (a)(2)(iii). Pub. L. 100–235, §2(c)(2), struck out cl. (iii) which read as follows: "any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);".
 
 <b>1980</b>—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
 
-<b>1979</b>—Subsec. (a)(1)(B). Pub. L. 96–54 inserted “and,” after “Security Agency,”.
+<b>1979</b>—Subsec. (a)(1)(B). Pub. L. 96–54 inserted "and," after "Security Agency,".
 
 #### Effective Date of 2010 Amendment
 
@@ -150,11 +156,11 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. A , title I, §1163, July 30, 2008, 122 Stat. 2782, provided that: “Except as otherwise specifically provided in this title \[see Tables for classification\], this title and the amendments made by this title shall take effect on, and shall apply beginning on, the date of enactment of this Act \[July 30, 2008\].”
+Pub. L. 110–289, div. A , title I, §1163, July 30, 2008, 122 Stat. 2782, provided that: "Except as otherwise specifically provided in this title \[see Tables for classification\], this title and the amendments made by this title shall take effect on, and shall apply beginning on, the date of enactment of this Act \[July 30, 2008\]."
 
 #### Effective Date of 2002 Amendments
 
-Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 15323 of Title 42, The Public Health and Welfare, see section 15534(a) of Title 42.
+Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 20923 of Title 52, Voting and Elections, see section 21134(a) of Title 52.
 
 Amendment by Pub. L. 107–123 effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as a note under section 78ee of Title 15, Commerce and Trade.
 
@@ -168,7 +174,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–187 effective on Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of Title 2, The Congress.
+Amendment by Pub. L. 96–187 effective on Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 30101 of Title 52, Voting and Elections.
 
 #### Effective Date of 1979 Amendment
 
@@ -176,11 +182,13 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Construction
 
-Pub. L. 112–166, §2(hh), Aug. 10, 2012, 126 Stat. 1290, provided that: “Notwithstanding section 3132(a)(2) of title 5, United States Code, removal of Senate confirmation for any position in this section shall not—
+Pub. L. 112–166, §2(hh), Aug. 10, 2012, 126 Stat. 1290, provided that: "Notwithstanding section 3132(a)(2) of title 5, United States Code, removal of Senate confirmation for any position in this section shall not—
 
-&emsp;“(1) result in any such position being placed in the Senior Executive Service; or
+&emsp;"(1) result in any such position being placed in the Senior Executive Service; or
 
-&emsp;“(2) alter compensation for any such position under the Executive Schedule or other applicable compensation provisions of law.”
+&emsp;"(2) alter compensation for any such position under the Executive Schedule or other applicable compensation provisions of law."
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. See References in Text note below.</i>
 

@@ -24,7 +24,7 @@
 
 #### (ii) Noncompliance
 
-&emsp;&emsp;&emsp;In case of a refusal to obey a subpoena issued to any person, a court may orderthe person to appear before the Secretary and give evidence concerning the matter in question, produce evidence, or permit the inspection of premises.
+&emsp;&emsp;&emsp;In case of a refusal to obey a subpoena issued to any person, a court may order the person to appear before the Secretary and give evidence concerning the matter in question, produce evidence, or permit the inspection of premises.
 
 #### (iii) Contempt
 

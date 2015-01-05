@@ -8,7 +8,7 @@ In furtherance of the High Plains Groundwater Demonstration Program Act of 1983 
 
 &emsp;(2) a description of methods for optimizing Bureau of Reclamation project operations to ameliorate adverse impacts on groundwater,<sup>1</sup> and
 
-&emsp;(3) the Secretary's recommendations, along with the recommendations of the Governors of the affected States, concerning the establishment of a groundwater management and technical assistance program in the Department ofthe Interior in order to assist Federal and non-Federal entity development and implementation of groundwater management plans and activities.
+&emsp;(3) the Secretary's recommendations, along with the recommendations of the Governors of the affected States, concerning the establishment of a groundwater management and technical assistance program in the Department of the Interior in order to assist Federal and non-Federal entity development and implementation of groundwater management plans and activities.
 
 #### (b) Consultation with Governors
 

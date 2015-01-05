@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | \[4531. | Repealed.\] |
-| [4532\.](%C2%A7%2004532%20-%20Factories%20and%20arsenals%20manufacture%20at%3B%20abolition%20of.md) | Factories and arsenals: manufacture at; abolition of. |
+| [4532\.](%C2%A7%2004532%20-%20Factories%20and%20arsenals%20manufacture%20at.md) | Factories and arsenals: manufacture at. |
 | \[4533 to 4535. Repealed.\] |  |
 | [4536\.](%C2%A7%2004536%20-%20Equipment%20post%20bakeries%2C%20schools%2C%20kitchens%2C%20and%20mess%20halls.md) | Equipment: post bakeries, schools, kitchens, and mess halls. |
 | \[4537 to 4539. Repealed.\] |  |
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title III, §323(b), Dec. 19, 2014, 128 Stat. 3343, added item 4532 and struck out former item 4532 "Factories and arsenals: manufacture at; abolition of".
 
 <b>2004</b>—Pub. L. 108–375, div. A, title III, §353(b), Oct. 28, 2004, 118 Stat. 1861, added item 4544.
 
@@ -35,7 +37,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 04531 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;823(2), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2004531%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7823%282%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
-- [&sect; 04532 - Factories and arsenals manufacture at; abolition of](%C2%A7%2004532%20-%20Factories%20and%20arsenals%20manufacture%20at%3B%20abolition%20of.md)
+- [&sect; 04532 - Factories and arsenals manufacture at](%C2%A7%2004532%20-%20Factories%20and%20arsenals%20manufacture%20at.md)
 - [&sect; 04533 to 4535 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;823(3)&#8211;(5), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2004533%20to%204535%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7823%283%29%E2%80%93%285%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
 - [&sect; 04536 - Equipment post bakeries, schools, kitchens, and mess halls](%C2%A7%2004536%20-%20Equipment%20post%20bakeries%2C%20schools%2C%20kitchens%2C%20and%20mess%20halls.md)
 - [&sect; 04537, 4538 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;823(6), (7), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2004537%2C%204538%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7823%286%29%2C%20%287%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)

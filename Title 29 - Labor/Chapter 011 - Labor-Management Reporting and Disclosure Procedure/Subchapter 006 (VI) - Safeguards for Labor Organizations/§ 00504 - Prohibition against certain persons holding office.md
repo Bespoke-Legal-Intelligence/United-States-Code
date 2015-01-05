@@ -68,7 +68,7 @@ Amendment by section 229 of Pub. L. 98–473 effective Nov. 1, 1987, and applica
 
 Pub. L. 98–473, title II, §804, Oct. 12, 1984, 98 Stat. 2134, provided that:
 
-"(a) The amendments made by section 802 \[amending section 1111 of this title\] and section 803 \[amending this section\] of this title shall take effect with respect to any judgment of conviction entered by the trial court after the date of enactment of this title \[Oct. 12, 1984\], except that that portion of such amendments relating to the commencement of the period of disability shall apply to any judgment of conviction entered prior to the date of enactment of this title if a right of appeal or an appeal from such judgment is pending on the date of enactment of this title.
+"(a) The amendments made by section 802 \[amending section 1111 of this title\] and section 803 \[amending this section\] of this title shall take effect with respect to any judgment of conviction entered by the trial courtafter the date of enactment of this title \[Oct. 12, 1984\], except that that portion of such amendments relating to the commencement of the period of disability shall apply to any judgment of conviction entered prior to the date of enactment of this title if a right of appeal or an appeal from such judgment is pending on the date of enactment of this title.
 
 "(b) Subject to subsection (a) the amendments made by sections 803 and 804 \[probably should be sections 802 and 803\] shall not affect any disability under section 411 of the Employee Retirement Income Security Act of 1974 \[section 1111 of this title\] or under section 504 of the Labor-Management Reporting and Disclosure Act of 1959 \[this section\] in effect on the date of enactment of this title \[Oct. 12, 1984\]."
 

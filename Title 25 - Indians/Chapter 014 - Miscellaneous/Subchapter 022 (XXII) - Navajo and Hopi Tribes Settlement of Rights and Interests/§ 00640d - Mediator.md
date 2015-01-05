@@ -258,7 +258,7 @@ Prohibition.—Water rights for newly acquired trust lands shall not be used, le
 
 "(f)
 
-Subsurface Interests.—On any newly acquired trust lands where the subsurface interest is owned byany party other than the Tribe, the trust status of the surface ownership shall not impair any existing right of the subsurface owner to develop the subsurface interest and to have access to the surface for the purpose of such development.
+Subsurface Interests.—On any newly acquired trust lands where the subsurface interest is owned by any party other than the Tribe, the trust status of the surface ownership shall not impair any existing right of the subsurface owner to develop the subsurface interest and to have access to the surface for the purpose of such development.
 
 "(g)
 

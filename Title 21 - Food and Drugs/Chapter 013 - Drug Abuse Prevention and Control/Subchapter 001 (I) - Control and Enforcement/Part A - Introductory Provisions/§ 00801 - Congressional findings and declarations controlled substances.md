@@ -38,6 +38,12 @@ Pub. L. 91–513, title II, §704, Oct. 27, 1970, 84 Stat. 1284, provided that:
 
 "(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\]."
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–260, §1, Dec. 18, 2014, 128 Stat. 2929, provided that: "This Act \[amending sections 802, 811, 825, 842, and 960 of this title and enacting provisions set out as a note under section 825 of this title\] may be cited as the 'Designer Anabolic Steroid Control Act of 2014'."
+
+Pub. L. 113–143, §1, Aug. 1, 2014, 128 Stat. 1750, provided that: "This Act \[amending section 822 of this title\] may be cited as the 'Veterinary Medicine Mobility Act of 2014'."
+
 #### Short Title of 2012 Amendment
 
 Pub. L. 112–144, title XI, §1151, July 9, 2012, 126 Stat. 1130, provided that: "This subtitle \[subtitle D (§§1151–1153) of title XI of Pub. L. 112–144, amending sections 811 and 812 of this title\] may be cited as the 'Synthetic Drug Abuse Prevention Act of 2012'."
@@ -76,7 +82,7 @@ Pub. L. 108–21, title VI, §608(a), Apr. 30, 2003, 117 Stat. 691, provided tha
 
 Pub. L. 106–310, div. B, title XXXV, §3501, Oct. 17, 2000, 114 Stat. 1222, provided that: "This title \[amending sections 823 and 824 of this title\] may be cited as the 'Drug Addiction Treatment Act of 2000'."
 
-Pub. L. 106–310, div. B, title XXXVI, §3601, Oct. 17, 2000, 114 Stat. 1227, provided that: "This title \[enacting section 864 of this title and sections 290aa–5b and 290bb–9 of Title 42, The Public Health and Welfare, amending sections 802, 830, 853, 856, and 863 of this title, sections 3663 and 3663A of Title 18, Crimes and Criminal Procedure, section 524 of Title 28, Judiciary and Judicial Procedure, and sections 285o–2 and 3751 of Title 42, and enacting provisions set out as notes under this section and sections 802, 872, 873, 886, and 1706 of this title, sections 524 and 994 of Title 28, and sections 201, 290aa–4, 290aa–5b and 3751 of Title 42\] may be cited as the 'Methamphetamine Anti-Proliferation Act of 2000'."
+Pub. L. 106–310, div. B, title XXXVI, §3601, Oct. 17, 2000, 114 Stat. 1227, provided that: "This title \[enacting section 864 of this title and sections 290aa–5b and 290bb–9 of Title 42, The Public Health and Welfare, amending sections 802, 830, 853, 856, and 863 of this title, sections 3663 and 3663A of Title 18, Crimes and CriminalProcedure, section 524 of Title 28, Judiciary and Judicial Procedure, and sections 285o–2 and 3751 of Title 42, and enacting provisions set out as notes under this section and sections 802, 872, 873, 886, and 1706 of this title, sections 524 and 994 of Title 28, and sections 201, 290aa–4, 290aa–5b and 3751 of Title 42\] may be cited as the 'Methamphetamine Anti-Proliferation Act of 2000'."
 
 Pub. L. 106–172, §1, Feb. 18, 2000, 114 Stat. 7, provided that: "This Act \[amending sections 802, 827, 841 and 960 of this title and enacting provisions set out as notes under this section and section 812 of this title\] may be cited as the 'Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000'."
 
@@ -86,7 +92,7 @@ Pub. L. 105–277, div. C, title VIII, §801(a), Oct. 21, 1998, 112 Stat. 2681�
 
 Pub. L. 105–277, div. C, title VIII, subtitle G (§§871, 872), §871, Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, §1, Nov. 10, 1998, 112 Stat. 3271, provided that such subtitle and such Act, which amended section 956 of this title and enacted provisions set out as notes under section 956 of this title "may be cited as the 'Controlled Substances Trafficking Prohibition Act'."
 
-Pub. L. 105–277, div. E, §1, Oct. 21, 1998, 112 Stat. 2681–759, provided that: "This division \[amending sections 841 and 960 of this title and section 13705 of Title42, The Public Health and Welfare\] may be cited as the 'Methamphetamine Trafficking Penalty Enhancement Act of 1998'."
+Pub. L. 105–277, div. E, §1, Oct. 21, 1998, 112 Stat. 2681–759, provided that: "This division \[amending sections 841 and 960 of this title and section 13705 of Title 42, The Public Health and Welfare\] may be cited as the 'Methamphetamine Trafficking Penalty Enhancement Act of 1998'."
 
 #### Short Title of 1996 Amendments
 
@@ -408,7 +414,7 @@ Interagency Agreement.—The Secretary of Transportation and the Secretary of th
 
 "(b)
 
-Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United States and Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada."
+Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United Statesand Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada."
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -416,7 +422,7 @@ Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of Sta
 
 #### GAO Study of Capabilities of United States To Control Drug Smuggling Into United States
 
-Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smugglinginterdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
+Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
 
 #### Compliance With Budget Act
 

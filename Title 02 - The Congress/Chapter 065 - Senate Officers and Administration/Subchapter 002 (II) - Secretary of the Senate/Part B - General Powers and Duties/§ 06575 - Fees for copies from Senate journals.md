@@ -12,5 +12,5 @@ R.S. §71 derived from acts Sept. 15, 1789, ch. 14, §6, 1 Stat. 69; Aug. 8, 184
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “Secretary of the Senate is” for “Secretary of the Senate and the Clerk of the House of Representatives, respectively, are” and struck out “or from the journal of the House of Representatives,” after “has been removed,”.
+<b>1996</b>—Pub. L. 104–186 substituted "Secretary of the Senate is" for "Secretary of the Senate and the Clerk of the House of Representatives, respectively, are" and struck out "or from the journal of the House of Representatives," after "has been removed,".
 

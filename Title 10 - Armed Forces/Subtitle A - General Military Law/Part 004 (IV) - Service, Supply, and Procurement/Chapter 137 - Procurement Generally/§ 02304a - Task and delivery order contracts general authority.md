@@ -88,7 +88,7 @@ Pub. L. 110–181, div. A, title VIII, §843(a)(3)(A), Jan. 28, 2008, 122 Stat. 
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 2302 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
 
 #### Congressional Intelligence Committees
 

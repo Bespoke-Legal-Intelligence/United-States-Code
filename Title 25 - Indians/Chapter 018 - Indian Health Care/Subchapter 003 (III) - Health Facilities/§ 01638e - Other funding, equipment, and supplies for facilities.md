@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) accept from any source, including Federal and State agencies, funds, equipment, or supplies that are available for the construction or operation of health care or sanitation facilities; and
 
-&emsp;&emsp;(B) use those funds, equipment, and supplies to plan, design,,<sup>1</sup> construct, and operatehealth care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;&emsp;(B) use those funds, equipment, and supplies to plan, design,,<sup>1</sup> construct, and operate health care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 #### (3) Effect of receipt
 
@@ -42,7 +42,7 @@ The Secretary may enter into interagency agreements with Federal or State agenci
 
 #### (d) Definition of sanitation facility
 
-In this section, the term "sanitation facility" means a safe and adequate water supply system, sanitary sewage disposal system, or sanitary solid waste system (including all related equipment and support infrastructure).
+In this section, the term "sanitation facility" means a safe and adequate water supply system, sanitary sewage disposal system, or sanitarysolid waste system (including all related equipment and support infrastructure).
 
 (Pub. L. 94–437, title III, §311, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

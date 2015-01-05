@@ -1,6 +1,6 @@
 ### §2215. Transfer of funds to other departments and agencies: limitation
 
-Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision of law enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretary of Defense submits to the congressional defense committees a certification that making those funds available to such other department or agency is in the national security interest of the United States.
+Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision oflaw enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretary of Defense submits to the congressional defense committees a certification that making those funds available to such other department or agency is in the national security interest of the United States.
 
 (Added Pub. L. 103–160, div. A, title XI, §1106(a)(1), Nov. 30, 1993, 107 Stat. 1750; amended Pub. L. 104–106, div. A, title XV, §1502(a)(14), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(b)(1), Oct. 28, 2004, 118 Stat. 2060.)
 

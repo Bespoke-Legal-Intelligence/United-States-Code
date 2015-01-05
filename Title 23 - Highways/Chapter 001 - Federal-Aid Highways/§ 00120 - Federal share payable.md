@@ -124,7 +124,7 @@ Maintenance of effort.—
 
 &emsp;&emsp;(A)
 
-In general.—The credit for any non-Federal share provided under this subsection shall not reduce nor replace State funds required to match Federal funds for any program under this title.
+In general.—The credit for any non-Federal share provided under this subsectionshall not reduce nor replace State funds required to match Federal funds for any program under this title.
 
 &emsp;&emsp;(B)
 
@@ -156,7 +156,7 @@ Use of Federal Agency Funds.—Notwithstanding any other provision of law, any F
 
 (k)
 
-Use of Federal Land and Tribal Transportation Funds.—Notwithstanding any otherprovision of law, the funds authorized to be appropriated to carry out the tribal transportation program under section 202 and the Federal lands transportation program under section 203 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or tribal land.
+Use of Federal Land and Tribal Transportation Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the tribal transportation program under section 202 and the Federal lands transportation program under section 203 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or tribal land.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513; Pub. L. 110–140, title XI, §1131, Dec. 19, 2007, 121 Stat. 1763; Pub. L. 112–141, div. A, title I, §§1304(b), 1508, July 6, 2012, 126 Stat. 532, 565.)
 
@@ -250,7 +250,7 @@ Subsec. (n). Pub. L. 102–240, §1021(b)(2), redesignated subsec. (n) as (i).
 
 Subsec. (f). Pub. L. 100–17, §117(c)(1), inserted heading and amended first sentence generally. Prior to amendment, first sentence read as follows: "The Federal share payable on account of any repair or reconstruction provided for by funds made available under section 125 of this title shall not exceed 100 per centum of the cost thereof: <i>Provided</i>, That the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads may amount to 100 per centum of the cost thereof."
 
-Subsecs. (i), (j). Pub. L. 100–17, §117(b), redesignated subsec. (i) relating to Federal share payable on account of any project financed under section 307(c) of this title, as subsec. (j). Former subsec. (j) redesignated (k).
+Subsecs. (i), (j). Pub. L. 100–17, §117(b), redesignated subsec. (i) relating to Federal share payable on accountof any project financed under section 307(c) of this title, as subsec. (j). Former subsec. (j) redesignated (k).
 
 Subsec. (k). Pub. L. 100–17, §117(b), (d)(1), redesignated former subsec. (j) as (k) and substituted "(j)" for "(i)", "and 155" for ", 148, and 155," and "100–3" for "97–61". Former subsec. (k) redesignated (l).
 
@@ -322,7 +322,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 1021 of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by section 1021 of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991,and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 Pub. L. 102–240, title I, §1022(c), Dec. 18, 1991, 105 Stat. 1951, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 125 of this title\] shall only apply to natural disasters and catastrophic failures occurring after the date of the enactment of this Act \[Dec. 18, 1991\]."
 
@@ -392,7 +392,7 @@ Pub. L. 100–17, title I, §117(f), Apr. 2, 1987, 101 Stat. 156, provided that 
 
 #### Obligations for Projects Resulting From Natural Disasters or Catastrophic Failures; Emergency Relief; Federal Share
 
-Pub. L. 97–424, title I, §153(g), Jan. 6, 1983, 96 Stat. 2133, provided that: "All obligations for projects resulting from a natural disaster or catastrophic failure which the Secretary finds to be eligible for emergency relief subsequent to the date of enactment of this subsection \[Jan. 6, 1983\] shall provide for the Federal share required by subsection (f) of section 120 of title 23, United States Code, as amended by this section."
+Pub. L. 97–424, title I, §153(g), Jan. 6, 1983, 96 Stat. 2133, provided that: "All obligations for projects resulting from a natural disaster or catastrophic failure which the Secretary finds to be eligible for emergency relief subsequent to the date of enactment of this subsection \[Jan. 6, 1983\] shall provide for the Federal sharerequired by subsection (f) of section 120 of title 23, United States Code, as amended by this section."
 
 #### Federal Share of Projects Approved During Period Beginning February 12, 1975, and Ending September 30, 1975
 
@@ -422,7 +422,7 @@ Interim Reports.—The Secretary of the Treasury, in consultation with the Secre
 
 #### Highway Trust Fund
 
-Act June 29, 1956, ch. 462, title II, §209, 70 Stat. 397, as amended by Pub. L. 86–342, title II, §202, Sept. 21, 1959, 73 Stat. 615; Pub. L. 86–346, title I, §104(5), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–440, §1(c), Apr. 22, 1960, 74 Stat. 81; Pub. L. 87–61, title II, §207, June 29, 1961, 75 Stat. 128; Pub. L. 88–578, title II, §202, Sept. 3, 1964, 78 Stat. 904; Pub. L. 89–44, title II, §210, title VIII, §809(e), June 21, 1965, 79 Stat. 144, 168; Pub. L. 91–258, title II, §§207(e), 208(g), May 21, 1970, 84 Stat. 249, 252; Pub. L. 91–605, title III, §301, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §18, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–280, title III, §301, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §§503(a), 504(a), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 95–618, title II,§233(b)(2)(E), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–451, title II, §203(a), Oct. 14, 1980, 94 Stat. 1988; Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
+Act June 29, 1956, ch. 462, title II, §209, 70 Stat. 397, as amended by Pub. L. 86–342, title II, §202, Sept. 21, 1959, 73 Stat. 615; Pub. L. 86–346, title I, §104(5), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–440, §1(c), Apr. 22, 1960, 74 Stat. 81; Pub. L. 87–61, title II, §207, June 29, 1961, 75 Stat. 128; Pub. L. 88–578, title II, §202, Sept. 3, 1964, 78 Stat. 904; Pub. L. 89–44, title II, §210, title VIII, §809(e), June 21, 1965, 79 Stat. 144, 168; Pub. L. 91–258, title II, §§207(e), 208(g), May 21, 1970, 84 Stat. 249, 252; Pub. L. 91–605, title III, §301, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §18, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–280, title III, §301, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §§503(a), 504(a), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 95–618, title II, §233(b)(2)(E), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–451, title II, §203(a), Oct. 14, 1980, 94 Stat. 1988; Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
 
 "(a) \[Repealed. Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191. Subsec. (a) provided for the creation of a Highway Trust Fund.\]
 

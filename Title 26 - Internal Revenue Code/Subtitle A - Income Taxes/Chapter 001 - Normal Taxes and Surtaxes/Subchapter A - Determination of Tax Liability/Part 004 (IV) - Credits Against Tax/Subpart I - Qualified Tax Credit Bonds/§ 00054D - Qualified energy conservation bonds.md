@@ -16,7 +16,7 @@ The annual credit determined under section 54A(b) with respect to any qualified 
 
 #### (c) Limitation on amount of bonds designated
 
-The maximum aggregate face amount of bonds which may be designated under subsection (a) by any issuer shall not exceed the limitation amount allocated to such issuer under subsection (e).
+The maximum aggregate face amount of bonds which may be designated under subsection (a) byany issuer shall not exceed the limitation amount allocated to such issuer under subsection (e).
 
 #### (d) National limitation on amount of bonds designated
 

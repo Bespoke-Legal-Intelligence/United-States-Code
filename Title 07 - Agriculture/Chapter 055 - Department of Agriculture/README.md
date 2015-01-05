@@ -14,12 +14,14 @@
 | [2204e.](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md) | Office of Risk Assessment and Cost-Benefit Analysis. |
 | [2204f.](%C2%A7%2002204f%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76403%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20429.md) | Repealed. |
 | [2204g.](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md) | Authority of Secretary of Agriculture to conduct census of agriculture. |
+| [2204h.](%C2%A7%2002204h%20-%20Local%20food%20production%20and%20program%20evaluation.md) | Local food production and program evaluation. |
 | [2205\.](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md) | Duties of former Commissioner of Agriculture transferred to Secretary. |
 | [2206\.](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md) | Custody of property and records. |
 | [2206a.](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md) | Conveyance of excess Federal personal property. |
 | [2206b.](%C2%A7%2002206b%20-%20Availability%20of%20excess%20and%20surplus%20computers%20in%20rural%20areas.md) | Availability of excess and surplus computers in rural areas. |
 | [2207\.](%C2%A7%2002207%20-%20Reports.md) | Reports. |
 | [2207a.](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md) | Reports to Congress on obligation and expenditure. |
+| [2207b.](%C2%A7%2002207b%20-%20Program%20metrics.md) | Program metrics. |
 | [2208\.](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md) | Expenditure of appropriations; accounting. |
 | [2208a.](%C2%A7%2002208a%20-%20Loan%20levels%20provided%20to%20Department%20of%20Agriculture.md) | Loan levels provided to Department of Agriculture. |
 | [2209\.](%C2%A7%2002209%20-%20Additional%20statement%20of%20expenditures.md) | Additional statement of expenditures. |
@@ -86,6 +88,7 @@
 | [2249\.](%C2%A7%2002249%20-%20Amount%20and%20character%20of%20cooperation.md) | Amount and character of cooperation. |
 | [2250\.](%C2%A7%2002250%20-%20Construction%20and%20repair%20of%20buildings%20and%20public%20improvements.md) | Construction and repair of buildings and public improvements. |
 | [2250a.](%C2%A7%2002250a%20-%20Erection%20of%20buildings%20and%20other%20structures%20on%20non-Federal%20lands%3B%20duration%20of%20use%20of%20such%20lands%3B%20removal%20of%20structures%20after%20termination%E2%80%A6.md) | Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination of use; availability of funds for expenses of acquiring long-term leases or other agreements. |
+| [2250b.](%C2%A7%2002250b%20-%20Nonrecurring%20expenses%20fund.md) | Nonrecurring expenses fund. |
 | [2251\.](%C2%A7%2002251%20-%20Reimbursement%20of%20Production%20and%20Marketing%20Administration%20appropriations%20for%20expenses%20of%20maintaining%20registers%20of%20indebtedness%20and%20making%E2%80%A6.md) | Reimbursement of Production and Marketing Administration appropriations for expenses of maintaining registers of indebtedness and making set-offs. |
 | [2252\.](%C2%A7%2002252%20-%20Reimbursement%20of%20Production%20and%20Marketing%20Administration%20appropriations%20for%20costs%20of%20procuring%20agricultural%20commodities%20for%E2%80%A6.md) | Reimbursement of Production and Marketing Administration appropriations for costs of procuring agricultural commodities for nongovernmental agencies or foreign governments. |
 | [2253\.](%C2%A7%2002253%20-%20Adjustment%20by%20Secretary%20of%20titles%20to%20lands%20acquired%20by%20Government%20and%20subject%20to%20his%20control.md) | Adjustment by Secretary of titles to lands acquired by Government and subject to his control. |
@@ -125,7 +128,7 @@
 | [2276\.](%C2%A7%2002276%20-%20Confidentiality%20of%20information.md) | Confidentiality of information. |
 | [2277\.](%C2%A7%2002277%20-%20Contracts%20by%20Animal%20and%20Plant%20Health%20Inspection%20Service%20for%20services%20to%20be%20performed%20abroad.md) | Contracts by Animal and Plant Health Inspection Service for services to be performed abroad. |
 | [2278\.](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md) | Consistency with international obligations of United States. |
-| [2279\.](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md) | Outreach and assistance for socially disadvantaged farmers and ranchers. |
+| [2279\.](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers%20and%20veteran%20farmers%20and%20ranchers.md) | Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers. |
 | 2279–1. | Transparency and accountability for socially disadvantaged farmers and ranchers. |
 | 2279–2. | Report of civil rights complaints, resolutions, and actions. |
 | [2279a.](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md) | Fair and equitable treatment of socially disadvantaged producers. |
@@ -156,12 +159,14 @@
 - [&sect; 02204e - Office of Risk Assessment and Cost-Benefit Analysis](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md)
 - [&sect; 02204f - Repealed. Pub. L. 107&#8211;171, title VI, &sect;6403(a), May 13, 2002, 116 Stat. 429](%C2%A7%2002204f%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76403%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20429.md)
 - [&sect; 02204g - Authority of Secretary of Agriculture to conduct census of agriculture](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md)
+- [&sect; 02204h - Local food production and program evaluation](%C2%A7%2002204h%20-%20Local%20food%20production%20and%20program%20evaluation.md)
 - [&sect; 02205 - Duties of former Commissioner of Agriculture transferred to Secretary](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md)
 - [&sect; 02206 - Custody of property and records](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md)
 - [&sect; 02206a - Conveyance of excess Federal personal property](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md)
 - [&sect; 02206b - Availability of excess and surplus computers in rural areas](%C2%A7%2002206b%20-%20Availability%20of%20excess%20and%20surplus%20computers%20in%20rural%20areas.md)
 - [&sect; 02207 - Reports](%C2%A7%2002207%20-%20Reports.md)
 - [&sect; 02207a - Reports to Congress on obligation and expenditure](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md)
+- [&sect; 02207b - Program metrics](%C2%A7%2002207b%20-%20Program%20metrics.md)
 - [&sect; 02208 - Expenditure of appropriations; accounting](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md)
 - [&sect; 02208a - Loan levels provided to Department of Agriculture](%C2%A7%2002208a%20-%20Loan%20levels%20provided%20to%20Department%20of%20Agriculture.md)
 - [&sect; 02209 - Additional statement of expenditures](%C2%A7%2002209%20-%20Additional%20statement%20of%20expenditures.md)
@@ -230,6 +235,7 @@
 - [&sect; 02249 - Amount and character of cooperation](%C2%A7%2002249%20-%20Amount%20and%20character%20of%20cooperation.md)
 - [&sect; 02250 - Construction and repair of buildings and public improvements](%C2%A7%2002250%20-%20Construction%20and%20repair%20of%20buildings%20and%20public%20improvements.md)
 - [&sect; 02250a - Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination&#8230;](%C2%A7%2002250a%20-%20Erection%20of%20buildings%20and%20other%20structures%20on%20non-Federal%20lands%3B%20duration%20of%20use%20of%20such%20lands%3B%20removal%20of%20structures%20after%20termination%E2%80%A6.md)
+- [&sect; 02250b - Nonrecurring expenses fund](%C2%A7%2002250b%20-%20Nonrecurring%20expenses%20fund.md)
 - [&sect; 02251 - Reimbursement of Production and Marketing Administration appropriations for expenses of maintaining registers of indebtedness and making&#8230;](%C2%A7%2002251%20-%20Reimbursement%20of%20Production%20and%20Marketing%20Administration%20appropriations%20for%20expenses%20of%20maintaining%20registers%20of%20indebtedness%20and%20making%E2%80%A6.md)
 - [&sect; 02252 - Reimbursement of Production and Marketing Administration appropriations for costs of procuring agricultural commodities for&#8230;](%C2%A7%2002252%20-%20Reimbursement%20of%20Production%20and%20Marketing%20Administration%20appropriations%20for%20costs%20of%20procuring%20agricultural%20commodities%20for%E2%80%A6.md)
 - [&sect; 02253 - Adjustment by Secretary of titles to lands acquired by Government and subject to his control](%C2%A7%2002253%20-%20Adjustment%20by%20Secretary%20of%20titles%20to%20lands%20acquired%20by%20Government%20and%20subject%20to%20his%20control.md)
@@ -269,7 +275,7 @@
 - [&sect; 02276 - Confidentiality of information](%C2%A7%2002276%20-%20Confidentiality%20of%20information.md)
 - [&sect; 02277 - Contracts by Animal and Plant Health Inspection Service for services to be performed abroad](%C2%A7%2002277%20-%20Contracts%20by%20Animal%20and%20Plant%20Health%20Inspection%20Service%20for%20services%20to%20be%20performed%20abroad.md)
 - [&sect; 02278 - Consistency with international obligations of United States](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md)
-- [&sect; 02279 - Outreach and assistance for socially disadvantaged farmers and ranchers](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md)
+- [&sect; 02279 - Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers%20and%20veteran%20farmers%20and%20ranchers.md)
 - [&sect; 02279&#8211;1 - Transparency and accountability for socially disadvantaged farmers and ranchers](%C2%A7%2002279%E2%80%931%20-%20Transparency%20and%20accountability%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md)
 - [&sect; 02279&#8211;2 - Report of civil rights complaints, resolutions, and actions](%C2%A7%2002279%E2%80%932%20-%20Report%20of%20civil%20rights%20complaints%2C%20resolutions%2C%20and%20actions.md)
 - [&sect; 02279a - Fair and equitable treatment of socially disadvantaged producers](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md)

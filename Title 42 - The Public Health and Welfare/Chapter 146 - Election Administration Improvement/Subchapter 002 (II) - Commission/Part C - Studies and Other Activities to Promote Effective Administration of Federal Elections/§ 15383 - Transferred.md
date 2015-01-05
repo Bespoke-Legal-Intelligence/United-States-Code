@@ -1,0 +1,6 @@
+### §15383. Transferred
+
+#### Codification
+
+Section 15383 was editorially reclassified as section 20983 of Title 52, Voting and Elections.
+

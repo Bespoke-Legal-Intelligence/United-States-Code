@@ -38,15 +38,17 @@ Within 2 years after November 17, 1988, and thereafter at the Secretary's discre
 
 #### (d) "Innovative technology" defined
 
-For the purpose of this section, the term "innovative technology" means designs, materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice.
+For the purpose of this section, the term "innovative technology" means designs, methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section.
 
-(Pub. L. 100–676, §8, Nov. 17, 1988, 102 Stat. 4023; Pub. L. 106–53, title V, §503(b), Aug. 17, 1999, 113 Stat. 337.)
+(Pub. L. 100–676, §8, Nov. 17, 1988, 102 Stat. 4023; Pub. L. 106–53, title V, §503(b), Aug. 17, 1999, 113 Stat. 337; Pub. L. 113–121, title III, §3021, June 10, 2014, 128 Stat. 1301.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–121 substituted "methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section." for "materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice."
 
 <b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–53 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 

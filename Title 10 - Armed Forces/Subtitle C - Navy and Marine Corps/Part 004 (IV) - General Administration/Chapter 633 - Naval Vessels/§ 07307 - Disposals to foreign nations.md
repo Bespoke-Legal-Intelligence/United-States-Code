@@ -20,7 +20,7 @@ Other Vessels.—(1) A naval vessel not subject to subsection (a) may be dispose
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended. Chapter 6 of that Act is classified generally to subchapter VI (§2796 et seq.) of chapter 39 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of chapter 32 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of chapter 32 of Title 22. For complete classification ofthis Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@ The authorities granted by this subchapter shall be subject to the following exc
 
 (c) Leases and permits for general recreational use, business sites, home sites, vacation cabin sites, and grazing shall be executed in accordance with the laws relating to leases of Indian lands, provided that all development and improvement leases so granted shall conform to the development program and standards prescribed for the Lake Mead National Recreation Area.
 
-(d) Nothing in this subchapter shall deprive the members of the Hualapai Tribe of huntingand fishing privileges presently exercised by them, nor diminish those rights and privileges of that part of the reservation which is included in the Lake Mead Recreation Area.<sup>1</sup>
+(d) Nothing in this subchapter shall deprive the members of the Hualapai Tribe of hunting and fishing privileges presently exercised by them, nor diminish those rights and privileges of that part of the reservation which is included in the Lake Mead Recreation Area.<sup>1</sup>
 
 (Pub. L. 88–639, §3, Oct. 8, 1964, 78 Stat. 1039.)
 

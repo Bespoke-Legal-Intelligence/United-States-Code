@@ -42,7 +42,7 @@ Pub. L. 108–451, §1(a), Dec. 10, 2004, 118 Stat. 3478, provided that: "This A
 
 Pub. L. 108–451, title I, §101, Dec. 10, 2004, 118 Stat. 3486, provided that: "This title \[amending section 1543 of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the 'Central Arizona Project Settlement Act of 2004'."
 
-Pub. L. 108–451, title II, §201, Dec. 10, 2004, 118 Stat. 3499, provided that: "This title \[amending section 1524 of this title and enacting and repealing provisions set out as notes under this section\] may be cited as the 'Gila River Indian Community Water Rights Settlement Act of 2004'."
+Pub. L. 108–451, title II, §201, Dec. 10, 2004, 118 Stat. 3499, provided that: "This title \[amending section 1524of this title and enacting and repealing provisions set out as notes under this section\] may be cited as the 'Gila River Indian Community Water Rights Settlement Act of 2004'."
 
 #### Short Title
 

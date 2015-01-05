@@ -2,9 +2,9 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) “overtime pay” means pay for hours of service in excess of a statutory or other basic workweek or other basic unit of worktime, as observed by the employing establishment; and
+&emsp;(1) "overtime pay" means pay for hours of service in excess of a statutory or other basic workweek or other basic unit of worktime, as observed by the employing establishment; and
 
-&emsp;(2) “year” means a period of 12 calendar months, or the equivalent thereof as specified by regulations prescribed by the Secretary of Labor.
+&emsp;(2) "year" means a period of 12 calendar months, or the equivalent thereof as specified by regulations prescribed by the Secretary of Labor.
 
 (b) In computing monetary compensation for disability or death on the basis of monthly pay, that pay is determined under this section.
 
@@ -52,7 +52,7 @@ Sept. 7, 1916, ch. 458, §12, 39 Stat. 746.
 
 Oct. 14, 1949, ch. 691, §203, 63 Stat. 862.
 
-In subsection (d)(4), the words “the minimum rate of basic pay for GS–15” are substituted for “the basic rate of annual compensation specified under the Classification Act of 1949, as amended, for positions in grade GS–15 at the bottom of such grade”. In former section 762, the words “Classification Act of 1949” were substituted for “Classification Act of 1923” on authority of §1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
+In subsection (d)(4), the words "the minimum rate of basic pay for GS–15" are substituted for "the basic rate of annual compensation specified under the Classification Act of 1949, as amended, for positions in grade GS–15 at the bottom of such grade". In former section 762, the words "Classification Act of 1949" were substituted for "Classification Act of 1923" on authority of §1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
 Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
 
@@ -64,5 +64,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–737, §4, Nov. 2, 1966, 80 Stat. 1164, which provided that the amendments made by this Act \[amending this section and sections 8331 and 8704 of thistitle\] apply with respect to premium pay payable from and after the first day of the first pay period which begins after the date of enactment of this Act \[Nov. 2, 1966\], was repealed by Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223.
+Pub. L. 89–737, §4, Nov. 2, 1966, 80 Stat. 1164, which provided that the amendments made by this Act \[amending this section and sections 8331 and 8704 of this title\] apply with respect to premium pay payable from and after the first day of the first pay period which begins after the date of enactment of this Act \[Nov. 2, 1966\], was repealed by Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223.
 

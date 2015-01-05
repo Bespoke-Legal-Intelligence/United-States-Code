@@ -28,7 +28,7 @@ As used in this subchapter:
 
 &emsp;(A) a drug which contains any quantity of barbituric acid or any of the salts of barbituric acid; or
 
-&emsp;(B) a drug which contains any quantity of (i) amphetamine or any of its optical isomers; (ii)any salt of amphetamine or any salt of an optical isomer of amphetamine; or (iii) any substance which the Attorney General, after investigation, has found to be, and by regulation designated as, habit forming because of its stimulant effect on the central nervous system; or
+&emsp;(B) a drug which contains any quantity of (i) amphetamine or any of its optical isomers; (ii) any salt of amphetamine or any salt of an optical isomer of amphetamine; or (iii) any substance which the Attorney General, after investigation, has found to be, and by regulation designated as, habit forming because of its stimulant effect on the central nervous system; or
 
 &emsp;(C) lysergic acid diethylamide; or
 
@@ -228,7 +228,7 @@ As used in this subchapter:
 
 (40) The term "chemical mixture" means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
 
-(41)(A) The term "anabolic steroid" means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes—
+(41)(A) The term "anabolic steroid" means any drug or hormonal substance, chemically and pharmacologically related to testosterone (otherthan estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes—
 
 &emsp;(i) androstanediol—
 
@@ -356,15 +356,91 @@ As used in this subchapter:
 
 &emsp;(xlviii) tetrahydrogestrinone (13β,17α-diethyl-17β-hydroxygon-4,9,11-trien-3-one);
 
-&emsp;(xlix) trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and
+&emsp;(xlix) trenbolone (17β-hydroxyestr-4,9,11-trien-3-one);
 
-&emsp;(xlx) <sup>1</sup> any salt, ester, or ether of a drug or substance described in this paragraph.
+&emsp;(l) 5α-Androstan-3,6,17-trione;
+
+&emsp;(li) 6-bromo-androstan-3,17-dione;
+
+&emsp;(lii) 6-bromo-androsta-1,4-diene-3,17-dione;
+
+&emsp;(liii) 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+&emsp;(liv) 4-chloro-17α-methyl-androst-4-ene-3β,17β-diol;
+
+&emsp;(lv) 4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one;
+
+&emsp;(lvi) 4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11-dione;
+
+&emsp;(lvii) 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+&emsp;(lviii) 2α,17α-dimethyl-17β-hydroxy-5α-androstan-3-one;
+
+&emsp;(lix) 2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one;
+
+&emsp;(lx) 2α,3α-epithio-17α-methyl-5α-androstan-17β-ol;
+
+&emsp;(lxi) \[3,2-c\]-furazan-5α-androstan-17β-ol;
+
+&emsp;(lxii) 3β-hydroxy-estra-4,9,11-trien-17-one;
+
+&emsp;(lxiii) 17α-methyl-androst-2-ene-3,17β-diol;
+
+&emsp;(lxiv) 17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+&emsp;(lxv) Estra-4,9,11-triene-3,17-dione;
+
+&emsp;(lxvi) 18a-Homo-3-hydroxy-estra-2,5(10)-dien-17-one;
+
+&emsp;(lxvii) 6α-Methyl-androst-4-ene-3,17-dione;
+
+&emsp;(lxviii) 17α-Methyl-androstan-3-hydroxyimine-17β-ol;
+
+&emsp;(lxix) 17α-Methyl-5α-androstan-17β-ol;
+
+&emsp;(lxx) 17β-Hydroxy-androstano\[2,3-d\]isoxazole;
+
+&emsp;(lxxi) 17β-Hydroxy-androstano\[3,2-c\]isoxazole;
+
+&emsp;(lxxii) 4-Hydroxy-androst-4-ene-3,17-dione\[3,2-c\]pyrazole-5α-androstan-17β-ol;
+
+&emsp;(lxxiii) \[3,2-c\]pyrazole-androst-4-en-17β-ol;
+
+&emsp;(lxxiv) \[3,2-c\]pyrazole-5α-androstan-17β-ol; and
+
+&emsp;(lxxv) any salt, ester, or ether of a drug or substance described in this paragraph.
 
 > The substances excluded under this subparagraph may at any time be scheduled by the Attorney General in accordance with the authority and requirements of subsections (a) through (c) of section 811 of this title.
 
 (B)(i) Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
 
 (ii) If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
+
+(C)(i) Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
+
+&emsp;(I) the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
+
+&emsp;&emsp;(aa) promotes muscle growth; or
+
+&emsp;&emsp;(bb) otherwise causes a pharmacological effect similar to that of testosterone; or
+
+&emsp;(II) the drug or substance has been, or is intended to be, marketed or otherwise promoted in any manner suggesting that consuming it will promote muscle growth or any other pharmacological effect similar to that of testosterone.
+
+(ii) A substance shall not be considered to be a drug or hormonal substance for purposes of this subparagraph if it—
+
+&emsp;(I) is—
+
+&emsp;&emsp;(aa) an herb or other botanical;
+
+&emsp;&emsp;(bb) a concentrate, metabolite, or extract of, or a constituent isolated directly from, an herb or other botanical; or
+
+&emsp;&emsp;(cc) a combination of 2 or more substances described in item (aa) or (bb);
+
+&emsp;(II) is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.); and
+
+&emsp;(III) is not anabolic or androgenic.
+
+(iii) In accordance with section 885(a) of this title, any person claiming the benefit of an exemption or exception under clause (ii) shall bear the burden of going forward with the evidence with respect to such exemption or exception.
 
 (42) The term "international transaction" means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
 
@@ -392,7 +468,7 @@ As used in this subchapter:
 
 (47) The term "mobile retail vendor" means a person or entity that makes sales at retail from a stand that is intended to be temporary, or is capable of being moved from one location to another, whether the stand is located within or on the premises of a fixed facility (such as a kiosk at a shopping center or an airport) or whether the stand is located on unimproved real estate (such as a lot or field leased for retail purposes).
 
-(48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
+(48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemicalproduct, means a sale or purchase for personal use, respectively.
 
 (49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
 
@@ -526,7 +602,7 @@ As used in this subchapter:
 
 &emsp;(C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929.)
 
 #### References in Text
 
@@ -536,11 +612,17 @@ This subchapter, referred to in introductory provisions and in pars. (34), (35),
 
 Subchapter II of this chapter, referred to in par. (39)(A)(iii), (vi), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv) and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv), (41)(C)(ii)(II), and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+
+This chapter, referred to in par. (41)(C)(i), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Par. (41)(A)(l) to (lxxv). Pub. L. 113–260, §2(a)(1), added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
+
+Par. (41)(C). Pub. L. 113–260, §2(a)(2), added subpar. (C).
 
 <b>2008</b>—Pars. (50) to (56). Pub. L. 110–425 added pars. (50) to (56).
 
@@ -760,7 +842,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Regulations
 
-Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: "The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\]."
+Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: "The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health andHuman Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\]."
 
 Pub. L. 98–509, title III, §301(b), Oct. 19, 1984, 98 Stat. 2364, provided that: "The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a)."
 
@@ -839,6 +921,4 @@ Drugs for Treatment of Rare Diseases.—If the Attorney General finds that a dru
 "(b)
 
 Date of Issuance of Regulations.—The Attorney General shall issue regulations implementing this section not later than 45 days after the date of enactment of this Act \[Nov. 29, 1990\], except that the regulations required under section 3(a) \[former 1903(a)\] shall be issued not later than 180 days after the date of enactment of this Act."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "(l)".</i>
 

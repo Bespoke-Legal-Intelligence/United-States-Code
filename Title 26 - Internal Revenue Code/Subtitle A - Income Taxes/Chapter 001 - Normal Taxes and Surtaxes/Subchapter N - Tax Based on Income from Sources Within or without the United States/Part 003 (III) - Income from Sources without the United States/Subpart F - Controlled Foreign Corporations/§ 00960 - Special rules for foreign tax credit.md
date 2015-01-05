@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(B) does not choose to have the benefits of subpart A of this part for the taxable year in which he receives a distribution or amount which is excluded from gross income under section 959(a) and which is attributable to earnings and profits of the controlled foreign corporation which was included in his gross income for the taxable year referred to in subparagraph (A),
 
-> &emsp;no deduction shall be allowed under section 164 for the taxable year in which such distribution or amount is received for any income, war profits, or excess profits taxes paid or accrued to any foreign country or to any possession of the United States on or with respect to such distribution or amount.
+> &emsp;no deduction shall be allowed under section 164 for the taxable year in which such distribution or amount is received for any income, war profits, or excess profits taxes paid or accruedto any foreign country or to any possession of the United States on or with respect to such distribution or amount.
 
 #### (5) Insufficient taxable income
 
@@ -102,7 +102,7 @@ The date of the enactment of the Revenue Reconciliation Act of 1993, referred to
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §§1033(b)(2), 1037(a), substituted "bears to the entire amount of the earnings and profits of such foreign corporation for such taxable year" for "bears to–" after "gross income of the domestic corporation", struck out subpars. (C) and (D) relating to corporations which are and are not less developed country corporations, inserted in subpar. (A) "(hereafter in this subsection referred to as the 'first foreign corporation')" after "foreign corporation", substituted in subpar. (B) "of a second foreign corporation (hereinafter in this subsection referred to as the 'second foreign corporation') at least 10 percent of the voting stock of which is owned by the first foreign corporation, or" for "of a foreign corporation at least 50 percent of the voting stock of which is owned by a foreign corporation at least 10 percent of the voting stock of which in turn owned by such domestic corporation" after "(B)", added subpar. (C), and inserted at end "This paragraph shall not apply with respect to any amount included in the gross income of such domestic corporation attributable to earning and profits of the second foreign corporation or of the third foreign corporation unless, in the case of the second foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(A) is satisfied, and in the case of the third foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(B) is satisfied."
 
-Subsec. (b). Pub. L. 94–455, §1031(b)(1), struck out "applicable" in par. (1) after "amount, the", in par. (2) after "increase of the", and in subpar. (A) of par. (2) after "by which the".
+Subsec. (b). Pub. L. 94–455, §1031(b)(1), struck out "applicable" in par. (1) after "amount, the", in par. (2)after "increase of the", and in subpar. (A) of par. (2) after "by which the".
 
 #### Effective Date of 2010 Amendment
 

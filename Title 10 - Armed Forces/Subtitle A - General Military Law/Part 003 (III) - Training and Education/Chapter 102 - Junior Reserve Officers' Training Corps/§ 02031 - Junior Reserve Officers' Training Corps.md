@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers' Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The President shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.
 
-(2) It is a purpose of the Junior Reserve Officers' Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States, and personal responsibility and a sense of accomplishment.
+(2) It is a purpose of the Junior Reserve Officers' Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to theUnited States, and personal responsibility and a sense of accomplishment.
 
 (b) No unit may be established or maintained at an institution unless—
 
@@ -114,7 +114,7 @@ Pub. L. 88–647, title I, §102, Oct. 13, 1964, 78 Stat. 1064, directed that re
 
 #### Savings Clause
 
-Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: "If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications."
+Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: "If a part of this Act \[see ShortTitle note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications."
 
 #### Increase in Number of Units of Junior Reserve Officers' Training Corps
 

@@ -110,7 +110,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive an award under this subsection to establish a Center, an accredited school of public health shall agree to conduct activities consistent with the requirements of this subsection.
+&emsp;To be eligible to receive an award under this subsection to establish a Center, an accreditedschool of public health shall agree to conduct activities consistent with the requirements of this subsection.
 
 #### (3) Core curricula
 
@@ -162,7 +162,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (3) Role of Department of Veterans Affairs
 
-&emsp;In carrying out paragraph (1), the Secretary shall consider using the biomedical research and development capabilities of the Department of Veterans Affairs, in conjunction withthat Department's affiliations with health-professions universities. When advantageous to the Government in furtherance of the purposes of such paragraph, the Secretary may enter into cooperative agreements with the Secretary of Veterans Affairs to achieve such purposes.
+&emsp;In carrying out paragraph (1), the Secretary shall consider using the biomedical research and development capabilities of the Department of Veterans Affairs, in conjunction with that Department's affiliations with health-professions universities. When advantageous to the Government in furtherance of the purposes of such paragraph, the Secretary may enter into cooperative agreements with the Secretary of Veterans Affairs to achieve such purposes.
 
 #### (4) Priority countermeasures
 

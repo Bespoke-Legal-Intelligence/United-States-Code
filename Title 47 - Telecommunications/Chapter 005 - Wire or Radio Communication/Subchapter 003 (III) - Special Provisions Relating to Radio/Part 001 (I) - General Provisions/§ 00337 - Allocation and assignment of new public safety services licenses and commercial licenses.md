@@ -100,7 +100,7 @@ Subsec. (a)(2). Pub. L. 112–96, §6101(b)(2), substituted "26" for "36".
 
 <b>2009</b>—Subsec. (e)(1). Pub. L. 111–4 substituted "June 12, 2009" for "February 17, 2009".
 
-<b>2006</b>—Subsec. (e)(1). Pub. L. 109–171, §3002(c)(1)(A), substituted "Channels 52 to 69" for "Channels 60 to 69"in heading and substituted in text "full-power television station licensee that" for "person who", "698 and 806 megahertz" for "746 and 806 megahertz", and "February 17, 2009" for "the date on which the digital television service transition period terminates, as determined by the Commission".
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–171, §3002(c)(1)(A), substituted "Channels 52 to 69" for "Channels 60 to 69" in heading and substituted in text "full-power television station licensee that" for "person who", "698 and 806 megahertz" for "746 and 806 megahertz", and "February 17, 2009" for "the date on which the digital television service transition period terminates, as determined by the Commission".
 
 Subsec. (e)(2). Pub. L. 109–171, §3002(c)(1)(B), substituted "698 megahertz" for "746 megahertz".
 

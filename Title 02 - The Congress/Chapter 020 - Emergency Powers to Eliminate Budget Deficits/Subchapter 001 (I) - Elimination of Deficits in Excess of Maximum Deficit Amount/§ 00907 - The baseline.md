@@ -18,7 +18,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 &emsp;(ii) On the expiration of the suspension of a provision of law that is suspended under section 7301 of title 7 and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
 
-&emsp;(B) The increase for veterans’ compensation for a fiscal year is assumed to be the same as that required by law for veterans’ pensions unless otherwise provided by law enacted in that session.
+&emsp;(B) The increase for veterans' compensation for a fiscal year is assumed to be the same as that required by law for veterans' pensions unless otherwise provided by law enacted in that session.
 
 &emsp;(C) Excise taxes dedicated to a trust fund, if expiring, are assumed to be extended at current rates.
 
@@ -26,11 +26,11 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (3) Hospital Insurance Trust Fund
 
-&emsp;Notwithstanding any other provision of law, the receipts and disbursements of the HospitalInsurance Trust Fund shall be included in all calculations required by this Act.
+&emsp;Notwithstanding any other provision of law, the receipts and disbursements of the Hospital Insurance Trust Fund shall be included in all calculations required by this Act.
 
 #### (c) Discretionary appropriations
 
-For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b) of this section:
+For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b):
 
 #### (1) Inflation of current-year appropriations
 
@@ -50,7 +50,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (5) Inflators
 
-&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
+&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnelshall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
 
 #### (6) Current-year appropriations
 
@@ -78,57 +78,57 @@ Pub. L. 101–508, §13101(e)(2), transferred section 251(a)(6)(I) of Pub. L. 99
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(2)(A)(i). Pub. L. 113–67 substituted “differences” for “differenes”.
+<b>2013</b>—Subsec. (b)(2)(A)(i). Pub. L. 113–67 substituted "differences" for "differenes".
 
-<b>1997</b>—Subsec. (b)(2)(A). Pub. L. 105–33, §10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
+<b>1997</b>—Subsec. (b)(2)(A). Pub. L. 105–33, §10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears."
 
 Subsec. (b)(2)(D). Pub. L. 105–33, §10209(a)(2), added subpar. (D).
 
-Subsec. (c)(5). Pub. L. 105–33, §10209(a)(3), substituted “domestic product chain-type price index” for “national product fixed-weight price index”.
+Subsec. (c)(5). Pub. L. 105–33, §10209(a)(3), substituted "domestic product chain-type price index" for "national product fixed-weight price index".
 
-Subsec. (e). Pub. L. 105–33, §10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: “The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;”.
+Subsec. (e). Pub. L. 105–33, §10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: "The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;".
 
 <b>1990</b>—Pub. L. 101–508, §13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
 
-Subsec. (e). Pub. L. 101–508, §13101(e)(2), redesignated section 901(a)(6)(I) of this title as subsec. (e) of this section, and substituted “The” for “assuming, for purposes of this paragraph and subparagraph (A)(i) of paragraph (3), that the”.
+Subsec. (e). Pub. L. 101–508, §13101(e)(2), redesignated section 901(a)(6)(I) of this title as subsec. (e) of this section, and substituted "The" for "assuming, for purposes of this paragraph and subparagraph (A)(i) of paragraph (3), that the".
 
 <b>1987</b>—Pub. L. 100–119, §102(a), amended section 901 of this title generally, adding subsec. (a)(6)(I). See 1990 Amendment note above.
 
-Par. (1). Pub. L. 100–119, §104(c)(2), struck out provisions of former subpar. (A) that “automatic spending increase” meant increases in budget outlays due to changes in indexes in the following Federal programs:
+Par. (1). Pub. L. 100–119, §104(c)(2), struck out provisions of former subpar. (A) that "automatic spending increase" meant increases in budget outlays due to changes in indexes in the following Federal programs:
 
-&emsp;“Black lung benefits (20-8144-0-7-601);
+&emsp;"Black lung benefits (20-8144-0-7-601);
 
-&emsp;“Central Intelligence Agency retirement and disability system fund (56-3400-0-1-054);
+&emsp;"Central Intelligence Agency retirement and disability system fund (56-3400-0-1-054);
 
-&emsp;“Civil service retirement and disability fund (24-8135-0-7-602);
+&emsp;"Civil service retirement and disability fund (24-8135-0-7-602);
 
-&emsp;“Comptrollers general retirement system (05-0107-0-1-801);
+&emsp;"Comptrollers general retirement system (05-0107-0-1-801);
 
-&emsp;“Foreign service retirement and disability fund (19-8186-0-7-602);
+&emsp;"Foreign service retirement and disability fund (19-8186-0-7-602);
 
-&emsp;“Judicial survivors’ annuities fund (10-8110-0-7-602);
+&emsp;"Judicial survivors' annuities fund (10-8110-0-7-602);
 
-&emsp;“Longshoremen's and harborworkers’ compensation benefits (16-9971-0-7-601);
+&emsp;"Longshoremen's and harborworkers' compensation benefits (16-9971-0-7-601);
 
-&emsp;“Military retirement fund (97-8097-0-7-602);
+&emsp;"Military retirement fund (97-8097-0-7-602);
 
-&emsp;“National Oceanic and Atmospheric Administration retirement (13-1450-0-1-306);
+&emsp;"National Oceanic and Atmospheric Administration retirement (13-1450-0-1-306);
 
-&emsp;“Pensions for former Presidents (47-0105-0-1-802);
+&emsp;"Pensions for former Presidents (47-0105-0-1-802);
 
-&emsp;“Railroad retirement tier II (60-8011-0-7-601);
+&emsp;"Railroad retirement tier II (60-8011-0-7-601);
 
-&emsp;“Retired pay, Coast Guard (69-0241-0-1-403);
+&emsp;"Retired pay, Coast Guard (69-0241-0-1-403);
 
-&emsp;“Retirement pay and medical benefits for commissioned officers, Public Health Service (75-0379-0-1-551);
+&emsp;"Retirement pay and medical benefits for commissioned officers, Public Health Service (75-0379-0-1-551);
 
-&emsp;“Special benefits, Federal Employees’ Compensation Act (16-1521-0-1-600);
+&emsp;"Special benefits, Federal Employees' Compensation Act (16-1521-0-1-600);
 
-&emsp;“Special benefits for disabled coal miners (75-0409-0-1-601); and
+&emsp;"Special benefits for disabled coal miners (75-0409-0-1-601); and
 
-&emsp;“Tax Court judges survivors annuity fund (23-8115-0-7-602).”
+&emsp;"Tax Court judges survivors annuity fund (23-8115-0-7-602)."
 
-Par. (7). Pub. L. 100–119, §102(b)(4), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The terms ‘sequester’ and ‘sequestration’ (subject to section 902(a)(4) of this title) refer to or mean the cancellation of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, and spending authority as defined in section 651(c)(2) of this title, and the reduction of obligation limitations.”
+Par. (7). Pub. L. 100–119, §102(b)(4), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "The terms 'sequester' and 'sequestration' (subject to section 902(a)(4) of this title) refer to or mean the cancellation of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, and spending authority as defined in section 651(c)(2) of this title, and the reduction of obligation limitations."
 
 Par. (9). Pub. L. 100–119, §102(b)(5), added par. (9).
 
@@ -142,19 +142,19 @@ Pars. (13), (14). Pub. L. 100–119, §102(b)(8), added pars. (13) and (14).
 
 #### Definition of Terms Used in Balanced Budget and Emergency Deficit Control Act of 1985
 
-Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: "Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading 'Senate', and the accounts under the general heading 'House of Representatives', shall each be considered to be one appropriation account and one 'program, project, and activity'."
 
-Pub. L. 100–202, §101(i) \[title III, §306\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act \[see Tables for classification\], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 100–202, §101(i) \[title III, §306\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: "Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], the term 'program, project, and activity' shall be synonymous with each appropriation account in this Act \[see Tables for classification\], except that the accounts under the general heading 'House of Representatives' shall be considered one appropriation account and one 'program, project, and activity', and the accounts under the general heading 'Senate' shall be considered one appropriation account and one 'program, project, and activity'."
 
 #### Cost-of-Living Adjustments in Certain Federal Benefits
 
 Pub. L. 99–509, title VII, §7001, Oct. 21, 1986, 100 Stat. 1948, provided that:
 
-“(a)
+"(a)
 
 In General.—Benefits which are payable in calendar year 1987, 1988, 1989, 1990, or 1991, under programs listed in section 257(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), \[2 U.S.C. 907(1)(A)\], including any cost-of-living adjustment in such benefits, shall not be subject to modification, suspension, or reduction in such calendar year pursuant to a Presidential order issued under such Act \[see Short Title note set out under 2 U.S.C. 900\].
 
-“(b)
+"(b)
 
-Definition.—For purposes of this section, the term ‘cost-of-living adjustment’ means any increase or change in the amount of a benefit or in standards relating to such benefit under any provision of Federal law which requires such increase or change as a result of any change in the Consumer Price Index (or any component thereof) or any other index which measures costs, prices, or wages.”
+Definition.—For purposes of this section, the term 'cost-of-living adjustment' means any increase or change in the amount of a benefit or in standards relating to such benefit under any provision of Federal law which requires such increase or change as a result of any change in the Consumer Price Index (or any component thereof) or any other index which measures costs, prices, or wages."
 

@@ -34,7 +34,7 @@ Required Features.—The process developed under subsection (a) shall provide fo
 
 (c)
 
-Annual Review.—The Secretary shall conduct an annual review of the process prescribed under subsection (a) and shall revise that process as determined necessary in relation to ongoing Department of Defense missions.
+Annual Review.—The Secretary shall conduct an annual review of the process prescribedunder subsection (a) and shall revise that process as determined necessary in relation to ongoing Department of Defense missions.
 
 (d)
 
@@ -84,7 +84,7 @@ Elements of analysis.—The analysis under paragraph (1) shall do the following:
 
 "(b)
 
-Personnel Security for Department of Defense Employees and Contractors.—If the Secretaryof Defense determines that the current approach for obtaining personnel security investigations and reinvestigations for employees and contractor personnel of the Department of Defense is not the most efficient and effective approach for the Department, the Secretary shall develop a plan, by not later than October 1, 2014, for the transition of personnel security investigations and reinvestigations to the approach preferred by the Secretary.
+Personnel Security for Department of Defense Employees and Contractors.—If the Secretary of Defense determines that the current approach for obtaining personnel security investigations and reinvestigations for employees and contractor personnel of the Department of Defense is not the most efficient and effective approach for the Department, the Secretary shall develop a plan, by not later than October 1, 2014, for the transition of personnel security investigations and reinvestigations to the approach preferred by the Secretary.
 
 "(c)
 
@@ -126,7 +126,7 @@ Elements.—In developing the strategy required by paragraph (1), the Secretary 
 
 &emsp;&emsp;&emsp;"(v) Records management for hiring and clearance decisions.
 
-&emsp;&emsp;"(B) Elimination or reduction, where possible, of the use of databases and information sources that cannot be accessed and processed automatically electronically, or modification of such databases and information sources, if appropriate and cost-effective, to enable electronic access and processing.
+&emsp;&emsp;"(B) Elimination or reduction, where possible, of the use of databases and information sources that cannot be accessed and processed automatically electronically, or modification of such databasesand information sources, if appropriate and cost-effective, to enable electronic access and processing.
 
 &emsp;&emsp;"(C) Access and analysis of government, publically available, and commercial data sources, including social media, that provide independent information pertinent to adjudication guidelines and termination standards to improve quality and timeliness, and reduce costs, of investigations and reinvestigations.
 
@@ -220,7 +220,7 @@ Initial meeting.—The task force shall convene its initial meeting not later th
 
 Duties.—The task force shall do the following:
 
-&emsp;&emsp;"(A) Analyze the degree to which State and local authorities comply with investigative requests made by Federal Government employees or contractor employees carrying out background investigations to determine an individual's suitability for access to classified information or secure government facilities, including the degree to which investigative requests are required but never formally requested.
+&emsp;&emsp;"(A) Analyze the degree to which State and local authorities comply with investigative requestsmade by Federal Government employees or contractor employees carrying out background investigations to determine an individual's suitability for access to classified information or secure government facilities, including the degree to which investigative requests are required but never formally requested.
 
 &emsp;&emsp;"(B) Analyze limitations on the access to public records provided by State and local authorities in response to investigative requests by Federal Government employees and contractor employees described in subparagraph (A), including, but not be limited to, limitations relating to budget and staffing constraints on State and local authorities, any procedural and legal obstacles impairing Federal access to State and local law enforcement records, or inadequate investigative procedural standards for background investigators.
 

@@ -122,7 +122,7 @@
 
 #### (A) Request for special fraud alerts
 
-&emsp;&emsp;Any person may present, at any time, a request to the Inspector General for a notice which informs the public of practices which the Inspector General considers to be suspect or of particular concern under the Medicare program under subchapter XVIII of this chapter or a State health care program, as defined in section 1320a–7(h) of this title (in this subsection referred to as a "special fraud alert").
+&emsp;&emsp;Any person may present, at any time, a request to the Inspector General for a noticewhich informs the public of practices which the Inspector General considers to be suspect or of particular concern under the Medicare program under subchapter XVIII of this chapter or a State health care program, as defined in section 1320a–7(h) of this title (in this subsection referred to as a "special fraud alert").
 
 #### (B) Issuance and publication of special fraud alerts
 

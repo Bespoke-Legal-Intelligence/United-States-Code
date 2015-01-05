@@ -10,7 +10,7 @@
 
 &emsp;(1) Serve as principal adviser to the Secretary on the adoption and implementation of policies and programs affecting veterans who are women.
 
-&emsp;(2) Make recommendations to the Secretary, the Under Secretary for Health, the Under Secretary for Benefits, and other Department officials for the establishment or improvement of programs in the Department for which veterans who are women are eligible.
+&emsp;(2) Make recommendations to the Secretary, the Under Secretary for Health, the Under Secretary for Benefits, and other Department officials for the establishment or improvementof programs in the Department for which veterans who are women are eligible.
 
 &emsp;(3) Promote the use of benefits authorized by this title by veterans who are women and the conduct of outreach activities to veterans who are women, in conjunction with outreach activities carried out under chapter 77 of this title.
 

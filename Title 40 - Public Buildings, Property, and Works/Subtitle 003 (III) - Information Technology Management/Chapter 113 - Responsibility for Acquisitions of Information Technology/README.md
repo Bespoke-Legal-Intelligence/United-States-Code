@@ -22,6 +22,7 @@
 | [11316\.](Subchapter%20002%20%28II%29%20-%20Executive%20Agencies/%C2%A7%2011316%20-%20Accountability.md) | Accountability. |
 | [11317\.](Subchapter%20002%20%28II%29%20-%20Executive%20Agencies/%C2%A7%2011317%20-%20Significant%20deviations.md) | Significant deviations. |
 | [11318\.](Subchapter%20002%20%28II%29%20-%20Executive%20Agencies/%C2%A7%2011318%20-%20Interagency%20support.md) | Interagency support. |
+| [11319\.](Subchapter%20002%20%28II%29%20-%20Executive%20Agencies/%C2%A7%2011319%20-%20Resources%2C%20planning%2C%20and%20portfolio%20management.md) | Resources, planning, and portfolio management. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,6 +36,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title VIII, §831(b), Dec. 19, 2014, 128 Stat. 3440, added item 11319.
 
 <b>2002</b>—Pub. L. 107–296, title X, §§1002(b), 1005(a)(2), Nov. 25, 2002, 116 Stat. 2269, 2272, and Pub. L. 107–347, title III, §§302(b), 305(a), Dec. 17, 2002, 116 Stat. 2957, 2960, amended table of sections identically, substituting "Responsibilities for Federal information systems standards" for "Responsibilities regarding efficiency, security, and privacy of federal computer systems" in item 11331 and striking out item 11332 "Federal computer system security training and plan".
 

@@ -18,7 +18,7 @@
 
 #### (2) Rule of construction
 
-&emsp;Nothing in paragraph (1) or in paragraphs (1) and (2) of subsection (e) shall be construed to preclude a health insurance issuer from adjusting premium or contribution amounts for an individual on the basis of a manifestation of a disease or disorder in that individual, or in a family member of such individual where such family member is covered under the policy that covers such individual. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to such individual and to further increase premiums or contribution amounts.
+&emsp;Nothing in paragraph (1) or in paragraphs (1) and (2) of subsection (e) shall be construed to preclude a health insurance issuer from adjusting premium or contribution amounts for an individual on the basis of a manifestationof a disease or disorder in that individual, or in a family member of such individual where such family member is covered under the policy that covers such individual. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to such individual and to further increase premiums or contribution amounts.
 
 #### (c) Prohibition on genetic information as preexisting condition
 
@@ -54,7 +54,7 @@
 
 &emsp;Notwithstanding paragraph (1), a health insurance issuer offering health insurance coverage in the individual market may request, but not require, that an individual or a family member of such individual undergo a genetic test if each of the following conditions is met:
 
-&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45,Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
+&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
 &emsp;&emsp;(B) The issuer clearly indicates to each individual, or in the case of a minor child, to the legal guardian of such child, to whom the request is made that—
 

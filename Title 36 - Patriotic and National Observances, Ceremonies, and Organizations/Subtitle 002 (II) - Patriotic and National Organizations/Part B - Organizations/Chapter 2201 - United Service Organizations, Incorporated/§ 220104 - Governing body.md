@@ -2,7 +2,7 @@
 
 (a)
 
-Board of Governors.—(1) The board of governors is the governing body of the corporation. The board is responsible for the general policies and program of the corporation and for the control of the affairs and property of the corporation.
+Board of Governors.—(1) The board of governors is the governing body of the corporation. The board is responsible for the generalpolicies and program of the corporation and for the control of the affairs and property of the corporation.
 
 (2) The board shall be elected by the members of the corporation for the term and in the classes provided in the bylaws of the corporation. The board includes—
 

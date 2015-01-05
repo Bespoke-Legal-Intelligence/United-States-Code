@@ -2,7 +2,7 @@
 
 #### (a) Easements
 
-The Secretary may provide cost share assistance to project sponsors to enable such sponsors to acquire perpetual wetland or floodplain conservation easements to perpetuate, restore and enhance the natural capability of wetlands and floodplains to retain excessive floodwaters, improve water quality and quantity, and provide habitat for fish and wildlife.
+The Secretary may provide cost share assistance to project sponsors to enable such sponsorsto acquire perpetual wetland or floodplain conservation easements to perpetuate, restore and enhance the natural capability of wetlands and floodplains to retain excessive floodwaters, improve water quality and quantity, and provide habitat for fish and wildlife.
 
 #### (b) Amount
 

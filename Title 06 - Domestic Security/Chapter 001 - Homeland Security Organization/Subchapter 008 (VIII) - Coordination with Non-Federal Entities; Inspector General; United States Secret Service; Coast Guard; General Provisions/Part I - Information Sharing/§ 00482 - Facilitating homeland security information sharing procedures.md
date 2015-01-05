@@ -8,7 +8,7 @@
 
 &emsp;(B) identify and safeguard homeland security information that is sensitive but unclassified; and
 
-&emsp;(C) to the extent such information is in classified form, determine whether, how, and towhat extent to remove classified information, as appropriate, and with which such personnel it may be shared after such information is removed.
+&emsp;(C) to the extent such information is in classified form, determine whether, how, and to what extent to remove classified information, as appropriate, and with which such personnel it may be shared after such information is removed.
 
 (2) The President shall ensure that such procedures apply to all agencies of the Federal Government.
 
@@ -18,7 +18,7 @@
 
 #### (b) Procedures for sharing of homeland security information
 
-(1) Under procedures prescribed by the President, all appropriate agencies, including the intelligence community, shall, through information sharing systems, share homeland security information with Federal agencies and appropriate State and local personnel to the extent such information may be shared, as determined in accordance with subsection (a) of this section, together with assessments of the credibility of such information.
+(1) Under procedures prescribed by the President, all appropriate agencies, including the intelligence community, shall, through information sharing systems, share homeland security information with Federal agencies and appropriate State and local personnel to the extent such information may be shared, as determined in accordance with subsection (a), together with assessments of the credibility of such information.
 
 (2) Each information sharing system through which information is shared under paragraph (1) shall—
 
@@ -54,7 +54,7 @@
 
 #### (c) Sharing of classified information and sensitive but unclassified information with State and local personnel
 
-(1) The President shall prescribe procedures under which Federal agencies may, to the extent the President considers necessary, share with appropriate State and local personnel homeland security information that remains classified or otherwise protected after the determinations prescribed under the procedures set forth in subsection (a) of this section.
+(1) The President shall prescribe procedures under which Federal agencies may, to the extent the President considers necessary, share with appropriate State and local personnel homeland security information that remains classified or otherwise protected after the determinations prescribed under the procedures set forth in subsection (a).
 
 (2) It is the sense of Congress that such procedures may include 1 or more of the following means:
 
@@ -92,7 +92,7 @@ Under procedures prescribed under this section, information obtained by a State 
 
 As used in this section:
 
-&emsp;(1) The term “homeland security information” means any information possessed by a Federal, State, or local agency that—
+&emsp;(1) The term "homeland security information" means any information possessed by a Federal, State, or local agency that—
 
 &emsp;&emsp;(A) relates to the threat of terrorist activity;
 
@@ -102,9 +102,9 @@ As used in this section:
 
 &emsp;&emsp;(D) would improve the response to a terrorist act.
 
-&emsp;(2) The term “intelligence community” has the meaning given such term in section 3003(4) of title 50.
+&emsp;(2) The term "intelligence community" has the meaning given such term in section 3003(4) of title 50.
 
-&emsp;(3) The term “State and local personnel” means any of the following persons involved in prevention, preparation, or response for terrorist attack:
+&emsp;(3) The term "State and local personnel" means any of the following persons involved in prevention, preparation, or response for terrorist attack:
 
 &emsp;&emsp;(A) State Governors, mayors, and other locally elected officials.
 
@@ -118,7 +118,7 @@ As used in this section:
 
 &emsp;&emsp;(F) Employees of private-sector entities that affect critical infrastructure, cyber, economic, or public health security, as designated by the Federal Government in procedures developed pursuant to this section.
 
-&emsp;(4) The term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.
+&emsp;(4) The term "State" includes the District of Columbia and any commonwealth, territory, or possession of the United States.
 
 #### (g) Construction
 
@@ -128,7 +128,7 @@ Nothing in this chapter shall be construed as authorizing any department, bureau
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d) and (g), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsecs. (d) and (g), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Amendments
 
@@ -142,9 +142,9 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Ex. Ord. No. 13311, July 29, 2003, 68 F.R. 45149, as amended by Ex. Ord. No. 13388, §8(a), Oct. 25, 2005, 70 F.R. 62025, provided:
 
-By the authority vested in me by the Constitution and the laws of the United States, including sections 892 and 893 of the Homeland Security Act of 2002 (the “Act”) (6 U.S.C. 482 and 483) and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me by the Constitution and the laws of the United States, including sections 892 and 893 of the Homeland Security Act of 2002 (the "Act") (6 U.S.C. 482 and 483) and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Assignment of Functions</i>. (a) The functions of the President under section 892 of the Act are assigned to the Secretary of Homeland Security (the “Secretary”), except the functions of the President under subsections 892(a)(2) and 892(b)(7).
+Section 1. <i>Assignment of Functions</i>. (a) The functions of the President under section 892 of the Act are assigned to the Secretary of Homeland Security (the "Secretary"), except the functions of the President under subsections 892(a)(2) and 892(b)(7).
 
 (b) Subject to section 2(b) of this order, the function of the President under section 893 of the Act is assigned to the Secretary.
 
@@ -152,9 +152,9 @@ Section 1. <i>Assignment of Functions</i>. (a) The functions of the President un
 
 (d) The function of the President under section 892(b)(7) of the Act is delegated to the Attorney General and the Director of National Intelligence, to be exercised jointly.
 
-(e) In performing the functions assigned to the Secretary by subsection (a) of this section, the Secretary shall coordinate with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretaryof Energy, the Director of the Office of Management and Budget, the Director of National Intelligence, the Archivist of the United States, and as the Secretary deems appropriate, other officers of the United States.
+(e) In performing the functions assigned to the Secretary by subsection (a) of this section, the Secretary shall coordinate with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Director of the Office of Management and Budget, the Director of National Intelligence, the Archivist of the United States, and as the Secretary deems appropriate, other officers of the United States.
 
-(f) A determination, under the procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act, as to whether, or to what extent, an individual who falls within the category of “State and local personnel” as defined in sections 892(f)(3) and (f)(4) of the Act shall have access to information classified pursuant to \[former\] Executive Order 12958 of April 17, 1995, as amended, is a discretionary determination and shall be conclusive and not subject to review or appeal.
+(f) A determination, under the procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act, as to whether, or to what extent, an individual who falls within the category of "State and local personnel" as defined in sections 892(f)(3) and (f)(4) of the Act shall have access to information classified pursuant to \[former\] Executive Order 12958 of April 17, 1995, as amended, is a discretionary determination and shall be conclusive and not subject to review or appeal.
 
 Sec. 2. <i>Rules of Construction</i>. Nothing in this order shall be construed to impair or otherwise affect:
 

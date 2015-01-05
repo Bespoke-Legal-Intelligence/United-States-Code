@@ -14,7 +14,7 @@ In case any person required under section 4251, 4261, or 4271 to collect any tax
 
 #### (d) Refund of taxable payment
 
-Any person making a refund of any payment on which tax imposed by section 4251, 4261, or 4271 has been collected may repay therewith the amount of tax collected on such payment.
+Any person making a refund of any payment on which tax imposed by section 4251, 4261, or4271 has been collected may repay therewith the amount of tax collected on such payment.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 798; Pub. L. 85–475, §4(b)(4), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(d)(1), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VI, §601(b), June 21, 1965, 79 Stat. 153; Pub. L. 91–258, title II, §205(b)(2), May 21, 1970, 84 Stat. 241; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

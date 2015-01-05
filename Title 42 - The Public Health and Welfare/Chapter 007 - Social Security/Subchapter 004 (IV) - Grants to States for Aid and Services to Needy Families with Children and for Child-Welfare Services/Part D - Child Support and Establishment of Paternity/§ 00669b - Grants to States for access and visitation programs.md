@@ -20,7 +20,7 @@ The amount of the grant to be made to a State under this section for a fiscal ye
 
 #### (2) Minimum allotment
 
-&emsp;The Administration for Children and Families shall adjust allotments to States under paragraph (1) as necessary to ensure that no State is allotted less than—
+&emsp;The Administration for Children and Families shall adjust allotments to States underparagraph (1) as necessary to ensure that no State is allotted less than—
 
 &emsp;&emsp;(A) $50,000 for fiscal year 1997 or 1998; or
 

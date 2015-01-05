@@ -8,7 +8,7 @@ Whenever any person who is required to collect, account for, and pay over any ta
 
 &emsp;(2) is notified, by notice delivered in hand to such person, of any such failure,
 
-> then all the requirements of subsection (b) shall be complied with. In the case of a corporation, partnership, or trust, notice delivered in hand to an officer, partner, or trustee, shall, for purposes of this section, be deemed to be notice delivered in hand to such corporation, partnership, or trust and to all officers, partners, trustees, and employees thereof.
+> then all the requirements of subsection (b) shall be complied with. In the case of a corporation,partnership, or trust, notice delivered in hand to an officer, partner, or trustee, shall, for purposes of this section, be deemed to be notice delivered in hand to such corporation, partnership, or trust and to all officers, partners, trustees, and employees thereof.
 
 #### (b) Requirements
 

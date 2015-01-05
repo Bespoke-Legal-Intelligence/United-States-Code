@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(6) the nations of the South Pacific have agreed to a moratorium on the use of large-scale driftnets in the South Pacific through the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific, which was agreed to in Wellington, New Zealand, on November 29, 1989; and
 
-&emsp;(7) increasing population pressures and new knowledge of the importance of living marine resources to the health of the global ecosystem demand that greater responsibility be exercised by persons fishing or developing new fisheries beyond the exclusive economic zone of any nation.
+&emsp;(7) increasing population pressures and new knowledge of the importance of living marineresources to the health of the global ecosystem demand that greater responsibility be exercised by persons fishing or developing new fisheries beyond the exclusive economic zone of any nation.
 
 #### (c) Policy
 
@@ -74,7 +74,7 @@ If at any time the Secretary, in consultation with the Secretary of State and th
 
 #### (g) Effect on sovereign rights
 
-This section shall not serve or be construed to expand or diminish the sovereign rights of the United States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983, and reflected in this chapter or other existing law.
+This section shall not serve or be construed to expand or diminish the sovereign rights of theUnited States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983, and reflected in this chapter or other existing law.
 
 #### (h) "Living marine resources" defined
 
@@ -110,5 +110,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives byHouse Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

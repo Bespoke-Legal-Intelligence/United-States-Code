@@ -46,7 +46,7 @@ An inspection, test, or other action taken by a Team under this section shall be
 
 #### (2) National Transportation Safety Board
 
-&emsp;If the National Transportation Safety Board is conducting an investigation related to aninvestigation of a Team, the National Transportation Safety Board investigation shall have priority over the Team investigation. Such priority shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
+&emsp;If the National Transportation Safety Board is conducting an investigation related to an investigation of a Team, the National Transportation Safety Board investigation shall have priority over the Team investigation. Such priority shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
 
 #### (3) Criminal acts
 

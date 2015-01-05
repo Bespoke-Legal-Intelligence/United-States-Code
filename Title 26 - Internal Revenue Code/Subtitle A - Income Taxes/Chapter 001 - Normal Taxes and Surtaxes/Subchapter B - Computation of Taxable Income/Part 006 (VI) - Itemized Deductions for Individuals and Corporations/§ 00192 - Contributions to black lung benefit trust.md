@@ -42,7 +42,7 @@ The maximum amount of the deduction allowed by subsection (a) for any taxpayer f
 
 #### (2) Benefit payments taken into account
 
-&emsp;In determining the amounts described in subsection (b), only those black lung benefit claims the payment of which is expected to be made from the trust shall be taken into account.
+&emsp;In determining the amounts described in subsection (b), only those black lung benefit claims the payment of which is expected to bemade from the trust shall be taken into account.
 
 #### (3) Time when contributions deemed made
 
@@ -84,7 +84,7 @@ Subsec. (c)(5). Pub. L. 95–488, §1(c), added par. (5).
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1940(d), Oct. 24, 1992, 106 Stat. 3035, provided that: "The amendments made bythis section \[amending this section and sections 501 and 4951 of this title\] shall apply to taxable years beginning after December 31, 1991."
+Pub. L. 102–486, title XIX, §1940(d), Oct. 24, 1992, 106 Stat. 3035, provided that: "The amendments made by this section \[amending this section and sections 501 and 4951 of this title\] shall apply to taxable years beginning after December 31, 1991."
 
 #### Effective Date of 1980 Amendment
 

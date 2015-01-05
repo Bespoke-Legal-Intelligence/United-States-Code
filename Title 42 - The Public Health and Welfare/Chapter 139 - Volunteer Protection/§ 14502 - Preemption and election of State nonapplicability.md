@@ -6,7 +6,7 @@ This chapter preempts the laws of any State to the extent that such laws are inc
 
 #### (b) Election of State regarding nonapplicability
 
-This chapter shall not apply to any civil action in a State court against a volunteer inwhich all parties are citizens of the State if such State enacts a statute in accordance with State requirements for enacting legislation—
+This chapter shall not apply to any civil action in a State court against a volunteer in which all parties are citizens of the State if such State enacts a statute in accordance with State requirements for enacting legislation—
 
 &emsp;(1) citing the authority of this subsection;
 

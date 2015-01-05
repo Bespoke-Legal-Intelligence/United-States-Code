@@ -40,7 +40,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (1) Net operating loss or capital loss carryback
 
-&emsp;If the amount of any tax imposed by subtitle A is reduced by reason of a carryback of a net operating loss or net capital loss, such reduction in tax shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the net operating loss or net capital loss arises.
+&emsp;If the amount of any tax imposed by subtitle A is reduced by reason of a carryback of a net operating loss or net capital loss, such reduction in tax shall not affect the computation ofinterest under this section for the period ending with the filing date for the taxable year in which the net operating loss or net capital loss arises.
 
 #### (2) Foreign tax credit carrybacks
 
@@ -50,7 +50,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (A) In general
 
-&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, suchincrease shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (B) Credit carryback defined
 
@@ -164,7 +164,7 @@ Subsec. (d)(2) to (4). Pub. L. 105–34, §1055(a), added par. (2) and redesigna
 
 Subsec. (j). Pub. L. 105–34, §503(c)(3), substituted "2-percent" for "4-percent" in heading.
 
-Subsec. (j)(1). Pub. L. 105–34, §503(a), reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: "If the time for payment of an amount of tax imposed by chapter 11 is extended as provided in section 6166, interest on the 4-percent portion of such amount shall (in lieu of the annual rate provided by subsection (a)) be paid at the rate of 4 percent. For purposes of this subsection, the amount of any deficiency which is prorated to installments payable under section 6166 shall be treated as an amount of tax payable in installments under such section."
+Subsec. (j)(1). Pub. L. 105–34, §503(a), reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: "If the time for payment of an amount of tax imposed by chapter 11 is extended as provided in section 6166, interest on the 4-percent portion of such amount shall (in lieu of the annual rate provided by subsection (a)) be paid at therate of 4 percent. For purposes of this subsection, the amount of any deficiency which is prorated to installments payable under section 6166 shall be treated as an amount of tax payable in installments under such section."
 
 Subsec. (j)(2). Pub. L. 105–34, §503(a), amended heading and text generally. Prior to amendment, text read as follows: "For purposes of this subsection, the term '4-percent portion' means the lesser of—
 
@@ -184,7 +184,7 @@ Subsec. (e)(3). Pub. L. 104–168, §303(a), substituted "specified period" for 
 
 <b>1990</b>—Subsec. (b)(2). Pub. L. 101–508 struck out "or 6158(a)" after "6156(a)" in introductory provisions, struck out "or 6158(a), as the case may be" after "6156(a)" in subpar. (A), and struck out at end "For purposes of subparagraph (A), section 6158(a) shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment."
 
-<b>1989</b>—Subsec. (e)(2). Pub. L. 101–239 substituted "section 6651(a)(1) or 6653 or under part II of subchapter Aof chapter 68" for "section 6651(a)(1), 6653, 6659, 6660, or 6661" in subpars. (A) and (B).
+<b>1989</b>—Subsec. (e)(2). Pub. L. 101–239 substituted "section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68" for "section 6651(a)(1), 6653, 6659, 6660, or 6661" in subpars. (A) and (B).
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §6234(b)(1), inserted "or any installment agreement entered into under section 6159" after "time for payment".
 
@@ -274,7 +274,7 @@ Subsecs. (g) to (j). Pub. L. 85–866, §§83(a)(1), 84(a), added subsecs. (g) a
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Taxpayer Relief Act of 1997,Pub. L. 105–34, to which such amendment relates, see section 409(d) of Pub. L. 109–135, set out as a note under section 961 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 409(d) of Pub. L. 109–135, set out as a note under section 961 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -340,7 +340,7 @@ Effective date.—The amendment made by subsection (a) \[amending this section\]
 
 "(2)
 
-Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period."
+Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year afterthe date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period."
 
 #### Effective Date of 1984 Amendment
 

@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
+&emsp;Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter with respect to thefarm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
 
 &emsp;&emsp;(A) to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.);
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) to comply with the planting flexibility requirements of section 7956 of this title;
 
-&emsp;&emsp;(D) to use the land on the farm, in a quantity equal to the attributable base acres for peanuts and any base acres for the farm under subchapter I of this chapter, for an agricultural or conserving use, and not for a nonagricultural commercial or industrial use, as determined by the Secretary; and
+&emsp;&emsp;(D) to use the land on the farm, in a quantity equal to the attributable base acres for peanuts and any base acres for the farm under subchapter I, for an agricultural or conserving use, and not for a nonagricultural commercial or industrial use, as determined by the Secretary; and
 
 &emsp;&emsp;(E) to effectively control noxious weeds and otherwise maintain the land in accordance with sound agricultural practices, as determined by the Secretary, if the agricultural or conserving use involves the noncultivation of any portion of the land referred to in subparagraph (D).
 
@@ -28,7 +28,7 @@
 
 #### (1) Termination
 
-&emsp;Except as provided in paragraph (2), a transfer of (or change in) the interest of the producers on a farm in the base acres for peanuts for which direct payments or counter-cyclical payments are made shall result in the termination of the payments with respect to those acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a) of this section. The termination shall take effect on the date determined by the Secretary.
+&emsp;Except as provided in paragraph (2), a transfer of (or change in) the interest of the producers on a farm in the base acres for peanuts for which direct payments or counter-cyclical payments are made shall result in the termination of the payments with respect to those acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a). The termination shall take effect on the date determined by the Secretary.
 
 #### (2) Exception
 

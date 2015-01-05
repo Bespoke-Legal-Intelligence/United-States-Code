@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of the Navy may acquire or transfer for operation by private salvage companies such vessels and equipment as the Secretary considers necessary.
+Authority.—The Secretary of the Navy may acquire or transfer for operation by privatesalvage companies such vessels and equipment as the Secretary considers necessary.
 
 (b)
 

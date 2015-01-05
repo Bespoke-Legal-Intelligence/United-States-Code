@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 48\] clarifies the meaning of section 3057 of title 18, U.S.C., by expressly limiting tolaws "of the United States", violations of laws which are to be reported to the United States attorney.
+This section \[section 48\] clarifies the meaning of section 3057 of title 18, U.S.C., by expressly limiting to laws "of the United States", violations of laws which are to be reported to the United States attorney.
 
 #### Amendments
 

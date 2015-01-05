@@ -108,7 +108,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(5)(A), is
 
 #### Prior Provisions
 
-A prior section 12653h, Pub. L. 101–610, title I, §195H, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct.23, 1992, 106 Stat. 2528, which related to administration of the Corps, was renumbered section 159 of Pub. L. 101–610 and transferred to section 12619 of this title.
+A prior section 12653h, Pub. L. 101–610, title I, §195H, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2528, which related to administration of the Corps, was renumbered section 159 of Pub. L. 101–610 and transferred to section 12619 of this title.
 
 Prior sections 12653i and 12653j were renumbered by section 104(b) of Pub. L. 103–82 and transferred as follows:
 

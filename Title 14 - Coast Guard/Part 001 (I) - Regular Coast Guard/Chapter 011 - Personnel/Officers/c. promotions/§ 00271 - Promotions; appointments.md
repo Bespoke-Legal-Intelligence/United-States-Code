@@ -2,7 +2,7 @@
 
 (a) When the report of a board convened to recommend officers for promotion has been approved by the President, the Secretary shall place the names of all officers selected and approved on a list of selectees in the order of their seniority on the active duty promotion list. The names of all officers approved by the President and recommended by the board to be placed at the top of the list of selectees shall be placed at the top of the list of selectees in the order of seniority on the active duty promotion list.
 
-(b) Officers on the list of selectees may be promoted by appointment in the next higher grade to fill vacancies in the authorized active duty strength of the grade as determined under section 42 of this title after officers on any previous list of selectees for that grade have been promoted. Officers shall be promoted in the order that their names appear on the list of selectees. The date of rank of an officer promoted under this subsection shall be the date of his appointment in that grade.
+(b) Officers on the list of selectees may be promoted by appointment in the next higher grade to fill vacancies in the authorized active duty strength of the grade as determined under section 42 of this title after officers on any previous list of selectees for that grade have been promoted. Officers shall be promoted in the order that their names appear on the list of selectees.The date of rank of an officer promoted under this subsection shall be the date of his appointment in that grade.
 
 (c) An officer serving on active duty in the grade of ensign may, if found fully qualified for promotion in accordance with regulations prescribed by the Secretary, be promoted to the grade of lieutenant (junior grade) by appointment after he has completed twelve months' active service in grade. The date of rank of an officer promoted under this subsection shall be the date of his appointment in the grade of lieutenant (junior grade) as specified by the Secretary.
 
@@ -66,7 +66,7 @@ Pub. L. 97–417, §4, Jan. 4, 1983, 96 Stat. 2087, provided that:
 
 > shall, on and after the effective date of this Act, or in the case of an officer on such a list, upon promotion to the grade of commodore, be entitled to wear the uniform and insignia of a rear admiral.
 
-"(e) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\] held the grade of rear admiral on the retired list retains the grade of rear admiral and is entitled after that date towear the uniform and insignia of a rear admiral. Such an officer, when ordered to active duty—
+"(e) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\] held the grade of rear admiral on the retired list retains the grade of rear admiral and is entitled after that date to wear the uniform and insignia of a rear admiral. Such an officer, when ordered to active duty—
 
 &emsp;"(1) holds the grade and has the right to wear the uniform and insignia of a rear admiral; and
 

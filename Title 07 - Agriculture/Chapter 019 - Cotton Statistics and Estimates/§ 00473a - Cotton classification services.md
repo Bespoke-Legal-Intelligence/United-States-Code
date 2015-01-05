@@ -12,7 +12,7 @@ The Secretary of Agriculture (referred to in this section as the "Secretary") sh
 
 #### (1) Use of fees
 
-&emsp;Classification fees collected under subsection (a)(2) and the proceeds from the sales of samples submitted under this section shall, to the maximum extent practicable, be used to pay the cost of the services provided under this section, including administrative and supervisory costs.
+&emsp;Classification fees collected under subsection (a)(2) and the proceeds from the sales of samples submitted under this section shall, to the maximum extent practicable, be used to pay the cost of the services provided underthis section, including administrative and supervisory costs.
 
 #### (2) Announcement of fees
 

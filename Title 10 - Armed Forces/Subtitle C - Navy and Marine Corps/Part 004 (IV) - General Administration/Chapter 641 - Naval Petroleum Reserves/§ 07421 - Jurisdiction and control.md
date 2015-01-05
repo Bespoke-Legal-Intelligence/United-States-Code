@@ -2,7 +2,7 @@
 
 (a) The Secretary shall take possession of all properties inside the naval petroleum reserves that are or may become subject to the control of and use by the United States for national defense purposes, except as otherwise provided in this chapter.
 
-(b) The Secretary has exclusive jurisdiction and control over those lands inside Naval Petroleum Reserves Numbered 1 and 2 that are covered by leases granted under sections 181–184, 185–188, 189–194, 201, 202–209, 211–214, 223, 224–226,226d, 226e, 227–229a, 241, 251, and 261–263 of title 30, and shall administer those leases.
+(b) The Secretary has exclusive jurisdiction and control over those lands inside Naval Petroleum Reserves Numbered 1 and 2 that are covered by leases granted under sections 181–184, 185–188, 189–194, 201, 202–209, 211–214, 223, 224–226, 226d, 226e, 227–229a, 241, 251, and 261–263 of title 30, and shall administer those leases.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 457; Pub. L. 87–796, §1(1), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(2), Apr. 5, 1976, 90 Stat. 307; Pub. L. 98–525, title XIV, §1405(50), Oct. 19, 1984, 98 Stat. 2625.)
 

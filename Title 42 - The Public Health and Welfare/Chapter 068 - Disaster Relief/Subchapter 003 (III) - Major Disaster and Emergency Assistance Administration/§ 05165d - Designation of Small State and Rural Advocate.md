@@ -6,7 +6,7 @@ The President shall designate in the Federal Emergency Management Agency a Small
 
 #### (b) Responsibilities
 
-The Small State and Rural Advocate shall be an advocate for the fair treatment of small States and rural communities in the provision of assistance under this chapter.
+The Small State and Rural Advocate shall be an advocate for the fair treatment of smallStates and rural communities in the provision of assistance under this chapter.
 
 #### (c) Duties
 

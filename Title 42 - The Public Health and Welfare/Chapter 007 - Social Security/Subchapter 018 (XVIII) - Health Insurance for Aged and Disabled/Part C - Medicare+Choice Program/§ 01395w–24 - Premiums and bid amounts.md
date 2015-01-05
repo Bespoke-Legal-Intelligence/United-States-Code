@@ -110,7 +110,7 @@
 
 &emsp;&emsp;For an MA plan (other than an MSA plan) for a plan year beginning on or after January 1, 2006, the information described in this subparagraph is as follows:
 
-&emsp;&emsp;&emsp;(i) The monthly aggregate bid amount for the provision of all items and services under the plan, which amount shall be based on average revenue requirements (as used for purposes of section 300e–1(8) of this title) in the payment area for an enrollee with a national average risk profile for the factors described in section 1395w–23(a)(1)(C) of this title (as specified by the Secretary).
+&emsp;&emsp;&emsp;(i) The monthly aggregate bid amount for the provision of all items and services under the plan, which amount shall be based on average revenue requirements (as used for purposes of section 300e–1(8) ofthis title) in the payment area for an enrollee with a national average risk profile for the factors described in section 1395w–23(a)(1)(C) of this title (as specified by the Secretary).
 
 &emsp;&emsp;&emsp;(ii) The proportions of such bid amount that are attributable to—
 
@@ -170,7 +170,7 @@
 
 #### (I) Provision of supplemental health care benefits and payment for premium for supplemental benefits
 
-&emsp;&emsp;&emsp;&emsp;The provision of supplemental health care benefits described in section 1395w–22(a)(3) of this title in a manner specified under the plan, which may include the reduction of cost-sharing otherwise applicable as well as additional health care benefits which are not benefits under the original medicare fee-for-service program option, or crediting toward an MA monthly supplemental beneficiary premium (if any).
+&emsp;&emsp;&emsp;&emsp;The provision of supplemental health care benefits described in section 1395w–22(a)(3) of this title in a manner specified under the plan, which may include the reduction of cost-sharingotherwise applicable as well as additional health care benefits which are not benefits under the original medicare fee-for-service program option, or crediting toward an MA monthly supplemental beneficiary premium (if any).
 
 #### (II) Payment for premium for prescription drug coverage
 
@@ -252,7 +252,7 @@
 
 #### (D) Medicare+Choice monthly MSA premium
 
-&emsp;&emsp;The term "Medicare+Choice monthly MSA premium" means, with respect to aMedicare+Choice plan, the amount of such premium filed under subsection (a)(3)(A) of this section for the plan.
+&emsp;&emsp;The term "Medicare+Choice monthly MSA premium" means, with respect to a Medicare+Choice plan, the amount of such premium filed under subsection (a)(3)(A) of this section for the plan.
 
 #### (E) Unadjusted MA statutory non-drug monthly bid amount
 
@@ -386,7 +386,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (4) Special rule for private fee-for-service plans and for basic benefits beginning in 2006
 
-&emsp;With respect to a Medicare+Choice private fee-for-service plan (other than a plan that isan MSA plan) and for periods beginning with 2006, with respect to an MA plan described in section 1395w–21(a)(2)(A) of this title, in no event may—
+&emsp;With respect to a Medicare+Choice private fee-for-service plan (other than a plan that is an MSA plan) and for periods beginning with 2006, with respect to an MA plan described in section 1395w–21(a)(2)(A) of this title, in no event may—
 
 &emsp;&emsp;(A) the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with such a plan of an organization with respect to benefits under the original medicare fee-for-service program option, exceed
 
@@ -502,7 +502,7 @@ Subsec. (b)(1)(C)(ii). Pub. L. 111–148, §3202(b)(1)(A), substituted "rebate f
 
 Subsec. (b)(1)(C)(iii). Pub. L. 111–152, §1102(d)(2), added cl. (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "For plan years beginning on or after January 1, 2012, a rebate required under this subparagraph may not be used for the purpose described in clause (ii)(III) and shall be provided through the application of the amount of the rebate in the following priority order:
 
-&emsp;"(I) First, to use the most significant share to meaningfully reduce cost-sharing otherwise applicable for benefits under the original medicare fee-for-service program under parts A and B and for qualified prescription drug coverage under part D, including the reduction of any deductibles, copayments, and maximum limitations on out-of-pocket expenses otherwise applicable. Any reduction of maximum limitations on out-of-pocket expenses under the preceding sentence shall apply to all benefits under the original medicare fee-for-service program option. TheSecretary may provide guidance on meaningfully reducing cost-sharing under this subclause, except that such guidance may not require a particular amount of cost-sharing or reduction in cost-sharing.
+&emsp;"(I) First, to use the most significant share to meaningfully reduce cost-sharing otherwise applicable for benefits under the original medicare fee-for-service program under parts A and B and for qualified prescription drug coverage under part D, including the reduction of any deductibles, copayments, and maximum limitations on out-of-pocket expenses otherwise applicable. Any reduction of maximum limitations on out-of-pocket expenses under the preceding sentence shall apply to all benefits under the original medicare fee-for-service program option. The Secretary may provide guidance on meaningfully reducing cost-sharing under this subclause, except that such guidance may not require a particular amount of cost-sharing or reduction in cost-sharing.
 
 &emsp;"(II) Second, to use the next most significant share to meaningfully provide coverage of preventive and wellness health care benefits (as defined by the Secretary) which are not benefits under the original medicare fee-for-service program, such as smoking cessation, a free flu shot, and an annual physical examination.
 

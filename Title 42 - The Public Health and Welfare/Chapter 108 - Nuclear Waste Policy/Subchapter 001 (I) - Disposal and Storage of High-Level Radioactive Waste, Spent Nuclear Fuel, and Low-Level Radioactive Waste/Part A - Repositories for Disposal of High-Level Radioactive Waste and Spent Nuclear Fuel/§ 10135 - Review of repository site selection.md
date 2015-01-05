@@ -2,7 +2,7 @@
 
 #### (a) "Resolution of repository siting approval" defined
 
-For purposes of this section, the term "resolution of repository siting approval" means a joint resolution of the Congress, the matter after the resolving clause of which is as follows: "That there hereby is approved the site at .......... for a repository, with respect to which a notice of disapproval was submitted by .......... on ...........". The first blank space in such resolution shall be filled with the name of the geographic location of the proposed site of the repository to which such resolution pertains; the second blank space in such resolution shall be filled with the designation of the State Governor and legislature or Indian tribe governing body submitting the notice of disapproval to which such resolution pertains; and the last blank space in such resolution shall be filled with the date of such submission.
+For purposes of this section, the term "resolution of repository siting approval" means a joint resolution of the Congress, the matter after the resolving clause of which is as follows: "That there hereby is approved the site at .......... for a repository, with respect to which a notice of disapproval was submitted by .......... on ...........". The first blank space in such resolution shall be filled with the name of the geographic location of the proposed site of the repository to which such resolution pertains; the second blank space in such resolution shall be filled with the designation of the State Governor and legislature or Indian tribe governing body submitting the notice of disapproval to which such resolutionpertains; and the last blank space in such resolution shall be filled with the date of such submission.
 
 #### (b) State or Indian tribe petitions
 
@@ -30,7 +30,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (B) Debate on a resolution of siting approval, and on all debatable motions and appeals in connection with such resolution, shall be limited to not more than 10 hours, which shall be divided equally between Members favoring and Members opposing such resolution. A motion further to limit debate shall be in order and shall not be debatable. Such motion shall not be subject to amendment, to a motion to postpone, or to a motion to proceed to the consideration of other business, and a motion to recommit such resolution shall not be in order. A motion to reconsider the vote by which such resolution is agreed to or disagreed to shall not be in order.
 
-(C) Immediately following the conclusion of the debate on a resolution of siting approval, and a single quorum call at the conclusion of such debate if requested in accordance with therules of the Senate, the vote on final approval of such resolution shall occur.
+(C) Immediately following the conclusion of the debate on a resolution of siting approval, and a single quorum call at the conclusion of such debate if requested in accordance with the rules of the Senate, the vote on final approval of such resolution shall occur.
 
 (D) Appeals from the decisions of the Chair relating to the application of the rules of the Senate to the procedure relating to a resolution of siting approval shall be decided without debate.
 

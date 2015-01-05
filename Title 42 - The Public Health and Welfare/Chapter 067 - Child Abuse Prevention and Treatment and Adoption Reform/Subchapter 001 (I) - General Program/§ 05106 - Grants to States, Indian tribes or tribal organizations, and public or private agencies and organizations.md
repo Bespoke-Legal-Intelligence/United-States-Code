@@ -8,7 +8,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;The Secretary may award grants to public or private organizations under this subsection—
 
-&emsp;&emsp;(A) for the training of professional and paraprofessional personnel in the fields of health care, medicine, law enforcement, judiciary, social work and child protection, education, child care, and other relevantfields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem, who are engaged in, or intend to work in, the field of prevention, identification, and treatment of child abuse and neglect, including the links between domestic violence and child abuse and neglect;
+&emsp;&emsp;(A) for the training of professional and paraprofessional personnel in the fields of health care, medicine, law enforcement, judiciary, social work and child protection, education, child care, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem, who are engaged in, or intend to work in, the field of prevention, identification, and treatment of child abuse and neglect, including the links between domestic violence and child abuse and neglect;
 
 &emsp;&emsp;(B) to improve the recruitment, selection, and training of volunteers serving in public and private children, youth, and family service organizations in order to prevent child abuse and neglect;
 
@@ -58,11 +58,11 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (5) Linkages among child protective service agencies and public health, mental health, substance abuse, developmental disabilities, and domestic violence service agencies
 
-&emsp;The Secretary may award grants to entities that provide linkages among State or local child protective service agencies and public health, mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for the purpose of establishing linkages that are designed to ensure that a greater number of substantiated victims of child maltreatment have theirphysical health, mental health, and developmental needs appropriately diagnosed and treated, in accordance with all applicable Federal and State privacy laws.
+&emsp;The Secretary may award grants to entities that provide linkages among State or local child protective service agencies and public health, mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for the purpose of establishing linkages that are designed to ensure that a greater number of substantiated victims of child maltreatment have their physical health, mental health, and developmental needs appropriately diagnosed and treated, in accordance with all applicable Federal and State privacy laws.
 
 #### (6) Collaborations between child protective service entities and domestic violence service entities
 
-&emsp;The Secretary may award grants to public or private agencies and organizations under this section to develop or expand effective collaborations between child protective service entities and domestic violence service entities to improve collaborative investigation and intervention procedures, provision for the safety of the nonabusing parent involved and children, and provision of services to children exposed to domestic violence that also support the caregiving role of the non-abusing parent.
+&emsp;The Secretary may award grants to public or private agencies and organizations under this section to develop or expand effective collaborations between child protective service entities and domestic violence service entities to improve collaborative investigation and intervention procedures, provision for the safety of the nonabusing parent involved and children,and provision of services to children exposed to domestic violence that also support the caregiving role of the non-abusing parent.
 
 #### (b) Discretionary grants
 
@@ -132,7 +132,7 @@ In addition to grants or contracts made under subsection (a) of this section, gr
 
 In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
-(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct.9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465.)
+(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465.)
 
 #### Prior Provisions
 

@@ -62,11 +62,11 @@ Milk.—
 
 &emsp;&emsp;"(A)
 
-In general.—Notwithstanding subsection (a), the Secretary of Agriculture shall carry out the dairy product price support program under section 1501 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8771) through December 31, 2013.
+In general.—Notwithstanding subsection (a), the Secretary of Agriculture shall carry out the dairy product price support program under \[former\] section 1501 of the Food, Conservation, and Energy Act of 2008 (\[former\] 7 U.S.C. 8771) through December 31, 2013.
 
 &emsp;&emsp;"(B)
 
-Milk income loss contract program.—\[Amended section 8773 of this title.\]
+Milk income loss contract program.—\[Amended former section 8773 of this title.\]
 
 &emsp;"(3)
 
@@ -162,7 +162,7 @@ Biomass crop assistance program.—\[Amended section 8111 of this title.\]
 
 &emsp;"(11)
 
-Forest biomass for energy.—\[Amended section 8112 of this title.\]
+Forest biomass for energy.—\[Amended former section 8112 of this title.\]
 
 &emsp;"(12)
 
@@ -178,7 +178,7 @@ Farmers market promotion program.—\[Amended section 3005 of this title.\]
 
 &emsp;"(2)
 
-National clean plant network.—\[Amended section 7761 of this title.\]
+National clean plant network.—\[Amended former section 7761 of this title.\]
 
 &emsp;"(3)
 
@@ -202,7 +202,7 @@ In general.—Subsection (a) does not apply with respect to mandatory funding pr
 
 &emsp;"(2)
 
-Conservation.—Subsection (a) does not apply with respect to the programs specified in paragraphs (3)(B), (4), (6), and (7) of section 1241(a) of the Food Security Act of 1985 (16 U.S.C. 3841(a)), relating to the conservation stewardship program, farmland protection program, environmental quality incentives program, and wildlife habitat incentives program, for which program authority was extended through fiscal year 2014 by section 716 of Public Law 112–55 (125 Stat. 582).
+Conservation.—Subsection (a) does not apply with respect to the programs specified in paragraphs\(3)(B), (4), (6), and (7) of section 1241(a) of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3841(a)), relating to the conservation stewardship program, farmland protection program, environmental quality incentives program, and wildlife habitat incentives program, for which program authority was extended through fiscal year 2014 by section 716 of Public Law 112–55 (125 Stat. 582).
 
 &emsp;"(3)
 

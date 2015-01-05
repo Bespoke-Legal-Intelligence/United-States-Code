@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d) of this section, an alien who is a qualified alien (as defined in section 1641 of this title) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien's entry into the United States with a status within the meaning of the term “qualified alien”.
+Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d) of this section, an alien who is a qualified alien (as defined in section 1641 of this title) and who enters the United States on or after August 22, 1996, is not eligible for any Federalmeans-tested public benefit for a period of 5 years beginning on the date of the alien's entry into the United States with a status within the meaning of the term "qualified alien".
 
 #### (b) Exceptions
 
@@ -68,7 +68,11 @@ Notwithstanding any other provision of law, the limitations under section 1611(a
 
 &emsp;(2) an individual, spouse, or dependent described in section 1612(a)(2)(K) of this title, but only with respect to the specified Federal program described in section 1612(a)(3)(B) of this title.
 
-(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333.)
+(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct.21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, §512(x), July 22, 2014, 128 Stat. 1716.)
+
+#### Amendment of Subsection (c)(2)(K)
+
+<i>Pub. L. 113–128, title V, §§506, 512(x), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(2)(K) of this section is amended by striking "Benefits under the title I of the Workforce Investment Act of 1998" and inserting "Benefits under title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -98,31 +102,37 @@ The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renam
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(2)(K). Pub. L. 113–128 substituted "Benefits under title I of the Workforce Innovation and Opportunity Act" for "Benefits under the title I of the Workforce Investment Act of 1998".
+
 <b>2002</b>—Subsec. (c)(2)(L). Pub. L. 107–171 added subpar. (L).
 
-<b>1999</b>—Subsec. (c)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (c)(2)(C). Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act".
 
-<b>1998</b>—Subsec. (c)(2)(K). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(3)(A)\], struck out “Job Training Partnership Act or” before “title I of”.
+<b>1998</b>—Subsec. (c)(2)(K). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(3)(A)\], struck out "Job Training Partnership Act or" before "title I of".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(3)(A)\], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(3)(A)\], substituted "Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "Job Training Partnership Act".
 
-Subsec. (d). Pub. L. 105–185 substituted “Benefits for certain groups” for “SSI and medicaid benefits for certain Indians” in heading, designated provisions beginning “an individual” as par. (1), substituted “to—” for “to”, “(a)(3)” for “(a)(3)(A)”, and “; or” for period at end, and added par. (2).
+Subsec. (d). Pub. L. 105–185 substituted "Benefits for certain groups" for "SSI and medicaid benefits for certain Indians" in heading, designated provisions beginning "an individual" as par. (1), substituted "to—" for "to", "(a)(3)" for "(a)(3)(A)", and "; or" for period at end, and added par. (2).
 
-<b>1997</b>—Subsec. (b)(1)(C). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+<b>1997</b>—Subsec. (b)(1)(C). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
 
 Subsec. (b)(1)(D). Pub. L. 105–33, §5302(c)(1)(A), added subpar. (D).
 
 Subsec. (b)(1)(E). Pub. L. 105–33, §5306(c), added subpar. (E).
 
-Subsec. (b)(2)(A). Pub. L. 105–33, §5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+Subsec. (b)(2)(A). Pub. L. 105–33, §5563(c), inserted ", 1101, or 1301, or as described in section 107" after "section 101".
 
-Pub. L. 105–33, §5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+Pub. L. 105–33, §5563(a), inserted "and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38" after "alienage".
 
-Subsec. (b)(2)(C). Pub. L. 105–33, §5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+Subsec. (b)(2)(C). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
 
 Subsec. (d). Pub. L. 105–33, §5303(c), added subsec. (d).
 
-Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
+Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: "The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980."
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2002 Amendment
 
@@ -136,13 +146,13 @@ Amendment by Pub. L. 105–185 effective Nov. 1, 1998, see section 510(b) of Pub
 
 #### Effective Date of 1997 Amendment
 
-Amendment by sections 5302(c)(1), 5303(c), and 5306(c) of Pub. L. 105–33 effective, except as otherwise provided,as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
+Amendment by sections 5302(c)(1), 5303(c), and 5306(c) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph (A) or (B)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subparagraph (A) or (B)".</i>
 
-<i><sup>3</sup></i><i> So in original. The word “the” probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

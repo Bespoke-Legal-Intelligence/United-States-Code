@@ -44,7 +44,7 @@ The primary missions of the National Counterterrorism Center shall be as follows
 
 (1) The Center may, consistent with applicable law, the direction of the President, and the guidelines referred to in section 3024(b) of this title, receive intelligence pertaining exclusively to domestic counterterrorism from any Federal, State, or local government or other source necessary to fulfill its responsibilities and retain and disseminate such intelligence.
 
-(2) Any agency authorized to conduct counterterrorism activities may request information from the Center to assist it in its responsibilities, consistent with applicable law and the guidelines referred to in section 3024(b) of this title.
+(2) Any agency authorized to conduct counterterrorism activities may request information from the Center to assist it in its responsibilities, consistent with applicable law and theguidelines referred to in section 3024(b) of this title.
 
 #### (f) Duties and responsibilities of Director
 
@@ -106,7 +106,7 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 
 #### Strategy for Counterterrorist Travel Intelligence
 
-Pub. L. 108–458, title VII, §7201(b), Dec. 17, 2004, 118 Stat. 3809, directed the Director of the National Counterterrorism Center, not later than 1 year after Dec. 17, 2004, to submit to Congress unclassified and classified versions of a strategy, to be developed in coordination with all relevant Federal agencies, for combining terrorist travel intelligence, operations, and law enforcement into a cohesive effort to intercept terrorists, find terrorist travel facilitators, and constrain terrorist mobility domestically and internationally.
+Pub. L. 108–458, title VII, §7201(b), Dec. 17, 2004, 118 Stat. 3809, directed the Director of the National Counterterrorism Center, not later than 1 year after Dec. 17, 2004, to submit to Congress unclassified and classified versions of a strategy, to be developed in coordination with all relevant Federal agencies, for combining terrorist travel intelligence, operations, and lawenforcement into a cohesive effort to intercept terrorists, find terrorist travel facilitators, and constrain terrorist mobility domestically and internationally.
 
 #### Executive Order No. 13354
 

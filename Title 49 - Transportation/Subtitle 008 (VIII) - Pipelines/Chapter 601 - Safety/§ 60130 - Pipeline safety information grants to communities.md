@@ -30,33 +30,17 @@ Prohibited Uses.—Funds provided under this section to grant recipients and the
 
 (c)
 
-Annual Report.—
-
-&emsp;(1)
-
-In general.—Not later than 90 days after the last day of each fiscal year for which grants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
-
-&emsp;(2)
-
-Contents.—The report shall include—
-
-&emsp;&emsp;(A) a listing of the identity and location of each recipient of a grant under this section in the preceding fiscal year and the amount received by the recipient;
-
-&emsp;&emsp;(B) a description of the purpose for which each grant was made; and
-
-&emsp;&emsp;(C) a description of how each grant was used by the recipient.
-
-(d)
-
 Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
 
-(Added Pub. L. 107–355, §9(a), Dec. 17, 2002, 116 Stat. 2994; amended Pub. L. 109–468, §5, Dec. 29, 2006, 120 Stat. 3490; Pub. L. 112–90, §32(e), Jan. 3, 2012, 125 Stat. 1923.)
+(Added Pub. L. 107–355, §9(a), Dec. 17, 2002, 116 Stat. 2994; amended Pub. L. 109–468, §5, Dec. 29, 2006, 120 Stat. 3490; Pub. L. 112–90, §32(e), Jan. 3, 2012, 125 Stat. 1923; Pub. L. 113–188, title XV, §1501(c), Nov. 26, 2014, 128 Stat. 2024.)
 
 #### References in Text
 
 Public Law 93–153, referred to in subsec. (a)(1), is Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 576, as amended. Title II of the Act, known as the Trans-Alaska Pipeline Authorization Act, is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsecs. (c), (d). Pub. L. 113–188 redesignated subsec. (d) as (c) and struck out former subsec. (c) which required annual reports on grants made under this section.
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §32(e)(1), substituted "$100,000" for "$50,000".
 

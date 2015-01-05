@@ -6,11 +6,11 @@ The Congress finds—
 
 &emsp;(2) the process of transferring or diverting chronically mentally ill individuals from unwarranted or inappropriate institutionalized settings to their home communities has frequently not been accompanied by a process of providing those individuals with the mental health and support services they need in community-based settings;
 
-&emsp;(3) the shift in emphasis from institutional care to community-based care has not always been accompanied by a process of affording training, retraining, and job placement for employees affected by institutional closure and conversion;
+&emsp;(3) the shift in emphasis from institutional care to community-based care has not alwaysbeen accompanied by a process of affording training, retraining, and job placement for employees affected by institutional closure and conversion;
 
 &emsp;(4) the delivery of mental health and support services is typically uncoordinated within and among local, State, and Federal entities;
 
-&emsp;(5) mentally ill persons are often inadequately served by (A) programs of the Department of Health and Human Services such as medicare, medicaid, supplemental security income, and social services, and (B) programsof the Department of Housing and Urban Development, the Department of Labor, and other Federal agencies;
+&emsp;(5) mentally ill persons are often inadequately served by (A) programs of the Department of Health and Human Services such as medicare, medicaid, supplemental security income, and social services, and (B) programs of the Department of Housing and Urban Development, the Department of Labor, and other Federal agencies;
 
 &emsp;(6) health care systems often lack general health care personnel with adequate mental health care training and often lack mental health care personnel and consequently many individuals with some level of mental disorder do not receive appropriate mental health care;
 

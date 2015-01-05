@@ -12,7 +12,7 @@
 
 &emsp;(2) subject to those regulations applicable to the Academy governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation, except as may otherwise be prescribed by the Secretary.
 
-(Added Pub. L. 91–278, §1(6), June 12, 1970, 84 Stat. 304; amended Pub. L. 94–468, Oct. 11, 1976, 90 Stat. 2002; Pub. L. 112–213, title II, §204, Dec. 20, 2012, 126 Stat. 1543.)
+(Added Pub. L. 91–278, §1(6), June 12, 1970, 84 Stat. 304; amended Pub. L. 94–468, Oct. 11, 1976, 90Stat. 2002; Pub. L. 112–213, title II, §204, Dec. 20, 2012, 126 Stat. 1543.)
 
 #### Amendments
 

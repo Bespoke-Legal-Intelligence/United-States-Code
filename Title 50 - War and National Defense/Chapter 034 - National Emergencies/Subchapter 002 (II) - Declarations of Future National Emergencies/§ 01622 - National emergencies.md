@@ -38,7 +38,7 @@ Not later than six months after a national emergency is declared, and not later 
 
 #### (d) Automatic termination of national emergency; continuation notice from President to Congress; publication in Federal Register
 
-Any national emergency declared by the President in accordance with this subchapter, and not otherwise previously terminated, shall terminate on the anniversary of the declaration of that emergency if, within the ninety-day period prior to each anniversary date, the President does not publish in the Federal Registerand transmit to the Congress a notice stating that such emergency is to continue in effect after such anniversary.
+Any national emergency declared by the President in accordance with this subchapter, and not otherwise previously terminated, shall terminate on the anniversary of the declaration of that emergency if, within the ninety-day period prior to each anniversary date, the President does not publish in the Federal Register and transmit to the Congress a notice stating that such emergency is to continue in effect after such anniversary.
 
 (Pub. L. 94–412, title II, §202, Sept. 14, 1976, 90 Stat. 1255; Pub. L. 99–93, title VIII, §801, Aug. 16, 1985, 99 Stat. 448.)
 

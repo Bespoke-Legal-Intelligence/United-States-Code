@@ -16,7 +16,7 @@
 
 #### (b) Rewards authorized
 
-In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
+In the sole discretion of the Secretary (except as provided in subsection (c)(2)) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
 
 &emsp;(1) the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
 
@@ -112,7 +112,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 #### (f) Ineligibility
 
-An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) of this section shall not be eligible for a reward under this section.
+An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) shall not be eligible for a reward under this section.
 
 #### (g) Reports
 
@@ -130,7 +130,7 @@ An officer or employee of any entity of Federal, State, or local government or o
 
 #### (h) Publication regarding rewards offered by foreign governments
 
-Notwithstanding any other provision of this section, in the sole discretion of the Secretary,the resources of the rewards program shall be available for the publication of rewards offered by foreign governments regarding acts of international terrorism which do not involve United States persons or property or a violation of the narcotics laws of the United States.
+Notwithstanding any other provision of this section, in the sole discretion of the Secretary, the resources of the rewards program shall be available for the publication of rewards offered by foreign governments regarding acts of international terrorism which do not involve United States persons or property or a violation of the narcotics laws of the United States.
 
 #### (i) Media surveys and advertisements
 
@@ -156,7 +156,7 @@ As used in this section:
 
 &emsp;&emsp;(A) any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of section 6305 of this title) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
 
-&emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50, Appendix.
+&emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or countrysupporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50, Appendix.
 
 #### (2) Appropriate congressional committees
 
@@ -174,7 +174,7 @@ As used in this section:
 
 #### (4) Rewards program
 
-&emsp;The term "rewards program" means the program established in subsection (a)(1) of this section.
+&emsp;The term "rewards program" means the program established in subsection (a)(1).
 
 #### (5) Transnational organized crime
 
@@ -296,7 +296,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L.103–236, set out as an Effective Date note under section 6301 of this title.
+Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Rule of Construction
 

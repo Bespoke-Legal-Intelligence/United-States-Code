@@ -10,7 +10,7 @@ Each plan submitted under subsection (a) of this section shall—
 
 &emsp;(1) describe the process that the agency will use in making subgrants to eligible entities under section 6824(d)(1) of this title;
 
-&emsp;(2) describe how the agency will establish standards and objectives for raising the level of English proficiency that are derived from the four recognized domains of speaking, listening, reading, and writing, and that are aligned with achievement of the challenging State academic content and student academicachievement standards described in section 6311(b)(1) of this title;
+&emsp;(2) describe how the agency will establish standards and objectives for raising the level of English proficiency that are derived from the four recognized domains of speaking, listening, reading, and writing, and that are aligned with achievement of the challenging State academic content and student academic achievement standards described in section 6311(b)(1) of this title;
 
 &emsp;(3) contain an assurance that—
 
@@ -20,7 +20,7 @@ Each plan submitted under subsection (a) of this section shall—
 
 &emsp;&emsp;(C) the agency will ensure that eligible entities receiving a subgrant under this subpart comply with the requirement in section 6311(b)(7) of this title to annually assess in English children who have been in the United States for 3 or more consecutive years;
 
-&emsp;&emsp;(D) the agency will ensure that eligible entities receiving a subgrant under this subpart annually assess the English proficiency of all limited English proficient children participating in a program funded under this subpart, consistent with section 6311(b)(7) of this title;
+&emsp;&emsp;(D) the agency will ensure that eligible entities receiving a subgrant under this subpart annually assess the English proficiencyof all limited English proficient children participating in a program funded under this subpart, consistent with section 6311(b)(7) of this title;
 
 &emsp;&emsp;(E) in awarding subgrants under section 6824 of this title, the agency will address the needs of school systems of all sizes and in all geographic areas, including school systems with rural and urban schools;
 

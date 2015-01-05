@@ -32,7 +32,7 @@ For purposes of applying this part with respect to a pension, profit-sharing, or
 
 #### (d) Deductibility of contributions
 
-For purposes of applying section 404 with respect to contributions made to or under a pension, profit-sharing, stock bonus, or annuityplan by an American employer, or by another taxpayer which is entitled to deduct its contributions under section 404(a)(3)(B), on behalf of an individual who is treated as an employee of such American employer under subsection (a)—
+For purposes of applying section 404 with respect to contributions made to or under a pension, profit-sharing, stock bonus, or annuity plan by an American employer, or by another taxpayer which is entitled to deduct its contributions under section 404(a)(3)(B), on behalf of an individual who is treated as an employee of such American employer under subsection (a)—
 
 &emsp;(1) except as provided in paragraph (2), no deduction shall be allowed to such American employer or to any other taxpayer which is entitled to deduct its contributions under such sections,
 
@@ -176,7 +176,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

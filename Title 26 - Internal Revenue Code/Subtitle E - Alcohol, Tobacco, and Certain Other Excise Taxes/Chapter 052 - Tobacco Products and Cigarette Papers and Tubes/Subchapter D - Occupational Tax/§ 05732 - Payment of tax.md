@@ -26,7 +26,7 @@ A prior section 5732, acts Aug. 16, 1954, ch. 736, 68A Stat. 714; Sept. 2, 1958,
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, which directed amendment of section 5732 of this title, as redesignated by Pub. L. 109–59, §11125(b)(20)(A), by substituting "this subchapter" for "this subpart" in subsec. (c)(2) effective Dec. 29, 2007, was executed to this section to reflect the probable intent of Congress even though the redesignation of section 5142 of this title as this section wasnot effective until July 1, 2008. See 2005 Amendment and Effective Date of 2005 Amendment notes below.
+<b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, which directed amendment of section 5732 of this title, as redesignated by Pub. L. 109–59, §11125(b)(20)(A), by substituting "this subchapter" for "this subpart" in subsec. (c)(2) effective Dec. 29, 2007, was executed to this section to reflect the probable intent of Congress even though the redesignation of section 5142 of this title as this section was not effective until July 1, 2008. See 2005 Amendment and Effective Date of 2005 Amendment notes below.
 
 <b>2005</b>—Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5142 of this title as this section and transferred section to this subchapter.
 

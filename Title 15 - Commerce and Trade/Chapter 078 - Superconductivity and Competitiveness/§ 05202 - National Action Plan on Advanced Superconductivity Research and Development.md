@@ -30,5 +30,5 @@ The Office of Science and Technology Policy, with the assistance of the National
 
 #### References in Text
 
-The National Critical Materials Act of 1984, referred to in subsec. (d), is title II of Pub. L. 98–373, July 31,1984, 98 Stat. 1248, as amended, which is classified generally to chapter 30 (§1801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 30 and Tables.
+The National Critical Materials Act of 1984, referred to in subsec. (d), is title II of Pub. L. 98–373, July 31, 1984, 98 Stat. 1248, as amended, which is classified generally to chapter 30 (§1801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 30 and Tables.
 

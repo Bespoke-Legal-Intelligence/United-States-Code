@@ -22,13 +22,13 @@
 
 #### (b) Boundary adjustment
 
-The Secretary may from time to time make minor revisions in the boundaries of the park in accordance with section 460l–9(c) of this title. In exercising the boundary adjustment authority the Secretary shall ensure all actions will enhance resource preservation and shall not result in a net loss of acreage from the park.
+The Secretary may from time to time make minor revisions in the boundaries of the park in accordance with section 100506(c) of title 54. In exercising the boundary adjustment authority the Secretary shall ensure all actions will enhance resource preservation and shall not result in a net loss of acreage from the park.
 
 #### (c) Acquisition
 
 (1) Within the boundaries of the addition described in subsection (a) of this section, the Secretary may acquire lands and interests in land by donation, purchase with donated or appropriated funds, or exchange. For purposes of acquiring property by exchange, the Secretary may, notwithstanding any other provision of law, exchange the approximately one acre of Federal land known as "Gilberts' Marina" for non-Federal land of equal value located within the boundaries of the addition. Any lands or interests in land which are owned by the State of Florida or any political subdivision thereof, may be acquired only by donation.
 
-(2) It is the express intent of Congress that acquisition within the boundaries of the addition shall be completed not later than 5 years after December 13, 1989. The authority provided by this section shall remain in effect until all acquisition is completed.
+(2) It is the express intent of Congress that acquisition within the boundaries of the addition shall be completed not later than 5 years after December 13, 1989. The authority provided bythis section shall remain in effect until all acquisition is completed.
 
 #### (d) Acquisition of tracts partially outside boundaries
 
@@ -112,7 +112,9 @@ Upon the request of the Governor of the State of Florida, the Secretary is autho
 
 #### Codification
 
-In subsec. (d), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (63 Stat. 377)" on authority of Pub. L. 107–217, §5(c),Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), "section 100506(c) of title 54" substituted for "section 7(c) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–4 \[sic\] and following)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+In subsec. (d), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (63 Stat. 377)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

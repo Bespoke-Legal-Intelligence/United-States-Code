@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as "eligible individuals"). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
+The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to theSecretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as "eligible individuals"). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
 
 #### (b) Grant applications
 
@@ -10,7 +10,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 (2) As part of an application for a grant under this section, a State shall submit a plan for a State-wide health insurance information, counseling, and assistance program. Such program shall—
 
-&emsp;(A) establish or improve upon a health insurance information, counseling, and assistanceprogram that provides counseling and assistance to eligible individuals in need of health insurance information, including—
+&emsp;(A) establish or improve upon a health insurance information, counseling, and assistance program that provides counseling and assistance to eligible individuals in need of health insurance information, including—
 
 &emsp;&emsp;(i) information that may assist individuals in obtaining benefits and filing claims under this subchapter and subchapter XIX of this chapter;
 

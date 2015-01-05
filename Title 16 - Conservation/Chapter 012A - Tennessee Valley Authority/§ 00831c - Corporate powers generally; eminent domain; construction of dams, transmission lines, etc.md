@@ -14,7 +14,7 @@ Except as otherwise specifically provided in this chapter, the Corporation—
 
 (f) May purchase or lease and hold such real and personal property as it deems necessary or convenient in the transaction of its business, and may dispose of any such personal property held by it.
 
-The Board shall select a treasurer and as many assistant treasurers as it deems proper: <i>Provided</i>, That any member of said Board may be removed from office at any time by a concurrent resolution of the Senate and the House of Representatives.
+The Board shall select a treasurer and as many assistant treasurers as it deems proper: <i>Provided</i>, That any member of said Board may be removed from office at any time by a concurrentresolution of the Senate and the House of Representatives.
 
 (g) Shall have such powers as may be necessary or appropriate for the exercise of the powers herein specifically conferred upon the Corporation.
 
@@ -32,7 +32,7 @@ The Board shall select a treasurer and as many assistant treasurers as it deems 
 
 &emsp;(c) to transfer any part of the possession and control of the real estate now in possession of and under the control of said Corporation to any other department, agency, or instrumentality of the United States: <i>Provided, however</i>, That no land shall be conveyed, leased, or transferred, upon which there is located any permanent dam, hydroelectric power plant, or munitions plant heretofore or hereafter built by or for the United States or for the Authority, except that this prohibition shall not apply to the transfer of Nitrate Plant Numbered 1, at Muscle Shoals, Alabama, or to Waco Quarry: <i>And provided further</i>, That no transfer authorized herein in (a) or (c) except leases for terms of less than twenty years, shall be made without the approval of the President of the United States, if the property to be conveyed exceeds $500 in value; and
 
-&emsp;(d) to convey by warranty deed, or otherwise, lands, easements, and rights-of-way to States, counties, municipalities, school districts, railroad companies, telephone, telegraph, water, and power companies, where anysuch conveyance is necessary in order to replace any such lands, easements, or rights-of-way to be flooded or destroyed as the result of the construction of any dam or reservoir now under construction by the Corporation, or subsequently authorized by Congress, and easements and rights-of-way upon which are located transmission or distribution lines. The Corporation shall also have power to convey or lease Nitrate Plant Numbered 1, at Muscle Shoals, Alabama, and Waco Quarry, with the approval of the Department of the Army and the President.
+&emsp;(d) to convey by warranty deed, or otherwise, lands, easements, and rights-of-way to States, counties, municipalities, school districts, railroad companies, telephone, telegraph, water, and power companies, where any such conveyance is necessary in order to replace any such lands, easements, or rights-of-way to be flooded or destroyed as the result of the construction of any dam or reservoir now under construction by the Corporation, or subsequently authorized by Congress, and easements and rights-of-way upon which are located transmission or distribution lines. The Corporation shall also have power to convey or lease Nitrate Plant Numbered 1, at Muscle Shoals, Alabama, and Waco Quarry, with the approval of the Department of the Army and the President.
 
 (l) Shall have power to advise and cooperate in the readjustment of the population displaced by the construction of dams, the acquisition of reservoir areas, the protection of watersheds, the acquisition of rights-of-way, and other necessary acquisitions of land, in order to effectuate the purposes of the chapter; and may cooperate with Federal, State, and local agencies to that end.
 
@@ -71,4 +71,8 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 #### Delegation of Functions
 
 Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Release of Use Restrictions
+
+Pub. L. 113–121, title VI, §6005(h), June 10, 2014, 128 Stat. 1360, provided that: "Notwithstanding any other provision of law, the Tennessee Valley Authority shall, without monetary consideration, grant releases from real estate restrictions established pursuant to section 4(k)(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831c(k)(b)) with respect to tracts of land identified in section 4(k)(b) of that Act, subject to the condition that such releases shall be granted in a manner consistent with applicable Tennessee Valley Authority policies."
 

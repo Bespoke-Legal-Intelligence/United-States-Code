@@ -60,7 +60,7 @@ Oct. 30, 1984, Pub. L. 98–554, §211, 98 Stat. 2841.
 
 In subsection (a), the words before clause (1) are substituted for "In carrying out the Secretary's functions under this chapter, the Secretary is authorized to" and "to carry out the provisions of this chapter, or regulations issued pursuant to section 2302 of this Appendix" to eliminate unnecessary words. Clause (10) is substituted for "perform such acts . . . as the Secretary determines necessary". The text of 49 App.:2510(a) is omitted as covered by 49 App.:2510(b) (1st sentence).
 
-In subsection (b), the words "In conducting inspections and investigations" are substituted for "To carry out the Secretary's inspection and investigation functions" to eliminate unnecessary words. The words "or the Secretary's agent" are omitted as unnecessary.
+In subsection (b), the words "In conducting inspections and investigations" are substituted for "To carryout the Secretary's inspection and investigation functions" to eliminate unnecessary words. The words "or the Secretary's agent" are omitted as unnecessary.
 
 #### Amendments
 

@@ -12,21 +12,21 @@ Section is from the Supplemental Appropriations Act, 1979.
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–161 substituted “$30,000” for “$25,000” in first sentence.
+<b>2007</b>—Pub. L. 110–161 substituted "$30,000" for "$25,000" in first sentence.
 
-<b>2003</b>—Pub. L. 108–83 substituted “$25,000” for “$10,000” in first sentence.
+<b>2003</b>—Pub. L. 108–83 substituted "$25,000" for "$10,000" in first sentence.
 
-<b>1992</b>—Pub. L. 102–392 substituted “$10,000” for “$4,000”.
+<b>1992</b>—Pub. L. 102–392 substituted "$10,000" for "$4,000".
 
-<b>1987</b>—Pub. L. 100–202 substituted “$4,000” for “$2,000”.
+<b>1987</b>—Pub. L. 100–202 substituted "$4,000" for "$2,000".
 
-<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1985</b>—Pub. L. 99–88 substituted “Senators, Senate officials, or members of the staffs of Senators or Senate officials” for “Senators and members of their staffs,”.
+<b>1985</b>—Pub. L. 99–88 substituted "Senators, Senate officials, or members of the staffs of Senators or Senate officials" for "Senators and members of their staffs,".
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §6(b), Dec. 26, 2007, 121 Stat. 2222, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
+Pub. L. 110–161, div. H, title I, §6(b), Dec. 26, 2007, 121 Stat. 2222, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to fiscal year 2008 and each fiscal year thereafter."
 
 #### Effective Date of 1987 Amendment
 

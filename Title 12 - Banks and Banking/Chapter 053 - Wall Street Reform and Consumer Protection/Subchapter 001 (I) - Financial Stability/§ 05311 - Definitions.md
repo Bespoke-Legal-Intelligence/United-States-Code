@@ -28,7 +28,7 @@ For purposes of this subchapter, unless the context otherwise requires, the foll
 
 #### (B) U.S. nonbank financial company
 
-&emsp;&emsp;The term "U.S. nonbank financial company" means a company (other than a bank holding company, a Farm Credit System institution chartered and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), or a national securities exchange (or parent thereof), clearing agency (or parent thereof, unless the parent is a bank holding company), security-based swap execution facility, or security-based swap data repository registered with the Commission, or a board of trade designated as a contract market (or parent thereof), or a derivatives clearing organization (or parent thereof, unless the parent is a bank holding company), swap execution facility or a swap data repository registered with the Commodity Futures Trading Commission), that is—
+&emsp;&emsp;The term "U.S. nonbank financial company" means a company (other than a bank holding company, a Farm Credit System institution chartered and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), or a national securities exchange (or parent thereof), clearing agency (or parent thereof, unless the parent is a bank holding company), security-based swapexecution facility, or security-based swap data repository registered with the Commission, or a board of trade designated as a contract market (or parent thereof), or a derivatives clearing organization (or parent thereof, unless the parent is a bank holding company), swap execution facility or a swap data repository registered with the Commodity Futures Trading Commission), that is—
 
 &emsp;&emsp;&emsp;(i) incorporated or organized under the laws of the United States or any State; and
 
@@ -64,7 +64,7 @@ The Board of Governors shall establish, by regulation, the requirements for dete
 
 #### (c) Foreign nonbank financial companies
 
-For purposes of the application of parts A and C (other than section 5323(b) of this title) withrespect to a foreign nonbank financial company, references in this subchapter to "company" or "subsidiary" include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
+For purposes of the application of parts A and C (other than section 5323(b) of this title) with respect to a foreign nonbank financial company, references in this subchapter to "company" or "subsidiary" include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
 
 (Pub. L. 111–203, title I, §102, July 21, 2010, 124 Stat. 1391.)
 

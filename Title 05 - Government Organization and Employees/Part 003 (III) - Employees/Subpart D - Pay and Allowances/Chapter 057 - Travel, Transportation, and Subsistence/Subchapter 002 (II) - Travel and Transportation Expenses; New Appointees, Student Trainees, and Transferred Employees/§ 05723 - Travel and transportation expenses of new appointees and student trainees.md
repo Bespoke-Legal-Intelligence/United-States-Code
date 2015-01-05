@@ -16,7 +16,7 @@
 
 (d) This section does not impair or otherwise affect the authority of an agency under existing statute to pay travel and transportation expenses of individuals named by subsection (a) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, §305, title IV, §409(a), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, §118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, §120(a), Oct. 12, 1984, 98 Stat. 1968; Pub. L. 100–325, §2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, §6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, §529\[title II, §206(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, §2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, §6(3), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, §305, title IV, §409(a), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, §118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, §120(a), Oct. 12,1984, 98 Stat. 1968; Pub. L. 100–325, §2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, §6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, §529 \[title II, §206(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, §2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, §6(3), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -48,37 +48,37 @@ Section 3 of the Presidential Transition Act of 1963, referred to in subsecs. (a
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–264 substituted “spent by the Government” for “spent by the United States” and “due the Government” for “due the United States”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–264 substituted "spent by the Government" for "spent by the United States" and "due the Government" for "due the United States".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted "Under regulations prescribed under section 5738 of this title" for "Under such regulations as the President may prescribe".
 
 Subsec. (a)(3). Pub. L. 104–201, §1715(b)(2), which directed amendment of subsec. (a) by adding par. (3) at the end, was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
 
-<b>1992</b>—Pub. L. 102–378, §2(48)(A), struck out “; manpower shortage positions” after “trainees” in section catchline.
+<b>1992</b>—Pub. L. 102–378, §2(48)(A), struck out "; manpower shortage positions" after "trainees" in section catchline.
 
 Subsecs. (d), (e). Pub. L. 102–378, §2(48)(B), redesignated subsec. (e) as (d) and struck out former subsec. (d) which authorized Office to delegate its authority to determine positions for which there was a manpower shortage for purposes of this section.
 
-<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–509, §529 \[title II, §206(b)(1)\], substituted “any position” for “a position in the United States for which the Office of Personnel Management determines there is a manpower shortage”.
+<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–509, §529 \[title II, §206(b)(1)\], substituted "any position" for "a position in the United States for which the Office of Personnel Management determines there is a manpower shortage".
 
-Subsec. (a)(1)(C). Pub. L. 101–509, §529 \[title II, §206(b)(2)\], substituted “the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108; and” for “the minimum rate of pay prescribed for GS–16; and”.
+Subsec. (a)(1)(C). Pub. L. 101–509, §529 \[title II, §206(b)(2)\], substituted "the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108; and" for "the minimum rate of pay prescribed for GS–16; and".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–398, §6(2), inserted at end “In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–398, §6(2), inserted at end "In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee."
 
-Subsec. (a)(1). Pub. L. 100–398, §6(1), which directed that par. (1) be amended by striking out “or (B)” and inserting “or (C)”, could not be executed because phrase “or (B)” did not appear in par. (1) after the intervening amendment by Pub. L. 100–325, see below.
+Subsec. (a)(1). Pub. L. 100–398, §6(1), which directed that par. (1) be amended by striking out "or (B)" and inserting "or (C)", could not be executed because phrase "or (B)" did not appear in par. (1) after the intervening amendment by Pub. L. 100–325, see below.
 
 Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service in cl. (B) and redesignated a second cl. (B) as (C).
 
-Subsec. (c). Pub. L. 100–398, §6(3), inserted at end “In the case of an appointee described in subsection (a)(1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the travel or transportation shall take place at any time after the most recent general elections held to determine the electors of the President.”
+Subsec. (c). Pub. L. 100–398, §6(3), inserted at end "In the case of an appointee described in subsection (a)(1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the travel or transportation shall take place at any time after the most recent general elections held to determine the electors of the President."
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473 directed amendment of subpar. (C) by striking out “, by and with the advice and consent of the Senate,” which was executed to second subpar. (B) by striking out that phrase following “appointed by the President”, as probable intent of Congress.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473 directed amendment of subpar. (C) by striking out ", by and with the advice and consent of the Senate," which was executed to second subpar. (B) by striking out that phrase following "appointed by the President", as probable intent of Congress.
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 98–151, designated existing provisions as subpars. (A) and (B), and added a second subpar. (B) relating to any person appointed by President.
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
 Pub. L. 95–454, §409(a), inserted reference to a new appointee to the Senior Executive Service.
 
-Subsec. (d). Pub. L. 95–454, §§305, 906(a)(3), struck out “not” before “delegate”, and substituted “Office” for “Commission”.
+Subsec. (d). Pub. L. 95–454, §§305, 906(a)(3), struck out "not" before "delegate", and substituted "Office" for "Commission".
 
 #### Effective Date of 1996 Amendment
 

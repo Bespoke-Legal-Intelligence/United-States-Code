@@ -40,7 +40,7 @@ In subsection (a), the words "consistent with other provisions of sections 171â€
 
 In subsection (b), the word "Secretary" is substituted for the words "appointing authority".
 
-In subsection (c), the words "as a part-time adviser" are substituted for the words "in any other part-timecapacity for a department or agency" to conform to subsections (a) and (b).
+In subsection (c), the words "as a part-time adviser" are substituted for the words "in any other part-time capacity for a department or agency" to conform to subsections (a) and (b).
 
 #### Amendments
 

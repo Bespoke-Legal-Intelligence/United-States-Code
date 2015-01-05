@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all lands, easements, rights-of-way, and necessary relocations.
+&emsp;Non-Federal interests shall provide 35 percent of the cost of construction of any projectcarried out under this section, including provision of all lands, easements, rights-of-way, and necessary relocations.
 
 #### (2) Form
 
@@ -38,19 +38,21 @@
 
 #### (d) Cost limitation
 
-Not more than $5,000,000 in Federal funds may be allotted under this section for a project at any single locality.
+Not more than $10,000,000 in Federal funds may be allotted under this section for a project at any single locality.
 
 #### (e) Funding
 
 There is authorized to be appropriated to carry out this section $50,000,000 for each fiscal year.
 
-(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2020, Nov. 8, 2007, 121 Stat. 1078.)
+(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2020, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(g), June 10, 2014, 128 Stat. 1232.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–121 substituted "$10,000,000" for "$5,000,000".
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–114, §2020(1), added subsec. (a) and struck out former subsec. (a), which read as follows:
 

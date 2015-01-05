@@ -62,7 +62,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may, after consultation with the sponsor of an application for an investigational new drug under section 355(i) of this title, the sponsor of an application for a new drug under section 355(b)(1) of this title, or the holder of an approved application for a drug under section 355(b)(1) of this title, issue to the sponsor or holder a written request for the conduct of pediatric studies for such drug. In issuing such request, the Secretary shall take into account adequate representation of children of ethnic and racial minorities. Such request to conduct pediatric studies shall be in writing and shallinclude a timeframe for such studies and a request to the sponsor or holder to propose pediatric labeling resulting from such studies. If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not requesting studies in neonates.
+&emsp;&emsp;The Secretary may, after consultation with the sponsor of an application for an investigational new drug under section 355(i) of this title, the sponsor of an application for a new drug under section 355(b)(1) of this title, or the holder of an approved application for a drug under section 355(b)(1) of this title, issue to the sponsor or holder a written request for the conduct of pediatric studies for such drug. In issuing such request, the Secretary shall take into account adequate representation of children of ethnic and racial minorities. Such request to conduct pediatric studies shall be in writing and shall include a timeframe for such studies and a request to the sponsor or holder to propose pediatric labeling resulting from such studies. If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not requesting studies in neonates.
 
 #### (B) Single written request
 
@@ -138,7 +138,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (6) Tracking pediatric studies and labeling changes
 
-&emsp;The Secretary, in consultation with the committee referred to in paragraph (1), shall track and make available to the public, in an easily accessible manner, including through posting on the Web site of the Food and Drug Administration—
+&emsp;The Secretary, in consultation with the committee referred to in paragraph (1), shalltrack and make available to the public, in an easily accessible manner, including through posting on the Web site of the Food and Drug Administration—
 
 &emsp;&emsp;(A) the number of studies conducted under this section and under section 284m of title 42;
 
@@ -208,7 +208,7 @@ Exclusivity under this section shall only be granted for the completion of a stu
 
 #### (j) Other labeling changes
 
-If, on or after September 27, 2007, the Secretary determines that a pediatric study conducted under this section does or does not demonstrate that the drug that is the subject of the study is safe and effective, including whether such study results are inconclusive, in pediatric populations or subpopulations, the Secretary shall order the labeling of such product to include information about the results of the studyand a statement of the Secretary's determination.
+If, on or after September 27, 2007, the Secretary determines that a pediatric study conducted under this section does or does not demonstrate that the drug that is the subject of the study is safe and effective, including whether such study results are inconclusive, in pediatric populations or subpopulations, the Secretary shall order the labeling of such product to include information about the results of the study and a statement of the Secretary's determination.
 
 #### (k) Dissemination of pediatric information
 
@@ -330,7 +330,7 @@ Subsec. (n)(1)(C). Pub. L. 113–5, §307(a)(2), added subpar. (C).
 
 <b>2012</b>—Subsec. (d)(1)(A). Pub. L. 112–144, §502(b), inserted at end "If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not requesting studies in neonates."
 
-Subsec. (h). Pub. L. 112–144, §502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, ifany pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall be deemed to satisfy the requirement for market exclusivity pursuant to this section."
+Subsec. (h). Pub. L. 112–144, §502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall bedeemed to satisfy the requirement for market exclusivity pursuant to this section."
 
 Subsec. (k)(2). Pub. L. 112–144, §509(a)(1), substituted "subsection (f)(6)(F)" for "subsection (f)(3)(F)".
 
@@ -494,7 +494,7 @@ Pub. L. 112–144, title V, §504, July 9, 2012, 126 Stat. 1040, provided that: 
 
 #### Report on Pediatric Exclusivity Program
 
-Pub. L. 107–109, §16, Jan. 4, 2002, 115 Stat. 1421, as amended by Pub. L. 108–155, §3(b)(4), Dec. 3, 2003, 117Stat. 1942, required the Comptroller General, not later than Oct. 1, 2006, and in consultation with the Secretary of Health and Human Services, to submit to Congress a report on specified issues concerning the effectiveness of the pediatric exclusivity program.
+Pub. L. 107–109, §16, Jan. 4, 2002, 115 Stat. 1421, as amended by Pub. L. 108–155, §3(b)(4), Dec. 3, 2003, 117 Stat. 1942, required the Comptroller General, not later than Oct. 1, 2006, and in consultation with the Secretary of Health and Human Services, to submit to Congress a report on specified issues concerning the effectiveness of the pediatric exclusivity program.
 
 #### Study by General Accounting Office
 

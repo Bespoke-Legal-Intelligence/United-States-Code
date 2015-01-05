@@ -78,13 +78,13 @@
 
 #### (v) Guaranteed issue and renewal
 
-&emsp;&emsp;&emsp;Section 1395w–21(g) of this title (other than paragraph (2) of such section and clause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
+&emsp;&emsp;&emsp;Section 1395w–21(g) of this title (other than paragraph (2) of such section andclause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
 
 #### (vi) Marketing material and application forms
 
 &emsp;&emsp;&emsp;Section 1395w–21(h) of this title, relating to approval of marketing material and application forms.
 
-> &emsp;&emsp;In applying clauses (ii), (iv), and (v) of this subparagraph, any reference to section1395w–21(e) of this title shall be treated as a reference to such section as applied pursuant to clause (iii) of this subparagraph.
+> &emsp;&emsp;In applying clauses (ii), (iv), and (v) of this subparagraph, any reference to section 1395w–21(e) of this title shall be treated as a reference to such section as applied pursuant to clause (iii) of this subparagraph.
 
 #### (C) Special rule
 
@@ -250,7 +250,7 @@ Study.—The Inspector General of the Department of Health and Human Services sh
 
 &emsp;"(2)
 
-Annual reports.—Not later than July 1 of each year (beginning with 2011), the Inspector General shall submit to Congress a report on the studyconducted under paragraph (1), together with such recommendations as the Inspector General determines appropriate.
+Annual reports.—Not later than July 1 of each year (beginning with 2011), the Inspector General shall submit to Congress a report on the study conducted under paragraph (1), together with such recommendations as the Inspector General determines appropriate.
 
 "(b)
 
@@ -346,7 +346,7 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—There is established, as of the first day of the third month beginning after the date of the enactment of this Act \[Dec. 8, 2003\], a State Pharmaceutical Assistance Transition Commission (in this section referred to as the 'Commission') to develop a proposal for addressing the unique transitional issues facing State pharmaceutical assistance programs, and program participants, due to the implementation of the voluntary prescription drug benefit program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\], as added by section 101.
+In general.—There is established, as of the first day of the third month beginning after the date of the enactment of this Act \[Dec. 8, 2003\], a State Pharmaceutical Assistance Transition Commission (in this section referred to as the 'Commission') to develop a proposal for addressing the unique transitional issues facing State pharmaceutical assistance programs, and program participants, due to the implementation of the voluntary prescription drug benefit program under part D of title XVIII of the SocialSecurity Act \[42 U.S.C. 1395w–101 et seq.\], as added by section 101.
 
 &emsp;"(2)
 

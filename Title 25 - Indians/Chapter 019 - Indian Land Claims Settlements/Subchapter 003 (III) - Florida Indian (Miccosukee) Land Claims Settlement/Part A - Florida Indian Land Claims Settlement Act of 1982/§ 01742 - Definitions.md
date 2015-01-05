@@ -18,7 +18,7 @@ For purposes of this part—
 
 &emsp;(8) The term "Settlement Agreement" means those documents entitled "Settlement Agreement between the Miccosukee Tribe and the State of Florida" executed on April 16, 1982, by representatives of the State of Florida and representatives of the Miccosukee Tribe and filed with the secretary of state of the State of Florida which incorporate the Lease Agreement described in paragraph (6) of this section.
 
-&emsp;(9) The term "transfer" includes but is not limited to any sale, grant, lease, allotment, partition, or conveyance, any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance, or any event or events that resulted in a change of possession or control of lands or natural resources.
+&emsp;(9) The term "transfer" includes but is not limited to any sale, grant, lease, allotment, partition, or conveyance, any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance, or any event or events that resulted in a changeof possession or control of lands or natural resources.
 
 (Pub. L. 97–399, §3, Dec. 31, 1982, 96 Stat. 2012.)
 

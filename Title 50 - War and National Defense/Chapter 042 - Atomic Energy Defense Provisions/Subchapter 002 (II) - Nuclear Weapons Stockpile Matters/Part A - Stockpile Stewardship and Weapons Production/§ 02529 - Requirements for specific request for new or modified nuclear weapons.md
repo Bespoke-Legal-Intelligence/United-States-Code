@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;(B) in production as of that date.
 
-(Pub. L. 107–314, div. D, title XLII, §4209, formerly div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733; renumbered div. D, title XLII, §4209, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3115, Oct. 28, 2009, 123 Stat. 2707; Pub. L. 113–66, div. C, title XXXI, §3146(c)(5), Dec. 26, 2013, 127 Stat. 1074.)
+(Pub. L. 107–314, div. D, title XLII, §4209, formerly div. C, title XXXI, §3143, Dec. 2, 2002, 116Stat. 2733; renumbered div. D, title XLII, §4209, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3115, Oct. 28, 2009, 123 Stat. 2707; Pub. L. 113–66, div. C, title XXXI, §3146(c)(5), Dec. 26, 2013, 127 Stat. 1074.)
 
 #### Codification
 
@@ -50,7 +50,7 @@ Section was formerly classified to section 7271d of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d). Pub. L. 113–66 made technical amendment to reference in original act which appearsin text as reference to "December 2, 2002" in two places.
+<b>2013</b>—Subsec. (d). Pub. L. 113–66 made technical amendment to reference in original act which appears in text as reference to "December 2, 2002" in two places.
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–84, §3115(1), substituted "necessary to address proliferation concerns." for "necessary—
 

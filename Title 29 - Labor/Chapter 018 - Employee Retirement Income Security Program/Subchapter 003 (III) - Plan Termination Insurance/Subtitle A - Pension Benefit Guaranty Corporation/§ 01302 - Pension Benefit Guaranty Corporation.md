@@ -70,7 +70,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (g) Exemption from taxation
 
-(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title),shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\]), or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
+(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title), shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\]), or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
 
 (2) The receipts and disbursements of the corporation in the discharge of its functions shall be included in the totals of the budget of the United States Government. The United States is not liable for any obligation or liability incurred by the corporation.
 
@@ -82,7 +82,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
-(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee. Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).
+(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of themembers representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee. Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).
 
 (4) Members shall be chosen on the basis of their experience with employee organizations, with employers who maintain pension plans, with the administration of pension plans, or otherwise on account of outstanding demonstrated ability in related fields. Of the members serving on the advisory committee at any time, no more than four shall be affiliated with the same political party.
 
@@ -128,7 +128,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(8), is Pub. L. 92
 
 #### Codification
 
-A prior subsec. (c), as originally enacted by section 4002 of Pub. L. 93–406, amended section 5108 of Title 5, Government Organization and Employees. Subsec. (g)(3) amended section 846 of former Title 31, Money and Finance.
+A prior subsec. (c), as originally enacted by section 4002 of Pub. L. 93–406, amended section 5108 of Title 5,Government Organization and Employees. Subsec. (g)(3) amended section 846 of former Title 31, Money and Finance.
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to i
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134,set out as a note under section 6081 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

@@ -94,5 +94,5 @@ Subsec. (d). Pub. L. 96–343, §12(a), added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title V, §507(b), Feb. 10, 1996, 110 Stat. 296, provided that: "The amendments made by subsection (a) \[amending this section\] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act \[Feb. 10, 1996\]."
+Pub. L. 104–106, div. A, title V, §507(b), Feb. 10, 1996, 110 Stat. 296, provided that: "The amendments made bysubsection (a) \[amending this section\] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act \[Feb. 10, 1996\]."
 

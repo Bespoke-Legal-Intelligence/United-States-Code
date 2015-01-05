@@ -118,7 +118,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification procedures for violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to each person served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
+&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification procedures for violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to eachperson served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
 
 #### (ii) Form and manner of notice
 
@@ -160,9 +160,9 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;(iii) If any regulated contaminant is detected in the water purveyed by the public water system, a statement setting forth (I) the maximum contaminant level goal, (II) the maximum contaminant level, (III) the level of such contaminant in such water system, and (IV) for any regulated contaminant for which there has been a violation of the maximum contaminant level during the year concerned, the brief statement in plain language regarding the health concerns that resulted in regulation of such contaminant, as provided by the Administrator in regulations under subparagraph (A).
 
-&emsp;&emsp;&emsp;(iv) Information on compliance with national primary drinking water regulations,as required by the Administrator, and notice if the system is operating under a variance or exemption and the basis on which the variance or exemption was granted.
+&emsp;&emsp;&emsp;(iv) Information on compliance with national primary drinking water regulations, as required by the Administrator, and notice if the system is operating under a variance or exemption and the basis on which the variance or exemption was granted.
 
-&emsp;&emsp;&emsp;(v) Information on the levels of unregulated contaminants for which monitoring is required under section 300j–4(a)(2) of this title (including levels of cryptosporidium and radon where States determine they may be found).
+&emsp;&emsp;&emsp;(v) Information on the levels of unregulated contaminants for which monitoring is required under section 300j–4(a)(2) of thistitle (including levels of cryptosporidium and radon where States determine they may be found).
 
 &emsp;&emsp;&emsp;(vi) A statement that the presence of contaminants in drinking water does not necessarily indicate that the drinking water poses a health risk and that more information about contaminants and potential health effects can be obtained by calling the Environmental Protection Agency hotline.
 

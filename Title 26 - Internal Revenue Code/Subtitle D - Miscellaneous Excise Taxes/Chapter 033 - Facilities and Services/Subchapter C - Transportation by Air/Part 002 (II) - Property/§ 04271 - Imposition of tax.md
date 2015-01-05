@@ -48,7 +48,7 @@ The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement
 
 #### Prior Provisions
 
-A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to tax for the transportation of property, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
+A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to tax for the transportation ofproperty, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 110–161 effective Oct. 1, 2007, see section 116(d) of div
 
 Amendment by Pub. L. 105–34 applicable to transportation beginning on or after Oct. 1, 1997, see section 1031(e)(2) of Pub. L. 105–34, set out as a note under section 4261 of this title.
 
-Amendment by Pub. L. 105–2 applicable to transportation beginning on or after the 7th day after Feb. 28, 1997, with special rule for applicability to amounts paid before such 7th day, see section 2(e)(2) of Pub. L. 105–2, set out as a note under section 4261 of this title.
+Amendment by Pub. L. 105–2 applicable to transportation beginning on or after the 7th day after Feb. 28,1997, with special rule for applicability to amounts paid before such 7th day, see section 2(e)(2) of Pub. L. 105–2, set out as a note under section 4261 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 97–248 applicable with respect to transportation beginnin
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ Section was formerly classified to section 1069b of this title prior to renumber
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–244, §308(f), substituted "part D of this subchapter or subchapter IV ofthis chapter" for "subchapter IV, VII, or VIII of this chapter".
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–244, §308(f), substituted "part D of this subchapter or subchapter IV of this chapter" for "subchapter IV, VII, or VIII of this chapter".
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–208 struck out "II," after "authorized by subchapter".
 

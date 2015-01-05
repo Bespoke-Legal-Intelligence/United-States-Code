@@ -20,7 +20,7 @@ Except as otherwise distinctly expressed or manifestly intended, the same item (
 
 #### (2) Savings clause for 1954 treaties
 
-&emsp;No provision of this title (as in effect without regard to any amendment thereto enacted after August 16, 1954) shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on August 16, 1954.
+&emsp;No provision of this title (as in effect without regard to any amendment thereto enacted after August 16, 1954) shall apply in any case where its application would be contrary to anytreaty obligation of the United States in effect on August 16, 1954.
 
 #### (e) Privacy Act of 1974
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub
 
 #### Application of Subsec. (d) to Pub. L. 87–834
 
-Pub. L. 87–834, §31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Section 7852(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to treaty obligations) shall not apply in respect of any amendment made by this Act \[see Short Title of 1962Amendments note set out under section 1 of this title\]."
+Pub. L. 87–834, §31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Section 7852(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to treaty obligations) shall not apply in respect of any amendment made by this Act \[see Short Title of 1962 Amendments note set out under section 1 of this title\]."
 

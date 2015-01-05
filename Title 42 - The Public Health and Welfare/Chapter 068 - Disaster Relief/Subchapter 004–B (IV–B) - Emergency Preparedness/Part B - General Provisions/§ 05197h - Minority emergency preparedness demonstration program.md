@@ -34,7 +34,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under this
 
 #### (f) Authorization of appropriation
 
-There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.
+There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year 2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.
 
 (Pub. L. 93–288, title VI, §629, as added Pub. L. 107–73, title IV, §431, Nov. 26, 2001, 115 Stat. 697; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 

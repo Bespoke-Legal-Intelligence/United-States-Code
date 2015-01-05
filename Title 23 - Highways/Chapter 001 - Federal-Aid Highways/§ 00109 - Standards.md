@@ -54,7 +54,7 @@ Temporary traffic control devices.—No funds shall be approved for expenditure 
 
 (g) Not later than January 30, 1971, the Secretary shall issue guidelines for minimizing possible soil erosion from highway construction. Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 
-(h) Not later than July 1, 1972, the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission, promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficient transportation, public services, and the costs of eliminating or minimizing such adverse effects and the following:
+(h) Not later than July 1, 1972, the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission, promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficienttransportation, public services, and the costs of eliminating or minimizing such adverse effects and the following:
 
 &emsp;(1) air, noise, and water pollution;
 
@@ -184,7 +184,7 @@ Subsec. (n). Pub. L. 95–599, §141(g), added subsec. (n).
 
 <b>1973</b>—Subsec. (g). Pub. L. 93–87, §152(2), substituted "Act" for "Rct", thus correcting the popular name to read "Federal-Aid Highway Act of 1970".
 
-Subsec. (i). Pub. L. 93–87, §114, authorized promulgation of noise-level standards for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972, and approval of any project on a Federal-aid system to which noise-level standards are made applicable, described the range of the projects, made money available for financing Federal share of the project, and deemed such project a highway project for all purposes of this title.
+Subsec. (i). Pub. L. 93–87, §114, authorized promulgation of noise-level standards for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972, and approval of any project on a Federal-aid system to which noise-level standardsare made applicable, described the range of the projects, made money available for financing Federal share of the project, and deemed such project a highway project for all purposes of this title.
 
 Subsec. (k). Pub. L. 93–87, §156, added subsec. (k).
 
@@ -212,7 +212,7 @@ Pub. L. 112–141, div. A, title I, §1315, July 6, 2012, 126 Stat. 549, provide
 
 "(a)
 
-In General.—Not later than 30 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], for the repair or reconstruction of any road, highway, or bridge that is in operation or under construction when damaged by an emergency declared by the Governor of the State and concurred in by the Secretary \[of Transportation\], or for a disaster or emergency declared by the President pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), the Secretary shall publish a notice of proposed rulemaking to treat any such repair or reconstruction activity as a class of action categorically excluded from the requirements relating toenvironmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act) if such repair or reconstruction activity is—
+In General.—Not later than 30 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], for the repair or reconstruction of any road, highway, or bridge that is in operation or under construction when damaged by an emergency declared by the Governor of the State and concurred in by the Secretary \[of Transportation\], or for a disaster or emergency declared by the President pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), the Secretary shall publish a notice of proposed rulemaking to treat any such repair or reconstruction activity as a class of action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act) if such repair or reconstruction activity is—
 
 &emsp;"(1) in the same location with the same capacity, dimensions, and design as the original road, highway, or bridge as before the declaration described in this section; and
 
@@ -308,7 +308,7 @@ Determinations.—An agreement described in paragraph (2) may include determinat
 
 #### Engineering Judgment
 
-Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: "Not later than 90 days afterthe date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices should not be considered a substitute for engineering judgment."
+Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: "Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices should not be considered a substitute for engineering judgment."
 
 #### Highway Signs Relating to Veterans Cemeteries
 
@@ -422,7 +422,7 @@ General rule.—No funds made available out of the Highway Trust Fund may be use
 
 "(2)
 
-Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands thatwere developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway."
+Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway."
 
 #### Highway Signs for National Highway System
 

@@ -1,6 +1,6 @@
 ### §2153b. Export policies relating to peaceful nuclear activities and international nuclear trade
 
-The President shall take immediate and vigorous steps to seek agreement from all nations and groups of nations to commit themselves toadhere to the following export policies with respect to their peaceful nuclear activities and their participation in international nuclear trade:
+The President shall take immediate and vigorous steps to seek agreement from all nations and groups of nations to commit themselves to adhere to the following export policies with respect to their peaceful nuclear activities and their participation in international nuclear trade:
 
 #### (a) Undertakings by transferee nations receiving nuclear material and equipment or sensitive nuclear technology
 
@@ -12,7 +12,7 @@ No nuclear materials and equipment and no sensitive nuclear technology within th
 
 &emsp;(3) adequate physical security measures will be established and maintained by any nation or group of nations on all of its nuclear activities;
 
-&emsp;(4) no nuclear materials and equipment and no nuclear technology intended for peaceful purposes in, under the jurisdiction of, or under the control of any nation or group of nations shall be transferred to the jurisdiction of any other nation or group of nations which does not agree to stringent undertakings meeting the objectives of this section; and
+&emsp;(4) no nuclear materials and equipment and no nuclear technology intended for peaceful purposes in, under the jurisdiction of, or underthe control of any nation or group of nations shall be transferred to the jurisdiction of any other nation or group of nations which does not agree to stringent undertakings meeting the objectives of this section; and
 
 &emsp;(5) no nation or group of nations will assist, encourage, or induce any non-nuclear-weapon state to manufacture or otherwise acquire any nuclear explosive device.
 

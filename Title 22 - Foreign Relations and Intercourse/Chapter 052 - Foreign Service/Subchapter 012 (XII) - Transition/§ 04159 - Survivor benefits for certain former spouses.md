@@ -8,7 +8,7 @@ Any participant or former participant in the Foreign Service Retirement and Disa
 
 (1) If the participant or former participant has not retired under such system on or before February 15, 1981, an election under this section may be made at any time before retirement.
 
-(2) If the participant or former participant has retired under such system on or before February 15, 1981, an election under this section may be made within such period after February 15, 1981, as the Secretary of State may prescribe.
+(2) If the participant or former participant has retired under such system on or before February15, 1981, an election under this section may be made within such period after February 15, 1981, as the Secretary of State may prescribe.
 
 (3) For purposes of applying subchapter VIII of this chapter, any such election shall be treated the same as if it were a spousal agreement under section 4060(b)(1) of this title.
 
@@ -20,13 +20,13 @@ An election under this section may provide for a survivor benefit based on all o
 
 The amount of the reduction in the participant's annuity shall be determined in accordance with section 4046(b)(2) of this title. Such reduction shall be effective as of—
 
-&emsp;(1) the commencing date of the participant's annuity, in the case of an election under subsection (b)(1) of this section, or
+&emsp;(1) the commencing date of the participant's annuity, in the case of an election under subsection (b)(1), or
 
-&emsp;(2) February 15, 1981, in the case of an election under subsection (b)(2) of this section.
+&emsp;(2) February 15, 1981, in the case of an election under subsection (b)(2).
 
 #### (e) Definitions
 
-For purposes of this section, the terms "former spouse", "participant", and "spousalagreement" have the meanings given such terms in sections 4043 and 4044 of this title.
+For purposes of this section, the terms "former spouse", "participant", and "spousal agreement" have the meanings given such terms in sections 4043 and 4044 of this title.
 
 (Pub. L. 96–465, title II, §2109, Oct. 17, 1980, 94 Stat. 2152.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term "Federal Government" includes wholly ownedGovernment corporations, and officers and employees of the Government or its executive departments, independent establishments, and agencies while acting in their official capacity.
+Definition.—In this section, the term "Federal Government" includes wholly owned Government corporations, and officers and employees of the Government or its executive departments, independent establishments, and agencies while acting in their official capacity.
 
 (b)
 

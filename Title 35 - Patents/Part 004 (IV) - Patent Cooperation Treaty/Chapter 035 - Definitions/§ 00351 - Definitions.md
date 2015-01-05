@@ -54,7 +54,7 @@ Pub. L. 98–622, title IV, §406(a), Nov. 8, 1984, 98 Stat. 3393, provided that
 
 Pub. L. 94–131, §11, Nov. 14, 1975, 89 Stat. 692, provided that:
 
-"(a) Section 1 of this Act \[enacting this part\] shall come into force on the same day as the entry into force of the Patent Cooperation Treaty with respect to the United States. It shall apply to international and national applications filed on and after this effective date, even though entitled to the benefit of an earlier filing date, and to patents issued on such applications.
+"(a) Section 1 of this Act \[enacting this part\] shall come into force on the same day as the entry into force of the Patent Cooperation Treaty with respect to the United States. It shall apply to international and national applications filed on and after this effectivedate, even though entitled to the benefit of an earlier filing date, and to patents issued on such applications.
 
 "(b) Sections 2 to 10 of this Act \[amending sections 6, 41, 42, 102, 104, 112, 113, 120, and 282 of this title\] shall take effect on the same day as section 1 of this Act \[enacting this part\] and shall apply to all applications for patent actually filed in the United States on and after this effective date, as well as to international applications where applicable.
 
@@ -64,5 +64,5 @@ Pub. L. 94–131, §11, Nov. 14, 1975, 89 Stat. 692, provided that:
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–616, §1, Nov. 6, 1986, 100 Stat. 3485, provided: "That this Act \[amending this section and sections 361,362, 364, 368, 371, and 376 of this title and enacting provisions set out as a note above\] may be cited as the 'Act to authorize the United States to participate in chapter II of the Patent Cooperation Treaty'."
+Pub. L. 99–616, §1, Nov. 6, 1986, 100 Stat. 3485, provided: "That this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title and enacting provisions set out as a note above\] may be cited as the 'Act to authorize the United States to participate in chapter II of the Patent Cooperation Treaty'."
 

@@ -14,7 +14,7 @@
 
 #### (b) Staff
 
-The Commission shall have a staff director who shall be appointed by the chairperson of the Commission. Subject to such rules and regulations as may be adopted by the Commission, the chairperson of the Commission may—
+The Commission shall have a staff director who shall be appointed by the chairperson of theCommission. Subject to such rules and regulations as may be adopted by the Commission, the chairperson of the Commission may—
 
 &emsp;(1) appoint such additional personnel for the staff of the Commission as the chairperson considers necessary; and
 
@@ -106,7 +106,7 @@ The Commission shall appraise United States Government activities intended to un
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §1280(a), inserted "(referred to in this section as the 'Commission')" before period at end.
 
-Subsec. (c). Pub. L. 112–239, §1280(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) described the Commission's duties and responsibilities, including formulation and appraisal of policies and programs and submission of reports.
+Subsec. (c). Pub. L. 112–239, §1280(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) describedthe Commission's duties and responsibilities, including formulation and appraisal of policies and programs and submission of reports.
 
 Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO."
 

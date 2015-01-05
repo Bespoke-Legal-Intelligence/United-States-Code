@@ -14,7 +14,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall have a board of directors of 11 members with knowledge of international travel promotion and marketing, broadly representing various regions of the United States, who are United States citizens. Members of the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
+&emsp;&emsp;The Corporation shall have a board of directors of 11 members with knowledge of international travel promotion or marketing, broadly representing various regions of the United States, who are United States citizens. At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with section 7265 of title 15). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position. Members of the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
 
 &emsp;&emsp;&emsp;(i) 1 shall have appropriate expertise and experience in the hotel accommodations sector;
 
@@ -34,7 +34,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(ix) 1 shall have appropriate expertise and experience in immigration law and policy, including visa requirements and United States entry procedures; and
 
-&emsp;&emsp;&emsp;(x) 1 shall have appropriate expertise in the intercity passenger railroad business.
+&emsp;&emsp;&emsp;(x) 1 shall have appropriate expertise in the land or sea passenger transportation sector.
 
 #### (B) Incorporation
 
@@ -56,7 +56,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (E) Vacancies
 
-&emsp;&emsp;Any vacancy in the board shall not affect its power, but shall be filled in the manner required by this subsection. Any member whose term has expired may serve until the member's successor has taken office, or until the end of the calendar year in which the member's term has expired, whichever is earlier. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which that member's predecessor was appointed shall be appointed for the remainder of the predecessor's term. No member of the board shall be eligible to serve more than 2 consecutive full 3-year terms.
+&emsp;&emsp;Any vacancy in the board shall not affect its power, but shall be filled in the manner required by this subsection. Any member whose term has expired may serve until the member's successor has taken office, or until the end of the calendar year in which the member's term has expired, whichever is earlier. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which that member's predecessor was appointed shall be appointed for the remainder of the predecessor's term. Nomember of the board shall be eligible to serve more than 2 consecutive full 3-year terms.
 
 #### (F) Election of Chairman and Vice Chairman
 
@@ -68,7 +68,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (H) Compensation; expenses
 
-&emsp;&emsp;No member shall receive any compensation from the Federal government for serving on the Board. Each member of the Boardshall be paid actual travel expenses and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
+&emsp;&emsp;No member shall receive any compensation from the Federal government for serving on the Board. Each member of the Board shall be paid actual travel expenses and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
 
 #### (3) Officers and employees
 
@@ -110,7 +110,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(iii) to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, and other appropriate promotional activities;
 
-&emsp;&emsp;&emsp;(iv) to ensure that international travel benefits all States and the District of Columbia and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers; and
+&emsp;&emsp;&emsp;(iv) to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers; and
 
 &emsp;&emsp;&emsp;(v) to give priority to the Corporation's efforts with respect to countries and populations most likely to travel to the United States.
 
@@ -134,7 +134,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (7) Major campaigns
 
-&emsp;The board may not authorize the Corporation to obligate or expend more than$25,000,000 on any advertising campaign, promotion, or related effort unless—
+&emsp;The board may not authorize the Corporation to obligate or expend more than $25,000,000 on any advertising campaign, promotion, or related effort unless—
 
 &emsp;&emsp;(A) the obligation or expenditure is approved by an affirmative vote of at least 2/3 of the members of the board present at the meeting;
 
@@ -168,7 +168,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (2) Budget
 
-&emsp;The board shall transmit a copy of the Corporation's budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $5,000,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation's website.
+&emsp;The board shall transmit a copy of the Corporation's budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $500,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation's website.
 
 #### (3) Annual report to Congress
 
@@ -184,9 +184,17 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;(E) an explanation of the reason for any failure to achieve an objective established by the board and any revisions or alterations to the Corporation's objectives under paragraph (1);
 
-&emsp;&emsp;(F) a comprehensive and detailed report of the Corporation's operations and activities to promote tourism in rural and urban areas; and
+&emsp;&emsp;(F) a comprehensive and detailed report of the Corporation's operations and activities to promote tourism in rural and urban areas;
 
-&emsp;&emsp;(G) such recommendations as the Corporation deems appropriate.
+&emsp;&emsp;(G) a description of, and rationales for, the Corporation's efforts to focus on specific countries and populations;
+
+&emsp;&emsp;(H)(i) a description of, and rationales for, the Corporation's combination of media channels employed in meeting the promotional objectives of its marketing campaign;
+
+&emsp;&emsp;&emsp;(ii) the ratio in which such channels are used; and
+
+&emsp;&emsp;&emsp;(iii) a justification for the use and ratio of such channels; and
+
+&emsp;&emsp;(I) such recommendations as the Corporation deems appropriate.
 
 #### (4) Limitation on use of funds
 
@@ -206,7 +214,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (B) Subsequent years
 
-&emsp;&emsp;For each of fiscal years 2012 through 2015, from amounts deposited in the general fund of the Treasury during the preceding fiscalyear from fees under section 1187(h)(3)(B)(i)(I) of title 8, the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
+&emsp;&emsp;For each of fiscal years 2012 through 2020, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under section 1187(h)(3)(B)(i)(I) of title 8, the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
 #### (3) Matching requirement
 
@@ -224,7 +232,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(i) the fair market value of goods and services (including advertising) contributed to the Corporation for use under this section may be included in the determination; but
 
-&emsp;&emsp;&emsp;(ii) the fair market value of such goods and services may not account for more than 80 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
+&emsp;&emsp;&emsp;(ii) the fair market value of such goods and services may not account for more than 70 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
 
 #### (C) Right of refusal
 
@@ -234,6 +242,22 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;The Corporation may not obligate or expend funds in excess of the total amount received by the Corporation for a fiscal year from Federal and non-Federal sources.
 
+#### (E) Maintenance of an in-kind contributions policy
+
+&emsp;&emsp;The Corporation shall maintain an in-kind contributions policy.
+
+#### (F) Formalized procedures for in-kind contributions policy
+
+&emsp;&emsp;Not later than 90 days after December 16, 2014, the Secretary of Commerce, in coordination with the Corporation, shall establish formal, publicly available procedures specifying time frames and conditions for—
+
+&emsp;&emsp;&emsp;(i) making and agreeing to revisions of the Corporation's in-kind contributions policy; and
+
+&emsp;&emsp;&emsp;(ii) addressing and resolving disagreements between the Corporation and its partners, including the Secretary of Commerce, regarding the in-kind contributions policy.
+
+#### (G) Biannual review of procedures to determine fair market value of goods and services
+
+&emsp;&emsp;The Corporation and the Secretary of Commerce (or their designees) shall meet on a biannual basis to review the procedures to determine the fair market value of goods and services received from non-Federal sources by the Corporation under subparagraph (B).
+
 #### (4) Carryforward
 
 #### (A) Federal funds
@@ -242,57 +266,41 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (B) Matching funds
 
-&emsp;&emsp;Any amount received by the Corporation from non-Federal sources in fiscal year 2011, 2012, 2013, 2014, or 2015 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
+&emsp;&emsp;Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2020 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
 
-#### (e) Omitted
+#### (e) Repealed. Pub. L. 113–235, div. B, title VI, §607, Dec. 16, 2014, 128 Stat. 2220
 
-#### (f) Assessment authority
+#### (f) Accountability
 
-#### (1) In general
+#### (1) Performance plans and measures
 
-&emsp;Except as otherwise provided in this subsection, the Corporation may impose an annual assessment on United States members of the international travel and tourism industry (other than those described in subsection (b)(2)(A)(iii) or (H)) represented on the Board in proportion to their share of the aggregate international travel and tourism revenue of the industry. The Corporation shall be responsible for verifying, implementing, and collecting the assessment authorized by this subsection.
+&emsp;Not later than 90 days after December 16, 2014, the Corporation shall—
 
-#### (2) Initial assessment limited
+&emsp;&emsp;(A) establish performance metrics including, time frames, evaluation methodologies, and data sources for measuring—
 
-&emsp;The Corporation may establish the initial assessment after March 4, 2010, at no greater, in the aggregate, than $20,000,000.
+&emsp;&emsp;&emsp;(i) the effectiveness of marketing efforts by the Corporation, including its progress in achieving the long-term goals of increased traveler visits to and spending in the United States;
 
-#### (3) Referenda
+&emsp;&emsp;&emsp;(ii) whether increases in visitation and spending have occurred in response to external influences, such as economic conditions or exchange rates, rather than in response to the efforts of the Corporation; and
 
-#### (A) In general
+&emsp;&emsp;&emsp;(iii) any cost or benefit to the economy of the United States; and
 
-&emsp;&emsp;The Corporation may not impose an annual assessment unless—
+&emsp;&emsp;(B) conduct periodic program evaluations in response to the data resulting from measurements under subparagraph (A).
 
-&emsp;&emsp;&emsp;(i) the Corporation submits the proposed annual assessment to members of the industry in a referendum; and
+#### (2) GAO accountability
 
-&emsp;&emsp;&emsp;(ii) the assessment is approved by a majority of those voting in the referendum.
+&emsp;Not later than 60 days after the date on which the Corporation receives a report from the Government Accountability Office with recommendations for the Corporation, the Corporation shall submit a report to Congress that describes the actions taken by the Corporation in response to the recommendations in such report.
 
-#### (B) Procedural requirements
+#### (g) Procurement requirements
 
-&emsp;&emsp;In conducting a referendum under this paragraph, the Corporation shall—
+The Corporation shall—
 
-&emsp;&emsp;&emsp;(i) provide written or electronic notice not less than 60 days before the date of the referendum;
+&emsp;(1) establish a competitive procurement process; and
 
-&emsp;&emsp;&emsp;(ii) describe the proposed assessment or increase and explain the reasons for the referendum in the notice; and
+&emsp;(2) certify in its annual report to Congress under subsection (c)(3) that any contracts entered into were in compliance with the established competitive procurement process.
 
-&emsp;&emsp;&emsp;(iii) determine the results of the referendum on the basis of weighted voting apportioned according to each business entity's relative share of the aggregate annual United States international travel and tourism revenue for the industry per business entity, treating all related entities as a single entity.
+#### (h) to (j) Omitted
 
-#### (4) Collection
-
-#### (A) In general
-
-&emsp;&emsp;The Corporation shall establish a means of collecting the assessment that it finds to be efficient and effective. The Corporation may establish a late payment charge and rate of interest to be imposed on any person who fails to remit or pay to the Corporation any amount assessed by the Corporation under this section.
-
-#### (B) Enforcement
-
-&emsp;&emsp;The Corporation may bring suit in Federal court to compel compliance with an assessment levied by the Corporation under this section.
-
-#### (5) Investment of funds
-
-&emsp;Pending disbursement pursuant to a program, plan, or project, the Corporation mayinvest funds collected through assessments, and any other funds received by the Corporation, only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
-
-#### (g), (h) Omitted
-
-(Pub. L. 111–145, §9, Mar. 4, 2010, 124 Stat. 56; Pub. L. 111–198, §5(b), July 2, 2010, 124 Stat. 1357.)
+(Pub. L. 111–145, §9, Mar. 4, 2010, 124 Stat. 56; Pub. L. 111–198, §5(b), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §§602–605(a), 606, 607, Dec. 16, 2014, 128 Stat. 2218–2220.)
 
 #### References in Text
 
@@ -300,11 +308,41 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1
 
 #### Codification
 
-Section is comprised of section 9 of Pub. L. 111–145. Subsec. (e) of section 9 of Pub. L. 111–145 amended section 1187 of Title 8, Aliens and Nationality. Subsecs. (g) and (h) of section 9 of Pub. L. 111–145 enacted sections 2123 and 2123a of this title, respectively.
+Section is comprised of section 9 of Pub. L. 111–145. Subsec. (h) of section 9 of Pub. L. 111–145, as redesignated by Pub. L. 113–235, §606(1), amended section 1187 of Title 8, Aliens and Nationality. Subsecs. (i) and (j) of section 9 of Pub. L. 111–145, as redesignated by Pub. L. 113–235, §606(1), enacted sections 2123 and 2123a of this title, respectively.
 
 Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(A). Pub. L. 113–235, §602(1), in introductory provisions, substituted "promotion or marketing" for "promotion and marketing" and inserted "At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with section 7265 of title 15). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position." after "United States citizens."
+
+Subsec. (b)(2)(A)(x). Pub. L. 113–235, §602(2), substituted "land or sea passenger transportation sector" for "intercity passenger railroad business".
+
+Subsec. (b)(5)(A)(iv). Pub. L. 113–235, §605(a)(1), substituted "all States and territories of the United States and the District of Columbia," for "all States and the District of Columbia".
+
+Subsec. (c)(2). Pub. L. 113–235, §606(3), substituted "$500,000" for "$5,000,000".
+
+Subsec. (c)(3)(G) to (I). Pub. L. 113–235, §603, added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
+
+Subsec. (d)(2)(B). Pub. L. 113–235, §605(a)(2)(A), substituted "2020" for "2015".
+
+Subsec. (d)(3)(B)(ii). Pub. L. 113–235, §604(1), substituted "70 percent" for "80 percent".
+
+Subsec. (d)(3)(E) to (G). Pub. L. 113–235, §604(2), added subpars. (E) to (G).
+
+Subsec. (d)(4)(B). Pub. L. 113–235, §605(a)(2)(B), substituted "each of the fiscal years 2011 through 2020" for "fiscal year 2011, 2012, 2013, 2014, or 2015".
+
+Subsec. (e). Pub. L. 113–235, §607, struck out subsec. (e), which related to Corporation's authority to impose annual assessment on United States members of the international travel and tourism industry.
+
+Pub. L. 113–235, §606(1), (2), redesignated subsec. (f) as (e) and moved it to follow subsec. (d). Former subsec. (e) redesignated (h).
+
+Subsec. (f). Pub. L. 113–235, §606(4), added subsec. (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 113–235, §606(4), added subsec. (g). Former subsec. (g) redesignated (i).
+
+Subsec. (h). Pub. L. 113–235, §606(1), redesignated subsec. (e) as (h). Former subsec. (h) redesignated (j).
+
+Subsecs. (i), (j). Pub. L. 113–235, §606(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
 <b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–198, §5(b)(1), (2), substituted "The" for "For fiscal year 2010, the" and "monthly, immediately following the collection of fees under section 1187(h)(3)(B)(i)(I) of title 8," for "quarterly, beginning on January 1, 2010,".
 

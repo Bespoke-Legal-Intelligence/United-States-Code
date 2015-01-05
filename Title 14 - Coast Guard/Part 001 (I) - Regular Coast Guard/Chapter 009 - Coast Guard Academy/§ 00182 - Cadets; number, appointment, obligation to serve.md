@@ -32,7 +32,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (c).
 
-(e) In this section, "commissioned service obligation", with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary, any later date up to the eighth anniversary of such appointment.
+(e) In this section, "commissioned service obligation", with respect to an officer who is agraduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary, any later date up to the eighth anniversary of such appointment.
 
 (f)(1) This section does not apply to a cadet who is not a citizen or national of the United States.
 

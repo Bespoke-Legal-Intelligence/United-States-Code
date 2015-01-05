@@ -106,7 +106,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 In this section:
 
-&emsp;(1) The term "fissile materials" means plutonium, highly-enriched uranium, or othermaterial capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
+&emsp;(1) The term "fissile materials" means plutonium, highly-enriched uranium, or other material capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
 
 &emsp;(2) The term "radiological materials" includes Americium-241, Californium-252, Cesium-137, Cobalt-60, Iridium-192, Plutonium-238, Radium-226, Strontium-90, Curium-244, and irradiated items containing such materials, or other materials designated by the Secretary of Energy for purposes of this paragraph.
 

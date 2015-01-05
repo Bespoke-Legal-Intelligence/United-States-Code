@@ -26,7 +26,7 @@ It shall be unlawful for any developer or agent, directly or indirectly, to make
 
 #### (b) Revocation of nonexempt contract or agreement at option of purchaser or lessee; time limit
 
-Any contract or agreement for the sale or lease of a lot not exempt under section 1702 ofthis title may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws, and such contract or agreement shall clearly provide this right.
+Any contract or agreement for the sale or lease of a lot not exempt under section 1702 of this title may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws, and such contract or agreement shall clearly provide this right.
 
 #### (c) Revocation of contract or agreement at option of purchaser or lessee where required property report not supplied
 

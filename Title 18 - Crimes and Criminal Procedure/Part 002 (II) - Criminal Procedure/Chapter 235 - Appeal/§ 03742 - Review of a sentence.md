@@ -146,7 +146,7 @@ Subsec. (f)(1). Pub. L. 108–21, §401(d)(3)(B), inserted "the sentence" before
 
 Subsec. (f)(2). Pub. L. 108–21, §401(d)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "is outside the applicable guideline range and is unreasonable or was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
 
-&emsp;"(A) if it determines that the sentence is too high and the appeal has been filed under subsection (a), itshall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
+&emsp;"(A) if it determines that the sentence is too high and the appeal has been filed under subsection (a), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
 
 &emsp;"(B) if it determines that the sentence is too low and the appeal has been filed under subsection (b), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;".
 
@@ -182,7 +182,7 @@ Subsec. (b)(3). Pub. L. 100–690, §7103(a)(3), added par. (3) and struck out f
 
 &emsp;"(B) the sentence specified in a plea agreement, if any, under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure; or".
 
-Subsec. (b)(4). Pub. L. 100–690, §7103(a)(5)(A), added par. (4) and struck out former par. (4) which read as follows: "was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or less than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure;".
+Subsec. (b)(4). Pub. L. 100–690, §7103(a)(5)(A), added par. (4) and struck out former par. (4) which read as follows: "was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainlyunreasonable or less than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure;".
 
 Subsec. (c). Pub. L. 100–690, §7103(a)(8), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -220,7 +220,7 @@ Subsec. (e)(2)(B). Pub. L. 99–646, §73(a)(2), substituted provision directing
 
 #### Change of Name
 
-Words "Magistrate Judge" and "United States magistrate judge" substituted for "Magistrate" and"United States magistrate", respectively, in subsec. (g) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "Magistrate Judge" and "United States magistrate judge" substituted for "Magistrate" and "United States magistrate", respectively, in subsec. (g) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1987 Amendment
 

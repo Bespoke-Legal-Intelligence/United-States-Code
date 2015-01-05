@@ -12,11 +12,11 @@ An Americas Framework Agreement with an eligible country shall—
 
 &emsp;(2) require that country to make interest payments under section 2430e(b)(1) of this title into an Americas Fund;
 
-&emsp;(3) require that country to make prompt disbursements from the Americas Fund to the administering body described in subsection (c) of this section;
+&emsp;(3) require that country to make prompt disbursements from the Americas Fund to the administering body described in subsection (c);
 
 &emsp;(4) when appropriate, seek to maintain the value of the local currency resources of the Americas Fund in terms of United States dollars;
 
-&emsp;(5) specify, in accordance with subsection (d) of this section, the purposes for which amounts in an Americas Fund may be used; and
+&emsp;(5) specify, in accordance with subsection (d), the purposes for which amounts in an Americas Fund may be used; and
 
 &emsp;(6) contain reasonable provisions for the enforcement of the terms of the agreement.
 
@@ -50,7 +50,7 @@ An Americas Framework Agreement with an eligible country shall—
 
 &emsp;The administering body—
 
-&emsp;&emsp;(A) shall receive proposals for grant assistance from eligible grant recipients (as determined under subsection (e) of this section) and make grants to eligible grant recipients in accordance with the priorities agreed upon in the Americas Framework Agreement, consistent with subsection (d) of this section;
+&emsp;&emsp;(A) shall receive proposals for grant assistance from eligible grant recipients (as determined under subsection (e)) and make grants to eligible grant recipients in accordance with the priorities agreed upon in the Americas Framework Agreement, consistent with subsection (d);
 
 &emsp;&emsp;(B) shall be responsible for the management of the program and oversight of grant activities funded from resources of the Americas Fund;
 

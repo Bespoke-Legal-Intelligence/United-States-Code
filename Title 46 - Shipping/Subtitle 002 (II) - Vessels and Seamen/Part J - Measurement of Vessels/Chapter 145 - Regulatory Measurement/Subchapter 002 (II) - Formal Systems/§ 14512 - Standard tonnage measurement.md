@@ -18,5 +18,5 @@ Section 14512(b) authorizes the Secretary to attach an appendix to a vessel's re
 
 #### References in Text
 
-Sections 4151 and 4153 of the Revised Statutes, referred to in subsec. (a), were classified to sections 75 and 77, respectively, of the former Appendix to this title and were repealed by Pub. L. 99–509, title V, §5104(b), Oct. 21, 1986, 100 Stat. 1928.
+Sections 4151 and 4153 of the Revised Statutes, referred to in subsec. (a), were classified to sections 75and 77, respectively, of the former Appendix to this title and were repealed by Pub. L. 99–509, title V, §5104(b), Oct. 21, 1986, 100 Stat. 1928.
 

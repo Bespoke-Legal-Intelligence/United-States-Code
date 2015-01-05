@@ -34,7 +34,7 @@ Multiparty, Multiforum Jurisdiction.—(1) Notwithstanding the provisions of sub
 
 &emsp;(B) the defendant is a party to an action which is or could have been brought, in whole or in part, under section 1369 in a United States district court and arises from the same accident as the action in State court, even if the action to be removed could not have been brought in a district court as an original matter.
 
-> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which thedefendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
+> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
 
 (2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) <sup>1</sup> has made a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
 
@@ -82,7 +82,7 @@ Subsec. (a). Pub. L. 112–63, §103(a)(2), inserted heading and in text struck 
 
 Subsec. (b). Pub. L. 112–63, §103(a)(3), amended subsec. (b) generally. Prior to amendment, text read as follows: "Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or laws of the United States shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought."
 
-Subsec. (c). Pub. L. 112–63, §103(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: "Whenever a separate and independent claim or cause of action within the jurisdiction conferred by section 1331 of this title is joined with one or more otherwise non-removable claims or causes of action, the entirecase may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates."
+Subsec. (c). Pub. L. 112–63, §103(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: "Whenever a separate and independent claim or cause of action within the jurisdiction conferred by section 1331 of this title is joined with one or more otherwise non-removable claims or causes of action, the entire case may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates."
 
 Subsec. (d). Pub. L. 112–63, §103(a)(5), inserted heading.
 
@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 112–63, §103(a)(7), inserted heading.
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–63 effective upon the expiration of the 30-day period beginning on Dec. 7, 2011, and applicable to any action or prosecution commenced on or after such effective date, with provisions for treatment of cases removed to Federal court, see section 105 of Pub. L. 112–63, set out as a note under section 1332 of this title.
+Amendment by Pub. L. 112–63 effective upon the expiration of the 30-day period beginning on Dec. 7, 2011,and applicable to any action or prosecution commenced on or after such effective date, with provisions for treatment of cases removed to Federal court, see section 105 of Pub. L. 112–63, set out as a note under section 1332 of this title.
 
 #### Effective Date of 2002 Amendment
 

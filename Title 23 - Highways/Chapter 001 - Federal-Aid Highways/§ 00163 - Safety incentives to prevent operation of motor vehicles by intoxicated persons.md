@@ -10,7 +10,7 @@ Grants.—For each fiscal year, funds authorized to carry out this section shall
 
 &emsp;(1) the amount authorized to carry out this section for the fiscal year; by
 
-&emsp;(2) the ratio that the amount of funds apportioned to each such State under section 402 for such fiscal year bears to the total amount of funds apportioned to all such States under section 402 for such fiscal year.
+&emsp;(2) the ratio that the amount of funds apportioned to each such State under section 402 forsuch fiscal year bears to the total amount of funds apportioned to all such States under section 402 for such fiscal year.
 
 (c)
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Withholding of Funds for Failure To Enact and Enforce Laws Relating to Driving While Intoxicated
 
-Pub. L. 106–346, §101(a) \[title III, §351\], Oct. 23, 2000, 114 Stat. 1356, 1356A–34, directed the Secretary to withhold a percentage, beginning in fiscal year 2004, of the amount required to be apportioned for Federal-aid highways to any State under former pars. (1), (3), and (4) of section 104(b) of this title, if a State had not enacted and was not enforcing a provision described in section 163(a) of this title, and provided for increase of the apportionment by an amount equal to such reduction if within 4 years from the date of the reduction the Secretary determined that such State had enacted and was enforcing a provision described in section 163(a) of this title, prior to repeal by Pub. L. 109–59, title I, §1407(c), Aug. 10, 2005, 119 Stat. 1231.
+Pub. L. 106–346, §101(a) \[title III, §351\], Oct. 23, 2000, 114 Stat. 1356, 1356A–34, directed the Secretary to withhold a percentage, beginning in fiscal year 2004, of the amount required to be apportioned for Federal-aid highways to any State under former pars. (1), (3), and\(4) of section 104(b) of this title, if a State had not enacted and was not enforcing a provision described in section 163(a) of this title, and provided for increase of the apportionment by an amount equal to such reduction if within 4 years from the date of the reduction the Secretary determined that such State had enacted and was enforcing a provision described in section 163(a) of this title, prior to repeal by Pub. L. 109–59, title I, §1407(c), Aug. 10, 2005, 119 Stat. 1231.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

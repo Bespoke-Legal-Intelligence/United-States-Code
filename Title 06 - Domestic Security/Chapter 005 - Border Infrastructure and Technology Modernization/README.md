@@ -3,8 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [1401\.](%C2%A7%2001401%20-%20Definitions.md) | Definitions. |
-| [1402\.](%C2%A7%2001402%20-%20Port%20of%20Entry%20Infrastructure%20Assessment%20Study.md) | Port of Entry Infrastructure Assessment Study. |
-| [1403\.](%C2%A7%2001403%20-%20National%20Land%20Border%20Security%20Plan.md) | National Land Border Security Plan. |
+| 1402, 1403. Repealed. |  |
+| 1403\. | National Land Border Security Plan. |
 | [1404\.](%C2%A7%2001404%20-%20Port%20of%20entry%20technology%20demonstration%20program.md) | Port of entry technology demonstration program. |
 | [1405\.](%C2%A7%2001405%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -16,7 +16,6 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01401 - Definitions](%C2%A7%2001401%20-%20Definitions.md)
-- [&sect; 01402 - Port of Entry Infrastructure Assessment Study](%C2%A7%2001402%20-%20Port%20of%20Entry%20Infrastructure%20Assessment%20Study.md)
-- [&sect; 01403 - National Land Border Security Plan](%C2%A7%2001403%20-%20National%20Land%20Border%20Security%20Plan.md)
+- [&sect; 01402, 1403 - Repealed. Pub. L. 113&#8211;188, title X, &sect;1001(b), Nov. 26, 2014, 128 Stat. 2022](%C2%A7%2001402%2C%201403%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93188%2C%20title%20X%2C%20%C2%A71001%28b%29%2C%20Nov.%2026%2C%202014%2C%20128%20Stat.%202022.md)
 - [&sect; 01404 - Port of entry technology demonstration program](%C2%A7%2001404%20-%20Port%20of%20entry%20technology%20demonstration%20program.md)
 - [&sect; 01405 - Authorization of appropriations](%C2%A7%2001405%20-%20Authorization%20of%20appropriations.md)

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Service, is authorized to carry out a demonstration project to award grants for the provision of telemental health services to Indian youth who—
+&emsp;The Secretary, acting through the Service, is authorized to carry out a demonstration project to award grants for the provision oftelemental health services to Indian youth who—
 
 &emsp;&emsp;(A) have expressed suicidal ideas;
 
@@ -84,7 +84,7 @@
 
 &emsp;Subject to paragraph (2), to be eligible to receive a grant under subsection (a), an Indian tribe or tribal organization shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
-&emsp;&emsp;(A) a description of the project that the Indian tribe or tribal organization will carryout using the funds provided under the grant;
+&emsp;&emsp;(A) a description of the project that the Indian tribe or tribal organization will carry out using the funds provided under the grant;
 
 &emsp;&emsp;(B) a description of the manner in which the project funded under the grant would—
 

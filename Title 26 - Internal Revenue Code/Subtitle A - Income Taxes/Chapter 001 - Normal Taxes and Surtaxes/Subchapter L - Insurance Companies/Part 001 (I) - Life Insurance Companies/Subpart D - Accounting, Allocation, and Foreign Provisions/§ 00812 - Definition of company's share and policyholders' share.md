@@ -112,7 +112,7 @@ For purposes of this section, the term "gross investment income" means the sum o
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the term "100 percent dividend" means any dividend if the percentage used for purposes of determining the deduction allowable under section 243, 244, or 245(b) is 100 percent.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the term "100 percent dividend" means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
 
 #### (B) Certain dividends out of tax-exempt interest, etc.
 
@@ -120,13 +120,13 @@ For purposes of this section, the term "gross investment income" means the sum o
 
 #### (C) Certain dividends received by foreign corporations
 
-&emsp;&emsp;The term "100 percent dividends" does not include any dividend described in section 805(a)(4)(E) (relating to certain dividends in the case of foreign corporations).
+&emsp;&emsp;The term "100 percent dividends" does not include any dividend described in section805(a)(4)(E) (relating to certain dividends in the case of foreign corporations).
 
 #### (f) No double counting
 
 Under regulations, proper adjustments shall be made in the application of this section to prevent an item from being counted more than once.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, §1821(i), Oct. 22, 1986, 100 Stat. 2840; Pub. L. 100–203, title X, §10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, §1018(h)(1), title II, §2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608; Pub. L. 104–188, title I, §1602(b)(2), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title X, §1084(b)(3), Aug. 5, 1997, 111 Stat. 955; Pub. L. 108–218, title II, §205(b)(4), Apr. 10, 2004, 118 Stat. 610.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, §1821(i), Oct. 22, 1986, 100 Stat. 2840; Pub. L. 100–203, title X, §10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, §1018(h)(1), title II, §2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608; Pub. L. 104–188, title I, §1602(b)(2), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title X, §1084(b)(3), Aug. 5, 1997, 111 Stat. 955; Pub. L. 108–218, title II, §205(b)(4), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### Codification
 
@@ -139,6 +139,8 @@ A prior section 812, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 127;
 Another prior section 812, act Aug. 16, 1954, ch. 736, §812, as added Mar. 13, 1956, ch. 83, §2, 70 Stat. 45, related to reserve and other policy liability deduction, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(2)(A). Pub. L. 113–295 struck out ", 244," after "section 243".
 
 <b>2004</b>—Subsec. (b)(3)(A). Pub. L. 108–218 substituted "section 808" for "sections 808 and 809".
 
@@ -162,13 +164,19 @@ Subsec. (c). Pub. L. 99–514, §1821(i)(3), amended subsec. (c) generally. Prio
 
 Subsec. (g). Pub. L. 99–514, §1821(i)(4), added subsec. (g).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2004, see section 205(c) of Pub. L. 108–218, set out as a note under section 807 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changesin contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
+Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 

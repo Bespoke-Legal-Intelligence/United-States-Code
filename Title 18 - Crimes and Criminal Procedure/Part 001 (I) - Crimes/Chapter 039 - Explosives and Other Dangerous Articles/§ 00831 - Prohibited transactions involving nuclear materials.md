@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(D) uranium 233;
 
-&emsp;(2) the term "nuclear byproduct material" means any material containing any radioactive isotope created through an irradiation process in the operation of a nuclear reactor or accelerator;
+&emsp;(2) the term "nuclear byproduct material" means any material containing any radioactive isotope created through an irradiationprocess in the operation of a nuclear reactor or accelerator;
 
 &emsp;(3) the term "international organization" means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs;
 
@@ -204,7 +204,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(4) the threat that nuclear materials will be obtained and used by terrorist and other criminal organizations has increased substantially since the enactment in 1982 of the legislation that implemented the Convention on the Physical Protection of Nuclear Material, codified at section 831 of title 18, United States Code;
 
-&emsp;"(5) the successful efforts to obtain agreements from other countries to dismantle nuclear weaponshave resulted in increased packaging and transportation of nuclear materials, thereby decreasing the security of such materials by increasing the opportunity for unlawful diversion and theft;
+&emsp;"(5) the successful efforts to obtain agreements from other countries to dismantle nuclear weapons have resulted in increased packaging and transportation of nuclear materials, thereby decreasing the security of such materials by increasing the opportunity for unlawful diversion and theft;
 
 &emsp;"(6) the trafficking in the relatively more common, commercially available, and usable nuclear and byproduct materials creates the potential for significant loss of life and environmental damage;
 

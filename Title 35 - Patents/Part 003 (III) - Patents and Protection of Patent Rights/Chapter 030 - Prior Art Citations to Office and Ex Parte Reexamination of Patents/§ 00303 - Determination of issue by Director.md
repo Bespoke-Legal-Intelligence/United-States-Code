@@ -6,7 +6,7 @@
 
 (c) A determination by the Director pursuant to subsection (a) of this section that no substantial new question of patentability has been raised will be final and nonappealable. Upon such a determination, the Director may refund a portion of the reexamination fee required under section 302.
 
-(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, §1000(a)(9)\[title IV, §4732(a)(9)(A), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§13105(a), 13206(b)(1), Nov. 2, 2002, 116 Stat. 1900, 1905, 1906; Pub. L. 112–29, §§6(h)(1)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
+(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(9)(A), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§13105(a), 13206(b)(1), Nov. 2, 2002, 116 Stat. 1900, 1905, 1906; Pub. L. 112–29, §§6(h)(1)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
 
 #### Amendments
 

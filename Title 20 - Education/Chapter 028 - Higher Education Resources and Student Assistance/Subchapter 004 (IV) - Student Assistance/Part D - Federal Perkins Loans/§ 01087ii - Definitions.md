@@ -20,7 +20,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–39 substituted "and the term 'early intervention services' has the meaning given the term in section 1432 of this title." for "and the term 'qualified professional provider of early intervention services' has the meaning specified in section 1472(2) of this title."
+<b>2009</b>—Subsec. (c). Pub. L. 111–39 substituted "and the term 'early intervention services' has the meaninggiven the term in section 1432 of this title." for "and the term 'qualified professional provider of early intervention services' has the meaning specified in section 1472(2) of this title."
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–446 substituted "sections 1401 and 1432" for "sections 1401(a)(1) and 1472(1)".
 

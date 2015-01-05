@@ -19,12 +19,14 @@
 | [2012\.](%C2%A7%2002012%20-%20Support%20and%20services%20for%20eligible%20organizations%20and%20activities%20outside%20Department%20of%20Defense.md) | Support and services for eligible organizations and activities outside Department of Defense. |
 | [2013\.](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md) | Training at non-Government facilities. |
 | [2014\.](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md) | Administrative actions adversely affecting military training or other readiness activities. |
-| [2015\.](%C2%A7%2002015%20-%20Payment%20of%20expenses%20to%20obtain%20professional%20credentials.md) | Payment of expenses to obtain professional credentials. |
+| [2015\.](%C2%A7%2002015%20-%20Program%20to%20assist%20members%20in%20obtaining%20professional%20credentials.md) | Program to assist members in obtaining professional credentials. |
 | [2016\.](%C2%A7%2002016%20-%20Undergraduate%20nurse%20training%20program%20establishment%20through%20agreement%20with%20academic%20institution.md) | Undergraduate nurse training program: establishment through agreement with academic institution. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title V, §551(b), Dec. 19, 2014, 128 Stat. 3377, substituted "Program to assist members in obtaining professional credentials" for "Payment of expenses to obtain professional credentials" in item 2015.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title V, §541(b), Dec. 26, 2013, 127 Stat. 762, added item 2006a.
 
@@ -154,5 +156,5 @@ Educational Institution Defined.—In this section, the term 'educational instit
 - [&sect; 02012 - Support and services for eligible organizations and activities outside Department of Defense](%C2%A7%2002012%20-%20Support%20and%20services%20for%20eligible%20organizations%20and%20activities%20outside%20Department%20of%20Defense.md)
 - [&sect; 02013 - Training at non-Government facilities](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md)
 - [&sect; 02014 - Administrative actions adversely affecting military training or other readiness activities](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md)
-- [&sect; 02015 - Payment of expenses to obtain professional credentials](%C2%A7%2002015%20-%20Payment%20of%20expenses%20to%20obtain%20professional%20credentials.md)
+- [&sect; 02015 - Program to assist members in obtaining professional credentials](%C2%A7%2002015%20-%20Program%20to%20assist%20members%20in%20obtaining%20professional%20credentials.md)
 - [&sect; 02016 - Undergraduate nurse training program establishment through agreement with academic institution](%C2%A7%2002016%20-%20Undergraduate%20nurse%20training%20program%20establishment%20through%20agreement%20with%20academic%20institution.md)

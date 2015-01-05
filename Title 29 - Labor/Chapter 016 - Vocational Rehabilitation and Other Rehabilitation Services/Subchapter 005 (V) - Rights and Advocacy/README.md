@@ -16,3 +16,4 @@
 - [&sect; 00794d - Electronic and information technology](%C2%A7%2000794d%20-%20Electronic%20and%20information%20technology.md)
 - [&sect; 00794e - Protection and advocacy of individual rights](%C2%A7%2000794e%20-%20Protection%20and%20advocacy%20of%20individual%20rights.md)
 - [&sect; 00794f - Establishment of standards for accessible medical diagnostic equipment](%C2%A7%2000794f%20-%20Establishment%20of%20standards%20for%20accessible%20medical%20diagnostic%20equipment.md)
+- [&sect; 00794g - Limitations on use of subminimum wage](%C2%A7%2000794g%20-%20Limitations%20on%20use%20of%20subminimum%20wage.md)

@@ -10,7 +10,7 @@ Formula.—The monthly retired pay of a member entitled to such pay under this s
 
 &emsp;&emsp;(A) the member's retired pay base (as computed under section 1406(c) or 1407 of this title), by
 
-&emsp;&emsp;(B) the retired pay multiplier prescribed in section 1409 of this title for the number of years credited to the member under section 1405 of this title.
+&emsp;&emsp;(B) the retired pay multiplier prescribed in section 1409 of this title for the number ofyears credited to the member under section 1405 of this title.
 
 &emsp;(2)
 

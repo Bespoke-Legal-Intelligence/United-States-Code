@@ -2,23 +2,27 @@
 
 (a) The authorized strengths of the Army, Navy, Air Force, and Marine Corps in reserve commissioned officers, other than commissioned warrant officers and officers on an active-duty list, in an active status are as follows:
 
-&emsp;&emsp;Army
+&nbsp;
+
+<i> </i>
+
+<i> </i>
+
+Army
 
 275,000&nbsp;&nbsp;
 
-&emsp;&emsp;Air Force
+Air Force
 
 200,000&nbsp;&nbsp;
 
-&emsp;&emsp;Navy
+Navy
 
 150,000&nbsp;&nbsp;
 
-&emsp;&emsp;Marine Corps
+Marine Corps
 
 24,500.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (b) The authorized strengths prescribed by subsection (a) may not be exceeded unless—
 

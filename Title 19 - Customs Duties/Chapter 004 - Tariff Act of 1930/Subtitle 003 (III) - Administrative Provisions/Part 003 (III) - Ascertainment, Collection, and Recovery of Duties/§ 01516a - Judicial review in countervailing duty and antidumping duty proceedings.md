@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(v) An injurious effect determination by the Commission under section 1671c(h) or 1673c(h) of this title.
 
-&emsp;&emsp;&emsp;(vi) A determination by the administering authority as to whether a particular type of merchandise is within the class or kind of merchandise described in an existing finding of dumping or antidumping or countervailing duty order.
+&emsp;&emsp;&emsp;(vi) A determination by the administering authority as to whether a particulartype of merchandise is within the class or kind of merchandise described in an existing finding of dumping or antidumping or countervailing duty order.
 
 &emsp;&emsp;&emsp;(vii) A determination by the administering authority or the Commission under section 3538 of this title concerning a determination under subtitle IV of this chapter.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) any interested party seeking review of the determination under paragraph (1), (2), or (3) of this subsection has provided timely notice under subsection (g)(3)(B) of this section.
 
-> &emsp;&emsp;If such an interested party files a summons and complaint under this subsection afterdismissal by the binational panel, and if a request for an extraordinary challenge committee is made with respect to the decision by the binational panel to dismiss—
+> &emsp;&emsp;If such an interested party files a summons and complaint under this subsection after dismissal by the binational panel, and if a request for an extraordinary challenge committee is made with respect to the decision by the binational panel to dismiss—
 
 &emsp;&emsp;&emsp;(I) judicial review under this subsection shall be stayed during consideration by the committee of the request, and
 
@@ -118,7 +118,7 @@
 
 #### (3) Effect of decisions by NAFTA or United States-Canada binational panels
 
-&emsp;In making a decision in any action brought under subsection (a) of this section, a court of the United States is not bound by, but may take into consideration, a final decision of a binational panel or extraordinary challenge committee convened pursuant to article 1904 of the NAFTA or of the Agreement.
+&emsp;In making a decision in any action brought under subsection (a) of this section, a court ofthe United States is not bound by, but may take into consideration, a final decision of a binational panel or extraordinary challenge committee convened pursuant to article 1904 of the NAFTA or of the Agreement.
 
 #### (c) Liquidation of entries
 
@@ -274,7 +274,7 @@ For purposes of this section—
 
 #### (C) Commencement of review
 
-&emsp;&emsp;Notwithstanding the time limits in subsection (a) of this section, within 30 days after the date of publication in the Federal Register of notice that binational panel review has been completed, an interested party who is a party to the proceeding in connection with which the matter arises may commence an action under subparagraph (A) or (B) by filing an action in accordance with the rules of the court.
+&emsp;&emsp;Notwithstanding the time limits in subsection (a) of this section, within 30 days after the date of publication in the FederalRegister of notice that binational panel review has been completed, an interested party who is a party to the proceeding in connection with which the matter arises may commence an action under subparagraph (A) or (B) by filing an action in accordance with the rules of the court.
 
 #### (D) Transfer of actions to appropriate court
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (iii) Application of suspension
 
-&emsp;&emsp;&emsp;If the interested party requesting continued suspension of liquidation under clause (i) is a foreign manufacturer, producer, or exporter, or a United States importer, the continued suspension of liquidation shall apply only to entries of merchandise manufactured, produced, exported, or imported by that particular manufacturer, producer, exporter, or importer. If the interested party requesting the continued suspension of liquidation under clause (i) is an interested party described in subparagraph (C), (D), (E), or (F) of section 1677(9) of this title, the continued suspension of liquidation shall apply only to entries which could be affected by a decision of the binational panel convened under chapter 19 of the NAFTA or of the Agreement.
+&emsp;&emsp;&emsp;If the interested party requesting continued suspension of liquidation under clause (i) is a foreign manufacturer, producer, or exporter, or a United States importer, the continued suspension of liquidation shall apply only to entries of merchandise manufactured, produced, exported, or imported by that particularmanufacturer, producer, exporter, or importer. If the interested party requesting the continued suspension of liquidation under clause (i) is an interested party described in subparagraph (C), (D), (E), or (F) of section 1677(9) of this title, the continued suspension of liquidation shall apply only to entries which could be affected by a decision of the binational panel convened under chapter 19 of the NAFTA or of the Agreement.
 
 #### (iv) Judicial review
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 #### (B) Application if subparagraph (A) held unconstitutional
 
-&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions ofthis subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (8) Requests for binational panel review
 
@@ -368,7 +368,7 @@ For purposes of this section—
 
 #### (C) Limitation on request for binational panel review
 
-&emsp;&emsp;Absent a request by an interested party under subparagraph (A), the United States may not request binational panel review of a determination under article 1904 of the NAFTA or the Agreement.
+&emsp;&emsp;Absent a request by an interested party under subparagraph (A), the United States may not request binational panel review of adetermination under article 1904 of the NAFTA or the Agreement.
 
 #### (9) Representation in panel proceedings
 
@@ -428,7 +428,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) an interested party that is a person of that country and that was a party to the panel or committee review, or
 
-&emsp;&emsp;&emsp;&emsp;(III) an interested party that is a person of that country and that was a party to the proceeding in connection with which panel review was requested, but only if the time period for filing notices of appearance in the panel review has not expired.
+&emsp;&emsp;&emsp;&emsp;(III) an interested party that is a person of that country and that was a partyto the proceeding in connection with which panel review was requested, but only if the time period for filing notices of appearance in the panel review has not expired.
 
 #### (D) Transfer for judicial review upon settlement
 
@@ -508,7 +508,7 @@ Subsec. (g)(1). Pub. L. 103–182, §411(4)(B), substituted "free trade area cou
 
 Subsec. (g)(2). Pub. L. 103–182, §411(4)(C), inserted "of the NAFTA or" after "article 1904" in introductory provisions.
 
-Subsec. (g)(3)(A). Pub. L. 103–182, §411(4)(D), in cl. (i), substituted "nor the relevant FTA country" for "nor Canada" and inserted "of the NAFTA or" before "of the Agreement", in cl. (ii), substituted "nor the relevant FTA country" for "nor Canada", in cl. (iii), inserted "of the NAFTA or" before "of the Agreement" and struck out "or" at end, in cl. (iv), struck out "under paragraph (2)(A)" before "is not reviewable" and substituted a comma for period at end, and added cls. (v) and (vi).
+Subsec. (g)(3)(A). Pub. L. 103–182, §411(4)(D), in cl. (i), substituted "nor the relevant FTA country" for "nor Canada" and inserted "of the NAFTA or" before "of the Agreement", in cl. (ii), substituted "nor the relevant FTA country" for "nor Canada", in cl. (iii), inserted"of the NAFTA or" before "of the Agreement" and struck out "or" at end, in cl. (iv), struck out "under paragraph (2)(A)" before "is not reviewable" and substituted a comma for period at end, and added cls. (v) and (vi).
 
 Subsec. (g)(3)(B). Pub. L. 103–182, §411(4)(E), substituted first two sentences for former sentences which read as follows: "A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) of this section only if the party seeking to commence review has provided timely notice of its intent to commence such review to the United States Secretary, the Canadian Secretary, all interested parties who were parties to the proceeding in connection with which the matter arises, and the administering authority or the Commission, as appropriate. Such notice is provided timely if the notice is delivered by no later than the date that is 20 days after the date described in subparagraph (A) or (B) of subsection (a)(5) of this section that is applicable to such determination."
 
@@ -604,7 +604,7 @@ Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to civil actions pending on, or filed on or after, Oct. 30,1984, see section 626(b)(2) of Pub. L. 98–573, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to civil actions pending on, or filed on or after, Oct. 30, 1984, see section 626(b)(2) of Pub. L. 98–573, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1982 Amendment
 

@@ -6,7 +6,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 &emsp;(1) the possession or enjoyment of, or the right to the income from, the property, or
 
-&emsp;(2) the right, either alone or in conjunction with any person, to designate the persons whoshall possess or enjoy the property or the income therefrom.
+&emsp;(2) the right, either alone or in conjunction with any person, to designate the persons who shall possess or enjoy the property or the income therefrom.
 
 #### (b) Voting rights
 
@@ -26,7 +26,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 This section shall not apply to a transfer made before March 4, 1931; nor to a transfer made after March 3, 1931, and before June 7, 1932, unless the property transferred would have been includible in the decedent's gross estate by reason of the amendatory language of the joint resolution of March 3, 1931 (46 Stat. 1516).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 382; Pub. L. 87–834, §18(a)(2)(D), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2009(a), Oct. 4, 1976, 90 Stat. 1893; Pub. L. 95–600, title VII, §702(i)(1), (2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 100–203, title X, §10402(a), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 100–647, title III, §3031(a)(1), (b)–(e), (g), Nov. 10, 1988, 102 Stat. 3634–3638; Pub. L. 101–508, title XI, §11601(a), Nov. 5, 1990, 104 Stat. 1388–490.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 382; Pub. L. 87–834, §18(a)(2)(D), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2009(a), Oct. 4, 1976, 90 Stat. 1893; Pub. L. 95–600, title VII, §702(i)(1), (2),Nov. 6, 1978, 92 Stat. 2931; Pub. L. 100–203, title X, §10402(a), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 100–647, title III, §3031(a)(1), (b)–(e), (g), Nov. 10, 1988, 102 Stat. 3634–3638; Pub. L. 101–508, title XI, §11601(a), Nov. 5, 1990, 104 Stat. 1388–490.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Clarification of effective date.—For purposes of section 10402(b) of the Reven
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10402(b), Dec. 22, 1987, 101 Stat. 1330–432, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1987, but only in the case of property transferred after December 17, 1987." \[For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.\]
+Pub. L. 100–203, title X, §10402(b), Dec. 22, 1987, 101 Stat. 1330–432, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1987, but only in the case of property transferred after December 17, 1987." \[For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.\]
 
 #### Effective Date of 1978 Amendment
 

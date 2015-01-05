@@ -46,7 +46,7 @@ Provisions somewhat similar to those in par. (1) of this section were contained 
 
 <b>1993</b>—Pub. L. 103–182, §655(1), (5), substituted catchline for one which read "Vessels not required to enter" and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "The following vessels shall not be required to make entry at the customhouse:".
 
-Par. (3). Pub. L. 103–182, §655(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Vessels carrying passengers on excursion from the United States Virgin Islands to the British Virgin Islands and returning, and licensed yachts or undocumented American pleasure vessels not engaged in trade: <i>Provided</i>, That such vessels do not in any way violate the customs or navigation laws of the United States and have not visited any hovering vessel: <i>Provided further</i>, That the master of any such vessel which has on board any article required by law to be entered shall be required to report such article to the appropriate customs officer within twenty-four hours after arrival."
+Par. (3). Pub. L. 103–182, §655(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows:"Vessels carrying passengers on excursion from the United States Virgin Islands to the British Virgin Islands and returning, and licensed yachts or undocumented American pleasure vessels not engaged in trade: <i>Provided</i>, That such vessels do not in any way violate the customs or navigation laws of the United States and have not visited any hovering vessel: <i>Provided further</i>, That the master of any such vessel which has on board any article required by law to be entered shall be required to report such article to the appropriate customs officer within twenty-four hours after arrival."
 
 Pars. (4), (5). Pub. L. 103–182, §655(3), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -64,7 +64,7 @@ Par. (6). Pub. L. 103–182, §655(3), (4), redesignated par. (5) as (6) and sub
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 ofPub. L. 106–476, set out as a note under section 58c of this title.
+Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
 
 #### Effective Date of 1984 Amendment
 

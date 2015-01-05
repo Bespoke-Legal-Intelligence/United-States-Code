@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) the debtor has no obligation to repay the money, redeem the collateral, or buy back the property at a stipulated price; and
 
-&emsp;&emsp;(C) neither the debtor nor the trustee have exercised any right to redeem provided under the contract or State law, in a timely manner as provided under State law and section 108(b); or
+&emsp;&emsp;(C) neither the debtor nor the trustee have exercised any right to redeem provided under the contract or State law, in a timely manner as provided under State law and section 108(b);
 
 &emsp;(9) any interest in cash or cash equivalents that constitute proceeds of a sale by the debtor of a money order that is made—
 
@@ -108,7 +108,19 @@
 
 &emsp;&emsp;(B) under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),
 
-> &emsp;unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition.
+> &emsp;unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or
+
+&emsp;(10) funds placed in an account of a qualified ABLE program (as defined in section 529A(b) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
+
+&emsp;&emsp;(A) only if the designated beneficiary of such account was a child, stepchild, grandchild, or stepgrandchild of the debtor for the taxable year for which funds were placed in such account;
+
+&emsp;&emsp;(B) only to the extent that such funds—
+
+&emsp;&emsp;&emsp;(i) are not pledged or promised to any entity in connection with any extension of credit; and
+
+&emsp;&emsp;&emsp;(ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
+
+&emsp;&emsp;(C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
 
 > Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
 
@@ -124,9 +136,9 @@
 
 (e) In determining whether any of the relationships specified in paragraph (5)(A) or (6)(A) of subsection (b) exists, a legally adopted child of an individual (and a child who is a member of an individual's household, if placed with such individual by an authorized placement agency for legal adoption by such individual), or a foster child of an individual (if such child has as the child's principal place of abode the home of the debtor and is a member of the debtor's household) shall be treated as a child of such individual by blood.
 
-(f) Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
+(f) Notwithstanding any other provision of this title, property that is held by a debtor that is acorporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, §225(a), title III, §323, title XII, §§1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201; Pub. L. 111–327, §2(a)(22), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, §225(a), title III, §323, title XII, §§1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201; Pub. L. 111–327, §2(a)(22), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, §104(a), Dec. 19, 2014, 128 Stat. 4063.)
 
 #### Adjustment of Dollar Amounts
 
@@ -136,7 +148,7 @@
 
 #### legislative statements
 
-Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor's interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to theestate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act §206, 7 U.S.C. 196 (1976).
+Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor's interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to the estate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act §206, 7 U.S.C. 196 (1976).
 
 Section 541(c)(2) follows the position taken in the House bill and rejects the position taken in the Senate amendment with respect to income limitations on a spend-thrift trust.
 
@@ -152,7 +164,7 @@ Property of the estate: The Senate amendment provided that property of the estat
 
 As to withheld taxes, the House amendment deletes the rule in the Senate bill as unnecessary since property of the estate does not include the beneficial interest in property held by the debtor as a trustee. Under the Internal Revenue Code of 1954 (section 7501) \[26 U.S.C. 7501\], the amounts of withheld taxes are held to be a special fund in trust for the United States. Where the Internal Revenue Service can demonstrate that the amounts of taxes withheld are still in the possession of the debtor at the commencement of the case, then if a trust is created, those amounts are not property of the estate. Compare <i>In re Shakesteers Coffee Shops</i>, 546 F.2d 821 (9th Cir. 1976) with <i>In re Glynn Wholesale Building Materials, Inc</i>. (S.D. Ga. 1978) and <i>In re Progress Tech Colleges, Inc</i>., 42 Aftr 2d 78–5573 (S.D. Ohio 1977).
 
-Where it is not possible for the Internal Revenue Service to demonstrate that the amounts of taxes withheld are still in the possession of the debtor at the commencement of the case, present law generally includes amounts of withheld taxes as property of the estate. See, e.g., <i>United States v. Randall</i>, 401 U.S. 513 (1973) \[91 S. Ct. 991, 28 L.Ed.2d 273\] and <i>In re Tamasha Town and Country Club</i>, 483 F.2d 1377 (9th Cir. 1973). Nonetheless, a serious problem exists where "trust fund taxes" withheld from others are held to be property of the estate where the withheld amounts are commingled with other assets of the debtor. The courts should permit the use of reasonable assumptions under which the Internal Revenue Service, and other tax authorities, can demonstrate that amounts of withheld taxes are still in the possession of the debtor at the commencement of the case. For example, where the debtor had commingled that amount of withheld taxes in his general checking account, it might be reasonable to assume that any remaining amounts in that account on the commencement of the case are the withheld taxes. In addition, Congress may consider future amendments to the Internal Revenue Code \[title 26\] making clear that amounts of withheld taxes are held by the debtor in a trust relationship and, consequently, that such amounts are not property of the estate.
+Where it is not possible for the Internal Revenue Service to demonstrate that the amounts of taxes withheld are still in the possession of the debtor at the commencement of the case, present law generally includes amounts of withheld taxes as property of the estate. See, e.g., <i>United States v. Randall</i>, 401 U.S. 513 (1973) \[91 S. Ct. 991, 28 L.Ed.2d 273\] and <i>In re Tamasha Town and Country Club</i>, 483 F.2d 1377 (9th Cir. 1973). Nonetheless, a serious problem exists where "trust fund taxes" withheld from others are held to be property of the estate where the withheld amounts are commingled with other assets of the debtor. The courts should permit the use of reasonable assumptions under which the Internal Revenue Service, and other tax authorities, can demonstrate that amounts of withheld taxes are still in the possession of the debtor at the commencement ofthe case. For example, where the debtor had commingled that amount of withheld taxes in his general checking account, it might be reasonable to assume that any remaining amounts in that account on the commencement of the case are the withheld taxes. In addition, Congress may consider future amendments to the Internal Revenue Code \[title 26\] making clear that amounts of withheld taxes are held by the debtor in a trust relationship and, consequently, that such amounts are not property of the estate.
 
 #### senate report no. 95–989
 
@@ -160,7 +172,7 @@ This section defines property of the estate, and specifies what property becomes
 
 Though this paragraph will include choses in action and claims by the debtor against others, it is not intended to expand the debtor's rights against others more than they exist at the commencement of the case. For example, if the debtor has a claim that is barred at the time of the commencement of the case by the statute of limitations, then the trustee would not be able to pursue that claim, because he too would be barred. He could take no greater rights than the debtor himself had. But see proposed 11 U.S.C. 108, which would permit the trustee a tolling of the statute of limitations if it had not run before the date of the filing of the petition.
 
-Paragraph (1) has the effect of overruling <i>Lockwood v. Exchange Bank</i>, 190 U.S. 294 (1903), because it includes as property of the estate all property of the debtor, even that needed for a fresh start. After the propertycomes into the estate, then the debtor is permitted to exempt it under proposed 11 U.S.C. 522, and the court will have jurisdiction to determine what property may be exempted and what remains as property of the estate. The broad jurisdictional grant in proposed 28 U.S.C. 1334 would have the effect of overruling <i>Lockwood</i> independently of the change made by this provision.
+Paragraph (1) has the effect of overruling <i>Lockwood v. Exchange Bank</i>, 190 U.S. 294 (1903), because it includes as property of the estate all property of the debtor, even that needed for a fresh start. After the property comes into the estate, then the debtor is permitted to exempt it under proposed 11 U.S.C. 522, and the court will have jurisdiction to determine what property may be exempted and what remains as property of the estate. The broad jurisdictional grant in proposed 28 U.S.C. 1334 would have the effect of overruling <i>Lockwood</i> independently of the change made by this provision.
 
 Paragraph (1) also has the effect of overruling <i>Lines v. Frederick</i>, 400 U.S. 18 (1970).
 
@@ -182,11 +194,13 @@ Section 541(e) \[enacted as (d)\] confirms the current status under the Bankrupt
 
 The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7) and (f), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10) and (f), is classified generally to Title 26, Internal Revenue Code.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(10). Pub. L. 113–295 added par. (10).
 
 <b>2010</b>—Subsec. (b)(6)(B). Pub. L. 111–327 substituted "section 529(b)(6)" for "section 529(b)(7)".
 
@@ -233,6 +247,10 @@ Subsec. (c)(1)(B). Pub. L. 98–353, §456(b)(2), substituted "taking" for "the 
 Subsec. (d). Pub. L. 98–353, §456(c), inserted "(1) or (2)" after "(a)".
 
 Subsec. (e). Pub. L. 98–353, §456(d), struck out subsec. (e) which read as follows: "The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate."
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable with respect to cases commenced under this title on or after Dec. 19, 2014, see section 104(d) of Pub. L. 113–295, set out as a note under section 521 of this title.
 
 #### Effective Date of 2005 Amendment
 

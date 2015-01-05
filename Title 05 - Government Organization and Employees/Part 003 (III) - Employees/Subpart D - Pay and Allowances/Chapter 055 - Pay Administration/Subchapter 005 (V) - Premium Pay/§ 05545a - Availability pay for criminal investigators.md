@@ -2,9 +2,9 @@
 
 (a) For purposes of this section—
 
-&emsp;(1) the term “available” refers to the availability of a criminal investigator and means that an investigator shall be considered generally and reasonably accessible by the agency employing such investigator to perform unscheduled duty based on the needs of an agency;
+&emsp;(1) the term "available" refers to the availability of a criminal investigator and means that an investigator shall be considered generally and reasonably accessible by the agency employing such investigator to perform unscheduled duty based on the needs of an agency;
 
-&emsp;(2) the term “criminal investigator” means a law enforcement officer as defined under section 5541(3) (other than an officer occupying a position under title II of Public Law 99–399, subject to subsection (k)) who is required to—
+&emsp;(2) the term "criminal investigator" means a law enforcement officer as defined under section 5541(3) (other than an officer occupying a position under title II of Public Law 99–399, subject to subsection (k)) who is required to—
 
 &emsp;&emsp;(A) possess a knowledge of investigative techniques, laws of evidence, rules of criminal procedure, and precedent court decisions concerning admissibility of evidence, constitutional rights, search and seizure, and related issues;
 
@@ -28,13 +28,13 @@
 
 &emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed rather than initiate an investigation after a crime is committed;
 
-&emsp;(3) the term “unscheduled duty” means hours of duty a criminal investigator works, or is determined to be available for work, that are not—
+&emsp;(3) the term "unscheduled duty" means hours of duty a criminal investigator works, or is determined to be available for work, that are not—
 
 &emsp;&emsp;(A) part of the 40 hours in the basic work week of the investigator; or
 
 &emsp;&emsp;(B) overtime hours paid under section 5542; and
 
-&emsp;(4) the term “regular work day” means each day in the investigator's basic work week during which the investigator works at least 4 hours that are not overtime hours paid under section 5542 or hours considered part of section 5545a.
+&emsp;(4) the term "regular work day" means each day in the investigator's basic work week during which the investigator works at least 4 hours that are not overtime hours paid under section 5542 or hours considered part of section 5545a.
 
 (b) The purpose of this section is to provide premium pay to criminal investigators to ensure the availability of criminal investigators for unscheduled duty in excess of a 40 hour work week based on the needs of the employing agency.
 
@@ -86,7 +86,7 @@
 
 (j) Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
 
-(k)(1) For purposes of this section, the term “criminal investigator” includes a special agent occupying a position under title II of Public Law 99–399 if such special agent—
+(k)(1) For purposes of this section, the term "criminal investigator" includes a special agent occupying a position under title II of Public Law 99–399 if such special agent—
 
 &emsp;(A) meets the definition of such term under paragraph (2) of subsection (a) (applied disregarding the parenthetical matter before subparagraph (A) thereof); and
 
@@ -94,11 +94,11 @@
 
 (2) In applying subsection (h) with respect to a special agent under this subsection—
 
-&emsp;(A) any reference in such subsection to “basic pay” shall be considered to include amounts designated as “salary”;
+&emsp;(A) any reference in such subsection to "basic pay" shall be considered to include amounts designated as "salary";
 
 &emsp;(B) paragraph (2)(A) of such subsection shall be considered to include (in addition to the provisions of law specified therein) sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980; and
 
-&emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for “Office of Personnel Management” the following: “Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)”.
+&emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for "Office of Personnel Management" the following: "Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)".
 
 (Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(a), (c)(1)\], div. G, subdiv. B, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828.)
 
@@ -110,15 +110,15 @@ Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referr
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(b) \[title IV, §407(c)(1)\] and §2316(c)(1), amended subsec. (a)(2) identically, substituting “Public Law 99–399, subject to subsection (k))” for “Public Law 99–399)” in introductory provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(b) \[title IV, §407(c)(1)\] and §2316(c)(1), amended subsec. (a)(2) identically, substituting "Public Law 99–399, subject to subsection (k))" for "Public Law 99–399)" in introductory provisions.
 
 Subsec. (k). Pub. L. 105–277, §101(b) \[title IV, §407(a)\] and §2316(a), amended section identically, adding subsec. (k).
 
-<b>1996</b>—Subsec. (h)(2)(A). Pub. L. 104–208 struck out “8431,” after “8331(3),”.
+<b>1996</b>—Subsec. (h)(2)(A). Pub. L. 104–208 struck out "8431," after "8331(3),".
 
-<b>1995</b>—Subsec. (a)(2). Pub. L. 104–19, §901(1)(A), inserted “who” before “is required to” in introductory provisions.
+<b>1995</b>—Subsec. (a)(2). Pub. L. 104–19, §901(1)(A), inserted "who" before "is required to" in introductory provisions.
 
-Subsec. (a)(2)(E)(v). Pub. L. 104–19, §901(1)(B), inserted “and” at end.
+Subsec. (a)(2)(E)(v). Pub. L. 104–19, §901(1)(B), inserted "and" at end.
 
 Subsec. (i). Pub. L. 104–19, §902(a), added subsec. (i).
 
@@ -126,27 +126,27 @@ Subsec. (j). Pub. L. 104–19, §901(2), added subsec. (j).
 
 #### Effective Date of 1998 Amendment
 
-For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title IV, §407(d)\] and section 2316(d) of Pub. L. 105–277, set out as a note under section 5542 of this title.
+For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title IV, §407(d)\] and section 2316(d)of Pub. L. 105–277, set out as a note under section 5542 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §207\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–378, provided that: “This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided under the amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §207\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–378, provided that: "This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided under the amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations."
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–19, title I, §902(b), July 27, 1995, 109 Stat. 230, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after the 30th day following the date of enactment of this Act \[July 27, 1995\].”
+Pub. L. 104–19, title I, §902(b), July 27, 1995, 109 Stat. 230, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after the 30th day following the date of enactment of this Act \[July 27, 1995\]."
 
 #### Effective Date
 
-Pub. L. 103–329, title VI, §633(e), Sept. 30, 1994, 108 Stat. 2428, provided that: “The amendments made by this section \[enacting this section and amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor\] shall take effect on the first day of the first applicable pay period which begins on or after the later of October 1, 1994, or the 30th day following the date of enactment of this Act \[Sept. 30, 1994\], except that:
+Pub. L. 103–329, title VI, §633(e), Sept. 30, 1994, 108 Stat. 2428, provided that: "The amendments made by this section \[enacting this section and amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor\] shall take effect on the first day of the first applicable pay period which begins on or after the later of October 1, 1994, or the 30th day following the date of enactment of this Act \[Sept. 30, 1994\], except that:
 
-&emsp;“(1) Criminal investigators, employed in Offices of Inspectors General, who are not receiving administratively uncontrollable overtime compensation or who are receiving such premium pay at a rate less than 25 percent prior to the date of enactment of this Act, may implement availability pay at any time prior to September 30, 1995, after which date availability pay as authorized under this section shall be provided to such criminal investigators.
+&emsp;"(1) Criminal investigators, employed in Offices of Inspectors General, who are not receiving administratively uncontrollable overtime compensation or who are receiving such premium pay at a rate less than 25 percent prior to the date of enactment of this Act, may implement availability pay at any time prior to September 30, 1995, after which date availability pay as authorized under this section shall be provided to such criminal investigators.
 
-&emsp;“(2) Criminal investigators, employed by Offices of Inspectors General, who are receiving administratively uncontrollable overtime at a rate less than 25 percent, shall continue to receive this compensation at the same rate or higher until availability pay compensation is provided, which shall be no later than the last pay period ending on or before September 30, 1995.”
+&emsp;"(2) Criminal investigators, employed by Offices of Inspectors General, who are receiving administratively uncontrollable overtime at a rate less than 25 percent, shall continue to receive this compensation at the same rate or higher until availability pay compensation is provided, which shall be no later than the last pay period ending on or before September 30, 1995."
 
 #### Implementation
 
-Pub. L. 105–277, div. A, §101(b) \[title IV, §407(b)\], div. G, subdiv. B, title XXIII, §2316(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–828, provided that: “Not later than the date on which the amendments made by this section \[amending this section and section 5542 of this title\] take effect \[see Effective Date of 1998 Amendment note set out above\], each special agent of the Diplomatic Security Service who satisfies the requirements of subsection (k)(1) of section 5545a of title 5, United States Code, as amended by this section, and the appropriate supervisory officer, to be designated by the Secretary of State, shall make an initial certification to the Secretary of State that the special agent is expected to meet the requirements of subsection (d) of such section 5545a. The Secretary of State may prescribe procedures necessary to administer this subsection.”
+Pub. L. 105–277, div. A, §101(b) \[title IV, §407(b)\], div. G, subdiv. B, title XXIII, §2316(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–828, provided that: "Not later than the date on which the amendments made by this section \[amending this section and section 5542 of this title\] take effect \[see Effective Date of 1998 Amendment note set out above\], each special agent of the Diplomatic Security Service who satisfies the requirements of subsection (k)(1) of section 5545a of title 5, United States Code, as amended by this section, and the appropriate supervisory officer, to be designated by the Secretary of State, shall make an initial certification to the Secretary of State that the special agent is expected to meet the requirements of subsection (d) of such section 5545a. The Secretary of State may prescribe procedures necessary to administer this subsection."
 
 #### Transfer of Functions
 
@@ -154,5 +154,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Certification of Criminal Investigators
 
-Pub. L. 103–329, title VI, §633(f), Sept. 30, 1994, 108 Stat. 2428, provided that: “Not later than the effective date of this section \[see Effective Date note above\], each criminal investigator under section 5545a of title 5, United States Code, as added by this section, and the appropriate supervisory officer, to be designated by the head of the agency, shall make an initial certification to the head of the agency that the criminal investigator is expected to meet the requirements of subsection (d) of such section 5545a. The head of a law enforcement agency may prescribe procedures necessary to administer this paragraph.”
+Pub. L. 103–329, title VI, §633(f), Sept. 30, 1994, 108 Stat. 2428, provided that: "Not later than the effective date of this section \[see Effective Date note above\], each criminal investigator under section 5545a of title 5, United States Code, as added by this section, and the appropriate supervisory officer, to be designated by the head of the agency, shall make an initial certification to the head of the agency that the criminal investigator is expected to meet the requirements of subsection (d) of such section 5545a. The head of a law enforcement agency may prescribe procedures necessary to administer this paragraph."
 

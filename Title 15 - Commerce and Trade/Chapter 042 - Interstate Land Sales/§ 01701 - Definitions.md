@@ -18,7 +18,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(8) "interstate commerce" means trade or commerce among the several States or between any foreign country and any State;
 
-&emsp;(9) "State" includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States;
+&emsp;(9) "State" includes the several States, the District of Columbia, the Commonwealth ofPuerto Rico, and the territories and possessions of the United States;
 
 &emsp;(10) "purchaser" means an actual or prospective purchaser or lessee of any lot in a subdivision;
 
@@ -26,7 +26,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(12) "Bureau" means the Bureau of Consumer Financial Protection.
 
-(Pub. L. 90–448, title XIV, §1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93–383, title VIII, §812(a), Aug.22, 1974, 88 Stat. 736; Pub. L. 96–153, title IV, §401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100–628, title X, §1089(a), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, §1098A(4), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, §1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93–383, title VIII, §812(a), Aug. 22, 1974, 88 Stat. 736; Pub. L. 96–153, title IV, §401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100–628, title X, §1089(a), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, §1098A(4), July 21, 2010, 124 Stat. 2105.)
 
 #### Amendments
 

@@ -125,6 +125,7 @@
 | [1307\.](Subchapter%20007%20%28VII%29%20-%20Administrative%20and%20Miscellaneous%20Provisions/%C2%A7%2001307%20-%20Water%20rights%20and%20replacement.md) | Water rights and replacement. |
 | [1308\.](Subchapter%20007%20%28VII%29%20-%20Administrative%20and%20Miscellaneous%20Provisions/%C2%A7%2001308%20-%20Advance%20appropriations.md) | Advance appropriations. |
 | [1308a.](Subchapter%20007%20%28VII%29%20-%20Administrative%20and%20Miscellaneous%20Provisions/%C2%A7%2001308a%20-%20Use%20of%20civil%20penalty%20funds%20to%20reclaim%20lands.md) | Use of civil penalty funds to reclaim lands. |
+| [1308b.](Subchapter%20007%20%28VII%29%20-%20Administrative%20and%20Miscellaneous%20Provisions/%C2%A7%2001308b%20-%20Transfer%20of%20computer%20hardware%2C%20software%20and%20other%20technical%20equipment.md) | Transfer of computer hardware, software and other technical equipment. |
 | [1309\.](Subchapter%20007%20%28VII%29%20-%20Administrative%20and%20Miscellaneous%20Provisions/%C2%A7%2001309%20-%20Certification%20and%20training%20of%20blasters.md) | Certification and training of blasters. |
 | [1309a.](Subchapter%20007%20%28VII%29%20-%20Administrative%20and%20Miscellaneous%20Provisions/%C2%A7%2001309a%20-%20Subsidence.md) | Subsidence. |
 | [1309b.](Subchapter%20007%20%28VII%29%20-%20Administrative%20and%20Miscellaneous%20Provisions/%C2%A7%2001309b%20-%20Research.md) | Research. |

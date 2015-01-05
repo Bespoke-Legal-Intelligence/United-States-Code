@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Task Force, in cooperation with the Secretary, shall conduct ecological surveys of the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
+&emsp;&emsp;The Task Force, in cooperation with the Secretary, shall conduct ecological surveysof the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
 
 &emsp;&emsp;&emsp;(i) to be highly susceptible to invasion by aquatic nuisance species resulting from ballast water operations and other operations of vessels; and
 

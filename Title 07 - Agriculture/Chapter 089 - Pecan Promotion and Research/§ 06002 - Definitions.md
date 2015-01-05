@@ -80,7 +80,7 @@ As used in this chapter—
 
 #### (19) Promotion
 
-&emsp;The term "promotion" means any action taken by the Board, pursuant to this chapter, to present a favorable image of pecans to the public with the express intent of improving the competitive position of pecans in the marketplace and stimulating sales of pecans, including paid advertising.
+&emsp;The term "promotion" means any action taken by the Board, pursuant to this chapter,to present a favorable image of pecans to the public with the express intent of improving the competitive position of pecans in the marketplace and stimulating sales of pecans, including paid advertising.
 
 #### (20) Research
 

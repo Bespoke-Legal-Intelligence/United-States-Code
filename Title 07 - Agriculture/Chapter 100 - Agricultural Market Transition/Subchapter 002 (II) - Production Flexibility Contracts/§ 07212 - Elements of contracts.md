@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) the 1996 crop of a contract commodity; or
 
-&emsp;&emsp;(B) in the case of acreage that was subject to a conservation reserve contract described in subsection (a)(3) of this section, the date the production flexibility contract was entered into or expanded to cover the acreage.
+&emsp;&emsp;(B) in the case of acreage that was subject to a conservation reserve contract described in subsection (a)(3), the date the production flexibility contract was entered into or expanded to cover the acreage.
 
 #### (2) Ending date
 
@@ -68,7 +68,7 @@ At the time the Secretary enters into a contract, the Secretary shall provide an
 
 #### Production Flexibility Contract Payments
 
-Pub. L. 106–170, title V, §525, Dec. 17, 1999, 113 Stat. 1928, as amended by Pub. L. 107–147, title IV, §417(24)(A), Mar. 9, 2002, 116 Stat. 57, provided that: "Any option to accelerate the receipt of any payment under a production flexibility contract which is payable under the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7201 et seq.), as in effect on the date of the enactment of this Act \[Dec. 17, 1999\], shall be disregarded in determining the taxable year for which such payment is properly includible in gross income for purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
+Pub. L. 106–170, title V, §525, Dec. 17, 1999, 113 Stat. 1928, as amended by Pub. L. 107–147, title IV, §417(24)(A),Mar. 9, 2002, 116 Stat. 57, provided that: "Any option to accelerate the receipt of any payment under a production flexibility contract which is payable under the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7201 et seq.), as in effect on the date of the enactment of this Act \[Dec. 17, 1999\], shall be disregarded in determining the taxable year for which such payment is properly includible in gross income for purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
 
 Pub. L. 105–277, div. J, title II, §2012, Oct. 21, 1998, 112 Stat. 2681–902, provided that:
 

@@ -2,7 +2,7 @@
 
 #### (a) Improvement plan
 
-After the second year of the plan described in section 6319(a)(2) of this title, if a State educational agency determines, based on the reports described in section 6319(b)(1) of this title, that a local educational agency in the State has failed to make progress toward meeting the annual measurable objectives described in section 6319(a)(2) of this title, for 2 consecutive years, such local educational agency shall develop an improvement plan that will enable the agency to meet such annual measurable objectives and that specifically addresses issues that preventedthe agency from meeting such annual measurable objectives.
+After the second year of the plan described in section 6319(a)(2) of this title, if a State educational agency determines, based on the reports described in section 6319(b)(1) of this title, that a local educational agency in the State has failed to make progress toward meeting the annual measurable objectives described in section 6319(a)(2) of this title, for 2 consecutive years, such local educational agency shall develop an improvement plan that will enable the agency to meet such annual measurable objectives and that specifically addresses issues that prevented the agency from meeting such annual measurable objectives.
 
 #### (b) Technical assistance
 

@@ -28,7 +28,7 @@ Except as otherwise provided in this subchapter, and except as otherwise provide
 
 &emsp;(B) For purposes of this title, section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section 28(a) had been enacted before the enactment of this title and such section 28(a) shall have no effect on the amount of income tax liability required to be paid by any person to the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 906; Pub. L. 91–513, title III, §1102(j), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A,title I, §130(c), title VIII, §801(d)(9), July 18, 1984, 98 Stat. 661, 997; Pub. L. 99–514, title XII, §1275(b), Oct. 22, 1986, 100 Stat. 2598; Pub. L. 110–172, §11(a)(34)(B), Dec. 29, 2007, 121 Stat. 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 906; Pub. L. 91–513, title III, §1102(j), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §130(c), title VIII, §801(d)(9), July 18, 1984, 98 Stat. 661, 997; Pub. L. 99–514, title XII, §1275(b), Oct. 22, 1986, 100 Stat. 2598; Pub. L. 110–172, §11(a)(34)(B), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### References in Text
 

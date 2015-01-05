@@ -14,11 +14,11 @@ There is hereby authorized to be appropriated for expenditure after October 1, 1
 
 #### (c) Supplemental nutrition assistance program benefits and distribution of donated foods
 
-Notwithstanding the provisions of the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], the Secretary of Agriculture is authorized, upon the request of the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with section 5 and 7 of article II of the Constitution of the Northern Mariana Islands, and for the period during which such legislation is effective, (1) to implement a supplemental nutrition assistance program in part or all of the Northern Mariana Islands with such income and household standards of eligibility, deductions, and allotment values as the Secretary determines, after consultation with the Governor, to be suited to the economic and social circumstances of such islands: <i>Provided</i>, That in no event shall such income standards of eligibility exceed those in the forty-eight contiguous States, and (2) to distribute or permit a distribution of federally donated foods in any part of the Northern Mariana Islands for which the Governor has not requested that the supplemental nutrition assistance program be implemented. This authority shall remain in effectthrough September 30, 1981, and shall not apply to section 1421q–1 or 1574–1 <sup>1</sup> of this title.
+Notwithstanding the provisions of the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], the Secretary of Agriculture is authorized, upon the request of the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with section 5 and 7 of article II of the Constitution of the Northern Mariana Islands, and for the period during which such legislation is effective, (1) to implement a supplemental nutrition assistance program in part or all of the Northern Mariana Islands with such income and household standards of eligibility, deductions, and allotment values as the Secretary determines, after consultation with the Governor, to be suited to the economic and social circumstances of such islands: <i>Provided</i>, That in no event shall such income standards of eligibility exceed those in the forty-eight contiguous States, and (2) to distribute or permit a distribution of federally donated foods in any part of the Northern Mariana Islands for which the Governor has not requested that the supplemental nutrition assistance program be implemented. This authority shall remain in effect through September 30, 1981, and shall not apply to section 1421q–1 or 1574–1 <sup>1</sup> of this title.
 
 #### (d) Administration and enforcement of revenue and taxation provisions of Covenant
 
-(1) The Secretary of the Treasury is authorized and directed, upon the request of the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with sections 5 and 7 of article II of the Constitution of the Northern Mariana Islands, or upon receipt of a resolution adopted by both houses of the legislature of the Northern Mariana Islands accompanied by a letter of request from either the Governor or the Lieutenant Governor of the Northern Mariana Islands, without reimbursement or other cost to the government of the Northern Mariana Islands, to administer and enforce the provisions of section 601, 603, or 604 of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (Public Law 94–241; 90 Stat. 263, 269) and in order to administer and enforce the collection of any payroll tax or other tax measured by income which may be in force in the Northern Mariana Islands pursuant to section 602 of such Covenant. This authority shall continue until such time as the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with sections 5 and 7 of article II of the Constitution of the Northern Mariana Islands, requests the Secretary of the Treasury to discontinue the administration and enforcement of such taxes. The administration and enforcement of such taxes by the government of the Northern Mariana Islands shall begin on January 1 of the year following the year in which such Northern Mariana Islands law is enacted.
+(1) The Secretary of the Treasury is authorized and directed, upon the request of the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with sections 5 and 7 of article II of the Constitution of the Northern Mariana Islands, or upon receipt of a resolution adopted by both houses of the legislature of the Northern Mariana Islands accompanied by a letter of request from either theGovernor or the Lieutenant Governor of the Northern Mariana Islands, without reimbursement or other cost to the government of the Northern Mariana Islands, to administer and enforce the provisions of section 601, 603, or 604 of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (Public Law 94–241; 90 Stat. 263, 269) and in order to administer and enforce the collection of any payroll tax or other tax measured by income which may be in force in the Northern Mariana Islands pursuant to section 602 of such Covenant. This authority shall continue until such time as the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with sections 5 and 7 of article II of the Constitution of the Northern Mariana Islands, requests the Secretary of the Treasury to discontinue the administration and enforcement of such taxes. The administration and enforcement of such taxes by the government of the Northern Mariana Islands shall begin on January 1 of the year following the year in which such Northern Mariana Islands law is enacted.
 
 (2) For purposes of carrying out any administration and enforcement required by this subsection, the Secretary of the Treasury (hereinafter in this subsection referred to as the "Secretary"), or his delegate, at no cost to the Northern Marianas government, may (A) employ citizens of the Northern Mariana Islands (as defined by Article III of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States (approved, Public Law 94–241; 90 Stat. 265), or (B) use the services of employees of the government of the Northern Mariana Islands, upon agreement to pay such government for the use of such services. In addition, the Secretary, or his delegate, shall make every effort to assure that citizens of the Northern Mariana Islands (as so defined) are trained to ultimately assume the administration and enforcement duties required of the Secretary or his delegate under this section. Notwithstanding any other provision of law, the Secretary or his delegate is authorized to the maximum extent feasible in administering and enforcing the requested sections of the Covenant, to employ and train Northern Mariana Islands' citizens without regard to United States Civil Service hiring or job classification laws or any employment ceilings imposed upon the Secretary. The preceding sentence shall not exempt such Northern Mariana Islands' citizens so hired from any other laws affecting Federal or Internal Revenue Service employees and shall remain in effect until the end of the third full fiscal year following March 12, 1980.
 
@@ -52,13 +52,83 @@ March 12, 1980, referred to in subsec. (d)(2), was in the original "the date of 
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(HH), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977" and substituted "supplemental nutrition assistance program" for "food stamp program" in two places.
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–205 designated existing provisions as par. (1), inserted "or upon receipt of a resolution adopted by both houses of the legislature of the Northern Mariana Islands accompanied by a letter ofrequest from either the Governor or the Lieutenant Governor of the Northern Mariana Islands," after "Constitution of the Northern Mariana Islands," the first place appearing, and added pars. (2) and (3).
+<b>1980</b>—Subsec. (d). Pub. L. 96–205 designated existing provisions as par. (1), inserted "or upon receipt of a resolution adopted by both houses of the legislature of the Northern Mariana Islands accompanied by a letter of request from either the Governor or the Lieutenant Governor of the Northern Mariana Islands," after "Constitution of the Northern Mariana Islands," the first place appearing, and added pars. (2) and (3).
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(A), (B), (2)(HH) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
+#### Commonwealth of the Northern Mariana Islands Pilot Program
+
+Pub. L. 113–79, title IV, §4031, Feb. 7, 2014, 128 Stat. 816, provided that:
+
+"(a)
+
+Study.—
+
+&emsp;"(1)
+
+In general.—Prior to establishing the pilot program under subsection (b), the Secretary \[of Agriculture\] shall conduct a study to be completed not later than 2 years after the date of enactment of this Act \[Feb. 7, 2014\] to assess—
+
+&emsp;&emsp;"(A) the capabilities of the Commonwealth of the Northern Mariana Islands to operate the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) in a similar manner as the program is operated in the States (as defined in section 3 of that Act (7 U.S.C. 2012)); and
+
+&emsp;&emsp;"(B) alternative models of the supplemental nutrition assistance program operation and benefit delivery that best meet the nutrition assistance needs of the Commonwealth of the Northern Mariana Islands.
+
+&emsp;"(2)
+
+Scope.—The study conducted under paragraph (1)(A) shall assess the capability of the Commonwealth of the Northern Mariana Islands to fulfill the responsibilities of a State agency (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), including—
+
+&emsp;&emsp;"(A) extending and limiting participation to eligible households, as required by sections 5 and 6 of that Act (7 U.S.C. 2014, 2015);
+
+&emsp;&emsp;"(B) issuing benefits through EBT cards, as required by section 7 of that Act (7 U.S.C. 2016);
+
+&emsp;&emsp;"(C) maintaining the integrity of the program, including operation of a quality control system, as required by section 16(c) of that Act (7 U.S.C. 2025(c));
+
+&emsp;&emsp;"(D) implementing work requirements, including operating an employment and training program, as required by section 6(d) of that Act (7 U.S.C. 2015(d)); and
+
+&emsp;&emsp;"(E) paying a share of administrative costs with non-Federal funds, as required by section 16(a) of that Act (7 U.S.C. 2016(a) \[2025(a)\]).
+
+"(b)
+
+Establishment.—If the Secretary determines that a pilot program is feasible, the Secretary shall establish a pilot program for the Commonwealth of the Northern Mariana Islands to operate the supplemental nutrition assistance program in the same manner in which the program is operated in the States.
+
+"(c)
+
+Scope.—The Secretary shall use the information obtained from the study conducted under subsection (a) to establish the scope of the pilot program established under subsection (b).
+
+"(d)
+
+Report.—Not later than June 30, 2019, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the pilot program carried out under this section, including an analysis of the feasibility of operating the supplemental nutrition assistance program in the Commonwealth of the Northern Mariana Islands in the same manner in which the program is operated in the States.
+
+"(e)
+
+Funding.—
+
+&emsp;"(1)
+
+Study.—Of the funds made available under section 18(a)(1) of the Food and Nutrition Act of 2008 (7 U.S.C. 2027(a)(1)), the Secretary may use to conduct the study described in subsection (a) not more than $1,000,000 for each of fiscal years 2014 and 2015.
+
+&emsp;"(2)
+
+Pilot program.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), of the funds made available under section 18(a)(1) of the Food and Nutrition Act of 2008 (7 U.S.C. 2027(a)(1)), the Secretary may use to establish and carry out the pilot program under subsection (b), including the Federal costs for providing technical assistance to the Commonwealth of the Northern Mariana Islands, authorizing and monitoring retail food stores, and assessing pilot operations, not more than—
+
+&emsp;&emsp;&emsp;"(i) $13,500,000 for fiscal year 2016; and
+
+&emsp;&emsp;&emsp;"(ii) $8,500,000 for each of fiscal years 2017 and 2018.
+
+&emsp;&emsp;"(B)
+
+Exception.—If the Secretary determines that a pilot program described in subsection (b) is not feasible, the Secretary shall provide to the Commonwealth of the Northern Mariana Islands any unspent funds described in subparagraph (A), which shall—
+
+&emsp;&emsp;&emsp;"(i) be made available for obligation under the Commonwealth of the Northern Mariana Islands nutrition assistance program block grant in addition to any other funds made available for that grant; and
+
+&emsp;&emsp;&emsp;"(ii) remain available until expended."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

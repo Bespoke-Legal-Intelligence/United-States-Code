@@ -66,7 +66,7 @@ The reliquidation of an entry shall not open such entry so that a protest may be
 
 #### (e) Advance notice of certain determinations
 
-Except as provided in subsection (f) of this section, an exporter or producer referred to in subsection (c)(2)(E) of this section shall be provided notice in advance of an adverse determination of origin under section 3332 of this title. The Secretary may, by regulations, prescribe the time period in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
+Except as provided in subsection (f) of this section, an exporter or producer referred to in subsection (c)(2)(E) of this section shall be provided notice in advance of an adverse determination of origin under section 3332 of this title. The Secretary may, by regulations, prescribe the timeperiod in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
 
 #### (f) Denial of preferential treatment
 
@@ -190,7 +190,7 @@ Pub. L. 103–182, §412(a), inserted "the North American Free Trade Agreement o
 
 Subsec. (c)(1). Pub. L. 103–182, §208(1), inserted in fourth sentence ", or with respect to a determination of origin under section 3332 of this title," after "with respect to any one category of merchandise". See Construction of 1993 Amendment note below.
 
-Pub. L. 103–182, §645(3), substituted first two sentences, including subpars. (A) to (D), for former first sentence which read as follows: "A protest of a decision under subsection (a) of this section shall be filed in writing with the appropriate customs officer designated in regulations prescribed by the Secretary, setting forth distinctly and specifically each decision described in subsection (a) of this section as to which protest is made; each category of merchandise affected byeach such decision as to which protest is made; and the nature of each objection and reasons therefor." See Construction of 1993 Amendment note below.
+Pub. L. 103–182, §645(3), substituted first two sentences, including subpars. (A) to (D), for former first sentence which read as follows: "A protest of a decision under subsection (a) of this section shall be filed in writing with the appropriate customs officer designated in regulations prescribed by the Secretary, setting forth distinctly and specifically each decision described in subsection (a) of this section as to which protest is made; each category of merchandise affected by each such decision as to which protest is made; and the nature of each objection and reasons therefor." See Construction of 1993 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 103–182, §208(2), added subpar. (E) and redesignated former subpar. (E) as (F) and substituted "clauses (A) through (E)" for "clauses (A) through (D)". See Construction of 1993 Amendment note below.
 
@@ -294,7 +294,7 @@ Amendment by section 208 of Pub. L. 103–182 to be made after amendment by sect
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
@@ -324,7 +324,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

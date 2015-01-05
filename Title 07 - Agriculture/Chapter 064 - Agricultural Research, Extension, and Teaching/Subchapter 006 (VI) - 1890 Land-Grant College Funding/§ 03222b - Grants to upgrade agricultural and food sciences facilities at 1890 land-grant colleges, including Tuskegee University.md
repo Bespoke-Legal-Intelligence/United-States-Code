@@ -6,11 +6,11 @@ It is hereby declared to be the intent of Congress to assist the institutions el
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary of Agriculture for the purposes of carrying out the provisions of this section, $25,000,000 for each of fiscal years 2002 through 2012, and such sums shall remain available until expended.
+There are authorized to be appropriated to the Secretary of Agriculture for the purposes of carrying out the provisions of this section, $25,000,000 for each of fiscal years 2002 through 2018, and such sums shall remain available until expended.
 
 #### (c) Use of grant funds
 
-Four percent of the sums appropriated pursuant to this section shall be available to the Secretary for administration of this grants program. The remaining funds shall be available for grants to eligible institutions for the purpose of assisting them in the purchase of equipment and land, the planning, construction, alteration, or renovation of buildings to strengthen their capacity in the production of human capital in the food and agricultural sciences and can be used at the discretion of the eligible institutions in the areas of research, extension, and resident instruction or any combination thereof.
+Four percent of the sums appropriated pursuant to this section shall be available to the Secretary for administration of this grants program. The remaining funds shall be available for grants to eligible institutions for the purpose of assisting them in the purchase of equipment and land, the planning, construction, alteration, orrenovation of buildings to strengthen their capacity in the production of human capital in the food and agricultural sciences and can be used at the discretion of the eligible institutions in the areas of research, extension, and resident instruction or any combination thereof.
 
 #### (d) Method of awarding grants
 
@@ -24,7 +24,7 @@ Federal funds provided under this section may not be utilized for the payment of
 
 The Secretary may promulgate such rules and regulations as the Secretary may consider necessary to carry out the provisions of this section.
 
-(Pub. L. 95–113, title XIV, §1447, as added Pub. L. 101–624, title XVI, §1612(b), Nov. 28, 1990, 104 Stat. 3722; amended Pub. L. 104–127, title VIII, §813, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, §301(a)(9), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7109, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §7123, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, §4(a), title VII, §7123, June 18, 2008, 122 Stat. 1664, 1983.)
+(Pub. L. 95–113, title XIV, §1447, as added Pub. L. 101–624, title XVI, §1612(b), Nov. 28, 1990, 104 Stat. 3722; amended Pub. L. 104–127, title VIII, §813, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, §301(a)(9), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7109, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §7123, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, §4(a), title VII, §7123, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 113–79, title VII, §7112, Feb. 7, 2014, 128 Stat. 874.)
 
 #### References in Text
 
@@ -40,13 +40,15 @@ A prior section 1447 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 10
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b). Pub. L. 113–79 substituted "2018" for "2012".
+
 <b>2008</b>—Subsec. (b). Pub. L. 110–246, §7123, substituted "2012" for "2007".
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–171 substituted "$25,000,000 for each of fiscal years 2002 through 2007" for "$15,000,000 for each of fiscal years 1996 through 2002".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–185 substituted "through 2002" for "and 1997".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127 substituted ", $15,000,000 for each of fiscal years 1996 and 1997" for"$8,000,000 for each of the fiscal years 1991 through 1995".
+<b>1996</b>—Subsec. (b). Pub. L. 104–127 substituted ", $15,000,000 for each of fiscal years 1996 and 1997" for "$8,000,000 for each of the fiscal years 1991 through 1995".
 
 #### Effective Date of 2008 Amendment
 

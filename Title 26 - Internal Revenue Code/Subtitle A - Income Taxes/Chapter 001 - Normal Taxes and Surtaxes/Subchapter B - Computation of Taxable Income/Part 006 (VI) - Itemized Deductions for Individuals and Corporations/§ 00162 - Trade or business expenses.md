@@ -20,7 +20,7 @@ No deduction shall be allowed under subsection (a) for any contribution or gift 
 
 #### (1) Illegal payments to government officials or employees
 
-&emsp;No deduction shall be allowed under subsection (a) for any payment made, directly or indirectly, to an official or employee of any government, or of any agency or instrumentality of any government, if the payment constitutes an illegal bribe or kickback or, if the payment is to an official or employee of a foreign government, the payment is unlawful under the Foreign Corrupt Practices Act of 1977. The burden of proof in respect of the issue, for the purposes of this paragraph, as to whether a payment constitutes an illegal bribe or kickback (or is unlawful under the Foreign Corrupt Practices Act of 1977) shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
+&emsp;No deduction shall be allowed under subsection (a) for any payment made, directly or indirectly, to an official or employee of any government, or of any agency or instrumentality of any government, if the payment constitutes an illegal bribe or kickback or, if thepayment is to an official or employee of a foreign government, the payment is unlawful under the Foreign Corrupt Practices Act of 1977. The burden of proof in respect of the issue, for the purposes of this paragraph, as to whether a payment constitutes an illegal bribe or kickback (or is unlawful under the Foreign Corrupt Practices Act of 1977) shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
 
 #### (2) Other illegal payments
 
@@ -134,8 +134,6 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;(2) in settlement of any action brought under such section 4 on account of such violation or related violation.
 
-> The preceding sentence shall not apply with respect to any conviction or plea before January 1,1970, or to any conviction or plea on or after such date in a new trial following an appeal of a conviction before such date.
-
 #### (h) State legislators' travel expenses away from home
 
 #### (1) In general
@@ -158,7 +156,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;(A) the legislature was in session (including any day in which the legislature was not in session for a period of 4 consecutive days or less), or
 
-&emsp;&emsp;(B) the legislature was not in session but the physical presence of the individual was formally recorded at a meeting of a committee of such legislature.
+&emsp;&emsp;(B) the legislature was not in session but the physical presence of the individual wasformally recorded at a meeting of a committee of such legislature.
 
 #### (3) Election
 
@@ -166,7 +164,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (4) Section not to apply to legislators who reside near capitol
 
-&emsp;For taxable years beginning after December 31, 1980, this subsection shall not apply to any legislator whose place of residence within the legislative district which he represents is 50 or fewer miles from the capitol building of the State.
+&emsp;This subsection shall not apply to any legislator whose place of residence within the legislative district which he represents is 50 or fewer miles from the capitol building of the State.
 
 #### \[(i) Repealed. Pub. L. 101–239, title VI, §6202(b)(3)(A), Dec. 19, 1989, 103 Stat. 2233\]
 
@@ -248,7 +246,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;This subsection shall apply in the case of any individual treated as a partner under section 1372(a), except that—
 
-&emsp;&emsp;(A) for purposes of this subsection, such individual's wages (as defined in section 3121) from the S corporation shall be treated as such individual's earned income (within the meaning of section 401(c)(1)), and
+&emsp;&emsp;(A) for purposes of this subsection, such individual's wages (as defined in section 3121) from the S corporation shall be treated assuch individual's earned income (within the meaning of section 401(c)(1)), and
 
 &emsp;&emsp;(B) there shall be such adjustments in the application of this subsection as the Secretary may by regulations prescribe.
 
@@ -298,7 +296,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (E) Remuneration
 
-&emsp;&emsp;For purposes of this paragraph, the term "remuneration" includes any remuneration\(including benefits) in any medium other than cash, but shall not include—
+&emsp;&emsp;For purposes of this paragraph, the term "remuneration" includes any remuneration (including benefits) in any medium other than cash, but shall not include—
 
 &emsp;&emsp;&emsp;(i) any payment referred to in so much of section 3121(a)(5) as precedes subparagraph (E) thereof, and
 
@@ -320,7 +318,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;In the case of an applicable employer, no deduction shall be allowed under this chapter—
 
-&emsp;&emsp;&emsp;(i) in the case of executive remuneration for any applicable taxable year which is attributable to services performed by a covered executive during such applicable taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
+&emsp;&emsp;&emsp;(i) in the case of executive remuneration for any applicable taxable year which is attributable to services performed by acovered executive during such applicable taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
 
 &emsp;&emsp;&emsp;(ii) in the case of deferred deduction executive remuneration for any taxable year for services performed during any applicable taxable year by a covered executive, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
 
@@ -508,7 +506,7 @@ For purposes of subsection (a)(2), in the case of an individual who performs ser
 
 &emsp;&emsp;&emsp;<b>(B) deferred compensation and other deferred benefits, see section 404.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803; Pub. L. 111–148, title IX, §9014(a), title X, §10108(g)(1), Mar. 23, 2010, 124 Stat. 868, 913; Pub. L. 111–152, title I, §1004(d)(2), (3), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 111–240, title II, §2042(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 112–10, div. B, title VIII, §1858(b)(3), Apr. 15, 2011, 125 Stat. 169.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1),\(d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803; Pub. L. 111–148, title IX, §9014(a), title X, §10108(g)(1), Mar. 23, 2010, 124 Stat. 868, 913; Pub. L. 111–152, title I, §1004(d)(2), (3), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 111–240, title II, §2042(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 112–10, div. B, title VIII, §1858(b)(3), Apr. 15, 2011, 125 Stat. 169; Pub. L. 113–295, div. A, title II, §221(a)(23), (24), Dec. 19, 2014, 128 Stat. 4040.)
 
 #### References in Text
 
@@ -523,6 +521,10 @@ The Securities Exchange Act of 1934, referred to in subsec. (m)(2), (3)(B), (5)(
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (m)(5), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 101(a) of the Act enacted section 5211(a) of Title 12 and amended section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance. Section 113(c) of the Act is classified to section 5223(c) of Title 12. Section 120 of the Act is classified to section 5230 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g). Pub. L. 113–295, §221(a)(23), struck out concluding provisions which read as follows: "The preceding sentence shall not apply with respect to any conviction or plea before January 1, 1970, or to any conviction or plea on or after such date in a new trial following an appeal of a conviction before such date."
+
+Subsec. (h)(4). Pub. L. 113–295, §221(a)(24), substituted "This subsection" for "For taxable years beginning after December 31, 1980, this subsection".
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–10 struck out last sentence in concluding provisions which read as follows: "For purposes of paragraph (1), the amount of a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act shall be treated as an amount for compensation for personal services actually rendered."
 
@@ -641,7 +643,7 @@ Coverage relating to end stage renal disease.—The expenses paid or incurred by
 
 Group health plan.—For purposes of this subsection the term 'group health plan' means any plan of, or contributed to by, an employer to provide medical care (as defined in section 213(d) to his employees, former employees, or the families of such employees or former employees, directly or through insurance, reimbursement, or otherwise."
 
-Subsec. (k)(2)(B)(iv). Pub. L. 101–239, §7862(c)(3)(A), amended cl. (iv) as it existed prior to repeal of subsec. (k) by Pub. L. 100–647, by substituting "entitlement" for "eligibility" in heading and inserting "which doesnot contain any exclusion or limitation with respect to any preexisting condition of such beneficiary" after "or otherwise)" in subclause (I).
+Subsec. (k)(2)(B)(iv). Pub. L. 101–239, §7862(c)(3)(A), amended cl. (iv) as it existed prior to repeal of subsec. (k) by Pub. L. 100–647, by substituting "entitlement" for "eligibility" in heading and inserting "which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary" after "or otherwise)" in subclause (I).
 
 Subsec. (l)(2). Pub. L. 101–140 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "
 
@@ -777,6 +779,10 @@ Subsecs. (d), (e). Pub. L. 86–779, §8(a), added subsec. (d) and redesignated 
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–866, §5(a), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of this title.
@@ -907,7 +913,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 "(2)
 
-Transitional rule.—In the case of any year to which section 89 of the Internal Revenue Code of 1986does not apply, \[former\] section 162(m)(2)(B) of such Code shall be applied by substituting any nondiscrimination requirements otherwise applicable for the requirements of section 89 of such Code.
+Transitional rule.—In the case of any year to which section 89 of the Internal Revenue Code of 1986 does not apply, \[former\] section 162(m)(2)(B) of such Code shall be applied by substituting any nondiscrimination requirements otherwise applicable for the requirements of section 89 of such Code.
 
 "(3)
 
@@ -1043,7 +1049,7 @@ Limitation.—The amount taken into account as living expenses attributable to a
 
 Making and Effect of Election.—An election under this section shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe."
 
-\[Amendment of section 604 of Pub. L. 94–455 by section 1 of Pub. L. 96–178, which purported to substitute "January 1, 1979" for "January 1, 1978", was not executed because of the prior amendment by section 3(a)(2), (b) of Pub. L. 96–167 which substituted "January 1, 1981" for "January 1, 1978" in subsec. (a) and which struck out the last sentence of subsec. (d).\]
+\[Amendment of section 604 of Pub. L. 94–455 by section 1 of Pub. L. 96–178, which purported to substitute"January 1, 1979" for "January 1, 1978", was not executed because of the prior amendment by section 3(a)(2), (b) of Pub. L. 96–167 which substituted "January 1, 1981" for "January 1, 1978" in subsec. (a) and which struck out the last sentence of subsec. (d).\]
 
 #### Denial of Deduction for Amounts Paid or Incurred on Judgments in Suits Brought To Recover Price Increases in Purchase of New Principal Residence
 

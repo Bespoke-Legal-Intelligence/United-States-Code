@@ -8,7 +8,7 @@ Section 4503, act Aug. 16, 1954, ch. 736, 68A Stat. 534, related to exemption fo
 
 Prior sections 4504 and 4511 to 4514 were repealed by Pub. L. 87–456, title III, §302(d), May 24, 1962, 76 Stat. 77, effective with respect to articles entered or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, as provided by section 501(a) of Pub. L. 87–456.
 
-Section 4504, acts Aug. 16, 1954, ch. 736, 68A Stat. 535; May 29, 1956, ch. 342, §21(a), 70 Stat. 221, required the tax imposed by section 4501(b) to be levied, assessed,collected and paid in the same manner as a duty imposed by the Tariff Act of 1930.
+Section 4504, acts Aug. 16, 1954, ch. 736, 68A Stat. 535; May 29, 1956, ch. 342, §21(a), 70 Stat. 221, required the tax imposed by section 4501(b) to be levied, assessed, collected and paid in the same manner as a duty imposed by the Tariff Act of 1930.
 
 Section 4511, act Aug. 16, 1954, ch. 736, 68A Stat. 536, imposed a tax upon the processing of coconut oil, etc.
 

@@ -44,7 +44,7 @@ The Secretary of Defense shall transmit to Congress an annual report on the fina
 
 #### (i) Authority to lease non-excess property
 
-(1) Whenever the Chief Operating Officer of the Armed Forces Retirement Home considers it advantageous to the Retirement Home, the Secretary of Defense (acting on behalf of the ChiefOperating Officer) may lease to such lessee and upon such terms as the Secretary considers will promote the purpose and financial stability of the Retirement Home or be in the public interest, real or personal property that is—
+(1) Whenever the Chief Operating Officer of the Armed Forces Retirement Home considers it advantageous to the Retirement Home, the Secretary of Defense (acting on behalf of the Chief Operating Officer) may lease to such lessee and upon such terms as the Secretary considers will promote the purpose and financial stability of the Retirement Home or be in the public interest, real or personal property that is—
 
 &emsp;(A) under the control of the Retirement Home; and
 

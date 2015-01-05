@@ -58,7 +58,7 @@ Pub. L. 98–237, §10(b)(13), (words after cl. (13)), (d)(3) (related to (b)(13
 
 46 App.:1709(b) (last sentence).
 
-In subsection (a), the words "marine terminal operator, or ocean freight forwarder" are added because of 46 App. U.S.C. 1709(d)(3) and (5). The words "ocean freight forwarder" are substituted for "ocean transportation intermediaries, as defined by section 1702(17)(A) of this Appendix" in 46 App. U.S.C. 1709(d)(5) because the definition of "ocean transportation intermediary" in section 1702(17)(A) contains a definition of "ocean freight forwarder" which is restated as a separate definition.
+In subsection (a), the words "marine terminal operator, or ocean freight forwarder" are added because of 46 App. U.S.C. 1709(d)(3) and (5). The words "ocean freight forwarder" are substituted for "ocean transportation intermediaries, as defined by section 1702(17)(A) of thisAppendix" in 46 App. U.S.C. 1709(d)(5) because the definition of "ocean transportation intermediary" in section 1702(17)(A) contains a definition of "ocean freight forwarder" which is restated as a separate definition.
 
 In subsection (b), the words "does not prevent" are substituted for "Nothing . . . shall be construed to prevent" to eliminate unnecessary words.
 

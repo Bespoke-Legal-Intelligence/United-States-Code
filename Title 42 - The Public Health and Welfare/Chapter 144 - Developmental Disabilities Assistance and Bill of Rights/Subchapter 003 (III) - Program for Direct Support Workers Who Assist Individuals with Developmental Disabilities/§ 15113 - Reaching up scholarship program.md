@@ -16,7 +16,7 @@ To be eligible to receive a grant under this section, an entity shall be—
 
 #### (c) Application requirements
 
-To be eligible to receive a grant under this section, an eligible entity shall submit to theSecretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of—
+To be eligible to receive a grant under this section, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of—
 
 &emsp;(1) the basis for awarding the vouchers;
 

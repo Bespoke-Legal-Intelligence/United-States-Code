@@ -22,7 +22,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 #### (2) Programs of national significance
 
-&emsp;Of amounts appropriated or otherwise available to carry out this section for any fiscalyear, the Secretary shall reserve 5 percent to be provided for activities and projects of national significance or projects expected to have a significant impact in preventing the abuse of drugs by youth.
+&emsp;Of amounts appropriated or otherwise available to carry out this section for any fiscal year, the Secretary shall reserve 5 percent to be provided for activities and projects of national significance or projects expected to have a significant impact in preventing the abuse of drugs by youth.
 
 #### (3) Specified appropriations
 
@@ -68,7 +68,7 @@ In making grants under this section, the Secretary shall give priority to—
 
 &emsp;(5) projects that provide outreach to individuals of all ages who are at high risk of involvement with drug abuse;
 
-&emsp;(6) projects targeted to communities with the most serious drug abuse problems to enable such communities to develop programs that coordinate Federal, State, and local efforts to develop comprehensive, long-term, community-wide prevention and education strategies;
+&emsp;(6) projects targeted to communities with the most serious drug abuse problems to enable such communities to develop programs that coordinate Federal, State, and local efforts to develop comprehensive, long-term,community-wide prevention and education strategies;
 
 &emsp;(7) projects that seek to involve youth who are members of gangs or who may join a gang, in—
 
@@ -112,7 +112,7 @@ Financial assistance may be provided with a grant received under subsection (a)�
 
 &emsp;&emsp;(F) business organizations; and
 
-> &emsp;in consultation with local and State health departments and with community health ormental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
+> &emsp;in consultation with local and State health departments and with community health or mental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
 
 #### (2) Other activities and projects
 

@@ -12,8 +12,9 @@
 | [3306\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003306%20-%20Availability%20to%20public%20of%20certain%20intelligence%20funding%20information.md) | Availability to public of certain intelligence funding information. |
 | [3307\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003307%20-%20Communications%20with%20the%20Committees%20on%20Armed%20Services%20of%20the%20Senate%20and%20the%20House%20of%20Representatives.md) | Communications with the Committees on Armed Services of the Senate and the House of Representatives. |
 | [3308\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003308%20-%20Information%20access%20by%20the%20Comptroller%20General%20of%20the%20United%20States.md) | Information access by the Comptroller General of the United States. |
-| [3309\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003309%20-%20Annual%20report%20on%20advisory%20committees.md) | Annual report on advisory committees. |
+| [3309\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003309%20-%20Notification%20of%20establishment%20of%20advisory%20committee.md) | Notification of establishment of advisory committee. |
 | [3310\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003310%20-%20Annual%20report%20on%20United%20States%20security%20arrangements%20and%20commitments%20with%20other%20nations.md) | Annual report on United States security arrangements and commitments with other nations. |
+| [3311\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003311%20-%20Submittal%20to%20Congress%20by%20heads%20of%20elements%20of%20intelligence%20community%20of%20plans%20for%20orderly%20shutdown%20in%20event%20of%20absence%20of%20appropriations.md) | Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,6 +31,7 @@
 | [3327\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003327%20-%20Limitation%20on%20transfer%20of%20funds%20between%20CIA%20and%20Department%20of%20Defense%3B%20congressional%20notification%20required.md) | Limitation on transfer of funds between CIA and Department of Defense; congressional notification required. |
 | [3328\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003328%20-%20Study%20or%20plan%20of%20surrender%3B%20use%20of%20appropriations.md) | Study or plan of surrender; use of appropriations. |
 | [3329\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003329%20-%20Intelligence%20community%20contracting.md) | Intelligence community contracting. |
+| [3330\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003330%20-%20Reports%20to%20the%20intelligence%20community%20on%20penetrations%20of%20networks%20and%20information%20systems%20of%20certain%20contractors.md) | Reports to the intelligence community on penetrations of networks and information systems of certain contractors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -45,6 +47,7 @@
 | [3346\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003346%20-%20Compilation%20and%20organization%20of%20previously%20declassified%20records.md) | Compilation and organization of previously declassified records. |
 | [3347\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003347%20-%20Secrecy%20agreements%20used%20in%20intelligence%20activities.md) | Secrecy agreements used in intelligence activities. |
 | [3348\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003348%20-%20Reports%20relating%20to%20certain%20special%20access%20programs%20and%20similar%20programs.md) | Reports relating to certain special access programs and similar programs. |
+| [3349\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003349%20-%20Notification%20regarding%20the%20authorized%20public%20disclosure%20of%20national%20intelligence.md) | Notification regarding the authorized public disclosure of national intelligence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

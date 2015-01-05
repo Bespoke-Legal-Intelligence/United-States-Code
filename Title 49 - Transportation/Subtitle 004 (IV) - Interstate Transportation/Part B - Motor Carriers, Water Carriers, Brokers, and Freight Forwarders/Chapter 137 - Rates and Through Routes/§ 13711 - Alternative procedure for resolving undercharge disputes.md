@@ -32,7 +32,7 @@ Stay of Additional Compensation.—When a person proceeds under this section to 
 
 (d)
 
-Treatment.—Subsection (a) is an exception to the requirements of section 13702 and, for transportation provided before January 1, 1996, to the requirements of sections 10761(a) and 10762, as in effect on December 31, 1995, as such sections relate to a filed tariff rate and other general tariff requirements.
+Treatment.—Subsection (a) is an exception to the requirements of section 13702 and, for transportation provided before January 1, 1996, to the requirements of sections 10761(a) and10762, as in effect on December 31, 1995, as such sections relate to a filed tariff rate and other general tariff requirements.
 
 (e)
 

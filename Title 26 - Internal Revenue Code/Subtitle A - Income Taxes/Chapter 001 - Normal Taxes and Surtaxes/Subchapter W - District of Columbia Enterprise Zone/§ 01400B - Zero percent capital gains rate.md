@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (ii) Substantial improvement
 
-&emsp;&emsp;&emsp;For purposes of clause (i), property shall be treated as substantially improved by the taxpayer only if, during any 24-month period beginning after December 31, 1997, additions to basis with respect to such property in the hands of the taxpayer exceed the greater of—
+&emsp;&emsp;&emsp;For purposes of clause (i), property shall be treated as substantially improved by the taxpayer only if, during any 24-month period beginning after December 31, 1997,additions to basis with respect to such property in the hands of the taxpayer exceed the greater of—
 
 &emsp;&emsp;&emsp;&emsp;(I) an amount equal to the adjusted basis of such property at the beginning of such 24-month period in the hands of the taxpayer, or
 

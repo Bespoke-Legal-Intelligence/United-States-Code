@@ -20,7 +20,7 @@
 
 (3) Not more than $54,208,000 may be appropriated to the Secretary for the fiscal year ending on September 30, 1993, to pay costs of the mints. Not more than $965,000 of amounts appropriated pursuant to the preceding sentence shall remain available until expended for research and development.
 
-(b) To the extent the Secretary decides is necessary, the Secretary may use amounts received from depositors for refining bullion and the proceeds from the sale of byproducts (including spent acids from surplus bullion recovered in refining processes) to pay the costs of refining the bullion (including labor, material, waste, and loss on the sale of sweeps). The Secretary may not use amounts appropriated for the mints to pay those costs.
+(b) To the extent the Secretary decides is necessary, the Secretary may use amounts receivedfrom depositors for refining bullion and the proceeds from the sale of byproducts (including spent acids from surplus bullion recovered in refining processes) to pay the costs of refining the bullion (including labor, material, waste, and loss on the sale of sweeps). The Secretary may not use amounts appropriated for the mints to pay those costs.
 
 (c) The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
@@ -68,7 +68,7 @@ In subsection (a)(1), the words "Secretary of the Treasury shall deposit in the 
 
 In subsection (a)(2), the words "ending September 30" are added for clarity and consistency in the revised title. The words "to pay costs" are substituted for "for all expenditures (salaries and expenses)" for consistency in the revised title and to eliminate unnecessary words. The words "not herein otherwise provided for" are omitted as surplus.
 
-In subsection (b), the word "refining" is substituted for "parting and refining" for consistency in the revised chapter. The words "mints and assay offices" aresubstituted for "coinage mints and assay office at New York" because of the source provisions restated in section 5131(b) of the revised title. The words "pursuant to law" are omitted as surplus.
+In subsection (b), the word "refining" is substituted for "parting and refining" for consistency in the revised chapter. The words "mints and assay offices" are substituted for "coinage mints and assay office at New York" because of the source provisions restated in section 5131(b) of the revised title. The words "pursuant to law" are omitted as surplus.
 
 In subsection (c), the text of 31:253(less 18th–38th words) is omitted as superseded by the source provisions restated in section 321(c) of the revised title.
 

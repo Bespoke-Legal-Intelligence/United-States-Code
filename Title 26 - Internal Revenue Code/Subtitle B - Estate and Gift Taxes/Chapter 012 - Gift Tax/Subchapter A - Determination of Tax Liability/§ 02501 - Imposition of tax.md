@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a transfer of stock in a foreign corporation described in subparagraph (B) by a donor to whom section 877(b) appliesfor the taxable year which includes the date of the transfer—
+&emsp;&emsp;In the case of a transfer of stock in a foreign corporation described in subparagraph (B) by a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer—
 
 &emsp;&emsp;&emsp;(i) section 2511(a) shall be applied without regard to whether such stock is situated within the United States, and
 
@@ -156,7 +156,7 @@ Pub. L. 86–779, §4(e)(3), Sept. 14, 1960, 74 Stat. 1000, provided that: "The 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to gifts made after September 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 85–866 applicable to gifts made after September 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under section 2014 of this title.
 
 #### Election To Have Amendments by Title IV of the Economic Recovery Tax Act of 1981 Not Apply
 

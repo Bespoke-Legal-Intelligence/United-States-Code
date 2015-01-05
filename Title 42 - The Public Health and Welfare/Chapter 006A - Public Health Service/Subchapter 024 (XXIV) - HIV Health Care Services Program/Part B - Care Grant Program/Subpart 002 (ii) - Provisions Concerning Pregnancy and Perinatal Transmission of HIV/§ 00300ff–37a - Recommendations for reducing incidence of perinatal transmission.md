@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) For the most recent fiscal year for which the information is available, a determination of the number of newborn infants with HIV born in the United States with respect to whom the attending obstetrician for the birth did not know the HIV status of the mother.
 
-&emsp;&emsp;(B) A determination for each State of any barriers, including legal barriers, that prevent or discourage an obstetrician from making it a routine practice to offer pregnant women an HIV test and a routine practice to test newborn infants for HIV/AIDS in circumstances in which the obstetrician does not know the HIV status of the mother of the infant.
+&emsp;&emsp;(B) A determination for each State of any barriers, including legal barriers, that prevent or discourage an obstetrician from making it a routine practice to offer pregnant women an HIV test and a routine practice to test newborn infants for HIV/AIDS incircumstances in which the obstetrician does not know the HIV status of the mother of the infant.
 
 &emsp;&emsp;(C) Recommendations for each State for reducing the incidence of cases of the perinatal transmission of HIV, including recommendations on removing the barriers identified under subparagraph (B).
 

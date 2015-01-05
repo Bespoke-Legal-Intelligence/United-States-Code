@@ -10,9 +10,9 @@ Any information in any records kept by any department or agency of the Governmen
 
 #### (c) Reports on social security account numbers and earnings of aliens not authorized to work
 
-(1) Not later than 3 months after the end of each fiscal year (beginning with fiscal year 1996), the Commissioner of Social Security shall report to the Committees on the Judiciary of the House of Representatives and the Senate on the aggregate quantity of social security account numbers issued to aliens not authorized to be employed, with respect to which, in such fiscal year, earnings were reported to the Social Security Administration.
+(1) Not later than 3 months after the end of each fiscal year (beginning with fiscal year 1996),the Commissioner of Social Security shall report to the Committees on the Judiciary of the House of Representatives and the Senate on the aggregate quantity of social security account numbers issued to aliens not authorized to be employed, with respect to which, in such fiscal year, earnings were reported to the Social Security Administration.
 
-(2) If earnings are reported on or after January 1, 1997, to the Social Security Administration ona social security account number issued to an alien not authorized to work in the United States, the Commissioner of Social Security shall provide the Attorney General with information regarding the name and address of the alien, the name and address of the person reporting the earnings, and the amount of the earnings. The information shall be provided in an electronic form agreed upon by the Commissioner and the Attorney General.
+(2) If earnings are reported on or after January 1, 1997, to the Social Security Administration on a social security account number issued to an alien not authorized to work in the United States, the Commissioner of Social Security shall provide the Attorney General with information regarding the name and address of the alien, the name and address of the person reporting the earnings, and the amount of the earnings. The information shall be provided in an electronic form agreed upon by the Commissioner and the Attorney General.
 
 #### (d) Certification of search of Service records
 
@@ -22,15 +22,15 @@ A written certification signed by the Attorney General or by any officer of the 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §308(d)(4)(M), substituted “admitted or denied admission to the United States” for “admitted to the United States, or excluded therefrom” in two places.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §308(d)(4)(M), substituted "admitted or denied admission to the United States" for "admitted to the United States, or excluded therefrom" in two places.
 
-Subsec. (c). Pub. L. 104–208, §414(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Health and Human Services shall notify the Attorney General upon request whenever any alien is issued a social security account number and social security card. The Secretary shall also furnish such available information as may be requested by the Attorney General regarding the identity and location of aliens in the United States.”
+Subsec. (c). Pub. L. 104–208, §414(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary of Health and Human Services shall notify the Attorney General upon request whenever any alien is issued a social security account number and social security card. The Secretary shall also furnish such available information as may be requested by the Attorney General regarding the identity and location of aliens in the United States."
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–525 substituted “Secretary of Health and Human Services” for “Federal Security Administrator” and “The Secretary” for “The Administrator”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–525 substituted "Secretary of Health and Human Services" for "Federal Security Administrator" and "The Secretary" for "The Administrator".
 
 #### Effective Date of 1996 Amendment
 

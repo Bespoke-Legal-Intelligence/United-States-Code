@@ -1,6 +1,6 @@
 ### §6383. Certification
 
-(a) An employing agency may require that a request for leave under subparagraph (C) or (D) of section 6382(a)(1) be supported by certification issued by the health care provider of the employee or of the son, daughter, spouse, or parent of the employee, as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employing agency.
+(a) An employing agency may require that a request for leave under subparagraph (C) or (D)of section 6382(a)(1) be supported by certification issued by the health care provider of the employee or of the son, daughter, spouse, or parent of the employee, as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employing agency.
 
 (b) A certification provided under subsection (a) shall be sufficient if it states—
 
@@ -32,7 +32,7 @@
 
 #### Amendments
 
-<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “paragraph (1)(E) or (3) of section 6382(a)” for “section 6382(a)(3)”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted "paragraph (1)(E) or (3) of section 6382(a)" for "section 6382(a)(3)".
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 

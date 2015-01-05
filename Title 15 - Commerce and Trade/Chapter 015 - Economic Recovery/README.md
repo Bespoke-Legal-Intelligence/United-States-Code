@@ -18,8 +18,7 @@
 | 713a–11a. | Interest prohibited when reimbursing Corporation for net realized losses. |
 | 713a–12. | Deposit of net realized gain of Commodity Credit Corporation in Treasury. |
 | 713a–13. | Policies and procedures for minimum acquisition of stocks by Commodity Credit Corporation, encouragement of marketing through private trade channels and procurement of maximum returns in marketplace for producers and Corporation. |
-| 713a–14. | Dairy export incentive program. |
-| [713b.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2000713b%20-%20Repealed.%20July%2031%2C%201945%2C%20ch.%20341%2C%20%C2%A710%2C%2059%20Stat.%20529.md) | Repealed. |
+| 713a–14, 713b. | Repealed. |
 | [713c.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2000713c%20-%20Federal%20Surplus%20Commodities%20Corporation%3B%20continuance%20of%20existence%3B%20purchase%20and%20distribution%20of%20surplus%20agricultural%20commodities.md) | Federal Surplus Commodities Corporation; continuance of existence; purchase and distribution of surplus agricultural commodities. |
 | 713c–1. | Annual report to Congress by Federal Surplus Commodities Corporation. |
 | 713c–2. | Purchase and distribution of surplus fishery products. |

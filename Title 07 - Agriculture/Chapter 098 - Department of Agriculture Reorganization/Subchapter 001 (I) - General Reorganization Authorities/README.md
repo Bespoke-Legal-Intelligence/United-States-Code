@@ -13,5 +13,6 @@
 - [&sect; 06916 - Improvement of information sharing](%C2%A7%2006916%20-%20Improvement%20of%20information%20sharing.md)
 - [&sect; 06917 - Reports by Secretary](%C2%A7%2006917%20-%20Reports%20by%20Secretary.md)
 - [&sect; 06918 - Assistant Secretaries of Agriculture](%C2%A7%2006918%20-%20Assistant%20Secretaries%20of%20Agriculture.md)
-- [&sect; 06919 - Repealed. Pub. L. 105&#8211;277, div. A, &sect;101(e) \[title III, &sect;362\], Oct. 21, 1998, 112 Stat. 2681&#8211;231, 2681&#8211;305](%C2%A7%2006919%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28e%29%20%5Btitle%20III%2C%20%C2%A7362%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93231%2C%202681%E2%80%93305.md)
+- [&sect; 06919 - Military Veterans Agricultural Liaison](%C2%A7%2006919%20-%20Military%20Veterans%20Agricultural%20Liaison.md)
 - [&sect; 06920 - Office of Energy Policy and New Uses](%C2%A7%2006920%20-%20Office%20of%20Energy%20Policy%20and%20New%20Uses.md)
+- [&sect; 06921 - Office of Tribal Relations](%C2%A7%2006921%20-%20Office%20of%20Tribal%20Relations.md)

@@ -1,6 +1,6 @@
 ### §7121. Grievance procedures
 
-(a)(1) Except as provided in paragraph (2) of this subsection, any collective bargaining agreement shall provide procedures for the settlement of grievances, including questions of arbitrability. Except as provided in subsections (d), (e), and (g) of this section, the procedures shall be the exclusive administrative procedures forresolving grievances which fall within its coverage.
+(a)(1) Except as provided in paragraph (2) of this subsection, any collective bargaining agreement shall provide procedures for the settlement of grievances, including questions of arbitrability. Except as provided in subsections (d), (e), and (g) of this section, the procedures shall be the exclusive administrative procedures for resolving grievances which fall within its coverage.
 
 (2) Any collective bargaining agreement may exclude any matter from the application of the grievance procedures which are provided for in the agreement.
 
@@ -38,9 +38,9 @@
 
 &emsp;(5) the classification of any position which does not result in the reduction in grade or pay of an employee.
 
-(d) An aggrieved employee affected by a prohibited personnel practice under section 2302(b)(1) of this title which also falls under the coverage of the negotiated grievance procedure may raise the matter under a statutory procedure or the negotiated procedure, but not both. An employee shall be deemed to have exercised his option under this subsection to raise the matter under either a statutory procedure or the negotiated procedure at such time as the employee timely initiates an action under the applicable statutory procedure or timely files a grievance in writing, in accordance with the provisions of the parties’ negotiated procedure, whichever event occurs first. Selection of the negotiated procedure in no manner prejudices the right of an aggrieved employee to request the Merit Systems Protection Board to review the final decision pursuant to section 7702 of this title in the case of any personnel action that could have been appealed to the Board, or, where applicable, to request the Equal Employment Opportunity Commission to review a final decision in any other matter involving a complaint of discrimination of the type prohibited by any law administered by the Equal Employment Opportunity Commission.
+(d) An aggrieved employee affected by a prohibited personnel practice under section 2302(b)(1) of this title which also falls under the coverage of the negotiated grievance procedure may raise the matter under a statutory procedure or the negotiated procedure, but not both. An employee shall be deemed to have exercised his option under this subsection to raise the matter under either a statutory procedure or the negotiated procedure at such time as the employee timely initiates an action under the applicable statutory procedure or timely files a grievance in writing, in accordance with the provisions of the parties' negotiated procedure, whichever event occurs first. Selection of the negotiated procedure in no manner prejudices the right of an aggrieved employee to request the Merit Systems Protection Board to review the final decision pursuant to section 7702 of this title in the case of any personnel action that could have been appealed to the Board, or, where applicable, to request the Equal Employment Opportunity Commission to review a final decision in any other matter involving a complaint of discrimination of the type prohibited by any law administered by the Equal Employment Opportunity Commission.
 
-(e)(1) Matters covered under sections 4303 and 7512 of this title which also fall within the coverage of the negotiated grievance procedure may, in the discretion of the aggrieved employee, be raised either under the appellate procedures of section 7701 of this title or under the negotiated grievance procedure, but not both. Similar matters which arise under other personnel systems applicable to employees covered by this chapter may, in the discretion of the aggrieved employee, be raised either under the appellate procedures, if any, applicable to those matters, or under the negotiated grievance procedure, but not both. An employee shall be deemed to have exercised his option under this subsection to raise a matter either under the applicable appellate procedures or under the negotiated grievance procedure at such time as the employee timely files a notice of appeal under the applicable appellate procedures or timely files a grievance in writing in accordance with the provisions of the parties’ negotiated grievance procedure, whichever event occurs first.
+(e)(1) Matters covered under sections 4303 and 7512 of this title which also fall within the coverage of the negotiated grievance procedure may, in the discretion of the aggrieved employee, be raised either under the appellate procedures of section 7701 of this title or under the negotiated grievance procedure, but not both. Similar matters which arise under other personnel systems applicable to employees covered by this chapter may, in the discretion of the aggrieved employee, be raised either under the appellate procedures, if any, applicable to those matters, or under the negotiated grievance procedure, but not both. An employee shall be deemed to have exercised his option under this subsection to raise a matter either under the applicable appellate procedures or under the negotiated grievance procedure at such time as the employee timely files a notice of appeal under the applicable appellate procedures or timely files a grievance in writing in accordance with the provisions of the parties' negotiated grievance procedure, whichever event occurs first.
 
 (2) In matters covered under sections 4303 and 7512 of this title which have been raised under the negotiated grievance procedure in accordance with this section, an arbitrator shall be governed by section 7701(c)(1) of this title, as applicable.
 
@@ -48,7 +48,7 @@
 
 (g)(1) This subsection applies with respect to a prohibited personnel practice other than a prohibited personnel practice to which subsection (d) applies.
 
-(2) An aggrieved employee affected by a prohibited personnel practice described in paragraph (1) may elect not more than one of theremedies described in paragraph (3) with respect thereto. For purposes of the preceding sentence, a determination as to whether a particular remedy has been elected shall be made as set forth under paragraph (4).
+(2) An aggrieved employee affected by a prohibited personnel practice described in paragraph (1) may elect not more than one of the remedies described in paragraph (3) with respect thereto. For purposes of the preceding sentence, a determination as to whether a particular remedy has been elected shall be made as set forth under paragraph (4).
 
 (3) The remedies described in this paragraph are as follows:
 
@@ -62,7 +62,7 @@
 
 &emsp;(A) the remedy described in paragraph (3)(A) if such person has timely filed a notice of appeal under the applicable appellate procedures;
 
-&emsp;(B) the remedy described in paragraph (3)(B) if such person has timely filed a grievance in writing, in accordance with the provisions of the parties’ negotiated procedure; or
+&emsp;(B) the remedy described in paragraph (3)(B) if such person has timely filed a grievance in writing, in accordance with the provisions of the parties' negotiated procedure; or
 
 &emsp;(C) the remedy described in paragraph (3)(C) if such person has sought corrective action from the Office of Special Counsel by making an allegation under section 1214(a)(1).
 
@@ -74,7 +74,7 @@
 
 <b>1998</b>—Subsec. (h). Pub. L. 105–261 added subsec. (h).
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–424, §9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–424, §9(c), substituted "(d), (e), and (g)" for "(d) and (e)" and inserted "administrative" after "exclusive".
 
 Subsec. (b). Pub. L. 103–424, §9(a), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and subpars. (A) to (C) of former par. (3) as cls. (i) to (iii) of subpar. (a)(1)(C), respectively, and added par. (2).
 

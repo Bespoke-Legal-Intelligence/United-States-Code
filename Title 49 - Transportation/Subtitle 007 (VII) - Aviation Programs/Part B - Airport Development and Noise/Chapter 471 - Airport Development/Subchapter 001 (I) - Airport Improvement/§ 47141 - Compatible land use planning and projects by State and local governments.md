@@ -28,7 +28,7 @@ Assurances.—The Secretary shall require a State or unit of local government to
 
 &emsp;&emsp;(B) addresses ways to achieve and maintain compatible land uses, including zoning, building codes, and any other land use compatibility measures under section 47504(a)(2) that are within the authority of the State or unit of local government to implement;
 
-&emsp;&emsp;(C) uses noise contours provided by the airport operator that are consistent with the airport operation and planning, including any noise abatement measures adopted by the airport operator as part of its own noise mitigation efforts;
+&emsp;&emsp;(C) uses noise contours provided by the airport operator that are consistent with theairport operation and planning, including any noise abatement measures adopted by the airport operator as part of its own noise mitigation efforts;
 
 &emsp;&emsp;(D) does not duplicate, and is not inconsistent with, the airport operator's noise compatibility measures for the same area; and
 

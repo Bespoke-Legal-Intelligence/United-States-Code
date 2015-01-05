@@ -52,7 +52,7 @@ The Corporation—
 
 #### (B) Meetings
 
-&emsp;&emsp;The person designated by the Assistance Board under subparagraph (A) may attend and participate in all deliberations of the board of directors of the Corporation.
+&emsp;&emsp;The person designated by the Assistance Board under subparagraph (A) may attendand participate in all deliberations of the board of directors of the Corporation.
 
 #### (C) Termination of Assistance Board
 

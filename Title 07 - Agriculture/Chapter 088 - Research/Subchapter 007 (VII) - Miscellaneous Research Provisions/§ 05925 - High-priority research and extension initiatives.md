@@ -2,7 +2,7 @@
 
 #### (a) Competitive specialized research and extension grants authorized
 
-The Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities specified in subsections (e) through (i) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+The Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities specified in subsections (d) through (g). The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 
 #### (b) Administration
 
@@ -12,317 +12,167 @@ The Secretary of Agriculture (referred to in this section as the "Secretary") ma
 
 #### (2) Use of task forces
 
-&emsp;To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (e) through (i) of this section, the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
+&emsp;To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g), the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
 
-#### (c) Matching funds required
-
-#### (1) In general
-
-&emsp;The Secretary shall require the recipient of a grant under this section to provide funds or in-kind support from non-Federal sources in an amount at least equal to the amount provided by the Federal Government.
-
-#### (2) Waiver authority
-
-&emsp;The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a research project if the Secretary determines that—
-
-&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
-
-&emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
-
-#### (d) Partnerships encouraged
+#### (c) Partnerships encouraged
 
 Following the completion of a peer review process for grant proposals received under this section, the Secretary shall provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.
 
-#### (e) High-priority research and extension areas
+#### (d) High-priority research and extension areas
 
-#### (1) Ethanol research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of carrying out or enhancing research on ethanol derived from agricultural crops as an alternative fuel source.
-
-#### (2) Aflatoxin research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of identifying, improving, and eventually commercializing, alfatoxin controls in corn and other affected agricultural products and crops.
-
-#### (3) Prickly pear research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of investigating enhanced genetic selection and processing techniques of prickly pears.
-
-#### (4) Deer tick ecology research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of studying the population ecology of deer ticks and other insects and pests that transmit Lyme disease.
-
-#### (5) Peanut market enhancement research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of evaluating the economics of applying innovative technologies for peanut processing in a commercial environment.
-
-#### (6) Dairy financial risk management research and extension
+#### (1) Dairy financial risk management research and extension
 
 &emsp;Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
 
-#### (7) Cotton research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of improving pest management, fiber quality enhancement, economic assessment, textile production, and optimized production systems for short staple cotton.
-
-#### (8) Methyl bromide research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of—
-
-&emsp;&emsp;(A) developing and evaluating chemical and nonchemical alternatives, and use and emission reduction strategies, for pre-planting and post-harvest uses of methyl bromide; and
-
-&emsp;&emsp;(B) transferring the results of the research for use by agricultural producers.
-
-#### (9) Potato research and extension
+#### (2) Potato research and extension
 
 &emsp;Research and extension grants may be made under this section for the purpose of developing and evaluating new strains of potatoes that are resistant to blight and other diseases, as well as insects. Emphasis may be placed on developing potato varieties that lend themselves to innovative marketing approaches.
 
-#### (10) Wood use research and extension
+#### (3) Wood use research and extension
 
 &emsp;Research and extension grants may be made under this section for the purpose of developing new uses for wood from underused tree species as well as investigating methods of modifying wood and wood fibers to produce better building materials.
 
-#### (11) Wetlands use research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of better useof wetlands in diverse ways to provide various economic, agricultural, and environmental benefits.
-
-#### (12) Food safety, including pathogen detection and limitation, research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of increasing food safety, including the identification of advanced detection and processing methods to limit the presence of pathogens (including hepatitis A and E. coli 0157:H7) in domestic and imported foods.
-
-#### (13) Financial risk management research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding financial risk management strategies for agricultural producers and for cooperatives and other processors and marketers of any agricultural commodity.
-
-#### (14) Ornamental tropical fish research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of meeting the needs of commercial producers of ornamental tropical fish and aquatic plants for improvements in the areas of fish reproduction, health, nutrition, predator control, water use, water quality control, and farming technology.
-
-#### (15) Gypsy moth research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of developing biological control, management, and eradication methods against nonnative insects, including Lymantria dispar (commonly known as the "gypsy moth"), that contribute to significant agricultural, economic, or environmental harm.
-
-#### (16) Tomato spotted wilt virus research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of control, management, and eradication of tomato spotted wilt virus.
-
-#### (17) Genetically modified agriculture products (GMAP) research
-
-&emsp;Research grants may be made under this section for the purposes of providing unbiased, science-based evaluation of the risks and benefits to the public and the environment of specific genetically modified plant and animal products. Grants may be used to form interdisciplinary teams to review and conduct research on scientific, social, economic, and ethical issues during the review process, to answer questions raised by the release of new genetically modified agriculture products, to conduct fundamental studies on the health and environmental safety of genetically modified agriculture products (including quantitative risk assessment, the effect of specific genetically modified agriculture products on human health, and gene flow studies), to communicate the risk of genetically modified agriculture products through extension and education programs, and to engage the public and industry in relevant issues.
-
-#### (18) Land use management research and extension
-
-&emsp;Research and extension grants may be made under this section for the purposes of evaluating the environmental benefits of land use management tools such as those provided in the Farmland Protection Program.
-
-#### (19) Water and air quality research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of better understanding agricultural impacts to air and water quality and means to address them.
-
-#### (20) Revenue and insurance tools research and extension
-
-&emsp;Research and extension grants may be made under this section for the purposes of better understanding the impact of revenue and insurance tools on farm income.
-
-#### (21) Agrotourism research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of better understanding the economic, environmental, and food systems impacts of agrotourism.
-
-#### (22) Nitrogen-fixation by plants
-
-&emsp;Research and extension grants may be made under this section for the purpose of enhancing the nitrogen-fixing ability and efficiency of legumes, developing new varieties of legumes that fix nitrogen more efficiently, and developing new varieties of other commercially important crops that potentially are able to fix nitrogen.
-
-#### (23) Environment and private lands research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality to aid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions that respect private property rights and agricultural production realities.
-
-#### (24) Livestock disease research and extension
-
-&emsp;Research and extension grants may be made under this section for the purpose of identifying possible livestock disease threats, educating the public regarding livestock disease threats, training persons to deal with such threats, and conducting related research.
-
-#### (25) Plant gene expression
-
-&emsp;Research grants may be made under this section for the purpose of plant gene expression research to accelerate the application of basic plant genomic science to the development and testing of new varieties of enhanced foodcrops, crops that can be used as renewable energy sources, and other alternative uses of agricultural crops.
-
-#### (26) Animal infectious diseases research
-
-&emsp;Research and extension grants may be made under this section for the purpose of developing prevention and control methodologies for animal infectious diseases (including evaluation under field conditions in countries in which an animal disease occurs) such as laboratory tests for quicker detection of infected animals and presence of disease, prevention strategies (including vaccination programs), and rapid diagnostic techniques for animal disease agents considered to be risks for agricultural bioterrorism attack.
-
-#### (27) Program to combat childhood obesity
-
-&emsp;Research and extension grants may be made under this section to institutions of higher education with demonstrated capacity in basic and clinical obesity research, nutrition research, and community health education research to develop and evaluate community-wide strategies that catalyze partnerships between families and health care, education, recreation, mass media, and other community resources to reduce the incidence of childhood obesity.
-
-#### (28) Integrated pest management
-
-&emsp;Research and extension grants may be made under this section to coordinate and improve research, education, and outreach on, and implementation on farms of, integrated pest management.
-
-#### (29) Sugarcane genetics
-
-&emsp;Research grants may be made under this section for the purpose of maintaining acceptable yields under reduced production inputs, implementing marker-assisted breeding strategies and other basic plant genomic technologies to screen for improved plant resistance to diseases, weeds, and insects toward minimizing pesticide use, enhancing food, fiber and energy production, and developing varieties for maximum performance under prevailing conditions, including management for improved soil and water conservation.
-
-#### (30) Air emissions from livestock operations
-
-&emsp;Research and extension grants may be made under this section for the purpose of conducting field verification tests and developing mitigation options for air emissions from animal feeding operations.
-
-#### (31) Swine genome project
-
-&emsp;Research grants may be made under this section to conduct swine genome research, including the mapping of the swine genome.
-
-#### (32) Cattle fever tick program
-
-&emsp;Research and extension grants may be made under this section to study cattle fever ticks to facilitate understanding of the role of wildlife in the persistence and spread of cattle fever ticks, to develop advanced methods for eradication of cattle fever ticks, and to improve management of diseases relating to cattle fever ticks that are associated with wildlife, livestock, and human health.
-
-#### (33) Synthetic gypsum
-
-&emsp;Research and extension grants may be made under this section to study the uses of synthetic gypsum from electric power plants to remediate soil and nutrient losses.
-
-#### (34) Cranberry research program
-
-&emsp;Research and extension grants may be made under this section to study new technologies to assist cranberry growers in complying with Federal and State environmental regulations, increase production, develop new growing techniques, establish more efficient growing methodologies, and educate cranberry producers about sustainable growth practices.
-
-#### (35) Sorghum research initiative
-
-&emsp;Research and extension grants may be made under this section to study the use of sorghum as a bioenergy feedstock, promote diversification in, and the environmental benefits of sorghum production, and promote water conservation through the use of sorghum.
-
-#### (36) Marine shrimp farming program
-
-&emsp;Research and extension grants may be made under this section to establish a research program to advance and maintain a domestic shrimp farming industry in the United States.
-
-#### (37) Turfgrass research initiative
-
-&emsp;Research and extension grants may be made under this section to study the production of turfgrass (including the use of water, fertilizer, pesticides, fossil fuels, and machinery for turf establishment and maintenance) and environmental protection and enhancement relating to turfgrass production.
-
-#### (38) Agricultural worker safety research initiative
-
-&emsp;Research and extension grants may be made under this section—
-
-&emsp;&emsp;(A) to study and demonstrate methods to minimize exposure of farm and ranch owners and operators, pesticide handlers, and agricultural workers to pesticides, including research addressing the unique concerns of farm workers resulting from long-term exposure to pesticides; and
-
-&emsp;&emsp;(B) to develop rapid tests for on-farm use to better inform and educate farmers, ranchers, and farm and ranch workers regarding safe field re-entry intervals.
-
-#### (39) High plains aquifer region
-
-&emsp;Research and extension grants may be made under this section to carry out interdisciplinary research relating to diminishing water levels and increased demand for water in the High Plains aquifer region.
-
-#### (40) Deer initiative
-
-&emsp;Research and extension grants may be made under this section to support collaborative research focusing on the development of viable strategies for the prevention, diagnosis, and treatment of infectious, parasitic, and toxic diseases of farmed deer and the mapping of the deer genome.
-
-#### (41) Pasture-based beef systems research initiative
-
-&emsp;Research and extension grants may be made under this section to study the development offorage sequences and combinations for cow-calf, heifer development, stocker, and finishing systems, to deliver optimal nutritive value for efficient production of cattle for pasture finishing, to optimize forage systems to improve marketability of pasture-finished beef, and to assess the effect of forage quality on reproductive fitness.
-
-#### (42) Agricultural practices relating to climate change
-
-&emsp;Research and extension grants may be made under this section for field and laboratory studies that examine the ecosystem from gross to minute scales and for projects that explore the relationship of agricultural practices to climate change.
-
-#### (43) Brucellosis control and eradication
-
-&emsp;Research and extension grants may be made under this section to conduct research relating to the development of vaccines and vaccine delivery systems to effectively control and eliminate brucellosis in wildlife, and to assist with the controlling of the spread of brucellosis from wildlife to domestic animals.
-
-#### (44) Bighorn and domestic sheep disease mechanisms
+#### (4) Bighorn and domestic sheep disease mechanisms
 
 &emsp;Research and extension grants may be made under this section to conduct research relating to the health status of (including the presence of infectious diseases in) bighorn and domestic sheep under range conditions.
 
-#### (45) Agricultural development in the American-Pacific region
+#### (5) Agricultural development in the American-Pacific region
 
 &emsp;Research and extension grants may be made under this section to support food and agricultural science at a consortium of land-grant institutions in the American-Pacific region.
 
-#### (46) Tropical and subtropical agricultural research
+#### (6) Tropical and subtropical agricultural research
 
 &emsp;Research grants may be made under this section, in equal dollar amounts to the Caribbean and Pacific Basins, to support tropical and subtropical agricultural research, including pest and disease research, at the land-grant institutions in the Caribbean and Pacific regions.
 
-#### (47) Viral hemorrhagic septicemia
-
-&emsp;Research and extension grants may be made under this section to study—
-
-&emsp;&emsp;(A) the effects of viral hemorrhagic septicemia (referred to in this paragraph as "VHS") on freshwater fish throughout the natural and expanding range of VHS; and
-
-&emsp;&emsp;(B) methods for transmission and human-mediated transport of VHS among waterbodies.
-
-#### (48) Farm and ranch safety
-
-&emsp;Research and extension grants may be made under this section to carry out projects to decrease the incidence of injury and death on farms and ranches, including—
-
-&emsp;&emsp;(A) on-site farm or ranch safety reviews;
-
-&emsp;&emsp;(B) outreach and dissemination of farm safety research and interventions to agricultural employers, employees, youth, farm and ranch families, seasonal workers, or other individuals; and
-
-&emsp;&emsp;(C) agricultural safety education and training.
-
-#### (49) Women and minorities in stem fields
+#### (7) Women and minorities in stem fields
 
 &emsp;Research and extension grants may be made under this section to increase participation by women and underrepresented minorities from rural areas in the fields of science, technology, engineering, and mathematics, with priority given to eligible institutions that carry out continuing programs funded by the Secretary.
 
-#### (50) Alfalfa and forage research program
+#### (8) Alfalfa and forage research program
 
 &emsp;Research and extension grants may be made under this section for the purpose of studying improvements in alfalfa and forage yields, biomass and persistence, pest pressures, the bioenergy potential of alfalfa and other forages, and systems to reduce losses during harvest and storage.
 
-#### (51) Food systems veterinary medicine
+#### (9) Coffee plant health initiative
 
-&emsp;Research grants may be made under this section to address health issues that affect food-producing animals, food safety, and the environment, and to improve information resources, curriculum, and clinical education of students with respect to food animal veterinary medicine and food safety.
+&emsp;Research and extension grants may be made under this section for the purposes of—
 
-#### (52) Biochar research
+&emsp;&emsp;(A) developing and disseminating science-based tools and treatments to combat the coffee berry borer (Hypothenemus hampei); and
 
-&emsp;Grants may be made under this section for research, extension, and integrated activities relating to the study of biochar production and use, including considerations of agronomic and economic impacts, synergies of coproduction with bioenergy, and the value of soil enhancements and soil carbon sequestration.
+&emsp;&emsp;(B) establishing an areawide integrated pest management program in areas affected by, or areas at risk of, being affected by the coffee berry borer.
 
-#### (f) Imported fire ant control, management, and eradication
+#### (10) Corn, soybean meal, cereal grains, and grain byproducts research and extension
 
-#### (1) Task force
+&emsp;Research and extension grants may be made under this section for the purpose of carrying out or enhancing research to improve the digestibility, nutritional value, and efficiency of the use of corn, soybean meal, cereal grains, and grain byproducts for the poultry and food animal production industries.
 
-&emsp;The Secretary shall establish a task force pursuant to subsection (b)(2) of this section regarding the control, management, and eradication of imported fire ants. The Secretary shall solicit and evaluate grant proposals under this subsection in consultation with the task force.
+#### (e) Pulse crop health initiative
 
-#### (2) Initial grants
+#### (1) Definitions
 
-#### (A) Request for proposals
+&emsp;In this subsection:
 
-&emsp;&emsp;The Secretary shall publish a request for proposals for grants for research or demonstration projects related to the control, management, and possible eradication of imported fire ants.
+#### (A) Initiative
 
-#### (B) Selection
+&emsp;&emsp;The term "Initiative" means the pulse crop health initiative established by paragraph (2).
 
-&emsp;&emsp;Not later than 1 year after the date of publication of the request for proposals, the Secretary shall evaluate the grant proposals submitted in response to the request and may select meritorious research or demonstration projects related to the control, management, and possible eradication of imported fire ants to receive an initial grant under this subsection.
+#### (B) Pulse crop
 
-#### (3) Subsequent grants
+&emsp;&emsp;The term "pulse crop" means dry beans, dry peas, lentils, and chickpeas.
 
-#### (A) Evaluation of initial grants
+#### (2) Establishment
 
-&emsp;&emsp;If the Secretary awards grants under paragraph (2)(B), the Secretary shall evaluate allof the research or demonstration projects conducted under the grants for their use as the basis of a national plan for the control, management, and possible eradication of imported fire ants by the Federal Government, State and local governments, and owners and operators of land.
+&emsp;The Secretary shall carry out a pulse crop health competitive research and extension initiative to address the critical needs of the pulse crop industry by developing and disseminating science-based tools and information, including—
 
-#### (B) Selection
+&emsp;&emsp;(A) research conducted with respect to pulse crops in the areas of health and nutrition, such as—
 
-&emsp;&emsp;On the basis of the evaluation under subparagraph (A), the Secretary may select the projects that the Secretary considers most promising for additional research or demonstration related to preparation of a national plan for the control, management, and possible eradication of imported fire ants. The Secretary shall notify the task force of the projects selected under this subparagraph.
+&emsp;&emsp;&emsp;(i) pulse crop diets and the ability of such diets to reduce obesity and associated chronic disease; and
 
-#### (4) Selection and submission of national plan
+&emsp;&emsp;&emsp;(ii) the underlying mechanisms of the health benefits of pulse crop consumption;
 
-#### (A) Evaluation of subsequent grants
+&emsp;&emsp;(B) research related to the functionality of pulse crops, such as—
 
-&emsp;&emsp;If the Secretary awards grants under paragraph (3)(B), the Secretary shall evaluate all of the research or demonstration projects conducted under the grants for use as the basis of a national plan for the control, management, and possible eradication of imported fire ants by the Federal Government, State and local governments, and owners and operators of land.
+&emsp;&emsp;&emsp;(i) improving the functional properties of pulse crops and pulse crop fractions; and
 
-#### (B) Selection
+&emsp;&emsp;&emsp;(ii) developing new and innovative technologies to improve pulse crops as an ingredient in food products;
 
-&emsp;&emsp;On the basis of the evaluation under subparagraph (A), the Secretary shall select 1 project funded under paragraph (3)(B), or a combination of those projects, for award of a grant for final preparation of the national plan.
+&emsp;&emsp;(C) research conducted with respect to pulse crops for purposes of enhancing sustainability and global food security, such as—
 
-#### (C) Submission
+&emsp;&emsp;&emsp;(i) improving pulse crop productivity, nutrient density, and phytonutrient content using plant breeding, genetics, and genomics;
 
-&emsp;&emsp;The Secretary shall submit to Congress the final national plan prepared under subparagraph (B) for the control, management, and possible eradication of imported fire ants.
+&emsp;&emsp;&emsp;(ii) improving pest and disease management, including resistance to pests and diseases; and
 
-#### (g) Formosan termite research and eradication
+&emsp;&emsp;&emsp;(iii) improving nitrogen fixation and water use efficiency to reduce the carbon and energy footprint of agriculture;
 
-#### (1) Research program
+&emsp;&emsp;(D) the optimization of systems used in producing pulse crops to reduce water usage; and
 
-&emsp;The Secretary may make competitive research grants under this subsection to regional and multijurisdictional entities, local government planning organizations, and local governments for the purpose of conducting research for the control, management, and possible eradication of Formosan termites in the United States.
+&emsp;&emsp;(E) education and technical assistance programs with respect to pulse crops, such as programs—
 
-#### (2) Eradication program
+&emsp;&emsp;&emsp;(i) providing technical expertise to help food companies include pulse crops in innovative and healthy food; and
 
-&emsp;The Secretary may enter into cooperative agreements with regional and multijurisdictional entities, local government planning organizations, and local governments for the purposes of—
+&emsp;&emsp;&emsp;(ii) establishing an educational program to encourage pulse crop consumption in the United States.
 
-&emsp;&emsp;(A) conducting projects for the control, management, and possible eradication of Formosan termites in the United States; and
+#### (3) Administration
 
-&emsp;&emsp;(B) collecting data on the effectiveness of the projects.
+&emsp;Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of a competitive grant under this subsection.
 
-#### (3) Funding priority
+#### (4) Priorities
 
-&emsp;In allocating funds made available to carry out paragraph (2), the Secretary shall provide a higher priority for regions or locations with the highest historical rates of infestation of Formosan termites.
+&emsp;In making competitive grants under this subsection, the Secretary shall provide a higher priority to projects that—
 
-#### (4) Management coordination
+&emsp;&emsp;(A) are multistate, multiinstitutional, and multidisciplinary; and
 
-&emsp;The program management of research grants, cooperative agreements, and projects under this subsection shall be conducted under existing authority in coordination with the national formosan <sup>1</sup> termite management and research demonstration program conducted by the Agricultural Research Service.
+&emsp;&emsp;(B) include explicit mechanisms to communicate results to the pulse crop industry and the public.
 
-#### (h) Pollinator protection
+#### (5) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2018.
+
+#### (f) Training coordination for food and agriculture protection
+
+#### (1) In general
+
+&emsp;The Secretary shall make a competitive grant to, or enter into a contract or a cooperative agreement with, an eligible entity (described in paragraph (2)) for purposes of establishing an internationally integrated training system to enhance the protection of the food supply in the United States, to be known as the "Comprehensive Food Safety Training Network" (referred to in this subsection as the "Network").
+
+#### (2) Eligibility
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this subsection, an eligible entity is a multiinstitutional consortium that includes—
+
+&emsp;&emsp;&emsp;(i) a nonprofit institution that provides food safety protection training; and
+
+&emsp;&emsp;&emsp;(ii) one or more training centers in institutions of higher education (as defined in section 1001 of title 20) that have demonstrated expertise in developing and delivering community-based training in food supply and agricultural safety and defense.
+
+#### (B) Collective consideration
+
+&emsp;&emsp;The Secretary may consider such consortium collectively and not on an institution-by-institution basis.
+
+#### (3) Duties of eligible entity
+
+&emsp;As a condition of receiving a competitive grant or entering into a contract or a cooperative agreement with the Secretary under this subsection, the eligible entity, in cooperation with the Secretary, shall establish and maintain the Network, including by—
+
+&emsp;&emsp;(A) providing basic, technical, management, and leadership training (including by developing curricula) to regulatory and public health officials, producers, processors, and other agribusinesses;
+
+&emsp;&emsp;(B) serving as the hub for the administration of the Network;
+
+&emsp;&emsp;(C) implementing a standardized national curriculum to ensure the consistent delivery of quality training throughout the United States;
+
+&emsp;&emsp;(D) building and overseeing a nationally recognized instructor cadre to ensure the availability of highly qualified instructors;
+
+&emsp;&emsp;(E) reviewing training proposed through the National Institute of Food and Agriculture and other relevant Federal agencies that report to the Secretary on the quality and content of proposed and existing courses;
+
+&emsp;&emsp;(F) assisting Federal agencies in the implementation of food safety protection training requirements including requirements under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Agricultural Act of 2014, and any provision of law amended by such Act; and
+
+&emsp;&emsp;(G) performing evaluation and outcome-based studies to provide to the Secretary information on the effectiveness and impact of training and metrics on jurisdictions and sectors within the food safety system.
+
+#### (4) Membership
+
+&emsp;An eligible entity may alter the consortium membership to meet specific training expertise needs.
+
+#### (5) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+
+#### (g) Pollinator protection
 
 #### (1) Research and extension
 
@@ -346,7 +196,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (B) Authorization of appropriations
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2012.
+&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2018.
 
 #### (2) Department of Agriculture capacity and infrastructure
 
@@ -360,55 +210,103 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (B) Authorization of appropriations
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2012.
+&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2018.
 
-#### (3) Honey bee pest and pathogen surveillance
+#### (3) Honey bee surveillance
 
-&emsp;There is authorized to be appropriated to conduct a nationwide honey bee pest andpathogen surveillance program $2,750,000 for each of fiscal years 2008 through 2012.
+&emsp;There is authorized to be appropriated to conduct a nationwide honey bee pest, pathogen, health, and population status surveillance program $2,750,000 for each of fiscal years 2008 through 2018.
 
-#### (4) Annual report on response to honey bee colony collapse disorder
+#### (4) Consultation
 
-&emsp;The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report describing the progress made by the Department of Agriculture in—
+&emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shallpublish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
 
-&emsp;&emsp;(A) investigating the cause or causes of honey bee colony collapse; and
+&emsp;&emsp;(A) allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
 
-&emsp;&emsp;(B) finding appropriate strategies to reduce colony loss.
+&emsp;&emsp;(B) planting and maintaining managed honey bee and native pollinator foraging on National Forest System lands where compatible with other natural resource management priorities.
 
-#### (i) Regional centers of excellence
+#### (5) Annual report on response to honey bee colony collapse disorder
 
-#### (1) Establishment
+&emsp;The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report—
 
-&emsp;The Secretary shall prioritize regional centers of excellence established for specific agricultural commodities for the receipt of funding under this section.
+&emsp;&emsp;(A) describing the progress made by the Department of Agriculture in—
 
-#### (2) Composition
+&emsp;&emsp;&emsp;(i) investigating the cause or causes of honey bee colony collapse and honey bee health disorders;
 
-&emsp;A regional center of excellence shall be composed of 1 or more colleges and universities (including land-grant institutions, schools of forestry, schools of veterinary medicine, or NLGCA Institutions (as defined in section 3103 of this title)) that provide financial support to the regional center of excellence.
+&emsp;&emsp;&emsp;(ii) finding appropriate strategies, including best management practices <sup>1</sup> to reduce colony loss; and
 
-#### (3) Criteria for regional centers of excellence
+&emsp;&emsp;&emsp;(iii) addressing the decline of managed honey bees and native pollinators;
 
-&emsp;The criteria for consideration to be a regional center of excellence shall include efforts—
+&emsp;&emsp;(B) assessing Federal efforts to mitigate pollinator losses and threats to the United States commercial beekeeping industry; and
 
-&emsp;&emsp;(A) to ensure coordination and cost-effectiveness by reducing unnecessarily duplicative efforts regarding research, teaching, and extension;
+&emsp;&emsp;(C) providing recommendations to Congress regarding how to better coordinate Federal agency efforts to address the decline of managed honey bees and native pollinators.
 
-&emsp;&emsp;(B) to leverage available resources by using public/private partnerships among agricultural industry groups, institutions of higher education, and the Federal Government;
+#### (h) Authorization of appropriations
 
-&emsp;&emsp;(C) to implement teaching initiatives to increase awareness and effectively disseminate solutions to target audiences through extension activities;
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018.
 
-&emsp;&emsp;(D) to increase the economic returns to rural communities by identifying, attracting, and directing funds to high-priority agricultural issues; and
+(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885; Pub. L. 110–234, title VII, §§7203, 7204, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §§7203, 7204, June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §§7128(b)(2)(C), 7209, Feb. 7, 2014, 128 Stat. 879, 881.)
 
-&emsp;&emsp;(E) to improve teaching capacity and infrastructure at colleges and universities (including land-grant institutions, schools of forestry, and schools of veterinary medicine).
+#### References in Text
 
-#### (j) Authorization of appropriations
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(F), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
-
-(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885; Pub. L. 110–234, title VII, §§7203, 7204, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §§7203, 7204, June 18, 2008, 122 Stat. 1664, 1994.)
+The Agricultural Act of 2014, referred to in subsec. (f)(3)(F), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79, §7209(1), substituted "subsections (d) through (g)" for "subsections (e) through (i)".
+
+Subsec. (b)(2). Pub. L. 113–79, §7209(2), substituted "subsections (d) through (g)" for "subsections (e) through (i)".
+
+Subsec. (c). Pub. L. 113–79, §7128(b)(2)(C), redesignated subsec. (d) as (c), and struck out former subsec. (c) which related to matching funds requirement.
+
+Subsec. (d). Pub. L. 113–79, §7209(5), added pars. (9) and (10), redesignated pars. (6), (9), (10), (44), (45), (46), (49), and (50) as (1) to (8), respectively, and struck out former pars. (1) to (5), (7), (8), (11) to (43), (47), (48), (51), and (52), which related to certain research and extension grants.
+
+Pub. L. 113–79, §7128(b)(2)(C)(ii), redesignated subsec. (e) as (d).
+
+Subsec. (e). Pub. L. 113–79, §7209(6), added subsec. (e) and struck out former subsec. (e) which related to imported fire ant control, management, and eradication.
+
+Pub. L. 113–79, §7128(b)(2)(C)(ii), redesignated subsec. (f) as (e).
+
+Subsec. (f). Pub. L. 113–79, §7209(7), added subsec. (f) and struck out former subsec. (f) which related to Formosan termite research and eradication.
+
+Pub. L. 113–79, §7128(b)(2)(C)(ii), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 113–79, §7128(b)(2)(C)(ii), redesignated subsec. (h) as (g).
+
+Subsec. (g)(1)(B), (2)(B). Pub. L. 113–79, §7209(8)(A), substituted "2018" for "2012".
+
+Subsec. (g)(3). Pub. L. 113–79, §7209(8)(A), (B), struck out "pest and pathogen" after "bee" in heading and substituted "pest, pathogen, health, and population status surveillance" for "pest and pathogen surveillance" and "2018" for "2012" in text.
+
+Subsec. (g)(4). Pub. L. 113–79, §7209(8)(D), added par. (4).Former par. (4) redesignated (5).
+
+Subsec. (g)(5). Pub. L. 113–79, §7209(8)(E)(i), (ii), substituted "annual report—" for "annual report" in introductory provisions, inserted subpar. (A) designation before "describing", redesignated former subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), respectively, and realigned margins.
+
+Pub. L. 113–79, §7209(8)(C), redesignated par. (4) as (5).
+
+Subsec. (g)(5)(A)(i). Pub. L. 113–79, §7209(8)(E)(iii)(I), inserted "and honey bee health disorders" after "collapse".
+
+Subsec. (g)(5)(A)(ii). Pub. L. 113–79, §7209(8)(E)(iv)(I), inserted ", including best management practices" after "strategies"
+
+Subsec. (g)(5)(A)(iii). Pub. L. 113–79, §7209(8)(E)(iii)(II), (iv)(II), (v), added cl. (iii).
+
+Subsec. (g)(5)(B), (C). Pub. L. 113–79, §7209(8)(E)(vi), added subpars. (B) and (C).
+
+Subsec. (h). Pub. L. 113–79, §7209(9), substituted "2018" for "2012".
+
+Pub. L. 113–79, §7209(3), (4), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to regional centers of excellence.
+
+Pub. L. 113–79, §7128(b)(2)(C)(ii), redesignated subsec. (i) as (h).
+
+Subsec. (i). Pub. L. 113–79, §7209(4), redesignated subsec. (i) as (h).
+
+Pub. L. 113–79, §7128(b)(2)(C)(ii), redesignated subsec. (j) as (i).
+
+Subsec. (j). Pub. L. 113–79, §7128(b)(2)(C)(ii), redesignated subsec. (j) as (i).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7204(b)(1), substituted "subsections (e) through (i)" for "subsections (e), (f), and (g)" in first sentence.
 
@@ -490,5 +388,115 @@ Priority.—The Secretary of Agriculture shall elevate the priority of current m
 
 Authorization of Appropriations.—For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $5,000,000 to carry out this section."
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+#### Creating a Federal Strategy To Promote the Health of Honey Bees and Other Pollinators
+
+Memorandum of President of the United States, June 20, 2014, 79 F.R. 35903, provided:
+
+Memorandum for Heads of Executive Departments and Agencies
+
+Pollinators contribute substantially to the economy of the United States and are vital to keeping fruits, nuts, and vegetables in our diets. Honey bee pollination alone adds more than $15 billion in value to agricultural crops each year in the United States. Over the past few decades, there has been a significant loss of pollinators, including honey bees, native bees, birds, bats, and butterflies, from the environment. The problem is serious and requires immediate attention to ensure the sustainability of our food production systems, avoid additional economic impact on the agricultural sector, and protect the health of the environment.
+
+Pollinator losses have been severe. The number of migrating Monarch butterflies sank to the lowest recorded population level in 2013–14, and there is an imminent risk of failed migration. The continued loss of commercial honey bee colonies poses a threat to the economic stability of commercial beekeeping and pollination operations in the United States, which could have profound implications for agriculture and food. Severe yearly declines create concern that bee colony losses could reach a point from which the commercial pollination industry would not be able to adequately recover. The loss of native bees, which also play a keyrole in pollination of crops, is much less studied, but many native bee species are believed to be in decline. Scientists believe that bee losses are likely caused by a combination of stressors, including poor bee nutrition, loss of forage lands, parasites, pathogens, lack of genetic diversity, and exposure to pesticides.
+
+Given the breadth, severity, and persistence of pollinator losses, it is critical to expand Federal efforts and take new steps to reverse pollinator losses and help restore populations to healthy levels. These steps should include the development of new public-private partnerships and increased citizen engagement. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. <i>Establishing the Pollinator Health Task Force</i>. There is hereby established the Pollinator Health Task Force (Task Force), to be co-chaired by the Secretary of Agriculture and the Administrator of the Environmental Protection Agency. In addition to the Co-Chairs, the Task Force shall also include the heads, or their designated representatives, from:
+
+(a) the Department of State;
+
+(b) the Department of Defense;
+
+(c) the Department of the Interior;
+
+(d) the Department of Housing and Urban Development;
+
+(e) the Department of Transportation;
+
+(f) the Department of Energy;
+
+(g) the Department of Education;
+
+(h) the Council on Environmental Quality;
+
+(i) the Domestic Policy Council;
+
+(j) the General Services Administration;
+
+(k) the National Science Foundation;
+
+(l) the National Security Council Staff;
+
+(m) the Office of Management and Budget;
+
+(n) the Office of Science and Technology Policy; and
+
+(o) such executive departments, agencies, and offices as the Co-Chairs may designate.
+
+Sec. 2. <i>Mission and Function of the Task Force</i>. Within 180 days of the date of this memorandum, the Task Force shall develop a National Pollinator Health Strategy (Strategy), which shall include explicit goals, milestones, and metrics to measure progress. The Strategy shall include the following components:
+
+(a) <i>Pollinator Research Action Plan</i>. The Strategy shall include an Action Plan (Plan) to focus Federal efforts on understanding, preventing, and recovering from pollinator losses. The Plan shall be informed by research on relevant topics and include:
+
+(i) studies of the health of managed honey bees and native bees, including longitudinal studies, to determine the relative contributions of, and mitigation strategies for, different stressors leading to species declines and colony collapse disorder, including exposure to pesticides, poor nutrition, parasites and other pests, toxins, loss of habitat and reduced natural forage, pathogens, and unsustainable management practices;
+
+(ii) plans for expanded collection and sharing of data related to pollinator losses, technologies for continuous monitoring of honey bee hive health, and use of public-private partnerships, as appropriate, to provide information on the status and trends of managed hive losses;
+
+(iii) assessments of the status of native pollinators, including the Monarch butterfly and bees, and modeling of native pollinator populations and habitats;
+
+(iv) strategies for developing affordable seed mixes, including native pollinator-friendly plants, for maintenance of honey bees and other pollinators, and guidelines for and evaluations of the effectiveness of using pollinator-friendly seed mixes for restoration and reclamation projects;
+
+(v) identification of existing and new methods and best practices to reduce pollinator exposure to pesticides, and new cost-effective ways to control bee pests and diseases; and
+
+(vi) strategies for targeting resources toward areas of high risk and restoration potential and prioritizing plans for restoration of pollinator habitat, based on those areas that will yield the greatest expected net benefits.
+
+(b) <i>Public Education Plan</i>. The Strategy shall include plans for expanding and coordinating public education programs outlining steps individuals and businesses can take to help address the loss of pollinators. It shall also include recommendations for a coordinated public education campaign aimed at individuals, corporations, small businesses, schools, libraries, and museums to significantly increase public awareness of the importance of pollinators and the steps that can be taken to protect them.
+
+(c) <i>Public-Private Partnerships</i>. The Strategy shall include recommendations for developing public-private partnerships to build on Federal efforts to encourage the protection of pollinators and increase the quality and amount of habitat and forage for pollinators. In developing this part of the Strategy, the Task Force shall consult with external stakeholders, including State, tribal, and local governments, farmers, corporations, and nongovernmental organizations.
+
+(d) Task Force member agencies shall report regularly to the Task Force on their efforts to implement section 3 of this memorandum.
+
+Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise specified, within 180 days of the date of this memorandum:
+
+(a) Task Force member agencies shall develop and provide to the Task Force plans to enhance pollinator habitat, and subsequently implement, as appropriate, such plans on their managed lands and facilities, consistent with their missions and public safety. These plans may include: facility landscaping, including easements; land management; policies with respect to road and other rights-of-way; educational gardens; use of integrated vegetation and pest management; increased native vegetation; and application of pollinator-friendly best management practices and seed mixes. Task Force member agencies shall also review any new or renewing land management contracts and grants for the opportunity to include requirements for enhancing pollinator habitat.
+
+(b) Task Force member agencies shall evaluate permit and management practices on power line, pipeline, utility, and other rights-of-way and easements, and, consistent with applicable law, make any necessary and appropriate changes to enhance pollinator habitat on Federal lands through the use of integrated vegetation and pest management and pollinator-friendly best management practices, and by supplementing existing agreements and memoranda of understanding with rights-of-way holders, where appropriate, to establish and improve pollinator habitat.
+
+(c) Task Force member agencies shall incorporate pollinator health as a component of all future restoration and reclamation projects, as appropriate, including all annual restoration plans.
+
+(d) The Council on Environmental Quality and the General Services Administration shall, within 90 days of the date of this memorandum, revise their respective guidance documents for designed landscapes and public buildings to incorporate, as appropriate, pollinator-friendly practices into site landscape performance requirements to create and maintain high quality habitats for pollinators. Future landscaping projects at all Federal facilities shall, to the maximum extent appropriate, use plants beneficial to pollinators.
+
+(e) The Departments of Agriculture and the Interior shall, within 90 days of the date of this memorandum, develop best management practices for executive departments and agencies to enhance pollinator habitat on Federal lands.
+
+(f) The Departments of Agriculture and the Interior shall establish a reserve of native seed mixes, including pollinator-friendly plants, for use on post-fire rehabilitation projects and other restoration activities.
+
+(g) The Department of Agriculture shall, as appropriate and consistent with applicable law, substantially increase both the acreage and forage value of pollinator habitat in the Department's conservation programs, including the Conservation Reserve Program, and provide technical assistance, through collaboration with the land-grant university-based cooperative extension services, to executive departments and agencies, State, local, and tribal governments, and other entities and individuals, including farmers and ranchers, in planting the most suitable pollinator-friendly habitats.
+
+(h) The Department of the Interior shall assist States and State wildlife organizations, as appropriate, in identifying and implementing projects to conserve pollinators at risk of endangerment and further pollinator conservation through the revision and implementation of individual State Wildlife Action Plans. The Department of the Interior shall, upon request, provide technical support for these efforts, and keep the Task Force apprised of such collaborations.
+
+(i) The Department of Transportation shall evaluate its current guidance for grantees and informational resources to identify opportunities to increase pollinator habitat along roadways and implement improvements, as appropriate. The Department of Transportation shall work with State Departments of Transportation and transportation associations to promote pollinator-friendly practices and corridors. The Department of Transportation shall evaluate opportunities to make railways, pipelines, and transportation facilities that are privately owned and operated aware of the need to increase pollinator habitat.
+
+(j) The Department of Defense shall, consistent with law and the availability of appropriations, support habitat restoration projects for pollinators, and shall direct military service installations to use, when possible, pollinator-friendly native landscaping and minimize use of pesticides harmful to pollinators through integrated vegetation and pest management practices.
+
+(k) The Army Corps of Engineers shall incorporate conservation practices for pollinator habitat improvement on the 12 million acres of lands and waters at resource development projects across the country, as appropriate.
+
+(l) The Environmental Protection Agency shall assess the effect of pesticides, including neonicotinoids, on bee and other pollinator health and take action, as appropriate, to protect pollinators; engage State and tribal environmental, agricultural, and wildlife agencies in the development of State and tribal pollinator protection plans; encourage the incorporation of pollinator protection and habitat planting activities into green infrastructure and Superfund projects; and expedite review of registration applications for new products targeting pests harmful to pollinators.
+
+(m) Executive departments and agencies shall, as appropriate, take immediate measures to support pollinators during the 2014 growing season and thereafter. These measures may include planting pollinator-friendly vegetation and increasing flower diversity in plantings, limiting mowing practices, and avoiding the use of pesticides in sensitive pollinator habitats through integrated vegetation and pest management practices.
+
+Sec. 4. <i>General Provisions</i>. (a) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to any agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) Nothing in this memorandum shall be construed to require the disclosure of confidential business information or trade secrets, classified information, law enforcement sensitive information, or other information that must be protected in the interest of national security or public safety.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Secretary of Agriculture is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

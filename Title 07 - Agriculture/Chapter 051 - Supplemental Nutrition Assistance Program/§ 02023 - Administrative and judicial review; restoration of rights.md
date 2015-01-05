@@ -1,6 +1,6 @@
 ### §2023. Administrative and judicial review; restoration of rights
 
-(a)(1) Whenever an application of a retail food store or wholesale food concern to participate in the supplemental nutrition assistance program is denied pursuant to section 2018 of this title, or a retail food store or wholesale food concern is disqualified or subjected to a civil money penalty under the provisions of section 2021 of thistitle, or a retail food store or wholesale food concern forfeits a bond under section 2021(d) of this title, or all or part of any claim of a retail food store or wholesale food concern is denied under the provisions of section 2022 of this title, or a claim against a State agency is stated pursuant to the provisions of section 2022 of this title, notice of such administrative action shall be issued to the retail food store, wholesale food concern, or State agency involved.
+(a)(1) Whenever an application of a retail food store or wholesale food concern to participate in the supplemental nutrition assistance program is denied pursuant to section 2018 of this title, or a retail food store or wholesale food concern is disqualified or subjected to a civil money penalty under the provisions of section 2021 of this title, or a retail food store or wholesale food concern forfeits a bond under section 2021(d) of this title, or all or part of any claim of a retail food store or wholesale food concern is denied under the provisions of section 2022 of this title, or a claim against a State agency is stated pursuant to the provisions of section 2022 of this title, notice of such administrative action shall be issued to the retail food store, wholesale food concern, or State agency involved.
 
 (2)
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effectivepursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
 Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
 

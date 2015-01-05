@@ -18,7 +18,7 @@
 
 (2) Nothing in paragraph (1)(B) shall be construed to interfere with or supersede the authority of other Federal agencies or bureaus.
 
-(f) In accordance with procedures established by the Director, and except for public money deposited under section 2041 of this title, each United States marshal shall deposit public moneys that the marshal collects into the Treasury, subject to disbursement by the marshal. At theend of each accounting period, the earned part of public moneys accruing to the United States shall be deposited in the Treasury to the credit of the appropriate receipt accounts.
+(f) In accordance with procedures established by the Director, and except for public money deposited under section 2041 of this title, each United States marshal shall deposit public moneys that the marshal collects into the Treasury, subject to disbursement by the marshal. At the end of each accounting period, the earned part of public moneys accruing to the United States shall be deposited in the Treasury to the credit of the appropriate receipt accounts.
 
 (g) Prior to resignation, retirement, or removal from office—
 

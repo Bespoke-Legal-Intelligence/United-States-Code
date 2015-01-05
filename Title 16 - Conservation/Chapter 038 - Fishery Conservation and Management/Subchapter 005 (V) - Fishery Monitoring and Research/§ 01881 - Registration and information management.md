@@ -2,7 +2,7 @@
 
 #### (a) Standardized fishing vessel registration and information management system
 
-The Secretary shall, in cooperation with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and information management system on a regional basis. The recommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
+The Secretary shall, in cooperation with the Secretary of the department in which the CoastGuard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and information management system on a regional basis. The recommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
 
 &emsp;(1) be designed to standardize the requirements of vessel registration and information collection systems required by this chapter, the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and any other marine resource law implemented by the Secretary, and, with the permission of a State, any marine resource law implemented by such State;
 
@@ -58,7 +58,7 @@ Any registration recommended under this section shall not be considered a permit
 
 #### (e) Public comment
 
-Within one year after October 11, 1996, the Secretary shall publish in the Federal Register fora 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c) of this section. The proposal shall include—
+Within one year after October 11, 1996, the Secretary shall publish in the Federal Register for a 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c) of this section. The proposal shall include—
 
 &emsp;(1) a description of the arrangements of the Secretary for consultation and cooperation with the department in which the Coast Guard is operating, the States, the Councils, Marine Fisheries Commissions, the fishing industry and other interested parties; and
 
@@ -130,7 +130,7 @@ Within 60 days after the end of the comment period and after consideration of co
 
 &emsp;Within 24 months after establishment of the program, the Secretary shall submit a report to Congress that describes the progress made toward achieving the goals and objectives of the program.
 
-(Pub. L. 94–265, title IV, §401, as added Pub. L. 104–297, title II, §202, Oct. 11, 1996, 110 Stat. 3605;amended Pub. L. 109–479, title II, §201, Jan. 12, 2007, 120 Stat. 3611.)
+(Pub. L. 94–265, title IV, §401, as added Pub. L. 104–297, title II, §202, Oct. 11, 1996, 110 Stat. 3605; amended Pub. L. 109–479, title II, §201, Jan. 12, 2007, 120 Stat. 3611.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a) For the purpose of this chapter—
 
-&emsp;(1) “agency” means an Executive agency and the Government Printing Office, but does not include—
+&emsp;(1) "agency" means an Executive agency and the Government Publishing Office, but does not include—
 
 &emsp;&emsp;(A) a Government corporation;
 
@@ -10,31 +10,35 @@
 
 &emsp;&emsp;(C) the Government Accountability Office;
 
-&emsp;(2) “employee” means an individual employed in or under an agency;
+&emsp;(2) "employee" means an individual employed in or under an agency;
 
-&emsp;(3) “eligible” means an individual who has qualified for appointment in an agency and whose name has been entered on the appropriate register or list of eligibles;
+&emsp;(3) "eligible" means an individual who has qualified for appointment in an agency and whose name has been entered on the appropriate register or list of eligibles;
 
-&emsp;(4) “demonstration project” means a project conducted by the Office of Personnel Management, or under its supervision, to determine whether a specified change in personnel management policies or procedures would result in improved Federal personnel management; and
+&emsp;(4) "demonstration project" means a project conducted by the Office of Personnel Management, or under its supervision, to determine whether a specified change in personnel management policies or procedures would result in improved Federal personnel management; and
 
-&emsp;(5) “research program” means a planned study of the manner in which public management policies and systems are operating, the effects of those policies and systems, the possibilities for change, and comparisons among policies and systems.
+&emsp;(5) "research program" means a planned study of the manner in which public management policies and systems are operating, the effects of those policies and systems, the possibilities for change, and comparisons among policies and systems.
 
 (b) This chapter shall not apply to any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (28 U.S.C. 509 note; 90 Stat. 2425).
 
-(Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, §2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, §5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, §501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, §2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, §5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, §501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–417 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-<b>2004</b>—Subsec. (a)(1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(1)(C). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–201 substituted "National Imagery and Mapping Agency" for "Central Imagery Office".
 
-<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–359 inserted "the Central Imagery Office," after "Defense Intelligence Agency,".
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–474 struck out ", the Administrative Office of the United States Courts," after "means an Executive agency".
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–54 substituted “chapter” for “subchapter” and “28 U.S.C. 509” for “5 U.S.C. 5108”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–54 substituted "chapter" for "subchapter" and "28 U.S.C. 509" for "5 U.S.C. 5108".
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (a)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1996 Amendment
 
@@ -50,21 +54,21 @@ Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Design Elements of Pay-for-Performance Systems in Demonstration Projects
 
-Pub. L. 108–136, div. A, title XI, §1126, Nov. 24, 2003, 117 Stat. 1640, provided that: “A pay-for-performance system may not be initiated under chapter 47 of title 5, United States Code, after the date of the enactment of this Act \[Nov. 24, 2003\], unless it incorporates the following elements:
+Pub. L. 108–136, div. A, title XI, §1126, Nov. 24, 2003, 117 Stat. 1640, provided that: "A pay-for-performance system may not be initiated under chapter 47 of title 5, United States Code, after the date of the enactment of this Act \[Nov. 24, 2003\], unless it incorporates the following elements:
 
-&emsp;“(1) Adherence to merit principles set forth in section 2301 of such title.
+&emsp;"(1) Adherence to merit principles set forth in section 2301 of such title.
 
-&emsp;“(2) A fair, credible, and transparent employee performance appraisal system.
+&emsp;"(2) A fair, credible, and transparent employee performance appraisal system.
 
-&emsp;“(3) A link between elements of the pay-for-performance system, the employee performance appraisal system, and the agency's strategic plan.
+&emsp;"(3) A link between elements of the pay-for-performance system, the employee performance appraisal system, and the agency's strategic plan.
 
-&emsp;“(4) A means for ensuring employee involvement in the design and implementation of the system.
+&emsp;"(4) A means for ensuring employee involvement in the design and implementation of the system.
 
-&emsp;“(5) Adequate training and retraining for supervisors, managers, and employees in the implementation and operation of the pay-for-performance system.
+&emsp;"(5) Adequate training and retraining for supervisors, managers, and employees in the implementation and operation of the pay-for-performance system.
 
-&emsp;“(6) A process for ensuring ongoing performance feedback and dialogue between supervisors, managers, and employees throughout the appraisal period, and setting timetables for review.
+&emsp;"(6) A process for ensuring ongoing performance feedback and dialogue between supervisors, managers, and employees throughout the appraisal period, and setting timetables for review.
 
-&emsp;“(7) Effective safeguards to ensure that the management of the system is fair and equitable and based on employee performance.
+&emsp;"(7) Effective safeguards to ensure that the management of the system is fair and equitable and based on employee performance.
 
-&emsp;“(8) A means for ensuring that adequate agency resources are allocated for the design, implementation, and administration of the pay-for-performance system.”
+&emsp;"(8) A means for ensuring that adequate agency resources are allocated for the design, implementation, and administration of the pay-for-performance system."
 

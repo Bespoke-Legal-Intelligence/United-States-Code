@@ -12,7 +12,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 #### (1) Certain children eligible under subparagraphs (A) and (G)(ii) of section 7703(a)(1)
 
-&emsp;(A) The Secretary shall treat as eligible under subparagraph (A) of section 7703(a)(1) ofthis title any child who would be eligible under such subparagraph except that the Federal property on which the child resides or on which the child's parent is employed is not in the same State in which the child attends school, if such child meets the requirements of paragraph (2).
+&emsp;(A) The Secretary shall treat as eligible under subparagraph (A) of section 7703(a)(1) of this title any child who would be eligible under such subparagraph except that the Federal property on which the child resides or on which the child's parent is employed is not in the same State in which the child attends school, if such child meets the requirements of paragraph (2).
 
 &emsp;(B) The Secretary shall treat as eligible under subparagraph (G) of section 7703(a)(1) of this title any child who would be eligible under such subparagraph except that such child does not meet the requirements of clause (ii) of such subparagraph, if such child meets the requirements of paragraph (2).
 
@@ -52,7 +52,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(1). Pub. L. 112–239, §563(b)(3)(A), (c)(4), temporarily substituted "paragraph (2)" for "paragraph (3) of this subsection" in subpars. (A) and (B). See Effective and Termination Dates of 2013 Amendment note below.
+<b>2013</b>—Subsec. (c)(1). Pub. L. 112–239, §563(b)(3)(A), substituted "paragraph (2)" for "paragraph (3) of this subsection" in subpars. (A) and (B).
 
 Subsec. (d). Pub. L. 112–239, §563(b)(3)(B), (c)(4), temporarily added subsec. (d). See Effective and Termination Dates of 2013 Amendment note below.
 
@@ -68,5 +68,5 @@ Subsec. (c)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(2)\], r
 
 #### Effective and Termination Dates of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective for a 2-year period beginning on Jan. 2, 2013, and repealed on the day after the 2-year period and this subchapter to be applied as if the amendment had never been enacted, see section 563(c) of Pub. L. 112–239 set out as a note under section 7702 of this title.
+Amendment by section 563(b)(3)(B) of Pub. L. 112–239 effective for a 5-year period beginning on Jan. 2, 2013, and repealed on the day after the 5-year period and this subchapter to be applied as if the amendment had never been enacted, see section 563(c) of Pub. L. 112–239, set out as a note under section 7702 of this title.
 

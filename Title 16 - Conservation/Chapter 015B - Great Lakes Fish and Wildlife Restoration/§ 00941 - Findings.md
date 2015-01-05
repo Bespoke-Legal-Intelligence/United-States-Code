@@ -32,7 +32,7 @@ Pub. L. 109–326, §1, Oct. 11, 2006, 120 Stat. 1761, provided that: "This Act 
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–265, §1, Oct. 19, 1998, 112 Stat. 2358, provided that: "This Act \[amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section\] may be cited asthe 'Great Lakes Fish and Wildlife Restoration Act of 1998'."
+Pub. L. 105–265, §1, Oct. 19, 1998, 112 Stat. 2358, provided that: "This Act \[amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section\] may be cited as the 'Great Lakes Fish and Wildlife Restoration Act of 1998'."
 
 #### Short Title
 
@@ -64,7 +64,7 @@ Pub. L. 109–326, §2, Oct. 11, 2006, 120 Stat. 1761, provided that: "Congress 
 
 Pub. L. 105–265, §2, Oct. 19, 1998, 112 Stat. 2358, provided that: "Congress finds that—
 
-&emsp;"(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and
+&emsp;"(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, andthe assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and
 
 &emsp;"(2) the study—
 

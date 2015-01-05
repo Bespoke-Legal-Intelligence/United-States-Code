@@ -82,7 +82,7 @@ A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, P
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647, §1006(e)(21)(A), substituted "liabilities" for "liabilities in excess of basis" in heading.
 
-Subsec. (c). Pub. L. 100–647, §1018(d)(5)(D), substituted "liquidations which are part of a reorganization" for "certain liquidations to which part III applies" in heading and amended text generally. Prior to amendment, text read as follows: "This section shall not apply with respect to any distribution of property to the extentthere is nonrecognition of gain or loss with respect to such property to the recipient under part III."
+Subsec. (c). Pub. L. 100–647, §1018(d)(5)(D), substituted "liquidations which are part of a reorganization" for "certain liquidations to which part III applies" in heading and amended text generally. Prior to amendment, text read as follows: "This section shall not apply with respect to any distribution of property to the extent there is nonrecognition of gain or loss with respect to such property to the recipient under part III."
 
 Subsec. (d)(2)(B)(ii). Pub. L. 100–647, §1006(e)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "For purposes of clause (i), any property described in clause (i)(I) acquired by the liquidating corporation during the 2-year period ending on the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as part of a plan described in clause (i)(II)."
 
@@ -118,7 +118,7 @@ In general.—The amendments made by section 632 (other than subsection (b) ther
 
 &emsp;"(2)
 
-Application of prior law.—In the case of any taxable year of an S corporation which begins after December 31, 1986, and to which the amendments made by section 632 (other than subsection (b) thereof) do not apply, paragraph (1) of section 1374(b) of the Internal Revenue Code of 1954 (as in effect on the date before the date of the enactment of this Act \[Oct. 22, 1986\]) shall be applied as if it read as follows:
+Application of prior law.—In the case of any taxable year of an S corporation which begins after December 31, 1986, and to which the amendments made by section 632 (other than subsection (b) thereof) do not apply, paragraph (1) of section 1374(b) of theInternal Revenue Code of 1954 (as in effect on the date before the date of the enactment of this Act \[Oct. 22, 1986\]) shall be applied as if it read as follows:
 
 &emsp;&emsp;" '(1) an amount equal to 34 percent of the amount by which the net capital gain of the corporation for the taxable year exceeds $25,000, or'\[.\]
 
@@ -246,7 +246,7 @@ Attribution rules.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Any stock owned by a corporation, trust (other than a trust referred to in subparagraph (B)(iii)\[)\], or partnership shall be treated as owned proportionately by its shareholders, beneficiaries, or partners, and shall not be treated as owned by such corporation, trust, or partnership. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
+In general.—Any stock owned by a corporation, trust (other than a trust referred to in subparagraph (B)(iii)\[)\], or partnership shall be treated as owned proportionately by its shareholders, beneficiaries, or partners, and shall not be treated as owned by such corporation, trust, or partnership. Stock considered to be owned by aperson by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -326,7 +326,7 @@ Other Transitional Rules.—
 
 &emsp;&emsp;&emsp;"(i) employees or retirees of such corporation, or
 
-&emsp;&emsp;&emsp;"(ii) in the case of stock or voting trust certificates acquired from an employee or retiree of such corporation, the spouse, child, or estate of such employee or retiree or a trust created by such employee or retiree which is described in section 1361(c)(2) of the Internal Revenue Code of 1986 (or treated as described in such section by reason of section 1361(d) of such Code), and
+&emsp;&emsp;&emsp;"(ii) in the case of stock or voting trust certificates acquired from an employee or retiree ofsuch corporation, the spouse, child, or estate of such employee or retiree or a trust created by such employee or retiree which is described in section 1361(c)(2) of the Internal Revenue Code of 1986 (or treated as described in such section by reason of section 1361(d) of such Code), and
 
 &emsp;&emsp;"(B) the amendment made by section 632 (other than subsection (b) thereof) shall not apply to such corporation if it elects to be an S corporation before January 1, 1989.
 

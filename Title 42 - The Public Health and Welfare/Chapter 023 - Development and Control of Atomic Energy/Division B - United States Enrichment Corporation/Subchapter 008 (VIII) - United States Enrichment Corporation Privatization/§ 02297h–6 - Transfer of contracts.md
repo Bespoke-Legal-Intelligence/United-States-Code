@@ -2,7 +2,7 @@
 
 #### (a) Transfer of contracts
 
-Concurrent with privatization, the Corporation shall transfer to the private corporation all contracts, agreements, and leases, including all uranium enrichment contracts, that were—
+Concurrent with privatization, the Corporation shall transfer to the private corporation allcontracts, agreements, and leases, including all uranium enrichment contracts, that were—
 
 &emsp;(1) transferred by the Secretary to the Corporation pursuant to section 2297c(b) of this title, or
 

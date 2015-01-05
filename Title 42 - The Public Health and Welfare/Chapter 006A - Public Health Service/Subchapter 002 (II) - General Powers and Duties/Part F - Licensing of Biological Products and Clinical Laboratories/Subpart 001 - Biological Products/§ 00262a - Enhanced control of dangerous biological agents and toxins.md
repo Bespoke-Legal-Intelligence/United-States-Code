@@ -70,7 +70,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 &emsp;&emsp;(A) provide access to listed agents and toxins to only those individuals whom the registered person involved determines have a legitimate need to handle or use such agents and toxins;
 
-&emsp;&emsp;(B) submit the names and other identifying information for such individuals to theSecretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years;
+&emsp;&emsp;(B) submit the names and other identifying information for such individuals to the Secretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years;
 
 &emsp;&emsp;(C) deny access to such agents and toxins by individuals whom the Attorney General has identified as restricted persons; and
 
@@ -98,7 +98,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (C) Notification by Attorney General regarding submitted names
 
-&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B), the Attorney General shall promptly notify the Secretary whether the individual is within any of the categories specified in subparagraph (B).
+&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B),the Attorney General shall promptly notify the Secretary whether the individual is within any of the categories specified in subparagraph (B).
 
 #### (4) Notifications by Secretary
 
@@ -150,7 +150,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (ii) Disclosure of information
 
-&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>1</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) of this section shall not be disclosed under section 552 of title 5.
+&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>1</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) of thissection shall not be disclosed under section 552 of title 5.
 
 #### (8) Notifications regarding theft or loss of agents
 
@@ -256,7 +256,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(C) general safeguard and security policies and requirements under regulations under subsections (b) and (c) of this section; or
 
-&emsp;&emsp;(D) summary or statistical information concerning registrations, registrants, denials or revocations of registrations, listedagents and toxins, inspection evaluations and reports, or individuals seeking access to such agents and toxins.
+&emsp;&emsp;(D) summary or statistical information concerning registrations, registrants, denials or revocations of registrations, listed agents and toxins, inspection evaluations and reports, or individuals seeking access to such agents and toxins.
 
 #### (5) Disclosures to Congress; other disclosures
 
@@ -278,7 +278,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (l) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
+Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin\(as defined in subsection (l) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
 
 #### (k) Reports
 
@@ -334,7 +334,7 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), i
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date
 
@@ -362,7 +362,7 @@ Pub. L. 107–188, title II, §202, June 12, 2002, 116 Stat. 646, provided that:
 
 "(a)
 
-Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(g)\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[42 U.S.C. 262a\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
+Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(g)\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the PublicHealth Service Act \[42 U.S.C. 262a\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
 
 "(b)
 
@@ -404,7 +404,7 @@ Sec. 3. <i>Findings</i>. (a) The use of BSAT presents the risk that BSAT might b
 
 Sec. 4. <i>Risk-based Tiering of the Select Agent List</i>. To help ensure that BSAT are secured according to level of risk, the Secretaries of Health and Human Services and Agriculture shall, through their ongoing review of the biological Select Agents and Toxins List ("Select Agent List") contained in regulations, and no later than 18 months from the date of this order:
 
-(a) designate a subset of the Select Agent List (Tier 1) that presents the greatest risk of deliberate misuse with most significant potential for mass casualties ordevastating effects to the economy, critical infrastructure, or public confidence;
+(a) designate a subset of the Select Agent List (Tier 1) that presents the greatest risk of deliberate misuse with most significant potential for mass casualties or devastating effects to the economy, critical infrastructure, or public confidence;
 
 (b) explore options for graded protection of Tier 1 agents and toxins as described in subsection (a) of this section to permit tailored risk management practices based upon relevant contextual factors; and
 
@@ -503,6 +503,8 @@ Sec. 9. <i>General Provisions</i>. (a) The National Security Staff shall, on a b
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be "judicial".</i>
 

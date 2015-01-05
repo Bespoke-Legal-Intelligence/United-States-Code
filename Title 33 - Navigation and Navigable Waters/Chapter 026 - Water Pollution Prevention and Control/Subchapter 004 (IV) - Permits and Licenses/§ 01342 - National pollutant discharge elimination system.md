@@ -44,7 +44,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (6) To insure that no permit will be issued if, in the judgment of the Secretary of the Army acting through the Chief of Engineers, after consultation with the Secretary of the department in which the Coast Guard is operating, anchorage and navigation of any of the navigable waters would be substantially impaired thereby;
 
-(7) To abate violations of the permit or the permit program, including civil and criminal penalties and other ways and means of enforcement;
+(7) To abate violations of the permit or the permit program, including civil and criminalpenalties and other ways and means of enforcement;
 
 (8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A) new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into such works by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
 
@@ -113,6 +113,18 @@ Compliance with a permit issued pursuant to this section shall be deemed complia
 #### (2) Stormwater runoff from oil, gas, and mining operations
 
 &emsp;The Administrator shall not require a permit under this section, nor shall the Administrator directly or indirectly require any State to require a permit, for discharges of stormwater runoff from mining operations or oil and gas exploration, production, processing, or treatment operations or transmission facilities, composed entirely of flows which are from conveyances or systems of conveyances (including but not limited to pipes, conduits, ditches, and channels) used for collecting and conveying precipitation runoff and which are not contaminated by contact with, or do not come into contact with, any overburden, raw material, intermediate products, finished product, byproduct, or waste products located on the site of such operations.
+
+#### (3) Silvicultural activities
+
+&emsp;(A)
+
+NPDES permit requirements for silvicultural activities.—The Administrator shall not require a permit under this section nor directly or indirectly require any State to require a permit under this section for a discharge from runoff resulting from the conduct of the following silviculture activities conducted in accordance with standard industry practice: nursery operations, site preparation, reforestation and subsequent cultural treatment, thinning, prescribed burning, pest and fire control, harvesting operations, surface drainage, or road construction and maintenance.
+
+&emsp;(B)
+
+Other requirements.—Nothing in this paragraph exempts a discharge from silvicultural activity from any permitting requirement under section 1344 of this title, existing permitting requirements under section 1342 of this title, or from any other federal law.
+
+&emsp;(C) The authorization provided in Section <sup>1</sup> 1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6) <sup>2</sup> of this title for the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title, or to any other limitations that might be deemed to apply to the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title.
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
@@ -232,7 +244,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (6) Regulations
 
-&emsp;Not later than October 1, 1993, the Administrator, in consultation with State and local officials, shall issue regulations (based on the results of the studies conducted under paragraph (5)) which designate stormwater discharges, other than those discharges described in paragraph (2), to be regulated to protectwater quality and shall establish a comprehensive program to regulate such designated sources. The program shall, at a minimum, (A) establish priorities, (B) establish requirements for State stormwater management programs, and (C) establish expeditious deadlines. The program may include performance standards, guidelines, guidance, and management practices and treatment requirements, as appropriate.
+&emsp;Not later than October 1, 1993, the Administrator, in consultation with State and local officials, shall issue regulations (based on the results of the studies conducted under paragraph (5)) which designate stormwater discharges, other than those discharges described in paragraph (2), to be regulated to protect water quality and shall establish a comprehensive program to regulate such designated sources. The program shall, at a minimum, (A) establish priorities, (B) establish requirements for State stormwater management programs, and (C) establish expeditious deadlines. Theprogram may include performance standards, guidelines, guidance, and management practices and treatment requirements, as appropriate.
 
 #### (q) Combined sewer overflows
 
@@ -252,9 +264,11 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 No permit shall be required under this chapter by the Administrator (or a State, in the case of a permit program approved under subsection (b)) for the discharge of any graywater, bilge water, cooling water, weather deck runoff, oil water separator effluent, or effluent from properly functioning marine engines, or any other discharge that is incidental to the normal operation of a vessel, if the discharge is from a recreational vessel.
 
-(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, §2, July 29, 2008, 122 Stat. 2650.)
+(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, §2, July 29, 2008, 122 Stat. 2650; Pub. L. 113–79, title XII, §12313, Feb. 7, 2014, 128 Stat. 992.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (l)(3). Pub. L. 113–79 added par. (3).
 
 <b>2008</b>—Subsec. (r). Pub. L. 110–288 added subsec. (r).
 
@@ -298,7 +312,7 @@ Enforcement functions of Administrator or other official of the Environmental Pr
 
 #### Permit Requirements for Discharges From Certain Vessels
 
-Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat.2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580, provided that:
+Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat.2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, §602, Dec. 18, 2014, 128 Stat. 3061, provided that:
 
 #### "SECTION 1. DEFINITIONS.
 
@@ -324,7 +338,7 @@ Other terms.—The terms 'contiguous zone', 'discharge', 'ocean', and 'State' ha
 
 "(a)
 
-No Permit Requirement.—Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2014, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342), shall not require a permit under that section for a covered vessel for—
+No Permit Requirement.—Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2017, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342), shall not require a permit under that section for a covered vessel for—
 
 &emsp;"(1) any discharge of effluent from properly functioning marine engines;
 
@@ -439,4 +453,8 @@ Log Transfer Facility Defined.—For the purposes of this section, the term 'log
 #### Allowable Delay in Modifying Existing Approved State Permit Programs To Conform to 1977 Amendment
 
 Pub. L. 95–217, §54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

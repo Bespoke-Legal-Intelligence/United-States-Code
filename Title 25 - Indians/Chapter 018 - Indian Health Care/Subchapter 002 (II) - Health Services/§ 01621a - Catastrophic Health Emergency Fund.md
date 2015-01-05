@@ -10,7 +10,7 @@ There is established an Indian Catastrophic Health Emergency Fund (hereafter in 
 
 #### (b) Administration
 
-CHEF shall be administered by the Secretary, acting through the headquarters of the Service, solely for the purpose of meeting the extraordinary medical costs associated with the treatment of victims of disasters or catastrophic illnesses who are within the responsibility of the Service.
+CHEF shall be administered by the Secretary, acting through the headquarters of the Service,solely for the purpose of meeting the extraordinary medical costs associated with the treatment of victims of disasters or catastrophic illnesses who are within the responsibility of the Service.
 
 #### (c) Conditions on use of Fund
 

@@ -94,13 +94,13 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 <b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–325, §301(e)(1)(A), in concluding provisions, substituted "reported by the regulated investment company as eligible for such deduction in written statements furnished to its shareholders" for "designated under this subparagraph by the regulated investment company".
 
-Subsec. (b)(1)(B)(i). Pub. L. 111–325, §301(e)(1)(B), in concluding provisions, substituted "reported by the regulated investment company as qualified dividend income in written statements furnished to its shareholders" for "designated by the regulated investment company".
+Subsec. (b)(1)(B)(i). Pub. L. 111–325, §301(e)(1)(B), in concluding provisions, substituted "reported by theregulated investment company as qualified dividend income in written statements furnished to its shareholders" for "designated by the regulated investment company".
 
 Subsec. (b)(1)(C)(i). Pub. L. 111–325, §301(e)(1)(C), substituted "reported" for "designated".
 
 Subsec. (b)(1)(C)(ii). Pub. L. 111–325, §301(e)(1)(D), substituted "reported" for "designated" in introductory provisions.
 
-Subsec. (b)(2) to (5). Pub. L. 111–325, §301(e)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text read as follows: "The amount of any distribution by a regulated investment company which may be taken into account as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of the deduction under section 243 shall not exceed theamount so designated by the company in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year."
+Subsec. (b)(2) to (5). Pub. L. 111–325, §301(e)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text read as follows: "The amount of any distribution by a regulated investment company which may be taken into account as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of the deduction under section 243 shall not exceed the amount so designated by the company in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year."
 
 <b>2004</b>—Subsec. (b)(1)(B)(i). Pub. L. 108–311, §402(a)(5)(A)(ii), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the maximum rate under section 1(h)(11), rules similar to the rules of subparagraph (A) shall apply."
 

@@ -178,7 +178,7 @@ Another prior section 1003, Pub. L. 89–329, title I, §103, as added Pub. L. 9
 
 Another prior section 1003, Pub. L. 89–329, title I, §103, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1375, related to duties of the Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1003, Pub. L. 89–329, title I, §103, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 92–318, title I,§102(a)(2), June 23, 1972, 86 Stat. 237; Pub. L. 94–482, title I, §101(b)(2), (g)(2), Oct. 12, 1976, 90 Stat. 2084, 2086; Pub. L. 95–43, §1(a)(1), June 15, 1977, 91 Stat. 213; Pub. L. 96–96, §1, Oct. 31, 1979, 93 Stat. 729, provided for the allotment of funds to States, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1003, Pub. L. 89–329, title I, §103, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 92–318, title I, §102(a)(2), June 23, 1972, 86 Stat. 237; Pub. L. 94–482, title I, §101(b)(2), (g)(2), Oct. 12, 1976, 90 Stat. 2084, 2086; Pub. L. 95–43, §1(a)(1), June 15, 1977, 91 Stat. 213; Pub. L. 96–96, §1, Oct. 31, 1979, 93 Stat. 729, provided for the allotment of funds to States, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 460; amended Pub. L. 103–208, §2(a)(2), Dec. 20, 1993, 107 Stat. 2457, related to grant applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -204,7 +204,7 @@ Section 1007, Pub. L. 89–329, title I, §108, formerly §107, Nov. 8, 1965, 79
 
 Section 1008, Pub. L. 89–329, title I, §109, formerly §108, Nov. 8, 1965, 79 Stat. 1222, renumbered Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 236, and amended Pub. L. 94–482, title I, §101(d), Oct. 12, 1976, 90 Stat. 2085, provided for judicial review of actions of Commissioner of Education and scope of that review.
 
-Section 1008a, Pub. L. 89–329, title I, §110, as added Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59, and amended Pub. L. 94–135, title II, §201, Nov. 28, 1975, 89 Stat. 726; Pub. L. 94–482, title I, §101(g)(2), Oct. 12, 1976, 90 Stat. 2086, provided for programs and projects relating to problems of the elderly.
+Section 1008a, Pub. L. 89–329, title I, §110, as added Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59, and amended Pub. L. 94–135, title II, §201, Nov. 28, 1975, 89 Stat. 726; Pub. L. 94–482, title I, §101(g)(2), Oct. 12,1976, 90 Stat. 2086, provided for programs and projects relating to problems of the elderly.
 
 Section 1008b, Pub. L. 89–329, title I, §111, as added Pub. L. 94–482, title I, §101(e), Oct. 12, 1976, 90 Stat. 2085, related to technical assistance and administration.
 

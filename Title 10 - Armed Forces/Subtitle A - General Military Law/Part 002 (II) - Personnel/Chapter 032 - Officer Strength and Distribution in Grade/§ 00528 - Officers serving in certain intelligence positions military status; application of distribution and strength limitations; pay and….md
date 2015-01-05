@@ -36,7 +36,7 @@ Military Pay and Allowances.—(1) An officer of the armed forces on active duty
 
 &emsp;(A) For an officer serving in a position within the Central Intelligence Agency, such reimbursement shall be made from funds available to the Director of the Central Intelligence Agency.
 
-&emsp;(B) For an officer serving in a position within the Office of the Director of National Intelligence, such reimbursement shall be madefrom funds available to the Director of National Intelligence.
+&emsp;(B) For an officer serving in a position within the Office of the Director of National Intelligence, such reimbursement shall be made from funds available to the Director of National Intelligence.
 
 (g)
 

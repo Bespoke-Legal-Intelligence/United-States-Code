@@ -26,7 +26,7 @@ Oct. 14, 1949, ch. 691, §305(b), 63 Stat. 868.
 
 5 U.S.C. 803a.
 
-Aug. 3, 1956, ch. 926, §1 “Sec. 4”, 70 Stat. 981.
+Aug. 3, 1956, ch. 926, §1 "Sec. 4", 70 Stat. 981.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

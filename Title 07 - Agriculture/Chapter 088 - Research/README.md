@@ -89,26 +89,26 @@
 |  |  |
 | :--- | ---: |
 | [5921\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005921%20-%20Biotechnology%20risk%20assessment%20research.md) | Biotechnology risk assessment research. |
-| 5921a, 5922. Repealed. |  |
-| [5923\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005923%20-%20Rural%20electronic%20commerce%20extension%20program.md) | Rural electronic commerce extension program. |
+| 5921a to 5923. Repealed. |  |
 | [5924\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005924%20-%20Agricultural%20Genome%20Initiative.md) | Agricultural Genome Initiative. |
 | [5925\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925%20-%20High-priority%20research%20and%20extension%20initiatives.md) | High-priority research and extension initiatives. |
-| [5925a.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925a%20-%20Nutrient%20management%20research%20and%20extension%20initiative.md) | Nutrient management research and extension initiative. |
+| [5925a.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77210%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20885.md) | Repealed. |
 | [5925b.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925b%20-%20Organic%20agriculture%20research%20and%20extension%20initiative.md) | Organic agriculture research and extension initiative. |
 | [5925c.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925c%20-%20Organic%20production%20and%20market%20data%20initiatives.md) | Organic production and market data initiatives. |
 | [5925d.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925d%20-%20International%20organic%20research%20collaboration.md) | International organic research collaboration. |
-| [5925e.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925e%20-%20Agricultural%20bioenergy%20feedstock%20and%20energy%20efficiency%20research%20and%20extension%20initiative.md) | Agricultural bioenergy feedstock and energy efficiency research and extension initiative. |
+| [5925e.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925e%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77212%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20886.md) | Repealed. |
 | [5925f.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925f%20-%20Farm%20business%20management.md) | Farm business management. |
-| 5926 to 5928. Repealed. |  |
-| [5929\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005929%20-%20Red%20meat%20safety%20research%20center.md) | Red meat safety research center. |
+| [5926\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005926%20-%20Centers%20of%20excellence.md) | Centers of excellence. |
+| 5927 to 5929. Repealed. |  |
 | [5930\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005930%20-%20Reservation%20extension%20agents.md) | Reservation extension agents. |
 | 5931, 5932. Repealed. |  |
 | [5933\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005933%20-%20Assistive%20technology%20program%20for%20farmers%20with%20disabilities.md) | Assistive technology program for farmers with disabilities. |
-| [5934\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005934%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20VII%2C%20%C2%A77211%2C%20May%2022%2C%202008%2C%20122%20Stat.%201242%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20VII%2C%20%C2%A77211%2C%20June%2018%E2%80%A6.md) | Repealed. |
-| [5935\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005935%20-%20Use%20of%20remote%20sensing%20data%20and%20other%20data%20to%20anticipate%20potential%20food%2C%20feed%2C%20and%20fiber%20shortages%20or%20excesses%20and%20to%20provide%20timely%E2%80%A6.md) | Use of remote sensing data and other data to anticipate potential food, feed, and fiber shortages or excesses and to provide timely information to assist farmers with planting decisions. |
+| 5934, 5935. Repealed. |  |
 | [5936\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005936%20-%20Farm%20and%20Ranch%20Stress%20Assistance%20Network.md) | Farm and Ranch Stress Assistance Network. |
 | [5937\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005937%20-%20Natural%20products%20research%20program.md) | Natural products research program. |
-| [5938\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005938%20-%20Agricultural%20and%20rural%20transportation%20research%20and%20education.md) | Agricultural and rural transportation research and education. |
+| [5938\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005938%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77518%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20904.md) | Repealed. |
+| [5939\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005939%20-%20Foundation%20for%20Food%20and%20Agriculture%20Research.md) | Foundation for Food and Agriculture Research. |
+| [5940\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005940%20-%20Legitimacy%20of%20industrial%20hemp%20research.md) | Legitimacy of industrial hemp research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

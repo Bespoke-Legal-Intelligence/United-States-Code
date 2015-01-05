@@ -42,7 +42,7 @@ Annual Report.—
 
 &emsp;(1)
 
-Report required.—Not later than October 31 following each fiscal year in which the authority in this section is used, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the exercise of the authority during such fiscal year.
+Report required.—Not later than October 31 following each fiscal year in which the authority in this section is used, the Secretaryof Defense shall submit to the appropriate committees of Congress a report on the exercise of the authority during such fiscal year.
 
 &emsp;(2)
 

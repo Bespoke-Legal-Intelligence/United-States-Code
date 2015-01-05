@@ -52,7 +52,7 @@ The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec
 
 For definition of Canal Zone, referred to in subsec. (i), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Ex. Ord. No. 11126, Nov. 1, 1963, 28 F.R. 11717, as amended by Ex. Ord. No. 1122
 
 #### Ex. Ord. No. 11246. Equal Opportunity in Federal Employment
 
-Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended by Ex. Ord. No. 11375, Oct. 13, 1967, 32 F.R. 14303; Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985; Ex. Ord. No. 12086, Oct. 5, 1978, 43 F.R. 46501; Ex. Ord. No. 13279, §4, Dec. 12, 2002, 67 F.R. 77143, provided:
+Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended by Ex. Ord. No. 11375, Oct. 13, 1967, 32 F.R. 14303; Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985; Ex. Ord. No. 12086, Oct. 5, 1978, 43 F.R. 46501; Ex. Ord. No. 13279, §4, Dec. 12, 2002, 67 F.R. 77143; Ex. Ord. No. 13665, §2, Apr. 8, 2014, 79 F.R. 20749; Ex. Ord. No. 13672, §2, July 21, 2014, 79 F.R. 42971, provided:
 
 Under and by virtue of the authority vested in me as President of the United States by the Constitution and statutes of the United States, it is ordered as follows:
 
@@ -142,19 +142,21 @@ Sec. 202. Except in contracts exempted in accordance with Section 204 of this Or
 
 "During the performance of this contract, the contractor agrees as follows:
 
-"(1) The contractor will not discriminate against any employee or applicant for employment because of race, color, religion, sex, or national origin. The contractor will take affirmative action to ensure that applicants are employed, and that employees are treated during employment, without regard to their race, color, religion, sex or national origin. Such action shall include, but not be limited to the following: employment, upgrading, demotion, or transfer; recruitment or recruitment advertising; layoff or termination; rates of pay or other forms of compensation; and selection for training, including apprenticeship. The contractor agrees to post in conspicuous places, available to employees and applicants for employment, notices to be provided by the contracting officer setting forth the provisions of this nondiscrimination clause.
+"(1) The contractor will not discriminate against any employee or applicant for employment because of race, color, religion, sex, sexual orientation, gender identity, or national origin. The contractor will take affirmativeaction to ensure that applicants are employed, and that employees are treated during employment, without regard to their race, color, religion, sex, sexual orientation, gender identity, or national origin. Such action shall include, but not be limited to the following: employment, upgrading, demotion, or transfer; recruitment or recruitment advertising; layoff or termination; rates of pay or other forms of compensation; and selection for training, including apprenticeship. The contractor agrees to post in conspicuous places, available to employees and applicants for employment, notices to be provided by the contracting officer setting forth the provisions of this nondiscrimination clause.
 
-"(2) The contractor will, in all solicitations or advertisements for employees placed by or on behalf of the contractor, state that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex or national origin.
+"(2) The contractor will, in all solicitations or advertisements for employees placed by or on behalf of the contractor, state that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.
 
-"(3) The contractor will send to each labor union or representative of workers with which he has a collective bargaining agreement or other contract or understanding, a notice, to be provided by the agency contracting officer, advising the labor union or workers' representative of the contractor's commitments under Section 202 of Executive Order No. 11246 of September 24, 1965, and shall post copies of the notice in conspicuous places available to employees and applicants for employment.
+"\[(3)\] The contractor will not discharge or in any other manner discriminate against any employee or applicant for employment because such employee or applicant has inquired about, discussed, or disclosed the compensation of the employee or applicant or another employee or applicant. This provision shall not apply to instances in which an employee who has access to the compensation information of other employees or applicants as a part of such employee's essential job functions discloses the compensation of such other employees or applicants to individuals who do not otherwise have access to such information, unless such disclosure is in response to a formal complaint or charge, in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or is consistent with the contractor's legal duty to furnish information.
 
-"(4) The contractor will comply with all provisions of Executive Order No. 11246 of Sept. 24, 1965, and of the rules, regulations, and relevant orders of the Secretary of Labor.
+"(4) The contractor will send to each labor union or representative of workers with which he has a collective bargaining agreement or other contract or understanding, a notice, to be provided by the agency contracting officer, advising the labor union or workers' representative of the contractor's commitments under Section 202 of Executive Order No. 11246 of September 24, 1965, and shall post copies of the notice in conspicuous places available to employees and applicants for employment.
 
-"(5) The contractor will furnish all information and reports required by Executive Order No. 11246 of September 24, 1965, and by the rules, regulations, and orders of the Secretary of Labor, or pursuant thereto, and will permit access to his books, records, and accounts by the contracting agency and the Secretary of Labor for purposes of investigation to ascertain compliance with such rules, regulations, and orders.
+"(5) The contractor will comply with all provisions of Executive Order No. 11246 of Sept. 24, 1965, and of the rules, regulations, and relevant orders of the Secretary of Labor.
 
-"(6) In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, this contract may be cancelled, terminated or suspended in whole or in part and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in Executive Order No. 11246 of Sept. 24, 1965, and such other sanctions may be imposed and remedies invoked as provided in Executive Order No. 11246 of September 24, 1965, or by rule, regulation, or order of the Secretary of Labor, or as otherwise provided by law.
+"(6) The contractor will furnish all information and reports required by Executive Order No. 11246 of September 24, 1965, and by the rules, regulations, and orders of the Secretary of Labor, or pursuant thereto, and will permit access to his books, records, and accounts by the contracting agency and the Secretary of Labor for purposes of investigation to ascertain compliance with such rules, regulations, and orders.
 
-"(7) The contractor will include the provisions of paragraphs (1) through (7) in every subcontract or purchase order unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to Section 204 of Executive Order No. 11246 of September 24, 1965 \[section 204 of this Order\] so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions including sanctions for noncompliance: <i>Provided, however</i>, that in the event the contractor becomes involved in, or is threatened with, litigation with a subcontractor or vendor as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States."
+"(7) In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, this contract may be cancelled, terminated or suspended in whole or in part and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in Executive Order No. 11246 of Sept. 24, 1965, and such other sanctions may be imposed and remedies invoked as provided in Executive Order No. 11246 of September 24, 1965, or by rule, regulation, or order of the Secretary of Labor, or as otherwise provided by law.
+
+"(8) The contractor will include the provisions of paragraphs (1) through (7) in every subcontract or purchase order unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to Section 204 of Executive Order No. 11246 of September 24, 1965 \[section 204 of this Order\] so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions including sanctions for noncompliance: <i>Provided, however</i>, that in the event the contractor becomes involved in, or is threatened with, litigation with a subcontractor or vendor as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States."
 
 Sec. 203. (a) Each contractor having a contract containing the provisions prescribed in Section 202 shall file, and shall cause each of his subcontractors to file, Compliance Reports with the contracting agency or the Secretary of Labor as may be directed. Compliance Reports shall be filed within such times and shall contain such information as to the practices, policies, programs, and employment policies, programs, and employment statistics of the contractor and each subcontractor, and shall be in such form, as the Secretary of Labor may prescribe.
 
@@ -162,7 +164,7 @@ Sec. 203. (a) Each contractor having a contract containing the provisions prescr
 
 (c) Whenever the contractor or subcontractor has a collective bargaining agreement or other contract or understanding with a labor union or an agency referring workers or providing or supervising apprenticeship or training for such workers, the Compliance Report shall include such information as to such labor union's or agency's practices and policies affecting compliance as the Secretary of Labor may prescribe: <i>Provided</i>, That to the extent such information is within the exclusive possession of a labor union or any agency referring workers or providing or supervising apprenticeship or training and such labor union or agency shall refuse to furnish such information to the contractor, the contractor shall so certify to the Secretary of Labor as part of its Compliance Report and shall set forth what efforts he has made to obtain such information.
 
-(d) The Secretary of Labor may direct that any bidder or prospective contractor or subcontractor shall submit, as part of his Compliance Report, a statement in writing, signed by an authorized officer or agent on behalf of any labor union or any agency referring workers or providing or supervising apprenticeship or other training, with which the bidder or prospective contractor deals, with supporting information, to the effect that the signer's practices and policies do not discriminate on the grounds of race, color, religion, sex or national origin, and that the signer either will affirmatively cooperate in the implementation of the policy and provisions of this order or that it consents and agrees that recruitment, employment, and the terms and conditions of employment under the proposed contract shall be in accordance with the purposes and provisions of the order. In the event that the union, or the agency shall refuse to execute such a statement, the Compliance Report shall so certify and set forth what efforts have been made to secure such a statement and such additional factual material as the Secretary of Labor may require.
+(d) The Secretary of Labor may direct that any bidder or prospective contractor or subcontractor shall submit, as part of his Compliance Report, a statement in writing, signed by an authorized officer or agent on behalf of any labor union or any agency referring workers or providing or supervising apprenticeship or other training, with which the bidder or prospective contractor deals, with supporting information, to the effect that the signer's practices and policies do not discriminate on the grounds of race, color, religion, sex, sexual orientation, gender identity, or national origin, and that the signer either will affirmatively cooperate in the implementation of the policy and provisions of this order or that it consents and agrees that recruitment, employment, and the terms and conditions of employment under the proposed contract shall be in accordance with the purposes and provisions of the order. In the event that the union, or the agency shall refuse to execute such a statement, the Compliance Report shall so certify and set forth what efforts have been made to secure such a statement and such additional factual material as the Secretary of Labor may require.
 
 Sec. 204. (a) The Secretary of Labor may, when the Secretary deems that special circumstances in the national interest so require, exempt a contracting agency from the requirement of including any or all of the provisions of Section 202 of this Order in any specific contract, subcontract, or purchase order.
 
@@ -252,11 +254,11 @@ Sec. 405. This Order shall become effective thirty days after the date of this O
 
 #### Ex. Ord. No. 11478. Equal Employment Opportunity in Federal Government
 
-Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, as amended by Ex. Ord. No. 11590, Apr. 23, 1971, 36 F.R. 7831; Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 13087, May 28, 1998, 63 F.R. 30097; Ex. Ord. No. 13152, May 2, 2000, 65 F.R. 26115, provided:
+Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, as amended by Ex. Ord. No. 11590, Apr. 23, 1971, 36 F.R. 7831; Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 13087, May 28, 1998, 63 F.R. 30097; Ex. Ord. No. 13152, May 2, 2000, 65 F.R. 26115; Ex. Ord. No. 13672, §1, July 21, 2014, 79 F.R. 42971, provided:
 
 NOW THEREFORE, under and by virtue of the authority vested in me as President of the United States by the Constitution and statutes of the United States, it is ordered as follows:
 
-Section 1. It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, age, sexual orientation, or status as a parent., \[sic\] and to promote the full realization of equal employment opportunity through acontinuing affirmative program in each executive department and agency. This policy of equal opportunity applies to and must be an integral part of every aspect of personnel policy and practice in the employment, development, advancement, and treatment of civilian employees of the Federal Government, to the extent permitted by law.
+Section 1. It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, age, sexual orientation, gender identity, or status as a parent., \[sic\] and to promote the full realization of equal employment opportunity through a continuing affirmative program in each executive department and agency. This policy of equal opportunity applies to and must be an integral part of every aspect of personnel policy and practice in the employment, development, advancement, and treatment of civilian employees of the Federal Government, to the extent permitted by law.
 
 Sec. 2. The head of each executive department and agency shall establish and maintain an affirmative program of equal employment opportunity for all civilian employees and applicants for employment within his jurisdiction in accordance with the policy set forth in section 1. It is the responsibility of each department and agency head, to the maximum extent possible, to provide sufficient resources to administer such a program in a positive and effective manner; assure that recruitment activities reach all sources of job candidates; utilize to the fullest extent the present skills of each employee; provide the maximum feasible opportunity to employees to enhance their skills so they may perform at their highest potential and advance in accordance with their abilities; provide training and advice to managers and supervisors to assure their understanding and implementation of the policy expressed in this Order; assure participation at the local level with other employers, schools, and public or private groups in cooperative efforts to improve community conditions which affect employability; and provide for a system within the department or agency for periodically evaluating the effectiveness with which the policy of this Order is being carried out.
 
@@ -362,7 +364,7 @@ Specific Responsibilities
 
 Annual Report
 
-1–401. The Equal Employment Opportunity Commission shall include in the annual report transmitted to the President and the Congress pursuant to Section 715 of Title VII of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–14), a statement of the progress that has been made in achieving the purpose of this order. The Equal Employment Opportunity Commission shall provide Federal departments and agencies an opportunity to comment on the report prior to formal submission.
+1–401. The Equal Employment Opportunity Commission shall include in the annual report transmitted to the President and the Congress pursuant to Section 715of Title VII of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–14), a statement of the progress that has been made in achieving the purpose of this order. The Equal Employment Opportunity Commission shall provide Federal departments and agencies an opportunity to comment on the report prior to formal submission.
 
 #### 1–5.
 
@@ -456,7 +458,7 @@ Sec. 206. (a) The Secretary of Labor may investigate the employment practices of
 
 "(b) Pursuant to rules and regulations prescribed by the Secretary of Labor, the Secretary shall make reasonable efforts, within a reasonable time limitation, to secure compliance with the contract provisions of this Order by methods of conference, conciliation, mediation, and persuasion before proceedings shall be instituted under subsection (a)(2) of this Section, or before a contract shall be cancelled or terminated in whole or in part under subsection (a)(5) of this Section.".
 
-1–210. In order to reflect the responsibility of the contracting agencies for prompt compliance with the directions of the Secretary of Labor, Sections 210 and 211of Executive Order No. 11246, as amended, are amended to read:
+1–210. In order to reflect the responsibility of the contracting agencies for prompt compliance with the directions of the Secretary of Labor, Sections 210 and 211 of Executive Order No. 11246, as amended, are amended to read:
 
 "
 
@@ -718,7 +720,7 @@ Sec. 3. <i>Mission and Functions of the Council</i>. The Council shall work acro
 
 Sec. 4. <i>Outreach</i>. Consistent with the objectives set out in this order, the Council, in accordance with applicable law, in addition to regular meetings, shall conduct outreach with representatives of nonprofit organizations, State and local government agencies, elected officials, and other interested persons that will assist with the Council's development of a detailed set of recommendations.
 
-Sec. 5. <i>Federal Interagency Plan</i>. The Council shall, within 150 days of the date of this order, develop and submit to the President a Federal interagency plan with recommendations for interagency action consistent with the goals of this order. The Federal interagency plan shall include an assessment by each member executive department, agency, or office of the status and scope of its efforts to further the progress and advancement of women and girls. Such an assessment shall include a report on the status of any offices or programs that have been created to develop, implement, or monitor targeted initiatives concerning women or girls. The Federal interagency plan shall also include recommendations for issues, programs, or initiatives that should be further evaluated or studied by the Council. The Council shall review and update the Federal interagency plan periodically, as appropriate,and shall present to the President any updated recommendations or findings.
+Sec. 5. <i>Federal Interagency Plan</i>. The Council shall, within 150 days of the date of this order, develop and submit to the President a Federal interagency plan with recommendations for interagency action consistent with the goals of this order. The Federal interagency plan shall include an assessment by each member executive department, agency, or office of the status and scope of its efforts to further the progress and advancement of women and girls. Such an assessment shall include a report on the status of any offices or programs that have been created to develop, implement, or monitor targeted initiatives concerning women or girls. The Federal interagency plan shall also include recommendations for issues, programs, or initiatives that should be further evaluated or studied by the Council. The Council shall review and update the Federal interagency plan periodically, as appropriate, and shall present to the President any updated recommendations or findings.
 
 Sec. 6. <i>General Provisions</i>. (a) The heads of executive departments and agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary to carry out the functions of the Council. Each executive department and agency shall bear its own expense for participating in the Council.
 
@@ -766,7 +768,7 @@ Sec. 2. <i>Government-Wide Diversity and Inclusion Initiative and Strategic Plan
 
 (d) establish a system for reporting regularly on agencies' progress in implementing their agency-specific Diversity and Inclusion Strategic Plans and in meeting the objectives of this order.
 
-Sec. 3. <i>Responsibilities of Executive Departments and Agencies</i>. All agencies shall implement the Government-wide Plan prepared pursuant to section 2 of this order, and such other related guidance as issued from time to time by the Director of OPM and Deputy Director for Management of OMB. In addition, the head of each executive department and agency referred to under subsections (1) and (2) of section 901(b) of title 31, United States Code, shall:
+Sec. 3. <i>Responsibilities of Executive Departments and Agencies</i>. All agencies shall implement the Government-wide Plan prepared pursuant to section 2 of this order, and such other related guidance as issued fromtime to time by the Director of OPM and Deputy Director for Management of OMB. In addition, the head of each executive department and agency referred to under subsections (1) and (2) of section 901(b) of title 31, United States Code, shall:
 
 (a) designate the agency's Chief Human Capital Officer to be responsible for enhancing employment and promotion opportunities within the agency, in collaboration with the agency's Director of Equal Employment Opportunity and Director of Diversity and Inclusion, if any, and consistent with law and merit system principles, including development and implementation of the agency-specific Diversity and Inclusion Strategic Plan;
 
@@ -785,6 +787,62 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13665. Non-Retaliation for Disclosure of Compensation Information
+
+Ex. Ord. No. 13665, Apr. 8, 2014, 79 F.R. 20749, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act \[of 1949\], 40 U.S.C. 101 <i>et seq</i>., and in order to take further steps to promote economy and efficiency in Federal Government procurement, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. This order is designed to promote economy and efficiency in Federal Government procurement. It is the policy of the executive branch to enforce vigorously the civil rights laws of the United States, including those laws that prohibit discriminatory practices with respect to compensation. Federal contractors that employ such practices are subject to enforcement action, increasing the risk of disruption, delay, and increased expense in Federal contracting. Compensation discrimination also can lead to labor disputes that are burdensome and costly.
+
+When employees are prohibited from inquiring about, disclosing, or discussing their compensation with fellow workers, compensation discrimination is much more difficult to discover and remediate, and more likely to persist. Such prohibitions (either express or tacit) also restrict the amount of information available to participants in the Federal contracting labor pool, which tends to diminish market efficiency and decrease the likelihood that the most qualified and productive workers are hired at the market efficient price. Ensuring that employees of Federal contractors may discuss their compensation without fear of adverse action will enhance the ability of Federal contractors and their employees to detect and remediate unlawful discriminatory practices, which will contribute to a more efficient market in Federal contracting.
+
+Sec. 2. \[Amended Ex. Ord. No. 11246, set out above.\]
+
+Sec. 3. <i>Regulations</i>. Within 160 days of the date of this order, the Secretary of Labor shall propose regulations to implement the requirements of this order.
+
+Sec. 4. <i>Severability</i>. If any provision of this order, or the application of such provision or amendment to any person or circumstance, is held to be invalid, the remainder of this order and the application of the provisions of such to any person or circumstances shall not be affected thereby.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to limit the rights of an employee or applicant for employment provided under any provision of law. It also shall not be construed to prevent a Federal contractor covered by this order from pursuing a defense, as long as the defense is not based on a rule, policy, practice, agreement, or other instrument that prohibits employees or applicants from discussing or disclosing their compensation or the compensation of other employees or applicants, subject to paragraph (3) of section 202 of Executive Order 11246, as added by this order.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 6. <i>Effective Date</i>. This order shall become effective immediately, and shall apply to contracts entered into on or after the effective date of rules promulgated by the Department of Labor under section 3 of this order.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13672. Further Amendments to Executive Order 11478, Equal Employment Opportunity in the Federal Government, and Executive Order 11246, Equal Employment Opportunity
+
+Ex. Ord. No. 13672, July 21, 2014, 79 F.R. 42971, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 121, and in order to provide for a uniform policy for the Federal Government to prohibit discrimination and take further steps to promote economy and efficiency in Federal Government procurement by prohibiting discrimination based on sexual orientation and gender identity, it is hereby ordered as follows:
+
+Section 1. \[Amended Ex. Ord. No. 11478, set out above.\]
+
+Sec. 2. \[Amended Ex. Ord. No. 11246, set out above.\]
+
+Sec. 3. <i>Regulations</i>. Within 90 days of the date of this order, the Secretary of Labor shall prepare regulations to implement the requirements of section 2 of this order.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 5. <i>Effective Date</i>. This order shall become effective immediately, and section 2 of this order shall apply to contracts entered into on or after the effective date of the rules promulgated by the Department of Labor under section 3 of this order.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

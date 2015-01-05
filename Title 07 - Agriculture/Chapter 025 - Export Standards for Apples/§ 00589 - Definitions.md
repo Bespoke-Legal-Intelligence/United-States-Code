@@ -10,9 +10,13 @@ When used in this chapter—
 
 &emsp;(4) The term "apples" means fresh whole apples, whether or not the apples have been in storage.
 
-(June 10, 1933, ch. 59, §9, 48 Stat. 124; Pub. L. 106–96, §1(b), Nov. 12, 1999, 113 Stat. 1321.)
+&emsp;(5) The term "bulk container" means a container that contains a quantity of apples weighing more than 100 pounds.
+
+(June 10, 1933, ch. 59, §9, 48 Stat. 124; Pub. L. 106–96, §1(b), Nov. 12, 1999, 113 Stat. 1321; Pub. L. 113–79, title X, §10009(b), Feb. 7, 2014, 128 Stat. 949.)
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–96 added par. (4) and struck out former par. (4) which read as follows: "The term 'apples and/or pears' means fresh whole apples or pears, whether or not they have been in storage."
+<b>2014</b>—Par. (5). Pub. L. 113–79 added par. (5).
+
+<b>1999</b>—Par. (4). Pub. L. 106–96 added par. (4) and struck out former par. (4) which read as follows: "The term 'apples and/or pears' means fresh whole apples or pears, whether or not they have been in storage."
 

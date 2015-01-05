@@ -6,17 +6,17 @@ The Secretary may make grants to the State of Alaska for the benefit of rural or
 
 #### (b) Matching funds
 
-To be eligible to receive a grant under subsection (a) of this section, the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
+To be eligible to receive a grant under subsection (a), the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
 
 #### (c) Consultation with State of Alaska
 
-The Secretary shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each village.
+The Secretary shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) according to the needs of, and relative health and sanitation conditions in, each village.
 
 #### (d) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2012.
+&emsp;There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2018.
 
 #### (2) Training and technical assistance
 
@@ -26,13 +26,15 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 &emsp;Funds appropriated pursuant to the authorization of appropriations in paragraph (1) shall be available until expended.
 
-(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, §256, June 20, 2000, 114 Stat. 424; Pub. L. 107–171, title VI, §6011, May 13, 2002, 116 Stat. 357; Pub. L. 110–234, title VI,§6009(a), May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6009(a), June 18, 2008, 122 Stat. 1664, 1924.)
+(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, §256, June 20, 2000, 114 Stat. 424; Pub. L. 107–171, title VI, §6011, May 13, 2002, 116 Stat. 357; Pub. L. 110–234, title VI, §6009(a), May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6009(a), June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, §6008, Feb. 7, 2014, 128 Stat. 843.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–79 substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (d)(1). Pub. L. 110–246, §6009(a), substituted "2008 through 2012" for "2001 through 2007".
 

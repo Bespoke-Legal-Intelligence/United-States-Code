@@ -18,7 +18,7 @@ Local development district.—The term "local development district" means an ent
 
 &emsp;&emsp;(ii) if an entity described in clause (i) does not exist—
 
-&emsp;&emsp;&emsp;(I) is organized and operated in a manner that ensures broad-based community participation and an effective opportunity for local officials, community leaders, and the public to contribute to the development and implementation of programs in the region;
+&emsp;&emsp;&emsp;(I) is organized and operated in a manner that ensures broad-based community participation and an effective opportunity forlocal officials, community leaders, and the public to contribute to the development and implementation of programs in the region;
 
 &emsp;&emsp;&emsp;(II) is governed by a policy board with at least a simple majority of members consisting of—
 

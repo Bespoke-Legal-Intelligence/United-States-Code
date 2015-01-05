@@ -20,7 +20,7 @@ Each nonprofit educational organization awarded a grant under this section shall
 
 &emsp;(3) to create an endowment to fund any and all shortfalls in the costs of the on-going operations of the facility;
 
-&emsp;(4) to establish and maintain a network of satellite centers throughout the United States to help disseminate information regarding the Underground Railroad throughout the United States, including the lessons to be drawn from the history of the Underground Railroad, if such satellite centers raise 80 percent of the funds required to establish and maintain the satellite centers from non-Federal public and private sources;
+&emsp;(4) to establish and maintain a network of satellite centers throughout the United States to help disseminate information regarding the Underground Railroad throughout the United States, including the lessons to be drawn from the history of the Underground Railroad, if such satellite centers raise 80 percent of thefunds required to establish and maintain the satellite centers from non-Federal public and private sources;
 
 &emsp;(5) to establish and maintain the capability to electronically link the facility with other local and regional facilities that have collections and programs which interpret the history of the Underground Railroad, including the lessons to be drawn from such history; and
 

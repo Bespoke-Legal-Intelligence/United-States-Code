@@ -14,7 +14,7 @@ Overall Supervision.—(1) The Secretary of Defense shall assign responsibility 
 
 (b)
 
-Program and Budget Review.—The Secretary of Defense shall establish procedures to ensure that there is full and effective review of the program recommendations and budget proposals of each Defense Agency and Department of Defense Field Activity.
+Program and Budget Review.—The Secretary of Defense shall establish procedures toensure that there is full and effective review of the program recommendations and budget proposals of each Defense Agency and Department of Defense Field Activity.
 
 (c)
 
@@ -34,9 +34,13 @@ Special Rule for Defense Commissary Agency.—Notwithstanding the results of any
 
 Special Rule for Defense Business Transformation Agency.—(1) The Defense Business Transformation Agency shall be supervised by the vice chairman of the Defense Business System Management Committee.
 
-(2) Notwithstanding the results of any periodic review under subsection (c) with regard to theDefense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.
+(2) Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285; Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469.)
+
+#### Amendment of Subsection (e)(2)
+
+<i>Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.</i>
 
 #### Prior Provisions
 
@@ -53,6 +57,10 @@ Subsec. (e)(2). Pub. L. 110–181, §904(c), substituted "that the Director of t
 <b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted "October 17, 1998" for "the date of the enactment of this subsection".
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–261 added subsec. (d).
+
+#### Change of Name
+
+"Under Secretary of Defense for Business Management and Information" substituted for "Deputy Chief Management Officer of the Department of Defense" in subsec. (e)(2) after Feb. 1, 2017, on authority of section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title.
 
 #### First Review of Defense Agencies by Secretary of Defense
 

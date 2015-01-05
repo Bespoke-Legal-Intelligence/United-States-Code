@@ -194,7 +194,7 @@ Personnel and Services; Cooperation by Under Secretary.—
 
 &emsp;(1)
 
-Authority of under secretary.—In carrying out the functions of the Administration, the Under Secretary shall have the same authority as is provided to the Administrator ofthe Federal Aviation Administration under subsections (l) and (m) of section 106.
+Authority of under secretary.—In carrying out the functions of the Administration, the Under Secretary shall have the same authority as is provided to the Administrator of the Federal Aviation Administration under subsections (l) and (m) of section 106.
 
 &emsp;(2)
 
@@ -290,9 +290,9 @@ Role of secretary of transportation.—The Secretary of Homeland Security shall 
 
 &emsp;(3)
 
-Contents of national strategy for transportation security.—The National Strategy for Transportation Security shall include the following:
+Contents of national strategy for transportation security.—The NationalStrategy for Transportation Security shall include the following:
 
-&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United Statesthat, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
+&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
 
 &emsp;&emsp;(B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007 <sup>1</sup> across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
 
@@ -428,7 +428,7 @@ Purpose of plan.—The Plan shall promote sharing of transportation security inf
 
 Content of plan.—The Plan shall include—
 
-&emsp;&emsp;(A) a description of how intelligence analysts within the Department of HomelandSecurity will coordinate their activities within the Department and with other Federal, State, and local agencies, and tribal governments, including coordination with existing modal information sharing centers and the center described in section 1410 of the Implementing Recommendations of the 9/11 Commission Act of 2007;
+&emsp;&emsp;(A) a description of how intelligence analysts within the Department of Homeland Security will coordinate their activities within the Department and with other Federal, State, and local agencies, and tribal governments, including coordination with existing modal information sharing centers and the center described in section 1410 of the Implementing Recommendations of the 9/11 Commission Act of 2007;
 
 &emsp;&emsp;(B) the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees if the point of contact established pursuant to this subparagraph differs from the agency within the Department that has the primary authority, or has been delegated such authority by the Secretary, to regulate the security of that transportation mode;
 

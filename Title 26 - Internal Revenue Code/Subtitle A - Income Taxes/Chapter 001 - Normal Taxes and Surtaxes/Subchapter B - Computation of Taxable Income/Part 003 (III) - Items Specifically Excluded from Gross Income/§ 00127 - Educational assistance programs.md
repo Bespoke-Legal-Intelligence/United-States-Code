@@ -140,7 +140,7 @@ Subsec. (d). Pub. L. 100–647, §4001(a), substituted "1988" for "1987".
 
 Subsec. (b)(1). Pub. L. 99–514, §1151(c)(4)(A), added par. (1) and struck out former par (1) which read as follows: "For purposes of this section an educational assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with educational assistance. The program must meet the requirements of paragraphs (2) through (6) of this subsection."
 
-Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded fromconsideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
+Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
 
 Pub. L. 99–514, §1114(b)(4), substituted "highly compensated employees (within the meaning of section 414(q))" for "officers, owners, or highly compensated,".
 
@@ -224,7 +224,19 @@ Amendment by section 1114(b)(4) of Pub. L. 99–514 applicable to years beginnin
 
 Amendment by section 1151(c)(4), (g)(3) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
-Amendment by section 1162(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1985, see section 1162(c) of Pub. L. 99–514, set out as a note under section 120 of this title.
+Pub. L. 99–514, title XI, §1162(c), Oct. 22, 1986, 100 Stat. 2510, provided that:
+
+"(1)
+
+Subsection (a).—The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985.
+
+"(2)
+
+Subsection (b).—The amendment made by subsection (b) \[amending section 120 of this title\] shall apply to years ending after December 31, 1985.
+
+"(3)
+
+Cafeteria plan with group legal benefits.—If, within 60 days after the date of the enactment of this Act \[Oct. 22, 1986\], an employee elects under a cafeteria plan under section 125 of the Internal Revenue Code of 1986 coverage for group legal benefits to which \[former\] section 120 of such Code applies, such election may, at the election of the taxpayer, apply to all legal services provided during 1986. The preceding sentence shall not apply to any plan which on August 16, 1986, offered such group legal benefits under such plan."
 
 #### Effective Date of 1984 Amendment
 
@@ -248,7 +260,7 @@ No penalties or interest on failure to withhold.—No penalty or interest shall 
 
 "(5)
 
-Coordination with section 117(d).—In the case of education described in section 127(c)(8) of the InternalRevenue Code of 1986, as added by this section, section 117(d) of such Code shall be treated as in effect on and after January 1, 1984."
+Coordination with section 117(d).—In the case of education described in section 127(c)(8) of the Internal Revenue Code of 1986, as added by this section, section117(d) of such Code shall be treated as in effect on and after January 1, 1984."
 
 #### Effective Date
 

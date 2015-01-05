@@ -22,7 +22,7 @@ Not later than July 1, 1977, any Federal officer or agency may submit written co
 
 #### (b) State officer or agency and other interested persons' comments; submittal to President
 
-Not later than July 1, 1977, the Governor of any State, any municipality, State utility commission, and any other interested person may submit to the President such written comments with respect to the recommendation and reportof the Commission and alternative systems for delivering Alaska natural gas to the contiguous States as they determine to be appropriate.
+Not later than July 1, 1977, the Governor of any State, any municipality, State utility commission, and any other interested person may submit to the President such written comments with respect to the recommendation and report of the Commission and alternative systems for delivering Alaska natural gas to the contiguous States as they determine to be appropriate.
 
 #### (c) Report of Federal officer or agency to the President
 

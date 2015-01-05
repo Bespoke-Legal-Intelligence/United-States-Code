@@ -88,7 +88,7 @@
 
 (7)(A)(i) Subject to clause (ii), the information disseminated under paragraph (1)(L), or reported under subsection (e), shall be disaggregated by gender, by each major racial and ethnic subgroup, by recipients of a Federal Pell Grant, by recipients of a loan made under part B or C (other than a loan made under section 1078–8 of this title or a Federal Direct Unsubsidized Stafford Loan) who did not receive a Federal Pell Grant, and by recipients of neither a Federal Pell Grant nor a loan made under part B or C (other than a loan made under section 1078–8 of this title or a Federal Direct Unsubsidized Stafford Loan), if the number of students in such subgroup or with such status is sufficient to yield statistically reliable information and reporting will not reveal personally identifiable information about an individual student. If such number is not sufficient for such purposes, then the institution shall note that the institution enrolled too few of such students to so disclose or report with confidence and confidentiality.
 
-(ii) The requirements of clause (i) shall not apply to two-year, degree-granting institutionsof higher education until academic year 2011-2012.
+(ii) The requirements of clause (i) shall not apply to two-year, degree-granting institutions of higher education until academic year 2011-2012.
 
 (B)(i) In order to assist two-year degree-granting institutions of higher education in meeting the requirements of paragraph (1)(L) and subsection (e), the Secretary, in consultation with the Commissioner for Education Statistics, shall, not later than 90 days after August 14, 2008, convene a group of representatives from diverse institutions of higher education, experts in the field of higher education policy, state <sup>1</sup> higher education officials, students, and other stakeholders in the higher education community, to develop recommendations regarding the accurate calculation and reporting of the information required to be disseminated or reported under paragraph (1)(L) and subsection (e) by two-year, degree-granting institutions of higher education. In developing such recommendations, the group of representatives shall consider the mission and role of two-year degree-granting institutions of higher education, and may recommend additional or alternative measures of student success for such institutions in light of the mission and role of such institutions.
 
@@ -152,7 +152,7 @@
 
 #### (c) Financial assistance information personnel
 
-Each eligible institution shall designate an employee or group of employees who shall be available on a full-time basis to assist students or potential students in obtaining information as specified in subsection (a) of this section. The Secretary may, by regulation, waive the requirement that an employee or employees be available on a full-time basis for carrying out responsibilities required under this section whenever an institution in which the total enrollment, or the portion of the enrollment participating in programs under this subchapter and part C of subchapter I of chapter 34 of title 42 at that institution, is too small to necessitate such employee or employees being available on a full-time basis. No such waiver may include permission to exempt any such institution from designating a specific individual or a group of individuals to carry out the provisions of this section.
+Each eligible institution shall designate an employee or group of employees who shall be available on a full-time basis to assist students or potential students in obtaining information as specified in subsection (a) of this section. TheSecretary may, by regulation, waive the requirement that an employee or employees be available on a full-time basis for carrying out responsibilities required under this section whenever an institution in which the total enrollment, or the portion of the enrollment participating in programs under this subchapter and part C of subchapter I of chapter 34 of title 42 at that institution, is too small to necessitate such employee or employees being available on a full-time basis. No such waiver may include permission to exempt any such institution from designating a specific individual or a group of individuals to carry out the provisions of this section.
 
 #### (d) Departmental publication of descriptions of assistance programs
 
@@ -168,7 +168,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (1) Each institution of higher education which participates in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 and is attended by students receiving athletically related student aid shall annually submit a report to the Secretary which contains—
 
-&emsp;(A) the number of students at the institution of higher education who received athleticallyrelated student aid broken down by race and sex in the following sports: basketball, football, baseball, cross country/track, and all other sports combined;
+&emsp;(A) the number of students at the institution of higher education who received athletically related student aid broken down by race and sex in the following sports: basketball, football, baseball, cross country/track, and all other sports combined;
 
 &emsp;(B) the number of students at the institution of higher education, broken down by race and sex;
 
@@ -218,7 +218,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(ii) the working relationship of campus security personnel with State and local law enforcement agencies, including whether the institution has agreements with such agencies, such as written memoranda of understanding, for the investigation of alleged criminal offenses; and
 
-&emsp;&emsp;(iii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate law enforcement agencies.
+&emsp;&emsp;(iii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate law enforcement agencies, when the victim of such crime elects or is unable to make such a report.
 
 &emsp;(D) A description of the type and frequency of programs designed to inform students and employees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
 
@@ -242,17 +242,19 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;&emsp;(VII) manslaughter;
 
-&emsp;&emsp;&emsp;(VIII) arson; and
+&emsp;&emsp;&emsp;(VIII) arson;
 
 &emsp;&emsp;&emsp;(IX) arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession; and
 
-&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
+&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, national origin, sexual orientation, gender identity,,<sup>2</sup> ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice; and
+
+&emsp;&emsp;(iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.
 
 &emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
 &emsp;(H) A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding the possession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under section 1011i of this title.
 
-&emsp;(I) A statement advising the campus community where law enforcement agency information provided by a State under section 14071(j) <sup>2</sup> of title 42, concerning registered sex offenders may be obtained, such as the law enforcement office of the institution, a local law enforcement agency with jurisdiction for the campus, or a computer network address.
+&emsp;(I) A statement advising the campus community where law enforcement agency information provided by a State under section 14071(j) <sup>3</sup> of title 42, concerning registered sex offenders may be obtained, such as the law enforcement office of the institution, a local law enforcement agency with jurisdiction for the campus, or a computer network address.
 
 &emsp;(J) A statement of current campus policies regarding immediate emergency response and evacuation procedures, including the use of electronic and cellular communication (if appropriate), which policies shall include procedures to—
 
@@ -264,7 +266,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to require particular policies, procedures, or practices by institutions of higher education with respect to campus crimes or campus security.
 
-(3) Each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education, shall make timely reports to the campus community on crimes considered to be a threat to other students and employees described in paragraph (1)(F) that are reported to campus security or local law police agencies. Such reports shall be provided to students and employees in a manner that is timely and that will aid in the prevention of similar occurrences.
+(3) Each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education, shall make timely reports to the campus community on crimes considered to be a threat to other students and employees described in paragraph (1)(F) that are reported to campus security or local law police agencies. Such reports shall be provided to students and employees in a manner that is timely, that withholds the names of victims as confidential, and that will aid in the prevention of similar occurrences.
 
 (4)(A) Each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education, that maintains a police or security department of any kind shall make, keep, and maintain a daily log, written in a form that can be easily understood, recording all crimes reported to such police or security department, including—
 
@@ -278,7 +280,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (iii) If there is clear and convincing evidence that the release of such information would jeopardize an ongoing criminal investigation or the safety of an individual, cause a suspect to flee or evade detection, or result in the destruction of evidence, such information may be withheld until that damage is no longer likely to occur from the release of such information.
 
-(5) On an annual basis, each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education, shall submit to the Secretary a copy of the statistics required to be made available under paragraph (1)(F). The Secretary shall—
+(5) On an annual basis, each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title42, other than a foreign institution of higher education, shall submit to the Secretary a copy of the statistics required to be made available under paragraph (1)(F). The Secretary shall—
 
 &emsp;(A) review such statistics and report to the authorizing committees on campus crime statistics by September 1, 2000;
 
@@ -288,53 +290,101 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (6)(A) In this subsection:
 
-&emsp;(i) The term "campus" means—
+&emsp;(i) The terms "dating violence", "domestic violence", and "stalking" have the meaning given such terms in section 13925(a) of title 42.
+
+&emsp;(ii) The term "campus" means—
 
 &emsp;&emsp;(I) any building or property owned or controlled by an institution of higher education within the same reasonably contiguous geographic area of the institution and used by the institution in direct support of, or in a manner related to, the institution's educational purposes, including residence halls; and
 
 &emsp;&emsp;(II) property within the same reasonably contiguous geographic area of the institution that is owned by the institution but controlled by another person, is used by students, and supports institutional purposes (such as a food or other retail vendor).
 
-&emsp;(ii) The term "noncampus building or property" means—
+&emsp;(iii) The term "noncampus building or property" means—
 
 &emsp;&emsp;(I) any building or property owned or controlled by a student organization recognized by the institution; and
 
 &emsp;&emsp;(II) any building or property (other than a branch campus) owned or controlled by an institution of higher education that is used in direct support of, or in relation to, the institution's educational purposes, is used by students, and is not within the same reasonably contiguous geographic area of the institution.
 
-&emsp;(iii) The term "public property" means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution's educational purposes.
+&emsp;(iv) The term "public property" means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution's educational purposes.
+
+&emsp;(v) The term "sexual assault" means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.
 
 (B) In cases where branch campuses of an institution of higher education, schools within an institution of higher education, or administrative divisions within an institution are not within a reasonably contiguous geographic area, such entities shall be considered separate campuses for purposes of the reporting requirements of this section.
 
-(7) The statistics described in paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. Such statistics shall not identify victims of crimes or persons accused of crimes.
+(7) The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in section 13925(a) of title 42. Such statistics shall not identify victims of crimes or persons accused of crimes.
 
-(8)(A) Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education, shall develop and distribute as part of the report described in paragraph (1) a statement of policy regarding—
+(8)(A) Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 and title IV of the Economic Opportunity Act of 1964,<sup>3</sup> other than a foreign institution of higher education, shall develop and distribute as part of the report described in paragraph (1) a statement of policy regarding—
 
-&emsp;(i) such institution's campus sexual assault programs, which shall be aimed at prevention of sex offenses; and
+&emsp;(i) such institution's programs to prevent domestic violence, dating violence, sexual assault, and stalking; and
 
-&emsp;(ii) the procedures followed once a sex offense has occurred.
+&emsp;(ii) the procedures that such institution will follow once an incident of domestic violence, dating violence, sexual assault, or stalking has been reported, including a statement of the standard of evidence that will be used during any institutional conduct proceeding arising from such a report.
 
 (B) The policy described in subparagraph (A) shall address the following areas:
 
-&emsp;(i) Education programs to promote the awareness of rape, acquaintance rape, and other sex offenses.
+&emsp;(i) Education programs to promote the awareness of rape, acquaintance rape, domestic violence, dating violence, sexual assault, and stalking, which shall include—
 
-&emsp;(ii) Possible sanctions to be imposed following the final determination of an on-campus disciplinary procedure regarding rape, acquaintance rape, or other sex offenses, forcible or nonforcible.
+&emsp;&emsp;(I) primary prevention and awareness programs for all incoming students and new employees, which shall include—
 
-&emsp;(iii) Procedures students should follow if a sex offense occurs, including who should be contacted, the importance of preserving evidence as may be necessary to the proof of criminal sexual assault, and to whom the alleged offense should be reported.
+&emsp;&emsp;&emsp;(aa) a statement that the institution of higher education prohibits the offenses of domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;(iv) Procedures for on-campus disciplinary action in cases of alleged sexual assault, which shall include a clear statement that—
+&emsp;&emsp;&emsp;(bb) the definition of domestic violence, dating violence, sexual assault, and stalking in the applicable jurisdiction;
 
-&emsp;&emsp;(I) the accuser and the accused are entitled to the same opportunities to have others present during a campus disciplinary proceeding; and
+&emsp;&emsp;&emsp;(cc) the definition of consent, in reference to sexual activity, in the applicable jurisdiction;
 
-&emsp;&emsp;(II) both the accuser and the accused shall be informed of the outcome of any campus disciplinary proceeding brought alleging a sexual assault.
+&emsp;&emsp;&emsp;(dd) safe and positive options for bystander intervention that may be carried out by an individual to prevent harm or intervene when there is a risk of domestic violence, dating violence, sexual assault, or stalking against a person other than such individual;
 
-&emsp;(v) Informing students of their options to notify proper law enforcement authorities, including on-campus and local police, and the option to be assisted by campus authorities in notifying such authorities, if the student so chooses.
+&emsp;&emsp;&emsp;(ee) information on risk reduction to recognize warning signs of abusive behavior and how to avoid potential attacks; and
 
-&emsp;(vi) Notification of students of existing counseling, mental health or student services for victims of sexual assault, both on campus and in the community.
+&emsp;&emsp;&emsp;(ff) the information described in clauses (ii) through (vii); and
 
-&emsp;(vii) Notification of students of options for, and available assistance in, changing academic and living situations after an alleged sexual assault incident, if so requested by the victim and if such changes are reasonably available.
+&emsp;&emsp;(II) ongoing prevention and awareness campaigns for students and faculty, including information described in items (aa) through (ff) of subclause (I).
 
-(C) Nothing in this paragraph shall be construed to confer a private right of action upon any person to enforce the provisions of this paragraph.
+&emsp;(ii) Possible sanctions or protective measures that such institution may impose following a final determination of an institutionaldisciplinary procedure regarding rape, acquaintance rape, domestic violence, dating violence, sexual assault, or stalking.
 
-(9) The Secretary shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
+&emsp;(iii) Procedures victims should follow if a sex offense, domestic violence, dating violence, sexual assault, or stalking has occurred, including information in writing about—
+
+&emsp;&emsp;(I) the importance of preserving evidence as may be necessary to the proof of criminal domestic violence, dating violence, sexual assault, or stalking, or in obtaining a protection order;
+
+&emsp;&emsp;(II) to whom the alleged offense should be reported;
+
+&emsp;&emsp;(III) options regarding law enforcement and campus authorities, including notification of the victim's option to—
+
+&emsp;&emsp;&emsp;(aa) notify proper law enforcement authorities, including on-campus and local police;
+
+&emsp;&emsp;&emsp;(bb) be assisted by campus authorities in notifying law enforcement authorities if the victim so chooses; and
+
+&emsp;&emsp;&emsp;(cc) decline to notify such authorities; and
+
+&emsp;&emsp;(IV) where applicable, the rights of victims and the institution's responsibilities regarding orders of protection, no contact orders, restraining orders, or similar lawful orders issued by a criminal, civil, or tribal court.
+
+&emsp;(iv) Procedures for institutional disciplinary action in cases of alleged domestic violence, dating violence, sexual assault, or stalking, which shall include a clear statement that—
+
+&emsp;&emsp;(I) such proceedings shall—
+
+&emsp;&emsp;&emsp;(aa) provide a prompt, fair, and impartial investigation and resolution; and
+
+&emsp;&emsp;&emsp;(bb) be conducted by officials who receive annual training on the issues related to domestic violence, dating violence, sexual assault, and stalking and how to conduct an investigation and hearing process that protects the safety of victims and promotes accountability;
+
+&emsp;&emsp;(II) the accuser and the accused are entitled to the same opportunities to have others present during an institutional disciplinary proceeding, including the opportunity to be accompanied to any related meeting or proceeding by an advisor of their choice; and
+
+&emsp;&emsp;(III) both the accuser and the accused shall be simultaneously informed, in writing, of—
+
+&emsp;&emsp;&emsp;(aa) the outcome of any institutional disciplinary proceeding that arises from an allegation of domestic violence, dating violence, sexual assault, or stalking;
+
+&emsp;&emsp;&emsp;(bb) the institution's procedures for the accused and the victim to appeal the results of the institutional disciplinary proceeding;
+
+&emsp;&emsp;&emsp;(cc) of any change to the results that occurs prior to the time that such results become final; and
+
+&emsp;&emsp;&emsp;(dd) when such results become final.
+
+&emsp;(v) Information about how the institution will protect the confidentiality of victims, including how publicly-available recordkeeping will be accomplished without the inclusion of identifying information about the victim, to the extent permissible by law.
+
+&emsp;(vi) Written notification of students and employees about existing counseling, health, mental health, victim advocacy, legal assistance, and other services available for victims both on-campus and in the community.
+
+&emsp;(vii) Written notification of victims about options for, and available assistance in, changing academic, living, transportation, and working situations, if so requested by the victim and if such accommodations are reasonably available, regardless of whether the victim chooses to report the crime to campus police or local law enforcement.
+
+(C) A student or employee who reports to an institution of higher education that the student or employee has been a victim of domestic violence, dating violence, sexual assault, or stalking, whether the offense occurred on or off campus, shall be provided with a written explanation of the student or employee's rights and options, as described in clauses (ii) through (vii) of subparagraph (B).
+
+(9) The Secretary, in consultation with the Attorney General of the United States, shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
 
 (10) Nothing in this section shall be construed to require the reporting or disclosure of privileged information.
 
@@ -360,11 +410,13 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (B) Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with this subsection shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity, except with respect to an action to enforce this subsection.
 
-(15) The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
+(15) The Secretary shall annually report to the authorizing committees regarding compliancewith this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
 
-(16) The Secretary may seek the advice and counsel of the Attorney General concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
+(16)(A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
 
-(17) Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection.
+(B) The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements.
+
+(17) No officer, employee, or agent of an institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.
 
 (18) This subsection may be cited as the "Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act".
 
@@ -408,7 +460,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (2) Special rule
 
-&emsp;For the purposes of paragraph (1)(G), if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
+&emsp;For the purposes of paragraph (1)(G), if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number ofteams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
 
 #### (3) Disclosure of information to students and public
 
@@ -606,7 +658,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(E) The definition of half-time enrollment at the institution, during regular terms and summer school, if applicable, and the consequences of not maintaining half-time enrollment.
 
-&emsp;&emsp;(F) An explanation of the importance of contacting the appropriate offices at the institution of higher education if the borrowerwithdraws prior to completing the borrower's program of study so that the institution can provide exit counseling, including information regarding the borrower's repayment options and loan consolidation.
+&emsp;&emsp;(F) An explanation of the importance of contacting the appropriate offices at the institution of higher education if the borrower withdraws prior to completing the borrower's program of study so that the institution can provide exit counseling, including information regarding the borrower's repayment options and loan consolidation.
 
 &emsp;&emsp;(G) Sample monthly repayment amounts based on—
 
@@ -646,117 +698,13 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482; Pub. L. 111–39, title IV, §407(b)(5), July 1, 2009, 123 Stat. 1951; Pub. L. 113–4, title III, §304(a), Mar. 7, 2013, 127 Stat. 89.)
 
-#### Amendment of Subsection (f)
-
-<i>Pub. L. 113–4, title III, §304, Mar. 7, 2013, 127 Stat. 89, provided that, effective with respect to the annual security report under subsection (f)(1) of this section prepared by an institution of higher education 1 calendar year after Mar. 7, 2013, and each subsequent calendar year, subsection (f) of this section is amended:</i>
-
-<i>(1) in paragraph (1)(C)(iii), by substituting ", when the victim of such crime elects or is unable to make such a report." for the period at end;</i>
-
-<i>(2) in paragraph (1)(F)(i)(VIII), by striking "and" after the semicolon;</i>
-
-<i>(3) in paragraph (1)(F)(ii), by substituting "national origin, sexual orientation, gender identity," for "sexual orientation" and "; and" for the period at end;</i>
-
-<i>(4) in paragraph (1)(F), by adding at the end "(iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.";</i>
-
-<i>(5) in paragraph (3), by inserting ", that withholds the names of victims as confidential," after "that is timely";</i>
-
-<i>(6) in paragraph (6)(A), by redesignating clauses (i) to (iii) as (ii) to (iv), respectively, and adding the following new clauses: "(i) The terms 'dating violence', 'domestic violence', and 'stalking' have the meaning given such terms in section 13925(a) of title 42." and "(v) The term 'sexual assault' means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.";</i>
-
-<i>(7) in paragraph (7), by substituting "clauses (i) and (ii) of paragraph (1)(F)" for "paragraph (1)(F)" and inserting "For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in section 13925(a) of title 42." after "Hate Crime Statistics Act.";</i>
-
-<i>(8) by striking paragraph (8) and adding the following new paragraph (8):</i>
-
-<i>"(8)(A) Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 and title IV of the Economic Opportunity Act of 1964, other than a foreign institution of higher education, shall develop and distribute as part of the</i><i>report described in paragraph (1) a statement of policy regarding—</i>
-
-&emsp;<i>"(i) such institution's programs to prevent domestic violence, dating violence, sexual assault, and stalking; and</i>
-
-&emsp;<i>"(ii) the procedures that such institution will follow once an incident of domestic violence, dating violence, sexual assault, or stalking has been reported, including a statement of the standard of evidence that will be used during any institutional conduct proceeding arising from such a report.</i>
-
-<i>"(B) The policy described in subparagraph (A) shall address the following areas:</i>
-
-&emsp;<i>"(i) Education programs to promote the awareness of rape, acquaintance rape, domestic violence, dating violence, sexual assault, and stalking, which shall include—</i>
-
-&emsp;&emsp;<i>"(I) primary prevention and awareness programs for all incoming students and new employees, which shall include—</i>
-
-&emsp;&emsp;&emsp;<i>"(aa) a statement that the institution of higher education prohibits the offenses of domestic violence, dating violence, sexual assault, and stalking;</i>
-
-&emsp;&emsp;&emsp;<i>"(bb) the definition of domestic violence, dating violence, sexual assault, and stalking in the applicable jurisdiction;</i>
-
-&emsp;&emsp;&emsp;<i>"(cc) the definition of consent, in reference to sexual activity, in the applicable jurisdiction;</i>
-
-&emsp;&emsp;&emsp;<i>"(dd) safe and positive options for bystander intervention that may be carried out by an individual to prevent harm or intervene when there is a risk of domestic violence, dating violence, sexual assault, or stalking against a person other than such individual;</i>
-
-&emsp;&emsp;&emsp;<i>"(ee) information on risk reduction to recognize warning signs of abusive behavior and how to avoid potential attacks; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ff) the information described in clauses (ii) through (vii); and</i>
-
-&emsp;&emsp;<i>"(II) ongoing prevention and awareness campaigns for students and faculty, including information described in items (aa) through (ff) of subclause (I).</i>
-
-&emsp;<i>"(ii) Possible sanctions or protective measures that such institution may impose following a final determination of an institutional disciplinary procedure regarding rape, acquaintance rape, domestic violence, dating violence, sexual assault, or stalking.</i>
-
-&emsp;<i>"(iii) Procedures victims should follow if a sex offense, domestic violence, dating violence, sexual assault, or stalking has occurred, including information in writing about—</i>
-
-&emsp;&emsp;<i>"(I) the importance of preserving evidence as may be necessary to the proof of criminal domestic violence, dating violence, sexual assault, or stalking, or in obtaining a protection order;</i>
-
-&emsp;&emsp;<i>"(II) to whom the alleged offense should be reported;</i>
-
-&emsp;&emsp;<i>"(III) options regarding law enforcement and campus authorities, including notification of the victim's option to—</i>
-
-&emsp;&emsp;&emsp;<i>"(aa) notify proper law enforcement authorities, including on-campus and local police;</i>
-
-&emsp;&emsp;&emsp;<i>"(bb) be assisted by campus authorities in notifying law enforcement authorities if the victim so chooses; and</i>
-
-&emsp;&emsp;&emsp;<i>"(cc) decline to notify such authorities; and</i>
-
-&emsp;&emsp;<i>"(IV) where applicable, the rights of victims and the institution's responsibilities regarding orders of protection, no contact orders, restraining orders, or similar lawful orders issued by a criminal, civil, or tribal court.</i>
-
-&emsp;<i>"(iv) Procedures for institutional disciplinary action in cases of alleged domestic violence, dating violence, sexual assault, or stalking, which shall include a clear statement that—</i>
-
-&emsp;&emsp;<i>"(I) such proceedings shall—</i>
-
-&emsp;&emsp;&emsp;<i>"(aa) provide a prompt, fair, and impartial investigation and resolution; and</i>
-
-&emsp;&emsp;&emsp;<i>"(bb) be conducted by officials who receive annual training on the issues related to domestic violence, dating violence, sexual assault, and stalking and how to conduct an investigation and hearing process that protects the safety of victims and promotes accountability;</i>
-
-&emsp;&emsp;<i>"(II) the accuser and the accused are entitled to the same opportunities to have others present during an institutional disciplinary proceeding, including the opportunity to be accompanied to any related meeting or proceeding by an advisor of their choice; and</i>
-
-&emsp;&emsp;<i>"(III) both the accuser and the accused shall be simultaneously informed, in writing, of—</i>
-
-&emsp;&emsp;&emsp;<i>"(aa) the outcome of any institutional disciplinary proceeding that arises from an allegation of domestic violence, dating violence, sexual assault, or stalking;</i>
-
-&emsp;&emsp;&emsp;<i>"(bb) the institution's procedures for the accused and the victim to appeal the results of the institutional disciplinary proceeding;</i>
-
-&emsp;&emsp;&emsp;<i>"(cc) of any change to the results that occurs prior to the time that such results become final; and</i>
-
-&emsp;&emsp;&emsp;<i>"(dd) when such results become final.</i>
-
-&emsp;<i>"(v) Information about how the institution will protect the confidentiality of victims, including how publicly-available recordkeeping will be accomplished without the inclusion of identifying information about the victim, to the extent permissible by law.</i>
-
-&emsp;<i>"(vi) Written notification of students and employees about existing counseling, health, mental health, victim advocacy, legal assistance, and other services available for victims both on-campus and in the community.</i>
-
-&emsp;<i>"(vii) Written notification of victims about options for, and available assistance in, changing academic, living, transportation, and working situations, if so requested by the victim and if such accommodations are reasonably available, regardless of whether the victim chooses to report the crime to campus police or local law enforcement.</i>
-
-<i>"(C) A student or employee who reports to an institution of higher education that the student or employee has been a victim of domestic violence, dating violence, sexual assault, or stalking, whether the offense occurred on or off campus, shall be provided with a written explanation of the student or employee's rights and options, as described in clauses (ii) through (vii) of subparagraph (B).";</i>
-
-<i>(9) in paragraph (9), by substituting "The Secretary, in consultation with the Attorney General of the United States," for "The Secretary";</i>
-
-<i>(10) by striking paragraph (16) and adding the following new paragraph (16):</i>
-
-<i>"(16)(A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.</i>
-
-<i>"(B) The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements."; and</i>
-
-<i>(11) by striking paragraph (17) and adding the following new paragraph (17):</i>
-
-<i>"(17) No officer, employee, or agent of an institution participating in any program under this title shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection."</i>
-
-<i>See 2013 Amendment notes below.</i>
-
 #### References in Text
 
 Section 14071 of title 42, referred to in subsec. (f)(1)(I), was repealed by Pub. L. 109–248, title I, §129(a), July 27, 2006, 120 Stat. 600.
 
 The Hate Crime Statistics Act, referred to in subsec. (f)(7), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
+
+Title IV of the Economic Opportunity Act of 1964, referred to in subsec. (f)(8)(A), is title IV of Pub. L. 88–452, which was classified to subchapter IV (§2901 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
 The General Education Provisions Act, referred to in subsec. (h)(2)(C), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
@@ -818,7 +766,7 @@ Subsec. (l)(1)(A). Pub. L. 111–39, §407(b)(5)(G), substituted "paragraph (2)"
 
 <b>2008</b>—Subsec. (a)(1)(G)(iv). Pub. L. 110–315, §488(a)(1)(A), added cl. (iv).
 
-Subsec. (a)(1)(M). Pub. L. 110–315, §488(a)(1)(B), added subpar. (M) and struck out former subpar. (M) whichread as follows: "the terms and conditions under which students receiving guaranteed student loans under part B of this subchapter or direct student loans under part D of this subchapter, or both, may—
+Subsec. (a)(1)(M). Pub. L. 110–315, §488(a)(1)(B), added subpar. (M) and struck out former subpar. (M) which read as follows: "the terms and conditions under which students receiving guaranteed student loans under part B of this subchapter or direct student loans under part D of this subchapter, or both, may—
 
 &emsp;"(i) obtain deferral of the repayment of the principal and interest for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) or under the Domestic Volunteer Service Act of 1973, or for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service, and
 
@@ -1086,7 +1034,7 @@ Information dissemination.—No institution shall be required to comply with the
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -1252,7 +1200,7 @@ Section 1. <i>Streamlined Application Process for Income-Based Repayment Plans</
 
 Sec. 2. <i>Integrated Online and Mobile Resources for Loan Repayment Options and Debt Management</i>. By July 15, 2012, the Secretary of Education shall:
 
-(a) create integrated online and mobile resources for students and former students to use in learning aboutFederal student aid, including an explanation of (1) the current IBR plan, which allows student loan borrowers to cap their monthly loan payments at 15 percent of their discretionary income and be eligible to have their remaining loan balances forgiven after 25 years of responsible payments; and (2) the proposed Pay As You Earn plan, which will allow many students to cap their monthly loan repayments at 10 percent of their discretionary income and be eligible for loan forgiveness after 20 years of responsible repayment; and
+(a) create integrated online and mobile resources for students and former students to use in learning about Federal student aid, including an explanation of (1) the current IBR plan, which allows student loan borrowers to cap their monthly loan payments at 15 percent of their discretionary income and be eligible to have their remaining loan balances forgiven after 25 years of responsible payments; and (2) the proposed Pay As You Earn plan, which will allow many students to cap their monthly loan repayments at 10 percent of their discretionary income and be eligible for loan forgiveness after 20 years of responsible repayment; and
 
 (b) develop and make available to borrowers an online tool to help students make better financial decisions, including understanding their loan debt and its impact on their everyday lives. This tool should incorporate key elements of best practices in financial literacy and link to students' actual Federal loan data to help them understand their individual circumstances and options for repayment.
 
@@ -1272,7 +1220,123 @@ The Secretary of Education is hereby authorized and directed to publish this mem
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Establishing a White House Task Force To Protect Students From Sexual Assault
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Memorandum of President of the United States, Jan. 22, 2014, 79 F.R. 4385, provided:
+
+The prevalence of rape and sexual assault at our Nation's institutions of higher education is both deeply troubling and a call to action. Studies show that about one in five women is a survivor of attempted or completed sexual violence while in college. In addition, a substantial number of men experience sexual violence during college. Although schools have made progress in addressing rape and sexual assault, more needs to be done to ensure safe, secure environments for students of higher education.
+
+There are a number of Federal laws aimed at making our campuses safer, and the Departments of Education and Justice have been working to enforce them. Among other requirements, institutions of higher education participating in Federal student financial assistance programs (institutions), including colleges, universities, community colleges, graduate and professional schools, for-profit schools, trade schools, and career and technical schools, must provide students with information on programs aimed at preventing rape and sexual assault, and on procedures for students to reporting rape and sexual assault. Institutions must also adopt and publish grievance procedures that provide for the prompt and equitable resolution of rape and sexual assault complaints, and investigate reports of rape and sexual assault and take swift action to prevent their recurrence. Survivors of rape and sexual assault must also be provided with information on how to access the support and services they need. Reports show, however, that institutions' compliance with these Federal laws is uneven and, in too many cases, inadequate. Building on existing enforcement efforts, we must strengthen and address compliance issues and provide institutions with additional tools to respond to and address rape and sexual assault.
+
+Therefore, I am directing the Office of the Vice President and the White House Council on Women and Girls to lead an interagency effort to address campus rape and sexual assault, including coordinating Federal enforcement efforts by executive departments and agencies (agencies) and helping institutions meet their obligations under Federal law. To these ends, it is hereby ordered as follows:
+
+Section 1. <i>Establishment of the White House Task Force to Protect Students from Sexual Assault</i>. There is established a White House Task Force to Protect Students from Sexual Assault (Task Force). The Task Force shall be co-chaired by designees of the Office of the Vice President and the White House Council on Women and Girls.
+
+(a) Membership of the Task Force. In addition to the Co-Chairs, the Task Force shall consist of the following members:
+
+(i) the Attorney General;
+
+(ii) the Secretary of the Interior;
+
+(iii) the Secretary of Health and Human Services;
+
+(iv) the Secretary of Education;
+
+(v) the Director of the Office of Science and Technology Policy;
+
+(vi) the Director of the Domestic Policy Council;
+
+(vii) the Cabinet Secretary; and
+
+(viii) the heads of agencies or offices as the Co-Chairs may designate.
+
+(b) A member of the Task Force may designate, to perform the Task Force functions of the member, senior officials who are part of the member's agency or office, and who are full-time officers or employees of the Federal Government.
+
+Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall work with agencies to develop a coordinated Federal response to campus rape and sexual assault. The functions of the Task Force are advisory only and shall include making recommendations to meet the following objectives:
+
+(i) providing institutions with evidence-based best and promising practices for preventing and responding to rape and sexual assault;
+
+(ii) building on the Federal Government's existing enforcement efforts to ensure that institutions comply fully with their legal obligations to prevent and respond to rape and sexual assault;
+
+(iii) increasing the transparency of the Federal Government's enforcement activities concerning rape andsexual assault, consistent with applicable law and the interests of affected students;
+
+(iv) broadening the public's awareness of individual institutions' compliance with their legal obligation to address rape and sexual assault; and
+
+(v) facilitating coordination among agencies engaged in addressing rape and sexual assault and those charged with helping bring institutions into compliance with the law.
+
+(b) In accordance with applicable law and in addition to regular meetings, the Task Force shall consult with external stakeholders, including institution officials, student groups, parents, athletic and educational associations, local rape crisis centers, and law enforcement agencies.
+
+(c) Because rape and sexual assault also occur in the elementary and secondary school context, the Task Force shall evaluate how its proposals and recommendations may apply to, and may be implemented by, schools, school districts, and other elementary and secondary educational entities receiving Federal financial assistance.
+
+Sec. 3. <i>Action Plan</i>. (a) Within 90 days of the date of this memorandum, the Task Force shall develop and submit proposals and recommendations to the President for:
+
+(i) providing examples of instructions, policies, and protocols for institutions, including: rape and sexual assault policies; prevention programs; crisis intervention and advocacy services; complaint and grievance procedures; investigation protocols; adjudicatory procedures; disciplinary sanctions; and training and orientation modules for students, staff, and faculty;
+
+(ii) measuring the success of prevention and response efforts at institutions, whether through compliance with individual policies or through broader assessments of campus climate, attitudes and safety, and providing the public with this information;
+
+(iii) maximizing the Federal Government's effectiveness in combatting campus rape and sexual assault by, among other measures, making its enforcement activities transparent and accessible to students and prospective students nationwide; and
+
+(iv) promoting greater coordination and consistency among the agencies and offices that enforce the Federal laws addressing campus rape and sexual assault and support improved campus responses to sexual violence.
+
+(b) Within 1 year of the date of this memorandum, and then on an annual basis, the Task Force shall provide a report to the President on implementation efforts with respect to this memorandum.
+
+Sec. 4. <i>General Provisions</i>. (a) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) The heads of agencies and offices shall assist and provide information to the Task Force, consistent with applicable law, as may be necessary to carry out the functions of the Task Force. Each agency and office shall bear its own expenses of participating in the Task Force.
+
+(d) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(e) The Secretary of Education is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Helping Struggling Federal Student Loan Borrowers Manage Their Debt
+
+Memorandum of President of the United States, June 9, 2014, 79 F.R. 33843, provided:
+
+Memorandum for the Secretary of the Treasury\[, and\] the Secretary of Education
+
+A college education is the single most important investment that Americans can make in their futures. College remains a good investment, resulting in higher earnings and a lower risk of unemployment. Unfortunately, for many low- and middle-income families, college is slipping out of reach. Over the past three decades, the average tuition at a public four-year college has more than tripled, while a typical family's income has increased only modestly. More students than ever are relying on loans to pay for college. Today, 71 percent of those earning a bachelor's degree graduate with debt, which averages $29,400. While most students are able to repay their loans, many feel burdened by debt, especially as they seek to start a family, buy a home, launch a business, or save for retirement.
+
+Over the past several years, my Administration has worked to ensure that college remains affordable and student debt is manageable, including through raising the maximum Pell Grant award by nearly $1,000, creating the American Opportunity Tax Credit, and expanding access to student loan repayment plans, where monthly obligations are calibrated to a borrower's income and debt. These income-driven repayment plans, like my Pay As You Earn plan, which caps a Federal student loan borrower's payments at 10 percent of income, can be an effective tool to help individuals manage their debt, and pursue their careers while avoiding consequences of defaulting on a Federal student loan, such as a damaged credit rating, a tax refund offset, or garnished wages.
+
+While my Administration has made significant strides in expanding repayment options available to borrowers and building awareness of income-driven repayment plans, more needs to be done. Currently, not all student borrowers of Federal Direct Loans can cap their monthly loan payments at 10 percent of income, and too many struggling borrowers are still unaware of the options available to them to help responsibly manage their debt.
+
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. <i>Expanding the President's Pay As You Earn Plan to More Federal Direct Loan Borrowers</i>. Within 1 year after the date of this memorandum, the Secretary of Education shall propose regulations that will allow additional students who borrowed Federal Direct Loans to cap their Federal student loan payments at 10 percent of their income. The Secretary shall seek to target this option to those borrowers who would otherwise struggle to repay their loans. The Secretary shall issue final regulations in a timely fashion after considering all public comments, as appropriate, with the goal of making the repayment option available to borrowers by December 31, 2015.
+
+Sec. 2. <i>Improving Communication Strategies to Help Vulnerable Borrowers</i>. By December 31, 2014, the Secretary of Education shall develop, evaluate, and implement new targeted strategies to reach borrowers who may be struggling to repay their Federal student loans to ensure that they have the information they need to select the best repayment option and avoid future default. In addition to focusing on borrowers who have fallen behind on their loan payments, the Secretary's effort shall focus on borrowers who have left college without completing their education, borrowers who have missed their first loan payment, and borrowers (especially those with low balances) who have defaulted on their loans to help them rehabilitate their loans with income-based monthly payments. The Secretary of Education shall incorporate data analytics into the communications efforts and evaluate these new strategies to identify areas for improvement and build on successful practices.
+
+Sec. 3. <i>Encouraging Support and Awareness of Repayment Options for Borrowers During Tax Filing Season</i>. By September 30, 2014, the Secretary of the Treasury and the Secretary of Education shall invite private-sector entities to enter into partnerships to better educate borrowers about income-based repayment plans during the tax filing season in 2015. Building off of prior work, the Secretaries shall further develop effective ways to inform borrowers about their repayment options during the tax filing season in 2015, as well as through personalized financial management tools.
+
+Sec. 4. <i>Promoting Stronger Collaboration to Ensure That Students and Their Families Have the Information They Need to Make Informed Borrowing Decisions</i>. By September 30, 2014, the Secretary of Education, in consultation with the Secretary of the Treasury, shall develop a pilot project to test the effectiveness of loan counseling resources, including the Department of Education's Financial Awareness Counseling Tool. The Secretary of Education shall convene higher education experts and student-debt researchers to identify ways to evaluate and strengthen loan counseling for Federal student loan borrowers. Additionally, the Secretaries shall collaborate with organizations representing students, teachers, nurses, social workers, entrepreneurs, and business owners, among others, to help borrowers represented by these organizations learn more about the repayment options that are available to them in financing their investment in higher education and managing their debt, and to provide more comparative, customized resources to those borrowers when possible.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Education is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

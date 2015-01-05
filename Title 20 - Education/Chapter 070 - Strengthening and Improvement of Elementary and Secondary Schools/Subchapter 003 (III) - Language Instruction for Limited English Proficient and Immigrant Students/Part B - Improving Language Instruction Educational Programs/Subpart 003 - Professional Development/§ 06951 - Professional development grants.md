@@ -40,7 +40,7 @@ Grants awarded under this section shall be used to conduct high-quality professi
 
 &emsp;(2) implementing school-based collaborative efforts among teachers to improve instruction in core academic subjects, especially reading, for limited English proficient children;
 
-&emsp;(3) developing and implementing programs to assist beginning teachers who serve limited English proficient children with transitioning to the teaching profession, including programs that provide mentoring and team teaching with trained and experienced teachers;
+&emsp;(3) developing and implementing programs to assist beginning teachers who serve limitedEnglish proficient children with transitioning to the teaching profession, including programs that provide mentoring and team teaching with trained and experienced teachers;
 
 &emsp;(4) implementing programs that support effective teacher use of education technologies to improve instruction and assessment;
 

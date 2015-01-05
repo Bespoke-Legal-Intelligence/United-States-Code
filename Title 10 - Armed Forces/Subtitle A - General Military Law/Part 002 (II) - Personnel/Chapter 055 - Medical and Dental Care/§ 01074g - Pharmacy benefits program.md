@@ -32,25 +32,23 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (4) The pharmacy benefits program may provide that prior authorization be required for certain pharmaceutical agents to assure that the use of such agents is clinically appropriate.
 
-(5) The pharmacy benefits program shall assure the availability to eligible covered beneficiaries of pharmaceutical agents not included on the uniform formulary. Such pharmaceutical agents shall be available through at least one of the means described in paragraph (2)(E) under terms and conditions that may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary.
+(5) The pharmacy benefits program shall assure the availability to eligible covered beneficiaries of pharmaceutical agents not included on the uniform formulary. Such pharmaceutical agents shall be available through the national mail-order pharmacy program under terms and conditions that shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6).
 
 (6)(A) The Secretary, in the regulations prescribed under subsection (h), shall establish cost-sharing requirements under the pharmacy benefits program. In accordance with subparagraph (C), such cost-sharing requirements shall consist of the following:
 
 &emsp;(i) With respect to each supply of a prescription covering not more than 30 days that is obtained by a covered beneficiary under the TRICARE retail pharmacy program—
 
-&emsp;&emsp;(I) in the case of generic agents, $5;
+&emsp;&emsp;(I) in the case of generic agents, $8; <sup>1</sup>
 
-&emsp;&emsp;(II) in the case of formulary agents, $17; and
-
-&emsp;&emsp;(III) in the case of nonformulary agents, $44.
+&emsp;&emsp;(II) in the case of formulary agents, $20.
 
 &emsp;(ii) With respect to each supply of a prescription covering not more than 90 days that is obtained by a covered beneficiary under the national mail-order pharmacy program—
 
 &emsp;&emsp;(I) in the case of generic agents, $0;
 
-&emsp;&emsp;(II) in the case of formulary agents, $13; and
+&emsp;&emsp;(II) in the case of formulary agents, $16; and
 
-&emsp;&emsp;(III) in the case of nonformulary agents, $43.
+&emsp;&emsp;(III) in the case of nonformulary agents, $46.
 
 (B) For a medicare-eligible beneficiary, the cost-sharing requirements may not be in excess of the cost-sharing requirements applicable to all other beneficiaries covered by section 1086 of this title. For purposes of the preceding sentence, a medicare-eligible beneficiary is a beneficiary eligible for health benefits under section 1086 of this title pursuant to subsection (d)(2) of such section.
 
@@ -62,7 +60,21 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (7) The Secretary shall establish procedures for eligible covered beneficiaries to receive pharmaceutical agents that are not included on the uniform formulary but that are considered to be clinically necessary. Such procedures shall include peer review procedures under which the Secretary may determine that there is a clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary, in which case the pharmaceutical agent shall be provided under the same terms and conditions as an agent on the uniform formulary. Such procedures shall also include an expeditious appeals process for an eligible covered beneficiary, or a network or uniformed provider on behalf of the beneficiary, to establish clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary.
 
-(8) In carrying out this subsection, the Secretary shall ensure that an eligible covered beneficiary may continue to receive coverage for any maintenance pharmaceutical that is not on the uniform formulary and that was prescribed for the beneficiary before October 5, 1999, andstabilized the medical condition of the beneficiary.
+(8) In carrying out this subsection, the Secretary shall ensure that an eligible covered beneficiary may continue to receive coverage for any maintenance pharmaceutical that is not on the uniform formulary and that was prescribed for the beneficiary before October 5, 1999, and stabilized the medical condition of the beneficiary.
+
+(9)(A) Beginning on October 1, 2015, the pharmacy benefits program shall require eligible covered beneficiaries generally to refill non-generic prescription maintenance medications through military treatment facility pharmacies or the national mail-order pharmacy program.
+
+(B) The Secretary shall determine the maintenance medications subject to the requirement under subparagraph (A). The Secretary shall ensure that—
+
+&emsp;(i) such medications are generally available to eligible covered beneficiaries through retail pharmacies only for an initial filling of a 30-day or less supply; and
+
+&emsp;(ii) any refills of such medications are obtained through a military treatment facility pharmacy or the national mail-order pharmacy program.
+
+(C) The Secretary may exempt the following prescription maintenance medications from the requirement of subparagraph (A):
+
+&emsp;(i) Medications that are for acute care needs.
+
+&emsp;(ii) Such other medications as the Secretary determines appropriate.
 
 (b)
 
@@ -108,15 +120,29 @@ Definitions.—In this section:
 
 &emsp;(3) The term "over-the-counter drug" means a drug that is not subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)).
 
-&emsp;(4) The term "prescription drug" means a drug that is subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)).
+&emsp;(4) The term "prescription drug" means a drug that is subject to section 503(b) of theFederal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)).
 
 (h)
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802.)
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(5). Pub. L. 113–291, §702(a), substituted "the national mail-order pharmacy program" for "at least one of the means described in paragraph (2)(E)" and "shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6)." for "may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary."
+
+Subsec. (a)(6)(A)(i)(I). Pub. L. 113–291, §702(b)(1)(A), substituted "$8" for "$5".
+
+Subsec. (a)(6)(A)(i)(II). Pub. L. 113–291, §702(b)(1)(B), substituted "$20." for "$17; and".
+
+Subsec. (a)(6)(A)(i)(III). Pub. L. 113–291, §702(b)(1)(C), struck out subcl. (III) which read as follows: "in the case of nonformulary agents, $44."
+
+Subsec. (a)(6)(A)(ii)(II). Pub. L. 113–291, §702(b)(2)(A), substituted "$16" for "$13".
+
+Subsec. (a)(6)(A)(ii)(III). Pub. L. 113–291, §702(b)(2)(B), substituted "$46" for "$43".
+
+Subsec. (a)(9). Pub. L. 113–291, §702(c)(1), which directed amendment of such section by adding par. (9) at the end, was executed by adding par. (9) at the end of subsec. (a), to reflect the probable intent of Congress.
 
 <b>2013</b>—Subsec. (a)(2)(D). Pub. L. 112–239, §702(a)(1), (c)(2)(A), substituted "Except as provided in subparagraph (F), no pharmaceutical agent may be excluded" for "No pharmaceutical agent may be excluded" and struck out at end "The Secretary shall begin to implement the uniform formulary not later than October 1, 2000.".
 
@@ -184,9 +210,91 @@ Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Pilot Program on Medication Therapy Management Under TRICARE Program
+
+Pub. L. 113–291, div. A, title VII, §726, Dec. 19, 2014, 128 Stat. 3419, provided that:
+
+"(a)
+
+Establishment.—In accordance with section 1092 of title 10, United States Code, the Secretary of Defense shall carry out a pilot program to evaluate the feasibility and desirability of including medication therapy management as part of the TRICARE program.
+
+"(b)
+
+Elements of Pilot Program.—In carrying out the pilot program under subsection (a), the Secretary shall ensure the following:
+
+&emsp;"(1) Patients who participate in the pilot program are patients who—
+
+&emsp;&emsp;"(A) have more than one chronic condition; and
+
+&emsp;&emsp;"(B) are prescribed more than one medication.
+
+&emsp;"(2) Medication therapy management services provided under the pilot program are focused on improving patient use and outcomes of prescription medications.
+
+&emsp;"(3) The design of the pilot program considers best commercial practices in providing medication therapy management services, including practices under the prescription drug program under part D of title XVIII of the Social Security Act (42 U.S.C. 1395w–101 et seq.).
+
+&emsp;"(4) The pilot program includes methods to measure the effect of medication therapy management services on—
+
+&emsp;&emsp;"(A) patient use and outcomes of prescription medications; and
+
+&emsp;&emsp;"(B) the costs of health care.
+
+"(c)
+
+Locations.—
+
+&emsp;"(1)
+
+Selection.—The Secretary shall carry out the pilot program under subsection (a) in not less than three locations.
+
+&emsp;"(2)
+
+First location criteria.—Not less than one location selected under paragraph (1) shall meet the following criteria:
+
+&emsp;&emsp;"(A) The location is a pharmacy at a military medical treatment facility.
+
+&emsp;&emsp;"(B) The patients participating in the pilot program at such location generally receive primary care services from health care providers at such facility.
+
+&emsp;"(3)
+
+Second location criteria.—Not less than one location selected under paragraph (1) shall meet the following criteria:
+
+&emsp;&emsp;"(A) The location is a pharmacy at a military medical treatment facility.
+
+&emsp;&emsp;"(B) The patients participating in the pilot program at such location generally do not receive primary care services from health care providers at such facility.
+
+&emsp;"(4)
+
+Third location criterion.—Not less than one location selected under paragraph (1) shall be a pharmacy located at a location other than a military medical treatment facility.
+
+"(d)
+
+Duration.—The Secretary shall carry out the pilot program under subsection (a) for a period determined appropriate by the Secretary that is not less than two years.
+
+"(e)
+
+Report.—Not later than 30 months after the date on which the Secretary commences the pilot program under subsection (a), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program that includes—
+
+&emsp;"(1) information on the effect of medication therapy management services on—
+
+&emsp;&emsp;"(A) patient use and outcomes of prescription medications; and
+
+&emsp;&emsp;"(B) the costs of health care;
+
+&emsp;"(2) the recommendations of the Secretary with respect to incorporating medication therapy management into the TRICARE program; and
+
+&emsp;"(3) such other information as the Secretary determines appropriate.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'medication therapy management' means professional services provided by qualified pharmacists to patients to improve the effective use and outcomes of prescription medications provided to the patients.
+
+&emsp;"(2) The term 'TRICARE program' has the meaning given that term in section 1072 of title 10, United States Code."
+
 #### Pilot Program for Refills of Maintenance Medications for TRICARE for Life Beneficiaries Through the TRICARE Mail-Order Pharmacy Program
 
-Pub. L. 112–239, div. A, title VII, §716, Jan. 2, 2013, 126 Stat. 1804, provided that:
+Pub. L. 112–239, div. A, title VII, §716, Jan. 2, 2013, 126 Stat. 1804, as amended by Pub. L. 113–291, div. A, title VII, §702(c)(2), Dec. 19, 2014, 128 Stat. 3411, provided that:
 
 "(a)
 
@@ -250,7 +358,7 @@ Reports.—Not later than March 31 of each year beginning in 2014 and ending in 
 
 "(f)
 
-Sunset.—The Secretary may not carry out the pilot program under subsection (a) after December 31, 2017.
+Sunset.—The Secretary may not carry out the pilot program under subsection (a) after September 30, 2015.
 
 "(g)
 
@@ -336,7 +444,7 @@ Inclusion of certain over-the-counter drugs.—(A) As part of the demonstration 
 
 &emsp;"(2)
 
-Conduct through military facilities, retail pharmacies, or mail order program.—The Secretaryshall conduct the demonstration project through at least two of the means described in subparagraph (E) of section 1074g(a)(2) of such title through which OTC drugs are provided and may conduct the demonstration project throughout the entire pharmacy benefits program or at a limited number of sites. If the project is conducted at a limited number of sites, the number of sites shall be not less than five in each TRICARE region for each of the two means described in such subparagraph.
+Conduct through military facilities, retail pharmacies, or mail order program.—The Secretary shall conduct the demonstration project through at least two of the means described in subparagraph (E) of section 1074g(a)(2) of such title through which OTC drugs are provided and may conduct the demonstration project throughout the entire pharmacy benefits program or at a limited number of sites. If the project is conducted at a limited number of sites, the number of sites shall be not less than five in each TRICARE region for each of the two means described in such subparagraph.
 
 &emsp;"(3)
 
@@ -409,4 +517,6 @@ Pub. L. 106–65, div. A, title VII, §701(c), Oct. 5, 1999, 113 Stat. 680, dire
 #### Study for Design of Pharmacy Benefit for Certain Covered Beneficiaries
 
 Pub. L. 106–65, div. A, title VII, §701(d), Oct. 5, 1999, 113 Stat. 680, required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by Pub. L. 107–107, div. A, title VII, §723, Dec. 28, 2001, 115 Stat. 1168.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

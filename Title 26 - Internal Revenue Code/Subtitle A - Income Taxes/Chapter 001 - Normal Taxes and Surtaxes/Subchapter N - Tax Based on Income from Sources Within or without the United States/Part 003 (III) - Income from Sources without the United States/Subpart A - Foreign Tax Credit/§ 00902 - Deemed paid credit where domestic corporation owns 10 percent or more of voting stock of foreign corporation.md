@@ -16,7 +16,7 @@ For purposes of this subpart, a domestic corporation which owns 10 percent or mo
 
 &emsp;&emsp;(A) any foreign corporation is a member of a qualified group, and
 
-&emsp;&emsp;(B) such foreign corporation owns 10 percent or more of the voting stock of another member of such group from which it receives dividends in any taxable year,
+&emsp;&emsp;(B) such foreign corporation owns 10 percent or more of the voting stock of anothermember of such group from which it receives dividends in any taxable year,
 
 > &emsp;such foreign corporation shall be deemed to have paid the same proportion of such other member's post-1986 foreign income taxes as would be determined under subsection (a) if such foreign corporation were a domestic corporation.
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (7) Constructive ownership through partnerships
 
-&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as being owned proportionately by its partners. Stock considered to be owned by a person by reason of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person. The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including rules to account for special partnership allocations of dividends, credits, and other incidents of ownership of stock in determining proportionate ownership.
+&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as beingowned proportionately by its partners. Stock considered to be owned by a person by reason of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person. The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including rules to account for special partnership allocations of dividends, credits, and other incidents of ownership of stock in determining proportionate ownership.
 
 #### (8) Regulations
 
@@ -150,7 +150,7 @@ Subsec. (c)(7). Pub. L. 100–647, §1012(b)(1), substituted "section 960" for "
 
 <b>1976</b>—Pub. L. 94–455, §1033(a), struck out provisions by which dividends from less developed country corporations are not grossed-up by the amount of foreign taxes paid on the underlying income and the deemed-paid foreign tax credits attributable to those dividends are reduced proportionately, struck out subsec. (d) which defined less developed country corporations, and redesignated subsec. (e) as (d).
 
-<b>1975</b>—Subsec. (d). Pub. L. 94–12 substituted "paragraph (3) or (4)", "paragraph (3)", "paragraph (3)(A)", and "paragraph (3)(B)" for "section 955(c)(1) or (2)", "section 955(c)(1)", "section 955(c)(1)(A)", and "section955(c)(1)(B)", respectively, in existing provisions and added pars. (3), (4), and (5) and provisions following par. (5).
+<b>1975</b>—Subsec. (d). Pub. L. 94–12 substituted "paragraph (3) or (4)", "paragraph (3)", "paragraph (3)(A)", and "paragraph (3)(B)" for "section 955(c)(1) or (2)", "section 955(c)(1)", "section 955(c)(1)(A)", and "section 955(c)(1)(B)", respectively, in existing provisions and added pars. (3), (4), and (5) and provisions following par. (5).
 
 <b>1971</b>—Subsec. (b). Pub. L. 91–684, §1, substituted "Foreign subsidiary of first and second foreign corporation" for "Foreign subsidiary of foreign corporation" in heading, designated existing provisions as par. (1) and inserted terminology denominating corporations involved as first foreign corporation and second foreign corporation, and reduced the ownership percentage requirement in voting stock from 50 percent to 10 percent between the first and second foreign corporations, and added pars. (2) and (3).
 
@@ -214,7 +214,7 @@ Pub. L. 94–455, title X, §1033(c), Oct. 4, 1976, 90 Stat. 1628, as amended by
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31,1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
 
 #### Effective Date of 1971 Amendment
 

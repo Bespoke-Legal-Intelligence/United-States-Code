@@ -10,7 +10,7 @@
 | [4\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000004%20-%20Functions%20of%20Secretary%3B%20regulations%3B%20delegation.md) | Functions of Secretary; regulations; delegation. |
 | [5\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000005%20-%20Questionnaires%3B%20number%2C%20form%2C%20and%20scope%20of%20inquiries.md) | Questionnaires; number, form, and scope of inquiries. |
 | [6\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000006%20-%20Information%20from%20other%20Federal%20departments%20and%20agencies%3B%20acquisition%20of%20reports%20from%20other%20governmental%20and%20private%20sources.md) | Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources. |
-| [7\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000007%20-%20Printing%3B%20requisitions%20upon%20Public%20Printer%3B%20publication%20of%20bulletins%20and%20reports.md) | Printing; requisitions upon Public Printer; publication of bulletins and reports. |
+| [7\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000007%20-%20Printing%3B%20requisitions%20upon%20Director%20of%20the%20Government%20Publishing%20Office%3B%20publication%20of%20bulletins%20and%20reports.md) | Printing; requisitions upon Director of the Government Publishing Office; publication of bulletins and reports. |
 | [8\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000008%20-%20Authenticated%20transcripts%20or%20copies%20of%20certain%20returns%3B%20other%20data%3B%20restriction%20on%20use%3B%20disposition%20of%20fees%20received.md) | Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received. |
 | [9\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000009%20-%20Information%20as%20confidential%3B%20exception.md) | Information as confidential; exception. |
 | 10\.<sup>1</sup> | Mail matter. |
@@ -59,6 +59,10 @@
 <b>1962</b>—Pub. L. 87–489, §1(b), June 19, 1962, 76 Stat. 104, added item 14.
 
 <b>1957</b>—Pub. L. 85–207, §1, Aug. 28, 1957, 71 Stat. 481, inserted ", acquisition of reports from governmental and other sources" in item 6, and added items 12, 13 and 26.
+
+#### Change of Name
+
+"Director of the Government Publishing Office" substituted for "Public Printer" in item 7 on authority of section 1301(d) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 <i><sup>1</sup></i><i> Section repealed by Pub. L. 86–682 without corresponding amendment of chapter analysis.</i>
 

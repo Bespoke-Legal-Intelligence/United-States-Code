@@ -2,7 +2,7 @@
 
 (a)
 
-Discrimination Against Employees of Manufacturers, Part Suppliers, and Dealerships.—No motor vehicle manufacturer, part supplier, or dealership may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment becausethe employee (or any person acting pursuant to a request of the employee)—
+Discrimination Against Employees of Manufacturers, Part Suppliers, and Dealerships.—No motor vehicle manufacturer, part supplier, or dealership may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
 
 &emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or the Secretary of Transportation information relating to any motor vehicle defect, noncompliance, or any violation or alleged violation of any notification or reporting requirement of this chapter;
 
@@ -102,7 +102,7 @@ Enforcement of order by parties.—
 
 &emsp;&emsp;(A)
 
-Commencement of action.—A person on whose behalf an order was issued under paragraph (3) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+Commencement of action.—A person on whose behalf an order was issued underparagraph (3) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
 
 &emsp;&emsp;(B)
 

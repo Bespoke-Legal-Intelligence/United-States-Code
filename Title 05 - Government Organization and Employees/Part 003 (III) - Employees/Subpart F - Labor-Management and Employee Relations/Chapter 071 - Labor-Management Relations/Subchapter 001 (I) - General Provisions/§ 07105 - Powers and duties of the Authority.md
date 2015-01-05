@@ -54,7 +54,7 @@
 
 &emsp;(2) administer oaths, take the testimony or deposition of any person under oath, and issue subpenas as provided in section 7132 of this title; and
 
-&emsp;(3) may require an agency or a labor organization to cease and desist from violations ofthis chapter and require it to take any remedial action it considers appropriate to carry out the policies of this chapter.
+&emsp;(3) may require an agency or a labor organization to cease and desist from violations of this chapter and require it to take any remedial action it considers appropriate to carry out the policies of this chapter.
 
 (h) Except as provided in section 518 of title 28, relating to litigation before the Supreme Court, attorneys designated by the Authority may appear for the Authority and represent the Authority in any civil action brought in connection with any function carried out by the Authority pursuant to this title or as otherwise authorized by law.
 

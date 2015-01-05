@@ -22,7 +22,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(ii) the costs of each United Nations peacekeeping operation for the prior fiscal year; and
 
-&emsp;&emsp;(iii) the amount of United States contributions (both assessed and voluntary) toUnited Nations peacekeeping operations on an operation-by-operation basis for the prior fiscal year.
+&emsp;&emsp;(iii) the amount of United States contributions (both assessed and voluntary) to United Nations peacekeeping operations on an operation-by-operation basis for the prior fiscal year.
 
 &emsp;(C) With respect to other international peacekeeping operations in which the United States participates—
 
@@ -88,7 +88,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(B) With respect to each new United Nations peacekeeping operation that is anticipated to be authorized by a Security Council resolution during such month, the following information for the period covered by the resolution:
 
-&emsp;&emsp;&emsp;(i) The anticipated duration, mandate, and command and control arrangements ofsuch operation, the planned exit strategy, and the vital national interest to be served.
+&emsp;&emsp;&emsp;(i) The anticipated duration, mandate, and command and control arrangements of such operation, the planned exit strategy, and the vital national interest to be served.
 
 &emsp;&emsp;&emsp;(ii) An estimate of the total cost to the United Nations of the operation, and an estimate of the amount of that cost that will be assessed to the United States.
 

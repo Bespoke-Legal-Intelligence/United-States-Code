@@ -42,7 +42,7 @@ In connection with a consumer credit transaction secured by a consumer's princip
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue rules, interpretive guidelines, and general statements of policy with respect to acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer and mortgage brokerage services for such a transaction, within the meaning of subsections (a), (b), (c), (d), (e), (f), (h), and (i).
+&emsp;Except as provided under paragraph (2), the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue rules, interpretive guidelines, and general statements of policy with respect to acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer and mortgage brokerage services for such a transaction, withinthe meaning of subsections (a), (b), (c), (d), (e), (f), (h), and (i).
 
 #### (2) Interim final regulations
 
@@ -50,7 +50,7 @@ In connection with a consumer credit transaction secured by a consumer's princip
 
 #### (h) Appraisal report portability
 
-Consistent with the requirements of this section, the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue regulationsthat address the issue of appraisal report portability, including regulations that ensure the portability of the appraisal report between lenders for a consumer credit transaction secured by a 1-4 unit single family residence that is the principal dwelling of the consumer, or mortgage brokerage services for such a transaction.
+Consistent with the requirements of this section, the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue regulations that address the issue of appraisal report portability, including regulations that ensure the portability of the appraisal report between lenders for a consumer credit transaction secured by a 1-4 unit single family residence that is the principal dwelling of the consumer, or mortgage brokerage services for such a transaction.
 
 #### (i) Customary and reasonable fee
 

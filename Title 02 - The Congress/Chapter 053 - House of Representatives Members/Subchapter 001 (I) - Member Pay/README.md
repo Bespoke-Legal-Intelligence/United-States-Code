@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05301 - Representatives&#8217; and Delegates&#8217; salaries payable monthly](%C2%A7%2005301%20-%20Representatives%E2%80%99%20and%20Delegates%E2%80%99%20salaries%20payable%20monthly.md)
+- [&sect; 05301 - Representatives' and Delegates' salaries payable monthly](%C2%A7%2005301%20-%20Representatives%27%20and%20Delegates%27%20salaries%20payable%20monthly.md)
 - [&sect; 05302 - Salaries payable monthly after taking oath](%C2%A7%2005302%20-%20Salaries%20payable%20monthly%20after%20taking%20oath.md)
 - [&sect; 05303 - End-of-the-month salary payment schedule inapplicable to Senators](%C2%A7%2005303%20-%20End-of-the-month%20salary%20payment%20schedule%20inapplicable%20to%20Senators.md)
 - [&sect; 05304 - Salaries of Representatives, Delegates, and Resident Commissioners elected for unexpired terms](%C2%A7%2005304%20-%20Salaries%20of%20Representatives%2C%20Delegates%2C%20and%20Resident%20Commissioners%20elected%20for%20unexpired%20terms.md)

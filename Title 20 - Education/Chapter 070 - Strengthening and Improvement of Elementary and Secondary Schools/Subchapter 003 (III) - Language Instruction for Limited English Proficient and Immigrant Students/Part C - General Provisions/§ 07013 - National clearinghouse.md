@@ -12,7 +12,7 @@ The Secretary shall establish and support the operation of a National Clearingho
 
 &emsp;&emsp;(A) educational research and processes related to the education of limited English proficient children; and
 
-&emsp;&emsp;(B) accountability systems that monitor the academic progress of limited English proficient children in language instruction educational programs, including information on academic content and English proficiency assessments for language instruction educational programs; and
+&emsp;&emsp;(B) accountability systems that monitor the academic progress of limited English proficient children in language instruction educational programs, including information on academic content and English proficiencyassessments for language instruction educational programs; and
 
 &emsp;(5) publish, on an annual basis, a list of grant recipients under this subchapter.
 

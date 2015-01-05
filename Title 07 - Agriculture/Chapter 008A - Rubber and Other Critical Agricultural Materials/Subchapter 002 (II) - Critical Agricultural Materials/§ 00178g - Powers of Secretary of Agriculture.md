@@ -14,7 +14,7 @@ In carrying out the provisions of this subchapter, the Secretary of Agriculture 
 
 &emsp;(f) assemble and maintain pertinent and current literature and publications, patents and licenses, land and interests in land;
 
-&emsp;(g) cause onsite inspections to be made of promising projects, domestic or foreign, and,in the case of projects located in the United States, cooperate and participate in their development when the Secretary determines that the purpose of this subchapter will be served thereby;
+&emsp;(g) cause onsite inspections to be made of promising projects, domestic or foreign, and, in the case of projects located in the United States, cooperate and participate in their development when the Secretary determines that the purpose of this subchapter will be served thereby;
 
 &emsp;(h) foster and participate in regional, national, and international conferences relating to native latex culture or the culture of other native agricultural crops which could supply critical agricultural materials;
 

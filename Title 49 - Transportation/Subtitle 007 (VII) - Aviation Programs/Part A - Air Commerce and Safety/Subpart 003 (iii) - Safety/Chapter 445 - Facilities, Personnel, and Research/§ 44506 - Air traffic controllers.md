@@ -10,7 +10,7 @@ Research on Effect of Automation on Performance.—To develop the means necessar
 
 &emsp;(3) the attributes and aptitudes needed to function well in a highly automated air traffic control system and the development of appropriate testing methods for identifying individuals with those attributes and aptitudes;
 
-&emsp;(4) innovative methods for training potential air traffic controllers to enhance the benefitsof automation and maximize the effectiveness of the air traffic control system; and
+&emsp;(4) innovative methods for training potential air traffic controllers to enhance the benefits of automation and maximize the effectiveness of the air traffic control system; and
 
 &emsp;(5) new technologies and procedures for exploiting automated communication systems, including Mode S Transponders, to improve information transfers between air traffic controllers and aircraft pilots.
 
@@ -78,7 +78,7 @@ Treatment of reimbursements.—Notwithstanding section 3302 of title 31, any rei
 
 Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
-&emsp;(1) the staffing standards used to determine the number of air traffic controllers needed tooperate the air traffic control system of the United States;
+&emsp;(1) the staffing standards used to determine the number of air traffic controllers needed to operate the air traffic control system of the United States;
 
 &emsp;(2) a 3-year projection of the number of controllers needed to be employed to operate the system to meet the standards; and
 
@@ -166,9 +166,13 @@ Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided tha
 
 #### Controller Staffing
 
-Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 645, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 578.
+
+Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 645.
 
 Pub. L. 111–117, div. A, title I, Dec. 16, 2009, 123 Stat. 3039.
 

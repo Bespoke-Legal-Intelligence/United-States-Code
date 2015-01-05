@@ -18,7 +18,7 @@ Engineering Cost Reimbursement.—If on-site construction of, or acquisition of 
 
 "(1)
 
-In general.—A State transportation department shall establish the occupancy requirements of vehicles operating in high occupancy vehicle lanes; except that no fewer than 2 occupants per vehicle may be required and, subject to section 163 of the Surface Transportation Assistance Act of 1982, motorcycles and bicycles shall not be considered single occupant vehicles.
+In general.—A State transportation department shall establish the occupancy requirements of vehicles operating in high occupancy vehicle lanes; except thatno fewer than 2 occupants per vehicle may be required and, subject to section 163 of the Surface Transportation Assistance Act of 1982, motorcycles and bicycles shall not be considered single occupant vehicles.
 
 "(2)
 

@@ -36,7 +36,7 @@ Formula.—Of the amounts allocated pursuant to subsection (c)—
 
 (e)
 
-Authorization of Appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass TransitAccount) to carry out this section $67,000,000 for each of fiscal years 2013 and 2014.
+Authorization of Appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $67,000,000 for each of fiscal years 2013 and 2014.
 
 (f)
 
@@ -52,7 +52,7 @@ Applicability.—All provisions of this chapter that are applicable to the Natio
 
 <b>2012</b>—Subsecs. (c) to (g). Pub. L. 112–141 added subsecs. (c) to (e), redesignated former subsecs. (e) and (f) as (f) and (g), respectively, and struck out former subsecs. (c) and (d) which related to allocation of funds and set-aside for projects on National Highway System, respectively.
 
-<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to program for construction of ferry boats and ferry terminal facilities for provisions relating to selection of high traffic sections of highways as priority primary routes for priority of improvement to supplement the service provided by the Interstate System by furnishing needed adequate traffic collector and distributor facilities.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to program for construction of ferry boats and ferry terminal facilities for provisions relating to selection of high traffic sections of highways as priority primary routesfor priority of improvement to supplement the service provided by the Interstate System by furnishing needed adequate traffic collector and distributor facilities.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178 substituted "State transportation department" for "State highway department".
 

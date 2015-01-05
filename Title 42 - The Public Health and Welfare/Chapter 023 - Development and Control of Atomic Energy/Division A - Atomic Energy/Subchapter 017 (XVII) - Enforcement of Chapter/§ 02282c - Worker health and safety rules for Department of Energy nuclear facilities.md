@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;A person (or any subcontractor or supplier of the person) who has entered into an agreement of indemnification under section 2210(d) of this title (or any subcontractor or supplier of the person) that violates (or is the employer of a person that violates) any regulation promulgated under subsection (a) of this section shall be subject to a civil penalty of not more than $70,000 for each such violation.
+&emsp;A person (or any subcontractor or supplier of the person) who has entered into an agreement of indemnification under section 2210(d) of this title (or any subcontractor or supplier of the person) that violates (or is the employer of aperson that violates) any regulation promulgated under subsection (a) of this section shall be subject to a civil penalty of not more than $70,000 for each such violation.
 
 #### (2) Continuing violations
 
@@ -72,7 +72,7 @@ Pub. L. 107–314, div. C, title XXXI, §3173(b), Dec. 2, 2002, 116 Stat. 2745, 
 
 "(1)
 
-Deadline for promulgating regulations.—The Secretary of Energy shall promulgate the regulations required by subsection a. of section 234C of the AtomicEnergy Act of 1954 \[42 U.S.C. 2282c(a)\] (as added by subsection (a)) not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
+Deadline for promulgating regulations.—The Secretary of Energy shall promulgate the regulations required by subsection a. of section 234C of the Atomic Energy Act of 1954 \[42 U.S.C. 2282c(a)\] (as added by subsection (a)) not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
 
 "(2)
 

@@ -122,7 +122,7 @@ The Administrator shall—
 
 &emsp;&emsp;(T) provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;
 
-&emsp;&emsp;(U) assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
+&emsp;&emsp;(U) assist the efforts of law enforcement agencies in coordinating with child welfareagencies to respond to foster children missing from the State welfare system; and
 
 &emsp;&emsp;(V) provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
 
@@ -194,7 +194,7 @@ Pub. L. 108–21, §321(b), substituted "$20,000,000 for each of the fiscal year
 
 <b>2002</b>—Subsec. (a)(5)(E). Pub. L. 107–273 substituted "section 5714–11" for "section 5712a".
 
-<b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of national incidence studies, and use of school records and birth certificates.
+<b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of nationalincidence studies, and use of school records and birth certificates.
 
 <b>1989</b>—Subsec. (a)(5)(C). Pub. L. 101–204, §1004(2)(A), substituted semicolon for comma at end.
 
@@ -212,7 +212,7 @@ Subsec. (a)(5). Pub. L. 100–690, §7285(a)(3), amended par. (5) generally. Pri
 
 &emsp;"(C) effective programs to prevent the abduction and sexual exploitation of children (including parent, child, and community education); and
 
-&emsp;"(D) effective program models which provide treatment, counseling, or other aid to parents of missingchildren or to children who have been the victims of abduction or sexual exploitation; and".
+&emsp;"(D) effective program models which provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction or sexual exploitation; and".
 
 Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: "prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children."
 

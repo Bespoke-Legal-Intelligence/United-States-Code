@@ -44,7 +44,7 @@ The Redband Trout Reserve does not include any private lands adjacent to the Don
 
 #### (f) Outreach and education
 
-The Secretary may work with, provide technical assistance to, provide community outreachand education programs for or with, or enter into cooperative agreements with private landowners, State and local governments or agencies, and conservation organizations to further the purposes of the Redband Trout Reserve.
+The Secretary may work with, provide technical assistance to, provide community outreach and education programs for or with, or enter into cooperative agreements with private landowners, State and local governments or agencies, and conservation organizations to further the purposes of the Redband Trout Reserve.
 
 (Pub. L. 106–399, title III, §302, Oct. 30, 2000, 114 Stat. 1668.)
 

@@ -8,7 +8,7 @@ No person, in connection with a plan or other arrangement that is <sup>1</sup> 
 
 &emsp;(3) the regulatory status of such plan or other arrangement under any Federal or State law governing collective bargaining, labor management relations, or intern union affairs; or
 
-&emsp;(4) the regulatory status of such plan or other arrangement regarding exemption from state <sup>2</sup> regulatory authority under this chapter.
+&emsp;(4) the regulatory status of such plan or other arrangement regarding exemption fromstate <sup>2</sup> regulatory authority under this chapter.
 
 > This section shall not apply to any plan or arrangement that does not fall within the meaning of the term "multiple employer welfare arrangement" under section 1002(40)(A) of this title.
 

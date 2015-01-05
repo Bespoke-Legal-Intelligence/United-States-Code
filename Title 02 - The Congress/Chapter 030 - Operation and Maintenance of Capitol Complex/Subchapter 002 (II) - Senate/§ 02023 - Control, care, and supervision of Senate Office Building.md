@@ -10,11 +10,11 @@ Section was classified to section 174c of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–145 substituted “other than for the United States Capitol Police” for “other than for officers and privates of the Capitol Police” in two places.
+<b>2010</b>—Pub. L. 111–145 substituted "other than for the United States Capitol Police" for "other than for officers and privates of the Capitol Police" in two places.
 
-<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
+<b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee on Rules".
 
 #### Effective Date of 1946 Amendment
 
-Act Aug. 2, 1946, ch. 753, title I, §142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+Act Aug. 2, 1946, ch. 753, title I, §142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall "take effect on the day on which the Eightieth Congress convenes". The Eightieth Congress convened on Jan. 3, 1947.
 

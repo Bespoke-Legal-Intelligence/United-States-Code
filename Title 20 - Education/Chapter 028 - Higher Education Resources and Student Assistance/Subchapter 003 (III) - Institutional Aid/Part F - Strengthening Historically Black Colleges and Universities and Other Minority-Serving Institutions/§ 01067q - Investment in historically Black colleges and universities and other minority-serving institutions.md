@@ -58,7 +58,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;&emsp;(I) activities described in paragraphs (1), (2), (4), (5), and (10) of section 1062(a) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) other activities, consistent with the institution's comprehensive plan anddesigned to increase the institution's capacity to prepare students for careers in the physical or natural sciences, mathematics, computer science or information technology or sciences, engineering, language instruction in the less-commonly taught languages or international affairs, or nursing or allied health professions; and
+&emsp;&emsp;&emsp;&emsp;(II) other activities, consistent with the institution's comprehensive plan and designed to increase the institution's capacity to prepare students for careers in the physical or natural sciences, mathematics, computer science or information technology or sciences, engineering, language instruction in the less-commonly taught languages or international affairs, or nursing or allied health professions; and
 
 &emsp;&emsp;&emsp;(ii) 15 percent shall be available to eligible institutions described in subsection (a)(5) and shall be available for a competitive grant program to award 25 grants of $600,000 annually for programs in any of the following areas:
 
@@ -90,7 +90,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) renovation and improvement in classroom, library, laboratory, and other instructional facilities;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) support of faculty exchanges, faculty development, and faculty fellowships to assist faculty in attaining advanced degrees in the faculty's field of instruction;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) support of faculty exchanges, faculty development, and faculty fellowships to assist faculty in attainingadvanced degrees in the faculty's field of instruction;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) curriculum development and academic instruction;
 
@@ -130,7 +130,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(i) that is in the school district of a local educational agency that was eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] for any year during which the student attended such secondary school; and
 
-&emsp;&emsp;&emsp;(ii) which for the purpose of this paragraph and for that year was determined bythe Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under a measure of poverty described in section 1113(a)(5) of such Act \[20 U.S.C. 6313(a)(5)\] exceeds 30 percent of the total enrollment of such school; or
+&emsp;&emsp;&emsp;(ii) which for the purpose of this paragraph and for that year was determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under a measure of poverty described in section 1113(a)(5) of such Act \[20 U.S.C. 6313(a)(5)\] exceeds 30 percent of the total enrollment of such school; or
 
 &emsp;&emsp;(D) are first-generation college students (as that term is defined in section 1070a–11(h) of this title), and a majority of such first-generation college students are low-income individuals.
 
@@ -168,7 +168,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;(A) has an enrollment of needy students as defined by paragraph (3);
 
-&emsp;&emsp;(B) has an average educational and general expenditure which is low, per full-time equivalent undergraduate student in comparison with the average educational and general expenditure per full-time equivalent undergraduate student of institutions of higher education that offer similar instruction, except that the Secretary may apply the waiver requirements described in section 1068a(b) of this title to this subparagraph in the same manner as the Secretary applies the waiver requirements to section 1058(b)(1)(B) of this title;
+&emsp;&emsp;(B) has an average educational and general expenditure which is low, per full-time equivalent undergraduate student in comparison with the average educational andgeneral expenditure per full-time equivalent undergraduate student of institutions of higher education that offer similar instruction, except that the Secretary may apply the waiver requirements described in section 1068a(b) of this title to this subparagraph in the same manner as the Secretary applies the waiver requirements to section 1058(b)(1)(B) of this title;
 
 &emsp;&emsp;(C) has an enrollment of undergraduate students—
 

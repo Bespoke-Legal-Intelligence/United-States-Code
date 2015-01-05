@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(D) in the case of any person enrolled in the educational benefits program provided by chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in subparagraph (C) of this paragraph, before making an election under this paragraph to receive benefits under this section in lieu of benefits under such chapter 32; and
 
-&emsp;&emsp;(E) before October 23, 1993, elects to receive assistance under this section pursuantto procedures referred to in subparagraph (C) of this paragraph,
+&emsp;&emsp;(E) before October 23, 1993, elects to receive assistance under this section pursuant to procedures referred to in subparagraph (C) of this paragraph,
 
 > to elect to become entitled to basic education assistance under this chapter.
 
@@ -52,7 +52,7 @@
 
 <b>1998</b>—Subsec. (a)(1)(B), (2)(B). Pub. L. 105–368, §203(a), substituted "successfully completed (or otherwise received academic credit for)" for "successfully completed".
 
-Subsec. (a)(2)(E). Pub. L. 105–368, §1005(b)(6), which directed the substitution of "before October 23, 1993," for "before the one-year period beginning on the date of the enactment of this section,", was executed by making the substitution for text which did not include the word "the" before the word "enactment", to reflect the probable intent of Congress.
+Subsec. (a)(2)(E). Pub. L. 105–368, §1005(b)(6), which directed the substitution of "before October 23, 1993," for"before the one-year period beginning on the date of the enactment of this section,", was executed by making the substitution for text which did not include the word "the" before the word "enactment", to reflect the probable intent of Congress.
 
 <b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–446, §1201(f)(3), substituted "October 23, 1992," for "the date of enactment of this section".
 

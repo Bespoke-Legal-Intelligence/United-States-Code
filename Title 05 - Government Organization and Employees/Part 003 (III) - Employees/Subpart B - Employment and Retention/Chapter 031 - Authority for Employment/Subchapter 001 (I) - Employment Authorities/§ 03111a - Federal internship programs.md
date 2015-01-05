@@ -24,7 +24,7 @@ Office of personnel management.—The Office of Personnel Management shall make 
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “internship program” means—
+&emsp;(1) the term "internship program" means—
 
 &emsp;&emsp;(A) a volunteer service program under section 3111(b);
 
@@ -34,13 +34,13 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(D) a program that—
 
-&emsp;&emsp;&emsp;(i) is similar to an internship program established under Executive Order 13562,dated December 27, 2010 (75 Federal Register 82585); and
+&emsp;&emsp;&emsp;(i) is similar to an internship program established under Executive Order 13562, dated December 27, 2010 (75 Federal Register 82585); and
 
 &emsp;&emsp;&emsp;(ii) is authorized under another statutory provision of law;
 
-&emsp;(2) the term “intern” means an individual participating in an internship program; and
+&emsp;(2) the term "intern" means an individual participating in an internship program; and
 
-&emsp;(3) the term “agency” means an Executive agency.
+&emsp;(3) the term "agency" means an Executive agency.
 
 (Added Pub. L. 112–81, div. A, title XI, §1109(a), Dec. 31, 2011, 125 Stat. 1614.)
 
@@ -50,5 +50,5 @@ Executive Order 13562, referred to in subsec. (c)(1), is set out as a note under
 
 #### Regulations
 
-Pub. L. 112–81, div. A, title XI, §1109(c), Dec. 31, 2011, 125 Stat. 1615, provided that: “The Office of Personnel Management may prescribe regulations to carry out the amendment made by subsection (a) \[enacting this section\].”
+Pub. L. 112–81, div. A, title XI, §1109(c), Dec. 31, 2011, 125 Stat. 1615, provided that: "The Office of Personnel Management may prescribe regulations to carry out the amendment made by subsection (a) \[enacting this section\]."
 

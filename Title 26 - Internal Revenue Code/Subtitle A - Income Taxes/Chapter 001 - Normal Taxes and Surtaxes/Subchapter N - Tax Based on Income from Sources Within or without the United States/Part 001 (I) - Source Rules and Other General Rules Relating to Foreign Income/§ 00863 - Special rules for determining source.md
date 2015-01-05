@@ -36,7 +36,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 #### (B) Special rule for personal service income
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any transportation income which is income derived from personal services performed by the taxpayer, unless such income is attributable to transportation which—
+&emsp;&emsp;Subparagraph (A) shall not apply to any transportation income which is income derived from personal services performed bythe taxpayer, unless such income is attributable to transportation which—
 
 &emsp;&emsp;&emsp;(i) begins in the United States and ends in a possession of the United States, or
 
@@ -176,21 +176,14 @@ In general.—In the case of any property described in subparagraph (B), paragra
 
 Property to which paragraph applies.—Property described in this subparagraph consists of 4 ships which are to be leased by the United States Navy and which are the subject of Internal Revenue Service rulings bearing the following dates and which involved the following amount of financing, respectively:
 
-&nbsp;&nbsp;"March 5, 1986
+&nbsp;
 
-&nbsp;$176,844,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;February 5, 1986
-
-&nbsp;&nbsp;64,567,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;April 22, 1986
-
-&nbsp;&nbsp;64,598,000&nbsp;&nbsp;
-
-&nbsp;&nbsp;May 22, 1986
-
-&nbsp;&nbsp;175,300,000."
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| "March 5, 1986 | $176,844,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;February 5, 1986 | 64,567,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;April 22, 1986 | 64,598,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;May 22, 1986 | 175,300,000." |
 
 Pub. L. 99–514, title XII, §1213(b), Oct. 22, 1986, 100 Stat. 2541, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 

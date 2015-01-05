@@ -92,7 +92,7 @@ For purposes of this section:
 
 #### (5) Consistency
 
-&emsp;Each appropriate service project carried out under this section in any public housing project or public works resource or facility shall be consistent with the provisions of law and policies relating to the management and administration of such projects, facilities, or resources, with all other applicable provisions of law, and with all management, operational, and other plans and documents which governthe administration of such projects, facilities, or resources.
+&emsp;Each appropriate service project carried out under this section in any public housing project or public works resource or facility shall be consistent with the provisions of law and policies relating to the management and administration of such projects, facilities, or resources, with all other applicable provisions of law, and with all management, operational, and other plans and documents which govern the administration of such projects, facilities, or resources.
 
 #### (e) Living allowances
 
@@ -124,7 +124,7 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 #### (2) Donations
 
-&emsp;The Secretaries are each authorized to accept donations of funds, services, facilities, materials, or equipment for the purposes of operating the Urban Youth Corps and carrying out appropriate service projects by the Corps. However, nothing in this section shall be construed to require any cost sharing for any project carried out directly by the Corps.
+&emsp;The Secretaries are each authorized to accept donations of funds, services, facilities, materials, or equipment for the purposes ofoperating the Urban Youth Corps and carrying out appropriate service projects by the Corps. However, nothing in this section shall be construed to require any cost sharing for any project carried out directly by the Corps.
 
 #### (3) Funds available under National and Community Service Act
 

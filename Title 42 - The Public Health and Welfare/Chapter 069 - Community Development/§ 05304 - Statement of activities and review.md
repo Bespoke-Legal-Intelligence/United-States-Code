@@ -70,9 +70,9 @@ A grant may be made under section 5306(b) of this title only if the unit of gene
 
 &emsp;&emsp;(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low and moderate income for 10 years from the time of initial occupancy;
 
-&emsp;&emsp;(iii) relocation benefits shall be provided for all low or moderate income persons whooccupied housing demolished or converted to a use other than for low or moderate income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low and moderate income, provide either—
+&emsp;&emsp;(iii) relocation benefits shall be provided for all low or moderate income persons who occupied housing demolished or converted to a use other than for low or moderate income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low and moderate income, provide either—
 
-&emsp;&emsp;&emsp;(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
+&emsp;&emsp;&emsp;(I) compensation sufficient to ensure that, for a 5-year period, the displacedfamilies shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
 
 &emsp;&emsp;&emsp;(II) if elected by a family, a lump-sum payment equal to the capitalized value of the benefits available under subclause (I) to permit the household to secure participation in a housing cooperative or mutual housing association; and
 
@@ -100,7 +100,7 @@ Each grantee shall submit to the Secretary, at a time determined by the Secretar
 
 &emsp;(2) in the case of grants to States made under section 5306(d) of this title, whether the State has distributed funds to units of general local government in a timely manner and in conformance to the method of distribution described in its statement, whether the State has carried out its certifications in compliance with the requirements of this chapter and other applicable laws, and whether the State has made such reviews and audits of the units of general local government as may be necessary or appropriate to determine whether they have satisfied the applicable performance criteria described in paragraph (1) of this subsection.
 
-> The Secretary may make appropriate adjustments in the amount of the annual grants in accordance with the Secretary's findings under this subsection. With respect to assistance made available to units of general local government under section 5306(d) of this title, the Secretary may adjust, reduce, or withdraw such assistance, or take other action as appropriate in accordance with the Secretary's reviews and audits under this subsection, except that funds already expended on eligible activities under thischapter shall not be recaptured or deducted from future assistance to such units of general local government.
+> The Secretary may make appropriate adjustments in the amount of the annual grants in accordance with the Secretary's findings under this subsection. With respect to assistance made available to units of general local government under section 5306(d) of this title, the Secretary may adjust, reduce, or withdraw such assistance, or take other action as appropriate in accordance with the Secretary's reviews and audits under this subsection, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future assistance to such units of general local government.
 
 #### (f) Audit of grantees by Government Accountability Office; access to books, accounts, records, etc., by representatives of Government Accountability Office
 
@@ -132,7 +132,7 @@ Insofar as they relate to funds provided under this chapter, the financial trans
 
 &emsp;(A) leverage of community development block grant funds so that participating financial institutions commit private funds for loans in the rehabilitation program in amounts substantially in excess of deposit of community development funds;
 
-&emsp;(B) commitment of private funds for rehabilitation loans at below-market interest ratesor with repayment periods lengthened or at higher risk than would normally be taken;
+&emsp;(B) commitment of private funds for rehabilitation loans at below-market interest rates or with repayment periods lengthened or at higher risk than would normally be taken;
 
 &emsp;(C) provision of administrative services in support of the rehabilitation program by the participating lending institutions; and
 
@@ -190,7 +190,7 @@ No funds authorized to be appropriated under section 5303 of this title may be o
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, whichis classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (b)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -260,7 +260,7 @@ Subsec. (d). Pub. L. 98–479, §101(a)(7), struck out the comma between "which"
 
 Subsec. (a)(2). Pub. L. 98–181, §104(b)(1), in provisions preceding subpar. (A) substituted "shall in a timely manner" for "shall".
 
-Pub. L. 98–181, §104(b)(6), inserted at end "Any final statement of activities may be modified or amended from time to time by the grantee in accordance with the same procedures required in this paragraph for the preparation and submission of such statement."
+Pub. L. 98–181, §104(b)(6), inserted at end "Any final statement of activities may be modified or amendedfrom time to time by the grantee in accordance with the same procedures required in this paragraph for the preparation and submission of such statement."
 
 Subsec. (a)(2)(A). Pub. L. 98–181, §104(b)(2), substituted "citizens or, as appropriate, units of general local government" for "citizens", and inserted ", including the estimated amount proposed to be used for activities that will benefit persons of low and moderate income and the plans of the grantee for minimizing displacement of persons as a result of activities assisted with such funds and to assist persons actually displaced as a result of such activities".
 
@@ -314,11 +314,11 @@ Subsec. (j). Pub. L. 96–399, §101(d), added subsec. (j).
 
 Subsec. (b)(3). Pub. L. 96–153, §103(c), struck out cl. (A) and redesignated cls. (B) and (C) as (A) and (B), respectively.
 
-Subsec. (h)(1). Pub. L. 96–153, §103(g)(1), substituted "Act of 1969 and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most" for "Act of 1969 are most", and "such Act, and such other provisions of lawas the regulations of the Secretary specify that would apply" for "such Act that would apply".
+Subsec. (h)(1). Pub. L. 96–153, §103(g)(1), substituted "Act of 1969 and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most" for "Act of 1969 are most", and "such Act, and such other provisions of law as the regulations of the Secretary specify that would apply" for "such Act that would apply".
 
 Subsec. (h)(2). Pub. L. 96–153, §103(g)(2), substituted "National Environmental Policy Act of 1969 and such other provisions of law as the regulations of the Secretary specify" for "National Environmental Policy Act".
 
-Subsec. (h)(3)(D). Pub. L. 96–153, §103(g)(3), substituted "Act of 1969 and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other provision of law" for "Act of 1969 insofar as the provisions of such Act" in cl. (i).
+Subsec. (h)(3)(D). Pub. L. 96–153, §103(g)(3), substituted "Act of 1969 and each provision of law specifiedin regulations issued by the Secretary insofar as the provisions of such Act or other provision of law" for "Act of 1969 insofar as the provisions of such Act" in cl. (i).
 
 <b>1978</b>—Subsec. (a)(3)(C). Pub. L. 95–557, §103(c), inserted "as a result of existing or projected employment opportunities in the community (and those elderly persons residing in or expected to reside in the community), or as estimated in a community accepted State or regional housing opportunity plan approved by the Secretary" after "expected to reside in the community".
 
@@ -384,7 +384,7 @@ Pub. L. 102–550, title VIII, §852, Oct. 28, 1992, 106 Stat. 3858, provided th
 
 "(a)
 
-Establishment of Demonstration Program.—Not later than the expiration of the 1-year period beginning on the date appropriations for the purposes ofthis section are made available, the Secretary of Housing and Urban Development (hereafter in this section referred to as the 'Secretary') shall establish and implement a demonstration program to determine the feasibility of assisting States and units of general local government to develop methods, utilizing contemporary computer technology, to—
+Establishment of Demonstration Program.—Not later than the expiration of the 1-year period beginning on the date appropriations for the purposes of this section are made available, the Secretary of Housing and Urban Development (hereafter in this section referred to as the 'Secretary') shall establish and implement a demonstration program to determine the feasibility of assisting States and units of general local government to develop methods, utilizing contemporary computer technology, to—
 
 &emsp;"(1) monitor, inventory, and maintain current listings of the community development needs of the States and units of general local government; and
 

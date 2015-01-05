@@ -12,7 +12,7 @@ For any period during which a memorandum of understanding is in effect pursuant 
 
 &emsp;(2) all employees in the United States Capitol telephone exchange for whom the employing authority is the Chief Administrative Officer shall be transferred to, and appointed by, the Sergeant at Arms and Doorkeeper; and
 
-&emsp;(3) the Sergeant at Arms and Doorkeeper shall serve as the employing authority for allpersonnel of the United States Capitol telephone exchange.
+&emsp;(3) the Sergeant at Arms and Doorkeeper shall serve as the employing authority for all personnel of the United States Capitol telephone exchange.
 
 #### (c) Pay and leave accrual
 
@@ -34,19 +34,19 @@ In carrying out a memorandum of understanding pursuant to this section, the Serg
 
 (2) Any reimbursement made pursuant to this subsection—
 
-&emsp;(A) in the case of a reimbursement for salaries or agency contributions and related expenses, shall be deposited in the account under the heading “
+&emsp;(A) in the case of a reimbursement for salaries or agency contributions and related expenses, shall be deposited in the account under the heading "
 
-Office of the sergeant at arms and doorkeeper” or “
+Office of the sergeant at arms and doorkeeper" or "
 
-agency contributions and related expenses”, under the heading “
+agency contributions and related expenses", under the heading "
 
-Salaries, Officers and Employees”; and
+Salaries, Officers and Employees"; and
 
-&emsp;(B) in the case of a reimbursement for expenses, shall be deposited in the account under the heading “
+&emsp;(B) in the case of a reimbursement for expenses, shall be deposited in the account under the heading "
 
-sergeant at arms and doorkeeper of the senate” under the heading “
+sergeant at arms and doorkeeper of the senate" under the heading "
 
-Contingent Expenses of the Senate”.
+Contingent Expenses of the Senate".
 
 (3) Any funds deposited under paragraph (2) shall be available in like manner and for the same purposes as are other funds in the account to which the funds were deposited.
 

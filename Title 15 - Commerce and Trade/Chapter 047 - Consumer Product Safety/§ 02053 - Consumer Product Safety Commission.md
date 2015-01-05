@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Chairman
 
-An independent regulatory commission is hereby established, to be known as the Consumer Product Safety Commission, consisting of five Commissioners who shall be appointed by the President, by and with the advice and consent of the Senate. In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission. The Chairman shall be appointed by thePresident, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time. Any member of the Commission may be removed by the President for neglect of duty or malfeasance in office but for no other cause.
+An independent regulatory commission is hereby established, to be known as the Consumer Product Safety Commission, consisting of five Commissioners who shall be appointed by the President, by and with the advice and consent of the Senate. In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time. Any member of the Commission may be removed by the President for neglect of duty or malfeasance in office but for no other cause.
 
 #### (b) Term; vacancies
 
@@ -82,7 +82,7 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 <b>2011</b>—Subsec. (g)(5). Pub. L. 112–74 added par. (5).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence "In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission."
+<b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence "In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risksto safety, are qualified to serve as members of the Commission."
 
 Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two".
 
@@ -104,7 +104,7 @@ Subsec (i). Pub. L. 94–284, §5, added subsec. (i).
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–608, title I, §105(b), Nov. 16, 1990, 104 Stat. 3111, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years which begin more than 180 daysafter the date of the enactment of this Act \[Nov. 16, 1990\]."
+Pub. L. 101–608, title I, §105(b), Nov. 16, 1990, 104 Stat. 3111, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years which begin more than 180 days after the date of the enactment of this Act \[Nov. 16, 1990\]."
 
 #### Effective Date
 

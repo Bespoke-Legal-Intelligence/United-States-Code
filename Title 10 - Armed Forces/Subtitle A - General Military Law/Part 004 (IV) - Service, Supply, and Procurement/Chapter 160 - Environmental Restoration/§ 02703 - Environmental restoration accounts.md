@@ -38,7 +38,7 @@ Credit of Amounts Recovered.—The following amounts shall be credited to the ap
 
 (f)
 
-Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, for fiscal years 1995 through 2010, or to any environmental restoration account of a military department for fiscal years 1997 through 2010, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
+Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, or to any environmental restoration account of a military department, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 
 (g)
 
@@ -48,21 +48,13 @@ Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—(
 
 (h)
 
-Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites.—In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the applicable Department of Defense base closure account. The limitation in this subsection shall expire upon the closure of the applicable base closure account.
+Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites.—In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note). The limitation in this subsection shall expire upon the closure of such base closure account.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 108–375, div. A, title X, §1084(d)(26), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title III, §312(b), title X, §1056(c)(7), Jan. 6, 2006, 119 Stat. 3191, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(23), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(B), Jan. 2, 2013, 126 Stat. 2144.)
-
-#### Amendment of Subsection (h)
-
-<i>Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(B), (d), Jan. 2, 2013, 126 Stat. 2144, provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (h) of this section is amended:</i>
-
-<i>(i) by striking "the applicable Department of Defense base closure account" and inserting "the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)"; and</i>
-
-<i>(ii) by striking "the applicable base closure account" and inserting "such base closure account".</i>
-
-<i>See 2013 Amendment note below.</i>
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 108–375, div. A, title X, §1084(d)(26), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title III, §312(b), title X, §1056(c)(7), Jan. 6, 2006, 119 Stat. 3191, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(23), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(B), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title III, §311, Dec. 19, 2014, 128 Stat. 3336.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–291 struck out "for fiscal years 1995 through 2010," before "or to any environmental" and "for fiscal years 1997 through 2010" before ", may be used".
 
 <b>2013</b>—Subsec. (h). Pub. L. 112–239 substituted "the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)" for "the applicable Department of Defense base closure account" and "such base closure account" for "the applicable base closure account".
 
@@ -136,7 +128,7 @@ Amounts Recovered Under CERCLA.—Amounts recovered under section 107 of CERCLA 
 
 #### Effective Date of 2013 Amendment
 
-Amendment by section 2711 of Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, see section 2711(d) of Pub. L. 112–239, set out as a note under section 2701 of this title.
+Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014 (div. J of Pub. L. 113–76, approved Jan. 17, 2014), see section 2711(d) of Pub. L. 112–239, set out as a note under section 2701 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -156,7 +148,7 @@ Pub. L. 99–499, title II, §211(c), Oct. 17, 1986, 100 Stat. 1726, provided th
 
 #### Effect of Amendment by Pub. L. 108–136 on Existing Agreements
 
-Pub. L. 108–136, div. A, title III, §313(b), Nov. 24, 2003, 117 Stat. 1430, provided that: "An agreement in effect on September 30, 2003, under section 2703(c)(1)(B) of title 10, United States Code, as in effect on that date, to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants shall remain in effect after that date, subject to the terms of the agreement, and costs may be paid in accordance with the terms of the agreement, notwithstanding the amendments made by subsection (a) \[amending this section\]."
+Pub. L. 108–136, div. A, title III, §313(b), Nov. 24, 2003, 117 Stat. 1430, provided that: "An agreement in effecton September 30, 2003, under section 2703(c)(1)(B) of title 10, United States Code, as in effect on that date, to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants shall remain in effect after that date, subject to the terms of the agreement, and costs may be paid in accordance with the terms of the agreement, notwithstanding the amendments made by subsection (a) \[amending this section\]."
 
 #### References to Defense Environmental Restoration Account
 

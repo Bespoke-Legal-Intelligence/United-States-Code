@@ -1,0 +1,6 @@
+### §6541. Omitted
+
+#### Codification
+
+Section, Pub. L. 108–148, title III, §301, Dec. 3, 2003, 117 Stat. 1902, which provided congressional findings and purposes of this subchapter, was omitted in view of the repeal of sections 2103b and 6542 of this title.
+

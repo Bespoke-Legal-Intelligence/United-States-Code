@@ -2,21 +2,19 @@
 
 #### (a) Annual reports
 
-(1) The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(A) of this section:
+The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1):
 
-&emsp;(A) The annual report of the Inspectors Generals <sup>1</sup> of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
+&emsp;(1) The annual report of the Inspectors Generals <sup>1</sup> of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
 
-&emsp;(B) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by section 2291–4(c)(2) of title 22.
+&emsp;(2) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by section 2291–4(c)(2) of title 22.
 
-&emsp;(C) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183; 50 U.S.C. 1901 et seq.) required by section 806(a) of that Act (50 U.S.C. 1906(a)).
+&emsp;(3) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183; 50 U.S.C. 1901 et seq.) required by section 806(a) of that Act (50 U.S.C. 1906(a)).
 
-&emsp;(D) The annual report on hiring and retention of minority employees in the intelligence community required by section 3050(a) of this title.
+&emsp;(4) The annual report on hiring and retention of minority employees in the intelligence community required by section 3050(a) of this title.
 
-&emsp;(E) The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title.
+&emsp;(5) The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title.
 
-&emsp;(F) The annual report on financial intelligence on terrorist assets required by section 3055 of this title.
-
-(2) The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B).
+&emsp;(6) The annual report on financial intelligence on terrorist assets required by section 3055 of this title.
 
 #### (b) Semiannual reports
 
@@ -30,9 +28,7 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 #### (c) Submittal dates for reports
 
-(1)(A) Except as provided in subsection (d) of this section, each annual report listed in subsection (a)(1) of this section shall be submitted not later than February 1.
-
-(B) Except as provided in subsection (d) of this section, the annual report listed in subsection (a)(2) of this section shall be submitted not later than December 1.
+(1) Except as provided in subsection (d) of this section, each annual report listed in subsection (a)(1) of this section shall be submitted not later than February 1.
 
 (2) Except as provided in subsection (d) of this section, each semiannual report listed in subsection (b) of this section shall be submitted not later than February 1 and August 1.
 
@@ -40,11 +36,9 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (1) Subject to paragraph (3), the date for the submittal of—
 
-&emsp;(A) an annual report listed in subsection (a)(1) of this section may be postponed until March 1;
+&emsp;(A) an annual report listed in subsection (a) of this section may be postponed until March 1; and
 
-&emsp;(B) the annual report listed in subsection (a)(2) of this section may be postponed until January 1; and
-
-&emsp;(C) a semiannual report listed in subsection (b) of this section may be postponed until March 1 or September 1, as the case may be,
+&emsp;(B) a semiannual report listed in subsection (b) of this section may be postponed until March 1 or September 1, as the case may be,
 
 > if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
 
@@ -54,15 +48,15 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (3)(A) The date for the submittal of a report whose submittal is postponed under paragraph (1) or (2) may be postponed beyond the time provided for the submittal of such report under such paragraph if the official required to submit such report submits to the congressional intelligence committees a written certification that preparation and submittal of such report at such time will impede the work of officers or employees of the intelligence community in a manner that will be detrimental to the national security of the United States.
 
-(B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
+(B) A certification with respect to a report under subparagraph (A) shall include a proposedsubmittal date for such report, and such report shall be submitted not later than that date.
 
-(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475.)
+(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407.)
 
 #### References in Text
 
-Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is section 8H(g) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1), is section 8H(g) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(1)(C), is title VIII of Pub. L. 102–183, Dec. 4, 1991, 105 Stat. 1271, which is classified generally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see section 1901(a) of this title and Tables.
+The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(3), is title VIII of Pub. L. 102–183, Dec. 4, 1991, 105 Stat. 1271, which is classified generally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see section 1901(a) of this title and Tables.
 
 The Classified Information Procedures Act, referred to in subsec. (b)(1), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -73,6 +67,12 @@ Section 1681u(h)(2) of title 15, referred to in subsec. (b)(2), was in the origi
 Section was formerly classified to section 415b of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–126, §329(c)(3)(A), in introductory provisions, struck out par. (1) designation before "The date" and substituted "subsection (c)(1)" for "subsection (c)(1)(A)", redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: "The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B)."
+
+Subsec. (c)(1). Pub. L. 113–126, §329(c)(3)(B), struck out subpar. (A) designation before "Except" and struck out subpar. (B) which read as follows: "Except as provided in subsection (d) of this section, the annual report listed in subsection (a)(2) of this section shall be submitted not later than December 1."
+
+Subsec. (d)(1). Pub. L. 113–126, §329(c)(3)(C), in subpar. (A), substituted "subsection (a)" for "subsection (a)(1)" and inserted "and" after "March 1;", redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "the annual report listed in subsection (a)(2) of this section may be postponed until January 1; and".
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–277, §310(b)(1)(A)(i)(I), (II), redesignated subpars. (B), (E), (F), (G), (H), and (I) as (A), (B), (C), (D), (E), and (F), respectively, and struck out former subpars. (A), (C), and (D) which read as follows:
 

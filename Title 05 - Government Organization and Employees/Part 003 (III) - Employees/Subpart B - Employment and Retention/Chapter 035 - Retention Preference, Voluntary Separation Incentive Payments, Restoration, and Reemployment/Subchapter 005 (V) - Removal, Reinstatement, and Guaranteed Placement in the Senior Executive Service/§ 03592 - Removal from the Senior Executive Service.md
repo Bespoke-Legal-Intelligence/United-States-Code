@@ -30,15 +30,15 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1321(a)(2)(A)(iv), struck out last sentence which read as follows: “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1321(a)(2)(A)(iv), struck out last sentence which read as follows: "In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701."
 
-Subsec. (a)(1). Pub. L. 107–296, §1321(a)(2)(A)(i), inserted “or” at end.
+Subsec. (a)(1). Pub. L. 107–296, §1321(a)(2)(A)(i), inserted "or" at end.
 
-Subsec. (a)(2). Pub. L. 107–296, §1321(a)(2)(A)(ii), struck out “or” at end.
+Subsec. (a)(2). Pub. L. 107–296, §1321(a)(2)(A)(ii), struck out "or" at end.
 
-Subsec. (a)(3). Pub. L. 107–296, §1321(a)(2)(A)(iii), struck out par. (3) which read as follows: “if the career appointee is not recertified as a senior executive under section 3393a,”.
+Subsec. (a)(3). Pub. L. 107–296, §1321(a)(2)(A)(iii), struck out par. (3) which read as follows: "if the career appointee is not recertified as a senior executive under section 3393a,".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end "In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701."
 
 Subsec. (a)(3). Pub. L. 101–194, §506(b)(3)(A)–(C), added par. (3).
 
@@ -52,9 +52,9 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 #### Savings Provision
 
-Pub. L. 107–296, title XIII, §1321(b), Nov. 25, 2002, 116 Stat. 2297, provided that: “Notwithstanding the amendments made by subsection (a)(2)(A) \[amending this section\], an appeal under the final sentence of section 3592(a) of title 5, United States Code, that is pending on the day before the effective date of this section \[see Effective Date of 2002 Amendment note above\]—
+Pub. L. 107–296, title XIII, §1321(b), Nov. 25, 2002, 116 Stat. 2297, provided that: "Notwithstanding the amendments made by subsection (a)(2)(A) \[amending this section\], an appeal under the final sentence of section 3592(a) of title 5, United States Code, that is pending on the day before the effective date of this section \[see Effective Date of 2002 Amendment note above\]—
 
-&emsp;“(1) shall not abate by reason of the enactment of the amendments made by subsection (a)(2)(A); and
+&emsp;"(1) shall not abate by reason of the enactment of the amendments made by subsection (a)(2)(A); and
 
-&emsp;“(2) shall continue as if such amendments had not been enacted.”
+&emsp;"(2) shall continue as if such amendments had not been enacted."
 

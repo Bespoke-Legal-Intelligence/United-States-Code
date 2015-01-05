@@ -10,7 +10,7 @@ Making of Additional Copy or Adaptation by Owner of Copy.—Notwithstanding the 
 
 (b)
 
-Lease, Sale, or Other Transfer of Additional Copy or Adaptation.—Any exact copies prepared in accordance with the provisions of this section may be leased, sold, or otherwise transferred, along with the copy from which such copies were prepared, only as part of the lease, sale, or other transfer of all rights in the program. Adaptations so prepared may be transferred only with the authorization of the copyright owner.
+Lease, Sale, or Other Transfer of Additional Copy or Adaptation.—Any exact copies prepared in accordance with the provisions of this section may be leased, sold, or otherwisetransferred, along with the copy from which such copies were prepared, only as part of the lease, sale, or other transfer of all rights in the program. Adaptations so prepared may be transferred only with the authorization of the copyright owner.
 
 (c)
 
@@ -34,7 +34,7 @@ Definitions.—For purposes of this section—
 
 #### house report no. 94–1476
 
-As the program for general revision of the copyright law has evolved, it has become increasingly apparentthat in one major area the problems are not sufficiently developed for a definitive legislative solution. This is the area of computer uses of copyrighted works: the use of a work "in conjunction with automatic systems capable of storing, processing, retrieving, or transferring information." The Commission on New Technological Uses is, among other things, now engaged in making a thorough study of the emerging patterns in this field and it will, on the basis of its findings, recommend definitive copyright provisions to deal with the situation.
+As the program for general revision of the copyright law has evolved, it has become increasingly apparent that in one major area the problems are not sufficiently developed for a definitive legislative solution. This is the area of computer uses of copyrighted works: the use of a work "in conjunction with automatic systems capable of storing, processing, retrieving, or transferring information." The Commission on New Technological Uses is, among other things, now engaged in making a thorough study of the emerging patterns in this field and it will, on the basis of its findings, recommend definitive copyright provisions to deal with the situation.
 
 Since it would be premature to change existing law on computer uses at present, the purpose of section 117 is to preserve the status quo. It is intended neither to cut off any rights that may now exist, nor to create new rights that might be denied under the Act of 1909 or under common law principles currently applicable.
 

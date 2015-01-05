@@ -6,7 +6,7 @@
 
 (2) The Board shall consist of three members. At least one member of the Board shall be licensed to practice law in the Republic of Panama. Individuals appointed to the Board shall take an oath of office, the form of which shall be prescribed by the Secretary of Defense.
 
-(3) Compensation for members of the Board of Contract Appeals shall be established by theCommission's supervisory board. The annual compensation established for members may not exceed the rate of basic pay established for level IV of the Executive Schedule under section 5315 of title 5. The compensation of a member may not be reduced during the member's term of office from the level established at the time of the appointment of the member.
+(3) Compensation for members of the Board of Contract Appeals shall be established by the Commission's supervisory board. The annual compensation established for members may not exceed the rate of basic pay established for level IV of the Executive Schedule under section 5315 of title 5. The compensation of a member may not be reduced during the member's term of office from the level established at the time of the appointment of the member.
 
 #### (b) Exclusive jurisdiction to decide appeals
 
@@ -28,15 +28,15 @@ The Board shall decide protests submitted to it under this subsection by interes
 
 #### (d) Procedures
 
-The Board shall prescribe such procedures as may be necessary for the expeditious decision of appeals and protests under subsections (b) and (c) of this section.
+The Board shall prescribe such procedures as may be necessary for the expeditious decision of appeals and protests under subsections (b) and (c).
 
 #### (e) Commencement
 
-The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d) of this section.
+The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d).
 
 #### (f) Transition
 
-The Board shall have jurisdiction under subsections (b) and (c) of this section over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
+The Board shall have jurisdiction under subsections (b) and (c) over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
 
 #### (g) Other functions
 

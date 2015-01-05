@@ -2,7 +2,7 @@
 
 #### (a) Focus of research
 
-In conformance with the Superconductivity Action Plan, the Secretary of Defense, in the superconductivity research and development activities of the Department of Defense, shall give emphasis to fundamental research, materials processing, and applications of new superconducting materials.
+In conformance with the Superconductivity Action Plan, the Secretary of Defense, in thesuperconductivity research and development activities of the Department of Defense, shall give emphasis to fundamental research, materials processing, and applications of new superconducting materials.
 
 #### (b) Additional activities
 

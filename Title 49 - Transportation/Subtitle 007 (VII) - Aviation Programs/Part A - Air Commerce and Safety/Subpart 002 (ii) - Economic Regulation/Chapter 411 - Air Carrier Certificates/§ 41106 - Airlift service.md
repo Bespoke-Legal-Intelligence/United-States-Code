@@ -26,7 +26,7 @@ Exception.—When the Secretary of Defense decides that no air carrier holding a
 
 CRAF-eligible Aircraft Defined.—In this section, "CRAF-eligible aircraft" means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1121; Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a), (b)\],Oct. 30, 2000, 114 Stat. 1654, 1654A–87; Pub. L. 112–81, div. A, title III, §365, Dec. 31, 2011, 125 Stat. 1380.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1121; Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87; Pub. L. 112–81, div. A, title III, §365, Dec. 31, 2011, 125 Stat. 1380.)
 
 Historical and Revision Notes
 

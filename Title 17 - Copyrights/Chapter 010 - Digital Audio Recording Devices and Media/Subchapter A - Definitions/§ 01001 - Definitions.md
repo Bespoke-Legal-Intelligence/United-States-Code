@@ -2,7 +2,7 @@
 
 As used in this chapter, the following terms have the following meanings:
 
-&emsp;(1) A "digital audio copied recording" is a reproduction in a digital recording format of a digital musical recording, whether that reproduction is made directly from another digital musical recording or indirectly from a transmission.
+&emsp;(1) A "digital audio copied recording" is a reproduction in a digital recording format of a digital musical recording, whether that reproduction is made directly from another digitalmusical recording or indirectly from a transmission.
 
 &emsp;(2) A "digital audio interface device" is any machine or device that is designed specifically to communicate digital audio information and related interface data to a digital audio recording device through a nonprofessional interface.
 
@@ -34,7 +34,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(C) For purposes of this paragraph—
 
-&emsp;&emsp;(i) a "spoken word recording" is a sound recording in which are fixed only a series of spoken words, except that the spoken wordsmay be accompanied by incidental musical or other sounds, and
+&emsp;&emsp;(i) a "spoken word recording" is a sound recording in which are fixed only a series of spoken words, except that the spoken words may be accompanied by incidental musical or other sounds, and
 
 &emsp;&emsp;(ii) the term "incidental" means related to and relatively minor by comparison.
 
@@ -70,7 +70,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;&emsp;(ii) in the case of a domestic product, the manufacturer's transfer price (FOB the manufacturer, and exclusive of any direct sales taxes or excise taxes incurred in connection with the sale); and
 
-&emsp;&emsp;(B) shall, in a case in which the transferor and transferee are related entities or within a single entity, not be less than a reasonable arms-length price under the principles of the regulations adopted pursuant to section 482 of the Internal Revenue Code of 1986, or any successor provision to such section.
+&emsp;&emsp;(B) shall, in a case in which the transferor and transferee are related entities or withina single entity, not be less than a reasonable arms-length price under the principles of the regulations adopted pursuant to section 482 of the Internal Revenue Code of 1986, or any successor provision to such section.
 
 &emsp;(13) A "writer" is the composer or lyricist of a particular musical work.
 

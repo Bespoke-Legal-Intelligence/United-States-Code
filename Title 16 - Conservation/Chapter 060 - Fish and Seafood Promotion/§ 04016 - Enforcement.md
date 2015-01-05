@@ -18,7 +18,7 @@
 
 (B) Any person who violates any provision of an order (including a cease and desist order previously issued under this paragraph) or regulation issued by the Secretary under this chapter, or who fails or refuses to pay, collect, or remit any assessment required under this chapter, may be assessed a civil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense. In addition to, or in lieu of, a civil penalty under this subparagraph, the Secretary may issue an order requiring such person to cease and desist from continuing such violation.
 
-(C) No penalty shall be assessed, or cease and desist order issued, under this paragraph unlessthe affected person is given notice and opportunity for a hearing before the Secretary with respect to such violation.
+(C) No penalty shall be assessed, or cease and desist order issued, under this paragraph unless the affected person is given notice and opportunity for a hearing before the Secretary with respect to such violation.
 
 (D) Any order of the Secretary under this paragraph assessing a penalty or imposing a cease and desist order shall be final and conclusive, unless the affected person files an appeal from the Secretary's order with the appropriate United States court of appeals.
 

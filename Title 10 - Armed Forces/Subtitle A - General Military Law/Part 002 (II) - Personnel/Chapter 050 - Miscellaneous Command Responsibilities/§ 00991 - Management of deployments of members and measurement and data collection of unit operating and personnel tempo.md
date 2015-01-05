@@ -32,7 +32,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 (b)
 
-Deployment Defined.—(1) For the purposes of this section, a member of the armed forces shall be considered to be deployed or in a deployment on any day on which, pursuant to orders, the member is performing service in a training exercise or operation at a location or under circumstances that make it impossible or infeasible for the member to spend off-duty time in the housing in which the member resides when on garrison duty at the member's permanent duty station or homeport, as the case may be.
+Deployment Defined.—(1) For the purposes of this section, a member of the armedforces shall be considered to be deployed or in a deployment on any day on which, pursuant to orders, the member is performing service in a training exercise or operation at a location or under circumstances that make it impossible or infeasible for the member to spend off-duty time in the housing in which the member resides when on garrison duty at the member's permanent duty station or homeport, as the case may be.
 
 (2) In the case of a member of a reserve component who is performing active service pursuant to orders that do not establish a permanent change of station, the housing referred to in paragraph (1) is any housing (which may include the member's residence) that the member usually occupies for use during off-duty time when on garrison duty at the member's permanent duty station or homeport, as the case may be.
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 112–81, §522(c), added subsec. (f).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
-"(1) The deployment (or potential deployment) of a member of the armed forces shall be managed, during any period when the member is a high-deployment days member, by the officer in the chain of command of thatmember who is the lowest-ranking general or flag officer in that chain of command. That officer shall ensure that the member is not deployed, or continued in a deployment, on any day on which the total number of days on which the member has been deployed out of the preceding 365 days would exceed 220. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—
+"(1) The deployment (or potential deployment) of a member of the armed forces shall be managed, during any period when the member is a high-deployment days member, by the officer in the chain of command of that member who is the lowest-ranking general or flag officer in that chain of command. That officer shall ensure that the member is not deployed, or continued in a deployment, on any day on which the total number of days on which the member has been deployed out of the preceding 365 days would exceed 220. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—
 
 &emsp;"(A) in the case of a member who is assigned to a combatant command in a position under the operational control of the officer in that combatant command who is the service component commander for the members of that member's armed force in that combatant command, by that officer; and
 

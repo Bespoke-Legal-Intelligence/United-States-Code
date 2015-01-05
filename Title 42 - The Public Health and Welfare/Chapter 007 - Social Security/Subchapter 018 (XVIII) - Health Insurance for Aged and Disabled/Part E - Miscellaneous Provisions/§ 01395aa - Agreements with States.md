@@ -10,7 +10,7 @@ The Secretary shall pay any such State, in advance or by way of reimbursement, a
 
 #### (c) Use of State or local agencies to survey hospitals
 
-The Secretary is authorized to enter into an agreement with any State under which the appropriate State or local agency which performsthe certification function described in subsection (a) of this section will survey, on a selective sample basis (or where the Secretary finds that a survey is appropriate because of substantial allegations of the existence of a significant deficiency or deficiencies which would, if found to be present, adversely affect health and safety of patients), provider entities that, pursuant to section 1395bb(a)(1) of this title, are treated as meeting the conditions or requirements of this subchapter. The Secretary shall pay for such services in the manner prescribed in subsection (b) of this section.
+The Secretary is authorized to enter into an agreement with any State under which the appropriate State or local agency which performs the certification function described in subsection (a) of this section will survey, on a selective sample basis (or where the Secretary finds that a survey is appropriate because of substantial allegations of the existence of a significant deficiency or deficiencies which would, if found to be present, adversely affect health and safety of patients), provider entities that, pursuant to section 1395bb(a)(1) of this title, are treated as meeting the conditions or requirements of this subchapter. The Secretary shall pay for such services in the manner prescribed in subsection (b) of this section.
 
 #### (d) Fulfillment of requirements by States
 
@@ -58,7 +58,7 @@ Pub. L. 100–360, §411(d)(4)(A)(i), as amended by Pub. L. 100–485, §608(d)(
 
 Pub. L. 100–360, §411(d)(4)(A)(ii)(I), as amended by Pub. L. 100–485, §608(d)(20)(C), substituted "such State or local agency to maintain a unit" for "such agency to maintain a unit".
 
-Pub. L. 100–360, §411(d)(4)(A)(ii)(II), as amended by Pub. L. 100–485, §608(d)(20)(B)(ii), substituted "utilizedby the Secretary under section 1395bb of this title" for "pursuant to an agreement with the Secretary under this section".
+Pub. L. 100–360, §411(d)(4)(A)(ii)(II), as amended by Pub. L. 100–485, §608(d)(20)(B)(ii), substituted "utilized by the Secretary under section 1395bb of this title" for "pursuant to an agreement with the Secretary under this section".
 
 Pub. L. 100–360, §204(d)(3), substituted "paragraphs (14) and (15)" for "paragraphs (13) and (14)".
 

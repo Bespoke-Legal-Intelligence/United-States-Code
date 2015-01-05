@@ -12,7 +12,7 @@
 
 (4) In carrying out such research program, the Secretary shall act in cooperation with the entities described in section 7302(d) of this title.
 
-(b) Prosthetic research shall include research and testing in the field of prosthetic, orthotic,and orthopedic appliances and sensory devices. In order that the unique investigative material and research data in the possession of the Government may result in the improvement of such appliances and devices for all disabled persons, the Secretary (through the Under Secretary for Health) shall make the results of such research available to any person, and shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(3) of the Rehabilitation Act of 1973 (relating to the establishment and support of Rehabilitation Engineering Research Centers).
+(b) Prosthetic research shall include research and testing in the field of prosthetic, orthotic, and orthopedic appliances and sensory devices. In order that the unique investigative material and research data in the possession of the Government may result in the improvement of such appliances and devices for all disabled persons, the Secretary (through the Under Secretary for Health) shall make the results of such research available to any person, and shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(3) of the Rehabilitation Act of 1973 (relating to the establishment and support of Rehabilitation Engineering Research Centers).
 
 (c)(1) In conducting or supporting clinical research, the Secretary shall ensure that, whenever possible and appropriate—
 
@@ -32,7 +32,7 @@
 
 &emsp;(C) Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Group and the Task Force on Treatment of Women Who Suffer Sexual Abuse).
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, §205(a), Jan. 23, 2002, 115 Stat. 2460; Pub. L. 108–170, title IV, §401(b), Dec. 6, 2003, 117 Stat. 2061.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, §205(a), Jan. 23, 2002, 115 Stat. 2460; Pub. L.108–170, title IV, §401(b), Dec. 6, 2003, 117 Stat. 2061.)
 
 #### References in Text
 

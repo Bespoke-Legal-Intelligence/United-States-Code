@@ -12,7 +12,7 @@ The Attorney General, in consultation with the Secretary of Health and Human Ser
 
 Grants awarded under this section shall be used—
 
-&emsp;(1) to provide personnel, training, technical assistance, advocacy, intervention, risk reduction (including using evidence-based indicators to assess the risk of domestic and dating violence homicide) and prevention of domesticviolence, dating violence, stalking, and sexual assault against disabled individuals;
+&emsp;(1) to provide personnel, training, technical assistance, advocacy, intervention, risk reduction (including using evidence-based indicators to assess the risk of domestic and dating violence homicide) and prevention of domestic violence, dating violence, stalking, and sexual assault against disabled individuals;
 
 &emsp;(2) to conduct outreach activities to ensure that disabled individuals who are victims of domestic violence, dating violence, stalking, or sexual assault receive appropriate assistance;
 

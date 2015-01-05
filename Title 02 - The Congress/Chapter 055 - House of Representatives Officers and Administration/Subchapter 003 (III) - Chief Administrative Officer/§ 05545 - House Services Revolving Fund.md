@@ -2,7 +2,7 @@
 
 #### (a) Establishment of House Services Revolving Fund
 
-There is hereby established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the “House Services Revolving Fund” (hereafter in this section referred to as the “Revolving Fund”), consisting of funds deposited by the Chief Administrative Officer of the House of Representatives from all amounts received by the House of Representatives with respect to the following activities:
+There is hereby established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the "House Services Revolving Fund" (hereafter in this section referred to as the "Revolving Fund"), consisting of funds deposited by the Chief Administrative Officer of the House of Representatives from all amounts received by the House of Representatives with respect to the following activities:
 
 &emsp;(1) The operation of the House Barber Shop.
 
@@ -18,7 +18,7 @@ There is hereby established in the Treasury of the United States a revolving fun
 
 #### (b) Use of amounts in Fund
 
-Amounts in the Revolving Funds <sup>2</sup> shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction, which is approved by the Committee on Appropriations of the House of Representatives.
+Amounts in the Revolving Funds <sup>2</sup> shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction, which is approved bythe Committee on Appropriations of the House of Representatives.
 
 #### (c) Transfer authority
 
@@ -34,11 +34,11 @@ The Revolving Fund shall be treated as a category of allowances and expenses for
 
 &emsp;The funds and accounts referred to in paragraph (1) are as follows:
 
-&emsp;&emsp;(A) The revolving fund for the House Barber Shop, established by the paragraph under the heading “HOUSE BARBER SHOPS REVOLVING FUND” in the matter relating to the House of Representatives in chapter III of title I of the Supplemental Appropriations Act, 1975 (Public Law 93–554; 88 Stat. 1776).
+&emsp;&emsp;(A) The revolving fund for the House Barber Shop, established by the paragraph under the heading "HOUSE BARBER SHOPS REVOLVING FUND" in the matter relating to the House of Representatives in chapter III of title I of the Supplemental Appropriations Act, 1975 (Public Law 93–554; 88 Stat. 1776).
 
-&emsp;&emsp;(B) The revolving funds for the House Beauty Shop, established by the matter under the heading “
+&emsp;&emsp;(B) The revolving funds for the House Beauty Shop, established by the matter under the heading "
 
-house beauty shop” in the matter relating to administrative provisions for the House of Representatives in the Legislative Branch Appropriations Act, 1970 (Public Law 91–145; 83 Stat. 347).
+house beauty shop" in the matter relating to administrative provisions for the House of Representatives in the Legislative Branch Appropriations Act, 1970 (Public Law 91–145; 83 Stat. 347).
 
 &emsp;&emsp;(C) The special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, or any successor fund or account established for the receipt of revenues of the House Restaurant System.
 
@@ -64,27 +64,27 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 <b>2009</b>—Subsec. (a)(6). Pub. L. 111–8 added par. (6).
 
-<b>2007</b>—Subsec. (b). Pub. L. 110–161 substituted “the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction,” for “the Chief Administrative Officer”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–161 substituted "the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction," for "the Chief Administrative Officer".
 
 <b>2005</b>—Subsec. (a)(5). Pub. L. 109–13 added par. (5).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–8, div. G, title I, §102(c), Mar. 11, 2009, 123 Stat. 817, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2009 and each succeeding fiscal year.”
+Pub. L. 111–8, div. G, title I, §102(c), Mar. 11, 2009, 123 Stat. 817, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2009 and each succeeding fiscal year."
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §104(b), Dec. 26, 2007, 121 Stat. 2225, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2008 and each succeeding fiscal year.”
+Pub. L. 110–161, div. H, title I, §104(b), Dec. 26, 2007, 121 Stat. 2225, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2008 and each succeeding fiscal year."
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–13, div. A, title III, §3401(c), May 11, 2005, 119 Stat. 272, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2005 \[Pub. L. 108–447, div. G\].”
+Pub. L. 109–13, div. A, title III, §3401(c), May 11, 2005, 119 Stat. 272, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2005 \[Pub. L. 108–447, div. G\]."
 
 #### Membership in House of Representatives Exercise Facility for Active Duty Armed Forces Members Assigned to Congressional Liaison Office
 
-Pub. L. 111–248, §1, Sept. 30, 2010, 124 Stat. 2625, provided that: “Any active duty member of the Armed Forces who is assigned to a congressional liaison office of the Armed Forces at the House of Representatives may obtain membership in the exercise facility established for employees of the House of Representatives (as described in section 103(a) of the Legislative Branch Appropriations Act, 2005 \[118 Stat. 3174\]) in the same manner as an employee of the House of Representatives, in accordance with such regulations as the Committee on House Administration may promulgate.”
+Pub. L. 111–248, §1, Sept. 30, 2010, 124 Stat. 2625, provided that: "Any active duty member of the Armed Forces who is assigned to a congressional liaison office of the Armed Forces at the House of Representatives may obtain membership in the exercise facility established for employees of the House of Representatives (as described in section 103(a) of the Legislative Branch Appropriations Act, 2005 \[118 Stat. 3174\]) in the same manner as an employee of the House of Representatives, in accordance with such regulations as the Committee on House Administration may promulgate."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Fund”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Fund".</i>
 

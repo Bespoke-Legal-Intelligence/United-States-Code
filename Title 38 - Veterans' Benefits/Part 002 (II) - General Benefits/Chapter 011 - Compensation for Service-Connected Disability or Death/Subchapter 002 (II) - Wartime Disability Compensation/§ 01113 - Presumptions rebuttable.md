@@ -26,5 +26,5 @@ Pub. L. 102–4 inserted "or 316" after "section 312" wherever appearing.
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–446, title V, §501(b)(2), Nov. 2, 1994, 108 Stat. 4663, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply with respect to applications for veterans benefits that are submitted to the Secretary of Veterans Affairs after the date of the enactment of this Act \[Nov. 2, 1994\]."
+Pub. L. 103–446, title V, §501(b)(2), Nov. 2, 1994, 108 Stat. 4663, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to applications for veterans benefits that are submitted to the Secretary of Veterans Affairs after the date of the enactment of this Act \[Nov. 2, 1994\]."
 

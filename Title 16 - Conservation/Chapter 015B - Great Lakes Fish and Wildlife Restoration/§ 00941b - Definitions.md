@@ -10,7 +10,7 @@ In this chapter—
 
 &emsp;(4) the term "Indian Tribe" means any Indian tribe, band, village, nation, or other organized group or community that is recognized by the Bureau of Indian Affairs as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin;
 
-&emsp;(5) the term "lower Great Lakes" means the region in which is located that portion of theGreat Lakes Basin which is downstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan;
+&emsp;(5) the term "lower Great Lakes" means the region in which is located that portion of the Great Lakes Basin which is downstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan;
 
 &emsp;(6) the term "non-Federal source" includes a State government, local government, Indian tribe, other non-Federal governmental entity, private entity, and individual;
 
@@ -34,7 +34,7 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 #### Amendments
 
-<b>2006</b>—Pars. (1) to (3). Pub. L. 109–326, §3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, and struck out former par. (1) which defined the term "Administrator".
+<b>2006</b>—Pars. (1) to (3). Pub. L. 109–326, §3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, andstruck out former par. (1) which defined the term "Administrator".
 
 Par. (4). Pub. L. 109–326, §3(3), inserted before semicolon at end ", and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin".
 

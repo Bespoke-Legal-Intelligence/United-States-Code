@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition of Reprisals.—(1) An employee of a contractor or subcontractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of the following:
+Prohibition of Reprisals.—(1) An employee of a contractor, subcontractor, grantee, or subgrantee may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of the following:
 
 &emsp;(A) Gross mismanagement of a Department of Defense contract or grant, a gross waste of Department funds, an abuse of authority relating to a Department contract or grant, or a violation of law, rule, or regulation related to a Department contract (including the competition for or negotiation of a contract) or grant.
 
@@ -36,7 +36,7 @@ Prohibition of Reprisals.—(1) An employee of a contractor or subcontractor may
 
 Investigation of Complaints.—(1) A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the Department of Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency.
 
-(2)(A) Except as provided under subparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant or submit a report under paragraph (1) within 180 days after receiving the complaint.
+(2)(A) Except as provided under subparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant orsubmit a report under paragraph (1) within 180 days after receiving the complaint.
 
 (B) If the Inspector General is unable to complete an investigation in time to submit a report within the 180-day period specified in subparagraph (A) and the person submitting the complaint agrees to an extension of time, the Inspector General shall submit a report under paragraph (1) within such additional period of time, up to 180 days, as shall be agreed upon between the Inspector General and the person submitting the complaint.
 
@@ -78,7 +78,7 @@ Notification of Employees.—The Secretary of Defense and the Administrator of t
 
 (e)
 
-Exceptions.—(1) This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+Exceptions.—(1) This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
 
 (2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, or grantee of an element of the intelligence community if such disclosure—
 
@@ -100,7 +100,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "contract" means a contract awarded by the head of an agency.
 
-&emsp;(4) The term "contractor" means a person awarded a contract or a grant with an agency.
+&emsp;(4) The term "contractor" means a person awarded a contract with an agency.
 
 &emsp;(5) The term "Inspector General" means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts awarded for or on behalf of, the Secretary of Defense.
 
@@ -110,7 +110,9 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) An arbitrary and capricious exercise of authority that is inconsistent with the mission of the National Aeronautics and Space Administration or the successful performance of an Administration contract or grant.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671; Pub. L. 110–181, div. A, title VIII, §846, Jan. 28, 2008, 122 Stat. 241; Pub. L. 112–239, div. A, title VIII, §827(a)–(f), Jan. 2, 2013, 126 Stat. 1833–1836.)
+&emsp;(7) The term "grantee" means a person awarded a grant with an agency.
+
+(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671; Pub. L. 110–181, div. A, title VIII, §846, Jan. 28, 2008, 122 Stat. 241; Pub. L. 112–239, div. A, title VIII, §827(a)–(f), Jan. 2, 2013, 126 Stat. 1833–1836; Pub. L. 113–291, div. A, title VIII, §856, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3460, 3509.)
 
 #### References in Text
 
@@ -123,6 +125,14 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–291, §856(a), substituted ", subcontractor, grantee, or subgrantee" for "or subcontractor" in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 113–291, §1071(c)(10), substituted "(50 U.S.C. 3003(4))" for "(50 U.S.C. 401a(4))".
+
+Subsec. (g)(4). Pub. L. 113–291, §856(b)(1), struck out "or a grant" after "contract".
+
+Subsec. (g)(7). Pub. L. 113–291, §856(b)(2), added par. (7).
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §827(a)(1), designated existing provisions as par. (1).
 
@@ -156,7 +166,7 @@ Subsecs. (f), (g). Pub. L. 112–239, §827(d)(1), redesignated subsecs. (d) and
 
 Subsec. (g)(6). Pub. L. 112–239, §827(f), added par. (6).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §846(a), substituted "disclosing to a Member of Congress, a representative of a committee of Congress, an Inspector General, the Government Accountability Office, a Department of Defense employee responsible for contract oversight or management," for "disclosing to a Member of Congress" and "information that the employee reasonably believes is evidence of gross mismanagement of a Department of Defense contract or grant, a gross waste of Department of Defense funds, a substantial and specific danger to public health or safety, or a violation of law related to a Department of Defense contract (including the competition for or negotiation of a contract) or grant" for "information relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)".
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §846(a), substituted "disclosing to a Member of Congress, a representative of a committee of Congress, an Inspector General, the Government Accountability Office, a Department of Defense employee responsible for contract oversight or management," for "disclosing to a Member of Congress" and "information that the employee reasonably believes is evidence of gross mismanagement of a Department of Defense contract or grant, a gross waste of Department of Defense funds, a substantial and specific danger to public health or safety, or a violation of law related to a Department of Defense contract (includingthe competition for or negotiation of a contract) or grant" for "information relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)".
 
 Subsec. (b). Pub. L. 110–181, §846(b), designated existing provisions as par. (1), substituted "the Department of Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration" for "an agency", and added par. (2).
 

@@ -24,7 +24,7 @@ The Board shall be composed of—
 
 &emsp;The Board shall submit to the President and the Congress of the United States an annual report on—
 
-&emsp;&emsp;(A) the environmental and infrastructure projects referred to in subsection (a) of this section that have been implemented, and
+&emsp;&emsp;(A) the environmental and infrastructure projects referred to in subsection (a) that have been implemented, and
 
 &emsp;&emsp;(B) the need for the implementation of additional environmental and infrastructure projects.
 

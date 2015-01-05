@@ -28,7 +28,7 @@
 
 &emsp;(4) signed by the chief mate or another seaman.
 
-(d) In a subsequent legal proceeding, if the entries required by this section are not producedor proved, the court may refuse to receive evidence of the offense.
+(d) In a subsequent legal proceeding, if the entries required by this section are not produced or proved, the court may refuse to receive evidence of the offense.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 583.)
 

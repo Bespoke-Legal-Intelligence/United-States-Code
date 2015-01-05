@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 6 months after November 29, 1990, the Secretary shall issue voluntaryguidelines to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the exchange of ballast water of vessels prior to entering those waters.
+&emsp;Not later than 6 months after November 29, 1990, the Secretary shall issue voluntary guidelines to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the exchange of ballast water of vessels prior to entering those waters.
 
 #### (2) Content of guidelines
 
@@ -176,7 +176,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (1) General regulations
 
-&emsp;If, on the basis of a periodic review conducted under subsection (e)(1) of this sectionor a special review conducted under subsection (e)(2) of this section, the Secretary determines that—
+&emsp;If, on the basis of a periodic review conducted under subsection (e)(1) of this section or a special review conducted under subsection (e)(2) of this section, the Secretary determines that—
 
 &emsp;&emsp;(A) the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) of this section is inadequate; or
 
@@ -246,7 +246,7 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
+&emsp;&emsp;Except as provided in subparagraph (B), a vessel that does not exchange ballast wateron the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
 
 #### (B) Great Lakes
 
@@ -254,7 +254,7 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 #### (3) Crude oil tanker ballast facility study
 
-&emsp;(A) Within 60 days of October 26, 1996,<sup>1</sup> the Secretary of the department in which the Coast Guard is operating, in consultation withthe Under Secretary of Commerce for Oceans and Atmosphere, affected shoreside ballast water facility operators, affected crude oil tanker operators, and interested parties, shall initiate a study of the effectiveness of existing shoreside ballast water facilities used by crude oil tankers in the coastwise trade off Alaska in preventing the introduction of nonindigenous aquatic species into the waters off Alaska, as well as the cost and feasibility of modifying such facilities to improve such effectiveness.
+&emsp;(A) Within 60 days of October 26, 1996,<sup>1</sup> the Secretary of the department in which the Coast Guard is operating, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere, affected shoreside ballast water facility operators, affected crude oil tanker operators, and interested parties, shall initiate a study of the effectiveness of existing shoreside ballast water facilities used by crude oil tankers in the coastwise trade off Alaska in preventing the introduction of nonindigenous aquatic species into the waters off Alaska, as well as the cost and feasibility of modifying such facilities to improve such effectiveness.
 
 &emsp;(B) The study required under subparagraph (A) shall be submitted to the Congress by no later than October 1, 1997.
 

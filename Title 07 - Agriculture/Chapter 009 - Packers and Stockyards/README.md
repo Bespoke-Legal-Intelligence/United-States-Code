@@ -92,8 +92,7 @@
 | 228b–4. | Violation of final order by live poultry dealer; penalty. |
 | [228c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228c%20-%20Federal%20preemption%20of%20State%20and%20local%20requirements.md) | Federal preemption of State and local requirements. |
 | [228d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228d%20-%20Annual%20assessment%20of%20cattle%20and%20hog%20industries.md) | Annual assessment of cattle and hog industries. |
-| [229\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20XI%2C%2011004%28b%29%2C%20May%2022%2C%202008%2C%20122%20Stat.%201356%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20XI%2C%20%C2%A711004%28b%29%2C%20June%E2%80%A6.md) | Repealed. |
-| [229a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9378%2C%20title%20IX%2C%20%C2%A7913%28a%29%2C%20Oct.%2022%2C%201999%2C%20113%20Stat.%201205.md) | Repealed. |
+| 229, 229a. | Repealed. |
 | [229b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229b%20-%20Right%20to%20discuss%20terms%20of%20contract.md) | Right to discuss terms of contract. |
 | [229c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229c%20-%20Separability.md) | Separability. |
 
@@ -111,7 +110,7 @@
 
 Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
-By order of Secretary of Agriculture, Packers and Stockyards Administration abolished on July 1, 1927, and enforcement of Packers and Stockyards Act of 1921,which is classified to this chapter, was put under control of chief of Bureau of Animal Industry.
+By order of Secretary of Agriculture, Packers and Stockyards Administration abolished on July 1, 1927, and enforcement of Packers and Stockyards Act of 1921, which is classified to this chapter, was put under control of chief of Bureau of Animal Industry.
 
 
 ---

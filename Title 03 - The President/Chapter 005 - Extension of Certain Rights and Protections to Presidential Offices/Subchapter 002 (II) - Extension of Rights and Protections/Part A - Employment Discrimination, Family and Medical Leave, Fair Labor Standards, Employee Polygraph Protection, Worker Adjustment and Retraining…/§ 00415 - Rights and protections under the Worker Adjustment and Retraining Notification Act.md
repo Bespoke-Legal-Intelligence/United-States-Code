@@ -14,7 +14,7 @@ Exception.—
 
 &emsp;&emsp;(A)
 
-In general.—In the event that a President (hereinafter in this paragraph referred to as the “previous President”) is not elected to a successive term in office as a result of the election of a new President—
+In general.—In the event that a President (hereinafter in this paragraph referred to as the "previous President") is not elected to a successive term in office as a result of the election of a new President—
 
 &emsp;&emsp;&emsp;(i) no notice or waiting period shall be required under paragraph (1) with respect to the separation of any individual described in subparagraph (B), if such separation occurs pursuant to a closure or mass layoff ordered after the term of the new President commences; and
 
@@ -42,7 +42,7 @@ In general.—The President, or the designee of the President, shall issue regul
 
 &emsp;(2)
 
-Agency regulations.—The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good causeshown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+Agency regulations.—The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 (d)
 

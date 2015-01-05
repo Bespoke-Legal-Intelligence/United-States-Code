@@ -1,0 +1,6 @@
+### §15325. Transferred
+
+#### Codification
+
+Section 15325 was editorially reclassified as section 20925 of Title 52, Voting and Elections.
+

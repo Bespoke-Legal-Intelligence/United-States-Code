@@ -172,11 +172,11 @@ Form for discontinuation.—A request under subparagraph (B) to discontinue part
 
 &emsp;&emsp;(D)
 
-Withdrawal of request for discontinuation.—The Secretary concerned shall furnish promptly to each person whosubmits a request under subparagraph (B) to discontinue participation in the Plan a written statement of the advantages and disadvantages of participating in the Plan and the possible disadvantages of discontinuing participation. A person may withdraw the request to discontinue participation if withdrawn within 30 days after having been submitted to the Secretary concerned.
+Withdrawal of request for discontinuation.—The Secretary concerned shall furnish promptly to each person who submits a request under subparagraph (B) to discontinue participation in the Plan a written statement of the advantages and disadvantages of participating in the Plan and the possible disadvantages of discontinuing participation. A person may withdraw the request to discontinue participation if withdrawn within 30 days after having been submitted to the Secretary concerned.
 
 &emsp;&emsp;(E)
 
-Consequences of discontinuation.—Once participation is discontinued, benefits may not be paid in conjunction with the earlier participation in the Plan and premiums paid may not be refunded. Participation in the Plan may not later be resumed except through a qualified election under paragraph (5) of subsection (a) or under subparagraph (G) of this paragraph.
+Consequences of discontinuation.—Once participation is discontinued, benefits may not be paid in conjunction with the earlier participation in the Plan and premiums paid may not be refunded. Participation in the Plan may not later be resumed exceptthrough a qualified election under paragraph (5) of subsection (a) or under subparagraph (G) of this paragraph.
 
 &emsp;&emsp;(F)
 
@@ -278,7 +278,7 @@ Effective date of election.—An election under this paragraph is effective as o
 
 &emsp;(4)
 
-Former spouse and child coverage.—A person who elects to provide an annuity for a former spouse under paragraph (2) or (3) may, at the time of the election, elect to provide coverage under that annuity for both the former spouse and a dependent child, if the child resulted from the person's marriage to that former spouse.
+Former spouse and child coverage.—A person who elects to provide an annuity for aformer spouse under paragraph (2) or (3) may, at the time of the election, elect to provide coverage under that annuity for both the former spouse and a dependent child, if the child resulted from the person's marriage to that former spouse.
 
 &emsp;(5)
 
@@ -287,6 +287,10 @@ Disclosure of whether election of former spouse coverage is required.—A person
 &emsp;&emsp;(A) whether the election is being made pursuant to the requirements of a court order; or
 
 &emsp;&emsp;(B) whether the election is being made pursuant to a written agreement previously entered into voluntarily by such person as a part of, or incident to, a proceeding of divorce, dissolution, or annulment and (if so) whether such voluntary written agreement has been incorporated in, or ratified or approved by, a court order.
+
+&emsp;(6)
+
+Special needs trusts for sole benefit of certain dependent children.—A person who has established a supplemental or special needs trust under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act (42 U.S.C. 1396p(d)(4)) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act (42 U.S.C. 1382c(a)(3)) who is incapable of self-support because of mental or physical incapacity may elect to provide an annuity to that supplemental or special needs trust.
 
 (c)
 
@@ -316,11 +320,11 @@ Dependent children.—
 
 &emsp;&emsp;(A)
 
-Annuity when no eligible surviving spouse.—In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member's dependent children under section 1450(a)(2) of this title as applicable.
+Annuity when no eligible surviving spouse.—In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member's dependent children under subsection (a)(2) or (a)(4) of section 1450 of this title as applicable.
 
 &emsp;&emsp;(B)
 
-Optional annuity when there is an eligible surviving spouse.—In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member's dependent children under section 1450(a)(3) of this title, if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
+Optional annuity when there is an eligible surviving spouse.—In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member's dependent children under subsection (a)(3) or (a)(4) of section 1450 of this title, if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
 
 &emsp;(3)
 
@@ -376,7 +380,7 @@ Surviving spouse annuity.—The Secretary concerned shall pay an annuity under t
 
 &emsp;(2)
 
-Dependent child annuity.—The Secretary concerned shall pay an annuity under this subchapter to the dependent child of a person described in paragraph (1) if there is no surviving spouse or if the person's surviving spouse subsequently dies.
+Dependent child annuity.—The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to section 1450(a)(4) of this title, of a person described in paragraph (1) if there is no surviving spouse or if the person's surviving spouse subsequently dies.
 
 &emsp;(3)
 
@@ -424,9 +428,17 @@ Manner of making election.—An election under paragraph (1) shall be made in su
 
 Disposition of payments.—A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112 Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290; Pub. L. 107–107, div. A, title VI, §642(a), (c)(1), Dec. 28, 2001, 115 Stat. 1151, 1152; Pub. L. 108–136, div. A, title VI, §§644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1517–1519; Pub. L. 108–375, div. A, title X, §1084(d)(10), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–364, div. A, title VI, §§643(a), 644(a), title X, §1071(a)(8), Oct. 17, 2006, 120 Stat. 2260, 2261, 2398.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112 Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290; Pub. L. 107–107, div. A, title VI, §642(a), (c)(1), Dec. 28, 2001, 115 Stat. 1151, 1152; Pub. L. 108–136, div. A, title VI, §§644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1517–1519; Pub. L. 108–375, div. A, title X,§1084(d)(10), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–364, div. A, title VI, §§643(a), 644(a), title X, §1071(a)(8), Oct. 17, 2006, 120 Stat. 2260, 2261, 2398; Pub. L. 113–291, div. A, title VI, §624(a)(2)(B), Dec. 19, 2014, 128 Stat. 3403.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(6). Pub. L. 113–291, §624(a)(2)(B)(i), added par. (6).
+
+Subsec. (d)(2)(A). Pub. L. 113–291, §624(a)(2)(B)(ii)(I), substituted "subsection (a)(2) or (a)(4) of section 1450" for "section 1450(a)(2)".
+
+Subsec. (d)(2)(B). Pub. L. 113–291, §624(a)(2)(B)(ii)(II), substituted "subsection (a)(3) or (a)(4) of section 1450" for "section 1450(a)(3)".
+
+Subsec. (f)(2). Pub. L. 113–291, §624(a)(2)(B)(iii), inserted ", or to a special needs trust pursuant to section 1450(a)(4) of this title," after "dependent child".
 
 <b>2006</b>—Subsec. (b)(1)(E). Pub. L. 109–364, §643(a)(1), inserted "or under subparagraph (G) of this paragraph" before period at end.
 
@@ -522,7 +534,7 @@ Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retaine
 
 Subsec. (a)(3). Pub. L. 99–145, §721(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
-"(A) If a person who is eligible under paragraph (1)(A) to participate in the Plan and who is married elects not to participate in the Plan at the maximum level, orelects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that election.
+"(A) If a person who is eligible under paragraph (1)(A) to participate in the Plan and who is married elects not to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that election.
 
 "(B) If a person who is eligible under paragraph (1)(B) to participate in the Plan and who is married does not elect to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that action."
 
@@ -690,7 +702,7 @@ Election for Current SBP Participants To Participate in Supplemental SBP.—
 
 &emsp;"(1)
 
-Election.—A person who is eligible to make an election under this paragraph may elect during theopen enrollment period to participate in the Supplemental Survivor Benefit Plan.
+Election.—A person who is eligible to make an election under this paragraph may elect during the open enrollment period to participate in the Supplemental Survivor Benefit Plan.
 
 &emsp;"(2)
 
@@ -782,7 +794,7 @@ Amount of Annuity.—(1) An annuity under this section shall be paid at the rate
 
 &emsp;"(C) Section 4 of Public Law 92–425 (10 U.S.C. 1448 note).
 
-"(3) Whenever after May 1, 2002, retired or retainer pay is increased under section 1401a(b)(2) of title 10,United States Code, each annuity that is payable under this section shall be increased at the same time and by the same total percent.
+"(3) Whenever after May 1, 2002, retired or retainer pay is increased under section 1401a(b)(2) of title 10, United States Code, each annuity that is payable under this section shall be increased at the same time and by the same total percent.
 
 "(c)
 
@@ -922,7 +934,7 @@ Pub. L. 99–145, title VII, §723(d), Nov. 8, 1985, 99 Stat. 677, provided that
 
 #### Open Enrollment Period for Survivor Benefit Plan
 
-Pub. L. 97–35, title II, §212, Aug. 13, 1981, 95 Stat. 383, as amended by Pub. L. 97–252, title XI, §1119, Sept. 8, 1982, 96 Stat. 753, provided that certain members or former members of the uniformed services who, on Aug. 13, 1981, were not participants in the Survivor Benefit Plan established under this subchapter or were not participants in the Plan at the maximum level, could elect to participate in the Plan or to participate in the Plan at a higher level, during an open enrollment period beginning Oct. 1, 1981, and ending Sept. 30, 1982, for members and former members entitled to retired or retainer pay on Aug. 13, 1981, or beginning on Oct. 1, 1982, and ending on Sept. 30, 1983, for members or former members who on Aug. 13, 1981, would have been entitled to retired pay, but for the fact they were under 60 years of age on that date.
+Pub. L. 97–35, title II, §212, Aug. 13, 1981, 95 Stat. 383, as amended by Pub. L. 97–252, title XI, §1119, Sept. 8, 1982, 96 Stat. 753, provided that certain members or former members of the uniformed services who, on Aug. 13, 1981, were not participants in the Survivor Benefit Plan established under this subchapter or were not participants in the Plan at the maximum level, could elect to participate in the Plan or to participate in the Plan at a higher level, during an open enrollment period beginning Oct. 1, 1981, and ending Sept. 30, 1982, for members and former members entitled to retired or retainerpay on Aug. 13, 1981, or beginning on Oct. 1, 1982, and ending on Sept. 30, 1983, for members or former members who on Aug. 13, 1981, would have been entitled to retired pay, but for the fact they were under 60 years of age on that date.
 
 #### Surviving Spouse; Annuity Payment and Reduction Provisions; Election of Annuity; Definitions; Effective Date
 
@@ -992,7 +1004,7 @@ Pub. L. 92–425, §3, Sept. 21, 1972, 86 Stat. 711, as amended by Pub. L. 93–
 
 #### Income Supplement for Certain Widows of Retired Members of the Uniformed Forces; Special Annuity for Widows of Commissioned Personnel of the Public Health Service and National Oceanic and Atmospheric Administration in Lieu of VA Pension
 
-Pub. L. 92–425, §4, Sept. 21, 1972, 86 Stat. 712, as amended by Pub. L. 94–496, §2, Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §209, Sept. 30, 1978, 92 Stat. 848; Pub. L. 96–402, §6, Oct. 9, 1980, 94 Stat. 1708; Pub. L. 98–94, title IX, §942(a), Sept. 24, 1983, 97 Stat. 654; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 103–337, div. A, title X, §1070(d)(4), Oct. 5, 1994,108 Stat. 2858; Pub. L. 104–201, div. A, title VI, §638(a)–(c), Sept. 23, 1996, 110 Stat. 2581; Pub. L. 105–85, div. A, title VI, §645(b), Nov. 18, 1997, 111 Stat. 1801, provided that:
+Pub. L. 92–425, §4, Sept. 21, 1972, 86 Stat. 712, as amended by Pub. L. 94–496, §2, Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §209, Sept. 30, 1978, 92 Stat. 848; Pub. L. 96–402, §6, Oct. 9, 1980, 94 Stat. 1708; Pub. L. 98–94, title IX, §942(a), Sept. 24, 1983, 97 Stat. 654; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 103–337, div. A, title X, §1070(d)(4), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 104–201, div. A, title VI, §638(a)–(c), Sept. 23, 1996, 110 Stat. 2581; Pub. L. 105–85, div. A, title VI, §645(b), Nov. 18, 1997, 111 Stat. 1801, provided that:
 
 "(a) A person—
 

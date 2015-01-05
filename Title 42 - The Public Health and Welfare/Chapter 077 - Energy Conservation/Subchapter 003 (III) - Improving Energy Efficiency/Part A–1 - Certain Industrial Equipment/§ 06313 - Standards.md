@@ -72,7 +72,7 @@ In general.—
 
 &emsp;&emsp;(i)
 
-Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of thestandard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
+Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of the standard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
 
 &emsp;&emsp;(ii)
 
@@ -174,13 +174,9 @@ Application to products.—Notwithstanding subparagraph (D), an amendment prescr
 
 &emsp;&emsp;(v)
 
-Reports.—The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph.
+Consideration of prices and operating patterns.—If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less <sup>1</sup> 65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
 
-&emsp;&emsp;(vi) <sup>1</sup>
-
-Consideration of prices and operating patterns.—If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less <sup>2</sup> 65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
-
-&emsp;&emsp;(vi) <sup>1</sup> For any covered equipment as to which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product as of December 18, 2012, the first notice required under clause (i) shall be published by December 31, 2013.
+&emsp;&emsp;(vi) For any covered equipment as to which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product as of December 18, 2012, the first notice required under clause (i) shall be published by December 31, 2013.
 
 (D) A standard amended by the Secretary under this paragraph shall become effective for products manufactured—
 
@@ -202,7 +198,7 @@ Consideration of prices and operating patterns.—If the Secretary is considerin
 
 &emsp;&emsp;(i) 11.0 for equipment with no heating or electric resistance heating; and
 
-&emsp;&emsp;(ii) 10.8 for equipment with all other heating system types that are integrated into the equipment (at a standard rating of 95 degrees F db).
+&emsp;&emsp;(ii) 10.8 for equipment with all other heating system types that are integrated intothe equipment (at a standard rating of 95 degrees F db).
 
 &emsp;(C) For equipment manufactured on or after January 1, 2010, the minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 3.3 (at a high temperature rating of 47 degrees F db).
 
@@ -278,7 +274,7 @@ Review.—Not later than 3 years after December 19, 2007, the Secretary shall re
 
 #### (b) Electric motors
 
-(1) Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2),<sup>3</sup> each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992, or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992, shall have a nominal full load efficiency of not less than the following:
+(1) Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2),<sup>2</sup> each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992, or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992, shall have a nominal full load efficiency of not less than the following:
 
 &nbsp;
 
@@ -339,7 +335,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
 
-(4)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
+(4)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such ruleshall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
 
 (B) The Secretary shall publish a final rule no later than 24 months after the effective date of the previous final rule to determine whether to amend the standards in effect for such product. Any such amendment shall apply to electric motors manufactured after a date which is five years after—
 
@@ -575,7 +571,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 &emsp;Subparagraph (C) of paragraph (1) shall not apply to a walk-in cooler or walk-in freezer component if the component manufacturer has demonstrated to the satisfaction of the Secretary that the component reduces energy consumption at least as much as if such subparagraph were to apply. In support of any demonstration under this paragraph, a manufacturer shall provide to the Secretary all data and technical information necessary to fully evaluate its application.
 
-(Pub. L. 94–163, title III, §342, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3269; amended Pub. L. 102–486, title I, §122(d), Oct. 24, 1992, 106 Stat. 2810; Pub. L. 109–58, title I, §136(b)–(e), Aug. 8, 2005, 119 Stat. 636–641; Pub. L. 110–140, title III, §§305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, 121 Stat. 1554, 1559, 1564, 1568, 1570; Pub. L. 112–210, §§2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, 126 Stat. 1514, 1516, 1518, 1522, 1524.)
+(Pub. L. 94–163, title III, §342, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3269; amended Pub. L. 102–486, title I, §122(d), Oct. 24, 1992, 106 Stat. 2810; Pub. L. 109–58, title I, §136(b)–(e), Aug. 8, 2005, 119 Stat. 636–641; Pub. L. 110–140, title III, §§305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, 121 Stat. 1554, 1559, 1564, 1568, 1570; Pub. L. 112–210, §§2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, 126 Stat. 1514, 1516, 1518, 1522, 1524; Pub. L. 113–188, title VI, §601(c), Nov. 26, 2014, 128 Stat. 2019.)
 
 #### References in Text
 
@@ -583,9 +579,11 @@ Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(6)(C)(v), (vi). Pub. L. 113–188, which directed amendment of subsec. (a)(6)(C) by striking cl. (v) and redesignating the cl. (vi) "as added by section 310(a)(4) of Public Law 112–110" as (v), was executed by striking cl. (v) and redesignating as (v) the cl. (vi) (relating to consideration of prices and operating patterns) which had been redesignated by section 10(a)(4) of Pub. L. 112–210, to reflect the probable intent of Congress. Prior to amendment, text of par. (v) read as follows: "The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph."
+
 <b>2012</b>—Subsec. (a)(6)(A)(i). Pub. L. 112–210, §5(b)(1), inserted "the standard levels or design requirements applicable under that standard to" before "any small commercial".
 
-Subsec. (a)(6)(B). Pub. L. 112–210, §10(a)(3)(A)(i)–(iii), designated existing provisions as cl. (i), inserted cl. (i) heading, and substituted "subparagraph (A)(ii)(II)" for"clause (ii)(II)" and "subparagraph (A)(i)" for "clause (i)".
+Subsec. (a)(6)(B). Pub. L. 112–210, §10(a)(3)(A)(i)–(iii), designated existing provisions as cl. (i), inserted cl. (i) heading, and substituted "subparagraph (A)(ii)(II)" for "clause (ii)(II)" and "subparagraph (A)(i)" for "clause (i)".
 
 Subsec. (a)(6)(B)(ii). Pub. L. 112–210, §10(a)(3)(A)(iv), added cl. (ii).
 
@@ -657,9 +655,7 @@ Pub. L. 110–140, title III, §313(b)(2), Dec. 19, 2007, 121 Stat. 1569, provid
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. There are two cls. designated (vi).</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "than".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "than".</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

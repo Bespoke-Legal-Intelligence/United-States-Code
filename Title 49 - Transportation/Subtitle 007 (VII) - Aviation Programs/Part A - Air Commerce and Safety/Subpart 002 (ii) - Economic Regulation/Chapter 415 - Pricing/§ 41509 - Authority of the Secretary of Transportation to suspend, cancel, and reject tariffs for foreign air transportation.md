@@ -30,7 +30,7 @@ Suspension.—(1)(A) Pending a decision under subsection (a)(1) of this section,
 
 (B) The Secretary may suspend a tariff of a foreign air carrier and the use of a price, classification, rule, or practice when the suspension is in the public interest.
 
-(2) A suspension becomes effective when the Secretary files with the tariff and delivers tothe air carrier or foreign air carrier affected by the suspension a written statement of the reasons for the suspension. To suspend a tariff, reasonable notice of the suspension must be given to the affected carrier.
+(2) A suspension becomes effective when the Secretary files with the tariff and delivers to the air carrier or foreign air carrier affected by the suspension a written statement of the reasons for the suspension. To suspend a tariff, reasonable notice of the suspension must be given to the affected carrier.
 
 (3) The suspension of a newly filed tariff may be for periods totaling not more than 365 days after the date the tariff otherwise would go into effect. The suspension of an existing tariff may be for periods totaling not more than 365 days after the effective date of the suspension. The Secretary may rescind at any time the suspension of a newly filed tariff and allow the price, classification, rule, or practice to go into effect.
 
@@ -74,13 +74,13 @@ Standard Foreign Fare Level.—(1)(A) In this subsection, "standard foreign fare
 
 (3) Paragraph (2) of this subsection does not apply to a proposed fare that is not more than—
 
-&emsp;(A) 5 percent higher than the standard foreign fare level when the Secretary decides that the proposed fare may be unreasonably discriminatory or that suspension of the fare is in the public interest because of an unreasonable regulatory action by the governmentof a foreign country that is related to a fare proposal of an air carrier; or
+&emsp;(A) 5 percent higher than the standard foreign fare level when the Secretary decides that the proposed fare may be unreasonably discriminatory or that suspension of the fare is in the public interest because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier; or
 
 &emsp;(B) 50 percent lower than the standard foreign fare level when the Secretary decides that the proposed fare may be predatory or discriminatory or that suspension of the fare is required because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier.
 
 (f)
 
-Submission of Orders to President.—The Secretary shall submit to the President an order made under this section suspending, canceling, or rejecting a price for foreign air transportation, and an order rescinding the effectiveness of such an order, before publishing the order. Not later than 10 days after its submission, the President may disapprove the order on finding disapproval is necessary for United States foreign policy or national defense reasons.
+Submission of Orders to President.—The Secretary shall submit to the President an order made under this section suspending, canceling,or rejecting a price for foreign air transportation, and an order rescinding the effectiveness of such an order, before publishing the order. Not later than 10 days after its submission, the President may disapprove the order on finding disapproval is necessary for United States foreign policy or national defense reasons.
 
 (g)
 
@@ -224,7 +224,7 @@ In subsection (b)(2), the text of 49 App.:1373(c)(3) is omitted as obsolete. Ref
 
 In subsection (b)(3), the words "for periods totaling not more than 365 days after" are substituted for "a period or periods not exceeding 365 days in the aggregate beyond the time when" and "a period or periods not exceeding 365 days in the aggregate from" to eliminate unnecessary words.
 
-In subsection (c)(1), the words "a tariff is suspended pending the outcome of a proceeding under subsection (a) of this section" are added for clarity. The words "and the Secretary does not take final action in theproceeding during the suspension period" are substituted for "the proceeding has not been concluded and an order made within the period of suspension or suspensions" and "the proceeding has not been concluded within the period of suspension or suspensions" to eliminate unnecessary words. The words "or if the Board shall otherwise so direct" are omitted as surplus because under subsection (b)(3) of this section the Secretary may rescind a suspension at any time.
+In subsection (c)(1), the words "a tariff is suspended pending the outcome of a proceeding under subsection (a) of this section" are added for clarity. The words "and the Secretary does not take final action in the proceeding during the suspension period" are substituted for "the proceeding has not been concluded and an order made within the period of suspension or suspensions" and "the proceeding has not been concluded within the period of suspension or suspensions" to eliminate unnecessary words. The words "or if the Board shall otherwise so direct" are omitted as surplus because under subsection (b)(3) of this section the Secretary may rescind a suspension at any time.
 
 In subsection (c)(2)(A), before clause (i), the words "or suspensions" are omitted because of 1:1. In clause (i), the words "corresponding seasonal" are added for clarity.
 

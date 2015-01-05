@@ -208,7 +208,7 @@ In subsection (i)(2), the words "Notwithstanding any other provision of this cha
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted "Organization and Mission" for "Organization" in heading and inserted at end of text "The mission of the MaritimeAdministration is to foster, promote, and develop the merchant maritime industry of the United States."
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted "Organization and Mission" for "Organization" in heading and inserted at end of text "The mission of the Maritime Administration is to foster, promote, and develop the merchant maritime industry of the United States."
 
 <b>2011</b>—Subsec. (h). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, §3508(1). See 2009 Amendment note below.
 

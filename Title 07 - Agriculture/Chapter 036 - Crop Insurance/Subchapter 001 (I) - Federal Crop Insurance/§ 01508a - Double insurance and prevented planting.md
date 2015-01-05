@@ -20,7 +20,7 @@ In this section:
 
 #### (1) Options on loss to first crop
 
-&emsp;Except as provided in subsections (d) and (e) of this section, if a first crop insured underthis subchapter in a crop year has a total or partial insurable loss, the producer of the first crop may elect one of the following options:
+&emsp;Except as provided in subsections (d) and (e), if a first crop insured under this subchapter in a crop year has a total or partial insurable loss, the producer of the first crop may elect one of the following options:
 
 #### (A) No second crop planted
 
@@ -64,7 +64,7 @@ In this section:
 
 #### (1) Options on loss to first crop
 
-&emsp;Except as provided in subsections (d) and (e) of this section, if a first crop insured under this subchapter in a crop year is prevented from being planted, the producer of the first crop may elect one of the following options:
+&emsp;Except as provided in subsections (d) and (e), if a first crop insured under this subchapter in a crop year is prevented from being planted, the producer of the first crop may elect one of the following options:
 
 #### (A) No second crop planted
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (3) Effect on actual production history
 
-&emsp;Except in the case of double cropping described in subsection (d) of this section, if a producer make an election under paragraph (1)(B) for a crop year, the Corporation shall assign the producer a recorded yield for that crop year for the first crop equal to 60 percent of the producer's actual production history for the agricultural commodity involved, for purposes of determining the producer's actual production history for subsequent crop years.
+&emsp;Except in the case of double cropping described in subsection (d), if a producer make an election under paragraph (1)(B) for a crop year, the Corporation shall assign the producer a recorded yield for that crop year for the first crop equal to 60 percent of the producer's actual production history for the agricultural commodity involved, for purposes of determining the producer's actual production history for subsequent crop years.
 
 #### (4) Area conditions required for payment
 
@@ -112,7 +112,7 @@ A producer may receive full indemnity payments on two or more crops planted for 
 
 #### (e) Subsequent crops
 
-Except in the case of double cropping described in subsection (d) of this section, if a producer elects to plant a crop (other than a replanted crop) subsequent to a second crop on the same acreage as the first crop and second crop for harvest in the same crop year, the producer shall not be eligible for insurance under this subchapter, or noninsured crop assistance under section 7333 of this title, for the subsequent crop.
+Except in the case of double cropping described in subsection (d), if a producer elects to plant a crop (other than a replanted crop) subsequent to a second crop on the same acreage as the first crop and second crop for harvest in the same crop year, the producer shall not be eligible for insurance under this subchapter, or noninsured crop assistance under section 7333 of this title, for the subsequent crop.
 
 (Feb. 16, 1938, ch. 30, title V, §508A, as added Pub. L. 106–224, title I, §108, June 20, 2000, 114 Stat. 368; amended Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
@@ -130,7 +130,7 @@ A prior section 1508a, act Feb. 16, 1938, ch. 30, title V, §508A, as added Aug.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date
 

@@ -4,7 +4,7 @@
 
 #### (1) Authorities of Secretary
 
-&emsp;The Secretary of Health and Human Services (hereinafter in this subsection referred to as the Secretary), in consultation with the Administrator, shall establish and support a basic research and training program (throughgrants, cooperative agreements, and contracts) consisting of the following:
+&emsp;The Secretary of Health and Human Services (hereinafter in this subsection referred to as the Secretary), in consultation with the Administrator, shall establish and support a basic research and training program (through grants, cooperative agreements, and contracts) consisting of the following:
 
 &emsp;&emsp;(A) Basic research (including epidemiologic and ecologic studies) which may include each of the following:
 
@@ -114,7 +114,7 @@
 
 #### (F) Demonstration plan
 
-&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the application for the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
+&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the applicationfor the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
 
 #### (G) Supervision and testing
 
@@ -326,7 +326,7 @@ Conference.—Not later than 90 days after the date of enactment of this Act \[D
 
 "(b)
 
-Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of theconference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
+Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of the conference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
 
 #### "SEC. 6. RESIDUAL EFFECTS STUDY.
 

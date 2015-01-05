@@ -38,7 +38,7 @@ Security Programs.—(1) The Under Secretary shall prescribe regulations under s
 
 &emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Under Secretary on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
 
-&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
+&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliancewith the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
 
 (B) If the Under Secretary approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
 
@@ -106,7 +106,7 @@ Improved Airport Perimeter Access Security.—
 
 &emsp;(1)
 
-In general.—The Under Secretary, in consultation with the airport operator and law enforcement authorities, may order the deployment of such personnel at any secure area of the airport as necessary to counter the riskof criminal violence, the risk of aircraft piracy at the airport, the risk to air carrier aircraft operations at the airport, or to meet national security concerns.
+In general.—The Under Secretary, in consultation with the airport operator and law enforcement authorities, may order the deployment of such personnel at any secure area of the airport as necessary to counter the risk of criminal violence, the risk of aircraft piracy at the airport, the risk to air carrier aircraft operations at the airport, or to meet national security concerns.
 
 &emsp;(2)
 
@@ -176,7 +176,7 @@ Program requirements.—The program shall—
 
 &emsp;&emsp;&emsp;(iv) apply to all Federal, State, local, tribal, and territorial government law enforcement agencies; and
 
-&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, or territorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
+&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, orterritorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
 
 &emsp;&emsp;(C)
 
@@ -262,7 +262,7 @@ In general.—The Under Secretary of Transportation for Security shall recommend
 
 &emsp;&emsp;(E) specifically target the elimination of the "piggy-backing" phenomenon, where another person follows an authorized person through the access point.
 
-> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shallconduct a review of reductions in unauthorized access at these airports.
+> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currentlyavailable technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
 
 &emsp;(2)
 
@@ -508,7 +508,7 @@ The date of enactment of this paragraph, referred to in subsec. (i)(3), is the d
 
 The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (j)(1), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
-The date of enactment of this Act, referred to in subsec. (j)(1), probably means the date of enactment ofPub. L. 107–71, which enacted subsec. (j), originally (i), of this section and which was approved Nov. 19, 2001.
+The date of enactment of this Act, referred to in subsec. (j)(1), probably means the date of enactment of Pub. L. 107–71, which enacted subsec. (j), originally (i), of this section and which was approved Nov. 19, 2001.
 
 Section 607 of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (j)(2)(F), is section 607 of Pub. L. 108–176, which is set out as a note below.
 
@@ -606,11 +606,11 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland SecurityReorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Cabin Flight Crew Participation in Known Crewmember Pilot Program
 
-Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 349, provided in part: "That the Administrator of the Transportation Security Administration shall, within 270 days of the date of enactment of this Act \[Mar. 26,2013\], establish procedures allowing members of cabin flight crews of air carriers to participate in the Known Crewmember pilot program, unless the Administrator determines that meeting the requirement within this timeline is not practicable and informs the Committees on Appropriations of the Senate and House of Representatives of the basis for that determination and the new timeline for implementing the requirement".
+Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 349, provided in part: "That the Administrator of the Transportation Security Administration shall, within 270 days of the date of enactment of this Act \[Mar. 26, 2013\], establish procedures allowing members of cabin flight crews of air carriers to participate in the Known Crewmember pilot program, unless the Administrator determines that meeting the requirement within this timeline is not practicable and informs the Committees on Appropriations of the Senate and House of Representatives of the basis for that determination and the new timeline for implementing the requirement".
 
 #### Strategic Plan To Test and Implement Advanced Passenger Prescreening System
 
@@ -810,7 +810,7 @@ Certification by operator.—If the operator of an airport described in paragrap
 
 &emsp;"(B)
 
-Countermand period.—The time period within which the Secretary may notify an airport operator, after receiving a certification under subparagraph (A), that a restriction must be continued in order to ensure public safety at the airport is—
+Countermand period.—The time period within which the Secretary may notify an airport operator,after receiving a certification under subparagraph (A), that a restriction must be continued in order to ensure public safety at the airport is—
 
 &emsp;&emsp;"(i) 15 days for a nonhub airport (as defined in section 41714(h) of title 49, United States Code);
 
@@ -920,7 +920,7 @@ Training and background of law enforcement officers.—
 
 &emsp;&emsp;"(A)
 
-In general.—Under the program, to qualify to serve as a Deputy United States Marshal underthe program, a State or local law enforcement officer shall—
+In general.—Under the program, to qualify to serve as a Deputy United States Marshal under the program, a State or local law enforcement officer shall—
 
 &emsp;&emsp;&emsp;"(i) meet the minimum background and training requirements for a law enforcement officer under part 107 of title 14, Code of Federal Regulations (or equivalent requirements established by the Attorney General); and
 

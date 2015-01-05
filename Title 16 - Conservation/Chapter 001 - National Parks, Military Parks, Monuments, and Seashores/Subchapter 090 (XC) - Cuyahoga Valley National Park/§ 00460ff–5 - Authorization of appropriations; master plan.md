@@ -44,5 +44,5 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Expenditure of Funds To Commence October 1, 1977
 
-Pub. L. 94–578, title III, §323(c), Oct. 21, 1976, 90 Stat. 2742, provided that: "No funds authorized by this section \[amending sections 460ff–1(a) and 460ff–5 of this title\] in excess of those sums previously authorized by the Act of December 27, 1974, \[this section as originally enacted\], shall be available for expenditure before October 1, 1977."
+Pub. L. 94–578, title III, §323(c), Oct. 21, 1976, 90 Stat. 2742, provided that: "No funds authorized by this section \[amending sections 460ff–1(a) and 460ff–5 of this title\] in excess of those sums previously authorized by the Act of December 27, 1974, \[this section as originallyenacted\], shall be available for expenditure before October 1, 1977."
 

@@ -12,7 +12,7 @@ Finality.—Except when procured by fraud, a correction or revocation under this
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: "The Secretaryconcerned may, under regulations prescribed under section 1455 of this title, correct or revoke any election under this subchapter when he considers it necessary to correct an administrative error. Except when procured by fraud, a correction or revocation under this section is final and conclusive on all officers of the United States."
+<b>1996</b>—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: "The Secretary concerned may, under regulations prescribed under section 1455 of this title, correct or revoke any election under this subchapter when he considers it necessary to correct an administrative error. Except when procured by fraud, a correction or revocation under this section is final and conclusive on all officers of the United States."
 
 <b>1989</b>—Pub. L. 101–189 substituted "errors" for "deficiencies" in section catchline.
 

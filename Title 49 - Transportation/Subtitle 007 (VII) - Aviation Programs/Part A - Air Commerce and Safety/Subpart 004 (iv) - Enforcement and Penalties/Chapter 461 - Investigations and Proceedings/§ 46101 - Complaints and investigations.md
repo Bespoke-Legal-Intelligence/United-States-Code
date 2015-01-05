@@ -16,7 +16,7 @@ General.—(1) A person may file a complaint in writing with the Secretary of Tr
 
 (b)
 
-Complaints Against Members of Armed Forces.—The Secretary of Transportation, Under Secretary, or Administrator shall refer a complaint against a member of the armed forces of the United States performing official duties to the Secretary of the department concerned for action. Not later than 90 days after receivingthe complaint, the Secretary of that department shall inform the Secretary of Transportation, Under Secretary, or Administrator of the action taken on the complaint, including any corrective or disciplinary action taken.
+Complaints Against Members of Armed Forces.—The Secretary of Transportation, Under Secretary, or Administrator shall refer a complaint against a member of the armed forces of the United States performing official duties to the Secretary of the department concerned for action. Not later than 90 days after receiving the complaint, the Secretary of that department shall inform the Secretary of Transportation, Under Secretary, or Administrator of the action taken on the complaint, including any corrective or disciplinary action taken.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1226; Pub. L. 107–71, title I, §140(b)(1)–(3), Nov. 19, 2001, 115 Stat. 641.)
 

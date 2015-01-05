@@ -22,13 +22,13 @@ The President is authorized to promote bilateral and multilateral nonproliferati
 
 #### (b) Funding priorities
 
-Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a) of this section.
+Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a).
 
 #### (c) Use of security assistance funds
 
 #### (1) Authorization
 
-&emsp;In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a) of this section, the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, up to $100,000,000 of security assistance funds for fiscal year 1993.
+&emsp;In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, up to $100,000,000 of security assistance funds for fiscal year 1993.
 
 #### (2) "Security assistance funds" defined
 
@@ -36,7 +36,7 @@ Priority in carrying out this section shall be given to the activities described
 
 #### (3) Exemption from certain restrictions
 
-&emsp;Section 531(e) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346(e)\], and any provision that corresponds to section 510 of the ForeignOperations, Export Financing, and Related Programs Appropriations Act, 1991 (relating to the prohibition on financing exports of nuclear equipment, fuel, and technology), shall not apply with respect to funds used pursuant to this subsection.
+&emsp;Section 531(e) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346(e)\], and any provision that corresponds to section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (relating to the prohibition on financing exports of nuclear equipment, fuel, and technology), shall not apply with respect to funds used pursuant to this subsection.
 
 (Pub. L. 102–511, title V, §504, Oct. 24, 1992, 106 Stat. 3339.)
 

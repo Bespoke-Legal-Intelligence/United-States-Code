@@ -34,7 +34,7 @@ If the President recommends to the Congress the Yucca Mountain site under subsec
 
 #### (c) Status report on application
 
-Not later than 1 year after the date on which an application for a construction authorizationis submitted under subsection (b) of this section, and annually thereafter until the date on which such authorization is granted, the Commission shall submit a report to the Congress describing the proceedings undertaken through the date of such report with regard to such application, including a description of—
+Not later than 1 year after the date on which an application for a construction authorization is submitted under subsection (b) of this section, and annually thereafter until the date on which such authorization is granted, the Commission shall submit a report to the Congress describing the proceedings undertaken through the date of such report with regard to such application, including a description of—
 
 &emsp;(1) any major unresolved safety issues, and the explanation of the Secretary with respect to design and operation plans for resolving such issues;
 

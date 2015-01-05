@@ -42,7 +42,7 @@ The President shall establish and carry out programs that support the production
 
 #### (f) Consultation requirement
 
-The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e) of this section.
+The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e).
 
 #### (g) Termination of certain grants, contracts and cooperative agreements
 
@@ -106,7 +106,7 @@ The Secretary of State shall establish and implement a multi-year, multi-sectora
 
 &emsp;(5) that includes diplomatic and programmatic initiatives.
 
-(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, §1702, Jan. 2, 2013, 126 Stat. 2093; Pub. L. 113–4, title XII, §1207(a), Mar. 7, 2013, 127 Stat. 141.)
+(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, §1702, Jan. 2, 2013, 126 Stat. 2093; Pub. L. 113–4, title XII, §1207(a), Mar. 7, 2013, 127 Stat. 141.)
 
 #### Amendments
 

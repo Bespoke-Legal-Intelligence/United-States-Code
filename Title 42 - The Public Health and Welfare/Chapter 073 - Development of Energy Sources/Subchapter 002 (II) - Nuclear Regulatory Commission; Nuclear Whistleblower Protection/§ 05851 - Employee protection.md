@@ -108,7 +108,7 @@ Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 123
 
 Subsec. (b)(4). Pub. L. 109–58, §629(b), added par. (4).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–486, §2902(a), designated existing provisions as par. (1) and struck out ", including a Commission licensee, an applicant for a Commission license, or a contractor or a subcontractor of a Commission licensee or applicant," after "No employer", added subpars. (A) to (C), redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively, and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §2902(a), designated existing provisions as par. (1) and struck out ", including a Commission licensee, an applicant for aCommission license, or a contractor or a subcontractor of a Commission licensee or applicant," after "No employer", added subpars. (A) to (C), redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 102–486, §2902(b), (h)(2), substituted "180" for "thirty", "(in this section referred to as the 'Secretary')" for "(hereinafter in this subsection referred to as the 'Secretary')", and ", the Commission, and the Department of Energy" for "and the Commission".
 
@@ -120,7 +120,7 @@ Subsecs. (h) to (j). Pub. L. 102–486, §2902(e)–(g), added subsecs. (h) to (
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XXIX, §2902(i), Oct. 24, 1992, 106 Stat. 3125, provided that: "The amendments made bythis section \[amending this section\] shall apply to claims filed under section 211(b)(1) of the Energy Reorganization Act of 1974 (42 U.S.C. 5851(b)(1)) on or after the date of the enactment of this Act \[Oct. 24, 1992\]."
+Pub. L. 102–486, title XXIX, §2902(i), Oct. 24, 1992, 106 Stat. 3125, provided that: "The amendments made by this section \[amending this section\] shall apply to claims filed under section 211(b)(1) of the Energy Reorganization Act of 1974 (42 U.S.C. 5851(b)(1)) on or after the date of the enactment of this Act \[Oct. 24, 1992\]."
 
 #### Transfer of Functions
 

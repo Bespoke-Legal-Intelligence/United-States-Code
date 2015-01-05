@@ -20,7 +20,7 @@ For purposes of this section, the terms "Indian tribe" and "tribal organization"
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–193 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "For purposes of this section—
 
-&emsp;"(1) the term 'tribal organization' means the recognized governing body of any Indian tribe, or any legally established organization of Indians which iscontrolled, sanctioned, or chartered by such governing body; and
+&emsp;"(1) the term 'tribal organization' means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body; and
 
 &emsp;"(2) the term 'Indian tribe' means any tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (Public Law 92–203; 85 Stat. 688)) which (A) is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, or (B) is located on, or in proximity to, a Federal or State reservation or rancheria."
 

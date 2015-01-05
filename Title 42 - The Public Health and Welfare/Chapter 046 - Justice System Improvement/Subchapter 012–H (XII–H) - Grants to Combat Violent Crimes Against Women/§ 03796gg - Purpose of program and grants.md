@@ -8,7 +8,7 @@ The purpose of this subchapter is to assist States, State and local courts (incl
 
 Grants under this subchapter shall provide personnel, training, technical assistance, data collection and other resources for the more widespread apprehension, prosecution, and adjudication of persons committing violent crimes against women, for the protection and safety of victims, and specifically, for the purposes of—
 
-&emsp;(1) training law enforcement officers, judges, other court personnel, and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status undersubparagraphs (T) and (U) of section 1101(a)(15) of title 8;
+&emsp;(1) training law enforcement officers, judges, other court personnel, and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8;
 
 &emsp;(2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
@@ -48,7 +48,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;&emsp;(C) the development of such protocols in collaboration with State, tribal, territorial and local victim service providers and domestic violence coalitions.
 
-> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph\(13) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department of Justice, including a summary of progress in implementing such protocol;
+> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph (13) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department of Justice, including a summary of progress in implementing such protocol;
 
 &emsp;(14) developing and promoting State, local, or tribal legislation and policies that enhance best practices for responding to domestic violence, dating violence, sexual assault, and stalking;
 
@@ -62,7 +62,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(19) developing, enlarging, or strengthening programs and projects to provide services and responses targeting male and female victims of domestic violence, dating violence, sexual assault, or stalking, whose ability to access traditional services and responses is affected by their sexual orientation or gender identity, as defined in section 249(c) of title 18; and
 
-&emsp;(20) developing, enhancing, or strengthening prevention and educational programming to address domestic violence, dating violence, sexual assault, or stalking, with not more than 5 percent of the amount allocated to a State to be used for this purpose.
+&emsp;(20) developing, enhancing, or strengthening prevention and educational programming toaddress domestic violence, dating violence, sexual assault, or stalking, with not more than 5 percent of the amount allocated to a State to be used for this purpose.
 
 #### (c) State coalition grants
 
@@ -124,7 +124,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 #### (5) Multiple purpose applications
 
-&emsp;Nothing in this subsection prohibits any tribal coalition or organization described inparagraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
+&emsp;Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
 
 (Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119.)
 
@@ -144,7 +144,7 @@ A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 Subsec. (b)(1). Pub. L. 113–4, §101(2)(B), substituted "domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8" for "sexual assault, domestic violence, and dating violence".
 
-Subsec. (b)(2). Pub. L. 113–4, §101(2)(C), substituted "domestic violence, dating violence, sexual assault, and stalking" for "sexual assault and domestic violence".
+Subsec. (b)(2). Pub. L. 113–4, §101(2)(C), substituted "domestic violence, dating violence, sexual assault,and stalking" for "sexual assault and domestic violence".
 
 Subsec. (b)(3). Pub. L. 113–4, §101(2)(D), substituted "domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims" for "sexual assault and domestic violence".
 
@@ -214,7 +214,7 @@ Subsec. (c). Pub. L. 106–386, §1103(b)(1)(B), added subsec. (c).
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, seesection 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 2006 Amendment
 

@@ -18,14 +18,16 @@
 | [183\.](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md) | Department of Defense Board of Actuaries. |
 | [184\.](%C2%A7%2000184%20-%20Regional%20Centers%20for%20Security%20Studies.md) | Regional Centers for Security Studies. |
 | [185\.](%C2%A7%2000185%20-%20Financial%20Management%20Modernization%20Executive%20Committee.md) | Financial Management Modernization Executive Committee. |
-| [186\.](%C2%A7%2000186%20-%20Defense%20Business%20System%20Management%20Committee.md) | Defense Business System Management Committee. |
+| \[186. | Repealed.\] |
 | [187\.](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md) | Strategic Materials Protection Board. |
 | [188\.](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md) | Interagency Council on the Strategic Capability of the National Laboratories. |
-| [189\.](%C2%A7%2000189%20-%20Communications%20Security%20Review%20and%20Advisory%20Board.md) | Communications Security Review and Advisory Board <sup>1</sup> |
+| [189\.](%C2%A7%2000189%20-%20Communications%20Security%20Review%20and%20Advisory%20Board.md) | Communications Security Review and Advisory Board. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title IX, §901(l)(2), title X, §1071(f)(3), Dec. 19, 2014, 128 Stat. 3468, 3510, struck out item 186 "Defense Business System Management Committee" and inserted period at end of item 189.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title II, §261(b), title X, §1052(a)(2), Dec. 26, 2013, 127 Stat. 725, 861, added items 171a and 189.
 
@@ -59,8 +61,6 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 <b>1976</b>—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
 
 ---
 
@@ -82,7 +82,7 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00183 - Department of Defense Board of Actuaries](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md)
 - [&sect; 00184 - Regional Centers for Security Studies](%C2%A7%2000184%20-%20Regional%20Centers%20for%20Security%20Studies.md)
 - [&sect; 00185 - Financial Management Modernization Executive Committee](%C2%A7%2000185%20-%20Financial%20Management%20Modernization%20Executive%20Committee.md)
-- [&sect; 00186 - Defense Business System Management Committee](%C2%A7%2000186%20-%20Defense%20Business%20System%20Management%20Committee.md)
+- [&sect; 00186 - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(c), Dec. 19, 2014, 128 Stat. 3463](%C2%A7%2000186%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28c%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203463.md)
 - [&sect; 00187 - Strategic Materials Protection Board](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md)
 - [&sect; 00188 - Interagency Council on the Strategic Capability of the National Laboratories](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md)
 - [&sect; 00189 - Communications Security Review and Advisory Board](%C2%A7%2000189%20-%20Communications%20Security%20Review%20and%20Advisory%20Board.md)

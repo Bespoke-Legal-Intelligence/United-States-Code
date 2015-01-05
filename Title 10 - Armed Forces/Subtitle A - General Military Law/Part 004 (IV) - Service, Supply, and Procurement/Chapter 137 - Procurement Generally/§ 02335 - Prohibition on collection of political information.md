@@ -16,7 +16,7 @@ Scope.—The prohibition under this section applies to the procurement of commer
 
 Rule of Construction.—Nothing in this section shall be construed as—
 
-&emsp;(1) waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law; or
+&emsp;(1) waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) <sup>1</sup> or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law; or
 
 &emsp;(2) precluding the Defense Contract Audit Agency from accessing and reviewing certain information, including political information, for the purpose of identifying unallowable costs and administering cost principles established pursuant to section 2324 of this title.
 
@@ -30,13 +30,29 @@ Contractor.—The term "contractor" includes contractors, bidders, and offerors,
 
 &emsp;(2)
 
-Political information.—The term "political information" means information relating to political spending, including any payment consisting of a contribution, expenditure, independent expenditure, or disbursement for an electioneering communication that is made by the contractor, any of its partners, officers, directors or employees, or any of its affiliates or subsidiaries to a candidate or on behalf of a candidate for election for Federal office, to a political committee, to a political party, to a third party entity with the intention or reasonable expectation that it would use the payment to make independent expenditures or electioneering communications, or that is otherwise made with respect to any election for Federal office, party affiliation, and voting history. Each of the terms "contribution", "expenditure", "independent expenditure", "candidate", "election", "electioneering communication", and "Federal office" has the meaning given the term in the Federal Campaign <sup>1</sup> Act of 1971 (2 U.S.C. 431 et seq.).
+Political information.—The term "political information" means information relating to political spending, including any payment consisting of a contribution, expenditure, independent expenditure, or disbursement for an electioneering communication that is made by the contractor, any of its partners, officers, directors or employees, or any of its affiliates or subsidiaries to a candidate or on behalf of a candidate for election for Federal office, to a political committee, to a political party, to a third party entity with the intention or reasonable expectation that it would use the payment to make independent expenditures or electioneering communications, or that is otherwise made with respect to any election for Federal office, party affiliation, and voting history.
 
-(Added Pub. L. 112–81, div. A, title VIII, §823(a), Dec. 31, 2011, 125 Stat. 1502.)
+&emsp;(3)
+
+Other terms.—Each of the terms "contribution", "expenditure", "independent expenditure", "candidate", "election", "electioneering communication", and "Federal office" has the meaning given that term in the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.).<sup>1</sup>
+
+(Added Pub. L. 112–81, div. A, title VIII, §823(a), Dec. 31, 2011, 125 Stat. 1502; amended Pub. L. 113–291, div. A, title X, §1071(f)(17), Dec. 19, 2014, 128 Stat. 3511.)
 
 #### References in Text
 
-The Federal Election Campaign Act of 1971, referred to in subsecs. (c)(1) and (d)(2), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 431 of Title 2 and Tables.
+The Federal Election Campaign Act of 1971, referred to in subsecs. (c)(1) and (d)(3), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§30101 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "Election".</i>
+#### Amendments
+
+<b>2014</b>—Subsec. (d)(2). Pub. L. 113–291, §1071(f)(17)(A), redesignated last sentence as par. (3).
+
+Subsec. (d)(3). Pub. L. 113–291, §1071(f)(17)(B)(ii), (iii), substituted "that term" for "the term" and "Federal Election Campaign" for "Federal Campaign".
+
+Pub. L. 113–291, §1071(f)(17)(B)(i), which directed amendment of par. (3) by inserting "
+
+Other terms.—" before "each of", was executed by making the insertion before "Each of" to reflect the probable intent of Congress.
+
+Pub. L. 113–291, §1071(f)(17)(A), redesignated last sentence of par. (2) as (3).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

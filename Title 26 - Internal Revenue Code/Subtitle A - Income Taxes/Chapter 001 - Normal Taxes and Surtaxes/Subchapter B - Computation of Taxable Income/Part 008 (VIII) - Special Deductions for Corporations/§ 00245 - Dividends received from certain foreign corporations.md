@@ -214,7 +214,7 @@ Special rule for certain contracts.—To the extent provided in regulations pres
 
 &emsp;"(B) any contract with respect to which the taxpayer uses the completed contract method of accounting which was entered into before January 1, 1985, or
 
-&emsp;"(C) in the case of any contract other than a lease or contract described in subparagraph (A) or (B), any contract which was entered into before January 1, 1985; except that this subparagraph shall only apply to the first 3 taxable years of the FSC ending after January 1, 1985, or such later taxable years as the Secretary of the Treasury or his delegate may prescribe.
+&emsp;"(C) in the case of any contract other than a lease or contract described in subparagraph (A) or (B), any contract which was entered into before January 1, 1985; except that this subparagraph shall only apply to the first 3 taxable years of the FSC ending afterJanuary 1, 1985, or such later taxable years as the Secretary of the Treasury or his delegate may prescribe.
 
 "(3)
 

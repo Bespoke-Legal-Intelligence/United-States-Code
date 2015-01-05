@@ -52,7 +52,7 @@ For purposes of this section, the term "maximum deductible amount" means the sum
 
 #### (e) Disallowance of net operating loss carrybacks
 
-No net operating loss carryback shall be allowed to (or from) any taxable year of a personal service corporation to which an election under section 444 applies.
+No net operating loss carryback shall be allowed to (or from) any taxable year of a personalservice corporation to which an election under section 444 applies.
 
 #### (f) Other definitions and special rules
 

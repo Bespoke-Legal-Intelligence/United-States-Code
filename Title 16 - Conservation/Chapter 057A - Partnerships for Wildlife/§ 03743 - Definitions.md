@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(9) The term "wildlife conservation and appreciation project" means a project which is directed toward nonconsumptive activities or toward the conservation of those species of fish and wildlife that—
 
-&emsp;&emsp;(A) are not ordinarily taken for recreation, fur, or food; except that if under applicable State law, any fish and wildlife may be taken for recreation, fur, or food in some but not all, areas of the State, a wildlife conservation and appreciation project may be directed toward the conservation of any of such fish and wildlife within any area of the State in which such taking is not permitted;
+&emsp;&emsp;(A) are not ordinarily taken for recreation, fur, or food; except that if under applicable State law, any fish and wildlife may betaken for recreation, fur, or food in some but not all, areas of the State, a wildlife conservation and appreciation project may be directed toward the conservation of any of such fish and wildlife within any area of the State in which such taking is not permitted;
 
 &emsp;&emsp;(B) are not listed as endangered species or threatened species under the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1543); and
 
@@ -36,7 +36,7 @@ The Endangered Species Act of 1973, referred to in par. (9)(B), is Pub. L. 93–
 
 <b>1994</b>—Par. (2). Pub. L. 103–375, §6(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'designated State agency' means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency."
 
-Par. (4). Pub. L. 103–375, §6(2)(B), made technical amendment to reference to section 3744(g) of this titleto correct reference to corresponding provision of original act.
+Par. (4). Pub. L. 103–375, §6(2)(B), made technical amendment to reference to section 3744(g) of this title to correct reference to corresponding provision of original act.
 
 Par. (8). Pub. L. 103–375, §6(3)(B), added par. (8). Former par. (8) redesignated (9).
 

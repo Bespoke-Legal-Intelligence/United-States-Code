@@ -10,7 +10,7 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;&emsp;(A) shall be an allowance determined by the institution for a student without dependents residing at home with parents;
 
-&emsp;&emsp;(B) for students without dependents residing in institutionally owned or operated housing, shall be a standard allowance determined by the institution based on the amount normally assessed most of its residents for room and board;
+&emsp;&emsp;(B) for students without dependents residing in institutionally owned or operatedhousing, shall be a standard allowance determined by the institution based on the amount normally assessed most of its residents for room and board;
 
 &emsp;&emsp;(C) for students who live in housing located on a military base or for which a basic allowance is provided under section 403(b) of title 37, shall be an allowance based on the expenses reasonably incurred by such students for board but not for room; and
 

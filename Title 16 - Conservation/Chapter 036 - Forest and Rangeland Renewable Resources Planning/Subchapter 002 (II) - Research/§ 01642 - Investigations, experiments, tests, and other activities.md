@@ -28,7 +28,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(B) determine the scope of the decline in the health and productivity of domestic forest ecosystems;
 
-&emsp;(C) accelerate and expand existing research efforts (including basic forest ecosystem research) to evaluate the effects of atmosphericpollutants on forest ecosystems and their role in the decline in domestic forest health and productivity;
+&emsp;(C) accelerate and expand existing research efforts (including basic forest ecosystem research) to evaluate the effects of atmospheric pollutants on forest ecosystems and their role in the decline in domestic forest health and productivity;
 
 &emsp;(D) study the relationship between atmospheric pollution and other climatological, chemical, physical, and biological factors that may affect the health and productivity of domestic forest ecosystems;
 
@@ -140,7 +140,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (4) National standards and definitions
 
-&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation with State foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
+&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation withState foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
 
 #### (5) Protection for private property rights
 
@@ -160,7 +160,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(E) the core set of variables to be measured in each sample plot under paragraph (2) and the standard set of tables to be used in each State and national report under paragraph (3); and
 
-&emsp;&emsp;(F) the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing,global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
+&emsp;&emsp;(F) the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing, global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
 
 (Pub. L. 95–307, §3, June 30, 1978, 92 Stat. 353; Pub. L. 96–294, title II, §254, June 30, 1980, 94 Stat. 707; Pub. L. 100–521, §3, Oct. 24, 1988, 102 Stat. 2601; Pub. L. 101–624, title XII, §1241(a), Nov. 28, 1990, 104 Stat. 3544; Pub. L. 105–185, title II, §253(b), (c), June 23, 1998, 112 Stat. 559; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
 
@@ -197,6 +197,44 @@ Subsec. (a)(4). Pub. L. 96–294, §254(2), inserted applicability to producing 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of Title 7, Agriculture.
+
+#### Revision of Strategic Plan for Forest Inventory and Analysis
+
+Pub. L. 113–79, title VIII, §8301, Feb. 7, 2014, 128 Stat. 922, provided that:
+
+"(a)
+
+Revision Required.—Not later than 180 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall revise the strategic plan for forest inventory and analysis initially prepared pursuant to section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e)) to address the requirements imposed by subsection (b).
+
+"(b)
+
+Elements of Revised Strategic Plan.—In revising the strategic plan, the Secretary shall describe in detail the organization, procedures, and funding needed to achieve each of the following:
+
+&emsp;"(1) Complete the transition to a fully annualized forest inventory program and include inventory and analysis of interior Alaska.
+
+&emsp;"(2) Implement an annualized inventory of trees in urban settings, including the status and trends of trees and forests, and assessments of their ecosystem services, values, health, and risk to pests and diseases.
+
+&emsp;"(3) Report information on renewable biomass supplies and carbon stocks at the local, State, regional, and national level, including by ownership type.
+
+&emsp;"(4) Engage State foresters and other users of information from the forest inventory and analysis in reevaluating the list of core data variables collected on forest inventory and analysis plots with an emphasis on demonstrated need.
+
+&emsp;"(5) Improve the timeliness of the timber product output program and accessibility of the annualized information on that database.
+
+&emsp;"(6) Foster greater cooperation among the forest inventory and analysis program, research station leaders, and State foresters and other users of information from the forest inventory and analysis.
+
+&emsp;"(7) Promote availability of and access to non-Federal resources to improve information analysis and information management.
+
+&emsp;"(8) Collaborate with the Natural Resources Conservation Service, National Aeronautics and Space Administration, National Oceanic and Atmospheric Administration, and United States Geological Survey to integrate remote sensing, spatial analysis techniques, and other new technologies in the forest inventory and analysis program.
+
+&emsp;"(9) Understand and report on changes in land cover and use.
+
+&emsp;"(10) Expand existing programs to promote sustainable forest stewardship through increased understanding, in partnership with other Federal agencies, of the over 10,000,000 family forest owners, their demographics, and the barriers to forest stewardship.
+
+&emsp;"(11) Implement procedures to improve the statistical precision of estimates at the sub-State level.
+
+"(c)
+
+Submission of Revised Strategic Plan.—The Secretary shall submit the revised strategic plan to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate."
 
 #### Southern Forest Regeneration Program
 

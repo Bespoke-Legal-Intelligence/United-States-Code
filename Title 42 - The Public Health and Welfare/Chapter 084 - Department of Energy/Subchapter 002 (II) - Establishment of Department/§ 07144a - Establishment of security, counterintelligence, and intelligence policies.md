@@ -14,7 +14,7 @@ The Secretary shall be responsible for developing and promulgating the security,
 
 #### (c) Budget justification materials
 
-In the budget justification materials submitted to Congress in support of each budget submitted by the President to Congress under title 31, the amounts requested for the Department for intelligence functions and the amounts requested for the Department for counterintelligence functions shall each be specified in appropriately classified individual, dedicated program elements. Within the amounts requested for counterintelligence functions, the amounts requested for the National Nuclear Security Administration shall be specified separately from the amounts requested for other elements of the Department.
+In the budget justification materials submitted to Congress in support of each budget submitted by the President to Congress under title31, the amounts requested for the Department for intelligence functions and the amounts requested for the Department for counterintelligence functions shall each be specified in appropriately classified individual, dedicated program elements. Within the amounts requested for counterintelligence functions, the amounts requested for the National Nuclear Security Administration shall be specified separately from the amounts requested for other elements of the Department.
 
 (Pub. L. 95–91, title II, §214, as added Pub. L. 106–65, div. C, title XXXII, §3204(a), Oct. 5, 1999, 113 Stat. 955; amended Pub. L. 109–364, div. C, title XXXI, §3117(g), Oct. 17, 2006, 120 Stat. 2508.)
 

@@ -30,7 +30,7 @@
 
 #### (6) Supplement, not supplant
 
-&emsp;Funds made available under this section shall be used to supplement, and not supplant,other Federal, State, or local funds used for providing school-based counseling and mental health services to students.
+&emsp;Funds made available under this section shall be used to supplement, and not supplant, other Federal, State, or local funds used for providing school-based counseling and mental health services to students.
 
 #### (b) Applications
 

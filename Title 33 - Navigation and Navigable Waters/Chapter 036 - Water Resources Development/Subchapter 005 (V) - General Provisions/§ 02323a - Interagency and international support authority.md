@@ -2,27 +2,41 @@
 
 #### (a) In general
 
-The Secretary may engage in activities (including contracting) in support of other Federal agencies, international organizations, or foreign governments to address problems of national significance to the United States.
+The Secretary may engage in activities (including contracting) in support of Federal departments or agencies, nongovernmental organizations, international organizations, or foreign governments to address problems of national significance to the United States.
 
 #### (b) Consultation
 
-The Secretary may engage in activities in support of international organizations only after consulting with the Department of State.
+The Secretary may engage in activities in support of international organizations or foreign governments only after consulting with the Department of State.
 
 #### (c) Use of Corps' expertise
 
-The Secretary may use the technical and managerial expertise of the Corps of Engineers to address domestic and international problems related to water resources, infrastructure development, and environmental protection.
+The Secretary may use the technical and managerial expertise of the Corps of Engineers to address domestic and international problems related to water resources, infrastructure development, and environmental protection and restoration.
 
 #### (d) Funding
 
-There is authorized to be appropriated to carry out this section $1,000,000 for fiscal year 2008 and each fiscal year thereafter. The Secretary may accept and expend additional funds from other Federal agencies, international organizations, or foreign governments to carry out this section.
+#### (1) In general
 
-(Pub. L. 104–303, title II, §234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, §207, Dec. 11, 2000, 114 Stat. 2590; Pub. L. 110–114, title II, §2030, Nov. 8, 2007, 121 Stat. 1081.)
+&emsp;There is authorized to be appropriated to carry out this section $1,000,000 for fiscal year 2008 and each fiscal year thereafter.
+
+#### (2) Acceptance of funds
+
+&emsp;The Secretary may accept and expend additional funds from Federal departments or agencies, nongovernmental organizations, international organizations, or foreign governments to carry out this section.
+
+(Pub. L. 104–303, title II, §234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, §207, Dec. 11, 2000, 114 Stat. 2590; Pub. L. 110–114, title II, §2030, Nov. 8, 2007, 121 Stat. 1081; Pub. L. 113–121, title I, §1029, June 10, 2014, 128 Stat. 1230.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–121, §1029(1), substituted "Federal departments or agencies, nongovernmental organizations," for "other Federal agencies,".
+
+Subsec. (b). Pub. L. 113–121, §1029(2), inserted "or foreign governments" after "organizations".
+
+Subsec. (c). Pub. L. 113–121, §1029(3), inserted "and restoration" after "protection".
+
+Subsec. (d). Pub. L. 113–121, §1029(4), designated first and second sentences as pars. (1) and (2), respectively, inserted headings, and substituted "Federal departments or agencies, nongovernmental organizations," for "other Federal agencies," in par. (2).
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–114, §2030(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary may engage in activities in support of other Federal agencies or international organizations to address problems of national significance to the United States."
 

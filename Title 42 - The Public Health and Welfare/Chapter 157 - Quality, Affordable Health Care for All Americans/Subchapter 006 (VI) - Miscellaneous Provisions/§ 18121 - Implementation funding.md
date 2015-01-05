@@ -18,7 +18,7 @@ This Act, referred to in subsec. (a), is Pub. L. 111–152, Mar. 30, 2010, 124 S
 
 #### Codification
 
-Section was enacted as part of the Health Care and Education Reconciliation Act of 2010, and not as part of the Patient Protection and Affordable Care Act, which comprises this chapter.
+Section was enacted as part of the Health Care and Education Reconciliation Act of 2010, and not as part of the Patient Protection and Affordable Care Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Acts".</i>
 

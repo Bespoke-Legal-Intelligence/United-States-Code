@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b)(2) of this section, the President shall impose the sanction described in subsection (c) of this section if the President determines in writing that, on or after the effective date of this subchapter, a foreign person or a United States person has materially and with requisite knowledge contributed, through the export from the United States or any other country of any goods or technology (as defined in section 6305(2) of this title), to the efforts by any individual, group, or non-nuclear-weapon state to acquire unsafeguarded special nuclear material or to use, develop, produce, stockpile, or otherwise acquire any nuclear explosive device.
+&emsp;Except as provided in subsection (b)(2), the President shall impose the sanction described in subsection (c) if the President determines in writing that, on or after the effective date of this subchapter, a foreign person or a United States person has materially and with requisite knowledge contributed, through the export from the United States or any other country of any goods or technology (as defined in section 6305(2) of this title), to the efforts by any individual, group, or non-nuclear-weapon state to acquire unsafeguarded special nuclear material or to use, develop, produce, stockpile, or otherwise acquire any nuclear explosive device.
 
 #### (2) Persons against which the sanction is to be imposed
 
@@ -30,21 +30,21 @@
 
 #### (1) Consultations
 
-&emsp;If the President makes a determination described in subsection (a)(1) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of the sanction pursuant to this section.
+&emsp;If the President makes a determination described in subsection (a)(1) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of the sanction pursuant to this section.
 
 #### (2) Actions by government of jurisdiction
 
-&emsp;In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
+&emsp;In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1). The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
 
 #### (3) Report to Congress
 
-&emsp;Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
+&emsp;Not later than 90 days after making a determination under subsection (a)(1), the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
 
 #### (c) Sanction
 
 #### (1) Description of sanction
 
-&emsp;The sanction to be imposed pursuant to subsection (a)(1) of this section is, except as provided in paragraph (2) of this subsection, that the United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from any person described in subsection (a)(2) of this section.
+&emsp;The sanction to be imposed pursuant to subsection (a)(1) is, except as provided in paragraph (2) of this subsection, that the United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from any person described in subsection (a)(2).
 
 #### (2) Exceptions
 
@@ -80,9 +80,9 @@ Upon the request of any person, the Secretary of State may, in consultation with
 
 The sanction imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of the sanction and shall cease to apply thereafter only if the President determines and certifies in writing to the Congress that—
 
-&emsp;(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
+&emsp;(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
 
-&emsp;(2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1) of this section.
+&emsp;(2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1).
 
 #### (f) Waiver
 
@@ -92,7 +92,7 @@ The sanction imposed pursuant to this section shall apply for a period of at lea
 
 #### (2) Notification of and report to Congress
 
-&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), thePresident shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
 (Pub. L. 103–236, title VIII, §821, Apr. 30, 1994, 108 Stat. 508.)
 

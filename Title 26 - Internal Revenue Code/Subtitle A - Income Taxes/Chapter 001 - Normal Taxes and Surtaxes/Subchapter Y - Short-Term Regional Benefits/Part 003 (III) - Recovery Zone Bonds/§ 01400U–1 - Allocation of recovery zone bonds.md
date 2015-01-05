@@ -10,7 +10,7 @@
 
 #### (B) Minimum allocation
 
-&emsp;&emsp;The Secretary shall adjust the allocations under subparagraph (A) for any calendaryear for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the national recovery zone economic development bond limitation and 0.9 percent of the national recovery zone facility bond limitation.
+&emsp;&emsp;The Secretary shall adjust the allocations under subparagraph (A) for any calendar year for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the national recovery zone economic development bond limitation and 0.9 percent of the national recovery zone facility bond limitation.
 
 #### (2) 2008 State employment decline
 

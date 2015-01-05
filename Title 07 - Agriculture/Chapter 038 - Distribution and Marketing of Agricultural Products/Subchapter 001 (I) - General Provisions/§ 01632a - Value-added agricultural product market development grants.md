@@ -90,23 +90,31 @@ In this section:
 
 #### (6) Priority
 
-&emsp;In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
+#### (A) Eligible independent producers of value-added agricultural products
 
-&emsp;&emsp;(A) beginning farmers or ranchers;
+&emsp;&emsp;In awarding grants under paragraph (1)(A), the Secretary shall give priority to—
 
-&emsp;&emsp;(B) socially disadvantaged farmers or ranchers; and
+&emsp;&emsp;&emsp;(i) operators of small- and medium-sized farms and ranches that are structured as family farms;
 
-&emsp;&emsp;(C) operators of small- and medium-sized farms and ranches that are structured as a family farm.
+&emsp;&emsp;&emsp;(ii) beginning farmers or ranchers;
+
+&emsp;&emsp;&emsp;(iii) socially disadvantaged farmers or ranchers; and
+
+&emsp;&emsp;&emsp;(iv) veteran farmers or ranchers (as defined in section 2279(e) of this title).
+
+#### (B) Eligible agricultural producer groups, farmer or rancher cooperatives, and majority-controlled producer-based business venture
+
+&emsp;&emsp;In awarding grants under paragraph (1)(B), the Secretary shall give priority to projects (including farmer or rancher cooperative projects) that best contribute to creating or increasing marketing opportunities for operators, farmers, and ranchers described in subparagraph (A).
 
 #### (7) Funding
 
 #### (A) Mandatory funding
 
-&emsp;&emsp;On October 1, 2008, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $15,000,000, to remain available until expended.
+&emsp;&emsp;On February 7, 2014, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $63,000,000, to remain available until expended.
 
 #### (B) Discretionary funding
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2008 through 2012.
+&emsp;&emsp;There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2008 through 2018.
 
 #### (C) Reservation of funds for projects to benefit beginning farmers or ranchers, socially disadvantaged farmers or ranchers, and mid-tier value chains
 
@@ -126,7 +134,7 @@ In this section:
 
 #### (1) Establishment
 
-&emsp;Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the "Agricultural Marketing Resource Center") at an eligible institution described in paragraph (2) that will—
+&emsp;Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not usemore than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the "Agricultural Marketing Resource Center") at an eligible institution described in paragraph (2) that will—
 
 &emsp;&emsp;(A) develop a resource center with electronic capabilities to coordinate and provide to independent producers and processors (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities information regarding research, business, legal, financial, or logistical assistance; and
 
@@ -154,7 +162,7 @@ Funds provided under this section may not be used for—
 
 &emsp;(2) the purchase, rental, or installation of fixed equipment.
 
-(Pub. L. 106–224, title II, §231, June 20, 2000, 114 Stat. 409; Pub. L. 107–171, title VI, §6401(a), May 13, 2002, 116 Stat. 424; Pub. L. 110–234, title VI, §6202, May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, §4(a), title VI, §6202, June 18, 2008, 122 Stat. 1664, 1967.)
+(Pub. L. 106–224, title II, §231, June 20, 2000, 114 Stat. 409; Pub. L. 107–171, title VI, §6401(a), May 13, 2002, 116 Stat. 424; Pub. L. 110–234, title VI, §6202, May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, §4(a), title VI, §6202, June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, §6203, Feb. 7, 2014, 128 Stat. 857.)
 
 #### Codification
 
@@ -165,6 +173,18 @@ Section was enacted as part of the Agricultural Risk Protection Act of 2000, and
 Section was formerly set out as a note under section 1621 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(6). Pub. L. 113–79, §6203(1), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
+
+&emsp;"(A) beginning farmers or ranchers;
+
+&emsp;"(B) socially disadvantaged farmers or ranchers; and
+
+&emsp;"(C) operators of small- and medium-sized farms and ranches that are structured as a family farm."
+
+Subsec. (b)(7)(A). Pub. L. 113–79, §6203(2)(A), substituted "On February 14, 2014," for "On October 1, 2008," and "$63,000,000" for "$15,000,000".
+
+Subsec. (b)(7)(B). Pub. L. 113–79, §6203(2)(B), substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §6202(a), added subsec. (a) and struck out former subsec. (a) which defined "value-added agricultural product".
 

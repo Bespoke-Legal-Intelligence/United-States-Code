@@ -32,7 +32,7 @@ For the purposes of this Act, the term—
 
 &emsp;(15) "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and has governmental authority over lands belonging to or controlled by the tribe;
 
-&emsp;(16) "lessee" means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf, granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
+&emsp;(16) "lessee" means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf,granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
 
 &emsp;(17) "liable" or "liability" shall be construed to be the standard of liability which obtains under section 1321 of this title;
 
@@ -214,7 +214,7 @@ The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pu
 
 Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of Title 16, Conservation.
 
-The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
@@ -230,7 +230,7 @@ Pars. (38) to (44). Pub. L. 108–293, §703(b), added pars. (38) to (44).
 
 #### Effective Date
 
-Pub. L. 101–380, title I, §1020, Aug. 18, 1990, 104 Stat. 506, provided that: "This Act \[see Short Title of 1990 Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\]."
+Pub. L. 101–380, title I, §1020, Aug. 18, 1990, 104 Stat. 506, provided that: "This Act \[see Short Title of 1990Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\]."
 
 #### Short Title of 2006 Amendment
 

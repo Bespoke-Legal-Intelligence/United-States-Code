@@ -6,7 +6,7 @@
 
 &emsp;(2) without authorization copies, duplicates, sketches, draws, photographs, downloads, uploads, alters, destroys, photocopies, replicates, transmits, delivers, sends, mails, communicates, or conveys such information;
 
-&emsp;(3) receives, buys, or possesses such information, knowing the same to have been stolen orappropriated, obtained, or converted without authorization;
+&emsp;(3) receives, buys, or possesses such information, knowing the same to have been stolen or appropriated, obtained, or converted without authorization;
 
 &emsp;(4) attempts to commit any offense described in paragraphs (1) through (3); or
 

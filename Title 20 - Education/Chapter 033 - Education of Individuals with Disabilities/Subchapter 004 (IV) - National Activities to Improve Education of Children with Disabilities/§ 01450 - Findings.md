@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;&emsp;(B) clearly define, in objective, measurable terms, the school and post-school results that children with disabilities are expected to achieve; and
 
-&emsp;&emsp;(C) promote transition services and coordinate State and local education, social, health, mental health, and other services, in addressing the full range of student needs,particularly the needs of children with disabilities who need significant levels of support to participate and learn in school and the community.
+&emsp;&emsp;(C) promote transition services and coordinate State and local education, social, health, mental health, and other services, in addressing the full range of student needs, particularly the needs of children with disabilities who need significant levels of support to participate and learn in school and the community.
 
 &emsp;(5) The availability of an adequate number of qualified personnel is critical—
 

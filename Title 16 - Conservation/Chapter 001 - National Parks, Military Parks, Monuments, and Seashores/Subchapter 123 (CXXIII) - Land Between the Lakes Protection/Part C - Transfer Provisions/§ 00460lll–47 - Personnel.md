@@ -74,7 +74,7 @@ The Tennessee Valley Authority—
 
 #### (B) Employee participation
 
-&emsp;&emsp;In deciding on the terms of the memorandum of understanding, the Secretary and theheads of the Office of Personnel Management, the Tennessee Valley Authority and the Tennessee Valley Authority Retirement System shall meet and consult with and give full consideration to the views of employees and representatives of the employees of the Tennessee Valley Authority.
+&emsp;&emsp;In deciding on the terms of the memorandum of understanding, the Secretary and the heads of the Office of Personnel Management, the Tennessee Valley Authority and the Tennessee Valley Authority Retirement System shall meet and consult with and give full consideration to the views of employees and representatives of the employees of the Tennessee Valley Authority.
 
 #### (2) Eligible employees that are transferred to other units of TVA
 
@@ -90,7 +90,7 @@ The Tennessee Valley Authority—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Eligible employees hired by the Forest Service shall become members of the Civil Service Retirement System (CSRS) Offset Plan and shall have the option to transfer into the Federal Employees Retirement System (FERS) within six months of their date of transfer. Such employees shall have the option at any time to receive credit in CSRS Offset or FERS for all of their TVA service in accordance with applicable procedures. Any deposits necessary to receive credit for such service shall be considered transfers to a qualified plan for purposes of favorable tax treatment of such amount under title 26.
+&emsp;&emsp;&emsp;Eligible employees hired by the Forest Service shall become members of the Civil Service Retirement System (CSRS) Offset Plan and shall have the option to transfer into the Federal Employees Retirement System (FERS) within six months of their date of transfer. Such employees shallhave the option at any time to receive credit in CSRS Offset or FERS for all of their TVA service in accordance with applicable procedures. Any deposits necessary to receive credit for such service shall be considered transfers to a qualified plan for purposes of favorable tax treatment of such amount under title 26.
 
 #### (ii) Funding shortfall
 

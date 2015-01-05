@@ -2,7 +2,7 @@
 
 #### (a) Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; Jamaica Bay Unit
 
-The Secretary shall administer the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the recreation area the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter: <i>Provided</i>, That the Secretary shall administer and protect the islands and waters within the Jamaica Bay Unit with the primary aim of conserving the natural resources, fish, and wildlife located therein and shall permit no development or use of this area which is incompatible with this purpose.
+The Secretary shall administer the recreation area in accordance with the provisions of the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4),<sup>1</sup> as amended and supplemented. In the administration of the recreation area the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter: <i>Provided</i>, That the Secretary shall administer and protect the islands and waters within the Jamaica Bay Unit with the primary aim of conserving the natural resources, fish, and wildlife located therein and shall permit no development or use of this area which is incompatible with this purpose.
 
 #### (b) William Fitts Ryan Visitor Center; designation
 
@@ -16,7 +16,7 @@ The Secretary is authorized to enter into cooperative agreements with the States
 
 #### (d) Water resource developments
 
-The authority of the Secretary of the Army to undertake or contribute to water resource developments, including shore erosion control, beach protection, and navigation improvements (including the deepening of the shipping channel from the Atlantic Ocean to the New York harbor) on land and/or waters within the recreation area shall be exercised in accordance with plans which are mutually acceptable to the Secretaryof the Interior and the Secretary of the Army and which are consistent with both the purpose of this subchapter and the purpose of existing statutes dealing with water and related land resource development.
+The authority of the Secretary of the Army to undertake or contribute to water resource developments, including shore erosion control, beach protection, and navigation improvements (including the deepening of the shipping channel from the Atlantic Ocean to the New York harbor) on land and/or waters within the recreation area shall be exercised in accordance with plans which are mutually acceptable to the Secretary of the Interior and the Secretary of the Army and which are consistent with both the purpose of this subchapter and the purpose of existing statutes dealing with water and related land resource development.
 
 #### (e) Airway facilities; maintenance, operation, and installation; Jamaica Bay and Floyd Bennett Field restrictions
 
@@ -40,6 +40,10 @@ Notwithstanding the provisions of subsection (a) of this section, the United Sta
 
 (Pub. L. 92–592, §3, Oct. 27, 1972, 86 Stat. 1309; Pub. L. 96–344, §11(1), Sept. 8, 1980, 94 Stat. 1136; Pub. L. 97–232, §1, Aug. 9, 1982, 96 Stat. 259; Pub. L. 106–132, §1, Dec. 7, 1999, 113 Stat. 1681.)
 
+#### References in Text
+
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
 #### Amendments
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–132 designated existing provisions as par. (1) and added par. (2).
@@ -47,4 +51,6 @@ Notwithstanding the provisions of subsection (a) of this section, the United Sta
 <b>1982</b>—Subsec. (i). Pub. L. 97–232 added subsec. (i).
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–344 struck out "constructed" after "visitor center" and inserted provision authorizing the Secretary to inform the public of the contributions of Representative Ryan to the creation of the recreation area by means of signs, markers, etc., and to take such additional action, not later than Dec. 31, 1980, as deemed appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

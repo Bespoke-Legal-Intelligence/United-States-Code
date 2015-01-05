@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) in writing by the Secretary to have access to those files.
 
-(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in theUnited States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
+(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
 
 (2) The Secretary may approve a person for purposes of paragraph (1) only if the Secretary determines that—
 
@@ -82,9 +82,21 @@
 
 (e) The Secretary shall revoke a delegation made to a classification society under subsection (b) or (d) if the Secretary of State determines that the classification society provides comparable services in or for a state sponsor of terrorism.
 
-(f) In this section, the term "state sponsor of terrorism" means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+(f)(1) Upon request of an owner or operator of an offshore supply vessel, the Secretary shall delegate the authorities set forth in paragraph (1) of subsection (b) with respect to such vessel to a classification society to which a delegationis authorized under that paragraph. A delegation by the Secretary under this subsection shall be used for any vessel inspection and examination function carried out by the Secretary, including the issuance of certificates of inspection and all other related documents.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978; Pub. L. 112–213, title III, §304, Dec. 20, 2012, 126 Stat. 1563.)
+(2) If the Secretary determines that a certificate of inspection or related document issued under authority delegated under paragraph (1) of this subsection with respect to a vessel has reduced the operational safety of that vessel, the Secretary may terminate the certificate or document, respectively.
+
+(3) Not later than 2 years after the date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, and for each year of the subsequent 2-year period, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing—
+
+&emsp;(A) the number of vessels for which a delegation was made under paragraph (1);
+
+&emsp;(B) any savings in personnel and operational costs incurred by the Coast Guard that resulted from the delegations; and
+
+&emsp;(C) based on measurable marine casualty and other data, any impacts of the delegations on the operational safety of vessels for which the delegations were made, and on the crew on those vessels.
+
+(g) In this section, the term "state sponsor of terrorism" means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978; Pub. L. 112–213, title III, §304, Dec. 20, 2012, 126 Stat. 1563; Pub. L. 113–281, title III, §315, Dec. 18, 2014, 128 Stat. 3050.)
 
 Historical and Revision Notes
 
@@ -100,21 +112,25 @@ Historical and Revision Notes
 
 46:881
 
-Section 3316 prescribes the relationship between certain classification societies and the Federal Government with respect to the promotion of maritime safetyand the security of life and property at sea. Briefly stated, a classification society, like the American Bureau of Shipping (ABS), establishes and administers standards for the design, construction, and periodic survey of commercial vessels, yachts, and other marine structures. Classification certifies adherence to these standards, thus representing that a vessel or structure possesses the structural and mechanical fitness required for its intended service.
+Section 3316 prescribes the relationship between certain classification societies and the Federal Government with respect to the promotion of maritime safety and the security of life and property at sea. Briefly stated, a classification society, like the American Bureau of Shipping (ABS), establishes and administers standards for the design, construction, and periodic survey of commercial vessels, yachts, and other marine structures. Classification certifies adherence to these standards, thus representing that a vessel or structure possesses the structural and mechanical fitness required for its intended service.
 
 The section requires that a Federal department, agency, or instrumentality recognize the American Bureau of Shipping as its agent for classing vessels owned by the Federal Government and in any matters related to classification. In effect, the ABS has a statutory monopoly on classing vessels of the United States Government. Additionally, the section contains the authority to permit the Secretary to rely on reports, documents, and certificates issued by a classification society that is similar to the American Bureau of Shipping. However, a "similar classification society" continues to mean one that is organized like the American Bureau of Shipping with attendant governmental representation.
 
 #### References in Text
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (f), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
+The date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 113–281, which was approved Dec. 18, 2014.
 
-The International Emergency Economic Powers Act, referred to in subsec. (f), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
 
-Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (f), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
+The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-Section 40 of the Arms Export Control Act, referred to in subsec. (f), is classified to section 2780 of Title 22, Foreign Relations and Intercourse.
+Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (g), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
+
+Section 40 of the Arms Export Control Act, referred to in subsec. (g), is classified to section 2780 of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2014</b>—Subsecs. (f), (g). Pub. L. 113–281 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>2012</b>—Subsec. (b)(2)(C). Pub. L. 112–213, §304(1), added subpar. (C).
 
@@ -138,7 +154,7 @@ Subsec. (a). Pub. L. 104–324, §607(a)(3), which directed the substitution of 
 
 Pub. L. 104–324, §607(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: "In carrying out this part, the Secretary may rely on reports, documents, and certificates issued by the American Bureau of Shipping or a similar United States classification society, or an agent of the Bureau or society."
 
-Subsec. (b). Pub. L. 104–324, §607(a)(2), (4), redesignated subsec. (c) as (b), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: "To the maximum extent practicable, the Secretary may delegate to the Bureau or a similar United States classification society, or an agent of the Bureau or society, the inspection or examination, in the United States or in a foreign country, of a vessel documented or to be documented as a vessel of the United States. The Bureau, society, or agent may issue the certificate of inspection required by this part and other certificates essential to documentation." Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 104–324, §607(a)(2), (4), redesignated subsec. (c) as (b), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: "To the maximum extent practicable, the Secretary may delegate to the Bureau or a similar United States classification society, or anagent of the Bureau or society, the inspection or examination, in the United States or in a foreign country, of a vessel documented or to be documented as a vessel of the United States. The Bureau, society, or agent may issue the certificate of inspection required by this part and other certificates essential to documentation." Former subsec. (b) redesignated (a).
 
 Subsec. (c). Pub. L. 104–324, §607(a)(2), redesignated subsec. (c) as (b).
 

@@ -122,17 +122,17 @@ Prevention of Asymmetry in Reductions.—
 
 &emsp;(1)
 
-Certification.—During any year in which the President recommends to reduce the number of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
+Certification.—During any year in which the President recommends to reduce the number of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
 
 &emsp;(2)
 
-Notification.—If the President certifies under paragraph (1) that the recommended number of nuclear weapons in the active and inactive stockpiles of the United States is fewer than the high-confidence assessment of the intelligence community with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation, the President shall transmit to the congressional defense committees a report by the Commander of the United States Strategic Command, without change, detailing whether the recommended reduction would create astrategic imbalance or degrade deterrence and extended deterrence between the total number of nuclear weapons of the United States and the total number of nuclear weapons of the Russian Federation. The President shall transmit such report by not later than 60 days before the date on which the President carries out any such recommended reductions.
+Notification.—If the President certifies under paragraph (1) that the recommended number of nuclear weapons in the active and inactive stockpiles of the United States is fewer than the high-confidence assessment of the intelligence community with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation, the President shall transmit to the congressional defense committees a report by the Commander of the United States Strategic Command, without change, detailing whether the recommended reduction would create a strategic imbalance or degrade deterrence and extended deterrence between the total number of nuclear weapons of the United States and the total number of nuclear weapons of the Russian Federation. The President shall transmit such report by not later than 60 days before the date on which the President carries out any such recommended reductions.
 
 &emsp;(3)
 
 Exception.—The notification in paragraph (2) shall not apply to—
 
-&emsp;&emsp;(A) reductions made to ensure the safety, security, reliability, and credibility of the nuclear weapons stockpile and strategic delivery systems, including activities related to surveillance, assessment, certification, testing, and maintenance of nuclear warheads and strategic delivery systems; or
+&emsp;&emsp;(A) reductions made to ensure the safety, security, reliability, and credibility of the nuclear weapons stockpile and strategic delivery systems, including activities related to surveillance, assessment, certification,testing, and maintenance of nuclear warheads and strategic delivery systems; or
 
 &emsp;&emsp;(B) nuclear warheads that are retired or awaiting dismantlement on the date of the certification under paragraph (1).
 
@@ -140,7 +140,7 @@ Exception.—The notification in paragraph (2) shall not apply to—
 
 Additional views.—On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 
-(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875.)
+(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509.)
 
 #### References in Text
 
@@ -151,6 +151,8 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 The text of this section is based on Pub. L. 112–81, div. A, title X, §1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, §1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to section 2523b of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, §1033(b)(1)(A)–(C).
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3003(4))" for "(50 U.S.C. 401a(4))".
 
 <b>2013</b>—Pub. L. 112–239, §1033(b)(2)(B), made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above.
 
@@ -163,6 +165,22 @@ Subsec. (d). Pub. L. 112–239, §1034, added subsec. (d).
 #### Effective date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: "The amendment made by paragraph (1)(D) \[amending this section\] shall take effect on October 1, 2012."
+
+#### Retention of Missile Silos
+
+Pub. L. 113–291, div. A, title XVI, §1644, Dec. 19, 2014, 128 Stat. 3651, provided that:
+
+"(a)
+
+Requirement.—During the period in which the New START Treaty (as defined in section 494(a)(2)(D) of title 10, United States Code) is in effect, the Secretary of Defense shall preserve each intercontinental ballistic missile silo that contains a deployed missile as of the date of the enactment of this Act \[Dec. 19, 2014\] in, at minimum, a warm status that enables such silo to—
+
+&emsp;"(1) remain a fully functioning element of the interconnected and redundant command and control system of the missile field; and
+
+&emsp;"(2) be made fully operational with a deployed missile.
+
+"(b)
+
+Rule of Construction.—Nothing in subsection (b) shall be construed to prohibit the Secretary of Defense from temporarily placing an intercontinental ballistic missile silo offline to perform maintenance activities."
 
 #### Implementation of New START Treaty
 

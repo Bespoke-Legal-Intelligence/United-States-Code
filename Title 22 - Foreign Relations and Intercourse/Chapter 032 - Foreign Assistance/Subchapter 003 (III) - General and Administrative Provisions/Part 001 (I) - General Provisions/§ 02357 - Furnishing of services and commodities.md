@@ -14,7 +14,7 @@ When any agency of the United States Government provides services on an advance-
 
 #### (c) Excess property
 
-(1) Except as provided in subsection (d) of this section, no Government-owned excess property shall be made available under this section, section 2358 of this title, or otherwise in furtherance of the purposes of subchapter I of this chapter, unless, before the shipment of such property for use in a specified country (or transfer, if the property is already in such country), the agency administering such subchapter I has approved such shipment (or transfer) and made a written determination—
+(1) Except as provided in subsection (d), no Government-owned excess property shall be made available under this section, section 2358 of this title, or otherwise in furtherance of the purposes of subchapter I of this chapter, unless, before the shipment of such property for use in a specified country (or transfer, if the property is already in such country), the agency administering such subchapter I has approved such shipment (or transfer) and made a written determination—
 
 &emsp;(A) that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
 
@@ -26,7 +26,7 @@ When any agency of the United States Government provides services on an advance-
 
 #### (d) Transfer of Government-owned excess property to enhance environmental protection in foreign countries
 
-The Secretary of State, acting through the Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, is authorized to transfer to any friendly country, international organization, the American Red Cross, or other voluntary nonprofit relief agency described in subsection (a) of this section, Government-owned excess property made available under this section or section 2358 of this title in order to support activities carried out under subchapter I of this chapter which are designed to enhance environmental protection in foreign countries if the Secretary of State makes a written determination—
+The Secretary of State, acting through the Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, is authorized to transfer to any friendly country, international organization, the American Red Cross, or other voluntary nonprofit reliefagency described in subsection (a), Government-owned excess property made available under this section or section 2358 of this title in order to support activities carried out under subchapter I of this chapter which are designed to enhance environmental protection in foreign countries if the Secretary of State makes a written determination—
 
 &emsp;(1) that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
 
@@ -34,7 +34,7 @@ The Secretary of State, acting through the Assistant Secretary of State for Ocea
 
 &emsp;(3) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
-(Pub. L. 87–195, pt. III, §607, Sept. 4, 1961, 75 Stat. 441; Pub. L. 90–554, pt. III, §301(b), Oct. 8, 1968, 82 Stat. 963; Pub. L. 94–161, title III, §315, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §122(a), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–424, title V, §503, Oct. 6, 1978, 92 Stat. 959; 1978 Reorg. PlanNo. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 99–93, title I, §129, Aug. 16, 1985, 99 Stat. 419.)
+(Pub. L. 87–195, pt. III, §607, Sept. 4, 1961, 75 Stat. 441; Pub. L. 90–554, pt. III, §301(b), Oct. 8, 1968, 82 Stat. 963; Pub. L. 94–161, title III, §315, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §122(a), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–424, title V, §503, Oct. 6, 1978, 92 Stat. 959; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 99–93, title I, §129, Aug. 16, 1985, 99 Stat. 419.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Amendments
 
-<b>1985</b>—Subsec. (c)(1). Pub. L. 99–93, §129(1)(A), (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted "Except as provided in subsection (d) of this section, no" for "No".
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–93, §129(1)(A), (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted "Except as provided in subsection (d), no" for "No".
 
 Subsec. (c)(2). Pub. L. 99–93, §129(1)(C), added par. (2).
 
@@ -100,7 +100,7 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 (A) the functions under section 607 of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2357\], to the Secretary of State and to the Administrator of the Agency for International Development, respectively, for matters within their respective areas of responsibility; and
 
-(B) the functions in the first proviso under the heading "Population, Development Assistance," contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
+(B) the functions in the first proviso under the heading "Population, Development Assistance," contained in title II of the Foreign Operations, Export Financing,and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
 
 The delegations of authority described in subparagraph (A) are in addition to other delegations of such authority to the International Development Cooperation Agency.
 
@@ -116,5 +116,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed byappropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

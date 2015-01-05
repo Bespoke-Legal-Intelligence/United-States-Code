@@ -32,7 +32,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For provisions relating to the preservation and inspection of records, and entry of premises for inspection, see section 5123.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345, §5124; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered §5122 and amended Pub. L. 109–59, title XI, §11125(b)(6), Aug. 10, 2005, 119 Stat. 1955.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345, §5124; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered §5122 and amended Pub. L. 109–59, title XI, §11125(b)(6), Aug. 10, 2005, 119 Stat. 1955.)
 
 #### Prior Provisions
 

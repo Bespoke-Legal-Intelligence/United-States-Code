@@ -14,7 +14,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 &emsp;(5) Amounts deposited in the Fund as deductions from the pay of enlisted members, warrant officers, and limited duty officers under section 1007(i) of title 37.
 
-&emsp;(6) Interest from investments made under subsection (c) of this section.
+&emsp;(6) Interest from investments made under subsection (c).
 
 #### (b) Availability and use of Fund
 

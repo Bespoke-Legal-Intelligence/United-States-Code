@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of marijuana, cocaine, heroin, methamphetamine, ecstasy, and precursor chemicals and other drugs entering the United States;
 
-&emsp;&emsp;&emsp;&emsp;(III) the number of illicit drug manufacturing laboratories seized and destroyed and the number of hectares of marijuana, poppy, and coca cultivatedand destroyed domestically and in other countries;
+&emsp;&emsp;&emsp;&emsp;(III) the number of illicit drug manufacturing laboratories seized and destroyed and the number of hectares of marijuana, poppy, and coca cultivated and destroyed domestically and in other countries;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the number of metric tons of marijuana, heroin, cocaine, and methamphetamine seized and other drugs; and
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(B) in satisfying the requirements of subparagraph (A), shall ensure, to the maximum extent possible, that State, local, and tribal officials and relevant private organizations commit to support and take steps to achieve the goals and objectives of the National Drug Control Strategy;
 
-&emsp;&emsp;(C) with the concurrence of the Attorney General, may require the El Paso Intelligence Center to undertake specific tasks orprojects to support or implement the National Drug Control Strategy; and
+&emsp;&emsp;(C) with the concurrence of the Attorney General, may require the El Paso Intelligence Center to undertake specific tasks or projects to support or implement the National Drug Control Strategy; and
 
 &emsp;&emsp;(D) with the concurrence of the Director of National Intelligence and the Attorney General, may request that the National Drug Intelligence Center undertake specific tasks or projects to support or implement the National Drug Control Strategy.
 
@@ -200,7 +200,7 @@ Limitation.—The Southwest Border Counternarcotics Strategy shall not change ex
 
 "(f)
 
-Report to Congress.—The Director shall provide a copy of the Southwest Border Counternarcotics Strategy to the appropriate congressional committees (as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701)), and to the Committee on Armed Services and theCommittee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate.
+Report to Congress.—The Director shall provide a copy of the Southwest Border Counternarcotics Strategy to the appropriate congressional committees (as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701)), and to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate.
 
 "(g)
 

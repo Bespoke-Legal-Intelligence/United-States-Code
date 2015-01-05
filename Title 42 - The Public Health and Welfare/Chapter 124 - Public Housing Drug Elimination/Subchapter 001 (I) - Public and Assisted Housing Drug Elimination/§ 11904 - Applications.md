@@ -14,7 +14,7 @@ To receive a grant under this subchapter, a public housing agency, a public hous
 
 &emsp;The Secretary may not provide assistance under this subchapter to an applicant that is a public housing agency unless—
 
-&emsp;&emsp;(A) the agency will use the grants to continue or expand activities eligible for assistance under this subchapter, as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, in which case the Secretary shall provide preference to such applicant; except that preference under this subparagraph shall not preclude selection by the Secretary of other meritorious applications that address urgent or serious crime problems nor be construed to require continuation of activities determined by the Secretary to be unworthy of continuation; or
+&emsp;&emsp;(A) the agency will use the grants to continue or expand activities eligible for assistance under this subchapter, as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, in which case the Secretary shall provide preference to such applicant; except that preference under this subparagraph shall not preclude selection by the Secretary of other meritorious applications that address urgent or serious crime problems nor be construed to require continuation of activities determinedby the Secretary to be unworthy of continuation; or
 
 &emsp;&emsp;(B) the agency is in the class established under paragraph (3).
 
@@ -40,7 +40,7 @@ The Secretary shall approve applications under subsection (b) of this section th
 
 #### (d) Federally assisted low-income housing
 
-In addition to the selection criteria specified in subsection (c) of this section, the Secretary may establish other criteria for the evaluationof applications submitted by owners of federally assisted low-income housing, except that such additional criteria shall be designed only to reflect—
+In addition to the selection criteria specified in subsection (c) of this section, the Secretary may establish other criteria for the evaluation of applications submitted by owners of federally assisted low-income housing, except that such additional criteria shall be designed only to reflect—
 
 &emsp;(1) relevant differences between the financial resources and other characteristics of public housing authorities and owners of federally assisted low-income housing, or
 

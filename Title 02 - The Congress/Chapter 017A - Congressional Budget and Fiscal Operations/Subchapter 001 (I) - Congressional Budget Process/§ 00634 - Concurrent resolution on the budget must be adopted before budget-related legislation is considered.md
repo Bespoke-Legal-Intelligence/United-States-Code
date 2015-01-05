@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment ormotion thereto, or conference report thereon that—
+Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment or motion thereto, or conference report thereon that—
 
 &emsp;(1) first provides new budget authority for that fiscal year;
 
@@ -16,7 +16,7 @@ Until the concurrent resolution on the budget for a fiscal year has been agreed 
 
 #### (b) Exceptions in House
 
-In the House of Representatives, subsection (a) of this section does not apply—
+In the House of Representatives, subsection (a) does not apply—
 
 &emsp;(1)(A) to any bill or joint resolution, as reported, providing advance discretionary new budget authority that first becomes available for the first or second fiscal year after the budget year; or
 
@@ -46,13 +46,13 @@ Section was formerly classified to section 1324 of Title 31 prior to the general
 
 <b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, text provided that concurrent resolution on the budget must be adopted before legislation providing new budget authority, new spending authority, new credit authority, or changes in revenues or public debt limit could be considered.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(C), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (or amendment thereto)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(C), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill or resolution (or amendment thereto)".
 
-Pub. L. 101–508, §13205(a)(4), inserted “(or, in the Senate, a concurrent resolution on the budget covering such fiscal year)” after “fiscal year” in closing provisions.
+Pub. L. 101–508, §13205(a)(4), inserted "(or, in the Senate, a concurrent resolution on the budget covering such fiscal year)" after "fiscal year" in closing provisions.
 
-Subsec. (a)(5), (6). Pub. L. 101–508, §13205(a)(1)–(3), added pars. (5) and (6) and struck out former par. (5) which read as follows: “new credit authority for a fiscal year,”.
+Subsec. (a)(5), (6). Pub. L. 101–508, §13205(a)(1)–(3), added pars. (5) and (6) and struck out former par. (5) which read as follows: "new credit authority for a fiscal year,".
 
-Subsec. (b). Pub. L. 101–508, §13205(b), designated existing provisions as par. (1) and substituted “In the House of Representatives, subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+Subsec. (b). Pub. L. 101–508, §13205(b), designated existing provisions as par. (1) and substituted "In the House of Representatives, subsection (a)" for "Subsection (a)", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 <b>1985</b>—Pub. L. 99–177 inserted reference to new credit authority in section catchline.
 

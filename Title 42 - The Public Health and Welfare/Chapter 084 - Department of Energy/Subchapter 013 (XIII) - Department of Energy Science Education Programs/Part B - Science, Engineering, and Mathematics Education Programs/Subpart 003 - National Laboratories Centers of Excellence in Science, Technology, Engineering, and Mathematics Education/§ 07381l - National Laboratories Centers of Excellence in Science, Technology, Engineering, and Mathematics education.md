@@ -68,7 +68,7 @@ The Director shall—
 
 #### (j) No effect on similar programs
 
-Nothing in this section displaces or otherwise affects any similar program being carried out as of August 9, 2007, at any National Laboratory under any other provision of law.
+Nothing in this section displaces or otherwise affects any similar program being carried out asof August 9, 2007, at any National Laboratory under any other provision of law.
 
 (Pub. L. 101–510, div. C, title XXXI, §3181, as added Pub. L. 110–69, title V, §5003(d)(3), Aug. 9, 2007, 121 Stat. 607.)
 

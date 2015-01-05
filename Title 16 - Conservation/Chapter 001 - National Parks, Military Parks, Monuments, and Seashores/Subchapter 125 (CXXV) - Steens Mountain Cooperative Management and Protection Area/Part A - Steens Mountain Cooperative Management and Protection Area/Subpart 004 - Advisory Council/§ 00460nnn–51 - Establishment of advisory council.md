@@ -18,7 +18,7 @@ The advisory council shall consist of 12 voting members, to be appointed by the 
 
 &emsp;(5) Two persons who are recognized environmental representatives, one of whom shall represent the State as a whole, and one of whom is from the local area, appointed from nominees submitted by the Governor of Oregon.
 
-&emsp;(6) A person who participates in what is commonly called dispersed recreation, such as hiking, camping, nature viewing, nature photography, bird watching, horse back riding, or trail walking, appointed from nominees submitted by the Oregon State Director of the Bureau of Land Management.
+&emsp;(6) A person who participates in what is commonly called dispersed recreation, such as hiking, camping, nature viewing, nature photography, bird watching, horse back riding, ortrail walking, appointed from nominees submitted by the Oregon State Director of the Bureau of Land Management.
 
 &emsp;(7) A person who is a recreational permit holder or is a representative of a commercial recreation operation in the Cooperative Management and Protection Area, appointed from nominees submitted jointly by the Oregon State Director of the Bureau of Land Management and the county court for Harney County, Oregon.
 

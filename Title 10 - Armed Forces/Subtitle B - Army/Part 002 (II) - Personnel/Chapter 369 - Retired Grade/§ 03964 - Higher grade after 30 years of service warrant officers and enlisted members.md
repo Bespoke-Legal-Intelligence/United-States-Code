@@ -54,7 +54,7 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–180 substituted "warrant officers and enlisted members" for "Army warrant officers; regular enlisted members" in section catchline and amended text generally. Prior to amendment, text read as follows: "Each warrant officer of the Army, and each enlisted member of the Regular Army, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Army."
+<b>1987</b>—Pub. L. 100–180 substituted "warrant officers and enlisted members" for "Army warrant officers; regular enlisted members" in section catchline and amended text generally. Prior to amendment, text read as follows: "Each warrant officer of the Army, and each enlisted member of the Regular Army, who is retired before or after this title is enacted is entitled, when hisactive service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Army."
 
 <b>1984</b>—Pub. L. 98–525 substituted "highest grade" for "highest temporary grade".
 

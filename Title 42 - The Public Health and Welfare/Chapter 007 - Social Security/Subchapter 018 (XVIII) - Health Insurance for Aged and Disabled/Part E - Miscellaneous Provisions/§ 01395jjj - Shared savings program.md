@@ -98,7 +98,7 @@ The Secretary shall determine an appropriate method to assign Medicare fee-for-s
 
 #### (i) Determining savings
 
-&emsp;&emsp;&emsp;In each year of the agreement period, an ACO shall be eligible to receive payment for shared savings under paragraph (2) only if the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for parts A and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under clause (ii). The Secretary shall determine the appropriate percent described in the preceding sentence to account for normal variation in expenditures under this subchapter, based upon the number of Medicare fee-for-service beneficiaries assigned to an ACO.
+&emsp;&emsp;&emsp;In each year of the agreement period, an ACO shall be eligible to receive payment for shared savings under paragraph (2) onlyif the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for parts A and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under clause (ii). The Secretary shall determine the appropriate percent described in the preceding sentence to account for normal variation in expenditures under this subchapter, based upon the number of Medicare fee-for-service beneficiaries assigned to an ACO.
 
 #### (ii) Establish and update benchmark
 
@@ -106,7 +106,7 @@ The Secretary shall determine an appropriate method to assign Medicare fee-for-s
 
 #### (2) Payments for shared savings
 
-&emsp;Subject to performance with respect to the quality performance standards established bythe Secretary under subsection (b)(3), if an ACO meets the requirements under paragraph (1), a percent (as determined appropriate by the Secretary) of the difference between such estimated average per capita Medicare expenditures in a year, adjusted for beneficiary characteristics, under the ACO and such benchmark for the ACO may be paid to the ACO as shared savings and the remainder of such difference shall be retained by the program under this subchapter. The Secretary shall establish limits on the total amount of shared savings that may be paid to an ACO under this paragraph.
+&emsp;Subject to performance with respect to the quality performance standards established by the Secretary under subsection (b)(3), if an ACO meets the requirements under paragraph (1), a percent (as determined appropriate by the Secretary) of the difference between such estimated average per capita Medicare expenditures in a year, adjusted for beneficiary characteristics, under the ACO and such benchmark for the ACO may be paid to the ACO as shared savings and the remainder of such difference shall be retained by the program under this subchapter. The Secretary shall establish limits on the total amount of shared savings that may be paid to an ACO under this paragraph.
 
 #### (3) Monitoring avoidance of at-risk patients
 
@@ -170,7 +170,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians' services or all items and services under part B. The Secretary may limit a partial capitation model to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
+&emsp;&emsp;Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians' services or all items and services under part B. The Secretary may limit a partial capitationmodel to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
 
 #### (B) No additional program expenditures
 

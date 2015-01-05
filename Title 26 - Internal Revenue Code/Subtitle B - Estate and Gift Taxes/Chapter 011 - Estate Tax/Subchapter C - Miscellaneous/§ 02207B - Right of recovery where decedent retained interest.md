@@ -32,7 +32,7 @@ No person shall be entitled to recover any amount by reason of this section from
 
 <b>1997</b>—Subsec. (a)(2). Pub. L. 105–34 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "Paragraph (1) shall not apply if the decedent otherwise directs in a provision of his will (or a revocable trust) specifically referring to this section."
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11601(b)(1)(A), redesignated former subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "If for any calendar year tax is paid under chapter 12 with respect to any person by reason of property treated as transferred by such person under section 2036(c)(4), such person shall be entitled to recover from the original transferee (as defined in section 2036(c)(4)(C)(ii)) the amount which bears the same ratio to the total tax for such year under chapter 12 as—
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11601(b)(1)(A), redesignated former subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "If for any calendar year tax is paid under chapter 12 with respect to any person by reason of property treated as transferred by such person under section 2036(c)(4), such person shall be entitled to recover from the original transferee (as defined in section 2036(c)(4)(C)(ii)) the amount whichbears the same ratio to the total tax for such year under chapter 12 as—
 
 &emsp;"(1) the value of such property for purposes of chapter 12, bears to
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 101–508 applicable in the case of property transferred af
 
 #### Effective Date
 
-Section effective as if included in provisions of Revenue Act of 1987, Pub. L. 100–203, title X, except that ifan amount is included in the gross estate of a decedent under section 2036 of this title other than solely by reason of section 2036(c) of this title, section applicable to such amount only with respect to property transferred after Nov. 10, 1988, see section 3031(h)(1), (3) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 2036 of this title.
+Section effective as if included in provisions of Revenue Act of 1987, Pub. L. 100–203, title X, except that if an amount is included in the gross estate of a decedent under section 2036 of this title other than solely by reason of section 2036(c) of this title, section applicable to such amount only with respect to property transferred after Nov. 10, 1988, see section 3031(h)(1), (3) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 2036 of this title.
 

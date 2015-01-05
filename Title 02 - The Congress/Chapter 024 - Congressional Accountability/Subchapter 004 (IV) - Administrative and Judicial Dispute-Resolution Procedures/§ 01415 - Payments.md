@@ -2,23 +2,33 @@
 
 #### (a) Awards and settlements
 
-Except as provided in subsection (c) of this section, only funds which are appropriated to an account of the Office in the Treasury of the United States for the payment of awards and settlements may be used for the payment of awards and settlements under this chapter. There are authorized to be appropriated for such account such sums as may be necessary to pay such awards and settlements. Funds in the account are not available for awards and settlements involving the Government Accountability Office, the Government Printing Office, or the Library of Congress.
+Except as provided in subsection (c), only funds which are appropriated to an account of the Office in the Treasury of the United States for the payment of awards and settlements may be used for the payment of awards and settlements under this chapter. There are appropriated for such account such sums as may be necessary to pay such awards and settlements. Funds in the account are not available for awards and settlements involving the Government Accountability Office, the Government Publishing Office, or the Library of Congress.
 
 #### (b) Compliance
 
-Except as provided in subsection (c) of this section, there are authorized to be appropriated such sums as may be necessary for administrative, personnel, and similar expenses of employing offices which are needed to comply with this chapter.
+Except as provided in subsection (c), there are authorized to be appropriated such sums as may be necessary for administrative, personnel, and similar expenses of employing offices which are needed to comply with this chapter.
 
 #### (c) OSHA, accommodation, and access requirements
 
 Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title may be paid only from funds appropriated to the employing office or entity responsible for correcting such violations. There are authorized to be appropriated such sums as may be necessary for such funds.
 
-(Pub. L. 104–1, title IV, §415, Jan. 23, 1995, 109 Stat. 38; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 104–1, title IV, §415, Jan. 23, 1995, 109 Stat. 38; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–76, div. I, title I, §1101(a), Jan. 17, 2014, 128 Stat. 425; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2014</b>—Subsec. (a). Pub. L. 113–76 substituted "There are appropriated for such account such sums as may be necessary to pay such awards and settlements." for "There are authorized to be appropriated for such account such sums as may be necessary to pay such awards and settlements."
+
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (a) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–76, div. I, title I, §1101(b), Jan. 17, 2014, 128 Stat. 425, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2014 and each succeeding fiscal year."
 

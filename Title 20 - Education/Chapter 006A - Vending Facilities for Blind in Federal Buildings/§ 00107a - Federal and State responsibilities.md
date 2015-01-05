@@ -10,9 +10,9 @@ The Secretary of Education shall—
 
 &emsp;(3) Make surveys throughout the United States of industries with a view to obtaining information that will assist blind persons to obtain employment;
 
-&emsp;(4) Make available to the public, and especially to persons and organizations engaged in work for the blind, information obtained as a result of such surveys;
+&emsp;(4) Make available to the public, and especially to persons and organizations engaged inwork for the blind, information obtained as a result of such surveys;
 
-&emsp;(5) Designate as provided in section 107b of this title the State agency for the blind in each State, or, in any State in which there is no such agency, some other public agency to issue licenses to blind persons who are citizensof the United States for the operating of vending facilities on Federal and other property in such State for the vending of newspapers, periodicals, confections, tobacco products, foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, as determined by the State licensing agency, and including the vending or exchange of chances for any lottery authorized by State law and conducted by an agency of a State; and
+&emsp;(5) Designate as provided in section 107b of this title the State agency for the blind in each State, or, in any State in which there is no such agency, some other public agency to issue licenses to blind persons who are citizens of the United States for the operating of vending facilities on Federal and other property in such State for the vending of newspapers, periodicals, confections, tobacco products, foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, as determined by the State licensing agency, and including the vending or exchange of chances for any lottery authorized by State law and conducted by an agency of a State; and
 
 &emsp;(6) Through the Commission,<sup>1</sup> (A) conduct periodic evaluations of the program authorized by this chapter, including upward mobility and other training required by section 107d–4 of this title, and (B) take such other steps, including the issuance of such rules and regulations, as may be necessary or desirable in carrying out the provisions of this chapter.
 
@@ -42,7 +42,7 @@ In any State having an approved plan for vocational rehabilitation pursuant to t
 
 For the date of the enactment of the Randolph-Sheppard Act Amendments of 1974, referred to in subsec. (a)(1), see Codification note below.
 
-The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, as amended, which was classified to chapter 4 (§31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, §500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to section 790 of Title 29, provides in partthat references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
+The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, as amended, which was classified to chapter 4 (§31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, §500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to section 790 of Title 29, provides in part that references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
 
 The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

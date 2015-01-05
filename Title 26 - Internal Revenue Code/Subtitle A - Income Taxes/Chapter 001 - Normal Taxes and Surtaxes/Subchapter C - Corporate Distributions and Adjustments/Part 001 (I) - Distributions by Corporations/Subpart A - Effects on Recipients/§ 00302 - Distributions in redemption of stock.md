@@ -58,7 +58,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 #### (6) Application of paragraphs
 
-&emsp;In determining whether a redemption meets the requirements of paragraph (1), the fact that such redemption fails to meet the requirements of paragraph (2), (3), or (4) shall not be taken into account. If a redemption meets the requirements of paragraph (3) andalso the requirements of paragraph (1), (2), or (4), then so much of subsection (c)(2) as would (but for this sentence) apply in respect of the acquisition of an interest in the corporation within the 10-year period beginning on the date of the distribution shall not apply.
+&emsp;In determining whether a redemption meets the requirements of paragraph (1), the fact that such redemption fails to meet the requirements of paragraph (2), (3), or (4) shall not be taken into account. If a redemption meets the requirements of paragraph (3) and also the requirements of paragraph (1), (2), or (4), then so much of subsection (c)(2) as would (but for this sentence) apply in respect of the acquisition of an interest in the corporation within the 10-year period beginning on the date of the distribution shall not apply.
 
 #### (c) Constructive ownership of stock
 
@@ -76,7 +76,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 &emsp;&emsp;&emsp;(iii) the distributee, at such time and in such manner as the Secretary by regulations prescribes, files an agreement to notify the Secretary of any acquisition described in clause (ii) and to retain such records as may be necessary for the application of this paragraph.
 
-> &emsp;&emsp;If the distributee acquires such an interest in the corporation (other than by bequest or inheritance) within 10 years from the date of the distribution, then the periods of limitation provided in sections 6501 and 6502 on the making of an assessment and the collection by levy or a proceeding in court shall, with respect to any deficiency (including interest and additions to the tax) resulting from such acquisition, include one year immediately following the date on which the distributee (in accordance with regulations prescribed by the Secretary) notifies the Secretary of such acquisition; and such assessment and collection may be made notwithstanding any provision of law or rule of law which otherwise would prevent such assessment and collection.
+> &emsp;&emsp;If the distributee acquires such an interest in the corporation (other than by bequest or inheritance) within 10 years from the date of the distribution, then the periods of limitation provided in sections 6501 and 6502 on the making of an assessment and the collection by levy or a proceeding in court shall, withrespect to any deficiency (including interest and additions to the tax) resulting from such acquisition, include one year immediately following the date on which the distributee (in accordance with regulations prescribed by the Secretary) notifies the Secretary of such acquisition; and such assessment and collection may be made notwithstanding any provision of law or rule of law which otherwise would prevent such assessment and collection.
 
 &emsp;&emsp;(B) Subparagraph (A) of this paragraph shall not apply if—
 
@@ -126,7 +126,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 &emsp;&emsp;(A) The distribution is attributable to the distributing corporation's ceasing to conduct, or consists of the assets of, a qualified trade or business.
 
-&emsp;&emsp;(B) Immediately after the distribution, the distributing corporation is actively engagedin the conduct of a qualified trade or business.
+&emsp;&emsp;(B) Immediately after the distribution, the distributing corporation is actively engaged in the conduct of a qualified trade or business.
 
 #### (3) Qualified trade or business
 
@@ -154,7 +154,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 &emsp;&emsp;<b>(3) Liquidations.—Of stock in complete liquidation, see section 331.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §5(b), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §§222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, §712(i)(1), July 18, 1984, 98 Stat. 948; Pub. L. 111–325, title III, §306(a), Dec. 22, 2010, 124 Stat. 3549.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §5(b), Dec. 24, 1980, 94 Stat.3405; Pub. L. 97–248, title II, §§222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, §712(i)(1), July 18, 1984, 98 Stat. 948; Pub. L. 111–325, title III, §306(a), Dec. 22, 2010, 124 Stat. 3549.)
 
 #### Amendments
 
@@ -236,7 +236,7 @@ Extension of time for adopting plan where acquisition subject to federal regulat
 
 &emsp;&emsp;"(iii)
 
-Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporationwas subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
+Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
 
 &emsp;&emsp;&emsp;"(I) such public announcement shall be treated as a tender offer, and
 

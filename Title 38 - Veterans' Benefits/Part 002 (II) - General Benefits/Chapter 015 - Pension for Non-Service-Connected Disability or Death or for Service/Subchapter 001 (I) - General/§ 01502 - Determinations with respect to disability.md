@@ -26,7 +26,7 @@ Prior section 1502 was renumbered section 3102 of this title.
 
 Another prior section 1502, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171; Pub. L. 86–721, §3, Sept. 8, 1960, 74 Stat. 820; Pub. L. 87–815, §7, Oct. 15, 1962, 76 Stat. 927; Pub. L. 89–138, §2(2), Aug. 26, 1965, 79 Stat. 578; Pub. L. 90–631, §1(a), Oct. 23, 1968, 82 Stat. 1331; Pub. L. 92–540, title I, §101(1), title III, §301, Oct. 24, 1972, 86 Stat. 1074, 1080; Pub. L. 93–508, title I, §101(2), Dec. 3, 1974, 88 Stat. 1578; Pub. L. 94–502, title I, §104(1), Oct. 15, 1976, 90 Stat. 2384, related to the basic entitlement of veterans with service-connected disabilities to vocational rehabilitation under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1502 continue in effect until Mar. 31, 1981.
 
-Prior section 1502A, Pub. L. 87–591, §1, Aug. 16, 1962, 76 Stat. 393, which related to vocational rehabilitation for blinded veterans, was repealed by Pub. L. 89–138, §2(3), Aug. 26, 1965, 79 Stat. 578.
+Prior section 1502A, Pub. L. 87–591, §1, Aug. 16, 1962, 76 Stat. 393, which related to vocational rehabilitationfor blinded veterans, was repealed by Pub. L. 89–138, §2(3), Aug. 26, 1965, 79 Stat. 578.
 
 #### Amendments
 

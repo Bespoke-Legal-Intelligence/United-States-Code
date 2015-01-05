@@ -56,7 +56,7 @@ The Council shall be composed of 16 members as follows:
 
 &emsp;&emsp;(B) Two individuals who are eminent in the semiconductor equipment and materials industry.
 
-&emsp;&emsp;(C) Three individuals who are eminent in the semiconductor user industry, includingrepresentatives from the telecommunications and computer industries.
+&emsp;&emsp;(C) Three individuals who are eminent in the semiconductor user industry, including representatives from the telecommunications and computer industries.
 
 &emsp;&emsp;(D) One individual who is eminent in an academic institution.
 

@@ -100,7 +100,7 @@ Study.—The Attorney General shall annually conduct a study of the cases under 
 
 &emsp;&emsp;"(C) the number of unsealed Federal cases charged within the study period, including the case names, the jurisdiction in which the charges were brought, and the date the charges were filed;
 
-&emsp;&emsp;"(D) the number of cases referred by the Department to a State or local law enforcement agency or prosecutor within the study period, the number of such cases that resulted in State charges being filed, the jurisdiction in which such charges were filed, the date the charges were filed, and if a jurisdiction declines to prosecute or participate in an investigation of a case so referred, the fact it did so;
+&emsp;&emsp;"(D) the number of cases referred by the Department to a State or local law enforcement agency or prosecutor within the study period, the number of such cases that resulted in State charges beingfiled, the jurisdiction in which such charges were filed, the date the charges were filed, and if a jurisdiction declines to prosecute or participate in an investigation of a case so referred, the fact it did so;
 
 &emsp;&emsp;"(E) the number of cases within the study period that were closed without Federal prosecution, the case names of unsealed Federal cases, the dates the cases were closed, and the relevant federal statutes;
 
@@ -116,7 +116,7 @@ Report.—Not later than 6 months after the date of enactment of this Act \[Oct.
 
 "(a)
 
-In General.—The Attorney General shall designate a Supervisory Special Agent in the Civil RightsUnit of the Federal Bureau of Investigation of the Department of Justice.
+In General.—The Attorney General shall designate a Supervisory Special Agent in the Civil Rights Unit of the Federal Bureau of Investigation of the Department of Justice.
 
 "(b)
 
@@ -300,7 +300,7 @@ Pub. L. 107–56, title VIII, §816, Oct. 26, 2001, 115 Stat. 385, provided that
 
 "(a)
 
-In General.—The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
+In General.—The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and providesupport to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
 
 &emsp;"(1) to provide forensic examinations with respect to seized or intercepted computer evidence relating to criminal activity (including cyberterrorism);
 
@@ -414,7 +414,7 @@ Authorization of Appropriations.—There are authorized to be appropriated $25,0
 
 #### Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: "Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement."
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: "Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate\(including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement."
 
 #### Overseas Law Enforcement Training Activities
 
@@ -518,7 +518,7 @@ Duties.—This senior interagency group shall enhance interagency coordination a
 
 Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: "Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business."
 
-\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
+\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
 
 #### Investigation of Financial Institutions; Assistance of Government Personnel
 
@@ -584,7 +584,7 @@ Pub. L. 100–690, title I, subtitle B, Nov. 18, 1988, 102 Stat. 4189, provided 
 
 "(a)
 
-Report.—Not later than 1 year after the date of the enactment of this title \[Nov. 18, 1988\], the Directorof National Drug Control Policy (the Director) in consultation with the Attorney General, shall report to the Congress on the necessity to establish a new division or make other organizational changes within the Department of Justice in order to promote better civil and criminal law enforcement. In preparing such report, the Director shall consider restructuring and consolidating one or more of the following divisions and programs—
+Report.—Not later than 1 year after the date of the enactment of this title \[Nov. 18, 1988\], the Director of National Drug Control Policy (the Director) in consultation with the Attorney General, shall report to the Congress on the necessity to establish a new division or make other organizational changes within the Department of Justice in order to promote better civil and criminal law enforcement. In preparing such report, the Director shall consider restructuring and consolidating one or more of the following divisions and programs—
 
 &emsp;"(1) the Organized Crime and Racketeering Section of the Criminal Division and all subordinate strike forces therein;
 
@@ -738,7 +738,7 @@ There are hereby transferred to the Attorney General:
 
 (a) \[Repealed. Reorg. Plan No. 2 of 1973, §3, 38 F.R. 15932, 87 Stat. 1091, eff. July 1, 1973. Subsection established the Bureau of Narcotics and Dangerous Drugs in the Department of Justice and provided that it be headed by a Director appointed by the Attorney General.\]
 
-(b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney General in the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate now or hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
+(b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney General in the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate nowor hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -828,7 +828,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfers to the Attorney General
 
-There are hereby transferred from the Secretary of the Treasury, the Department of the Treasury, and any other officer or any agency of the Department of the Treasury, to the Attorney General all intelligence, investigative, and law enforcement functions, vested by law in the Secretary, the Department, officers, or agencies which relate to the suppression of illicit traffic in narcotics, dangerous drugs, or marihuana, except that the Secretary shall retain, and continue to perform, those functions, to the extent that they relate to searches and seizures of illicit narcotics, dangerous drugs, or marihuana or to the apprehension or detention of persons in connection therewith, at regular inspection locations at ports of entry or anywhere along the land or water borders of the United States: <i>Provided</i>, that any illicit narcotics, dangerous drugs, marihuana, or related evidence seized, and any person apprehended or detained by the Secretary or any officerof the Department of the Treasury, pursuant to the authority retained in them by virtue of this section, shall be turned over forthwith to the jurisdiction of the Attorney General: <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority vested by law in the Secretary of the Treasury, the Department of the Treasury, or any other officer or any agency of that Department on the effective date of this Plan with respect to contraband other than illicit narcotics, dangerous drugs, and marihuana: and <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority the Attorney General, the Department of Justice, or any other officer or any agency of that Department may otherwise have to make investigations or engage in law enforcement activities, including activities relating to the suppression of illicit traffic in narcotics, dangerous drugs, and marihuana, at ports of entry or along the land and water borders of the United States.
+There are hereby transferred from the Secretary of the Treasury, the Department of the Treasury, and any other officer or any agency of the Department of the Treasury, to the Attorney General all intelligence, investigative, and law enforcement functions, vested by law in the Secretary, the Department, officers, or agencies which relate to the suppression of illicit traffic in narcotics, dangerous drugs, or marihuana, except that the Secretary shall retain, and continue to perform, those functions, to the extent that they relate to searches and seizures of illicit narcotics, dangerous drugs, or marihuana or to the apprehension or detention of persons in connection therewith, at regular inspection locations at ports of entry or anywhere along the land or water borders of the United States: <i>Provided</i>, that any illicit narcotics, dangerous drugs, marihuana, or related evidence seized, and any person apprehended or detained by the Secretary or any officer of the Department of the Treasury, pursuant to the authority retained in them by virtue of this section, shall be turned over forthwith to the jurisdiction of the Attorney General: <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority vested by law in the Secretary of the Treasury, the Department of the Treasury, or any other officer or any agency of that Department on the effective date of this Plan with respect to contraband other than illicit narcotics, dangerous drugs, and marihuana: and <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority the Attorney General, the Department of Justice, or any other officer or any agency of that Department may otherwise have to make investigations or engage in law enforcement activities, including activities relating to the suppression of illicit traffic in narcotics, dangerous drugs, and marihuana, at ports of entry or along the land and water borders of the United States.
 
 #### Sec. 2. Transfers to the Secretary of the Treasury
 
@@ -886,7 +886,7 @@ Drug abuse is one of the most vicious and corrosive forces attacking the foundat
 
 This Administration has declared all-out, global war on the drug menace. As I reported to the Congress earlier this month in my State of the Union message, there is evidence of significant progress on a number of fronts in that war.
 
-Both the rate of new addiction to heroin and the number of narcotic-related deaths showed an encouraging downturn last year. More drug addicts and abusersare in treatment and rehabilitation programs than ever before.
+Both the rate of new addiction to heroin and the number of narcotic-related deaths showed an encouraging downturn last year. More drug addicts and abusers are in treatment and rehabilitation programs than ever before.
 
 Progress in pinching off the supply of illicit drugs was evident in last year's stepped-up volume of drug seizures worldwide—which more than doubled in 1972 over the 1971 level.
 
@@ -938,7 +938,7 @@ The major responsibility of the Drug Enforcement Administration would thus inclu
 
 &emsp;—regulation of the legal manufacture of drugs and other controlled substances under Federal regulations.
 
-The Attorney General, working closely with the Administrator of this new agency, would have authority to make needed program adjustments. He would take steps within the Department of Justice to ensure that high priority emphasis is placed on the prosecution and sentencing of drug traffickers following their apprehension by the enforcement organization. He would also have the authority and responsibility for securing the fullest possible cooperation-particularly with respect to collection of drug intelligence—from all Federal departments and agencies which can contribute to the anti-drug work, including the Internal Revenue Service and the Federal Bureau of Investigation.
+The Attorney General, working closely with the Administrator of this new agency, would have authority to make needed program adjustments. He would take steps within the Department of Justice to ensure that high priority emphasis is placed on the prosecution and sentencing of drug traffickers following their apprehension by the enforcement organization. He would alsohave the authority and responsibility for securing the fullest possible cooperation-particularly with respect to collection of drug intelligence—from all Federal departments and agencies which can contribute to the anti-drug work, including the Internal Revenue Service and the Federal Bureau of Investigation.
 
 My proposals would make possible a more effective antidrug role for the FBI, especially in dealing with the relationship between drug trafficking and organized crime. I intend to see that the resources of the FBI are fully committed to assist in supporting the new Drug Enforcement Administration.
 
@@ -992,7 +992,7 @@ The White House, March 28, 1973
 
 #### Ex. Ord. No. 12146. Management of Federal Legal Resources
 
-Ex. Ord. No. 12146, July 18, 1979, 44 F.R. 42657, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R.34617; Ex. Ord. No. 13286, §53, Feb. 28, 2003, 68 F.R. 10628, provided:
+Ex. Ord. No. 12146, July 18, 1979, 44 F.R. 42657, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §53, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, it is hereby ordered as follows:
 
@@ -1104,7 +1104,7 @@ Automated Legal Research and Information Systems
 
 Responsibilities of the Agencies
 
-1–701. Each agency shall (a) review the management and operation of its legal activities and report in one year to the Federal Legal Council all steps being taken to improve those operations, and (b) cooperate with the Federal Legal Council and the Attorney General in the performance of the functions provided by this Order.
+1–701. Each agency shall (a) review the management and operation of its legal activities and report in oneyear to the Federal Legal Council all steps being taken to improve those operations, and (b) cooperate with the Federal Legal Council and the Attorney General in the performance of the functions provided by this Order.
 
 1–702. To the extent permitted by law, each agency shall furnish the Federal Legal Council and the Attorney General with reports, information and assistance as requested to carry out the provisions of this Order.
 

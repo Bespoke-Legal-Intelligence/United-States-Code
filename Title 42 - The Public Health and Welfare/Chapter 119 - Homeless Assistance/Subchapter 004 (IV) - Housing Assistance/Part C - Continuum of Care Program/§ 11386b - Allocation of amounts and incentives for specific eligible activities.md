@@ -12,7 +12,7 @@
 
 #### (3) Adjustment
 
-&emsp;The 30 percent figure in paragraph (1) shall be reduced proportionately based on need under section 11386a(b)(2) of this title in geographic areas for which subsection (e) applies in regard to subsection (d)(2)(A).
+&emsp;The 30 percent figure in paragraph (1) shall be reduced proportionately based on needunder section 11386a(b)(2) of this title in geographic areas for which subsection (e) applies in regard to subsection (d)(2)(A).
 
 #### (4) Suspension
 
@@ -28,7 +28,7 @@ From the amounts made available to carry out this part for a fiscal year, a port
 
 #### (c) Treatment of amounts for permanent or transitional housing
 
-Nothing in this chapter may be construed to establish a limit on the amount of funding thatan applicant may request under this part for acquisition, construction, or rehabilitation activities for the development of permanent housing or transitional housing.
+Nothing in this chapter may be construed to establish a limit on the amount of funding that an applicant may request under this part for acquisition, construction, or rehabilitation activities for the development of permanent housing or transitional housing.
 
 #### (d) Incentives for proven strategies
 

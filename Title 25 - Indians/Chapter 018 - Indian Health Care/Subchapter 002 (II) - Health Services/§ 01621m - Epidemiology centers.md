@@ -18,7 +18,7 @@
 
 #### (3) Funds not divisible
 
-&emsp;An epidemiology center established under this subsection shall be subject to the IndianSelf-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), but the funds for the center shall not be divisible.
+&emsp;An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), but the funds for the center shall not be divisible.
 
 #### (b) Functions of centers
 

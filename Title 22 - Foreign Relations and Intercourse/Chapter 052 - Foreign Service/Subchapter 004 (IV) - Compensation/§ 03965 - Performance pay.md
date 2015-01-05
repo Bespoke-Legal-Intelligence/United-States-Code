@@ -2,13 +2,13 @@
 
 #### (a) Eligibility; additional lump sum payment; excessive compensation not precluding award
 
-Subject to subsection (e) of this section, members of the Senior Foreign Service who are serving—
+Subject to subsection (e), members of the Senior Foreign Service who are serving—
 
 &emsp;(1) under career or career candidate appointments, or
 
 &emsp;(2) under limited appointments with reemployment rights under section 3950 of this title as career appointees in the Senior Executive Service,
 
-> shall be eligible to compete for performance pay in accordance with this section. Performance pay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performance pay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
+> shall be eligible to compete for performance pay in accordance with this section. Performancepay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performance pay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
 
 #### (b) Criteria; limitations
 
@@ -26,15 +26,15 @@ Awards of performance pay shall take into account the criteria established by th
 
 #### (c) Determination of amount by Secretary; distribution on basis of selection board recommendations
 
-The Secretary shall determine the amount of performance pay available under subsection (b)(2) of this section each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
+The Secretary shall determine the amount of performance pay available under subsection (b)(2) each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
 
 #### (d) Recommendations for meritorious or distinguished service awards
 
-The President may grant awards of performance pay under subsection (b)(3) of this section on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
+The President may grant awards of performance pay under subsection (b)(3) on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
 
 #### (e) Recognition in lieu of award
 
-Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) of this section (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
+Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
 
 (Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, §504(a), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §323\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 107–228, div. A, title III, §312(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 108–447, div. B, title IV, §412(b), Dec. 8, 2004, 118 Stat. 2905.)
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of law, the Secretary of State may provide f
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–113 substituted "33" for "50".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §2311(a)(1), substituted "Subject to subsection (e) of this section, members" for "Members" in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §2311(a)(1), substituted "Subject to subsection (e), members" for "Members" in introductory provisions.
 
 Subsec. (d). Pub. L. 105–292 inserted "Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section." after first sentence.
 
@@ -66,7 +66,7 @@ Pub. L. 103–236, title I, §173(a)–(c), Apr. 30, 1994, 108 Stat. 412, as ame
 
 "(a)
 
-Prohibition on Awards.—Notwithstanding any other provision of law, the Secretary of State may notaward or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
+Prohibition on Awards.—Notwithstanding any other provision of law, the Secretary of State may not award or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
 
 "(b)
 

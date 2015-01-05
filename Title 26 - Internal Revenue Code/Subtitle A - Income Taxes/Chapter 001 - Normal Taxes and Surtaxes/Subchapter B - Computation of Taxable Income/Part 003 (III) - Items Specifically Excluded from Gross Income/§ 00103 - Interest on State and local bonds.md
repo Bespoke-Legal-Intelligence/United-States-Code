@@ -164,7 +164,7 @@ Subsec. (n). Pub. L. 97–424, §547(a), redesignated former subsec. (m), relati
 
 <b>1982</b>—Subsec. (b)(2). Pub. L. 97–248, §215(b)(2), substituted "For purposes of this section" for "For purposes of this subsection".
 
-Subsec. (b)(4). Pub. L. 97–248, §§217(a)(1), (b), 221(a), (c)(1), 310(c)(1), in subpar. (A) substituted "if at all times during the qualified project period" for "if each obligation issued pursuant to the issue is in registered form and if" after "residential rental property", and struck out "(within the meaning of section 167(k)(3)(B))" after "low or moderate income", added subpar. (J), struck out provision that for purposes of subpar. (A), "targeted area project" meant a project located in a qualified census tract (within the meaning of section 103A(k)(2)) or an area of chronic economic distress (within the meaning of section 103A(k)(3)) and, in last sentence, substituted "electric energy or gas from" for "electric energy from".
+Subsec. (b)(4). Pub. L. 97–248, §§217(a)(1), (b), 221(a), (c)(1), 310(c)(1), in subpar. (A) substituted "if at all times during the qualified project period" for "if eachobligation issued pursuant to the issue is in registered form and if" after "residential rental property", and struck out "(within the meaning of section 167(k)(3)(B))" after "low or moderate income", added subpar. (J), struck out provision that for purposes of subpar. (A), "targeted area project" meant a project located in a qualified census tract (within the meaning of section 103A(k)(2)) or an area of chronic economic distress (within the meaning of section 103A(k)(3)) and, in last sentence, substituted "electric energy or gas from" for "electric energy from".
 
 Subsec. (b)(6)(C). Pub. L. 97–248, §217(a)(3), substituted "paragraph (13)" for "paragraph (7)".
 
@@ -274,7 +274,7 @@ Subsec. (d). Pub. L. 90–364 redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1013(a)(34)(B), Nov. 10, 1988, 102 Stat. 3544, provided that: "Subparagraph (A)\[amending this section\] shall apply to obligations sold after May 2, 1978, and to which Treasury regulation section 1.103–13 (1979) was provided to apply."
+Pub. L. 100–647, title I, §1013(a)(34)(B), Nov. 10, 1988, 102 Stat. 3544, provided that: "Subparagraph (A) \[amending this section\] shall apply to obligations sold after May 2, 1978, and to which Treasury regulation section 1.103–13 (1979) was provided to apply."
 
 #### Effective Date of 1986 Amendment
 
@@ -583,7 +583,7 @@ Termination.—The amendment made by subsection (c) \[amending this section\] sh
 
 "(3)
 
-Research expenditures.—The amendment made by subsection (d) \[amending this section\] shall applywith respect to expenditures made after the date of the enactment of this Act \[Sept. 3, 1982\].
+Research expenditures.—The amendment made by subsection (d) \[amending this section\] shall apply with respect to expenditures made after the date of the enactment of this Act \[Sept. 3, 1982\].
 
 "(4)
 
@@ -667,7 +667,7 @@ Pub. L. 95–600, title III, §331(c), Nov. 6, 1978, 92 Stat. 2840, provided tha
 
 Pub. L. 95–600, title III, §332(b), Nov. 6, 1978, 92 Stat. 2840, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after April 30, 1968, but only with respect to obligations issued after such date."
 
-Pub. L. 95–600, title III, §333(b), Nov. 6, 1978, 92 Stat. 2840, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date."
+Pub. L. 95–600, title III, §333(b), Nov. 6, 1978, 92 Stat. 2840, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of thisAct \[Nov. 6, 1978\] in taxable years ending after such date."
 
 Pub. L. 95–600, title III, §334(c), Nov. 6, 1978, 92 Stat. 2841, provided that: "The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\]."
 
@@ -763,7 +763,7 @@ Solid waste disposal facility.—A solid waste disposal facility is described in
 
 &emsp;&emsp;"(i) such facility is operated by the South Eastern Public Service Authority of Virginia, and
 
-&emsp;&emsp;"(ii) on December 20, 1984, the Internal Revenue Service issued a ruling concluding that a portion of the obligations with respect to such facility wouldnot be treated as federally guaranteed under section 103(h) of such Code by reason of the transitional rule contained in section 631(c)(3)(A)(i) of the Tax Reform Act of 1984 \[section 631(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\],
+&emsp;&emsp;"(ii) on December 20, 1984, the Internal Revenue Service issued a ruling concluding that a portion of the obligations with respect to such facility would not be treated as federally guaranteed under section 103(h) of such Code by reason of the transitional rule contained in section 631(c)(3)(A)(i) of the Tax Reform Act of 1984 \[section 631(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\],
 
 &emsp;"(C) if—
 
@@ -845,7 +845,7 @@ Tax increment bonds.—The amendment made by section 626(a) of the Tax Reform Ac
 
 &emsp;&emsp;"(i) sewer, street, lighting, or other governmental improvements to real property,
 
-&emsp;&emsp;"(ii) the acquisition of any interest in real property (by a governmental unit having the power to exercise eminent domain), the preparation of such property for new use, or the transfer of such interest to a private developer, or
+&emsp;&emsp;"(ii) the acquisition of any interest in real property (by a governmental unit having the power toexercise eminent domain), the preparation of such property for new use, or the transfer of such interest to a private developer, or
 
 &emsp;&emsp;"(iii) payments of reasonable relocation costs of prior users of such real property,
 
@@ -853,7 +853,7 @@ Tax increment bonds.—The amendment made by section 626(a) of the Tax Reform Ac
 
 &emsp;"(C) repayment of such issue is secured exclusively by pledges of that portion of any increase in real property tax revenues (or their equivalent) attributable to the redevelopment resulting from the issue (or similar issues), and
 
-&emsp;"(D) none of the property described in subparagraph (A) is subject to a real property or other tax based ona rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
+&emsp;"(D) none of the property described in subparagraph (A) is subject to a real property or other tax based on a rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
 
 "(4)
 
@@ -1067,7 +1067,7 @@ Pub. L. 96–223, title II, §241(b), Apr. 2, 1980, 94 Stat. 282, as amended by 
 
 "(1)
 
-General rule.—For purposes of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], any obligation issued by an authority for 2 or more political subdivisions of a State which is part of an issue substantially all of the proceeds of which are to be used to provide solid waste-energy producing facilities shall be treated as an obligation of a political subdivision of a State which meets the requirements of section 103(b)(4)(E) of such Code (relating to solid waste disposal, etc., facilities). Nothing in the preceding sentence shall be construed to override the limitations of section 103(c) of such Code (relating to arbitrage bonds).
+General rule.—For purposes of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], any obligation issued by an authority for 2 or more political subdivisions of a State which is part of an issue substantially all of the proceeds of which are to be usedto provide solid waste-energy producing facilities shall be treated as an obligation of a political subdivision of a State which meets the requirements of section 103(b)(4)(E) of such Code (relating to solid waste disposal, etc., facilities). Nothing in the preceding sentence shall be construed to override the limitations of section 103(c) of such Code (relating to arbitrage bonds).
 
 "(2)
 
@@ -1075,7 +1075,7 @@ Solid waste-energy producing facilities.—For purposes of paragraph (1), the te
 
 &emsp;"(A) substantially all of the fuel for the facility producing steam and electrical energy is derived from solid waste from such solid waste disposal facility,
 
-&emsp;"(B) both such solid waste disposal facility and the facility producing steam and electrical energy areowned and operated by the authority referred to in paragraph (1), and
+&emsp;"(B) both such solid waste disposal facility and the facility producing steam and electrical energy are owned and operated by the authority referred to in paragraph (1), and
 
 &emsp;"(C) all of the electrical energy and steam produced by the facility for producing steam and electricity which is not used by such facility is sold, for purposes other than resale, to an agency or instrumentality of the United States.
 
@@ -1191,7 +1191,7 @@ Pub. L. 95–600, title III, §337, Nov. 6, 1978, 92 Stat. 2842, as amended by P
 
 General Rule.—The payment to a charitable organization of a refund profit held in a trust fund or escrow arrangement, or held by an underwriter or other person under a qualified agreement in accordance with that agreement—
 
-&emsp;"(1) shall not cause the refunding obligations out of which the refund profit arose to be treated as arbitrage bonds (within the meaning of section 103(c) ofthe Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and
+&emsp;"(1) shall not cause the refunding obligations out of which the refund profit arose to be treated as arbitrage bonds (within the meaning of section 103(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and
 
 &emsp;"(2) may be paid without penalty imposed on the issuer of such obligations.
 

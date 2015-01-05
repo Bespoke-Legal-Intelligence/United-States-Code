@@ -14,7 +14,7 @@ No funds made available under this part to a local educational agency for an ele
 
 &emsp;(B) is enforcing the operation of such technology protection measure during any use of such computers by minors; and
 
-&emsp;(2)(A) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of itscomputers with Internet access that protects against access through such computers to visual depictions that are—
+&emsp;(2)(A) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
 
 &emsp;&emsp;(i) obscene; or
 
@@ -84,7 +84,7 @@ In this subpart:
 
 #### (1) Computer
 
-&emsp;The term "computer" includes any hardware, software, or other technology attachedor connected to, installed in, or otherwise used in connection with a computer.
+&emsp;The term "computer" includes any hardware, software, or other technology attached or connected to, installed in, or otherwise used in connection with a computer.
 
 #### (2) Access to Internet
 

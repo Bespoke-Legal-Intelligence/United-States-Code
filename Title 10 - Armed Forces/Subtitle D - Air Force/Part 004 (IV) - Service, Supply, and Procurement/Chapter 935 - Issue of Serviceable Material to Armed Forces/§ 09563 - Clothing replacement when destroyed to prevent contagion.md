@@ -1,6 +1,6 @@
 ### §9563. Clothing: replacement when destroyed to prevent contagion
 
-The Secretary of the Air Force may order a gratuitous issue of clothing to any enlisted member of the Air Force who has had a contagious disease, and to any hospital attendant who attended him while he had that disease, to replace clothing destroyed by order of a medical officer to prevent contagion.
+The Secretary of the Air Force may order a gratuitous issue of clothing to any enlistedmember of the Air Force who has had a contagious disease, and to any hospital attendant who attended him while he had that disease, to replace clothing destroyed by order of a medical officer to prevent contagion.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 577.)
 

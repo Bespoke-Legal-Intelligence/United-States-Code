@@ -28,7 +28,7 @@ Minor changes were made in phraseology.
 
 <b>2013</b>—Pub. L. 112–239, §1084(b)(4), inserted at end "For purposes of this section the term 'veterans' memorial object' means a grave marker, headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran's grave, or any monument that signifies an event of national military historical significance."
 
-Pub. L. 112–239, §1084(b)(3), inserted at end of fifth par. "If the offense involves the receipt, possession,concealment, storage, barter, sale, or disposal of veterans' memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both."
+Pub. L. 112–239, §1084(b)(3), inserted at end of fifth par. "If the offense involves the receipt, possession, concealment, storage, barter, sale, or disposal of veterans' memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both."
 
 Pub. L. 112–239, §1084(b)(1), (2), inserted fourth par. relating to veterans' memorial objects.
 

@@ -32,7 +32,7 @@
 
 An eligible entity that desires to receive a grant under subsection (a) shall submit an application to the Secretary in such form and manner, and containing such information, as the Secretary may decide. Such application shall include—
 
-&emsp;(1) evidence demonstrating that the entity includes members who have access to, and credibility with, ethnic or low-income populations in the communities in which activities funded under the grant are to be conducted;
+&emsp;(1) evidence demonstrating that the entity includes members who have access to, andcredibility with, ethnic or low-income populations in the communities in which activities funded under the grant are to be conducted;
 
 &emsp;(2) evidence demonstrating that the entity has the ability to address barriers to enrollment, such as lack of awareness of eligibility, stigma concerns and punitive fears associated with receipt of benefits, and other cultural barriers to applying for and receiving child health assistance or medical assistance;
 
@@ -120,7 +120,7 @@ In this section:
 
 #### (g) Appropriation
 
-There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
+There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000for the period of fiscal years 2009 through 2015, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
 
 #### (h) National enrollment campaign
 

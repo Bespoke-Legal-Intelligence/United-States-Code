@@ -4,13 +4,13 @@
 
 Funds appropriated to the Architect of the Capitol shall be available—
 
-&emsp;(1) for the leasing of space in areas within the District of Columbia and its environs beyond the boundaries of the United States Capitol Grounds to meet space requirements of the United States Senate, United States House of Representatives, United States Capitol Police, and the Architect of the Capitol under such terms and conditions as the Committee or Commission referred to under subsection (b) of this section may authorize; and
+&emsp;(1) for the leasing of space in areas within the District of Columbia and its environs beyond the boundaries of the United States Capitol Grounds to meet space requirements of the United States Senate, United States House of Representatives, United States Capitol Police, and the Architect of the Capitol under such terms and conditions as the Committee or Commission referred to under subsection (b) may authorize; and
 
 &emsp;(2) to incur any necessary expense in connection with any leasing of space under paragraph (1).
 
 #### (b) Conditions to lease space
 
-The Architect of the Capitol may lease space under subsection (a) of this section upon submission of written notice of intent to lease such space to, and approved by—
+The Architect of the Capitol may lease space under subsection (a) upon submission of written notice of intent to lease such space to, and approved by—
 
 &emsp;(1) the Committees on Appropriations and Rules and Administration of the Senate for space to be leased for the Senate;
 
@@ -30,13 +30,13 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–161, §1306(a)(1), substituted “Committees on Appropriations and Rules and Administration” for “Committee on Rules and Administration”.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–161, §1306(a)(1), substituted "Committees on Appropriations and Rules and Administration" for "Committee on Rules and Administration".
 
-Subsec. (b)(2). Pub. L. 110–161, §1306(a)(2), substituted “the Committee on Appropriations of the House of Representatives and the House Office Building Commission” for “the House Office Building Commission”.
+Subsec. (b)(2). Pub. L. 110–161, §1306(a)(2), substituted "the Committee on Appropriations of the House of Representatives and the House Office Building Commission" for "the House Office Building Commission".
 
-Subsec. (b)(3). Pub. L. 110–161, §1306(a)(3), substituted “, for space to be leased for any other entity under subsection (a).” for period at end.
+Subsec. (b)(3). Pub. L. 110–161, §1306(a)(3), substituted ", for space to be leased for any other entity under subsection (a)." for period at end.
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §1306(b), Dec. 26, 2007, 121 Stat. 2243, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2004 \[Pub. L. 108–83\].”
+Pub. L. 110–161, div. H, title I, §1306(b), Dec. 26, 2007, 121 Stat. 2243, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2004 \[Pub. L. 108–83\]."
 

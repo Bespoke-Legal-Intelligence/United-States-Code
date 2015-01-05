@@ -22,7 +22,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (2) Reduction of rate after decline in Treasury bill rates
 
-&emsp;If for any 12-month period beginning on or after October 1, 1981, the Secretary, after consultation with the Secretary of the Treasury, determines that the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 12-month period is equal to or less than 14 percent, the applicable rate of interestfor loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on and after the first day of the first month beginning after the date of publication of such determination shall be 12 percent per year on the unpaid principal balance of the loan.
+&emsp;If for any 12-month period beginning on or after October 1, 1981, the Secretary, after consultation with the Secretary of the Treasury, determines that the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 12-month period is equal to or less than 14 percent, the applicable rate of interest for loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on and after the first day of the first month beginning after the date of publication of such determination shall be 12 percent per year on the unpaid principal balance of the loan.
 
 #### (3) Increase of rate after increase in Treasury bill rates
 
@@ -174,7 +174,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 &emsp;&emsp;(A) 10 percent minus the sum of (i) the average of the bond equivalent rates of 91-day Treasury bills auctioned for such calendar quarter, and (ii) 3.25 percent; multiplied by
 
-&emsp;&emsp;(B) the average daily principal balance of the loan (not including unearned interestadded to principal) during such calendar quarter; divided by
+&emsp;&emsp;(B) the average daily principal balance of the loan (not including unearned interest added to principal) during such calendar quarter; divided by
 
 &emsp;&emsp;(C) four.
 
@@ -294,7 +294,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (5) Consultation
 
-&emsp;The Secretary shall determine the applicable rate of interest under this subsection afterconsultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+&emsp;The Secretary shall determine the applicable rate of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 #### (l) Interest rates for new loans on or after July 1, 2006, and before July 1, 2010
 
@@ -308,7 +308,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) Consolidation loans
 
-&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after July 1, 2006, and that was disbursed before July 1, 2010, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;With respect to any consolidation loan under section 1078–3 of this title for which theapplication is received by an eligible lender on or after July 1, 2006, and that was disbursed before July 1, 2010, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;(A) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of 1 percent; or
 

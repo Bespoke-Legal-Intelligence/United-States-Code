@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (3) Counternarcotics efforts
 
-&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan andthe region, with particular emphasis on assistance to—
+&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
 
 &emsp;&emsp;(i) eradicate opium poppy, promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
 
@@ -106,7 +106,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
-&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
+&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory natureof governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
 &emsp;&emsp;&emsp;(vi) support for establishment of a central bank and central budgeting authority;
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (A) Assistance objectives
 
-&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights,health care, education, training, security, and shelter, with particular emphasis on assistance—
+&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights, health care, education, training, security, and shelter, with particular emphasis on assistance—
 
 &emsp;&emsp;&emsp;(i) to support construction of, provide equipment and medical supplies to, and otherwise facilitate the establishment and rehabilitation of, health care facilities in order to improve the health care of women, children, and infants;
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(xi) to provide women's rights and human rights training for military, police, and legal personnel; and
 
-&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom, freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
+&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom,freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
 
 #### (B) Availability of funds
 
@@ -198,7 +198,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (1) In general
 
-&emsp;Amounts made available to carry out this subchapter (except amounts made available for assistance under paragraphs (1) through (3) and subparagraphs (F) through (I) of paragraph (4) of subsection (a) of this section) may be provided only if the President first determines and certifies to Congress with respect to the fiscal year involved that progress is being made toward adopting a constitution and establishing a democratically elected government for Afghanistan that respects human rights.
+&emsp;Amounts made available to carry out this subchapter (except amounts made available for assistance under paragraphs (1) through (3) and subparagraphs (F) through (I) of paragraph (4) of subsection (a)) may be provided only if the President first determines and certifies to Congress with respect to the fiscal year involved that progress is being made toward adopting a constitution and establishing a democratically elected government for Afghanistan that respects human rights.
 
 #### (2) Waiver
 
@@ -262,7 +262,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 108–458, §7104(j)(1)(A), substituted "promote a
 
 Subsec. (a)(3)(A)(ii). Pub. L. 108–458, §7104(j)(1)(B), inserted ", and to create special counternarcotics courts, prosecutors, and places of incarceration" before semicolon at end.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end ", in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units".
+Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end ", in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training ininternationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units".
 
 Subsec. (a)(3)(A)(vi). Pub. L. 108–458, §7104(j)(1)(D)–(F), added cl. (vi).
 
@@ -338,7 +338,7 @@ In general.—Subject to paragraph (2), to carry out the program authorized unde
 
 &emsp;"(2)
 
-Limitation.—The Secretary of Defense may use not more than 50 percent of the amount specified in paragraph (1) for a fiscal year after fiscal year 2011 to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for such fiscal year, including for each project, or phase of aproject, to be initiated during such fiscal year the following:
+Limitation.—The Secretary of Defense may use not more than 50 percent of the amount specified in paragraph (1) for a fiscal year after fiscal year 2011 to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for such fiscal year, including for each project, or phase of a project, to be initiated during such fiscal year the following:
 
 &emsp;&emsp;"(A) An estimate of the financial and other requirements necessary to sustain such project on an annual basis after the completion of such project.
 
@@ -480,7 +480,7 @@ Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), the President is authorized, on such terms and conditions as the President may determine, to provide educational and health care assistance for the women and children living in Afghanistan and as refugees in neighboring countries.
+In General.—Subject to subsection (b), the President is authorized, on such terms and conditionsas the President may determine, to provide educational and health care assistance for the women and children living in Afghanistan and as refugees in neighboring countries.
 
 "(b)
 

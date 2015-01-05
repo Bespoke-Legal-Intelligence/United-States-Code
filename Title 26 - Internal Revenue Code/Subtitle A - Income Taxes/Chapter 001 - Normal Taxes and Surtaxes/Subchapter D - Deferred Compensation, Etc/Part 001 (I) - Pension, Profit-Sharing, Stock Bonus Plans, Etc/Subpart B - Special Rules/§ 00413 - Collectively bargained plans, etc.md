@@ -40,7 +40,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 &emsp;&emsp;(B) then on the basis of their respective liabilities for contributions under the plan.
 
-> &emsp;For purposes of this subsection and the last sentence of section 4971(a),<sup>1</sup> an employer'swithdrawal liability under part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 shall not be treated as a liability for contributions under the plan.
+> &emsp;For purposes of this subsection and the last sentence of section 4971(a),<sup>1</sup> an employer's withdrawal liability under part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 shall not be treated as a liability for contributions under the plan.
 
 #### (7) Deduction limitations
 
@@ -108,13 +108,33 @@ In the case of a plan maintained by more than one employer—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), allocations of amounts under paragraphs (4),\(5), and (6) among the employers maintaining the plan shall not be inconsistent with regulations prescribed for this purpose by the Secretary.
+&emsp;&emsp;Except as provided in subparagraph (B), allocations of amounts under paragraphs (4), (5), and (6) among the employers maintaining the plan shall not be inconsistent with regulations prescribed for this purpose by the Secretary.
 
 #### (B) Assets and liabilities of plan
 
 &emsp;&emsp;For purposes of applying paragraphs (4)(A) and (6)(A), the assets and liabilities of each plan shall be treated as the assets and liabilities which would be allocated to a plan maintained by the employer if the employer withdrew from the multiple employer plan.
 
-(Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518.)
+#### (d) CSEC plans
+
+Notwithstanding any other provision of this section, in the case of a CSEC plan—
+
+#### (1) Funding
+
+&emsp;The requirements of section 412 shall be determined as if all participants in the plan were employed by a single employer.
+
+#### (2) Application of provisions
+
+&emsp;Paragraphs (1), (2), (3), and (5) of subsection (c) shall apply.
+
+#### (3) Deduction limitations
+
+&emsp;Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed such applicable limitation if the anticipated employer contributions for such plan year of all employers (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
+
+#### (4) Allocations
+
+&emsp;Allocations of amounts under paragraph (3) and subsection (c)(5) among the employers maintaining the plan shall not be inconsistent with the regulations prescribed for this purpose by the Secretary.
+
+(Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 113–97, title II, §202(b), Apr. 7, 2014, 128 Stat. 1134.)
 
 #### References in Text
 
@@ -125,6 +145,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(
 The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–97 added subsec. (d).
 
 <b>1990</b>—Subsec. (c)(7)(B). Pub. L. 101–508 substituted "Assets" for "Asset" in heading.
 
@@ -142,6 +164,10 @@ Subsec. (c)(7). Pub. L. 100–647, §6058(c), added par. (7).
 
 <b>1976</b>—Subsecs. (b), (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
@@ -150,7 +176,7 @@ Pub. L. 100–647, title VI, §6058(d), Nov. 10, 1988, 102 Stat. 3699, provided 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under section 418 of this title.
+Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under section 194A of this title.
 
 #### Effective Date
 

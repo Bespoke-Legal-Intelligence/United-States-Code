@@ -6,7 +6,7 @@ Withholding of Apportionments for Noncompliance.—
 
 &emsp;(1)
 
-Prior to fiscal year 2012.—The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to anyState under each of paragraphs (1), (3), and (4) of section 104(b) <sup>1</sup> on October 1, 1999, and on October 1 of each fiscal year thereafter through fiscal year 2011, if the State does not meet the requirement of paragraph (3) on that date.
+Prior to fiscal year 2012.—The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b) <sup>1</sup> on October 1, 1999, and on October 1 of each fiscal year thereafter through fiscal year 2011, if the State does not meet the requirement of paragraph (3) on that date.
 
 &emsp;(2)
 

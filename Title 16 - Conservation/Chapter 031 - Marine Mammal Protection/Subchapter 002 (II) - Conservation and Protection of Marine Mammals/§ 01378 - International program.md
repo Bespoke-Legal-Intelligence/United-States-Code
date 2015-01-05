@@ -12,7 +12,7 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;&emsp;(B) discussions with foreign governments whose vessels harvest yellowfin tuna with purse seines in the eastern tropical Pacific Ocean, for the purpose of concluding, through the Inter-American Tropical Tuna Commission or such other bilateral or multilateral institutions as may be appropriate, international arrangements for the conservation of marine mammals taken incidentally in the course of harvesting such tuna, which should include provisions for (i) cooperative research into alternative methods of locating and catching yellowfin tuna which do not involve the taking of marine mammals, (ii) cooperative research on the status of affected marine mammal population stocks, (iii) reliable monitoring of the number, rate, and species of marine mammals taken by vessels of harvesting nations, (iv) limitations on incidental take levels based upon the best scientific information available, and (v) the use of the best marine mammal safety techniques and equipment that are economically and technologically practicable to reduce the incidental kill and serious injury of marine mammals to insignificant levels approaching a zero mortality and serious injury rate;
 
-&emsp;&emsp;(C) negotiations to revise the Convention for the Establishment of an Inter-AmericanTropical Tuna Commission (1 U.S.T. 230; TIAS 2044) which will incorporate—
+&emsp;&emsp;(C) negotiations to revise the Convention for the Establishment of an Inter-American Tropical Tuna Commission (1 U.S.T. 230; TIAS 2044) which will incorporate—
 
 &emsp;&emsp;&emsp;(i) the conservation and management provisions agreed to by the nations which have signed the Declaration of Panama and in the Straddling Fish Stocks and Highly Migratory Fish Stocks Agreement, as opened for signature on December 4, 1995; and
 
@@ -34,7 +34,7 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;(A) in consultation with the Marine Mammal Commission established by section 1401 of this title, undertake a study of the North Pacific fur seals to determine whether herds of such seals subject to the jurisdiction of the United States are presently at their optimum sustainable population and what population trends are evident; and
 
-&emsp;(B) in consultation with the Secretary of State, promptly undertake a comprehensive study of the provisions of this chapter, as they relate to North Pacific fur seals, and the provisions of the North Pacific Fur Seal Convention signed on February 9, 1957, as extended (hereafter referred to in this subsection as the "Convention"), to determine what modifications, if any, should be made to the provisions of the Convention, or of this chapter, or both, to make the Convention and this chapter consistent with each other.
+&emsp;(B) in consultation with the Secretary of State, promptly undertake a comprehensive study of the provisions of this chapter, as theyrelate to North Pacific fur seals, and the provisions of the North Pacific Fur Seal Convention signed on February 9, 1957, as extended (hereafter referred to in this subsection as the "Convention"), to determine what modifications, if any, should be made to the provisions of the Convention, or of this chapter, or both, to make the Convention and this chapter consistent with each other.
 
 > The Secretary shall complete the studies required under this paragraph not later than one year after October 21, 1972, and shall immediately provide copies thereof to Congress.
 

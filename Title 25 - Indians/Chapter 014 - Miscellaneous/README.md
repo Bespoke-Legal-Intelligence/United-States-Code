@@ -10,6 +10,7 @@
 | [443a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443a%20-%20Conveyance%20to%20Indian%20tribes%20of%20federally%20owned%20buildings%2C%20improvements%2C%20or%20facilities%3B%20disposition%20of%20property%20by%20Indians%3B%20forfeiture%E2%80%A6.md) | Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; "Indian" defined. |
 | [443b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443b%20-%20Indian%20goods%20and%20supplies.md) | Indian goods and supplies. |
 | [443c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443c%20-%20Emergency%20plan%20for%20Indian%20safety%20and%20health.md) | Emergency plan for Indian safety and health. |
+| [443d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443d%20-%20Service%20of%20traditional%20foods%20in%20public%20facilities.md) | Service of traditional foods in public facilities. |
 | 444 to 449. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -214,6 +215,7 @@
 | [486\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000486%20-%20Regulations.md) | Regulations. |
 | [487\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000487%20-%20Spokane%20Indian%20Reservation%3B%20consolidations%20of%20land.md) | Spokane Indian Reservation; consolidations of land. |
 | [488\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000488%20-%20Loans%20to%20purchasers%20of%20highly%20fractioned%20land.md) | Loans to purchasers of highly fractioned land. |
+| [488a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000488a%20-%20Removal%20of%20duplicative%20appraisals.md) | Removal of duplicative appraisals. |
 | [489\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000489%20-%20Title%20in%20trust%20to%20United%20States.md) | Title in trust to United States. |
 | [490\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000490%20-%20Tribal%20rights%20and%20privileges%20in%20connection%20with%20loans.md) | Tribal rights and privileges in connection with loans. |
 | [491\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000491%20-%20Mortgaged%20property%20governed%20by%20State%20law.md) | Mortgaged property governed by State law. |

@@ -76,7 +76,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(F) The term "exit point" means the area in close proximity to an actual exit for departing from the customs territory, including the gate holding area in the case of an airport, but only if there is reasonable assurance that duty-free merchandise delivered in the gate holding area will be exported from the customs territory.
 
-&emsp;(G) The term "personal use quantities" means quantities that are only suitable for uses other than resale, and includes reasonable quantities for household or family consumption as well as for gifts to others.
+&emsp;(G) The term "personal use quantities" means quantities that are only suitable foruses other than resale, and includes reasonable quantities for household or family consumption as well as for gifts to others.
 
 #### (c) International travel merchandise
 
@@ -102,7 +102,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(A) The proprietor of a bonded warehouse established for the storage and manipulation of international travel merchandise shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. The warehouse proprietor's bond shall also secure the manipulation of international travel merchandise in a staging area.
 
-&emsp;(B) A transfer of liability from the international carrier to the warehouse proprietor occurs when the carrier assigns custody ofinternational travel merchandise to the warehouse proprietor for purposes of entry into warehouse or for manipulation in the staging area.
+&emsp;(B) A transfer of liability from the international carrier to the warehouse proprietor occurs when the carrier assigns custody of international travel merchandise to the warehouse proprietor for purposes of entry into warehouse or for manipulation in the staging area.
 
 &emsp;(C) A transfer of liability from the warehouse proprietor to the international carrier occurs when the bonded warehouse proprietor assigns custody of international travel merchandise to the carrier.
 
@@ -134,7 +134,7 @@ Prior provisions dealing with the subject matter of this section were contained 
 
 <b>1990</b>—Subsec. (b)(6). Pub. L. 101–382, which directed substitution of "subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States" for "subpart A of part 2 of schedule 8 of the Tariff schedules of the United States", was executed by making the substitution for "subpart A of part 2 of schedule 8 of the Tariff Schedules of the United States" to reflect the probable intent of Congress.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–418 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "If a State or local governmental authority, incident to its jurisdiction over any airport, seaport, or other exit point facility, requires that a concession or other form of approval be obtained from that authority with respect to the operation of a duty-free sales enterprise under which merchandise is delivered to such facility for exportation, merchandise incident to such operation may not be withdrawn from a bonded warehouse and transferred to such facility unless the operator of the duty-free sales enterprise demonstrates to the Secretary of the Treasury that the concession or approval required for the enterprise has been obtained. For purposes of this subsection, the term 'duty-free sales enterprise' means an entity that sells, in less than wholesale quantities, duty-free or tax-free merchandise that is delivered from a bonded warehouse to an airport, seaport, or point of exit from the United States for exportation by, or on behalf of, individuals departing from the United States."
+<b>1988</b>—Subsec. (b). Pub. L. 100–418 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "If a State or local governmental authority, incident to its jurisdiction over any airport, seaport, orother exit point facility, requires that a concession or other form of approval be obtained from that authority with respect to the operation of a duty-free sales enterprise under which merchandise is delivered to such facility for exportation, merchandise incident to such operation may not be withdrawn from a bonded warehouse and transferred to such facility unless the operator of the duty-free sales enterprise demonstrates to the Secretary of the Treasury that the concession or approval required for the enterprise has been obtained. For purposes of this subsection, the term 'duty-free sales enterprise' means an entity that sells, in less than wholesale quantities, duty-free or tax-free merchandise that is delivered from a bonded warehouse to an airport, seaport, or point of exit from the United States for exportation by, or on behalf of, individuals departing from the United States."
 
 <b>1984</b>—Pub. L. 98–573 designated existing provisions as subsec. (a), substituted "Subject to subsection (b) of this section, buildings" for "Buildings", and added subsec. (b).
 

@@ -146,7 +146,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters fromthe Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
+&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from the Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
 
 &emsp;&emsp;(A) that the continued marketing of such tobacco product no longer is appropriate for the protection of the public health;
 
@@ -172,7 +172,7 @@
 
 #### (3) Temporary suspension
 
-&emsp;If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a tobacco product under an order would cause serious, adverse health consequences or death, that is greater than ordinarily caused by tobacco products on the market, the Secretary shall by order temporarily suspend the authority of the manufacturer to market the product. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
+&emsp;If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a tobacco product under an order would cause serious, adverse health consequences or death, that is greater than ordinarily caused by tobacco products on the market, the Secretary shall by order temporarily suspend the authority of the manufacturer to market the product. If the Secretary issues such an order, the Secretaryshall proceed expeditiously under paragraph (1) to withdraw such application.
 
 #### (e) Service of order
 

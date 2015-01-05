@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) In addition to the benefits to which a State, an affected unit of local government orIndian tribe is entitled under this subchapter, the Secretary shall make payments to a State or Indian tribe that is a party to a benefits agreement under section 10173 of this title in accordance with the following schedule:
+(1) In addition to the benefits to which a State, an affected unit of local government or Indian tribe is entitled under this subchapter, the Secretary shall make payments to a State or Indian tribe that is a party to a benefits agreement under section 10173 of this title in accordance with the following schedule:
 
 BENEFITS SCHEDULE<br>(amounts in $ millions)
 

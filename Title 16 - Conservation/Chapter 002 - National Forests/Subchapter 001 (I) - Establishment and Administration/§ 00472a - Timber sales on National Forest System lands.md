@@ -28,7 +28,7 @@ The Secretary of Agriculture shall advertise all sales unless he determines that
 
 &emsp;(D) are consistent with the objectives of this Act and other Federal statutes.
 
-> The Secretary shall select or alter the bidding method or methods as he determines necessaryto achieve the objectives stated in clauses (A), (B), (C), and (D) of this paragraph.
+> The Secretary shall select or alter the bidding method or methods as he determines necessary to achieve the objectives stated in clauses (A), (B), (C), and (D) of this paragraph.
 
 (2) In those instances when the Secretary selects oral auction as the bidding method for the sale of any national forest materials, he shall require that all prospective purchasers submit written sealed qualifying bids. Only prospective purchasers whose written sealed qualifying bids are equal to or in excess of the appraised value of such national forest materials may participate in the oral bidding process.
 
@@ -44,9 +44,23 @@ The Secretary of Agriculture shall advertise all sales unless he determines that
 
 The Secretary of Agriculture, under such rules and regulations as he may prescribe, is authorized to dispose of, by sale or otherwise, trees, portions of trees, or other forest products related to research and demonstration projects.
 
-#### (g) Designation, marking, and supervision of harvesting; personnel
+#### (g) Designation and supervision of harvesting
 
-Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.
+#### (1) In general
+
+&emsp;Designation, including marking when necessary, designation by description, or designation by prescription, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture.
+
+#### (2) Requirement
+
+&emsp;Persons employed by the Secretary of Agriculture under paragraph (1)—
+
+&emsp;&emsp;(A) shall have no personal interest in the purchase or harvest of the products; and
+
+&emsp;&emsp;(B) shall not be directly or indirectly in the employment of the purchaser of the products.
+
+#### (3) Methods for designation
+
+&emsp;Designation by prescription and designation by description shall be considered valid methods for designation, and may be supervised by use of post-harvest cruise, sample weight scaling, or other methods determined by the Secretary of Agriculture to be appropriate.
 
 #### (h) Utilization standards, methods of measurement, and harvesting practices; monetary deposits by purchasers of salvage harvests; nature, purposes and availability of designated fund; return of surplus to Treasury
 
@@ -56,11 +70,11 @@ The Secretary of Agriculture shall develop utilization standards, methods of mea
 
 (1) For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice of sale afford timber purchasers qualifying as "small business concerns" under the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.
 
-(2) If the purchaser makes such an election, the price subsequently paid for the timber shall include all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such funds to be available until expended, to construct a road that meets the standards specified in the notice of sale.
+(2) If the purchaser makes such an election, the price subsequently paid for the timber shall include all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such fundsto be available until expended, to construct a road that meets the standards specified in the notice of sale.
 
 (3) The provisions of this subsection shall become effective on October 1, 1976.
 
-(Pub. L. 94–588, §14, Oct. 22, 1976, 90 Stat. 2958; Pub. L. 95–233, Feb. 20, 1978, 92 Stat. 32; Pub. L. 101–626, title I, §105(a), Nov. 28, 1990, 104 Stat. 4427.)
+(Pub. L. 94–588, §14, Oct. 22, 1976, 90 Stat. 2958; Pub. L. 95–233, Feb. 20, 1978, 92 Stat. 32; Pub. L. 101–626, title I, §105(a), Nov. 28, 1990, 104 Stat. 4427; Pub. L. 113–79, title VIII, §8303, Feb. 7, 2014, 128 Stat. 924.)
 
 #### References in Text
 
@@ -68,11 +82,13 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (a) and (c
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (a), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
-This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see ShortTitle of 1976 Amendment note set out under section 1600 of this title and Tables.
+This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
 The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g). Pub. L. 113–79 added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof."
 
 <b>1990</b>—Subsec. (i)(1). Pub. L. 101–626 struck out proviso that this subsec. not apply to sales of timber on National Forest System lands in the State of Alaska.
 
@@ -158,7 +174,7 @@ Substitution.—Notwithstanding any other provision of law, the Secretary may, a
 
 &emsp;&emsp;"(B)
 
-Rate redetermination following substitution of index.—If the Secretary substitutes the Producer Price Index of a qualifying contract under subparagraph (A), the Secretary may, at the sole discretion of the Secretary, modify the qualifying contract to provide for—
+Rate redetermination following substitution of index.—If the Secretary substitutes the Producer Price Index of a qualifying contract under subparagraph (A), the Secretary may, at the solediscretion of the Secretary, modify the qualifying contract to provide for—
 
 &emsp;&emsp;&emsp;"(i) an emergency rate redetermination under the terms of the contract; or
 

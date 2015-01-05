@@ -30,7 +30,7 @@ The agency primarily responsible for administering subchapter I of this chapter 
 
 #### (d) Assistance for programs of technical cooperation and development, research, etc.
 
-The President is authorized to furnish assistance, on such terms and conditions as he maydetermine, for the following activities, to the extent that such activities are not authorized by sections 2151a, 2151b, and 2151c of this title:
+The President is authorized to furnish assistance, on such terms and conditions as he may determine, for the following activities, to the extent that such activities are not authorized by sections 2151a, 2151b, and 2151c of this title:
 
 &emsp;(1) programs of technical cooperation and development, particularly the development efforts of United States private and voluntary agencies and regional and international development organizations;
 

@@ -10,5 +10,5 @@ No deposit of common varieties of sand, stone, gravel, pumice, pumicite, or cind
 
 #### Regulations for Removal of Limited Quantities of Petrified Wood
 
-Pub. L. 87–713, §2, Sept. 28, 1962, 76 Stat. 652, provided that: "The Secretary of the Interior shall provide byregulation that limited quantities of petrified wood may be removed without charge from those public lands which he shall specify."
+Pub. L. 87–713, §2, Sept. 28, 1962, 76 Stat. 652, provided that: "The Secretary of the Interior shall provide by regulation that limited quantities of petrified wood may be removed without charge from those public lands which he shall specify."
 

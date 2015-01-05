@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall select models to be tested from models where the Secretary determines that there is evidence that the model addresses a defined population for which there are deficits in care leading to poor clinical outcomes or potentially avoidable expenditures. The Secretary shall focus on models expected to reduce program costs under the applicable subchapter while preserving or enhancing the quality of care received by individuals receiving benefits under such subchapter. The models selectedunder this subparagraph may include, but are not limited to, the models described in subparagraph (B).
+&emsp;&emsp;The Secretary shall select models to be tested from models where the Secretary determines that there is evidence that the model addresses a defined population for which there are deficits in care leading to poor clinical outcomes or potentially avoidable expenditures. The Secretary shall focus on models expected to reduce program costs under the applicable subchapter while preserving or enhancing the quality of care received by individuals receiving benefits under such subchapter. The models selected under this subparagraph may include, but are not limited to, the models described in subparagraph (B).
 
 #### (B) Opportunities
 
@@ -228,7 +228,7 @@ The Center may carry out activities under this section with respect to subchapte
 
 #### (g) Report to Congress
 
-Beginning in 2012, and not less than once every other year thereafter, the Secretary shall submit to Congress a report on activities under this section. Each such report shall describe the models tested under subsection (b), including the number of individuals described in subsection (a)(4)(A)(i) and of individuals described in subsection (a)(4)(A)(ii) participating in such models and payments made under applicable subchapters for services on behalf of such individuals, any models chosen for expansion under subsection (c), and the results from evaluations under subsection (b)(4). In addition, each such report shall provide such recommendations as the Secretary determines are appropriate for legislative action to facilitate the development and expansion of successful payment models.
+Beginning in 2012, and not less than once every other year thereafter, the Secretary shall submit to Congress a report on activities under this section. Each such report shall describe themodels tested under subsection (b), including the number of individuals described in subsection (a)(4)(A)(i) and of individuals described in subsection (a)(4)(A)(ii) participating in such models and payments made under applicable subchapters for services on behalf of such individuals, any models chosen for expansion under subsection (c), and the results from evaluations under subsection (b)(4). In addition, each such report shall provide such recommendations as the Secretary determines are appropriate for legislative action to facilitate the development and expansion of successful payment models.
 
 (Aug. 14, 1935, ch. 531, title XI, §1115A, as added and amended Pub. L. 111–148, title III, §3021(a), title X, §10306, Mar. 23, 2010, 124 Stat. 389, 939.)
 

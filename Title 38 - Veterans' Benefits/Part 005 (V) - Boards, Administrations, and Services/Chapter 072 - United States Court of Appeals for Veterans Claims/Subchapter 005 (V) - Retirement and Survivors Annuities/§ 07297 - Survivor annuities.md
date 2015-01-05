@@ -16,7 +16,7 @@
 
 &emsp;(7) The term "Member of Congress" means a Representative, a Senator, a Delegate to Congress, or the Resident Commissioner of Puerto Rico.
 
-&emsp;(8) The term "assassination" as applied to a judge shall have the meaning provided thatterm in section 376(a)(7) of title 28 as applied to a judicial official.
+&emsp;(8) The term "assassination" as applied to a judge shall have the meaning provided that term in section 376(a)(7) of title 28 as applied to a judicial official.
 
 (b) A judge may become a participant in the annuity program under this section by filing a written election under this subsection while in office or within six months after the date on which the judge marries if the judge has retired under section 7296 of this title. Any such election shall be made in such manner as may be prescribed by the Court.
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) if the judge is survived by a surviving spouse but not by a dependent child, there shall be paid to the surviving spouse an annuity beginning with the day of the death of the judge, in an amount computed as provided in subsection (k) of this section; or
 
-&emsp;(B) if the judge is survived by a surviving spouse and a dependent child or children, there shall be paid to the surviving spouse an immediate annuity in an amount computed as provided in subsection (k) of this section and there shall also be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
+&emsp;(B) if the judge is survived by a surviving spouse and a dependent child or children, there shall be paid to the surviving spouse an immediate annuity in an amount computed as provided in subsection (k) of this section andthere shall also be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
 
 &emsp;&emsp;(i) 10 percent of the average annual pay of such judge (determined in accordance with subsection (k) of this section), or
 
@@ -60,7 +60,7 @@
 
 (3) The annuity payable to a child under this subsection shall be terminated upon the child's death.
 
-(4) In case of the death of a surviving spouse of a judge leaving a dependent child or children of the judge surviving the spouse, the annuity of such child or children under paragraph (1)(B) of this subsection shall be recomputed and paid asprovided in paragraph (1)(C) of this subsection. In any case in which the annuity of a dependent child is terminated, the annuities of any remaining dependent child or children, based upon the service of the same judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived the judge.
+(4) In case of the death of a surviving spouse of a judge leaving a dependent child or children of the judge surviving the spouse, the annuity of such child or children under paragraph (1)(B) of this subsection shall be recomputed and paid as provided in paragraph (1)(C) of this subsection. In any case in which the annuity of a dependent child is terminated, the annuities of any remaining dependent child or children, based upon the service of the same judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived the judge.
 
 (5) If a judge dies as a result of an assassination and leaves a survivor or survivors who are otherwise entitled to receive annuity payments under this section, the 18-month requirement in the matter in paragraph (1) preceding subparagraph (A) shall not apply.
 
@@ -102,7 +102,7 @@
 
 > Such payment shall be a bar to recovery by any other individual.
 
-(i) When a payment under this section is to be made to a minor, or to a person mentally incompetent or under other legal disability adjudged by a court of competent jurisdiction, the payment may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of such claimant or is otherwise legally vested with the care of the claimant or the claimant's estate. If no guardian or other fiduciary of the person under legal disability has been appointed under the laws of the State of residence of the claimant, the chief judge shall determine the person who is otherwise legally vested with the care of the claimant or the claimant's estate.
+(i) When a payment under this section is to be made to a minor, or to a person mentally incompetent or under other legal disability adjudged by a court of competent jurisdiction, the payment may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of such claimant or is otherwise legally vested with the care of the claimant or the claimant's estate. If no guardian or other fiduciary of the person under legaldisability has been appointed under the laws of the State of residence of the claimant, the chief judge shall determine the person who is otherwise legally vested with the care of the claimant or the claimant's estate.
 
 (j) Annuities under this section shall accrue monthly and shall be due and payable in monthly installments on the first business day of the month following the month or other period for which the annuity has accrued. An annuity under this section is not assignable, either in law or in equity, or subject to execution, levy, attachment, garnishment, or other legal process.
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowable service as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5).
 
-&emsp;(B) Three-fourths of 1 percent of the judge's average annual pay multiplied by the judge'syears of allowable service not counted under subparagraph (A) of this paragraph.
+&emsp;(B) Three-fourths of 1 percent of the judge's average annual pay multiplied by the judge's years of allowable service not counted under subparagraph (A) of this paragraph.
 
 (2) An annuity computed under this subsection may not exceed 50 percent of the judge's average annual pay and may not be less than 25 percent of such average annual pay. Such annuity shall be further reduced in accordance with subsection (d) of this section (if applicable).
 
@@ -156,7 +156,7 @@ Subsec. (f)(5). Pub. L. 106–117, §1023(e)(1)(B), added par. (5).
 
 <b>1998</b>—Subsec. (a)(1), (4). Pub. L. 105–368, §512(a)(1), substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals".
 
-Subsec. (o). Pub. L. 105–368, §503, amended subsec. (o) generally. Prior to amendment, subsec. (o) read as follows: "Whenever the salaries of judges paid under section 7253(e) of this title are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge's final 18 months of service as a judge of the Court, shall also be increased. The amount of the increase in the annuity shall be determined by multiplying the amount of the annuity on the date on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased."
+Subsec. (o). Pub. L. 105–368, §503, amended subsec. (o) generally. Prior to amendment, subsec. (o) read as follows: "Whenever the salaries of judges paid under section 7253(e) of this title are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge's final 18 months of service as a judge of the Court, shall also be increased. The amount of the increase in the annuity shall be determined by multiplying the amount of the annuity on thedate on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased."
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4097 of this title as this section.
 

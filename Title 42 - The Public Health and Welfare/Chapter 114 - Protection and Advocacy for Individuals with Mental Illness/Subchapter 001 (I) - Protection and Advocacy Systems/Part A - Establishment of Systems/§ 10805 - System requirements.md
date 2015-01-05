@@ -66,11 +66,11 @@ The Secretary and the agency of a State which administers its State plan under t
 
 #### (c) Governing authority
 
-(1)(A) Each system established in a State, through allotments received under section 10803of this title, to protect and advocate the rights of individuals with mental illness shall have a governing authority.
+(1)(A) Each system established in a State, through allotments received under section 10803 of this title, to protect and advocate the rights of individuals with mental illness shall have a governing authority.
 
 (B) In States in which the governing authority is organized as a private non-profit entity with a multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected according to the policies and procedures of the system. The governing board shall be composed of—
 
-&emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or are knowledgeable about the needs of the clients served by the system; and
+&emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or areknowledgeable about the needs of the clients served by the system; and
 
 &emsp;(ii) in the case of a governing authority organized as a private non-profit entity, members who broadly represent or are knowledgeable about the needs of the clients served by the system including the chairperson of the advisory council of such system.
 

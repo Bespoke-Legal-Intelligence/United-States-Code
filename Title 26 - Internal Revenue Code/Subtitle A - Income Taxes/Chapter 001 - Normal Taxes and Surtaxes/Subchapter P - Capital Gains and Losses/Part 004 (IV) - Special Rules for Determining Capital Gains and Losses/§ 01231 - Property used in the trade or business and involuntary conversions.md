@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) cattle and horses, regardless of age, held by the taxpayer for draft, breeding, dairy, or sporting purposes, and held by him for 24 months or more from the date of acquisition, and
 
-&emsp;&emsp;(B) other livestock, regardless of age, held by the taxpayer for draft, breeding, dairy, orsporting purposes, and held by him for 12 months or more from the date of acquisition.
+&emsp;&emsp;(B) other livestock, regardless of age, held by the taxpayer for draft, breeding, dairy, or sporting purposes, and held by him for 12 months or more from the date of acquisition.
 
 > &emsp;Such term does not include poultry.
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, the term "non-recaptured net section 1231 losses" means the excess of—
 
-&emsp;&emsp;(A) the aggregate amount of the net section 1231 losses for the 5 most recent preceding taxable years beginning after December 31, 1981, over
+&emsp;&emsp;(A) the aggregate amount of the net section 1231 losses for the 5 most recent preceding taxable years, over
 
 &emsp;&emsp;(B) the portion of such losses taken into account under paragraph (1) for such preceding taxable years.
 
@@ -136,9 +136,11 @@ For purposes of this section—
 
 &emsp;For purposes of determining the amount of the net section 1231 gain or loss for any taxable year, the rules of paragraph (4) of subsection (a) shall apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 325; Pub. L. 85–866, title I, §49(a), Sept. 2, 1958, 72 Stat. 1642; Pub. L. 88–272, title II, §227(a)(2), Feb. 26, 1964, 78 Stat. 97; Pub. L. 91–172, title II, §212(b)(1), title V, §§514(b)(2), 516(b), Dec. 30, 1969, 83 Stat. 571, 643, 646; Pub. L. 94–455, title XIV, §1402(b)(1)(R), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 95–600, title VII, §701(ee)(1), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–34, title V, §505(c)(1), Aug. 13, 1981, 95 Stat. 332; Pub. L. 98–369, div. A, title I, §176(a), title VII, §711(c)(2)(A)(iii), title X, §1001(b)(15), (e), July 18, 1984, 98 Stat. 709, 944, 1012; Pub. L. 106–170, title V, §532(c)(1)(G), Dec. 17, 1999, 113 Stat. 1930.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 325; Pub. L. 85–866, title I, §49(a), Sept. 2, 1958, 72 Stat. 1642; Pub. L. 88–272, title II, §227(a)(2), Feb. 26, 1964, 78 Stat. 97; Pub. L. 91–172, title II, §212(b)(1), title V, §§514(b)(2), 516(b), Dec. 30, 1969, 83 Stat. 571, 643, 646; Pub. L. 94–455, title XIV, §1402(b)(1)(R), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 95–600, title VII, §701(ee)(1), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–34, title V, §505(c)(1), Aug. 13, 1981, 95 Stat. 332; Pub. L. 98–369, div. A, title I, §176(a), title VII, §711(c)(2)(A)(iii), title X, §1001(b)(15), (e), July 18, 1984, 98 Stat. 709, 944, 1012; Pub. L. 106–170, title V, §532(c)(1)(G), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 113–295, div. A, title II, §221(a)(81), Dec. 19, 2014, 128 Stat. 4049.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2)(A). Pub. L. 113–295 struck out "beginning after December 31, 1981" after "years".
 
 <b>1999</b>—Subsec. (b)(1)(C), (D). Pub. L. 106–170 substituted "section 1221(a)" for "section 1221".
 
@@ -173,6 +175,10 @@ Subsec. (b)(3). Pub. L. 91–172, §212(b)(1), redesignated existing provisions 
 <b>1964</b>—Subsec. (b)(2). Pub. L. 88–272 inserted reference to iron ore in text, and to domestic iron ore in heading.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–866 inserted provision respecting casualty losses sustained upon certain uninsured property.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 

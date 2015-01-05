@@ -22,7 +22,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;&emsp;(A) from a domestic corporation other than a corporation which has an election in effect under section 936, or
 
-&emsp;&emsp;(B) from a foreign corporation unless less than 25 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States; but only in an amount which bears the same ratio to such dividends as the gross income of the corporation for such period which was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States bears to its gross income from all sources; but dividends (other than dividends for which a deduction is allowable under section 245(b)) from a foreign corporation shall, for purposes of subpart A of part III (relating to foreign tax credit), be treated as income from sources without the United States to the extent (and only to the extent) exceeding the amount which is 100/70th of the amount of the deduction allowable under section 245 in respect of such dividends, or
+&emsp;&emsp;(B) from a foreign corporation unless less than 25 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States; but only in an amount which bears the same ratio to such dividends as the gross income of the corporation for such period which was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States bears to its gross income from all sources; but dividends (other than dividends for which a deduction is allowable under section 245(b)) from a foreign corporation shall, for purposes of subpart A of part III (relating to foreign tax credit), be treated as income from sources without the United States tothe extent (and only to the extent) exceeding the amount which is 100/70th of the amount of the deduction allowable under section 245 in respect of such dividends, or
 
 &emsp;&emsp;(C) from a foreign corporation to the extent that such amount is required by section 243(e) (relating to certain dividends from foreign corporations) to be treated as dividends from a domestic corporation which is subject to taxation under this chapter, and to such extent subparagraph (B) shall not apply to such amount, or
 
@@ -94,7 +94,7 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;&emsp;(B) the use under such lease is expected to be use within the United States,
 
-> &emsp;all amounts includible in gross income by the taxpayer with respect to such railroad rolling stock (including gain from sale or other disposition of such railroad rolling stock) shall be treated as income from sources within the United States. The requirements of subparagraph (B) of the preceding sentence shall be treated as satisfied if the only expected use outside the United States is use by a person (whether or not a United States person) inCanada or Mexico on a temporary basis which is not expected to exceed a total of 90 days in any taxable year.
+> &emsp;all amounts includible in gross income by the taxpayer with respect to such railroad rolling stock (including gain from sale or other disposition of such railroad rolling stock) shall be treated as income from sources within the United States. The requirements of subparagraph (B) of the preceding sentence shall be treated as satisfied if the only expected use outside the United States is use by a person (whether or not a United States person) in Canada or Mexico on a temporary basis which is not expected to exceed a total of 90 days in any taxable year.
 
 #### (2) Paragraph (1) not to apply where lessor is a member of controlled group which includes a railroad
 
@@ -128,7 +128,7 @@ Subsecs. (c) to (f). Pub. L. 111–226, §217(c)(1), redesignated subsecs. (d) t
 
 <b>1990</b>—Subsec. (a)(1)(A), (B). Pub. L. 101–508, §11801(a)(29), (c)(14), inserted "and" at end of subpar. (A), substituted a period for a comma at end of subpar. (B), and struck out subpars. (C) and (D) which read as follows:
 
-"(C) interest on a debt obligation which was part of an issue with respect to which an election has been made under subsection (c) of section 4912 (as in effect before July 1, 1974) and which, when issued (or treated as issued under subsection (c)(2) of such section), had a maturity not exceeding 15 years and, when issued, was purchased by one or more underwriters with a view to distribution through resale, but only with respect to interest attributable to periods after the date of such election, and
+"(C) interest on a debt obligation which was part of an issue with respect to which an election has been made under subsection (c) of section 4912 (as in effect before July 1, 1974) and which, when issued (or treated as issued under subsection (c)(2) of such section), had a maturity not exceeding 15 years and, when issued, was purchased by one or more underwriters with a view to distribution through resale, but only with respect tointerest attributable to periods after the date of such election, and
 
 "(D) interest on a debt obligation which was part of an issue which—
 
@@ -192,7 +192,7 @@ Subsec. (a)(1)(G). Pub. L. 99–514, §§1214(c)(5)(A), 1241(b)(1)(B), redesigna
 
 Subsec. (a)(1)(H). Pub. L. 99–514, §§1214(c)(5)(A), 1241(b)(1)(B), redesignated successively former subpar. (H) as (F) and (D), respectively.
 
-Subsec. (a)(2)(A). Pub. L. 99–514, §1214(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "from a domestic corporation other than a corporation which has an election in effect under section 936, and other than a corporation less than 20 percent of whose gross income is shown to the satisfaction of the Secretary to have been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such corporation preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence), or".
+Subsec. (a)(2)(A). Pub. L. 99–514, §1214(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "from a domestic corporation other than a corporation which has an election in effectunder section 936, and other than a corporation less than 20 percent of whose gross income is shown to the satisfaction of the Secretary to have been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such corporation preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence), or".
 
 Subsec. (a)(2)(B). Pub. L. 99–514, §1241(b)(2), substituted "25 percent" for "50 percent" and inserted "(or treated as effectively connected other than under section 884(d)(2))" in two places.
 
@@ -272,7 +272,7 @@ Pub. L. 111–226, title II, §217(d), Aug. 10, 2010, 124 Stat. 2402, provided t
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 871, 904, and 2104 of this title\] shall apply to taxable years beginning after December 31, 2010.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 871, 904, and 2104 of this title\] shall apply to taxable years beginning after December 31, 2010.
 
 "(2)
 
@@ -378,7 +378,7 @@ Qualified corporation.—For purposes of subparagraph (A), the term 'qualified c
 
 &emsp;&emsp;"(iii) the parent corporation of which is a resident of Sweden."
 
-\[Pub. L. 100–647, title I, §1012(g)(1)(B), Nov. 10, 1988, 102 Stat. 3500, provided that: "A taxpayer may elect not to have the amendment made by subparagraph (A) \[amending section 1214(d)(1) of Pub. L. 99–514, set out above\] apply and to have section 1214(d)(1) of the Reform Act \[section 1214(d)(1) of Pub. L. 99–514, set out above\] apply as in effect before such amendment. Such election shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe."\]
+\[Pub. L. 100–647, title I, §1012(g)(1)(B), Nov. 10, 1988, 102 Stat. 3500, provided that: "A taxpayer may elect not to have the amendment made by subparagraph (A) \[amending section 1214(d)(1) of Pub. L. 99–514, set out above\] apply and to have section 1214(d)(1) of the Reform Act \[section 1214(d)(1) of Pub. L. 99–514, set out above\] apply as in effect before such amendment. Such election shall be made at such time and in such manneras the Secretary of the Treasury or his delegate may prescribe."\]
 
 Amendment by section 1241(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1241(e) of Pub. L. 99–514, set out as an Effective Date note under section 884 of this title.
 
@@ -408,7 +408,7 @@ to railroad rolling stock placed in service before date of enactment.
 
 &emsp;"(A)
 
-In general.—At the election of the taxpayer, the amendment made by subsection (a) shall alsoapply, for taxable years beginning after the date of the enactment of this Act, to all railroad rolling stock placed in service with respect to the taxpayer on or before such date of enactment. Such an election may not be revoked except with the consent of the Secretary of the Treasury or his delegate.
+In general.—At the election of the taxpayer, the amendment made by subsection (a) shall also apply, for taxable years beginning after the date of the enactment of this Act, to all railroad rolling stock placed in service with respect to the taxpayer on or before such date of enactment. Such an election may not be revoked except with the consent of the Secretary of the Treasury or his delegate.
 
 &emsp;"(B)
 
@@ -464,7 +464,7 @@ Amendment by Pub. L. 86–779 applicable to dividends received after Dec. 31, 19
 
 #### Short Title of 1971 Amendment
 
-Pub. L. 92–9, §1(a), Apr. 1, 1971, 85 Stat. 13, provided that: "This Act \[amending this section and sections 4911, 4912, 4914 to 4916, 4919 to 4921, 6651, 6680, and 6681 of this title and enacting provisions set out as notes under this section and sections 6680 and 6681 of this title\] may be cited as the 'Interest Equalization Tax Extension Act of 1971'."
+Pub. L. 92–9, §1(a), Apr. 1, 1971, 85 Stat. 13, provided that: "This Act \[amending this section and sections4911, 4912, 4914 to 4916, 4919 to 4921, 6651, 6680, and 6681 of this title and enacting provisions set out as notes under this section and sections 6680 and 6681 of this title\] may be cited as the 'Interest Equalization Tax Extension Act of 1971'."
 
 #### Short Title of 1966 Amendment
 
@@ -538,7 +538,7 @@ General Rule.—For purposes of sections 861(b), 862(b), and 863(b) of the 1986 
 
 &emsp;&emsp;"(B) that such expenditures are attributable to activities conducted outside the United States, 64 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
 
-&emsp;"(3) The remaining portion of qualified research and experimental expenditures (not allocated under paragraphs (1) and (2)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall be at least 30 percent of the amount which would be so apportioned on the basis of gross sales.
+&emsp;"(3) The remaining portion of qualified research and experimental expenditures (not allocated under paragraphs (1) and (2)) shall be apportioned, at the annual election of the taxpayer, on the basis of grosssales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall be at least 30 percent of the amount which would be so apportioned on the basis of gross sales.
 
 "(b)
 
@@ -670,7 +670,7 @@ In general.—This section shall apply to taxable years beginning after August 1
 
 &emsp;"(2)
 
-Special rule.—If the taxpayer's 4th taxable year beginning after August 13, 1981, is not described in paragraph (1), this section shall apply also to such 4th taxable year."
+Special rule.—If the taxpayer's 4th taxable year beginning after August 13, 1981, is not describedin paragraph (1), this section shall apply also to such 4th taxable year."
 
 #### Conformity of Amendments Made by Foreign Investors Tax Act of 1966 With Treaty Obligations of the United States
 

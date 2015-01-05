@@ -32,7 +32,7 @@ Subject to the availability of funds under subsection (d), the Secretary may pro
 
 &emsp;&emsp;Subject to paragraph (2), the amount of direct reimbursement payments made to a geographically disadvantaged farmer or rancher under this section for a fiscal year shall equal the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;(i) the amount of costs incurred by the geographically disadvantaged farmer orrancher for transportation of the agricultural commodity or inputs during the fiscal year; and
+&emsp;&emsp;&emsp;(i) the amount of costs incurred by the geographically disadvantaged farmer or rancher for transportation of the agricultural commodity or inputs during the fiscal year; and
 
 &emsp;&emsp;&emsp;(ii)(I) the percentage of the allowance for that fiscal year under section 5941 of title 5 for Federal employees stationed in Alaska and Hawaii; or
 
@@ -44,11 +44,15 @@ Subject to the availability of funds under subsection (d), the Secretary may pro
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2012.
+There are authorized to be appropriated such sums as are necessary to carry out this section for fiscal year 2009 and each succeeding fiscal year.
 
-(Pub. L. 110–234, title I, §1621, May 22, 2008, 122 Stat. 1024; Pub. L. 110–246, §4(a), title I, §1621, June 18, 2008, 122 Stat. 1664, 1752.)
+(Pub. L. 110–234, title I, §1621, May 22, 2008, 122 Stat. 1024; Pub. L. 110–246, §4(a), title I, §1621, June 18, 2008, 122 Stat. 1664, 1752; Pub. L. 113–79, title I, §1606, Feb. 7, 2014, 128 Stat. 708.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–79 substituted "fiscal year 2009 and each succeeding fiscal year" for "each of fiscal years 2009 through 2012".
 

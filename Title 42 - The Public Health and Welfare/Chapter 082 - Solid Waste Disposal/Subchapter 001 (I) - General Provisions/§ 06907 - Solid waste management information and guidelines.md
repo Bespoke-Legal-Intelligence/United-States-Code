@@ -14,7 +14,7 @@ Within one year of October 21, 1976, and from time to time thereafter, the Admin
 
 #### (b) Notice
 
-The Administrator shall notify the Committee on Environment and Public Works of the Senateand the Committee on Energy and Commerce of the House of Representatives a reasonable time before publishing any suggested guidelines or proposed regulations under this chapter of the content of such proposed suggested guidelines or proposed regulations under this chapter.
+The Administrator shall notify the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a reasonable time before publishing any suggested guidelines or proposed regulations under this chapter of the content of such proposed suggested guidelines or proposed regulations under this chapter.
 
 (Pub. L. 89–272, title II, §1008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2803; amended Pub. L. 95–609, §7(c), (d), Nov. 8, 1978, 92 Stat. 3081; Pub. L. 103–437, §15(r), Nov. 2, 1994, 108 Stat. 4594.)
 

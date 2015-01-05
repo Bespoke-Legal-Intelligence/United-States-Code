@@ -24,7 +24,7 @@ The Administrator may, beginning in fiscal year 2012 through the duration of the
 
 #### (2) Commercial market assessment
 
-&emsp;Not later than 180 days after October 11, 2010, the Administrator shall submit to the appropriate committees of Congress an assessment, conducted, in coordination with the Federal Aviation Administration's Office of Commercial Space Transportation, for purposes of this paragraph, of the potential non-Government market for commercially-developed crew and cargo transportation systems and capabilities, including an assessment of the activities associated with potential private sector utilization of the ISS research and technology development capabilities and other potential activities in low-Earth orbit.
+&emsp;Not later than 180 days after October 11, 2010, the Administrator shall submit to the appropriate committees of Congress an assessment, conducted, in coordination with the Federal Aviation Administration's Office of Commercial Space Transportation, for purposes of thisparagraph, of the potential non-Government market for commercially-developed crew and cargo transportation systems and capabilities, including an assessment of the activities associated with potential private sector utilization of the ISS research and technology development capabilities and other potential activities in low-Earth orbit.
 
 #### (3) Procurement system review
 

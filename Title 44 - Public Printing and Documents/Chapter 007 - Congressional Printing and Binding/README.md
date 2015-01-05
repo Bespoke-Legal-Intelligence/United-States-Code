@@ -11,7 +11,7 @@
 | [707\.](%C2%A7%2000707%20-%20Bills%20and%20resolutions%20style%20and%20form.md) | Bills and resolutions: style and form. |
 | [708\.](%C2%A7%2000708%20-%20Bills%20and%20resolutions%20binding%20sets%20for%20Congress.md) | Bills and resolutions: binding sets for Congress. |
 | [709\.](%C2%A7%2000709%20-%20Public%20and%20private%20laws%2C%20postal%20conventions%2C%20and%20treaties.md) | Public and private laws, postal conventions, and treaties. |
-| [710\.](%C2%A7%2000710%20-%20Copies%20of%20Acts%20furnished%20to%20Public%20Printer.md) | Copies of Acts furnished to Public Printer. |
+| [710\.](%C2%A7%2000710%20-%20Copies%20of%20Acts%20furnished%20to%20Director%20of%20the%20Government%20Publishing%20Office.md) | Copies of Acts furnished to Director of the Government Publishing Office. |
 | [711\.](%C2%A7%2000711%20-%20Printing%20Acts%2C%20joint%20resolutions%2C%20and%20treaties.md) | Printing Acts, joint resolutions, and treaties. |
 | [712\.](%C2%A7%2000712%20-%20Printing%20of%20postal%20conventions.md) | Printing of postal conventions. |
 | [713\.](%C2%A7%2000713%20-%20Journals%20of%20Houses%20of%20Congress.md) | Journals of Houses of Congress. |
@@ -48,6 +48,8 @@
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 710.
+
 <b>1996</b>—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted "Senators" for "Members of Congress" in item 735.
 
 #### Federal Records Management Provisions Without Effect on Chapter
@@ -68,7 +70,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 00707 - Bills and resolutions style and form](%C2%A7%2000707%20-%20Bills%20and%20resolutions%20style%20and%20form.md)
 - [&sect; 00708 - Bills and resolutions binding sets for Congress](%C2%A7%2000708%20-%20Bills%20and%20resolutions%20binding%20sets%20for%20Congress.md)
 - [&sect; 00709 - Public and private laws, postal conventions, and treaties](%C2%A7%2000709%20-%20Public%20and%20private%20laws%2C%20postal%20conventions%2C%20and%20treaties.md)
-- [&sect; 00710 - Copies of Acts furnished to Public Printer](%C2%A7%2000710%20-%20Copies%20of%20Acts%20furnished%20to%20Public%20Printer.md)
+- [&sect; 00710 - Copies of Acts furnished to Director of the Government Publishing Office](%C2%A7%2000710%20-%20Copies%20of%20Acts%20furnished%20to%20Director%20of%20the%20Government%20Publishing%20Office.md)
 - [&sect; 00711 - Printing Acts, joint resolutions, and treaties](%C2%A7%2000711%20-%20Printing%20Acts%2C%20joint%20resolutions%2C%20and%20treaties.md)
 - [&sect; 00712 - Printing of postal conventions](%C2%A7%2000712%20-%20Printing%20of%20postal%20conventions.md)
 - [&sect; 00713 - Journals of Houses of Congress](%C2%A7%2000713%20-%20Journals%20of%20Houses%20of%20Congress.md)

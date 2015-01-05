@@ -48,6 +48,18 @@ Information Included.—With respect to a covered person, the database shall inc
 
 &emsp;(7) To the maximum extent practicable, information similar to the information covered by paragraphs (1) to (4) in connection with the award or performance of a contract or grant with a State government.
 
+&emsp;(8) Whether the person is included on any of the following lists maintained by the Office of Foreign Assets Control of the Department of the Treasury:
+
+&emsp;&emsp;(A) The specially designated nationals and blocked persons list (commonly known as the "SDN list").
+
+&emsp;&emsp;(B) The sectoral sanctions identification list.
+
+&emsp;&emsp;(C) The foreign sanctions evaders list.
+
+&emsp;&emsp;(D) The list of persons sanctioned under the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) that do not appear on the SDN list (commonly known as the "Non-SDN Iranian Sanctions Act list").
+
+&emsp;&emsp;(E) The list of foreign financial institutions subject to part 561 of title 31, Code of Federal Regulations.
+
 (d)
 
 Requirements Relating to Database Information.—
@@ -68,7 +80,7 @@ Timeliness and accuracy.—The Administrator of General Services shall develop p
 
 &emsp;(3)
 
-Information on corporations.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary,or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
+Information on corporations.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
 
 (e)
 
@@ -94,7 +106,7 @@ Documentation in contract file.—The contract file for each contract of a Feder
 
 Disclosure in Applications.—The Federal Acquisition Regulation shall require that persons with Federal agency contracts and grants valued in total greater than $10,000,000 shall—
 
-&emsp;(1) submit to the Administrator of General Services, in a manner determined appropriate by the Administrator of General Services, the information subject to inclusion in the database as listed in subsection (c) current as of the date of submittal of the information under this subsection; and
+&emsp;(1) submit to the Administrator of General Services, in a manner determined appropriate by the Administrator of General Services, theinformation subject to inclusion in the database as listed in subsection (c) current as of the date of submittal of the information under this subsection; and
 
 &emsp;(2) update the information submitted under paragraph (1) on a semiannual basis.
 
@@ -102,7 +114,7 @@ Disclosure in Applications.—The Federal Acquisition Regulation shall require t
 
 Rulemaking.—The Administrator of General Services shall prescribe regulations that may be necessary to carry out this section.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3740; Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340; Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279; Pub. L. 112–239, div. A, title VIII, §852, title XVII, §1704(d)(2), Jan. 2, 2013, 126 Stat. 1856, 2096.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3740; Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340; Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279; Pub. L. 112–239, div. A, title VIII, §852, title XVII, §1704(d)(2), Jan. 2, 2013, 126 Stat. 1856, 2096; Pub. L. 113–291, div. A, title XII, §1270, Dec. 19, 2014, 128 Stat. 3587.)
 
 #### Amendments Not Shown in Text
 
@@ -139,6 +151,8 @@ In subsection (f)(2), the words "the information submitted under paragraph (1)" 
 Section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (c)(1)(E)(ii), is section 1704(b) of Pub. L. 112–239, which is classified to section 7104b(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(8). Pub. L. 113–291 added par. (8).
 
 <b>2013</b>—Subsec. (c)(1)(E). Pub. L. 112–239, §1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, §834(d), read as follows: "(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note)." See Amendments Not Shown in Text note above.
 

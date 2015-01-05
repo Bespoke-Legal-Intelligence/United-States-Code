@@ -28,7 +28,7 @@ The Administrator shall, upon request, promptly provide any information or analy
 
 #### (g) Availability of information to public
 
-Information collected by the Energy Information Administration shall be cataloged and, upon request, any such information shall bepromptly made available to the public in a form and manner easily adaptable for public use, except that this subsection shall not require disclosure of matters exempted from mandatory disclosure by section 552(b) of title 5. The provisions of section 796(d) of title 15, and section 5916 of this title, shall continue to apply to any information obtained by the Administrator under such provisions.
+Information collected by the Energy Information Administration shall be cataloged and, upon request, any such information shall be promptly made available to the public in a form and manner easily adaptable for public use, except that this subsection shall not require disclosure of matters exempted from mandatory disclosure by section 552(b) of title 5. The provisions of section 796(d) of title 15, and section 5916 of this title, shall continue to apply to any information obtained by the Administrator under such provisions.
 
 #### (h) Identification and designation of "major energy producing companies"; format for financial report; accounting practices; filing of financial report; annual report of Department; definitions; confidentiality
 
@@ -86,7 +86,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 #### (i) Manufacturers energy consumption survey
 
-(1) The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in the United States at least once every two years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
+(1) The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in the United States at least once every four years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
 
 &emsp;(A) quantity of fuels consumed;
 
@@ -114,7 +114,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (15 U.S.C. 790a(a)), the Administrator shall—
 
-&emsp;(1) conduct surveys of residential and commercial energy use at least once every 3 years, and make such information available to the public;
+&emsp;(1) conduct surveys of residential and commercial energy use at least once every fouryears, and make such information available to the public;
 
 &emsp;(2) when surveying electric utilities, collect information on demand-side management programs conducted by such utilities, including information regarding the types of demand-side management programs being operated, the quantity of measures installed, expenditures on demand-side management programs, estimates of energy savings resulting from such programs, and whether the savings estimates were verified; and
 
@@ -150,7 +150,7 @@ In order to improve the ability to evaluate the effectiveness of the Nation's en
 
 (3) This subsection does not affect the authority of the Administrator to collect data under section 52 of the Federal Energy Administration Act of 1974 (15 U.S.C. 790a).
 
-(Pub. L. 95–91, title II, §205, Aug. 4, 1977, 91 Stat. 572; Pub. L. 99–509, title III, §3101(a), Oct. 21, 1986, 100 Stat. 1888; Pub. L. 102–486, title I, §171, Oct. 24, 1992, 106 Stat. 2864; Pub. L. 109–58, title XV, §1508, Aug. 8, 2005, 119 Stat. 1083.)
+(Pub. L. 95–91, title II, §205, Aug. 4, 1977, 91 Stat. 572; Pub. L. 99–509, title III, §3101(a), Oct. 21, 1986, 100 Stat. 1888; Pub. L. 102–486, title I, §171, Oct. 24, 1992, 106 Stat. 2864; Pub. L. 109–58, title XV, §1508, Aug. 8, 2005, 119 Stat. 1083; Pub. L. 113–76, div. D, title III, §315, Jan. 17, 2014, 128 Stat. 177.)
 
 #### References in Text
 
@@ -164,11 +164,15 @@ The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is Pub. L
 
 #### Amendments
 
+<b>2014</b>—Subsec. (i)(1). Pub. L. 113–76, §315(1), substituted "once every four years" for "once every two years" in introductory provisions.
+
+Subsec. (k)(1). Pub. L. 113–76, §315(2), which directed amendment of par. (1) by substituting "once every four years" for "once every three years" was executed by making the substitution for "once every 3 years" to reflect the probable intent of Congress.
+
 <b>2005</b>—Subsec. (m). Pub. L. 109–58 added subsec. (m).
 
 <b>1992</b>—Subsec. (i)(1). Pub. L. 102–486, §171(a)(1), in introductory provisions, substituted "at least once every two years" for "on at least a triennial basis".
 
-Subsec. (i)(1)(D). Pub. L. 102–486, §171(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D)read as follows: "use of nonpurchased sources of energy, such as cogeneration and waste by-products."
+Subsec. (i)(1)(D). Pub. L. 102–486, §171(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "use of nonpurchased sources of energy, such as cogeneration and waste by-products."
 
 Subsecs. (j) to (l). Pub. L. 102–486, §171(b), added subsecs. (j) to (l).
 

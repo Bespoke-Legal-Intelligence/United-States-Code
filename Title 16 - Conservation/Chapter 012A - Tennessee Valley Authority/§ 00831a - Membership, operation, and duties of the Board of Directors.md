@@ -22,7 +22,7 @@ To be eligible to be appointed as a member of the Board, an individual—
 
 &emsp;(4) shall make full disclosure to Congress of any investment or other financial interest that the individual holds in the energy industry; and
 
-&emsp;(5) shall affirm support for the objectives and missions of the Corporation, including being a national leader in technological innovation, low-cost power, and environmental stewardship.
+&emsp;(5) shall affirm support for the objectives and missions of the Corporation, includingbeing a national leader in technological innovation, low-cost power, and environmental stewardship.
 
 #### (c) Recommendations
 

@@ -10,7 +10,7 @@ The President shall notify the Congress in writing at least 30 days before—
 
 #### (b) Initial designations
 
-Australia, Egypt, Israel, Japan, the Republic of Korea, and New Zealand shall be deemed tohave been so designated by the President as of the effective date of this section, and the President is not required to notify the Congress of such designation of those countries.
+Australia, Egypt, Israel, Japan, the Republic of Korea, and New Zealand shall be deemed to have been so designated by the President as of the effective date of this section, and the President is not required to notify the Congress of such designation of those countries.
 
 (Pub. L. 87–195, pt. II, §517, as added Pub. L. 104–164, title I, §147(a)(1), July 21, 1996, 110 Stat. 1434.)
 

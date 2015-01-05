@@ -32,7 +32,7 @@ Preventive Maintenance.—A preventive maintenance activity shall be eligible fo
 
 Subsec. (b). Pub. L. 112–141, §1507(1), (3), redesignated subsec. (a) as (b), inserted "or other direct recipient" before "to maintain", and struck out at end "The State's obligation to the United States to maintain any such project shall cease when it no longer constitutes a part of a Federal-aid system." Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 112–141, §1507(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "In any State wherein the State transportation department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such transportation department shall enter into a formal agreement for its maintenance with the appropriate officials of the county or municipality in which such project is located."
+Subsec. (c). Pub. L. 112–141, §1507(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "In any State wherein the State transportation department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such transportation department shall enter into a formalagreement for its maintenance with the appropriate officials of the county or municipality in which such project is located."
 
 Pub. L. 112–141, §1507(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 

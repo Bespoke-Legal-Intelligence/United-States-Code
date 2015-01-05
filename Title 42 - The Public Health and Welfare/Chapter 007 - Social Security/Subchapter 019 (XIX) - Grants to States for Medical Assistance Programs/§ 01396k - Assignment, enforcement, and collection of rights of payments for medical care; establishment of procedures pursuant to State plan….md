@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) to cooperate with the State (i) in establishing the paternity of such person (referred to in subparagraph (A)) if the person is a child born out of wedlock, and (ii) in obtaining support and payments (described in subparagraph (A)) for himself and for such person, unless (in either case) the individual is described in section 1396a(l)(1)(A) of this title or the individual is found to have good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
-&emsp;&emsp;(C) to cooperate with the State in identifying, and providing information to assist the State in pursuing, any third party who may be liable to pay for care and services available under the plan, unless such individual has good cause for refusing to cooperate asdetermined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
+&emsp;&emsp;(C) to cooperate with the State in identifying, and providing information to assist the State in pursuing, any third party who may be liable to pay for care and services available under the plan, unless such individual has good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
 &emsp;(2) provide for entering into cooperative arrangements (including financial arrangements), with any appropriate agency of any State (including, with respect to the enforcement and collection of rights of payment for medical care by or through a parent, with a State's agency established or designated under section 654(3) of this title) and with appropriate courts and law enforcement officials, to assist the agency or agencies administering the State plan with respect to (A) the enforcement and collection of rights to support or payment assigned under this section and (B) any other matters of common concern.
 
@@ -18,7 +18,7 @@
 
 #### Amendment of Subsection (a)(1)(A)
 
-<i>Pub. L. 113–67, div. A, title II, §202(b)(2), (c), Dec. 26, 2013, 127 Stat. 1177, provided that, effective Oct. 1, 2014, subsection (a)(1)(A) of this section is amended by striking "payment for medical care from any third party" and inserting "any payment from a third party that has a legal liability to pay for care and services available under the plan". See 2013 Amendment note below.</i>
+<i>Pub. L. 113–67, div. A, title II, §202(b)(2), (c), Dec. 26, 2013, 127 Stat. 1177, as amended by Pub. L. 113–93, title II, §211, Apr. 1, 2014, 128 Stat. 1047, provided that, effective Oct. 1, 2016, subsection (a)(1)(A) of this section is amended by striking "payment for medical care from any third party" and inserting "any payment from a third party that has a legal liability to pay for care and services available under the plan". See 2013 Amendment note below.</i>
 
 #### Amendments
 
@@ -32,7 +32,7 @@
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–67 effective Oct. 1, 2014, see section 202(c) of Pub. L. 113–67, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 113–67 effective Oct. 1, 2016, see section 202(c) of Pub. L. 113–67, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1990 Amendment
 

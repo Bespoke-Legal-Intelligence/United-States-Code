@@ -8,15 +8,15 @@
 
 #### (2) Definitions
 
-&emsp;For purposes of this section, the term “covered employee” shall include employees of the Government Accountability Office and the Library of Congress and the term “employing office” shall include the Government Accountability Office and the Library of Congress.
+&emsp;For purposes of this section, the term "covered employee" shall include employees of the Government Accountability Office and the Library of Congress and the term "employing office" shall include the Government Accountability Office and the Library of Congress.
 
 #### (3) Capitol Police
 
-&emsp;Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c) of this section.
+&emsp;Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c).
 
 #### (b) Remedy
 
-The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 (29 U.S.C. 2005(c)(1)).
+The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 (29 U.S.C. 2005(c)(1)).
 
 #### (c) Regulations to implement section
 
@@ -26,13 +26,13 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (d) Effective date
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+&emsp;Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 #### (2) Government Accountability Office and Library of Congress
 
@@ -42,7 +42,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 
-Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
+Subsec. (d)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading and text.
 

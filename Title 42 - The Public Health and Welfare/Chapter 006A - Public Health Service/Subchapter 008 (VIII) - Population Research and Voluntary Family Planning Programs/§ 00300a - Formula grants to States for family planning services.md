@@ -6,7 +6,7 @@ The Secretary is authorized to make grants, from allotments made under subsectio
 
 #### (b) Factors determining amount of State allotments
 
-The sums appropriated to carry out the provisions of this section shall be allotted to the States by the Secretary on the basis of the population and the financial need of the respective States.
+The sums appropriated to carry out the provisions of this section shall be allotted to theStates by the Secretary on the basis of the population and the financial need of the respective States.
 
 #### (c) "State" defined
 

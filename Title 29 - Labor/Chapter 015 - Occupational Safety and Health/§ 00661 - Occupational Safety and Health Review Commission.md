@@ -24,7 +24,7 @@ For the purpose of carrying out its functions under this chapter, two members of
 
 #### (g) Hearings and records open to public; promulgation of rules; applicability of Federal Rules of Civil Procedure
 
-Every official act of the Commission shall be entered of record, and its hearings and recordsshall be open to the public. The Commission is authorized to make such rules as are necessary for the orderly transaction of its proceedings. Unless the Commission has adopted a different rule, its proceedings shall be in accordance with the Federal Rules of Civil Procedure.
+Every official act of the Commission shall be entered of record, and its hearings and records shall be open to the public. The Commission is authorized to make such rules as are necessary for the orderly transaction of its proceedings. Unless the Commission has adopted a different rule, its proceedings shall be in accordance with the Federal Rules of Civil Procedure.
 
 #### (h) Depositions and production of documentary evidence; fees
 

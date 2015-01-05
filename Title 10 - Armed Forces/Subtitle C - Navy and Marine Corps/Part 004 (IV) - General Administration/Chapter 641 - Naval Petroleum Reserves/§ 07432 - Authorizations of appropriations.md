@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 94–258 substituted provisions which made funds in the nav
 
 Subsecs. (c), (d). Pub. L. 94–258 added subsecs. (c) and (d).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted "with respect to the naval petroleum and oil shale reservesshall be paid from appropriations made available for the purposes specified in this chapter" for "in exploring, prospecting, conserving, developing, using and operating lands owned or controlled by the United States in the naval petroleum reserves, and in producing petroleum, and the share of the United States of expenses incurred under any contract entered into under this chapter, shall be paid from appropriations made available for those purposes".
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted "with respect to the naval petroleum and oil shale reserves shall be paid from appropriations made available for the purposes specified in this chapter" for "in exploring, prospecting, conserving, developing, using and operating lands owned or controlled by the United States in the naval petroleum reserves, and in producing petroleum, and the share of the United States of expenses incurred under any contract entered into under this chapter, shall be paid from appropriations made available for those purposes".
 
 #### Effective Date of 1980 Amendment
 

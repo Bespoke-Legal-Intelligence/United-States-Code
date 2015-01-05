@@ -16,7 +16,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (b) Other administration expenses
 
-Subject to the limitations in paragraph (1) of subsection (c), there shall be deducted in determining the taxable estate amounts representing expenses incurred in administering property not subject to claims which is included in the gross estate to the same extent such amounts would be allowable as a deduction under subsection (a) if such property were subject to claims, and such amounts are paid before the expiration of the period of limitation for assessment provided in section 6501.
+Subject to the limitations in paragraph (1) of subsection (c), there shall be deducted in determining the taxable estate amounts representingexpenses incurred in administering property not subject to claims which is included in the gross estate to the same extent such amounts would be allowable as a deduction under subsection (a) if such property were subject to claims, and such amounts are paid before the expiration of the period of limitation for assessment provided in section 6501.
 
 #### (c) Limitations
 
@@ -50,7 +50,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (2) Condition for allowance of deduction
 
-&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 orsection 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
+&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
 
 #### (3) Effect on credit for foreign death taxes of deduction under this subsection
 
@@ -66,7 +66,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 &emsp;&emsp;<b>For provisions treating certain relinquishments of marital rights as consideration in money or money's worth, see section 2043(b)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, §2, 70 Stat. 23; Pub. L. 85–866, title I, §102(c)(3), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §1, Aug. 21, 1959, 73 Stat. 396; Pub. L. 94–455, title XIX, §§1902(a)(12) (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 98–369, div. A, title IV, §425(a)(2), title X, §1027(b), July 18, 1984, 98 Stat. 804, 1031; Pub. L. 100–647, title I, §1011A(g)(11), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 105–34, title V, §503(b)(1), title X, §1073(b)(3), Aug. 5, 1997, 111 Stat. 853, 948; Pub. L. 107–16, title V, §532(c)(5), June 7, 2001, 115 Stat. 74; Pub. L. 107–134, title I, §103(b)(2), Jan. 23, 2002, 115 Stat. 2431.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, §2, 70 Stat. 23; Pub. L. 85–866, title I,§102(c)(3), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §1, Aug. 21, 1959, 73 Stat. 396; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 98–369, div. A, title IV, §425(a)(2), title X, §1027(b), July 18, 1984, 98 Stat. 804, 1031; Pub. L. 100–647, title I, §1011A(g)(11), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 105–34, title V, §503(b)(1), title X, §1073(b)(3), Aug. 5, 1997, 111 Stat. 853, 948; Pub. L. 107–16, title V, §532(c)(5), June 7, 2001, 115 Stat. 74; Pub. L. 107–134, title I, §103(b)(2), Jan. 23, 2002, 115 Stat. 2431.)
 
 #### Amendments
 
@@ -94,11 +94,23 @@ Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted "For provisions treating
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under section 2011 of this title.
+Pub. L. 107–134, title I, §103(d), Jan. 23, 2002, 115 Stat. 2431, provided that:
+
+"(1)
+
+Effective date.—The amendments made by this section \[amending this section and sections 2011 and 2201 of this title\] shall apply to estates of decedents—
+
+&emsp;"(A) dying on or after September 11, 2001; and
+
+&emsp;"(B) in the case of individuals dying as a result of the April 19, 1995, terrorist attack, dying on or after April 19, 1995.
+
+"(2)
+
+Waiver of limitations.—If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Jan. 23, 2002\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period."
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -116,13 +128,17 @@ Amendment by section 425(a)(2) of Pub. L. 98–369 applicable to estates of dece
 
 Pub. L. 98–369, div. A, title X, §1027(c), July 18, 1984, 98 Stat. 1032, provided that: "The amendments made by this section \[amending this section and section 2056 of this title\] shall take effect as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[section 403 of Pub. L. 97–34, see Effective Date of 1981 Amendment note set out under section 2056 of this title\]."
 
+#### Effective Date of 1976 Amendment
+
+Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
+
 #### Effective Date of 1959 Amendment
 
 Pub. L. 86–175, §4, Aug. 21, 1959, 73 Stat. 397, provided that: "The amendments made by the preceding sections of this Act \[amending this section and sections 2011 and 2014 of this title\] shall apply with respect to the estates of decedents dying on or after July 1, 1955."
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to estates of decedents dying after Sept. 2, 1958, see section 102(d) ofPub. L. 85–866, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 85–866 applicable to estates of decedents dying after Sept. 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under section 2014 of this title.
 
 #### Effective Date of 1956 Amendment
 

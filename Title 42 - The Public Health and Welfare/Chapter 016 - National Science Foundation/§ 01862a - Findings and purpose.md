@@ -10,7 +10,7 @@
 
 &emsp;(4) a national effort to spur reinvestment in research facilities is needed, and national, State, and local policies and cooperative programs are required that will yield maximum return on the investment of scarce national resources and sustain a commitment to excellence in research and education; and
 
-&emsp;(5) the Foundation, as part of its responsibility for maintaining the vitality of the Nation's academic research, and in partnership with the States, industry, and universities and colleges, must assist in enhancing the historic linkages between Federal investment in academic research and training and investment in the research capital base by reinvesting in the capital facilities which modern research and education programs require.
+&emsp;(5) the Foundation, as part of its responsibility for maintaining the vitality of the Nation's academic research, and in partnership with the States, industry, and universities and colleges, must assist in enhancing the historiclinkages between Federal investment in academic research and training and investment in the research capital base by reinvesting in the capital facilities which modern research and education programs require.
 
 (b) It is the purpose of sections 1862a to 1862d of this title to assist in modernizing and revitalizing the Nation's research facilities at institutions of higher education, independent non-profit research institutions and research museums, and consortia thereof, through capital investment.
 

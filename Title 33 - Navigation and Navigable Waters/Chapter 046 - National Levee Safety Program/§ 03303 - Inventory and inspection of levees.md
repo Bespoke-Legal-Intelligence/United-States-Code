@@ -10,7 +10,7 @@
 
 &emsp;The database shall include—
 
-&emsp;&emsp;(A) location information of all Federal levees in the Nation (including global information system information) and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies;
+&emsp;&emsp;(A) location information of all Federal levees in the Nation (including global information system information) and updated levee information provided by States, Indian tribes, Federal agencies, and other entities;
 
 &emsp;&emsp;(B) utilizing such information as is available, the general condition of each levee; and
 
@@ -40,7 +40,39 @@
 
 &emsp;For non-Federal levees the owners of which are participating in the emergency response to natural disasters program established under section 701n of this title, the Secretary shall establish an inventory and conduct an inspection of each such levee if the owner of the levee requests such inspection. The Federal share of the cost of an inspection under this paragraph shall be 65 percent.
 
-(Pub. L. 110–114, title IX, §9004, Nov. 8, 2007, 121 Stat. 1290.)
+#### (c) Levee review
+
+#### (1) In general
+
+&emsp;The Secretary shall carry out a one-time inventory and review of all levees identified in the national levee database.
+
+#### (2) No Federal interest
+
+&emsp;The inventory and inspection under paragraph (1) does not create a Federal interest in the construction, operation, or maintenance of any levee that is included in the inventory or inspected under this subsection.
+
+#### (3) Review criteria
+
+&emsp;In carrying out the inventory and review, the Secretary shall use the levee safety action classification criteria to determine whether a levee should be classified in the inventory as requiring a more comprehensive inspection.
+
+#### (4) State and tribal participation
+
+&emsp;At the request of a State or Indian tribe with respect to any levee subject to review under this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) allow an official of the State or Indian tribe to participate in the review of the levee; and
+
+&emsp;&emsp;(B) provide information to the State or Indian tribe relating to the location, construction, operation, or maintenance of the levee.
+
+#### (5) Exceptions
+
+&emsp;In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014, if the Governor of the State or chief executive of the tribal government, as applicable, requests an exemption from the review.
+
+(Pub. L. 110–114, title IX, §9004, Nov. 8, 2007, 121 Stat. 1290; Pub. L. 113–121, title III, §3016(d), June 10, 2014, 128 Stat. 1292.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–121, §3016(d)(1), substituted "and updated levee information provided by States, Indian tribes, Federal agencies, and other entities" for "and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies".
+
+Subsec. (c). Pub. L. 113–121, §3016(d)(2), added subsec. (c).
 
 #### "Secretary" Defined
 

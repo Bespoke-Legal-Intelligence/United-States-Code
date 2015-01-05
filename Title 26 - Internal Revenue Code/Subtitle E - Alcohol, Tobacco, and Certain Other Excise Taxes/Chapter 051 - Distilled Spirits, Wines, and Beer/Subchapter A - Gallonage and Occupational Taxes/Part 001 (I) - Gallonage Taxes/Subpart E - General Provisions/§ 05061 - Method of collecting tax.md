@@ -2,7 +2,7 @@
 
 #### (a) Collection by return
 
-The taxes on distilled spirits, wines, and beer shall be collected on the basis of a return. The Secretary shall, by regulation, prescribe the period or event for which such return shall be filed, the time for filing such return, the information to be shown in such return, and the time for payment of such tax.
+The taxes on distilled spirits, wines, and beer shall be collected on the basis of a return. TheSecretary shall, by regulation, prescribe the period or event for which such return shall be filed, the time for filing such return, the information to be shown in such return, and the time for payment of such tax.
 
 #### (b) Exceptions
 
@@ -54,7 +54,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (3) Distilled spirits, wines, and beer brought into the United States from Puerto Rico
 
-&emsp;In the case of distilled spirits, wines, and beer which are brought into the United States\(other than in bulk containers) from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
+&emsp;In the case of distilled spirits, wines, and beer which are brought into the United States (other than in bulk containers) from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
 
 #### (4) Taxpayers liable for taxes of not more than $50,000
 
@@ -208,7 +208,7 @@ Treatment of smokeless tobacco in inventory on June 30, 1986.—The tax imposed 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxes required to be paid on or after Sept. 30, 1984, see section27(d)(2) of Pub. L. 98–369, set out as a note under section 5001 of this title.
+Amendment by Pub. L. 98–369 applicable to taxes required to be paid on or after Sept. 30, 1984, see section 27(d)(2) of Pub. L. 98–369, set out as a note under section 5001 of this title.
 
 #### Effective Date of 1979 Amendment
 

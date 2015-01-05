@@ -4,7 +4,7 @@
 
 For purposes of this subtitle—
 
-&emsp;(1) each section 1256 contract held by the taxpayer at the close of the taxable year shallbe treated as sold for its fair market value on the last business day of such taxable year (and any gain or loss shall be taken into account for the taxable year),
+&emsp;(1) each section 1256 contract held by the taxpayer at the close of the taxable year shall be treated as sold for its fair market value on the last business day of such taxable year (and any gain or loss shall be taken into account for the taxable year),
 
 &emsp;(2) proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account by reason of paragraph (1),
 
@@ -100,11 +100,11 @@ For purposes of this subtitle—
 
 #### (B) Syndicate defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "syndicate" means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)).
+&emsp;&emsp;For purposes of subparagraph (A), the term "syndicate" means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)).<sup>1</sup>
 
 #### (C) Holdings attributable to active management
 
-&emsp;&emsp;For purposes of subparagraph (B), an interest in an entity shall not be treated as held by a limited partner or a limited entrepreneur (within the meaning of section 464(e)(2))—
+&emsp;&emsp;For purposes of subparagraph (B), an interest in an entity shall not be treated as held by a limited partner or a limited entrepreneur (within the meaning of section 464(e)(2))— <sup>1</sup>
 
 &emsp;&emsp;&emsp;(i) for any period if during such period such interest is held by an individual who actively participates at all times during such period in the management of such entity,
 
@@ -284,6 +284,8 @@ For purposes of this section—
 
 #### References in Text
 
+Section 464(e)(2), referred to in subsec. (e)(3)(B), (C), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(58)(C)(i), Dec. 19, 2014, 128 Stat. 4047.
+
 Section 3(a)(55) of the Securities Exchange Act of 1934, referred to in subsec. (g)(6)(B), is classified to section 78c(a)(55) of Title 15, Commerce and Trade.
 
 The date of the enactment of this paragraph, referred to in subsec. (g)(6)(B), probably means the date of enactment of Pub. L. 106–554, which amended subsec. (g)(6) generally and which was approved Dec. 21, 2000.
@@ -458,7 +460,7 @@ In general.—If the taxpayer makes an election under subsection (g)(2) and unde
 
 Date for payment of installment.—
 
-&emsp;&emsp;"(A) If an election is made under this subsection, the first installment under paragraph (1) shall be paid on or before the due date for filing the returnfor the taxable year described in paragraph (1), and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed for payment of the preceding installment.
+&emsp;&emsp;"(A) If an election is made under this subsection, the first installment under paragraph (1) shall be paid on or before the due date for filing the return for the taxable year described in paragraph (1), and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed for payment of the preceding installment.
 
 &emsp;&emsp;"(B) If a bankruptcy case or insolvency proceeding involving the taxpayer is commenced before the final installment is paid, the total amount of any unpaid installments shall be treated as due and payable on the day preceding the day on which such case or proceeding is commenced.
 
@@ -619,4 +621,6 @@ Form of Election.—An election under this section shall be made not later than 
 &emsp;"(3) the fair market value on the last business day of the preceding taxable year for each regulated futures contract described in paragraph (2), and
 
 &emsp;"(4) such other information for purposes of carrying out the provisions of this section as may be required by such regulations."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

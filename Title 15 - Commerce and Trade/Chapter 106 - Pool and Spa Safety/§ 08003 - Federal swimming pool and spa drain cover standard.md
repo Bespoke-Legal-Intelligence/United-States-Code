@@ -6,7 +6,7 @@ The requirements described in subsection (b) shall be treated as a consumer prod
 
 #### (b) Drain cover standard
 
-Effective 1 year after December 19, 2007, each swimming pool or spa drain cover manufactured,distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating such swimming pool or drain cover. If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.
+Effective 1 year after December 19, 2007, each swimming pool or spa drain cover manufactured, distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating such swimming pool or drain cover. If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.
 
 #### (c) Public pools
 
@@ -22,7 +22,7 @@ Effective 1 year after December 19, 2007, each swimming pool or spa drain cover 
 
 #### (I) Safety vacuum release system
 
-&emsp;&emsp;&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387.
+&emsp;&emsp;&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that hasbeen tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387.
 
 #### (II) Suction-limiting vent system
 

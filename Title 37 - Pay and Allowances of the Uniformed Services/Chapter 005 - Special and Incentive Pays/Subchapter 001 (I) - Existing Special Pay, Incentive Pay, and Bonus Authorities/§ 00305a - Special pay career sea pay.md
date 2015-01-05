@@ -34,7 +34,7 @@ Definition of Sea Duty.—(1) In this section, the term "sea duty" means duty pe
 
 (2) The Secretary concerned may designate duty performed by a member while serving on a ship the primary mission of which is accomplished either while under way or in port as "sea duty" for purposes of this section, even though the duty is performed while the member is permanently or temporarily assigned to a ship-based staff or other unit not covered by paragraph (1).
 
-(3) For the purpose of determining the years of sea duty with which a member may be credited for purposes of this section, the term "sea duty" also includes duty performed after December 31, 1988, by a member while permanently or temporarily assigned to a ship or ship-based staff and while serving on a ship on which the member would be entitled, during a period that the ship is away from its homeport, to receive sea pay by reason of paragraph (1)(B).
+(3) For the purpose of determining the years of sea duty with which a member may be credited for purposes of this section, the term "sea duty" also includes duty performed after December 31, 1988, by a member while permanently or temporarily assigned to a ship or ship-based staff and while serving on a ship on which the memberwould be entitled, during a period that the ship is away from its homeport, to receive sea pay by reason of paragraph (1)(B).
 
 (4) A ship shall be considered to be away from its homeport for purposes of this subsection when it is—
 
@@ -92,7 +92,7 @@ Pub. L. 100–26 substituted "In this section," for "For the purposes of this se
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–145 amended table for warrant officers for pay grade W–3 by substituting "330" for "310" in column for "Over 12", and for pay grade W–4, substituted "320" for "310" in column for "Over 10", substituted "330" for "310" in column for "Over 11", and "350" for "310" in column for "Over 12", inserted columns for "Over 14", "Over 16", "Over 18", and "Over 20", and in table for commissioned officers inserted columns for "Over 14", "Over 16", "Over 18", and "Over 20", and struck out the subscript qualifier for pay grades O–1 and O–2, which read: "Commissioned officers with at least four years of active service as enlisted members or as noncommissioned warrant officers".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–525 amended table relating to rates of pay for enlisted members by substituting "265" for "255" and "320" for "310" in column for "Over 10", "265" for "255" and "330" for "310" in column for "Over 11", "280" for "255", "320" for "310", and "350" for "310" in column for "Over 12", and inserted columns for "Over 13", "Over 14", "Over 16", and "Over 18".
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 amended table relating to rates of pay for enlisted members by substituting "265" for "255" and "320" for "310" in column for"Over 10", "265" for "255" and "330" for "310" in column for "Over 11", "280" for "255", "320" for "310", and "350" for "310" in column for "Over 12", and inserted columns for "Over 13", "Over 14", "Over 16", and "Over 18".
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–295 substituted "clause (2)" for "clause (B)" after "for purposes of".
 

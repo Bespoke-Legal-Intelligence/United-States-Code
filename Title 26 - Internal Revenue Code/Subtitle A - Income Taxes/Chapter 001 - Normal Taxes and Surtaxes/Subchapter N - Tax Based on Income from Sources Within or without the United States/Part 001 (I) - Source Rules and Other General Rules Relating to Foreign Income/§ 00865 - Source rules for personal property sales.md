@@ -100,7 +100,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of income not sourced under subsection (b), (c), (d)(1)(B) or (3), or (f), if aUnited States resident maintains an office or other fixed place of business in a foreign country, income from sales of personal property attributable to such office or other fixed place of business shall be sourced outside the United States.
+&emsp;&emsp;In the case of income not sourced under subsection (b), (c), (d)(1)(B) or (3), or (f), if a United States resident maintains an office or other fixed place of business in a foreign country, income from sales of personal property attributable to such office or other fixed place of business shall be sourced outside the United States.
 
 #### (B) Tax must be imposed
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (3) Special rule for certain stock sales by residents of Puerto Rico
 
-&emsp;Paragraph (2) shall not apply to the sale by an individual who was a bona fide resident of Puerto Rico during the entire taxable year of stock in a corporation if—
+&emsp;Paragraph (2) shall not apply to the sale by an individual who was a bona fide resident ofPuerto Rico during the entire taxable year of stock in a corporation if—
 
 &emsp;&emsp;(A) such corporation is engaged in the active conduct of a trade or business in Puerto Rico, and
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) which is from the sale of stock in a foreign corporation or an intangible (as defined in subsection (d)(2)) and which would otherwise be sourced in the United States under this section,
 
-&emsp;&emsp;&emsp;(ii) which, under a treaty obligation of the United States (applied without regardto this section), would be sourced outside the United States, and
+&emsp;&emsp;&emsp;(ii) which, under a treaty obligation of the United States (applied without regard to this section), would be sourced outside the United States, and
 
 &emsp;&emsp;&emsp;(iii) with respect to which the taxpayer chooses the benefits of this subsection.
 
@@ -262,7 +262,7 @@ Subsec. (e)(1)(A). Pub. L. 100–647, §1012(d)(2), (9), substituted "(d)(1)(B) 
 
 Subsec. (e)(2)(B). Pub. L. 100–647, §1012(d)(5), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Subparagraph (A) shall not apply to—
 
-&emsp;"(i) any sale of inventory property which is sold for use, disposition, or consumption outside the United States if an office or other fixed place of business of the taxpayer outside the United States materially participated in the sale, or
+&emsp;"(i) any sale of inventory property which is sold for use, disposition, or consumption outside the United States if an office or other fixed place of business ofthe taxpayer outside the United States materially participated in the sale, or
 
 &emsp;"(ii) any amount included in gross income under section 951(a)(1)(A)."
 

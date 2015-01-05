@@ -14,7 +14,7 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 &emsp;(1) is a reserve officer on active duty (other than for training) under a call or order to active duty for a period of more than 30 days but less than one year;
 
-&emsp;(2) is involuntarily retained on active duty under section 12305 of title 10, or is recalled to active duty under section 688 of title 10 for a period of more than 30 days; or
+&emsp;(2) is involuntarily retained on active duty under section 12305 of title 10, or is recalled toactive duty under section 688 of title 10 for a period of more than 30 days; or
 
 &emsp;(3) voluntarily agrees to remain on active duty for a period of less than one year at a time when—
 
@@ -54,7 +54,7 @@ Pub. L. 102–25, title III, §304, Apr. 25, 1991, 105 Stat. 81, as amended by P
 
 "(a)
 
-Eligible for Special Pay.—A health care officer described in subsection (b) shall be eligible for special pay under section 302, 302a, 302b, 302e, or 303 of title 37,United States Code (whichever applies), notwithstanding any requirement in those sections that—
+Eligible for Special Pay.—A health care officer described in subsection (b) shall be eligible for special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), notwithstanding any requirement in those sections that—
 
 &emsp;"(1) the call or order of the officer to active duty be for a period of not less than one year; or
 

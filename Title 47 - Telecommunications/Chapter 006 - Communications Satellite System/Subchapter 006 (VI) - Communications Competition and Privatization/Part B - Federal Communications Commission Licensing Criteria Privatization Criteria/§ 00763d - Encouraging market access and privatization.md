@@ -26,7 +26,7 @@ Notwithstanding—
 
 #### (c) Settlements policy
 
-The Commission shall, in exercising its authority to establish settlements rates for UnitedStates international common carriers, seek to advance United States policy in favor of cost-based settlements in all relevant fora on international telecommunications policy, including in meetings with parties and signatories of INTELSAT and Inmarsat.
+The Commission shall, in exercising its authority to establish settlements rates for United States international common carriers, seek to advance United States policy in favor of cost-based settlements in all relevant fora on international telecommunications policy, including in meetings with parties and signatories of INTELSAT and Inmarsat.
 
 (Pub. L. 87–624, title VI, §625, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 54.)
 

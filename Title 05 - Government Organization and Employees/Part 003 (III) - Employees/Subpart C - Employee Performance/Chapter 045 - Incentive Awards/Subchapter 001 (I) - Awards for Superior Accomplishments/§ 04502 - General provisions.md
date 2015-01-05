@@ -6,7 +6,7 @@
 
 (c) A cash award under this subchapter is in addition to the regular pay of the recipient. Acceptance of a cash award under this subchapter constitutes an agreement that the use by the Government of an idea, method, or device for which the award is made does not form the basis of a further claim of any nature against the Government by the employee, his heirs, or assigns.
 
-(d) A cash award to, and expense for the honorary recognition of, an employee may be paid from the fund or appropriation available to the activity primarily benefiting or the various activities benefiting. The head of the agency concerned determines the amount to be paid by each activity for an agency award under section4503 of this title. The President determines the amount to be paid by each activity for a Presidential award under section 4504 of this title.
+(d) A cash award to, and expense for the honorary recognition of, an employee may be paid from the fund or appropriation available to the activity primarily benefiting or the various activities benefiting. The head of the agency concerned determines the amount to be paid by each activity for an agency award under section 4503 of this title. The President determines the amount to be paid by each activity for a Presidential award under section 4504 of this title.
 
 (e) The Office of Personnel Management may by regulation permit agencies to grant employees time off from duty, without loss of pay or charge to leave, as an award in recognition of superior accomplishment or other personal effort that contributes to the quality, efficiency, or economy of Government operations.
 
@@ -28,9 +28,9 @@ Historical and Revision Notes
 
 Sept. 1, 1954, ch. 1208, §304(d), (e), (g), 68 Stat. 1113.
 
-In subsections (a) and (b), the words “cash award” are substituted for “monetary award” and “such award” to conform to the remainder of the chapter.
+In subsections (a) and (b), the words "cash award" are substituted for "monetary award" and "such award" to conform to the remainder of the chapter.
 
-In subsection (c), the word “Government” is substituted for “Government of the United States or the government of the District of Columbia” in view of the definition of “Government” in section 4501.
+In subsection (c), the word "Government" is substituted for "Government of the United States or the government of the District of Columbia" in view of the definition of "Government" in section 4501.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -38,15 +38,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–89 struck out par. (2) designation and struck out par. (1) which read as follows: “Notwithstanding section 4501(2), for the purpose of this subsection, ‘employee’ includes an employee covered by the performance management and recognition system established under chapter 54.”
+<b>1993</b>—Subsec. (e). Pub. L. 103–89 struck out par. (2) designation and struck out par. (1) which read as follows: "Notwithstanding section 4501(2), for the purpose of this subsection, 'employee' includes an employee covered by the performance management and recognition system established under chapter 54."
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–509 added subsec. (e).
 
-<b>1981</b>—Subsecs. (a), (c). Pub. L. 97–35 substituted “subchapter” for “chapter”.
+<b>1981</b>—Subsecs. (a), (c). Pub. L. 97–35 substituted "subchapter" for "chapter".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §503(b), substituted “$10,000” for “$5,000”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §503(b), substituted "$10,000" for "$5,000".
 
-Subsec. (b). Pub. L. 95–454, §503(c), substituted “Office of Personnel Management” for “Civil Service Commission”, “$10,000” for “$5,000”, and “Office” for “Commission”.
+Subsec. (b). Pub. L. 95–454, §503(c), substituted "Office of Personnel Management" for "Civil Service Commission", "$10,000" for "$5,000", and "Office" for "Commission".
 
 #### Effective Date of 1993 Amendment
 

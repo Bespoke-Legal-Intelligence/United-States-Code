@@ -42,7 +42,7 @@ In this subchapter:
 
 &emsp;&emsp;(ii) with respect to any other provision of this subchapter, the Director of the National Institute for Occupational Safety and Health, or a designee of such Director.
 
-&emsp;(B) In no case may the Secretary designate under subparagraph (A)(i) the Director of the National Institute for Occupational Safetyand Health or a designee of such Director with respect to section 300mm–32 of this title (relating to payment for initial health evaluation, monitoring, and treatment).
+&emsp;(B) In no case may the Secretary designate under subparagraph (A)(i) the Director of the National Institute for Occupational Safety and Health or a designee of such Director with respect to section 300mm–32 of this title (relating to payment for initial health evaluation, monitoring, and treatment).
 
 &emsp;(15) The term "WTC-related health condition" is defined in section 300mm–22(a) of this title.
 

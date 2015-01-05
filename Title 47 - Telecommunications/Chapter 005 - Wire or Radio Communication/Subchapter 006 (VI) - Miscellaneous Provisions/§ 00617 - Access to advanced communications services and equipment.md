@@ -18,13 +18,13 @@
 
 #### (1) In general
 
-&emsp;With respect to services provided after the effective date of the regulations established pursuant to subsection (e), and subject to those regulations, a provider of advanced communications services shall ensure that such services offered by such provider in or affecting interstate commerce are accessible to and usable by individuals with disabilities, unless the requirements of this subsection are not achievable.
+&emsp;With respect to services provided after the effective date of the regulations establishedpursuant to subsection (e), and subject to those regulations, a provider of advanced communications services shall ensure that such services offered by such provider in or affecting interstate commerce are accessible to and usable by individuals with disabilities, unless the requirements of this subsection are not achievable.
 
 #### (2) Industry flexibility
 
 &emsp;A provider of services may satisfy the requirements of paragraph (1) with respect to such services by—
 
-&emsp;&emsp;(A) ensuring that the services that such provider offers are accessible to and usableby individuals with disabilities without the use of third party applications, peripheral devices, software, hardware, or customer premises equipment; or
+&emsp;&emsp;(A) ensuring that the services that such provider offers are accessible to and usable by individuals with disabilities without the use of third party applications, peripheral devices, software, hardware, or customer premises equipment; or
 
 &emsp;&emsp;(B) if such provider chooses, using third party applications, peripheral devices, software, hardware, or customer premises equipment that is available to the consumer at nominal cost and that individuals with disabilities can access.
 
@@ -92,7 +92,7 @@ The provisions of this section shall not apply to customized equipment or servic
 
 This section shall not be construed to require a manufacturer of equipment used for advanced communications or a provider of advanced communications services to make every feature and function of every device or service accessible for every disability.
 
-(June 19, 1934, ch. 652, title VII, §716, as added Pub. L. 111–260, title I, §104(a), Oct. 8, 2010, 124Stat. 2755; amended Pub. L. 111–265, §2(1), (2), Oct. 8, 2010, 124 Stat. 2795.)
+(June 19, 1934, ch. 652, title VII, §716, as added Pub. L. 111–260, title I, §104(a), Oct. 8, 2010, 124 Stat. 2755; amended Pub. L. 111–265, §2(1), (2), Oct. 8, 2010, 124 Stat. 2795.)
 
 #### Amendments
 

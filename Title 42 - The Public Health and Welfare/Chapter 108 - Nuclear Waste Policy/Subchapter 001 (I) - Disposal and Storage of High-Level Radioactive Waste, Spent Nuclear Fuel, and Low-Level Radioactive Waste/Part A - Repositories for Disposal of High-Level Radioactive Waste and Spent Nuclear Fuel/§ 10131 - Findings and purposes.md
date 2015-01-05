@@ -4,7 +4,7 @@
 
 &emsp;(1) radioactive waste creates potential risks and requires safe and environmentally acceptable methods of disposal;
 
-&emsp;(2) a national problem has been created by the accumulation of (A) spent nuclear fuel from nuclear reactors; and (B) radioactive waste from (i) reprocessing of spent nuclear fuel; (ii) activities related to medical research, diagnosis, and treatment; and (iii) other sources;
+&emsp;(2) a national problem has been created by the accumulation of (A) spent nuclear fuel from nuclear reactors; and (B) radioactive waste from (i) reprocessing of spent nuclearfuel; (ii) activities related to medical research, diagnosis, and treatment; and (iii) other sources;
 
 &emsp;(3) Federal efforts during the past 30 years to devise a permanent solution to the problems of civilian radioactive waste disposal have not been adequate;
 

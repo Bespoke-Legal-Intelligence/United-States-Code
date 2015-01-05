@@ -32,7 +32,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;(iii) of the directors first appointed to serve beginning on or after January 21, 1985, two directors (other than the President and First Vice President of the Bank) shall be appointed for terms of two years, as designated by the President of the United States at the time of their appointment; and
 
-&emsp;(iv) any director first appointed to serve for a term beginning on any date after January 21, 1985, shall serve only for the remainder of the period for which such director would have been appointed if such director's term had begun on January 21, 1985. If such term would have expired before the date on which such director's term actually begins, the term of such director shall be the four-year period, or remainder thereof, as if such director had been preceded by a director whose term had begun on January 21, 1985.
+&emsp;(iv) any director first appointed to serve for a term beginning on any date after January 21, 1985, shall serve only for the remainder of the period for which such director would have been appointed if such director's term had begun on January 21, 1985. If such term would have expired before the date on which such director's term actually begins, the term of such director shall be the four-year period, or remainder thereof, as if such director had beenpreceded by a director whose term had begun on January 21, 1985.
 
 (B) Of the five members of the Board appointed by the President, not less than one such member shall be selected from among the small business community and shall represent the interests of small business.
 
@@ -78,7 +78,7 @@ In general.—The Bank shall—
 
 Content of notice.—The notice published under clause (i)(I) with respect to an application for a loan or financial guarantee shall include appropriate information about—
 
-&emsp;&emsp;&emsp;(I) a brief non-proprietary description of the purposes of the transaction and the anticipated use of any item being exported,including, to the extent the Bank is reasonably aware, whether the item may be used to produce exports or provide services in competition with the exportation of goods or the provision of services by a United States industry;
+&emsp;&emsp;&emsp;(I) a brief non-proprietary description of the purposes of the transaction and the anticipated use of any item being exported, including, to the extent the Bank is reasonably aware, whether the item may be used to produce exports or provide services in competition with the exportation of goods or the provision of services by a United States industry;
 
 &emsp;&emsp;&emsp;(II) the identities of the obligor, principal supplier, and guarantor; and
 
@@ -142,7 +142,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 &emsp;There is established a Small Business Division (in this subsection referred to as the "Division") within the Bank in order to—
 
-&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy forsmall business concerns (as defined in section 632(a) of title 15);
+&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy for small business concerns (as defined in section 632(a) of title 15);
 
 &emsp;&emsp;(B) advise and seek feedback from small business concerns on the opportunities and benefits for small business concerns in the financing products offered by the Bank, with particular emphasis on conducting outreach, enhancing the tailoring of products to small business needs and increasing loans to small business concerns;
 
@@ -240,7 +240,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (1) Establishment
 
-&emsp;The President of the Bank shall establish in the Small Business Division an office whose sole functions shall be to continue and enhance the outreach activities of the Bank with respect to, and increase the total amount of loans, guarantees, and insurance provided by the Bank to support exports by, socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15) and small business concerns owned by women.
+&emsp;The President of the Bank shall establish in the Small Business Division an office whose sole functions shall be to continue and enhance the outreach activities of the Bank with respect to, and increase the total amount of loans, guarantees, and insurance provided by the Bank to support exports by, socially andeconomically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15) and small business concerns owned by women.
 
 #### (2) Management
 
@@ -334,7 +334,7 @@ Subsec. (e). Pub. L. 98–181, §620(b), substituted "such individual's" for "hi
 
 <b>1968</b>—Subsecs. (a) to (c). Pub. L. 90–267, §1(a), changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States".
 
-Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
+Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise inthe regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
 <b>1954</b>—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
 
@@ -368,7 +368,9 @@ Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 10
 
 Pub. L. 102–429, title I, §117, Oct. 21, 1996, 106 Stat. 2196, provided that:
 
-"\[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1996, 106 Stat. 2196.\]
+"(a)
+
+In General.—The Board of Directors of the Export-Import Bank of the United States may compensate not more than 35 employees of the Bank without regard to the provisions of chapter 51 or subchapter III or VIII of chapter 53 of title 5, United States Code.
 
 "(b)
 
@@ -390,9 +392,13 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;"(B) whether or not the authority of subsection (a) should be extended."
 
-\[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2012".\]
+\[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until September 30, 2015".\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489.
+
+\[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191.
 
 \[Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341.
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) an analysis of institutional, environmental, and economic considerations which are limiting the national magnetic fusion program.
 
-(b) The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than January 1, 1982.
+(b) The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the Houseof Representatives and the Committee on Energy and Natural Resources of the Senate not later than January 1, 1982.
 
 (Pub. L. 96–386, §5, Oct. 7, 1980, 94 Stat. 1541.)
 

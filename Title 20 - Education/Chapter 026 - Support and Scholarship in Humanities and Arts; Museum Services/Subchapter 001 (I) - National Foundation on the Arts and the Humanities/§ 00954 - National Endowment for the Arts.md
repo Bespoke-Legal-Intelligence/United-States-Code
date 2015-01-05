@@ -18,7 +18,7 @@ The Chairperson, with the advice of the National Council on the Arts, is authori
 
 &emsp;(2) projects and productions, meeting professional standards or standards of authenticity or tradition, irrespective of origin, which are of significant merit and which, without such assistance, would otherwise be unavailable to our citizens for geographic or economic reasons;
 
-&emsp;(3) projects and productions that will encourage and assist artists and enable them to achieve wider distribution of their works, towork in residence at an educational or cultural institution, or to achieve standards of professional excellence;
+&emsp;(3) projects and productions that will encourage and assist artists and enable them to achieve wider distribution of their works, to work in residence at an educational or cultural institution, or to achieve standards of professional excellence;
 
 &emsp;(4) projects and productions which have substantial artistic and cultural significance and that reach, or reflect the culture of, a minority, inner city, rural, or tribal community;
 
@@ -68,7 +68,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 &emsp;(D) provides—
 
-&emsp;&emsp;(i) assurances that the State agency has held, after reasonable notice, public meetings in the State to allow all groups of artists, interested organizations, and the publicto present views and make recommendations regarding the State plan; and
+&emsp;&emsp;(i) assurances that the State agency has held, after reasonable notice, public meetings in the State to allow all groups of artists, interested organizations, and the public to present views and make recommendations regarding the State plan; and
 
 &emsp;&emsp;(ii) a summary of such recommendations and the State agency's response to such recommendations; and
 
@@ -90,11 +90,15 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 > but in no event shall any State be allotted less than $200,000.
 
-(4)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: <i>Provided</i>, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year.
+(4)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: <i>Provided</i>, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year. Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+
+&emsp;(i) give consideration to the various circumstances the State is encountering at the time of such request; and
+
+&emsp;(ii) ensure that such discretion is not exercised with respect to such State in perpetuity.
 
 (B) Any amount allotted to a State under the first sentence of paragraph (3) for any fiscal year which is not obligated by the State prior to 60 days prior to the end of the fiscal year for which such sums are appropriated shall be available for making grants to regional groups.
 
-(C) Funds made available under this subsection shall not be used to supplant non-Federal funds.
+(C) Funds made available under this subsection shall not be used to supplant non-Federal funds. The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.
 
 (D) For the purpose of paragraph (3) and paragraph (4) of this section the term "regional group" means any multistate group, whether or not representative of contiguous States.
 
@@ -174,7 +178,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 #### (n) Labor standards of laborers and mechanics
 
-It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. TheSecretary of Labor shall have with respect to the labor standards specified in this subsection the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
+It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have with respect to the labor standards specified in this subsection the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
 
 #### (o) Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations
 
@@ -228,9 +232,9 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 #### (q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports
 
-The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of theavailability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
-(Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966.)
+(Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966; Pub. L. 113–76, div. G, title IV, §416, Jan. 17, 2014, 128 Stat. 341.)
 
 #### References in Text
 
@@ -244,6 +248,14 @@ In subsec. (n), "sections 3141–3144, 3146, and 3147 of title 40" substituted f
 
 #### Amendments
 
+<b>2014</b>—Subsec. (g)(4)(A). Pub. L. 113–76, §416(1), inserted at end "Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+
+&emsp;"(i) give consideration to the various circumstances the State is encountering at the time of such request; and
+
+&emsp;"(ii) ensure that such discretion is not exercised with respect to such State in perpetuity."
+
+Subsec. (g)(4)(C). Pub. L. 113–76, §416(2), inserted at end "The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State."
+
 <b>1990</b>—Subsec. (c). Pub. L. 101–512, §318 \[title I, §103(a)(7)\], substituted "paragraph (10)" for "clause (8)" in concluding provisions.
 
 Subsec. (c)(1). Pub. L. 101–512, §318 \[title I, §103(a)(1)\], amended par. (1) generally. Prior to amendment, par. (1) read as follows: "projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;".
@@ -256,7 +268,7 @@ Subsec. (c)(8) to (10). Pub. L. 101–512, §318 \[title I, §103(a)(4)–(6)\],
 
 Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson."
 
-Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Internal Revenue Code of 1986" for "InternalRevenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (g)(2)(E)(i), (ii). Pub. L. 101–512, §318 \[title I, §103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
@@ -302,7 +314,7 @@ Subsec. (c)(4) to (8). Pub. L. 99–194, §105(2)(A), (B), added cls. (4) and (5
 
 Subsec. (d). Pub. L. 99–194, §105(6), substituted "Chairperson" for "Chairman".
 
-Subsec. (g). Pub. L. 99–194, §105(3), (6), substituted "Chairperson" for "Chairman" wherever appearing,and in par. (2) struck out "and" at end of cl. (B), substituted ", including a description of the progress made toward achieving the goals of the State plan;" for the period at end of cl. (C), and added cls. (D) and (E).
+Subsec. (g). Pub. L. 99–194, §105(3), (6), substituted "Chairperson" for "Chairman" wherever appearing, and in par. (2) struck out "and" at end of cl. (B), substituted ", including a description of the progress made toward achieving the goals of the State plan;" for the period at end of cl. (C), and added cls. (D) and (E).
 
 Subsec. (h). Pub. L. 99–194, §105(6), substituted "Chairperson" for "Chairman" wherever appearing.
 

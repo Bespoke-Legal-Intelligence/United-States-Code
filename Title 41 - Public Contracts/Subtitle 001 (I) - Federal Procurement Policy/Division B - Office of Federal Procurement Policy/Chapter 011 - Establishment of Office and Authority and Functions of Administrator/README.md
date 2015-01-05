@@ -29,9 +29,9 @@
 
 #### Amendment of Analysis
 
-Pub. L. 113–67, div. A, title VII, §702(b)(2), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.
+<i>Pub. L. 113–67, div. A, title VII, §702(b)(2), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.</i>
 
-Pub. L. 113–66, div. A, title VIII, §811(c)(2), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.
+<i>Pub. L. 113–66, div. A, title VIII, §811(c)(2), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.</i>
 
 #### Amendments
 

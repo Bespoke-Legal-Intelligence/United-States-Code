@@ -18,7 +18,7 @@ The Peanut Administrative Committee established under Marketing Agreement No. 14
 
 #### (A) Total members
 
-&emsp;&emsp;The Board shall consist of 18 members, with representation equally divided betweenpeanut producers and peanut industry representatives.
+&emsp;&emsp;The Board shall consist of 18 members, with representation equally divided between peanut producers and peanut industry representatives.
 
 #### (B) Appointment process for producers
 
@@ -32,7 +32,7 @@ The Peanut Administrative Committee established under Marketing Agreement No. 14
 
 #### (C) Appointment process for industry representatives
 
-&emsp;&emsp;The Secretary shall appoint 3 peanut industry representatives from each of the 3 peanut producing regions in the United States.
+&emsp;&emsp;The Secretary shall appoint 3 peanut industry representatives from each of the 3peanut producing regions in the United States.
 
 #### (3) Terms
 
@@ -80,7 +80,7 @@ Imported peanuts shall be subject to the same quality and handling standards as 
 
 #### (1) Temporary designation of Peanut Administrative Committee members
 
-&emsp;Notwithstanding the appointment process specified in subsection (c) of this section for the Peanut Standards Board, during the transition period, the Secretary may designate persons serving as members of the Peanut Administrative Committee on the day before May 13, 2002, to serve as members of the Peanut Standards Board for the purpose of carrying out the duties of the Board described in this section.
+&emsp;Notwithstanding the appointment process specified in subsection (c) for the Peanut Standards Board, during the transition period, the Secretary may designate persons serving as members of the Peanut Administrative Committee on the day before May 13, 2002, to serve as members of the Peanut Standards Board for the purpose of carrying out the duties of the Board described in this section.
 
 #### (2) Funds
 
@@ -90,7 +90,7 @@ Imported peanuts shall be subject to the same quality and handling standards as 
 
 &emsp;In paragraph (1), the term "transition period" means the period beginning on May 13, 2002, and ending on the earlier of—
 
-&emsp;&emsp;(A) the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c) of this section; or
+&emsp;&emsp;(A) the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c); or
 
 &emsp;&emsp;(B) 180 days after May 13, 2002.
 

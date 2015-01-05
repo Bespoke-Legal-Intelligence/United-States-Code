@@ -32,7 +32,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (b) Federal private sector mandates in reported bills and joint resolutions
 
-For each bill or joint resolution of a public character reported by any committee of authorization of the Senate or the House of Representatives, the Director of the Congressional Budget Office shall prepare and submit to the committee a statement as follows:
+For each bill or joint resolution of a public character reported by any committee of authorization of the Senate or the House of Representatives, the Director of the Congressional BudgetOffice shall prepare and submit to the committee a statement as follows:
 
 #### (1) Contents
 
@@ -52,11 +52,11 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (c) Legislation falling below direct costs thresholds
 
-If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b) of this section, the Director shall so state and shall briefly explain the basis of the estimate.
+If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b), the Director shall so state and shall briefly explain the basis of the estimate.
 
 #### (d) Amended bills and joint resolutions; conference reports
 
-If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previouslyconsidered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
+If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previously considered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
 
 (Pub. L. 93–344, title IV, §424, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 55; amended Pub. L. 106–141, §2(b), Dec. 7, 1999, 113 Stat. 1699.)
 

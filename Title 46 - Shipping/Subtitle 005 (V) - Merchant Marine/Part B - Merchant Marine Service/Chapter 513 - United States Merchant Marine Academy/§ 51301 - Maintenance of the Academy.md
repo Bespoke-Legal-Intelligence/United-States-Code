@@ -8,7 +8,7 @@ In General.—The Secretary of Transportation shall maintain the United States M
 
 Recruitment.—The Secretary of Transportation may, subject to the availability of appropriations, expend funds available for United States Merchant Marine Academy operating expenses for recruiting activities, including advertising, in order to obtain recruits for the Academy and cadet applicants.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–239, div. A, title X, §1076(i), Jan. 2, 2013, 126 Stat. 1955.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7,2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–239, div. A, title X, §1076(i), Jan. 2, 2013, 126 Stat. 1955.)
 
 Historical and Revision Notes
 

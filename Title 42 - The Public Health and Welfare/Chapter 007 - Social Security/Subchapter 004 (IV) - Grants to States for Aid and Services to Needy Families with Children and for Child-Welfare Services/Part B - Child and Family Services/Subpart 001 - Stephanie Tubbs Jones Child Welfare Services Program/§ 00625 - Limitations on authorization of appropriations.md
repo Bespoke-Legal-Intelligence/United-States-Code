@@ -6,7 +6,7 @@ To carry out this subpart (other than sections 626, 627, and 628b of this title)
 
 #### Prior Provisions
 
-A prior section 625, act Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 914; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 519; Pub. L. 103–432, title II, §202(d)(2), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 105–33, title V, §5592(a)(1)(B), Aug. 5, 1997, 111 Stat. 644, defined terms for purposes of this subchapter, prior to repeal by Pub. L. 109–288, §§6(a), 12(a), Sept. 28, 2006, 120 Stat. 1244, 1255, effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date.
+A prior section 625, act Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 914; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 519; Pub. L. 103–432, title II, §202(d)(2), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 105–33, title V, §5592(a)(1)(B), Aug. 5, 1997, 111 Stat. 644, definedterms for purposes of this subchapter, prior to repeal by Pub. L. 109–288, §§6(a), 12(a), Sept. 28, 2006, 120 Stat. 1244, 1255, effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date.
 
 #### Amendments
 
@@ -20,7 +20,7 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payments under this part and part Eof this subchapter for quarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as a note under section 671 of this title.
+Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payments under this part and part E of this subchapter for quarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as a note under section 671 of this title.
 
 #### Effective Date
 

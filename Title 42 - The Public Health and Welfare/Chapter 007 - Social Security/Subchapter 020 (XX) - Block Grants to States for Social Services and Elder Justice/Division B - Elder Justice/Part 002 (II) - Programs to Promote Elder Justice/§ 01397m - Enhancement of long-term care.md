@@ -104,7 +104,7 @@
 
 #### (B) Authority to limit number of applicants
 
-&emsp;&emsp;Nothing in this subsection shall be construed as prohibiting the Secretary from limiting the number of applicants for a grant under this subsection.
+&emsp;&emsp;Nothing in this subsection shall be construed as prohibiting the Secretary fromlimiting the number of applicants for a grant under this subsection.
 
 #### (4) Participation in State health exchanges
 
@@ -124,7 +124,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 10 years after March 23, 2010, the Secretary shall have procedures in place to accept the optional electronic submission of clinical data by long-term carefacilities pursuant to the standards adopted under paragraph (1).
+&emsp;&emsp;Not later than 10 years after March 23, 2010, the Secretary shall have procedures in place to accept the optional electronic submission of clinical data by long-term care facilities pursuant to the standards adopted under paragraph (1).
 
 #### (B) Rule of construction
 

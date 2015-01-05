@@ -164,7 +164,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (II) Commuter rail
 
-&emsp;&emsp;&emsp;&emsp;Key stations in commuter rail transportation systems shall be made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than 3 years after July 26, 1990, except that the time limit may be extended by the Secretary of Transportation up to 20 years after July 26, 1990, in a case where the raising of the entire passenger platform is the only means available of attaining accessibility or where other extraordinarily expensive structural changes are necessary to attain accessibility.
+&emsp;&emsp;&emsp;&emsp;Key stations in commuter rail transportation systems shall be made readilyaccessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than 3 years after July 26, 1990, except that the time limit may be extended by the Secretary of Transportation up to 20 years after July 26, 1990, in a case where the raising of the entire passenger platform is the only means available of attaining accessibility or where other extraordinarily expensive structural changes are necessary to attain accessibility.
 
 #### (iii) Designation of key stations
 
@@ -178,7 +178,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the stationto fail to make the alterations in such a manner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
+&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
 
 #### (ii) Alterations to a primary function area
 

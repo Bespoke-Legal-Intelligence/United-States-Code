@@ -80,7 +80,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 #### Civil Penalty Criteria
 
-Pub. L. 110–314, title II, §217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provided that: "Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], and in accordance with the procedures of section 553 of title 5, United States Code, the \[Consumer Product Safety\] Commission shall issue a final regulation providing its interpretation of the penalty factors described in section 20(b) of the Consumer Product Safety Act (15 U.S.C. 2069(b)), section 5(c)(3) of the Federal Hazardous Substances Act (15 U.S.C. 1264(c)(3)), and section 5(e)(2) of the Flammable Fabrics Act (15 U.S.C. 1194(e)(2)), as amended by subsection (a)."
+Pub. L. 110–314, title II, §217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provided that: "Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], and in accordance with the procedures of section 553 of title 5, United States Code, the \[Consumer Product Safety\]Commission shall issue a final regulation providing its interpretation of the penalty factors described in section 20(b) of the Consumer Product Safety Act (15 U.S.C. 2069(b)), section 5(c)(3) of the Federal Hazardous Substances Act (15 U.S.C. 1264(c)(3)), and section 5(e)(2) of the Flammable Fabrics Act (15 U.S.C. 1194(e)(2)), as amended by subsection (a)."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

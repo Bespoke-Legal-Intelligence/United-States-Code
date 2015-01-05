@@ -156,7 +156,7 @@
 
 #### (J) Uniform averaging procedure
 
-&emsp;&emsp;For the purpose of determining whether schools are making adequate yearlyprogress, the State may establish a uniform procedure for averaging data which includes one or more of the following:
+&emsp;&emsp;For the purpose of determining whether schools are making adequate yearly progress, the State may establish a uniform procedure for averaging data which includes one or more of the following:
 
 &emsp;&emsp;&emsp;(i) The State may average data from the school year for which the determination is made with data from one or two school years immediately preceding that school year.
 
@@ -218,7 +218,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the reasonable adaptations and accommodations for students with disabilities (as defined under section 602(3) of the Individuals with Disabilities Education Act \[20 U.S.C. 1401(3)\]) necessary to measure the academic achievement of such students relative to State academic content and State student academic achievement standards; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the inclusion of limited English proficient students, who shall be assessed in a valid and reliable manner and provided reasonable accommodations on assessments administered to such students under this paragraph, including, tothe extent practicable, assessments in the language and form most likely to yield accurate data on what such students know and can do in academic content areas, until such students have achieved English language proficiency as determined under paragraph (7);
+&emsp;&emsp;&emsp;&emsp;(III) the inclusion of limited English proficient students, who shall be assessed in a valid and reliable manner and provided reasonable accommodations on assessments administered to such students under this paragraph, including, to the extent practicable, assessments in the language and form most likely to yield accurate data on what such students know and can do in academic content areas, until such students have achieved English language proficiency as determined under paragraph (7);
 
 &emsp;&emsp;&emsp;(x) notwithstanding subclause (III), the academic assessment (using tests written in English) of reading or language arts of any student who has attended school in the United States (not including Puerto Rico) for three or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed two additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
@@ -298,7 +298,7 @@
 
 Each State plan shall contain assurances that—
 
-&emsp;(1) the State educational agency will meet the requirements of subsection (h)(1) of this section and, beginning with the 2002–2003 school year, will produce the annual State report cards described in such subsection, except that the Secretary may provide the State educational agency 1 additional year if the State educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period;
+&emsp;(1) the State educational agency will meet the requirements of subsection (h)(1) of this section and, beginning with the 2002–2003 school year, will produce the annual State report cards described in such subsection, except that the Secretary may provide the State educational agency 1 additional year if the State educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources ofthe State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period;
 
 &emsp;(2) the State will, beginning in school year 2002–2003, participate in biennial State academic assessments of 4th and 8th grade reading and mathematics under the National Assessment of Educational Progress carried out under section 9622(b)(2) of this title if the Secretary pays the costs of administering such assessments;
 
@@ -428,7 +428,7 @@ Each State plan shall describe how the State educational agency will support the
 
 &emsp;&emsp;&emsp;(vii) information on the performance of local educational agencies in the State regarding making adequate yearly progress, including the number and names of each school identified for school improvement under section 6316 of this title; and
 
-&emsp;&emsp;&emsp;(viii) the professional qualifications of teachers in the State, the percentage ofsuch teachers teaching with emergency or provisional credentials, and the percentage of classes in the State not taught by highly qualified teachers, in the aggregate and disaggregated by high-poverty compared to low-poverty schools which, for the purpose of this clause, means schools in the top quartile of poverty and the bottom quartile of poverty in the State.
+&emsp;&emsp;&emsp;(viii) the professional qualifications of teachers in the State, the percentage of such teachers teaching with emergency or provisional credentials, and the percentage of classes in the State not taught by highly qualified teachers, in the aggregate and disaggregated by high-poverty compared to low-poverty schools which, for the purpose of this clause, means schools in the top quartile of poverty and the bottom quartile of poverty in the State.
 
 #### (D) Optional information
 
@@ -486,7 +486,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (E) Public dissemination
 
-&emsp;&emsp;The local educational agency shall, not later than the beginning of the 2002–2003 school year, unless the local educational agency has received a 1-year extension pursuant to subparagraph (A), publicly disseminate the information described in this paragraph to all schools in the school district served by the local educational agency and to all parents of students attending those schools in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand, and make the information widely available through public means, such as posting on the Internet, distribution to the media, and distribution through public agencies, except that if a local educational agency issues a report card for all students, the local educational agency may include the information under this section as part of such report.
+&emsp;&emsp;The local educational agency shall, not later than the beginning of the 2002–2003 school year, unless the local educational agency has received a 1-year extension pursuant to subparagraph (A), publicly disseminate the information described in this paragraph to all schools in the school district served by the local educational agency and to all parents of students attending those schools in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand, and make the information widely available through public means, such asposting on the Internet, distribution to the media, and distribution through public agencies, except that if a local educational agency issues a report card for all students, the local educational agency may include the information under this section as part of such report.
 
 #### (3) Preexisting report cards
 

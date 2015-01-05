@@ -4,9 +4,9 @@
 
 (b)(1) An employee who is deployed in support of a contingency operation (as that term is defined in section 101(a)(13) of title 10) or an employee of the Department of Defense who is designated as emergency essential under section 1580 of title 10 shall be insured under the policy of insurance under this section if the employee, within 60 days after the date of notification of deployment or designation, elects to be insured under the policy of insurance. An election under this paragraph shall be effective when provided to the Office in writing, in the form prescribed by the Office, within such 60-day period.
 
-(2) The optional life insurance and accidental death and dismemberment insurance shall be made available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section8704(a) of this title, makes the sum of his insurance equal to his annual pay.
+(2) The optional life insurance and accidental death and dismemberment insurance shall be made available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section 8704(a) of this title, makes the sum of his insurance equal to his annual pay.
 
-(c)(1) Except as otherwise provided in this subsection, the optional insurance on an employee stops on his separation from service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office.
+(c)(1) Except as otherwise provided in this subsection, the optional insurance on an employeestops on his separation from service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office.
 
 (2)(A) In the case of any employee who retires on an immediate annuity and has been insured under this section throughout—
 
@@ -30,9 +30,9 @@
 
 (d)(1) During each period in which an employee has the optional insurance the full cost thereof shall be withheld from his pay. During each period in which an employee continues optional life insurance after retirement or while in receipt of compensation for work injuries, as provided in section 8706(b) of this title, the full cost thereof shall be withheld from his annuity or compensation, except that, at the end of the calendar month in which he becomes 65 years of age, the optional life insurance shall be without cost to him. Amounts so withheld shall be deposited, used, and invested as provided in section 8714 of this title and shall be reported and accounted for separately from amounts withheld and contributed under sections 8707 and 8708 of this title.
 
-(2) If an agency fails to withhold the proper cost of optional insurance from an individual's salary, compensation, or retirement annuity, the collection of amounts properly due may be waived by the agency if, in the judgment of the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of any unpaid amount, the agency shall submit an amount equal to the uncollected amount to the Office for deposit to the Employees’ Life Insurance Fund.
+(2) If an agency fails to withhold the proper cost of optional insurance from an individual's salary, compensation, or retirement annuity, the collection of amounts properly due may be waived by the agency if, in the judgment of the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of any unpaid amount, the agency shall submit an amount equal to the uncollected amount to the Office for deposit to the Employees' Life Insurance Fund.
 
-(3) Notwithstanding paragraph (1), an employee who is subject to withholdings under this subsection and whose pay, annuity, or compensation is insufficient to cover such withholdings may nevertheless continue optional insurance if the employee arranges to pay currently into the Employees’ Life Insurance Fund, through the agency or retirement system which administers pay, annuity, or compensation, an amount equal to the withholdings that would otherwise be required under this subsection.
+(3) Notwithstanding paragraph (1), an employee who is subject to withholdings under this subsection and whose pay, annuity, or compensation is insufficient to cover such withholdings may nevertheless continue optional insurance if the employee arranges to pay currently into the Employees' Life Insurance Fund, through the agency or retirement system which administers pay, annuity, or compensation, an amount equal to the withholdings that would otherwise be required under this subsection.
 
 (e) The cost of the optional insurance shall be determined from time to time by the Office on the basis of such age groups as it considers appropriate.
 
@@ -42,7 +42,7 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–417 designated existing provisions as par. (2) and added par. (1).
 
@@ -50,7 +50,7 @@
 
 <b>1986</b>—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
 
-Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1987. Prior to such effective date, par. (1) read as follows: “The optional insurance on an employee stops on his separation from service, 12 months after discontinuance of his pay, or on his entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
+Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1987. Prior to such effective date, par. (1) read as follows: "The optional insurance on an employee stops on his separation from service, 12 months after discontinuance of his pay, or on his entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title. Justices and judges of the United States described in section 8701(a)(5)(ii) and\(iii) of this chapter are deemed to continue in active employment for purposes of this chapter."
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
@@ -60,27 +60,27 @@ Subsec. (c)(3). Pub. L. 98–353, §206, added par. (3).
 
 Subsec. (d). Pub. L. 96–427, §6(b), designated existing provisions as par. (1) and added par. (2).
 
-<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
 
-Subsec. (c)(1). Pub. L. 95–583, §1(c)(1), substituted reference to section “8706(c)” for “8706(d)”.
+Subsec. (c)(1). Pub. L. 95–583, §1(c)(1), substituted reference to section "8706(c)" for "8706(d)".
 
-Subsec. (c)(2). Pub. L. 95–583, §1(c)(2), added par. (2) and struck out former par. (2) which read as follows: “So much of the optional life insurance in force on an employee on the date he retires on an immediate annuity or becomes entitled to receive compensation for work injuries which has been in force for not less than—
+Subsec. (c)(2). Pub. L. 95–583, §1(c)(2), added par. (2) and struck out former par. (2) which read as follows: "So much of the optional life insurance in force on an employee on the date he retires on an immediate annuity or becomes entitled to receive compensation for work injuries which has been in force for not less than—
 
-&emsp;“(A) the full period or periods of service during which the optional insurance was available to him; or
+&emsp;"(A) the full period or periods of service during which the optional insurance was available to him; or
 
-&emsp;“(B) the 12 years of service immediately preceding his retirement or beginning date of entitlement to compensation for work injuries and during which the optional insurance was available to him;
+&emsp;"(B) the 12 years of service immediately preceding his retirement or beginning date of entitlement to compensation for work injuries and during which the optional insurance was available to him;
 
 > whichever is shorter, may be continued—
 
-&emsp;“(A) after retirement, under the same conditions (except with respect to cost but including reduction of the amount continued) as provided in section 8706(b) of this title; or
+&emsp;"(A) after retirement, under the same conditions (except with respect to cost but including reduction of the amount continued) as provided in section 8706(b) of this title; or
 
-&emsp;“(B) while in receipt of compensation for work injuries under the same conditions (except with respect to cost) as provided in section 8706(c) of this title.”
+&emsp;"(B) while in receipt of compensation for work injuries under the same conditions (except with respect to cost) as provided in section 8706(c) of this title."
 
-Pub. L. 95–454, which substituted “Office” for “Commission”, was executed to text of subsec. (c)(2) as amended by Pub. L. 95–583. See Effective Date of 1978 Amendments note below.
+Pub. L. 95–454, which substituted "Office" for "Commission", was executed to text of subsec. (c)(2) as amended by Pub. L. 95–583. See Effective Date of 1978 Amendments note below.
 
-Subsec. (d). Pub. L. 95–583, §1(c)(3), struck out “or 8706(c)” after “section 8706(b)”.
+Subsec. (d). Pub. L. 95–583, §1(c)(3), struck out "or 8706(c)" after "section 8706(b)".
 
-Subsec. (e). Pub. L. 95–454 substituted “Office” for “Commission”.
+Subsec. (e). Pub. L. 95–454 substituted "Office" for "Commission".
 
 #### Effective Date of 1998 Amendment
 
@@ -108,17 +108,17 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Pub. L. 90–206, title IV, §405(b), Dec. 16, 1967, 81 Stat. 648, provided that:
 
-“(1) The amendments made by section 404 of this Act \[enacting this section and amending analysis preceding section 8701 of this title\] shall take effect on the first day of the first pay period which begins on or after the one hundred and eightieth day following the date of enactment \[Dec. 16, 1967\], or on any earlier date that the Civil Service Commission may prescribe, which is at least sixty days after the date of enactment \[Dec. 16, 1967\]. In the case of an employee who dies during the period beginning on the date of enactment \[Dec. 16, 1967\] and ending on the effective date prescribed by or pursuant to this subsection, or during the sixty days immediately following such period if the Commission determines that he did not have a reasonable opportunity to elect the optional insurance made available by section 404, the insurance of such employee shall be determined as if the amendments made by section 404 had been in effect on the date of such death, and the employee had elected to receive the maximum amount of optional insurance available to him under such amendments. An employee who retires during the period beginning on the date of enactment and ending on the effective date prescribed by or pursuant to this subsection shall have an opportunity to elect the optional insurance made available by section 404.
+"(1) The amendments made by section 404 of this Act \[enacting this section and amending analysis preceding section 8701 of this title\] shall take effect on the first day of the first pay period which begins on or after the one hundred and eightieth day following the date of enactment \[Dec. 16, 1967\], or on any earlier date that the Civil Service Commission may prescribe, which is at least sixty days after the date of enactment \[Dec. 16, 1967\]. In the case of an employee who dies during the period beginning on the date of enactment \[Dec. 16, 1967\] and ending on the effective date prescribed by or pursuant to this subsection, or during the sixty days immediately following such period if the Commission determines that he did not have a reasonable opportunity to elect the optional insurance made available by section 404, the insurance of such employee shall be determined as if the amendments made by section 404 had been in effect on the date of such death, and the employee had elected to receive the maximum amount of optional insurance available to him under such amendments. An employee who retires during the period beginning on the date of enactment and ending on the effective date prescribed by or pursuant to this subsection shall have an opportunity to elect the optional insurance made available by section 404.
 
-“(2) In the case of an employee in the service on the effective date prescribed by or pursuant to this subsection, (i) the period during which such employee may elect to receive optional insurance under the amendment made by section 404 shall not expire prior to the sixtieth day after such effective date, and (ii) for the purpose of determining the amount of insurance to be continued after retirement, the period during which such optional insurance was available to such employee shall not be considered to have commenced prior to the expiration of sixty days following such effective date.”
+"(2) In the case of an employee in the service on the effective date prescribed by or pursuant to this subsection, (i) the period during which such employee may elect to receive optional insurance under the amendment made by section 404 shall not expire prior to the sixtieth day after such effective date, and (ii) for the purpose of determining the amount of insurance to be continued after retirement, the period during which such optional insurance was available to such employee shall not be considered to have commenced prior to the expiration of sixty days following such effective date."
 
 #### Retroactive Effect
 
 Enactment of this section by Pub. L. 90–206 to have no effect in the case of an employee who died, was finally separated, or retired prior to Dec. 16, 1967, see section 405(c) of Pub. L. 90–206, set out as an Retroactive Effect of 1967 Amendment note under section 8704 of this title.
 
-#### Availability of Certain Funds in Employees’ Life Insurance Fund
+#### Availability of Certain Funds in Employees' Life Insurance Fund
 
-Pub. L. 96–427, §11, Oct. 10, 1980, 94 Stat. 1838, provided that: “Amounts credited to the Employees’ Life Insurance Fund under section 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act \[enacting sections 8714b, 8714c, and 8701(d) of this title\].”
+Pub. L. 96–427, §11, Oct. 10, 1980, 94 Stat. 1838, provided that: "Amounts credited to the Employees' Life Insurance Fund under section 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act \[enacting sections 8714b, 8714c, and 8701(d) of this title\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1) of this subsection,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1) of this subsection,".</i>
 

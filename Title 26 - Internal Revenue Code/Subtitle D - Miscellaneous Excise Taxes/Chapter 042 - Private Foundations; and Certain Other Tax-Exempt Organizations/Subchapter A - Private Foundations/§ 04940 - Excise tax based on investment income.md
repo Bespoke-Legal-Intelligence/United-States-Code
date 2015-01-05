@@ -26,7 +26,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), there shall be allowed as a deduction all the ordinaryand necessary expenses paid or incurred for the production or collection of gross investment income or for the management, conservation, or maintenance of property held for the production of such income, determined with the modifications set forth in subparagraph (B).
+&emsp;&emsp;For purposes of paragraph (1), there shall be allowed as a deduction all the ordinary and necessary expenses paid or incurred for the production or collection of gross investment income or for the management, conservation, or maintenance of property held for the production of such income, determined with the modifications set forth in subparagraph (B).
 
 #### (B) Modifications
 
@@ -220,7 +220,7 @@ Subsec. (c)(2). Pub. L. 95–345 inserted provision relating to payments with re
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, seesection 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 

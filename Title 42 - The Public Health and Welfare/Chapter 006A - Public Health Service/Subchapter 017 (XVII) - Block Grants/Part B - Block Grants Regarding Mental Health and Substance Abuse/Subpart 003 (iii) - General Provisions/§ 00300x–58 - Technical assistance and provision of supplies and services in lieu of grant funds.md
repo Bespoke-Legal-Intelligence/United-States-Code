@@ -12,7 +12,7 @@ The Secretary shall, without charge to a State receiving a grant under section 3
 
 #### (2) Corresponding reduction in payments
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the program involved to the State by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the program involved to the State by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred incomplying with such request, expend the amounts withheld.
 
 (July 1, 1944, ch. 373, title XIX, §1948, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 408.)
 

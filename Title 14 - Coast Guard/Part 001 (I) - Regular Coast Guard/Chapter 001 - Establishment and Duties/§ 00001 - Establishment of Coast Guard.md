@@ -26,13 +26,17 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–281, §1, Dec. 18, 2014, 128 Stat. 3022, provided that: "This Act \[see Tables for classification\] may be cited as the 'Howard Coble Coast Guard and Maritime Transportation Act of 2014'."
+
 #### Short Title of 2012 Amendment
 
 Pub. L. 112–213, §1(a), Dec. 20, 2012, 126 Stat. 1540, provided that: "This Act \[see Tables for classification\] may be cited as the 'Coast Guard and Maritime Transportation Act of 2012'."
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–281, title V, §501, Oct. 15, 2010, 124 Stat. 2951, provided that: "This title \[enacting sections 57 to 59, 102, and 200 of this title and section 2116 of Title 46, Shipping, amending sections 47, 50, 51, 52, 93, and 290 ofthis title and section 3309 of Title 46, repealing section 50a of this title, and enacting provisions set out as a note under section 50 of this title\] may be cited as the 'Coast Guard Modernization Act of 2010'."
+Pub. L. 111–281, title V, §501, Oct. 15, 2010, 124 Stat. 2951, provided that: "This title \[enacting sections 57 to 59, 102, and 200 of this title and section 2116 of Title 46, Shipping, amending sections 47, 50, 51, 52, 93, and 290 of this title and section 3309 of Title 46, repealing section 50a of this title, and enacting provisions set out as a note under section 50 of this title\] may be cited as the 'Coast Guard Modernization Act of 2010'."
 
 #### Short Title of 2006 Amendment
 

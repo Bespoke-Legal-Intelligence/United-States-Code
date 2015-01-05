@@ -38,7 +38,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 #### Effective Date
 
-Section not applicable with respect to a State compensation program that was an eligible State crimevictim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as an Effective Date of 1988 Amendment note under section 10601 of this title.
+Section not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as an Effective Date of 1988 Amendment note under section 10601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

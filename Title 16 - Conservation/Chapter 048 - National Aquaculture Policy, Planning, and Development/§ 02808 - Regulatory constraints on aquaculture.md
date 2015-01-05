@@ -2,7 +2,7 @@
 
 #### (a) Regulatory constraints study
 
-The Secretaries, through the coordinating group, shall conduct, within twelve months after September 26, 1980, a study of the State and Federal regulatory restrictions to aquaculture development in the United States. The study shall—
+The Secretaries, through the coordinating group, shall conduct, within twelve monthsafter September 26, 1980, a study of the State and Federal regulatory restrictions to aquaculture development in the United States. The study shall—
 
 &emsp;(1) include a literature review and a descriptive list identifying the parameters of the issue;
 

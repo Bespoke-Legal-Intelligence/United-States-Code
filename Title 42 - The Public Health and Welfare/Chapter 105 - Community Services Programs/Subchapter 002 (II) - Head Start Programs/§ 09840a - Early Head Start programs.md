@@ -14,7 +14,7 @@ In carrying out a program described in subsection (a) of this section, an entity
 
 &emsp;(3) promote positive parent-child interactions;
 
-&emsp;(4) provide services to parents to support their role as parents (including parenting skills training and training in basic child development) and services to help the families move toward self-sufficiency (including educational and employment services, as appropriate);
+&emsp;(4) provide services to parents to support their role as parents (including parentingskills training and training in basic child development) and services to help the families move toward self-sufficiency (including educational and employment services, as appropriate);
 
 &emsp;(5) coordinate services with services provided by programs in the State (including home-based services) and programs in the community (including programs for infants and toddlers with disabilities and programs for homeless infants and toddlers) to ensure a comprehensive array of services (such as health and mental health services and family support services);
 
@@ -26,7 +26,7 @@ In carrying out a program described in subsection (a) of this section, an entity
 
 &emsp;(9) establish channels of communication between staff of the Early Head Start program, and staff of a Head Start program or other local providers of early childhood education and development programs, to facilitate the coordination of programs;
 
-&emsp;(10) in the case of a Head Start agency that operates a program and that also provides Head Start services through the age of mandatory school attendance, ensure that childrenand families participating in the program receive such services through such age;
+&emsp;(10) in the case of a Head Start agency that operates a program and that also provides Head Start services through the age of mandatory school attendance, ensure that children and families participating in the program receive such services through such age;
 
 &emsp;(11) ensure formal linkages with providers of early intervention services for infants and toddlers with disabilities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), with the State interagency coordinating council, as established in part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), and with the agency responsible for administering section 5106a of this title;
 
@@ -80,7 +80,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 &emsp;&emsp;&emsp;(ii) not less than 25 percent shall be available to the Secretary to support a State-based training and technical assistance system, or a national system, described in section 9843(e) of this title, including infant and toddler specialists, to support Early Head Start agencies, consistent with subparagraph (B); and
 
-&emsp;&emsp;&emsp;(iii) the remainder of such amount shall be made available to the Secretary to assist Early Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title (directly, or through grants, contracts, or other agreements or arrangements with an entity with demonstrated expertise relating to infants, toddlers, and families) by—
+&emsp;&emsp;&emsp;(iii) the remainder of such amount shall be made available to the Secretary to assist Early Head Start agencies in meeting and exceeding the standards described insection 9836a(a)(1) of this title (directly, or through grants, contracts, or other agreements or arrangements with an entity with demonstrated expertise relating to infants, toddlers, and families) by—
 
 &emsp;&emsp;&emsp;&emsp;(I) providing ongoing training and technical assistance to Early Head Start agencies, including developing training and technical assistance materials and resources to support program development and improvement and best practices in providing services to children and families served by Early Head Start programs;
 

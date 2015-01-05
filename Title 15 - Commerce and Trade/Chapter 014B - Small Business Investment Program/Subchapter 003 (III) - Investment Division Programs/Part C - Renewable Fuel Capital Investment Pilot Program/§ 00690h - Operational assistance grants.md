@@ -8,7 +8,7 @@
 
 #### (2) Terms
 
-&emsp;A grant under this subsection shall be made over a multiyear period not to exceed 10 years,under such other terms as the Administrator may require.
+&emsp;A grant under this subsection shall be made over a multiyear period not to exceed 10 years, under such other terms as the Administrator may require.
 
 #### (3) Grant amount
 

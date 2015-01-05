@@ -32,5 +32,5 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Definitions
 
-In subsec. (d), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
+In subsec. (d), independent states of the former Soviet Union has the meaning given in section 5801 of thistitle, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 

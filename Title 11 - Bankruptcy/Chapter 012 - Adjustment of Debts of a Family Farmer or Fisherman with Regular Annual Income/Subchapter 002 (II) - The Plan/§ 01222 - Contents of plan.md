@@ -26,7 +26,7 @@
 
 &emsp;(5) provide for the curing of any default within a reasonable time and maintenance of payments while the case is pending on any unsecured claim or secured claim on which the last payment is due after the date on which the final payment under the plan is due;
 
-&emsp;(6) subject to section 365 of this title, provide for the assumption, rejection, or assignment of any executory contract or unexpired lease of the debtor not previously rejected under such section;
+&emsp;(6) subject to section 365 of this title, provide for the assumption, rejection, or assignmentof any executory contract or unexpired lease of the debtor not previously rejected under such section;
 
 &emsp;(7) provide for the payment of all or part of a claim against the debtor from property of the estate or property of the debtor;
 

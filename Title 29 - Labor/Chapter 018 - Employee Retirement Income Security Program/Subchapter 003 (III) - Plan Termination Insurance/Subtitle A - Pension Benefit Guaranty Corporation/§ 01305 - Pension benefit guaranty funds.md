@@ -2,7 +2,7 @@
 
 #### (a) Establishment of four revolving funds on books of Treasury of the United States
 
-There are established on the books of the Treasury of the United States for revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title, one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title, one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference ismade to the term "fund" the reference shall be considered to refer to the appropriate fund established under this subsection.
+There are established on the books of the Treasury of the United States for revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title, one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title, one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term "fund" the reference shall be considered to refer to the appropriate fund established under this subsection.
 
 #### (b) Credits to funds; availability of funds; investment of moneys in excess of current needs
 
@@ -30,7 +30,25 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(D) to pay to participants and beneficiaries the estimated amount of benefits which are guaranteed by the corporation under this subchapter and the estimated amount of other benefits to which plan assets are allocated under section 1344 of this title, under single-employer plans which are unable to pay benefits when due or which are abandoned.
 
-(3) Whenever the corporation determines that the moneys of any fund are in excess of current needs, it may request the investment of such amounts as it determines advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States.
+(3)(A) Whenever the corporation determines that the moneys of any fund are in excess of current needs, it may request the investment of such amounts as it determines advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States.
+
+(B) Notwithstanding subparagraph (A)—
+
+&emsp;(i) the amounts of premiums received under section 1306 of this title with respect to the fund to be used for basic benefits under section 1322a of this title in a fiscal year in the period beginning with fiscal year 2016 and ending with fiscal year 2020 shall be placed in a noninterest-bearing account within such fund in the following amounts:
+
+&emsp;&emsp;(I) for fiscal year 2016, $108,000,000;
+
+&emsp;&emsp;(II) for fiscal year 2017, $111,000,000;
+
+&emsp;&emsp;(III) for fiscal year 2018, $113,000,000;
+
+&emsp;&emsp;(IV) for fiscal year 2019, $149,000,000; and
+
+&emsp;&emsp;(V) for fiscal year 2020, $296,000,000;
+
+&emsp;(ii) premiums received in fiscal years specified in subclauses (I) through (V) of clause (i) shall be allocated in order first to the noninterest-bearing account in the amount specified and second to any other accounts within such fund; and
+
+&emsp;(iii) financial assistance, as provided under section 1431 of this title, shall be withdrawn proportionately from the noninterest-bearing and other accounts within the fund.
 
 #### (c) Repealed. Pub. L. 112–141, div. D, title II, §40234(a), July 6, 2012, 126 Stat. 858
 
@@ -90,9 +108,11 @@ There are established on the books of the Treasury of the United States for revo
 
 Any stock in a person liable to the corporation under this subchapter which is paid to the corporation by such person or a member of such person's controlled group in satisfaction of such person's liability under this subchapter may be voted only by the custodial trustees or outside money managers of the corporation.
 
-(Pub. L. 93–406, title IV, §4005, Sept. 2, 1974, 88 Stat. 1009; Pub. L. 96–364, title IV, §403(a), Sept. 26, 1980, 94 Stat. 1300; Pub. L. 99–272, title XI, §11016(a)(1), (2), (c)(7), Apr. 7, 1986, 100 Stat. 268, 274; Pub. L. 100–203, title IX, §§9312(c)(4), 9331(d), Dec. 22, 1987, 101 Stat. 1330–364, 1330–368; Pub. L. 103–465, title VII, §776(b)(2), Dec. 8, 1994, 108 Stat. 5048; Pub. L. 112–141, div. D, title II, §40234(a), (b)(1), July 6, 2012, 126 Stat. 858.)
+(Pub. L. 93–406, title IV, §4005, Sept. 2, 1974, 88 Stat. 1009; Pub. L. 96–364, title IV, §403(a), Sept. 26, 1980, 94 Stat. 1300; Pub. L. 99–272, title XI, §11016(a)(1), (2), (c)(7), Apr. 7, 1986, 100 Stat. 268, 274; Pub. L. 100–203, title IX, §§9312(c)(4), 9331(d), Dec. 22, 1987, 101 Stat. 1330–364, 1330–368; Pub. L. 103–465, title VII, §776(b)(2), Dec. 8, 1994, 108 Stat. 5048; Pub. L. 112–141, div. D, title II, §40234(a), (b)(1), July 6, 2012, 126 Stat. 858; Pub. L. 113–235, div. O, title I, §131(b), Dec. 16, 2014, 128 Stat. 2797.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(3). Pub. L. 113–235 designated existing provisions as subpar. (A) and added subpar. (B).
 
 <b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §40234(b)(1)(A)(i), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: "funds borrowed under subsection (c) of this section,".
 

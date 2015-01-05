@@ -6,7 +6,7 @@ The Atomic Energy Act of 1946, which was formerly classified to sections 1801 to
 
 Section 1801, act Aug. 1, 1946, ch. 724, §1, 60 Stat. 755, related to declaration of policy and purpose of chapter. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2011 to 2013 of this title.
 
-Section 1802, acts Aug. 1, 1946, ch. 724, §2, 60 Stat. 756; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July3, 1948, ch. 828, 62 Stat. 1259; Oct. 11, 1949, ch. 673, §§1–3, 63 Stat. 762; Sept. 23, 1950, ch. 1000, §§1, 2, 64 Stat. 979; July 31, 1953, ch. 283, §1, 67 Stat. 240, related to establishment of Atomic Energy Commission, its membership, tenure, compensation, and appointment of certain officers and committees. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2031 to 2038 of this title.
+Section 1802, acts Aug. 1, 1946, ch. 724, §2, 60 Stat. 756; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 3, 1948, ch. 828, 62 Stat. 1259; Oct. 11, 1949, ch. 673, §§1–3, 63 Stat. 762; Sept. 23, 1950, ch. 1000, §§1, 2, 64 Stat. 979; July 31, 1953, ch. 283, §1, 67 Stat. 240, related to establishment of Atomic Energy Commission, its membership, tenure, compensation, and appointment of certain officers and committees. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2031 to 2038 of this title.
 
 Section 1803, act Aug. 1, 1946, ch. 724, §3, 60 Stat. 758, related to research and development activities by Commission. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2051 to 2053 of this title.
 

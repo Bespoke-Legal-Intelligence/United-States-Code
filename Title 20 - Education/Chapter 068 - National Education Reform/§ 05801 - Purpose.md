@@ -34,7 +34,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;(8) assisting every elementary and secondary school that receives funds under this chapter to actively involve parents and families in supporting the academic work of their children at home and in providing parents with skills to advocate for their children at school.
 
-(Pub. L. 103–227, §2, Mar. 31, 1994, 108 Stat. 128; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(2)\], Apr. 26, 1996, 110 Stat. 1321–211,1321–252; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–227, §2, Mar. 31, 1994, 108 Stat. 128; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -48,7 +48,7 @@ Par. (6)(C) to (F). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(B)\], r
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–25, §1, Apr. 29, 1999, 113 Stat. 41, provided that: "This Act \[enacting sections 5891a and 5891b of this title, amending section 1415 of this title, and enacting provisions set out as notes under sections 1415 and 5891a of this title\] may be cited as the 'Education Flexibility Partnership Act of 1999'."
+Pub. L. 106–25, §1, Apr. 29, 1999, 113 Stat. 41, provided that: "This Act \[enacting sections 5891a and 5891b ofthis title, amending section 1415 of this title, and enacting provisions set out as notes under sections 1415 and 5891a of this title\] may be cited as the 'Education Flexibility Partnership Act of 1999'."
 
 #### Short Title
 

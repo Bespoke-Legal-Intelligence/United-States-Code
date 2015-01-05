@@ -18,7 +18,7 @@ Pub. L. 99–338, June 19, 1986, 100 Stat. 641, as amended by Pub. L. 103–437,
 
 "
 
-Sec. 2. The Secretary shall not execute any permit renewal prior to one hundred and twenty calendar daysfrom the date the same is submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives.
+Sec. 2. The Secretary shall not execute any permit renewal prior to one hundred and twenty calendar days from the date the same is submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives.
 
 "
 

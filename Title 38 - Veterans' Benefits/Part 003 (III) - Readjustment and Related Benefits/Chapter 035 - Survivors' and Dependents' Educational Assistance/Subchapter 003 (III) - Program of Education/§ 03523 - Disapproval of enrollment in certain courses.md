@@ -24,7 +24,7 @@
 
 <b>1996</b>—Subsec. (a)(4). Pub. L. 104–275, §104(b)(1), inserted "(including open circuit television)" after "accredited independent study program".
 
-Subsec. (c). Pub. L. 104–275, §104(b)(2), substituted "radio." for "radio or by open circuit television, exceptthat the Secretary may approve the enrollment of an eligible person in a course, to be pursued in residence, leading to a standard college degree which includes, as an integral part thereof, subjects offered through open circuit television."
+Subsec. (c). Pub. L. 104–275, §104(b)(2), substituted "radio." for "radio or by open circuit television, except that the Secretary may approve the enrollment of an eligible person in a course, to be pursued in residence, leading to a standard college degree which includes, as an integral part thereof, subjects offered through open circuit television."
 
 <b>1992</b>—Subsec. (a)(4). Pub. L. 102–568 substituted "an accredited independent study program" for "one".
 

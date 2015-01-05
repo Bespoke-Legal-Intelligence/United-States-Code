@@ -16,7 +16,7 @@ There is hereby established in the United States Treasury an account to be known
 
 (C) The Secretary may not agree to terms which provide for the investment of the Fund in a manner inconsistent with section 162a of this title, unless the Tribe first submits a specific waiver of liability on the part of the United States for any loss which may result from such an investment.
 
-(D) The Tribe may, with the approval of the Secretary, alter the economic development plansubject to the conditions set forth in subparagraph (B).
+(D) The Tribe may, with the approval of the Secretary, alter the economic development plan subject to the conditions set forth in subparagraph (B).
 
 (4) Under no circumstances shall any part of the Fund be distributed to any member of the Tribe unless pursuant to the economic development plan approved by the Secretary under paragraph (3).
 
@@ -28,7 +28,7 @@ There is hereby established in the United States Treasury an account to be known
 
 (8) Land or natural resources acquired under this subsection which are located outside of the settlement lands shall be held in fee by the Mashantucket Pequot Tribe, and the United States shall have no further trust responsibility with respect to such land and natural resources. Such land and natural resources shall not be subject to any restriction against alienation under the laws of the United States.
 
-(9) Notwithstanding the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner.
+(9) Notwithstanding the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of theland or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner.
 
 #### (c) Transfer of private settlement land as involuntary conversion
 

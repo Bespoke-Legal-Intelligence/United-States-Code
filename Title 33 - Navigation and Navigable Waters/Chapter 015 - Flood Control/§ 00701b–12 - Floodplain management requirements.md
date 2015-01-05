@@ -20,7 +20,7 @@ Within 1 year after the date of signing a project cooperation agreement for cons
 
 &emsp;&emsp;(A) address potential measures, practices, and policies to be undertaken by non-Federal interests to to <sup>1</sup> reduce loss of life, injuries, damages to property and facilities, public expenditures, and other adverse impacts associated with flooding and to preserve and enhance natural floodplain values; and
 
-&emsp;&emsp;(B) address those measures to be undertaken by non-Federal interests to preservethe level of flood protection provided by a project to which subsection (a) of this section applies.
+&emsp;&emsp;(B) address those measures to be undertaken by non-Federal interests to preserve the level of flood protection provided by a project to which subsection (a) of this section applies.
 
 #### (3) Limitation on statutory construction
 

@@ -12,13 +12,13 @@ A prior section 2305 was renumbered section 2306 of this title.
 
 <b>2012</b>—Pub. L. 112–199 renumbered section 2304 of this title as this section.
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and text.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in section catchline and text.
 
-<b>1995</b>—Pub. L. 104–66 struck out subsec. (a) designation before “If requested by” and struck out subsec. (b) which read as follows: “The General Accounting Office shall prepare and submit an annual report to the President and the Congress on the activities of the Merit Systems Protection Board and the Office of Personnel Management. The report shall include a description of—
+<b>1995</b>—Pub. L. 104–66 struck out subsec. (a) designation before "If requested by" and struck out subsec. (b) which read as follows: "The General Accounting Office shall prepare and submit an annual report to the President and the Congress on the activities of the Merit Systems Protection Board and the Office of Personnel Management. The report shall include a description of—
 
-&emsp;“(1) significant actions taken by the Board to carry out its functions under this title; and
+&emsp;"(1) significant actions taken by the Board to carry out its functions under this title; and
 
-&emsp;“(2) significant actions of the Office of Personnel Management, including an analysis of whether or not the actions of the Office are in accord with merit system principles and free from prohibited personnel practices.”
+&emsp;"(2) significant actions of the Office of Personnel Management, including an analysis of whether or not the actions of the Office are in accord with merit system principles and free from prohibited personnel practices."
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “The” for “the” at beginning of first sentence.
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted "The" for "the" at beginning of first sentence.
 

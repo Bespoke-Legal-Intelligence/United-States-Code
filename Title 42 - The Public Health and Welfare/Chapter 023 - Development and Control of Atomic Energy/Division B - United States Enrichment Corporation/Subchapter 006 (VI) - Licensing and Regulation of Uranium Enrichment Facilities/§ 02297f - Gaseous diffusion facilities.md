@@ -18,7 +18,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (1) Establishment
 
-&emsp;The Nuclear Regulatory Commission shall establish a certification process to ensure that the Corporation complies with standards established under subsection (a) of this section.
+&emsp;The Nuclear Regulatory Commission shall establish a certification process to ensure thatthe Corporation complies with standards established under subsection (a) of this section.
 
 #### (2) Periodic application for certificate of compliance
 

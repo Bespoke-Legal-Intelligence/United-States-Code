@@ -16,7 +16,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;(3) An advance recourse loan under section 424 \[7 U.S.C. 1433c\] shall come due at such time immediately following harvest as the Secretary determines appropriate. Each loan contract entered into under section 424 shall specify the date on which the loan is to come due.
 
-&emsp;(4)(A) The Secretary shall establish procedures, when practicable, under which a producer, simultaneously with repayment of his recourse loan, may obtain a nonrecourse loan on his crop (as otherwise provided for in the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\])in an amount sufficient to repay his recourse loan.
+&emsp;(4)(A) The Secretary shall establish procedures, when practicable, under which a producer, simultaneously with repayment of his recourse loan, may obtain a nonrecourse loan on his crop (as otherwise provided for in the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\]) in an amount sufficient to repay his recourse loan.
 
 &emsp;(B) In cases in which nonrecourse loans under such Act are not normally made available directly to producers, the Secretary shall establish procedures under which a producer may repay a recourse loan at the same time the producer receives advances or other payment from the producer's disposition of his crop.
 
@@ -36,7 +36,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 #### (b) Use of Commodity Credit Corporation, Agricultural Stabilization and Conservation Service, and county committees
 
-The Secretary shall carry out the program provided for under section 424 \[7 U.S.C. 1433c\] through the Commodity Credit Corporation, using the services of the Agricultural Stabilization and Conservation Service and the county committees established under section 590h(b) of title 16 to make determinations of eligibility with respect to the credit test under subsection (a)(1) of this section, and determinations as to the sufficiency of security under subsection (a)(6) of this section. The Secretary may use such committees for such other purposes as the Secretary determines appropriate in carrying out section 424.
+The Secretary shall carry out the program provided for under section 424 \[7 U.S.C. 1433c\] through the Commodity Credit Corporation,using the services of the Agricultural Stabilization and Conservation Service and the county committees established under section 590h(b) of title 16 to make determinations of eligibility with respect to the credit test under subsection (a)(1), and determinations as to the sufficiency of security under subsection (a)(6). The Secretary may use such committees for such other purposes as the Secretary determines appropriate in carrying out section 424.
 
 #### (c) Regulations
 

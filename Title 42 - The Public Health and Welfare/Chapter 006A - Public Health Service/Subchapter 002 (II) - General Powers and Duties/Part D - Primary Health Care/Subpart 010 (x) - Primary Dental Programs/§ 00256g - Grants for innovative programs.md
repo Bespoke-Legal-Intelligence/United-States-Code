@@ -26,7 +26,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 &emsp;(4) the establishment or expansion of dental residency programs in coordination with accredited dental training institutions in States without dental schools;
 
-&emsp;(5) programs developed in consultation with State and local dental societies to expand or establish oral health services and facilities in designated dental health professional shortage areas, including services and facilities for children with special needs, such as—
+&emsp;(5) programs developed in consultation with State and local dental societies to expand or establish oral health services and facilities indesignated dental health professional shortage areas, including services and facilities for children with special needs, such as—
 
 &emsp;&emsp;(A) the expansion or establishment of a community-based dental facility, free-standing dental clinic, consolidated health center dental facility, school-linked dental facility, or United States dental school-based facility;
 
@@ -76,7 +76,7 @@ There is authorized to be appropriated to carry out this section, $25,000,000 fo
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

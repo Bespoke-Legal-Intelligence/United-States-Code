@@ -42,7 +42,7 @@ It shall be the duty of the Administration, and it is empowered—
 
 #### (c) Consultation and cooperation with Government agencies; studies and recommendations
 
-The Administration is authorized to consult and cooperate with all Government agencies and to make studies and recommendations to such agencies, and such agencies are authorized and directed to cooperate with the Administration in order to carry out and to accomplish the purposes of this section.
+The Administration is authorized to consult and cooperate with all Government agencies and to make studies and recommendations to such agencies, and such agencies are authorized anddirected to cooperate with the Administration in order to carry out and to accomplish the purposes of this section.
 
 #### (d) Joint programs; approval of agreements; withdrawal of approval; publication in Federal Register
 
@@ -562,7 +562,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;&emsp;(v) is a faculty member or a student of an institution of higher education, as that term is defined in section 1001 of title 20; or
 
-&emsp;&emsp;&emsp;(vi) is located in a State in which the total value of contracts awarded to small business concerns under all STTR programs is less than the total value of contracts awarded to small business concerns in a majority of other States, as determined by the Administrator in biennialfiscal years, beginning with fiscal year 2008, based on the most recent statistics compiled by the Administrator;
+&emsp;&emsp;&emsp;(vi) is located in a State in which the total value of contracts awarded to small business concerns under all STTR programs is less than the total value of contracts awarded to small business concernsin a majority of other States, as determined by the Administrator in biennial fiscal years, beginning with fiscal year 2008, based on the most recent statistics compiled by the Administrator;
 
 &emsp;&emsp;(B) if an awardee receives an award in an amount that is more than the award guidelines under this section, a statement from the agency that justifies the award amount; and
 
@@ -788,7 +788,7 @@ Program information relating to the SBIR and STTR programs shall be included by 
 
 #### (1) Revision and update of criteria and procedures of identification
 
-&emsp;In carrying out subsection (g) of this section, the Secretary of Defense shall, not less often than once every 4 years, revise and update the criteria and procedures utilized to identify areas of the research and development efforts of the Department of Defense which are suitable for the provision of funds under the Small Business Innovation Research Program and the Small Business Technology Transfer Program.
+&emsp;In carrying out subsection (g) of this section, the Secretary of Defense shall, not less often than once every 4 years, revise and update the criteria and procedures utilized to identify areas of the research and developmentefforts of the Department of Defense which are suitable for the provision of funds under the Small Business Innovation Research Program and the Small Business Technology Transfer Program.
 
 #### (2) Utilization of plans
 
@@ -952,7 +952,7 @@ Program information relating to the SBIR and STTR programs shall be included by 
 
 #### (cc) Phase flexibility
 
-During fiscal years 2012 through 2017, the National Institutes of Health, the Department of Defense, and the Department of Education may each provide to a small business concern an award under Phase II of the SBIR program with respect to a project, without regard to whether the small business concern was provided an award under Phase I of an SBIR program with respect to such project, if the head of the applicable agency determines that the small business concern has completed the determinations described in subsection (e)(4)(A) with respect tosuch project despite not having been provided a Phase I award.
+During fiscal years 2012 through 2017, the National Institutes of Health, the Department of Defense, and the Department of Education may each provide to a small business concern an award under Phase II of the SBIR program with respect to a project, without regard to whether the small business concern was provided an award under Phase I of an SBIR program with respect to such project, if the head of the applicable agency determines that the small business concern has completed the determinations described in subsection (e)(4)(A) with respect to such project despite not having been provided a Phase I award.
 
 #### (dd) Participation of small business concerns majority-owned by venture capital operating companies, hedge funds, or private equity firms in the SBIR program
 
@@ -1012,7 +1012,7 @@ During fiscal years 2012 through 2017, the National Institutes of Health, the De
 
 &emsp;&emsp;If a Federal agency does not make an award under a solicitation under the SBIR program before the date that is 9 months after the date on which the period for submitting applications under the solicitation ends—
 
-&emsp;&emsp;&emsp;(i) a covered small business concern is eligible to receive the award, without regard to whether the covered small business concern meets the requirements for receiving an award under the SBIR program for asmall business concern that is majority-owned by multiple venture capital operating companies, hedge funds, or private equity firms, if the covered small business concern meets all other requirements for such an award; and
+&emsp;&emsp;&emsp;(i) a covered small business concern is eligible to receive the award, without regard to whether the covered small business concern meets the requirements for receiving an award under the SBIR program for a small business concern that is majority-owned by multiple venture capital operating companies, hedge funds, or private equity firms, if the covered small business concern meets all other requirements for such an award; and
 
 &emsp;&emsp;&emsp;(ii) the head of the Federal agency shall transfer an amount equal to any amount awarded to a covered small business concern under the solicitation to the funds for general SBIR programs from the non-SBIR and non-STTR research and development funds of the Federal agency, not later than 90 days after the date on which the Federal agency makes the award.
 
@@ -1458,6 +1458,8 @@ Not later than October 1, 2013, and annually thereafter, the head of each Federa
 
 &emsp;&emsp;&emsp;<i>"(ii) shall not be used to make Phase III awards."</i>
 
+<i>See 2011 Amendment notes below.</i>
+
 #### References in Text
 
 Executive Order 13329, referred to in subsecs. (b)(8), (g)(11), (o)(15), and (ss)(2), is set out as a note under this section.
@@ -1522,7 +1524,15 @@ Subsec. (e)(11) to (13). Pub. L. 112–81, §5125(b)(1)(C), added pars. (11) to 
 
 Subsec. (f)(1). Pub. L. 112–81, §5102(a)(1), substituted "Except as provided in paragraph (2)(B), each" for "Each" in introductory provisions, added subpars. (C) to (I), and struck out former subpar. (C) which read as follows: "not less than 2.5 percent of such budget in each fiscal year thereafter,".
 
-Subsec. (f)(2). Pub. L. 112–81, §5141(b)(1)(A), substituted "shall not make available for the purpose" for "shall not—
+Subsec. (f)(2). Pub. L. 112–81, §5141(b)(3)(A), substituted "shall not—
+
+&emsp;"(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
+
+&emsp;"(B) make available for the purpose"
+
+> for "shall not make available for the purpose".
+
+Pub. L. 112–81, §5141(b)(1)(A), substituted "shall not make available for the purpose" for "shall not—
 
 &emsp;"(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
 
@@ -1554,7 +1564,7 @@ Subsec. (j)(2)(G). Pub. L. 112–81, §5125(b)(2)(B)(iv), substituted "Phase I" 
 
 Subsec. (j)(2)(H). Pub. L. 112–81, §5125(b)(2)(B)(v), substituted "Phase I" for "the first phase", "Phase II" for "second phase" in two places, and "Phase III" for "third phase".
 
-Subsec. (j)(3)(A). Pub. L. 112–81, §5125(b)(2)(C)(i), substituted "Phase I" for "the first phase (as described in subsection (e)(4)(A) of this section)", "Phase II" for "(as described in subsection (e)(4)(B) of this section)", and "Phase III" for "the third phase (as described in subsection (e)(4)(C) of this section)".
+Subsec. (j)(3)(A). Pub. L. 112–81, §5125(b)(2)(C)(i), substituted "Phase I" for "the first phase (as described in subsection (e)(4)(A) of this section)", "Phase II" for"(as described in subsection (e)(4)(B) of this section)", and "Phase III" for "the third phase (as described in subsection (e)(4)(C) of this section)".
 
 Subsec. (j)(3)(B). Pub. L. 112–81, §5125(b)(2)(C)(ii), substituted "Phase II" for "second phase".
 
@@ -2104,7 +2114,7 @@ Pub. L. 106–554, §1(a)(9) \[title I, §102\], Dec. 21, 2000, 114 Stat. 2763, 
 
 #### National Research Council Reports
 
-Pub. L. 106–554, §1(a)(9) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–671, as amended by Pub. L. 112–81, div.E, title LI, §5137, Dec. 31, 2011, 125 Stat. 1850, provided that:
+Pub. L. 106–554, §1(a)(9) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–671, as amended by Pub. L. 112–81, div. E, title LI, §5137, Dec. 31, 2011, 125 Stat. 1850, provided that:
 
 "(a)
 
@@ -2278,7 +2288,7 @@ Limitation on Program Awards.—Amounts paid to a small business concern by the 
 
 "(c)
 
-Commercial Applications Strategy.—Not later than 270 days after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense, in consultation with the Administrator of the Small Business Administration, shall develop and issue a strategy for effectuating the transition of successful projects under the Small Business Innovation Research Program from phase II under the program into phase III under the program.
+Commercial Applications Strategy.—Not later than 270 days after the date of the enactment of thisAct \[Oct. 23, 1992\], the Secretary of Defense, in consultation with the Administrator of the Small Business Administration, shall develop and issue a strategy for effectuating the transition of successful projects under the Small Business Innovation Research Program from phase II under the program into phase III under the program.
 
 "(d)
 
@@ -2286,7 +2296,7 @@ Repeal of Exclusion of Certain Activities.—\[Amended this section.\]
 
 "(e)
 
-Percentage of Required Expenditures for SBIR Contracts.—(1) The Small Business Innovation Research Program shall apply to the Department of Defense (including the military departments) as if the percentage specified in section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) with respect to fiscal yearsafter fiscal year 1982 were determined in accordance with the table set forth in paragraph (2) (rather than 1.25 percent).
+Percentage of Required Expenditures for SBIR Contracts.—(1) The Small Business Innovation Research Program shall apply to the Department of Defense (including the military departments) as if the percentage specified in section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) with respect to fiscal years after fiscal year 1982 were determined in accordance with the table set forth in paragraph (2) (rather than 1.25 percent).
 
 "(2)(A) The percentage under section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) for any fiscal year for the Department of Defense and each military department shall be determined in accordance with the following table:
 
@@ -2353,7 +2363,7 @@ Effectiveness of Section Conditional on Failure to Enact Other Legislation.—(1
 
 #### Use of Department of Agriculture Extramural Budget Funds in Small Business Innovation Research Program
 
-Pub. L. 99–500, §101(a) \[title VI, §630\], Oct. 18, 1986, 100 Stat. 1783, 1783–30, and Pub. L. 99–591, §101(a) \[title VI, §630\], Oct. 30, 1986, 100 Stat. 3341, 3341–30, provided that: "All funds appropriated for this fiscal year and all funds appropriated hereafter by this or any other Act that are determined to be part of the 'extramural budget' of the Department of Agriculture for any fiscal year for purposes of meeting the requirements of section 9 of the Small Business Act (15 U.S.C. 638), as amended by the Small Business Innovation Development Act of 1982, Public Law 97–219, shall be available for contracts, grants or cooperative agreements with small business concerns for any purpose in furtherance of the small business innovation research program. Such funds may be transferred for such purpose from one appropriation to another or to a single account."
+Pub. L. 99–500, §101(a) \[title VI, §630\], Oct. 18, 1986, 100 Stat. 1783, 1783–30, and Pub. L. 99–591, §101(a) \[title VI, §630\], Oct. 30, 1986, 100 Stat. 3341, 3341–30, provided that: "All funds appropriated for this fiscal year and all funds appropriated hereafter by this or any other Act that are determined to be part of the 'extramural budget' of the Department of Agriculture for any fiscal year for purposes of meeting the requirements of section 9 of the Small Business Act (15 U.S.C. 638), as amended by the Small Business Innovation Development Act of 1982, Public Law 97–219, shall be available for contracts, grants or cooperative agreements with small business concerns for any purpose in furtherance of the small business innovation research program. Such funds maybe transferred for such purpose from one appropriation to another or to a single account."
 
 #### Congressional Findings and Declaration of Purpose: Small Business Innovation Development Act of 1982
 

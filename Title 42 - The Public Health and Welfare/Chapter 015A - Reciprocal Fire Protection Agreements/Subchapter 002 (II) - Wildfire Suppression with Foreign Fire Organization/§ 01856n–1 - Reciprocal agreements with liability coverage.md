@@ -2,7 +2,7 @@
 
 #### (a) Protection from liability for foreign firefighters and foreign fire organizations
 
-Subject to subsection (b), in an agreement with a foreign fire organization entered into under section 1856n of this title, the Secretary of Agriculture and the Secretary of the Interior may provide that—
+Subject to subsection (b), in an agreement with a foreign fire organization entered intounder section 1856n of this title, the Secretary of Agriculture and the Secretary of the Interior may provide that—
 
 &emsp;(1) a foreign firefighter shall be considered to be an employee of the United States for purposes of tort liability while the foreign firefighter is acting within the scope of an official duty under the agreement; and
 

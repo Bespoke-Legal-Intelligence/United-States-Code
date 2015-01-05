@@ -32,11 +32,11 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (2) Subsection not to apply if waiver pending
 
-&emsp;This subsection shall not apply to any failure if the employer has filed a waiver request under section 1083 of this title with respect to the plan year to which the required installment relates, except that if the waiver request is denied, notice under paragraph (1) shall be provided within 60 days after the date of such denial.
+&emsp;This subsection shall not apply to any failure if the employer has filed a waiver request under section 1083 or 1085a of this title with respect to the plan year to which the required installment relates, except that if the waiver request is denied, notice under paragraph (1) shall be provided within 60 days after the date of such denial.
 
 #### (3) Definitions
 
-&emsp;For purposes of this subsection, the terms "required installment" and "due date" have the same meanings given such terms by section 1083(j) of this title.
+&emsp;For purposes of this subsection, the terms "required installment" and "due date" have the same meanings given such terms by section 1083(j) or 1085a(f) of this title, whichever is applicable.
 
 #### (e) Notice of transfer of excess pension assets to health benefits accounts
 
@@ -80,15 +80,15 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;(i)(I) in the case of a single-employer plan, a statement as to whether the plan's funding target attainment percentage (as defined in section 1083(d)(2) of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
 
-&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement as to whether the plan's funded percentage (as defined in section 1085(i) of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
+&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement as to whether the plan's funded percentage (as defined in section 1085(i) <sup>1</sup> of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
 
 &emsp;&emsp;&emsp;(ii)(I) in the case of a single-employer plan, a statement of—
 
 &emsp;&emsp;&emsp;&emsp;(aa) the total assets (separately stating the prefunding balance and the funding standard carryover balance) and liabilities of the plan, determined in the same manner as under section 1083 of this title, for the plan year to which the notice relates and for the 2 preceding plan years, as reported in the annual report for each such plan year, and
 
-&emsp;&emsp;&emsp;&emsp;(bb) the value of the plan's assets and liabilities for the plan year to which the notice relates as of the last day of the plan year to which the notice relates determined using the asset valuation undersubclause (II) of section 1306(a)(3)(E)(iii) of this title and the interest rate under section 1306(a)(3)(E)(iv) of this title, and
+&emsp;&emsp;&emsp;&emsp;(bb) the value of the plan's assets and liabilities for the plan year to which the notice relates as of the last day of the plan year to which the notice relates determined using the asset valuation under subclause (II) of section 1306(a)(3)(E)(iii) of this title and the interest rate under section 1306(a)(3)(E)(iv) of this title, and
 
-&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) of this title shall be used),
+&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) <sup>1</sup> of this title shall be used),
 
 &emsp;&emsp;&emsp;(iii) a statement of the number of participants who are—
 
@@ -106,17 +106,25 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;&emsp;(II) a summary of any funding improvement plan, rehabilitation plan, or modification thereof adopted under section 1085 of this title during the plan year to which the notice relates,
 
-&emsp;&emsp;&emsp;(vi) in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
+&emsp;&emsp;&emsp;(vi) in the case of a multiemployer plan, whether the plan was in critical and declining status under section 1085 of this title for such plan year and, if so—
 
-&emsp;&emsp;&emsp;(vii)(I) in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
+&emsp;&emsp;&emsp;&emsp;(I) the projected date of insolvency;
+
+&emsp;&emsp;&emsp;&emsp;(II) a clear statement that such insolvency may result in benefit reductions; and
+
+&emsp;&emsp;&emsp;&emsp;(III) a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.
+
+&emsp;&emsp;&emsp;(vii) in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
+
+&emsp;&emsp;&emsp;(viii)(I) in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
 
 &emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a summary of the rules governing reorganization or insolvency, including the limitations on benefit payments,
 
-&emsp;&emsp;&emsp;(viii) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply,
+&emsp;&emsp;&emsp;(ix) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply,
 
-&emsp;&emsp;&emsp;(ix) a statement that a person may obtain a copy of the annual report of the plan filed under section 1024(a) of this title upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
+&emsp;&emsp;&emsp;(x) a statement that a person may obtain a copy of the annual report of the plan filed under section 1024(a) of this title upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
 
-&emsp;&emsp;&emsp;(x) if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor's controlled group, of the single-employer plan was required to provide the information under section 1310 of this title for the plan year to which the notice relates.
+&emsp;&emsp;&emsp;(xi) if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor's controlled group, of the single-employer plan was required to provide the information under section 1310 of this title for the plan year to which the notice relates.
 
 #### (C) Other information
 
@@ -132,17 +140,17 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a statement that the MAP-21 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+&emsp;&emsp;&emsp;&emsp;(I) a statement that the MAP-21 and the Highway and Transportation Funding Act of 2014 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
 
-&emsp;&emsp;&emsp;&emsp;(II) a statement that, as a result of the MAP-21, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
+&emsp;&emsp;&emsp;&emsp;(II) a statement that, as a result of the MAP-21 and the Highway and Transportation Funding Act of 2014, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
 
 &emsp;&emsp;&emsp;&emsp;(III) a table which shows (determined both with and without regard to section 1083(h)(2)(C)(iv) of this title) the funding target attainment percentage (as defined in section 1083(d)(2) of this title), the funding shortfall (as defined in section 1083(c)(4) of this title), and the minimum required contribution (as determined under section 1083 of this title), for the applicable plan year and each of the 2 preceding plan years.
 
 #### (ii) Applicable plan year
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "applicable plan year" means any plan year beginning after December 31, 2011, and before January 1, 2015, for which—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "applicable plan year" means any plan year beginning after December 31, 2011, and before January 1, 2020, for which—
 
-&emsp;&emsp;&emsp;&emsp;(I) the funding target (as defined in section 1083(d)(2) of this title) is lessthan 95 percent of such funding target determined without regard to section 1083(h)(2)(C)(iv) of this title,
+&emsp;&emsp;&emsp;&emsp;(I) the funding target (as defined in section 1083(d)(2) of this title) is less than 95 percent of such funding target determined without regard to section 1083(h)(2)(C)(iv) of this title,
 
 &emsp;&emsp;&emsp;&emsp;(II) the plan has a funding shortfall (as defined in section 1083(c)(4) of this title and determined without regard to section 1083(h)(2)(C)(iv) of this title) greater than $500,000, and
 
@@ -153,6 +161,18 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 #### (iii) Special rule for plan years beginning before 2012
 
 &emsp;&emsp;&emsp;In the case of a preceding plan year referred to in clause (i)(III) which begins before January 1, 2012, the information described in such clause shall be provided only without regard to section 1083(h)(2)(C)(iv) of this title.
+
+#### (E) Effect of CSEC plan rules on plan funding
+
+&emsp;&emsp;In the case of a CSEC plan, each notice under paragraph (1) shall include—
+
+&emsp;&emsp;&emsp;(i) a statement that different rules apply to CSEC plans than apply to single-employer plans,
+
+&emsp;&emsp;&emsp;(ii) for the first 2 plan years beginning after December 31, 2013, a statement that, as a result of changes in the law made by the Cooperative and Small Employer Charity Pension Flexibility Act, the contributions to the plan may have changed, and
+
+&emsp;&emsp;&emsp;(iii) in the case of a CSEC plan that is in funding restoration status for the plan year, a statement that the plan is in funding restoration status for such plan year.
+
+> &emsp;&emsp;A copy of the statement required under clause (iii) shall be provided to the Secretary, the Secretary of the Treasury, and the Director of the Pension Benefit Guaranty Corporation.
 
 #### (3) Time for providing notice
 
@@ -288,7 +308,7 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 #### (B) One-participant retirement plan
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "one-participant retirement plan" means a retirement plan that on the first day of the plan year—
+&emsp;&emsp;For purposes of subparagraph (A), the term "one-participant retirement plan" means aretirement plan that on the first day of the plan year—
 
 &emsp;&emsp;&emsp;(i) covered only one individual (or the individual and the individual's spouse) and the individual (or the individual and the individual's spouse) owned 100 percent of the plan sponsor (whether or not incorporated), or
 
@@ -310,13 +330,29 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 #### (1) In general
 
-&emsp;Each administrator of a multiemployer plan shall, upon written request, furnish to any plan participant or beneficiary, employee representative, or any employer that has an obligation to contribute to the plan—
+&emsp;Each administrator of a defined benefit plan that is a multiemployer plan shall, upon written request, furnish to any plan participant or beneficiary, employee representative, or any employer that has an obligation to contribute to the plan a copy of—
 
-&emsp;&emsp;(A) a copy of any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan's possession for at least 30 days,
+&emsp;&emsp;(A) the current plan document (including any amendments thereto),
 
-&emsp;&emsp;(B) a copy of any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan's possession for at least 30 days, and
+&emsp;&emsp;(B) the latest summary plan description of the plan,
 
-&emsp;&emsp;(C) a copy of any application filed with the Secretary of the Treasury requesting an extension under section 1084 of this title or section 431(d) of title 26 and the determination of such Secretary pursuant to such application.
+&emsp;&emsp;(C) the current trust agreement (including any amendments thereto), or any other instrument or agreement under which the plan is established or operated,
+
+&emsp;&emsp;(D) in the case of a request by an employer, any participation agreement with respect to the plan for such employer that relates to the employer's plan participation during the current or any of the 5 immediately preceding plan years,
+
+&emsp;&emsp;(E) the annual report filed under section 1024 of this title for any plan year,
+
+&emsp;&emsp;(F) the plan funding notice provided under subsection (f) for any plan year,
+
+&emsp;&emsp;(G) any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan's possession for at least 30 days,
+
+&emsp;&emsp;(H) any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan's possession for at least 30 days,
+
+&emsp;&emsp;(I) audited financial statements of the plan for any plan year,
+
+&emsp;&emsp;(J) any application filed with the Secretary of the Treasury requesting an extension under section 1084(d) of this title or section 431(d) of title 26 and the determination of such Secretary pursuant to such application, and
+
+&emsp;&emsp;(K) in the case of a plan which was in critical or endangered status under section 1085 of this title for a plan year, the latest funding improvement or rehabilitation plan, and the contribution schedules applicable with respect to such funding improvement or rehabilitation plan (other than a contribution schedule applicable to a specific employer).
 
 #### (2) Compliance
 
@@ -332,11 +368,11 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;&emsp;&emsp;(ii) reveal any proprietary information regarding the plan, any contributing employer, or entity providing services to the plan.
 
-> &emsp;Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B).
+> &emsp;Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B).<sup>1</sup>
 
 #### (3) Limitations
 
-&emsp;In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
+&emsp;In no case shall a participant, beneficiary, employee representative, or employer be entitled under this subsection to receive more than one copy of any document described in paragraph (1) during any one 12-month period, or, in the case of any document described in subparagraph (E), (F), (G), (H) or (I) of paragraph (1), a copy of any such document that as of the date on which the request is received by the administrator, has been in the administrator's possession for 6 years or more. If the administrator provides a copy of a document described in paragraph (1) to any person upon request, the administrator shall be considered as having met any obligation the administrator may have under any other provision of this subchapter to furnish a copy of the same document to such person upon request. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 
 #### (l) Notice of potential withdrawal liability
 
@@ -364,7 +400,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 #### (3) Limitations
 
-&emsp;In no case shall an employer be entitled under this subsection to receive more than onenotice described in paragraph (1) during any one 12-month period. The person required to provide such notice may make a reasonable charge to cover copying, mailing, and other costs of furnishing such notice pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
+&emsp;In no case shall an employer be entitled under this subsection to receive more than one notice described in paragraph (1) during any one 12-month period. The person required to provide such notice may make a reasonable charge to cover copying, mailing, and other costs of furnishing such notice pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 
 #### (m) Notice of right to divest
 
@@ -380,15 +416,39 @@ Not later than 30 days before the first date on which an applicable individual o
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863; Pub. L. 113–97, title I, §104(a)(1), (b), Apr. 7, 2014, 128 Stat. 1120; Pub. L. 113–159, title II, §2003(b)(2)(A), Aug. 8, 2014, 128 Stat. 1849; Pub. L. 113–235, div. O, title I, §111(a), (b), title II, §201(a)(4), Dec. 16, 2014, 128 Stat. 2792, 2793, 2799.)
 
 #### References in Text
 
 Section 1022(a)(1) of this title, referred to in subsec. (a)(1), was redesignated section 1022(a) of this title by Pub. L. 105–34, title XV, §1503(b)(1)(B), Aug. 5, 1997, 111 Stat. 1061.
 
-The MAP–21, referred to in subsecs. (f)(2)(D)(i)(I) and (II), also known as the Moving Ahead for Progress in the 21st Century Act, is Pub. L. 112–141, July 6, 2012, 126 Stat. 405. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 101 of Title 23, Highways, and Tables.
+Section 1085(i) of this title, referred to in subsec. (f)(2)(B)(i)(II) and (ii)(II), was redesignated section 1085(j) of this title by Pub. L. 113–235, div. O, title I, §109(a)(3), Dec. 16, 2014, 128 Stat. 2789.
+
+The MAP–21, referred to in subsecs. (f)(2)(D)(i)(I) and (II), also known as the Moving Ahead for Progress in the 21st Century Act, is Pub. L. 112–141, July 6, 2012, 126 Stat. 405. For complete classification of this Act to theCode, see Short Title of 2012 Amendment note set out under section 101 of Title 23, Highways, and Tables.
+
+The Highway and Transportation Funding Act of 2014, referred to in subsec. (f)(2)(D)(i)(I) and (II), is Pub. L. 113–159, Aug. 8, 2014, 128 Stat. 1839. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 101 of Title 23, Highways, and Tables.
+
+The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is Pub. L. 113–97, Apr. 7, 2014, 128 Stat. 1101. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 1001 of this title and Tables.
+
+The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by Pub. L. 113–235, §111(a). See 2014 Amendment note below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(2). Pub. L. 113–97, §104(b)(1), substituted "section 1083 or 1085a of this title" for "section 1083 of this title".
+
+Subsec. (d)(3). Pub. L. 113–97, §104(b)(2), substituted "section 1083(j) or 1085a(f) of this title, whichever is applicable" for "section 1083(j) of this title".
+
+Subsec. (f)(2)(B)(vi) to (xi). Pub. L. 113–235, §201(a)(4), added cl. (vi) and redesignated former cls. (vi) to (x) as (vii) to (xi), respectively.
+
+Subsec. (f)(2)(D)(i)(I), (II). Pub. L. 113–159, §2003(b)(2)(A)(i), inserted "and the Highway and Transportation Funding Act of 2014" after "MAP-21".
+
+Subsec. (f)(2)(D)(ii). Pub. L. 113–159, §2003(b)(2)(A)(ii), substituted "2020" for "2015" in introductory provisions.
+
+Subsec. (f)(2)(E). Pub. L. 113–97, §104(a)(1), added subpar. (E).
+
+Subsec. (k)(1). Pub. L. 113–235, §111(a), amended par. (1) generally. Prior to amendment, par. (1) related to requirement to provide multiemployer plan information.
+
+Subsec. (k)(3). Pub. L. 113–235, §111(b), substituted "In no case shall a participant, beneficiary, employee representative, or employer be entitled under this subsection to receive more than one copy of any document described in paragraph (1) during any one 12-month period, or, in the case of any document described in subparagraph (E), (F), (G), (H) or (I) of paragraph (1), a copy of any such document that as of the date on which the request is received by the administrator, has been in the administrator's possession for 6 years or more. If the administrator provides a copy of a document described in paragraph (1) to any person upon request, the administrator shall be considered as having met any obligation the administrator may have under any other provision of this subchapter to furnish a copy of the same document to such person upon request." for "In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period."
 
 <b>2012</b>—Subsec. (e)(1). Pub. L. 112–141, §40242(e)(14), inserted "or applicable life insurance account" after "health benefits account" and "or applicable life insurance benefit liabilities" after "health benefits liabilities".
 
@@ -499,6 +559,14 @@ Pub. L. 104–188, §1421(d)(1), redesignated subsec. (g), relating to cross ref
 Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted "an employer maintaining a plan" for "an employer of a plan".
 
 <b>1987</b>—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–235, div. O, title I, §111(e), Dec. 16, 2014, 128 Stat. 2794, provided that: "The amendments made by this section \[amending this section and sections 1027 and 1132 of this title\] shall apply with respect to plan years beginning after December 31, 2014."
+
+Amendment by Pub. L. 113–159 applicable with respect to plan years beginning after Dec. 31, 2012, except as otherwise provided, see section 2003(e) of Pub. L. 113–159, set out as a note under section 430 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2012 Amendment
 
@@ -630,9 +698,15 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+
+#### Statements
+
+Pub. L. 113–159, title II, §2003(b)(2)(B), Aug. 8, 2014, 128 Stat. 1849, provided that: "The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[29 U.S.C. 1021(f)(2)(D)(i)\] to conform to the amendments made bythis section \[probably means "this subsection", which amended this section and section 1083 of this title\]."
 
 #### Model Notices and Forms
+
+Pub. L. 113–97, title I, §104(a)(2), Apr. 7, 2014, 128 Stat. 1120, provided that: "The Secretary of Labor may modify the model notice required to be published under section 501(c) of the Pension Protection Act of 2006 \[section 501(c) of Pub. L. 109–280, set out below\] to include the information described in section 101(f)(2)(E) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(f)(2)(E)\], as added by this subsection."
 
 Pub. L. 112–141, div. D, title II, §40211(b)(2)(B), July 6, 2012, 126 Stat. 849, provided that: "The Secretary of Labor shall modify the model notice required to be published under section 501(c) of the Pension Protection Act of 2006 \[section 501(c) of Pub. L. 109–280, set out below\] to prominently include the information described in section 101(f)(2)(D) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(f)(2)(D)\], as added by this paragraph."
 

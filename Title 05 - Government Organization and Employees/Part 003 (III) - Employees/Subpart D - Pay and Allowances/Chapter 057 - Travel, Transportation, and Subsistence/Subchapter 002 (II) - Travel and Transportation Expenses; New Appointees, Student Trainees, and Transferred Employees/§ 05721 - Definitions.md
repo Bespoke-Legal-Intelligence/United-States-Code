@@ -2,7 +2,7 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) “agency” means—
+&emsp;(1) "agency" means—
 
 &emsp;&emsp;(A) an Executive agency;
 
@@ -18,25 +18,25 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(G) the Architect of the Capitol;
 
-&emsp;&emsp;(H) the Government Printing Office; and
+&emsp;&emsp;(H) the Government Publishing Office; and
 
 &emsp;&emsp;(I) the government of the District of Columbia;
 
 > &emsp;but does not include a Government controlled corporation;
 
-&emsp;(2) “employee” means an individual employed in or under an agency;
+&emsp;(2) "employee" means an individual employed in or under an agency;
 
-&emsp;(3) “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii;
+&emsp;(3) "continental United States" means the several States and the District of Columbia, but does not include Alaska or Hawaii;
 
-&emsp;(4) “Government” means the Government of the United States and the government of the District of Columbia;
+&emsp;(4) "Government" means the Government of the United States and the government of the District of Columbia;
 
-&emsp;(5) “appropriation” includes funds made available by statute under section 9104 of title 31;
+&emsp;(5) "appropriation" includes funds made available by statute under section 9104 of title 31;
 
-&emsp;(6) “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979); and
+&emsp;(6) "United States" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979); and
 
-&emsp;(7) “Foreign Service of the United States” means the Foreign Service as constituted under the Foreign Service Act of 1980.
+&emsp;(7) "Foreign Service of the United States" means the Foreign Service as constituted under the Foreign Service Act of 1980.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 97–258, §3(a)(14), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 105–264, §6(1), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 110–161, div. H, title I, §1303(a), Dec. 26, 2007, 121 Stat. 2242.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 97–258, §3(a)(14), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 105–264, §6(1), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 110–161, div. H, title I, §1303(a), Dec. 26, 2007, 121 Stat. 2242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Historical and Revision Notes
 
@@ -56,5 +56,9 @@ The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, O
 
 <b>1998</b>—Pars. (6), (7). Pub. L. 105–264 added pars. (6) and (7).
 
-<b>1982</b>—Par. (5). Pub. L. 97–258 substituted “section 9104” for “section 849”.
+<b>1982</b>—Par. (5). Pub. L. 97–258 substituted "section 9104" for "section 849".
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in par. (1)(H) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 

@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(B) a stockholder (other than another Farm Credit System institution), consultant, joint venture partner, or any other person determined by the Farm Credit Administration to be a participant in the conduct of the affairs of a Farm Credit System institution; and
 
-&emsp;&emsp;(C) an independent contractor (including any attorney, appraiser, or accountant) that knowingly or recklessly participates in any violation of any law or regulation, any breach of fiduciary duty, or any unsafe orunsound practice that caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the Farm Credit System institution.
+&emsp;&emsp;(C) an independent contractor (including any attorney, appraiser, or accountant) that knowingly or recklessly participates in any violation of any law or regulation, any breach of fiduciary duty, or any unsafe or unsound practice that caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the Farm Credit System institution.
 
 #### (4) Liability or legal expense
 

@@ -40,7 +40,7 @@
 
 #### (B) Effect
 
-&emsp;&emsp;Nothing in this subtitle requires the Commodity Futures Trading Commission or the Securities and Exchange Commission to adopt joint rules or orders that treat functionally or economically similar products or entities described in paragraphs (1) and (2) in an identical manner.
+&emsp;&emsp;Nothing in this subtitle requires the Commodity Futures Trading Commission or the Securities and Exchange Commission toadopt joint rules or orders that treat functionally or economically similar products or entities described in paragraphs (1) and (2) in an identical manner.
 
 #### (8) Mixed swaps
 
@@ -104,7 +104,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If either Commission referred to in this section determines that a final rule, regulation, or order of the other Commission conflicts with subsection (a)(7) or (b), then the complaining Commission may obtain review of the final rule, regulation, or order in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the dateof publication of the final rule, regulation, or order, a written petition requesting that the rule, regulation, or order be set aside.
+&emsp;&emsp;If either Commission referred to in this section determines that a final rule, regulation, or order of the other Commission conflicts with subsection (a)(7) or (b), then the complaining Commission may obtain review of the final rule, regulation, or order in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the date of publication of the final rule, regulation, or order, a written petition requesting that the rule, regulation, or order be set aside.
 
 #### (B) Expedited proceeding
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(A) give deference to the views of neither Commission; and
 
-&emsp;&emsp;(B) determine to affirm or set aside a rule, regulation, or order of the responding Commission under this subsection, based on the determination of the court as to whether the rule, regulation, or order is in conflict with subsection (a)(7) or (b), as applicable.
+&emsp;&emsp;(B) determine to affirm or set aside a rule, regulation, or order of the responding Commission under this subsection, based on the determination of the court as to whether therule, regulation, or order is in conflict with subsection (a)(7) or (b), as applicable.
 
 #### (4) Judicial stay
 

@@ -28,7 +28,7 @@ In this section:
 
 #### (2) Amounts
 
-&emsp;Beginning with the calendar quarter ending on December 31 of each of fiscal years 2005through 2014, the assessment payments over each four-calendar quarter period shall be sufficient to cover—
+&emsp;Beginning with the calendar quarter ending on December 31 of each of fiscal years 2005 through 2014, the assessment payments over each four-calendar quarter period shall be sufficient to cover—
 
 &emsp;&emsp;(A) the contract payments made under sections 518a and 518b of this title during that period; and
 
@@ -62,7 +62,7 @@ In this section:
 
 #### (3) Effect of insufficient amounts
 
-&emsp;If the Secretary determines that the assessment imposed under subsection (b) will result in insufficient amounts to carry out this subchapter during a fiscal year, the Secretary shall assess such additional amounts as the Secretary determines to be necessary to carry out this subchapter during that fiscal year. The additional amount shall be allocated to manufacturers and importers of each class of tobacco product specified in paragraph (1) in the same manner and based on the same percentages applicable under paragraph (1) or (2) for that fiscal year.
+&emsp;If the Secretary determines that the assessment imposed under subsection (b) will resultin insufficient amounts to carry out this subchapter during a fiscal year, the Secretary shall assess such additional amounts as the Secretary determines to be necessary to carry out this subchapter during that fiscal year. The additional amount shall be allocated to manufacturers and importers of each class of tobacco product specified in paragraph (1) in the same manner and based on the same percentages applicable under paragraph (1) or (2) for that fiscal year.
 
 #### (d) Notification and timing of assessments
 
@@ -182,7 +182,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (1) In general
 
-&emsp;Any manufacturer or importer aggrieved by a determination of the Secretary with respect to the amount of any assessment may seek review of the determination in the United States District Court for the District of Columbia or for the district in which the manufacturer orimporter resides or has its principal place of business at any time following exhaustion of the administrative remedies available under subsection (i).
+&emsp;Any manufacturer or importer aggrieved by a determination of the Secretary with respect to the amount of any assessment may seek review of the determination in the United States District Court for the District of Columbia or for the district in which the manufacturer or importer resides or has its principal place of business at any time following exhaustion of the administrative remedies available under subsection (i).
 
 #### (2) Time limits
 

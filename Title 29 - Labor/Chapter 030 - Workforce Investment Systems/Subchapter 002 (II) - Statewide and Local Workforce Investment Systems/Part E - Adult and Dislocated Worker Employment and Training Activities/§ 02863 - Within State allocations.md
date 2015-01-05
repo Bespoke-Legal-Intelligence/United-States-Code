@@ -8,7 +8,7 @@
 
 #### (2) Statewide rapid response activities
 
-&emsp;The Governor of the State shall reserve not more than 25 percent of the total amount allotted to the State under section 2862(b)(2)(B) of this title for a fiscal year for statewide rapid response activities described in section 2864(a)(2)(A) of this title.
+&emsp;The Governor of the State shall reserve not more than 25 percent of the total amount allotted to the State under section 2862(b)(2)(B) of this title for a fiscal year for statewiderapid response activities described in section 2864(a)(2)(A) of this title.
 
 #### (b) Within State allocation
 
@@ -90,7 +90,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Governor of the State shall allocate the funds described in paragraph (1) to local areas under paragraphs (2) and (3) for the purpose of providing a single system of employment and training activities for adults and dislocated workers in accordance with subsections (d) and (e) of section 2864 of this title.
+&emsp;&emsp;The Governor of the State shall allocate the funds described in paragraph (1) to local areas under paragraphs (2) and (3) for thepurpose of providing a single system of employment and training activities for adults and dislocated workers in accordance with subsections (d) and (e) of section 2864 of this title.
 
 #### (B) Additional requirements
 
@@ -110,7 +110,7 @@
 
 #### (2) Amount
 
-&emsp;The amount available for reallocation for a program year is equal to the amount by whichthe unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
+&emsp;The amount available for reallocation for a program year is equal to the amount by which the unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
 
 #### (3) Reallocation
 
@@ -121,4 +121,12 @@
 &emsp;For purposes of this subsection, an eligible local area means a local area that has obligated at least 80 percent of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, for the program year prior to the program year for which the determination under paragraph (2) is made.
 
 (Pub. L. 105–220, title I, §133, Aug. 7, 1998, 112 Stat. 987.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

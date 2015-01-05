@@ -20,13 +20,13 @@ No entrance or admission fees shall be collected after March 31, 1970, by any of
 
 #### (4) Deposit into Treasury account
 
-&emsp;All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) <sup>1</sup> of this title at the water resources development project at which the fees were collected.
+&emsp;All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) <sup>1</sup> of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) <sup>1</sup> of this title at the water resources development project at which the fees were collected.
 
 (Pub. L. 90–483, title II, §210, Aug. 13, 1968, 82 Stat. 746; Pub. L. 103–66, title V, §5001(a), Aug. 10, 1993, 107 Stat. 378; Pub. L. 104–303, title II, §208(b)(1), Oct. 12, 1996, 110 Stat. 3680.)
 
 #### References in Text
 
-Subsections (b) and (i)(3) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526.
+Subsections (b) and (i) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed, except for par. (1)(C) of subsec. (i), by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526. Subsec. (i)(1)(C) of section 460l–6a of this title was repealed and restated as section 100904(a) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
 
 #### Amendments
 

@@ -14,7 +14,7 @@ Minimum Requirements.—Basic essential air service shall include at least the f
 
 &emsp;(1)(A) for a place not in Alaska, 2 daily round trips 6 days a week, with not more than one intermediate stop on each flight; or
 
-&emsp;(B) for a place in Alaska, a level of service at least equal to that provided in 1976 or 2 roundtrips a week, whichever is greater, except that the Secretary of Transportation and the appropriate State authority of Alaska may agree to a different level of service after consulting with the affected community.
+&emsp;(B) for a place in Alaska, a level of service at least equal to that provided in 1976 or 2 round trips a week, whichever is greater, except that the Secretary of Transportation and the appropriate State authority of Alaska may agree to a different level of service after consulting with the affected community.
 
 &emsp;(2) flights at reasonable times considering the needs of passengers with connecting flights at the airport and at prices that are not excessive compared to the generally prevailing prices of other air carriers for like service between similar places.
 

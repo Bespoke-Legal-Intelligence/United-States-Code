@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development shall, subject to the provisions 
 
 #### (b) Preference in sales to individuals
 
-Preference in the purchase of any dwelling structure designed for occupancy by not more than four families and offered for separate sale shall be granted to occupants and to veterans over other prospective purchasers for such period as the Secretary of Housing and Urban Development may determine and in the following order:
+Preference in the purchase of any dwelling structure designed for occupancy by not morethan four families and offered for separate sale shall be granted to occupants and to veterans over other prospective purchasers for such period as the Secretary of Housing and Urban Development may determine and in the following order:
 
 &emsp;(1) a veteran who occupies a unit in the dwelling structure to be sold and who intends to continue to occupy such unit;
 
@@ -34,7 +34,7 @@ Sales pursuant to this section shall be upon such terms as the Secretary of Hous
 
 #### (g) Disregard of preferences in certain cases
 
-The Secretary of Housing and Urban Development may dispose of any permanent war housingwithout regard to the preferences in subsections (b) and (c) of this section when the Secretary determines that (1) such housing, because of design or lack of amenities, is unsuitable for family dwelling use, or (2) it is being used at the time of disposition for other than dwelling purposes, or (3) it was offered, with preferences substantially similar to those provided in the Housing Act of 1950, to veterans and occupants prior to April 20, 1950.
+The Secretary of Housing and Urban Development may dispose of any permanent war housing without regard to the preferences in subsections (b) and (c) of this section when the Secretary determines that (1) such housing, because of design or lack of amenities, is unsuitable for family dwelling use, or (2) it is being used at the time of disposition for other than dwelling purposes, or (3) it was offered, with preferences substantially similar to those provided in the Housing Act of 1950, to veterans and occupants prior to April 20, 1950.
 
 (Oct. 14, 1940, ch. 862, title VI, §607, as added June 28, 1948, ch. 688, §7, as added Apr. 20, 1950, ch. 94, title II, §201, 64 Stat. 59; amended Mar. 10, 1954, ch. 61, 68 Stat. 26; Aug. 2, 1954, ch. 649, title VIII, §805(2), 68 Stat. 644; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 102–54, §13(q)(6)(B), June 13, 1991, 105 Stat. 281.)
 

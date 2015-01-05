@@ -20,7 +20,7 @@ Verification of Compliance.—The Secretary shall—
 
 Enforcement.—At the request of the Secretary, the Secretary of Homeland Security shall withhold or revoke the clearance required by section 60105 of this title of a vessel that is subject to this chapter under section 3202(a) of this title or to the International Safety Management Code, if the vessel does not have on board a Safety Management Certificate and a copy of a Document of Compliance for the vessel. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3929; amended Pub. L. 109–304,§15(10), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 110–181, div. C, title XXXV, §3529(b)(1)(A), Jan. 28, 2008, 122 Stat. 603.)
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3929; amended Pub. L. 109–304, §15(10), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 110–181, div. C, title XXXV, §3529(b)(1)(A), Jan. 28, 2008, 122 Stat. 603.)
 
 #### Amendments
 

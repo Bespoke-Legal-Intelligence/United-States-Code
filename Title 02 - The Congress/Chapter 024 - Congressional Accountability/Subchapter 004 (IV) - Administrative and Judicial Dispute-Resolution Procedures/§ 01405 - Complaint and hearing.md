@@ -36,7 +36,7 @@ Unless a complaint is dismissed before a hearing, a hearing shall be—
 
 &emsp;(1) conducted in closed session on the record by the hearing officer;
 
-&emsp;(2) commenced no later than 60 days after filing of the complaint under subsection (a) of this section, except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and
+&emsp;(2) commenced no later than 60 days after filing of the complaint under subsection (a), except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and
 
 &emsp;(3) conducted, except as specifically provided in this chapter and to the greatest extent practicable, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5.
 
@@ -58,7 +58,7 @@ Reasonable prehearing discovery may be permitted at the discretion of the hearin
 
 #### (A) In general
 
-&emsp;&emsp;If a person fails to comply with a subpoena, the Board may authorize the General Counsel to apply, in the name of the Office, to an appropriate United States district court for an order requiring that person to appear before the hearing officer to give testimony or produce records. The applicationmay be made within the judicial district where the hearing is conducted or where that person is found, resides, or transacts business. Any failure to obey a lawful order of the district court issued pursuant to this section may be held by such court to be a civil contempt thereof.
+&emsp;&emsp;If a person fails to comply with a subpoena, the Board may authorize the General Counsel to apply, in the name of the Office, to an appropriate United States district court for an order requiring that person to appear before the hearing officer to give testimony or produce records. The application may be made within the judicial district where the hearing is conducted or where that person is found, resides, or transacts business. Any failure to obey a lawful order of the district court issued pursuant to this section may be held by such court to be a civil contempt thereof.
 
 #### (B) Service of process
 
@@ -66,7 +66,7 @@ Reasonable prehearing discovery may be permitted at the discretion of the hearin
 
 #### (g) Decision
 
-The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the complaint, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II of this chapter. The decision shall be entered in the records of the Office. If a decision is not appealed under section 1406 of this title to the Board, the decision shall be considered the final decision of the Office.
+The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the complaint, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II. The decision shall be entered in the records of the Office. If a decision is not appealed under section 1406 of this title to the Board, the decision shall be considered the final decision of the Office.
 
 #### (h) Precedents
 
@@ -76,9 +76,9 @@ A hearing officer who conducts a hearing under this section shall be guided by j
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(2)(A), (d)(3), and (h), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2)(A), (d)(3), and (h), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 Rule 45(b) of the Federal Rules of Civil Procedure, referred to in subsec. (f)(1), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Subchapter II of this chapter, referred to in subsec. (g), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in subsec. (g), was in the original "title II", meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
 

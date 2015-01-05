@@ -2,7 +2,7 @@
 
 #### (a) Construction or purchase of structure, facility, road, airport, etc.; projects to prevent erosion; exceptions
 
-Except as provided in section 3505 of this title, no new expenditures or new financial assistance may be made available under authority of any Federal law for any purpose within the System, including, but not limited to—
+Except as provided in section 3505 of this title, no new expenditures or new financial assistance may be made available under authority of anyFederal law for any purpose within the System, including, but not limited to—
 
 &emsp;(1) the construction or purchase of any structure, appurtenance, facility, or related infrastructure;
 

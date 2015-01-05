@@ -34,15 +34,15 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 #### (1) In general
 
-&emsp;In addition to the responsibilities described in subsection (a) of this section, the Under Secretary for Management shall be responsible for the following:
+&emsp;In addition to the responsibilities described in subsection (a), the Under Secretary for Management shall be responsible for the following:
 
-&emsp;&emsp;(A) Maintenance of all immigration statistical information of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services. Such statistical information shall include information and statistics of the type contained in the publication entitled “Statistical Yearbook of the Immigration and Naturalization Service” prepared by the Immigration and Naturalization Service (as in effect immediately before the date on which the transfer offunctions specified under section 251 of this title takes effect), including region-by-region statistics on the aggregate number of applications and petitions filed by an alien (or filed on behalf of an alien) and denied by such bureau, and the reasons for such denials, disaggregated by category of denial and application or petition type.
+&emsp;&emsp;(A) Maintenance of all immigration statistical information of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services. Such statistical information shall include information and statistics of the type contained in the publication entitled "Statistical Yearbook of the Immigration and Naturalization Service" prepared by the Immigration and Naturalization Service (as in effect immediately before the date on which the transfer of functions specified under section 251 of this title takes effect), including region-by-region statistics on the aggregate number of applications and petitions filed by an alien (or filed on behalf of an alien) and denied by such bureau, and the reasons for such denials, disaggregated by category of denial and application or petition type.
 
 &emsp;&emsp;(B) Establishment of standards of reliability and validity for immigration statistics collected by such bureaus.
 
 #### (2) Transfer of functions
 
-&emsp;In accordance with subchapter XII of this chapter, there shall be transferred to the Under Secretary for Management all functions performed immediately before such transfer occurs by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service with respect to the following programs:
+&emsp;In accordance with subchapter XII, there shall be transferred to the Under Secretary for Management all functions performed immediately before such transfer occurs by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service with respect to the following programs:
 
 &emsp;&emsp;(A) The Border Patrol program.
 
@@ -86,11 +86,11 @@ The Under Secretary for Management shall—
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–53, §2405(a)(1), inserted in introductory provisions “The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–53, §2405(a)(1), inserted in introductory provisions "The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs."
 
-Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: “Identification and tracking of performance measures relating to the responsibilities of the Department.”
+Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: "Identification and tracking of performance measures relating to the responsibilities of the Department."
 
-Subsec. (a)(9). Pub. L. 110–53, §2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: “The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan.”
+Subsec. (a)(9). Pub. L. 110–53, §2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: "The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan."
 
 Subsec. (c). Pub. L. 110–53, §2405(b), added subsec. (c).
 
@@ -102,11 +102,11 @@ Bureau of Border Security, referred to in subsec. (b)(1)(A), changed to Bureau o
 
 Pub. L. 110–53, title XXIV, §2405(c), Aug. 3, 2007, 121 Stat. 549, provided that:
 
-“(1)
+"(1)
 
 Deadline for appointment.—Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security shall name an individual who meets the qualifications of section 701 of the Homeland Security Act (6 U.S.C. 341), as amended by subsections (a) and (b), to serve as the Under Secretary of Homeland Security for Management. The Secretary may submit the name of the individual who serves in the position of Under Secretary of Homeland Security for Management on the date of enactment of this Act together with a statement that informs the Congress that the individual meets the qualifications of such section as so amended.
 
-“(2)
+"(2)
 
-Incumbent.—The incumbent serving as Under Secretary of Homeland Security for Management on November 4, 2008, is authorized to continue serving in that position until a successor is confirmed, to ensure continuity in the management functions of the Department.”
+Incumbent.—The incumbent serving as Under Secretary of Homeland Security for Management on November 4, 2008, is authorized to continue serving in that position until a successor is confirmed, to ensure continuity in the management functions of the Department."
 

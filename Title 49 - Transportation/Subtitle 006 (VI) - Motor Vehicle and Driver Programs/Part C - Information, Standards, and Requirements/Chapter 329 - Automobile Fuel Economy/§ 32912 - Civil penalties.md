@@ -46,7 +46,7 @@ Higher Penalty Amounts.—(1)(A) The Secretary of Transportation shall prescribe
 
 (4) The Secretary shall publish a regulation prescribed under this subsection in the Federal Register with the decisions required under paragraph (1) of this subsection.
 
-(5) An officer or employee of a department, agency, or instrumentality of the Governmentviolates section 1905 of title 18 by disclosing, except in an in camera proceeding by the Secretary or a court, information—
+(5) An officer or employee of a department, agency, or instrumentality of the Government violates section 1905 of title 18 by disclosing, except in an in camera proceeding by the Secretary or a court, information—
 
 &emsp;(A) provided to the Secretary or the court during consideration or review of a regulation prescribed under this subsection; and
 

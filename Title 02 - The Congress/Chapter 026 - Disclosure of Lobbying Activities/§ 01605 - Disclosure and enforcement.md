@@ -50,19 +50,19 @@ The Secretary of the Senate and the Clerk of the House of Representatives shall�
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–81, §210, designated existing provisions as subsec. (a), inserted heading, and added par. (11) and subsec. (b).
 
-Par. (4). Pub. L. 110–81, §209(b), inserted before semicolon at end “and, in the case of a report filed in electronic form under section 1604(e) of this title, make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed”.
+Par. (4). Pub. L. 110–81, §209(b), inserted before semicolon at end "and, in the case of a report filed in electronic form under section 1604(e) of this title, make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed".
 
-Par. (6). Pub. L. 110–81, §201(b)(3), substituted “quarterly period” for “semiannual period”.
+Par. (6). Pub. L. 110–81, §201(b)(3), substituted "quarterly period" for "semiannual period".
 
 Pars. (9), (10). Pub. L. 110–81, §209(a), added pars. (9) and (10).
 
 #### Effective Date of 2007 Amendment
 
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 434 of this title.
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
 

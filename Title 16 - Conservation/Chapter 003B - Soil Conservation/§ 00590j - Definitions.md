@@ -24,7 +24,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) technical infrastructure, including activities, processes, tools, and agency functions needed to support delivery of technical services, such as technical standards, resource inventories, training, data, technology, monitoring, and effects analyses.
 
-(Apr. 27, 1935, ch. 85, §10, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1150; amended Pub. L. 110–234,title II, §2802(b), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, §4(a), title II, §2802(b), June 18, 2008, 122 Stat. 1664, 1813.)
+(Apr. 27, 1935, ch. 85, §10, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1150; amended Pub. L. 110–234, title II, §2802(b), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, §4(a), title II, §2802(b), June 18, 2008, 122 Stat. 1664, 1813.)
 
 #### Codification
 

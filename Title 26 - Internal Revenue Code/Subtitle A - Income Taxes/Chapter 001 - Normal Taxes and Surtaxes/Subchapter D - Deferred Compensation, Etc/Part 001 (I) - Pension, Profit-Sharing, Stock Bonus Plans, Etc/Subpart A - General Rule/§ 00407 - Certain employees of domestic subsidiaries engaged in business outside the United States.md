@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iii) 90 percent or more of its gross income for such period (or such part) was derived from the active conduct of a trade or business.
 
-> &emsp;&emsp;If for the period (or part thereof) referred to in clauses (ii) and (iii) such corporation has no gross income, the provisions of clauses (ii) and (iii) shall be treated as satisfied if it is reasonable to anticipate that, with respect to the first taxable year thereafter for which such corporation has gross income, the provisions of such clauses will be satisfied.
+> &emsp;&emsp;If for the period (or part thereof) referred to in clauses (ii) and (iii) such corporation hasno gross income, the provisions of clauses (ii) and (iii) shall be treated as satisfied if it is reasonable to anticipate that, with respect to the first taxable year thereafter for which such corporation has gross income, the provisions of such clauses will be satisfied.
 
 #### (B) Domestic parent corporation
 
@@ -86,7 +86,7 @@ Subsec. (e). Pub. L. 100–647, §1011A(b)(1)(C), redesignated pars. (2) to (4) 
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1112(d)(3), struck out "(without regard to paragraph (1)(A) thereof)" after "section 410(b)" in introductory text.
 
-Subsec. (b)(1)(A). Pub. L. 99–514, §1114(b)(9)(B), as amended by Pub. L. 101–239, §7831(f), substituted "a highly compensated employee (within the meaning of section 414(q))" for "an officer, shareholder, or person whose principal duties consist in supervising the work of other employees of a domestic subsidiary".
+Subsec. (b)(1)(A). Pub. L. 99–514, §1114(b)(9)(B), as amended by Pub. L. 101–239, §7831(f), substituted "ahighly compensated employee (within the meaning of section 414(q))" for "an officer, shareholder, or person whose principal duties consist in supervising the work of other employees of a domestic subsidiary".
 
 Subsec. (b)(1)(B). Pub. L. 99–514, §1114(b)(9)(C), inserted "(as so defined)" after "employee".
 
@@ -128,7 +128,7 @@ Amendment by section 7831(f) of Pub. L. 101–239 effective as if included in th
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

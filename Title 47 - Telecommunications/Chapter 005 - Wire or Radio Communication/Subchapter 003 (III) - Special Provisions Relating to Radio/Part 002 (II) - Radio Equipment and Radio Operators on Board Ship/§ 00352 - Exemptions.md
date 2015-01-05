@@ -8,7 +8,7 @@ The provisions of this part shall not apply to—
 
 &emsp;(2) A ship of the United States belonging to and operated by the Government, except a ship of the Maritime Administration of the Department of Transportation, the Inland and Coastwise Waterways Service, or the Panama Canal Company;
 
-&emsp;(3) A foreign ship belonging to a country which is a party to any Safety Convention in force between the United States and that country which ship carries a valid certificateexempting said ship from the radio provisions of that Convention, or which ship conforms to the radio requirements of such Convention or Regulations and has on board a valid certificate to that effect, or which ship is not subject to the radio provisions of any such Convention;
+&emsp;(3) A foreign ship belonging to a country which is a party to any Safety Convention in force between the United States and that country which ship carries a valid certificate exempting said ship from the radio provisions of that Convention, or which ship conforms to the radio requirements of such Convention or Regulations and has on board a valid certificate to that effect, or which ship is not subject to the radio provisions of any such Convention;
 
 &emsp;(4) Yachts of less than six hundred gross tons not subject to the radio provisions of the Safety Convention;
 

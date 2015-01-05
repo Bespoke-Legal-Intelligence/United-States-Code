@@ -54,7 +54,7 @@ With respect to individuals who have entered into contracts for obligated servic
 
 #### (2) Assumption of duties of member
 
-&emsp;(A) Temporary relief under paragraph (1) may be provided only if the duties of the Corps member involved are assumed by another health professional. With respect to such temporary relief, the duties may be assumed by Corps members or by health professionals who are not Corps members, if the Secretary approves the professionals for such purpose. Any health professional so approved by the Secretary shall, during the period of providing such temporary relief, be deemed to be a Corps member for purposes of section 233 of this title (including for purposes of the remedy described in such section), section 254f(f) of this title, and section 254h(e) of this title.
+&emsp;(A) Temporary relief under paragraph (1) may be provided only if the duties of the Corps member involved are assumed by another health professional. With respect to such temporary relief, the duties may be assumed by Corps members or by health professionals whoare not Corps members, if the Secretary approves the professionals for such purpose. Any health professional so approved by the Secretary shall, during the period of providing such temporary relief, be deemed to be a Corps member for purposes of section 233 of this title (including for purposes of the remedy described in such section), section 254f(f) of this title, and section 254h(e) of this title.
 
 &emsp;(B) In carrying out paragraph (1), the Secretary shall provide for the formation and continued existence of a group of health professionals to provide temporary relief under such paragraph.
 

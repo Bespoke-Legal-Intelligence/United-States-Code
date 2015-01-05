@@ -112,7 +112,7 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 #### (4) Common trust fund must meet diversification rules
 
-&emsp;This subsection shall not apply to any common trust fund which would not meet the requirements of section 368(a)(2)(F)(ii) if it were a corporation. For purposes of the precedingsentence, Government securities shall not be treated as securities of an issuer in applying the 25-percent and 50-percent test and such securities shall not be excluded for purposes of determining total assets under clause (iv) of section 368(a)(2)(F).
+&emsp;This subsection shall not apply to any common trust fund which would not meet the requirements of section 368(a)(2)(F)(ii) if it were a corporation. For purposes of the preceding sentence, Government securities shall not be treated as securities of an issuer in applying the 25-percent and 50-percent test and such securities shall not be excluded for purposes of determining total assets under clause (iv) of section 368(a)(2)(F).
 
 #### (i) Taxable year of common trust fund
 
@@ -194,7 +194,7 @@ Pub. L. 100–647, title I, §1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, prov
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title VI, §612(b)(2)(B), Oct. 22, 1986, 100 Stat. 2250, provided that: "If the amendments made by section 1001 of the Tax Reform Act of 1984 \[Pub. L. 98–369, amending this section and sections 166, 341, 402, 403, 423, 582, 631, 642, 702, 818, 852, 856, 857, 1222, 1223, 1231, 1232, 1233, 1234, 1235, 1246, 1247, and 1248 of this title\] cease to apply \[see Effective Date of 1984 Amendmentnote below\], effective with respect to property to which such amendments do not apply, subsection (c) of section 584 is amended by striking out '6 months' each place it appears and inserting in lieu thereof '1 year'."
+Pub. L. 99–514, title VI, §612(b)(2)(B), Oct. 22, 1986, 100 Stat. 2250, provided that: "If the amendments made by section 1001 of the Tax Reform Act of 1984 \[Pub. L. 98–369, amending this section and sections 166, 341, 402, 403, 423, 582, 631, 642, 702, 818, 852, 856, 857, 1222, 1223, 1231, 1232, 1233, 1234, 1235, 1246, 1247, and 1248 of this title\] cease to apply \[see Effective Date of 1984 Amendment note below\], effective with respect to property to which such amendments do not apply, subsection (c) of section 584 is amended by striking out '6 months' each place it appears and inserting in lieu thereof '1 year'."
 
 Amendment by section 612(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) of Pub. L. 99–514, set out as a note under section 301 of this title.
 

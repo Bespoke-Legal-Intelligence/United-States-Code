@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(C) regulating hydrological cycles on which far-flung agricultural and coastal resources depend.
 
-&emsp;(3) International negotiations and assistance programs to conserve forest resources have proliferated over the past decade, but therapid rate of tropical deforestation continues unabated.
+&emsp;(3) International negotiations and assistance programs to conserve forest resources have proliferated over the past decade, but the rapid rate of tropical deforestation continues unabated.
 
 &emsp;(4) Developing countries with urgent needs for investment and capital for development have allocated a significant amount of their forests to logging concessions.
 

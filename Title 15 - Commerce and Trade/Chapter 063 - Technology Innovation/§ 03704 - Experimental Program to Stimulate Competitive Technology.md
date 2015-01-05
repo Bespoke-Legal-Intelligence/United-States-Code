@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In making awards under this subsection, the Secretary shall ensure that the awardsare awarded on a competitive basis that includes a review of the merits of the activities that are the subject of the award.
+&emsp;&emsp;In making awards under this subsection, the Secretary shall ensure that the awards are awarded on a competitive basis that includes a review of the merits of the activities that are the subject of the award.
 
 #### (B) Matching requirement
 
@@ -74,7 +74,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (C) Review panels
 
-&emsp;&emsp;Each application submitted under this subsection by an eligible institution shall be reviewed by a panel of individuals selected by the Secretary to judge the quality and merit of the proposal, including the extent to which the eligible institution can effectively and successfully utilize the proposed grant, cooperative agreement, or contract to carry out the program described in paragraph (1). The Secretary shall ensure that the review panels include representatives of minority serving institutions and others who are knowledgeable about eligible institutions and technology issues. The Secretary shall ensure that no individual assigned under this subsection to review any application has a conflict of interest with regard to that application. The Secretary shall take into consideration the recommendations of the review panel in determining whether to award a grant, cooperative agreement, or contract to an eligible institution.
+&emsp;&emsp;Each application submitted under this subsection by an eligible institution shall be reviewed by a panel of individuals selected by the Secretary to judge the quality and merit of the proposal, including the extent to which the eligible institution can effectively and successfully utilize the proposed grant, cooperative agreement, or contract to carry out the program described in paragraph (1). The Secretary shall ensure that the review panels include representatives of minority serving institutions and others who are knowledgeable about eligible institutions and technology issues. The Secretary shall ensure that no individual assigned under this subsection to review anyapplication has a conflict of interest with regard to that application. The Secretary shall take into consideration the recommendations of the review panel in determining whether to award a grant, cooperative agreement, or contract to an eligible institution.
 
 #### (3) Awards
 
@@ -138,7 +138,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 &emsp;&emsp;&emsp;&emsp;(I) an evaluation of the effectiveness of the program established under paragraph (1) in improving the education and training of students, faculty, and staff at eligible institutions that have been awarded grants, cooperative agreements, or contracts under the program;
 
-&emsp;&emsp;&emsp;&emsp;(II) an evaluation of the effectiveness of the program in improving access to, and familiarity with, digital and wireless networking technology for students, faculty, and staff at all eligible institutions;
+&emsp;&emsp;&emsp;&emsp;(II) an evaluation of the effectiveness of the program in improving access to,and familiarity with, digital and wireless networking technology for students, faculty, and staff at all eligible institutions;
 
 &emsp;&emsp;&emsp;&emsp;(III) an evaluation of the procedures established under paragraph (2)(A); and
 
@@ -252,7 +252,7 @@ Subsec. (d)(1). Pub. L. 100–519, §201(d)(2), substituted "and the Under Secre
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–502, §9(b)(3), substituted "Office of Productivity, Technology, and Innovation" for "Office of Industrial Technology".
 
-Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted "an Assistant Secretary for Productivity, Technology, and Innovation" for "a Director of the Office, who shall becompensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5".
+Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted "an Assistant Secretary for Productivity, Technology, and Innovation" for "a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5".
 
 Subsec. (c). Pub. L. 99–502, §9(b)(5)(A), substituted "the Assistant Secretary" for "the Director" in provisions preceding par. (1).
 

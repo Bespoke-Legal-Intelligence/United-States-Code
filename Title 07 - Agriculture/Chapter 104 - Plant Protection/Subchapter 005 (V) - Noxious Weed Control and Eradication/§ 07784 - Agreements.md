@@ -46,7 +46,7 @@ In determining which activities receive funding under this section, the Secretar
 
 #### (f) Rapid response program
 
-At the request of the Governor of a State, the Secretary may enter into a cooperative agreement with a weed management entity in that State to enable rapid response to outbreaks of noxious weeds at a stage which rapid eradication and control is possible and to ensure eradication or immediate control of the noxious weeds if—
+At the request of the Governor of a State, the Secretary may enter into a cooperative agreement with a weed management entity in that State to enable rapid response to outbreaks ofnoxious weeds at a stage which rapid eradication and control is possible and to ensure eradication or immediate control of the noxious weeds if—
 
 &emsp;(1) there is a demonstrated need for the assistance;
 

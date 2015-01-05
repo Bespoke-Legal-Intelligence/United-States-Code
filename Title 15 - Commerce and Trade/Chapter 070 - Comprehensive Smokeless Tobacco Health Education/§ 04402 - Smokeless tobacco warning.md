@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-(1) It shall be unlawful for any person to manufacture, package, sell, offer to sell, distribute, or import for sale or distribution within the United States any smokeless tobacco product unless the product package bears, in accordance with the requirements of this chapter, one of the following labels:
+(1) It shall be unlawful for any person to manufacture, package, sell, offer to sell, distribute, or import for sale or distribution within the United States any smokeless tobacco productunless the product package bears, in accordance with the requirements of this chapter, one of the following labels:
 
 &emsp;WARNING: This product can cause mouth cancer.
 
@@ -44,7 +44,7 @@
 
 (E) The label statements shall be enclosed by a rectangular border that is the same color as the letters of the statements and that is the width of the first downstroke of the capital "W" of the word "WARNING" in the label statements.
 
-(F) The text of such label statements shall be in a typeface pro rata to the following requirements: 45-point type for a whole-page broadsheet newspaper advertisement; 39-point type for a half-page broadsheet newspaper advertisement; 39-point type for a whole-page tabloid newspaper advertisement; 27-point type for a half-page tabloid newspaper advertisement; 31.5-point typefor a double page spread magazine or whole-page magazine advertisement; 22.5-point type for a 28 centimeter by 3 column advertisement; and 15-point type for a 20 centimeter by 2 column advertisement.
+(F) The text of such label statements shall be in a typeface pro rata to the following requirements: 45-point type for a whole-page broadsheet newspaper advertisement; 39-point type for a half-page broadsheet newspaper advertisement; 39-point type for a whole-page tabloid newspaper advertisement; 27-point type for a half-page tabloid newspaper advertisement; 31.5-point type for a double page spread magazine or whole-page magazine advertisement; 22.5-point type for a 28 centimeter by 3 column advertisement; and 15-point type for a 20 centimeter by 2 column advertisement.
 
 (G) The label statements shall be in English, except that—
 
@@ -62,7 +62,7 @@
 
 &emsp;(ii) assures that all of the labels required under this section will be displayed by the tobacco product manufacturer, importer, distributor, or retailer at the same time.
 
-(D) This paragraph applies to a retailer only if that retailer is responsible for or directs the label statements under this section, unless the retailer displays, in a location open to the public, an advertisement that does not contain a warning label or has been altered by the retailer in a way that is material to the requirements of this subsection.
+(D) This paragraph applies to a retailer only if that retailer is responsible for or directs the label statements under this section, unless the retailer displays, in a location open to the public, an advertisement that does not contain a warning label or has been altered by the retailerin a way that is material to the requirements of this subsection.
 
 (4) The Secretary may, through a rulemaking under section 553 of title 5, adjust the format and type sizes for the label statements required by this section; the text, format, and type sizes of any required tar, nicotine yield, or other constituent disclosures; or the text, format, and type sizes for any other disclosures required under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]. The text of any such label statements or disclosures shall be required to appear only within the 20 percent area of advertisements provided by paragraph (2). The Secretary shall promulgate regulations which provide for adjustments in the format and type sizes of any text required to appear in such area to ensure that the total text required to appear by law will fit within such area.
 

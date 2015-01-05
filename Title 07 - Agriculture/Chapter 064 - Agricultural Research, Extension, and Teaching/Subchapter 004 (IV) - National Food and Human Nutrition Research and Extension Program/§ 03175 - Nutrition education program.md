@@ -16,7 +16,7 @@ To enable low-income individuals and families to engage in nutritionally sound f
 
 Beginning with the fiscal year ending September 30, 1982—
 
-&emsp;(1) Any funds annually appropriated under section 343(d) of this title, for the conduct of the expanded food and nutrition education program, up to the amount appropriated under such section for such program for the fiscal year ending September 30, 1981, shall be allocated to each State in the same proportion as funds appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, are allocated among the States; with the exception that the Secretary may retain up to 2 per centum of such amount for the conduct of such program in States that did not participate in such program in the fiscal year ending September 30, 1981.
+&emsp;(1) Any funds annually appropriated under section 343(d) of this title, for the conduct of the expanded food and nutrition education program, up to the amount appropriated under such section for such program for the fiscal year ending September 30, 1981, shall be allocated to each State in the same proportion as funds appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, are allocated among the States; with the exception that the Secretary may retain up to 2 per centum of suchamount for the conduct of such program in States that did not participate in such program in the fiscal year ending September 30, 1981.
 
 &emsp;(2) Any funds appropriated annually under section 343(d) of this title, for the conduct of the expanded food and nutrition education program in excess of the amount appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, shall be allocated as follows:
 
@@ -64,15 +64,17 @@ The Secretary shall ensure the complementary administration of the expanded food
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section $90,000,000 for each of fiscal years 2009 through 2012.
+There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section $90,000,000 for each of fiscal years 2009 through 2018.
 
-(Pub. L. 95–113, title XIV, §1425, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, §1423, Dec. 22, 1981, 95 Stat. 1307; Pub. L. 101–624, title XVII, §1776(b), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 104–127, title VIII, §809, Apr. 4, 1996, 110 Stat. 1164; Pub. L. 105–185, title III, §301(a)(6), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7106, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §7116(a), May 22, 2008, 122 Stat. 1220; Pub. L. 110–246, §4(a), title VII, §7116(a), June 18, 2008, 122 Stat. 1664, 1981.)
+(Pub. L. 95–113, title XIV, §1425, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, §1423, Dec. 22, 1981, 95 Stat. 1307; Pub. L. 101–624, title XVII, §1776(b), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 104–127, title VIII, §809, Apr. 4, 1996, 110 Stat. 1164; Pub. L. 105–185, title III, §301(a)(6), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7106, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §7116(a), May 22, 2008, 122 Stat. 1220; Pub. L. 110–246, §4(a), title VII, §7116(a), June 18, 2008, 122 Stat. 1664, 1981; Pub. L. 113–79, title VII, §7110, Feb. 7, 2014, 128 Stat. 870.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–79 substituted "2018" for "2012".
 
 <b>2008</b>—Pub. L. 110–246, §7116(a)(2), reenacted section catchline without change.
 
@@ -88,7 +90,7 @@ Subsecs. (e), (f). Pub. L. 110–246, §7116(a)(6), added subsecs. (e) and (f).
 
 <b>1998</b>—Subsec. (c)(3). Pub. L. 105–185 substituted "through 2002" for "and 1997".
 
-<b>1996</b>—Subsec. (c)(3). Pub. L. 104–127 substituted ", $83,000,000 for each of fiscal years 1996 and 1997" for "$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995".
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–127 substituted ", $83,000,000 for each of fiscal years 1996 and 1997" for"$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995".
 
 <b>1990</b>—Subsec. (c)(3). Pub. L. 101–624 added par. (3).
 

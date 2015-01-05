@@ -26,7 +26,7 @@ It is the sense of the Congress that—
 
 &emsp;(4) these debt relief agreements should be designed and implemented in a transparent manner and with the broad participation of the citizenry of the debtor country and should ensure that country circumstances are adequately taken into account;
 
-&emsp;(5) no country should receive the benefits of debt relief if that country does not cooperate with the United States on terrorism or narcotics enforcement, is a gross violator of the human rights of its citizens, or is engaged in conflict or spends excessively on its military; and
+&emsp;(5) no country should receive the benefits of debt relief if that country does not cooperate with the United States on terrorism or narcotics enforcement, is a gross violator of the human rights of its citizens, or is engaged inconflict or spends excessively on its military; and
 
 &emsp;(6) in order to prevent adverse impact on a key industry in many developing countries, the International Monetary Fund must mobilize its own resources for providing debt relief to eligible countries without allowing gold to reach the open market, or otherwise adversely affecting the market price of gold.
 

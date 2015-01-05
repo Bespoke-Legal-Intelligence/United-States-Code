@@ -102,7 +102,7 @@ Pub. L. 110–417, \[div. A\], title VII, §704(c), Oct. 14, 2008, 122 Stat. 449
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VII, §706(g), Oct. 17, 2006, 120 Stat. 2282, provided that: "The Secretary of Defense shall ensure that health care under TRICARE Standard is provided under section 1076d of title 10, United States Code, as amended by this section, beginning not later than October 1, 2007."
+Pub. L. 109–364, div. A, title VII, §706(g), Oct. 17, 2006, 120 Stat. 2282, provided that: "The Secretary of Defenseshall ensure that health care under TRICARE Standard is provided under section 1076d of title 10, United States Code, as amended by this section, beginning not later than October 1, 2007."
 
 #### Savings Provision
 

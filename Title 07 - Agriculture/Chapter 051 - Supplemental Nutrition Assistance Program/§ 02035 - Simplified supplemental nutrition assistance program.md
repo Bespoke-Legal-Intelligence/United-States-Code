@@ -6,7 +6,7 @@ In this section, the term "Federal costs" does not include any Federal costs inc
 
 #### (b) Election
 
-Subject to subsection (d) of this section, a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a "Program"), statewide or in a political subdivision of the State, in accordance with this section.
+Subject to subsection (d), a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a "Program"), statewide or in a political subdivision of the State, in accordance with this section.
 
 #### (c) Operation of Program
 
@@ -18,7 +18,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 &emsp;(3) if approved by the Secretary, a household in which 1 or more members but not all members receive assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) may be eligible to participate in the Program; and
 
-&emsp;(4) subject to subsection (f) of this section, benefits under the Program shall be determined under rules and procedures established by the State under—
+&emsp;(4) subject to subsection (f), benefits under the Program shall be determined under rules and procedures established by the State under—
 
 &emsp;&emsp;(A) a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
 
@@ -88,7 +88,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 &emsp;&emsp;(B) section 2017(a) of this title (except that the income of a household may be determined under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.));
 
-&emsp;&emsp;(C) subsection <sup>1</sup> (b) and (d) of section 2017 of this title;
+&emsp;&emsp;(C) subsections (b) and (d) of section 2017 of this title;
 
 &emsp;&emsp;(D) subsections (a), (c), (d), and (n) of section 2020 of this title;
 
@@ -102,7 +102,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 &emsp;Notwithstanding any other provision of this section, a household may not receive benefits under this section as a result of the eligibility of the household under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), unless the Secretary determines that any household with income above 130 percent of the poverty guidelines is not eligible for the program.
 
-(Pub. L. 88–525, §26, as added Pub. L. 104–193, title VIII, §854(a), Aug. 22, 1996, 110 Stat. 2340; amended Pub. L. 110–234, title IV, §§4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, 122 Stat. 1092, 1095, 1109; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, 122 Stat. 1664, 1853, 1857, 1870.)
+(Pub. L. 88–525, §26, as added Pub. L. 104–193, title VIII, §854(a), Aug. 22, 1996, 110 Stat. 2340; amended Pub. L. 110–234, title IV, §§4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, 122 Stat. 1092, 1095, 1109; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, 122 Stat. 1664, 1853, 1857, 1870; Pub. L. 113–79, title IV, §4030(l), Feb. 7, 2014, 128 Stat. 814.)
 
 #### References in Text
 
@@ -113,6 +113,8 @@ The Social Security Act, referred to in subsecs. (c) and (f), is act Aug. 14, 19
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(3)(C). Pub. L. 113–79 substituted "subsections" for "subsection".
 
 <b>2008</b>—Pub. L. 110–246, §4002(a)(12)(A), substituted "Simplified supplemental nutrition assistance program" for "Simplified Food Stamp Program" in section catchline.
 
@@ -131,6 +133,4 @@ Subsec. (f)(3)(E). Pub. L. 110–246, §4115(b)(16)(B), substituted "(15), (17),
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 

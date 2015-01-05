@@ -16,7 +16,7 @@
 
 #### (4) Options for obtaining loan
 
-&emsp;A marketing assistance loan under this subsection, and loan deficiency payments under subsection (e), may be obtained at the option of the producers on a farm through—
+&emsp;A marketing assistance loan under this subsection, and loan deficiency payments undersubsection (e), may be obtained at the option of the producers on a farm through—
 
 &emsp;&emsp;(A) a designated marketing association or marketing cooperative of producers that is approved by the Secretary; or
 
@@ -50,7 +50,7 @@
 
 #### (b) Loan rate
 
-Except as provided in section 8715 of this title, the loan rate for a marketing assistance loan for peanuts under subsection (a) shall be equal to $355 per ton.
+Except as provided in section 8715 <sup>1</sup> of this title, the loan rate for a marketing assistance loan for peanuts under subsection (a) shall be equal to $355 per ton.
 
 #### (c) Term of loan
 
@@ -128,9 +128,13 @@ The Secretary may implement any reimbursable agreements or provide for the payme
 
 #### References in Text
 
+Section 8715 of this title, referred to in subsec. (b), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
+
 The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

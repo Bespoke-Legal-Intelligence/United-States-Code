@@ -46,7 +46,7 @@ The National Technical Information Service shall—
 
 #### (e) Establishment of Federal Laboratory Consortium for Technology Transfer
 
-(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the "Consortium") which, in cooperation with Federal laboratories and the private sector, shall—
+(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer\(hereinafter referred to as the "Consortium") which, in cooperation with Federal laboratories and the private sector, shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
@@ -182,7 +182,7 @@ The Director of a laboratory, or the head of any Federal agency or department, m
 
 #### References in Text
 
-The Government Performance and Results Act of 1993, referred to in subsec. (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service,amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Amendments
 
@@ -230,7 +230,7 @@ Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which re
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "not less than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "not less than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the precedingsentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
 
 <b>1988</b>—Subsec. (d)(6). Pub. L. 100–418, §5163(c)(3), added par. (6).
 
@@ -272,6 +272,10 @@ Subsecs. (e), (f). Pub. L. 99–502, §§3, 4(d), added subsec. (e), redesignate
 
 Subsec. (g). Pub. L. 99–502, §5, added subsec. (g).
 
+#### Transfer of Functions
+
+Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of section 3515e of Title 42, The Public Health and Welfare.
+
 #### Ex. Ord. No. 12591. Facilitating Access to Science and Technology
 
 Ex. Ord. No. 12591, Apr. 10, 1987, 52 F.R. 13414, as amended by Ex. Ord. No. 12618, Dec. 22, 1987, 52 F.R. 48661, provided:
@@ -288,7 +292,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (A) to enter into cooperative research and development agreements with other Federal laboratories, State and local governments, universities, and the private sector; and
 
-(B) to license, assign, or waive rights to intellectual property developed by the laboratory either under such cooperative research or development agreements and from within individual laboratories.
+(B) to license, assign, or waive rights to intellectual property developed by the laboratory either under suchcooperative research or development agreements and from within individual laboratories.
 
 (2) identify and encourage persons to act as conduits between and among Federal laboratories, universities, and the private sector for the transfer of technology developed from federally funded research and development efforts;
 
@@ -306,7 +310,7 @@ Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of
 
 (a) Identify areas of research and technology of potential importance to long-term national economic competitiveness and in which the laboratory possesses special competence and/or unique facilities;
 
-(b) Establish a mechanism through which the laboratory performs research in areas identified in Section 2(a) as a participant of a consortium composed of United States industries and universities. All consortiaso established shall have, at a minimum, three individual companies that conduct the majority of their business in the United States; and
+(b) Establish a mechanism through which the laboratory performs research in areas identified in Section 2(a) as a participant of a consortium composed of United States industries and universities. All consortia so established shall have, at a minimum, three individual companies that conduct the majority of their business in the United States; and
 
 (c) Limit its participation in any consortium so established to the use of laboratory personnel and facilities. However, each laboratory may also provide financial support generally not to exceed 25 percent of the total budget for the activities of the consortium. Such financial support by any laboratory in all such consortia shall be limited to a maximum of $5 million per annum.
 

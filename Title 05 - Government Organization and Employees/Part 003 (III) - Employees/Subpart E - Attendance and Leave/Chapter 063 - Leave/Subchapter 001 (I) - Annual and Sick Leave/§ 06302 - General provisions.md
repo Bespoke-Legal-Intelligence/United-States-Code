@@ -14,7 +14,7 @@
 
 (g) An employee who is being involuntarily separated from an agency due to a reduction in force or transfer of function under subchapter I of chapter 35 or section 3595 may elect to use annual leave to the employee's credit to remain on the agency's rolls after the date the employee would otherwise have been separated if, and only to the extent that, such additional time in a pay status will enable the employee to qualify for an immediate annuity under section 8336, 8412, 8414, or to qualify to carry health benefits coverage into retirement under section 8905(b).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 93–181, §4, Dec. 14, 1973, 87 Stat. 706; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §634\],Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–277, div. A, §101(h) \[title VI, §653\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 93–181, §4, Dec. 14, 1973, 87 Stat. 706; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §634\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–277, div. A, §101(h) \[title VI, §653\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528.)
 
 Historical and Revision Notes
 
@@ -44,17 +44,17 @@ Oct. 30, 1951, ch. 631, §203(h), 65 Stat. 681.
 
 July 2, 1953, ch. 178, §2(b), 67 Stat. 137.
 
-In subsection (d), the words “the head of the agency concerned” are substituted for “the heads of the various departments and independent establishments”.
+In subsection (d), the words "the head of the agency concerned" are substituted for "the heads of the various departments and independent establishments".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (g). Pub. L. 105–277 inserted “or section 3595” after “chapter 35”.
+<b>1998</b>—Subsec. (g). Pub. L. 105–277 inserted "or section 3595" after "chapter 35".
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–208 added subsec. (g).
 
-<b>1978</b>—Subsec. (e). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)”.
+<b>1978</b>—Subsec. (e). Pub. L. 95–519 substituted "6301(2)(x)–(xiii)" for "6301(2)(x)–(xii)".
 
 <b>1973</b>—Subsec. (f). Pub. L. 93–181 added subsec. (f).
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 95–519 effective beginning on first day of first applicab
 
 #### Temporary Authority To Transfer Leave
 
-Pub. L. 101–237, title II, §206(b)(2), Dec. 18, 1989, 103 Stat. 2068, provided that: “The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 \[Pub. L. 100–440, set out below\], to operate a leave-transfer program for employees subject to section 4108 of title 38, United States Code, is extended until the programs provided for in subsection (e) of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990.”
+Pub. L. 101–237, title II, §206(b)(2), Dec. 18, 1989, 103 Stat. 2068, provided that: "The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 \[Pub. L. 100–440, set out below\], to operate a leave-transfer program for employees subject to section 4108 of title 38, United States Code, is extended until the programs provided for in subsection (e) of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990."
 
 Similar provisions were contained in the following acts:
 
@@ -72,11 +72,11 @@ Pub. L. 101–144, title V, §518, Nov. 9, 1989, 103 Stat. 874.
 
 Pub. L. 101–110, §1(d), Oct. 6, 1989, 103 Stat. 682.
 
-Pub. L. 100–440, title VI, §618, Sept. 22, 1988, 102 Stat. 1755, provided that: “In order to ensure that the experimental use of voluntary leave transfers established under Public Laws 99–500, 99–591 \[Pub. L. 99–500, §101(m) \[title VII\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–334, and Pub. L. 99–591, §101(m) \[title VII\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–334\], and 100–202 \[Pub. L. 100–202, §101(m) \[title VI, §625\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430\] may continue and may cover additional employees in fiscal year 1989, the Office of Personnel Management may continue to operate by regulation, notwithstanding chapter 63 of title 5, United States Code, a program under which the unused accrued annual leave of officers or employees of the Federal Government may be transferred for use by other officers or employees who need such leave due to a personal emergency as defined in the regulations. The Office may provide by regulation for such exceptions from the provisions of section 7351 of title 5 as the Office may determine appropriate for the transfer of leave under this section. The Veterans’ Administration may operate a similar program for employees subject to section 4108 of title 38, United States Code. The programs operated under this section shall expire at the end of fiscal year 1989, but any leave that has been transferred to an officer or employee under the programs shall remain available for use until the personal emergency has ended, and any remaining unused transferred leave shall, to the extent administratively feasible, be restored to the leave accounts of the officers or employees from whose accounts it was originally transferred.”
+Pub. L. 100–440, title VI, §618, Sept. 22, 1988, 102 Stat. 1755, provided that: "In order to ensure that the experimental use of voluntary leave transfers established under Public Laws 99–500, 99–591 \[Pub. L. 99–500, §101(m) \[title VII\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–334, and Pub. L. 99–591, §101(m) \[title VII\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–334\], and 100–202 \[Pub. L. 100–202, §101(m) \[title VI, §625\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430\] may continue and may cover additional employees in fiscal year 1989, the Office of Personnel Management may continue to operate by regulation, notwithstanding chapter 63 of title 5, United States Code, a program under which the unused accrued annual leave of officers or employees of the Federal Government may be transferred for use by other officers or employees who need such leave due to a personal emergency as defined in the regulations. The Office may provide by regulation for such exceptions from the provisions of section 7351 of title 5 as the Office may determine appropriate for the transfer of leave under this section. The Veterans' Administration may operate a similar program for employees subject to section 4108 of title 38, United States Code. The programs operated under this section shall expire at the end of fiscal year 1989, but any leave that has been transferred to an officer or employee under the programs shall remain available for use until the personal emergency has ended, and any remaining unused transferred leave shall, to the extent administratively feasible, be restored to the leave accounts of the officers or employees from whose accounts it was originally transferred."
 
 Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 100–202, §101(m) \[title VI, §625\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430.
 
-For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out section 618 of Pub. L. 100–440, set out above, during the period Dec. 1, 1989, to Dec. 18, 1989, see section 604 of Pub. L. 101–237, set out as a note under section 1720B of Title 38, Veterans’ Benefits. Similar provisions for the period Oct. 1, 1989, to Oct. 6, 1989, were contained in section 3(b) of Pub. L. 101–110, set out as a note under section 1720B of Title 38.
+For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out section 618 of Pub. L. 100–440, set out above, during the period Dec. 1, 1989, to Dec. 18, 1989, see section 604 of Pub. L. 101–237, set out as a note under section 1720B of Title 38, Veterans' Benefits. Similar provisions for the period Oct. 1, 1989, to Oct. 6, 1989, were contained in section 3(b) of Pub. L. 101–110, set out as a note under section 1720B of Title 38.
 

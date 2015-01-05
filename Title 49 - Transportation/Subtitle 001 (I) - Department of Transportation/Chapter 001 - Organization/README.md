@@ -13,7 +13,7 @@
 | [109\.](%C2%A7%2000109%20-%20Maritime%20Administration.md) | Maritime Administration. |
 | [110\.](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md) | Saint Lawrence Seaway Development Corporation. |
 | \[111. | Repealed.\] |
-| [112\.](%C2%A7%2000112%20-%20Research%20and%20Innovative%20Technology%20Administration.md) | Research and Innovative Technology Administration. |
+| [112\.](%C2%A7%2000112%20-%20Office%20of%20the%20Assistant%20Secretary%20for%20Research%20and%20Technology%20of%20the%20Department%20of%20Transportation.md) | Office of the Assistant Secretary for Research and Technology of the Department of Transportation. |
 | [113\.](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md) | Federal Motor Carrier Safety Administration. |
 | [114\.](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md) | Transportation Security Administration. |
 | [115\.](%C2%A7%2000115%20-%20Transportation%20Security%20Oversight%20Board.md) | Transportation Security Oversight Board. |
@@ -36,6 +36,10 @@
 
 <b>1991</b>—Pub. L. 102–240, title III, §3004(c)(3), title VI, §6006(c), Dec. 18, 1991, 105 Stat. 2088, 2174, substituted "Federal Transit Administration" for "Urban Mass Transportation Administration" in item 107 and added second item 110 and item 111.
 
+#### Change of Name
+
+"Office of the Assistant Secretary for Research and Technology of the Department of Transportation" substituted for "Research and Innovative Technology Administration" in item 112 on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under section 112 of this title.
+
 
 ---
 
@@ -52,7 +56,7 @@
 - [&sect; 00109 - Maritime Administration](%C2%A7%2000109%20-%20Maritime%20Administration.md)
 - [&sect; 00110 - Saint Lawrence Seaway Development Corporation](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md)
 - [&sect; 00111 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;52011(c)(1), July 6, 2012, 126 Stat. 895](%C2%A7%2000111%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A752011%28c%29%281%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20895.md)
-- [&sect; 00112 - Research and Innovative Technology Administration](%C2%A7%2000112%20-%20Research%20and%20Innovative%20Technology%20Administration.md)
+- [&sect; 00112 - Office of the Assistant Secretary for Research and Technology of the Department of Transportation](%C2%A7%2000112%20-%20Office%20of%20the%20Assistant%20Secretary%20for%20Research%20and%20Technology%20of%20the%20Department%20of%20Transportation.md)
 - [&sect; 00113 - Federal Motor Carrier Safety Administration](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md)
 - [&sect; 00114 - Transportation Security Administration](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md)
 - [&sect; 00115 - Transportation Security Oversight Board](%C2%A7%2000115%20-%20Transportation%20Security%20Oversight%20Board.md)

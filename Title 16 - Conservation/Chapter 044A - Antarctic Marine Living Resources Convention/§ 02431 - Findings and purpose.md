@@ -18,7 +18,7 @@ The Congress finds that—
 
 #### (b) Purpose
 
-The purpose of this chapter is to provide the legislative authority necessary to implement,with respect to the United States, the Convention on the Conservation of Antarctic Marine Living Resources.
+The purpose of this chapter is to provide the legislative authority necessary to implement, with respect to the United States, the Convention on the Conservation of Antarctic Marine Living Resources.
 
 (Pub. L. 98–623, title III, §302, Nov. 8, 1984, 98 Stat. 3398.)
 

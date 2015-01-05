@@ -26,7 +26,7 @@ All preprinted deposit slips that a depository institution furnishes to its cust
 
 #### (1) Specific notice at manned teller stations
 
-&emsp;Each depository institution shall post, in a conspicuous place in each location where deposits are accepted by individuals employed by such depository institution, a specific notice which describes the time periods applicable to the availability of funds deposited in a consumer account.
+&emsp;Each depository institution shall post, in a conspicuous place in each location where deposits are accepted by individuals employed by such depository institution, a specific noticewhich describes the time periods applicable to the availability of funds deposited in a consumer account.
 
 #### (2) General notice at automated teller machines
 

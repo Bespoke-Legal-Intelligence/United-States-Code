@@ -344,9 +344,13 @@ In this chapter:
 
 (Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–110, title X, §1076(w), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 109–270, §2(h)(1), (2), Aug. 12, 2006, 120 Stat. 747; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program</i><i>year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealedsections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Food and Nutrition Act of 2008, referred to in par. (25)(C), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -377,6 +381,10 @@ Par. (50). Pub. L. 109–270, §2(h)(2), substituted "given the term 'career and
 <b>1998</b>—Par. (3). Pub. L. 105–332 substituted "section 2302 of title 20" for "section 2471 of title 20".
 
 Par. (35). Pub. L. 105–244 substituted "section 1002 of title 20" for "section 1088 of title 20".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -424,7 +432,7 @@ Ex. Ord. No. 13218, June 20, 2001, 66 F.R. 33627, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to promote the study and the development of strategies to address the needs of the 21st century workforce, it is hereby ordered as follows:
 
-Section 1. <i>Establishment of the Office of the 21st Century Workforce</i>. (a) The Secretary of Labor is hereby directed to establish within the Department of Labor the Office of the 21st Century Workforce. The Office shallprovide a focal point for the identification and study of issues relating to the workforce of the United States and the development of strategies for effectively addressing such issues.
+Section 1. <i>Establishment of the Office of the 21st Century Workforce</i>. (a) The Secretary of Labor is hereby directed to establish within the Department of Labor the Office of the 21st Century Workforce. The Office shall provide a focal point for the identification and study of issues relating to the workforce of the United States and the development of strategies for effectively addressing such issues.
 
 (b) The Office of the 21st Century Workforce shall gather and disseminate information relating to workforce issues by conducting summits, conferences, field hearings, meetings, and other appropriate forums designed to encourage the participation of organizations and individuals interested in such issues, including business and labor organizations, academicians, employers, employees, and public officials at the local, State, and Federal levels.
 
@@ -484,7 +492,7 @@ Community colleges are a key part of our education system, providing a flexible 
 
 Therefore, I am establishing a task force to develop skills for America's future by identifying, developing, and increasing the scale of promising approaches to improving the skills of our Nation's workers. By coordinating the work of relevant agencies with that of nonprofits, labor unions, and private sector organizations, and by leveraging the assets of these entities, this effort will build better partnerships between businesses, community colleges, and other training providers to get Americans trained for the jobs of today and tomorrow.
 
-Section 1. <i>Establishment</i>. There is established an interagency Task Force on Skills for America's Future\(Task Force) to ensure that Federal policies promote innovative training programs and curricula, including successful public-private partnerships, at community colleges as well as in other settings, that will prepare the American workforce for 21st-century jobs. The Chair of the Council of Economic Advisers, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall serve as Co-Chairs of the Task Force.
+Section 1. <i>Establishment</i>. There is established an interagency Task Force on Skills for America's Future (Task Force) to ensure that Federal policies promote innovative training programs and curricula, including successful public-private partnerships, at community colleges as well as in other settings, that will prepare the American workforce for 21st-century jobs. The Chair of the Council of Economic Advisers, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall serve as Co-Chairs of the Task Force.
 
 Sec. 2. <i>Membership</i>. In addition to the Co-Chairs, the Task Force shall consist of the following members, or any senior official designated by one of the following members who is a part of the member's department, agency, or office, and who is a full time employee of the Federal Government:
 

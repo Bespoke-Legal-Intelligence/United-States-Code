@@ -24,7 +24,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 &emsp;&emsp;(B) has a demonstrated ability to work with State and community-based public and private nonprofit organizations to develop a continuum of preventive, family centered, comprehensive services for children and families through the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
 
-&emsp;&emsp;(C) has the capacity to provide operational support (both financial and programmatic) <sup>1</sup> training, technical assistance, and evaluation assistance, to community-based and prevention-focused programs and activities designed to strengthen and support familiesto prevent child abuse and neglect, through innovative, interagency funding and interdisciplinary service delivery mechanisms; and
+&emsp;&emsp;(C) has the capacity to provide operational support (both financial and programmatic) <sup>1</sup> training, technical assistance, and evaluation assistance, to community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect, through innovative, interagency funding and interdisciplinary service delivery mechanisms; and
 
 &emsp;&emsp;(D) will integrate its efforts with individuals and organizations experienced in working in partnership with families with children with disabilities, parents with disabilities, and with the child abuse and neglect prevention activities of the State, and demonstrate a financial commitment to those activities.
 

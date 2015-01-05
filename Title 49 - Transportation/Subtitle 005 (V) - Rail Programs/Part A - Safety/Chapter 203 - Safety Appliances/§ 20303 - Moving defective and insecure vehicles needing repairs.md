@@ -2,7 +2,7 @@
 
 (a)
 
-General.—A vehicle that is equipped in compliance with this chapter whose equipment becomes defective or insecure nevertheless may be moved when necessary to make repairs, without a penalty being imposed under section 21302 of this title, from the place at which the defect or insecurity was first discovered to the nearest available place at which the repairs can be made—
+General.—A vehicle that is equipped in compliance with this chapter whose equipment becomes defective or insecure nevertheless maybe moved when necessary to make repairs, without a penalty being imposed under section 21302 of this title, from the place at which the defect or insecurity was first discovered to the nearest available place at which the repairs can be made—
 
 &emsp;(1) on the railroad line on which the defect or insecurity was discovered; or
 

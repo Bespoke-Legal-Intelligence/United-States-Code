@@ -6,7 +6,7 @@ The Secretary is authorized to make such rules and regulations, prescribe the te
 
 #### (b) Debt service margin requirements
 
-Notwithstanding subsection (a) of this section, in providing farmer program loan guarantees under this chapter, the Secretary shall consider the income of the borrower adequate if the income is equal to or greater than the income necessary—
+Notwithstanding subsection (a), in providing farmer program loan guarantees under this chapter, the Secretary shall consider the income of the borrower adequate if the income is equal to or greater than the income necessary—
 
 &emsp;(1) to make principal and interest payments on all debt obligations of the borrower, in a timely manner;
 
@@ -18,7 +18,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a program under which the Secretary shall guarantee loans for any purpose specified in subchapter II of this chapter that are made by lending institutions certified by the Secretary.
+&emsp;The Secretary shall establish a program under which the Secretary shall guarantee loans for any purpose specified in subchapter II that are made by lending institutions certified by the Secretary.
 
 #### (2) Certification requirements
 
@@ -26,7 +26,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (3) Condition of certification
 
-&emsp;As a condition of the certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection, using standards that are not less stringent than generallyaccepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each certified lender to ensure that the conditions of the certification are being met.
+&emsp;As a condition of the certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection, using standards that are not less stringent than generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each certified lender to ensure that the conditions of the certification are being met.
 
 #### (4) Effect of certification
 
@@ -44,7 +44,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (5) Relationship to other requirements
 
-&emsp;Neither this subsection nor subsection (d) of this section shall affect the responsibility of the Secretary to certify eligibility, review financial information, and otherwise assess an application.
+&emsp;Neither this subsection nor subsection (d) shall affect the responsibility of the Secretary to certify eligibility, review financial information, and otherwise assess an application.
 
 #### (d) Preferred Certified Lenders Program
 
@@ -52,7 +52,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 &emsp;Commencing not later than two years after October 28, 1992, the Secretary shall establish a Preferred Certified Lenders Program for lenders who establish their—
 
-&emsp;&emsp;(A) knowledge of, and experience under, the program established under subsection (c) of this section;
+&emsp;&emsp;(A) knowledge of, and experience under, the program established under subsection (c);
 
 &emsp;&emsp;(B) knowledge of the regulations concerning the guaranteed loan program; and
 
@@ -80,7 +80,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (e) Administration of Certified Lenders and Preferred Certified Lenders programs
 
-The Secretary may administer the loan guarantee programs under subsections (c) and (d) of this section through central offices established in States or in multi-State areas.
+The Secretary may administer the loan guarantee programs under subsections (c) and (d) through central offices established in States or in multi-State areas.
 
 (Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, §5309, May 13, 2002, 116 Stat. 346.)
 
@@ -112,7 +112,7 @@ Pub. L. 100–233, title VI, §624, Jan. 6, 1988, 101 Stat. 1685, provided that:
 
 #### Study and Report to Congress Before Issuance of Certain Final Regulations
 
-Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
+Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate andthe Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
 
 #### Availability of Funds for Continuing Assistance to Delinquent Borrowers; Prohibition on Use of Funds
 

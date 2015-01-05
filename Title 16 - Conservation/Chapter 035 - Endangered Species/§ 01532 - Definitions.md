@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 &emsp;(14) The term "plant" means any member of the plant kingdom, including seeds, roots and other parts thereof.
 
-&emsp;(15) The term "Secretary" means, except as otherwise herein provided, the Secretary ofthe Interior or the Secretary of Commerce as program responsibilities are vested pursuant to the provisions of Reorganization Plan Numbered 4 of 1970; except that with respect to the enforcement of the provisions of this chapter and the Convention which pertain to the importation or exportation of terrestrial plants, the term also means the Secretary of Agriculture.
+&emsp;(15) The term "Secretary" means, except as otherwise herein provided, the Secretary of the Interior or the Secretary of Commerce as program responsibilities are vested pursuant to the provisions of Reorganization Plan Numbered 4 of 1970; except that with respect to the enforcement of the provisions of this chapter and the Convention which pertain to the importation or exportation of terrestrial plants, the term also means the Secretary of Agriculture.
 
 &emsp;(16) The term "species" includes any subspecies of fish or wildlife or plants, and any distinct population segment of any species of vertebrate fish or wildlife which interbreeds when mature.
 

@@ -1,0 +1,72 @@
+### §305103. Selection of eligible entity and conveyance of historic light stations
+
+(a)
+
+Process and Policies.—The Secretary and the Administrator shall maintain a process and policies for identifying, and selecting, an eligible entity to which a historic light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of the light station by the eligible entity.
+
+(b)
+
+Application Review.—
+
+&emsp;(1)
+
+In general.—The Secretary shall—
+
+&emsp;&emsp;(A) review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be excess property (as that term is defined in section 102 of title 40); and
+
+&emsp;&emsp;(B) forward to the Administrator a single approved application for the conveyance of the historic light station.
+
+&emsp;(2)
+
+Consultation.—When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
+
+(c)
+
+Conveyance or Sale of Historic Light Stations.—
+
+&emsp;(1)
+
+Conveyance by administrator.—Except as provided in paragraph (2), after the Secretary's selection of an eligible entity, the Administrator shall convey, by quitclaim deed, without consideration, all right, title, and interest of the United States in and to a historic light station, subject to the conditions set forth in section 305104 of this title. The conveyance of a historic light station under this chapter shall not be subject to the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) or section 416(d) of the Coast Guard Authorization Act of 1998 (Public Law 105–383, 14 U.S.C. 93 note).
+
+&emsp;(2)
+
+Historic light station located within a system unit or a refuge within national wildlife refuge system.—
+
+&emsp;&emsp;(A)
+
+Approval of secretary required.—A historic light station located within the exterior boundaries of a System unit or a refuge within the National Wildlife Refuge System shall be conveyed or sold only with the approval of the Secretary.
+
+&emsp;&emsp;(B)
+
+Conditions of conveyance.—If the Secretary approves the conveyance of a historic light station described in subparagraph (A), the conveyance shall be subject to the conditions set forth in section 305104 of this title and any other terms or conditions that the Secretary considers necessary to protect the resources of the System unit or wildlife refuge.
+
+&emsp;&emsp;(C)
+
+Conditions of sale.—If the Secretary approves the sale of a historic light station described in subparagraph (A), the sale shall be subject to the conditions set forth in paragraphs (1) to (4) and (8) of subsection (a), and subsection (b), of section 305104 of this title and any other terms or conditions that the Secretary considers necessary to protect the resources of the System unit or wildlife refuge.
+
+&emsp;&emsp;(D)
+
+Cooperative agreements.—The Secretary is encouraged to enter into cooperative agreements with appropriate eligible entities with respect to historic light stations described in subparagraph (A), as provided in this division, to the extent that the cooperative agreements are consistent with the Secretary's responsibilities to manage and administer the System unit or wildlife refuge.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3216.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+305103
+
+16 U.S.C. 470w–7(b).
+
+Pub. L. 89–665, title III, §308(b), as added Pub. L. 106–355, §2, Oct. 24, 2000, 114 Stat. 1385; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.
+
+#### References in Text
+
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+

@@ -18,13 +18,13 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (3) Interest rate
 
-&emsp;(A) Loans under this section shall bear interest at the "cost of money rate". The cost of money rate is defined as the average cost of moneys to the telephone bank as determined by the Governor, but not less than 5 per centum per annum.
+&emsp;(A) Loans under this section shall bear interest at the "cost of money rate". The cost ofmoney rate is defined as the average cost of moneys to the telephone bank as determined by the Governor, but not less than 5 per centum per annum.
 
 &emsp;(B) On and after December 22, 1987, advances made on or after December 22, 1987, under loan commitments made on or after October 1, 1987, shall bear interest at the rate determined under subparagraph (C), but in no event at a rate that is less than 5 percent per annum.
 
 &emsp;(C) The rate determined under this subparagraph shall be—
 
-&emsp;&emsp;(i) for the period beginning on the date the advance is made and ending at the close of the fiscal year in which the advance is made,the average yield (on the date of the advance) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the advance; and
+&emsp;&emsp;(i) for the period beginning on the date the advance is made and ending at the close of the fiscal year in which the advance is made, the average yield (on the date of the advance) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the advance; and
 
 &emsp;&emsp;(ii) after the fiscal year in which the advance is made, the cost of money rate for such fiscal year, as determined under subparagraph (D).
 
@@ -46,73 +46,28 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years in which each advance was made shall be as set forth in the following table:
 
-<b> </b>
+&nbsp;
 
-<b>The cost of money</b>
-
-<b> For advances made in—</b>
-
-<b>rate shall be—</b>
-
-&nbsp;&nbsp;Fiscal year 1974
-
-&nbsp;&nbsp;5.01 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1975
-
-&nbsp;&nbsp;5.85 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1976
-
-&nbsp;&nbsp;5.33 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1977
-
-&nbsp;&nbsp;5.00 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1978
-
-&nbsp;&nbsp;5.87 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1979
-
-&nbsp;&nbsp;5.93 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1980
-
-&nbsp;&nbsp;8.10 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1981
-
-&nbsp;&nbsp;9.46 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1982
-
-&nbsp;&nbsp;8.39 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1983
-
-&nbsp;&nbsp;6.99 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1984
-
-&nbsp;&nbsp;6.55 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1985
-
-&nbsp;&nbsp;5.00 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1986
-
-&nbsp;&nbsp;5.00 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;Fiscal year 1987
-
-&nbsp;&nbsp;5.00 percent.
+| <b> For advances made in—</b> | <b>The cost of money rate shall be—</b> |
+| :--- | ---: |
+| Fiscal year 1974 | 5\.01 percent&nbsp;&nbsp; |
+| Fiscal year 1975 | 5\.85 percent&nbsp;&nbsp; |
+| Fiscal year 1976 | 5\.33 percent&nbsp;&nbsp; |
+| Fiscal year 1977 | 5\.00 percent&nbsp;&nbsp; |
+| Fiscal year 1978 | 5\.87 percent&nbsp;&nbsp; |
+| Fiscal year 1979 | 5\.93 percent&nbsp;&nbsp; |
+| Fiscal year 1980 | 8\.10 percent&nbsp;&nbsp; |
+| Fiscal year 1981 | 9\.46 percent&nbsp;&nbsp; |
+| Fiscal year 1982 | 8\.39 percent&nbsp;&nbsp; |
+| Fiscal year 1983 | 6\.99 percent&nbsp;&nbsp; |
+| Fiscal year 1984 | 6\.55 percent&nbsp;&nbsp; |
+| Fiscal year 1985 | 5\.00 percent&nbsp;&nbsp; |
+| Fiscal year 1986 | 5\.00 percent&nbsp;&nbsp; |
+| Fiscal year 1987 | 5\.00 percent. |
 
 > &emsp;For purposes of this paragraph, the term "fiscal year" means the 12-month period ending on September 30 of the designated year.
 
-&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
+&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an electionunder this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
 
 &emsp;(ii)(I) If the telephone bank, pursuant to section 947(b) of this title, issues telephone debentures on any date to refinance telephone debentures or other obligations of the telephone bank, the telephone bank shall, in addition to any interest rate reduction required by any other provision of this paragraph, for the period applicable to the advance, reduce the interest rate charged on each advance made under this section during the fiscal year in which the refinanced debentures or other obligations were originally issued by the amount applicable to the advance.
 
@@ -138,7 +93,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(A) The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.
 
-&emsp;&emsp;(B) The Secretary has approved, under section 935(d)(3) of this title, a telecommunications modernization plan for the State in which the applicant is located and, if the plan was developed by telephone borrowers under subchapter III of this chapter, the applicant is a participant in the plan.
+&emsp;&emsp;(B) The Secretary has approved, under section 935(d)(3) of this title, a telecommunications modernization plan for the State in which the applicant is located and, if the plan was developed by telephone borrowers under subchapter III, the applicant is a participant in the plan.
 
 #### (5) Certificate of convenience and necessity required from State regulatory agency or statement of telephone bank's Governor of nonduplication of lines, facilities, or systems
 

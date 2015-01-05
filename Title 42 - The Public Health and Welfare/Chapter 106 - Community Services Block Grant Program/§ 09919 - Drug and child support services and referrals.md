@@ -8,7 +8,7 @@
 
 #### (2) Administrative expenses
 
-&emsp;Any funds provided under this chapter expended for such testing shall be considered to be expended for administrative expenses and shall be subject to the limitation specified in section 9907(b)(2) of this title.
+&emsp;Any funds provided under this chapter expended for such testing shall be considered tobe expended for administrative expenses and shall be subject to the limitation specified in section 9907(b)(2) of this title.
 
 #### (3) Definition
 

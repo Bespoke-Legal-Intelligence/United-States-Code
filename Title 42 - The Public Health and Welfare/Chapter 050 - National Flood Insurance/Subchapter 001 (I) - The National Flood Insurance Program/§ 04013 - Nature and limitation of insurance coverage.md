@@ -42,9 +42,9 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 &emsp;(3) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause (ii) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000;
 
-&emsp;(4) in the case of any nonresidential building, including a church, for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in subparagraphs (B) and (C) of paragraph (1) shall be made available with respect to any single such building, up to an aggregate liability (including such limits specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000, and coverage shall be made available up to a total of $500,000 aggregate liability for contents owned by the building owner and $500,000 aggregate liability for each unit within the building for contents owned by the tenant; and
+&emsp;(4) in the case of any nonresidential building, including a church, for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in subparagraphs (B) and (C) of paragraph (1) shall be made available with respect to any single such building, up to an aggregate liability (including such limits specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000, and coverage shall be made available up to a total of $500,000 aggregate liability for contents owned by the building owner and $500,000 aggregate liabilityfor each unit within the building for contents owned by the tenant; and
 
-&emsp;(5) any flood insurance coverage which may be made available in excess of the limits specified in subparagraph (A), (B), or (C) of paragraph (1), shall be based only on chargeable premium rates under section 4015 of this title, which are not less than the estimated premium rates under section 4014(a)(1) of this title, and the amount of such excess coverage shall not in any case exceed an amount equalto the applicable limit so specified (or allocated) under paragraph (1)(C), (2), (3), or (4), as applicable.
+&emsp;(5) any flood insurance coverage which may be made available in excess of the limits specified in subparagraph (A), (B), or (C) of paragraph (1), shall be based only on chargeable premium rates under section 4015 of this title, which are not less than the estimated premium rates under section 4014(a)(1) of this title, and the amount of such excess coverage shall not in any case exceed an amount equal to the applicable limit so specified (or allocated) under paragraph (1)(C), (2), (3), or (4), as applicable.
 
 #### (c) Effective date of policies
 
@@ -66,7 +66,27 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 &emsp;&emsp;&emsp;(ii) the flood insurance coverage was purchased not later than 60 days after the fire containment date, as determined by the appropriate Federal employee, relating to the wildfire that caused the post-wildfire conditions described in clause (i).
 
-(Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(o), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284; Pub. L. 112–141, div. F, title II, §§100228, 100238(b)(1), 100241, July 6, 2012, 126 Stat. 944, 958, 962.)
+#### (d) Optional high-deductible policies for residential properties
+
+#### (1) Availability
+
+&emsp;In the case of residential properties, the Administrator shall make flood insurance coverage available, at the option of the insured, that provides for a loss-deductible for damage to the covered property in various amounts, up to and including $10,000.
+
+#### (2) Disclosure
+
+#### (A) Form
+
+&emsp;&emsp;The Administrator shall provide the information described in subparagraph (B) clearly and conspicuously on the application form for flood insurance coverage or on a separate form, segregated from all unrelated information and other required disclosures.
+
+#### (B) Information
+
+&emsp;&emsp;The information described in this subparagraph is—
+
+&emsp;&emsp;&emsp;(i) information sufficient to inform the applicant of the availability of the coverage option required by paragraph (1) to applicants for flood insurance coverage; and
+
+&emsp;&emsp;&emsp;(ii) a statement explaining the effect of a loss-deductible and that, in the event of an insured loss, the insured is responsible out-of-pocket for losses to the extent of the deductible selected.
+
+(Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(o), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284; Pub. L. 112–141, div. F, title II, §§100228, 100238(b)(1), 100241, July 6, 2012, 126 Stat. 944, 958, 962; Pub. L. 113–89, §12, Mar. 21, 2014, 128 Stat. 1025.)
 
 #### References in Text
 
@@ -74,13 +94,15 @@ This chapter, referred to in subsecs. (a)(6) and (c)(1), (2)(A), was in the orig
 
 #### Amendments
 
+<b>2014</b>—Subsec. (d). Pub. L. 113–89 added subsec. (d).
+
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in introductory provisions.
 
 Subsec. (b)(1)(B). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in two places.
 
 Subsec. (b)(2). Pub. L. 112–141, §100228(1), substituted "in the case of any residential building designed for the occupancy of from 1 to 4 families" for "in the case of any residential property" and "shall be made available, with respect to any single such building, up to an aggregate liability (including such limits specified in paragraph (1)(A)(i)) of $250,000" for "shall be made available to every insured upon renewal and every applicant for insurance so as to enable such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(i)) of $250,000".
 
-Subsec. (b)(4). Pub. L. 112–141, §100228(2), substituted "in the case of any nonresidential building, including a church," for "in the case of any nonresidential property, including churches," and "shall be made available with respect to any single such building, up to an aggregate liability (including such limits specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000, and coverage shall be made available up to a total of $500,000 aggregate liability for contents owned by the building owner and $500,000 aggregate liability for each unit within the building for contents owned by the tenant" for "shall be made available to every insured upon renewal and every applicant for insurance, in respect to any single structure, up to a total amount (including such limit specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000 for each structure and $500,000 for any contents related to each structure".
+Subsec. (b)(4). Pub. L. 112–141, §100228(2), substituted "in the case of any nonresidential building, including achurch," for "in the case of any nonresidential property, including churches," and "shall be made available with respect to any single such building, up to an aggregate liability (including such limits specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000, and coverage shall be made available up to a total of $500,000 aggregate liability for contents owned by the building owner and $500,000 aggregate liability for each unit within the building for contents owned by the tenant" for "shall be made available to every insured upon renewal and every applicant for insurance, in respect to any single structure, up to a total amount (including such limit specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000 for each structure and $500,000 for any contents related to each structure".
 
 Subsec. (c)(2)(C). Pub. L. 112–141, §100241, added subpar. (C).
 

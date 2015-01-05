@@ -18,7 +18,7 @@
 
 <b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, made technical correction to directory language of Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, as amended by Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, substituted "Director" for "Commissioner" in item 304.
+<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582,as amended by Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, substituted "Director" for "Commissioner" in item 304.
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4602, 4732(a)(9)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, 1501A–582, inserted "EX PARTE" before "REEXAMINATION" in chapter heading and substituted "Director" for "Commissioner" in item 303.
 

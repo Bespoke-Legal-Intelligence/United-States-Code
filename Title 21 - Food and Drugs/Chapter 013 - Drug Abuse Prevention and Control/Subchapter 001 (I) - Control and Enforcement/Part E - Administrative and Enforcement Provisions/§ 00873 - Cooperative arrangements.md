@@ -98,7 +98,7 @@ Activities.—In order to combat the illegal manufacturing and trafficking in am
 
 &emsp;"(5) enhance the investigative and related functions of the Chemical Control Program of the Administration to implement more fully the provisions of the Comprehensive Methamphetamine Control Act of 1996 (Public Law 104–237) \[see Short Title of 1996 Amendments note set out under section 801 of this title\];
 
-&emsp;"(6) design an effective means of requiring an accurate accounting of the import and export of list Ichemicals, and coordinate investigations relating to the diversion of such chemicals;
+&emsp;"(6) design an effective means of requiring an accurate accounting of the import and export of list I chemicals, and coordinate investigations relating to the diversion of such chemicals;
 
 &emsp;"(7) develop a computer infrastructure sufficient to receive, process, analyze, and redistribute time-sensitive enforcement information from suspicious order reporting to field offices of the Administration and other law enforcement and regulatory agencies, including the continuing development of the Suspicious Order Reporting and Tracking System (SORTS) and the Chemical Transaction Database (CTRANS) of the Administration;
 

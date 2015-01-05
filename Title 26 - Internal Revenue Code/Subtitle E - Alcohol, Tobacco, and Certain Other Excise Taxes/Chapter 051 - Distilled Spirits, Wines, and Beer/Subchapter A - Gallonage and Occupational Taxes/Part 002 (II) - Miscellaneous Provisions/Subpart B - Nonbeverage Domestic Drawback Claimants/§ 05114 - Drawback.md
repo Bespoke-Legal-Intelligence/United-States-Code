@@ -6,7 +6,7 @@ In the case of distilled spirits on which the tax has been paid or determined, a
 
 #### (b) Claims
 
-Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled to such drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with theSecretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
+Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled to such drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with the Secretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
 
 #### (c) Allowance of drawback even where certain requirements not met
 
@@ -36,7 +36,7 @@ A prior section 5114 was renumbered section 5432 of this title.
 
 Another prior section 5114, act Aug. 16, 1954, ch. 736, 68A Stat. 619, related to recordkeeping by wholesale dealers, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5115, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1342; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to requirement that a sign be posted on premises where liquor is sold and penalty for noncompliance, prior to repeal by Pub. L. 105–34, title XIV, §1415(a), Aug. 5, 1997, 111 Stat. 1047.
+A prior section 5115, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1342; amended Pub. L. 94–455,title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to requirement that a sign be posted on premises where liquor is sold and penalty for noncompliance, prior to repeal by Pub. L. 105–34, title XIV, §1415(a), Aug. 5, 1997, 111 Stat. 1047.
 
 Another prior section 5115, act Aug. 16, 1954, ch. 736, 68A Stat. 620, related to making and stamping packages filled on premises of wholesale dealers, prior to the general revision of this chapter by Pub. L. 85–859.
 

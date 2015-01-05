@@ -10,7 +10,7 @@ The notice of the Administrator shall be deemed to be a finding under section 74
 
 #### (c) Reciprocity
 
-This section shall apply only to a foreign country which the Administrator determineshas given the United States essentially the same rights with respect to the prevention or control of air pollution occurring in that country as is given that country by this section.
+This section shall apply only to a foreign country which the Administrator determines has given the United States essentially the same rights with respect to the prevention or control of air pollution occurring in that country as is given that country by this section.
 
 #### (d) Recommendations
 
@@ -24,7 +24,7 @@ Section was formerly classified to section 1857d of this title.
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–95 completely revised section by substituting provisions establishing a mechanism for the Administrator to trigger a revision of a State implementation plan under section 7410(a)(2)(H) upon a petition of an international agency or the Secretary of State if he finds that emissions originating in a State endanger the health or welfare of persons in a foreign country for provisions calling for the abatement of air pollution by means of conference procedures.
+<b>1977</b>—Pub. L. 95–95 completely revised section by substituting provisions establishing a mechanism for the Administrator to trigger a revision of a State implementation plan under section 7410(a)(2)(H) upon a petition of an international agency or the Secretary ofState if he finds that emissions originating in a State endanger the health or welfare of persons in a foreign country for provisions calling for the abatement of air pollution by means of conference procedures.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–604, §4(b)(2), inserted "and which is covered by subsection (b) or (c) of this section" after "persons".
 

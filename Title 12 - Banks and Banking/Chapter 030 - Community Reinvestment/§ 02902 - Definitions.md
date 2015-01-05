@@ -44,7 +44,7 @@ Par. (1)(C). Pub. L. 111–203, §358(1)(A)(iii), substituted ", and State savi
 
 Par. (2). Pub. L. 111–203, §358(1)(B), struck out par. (2) relating to the Director of the Office of Thrift Supervision which read as follows: "section 1818 of this title, by the Director of the Office of Thrift Supervision, in the case of a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and a savings and loan holding company;".
 
-<b>1989</b>—Par. (1)(D). Pub. L. 101–73, §744(q), directed the general amendment of par. (1)(D) but then set out "(2)" followed by the text of the new provisions. Prior toamendment, par. (1)(D) read as follows: "the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;".
+<b>1989</b>—Par. (1)(D). Pub. L. 101–73, §744(q), directed the general amendment of par. (1)(D) but then set out "(2)" followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: "the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;".
 
 Par. (2). Pub. L. 101–73, §1212(a), substituted "insured depository institution (as defined in section 1813 of this title)" for "insured bank as defined in section 1813 of this title or an insured institution as defined in section 401 of the National Housing Act".
 

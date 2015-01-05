@@ -1,6 +1,6 @@
 ### §2104. Officer
 
-(a) For the purpose of this title, “officer”, except as otherwise provided by this section or when specifically modified, means a justice or judge of the United States and an individual who is—
+(a) For the purpose of this title, "officer", except as otherwise provided by this section or when specifically modified, means a justice or judge of the United States and an individual who is—
 
 &emsp;(1) required by law to be appointed in the civil service by one of the following acting in an official capacity—
 
@@ -26,13 +26,13 @@ The section is supplied for convenience.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–375, §6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text “as otherwise provided by this section or” after “except”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–375, §6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text "as otherwise provided by this section or" after "except".
 
 Subsec. (b). Pub. L. 91–375, §6(c)(3)(C), added subsec. (b).
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 

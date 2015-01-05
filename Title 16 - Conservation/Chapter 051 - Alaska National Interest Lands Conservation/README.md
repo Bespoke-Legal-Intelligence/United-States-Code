@@ -200,6 +200,8 @@ Sec. 5. <i>General Provisions</i>. (a) This order shall be implemented consisten
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
+
 
 ---
 

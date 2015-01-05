@@ -10,7 +10,7 @@
 
 #### (B) Publication
 
-&emsp;&emsp;With regard to information to be reported by the Food and Drug Administration to industry on a quarterly and annual basis pursuant to the letters described in section 201(b) of the Medical Device User Fee Amendments Act of 2012, the Secretary shall make such information publicly available on the Internet Web site of the Food and Drug Administration not later than 60 days after the end of each quarter or 120 days after the end of each fiscal year, respectively, to which such information applies. This information shall include the status of the independent assessment identified in the letters described in such section 201(b).
+&emsp;&emsp;With regard to information to be reported by the Food and Drug Administration to industry on a quarterly and annual basis pursuant to the letters described in section 201(b) of the Medical Device User Fee Amendments Act of 2012, the Secretary shall make such information publicly available on the Internet Web site of the Food and Drug Administration not later than 60 days after the end of each quarter or 120 days after the end of each fiscal year, respectively, towhich such information applies. This information shall include the status of the independent assessment identified in the letters described in such section 201(b).
 
 #### (C) Updates
 

@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 &emsp;(3) "pilot plant" means an experimental unit of small size used for early evaluation and development of new or improved processes and to obtain technical, engineering, and cost data;
 
-&emsp;(4) "demonstration plant" means a complete facility which produces electricity, heat energy, or useful byproducts for commercial disposal from geothermal resources and whichwill make a significant contribution to the knowledge of full-size technology, plant operation, and process economics;
+&emsp;(4) "demonstration plant" means a complete facility which produces electricity, heat energy, or useful byproducts for commercial disposal from geothermal resources and which will make a significant contribution to the knowledge of full-size technology, plant operation, and process economics;
 
 &emsp;(5) the term "Project" means the Geothermal Energy Coordination and Management Project established by section 1121(a) of this title;
 

@@ -8,13 +8,13 @@ The President may reduce amounts of principal and interest owed by any eligible 
 
 #### (1) Types of debt reduction
 
-&emsp;The authority provided by subsection (a) of this section may be exercised only to implement multilateral agreements to reduce the burden of official bilateral debt as set forth in the minutes of the so-called "Paris Club" (also known as "Paris Club Agreed Minutes").
+&emsp;The authority provided by subsection (a) may be exercised only to implement multilateral agreements to reduce the burden of official bilateral debt as set forth in the minutes of the so-called "Paris Club" (also known as "Paris Club Agreed Minutes").
 
 #### (2) Eligible countries
 
 #### (A) "Eligible country" defined
 
-&emsp;&emsp;As used in subsection (a) of this section, the term "eligible country" means any country that—
+&emsp;&emsp;As used in subsection (a), the term "eligible country" means any country that—
 
 &emsp;&emsp;&emsp;(i) has excessively burdensome external debt;
 
@@ -24,7 +24,7 @@ The President may reduce amounts of principal and interest owed by any eligible 
 
 #### (B) Determinations
 
-&emsp;&emsp;Subject to subparagraph (A), the President may determine whether a country is an eligible country for purposes of subsection (a) of this section.
+&emsp;&emsp;Subject to subparagraph (A), the President may determine whether a country is an eligible country for purposes of subsection (a).
 
 #### (c) Conditions
 
@@ -40,7 +40,7 @@ The authority provided by this section may be exercised only with respect to a c
 
 #### (d) Appropriations
 
-The authority provided by subsection (a) of this section may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
+The authority provided by subsection (a) may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
 
 (July 31, 1945, ch. 341, §14, formerly §11, as added Pub. L. 103–87, title V, §570(b), Sept. 30, 1993, 107 Stat. 970; renumbered §14, Pub. L. 103–428, §2(b), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 107–189, §24(b)(6), June 14, 2002, 116 Stat. 709.)
 

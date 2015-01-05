@@ -20,7 +20,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(C) the commissioned corps of the Public Health Service.
 
-&emsp;(6) The term "department", when used with respect to a military department, means the executive part of the department and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Secretary of the department. When used with respect to the Department of Defense, such term means the executive part of the department, including the executive parts of the military departments, and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Secretary of Defense, including those of the military departments.
+&emsp;(6) The term "department", when used with respect to a military department, means the executive part of the department and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Secretary of the department. When used with respect to the Department of Defense, such term means the executive part of the department, including the executive parts of the military departments, and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of theSecretary of Defense, including those of the military departments.
 
 &emsp;(7) The term "executive part of the department" means the executive part of the Department of Defense, Department of the Army, Department of the Navy, or Department of the Air Force, as the case may be, at the seat of government.
 
@@ -96,11 +96,11 @@ Personnel Generally.—The following definitions relating to military personnel 
 
 &emsp;(8) The term "rank" means the order of precedence among members of the armed forces.
 
-&emsp;(9) The term "rating" means the name (such as "boatswain's mate") prescribed for members of an armed force in an occupational field. The term "rate" means the name (such as "chief boatswain's mate") prescribed for members in the same rating or other category who are in the same grade (such as chief petty officer or seaman apprentice).
+&emsp;(9) The term "rating" means the name (such as "boatswain's mate") prescribed for members of an armed force in an occupational field. The term "rate" means the name (suchas "chief boatswain's mate") prescribed for members in the same rating or other category who are in the same grade (such as chief petty officer or seaman apprentice).
 
 &emsp;(10) The term "original", with respect to the appointment of a member of the armed forces in a regular or reserve component, refers to that member's most recent appointment in that component that is neither a promotion nor a demotion.
 
-&emsp;(11) The term "authorized strength" means the largest number of members authorized to be in an armed force, a component, a branch,a grade, or any other category of the armed forces.
+&emsp;(11) The term "authorized strength" means the largest number of members authorized to be in an armed force, a component, a branch, a grade, or any other category of the armed forces.
 
 &emsp;(12) The term "regular", with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office in a regular component of an armed force.
 
@@ -160,7 +160,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;(5) The term "full-time National Guard duty" means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of title 32 for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
-&emsp;(6)(A) The term "active Guard and Reserve duty" means active duty performed by a member of a reserve component of the Army, Navy, Air Force, or Marine Corps, or full-time National Guard duty performed by a member of the National Guard pursuant to an order to full-time National Guard duty, for a period of 180 consecutive days or more for the purpose of organizing, administering, recruiting, instructing, or training the reserve components.
+&emsp;(6)(A) The term "active Guard and Reserve duty" means active duty performed by a member of a reserve component of the Army, Navy, Air Force, or Marine Corps, or full-time National Guard duty performed by a member of the National Guard pursuant to an order to full-time National Guard duty, for a period of 180 consecutive days or more for the purpose oforganizing, administering, recruiting, instructing, or training the reserve components.
 
 &emsp;(B) Such term does not include the following:
 
@@ -262,7 +262,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L.102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub.L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795.)
 
 Historical and Revision Notes<br>1956
 
@@ -494,7 +494,7 @@ In clauses (11) and (13), only that much of the description of the composition o
 
 In clause (12)(A), the words "an air force" are substituted for the words "for which Federal responsibility has been vested in the Secretary of the Air Force or the Department of the Air Force pursuant to law", in 10:1835, and for 32:2 (as applicable to Air National Guard), to make the definition of "Air National Guard" parallel with the definition of "Army National Guard", and to make explicit the intent of Congress, in creating the Air National Guard, that the organized militia henceforth should consist of three mutually exhaustive classes comprising the Army, Air, and Naval militia.
 
-In clause (14), the definition of "officer" is based on the source statutes instead of 50:551(5), which excludes warrant officers. The reference to appointment in 10:1a(b) (2d sentence and 10:1801(b) (2d sentence), and the words "commissioned warrant officer", "flight officer", and "either permanent or temporary", in 37:231(c)\(1st sentence), are omitted as surplusage. 5:181–3(b) (1st sentence), 10:1a(b) (1st sentence), and 10:1801(b) (1st sentence) are omitted as covered by the definitions in clauses (14) and (16) of the revised section and by section 3062(c) and section 8062(d) of this title.
+In clause (14), the definition of "officer" is based on the source statutes instead of 50:551(5), which excludes warrant officers. The reference to appointment in 10:1a(b) (2d sentence and 10:1801(b) (2d sentence), and the words "commissioned warrant officer", "flight officer", and "either permanent or temporary", in 37:231(c) (1st sentence), are omitted as surplusage. 5:181–3(b) (1st sentence), 10:1a(b) (1st sentence), and 10:1801(b) (1st sentence) are omitted as covered by the definitions in clauses (14) and (16) of the revised section and by section 3062(c) and section 8062(d) of this title.
 
 In clause (16), the words "unless otherwise qualified", "permanent or temporary", and "in the Army, Navy, Air Force, Marine Corps, or Coast Guard, including any component thereof" are omitted as surplusage. The word "person" is substituted for the word "officer".
 
@@ -762,11 +762,13 @@ Authority vested by this title in "military departments", "the Secretary concern
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
 
+Pub. L. 113–291, div. A, title X, §1071(k), Dec. 19, 2014, 128 Stat. 3512, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.
+
 Pub. L. 113–66, div. A, title X, §1091(f), Dec. 26, 2013, 127 Stat. 877, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act."
 
 Pub. L. 112–239, div. A, title X, §1076(m), Jan. 2, 2013, 126 Stat. 1956, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act."
 
-Pub. L. 109–364, div. A, title X, §1071(i), Oct. 17, 2006, 120 Stat. 2403, provided that: "For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
+Pub. L. 109–364, div. A, title X, §1071(i), Oct. 17, 2006, 120 Stat. 2403, provided that: "For purposes of applyingamendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
 
 Pub. L. 107–107, div. A, title X, §1048(j), Dec. 28, 2001, 115 Stat. 1230, provided that: "For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
 
@@ -774,7 +776,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(h)\], Oct. 30, 2000, 114 St
 
 Pub. L. 106–65, div. A, title X, §1066(e), Oct. 5, 1999, 113 Stat. 773, provided that: "For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
 
-Pub. L. 105–261, div. A, title X, §1069(e), Oct. 17, 1998, 112 Stat. 2137, provided that: "For purposes of applying amendments made by provisions of this Act other thanprovisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
+Pub. L. 105–261, div. A, title X, §1069(e), Oct. 17, 1998, 112 Stat. 2137, provided that: "For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
 
 Pub. L. 105–85, div. A, title X, §1073(i), Nov. 18, 1997, 111 Stat. 1907, provided that: "For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
 
@@ -791,6 +793,8 @@ Pub. L. 102–484, div. A, title X, §1055, Oct. 23, 1992, 106 Stat. 2503, provi
 #### Congressional Defense Committees Defined
 
 The following provisions provided that the term "congressional defense committees" for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 113–291, §3, Dec. 19, 2014, 128 Stat. 3312.
 
 Pub. L. 113–66, §3, Dec. 26, 2013, 127 Stat. 689.
 

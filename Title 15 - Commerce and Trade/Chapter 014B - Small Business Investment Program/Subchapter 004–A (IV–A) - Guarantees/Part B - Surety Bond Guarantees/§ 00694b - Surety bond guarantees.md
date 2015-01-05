@@ -48,7 +48,7 @@ Any guarantee or agreement to indemnify under this section shall obligate the Ad
 
 &emsp;&emsp;(A) the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
 
-&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
+&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individualsas defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
 
 &emsp;(4) determined pursuant to subsection (b) of this section, if applicable.
 
@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 112–239, §1695(b)(1), added subsec. (e) and struck out f
 
 Subsec. (j). Pub. L. 112–239, §1695(b)(2), added subsec. (j).
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting "$5,000,000" for "$2,000,000", and adding subpar. (B) which read as follows: "The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that sucha guarantee is necessary." See Termination Date of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting "$5,000,000" for "$2,000,000", and adding subpar. (B) which read as follows: "The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary." See Termination Date of 2009 Amendment note below.
 
 Subsec. (e). Pub. L. 111–5, §508(b)(1), (f), temporarily added subsec. (e), the text of which read as follows:
 
@@ -126,7 +126,7 @@ Subsec. (e). Pub. L. 111–5, §508(b)(1), (f), temporarily added subsec. (e), t
 
 > See Termination Date of 2009 Amendment note below.
 
-Subsec. (k). Pub. L. 111–5, §508(b)(2), (f), temporarily added subsec. (k) which read as follows: "For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guaranty application." See Termination Date of 2009 Amendment note below.
+Subsec. (k). Pub. L. 111–5, §508(b)(2), (f), temporarily added subsec. (k) which read as follows: "For bondsmade or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guaranty application." See Termination Date of 2009 Amendment note below.
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–447, §203(a), substituted "total work order or contract amount at the time of bond execution that does not exceed" for "contract up to".
 
@@ -194,7 +194,7 @@ Pub. L. 100–590, title II, §205, Nov. 3, 1988, 102 Stat. 3009, provided that:
 
 #### Small Business Access to Surety Bonding Survey
 
-Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
+Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was tocontain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 #### Evaluation of Preferred Surety Bond Guarantee Program; Report
 

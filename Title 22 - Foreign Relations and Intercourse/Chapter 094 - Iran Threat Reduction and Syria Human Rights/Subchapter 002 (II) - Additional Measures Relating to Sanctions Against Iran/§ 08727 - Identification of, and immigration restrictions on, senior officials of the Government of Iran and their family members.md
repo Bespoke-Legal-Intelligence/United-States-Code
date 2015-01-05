@@ -2,7 +2,7 @@
 
 #### (a) Identification
 
-Not later than 180 days after August 10, 2012, and annually thereafter, the President shallpublish a list of each individual the President determines is—
+Not later than 180 days after August 10, 2012, and annually thereafter, the President shall publish a list of each individual the President determines is—
 
 &emsp;(1) a senior official of the Government of Iran described in subsection (b) that is involved in Iran's—
 

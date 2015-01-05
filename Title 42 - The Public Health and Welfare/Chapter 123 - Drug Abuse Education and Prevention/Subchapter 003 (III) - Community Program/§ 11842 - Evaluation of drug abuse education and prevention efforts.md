@@ -10,7 +10,7 @@ The Secretary of Health and Human Services may make grants to or enter into cont
 
 #### (c) Time of reports
 
-The Secretary shall submit a report based on the evaluations prepared under subsection (a) of this section not later than 1 year after November 18, 1988, and another report based on such evaluations not later than 3 years after November 18, 1988. A third report based on such evaluations shall be submitted by the Secretary not later than January 1, 1994.
+The Secretary shall submit a report based on the evaluations prepared under subsection (a) ofthis section not later than 1 year after November 18, 1988, and another report based on such evaluations not later than 3 years after November 18, 1988. A third report based on such evaluations shall be submitted by the Secretary not later than January 1, 1994.
 
 #### (d) Authorization of appropriations
 

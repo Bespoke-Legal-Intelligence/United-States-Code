@@ -36,7 +36,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 #### (1) In general
 
-&emsp;The Commission shall establish criteria for making recommendations under subsection (a) of this section.
+&emsp;The Commission shall establish criteria for making recommendations under subsection (a).
 
 #### (2) Issuance of proposed criteria
 
@@ -58,7 +58,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;No later than 9 months after March 22, 1995, the Commission shall—
 
-&emsp;&emsp;(A) prepare and publish a preliminary report on its activities under this subchapter, including preliminary recommendations pursuant to subsection (a) of this section;
+&emsp;&emsp;(A) prepare and publish a preliminary report on its activities under this subchapter, including preliminary recommendations pursuant to subsection (a);
 
 &emsp;&emsp;(B) publish in the Federal Register a notice of availability of the preliminary report; and
 
@@ -70,15 +70,15 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 #### (d) Final report
 
-No later than 3 months after the date of the publication of the preliminary report under subsection (c) of this section, the Commission shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on the Budget of the Senate, and the Committee on the Budget of the House of Representatives, and to the President a final report on the findings, conclusions, and recommendations of the Commission under this section.
+No later than 3 months after the date of the publication of the preliminary report under subsection (c), the Commission shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on the Budget of the Senate, and the Committee on the Budget of the House of Representatives, and to the President a final report on the findings, conclusions, and recommendations of the Commission under this section.
 
 #### (e) Priority to mandates that are subject of judicial proceedings
 
 In carrying out this section, the Advisory Commission shall give the highest priority to immediately investigating, reviewing, and making recommendations regarding Federal mandates that are the subject of judicial proceedings between the United States and a State, local, or tribal government.
 
-#### (f) “State mandate” defined
+#### (f) "State mandate" defined
 
-For purposes of this section the term “State mandate” means any provision in a State statute or regulation that imposes an enforceable duty on local governments, the private sector, or individuals, including a condition of State assistance or a duty arising from participation in a voluntary State program.
+For purposes of this section the term "State mandate" means any provision in a State statute or regulation that imposes an enforceable duty on local governments, the private sector, or individuals, including a condition of State assistance or a duty arising from participation in a voluntary State program.
 
 (Pub. L. 104–4, title III, §302, Mar. 22, 1995, 109 Stat. 67.)
 

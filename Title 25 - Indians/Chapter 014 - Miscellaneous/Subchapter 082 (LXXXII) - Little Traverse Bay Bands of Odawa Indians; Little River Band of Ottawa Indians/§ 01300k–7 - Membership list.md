@@ -2,7 +2,7 @@
 
 #### (a) List of present membership
 
-Not later than 120 days after September 21, 1994, the Bands shall submit to the Secretary alist of all individuals who, as of September 21, 1994, were members of the respective Bands.
+Not later than 120 days after September 21, 1994, the Bands shall submit to the Secretary a list of all individuals who, as of September 21, 1994, were members of the respective Bands.
 
 #### (b) List of individuals eligible for membership
 

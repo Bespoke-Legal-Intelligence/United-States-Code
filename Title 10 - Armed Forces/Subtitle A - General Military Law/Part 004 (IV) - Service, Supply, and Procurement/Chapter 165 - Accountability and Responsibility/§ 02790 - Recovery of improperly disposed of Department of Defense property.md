@@ -46,7 +46,7 @@ Scope of Enforcement.—This section shall apply to the following:
 
 &emsp;(1) Any military or Department of Defense property disposed of after January 6, 2011, in a manner that is not in accordance with statutes and regulations governing Government property in effect at the time of the disposal of such property.
 
-&emsp;(2) Any significant military equipment disposed of on or after January 1, 2002, in a manner that is not in accordance with statutesand regulations governing Government property in effect at the time of the disposal of such significant military equipment.
+&emsp;(2) Any significant military equipment disposed of on or after January 1, 2002, in a manner that is not in accordance with statutes and regulations governing Government property in effect at the time of the disposal of such significant military equipment.
 
 (h)
 

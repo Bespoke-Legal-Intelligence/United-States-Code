@@ -12,7 +12,7 @@ The Secretary shall establish the cabin user fee as the amount that is equal to 
 
 #### (b) Fee for caretaker cabin
 
-The base cabin user fee for a lot on which a caretaker cabin is located shall not be greaterthan the base cabin user fee charged for the authorized use of a similar typical lot in the tract.
+The base cabin user fee for a lot on which a caretaker cabin is located shall not be greater than the base cabin user fee charged for the authorized use of a similar typical lot in the tract.
 
 #### (c) Annual cabin user fee in the event of determination not to reissue authorization
 
@@ -35,4 +35,8 @@ If a review of a decision to convert a lot to an alternative public use indicate
 On a determination by the agency that, because of an act of God or a catastrophic event, a lot cannot be safely occupied and the authorization for the lot should accordingly be terminated, the fee obligation of the cabin owner shall terminate effective on the date of the occurrence of the act or event.
 
 (Pub. L. 106–291, title VI, §607, Oct. 11, 2000, 114 Stat. 1018.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–291, div. B, title XXX, §3024(k), Dec. 19, 2014, 128 Stat. 3766, provided that, effective on the date of the assessment of annual permit fees in accordance with section 6214(f) of this title (as certified to Congress by the Secretary of Agriculture), this section is repealed.</i>
 

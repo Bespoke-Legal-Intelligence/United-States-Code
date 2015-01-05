@@ -20,7 +20,7 @@ Other Transportation.—In prescribing prices under subsection (b) of this secti
 
 (d)
 
-Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, theSecretary shall consider, among other factors, the following:
+Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
 
 &emsp;(1) the condition that the carrier may hold and operate under a certificate authorizing the transportation of mail only by providing necessary and adequate facilities and service for the transportation of mail.
 
@@ -130,7 +130,7 @@ In subsections (c), (d), and (f), reference to service provided by the Postal Se
 
 In subsection (c), the words "In prescribing prices under subsection (b) of this section, the Secretary" are added for clarity.
 
-In subsection (d), the text of 49 App.:1376(b) (2d sentence words after 2d semicolon, 5th–7th sentences) and\(d) is omitted as obsolete because under 49 App.:1376(c) and 1376a, payments by the Board under 49 App.:1376 were terminated. The text of 49 App.:1376(b) (3d, 4th sentences) is omitted as obsolete because it applies only to rates paid for service performed between October 24, 1978, and January 1, 1983. The text of 49 App.:1376(b) (last sentence) is omitted as executed.
+In subsection (d), the text of 49 App.:1376(b) (2d sentence words after 2d semicolon, 5th–7th sentences) and (d) is omitted as obsolete because under 49 App.:1376(c) and 1376a, payments by the Board under 49 App.:1376 were terminated. The text of 49 App.:1376(b) (3d, 4th sentences) is omitted as obsolete because it applies only to rates paid for service performed between October 24, 1978, and January 1, 1983. The text of 49 App.:1376(b) (last sentence) is omitted as executed.
 
 Subsection (g) is substituted for 49 App.:1551(b)(3) and 1553(c) because the date on which the authority of the Secretary of Transportation to provide for the transportation of mail by aircraft expires is set out in 39:5402(f). The source provisions of 49 App.:1551(b)(3) providing for the transfer of that authority from the Secretary to the Postal Service are restated in section 5(k) of this bill.
 
@@ -156,7 +156,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(8); added Oct. 4, 1984,
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984, Pub. L. 98–443, §3(f), 98 Stat. 1704; Sept. 30, 1988, Pub. L. 100–457, §346 (related to §1601(b)(3) of Federal Aviation Act of 1958), 102 Stat. 2155.
 
-Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(l) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
+Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(l) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authorityfor prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
 
 #### Amendments
 

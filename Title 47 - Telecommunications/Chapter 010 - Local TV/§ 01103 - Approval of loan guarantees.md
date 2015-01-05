@@ -30,7 +30,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 &emsp;(A) Nothing in this chapter shall be construed to prohibit the Board from requiring, to the extent and under circumstances considered appropriate by the Board, that affiliates of an applicant be subject to certain obligations of the applicant as a condition to the approval or maintenance of a loan guarantee under this chapter.
 
-&emsp;(B) If any provision of this chapter or the application of such provision to any person orentity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
+&emsp;(B) If any provision of this chapter or the application of such provision to any person or entity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
 
 #### (c) Authority limited by appropriations acts
 
@@ -58,7 +58,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;&emsp;&emsp;(aa) if the loan is made in accordance with loan-to-one-borrower and affiliate transaction restrictions to which the entity is subject under applicable law; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) if item (aa) does not apply, the loan is made only to a borrower that is not an affiliate of the entity and only if the amount of the loan and all outstanding loans by that entity to that borrower and any of its affiliates does not exceed 10 percent of the net equity of the entity; or
+&emsp;&emsp;&emsp;&emsp;(bb) if item (aa) does not apply, the loan is made only to a borrower that is not an affiliate of the entity and only if the amount of the loan and all outstanding loans by that entity to that borrower and any of its affiliates does not exceed10 percent of the net equity of the entity; or
 
 &emsp;&emsp;&emsp;(II) is provided by a nonprofit corporation, including the National Rural Utilities Cooperative Finance Corporation, engaged primarily in commercial lending, if the Board determines that such nonprofit corporation has one or more issues of outstanding long-term debt that is rated within the highest 3 rating categories of a nationally recognized statistical rating organization;
 
@@ -90,7 +90,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;&emsp;(ii) the terms, conditions, security, and schedule and amount of repayments of principal and the payment of interest with respect to the loan protect the financial interests of the United States and are reasonable;
 
-&emsp;&emsp;&emsp;(iii) the value of collateral provided by an applicant is at least equal to the unpaidbalance of the loan amount covered by the loan guarantee (the "Amount" for purposes of this clause); and if the value of collateral provided by an applicant is less than the Amount, the additional required collateral is provided by any affiliate of the applicant;
+&emsp;&emsp;&emsp;(iii) the value of collateral provided by an applicant is at least equal to the unpaid balance of the loan amount covered by the loan guarantee (the "Amount" for purposes of this clause); and if the value of collateral provided by an applicant is less than the Amount, the additional required collateral is provided by any affiliate of the applicant;
 
 &emsp;&emsp;&emsp;(iv) all necessary and required regulatory and other approvals, spectrum licenses, and delivery permissions have been received for the loan and the project under the loan;
 
@@ -168,7 +168,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (A) In general
 
-&emsp;&emsp;The Board shall determine the amount of any credit risk premium to be accepted withrespect to a loan guarantee under this chapter on the basis of—
+&emsp;&emsp;The Board shall determine the amount of any credit risk premium to be accepted with respect to a loan guarantee under this chapter on the basis of—
 
 &emsp;&emsp;&emsp;(i) the financial and economic circumstances of the applicant for the loan guarantee, including the amount of collateral offered;
 
@@ -194,7 +194,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (i) Limitations on guarantees for certain cable operators
 
-Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
+Notwithstanding any other provision of this chapter, no loan guarantee under this chaptermay be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
 
 #### (j) Judicial review
 

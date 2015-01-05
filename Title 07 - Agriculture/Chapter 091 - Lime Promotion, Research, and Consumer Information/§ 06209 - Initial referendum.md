@@ -10,7 +10,7 @@ Not later than 30 months after the date on which the collection of assessments b
 
 #### (b) Purpose of referendum
 
-The referendum referred to in subsection (a) of this section is for the purpose of determining whether the issuance of the order is approved or favored by not less than a majority of the producers, producer-handlers, and importers voting in the referendum. The order shall continue in effect only with such a majority.
+The referendum referred to in subsection (a) is for the purpose of determining whether the issuance of the order is approved or favored by not less than a majority of the producers, producer-handlers, and importers voting in the referendum. The order shall continue in effect only with such a majority.
 
 #### (c) Confidentiality
 
@@ -24,7 +24,7 @@ The ballots and other information or reports that reveal, or tend to reveal, the
 
 #### (2) Approval of order
 
-&emsp;If the order is approved by a majority of the producers, producer-handlers, and importers voting in the initial referendum under subsection (a) of this section, the funds in the escrow account shall be released to be used for the purposes of this chapter.
+&emsp;If the order is approved by a majority of the producers, producer-handlers, and importers voting in the initial referendum under subsection (a), the funds in the escrow account shall be released to be used for the purposes of this chapter.
 
 #### (3) Disapproval of order
 
@@ -34,7 +34,7 @@ The ballots and other information or reports that reveal, or tend to reveal, the
 
 &emsp;&emsp;&emsp;(i) the amount in the escrow account required by paragraph (1) is not sufficient to refund the total amount of assessments demanded by producers, producer-handlers, or importers; and
 
-&emsp;&emsp;&emsp;(ii) the plan is not approved pursuant to the referendum conducted under subsection (a) of this section;
+&emsp;&emsp;&emsp;(ii) the plan is not approved pursuant to the referendum conducted under subsection (a);
 
 > &emsp;&emsp;the Board shall prorate the amount of such refunds among all eligible producers, producer-handlers, or importers who demand such refund.
 

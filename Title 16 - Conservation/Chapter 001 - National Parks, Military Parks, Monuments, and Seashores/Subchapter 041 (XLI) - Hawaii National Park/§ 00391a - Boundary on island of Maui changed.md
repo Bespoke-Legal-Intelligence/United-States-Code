@@ -18,7 +18,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 7\. Thence along Government land and following along rim of the crater and crest of wall of Kaupo Gap to a four inch by four inch redwood post, the direct azimuth and distance being three hundred and fifty-six degrees forty-one minutes ten thousand eight hundred and sixty-seven and nine-tenths feet.
 
-8\. Eighty-six degrees one minute thirty seconds six thousand seven hundred and seventy-seven and four-tenths feet along grant 3457, lot 1, to A. V. Marciel, and the remaining portion of the land of Nuu (R. P. 8049, L. C. A. 6239 Apana 2 to Kalaimoku), passing over a cross on stone at Kauhaokamoa at three thousand four hundred and forty-one and eight-tenths feet and passing over an iron pipe on the west edge of theKoolau Gap at five thousand eight hundred and seventy-four feet.
+8\. Eighty-six degrees one minute thirty seconds six thousand seven hundred and seventy-seven and four-tenths feet along grant 3457, lot 1, to A. V. Marciel, and the remaining portion of the land of Nuu (R. P. 8049, L. C. A. 6239 Apana 2 to Kalaimoku), passing over a cross on stone at Kauhaokamoa at three thousand four hundred and forty-one and eight-tenths feet and passing over an iron pipe on the west edge of the Koolau Gap at five thousand eight hundred and seventy-four feet.
 
 9\. One hundred and thirty-eight degrees forty-two minutes thirty seconds nine thousand five hundred and seventy-four and two-tenths feet along the remaining portion of said land of Nuu to a cross on rock, the true azimuth and distance to Government survey triangulation station Haleakala 2 being one hundred and seventy-nine degrees thirteen minutes fifteen seconds nine hundred and forty-three and two-tenths feet.
 

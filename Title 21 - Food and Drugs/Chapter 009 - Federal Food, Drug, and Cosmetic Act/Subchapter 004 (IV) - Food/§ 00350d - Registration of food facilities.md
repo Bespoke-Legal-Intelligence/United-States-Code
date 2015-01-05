@@ -170,7 +170,7 @@ Limitation.—The exemptions or modifications under clause (i) shall not include
 
 Final regulations.—Not later than 9 months after the close of the comment period for the proposed rulemaking under paragraph (1), the Secretary shall adopt final rules with respect to—
 
-&emsp;"(A) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumedon such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act;
+&emsp;"(A) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act;
 
 &emsp;"(B) activities that constitute on-farm manufacturing or processing of food that is not consumed on that farm or on another farm under common ownership for purposes of such section 415; and
 

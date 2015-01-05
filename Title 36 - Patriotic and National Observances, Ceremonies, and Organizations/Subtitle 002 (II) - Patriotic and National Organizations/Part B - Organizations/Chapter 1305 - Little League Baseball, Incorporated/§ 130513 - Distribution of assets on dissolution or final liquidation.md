@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 16, 1964, Pub. L. 88–378, §15, 78 Stat. 328.
 
-The words "dissolution or final liquidation" are substituted for "final dissolution or liquidation" for consistency in the revised title. The word "satisfaction" is omitted as included in "discharge", and the word "obligations" is omitted as included in "liabilities". The words "outstanding" and "and all Federal and State laws applicable thereto" are omitted as unnecessary.
+The words "dissolution or final liquidation" are substituted for "final dissolution or liquidation" for consistency in the revised title. The word "satisfaction" isomitted as included in "discharge", and the word "obligations" is omitted as included in "liabilities". The words "outstanding" and "and all Federal and State laws applicable thereto" are omitted as unnecessary.
 

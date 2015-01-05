@@ -10,7 +10,7 @@ The Secretary or a designee of the Secretary shall have the authority to—
 
 #### (b) Litigation
 
-Nothing contained in this section shall be construed to diminish the authority of the Attorney General of the United States under section 516 oftitle 28 to conduct litigation on behalf of the United States.
+Nothing contained in this section shall be construed to diminish the authority of the Attorney General of the United States under section 516 of title 28 to conduct litigation on behalf of the United States.
 
 (Pub. L. 98–8, title II, §215, as added Pub. L. 102–237, title IX, §922(b), Dec. 13, 1991, 105 Stat. 1888.)
 

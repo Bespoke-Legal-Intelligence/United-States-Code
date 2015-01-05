@@ -2,7 +2,7 @@
 
 #### (a) Determination of amount
 
-The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office,from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
+The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
 
 #### (b) Conditions
 
@@ -110,7 +110,7 @@ Pub. L. 101–239, title VI, §6021(b), Dec. 19, 1989, 103 Stat. 2167, provided 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–509, title IX, §9311(a)(2), Oct. 21, 1986, 100 Stat. 1997, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to claims received on or after July 1, 1987."
+Pub. L. 99–509, title IX, §9311(a)(2), Oct. 21, 1986, 100 Stat. 1997, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to claims received on or after July 1, 1987."
 
 #### Effective Date of 1982 Amendment
 

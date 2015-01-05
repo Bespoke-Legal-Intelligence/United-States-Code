@@ -18,7 +18,7 @@ Any sums appropriated pursuant to subsection (b) of this section for any fiscal 
 
 #### Prior Provisions
 
-A prior section 1087aa, Pub. L. 89–329, title IV, §461, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86Stat. 273; amended Pub. L. 94–482, title I, §130(a), (b), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–49, §5(d)(1), (2), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §441, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503, authorized a program to establish and maintain funds at institutions of higher education for making low-interest loans to students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087aa, Pub. L. 89–329, title IV, §461, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 94–482, title I, §130(a), (b), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–49, §5(d)(1), (2), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §441, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503, authorized a program to establish and maintain funds at institutions of higher education for making low-interest loans to students, prior to the general revision of this part by Pub. L. 99–498.
 
 Another prior section 461 of Pub. L. 89–329 amended former section 403 of this title.
 

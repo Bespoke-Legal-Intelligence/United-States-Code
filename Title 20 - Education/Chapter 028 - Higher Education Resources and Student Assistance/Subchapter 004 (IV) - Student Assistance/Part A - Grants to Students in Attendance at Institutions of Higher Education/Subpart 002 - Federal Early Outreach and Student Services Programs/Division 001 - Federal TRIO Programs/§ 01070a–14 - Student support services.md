@@ -52,7 +52,7 @@ A project assisted under this section may provide services such as—
 
 &emsp;&emsp;(B) students who are in foster care or are aging out of the foster care system; and
 
-&emsp;(6) programs and activities as described in subsection (b) or paragraphs (1) through (4) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+&emsp;(6) programs and activities as described in subsection (b) or paragraphs (1) through (4) ofthis subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
 
 #### (d) Special rule
 
@@ -86,7 +86,7 @@ A project assisted under this section may provide services such as—
 
 #### (6) Supplement, not supplant
 
-&emsp;Funds received by a grant recipient that are used under this subsection shall be used tosupplement, and not supplant, non-Federal funds expended for student support services programs.
+&emsp;Funds received by a grant recipient that are used under this subsection shall be used to supplement, and not supplant, non-Federal funds expended for student support services programs.
 
 #### (e) Requirements for approval of applications
 
@@ -116,7 +116,7 @@ In approving applications for projects under this section for any fiscal year, t
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(1). Pub. L. 111–152 substituted "exceed the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student is eligible, or be less than the minimum Federal Pell Grant amount described in section 1070a(b)(4) of this title, for" for "exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for".
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–152 substituted "exceed the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student is eligible, or be less than the minimum Federal Pell Grant amount described in section 1070a(b)(4) of thistitle, for" for "exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for".
 
 <b>2008</b>—Subsec. (a)(3), (4). Pub. L. 110–315, §403(d)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: "to foster an institutional climate supportive of the success of low-income and first generation college students and individuals with disabilities."
 

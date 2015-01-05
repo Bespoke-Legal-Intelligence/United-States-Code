@@ -26,7 +26,7 @@ This subchapter, referred to in text, was in the original "this Act", meaning Pu
 
 #### Amendments
 
-<b>2010</b>—Pars. (2) to (5). Pub. L. 111–320 redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The term 'acquired immune deficiency syndrome' includes infection with the etiologic agent for such syndrome, any condition indicating that an individual is infected with such etiologic agent, and any condition arising from such etiologic agent."
+<b>2010</b>—Pars. (2) to (5). Pub. L. 111–320 redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The term 'acquired immune deficiency syndrome' includes infection with the etiologicagent for such syndrome, any condition indicating that an individual is infected with such etiologic agent, and any condition arising from such etiologic agent."
 
 <b>2003</b>—Pub. L. 108–36 amended section generally. Prior to amendment, section defined "acquired immune deficiency syndrome" and "Secretary".
 

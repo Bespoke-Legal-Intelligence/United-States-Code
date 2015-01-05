@@ -82,7 +82,7 @@ Functions of Secretary of the Interior, Department of the Interior, and officers
 
 #### distribution of authorities under atomic energy act of 1954
 
-The legislative history of Pub. L. 93–438 (which is classified principally to this chapter) was comprised in part by Senate Report No. 93–980 and House Report No. 93–707. Senate Report No. 93–980 (similar provisions appear in House Report No. 93–707) contained the following analysis showing the distribution by Pub. L. 93–438 of separately and jointly applicable authorities under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.):
+The legislative history of Pub. L. 93–438 (which is classified principally to this chapter) was comprised inpart by Senate Report No. 93–980 and House Report No. 93–707. Senate Report No. 93–980 (similar provisions appear in House Report No. 93–707) contained the following analysis showing the distribution by Pub. L. 93–438 of separately and jointly applicable authorities under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.):
 
 #### <i>I. The following provisions of the Atomic Energy Act of 1954, as heretofore amended, apply only to ERDA \[Energy Research and Development Administration\]</i>
 

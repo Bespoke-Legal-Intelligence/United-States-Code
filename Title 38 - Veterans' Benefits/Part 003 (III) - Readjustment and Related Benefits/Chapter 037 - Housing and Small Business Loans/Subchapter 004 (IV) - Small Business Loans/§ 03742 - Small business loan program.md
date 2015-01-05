@@ -1,6 +1,6 @@
 ### §3742. Small business loan program
 
-(a)(1) Subject to subsection (b) of this section, the Secretary may provide financial assistanceto veterans' small business concerns for the purpose of (A) financing plant construction, conversion, or expansion (including the acquisition of land), (B) financing the acquisition of equipment, facilities, machinery, supplies, or materials, or (C) supplying such concerns with working capital.
+(a)(1) Subject to subsection (b) of this section, the Secretary may provide financial assistance to veterans' small business concerns for the purpose of (A) financing plant construction, conversion, or expansion (including the acquisition of land), (B) financing the acquisition of equipment, facilities, machinery, supplies, or materials, or (C) supplying such concerns with working capital.
 
 (2) Subject to paragraph (3)(A) of this subsection, financial assistance under this section may be provided in the form of (A) loan guaranties, or (B) direct loans.
 
@@ -46,7 +46,7 @@
 
 &emsp;(iii) by a combination of the method of payments described in clauses (i) and (ii) of this subparagraph.
 
-(B) In addition to requiring the small business concern to execute the agreement described insubparagraph (A) of this paragraph, the Secretary shall, before the undertaking or suspension of the obligation, take such action and require the small business concern to take such action as the Secretary considers appropriate in the circumstances, including the provision of such security as the Secretary considers necessary or appropriate, to assure that the rights and interest of the United States and any lender will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
+(B) In addition to requiring the small business concern to execute the agreement described in subparagraph (A) of this paragraph, the Secretary shall, before the undertaking or suspension of the obligation, take such action and require the small business concern to take such action as the Secretary considers appropriate in the circumstances, including the provision of such security as the Secretary considers necessary or appropriate, to assure that the rights and interest of the United States and any lender will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
 
 (Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1055, §1842; amended Pub. L. 99–576, title VII, §702(10), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3742 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404, 406.)
 

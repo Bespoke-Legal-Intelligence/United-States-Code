@@ -272,6 +272,70 @@ Pub. L. 105–261, div. A, title X, §1007(e)(2), Oct. 17, 1998, 112 Stat. 2115,
 
 Pub. L. 98–94, title XII, §1204(b), Sept. 24, 1983, 97 Stat. 683, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984."
 
+#### Pilot Program for Acquisition of Commercial Satellite Communication Services
+
+Pub. L. 113–291, div. A, title XVI, §1605, Dec. 19, 2014, 128 Stat. 3623, provided that:
+
+"(a)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may develop and carry out a pilot program to determine the feasibility and advisability of expanding the use of working capital funds by the Secretary to effectively and efficiently acquire commercial satellite communications services to meet the requirements of the military departments, Defense Agencies, and combatant commanders.
+
+&emsp;"(2)
+
+Funding.—Of the funds authorized to be appropriated for any of fiscal years 2015 through 2020 for the Department of Defense for the acquisition of satellite communications, not more than $50,000,000 may be obligated or expended for such pilot program during such a fiscal year.
+
+&emsp;"(3)
+
+Certain authorities.—In carrying out the pilot program under paragraph (1), the Secretary may not use the authorities provided in sections 2208(k) and 2210(b) of title 10, United States Code.
+
+"(b)
+
+Goals.—In developing and carrying out the pilot program under subsection (a)(1), the Secretary shall ensure that the pilot program—
+
+&emsp;"(1) provides a cost-effective and strategic method to acquire commercial satellite communications services;
+
+&emsp;"(2) incentivizes private-sector participation and investment in technologies to meet future requirements of the Department of Defense with respect to commercial satellite communications services;
+
+&emsp;"(3) takes into account the potential for a surge or other change in the demand of the Department for commercial satellite communications services in response to global or regional events; and
+
+&emsp;"(4) ensures the ability of the Secretary to control and account for the cost of programs and work performed under the pilot program.
+
+"(c)
+
+Duration.—The pilot program under subsection (a)(1) shall terminate on October 1, 2020.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+
+&emsp;&emsp;"(A) a plan and schedule to carry out the pilot program under subsection (a)(1); or
+
+&emsp;&emsp;"(B) if the Secretary finds that carrying out the pilot program authorized under subsection (a)(1) is not an appropriate method to effectively and efficiently acquire commercial satellite communications services, a description of how the Secretary will achieve the goals described in subsection (b) without carrying out such pilot program.
+
+&emsp;"(2)
+
+Final report.—Not later than December 1, 2020, the Secretary shall submit to the congressional defense committees a report on the pilot program under subsection (a)(1). The report shall include—
+
+&emsp;&emsp;"(A) an assessment of expanding the use of working capital funds to effectively and efficiently acquire commercial satellite communications services to meet the requirements of the military departments, Defense Agencies, and combatant commanders; and
+
+&emsp;&emsp;"(B) a description of—
+
+&emsp;&emsp;&emsp;"(i) any contract entered into under the pilot program, the funding used under such contract, and the efficiencies realized under such contract;
+
+&emsp;&emsp;&emsp;"(ii) the advantages and challenges of using working capital funds as described in subparagraph (A);
+
+&emsp;&emsp;&emsp;"(iii) any additional authorities the Secretary determines necessary to acquire commercial satellite communications services as described in subsection (a)(1); and
+
+&emsp;&emsp;&emsp;"(iv) any recommendations of the Secretary with respect to improving or extending the pilot program."
+
 #### Advance Billing for Fiscal Year 2006
 
 Pub. L. 109–234, title I, §1206, June 15, 2006, 120 Stat. 430, provided in part that: "Notwithstanding 10 U.S.C. 2208(l), the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in fiscal year 2006 shall not exceed $1,200,000,000".
@@ -296,7 +360,7 @@ Pub. L. 102–484, div. A, title III, §342, Oct. 23, 1992, 106 Stat. 2376, as a
 
 #### Limitations on Use of Defense Business Operations Fund
 
-Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, §341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, §311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progressreport on plan's implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
+Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, §341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, §311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan's implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
 
 #### Defense Business Operations Fund
 

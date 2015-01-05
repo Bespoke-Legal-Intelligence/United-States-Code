@@ -16,10 +16,14 @@
 | \[1862. | Repealed.\] |
 | [1863\.](%C2%A7%2001863%20-%20Trespass%20on%20national%20forest%20lands.md) | Trespass on national forest lands. |
 | [1864\.](%C2%A7%2001864%20-%20Hazardous%20or%20injurious%20devices%20on%20Federal%20lands.md) | Hazardous or injurious devices on Federal lands. |
+| [1865\.](%C2%A7%2001865%20-%20National%20Park%20Service.md) | National Park Service. |
+| [1866\.](%C2%A7%2001866%20-%20Historic%2C%20archeologic%2C%20or%20prehistoric%20items%20and%20antiquities.md) | Historic, archeologic, or prehistoric items and antiquities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–287, §4(a)(2), Dec. 19, 2014, 128 Stat. 3261, added items 1865 and 1866.
 
 <b>1990</b>—Pub. L. 101–647, title XXXV, §3554, Nov. 29, 1990, 104 Stat. 4927, struck out item 1862 "Trespass on Bull Run National Forest".
 
@@ -46,3 +50,5 @@
 - [&sect; 01862 - Repealed. Pub. L. 95&#8211;200, &sect;3(c), Nov. 23, 1977, 91 Stat. 1428](%C2%A7%2001862%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93200%2C%20%C2%A73%28c%29%2C%20Nov.%2023%2C%201977%2C%2091%20Stat.%201428.md)
 - [&sect; 01863 - Trespass on national forest lands](%C2%A7%2001863%20-%20Trespass%20on%20national%20forest%20lands.md)
 - [&sect; 01864 - Hazardous or injurious devices on Federal lands](%C2%A7%2001864%20-%20Hazardous%20or%20injurious%20devices%20on%20Federal%20lands.md)
+- [&sect; 01865 - National Park Service](%C2%A7%2001865%20-%20National%20Park%20Service.md)
+- [&sect; 01866 - Historic, archeologic, or prehistoric items and antiquities](%C2%A7%2001866%20-%20Historic%2C%20archeologic%2C%20or%20prehistoric%20items%20and%20antiquities.md)

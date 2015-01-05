@@ -42,7 +42,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) in connection with which there is a repayment or water service contract executed by the United States under Federal reclamation law; or
 
-&emsp;&emsp;(C) an improvement to water infrastructure directly associated with a reclamation project that, based on a determination of the Secretary—
+&emsp;&emsp;(C) an improvement to water infrastructure directly associated with a reclamationproject that, based on a determination of the Secretary—
 
 &emsp;&emsp;&emsp;(i) improves water management; and
 

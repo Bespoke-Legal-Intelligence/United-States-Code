@@ -8,7 +8,7 @@
 
 #### (2) On the management
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any organization manager in the excess benefit transaction, knowing that it is such a transaction, a tax equal to 10 percent of the excess benefit, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who participated in the excess benefit transaction.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on theparticipation of any organization manager in the excess benefit transaction, knowing that it is such a transaction, a tax equal to 10 percent of the excess benefit, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who participated in the excess benefit transaction.
 
 #### (b) Additional tax on the disqualified person
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (1) Joint and several liability
 
-&emsp;If more than 1 person is liable for any tax imposed by subsection (a) or subsection (b), all such persons shall be jointly and severally liable for such tax.
+&emsp;If more than 1 person is liable for any tax imposed by subsection (a) or subsection (b), allsuch persons shall be jointly and severally liable for such tax.
 
 #### (2) Limit for management
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### (5) Taxable period
 
-&emsp;The term "taxable period" means, with respect to any excess benefit transaction, theperiod beginning with the date on which the transaction occurs and ending on the earliest of—
+&emsp;The term "taxable period" means, with respect to any excess benefit transaction, the period beginning with the date on which the transaction occurs and ending on the earliest of—
 
 &emsp;&emsp;(A) the date of mailing a notice of deficiency under section 6212 with respect to the tax imposed by subsection (a)(1), or
 
@@ -246,7 +246,7 @@ Subsection (b).—The amendments made by subsection (a) \[probably should be "su
 
 #### Effective Date
 
-Section applicable to excess benefit transactions occurring on or after Sept. 14, 1995, and not applicable toany benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as an Effective Date of 1996 Amendment note under section 4955 of this title.
+Section applicable to excess benefit transactions occurring on or after Sept. 14, 1995, and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as an Effective Date of 1996 Amendment note under section 4955 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

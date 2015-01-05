@@ -20,7 +20,7 @@ For purposes of this subtitle—
 
 #### (3) Basis of reserved redeemable ground rent
 
-&emsp;In the case of a redeemable ground rent reserved or created on or before the date of the enactment of this section in connection with a transfer of the right to hold real property subject to liabilities under such ground rent, the basis of such ground rent after such date inthe hands of the person who reserved or created the ground rent shall be the amount taken into account in respect of such ground rent for Federal income tax purposes as consideration for the disposition of such real property. If no such amount was taken into account, such basis shall be determined as if this section had not been enacted.
+&emsp;In the case of a redeemable ground rent reserved or created on or before the date of the enactment of this section in connection with a transfer of the right to hold real property subject to liabilities under such ground rent, the basis of such ground rent after such date in the hands of the person who reserved or created the ground rent shall be the amount taken into account in respect of such ground rent for Federal income tax purposes as consideration for the disposition of such real property. If no such amount was taken into account, such basis shall be determined as if this section had not been enacted.
 
 #### (c) Redeemable ground rent defined
 

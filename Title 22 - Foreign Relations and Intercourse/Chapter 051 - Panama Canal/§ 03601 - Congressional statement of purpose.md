@@ -22,7 +22,7 @@ Pub. L. 105–85, div. C, title XXXV, §3511(a), Nov. 18, 1997, 111 Stat. 2062, 
 
 #### Short Title of 1996 Amendments
 
-Pub. L. 104–201, div. C, title XXXV, §3521(a), Sept. 23, 1996, 110 Stat. 2860, provided that: "This subtitle \[subtitle B (§§3521–3549) of title XXXV of div. C of Pub. L. 104–201, enacting sections 3714b and 3873 of this title, amending sections 3602, 3613, 3614, 3623, 3642, 3649 to 3653, 3657, 3658, 3663, 3664, 3671, 3682, 3712, 3713, 3721, 3723, 3731, 3741, 3751, 3777, and 3811 of this title and sections 3401, 5102, 5342, 5343, 5348, 5373, 5537, 5541, 5924, 6322, and 7901 of Title 5, Government Organization and Employees, repealing sections 3654, 3683, 3711, 3795, 3801, 3802, 3831, 3841 to 3844, 3851, 3852, and 3861 of this title, enacting provisions set out as notes under sections 3613, 3614, and 3652 of this title, and repealing provisions set out as notes under sections 3795 and 3843 of this title\] may be cited as the 'Panama Canal Act Amendments of 1996'."
+Pub. L. 104–201, div. C, title XXXV, §3521(a), Sept. 23, 1996, 110 Stat. 2860, provided that: "This subtitle \[subtitle B (§§3521–3549) of title XXXV of div. C of Pub. L. 104–201, enacting sections 3714b and 3873 of this title, amending sections 3602, 3613, 3614, 3623, 3642, 3649 to 3653, 3657, 3658, 3663, 3664, 3671, 3682, 3712, 3713, 3721, 3723, 3731, 3741, 3751, 3777, and 3811 of this title and sections 3401, 5102, 5342, 5343, 5348, 5373, 5537, 5541, 5924, 6322, and 7901of Title 5, Government Organization and Employees, repealing sections 3654, 3683, 3711, 3795, 3801, 3802, 3831, 3841 to 3844, 3851, 3852, and 3861 of this title, enacting provisions set out as notes under sections 3613, 3614, and 3652 of this title, and repealing provisions set out as notes under sections 3795 and 3843 of this title\] may be cited as the 'Panama Canal Act Amendments of 1996'."
 
 Pub. L. 104–106, div. C, title XXXV, §3521, Feb. 10, 1996, 110 Stat. 638, provided that: "This subtitle \[subtitle B (§§3521–3530) of title XXXV of div. C of Pub. L. 104–106, enacting sections 3612a and 3612b of this title and amending sections 3611, 3612, 3645, 3712, 3713, 3723, 3731, 3761, 3775, 3776, 3791, and 3794 of this title and section 9101 of Title 31, Money and Finance\] may be cited as the 'Panama Canal Amendments Act of 1995'."
 
@@ -32,7 +32,7 @@ Pub. L. 100–705, §1, Nov. 19, 1988, 102 Stat. 4685, provided that: "This Act 
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–203, title V, §5421, Dec. 22, 1987, 101 Stat. 1330–271, provided that: "This part \[part 2 of subtitle E\(§§5421–5429) of title V of Pub. L. 100–203, enacting section 3714 of this title, amending sections 3683, 3711, 3712, 3713, 3751, 3753, 3754, 3792, and 3793 of this title and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3683 of this title\] may be referred to as the 'Panama Canal Revolving Fund Act'."
+Pub. L. 100–203, title V, §5421, Dec. 22, 1987, 101 Stat. 1330–271, provided that: "This part \[part 2 of subtitle E (§§5421–5429) of title V of Pub. L. 100–203, enacting section 3714 of this title, amending sections 3683, 3711, 3712, 3713, 3751, 3753, 3754, 3792, and 3793 of this title and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3683 of this title\] may be referred to as the 'Panama Canal Revolving Fund Act'."
 
 #### Short Title of 1985 Amendment
 
@@ -80,7 +80,7 @@ The Secretary of Defense
 
 Coordination of Pay and Employment Practices
 
-1–201. In order to coordinate the policies and activities of agencies under subchapter II of Chapter 2 of Title I of the Panama Canal Act of 1979 (93 Stat. 463; 22 U.S.C. 3651 et seq.), each agency shall periodically consult with the Secretary of Defense with respect to the establishment of rates of pay, in order to develop compatible or unified systems for basic pay. In addition, each agency shall consult with the Secretary of Defense on such other matters as the Secretary may deem appropriate in order to develop compatible or unified employment practices.
+1–201. In order to coordinate the policies and activities of agencies under subchapter II of Chapter 2 ofTitle I of the Panama Canal Act of 1979 (93 Stat. 463; 22 U.S.C. 3651 et seq.), each agency shall periodically consult with the Secretary of Defense with respect to the establishment of rates of pay, in order to develop compatible or unified systems for basic pay. In addition, each agency shall consult with the Secretary of Defense on such other matters as the Secretary may deem appropriate in order to develop compatible or unified employment practices.
 
 1–202. The head of each agency shall, upon approval by the Secretary of Defense, adopt a schedule of basic pay pursuant to Section 1215 of the Panama Canal Act of 1979 (93 Stat. 465; 22 U.S.C. 3655) and adopt regulations governing other matters relating to pay and employment practices.
 
@@ -90,7 +90,7 @@ Coordination of Pay and Employment Practices
 
 Panama Canal Commission
 
-1–301. The functions vested in the President and delegated to the Secretary of Defense in this Section 1–3 ofthis Order shall be carried out by the Secretary of Defense, who shall, in carrying out the said functions, provide, by redelegation or otherwise, for their performance, in a manner consistent with paragraph 3 of Article III of the Panama Canal Treaty of 1977, by the Panama Canal Commission.
+1–301. The functions vested in the President and delegated to the Secretary of Defense in this Section 1–3 of this Order shall be carried out by the Secretary of Defense, who shall, in carrying out the said functions, provide, by redelegation or otherwise, for their performance, in a manner consistent with paragraph 3 of Article III of the Panama Canal Treaty of 1977, by the Panama Canal Commission.
 
 1–302. The authority of the President under Section 1104 of the Panama Canal Act of 1979 (93 Stat. 457; 22 U.S.C. 3614) to fix the compensation of and to define the authorities and duties of the Deputy Administrator and the Chief Engineer is delegated to the Secretary of Defense.
 

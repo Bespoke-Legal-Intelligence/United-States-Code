@@ -144,5 +144,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Civil Penalty Criteria
 
-Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factors described in section 30165(c) of title 49, United States Code."
+Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year afterthe date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factors described in section 30165(c) of title 49, United States Code."
 

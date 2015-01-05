@@ -4,7 +4,7 @@
 
 (b) A Reserve officer on active duty shall, if qualified, be retired effective upon the day the officer become 62 years of age. If not qualified for retirement, a Reserve officer on active duty shall be discharged effective upon the day the officer becomes 62 years of age.
 
-(c) Notwithstanding subsection <sup>1</sup> (a) and (b), the Secretary may authorize the retention of aReserve rear admiral or rear admiral (lower half) in an active status not longer than the day on which the officer concerned becomes 64 years of age.
+(c) Notwithstanding subsection <sup>1</sup> (a) and (b), the Secretary may authorize the retention of a Reserve rear admiral or rear admiral (lower half) in an active status not longer than the day on which the officer concerned becomes 64 years of age.
 
 (d) For purposes of this section, "active duty" does not include active duty for training, duty on a board, or duty of a limited or temporary nature if assigned to active duty from an inactive duty status.
 

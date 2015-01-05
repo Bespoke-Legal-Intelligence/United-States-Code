@@ -8,7 +8,7 @@ It shall be unlawful for any registered investment company, in contravention of 
 
 &emsp;(2) to participate on a joint or a joint and several basis in any trading account in securities, except in connection with an underwriting in which such registered company is a participant; or
 
-&emsp;(3) to effect a short sale of any security, except in connection with an underwriting inwhich such registered company is a participant.
+&emsp;(3) to effect a short sale of any security, except in connection with an underwriting in which such registered company is a participant.
 
 #### (b) Distribution by investment company of securities of which it is issuer
 
@@ -46,7 +46,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(iii) the purchase or acquisition is made pursuant to an arrangement with the issuer of, or principal underwriter for the issuer of, the security whereby such investment company is obligated—
 
-&emsp;&emsp;(aa) either to seek instructions from its security holders with regard to the voting of all proxies with respect to such security and to vote such proxies only in accordance with such instructions, or to vote the shares held by it in the same proportion as the vote of all other holders of such security, and
+&emsp;&emsp;(aa) either to seek instructions from its security holders with regard to the voting of all proxies with respect to such security andto vote such proxies only in accordance with such instructions, or to vote the shares held by it in the same proportion as the vote of all other holders of such security, and
 
 &emsp;&emsp;(bb) in the event that such investment company is not a registered investment company, to refrain substituting such security unless the Commission shall have approved such substitution in the manner provided in section 80a–26 of this title.
 
@@ -54,7 +54,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(i) immediately after such purchase or acquisition not more than 3 per centum of the total outstanding stock of such issuer is owned by such registered investment company and all affiliated persons of such registered investment company; and
 
-&emsp;(ii) such registered investment company has not offered or sold after January 1, 1971, and isnot proposing to offer or sell any security issued by it through a principal underwriter or otherwise at a public offering price which includes a sales load of more than 1½ per centum.
+&emsp;(ii) such registered investment company has not offered or sold after January 1, 1971, and is not proposing to offer or sell any security issued by it through a principal underwriter or otherwise at a public offering price which includes a sales load of more than 1½ per centum.
 
 > No issuer of any security purchased or acquired by a registered investment company pursuant to this subparagraph shall be obligated to redeem such security in an amount exceeding 1 per centum of such issuer's total outstanding securities during any period of less than thirty days. Such investment company shall exercise voting rights by proxy or otherwise with respect to any security purchased or acquired pursuant to this subparagraph in the manner prescribed by subparagraph (E) of this subsection.
 
@@ -84,11 +84,11 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 (2) It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire any security (except a security received as a dividend or as a result of a plan of reorganization of any company, other than a plan devised for the purpose of evading the provisions of this paragraph) issued by any insurance company of which such registered investment company and any company or companies controlled by such registered company do not, at the time of such purchase or acquisition, own in the aggregate at least 25 per centum of the total outstanding voting stock, if such registered company and any company or companies controlled by it own in the aggregate, or as a result of such purchase or acquisition will own in the aggregate, more than 10 per centum of the total outstanding voting stock of such insurance company.
 
-(3) It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire any security issued by or any other interest in the business of any person who is a broker, a dealer, is engaged in the business of underwriting, or is either an investment adviser of an investment company or an investment adviser registered under subchapter II of this chapter, unless (A) such person is a corporation all the outstanding securities of which (other than short-term paper, securities representing bank loans, and directors' qualifying shares) are, or after such acquisition will be, owned by one or more registered investment companies; and (B) such person is primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, or any one or more of such or related activities, and the gross income of such person normally is derived principally from such business or related activities.
+(3) It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire any security issued by or any other interest in thebusiness of any person who is a broker, a dealer, is engaged in the business of underwriting, or is either an investment adviser of an investment company or an investment adviser registered under subchapter II of this chapter, unless (A) such person is a corporation all the outstanding securities of which (other than short-term paper, securities representing bank loans, and directors' qualifying shares) are, or after such acquisition will be, owned by one or more registered investment companies; and (B) such person is primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, or any one or more of such or related activities, and the gross income of such person normally is derived principally from such business or related activities.
 
 #### (e) Acquisition of securities issued by corporations in business of underwriting, furnishing capital to industry, etc.
 
-Notwithstanding any provisions of this subchapter, any registered investment companymay hereafter purchase or otherwise acquire any security issued by any one corporation engaged or proposing to engage in the business of underwriting, furnishing capital to industry, financing promotional enterprises, purchasing securities of issuers for which no ready market is in existence, and reorganizing companies or similar activities; provided—
+Notwithstanding any provisions of this subchapter, any registered investment company may hereafter purchase or otherwise acquire any security issued by any one corporation engaged or proposing to engage in the business of underwriting, furnishing capital to industry, financing promotional enterprises, purchasing securities of issuers for which no ready market is in existence, and reorganizing companies or similar activities; provided—
 
 &emsp;(1) That the securities issued by such corporation (other than short-term paper and securities representing bank loans) shall consist solely of one class of common stock and shall have been originally issued or sold for investment to registered investment companies only;
 

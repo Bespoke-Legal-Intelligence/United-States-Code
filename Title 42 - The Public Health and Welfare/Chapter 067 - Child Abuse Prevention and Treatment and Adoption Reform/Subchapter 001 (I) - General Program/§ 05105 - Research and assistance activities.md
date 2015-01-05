@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii)(I) the medical community, including providers of mental health and developmental disability services; and
 
-&emsp;&emsp;&emsp;(II) providers of early childhood intervention services and special education forchildren who have been victims of child abuse or neglect;
+&emsp;&emsp;&emsp;(II) providers of early childhood intervention services and special education for children who have been victims of child abuse or neglect;
 
 &emsp;&emsp;(H) an evaluation of the redundancies and gaps in the services in the field of child abuse and neglect prevention in order to make better use of resources;
 
@@ -176,7 +176,7 @@
 
 #### (A) Meritorious projects
 
-&emsp;&emsp;The Secretary shall provide grants and contracts under this section from among theprojects which the peer review panels established under paragraph (1)(A) have determined to have merit.
+&emsp;&emsp;The Secretary shall provide grants and contracts under this section from among the projects which the peer review panels established under paragraph (1)(A) have determined to have merit.
 
 #### (B) Explanation
 
@@ -236,7 +236,7 @@ Subsec. (b)(3)(B). Pub. L. 111–320, §113(b)(2), substituted "child welfare, s
 
 Subsec. (d)(1)(A). Pub. L. 111–320, §113(c)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "The Secretary shall, in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for grants under this section and determining the relative merits of the projects for which such assistance is requested. The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect."
 
-Subsec. (d)(1)(B) to (D). Pub. L. 111–320, §113(c)(1)(B), added subpars. (B) to (D) and struck out former subpar. (B) which read as follows: "In establishing the process required by subparagraph (A), the Secretary shall appoint to the peer review panels only members who are experts in the field of child abuse and neglect or related disciplines, with appropriate expertise in the application to be reviewed, and who are not individuals who are officers or employees of the Administration on Children and Families. The panels shall meet as often as is necessary to facilitate the expeditious review of applications for grants and contracts under this section, but may not meet less than once a year. The Secretary shall ensure that the peer review panel utilizesscientifically valid review criteria and scoring guidelines for review committees."
+Subsec. (d)(1)(B) to (D). Pub. L. 111–320, §113(c)(1)(B), added subpars. (B) to (D) and struck out former subpar. (B) which read as follows: "In establishing the process required by subparagraph (A), the Secretary shall appoint to the peer review panels only members who are experts in the field of child abuse and neglect or related disciplines, with appropriate expertise in the application to be reviewed, and who are not individuals who are officers or employees of the Administration on Children and Families. The panels shall meet as often as is necessary to facilitate the expeditious review of applications for grants and contracts under this section, but may not meet less than once a year. The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees."
 
 Subsec. (d)(3). Pub. L. 111–320, §113(c)(2), inserted subpar. headings.
 
@@ -320,7 +320,7 @@ Subsec. (c). Pub. L. 102–295, §141(5), substituted "disabilities" for "handic
 
 Subsec. (e)(1)(A). Pub. L. 102–295, §112(c)(1)(A), inserted "and reviewing" after "evaluating".
 
-Subsec. (e)(1)(B). Pub. L. 102–295, §112(c)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar.\(B) read as follows: "Members of peer review panels shall be appointed by the Secretary from among individuals who are not officers or employees of the Office of Human Development Services. In making appointments to such panels, the Secretary shall include only experts in the field of child abuse and neglect."
+Subsec. (e)(1)(B). Pub. L. 102–295, §112(c)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Members of peer review panels shall be appointed by the Secretary from among individuals who are not officers or employees of the Office of Human Development Services. In making appointments to such panels, the Secretary shall include only experts in the field of child abuse and neglect."
 
 Subsec. (e)(2)(A). Pub. L. 102–295, §112(c)(2)(A), inserted "and evaluate" after "determine".
 

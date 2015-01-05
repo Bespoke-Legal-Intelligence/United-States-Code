@@ -18,7 +18,7 @@ Exception.—An entity described in subsection (a) may have a direct financial i
 
 (c)
 
-Construction.—Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individualsystems or elements of a system of systems with each other.
+Construction.—Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
 
 (Added Pub. L. 109–364, div. A, title VIII, §807(a)(1), Oct. 17, 2006, 120 Stat. 2315.)
 

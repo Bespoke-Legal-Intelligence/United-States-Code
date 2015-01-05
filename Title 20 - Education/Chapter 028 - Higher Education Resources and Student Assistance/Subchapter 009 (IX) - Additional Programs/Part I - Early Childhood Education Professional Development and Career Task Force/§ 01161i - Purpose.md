@@ -6,7 +6,7 @@ The purposes of this part are—
 
 &emsp;(2) to create—
 
-&emsp;&emsp;(A) a coherent system of core competencies, pathways to qualifications, credentials, degrees, quality assurances, access, and outreach, for early childhood educationprogram staff, directors, administrators, and faculty that is linked to compensation commensurate with experience and qualifications;
+&emsp;&emsp;(A) a coherent system of core competencies, pathways to qualifications, credentials, degrees, quality assurances, access, and outreach, for early childhood education program staff, directors, administrators, and faculty that is linked to compensation commensurate with experience and qualifications;
 
 &emsp;&emsp;(B) articulation agreements that enable early childhood education professionals to transition easily among degrees; and
 

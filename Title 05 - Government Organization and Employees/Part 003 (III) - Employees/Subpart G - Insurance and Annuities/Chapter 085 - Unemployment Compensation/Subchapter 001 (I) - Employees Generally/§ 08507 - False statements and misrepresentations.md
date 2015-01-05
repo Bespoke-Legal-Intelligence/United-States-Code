@@ -28,9 +28,9 @@ Historical and Revision Notes
 
 42 U.S.C. 1368(b).
 
-Sept. 1, 1954, ch. 1212, §4(a), “Sec. 1508(b)”, 68 Stat. 1135.
+Sept. 1, 1954, ch. 1212, §4(a), "Sec. 1508(b)", 68 Stat. 1135.
 
-In subsection (a), the words “as the case may be”, “be liable to”, and “of any amount” are omitted as unnecessary.
+In subsection (a), the words "as the case may be", "be liable to", and "of any amount" are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

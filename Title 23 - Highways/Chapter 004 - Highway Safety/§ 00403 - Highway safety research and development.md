@@ -88,7 +88,7 @@ Cooperative Research and Evaluation.—
 
 &emsp;(1)
 
-Establishment and funding.—Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection <sup>1</sup> 402(c) in each fiscal year shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+Establishment and funding.—Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection <sup>1</sup> 402(c) in each fiscal year ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
 
 &emsp;(2)
 
@@ -136,15 +136,17 @@ Alcohol-impaired driving.—The term "alcohol-impaired driving" means the operat
 
 &emsp;&emsp;(B)
 
-Legal limit.—The term "legal limit" means a blood alcohol concentration of 0.08percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
+Legal limit.—The term "legal limit" means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, §31103, July 6, 2012, 126 Stat. 739.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, §31103, July 6, 2012, 126 Stat. 739; Pub. L. 113–159, title I, §1101(b), Aug. 8, 2014, 128 Stat. 1843.)
 
 #### References in Text
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(1). Pub. L. 113–159 inserted "ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015," after "each fiscal year".
 
 <b>2012</b>—Subsecs. (a) to (f). Pub. L. 112–141, §31103(1), added subsecs. (a) to (f) and struck out former subsecs. (a) to (f) which related to authority of the Secretary generally, drugs and driver behavior, authority of Secretary to conduct research through grants and contracts with public and private agencies, institutions, and individuals, authority of Secretary to vest title to equipment purchased for demonstration projects in State and local agencies, authority of Secretary relating to projects to demonstrate the administrative adjudication of traffic infractions, and collaborative research and development, respectively.
 
@@ -192,7 +194,7 @@ Amendment by Pub. L. 102–240, except as otherwise provided, effective Dec. 18,
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e) of this section is listed on page 134), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e) of this section is listed on page 134), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Research on Distracted, Inattentive, and Fatigued Drivers
 
@@ -304,7 +306,7 @@ Report.—Not later than 1 year after the completion of the pilot program under 
 
 "(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1989, $7,000,000 for fiscal year1990, and $9,000,000 for fiscal year 1991. Such sums shall remain available until expended."
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1989, $7,000,000 for fiscal year 1990, and $9,000,000 for fiscal year 1991. Such sums shall remain available until expended."
 
 #### Pilot Grant Program for Random Testing for Illegal Drug Use
 
@@ -320,7 +322,7 @@ State Participation.—The Secretary shall solicit the participation of States f
 
 "(c)
 
-State Selection Process.—The Secretary shall ensure that the selection made pursuant to this section is representative of varying geographical and population characteristics of the Nation, and takes into consideration the historical geographical incidence of motor vehicle accidents involving loss of human life. In selecting the States for participation, the Secretary shall attempt to solicit States which meet the following criteria:
+State Selection Process.—The Secretary shall ensure that the selection made pursuant to this section is representative of varying geographical and population characteristics of the Nation, and takes into consideration the historical geographical incidence of motor vehicle accidents involving loss of human life. In selecting the States for participation, the Secretaryshall attempt to solicit States which meet the following criteria:
 
 &emsp;"(1) One of the States shall be a western State which is one of the 3 most populous States, with numerous large cities, with at least one city exceeding 7,000,000 people. The State should have a diverse demographic population with larger than average drug use according to reliable surveys.
 

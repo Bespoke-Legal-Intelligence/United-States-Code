@@ -30,11 +30,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>190.</b>](Chapter%20190%20-%20Miscellaneous/README.md) | <b>Miscellaneous</b> | <b>5001</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Senate Revision Amendment
 
 Chapters 169, 171 and 173 were renumbered "167", "169" and "171", respectively, without change in their section numbers, by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–287, §4(b)(2), Dec. 19, 2014, 128 Stat. 3261, added item for chapter 190.
 
 <b>2010</b>—Pub. L. 111–223, §3(c), Aug. 10, 2010, 124 Stat. 2384, added item for chapter 181.
 
@@ -93,3 +101,4 @@ Pub. L. 89–554, §4(d), Sept. 6, 1966, 80 Stat. 621, added item for chapter 15
 - [Chapter 179 - Judicial Review of Certain Actions by Presidential Offices](Chapter%20179%20-%20Judicial%20Review%20of%20Certain%20Actions%20by%20Presidential%20Offices/README.md)
 - [Chapter 180 - Assumption of Certain Contractual Obligations](Chapter%20180%20-%20Assumption%20of%20Certain%20Contractual%20Obligations/README.md)
 - [Chapter 181 - Foreign Judgments](Chapter%20181%20-%20Foreign%20Judgments/README.md)
+- [Chapter 190 - Miscellaneous](Chapter%20190%20-%20Miscellaneous/README.md)

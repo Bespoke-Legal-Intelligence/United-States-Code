@@ -4,7 +4,7 @@
 
 (b) The Office shall assist agencies in the establishment of programs required under subsection (a) of this section and shall monitor the implementation of the programs. If the Office finds that any agency's program under subsection (a) of this section is not in compliance with the criteria prescribed under such subsection, it shall require the agency to take such corrective action as may be necessary to bring the program into compliance with the criteria.
 
-(c)(1) The head of an agency may grant a sabbatical to any career appointee for not to exceed 11 months in order to permit the appointee to engage in study or uncompensated work experience which will contribute to the appointee's development and effectiveness. A sabbatical shall not result in loss of, or reduction in, pay, leave to which the career appointee is otherwise entitled, credit for time or service, or performance or efficiency rating. The head of the agency may authorize in accordance with chapter 57 of this title such travel expenses (including per diem allowances) as the head of the agency may determine to be essential for the study or experience.
+(c)(1) The head of an agency may grant a sabbatical to any career appointee for not to exceed 11 months in order to permit the appointee to engage in study or uncompensated work experience which will contribute to the appointee's development and effectiveness. A sabbatical shall not result in loss of, or reduction in, pay, leave to which the career appointee is otherwise entitled, credit for time or service, or performance or efficiency rating. The head of the agency may authorize in accordance with chapter 57 of this title such travel expenses (including per diemallowances) as the head of the agency may determine to be essential for the study or experience.
 
 (2) A sabbatical under this subsection may not be granted to any career appointee—
 
@@ -48,5 +48,5 @@ A prior section 3396, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Federal Procurement Training
 
-Pub. L. 112–239, div. A, title XVI, §1633(a), Jan. 2, 2013, 126 Stat. 2076, provided that: “Programs established for the development of senior executives under section 3396(a) of title 5, United States Code, shall include training with respect to Federal procurement requirements, including contracting requirements under the Small Business Act (15 U.S.C. 631 et seq.).”
+Pub. L. 112–239, div. A, title XVI, §1633(a), Jan. 2, 2013, 126 Stat. 2076, provided that: "Programs established for the development of senior executives under section 3396(a) of title 5, United States Code, shall include training with respect to Federal procurement requirements, including contracting requirements under the Small Business Act (15 U.S.C. 631 et seq.)."
 

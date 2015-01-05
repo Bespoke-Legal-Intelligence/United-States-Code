@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 July 7, 1958, Pub. L. 85–507, §8, 72 Stat. 331.
 
-In paragraph (2), the words “other agencies in any branch of the Government” and “the other agencies” are coextensive with and substituted for “other departments, and with other agencies in any branch of the Government” and “such other departments and agencies”. This is so because “other agencies in any branch of the Government” is broader than “agency” as defined for the purpose of this chapter in section 4101(1).
+In paragraph (2), the words "other agencies in any branch of the Government" and "the other agencies" are coextensive with and substituted for "other departments, and with other agencies in any branch of the Government" and "such other departments and agencies". This is so because "other agencies in any branch of the Government" is broader than "agency" as defined for the purpose of this chapter in section 4101(1).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

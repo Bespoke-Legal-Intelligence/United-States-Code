@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any violation of this chapter or the rules required under section 7607 of this title shall betreated as a violation of a rule under section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) regarding unfair or deceptive acts or practices.
+Any violation of this chapter or the rules required under section 7607 of this title shall be treated as a violation of a rule under section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) regarding unfair or deceptive acts or practices.
 
 #### (b) Actions by the Commission
 
@@ -12,5 +12,5 @@ The Federal Trade Commission shall enforce this chapter in the same manner, by t
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 

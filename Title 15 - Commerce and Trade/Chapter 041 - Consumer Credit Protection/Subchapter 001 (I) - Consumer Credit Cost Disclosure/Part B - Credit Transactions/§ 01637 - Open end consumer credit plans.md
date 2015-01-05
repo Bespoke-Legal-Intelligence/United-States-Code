@@ -4,7 +4,7 @@
 
 Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extended each of the following items, to the extent applicable:
 
-&emsp;(1) The conditions under which a finance charge may be imposed, including the time period (if any) within which any credit extended may be repaid without incurring a finance charge, except that the creditor may, at his election and without disclosure, impose no such finance charge if payment is received after the termination of such time period. If no such time period is provided, the creditor shall disclose such fact.
+&emsp;(1) The conditions under which a finance charge may be imposed, including the time period (if any) within which any credit extended may be repaid without incurring a financecharge, except that the creditor may, at his election and without disclosure, impose no such finance charge if payment is received after the termination of such time period. If no such time period is provided, the creditor shall disclose such fact.
 
 &emsp;(2) The method of determining the balance upon which a finance charge will be imposed.
 
@@ -14,7 +14,7 @@ Before opening any account under an open end consumer credit plan, the creditor 
 
 &emsp;(5) Identification of other charges which may be imposed as part of the plan, and their method of computation, in accordance with regulations of the Bureau.
 
-&emsp;(6) In cases where the credit is or will be secured, a statement that a security interest hasbeen or will be taken in (A) the property purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
+&emsp;(6) In cases where the credit is or will be secured, a statement that a security interest has been or will be taken in (A) the property purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
 &emsp;(7) A statement, in a form prescribed by regulations of the Bureau of the protection provided by sections 1666 and 1666i of this title to an obligor and the creditor's responsibilities under sections 1666a and 1666i of this title. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months, the creditor shall transmit such statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) of this section for such billing cycle.
 
@@ -48,7 +48,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(10) The address to be used by the creditor for the purpose of receiving billing inquiries from the obligor.
 
-&emsp;(11)(A) A written statement in the following form: "Minimum Payment Warning: Making only the minimum payment will increase the amount of interest you pay and the time it takes to repay your balance.", or such similar statement as is established by the Bureau pursuant to consumer testing.
+&emsp;(11)(A) A written statement in the following form: "Minimum Payment Warning: Makingonly the minimum payment will increase the amount of interest you pay and the time it takes to repay your balance.", or such similar statement as is established by the Bureau pursuant to consumer testing.
 
 &emsp;(B) Repayment information that would apply to the outstanding balance of the consumer under the credit plan, including—
 
@@ -56,7 +56,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;(ii) the total cost to the consumer, including interest and principal payments, of paying that balance in full, if the consumer pays only the required minimum monthly payments and if no further advances are made;
 
-&emsp;&emsp;(iii) the monthly payment amount that would be required for the consumer to eliminate the outstanding balance in 36 months,if no further advances are made, and the total cost to the consumer, including interest and principal payments, of paying that balance in full if the consumer pays the balance over 36 months; and
+&emsp;&emsp;(iii) the monthly payment amount that would be required for the consumer to eliminate the outstanding balance in 36 months, if no further advances are made, and the total cost to the consumer, including interest and principal payments, of paying that balance in full if the consumer pays the balance over 36 months; and
 
 &emsp;&emsp;(iv) a toll-free telephone number at which the consumer may receive information about accessing credit counseling and debt management services.
 
@@ -106,7 +106,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) Information in tabular format
 
-&emsp;&emsp;Any application to open a credit card account for any person under an open end consumer credit plan, or a solicitation to open such an account without requiring an application, that is mailed to consumers shall disclose the following information, subject to subsection (e) of this section and section 1632(c) of this title:
+&emsp;&emsp;Any application to open a credit card account for any person under an open end consumer credit plan, or a solicitation to open such an account without requiring an application, that is mailed to consumers shall disclose the following information, subjectto subsection (e) of this section and section 1632(c) of this title:
 
 #### (i) Annual percentage rates
 
@@ -280,7 +280,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (D) Issuers of charge cards which provide access to open end consumer credit plans
 
-&emsp;&emsp;If a charge card permits the card holder to receive an extension of credit under an openend consumer credit plan, which is not maintained by the charge card issuer, the charge card issuer may provide the information described in subparagraphs (A) and (B) in the form required by such subparagraphs in lieu of the information required to be provided under paragraph (1), (2), or (3) with respect to any credit extended under such plan, if the charge card issuer discloses clearly and conspicuously to the consumer in the application or solicitation that—
+&emsp;&emsp;If a charge card permits the card holder to receive an extension of credit under an open end consumer credit plan, which is not maintained by the charge card issuer, the charge card issuer may provide the information described in subparagraphs (A) and (B) in the form required by such subparagraphs in lieu of the information required to be provided under paragraph (1), (2), or (3) with respect to any credit extended under such plan, if the charge card issuer discloses clearly and conspicuously to the consumer in the application or solicitation that—
 
 &emsp;&emsp;&emsp;(i) the charge card issuer will make an independent decision as to whether to issue the card;
 
@@ -322,7 +322,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(ii) if the annual percentage rate that will apply upon the revocation of the temporary annual percentage rate—
 
-&emsp;&emsp;&emsp;&emsp;(I) will be a fixed rate, the annual percentage rate that will apply upon the revocation of the temporary annual percentage rate; or
+&emsp;&emsp;&emsp;&emsp;(I) will be a fixed rate, the annual percentage rate that will apply upon therevocation of the temporary annual percentage rate; or
 
 &emsp;&emsp;&emsp;&emsp;(II) will vary in accordance with an index, the rate that will apply after the temporary rate, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
 
@@ -478,7 +478,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (1) In general
 
-&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by the creditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shallbe charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
+&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by the creditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shall be charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
 
 #### (2) Disclosure by creditor
 
@@ -612,7 +612,7 @@ Subsec. (b)(12). Pub. L. 111–24, §202, amended par. (12) generally. Prior to 
 
 Subsec. (c)(8). Pub. L. 111–24, §301, added par. (8).
 
-Subsec. (d)(1). Pub. L. 111–24, §203(3), substituted "A card issuer that has changed or amended any term ofthe account since the last renewal that has not been previously disclosed or" for "Except as provided in paragraph (2), a card issuer" in introductory provisions.
+Subsec. (d)(1). Pub. L. 111–24, §203(3), substituted "A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclosed or" for "Except as provided in paragraph (2), a card issuer" in introductory provisions.
 
 Subsec. (d)(2), (3). Pub. L. 111–24, §203(1), (2), redesignated par. (3) as (2) and struck out former par. (2) which provided a special rule for certain disclosures.
 
@@ -706,7 +706,7 @@ Pub. L. 109–8, title XIII, §1305(b)(2), Apr. 20, 2005, 119 Stat. 212, provide
 
 &emsp;"(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
 
-&emsp;"(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
+&emsp;"(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of theFederal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
 
 Pub. L. 109–8, title XIII, §1306(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: "The amendment made by subsection (a) \[amending this section\] and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
 

@@ -18,11 +18,11 @@
 
 <b>2002</b>—Pub. L. 107–295, §416(a)(5)(A), substituted "separation" for "severance" in section catchline.
 
-Subsec. (a)(2). Pub. L. 107–295, §416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows:"for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of section 321 of this title; or".
+Subsec. (a)(2). Pub. L. 107–295, §416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows: "for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of section 321 of this title; or".
 
 Subsec. (a)(3). Pub. L. 107–295, §416(a)(5)(C), struck out par. (3) which read as follows: "for discharge with severance benefits under subsection (b) in those cases arising under clause (2) of section 321 of this title."
 
-Subsec. (b)(2). Pub. L. 107–295, §416(a)(5)(D), added par. (2) and struck out former par. (2) which read as follows: "if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month's basic pay of that grade, in those cases arising under clause (1) of section 321 of this title; or".
+Subsec. (b)(2). Pub. L. 107–295, §416(a)(5)(D), added par. (2) and struck out former par. (2) which read as follows: "if on that date the officer is ineligible for voluntaryretirement under any law, be honorably discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month's basic pay of that grade, in those cases arising under clause (1) of section 321 of this title; or".
 
 Subsec. (b)(3). Pub. L. 107–295, §416(a)(5)(E), struck out par. (3) which read as follows: "if on that date the officer is ineligible for voluntary retirement under any law, be discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month's basic pay of that grade, in those cases arising under clause (2) of section 321 of this title, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay."
 

@@ -16,7 +16,7 @@
 
 (e) The regulations prescribed under this section shall cease to be in effect as of the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476, §411; Pub. L. 89–26, §1(5), May 22, 1965, 79 Stat. 117;Pub. L. 96–343, §5(b), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 96–513, title V, §516(12), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §122(b), Oct. 14, 1981, 95 Stat. 1003; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; renumbered §481 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(14), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476, §411; Pub. L. 89–26, §1(5), May 22, 1965, 79 Stat. 117; Pub. L. 96–343, §5(b), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 96–513, title V, §516(12), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §122(b), Oct. 14, 1981, 95 Stat. 1003; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; renumbered §481 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(14), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 

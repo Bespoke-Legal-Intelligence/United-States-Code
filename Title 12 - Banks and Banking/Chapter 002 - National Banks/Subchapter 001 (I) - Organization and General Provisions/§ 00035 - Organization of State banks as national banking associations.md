@@ -66,7 +66,7 @@ Notification and access to information.—Upon receipt of a copy of the applicat
 
 &emsp;"(A) notify the Federal banking agency that would be the appropriate Federal banking agency for the institution after the proposed conversion in writing of any ongoing supervisory or investigative proceedings that the appropriate Federal banking agency for the institution proposing to convert believes is likely to result, in the near term and absent the proposed conversion, in a cease and desist order (or other formal enforcement order) or memorandum of understanding with respect to a significant supervisory matter; and
 
-&emsp;"(B) provide the Federal banking agency that would be the appropriate Federal banking agency forthe institution after the proposed conversion access to all investigative and supervisory information relating to the proceedings described in subparagraph (A)."
+&emsp;"(B) provide the Federal banking agency that would be the appropriate Federal banking agency for the institution after the proposed conversion access to all investigative and supervisory information relating to the proceedings described in subparagraph (A)."
 
 \[For definitions of terms used in section 612(e) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

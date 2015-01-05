@@ -4,7 +4,7 @@
 
 No deduction otherwise allowable under this chapter shall be allowed for any amount paid or incurred for—
 
-&emsp;(1) advertising in a convention program of a political party, or in any other publication if any part of the proceeds of such publication directly or indirectly inures (or is intended toinure) to or for the use of a political party or a political candidate,
+&emsp;(1) advertising in a convention program of a political party, or in any other publication if any part of the proceeds of such publication directly or indirectly inures (or is intended to inure) to or for the use of a political party or a political candidate,
 
 &emsp;(2) admission to any dinner or program, if any part of the proceeds of such dinner or program directly or indirectly inures (or is intended to inure) to or for the use of a political party or a political candidate, or
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 
 #### Effective Date of 1968 Amendment
 

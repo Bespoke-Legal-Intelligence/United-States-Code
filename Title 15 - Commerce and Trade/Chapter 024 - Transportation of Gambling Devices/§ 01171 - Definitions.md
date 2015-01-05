@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) The term "gambling device" means—
 
-&emsp;(1) any so-called "slot machine" or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
+&emsp;(1) any so-called "slot machine" or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated may deliver, as the result of the application of anelement of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
 &emsp;(2) any other machine or mechanical device (including, but not limited to, roulette wheels and similar devices) designed and manufactured primarily for use in connection with gambling, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 

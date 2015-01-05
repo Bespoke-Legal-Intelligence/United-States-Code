@@ -12,7 +12,7 @@ Sections 3345 through 3349b shall not apply to—
 
 &emsp;(3) any member of the Surface Transportation Board; or
 
-&emsp;(4) any judge appointed by the President, by and with the advice and consent of the Senate,to a court constituted under article I of the United States Constitution.
+&emsp;(4) any judge appointed by the President, by and with the advice and consent of the Senate, to a court constituted under article I of the United States Constitution.
 
 (Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–615.)
 

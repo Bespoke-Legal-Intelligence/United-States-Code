@@ -18,7 +18,7 @@ Subpart A—Distilled Spirits
 
 #### Prior Provisions
 
-A prior subpart A, comprising sections 5001 to 5012, related to tax on distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859, title II, 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subpart A, comprising sections 5001 to 5012, related to tax on distilled spirits, prior to the generalrevision of this chapter by Pub. L. 85–859, title II, 201, Sept. 2, 1958, 72 Stat. 1313.
 
 #### Amendments
 

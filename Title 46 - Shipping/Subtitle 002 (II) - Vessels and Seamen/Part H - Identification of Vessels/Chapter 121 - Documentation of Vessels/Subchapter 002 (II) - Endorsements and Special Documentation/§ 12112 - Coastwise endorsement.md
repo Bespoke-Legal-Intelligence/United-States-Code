@@ -66,5 +66,5 @@ Limitation on coastwise trade.—A vessel owned by a person described in paragra
 
 "(3)
 
-Termination.—The application of this subsection to a person described in paragraph (1) shall terminateif all of that person's vessels described in paragraph (1) are sold to a person eligible to document vessels under section 12106(a) \[now section 12112(a)\] of title 46, United States Code."
+Termination.—The application of this subsection to a person described in paragraph (1) shall terminate if all of that person's vessels described in paragraph (1) are sold to a person eligible to document vessels under section 12106(a) \[now section 12112(a)\] of title 46, United States Code."
 

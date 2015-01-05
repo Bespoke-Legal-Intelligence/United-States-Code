@@ -16,19 +16,19 @@ With respect to any function transferred by this part to, and exercised on or af
 
 #### (2) Transfer and allocation of appropriations and personnel
 
-&emsp;The personnel of the Department of Justice employed in connection with the functions transferred by this part (and functions that the Secretary determines are properly related to the functions of the Bureau of Citizenship and Immigration Services), and the assets, liabilities, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available to, the Immigration and Naturalization Service in connection with the functions transferred by this part, subject to section 1531 of title 31, shall be transferred to the Director of the Bureau of Citizenship and Immigration Services for allocation to the appropriate component of the Department. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated. The Secretary shall havethe right to adjust or realign transfers of funds and personnel effected pursuant to this part for a period of 2 years after the effective date specified in section 455.<sup>1</sup>
+&emsp;The personnel of the Department of Justice employed in connection with the functions transferred by this part (and functions that the Secretary determines are properly related to the functions of the Bureau of Citizenship and Immigration Services), and the assets, liabilities, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available to, the Immigration and Naturalization Service in connection with the functions transferred by this part, subject to section 1531 of title 31, shall be transferred to the Director of the Bureau of Citizenship and Immigration Services for allocation to the appropriate component of the Department. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated. The Secretary shall have the right to adjust or realign transfers of funds and personnel effected pursuant to this part for a period of 2 years after the effective date specified in section 455.<sup>1</sup>
 
 (Pub. L. 107–296, title IV, §456, Nov. 25, 2002, 116 Stat. 2200.)
 
 #### References in Text
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§451–462) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2195, which enacted this part, amended sections 1356 and 1573 of Title 8, Aliens and Nationality, and enacted provisions set out as a note under section 271 of this title. For complete classification of subtitle E to the Code, see Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle E (§§451–462) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2195, which enacted this part, amended sections 1356 and 1573 of Title 8, Aliens and Nationality, and enacted provisions set out as a note under section 271 of this title. For complete classification of subtitle E to the Code, see Tables.
 
 For the effective date specified in section 455, referred to in text, see section 455 of Pub. L. 107–296, set out as an Effective Date note under section 271 of this title.
 
 #### Codification
 
-In subsec. (b)(2), “section 1531 of title 31” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(2), "section 1531 of title 31" substituted for "section 202 of the Budget and Accounting Procedures Act of 1950" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Effective Date
 

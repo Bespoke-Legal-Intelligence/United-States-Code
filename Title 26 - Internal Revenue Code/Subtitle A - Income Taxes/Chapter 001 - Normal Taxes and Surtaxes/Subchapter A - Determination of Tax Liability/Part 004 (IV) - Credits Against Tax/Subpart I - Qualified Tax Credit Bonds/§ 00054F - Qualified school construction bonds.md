@@ -12,7 +12,7 @@ For purposes of this subchapter, the term "qualified school construction bond" m
 
 #### (b) Limitation on amount of bonds designated
 
-The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (a) by any issuer shall not exceed the limitation amount allocated under subsection (d) for such calendar year to such issuer.
+The maximum aggregate face amount of bonds issued during any calendar year which may bedesignated under subsection (a) by any issuer shall not exceed the limitation amount allocated under subsection (d) for such calendar year to such issuer.
 
 #### (c) National limitation on amount of bonds designated
 
@@ -28,7 +28,7 @@ There is a national qualified school construction bond limitation for each calen
 
 #### (1) Allocation among States
 
-&emsp;Except as provided in paragraph (2)(C), the limitation applicable under subsection (c) forany calendar year shall be allocated by the Secretary among the States in proportion to the respective amounts each such State is eligible to receive under section 1124 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year. The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency (or such other agency as is authorized under State law to make such allocation) to issuers within such State.
+&emsp;Except as provided in paragraph (2)(C), the limitation applicable under subsection (c) for any calendar year shall be allocated by the Secretary among the States in proportion to the respective amounts each such State is eligible to receive under section 1124 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year. The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency (or such other agency as is authorized under State law to make such allocation) to issuers within such State.
 
 #### (2) 40 percent of limitation allocated among largest school districts
 

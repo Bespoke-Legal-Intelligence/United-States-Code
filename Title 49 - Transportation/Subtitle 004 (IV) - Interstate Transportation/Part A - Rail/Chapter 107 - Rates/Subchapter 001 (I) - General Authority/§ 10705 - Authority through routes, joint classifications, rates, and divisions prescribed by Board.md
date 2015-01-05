@@ -12,7 +12,7 @@
 
 > The Board shall give reasonable preference, subject to this subsection, to the rail carrier originating the traffic when prescribing through routes.
 
-(b) The Board shall prescribe the division of joint rates to be received by a rail carrier providing transportation subject to its jurisdiction under this part when it decides that a division of joint rates established by the participating carriers under section 10703 of this title, or under a decision of the Board under subsection (a) of this section, does or will violate section 10701 of this title.
+(b) The Board shall prescribe the division of joint rates to be received by a rail carrier providing transportation subject to its jurisdictionunder this part when it decides that a division of joint rates established by the participating carriers under section 10703 of this title, or under a decision of the Board under subsection (a) of this section, does or will violate section 10701 of this title.
 
 (c) If a division of a joint rate prescribed under a decision of the Board is later found to violate section 10701 of this title, the Board may decide what division would have been reasonable and order adjustment to be made retroactive to the date the complaint was filed, the date the order for an investigation was made, or a later date that the Board decides is justified. The Board may make a decision under this subsection effective as part of its original decision.
 

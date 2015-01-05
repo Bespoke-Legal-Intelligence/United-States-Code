@@ -52,7 +52,7 @@ Within 18 months after February 8, 1996, the Commission shall prescribe such reg
 
 #### (3) Alternate means of compliance
 
-&emsp;An entity may meet the requirements of this section through alternate means than those prescribed by regulations pursuant to subsection (b), as revised pursuant to paragraph\(2)(A) of this subsection, if the requirements of this section are met, as determined by the Commission.
+&emsp;An entity may meet the requirements of this section through alternate means than those prescribed by regulations pursuant to subsection (b), as revised pursuant to paragraph (2)(A) of this subsection, if the requirements of this section are met, as determined by the Commission.
 
 #### (d) Exemptions
 
@@ -116,7 +116,7 @@ The term "undue burden" means significant difficulty or expense. In determining 
 
 #### (A) In general
 
-&emsp;&emsp;The Commission may not issue additional regulations unless the Commission determines, at least 2 years after completing the reports required in paragraph (3), that the need for and benefits of providing video description for video programming, insofar as such programming is transmitted for displayon television, are greater than the technical and economic costs of providing such additional programming.
+&emsp;&emsp;The Commission may not issue additional regulations unless the Commission determines, at least 2 years after completing the reports required in paragraph (3), that the need for and benefits of providing video description for video programming, insofar as such programming is transmitted for display on television, are greater than the technical and economic costs of providing such additional programming.
 
 #### (B) Limitation
 
@@ -186,7 +186,7 @@ Nothing in this section shall be construed to authorize any private right of act
 
 #### References in Text
 
-Subsection (e)(1) of the Twenty-First Century Communications and Video Accessibility Act of 2010 and subsection (e)(2), referred to in subsecs. (c)(2)(A) and (g), respectively, probably mean subsections (e)(1) and (e)(2) of section 201 of Pub. L. 111–260, which are set out as a note under this section.
+Subsection (e)(1) of the Twenty-First Century Communications and Video Accessibility Act of 2010 and subsection (e)(2), referred to in subsecs. (c)(2)(A) and\(g), respectively, probably mean subsections (e)(1) and (e)(2) of section 201 of Pub. L. 111–260, which are set out as a note under this section.
 
 The Act, referred to in subsec. (c)(2)(D)(v), (vi), probably means act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
@@ -278,7 +278,7 @@ Video description, emergency information, user interfaces, and video programming
 
 &emsp;&emsp;"(B) An identification of the performance objectives for protocols, technical capabilities, and technical procedures needed to permit content providers, content distributors, Internet service providers, software developers, and device manufacturers to reliably encode, transport, receive, and render video descriptions of video programming, except for consumer generated media, and emergency information delivered using Internet protocol or digital broadcast television.
 
-&emsp;&emsp;"(C) An identification of additional protocols, technical capabilities, and technical procedures beyond those available as of the date of enactment ofthe Twenty-First Century Communications and Video Accessibility Act of 2010 for the delivery of video descriptions of video programming, except for consumer generated media, and emergency information delivered using Internet protocol or digital broadcast television that are necessary to meet the performance objectives identified under subparagraph (B).
+&emsp;&emsp;"(C) An identification of additional protocols, technical capabilities, and technical procedures beyond those available as of the date of enactment of the Twenty-First Century Communications and Video Accessibility Act of 2010 for the delivery of video descriptions of video programming, except for consumer generated media, and emergency information delivered using Internet protocol or digital broadcast television that are necessary to meet the performance objectives identified under subparagraph (B).
 
 &emsp;&emsp;"(D) A recommendation for technical standards to address the performance objectives identified in subparagraph (B).
 

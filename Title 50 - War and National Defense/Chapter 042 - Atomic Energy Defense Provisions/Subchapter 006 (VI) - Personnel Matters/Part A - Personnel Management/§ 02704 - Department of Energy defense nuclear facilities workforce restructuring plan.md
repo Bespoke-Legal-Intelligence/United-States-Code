@@ -60,7 +60,7 @@ In this section, the term "Department of Energy defense nuclear facility" means�
 
 &emsp;(2) a nuclear waste storage or disposal facility that is under the control or jurisdiction of the Secretary;
 
-&emsp;(3) a testing and assembly facility that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the Nevada National Security Site, Nevada <sup>2</sup> and the Pantex facility, Texas);
+&emsp;(3) a testing and assembly facility that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the Nevada National Security Site, Nevada, and the Pantex facility, Texas);
 
 &emsp;(4) an atomic weapons research facility that is under the control or jurisdiction of the Secretary (including Lawrence Livermore, Los Alamos, and Sandia National Laboratories); or
 
@@ -72,15 +72,19 @@ In this section, the term "Department of Energy defense nuclear facility" means�
 
 &emsp;&emsp;(C) was operated for national security purposes.
 
-(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079.)
+(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–128, title V, §512(d), July 22, 2014, 128 Stat. 1706; Pub. L. 113–291, div. C, title XXXI, §3142(o), Dec. 19, 2014, 128 Stat. 3901.)
+
+#### Amendment of Subsection (c)(6)(A)
+
+<i>Pub. L. 113–128, title V, §§506, 512(d), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(6)(A) of this section is amended by striking "programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)" and inserting "programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
 
 #### References in Text
 
-Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec.\(c)(2), is section 3152 of Pub. L. 101–189, div. C, title XXXI, Nov. 29, 1989, 103 Stat. 1682, which is not classified to the Code.
+Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (c)(2), is section 3152 of Pub. L. 101–189, div. C, title XXXI, Nov. 29, 1989, 103 Stat. 1682, which is not classified to the Code.
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§3141 etseq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 The date of the enactment of this Act, referred to in subsec. (e)(1), meant Oct. 23, 1992, the date of enactment of Pub. L. 102–484, in this section as originally enacted. As renumbered by Pub. L. 108–136, this section is now part of Pub. L. 107–314, which was approved Dec. 2, 2002.
 
@@ -91,6 +95,10 @@ Executive Order Number 12344, referred to in subsec. (f)(1), is set out as a not
 Section was formerly classified to section 7274h of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(6)(A). Pub. L. 113–128, which directed amendment of subpar. (A) by substituting "programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act" for "programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)", was executed by making the substitution for "programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\]. See 1998 Amendment note below.
+
+Subsec. (f)(3). Pub. L. 113–291 substituted "Nevada, and" for "Nevada and".
 
 <b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §3134(b)(1)(A), struck out "and any updates of the plan under subsection (e)" after "plan referred to in subsection (a)".
 
@@ -132,6 +140,10 @@ Subsec. (c)(6)(B). Pub. L. 103–337, §1070(c)(2)(C), substituted "division D" 
 
 Subsec. (d). Pub. L. 103–337, §1070(c)(2)(A), substituted "workforce" for "work force".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(6)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
@@ -141,6 +153,4 @@ Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 
 Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

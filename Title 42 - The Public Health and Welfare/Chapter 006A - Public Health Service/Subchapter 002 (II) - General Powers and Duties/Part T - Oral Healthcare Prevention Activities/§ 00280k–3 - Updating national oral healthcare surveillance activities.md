@@ -32,7 +32,7 @@ The Secretary shall ensure that the Medical Expenditures Panel Survey by the Age
 
 #### (A) Appropriations
 
-&emsp;There is authorized to be appropriated, such sums as may be necessary for each of fiscal years 2010 through 2014 to increase the participation of States in the National Oral Health Surveillance System from 16 States to all 50 States, territories, and District of Columbia.
+&emsp;There is authorized to be appropriated, such sums as may be necessary for each of fiscalyears 2010 through 2014 to increase the participation of States in the National Oral Health Surveillance System from 16 States to all 50 States, territories, and District of Columbia.
 
 #### (B) Requirements
 

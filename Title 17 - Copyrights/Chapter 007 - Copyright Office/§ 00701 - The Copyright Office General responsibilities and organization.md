@@ -10,7 +10,7 @@
 
 &emsp;(3) Participate in meetings of international intergovernmental organizations and meetings with foreign government officials relating to copyright, other matters arising under this title, and related matters, including as a member of United States delegations as authorized by the appropriate Executive branch authority.
 
-&emsp;(4) Conduct studies and programs regarding copyright, other matters arising under thistitle, and related matters, the administration of the Copyright Office, or any function vested in the Copyright Office by law, including educational programs conducted cooperatively with foreign intellectual property offices and international intergovernmental organizations.
+&emsp;(4) Conduct studies and programs regarding copyright, other matters arising under this title, and related matters, the administration of the Copyright Office, or any function vested in the Copyright Office by law, including educational programs conducted cooperatively with foreign intellectual property offices and international intergovernmental organizations.
 
 &emsp;(5) Perform such other functions as Congress may direct, or as may be appropriate in furtherance of the functions and duties specifically set forth in this title.
 
@@ -42,7 +42,7 @@ Pub. L. 101–319, §5, July 3, 1990, 104 Stat. 291, provided that:
 
 "(a)
 
-Effective Date.—The amendments made by this Act \[amending this section and section 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 101 of this title\] shall take effect on the date of the enactment of this Act \[July 3, 1990\].
+Effective Date.—The amendments made by this Act \[amending this section and section 802 of this titleand sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 101 of this title\] shall take effect on the date of the enactment of this Act \[July 3, 1990\].
 
 "(b)
 

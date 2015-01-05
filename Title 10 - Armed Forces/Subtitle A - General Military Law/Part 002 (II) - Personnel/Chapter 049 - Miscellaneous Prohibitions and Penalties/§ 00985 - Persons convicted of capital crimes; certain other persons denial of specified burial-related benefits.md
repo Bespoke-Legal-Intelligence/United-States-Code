@@ -6,7 +6,7 @@ Prohibition of Performance of Military Honors.—The Secretary of a military dep
 
 &emsp;(1) A person described in section 2411(b) of title 38.
 
-&emsp;(2) A person who is a veteran (as defined in section 1491(h) of this title) or who died while on active duty or a member of a reserve component, when the circumstances surrounding the person's death or other circumstances as specified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person's service (or former service).
+&emsp;(2) A person who is a veteran (as defined in section 1491(h) of this title) or who died while on active duty or a member of a reserve component, when the circumstances surrounding the person's death or other circumstances asspecified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person's service (or former service).
 
 (b)
 
@@ -22,7 +22,7 @@ Disqualification From Burial in Military Cemeteries.—A person who is ineligibl
 
 Definition.—In this section, the term "burial" includes inurnment.
 
-(Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116Stat. 2314; Pub. L. 109–163, div. A, title VI, §662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315.)
+(Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315.)
 
 #### Amendments
 

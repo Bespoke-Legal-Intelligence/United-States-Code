@@ -70,5 +70,5 @@ Section applicable to taxable years of foreign corporations beginning after Dec.
 
 #### Expiration of Subsection (b) Election Period
 
-Pub. L. 100–647, title I, §1012(p)(37)(B), Nov. 10, 1988, 102 Stat. 3522, provided that: "The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title I, §1012(p)(37)(B), Nov. 10, 1988, 102 Stat. 3522, provided that: "The period during whichan election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of enactment of this Act \[Nov. 10, 1988\]."
 

@@ -8,7 +8,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(3) "application" means an application submitted under this Act for a license for the ownership, construction, and operation of a deepwater port;
 
-&emsp;(4) "citizen of the United States" means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board;
+&emsp;(4) "citizen of the United States" means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holderof a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board;
 
 &emsp;(5) "coastal environment" means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including <sup>1</sup> waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources;
 
@@ -20,7 +20,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(9) "deepwater port"—
 
-&emsp;&emsp;(A) means any fixed or floating manmade structure other than a vessel, or any group of such structures, that are located beyond State seaward boundaries and that are used or intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportationto or from any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil or natural gas from the United States outer continental shelf;
+&emsp;&emsp;(A) means any fixed or floating manmade structure other than a vessel, or any group of such structures, that are located beyond State seaward boundaries and that are used or intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportation to or from any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil or natural gas from the United States outer continental shelf;
 
 &emsp;&emsp;(B) includes all components and equipment, including pipelines, pumping stations, service platforms, buoys, mooring lines, and similar facilities to the extent they are located seaward of the high water mark;
 
@@ -72,7 +72,7 @@ Par. (9). Pub. L. 104–324, §503(a)(2), (b), redesignated par. (10) as (9) and
 
 Pars. (10) to (19). Pub. L. 104–324, §503(a)(2), redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
 
-<b>1984</b>—Par. (4). Pub. L. 98–419 substituted "means an application" for "means any application", struck outdesignation "(A)" before "for a license", and struck out cls. (B) and (C) which provided that "application" meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
+<b>1984</b>—Par. (4). Pub. L. 98–419 substituted "means an application" for "means any application", struck out designation "(A)" before "for a license", and struck out cls. (B) and (C) which provided that "application" meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
 
 #### Territorial Sea and Contiguous Zone of United States
 

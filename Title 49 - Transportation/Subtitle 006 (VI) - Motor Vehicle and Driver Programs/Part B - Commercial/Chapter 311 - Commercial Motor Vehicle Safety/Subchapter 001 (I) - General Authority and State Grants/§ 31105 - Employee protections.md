@@ -12,7 +12,7 @@ Prohibitions.—(1) A person may not discharge an employee, or discipline or dis
 
 &emsp;&emsp;(i) the operation violates a regulation, standard, or order of the United States related to commercial motor vehicle safety, health, or security; or
 
-&emsp;&emsp;(ii) the employee has a reasonable apprehension of serious injury to the employee or the public because of the vehicle's hazardous safety or security condition;
+&emsp;&emsp;(ii) the employee has a reasonable apprehension of serious injury to the employee orthe public because of the vehicle's hazardous safety or security condition;
 
 &emsp;(C) the employee accurately reports hours on duty pursuant to chapter 315;
 
@@ -38,7 +38,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 &emsp;(ii) reinstate the complainant to the former position with the same pay and terms and privileges of employment; and
 
-&emsp;(iii) pay compensatory damages, including backpay with interest and compensation for any special damages sustained as a result ofthe discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+&emsp;(iii) pay compensatory damages, including backpay with interest and compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
 
 (B) If the Secretary of Labor issues an order under subparagraph (A) of this paragraph and the complainant requests, the Secretary of Labor may assess against the person against whom the order is issued the costs (including attorney fees) reasonably incurred by the complainant in bringing the complaint. The Secretary of Labor shall determine the costs that reasonably were incurred.
 
@@ -58,7 +58,7 @@ Civil Actions to Enforce.—If a person fails to comply with an order issued und
 
 (f)
 
-No Preemption.—Nothing in this section preempts or diminishes any other safeguards against discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
+No Preemption.—Nothing in this section preempts or diminishes any other safeguardsagainst discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
 
 (g)
 
@@ -128,7 +128,7 @@ Jan. 6, 1983, Pub. L. 97–424, §405(a)–(d), 96 Stat. 2157.
 
 Jan. 6, 1983, Pub. L. 97–424, §405(e), 96 Stat. 2158; Nov. 8, 1984, Pub. L. 98–620, §402(51), 98 Stat. 3361.
 
-In subsection (a)(1), before clause (A), the words "in any manner" are omitted as surplus. The word "conditions" is omitted as included in "terms". In clauses (A) and (B), the word "rule" is omitted as being synonymous with "regulation". In clause (A), the word "begun" is substituted for "instituted or caused to be instituted" for consistency in the revised title and to eliminate unnecessary words. In clause (B), the wordsbefore subclause (i) are substituted for "for refusing to operate a vehicle when" and "or because of" for clarity and consistency. In subclause (ii), the words "vehicle's unsafe condition" are substituted for "unsafe condition of such equipment" for consistency.
+In subsection (a)(1), before clause (A), the words "in any manner" are omitted as surplus. The word "conditions" is omitted as included in "terms". In clauses (A) and (B), the word "rule" is omitted as being synonymous with "regulation". In clause (A), the word "begun" is substituted for "instituted or caused to be instituted" for consistency in the revised title and to eliminate unnecessary words. In clause (B), the words before subclause (i) are substituted for "for refusing to operate a vehicle when" and "or because of" for clarity and consistency. In subclause (ii), the words "vehicle's unsafe condition" are substituted for "unsafe condition of such equipment" for consistency.
 
 Subsection (a)(2) is substituted for 49 App.:2305(b) (2d, last sentences) for clarity and to eliminate unnecessary words.
 

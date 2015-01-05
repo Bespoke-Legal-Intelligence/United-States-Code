@@ -28,7 +28,7 @@ Publication of data.—The Secretary shall publish disability-related complaint 
 
 &emsp;(3)
 
-Review and report.—The Secretary shall regularly review all complaints received by air carriers alleging discrimination on the basis of disability and shall report annually to Congress on the results of such review.
+Review and report.—The Secretary shall regularly review all complaints received by air carriers alleging discrimination on the basis ofdisability and shall report annually to Congress on the results of such review.
 
 &emsp;(4)
 

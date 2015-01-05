@@ -58,7 +58,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed to assist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
 
-&emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speakingability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
+&emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speaking ability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
 
 &emsp;&emsp;&emsp;(v) education of patients and the general population served by the health center regarding the availability and proper use of health services.
 
@@ -426,7 +426,7 @@ For purposes of this section:
 
 #### (3) Supplement not supplant requirement
 
-&emsp;A grant awarded under this subsection shall be expended to supplement, and not supplant,the expenditures of the health center and the value of in kind contributions for the delivery of services to the population described in paragraph (1).
+&emsp;A grant awarded under this subsection shall be expended to supplement, and not supplant, the expenditures of the health center and the value of in kind contributions for the delivery of services to the population described in paragraph (1).
 
 #### (4) Temporary continued provision of services to certain former homeless individuals
 
@@ -508,7 +508,7 @@ For purposes of this section:
 
 #### (6) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, in addition to anyfunds authorized to be appropriated or appropriated for health centers under any other subsection of this section, such sums as may be necessary for each of fiscal years 2002 through 2006.
+&emsp;There are authorized to be appropriated to carry out this subsection, in addition to any funds authorized to be appropriated or appropriated for health centers under any other subsection of this section, such sums as may be necessary for each of fiscal years 2002 through 2006.
 
 #### (k) Applications
 
@@ -526,7 +526,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) a demonstration that the center will be located so that it will provide services to the greatest number of individuals residing in the catchment area or included in such population group.
 
-> &emsp;Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under subsection (b)(3) of this section or on any other criteria which the Secretary may prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services. In considering an application for a grant under subparagraph (A) or (B) of subsection (e)(1) of this section, the Secretary may require as a condition to the approval of such application an assurance that the applicant will provide any health service defined under paragraphs (1) and (2) of subsection (b) of this section that the Secretary finds is needed to meet specific health needs of the area to be served by the applicant. Such a finding shall be made in writing and a copy shall be provided to the applicant.
+> &emsp;Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under subsection (b)(3) of this section or on any other criteria which the Secretary may prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services. Inconsidering an application for a grant under subparagraph (A) or (B) of subsection (e)(1) of this section, the Secretary may require as a condition to the approval of such application an assurance that the applicant will provide any health service defined under paragraphs (1) and (2) of subsection (b) of this section that the Secretary finds is needed to meet specific health needs of the area to be served by the applicant. Such a finding shall be made in writing and a copy shall be provided to the applicant.
 
 #### (3) Requirements
 
@@ -622,7 +622,7 @@ For purposes of this section:
 
 #### (l) Technical assistance
 
-The Secretary shall establish a program through which the Secretary shall provide (either through the Department of Health and Human Services or by grant or contract) technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (k)(3) of this section. Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support,and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.
+The Secretary shall establish a program through which the Secretary shall provide (either through the Department of Health and Human Services or by grant or contract) technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (k)(3) of this section. Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.
 
 #### (m) Memorandum of agreement
 
@@ -714,7 +714,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (B) Distribution of grants
 
-&emsp;&emsp;For fiscal year 2002 and each of the following fiscal years, the Secretary, in awarding grants under this section, shall ensure that the proportion of the amount made available under each of subsections (g), (h), and (i) of this section, relative to the total amount appropriated to carry out this section for that fiscal year, is equal to the proportion of the amount made available under that subsection for fiscal year 2001, relative to the total amount appropriated to carry out this section for fiscal year 2001.
+&emsp;&emsp;For fiscal year 2002 and each of the following fiscal years, the Secretary, in awardinggrants under this section, shall ensure that the proportion of the amount made available under each of subsections (g), (h), and (i) of this section, relative to the total amount appropriated to carry out this section for that fiscal year, is equal to the proportion of the amount made available under that subsection for fiscal year 2001, relative to the total amount appropriated to carry out this section for fiscal year 2001.
 
 #### (3) Funding report
 
@@ -790,7 +790,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (d)(1)(E), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means the Federal Credit Reform Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX\(§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (k)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
@@ -862,7 +862,7 @@ Subsec. (r). Pub. L. 108–163, §2(a)(2)(F), redesignated subsec. (l) as (r).
 
 Pub. L. 108–163, §2(a)(1)(C), amended subsec. (r) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment note below.
 
-Subsec. (r)(1). Pub. L. 108–163, §2(a)(2)(J)(i), substituted "$1,340,000,000 for fiscal year 2002 and such sums as may be necessary for each of the fiscal years 2003 through 2006" for "$802,124,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001".
+Subsec. (r)(1). Pub. L. 108–163, §2(a)(2)(J)(i), substituted "$1,340,000,000 for fiscal year 2002 and suchsums as may be necessary for each of the fiscal years 2003 through 2006" for "$802,124,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001".
 
 Subsec. (r)(2)(A). Pub. L. 108–163, §2(a)(2)(J)(ii), substituted "(k)(3)" for "(j)(3)" and "(k)(3)(H)" for "(j)(3)(G)(ii)".
 
@@ -948,7 +948,7 @@ Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j)
 
 Subsecs. (n) to (p). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
-Subsec. (q). Pub. L. 107–251, §101(10), which directed the substitution of "(l)(3)(G)" for "(j)(3)(G)" in subsec. (q) "(as redesignated by paragraph (9)(B))", could not be executed.
+Subsec. (q). Pub. L. 107–251, §101(10), which directed the substitution of "(l)(3)(G)" for "(j)(3)(G)" in subsec.\(q) "(as redesignated by paragraph (9)(B))", could not be executed.
 
 Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
@@ -1022,7 +1022,7 @@ Target Date for Publication of Rule.—As part of the notice under subsection (b
 
 Appointment of Negotiated Rulemaking Committee and Facilitator.—The Secretary shall provide for—
 
-&emsp;"(1) the appointment of a negotiated rulemaking committee under section 565(a) of title 5, UnitedStates Code, by not later than 30 days after the end of the comment period provided for under section 564(c) of such title; and
+&emsp;"(1) the appointment of a negotiated rulemaking committee under section 565(a) of title 5, United States Code, by not later than 30 days after the end of the comment period provided for under section 564(c) of such title; and
 
 &emsp;"(2) the nomination of a facilitator under section 566(c) of such title 5 by not later than 10 days after the date of appointment of the committee.
 
@@ -1120,7 +1120,7 @@ Dissemination.—The Administrator of the Health Resources and Services Administ
 
 #### Guarantee Study
 
-Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, §2(n)(2), Dec. 6, 2003, 117 Stat. 2023, provided that: "The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act \[42 U.S.C. 254b\]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of theHealth Care Safety Net Amendments of 2002 \[Oct. 26, 2002\]."
+Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, §2(n)(2), Dec. 6, 2003, 117 Stat. 2023, provided that: "The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act \[42 U.S.C. 254b\]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of the Health Care Safety Net Amendments of 2002 \[Oct. 26, 2002\]."
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
@@ -1136,7 +1136,7 @@ Memorandum of President of the United States, Dec. 9, 2009, 74 F.R. 66207, provi
 
 Memorandum for the Secretary of Health And Human Services
 
-My Administration is committed to building a high-quality, efficient health care system and improving access to health care for all Americans. Health centers are a vital part of the health care delivery system. For more than 40 years, health centers have served populations with limited access to health care, treating all patients regardless of ability to pay. These include low-income populations, the uninsured, individuals with limited English proficiency, migrant and seasonal farm workers, individuals and families experiencing homelessness, and individuals living in public housing. There are over 1,100 health centers across the country, delivering care at over 7,500 sites. These centers served more than 17 million patients in 2008 and are estimated to serve more than 20 million patients in 2010.
+My Administration is committed to building a high-quality, efficient health care system and improving access to health care for all Americans. Health centers are a vital part of the health care delivery system. For more than 40 years, health centers have served populations with limited access to health care, treating all patients regardless of ability to pay. These include low-income populations, the uninsured, individuals with limited English proficiency, migrant and seasonal farm workers, individuals and families experiencing homelessness, and individuals living in public housing. Thereare over 1,100 health centers across the country, delivering care at over 7,500 sites. These centers served more than 17 million patients in 2008 and are estimated to serve more than 20 million patients in 2010.
 
 The American Recovery and Reinvestment Act of 2009 (Recovery Act) provided $2 billion for health centers, including $500 million to expand health centers' services to over 2 million new patients by opening new health center sites, adding new providers, and improving hours of operations. An additional $1.5 billion is supporting much-needed capital improvements, including funding to buy equipment, modernize clinic facilities, expand into new facilities, and adopt or expand the use of health information technology and electronic health records.
 

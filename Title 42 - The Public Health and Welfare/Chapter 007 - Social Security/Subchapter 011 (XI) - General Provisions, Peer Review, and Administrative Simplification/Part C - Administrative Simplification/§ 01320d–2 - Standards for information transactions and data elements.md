@@ -346,13 +346,13 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (3) Penalty fee report
 
-&emsp;Not later than May 1, 2014, and annually thereafter, the Secretary shall provide theSecretary of the Treasury with a report identifying those health plans that have been assessed a penalty fee under this subsection.
+&emsp;Not later than May 1, 2014, and annually thereafter, the Secretary shall provide the Secretary of the Treasury with a report identifying those health plans that have been assessed a penalty fee under this subsection.
 
 #### (4) Collection of penalty fee
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury, acting through the Financial Management Service, shall administer the collection of penalty fees from health plans that have been identified by the Secretary in the penalty fee report provided under paragraph (3).
+&emsp;&emsp;The Secretary of the Treasury, acting through the Financial Management Service, shall administer the collection of penaltyfees from health plans that have been identified by the Secretary in the penalty fee report provided under paragraph (3).
 
 #### (B) Notice
 
@@ -397,6 +397,10 @@ Subsec. (a)(4). Pub. L. 111–148, §1104(b)(2)(B), added par. (4).
 Subsec. (a)(5). Pub. L. 111–148, §10109(a)(1)(B), added par. (5).
 
 Subsecs. (g) to (j). Pub. L. 111–148, §1104(b)(2)(C), added subsecs. (g) to (j).
+
+#### Delay in Transition From ICD–9 to ICD–10 Code Sets
+
+Pub. L. 113–93, title II, §212, Apr. 1, 2014, 128 Stat. 1047, provided that: "The Secretary of Health and Human Services may not, prior to October 1, 2015, adopt ICD–10 code sets as the standard for code sets under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)) and section 162.1002 of title 45, Code of Federal Regulations."
 
 #### Promulgation of Rules
 

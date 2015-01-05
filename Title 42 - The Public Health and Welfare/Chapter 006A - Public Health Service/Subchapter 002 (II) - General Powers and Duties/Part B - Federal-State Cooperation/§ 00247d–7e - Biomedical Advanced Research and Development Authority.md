@@ -28,7 +28,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "advanced research and development" means, with respect to a product thatis or may become a qualified countermeasure or a qualified pandemic or epidemic product, activities that predominantly—
+&emsp;&emsp;The term "advanced research and development" means, with respect to a product that is or may become a qualified countermeasure or a qualified pandemic or epidemic product, activities that predominantly—
 
 &emsp;&emsp;&emsp;(i) are conducted after basic research and preclinical development of the product; and
 
@@ -184,7 +184,7 @@ In this section:
 
 #### (ii) Application of provisions
 
-&emsp;&emsp;&emsp;Provisions in such section 247d–6a of this title that apply to such authorities and that require institution of internal controls, limit review, provide for Federal Tort Claims Act coverage of personal services contractors, and commit decisions to the discretion of the Secretary shall apply to the authorities as exercised pursuant to this paragraph.
+&emsp;&emsp;&emsp;Provisions in such section 247d–6a of this title that apply to such authorities andthat require institution of internal controls, limit review, provide for Federal Tort Claims Act coverage of personal services contractors, and commit decisions to the discretion of the Secretary shall apply to the authorities as exercised pursuant to this paragraph.
 
 #### (iii) Authority to limit competition
 
@@ -232,7 +232,7 @@ In this section:
 
 #### (ii) Manner of exercise of authority
 
-&emsp;&emsp;&emsp;The authority provided for in this subparagraph shall be exercised subject to thesame limitations described in section 247d–6a(e)(2) of this title.
+&emsp;&emsp;&emsp;The authority provided for in this subparagraph shall be exercised subject to the same limitations described in section 247d–6a(e)(2) of this title.
 
 #### (iii) Term of appointment
 
@@ -312,7 +312,7 @@ Section 405 of the Pandemic and All-Hazards Preparedness Act, referred to in sub
 
 Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is section 845 of Pub. L. 103–160, which is set out as a note under section 2371 of Title 10, Armed Forces.
 
-The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

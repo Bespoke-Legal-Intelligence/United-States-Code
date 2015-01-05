@@ -38,5 +38,5 @@ A prior section 5000B, added Pub. L. 111–148, title IX, §9017(a), Mar. 23, 20
 
 #### Effective Date
 
-Pub. L. 111–148, title X, §10907(d), Mar. 23, 2010, 124 Stat. 1021, provided that: "The amendments made bythis section \[enacting this section\] shall apply to services performed on or after July 1, 2010."
+Pub. L. 111–148, title X, §10907(d), Mar. 23, 2010, 124 Stat. 1021, provided that: "The amendments made by this section \[enacting this section\] shall apply to services performed on or after July 1, 2010."
 

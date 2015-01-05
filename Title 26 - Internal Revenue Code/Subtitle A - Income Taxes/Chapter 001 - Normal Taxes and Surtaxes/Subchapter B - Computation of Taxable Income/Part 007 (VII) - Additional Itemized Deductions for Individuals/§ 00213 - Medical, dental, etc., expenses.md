@@ -82,7 +82,7 @@ In general.—The term "medical care" does not include cosmetic surgery or other
 
 &emsp;&emsp;(B)
 
-Cosmetic surgery defined.—For purposes of this paragraph, the term "cosmetic surgery" means any procedure which is directed at improving the patient's appearance and does not meaningfully promote the proper function of the body or prevent or treat illness or disease.
+Cosmetic surgery defined.—For purposes of this paragraph, the term "cosmeticsurgery" means any procedure which is directed at improving the patient's appearance and does not meaningfully promote the proper function of the body or prevent or treat illness or disease.
 
 &emsp;(10)
 
@@ -92,37 +92,15 @@ Eligible long-term care premiums.—
 
 In general.—For purposes of this section, the term "eligible long-term care premiums" means the amount paid during a taxable year for any qualified long-term care insurance contract (as defined in section 7702B(b)) covering an individual, to the extent such amount does not exceed the limitation determined under the following table:
 
-<b>  In the case of an individual</b>
+&nbsp;
 
-<b>   with an attained age before the</b>
-
-<b>The limitation</b>
-
-<b>   close of the taxable year of:</b>
-
-<b>is:   </b>
-
-&emsp;&emsp;&nbsp;40 or less
-
-$ 200&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;More than 40 but not more than 50
-
-375&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;More than 50 but not more than 60
-
-750&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;More than 60 but not more than 70
-
-2,000&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;More than 70
-
-2,500 .
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> In the case of an individual with an  attained age before the close of the  taxable year of:</b> | <b>The limitation is:</b> |
+| :--- | ---: |
+| 40 or less | $  200&nbsp;&nbsp; |
+| More than 40 but not more than 50 | 375&nbsp;&nbsp; |
+| More than 50 but not more than 60 | 750&nbsp;&nbsp; |
+| More than 60 but not more than 70 | 2,000&nbsp;&nbsp; |
+| More than 70 | 2,500. |
 
 &emsp;&emsp;(B)
 

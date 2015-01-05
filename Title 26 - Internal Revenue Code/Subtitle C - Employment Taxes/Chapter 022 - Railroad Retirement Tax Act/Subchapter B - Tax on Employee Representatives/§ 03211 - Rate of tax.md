@@ -6,27 +6,17 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 #### (b) Tier 2 tax
 
-#### (1) In general
-
-&emsp;In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representatives for services rendered by such employee representative.
-
-#### (2) Applicable percentage
-
-&emsp;For purposes of paragraph (1), the term "applicable percentage" means—
-
-&emsp;&emsp;(A) 14.75 percent in the case of compensation received during 2002,
-
-&emsp;&emsp;(B) 14.20 percent in the case of compensation received during 2003, and
-
-&emsp;&emsp;(C) in the case of compensation received during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the percentage determined under section 3241 for any calendar year of the compensation received during such calendar year by such employee representative for services rendered by such employee representative.
 
 #### (c) Cross reference
 
 &emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 432; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(c), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(2), 111(c)(2), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(b), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301 (b), (d), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §4, Mar. 17, 1970, 84 Stat. 70; Pub. L. 93–69, title I, §102(c), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §202, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(8), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(b), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(c), 223, Aug. 12, 1983, 97 Stat. 419, 421; Pub. L. 101–508, title V, §5125(b), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §§203(a), 204(b), Dec. 21, 2001, 115 Stat. 891.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 432; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(c), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(2), 111(c)(2), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(b), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301 (b), (d), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §4, Mar. 17, 1970, 84 Stat. 70; Pub. L. 93–69, title I, §102(c), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §202, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(8), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(b), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(c), 223, Aug. 12, 1983, 97 Stat. 419, 421; Pub. L. 101–508, title V, §5125(b), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §§203(a), 204(b), Dec. 21, 2001, 115 Stat. 891; Pub. L. 113–295, div. A, title II, §221(a)(100)(B), Dec. 19, 2014, 128 Stat. 4052.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–90, §204(b), added subsec. (a) and struck out former subsec. (a), which related to imposition of tier 1 and 2 taxes.
 
@@ -48,7 +38,7 @@ Pub. L. 98–76, §211(c), substituted "12.75 percent" for "11.75 percent".
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–93 inserted "in any calendar month" after "compensation paid".
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–69 substituted new tax rate provisions on income of employee representatives for services rendered after Sept. 30, 1973, for former provisions which prescribed 12½, 13, 14, 14½, and 15 percent on income for services rendered after Sept. 30, 1965, Dec. 31, 1965, Dec. 31, 1966, Dec. 31, 1967, and Dec. 31,1968, respectively, as is not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable "wages" as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965: <i>Provided</i>, That the rate of tax imposed by this section shall be increased, with respect to compensation paid for services rendered after September 30, 1965, by a number of percentage points (including fractional points) equal at any given time to twice the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) at such time exceeds 2¾ percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956).
+<b>1973</b>—Subsec. (a). Pub. L. 93–69 substituted new tax rate provisions on income of employee representatives for services rendered after Sept. 30, 1973, for former provisions which prescribed 12½, 13, 14, 14½, and 15 percent on income for services rendered after Sept. 30, 1965, Dec. 31, 1965, Dec. 31, 1966, Dec. 31, 1967, and Dec. 31, 1968, respectively, as is not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable "wages" as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965: <i>Provided</i>, That the rate of tax imposed by this section shall be increased, with respect to compensation paid for services rendered after September 30, 1965, by a number of percentage points (including fractional points) equal at any given time to twice the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) at such time exceeds 2¾ percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956).
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–215 substituted the rate of excise tax imposed on every employer under section 3221(c) of this title for a flat 2-cents per man hour tax as the rate for additional taxes imposed on the income of employee representatives for each man hour of compensation paid.
 
@@ -67,6 +57,10 @@ Pub. L. 89–97 substituted "the rate of the tax imposed with respect to wages b
 <b>1959</b>—Pub. L. 86–28 increased the tax from 12½ percent of the compensation not in excess of $350 for any calendar month to 13½ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 14½ percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after December 31, 1964, by a number of percentage points equal at any given time to twice the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 <b>1954</b>—Act Aug. 31, 1954, substituted "$350" for "$300".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -94,7 +88,7 @@ Amendment by Pub. L. 94–93 applicable for taxable years ending on or after Aug
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid for services rendered on or after Oct. 1, 1972; and applicable to railway labor organization covered by private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium, agreed to on or before Mar. 8, 1973, for changes in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid forservices rendered on or after Oct. 1, 1972; and applicable to railway labor organization covered by private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium, agreed to on or before Mar. 8, 1973, for changes in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -102,7 +96,7 @@ Pub. L. 89–699, title III, §301(f), Oct. 30, 1966, 80 Stat. 1079, as amended 
 
 #### Effective Date of 1965 Amendments
 
-Amendment by section 4 of Pub. L. 89–212 effective only with respect to calendar months after month inwhich Pub. L. 89–212 is enacted \[September 1965\], and amendment by section 5(b) of Pub. L. 89–212 effective only with respect to compensation paid for services rendered after Sept. 30, 1965, see section 6 of Pub. L. 89–212, set out as a note under section 3201 of this title.
+Amendment by section 4 of Pub. L. 89–212 effective only with respect to calendar months after month in which Pub. L. 89–212 is enacted \[September 1965\], and amendment by section 5(b) of Pub. L. 89–212 effective only with respect to compensation paid for services rendered after Sept. 30, 1965, see section 6 of Pub. L. 89–212, set out as a note under section 3201 of this title.
 
 Amendment by section 105(b)(2) of Pub. L. 89–97 effective with respect to compensation paid for services rendered after Dec. 31, 1965, see section 105(b)(4) of Pub. L. 89–97, set out as a note under section 3201 of this title.
 

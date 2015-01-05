@@ -10,7 +10,7 @@ As originally enacted, this section authorized reasonable charges against physic
 
 #### Amendments
 
-<b>1931</b>—Act Mar. 2, 1931, struck out provision that moneys received from the assessment and collection of feeswere to be used for the protection and improvement of the park.
+<b>1931</b>—Act Mar. 2, 1931, struck out provision that moneys received from the assessment and collection of fees were to be used for the protection and improvement of the park.
 
 #### Change of Name
 

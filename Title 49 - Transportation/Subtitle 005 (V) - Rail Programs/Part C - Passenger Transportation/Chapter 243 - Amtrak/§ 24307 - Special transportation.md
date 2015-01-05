@@ -112,5 +112,5 @@ Access improvements at certain shared stations.—Amtrak is responsible for its 
 
 "(2)
 
-Certain requirements not to apply until 1998.—Amtrak shall not be subject to any requirement undersubsection (a)(1), (a)(3), or (e)(2) of section 242 of the Americans With Disabilities Act of 1990 (42 U.S.C. 12162) until January 1, 1998."
+Certain requirements not to apply until 1998.—Amtrak shall not be subject to any requirement under subsection (a)(1), (a)(3), or (e)(2) of section 242 of the Americans With Disabilities Act of 1990 (42 U.S.C. 12162) until January 1, 1998."
 

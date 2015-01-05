@@ -22,7 +22,7 @@ A bank shall identify itself as a reconverting bank on any substitute check for 
 
 #### (e) Applicable law
 
-A substitute check that is the legal equivalent of the original check under subsection (b) shallbe subject to any provision, including any provision relating to the protection of customers, of part 229 of title 12 of the Code of Federal Regulations, the Uniform Commercial Code, and any other applicable Federal or State law as if such substitute check were the original check, to the extent such provision of law is not inconsistent with this chapter.
+A substitute check that is the legal equivalent of the original check under subsection (b) shall be subject to any provision, including any provision relating to the protection of customers, of part 229 of title 12 of the Code of Federal Regulations, the Uniform Commercial Code, and any other applicable Federal or State law as if such substitute check were the original check, to the extent such provision of law is not inconsistent with this chapter.
 
 (Pub. L. 108–100, §4, Oct. 28, 2003, 117 Stat. 1180.)
 

@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 &emsp;(7) the term "Secretary" means the Secretary of Housing and Urban Development.
 
-(Pub. L. 94–200, title III, §303, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 100–242, title V, §565(a)(1),Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, §1211(d), (e), Aug. 9, 1989, 103 Stat. 525; Pub. L. 111–203, title X, §1094(2), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 94–200, title III, §303, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 100–242, title V, §565(a)(1), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, §1211(d), (e), Aug. 9, 1989, 103 Stat. 525; Pub. L. 111–203, title X, §1094(2), July 21, 2010, 124 Stat. 2097.)
 
 #### Amendments
 

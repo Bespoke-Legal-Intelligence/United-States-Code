@@ -54,7 +54,7 @@ Pub. L. 110–291, §1, July 30, 2008, 122 Stat. 2915, provided that: "This Act 
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–59, title IV, §4201, Aug. 10, 2005, 119 Stat. 1751, provided that: "This subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, enacting sections 14710, 14711, and 14915 of this title, amending sections 13102, 13707, 13902, 14104, 14501, 14706, 14708, and 14901 of this title, and enacting provisions set out as notes under sections 13102, 14701, 14706, and 14710 of thistitle\] may be cited as the 'Household Goods Mover Oversight Enforcement and Reform Act of 2005'\[.\]"
+Pub. L. 109–59, title IV, §4201, Aug. 10, 2005, 119 Stat. 1751, provided that: "This subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, enacting sections 14710, 14711, and 14915 of this title, amending sections 13102, 13707, 13902, 14104, 14501, 14706, 14708, and 14901 of this title, and enacting provisions set out as notes under sections 13102, 14701, 14706, and 14710 of this title\] may be cited as the 'Household Goods Mover Oversight Enforcement and Reform Act of 2005'\[.\]"
 
 Pub. L. 109–59, title IV, §4301, Aug. 10, 2005, 119 Stat. 1761, provided that: "This subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, enacting sections 14504a and 14506 of this title, amending sections 13902, 13905, 13906, 13908, 31102, and 31103 of this title, repealing section 14504 of this title, and enacting provisions set out as notes under sections 13902 and 14504 of this title\] may be cited as the 'Unified Carrier Registration Act of 2005'."
 

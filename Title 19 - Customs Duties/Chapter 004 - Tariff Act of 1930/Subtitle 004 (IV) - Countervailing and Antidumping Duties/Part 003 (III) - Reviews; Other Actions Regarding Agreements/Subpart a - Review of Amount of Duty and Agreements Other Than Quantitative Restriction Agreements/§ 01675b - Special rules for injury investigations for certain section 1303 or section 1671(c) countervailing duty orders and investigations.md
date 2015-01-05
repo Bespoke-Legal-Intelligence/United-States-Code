@@ -60,7 +60,7 @@
 
 #### (B) Nature of subsidy
 
-&emsp;&emsp;The administering authority shall inform the Commission of, and the Commission, in making its determination under this section, shall consider, the nature of the countervailable subsidy and whether thecountervailable subsidy is a subsidy described in Article 3 or Article 6.1 of the Subsidies Agreement.
+&emsp;&emsp;The administering authority shall inform the Commission of, and the Commission, in making its determination under this section, shall consider, the nature of the countervailable subsidy and whether the countervailable subsidy is a subsidy described in Article 3 or Article 6.1 of the Subsidies Agreement.
 
 #### (3) Effect of Commission determination
 
@@ -120,7 +120,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 #### (2) Cumulation
 
-&emsp;If a review under section 1675(c) of this title is initiated under paragraph (1), such reviewshall be treated as having been initiated on the same day as the investigation under this section, and the Commission may, in accordance with section 1677(7)(G) of this title, cumulatively assess the volume and effect of imports of the subject merchandise from all countries with respect to which such investigations are treated as initiated on the same day.
+&emsp;If a review under section 1675(c) of this title is initiated under paragraph (1), such review shall be treated as having been initiated on the same day as the investigation under this section, and the Commission may, in accordance with section 1677(7)(G) of this title, cumulatively assess the volume and effect of imports of the subject merchandise from all countries with respect to which such investigations are treated as initiated on the same day.
 
 #### (3) Time and procedure for Commission determination
 

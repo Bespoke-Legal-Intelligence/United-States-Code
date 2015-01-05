@@ -36,7 +36,7 @@ Reimbursement may be provided under this section only for supplements served to 
 
 #### (d) Contents of supplements
 
-The requirements that apply to the content of meal supplements served under child care foodprograms operated with assistance under this chapter shall apply to the content of meal supplements served under programs operated with assistance under this section.
+The requirements that apply to the content of meal supplements served under child care food programs operated with assistance under this chapter shall apply to the content of meal supplements served under programs operated with assistance under this section.
 
 (June 4, 1946, ch. 281, §17A, as added Pub. L. 101–147, title I, §106(a), Nov. 10, 1989, 103 Stat. 885; amended Pub. L. 105–336, title I, §108, Oct. 31, 1998, 112 Stat. 3153.)
 

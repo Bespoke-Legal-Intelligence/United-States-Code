@@ -44,7 +44,7 @@ Any guarantee issued under this section may be assigned with the permission of t
 
 Section 693 of this title shall apply to the administration of this section.
 
-(Pub. L. 85–699, title IV, §404, as added Pub. L. 94–305, title I, §102, June 4, 1976, 90 Stat. 663;amended Pub. L. 98–473, title I, §115, Oct. 12, 1984, 98 Stat. 1967.)
+(Pub. L. 85–699, title IV, §404, as added Pub. L. 94–305, title I, §102, June 4, 1976, 90 Stat. 663; amended Pub. L. 98–473, title I, §115, Oct. 12, 1984, 98 Stat. 1967.)
 
 #### Amendments
 

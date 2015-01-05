@@ -10,7 +10,7 @@
 
 #### Transfer of Functions
 
-Section 2 of Ex. Ord. No. 6166, June 10, 1933, as amended by Ex. Ord. No. 6229, July 27, 1934; Ex. Ord. No. 6614,Feb. 26, 1934; Ex. Ord. No. 6690, Apr. 25, 1934, set out as a note to section 901 of Title 5, Government Organization and Employees, transferred all functions of administrator of certain historical national cemeteries located within the continental limits of the United States, including certain cemeteries administered by the War Department to the Director of National Parks, Buildings, and Reservations in the Department of the Interior.
+Section 2 of Ex. Ord. No. 6166, June 10, 1933, as amended by Ex. Ord. No. 6229, July 27, 1934; Ex. Ord. No. 6614, Feb. 26, 1934; Ex. Ord. No. 6690, Apr. 25, 1934, set out as a note to section 901 of Title 5, Government Organization and Employees, transferred all functions of administrator of certain historical national cemeteries located within the continental limits of the United States, including certain cemeteries administered by the War Department to the Director of National Parks, Buildings, and Reservations in the Department of the Interior.
 
 By Ex. Ord. No. 6228, July 28, 1933, also set out as a note to section 901 of Title 5, the operation of Executive Order No. 6166 as to the transfer of the specified national cemeteries was postponed until further order, except with regard to the following cemeteries located within the continental limits of the United States:
 

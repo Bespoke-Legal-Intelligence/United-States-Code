@@ -36,21 +36,21 @@ Sept. 28, 1959, Pub. L. 86–382, §14(a) (10th through 24th words of 1st senten
 
 Sept. 23, 1959, Pub. L. 86–379, §1, 73 Stat. 702.
 
-In subsection (a), the words “section 450d of title 7” are substituted for “this section” to reflect the scheduled transfer of former section 516b to title 7.
+In subsection (a), the words "section 450d of title 7" are substituted for "this section" to reflect the scheduled transfer of former section 516b to title 7.
 
-In subsection (c), the words “Notwithstanding any other law” were omitted as unnecessary.
+In subsection (c), the words "Notwithstanding any other law" were omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1998</b>—Subsecs. (b), (c). Pub. L. 105–206 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The position held by the employee appointed under section 7802(b) of the Internal Revenue Code of 1986 shall be considered a position classified above GS–15 pursuant to section 5108.”
+<b>1998</b>—Subsecs. (b), (c). Pub. L. 105–206 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The position held by the employee appointed under section 7802(b) of the Internal Revenue Code of 1986 shall be considered a position classified above GS–15 pursuant to section 5108."
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–272 added subsec. (c).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–509 substituted “shall be considered a position classified above GS–15 pursuant to section 5108” for “is classified at GS–18, and is in addition to the number of positions authorized by section 5108(a) of this title”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–509 substituted "shall be considered a position classified above GS–15 pursuant to section 5108" for "is classified at GS–18, and is in addition to the number of positions authorized by section 5108(a) of this title".
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 <b>1978</b>—Subsecs. (b), (c). Pub. L. 95–454, §906(b), redesignated subsec. (c) as (b). Former subsec. (b), which related to classification of position held by an employee appointed under section 1104(a)(2) of this title, was struck out.
 

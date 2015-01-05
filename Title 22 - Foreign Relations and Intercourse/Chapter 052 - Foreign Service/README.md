@@ -71,6 +71,8 @@
 | [3972\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003972%20-%20Special%20differentials.md) | Special differentials. |
 | [3973\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003973%20-%20Death%20gratuities.md) | Death gratuities. |
 | [3974\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003974%20-%20Border%20equalization%20pay%20adjustment.md) | Border equalization pay adjustment. |
+| [3975\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003975%20-%20Group%20life%20insurance%20supplement%20applicable%20to%20those%20killed%20in%20terrorist%20attacks.md) | Group life insurance supplement applicable to those killed in terrorist attacks. |
+| [3976\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003976%20-%20Survivors%27%20and%20dependents%27%20educational%20assistance.md) | Survivors' and dependents' educational assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

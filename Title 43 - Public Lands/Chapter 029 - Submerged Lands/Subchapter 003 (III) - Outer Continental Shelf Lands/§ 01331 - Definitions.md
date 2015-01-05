@@ -50,7 +50,7 @@ When used in this subchapter—
 
 &emsp;(5) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a);
 
-(o) The term "fair market value" means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
+(o) The term "fair market value" means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if therewere no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
 
 (p) The term "major Federal action" means any action or proposal by the Secretary which is subject to the provisions of section 4332(2)(C) of title 42; and
 
@@ -102,7 +102,7 @@ Functions of Secretary of the Interior to promulgate regulations under this subc
 
 #### Gulf of Mexico Energy Security
 
-Pub. L. 109–432, div. C, title I, Dec. 20, 2006, 120 Stat. 3000, provided that:
+Pub. L. 109–432, div. C, title I, Dec. 20, 2006, 120 Stat. 3000, as amended by Pub. L. 113–287, §5(l)(2), Dec. 19, 2014, 128 Stat. 3270, provided that:
 
 #### "SEC. 101. SHORT TITLE.
 
@@ -308,7 +308,7 @@ In General.—Notwithstanding section 9 of the Outer Continental Shelf Lands Act
 
 &emsp;&emsp;"(A) 75 percent to Gulf producing States in accordance with subsection (b); and
 
-&emsp;&emsp;"(B) 25 percent to provide financial assistance to States in accordance with section 6 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8), which shall be considered income to the Land and Water Conservation Fund for purposes of section 2 of that Act (16 U.S.C. 460l–5).
+&emsp;&emsp;"(B) 25 percent to provide financial assistance to States in accordance with section 200305 of title 54, United States Code, which shall be considered income to the Land and Water Conservation Fund for purposes of section 200302 of that title.
 
 "(b)
 
@@ -404,7 +404,7 @@ Administration.—Amounts made available under subsection (a)(2) shall—
 
 &emsp;&emsp;"(A) the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
 
-&emsp;&emsp;"(B) the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 et seq.); or
+&emsp;&emsp;"(B) chapter 2003 of title 54, United States Code; or
 
 &emsp;&emsp;"(C) any other provision of law.
 
@@ -427,6 +427,8 @@ Pro rata reductions.—If paragraph (1) limits the amount of qualified outer Con
 &emsp;&emsp;"(A) the Secretary shall reduce the amount of qualified outer Continental Shelf revenue provided to each recipient on a pro rata basis; and
 
 &emsp;&emsp;"(B) any remainder of the qualified outer Continental Shelf revenues shall revert to the general fund of the Treasury."
+
+\[Pub. L. 113–287, §5(l)(2)(A)(i), Dec. 19, 2014, 128 Stat. 3270, which directed substitution of "section 200305 of title 54, United States Code" for "section 6 of the Land And Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" in subsec. (a)(2)(B) of section 105 of the Gulf of Mexico Energy Security Act of 2006 (Public Law 109–432, div. C, title I), set out above, was executed by making the substitution for "section 6 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" to reflect the probable intent of Congress.\]
 
 \[The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.\]
 

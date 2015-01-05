@@ -22,7 +22,7 @@ The President is authorized to provide assistance to the independent states of t
 
 &emsp;&emsp;(D) the institution and improvement of public administration at the national, intergovernmental, regional, and local level;
 
-&emsp;&emsp;(E) development and support of grass-roots and nongovernmental organizations promoting democracy, the rule of law, transparency, and accountability in the political process, including grants in small amounts to such organizations;
+&emsp;&emsp;(E) development and support of grass-roots and nongovernmental organizations promoting democracy, the rule of law, transparency, and accountability in the politicalprocess, including grants in small amounts to such organizations;
 
 &emsp;&emsp;(F) international exchanges and other forms of public diplomacy to promote greater understanding on how democracy, the public policy process, market institutions, and an independent judiciary function in Western societies;
 
@@ -98,7 +98,7 @@ The President is authorized to provide assistance to the independent states of t
 
 &emsp;Enhancing the human and natural environment and conserving environmental resources, including through—
 
-&emsp;&emsp;(A) facilitation of the adoption of environmentally-sound policies and technologies, environmental restoration, and sustainable use of natural resources;
+&emsp;&emsp;(A) facilitation of the adoption of environmentally-sound policies and technologies,environmental restoration, and sustainable use of natural resources;
 
 &emsp;&emsp;(B) promotion of the provision of environmental technology, education, and training by United States businesses, not-for-profit organizations, and institutions of higher education; and
 
@@ -144,7 +144,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(1) Since the dissolution of the Soviet Union, the leadership of the Russian Federation has publicly committed itself to building—
 
-&emsp;&emsp;"(A) a society with democratic political institutions and practices, the observance of universallyrecognized standards of human rights, and religious and press freedom; and
+&emsp;&emsp;"(A) a society with democratic political institutions and practices, the observance of universally recognized standards of human rights, and religious and press freedom; and
 
 &emsp;&emsp;"(B) a market economy based on internationally accepted principles of transparency, accountability, and the rule of law.
 
@@ -218,7 +218,7 @@ Statement of Policy.—It shall be the policy of the United States—
 
 &emsp;"(6) to encourage the Government of the Russian Federation to address, in a cooperative and transparent manner consistent with internationally recognized and accepted principles, cross-border issues, including the nonproliferation of weapons of mass destruction, environmental degradation, crime, trafficking, and corruption;
 
-&emsp;"(7) to consult with the Government of the Russian Federation and the Russian Parliament on the adoption of economic and social reforms necessary to sustain Russian economic growth and to ensure Russia'stransition to a fully functioning market economy and membership in the World Trade Organization;
+&emsp;"(7) to consult with the Government of the Russian Federation and the Russian Parliament on the adoption of economic and social reforms necessary to sustain Russian economic growth and to ensure Russia's transition to a fully functioning market economy and membership in the World Trade Organization;
 
 &emsp;"(8) to persuade the Government of the Russian Federation to honor its commitments made to the Organization for Security and Cooperation in Europe (OSCE) at the November 1999 Istanbul Conference, and to conduct a genuine good neighbor policy toward the other independent states of the former Soviet Union in the spirit of internationally accepted principles of regional cooperation; and
 

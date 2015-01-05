@@ -39,7 +39,7 @@ Pub. L. 109–163, div. A, title V, §515(b)(4)(A), Jan. 6, 2006, 119 Stat. 3235
 
 <b>1992</b>—Pub. L. 102–484, div. A, title V, §505(b)(2), Oct. 23, 1992, 106 Stat. 2404, added item 5139.
 
-<b>1986</b>—Pub. L. 99–433, title V, §514(a)(1), (3), Oct. 1, 1986, 100 Stat. 1054, struck out "; OFFICE OF NAVAL RESEARCH" after "GENERAL" in chapter heading, struck out items 5150 "Office of Naval Research: Chief, appointment, term, emoluments; Assistant Chief; succession to duties", 5151 "Office of Naval Research: duties", 5152 "Office of Naval Research: appropriations;time limit", and 5153 "Naval Research Advisory Committee", and redesignated item 5155 as item 5150.
+<b>1986</b>—Pub. L. 99–433, title V, §514(a)(1), (3), Oct. 1, 1986, 100 Stat. 1054, struck out "; OFFICE OF NAVAL RESEARCH" after "GENERAL" in chapter heading, struck out items 5150 "Office of Naval Research: Chief, appointment, term, emoluments; Assistant Chief; succession to duties", 5151 "Office of Naval Research: duties", 5152 "Office of Naval Research: appropriations; time limit", and 5153 "Naval Research Advisory Committee", and redesignated item 5155 as item 5150.
 
 <b>1980</b>—Pub. L. 96–513, title V, §§503(8), 513(6), Dec. 12, 1980, 94 Stat. 2911, 2931, struck out items 5134 "Deputy Bureau Chiefs: pay", 5139 "Bureau of Medicine and Surgery: Medical Service Corps, Chief", 5140 "Bureau of Medicine and Surgery: Nurse Corps, Director", and 5143 "Bureau of Naval Personnel: Assistant Chief of Women", and added item 5155.
 

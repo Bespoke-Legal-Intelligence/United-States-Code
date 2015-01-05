@@ -56,7 +56,83 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated afterSept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+
+#### Pilot Program To Assist Members of the Armed Forces in Obtaining Post-Service Employment
+
+Pub. L. 113–291, div. A, title V, §555, Dec. 19, 2014, 128 Stat. 3379, provided that:
+
+"(a)
+
+Program Authorized.—The Secretary of Defense may conduct the program described in subsection (c) to enhance the efforts of the Department of Defense to provide job placement assistance and related employment services to eligible members of the Armed Forces described in subsection (b) for the purposes of—
+
+&emsp;"(1) assisting such members in obtaining post-service employment; and
+
+&emsp;"(2) reducing the amount of 'Unemployment Compensation for Ex-Servicemembers' that the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating pays into the Unemployment Trust Fund.
+
+"(b)
+
+Eligible Members.—Employment services provided under the program are limited to members of the Armed Forces, including members of the reserve components, who are being separated from the Armed Forces or released from active duty.
+
+"(c)
+
+Evaluation of Use of Civilian Employment Staffing Agencies.—
+
+&emsp;"(1)
+
+Program described.—The Secretary of Defense may execute a program to evaluate the feasibility and cost-effectiveness of utilizing the services of civilian employment staffing agencies to assist eligible members of the Armed Forces in obtaining post-service employment.
+
+&emsp;"(2)
+
+Program management.—To manage the program authorized by this subsection, the Secretary of Defense may select a civilian organization (in this section referred to as the 'program manager') whose principal members have experience—
+
+&emsp;&emsp;"(A) administering pay-for-performance programs; and
+
+&emsp;&emsp;"(B) within the employment staffing industry.
+
+&emsp;"(3)
+
+Exclusion.—The program manager may not be a staffing agency.
+
+"(d)
+
+Eligible Civilian Employment Staffing Agencies.—In consultation with the program manager if utilized under subsection (c)(2), the Secretary of Defense shall establish the eligibility requirements to be used for the selection of civilian employment staffing agencies to participate in the program. In establishing the eligibility requirements for the selection of the civilian employment staffing agencies, the Secretary of Defense shall also take into account civilian employment staffing agencies that are willing to work and consult with State and county Veterans Affairs offices and State National Guard offices, when appropriate.
+
+"(e)
+
+Payment of Staffing Agency Fees.—To encourage employers to employ an eligible member of the Armed Forces under the program if executed under this section, the Secretary of Defense shall pay a participating civilian employment staffing agency a portion of its agency fee (not to exceed 50 percent above the member's hourly wage). Payment of the agency fee will only be made after the member has been employed and paid by the private sector and the hours worked have been verified by the Secretary. The staffing agency shall be paid on a weekly basis only for hours the member worked, but not to exceed a total of 800 hours.
+
+"(f)
+
+Oversight Requirements.—In conducting the program, the Secretary of Defense shall establish—
+
+&emsp;"(1) program monitoring standards; and
+
+&emsp;"(2) reporting requirements, including the hourly wage for each eligible member of the Armed Forces obtaining employment under the program, the numbers of hours worked during the month, and the number of members who remained employed with the same employer after completing the first 800 hours of employment.
+
+"(g)
+
+Source and Limitation on Program Obligations.—Of the amounts authorized to be appropriated to the Secretary of Defense for operation and maintenance for each fiscal year during which the program under this section is authorized, not more than $35,000,000 may be used to carry out the program.
+
+"(h)
+
+Reporting Requirements.—
+
+&emsp;"(1)
+
+Report required.—If the Secretary of Defense executes the program under this section, the Secretary shall submit to the appropriate congressional committees a report describing the results of the program, particularly whether the program achieved the purposes specified in subsection (a). The report shall be submitted not later than January 15, 2019.
+
+&emsp;"(2)
+
+Comparison with other programs.—The report shall include a comparison of the results of the program conducted under this section and the results of other employment assistant programs utilized by theDepartment of Defense. The comparison shall include the number of members of the Armed Forces obtaining employment through each program and the cost to the Department per member.
+
+&emsp;"(3)
+
+Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+
+"(i)
+
+Duration of Authority.—The authority of the Secretary of Defense to carry out programs under this section expires on September 30, 2018."
 
 #### Department of Defense Pilot Program on Work Experience for Members of the Armed Forces on Terminal Leave
 
@@ -132,7 +208,7 @@ Use of Assistance.—A member of the Armed Forces who is selected to participate
 
 "(f)
 
-Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\]. Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
+Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of thecosts to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\]. Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
 
 "(g)
 
@@ -226,7 +302,7 @@ In General.—(1) To be eligible for participation in a program of job training 
 
 "(b)
 
-Application Process.—(1) An eligible person who desires to participate in a program of job trainingunder this subtitle shall submit to the implementing official an application for participation in such a program. Such an application—
+Application Process.—(1) An eligible person who desires to participate in a program of job training under this subtitle shall submit to the implementing official an application for participation in such a program. Such an application—
 
 &emsp;"(A) shall include a certification by the eligible person that the eligible person meets the criteria for eligibility prescribed by subparagraph (A), (B), or (C) of subsection (a)(1);
 
@@ -388,7 +464,7 @@ Limitations.—(1) Payment may not be made to an employer for a period of traini
 
 &emsp;"(B) from the employer, a certification—
 
-&emsp;&emsp;"(i) that the eligible person was employed by the employer during that period and that the eligibleperson's performance and progress during such period were satisfactory; and
+&emsp;&emsp;"(i) that the eligible person was employed by the employer during that period and that the eligible person's performance and progress during such period were satisfactory; and
 
 &emsp;&emsp;"(ii) of the number of hours worked by the eligible person during that period.
 
@@ -456,7 +532,7 @@ Veterans Education Programs.—(1) Assistance may not be paid under this subtitl
 
 "(b)
 
-Other Training and Employment.—Assistance may not be paid under this subtitle to an employer onbehalf of an eligible person for any period if the employer receives for that period any other form of assistance on account of the training or employment of the eligible person, including assistance under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or a credit under section 51 of the Internal Revenue Code of 1986 \[26 U.S.C. 51\] (relating to credit for employment of certain new employees).
+Other Training and Employment.—Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period if the employer receives for that period any other form of assistance on account of the training or employment of the eligible person, including assistance under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or a credit under section 51 of the Internal Revenue Code of 1986 \[26 U.S.C. 51\] (relating to credit for employment of certain new employees).
 
 "(c)
 

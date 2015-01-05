@@ -58,7 +58,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 #### (2) Existing task force
 
-&emsp;As determined by the Secretary, a State commission or task force established afterJanuary 1, 1983, with substantially comparable membership and functions, may be considered the State task force for purposes of this subsection.
+&emsp;As determined by the Secretary, a State commission or task force established after January 1, 1983, with substantially comparable membership and functions, may be considered the State task force for purposes of this subsection.
 
 #### (d) State task force study
 

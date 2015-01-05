@@ -24,13 +24,13 @@ Section was formerly classified to section 130a of this title prior to editorial
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 designated existing provisions as subsec. (a), in par. (1) substituted “Chief Administrative Officer” for “Clerk”, in provisions following par. (2) substituted “the purposes of the provisions of law specified in subsection (b), if the award” for “the purposes of—
+<b>1996</b>—Pub. L. 104–186 designated existing provisions as subsec. (a), in par. (1) substituted "Chief Administrative Officer" for "Clerk", in provisions following par. (2) substituted "the purposes of the provisions of law specified in subsection (b), if the award" for "the purposes of—
 
-&emsp;“(A) subchapter III (relating to civil service retirement) of chapter 83 of title 5,
+&emsp;"(A) subchapter III (relating to civil service retirement) of chapter 83 of title 5,
 
-&emsp;“(B) chapter 87 (relating to Federal employees group life insurance) of title 5, and
+&emsp;"(B) chapter 87 (relating to Federal employees group life insurance) of title 5, and
 
-&emsp;“(C) chapter 89 (relating to Federal employees group health insurance) of title 5,
+&emsp;"(C) chapter 89 (relating to Federal employees group health insurance) of title 5,
 
-> if the award”, “Chief Administrative Officer of the House of Representatives, as appropriate” for “Clerk of the House of Representatives, as appropriate”, and “Chief Administrative Officer of the House of Representatives by records” for “Clerk of the House by records”, and added subsec. (b).
+> if the award", "Chief Administrative Officer of the House of Representatives, as appropriate" for "Clerk of the House of Representatives, as appropriate", and "Chief Administrative Officer of the House of Representatives by records" for "Clerk of the House by records", and added subsec. (b).
 

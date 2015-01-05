@@ -28,7 +28,7 @@ Federal Share.—The Federal share of the cost of a project payable under this s
 
 (e)
 
-Statutory Construction.—Notwithstanding any other provision of law, the eligibility of an eligible debt financing instrument for reimbursement under subsection (b) shall not—
+Statutory Construction.—Notwithstanding any other provision of law, the eligibility ofan eligible debt financing instrument for reimbursement under subsection (b) shall not—
 
 &emsp;(1) constitute a commitment, guarantee, or obligation on the part of the United States to provide for payment of principal or interest on the eligible debt financing instrument; or
 

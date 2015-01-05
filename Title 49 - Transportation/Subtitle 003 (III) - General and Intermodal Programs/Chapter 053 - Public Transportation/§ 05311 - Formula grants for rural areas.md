@@ -92,9 +92,9 @@ Apportionments.—
 
 Public transportation on indian reservations.—Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
 
-&emsp;&emsp;(A) $5,000,000 shall be distributed on a competitive basis by the Secretary.
+&emsp;&emsp;(A) $5,000,000 for each fiscal year ending before October 1, 2014, and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be distributed on a competitive basis by the Secretary.
 
-&emsp;&emsp;(B) $25,000,000 shall be apportioned as formula grants, as provided in subsection (j).
+&emsp;&emsp;(B) $25,000,000 for each fiscal year ending before October 1, 2014, and $16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be apportioned as formula grants, as provided in subsection (j).
 
 &emsp;(2)
 
@@ -174,7 +174,7 @@ Vehicle revenue miles.—Subject to clause (v), each State shall receive an amou
 
 &emsp;&emsp;&emsp;(iv)
 
-Low-income individuals.—Each State shall receive an amount that is equal to 40.64 percent of the amount apportioned under clause (i), multiplied by the ratio of low-income individuals in ruralareas in that State and divided by the number of low-income individuals in all rural areas in the United States, as shown by the Bureau of the Census.
+Low-income individuals.—Each State shall receive an amount that is equal to 40.64 percent of the amount apportioned under clause (i), multiplied by the ratio of low-income individuals in rural areas in that State and divided by the number of low-income individuals in all rural areas in the United States, as shown by the Bureau of the Census.
 
 &emsp;&emsp;&emsp;(v)
 
@@ -276,7 +276,7 @@ In general.—Section 5333(b) applies to this section if the Secretary of Labor 
 
 &emsp;(2)
 
-Rule of construction.—This subsection does not affect or discharge a responsibility ofthe Secretary of Transportation under a law of the United States.
+Rule of construction.—This subsection does not affect or discharge a responsibility of the Secretary of Transportation under a law of the United States.
 
 (j)
 
@@ -312,7 +312,7 @@ Low-income individuals.—For purposes of subparagraph (A)(iii), the term "low-i
 
 Non-tribal service providers.—A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351; Pub. L. 112–102, title III, §304, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §304, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20010, div. G, title III, §113004, July 6, 2012, 126 Stat. 680, 985.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351; Pub. L. 112–102, title III, §304, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §304, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20010, div. G,title III, §113004, July 6, 2012, 126 Stat. 680, 985; Pub. L. 113–159, title I, §1201, Aug. 8, 2014, 128 Stat. 1845.)
 
 Historical and Revision Notes
 
@@ -433,6 +433,10 @@ In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as u
 Section 204 of title 23, referred to in subsec. (g)(3)(C), was repealed and a new section 204 was enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489. As enacted by Pub. L. 112–141, section 204 relates to the Federal lands access program.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1)(A). Pub. L. 113–159, §1201(1), inserted "for each fiscal year ending before October 1, 2014, and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be distributed".
+
+Subsec. (c)(1)(B). Pub. L. 113–159, §1201(2), inserted "for each fiscal year ending before October 1, 2014, and $16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be apportioned".
 
 <b>2012</b>—Pub. L. 112–141, §20010, amended section generally. Prior to amendment, section related to formula grants for other than urbanized areas.
 

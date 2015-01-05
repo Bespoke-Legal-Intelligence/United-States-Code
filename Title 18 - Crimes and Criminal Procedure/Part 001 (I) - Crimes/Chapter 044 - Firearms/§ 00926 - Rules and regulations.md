@@ -10,7 +10,7 @@
 
 > No such rule or regulation prescribed after the date of the enactment of the Firearms Owners' Protection Act may require that records required to be maintained under this chapter or any portion of the contents of such records, be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or any political subdivision thereof, nor that any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established. Nothing in this section expands or restricts the Secretary's <sup>1</sup> authority to inquire into the disposition of any firearm in the course of a criminal investigation.
 
-(b) The Attorney General shall give not less than ninety days public notice, and shall afford interested parties opportunity for hearing, before prescribing such rules and regulations.
+(b) The Attorney General shall give not less than ninety days public notice, and shall affordinterested parties opportunity for hearing, before prescribing such rules and regulations.
 
 (c) The Attorney General shall not prescribe rules or regulations that require purchasers of black powder under the exemption provided in section 845(a)(5) of this title to complete affidavits or forms attesting to that exemption.
 

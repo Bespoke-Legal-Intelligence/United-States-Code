@@ -40,13 +40,13 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 &emsp;&emsp;&emsp;(i) If the annual production of a region is greater than 110,000,000 pounds, but less than or equal to 180,000,000 pounds, the region shall be represented by 1 additional member.
 
-&emsp;&emsp;&emsp;(ii) If the annual production of a region is greater than 180,000,000 pounds, but lessthan or equal to 260,000,000 pounds, the region shall be represented by 2 additional members.
+&emsp;&emsp;&emsp;(ii) If the annual production of a region is greater than 180,000,000 pounds, but less than or equal to 260,000,000 pounds, the region shall be represented by 2 additional members.
 
 &emsp;&emsp;&emsp;(iii) If the annual production of a region is greater than 260,000,000 pounds, the region shall be represented by 3 additional members.
 
 #### (F) Average annual production
 
-&emsp;&emsp;For purposes of this paragraph, in determining average annual mushroom production in each of the 4 regions of the United States established under this paragraph, the Secretary shall only consider mushrooms produced by producers covered by this chapter, as defined in section 6102(11) of this title.
+&emsp;&emsp;For purposes of this paragraph, in determining average annual mushroom production in each of the 4 regions of the UnitedStates established under this paragraph, the Secretary shall only consider mushrooms produced by producers covered by this chapter, as defined in section 6102(11) of this title.
 
 #### (G) Failure to nominate
 
@@ -72,7 +72,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 &emsp;(3) to appoint members of the Council to serve on an executive committee;
 
-&emsp;(4) to propose, receive, evaluate, approve and submit to the Secretary for approval under subsection (d) of this section budgets, plans, and projects of mushroom promotion, research, consumer information, and industry information, as well as to contract and enter into agreements with appropriate persons to implement such plans or projects;
+&emsp;(4) to propose, receive, evaluate, approve and submit to the Secretary for approval under subsection (d) budgets, plans, and projects of mushroom promotion, research, consumer information, and industry information, as well as to contract and enter into agreements with appropriate persons to implement such plans or projects;
 
 &emsp;(5) to develop and propose to the Secretary voluntary quality and grade standards for mushrooms;
 
@@ -216,7 +216,7 @@ The order shall prohibit any funds received by the Council under the order from 
 
 #### (B) Penalty
 
-&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to afine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
+&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
 
 #### (5) Withholding information
 
@@ -224,7 +224,7 @@ The order shall prohibit any funds received by the Council under the order from 
 
 #### (j) Other terms and conditions
 
-The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g) of this section.
+The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g).
 
 (Pub. L. 101–624, title XIX, §1925, Nov. 28, 1990, 104 Stat. 3857; Pub. L. 102–237, title VIII, §803(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 110–234, title X, §10104, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, §4(a), title X, §10104, June 18, 2008, 122 Stat. 1664, 2097.)
 

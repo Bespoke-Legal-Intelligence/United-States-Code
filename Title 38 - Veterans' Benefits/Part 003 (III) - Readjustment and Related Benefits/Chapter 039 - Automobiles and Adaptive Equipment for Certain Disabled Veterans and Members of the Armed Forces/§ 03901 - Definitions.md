@@ -10,7 +10,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(ii) The loss or permanent loss of use of one or both hands.
 
-&emsp;&emsp;(iii) The permanent impairment of vision of both eyes of the following status: central visual acuity of 20/200 or less in the better eye, with corrective glasses, or central visual acuity of more than 20/200 if there is a field defect in which the peripheral field has contracted to such an extent that the widest diameter of visual field subtends an angular distance no greater than twenty degrees in the better eye.
+&emsp;&emsp;(iii) The permanent impairment of vision of both eyes of the following status: central visual acuity of 20/200 or less in the better eye, with corrective glasses, or central visual acuity of more than 20/200 if there is a field defect in which the peripheral field hascontracted to such an extent that the widest diameter of visual field subtends an angular distance no greater than twenty degrees in the better eye.
 
 &emsp;&emsp;(iv) A severe burn injury (as determined pursuant to regulations prescribed by the Secretary).
 

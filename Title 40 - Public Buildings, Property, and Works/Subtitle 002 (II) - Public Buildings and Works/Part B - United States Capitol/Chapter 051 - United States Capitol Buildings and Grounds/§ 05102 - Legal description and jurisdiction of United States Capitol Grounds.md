@@ -112,6 +112,58 @@ Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of
 
 Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1016(d)of Pub. L. 108–7, set out as a note under section 1961 of Title 2, The Congress.
 
+#### Authorizing Commercial Activity on Union Square
+
+Pub. L. 113–76, div. I, title II, §213, Jan. 17, 2014, 128 Stat. 436, provided that:
+
+"(a)
+
+Treatment as Part of Capitol Grounds.—
+
+&emsp;"(1)
+
+In general.—For purposes of chapter 51 of title 40, United States Code, the United States Capitol Grounds shall include Union Square.
+
+&emsp;"(2)
+
+Union square defined.—In this section, the term 'Union Square' means the area for which jurisdiction and control was transferred to the Architect of the Capitol under section 1202 of the Legislative Branch Appropriations Act, 2012 (Public Law 112–74) \[2 U.S.C. 1811 note\].
+
+"(b)
+
+Continuation of Types of Activity Previously Authorized.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any limitations on the use of the United States Capitol Grounds (including section 5104(c) of title 40, United States Code), the Chief of the United States Capitol Police (hereafter referred to as the 'Chief')—
+
+&emsp;&emsp;"(A) may issue a permit authorizing a person to engage in commercial activity in Union Square if the activity is similar to the types of commercial activity permitted in Union Square prior to the transfer of jurisdiction and control of Union Square to the Architect of the Capitol under section 1202 of the Legislative Branch Appropriations Act, 2012 (Public Law 112–74) \[2 U.S.C. 1811 note\]; and
+
+&emsp;&emsp;"(B) under the terms and conditions of such a permit, may require the person to whom the permit is issued to pay a fee to cover any costs incurred by the Architect of the Capitol as a result of the issuance of the permit, if the fees are similar to the fees collected by the Director of the National Park Service for commercial activity permitted in Union Square prior to such transfer of jurisdiction and control.
+
+&emsp;"(2)
+
+Regulations.—The Chief shall carry out this section in accordance with such regulations as the Capitol Police Board may promulgate pursuant to the Board's authority under section 14 of the Act of July 31, 1946 (2 U.S.C. 1969), except that the Board shall promulgate the regulations in consultation with the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+
+"(c)
+
+Capitol Trust Account.—
+
+&emsp;"(1)
+
+Establishment.—There is established in the Treasury of the United States an account for the Architect of the Capitol to be known as the 'Capitol Trust Account', consisting of all fees collected by the Chief under subsection (b)(2).
+
+&emsp;"(2)
+
+Transfer.—Immediately upon receiving any fees collected under subsection (b)(2), the Chief shall transfer the fees to the Capitol Trust Account.
+
+&emsp;"(3)
+
+Use of funds.—Amounts in the Capitol Trust Account shall be available without fiscal year limitation for such maintenance, improvements, and projects with respect to Union Square as the Architect of the Capitol considers appropriate, subject to the approval of the Committees on Appropriations of the House of Representatives and Senate.
+
+"(d)
+
+Effective Date.—This section shall take effect on the date of the enactment of the Legislative Branch Appropriations Act, 2012 (Public Law 112–74) \[Dec. 23, 2011\]."
+
 #### Transfers and Conveyances Affecting Properties in the District of Columbia and General Provisions
 
 Pub. L. 109–396, title II, §§201, 204, title IV, §§401–407, Dec. 15, 2006, 120 Stat. 2713, 2715, 2718–2720, provided that:
@@ -168,7 +220,7 @@ In general.—Administrative jurisdiction over the parcel bounded by 2nd Street 
 
 &emsp;&emsp;"(B)
 
-Retention of jurisdiction over subsurface area.—The District of Columbia shall retain administrative jurisdiction over the subsurface area beneath the parcel referred to in subparagraph (A) for the tunnel, walls, footings, and related facilities.
+Retention of jurisdiction over subsurface area.—The District of Columbia shall retain administrative jurisdiction over the subsurface areabeneath the parcel referred to in subparagraph (A) for the tunnel, walls, footings, and related facilities.
 
 "(b)
 
@@ -270,7 +322,7 @@ Sunset.—This section shall expire 10 years after the date of enactment of this
 
 #### "SEC. 407. DEADLINE FOR PROVISION OF DEEDS AND RELATED DOCUMENTS.
 
-"With respect to each property conveyed under this Act or any amendment made by this Act, the Mayor of the District of Columbia, the Administrator, or the Secretary (as the case may be) shall execute and deliver a quitclaim deed or prepare and record a transfer plat, as appropriate, not later than 6 months after the property is conveyed."
+"With respect to each property conveyed under this Act or any amendment made by this Act, the Mayor of the District of Columbia, the Administrator, or theSecretary (as the case may be) shall execute and deliver a quitclaim deed or prepare and record a transfer plat, as appropriate, not later than 6 months after the property is conveyed."
 
 #### Changes in United States Capitol Grounds
 
@@ -468,7 +520,7 @@ Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: "That section 1 o
 
 "(22) all that area contiguous to, and surrounding, square numbered 581 from the property line thereof to the contiguous curb."
 
-Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective Jan. 2, 1975, \[title IV of Pub. L. 93–198 having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974\], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of Pub. L. 93–198 to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
+Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective Jan. 2, 1975, \[title IV of Pub. L. 93–198 having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974\], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusionof such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of Pub. L. 93–198 to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
 
 #### Jurisdiction of the Capitol Police Board and the Architect of the Capitol
 
@@ -514,7 +566,7 @@ WHEREAS, under authority of Section 1202 of Public Law 24, 84th Congress (69 Sta
 
 WHEREAS, under the aforesaid authority, the Architect of the Capitol, at the direction of the Commission, acquired in 1965 on behalf of the United States, through transfer from the Redevelopment Land Agency, Square 639, also located south of Independence Avenue, for an addition to the United States Capitol Grounds;
 
-WHEREAS, the aforesaid eight squares are identified and bound as follows: <i>Square 635</i>, bounded on the north by Independence Avenue, on the east by Delaware Avenue, on the west by First Street, on the south by C Street; <i>Square 637</i>, bounded on the north by C Street, on the east by South Capitol Street, on the west by Delaware Avenue, on the south by D Street; <i>Square South of 635</i>, bounded on the north by C Street, on the east by Delaware Avenue, on the west and south by Canal Street; <i>Square 691</i>, bounded on the north by C Street, on the east by New Jersey Avenue, on the west by South Capitol Street, on the south by D Street; <i>Square 692</i>, bounded on the north by C Street, on the east by First Street, on the west by New Jersey Avenue, on the south by D Street; <i>Square 732 north</i>, bounded on the north by Independence Avenue, on the east by Second Street, on the west by First Street, on the south by Carroll Street; <i>Square 732 south</i>, bounded on the north by Carroll Street, on the east by Second Street, on the west by First Street, on the south by C Street; and <i>Square 639</i>, bounded on the north by D Street, on the east by South Capitol Street, on the west and south by Canal Street;
+WHEREAS, the aforesaid eight squares are identified and bound as follows: <i>Square 635</i>, bounded on the north by Independence Avenue, on the east by Delaware Avenue, on the west by First Street, on the south by C Street; <i>Square 637</i>, bounded on the north by C Street, on the east by South Capitol Street, on the west by Delaware Avenue, on the south by D Street; <i>Square South of 635</i>, bounded on the north by C Street, on the east by Delaware Avenue, on the west and south by Canal Street; <i>Square 691</i>, bounded on the north by C Street, onthe east by New Jersey Avenue, on the west by South Capitol Street, on the south by D Street; <i>Square 692</i>, bounded on the north by C Street, on the east by First Street, on the west by New Jersey Avenue, on the south by D Street; <i>Square 732 north</i>, bounded on the north by Independence Avenue, on the east by Second Street, on the west by First Street, on the south by Carroll Street; <i>Square 732 south</i>, bounded on the north by Carroll Street, on the east by Second Street, on the west by First Street, on the south by C Street; and <i>Square 639</i>, bounded on the north by D Street, on the east by South Capitol Street, on the west and south by Canal Street;
 
 WHEREAS, title to all real property in these 8 squares is now vested in fee simple absolute in the United States of America;
 
@@ -532,7 +584,7 @@ WHEREAS, Squares 732 north and south were acquired as an addition to the Capitol
 
 WHEREAS, the aforesaid Additional House Office Building Act provides, in pertinent part, with respect to these properties, as follows:
 
-&emsp;"\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made availablefor the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled 'An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (40 U.S.C., secs. 193a—193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) \[now 2 U.S.C. 2001\]."
+&emsp;"\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled 'An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (40 U.S.C., secs. 193a—193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) \[now 2 U.S.C. 2001\]."
 
 NOW, THEREFORE, in formal compliance with the aforecited provisions of the Additional House Office Building Act, the House Office Building Commission, in confirmation of actions heretofore taken by the Commission, hereby orders:
 

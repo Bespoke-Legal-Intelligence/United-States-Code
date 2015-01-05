@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 #### (1) Cave
 
-&emsp;The term "cave" means any naturally occurring void, cavity, recess, or system ofinterconnected passages which occurs beneath the surface of the earth or within a cliff or ledge (including any cave resource therein, but not including any vug, mine, tunnel, aqueduct, or other manmade excavation) and which is large enough to permit an individual to enter, whether or not the entrance is naturally formed or manmade. Such term shall include any natural pit, sinkhole, or other feature which is an extension of the entrance.
+&emsp;The term "cave" means any naturally occurring void, cavity, recess, or system of interconnected passages which occurs beneath the surface of the earth or within a cliff or ledge (including any cave resource therein, but not including any vug, mine, tunnel, aqueduct, or other manmade excavation) and which is large enough to permit an individual to enter, whether or not the entrance is naturally formed or manmade. Such term shall include any natural pit, sinkhole, or other feature which is an extension of the entrance.
 
 #### (2) Federal lands
 

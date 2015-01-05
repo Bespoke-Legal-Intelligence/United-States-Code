@@ -4,7 +4,7 @@ Congress finds and declares that—
 
 &emsp;(a) there are pending before the United States District Court for the District of Rhode Island two consolidated actions that involve Indian claims to certain public and private lands within the town of Charlestown, Rhode Island;
 
-&emsp;(b) the pendency of these lawsuits has resulted in severe economic hardships for the residents of the town of Charlestown by clouding the titles to much of the land in the town, including lands not involved in the lawsuits;
+&emsp;(b) the pendency of these lawsuits has resulted in severe economic hardships for theresidents of the town of Charlestown by clouding the titles to much of the land in the town, including lands not involved in the lawsuits;
 
 &emsp;(c) the Congress shares with the State of Rhode Island and the parties to the lawsuits a desire to remove all clouds on titles resulting from such Indian land claims within the State of Rhode Island; and
 

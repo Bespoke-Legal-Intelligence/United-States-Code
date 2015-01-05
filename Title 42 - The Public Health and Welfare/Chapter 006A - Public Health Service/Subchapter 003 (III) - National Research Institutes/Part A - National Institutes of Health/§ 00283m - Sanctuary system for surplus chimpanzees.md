@@ -6,7 +6,7 @@ The Secretary shall provide for the establishment and operation in accordance wi
 
 #### (b) Administration of sanctuary system
 
-The Secretary shall carry out this section, including the establishment of regulations undersubsection (d) of this section, in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section (relating to the operation of the sanctuary system).
+The Secretary shall carry out this section, including the establishment of regulations under subsection (d) of this section, in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section (relating to the operation of the sanctuary system).
 
 #### (c) Acceptance of chimpanzees into system
 
@@ -66,7 +66,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 &emsp;&emsp;&emsp;(ii) Such a fee may not be imposed for accepting the chimpanzee if the chimpanzee is owned by an entity that operates a primate center, and if the chimpanzee is housed in the primate center pursuant to the program for regional centers for research on primates that is carried out by the Director of NIH, acting through the Office of the Director of NIH,.<sup>1</sup>
 
-> &emsp;&emsp;Any fees collected under this subparagraph are available to the Secretary for the costs of operating the system. Any other fees received by the Secretary for the long-term care of chimpanzees (including any Federalfees that are collected for such purpose and are identified in the report under section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act) are available for operating the system, in addition to availability for such other purposes as may be authorized for the use of the fees.
+> &emsp;&emsp;Any fees collected under this subparagraph are available to the Secretary for the costs of operating the system. Any other fees received by the Secretary for the long-term care of chimpanzees (including any Federal fees that are collected for such purpose and are identified in the report under section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act) are available for operating the system, in addition to availability for such other purposes as may be authorized for the use of the fees.
 
 &emsp;&emsp;(B) A provision that the Secretary may deny such chimpanzee acceptance into the system if the capacity of the system is not sufficient to accept the chimpanzee, taking into account the physical capacity of the system; the financial resources of the system; the number of individuals serving as the staff of the system, including the number of professional staff; the necessity of providing for the safety of the staff and of the public; the necessity of caring for accepted chimpanzees in accordance with the standards under paragraph (1); and such other factors as may be appropriate.
 
@@ -188,7 +188,7 @@ For purposes of this section:
 
 #### (2) Use of funds for other compliant facilities
 
-&emsp;With respect to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Secretary may use a portion of such amounts to make awards of grants or contracts to public or private entities operating facilities that, as determined by the Secretary in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d) of this section. Such an award may be expended for the expenses of operating the facilities involved.
+&emsp;With respect to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Secretary may use a portion of such amounts to make awards of grants or contracts to public or private entities operatingfacilities that, as determined by the Secretary in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d) of this section. Such an award may be expended for the expenses of operating the facilities involved.
 
 #### (3) Biennial report
 

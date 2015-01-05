@@ -30,7 +30,7 @@ Any entity specified in subsection (a) of this section shall establish, maintain
 
 &emsp;(A) disseminate its equal opportunity program to job applicants, employees, and those with whom it regularly does business;
 
-&emsp;(B) use minority organizations, organizations for women, media, educational institutions, and other potential sources of minorityand female applicants, to supply referrals whenever jobs are available in its operation;
+&emsp;(B) use minority organizations, organizations for women, media, educational institutions, and other potential sources of minority and female applicants, to supply referrals whenever jobs are available in its operation;
 
 &emsp;(C) evaluate its employment profile and job turnover against the availability of minorities and women in its franchise area;
 
@@ -86,7 +86,7 @@ Any entity specified in subsection (a) of this section shall establish, maintain
 
 (1) If the Commission finds after notice and hearing that the entity involved has willfully or repeatedly without good cause failed to comply with the requirements of this section, such failure shall constitute a substantial failure to comply with this subchapter. The failure to obtain certification under subsection (e) of this section shall not itself constitute the basis for a determination of substantial failure to comply with this title. For purposes of this paragraph, the term "repeatedly", when used with respect to failures to comply, refers to 3 or more failures during any 7-year period.
 
-(2) Any person who is determined by the Commission, through an investigation pursuant to subsection (e) of this section or otherwise, to have failed to meet or failed to make best efforts to meet the requirements of this section, or rules under this section, shall be liable to the United States for a forfeiture penalty of $500 for each violation. Each day of a continuing violation shall constitute a separate offense. Any entity defined in subsection (a) of this section shall not be liable for more than 180 days of forfeitures which accrued prior to notification by the Commission of a potential violation. Nothing in this paragraph shall limit the forfeiture imposed on any person as a result of any violation that continues subsequent to such notification. In addition, any person liable for such penalty may also have any license under this chapter for cable auxiliary relay service suspended until the Commission determines that the failure involved has been corrected. Whoever knowingly makes any false statement or submits documentation which he knows to be false, pursuant to an application for certification under this section shall be in violation of this section.
+(2) Any person who is determined by the Commission, through an investigation pursuant to subsection (e) of this section or otherwise, tohave failed to meet or failed to make best efforts to meet the requirements of this section, or rules under this section, shall be liable to the United States for a forfeiture penalty of $500 for each violation. Each day of a continuing violation shall constitute a separate offense. Any entity defined in subsection (a) of this section shall not be liable for more than 180 days of forfeitures which accrued prior to notification by the Commission of a potential violation. Nothing in this paragraph shall limit the forfeiture imposed on any person as a result of any violation that continues subsequent to such notification. In addition, any person liable for such penalty may also have any license under this chapter for cable auxiliary relay service suspended until the Commission determines that the failure involved has been corrected. Whoever knowingly makes any false statement or submits documentation which he knows to be false, pursuant to an application for certification under this section shall be in violation of this section.
 
 (3) The provisions of paragraphs (3) and (4), and the last 2 sentences of paragraph (2), of section 503(b) of this title shall apply to forfeitures under this subsection.
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section
 
 #### Effective Date
 
-Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) ofPub. L. 98–549, set out as a note under section 521 of this title.
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
 
 #### Congressional Findings: Employment of Women and Minorities in Management Positions in Television Industry
 

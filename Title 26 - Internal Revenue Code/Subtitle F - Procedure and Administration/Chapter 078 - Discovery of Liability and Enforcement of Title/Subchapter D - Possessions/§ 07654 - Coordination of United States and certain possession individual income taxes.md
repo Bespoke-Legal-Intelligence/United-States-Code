@@ -30,7 +30,7 @@ In addition to the amount determined under subsection (a), the United States sha
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to UnitedStates source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
+The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to United States source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 909; Pub. L. 92–606, §1(b), Oct. 31, 1972, 86 Stat. 1495; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§307(a)(16), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XII, §1276(a), Oct. 22, 1986, 100 Stat. 2599; Pub. L. 100–647, title I, §1012(y), Nov. 10, 1988, 102 Stat. 3530; Pub. L. 108–189, §2(d), Dec. 19, 2003, 117 Stat. 2866.)
 

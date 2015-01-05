@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(4) ensure that all loan, credit, guarantee, and grant documents and other agreements with borrowers include provisions for the financial resources and conditionality necessary to ensure that a person or country that obtains financial support from a bank complies with applicable bank policies and national and international laws in carrying out the terms and conditions of such documents and agreements, including bank policies and national and international laws pertaining to the comprehensive assessment and transparency of the activities related to access to information, public health, safety, and environmental protection;
 
-&emsp;(5) implement clear anti-corruption procedures setting forth the circumstances under which a person will be barred from receiving a loan, contract, grant, guarantee or credit from such bank, make such procedures available tothe public, and make the identity of such person available to the public;
+&emsp;(5) implement clear anti-corruption procedures setting forth the circumstances under which a person will be barred from receiving a loan, contract, grant, guarantee or credit from such bank, make such procedures available to the public, and make the identity of such person available to the public;
 
 &emsp;(6) coordinate policies across multilateral development banks on issues including debarment, cross-debarment, procurement guidelines, consultant guidelines, and fiduciary standards so that a person that is debarred by one such bank is subject to a rebuttable presumption of ineligibility to conduct business with any other such bank during the specific ineligibility period;
 

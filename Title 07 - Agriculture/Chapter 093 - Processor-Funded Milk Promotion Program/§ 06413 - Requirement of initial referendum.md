@@ -6,7 +6,7 @@ Within the 60-day period immediately preceding the effective date of an order is
 
 #### (b) Implementation
 
-If, as a result of the referendum conducted under subsection (a) of this section, the Secretary determines that implementation of the order is favored—
+If, as a result of the referendum conducted under subsection (a), the Secretary determines that implementation of the order is favored—
 
 &emsp;(1) by at least 50 percent of fluid milk processors voting in the referendum; and
 
@@ -34,7 +34,7 @@ The Secretary shall be reimbursed from any assessments collected by the Board fo
 
 #### (4) Notice
 
-&emsp;The Secretary shall notify all processors at least 30 days prior to a referendum conductedunder this chapter. The notice shall explain the procedure established under this subsection.
+&emsp;The Secretary shall notify all processors at least 30 days prior to a referendum conducted under this chapter. The notice shall explain the procedure established under this subsection.
 
 (Pub. L. 101–624, title XIX, §1999N, Nov. 28, 1990, 104 Stat. 3924; Pub. L. 104–127, title I, §146(d)(1), Apr. 4, 1996, 110 Stat. 919.)
 

@@ -1,6 +1,6 @@
 ### §92. Secretary; general powers
 
-For the purpose of executing the duties and functions of the Coast Guard the Secretary may within the limits of appropriations made therefor:
+For the purpose of executing the duties and functions of the Coast Guard the Secretary maywithin the limits of appropriations made therefor:
 
 &emsp;(a) establish, change the limits of, consolidate, discontinue, and re-establish Coast Guard districts;
 
@@ -64,75 +64,11 @@ Subsec. (e). Act Oct. 31, 1951, §1(32), repealed subsec. (e) which empowered th
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Arctic Marine Shipping Assessment Implementation
 
-Pub. L. 111–281, title III, §307, Oct. 15, 2010, 124 Stat. 2927, provided that:
-
-"(a)
-
-Purpose.—The purpose of this section is to ensure safe and secure maritime shipping in the Arctic including the availability of aids to navigation, vessel escorts, spill response capability, and maritime search and rescue in the Arctic.
-
-"(b)
-
-International Maritime Organization Agreements.—To carry out the purpose of this section, the Secretary of the department in which the Coast Guard is operating is encouraged to enter into negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States, Russia, Canada, Iceland, Norway, and Denmark and other seafaring and Arctic nations to ensure, in the Arctic—
-
-&emsp;"(1) placement and maintenance of aids to navigation;
-
-&emsp;"(2) appropriate marine safety, tug, and salvage capabilities;
-
-&emsp;"(3) oil spill prevention and response capability;
-
-&emsp;"(4) maritime domain awareness, including long-range vessel tracking; and
-
-&emsp;"(5) search and rescue.
-
-"(c)
-
-Coordination by Committee on the Maritime Transportation System.—The Committee on the Maritime Transportation System established under a directive of the President in the Ocean Action Plan, issued December 17, 2004, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
-
-"(d)
-
-Agreements and Contracts.—The Secretary of the department in which the Coast Guard is operating may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
-
-"(e)
-
-Icebreaking.—The Secretary of the department in which the Coast Guard is operating shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
-
-"(f)
-
-Independent Ice Breaker Analyses.—
-
-&emsp;"(1)
-
-In general.—Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall require a nongovernmental, independent third party (other than the National Academy of Sciences) that has extensive experience in the analysis of military procurements, to—
-
-&emsp;&emsp;"(A) conduct a comparative cost-benefit analysis, taking into account future Coast Guard budget projections (which assume Coast Guard budget growth of no more than inflation) and other recapitalization needs, of—
-
-&emsp;&emsp;&emsp;"(i) rebuilding, renovating, or improving the existing fleet of polar icebreakers for operation by the Coast Guard;
-
-&emsp;&emsp;&emsp;"(ii) constructing new polar icebreakers for operation by the Coast Guard;
-
-&emsp;&emsp;&emsp;"(iii) construction of new polar icebreakers by the National Science Foundation for operation by the Foundation;
-
-&emsp;&emsp;&emsp;"(iv) rebuilding, renovating, or improving the existing fleet of polar icebreakers by the National Science Foundation for operation by the Foundation; and
-
-&emsp;&emsp;&emsp;"(v) any combination of the activities described in clause (i), (ii), (iii), or (iv) to carry out the missions of the Coast Guard and the National Science Foundation; and
-
-&emsp;&emsp;"(B) conduct a comprehensive analysis of the impact on all Coast Guard activities, including operations, maintenance, procurements, and end strength, of the acquisition of polar icebreakers described in subparagraph (A) by the Coast Guard or the National Science Foundation assuming that total Coast Guard funding will not increase more than the annual rate of inflation.
-
-&emsp;"(2)
-
-Report.—Not later than 1 year after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall submit a report containing the results of the analyses required under paragraph (1), together with recommendations the Commandant considers appropriate under section 93(a)(24) of title 14, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
-"(g)
-
-High-Latitude Study.—Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\] or the date of completion of the ongoing High-Latitude Study to assess polar icebreaking mission requirements for all Coast Guard missions including search and rescue, marine pollution response and prevention, fisheries enforcement, and maritime commerce, whichever occurs later, the Commandant of the Coast Guard shall submit a report containing the results of the study, together with recommendations the Commandant considers appropriate under section 93(a)(24) of title 14, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
-"(h)
-
-Arctic Definition.—In this section the term 'Arctic' has the same meaning as in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111)."
+Pub. L. 111–281, title III, §307, Oct. 15, 2010, 124 Stat. 2927, which related to encouragement of negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States and other seafaring and Arctic nations to ensure safe and secure maritime shipping in the Arctic, was repealed by Pub. L. 113–281, title V, §501(c), Dec. 18, 2014, 128 Stat. 3057.
 
 #### Conveyance of Coast Guard Vessels for Public Purposes
 
@@ -222,7 +158,7 @@ Pub. L. 104–324, title XI, §1127, Oct. 19, 1996, 110 Stat. 3983, provided tha
 
 "(a)
 
-Purchase of American-Made Equipment and Products.—It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act\[see Tables for classification\] should be American-made.
+Purchase of American-Made Equipment and Products.—It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act \[see Tables for classification\] should be American-made.
 
 "(b)
 

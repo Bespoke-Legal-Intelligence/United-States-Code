@@ -2,7 +2,7 @@
 
 (a)
 
-Assignment of Temporary Ratings.—(1) For the purpose of providing disability compensation under this chapter to veterans, the Secretary shall assign a temporary disability rating to a veteran as follows:
+Assignment of Temporary Ratings.—(1) For the purpose of providing disability compensation under this chapter to veterans, theSecretary shall assign a temporary disability rating to a veteran as follows:
 
 &emsp;(A) To a veteran who—
 
@@ -64,7 +64,7 @@ Construction.—Nothing in this section shall be construed to preclude the Secre
 
 #### Codification
 
-Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, §5(a),Aug. 6, 1991, 105 Stat. 406, section 356 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, which provided for a minimum rating for veterans with arrested tuberculosis, was repealed by Pub. L. 90–493, §4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
+Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, section 356 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, which provided for a minimum rating for veterans with arrested tuberculosis, was repealed by Pub. L. 90–493, §4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
 
 #### Effective Date
 

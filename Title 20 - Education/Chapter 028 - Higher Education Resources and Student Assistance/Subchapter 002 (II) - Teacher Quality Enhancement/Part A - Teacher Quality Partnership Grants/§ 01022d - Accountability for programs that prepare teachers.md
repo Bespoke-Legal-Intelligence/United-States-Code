@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;(ii) the average scaled score of individuals participating in such routes, or who have completed such routes during the two-year period preceding the first year for which the annual State report card is provided, who took each such assessment.
 
-&emsp;&emsp;(F) A description of the State's criteria for assessing the performance of teacher preparation programs within institutions of higher education in the State. Such criteria shall include indicators of the academic content knowledge and teaching skills of students enrolled in such programs.
+&emsp;&emsp;(F) A description of the State's criteria for assessing the performance of teacher preparation programs within institutions of higher education in the State. Such criteria shallinclude indicators of the academic content knowledge and teaching skills of students enrolled in such programs.
 
 &emsp;&emsp;(G) For each teacher preparation program in the State—
 

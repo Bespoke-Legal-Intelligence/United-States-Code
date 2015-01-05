@@ -8,7 +8,7 @@ To carry out this chapter, there are authorized to be appropriated $4,400,000 fo
 
 <b>1981</b>—Pub. L. 97–33 inserted provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1982, and such sums as might be necessary for any subsequent fiscal years.
 
-<b>1979</b>—Pub. L. 96–72 substituted provisions authorizing appropriations of $4,400,000 for fiscal year ending Sept. 30, 1980, and $4,500,000 for fiscal year ending Sept. 30, 1981, for provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1979.
+<b>1979</b>—Pub. L. 96–72 substituted provisions authorizing appropriations of $4,400,000 for fiscal year ending Sept. 30, 1980, and $4,500,000 for fiscal year ending Sept. 30,1981, for provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1979.
 
 <b>1978</b>—Pub. L. 95–381 increased authorization from $1,000,000 to $4,000,000, and struck out provisions authorizing appropriation of $1,000,000 for fiscal year ending Sept. 30, 1978.
 

@@ -14,7 +14,7 @@ Pursuant to their respective tribal resolutions, and in exchange for the benefit
 
 &emsp;&emsp;(B) any interest of the Indian Nations or the United States as trustee on their behalf in the Disclaimed Drybed Lands shall further be extinguished pursuant to the Trade and Intercourse Act of 1790, Act of July 22, 1790 (ch. 33, 1 Stat. 137), and all subsequent amendments thereto (as codified at 25 U.S.C. 177);
 
-&emsp;&emsp;(C) to the extent parties other than the Indian Nations have transferred interests in the Disclaimed Drybed Lands in violation of the Trade and Intercourse Act, Congressdoes hereby approve and ratify such transfers of interests in the Disclaimed Drybed Lands to the extent that such transfers otherwise are valid under law; and
+&emsp;&emsp;(C) to the extent parties other than the Indian Nations have transferred interests in the Disclaimed Drybed Lands in violation of the Trade and Intercourse Act, Congress does hereby approve and ratify such transfers of interests in the Disclaimed Drybed Lands to the extent that such transfers otherwise are valid under law; and
 
 &emsp;&emsp;(D) the Secretary is authorized to execute an appropriate document citing this subchapter, suitable for filing with the county clerks, or such other county official as appropriate, of those counties wherein the foregoing described lands are located, disclaiming any tribal or Federal interest on behalf of the Indian Nations in such Disclaimed Drybed Lands. The Secretary is authorized to file with the counties a plat or map of the disclaimed lands should the Secretary determine that such filing will clarify the extent of lands disclaimed. Such a plat or map may be filed regardless of whether the map or plat has been previously approved for filing, whether or not the map or plat has been filed, and regardless of whether the map or plat constitutes a final determination by the Secretary of the extent of the Indian Nations' original claim to the Disclaimed Drybed Lands. The disclaimer filed by the United States shall constitute a disclaimer of the Disclaimed Drybed Lands for purposes of the Trade and Intercourse Act (25 U.S.C. 177).
 
@@ -22,7 +22,7 @@ Pursuant to their respective tribal resolutions, and in exchange for the benefit
 
 &emsp;Notwithstanding any provision of this subchapter—
 
-&emsp;&emsp;(A) the Indian Nations do not relinquish any right, title, or interest in any lands which constitute the Wetbed Lands subject to the navigational servitude exercised by the United States on the Wetbed Lands. By virtue of the exercise of the navigational servitude, the United States shall not be liable to the Indian Nations for any loss they may have related to the minerals in the Wetbed Lands;
+&emsp;&emsp;(A) the Indian Nations do not relinquish any right, title, or interest in any landswhich constitute the Wetbed Lands subject to the navigational servitude exercised by the United States on the Wetbed Lands. By virtue of the exercise of the navigational servitude, the United States shall not be liable to the Indian Nations for any loss they may have related to the minerals in the Wetbed Lands;
 
 &emsp;&emsp;(B) no provision of this subchapter shall be construed to extinguish or convey any water rights of the Indian Nations in the Arkansas River or any other stream or the beneficial interests or title of any of the Indian Nations in and to lands held in trust by the United States on December 13, 2002, which lie above or below the mean high water mark of the Arkansas River, except for the Disclaimed Drybed Lands; and
 

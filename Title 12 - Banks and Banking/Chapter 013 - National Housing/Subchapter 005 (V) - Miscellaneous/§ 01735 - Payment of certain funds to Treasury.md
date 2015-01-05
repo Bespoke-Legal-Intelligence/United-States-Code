@@ -10,7 +10,7 @@ The following funds shall be deemed an indebtedness to the United States of the 
 
 > Payments to the Secretary of the Treasury under this section shall be made in such amounts and at such times as the Secretary determines, after consultations with the Secretary of the Treasury, that funds are available for that purpose, taking into consideration the continued solvency of the funds involved. All payments made pursuant to this section shall be covered into the Treasury as miscellaneous receipts.
 
-(June 27, 1934, ch. 847, title V, §516, as added June 30, 1953, ch. 170, §9, 67 Stat. 123; amended Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 98–479, title II, §204(a)(21), Oct. 17, 1984, 98 Stat. 2232.)
+(June 27, 1934, ch. 847, title V, §516, as added June 30, 1953, ch. 170, §9, 67 Stat. 123; amendedPub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 98–479, title II, §204(a)(21), Oct. 17, 1984, 98 Stat. 2232.)
 
 #### References in Text
 

@@ -11,6 +11,7 @@
 | [427\.](%C2%A7%2000427%20-%20Conflict%20Records%20Research%20Center.md) | Conflict Records Research Center. |
 | [428\.](%C2%A7%2000428%20-%20Defense%20industrial%20security.md) | Defense industrial security. |
 | [429\.](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md) | Appropriations for Defense intelligence elements: accounts for transfers; transfer authority. |
+| [430\.](%C2%A7%2000430%20-%20Tactical%20Exploitation%20of%20National%20Capabilities%20Executive%20Agent.md) | Tactical Exploitation of National Capabilities Executive Agent.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +49,8 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 
 <b>1987</b>—Pub. L. 100–180, div. A, title XII, §1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted "departments" for "department" in item 423.
 
+<i><sup>1</sup></i><i> Editorially supplied. Section 430 added by Pub. L. 113–291 without corresponding amendment of subchapter analysis.</i>
+
 
 ---
 
@@ -62,3 +65,4 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 - [&sect; 00427 - Conflict Records Research Center](%C2%A7%2000427%20-%20Conflict%20Records%20Research%20Center.md)
 - [&sect; 00428 - Defense industrial security](%C2%A7%2000428%20-%20Defense%20industrial%20security.md)
 - [&sect; 00429 - Appropriations for Defense intelligence elements accounts for transfers; transfer authority](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md)
+- [&sect; 00430 - Tactical Exploitation of National Capabilities Executive Agent](%C2%A7%2000430%20-%20Tactical%20Exploitation%20of%20National%20Capabilities%20Executive%20Agent.md)

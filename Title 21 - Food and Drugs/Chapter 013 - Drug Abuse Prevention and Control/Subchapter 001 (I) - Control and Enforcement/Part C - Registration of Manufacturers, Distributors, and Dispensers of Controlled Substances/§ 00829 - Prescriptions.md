@@ -32,7 +32,7 @@ Whenever it appears to the Attorney General that a drug not considered to be a p
 
 &emsp;(ii) Nothing in clause (i) shall be construed to imply that 1 in-person medical evaluation demonstrates that a prescription has been issued for a legitimate medical purpose within the usual course of professional practice.
 
-&emsp;(C) The term "covering practitioner" means, with respect to a patient, a practitioner whoconducts a medical evaluation (other than an in-person medical evaluation) at the request of a practitioner who—
+&emsp;(C) The term "covering practitioner" means, with respect to a patient, a practitioner who conducts a medical evaluation (other than an in-person medical evaluation) at the request of a practitioner who—
 
 &emsp;&emsp;(i) has conducted at least 1 in-person medical evaluation of the patient or an evaluation of the patient through the practice of telemedicine, within the previous 24 months; and
 

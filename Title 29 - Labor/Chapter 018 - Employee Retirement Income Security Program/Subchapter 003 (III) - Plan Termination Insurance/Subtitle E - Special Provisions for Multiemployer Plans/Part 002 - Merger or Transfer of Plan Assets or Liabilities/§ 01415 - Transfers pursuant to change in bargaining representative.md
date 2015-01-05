@@ -2,7 +2,7 @@
 
 #### (a) Authority to transfer from old plan to new plan pursuant to employee participation in another multiemployer plan after certified change of representative
 
-In any case in which an employer has completely or partially withdrawn from a multiemployer plan (hereafter in this section referred to as the "old plan") as a result of a certifiedchange of collective bargaining representative occurring after September 25, 1980, if participants of the old plan who are employed by the employer will, as a result of that change, participate in another multiemployer plan (hereafter in this section referred to as the "new plan"), the old plan shall transfer assets and liabilities to the new plan in accordance with this section.
+In any case in which an employer has completely or partially withdrawn from a multiemployer plan (hereafter in this section referred to as the "old plan") as a result of a certified change of collective bargaining representative occurring after September 25, 1980, if participants of the old plan who are employed by the employer will, as a result of that change, participate in another multiemployer plan (hereafter in this section referred to as the "new plan"), the old plan shall transfer assets and liabilities to the new plan in accordance with this section.
 
 #### (b) Notification by employer of plan sponsor of old plan; notification by plan sponsor of old plan of employer and plan sponsor of new plan; appeal by new plan to prevent transfer; further proceedings
 
@@ -58,9 +58,9 @@ In any case in which there is a complete or partial withdrawal described in subs
 
 (1) Notwithstanding subsection (b) of this section, the plan sponsor shall not transfer any assets to the new plan if—
 
-&emsp;(A) the old plan is in reorganization (within the meaning of section 1421(a) of this title), or
+&emsp;(A) the old plan is in reorganization (within the meaning of section 1421(a) <sup>1</sup> of this title), or
 
-&emsp;(B) the transfer of assets would cause the old plan to go into reorganization (within the meaning of section 1421(a) of this title).
+&emsp;(B) the transfer of assets would cause the old plan to go into reorganization (within the meaning of section 1421(a) <sup>1</sup> of this title).
 
 (2) In any case in which a transfer of assets from the old plan to the new plan is prohibited by paragraph (1), the plan sponsor of the old plan shall transfer—
 
@@ -90,6 +90,8 @@ For purposes of this section—
 
 #### References in Text
 
+Section 1421 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 113–235, div. O, title I, §108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
+
 The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
 The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
@@ -101,4 +103,6 @@ The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 3
 #### Effective Date
 
 Section effective Sept. 26, 1980, see section 1461(e)(4) of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

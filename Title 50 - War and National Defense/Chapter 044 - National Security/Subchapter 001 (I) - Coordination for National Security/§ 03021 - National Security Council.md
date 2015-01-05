@@ -18,13 +18,9 @@ The Council shall be composed of—
 
 &emsp;(4) the Secretary of Defense;
 
-&emsp;(5) the Secretary of Energy;
+&emsp;(5) the Secretary of Energy; and
 
-&emsp;(6) the Director for Mutual Security;
-
-&emsp;(7) the Chairman of the National Security Resources Board; and
-
-&emsp;(8) the Secretaries and Under Secretaries of other executive departments and of the military departments, the Chairman of the Munitions Board, and the Chairman of the Research and Development Board, when appointed by the President by and with the advice and consent of the Senate, to serve at his pleasure.
+&emsp;(6) the Secretaries and Under Secretaries of other executive departments and of the military departments, when appointed by the President by and with the advice and consent of the Senate, to serve at his pleasure.
 
 #### (b) Additional functions
 
@@ -142,7 +138,7 @@ It is the sense of the Congress that there should be within the staff of the Nat
 
 The United States Coordinator for the Prevention of Weapons of Mass Destruction Proliferation and Terrorism (or, in the Coordinator's absence, the Deputy United States Coordinator) may, in the performance of the Coordinator's duty as principal advisor to the President on all matters relating to the prevention of weapons of mass destruction proliferation and terrorism, and, subject to the direction of the President, attend and participate in meetings of the National Security Council and the Homeland Security Council.
 
-(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800; Pub. L. 108–458, title I, §§1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 110–53, title XVIII, §1841(g), Aug. 3, 2007, 121 Stat. 500; Pub. L. 110–140, title IX, §932, Dec. 19, 2007, 121 Stat. 1740.)
+(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800; Pub. L. 108–458, title I, §§1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 110–53, title XVIII, §1841(g), Aug. 3, 2007, 121 Stat. 500; Pub. L. 110–140, title IX, §932, Dec. 19, 2007, 121 Stat. 1740; Pub. L. 113–126, title VII, §702, July 7, 2014, 128 Stat. 1422.)
 
 #### References in Text
 
@@ -156,9 +152,15 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 In subsec. (c), provisions that specified compensation of $10,000 per year for the executive secretary to the Council were omitted. Section 304(b) of Pub. L. 88–426 amended section 105 of Title 3, The President, to include the executive secretary of the Council among those whose compensation was authorized to be fixed by the President. Section 1(a) of Pub. L. 95–570 further amended section 105 of Title 3 to authorize the President to appoint and fix the pay of the employees of the White House Office subject to certain provisions.
 
-In subsec. (c), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Actof 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(5) to (8). Pub. L. 113–126 substituted "; and" for semicolon at end of par. (5), redesignated par. (8) as (6) and struck out "the Chairman of the Munitions Board, and the Chairman of the Research and Development Board," after "military departments,", and struck out former pars. (6) and (7) which read as follows:
+
+"(6) the Director for Mutual Security;
+
+"(7) the Chairman of the National Security Resources Board; and".
 
 <b>2007</b>—Subsec. (a)(5) to (8). Pub. L. 110–140 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
@@ -228,7 +230,7 @@ Munitions Board, together with office of Chairman, abolished by section 2 of Reo
 
 Research and Development Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. Functions vested in Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
 
-National Security Council, together with its functions, records, property, personnel, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) transferred to Executive Office of President by Reorg. Plan No. 4 of 1949, eff. Aug. 20, 1949, 14 F.R. 5227, 63 Stat. 1067, set out in the Appendix to Title 5, Government Organization and Employees.
+National Security Council, together with its functions, records, property, personnel, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) transferred to Executive Office of President by Reorg. Plan No. 4 of 1949, eff. Aug. 20, 1949, 14 F.R. 5227, 63 Stat. 1067, set out inthe Appendix to Title 5, Government Organization and Employees.
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 
@@ -294,7 +296,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;(vi) ensure the readiness and coordinated deployment of Federal response teams to respond to terrorist threats or attacks, working with the Assistant to the President for National Security Affairs, when appropriate.
 
-(d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
+(d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. Inperforming this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
 
 &emsp;(i) facilitate the exchange of information among such agencies relating to immigration and visa matters and shipments of cargo; and, working with the Assistant to the President for National Security Affairs, ensure coordination among such agencies to prevent the entry of terrorists and terrorist materials and supplies into the United States and facilitate removal of such terrorists from the United States, when appropriate;
 
@@ -356,7 +358,7 @@ Sec. 5. <i>Establishment of Homeland Security Council.</i>
 
 (b) The Council shall have as its members the President, the Vice President, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Homeland Security, the Director of the Federal Emergency Management Agency, the Director of the Federal Bureau of Investigation, the Director of Central Intelligence, the Assistant to the President for Homeland Security, and such other officers of the executive branch as the President may from time to time designate. The Chief of Staff, the Chief of Staff to the Vice President, the Assistant to the President for National Security Affairs, the Counsel to the President, and the Director of the Office of Management and Budget also are invited to attend any Council meeting. The Secretary of State, the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Energy, the Secretary of Labor, the Secretary of Commerce, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall be invited to attend meetings pertaining to their responsibilities. The heads of other executive departments and agencies and other senior officials shall be invited to attend Council meetings when appropriate.
 
-(c) The Council shall meet at the President's direction. When the President is absent from a meeting of the Council, at the President's direction the Vice President may preside. The Assistant to the President forHomeland Security shall be responsible, at the President's direction, for determining the agenda, ensuring that necessary papers are prepared, and recording Council actions and Presidential decisions.
+(c) The Council shall meet at the President's direction. When the President is absent from a meeting of the Council, at the President's direction the Vice President may preside. The Assistant to the President for Homeland Security shall be responsible, at the President's direction, for determining the agenda, ensuring that necessary papers are prepared, and recording Council actions and Presidential decisions.
 
 Sec. 6. <i>Original Classification Authority</i>. I hereby delegate the authority to classify information originally as Top Secret, in accordance with Executive Order 12958 \[former 50 U.S.C. 3161 note\] or any successor Executive Order, to the Assistant to the President for Homeland Security.
 
@@ -377,4 +379,22 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Executive Order No. 13260
 
 Ex. Ord. No. 13260, Mar. 19, 2002, 67 F.R. 13241, as amended by Ex. Ord. No. 13286, §4, Feb. 28, 2003, 68 F.R. 10619, which established the President's Homeland Security Advisory Council and Senior Advisory Committees for Homeland Security, was revoked by Ex. Ord. No. 13286, §4, Feb. 28, 2003, 68 F.R. 10619, eff. Mar. 31, 2003.
+
+#### Ex. Ord. No. 13657. Changing the Name of the National Security Staff to the National Security Council Staff
+
+Ex. Ord. No. 13657, Feb. 10, 2014, 79 F.R. 8823, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to reflect my decision to change the name of the National Security Staff to the National Security Council staff, it is hereby ordered as follows:
+
+Section 1. <i>Name Change</i>. All references to the National Security Staff or Homeland Security Council Staff in any Executive Order or Presidential directive shall be understood to refer to the staff of the National Security Council.
+
+Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

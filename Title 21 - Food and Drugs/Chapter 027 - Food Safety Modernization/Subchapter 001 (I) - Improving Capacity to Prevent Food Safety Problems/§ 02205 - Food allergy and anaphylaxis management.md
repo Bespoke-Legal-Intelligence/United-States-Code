@@ -70,7 +70,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(VII) assessing the child's readiness for self-administration of prescription medication; and
 
-&emsp;&emsp;&emsp;(ii) a list of substitute meals that may be offered to the child by school or early childhood education program food service personnel.
+&emsp;&emsp;&emsp;(ii) a list of substitute meals that may be offered to the child by school or earlychildhood education program food service personnel.
 
 &emsp;&emsp;(B) The creation and maintenance of an individual plan for food allergy management, in consultation with the parent, tailored to the needs of each child with a documented risk for anaphylaxis, including any procedures for the self-administration of medication by such children in instances where—
 
@@ -110,7 +110,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;To be eligible to receive a grant under this subsection, a local educational agency shall submit an application to the Secretary at such time, in such manner, and includingsuch information as the Secretary may reasonably require.
+&emsp;&emsp;To be eligible to receive a grant under this subsection, a local educational agency shall submit an application to the Secretary at such time, in such manner, and including such information as the Secretary may reasonably require.
 
 #### (B) Contents
 
@@ -194,7 +194,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The food allergy and anaphylaxis management guidelines developed by the Secretaryunder subsection (b) are voluntary. Nothing in this section or the guidelines developed by the Secretary under subsection (b) shall be construed to require a local educational agency to implement such guidelines.
+&emsp;The food allergy and anaphylaxis management guidelines developed by the Secretary under subsection (b) are voluntary. Nothing in this section or the guidelines developed by the Secretary under subsection (b) shall be construed to require a local educational agency to implement such guidelines.
 
 #### (2) Exception
 

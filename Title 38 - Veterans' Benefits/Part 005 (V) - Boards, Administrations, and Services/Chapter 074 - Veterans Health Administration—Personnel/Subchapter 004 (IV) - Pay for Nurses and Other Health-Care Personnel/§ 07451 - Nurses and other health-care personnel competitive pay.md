@@ -24,11 +24,11 @@
 
 (2) The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5316 <sup>1</sup> of title 5. The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.
 
-(3) The range of basic pay for each such grade shall be divided into equal increments, known as "steps". The Secretary shall prescribe the number of steps. Each grade in a covered position shall have the same number of steps. Rates of pay within a grade may not be established at rates other than whole steps. Any increase (other than an adjustment under subsection (d))within a grade in the rate of basic pay payable to an employee in a covered position shall be by one or more of such step increments.
+(3) The range of basic pay for each such grade shall be divided into equal increments, known as "steps". The Secretary shall prescribe the number of steps. Each grade in a covered position shall have the same number of steps. Rates of pay within a grade may not be established at rates other than whole steps. Any increase (other than an adjustment under subsection (d)) within a grade in the rate of basic pay payable to an employee in a covered position shall be by one or more of such step increments.
 
 (d)(1) Subject to subsection (e), the rates of basic pay for each grade in a covered position shall be adjusted periodically in accordance with this subsection in order to achieve the purposes of this section. Such adjustments shall be made—
 
-&emsp;(A) whenever there is an adjustment under section 5303 of title 5 in the rates of pay under the General Schedule, with the adjustment under this subsection to have the same effective date and to be by the same percentage as the adjustment in the rates of basic pay under the General Schedule; and
+&emsp;(A) whenever there is an adjustment under section 5303 of title 5 in the rates of pay under the General Schedule, with the adjustment under this subsection to have the same effective date and to be by the same percentage asthe adjustment in the rates of basic pay under the General Schedule; and
 
 &emsp;(B) at such additional times as the director of a Department health-care facility, with respect to employees in that grade at that facility, or the Under Secretary for Health, with respect to covered Regional and Central Office employees in that grade, determines.
 
@@ -50,11 +50,11 @@
 
 (D) The Under Secretary for Health shall prescribe regulations providing for the adjustment of the rates of basic pay for Regional and Central Office employees in covered positions in order to assure that those rates are sufficient and competitive.
 
-(E) The director of a facility or Under Secretary for Health may not adjust rates of basic pay under this subsection for any pay grade so that the minimum rate of basic pay for thatgrade is greater than the beginning rates of compensation for corresponding positions at non-Department health-care facilities.
+(E) The director of a facility or Under Secretary for Health may not adjust rates of basic pay under this subsection for any pay grade so that the minimum rate of basic pay for that grade is greater than the beginning rates of compensation for corresponding positions at non-Department health-care facilities.
 
 (F) The Under Secretary for Health shall provide appropriate education, training, and support to directors of Department health care facilities in the conduct and use of surveys, including the use of third-party surveys, under this paragraph.
 
-(4) If the director of a Department health-care facility, or the Under Secretary for Health with respect to Regional and Central Office employees, determines, after any survey under paragraph (3)(B) that it is not necessary to adjust the rates of basic pay for employees in a grade of a covered position at that facility in order to carry out the purpose of this section, such an adjustment for employees at that facility in that grade shall not be made.
+(4) If the director of a Department health-care facility, or the Under Secretary for Health with respect to Regional and Central Office employees, determines, after any survey under paragraph (3)(B) that it is not necessary to adjustthe rates of basic pay for employees in a grade of a covered position at that facility in order to carry out the purpose of this section, such an adjustment for employees at that facility in that grade shall not be made.
 
 (5) Information collected by the Department in surveys conducted under this subsection is not subject to disclosure under section 552 of title 5.
 
@@ -92,7 +92,7 @@
 
 &emsp;(B) The information for each such facility specified in paragraph (4).
 
-(6)(A) Upon the request of an individual described in subparagraph (B) for a report providedunder paragraph (4) with respect to a Department health-care facility, the Under Secretary for Health or the director of such facility shall provide to the individual the most current report for such facility provided under such paragraph.
+(6)(A) Upon the request of an individual described in subparagraph (B) for a report provided under paragraph (4) with respect to a Department health-care facility, the Under Secretary for Health or the director of such facility shall provide to the individual the most current report for such facility provided under such paragraph.
 
 (B) An individual described in this subparagraph is—
 
@@ -258,7 +258,7 @@ Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, required the S
 
 #### National Commission on VA Nursing
 
-Pub. L. 107–135, title I, subtitle D (§§141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department of Veterans Affairs the "National Commission on VA Nursing", directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
+Pub. L. 107–135, title I, subtitle D (§§141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department ofVeterans Affairs the "National Commission on VA Nursing", directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
 
 #### Report on Nurse Locality Pay
 

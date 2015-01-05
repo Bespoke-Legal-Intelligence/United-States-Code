@@ -6,7 +6,7 @@ Assistance may be made available under this subpart only to an institution which
 
 &emsp;(1) has, in accordance with section 1094 of this title, an agreement with the Secretary applicable to this subpart;
 
-&emsp;(2) agrees that the Federal share of awards under this subpart will not exceed 75 percent of such awards, except that the Federal share may be exceeded if the Secretary determines, pursuant to regulations establishing objectivecriteria for such determinations, that a larger Federal share is required to further the purpose of this subpart; and
+&emsp;(2) agrees that the Federal share of awards under this subpart will not exceed 75 percent of such awards, except that the Federal share may be exceeded if the Secretary determines, pursuant to regulations establishing objective criteria for such determinations, that a larger Federal share is required to further the purpose of this subpart; and
 
 &emsp;(3) agrees that the non-Federal share of awards made under this subpart shall be made from the institution's own resources, including—
 
@@ -44,7 +44,7 @@ If the institution's allocation under this subpart is directly or indirectly bas
 
 #### (e) Use and transfer of funds for administrative expenses
 
-An agreement entered into pursuant to this section shall provide that funds granted to an institution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with section 1096 of this title.
+An agreement entered into pursuant to this section shall provide that funds granted to aninstitution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with section 1096 of this title.
 
 (Pub. L. 89–329, title IV, §413C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1329; amended Pub. L. 102–325, title IV, §403(d)–(f), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(25), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(b), Oct. 7, 1998, 112 Stat. 1665.)
 

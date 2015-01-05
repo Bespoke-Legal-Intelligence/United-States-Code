@@ -26,7 +26,7 @@
 
 (f) This section does not authorize the appropriation of additional amounts to pay an interest penalty. The head of an agency shall pay a penalty under this section out of amounts made available to carry out the program for which the penalty is incurred.
 
-(g) A recipient of a grant from the head of an agency may provide in a contract for the acquisition of property or service from a business concern that, consistent with the usual business practices of the recipient and applicable State and local law, the recipient will pay an interest penalty on amounts overdue under the contract under conditions agreed to by the recipient and the concern. The recipient may not pay the penalty from amounts received from an agency. Amounts expended for the penalty may not be counted toward a matching requirement applicable to the grant. An obligation to pay the penalty is not an obligation of the United States Government.
+(g) A recipient of a grant from the head of an agency may provide in a contract for the acquisition of property or service from a business concern that, consistent with the usual business practices of the recipient and applicable State and local law, the recipient will pay an interest penalty on amounts overdue under the contract under conditions agreed to by the recipient and the concern. The recipient may not pay the penalty from amounts received from an agency. Amounts expended for the penalty may not becounted toward a matching requirement applicable to the grant. An obligation to pay the penalty is not an obligation of the United States Government.
 
 (h)(1) This section shall apply to contracts for the procurement of property or services entered into pursuant to section 4(h) of the Act of June 29, 1948 (15 U.S.C. 714b(h)).
 

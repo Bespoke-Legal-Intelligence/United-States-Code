@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (d) Basis of qualified replacement property
 
-The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized byreason of such purchase and the application of subsection (a) by a fraction—
+The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction—
 
 &emsp;(1) the numerator of which is the cost of such item of property, and
 
@@ -198,7 +198,7 @@ If any gain is realized by the taxpayer on the sale or exchange of any qualified
 
 &emsp;(1) the statutory period for the assessment of any deficiency with respect to such gain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of—
 
-&emsp;&emsp;(A) the taxpayer's cost of purchasing qualified replacement property which the taxpayer claims results in nonrecognition of any part of such gain,
+&emsp;&emsp;(A) the taxpayer's cost of purchasing qualified replacement property which thetaxpayer claims results in nonrecognition of any part of such gain,
 
 &emsp;&emsp;(B) the taxpayer's intention not to purchase qualified replacement property within the replacement period, or
 
@@ -326,7 +326,7 @@ Amendment by section 1854(a)(3)(B) of Pub. L. 99–514 applicable to sales of se
 
 Pub. L. 99–514, title XVIII, §1854(a)(6)(B)–(D), Oct. 22, 1986, 100 Stat. 2876, provided that:
 
-"(B) The amendment made by subparagraph (A) \[amending this section\] shall apply to sales after March28, 1985, except that such amendment shall not apply to sales made before July 1, 1985, if made pursuant to a binding contract in effect on March 28, 1985, and at all times thereafter.
+"(B) The amendment made by subparagraph (A) \[amending this section\] shall apply to sales after March 28, 1985, except that such amendment shall not apply to sales made before July 1, 1985, if made pursuant to a binding contract in effect on March 28, 1985, and at all times thereafter.
 
 "(C) The amendment made by subparagraph (A) shall not apply to any sale occurring on December 20, 1985, with respect to which—
 

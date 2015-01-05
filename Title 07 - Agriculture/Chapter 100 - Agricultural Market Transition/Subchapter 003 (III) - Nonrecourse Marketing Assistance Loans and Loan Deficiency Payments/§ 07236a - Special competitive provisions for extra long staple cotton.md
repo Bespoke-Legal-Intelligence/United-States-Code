@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, during the period beginning on Octob
 
 Under the program, the Secretary shall make payments available under this section whenever—
 
-&emsp;(1) for a consecutive 4-week period, the world market price for the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is below the prevailing United States price for a competing growth of extra long staple cotton; and
+&emsp;(1) for a consecutive 4-week period, the world market price for the lowest priced competing growth of extra long staple cotton (adjusted toUnited States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is below the prevailing United States price for a competing growth of extra long staple cotton; and
 
 &emsp;(2) the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is less than 134 percent of the loan rate for extra long staple cotton.
 
@@ -18,7 +18,7 @@ The Secretary shall make payments available under this section to domestic users
 
 #### (d) Payment amount
 
-Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) of this section during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
+Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
 
 #### (e) Form of payment
 

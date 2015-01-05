@@ -36,7 +36,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 &emsp;&emsp;(B) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the family during the family's tenure as owner; and
 
-&emsp;&emsp;(C) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed toby the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
+&emsp;&emsp;(C) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
 
 > &emsp;Such an entity may, at the time of initial sale, enter into an agreement with the family to set a maximum amount which this appreciation may not exceed.
 
@@ -58,7 +58,7 @@ Not more than an aggregate of $250,000 from amounts made available under section
 
 #### (g) Timely homeownership
 
-Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+Recipients shall transfer ownership of the property to tenants within a specified period oftime that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (h) Records and audit of recipients of assistance
 

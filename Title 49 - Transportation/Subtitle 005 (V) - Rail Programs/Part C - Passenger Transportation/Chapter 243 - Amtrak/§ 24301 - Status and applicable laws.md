@@ -80,7 +80,7 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 (n)
 
-Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee,or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
+Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
 (o)
 
@@ -292,7 +292,7 @@ Subsec. (c). Pub. L. 105–134, §401(2), reenacted heading without change and a
 
 Subsec. (e). Pub. L. 105–134, §110(a), inserted at end "Section 552 of title 5, United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy."
 
-Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed."
+Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment,text read as follows: "The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed."
 
 Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text "Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are" for "Amtrak or a rail carrier subsidiary of Amtrak is", "tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom" for "tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it", and "In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997." for "However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982."
 

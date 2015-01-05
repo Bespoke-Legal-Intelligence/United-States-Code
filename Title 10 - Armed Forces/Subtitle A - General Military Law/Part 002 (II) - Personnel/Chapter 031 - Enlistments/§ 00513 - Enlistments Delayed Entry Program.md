@@ -1,6 +1,6 @@
 ### §513. Enlistments: Delayed Entry Program
 
-(a) A person with no prior military service who is qualified under section 505 of this title and applicable regulations for enlistment in aregular component of an armed force may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve for a term of not less than six years nor more than eight years.
+(a) A person with no prior military service who is qualified under section 505 of this title and applicable regulations for enlistment in a regular component of an armed force may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve for a term of not less than six years nor more than eight years.
 
 (b)(1) Unless sooner ordered to active duty under chapter 39 of this title or another provision of law, a person enlisted under subsection (a) shall, within 365 days after such enlistment, be discharged from the reserve component in which enlisted and immediately be enlisted in the regular component of an armed force. The Secretary concerned may extend the 365-day period for any person for up to an additional 365 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.
 

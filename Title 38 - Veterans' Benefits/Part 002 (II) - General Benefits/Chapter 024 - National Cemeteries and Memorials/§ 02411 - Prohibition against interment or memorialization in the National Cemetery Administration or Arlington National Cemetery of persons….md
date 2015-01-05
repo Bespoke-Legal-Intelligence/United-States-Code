@@ -6,7 +6,7 @@
 
 &emsp;(B) honor the memory of such person in a memorial area in a cemetery in the National Cemetery Administration (described in section 2403(a) of this title) or in such an area in Arlington National Cemetery (described in section 2409(a) of this title).
 
-(2) In the case of a person described in subsection (b)(1), (b)(2), or (b)(4), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4), as the case may be, is received by the appropriate Federal official before the interment or memorialization of such person. Such written notice shall be furnished to such official by the Attorney General, in the case of a Federal crime, or by an appropriate State official, in the case of a State crime.
+(2) In the case of a person described in subsection (b)(1), (b)(2), or (b)(4), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4), as the case may be, is received by the appropriate Federal official before the interment or memorialization of such person. Such written notice shall be furnished tosuch official by the Attorney General, in the case of a Federal crime, or by an appropriate State official, in the case of a State crime.
 
 (b) A person referred to in subsection (a) is any of the following:
 
@@ -114,7 +114,7 @@ Subsecs. (a)(1)(A), (B), (d)(3)(A). Pub. L. 105–368, §403(d)(1), substituted 
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–65, §2(c), Dec. 20, 2013, 127 Stat. 671, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to anyinterment or memorialization conducted by the Secretary of Veterans Affairs or the Secretary of the Army in a cemetery in the National Cemetery Administration or in Arlington National Cemetery after the date of the enactment of this Act \[Dec. 20, 2013\]."
+Pub. L. 113–65, §2(c), Dec. 20, 2013, 127 Stat. 671, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to any interment or memorialization conducted by the Secretary of Veterans Affairs or the Secretary of the Army in a cemetery in the National Cemetery Administration or in Arlington National Cemetery after the date of the enactment of this Act \[Dec. 20, 2013\]."
 
 Pub. L. 112–260, title I, §105(c), Jan. 10, 2013, 126 Stat. 2421, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to interments and memorializations that occur on or after the date of the enactment of this Act \[Jan. 10, 2013\]."
 

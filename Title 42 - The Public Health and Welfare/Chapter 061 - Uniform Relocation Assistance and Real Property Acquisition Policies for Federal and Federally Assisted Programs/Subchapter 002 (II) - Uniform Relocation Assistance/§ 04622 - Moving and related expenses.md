@@ -10,7 +10,7 @@ Whenever a program or project to be undertaken by a displacing agency will resul
 
 &emsp;(3) actual reasonable expenses in searching for a replacement business or farm; and
 
-&emsp;(4) actual reasonable expenses necessary to reestablish a displaced farm, nonprofit organization, or small business at its new site, but not to exceed $10,000.
+&emsp;(4) actual reasonable expenses necessary to reestablish a displaced farm, nonprofit organization, or small business at its new site, but not to exceed $25,000, as adjusted by regulation, in accordance with section 4633(d) of this title.
 
 #### (b) Displacement from dwelling; election of payments: expense and dislocation allowance
 
@@ -18,7 +18,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 #### (c) Displacement from business or farm operation; election of payments; minimum and maximum amounts; eligibility
 
-Any displaced person eligible for payments under subsection (a) of this section who is displaced from the person's place of business or farm operation and who is eligible under criteria established by the head of the lead agency may elect to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section. Such payment shall consist of a fixed payment in an amount to be determined according to criteria established by the head of the lead agency, except that such payment shall not be less than $1,000 nor more than $20,000. A person whose sole business at the displacement dwelling is the rental of such property to others shall not qualify for a payment under this subsection.
+Any displaced person eligible for payments under subsection (a) of this section who is displaced from the person's place of business or farm operation and who is eligible under criteria established by the head of the lead agency may elect to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section. Such payment shall consist of a fixed payment in an amount to be determined according to criteria established by the head of the lead agency, except that such payment shall not be less than $1,000 nor more than $40,000, as adjusted by regulation, in accordance with section 4633(d) of this title. A person whose sole business at the displacement dwelling is the rental of such property to others shall not qualify for a payment under this subsection.
 
 #### (d) Certain utility relocation expenses
 
@@ -56,16 +56,6 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 (Pub. L. 91–646, title II, §202, Jan. 2, 1971, 84 Stat. 1895; Pub. L. 100–17, title IV, §405, Apr. 2, 1987, 101 Stat. 249; Pub. L. 112–141, div. A, title I, §1521(a), July 6, 2012, 126 Stat. 577.)
 
-#### Amendment of Subsections (a)(4) and (c)
-
-<i>Pub. L. 112–141, div. A, title I, §1521(a), (g), July 6, 2012, 126 Stat. 577, 579, provided that, effective 2 years after July 6, 2012, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(4), by striking "$10,000" and inserting "$25,000, as adjusted by regulation, in accordance with section 4633(d) of this title"; and</i>
-
-<i>(2) in the second sentence of subsection (c), by striking "$20,000" and inserting "$40,000, as adjusted by regulation, in accordance with section 4633(d) of this title".</i>
-
-<i>See 2012 Amendment notes below.</i>
-
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(4). Pub. L. 112–141, §1521(a)(1), substituted "$25,000, as adjusted by regulation, in accordance with section 4633(d) of this title" for "$10,000".
@@ -78,7 +68,7 @@ Subsec. (a)(4). Pub. L. 100–17, §405(a)(2)–(4), added par. (4).
 
 Subsec. (b). Pub. L. 100–17, §405(b), substituted "an expense and dislocation allowance, which shall be determined according to a schedule established by the head of the lead agency" for "a moving expense allowance, determined according to a schedule established by the head of the Federal agency, not to exceed $300; and a dislocation allowance of $200".
 
-Subsec. (c). Pub. L. 100–17, §405(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Any displaced person eligible for payments under subsection (a) of this section who is displaced from his place of business or from his farm operation and who elects to accept the payment authorized bythis subsection in lieu of the payment authorized by subsection (a) of this section, may receive a fixed payment in an amount equal to the average annual net earnings of the business or farm operation, except that such payment shall be not less than $2,500 nor more than $10,000. In the case of a business no payment shall be made under this subsection unless the head of the Federal agency is satisfied that the business (1) cannot be relocated without a substantial loss of its existing patronage, and (2) is not a part of a commercial enterprise having at least one other establishment not being acquired by the United States, which is engaged in the same or similar business. For purposes of this subsection, the term 'average annual net earnings' means one-half of any net earnings of the business or farm operation, before Federal, State, and local income taxes, during the two taxable years immediately preceding the taxable year in which such business or farm operation moves from the real property acquired for such project, or during such other period as the head of such agency determines to be more equitable for establishing such earnings, and includes any compensation paid by the business or farm operation to the owner, his spouse, or his dependents during such period."
+Subsec. (c). Pub. L. 100–17, §405(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Any displaced person eligible for payments under subsection (a) of this section who is displaced from his place of business or from his farm operation and who elects to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section, may receive a fixed payment in an amount equal to the average annual net earnings of the business or farm operation, except that such payment shall be not less than $2,500 nor more than $10,000. In the case of a business no payment shall be made under this subsection unless the head of the Federal agency is satisfied that the business (1) cannot be relocated without a substantial loss of its existing patronage, and (2) is not a part of a commercial enterprise having at least one other establishment not being acquired by the United States, which is engaged in the same or similar business. For purposes of this subsection, the term 'average annual net earnings' means one-half of any net earnings of the business or farm operation, before Federal, State, and local income taxes, during the two taxable years immediately preceding the taxable year in which such business or farm operation moves from the real property acquired for such project, or during such other period as the head of such agency determines to be more equitable for establishing such earnings, and includes any compensation paid by the business or farm operation to the owner, his spouse, or his dependents during such period."
 
 Subsec. (d). Pub. L. 100–17, §405(d), added subsec. (d).
 

@@ -34,7 +34,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (g) Issuance of obligations by Secretary to Secretary of the Treasury to satisfy authorized guarantee obligations; establishment of maturities and rates of interest and purchase of obligations by Secretary of the Treasury
 
-The Secretary may issue obligations to the Secretary of the Treasury in an amount outstanding at any one time sufficient to enable the Secretary to carry out his obligations under guarantees authorized by this section. The obligations issued under this subsection shall have such maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations of the Secretary issued under this section, and for such purposes is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchases of the Secretary's obligations hereunder.
+The Secretary may issue obligations to the Secretary of the Treasury in an amount outstanding at any one time sufficient to enable the Secretary to carry out his obligations under guarantees authorized by this section. The obligations issued under this subsection shall havesuch maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations of the Secretary issued under this section, and for such purposes is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchases of the Secretary's obligations hereunder.
 
 #### (h) Federal taxation of guaranteed obligations; grants to borrowing entity or agency of taxable obligations for net interest costs, etc.; limitation on amount of grant; assistance to issuer in hardship cases
 
@@ -142,7 +142,7 @@ Title VI of the Housing Community Development Act of 1987, referred to in subsec
 
 Section 916 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(6), is section 916 of Pub. L. 101–625, which is set out as a note under section 5306 of this title.
 
-This chapter, referred to in subsecs. (c) to (e), was in the original "this title", meaning title I of Pub. L.93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (c) to (e), was in the original "this title", meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Codification
 

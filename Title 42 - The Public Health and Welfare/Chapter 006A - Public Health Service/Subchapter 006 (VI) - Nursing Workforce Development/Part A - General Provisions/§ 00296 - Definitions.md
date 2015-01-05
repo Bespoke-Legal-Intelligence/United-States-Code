@@ -4,7 +4,7 @@ As used in this subchapter:
 
 #### (1) Eligible entities
 
-&emsp;The term "eligible entities" means schools of nursing, nursing centers, academic health centers, State or local governments, and other public or private nonprofit entities determined appropriate by the Secretary that submit to the Secretary an application in accordance with section 296a of this title.
+&emsp;The term "eligible entities" means schools of nursing, nursing centers, academic healthcenters, State or local governments, and other public or private nonprofit entities determined appropriate by the Secretary that submit to the Secretary an application in accordance with section 296a of this title.
 
 #### (2) School of nursing
 
@@ -124,7 +124,7 @@ Nursing Scholarships.—The Comptroller General of the United States shall condu
 
 #### Purpose
 
-Pub. L. 105–392, title I, §122, Nov. 13, 1998, 112 Stat. 3562, provided that: "It is the purpose of this subtitle \[subtitle B (§§121–124) of title I of Pub. L. 105–392, see Short Title of 1998 Amendment note set out under section 201 of this title\] to restructure the nurse education authorities of title VIII of the Public Health Service Act \[42 U.S.C. 296 et seq.\] to permit a comprehensive, flexible, and effective approach to Federal support for nursing workforce development."
+Pub. L. 105–392, title I, §122, Nov. 13, 1998, 112 Stat. 3562, provided that: "It is the purpose of this subtitle \[subtitle B (§§121–124) of title I of Pub. L. 105–392, see Short Title of 1998 Amendment note set out under section 201 of this title\] to restructure the nurse education authorities of title VIII of the Public Health Service Act \[42 U.S.C. 296 et seq.\] to permit a comprehensive,flexible, and effective approach to Federal support for nursing workforce development."
 
 #### Information Respecting Supply and Distribution of and Requirements for Nurses; Determination Procedures; Surveys and Collection of Dates; Annual Report to Congress on Determinations, Etc.; Review by Office of Management and Budget of Report Prior to Submission
 

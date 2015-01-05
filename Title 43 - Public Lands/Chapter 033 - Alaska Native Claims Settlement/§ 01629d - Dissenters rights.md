@@ -20,7 +20,7 @@
 
 #### (c) Valuation of stock
 
-(1) Prior to a vote described in subsection (a)(1) of this section, the board of directors of a Native Corporation may approve a resolution to provide that one or more of the following conditions will apply in the event a demand for payment is honored pursuant to subsection (a)(2) of this section—
+(1) Prior to a vote described in subsection (a)(1) of this section, the board of directors of aNative Corporation may approve a resolution to provide that one or more of the following conditions will apply in the event a demand for payment is honored pursuant to subsection (a)(2) of this section—
 
 &emsp;(A) the Settlement Common Stock shall be valued as restricted stock; and
 

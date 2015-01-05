@@ -12,7 +12,7 @@ Based on sections 1026(b) and 1514(c) of title 7, U.S.C., 1940 ed., Agriculture,
 
 Each of the eleven sections from which this section was derived contained similar provisions relating to embezzlement, false entries, and fraudulent issuance or assignment of obligations with respect to one or more named agencies or corporations.
 
-These were divided and the false entry and fraudulent issuance or assignment of obligation provisions of all, form the basis of this section. The remaining provisions of each section, relating to embezzlement and misapplication, form the basis for section 657 of this title. That portion of said section 616(c) of title 15, relating to disclosure of information, forms the basis for section 1904 of this title.
+These were divided and the false entry and fraudulent issuance or assignment of obligation provisions of all, form the basis of this section. The remaining provisions of each section, relating to embezzlement and misapplication, form the basis for section 657 of this title. That portion of said section 616(c) of title 15, relatingto disclosure of information, forms the basis for section 1904 of this title.
 
 Each revised section condenses and simplifies the constituent provisions without change of substance except as herein indicated.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Exceptions From Transfer of Functions
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervisionof said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### National Credit Union Administration
 

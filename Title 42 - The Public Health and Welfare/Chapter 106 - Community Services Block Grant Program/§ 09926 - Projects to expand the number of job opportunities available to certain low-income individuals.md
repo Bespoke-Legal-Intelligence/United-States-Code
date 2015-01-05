@@ -6,7 +6,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (b) Nature of project
 
-(1) Each nonprofit organization conducting a project under this section shall provide technical and financial assistance to private employers in the community to assist them in creating employment and business opportunities for those individuals eligible to participate in the projects as described in this subsection.
+(1) Each nonprofit organization conducting a project under this section shall provide technical and financial assistance to private employers in the community to assist them in creatingemployment and business opportunities for those individuals eligible to participate in the projects as described in this subsection.
 
 (2) For purposes of this section, a nonprofit organization is any organization (including a community development corporation) exempt from taxation under section 501(a) of title 26 by reason of paragraph (3) or (4) of section 501(c) of such title.
 
@@ -62,7 +62,7 @@ Subsec. (c)(1)(C). Pub. L. 104–193, §112(5)(A), as amended by Pub. L. 105–3
 
 Subsec. (c)(2). Pub. L. 104–193, §112(5)(B), as amended by Pub. L. 105–33, substituted "assistance under a State program funded under part A of title IV of the Social Security Act" for "aid to families with dependent children under title IV of such Act".
 
-Subsec. (d). Pub. L. 104–193, §112(2), (6), struck out "demonstration" after "organization participating in a" and substituted "the State program funded underpart A of title IV of the Social Security Act" for "job opportunities and basic skills training program (as provided for under title IV of the Social Security Act)".
+Subsec. (d). Pub. L. 104–193, §112(2), (6), struck out "demonstration" after "organization participating in a" and substituted "the State program funded under part A of title IV of the Social Security Act" for "job opportunities and basic skills training program (as provided for under title IV of the Social Security Act)".
 
 Subsecs. (e) to (g). Pub. L. 104–193, §112(7), added subsec. (e) and struck out former subsec. (e) which related to duration of demonstration projects under this section, subsec. (f) which required evaluation of the success of each demonstration project, and subsec. (g) which authorized appropriations for the conduct of demonstration projects for each of fiscal years 1990 to 1996.
 
@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 103–432, §261(a)(3), substituted "1991, 1992, 1993, 1994
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §5063(1), inserted "in each of the fiscal years 1990, 1991, and 1992," before "shall".
 
-Subsec. (e). Pub. L. 101–508, §5063(2), substituted "September 30 of the fiscal year specified in the agreement described in subsection (a) of this section" for "September 30, 1989".
+Subsec. (e). Pub. L. 101–508, §5063(2), substituted "September 30 of the fiscal year specified in the agreementdescribed in subsection (a) of this section" for "September 30, 1989".
 
 #### Effective Date of 1996 Amendment
 

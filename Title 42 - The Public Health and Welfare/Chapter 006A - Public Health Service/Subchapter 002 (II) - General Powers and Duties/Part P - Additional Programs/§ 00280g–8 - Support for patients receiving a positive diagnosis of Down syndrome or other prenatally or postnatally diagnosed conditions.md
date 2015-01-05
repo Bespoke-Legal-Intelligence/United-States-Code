@@ -38,7 +38,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the expansion and further development of the National Dissemination Center for Children with Disabilities, so that such Center can more effectively conduct outreach to new and expecting parents and provide them with up-to-date information on the range of outcomes for individuals living with the diagnosed condition, including physical, developmental, educational, and psychosocial outcomes;
 
-&emsp;&emsp;&emsp;(iii) the expansion and further development of national and local peer-support programs, so that such programs can moreeffectively serve women who receive a positive diagnosis for Down syndrome or other prenatal conditions or parents of infants with a postnatally diagnosed condition;
+&emsp;&emsp;&emsp;(iii) the expansion and further development of national and local peer-support programs, so that such programs can more effectively serve women who receive a positive diagnosis for Down syndrome or other prenatal conditions or parents of infants with a postnatally diagnosed condition;
 
 &emsp;&emsp;&emsp;(iv) the establishment of a national registry, or network of local registries, of families willing to adopt newborns with Down syndrome or other prenatally or postnatally diagnosed conditions, and links to adoption agencies willing to place babies with Down syndrome or other prenatally or postnatally diagnosed conditions, with families willing to adopt; and
 

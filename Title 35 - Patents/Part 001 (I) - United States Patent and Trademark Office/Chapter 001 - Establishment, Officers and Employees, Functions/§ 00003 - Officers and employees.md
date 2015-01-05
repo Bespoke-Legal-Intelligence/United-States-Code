@@ -72,7 +72,7 @@ National security positions.—The Director, in consultation with the Director o
 
 &emsp;(6)
 
-Administrative patent judges and administrative trademark judges.—The Director may fix the rate of basic pay for the administrative patent judges appointed pursuantto section 6 and the administrative trademark judges appointed pursuant to section 17 of the Trademark Act of 1946 (15 U.S.C. 1067) at not greater than the rate of basic pay payable for level III of the Executive Schedule under section 5314 of title 5. The payment of a rate of basic pay under this paragraph shall not be subject to the pay limitation under section 5306(e) or 5373 of title 5.
+Administrative patent judges and administrative trademark judges.—The Director may fix the rate of basic pay for the administrative patent judges appointed pursuant to section 6 and the administrative trademark judges appointed pursuant to section 17 of the Trademark Act of 1946 (15 U.S.C. 1067) at not greater than the rate of basic pay payable for level III of the Executive Schedule under section 5314 of title 5. The payment of a rate of basic pay under this paragraph shall not be subject to the pay limitation under section 5306(e) or 5373 of title 5.
 
 (c)
 
@@ -142,7 +142,7 @@ Subsec. (e)(2). Pub. L. 112–29, §20(i)(1), substituted "that Act," for "this 
 
 Subsec. (b)(2)(A). Pub. L. 107–273, §13206(a)(2)(B)(i), struck out ", United States Code" after "title 5".
 
-Subsec. (b)(2)(B). Pub. L. 107–273, §13206(a)(2)(B)(ii)–(iv), in first sentence, struck out "United States Code," after "section 5382 of title 5," and ", United States Code" after "section 5304(h)(2)(C) of title 5", in second sentence, struck out "UnitedStates Code," after "for purposes of section 207(c)(2)(A) of title 18," and ", United States Code" after "clause (ii) of section 207(c)(2)(A) of title 18", and in last sentence, struck out ", United States Code" after "title 3".
+Subsec. (b)(2)(B). Pub. L. 107–273, §13206(a)(2)(B)(ii)–(iv), in first sentence, struck out "United States Code," after "section 5382 of title 5," and ", United States Code" after "section 5304(h)(2)(C) of title 5", in second sentence, struck out "United States Code," after "for purposes of section 207(c)(2)(A) of title 18," and ", United States Code" after "clause (ii) of section 207(c)(2)(A) of title 18", and in last sentence, struck out ", United States Code" after "title 3".
 
 Subsec. (b)(2)(C). Pub. L. 107–273, §13206(a)(2)(B)(v), struck out ", United States Code" after "title 5".
 

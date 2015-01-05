@@ -36,7 +36,7 @@ As used in this chapter, the following definitions apply:
 
 &emsp;The term "delivery sale" means any sale of cigarettes or smokeless tobacco to a consumer if—
 
-&emsp;&emsp;(A) the consumer submits the order for the sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made; or
+&emsp;&emsp;(A) the consumer submits the order for the sale by means of a telephone or other method of voice transmission, the mails, or theInternet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made; or
 
 &emsp;&emsp;(B) the cigarettes or smokeless tobacco are delivered to the buyer by common carrier, private delivery service, or other method of remote delivery, or the seller is not in the physical presence of the buyer when the buyer obtains possession of the cigarettes or smokeless tobacco.
 
@@ -140,7 +140,7 @@ Findings.—Congress finds that—
 
 &emsp;"(8) the number of active tobacco investigations being conducted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives rose to 452 in 2005;
 
-&emsp;"(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettes and smokeless tobacco to buyers in the United Statesincreased from only about 40 in 2000 to more than 500 in 2005; and
+&emsp;"(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettes and smokeless tobacco to buyers in the United States increased from only about 40 in 2000 to more than 500 in 2005; and
 
 &emsp;"(10) the intrastate sale of illegal cigarettes and smokeless tobacco over the Internet has a substantial effect on interstate commerce.
 

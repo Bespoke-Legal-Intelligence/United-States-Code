@@ -30,7 +30,7 @@ Section 1. <i>Functions of the Federal Energy Administration</i>. In accordance 
 
 Sec. 2. <i>Functions of the Federal Power Commission</i>. In accordance with the transfer of functions vested in the Federal Power Commission to the Secretary of Energy pursuant to Section 301(b) of the Act \[subsec. (b) of this section\], the Executive Orders referred to in this Section, which conferred authority or responsibility upon the Federal Power Commission, or Chairman thereof, are amended or modified as follows:
 
-(a) Executive Order No. 10485 of September 3, 1953, \[set out as a note under 15 U.S.C. 717b\], relating to certain facilities at the borders of the United States is amended by deleting Section 2 thereof, and by deleting"Federal Power Commission" and "Commission" wherever those terms appear in Sections 1, 3 and 4 of such Order and substituting for each "Secretary of Energy".
+(a) Executive Order No. 10485 of September 3, 1953, \[set out as a note under 15 U.S.C. 717b\], relating to certain facilities at the borders of the United States is amended by deleting Section 2 thereof, and by deleting "Federal Power Commission" and "Commission" wherever those terms appear in Sections 1, 3 and 4 of such Order and substituting for each "Secretary of Energy".
 
 (b) Executive Order No. 11969 of February 2, 1977 \[formerly set out as a note under 15 U.S.C. 717\], relating to the administration of the Emergency Natural Gas Act of 1977 \[formerly set out as a note under 15 U.S.C. 717\], is hereby amended by deleting the second sentence in Section 1, by deleting "the Secretary of the Interior, the Administrator of the Federal Energy Administration, other members of the Federal Power Commission and in Section 2, and by deleting "Chairman of the Federal Power Commission" and "Chairman" wherever those terms appear and substituting therefor "Secretary of Energy" and "Secretary", respectively.
 
@@ -78,7 +78,7 @@ Sec. 5. <i>Special Provisions Relating to Emergency Preparedness and Mobilizatio
 
 "Sec. 3016. Effective October 1, 1977, the Secretary of Energy shall exercise all authority and discharge all responsibility herein delegated to or conferred upon (a) the Federal Power Commission, (b) the Energy Research and Development Administration, and (c) with respect to electric power, petroleum, gas and solid fuels, upon the Department of the Interior.".
 
-Sec. 6. This Order shall be effective as of October 1, 1977, the effective date of the Department of Energy Organization Act \[this chapter\] pursuant to the provisions of section 901 \[42 U.S.C. 7341\] thereof and Executive Order No. 12009 of September 13, 1977 \[formerly setout as a note under 42 U.S.C. 7341\], and all actions taken by the Secretary of Energy on or after October 1, 1977, which are consistent with the foregoing provisions are entitled to full force and effect.
+Sec. 6. This Order shall be effective as of October 1, 1977, the effective date of the Department of Energy Organization Act \[this chapter\] pursuant to the provisions of section 901 \[42 U.S.C. 7341\] thereof and Executive Order No. 12009 of September 13, 1977 \[formerly set out as a note under 42 U.S.C. 7341\], and all actions taken by the Secretary of Energy on or after October 1, 1977, which are consistent with the foregoing provisions are entitled to full force and effect.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

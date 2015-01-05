@@ -16,7 +16,7 @@ In the case of any prepaid dues income to which this section applies—
 
 #### (1) Election of benefits
 
-&emsp;This section shall apply to prepaid dues income if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such income is received. The election shall be made in such manner as the Secretary may by regulations prescribe. No election may be made with respect to a trade or business if in computing taxable income the cash receipts and disbursements method of accounting is used with respect to such trade or business.
+&emsp;This section shall apply to prepaid dues income if and only if the taxpayer makes anelection under this section with respect to the trade or business in connection with which such income is received. The election shall be made in such manner as the Secretary may by regulations prescribe. No election may be made with respect to a trade or business if in computing taxable income the cash receipts and disbursements method of accounting is used with respect to such trade or business.
 
 #### (2) Scope of election
 
@@ -84,5 +84,5 @@ Amendment by section 1901(a)(68) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Pub. L. 87–109, §2, July 26, 1961, 75 Stat. 224, provided that: "The amendments made by this Act \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1960."
+Pub. L. 87–109, §2, July 26, 1961, 75 Stat. 224, provided that: "The amendments made by this Act \[enactingthis section\] shall apply with respect to taxable years beginning after December 31, 1960."
 

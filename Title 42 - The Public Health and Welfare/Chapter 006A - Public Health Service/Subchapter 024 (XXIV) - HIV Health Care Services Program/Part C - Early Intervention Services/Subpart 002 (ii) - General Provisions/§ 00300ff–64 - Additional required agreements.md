@@ -28,7 +28,7 @@ The Secretary may not make a grant under this part unless—
 
 &emsp;(3) the applicant agrees to provide additional documentation to the Secretary regarding the process used to obtain community input into the design and implementation of activities related to such grant; and
 
-&emsp;(4) the applicant agrees to submit, every 2 years, to the lead State agency under section 300ff–27(b)(4) of this title audits, consistent with Office of Management and Budget circular A133, regarding funds expended in accordance with this subchapter and shall include necessary client level data to complete unmet need calculations and Statewide coordinated statements of need process.
+&emsp;(4) the applicant agrees to submit, every 2 years, to the lead State agency under section 300ff–27(b)(4) of this title audits, consistent with Office of Management and Budget circular A133, regarding funds expended in accordance with this subchapter and shall include necessary client level data to completeunmet need calculations and Statewide coordinated statements of need process.
 
 #### (b) Provision of opportunities for anonymous counseling and testing
 
@@ -64,7 +64,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;With respect to the imposition of a charge for purposes of paragraph (1)(B)(ii), the Secretary may not make a grant under this part unless, subject to paragraph (5), the applicant for the grant agrees that—
 
-&emsp;&emsp;(A) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the applicant will not, forany calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+&emsp;&emsp;(A) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
 &emsp;&emsp;(B) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 

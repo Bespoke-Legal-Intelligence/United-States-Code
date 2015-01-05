@@ -20,7 +20,7 @@ Grant funds awarded under this section shall be administered in accordance with 
 
 &emsp;&emsp;(B) assessment for substance abuse from a substance abuse professional who is approved by the State or Indian Tribe and licensed by the appropriate entity to provide alcohol and drug addiction treatment, as appropriate;
 
-&emsp;&emsp;(C) substance abuse treatment from a provider that is approved by the State or IndianTribe, and licensed, if necessary, to provide medical and other health services;
+&emsp;&emsp;(C) substance abuse treatment from a provider that is approved by the State or Indian Tribe, and licensed, if necessary, to provide medical and other health services;
 
 &emsp;&emsp;(D) health (including mental health) services and assessment;
 

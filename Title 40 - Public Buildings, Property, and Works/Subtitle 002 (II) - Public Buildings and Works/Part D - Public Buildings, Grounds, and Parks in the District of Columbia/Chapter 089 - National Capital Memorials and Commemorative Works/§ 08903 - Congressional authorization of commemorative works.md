@@ -18,7 +18,7 @@ Works Commemorating Events, Individuals, or Groups.—A commemorative work comme
 
 (d)
 
-Consultation with National Capital Memorial Advisory Commission.—In considering legislation authorizing commemorative works in the District of Columbia and its environs, the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Advisory Commission.
+Consultation with National Capital Memorial Advisory Commission.—In consideringlegislation authorizing commemorative works in the District of Columbia and its environs, the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Advisory Commission.
 
 (e)
 
@@ -76,7 +76,7 @@ In subsection (d), the words "House Administration" are substituted for "House O
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of "Natural" before "Resources", was executed bymaking the insertion before "Resources of the House", to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of "Natural" before "Resources", was executed by making the insertion before "Resources of the House", to reflect the probable intent of Congress.
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted "work solely commemorating a limited military engagement" for "work commemorating a lesser conflict" and "such war or conflict" for "the event".
 
@@ -92,7 +92,7 @@ Commemorative Works
 
 &nbsp;
 
-Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, §142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, §1, May 24, 2010, 124 Stat. 1192.
+Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, §142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, §1, May 24, 2010, 124 Stat. 1192; Pub. L. 113–291, div. B, title XXX, §3094, Dec. 19, 2014, 128 Stat. 3880.
 
 African-Americans Civil War Union Memorial.—Pub. L. 102–412, Oct. 14, 1992, 106 Stat. 2104.
 
@@ -102,13 +102,13 @@ American Armored Force Memorial.—Pub. L. 99–620, Nov. 6, 1986, 100 Stat. 349
 
 Benjamin Banneker Memorial.—Pub. L. 105–355, title V, §512, Nov. 6, 1998, 112 Stat. 3266.
 
-Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title I, §118\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §118\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144, repealed by Pub. L. 112–239, div. B, title XXVIII, §2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 99–590, title VIII, §§801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39, repealed by Pub. L. 112–239, div. B, title XXVIII, §2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 103–321, §1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, §506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, §1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926; Pub. L. 112–239, div. B, title XXVIII, §2860, Jan. 2, 2013, 126 Stat. 2164.
+Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title I, §118\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §118\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144, repealed by Pub. L. 112–239, div. B, title XXVIII, §2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 99–590, title VIII, §§801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39, repealed by Pub. L. 112–239, div. B, title XXVIII, §2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 103–321, §1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, §506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, §1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926; Pub. L. 112–239, div. B, title XXVIII, §2860, Jan. 2, 2013, 126 Stat. 2164; Pub. L. 113–176, Sept. 26, 2014, 128 Stat. 1910.
 
 Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, §331, May 8, 2008, 122 Stat. 781.
 
 Disabled Veterans' LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, §201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, §1, Oct. 25, 2007, 121 Stat. 1022.
 
-Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, §332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, §1413, Mar. 26, 2013, 127 Stat. 421.
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, §332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, §1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, §437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, §423(a), Dec. 16, 2014, 128 Stat. 2449.
 
 Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022.
 
@@ -128,7 +128,11 @@ Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701
 
 Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, §134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, §301, Dec. 2, 2008, 122 Stat. 5034; Pub. L. 111–88, div. A, title I, §129, Oct. 30, 2009, 123 Stat. 2933.
 
+National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, §3093, Dec. 19, 2014, 128 Stat. 3879.
+
 National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, §1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.
+
+Peace Corps Memorial.—Pub. L. 113–78, §1, Jan. 24, 2014, 128 Stat. 647.
 
 Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §142\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.
 
@@ -143,4 +147,6 @@ Vietnam Women's Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pu
 Women in Military Service for America Memorial.—Pub. L. 99–500, §101(h) \[title I, §117\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §117\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, §1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, §2855, Oct. 5, 1994, 108 Stat. 3073.
 
 World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, §652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, §601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19.
+
+World War II Memorial Prayer Plaque.—Pub. L. 113–123, June 30, 2014, 128 Stat. 1377.
 

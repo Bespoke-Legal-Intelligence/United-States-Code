@@ -32,7 +32,7 @@ Based on title 28, U.S.C., 1940 ed., §423 (Mar. 3, 1911, ch. 231, §286, 36 Sta
 
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§10301 et seq.), 105 (§10501 et seq.), and 107 (§10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct.1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and Pub. L. 96–70, title II, §§2101, 2202–2203, Sept. 27, 1979, 93 Stat. 493, 494, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and Pub. L. 96–70, title II, §§2101, 2202–2203, Sept. 27, 1979, 93 Stat. 493, 494, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

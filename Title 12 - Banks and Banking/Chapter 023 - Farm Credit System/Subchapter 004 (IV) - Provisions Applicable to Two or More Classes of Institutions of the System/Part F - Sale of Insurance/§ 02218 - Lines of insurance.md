@@ -56,5 +56,5 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 #### Continuation of Program
 
-Pub. L. 100–233, title IV, §422(b), Jan. 6, 1988, 101 Stat. 1656, provided that: "Notwithstanding the amendments made to section 4.29 \[12 U.S.C. 2218\] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act \[Jan. 6, 1988\] that does not meetthe requirements of section 4.29, as so amended, may be continued until July 1, 1988."
+Pub. L. 100–233, title IV, §422(b), Jan. 6, 1988, 101 Stat. 1656, provided that: "Notwithstanding the amendments made to section 4.29 \[12 U.S.C. 2218\] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act \[Jan. 6, 1988\] that does not meet the requirements of section 4.29, as so amended, may be continued until July 1, 1988."
 

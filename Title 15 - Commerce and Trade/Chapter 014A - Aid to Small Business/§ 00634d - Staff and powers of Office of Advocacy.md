@@ -12,7 +12,7 @@ In carrying out the provisions of sections 634a to 634g of this title, the Chief
 
 &emsp;(5) hold hearings and sit and act at such times and places as he may deem advisable.
 
-(Pub. L. 94–305, title II, §204, June 4, 1976, 90 Stat. 669; Pub. L. 96–302, title IV, §402, July 2,1980, 94 Stat. 850; Pub. L. 103–403, title VI, §§605(b), 610, Oct. 22, 1994, 108 Stat. 4203, 4204.)
+(Pub. L. 94–305, title II, §204, June 4, 1976, 90 Stat. 669; Pub. L. 96–302, title IV, §402, July 2, 1980, 94 Stat. 850; Pub. L. 103–403, title VI, §§605(b), 610, Oct. 22, 1994, 108 Stat. 4203, 4204.)
 
 #### References in Text
 

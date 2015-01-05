@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A)(i) resided on Federal property with a parent employed on Federal property situated in whole or in part within the boundaries of the school district of such agency; or
 
-&emsp;&emsp;(ii) resided on Federal property with a parent who is an official of, and accredited by, a foreign government and is a foreign military officer;
+&emsp;&emsp;(ii) resided on Federal property with a parent who is an official of, and accredited by,a foreign government and is a foreign military officer;
 
 &emsp;&emsp;(B) resided on Federal property and had a parent on active duty in the uniformed services (as defined in section 101 of title 37);
 
@@ -78,7 +78,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of computing the amount of payment for a local educational agency for children identified under paragraph (1), the Secretary shall consider children residing in housing initially acquired or constructed under the former section 2828(g) of title 10 (commonly known as the "Build to Lease" program), as added by section 801 of the Military Construction Authorization Act, 1984, to be children described under paragraph (1)(B) if the property described is within the fenced security perimeter of the military facility upon which such housing is situated.
+&emsp;&emsp;For purposes of computing the amount of payment for a local educational agency for children identified under paragraph (1), the Secretary shall consider children residing inhousing initially acquired or constructed under the former section 2828(g) of title 10 (commonly known as the "Build to Lease" program), as added by section 801 of the Military Construction Authorization Act, 1984, to be children described under paragraph (1)(B) if the property described is within the fenced security perimeter of the military facility upon which such housing is situated.
 
 #### (B) Additional requirements
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(i) shall require the local educational agency to provide certification from an appropriate official of the Department of Defense that the property is being used to provide military housing; and
 
-&emsp;&emsp;&emsp;(ii) shall reduce the amount of the payment under this section by an amount equal to the amount of revenue from such taxation received in the second preceding fiscal year by such local educational agency, unless the amount of such revenue was taken into account by the State for suchsecond preceding fiscal year and already resulted in a reduction in the amount of State aid paid to such local educational agency.
+&emsp;&emsp;&emsp;(ii) shall reduce the amount of the payment under this section by an amount equal to the amount of revenue from such taxation received in the second preceding fiscal year by such local educational agency, unless the amount of such revenue was taken into account by the State for such second preceding fiscal year and already resulted in a reduction in the amount of State aid paid to such local educational agency.
 
 #### (b) Basic support payments; insufficient appropriations; State with only one local educational agency
 
@@ -126,7 +126,7 @@
 
 #### (F) Increase in local contribution rate due to unusual geographic factors
 
-&emsp;&emsp;If the current expenditures in those local educational agencies which the Secretary has determined to be generally comparable to the local educational agency for which a computation is made under subparagraph (C) are not reasonably comparable because of unusual geographical factors which affect the current expenditures necessary to maintain, in such agency, a level of education equivalent to that maintained in such other agencies, then the Secretary shall increase the local contribution rate for such agency under subparagraph (C)(iii) by such an amount which the Secretary determines will compensate such agency for the increase in current expenditures necessitated by such unusual geographical factors. The amount of any such supplementary payment may not exceed the per-pupil share (computed with regard to all children in average daily attendance), as determined by the Secretary, of the increased current expenditures necessitated by such unusual geographic factors.
+&emsp;&emsp;If the current expenditures in those local educational agencies which the Secretary has determined to be generally comparable to the local educational agency for which a computation is made under subparagraph (C) are not reasonably comparable because of unusual geographical factors which affect the current expenditures necessary to maintain, in such agency, a level of education equivalent to that maintained in such other agencies, then the Secretary shall increase the local contribution rate for such agency under subparagraph (C)(iii) by such an amount which the Secretary determines will compensate such agency for the increase in current expenditures necessitated by such unusual geographical factors. The amount of any such supplementary payment may not exceed the per-pupil share (computed withregard to all children in average daily attendance), as determined by the Secretary, of the increased current expenditures necessitated by such unusual geographic factors.
 
 &emsp;&emsp;(G) Beginning with fiscal year 2002, for the purpose of calculating a payment under this paragraph for a local educational agency whose local contribution rate was computed under subparagraph (C)(iii) for the previous year, the Secretary shall use a local contribution rate that is not less than 95 percent of the rate that the LEA received for the preceding year.
 
@@ -184,7 +184,7 @@
 
 #### (ii) Resumption of eligibility
 
-&emsp;&emsp;&emsp;A heavily impacted local educational agency described in clause (i) that becomesineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency is a local educational agency whose boundaries are the same as a Federal military installation (or if the agency is a qualified local educational agency as described in clause (iv)), or meets the requirements of clause (i), for that subsequent fiscal year, except that such agency shall continue to receive a basic support payment under this paragraph for the fiscal year for which the ineligibility determination is made.
+&emsp;&emsp;&emsp;A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency is a local educational agency whose boundaries are the same as a Federal military installation (or if the agency is a qualified local educational agency as described in clause (iv)), or meets the requirements of clause (i), for that subsequent fiscal year, except that such agency shall continue to receive a basic support payment under this paragraph for the fiscal year for which the ineligibility determination is made.
 
 #### (iii) Application
 
@@ -344,7 +344,7 @@
 
 #### (2) Use of funds
 
-&emsp;A local educational agency that receives funds under paragraph (1) shall use such funds to provide a free appropriate public educationto children described in paragraph (1) in accordance with the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).
+&emsp;A local educational agency that receives funds under paragraph (1) shall use such funds to provide a free appropriate public education to children described in paragraph (1) in accordance with the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).
 
 #### (e) Hold harmless
 
@@ -538,7 +538,7 @@ Pub. L. 104–106, §1074(g), amended heading and text of par. (4) generally. Pr
 
 #### Effective and Termination Dates of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective for a 2-year period beginning on Jan. 2, 2013, and repealed on the day after the 2-year period and this subchapter to be applied as if the amendment had never been enacted, see section 563(c) of Pub. L. 112–239 set out as a note under section 7702 of this title.
+Amendment by Pub. L. 112–239 effective for a 5-year period beginning on Jan. 2, 2013, and repealed on the day after the 5-year period and this subchapter to be applied as if the amendment had never been enacted,see section 563(c) of Pub. L. 112–239, set out as a note under section 7702 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -556,7 +556,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1804(b)(2)\], Oct. 30, 2000,
 
 #### Effective Date of 1997 Amendment
 
-Title III of Pub. L. 105–78, Nov. 13, 1997, 111 Stat. 1497, provided in part that: "The amendment made by thisproviso \[amending this section\] shall apply with respect to fiscal years beginning with fiscal year 1996".
+Title III of Pub. L. 105–78, Nov. 13, 1997, 111 Stat. 1497, provided in part that: "The amendment made by this proviso \[amending this section\] shall apply with respect to fiscal years beginning with fiscal year 1996".
 
 Pub. L. 105–18, title VI, §60005(b), June 12, 1997, 111 Stat.215, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to fiscal years after fiscal year 1997."
 

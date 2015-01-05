@@ -20,7 +20,7 @@
 
 #### (3) Special rule in case of assertion by partner's spouse of innocent spouse relief
 
-&emsp;(A) Notwithstanding section 6404(b), if the spouse of a partner asserts that section 6015 applies with respect to a liability that is attributable to any adjustment to a partnership item (including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment), then such spouse may file with the Secretary within 60 days after the notice of computational adjustment is mailed to the spouse a request for abatement of the assessment specified in such notice. Upon receipt of such request, the Secretary shallabate the assessment. Any reassessment of the tax with respect to which an abatement is made under this subparagraph shall be subject to the deficiency procedures prescribed by subchapter B. The period for making any such reassessment shall not expire before the expiration of 60 days after the date of such abatement.
+&emsp;(A) Notwithstanding section 6404(b), if the spouse of a partner asserts that section 6015 applies with respect to a liability that is attributable to any adjustment to a partnership item (including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment), then such spouse may file with the Secretary within 60 days after the notice of computational adjustment is mailed to the spouse a request for abatement of the assessment specified in such notice. Upon receipt of such request, the Secretary shall abate the assessment. Any reassessment of the tax with respect to which an abatement is made under this subparagraph shall be subject to the deficiency procedures prescribed by subchapter B. The period for making any such reassessment shall not expire before the expiration of 60 days after the date of such abatement.
 
 &emsp;(B) If the spouse files a petition with the Tax Court pursuant to section 6213 with respect to the request for abatement described in subparagraph (A), the Tax Court shall only have jurisdiction pursuant to this section to determine whether the requirements of section 6015 have been satisfied. For purposes of such determination, the treatment of partnership items (and the applicability of any penalties, additions to tax, or additional amounts) under the settlement, the final partnership administrative adjustment, or the decision of the court (whichever is appropriate) that gave rise to the liability in question shall be conclusive.
 
@@ -126,7 +126,7 @@ If the Secretary mails to any partnership the notice specified in paragraph (1) 
 
 #### (f) Failure of tax matters partner, etc., to fulfill responsibility does not affect applicability of proceeding
 
-The failure of the tax matters partner, a pass-thru partner, the representative of a notice group, or any other representative of a partner to provide any notice or perform any act required under this subchapter or under regulations prescribed under this subchapter on behalf of such partner does not affect the applicability of any proceeding or adjustment under this subchapter to such partner.
+The failure of the tax matters partner, a pass-thru partner, the representative of a noticegroup, or any other representative of a partner to provide any notice or perform any act required under this subchapter or under regulations prescribed under this subchapter on behalf of such partner does not affect the applicability of any proceeding or adjustment under this subchapter to such partner.
 
 #### (g) Date decision of court becomes final
 
@@ -162,7 +162,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Any action brought under any provision of this subchapter shall be conducted in accordance with such rules of practice and procedure as may be prescribed by the Court in which the action is brought.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 660; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(A), July 18, 1984, 98 Stat. 964;Pub. L. 99–514, title XVIII, §1875(d)(2)(A), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(o)(1), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, 111 Stat. 1025–1028; Pub. L. 105–206, title III, §3201(e)(2), July 22, 1998, 112 Stat. 740; Pub. L. 110–172, §11(a)(36), Dec. 29, 2007, 121 Stat. 2487.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 660; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(A), July 18, 1984, 98 Stat. 964; Pub. L. 99–514, title XVIII, §1875(d)(2)(A), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(o)(1), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, 111 Stat. 1025–1028; Pub. L. 105–206, title III, §3201(e)(2), July 22, 1998, 112 Stat. 740; Pub. L. 110–172, §11(a)(36), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
 
@@ -216,7 +216,7 @@ Amendment by section 1239(c)(1) of Pub. L. 105–34 applicable to partnership ta
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1988 Amendment
 

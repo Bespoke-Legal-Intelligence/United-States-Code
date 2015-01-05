@@ -2,7 +2,7 @@
 
 #### (a) Consent of Congress
 
-Subject to the following conditions, a non-Federal interest may levy port or harbor dues (in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
+Subject to the following conditions, a non-Federal interest may levy port or harbor dues\(in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
 
 #### (1) Purposes
 
@@ -130,7 +130,7 @@ The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch.
 
 #### Codification
 
-In subsec. (d)(1), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the UnitedStates (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (d)(1), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 

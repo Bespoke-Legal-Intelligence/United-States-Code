@@ -6,7 +6,7 @@ The Foreign Claims Settlement Commission of the United States, established under
 
 #### References in Text
 
-Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan. No. 1 of 1954, July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
+Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan. No. 1 of 1954, July 1, 1954, 19 F.R.3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
 
 #### Codification
 

@@ -64,7 +64,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 &emsp;&emsp;&emsp;(iii) a plan to enable the State controlled substance monitoring program to achieve interoperability with at least one other State controlled substance monitoring program; and
 
-&emsp;&emsp;&emsp;(iv) assurances of compliance with all other requirements of this section or a statement describing why such compliance is not feasible or is contrary to the best interests of public health in such State.
+&emsp;&emsp;&emsp;(iv) assurances of compliance with all other requirements of this section or astatement describing why such compliance is not feasible or is contrary to the best interests of public health in such State.
 
 #### (2) State legislation
 
@@ -210,7 +210,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 #### (B) Additional categories of exclusion
 
-&emsp;&emsp;If the Secretary determines under subparagraph (A) that a substantial negative impact has been demonstrated with regard to one or more of the categories of patients described in such subparagraph, the Secretary shall identify additional appropriate categories of exclusion from reporting as authorized under subsection (d)(2)(C) of this section.
+&emsp;&emsp;If the Secretary determines under subparagraph (A) that a substantial negative impact has been demonstrated with regard to one ormore of the categories of patients described in such subparagraph, the Secretary shall identify additional appropriate categories of exclusion from reporting as authorized under subsection (d)(2)(C) of this section.
 
 #### (2) Progress report
 

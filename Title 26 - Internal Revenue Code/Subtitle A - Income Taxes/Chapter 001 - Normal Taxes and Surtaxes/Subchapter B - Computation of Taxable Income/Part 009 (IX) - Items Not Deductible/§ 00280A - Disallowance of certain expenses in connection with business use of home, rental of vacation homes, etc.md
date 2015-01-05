@@ -20,7 +20,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 &emsp;&emsp;(C) in the case of a separate structure which is not attached to the dwelling unit, in connection with the taxpayer's trade or business.
 
-> &emsp;In the case of an employee, the preceding sentence shall apply only if the exclusive use referred to in the preceding sentence is for the convenience of his employer. For purposes of subparagraph (A), the term "principal place of business" includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.
+> &emsp;In the case of an employee, the preceding sentence shall apply only if the exclusive use referred to in the preceding sentence is for the convenience of his employer. For purposes of subparagraph (A), the term "principal place ofbusiness" includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.
 
 #### (2) Certain storage use
 
@@ -90,7 +90,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 &emsp;&emsp;(B) by any individual who uses the unit under an arrangement which enables the taxpayer to use some other dwelling unit (whether or not a rental is charged for the use of such other unit); or
 
-&emsp;&emsp;(C) by any individual (other than an employee with respect to whose use section 119 applies), unless for such day the dwelling unit is rented for a rental which, under the facts and circumstances, is fair rental.
+&emsp;&emsp;(C) by any individual (other than an employee with respect to whose use section 119applies), unless for such day the dwelling unit is rented for a rental which, under the facts and circumstances, is fair rental.
 
 > &emsp;The Secretary shall prescribe regulations with respect to the circumstances under which use of the unit for repairs and annual maintenance will not constitute personal use under this paragraph, except that if the taxpayer is engaged in repair and maintenance on a substantially full time basis for any day, such authority shall not allow the Secretary to treat a dwelling unit as being used for personal use by the taxpayer on such day merely because other individuals who are on the premises on such day are not so engaged.
 
@@ -242,7 +242,7 @@ Pub. L. 104–188, title I, §1113(b), Aug. 20, 1996, 110 Stat. 1759, provided t
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

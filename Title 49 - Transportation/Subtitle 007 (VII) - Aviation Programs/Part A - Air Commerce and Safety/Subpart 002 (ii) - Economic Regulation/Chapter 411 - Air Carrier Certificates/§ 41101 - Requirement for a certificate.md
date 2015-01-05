@@ -20,7 +20,7 @@ Through Service and Joint Transportation.—A citizen of the United States provi
 
 (c)
 
-Proprietary or Exclusive Right Not Conferred.—A certificate issued under this chapterdoes not confer a proprietary or exclusive right to use airspace, an airway of the United States, or an air navigation facility.
+Proprietary or Exclusive Right Not Conferred.—A certificate issued under this chapter does not confer a proprietary or exclusive right to use airspace, an airway of the United States, or an air navigation facility.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1118.)
 

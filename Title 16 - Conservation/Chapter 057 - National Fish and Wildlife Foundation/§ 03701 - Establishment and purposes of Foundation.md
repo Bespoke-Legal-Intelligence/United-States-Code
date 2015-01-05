@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the National Fish and Wildlife Foundation (hereinafter in this chapterreferred to as the "Foundation"). The Foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States.
+There is established the National Fish and Wildlife Foundation (hereinafter in this chapter referred to as the "Foundation"). The Foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States.
 
 #### (b) Purposes
 

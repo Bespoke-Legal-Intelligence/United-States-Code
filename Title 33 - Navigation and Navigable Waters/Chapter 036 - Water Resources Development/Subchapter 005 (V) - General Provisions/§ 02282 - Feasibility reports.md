@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;In the case of any water resources project-related study authorized to be undertaken by the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and prepare a feasibility report, subject to section 2215 of this title.
+&emsp;In the case of any water resources project-related study authorized to be undertaken by the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall prepare a feasibility report, subject to section 2215 of this title.
 
 #### (2) Contents of feasibility reports
 
-&emsp;A feasibility report shall describe, with reasonable certainty, the economic, environmental, and social benefits and detriments of the recommended plan and alternative plans considered by the Secretary and the engineering features (including hydrologic and geologic information), the public acceptability, and the purposes, scope, and scale of the recommended plan. A feasibility report shall also include the views of other Federal agencies and non-Federal agencies with regard to the recommended plan, a description of a nonstructural alternative to the recommended plan when such plan does not have significant nonstructural features, and a description of the Federal and non-Federal participation in such plan, and shall demonstrate that States, other non-Federal interests, and Federal agencies have been consulted in the development of the recommended plan.
+&emsp;A feasibility report shall describe, with reasonable certainty, the economic, environmental, and social benefits and detriments of the recommended plan and alternative plans considered by the Secretary and the engineering features (including hydrologic and geologic information), the public acceptability, and the purposes, scope, and scale of the recommended plan. A feasibility report shall also include the views of other Federal agencies and non-Federal agencies with regard to the recommended plan, a description of a nonstructural alternative to the recommended plan when such plan does not have significant nonstructural features, and a description of the Federal and non-Federal participation in such plan, and shall demonstrate that States, other non-Federal interests, and Federal agencies have been consulted in the development of the recommended plan. A feasibility report shall include a preliminary analysis of the Federal interest and the costs, benefits, and environmental impacts of the project.
 
 #### (3) Applicability
 
@@ -26,9 +26,7 @@
 
 &emsp;In this subsection, the term "feasibility report" means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
 
-#### (b) Reconnaissance studies
-
-Before initiating any feasibility study under subsection (a) of this section after November 17, 1986, the Secretary shall first perform, at Federal expense, a reconnaissance study of the water resources problem in order to identify potential solutions to such problem in sufficient detail to enable the Secretary to determine whether or not planning to develop a project should proceed to the preparation of a feasibility report. Such reconnaissance study shall include a preliminary analysis of the Federal interest, costs, benefits, and environmental impacts of such project, and an estimate of the costs of preparing the feasibility report. The duration of a reconnaissance study shall normally be no more than twelve months, but in all cases is to be limited to eighteen months.
+#### (b) Repealed. Pub. L. 113–121, title I, §1002(a)(1), June 10, 2014, 128 Stat. 1198
 
 #### (c) Projects not specifically authorized by Congress
 
@@ -56,7 +54,45 @@ The Secretary shall undertake such measures as are necessary to ensure that stan
 
 &emsp;Procedures established under this subsection shall not delay development of any feasibility study under subsection (a) of this section.
 
-(Pub. L. 99–662, title IX, §905, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 106–541, title II, §222(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2043(b), Nov. 8, 2007, 121 Stat. 1101.)
+#### (g) Detailed project schedule
+
+#### (1) In general
+
+&emsp;Not later than 180 days after June 10, 2014, the Secretary shall determine a set of milestones needed for the completion of a feasibility study under this subsection, including all major actions, report submissions and responses, reviews, and comment periods.
+
+#### (2) Detailed project schedule milestones
+
+&emsp;Each District Engineer shall, to the maximum extent practicable, establish a detailed project schedule, based on full funding capability, that lists all deadlines for milestones relating to feasibility studies in the District developed by the Secretary under paragraph (1).
+
+#### (3) Non-Federal interest notification
+
+&emsp;Each District Engineer shall submit by certified mail the detailed project schedule under paragraph (2) to each relevant non-Federal interest—
+
+&emsp;&emsp;(A) for projects that have received funding from the General Investigations Account of the Corps of Engineers in the period beginning on October 1, 2009, and ending on June 10, 2014, not later than 180 days after the establishment of milestones under paragraph (1); and
+
+&emsp;&emsp;(B) for projects for which a feasibility cost-sharing agreement is executed after the establishment of milestones under paragraph (1), not later than 90 days after the date on which the agreement is executed.
+
+#### (4) Congressional and public notification
+
+&emsp;Beginning in the first full fiscal year after June 10, 2014, the Secretary shall—
+
+&emsp;&emsp;(A) submit an annual report that lists all detailed project schedules under paragraph (2) and an explanation of any missed deadlines to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+&emsp;&emsp;(B) make publicly available, including on the Internet, a copy of the annual report described in subparagraph (A) not later than 14 days after date <sup>2</sup> on which a report is submitted to Congress.
+
+#### (5) Failure to act
+
+&emsp;If a District Engineer fails to meet any of the deadlines in the project schedule under paragraph (2), the District Engineer shall—
+
+&emsp;&emsp;(A) not later than 30 days after each missed deadline, submit to the non-Federal interest a report detailing—
+
+&emsp;&emsp;&emsp;(i) why the District Engineer failed to meet the deadline; and
+
+&emsp;&emsp;&emsp;(ii) a revised project schedule reflecting amended deadlines for the feasibility study; and
+
+&emsp;&emsp;(B) not later than 30 days after each missed deadline, make publicly available, including on the Internet, a copy of the amended project schedule described in subparagraph (A)(ii).
+
+(Pub. L. 99–662, title IX, §905, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 106–541, title II, §222(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2043(b), Nov. 8, 2007, 121 Stat. 1101; Pub. L. 113–121, title I, §1002(a)–(c), June 10, 2014, 128 Stat. 1198.)
 
 #### References in Text
 
@@ -68,6 +104,14 @@ The Water Resources Development Act of 2000, referred to in subsec. (a)(4), is P
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–121, §1002(a)(2), struck out "perform a reconnaissance study and" after "shall".
+
+Subsec. (a)(2). Pub. L. 113–121, §1002(b), inserted at end "A feasibility report shall include a preliminary analysis of the Federal interest and the costs, benefits, and environmental impacts of the project."
+
+Subsec. (b). Pub. L. 113–121, §1002(a)(1), struck out subsec. (b) which related to performing reconnaissance studies prior to initiating feasibility studies.
+
+Subsec. (g). Pub. L. 113–121, §1002(c), added subsec. (g).
+
 <b>2007</b>—Subsec. (a). Pub. L. 110–114, §2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted "the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and" for "the Secretary, the Secretary shall" in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted "A feasibility report" for "Such feasibility report" and "The feasibility report" in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: "This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled 'An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property', approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project."
 
 Subsec. (b). Pub. L. 110–114, §2043(b)(2)(A), inserted heading.
@@ -75,6 +119,18 @@ Subsec. (b). Pub. L. 110–114, §2043(b)(2)(A), inserted heading.
 Subsecs. (c) to (f). Pub. L. 110–114, §2043(b)(2)(B)–(E), added subsec. (c), redesignated former subsecs. (c) to (e) as (d) to (f), respectively, and inserted headings in subsecs. (d) and (e).
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–541 added subsec. (e).
+
+#### Applicability
+
+Pub. L. 113–121, title I, §1002(d), June 10, 2014, 128 Stat. 1199, provided that: "The Secretary \[of the Army\] shall continue to carry out a study for which a reconnaissance level investigation has been initiated before the date of enactment of this Act \[June 10, 2014\] as if this section \[amending this section\], including the amendments made by this section, had not been enacted."
+
+#### Expedited Completion of Reports
+
+Pub. L. 113–121, title I, §1003, June 10, 2014, 128 Stat. 1199, provided that: "The Secretary \[of the Army\] shall—
+
+&emsp;"(1) expedite the completion of any on-going feasibility study for a project initiated before the date of enactment of this Act \[June 10, 2014\]; and
+
+&emsp;"(2) if the Secretary determines that the project is justified in a completed report, proceed directly to preconstruction planning, engineering, and design of the project in accordance with section 910 of the Water Resources Development Act of 1986 (33 U.S.C. 2287)."
 
 #### National Academy of Sciences Study
 
@@ -161,4 +217,6 @@ Authorization of appropriations.—There is authorized to be appropriated to car
 Pub. L. 106–541, title II, §219, Dec. 11, 2000, 114 Stat. 2596, provided that: "In conducting a feasibility study for a water resources project, the Secretary \[of the Army\], to the maximum extent practicable, should not employ a person for engineering and consulting services if the same person is also employed by the non-Federal interest for such services unless there is only 1 qualified and responsive bidder for such services."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

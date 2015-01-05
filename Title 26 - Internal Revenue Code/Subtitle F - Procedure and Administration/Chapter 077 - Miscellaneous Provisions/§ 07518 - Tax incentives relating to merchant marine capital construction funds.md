@@ -34,7 +34,7 @@
 
 #### (2) Limitation on fund investments
 
-&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreedpercentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
+&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
 
 #### (3) Investment in certain preferred stock permitted
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) third as made out of the capital account.
 
-> &emsp;For purposes of this section, items withdrawn from any account shall be treated as withdrawn on a first-in-first-out basis; except that (i) any nonqualified withdrawal for research, development, and design expenses incident to new and advanced ship design, machinery and equipment, and (ii) any amount treated as a nonqualified withdrawal under the second sentence of subsection (f)(4), shall be treated as withdrawn on a last-in-first-out basis.
+> &emsp;For purposes of this section, items withdrawn from any account shall be treated as withdrawn on a first-in-first-out basis; except that (i) any nonqualified withdrawal for research,development, and design expenses incident to new and advanced ship design, machinery and equipment, and (ii) any amount treated as a nonqualified withdrawal under the second sentence of subsection (f)(4), shall be treated as withdrawn on a last-in-first-out basis.
 
 #### (3) Operating rules
 
@@ -196,11 +196,7 @@ For purposes of this section—
 
 #### (4) Interest rate
 
-&emsp;For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal—
-
-&emsp;&emsp;(A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
-
-&emsp;&emsp;(B) made in a taxable year beginning after 1971, shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
+&emsp;For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
 
 #### (5) Amount not withdrawn from fund after 25 years from deposit taxed as nonqualified withdrawal
 
@@ -208,35 +204,15 @@ For purposes of this section—
 
 &emsp;&emsp;The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table:
 
-<b>If the amount remains in the fund</b>
+&nbsp;
 
-<b>The applicable</b>
-
-<b> at the close of the—</b>
-
-<b>percentage is—</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;26th taxable year
-
-&nbsp;20 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;27th taxable year
-
-&nbsp;40 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;28th taxable year
-
-&nbsp;60 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;29th taxable year
-
-&nbsp;80 percent&nbsp;&nbsp;
-
-&nbsp;&nbsp;30th taxable year
-
-&nbsp;100 percent.
+| <b> If the amount remains in the fund  at the close of the—</b> | <b>The applicable percentage is—</b> |
+| :--- | ---: |
+| 26th taxable year | 20 percent&nbsp;&nbsp; |
+| 27th taxable year | 40 percent&nbsp;&nbsp; |
+| 28th taxable year | 60 percent&nbsp;&nbsp; |
+| 29th taxable year | 80 percent&nbsp;&nbsp; |
+| 30th taxable year | 100 percent. |
 
 #### (B) Earnings treated as deposits
 
@@ -268,7 +244,7 @@ For purposes of this section—
 
 #### (B) Tax benefit rule
 
-&emsp;&emsp;If any portion of a nonqualified withdrawal is properly attributable to deposits (other than earnings on deposits) made by the taxpayer in any taxable year which did not reduce the taxpayer's liability for tax under chapter 1 for any taxable year preceding the taxable year in which such withdrawal occurs—
+&emsp;&emsp;If any portion of a nonqualified withdrawal is properly attributable to deposits (other than earnings on deposits) made by the taxpayer in any taxable year which didnot reduce the taxpayer's liability for tax under chapter 1 for any taxable year preceding the taxable year in which such withdrawal occurs—
 
 &emsp;&emsp;&emsp;(i) such portion shall not be taken into account under subparagraph (A), and
 
@@ -290,7 +266,7 @@ Under joint regulations—
 
 For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of "Secretary") shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
 
-(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, titleI, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, §102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319.)
+(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, §102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, §221(a)(117), Dec. 19, 2014, 128 Stat. 4054.)
 
 #### References in Text
 
@@ -301,6 +277,14 @@ Section 607(k) of the Merchant Marine Act, 1936, referred to in subsec. (i), was
 The date of the enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g)(4). Pub. L. 113–295, which directed substitution of "any nonqualified withdrawal shall be determined" for "any nonqualified withdrawal" and all that followed through " 'shall be determined", was executed by substituting "any nonqualified withdrawal shall be determined" for "any nonqualified withdrawal—
+
+&emsp;"(A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
+
+&emsp;"(B) made in a taxable year beginning after 1971, shall be determined"
+
+> to reflect the probable intent of Congress.
 
 <b>2013</b>—Subsec. (g)(6)(A). Pub. L. 112–240 substituted "20 percent" for "15 percent" in concluding provisions.
 
@@ -319,6 +303,10 @@ Subsec. (g)(3)(C)(iii). Pub. L. 109–304, §17(e)(6)(C), substituted "Merchant 
 <b>1988</b>—Subsec. (g)(1). Pub. L. 100–647, §1018(u)(23), substituted "not a qualified withdrawal" for "not qualified withdrawal".
 
 Subsec. (g)(6)(A). Pub. L. 100–647, §1002(m)(1), substituted "section 1(j)" for "section 1(i)".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -342,7 +330,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 99–514, title II, §261(g), Oct. 22, 1986, 100 Stat. 2216, provided that: "The amendments made by this section \[enacting this section and amending section 26 of this title and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title II, §261(g), Oct. 22, 1986, 100 Stat. 2216, provided that: "The amendments made by this section \[enacting this section and amending section 26of this title and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years beginning after December 31, 1986."
 
 #### Merchant Marine Capital Construction Funds
 

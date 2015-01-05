@@ -30,5 +30,5 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–378 struck out “(1)” after subsec. (a) designation.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 struck out "(1)" after subsec. (a) designation.
 

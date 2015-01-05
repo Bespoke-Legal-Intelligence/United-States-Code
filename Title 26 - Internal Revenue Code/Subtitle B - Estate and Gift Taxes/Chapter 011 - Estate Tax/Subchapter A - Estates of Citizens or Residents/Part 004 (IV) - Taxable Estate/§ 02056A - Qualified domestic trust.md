@@ -174,7 +174,7 @@ An election under this section with respect to any trust shall be made by the ex
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations under which there may be treated as aqualified domestic trust any annuity or other payment which is includible in the decedent's gross estate and is by its terms payable for life or a term of years.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations under which there may be treated as a qualified domestic trust any annuity or other payment which is includible in the decedent's gross estate and is by its terms payable for life or a term of years.
 
 (Added Pub. L. 100–647, title V, §5033(a)(2), Nov. 10, 1988, 102 Stat. 3670; amended Pub. L. 101–239, title VII, §7815(d)(7), (9)–(13), (15), Dec. 19, 1989, 103 Stat. 2415–2418; Pub. L. 101–508, title XI, §§11702(g)(2)(A), (B), (3)(A), (4), 11704(a)(15), Nov. 5, 1990, 104 Stat. 1388–515, 1388–516, 1388–518; Pub. L. 105–34, title XIII, §§1312(a), 1314(a), Aug. 5, 1997, 111 Stat. 1044, 1045; Pub. L. 107–16, title V, §532(c)(6), June 7, 2001, 115 Stat. 74.)
 
@@ -226,7 +226,7 @@ Subsec. (e). Pub. L. 101–239, §7815(d)(13), added subsec. (e).
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -262,5 +262,5 @@ Effective Date.—The provisions of subsection (a) shall take effect as if inclu
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen orresident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, this section shall not apply to the extent such section would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, this section shall not apply to the extent such section would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 

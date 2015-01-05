@@ -26,7 +26,7 @@ General rule.—If the executor of the estate of any decedent transfers to a qua
 
 "(b)
 
-Similar rule for certain trusts.—To the extent provided in regulations prescribed by the Secretary, a rule similar to the rule provided in subsection (a) shall apply where the trustee of a trust (any portion of which is included in the gross estate of the decedent)transfers property with respect to which an election was made under section 2032A.
+Similar rule for certain trusts.—To the extent provided in regulations prescribed by the Secretary, a rule similar to the rule provided in subsection (a) shall apply where the trustee of a trust (any portion of which is included in the gross estate of the decedent) transfers property with respect to which an election was made under section 2032A.
 
 "(c)
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

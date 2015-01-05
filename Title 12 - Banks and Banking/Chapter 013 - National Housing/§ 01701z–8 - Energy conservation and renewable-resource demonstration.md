@@ -32,7 +32,7 @@ In carrying out the demonstration program required by this section, the Secretar
 
 &emsp;(B) with respect to an approved renewable-resource energy measure, (i) $2,000, or (ii) 25 per centum of the cost of installing or otherwise implementing such measure.
 
-> The Secretary may, by rule, increase such percentages and amounts in the case of an applicant whose annual gross family income for the preceding taxable year is less than the medianfamily income for the housing market area in which the dwelling unit which is to be modified by such measure is located, as determined by the Secretary. The Secretary may also modify the limitations specified in this paragraph if necessary in order to achieve the purposes of this section.
+> The Secretary may, by rule, increase such percentages and amounts in the case of an applicant whose annual gross family income for the preceding taxable year is less than the median family income for the housing market area in which the dwelling unit which is to be modified by such measure is located, as determined by the Secretary. The Secretary may also modify the limitations specified in this paragraph if necessary in order to achieve the purposes of this section.
 
 (2) No person shall be eligible for both financial assistance under this section and a credit against income tax for the same energy conservation measure or renewable-resource energy measure.
 
@@ -46,7 +46,7 @@ In carrying out the demonstration program required by this section, the Secretar
 
 #### (g) Interim and final reports on program progress, findings, and legislative recommendations; criteria for evaluation of projects
 
-The Secretary shall submit an interim report to the Congress not later than 6 months after August 14, 1976, (and every 6 months thereafter until the final report is made under this subsection) indicating the progress made in carrying out the demonstration program required by this section and shall submit a final report to the Congress, containing findings and legislative recommendations, not later than 2 years after August 14, 1976. As part of each report made under this subsection, the Secretary shall include an evaluation, based on the criteria described in subsection (h) of this section, of each demonstration project conducted under this section.
+The Secretary shall submit an interim report to the Congress not later than 6 months afterAugust 14, 1976, (and every 6 months thereafter until the final report is made under this subsection) indicating the progress made in carrying out the demonstration program required by this section and shall submit a final report to the Congress, containing findings and legislative recommendations, not later than 2 years after August 14, 1976. As part of each report made under this subsection, the Secretary shall include an evaluation, based on the criteria described in subsection (h), of each demonstration project conducted under this section.
 
 #### (h) Report on evaluation criteria to be used and results sought prior to funding of projects
 

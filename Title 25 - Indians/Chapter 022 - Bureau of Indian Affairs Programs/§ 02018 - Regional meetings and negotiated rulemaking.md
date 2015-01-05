@@ -36,7 +36,7 @@ Prior to publishing any proposed regulations under subsection (b)(1) of this sec
 
 #### (1) Supremacy of provisions
 
-&emsp;The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal anyregulation that is inconsistent with the provisions of this chapter.
+&emsp;The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal any regulation that is inconsistent with the provisions of this chapter.
 
 #### (2) Modifications
 
@@ -54,7 +54,7 @@ The date of enactment of this chapter, referred to in subsec. (c)(1), probably m
 
 #### Prior Provisions
 
-A prior section 2018, Pub. L. 95–561, title XI, §1138, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4011, related to rights of Indian students, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2016 of this title.
+A prior section 2018, Pub. L. 95–561, title XI, §1138, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 4011, related to rights of Indian students, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2016 of this title.
 
 Another prior section 2018, Pub. L. 95–561, title XI, §1138, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 98–511, title V, §510, Oct. 19, 1984, 98 Stat. 2397, related to regulations implementing administrative provisions, prior to the general amendment of this chapter by Pub. L. 103–382.
 

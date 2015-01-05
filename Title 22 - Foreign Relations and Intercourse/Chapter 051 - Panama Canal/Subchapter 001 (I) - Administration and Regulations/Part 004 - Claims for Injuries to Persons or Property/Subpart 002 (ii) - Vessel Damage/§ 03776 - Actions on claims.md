@@ -6,7 +6,7 @@ Subject to section 3779(b) of this title, a claimant for damages pursuant to sec
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–261 substituted "Subject to section 3779(b) of this title, a claimant" for "A claimant" in first sentence and "by May 17, 1998" for "November 18, 1997".
+<b>1998</b>—Pub. L. 105–261 substituted "Subject to section 3779(b) of this title, a claimant" for "A claimant" infirst sentence and "by May 17, 1998" for "November 18, 1997".
 
 <b>1997</b>—Pub. L. 105–85 substituted "180 days" for "one year" and "claim or November 18, 1997," for "claim, or within one year after December 23, 1985,".
 

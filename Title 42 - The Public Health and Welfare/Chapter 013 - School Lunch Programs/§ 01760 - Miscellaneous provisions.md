@@ -226,7 +226,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall require that a school food authoritypurchase, to the maximum extent practicable, domestic commodities or products.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall require that a school food authority purchase, to the maximum extent practicable, domestic commodities or products.
 
 #### (B) Limitations
 
@@ -242,7 +242,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (4) Applicability to Puerto Rico
 
-&emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of Puerto Rico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+&emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of PuertoRico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
 #### (o) Procurement contracts
 
@@ -306,7 +306,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (B) Non-Federal sources
 
-&emsp;&emsp;For the purposes of subparagraph (A), non-Federal sources does not include revenuefrom the sale of foods sold in competition with meals served under the school lunch program authorized under this chapter or the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+&emsp;&emsp;For the purposes of subparagraph (A), non-Federal sources does not include revenue from the sale of foods sold in competition with meals served under the school lunch program authorized under this chapter or the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
 #### (C) Other programs
 
@@ -378,7 +378,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–296, §361, added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Secretary shall incorporate, in the Secretary's agreements with the State educational agencies, the express requirements under this chapter with respect to the operation of the school lunch program under this chapter insofar as they may be applicable and such other provisions as in the Secretary's opinion are reasonably necessary or appropriate to effectuate the purposes of this chapter."
+<b>2010</b>—Subsec. (b). Pub. L. 111–296, §361, added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Secretary shall incorporate, in the Secretary's agreements with the State educational agencies, the express requirements under this chapter with respect to the operation of the school lunch program under this chapter insofar as they maybe applicable and such other provisions as in the Secretary's opinion are reasonably necessary or appropriate to effectuate the purposes of this chapter."
 
 Subsec. (k). Pub. L. 111–296, §441(a)(4), struck out subsec. (k) which related to expedited rulemaking.
 
@@ -624,5 +624,5 @@ Amendment by act July 12, 1952, effective only with respect to funds appropriate
 
 #### Study of Cost Accounting Requirements
 
-Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted toappropriate committees of Congress within one year after Oct. 7, 1975.
+Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
 

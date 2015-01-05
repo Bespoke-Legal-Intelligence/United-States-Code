@@ -12,7 +12,7 @@ Section 2025, Pub. L. 92–513, title VI, §605, as added Pub. L. 98–547, titl
 
 Section 2026, Pub. L. 92–513, title VI, §606, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2760, related to determination of compliance of manufacturer with section 2022 of this title. See section 33108 of Title 49.
 
-Section 2026a, Pub. L. 92–513, title VI, §607, as added Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat.3397, related to verification of vehicle as legal salvage or junk vehicle. See section 33110 of Title 49.
+Section 2026a, Pub. L. 92–513, title VI, §607, as added Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to verification of vehicle as legal salvage or junk vehicle. See section 33110 of Title 49.
 
 Section 2026b, Pub. L. 92–513, title VI, §608, as added Pub. L. 102–519, title III, §306(c), Oct. 25, 1992, 106 Stat. 3397, related to determination and verification of passenger motor vehicle parts as not stolen. See section 33111 of Title 49.
 

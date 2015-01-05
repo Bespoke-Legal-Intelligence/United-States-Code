@@ -26,7 +26,7 @@
 | [117\.](%C2%A7%2000117%20-%20Qualified%20scholarships.md) | Qualified scholarships. |
 | [118\.](%C2%A7%2000118%20-%20Contributions%20to%20the%20capital%20of%20a%20corporation.md) | Contributions to the capital of a corporation. |
 | [119\.](%C2%A7%2000119%20-%20Meals%20or%20lodging%20furnished%20for%20the%20convenience%20of%20the%20employer.md) | Meals or lodging furnished for convenience of employer.<sup>1</sup> |
-| [120\.](%C2%A7%2000120%20-%20Amounts%20received%20under%20qualified%20group%20legal%20services%20plans.md) | Amounts received under qualified group legal services plans. |
+| \[120. | Repealed.\] |
 | [121\.](%C2%A7%2000121%20-%20Exclusion%20of%20gain%20from%20sale%20of%20principal%20residence.md) | Exclusion of gain from sale of principal residence. |
 | [122\.](%C2%A7%2000122%20-%20Certain%20reduced%20uniformed%20services%20retirement%20pay.md) | Certain reduced uniformed services retirement pay. |
 | [123\.](%C2%A7%2000123%20-%20Amounts%20received%20under%20insurance%20contracts%20for%20certain%20living%20expenses.md) | Amounts received under insurance contracts for certain living expenses. |
@@ -55,11 +55,16 @@
 | [139B.](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md) | Benefits provided to volunteer firefighters and emergency medical responders. |
 | [139C.](%C2%A7%2000139C%20-%20COBRA%20premium%20assistance.md) | COBRA premium assistance. |
 | [139D.](%C2%A7%2000139D%20-%20Indian%20health%20care%20benefits.md) | Indian health care benefits. |
+| [139E.](%C2%A7%2000139E%20-%20Indian%20general%20welfare%20benefits.md) | Indian general welfare benefits. |
 | [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(19)(A), Dec. 19, 2014, 128 Stat. 4039, which directed amendment of part III by striking out item 120 in table of sections for "such subpart", was executed by striking out item 120 "Amounts received under qualified group legal services plans" in table of sections for this part to reflect the probable intent of Congress.
+
+Pub. L. 113–168, §2(b), Sept. 26, 2014, 128 Stat. 1884, added item 139E.
 
 <b>2011</b>—Pub. L. 112–10, div. B, title VIII, §1858(b)(2)(B), Apr. 15, 2011, 125 Stat. 168, struck out item 139D "Free choice vouchers".
 
@@ -111,7 +116,7 @@ Pub. L. 96–223, title IV, §404(b)(1), Apr. 2, 1980, 94 Stat. 306, inserted "a
 
 <b>1978</b>—Pub. L. 95–618, title II, §242(b), Nov. 9, 1978, 92 Stat. 3194, redesignated former item 124 as 125 and added item 124.
 
-Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, §543(b), Nov. 6, 1978, 92 Stat. 2785, 2814, 2870, 2890, in item 121 substituted "One-time exclusion of gain from sale of principal residence by individual who has attained age 55" for "Gain from sale of exchange of residence of individual who has attained age 65", redesignated former item 124 as 128, and added items 125 to 127.
+Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, §543(b), Nov. 6, 1978, 92 Stat. 2785,2814, 2870, 2890, in item 121 substituted "One-time exclusion of gain from sale of principal residence by individual who has attained age 55" for "Gain from sale of exchange of residence of individual who has attained age 65", redesignated former item 124 as 128, and added items 125 to 127.
 
 <b>1976</b>—Pub. L. 94–455, title XXI, §2134(c), Oct. 4, 1976, 90 Stat. 1928, added item 120.
 
@@ -202,7 +207,7 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 - [&sect; 00117 - Qualified scholarships](%C2%A7%2000117%20-%20Qualified%20scholarships.md)
 - [&sect; 00118 - Contributions to the capital of a corporation](%C2%A7%2000118%20-%20Contributions%20to%20the%20capital%20of%20a%20corporation.md)
 - [&sect; 00119 - Meals or lodging furnished for the convenience of the employer](%C2%A7%2000119%20-%20Meals%20or%20lodging%20furnished%20for%20the%20convenience%20of%20the%20employer.md)
-- [&sect; 00120 - Amounts received under qualified group legal services plans](%C2%A7%2000120%20-%20Amounts%20received%20under%20qualified%20group%20legal%20services%20plans.md)
+- [&sect; 00120 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(19)(A), Dec. 19, 2014, 128 Stat. 4039](%C2%A7%2000120%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%2819%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204039.md)
 - [&sect; 00121 - Exclusion of gain from sale of principal residence](%C2%A7%2000121%20-%20Exclusion%20of%20gain%20from%20sale%20of%20principal%20residence.md)
 - [&sect; 00122 - Certain reduced uniformed services retirement pay](%C2%A7%2000122%20-%20Certain%20reduced%20uniformed%20services%20retirement%20pay.md)
 - [&sect; 00123 - Amounts received under insurance contracts for certain living expenses](%C2%A7%2000123%20-%20Amounts%20received%20under%20insurance%20contracts%20for%20certain%20living%20expenses.md)
@@ -226,4 +231,5 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 - [&sect; 00139B - Benefits provided to volunteer firefighters and emergency medical responders](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md)
 - [&sect; 00139C - COBRA premium assistance](%C2%A7%2000139C%20-%20COBRA%20premium%20assistance.md)
 - [&sect; 00139D - Indian health care benefits](%C2%A7%2000139D%20-%20Indian%20health%20care%20benefits.md)
+- [&sect; 00139E - Indian general welfare benefits](%C2%A7%2000139E%20-%20Indian%20general%20welfare%20benefits.md)
 - [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

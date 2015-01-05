@@ -46,7 +46,7 @@ The purpose of this section is to strengthen the public educational systems in p
 
 &emsp;&emsp;(ii) The establishment of exchange programs for teachers and administrators in predominantly Muslim countries and with other countries to stimulate additional ideas and reform throughout the world, including teacher training exchange programs focused on primary school teachers in such countries.
 
-&emsp;&emsp;(iii) The establishment of exchange programs for primary and secondary students in predominantly Muslim countries and with other countries to foster understanding and tolerance and to stimulate long-standing relationships.
+&emsp;&emsp;(iii) The establishment of exchange programs for primary and secondary students inpredominantly Muslim countries and with other countries to foster understanding and tolerance and to stimulate long-standing relationships.
 
 #### (C) Assistance targeting primary and secondary students
 
@@ -122,7 +122,7 @@ Findings.—Congress makes the following findings:
 
 Policy.—It is the policy of the United States—
 
-&emsp;"(1) to work toward the goal of dramatically increasing the availability of modern basic education through public schools in predominantly Muslim countries, which will reduce the influence of radical madrassas and other institutions that promote religious extremism;
+&emsp;"(1) to work toward the goal of dramatically increasing the availability of modern basic education through public schools in predominantly Muslimcountries, which will reduce the influence of radical madrassas and other institutions that promote religious extremism;
 
 &emsp;"(2) to join with other countries in generously supporting the International Muslim Youth Opportunity Fund authorized under section 7114 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[22 U.S.C. 2228\], as amended by section 2012 of this Act, with the goal of building and supporting public primary and secondary schools in predominantly Muslim countries that commit to sensibly investing the resources of such countries in modern public education;
 

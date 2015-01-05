@@ -12,6 +12,7 @@
 - [&sect; 04013a - Policy disclosures](%C2%A7%2004013a%20-%20Policy%20disclosures.md)
 - [&sect; 04014 - Estimates of premium rates](%C2%A7%2004014%20-%20Estimates%20of%20premium%20rates.md)
 - [&sect; 04015 - Chargeable premium rates](%C2%A7%2004015%20-%20Chargeable%20premium%20rates.md)
+- [&sect; 04015a - Premium surcharge](%C2%A7%2004015a%20-%20Premium%20surcharge.md)
 - [&sect; 04016 - Financing](%C2%A7%2004016%20-%20Financing.md)
 - [&sect; 04017 - National Flood Insurance Fund](%C2%A7%2004017%20-%20National%20Flood%20Insurance%20Fund.md)
 - [&sect; 04017a - Reserve Fund](%C2%A7%2004017a%20-%20Reserve%20Fund.md)
@@ -32,3 +33,4 @@
 - [&sect; 04030 - Repealed. Pub. L. 112&#8211;141, div. F, title II, &sect;100225(b), July 6, 2012, 126 Stat. 941](%C2%A7%2004030%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20F%2C%20title%20II%2C%20%C2%A7100225%28b%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20941.md)
 - [&sect; 04031 - Treatment of certain payments](%C2%A7%2004031%20-%20Treatment%20of%20certain%20payments.md)
 - [&sect; 04032 - Treatment of swimming pool enclosures outside of hurricane season](%C2%A7%2004032%20-%20Treatment%20of%20swimming%20pool%20enclosures%20outside%20of%20hurricane%20season.md)
+- [&sect; 04033 - Designation of Flood Insurance Advocate](%C2%A7%2004033%20-%20Designation%20of%20Flood%20Insurance%20Advocate.md)

@@ -60,15 +60,15 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(3)(A)(v). Pub. L. 112–74 substituted “August 1, 2012” for “October 4, 2011”. See below.
+<b>2011</b>—Subsec. (d)(3)(A)(v). Pub. L. 112–74 substituted "August 1, 2012" for "October 4, 2011". See below.
 
-Pub. L. 112–33 substituted “October 4, 2011”, which is the date specified in section 106(3) of Pub. L. 112–33, for “September 30, 2011”.
+Pub. L. 112–33 substituted "October 4, 2011", which is the date specified in section 106(3) of Pub. L. 112–33, for "September 30, 2011".
 
-<b>2009</b>—Subsec. (d)(3)(A)(iii). Pub. L. 111–68 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “$5,400,000,000, not later than September 30, 2009;”.
+<b>2009</b>—Subsec. (d)(3)(A)(iii). Pub. L. 111–68 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "$5,400,000,000, not later than September 30, 2009;".
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–68, div. B, §164(b), Oct. 1, 2009, 123 Stat. 2053, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 803(a)(1)(B) of the Postal Accountability and Enhancement Act (Public Law 109–435; 120 Stat. 3251).”
+Pub. L. 111–68, div. B, §164(b), Oct. 1, 2009, 123 Stat. 2053, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 803(a)(1)(B) of the Postal Accountability and Enhancement Act (Public Law 109–435; 120 Stat. 3251)."
 
 #### Effective Date
 
@@ -78,21 +78,21 @@ Section effective Oct. 1, 2006, see section 805(a) of Pub. L. 109–435, set out
 
 Pub. L. 109–435, title VIII, §803(b), Dec. 20, 2006, 120 Stat. 3252, provided that:
 
-“(1)
+"(1)
 
 In general.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Request for review.—Any regulation established under section 8909a(d)(5) of title 5, United States Code (as added by subsection (a)), shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this paragraph.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of healthcare insurance obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
 
-“(2)
+"(2)
 
-Reconsideration.—Upon receiving the report under paragraph (1), the Office of Personnel Management shall reconsider its determination or redetermination in light of such report, and shall make any appropriate adjustments. The Office shall submit a report containing the results of its reconsideration to the Commission, the Postal Service, and Congress.”
+Reconsideration.—Upon receiving the report under paragraph (1), the Office of Personnel Management shall reconsider its determination or redetermination in light of such report, and shall make any appropriate adjustments. The Office shall submit a report containing the results of its reconsideration to the Commission, the Postal Service, and Congress."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Benefits”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Benefits".</i>
 

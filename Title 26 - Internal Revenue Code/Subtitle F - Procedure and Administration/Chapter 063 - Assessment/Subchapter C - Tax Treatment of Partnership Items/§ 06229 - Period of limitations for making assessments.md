@@ -22,7 +22,7 @@ Except as otherwise provided in this section, the period for assessing any tax i
 
 #### (2) Special rule with respect to debtors in title 11 cases
 
-&emsp;Notwithstanding any other law or rule of law, if an agreement is entered into under paragraph (1)(B) and the agreement is signed by a person who would be the tax matters partner but for the fact that, at the time that the agreement is executed, the person is a debtor in a bankruptcy proceeding under title11 of the United States Code, such agreement shall be binding on all partners in the partnership unless the Secretary has been notified of the bankruptcy proceeding in accordance with regulations prescribed by the Secretary.
+&emsp;Notwithstanding any other law or rule of law, if an agreement is entered into under paragraph (1)(B) and the agreement is signed by a person who would be the tax matters partner but for the fact that, at the time that the agreement is executed, the person is a debtor in a bankruptcy proceeding under title 11 of the United States Code, such agreement shall be binding on all partners in the partnership unless the Secretary has been notified of the bankruptcy proceeding in accordance with regulations prescribed by the Secretary.
 
 #### (3) Coordination with section 6501(c)(4)
 
@@ -150,5 +150,5 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -76,7 +76,7 @@ July 4, 1966, Pub. L. 89–488, §9, 80 Stat. 254.
 
 Subsec. (c). Pub. L. 93–416, §14(2), substituted provisions relating to timeliness of claim for death when claim for injury was timely filed and death was based on same injury, for provisions relating to waiver of compliance with requirements for giving notice of injury and filing claim for compensation.
 
-Subsec. (d). Pub. L. 93–416, §14(3), substituted “(a) and (b)” for “(a)–(c)”, and added cl. (3).
+Subsec. (d). Pub. L. 93–416, §14(3), substituted "(a) and (b)" for "(a)–(c)", and added cl. (3).
 
 #### Effective Date of 1974 Amendment
 

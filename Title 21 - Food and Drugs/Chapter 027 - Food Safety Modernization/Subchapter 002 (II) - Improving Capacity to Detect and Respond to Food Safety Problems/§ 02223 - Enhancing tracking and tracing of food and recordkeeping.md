@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 270 days after January 4, 2011, the Secretary of Health and Human Services (referred to in this section as the "Secretary"), taking into account recommendations from the Secretary of Agriculture and representatives of State departments of health and agriculture, shall establish pilot projects in coordination with the food industry to explore and evaluate methods to rapidly and effectively identify recipients of food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as a result of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title.
+&emsp;Not later than 270 days after January 4, 2011, the Secretary of Health and Human Services\(referred to in this section as the "Secretary"), taking into account recommendations from the Secretary of Agriculture and representatives of State departments of health and agriculture, shall establish pilot projects in coordination with the food industry to explore and evaluate methods to rapidly and effectively identify recipients of food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as a result of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title.
 
 #### (2) Content
 
@@ -44,7 +44,7 @@
 
 #### (c) Product tracing system
 
-The Secretary, in consultation with the Secretary of Agriculture, shall, as appropriate, establish within the Food and Drug Administration a product tracing system to receive information that improves the capacity of the Secretary to effectively and rapidly track and tracefood that is in the United States or offered for import into the United States. Prior to the establishment of such product tracing system, the Secretary shall examine the results of applicable pilot projects and shall ensure that the activities of such system are adequately supported by the results of such pilot projects.
+The Secretary, in consultation with the Secretary of Agriculture, shall, as appropriate, establish within the Food and Drug Administration a product tracing system to receive information that improves the capacity of the Secretary to effectively and rapidly track and trace food that is in the United States or offered for import into the United States. Prior to the establishment of such product tracing system, the Secretary shall examine the results of applicable pilot projects and shall ensure that the activities of such system are adequately supported by the results of such pilot projects.
 
 #### (d) Additional recordkeeping requirements for high risk foods
 
@@ -168,7 +168,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (G) Grocery stores
 
-&emsp;&emsp;With respect to a sale of a food described in subparagraph (H) to a grocery store, theSecretary shall not require such grocery store to maintain records under this subsection other than records documenting the farm that was the source of such food. The Secretary shall not require that such records be kept for more than 180 days.
+&emsp;&emsp;With respect to a sale of a food described in subparagraph (H) to a grocery store, the Secretary shall not require such grocery store to maintain records under this subsection other than records documenting the farm that was the source of such food. The Secretary shall not require that such records be kept for more than 180 days.
 
 #### (H) Farm sales to consumers
 
@@ -192,7 +192,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;Not later than 1 year after the effective date of the final rule promulgated under subsection (d)(1), the Comptroller General of the United States shall submit to Congress a report, taking into consideration the costs of compliance and other regulatory burdens on small businesses and Federal, State, and local food safety practices and requirements, that evaluates the public health benefits and risks, if any, of limiting—
 
-&emsp;&emsp;(A) the product tracing requirements under subsection (d) to foods identified under paragraph (2) of such subsection, including whether such requirements provide adequate assurance of traceability in the event of intentional adulteration, including by acts of terrorism; and
+&emsp;&emsp;(A) the product tracing requirements under subsection (d) to foods identifiedunder paragraph (2) of such subsection, including whether such requirements provide adequate assurance of traceability in the event of intentional adulteration, including by acts of terrorism; and
 
 &emsp;&emsp;(B) the participation of restaurants in the recordkeeping requirements.
 

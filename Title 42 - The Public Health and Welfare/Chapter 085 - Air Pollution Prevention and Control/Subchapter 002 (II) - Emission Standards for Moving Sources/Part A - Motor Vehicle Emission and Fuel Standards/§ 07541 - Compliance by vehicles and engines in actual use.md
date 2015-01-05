@@ -14,7 +14,7 @@ If the Administrator determines that (i) there are available testing methods and
 
 &emsp;(1) he shall establish such methods and procedures by regulation, and
 
-&emsp;(2) at such time as he determines that inspection facilities or equipment are available for purposes of carrying out testing methods and procedures established under paragraph\(1), he shall prescribe regulations which shall require manufacturers to warrant the emission control device or system of each new motor vehicle or new motor vehicle engine to which a regulation under section 7521 of this title applies and which is manufactured in a model year beginning after the Administrator first prescribes warranty regulations under this paragraph (2). The warranty under such regulations shall run to the ultimate purchaser and each subsequent purchaser and shall provide that if—
+&emsp;(2) at such time as he determines that inspection facilities or equipment are available for purposes of carrying out testing methods and procedures established under paragraph (1), he shall prescribe regulations which shall require manufacturers to warrant the emission control device or system of each new motor vehicle or new motor vehicle engine to which a regulation under section 7521 of this title applies and which is manufactured in a model year beginning after the Administrator first prescribes warranty regulations under this paragraph (2). The warranty under such regulations shall run to the ultimate purchaser and each subsequent purchaser and shall provide that if—
 
 &emsp;&emsp;(A) the vehicle or engine is maintained and operated in accordance with instructions under subsection (c)(3) of this section,
 
@@ -196,15 +196,13 @@ Any inspection of a motor vehicle or a motor vehicle engine for purposes of subs
 
 #### (g) Replacement and maintenance costs borne by owner
 
-For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3) of this section)),<sup>3</sup> unless such part, item, or device is covered by any warranty not mandated by this chapter.
+For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine toreplace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3) of this section)),<sup>3</sup> unless such part, item, or device is covered by any warranty not mandated by this chapter.
 
 #### (h) Dealer certification
 
-(1) Upon the sale of each new light-duty motor vehicle by a dealer, the dealer shall furnish to the purchaser a certificate that such motor vehicle conforms to the applicable regulations under section 7521 of this title, including notice of the purchaser's rights under paragraph (2).
+(1) If at any time during the period for which the warranty applies under subsection (b) of this section, a motor vehicle fails to conform to the applicable regulations under section 7521 of this title as determined under subsection (b) of this section such nonconformity shall be remedied by the manufacturer at the cost of the manufacturer pursuant to such warranty as provided in subsection (b)(2) of this section (without regard to subparagraph (C) thereof).
 
-(2) If at any time during the period for which the warranty applies under subsection (b) of this section, a motor vehicle fails to conform to the applicable regulations under section 7521 of this title as determined under subsection (b) of this section such nonconformity shall be remedied by the manufacturer at the cost of the manufacturer pursuant to such warranty as provided in subsection (b)(2) of this section (without regard to subparagraph (C) thereof).
-
-(3) Nothing in section 7543(a) of this title shall be construed to prohibit a State from testing, or requiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).
+(2) Nothing in section 7543(a) of this title shall be construed to prohibit a State from testing, or requiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).
 
 #### (i) Warranty period
 
@@ -226,7 +224,7 @@ For the purposes of this section, the owner of any motor vehicle or motor vehicl
 
 &emsp;Subparagraph (A) of subsection (b)(2) of this section shall apply only where the Administrator has made a determination that the instructions concerned conform to the requirements of subsection (c)(3) of this section.
 
-(July 14, 1955, ch. 360, title II, §207, as added Pub. L. 91–604, §8(a), Dec. 31, 1970, 84 Stat. 1696; amended Pub. L. 95–95, title II, §§205, 208–210, 212, Aug. 7, 1977, 91 Stat. 754–756, 758; Pub. L. 95–190, §14(a)(70)–(72), Nov. 16, 1977, 91 Stat. 1403; Pub. L.101–549, title II, §§209, 210, 230(9), Nov. 15, 1990, 104 Stat. 2484, 2485, 2529.)
+(July 14, 1955, ch. 360, title II, §207, as added Pub. L. 91–604, §8(a), Dec. 31, 1970, 84 Stat. 1696; amended Pub. L. 95–95, title II, §§205, 208–210, 212, Aug. 7, 1977, 91 Stat. 754–756, 758; Pub. L. 95–190, §14(a)(70)–(72), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title II, §§209, 210, 230(9), Nov. 15, 1990, 104 Stat. 2484, 2485, 2529; Pub. L. 113–109, §1, June 9, 2014, 128 Stat. 1170.)
 
 #### Codification
 
@@ -238,13 +236,15 @@ A prior section 207 of act July 14, 1955, was renumbered section 208 by Pub. L. 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (h). Pub. L. 113–109 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "Upon the sale of each new light-duty motor vehicle by a dealer, the dealer shall furnish to the purchaser a certificate that such motor vehicle conforms to the applicable regulations under section 7521 of this title, including notice of the purchaser's rights under paragraph (2)."
+
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §209(4), inserted at end "In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section."
 
 Subsec. (b). Pub. L. 101–549, §209(1), (2), substituted "the warranty period (as determined under subsection (i) of this section)" for "useful life (as determined under section 7521(d) of this title)" in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: "For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term 'emission control device or system' means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968."
 
 Subsec. (c)(4) to (6). Pub. L. 101–549, §210, added pars. (4) to (6).
 
-Subsec. (g). Pub. L. 101–549, §230(9), substituted "the last sentence of subsection (a)(3) of this section)" for "the last three sentences of subsection (a)(1) of this section".
+Subsec. (g). Pub. L. 101–549, §230(9), substituted "the last sentence of subsection (a)(3) of this section)" for"the last three sentences of subsection (a)(1) of this section".
 
 Subsec. (i). Pub. L. 101–549, §209(3), added subsec. (i).
 

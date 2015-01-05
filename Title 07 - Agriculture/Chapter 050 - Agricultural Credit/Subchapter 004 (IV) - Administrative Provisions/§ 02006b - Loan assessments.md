@@ -26,7 +26,7 @@ The Secretary may contract with a third party (including those entities eligible
 
 #### (1) In general
 
-&emsp;Loan assessments conducted under this section shall include annual review of direct loans, and periodic review (as determined necessary by the Secretary) of guaranteed loans, made under this chapter to assess the progress of a borrower in meeting the goals for the farm or ranch operation.
+&emsp;Loan assessments conducted under this section shall include annual review of directloans, and periodic review (as determined necessary by the Secretary) of guaranteed loans, made under this chapter to assess the progress of a borrower in meeting the goals for the farm or ranch operation.
 
 #### (2) Contracts
 

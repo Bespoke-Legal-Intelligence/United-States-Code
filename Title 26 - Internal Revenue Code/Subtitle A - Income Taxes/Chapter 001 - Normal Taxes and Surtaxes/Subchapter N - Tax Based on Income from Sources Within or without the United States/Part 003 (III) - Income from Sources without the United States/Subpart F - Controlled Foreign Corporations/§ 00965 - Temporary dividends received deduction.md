@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) the amount of indebtedness of the controlled foreign corporation to any related person (as so defined) as of the close of October 3, 2004.
 
-> &emsp;All controlled foreign corporations with respect to which the taxpayer is a United States shareholder shall be treated as 1 controlled foreign corporation for purposes of this paragraph. The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including throughthe use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.
+> &emsp;All controlled foreign corporations with respect to which the taxpayer is a United States shareholder shall be treated as 1 controlled foreign corporation for purposes of this paragraph. The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.
 
 #### (4) Requirement to invest in United States
 

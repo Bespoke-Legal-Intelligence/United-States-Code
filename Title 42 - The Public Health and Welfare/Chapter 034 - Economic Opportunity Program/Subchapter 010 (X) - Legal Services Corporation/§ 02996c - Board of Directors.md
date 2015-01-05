@@ -26,7 +26,7 @@ Within six months after the first meeting of the Board, the Board shall request 
 
 #### (g) Open meetings; applicability of Government in the Sunshine provisions
 
-All meetings of the Board, of any executive committee of the Board, and of any advisorycouncil established in connection with this subchapter shall be open and shall be subject to the requirements and provisions of section 552b of title 5 (relating to open meetings).
+All meetings of the Board, of any executive committee of the Board, and of any advisory council established in connection with this subchapter shall be open and shall be subject to the requirements and provisions of section 552b of title 5 (relating to open meetings).
 
 #### (h) Quarterly meetings
 

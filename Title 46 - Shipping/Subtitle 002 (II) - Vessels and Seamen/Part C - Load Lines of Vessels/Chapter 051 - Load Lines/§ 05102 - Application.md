@@ -116,7 +116,7 @@ Clause (12) exempts vessels of the working voyages from the requirement to have 
 
 Section 5102(c) authorizes the Secretary to assign load lines for any vessel exempted from load line requirements by subsection (b) upon the request of the owner. It also provides that any exempted vessel for which load lines are assigned will remain subject to the load line requirements until its load line certificate is surrendered and the load line marks are removed.
 
-Section 5102(d) provides that this chapter shall not be construed as abrogating the provisions of other treaties and conventions to which the United States is a party, which are not in conflict with the International Convention on Load Lines.
+Section 5102(d) provides that this chapter shall not be construed as abrogating the provisions of other treaties and conventions to which the United States is a party,which are not in conflict with the International Convention on Load Lines.
 
 #### Amendments
 

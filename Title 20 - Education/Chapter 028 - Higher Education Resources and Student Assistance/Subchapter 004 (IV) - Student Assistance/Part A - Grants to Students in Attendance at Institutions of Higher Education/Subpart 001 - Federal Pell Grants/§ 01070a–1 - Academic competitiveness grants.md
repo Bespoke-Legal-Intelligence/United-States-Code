@@ -40,7 +40,7 @@ In this section the term "eligible student" means a student who, for the award y
 
 &emsp;&emsp;&emsp;&emsp;(bb) that is recognized as such by the Secretary in regulations promulgated to carry out this section, as such regulations were in effect on May 6, 2008; and
 
-&emsp;&emsp;&emsp;(ii) has obtained a cumulative grade point average of at least 3.0 (or the equivalent as determined under regulations prescribed by the Secretary) at the end of thefirst year of such program of undergraduate education;
+&emsp;&emsp;&emsp;(ii) has obtained a cumulative grade point average of at least 3.0 (or the equivalent as determined under regulations prescribed by the Secretary) at the end of the first year of such program of undergraduate education;
 
 &emsp;&emsp;(C) the third or fourth year of a program of undergraduate education at a four-year degree-granting institution of higher education—
 

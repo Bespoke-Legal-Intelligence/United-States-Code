@@ -12,7 +12,7 @@ In enacting section 2151a(b)(3) of this title the Congress recognized the import
 
 #### (b) Priorities
 
-The concerns expressed in subsection (a) of this section and the recommendations of the United States Interagency Task Force on Tropical Forests shall be given high priority by the President—
+The concerns expressed in subsection (a) and the recommendations of the United States Interagency Task Force on Tropical Forests shall be given high priority by the President—
 
 &emsp;(1) in formulating and carrying out programs and policies with respect to developing countries, including those relating to bilateral and multilateral assistance and those relating to private sector activities; and
 

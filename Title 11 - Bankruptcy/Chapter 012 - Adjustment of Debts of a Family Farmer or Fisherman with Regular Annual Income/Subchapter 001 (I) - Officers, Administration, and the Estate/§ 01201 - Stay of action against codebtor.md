@@ -76,7 +76,7 @@ Effective date of reenactment.—Paragraph (1) shall take effect on July 1, 2005
 
 Amendments—Chapter 12 of title 11, United States Code, as reenacted by subsection (a), is amended by this Act \[see Tables for classification\]."
 
-Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, §1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X,§10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749, provided that:
+Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, §1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749, provided that:
 
 "(a) Chapter 12 of title 11 of the United States Code, as in effect on December 31, 2003, is hereby reenacted for the period beginning on January 1, 2004, and ending on July 1, 2005.
 

@@ -100,33 +100,14 @@ For purposes of this section—
 
 &emsp;The applicable percentage is the percentage determined in accordance with the following table:
 
-<b>If the applicable election year</b>
+&nbsp;
 
-<b> of the partnership or S</b>
-
-<b>The applicable</b>
-
-<b> corporation begins during:</b>
-
-<b>percentage is:</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;1987
-
-&nbsp;&nbsp;&nbsp;25&nbsp;&nbsp;
-
-&nbsp;&nbsp;1988
-
-&nbsp;&nbsp;&nbsp;50&nbsp;&nbsp;
-
-&nbsp;&nbsp;1989
-
-&nbsp;&nbsp;&nbsp;75&nbsp;&nbsp;
-
-&nbsp;&nbsp;1990 or thereafter
-
-&nbsp;&nbsp;&nbsp;100.&nbsp;&nbsp;&nbsp;
+| <b>If the applicable election year of the partnership or S corporation begins during:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| 1987 | 25&nbsp;&nbsp; |
+| 1988 | 50&nbsp;&nbsp; |
+| 1989 | 75&nbsp;&nbsp; |
+| 1990 or thereafter | 100\. |
 
 > &emsp;Notwithstanding the preceding provisions of this paragraph, the applicable percentage for any partnership or S corporation shall be 100 percent unless more than 50 percent of such entity's net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.
 
@@ -156,7 +137,7 @@ For purposes of this section—
 
 #### (B) Applicable election year
 
-&emsp;&emsp;The term "applicable election year" means any taxable year of a partnership orS corporation with respect to which an election is in effect under section 444.
+&emsp;&emsp;The term "applicable election year" means any taxable year of a partnership or S corporation with respect to which an election is in effect under section 444.
 
 #### (3) Requirement of reporting
 
@@ -206,7 +187,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) the base year is a taxable year of less than 12 months.
 
-(Added Pub. L. 100–203, title X, §10206(b)(1), Dec. 22, 1987, 101 Stat. 1330–398; amended Pub. L. 100–647, title II, §2004(e)(4)–(10), (14)(B), Nov. 10, 1988, 102 Stat. 3601, 3602; Pub. L. 101–239, title VII, §§7721(c)(12), 7821(b), Dec. 19, 1989, 103 Stat. 2400, 2424; Pub. L. 101–508, title XI, §11704(a)(29), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 105–34, title XII, §1281(d), Aug. 5, 1997, 111 Stat. 1037.)
+(Added Pub. L. 100–203, title X, §10206(b)(1), Dec. 22, 1987, 101 Stat. 1330–398; amended Pub. L. 100–647, title II, §2004(e)(4)–(10), (14)(B), Nov. 10,1988, 102 Stat. 3601, 3602; Pub. L. 101–239, title VII, §§7721(c)(12), 7821(b), Dec. 19, 1989, 103 Stat. 2400, 2424; Pub. L. 101–508, title XI, §11704(a)(29), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 105–34, title XII, §1281(d), Aug. 5, 1997, 111 Stat. 1037.)
 
 #### References in Text
 

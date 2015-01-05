@@ -34,7 +34,7 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 Section 1602 of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (d).
 
-Section 1665g of this title, referred to in par. (6), was omitted and a new section 1665g was enacted in the general amendment of subchapter V–A by Pub. L. 111–148,title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. Subsec. (e) of the new section 1665g does not relate to reporting requirements.
+Section 1665g of this title, referred to in par. (6), was omitted and a new section 1665g was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. Subsec. (e) of the new section 1665g does not relate to reporting requirements.
 
 Section 1680l of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (f).
 
@@ -184,7 +184,7 @@ In general.—Not later than 3 years after the date of the enactment of the Yout
 
 &emsp;"(2)
 
-Exception.—In addition to the report required under paragraph (1), not later than 2 years after the date of the enactment of the Youth Drug and Mental Health Services Act \[Oct. 17, 2000\], the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate, a report that describes any alcohol and drug abuse among Indians and Native Alaskans who reside on reservations.
+Exception.—In addition to the report required under paragraph (1), not later than 2 years after thedate of the enactment of the Youth Drug and Mental Health Services Act \[Oct. 17, 2000\], the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate, a report that describes any alcohol and drug abuse among Indians and Native Alaskans who reside on reservations.
 
 "(j)
 

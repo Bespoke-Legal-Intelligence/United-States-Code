@@ -62,7 +62,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;(II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A) of this section;
 
-&emsp;&emsp;(ii) each supervisor of a Bureau school shall be hired by the education line officer ofthe agency office of the Bureau for the jurisdiction in which the school is located;
+&emsp;&emsp;(ii) each supervisor of a Bureau school shall be hired by the education line officer of the agency office of the Bureau for the jurisdiction in which the school is located;
 
 &emsp;&emsp;(iii) each educator employed in an agency office of the Bureau shall be hired by the superintendent for education of the agency office; and
 
@@ -70,7 +70,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;(B)(i) before an individual is employed in an education position in a Bureau school by the supervisor of the school (or, with respect to the position of supervisor, by the appropriate agency education line officer), the local school board for the school shall be consulted; and
 
-&emsp;&emsp;(ii) that a determination by such school board, as evidenced by school board records, that such individual should or should not be so employed shall be instituted by the supervisor (or with respect to the position of supervisor, by the superintendent for education of the agency office);
+&emsp;&emsp;(ii) that a determination by such school board, as evidenced by school board records, that such individual should or should not beso employed shall be instituted by the supervisor (or with respect to the position of supervisor, by the superintendent for education of the agency office);
 
 &emsp;&emsp;(C)(i) before an individual is employed in an education position in an agency or area office of the Bureau, the appropriate agency school board shall be consulted; and
 
@@ -136,7 +136,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (iv) Transmission of determination
 
-&emsp;&emsp;&emsp;The Director shall transmit the determination of such appeal in the form of awritten opinion to such board and to such education line officer identifying the reasons for overturning such determination.
+&emsp;&emsp;&emsp;The Director shall transmit the determination of such appeal in the form of a written opinion to such board and to such education line officer identifying the reasons for overturning such determination.
 
 #### (5) Other appeals
 
@@ -146,7 +146,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (B) Action by board
 
-&emsp;&emsp;A copy of such statement shall be submitted to the agency school board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
+&emsp;&emsp;A copy of such statement shall be submitted to the agency school board and suchboard shall be afforded an opportunity to respond, in writing, to such appeal.
 
 #### (C) Overturning of determination
 
@@ -230,7 +230,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "Indian preference laws" means section 472 of this title or any otherprovision of law granting a preference to Indians in promotions and other personnel actions.
+&emsp;&emsp;&emsp;The term "Indian preference laws" means section 472 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
 
 #### (ii) Exclusion
 
@@ -242,7 +242,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;&emsp;(i) the recognized governing body of any Indian tribe, band, nation, pueblo, or other organized community, including a Native village (as defined in section 1602(c) of title 43); or
 
-&emsp;&emsp;&emsp;(ii) in connection with any personnel action referred to in this subsection, any local school board to which the governing body has delegated the authority to grant a waiver under this subsection with respect to a personnel action.
+&emsp;&emsp;&emsp;(ii) in connection with any personnel action referred to in this subsection, any local school board to which the governing body has delegated the authority to granta waiver under this subsection with respect to a personnel action.
 
 #### (g) Compensation or annual salary
 
@@ -310,7 +310,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The Secretary shall disapprove, or approve with a modification, a request for authorization to provide a post differential rate if the Secretary determines for clear and convincing reasons (and advises the board in writing of those reasons) that the rate should be disapproved or decreased because the disparity of compensation between the appropriate educators or positions in the Bureau school, and the comparable educators or positions at the nearest public school, is—
+&emsp;&emsp;&emsp;The Secretary shall disapprove, or approve with a modification, a request for authorization to provide a post differential rate if the Secretary determines for clear and convincing reasons (and advises the board in writing of those reasons) that therate should be disapproved or decreased because the disparity of compensation between the appropriate educators or positions in the Bureau school, and the comparable educators or positions at the nearest public school, is—
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) at least 5 percent; or
 
@@ -466,7 +466,7 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 &emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>6</sup> of this title; and
 
-&emsp;&emsp;(B) all educators (other than principals and clerical employees) providing services atsuch Bureau school are placed on furloughs of equal length, except that the supervisor, with the approval of the local school board (or of the agency education line officer upon appeal under paragraph (2)), may continue one or more educators in pay status if—
+&emsp;&emsp;(B) all educators (other than principals and clerical employees) providing services at such Bureau school are placed on furloughs of equal length, except that the supervisor, with the approval of the local school board (or of the agency education line officer upon appeal under paragraph (2)), may continue one or more educators in pay status if—
 
 &emsp;&emsp;&emsp;(i) such educators are needed to operate summer programs, attend summer training sessions, or participate in special activities including curriculum development committees; and
 

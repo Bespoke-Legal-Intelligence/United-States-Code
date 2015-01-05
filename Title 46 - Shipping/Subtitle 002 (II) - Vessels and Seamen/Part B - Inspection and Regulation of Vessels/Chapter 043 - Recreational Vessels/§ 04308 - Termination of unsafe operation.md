@@ -14,7 +14,7 @@ Historical and Revision Notes
 
 46:1462
 
-Section 4308 authorizes an appropriate official to terminate the unsafe operation of recreational vessels. Ifthe official observes the vessel being operated without sufficient lifesaving or firefighting devices or in an overloaded or other unsafe condition (as defined in regulations) and believes the operation creates an especially hazardous condition, the operator may be directed to take immediate and reasonable steps necessary for safety, including returning to a mooring and remaining there until the hazard is corrected or ended. This does not prevent the assessment of any applicable civil penalties nor the pursuing of appropriate criminal action.
+Section 4308 authorizes an appropriate official to terminate the unsafe operation of recreational vessels. If the official observes the vessel being operated without sufficient lifesaving or firefighting devices or in an overloaded or other unsafe condition (as defined in regulations) and believes the operation creates an especially hazardous condition, the operator may be directed to take immediate and reasonable steps necessary for safety, including returning to a mooring and remaining there until the hazard is corrected or ended. This does not prevent the assessment of any applicable civil penalties nor the pursuing of appropriate criminal action.
 
 #### Amendments
 

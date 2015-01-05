@@ -2,7 +2,7 @@
 
 #### (1) National security responsibilities
 
-(A) Nothing in this chapter (including any amendment made by this chapter) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by section 3532(3) <sup>1</sup> of title 44.
+(A) Nothing in this chapter (including any amendment made by this chapter) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by section 3552(b)(5) <sup>1</sup> of title 44.
 
 (B) Omitted
 
@@ -10,11 +10,11 @@
 
 Nothing in this chapter shall supersede any requirement made by or under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.). Restricted Data or Formerly Restricted Data shall be handled, protected, classified, downgraded, and declassified in conformity with the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
-(Pub. L. 107–296, title X, §1001(c), Nov. 25, 2002, 116 Stat. 2267.)
+(Pub. L. 107–296, title X, §1001(c), Nov. 25, 2002, 116 Stat. 2267; Pub. L. 113–283, §2(e)(3)(B), Dec. 18, 2014, 128 Stat. 3087.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
@@ -22,13 +22,17 @@ The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch.
 
 Section is comprised of section 1001(c) of Pub. L. 107–296. Par. (1)(B) of section 1001(c) of Pub. L. 107–296 amended section 2224 of Title 10, Armed Forces.
 
+#### Amendments
+
+<b>2014</b>—Par. (1)(A). Pub. L. 113–283 substituted "section 3552(b)(5)" for "section 3532(3)".
+
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Short Title
 
-For short title of title X of Pub. L. 107–296, which enacted this subchapter, as the “Federal Information Security Management Act of 2002”, see section 1001(a) of Pub. L. 107–296, set out as a note under section 101 of this title.
+For short title of title X of Pub. L. 107–296, which enacted this subchapter, as the "Federal Information Security Management Act of 2002", see section 1001(a) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “3532(b)(2)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "3552(b)(6)".</i>
 

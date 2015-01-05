@@ -58,7 +58,7 @@
 
 (i) Subsections (a) and (b) shall not prevent use of a dispute resolution communication to resolve a dispute between the neutral in a dispute resolution proceeding and a party to or participant in such proceeding, so long as such dispute resolution communication is disclosed only to the extent necessary to resolve such dispute.
 
-(j) A dispute resolution communication which is between a neutral and a party and which maynot be disclosed under this section shall also be exempt from disclosure under section 552(b)(3).
+(j) A dispute resolution communication which is between a neutral and a party and which may not be disclosed under this section shall also be exempt from disclosure under section 552(b)(3).
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2740, §584; renumbered §574, Pub. L. 102–354, §3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, §3, Oct. 19, 1996, 110 Stat. 3870.)
 
@@ -74,13 +74,13 @@ A prior section 574 was renumbered section 594 of this title.
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–320, §3(a), in introductory provisions struck out “any information concerning” after “be required to disclose”.
+<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–320, §3(a), in introductory provisions struck out "any information concerning" after "be required to disclose".
 
-Subsec. (b)(7). Pub. L. 104–320, §3(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the dispute resolution communication was provided to or was available to all parties to the dispute resolution proceeding”.
+Subsec. (b)(7). Pub. L. 104–320, §3(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "the dispute resolution communication was provided to or was available to all parties to the dispute resolution proceeding".
 
 Subsec. (d). Pub. L. 104–320, §3(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (j). Pub. L. 104–320, §3(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “This section shall not be considered a statute specifically exempting disclosure under section 552(b)(3) of this title.”
+Subsec. (j). Pub. L. 104–320, §3(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "This section shall not be considered a statute specifically exempting disclosure under section 552(b)(3) of this title."
 
 <b>1992</b>—Pub. L. 102–354 renumbered section 584 of this title as this section.
 

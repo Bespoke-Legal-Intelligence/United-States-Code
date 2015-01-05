@@ -18,7 +18,7 @@
 
 #### (b) Period of disqualification
 
-Subject to subsection (c), a disqualification under subsection (a) of this section shall be—
+Subject to subsection (c), a disqualification under subsection (a) shall be—
 
 &emsp;(1) for a reasonable period of time, not to exceed 5 years, upon the first occasion of disqualification;
 
@@ -36,7 +36,7 @@ Subject to subsection (c), a disqualification under subsection (a) of this secti
 
 &emsp;&emsp;&emsp;(II) the management was aware of, approved of, benefited from, or was involved in the conduct of no more than 1 previous violation by the store or food concern; or
 
-&emsp;&emsp;(C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
+&emsp;&emsp;(C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
 
 &emsp;(4) for a reasonable period of time to be determined by the Secretary, including permanent disqualification, on the knowing submission of an application for the approval or reauthorization to accept and redeem coupons that contains false information about a substantive matter that was a part of the application.
 
@@ -74,7 +74,7 @@ Subject to subsection (c), a disqualification under subsection (a) of this secti
 
 #### (e) Transfer of ownership; penalty in lieu of disqualification period; fines for acceptance of loose coupons; judicial action to recover penalty or fine
 
-(1) In the event any retail food store or wholesale food concern that has been disqualified under subsection (a) of this section is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern shall be subjected to a civil penalty in an amount established by the Secretary through regulationsto reflect that portion of the disqualification period that has not yet expired. If the retail food store or wholesale food concern has been disqualified permanently, the civil penalty shall be double the penalty for a ten-year disqualification period, as calculated under regulations issued by the Secretary. The disqualification period imposed under subsection (b) of this section shall continue in effect as to the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil penalty under this subsection.
+(1) In the event any retail food store or wholesale food concern that has been disqualified under subsection (a) is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern shall be subjected to a civil penalty in an amount established by the Secretary through regulations to reflect that portion of the disqualification period that has not yet expired. If the retail food store or wholesale food concern has been disqualified permanently, the civil penalty shall be double the penalty for a ten-year disqualification period, as calculated under regulations issued by the Secretary. The disqualification period imposed under subsection (b) shall continue in effect as to the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil penalty under this subsection.
 
 (2) At any time after a civil penalty imposed under paragraph (1) has become final under the provisions of section 2023(a) of this title, the Secretary may request the Attorney General to institute a civil action against the person or persons subject to the penalty in a district court of the United States for any district in which such person or persons are found, reside, or transact business to collect the penalty and such court shall have jurisdiction to hear and decide such action. In such action, the validity and amount of such penalty shall not be subject to review.
 
@@ -120,7 +120,65 @@ The Secretary may impose a fine against any person not approved by the Secretary
 
 &emsp;The Secretary shall not be liable for the value of any interest on funds suspended under this subsection.
 
-(Pub. L. 88–525, §12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, §1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L. 100–435, title III, §344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§1743–1745, Nov. 28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§13943, 13944, Aug. 10, 1993, 107 Stat. 677; Pub. L. 104–127, title IV, §401(a), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §§841–843, Aug. 22, 1996, 110 Stat. 2331, 2332; Pub. L. 110–234, title IV, §4132, May 22, 2008, 122 Stat. 1114; Pub. L. 110–246, §4(a), title IV, §4132, June 18, 2008, 122 Stat. 1664, 1875.)
+#### (i) Pilot projects to improve Federal-State cooperation in identifying and reducing fraud in the supplemental nutrition assistance program
+
+#### (1) Pilot projects required
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall carry out, under such terms and conditions as are determined by the Secretary, pilot projects to test innovative Federal-State partnerships to identify, investigate, and reduce fraud by retail food stores and wholesale food concerns in the supplemental nutrition assistance program, including allowing States to operate programs to investigate that fraud.
+
+#### (B) Requirement
+
+&emsp;&emsp;At least 1 pilot project described in subparagraph (A) shall be carried out in an urban area that is among the 10 largest urban areas in the United States (based on population), if—
+
+&emsp;&emsp;&emsp;(i) the supplemental nutrition assistance program is separately administered in the area; and
+
+&emsp;&emsp;&emsp;(ii) if the administration of the supplemental nutrition assistance program in the area complies with the other applicable requirements of the program.
+
+#### (2) Selection criteria
+
+&emsp;Pilot projects shall be selected based on criteria the Secretary establishes, which shall include—
+
+&emsp;&emsp;(A) enhancing existing efforts by the Secretary to reduce fraud described in paragraph (1)(A);
+
+&emsp;&emsp;(B) requiring participant States to maintain the overall level of effort of the States at addressing recipient fraud, as determined by the Secretary, prior to participation in the pilot project;
+
+&emsp;&emsp;(C) collaborating with other law enforcement authorities as necessary to carry out an effective pilot project;
+
+&emsp;&emsp;(D) commitment of the participant State agency to follow Federal rules and procedures with respect to investigations described in paragraph (1)(A); and
+
+&emsp;&emsp;(E) the extent to which a State has committed resources to recipient fraud and the relative success of those efforts.
+
+#### (3) Evaluation
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall evaluate the pilot projects selected under this subsection to measure the impact of the pilot projects.
+
+#### (B) Requirements
+
+&emsp;&emsp;The evaluation shall include—
+
+&emsp;&emsp;&emsp;(i) the impact of each pilot project on increasing the capacity of the Secretary to address fraud described in paragraph (1)(A);
+
+&emsp;&emsp;&emsp;(ii) the effectiveness of the pilot projects in identifying, preventing and reducing fraud described in paragraph (1)(A); and
+
+&emsp;&emsp;&emsp;(iii) the cost effectiveness of the pilot projects.
+
+#### (4) Report to Congress
+
+&emsp;Not later than September 30, 2017, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that includes a description of the results of each pilot project, including—
+
+&emsp;&emsp;(A) an evaluation of the impact of the pilot project on fraud described in paragraph (1)(A); and
+
+&emsp;&emsp;(B) the costs associated with the pilot project.
+
+#### (5) Funding
+
+&emsp;Any costs incurred by a State to operate pilot projects under this subsection that are in excess of the amount expended under this chapter to identify, investigate, and reduce fraud described in paragraph (1)(A) in the respective State in the previous fiscal year shall not be eligible for Federal reimbursement under this chapter.
+
+(Pub. L. 88–525, §12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, §1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L.100–435, title III, §344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§1743–1745, Nov. 28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§13943, 13944, Aug. 10, 1993, 107 Stat. 677; Pub. L. 104–127, title IV, §401(a), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §§841–843, Aug. 22, 1996, 110 Stat. 2331, 2332; Pub. L. 110–234, title IV, §4132, May 22, 2008, 122 Stat. 1114; Pub. L. 110–246, §4(a), title IV, §4132, June 18, 2008, 122 Stat. 1664, 1875; Pub. L. 113–79, title IV, §§4017, 4030(g), Feb. 7, 2014, 128 Stat. 796, 814.)
 
 #### Codification
 
@@ -128,9 +186,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b)(3)(C). Pub. L. 113–79, §4030(g)(1), substituted "civil penalties" for "civil money penalties".
+
+Subsec. (g)(1). Pub. L. 113–79, §4030(g)(2), made technical amendment to reference in original act which appears in text as reference to section 1786 of title 42.
+
+Subsec. (i). Pub. L. 113–79, §4017, added subsec. (i).
+
 <b>2008</b>—Pub. L. 110–246, §4132(1), substituted "Civil penalties" for "Civil money penalties" in section catchline.
 
-Subsec. (a). Pub. L. 110–246, §4132(1), added subsec. (a) and struck out former subsec. (a) which read as follows:"Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system."
+Subsec. (a). Pub. L. 110–246, §4132(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system."
 
 Subsec. (b). Pub. L. 110–246, §4132(2)(A), inserted heading and substituted "Subject to subsection (c), a disqualification" for "Disqualification" in introductory provisions.
 
@@ -188,7 +252,7 @@ References to a "coupon", "authorization card", or other access device provided 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4132 of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

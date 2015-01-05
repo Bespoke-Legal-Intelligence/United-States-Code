@@ -24,7 +24,7 @@ Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment o
 
 (c)
 
-Payment Options for Retirees.—A member or former member of the uniformed serviceseligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
+Payment Options for Retirees.—A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
 
 (d)
 
@@ -62,7 +62,7 @@ Pub. L. 105–261, div. A, title VII, §712(b), Oct. 17, 1998, 112 Stat. 2059, p
 
 #### Future Availability of TRICARE Prime Throughout the United States
 
-Pub. L. 112–239, div. A, title VII, §732, Jan. 2, 2013, 126 Stat. 1816, as amended by Pub. L. 113–66, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 789, provided that:
+Pub. L. 112–239, div. A, title VII, §732, Jan. 2, 2013, 126 Stat. 1816, as amended by Pub. L. 113–66, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 789; Pub. L. 113–291, div. A, title VII, §723, Dec. 19, 2014, 128 Stat. 3417, provided that:
 
 "(a)
 
@@ -90,6 +90,36 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 "(b)
 
+Additional Report.—
+
+&emsp;"(1)
+
+Report required.—Not later than 180 days after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the status of reducing the availability of TRICARE Prime in regions described in subsection (d)(1)(B).
+
+&emsp;"(2)
+
+Matters included.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the implementation of the transition for affected eligible beneficiaries under the TRICARE program who no longer have access to TRICARE Prime under TRICARE managed care contracts as of the date of the report, including—
+
+&emsp;&emsp;&emsp;"(i) the number of eligible beneficiaries who have transitioned from TRICARE Prime to the TRICARE Standard option of the TRICARE program since October 1, 2013;
+
+&emsp;&emsp;&emsp;"(ii) the number of eligible beneficiaries who transferred their TRICARE Prime enrollment to a more distant available Prime service area to remain in TRICARE Prime, by State;
+
+&emsp;&emsp;&emsp;"(iii) the number of eligible beneficiaries who were eligible to transfer to a more distant available Prime service area, but chose to use TRICARE Standard;
+
+&emsp;&emsp;&emsp;"(iv) the number of eligible beneficiaries who elected to return to TRICARE Prime pursuant to subsection (c)(1); and
+
+&emsp;&emsp;&emsp;"(v) the number of affected eligible beneficiaries who, as of the date of the report, changed residences to remain eligible for TRICARE Prime in a new region.
+
+&emsp;&emsp;"(B) An estimate of the increased annual costs per affected eligible beneficiary incurred by such beneficiary for health care under the TRICARE program.
+
+&emsp;&emsp;"(C) A description of the efforts of the Department to assess the impact on access to health care and beneficiary satisfaction for affected eligible beneficiaries.
+
+&emsp;&emsp;"(D) A description of the estimated cost savings realized by reducing the availability of TRICARE Prime in regions described in subsection (d)(1)(B).
+
+"(c)
+
 Access to TRICARE Prime.—
 
 &emsp;"(1)
@@ -104,7 +134,7 @@ Enrollment in tricare standard.—If an affected eligible beneficiary makes the 
 
 Residence at time of election.—An affected eligible beneficiary may not make the one-time election under paragraph (1) if, at the time of such election, the beneficiary does not reside—
 
-&emsp;&emsp;"(A) in a ZIP code that is in a region described in subsection (c)(1)(B); and
+&emsp;&emsp;"(A) in a ZIP code that is in a region described in subsection (d)(1)(B); and
 
 &emsp;&emsp;"(B) within 100 miles of a military medical treatment facility.
 
@@ -112,7 +142,7 @@ Residence at time of election.—An affected eligible beneficiary may not make t
 
 Network.—In continuing enrollment in TRICARE Prime pursuant to paragraph (1), the Secretary may determine whether to maintain a TRICARE network of providers in an area that is between 40 and 100 miles of a military medical treatment facility.
 
-"(c)
+"(d)
 
 Definitions.—In this section:
 
@@ -127,4 +157,6 @@ Definitions.—In this section:
 &emsp;"(3) The term 'TRICARE program' has the meaning given that term in section 1072(7) of title 10, United States Code.
 
 &emsp;"(4) The term 'TRICARE Standard' means the fee-for-service option of the TRICARE Program."
+
+\[Pub. L. 113–291, div. A, title VII, §723(b), Dec. 19, 2014, 128 Stat. 3418, which directed amendment of subsec. (b)(3)(A) of section 723 of Pub. L. 112–239, set out above, by substituting "subsection (d)(1)(B)" for "subsection (c)(1)(B)", was executed by making the substitution in subsec. (c)(3)(A) of Pub. L. 112–239, to reflect the probable intent of Congress and the prior amendment by section 723(a)(1) of Pub. L. 113–291, which redesignated subsec. (b) as (c).\]
 

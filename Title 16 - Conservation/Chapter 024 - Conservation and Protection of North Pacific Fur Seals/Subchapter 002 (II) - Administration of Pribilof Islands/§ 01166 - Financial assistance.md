@@ -76,11 +76,11 @@ Neither the United States nor any of its agencies, officers, or employees shall 
 
 &emsp;(1) having provided assistance to the State of Alaska under subsection (b) of this section; or
 
-&emsp;(2) providing funds for, or planning, constructing, or operating, any interim solid waste management facilities that may be required by the State of Alaska before permanent solid waste management facilities constructed with assistance provided under subsection (b) of this section are complete and operational.
+&emsp;(2) providing funds for, or planning, constructing, or operating, any interim solidwaste management facilities that may be required by the State of Alaska before permanent solid waste management facilities constructed with assistance provided under subsection (b) of this section are complete and operational.
 
 #### (f) Report on expenditures
 
-Each entity which receives assistance authorized under subsection (c) of this section shall submit an audited statement listing the expenditure of that assistance to the Committee on Appropriations and the Committee on Resources of the House of Representatives and the Committee on Appropriations and the Committee onCommerce, Science, and Transportation of the Senate, on the last day of fiscal years 2002, 2004, and 2006.
+Each entity which receives assistance authorized under subsection (c) of this section shall submit an audited statement listing the expenditure of that assistance to the Committee on Appropriations and the Committee on Resources of the House of Representatives and the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate, on the last day of fiscal years 2002, 2004, and 2006.
 
 #### (g) Congressional intent
 

@@ -24,7 +24,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "special operations forces" includes civil affairs forces and military information support operations forces.
 
-&emsp;(2) The term "incremental expenses", with respect to a developing country, means the reasonable and proper cost of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country, except that the term does not include pay, allowances, and other normal costs of such country's personnel.
+&emsp;(2) The term "incremental expenses", with respect to a developing country, means the reasonable and proper cost of rations, fuel,training ammunition, transportation, and other goods and services consumed by such country, except that the term does not include pay, allowances, and other normal costs of such country's personnel.
 
 (e)
 
@@ -120,7 +120,7 @@ Annual Reports to Congress.—Not later than April 1 of each year following a fi
 
 &emsp;&emsp;"(E) A summary of the expenditures under subsection (c) in connection with such training.
 
-&emsp;&emsp;"(F) A description and assessment of the unique military training benefits for members of the United States Armed Forces involved in such training.
+&emsp;&emsp;"(F) A description and assessment of the unique military training benefits for members of theUnited States Armed Forces involved in such training.
 
 &emsp;"(2) A list of the training events to be conducted during the 12-month period beginning on April 1 of the year in which such report is submitted.
 

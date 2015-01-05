@@ -122,7 +122,7 @@ No tax shall be imposed under this subchapter on the United States or any agency
 
 #### (3) Administrative provisions applicable to tax law not to apply
 
-&emsp;The tax imposed by this subchapter shall not be treated as a tax for purposes of subtitle F or any other provision of law relating to the administration and enforcement of internal revenue taxes.
+&emsp;The tax imposed by this subchapter shall not be treated as a tax for purposes of subtitle For any other provision of law relating to the administration and enforcement of internal revenue taxes.
 
 #### (g) Special rules
 
@@ -156,7 +156,7 @@ The Secretary may prescribe such additional regulations as may be necessary to c
 
 &emsp;(4) providing for the remittance or mitigation of penalties and the settlement or compromise of claims.
 
-(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647,title II, §2002(b), title VI, §§6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, §1704(i)(1), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 109–59, title XI, §11116(a), Aug. 10, 2005, 119 Stat. 1950.)
+(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647, title II, §2002(b), title VI, §§6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, §1704(i)(1), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 109–59, title XI, §11116(a), Aug. 10, 2005, 119 Stat. 1950.)
 
 #### Prior Provisions
 

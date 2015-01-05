@@ -10,7 +10,7 @@ Section 1461 of this title, section 1461–1 of this title, and section 1461–1
 
 #### (c) Limitation on use of funds
 
-(1) Except as provided in section 1461 of this title and section 1461–1a of this title, funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
+(1) Except as provided in section 1461 of this title and section 1461–1a of this title, funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
 
 (2)
 
@@ -32,7 +32,7 @@ The Department of State's Congressional Presentation Document for fiscal year 20
 
 &emsp;(1) the aggregated amounts that the Department will spend on such public diplomacy programs and on costs of personnel for such programs, and a detailed description of the goals and purposes for which such funds shall be expended; and
 
-&emsp;(2) the amount of funds allocated to and the positions authorized for such public diplomacy programs, including bureaus to be created upon the transfer of functions from USIA to the Department.
+&emsp;(2) the amount of funds allocated to and the positions authorized for such public diplomacyprograms, including bureaus to be created upon the transfer of functions from USIA to the Department.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIII, §1333, Oct. 21, 1998, 112 Stat. 2681–785; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434.)
 
@@ -42,5 +42,5 @@ This chapter, referred to in subsecs. (a), (b), and (d), was in the original "th
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted ", identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes," after "diplomacy programs", and added par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted ", identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes," after "diplomacy programs", and added par. (2).
 

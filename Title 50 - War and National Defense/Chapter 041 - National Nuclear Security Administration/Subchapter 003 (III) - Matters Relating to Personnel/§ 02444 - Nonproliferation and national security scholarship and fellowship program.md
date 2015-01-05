@@ -90,7 +90,7 @@ Section 3101(a)(2), referred to in subsec. (h), is section 3101(a)(2) of Pub. L.
 
 #### Codification
 
-Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year2009, and not as part of the National Nuclear Security Administration Act which comprises this chapter.
+Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, and not as part of the National Nuclear Security Administration Act which comprises this chapter.
 
 #### Amendments
 

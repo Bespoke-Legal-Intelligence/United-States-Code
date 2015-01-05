@@ -16,7 +16,7 @@ A commission is created, to be composed of the following members, who shall be a
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–367, §1, Oct. 25, 2004, 118 Stat. 1743, provided that: "This Act \[enacting sections 428p to 428p–2 of this title and amending section 428k of this title\]may be cited as the 'Fort Donelson National Battlefield Expansion Act of 2004'."
+Pub. L. 108–367, §1, Oct. 25, 2004, 118 Stat. 1743, provided that: "This Act \[enacting sections 428p to 428p–2 of this title and amending section 428k of this title\] may be cited as the 'Fort Donelson National Battlefield Expansion Act of 2004'."
 
 #### Transfer of Functions
 

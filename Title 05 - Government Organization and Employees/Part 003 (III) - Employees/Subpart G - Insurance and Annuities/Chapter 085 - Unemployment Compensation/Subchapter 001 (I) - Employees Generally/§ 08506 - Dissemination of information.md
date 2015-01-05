@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 42 U.S.C. 1367.
 
-Sept. 1, 1954, ch. 1212, §4(a) “Sec. 1507”, 68 Stat. 1134.
+Sept. 1, 1954, ch. 1212, §4(a) "Sec. 1507", 68 Stat. 1134.
 
 &nbsp;
 
@@ -46,5 +46,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–566, title III, §313(b), Oct. 20, 1976, 90 Stat. 2680, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to findings made after the date of the enactment of this Act \[Oct. 20, 1976\].”
+Pub. L. 94–566, title III, §313(b), Oct. 20, 1976, 90 Stat. 2680, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to findings made after the date of the enactment of this Act \[Oct. 20, 1976\]."
 

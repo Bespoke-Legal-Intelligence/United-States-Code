@@ -92,7 +92,7 @@
 
 #### (C) Applicable government-wide regulations
 
-&emsp;&emsp;The Secretary shall implement this paragraph in accordance with government-wide regulations implementing such section 3304(a)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances,that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which an agency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
+&emsp;&emsp;The Secretary shall implement this paragraph in accordance with government-wide regulations implementing such section 3304(a)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which an agency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
 
 #### (3) Increased micropurchase threshold
 
@@ -106,7 +106,7 @@
 
 #### (C) Exception to preference for purchase card mechanism
 
-&emsp;&emsp;No provision of law establishing a preference for using a Government purchase card method for purchases shall apply to purchases that are under this paragraph and that are greater than $2,500.
+&emsp;&emsp;No provision of law establishing a preference for using a Government purchasecard method for purchases shall apply to purchases that are under this paragraph and that are greater than $2,500.
 
 #### (4) Review
 
@@ -170,7 +170,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall institute appropriate internal controls for contracts under this subsection, including procedures for the Secretary to make a determination of whether a person, or an officer, employee, or governing board member of a person, is deemed to be an employee of the Department of Health and Human Services pursuant to paragraph (2).
+&emsp;&emsp;The Secretary shall institute appropriate internal controls for contracts under this subsection, including procedures for the Secretary to make a determination of whether aperson, or an officer, employee, or governing board member of a person, is deemed to be an employee of the Department of Health and Human Services pursuant to paragraph (2).
 
 #### (B) Determination of employee status to be final
 
@@ -332,7 +332,7 @@ Extension.—The Attorney General may extend the 15-day period referred to in su
 
 &emsp;&emsp;"(C)
 
-Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
+Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extentthat the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
 
 &emsp;"(5)
 
@@ -404,7 +404,7 @@ Exception.—The term 'covered activities' shall not include, with respect to a 
 
 &emsp;&emsp;&emsp;"(vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise."
 
-\[Pub. L. 113–5, title IV, §402(e)(2), Mar. 13, 2013, 127 Stat. 195, provided that: "This subsection \[amendingsection 405 of Pub. L. 109–417, set out above\] shall take effect as if enacted on December 17, 2012."\]
+\[Pub. L. 113–5, title IV, §402(e)(2), Mar. 13, 2013, 127 Stat. 195, provided that: "This subsection \[amending section 405 of Pub. L. 109–417, set out above\] shall take effect as if enacted on December 17, 2012."\]
 
 #### Outreach
 
@@ -412,7 +412,7 @@ Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: "The Secret
 
 #### Recommendation for Export Controls on Certain Biomedical Countermeasures
 
-Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
+Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the headsof other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
 
 #### Ensuring Coordination, Cooperation and the Elimination of Unnecessary Duplication in Programs Designed To Protect the Homeland From Biological, Chemical, Radiological, and Nuclear Agents
 

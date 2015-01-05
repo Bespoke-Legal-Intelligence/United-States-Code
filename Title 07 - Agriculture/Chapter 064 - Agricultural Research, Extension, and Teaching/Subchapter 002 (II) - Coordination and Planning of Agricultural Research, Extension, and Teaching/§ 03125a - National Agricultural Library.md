@@ -42,13 +42,13 @@ The Director may—
 
 #### (f) Receipts
 
-Funds received from sales under subsection (e) of this section shall be deposited in the Treasury of the United States to the credit of the applicable appropriation and shall remain available until expended.
+Funds received from sales under subsection (e) shall be deposited in the Treasury of the United States to the credit of the applicable appropriation and shall remain available until expended.
 
 #### (g) Agreements
 
 #### (1) In general
 
-&emsp;The Director may enter into agreement with, and receive funds from any State, and other political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
+&emsp;The Director may enter into agreement with, and receive funds from any State, andother political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
 
 #### (2) Funds
 
@@ -62,7 +62,7 @@ There are authorized to be appropriated for each fiscal year such sums as may be
 
 #### Enhanced Use Lease Authority Pilot Program
 
-Pub. L. 103–354, title III, §308, as added by Pub. L. 110–234, title VII, §7409, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, §4(a), title VII, §7409, June 18, 2008, 122 Stat. 1664, 2014, provided that:
+Pub. L. 103–354, title III, §308, as added by Pub. L. 110–234, title VII, §7409, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, §4(a), title VII, §7409, June 18, 2008, 122 Stat. 1664, 2014; Pub. L. 113–79, title VII, §§7511, 7605, Feb. 7, 2014, 128 Stat. 901, 912, provided that:
 
 "(a)
 
@@ -140,7 +140,7 @@ Prohibition of use of appropriations.—The Secretary shall not use any funds ma
 
 Termination of authority.—This section and the authority provided by this section terminate—
 
-&emsp;&emsp;"(A) on the date that is 5 years after the date of enactment of this section \[June 18, 2008\]; or
+&emsp;&emsp;"(A) on the date that is 10 years after the date of enactment of this section \[June 18, 2008\]; or
 
 &emsp;&emsp;"(B) with respect to any particular leased property, on the date of termination of the lease.
 
@@ -166,7 +166,7 @@ In general.—Not later than 90 days after the date of enactment of this section
 
 &emsp;"(2)
 
-Reports.—Not later than 1, 3, and 5 years after the date of enactment of this section \[June 18, 2008\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the implementation of the program under this section, including—
+Reports.—Not later than 6, 8, and 10 years after the date of enactment of this section \[June 18, 2008\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the implementation of the program under this section, including—
 
 &emsp;&emsp;"(A) a copy of each lease entered into pursuant to this section; and
 

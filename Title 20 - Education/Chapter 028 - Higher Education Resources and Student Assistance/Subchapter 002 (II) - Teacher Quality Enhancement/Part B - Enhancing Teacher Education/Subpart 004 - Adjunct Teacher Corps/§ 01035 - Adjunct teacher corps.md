@@ -40,7 +40,7 @@ An eligible entity that receives a grant under this section is authorized to use
 
 &emsp;&emsp;(A) a description of—
 
-&emsp;&emsp;&emsp;(i) the need for, and expected benefits of using, adjunct content specialists in theschools served by the local educational agency, which may include information on the difficulty the local educational agency faces in recruiting qualified faculty in mathematics, science, and critical foreign language courses;
+&emsp;&emsp;&emsp;(i) the need for, and expected benefits of using, adjunct content specialists in the schools served by the local educational agency, which may include information on the difficulty the local educational agency faces in recruiting qualified faculty in mathematics, science, and critical foreign language courses;
 
 &emsp;&emsp;&emsp;(ii) measurable objectives for the activities supported by the grant, including the number of adjunct content specialists the eligible entity intends to place in schools and classrooms, and the gains in academic achievement expected as a result of the addition of such specialists;
 

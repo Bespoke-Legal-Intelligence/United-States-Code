@@ -4,7 +4,7 @@ The Council is authorized—
 
 &emsp;(1) to establish such internal rules and regulations as may be necessary for its operation;
 
-&emsp;(2) to enter into contracts and acquire materials and supplies necessary for its operationto such extent or in such amounts as are provided for in appropriation Acts;
+&emsp;(2) to enter into contracts and acquire materials and supplies necessary for its operation to such extent or in such amounts as are provided for in appropriation Acts;
 
 &emsp;(3) to publish, consistent with title 44, or arrange to publish critical materials information that it deems to be useful to the public and private industry to the extent that such publication is consistent with the national defense and economic interest;
 

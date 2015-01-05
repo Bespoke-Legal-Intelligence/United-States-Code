@@ -20,7 +20,7 @@ Performance Management.—In order to achieve the purpose set forth in subsectio
 
 &emsp;(2) require managers to develop performance plans for individual members of the acquisition workforce in order to give members an understanding of how their performance contributes to their organization's mission and the success of the defense acquisition system (as defined in section 2545 of this title);
 
-&emsp;(3) to the extent appropriate, use the lessons learned from the acquisition demonstration project carried out under section 1762 of thistitle related to contribution-based compensation and appraisal, and how those lessons may be applied within the General Schedule system;
+&emsp;(3) to the extent appropriate, use the lessons learned from the acquisition demonstration project carried out under section 1762 of this title related to contribution-based compensation and appraisal, and how those lessons may be applied within the General Schedule system;
 
 &emsp;(4) develop attractive career paths;
 

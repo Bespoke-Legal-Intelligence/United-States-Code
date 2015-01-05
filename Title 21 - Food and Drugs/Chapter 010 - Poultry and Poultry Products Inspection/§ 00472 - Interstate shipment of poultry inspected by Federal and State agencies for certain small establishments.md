@@ -120,7 +120,7 @@ The Secretary shall reimburse a State for costs related to the inspection of sel
 
 #### (4) Performance evaluations
 
-&emsp;Performance evaluations of State coordinators designated under this subsection shall be conducted by the Secretary as part of the Federal agency management control system.
+&emsp;Performance evaluations of State coordinators designated under this subsection shall beconducted by the Secretary as part of the Federal agency management control system.
 
 #### (e) Audits
 
@@ -156,7 +156,7 @@ Nothing in this section limits the jurisdiction of the Secretary with respect to
 
 #### (2) Requirement
 
-&emsp;Not later than 18 months after the date of the enactment of this section, the Secretaryshall promulgate final regulations in accordance with paragraph (1).
+&emsp;Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
 
 (Pub. L. 85–172, §31, as added Pub. L. 110–234, title XI, §11015(b), May 22, 2008, 122 Stat. 1365, and Pub. L. 110–246, §4(a), title XI, §11015(b), June 18, 2008, 122 Stat. 1664, 2127.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Rates of basic pay
 
-(1) The Capitol Police Board shall establish and maintain unified schedules of rates of basicpay for members and civilian employees of the Capitol Police which shall apply to both members and employees whose appointing authority is an officer of the Senate and members and employees whose appointing authority is an officer of the House of Representatives.
+(1) The Capitol Police Board shall establish and maintain unified schedules of rates of basic pay for members and civilian employees of the Capitol Police which shall apply to both members and employees whose appointing authority is an officer of the Senate and members and employees whose appointing authority is an officer of the House of Representatives.
 
 (2) The Capitol Police Board may, from time to time, adjust any schedule established under paragraph (1) to the extent that the Board determines appropriate to reflect changes in the cost of living and to maintain pay comparability.
 
@@ -28,7 +28,7 @@
 
 &emsp;(G) the order in which categories of leave shall be used;
 
-&emsp;(H) use, accrual, and carryover rules and limitations, including rules and limitations for any period of active duty in the Armed Forces;
+&emsp;(H) use, accrual, and carryover rules and limitations, including rules and limitationsfor any period of active duty in the Armed Forces;
 
 &emsp;(I) advance of annual leave or sick leave after a member or civilian employee has used all such accrued leave;
 
@@ -80,7 +80,7 @@ The Family and Medical Leave Act of 1993, referred to in subsec. (b)(1)(D), is P
 
 #### Codification
 
-Section was classified to section 207b of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Change of Name
 

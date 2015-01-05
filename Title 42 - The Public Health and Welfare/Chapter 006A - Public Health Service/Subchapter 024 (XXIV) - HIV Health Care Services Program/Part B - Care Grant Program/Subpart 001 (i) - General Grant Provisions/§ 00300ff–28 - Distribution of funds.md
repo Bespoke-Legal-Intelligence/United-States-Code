@@ -118,7 +118,7 @@
 
 #### (II) Applicability of exemption requirements
 
-&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having any legal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
+&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having any legal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly,the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
 
 #### (ix) Program for detecting inaccurate or fraudulent counting
 
@@ -154,7 +154,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;From amounts made available under subclause (V), the Secretary shall awardsupplemental grants to States described in subclause (II) to enable such States to purchase and distribute to eligible individuals under section 300ff–26(b) of this title pharmaceutical therapeutics described under subsections (c)(2) and (e) of such section.
+&emsp;&emsp;&emsp;&emsp;From amounts made available under subclause (V), the Secretary shall award supplemental grants to States described in subclause (II) to enable such States to purchase and distribute to eligible individuals under section 300ff–26(b) of this title pharmaceutical therapeutics described under subsections (c)(2) and (e) of such section.
 
 #### (II) Eligible States
 
@@ -250,7 +250,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Each State that receives a grant under section 300ff–21 of this title shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
+&emsp;&emsp;&emsp;Each State that receives a grant under section 300ff–21 of this title shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in theaccess to and quality of HIV health services.
 
 #### (ii) Use of funds
 
@@ -294,7 +294,7 @@
 
 #### (d) Reallocation
 
-Any portion of a grant made to a State under section 300ff–21 of this title for a fiscal year thathas not been obligated as described in subsection (c) ceases to be available to the State and shall be made available by the Secretary for grants under section 300ff–29a of this title, in addition to amounts made available for such grants under section 300ff–31b(b)(2) of this title.
+Any portion of a grant made to a State under section 300ff–21 of this title for a fiscal year that has not been obligated as described in subsection (c) ceases to be available to the State and shall be made available by the Secretary for grants under section 300ff–29a of this title, in addition to amounts made available for such grants under section 300ff–31b(b)(2) of this title.
 
 (July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591; Pub. L. 106–345, title II, §206, Oct. 20, 2000, 114 Stat. 1334; Pub. L. 109–415, title II, §§203, 204(a), title VII, §§702(1), 703, Dec. 19, 2006, 120 Stat. 2789, 2796, 2819, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 3(b), 5(b), (c)(1), 7(b), 10(b), Oct. 30, 2009, 123 Stat. 2885, 2888, 2890, 2891, 2893, 2895.)
 
@@ -500,7 +500,7 @@ For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703
 
 #### Effective Date of 1996 Amendment
 
-Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
+Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be " 'non-EMA".</i>
 

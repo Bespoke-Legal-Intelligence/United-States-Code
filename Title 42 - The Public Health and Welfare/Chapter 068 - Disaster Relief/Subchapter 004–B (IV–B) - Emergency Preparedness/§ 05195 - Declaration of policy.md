@@ -1,6 +1,6 @@
 ### §5195. Declaration of policy
 
-The purpose of this subchapter is to provide a system of emergency preparedness for the protection of life and property in the United States from hazards and to vest responsibility for emergency preparedness jointly in the Federal Government and the States and their political subdivisions. The Congress recognizes that the organizational structure established jointly by the Federal Government and the States and their political subdivisions for emergency preparedness purposes can be effectively utilized to provide relief and assistance to people in areas of the United States struck by a hazard. The Federal Government shall provide necessary direction, coordination, and guidance, and shall provide necessary assistance, as authorized in this subchapter so that a comprehensive emergency preparedness system exists for all hazards.
+The purpose of this subchapter is to provide a system of emergency preparedness for the protection of life and property in the United States from hazards and to vest responsibility for emergency preparedness jointly in the Federal Government and the States and their political subdivisions. The Congress recognizes that the organizational structure established jointly bythe Federal Government and the States and their political subdivisions for emergency preparedness purposes can be effectively utilized to provide relief and assistance to people in areas of the United States struck by a hazard. The Federal Government shall provide necessary direction, coordination, and guidance, and shall provide necessary assistance, as authorized in this subchapter so that a comprehensive emergency preparedness system exists for all hazards.
 
 (Pub. L. 93–288, title VI, §601, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3100.)
 
@@ -58,7 +58,7 @@ Pub. L. 96–472, title III, §§301, 302, Oct. 19, 1980, 94 Stat. 2260, as amen
 
 &emsp;&emsp;"(C) not less than $3,300,000 to carry out paragraph (8) of such section with respect to those large California earthquakes which were identified by the National Security Council's Ad Hoc Committee on Assessment of Consequences and Preparations for a Major California Earthquake; and
 
-&emsp;"(2) such further sums as may be necessary for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection.
+&emsp;"(2) such further sums as may be necessary for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conductof activities for which funds are authorized by paragraph (1) of this subsection.
 
 "(c) For the fiscal year ending September 30, 1983, there are authorized to be appropriated to the Director—
 
@@ -112,7 +112,7 @@ The offices of Federal Civil Defense Administrator and Deputy Administrator prov
 
 (b) Records, property, personnel, and unexpended balances, available or to be made available, of appropriations, allocations, and other funds of any agency (including the Office of Emergency Preparedness), relating to functions vested in or delegated or assigned to the Office of Defense Mobilization or the Federal Civil Defense Administration immediately prior to the taking effect of the provisions of this reorganization plan, may be transferred from time to time to any other agency of the Government by the Director of the Bureau of the Budget under authority of this subsection for use, subject to the provisions of the Reorganization Act of 1949, as amended, in connection with any of the said functions authorized at time of transfer under this subsection to be performed by the transferee agency.
 
-(c) Such further measures and dispositions as the Director of the Bureau of the Budget shall determine tobe necessary in connection with the provisions of subsections (a) and (b) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate. \[As amended Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194.\]
+(c) Such further measures and dispositions as the Director of the Bureau of the Budget shall determine to be necessary in connection with the provisions of subsections (a) and (b) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate. \[As amended Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194.\]
 
 #### Sec. 8. Interim Provisions
 
@@ -186,7 +186,7 @@ Sec. 2. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 #### Sec. 4. Incidental Transfers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred by sections 1 and 2 of this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred at such time or times as he shall direct for use in connection with the functions transferred.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred by sections 1 and 2 of this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred at such time ortimes as he shall direct for use in connection with the functions transferred.
 
 (b) Such further measures and dispositions as the Director of the Office of Management and Budget shall deem to be necessary in order to effectuate the transfers referred to in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
@@ -272,7 +272,7 @@ The White House, January 26, 1973.
 
 #### Executive Order No. 10186
 
-Ex. Ord. No. 10186, Dec. 1, 1950, 15 F.R. 8557, established the Federal Civil Defense Administration in the Office for Emergency Management of the Executive Office of the President, provided for the appointment of an Administrator and a Deputy Administrator, and delineated the purposes, functions, and authority of the Administration and the Administrator.
+Ex. Ord. No. 10186, Dec. 1, 1950, 15 F.R. 8557, established the Federal Civil Defense Administration in theOffice for Emergency Management of the Executive Office of the President, provided for the appointment of an Administrator and a Deputy Administrator, and delineated the purposes, functions, and authority of the Administration and the Administrator.
 
 #### Executive Order No. 10222
 
@@ -424,7 +424,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 1–201. The records, property, personnel and positions, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Secretary of Homeland Security.
 
-1–202. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
+1–202. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate toeffectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
 #### Sec. 2. Management of Emergency Planning and Assistance
 
@@ -480,7 +480,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 4–103. (a) The functions vested in the Federal Civil Defense Administration or its Administrator by the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), were transferred to the President by Reorganization Plan No. 1 of 1958, and they are hereby delegated to the Secretary of Homeland Security.
 
-(b) Excluded from the delegation in subsection (a) is the function under Section 205(a)(4) of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2286(a)(4)), relating to the establishment and maintenance of personnel standards on the merit basis thatwas delegated to the Director of the Office of Personnel Management by Section 1(b) of Executive Order No. 11589, as amended (Section 2–101(b) of Executive Order No. 12107) \[5 U.S.C. 3376 note\].
+(b) Excluded from the delegation in subsection (a) is the function under Section 205(a)(4) of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2286(a)(4)), relating to the establishment and maintenance of personnel standards on the merit basis that was delegated to the Director of the Office of Personnel Management by Section 1(b) of Executive Order No. 11589, as amended (Section 2–101(b) of Executive Order No. 12107) \[5 U.S.C. 3376 note\].
 
 4–104. The Secretary of Homeland Security is authorized to redelegate, in accord with the provisions of Section 1(b) of Reorganization Plan No. 1 of 1958 (50 U.S.C. App. 2271 note) \[now set out above\], any of the functions delegated by Sections 4–101, 4–102, and 4–103 of this Order.
 
@@ -488,7 +488,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 4–106. The functions vested in the Director of the Office of Emergency Preparedness by Section 16 of the Act of September 23, 1950, as amended (20 U.S.C. 646), and by Section 7 of the Act of September 30, 1950, as amended (20 U.S.C. 241–1), were transferred to the President by Section 1 of Reorganization Plan No. 1 of 1973 (50 U.S.C. App. 2271 note) \[now set out above\], and they are hereby delegated to the Secretary of Homeland Security.
 
-4–107. That function vested in the Director of the Office of Emergency Preparedness by Section 762(a) of the Higher Education Act of 1965, as added by Section 161(a) of the Education Amendments of 1972, and as further amended (20 U.S.C. 1132d–1(a)), to the extent transferred to the President by Reorganization Plan No. 1 of 1973 (50 U.S.C. App. 2271 note) \[now set out above\], is hereby delegated to the Secretary of Homeland Security.
+4–107. That function vested in the Director of the Office of Emergency Preparedness by Section 762(a) of theHigher Education Act of 1965, as added by Section 161(a) of the Education Amendments of 1972, and as further amended (20 U.S.C. 1132d–1(a)), to the extent transferred to the President by Reorganization Plan No. 1 of 1973 (50 U.S.C. App. 2271 note) \[now set out above\], is hereby delegated to the Secretary of Homeland Security.
 
 4–2. <i>Delegation of Functions Vested in the President.</i>
 
@@ -558,7 +558,7 @@ Section \[sic\] 4–203. The functions vested in the President by the Robert T. 
 
 5–210. Section 1–102 of Executive Order No. 12075 of August 16, 1978 \[42 U.S.C. 1450 note\], is amended by adding in alphabetical order "(p) Federal Emergency Management Agency".
 
-5–211. Section 1–102 of Executive Order No. 12083 of September 27, 1978 \[42 U.S.C. 7101 note\] is amended by adding in alphabetical order "(z) the Director of the Federal Emergency Management Agency".
+5–211. Section 1–102 of Executive Order No. 12083 of September 27, 1978 \[42 U.S.C. 7101 note\] is amended byadding in alphabetical order "(z) the Director of the Federal Emergency Management Agency".
 
 5–212. Section 9.11(b) of Civil Service Rule IX (5 CFR Part 9) \[former 5 U.S.C. 3301 note\] is amended by deleting "the Defense Civil Preparedness Agency and".
 
@@ -762,7 +762,7 @@ Sec. 401. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 \[(3), (4) Revoked by Ex. Ord. No. 13603, §803(a), Mar. 16, 2012, 77 F.R. 16660.\]
 
-(5) In cooperation with the Secretary of the Treasury, develop plans for providing emergency assistance to the private sector through direct or participation loans for the financing of production facilities and equipment;
+(5) In cooperation with the Secretary of the Treasury, develop plans for providing emergency assistance tothe private sector through direct or participation loans for the financing of production facilities and equipment;
 
 (6) In cooperation with the Secretaries of State, Defense, Transportation, and the Treasury, prepare plans to regulate and control exports and imports in national security emergencies;
 
@@ -816,7 +816,7 @@ Sec. 501. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (11) Review the priorities and allocations systems developed by other departments and agencies to ensure that they meet Department of Defense needs in a national security emergency; and develop and maintain the Department of Defense programs necessary for effective utilization of all priorities and allocations systems;
 
-(12) Develop, in coordination with the Attorney General of the United States, specific procedures by whichmilitary assistance to civilian law enforcement authorities may be requested, considered, and provided;
+(12) Develop, in coordination with the Attorney General of the United States, specific procedures by which military assistance to civilian law enforcement authorities may be requested, considered, and provided;
 
 (13) In cooperation with the Secretary of Commerce and other departments and agencies, identify those industrial products and facilities that are essential to mobilization readiness, national defense, or post-attack survival and recovery;
 
@@ -892,7 +892,7 @@ Sec. 701. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (8) At the request of or with the concurrence of the Nuclear Regulatory Commission and in consultation with the Secretary of Defense, recapture special nuclear materials from Nuclear Regulatory Commission licensees where necessary to assure the use, preservation, or safeguarding of such material for the common defense and security;
 
-(9) Develop national security emergency operational procedures for the control, utilization, acquisition, leasing, assignment, and priority of occupancy of realproperty within the jurisdiction of the Department of Energy;
+(9) Develop national security emergency operational procedures for the control, utilization, acquisition, leasing, assignment, and priority of occupancy of real property within the jurisdiction of the Department of Energy;
 
 (10) Manage all emergency planning and response activities pertaining to Department of Energy nuclear facilities.
 
@@ -1084,7 +1084,7 @@ Sec. 1401. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (9) Coordinate the Interstate Commerce Commission's development of plans and preparedness programs for the reduction of vulnerability, maintenance, restoration, and operation of privately owned railroads, motor carriers, inland waterway transportation systems, and public storage facilities and services in national security emergencies.
 
-Sec. 1402. <i>Support Responsibility</i>. The Secretary of Transportation shall coordinate with the Secretary of Energy in the planning and management of transportation resources involved in the bulk movement of energy materials.
+Sec. 1402. <i>Support Responsibility</i>. The Secretary of Transportation shall coordinate with the Secretary ofEnergy in the planning and management of transportation resources involved in the bulk movement of energy materials.
 
 #### PART 15—Department of the Treasury
 
@@ -1298,7 +1298,7 @@ Sec. 2602. <i>Support Responsibilities</i>. The Postmaster General shall:
 
 Sec. 2701. <i>Lead Responsibilities</i>. In addition to the applicable responsibilities covered in Parts 1 and 2, the Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] shall:
 
-(1) Develop plans for provision of emergency health care services to veteran beneficiaries in Veterans' Administration \[now Department of Veterans Affairs\] medical facilities, to active duty military personneland, as resources permit, to civilians in communities affected by national security emergencies;
+(1) Develop plans for provision of emergency health care services to veteran beneficiaries in Veterans' Administration \[now Department of Veterans Affairs\] medical facilities, to active duty military personnel and, as resources permit, to civilians in communities affected by national security emergencies;
 
 (2) Develop plans for mortuary services for eligible veterans, and advise on methods for interment of the dead during national security emergencies.
 
@@ -1374,7 +1374,7 @@ Sec. 3. <i>DHS Participation in Emergency Preparedness Planning</i>. (a) DHS ass
 
 (B) attention has been given to coordinating (including turning over) response functions when State and local governments do exercise their authority, with specific attention to the areas where prior State and local participation has been insufficient or absent;
 
-(2) FEMA's \[DHS's\] planning for Federal participation in responding to a radiological emergency within the scope of this Order shall include, but not be limited to, arrangements for using existing Federal resources to provide prompt notification of the emergency to the general public; to assist in any necessary evacuation; to provide reception centers or shelters and related facilities and services for evacuees; to provide emergency medical services at Federal hospitals, including those operated by the military services and by the Veterans' Administration \[now Department of Veterans Affairs\]; and to ensure the creation and maintenance of channels of communication from commercial nuclear power plant licensees or applicants to State and local governments and to surrounding members of the public.
+(2) FEMA's \[DHS's\] planning for Federal participation in responding to a radiological emergency within the scope of this Order shall include, but not be limited to, arrangements for using existing Federal resources to provide prompt notification of the emergency to the general public; to assist in any necessary evacuation;to provide reception centers or shelters and related facilities and services for evacuees; to provide emergency medical services at Federal hospitals, including those operated by the military services and by the Veterans' Administration \[now Department of Veterans Affairs\]; and to ensure the creation and maintenance of channels of communication from commercial nuclear power plant licensees or applicants to State and local governments and to surrounding members of the public.
 
 Sec. 4. <i>Evaluation of Plans</i>. (a) DHS shall consider and evaluate all plans developed under the authority of this Order as though drafted and submitted by a State or local government.
 
@@ -1428,7 +1428,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13010, July 15, 1996, 61 F.R. 37347, as amended by Ex. Ord. No. 13025, Nov. 13, 1996, 61 F.R. 58623; Ex. Ord. No. 13041, Apr. 3, 1997, 62 F.R. 17039; Ex. Ord. No. 13064, Oct. 11, 1997, 62 F.R. 53711; Ex. Ord. No. 13077, Mar. 10, 1998, 63 F.R. 12381; Ex. Ord. No. 13138, §3(c), Sept. 30, 1999, 64 F.R. 53880, provided:
 
-Certain national infrastructures are so vital that their incapacity or destruction would have a debilitating impact on the defense or economic security of the United States. These critical infrastructures include telecommunications, electrical power systems, gas and oil storage and transportation, banking and finance, transportation, water supply systems, emergency services (including medical, police, fire, and rescue), and continuity of government. Threats to these critical infrastructures fall into two categories: physical threats to tangible property ("physical threats"), and threats of electronic, radio-frequency, or computer-based attacks on the information or communications components that control critical infrastructures ("cyber threats"). Because many of these critical infrastructures are owned and operated by the private sector, it is essential that the government and private sector work together to develop a strategy for protecting them and assuring their continued operation.
+Certain national infrastructures are so vital that their incapacity or destruction would have a debilitating impact on the defense or economic security of the United States. These critical infrastructures includetelecommunications, electrical power systems, gas and oil storage and transportation, banking and finance, transportation, water supply systems, emergency services (including medical, police, fire, and rescue), and continuity of government. Threats to these critical infrastructures fall into two categories: physical threats to tangible property ("physical threats"), and threats of electronic, radio-frequency, or computer-based attacks on the information or communications components that control critical infrastructures ("cyber threats"). Because many of these critical infrastructures are owned and operated by the private sector, it is essential that the government and private sector work together to develop a strategy for protecting them and assuring their continued operation.
 
 NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -1510,7 +1510,7 @@ Sec. 6. <i>Administration</i>. (a) All executive departments and agencies shall 
 
 (b) The Commission and the Advisory Committee may hold open and closed hearings, conduct inquiries, and establish subcommittees, as necessary.
 
-(c) Members of the Advisory Committee shall serve without compensation for their work on the Advisory Committee. While engaged in the work of the Advisory Committee, members may be allowed travel expenses,including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service.
+(c) Members of the Advisory Committee shall serve without compensation for their work on the Advisory Committee. While engaged in the work of the Advisory Committee, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service.
 
 (d) To the extent permitted by law, and subject to the availability of appropriations, the Department of Defense shall provide the Commission and the Advisory Committee with administrative services, staff, other support services, and such funds as may be necessary for the performance of its functions and shall reimburse the executive branch components that provide representatives to the Commission for the compensation of those representatives.
 
@@ -1520,7 +1520,7 @@ Sec. 6. <i>Administration</i>. (a) All executive departments and agencies shall 
 
 (g) The person who served as Chair of the Commission may continue to be a member of the Steering Committee after termination of the Commission.
 
-Sec. 7. <i>Review of Commission's Report</i>. (a) Upon the termination of the Commission as set out in section 6(f) of this order, certain of the Commission's staff may be retained no later than September 30, 1998, solely to assist the Principals, Steering, and Advisory Committees in reviewing the Commission's report and preparing recommendations to the President. They shall act under the direction of the Steering Committee or its designated agent. The Department of Defense shall continue to provide funding and administrative support for the retained Commission staff.
+Sec. 7. <i>Review of Commission's Report</i>. (a) Upon the termination of the Commission as set out in section 6(f) ofthis order, certain of the Commission's staff may be retained no later than September 30, 1998, solely to assist the Principals, Steering, and Advisory Committees in reviewing the Commission's report and preparing recommendations to the President. They shall act under the direction of the Steering Committee or its designated agent. The Department of Defense shall continue to provide funding and administrative support for the retained Commission staff.
 
 (b) Pursuant to \[former\] Executive Order 12958, I hereby designate the Executive Secretary of the National Security Council to exercise the authority to classify information originally as "Top Secret" with respect to the work of the Commission staff, the Principals Committee, the Steering Committee, the Advisory Committee, and the Infrastructure Protection Task Force.
 
@@ -1568,13 +1568,13 @@ Ex. Ord. No. 13151, Apr. 27, 2000, 65 F.R. 25619, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish a Global Disaster Information Network to use information technology more effectively to reduce loss of life and property from natural and man-made disasters, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. (a) It is the policy of this Administration to use information technology more effectively to coordinate the Federal Government's collection and dissemination of information to appropriate response agencies and State governments to prepare for and respond to natural and man-made disasters (disasters). As a result of changing population demographics in our coastal, rural, and urban areas over the past decades, the loss of life and property (losses) from disasters has nearly doubled. One of the ways the Federal Government can reduce these losses is to use technology more effectively to coordinate its collection and dissemination (hereafter referred to collectively as "provision") of information which can be used in both planning for and recovering from disasters. While many agenciesprovide disaster-related information, they may not always provide it in a coordinated manner. To improve the provision of disaster-related information, the agencies shall, as set out in this order, use information technology to coordinate the Federal Government's provision of information to prepare for, respond to, and recover from domestic disasters.
+Section 1. <i>Policy</i>. (a) It is the policy of this Administration to use information technology more effectively to coordinate the Federal Government's collection and dissemination of information to appropriate response agencies and State governments to prepare for and respond to natural and man-made disasters (disasters). As a result of changing population demographics in our coastal, rural, and urban areas over the past decades, the loss of life and property (losses) from disasters has nearly doubled. One of the ways the Federal Government can reduce these losses is to use technology more effectively to coordinate its collection and dissemination (hereafter referred to collectively as "provision") of information which can be used in both planning for and recovering from disasters. While many agencies provide disaster-related information, they may not always provide it in a coordinated manner. To improve the provision of disaster-related information, the agencies shall, as set out in this order, use information technology to coordinate the Federal Government's provision of information to prepare for, respond to, and recover from domestic disasters.
 
 (b) It is also the policy of this Administration to use information technology and existing channels of disaster assistance to improve the Federal Government's provision of information that could be helpful to foreign governments preparing for or responding to foreign disasters. Currently, the United States Government provides disaster-related information to foreign governments and relief organizations on humanitarian grounds at the request of foreign governments and where appropriate. This information is supplied by Federal agencies on an ad hoc basis. To increase the effectiveness of our response to foreign disasters, agencies shall, where appropriate, use information technology to coordinate the Federal Government's provision of disaster-related information to foreign governments.
 
 (c) To carry out the policies in this order, there is established the Global Disaster Information Network (Network). The Network is defined as the coordinated effort by Federal agencies to develop a strategy and to use existing technical infrastructure, to the extent permitted by law and subject to the availability of appropriations and under the guidance of the Interagency Coordinating Committee and the Committee Support Office, to make more effective use of information technology to assist our Government, and foreign governments where appropriate, by providing disaster-related information to prepare for and respond to disasters.
 
-Sec. 2. <i>Establishment</i>. (a) There is established an Interagency Coordinating Committee (Committee) to provide leadership and oversight for the development of the Network. The Office of the Vice President, the Department of Commerce through the National Oceanic and Atmospheric Administration, and the Department of State, respectively, shall designate a representative to serve as Co-chairpersons of the Committee. The Committee membership shall comprise representatives from the following departments and agencies:
+Sec. 2. <i>Establishment</i>. (a) There is established an Interagency Coordinating Committee (Committee) toprovide leadership and oversight for the development of the Network. The Office of the Vice President, the Department of Commerce through the National Oceanic and Atmospheric Administration, and the Department of State, respectively, shall designate a representative to serve as Co-chairpersons of the Committee. The Committee membership shall comprise representatives from the following departments and agencies:
 
 &emsp;(1) Department of State;
 

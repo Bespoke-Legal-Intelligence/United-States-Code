@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(iii) the Interagency Committee determines that a study of the long-term environmental effects of the discharge would be of significant scientific value, especially for preventing or responding to future oil discharges.
 
-> &emsp;Areas for study may include the following sites where oil discharges have occurred: the New York/New Jersey Harbor area, where oil was discharged by an Exxon underwater pipeline, the T/B CIBRO SAVANNAH, and the M/V BT NAUTILUS; Narragansett Bay where oil was discharged by the WORLD PRODIGY; the Houston Ship Channel where oil was discharged by the RACHEL B; the Delaware River, where oil was discharged by the PRESIDENTE RIVERA and the T/V ATHOS I, and Huntington Beach, California, where oil was discharged by the AMERICAN TRADER.
+> &emsp;Areas for study may include the following sites where oil discharges have occurred: the New York/New Jersey Harbor area, where oil was discharged by an Exxon underwater pipeline, the T/B CIBRO SAVANNAH, and the M/V BT NAUTILUS; Narragansett Bay where oilwas discharged by the WORLD PRODIGY; the Houston Ship Channel where oil was discharged by the RACHEL B; the Delaware River, where oil was discharged by the PRESIDENTE RIVERA and the T/V ATHOS I, and Huntington Beach, California, where oil was discharged by the AMERICAN TRADER.
 
 &emsp;(C) Research conducted under this paragraph by, or through, the United States Fish and Wildlife Service shall be directed and coordinated by the National Wetland Research Center.
 
@@ -138,7 +138,7 @@
 
 &emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
 
-&emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil onregional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
+&emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil on regional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
 
 &emsp;&emsp;(i) There is available to the applicant for carrying out this paragraph demonstrated research resources.
 
@@ -192,7 +192,7 @@ This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990,
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–241, §902(l)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
 
-"Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline andHazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
+"Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
 > A representative of the Department of Transportation shall serve as Chairman."
 

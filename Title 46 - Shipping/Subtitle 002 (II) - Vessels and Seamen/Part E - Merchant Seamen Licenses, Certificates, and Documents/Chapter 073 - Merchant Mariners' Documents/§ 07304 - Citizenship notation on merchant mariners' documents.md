@@ -1,6 +1,6 @@
 ### §7304. Citizenship notation on merchant mariners' documents
 
-An individual applying for a merchant mariner's document shall provide satisfactory proofthat the individual is a citizen of the United States before that notation is made on the document.
+An individual applying for a merchant mariner's document shall provide satisfactory proof that the individual is a citizen of the United States before that notation is made on the document.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 542.)
 

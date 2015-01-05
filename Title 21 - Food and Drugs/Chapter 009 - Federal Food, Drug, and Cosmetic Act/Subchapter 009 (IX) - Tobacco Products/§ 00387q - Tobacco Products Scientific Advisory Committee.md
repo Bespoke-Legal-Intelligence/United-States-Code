@@ -10,7 +10,7 @@ Not later than 6 months after June 22, 2009, the Secretary shall establish a 12-
 
 #### (A) Members
 
-&emsp;&emsp;The Secretary shall appoint as members of the Tobacco Products Scientific Advisory Committee individuals who are technicallyqualified by training and experience in medicine, medical ethics, science, or technology involving the manufacture, evaluation, or use of tobacco products, who are of appropriately diversified professional backgrounds. The committee shall be composed of—
+&emsp;&emsp;The Secretary shall appoint as members of the Tobacco Products Scientific Advisory Committee individuals who are technically qualified by training and experience in medicine, medical ethics, science, or technology involving the manufacture, evaluation, or use of tobacco products, who are of appropriately diversified professional backgrounds. The committee shall be composed of—
 
 &emsp;&emsp;&emsp;(i) 7 individuals who are physicians, dentists, scientists, or health care professionals practicing in the area of oncology, pulmonology, cardiology, toxicology, pharmacology, addiction, or any other relevant specialty;
 

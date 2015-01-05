@@ -12,7 +12,7 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 #### (1) In general
 
-&emsp;Consistent with subsection (a) of this section, the President shall determine whether a country is eligible to receive benefits under this subchapter.
+&emsp;Consistent with subsection (a), the President shall determine whether a country is eligible to receive benefits under this subchapter.
 
 #### (2) Congressional notification
 

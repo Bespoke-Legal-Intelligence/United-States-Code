@@ -40,7 +40,7 @@ Subject to such regulations as the Secretary may prescribe, beer may be removed 
 
 &emsp;&emsp;(B) beer entered into any customs bonded warehouse under subparagraph (A) may be withdrawn for consumption in the United States by, and for the official and family use of, such foreign governments, organizations, and individuals as are entitled to withdraw imported beer from such warehouses free of tax.
 
-> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered, stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
+> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered,stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
 
 #### (2) Other rules to apply
 

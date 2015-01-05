@@ -380,7 +380,7 @@ Privacy.—In conducting the evaluation required by this section, the Comptrolle
 
 &emsp;"(2)
 
-Subpoenas.—The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller Generalshall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information."
+Subpoenas.—The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller General shall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

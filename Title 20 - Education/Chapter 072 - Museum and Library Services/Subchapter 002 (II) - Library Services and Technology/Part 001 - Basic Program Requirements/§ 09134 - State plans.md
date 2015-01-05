@@ -20,7 +20,7 @@ The State plan shall—
 
 &emsp;(1) establish goals, and specify priorities, for the State consistent with the purposes of this subchapter;
 
-&emsp;(2) describe activities that are consistent with the goals and priorities established under paragraph (1), the purposes of this subchapter, and section 9141 of this title, that the State library administrative agency will carry out during such year using such grant;
+&emsp;(2) describe activities that are consistent with the goals and priorities established underparagraph (1), the purposes of this subchapter, and section 9141 of this title, that the State library administrative agency will carry out during such year using such grant;
 
 &emsp;(3) describe the procedures that such agency will use to carry out the activities described in paragraph (2);
 
@@ -56,7 +56,7 @@ Each State library administrative agency receiving a grant under this subchapter
 
 #### (d) Information
 
-Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as suchagency may require to meet the requirements of subsection (c) of this section.
+Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as such agency may require to meet the requirements of subsection (c) of this section.
 
 #### (e) Approval
 
@@ -110,7 +110,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (2) Access to other materials
 
-&emsp;Nothing in this subsection shall be construed to prohibit a library from limiting Internet access to or otherwise protecting against materials other than those referred to in subclauses (I), (II), and (III) of paragraph (1)(A)(i).
+&emsp;Nothing in this subsection shall be construed to prohibit a library from limitingInternet access to or otherwise protecting against materials other than those referred to in subclauses (I), (II), and (III) of paragraph (1)(A)(i).
 
 #### (3) Disabling during certain use
 
@@ -140,7 +140,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (iii) Waivers
 
-&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by thatclause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
 
 #### (5) Noncompliance
 
@@ -180,7 +180,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;&emsp;(i) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
 
-&emsp;&emsp;&emsp;(ii) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
+&emsp;&emsp;&emsp;(ii) depicts, describes, or represents, in a patently offensive way with respect towhat is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
 
 &emsp;&emsp;&emsp;(iii) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
 
@@ -196,7 +196,17 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;The terms "sexual act" and "sexual contact" have the meanings given such terms in section 2246 of title 18.
 
-(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, §204, Dec. 22, 2010, 124 Stat. 3600.)
+(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, §204, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 113–128, title V, §512(t)(2), July 22, 2014, 128 Stat. 1712.)
+
+#### Amendment of Subsection (b)(6)(C)
+
+<i>Pub. L. 113–128, title V, §§506, 512(t)(2), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(6)(C) of this section is amended as follows:</i>
+
+<i>(1) in clause (i), by striking "the activities carried out by the State workforce investment board under section 2821(d) of title 29" and inserting "the activities carried out by the State workforce development board under section 3111 of title 29"; and</i>
+
+<i>(2) in clause (ii), by striking "the State's one-stop delivery system established under section 2864(c) of title 29" and inserting "the State's one-stop delivery system established under section 3151(e) of title 29".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -205,6 +215,10 @@ For the effective date of this subsection, referred to in subsec. (f)(4), as 120
 The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(6)(C)(i). Pub. L. 113–128, §512(t)(2)(A), substituted "the activities carried out by the State workforce development board under section 3111 of title 29" for "the activities carried out by the State workforce investment board under section 2821(d) of title 29".
+
+Subsec. (b)(6)(C)(ii). Pub. L. 113–128, §512(t)(2)(B), substituted "the State's one-stop delivery system established under section 3151(e) of title 29" for "the State's one-stop delivery system established under section 2864(c) of title 29".
 
 <b>2010</b>—Subsec. (b)(6) to (8). Pub. L. 111–340, §204(1), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
@@ -226,9 +240,13 @@ Subsec. (f)(7)(D). Pub. L. 108–81, §205(2)(C)(ii), substituted "applicable to
 
 Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(2)\], added subsec. (f).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that:"The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: "The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Availability of Certain Funds for Acquisition of Technology Protection Measures
 

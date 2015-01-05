@@ -20,7 +20,7 @@ Funds are hereby authorized to be appropriated for any fiscal year in such amoun
 
 The Secretary of Agriculture shall provide the Secretary of Defense with technical assistance in the administration of the school breakfast programs authorized by this section.
 
-(Pub. L. 89–642, §20, as added Pub. L. 95–561, title XIV, §1408(b)(2), Nov. 1, 1978, 92 Stat. 2368; amended Pub. L. 99–500, title III, §328(b), Oct. 18, 1986, 100 Stat. 1783–362, and Pub. L. 99–591, title III, §328(b), Oct. 30, 1986, 100 Stat. 3341–365; Pub. L. 99–661, div. D, title II, §4208(b), Nov. 14, 1986, 100 Stat. 4073.)
+(Pub. L. 89–642, §20, as added Pub. L. 95–561, title XIV, §1408(b)(2), Nov. 1, 1978, 92 Stat. 2368;amended Pub. L. 99–500, title III, §328(b), Oct. 18, 1986, 100 Stat. 1783–362, and Pub. L. 99–591, title III, §328(b), Oct. 30, 1986, 100 Stat. 3341–365; Pub. L. 99–661, div. D, title II, §4208(b), Nov. 14, 1986, 100 Stat. 4073.)
 
 #### Codification
 

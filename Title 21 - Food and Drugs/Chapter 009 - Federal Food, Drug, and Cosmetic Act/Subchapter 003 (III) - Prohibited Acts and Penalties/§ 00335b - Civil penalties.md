@@ -36,11 +36,11 @@ Any person that the Secretary finds—
 
 #### (B) Action by the Attorney General
 
-&emsp;&emsp;In lieu of a proceeding under subparagraph (A), the Attorney General may, upon request of the Secretary, institute a civil action to recover a civil money penalty in the amount and for any of the acts set forth in subsection (a) of this section. Such an action may be instituted separately from or in connection with any other claim, civil or criminal, initiated by the Attorney General under this chapter.
+&emsp;&emsp;In lieu of a proceeding under subparagraph (A), the Attorney General may, upon requestof the Secretary, institute a civil action to recover a civil money penalty in the amount and for any of the acts set forth in subsection (a) of this section. Such an action may be instituted separately from or in connection with any other claim, civil or criminal, initiated by the Attorney General under this chapter.
 
 #### (2) Amount
 
-&emsp;In determining the amount of a civil penalty under paragraph (1), the Secretary or thecourt shall take into account the nature, circumstances, extent, and gravity of the act subject to penalty, the person's ability to pay, the effect on the person's ability to continue to do business, any history of prior, similar acts, and such other matters as justice may require.
+&emsp;In determining the amount of a civil penalty under paragraph (1), the Secretary or the court shall take into account the nature, circumstances, extent, and gravity of the act subject to penalty, the person's ability to pay, the effect on the person's ability to continue to do business, any history of prior, similar acts, and such other matters as justice may require.
 
 #### (3) Limitation on actions
 

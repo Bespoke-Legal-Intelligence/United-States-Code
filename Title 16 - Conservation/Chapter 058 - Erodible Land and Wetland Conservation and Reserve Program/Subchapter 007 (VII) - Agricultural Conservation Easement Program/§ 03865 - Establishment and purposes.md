@@ -1,0 +1,26 @@
+### §3865. Establishment and purposes
+
+#### (a) Establishment
+
+The Secretary shall establish an agricultural conservation easement program for the conservation of eligible land and natural resources through easements or other interests in land.
+
+#### (b) Purposes
+
+The purposes of the program are to—
+
+&emsp;(1) combine the purposes and coordinate the functions of the wetlands reserve program established under section 3837 <sup>1</sup> of this title, the grassland reserve program established under section 3838n <sup>1</sup> of this title, and the farmland protection program established under section 3838i <sup>1</sup> of this title, as such sections were in effect on the day before February 7, 2014;
+
+&emsp;(2) restore, protect, and enhance wetlands on eligible land;
+
+&emsp;(3) protect the agricultural use and future viability, and related conservation values, of eligible land by limiting nonagricultural uses of that land; and
+
+&emsp;(4) protect grazing uses and related conservation values by restoring and conserving eligible land.
+
+(Pub. L. 99–198, title XII, §1265, as added Pub. L. 113–79, title II, §2301(a), Feb. 7, 2014, 128 Stat. 731.)
+
+#### References in Text
+
+Sections 3837, 3838n, and 3838i of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§2703(a), 2704(a), 2705(a), Feb. 7, 2014, 128 Stat. 767, 768.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

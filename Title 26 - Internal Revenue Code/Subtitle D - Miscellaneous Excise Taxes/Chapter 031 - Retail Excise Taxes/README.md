@@ -2,7 +2,7 @@
 
 | Subchapter |  | Sec.<sup>1</sup> |
 | :--- | :---: | ---: |
-| <b>A.</b> | <b>Luxury passenger vehicles </b><b><sup>2</sup></b> | <b>4001</b> |
+| <b>\[A.</b> | <b>Repealed.\]</b> |  |
 | <b>B.</b> | <b>Special fuels</b> | <b>4041</b> |
 | <b>C.</b> | <b>Heavy trucks and trailers</b> | <b>4051</b> |
 
@@ -68,6 +68,8 @@ A prior section 4058, act Aug. 16, 1954, ch. 736, 68A Stat. 480, §4058, formerl
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(103)(A), Dec. 19, 2014, 128 Stat. 4052, struck out item for subchapter A "Luxury passenger vehicles".
+
 <b>1993</b>—Pub. L. 103–66, title XIII, §13161(b)(3), Aug. 10, 1993, 107 Stat. 453, substituted "Luxury passenger vehicles" for "Certain luxury items" in item for subchapter A.
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11221(e), Nov. 5, 1990, 104 Stat. 1388–444, added item for subchapter A and redesignated former items for subchapters A and B as B and C, respectively.
@@ -78,13 +80,11 @@ A prior section 4058, act Aug. 16, 1954, ch. 736, 68A Stat. 480, §4058, formerl
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
-<i><sup>2</sup></i><i> So in original. Does not conform to subchapter heading.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subchapter A - Luxury Passenger Automobiles](Subchapter%20A%20-%20Luxury%20Passenger%20Automobiles/README.md)
+- [Subchapter A - Repealed](Subchapter%20A%20-%20Repealed/README.md)
 - [Subchapter B - Special Fuels](Subchapter%20B%20-%20Special%20Fuels/README.md)
 - [Subchapter C - Heavy Trucks and Trailers](Subchapter%20C%20-%20Heavy%20Trucks%20and%20Trailers/README.md)

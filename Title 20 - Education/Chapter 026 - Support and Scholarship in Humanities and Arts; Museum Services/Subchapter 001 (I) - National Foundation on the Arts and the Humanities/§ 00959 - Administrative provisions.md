@@ -34,7 +34,7 @@ In addition to any authorities vested in them by other provisions of this subcha
 
 The Chairperson of the National Endowment for the Arts shall utilize advisory panels to review applications, and to make recommendations to the National Council on the Arts in all cases except cases in which the Chairperson exercises authority delegated under section 955(f) of this title. When reviewing applications, such panels shall recommend applications for projects, productions, and workshops solely on the basis of artistic excellence and artistic merit. The Chairperson shall issue regulations and establish procedures—
 
-&emsp;(1) to ensure that all panels are composed, to the extent practicable, of individuals reflecting a wide geographic, ethnic, and minority representation as well as individuals reflecting diverse artistic and cultural points of view;
+&emsp;(1) to ensure that all panels are composed, to the extent practicable, of individuals reflecting a wide geographic, ethnic, and minorityrepresentation as well as individuals reflecting diverse artistic and cultural points of view;
 
 &emsp;(2) to ensure that all panels include representation of lay individuals who are knowledgeable about the arts but who are not engaged in the arts as a profession and are not members of either artists' organizations or arts organizations;
 
@@ -66,7 +66,7 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 #### (f) Post-award evaluation of assisted projects, productions, and programs; reports; extension of time for compliance; failure to satisfy purposes of assistance
 
-(1) The Chairperson of the National Endowment for the Arts and the Chairperson of the National Endowment for the Humanities shall conduct a post-award evaluation of projects, productions, and programs for which financial assistance is provided by their respective Endowments under sections 954(c) and 956(c) of this title. Such evaluation may include an audit to determine the accuracy of the reports requiredto be submitted by recipients under clauses (i) and (ii) of paragraph (2)(A). As a condition of receiving such financial assistance, a recipient shall comply with the requirements specified in paragraph (2) that are applicable to the project, production, or program for which such financial assistance is received.
+(1) The Chairperson of the National Endowment for the Arts and the Chairperson of the National Endowment for the Humanities shall conduct a post-award evaluation of projects, productions, and programs for which financial assistance is provided by their respective Endowments under sections 954(c) and 956(c) of this title. Such evaluation may include an audit to determine the accuracy of the reports required to be submitted by recipients under clauses (i) and (ii) of paragraph (2)(A). As a condition of receiving such financial assistance, a recipient shall comply with the requirements specified in paragraph (2) that are applicable to the project, production, or program for which such financial assistance is received.
 
 (2)(A) The recipient of financial assistance provided by either of the Endowments shall submit to the Chairperson of the Endowment involved—
 

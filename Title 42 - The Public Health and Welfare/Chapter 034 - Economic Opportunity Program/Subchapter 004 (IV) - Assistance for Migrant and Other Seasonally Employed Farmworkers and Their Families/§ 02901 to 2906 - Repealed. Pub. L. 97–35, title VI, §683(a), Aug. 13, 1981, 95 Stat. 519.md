@@ -18,7 +18,7 @@ A prior section 2903, Pub. L. 88–452, title IV, §403, Aug. 20, 1964, 78 Stat.
 
 Section 2904, Pub. L. 88–452, title IV, §404, as added Pub. L. 95–568, §9, Nov. 2, 1978, 92 Stat. 2429, related to technical assistance, training and evaluation.
 
-A prior section 2904, Pub. L. 88–452, title IV, §404, Aug. 20, 1964, 78 Stat. 526, provided that lending and guaranty functions which are delegated to Small Business Administration may be financed with funds under revolving fund established by section 633(c) of Title 15, Commerce and Trade, for the purposes of sections 636(a), 636(b), and 637(a) of Title 15, prior to repeal by Pub. L. 89–794, title IV, §403, Nov. 8, 1966, 80 Stat. 1465.
+A prior section 2904, Pub. L. 88–452, title IV, §404, Aug. 20, 1964, 78 Stat. 526, provided that lending and guaranty functions which are delegated to Small Business Administration may be financed with funds underrevolving fund established by section 633(c) of Title 15, Commerce and Trade, for the purposes of sections 636(a), 636(b), and 637(a) of Title 15, prior to repeal by Pub. L. 89–794, title IV, §403, Nov. 8, 1966, 80 Stat. 1465.
 
 Section 2905, Pub. L. 88–452, title IV, §405, as added Pub. L. 95–568, §9, Nov. 2, 1978, 92 Stat. 2430, set forth special responsibilities of the Director.
 

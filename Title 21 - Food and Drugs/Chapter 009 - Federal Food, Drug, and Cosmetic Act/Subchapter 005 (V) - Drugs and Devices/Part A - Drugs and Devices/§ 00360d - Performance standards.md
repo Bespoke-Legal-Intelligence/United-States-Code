@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(iii) provisions for the measurement of the performance characteristics of the device,
 
-&emsp;&emsp;(iv) provisions requiring that the results of each or of certain of the tests of the device required to be made under clause (ii) show that the device is in conformity with the portions of the standard for which the test or tests were required, and
+&emsp;&emsp;(iv) provisions requiring that the results of each or of certain of the tests of the devicerequired to be made under clause (ii) show that the device is in conformity with the portions of the standard for which the test or tests were required, and
 
 &emsp;&emsp;(v) a provision requiring that the sale and distribution of the device be restricted but only to the extent that the sale and distribution of a device may be restricted under a regulation under section 360j(e) of this title; and
 
@@ -58,7 +58,7 @@
 
 (4)(A) The Secretary, upon his own initiative or upon petition of an interested person may by regulation, promulgated in accordance with the requirements of paragraphs (1), (2), and (3)(B) of this subsection, amend or revoke a performance standard.
 
-(B) The Secretary may declare a proposed amendment of a performance standard to be effective on and after its publication in the Federal Register and until the effective date of any final action taken on such amendment if he determines that making it so effective is in thepublic interest. A proposed amendment of a performance standard made so effective under the preceding sentence may not prohibit, during the period in which it is so effective, the introduction or delivery for introduction into interstate commerce of a device which conforms to such standard without the change or changes provided by such proposed amendment.
+(B) The Secretary may declare a proposed amendment of a performance standard to be effective on and after its publication in the Federal Register and until the effective date of any final action taken on such amendment if he determines that making it so effective is in the public interest. A proposed amendment of a performance standard made so effective under the preceding sentence may not prohibit, during the period in which it is so effective, the introduction or delivery for introduction into interstate commerce of a device which conforms to such standard without the change or changes provided by such proposed amendment.
 
 (5)(A) The Secretary—
 
@@ -88,7 +88,7 @@
 
 (C) A person making a declaration of conformity with respect to a standard recognized under paragraph (1) shall maintain the data and information demonstrating conformity of the device to the standard for a period of two years after the date of the classification or approval of the device by the Secretary or a period equal to the expected design life of the device, whichever is longer.
 
-(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80,§4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056.)
+(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056.)
 
 #### Amendments
 

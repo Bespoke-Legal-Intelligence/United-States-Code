@@ -2,7 +2,7 @@
 
 #### (a) Criteria for eligibility; contents
 
-Except as provided in the succeeding sentence and section 3029(a) of this title, each State, in order to be eligible for grants from its allotment under this subchapter for any fiscal year, shallsubmit to the Assistant Secretary a State plan for a two-, three-, or four-year period determined by the State agency, with such annual revisions as are necessary, which meets such criteria as the Assistant Secretary may by regulation prescribe. If the Assistant Secretary determines, in the discretion of the Assistant Secretary, that a State failed in 2 successive years to comply with the requirements under this subchapter, then the State shall submit to the Assistant Secretary a State plan for a 1-year period that meets such criteria, for subsequent years until the Assistant Secretary determines that the State is in compliance with such requirements. Each such plan shall comply with all of the following requirements:
+Except as provided in the succeeding sentence and section 3029(a) of this title, each State, in order to be eligible for grants from its allotment under this subchapter for any fiscal year, shall submit to the Assistant Secretary a State plan for a two-, three-, or four-year period determined by the State agency, with such annual revisions as are necessary, which meets such criteria as the Assistant Secretary may by regulation prescribe. If the Assistant Secretary determines, in the discretion of the Assistant Secretary, that a State failed in 2 successive years to comply with the requirements under this subchapter, then the State shall submit to the Assistant Secretary a State plan for a 1-year period that meets such criteria, for subsequent years until the Assistant Secretary determines that the State is in compliance with such requirements. Each such plan shall comply with all of the following requirements:
 
 &emsp;(1) The plan shall—
 
@@ -38,7 +38,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) issue guidelines applicable to grievance procedures required by section 3026(a)(10) of this title; and
 
-&emsp;&emsp;(C) afford an opportunity for a public hearing, upon request, by any area agency on aging, by any provider of (or applicant to provide) services, or by any recipient of services under this subchapter regarding any waiver request, including those under section 3030c–3 of this title.
+&emsp;&emsp;(C) afford an opportunity for a public hearing, upon request, by any area agency onaging, by any provider of (or applicant to provide) services, or by any recipient of services under this subchapter regarding any waiver request, including those under section 3030c–3 of this title.
 
 &emsp;(6) The plan shall provide that the State agency will make such reports, in such form, and containing such information, as the Assistant Secretary may require, and comply with such requirements as the Assistant Secretary may impose to insure the correctness of such reports.
 
@@ -78,7 +78,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(D) the plan contains assurances, to the extent practicable, that legal services furnished under the plan will be in addition to any legal services for older individuals being furnished with funds from sources other than this chapter and that reasonable efforts will be made to maintain existing levels of legal services for older individuals; and
 
-&emsp;&emsp;(E) the plan contains assurances that area agencies on aging will give priority to legal assistance related to income, health care, long-term care, nutrition, housing, utilities, protective services, defense of guardianship, abuse, neglect, and age discrimination.
+&emsp;&emsp;(E) the plan contains assurances that area agencies on aging will give priority to legal assistance related to income, health care,long-term care, nutrition, housing, utilities, protective services, defense of guardianship, abuse, neglect, and age discrimination.
 
 &emsp;(12) The plan shall provide, whenever the State desires to provide for a fiscal year for services for the prevention of abuse of older individuals—
 
@@ -134,7 +134,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(17) The plan shall provide, with respect to the needs of older individuals with severe disabilities, assurances that the State will coordinate planning, identification, assessment of needs, and service for older individuals with disabilities with particular attention to individuals with severe disabilities with the State agencies with primary responsibility for individuals with disabilities, including severe disabilities, to enhance services and develop collaborative programs, where appropriate, to meet the needs of older individuals with disabilities.
 
-&emsp;(18) The plan shall provide assurances that area agencies on aging will conduct efforts to facilitate the coordination of community-based, long-term care services, pursuant to section 3026(a)(7) of this title, for older individuals who—
+&emsp;(18) The plan shall provide assurances that area agencies on aging will conduct efforts tofacilitate the coordination of community-based, long-term care services, pursuant to section 3026(a)(7) of this title, for older individuals who—
 
 &emsp;&emsp;(A) reside at home and are at risk of institutionalization because of limitations on their ability to function independently;
 
@@ -208,7 +208,7 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 &emsp;(3) in the administration of the plan there is a failure to comply substantially with any such provision of subsection (a) of this section,
 
-> the Assistant Secretary shall notify such State agency that no further payments from its allotments under section 3024 of this title and section 3028 of this title will be made to the State (or, in the Assistant Secretary's discretion, that further payments to the State will be limited toprojects under or portions of the State plan not affected by such failure), until the Assistant Secretary is satisfied that there will no longer be any failure to comply. Until the Assistant Secretary is so satisfied, no further payments shall be made to such State from its allotments under section 3024 of this title and section 3028 of this title (or payments shall be limited to projects under or portions of the State plan not affected by such failure). The Assistant Secretary shall, in accordance with regulations the Assistant Secretary shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency or political subdivision of such State submitting an approved plan in accordance with the provisions of this section. Any such payment shall be matched in the proportions specified in section 3024 of this title.
+> the Assistant Secretary shall notify such State agency that no further payments from its allotments under section 3024 of this title and section 3028 of this title will be made to the State (or, in the Assistant Secretary's discretion, that further payments to the State will be limited to projects under or portions of the State plan not affected by such failure), until the Assistant Secretary is satisfied that there will no longer be any failure to comply. Until the Assistant Secretary is so satisfied, no further payments shall be made to such State from its allotments under section 3024 of this title and section 3028 of this title (or payments shall be limited to projects under or portions of the State plan not affected by such failure). The Assistant Secretary shall, in accordance with regulations the Assistant Secretary shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency or political subdivision of such State submitting an approved plan in accordance with the provisions of this section. Any such payment shall be matched in the proportions specified in section 3024 of this title.
 
 #### (e) Appeal
 
@@ -228,7 +228,7 @@ Neither a State, nor a State agency, may require any provider of legal assistanc
 
 Section 3012(a) of this title, referred to in subsec. (a)(2)(A), does not contain a par. (29). A former section 3012(a)(29) of this title, relating to uniform data collection procedures, was redesignated section 3012(a)(26) by Pub. L. 106–501, title II, §201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
 
-The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, as amended, which is classified generally to subchapter X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, asamended, which is classified generally to subchapter X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Prior Provisions
 
@@ -254,7 +254,7 @@ Subsec. (a)(16)(A)(vi). Pub. L. 109–365, §307(6)(B), substituted "and related
 
 Subsec. (a)(27) to (30). Pub. L. 109–365, §307(7), added pars. (27) to (30).
 
-<b>2000</b>—Subsec. (a)(1) to (5). Pub. L. 106–501, §306(1), added pars. (1) to (5) and struck out former pars. (1) to\(5) which required each State plan to: in par. (1), contain assurances that the State plan would be based on area plans and that the State would distribute a uniform format for developing area plans, in par. (2), provide that each area agency on aging develop an area plan for approval by the State agency, in par. (3), provide that the State agency would evaluate the need for supportive services, nutrition services, and multipurpose senior centers within the State and spend not less than 105 percent of fiscal year 1978 expenditures for services to older individuals residing in rural areas in the State, in par. (4), provide methods of administration of the plan and any necessary reorganization and reassignment of functions to assure efficient administration, and, in par. (5), provide that the State agency would conduct hearings upon request by an area agency on aging submitting a plan, a service provider under a plan, or an applicant to provide service under a plan.
+<b>2000</b>—Subsec. (a)(1) to (5). Pub. L. 106–501, §306(1), added pars. (1) to (5) and struck out former pars. (1) to (5) which required each State plan to: in par. (1), contain assurances that the State plan would be based on area plans and that the State would distribute a uniform format for developing area plans, in par. (2), provide that each area agency on aging develop an area plan for approval by the State agency, in par. (3), provide that the State agency would evaluate the need for supportive services, nutrition services, and multipurpose senior centers within the State and spend not less than 105 percent of fiscal year 1978 expenditures for services to older individuals residing in rural areas in the State, in par. (4), provide methods of administration of the plan and any necessary reorganization and reassignment of functions to assure efficient administration, and, in par. (5), provide that the State agency would conduct hearings upon request by an area agency on aging submitting a plan, a service provider under a plan, or an applicant to provide service under a plan.
 
 Subsec. (a)(7)(C). Pub. L. 106–501, §306(2), struck out subpar. (C) which required the plan to provide assurances that the State agency and each area agency on aging would maintain the integrity and public purpose of services provided and service providers under the State plan in all contractual and commercial relationships, disclose the parties to and the nature of a contract or relationship relating to services to older individuals, demonstrate no loss or diminution in quantity or quality of services as a result of such contract or relationship, demonstrate enhancement of quantity and quality of services as a result of such contract or relationship, and disclose on request all sources and expenditures of funds the State agency and area agency on aging received or expended to provide services to older individuals.
 
@@ -366,7 +366,7 @@ Subsec. (a)(43). Pub. L. 106–501, §306(20), struck out par. (43) which read a
 
 Subsec. (a)(44). Pub. L. 106–501, §306(21), redesignated par. (44) as (25).
 
-Subsec. (f). Pub. L. 106–501, §801(c)(4)(B), struck out par. (1) designation before "Neither a State" and struck out par. (2) which read as follows: "Information disclosed under section 3026(a)(14)(B)(i) of this title or subsection (a)(7)(C)(ii)(I) of this section may be disclosed to the public by the State agency or the State only if such information could be disclosed under section 552 of title 5 by an agency of the United States."
+Subsec. (f). Pub. L. 106–501, §801(c)(4)(B), struck out par. (1) designation before "Neither a State" and struck out par. (2) which read as follows: "Information disclosed under section 3026(a)(14)(B)(i) of this title or subsection (a)(7)(C)(ii)(I) of this section may be disclosed to the public by the State agency or the Stateonly if such information could be disclosed under section 552 of title 5 by an agency of the United States."
 
 <b>1993</b>—Pub. L. 103–171, §3(a)(5)(B), substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
@@ -612,7 +612,7 @@ Pub. L. 100–175, title I, §111, Nov. 29, 1987, 101 Stat. 932, directed Commis
 
 #### Study of Ombudsman Program
 
-Pub. L. 100–175, title I, §129(b), Nov. 29, 1987, 101 Stat. 934, directed Commissioner on Aging, not later than Dec. 31, 1989, to conduct a study and submit a report to Congress concerning involvement in the ombudsman program established under 42 U.S.C. 3027(a)(12) and its impact upon issues and problems affecting residents of board and care facilities and other similar adult care homes who are older individuals as defined in 42 U.S.C. 3022(10), and the effectiveness of recruiting, supervising, and retaining volunteer ombudsmen.
+Pub. L. 100–175, title I, §129(b), Nov. 29, 1987, 101 Stat. 934, directed Commissioner on Aging, not later than Dec. 31, 1989, to conduct a study and submit a report to Congress concerning involvement in the ombudsman program established under 42 U.S.C. 3027(a)(12) and its impact upon issues and problems affecting residents of board and care facilities and other similar adult carehomes who are older individuals as defined in 42 U.S.C. 3022(10), and the effectiveness of recruiting, supervising, and retaining volunteer ombudsmen.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

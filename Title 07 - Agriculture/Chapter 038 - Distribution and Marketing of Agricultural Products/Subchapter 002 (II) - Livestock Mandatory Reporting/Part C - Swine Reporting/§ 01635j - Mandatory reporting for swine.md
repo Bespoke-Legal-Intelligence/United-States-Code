@@ -112,7 +112,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 > &emsp;&emsp;&emsp;&emsp;adjusted for special slaughter situations (such as skinning or foot removal), as the Secretary determines necessary to render comparable carcass weights;
 
-&emsp;&emsp;&emsp;&emsp;(VI) the average sort loss, which shall be equal to the average discount (in dollars per hundred pounds carcass weight) for barrows and gilts slaughtered during the applicable reporting period, resulting from the fact that the barrows and gilts did not fall within the individual packer's established carcass weight or lot variation range;
+&emsp;&emsp;&emsp;&emsp;(VI) the average sort loss, which shall be equal to the average discount (in dollars per hundred pounds carcass weight) for barrows and gilts slaughtered during the applicable reporting period, resulting from the fact that the barrows and giltsdid not fall within the individual packer's established carcass weight or lot variation range;
 
 &emsp;&emsp;&emsp;&emsp;(VII) the average backfat, which shall be equal to the average of the backfat thickness (in inches) measured between the third and fourth from the last ribs, 7 centimeters from the carcass split (or adjusted from the individual packer's measurement to that reference point using an adjustment made by the Secretary) of the barrows and gilts slaughtered during the applicable reporting period;
 
@@ -172,7 +172,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (B) Publication
 
-&emsp;&emsp;The Secretary shall publish the information obtained under this paragraph in the afternoon report as soon as practicable, but not later than 3:00 p.m. Central Time, on each reporting day.
+&emsp;&emsp;The Secretary shall publish the information obtained under this paragraph in theafternoon report as soon as practicable, but not later than 3:00 p.m. Central Time, on each reporting day.
 
 #### (d) Daily reporting; sows and boars
 

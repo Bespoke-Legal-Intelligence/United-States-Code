@@ -22,7 +22,7 @@ Each State shall reserve each fiscal year 1 percent of the sums allotted to such
 
 #### Use of Capitalization Grant Funds for Construction Grants
 
-Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 858, as amended by Pub. L. 101–302, title II, May 25, 1990, 104Stat. 238, provided: "That, notwithstanding any other provision of law, sums heretofore, herein or hereafter appropriated under this heading \["
+Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 858, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 238, provided: "That, notwithstanding any other provision of law, sums heretofore, herein or hereafter appropriated under this heading \["
 
 Environmental Protection Agency" and "
 

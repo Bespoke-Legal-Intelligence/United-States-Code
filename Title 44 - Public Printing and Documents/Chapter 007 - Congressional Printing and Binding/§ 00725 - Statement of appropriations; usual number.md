@@ -1,6 +1,6 @@
 ### §725. Statement of appropriations; "usual number"
 
-Of the statements of appropriations required to be prepared by section 105 of Title 2,<sup>1</sup> there shall be printed, after the close of each regular session of Congress, the usual number of copies.
+Of the statements of appropriations required to be prepared by section 105 of Title 2,<sup>1</sup> thereshall be printed, after the close of each regular session of Congress, the usual number of copies.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1252.)
 

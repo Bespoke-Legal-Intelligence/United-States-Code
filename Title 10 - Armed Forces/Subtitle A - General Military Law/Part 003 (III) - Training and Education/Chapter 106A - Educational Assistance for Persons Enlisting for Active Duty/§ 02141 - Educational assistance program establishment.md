@@ -50,7 +50,7 @@ Pub. L. 96–342, title IX, §904, Sept. 8, 1980, 94 Stat. 1116, provided that:
 
 "(a) There is hereby authorized to be appropriated to carry out chapter 107 of title 10, United States Code (as added by section 901), and sections 902 and 903 \[set out above\] a total of $75,000,000.
 
-"(b) The Secretary of Defense shall equitably allocate the amount appropriated under this section among the educational assistance program provided for under chapter 107 of title 10, United States Code (as added bysection 901), the repayment as authorized by section 902 \[set out above\] of loans made, insured, or guaranteed under part B of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] and of loans made under part E of such Act \[20 U.S.C. 1087aa et seq.\], and the educational assistance program provided for under section 903 \[set out above\]."
+"(b) The Secretary of Defense shall equitably allocate the amount appropriated under this section among the educational assistance program provided for under chapter 107 of title 10, United States Code (as added by section 901), the repayment as authorized by section 902 \[set out above\] of loans made, insured, or guaranteed under part B of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] and of loans made under part E of such Act \[20 U.S.C. 1087aa et seq.\], and the educational assistance program provided for under section 903 \[set out above\]."
 
 #### Reports on Educational Assistance Programs; Submission, Contents, Etc.
 

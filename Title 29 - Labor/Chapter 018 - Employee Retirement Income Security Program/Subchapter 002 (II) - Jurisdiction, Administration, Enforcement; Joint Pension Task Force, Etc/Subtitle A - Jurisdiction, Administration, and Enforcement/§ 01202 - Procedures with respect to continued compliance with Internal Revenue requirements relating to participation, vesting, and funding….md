@@ -6,7 +6,7 @@ In carrying out the provisions of part I of subchapter D of chapter 1 of title 2
 
 #### (b) Notification to Secretary of Labor before Secretary of the Treasury sends notice of deficiency under section 4971 of title 26; waiver of imposition of tax; requests for investigation; consultation
 
-Unless the Secretary of the Treasury finds that the collection of a tax is in jeopardy, in carrying out the provisions of section 4971 of title 26 (relating to taxes on the failure to meet minimum funding standards), the Secretary of the Treasury shall notify the Secretary of Labor before sending a notice of deficiency with respect to any tax imposed under that section on an employer, and, in accordance with the provisions of subsection (d) of that section, afford the Secretary of Labor an opportunity to commenton the imposition of the tax in the case. The Secretary of the Treasury may waive the imposition of the tax imposed under section 4971(b) of title 26 in appropriate cases. Upon receiving a written request from the Secretary of Labor or from the Pension Benefit Guaranty Corporation, the Secretary of the Treasury shall cause an investigation to be commenced expeditiously with respect to whether the tax imposed under section 4971 of title 26 should be applied with respect to any employer to which the request relates. The Secretary of the Treasury and the Secretary of Labor shall consult with each other from time to time with respect to the provisions of section 412 of title 26 (relating to minimum funding standards) and with respect to the funding standards applicable under subchapter I of this chapter in order to coordinate the rules applicable under such standards.
+Unless the Secretary of the Treasury finds that the collection of a tax is in jeopardy, in carrying out the provisions of section 4971 of title 26 (relating to taxes on the failure to meet minimum funding standards), the Secretary of the Treasury shall notify the Secretary of Labor before sending a notice of deficiency with respect to any tax imposed under that section on an employer, and, in accordance with the provisions of subsection (d) of that section, afford the Secretary of Labor an opportunity to comment on the imposition of the tax in the case. The Secretary of the Treasury may waive the imposition of the tax imposed under section 4971(b) of title 26 in appropriate cases. Upon receiving a written request from the Secretary of Labor or from the Pension Benefit Guaranty Corporation, the Secretary of the Treasury shall cause an investigation to be commenced expeditiously with respect to whether the tax imposed under section 4971 of title 26 should be applied with respect to any employer to which the request relates. The Secretary of the Treasury and the Secretary of Labor shall consult with each other from time to time with respect to the provisions of section 412 of title 26 (relating to minimum funding standards) and with respect to the funding standards applicable under subchapter I of this chapter in order to coordinate the rules applicable under such standards.
 
 #### (c) Extended application of regulations prescribed by Secretary of the Treasury relating to minimum participation standards, minimum vesting standards, and minimum funding standards
 
@@ -18,15 +18,17 @@ The Secretary of Labor and the Pension Benefit Guaranty Corporation, before fili
 
 #### (e) Consultative requirements respecting promulgation of proposed or final regulations
 
-The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426 of this title, before publishing any such proposed or final regulation.
+The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426 <sup>1</sup> of this title, before publishing any such proposed or final regulation.
 
 (Pub. L. 93–406, title III, §3002, Sept. 2, 1974, 88 Stat. 996; Pub. L. 96–364, title IV, §402(b)(3), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (c), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a), (c), was in the original "this Act", meaning Pub. L. 93–406, knownas the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with section 418 of Title 26, Internal Revenue Code.
+Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with former section 418 of Title 26, Internal Revenue Code. Section 418 was repealed by Pub. L. 113–235, div. O, title I, §108(b)(1), Dec. 16, 2014, 128 Stat. 2787.
+
+Sections 1421 through 1425 of this title, referred to in subsec. (e), were repealed by Pub. L. 113–235, div. O, title I, §108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
 
 #### Amendments
 
@@ -41,4 +43,6 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

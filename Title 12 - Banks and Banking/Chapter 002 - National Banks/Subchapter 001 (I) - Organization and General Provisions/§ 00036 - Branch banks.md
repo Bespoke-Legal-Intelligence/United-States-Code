@@ -36,7 +36,7 @@ A national banking association may, with the approval of the Comptroller of the 
 
 #### (d) Branches resulting from interstate merger transactions
 
-A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup>1</sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B) of thissection) of such bank in accordance with section 1831u of this title.
+A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup>1</sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B) of this section) of such bank in accordance with section 1831u of this title.
 
 #### (e) Exclusive authority for additional branches
 
@@ -78,7 +78,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (2) Treatment of branch as bank
 
-&emsp;All laws of a host State, other than the laws regarding community reinvestment, consumer protection, fair lending, establishment of intrastate branches, and the application or administration of any tax or method of taxation, shall apply to a branch (in such State) of an out-of-State national bank to the same extent as such laws would apply if the branch were a national bank the main office of which is in such State.
+&emsp;All laws of a host State, other than the laws regarding community reinvestment, consumer protection, fair lending, establishment of intrastate branches, and the application or administration of any tax or method of taxation, shall apply to a branch (in such State) of anout-of-State national bank to the same extent as such laws would apply if the branch were a national bank the main office of which is in such State.
 
 #### (3) Rule of construction
 
@@ -160,7 +160,7 @@ R.S. §5155 derived from act Mar. 3, 1865, ch. 78, §7, 13 Stat. 484.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (g)(1)(A). Pub. L. 111–203 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "there is in effect in the host State a law that—
+<b>2010</b>—Subsec. (g)(1)(A). Pub. L. 111–203 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "there is in effect in the host State a law that—
 
 &emsp;"(i) applies equally to all banks; and
 

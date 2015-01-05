@@ -136,7 +136,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (L) Food stamp exception for certain qualified aliens
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term “qualified alien” for a period of 5 years or more beginning on the date of the alien's entry into the United States.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term "qualified alien" for a period of 5 years or more beginning on the date of the alien's entry into the United States.
 
 #### (M) SSI extensions through fiscal year 2011
 
@@ -184,9 +184,9 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;With respect to eligibility for benefits for the specified program described in paragraph (3)(A), paragraph (1) shall not apply during fiscal years 2009 through 2011 to an alien described in one of clauses (i) through (v) of subparagraph (A) or a victim of trafficking in persons (as defined in section 7105(b)(1)(C) of title 22 or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(ii)\]), if such alien or victim (including any such alien or victim rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996, and ending on September 30, 2008, solely by reason of the termination of the 7-year period described in subparagraph (A)) has filed an application for naturalization that is pending before the Secretary of Homeland Security or a United States district court based on section 336(b) of the Immigration and Nationality Act \[8 U.S.C. 1447(b)\], or has been approved for naturalization but not yet sworn in as a United States citizen, and the Commissioner of Social Security has verified, through procedures established in consultation with the Secretary of Homeland Security, that such application is pending or has been approved.
 
-#### (3) “Specified Federal program” defined
+#### (3) "Specified Federal program" defined
 
-&emsp;For purposes of this chapter, the term “specified Federal program” means any of the following:
+&emsp;For purposes of this chapter, the term "specified Federal program" means any of the following:
 
 #### (A) SSI
 
@@ -194,7 +194,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (B) Food stamps
 
-&emsp;&emsp;The food stamp program as defined in section 3(l) of the Food Stamp Act of 1977 <sup>1</sup> \[7 U.S.C. 2012(l)\].
+&emsp;&emsp;The food stamp program as defined in section 3(l) of the Food Stamp Act of 1977.<sup>1</sup>
 
 #### (b) Limited eligibility for designated Federal programs
 
@@ -226,7 +226,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;With respect to the designated Federal programs under paragraph (3) (other than subparagraph (C)), paragraph (1) shall not apply to an alien until 5 years after the date—
 
-&emsp;&emsp;&emsp;&emsp;(I) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\];
+&emsp;&emsp;&emsp;&emsp;(I) an alien is admitted to the United States as a refugee under section 207 ofthe Immigration and Nationality Act \[8 U.S.C. 1157\];
 
 &emsp;&emsp;&emsp;&emsp;(II) an alien is granted asylum under section 208 of such Act \[8 U.S.C. 1158\];
 
@@ -266,9 +266,9 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;An alien who is receiving benefits under the program defined in subsection (a)(3)(A) of this section (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
 
-#### (3) “Designated Federal program” defined
+#### (3) "Designated Federal program" defined
 
-&emsp;For purposes of this chapter, the term “designated Federal program” means any of the following:
+&emsp;For purposes of this chapter, the term "designated Federal program" means any of the following:
 
 #### (A) Temporary assistance for needy families
 
@@ -300,9 +300,9 @@ The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b
 
 The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 3(l) of the Act, which defined "supplemental nutrition assistance program", was classified to section 2012(l) of Title 7, prior to repeal by Pub. L. 113–79, title IV, §4030(a)(3), Feb. 7, 2014, 128 Stat. 813. Such term is now defined in section 2012(t) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original "this title" meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (a)(3)(A), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
@@ -314,33 +314,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, §4115(c)(2)(D)(i), substituted “section 3(j)” for “section 3(r)”.
+<b>2008</b>—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, §4115(c)(2)(D)(i), substituted "section 3(j)" for "section 3(r)".
 
 Subsec. (a)(2)(M). Pub. L. 110–328 added subpar. (M).
 
-Subsec. (a)(3)(B). Pub. L. 110–246, §4115(c)(2)(D)(ii), substituted “section 3(l)” for “section 3(h)”.
+Subsec. (a)(3)(B). Pub. L. 110–246, §4115(c)(2)(D)(ii), substituted "section 3(l)" for "section 3(h)".
 
-<b>2002</b>—Subsec. (a)(2)(F). Pub. L. 107–171, §4401(a), added cl. (i), substituted “(ii) in the case” for “(II) in the case”, and struck out former cls. (i) and (ii)(I) which read as follows:
+<b>2002</b>—Subsec. (a)(2)(F). Pub. L. 107–171, §4401(a), added cl. (i), substituted "(ii) in the case" for "(II) in the case", and struck out former cls. (i) and (ii)(I) which read as follows:
 
-“(i) was lawfully residing in the United States on August 22, 1996; and
+"(i) was lawfully residing in the United States on August 22, 1996; and
 
-“(ii)(I) in the case of the specified Federal program described in paragraph (3)(A), is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act; and”.
+"(ii)(I) in the case of the specified Federal program described in paragraph (3)(A), is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act; and".
 
-Subsec. (a)(2)(J). Pub. L. 107–171, §4401(b)(1), substituted “who is under 18 years of age.” for “who—
+Subsec. (a)(2)(J). Pub. L. 107–171, §4401(b)(1), substituted "who is under 18 years of age." for "who—
 
-&emsp;“(i) was lawfully residing in the United States on August 22, 1996; and
+&emsp;"(i) was lawfully residing in the United States on August 22, 1996; and
 
-&emsp;“(ii) is under 18 years of age.”
+&emsp;"(ii) is under 18 years of age."
 
 Subsec. (a)(2)(L). Pub. L. 107–171, §4401(c)(1), added subpar. (L).
 
-<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
+<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted "programs described in paragraph (3)" for "program described in paragraph (3)(A)" in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
 
-Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
+Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted "specified Federal programs described in paragraph (3)" for "program defined in paragraph (3)(A) (relating to the supplemental security income program)" in introductory provisions.
 
-Subsec. (a)(2)(F)(ii). Pub. L. 105–185, §504(2), designated existing provisions as subcl. (I), inserted “in the case of the specified Federal program described in paragraph (3)(A),” before “is blind”, substituted “; and” for period at end, and added subcl. (II).
+Subsec. (a)(2)(F)(ii). Pub. L. 105–185, §504(2), designated existing provisions as subcl. (I), inserted "in the case of the specified Federal program described in paragraph (3)(A)," before "is blind", substituted "; and" for period at end, and added subcl. (II).
 
-Subsec. (a)(2)(G). Pub. L. 105–185, §505, substituted “Exception” for “SSI exception” in subpar. heading and “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
+Subsec. (a)(2)(G). Pub. L. 105–185, §505, substituted "Exception" for "SSI exception" in subpar. heading and "specified Federal programs described in paragraph (3)" for "program defined in paragraph (3)(A) (relating to the supplemental security income program)" in introductory provisions.
 
 Subsec. (a)(2)(I). Pub. L. 105–185, §506, added subpar. (I).
 
@@ -348,35 +348,35 @@ Subsec. (a)(2)(J). Pub. L. 105–185, §507, added subpar. (J).
 
 Subsec. (a)(2)(K). Pub. L. 105–185, §508, added subpar. (K).
 
-<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to an alien until 5 years after the date—
+<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "Paragraph (1) shall not apply to an alien until 5 years after the date—
 
-&emsp;“(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act;
+&emsp;"(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act;
 
-&emsp;“(ii) an alien is granted asylum under section 208 of such Act; or
+&emsp;"(ii) an alien is granted asylum under section 208 of such Act; or
 
-&emsp;“(iii) an alien's deportation is withheld under section 243(h) of such Act.”
+&emsp;"(iii) an alien's deportation is withheld under section 243(h) of such Act."
 
-Subsec. (a)(2)(A)(i)(III). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Subsec. (a)(2)(A)(i)(III). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
 
 Subsec. (a)(2)(A)(i)(V). Pub. L. 105–33, §5306(a)(1), added subcl. (V).
 
-Subsec. (a)(2)(A)(ii)(III). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Subsec. (a)(2)(A)(ii)(III). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
 
 Subsec. (a)(2)(A)(ii)(V). Pub. L. 105–33, §5306(a)(2), added subcl. (V).
 
-Subsec. (a)(2)(C)(i). Pub. L. 105–33, §5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+Subsec. (a)(2)(C)(i). Pub. L. 105–33, §5563(c), inserted ", 1101, or 1301, or as described in section 107" after "section 101".
 
-Pub. L. 105–33, §5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+Pub. L. 105–33, §5563(a), inserted "and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38" after "alienage".
 
-Subsec. (a)(2)(C)(iii). Pub. L. 105–33, §5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+Subsec. (a)(2)(C)(iii). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
 
-Subsec. (a)(2)(D)(i)(I). Pub. L. 105–33, §5301(c)(1), substituted “September 30, 1998,” for “September 30, 1997,”.
+Subsec. (a)(2)(D)(i)(I). Pub. L. 105–33, §5301(c)(1), substituted "September 30, 1998," for "September 30, 1997,".
 
-Pub. L. 105–18, §6005(a)(1), substituted “September 30, 1997” for “the date which is 1 year after August 22, 1996”.
+Pub. L. 105–18, §6005(a)(1), substituted "September 30, 1997" for "the date which is 1 year after August 22, 1996".
 
-Subsec. (a)(2)(D)(i)(III). Pub. L. 105–33, §5301(c)(2), substituted “September 30, 1998” for “September 30, 1997,”.
+Subsec. (a)(2)(D)(i)(III). Pub. L. 105–33, §5301(c)(2), substituted "September 30, 1998" for "September 30, 1997,".
 
-Pub. L. 105–18, §6005(a)(2), substituted “September 30, 1997,” for “the date of the redetermination with respect to such individual”.
+Pub. L. 105–18, §6005(a)(2), substituted "September 30, 1997," for "the date of the redetermination with respect to such individual".
 
 Subsec. (a)(2)(E). Pub. L. 105–33, §5301(a), added subpar. (E).
 
@@ -388,31 +388,31 @@ Subsec. (a)(2)(H). Pub. L. 105–33, §5304, added subpar. (H).
 
 Subsec. (b)(2)(A). Pub. L. 105–33, §5302(b), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows:
 
-“(i) An alien who is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act until 5 years after the date of an alien's entry into the United States.
+"(i) An alien who is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act until 5 years after the date of an alien's entry into the United States.
 
-“(ii) An alien who is granted asylum under section 208 of such Act until 5 years after the date of such grant of asylum.
+"(ii) An alien who is granted asylum under section 208 of such Act until 5 years after the date of such grant of asylum.
 
-“(iii) An alien whose deportation is being withheld under section 243(h) of such Act until 5 years after such withholding.”
+"(iii) An alien whose deportation is being withheld under section 243(h) of such Act until 5 years after such withholding."
 
-Subsec. (b)(2)(A)(i)(III). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Subsec. (b)(2)(A)(i)(III). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
 
 Subsec. (b)(2)(A)(i)(V). Pub. L. 105–33, §5306(b)(1), added subcl. (V).
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
 
 Subsec. (b)(2)(A)(ii)(V). Pub. L. 105–33, §5306(b)(2), added subcl. (V).
 
-Subsec. (b)(2)(C)(i). Pub. L. 105–33, §5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+Subsec. (b)(2)(C)(i). Pub. L. 105–33, §5563(c), inserted ", 1101, or 1301, or as described in section 107" after "section 101".
 
-Pub. L. 105–33, §5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+Pub. L. 105–33, §5563(a), inserted "and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38" after "alienage".
 
-Subsec. (b)(2)(C)(iii). Pub. L. 105–33, §5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+Subsec. (b)(2)(C)(iii). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
 
 Subsec. (b)(2)(E). Pub. L. 105–33, §5303(b), added subpar. (E).
 
 Subsec. (b)(2)(F). Pub. L. 105–33, §5305(b), added subpar. (F).
 
-<b>1996</b>—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.”
+<b>1996</b>—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection."
 
 #### Change of Name
 
@@ -430,19 +430,19 @@ Amendment by section 4401(a) of Pub. L. 107–171 effective Oct. 1, 2002, except
 
 Amendment by section 4401(b)(1) of Pub. L. 107–171 effective Oct. 1, 2003, see section 4401(b)(3) of Pub. L. 107–171, set out as a note under section 2014 of Title 7, Agriculture.
 
-Pub. L. 107–171, title IV, §4401(c)(2), May 13, 2002, 116 Stat. 334, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on April 1, 2003.”
+Pub. L. 107–171, title IV, §4401(c)(2), May 13, 2002, 116 Stat. 334, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on April 1, 2003."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided that: “The amendments made by sections 503 through 509 \[amending this section and section 1613 of this title\] take effect on November 1, 1998.”
+Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided that: "The amendments made by sections 503 through 509 \[amending this section and section 1613 of this title\] take effect on November 1, 1998."
 
 #### Effective Date of 1997 Amendments
 
-Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-Pub. L. 105–18, title II, §6005(b), June 12, 1997, 111 Stat. 191, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[this section\].”
+Pub. L. 105–18, title II, §6005(b), June 12, 1997, 111 Stat. 191, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[this section\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -450,7 +450,7 @@ Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673,
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “2012(j))).”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "2012(j))).".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “alien is”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "alien is".</i>
 

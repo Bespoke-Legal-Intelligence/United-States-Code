@@ -66,7 +66,7 @@ By the authority vested in me as President of the United States of America by Se
 
 &emsp;(5) Section 235(7) \[see 707(7)\].
 
-1–103. The following functions vested in the President by Section 235 \[see 707\] of Title 38 of the United States Code are delegated to the Administrator of the Veterans Administration \[now Secretary of Veterans Affairs\]. The authority with respect to the allowances orbenefits of paragraphs (1) and (4) of Section 235 \[see 707(1), (4)\] which are similar to the benefits and allowances provided in the sections of the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], designated in those paragraphs.
+1–103. The following functions vested in the President by Section 235 \[see 707\] of Title 38 of the United States Code are delegated to the Administrator of the Veterans Administration \[now Secretary of Veterans Affairs\]. The authority with respect to the allowances or benefits of paragraphs (1) and (4) of Section 235 \[see 707(1), (4)\] which are similar to the benefits and allowances provided in the sections of the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], designated in those paragraphs.
 
 1–104. Executive Order No. 10853 \[not classified to Code\], as amended, is revoked. The rules and regulations which were prescribed by the Secretary of State or the Administrator of the Veterans Administration \[now Secretary of Veterans Affairs\] pursuant to Executive Order No. 10853, as amended, and which would be valid if issued pursuant to this Order, shall be deemed to have been issued under this Order.
 

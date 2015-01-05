@@ -23,10 +23,13 @@
 | [55119\.](%C2%A7%2055119%20-%20Yukon%20River.md) | Yukon River. |
 | [55120\.](%C2%A7%2055120%20-%20Transshipment%20of%20imported%20merchandise%20intended%20for%20immediate%20exportation.md) | Transshipment of imported merchandise intended for immediate exportation. |
 | [55121\.](%C2%A7%2055121%20-%20Transportation%20of%20merchandise%20and%20passengers%20on%20Canadian%20vessels.md) | Transportation of merchandise and passengers on Canadian vessels. |
+| [55122\.](%C2%A7%2055122%20-%20Floating%20dry%20docks.md) | Floating dry docks. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. C, title XXXV, §3502(b), Dec. 19, 2014, 128 Stat. 3904, added item 55122.
 
 <b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3527(b)(2), Jan. 28, 2008, 122 Stat. 602, inserted "valueless material or" before "dredged material" in item 55110.
 
@@ -56,3 +59,4 @@
 - [&sect; 55119 - Yukon River](%C2%A7%2055119%20-%20Yukon%20River.md)
 - [&sect; 55120 - Transshipment of imported merchandise intended for immediate exportation](%C2%A7%2055120%20-%20Transshipment%20of%20imported%20merchandise%20intended%20for%20immediate%20exportation.md)
 - [&sect; 55121 - Transportation of merchandise and passengers on Canadian vessels](%C2%A7%2055121%20-%20Transportation%20of%20merchandise%20and%20passengers%20on%20Canadian%20vessels.md)
+- [&sect; 55122 - Floating dry docks](%C2%A7%2055122%20-%20Floating%20dry%20docks.md)

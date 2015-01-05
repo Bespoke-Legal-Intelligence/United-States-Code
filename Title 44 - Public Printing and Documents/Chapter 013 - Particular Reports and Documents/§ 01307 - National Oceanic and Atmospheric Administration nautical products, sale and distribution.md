@@ -1,6 +1,6 @@
 ### §1307. National Oceanic and Atmospheric Administration: nautical products, sale and distribution
 
-(a)(1) All nautical products created or published by the National Oceanic and AtmosphericAdministration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical products are sold to the public.
+(a)(1) All nautical products created or published by the National Oceanic and Atmospheric Administration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical products are sold to the public.
 
 (2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical products may be increased over a period of not less than three years after the date of enactment of this section so as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter.
 

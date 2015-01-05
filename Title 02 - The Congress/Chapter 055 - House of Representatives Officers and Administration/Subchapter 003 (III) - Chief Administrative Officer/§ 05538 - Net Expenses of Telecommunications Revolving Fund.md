@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the Net Expenses of Telecommunications Revolving Fund (hereafter in this section referred to as the “Revolving Fund”), consisting of funds deposited by the Chief Administrative Officer of the House of Representatives from amounts provided by legislative branch offices to purchase, lease, obtain, and maintain the data and voice telecommunications services and equipment located in such offices.
+There is hereby established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the Net Expenses of Telecommunications Revolving Fund (hereafter in this section referred to as the "Revolving Fund"), consisting of funds deposited by the Chief Administrative Officer of the House of Representatives from amounts provided by legislative branch offices to purchase, lease, obtain, and maintain the data and voice telecommunications services and equipment located in such offices.
 
 #### (b) Use of amounts in Fund
 
@@ -16,7 +16,7 @@ The Revolving Fund shall be treated as a category of allowances and expenses for
 
 #### (f) Applicability
 
-This section and the amendments made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year, except that for purposes of making deposits into the Revolving Fund under subsection (a), the Chief Administrative Officer may deposit amounts provided by legislative branch offices during fiscal year 2004 or any succeeding fiscal year.
+This section and the amendments made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year, except that for purposes of making deposits into the Revolving Fund under subsection (a), the Chief Administrative Officer may deposit amountsprovided by legislative branch offices during fiscal year 2004 or any succeeding fiscal year.
 
 (Pub. L. 108–447, div. G, title I, §102, Dec. 8, 2004, 118 Stat. 3174.)
 

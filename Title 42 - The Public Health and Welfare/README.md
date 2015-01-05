@@ -36,7 +36,7 @@
 | [<b>19.</b>](Chapter%20019%20-%20Saline%20and%20Salt%20Waters/README.md) | <b>Saline and Salt Waters \[Repealed, Omitted, or Transferred\]</b> | <b>1951</b> |
 | [<b>19A.</b>](Chapter%20019A%20-%20Water%20Resources%20Research%20Program/README.md) | <b>Water Resources Research Program \[Repealed\]</b> | <b>1961</b> |
 | [<b>19B.</b>](Chapter%20019B%20-%20Water%20Resources%20Planning/README.md) | <b>Water Resources Planning</b> | <b>1962</b> |
-| [<b>20.</b>](Chapter%20020%20-%20Elective%20Franchise/README.md) | <b>Elective Franchise</b> | <b>1971</b> |
+| [<b>20.</b>](Chapter%20020%20-%20Elective%20Franchise/README.md) | <b>Elective Franchise \[Transferred, Repealed, or Omitted\]</b> | <b>1971</b> |
 | [<b>20A.</b>](Chapter%20020A%20-%20Civil%20Rights%20Commission/README.md) | <b>Civil Rights Commission</b> | <b>1975</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Civil%20Rights/README.md) | <b>Civil Rights</b> | <b>1981</b> |
 | [<b>21A.</b>](Chapter%20021A%20-%20Privacy%20Protection/README.md) | <b>Privacy Protection</b> | <b>2000aa</b> |
@@ -151,7 +151,7 @@
 | [<b>118.</b>](Chapter%20118%20-%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20Research/README.md) | <b>Alzheimer's Disease and Related Dementias Research</b> | <b>11201</b> |
 | [<b>119.</b>](Chapter%20119%20-%20Homeless%20Assistance/README.md) | <b>Homeless Assistance</b> | <b>11301</b> |
 | [<b>120.</b>](Chapter%20120%20-%20Enterprise%20Zone%20Development/README.md) | <b>Enterprise Zone Development</b> | <b>11501</b> |
-| [<b>121.</b>](Chapter%20121%20-%20International%20Child%20Abduction%20Remedies/README.md) | <b>International Child Abduction Remedies</b> | <b>11601</b> |
+| [<b>121.</b>](Chapter%20121%20-%20International%20Child%20Abduction%20Remedies/README.md) | <b>International Child Abduction Remedies \[Transferred or Repealed\]</b> | <b>11601</b> |
 | [<b>122.</b>](Chapter%20122%20-%20Native%20Hawaiian%20Health%20Care/README.md) | <b>Native Hawaiian Health Care</b> | <b>11701</b> |
 | [<b>123.</b>](Chapter%20123%20-%20Drug%20Abuse%20Education%20and%20Prevention/README.md) | <b>Drug Abuse Education and Prevention</b> | <b>11801</b> |
 | [<b>124.</b>](Chapter%20124%20-%20Public%20Housing%20Drug%20Elimination/README.md) | <b>Public Housing Drug Elimination</b> | <b>11901</b> |
@@ -178,7 +178,7 @@
 | [<b>144.</b>](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md) | <b>Developmental Disabilities Assistance and Bill of Rights</b> | <b>15001</b> |
 | [<b>145.</b>](Chapter%20145%20-%20Public%20Safety%20Officer%20Medal%20of%20Valor%20and%20Tributes/README.md) | <b>Public Safety Officer Medal of Valor and Tributes</b> | <b>15201</b> |
 | [<b>145A.</b>](Chapter%20145A%20-%20Law%20Enforcement%20Congressional%20Badge%20of%20Bravery/README.md) | <b>Law Enforcement Congressional Badge of Bravery</b> | <b>15231</b> |
-| [<b>146.</b>](Chapter%20146%20-%20Election%20Administration%20Improvement/README.md) | <b>Election Administration Improvement</b> | <b>15301</b> |
+| [<b>146.</b>](Chapter%20146%20-%20Election%20Administration%20Improvement/README.md) | <b>Election Administration Improvement \[Transferred\]</b> | <b>15301</b> |
 | [<b>147.</b>](Chapter%20147%20-%20Prison%20Rape%20Elimination/README.md) | <b>Prison Rape Elimination</b> | <b>15601</b> |
 | [<b>148.</b>](Chapter%20148%20-%20Windstorm%20Impact%20Reduction/README.md) | <b>Windstorm Impact Reduction</b> | <b>15701</b> |
 | [<b>149.</b>](Chapter%20149%20-%20National%20Energy%20Policy%20and%20Programs/README.md) | <b>National Energy Policy and Programs</b> | <b>15801</b> |

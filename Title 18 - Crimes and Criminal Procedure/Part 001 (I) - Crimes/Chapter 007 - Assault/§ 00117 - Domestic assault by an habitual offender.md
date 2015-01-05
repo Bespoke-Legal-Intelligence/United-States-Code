@@ -4,7 +4,7 @@
 
 In General.—Any person who commits a domestic assault within the special maritime and territorial jurisdiction of the United States or Indian country and who has a final conviction on at least 2 separate prior occasions in Federal, State, or Indian tribal court proceedings for offenses that would be, if subject to Federal jurisdiction—
 
-&emsp;(1) any assault, sexual abuse, or serious violent felony against a spouse or intimate partner; or
+&emsp;(1) any assault, sexual abuse, or serious violent felony against a spouse or intimate partner, or against a child of or in the care of the person committing the domestic assault; or
 
 &emsp;(2) an offense under chapter 110A,
 
@@ -14,5 +14,9 @@ In General.—Any person who commits a domestic assault within the special marit
 
 Domestic Assault Defined.—In this section, the term "domestic assault" means an assault committed by a current or former spouse, parent, child, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse, parent, child, or guardian, or by a person similarly situated to a spouse, parent, child, or guardian of the victim.
 
-(Added Pub. L. 109–162, title IX, §909, Jan. 5, 2006, 119 Stat. 3084.)
+(Added Pub. L. 109–162, title IX, §909, Jan. 5, 2006, 119 Stat. 3084; amended Pub. L. 113–104, §3, May 20, 2014, 128 Stat. 1156.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–104 inserted ", or against a child of or in the care of the person committing the domestic assault" after "intimate partner".
 

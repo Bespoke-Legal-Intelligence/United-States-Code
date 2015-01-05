@@ -1,16 +1,8 @@
 ### <b>CHAPTER 74—NATIONAL MARITIME HERITAGE</b>
 
-| Sec. |  |
-| :--- | ---: |
-| [5401\.](%C2%A7%2005401%20-%20Findings.md) | Findings. |
-| [5402\.](%C2%A7%2005402%20-%20National%20maritime%20heritage%20policy.md) | National maritime heritage policy. |
-| [5403\.](%C2%A7%2005403%20-%20National%20Maritime%20Heritage%20Grants%20Program.md) | National Maritime Heritage Grants Program. |
-| [5404\.](%C2%A7%2005404%20-%20National%20Maritime%20Heritage%20Grants%20Advisory%20Committee.md) | National Maritime Heritage Grants Advisory Committee. |
-| [5405\.](%C2%A7%2005405%20-%20Funding.md) | Funding. |
-| [5406\.](%C2%A7%2005406%20-%20Definitions.md) | Definitions. |
-| [5407\.](%C2%A7%2005407%20-%20Regulations.md) | Regulations. |
-| [5408\.](%C2%A7%2005408%20-%20Savings%20provision.md) | Savings provision. |
-| [5409\.](%C2%A7%2005409%20-%20Designation%20of%20America%27s%20National%20Maritime%20Museum.md) | Designation of America's National Maritime Museum. |
+| Sec. |
+| :--- |
+| 5401 to 5409. Omitted or Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -19,12 +11,12 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05401 - Findings](%C2%A7%2005401%20-%20Findings.md)
-- [&sect; 05402 - National maritime heritage policy](%C2%A7%2005402%20-%20National%20maritime%20heritage%20policy.md)
-- [&sect; 05403 - National Maritime Heritage Grants Program](%C2%A7%2005403%20-%20National%20Maritime%20Heritage%20Grants%20Program.md)
-- [&sect; 05404 - National Maritime Heritage Grants Advisory Committee](%C2%A7%2005404%20-%20National%20Maritime%20Heritage%20Grants%20Advisory%20Committee.md)
-- [&sect; 05405 - Funding](%C2%A7%2005405%20-%20Funding.md)
-- [&sect; 05406 - Definitions](%C2%A7%2005406%20-%20Definitions.md)
-- [&sect; 05407 - Regulations](%C2%A7%2005407%20-%20Regulations.md)
-- [&sect; 05408 - Savings provision](%C2%A7%2005408%20-%20Savings%20provision.md)
-- [&sect; 05409 - Designation of America's National Maritime Museum](%C2%A7%2005409%20-%20Designation%20of%20America%27s%20National%20Maritime%20Museum.md)
+- [&sect; 05401 - Omitted](%C2%A7%2005401%20-%20Omitted.md)
+- [&sect; 05402 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2005402%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 05403 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2005403%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 05404 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2005404%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 05405 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2005405%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 05406 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2005406%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 05407 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2005407%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 05408 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2005408%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)
+- [&sect; 05409 - Repealed. Pub. L. 113&#8211;287, &sect;7, Dec. 19, 2014, 128 Stat. 3272](%C2%A7%2005409%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93287%2C%20%C2%A77%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203272.md)

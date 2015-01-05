@@ -12,7 +12,7 @@ To carry out the programs described in subsection (a) of this section, the Secre
 
 &emsp;(2) the Secretary shall provide, on a cost-sharing basis, consultative and technical assistance, including design support and generic licensing documentation, to assist such utility in obtaining the construction authorization and appropriate license from the Commission; and
 
-&emsp;(3) the Secretary shall provide generic research and development of alternative spent nuclear fuel storage techniques to enhance utility-provided, at-reactor storage capabilities, if authorized in any other provision of this chapter or in any other provision of law.
+&emsp;(3) the Secretary shall provide generic research and development of alternative spent nuclear fuel storage techniques to enhanceutility-provided, at-reactor storage capabilities, if authorized in any other provision of this chapter or in any other provision of law.
 
 #### (c) Dry storage research and development
 

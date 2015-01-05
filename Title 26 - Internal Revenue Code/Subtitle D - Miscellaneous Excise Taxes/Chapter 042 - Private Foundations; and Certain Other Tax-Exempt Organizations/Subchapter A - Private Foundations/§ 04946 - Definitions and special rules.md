@@ -98,7 +98,7 @@ For purposes of subsection (a)(1), the family of any individual shall include on
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XVI, §1606(b), Oct. 22, 1986, 100 Stat. 2771, provided that: "The amendment made bythis section \[amending this section\] shall apply to compensation received after December 31, 1985."
+Pub. L. 99–514, title XVI, §1606(b), Oct. 22, 1986, 100 Stat. 2771, provided that: "The amendment made by this section \[amending this section\] shall apply to compensation received after December 31, 1985."
 
 #### Effective Date of 1984 Amendment
 

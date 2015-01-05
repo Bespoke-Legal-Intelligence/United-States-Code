@@ -30,7 +30,7 @@ Standards.—The Secretary shall prescribe motor vehicle safety standards for sc
 
 (c)
 
-Test Driving by Manufacturers.—The Secretary may require by regulation a schoolbusto be test-driven by a manufacturer before introduction in commerce.
+Test Driving by Manufacturers.—The Secretary may require by regulation a schoolbus to be test-driven by a manufacturer before introduction in commerce.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 957.)
 

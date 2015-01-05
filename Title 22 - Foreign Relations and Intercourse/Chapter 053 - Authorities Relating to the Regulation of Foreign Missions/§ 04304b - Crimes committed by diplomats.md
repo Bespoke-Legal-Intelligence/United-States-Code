@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) Each case involving a United States citizen under subparagraph (D) in which the United States has been requested by the government of a receiving state to waive the immunity from criminal jurisdiction of the United States citizen.
 
-&emsp;&emsp;(F) Whether the Secretary has made the notifications referred to in subsection (c) of this section during the period covered by the report.
+&emsp;&emsp;(F) Whether the Secretary has made the notifications referred to in subsection (c) during the period covered by the report.
 
 #### (3) "Serious criminal offense" defined
 

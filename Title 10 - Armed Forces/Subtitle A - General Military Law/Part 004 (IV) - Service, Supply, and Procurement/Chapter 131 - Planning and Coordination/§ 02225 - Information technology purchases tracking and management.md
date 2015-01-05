@@ -38,7 +38,7 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 (c)
 
-Responsibility To Ensure Fairness of Certain Prices.—The head of each contracting activity in the Department of Defense shall have responsibility for ensuring the fairness and reasonableness of unit prices paid by the contracting activity for information technology products and services that are frequently purchased commercially available off-the-shelf items.
+Responsibility To Ensure Fairness of Certain Prices.—The head of each contracting activity in the Department of Defense shall haveresponsibility for ensuring the fairness and reasonableness of unit prices paid by the contracting activity for information technology products and services that are frequently purchased commercially available off-the-shelf items.
 
 (d)
 
@@ -130,7 +130,7 @@ Scope of projects.—Any demonstration project under paragraph (1) shall be carr
 
 "(b)
 
-Pilot Programs on Cybersecurity Required.—The Secretary of Defense shall support or conduct pilot programs on cybersecurity with respect to the following areas:
+Pilot Programs on Cybersecurity Required.—The Secretary of Defense shall support or conduct pilotprograms on cybersecurity with respect to the following areas:
 
 &emsp;"(1) Threat sensing and warning for information networks worldwide.
 
@@ -244,7 +244,7 @@ Responsibilities.—The clearinghouse established pursuant to subsection (a) sha
 
 &emsp;"(4) Identifying gaps in commercial technologies and working to stimulate investment in research and development in the public and private sectors to address those gaps.
 
-&emsp;"(5) Enhancing internal data and communications systems of the Department of Defense for sharing andretaining information regarding commercial technology priorities and needs, technologies available to meet such priorities and needs, and ongoing research and development directed toward gaps in such technologies.
+&emsp;"(5) Enhancing internal data and communications systems of the Department of Defense for sharing and retaining information regarding commercial technology priorities and needs, technologies available to meet such priorities and needs, and ongoing research and development directed toward gaps in such technologies.
 
 &emsp;"(6) Developing mechanisms, including web-based mechanisms, to facilitate communications with industry regarding the priorities and needs of the Department of Defense identified pursuant to paragraph (1) and commercial technologies available to address such priorities and needs.
 

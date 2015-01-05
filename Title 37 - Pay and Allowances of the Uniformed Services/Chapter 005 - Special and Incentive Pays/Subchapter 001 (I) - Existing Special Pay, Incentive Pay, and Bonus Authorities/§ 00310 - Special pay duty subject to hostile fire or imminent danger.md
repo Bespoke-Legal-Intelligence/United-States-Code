@@ -156,7 +156,7 @@ Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a
 
 #### Relation to Temporary Increase in Authorized Amount of Hostile Fire and Imminent Danger Special Pay
 
-Pub. L. 108–136, div. A, title VI, §618(d)(1), Nov. 24, 2003, 117 Stat. 1504, provided that: "The amendment made by subsection (a)(2) \[amending this section\] does not affect the authority to pay an increased amount ofhostile fire and imminent danger special pay under section 310 of title 37, United States Code, pursuant to—
+Pub. L. 108–136, div. A, title VI, §618(d)(1), Nov. 24, 2003, 117 Stat. 1504, provided that: "The amendment made by subsection (a)(2) \[amending this section\] does not affect the authority to pay an increased amount of hostile fire and imminent danger special pay under section 310 of title 37, United States Code, pursuant to—
 
 &emsp;"(A) the amendment made by subsection (a) of section 1316 of Public Law 108–11 (117 Stat. 570) \[amending this section\] during the period specified in subsection (c)(1) of such section, as modified by section 113 of Public Law 108–84 (117 Stat. 1044); or
 

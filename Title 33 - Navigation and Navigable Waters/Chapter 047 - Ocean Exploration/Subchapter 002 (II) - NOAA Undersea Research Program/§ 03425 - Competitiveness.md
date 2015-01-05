@@ -6,7 +6,7 @@ The Program shall allocate no more than 10 percent of its annual budget to a dis
 
 #### (b) Competitive selection
 
-The Administrator shall conduct an initial competition to select the regional centers that will participate in the program 90 days after the publication of the final program direction under section 3423 of this title and every 5 years thereafter. Funding for projects conducted through the regional centers shall be awarded through acompetitive, merit-reviewed process on the basis of their relevance to the goals of the program and their technical feasibility.
+The Administrator shall conduct an initial competition to select the regional centers that will participate in the program 90 days after the publication of the final program direction under section 3423 of this title and every 5 years thereafter. Funding for projects conducted through the regional centers shall be awarded through a competitive, merit-reviewed process on the basis of their relevance to the goals of the program and their technical feasibility.
 
 (Pub. L. 111–11, title XII, §12106, Mar. 30, 2009, 123 Stat. 1420.)
 

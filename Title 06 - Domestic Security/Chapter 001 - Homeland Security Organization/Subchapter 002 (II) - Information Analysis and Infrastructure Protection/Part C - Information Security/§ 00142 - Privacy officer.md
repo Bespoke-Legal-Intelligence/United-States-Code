@@ -30,7 +30,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 &emsp;&emsp;(B) make such investigations and reports relating to the administration of the programs and operations of the Department as are, in the senior official's judgment, necessary or desirable;
 
-&emsp;&emsp;(C) subject to the approval of the Secretary, require by subpoena the production,by any person other than a Federal agency, of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence necessary to performance of the responsibilities of the senior official under this section; and
+&emsp;&emsp;(C) subject to the approval of the Secretary, require by subpoena the production, by any person other than a Federal agency, of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence necessary to performance of the responsibilities of the senior official under this section; and
 
 &emsp;&emsp;(D) administer to or take from any person an oath, affirmation, or affidavit, whenever necessary to performance of the responsibilities of the senior official under this section.
 
@@ -120,7 +120,7 @@ The Privacy Act of 1974, referred to in subsec. (a)(2), (6), is Pub. L. 93–579
 
 <b>2007</b>—Pub. L. 110–53 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
-<b>2004</b>—Pub. L. 108–458, §8305(1), inserted “, who shall report directly to the Secretary,” after “in the Department” in introductory provisions.
+<b>2004</b>—Pub. L. 108–458, §8305(1), inserted ", who shall report directly to the Secretary," after "in the Department" in introductory provisions.
 
 Pars. (5), (6). Pub. L. 108–458, §8305(2)–(4), added par. (5) and redesignated former par. (5) as (6).
 

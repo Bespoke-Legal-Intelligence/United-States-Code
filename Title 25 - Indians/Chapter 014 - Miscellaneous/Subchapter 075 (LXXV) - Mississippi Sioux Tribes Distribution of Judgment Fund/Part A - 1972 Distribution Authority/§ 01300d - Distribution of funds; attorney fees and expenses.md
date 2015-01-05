@@ -1,6 +1,6 @@
 ### §1300d. Distribution of funds; attorney fees and expenses
 
-The funds appropriated by the Act of June 19, 1968 (82 Stat. 239), to pay compromise judgmentsto the Mdewakanton and Wahpakoota Tribe of Sioux Indians, and the Sisseton and Wahpeton Tribes of Sioux Indians, in Indian Claims Commission dockets numbered 142, 359, 360, 361, 362, and 363, together with interest thereon, after payment of attorney fees and litigation expenses and the costs of carrying out the provisions of this part, shall be distributed as provided in this part.
+The funds appropriated by the Act of June 19, 1968 (82 Stat. 239), to pay compromise judgments to the Mdewakanton and Wahpakoota Tribe of Sioux Indians, and the Sisseton and Wahpeton Tribes of Sioux Indians, in Indian Claims Commission dockets numbered 142, 359, 360, 361, 362, and 363, together with interest thereon, after payment of attorney fees and litigation expenses and the costs of carrying out the provisions of this part, shall be distributed as provided in this part.
 
 (Pub. L. 92–555, §1, Oct. 25, 1972, 86 Stat. 1168.)
 

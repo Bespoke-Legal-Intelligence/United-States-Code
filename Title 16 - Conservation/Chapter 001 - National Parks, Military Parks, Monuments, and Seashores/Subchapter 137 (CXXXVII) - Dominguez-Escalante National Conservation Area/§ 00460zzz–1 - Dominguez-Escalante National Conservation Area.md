@@ -26,7 +26,7 @@ The purposes of the Conservation Area are to conserve and protect for the benefi
 
 &emsp;&emsp;(A) as a component of the National Landscape Conservation System;
 
-&emsp;&emsp;(B) in a manner that conserves, protects, and enhances the resources and values of the Conservation Area described in subsection (b); and
+&emsp;&emsp;(B) in a manner that conserves, protects, and enhances the resources and values of theConservation Area described in subsection (b); and
 
 &emsp;&emsp;(C) in accordance with—
 

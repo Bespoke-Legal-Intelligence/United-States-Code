@@ -26,9 +26,9 @@ Congress finds as follows:
 
 &emsp;(1) The publicly owned Piedras Blancas Light Station has nationally recognized historical structures that should be preserved for present and future generations.
 
-&emsp;(2) The coastline adjacent to the Light Station is internationally recognized as havingsignificant wildlife and marine habitat that provides critical information to research institutions throughout the world.
+&emsp;(2) The coastline adjacent to the Light Station is internationally recognized as having significant wildlife and marine habitat that provides critical information to research institutions throughout the world.
 
-&emsp;(3) The Light Station tells an important story about California's coastal prehistory and history in the context of the surrounding region and communities.
+&emsp;(3) The Light Station tells an important story about California's coastal prehistory andhistory in the context of the surrounding region and communities.
 
 &emsp;(4) The coastal area surrounding the Light Station was traditionally used by Indian people, including the Chumash and Salinan Indian tribes.
 
@@ -86,7 +86,7 @@ Congress finds as follows:
 
 &emsp;&emsp;(D) a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resources objectives for the Outstanding Natural Area as described in paragraph (1) and with other proposed management activities to accommodate visitors and researchers to the Outstanding Natural Area; and
 
-&emsp;&emsp;(E) cultural resources management strategies for the Outstanding Natural Area, prepared in consultation with appropriate departments of the State of California, with emphasis on the preservation of the resources of the Outstanding Natural Area and the interpretive, education, and long-term scientific uses of the resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Outstanding Natural Area.
+&emsp;&emsp;(E) cultural resources management strategies for the Outstanding Natural Area, prepared in consultation with appropriate departments of the State of California, withemphasis on the preservation of the resources of the Outstanding Natural Area and the interpretive, education, and long-term scientific uses of the resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and division A of subtitle III of title 54 within the Outstanding Natural Area.
 
 #### (4) Cooperative agreements
 
@@ -136,7 +136,7 @@ Congress finds as follows:
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 110–229, title II, §201, May 8, 2008, 122 Stat. 759.)
+(Pub. L. 110–229, title II, §201, May 8, 2008, 122 Stat. 759; Pub. L. 113–287, §5(l)(8), Dec. 19, 2014, 128 Stat. 3271.)
 
 #### References in Text
 
@@ -144,13 +144,15 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(3
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(E), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (d)(3)(E), is Pub. L. 89–665, Oct. 15, 1966, 80Stat. 915, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
-
-The American Indian Religious Freedom Act, referred to in subsec. (d)(10), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
+The American Indian Religious Freedom Act, referred to in subsec. (d)(10), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 #### Codification
 
 Section was enacted as part of the Consolidated Natural Resources Act of 2008, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (d)(3)(E). Pub. L. 113–287 substituted "division A of subtitle III of title 54" for "the National Historic Preservation Act (16 U.S.C. 470 et seq.)".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "1702(e))."</i>
 

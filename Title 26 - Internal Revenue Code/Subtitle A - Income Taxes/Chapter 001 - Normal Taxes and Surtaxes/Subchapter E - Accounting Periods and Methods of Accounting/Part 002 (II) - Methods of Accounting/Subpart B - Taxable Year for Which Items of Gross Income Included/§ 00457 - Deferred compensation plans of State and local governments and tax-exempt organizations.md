@@ -52,7 +52,7 @@ For purposes of this section, the term "eligible deferred compensation plan" mea
 
 &emsp;&emsp;(C) all income attributable to such amounts, property, or rights,
 
-> &emsp;shall remain (until made available to the participant or other beneficiary) solely the property and rights of the employer (without being restricted to the provision of benefits underthe plan), subject only to the claims of the employer's general creditors.
+> &emsp;shall remain (until made available to the participant or other beneficiary) solely the property and rights of the employer (without being restricted to the provision of benefits under the plan), subject only to the claims of the employer's general creditors.
 
 > A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) and which is administered in a manner which is inconsistent with the requirements of any of the preceding paragraphs shall be treated as not meeting the requirements of such paragraph as of the 1st plan year beginning more than 180 days after the date of notification by the Secretary of the inconsistency unless the employer corrects the inconsistency before the 1st day of such plan year.
 
@@ -228,41 +228,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The applicable dollar amount shall be the amount determined in accordance with the following table:
-
-<b> For taxable years</b>
-
-<b>The applicable</b>
-
-<b>  beginning in</b>
-
-<b>dollar amount:</b>
-
-<b>  calendar year:</b>
-
-<b> </b>
-
-&emsp;&emsp;2002
-
-$11,000&nbsp;&nbsp;
-
-&emsp;&emsp;2003
-
-$12,000&nbsp;&nbsp;
-
-&emsp;&emsp;2004
-
-$13,000&nbsp;&nbsp;
-
-&emsp;&emsp;2005
-
-$14,000&nbsp;&nbsp;
-
-&emsp;&emsp;2006 or thereafter
-
-$15,000.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;The applicable dollar amount is $15,000.
 
 #### (B) Cost-of-living adjustments
 
@@ -386,7 +352,7 @@ $15,000.
 
 #### (1) In general
 
-&emsp;A plan maintained by an eligible employer described in subsection (e)(1)(A) shall not be treated as an eligible deferred compensation plan unless all assets and income of the plan described in subsection (b)(6) are held in trust for the exclusive benefit of participants and their beneficiaries.
+&emsp;A plan maintained by an eligible employer described in subsection (e)(1)(A) shall not betreated as an eligible deferred compensation plan unless all assets and income of the plan described in subsection (b)(6) are held in trust for the exclusive benefit of participants and their beneficiaries.
 
 #### (2) Taxability of trusts and participants
 
@@ -404,13 +370,15 @@ $15,000.
 
 &emsp;A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).
 
-(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627.)
+(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627; Pub. L. 113–295, div. A, title II, §221(a)(57)(H), Dec. 19, 2014, 128 Stat. 4047.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(15)(A). Pub. L. 113–295 substituted "is $15,000." for "shall be the amount determined in accordance with the following table:" and struck out table at end listing applicable dollar amounts for taxable years beginning in 2002.
 
 <b>2008</b>—Subsec. (g)(4). Pub. L. 110–245 added par. (4).
 
@@ -456,7 +424,7 @@ Subsec. (e)(9). Pub. L. 107–16, §649(b)(2)(A), in heading substituted "Benefi
 
 Subsec. (e)(9)(A)(i). Pub. L. 107–16, §648(b), substituted "the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D))" for "such amount".
 
-Subsec. (e)(15). Pub. L. 107–16, §611(e)(2), amended heading and text of par. (15) generally. Prior to amendment, text read as follows: "The Secretary shall adjust the $7,500 amount specified in subsections (b)(2) and (c)(1) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter ending September 30, 1994, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500."
+Subsec. (e)(15). Pub. L. 107–16, §611(e)(2), amended heading and text of par. (15) generally. Prior to amendment, text read as follows: "The Secretary shall adjust the $7,500 amount specified in subsections (b)(2) and (c)(1) at the same time and in the same manner as under section 415(d), except that the base period shallbe the calendar quarter ending September 30, 1994, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500."
 
 Subsec. (e)(16). Pub. L. 107–16, §641(a)(1)(A), added par. (16).
 
@@ -520,7 +488,7 @@ In general.—This section shall not apply to nonelective deferred compensation 
 
 &emsp;"(B)
 
-Nonelective deferred compensation.—For purposes of subparagraph (a), deferred compensation shall be treated as nonelective only if all individuals\(other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan."
+Nonelective deferred compensation.—For purposes of subparagraph (a), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan."
 
 Subsec. (e)(9). Pub. L. 100–647, §1011(e)(9), inserted "after separation from service and" after "lump sum payable" in concluding provisions.
 
@@ -536,6 +504,10 @@ Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
 <b>1980</b>—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out "described in section 501(c)(12)" after "any organization" and substituted "electric service on a mutual or cooperative basis" for "electric service" and in cl. (ii) substituted "paragraph (4) or (6) of section 501(a)" for "section 501(c)(6)" and "at least 80 percent of the members" for "all the members".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilities occurring on or after Jan. 1, 2007, see section 104(d)(1) of Pub. L. 110–245, set out as a note under section 401 of this title.
@@ -550,7 +522,7 @@ Pub. L. 109–280, title XI, §1104(d), Aug. 17, 2006, 120 Stat. 1060, as amende
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and sections 623 and 1002 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].
+In general.—The amendments made by this section \[amending this section and sections 623 and 1002 ofTitle 29, Labor\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].
 
 "(2)
 
@@ -616,7 +588,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -658,7 +630,7 @@ Treatment of certain nonelective deferred compensation.—Section 457 of the 198
 
 &emsp;&emsp;&emsp;"(I) was in writing on such date, and
 
-&emsp;&emsp;&emsp;"(II) on such date provides for a deferral for each taxable year covered by the agreement of a fixed amount or of an amount determined pursuant to a fixed formula, and
+&emsp;&emsp;&emsp;"(II) on such date provides for a deferral for each taxable year covered by the agreement of afixed amount or of an amount determined pursuant to a fixed formula, and
 
 &emsp;&emsp;"(ii) the individual with respect to whom the deferral is made was covered under such agreement on such date.
 
@@ -722,7 +694,7 @@ Special rule for certain deferred compensation plans.—The amendments made by t
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -746,7 +718,7 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1100–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1100–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rules
 

@@ -22,9 +22,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
-<b>1968</b>—Pub. L. 90–623 inserted “, and the District of Columbia Council with respect to the government of the District of Columbia,” after “head of each agency” and substituted “its” for “his”.
+<b>1968</b>—Pub. L. 90–623 inserted ", and the District of Columbia Council with respect to the government of the District of Columbia," after "head of each agency" and substituted "its" for "his".
 
 #### Effective Date of 1978 Amendment
 

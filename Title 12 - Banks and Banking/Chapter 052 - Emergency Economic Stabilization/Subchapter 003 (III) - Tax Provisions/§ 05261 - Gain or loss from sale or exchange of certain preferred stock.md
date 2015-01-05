@@ -38,7 +38,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) a sale or exchange described in subsection (b)(2)(B), an entity shall be treated as an applicable financial institution only if it was an entity described in subparagraph (A) or (B) of paragraph (1) at the time of the sale or exchange, and
 
-&emsp;&emsp;(B) a sale or exchange after September 6, 2008, of preferred stock described in subsection (b)(2)(A), an entity shall be treated as an applicable financial institution only ifit was an entity described in subparagraph (A) or (B) of paragraph (1) at all times during the period beginning on September 6, 2008, and ending on the date of the sale or exchange of the preferred stock.
+&emsp;&emsp;(B) a sale or exchange after September 6, 2008, of preferred stock described in subsection (b)(2)(A), an entity shall be treated as an applicable financial institution only if it was an entity described in subparagraph (A) or (B) of paragraph (1) at all times during the period beginning on September 6, 2008, and ending on the date of the sale or exchange of the preferred stock.
 
 #### (d) Special rule for certain property not held on September 6, 2008
 

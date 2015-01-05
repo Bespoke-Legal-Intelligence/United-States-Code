@@ -8,7 +8,7 @@ The Congress makes the following findings:
 
 &emsp;(3) Senator Stennis has long maintained a special interest in and devotion to the development of leadership and excellence in public service.
 
-&emsp;(4) There is a compelling need to encourage outstanding young people to pursue public service on a career basis and to provide public service leadership training opportunities for individuals serving in State and local governments and for individuals serving as employees of Members of Congress.
+&emsp;(4) There is a compelling need to encourage outstanding young people to pursue publicservice on a career basis and to provide public service leadership training opportunities for individuals serving in State and local governments and for individuals serving as employees of Members of Congress.
 
 &emsp;(5) It would be a fitting tribute to Senator Stennis and to his leadership, integrity, and years of devoted public service to establish in his name a center for the training and development of leadership and excellence in public service.
 
@@ -16,5 +16,5 @@ The Congress makes the following findings:
 
 #### Short Title
 
-Pub. L. 100–458, title I, §111, Oct. 1, 1988, 102 Stat. 2172, provided that: “This subtitle \[subtitle B (§§111–121) of title I of Pub. L. 100–458, enacting this chapter\] may be cited as the ‘John C. Stennis Center for Public Service Training and Development Act’.”
+Pub. L. 100–458, title I, §111, Oct. 1, 1988, 102 Stat. 2172, provided that: "This subtitle \[subtitle B (§§111–121) of title I of Pub. L. 100–458, enacting this chapter\] may be cited as the 'John C. Stennis Center for Public Service Training and Development Act'."
 

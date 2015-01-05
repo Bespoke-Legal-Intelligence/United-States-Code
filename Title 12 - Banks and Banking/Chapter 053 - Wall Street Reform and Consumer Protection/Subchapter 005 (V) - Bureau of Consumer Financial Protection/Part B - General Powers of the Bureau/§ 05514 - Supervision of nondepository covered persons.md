@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the Bureau has reasonable cause to determine, by order, after notice to the covered person and a reasonable opportunity for such covered person to respond, based on complaints collected through the system under section 5493(b)(3) of this title or information from other sources, that such covered person is engaging, or has engaged, in conduct that poses risks to consumers with regard to the offering or provision of consumer financial products or services;
 
-&emsp;&emsp;(D) offers or provides to a consumer any private education loan, as defined in section 1650 of title 15, notwithstanding section 5517(a)(2)(A) of this title and subject to section 5517(a)(2)(C) of this title; or
+&emsp;&emsp;(D) offers or provides to a consumer any private education loan, as defined in section1650 of title 15, notwithstanding section 5517(a)(2)(A) of this title and subject to section 5517(a)(2)(C) of this title; or
 
 &emsp;&emsp;(E) offers or provides to a consumer a payday loan.
 
@@ -58,7 +58,7 @@
 
 #### (3) Coordination
 
-&emsp;To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators and the State bank regulatory authorities, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons.
+&emsp;To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons. The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority.
 
 #### (4) Use of existing reports
 
@@ -142,11 +142,15 @@ A service provider to a person described in subsection (a)(1) shall be subject t
 
 No provision of this title <sup>1</sup> may be construed as modifying, limiting, or otherwise affecting the authority of the Farm Credit Administration.
 
-(Pub. L. 111–203, title X, §1024, July 21, 2010, 124 Stat. 1987.)
+(Pub. L. 111–203, title X, §1024, July 21, 2010, 124 Stat. 1987; Pub. L. 113–173, §2, Sept. 26, 2014, 128 Stat. 1899.)
 
 #### References in Text
 
 This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b)(3). Pub. L. 113–173 substituted "regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services" for "regulators and the State bank regulatory authorities" and inserted at end "The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority."
 
 #### Effective Date
 

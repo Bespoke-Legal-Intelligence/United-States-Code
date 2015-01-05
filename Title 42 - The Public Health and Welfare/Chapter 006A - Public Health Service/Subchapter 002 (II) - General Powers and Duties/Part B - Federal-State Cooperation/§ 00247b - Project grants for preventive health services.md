@@ -18,7 +18,7 @@ No grant may be made under subsection (a) of this section unless an application 
 
 &emsp;(5) assurances satisfactory to the Secretary that the applicant will provide for periodic evaluation of its program or programs;
 
-&emsp;(6) assurances satisfactory to the Secretary that the applicant will make such reports (in such form and containing such information as the Secretary may by regulation prescribe) as the Secretary may reasonably require and keep such records and afford such access thereto as the Secretary may find necessary to assure the correctness of, and to verify, such reports;
+&emsp;(6) assurances satisfactory to the Secretary that the applicant will make such reports (insuch form and containing such information as the Secretary may by regulation prescribe) as the Secretary may reasonably require and keep such records and afford such access thereto as the Secretary may find necessary to assure the correctness of, and to verify, such reports;
 
 &emsp;(7) assurances satisfactory to the Secretary that the applicant will comply with any other conditions imposed by this section with respect to grants; and
 
@@ -46,7 +46,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 &emsp;(1) the fair market value of any supplies (including vaccines and other preventive agents) or equipment furnished the grant recipient, and
 
-&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee ofthe Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee,
+&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee,
 
 > when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
@@ -100,7 +100,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 (3) No grant may be made under this subsection unless an application therefor is submitted to the Secretary in such form, at such time, and containing such information as the Secretary may by regulation prescribe.
 
-(4) Subsections (d), (e), and (f) of this section shall apply to grants under this subsection inthe same manner as such subsections apply to grants under subsection (a) of this section.
+(4) Subsections (d), (e), and (f) of this section shall apply to grants under this subsection in the same manner as such subsections apply to grants under subsection (a) of this section.
 
 #### (l) Authority to purchase recommended vaccines for adults
 
@@ -168,7 +168,7 @@ Section 300m–3 of this title, referred to in subsec. (b)(3), was repealed by P
 
 Section 247 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 99–117, §12(b), Oct. 7, 1985, 99 Stat. 495.
 
-March 23, 2010, referred to in subsec. (m)(6), was in the original "the date of enactment of the Affordable Health Choices Act", and was translated as meaning the date of enactment of the Patient Protection andAffordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress. No act named the "Affordable Health Choices Act" has been enacted.
+March 23, 2010, referred to in subsec. (m)(6), was in the original "the date of enactment of the Affordable Health Choices Act", and was translated as meaning the date of enactment of the Patient Protection and Affordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress. No act named the "Affordable Health Choices Act" has been enacted.
 
 #### Amendments
 
@@ -276,7 +276,7 @@ Subsec. (i). Pub. L. 92–449 redesignated former subsec. (e) as (i), inserted r
 
 Subsec. (b). Pub. L. 91–464 substituted definitions of "communicable disease control program" and "State" for definition of "immunization program".
 
-Subsec. (c). Pub. L. 91–464 substituted reference to Secretary for reference to Surgeon General and struck out provisions relating to purchasing and furnishing of vaccines and requirement of obtaining assurances from recipients of grants.
+Subsec. (c). Pub. L. 91–464 substituted reference to Secretary for reference to Surgeon General and struckout provisions relating to purchasing and furnishing of vaccines and requirement of obtaining assurances from recipients of grants.
 
 Subsec. (d). Pub. L. 91–464 substituted reference to Secretary for reference to Surgeon General and struck out reference to Public Health Service.
 
@@ -300,7 +300,7 @@ Pub. L. 94–317, title II, §202(a), Nov. 10, 1978, 92 Stat. 3574, provided tha
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–63, title VI, §608, July 29, 1975, 89 Stat. 352, provided that: "Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enactingprovisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688l, 2688l–1, 2688n–1, 2688o, and 2688u of this title\]."
+Pub. L. 94–63, title VI, §608, July 29, 1975, 89 Stat. 352, provided that: "Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688l, 2688l–1, 2688n–1, 2688o, and 2688u of this title\]."
 
 #### Effective Date of 1972 Amendment
 

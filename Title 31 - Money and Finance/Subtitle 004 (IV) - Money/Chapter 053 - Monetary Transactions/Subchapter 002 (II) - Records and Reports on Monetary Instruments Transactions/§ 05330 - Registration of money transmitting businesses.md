@@ -18,7 +18,7 @@ Form and manner of registration.—Subject to the requirements of subsection (b)
 
 &emsp;(3)
 
-Businesses remain subject to state law.—This section shall not be construed as superseding any requirement of State law relating to money transmitting businesses operating in such State.
+Businesses remain subject to state law.—This section shall not be construed assuperseding any requirement of State law relating to money transmitting businesses operating in such State.
 
 &emsp;(4)
 

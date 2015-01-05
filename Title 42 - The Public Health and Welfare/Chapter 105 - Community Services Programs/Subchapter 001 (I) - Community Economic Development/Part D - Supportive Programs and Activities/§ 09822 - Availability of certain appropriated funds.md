@@ -32,7 +32,7 @@ In general.—Beginning on the date of the enactment of this Act \[Nov. 6, 1986\
 
 &emsp;"(2)
 
-Transfer of authority.—All authority to carry out the purposes of the Fund and to prescribe regulations in connection with the administration of the Fund which, on the day before the date of the enactment of this Act, was vested in the Secretary ofHealth and Human Services shall vest on such date in the Board. Except as provided in subsection (c), the Secretary shall have no further responsibility with respect to the Fund.
+Transfer of authority.—All authority to carry out the purposes of the Fund and to prescribe regulations in connection with the administration of the Fund which, on the day before the date of the enactment of this Act, was vested in the Secretary of Health and Human Services shall vest on such date in the Board. Except as provided in subsection (c), the Secretary shall have no further responsibility with respect to the Fund.
 
 "(b)
 

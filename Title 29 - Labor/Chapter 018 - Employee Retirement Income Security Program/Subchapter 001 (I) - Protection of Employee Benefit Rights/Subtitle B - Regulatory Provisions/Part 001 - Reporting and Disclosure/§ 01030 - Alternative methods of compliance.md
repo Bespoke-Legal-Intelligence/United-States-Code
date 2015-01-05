@@ -1,6 +1,6 @@
 ### §1030. Alternative methods of compliance
 
-(a) The Secretary on his own motion or after having received the petition of an administratormay prescribe an alternative method for satisfying any requirement of this part with respect to any pension plan, or class of pension plans, subject to such requirement if he determines—
+(a) The Secretary on his own motion or after having received the petition of an administrator may prescribe an alternative method for satisfying any requirement of this part with respect to any pension plan, or class of pension plans, subject to such requirement if he determines—
 
 &emsp;(1) that the use of such alternative method is consistent with the purposes of this subchapter and that it provides adequate disclosure to the participants and beneficiaries in the plan, and adequate reporting to the Secretary,
 

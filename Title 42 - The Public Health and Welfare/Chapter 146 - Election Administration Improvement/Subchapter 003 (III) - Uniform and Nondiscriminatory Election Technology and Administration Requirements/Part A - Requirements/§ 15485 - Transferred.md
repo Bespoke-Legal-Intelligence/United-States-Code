@@ -1,0 +1,6 @@
+### §15485. Transferred
+
+#### Codification
+
+Section 15485 was editorially reclassified as section 21085 of Title 52, Voting and Elections.
+

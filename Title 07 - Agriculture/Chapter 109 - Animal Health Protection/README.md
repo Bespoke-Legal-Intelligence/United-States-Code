@@ -10,6 +10,7 @@
 | [8306\.](%C2%A7%2008306%20-%20Seizure%2C%20quarantine%2C%20and%20disposal.md) | Seizure, quarantine, and disposal. |
 | [8307\.](%C2%A7%2008307%20-%20Inspections%2C%20seizures%2C%20and%20warrants.md) | Inspections, seizures, and warrants. |
 | [8308\.](%C2%A7%2008308%20-%20Detection%2C%20control%2C%20and%20eradication%20of%20diseases%20and%20pests.md) | Detection, control, and eradication of diseases and pests. |
+| [8308a.](%C2%A7%2008308a%20-%20National%20animal%20health%20laboratory%20network.md) | National animal health laboratory network. |
 | [8309\.](%C2%A7%2008309%20-%20Veterinary%20accreditation%20program.md) | Veterinary accreditation program. |
 | [8310\.](%C2%A7%2008310%20-%20Cooperation.md) | Cooperation. |
 | [8311\.](%C2%A7%2008311%20-%20Reimbursable%20agreements.md) | Reimbursable agreements. |
@@ -20,7 +21,7 @@
 | [8316\.](%C2%A7%2008316%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [8317\.](%C2%A7%2008317%20-%20Effect%20on%20regulations.md) | Effect on regulations. |
 | [8318\.](%C2%A7%2008318%20-%20Veterinary%20training.md) | Veterinary training. |
-| 8319\. | Surveillance of zoonotic diseases. |
+| [8319\.](%C2%A7%2008319%20-%20Surveillance%20of%20zoonotic%20diseases.md) | Surveillance of zoonotic diseases. |
 | [8320\.](%C2%A7%2008320%20-%20Expansion%20of%20Animal%20and%20Plant%20Health%20Inspection%20Service%20activities.md) | Expansion of Animal and Plant Health Inspection Service activities. |
 | [8321\.](%C2%A7%2008321%20-%20Pest%20and%20Disease%20Response%20Fund.md) | Pest and Disease Response Fund. |
 | [8322\.](%C2%A7%2008322%20-%20National%20aquatic%20animal%20health%20plan.md) | National aquatic animal health plan. |
@@ -40,6 +41,7 @@
 - [&sect; 08306 - Seizure, quarantine, and disposal](%C2%A7%2008306%20-%20Seizure%2C%20quarantine%2C%20and%20disposal.md)
 - [&sect; 08307 - Inspections, seizures, and warrants](%C2%A7%2008307%20-%20Inspections%2C%20seizures%2C%20and%20warrants.md)
 - [&sect; 08308 - Detection, control, and eradication of diseases and pests](%C2%A7%2008308%20-%20Detection%2C%20control%2C%20and%20eradication%20of%20diseases%20and%20pests.md)
+- [&sect; 08308a - National animal health laboratory network](%C2%A7%2008308a%20-%20National%20animal%20health%20laboratory%20network.md)
 - [&sect; 08309 - Veterinary accreditation program](%C2%A7%2008309%20-%20Veterinary%20accreditation%20program.md)
 - [&sect; 08310 - Cooperation](%C2%A7%2008310%20-%20Cooperation.md)
 - [&sect; 08311 - Reimbursable agreements](%C2%A7%2008311%20-%20Reimbursable%20agreements.md)

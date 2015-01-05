@@ -8,13 +8,13 @@
 
 &emsp;(3) proximately caused by the intoxication of the injured employee.
 
-(b) Disability or death from a war-risk hazard or during or as a result of capture, detention, or other restraint by a hostile force or individual, suffered by an employee who is employed outside the continental United States or in Alaska or in the areas and installations in the Republicof Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979), is deemed to have resulted from personal injury sustained while in the performance of his duty, whether or not the employee was engaged in the course of employment when the disability or disability resulting in death occurred or when he was taken by the hostile force or individual. This subsection does not apply to an individual—
+(b) Disability or death from a war-risk hazard or during or as a result of capture, detention, or other restraint by a hostile force or individual, suffered by an employee who is employed outside the continental United States or in Alaska or in the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979), is deemed to have resulted from personal injury sustained while in the performance of his duty, whether or not the employee was engaged in the course of employment when the disability or disability resulting in death occurred or when he was taken by the hostile force or individual. This subsection does not apply to an individual—
 
 &emsp;(1) whose residence is at or in the vicinity of the place of his employment and who was not living there solely because of the exigencies of his employment, unless he was injured or taken while engaged in the course of his employment; or
 
 &emsp;(2) who is a prisoner of war or a protected individual under the Geneva Conventions of 1949 and is detained or utilized by the United States.
 
-> This subsection does not affect the payment of compensation under this subchapter derived otherwise than under this subsection, but compensation for disability or death does not accrue for a period for which pay, other benefit, or gratuity from the United States accrues to the disabled individual or his dependents on account of detention by the enemy or because of the same disability or death, unless that pay, benefit, or gratuity is refunded or renounced.
+> This subsection does not affect the payment of compensation under this subchapter derivedotherwise than under this subsection, but compensation for disability or death does not accrue for a period for which pay, other benefit, or gratuity from the United States accrues to the disabled individual or his dependents on account of detention by the enemy or because of the same disability or death, unless that pay, benefit, or gratuity is refunded or renounced.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 534; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470.)
 
@@ -42,7 +42,7 @@ Section 3(a) of the Panama Canal Act of 1979, referred to in subsec. (b), is cla
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–70 substituted "areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)" for "Canal Zone".
 
 #### Effective Date of 1979 Amendment
 

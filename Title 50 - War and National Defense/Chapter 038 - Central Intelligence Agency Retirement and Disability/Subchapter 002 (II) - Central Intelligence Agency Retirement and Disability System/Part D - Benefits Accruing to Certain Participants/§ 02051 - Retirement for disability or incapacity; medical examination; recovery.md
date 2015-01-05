@@ -94,7 +94,7 @@
 
 #### (3) Greater benefit
 
-&emsp;Paragraphs (1) and (2) do not bar the right of a claimant to the greater benefit conferred byeither this subchapter or subchapter I of chapter 81 of title 5.
+&emsp;Paragraphs (1) and (2) do not bar the right of a claimant to the greater benefit conferred by either this subchapter or subchapter I of chapter 81 of title 5.
 
 #### (f) Offset from survivor annuity for workers' compensation payment
 

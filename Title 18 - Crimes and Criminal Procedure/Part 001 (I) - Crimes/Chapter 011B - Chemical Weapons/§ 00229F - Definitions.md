@@ -6,7 +6,7 @@ In this chapter:
 
 Chemical weapon.—The term "chemical weapon" means the following, together or separately:
 
-&emsp;&emsp;(A) A toxic chemical and its precursors, except where intended for a purpose not prohibited under this chapter as long as the type and quantity is consistent with such a purpose.
+&emsp;&emsp;(A) A toxic chemical and its precursors, except where intended for a purpose not prohibited under this chapter as long as thetype and quantity is consistent with such a purpose.
 
 &emsp;&emsp;(B) A munition or device, specifically designed to cause death or other harm through toxic properties of those toxic chemicals specified in subparagraph (A), which would be released as a result of the employment of such munition or device.
 

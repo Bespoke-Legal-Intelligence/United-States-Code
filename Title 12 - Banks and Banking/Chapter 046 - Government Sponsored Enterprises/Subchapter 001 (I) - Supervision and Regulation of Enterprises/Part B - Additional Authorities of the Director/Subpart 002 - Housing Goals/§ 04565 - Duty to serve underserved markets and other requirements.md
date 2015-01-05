@@ -38,7 +38,7 @@
 
 #### (b) In general
 
-To meet the housing goals established under this subpart and to carry out the duty undersubsection (a) of this section, each enterprise shall—
+To meet the housing goals established under this subpart and to carry out the duty under subsection (a) of this section, each enterprise shall—
 
 &emsp;(1) design programs and products that facilitate the use of assistance provided by the Federal Government and State and local governments;
 

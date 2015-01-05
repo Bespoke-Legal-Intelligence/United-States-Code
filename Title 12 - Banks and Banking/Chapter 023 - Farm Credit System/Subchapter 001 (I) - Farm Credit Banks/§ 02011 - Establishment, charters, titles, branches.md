@@ -42,7 +42,7 @@ Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided that 
 
 #### Long-Term Lending Authority of Farm Credit Bank of Texas With Respect to States of Alabama, Louisiana, and Mississippi
 
-Pub. L. 102–552, title IV, §401(b), Oct. 28, 1992, 106 Stat. 4128, as amended by Pub. L. 110–234, title V, §5407(c)(3), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, §4(a), title V, §5407(c)(3), June 18, 2008, 122 Stat. 1664, 1922, provided that:
+Pub. L. 102–552, title IV, §401(b), Oct. 28, 1992, 106 Stat. 4128, as amended by Pub. L. 110–234, title V, §5407(c)(3), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, §4(a), titleV, §5407(c)(3), June 18, 2008, 122 Stat. 1664, 1922, provided that:
 
 "(1)
 
@@ -58,7 +58,7 @@ Pub. L. 100–233, title IV, §410, Jan. 6, 1988, 101 Stat. 1637, as amended by 
 
 "(a)
 
-In General.—Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], the Federal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors ofsuch banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII \[enacting sections 2279aa to 2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7\].
+In General.—Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], the Federal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors of such banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII \[enacting sections 2279aa to 2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7\].
 
 "(b)
 
@@ -126,7 +126,7 @@ Limitation on authority to merge.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank's charter, immediately on the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shallrevoke the Bank's charter, immediately on the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
@@ -142,7 +142,7 @@ Extension.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Letter of intent.—If no later than June 30, 1993, the Federal Intermediate Credit Bank of Jackson delivers to the Farm Credit Administration a letter of intent to merge with a Farm Credit Bank, summarizing the terms and conditions ofthe merger (including, but not limited to, board composition, capital structure, exchange, or transfer of equities, and termination) signed by the chief executive officer and the members of the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration shall, on its determination that the letter of intent represents a bona fide good faith agreement in principle between the two banks to merge, and that there is at least a reasonable prospect that the merger will be completed in an expeditious manner, grant a one-time extension, until a date certain not later than October 31, 1993, of the requirement under subparagraph (A). Any extension provided under this subparagraph may be conditioned on such terms and conditions as the Farm Credit Administration determines necessary to ensure that the merger described in the letter of intent is completed by the closing date of the extension.
+Letter of intent.—If no later than June 30, 1993, the Federal Intermediate Credit Bank of Jackson delivers to the Farm Credit Administration a letter of intent to merge with a Farm Credit Bank, summarizing the terms and conditions of the merger (including, but not limited to, board composition, capital structure, exchange, or transfer of equities, and termination) signed by the chief executive officer and the members of the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration shall, on its determination that the letter of intent represents a bona fide good faith agreement in principle between the two banks to merge, and that there is at least a reasonable prospect that the merger will be completed in an expeditious manner, grant a one-time extension, until a date certain not later than October 31, 1993, of the requirement under subparagraph (A). Any extension provided under this subparagraph may be conditioned on such terms and conditions as the Farm Credit Administration determines necessary to ensure that the merger described in the letter of intent is completed by the closing date of the extension.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -250,7 +250,7 @@ Referendum on association structure.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Not later than 170 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the American Arbitration Association shall conduct, and compile and forward to the Farm Credit Administration the results of, a vote of current farmer-borrowers of the production credit associations and the Federal land bank associations in the States of Alabama, Louisiana, and Mississippi, in accordance with the Election Rules of the American Arbitration Association, to determine whether the farmer-borrowers of each association in the geographic areas described in clause (iii) prefer to have credit delivered—
+In general.—Not later than 170 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the American Arbitration Association shall conduct, and compile and forward to the Farm Credit Administration the results of, a vote of current farmer-borrowers of the production credit associations and the Federal land bank associations in theStates of Alabama, Louisiana, and Mississippi, in accordance with the Election Rules of the American Arbitration Association, to determine whether the farmer-borrowers of each association in the geographic areas described in clause (iii) prefer to have credit delivered—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) in the case of production credit association farmer-borrowers, through a production credit association or through an agricultural credit association as proposed in the plan; and
 
@@ -260,7 +260,7 @@ In general.—Not later than 170 days after the issuance of an order by the Farm
 
 &emsp;&emsp;&emsp;"(ii)
 
-Disclosure.—The arbitrator shall send to farmer-borrowers eligible to vote under this subparagraph, with their ballot, a statement describing the potential consequences to the farmer-borrowers, and to the associations from which they borrow, of voting to charter an agricultural credit association and setting forth factors that farmer-borrowers should consider relevant to the choice between credit delivery through the current association structure and the chartering ofan agricultural credit association. The arbitrator shall develop the disclosure materials in cooperation with the Farm Credit Administration and ensure that the materials are not inconsistent with applicable laws and regulations.
+Disclosure.—The arbitrator shall send to farmer-borrowers eligible to vote under this subparagraph, with their ballot, a statement describing the potential consequences to the farmer-borrowers, and to the associations from which they borrow, of voting to charter an agricultural credit association and setting forth factors that farmer-borrowers should consider relevant to the choice between credit delivery through the current association structure and the chartering of an agricultural credit association. The arbitrator shall develop the disclosure materials in cooperation with the Farm Credit Administration and ensure that the materials are not inconsistent with applicable laws and regulations.
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -326,7 +326,7 @@ Arbitrated merger.—If at any time after the Farm Credit Administration issues 
 
 &emsp;&emsp;"(J)
 
-Merger plan for agricultural credit associations.—In any of the States of Alabama, Louisiana, or Mississippi where all of the associations are chartered as agricultural credit associations, the boards of directors of each such association ineach State are encouraged to submit to the farmer-borrowers of each such association for their approval a plan for merging the associations into one statewide agricultural credit association, in accordance with the applicable provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.).
+Merger plan for agricultural credit associations.—In any of the States of Alabama, Louisiana, or Mississippi where all of the associations are chartered as agricultural credit associations, the boards of directors of each such association in each State are encouraged to submit to the farmer-borrowers of each such association for their approval a plan for merging the associations into one statewide agricultural credit association, in accordance with the applicable provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.).
 
 &emsp;&emsp;"(K)
 

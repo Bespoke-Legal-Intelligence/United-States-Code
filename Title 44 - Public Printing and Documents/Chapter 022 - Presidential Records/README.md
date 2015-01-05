@@ -14,8 +14,14 @@
 | :--- | ---: |
 | [2206\.](%C2%A7%2002206%20-%20Regulations.md) | Regulations. |
 | [2207\.](%C2%A7%2002207%20-%20Vice-Presidential%20records.md) | Vice-Presidential records. |
+| [2208\.](%C2%A7%2002208%20-%20Claims%20of%20constitutionally%20based%20privilege%20against%20disclosure.md) | Claims of constitutionally based privilege against disclosure. |
+| [2209\.](%C2%A7%2002209%20-%20Disclosure%20requirement%20for%20official%20business%20conducted%20using%20non-official%20electronic%20messaging%20accounts.md) | Disclosure requirement for official business conducted using non-official electronic messaging accounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2014</b>—Pub. L. 113–187, §2(a)(3), (e)(2), Nov. 26, 2014, 128 Stat. 2005, 2007, added items 2208 and 2209.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
@@ -31,3 +37,5 @@
 - [&sect; 02205 - Exceptions to restricted access](%C2%A7%2002205%20-%20Exceptions%20to%20restricted%20access.md)
 - [&sect; 02206 - Regulations](%C2%A7%2002206%20-%20Regulations.md)
 - [&sect; 02207 - Vice-Presidential records](%C2%A7%2002207%20-%20Vice-Presidential%20records.md)
+- [&sect; 02208 - Claims of constitutionally based privilege against disclosure](%C2%A7%2002208%20-%20Claims%20of%20constitutionally%20based%20privilege%20against%20disclosure.md)
+- [&sect; 02209 - Disclosure requirement for official business conducted using non-official electronic messaging accounts](%C2%A7%2002209%20-%20Disclosure%20requirement%20for%20official%20business%20conducted%20using%20non-official%20electronic%20messaging%20accounts.md)

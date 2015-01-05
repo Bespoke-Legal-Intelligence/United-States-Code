@@ -88,9 +88,107 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
+#### Pilot Program on Assignment to Defense Advanced Research Projects Agency of Private Sector Personnel With Critical Research and Development Expertise
+
+Pub. L. 113–291, div. A, title II, §232, Dec. 19, 2014, 128 Stat. 3332, provided that:
+
+"(a)
+
+Pilot Program Authorized.—In accordance with the provisions of this section, the Director of the Defense Advanced Research Projects Agency may carry out a pilot program to assess the feasibility and advisability of temporarily assigning covered individuals with significant technical expertise in research and development areas of critical importance to defense missions to the Defense Advanced Research Projects Agency to lead research or development projects of the Agency.
+
+"(b)
+
+Assignment of Covered Individuals.—
+
+&emsp;"(1)
+
+Number of individuals assigned.—Under the pilot program, the Director may assign covered individuals to the Agency as described in subsection (a), but may not have more than five covered individuals so assigned at any given time.
+
+&emsp;"(2)
+
+Period of assignment.—
+
+&emsp;&emsp;"(A) Except as provided in subparagraph (B), the Director may, under the pilot program, assign a covered individual described in subsection (a) to lead research and development projects of the Agency for a period of not more than two years.
+
+&emsp;&emsp;"(B) The Director may extend the assignment of a covered individual for one additional period of not more than two years as the Director considers appropriate.
+
+&emsp;"(3)
+
+Application of certain provisions of law.—
+
+&emsp;&emsp;"(A) Except as otherwise provided in this section, the Director shall carry out the pilot program in accordance with the provisions of subchapter VI of chapter 33 of title 5, United States Code, except that, for purposes of the pilot program, the term 'other organization', as used in such subchapter, shall be deemed to include a covered entity.
+
+&emsp;&emsp;"(B) A covered individual employed by a covered entity who is assigned to the Agency under the pilot program is deemed to be an employee of the Department of Defense for purposes of the following provisions of law:
+
+&emsp;&emsp;&emsp;"(i) Chapter 73 of title 5, United States Code.
+
+&emsp;&emsp;&emsp;"(ii) Sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, United States Code.
+
+&emsp;&emsp;&emsp;"(iii) Sections 1343, 1344, and 1349(b) of title 31, United States Code.
+
+&emsp;&emsp;&emsp;"(iv) Chapter 171 of title 28, United States Code (commonly known as the 'Federal Tort Claims Act'), and any other Federal tort liability statute.
+
+&emsp;&emsp;&emsp;"(v) The Ethics in Government Act of 1978 (5 U.S.C. App.).
+
+&emsp;&emsp;&emsp;"(vi) Section 1043 of the Internal Revenue Code of 1986 \[26 U.S.C. 1043\].
+
+&emsp;&emsp;&emsp;"(vii) Chapter 21 of title 41, United States Code.
+
+&emsp;"(4)
+
+Pay and supervision.—A covered individual employed by a covered entity who is assigned to the Agency under the pilot program—
+
+&emsp;&emsp;"(A) may continue to receive pay and benefits from such covered entity with or without reimbursement by the Agency;
+
+&emsp;&emsp;"(B) is not entitled to pay from the Agency; and
+
+&emsp;&emsp;"(C) shall be subject to supervision by the Director in all duties performed for the Agency under the pilot program.
+
+"(c)
+
+Conflicts of Interest.—
+
+&emsp;"(1)
+
+Practices and procedures required.—The Director shall develop practices and procedures to manage conflicts of interest and the appearance of conflicts of interest that could arise through assignments under the pilot program.
+
+&emsp;"(2)
+
+Elements.—The practices and procedures required by paragraph (1) shall include, at a minimum, the requirement that each covered individual assigned to the Agency under the pilot program shall sign an agreement that provides for the following:
+
+&emsp;&emsp;"(A) The nondisclosure of any trade secrets or other nonpublic or proprietary information which is of commercial value to the covered entity from which such covered individual is assigned.
+
+&emsp;&emsp;"(B) The assignment of rights to intellectual property developed in the course of any research or development project under the pilot program—
+
+&emsp;&emsp;&emsp;"(i) to the Agency and its contracting partners in accordance with applicable provisions of law regarding intellectual property rights; and
+
+&emsp;&emsp;&emsp;"(ii) not to the covered individual or the covered entity from which such covered individual is assigned.
+
+&emsp;&emsp;"(C) Such additional measures as the Director considers necessary to carry out the program in accordance with Federal law.
+
+"(d)
+
+Prohibition on Charges by Covered Entities.—A covered entity may not charge the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the covered entity to a covered individual assigned to the Agency under the pilot program.
+
+"(e)
+
+Annual Report.—Not later than the first October 31 after the first fiscal year in which the Director carries out the pilot program and each October 31 thereafter that immediately follows a fiscal year in which the Director carries out the pilot program, the Director shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the activities carried out under the pilot program during the most recently completed fiscal year.
+
+"(f)
+
+Termination of Authority.—The authority provided in this section shall expire on September 30, 2025, except that any covered individual assigned to the Agency under the pilot program shall continue in such assignment until the terms of such assignment have been satisfied.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered individual' means any individual who is employed by a covered entity.
+
+&emsp;"(2) The term 'covered entity' means any non-Federal, nongovernmental entity that, as of the date on which a covered individual employed by the entity is assigned to the Agency under the pilot program, is a nontraditional defense contractor (as defined in section 2302 of title 10, United States Code)."
+
 #### Temporary Authorities for Certain Positions at Department of Defense Research and Engineering Facilities
 
-Pub. L. 113–66, div. A, title XI, §1107, Dec. 26, 2013, 127 Stat. 887, provided that:
+Pub. L. 113–66, div. A, title XI, §1107, Dec. 26, 2013, 127 Stat. 887, as amended by Pub. L. 113–291, div. A, title XI, §1105, Dec. 19, 2014, 128 Stat. 3526, provided that:
 
 "(a)
 
@@ -103,6 +201,10 @@ Candidates for scientific and engineering positions at science and technology re
 &emsp;"(2)
 
 Veteran candidates for similar positions at research and engineering facilities.—The director of any STRL may appoint qualified veteran candidates to positions described in paragraph (2) of subsection (b) as an employee at a laboratory, agency, or organization specified in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
+
+&emsp;"(3)
+
+Students enrolled in scientific and engineering programs.—The director of any STRL may appoint qualified candidates enrolled in a program of undergraduate or graduate instruction leading to a bachelor's or an advanced degree in a scientific, technical, engineering or mathematical course of study at an institution of higher education (as that term is defined in section \[sic\] 101 and 102 of the Higher Education Act of 1965 (20 U.S.C. 1001\[, 1002\])) to positions described in paragraph (3) of subsection (b) as an employee in a laboratory described in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303 and 3328 of such title).
 
 "(b)
 
@@ -120,6 +222,10 @@ Qualified veteran candidates.—The positions described in this paragraph are sc
 
 &emsp;&emsp;"(B) Any other Department of Defense research and engineering agency or organization designated by the Secretary for purposes of subsection (a)(2).
 
+&emsp;"(3)
+
+Candidates enrolled in scientific and engineering programs.—The positions described in this paragraph are scientific and engineering positions that may be temporary or term in any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
+
 "(c)
 
 Limitation on Number of Appointments Allowable in a Calendar Year.—The authority under subsection (a) may not, in any calendar year and with respect to any laboratory, agency, or organization described in subsection (b), be exercised with respect to a number of candidates greater than the following:
@@ -127,6 +233,8 @@ Limitation on Number of Appointments Allowable in a Calendar Year.—The authori
 &emsp;"(1) In the case of a laboratory described in subsection (b)(1), with respect to appointment authority under subsection (a)(1), the number equal to 3 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 &emsp;"(2) In the case of a laboratory, agency, or organization described in subsection (b)(2), with respect to appointment authority under subsection (a)(2), the number equal to 1 percent of the total number of scientific, technical, engineering, mathematics, and technician positions in such laboratory, agency, or organization that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+
+&emsp;"(3) In the case of a laboratory described in subsection (b)(3), with respect to appointment authority under subsection (a)(3), the number equal to 3 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 "(d)
 
@@ -192,7 +300,7 @@ Pub. L. 112–239, div. A, title II, §252, Jan. 2, 2013, 126 Stat. 1688, provid
 
 "(a)
 
-Development of Innovative Advanced Technologies.—The Secretary of Defense may use the research and engineering network of the Department of Defense, including the organic industrial base, to support regional advanced technology clusters establishedby the Secretary of Commerce to encourage the development of innovative advanced technologies to address national security and homeland defense challenges.
+Development of Innovative Advanced Technologies.—The Secretary of Defense may use the research and engineering network of the Department of Defense, including the organic industrial base, to support regional advanced technology clusters established by the Secretary of Commerce to encourage the development of innovative advanced technologies to address national security and homeland defense challenges.
 
 "(b)
 
@@ -340,7 +448,7 @@ Coordination With Other Federal Agencies.—The program authorized by subsection
 
 #### Pilot Program To Include Technology Protection Features During Research and Development of Defense Systems
 
-Pub. L. 111–383, div. A, title II, §243, Jan. 7, 2011, 124 Stat. 4178, as amended by Pub. L. 112–81, div. A, title II, §252, Dec. 31, 2011, 125 Stat. 1347; Pub. L. 113–66, div. A, title II, §264, Dec. 26, 2013, 127 Stat. 726, provided that:
+Pub. L. 111–383, div. A, title II, §243, Jan. 7, 2011, 124 Stat. 4178, as amended by Pub. L. 112–81, div. A, title II, §252, Dec. 31, 2011, 125 Stat. 1347; Pub. L. 113–66, div. A, title II, §264, Dec. 26, 2013, 127 Stat. 726; Pub. L. 113–291, div. A, title II, §231, Dec. 19, 2014, 128 Stat. 3332, provided that:
 
 "(a)
 
@@ -354,7 +462,7 @@ Cost-sharing.—Any contract for the design or development of a system resulting
 
 &emsp;"(2) for the design and incorporation of exportability features into the system,
 
-> shall include a cost-sharing provision that requires the contractor to bear at least one-half of the cost of such activities.
+> shall include a cost-sharing provision that requires the contractor to bear half of the cost of such activities, or such other portion of such cost as the Secretary considers appropriate upon showing of good cause.
 
 "(c)
 
@@ -436,7 +544,7 @@ In general.—The Secretary of Defense, in consultation with the Secretaries of 
 
 &emsp;"(2)
 
-Consultation required.—The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
+Consultation required.—The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultationwith the science and technology executive of the military department concerned.
 
 "(b)
 
@@ -692,7 +800,7 @@ Report.—(1) The Secretary shall submit to the congressional defense committees
 
 #### Research and Development of Defense Biomedical Countermeasures
 
-Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, as amended by Pub. L. 112–81, div. A, title X, §1062(g)(3), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, as amended by Pub. L. 112–81, div. A, title X, §1062(g)(3), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(B), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 "(a)
 
@@ -708,7 +816,7 @@ Interagency Cooperation.—(1) In carrying out the program under subsection (a),
 
 Expedited Procurement Authority.—(1) For any procurement of property or services for use (as determined by the Secretary) in performing, administering, or supporting biomedical countermeasures research and development, the Secretary may, when appropriate, use streamlined acquisition procedures and other expedited procurement procedures authorized in—
 
-&emsp;"(A) section 32A of the Office of Federal Procurement Policy Act, as added by section 1443 of this Act \[now 41 U.S.C. 1903\]; and
+&emsp;"(A) section 1903 of title 41, United States Code; and
 
 &emsp;"(B) section 2371 of title 10, United States Code, and section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
@@ -716,7 +824,7 @@ Expedited Procurement Authority.—(1) For any procurement of property or servic
 
 &emsp;"(A) Chapter 37 of title 40, United States Code (relating to contract work hours and safety standards).
 
-&emsp;"(B) Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (\[former\] 41 U.S.C. 57(a) and (b)) \[now 41 U.S.C. 8703(a)\].
+&emsp;"(B) Section 8703(a) of title 41, United States Code.
 
 &emsp;"(C) Section 2313 of title 10, United States Code (relating to the examination of contractor records).
 
@@ -848,7 +956,7 @@ Purposes.—The purposes of the program are as follows:
 
 "(c)
 
-Administration.—In carrying out the program, the Secretary shall act through the Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall supervise the planning, management, and coordination of the program. The Under Secretary, in consultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
+Administration.—In carrying out the program, the Secretary shall act through the Under Secretary of Defense for Acquisition, Technology, and Logistics,who shall supervise the planning, management, and coordination of the program. The Under Secretary, in consultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
 
 &emsp;"(1) prescribe a set of long-term challenges and a set of specific technical goals for the program;
 
@@ -936,7 +1044,7 @@ Relationship to Fiscal Years 1999
 
 and 2000
 
-Revitalization Pilot Programs.—The pilot programunder this section is in addition to, but may be carried out in conjunction with, the fiscal years 1999 and 2000 revitalization pilot programs.
+Revitalization Pilot Programs.—The pilot program under this section is in addition to, but may be carried out in conjunction with, the fiscal years 1999 and 2000 revitalization pilot programs.
 
 "(c)
 
@@ -1030,9 +1138,9 @@ Program Activities.—In order to achieve the program objectives, the following 
 
 Eligible States.—(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate which States are eligible States for the purposes of this section.
 
-"(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate a State as aneligible State if, as determined by the Under Secretary—
+"(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate a State as an eligible State if, as determined by the Under Secretary—
 
-&emsp;"(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
+&emsp;"(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for whichthe designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
 
 &emsp;"(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State.
 
@@ -1050,7 +1158,7 @@ State Defined.—In this section, the term 'State' means a State of the United S
 
 #### Defense Laboratories Personnel Demonstration Projects
 
-Pub. L. 111–84, div. A, title XI, §1105, Oct. 28, 2009, 123 Stat. 2486, provided that:
+Pub. L. 111–84, div. A, title XI, §1105, Oct. 28, 2009, 123 Stat. 2486, as amended by Pub. L. 113–291, div. A, title XI, §1103, Dec. 19, 2014, 128 Stat. 3525, provided that:
 
 "(a)
 
@@ -1089,6 +1197,10 @@ Designation of Laboratories.—Each of the following is hereby designated as a D
 &emsp;"(16) The Space and Naval Warfare Systems Center, Atlantic.
 
 &emsp;"(17) The laboratories within the Army Research Development and Engineering Command.
+
+&emsp;"(18) The Army Research Institute for the Behavioral and Social Sciences.
+
+&emsp;"(19) The Space and Missile Defense Command Technical Center.
 
 "(b)
 

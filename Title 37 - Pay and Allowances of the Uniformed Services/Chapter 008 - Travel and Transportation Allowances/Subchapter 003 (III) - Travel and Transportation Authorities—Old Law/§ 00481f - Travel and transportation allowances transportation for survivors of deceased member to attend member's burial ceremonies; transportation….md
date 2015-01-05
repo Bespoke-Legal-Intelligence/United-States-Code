@@ -14,7 +14,7 @@ Allowances Authorized.—(1) The Secretary concerned may provide round trip trav
 
 (b)
 
-Limitation on Amount.—Allowances for travel under subsection (a) may not exceed the rates for two days and the time necessary for such travel.
+Limitation on Amount.—Allowances for travel under subsection (a) may not exceed therates for two days and the time necessary for such travel.
 
 (c)
 
@@ -36,7 +36,7 @@ Eligible Relatives.—(1) The following members of the family of a deceased memb
 
 Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—(1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family members may attend the burial ceremony of the deceased member.
 
-(2) The allowances under paragraph (1) shall include round trip transportation from theplaces of residence of such family members to the burial ceremony and such living expenses and other allowances as the Secretary of Defense considers appropriate.
+(2) The allowances under paragraph (1) shall include round trip transportation from the places of residence of such family members to the burial ceremony and such living expenses and other allowances as the Secretary of Defense considers appropriate.
 
 (3) For purposes of paragraph (1), eligible family members of the deceased member of the armed forces include the following:
 
@@ -86,7 +86,7 @@ Regulations.—The Secretaries concerned shall prescribe uniform regulations to 
 
 Termination.—No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463.)
+(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463.)
 
 #### Amendments
 

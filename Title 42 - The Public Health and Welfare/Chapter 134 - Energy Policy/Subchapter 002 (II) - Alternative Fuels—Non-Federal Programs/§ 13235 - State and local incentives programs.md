@@ -10,7 +10,7 @@
 
 &emsp;(B) a detailed description of the requirements, including the estimated cost of implementation, of such plan.
 
-(3) Each proposed State plan, in order to be eligible for Federal assistance under this section, shall describe the manner in which coordination shall be achieved with Federal and local governmental entities in implementing such plan, and shall include an examination of—
+(3) Each proposed State plan, in order to be eligible for Federal assistance under this section,shall describe the manner in which coordination shall be achieved with Federal and local governmental entities in implementing such plan, and shall include an examination of—
 
 &emsp;(A) exemption from State sales tax or other State or local taxes or surcharges (other than such taxes or surcharges which are dedicated for transportation purposes) with respect to alternative fueled vehicles, alternative fuels, or alternative fueling facilities;
 

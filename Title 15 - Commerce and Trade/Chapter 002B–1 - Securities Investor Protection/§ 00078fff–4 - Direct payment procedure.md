@@ -28,11 +28,11 @@ SIPC shall promptly satisfy all obligations of the member to each of its custome
 
 #### (d) Effect on claims
 
-Except as otherwise provided in this section, nothing in this section shall limit the right of any person, including any subrogee, to establish by formal proof or otherwise such claims as such person may have against the member, including claims for the payment of money and the delivery of specific securities, without resort to moneys of SIPC.
+Except as otherwise provided in this section, nothing in this section shall limit the right ofany person, including any subrogee, to establish by formal proof or otherwise such claims as such person may have against the member, including claims for the payment of money and the delivery of specific securities, without resort to moneys of SIPC.
 
 #### (e) Jurisdiction of Bankruptcy Courts
 
-After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) of this section may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shall have original and exclusive jurisdiction of any civil action for the adjudication of such claim, without regard to the citizenship of the parties or the amount in controversy. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of therights of a customer under subsection (c) of this section shall not prejudice any other right or remedy of the customer against the member.
+After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) of this section may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shall have original and exclusive jurisdiction of any civil action for the adjudication of such claim, without regard to the citizenship of the parties or the amount in controversy. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of the rights of a customer under subsection (c) of this section shall not prejudice any other right or remedy of the customer against the member.
 
 #### (f) Discontinuance of direct payment procedures
 

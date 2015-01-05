@@ -2,7 +2,7 @@
 
 #### (a) Imposition of penalty
 
-If a taxpayer has a reportable transaction understatement for any taxable year, there shallbe added to the tax an amount equal to 20 percent of the amount of such understatement.
+If a taxpayer has a reportable transaction understatement for any taxable year, there shall be added to the tax an amount equal to 20 percent of the amount of such understatement.
 
 #### (b) Reportable transaction understatement
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (c) Higher penalty for nondisclosed listed and other avoidance transactions
 
-Subsection (a) shall be applied by substituting "30 percent" for "20 percent" with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A) <sup>1</sup> is not met.
+Subsection (a) shall be applied by substituting "30 percent" for "20 percent" with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(3)(A) is not met.
 
 #### (d) Definitions of reportable and listed transactions
 
@@ -62,17 +62,15 @@ For purposes of this section, the terms "reportable transaction" and "listed tra
 
 &emsp;Except as provided in regulations, in no event shall any tax treatment included with an amendment or supplement to a return of tax be taken into account in determining the amount of any reportable transaction understatement if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
-(Added Pub. L. 108–357, title VIII, §812(a), Oct. 22, 2004, 118 Stat. 1577; amended Pub. L. 109–135, title IV, §403(x)(2), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 111–152, title I, §1409(b)(3), Mar. 30, 2010, 124 Stat. 1069.)
-
-#### References in Text
-
-Section 6664(d)(2)(A), referred to in subsec. (c), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
+(Added Pub. L. 108–357, title VIII, §812(a), Oct. 22, 2004, 118 Stat. 1577; amended Pub. L. 109–135, title IV, §403(x)(2), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 111–152, title I, §1409(b)(3), Mar. 30, 2010, 124 Stat. 1069; Pub. L. 113–295, div. A, title II, §220(w), Dec. 19, 2014, 128 Stat. 4036.)
 
 #### Codification
 
 Section 1409(b)(3) of Pub. L. 111–152, which directed the amendment of section 6662A without specifying the act to be amended, was executed to this section, which is section 6662A of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–295 substituted "section 6664(d)(3)(A)" for "section 6664(d)(2)(A)".
 
 <b>2010</b>—Subsec. (e)(2)(B). Pub. L. 111–152 substituted "certain increased underpayment penalties" for "gross valuation misstatement penalty" in heading and "subsections (h) or (i) of section 6662" for "section 6662(h)" in text. See Codification note above.
 
@@ -139,6 +137,4 @@ Additional Information.—The report required under subsection (a) shall also in
 "(c)
 
 Date of Report.—The first report required under subsection (a) shall be submitted not later than December 31, 2010."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

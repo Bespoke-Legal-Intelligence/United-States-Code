@@ -72,7 +72,7 @@
 
 > and the master of any such vessel engaged in such fishery, shall be deemed to have violated this subchapter, and for violations of clauses (i) and (ii) shall be subject to the penalties of this subchapter, and for violations of clause (iii) shall be subject to a fine of not more than $100 for each offense.
 
-(D) If the owner of a vessel has obtained and maintains a current and valid authorization from the Secretary under this section and meets the requirements set forth in this section, including compliance with any regulations to implement a take reduction plan under this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marinemammals while such vessel is engaged in a fishery to which the authorization applies.
+(D) If the owner of a vessel has obtained and maintains a current and valid authorization from the Secretary under this section and meets the requirements set forth in this section, including compliance with any regulations to implement a take reduction plan under this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the authorization applies.
 
 (E) Each owner of a vessel engaged in any fishery not listed under paragraph (1)(A)(i) or (ii), and the master and crew members of such a vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals if such owner reports to the Secretary, in the form and manner required under subsection (e) of this section, instances of incidental mortality or injury of marine mammals in the course of that fishery.
 
@@ -162,7 +162,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (f) Take reduction plans
 
-(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
+(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercialfishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
 
 (2) The immediate goal of a take reduction plan for a strategic stock shall be to reduce, within 6 months of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to levels less than the potential biological removal level established for that stock under section 1386 of this title. The long-term goal of the plan shall be to reduce, within 5 years of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to insignificant levels approaching a zero mortality and serious injury rate, taking into account the economics of the fishery, the availability of existing technology, and existing State or regional fishery management plans.
 
@@ -182,7 +182,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (B) For any stock in which human-caused mortality and serious injury exceeds the potential biological removal level, other than a stock to which subparagraph (A) applies, the plan shall include measures the Secretary expects will reduce, to the maximum extent practicable within 6 months of the plan's implementation, the incidental mortality and serious injury by such commercial fisheries from that stock. For purposes of this subparagraph, the term "maximum extent practicable" means to the lowest level that is feasible for such fisheries within the 6-month period.
 
-(6)(A) At the earliest possible time (not later than 30 days) after the Secretary issues a final stock assessment under section 1386(b) of this title for a strategic stock, the Secretary shall, and for stocks that interact with a fishery listed under subsection (c)(1)(A)(i) of this section forwhich the Secretary has made a determination under paragraph (1), the Secretary may—
+(6)(A) At the earliest possible time (not later than 30 days) after the Secretary issues a final stock assessment under section 1386(b) of this title for a strategic stock, the Secretary shall, and for stocks that interact with a fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the Secretary may—
 
 &emsp;(i) establish a take reduction team for such stock and appoint the members of such team in accordance with subparagraph (C); and
 
@@ -220,7 +220,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(ii) Such draft take reduction plan shall be developed by consensus. In the event consensus cannot be reached, the team shall advise the Secretary in writing on the range of possibilities considered by the team, and the views of both the majority and minority.
 
-&emsp;(B)(i) The Secretary shall take the draft take reduction plan into consideration and,not later than 60 days after the submission of the draft plan by the team, the Secretary shall publish in the Federal Register the plan proposed by the team, any changes proposed by the Secretary with an explanation of the reasons therefor, and proposed regulations to implement such plan, for public review and comment during a period of not to exceed 90 days.
+&emsp;(B)(i) The Secretary shall take the draft take reduction plan into consideration and, not later than 60 days after the submission of the draft plan by the team, the Secretary shall publish in the Federal Register the plan proposed by the team, any changes proposed by the Secretary with an explanation of the reasons therefor, and proposed regulations to implement such plan, for public review and comment during a period of not to exceed 90 days.
 
 &emsp;(ii) In the event that the take reduction team does not submit a draft plan to the Secretary within 11 months, the Secretary shall, not later than 13 months after the establishment of the team, publish in the Federal Register a proposed take reduction plan and implementing regulations, for public review and comment during a period of not to exceed 90 days.
 
@@ -288,7 +288,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(C) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination, if the Secretary determines that the reasons for emergency regulations no longer exist.
 
-(4) If the Secretary finds that incidental mortality and serious injury of marine mammals in a commercial fishery is continuing to have an immediate and significant adverse impact on a stock or species, the Secretary may extend the emergency regulations for an additional period of not more than 90 days or until reasons for the emergency no longer exist, whichever is earlier.
+(4) If the Secretary finds that incidental mortality and serious injury of marine mammals in a commercial fishery is continuing to have an immediate and significant adverse impact on a stock or species, the Secretary may extend theemergency regulations for an additional period of not more than 90 days or until reasons for the emergency no longer exist, whichever is earlier.
 
 #### (h) Penalties
 

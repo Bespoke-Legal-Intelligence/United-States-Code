@@ -168,7 +168,7 @@
 
 #### (ii) Indian reservations
 
-&emsp;&emsp;&emsp;Of amounts made available under subparagraph (A), the Secretary shall use a portion of the amounts to carry out research relating to hunger, obesity and type 2 diabetes on Indian reservations, including research to determine the manner in which Federal nutrition programs can help to overcome those problems.
+&emsp;&emsp;&emsp;Of amounts made available under subparagraph (A), the Secretary shall use aportion of the amounts to carry out research relating to hunger, obesity and type 2 diabetes on Indian reservations, including research to determine the manner in which Federal nutrition programs can help to overcome those problems.
 
 #### (iii) Report
 
@@ -190,7 +190,7 @@
 
 #### (iii) Hunger-free communities
 
-&emsp;&emsp;&emsp;No project may be funded under this subsection that receives funding under section 7517 of title 7.
+&emsp;&emsp;&emsp;No project may be funded under this subsection that receives funding under section 7517 of title 7.<sup>1</sup>
 
 #### (iv) Other benefits
 
@@ -208,6 +208,8 @@
 
 #### References in Text
 
+Section 7517 of title 7, referred to in subsec. (b)(7)(D)(iii), was amended generally by Pub. L. 113–79, title IV, §4208, Feb. 7, 2014, 128 Stat. 826, and now relates to food insecurity nutrition incentive.
+
 The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(B), (7)(D)(iv)(III), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Child Nutrition Act of 1966, referred to in subsec. (b)(3)(B), (7)(D)(iv)(II), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
@@ -221,4 +223,6 @@ A prior section 1769d, act June 4, 1946, ch. 281, §23, as added Nov. 10, 1989, 
 #### Effective Date
 
 Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under section 1751 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

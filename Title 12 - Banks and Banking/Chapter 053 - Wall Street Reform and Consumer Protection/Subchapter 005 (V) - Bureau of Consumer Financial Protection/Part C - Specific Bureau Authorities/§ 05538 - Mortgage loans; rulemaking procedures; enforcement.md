@@ -14,7 +14,7 @@
 
 &emsp;(C) to obtain damages, restitution, or other compensation on behalf of the residents of the State; or
 
-&emsp;(D) to obtain penalties and relief provided under the Consumer Financial Protection Actof 2010, the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], and such other relief as the court deems appropriate.
+&emsp;(D) to obtain penalties and relief provided under the Consumer Financial Protection Act of 2010, the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], and such other relief as the court deems appropriate.
 
 (2) The State shall serve written notice to the Bureau of Consumer Financial Protection or the Commission, as appropriate <sup>1</sup> of any civil action under paragraph (1) at least 60 days prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide notice immediately upon instituting such civil action.
 
@@ -74,7 +74,7 @@ Subsec. (b)(1). Pub. L. 111–203, §1097(2)(A), added par. (1) and struck out f
 
 &emsp;"(D) to obtain penalties and relief provided by the Federal Trade Commission Act and such other relief as the court considers appropriate."
 
-Subsec. (b)(2). Pub. L. 111–203, §1097(2)(B), substituted "the Bureau of Consumer Financial Protection or theCommission, as appropriate" for "the primary Federal regulator".
+Subsec. (b)(2). Pub. L. 111–203, §1097(2)(B), substituted "the Bureau of Consumer Financial Protection or the Commission, as appropriate" for "the primary Federal regulator".
 
 Subsec. (b)(3). Pub. L. 111–203, §1097(2)(B), (C), inserted "and subject to subtitle B of the Consumer Financial Protection Act of 2010," after "paragraph (2)," and substituted "the Bureau of Consumer Financial Protection or the Commission, as appropriate" for "the primary Federal regulator".
 

@@ -60,7 +60,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (C) The Secretary may lower the percentage required to be allocated
 
-&emsp;&emsp;Upon the petition of the employer or the majority of employees of such employer, the Secretary may reduce (but not below 2 percent) the percentage of gross receipts required to be allocated under subparagraph (A) where he determines that the percentage of gross receipts constituting tips is less than 8 percent.
+&emsp;&emsp;Upon the petition of the employer or the majority of employees of such employer, theSecretary may reduce (but not below 2 percent) the percentage of gross receipts required to be allocated under subparagraph (A) where he determines that the percentage of gross receipts constituting tips is less than 8 percent.
 
 #### (4) Large food or beverage establishment
 
@@ -90,9 +90,15 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 &emsp;The Secretary shall prescribe regulations for the application of this subsection to new businesses.
 
-(Added Pub. L. 89–97, title III, §313(e)(2)(A), July 30, 1965, 79 Stat. 384; amended Pub. L. 89–212, §2(d), Sept. 29, 1965, 79 Stat. 859; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §314(a), Sept. 3, 1982, 96 Stat. 603; Pub. L. 98–369, div. A, title X, §1072(a), (c)(1), July 18, 1984, 98 Stat. 1052.)
+#### (8) Certified professional employer organizations
+
+&emsp;For purposes of any report required by this subsection, in the case of a certified professional employer organization that is treated under section 3511 as the employer of a work site employee, the customer with respect to whom a work site employee performs services shall be the employer for purposes of reporting under this section and the certified professional employer organization shall furnish to the customer and the Secretary any information the Secretary prescribes as necessary to complete such reporting no later than such time as the Secretary shall prescribe.
+
+(Added Pub. L. 89–97, title III, §313(e)(2)(A), July 30, 1965, 79 Stat. 384; amended Pub. L. 89–212, §2(d), Sept. 29, 1965, 79 Stat. 859; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §314(a), Sept. 3, 1982, 96 Stat. 603; Pub. L. 98–369, div. A, title X, §1072(a), (c)(1), July 18, 1984, 98 Stat. 1052; Pub. L. 113–295, div. B, title II, §206(c)(3), Dec. 19, 2014, 128 Stat. 4071.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(8). Pub. L. 113–295 added par. (8).
 
 <b>1984</b>—Subsec. (c)(3)(C). Pub. L. 98–369, §1072(a), substituted "Upon the petition of the employer or the majority of employees of such employer, the Secretary" for "The Secretary" and "2 percent" for "5 percent".
 
@@ -105,6 +111,10 @@ Subsec. (c)(4). Pub. L. 98–369, §1072(c)(1), inserted provision that an indiv
 <b>1965</b>—Subsec. (a). Pub. L. 89–212, §2(d)(1), inserted "or which are compensation (as defined in section 3231(e)".
 
 Subsec. (b). Pub. L. 89–212, §2(d)(2), inserted "or section 3201 (as the case may be)" and "or section 3202 (as the case may be)".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after Jan. 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under section 3302 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -140,7 +150,7 @@ Pub. L. 98–369, div. A, title X, §1072(b), July 18, 1984, 98 Stat. 1052, prov
 
 #### Threat of Audit Prohibited To Coerce Tip Reporting Alternative Commitment Agreements
 
-Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: "The Secretary of the Treasury or the Secretary's delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement."
+Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: "The Secretary of the Treasury or the Secretary's delegate shall instruct employees of the Internal Revenue Service that they may notthreaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement."
 
 #### Modification of Tips Allocation Method
 

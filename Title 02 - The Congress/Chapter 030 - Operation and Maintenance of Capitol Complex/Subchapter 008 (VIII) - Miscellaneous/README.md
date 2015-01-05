@@ -10,3 +10,4 @@
 - [&sect; 02183 - Protection of buildings and property](%C2%A7%2002183%20-%20Protection%20of%20buildings%20and%20property.md)
 - [&sect; 02184 - Purchase of furniture or carpets for House or Senate](%C2%A7%2002184%20-%20Purchase%20of%20furniture%20or%20carpets%20for%20House%20or%20Senate.md)
 - [&sect; 02185 - Estimates for improvements in grounds](%C2%A7%2002185%20-%20Estimates%20for%20improvements%20in%20grounds.md)
+- [&sect; 02186 - Square 580 landscape maintenance](%C2%A7%2002186%20-%20Square%20580%20landscape%20maintenance.md)

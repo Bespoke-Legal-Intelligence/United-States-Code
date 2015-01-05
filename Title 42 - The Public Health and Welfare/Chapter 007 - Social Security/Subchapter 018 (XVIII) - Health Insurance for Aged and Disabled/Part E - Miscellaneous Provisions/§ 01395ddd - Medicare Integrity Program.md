@@ -300,7 +300,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2011), the Secretary shall submit a report to Congress which identifies—
 
-&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital Insurance Trust Fund under section 1395i of this titleand the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
+&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
 
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 
@@ -373,6 +373,18 @@ Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act 
 "(8)
 
 Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[42 U.S.C. 1395ddd(f)(8)\], as added by subsection (a)."
+
+#### Extension of Two-Midnight Rule
+
+Pub. L. 113–93, title I, §111, Apr. 1, 2014, 128 Stat. 1044, provided that:
+
+"(a)
+
+Continuation of Certain Medical Review Activities.—The Secretary of Health and Human Services may continue medical review activities described in the notice entitled 'Selecting Hospital Claims for Patient Status Reviews: Admissions On or After October 1, 2013', posted on the Internet website of the Centers for Medicare \& Medicaid Services, through the first 6 months of fiscal year 2015 for such additional hospital claims as the Secretary determines appropriate.
+
+"(b)
+
+Limitation.—The Secretary of Health and Human Services shall not conduct patient status reviews (as described in such notice) on a post-payment review basis through recovery audit contractors under section 1893(h) of the Social Security Act (42 U.S.C. 1395ddd(h)) for inpatient claims with dates of admission October 1, 2013, through March 31, 2015, unless there is evidence of systematic gaming, fraud, abuse, or delays in the provision of care by a provider of services (as defined in section 1861(u) of such Act (42 U.S.C. 1395x(u)))."
 
 #### Access to Coordination of Benefits Contractor Database
 

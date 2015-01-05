@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (ii) Termination
 
-&emsp;&emsp;&emsp;Clause (i)(II) shall not apply after December 31, 2013. Notwithstanding the preceding sentence, an entity described inclause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
+&emsp;&emsp;&emsp;Clause (i)(II) shall not apply after December 31, 2014. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
 
 #### (B) Domestically controlled
 
@@ -236,7 +236,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "applicable wash sales transaction" means any transaction (or series of transactions) under which a nonresident alien individual, foreign corporation, or qualified investment entity—
+&emsp;&emsp;&emsp;The term "applicable wash sales transaction" means any transaction (or series of transactions) under which a nonresidentalien individual, foreign corporation, or qualified investment entity—
 
 &emsp;&emsp;&emsp;&emsp;(I) disposes of an interest in a domestically controlled qualified investment entity during the 30-day period preceding the ex-dividend date of a distribution which is to be made with respect to the interest and any portion of which, but for the disposition, would have been treated by the taxpayer as gain from the sale or exchange of a United States real property interest under paragraph (1), and
 
@@ -304,9 +304,11 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;(B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §321(a), Jan. 2, 2013, 126 Stat. 2332.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §321(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §133(a), Dec. 19, 2014, 128 Stat. 4018.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(4)(A)(ii). Pub. L. 113–295 substituted "December 31, 2014" for "December 31, 2013".
 
 <b>2013</b>—Subsec. (h)(4)(A)(ii). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
@@ -326,7 +328,7 @@ Subsec. (h)(5). Pub. L. 109–222, §506(a), added par. (5).
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–357, §411(c)(5), substituted "certain investment entities" for "REITS" in heading.
 
-Subsec. (h)(1). Pub. L. 108–357, §418(a), inserted at end "Notwithstanding the preceding sentence, any distribution by a REIT with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did notown more than 5 percent of such class of stock at any time during the taxable year."
+Subsec. (h)(1). Pub. L. 108–357, §418(a), inserted at end "Notwithstanding the preceding sentence, any distribution by a REIT with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the taxable year."
 
 Pub. L. 108–357, §411(c)(1), substituted "qualified investment entity" for "REIT" in two places.
 
@@ -362,7 +364,7 @@ Distributions by Domestic Corporations to Foreign Shareholders.—If a domestic 
 
 &emsp;"(2) the 12-month period described in section 334(b)(2)(B) for the acquisition by purchase of the stock of the foreign corporation, began after December 31, 1979, and before November 26, 1980,
 
-> then such foreign corporation may make an election to be treated, for the period following June 18, 1980, as a domestic corporation pursuant to section 897(i)(1). Notwithstanding an election under the preceding sentence, any selling shareholder of such corporation shall be considered to have sold the stock of a foreign corporation."
+> then such foreign corporation may make an election to be treated, for the period following June 18, 1980, as adomestic corporation pursuant to section 897(i)(1). Notwithstanding an election under the preceding sentence, any selling shareholder of such corporation shall be considered to have sold the stock of a foreign corporation."
 
 <b>1988</b>—Subsec. (l). Pub. L. 100–647 struck out subsec. (l) which provided special rule for certain United States shareholders of liquidating foreign corporations.
 
@@ -388,6 +390,24 @@ Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted "holds a Unit
 
 Subsecs. (j) to (l). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (l).
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §133(b), Dec. 19, 2014, 128 Stat. 4018, provided that:
+
+"(1)
+
+In general.—The amendment made by this section \[amending this section\] shall take effect on January 1, 2014. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before the date of the enactment of this Act \[Dec. 19, 2014\].
+
+"(2)
+
+Amounts withheld on or before date of enactment.—In the case of a regulated investment company—
+
+&emsp;"(A) which makes a distribution after December 31, 2013, and before the date of the enactment of this Act, and
+
+&emsp;"(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code,
+
+> such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury."
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–240, title III, §321(b), Jan. 2, 2013, 126 Stat. 2332, provided that:
@@ -412,7 +432,7 @@ Pub. L. 111–312, title VII, §749(b), Dec. 17, 2010, 124 Stat. 3320, provided 
 
 "(1)
 
-In general.—The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2010. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before the date of the enactment of this Act \[Dec. 17, 2010\].
+In general.—The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2010. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of theInternal Revenue Code of 1986 for any payment made before the date of the enactment of this Act \[Dec. 17, 2010\].
 
 "(2)
 
@@ -426,7 +446,21 @@ Amounts withheld on or before date of enactment.—In the case of a regulated in
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title II, §208(b), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2008."
+Pub. L. 110–343, div. C, title II, §208(b), Oct. 3, 2008, 122 Stat. 3865, as amended by Pub. L. 113–295, div. A, title II, §211(a), Dec. 19, 2014, 128 Stat. 4032, provided that:
+
+"(1)
+
+In general.—The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2008. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before October 4, 2008.
+
+"(2)
+
+Amounts withheld on or before date of enactment.—In the case of a regulated investment company—
+
+&emsp;"(A) which makes a distribution after December 31, 2007, and before October 4, 2008, and
+
+&emsp;"(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code,
+
+> such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury."
 
 #### Effective Date of 2006 Amendment
 
@@ -468,7 +502,7 @@ Amendment by section 1810(f)(1) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1)of Pub. L. 97–248, set out as a note under section 5 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -480,7 +514,7 @@ Pub. L. 96–499, title XI, §1125(a), (b), Dec. 5, 1980, 94 Stat. 2690, provide
 
 "(a)
 
-In general.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§1121–1125) of title XI of Pub. L. 96–499, enacting this section and provisions set out as notes under this section, and amending sections 861, 871, 882 of this title\] shall apply to dispositions after June 18, 1980.
+In general.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C\(§§1121–1125) of title XI of Pub. L. 96–499, enacting this section and provisions set out as notes under this section, and amending sections 861, 871, 882 of this title\] shall apply to dispositions after June 18, 1980.
 
 "(b)
 

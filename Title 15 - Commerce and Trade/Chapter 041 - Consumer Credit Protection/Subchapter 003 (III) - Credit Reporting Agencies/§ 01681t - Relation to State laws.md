@@ -12,7 +12,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(A) subsection (c) or (e) of section 1681b of this title, relating to the prescreening of consumer reports;
 
-&emsp;&emsp;(B) section 1681i of this title, relating to the time by which a consumer reporting agency must take any action, including the provision of notification to a consumer or other person, in any procedure related to the disputed accuracy of information in a consumer's file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
+&emsp;&emsp;(B) section 1681i of this title, relating to the time by which a consumer reportingagency must take any action, including the provision of notification to a consumer or other person, in any procedure related to the disputed accuracy of information in a consumer's file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
 &emsp;&emsp;(C) subsections (a) and (b) of section 1681m of this title, relating to the duties of a person who takes any adverse action with respect to a consumer;
 
@@ -20,7 +20,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(E) section 1681c of this title, relating to information contained in consumer reports, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
-&emsp;&emsp;(F) section 1681s–2 of this title, relating to the responsibilities of persons who furnishinformation to consumer reporting agencies, except that this paragraph shall not apply—
+&emsp;&emsp;(F) section 1681s–2 of this title, relating to the responsibilities of persons who furnish information to consumer reporting agencies, except that this paragraph shall not apply—
 
 &emsp;&emsp;&emsp;(i) with respect to section 54A(a) of chapter 93 of the Massachusetts Annotated Laws (as in effect on September 30, 1996); or
 

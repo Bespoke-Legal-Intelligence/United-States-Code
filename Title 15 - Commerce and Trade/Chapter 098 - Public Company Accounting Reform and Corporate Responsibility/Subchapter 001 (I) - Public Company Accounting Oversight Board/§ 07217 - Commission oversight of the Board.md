@@ -34,7 +34,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (1) Notice of sanction
 
-&emsp;The Board shall promptly file notice with the Commission of any final sanction on anyregistered public accounting firm or on any associated person thereof, in such form and containing such information as the Commission, by rule, may prescribe.
+&emsp;The Board shall promptly file notice with the Commission of any final sanction on any registered public accounting firm or on any associated person thereof, in such form and containing such information as the Commission, by rule, may prescribe.
 
 #### (2) Review of sanctions
 
@@ -56,7 +56,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 &emsp;&emsp;(A) is not necessary or appropriate in furtherance of this Act or the securities laws; or
 
-&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding or the basis on which the sanction was imposed.
+&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding orthe basis on which the sanction was imposed.
 
 #### (d) Censure of the Board; other sanctions
 

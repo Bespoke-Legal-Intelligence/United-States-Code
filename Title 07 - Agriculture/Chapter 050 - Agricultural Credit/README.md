@@ -37,6 +37,7 @@
 | [1935\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001935%20-%20Down%20payment%20loan%20program.md) | Down payment loan program. |
 | [1936\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936%20-%20Beginning%20farmer%20or%20rancher%20and%20socially%20disadvantaged%20farmer%20or%20rancher%20contract%20land%20sales%20program.md) | Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program. |
 | [1936a.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936a%20-%20Use%20of%20rural%20development%20loans%20and%20grants%20for%20other%20purposes.md) | Use of rural development loans and grants for other purposes. |
+| [1936b.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936b%20-%20Intermediary%20relending%20program.md) | Intermediary relending program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -88,6 +89,7 @@
 | [1983a.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001983a%20-%20Prompt%20approval%20of%20loans%20and%20loan%20guarantees.md) | Prompt approval of loans and loan guarantees. |
 | [1983b.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001983b%20-%20Beginning%20farmer%20and%20rancher%20individual%20development%20accounts%20pilot%20program.md) | Beginning farmer and rancher individual development accounts pilot program. |
 | [1983c.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001983c%20-%20Provision%20of%20information%20to%20borrowers.md) | Provision of information to borrowers. |
+| [1983d.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001983d%20-%20Farmer%20loan%20pilot%20projects.md) | Farmer loan pilot projects. |
 | [1984\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001984%20-%20Taxation.md) | Taxation. |
 | [1985\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001985%20-%20Security%20servicing.md) | Security servicing. |
 | [1986\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001986%20-%20Conflicts%20of%20interests.md) | Conflicts of interests. |
@@ -127,7 +129,7 @@
 | [2008g.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008g%20-%20Payment%20of%20interest%20as%20condition%20of%20loan%20servicing%20for%20borrowers.md) | Payment of interest as condition of loan servicing for borrowers. |
 | [2008h.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008h%20-%20Loan%20and%20loan%20servicing%20limitations.md) | Loan and loan servicing limitations. |
 | [2008i.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008i%20-%20Short%20form%20certification%20of%20farm%20program%20borrower%20compliance.md) | Short form certification of farm program borrower compliance. |
-| [2008j.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008j%20-%20National%20Sheep%20Industry%20Improvement%20Center.md) | National Sheep Industry Improvement Center. |
+| [2008j.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008j%20-%20Transferred.md) | Transferred. |
 | [2008k.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008k%20-%20Making%20and%20servicing%20of%20loans%20by%20personnel%20of%20State%2C%20county%2C%20or%20area%20committees.md) | Making and servicing of loans by personnel of State, county, or area committees. |
 | [2008l.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008l%20-%20Eligibility%20of%20employees%20of%20State%2C%20county%2C%20or%20area%20committee%20for%20loans%20and%20loan%20guarantees.md) | Eligibility of employees of State, county, or area committee for loans and loan guarantees. |
 | [2008m.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008m%20-%20National%20Rural%20Development%20Partnership.md) | National Rural Development Partnership. |
@@ -140,6 +142,7 @@
 | [2008s.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008s%20-%20Rural%20microentrepreneur%20assistance%20program.md) | Rural microentrepreneur assistance program. |
 | [2008t.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008t%20-%20Grants%20for%20expansion%20of%20employment%20opportunities%20for%20individuals%20with%20disabilities%20in%20rural%20areas.md) | Grants for expansion of employment opportunities for individuals with disabilities in rural areas. |
 | [2008u.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008u%20-%20Health%20care%20services.md) | Health care services. |
+| [2008v.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008v%20-%20Strategic%20economic%20and%20community%20development.md) | Strategic economic and community development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

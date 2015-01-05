@@ -58,7 +58,7 @@ Beginning at a pipe in concrete at the northeast corner of this parcel, the coor
 
 1\. Three hundred fifty-eight degrees twenty-three minutes two hundred sixty and four-tenths feet along the remainder of L. C. Aw. 11216:34 to M. Kekauonohi;
 
-2\. Ninety-three degrees thirty minutes two hundred and sixty-nine feet along the same, along stone wall, along lot 2 of the subdivision by B. P. Bishop estate;
+2\. Ninety-three degrees thirty minutes two hundred and sixty-nine feet along the same,along stone wall, along lot 2 of the subdivision by B. P. Bishop estate;
 
 3\. Eighty-two degrees no minutes three hundred and eighteen feet along same to the east side of fifty-foot road;
 
@@ -86,7 +86,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called "Kalani" a
 
 1\. Three hundred thirty-eight degrees forty-nine minutes thirty seconds five hundred ninety-five and four-tenths feet along the remainder of L. C. Aw. 8521–B to G. D. Hueu to the eight thousand foot south coordinates line referred to Government Survey Triangulation Station "Lae-O-Kanoni";
 
-2\. Ninety degree no minutes one thousand ninety-nine and seven-tenths feet along sameand along said eight thousand foot south coordinates line and across school grant 7 Apana 6 to high-water mark;
+2\. Ninety degree no minutes one thousand ninety-nine and seven-tenths feet along same and along said eight thousand foot south coordinates line and across school grant 7 Apana 6 to high-water mark;
 
 3\. Thence along high-water mark, along sea, the direct azimuth and distance being: two hundred six degrees thirty-three minutes thirty seconds four hundred eighty-two and nine-tenths feet;
 
@@ -122,5 +122,5 @@ Pub. L. 107–340, §1, Dec. 16, 2002, 116 Stat. 2889, provided that: "This Act 
 
 #### Admission of Hawaii as State
 
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug.21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 

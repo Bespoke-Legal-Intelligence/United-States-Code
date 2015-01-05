@@ -36,7 +36,7 @@ In the case of any experiment or demonstration project initiated under subsectio
 
 #### (1) Interim reports
 
-&emsp;On or before June 9 of each year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection <sup>1</sup> together with any related data andmaterials that the Commissioner may consider appropriate.
+&emsp;On or before June 9 of each year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection <sup>1</sup> together with any related data and materials that the Commissioner may consider appropriate.
 
 #### (2) Termination and final report
 
@@ -56,7 +56,7 @@ Pub. L. 106–170, title III, §302, Dec. 17, 1999, 113 Stat. 1902, as amended b
 
 "(a)
 
-Authority.—The Commissioner of Social Security shall conduct demonstration projects for the purpose of evaluating, through the collection of data, a program for title II disability beneficiaries (as defined in section 1148(k)(3) of the Social Security Act \[42 U.S.C. 1320b–19(k)(3)\]) under which benefits payable under section 223 of such Act \[42 U.S.C. 423\], or under section 202 of such Act \[42 U.S.C. 402\] based on the beneficiary's disability, are reduced by $1 for each $2 of the beneficiary's earnings that is above a level to be determined by the Commissioner. Such projects shall be conducted at a number of localities which the Commissioner shall determine is sufficient to adequately evaluate the appropriateness of national implementation of such a program. Such projects shall identify reductions in Federal expenditures that may result from the permanent implementation of such a program.
+Authority.—The Commissioner of Social Security shall conduct demonstration projects for the purpose of evaluating, through the collection of data, a program for title II disability beneficiaries (as defined in section 1148(k)(3) of the Social Security Act \[42 U.S.C. 1320b–19(k)(3)\]) under which benefits payable under section 223 of such Act \[42 U.S.C. 423\], or under section 202 of such Act \[42 U.S.C. 402\] based on the beneficiary's disability, are reduced by $1 for each $2 of the beneficiary's earnings that is above a level to be determined by the Commissioner. Such projects shall be conducted at a number of localities which the Commissioner shall determine is sufficient to adequatelyevaluate the appropriateness of national implementation of such a program. Such projects shall identify reductions in Federal expenditures that may result from the permanent implementation of such a program.
 
 "(b)
 
@@ -104,7 +104,7 @@ Expenditures.—Administrative expenses for demonstration projects under this se
 
 #### Study by General Accounting Office of the Impact of the Substantial Gainful Activity Limit on Return to Work
 
-Pub. L. 106–170, title III, §303(c), Dec. 17, 1999, 113 Stat. 1904, provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study of the substantial gainful activity level applicable as of that date to recipients of benefits under sections 402 and 423 of this title and the effect of such levelas a disincentive for those recipients to return to work, to address the merits of increasing the substantial gainful activity level applicable to recipients and the rationale for not yearly indexing that level to inflation, and not later than 2 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General's study conducted pursuant to this subsection and appropriate recommendations for legislative or administrative changes.
+Pub. L. 106–170, title III, §303(c), Dec. 17, 1999, 113 Stat. 1904, provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study of the substantial gainful activity level applicable as of that date to recipients of benefits under sections 402 and 423 of this title and the effect of such level as a disincentive for those recipients to return to work, to address the merits of increasing the substantial gainful activity level applicable to recipients and the rationale for not yearly indexing that level to inflation, and not later than 2 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General's study conducted pursuant to this subsection and appropriate recommendations for legislative or administrative changes.
 
 #### Study by the Government Accountability Office of Social Security Administration's Disability Insurance Program Demonstration Authority
 

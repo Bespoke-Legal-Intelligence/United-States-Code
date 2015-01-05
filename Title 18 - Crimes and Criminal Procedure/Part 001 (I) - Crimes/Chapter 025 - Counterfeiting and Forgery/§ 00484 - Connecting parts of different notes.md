@@ -1,6 +1,6 @@
 ### §484. Connecting parts of different notes
 
-Whoever so places or connects together different parts of two or more notes, bills, or other genuine instruments issued under the authority of the United States, or by any foreign government, or corporation, as to produce one instrument, with intent to defraud, shall be guilty of forgery in the same manner as if the parts so put together were falsely made or forged, and shall be fined under this title or imprisoned not more than 10 years, or both.
+Whoever so places or connects together different parts of two or more notes, bills, or othergenuine instruments issued under the authority of the United States, or by any foreign government, or corporation, as to produce one instrument, with intent to defraud, shall be guilty of forgery in the same manner as if the parts so put together were falsely made or forged, and shall be fined under this title or imprisoned not more than 10 years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(h), Oct. 26, 2001, 115 Stat. 341.)
 

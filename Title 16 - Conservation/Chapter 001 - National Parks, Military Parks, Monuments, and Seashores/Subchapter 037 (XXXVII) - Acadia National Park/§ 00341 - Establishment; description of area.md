@@ -1,6 +1,6 @@
 ### §341. Establishment; description of area
 
-The tracts of land, easements, and other real estate known before February 26, 1919, as the Sieur de Monts National Monument, situated on Mount Desert Island, in the county of Hancock and State of Maine, are declared to be a national park and dedicated as a public park for the benefit and enjoyment of the people under the name of the Acadia National Park, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for Sieur de Monts National Monument.
+The tracts of land, easements, and other real estate known before February 26, 1919, as theSieur de Monts National Monument, situated on Mount Desert Island, in the county of Hancock and State of Maine, are declared to be a national park and dedicated as a public park for the benefit and enjoyment of the people under the name of the Acadia National Park, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for Sieur de Monts National Monument.
 
 (Feb. 26, 1919, ch. 45, §1, 40 Stat. 1178; Jan. 19, 1929, ch. 77, §2, 45 Stat. 1083.)
 
@@ -20,7 +20,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 #### "SEC. 101. BOUNDARIES OF ACADIA NATIONAL PARK.
 
-"In order to protect and conserve the land and water resources of Acadia National Park in the State ofMaine (hereinafter in this title referred to as 'the Park'), and to facilitate the administration of the Park, the boundary depicted on the map entitled 'Acadia National Park Boundary Map', numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as 'the map') is hereby established as the permanent boundary for the Park. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and it shall be made available to the Registry of Deeds for Hancock and Knox Counties, Maine.
+"In order to protect and conserve the land and water resources of Acadia National Park in the State of Maine (hereinafter in this title referred to as 'the Park'), and to facilitate the administration of the Park, the boundary depicted on the map entitled 'Acadia National Park Boundary Map', numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as 'the map') is hereby established as the permanent boundary for the Park. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and it shall be made available to the Registry of Deeds for Hancock and Knox Counties, Maine.
 
 #### "SEC. 102. LANDS WITHIN BOUNDARIES.
 
@@ -134,7 +134,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 #### "SEC. 104. BEAR ISLAND.
 
-"(a) Notwithstanding any other provision of law, Federal property located on Bear Island in the town of Cranberry Isle shall, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of the title. Such Federal property shall not be developed by the Secretary in a manner which would provide for or encourage intensive visitor use.
+"(a) Notwithstanding any other provision of law, Federal property located on Bear Island in the town ofCranberry Isle shall, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of the title. Such Federal property shall not be developed by the Secretary in a manner which would provide for or encourage intensive visitor use.
 
 "(b) The Secretary is authorized to make improvements to the Federal property on Bear Island as he deems appropriate for the protection of adjacent private property.
 
@@ -146,7 +146,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 "(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein.
 
-"(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 460l–9), the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
+"(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (\[former\] 16 U.S.C. 460l–9) \[now 54 U.S.C. 200306(a)(4)\], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
 
 "(c)
 

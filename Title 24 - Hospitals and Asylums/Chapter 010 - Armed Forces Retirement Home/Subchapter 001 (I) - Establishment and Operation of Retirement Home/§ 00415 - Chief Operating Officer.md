@@ -64,7 +64,7 @@ To qualify for appointment as the Chief Operating Officer, a person shall—
 
 <b>2011</b>—Subsec. (c)(2). Pub. L. 112–81 struck out ", including the Local Boards of those facilities" before period at end.
 
-<b>2001</b>—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to the Chief Operating Officer of the Retirement Home for provisions relating to the composition and operation of Retirement Home Board.
+<b>2001</b>—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to the Chief Operating Officer of the Retirement Home forprovisions relating to the composition and operation of Retirement Home Board.
 
 <b>1996</b>—Subsec. (e)(3). Pub. L. 104–201, §1051(a), added par. (3).
 

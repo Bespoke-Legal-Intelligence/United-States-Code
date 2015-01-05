@@ -2,7 +2,7 @@
 
 #### (1) Establishment of data bank
 
-Not later than 2 years after August 17, 1999, the Secretary shall establish a national coastal data bank containing data on the geophysicaland climatological characteristics of the shores of the United States.
+Not later than 2 years after August 17, 1999, the Secretary shall establish a national coastal data bank containing data on the geophysical and climatological characteristics of the shores of the United States.
 
 #### (2) Content
 

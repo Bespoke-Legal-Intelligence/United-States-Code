@@ -140,7 +140,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) Many of the international terrorists who planned and carried out large-scale attacks against foreign targets, including the attack in Bali, Indonesia, on October 11, 2002, and the attack in Madrid, Spain, on March 11, 2004, traveled across international borders to plan and carry out these attacks.
 
-&emsp;"(5) Throughout the 1990s, international terrorists, including those involved in the attack on the World Trade Center on February 26, 1993, the plot to bomb New York City landmarks in 1993, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled on fraudulent passports and often had more than 1 passport.
+&emsp;"(5) Throughout the 1990s, international terrorists, including those involved in the attack on the World Trade Center on February 26, 1993, the plot to bombNew York City landmarks in 1993, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled on fraudulent passports and often had more than 1 passport.
 
 &emsp;"(6) Two of the September 11, 2001, hijackers were carrying passports that had been manipulated in a fraudulent manner.
 
@@ -266,7 +266,7 @@ Availability.—Amounts appropriated pursuant to the authorization of appropriat
 
 "(a)
 
-OPIC.—The President should initiate negotiations with the Government of East Timor to enter into a new agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises.
+OPIC.—The President should initiate negotiations with the Government of East Timor to enter intoa new agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises.
 
 "(b)
 
@@ -348,7 +348,7 @@ Certification.—A certification described in this paragraph is a certification 
 
 "(a)
 
-In General.—Not later than 180 days after the date of enactment of this Act \[Sept. 30, 2002\], and every12 months thereafter for the next five years, the Secretary shall prepare and transmit to the appropriate congressional committees a report that contains the information described in subsection (b).
+In General.—Not later than 180 days after the date of enactment of this Act \[Sept. 30, 2002\], and every 12 months thereafter for the next five years, the Secretary shall prepare and transmit to the appropriate congressional committees a report that contains the information described in subsection (b).
 
 "(b)
 
@@ -376,7 +376,7 @@ Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 6
 
 Memorandum for the Secretary of State
 
-Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[Pub. L. 107–228, §637(b)(2), set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
+Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[Pub. L. 107–228, §637(b)(2), set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the formof excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
 
 You are hereby authorized and directed to report this certification, accompanying memorandum of justification \[not set out in the Code\], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
 
@@ -438,7 +438,7 @@ Tribunal.—The term 'Tribunal' means the International Criminal Tribunal for th
 
 "(k)
 
-Role of Human Rights Organizations and Government Agencies.—In carrying out this section, the Secretary of State, the Administrator of the Agency for International Development, and the executive directors of the international financial institutions shallconsult with representatives of human rights organizations and all government agencies with relevant information to help prevent publicly indicted war criminals from benefiting from any financial or technical assistance or grants provided to any country or entity described in subsection (e)."
+Role of Human Rights Organizations and Government Agencies.—In carrying out this section, the Secretary of State, the Administrator of the Agency for International Development, and the executive directors of the international financial institutions shall consult with representatives of human rights organizations and all government agencies with relevant information to help prevent publicly indicted war criminals from benefiting from any financial or technical assistance or grants provided to any country or entity described in subsection (e)."
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
@@ -468,13 +468,7 @@ Availability of Funds.—The Secretary may make a grant to nongovernmental organ
 
 #### Report to Congress on Activities of North Korean Armed Forces
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, §1308(g)(1)(D), (2), Sept. 30, 2002, 116 Stat. 1441, provided that: "Ninety days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information:
-
-&emsp;"(a) a best estimate on fuel used by the military forces of the Democratic People's Republic of Korea (DPRK);
-
-&emsp;"(b) the deployment position and military training and activities of the DPRK forces and best estimate of the associated costs of these activities; and
-
-&emsp;"(c) steps taken to reduce the DPRK level of forces."
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, §1308(g)(1)(D), (2),Sept. 30, 2002, 116 Stat. 1441, which required the Secretary of State, in consultation with the Secretary of Defense, to provide semiannual reports relating to the military forces of the Democratic People's Republic of Korea, was repealed by Pub. L. 113–76, div. K, title VII, §7034(i), Jan. 17, 2014, 128 Stat. 514.
 
 #### Reports to War Crimes Tribunal for Former Yugoslavia
 
@@ -526,7 +520,7 @@ Pub. L. 103–236, title V, part D, Apr. 30, 1994, 108 Stat. 486, provided that:
 
 "(a)
 
-In General.—Consistent with international law, it is the policy of the United States to support effortsto bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
+In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
 
 "(b)
 
@@ -648,7 +642,7 @@ Definition.—As used in this section, the term 'respect for freedom of the pres
 
 #### Emergency Telephone Service at United States Consular Offices
 
-Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
+Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that theSecretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
@@ -734,7 +728,7 @@ The purpose of this Executive Order is to reinforce, integrate, and complement p
 
 Sec. 2. <i>Assigned Responsibilities to the Center for Strategic Counterterrorism Communications</i>.
 
-(a) Under the direction of the Secretary of State (Secretary), the Center for Strategic Counterterrorism Communications (Center) that has been established in the Department of State by the Secretary shall coordinate, orient, and inform Government-wide public communications activities directed at audiences abroadand targeted against violent extremists and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, with the goal of using communication tools to reduce radicalization by terrorists and extremist violence and terrorism that threaten the interests and national security of the United States. Consistent with section 404o \[now 3056\] of title 50, United States Code, the Center shall coordinate its analysis, evaluation, and planning functions with the National Counterterrorism Center. The Center shall also coordinate these functions with other agencies, as appropriate.
+(a) Under the direction of the Secretary of State (Secretary), the Center for Strategic Counterterrorism Communications (Center) that has been established in the Department of State by the Secretary shall coordinate, orient, and inform Government-wide public communications activities directed at audiences abroad and targeted against violent extremists and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, with the goal of using communication tools to reduce radicalization by terrorists and extremist violence and terrorism that threaten the interests and national security of the United States. Consistent with section 404o \[now 3056\] of title 50, United States Code, the Center shall coordinate its analysis, evaluation, and planning functions with the National Counterterrorism Center. The Center shall also coordinate these functions with other agencies, as appropriate.
 
 Executive branch efforts undertaken through the Center shall draw on all agencies with relevant information or capabilities, to prepare, plan for, and conduct these communications efforts.
 
@@ -756,7 +750,7 @@ Executive branch efforts undertaken through the Center shall draw on all agencie
 
 Sec. 3. <i>Establishment of a Temporary Organization</i>.
 
-(a) There is established within the Department of State, in accordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Counterterrorism Communications Support Office (CCSO).
+(a) There is established within the Department of State, in accordance with section 3161 of title 5, UnitedStates Code, a temporary organization to be known as the Counterterrorism Communications Support Office (CCSO).
 
 (b) The purpose of the CCSO shall be to perform the specific project of supporting agencies in Government-wide public communications activities targeted against violent extremism and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, to audiences abroad by using communication tools designed to counter violent extremism and terrorism that threaten the interests and national security of the United States.
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;A project study shall be subject to peer review under paragraph (1) if—
 
-&emsp;&emsp;&emsp;(i) the project has an estimated total cost of more than $45,000,000, including mitigation costs, and is not determined by the Chief of Engineers to be exempt from peer review under paragraph (6);
+&emsp;&emsp;&emsp;(i) the project has an estimated total cost of more than $200,000,000, including mitigation costs, and is not determined by the Chief of Engineers to be exempt from peer review under paragraph (6);
 
 &emsp;&emsp;&emsp;(ii) the Governor of an affected State requests a peer review by an independent panel of experts; or
 
@@ -26,7 +26,7 @@
 
 #### (i) Agency request
 
-&emsp;&emsp;&emsp;A project study shall be considered by the Chief of Engineers for peer reviewunder this section if the head of a Federal or State agency charged with reviewing the project study determines that the project is likely to have a significant adverse impact on environmental, cultural, or other resources under the jurisdiction of the agency after implementation of proposed mitigation plans and requests a peer review by an independent panel of experts.
+&emsp;&emsp;&emsp;A project study shall be considered by the Chief of Engineers for peer review under this section if the head of a Federal or State agency charged with reviewing the project study determines that the project is likely to have a significant adverse impact on environmental, cultural, or other resources under the jurisdiction of the agency after implementation of proposed mitigation plans and requests a peer review by an independent panel of experts.
 
 #### (ii) Deadline for decision
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(iii) has no substantial adverse impacts on fish and wildlife species and their habitat prior to the implementation of mitigation measures; and
 
-&emsp;&emsp;&emsp;(iv) has, before implementation of mitigation measures, no more than a negligible adverse impact on a species listed as endangered or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the critical habitat of such species designated under such Act;
+&emsp;&emsp;&emsp;(iv) has, before implementation of mitigation measures, no more than a negligible adverse impact on a species listed as endangered or threatened species underthe Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the critical habitat of such species designated under such Act;
 
 &emsp;&emsp;(B) if the project study—
 
@@ -92,7 +92,19 @@
 
 &emsp;&emsp;(C) the preferred alternative is identified.
 
-#### (3) Limitation on multiple peer review
+#### (3) Reasons for timing
+
+&emsp;If the Chief of Engineers does not initiate a peer review for a project study at a time described in paragraph (2), the Chief shall—
+
+&emsp;&emsp;(A) not later than 7 days after the date on which the Chief of Engineers determines not to initiate a peer review—
+
+&emsp;&emsp;&emsp;(i) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of that decision; and
+
+&emsp;&emsp;&emsp;(ii) make publicly available, including on the Internet, the reasons for not conducting the review; and
+
+&emsp;&emsp;(B) include the reasons for not conducting the review in the decision document for the project study.
+
+#### (4) Limitation on multiple peer review
 
 &emsp;Nothing in this subsection shall be construed to require the Chief of Engineers to conduct multiple peer reviews for a project study.
 
@@ -110,9 +122,19 @@
 
 &emsp;The National Academy of Sciences or any other organization the Chief of Engineers contracts with under paragraph (1) to establish a panel of experts shall apply the National Academy of Science's policy for selecting committee members to ensure that members selected for the panel of experts have no conflict with the project being reviewed.
 
-#### (4) Congressional notification
+#### (4) Congressional and public notification
 
-&emsp;Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review.
+&emsp;Following the identification of a project study for peer review under this section, but prior to initiation of the review by the panel of experts, the Chief of Engineers shall, not later than 7 days after the date on which the Chief of Engineers determines to conduct a review—
+
+&emsp;&emsp;(A) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review conducted under this section; and
+
+&emsp;&emsp;(B) make publicly available, including on the Internet, information on—
+
+&emsp;&emsp;&emsp;(i) the dates scheduled for beginning and ending the review;
+
+&emsp;&emsp;&emsp;(ii) the entity that has the contract for the review; and
+
+&emsp;&emsp;&emsp;(iii) the names and qualifications of the panel of experts.
 
 #### (d) Duties of panels
 
@@ -148,13 +170,17 @@ A panel of experts established for a peer review for a project study under this 
 
 &emsp;After receiving a report on a project study from a panel of experts under this section and before entering a final record of decision for the project, the Chief of Engineers shall consider any recommendations contained in the report and prepare a written response for any recommendations adopted or not adopted.
 
-#### (2) Public availability and transmittal to Congress
+#### (2) Public availability and submission to Congress
 
-&emsp;After receiving a report on a project study from a panel of experts under this section, the Chief of Engineers shall—
+&emsp;After receiving a report on a project study from a panel of experts under this section, the Chief of Engineers shall make available to the public, including on the Internet, and submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
-&emsp;&emsp;(A) make a copy of the report and any written response of the Chief of Engineers on recommendations contained in the report available to the public by electronic means, including the Internet; and
+&emsp;&emsp;(A) a copy of the report not later than 7 days after the date on which the report is delivered to the Chief of Engineers; and
 
-&emsp;&emsp;(B) transmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a copy of the report, together with any such written response, on the date of a final report of the Chief of Engineers or other final decision document for the project study.
+&emsp;&emsp;(B) a copy of any written response of the Chief of Engineers on recommendations contained in the report not later than 3 days after the date on which the response is delivered to the Chief of Engineers.
+
+#### (3) Inclusion in project study
+
+&emsp;A report on a project study from a panel of experts under this section and the written response of the Chief of Engineers shall be included in the final decision document for the project study.
 
 #### (g) Costs
 
@@ -176,13 +202,13 @@ This section shall apply to—
 
 &emsp;(1) project studies initiated during the 2-year period preceding November 8, 2007, and for which the array of alternatives to be considered has not been identified; and
 
-&emsp;(2) project studies initiated during the period beginning on November 8, 2007, and ending 7 years after November 8, 2007.
+&emsp;(2) project studies initiated during the period beginning on November 8, 2007, and ending 12 years after November 8, 2007.
 
 #### (i) Reports
 
 #### (1) Initial report
 
-&emsp;Not later than 3 years after November 8, 2007, the Chief of Engineers shall submit to theCommittee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of this section.
+&emsp;Not later than 3 years after November 8, 2007, the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of this section.
 
 #### (2) Additional report
 
@@ -230,7 +256,7 @@ In this section, the following definitions apply:
 
 &emsp;The term "total cost", as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
 
-(Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086.)
+(Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, §1044, June 10, 2014, 128 Stat. 1250.)
 
 #### References in Text
 
@@ -241,4 +267,16 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(3)(A)(i). Pub. L. 113–121, §1044(a), substituted "$200,000,000" for "$45,000,000".
+
+Subsec. (b)(3), (4). Pub. L. 113–121, §1044(b), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (c)(4). Pub. L. 113–121, §1044(c), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review."
+
+Subsec. (f)(2), (3). Pub. L. 113–121, §1044(d), added pars. (2) and (3) and struck out former par. (2) which related to public availability and transmittal to Congress of a report on a project study from a panel of experts under this section.
+
+Subsec. (h)(2). Pub. L. 113–121, §1044(e), substituted "12 years" for "7 years".
 

@@ -22,7 +22,7 @@ Metropolitan Planning.—Any project carried out under this section in an urbani
 
 (f)
 
-Availability of Rights-of-Way.—In any case where sufficient land or air space exists within the publicly acquired rights-of-way of any highway, constructed in whole or in part with Federal-aid highway funds, to accommodate needed passenger, commuter, or high speed rail, magnetic levitation systems, and highwayand nonhighway public mass transit facilities, the Secretary shall authorize a State to make such lands, air space, and rights-of-way available with or without charge to a publicly or privately owned authority or company or any other person for such purposes if such accommodation will not adversely affect automotive safety.
+Availability of Rights-of-Way.—In any case where sufficient land or air space exists within the publicly acquired rights-of-way of any highway, constructed in whole or in part with Federal-aid highway funds, to accommodate needed passenger, commuter, or high speed rail, magnetic levitation systems, and highway and nonhighway public mass transit facilities, the Secretary shall authorize a State to make such lands, air space, and rights-of-way available with or without charge to a publicly or privately owned authority or company or any other person for such purposes if such accommodation will not adversely affect automotive safety.
 
 (g) The provision of assistance under subsection (a)(2) shall not be construed as bringing within the application of chapter 15 of title 5, United States Code, any non-supervisory employee of an urban mass transportation system (or of any other agency or entity performing related functions) to whom such chapter is otherwise inapplicable.
 
@@ -34,7 +34,7 @@ Availability of Rights-of-Way.—In any case where sufficient land or air space 
 
 #### References in Text
 
-Section 5323(a)(1)(D) of title 49, referred to in subsec. (i), was omitted in the general amendment of section 5323(a)(1) of Title 49, Transportation, by Pub. L. 109–59, Title III, §3023(a)(1), Aug. 10, 2005, 119 Stat. 1615.
+Section 5323(a)(1)(D) of title 49, referred to in subsec. (i), was omitted in the general amendment of section5323(a)(1) of Title 49, Transportation, by Pub. L. 109–59, Title III, §3023(a)(1), Aug. 10, 2005, 119 Stat. 1615.
 
 #### Amendments
 
@@ -132,7 +132,7 @@ Pub. L. 93–87, title I, §147, Aug. 13, 1973, 87 Stat. 274, as amended by Pub.
 
 #### Transportation for Elderly and Handicapped Persons
 
-Pub. L. 93–643, §105(a), Jan. 4, 1975, 88 Stat. 2282, provided that: "It is hereby declared to be the national policy that elderly and handicapped persons have the same right as other persons to utilize mass transportation facilities and services; that special efforts shall be made in the planning, design, construction, and operation of mass transportation facilities and services so that the availability to elderly and handicapped persons of mass transportation which they can effectively utilize will be assured; and that all Federal programs offering assistance for mass transportation (includingthe programs under title 23, United States Code, the Federal-Aid Highway Act of 1973, and this Act \[see Short Title of 1973 Amendment note under 101 of this title\]) effectively implement this policy."
+Pub. L. 93–643, §105(a), Jan. 4, 1975, 88 Stat. 2282, provided that: "It is hereby declared to be the national policy that elderly and handicapped persons have the same right as other persons to utilize mass transportation facilities and services; that special efforts shall be made in the planning, design, construction, and operation of mass transportation facilities and services so that the availability to elderly and handicapped persons of mass transportation which they can effectively utilize will be assured; and that all Federal programs offering assistance for mass transportation (including the programs under title 23, United States Code, the Federal-Aid Highway Act of 1973, and this Act \[see Short Title of 1973 Amendment note under 101 of this title\]) effectively implement this policy."
 
 #### Bus and Other Project Standards
 

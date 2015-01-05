@@ -18,7 +18,7 @@ Congress finds as follows:
 
 &emsp;(7) It is in the Nation's best interest to collect and catalog oral histories of American war veterans so that future generations will have original sources of information regarding the lives and times of those who served in war and the conditions under which they endured, so that Americans will always remember those who served in war and may learn first-hand of the heroics, tediousness, horrors, and triumphs of war.
 
-&emsp;(8) The Library of Congress, as the Nation's oldest Federal cultural institution and largest and most inclusive library in human history (with nearly 119,000,000 items in its multimedia collection) <sup>1</sup> is an appropriate repository to collect, preserve, and make available to thepublic an archive of these oral histories. The Library's American Folklife Center has expertise in the management of documentation projects and experience in the development of cultural and educational programs for the public.
+&emsp;(8) The Library of Congress, as the Nation's oldest Federal cultural institution and largest and most inclusive library in human history (with nearly 119,000,000 items in its multimedia collection) <sup>1</sup> is an appropriate repository to collect, preserve, and make available to the public an archive of these oral histories. The Library's American Folklife Center has expertise in the management of documentation projects and experience in the development of cultural and educational programs for the public.
 
 #### (b) Purpose
 

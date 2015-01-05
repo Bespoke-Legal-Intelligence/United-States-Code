@@ -10,7 +10,7 @@ The initial articles of incorporation for each Village Corporation shall be subj
 
 #### (c) Applicability of section 1606
 
-The provisions of subsections (g), (h) (other than paragraph (4)), and (o) of section 1606 of this title shall apply in all respects to VillageCorporations, Urban Corporations, and Group Corporations.
+The provisions of subsections (g), (h) (other than paragraph (4)), and (o) of section 1606 of this title shall apply in all respects to Village Corporations, Urban Corporations, and Group Corporations.
 
 (Pub. L. 92–203, §8, Dec. 18, 1971, 85 Stat. 694; Pub. L. 96–487, title XIV, §1401(b), Dec. 2, 1980, 94 Stat. 2492; Pub. L. 100–241, §6, Feb. 3, 1988, 101 Stat. 1795; Pub. L. 104–10, §1(b), May 18, 1995, 109 Stat. 157.)
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1\.](%C2%A7%2000001%20-%20%E2%80%9CMaritime%20transactions%E2%80%9D%20and%20%E2%80%9Ccommerce%E2%80%9D%20defined%3B%20exceptions%20to%20operation%20of%20title.md) | “Maritime transactions” and “commerce” defined; exceptions to operation of title. |
+| [1\.](%C2%A7%2000001%20-%20Maritime%20transactions%20and%20commerce%20defined%3B%20exceptions%20to%20operation%20of%20title.md) | "Maritime transactions" and "commerce" defined; exceptions to operation of title. |
 | [2\.](%C2%A7%2000002%20-%20Validity%2C%20irrevocability%2C%20and%20enforcement%20of%20agreements%20to%20arbitrate.md) | Validity, irrevocability, and enforcement of agreements to arbitrate. |
 | [3\.](%C2%A7%2000003%20-%20Stay%20of%20proceedings%20where%20issue%20therein%20referable%20to%20arbitration.md) | Stay of proceedings where issue therein referable to arbitration. |
 | [4\.](%C2%A7%2000004%20-%20Failure%20to%20arbitrate%20under%20agreement%3B%20petition%20to%20United%20States%20court%20having%20jurisdiction%20for%20order%20to%20compel%20arbitration%3B%20notice%20and%E2%80%A6.md) | Failure to arbitrate under agreement; petition to United States court having jurisdiction for order to compel arbitration; notice and service thereof; hearing and determination. |
@@ -23,18 +23,18 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–650, title III, §325(a)(2), Dec. 1, 1990, 104 Stat. 5120, added item 15 “Inapplicability of the Act of State doctrine” and redesignated former item 15 “Appeals” as 16.
+<b>1990</b>—Pub. L. 101–650, title III, §325(a)(2), Dec. 1, 1990, 104 Stat. 5120, added item 15 "Inapplicability of the Act of State doctrine" and redesignated former item 15 "Appeals" as 16.
 
 <b>1988</b>—Pub. L. 100–702, title X, §1019(b), Nov. 19, 1988, 102 Stat. 4671, added item 15 relating to appeals.
 
-<b>1970</b>—Pub. L. 91–368, §3, July 31, 1970, 84 Stat. 693, designated existing sections 1 through 14 as “Chapter 1” and added heading for Chapter 1.
+<b>1970</b>—Pub. L. 91–368, §3, July 31, 1970, 84 Stat. 693, designated existing sections 1 through 14 as "Chapter 1" and added heading for Chapter 1.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00001 - &#8220;Maritime transactions&#8221; and &#8220;commerce&#8221; defined; exceptions to operation of title](%C2%A7%2000001%20-%20%E2%80%9CMaritime%20transactions%E2%80%9D%20and%20%E2%80%9Ccommerce%E2%80%9D%20defined%3B%20exceptions%20to%20operation%20of%20title.md)
+- [&sect; 00001 - Maritime transactions and commerce defined; exceptions to operation of title](%C2%A7%2000001%20-%20Maritime%20transactions%20and%20commerce%20defined%3B%20exceptions%20to%20operation%20of%20title.md)
 - [&sect; 00002 - Validity, irrevocability, and enforcement of agreements to arbitrate](%C2%A7%2000002%20-%20Validity%2C%20irrevocability%2C%20and%20enforcement%20of%20agreements%20to%20arbitrate.md)
 - [&sect; 00003 - Stay of proceedings where issue therein referable to arbitration](%C2%A7%2000003%20-%20Stay%20of%20proceedings%20where%20issue%20therein%20referable%20to%20arbitration.md)
 - [&sect; 00004 - Failure to arbitrate under agreement; petition to United States court having jurisdiction for order to compel arbitration; notice and&#8230;](%C2%A7%2000004%20-%20Failure%20to%20arbitrate%20under%20agreement%3B%20petition%20to%20United%20States%20court%20having%20jurisdiction%20for%20order%20to%20compel%20arbitration%3B%20notice%20and%E2%80%A6.md)

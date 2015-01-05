@@ -46,7 +46,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 &emsp;&emsp;&emsp;(i) uses an alternative nuclear reactor fuel; or
 
-&emsp;&emsp;&emsp;(ii) is the subject of an agreement with the United States Government to convertto an alternative nuclear reactor fuel when alternative nuclear reactor fuel can be used in the reactor.
+&emsp;&emsp;&emsp;(ii) is the subject of an agreement with the United States Government to convert to an alternative nuclear reactor fuel when alternative nuclear reactor fuel can be used in the reactor.
 
 #### (3) Review of physical protection requirements
 

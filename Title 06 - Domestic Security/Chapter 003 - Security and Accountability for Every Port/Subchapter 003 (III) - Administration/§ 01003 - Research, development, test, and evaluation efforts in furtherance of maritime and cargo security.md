@@ -6,7 +6,7 @@ The Secretary shall—
 
 &emsp;(1) direct research, development, testing, and evaluation efforts in furtherance of maritime and cargo security;
 
-&emsp;(2) coordinate with public and private sector entities to develop and test technologies, and process innovations in furtherance of these objectives; and
+&emsp;(2) coordinate with public and private sector entities to develop and test technologies, andprocess innovations in furtherance of these objectives; and
 
 &emsp;(3) evaluate such technologies.
 

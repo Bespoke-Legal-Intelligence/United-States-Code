@@ -30,7 +30,7 @@ Nothing in this section shall be construed to limit or otherwise affect the appl
 
 #### (e) Validity of leases
 
-No lease of trust or restricted interests in a parcel of land that is owner-managed under thissection shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
+No lease of trust or restricted interests in a parcel of land that is owner-managed under this section shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
 
 &emsp;(1) is consistent with, and entered into in accordance with, the requirements of this section; or
 

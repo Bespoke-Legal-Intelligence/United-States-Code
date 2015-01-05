@@ -54,6 +54,16 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 &emsp;&emsp;(D) carry out such other duties as are prescribed by the Secretary.
 
+#### (3) Deep draft navigation planning center of expertise
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall consolidate deep draft navigation expertise within the Corps of Engineers into a deep draft navigation planning center of expertise.
+
+#### (B) List
+
+&emsp;&emsp;Not later than 60 days after the date of the consolidation required under subparagraph (A), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of the grade levels and expertise of each of the personnel assigned to the center described in subparagraph (A).
+
 #### (f) Completion of Corps of Engineers reports
 
 #### (1) Alternatives
@@ -100,7 +110,7 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 &emsp;Not later than 180 days after November 8, 2007, with respect to any report of the Chief of Engineers recommending a water resources project that is complete prior to November 8, 2007, the Secretary shall complete review of, and provide recommendations to Congress for, the report in accordance with paragraph (1).
 
-(Pub. L. 110–114, title II, §2033, Nov. 8, 2007, 121 Stat. 1084.)
+(Pub. L. 110–114, title II, §2033, Nov. 8, 2007, 121 Stat. 1084; Pub. L. 113–121, title II, §2103, June 10, 2014, 128 Stat. 1278.)
 
 #### References in Text
 
@@ -110,7 +120,11 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is
 
 Section is comprised of section 2033 of Pub. L. 110–114. Subsec. (a) of section 2033 of Pub. L. 110–114 amended section 2281 of this title.
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (e)(3). Pub. L. 113–121 added par. (3).
 
 #### "Secretary" Defined
 

@@ -25,6 +25,7 @@ Part A—General Provisions
 - [&sect; 01313 - Assistance for United States citizens returned from foreign countries](%C2%A7%2001313%20-%20Assistance%20for%20United%20States%20citizens%20returned%20from%20foreign%20countries.md)
 - [&sect; 01314 - Public advisory groups](%C2%A7%2001314%20-%20Public%20advisory%20groups.md)
 - [&sect; 01314a - Measurement and reporting of welfare receipt](%C2%A7%2001314a%20-%20Measurement%20and%20reporting%20of%20welfare%20receipt.md)
+- [&sect; 01314b - National Advisory Committee on the Sex Trafficking of Children and Youth in the United States](%C2%A7%2001314b%20-%20National%20Advisory%20Committee%20on%20the%20Sex%20Trafficking%20of%20Children%20and%20Youth%20in%20the%20United%20States.md)
 - [&sect; 01315 - Demonstration projects](%C2%A7%2001315%20-%20Demonstration%20projects.md)
 - [&sect; 01315a - Center for Medicare and Medicaid Innovation](%C2%A7%2001315a%20-%20Center%20for%20Medicare%20and%20Medicaid%20Innovation.md)
 - [&sect; 01315b - Providing Federal coverage and payment coordination for dual eligible beneficiaries](%C2%A7%2001315b%20-%20Providing%20Federal%20coverage%20and%20payment%20coordination%20for%20dual%20eligible%20beneficiaries.md)

@@ -56,7 +56,7 @@
 
 #### (G) Repayment
 
-&emsp;&emsp;If the deficiency payment payable to a producer for a crop, as finally determined bythe Secretary under this Act, is less than the amount paid to the producer as an advance deficiency payment for the crop under this subsection, the producer shall repay an amount equal to the difference between the amount advanced and the amount finally determined by the Secretary to be payable to the producer as a deficiency payment for the crop concerned.
+&emsp;&emsp;If the deficiency payment payable to a producer for a crop, as finally determined by the Secretary under this Act, is less than the amount paid to the producer as an advance deficiency payment for the crop under this subsection, the producer shall repay an amount equal to the difference between the amount advanced and the amount finally determined by the Secretary to be payable to the producer as a deficiency payment for the crop concerned.
 
 #### (H) Repayment requirement
 
@@ -124,7 +124,7 @@ Subsec. (c). Pub. L. 101–508 substituted "wheat and feed grains which payments
 
 Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii) and struck out former cl. (iii) which read as follows: "50 percent of the projected payment rate,". See Effective and Termination Dates of 1987 Amendment note below.
 
-<b>1985</b>—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feedgrains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
+<b>1985</b>—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
 
 #### Effective Date of 1990 Amendments
 
@@ -142,7 +142,7 @@ Pub. L. 100–203, title I, §1110, Dec. 22, 1987, 101 Stat. 1330–6, provided 
 
 #### Effective and Termination Dates of 1985 Amendment
 
-That portion of section 1002 of Pub. L. 99–198 which provided that the amendment made by that section was effective only for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice, was struck out by section 1121(c) of Pub. L. 101–624.
+That portion of section 1002 of Pub. L. 99–198 which provided that the amendment made by that section waseffective only for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice, was struck out by section 1121(c) of Pub. L. 101–624.
 
 #### Effective and Termination Dates
 
@@ -230,7 +230,7 @@ In general.—Notwithstanding any other provision of law, effective only for pro
 
 Application.—This subparagraph shall apply if—
 
-&emsp;"(A) the producers received an advance deficiency payment for the 1988 or 1989 crop of a commodityunder section 107C(a) of the Agricultural Act of 1949 (7 U.S.C. 1445b–2(a));
+&emsp;"(A) the producers received an advance deficiency payment for the 1988 or 1989 crop of a commodity under section 107C(a) of the Agricultural Act of 1949 (7 U.S.C. 1445b–2(a));
 
 &emsp;"(B) the producers are required to provide a refund of at least $1,500 under subparagraph (G) or (H) of section 107C(a)(2) of such Act with respect to the advance deficiency payments;
 

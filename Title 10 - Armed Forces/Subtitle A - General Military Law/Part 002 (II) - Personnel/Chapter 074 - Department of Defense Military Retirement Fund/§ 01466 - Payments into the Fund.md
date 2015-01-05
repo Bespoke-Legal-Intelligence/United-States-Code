@@ -16,7 +16,7 @@
 
 > Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.
 
-(b)(1) At the beginning of each fiscal year the Secretary of the Treasury shall promptly payinto the Fund from the General Fund of the Treasury the amount certified to the Secretary by the Secretary of Defense under paragraph (3). Such payment shall be the contribution to the Fund for that fiscal year required by sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3) of this title.
+(b)(1) At the beginning of each fiscal year the Secretary of the Treasury shall promptly pay into the Fund from the General Fund of the Treasury the amount certified to the Secretary by the Secretary of Defense under paragraph (3). Such payment shall be the contribution to the Fund for that fiscal year required by sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3) of this title.
 
 (2) At the beginning of each fiscal year the Secretary of Defense shall determine the sum of the following:
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 99–661 applicable to payments required to be made under s
 
 Amendment by section 101(c) \[title IX, §9131\] of Pub. L. 99–500 and Pub. L. 99–591 effective Oct. 18, 1986, and applicable to payments required to be made under subsec. (a) of this section for months beginning on or after that date, see section 642(c) of S. 2638, as enacted into law, set out as a note under section 1465 of this title.
 
-Amendment by section 101(c) \[title IX, §9103(3)\] of Pub. L. 99–500 and Pub. L. 99–591 effective Sept. 1, 1987, see section 101(c) \[title IX, §9103(4)\] of Pub. L. 99–500 and Pub. L. 99–591, as amended, set out as an Effective Date note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by section 101(c) \[title IX, §9103(3)\] of Pub. L. 99–500 and Pub. L. 99–591 effective Sept. 1, 1987,see section 101(c) \[title IX, §9103(4)\] of Pub. L. 99–500 and Pub. L. 99–591, as amended, set out as an Effective Date note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date
 

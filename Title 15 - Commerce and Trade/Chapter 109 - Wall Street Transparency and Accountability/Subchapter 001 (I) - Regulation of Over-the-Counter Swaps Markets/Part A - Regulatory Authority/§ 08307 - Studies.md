@@ -82,7 +82,7 @@
 
 #### (B) Regulations
 
-&emsp;&emsp;If the Commissions determine that stable value contracts fall within the definition of a swap, the Commissions jointly shall determine if an exemption for stable value contracts from the definition of swap is appropriate and in the public interest. The Commissions shall issue regulations implementing the determinations required under this paragraph. Until the effective date of such regulations, and notwithstanding any otherprovision of this title,<sup>1</sup> the requirements of this title <sup>1</sup> shall not apply to stable value contracts.
+&emsp;&emsp;If the Commissions determine that stable value contracts fall within the definition of a swap, the Commissions jointly shall determine if an exemption for stable value contracts from the definition of swap is appropriate and in the public interest. The Commissions shall issue regulations implementing the determinations required under this paragraph. Until the effective date of such regulations, and notwithstanding any other provision of this title,<sup>1</sup> the requirements of this title <sup>1</sup> shall not apply to stable value contracts.
 
 #### (C) Legal certainty
 

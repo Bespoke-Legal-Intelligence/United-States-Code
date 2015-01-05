@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) at an Armed Forces post office established in an overseas area, as designated by the President, where the Armed Forces of the United States are engaged in action against an enemy of the United States, engaged in military operations involving armed conflict with a hostile foreign force, or serving with a friendly foreign force in an armed conflict in which the United States is not a belligerent; or
 
-&emsp;&emsp;&emsp;(ii) while hospitalized in a facility under the jurisdiction of the Armed Forces of the United States as a result of disease or injury incurred as a result of services in an overseas area designated by the President under clause (D)(i) of this paragraph; and
+&emsp;&emsp;&emsp;(ii) while hospitalized in a facility under the jurisdiction of the Armed Forces of theUnited States as a result of disease or injury incurred as a result of services in an overseas area designated by the President under clause (D)(i) of this paragraph; and
 
 &emsp;&emsp;(E) the nation in whose armed forces the sender is a member has agreed to assume all international postal transportation charges incurred.
 
@@ -60,7 +60,7 @@
 
 Pub. L. 110–405, §2(b)(10)(A)–(C), substituted "or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title" for "at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49", struck out "at rates not to exceed those so fixed and determined for scheduled United States air carriers" after "military aircraft", and substituted "certificated" for "scheduled" wherever appearing.
 
-Subsec. (c). Pub. L. 110–405, §2(b)(10)(D), struck out at end "If adequate service by certificated United States air carriers and military aircraft is not available, any such parcel may be transported by other than certificated United States air carriers and military aircraft.".
+Subsec. (c). Pub. L. 110–405, §2(b)(10)(D), struck out at end "If adequate service by certificated United Statesair carriers and military aircraft is not available, any such parcel may be transported by other than certificated United States air carriers and military aircraft.".
 
 Pub. L. 110–405, §2(b)(10)(A)–(C), substituted "or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title" for "at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49", struck out "at rates not to exceed those so fixed and determined for scheduled United States air carriers" after "military aircraft", and substituted "certificated" for "scheduled" wherever appearing.
 

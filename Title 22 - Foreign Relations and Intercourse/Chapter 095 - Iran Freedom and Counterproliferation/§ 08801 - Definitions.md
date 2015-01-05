@@ -78,7 +78,7 @@ For purposes of this chapter, in determining if financial transactions or financ
 
 This chapter, referred to in text, was in the original "this subtitle", meaning subtitle D (§§1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out below and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (a)(6), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a)(6), is title II of Pub. L. 95–223,Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Short Title
 
@@ -160,7 +160,7 @@ I hereby delegate functions and authorities vested in the President by CISADA, a
 
 • Section 105C(a)(1) to the Secretary of State, with respect to the requirement to impose or maintain visa sanctions; and
 
-• Section 401(b) to the Secretary of State, in consultation with the Secretary of Homeland Security onmatters related to admissibility or inadmissibility within the authority of the Secretary of Homeland Security, with respect to functions and waiver authorities regarding the requirement to impose or maintain visa sanctions under sections \[sic\] 105C(a)(1).
+• Section 401(b) to the Secretary of State, in consultation with the Secretary of Homeland Security on matters related to admissibility or inadmissibility within the authority of the Secretary of Homeland Security, with respect to functions and waiver authorities regarding the requirement to impose or maintain visa sanctions under sections \[sic\] 105C(a)(1).
 
 Any reference in this memorandum to provisions of any Act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provisions of law that is the same or substantially the same as such provisions.
 

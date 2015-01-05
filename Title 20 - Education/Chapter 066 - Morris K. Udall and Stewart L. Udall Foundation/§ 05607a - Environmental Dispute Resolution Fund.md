@@ -38,7 +38,7 @@ The Fund shall be maintained separately from the Trust Fund established under se
 
 &emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
 
-(Pub. L. 102–259, §10, as added Pub. L. 105–156, §6(b), Feb. 11, 1998, 112 Stat. 10; amended Pub. L.105–277, div. A, §101(h) \[title V, §517(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512.)
+(Pub. L. 102–259, §10, as added Pub. L. 105–156, §6(b), Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512.)
 
 #### Prior Provisions
 

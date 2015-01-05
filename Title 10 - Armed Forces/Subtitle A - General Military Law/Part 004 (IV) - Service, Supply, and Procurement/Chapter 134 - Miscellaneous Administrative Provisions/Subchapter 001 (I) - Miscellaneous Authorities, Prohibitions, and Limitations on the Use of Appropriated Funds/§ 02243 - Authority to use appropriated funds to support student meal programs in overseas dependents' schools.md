@@ -14,7 +14,7 @@ Determining Average Price.—In determining the average price paid by students i
 
 (d)
 
-Overseas Meal Program Defined.—In this section, the term "overseas meal program" means a program administered by the Secretaryof Defense to provide breakfasts or lunches to students attending Department of Defense dependents' schools which are located outside the United States.
+Overseas Meal Program Defined.—In this section, the term "overseas meal program" means a program administered by the Secretary of Defense to provide breakfasts or lunches to students attending Department of Defense dependents' schools which are located outside the United States.
 
 (Added Pub. L. 101–189, div. A, title III, §326(a), Nov. 29, 1989, 103 Stat. 1415; amended Pub. L. 106–78, title VII, §752(b)(7), Oct. 22, 1999, 113 Stat. 1169.)
 

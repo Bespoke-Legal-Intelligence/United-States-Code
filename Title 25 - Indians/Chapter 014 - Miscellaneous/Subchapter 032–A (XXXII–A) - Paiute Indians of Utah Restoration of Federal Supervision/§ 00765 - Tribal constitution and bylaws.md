@@ -12,7 +12,7 @@ Upon the written request of the Interim Council, the Secretary shall conduct an 
 
 #### (b) Pre-election duties and functions of Interim Council
 
-The Interim Council shall draft and distribute to each member described in section 763(d) of this title, no later than thirty days before the election under subsection (a) of this section, a copy of the proposed constitution and bylaws of the tribe, as drafted by the Interim Council, along with a brief and impartial description of the proposed constitution and bylaws. The members of the Interim Council may freely consult with members of the tribe concerning the text and description of the constitution and bylaws, except that such consultation may not be carried on within fifty feet of the polling places on the date of the election.
+The Interim Council shall draft and distribute to each member described in section 763(d) of this title, no later than thirty days before theelection under subsection (a) of this section, a copy of the proposed constitution and bylaws of the tribe, as drafted by the Interim Council, along with a brief and impartial description of the proposed constitution and bylaws. The members of the Interim Council may freely consult with members of the tribe concerning the text and description of the constitution and bylaws, except that such consultation may not be carried on within fifty feet of the polling places on the date of the election.
 
 #### (c) Majority vote for adoption
 
@@ -20,7 +20,7 @@ In any election held pursuant to subsection (a) of this section, a vote of a maj
 
 #### (d) Election of tribal officials pursuant to constitution and bylaws; ballot requirements
 
-Not later than one hundred and twenty days after the tribe adopts a constitution and bylaws,the Interim Council shall conduct an election by secret ballot for the purpose of electing the individuals who will serve as tribal officials as provided in the tribal constitution and bylaws. For the purpose of this election and notwithstanding any provision in the tribal constitution and bylaws to the contrary, absentee balloting shall be permitted.
+Not later than one hundred and twenty days after the tribe adopts a constitution and bylaws, the Interim Council shall conduct an election by secret ballot for the purpose of electing the individuals who will serve as tribal officials as provided in the tribal constitution and bylaws. For the purpose of this election and notwithstanding any provision in the tribal constitution and bylaws to the contrary, absentee balloting shall be permitted.
 
 (Pub. L. 96–227, §6, Apr. 3, 1980, 94 Stat. 319.)
 

@@ -82,7 +82,7 @@ To the extent practicable, the Secretary shall ensure an equitable geographic di
 
 &emsp;&emsp;(C) Carrying out placement and ongoing activities to ensure that teachers are placed in fields in which the teachers are highly qualified to teach and are placed in high-need schools.
 
-&emsp;&emsp;(D) Making payments to pay for costs associated with accepting teachers recruited under this section from among eligible participants or provide financial incentives to prospective teachers who are eligible participants.
+&emsp;&emsp;(D) Making payments to pay for costs associated with accepting teachers recruitedunder this section from among eligible participants or provide financial incentives to prospective teachers who are eligible participants.
 
 &emsp;&emsp;(E) Collaborating with institutions of higher education in developing and implementing programs to facilitate teacher recruitment (including teacher credentialing) and teacher retention programs.
 

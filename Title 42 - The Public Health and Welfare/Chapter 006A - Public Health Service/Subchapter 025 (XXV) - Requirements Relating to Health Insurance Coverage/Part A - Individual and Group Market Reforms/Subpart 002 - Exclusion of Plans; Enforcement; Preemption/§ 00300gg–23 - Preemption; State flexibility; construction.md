@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the provisions of this part relating to health insurance coverage offered by a health insurance issuer supersede any provision of State law which establishes, implements, or continues in effect a standard or requirement applicable to imposition of a preexisting condition exclusion specifically governed by section 701 <sup>1</sup> which differs from the standards or requirements specified in such section.
+&emsp;Subject to paragraph (2), the provisions of this part relating to health insurance coverageoffered by a health insurance issuer supersede any provision of State law which establishes, implements, or continues in effect a standard or requirement applicable to imposition of a preexisting condition exclusion specifically governed by section 701 <sup>1</sup> which differs from the standards or requirements specified in such section.
 
 #### (2) Exceptions
 
@@ -58,7 +58,7 @@ Section 2701, referred to in subsec. (b), is a reference to section 2701 of act 
 
 Section 701, referred to in subsec. (b)(1), probably means "section 2701" of act July 1, 1944. See note above.
 
-Section 2704, referred to in subsec. (c), is a reference to section 2704 of act July 1, 1944. Section 2704, whichwas classified to section 300gg–4 of this title, was renumbered section 2725, and amended by Pub. L. 111–148, title I, §§1001(2), 1563(c)(3), formerly §1562(c)(3), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911, and was transferred to section 300gg–25 of this title. A new section 2704 of act July 1, 1944, related to prohibition of preexisting condition exclusions or other discrimination based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and is classified to section 300gg–3 of this title.
+Section 2704, referred to in subsec. (c), is a reference to section 2704 of act July 1, 1944. Section 2704, which was classified to section 300gg–4 of this title, was renumbered section 2725, and amended by Pub. L. 111–148, title I, §§1001(2), 1563(c)(3), formerly §1562(c)(3), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911, and was transferred to section 300gg–25 of this title. A new section 2704 of act July 1, 1944, related to prohibition of preexisting condition exclusions or other discrimination based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and is classified to section 300gg–3 of this title.
 
 #### Amendments
 

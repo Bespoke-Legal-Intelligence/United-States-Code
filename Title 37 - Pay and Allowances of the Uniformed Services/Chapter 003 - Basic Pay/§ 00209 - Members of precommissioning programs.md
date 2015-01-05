@@ -24,7 +24,7 @@ Pay While Attending Training or Practice Cruise.—Each cadet or midshipman in t
 
 Members of Marine Corps Officer Candidate Program.—Except when serving on active duty, a member who is enrolled in a Marine Corps officer candidate program which requires a baccalaureate degree as a prerequisite to being commissioned as an officer and who is not enrolled in a program established under chapter 103 of title 10 or an academy established under chapter 403, 603, or 903 of title 10 may be paid a subsistence allowance at a monthly rate prescribed under subsection (a) for a member of the Senior Reserve Officers' Training Corps who is selected for advanced training under section 2104 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–647, title II, §202(2), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–51, §3, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, §51, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–171, §1, Nov. 24, 1971, 85 Stat. 490; Pub. L. 95–79, title III, §302(a)(3), July 30, 1977, 91 Stat. 326; Pub. L. 96–342, title VIII, §811(a), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 96–513, title V, §516(4), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §8, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 98–94, title X, §1003(a)(4), Sept. 24, 1983, 97 Stat. 656; Pub. L. 100–456, div. A, title VI, §633(d), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–189, div. A, title VI, §653(d), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §603(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 106–65, div. A, title V, §546(a), Oct. 5, 1999, 113 Stat. 608; Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(b), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title V, §535(b), Dec. 28, 2001, 115 Stat. 1107; Pub. L. 107–314, div. A, title X, §1062(g)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title V, §523(a), Nov. 24, 2003, 117 Stat. 1463.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–647, title II, §202(2), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–51, §3, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, §51, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–171, §1, Nov. 24, 1971, 85 Stat. 490; Pub. L. 95–79, title III, §302(a)(3), July 30, 1977, 91 Stat. 326; Pub. L. 96–342, title VIII, §811(a), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 96–513, title V, §516(4), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §8, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 98–94, title X, §1003(a)(4), Sept. 24, 1983, 97 Stat. 656; Pub. L. 100–456, div. A, title VI, §633(d), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–189, div. A, title VI, §653(d), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §603(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 106–65, div. A, title V, §546(a), Oct. 5, 1999, 113 Stat. 608; Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(b), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title V, §535(b), Dec. 28, 2001, 115 Stat.1107; Pub. L. 107–314, div. A, title X, §1062(g)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title V, §523(a), Nov. 24, 2003, 117 Stat. 1463.)
 
 Historical and Revision Notes
 
@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(2)\], inser
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(3)\], inserted heading.
 
-Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(4)(B)\], as amended by Pub. L. 107–314, substituted "a monthly rate prescribed under subsection\(a)" for "the same rate as that prescribed by subsection (a)".
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(4)(B)\], as amended by Pub. L. 107–314, substituted "a monthly rate prescribed under subsection (a)" for "the same rate as that prescribed by subsection (a)".
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(4)(A)\], inserted heading.
 
@@ -116,7 +116,7 @@ Pub. L. 107–314, div. A, title X, §1062(g), Dec. 2, 2002, 116 Stat. 2651, pro
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 1 \[\[div. A\], title VI, §612(b)\] of Pub. L. 106–398 effective Oct. 1, 2001, see section 1 \[\[div. A\], title VI, §612(d)\] of Pub. L. 106–398, set out as a note under section 203 of this title.
+Amendment by section 1 \[\[div. A\], title VI, §612(b)\] of Pub. L. 106–398 effective Oct. 1, 2001, see section 1 \[\[div.A\], title VI, §612(d)\] of Pub. L. 106–398, set out as a note under section 203 of this title.
 
 #### Effective Date of 1999 Amendment
 

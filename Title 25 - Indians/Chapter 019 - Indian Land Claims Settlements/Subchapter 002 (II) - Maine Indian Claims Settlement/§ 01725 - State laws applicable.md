@@ -2,13 +2,13 @@
 
 #### (a) Civil and criminal jurisdiction of the State and the courts of the State; laws of the State
 
-Except as provided in section 1727(e) and section 1724(d)(4) of this title, all Indians, Indian nations, or tribes or bands of Indians in the State of Maine, other than the PassamaquoddyTribe, the Penobscot Nation, and their members, and any lands or natural resources owned by any such Indian, Indian nation, tribe or band of Indians and any lands or natural resources held in trust by the United States, or by any other person or entity, for any such Indian, Indian nation, tribe, or band of Indians shall be subject to the civil and criminal jurisdiction of the State, the laws of the State, and the civil and criminal jurisdiction of the courts of the State, to the same extent as any other person or land therein.
+Except as provided in section 1727(e) and section 1724(d)(4) of this title, all Indians, Indian nations, or tribes or bands of Indians in the State of Maine, other than the Passamaquoddy Tribe, the Penobscot Nation, and their members, and any lands or natural resources owned by any such Indian, Indian nation, tribe or band of Indians and any lands or natural resources held in trust by the United States, or by any other person or entity, for any such Indian, Indian nation, tribe, or band of Indians shall be subject to the civil and criminal jurisdiction of the State, the laws of the State, and the civil and criminal jurisdiction of the courts of the State, to the same extent as any other person or land therein.
 
 #### (b) Jurisdiction of State of Maine and utilization of local share of funds pursuant to the Maine Implementing Act; Federal laws or regulations governing services or benefits unaffected unless expressly so provided; report to Congress of comparative Federal and State funding for Maine and other States
 
 (1) The Passamaquoddy Tribe, the Penobscot Nation, and their members, and the land and natural resources owned by, or held in trust for the benefit of the tribe, nation, or their members, shall be subject to the jurisdiction of the State of Maine to the extent and in the manner provided in the Maine Implementing Act and that Act is hereby approved, ratified, and confirmed.
 
-(2) Funds appropriated for the benefit of Indian people or for the administration of Indian affairs may be utilized, consistent with the purposes for which they are appropriated, by the Passamaquoddy Tribe and the Penobscot Nation to provide part or all of the local share as provided by the Maine Implementing Act.
+(2) Funds appropriated for the benefit of Indian people or for the administration of Indian affairs may be utilized, consistent with the purposes for which they are appropriated, by the Passamaquoddy Tribe and the Penobscot Nationto provide part or all of the local share as provided by the Maine Implementing Act.
 
 (3) Nothing in this section shall be construed to supersede any Federal laws or regulations governing the provision or funding of services or benefits to any person or entity in the State of Maine unless expressly provided by this subchapter.
 
@@ -36,7 +36,7 @@ The Passamaquoddy Tribe and the Penobscot Nation are hereby authorized to exerci
 
 #### (g) Full faith and credit
 
-The Passamaquoddy Tribe, the Penobscot Nation, and the State of Maine shall give full faithand credit to the judicial proceedings of each other.
+The Passamaquoddy Tribe, the Penobscot Nation, and the State of Maine shall give full faith and credit to the judicial proceedings of each other.
 
 #### (h) General laws and regulations affecting Indians applicable, but special laws and regulations inapplicable, in State of Maine
 
@@ -44,7 +44,7 @@ Except as other wise <sup>1</sup> provided in this subchapter, the laws and reg
 
 #### (i) Eligibility for Federal special programs and services regardless of reservation status
 
-As federally recognized Indian tribes, the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall be eligible to receive all of the financial benefits which the United States provides to Indians, Indian nations, or tribes or bands of Indians to the same extent and subject to the same eligibility criteria generally applicable to other Indians, Indian nations or tribes or bands of Indians. The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall be treated in the same manner as other federally recognized tribes for the purposes of Federal taxation and any lands which are held by the respective tribe, nation, or band subject to a restriction against alienation or which are held in trust for the benefit of the respective tribe, nation, or band shall be considered Federal Indian reservations for purposes of Federal taxation. Notwithstanding any other provision of law authorizing the provision of special programs and services by the United States to Indians because of their status as Indians, any member of the Houlton Band of Maliseet Indians in or near the town of Houlton, Maine, shall be eligible for such programs and services without regard to the existence of a reservation or of the residence of such member on or near a reservation.
+As federally recognized Indian tribes, the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall be eligible to receive all of the financial benefits which the United States provides to Indians, Indian nations, or tribes or bands of Indians to thesame extent and subject to the same eligibility criteria generally applicable to other Indians, Indian nations or tribes or bands of Indians. The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall be treated in the same manner as other federally recognized tribes for the purposes of Federal taxation and any lands which are held by the respective tribe, nation, or band subject to a restriction against alienation or which are held in trust for the benefit of the respective tribe, nation, or band shall be considered Federal Indian reservations for purposes of Federal taxation. Notwithstanding any other provision of law authorizing the provision of special programs and services by the United States to Indians because of their status as Indians, any member of the Houlton Band of Maliseet Indians in or near the town of Houlton, Maine, shall be eligible for such programs and services without regard to the existence of a reservation or of the residence of such member on or near a reservation.
 
 (Pub. L. 96–420, §6, Oct. 10, 1980, 94 Stat. 1793; Pub. L. 97–428, §3, Jan. 8, 1983, 96 Stat. 2268.)
 

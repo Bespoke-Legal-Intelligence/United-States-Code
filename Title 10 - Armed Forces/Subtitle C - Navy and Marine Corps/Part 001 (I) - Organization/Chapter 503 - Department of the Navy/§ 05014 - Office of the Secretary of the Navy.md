@@ -36,7 +36,7 @@
 
 &emsp;(G) Public affairs.
 
-(2) The Secretary of the Navy shall establish or designate a single office or other entity within the Office of the Secretary of the Navy to conduct each function specified in paragraph (1).No office or other entity may be established or designated within the Office of the Chief of Naval Operations or the Headquarters, Marine Corps, to conduct any of the functions specified in paragraph (1).
+(2) The Secretary of the Navy shall establish or designate a single office or other entity within the Office of the Secretary of the Navy to conduct each function specified in paragraph (1). No office or other entity may be established or designated within the Office of the Chief of Naval Operations or the Headquarters, Marine Corps, to conduct any of the functions specified in paragraph (1).
 
 (3) The Secretary shall—
 

@@ -28,7 +28,7 @@ In this section:
 
 A State shall be eligible to receive an allocation under subsection (c) if the State—
 
-&emsp;(1) establishes (or has established) a State energy efficient appliance rebate program to provide rebates to residential consumers for the purchase of residential Energy Star products, or products with improved energy efficiency in cold climates, to replace used appliances of the same type;
+&emsp;(1) establishes (or has established) a State energy efficient appliance rebate program toprovide rebates to residential consumers for the purchase of residential Energy Star products, or products with improved energy efficiency in cold climates, to replace used appliances of the same type;
 
 &emsp;(2) submits an application for the allocation at such time, in such form, and containing such information as the Secretary may require; and
 

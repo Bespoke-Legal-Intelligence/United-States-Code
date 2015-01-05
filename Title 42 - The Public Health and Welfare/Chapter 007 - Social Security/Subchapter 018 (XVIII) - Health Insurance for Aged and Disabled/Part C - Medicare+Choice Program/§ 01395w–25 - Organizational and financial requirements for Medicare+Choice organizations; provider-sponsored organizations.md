@@ -22,7 +22,7 @@
 
 #### (C) Denial of application based on discriminatory treatment
 
-&emsp;&emsp;The ground for approval of such a waiver application described in this subparagraph isthat the State has denied such a licensing application and—
+&emsp;&emsp;The ground for approval of such a waiver application described in this subparagraph is that the State has denied such a licensing application and—
 
 &emsp;&emsp;&emsp;(i) the standards or review process imposed by the State as a condition of approval of the license imposes any material requirements, procedures, or standards (other than solvency requirements) to such organizations that are not generally applicable to other entities engaged in a substantially similar business, or
 
@@ -82,11 +82,11 @@
 
 #### (iii) Enforcement
 
-&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary may enter into an agreement with the State under which the State agrees to provide for monitoring and enforcement activities with respect to compliance of such an organization and its Medicare+Choice plans with such standards. Such monitoring and enforcement shall be conducted by the State in the same manner as the State enforces such standards with respect to other Medicare+Choice organizations and plans, without discrimination based on the type of organization to which the standards apply. Such an agreement shall specify or establish mechanisms by which compliance activities are undertaken, while not lengthening the time required to review and process applications for waivers under this paragraph.
+&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary may enter into an agreement with the State under which the State agrees to provide for monitoring and enforcement activities with respect to compliance of such an organization and its Medicare+Choice plans with such standards. Such monitoring and enforcement shall be conducted by the State in the same manner as the State enforces such standards with respect to otherMedicare+Choice organizations and plans, without discrimination based on the type of organization to which the standards apply. Such an agreement shall specify or establish mechanisms by which compliance activities are undertaken, while not lengthening the time required to review and process applications for waivers under this paragraph.
 
 #### (H) Report
 
-&emsp;&emsp;By not later than December 31, 2001, the Secretary shall submit to the Committee on Ways and Means and the Committee onCommerce of the House of Representatives and the Committee on Finance of the Senate a report regarding whether the waiver process under this paragraph should be continued after December 31, 2002. In making such recommendation, the Secretary shall consider, among other factors, the impact of such process on beneficiaries and on the long-term solvency of the program under this subchapter.
+&emsp;&emsp;By not later than December 31, 2001, the Secretary shall submit to the Committee on Ways and Means and the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate a report regarding whether the waiver process under this paragraph should be continued after December 31, 2002. In making such recommendation, the Secretary shall consider, among other factors, the impact of such process on beneficiaries and on the long-term solvency of the program under this subchapter.
 
 #### (3) Licensure does not substitute for or constitute certification
 

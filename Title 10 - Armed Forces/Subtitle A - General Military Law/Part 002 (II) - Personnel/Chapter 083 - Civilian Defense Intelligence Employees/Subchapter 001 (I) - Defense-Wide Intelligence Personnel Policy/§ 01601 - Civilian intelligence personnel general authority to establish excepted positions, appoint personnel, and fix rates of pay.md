@@ -58,7 +58,7 @@ Suspension of Certain Pay Authority.—Effective with respect to amounts paid du
 
 "(b)
 
-Response to GAO Report.—Not later than 3 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional oversight committees a written description of any actions taken or proposed to be taken by such Secretaryin response to the review and recommendations of the Government Accountability Office regarding the Defense Civilian Intelligence Personnel System.
+Response to GAO Report.—Not later than 3 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional oversight committees a written description of any actions taken or proposed to be taken by such Secretary in response to the review and recommendations of the Government Accountability Office regarding the Defense Civilian Intelligence Personnel System.
 
 "(c)
 
@@ -66,7 +66,7 @@ Independent Organization.—
 
 &emsp;"(1)
 
-In general.—Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense, the Director of the Office of Personnel Management, and the Director of National Intelligence shall jointly designate an independent organization to review the operation of the Defense Civilian Intelligence Personnel System, including—
+In general.—Not later than 30 days after the date of the enactment of this Act, the Secretary ofDefense, the Director of the Office of Personnel Management, and the Director of National Intelligence shall jointly designate an independent organization to review the operation of the Defense Civilian Intelligence Personnel System, including—
 
 &emsp;&emsp;"(A) its impact on career progression;
 

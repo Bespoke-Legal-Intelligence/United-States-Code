@@ -2,15 +2,15 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “Agency” means the Federal Emergency Management Agency;
+&emsp;(1) the term "Agency" means the Federal Emergency Management Agency;
 
-&emsp;(2) the term “Administrator” means the Administrator of the Federal Emergency Management Agency;
+&emsp;(2) the term "Administrator" means the Administrator of the Federal Emergency Management Agency;
 
-&emsp;(3) the term “appropriate committees of Congress” has the meaning given the term in section 602 of the Post-Katrina Emergency Management Reform Act of 2006;
+&emsp;(3) the term "appropriate committees of Congress" has the meaning given the term in section 602 of the Post-Katrina Emergency Management Reform Act of 2006;
 
-&emsp;(4) the term “Department” means the Department of Homeland Security; and
+&emsp;(4) the term "Department" means the Department of Homeland Security; and
 
-&emsp;(5) the term “Surge Capacity Force” refers to the Surge Capacity Force, described under section 624 of the Post-Katrina Emergency Management Reform Act of 2006.
+&emsp;(5) the term "Surge Capacity Force" refers to the Surge Capacity Force, described under section 624 of the Post-Katrina Emergency Management Reform Act of 2006.
 
 (Added Pub. L. 109–295, title VI, §621(a), Oct. 4, 2006, 120 Stat. 1411.)
 

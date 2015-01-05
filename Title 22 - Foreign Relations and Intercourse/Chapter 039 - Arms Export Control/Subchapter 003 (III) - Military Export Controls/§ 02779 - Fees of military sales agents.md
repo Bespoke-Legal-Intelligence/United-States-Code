@@ -34,7 +34,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(3). Pub. L. 111–266, which directed amendment of subsec. (a) by adding par. (3) at the end, was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–266, which directed amendment of subsec. (a) by adding par. (3) at the end,was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–533, §105(e)(2)(A), inserted reference to sales of design and construction services under section 2769 of this title.
 

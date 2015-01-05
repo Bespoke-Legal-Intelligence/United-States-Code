@@ -18,7 +18,7 @@ Educational activities.—The terms "educational activities" includes the operat
 
 &emsp;(4)
 
-Historical, architectural, or cultural significance.—The term "historical, architectural, or cultural significance" includes buildings listed or eligible to be listed on the National Register established under section 101 of the National Historic Preservation Act (16 U.S.C. 470a).
+Historical, architectural, or cultural significance.—The term "historical, architectural, or cultural significance" includes buildings listed or eligible to be listed on the National Register established under chapter 3021 of title 54.
 
 &emsp;(5)
 
@@ -48,7 +48,7 @@ Consultation and Solicitation of Comments.—In carrying out the duties under su
 
 &emsp;(2) solicit the comments of other community leaders and members of the general public as the Administrator considers appropriate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1160.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1160; Pub. L. 113–287, §5(j)(6), Dec. 19, 2014, 128 Stat. 3269.)
 
 Historical and Revision Notes
 
@@ -102,11 +102,15 @@ In subsection (c)(1), the words "chief executive officers of the States" are sub
 
 The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title II of the Act is classified generally to subchapter II (§3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of Title 42 and Tables.
 
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(4). Pub. L. 113–287 substituted "chapter 3021 of title 54" for "section 101 of the National Historic Preservation Act (16 U.S.C. 470a)".
+
 #### Ex. Ord. No. 13006. Locating Federal Facilities on Historic Properties in Our Nation's Central Cities
 
 Ex. Ord. No. 13006, May 21, 1996, 61 F.R. 26071, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act (16 U.S.C. 470 <i>et seq</i>.) and the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2505) \[title I of Pub. L. 94–541, see Tables for classification\], and in furtherance of and consistent with Executive Order No. 12072 of August 16, 1978 \[40 U.S.C. 121 note\], and Executive Order No. 11593 of May 13, 1971 \[16 U.S.C. 470 note\], it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act (16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\] and the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2505) \[title I of Pub. L. 94–541, see Tables for classification\], and in furtherance of and consistent with Executive Order No. 12072 of August 16, 1978 \[40 U.S.C. 121 note\], and Executive Order No. 11593 of May 13, 1971 \[54 U.S.C. 300101 note\], it is hereby ordered as follows:
 
 Section 1. <i>Statement of Policy</i>. Through the Administration's community empowerment initiatives, the Federal Government has undertaken various efforts to revitalize our central cities, which have historically served as the centers for growth and commerce in our metropolitan areas. Accordingly, the Administration hereby reaffirms the commitment set forth in Executive Order No. 12072 to strengthen our Nation's cities by encouraging the location of Federal facilities in our central cities. The Administration also reaffirms the commitments set forth in the National Historic Preservation Act to provide leadership in the preservation of historic resources, and in the Public Buildings Cooperative Use Act of 1976 to acquire and utilize space in suitable buildings of historic, architectural, or cultural significance.
 

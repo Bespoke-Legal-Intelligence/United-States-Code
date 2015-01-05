@@ -40,7 +40,7 @@
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) publish any report or information submitted in an application under this section in the geographic area represented by the collaborative applicant; and
+&emsp;&emsp;(A) publish any report or information submitted in an application under this sectionin the geographic area represented by the collaborative applicant; and
 
 &emsp;&emsp;(B) seek comments from the public as to whether the collaborative applicant seeking designation as a high-performing community meets the requirements described under subsection (d).
 

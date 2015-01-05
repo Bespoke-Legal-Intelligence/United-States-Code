@@ -84,7 +84,7 @@ The petitioner shall submit in accordance with a schedule set by the special mas
 
 #### Codification
 
-In subsecs. (a)(2)(A), (3), (4), (5)(A), (8), and (b)(1)(B), "October 1, 1988" substituted for "the effective date ofthis subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
+In subsecs. (a)(2)(A), (3), (4), (5)(A), (8), and (b)(1)(B), "October 1, 1988" substituted for "the effective date of this subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 
 #### Prior Provisions
 

@@ -10,7 +10,7 @@ Personnel Registry.—The Secretary shall maintain a registry of members and for
 
 (c)
 
-Registry of Public Service and Community Service Organizations.—The Secretary shall also maintain a registry of public service and community service organizations. The registry shall contain information regarding each organization, including its location, its size, the types of public and community service positions in the organization, points of contact, procedures for applying for such positions, and a description of each such position that is likely to be available. Any such organization may request registration under this subsection and, subject to guidelines prescribed by the Secretary, be registered.
+Registry of Public Service and Community Service Organizations.—The Secretary shall also maintain a registry of public service and community service organizations. The registry shall contain information regarding each organization, including its location, its size, the types of public and community service positions in the organization, points of contact, procedures for applying for such positions, and a description of each such position that is likely to be available. Any such organization may request registration under this subsection and, subjectto guidelines prescribed by the Secretary, be registered.
 
 (d)
 
@@ -22,7 +22,7 @@ Assistance To Be Provided.—(1) The Secretary shall actively attempt to match p
 
 &emsp;(B) procedures and techniques for qualifying for and applying for jobs in such organizations.
 
-(3) The Secretary may provide personnel registered under subsection (b) with access to the interstate job bank program of the UnitedStates Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
+(3) The Secretary may provide personnel registered under subsection (b) with access to the interstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
 
 (e)
 

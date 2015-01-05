@@ -4,11 +4,11 @@
 
 The National Council shall—
 
-&emsp;(1) provide advice to the Director with respect to the policies and conduct of the National Institute on Disability and Rehabilitation Research, including ways to improve research concerning individuals with disabilities and the methods of collecting and disseminating findings of such research;
+&emsp;(1) provide advice to the Director with respect to the policies and conduct of the National Institute on Disability, Independent Living, and Rehabilitation Research, including ways to improve research concerning individuals with disabilities and the methods of collecting and disseminating findings of such research;
 
 &emsp;(2) provide advice to the Commissioner with respect to the policies of and conduct of the Rehabilitation Services Administration;
 
-&emsp;(3) advise the President, the Congress, the Commissioner, the appropriate Assistant Secretary of the Department of Education, and the Director of the National Institute on Disability and Rehabilitation Research on the development of the programs to be carried out under this chapter;
+&emsp;(3) advise the President, the Congress, the Commissioner, the appropriate Assistant Secretary of the Department of Education, and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research on the development of the programs to be carried out under this chapter;
 
 &emsp;(4) provide advice regarding priorities for the activities of the Interagency Disability Coordinating Council and review the recommendations of such Council for legislative and administrative changes to ensure that such recommendations are consistent with the purposes of the Council to promote the full integration, independence, and productivity of individuals with disabilities;
 
@@ -38,15 +38,7 @@ The National Council shall—
 
 (3) In determining the issues to focus on and the findings, conclusions, and recommendations to include in the report, the National Council shall seek input from the public, particularly individuals with disabilities, representatives of organizations representing a broad range of individuals with disabilities, and organizations and agencies interested in individuals with disabilities.
 
-#### (c) Report describing barriers
-
-(1) Not later than December 31, 1999, the Council shall prepare a report describing the barriers in Federal assistive technology policy to increasing the availability of and access to assistive technology devices and assistive technology services for individuals with disabilities.
-
-(2) In preparing the report, the Council shall obtain input from the National Institute on Disability and Rehabilitation Research and the Association of Tech Act Projects, and from targeted individuals and entities, as defined in section 3002 of this title.
-
-(3) The Council shall submit the report, along with such recommendations as the Council determines to be appropriate, to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives.
-
-(Pub. L. 93–112, title IV, §401, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1199; amended Pub. L. 105–394, title II, §202, Nov. 13, 1998, 112 Stat. 3653; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–364, §3(b)(2), Oct. 25, 2004, 118 Stat. 1737.)
+(Pub. L. 93–112, title IV, §401, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1199; amended Pub. L. 105–394, title II, §202, Nov. 13, 1998, 112 Stat. 3653; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–364, §3(b)(2), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, §452, July 22, 2014, 128 Stat. 1675.)
 
 #### References in Text
 
@@ -62,17 +54,21 @@ Another prior section 781, Pub. L. 93–112, title IV, §401, Sept. 26, 1973, 87
 
 #### Amendments
 
+Subsec. (a)(1), (3). Pub. L. 113–128, §452(1), substituted "National Institute on Disability, Independent Living, and Rehabilitation Research" for "National Institute on Disability and Rehabilitation Research".
+
+Subsec. (c). Pub. L. 113–128, §452(2), struck out subsec. (c) which required a report describing the barriers in Federal assistive technology policy to increasing the availability of and access to assistive technology devices and assistive technology services for individuals with disabilities.
+
 <b>2004</b>—Subsec. (c)(2). Pub. L. 108–364 substituted "targeted individuals and entities" for "targeted individuals".
 
-<b>2000</b>—Subsec. (a)(5)(A). Pub. L. 106–402, which directed substitution of "Developmental Disabilities Assistanceand Bill of Rights Act of 2000" for "Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)", was executed by making the substitution for "Developmental Disabilities Assistance and Bill of Rights Act" to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (a)(5)(A). Pub. L. 106–402, which directed substitution of "Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)", was executed by making the substitution for "Developmental Disabilities Assistance and Bill of Rights Act" to reflect the probable intent of Congress.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–394 added subsec. (c).
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to Congress required under subsec. (b) of this section is listed on page 182), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+#### Transfer of Functions
+
+Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of section 3515e of Title 42, The Public Health and Welfare.
 

@@ -34,15 +34,15 @@ July 7, 1958, Pub. L. 85–507, §11, 72 Stat. 332.
 
 In subsection (a), the last sentence of former section 2310(a) is omitted as included in the first sentence of the revised subsection.
 
-In subsection (b), the words, “another agency in any branch of the Government” are coextensive with and substituted for “another department or of any other agency in any branch of the Government”. This is so because “agency in any branch of the Government” is broader than “agency” as defined for the purpose of this chapter in section 4101(1).
+In subsection (b), the words, "another agency in any branch of the Government" are coextensive with and substituted for "another department or of any other agency in any branch of the Government". This is so because "agency in any branch of the Government" is broader than "agency" as defined for the purpose of this chapter in section 4101(1).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–347 struck out subsec. (d) which read as follows: “For purposes of this section, ‘training’ includes a private sector assignment of an employee participating in the Executive Exchange Program of the President's Commission on Executive Exchange.”
+<b>2002</b>—Subsec. (d). Pub. L. 107–347 struck out subsec. (d) which read as follows: "For purposes of this section, 'training' includes a private sector assignment of an employee participating in the Executive Exchange Program of the President's Commission on Executive Exchange."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–226 substituted “for more than a minimum period prescribed by the head of the agency” for “by, in, or through a non-Government facility under this chapter”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–226 substituted "for more than a minimum period prescribed by the head of the agency" for "by, in, or through a non-Government facility under this chapter".
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–224 added subsec. (d).
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 #### Department of Homeland Security
 
-Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretaryfor Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 #### Central Intelligence Agency
 

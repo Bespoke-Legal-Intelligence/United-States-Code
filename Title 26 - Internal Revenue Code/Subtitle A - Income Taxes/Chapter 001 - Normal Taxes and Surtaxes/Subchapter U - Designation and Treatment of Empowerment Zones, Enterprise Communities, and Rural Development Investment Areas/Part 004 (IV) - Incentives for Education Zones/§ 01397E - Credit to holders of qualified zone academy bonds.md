@@ -24,7 +24,7 @@ The credit allowed under subsection (a) for any taxable year shall not exceed th
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under part IV of subchapter A (other than subpart Cthereof, relating to refundable credits, and subparts H, I, and J thereof).
+&emsp;(2) the sum of the credits allowable under part IV of subchapter A (other than subpart C thereof, relating to refundable credits, and subparts H, I, and J thereof).
 
 #### (d) Qualified zone academy bond
 
@@ -294,7 +294,7 @@ Amendment by section 406(c) of Pub. L. 108–311 effective as if included in the
 
 #### Effective Date of 2002 Amendments
 
-Pub. L. 107–147, title VI, §608(b), Mar. 9, 2002, 116 Stat. 60, provided that: "The amendment made by subsection\(a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Mar. 9, 2002\]."
+Pub. L. 107–147, title VI, §608(b), Mar. 9, 2002, 116 Stat. 60, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Mar. 9, 2002\]."
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 

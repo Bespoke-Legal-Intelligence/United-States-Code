@@ -52,7 +52,7 @@
 
 #### References in Text
 
-Section 802 of the Victims of Terrorism Compensation Act, referred to in subsec. (c)(2), is section 802 of Pub. L. 99–399, which is set out as a note under section5569 of Title 5, Government Organization and Employees.
+Section 802 of the Victims of Terrorism Compensation Act, referred to in subsec. (c)(2), is section 802 of Pub. L. 99–399, which is set out as a note under section 5569 of Title 5, Government Organization and Employees.
 
 #### Amendments
 

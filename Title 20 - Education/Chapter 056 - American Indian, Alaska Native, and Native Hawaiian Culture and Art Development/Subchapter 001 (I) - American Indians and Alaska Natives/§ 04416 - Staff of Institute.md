@@ -94,7 +94,7 @@ The General Schedule, referred to in subsec. (b)(2), is set out under section 53
 
 &emsp;"(2) such individual's right to receive the compensation attached to such position."
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–325 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 applies."
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–325 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 applies."
 
 <b>1988</b>—Subsec. (g)(1). Pub. L. 100–297 substituted "On June 30, 1989" for "At the end of the 2-year period beginning on the date referred to in section 4421(f) of this title".
 

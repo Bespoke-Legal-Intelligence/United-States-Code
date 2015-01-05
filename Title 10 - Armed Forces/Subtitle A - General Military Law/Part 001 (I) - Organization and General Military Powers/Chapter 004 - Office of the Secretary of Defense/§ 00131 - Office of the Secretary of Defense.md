@@ -30,41 +30,83 @@
 
 &emsp;&emsp;(D) The Inspector General of the Department of Defense.
 
-&emsp;(5) The Principal Deputy Under Secretaries of Defense.
+&emsp;(5) The Chief Information Officer of the Department of Defense.
 
-&emsp;(6) The Assistant Secretaries of Defense.
+&emsp;(6) The Principal Deputy Under Secretaries of Defense.
 
-&emsp;(7) Other officials provided for by law, as follows:
+&emsp;(7) The Assistant Secretaries of Defense.
 
-&emsp;&emsp;(A) The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) of this title.
+&emsp;(8) Other officials provided for by law, as follows:
 
-&emsp;&emsp;(B) The Deputy Assistant Secretary of Defense for Systems Engineering appointed pursuant to section 139b(b) of this title.
+&emsp;&emsp;(A) The two Deputy Directors within the Office of the Director of Cost Assessment and Program Evaluation under section 139a(c) of this title.
 
-&emsp;&emsp;(C) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy appointed pursuant to section 139c of this title.
+&emsp;&emsp;(B) The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) of this title.
 
-&emsp;&emsp;(D) The Director of Small Business Programs appointed pursuant to section 144 of this title.
+&emsp;&emsp;(C) The Deputy Assistant Secretary of Defense for Systems Engineering appointed pursuant to section 139b(b) of this title.
 
-&emsp;&emsp;(E) The official designated under section 1501(a) of this title to have responsibility for Department of Defense matters relating to missing persons as set forth in section 1501 of this title.
+&emsp;&emsp;(D) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy appointed pursuant to section 139c of this title.
 
-&emsp;&emsp;(F) The Director of Family Policy under section 1781 of this title.
+&emsp;&emsp;(E) The Director of Small Business Programs appointed pursuant to section 144 of this title.
 
-&emsp;&emsp;(G) The Director of the Office of Corrosion Policy and Oversight assigned pursuant to section 2228(a) of this title.
+&emsp;&emsp;(F) The official designated under section 1501(a) of this title to have responsibility forDepartment of Defense matters relating to missing persons as set forth in section 1501 of this title.
 
-&emsp;&emsp;(H) The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+&emsp;&emsp;(G) The Director of Family Policy under section 1781 of this title.
 
-&emsp;(8) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
+&emsp;&emsp;(H) The Director of the Office of Corrosion Policy and Oversight assigned pursuant to section 2228(a) of this title.
+
+&emsp;&emsp;(I) The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+
+&emsp;(9) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
 
 (c) Officers of the armed forces may be assigned or detailed to permanent duty in the Office of the Secretary of Defense. However, the Secretary may not establish a military staff in the Office of the Secretary of Defense.
 
 (d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326.)
+(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326; Pub. L. 113–291, div. A, title IX, §901(a)(2), (b)(2), (j)(1)(A), (k)(1), (n)(1), Dec. 19, 2014, 128 Stat. 3463, 3467, 3469.)
+
+#### Amendment of Subsection (a)(3)
+
+<i>Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.</i>
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 113–291, div. A, title IX, §901(a)(2), (j)(1)(A), Dec. 19, 2014, 128 Stat. 3463, 3467, provided that, effective on Feb. 1, 2017, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (2), by—</i>
+
+<i>(A) redesignating subparagraphs (A) through (E) as subparagraphs (B) through (F), respectively; and</i>
+
+<i>(B) inserting before subparagraph (B) (as so redesignated) the following new subparagraph (A): "(A) The Under Secretary of Defense for Business Management and Information."; and</i>
+
+<i>(2) in paragraphs (5) to (9), by—</i>
+
+<i>(A) striking paragraph (5); and</i>
+
+<i>(B) redesignating paragraphs (6), (7), (8), and (9) as paragraphs (5), (6), (7), and (8), respectively.</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### Prior Provisions
 
 A prior section 131 was renumbered section 111 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2). Pub. L. 113–291, §901(a)(2), added subpar. (A) and redesignated former subpars. (A) to (E) as (B) to (F), respectively.
+
+Subsec. (b)(5) to (7). Pub. L. 113–291, §901(j)(1)(A), redesignated pars. (6) to (8) as (5) to (7), respectively, and struck out former par. (5) which read as follows: "The Chief Information Officer of the Department of Defense."
+
+Pub. L. 113–291, §901(b)(2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (b)(8). Pub. L. 113–291, §901(j)(1)(A)(ii), redesignated par. (9) as (8).
+
+Pub. L. 113–291, §901(k)(1), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively.
+
+Pub. L. 113–291, §901(b)(2)(A), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Subsec. (b)(9). Pub. L. 113–291, §901(j)(1)(A)(ii), redesignated par. (9) as (8).
+
+Pub. L. 113–291, §901(b)(2)(A), redesignated par. (8) as (9).
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §901(m)(1), substituted "the Secretary's" for "his".
 
@@ -110,6 +152,16 @@ Subsec. (b). Pub. L. 111–383, §901(b)(2), amended subsec. (b) generally. Prio
 
 &emsp;"(10) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office."
 
+#### Change of Name
+
+"Under Secretary of Defense for Business Management and Information" substituted for "Deputy Chief Management Officer of the Department of Defense" in subsec. (a)(3) after Feb. 1, 2017, on authority of section 901(n)(1) of Pub. L. 113–291, set out as a note under this section.
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–291, div. A, title IX, §901(a)(2), Dec. 19, 2014, 128 Stat. 3463, provided that the amendment made by section 901(a)(2) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
+
+Pub. L. 113–291, div. A, title IX, §901(j)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(j)(1)(A) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title IX, §901(p), Jan. 7, 2011, 124 Stat. 4327, provided that:
@@ -130,6 +182,14 @@ Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pu
 
 Pub. L. 104–106, div. A, title IX, §903(a), Feb. 10, 1996, 110 Stat. 401, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under section 167 of this title) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
 
+#### References
+
+Pub. L. 113–291, div. A, title IX, §901(n), Dec. 19, 2014, 128 Stat. 3469, provided that:
+
+"(1) DCMO.—After February 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense in any provision of law or in any rule, regulation, or other record, document, or paper of the United States shall be deemed to refer to the Under Secretary of Defense for Business Management and Information.
+
+"(2) ASDEIE.—Any reference to the Assistant Secretary of Defense for Operational Energy Plans and Programs or to the Deputy Under Secretary of Defense for Installations and Environment in any provision of law or in any rule, regulation, or other paper of the United States shall be deemed to refer to the Assistant Secretary of Defense for Energy, Installations, and Environment."
+
 #### Redesignation of Certain Positions in Office of Secretary of Defense
 
 Pub. L. 111–383, div. A, title IX, §901(a), Jan. 7, 2011, 124 Stat. 4317, provided that:
@@ -140,7 +200,7 @@ Redesignation.—Positions in the Office of the Secretary of Defense are hereby 
 
 &emsp;"(A) The Director of Defense Research and Engineering is redesignated as the Assistant Secretary of Defense for Research and Engineering.
 
-&emsp;"(B) The Director of Operational Energy Plans and Programs is redesignated as the Assistant Secretary of Defense for Operational Energy Plans and Programs.
+&emsp;"(B) The Director of Operational Energy Plans and Programs is redesignated as the Assistant Secretary of Defense for Operational Energy Plans and Programs \[now Assistant Secretary of Defense for Energy, Installations, and Environment\].
 
 &emsp;"(C) The Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs is redesignated as the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
 

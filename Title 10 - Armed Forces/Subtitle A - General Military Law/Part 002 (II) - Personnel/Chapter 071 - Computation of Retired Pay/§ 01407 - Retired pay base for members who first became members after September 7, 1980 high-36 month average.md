@@ -48,7 +48,7 @@ Retired pay under chapter 1223.—The high-three average of a member or former m
 
 Nonregular service disability retired pay.—The high-three average of a member entitled to retired pay under section 1204 or 1205 of this title is the amount equal to—
 
-&emsp;&emsp;(A) the total amount of monthly basic pay to which the member was entitled duringthe member's high-36 months (or to which the member would have been entitled if the member had served on active duty during the entire period of the member's high-36 months), divided by
+&emsp;&emsp;(A) the total amount of monthly basic pay to which the member was entitled during the member's high-36 months (or to which the member would have been entitled if the member had served on active duty during the entire period of the member's high-36 months), divided by
 
 &emsp;&emsp;(B) 36.
 
@@ -62,7 +62,7 @@ Special rule for short-term disability retirees.—In the case of a member who i
 
 &emsp;(4)
 
-High-36 months.—The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of all the months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title, before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
+High-36 months.—The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of allthe months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title, before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
 
 (e)
 
@@ -116,7 +116,7 @@ chapter 1223" for "
 
 chapter 67" and in text "section 12731" for "section 1331".
 
-<b>1994</b>—Subsec. (c)(2)(B). Pub. L. 103–337, §1662(j)(5)(A), which directed substitution of "chapter 1223" for"chapter 67", could not be executed because the words "chapter 67" did not appear subsequent to amendment by Pub. L. 101–189, §651(a)(2), (4). See 1989 Amendment note below.
+<b>1994</b>—Subsec. (c)(2)(B). Pub. L. 103–337, §1662(j)(5)(A), which directed substitution of "chapter 1223" for "chapter 67", could not be executed because the words "chapter 67" did not appear subsequent to amendment by Pub. L. 101–189, §651(a)(2), (4). See 1989 Amendment note below.
 
 Subsec. (f)(2). Pub. L. 103–337, §1662(j)(5)(B), which directed amendment of subsec. (f)(2) by substituting "Chapter 1223" for "Chapter 67" in heading and "section 12731" for "section 1331" in text, could not be executed because of previous repeal of subsec. (f) by Pub. L. 101–189, §651(a)(2). See 1989 Amendment note below.
 

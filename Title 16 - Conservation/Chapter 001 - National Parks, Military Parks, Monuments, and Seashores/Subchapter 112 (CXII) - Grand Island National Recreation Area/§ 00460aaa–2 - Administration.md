@@ -30,7 +30,7 @@ The national recreation area also shall be administered according to the followi
 
 &emsp;&emsp;(C) The Secretary shall collect fees on an annual basis based on the fair market value of the occupancy permitted.
 
-&emsp;&emsp;(D) The expansion, remodeling, or reconstruction of such homes shall be subject to approval of and regulation by the Secretary. No expansion, remodeling, or reconstruction may increase the height of structure or result in an increase of more than 25 percent of the sum of the exterior dimensions of a structure as it existed on May 17, 1990. Any expansion, remodeling, or reconstruction shall be consistent with the criteria developed pursuant to section 460aaa–6(b)(4) of this title and shall be subject to such other terms and conditions as the Secretary may prescribe.
+&emsp;&emsp;(D) The expansion, remodeling, or reconstruction of such homes shall be subject toapproval of and regulation by the Secretary. No expansion, remodeling, or reconstruction may increase the height of structure or result in an increase of more than 25 percent of the sum of the exterior dimensions of a structure as it existed on May 17, 1990. Any expansion, remodeling, or reconstruction shall be consistent with the criteria developed pursuant to section 460aaa–6(b)(4) of this title and shall be subject to such other terms and conditions as the Secretary may prescribe.
 
 &emsp;&emsp;(E) Any such home may be purchased at the fair market value of the structure and improvements by the Secretary on a willing seller basis.
 

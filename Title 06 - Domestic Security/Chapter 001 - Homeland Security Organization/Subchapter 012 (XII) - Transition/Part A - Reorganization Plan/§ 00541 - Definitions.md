@@ -2,9 +2,9 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “agency” includes any entity, organizational unit, program, or function.
+&emsp;(1) The term "agency" includes any entity, organizational unit, program, or function.
 
-&emsp;(2) The term “transition period” means the 12-month period beginning on the effective date of this chapter.
+&emsp;(2) The term "transition period" means the 12-month period beginning on the effective date of this chapter.
 
 (Pub. L. 107–296, title XV, §1501, Nov. 25, 2002, 116 Stat. 2307.)
 

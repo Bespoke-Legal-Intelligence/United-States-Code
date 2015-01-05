@@ -10,7 +10,7 @@ Planting of Wildflowers.—
 
 &emsp;(1)
 
-General rule.—The Secretary shall require the planting of native wildflower seeds or seedlings, or both, as part of any landscaping project under this section. At least ¼of 1 percent of the funds expended for such landscaping project shall be used for such plantings.
+General rule.—The Secretary shall require the planting of native wildflower seeds or seedlings, or both, as part of any landscaping project under this section. At least ¼ of 1 percent of the funds expended for such landscaping project shall be used for such plantings.
 
 &emsp;(2)
 

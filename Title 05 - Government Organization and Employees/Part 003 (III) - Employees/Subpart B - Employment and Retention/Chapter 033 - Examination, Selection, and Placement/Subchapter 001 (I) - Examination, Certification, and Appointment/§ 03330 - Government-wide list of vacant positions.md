@@ -1,8 +1,8 @@
 ### §3330. Government-wide list of vacant positions
 
-(a) For the purpose of this section, the term “agency” means an Executive agency, excluding the Government Accountability Office and any agency (or unit thereof) whose principal function is the conduct of foreign intelligence or counterintelligence activities, as determined by the President.
+(a) For the purpose of this section, the term "agency" means an Executive agency, excluding the Government Accountability Office and any agency (or unit thereof) whose principal function is the conduct of foreign intelligence or counterintelligence activities, as determined by the President.
 
-(b) The Office of Personnel Management shall establish and keep current a comprehensive list of all announcements of vacant positions in the competitive service within each agency that are to be filled by appointment for more than one year and for which applications are being (or will soon be) accepted from outside the agency's work force.
+(b) The Office of Personnel Management shall establish and keep current a comprehensive list of all announcements of vacant positions in the competitive service within each agency that areto be filled by appointment for more than one year and for which applications are being (or will soon be) accepted from outside the agency's work force.
 
 (c) Included for any position listed shall be—
 
@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1996</b>—Pub. L. 104–106, which directed renumbering of the section 3329 of this title that was added by Pub. L. 102–484, §4431, as section 3330 of this title, could not be executed because of the intervening renumbering of that section by Pub. L. 104–52, §4(1)(A). See 1995 Amendment note below.
 

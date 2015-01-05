@@ -46,7 +46,7 @@ Pub. L. 102–486, title IV, §404(b), Oct. 24, 1992, 106 Stat. 2879, provided t
 
 #### Emergency Natural Gas Act of 1977
 
-Pub. L. 95–2, Feb. 2, 1977, 91 Stat. 4, authorized President to declare a natural gas emergency and to require emergency deliveries and transportation of natural gas until the earlier of Apr. 30, 1977, or termination of emergency by President and provided for antitrust protection, emergency purchases, adjustment in charges for local distribution companies, relationship to Natural Gas Act, effect of certain contractual obligations, administrative procedure and judicial review, enforcement, reporting to Congress, delegation of authorities, and preemption of inconsistent State or local action.
+Pub. L. 95–2, Feb. 2, 1977, 91 Stat. 4, authorized President to declare a natural gas emergency and to requireemergency deliveries and transportation of natural gas until the earlier of Apr. 30, 1977, or termination of emergency by President and provided for antitrust protection, emergency purchases, adjustment in charges for local distribution companies, relationship to Natural Gas Act, effect of certain contractual obligations, administrative procedure and judicial review, enforcement, reporting to Congress, delegation of authorities, and preemption of inconsistent State or local action.
 
 #### Executive Order No. 11969
 

@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1901\.](%C2%A7%2001901%20-%20Definition%20of%20Government%20publication.md) | Definition of Government publication. |
-| [1902\.](%C2%A7%2001902%20-%20Availability%20of%20Government%20publications%20through%20Superintendent%20of%20Documents%3B%20lists%20of%20publications%20not%20ordered%20from%20Government%20Printing%E2%80%A6.md) | Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Printing Office. |
+| [1902\.](%C2%A7%2001902%20-%20Availability%20of%20Government%20publications%20through%20Superintendent%20of%20Documents%3B%20lists%20of%20publications%20not%20ordered%20from%20Government%20Publishing%E2%80%A6.md) | Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Publishing Office. |
 | [1903\.](%C2%A7%2001903%20-%20Distribution%20of%20publications%20to%20depositories%3B%20notice%20to%20Government%20components%3B%20cost%20of%20printing%20and%20binding.md) | Distribution of publications to depositories; notice to Government components; cost of printing and binding. |
 | [1904\.](%C2%A7%2001904%20-%20Classified%20list%20of%20Government%20publications%20for%20selection%20by%20depositories.md) | Classified list of Government publications for selection by depositories. |
 | [1905\.](%C2%A7%2001905%20-%20Distribution%20to%20depositories%3B%20designation%20of%20additional%20libraries%3B%20justification%3B%20authorization%20for%20certain%20designations.md) | Distribution to depositories; designation of additional libraries; justification; authorization for certain designations. |
@@ -15,13 +15,19 @@
 | [1911\.](%C2%A7%2001911%20-%20Free%20use%20of%20Government%20publications%20in%20depositories%3B%20disposal%20of%20unwanted%20publications.md) | Free use of Government publications in depositories; disposal of unwanted publications. |
 | [1912\.](%C2%A7%2001912%20-%20Regional%20depositories%3B%20designation%3B%20functions%3B%20disposal%20of%20publications.md) | Regional depositories; designation; functions; disposal of publications. |
 | [1913\.](%C2%A7%2001913%20-%20Appropriations%20for%20supplying%20depository%20libraries%3B%20restriction.md) | Appropriations for supplying depository libraries; restriction. |
-| [1914\.](%C2%A7%2001914%20-%20Implementation%20of%20depository%20library%20program%20by%20Public%20Printer.md) | Implementation of depository library program by Public Printer. |
+| [1914\.](%C2%A7%2001914%20-%20Implementation%20of%20depository%20library%20program%20by%20Director%20of%20the%20Government%20Publishing%20Office.md) | Implementation of depository library program by Director of the Government Publishing Office. |
 | [1915\.](%C2%A7%2001915%20-%20Highest%20State%20appellate%20court%20libraries%20as%20depository%20libraries.md) | Highest State appellate court libraries as depository libraries. |
 | [1916\.](%C2%A7%2001916%20-%20Designation%20of%20libraries%20of%20accredited%20law%20schools%20as%20depository%20libraries.md) | Designation of libraries of accredited law schools as depository libraries. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 1914.
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in item 1902 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 <b>1978</b>—Pub. L. 95–261, §2, Apr. 17, 1978, 92 Stat. 199, added item 1916.
 
@@ -37,7 +43,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01901 - Definition of Government publication](%C2%A7%2001901%20-%20Definition%20of%20Government%20publication.md)
-- [&sect; 01902 - Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Printing&#8230;](%C2%A7%2001902%20-%20Availability%20of%20Government%20publications%20through%20Superintendent%20of%20Documents%3B%20lists%20of%20publications%20not%20ordered%20from%20Government%20Printing%E2%80%A6.md)
+- [&sect; 01902 - Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Publishing&#8230;](%C2%A7%2001902%20-%20Availability%20of%20Government%20publications%20through%20Superintendent%20of%20Documents%3B%20lists%20of%20publications%20not%20ordered%20from%20Government%20Publishing%E2%80%A6.md)
 - [&sect; 01903 - Distribution of publications to depositories; notice to Government components; cost of printing and binding](%C2%A7%2001903%20-%20Distribution%20of%20publications%20to%20depositories%3B%20notice%20to%20Government%20components%3B%20cost%20of%20printing%20and%20binding.md)
 - [&sect; 01904 - Classified list of Government publications for selection by depositories](%C2%A7%2001904%20-%20Classified%20list%20of%20Government%20publications%20for%20selection%20by%20depositories.md)
 - [&sect; 01905 - Distribution to depositories; designation of additional libraries; justification; authorization for certain designations](%C2%A7%2001905%20-%20Distribution%20to%20depositories%3B%20designation%20of%20additional%20libraries%3B%20justification%3B%20authorization%20for%20certain%20designations.md)
@@ -49,6 +55,6 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 01911 - Free use of Government publications in depositories; disposal of unwanted publications](%C2%A7%2001911%20-%20Free%20use%20of%20Government%20publications%20in%20depositories%3B%20disposal%20of%20unwanted%20publications.md)
 - [&sect; 01912 - Regional depositories; designation; functions; disposal of publications](%C2%A7%2001912%20-%20Regional%20depositories%3B%20designation%3B%20functions%3B%20disposal%20of%20publications.md)
 - [&sect; 01913 - Appropriations for supplying depository libraries; restriction](%C2%A7%2001913%20-%20Appropriations%20for%20supplying%20depository%20libraries%3B%20restriction.md)
-- [&sect; 01914 - Implementation of depository library program by Public Printer](%C2%A7%2001914%20-%20Implementation%20of%20depository%20library%20program%20by%20Public%20Printer.md)
+- [&sect; 01914 - Implementation of depository library program by Director of the Government Publishing Office](%C2%A7%2001914%20-%20Implementation%20of%20depository%20library%20program%20by%20Director%20of%20the%20Government%20Publishing%20Office.md)
 - [&sect; 01915 - Highest State appellate court libraries as depository libraries](%C2%A7%2001915%20-%20Highest%20State%20appellate%20court%20libraries%20as%20depository%20libraries.md)
 - [&sect; 01916 - Designation of libraries of accredited law schools as depository libraries](%C2%A7%2001916%20-%20Designation%20of%20libraries%20of%20accredited%20law%20schools%20as%20depository%20libraries.md)

@@ -12,10 +12,13 @@
 | [3508\.](%C2%A7%2003508%20-%20Treatment%20of%20real%20estate%20agents%20and%20direct%20sellers.md) | Treatment of real estate agents and direct sellers. |
 | [3509\.](%C2%A7%2003509%20-%20Determination%20of%20employer%27s%20liability%20for%20certain%20employment%20taxes.md) | Determination of employer's liability for certain employment taxes. |
 | [3510\.](%C2%A7%2003510%20-%20Coordination%20of%20collection%20of%20domestic%20service%20employment%20taxes%20with%20collection%20of%20income%20taxes.md) | Coordination of collection of domestic service employment taxes with collection of income taxes. |
+| [3511\.](%C2%A7%2003511%20-%20Certified%20professional%20employer%20organizations.md) | Certified professional employer organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. B, title II, §206(d)(1), Dec. 19, 2014, 128 Stat. 4071, added item 3511.
 
 <b>2010</b>—Pub. L. 111–226, title II, §219(b)(3), Aug. 10, 2010, 124 Stat. 2403, struck out item 3507 "Advance payment of earned income credit".
 
@@ -52,3 +55,4 @@ Pub. L. 97–248, title III, §§307(b)(5), 308(a), Sept. 3, 1982, 96 Stat. 591,
 - [&sect; 03508 - Treatment of real estate agents and direct sellers](%C2%A7%2003508%20-%20Treatment%20of%20real%20estate%20agents%20and%20direct%20sellers.md)
 - [&sect; 03509 - Determination of employer's liability for certain employment taxes](%C2%A7%2003509%20-%20Determination%20of%20employer%27s%20liability%20for%20certain%20employment%20taxes.md)
 - [&sect; 03510 - Coordination of collection of domestic service employment taxes with collection of income taxes](%C2%A7%2003510%20-%20Coordination%20of%20collection%20of%20domestic%20service%20employment%20taxes%20with%20collection%20of%20income%20taxes.md)
+- [&sect; 03511 - Certified professional employer organizations](%C2%A7%2003511%20-%20Certified%20professional%20employer%20organizations.md)

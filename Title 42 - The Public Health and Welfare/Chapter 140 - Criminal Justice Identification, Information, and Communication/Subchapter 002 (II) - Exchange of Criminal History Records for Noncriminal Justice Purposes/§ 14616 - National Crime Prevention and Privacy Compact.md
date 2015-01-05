@@ -84,7 +84,7 @@ In this Compact:
 
 &emsp;The term "FBI" means the Federal Bureau of Investigation.
 
-#### (13) Interstate Identification System
+#### (13) Interstate Identification System <sup>1</sup>
 
 &emsp;The term "Interstate Identification Index System" or "III System"—
 
@@ -136,7 +136,7 @@ In this Compact:
 
 #### (22) State
 
-&emsp;The term "State" means any State, territory, or possession of the United States, theDistrict of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The term "State" means any State, territory, or possession of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 ### ARTICLE II—PURPOSES
 
@@ -212,7 +212,7 @@ In carrying out their responsibilities under this Compact, the FBI and each Part
 
 #### (a) State criminal history record repositories
 
-To the extent authorized by section 552a of title 5, United States Code (commonly known as the "Privacy Act of 1974"), the FBI shall provide on request criminal history records (excludingsealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.
+To the extent authorized by section 552a of title 5, United States Code (commonly known as the "Privacy Act of 1974"), the FBI shall provide on request criminal history records (excluding sealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.
 
 #### (b) Criminal justice agencies and other governmental or nongovernmental agencies
 
@@ -282,7 +282,7 @@ A State criminal history record repository or the FBI—
 
 The Council shall be composed of 15 members, each of whom shall be appointed by the Attorney General, as follows:
 
-&emsp;(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compact officers of all Party States, except that, in the absence of the requisite number of Compactofficers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.
+&emsp;(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compact officers of all Party States, except that, in the absence of the requisite number of Compact officers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.
 
 &emsp;(2) Two at-large members, nominated by the Director of the FBI, each of whom shall serve a 3-year term, of whom—
 
@@ -322,7 +322,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (2) Quorum
 
-&emsp;A majority of the Council or any committee of the Council shall constitute a quorum of the Council or of such committee, respectively, for the conduct of business. A lesser number may meet to hold hearings, take testimony, or conduct any business not requiring a vote.
+&emsp;A majority of the Council or any committee of the Council shall constitute a quorum ofthe Council or of such committee, respectively, for the conduct of business. A lesser number may meet to hold hearings, take testimony, or conduct any business not requiring a vote.
 
 #### (e) Rules, procedures, and standards
 
@@ -405,4 +405,6 @@ The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579,
 The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "Interstate Identification Index System".</i>
 

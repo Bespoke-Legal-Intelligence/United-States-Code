@@ -6,7 +6,7 @@ From the amount appropriated to carry out this section, the Secretary shall awar
 
 #### (b) Eligible partnerships
 
-For purposes of this part, an eligible partnership shall include at least two institutions of higher education, or a system of institutions of higher education, and may include either or both of the following:
+For purposes of this part, an eligible partnership shall include at least two institutions ofhigher education, or a system of institutions of higher education, and may include either or both of the following:
 
 &emsp;(1) A consortia of institutions of higher education.
 

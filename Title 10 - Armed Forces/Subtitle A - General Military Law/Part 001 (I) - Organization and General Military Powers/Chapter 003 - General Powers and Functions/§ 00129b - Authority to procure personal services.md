@@ -38,7 +38,7 @@ Additional Authority for Personal Services Contracts.—(1) In addition to the a
 
 (3) The requirements of section 3109 of title 5 shall not apply to a contract entered into under this subsection.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1481(b)(1), Nov. 5, 1990, 104 Stat. 1704; amended Pub. L. 102–190, div. A, title X, §1061(a)(2), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 108–136, div. A, title VIII, §841(a), (b)(1), Nov. 24, 2003, 117 Stat. 1552.)
+(Added Pub. L. 101–510, div. A, title XIV, §1481(b)(1), Nov. 5, 1990, 104 Stat. 1704; amendedPub. L. 102–190, div. A, title X, §1061(a)(2), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 108–136, div. A, title VIII, §841(a), (b)(1), Nov. 24, 2003, 117 Stat. 1552.)
 
 #### Prior Provisions
 

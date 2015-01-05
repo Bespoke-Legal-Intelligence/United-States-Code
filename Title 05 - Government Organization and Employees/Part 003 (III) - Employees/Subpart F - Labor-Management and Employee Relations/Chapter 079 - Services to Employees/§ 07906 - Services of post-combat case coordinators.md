@@ -4,9 +4,9 @@
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the terms “employee”, “agency”,<sup>1</sup> “injury”, “war-risk hazard”, and “hostile force or individual” have the meanings given those terms in section 8101; and
+&emsp;(1) the terms "employee", "agency",<sup>1</sup> "injury", "war-risk hazard", and "hostile force or individual" have the meanings given those terms in section 8101; and
 
-&emsp;(2) the term “qualified employee” means an employee as described in subsection (b).
+&emsp;(2) the term "qualified employee" means an employee as described in subsection (b).
 
 (b)
 
@@ -40,5 +40,5 @@ Duration.—The services of a post-combat case coordinator shall remain availabl
 
 (Added Pub. L. 112–81, div. A, title XI, §1106(a), Dec. 31, 2011, 125 Stat. 1613.)
 
-<i><sup>1</sup></i><i> So in original. The definition of “agency” does not appear in section 8101 of this title.</i>
+<i><sup>1</sup></i><i> So in original. The definition of "agency" does not appear in section 8101 of this title.</i>
 

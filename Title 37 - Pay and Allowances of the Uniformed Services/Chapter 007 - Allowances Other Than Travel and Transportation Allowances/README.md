@@ -61,7 +61,7 @@ Pub. L. 109–163, div. A, title VI, §§613(b), 651(b)(2), 653(b) Jan. 6, 2006,
 
 <b>2003</b>—Pub. L. 108–136, div. A, title V, §541(b)(5)(B), title VI, §635(b), Nov. 24, 2003, 117 Stat. 1477, 1511, added item 404b and substituted "High-deployment allowance: lengthy or numerous deployments; frequent mobilizations" for "Per diem allowance for lengthy or numerous deployments" in item 436.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292,made technical amendment to directory language of Pub. L. 106–65, §586(c)(2). See 1999 Amendment note below.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, §586(c)(2). See 1999 Amendment note below.
 
 Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(A)(ii)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, §578(k)(4). See 1999 Amendment note below.
 

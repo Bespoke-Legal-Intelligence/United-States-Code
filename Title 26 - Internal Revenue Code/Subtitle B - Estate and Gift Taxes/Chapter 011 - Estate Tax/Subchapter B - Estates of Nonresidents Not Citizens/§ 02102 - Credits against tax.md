@@ -36,7 +36,7 @@ The tax imposed by section 2101 shall be credited with the amounts determined in
 
 &emsp;For purposes of subsection (a), sections 2012 and 2013 shall be applied as if the credit allowed under this subsection were allowed under section 2010.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(b), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 94–455, title XX, §2001(c)(1)(E)(i), Oct. 4, 1976, 90 Stat. 1851; Pub. L. 100–647, title V, §5032(b), Nov. 10, 1988, 102 Stat. 3669; Pub. L. 104–188, title I, §1704(f)(1), Aug. 20, 1996, 110 Stat. 1879; Pub. L. 105–34, title V, §501(a)(1)(E), Aug. 5, 1997, 111 Stat. 845; Pub. L. 107–16, title V, §532(c)(7), June 7, 2001, 115 Stat. 75.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(b), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 94–455, title XX, §2001(c)(1)(E)(i), Oct. 4, 1976, 90 Stat. 1851; Pub. L. 100–647, title V,§5032(b), Nov. 10, 1988, 102 Stat. 3669; Pub. L. 104–188, title I, §1704(f)(1), Aug. 20, 1996, 110 Stat. 1879; Pub. L. 105–34, title V, §501(a)(1)(E), Aug. 5, 1997, 111 Stat. 845; Pub. L. 107–16, title V, §532(c)(7), June 7, 2001, 115 Stat. 75.)
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Subsec. (c)(3). Pub. L. 100–647, §5032(b)(2), amended par. (3) generally, sub
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1997 Amendment
 

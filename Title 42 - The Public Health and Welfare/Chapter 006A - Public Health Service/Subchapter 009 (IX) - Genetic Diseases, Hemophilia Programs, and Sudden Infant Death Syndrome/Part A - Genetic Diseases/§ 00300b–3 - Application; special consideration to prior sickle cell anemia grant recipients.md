@@ -4,7 +4,7 @@
 
 A grant or contract under this part may be made upon application submitted to the Secretary at such time, in such manner, and containing and accompanied by such information, as the Secretary may require, including assurances for an evaluation whether performed by the applicant or by the Secretary. Such grant or contract may be made available on less than a statewide or regional basis. Each applicant shall—
 
-&emsp;(1) provide that the programs and activities for which assistance under this part is soughtwill be administered by or under the supervision of the applicant;
+&emsp;(1) provide that the programs and activities for which assistance under this part is sought will be administered by or under the supervision of the applicant;
 
 &emsp;(2) provide for strict confidentiality of all test results, medical records, and other information regarding testing, diagnosis, counseling, or treatment of any person treated, except for (A) such information as the patient (or his guardian) gives informed consent to be released, or (B) statistical data compiled without reference to the identity of any such patient;
 
@@ -14,7 +14,7 @@ A grant or contract under this part may be made upon application submitted to th
 
 #### (b) Considerations for grants and contracts under section 300b–1 of this title
 
-In making grants and entering into contracts for any fiscal year under section 241 of this title for projects described in section 300b–1 of this title the Secretary shall give special consideration to applications from entities that received grants from, or entered into contracts with, the Secretary for the preceding fiscal year for the conduct of comprehensive sickle cell centers or sickle cell screening and education clinics.
+In making grants and entering into contracts for any fiscal year under section 241 of this title for projects described in section 300b–1 of this title the Secretary shall give special consideration to applications from entities that received grants from, or entered into contracts with, the Secretary for the preceding fiscal year for theconduct of comprehensive sickle cell centers or sickle cell screening and education clinics.
 
 (July 1, 1944, ch. 373, title XI, §1104, as added Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 408; amended Pub. L. 95–626, title II, §205(c), Nov. 10, 1978, 92 Stat. 3584; Pub. L. 97–35, title XXI, §2193(b)(2), (3), Aug. 13, 1981, 95 Stat. 827.)
 

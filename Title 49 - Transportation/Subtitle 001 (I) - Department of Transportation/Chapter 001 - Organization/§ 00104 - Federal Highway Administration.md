@@ -16,7 +16,7 @@
 
 (d) Notwithstanding the provisions of sections 101(d) and 144 of title 23, highway bridges determined to be unreasonable obstructions to navigation under the Truman-Hobbs Act may be funded from amounts set aside from the discretionary bridge program. The Secretary shall transfer these allocations and the responsibility for administration of these funds to the United States Coast Guard.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1), Oct. 19, 1996, 110 Stat. 3905; Pub. L. 106–159, title I, §101(c)(2), Dec. 9, 1999, 113 Stat. 1751.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1),Oct. 19, 1996, 110 Stat. 3905; Pub. L. 106–159, title I, §101(c)(2), Dec. 9, 1999, 113 Stat. 1751.)
 
 Historical and Revision Notes
 

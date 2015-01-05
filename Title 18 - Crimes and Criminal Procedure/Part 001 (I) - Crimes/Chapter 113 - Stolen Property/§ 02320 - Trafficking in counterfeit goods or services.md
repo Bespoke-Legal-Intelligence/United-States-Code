@@ -98,7 +98,7 @@ Definitions.—For the purposes of this section—
 
 &emsp;(5) the term "traffic" means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of; and
 
-&emsp;(6) the term "counterfeit drug" means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses acounterfeit mark on or in connection with the drug.
+&emsp;(6) the term "counterfeit drug" means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses a counterfeit mark on or in connection with the drug.
 
 (g)
 
@@ -170,7 +170,7 @@ Subsec. (b). Pub. L. 110–403, §205(b), amended subsec. (b) generally. Prior t
 
 Subsec. (h). Pub. L. 110–403, §205(a)(2), added subsec. (h).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–181, §1(b)(1), inserted ", or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases,hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive," after "such goods or services".
+<b>2006</b>—Subsec. (a). Pub. L. 109–181, §1(b)(1), inserted ", or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive," after "such goods or services".
 
 Subsec. (b). Pub. L. 109–181, §1(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Upon a determination by a preponderance of the evidence that any articles in the possession of a defendant in a prosecution under this section bear counterfeit marks, the United States may obtain an order for the destruction of such articles."
 

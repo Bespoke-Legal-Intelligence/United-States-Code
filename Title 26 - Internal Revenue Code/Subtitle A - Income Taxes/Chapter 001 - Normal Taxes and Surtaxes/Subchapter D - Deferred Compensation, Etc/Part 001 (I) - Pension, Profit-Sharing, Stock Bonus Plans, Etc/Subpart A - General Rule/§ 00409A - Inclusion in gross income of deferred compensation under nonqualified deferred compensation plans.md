@@ -182,7 +182,7 @@
 
 #### (ii) Covered employee
 
-&emsp;&emsp;&emsp;The term "covered employee" means an individual described in section 162(m)(3) or an individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
+&emsp;&emsp;&emsp;The term "covered employee" means an individual described in section 162(m)(3) oran individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
 
 #### (4) Income inclusion for offshore trusts and employer's financial health
 
@@ -332,7 +332,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Guidance Relating to Conformance With Funding Rules
 
-Pub. L. 109–135, title IV, §403(hh)(3)(B), Dec. 21, 2005, 119 Stat. 2631, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 21,2005\], the Secretary of the Treasury shall issue guidance under which a nonqualified deferred compensation plan which is in violation of the requirements of section 409A(b) of such Code shall be treated as not having violated such requirements if such plan comes into conformance with such requirements during such limited period as the Secretary may specify in such guidance."
+Pub. L. 109–135, title IV, §403(hh)(3)(B), Dec. 21, 2005, 119 Stat. 2631, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 21, 2005\], the Secretary of the Treasury shall issue guidance under which a nonqualified deferred compensation plan which is in violation of the requirements of section 409A(b) of such Code shall be treated as not having violated such requirements if such plan comes into conformance with such requirements during such limited period as the Secretary may specify in such guidance."
 
 #### Guidance Relating to Change of Ownership or Control
 

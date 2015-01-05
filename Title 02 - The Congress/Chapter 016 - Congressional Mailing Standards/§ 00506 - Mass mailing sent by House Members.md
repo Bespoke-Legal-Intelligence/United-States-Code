@@ -2,7 +2,7 @@
 
 #### (a) Notice that mailing is at taxpayer expense
 
-Each mass mailing sent by a Member of the House of Representatives shall bear in a prominent place on its face, or on the envelope or outside cover or wrapper in which the mail matter is sent, the following notice: <i>“this mailing was prepared, published, and mailed at taxpayer expense.”</i>, or a notice to the same effect in words which may be prescribed under subsection (c) of this section. The notice shall be printed in a type size not smaller than 7-point.
+Each mass mailing sent by a Member of the House of Representatives shall bear in a prominent place on its face, or on the envelope or outside cover or wrapper in which the mail matter is sent, the following notice: <i>"this mailing was prepared, published, and mailed at taxpayer expense."</i>, or a notice to the same effect in words which may be prescribed under subsection (c). The notice shall be printed in a type size not smaller than 7-point.
 
 #### (b) Publication of each Member's total expense and amount
 
@@ -22,9 +22,9 @@ The Committee on House Oversight shall prescribe such rules and regulations and 
 
 For purposes of this section—
 
-&emsp;(1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
+&emsp;(1) the term "Member of the House of Representatives" means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
 
-&emsp;(2) the term “mass mailing” has the meaning given such term by section 3210(a)(6)(E) of title 39.
+&emsp;(2) the term "mass mailing" has the meaning given such term by section 3210(a)(6)(E) of title 39.
 
 #### (e) Applicability
 

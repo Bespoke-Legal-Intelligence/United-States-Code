@@ -359,7 +359,7 @@ Subsec. (g)(1)(B). Pub. L. 103–208, §2(g)(4), inserted closing parenthesis af
 
 Subsec. (g)(3). Pub. L. 103–208, §2(g)(5), in table added last item relating to Other.
 
-<b>1992</b>—Pub. L. 102–325 amended section generally, making minor changes in subsecs. (a) to (c) and (e) to (g), in subsec. (d) substituting provisions relating to parents' contribution from assets for provisions relating to parents' income supplemental amount from assets, in subsec. (h) substituting provisions relating to student contribution from assets for provisions relating to student and spouse income supplemental amount from assets, and in subsec. (i) substituting provisions relatingto adjustments to parents' contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter for provisions relating to adjustments for enrollment periods other than 9 months.
+<b>1992</b>—Pub. L. 102–325 amended section generally, making minor changes in subsecs. (a) to (c) and (e) to (g), in subsec. (d) substituting provisions relating to parents' contribution from assets for provisions relating to parents' income supplemental amount from assets, in subsec. (h) substituting provisions relating to student contribution from assets for provisions relating to student and spouse income supplemental amount from assets, and in subsec. (i) substituting provisions relating to adjustments to parents' contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter for provisions relating to adjustments for enrollment periods other than 9 months.
 
 <b>1987</b>—Subsec. (c)(2), (4). Pub. L. 100–50, §14(1), substituted "section 1087rr of this title" for "section 1087ss of this title".
 
@@ -413,7 +413,7 @@ Pub. L. 110–84, title VI, §601(e), Sept. 27, 2007, 121 Stat. 804, provided th
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
+Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
 
 #### Effective Date of 1998 Amendment
 

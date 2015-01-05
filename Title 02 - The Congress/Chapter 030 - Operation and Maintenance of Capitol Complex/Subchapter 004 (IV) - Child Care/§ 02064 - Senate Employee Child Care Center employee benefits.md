@@ -4,7 +4,7 @@
 
 The provisions of this section shall apply to any individual who—
 
-&emsp;(1)(A) on October 6, 1992, is employed by the Senate day care center (known as the “Senate Employee Child Care Center”) established pursuant to Senate Resolution 269, Ninety-eighth Congress, and section 2061 of this title; and
+&emsp;(1)(A) on October 6, 1992, is employed by the Senate day care center (known as the "Senate Employee Child Care Center") established pursuant to Senate Resolution 269, Ninety-eighth Congress, and section 2061 of this title; and
 
 &emsp;(B) makes an election to be covered by this section with the Secretary of the Senate, no later than 60 days after October 6, 1992; or
 
@@ -12,25 +12,25 @@ The provisions of this section shall apply to any individual who—
 
 #### (b) Payment of deposit; payroll deduction
 
-(1) Any individual described under subsection (a) of this section may be credited,<sup>1</sup> under section 8411 of title 5 for service as an employee of the Senate day care center before January 1, 1993, if such employee makes a payment of the deposit under section 8411(f)(2) of such title without application of the provisions of section 8411(b)(3) of such title.
+(1) Any individual described under subsection (a) may be credited,<sup>1</sup> under section 8411 of title 5 for service as an employee of the Senate day care center before January 1, 1993, if such employee makes a payment of the deposit under section 8411(f)(2) of such title without application of the provisions of section 8411(b)(3) of such title.
 
-(2) An individual described under subsection (a) of this section shall be credited under section 8411 of title 5 for any service as an employee of the Senate day care center on or after October 6, 1992, if such employee has such amounts deducted and withheld from his pay as determined by the Office of Personnel Management (in accordance with regulations prescribed by such Office subject to subsection (h) of this section) which would be deducted and withheld from the basic pay of an employee under section 8422 of title 5.
+(2) An individual described under subsection (a) shall be credited under section 8411 of title 5 for any service as an employee of the Senate day care center on or after October 6, 1992, if such employee has such amounts deducted and withheld from his pay as determined by the Office of Personnel Management (in accordance with regulations prescribed by such Office subject to subsection (h) of this section) which would be deducted and withheld from the basic pay of an employee under section 8422 of title 5.
 
 #### (c) Survivor annuities and disability benefits
 
-Notwithstanding any other provision of this section, any service performed by an individual described under subsection (a) of this section as an employee of the Senate day care center is deemed to be civilian service creditable under section 8411 of title 5 for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to section 8422 of title 5 for such period so credited, together with interest thereon.
+Notwithstanding any other provision of this section, any service performed by an individual described under subsection (a) as an employee of the Senate day care center is deemed to be civilian service creditable under section 8411 of title 5 for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to section 8422 of title 5 for such period so credited, together with interest thereon.
 
 #### (d) Participation in Thrift Savings Plan
 
-An individual described under subsection (a) of this section shall be deemed a congressional employee for purposes of chapter 84 of title 5 including subchapter III thereof and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after October 6, 1992.
+An individual described under subsection (a) shall be deemed a congressional employee for purposes of chapter 84 of title 5 including subchapter III thereof and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after October 6, 1992.
 
 #### (e) Life insurance coverage
 
-An individual described under subsection (a) of this section shall be deemed an employee under section 8701(a)(3) of title 5 for purposes of life insurance coverage under chapter 87 of such title.
+An individual described under subsection (a) shall be deemed an employee under section 8701(a)(3) of title 5 for purposes of life insurance coverage under chapter 87 of such title.
 
 #### (f) Government contributions
 
-Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708,<sup>2</sup> shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
+Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708,<sup>2</sup> shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, "Miscellaneous Items".
 
 #### (g) Certification of creditable service
 
@@ -38,9 +38,9 @@ The Office of Personnel Management shall accept the certification of the Secreta
 
 #### (h) Payment to center of amounts equal to Federal tax on employers
 
-(1) Subject to the provisions of paragraph (2), the Secretary of the Senate shall pay such amounts to the Senate day care center equal to the tax on employers under section 3111 of title 26 with respect to each employee of the Senate day care center. Such payments shall be made from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
+(1) Subject to the provisions of paragraph (2), the Secretary of the Senate shall pay such amounts to the Senate day care center equal to the tax on employers under section 3111 of title 26 with respect to each employee of the Senate day care center. Such payments shall be made from the appropriations account, within the contingent fund of the Senate, "Miscellaneous Items".
 
-(2) The Senate day care center shall provide appropriate documentation to the Secretary of the Senate of payment by such center of the tax described under paragraph (1), before the Secretary of the Senate may pay any amount to such center as provided under paragraph (1).
+(2) The Senate day care center shall provide appropriate documentation to the Secretary of the Senate of payment by such center of the taxdescribed under paragraph (1), before the Secretary of the Senate may pay any amount to such center as provided under paragraph (1).
 
 #### (i) Administrative provisions
 
@@ -70,17 +70,17 @@ Section was classified to section 214d of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(1). Pub. L. 103–50, §1203(b)(1), substituted “January 1, 1993” for “October 6, 1992”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–50, §1203(b)(1), substituted "January 1, 1993" for "October 6, 1992".
 
 Subsecs. (h) to (j). Pub. L. 103–50, §1203(a)(1), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–50, ch. XII, §1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\].”
+Pub. L. 103–50, ch. XII, §1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\]."
 
-Pub. L. 103–50, ch. XII, §1203(b)(2), July 2, 1993, 107 Stat. 268, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 2, 1993\].”
+Pub. L. 103–50, ch. XII, §1203(b)(2), July 2, 1993, 107 Stat. 268, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 2, 1993\]."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The words “of title 5” probably should precede the comma.</i>
+<i><sup>2</sup></i><i> So in original. The words "of title 5" probably should precede the comma.</i>
 

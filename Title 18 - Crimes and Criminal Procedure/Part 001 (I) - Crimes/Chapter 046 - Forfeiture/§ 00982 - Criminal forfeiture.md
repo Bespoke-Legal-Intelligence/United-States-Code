@@ -44,7 +44,7 @@
 
 (6)(A) The court, in imposing sentence on a person convicted of a violation of, or conspiracy to violate, section 274(a), 274A(a)(1), or 274A(a)(2) of the Immigration and Nationality Act or section 555, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title, or a violation of, or conspiracy to violate, section 1028 of this title if committed in connection with passport or visa issuance or use, shall order that the person forfeit to the United States, regardless of any provision of State law—
 
-&emsp;(i) any conveyance, including any vessel, vehicle, or aircraft used in the commission ofthe offense of which the person is convicted; and
+&emsp;(i) any conveyance, including any vessel, vehicle, or aircraft used in the commission of the offense of which the person is convicted; and
 
 &emsp;(ii) any property real or personal—
 

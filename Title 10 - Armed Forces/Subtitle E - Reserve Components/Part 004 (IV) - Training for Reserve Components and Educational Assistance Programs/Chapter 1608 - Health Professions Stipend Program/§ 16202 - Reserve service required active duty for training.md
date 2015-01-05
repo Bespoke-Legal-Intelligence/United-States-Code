@@ -6,7 +6,7 @@ Selected Reserve.—A person who is required under an agreement under section 16
 
 (b)
 
-IRR Service.—A person who is required under an agreement under section 16201 of thistitle to serve in the Individual Ready Reserve shall serve—
+IRR Service.—A person who is required under an agreement under section 16201 of this title to serve in the Individual Ready Reserve shall serve—
 
 &emsp;(1) not less than 30 days of initial active duty for training; and
 

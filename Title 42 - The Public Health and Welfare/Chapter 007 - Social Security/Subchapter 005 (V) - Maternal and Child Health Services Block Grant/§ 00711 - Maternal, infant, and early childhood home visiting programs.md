@@ -72,7 +72,7 @@ The purposes of this section are—
 
 #### (4) Technical assistance
 
-&emsp;The Secretary shall provide an eligible entity that receives a grant under paragraph (1) with technical assistance in administering programs or activities conducted in whole or in part with grant funds.
+&emsp;The Secretary shall provide an eligible entity that receives a grant under paragraph (1)with technical assistance in administering programs or activities conducted in whole or in part with grant funds.
 
 #### (d) Requirements
 
@@ -156,7 +156,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the program is conducted using 1 or more of the service delivery models described in item (aa) or (bb) of subclause (I) or in subclause (II) selected by the eligible entity:
+&emsp;&emsp;&emsp;Subject to clause (ii), the program is conducted using 1 or more of the servicedelivery models described in item (aa) or (bb) of subclause (I) or in subclause (II) selected by the eligible entity:
 
 &emsp;&emsp;&emsp;&emsp;(I) The model conforms to a clear consistent home visitation model that has been in existence for at least 3 years and is research-based, grounded in relevant empirically-based knowledge, linked to program determined outcomes, associated with a national organization or institution of higher education that has comprehensive home visitation program standards that ensure high quality service delivery and continuous program quality improvement, and has demonstrated significant,<sup>2</sup> (and in the case of the service delivery model described in item (aa), sustained) positive outcomes, as described in the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), when evaluated using well-designed and rigorous—
 
@@ -216,7 +216,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;(1) A description of the populations to be served by the entity, including specific information regarding how the entity will serve high risk populations described in subsection (d)(4).
 
-&emsp;(2) An assurance that the entity will give priority to serving low-income eligible families and eligible families who reside in at risk communities identified in the statewide needsassessment required under subsection (b)(1)(A).
+&emsp;(2) An assurance that the entity will give priority to serving low-income eligible families and eligible families who reside in at risk communities identified in the statewide needs assessment required under subsection (b)(1)(A).
 
 &emsp;(3) The service delivery model or models described in subsection (d)(3)(A) that the entity will use under the program and the basis for the selection of the model or models.
 
@@ -364,13 +364,15 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 &emsp;&emsp;(C) $350,000,000 for fiscal year 2012;
 
-&emsp;&emsp;(D) $400,000,000 for fiscal year 2013; and
+&emsp;&emsp;(D) $400,000,000 for fiscal year 2013;
 
-&emsp;&emsp;(E) $400,000,000 for fiscal year 2014.
+&emsp;&emsp;(E) $400,000,000 for fiscal year 2014; and
+
+&emsp;&emsp;(F) for the period beginning on October 1, 2014, and ending on March 31, 2015, an amount equal to the amount provided in subparagraph (E).
 
 #### (2) Reservations
 
-&emsp;Of the amount appropriated under this subsection for a fiscal year, the Secretary shall reserve—
+&emsp;Of the amount appropriated under this subsection for a fiscal year (or portion of a fiscal year), the Secretary shall reserve—
 
 &emsp;&emsp;(A) 3 percent of such amount for purposes of making grants to eligible entities that are Indian Tribes (or a consortium of Indian Tribes), Tribal Organizations, or Urban Indian Organizations; and
 
@@ -378,7 +380,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 #### (3) Availability
 
-&emsp;Funds made available to an eligible entity under this section for a fiscal year shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
+&emsp;Funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
 
 #### (k) Definitions
 
@@ -406,7 +408,7 @@ In this section:
 
 &emsp;The terms "Indian Tribe" and "Tribal Organization", and "Urban Indian Organization" have the meanings given such terms in section 1603 of title 25.
 
-(Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334.)
+(Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046.)
 
 #### References in Text
 
@@ -419,6 +421,12 @@ A prior section 711, act Aug. 14, 1935, ch. 531, title V, §511, as added Jan. 2
 Another prior section 711, acts Aug. 14, 1935, ch. 531, title V, §511, 49 Stat. 631; Aug. 10, 1939, ch. 666, title V, §504, 53 Stat. 1380; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §401(b)(4), 60 Stat. 986; Aug. 28, 1950, ch. 809, title III, pt. 3, §331(c), pt. 6, §361(e), 64 Stat. 551, 558; Aug. 28, 1958, Pub. L. 85–840, title VI, §603(a), 72 Stat. 1055; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(2)(A), 74 Stat. 995; Oct. 24, 1963, Pub. L. 88–156, §3(a), 77 Stat. 273; July 30, 1965, Pub. L. 89–97, title II, §202(a), 79 Stat. 353, authorized appropriations, for services for crippled children, of $25,000,000, $30,000,000, $35,000,000, $45,000,000, $50,000,000, $55,000,000, and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and thereafter respectively, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 701 of this title.
 
 Provisions similar to those comprising former section 711 were contained in section 516 of act Aug. 14, 1935, ch. 531, title V, as added July 30, 1965, Pub. L. 89–97, title II, §203(a), 79 Stat. 353 (formerly classified to section 716 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (j)(1)(F). Pub. L. 113–93, §209(1), added subpar. (F).
+
+Subsec. (j)(2), (3). Pub. L. 113–93, §209(2), inserted "(or portion of a fiscal year)" after "for a fiscal year".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

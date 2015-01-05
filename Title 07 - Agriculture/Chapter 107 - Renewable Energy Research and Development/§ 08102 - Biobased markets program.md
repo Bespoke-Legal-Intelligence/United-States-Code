@@ -18,13 +18,15 @@
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii) and subparagraph (B), after the date specified in applicable guidelines prepared pursuant to paragraph (3), each procuring agency shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) establish a procurement program, develop procurement specifications, and procure biobased products identified under the guidelines described in paragraph (3) in accordance with this section; and
+&emsp;&emsp;&emsp;&emsp;(I) establish a procurement program, develop procurement specifications, and procure biobased products identified under the guidelines described in paragraph (3) in accordance with this section;
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to items described in the guidelines, give a procurement preference to those items that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) are composed of the highest percentage of biobased products practicable; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) comply with the regulations issued under section 6914b–1 of title 42.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) comply with the regulations issued under section 6914b–1 of title 42; and
+
+&emsp;&emsp;&emsp;&emsp;(III) establish a targeted biobased-only procurement requirement under which the procuring agency shall issue a certain number of biobased-only contracts when the procuring agency is purchasing products, or purchasing services that include the use of products, that are included in a biobased product category designated by the Secretary.
 
 #### (ii) Exception
 
@@ -32,7 +34,7 @@
 
 #### (B) Flexibility
 
-&emsp;&emsp;Notwithstanding subparagraph (A), a procuring agency may decide not to procure items described in that subparagraph if the procuring agency determines that the items—
+&emsp;&emsp;Notwithstanding subparagraph (A), a procuring agency may decide not to procureitems described in that subparagraph if the procuring agency determines that the items—
 
 &emsp;&emsp;&emsp;(i) are not reasonably available within a reasonable period of time;
 
@@ -94,13 +96,17 @@
 
 &emsp;&emsp;&emsp;(iv) set forth recommended practices with respect to the procurement of biobased products and items containing such materials;
 
-&emsp;&emsp;&emsp;(v) provide information as to the availability, relative price, performance, and environmental and public health benefits of such materials and items; and
+&emsp;&emsp;&emsp;(v) require reporting of quantities and types of biobased products purchased by procuring agencies;
 
-&emsp;&emsp;&emsp;(vi) take effect on the date established in the guidelines, which may not exceed 1 year after publication.
+&emsp;&emsp;&emsp;(vi) promote biobased products, including forest products, that apply an innovative approach to growing, harvesting, sourcing, procuring, processing, manufacturing, or application of biobased products regardless of the date of entry into the marketplace;
+
+&emsp;&emsp;&emsp;(vii) as determined to be necessary by the Secretary based on the availability of data, provide information as to the availability, relative price, performance, and environmental and public health benefits of such materials and items; and
+
+&emsp;&emsp;&emsp;(viii) take effect on the date established in the guidelines, which may not exceed 1 year after publication.
 
 #### (C) Information provided
 
-&emsp;&emsp;Information provided pursuant to subparagraph (B)(v) with respect to a material or item shall be considered to be provided for another item made with the same material or item.
+&emsp;&emsp;Information provided pursuant to subparagraph (B)(v) <sup>1</sup> with respect to a material or item shall be considered to be provided for another item made with the same material or item.
 
 #### (D) Prohibition
 
@@ -113,6 +119,10 @@
 &emsp;&emsp;&emsp;(i) the purchase price of the item exceeds $10,000; or
 
 &emsp;&emsp;&emsp;(ii) the quantity of the items or of functionally-equivalent items purchased or acquired during the preceding fiscal year was at least $10,000.
+
+#### (F) Required designations
+
+&emsp;&emsp;Not later than 1 year after February 7, 2014, the Secretary shall begin to designate intermediate ingredients or feedstocks and assembled and finished biobased products in the guidelines issued under this paragraph.
 
 #### (4) Administration
 
@@ -142,7 +152,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the results of the annual review and monitoring program established under paragraph (2)(C)(iv);
 
-&emsp;&emsp;&emsp;&emsp;(III) the number and dollar value of contracts entered into during the yearthat include the direct procurement of biobased products;
+&emsp;&emsp;&emsp;&emsp;(III) the number and dollar value of contracts entered into during the year that include the direct procurement of biobased products;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the number of service and construction (including renovations) contracts entered into during the year that include language on the use of biobased products; and
 
@@ -184,7 +194,17 @@
 
 #### (3) Use of label
 
-&emsp;The Secretary shall ensure that the label referred to in paragraph (1) is used only on products that meet the criteria issued pursuant to paragraph (2).
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall ensure that the label referred to in paragraph (1) is used only on products that meet the criteria issued pursuant to paragraph (2).
+
+#### (B) Auditing and compliance
+
+&emsp;&emsp;The Secretary may carry out such auditing and compliance activities as the Secretary determines to be necessary to ensure compliance with subparagraph (A).
+
+#### (4) Assembled and finished products
+
+&emsp;Not later than 1 year after February 7, 2014, the Secretary shall begin issuing criteria fordetermining which assembled and finished products may qualify to receive the label under paragraph (1).
 
 #### (c) Recognition
 
@@ -206,7 +226,11 @@ Effective beginning on the date that is 90 days after the date of enactment of t
 
 The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.
 
-#### (g) Reports
+#### (g) Forest products laboratory coordination
+
+In determining whether products are eligible for the "USDA Certified Biobased Product" label, the Secretary (acting through the Forest Products Laboratory) shall provide appropriate technical and other assistance to the program and applicants for forest products.
+
+#### (h) Reports
 
 #### (1) In general
 
@@ -214,35 +238,61 @@ The Secretary shall establish a national registry of testing centers for biobase
 
 #### (2) Contents
 
-&emsp;The report shall include—
+&emsp;Each report under paragraph (1) shall include—
 
-&emsp;&emsp;(A) a comprehensive management plan that establishes tasks, milestones, and timelines, organizational roles and responsibilities, and funding allocations for fully implementing this section; and
+&emsp;&emsp;(A) a comprehensive management plan that establishes tasks, milestones, and timelines, organizational roles and responsibilities, and funding allocations for fully implementing this section;
 
 &emsp;&emsp;(B) information on the status of implementation of—
 
 &emsp;&emsp;&emsp;(i) item designations (including designation of intermediate ingredients and feedstocks); and
 
-&emsp;&emsp;&emsp;(ii) the voluntary labeling program established under subsection (b).
+&emsp;&emsp;&emsp;(ii) the voluntary labeling program established under subsection (b); and
 
-#### (h) Funding
+&emsp;&emsp;(C) the progress made by other Federal agencies in compliance with the biobased procurement requirements, including the quantity of purchases made.
+
+#### (3) Economic impact study and report
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall conduct a study to assess the economic impact of the biobased products industry, including—
+
+&emsp;&emsp;&emsp;(i) the quantity of biobased products sold;
+
+&emsp;&emsp;&emsp;(ii) the value of the biobased products;
+
+&emsp;&emsp;&emsp;(iii) the quantity of jobs created;
+
+&emsp;&emsp;&emsp;(iv) the quantity of petroleum displaced;
+
+&emsp;&emsp;&emsp;(v) other environmental benefits; and
+
+&emsp;&emsp;&emsp;(vi) areas in which the use or manufacturing of biobased products could be more effectively used, including identifying any technical and economic obstacles and recommending how those obstacles can be overcome.
+
+#### (B) Report
+
+&emsp;&emsp;Not later than 1 year after February 7, 2014, the Secretary shall submit to Congress a report describing the results of the study conducted under subparagraph (A).
+
+#### (i) Funding
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to provide mandatory funding for biobased products testing and labeling as required to carry out this section—
-
-&emsp;&emsp;(A) $1,000,000 for fiscal year 2008; and
-
-&emsp;&emsp;(B) $2,000,000 for each of fiscal years 2009 through 2012.
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2018.
 
 #### (2) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2009 through 2013.
+&emsp;There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2014 through 2018.
 
-(Pub. L. 107–171, title IX, §9002, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1305, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2067; amended Pub. L. 112–240, title VII, §701(f)(1), Jan. 2, 2013, 126 Stat. 2364.)
+#### (j) Biobased product inclusion
+
+In this section, the term "biobased product" (as defined in section 8101 of this title) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
+
+(Pub. L. 107–171, title IX, §9002, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1305, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2067; amended Pub. L. 112–240, title VII, §701(f)(1), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title IX, §9002(a), Feb. 7, 2014, 128 Stat. 926.)
 
 #### References in Text
 
-The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A), (e), and (g)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+Subparagraph (B)(v) of subsection (a)(3) of this section, referred to in subsec. (a)(3)(C), was redesignated subparagraph (B)(vii) by Pub. L. 113–79, title IX, §9002(a)(1)(B)(i)(II), Feb. 7, 2014, 128 Stat. 927.
+
+The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A), (e), and (h)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
@@ -253,6 +303,36 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8102, Pub. L. 107–171, title IX, §9002, May 13, 2002, 116 Stat. 476; Pub. L. 109–58, title II, §205, title IX, §943(a)(2), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881, related to Federal procurement of biobased products, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(2)(A)(i)(III). Pub. L. 113–79, §9002(a)(1)(A), added subcl. (III).
+
+Subsec. (a)(3)(B)(v). Pub. L. 113–79, §9002(a)(1)(B)(i)(III), added cl. (v). Former cl. (v) redesignated (vii).
+
+Pub. L. 113–79, §9002(a)(1)(B)(i)(I), inserted "as determined to be necessary by the Secretary based on the availability of data," before "provide information".
+
+Subsec. (a)(3)(B)(vi). Pub. L. 113–79, §9002(a)(1)(B)(i)(III), added cl. (vi). Former cl. (vi) redesignated (viii).
+
+Subsec. (a)(3)(B)(vii), (viii). Pub. L. 113–79, §9002(a)(1)(B)(i)(II), redesignated cls. (v) and (vi) as (vii) and (viii), respectively.
+
+Subsec. (a)(3)(F). Pub. L. 113–79, §9002(a)(1)(B)(ii), added subpar. (F).
+
+Subsec. (b)(3). Pub. L. 113–79, §9002(a)(2)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (b)(4). Pub. L. 113–79, §9002(a)(2)(B), added par. (4).
+
+Subsec. (g). Pub. L. 113–79, §9002(a)(5), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (g)(2). Pub. L. 113–79, §9002(a)(3)(A)(i), substituted "Each report under paragraph (1)" for "The report" in introductory provisions.
+
+Subsec. (g)(2)(C). Pub. L. 113–79, §9002(a)(3)(A)(ii)–(iv), added subpar. (C).
+
+Subsec. (g)(3). Pub. L. 113–79, §9002(a)(3)(B), added par. (3).
+
+Subsecs. (h), (i). Pub. L. 113–79, §9002(a)(4), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
+
+Subsec. (i)(1), (2). Pub. L. 113–79, §9002(a)(6), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to mandatory funding for fiscal years 2008 through 2012 and discretionary funding for fiscal years 2009 through 2013, respectively.
+
+Subsec. (j). Pub. L. 113–79, §9002(a)(7), added subsec. (j).
 
 <b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted "2013" for "2012".
 
@@ -298,7 +378,7 @@ Sec. 3. <i>Changes in Procurement Mechanisms</i>. Several actions can be taken t
 
 (b) the Secretary of Agriculture to work with relevant officials in agencies that have electronic product procurement catalogs to identify and implement solutions to increase the visibility of biobased and other sustainable products;
 
-(c) the Senior Sustainability Officers of all agencies that have established agency-specific product specifications, in coordination with any other appropriate officials, to review and revise all specifications under their control to assure that, wherever possible and appropriate, such specifications require the use of sustainable products, including USDA-designated biobased products, and that any language prohibiting the use ofbiobased products is removed. The review shall be on a 4-year cycle. Significant review should be completed within 1 year of the date of this memorandum, and the results of the reviews shall be annually reported to OMB and the Office of Science and Technology Policy (OSTP); and
+(c) the Senior Sustainability Officers of all agencies that have established agency-specific product specifications, in coordination with any other appropriate officials, to review and revise all specifications under their control to assure that, wherever possible and appropriate, such specifications require the use of sustainable products, including USDA-designated biobased products, and that any language prohibiting the use of biobased products is removed. The review shall be on a 4-year cycle. Significant review should be completed within 1 year of the date of this memorandum, and the results of the reviews shall be annually reported to OMB and the Office of Science and Technology Policy (OSTP); and
 
 (d) the Secretary of Agriculture to amend USDA's automated contract writing system, the Integrated Acquisition System, to serve as a model for biobased product procurement throughout the Federal Government by adding elements related to acquisition planning, evaluation factors for source selection, and specifications and requirements. Once completed, USDA shall share the model with all agencies and, as appropriate, assist any agency efforts to adopt similar mechanisms.
 
@@ -347,4 +427,6 @@ Sec. 8. <i>General Provisions</i>. (a) This memorandum shall apply to an agency 
 (e) The Secretary of Agriculture is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

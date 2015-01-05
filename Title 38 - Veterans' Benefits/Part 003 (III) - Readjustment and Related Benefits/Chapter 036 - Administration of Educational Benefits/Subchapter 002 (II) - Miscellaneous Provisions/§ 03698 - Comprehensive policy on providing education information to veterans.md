@@ -2,7 +2,7 @@
 
 (a)
 
-Comprehensive Policy Required.—The Secretary shall develop a comprehensive policy to improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning.
+Comprehensive Policy Required.—The Secretary shall develop a comprehensive policyto improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning.
 
 (b)
 
@@ -70,7 +70,7 @@ Consistency With Existing Education Policy.—In carrying out this section, the 
 
 (e)
 
-Communication With Institutions of Higher Learning.—To the extent practicable, if the Secretary considers it necessary to communicate with an institution of higher learning to carry out the comprehensive policy required by subsection (a), the Secretary shall carry out such communication through the use of a communication system of the Department of Education.
+Communication With Institutions of Higher Learning.—To the extent practicable, if theSecretary considers it necessary to communicate with an institution of higher learning to carry out the comprehensive policy required by subsection (a), the Secretary shall carry out such communication through the use of a communication system of the Department of Education.
 
 (f)
 
@@ -102,7 +102,7 @@ Survey.—In developing the policy required by section 3698(a) of title 38, Unit
 
 &emsp;"(1) A commercially available off-the-shelf online tool that allows a veteran or member of the Armed Forces to assess whether the veteran or member is academically ready to engage in postsecondary education and training opportunities and whether the veteran or member would need any remedial preparation before beginning such opportunities.
 
-&emsp;"(2) A commercially available off-the-shelf online tool that provides a veteran or member of the ArmedForces with a list of providers of postsecondary education and training opportunities based on criteria selected by the veteran or member.
+&emsp;"(2) A commercially available off-the-shelf online tool that provides a veteran or member of the Armed Forces with a list of providers of postsecondary education and training opportunities based on criteria selected by the veteran or member.
 
 "(c)
 

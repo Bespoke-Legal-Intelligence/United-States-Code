@@ -6,7 +6,7 @@
 
 (b) Consistent with the obligations of the Government in the International Monetary Fund on orderly exchange arrangements and a stable system of exchange rates, the Secretary or an agency designated by the Secretary, with the approval of the President, may deal in gold, foreign exchange, and other instruments of credit and securities the Secretary considers necessary. However, a loan or credit to a foreign entity or government of a foreign country may be made for more than 6 months in any 12-month period only if the President gives Congress a written statement that unique or emergency circumstances require the loan or credit be for more than 6 months.
 
-(c)(1) By the 30th day after the end of each month, the Secretary shall give the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a detailed financial statement on the stabilization fund showing all agreements made or renewed, all transactions occurring during the month, and all projected liabilities.
+(c)(1) By the 30th day after the end of each month, the Secretary shall give the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee onBanking, Housing, and Urban Affairs of the Senate a detailed financial statement on the stabilization fund showing all agreements made or renewed, all transactions occurring during the month, and all projected liabilities.
 
 (2) The Secretary shall report each year to the President and Congress on the operation of the fund.
 

@@ -24,7 +24,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–203 amended section generally. Prior to amendment, section read as follows: "The Secretaryshall, under such regulations as he may prescribe, charge and collect reasonable fees for services performed under this chapter. Such fees shall be deposited into the Treasury as miscellaneous receipts. There are hereby authorized to be appropriated such funds as may be necessary to carry out the provisions of this chapter."
+<b>1987</b>—Pub. L. 100–203 amended section generally. Prior to amendment, section read as follows: "The Secretary shall, under such regulations as he may prescribe, charge and collect reasonable fees for services performed under this chapter. Such fees shall be deposited into the Treasury as miscellaneous receipts. There are hereby authorized to be appropriated such funds as may be necessary to carry out the provisions of this chapter."
 
 <b>1980</b>—Pub. L. 96–574 substituted provisions relating to deposit of fees and authorization of appropriations for provisions relating to recovering of fees, initial capital of the fund, and charging of fees.
 

@@ -12,7 +12,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to in this 
 
 A rental or cooperative housing project is eligible for assistance under this section only if such project—
 
-&emsp;(1)(A) is assisted under section 236 \[12 U.S.C. 1715z–1\] or the proviso of section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715l(d)(5)\], or under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], or received a loan under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] more than 15 years before the date on which assistance is made available under this section;
+&emsp;(1)(A) is assisted under section 236 \[12 U.S.C. 1715z–1\] or the proviso of section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715l(d)(5)\], or under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C.1701s\], or received a loan under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] more than 15 years before the date on which assistance is made available under this section;
 
 &emsp;(B) is assisted under section 23 of the United States Housing Act of 1937 \[42 U.S.C. 1421b\], as in effect immediately before January 1, 1975, section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] following conversion to such assistance from assistance under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] or section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\]; or
 
@@ -56,9 +56,9 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 #### (f) Amount of financial assistance
 
-(1) The Secretary may, with respect to any year, provide assistance under this section, and make commitments to provide such assistance, with respect to any project (except a project assisted only for capital improvements) in any amount which the Secretary determines is consistent with the project's management-improvement-and-operating plan described in subsection (d)(6) of this section and which does not exceed the sum of—
+(1) The Secretary may, with respect to any year, provide assistance under this section, and make commitments to provide such assistance, with respect to any project (except a project assisted only for capital improvements) in any amount which the Secretary determines is consistent with the project's management-improvement-and-operating plan described in subsection (d)(6) and which does not exceed the sum of—
 
-&emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in the project which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs or the failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
+&emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in the project which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs orthe failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
 
 &emsp;(B) an amount determined by the Secretary to be necessary to maintain the low- and moderate-income character of the project by reducing deficiencies, which exist at the beginning of the first year with respect to which assistance is made available for the project under this section and for which payment has not previously been made, in the reserve funds established by the project owner for the purpose of replacing capital items;
 
@@ -78,7 +78,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 > except that—
 
-&emsp;(E) in computing the estimated amount of rent to be expended by tenants, the Secretary shall provide that (i) at least 25 percent (or such lesser percentage as is provided for under any other Federal housing assistance program in which such tenant is participating) of the income of each such tenant is included, or (ii) in the case of a tenant paying his or her own utilities, a percentage of income which is lessthan 25 percent and which takes into account the reasonable costs of such utilities; except that no amount shall be provided for any tenant under clause (i) or (ii) which exceeds the fair market rental charge as determined pursuant to section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\] for such tenant; and
+&emsp;(E) in computing the estimated amount of rent to be expended by tenants, the Secretary shall provide that (i) at least 25 percent (or such lesser percentage as is provided for under any other Federal housing assistance program in which such tenant is participating) of the income of each such tenant is included, or (ii) in the case of a tenant paying his or her own utilities, a percentage of income which is less than 25 percent and which takes into account the reasonable costs of such utilities; except that no amount shall be provided for any tenant under clause (i) or (ii) which exceeds the fair market rental charge as determined pursuant to section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\] for such tenant; and
 
 &emsp;(F) in computing the estimated amount of rent to be expended by tenants and the estimated amount of rental assistance payments to be made on behalf of such tenants, the Secretary may permit a delinquency-and-vacancy allowance of not more than 6 per centum of the estimated amount of such rent and payments computed without regard to such allowance; except that, with respect to the first three years in which assistance is provided to a project under this section, the Secretary may permit such allowance for such project to exceed such 6 percent by an amount which the Secretary determines is appropriate to carry out the purposes of this section.
 
@@ -120,7 +120,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 #### (l) Amount of assistance for capital improvements; term of loan; rate of interest; allowance for administrative costs and probable program losses; nondischargeable liability; other forms for loans
 
-(1) The principal amount of any assistance for capital improvements under this section that is provided to the owner of a project shall not exceed the difference between the contribution made by the owner in accordance with subsection (k)(2) of this section and the sum of—
+(1) The principal amount of any assistance for capital improvements under this section that is provided to the owner of a project shall not exceed the difference between the contribution made by the owner in accordance with subsection (k)(2) and the sum of—
 
 &emsp;(A) the amount determined by the Secretary to be necessary for such owner to make capital improvements with respect to capital items that have failed, or are likely to deteriorate seriously or fail in the near future, in such projects;
 
@@ -136,7 +136,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 &emsp;(ii) such interest rate plus such allowance shall not exceed 6 percent per annum nor be less than 3 percent per annum.
 
-(C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shall not be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
+(C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shallnot be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
 
 (D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term "remaining useful life" means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
@@ -150,13 +150,13 @@ The Secretary may not use any of the assistance available under this section dur
 
 &emsp;(A) Provide assistance with respect to such project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], to the extent amounts are available for such assistance and without regard to section 16 of such Act \[42 U.S.C. 1437n\].
 
-&emsp;(B) Notwithstanding subsection (l)(2)(B) of this section, reduce the rate of interest charged on such loan to a rate of not less than 1 percent.
+&emsp;(B) Notwithstanding subsection (l)(2)(B), reduce the rate of interest charged on such loan to a rate of not less than 1 percent.
 
 &emsp;(C) Increase the term of such loan to a term that does not exceed the remaining term of the mortgage on such project.
 
-&emsp;(D) Increase the amount of assistance to be provided by the owner of such project under subsection (k)(2) of this section, if applicable, to an amount not to exceed 30 percent of the total estimated cost of the capital improvements involved.
+&emsp;(D) Increase the amount of assistance to be provided by the owner of such project under subsection (k)(2), if applicable, to an amount not to exceed 30 percent of the total estimated cost of the capital improvements involved.
 
-&emsp;(E) Permit repayment of the debt service to be deferred as long as the low and moderate income character of the project is maintained in accordance with subsection (d) of this section.
+&emsp;(E) Permit repayment of the debt service to be deferred as long as the low and moderate income character of the project is maintained in accordance with subsection (d).
 
 #### (n) Allocation of assistance
 
@@ -196,7 +196,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 #### (o) Coordination of assistance
 
-The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
+The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance thecost effectiveness of the Federal response to troubled multifamily housing.
 
 #### (p) Enhanced voucher eligibility
 
@@ -272,7 +272,7 @@ Subsecs. (o), (p). Pub. L. 103–233, §103(b)(4) redesignated subsec. (p) as (o
 
 <b>1992</b>—Subsec. (d)(5). Pub. L. 102–550, §405(a)(1), struck out "and" at end.
 
-Subsec. (d)(6). Pub. L. 102–550, §406, which directed insertion, before period at end, of "; and except that the Secretary shall review and approve or disapprove eachplan not later than the expiration of the 30-day period beginning upon the date of submission of the plan to the Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved", was executed by making the insertion before the concluding semicolon to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–550, §405(a)(2). See below.
+Subsec. (d)(6). Pub. L. 102–550, §406, which directed insertion, before period at end, of "; and except that the Secretary shall review and approve or disapprove each plan not later than the expiration of the 30-day period beginning upon the date of submission of the plan to the Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved", was executed by making the insertion before the concluding semicolon to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–550, §405(a)(2). See below.
 
 Pub. L. 102–550, §405(a)(2), substituted semicolon for period at end.
 
@@ -312,7 +312,7 @@ Subsec. (j)(5). Pub. L. 101–625, §578(b), added par. (5).
 
 Subsec. (m)(2). Pub. L. 101–235, §203(a)(2)(B)(i), (ii), struck out "not subject to paragraph (1)" after "for a project" and inserted ", or where appropriate to implement a plan of action under subtitle B of the Emergency Low Income Housing Preservation Act of 1987" after second reference to "residents".
 
-Subsec. (m)(2)(B). Pub. L. 101–235, §203(a)(2)(A), substituted "Notwithstanding subsection (l)(2)(B) of this section, reduce" for "Reduce".
+Subsec. (m)(2)(B). Pub. L. 101–235, §203(a)(2)(A), substituted "Notwithstanding subsection (l)(2)(B), reduce" for "Reduce".
 
 Subsec. (m)(2)(E). Pub. L. 101–235, §203(a)(2)(B)(iii), added subpar. (E).
 
@@ -564,7 +564,7 @@ Pub. L. 102–550, title IV, §409, as added by Pub. L. 103–233, title I, §10
 
 Allocation of Assistance.—Based upon needs identified in comprehensive needs assessments, and subject to otherwise applicable program requirements, including selection criteria, the Secretary may allocate the following assistance to owners of covered multifamily housing projects and may provide such assistance on a noncompetitive basis:
 
-&emsp;"(1) Operating assistance and capital improvement assistance for troubled multifamily housing projectspursuant to section 201 of the Housing and Community Development Amendments of 1978 \[Pub. L. 95–557, enacting this section, amending section 1715z–1 of this title, and enacting provisions set out as a note under section 1715z–1 of this title\], except for assistance set aside under section 201(n)(1) \[subsec. (n)(1) of this section\].
+&emsp;"(1) Operating assistance and capital improvement assistance for troubled multifamily housing projects pursuant to section 201 of the Housing and Community Development Amendments of 1978 \[Pub. L. 95–557, enacting this section, amending section 1715z–1 of this title, and enacting provisions set out as a note under section 1715z–1 of this title\], except for assistance set aside under section 201(n)(1) \[subsec. (n)(1) of this section\].
 
 &emsp;"(2) Loan management assistance available pursuant to section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
 

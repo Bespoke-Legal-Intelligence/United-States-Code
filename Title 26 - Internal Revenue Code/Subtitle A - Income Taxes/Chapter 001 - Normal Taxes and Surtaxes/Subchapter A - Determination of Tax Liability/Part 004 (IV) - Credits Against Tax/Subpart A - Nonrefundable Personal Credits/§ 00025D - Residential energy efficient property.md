@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) Qualified solar water heating property expenditure
 
-&emsp;The term "qualified solar water heating property expenditure" means an expenditure for property to heat water for use in a dwelling unit located in the United States and usedas a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
+&emsp;The term "qualified solar water heating property expenditure" means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
 
 #### (2) Qualified solar electric property expenditure
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (B) Condominium management association
 
-&emsp;&emsp;For purposes of this paragraph, the term "condominium management association"means an organization which meets the requirements of paragraph (1) of section 528(c) (other than subparagraph (E) thereof) with respect to a condominium project substantially all of the units of which are used as residences.
+&emsp;&emsp;For purposes of this paragraph, the term "condominium management association" means an organization which meets the requirements of paragraph (1) of section 528(c) (other than subparagraph (E) thereof) with respect to a condominium project substantially all of the units of which are used as residences.
 
 #### (7) Allocation in certain cases
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
+Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, inthe same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 

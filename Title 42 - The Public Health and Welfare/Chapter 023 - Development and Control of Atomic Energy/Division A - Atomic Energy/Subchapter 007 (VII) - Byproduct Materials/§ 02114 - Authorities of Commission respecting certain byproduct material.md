@@ -4,7 +4,7 @@
 
 The Commission shall insure that the management of any byproduct material, as defined in section 2014(e)(2) of this title, is carried out in such manner as—
 
-&emsp;(1) the Commission deems appropriate to protect the public health and safety and the environment from radiological and non-radiological hazards associated with the processing and with the possession and transfer of such material, taking into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate,,<sup>1</sup>
+&emsp;(1) the Commission deems appropriate to protect the public health and safety and the environment from radiological and non-radiological hazards associated with the processing and with the possession and transfer of such material, taking into account the risk to the public health, safety, and the environment, with due consideration of the economic costsand such other factors as the Commission determines to be appropriate,,<sup>1</sup>
 
 &emsp;(2) conforms with applicable general standards promulgated by the Administrator of the Environmental Protection Agency under section 2022 of this title, and
 
@@ -14,7 +14,7 @@ The Commission shall insure that the management of any byproduct material, as de
 
 In carrying out its authority under this section, the Commission is authorized to—
 
-&emsp;(1) by rule, regulation, or order require persons, officers, or instrumentalities exempted from licensing under section 2111 of this title to conduct monitoring, perform remedial work, and to comply with such other measuresas it may deem necessary or desirable to protect health or to minimize danger to life or property, and in connection with the disposal or storage of such byproduct material; and
+&emsp;(1) by rule, regulation, or order require persons, officers, or instrumentalities exempted from licensing under section 2111 of this title to conduct monitoring, perform remedial work, and to comply with such other measures as it may deem necessary or desirable to protect health or to minimize danger to life or property, and in connection with the disposal or storage of such byproduct material; and
 
 &emsp;(2) make such studies and inspections and to conduct such monitoring as may be necessary.
 

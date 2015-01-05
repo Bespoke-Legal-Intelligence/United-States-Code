@@ -32,13 +32,13 @@ To be eligible to receive a payment under this section, a biorefinery shall demo
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to make payments under this section $35,000,000 for fiscal year 2009, to remain available until expended.
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to make payments under this section $12,000,000 for fiscal year 2014, to remain available until expended.
 
 #### (2) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2009 through 2013.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2018.
 
-(Pub. L. 107–171, title IX, §9004, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1313, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(3), Jan. 2, 2013, 126 Stat. 2365.)
+(Pub. L. 107–171, title IX, §9004, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1313, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(3), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9004, Feb. 7, 2014, 128 Stat. 930.)
 
 #### References in Text
 
@@ -53,6 +53,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8104, Pub. L. 107–171, title IX, §9004, May 13, 2002, 116 Stat. 480, related to a biodiesel fuel education program, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8106 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–79, §9004(1), substituted "$12,000,000 for fiscal year 2014" for "$35,000,000 for fiscal year 2009".
+
+Subsec. (d)(2). Pub. L. 113–79, §9004(2), substituted "$10,000,000 for each of fiscal years 2014 through 2018" for "$15,000,000 for each of fiscal years 2009 through 2013".
 
 <b>2013</b>—Subsec. (d)(2). Pub. L. 112–240 substituted "2013" for "2012".
 

@@ -20,9 +20,9 @@ Exceptions.—Department of Defense rights in a registered design under this cha
 
 Definitions.—For the purpose of this chapter, the following terms have the following meanings:
 
-&emsp;(1) A design is "original" if it is the result of the designer's creative endeavor that provides a distinguishable variation over prior work pertaining to similar articles which is more than merely trivial and has not been copied from another source.
+&emsp;(1) A design is "original" if it is the result of the designer's creative endeavor that providesa distinguishable variation over prior work pertaining to similar articles which is more than merely trivial and has not been copied from another source.
 
-&emsp;(2) A "useful article" is a vessel hull or deck, including a plug or mold, which in normal use has an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An articlewhich normally is part of a useful article shall be deemed to be a useful article.
+&emsp;(2) A "useful article" is a vessel hull or deck, including a plug or mold, which in normal use has an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article which normally is part of a useful article shall be deemed to be a useful article.
 
 &emsp;(3) A "vessel" is a craft—
 

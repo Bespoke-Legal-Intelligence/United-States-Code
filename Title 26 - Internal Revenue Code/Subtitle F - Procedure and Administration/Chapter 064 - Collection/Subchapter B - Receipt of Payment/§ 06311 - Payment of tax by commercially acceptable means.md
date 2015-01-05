@@ -48,7 +48,7 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 &emsp;&emsp;(C) a payment of internal revenue taxes (or a payment for internal revenue stamps) by a person by use of a debit card shall not be subject to section 908 of the Electronic Fund Transfer Act (15 U.S.C. 1693f), or to any similar provisions of State law, if the error alleged by the person is an error relating to the underlying tax liability, rather than an error relating to the debit card account such as a computational error or numerical transposition in the debit card transaction or an issue as to whether the person authorized payment by use of the debit card,
 
-&emsp;&emsp;(D) the term "creditor" under section 103(f) <sup>1</sup> of the Truth in Lending Act (15 U.S.C. 1602(f)) shall not include the Secretary with respect to credit card transactions in payment of internal revenue taxes (or payment for internal revenue stamps), and
+&emsp;&emsp;(D) the term "creditor" under section 103(f) <sup>1</sup> of the Truth in Lending Act (15 U.S.C. 1602(f)) shall not include the Secretary withrespect to credit card transactions in payment of internal revenue taxes (or payment for internal revenue stamps), and
 
 &emsp;&emsp;(E) notwithstanding any other provision of law to the contrary, in the case of payment made by credit card or debit card transaction of an amount owed to a person as the result of the correction of an error under section 161 of the Truth in Lending Act (15 U.S.C. 1666) or section 908 of the Electronic Fund Transfer Act (15 U.S.C. 1693f), the Secretary is authorized to provide such amount to such person as a credit to that person's credit card or debit card account through the applicable credit card or debit card system.
 

@@ -8,7 +8,7 @@
 
 #### (2) No comparable treatment required
 
-&emsp;Any different treatment provided under this section for institutionalized spouses shall not, by reason of paragraph (10) or (17) of section 1396a(a) of this title, require such treatment for other individuals.
+&emsp;Any different treatment provided under this section for institutionalized spouses shall not,by reason of paragraph (10) or (17) of section 1396a(a) of this title, require such treatment for other individuals.
 
 #### (3) Does not affect certain determinations
 
@@ -272,7 +272,7 @@ In this section:
 
 &emsp;(2) The term "community spouse" means the spouse of an institutionalized spouse.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat.627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L. 109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat. 627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L. 109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### Codification
 
@@ -366,7 +366,7 @@ Pub. L. 100–360, title III, §303(g), July 1, 1988, 102 Stat. 763, as amended 
 
 "(3) The amendments made by subsection (c) \[amending sections 1382 and 1382b of this title\] shall apply to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-"(4) The amendment made by subsection (d) \[amending section 1396a of this title\] is effective on and after April 8, 1988. The final rule of the Health Care Financing Administration published on February 8, 1988 (53 Federal Register 3586) is superseded to the extent inconsistent with the amendment made by subsection (d).
+"(4) The amendment made by subsection (d) \[amending section 1396a of this title\] is effective on and after April 8, 1988. The final rule of the Health Care Financing Administration published on February 8, 1988 (53Federal Register 3586) is superseded to the extent inconsistent with the amendment made by subsection (d).
 
 "(5) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section (other than paragraphs (1) and (5) of subsection (e) \[amending section 1396a of this title\]), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 

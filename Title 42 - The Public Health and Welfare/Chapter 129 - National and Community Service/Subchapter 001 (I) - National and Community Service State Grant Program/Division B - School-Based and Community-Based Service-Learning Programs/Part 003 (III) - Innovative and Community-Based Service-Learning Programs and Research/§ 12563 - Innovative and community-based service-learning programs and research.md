@@ -146,7 +146,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 #### References in Text
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat.394. Titles I and II of the Act are classified generally to subchapters I (§4951 et seq.) and II (§5000 et seq.), respectively, of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Titles I and II of the Act are classified generally to subchapters I (§4951 et seq.) and II (§5000 et seq.), respectively, of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 For the effective date of the Serve America Act, referred to in subsec. (f)(3), as Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 

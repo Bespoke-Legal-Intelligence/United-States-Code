@@ -40,7 +40,7 @@ General Limitations.—The Secretary of Transportation shall not make any paymen
 
 &emsp;&emsp;(B) 20 years of age, in the case of a tank vessel; or
 
-&emsp;&emsp;(C) 30 years of age, in the case of a LASH vessel.
+&emsp;&emsp;(C) 30 years of age, in the case of a lighter aboard ship vessel.
 
 (d)
 
@@ -70,10 +70,6 @@ Participates in a noncontiguous domestic trade defined.—In this subsection the
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225.)
 
-#### Amendment of Subsection (c)(3)(C)
-
-<i>Pub. L. 112–239, div. C, title XXXV, §3508(f)(2), (j)(2), Jan. 2, 2013, 126 Stat. 2225, 2226, provided that, effective Dec. 31, 2014, subsection (c)(3)(C) of this section is amended by striking "a LASH vessel." and inserting "a lighter aboard ship vessel." See 2013 Amendment note below.</i>
-
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(1)(B) to (E). Pub. L. 112–239, §3508(f)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: "$3,100,000 for each of fiscal years 2012 though 2025."
@@ -84,7 +80,7 @@ Subsec. (f). Pub. L. 112–239, §3508(f)(3), struck out subsec. (f). Text read 
 
 <b>2011</b>—Subsec. (a)(1)(C). Pub. L. 111–383 substituted "for each of fiscal years 2012 though 2025" for "for each fiscal years 2012, 2013, 2014, and 2015".
 
-<b>2006</b>—Subsec. (d)(1). Pub. L. 109–304, §13(a)(5)(A), substituted "section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)".
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–304, §13(a)(5)(A), substituted "section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)".
 
 Subsec. (d)(2). Pub. L. 109–304, §13(a)(5)(B), substituted "section 55302(a), 55305, or 55314 of this title" for "section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f),".
 

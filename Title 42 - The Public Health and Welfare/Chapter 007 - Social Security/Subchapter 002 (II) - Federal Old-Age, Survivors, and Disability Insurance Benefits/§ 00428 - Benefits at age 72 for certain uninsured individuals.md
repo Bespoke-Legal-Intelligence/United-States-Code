@@ -50,7 +50,7 @@ The benefit to which any individual is entitled under this section for any month
 
 &emsp;(2) such individual's husband or wife receives such aid or assistance in such month, and under the State plan the needs of such individual were taken into account in determining eligibility for (or amount of) such aid or assistance,
 
-> unless the State agency administering or supervising the administration of such plan notifies the Commissioner of Social Security, at such time and in such manner as may be prescribed in accordance with regulations of the Commissioner of Social Security, that such payments tosuch individual (or such individual's husband or wife) under such plan are being terminated with the payment or payments made in such month and such individual is not an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for the following month, nor shall such benefit be paid for such month if such individual is an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for such month, unless the Commissioner of Social Security determines that such benefits are not payable with respect to such individual for the month following such month.
+> unless the State agency administering or supervising the administration of such plan notifies the Commissioner of Social Security, at such time and in such manner as may be prescribed in accordance with regulations of the Commissioner of Social Security, that such payments to such individual (or such individual's husband or wife) under such plan are being terminated with the payment or payments made in such month and such individual is not an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for the following month, nor shall such benefit be paid for such month if such individual is an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for such month, unless the Commissioner of Social Security determines that such benefits are not payable with respect to such individual for the month following such month.
 
 #### (e) Suspension where individual is residing outside United States
 
@@ -70,7 +70,7 @@ There are authorized to be appropriated to the Federal Old-Age and Survivors Ins
 
 &emsp;(3) any loss in interest to such Trust Fund resulting from such payments and expenses,
 
-> in order to place such Trust Fund in the same position at the end of such fiscal year as it would have been in if such payments had not been made.
+> in order to place such Trust Fund in the same position at the end of such fiscal year as itwould have been in if such payments had not been made.
 
 #### (h) Definitions
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 98–369, §2663(j)(3)(A)(iv), struck out "of Health, Educa
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21, §305(d)(1), substituted "he or she" for "he" wherever appearing.
 
-Subsec. (b). Pub. L. 98–21, §305(a), substituted "The" for "(1) Except as provided in paragraph (2), the" and struck out par. (2), which had provided that if both husband and wife were entitled or would have been entitled upon application to benefits under this section for any month, the amount of the husband's benefit for such month would be the larger of $64.40 or the amount mostrecently established in lieu thereof under section 415(i) of this title, and the amount of the wife's benefit for such month the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title.
+Subsec. (b). Pub. L. 98–21, §305(a), substituted "The" for "(1) Except as provided in paragraph (2), the" and struck out par. (2), which had provided that if both husband and wife were entitled or would have been entitled upon application to benefits under this section for any month, the amount of the husband's benefit for such month would be the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title, and the amount of the wife's benefit for such month the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title.
 
 Subsec. (c)(1). Pub. L. 98–21, §305(d)(1), substituted "he or she" for "he".
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 92–336 applicable with respect to monthly benefits under 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–5 applicable with respect to monthly benefits under subchapter II of this chapterfor months after December 1970, see section 202(c) of Pub. L. 92–5, set out as a note under section 427 of this title.
+Amendment by Pub. L. 92–5 applicable with respect to monthly benefits under subchapter II of this chapter for months after December 1970, see section 202(c) of Pub. L. 92–5, set out as a note under section 427 of this title.
 
 #### Effective Date of 1969 Amendment
 

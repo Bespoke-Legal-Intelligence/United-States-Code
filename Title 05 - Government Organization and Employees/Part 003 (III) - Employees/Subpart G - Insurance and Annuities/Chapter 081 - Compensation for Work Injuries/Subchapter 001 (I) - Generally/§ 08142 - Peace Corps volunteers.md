@@ -1,6 +1,6 @@
 ### §8142. Peace Corps volunteers
 
-(a) For the purpose of this section, “volunteer” means—
+(a) For the purpose of this section, "volunteer" means—
 
 &emsp;(1) a volunteer enrolled in the Peace Corps under section 2504 of title 22;
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) any period of training under section 2507(a) of title 22 before enrollment as a volunteer; and
 
-&emsp;&emsp;(B) the period between enrollment as a volunteer and the termination of service as avolunteer by the President or by death or resignation.
+&emsp;&emsp;(B) the period between enrollment as a volunteer and the termination of service as a volunteer by the President or by death or resignation.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 552; Pub. L. 90–83, §1(64), Sept. 11, 1967, 81 Stat. 212; Pub. L. 93–416, §23(b), Sept. 7, 1974, 88 Stat. 1150.)
 
@@ -50,9 +50,9 @@ Sept. 22, 1961, Pub. L. 87–293, §5(d), 75 Stat. 613.
 
 Subsection (a) is based on sections 2504(a), 2505, and 2507(a) of title 22.
 
-In subsection (b), the words “Subject to the provisions of this section” are added for clarity and to conform to the style of sections 8140 and 8141. The words “of the United States Government” are omitted as unnecessary in view of the definition of “employee” in section 8101(1).
+In subsection (b), the words "Subject to the provisions of this section" are added for clarity and to conform to the style of sections 8140 and 8141. The words "of the United States Government" are omitted as unnecessary in view of the definition of "employee" in section 8101(1).
 
-In subsection (c), the words “outside the several States, territories and possessions of the United States, and the District of Columbia” are substituted for “abroad” on authority of section 2522(a), (b) of title 22. References to “the general schedule established by the Classification Act of 1949, as amended” are omitted as unnecessary.
+In subsection (c), the words "outside the several States, territories and possessions of the United States,and the District of Columbia" are substituted for "abroad" on authority of section 2522(a), (b) of title 22. References to "the general schedule established by the Classification Act of 1949, as amended" are omitted as unnecessary.
 
 Subsection (c)(4) is added on authority of section 2522(e) of title 22.
 

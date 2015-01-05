@@ -4,7 +4,7 @@
 
 Not later than 1 year after October 4, 2006, and not less than every 5 years thereafter, the Secretary, acting through the Director for Emergency Communications, shall conduct an assessment of Federal, State, local, and tribal governments that—
 
-&emsp;(1) defines the range of capabilities needed by emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
+&emsp;(1) defines the range of capabilities needed by emergency response providers and relevantgovernment officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
 
 &emsp;(2) defines the range of interoperable emergency communications capabilities needed for specific events;
 
@@ -56,5 +56,5 @@ Not later than one year after October 4, 2006, and biennially thereafter, the Se
 
 Another section 1803 of Pub. L. 107–296 was renumbered section 1903 and is classified to section 593 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(5)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(5)".</i>
 

@@ -16,6 +16,7 @@
 | [1490\.](%C2%A7%2001490%20-%20Repealed.%20Mar.%203%2C%201933%2C%20ch.%20202%2C%20%C2%A71%2C%2047%20Stat.%201428.md) | Repealed. |
 | [1491\.](%C2%A7%2001491%20-%20License%2C%20permit%2C%20etc.%2C%20for%20transportation%20for%20storage%20or%20storage%20of%20spent%20nuclear%20fuel%20or%20high-level%20radioactive%20waste%3B%20prerequisites%E2%80%A6.md) | License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; "territory or possession" defined. |
 | [1492\.](%C2%A7%2001492%20-%20Energy%20resources%20of%20Caribbean%20and%20Pacific%20insular%20areas.md) | Energy resources of Caribbean and Pacific insular areas. |
+| [1492a.](%C2%A7%2001492a%20-%20Study%20of%20electric%20rates%20in%20the%20insular%20areas.md) | Study of electric rates in the insular areas. |
 | [1493\.](%C2%A7%2001493%20-%20Prosecution%3B%20authorization%20to%20seek%20review%3B%20local%20or%20Federal%20appellate%20courts%3B%20decisions%2C%20judgments%20or%20orders.md) | Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders. |
 | [1494\.](%C2%A7%2001494%20-%20Purposes.md) | Purposes. |
 | [1494a.](%C2%A7%2001494a%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
@@ -115,6 +116,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01490 - Repealed. Mar. 3, 1933, ch. 202, &sect;1, 47 Stat. 1428](%C2%A7%2001490%20-%20Repealed.%20Mar.%203%2C%201933%2C%20ch.%20202%2C%20%C2%A71%2C%2047%20Stat.%201428.md)
 - [&sect; 01491 - License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites&#8230;](%C2%A7%2001491%20-%20License%2C%20permit%2C%20etc.%2C%20for%20transportation%20for%20storage%20or%20storage%20of%20spent%20nuclear%20fuel%20or%20high-level%20radioactive%20waste%3B%20prerequisites%E2%80%A6.md)
 - [&sect; 01492 - Energy resources of Caribbean and Pacific insular areas](%C2%A7%2001492%20-%20Energy%20resources%20of%20Caribbean%20and%20Pacific%20insular%20areas.md)
+- [&sect; 01492a - Study of electric rates in the insular areas](%C2%A7%2001492a%20-%20Study%20of%20electric%20rates%20in%20the%20insular%20areas.md)
 - [&sect; 01493 - Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders](%C2%A7%2001493%20-%20Prosecution%3B%20authorization%20to%20seek%20review%3B%20local%20or%20Federal%20appellate%20courts%3B%20decisions%2C%20judgments%20or%20orders.md)
 - [&sect; 01494 - Purposes](%C2%A7%2001494%20-%20Purposes.md)
 - [&sect; 01494a - Annual reports to Congress](%C2%A7%2001494a%20-%20Annual%20reports%20to%20Congress.md)

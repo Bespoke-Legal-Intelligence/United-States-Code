@@ -8,7 +8,7 @@
 
 #### (2) Programs
 
-&emsp;The Secretary shall carry out the fellowship program by implementing 3 programs designed to assist individual fellowship recipients, including—
+&emsp;The Secretary shall carry out the fellowship program by implementing 3 programs designedto assist individual fellowship recipients, including—
 
 &emsp;&emsp;(A) a graduate studies program in agriculture to assist individuals who participate in graduate agricultural degree training at a United States institution;
 

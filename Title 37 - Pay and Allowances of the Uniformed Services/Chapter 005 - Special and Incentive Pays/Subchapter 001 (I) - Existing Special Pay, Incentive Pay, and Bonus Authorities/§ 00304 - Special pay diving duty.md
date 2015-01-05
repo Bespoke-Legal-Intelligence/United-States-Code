@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)
 
 <b>1987</b>—Subsecs. (d), (e). Pub. L. 100–180 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1981</b>—Pub. L. 97–60 revised provisions of subsec. (a) into new subsecs. (a), (b), and (c), redesignated subsec. (b) as (d), and, in provisions of subsec. (a) as revised, added to enumeration of conditions attached to entitlement to special pay requirement that the member maintain proficiency as a diver by frequent and regular dives, substituted a rate of $200 a month for officers and$300 a month for enlisted men for former rate of $110 a month for all members, and inserted provisions authorizing payment of both special pay under this section and incentive pay under section 301 of this title in specified circumstances.
+<b>1981</b>—Pub. L. 97–60 revised provisions of subsec. (a) into new subsecs. (a), (b), and (c), redesignated subsec. (b) as (d), and, in provisions of subsec. (a) as revised, added to enumeration of conditions attached to entitlement to special pay requirement that the member maintain proficiency as a diver by frequent and regular dives, substituted a rate of $200 a month for officers and $300 a month for enlisted men for former rate of $110 a month for all members, and inserted provisions authorizing payment of both special pay under this section and incentive pay under section 301 of this title in specified circumstances.
 
 #### Effective Date of 1999 Amendment
 

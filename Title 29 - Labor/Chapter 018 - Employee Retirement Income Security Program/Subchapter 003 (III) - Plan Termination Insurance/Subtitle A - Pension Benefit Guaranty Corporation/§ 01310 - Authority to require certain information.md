@@ -12,9 +12,9 @@ Each person described in subsection (b) of this section shall provide the corpor
 
 The persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor's controlled group, of a single-employer plan covered by this subchapter, if—
 
-&emsp;(1) the funding target attainment percentage (as defined in subsection (d)) at the end of thepreceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
+&emsp;(1) the funding target attainment percentage (as defined in subsection (d)) at the end of the preceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
 
-&emsp;(2) the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
+&emsp;(2) the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
 
 &emsp;(3) minimum funding waivers in excess of $1,000,000 have been granted with respect to any plan maintained by the contributing sponsor or any member of its controlled group, and any portion thereof is still outstanding.
 
@@ -58,9 +58,11 @@ Any information or documentary material submitted to the corporation pursuant to
 
 The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.
 
-(Pub. L. 93–406, title IV, §4010, as added Pub. L. 103–465, title VII, §772(a), Dec. 8, 1994, 108 Stat. 5044; amended Pub. L. 109–280, title I, §108(b)(3), formerly §107(b)(3), title V, §505(a), (b), Aug. 17, 2006, 120 Stat. 819, 946, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §105(d), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 112–141, div. D, title II, §40211(b)(3)(D), July 6, 2012, 126 Stat. 849.)
+(Pub. L. 93–406, title IV, §4010, as added Pub. L. 103–465, title VII, §772(a), Dec. 8, 1994, 108 Stat. 5044; amended Pub. L. 109–280, title I, §108(b)(3), formerly §107(b)(3), title V, §505(a), (b), Aug. 17, 2006, 120 Stat. 819, 946, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §105(d), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 112–141, div. D, title II, §40211(b)(3)(D), July 6, 2012, 126 Stat. 849; Pub. L. 113–97, title I, §102(b)(8), Apr. 7, 2014, 128 Stat. 1117.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2). Pub. L. 113–97 substituted "section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26" for "section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26".
 
 <b>2012</b>—Subsec. (d)(3). Pub. L. 112–141 added par. (3).
 
@@ -71,6 +73,10 @@ The corporation shall, on an annual basis, submit to the Committee on Health, Ed
 Subsec. (b)(2). Pub. L. 109–280, §108(b)(3), formerly §107(b)(3), as renumbered by Pub. L. 111–192, substituted "1083(k)(1)(A) and (B)" for "1082(f)(1)(A) and (B)" and "430(k)(1)(A) and (B)" for "412(n)(1)(A) and (B)".
 
 Subsecs. (d), (e). Pub. L. 109–280, §505(b), added subsecs. (d) and (e).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2012 Amendment
 

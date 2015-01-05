@@ -22,7 +22,7 @@ For purposes of subsection (a), the term "applicable DC area" means the area con
 
 #### (c) District of Columbia Enterprise Zone
 
-For purposes of this subchapter, the terms "District of Columbia Enterprise Zone" and "DC Zone" mean the District of Columbia Enterprise Zone designated by subsection (a).
+For purposes of this subchapter, the terms "District of Columbia Enterprise Zone" and "DCZone" mean the District of Columbia Enterprise Zone designated by subsection (a).
 
 #### (d) Special rule for application of employment credit
 

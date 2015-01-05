@@ -1,6 +1,6 @@
 ### §3461. Discriminatory taxes
 
-It is the sense of the Congress that when a State, province, or other governmental entity of a NAFTA country discriminatorily enforces sales or other taxes so as to afford protection to domestic production or domestic service providers, such enforcement is in violation of the terms of the Agreement. When such discriminatory enforcement adversely affects United States producers of goods or United States service providers, the Trade Representative should pursue all appropriate remedies to obtain removal of such discriminatory enforcement, including invocation of the provisions of the Agreement.
+It is the sense of the Congress that when a State, province, or other governmental entity of a NAFTA country discriminatorily enforces sales or other taxes so as to afford protection to domestic production or domestic service providers, such enforcement is in violation of theterms of the Agreement. When such discriminatory enforcement adversely affects United States producers of goods or United States service providers, the Trade Representative should pursue all appropriate remedies to obtain removal of such discriminatory enforcement, including invocation of the provisions of the Agreement.
 
 (Pub. L. 103–182, title V, §511, Dec. 8, 1993, 107 Stat. 2154.)
 

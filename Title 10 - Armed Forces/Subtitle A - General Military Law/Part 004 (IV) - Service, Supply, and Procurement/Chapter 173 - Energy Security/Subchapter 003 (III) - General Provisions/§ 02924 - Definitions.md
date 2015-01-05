@@ -26,7 +26,7 @@ In this chapter:
 
 &emsp;(B) In selecting facility energy projects that will use renewable energy sources, pursuit of energy security means the installation will give favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network. In such cases, projects should be prioritized to provide power for assets critical to mission essential requirements on the installation in the event of a disruption in the commercial grid.
 
-&emsp;(4) The term "hybrid", with respect to a motor vehicle, means a motor vehicle that draws propulsion energy from onboard sources of stored energy that are both—
+&emsp;(4) The term "hybrid", with respect to a motor vehicle, means a motor vehicle thatdraws propulsion energy from onboard sources of stored energy that are both—
 
 &emsp;&emsp;(A) an internal combustion or heat engine using combustible fuel; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The President, taking into account the financial resources of a country, may waive payments of principal and interest that such country would otherwise be required to make to the Commodity Credit Corporation under dollar sales agreements under subchapter II of this chapter if—
+The President, taking into account the financial resources of a country, may waive payments of principal and interest that such country would otherwise be required to make to the Commodity Credit Corporation under dollar sales agreements under subchapter II if—
 
 &emsp;(1) that country is a least developed country; and
 
@@ -18,7 +18,7 @@ The President, taking into account the financial resources of a country, may wai
 
 #### (b) Request for debt relief by President
 
-The President may provide debt relief under subsection (a) of this section only if a notification is submitted to Congress at least 10 days prior to providing the debt relief. Such a notification shall—
+The President may provide debt relief under subsection (a) only if a notification is submitted to Congress at least 10 days prior to providing the debt relief. Such a notification shall—
 
 &emsp;(1) specify the amount of official debt the President proposes to liquidate; and
 
@@ -30,7 +30,7 @@ The aggregate amount of principal and interest waived under this section may not
 
 #### (d) Limitation on new credit assistance
 
-If the authority of this section is used to waive payments otherwise required to be made by a country pursuant to this chapter, the President may not provide any new credit assistance for that country under this chapter during the 2-year period beginning on the date such waiver authority is exercised, unless the President provides to the Congress, before the assistance is provided, a written justification for the provision of such new credit assistance.
+If the authority of this section is used to waive payments otherwise required to be made by a country pursuant to this chapter, the President may not provide any new credit assistance for that country under this chapter during the 2-year period beginning on the date such waiverauthority is exercised, unless the President provides to the Congress, before the assistance is provided, a written justification for the provision of such new credit assistance.
 
 #### (e) Applicability
 
@@ -40,7 +40,7 @@ The authority of this section applies with respect to credit sales agreements en
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237, §326, substituted "subchapter II of this chapter" for "this subchapter" in introductory provisions.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §326, substituted "subchapter II" for "this subchapter" in introductory provisions.
 
 Subsec. (b). Pub. L. 102–237, §336, inserted "at least 10 days prior to providing the debt relief" before period at end of first sentence.
 
@@ -58,5 +58,5 @@ Functions of President under this section delegated to Secretary of Agriculture,
 
 #### Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities
 
-Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Title I of the Public Law 480 \[7 U.S.C. 1701 et seq.\] program allowed for the repayment of loans for the sale of agricultural commodities in foreign or local currencies until December31, 1971. Since that time, until the law was changed in the 1985 farm bill \[probably means Pub. L. 99–198, see Tables for classification\], all sales have been on dollar credit terms. In view of the present financial situation, it is impossible for many countries to repay their loans in dollars. Therefore, the President may use the authority in section 411 and section 604 of the Food for Peace Act \[7 U.S.C. 1736e, 1738c\] to renegotiate the payment on Public Law 480 debt in eligible countries in Latin America, the Caribbean and sub-Saharan Africa."
+Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Title I of the Public Law 480 \[7 U.S.C. 1701 et seq.\] program allowed for the repayment of loans for the sale of agricultural commodities in foreign or local currencies until December 31, 1971. Since that time, until the law was changed in the 1985 farm bill \[probably means Pub. L. 99–198, see Tables for classification\], all sales have been on dollar credit terms. In view of the present financial situation, it is impossible for many countries to repay their loans in dollars. Therefore, the President may use the authority in section 411 and section 604 of the Food for Peace Act \[7 U.S.C. 1736e, 1738c\] to renegotiate the payment on Public Law 480 debt in eligible countries in Latin America, the Caribbean and sub-Saharan Africa."
 

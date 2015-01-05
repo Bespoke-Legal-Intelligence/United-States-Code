@@ -22,7 +22,7 @@ Dedication of Resources.—The Secretary shall ensure that sufficient resources 
 
 (f)
 
-Biennial Report.—The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President's budget is submitted pursuant to section 1105(a) of title 31 in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
+Biennial Report.—The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President's budget is submitted pursuant to section 1105(a) of title 31 in oddnumbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
 
 &emsp;(1) The workforce responsible for carrying out the requirements of this section, including the number and experience of such workforce; training in the performance of industrial security functions; performance metrics; and resulting assessment of overall quality.
 
@@ -74,5 +74,5 @@ Report.—Not later than 270 days after the date of the enactment of this Act \[
 
 #### Submission of First Biennial Report
 
-Pub. L. 110–417, \[div. A\], title VIII, §845(b), Oct. 14, 2008, 122 Stat. 4542, provided that: "Notwithstandingthe deadline in subsection (f) of section 438 \[now 428\] of title 10, United States Code, as added by this section, the first biennial report submitted after the date of the enactment of this Act \[Oct. 14, 2008\] pursuant to such subsection shall be submitted not later than September 1, 2009, and shall address the period from the date of the enactment of this Act to the issuance of such report."
+Pub. L. 110–417, \[div. A\], title VIII, §845(b), Oct. 14, 2008, 122 Stat. 4542, provided that: "Notwithstanding the deadline in subsection (f) of section 438 \[now 428\] of title 10, United States Code, as added by this section, the first biennial report submitted after the date of the enactment of this Act \[Oct. 14, 2008\] pursuant to such subsection shall be submitted not later than September 1, 2009, and shall address the period from the date of the enactment of this Act to the issuance of such report."
 

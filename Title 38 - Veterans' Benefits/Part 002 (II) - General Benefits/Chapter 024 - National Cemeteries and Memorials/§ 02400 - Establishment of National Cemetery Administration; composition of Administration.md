@@ -146,7 +146,7 @@ Initial Report.—Not later than 120 days after the date of the enactment of thi
 
 "(e)
 
-Annual Reports.—The Secretary shall submit to Congress an annual report on the implementation of this section until the establishment of all six cemeteries is completed and each such cemetery has opened.The Secretary shall include in each such annual report an update of the information provided under paragraphs (1) and (2) of subsection (d).
+Annual Reports.—The Secretary shall submit to Congress an annual report on the implementation of this section until the establishment of all six cemeteries is completed and each such cemetery has opened. The Secretary shall include in each such annual report an update of the information provided under paragraphs (1) and (2) of subsection (d).
 
 "(f)
 
@@ -220,7 +220,7 @@ Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be a
 
 "(4) Funds received by the Secretary from operation of Pershing Hall or from any lease or other agreement with respect to Pershing Hall shall be deposited in the Pershing Hall Revolving Fund.
 
-"(5) The Secretary of the Treasury shall invest any portion of the Revolving Fund that, as determined by the Secretary of Veterans Affairs, is not required to meet current expenses of the Fund. Each investment shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Secretary of Veterans Affairs, has a maturity suitable for the Revolving Fund. The Secretary of the Treasury shall credit to the Revolving Fund theinterest on, and the proceeds from the sale or redemption of, such obligations.
+"(5) The Secretary of the Treasury shall invest any portion of the Revolving Fund that, as determined by the Secretary of Veterans Affairs, is not required to meet current expenses of the Fund. Each investment shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Secretary of Veterans Affairs, has a maturity suitable for the Revolving Fund. The Secretary of the Treasury shall credit to the Revolving Fund the interest on, and the proceeds from the sale or redemption of, such obligations.
 
 "(6)(A) Subject to subparagraphs (B) and (C), the Secretary of Veterans Affairs may expend not more than $100,000 from the Fund in any fiscal year upon projects, activities, and facilities determined by the Secretary to be in keeping with the mission of the Department.
 

@@ -12,7 +12,7 @@
 
 #### (3) Expenditures or obligation of funds
 
-&emsp;No funds may be expended or obligated for the purpose of carrying out this section otherthan funds specifically appropriated to the Capitol Police Board or the United States Capitol Police for those purposes with the exception of—
+&emsp;No funds may be expended or obligated for the purpose of carrying out this section other than funds specifically appropriated to the Capitol Police Board or the United States Capitol Police for those purposes with the exception of—
 
 &emsp;&emsp;(A) expenditures made by the Department of Defense or the Coast Guard from funds appropriated to the Department of Defense or the Coast Guard in providing assistance on a temporary basis to the United States Capitol Police in the performance of its duties directly related to protection under sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40; <sup>1</sup> and
 
@@ -44,7 +44,7 @@
 
 #### (1) Submission
 
-&emsp;With respect to any fiscal year in which an executive department or executive agency provides assistance under this section, the head of that department or agency shall submit a report not later than 90 days after the end of the fiscal year to the Chairman of the Capitol Police Board.
+&emsp;With respect to any fiscal year in which an executive department or executive agency provides assistance under this section, the head of that department or agency shall submit a report not later than 90 days after the end of thefiscal year to the Chairman of the Capitol Police Board.
 
 #### (2) Content
 

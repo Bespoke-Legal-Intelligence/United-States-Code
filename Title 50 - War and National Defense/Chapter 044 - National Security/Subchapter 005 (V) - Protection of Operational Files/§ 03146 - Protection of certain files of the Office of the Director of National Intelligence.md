@@ -40,7 +40,7 @@ Notwithstanding subsection (a) or (b), an exempted operational file shall contin
 
 #### (d) Decennial review of exempted operational files
 
-(1) Not less than once every 10 years, the Director of National Intelligence shall review theexemptions in force under subsection (a) to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
+(1) Not less than once every 10 years, the Director of National Intelligence shall review the exemptions in force under subsection (a) to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
@@ -48,7 +48,7 @@ Notwithstanding subsection (a) or (b), an exempted operational file shall contin
 
 &emsp;(A) Whether the Director has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on October 7, 2010, or before the expiration of the 10-year period beginning on the date of the most recent review.
 
-&emsp;(B) Whether the Director of National Intelligence, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
+&emsp;(B) Whether the Director of National Intelligence, in fact, considered the criteria setforth in paragraph (2) in conducting the required review.
 
 #### (e) Supersedure of other laws
 

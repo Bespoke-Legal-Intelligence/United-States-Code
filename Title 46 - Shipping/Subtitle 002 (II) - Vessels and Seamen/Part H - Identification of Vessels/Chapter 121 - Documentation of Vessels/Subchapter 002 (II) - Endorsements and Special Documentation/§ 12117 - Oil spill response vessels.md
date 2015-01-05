@@ -12,7 +12,7 @@ Requirements.—A coastwise endorsement may be issued for a vessel that—
 
 &emsp;(4) is to be used only for—
 
-&emsp;&emsp;(i) deploying equipment, supplies, and personnel to recover, contain, or transport oil discharged into the navigable waters of theUnited States or the exclusive economic zone; or
+&emsp;&emsp;(i) deploying equipment, supplies, and personnel to recover, contain, or transport oil discharged into the navigable waters of the United States or the exclusive economic zone; or
 
 &emsp;&emsp;(ii) training exercises to prepare to respond to such a discharge.
 

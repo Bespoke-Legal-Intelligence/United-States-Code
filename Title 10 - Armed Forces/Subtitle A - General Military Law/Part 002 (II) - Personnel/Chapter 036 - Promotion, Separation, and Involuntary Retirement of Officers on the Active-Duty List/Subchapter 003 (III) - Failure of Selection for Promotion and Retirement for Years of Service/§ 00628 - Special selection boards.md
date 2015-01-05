@@ -22,7 +22,7 @@ Persons Considered by Promotion Boards in Unfair Manner.—(1) If the Secretary 
 
 (c)
 
-Reports of Boards.—(1) Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each person it recommends for promotion and certifying that the board has carefully considered the record of each person whose name was referred to it.
+Reports of Boards.—(1) Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name ofeach person it recommends for promotion and certifying that the board has carefully considered the record of each person whose name was referred to it.
 
 (2) The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection board convened under this section in the same manner as they apply to the report and proceedings of a selection board convened under section 611(a) of this title. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, the provisions of sections 576(d), 576(f), and 613a of this title (rather than the provisions of sections 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under section 573 of this title.
 
@@ -34,7 +34,7 @@ Appointment of Persons Selected by Boards.—(1) If the report of a special sele
 
 (e)
 
-Deceased Persons.—If a person whose name is being considered for referral to a special selection board under this section dies before the completion of proceedings under this sectionwith respect to that person, this section shall be applied to that person posthumously.
+Deceased Persons.—If a person whose name is being considered for referral to a special selection board under this section dies before the completion of proceedings under this section with respect to that person, this section shall be applied to that person posthumously.
 
 (f)
 
@@ -80,7 +80,7 @@ Judicial Review.—(1)(A) A court of the United States may review a determinatio
 
 Limitations of Other Jurisdiction.—No official or court of the United States may, with respect to a claim based to any extent on the failure of a person to be selected for promotion by a promotion board—
 
-&emsp;(1) consider the claim unless the person has first been referred by the Secretary concerned to a special selection board convened under this section and acted upon by that board and the report of the board has been approved by the President; or
+&emsp;(1) consider the claim unless the person has first been referred by the Secretary concerned to a special selection board convened under this section and acted upon by that board andthe report of the board has been approved by the President; or
 
 &emsp;(2) except as provided in subsection (g), grant any relief on the claim unless the person has been selected for promotion by a special selection board convened under this section to consider the person for recommendation for promotion and the report of the board has been approved by the President.
 

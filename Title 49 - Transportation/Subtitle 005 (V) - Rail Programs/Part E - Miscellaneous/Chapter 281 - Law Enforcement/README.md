@@ -120,7 +120,7 @@ Meetings.—The Agreement should provide for the Commission to meet at least bia
 
 "(f)
 
-Procurement of Services.—The Agreement should authorize and encourage the Commission to procure by contract, to the maximum extent practicable, the services (including any temporary and intermittent services) that the Commission determines necessary for carrying out the duties of the Commission. In the case of any contract for the services of an individual, funds made available for the Commission by the United States may not be used to pay for the services of theindividual at a rate that exceeds the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5, United States Code.
+Procurement of Services.—The Agreement should authorize and encourage the Commission to procure by contract, to the maximum extent practicable, the services (including any temporary and intermittent services) that the Commission determines necessary for carrying out the duties of the Commission. In the case of any contract for the services of an individual, funds made available for the Commission by the United States may not be used to pay for the services of the individual at a rate that exceeds the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5, United States Code.
 
 #### "SEC. 306. DUTIES.
 
@@ -162,7 +162,7 @@ Combined corridor evaluation.—The Agreement should also provide for the Commis
 
 "(b)
 
-Report.—The Agreement should require the Commission to submit to Congress and the Secretary of Transportation and to the Minister of Transport of the Government of Canada, not later than 3 years after the Commission commencement date, a report on the results of the study, including the Commission's findings regarding the feasibility and advisability of linking the rail system in Alaska as described in subsection (a)(1) and the Commission's recommendations regarding the preferred route and any alternative routes for the rail segment establishing the linkage.
+Report.—The Agreement should require the Commission to submit to Congress and the Secretary of Transportation and to the Minister of Transport of the Government of Canada, not later than 3 years after the Commission commencement date, a report on the results of the study, including the Commission's findings regarding the feasibility and advisability of linking the rail system in Alaska as described in subsection (a)(1) and the Commission's recommendations regarding thepreferred route and any alternative routes for the rail segment establishing the linkage.
 
 #### "SEC. 307. COMMENCEMENT AND TERMINATION OF COMMISSION.
 

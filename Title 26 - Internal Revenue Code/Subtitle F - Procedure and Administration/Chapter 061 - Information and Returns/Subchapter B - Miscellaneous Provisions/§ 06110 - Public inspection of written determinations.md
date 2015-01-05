@@ -78,7 +78,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (1) Notice of intention to disclose
 
-&emsp;Except as otherwise provided by subsection (i), the Secretary shall upon issuance of anywritten determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
+&emsp;Except as otherwise provided by subsection (i), the Secretary shall upon issuance of any written determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
 
 #### (2) Administrative remedies
 
@@ -128,7 +128,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the text of any written determination or anybackground file document (as modified under subsection (c)) shall be open or available to public inspection—
+&emsp;Except as otherwise provided in this section, the text of any written determination or any background file document (as modified under subsection (c)) shall be open or available to public inspection—
 
 &emsp;&emsp;(A) no earlier than 75 days, and no later than 90 days, after the notice provided in subsection (f)(1) is mailed, or, if later,
 

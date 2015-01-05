@@ -22,7 +22,7 @@ In this section:
 
 #### (5) Map
 
-&emsp;The term "Map" means the map entitled "Paterson Great Falls National Historical Park–Proposed Boundary", numbered T03/80,001, and dated May 2008.
+&emsp;The term "Map" means the map entitled "Paterson Great Falls National HistoricalPark–Proposed Boundary", numbered T03/80,001, and dated May 2008.
 
 #### (6) Park
 
@@ -68,25 +68,27 @@ In this section:
 
 #### (3) Boundaries
 
-&emsp;The Park shall include the following sites, as generally depicted on the Map:
+&emsp;(A) The Park shall include the following sites, as generally depicted on the Map:
 
-&emsp;&emsp;(A) The upper, middle, and lower raceways.
+&emsp;&emsp;(i) The upper, middle, and lower raceways.
 
-&emsp;&emsp;(B) Mary Ellen Kramer (Great Falls) Park and adjacent land owned by the City.
+&emsp;&emsp;(ii) Mary Ellen Kramer (Great Falls) Park and adjacent land owned by the City.
 
-&emsp;&emsp;(C) A portion of Upper Raceway Park, including the Ivanhoe Wheelhouse and the Society for Establishing Useful Manufactures Gatehouse.
+&emsp;&emsp;(iii) A portion of Upper Raceway Park, including the Ivanhoe Wheelhouse and the Society for Establishing Useful Manufactures Gatehouse.
 
-&emsp;&emsp;(D) Overlook Park and adjacent land, including the Society for Establishing Useful Manufactures Hydroelectric Plant and Administration Building.
+&emsp;&emsp;(iv) Overlook Park and adjacent land, including the Society for Establishing Useful Manufactures Hydroelectric Plant and Administration Building.
 
-&emsp;&emsp;(E) The Allied Textile Printing site, including the Colt Gun Mill ruins, Mallory Mill ruins, Waverly Mill ruins, and Todd Mill ruins.
+&emsp;&emsp;(v) The Allied Textile Printing site, including the Colt Gun Mill ruins, Mallory Mill ruins, Waverly Mill ruins, and Todd Mill ruins.
 
-&emsp;&emsp;(F) The Rogers Locomotive Company Erecting Shop, including the Paterson Museum.
+&emsp;&emsp;(vi) The Rogers Locomotive Company Erecting Shop, including the Paterson Museum.
 
-&emsp;&emsp;(G) The Great Falls Visitor Center.
+&emsp;&emsp;(vii) The Great Falls Visitor Center.
+
+&emsp;(B) In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the "Boundary Modification Area" on the map entitled "Paterson Great Falls National Historical Park, Proposed Boundary Modification", numbered T03/120,155, and dated April 2014, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
 
 #### (4) Availability of map
 
-&emsp;The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+&emsp;The Map and the map referred to in paragraph (3)(B) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 #### (5) Publication of notice
 
@@ -102,9 +104,9 @@ In this section:
 
 &emsp;&emsp;(B) the laws generally applicable to units of the National Park System, including—
 
-&emsp;&emsp;&emsp;(i) sections 1, 2, 3, and 4 of this title; and
+&emsp;&emsp;&emsp;(i) the National Park Service Organic Act (16 U.S.C. 1 et seq.); <sup>1</sup> and
 
-&emsp;&emsp;&emsp;(ii) sections 461 to 467 of this title.
+&emsp;&emsp;&emsp;(ii) the Act of August 21, 1935 (16 U.S.C. 461 et seq.).<sup>1</sup>
 
 #### (2) State and local jurisdiction
 
@@ -144,7 +146,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As a condition of the receipt of funds under this paragraph, the Secretary shallrequire that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
+&emsp;&emsp;&emsp;As a condition of the receipt of funds under this paragraph, the Secretary shall require that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
 
 #### (ii) Form
 
@@ -154,11 +156,15 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may acquire land or interests in land within the boundary of the Park by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Secretary may acquire land or interests in land within the boundary of the Park by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
 
 #### (B) Donation of State owned land
 
 &emsp;&emsp;Land or interests in land owned by the State or any political subdivision of the State may only be acquired by donation.
+
+#### (C) Hinchliffe Stadium
+
+&emsp;&emsp;The Secretary may not acquire fee title to Hinchliffe Stadium, but may acquire a preservation easement in Hinchliffe Stadium if the Secretary determines that doing so will facilitate resource protection of the stadium.
 
 #### (5) Technical assistance and public interpretation
 
@@ -170,7 +176,7 @@ In this section:
 
 &emsp;Not later than 3 fiscal years after the date on which funds are made available to carry out this subsection, the Secretary, in consultation with the Commission, shall complete a management plan for the Park in accordance with—
 
-&emsp;&emsp;(A) section 1a–7(b) of this title; and
+&emsp;&emsp;(A) section 100502 of title 54; and
 
 &emsp;&emsp;(B) other applicable laws.
 
@@ -270,7 +276,7 @@ In this section:
 
 #### (ii) Travel expenses
 
-&emsp;&emsp;&emsp;Members of the Commission shall be allowed travel expenses, including per diemin lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+&emsp;&emsp;&emsp;Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
 #### (B) Staff
 
@@ -314,9 +320,49 @@ In this section:
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 111–11, title VII, §7001, Mar. 30, 2009, 123 Stat. 1183.)
+(Pub. L. 111–11, title VII, §7001, Mar. 30, 2009, 123 Stat. 1183; Pub. L. 113–291, div. B, title XXX, §3037(a), Dec. 19, 2014, 128 Stat. 3782.)
 
 #### References in Text
 
+No act with the title "Hinchliffe Stadium Heritage Act", referred to in subsec. (b)(3)(B), has been enacted. However, a bill, H.R. 2430, entitled the "Hinchliffe Stadium Heritage Act", was passed by the House of Representatives on July 22, 2014, during the 113th Congress. Section 3 of that bill contained provisions similar to section 3037(b) of Pub. L. 113–291, set out as a note below.
+
+The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (c)(1)(B)(i), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub.L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
 Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e)(9), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (d)(1)(A), "section 100502 of title 54" substituted for "section 12(b) of Public Law 91–383 (commonly known as the 'National Park Service General Authorities Act') (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b)(3). Pub. L. 113–291, §3037(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (b)(4). Pub. L. 113–291, §3037(a)(2), substituted "The Map and the map referred to in paragraph (3)(B)" for "The Map".
+
+Subsec. (c)(4)(A). Pub. L. 113–291, §3037(a)(3)(A), substituted "Except as provided in subparagraphs (B) and (C), the Secretary" for "The Secretary".
+
+Subsec. (c)(4)(C). Pub. L. 113–291, §3037(a)(3)(B), added subpar. (C).
+
+#### Additional Considerations for Hinchliffe Stadium
+
+Pub. L. 113–291, div. B, title XXX, §3037(b), Dec. 19, 2014, 128 Stat. 3783, provided that:
+
+"(1)
+
+In general.—In administering the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the 'Boundary Modification Area' on the map entitled 'Paterson Great Falls National Historical Park, Proposed Boundary Modification', numbered T03/120,155, and dated April 2014, the Secretary of the Interior—
+
+&emsp;"(A) may not include non-Federal property within the approximately 6 acres of land as part of Paterson Great Falls National Historical Park without the written consent of the owner;
+
+&emsp;"(B) may not acquire by condemnation any land or interests in land within the approximately 6 acres of land; and
+
+&emsp;"(C) shall not construe the inclusion of Hinchliffe Stadium made by this section to create buffer zones outside the boundaries of the Paterson Great Falls National Historical Park.
+
+"(2)
+
+Outside activities.—The fact that activities can be seen or head \[sic, probably should be "heard"\] from within the approximately 6 acres of land described in paragraph (1) shall not preclude such activities outside the boundary of the Paterson Great Falls National Historical Park."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@
 
 #### Pilot Programs on Career Flexibility To Enhance Retention of Members of the Armed Forces
 
-Pub. L. 110–417, \[div. A\], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465; Pub. L. 112–239, div. A, title V, §522, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1722, 1948, provided that:
+Pub. L. 110–417, \[div. A\], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465; Pub. L. 112–239, div. A, title V, §522, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1722, 1948; Pub. L. 113–291, div. A, title V, §522, Dec. 19, 2014, 128 Stat. 3360, provided that:
 
 "(a)
 
@@ -82,11 +82,11 @@ Retirement and related purposes.—Any period of participation of a member in a 
 
 Agreement.—Each member of the Armed Forces who participates in a pilot program under this section shall enter into a written agreement with the Secretary of the military department concerned under which agreement that member shall agree as follows:
 
-&emsp;"(1) To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of the Armed Force concerned during the period of the member's inactivation from active duty under the pilot program.
+&emsp;"(1) To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of the ArmedForce concerned during the period of the member's inactivation from active duty under the pilot program.
 
 &emsp;"(2) To undergo during the period of the inactivation of the member from active duty under the pilot program such inactive duty training as the Secretary concerned shall require in order to ensure that the member retains proficiency, at a level determined by the Secretary concerned to be sufficient, in the member's military skills, professional qualifications, and physical readiness during the inactivation of the member from active duty.
 
-&emsp;"(3) Following completion of the period of the inactivation of the member from active duty under thepilot program, to serve two months as a member of the Armed Forces on active duty for each month of the period of the inactivation of the member from active duty under the pilot program.
+&emsp;"(3) Following completion of the period of the inactivation of the member from active duty under the pilot program, to serve two months as a member of the Armed Forces on active duty for each month of the period of the inactivation of the member from active duty under the pilot program.
 
 "(f)
 
@@ -190,7 +190,7 @@ Promotion and rank upon return to active duty.—Upon the return of an officer t
 
 &emsp;&emsp;&emsp;"(i) the Secretary of the military department concerned shall adjust the officer's date of rank in such manner as the Secretary of Defense shall prescribe in regulations for purposes of this section; and
 
-&emsp;&emsp;&emsp;"(ii) the officer shall be eligible for consideration for promotion when officers of the same competitive category, grade, and seniority are eligible for consideration for promotion.
+&emsp;&emsp;&emsp;"(ii) the officer shall be eligible for consideration for promotion when officers of the samecompetitive category, grade, and seniority are eligible for consideration for promotion.
 
 &emsp;"(2)
 
@@ -214,11 +214,11 @@ Reports.—
 
 &emsp;"(1)
 
-Interim reports.—Not later than June 1 of 2011, 2013, 2015, and 2017, the Secretary of each military department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation and current status of the pilot programs conducted by such Secretary under this section.
+Interim reports.—Not later than June 1 of 2011, 2013, 2015, 2017, and 2019, the Secretary of each military department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation and current status of the pilot programs conducted by such Secretary under this section.
 
 &emsp;"(2)
 
-Final report.—Not later than March 1, 2019, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot programs conducted under this section.
+Final report.—Not later than March 1, 2023, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot programs conducted under this section.
 
 &emsp;"(3)
 
@@ -236,13 +236,29 @@ Elements of report.—Each interim report and the final report under this subsec
 
 &emsp;&emsp;"(C) Such recommendations for legislative or administrative action as the Secretary concerned considers appropriate for the modification or continuation of the pilot programs.
 
+&emsp;"(4)
+
+Additional elements for final report.—In addition to the elements required by paragraph (3), the final report under this subsection shall include the following:
+
+&emsp;&emsp;"(A) A description of the costs to each military department of each pilot program conducted under this section.
+
+&emsp;&emsp;"(B) A description of the reasons why members choose to participate in the pilot programs.
+
+&emsp;&emsp;"(C) A description of the members who did not return to active duty at the conclusion of their inactivation from active duty under the pilot programs, and a statement of the reasons why the members did not return to active duty.
+
+&emsp;&emsp;"(D) A statement whether members were required to perform inactive duty training as part of their participation in the pilot programs, and if so, a description of the members who were required to perform such inactive duty training, a statement of the reasons why the members were required to perform such inactive duty training, and a description of how often the members were required to perform such inactive duty training.
+
 "(l)
 
 Definition.—In this section, the term 'active Guard and Reserve duty' has the meaning given that term in section 101(d)(6) of title 10, United States Code.
 
 "(m)
 
-Duration of Program Authority.—No member of the Armed Forces may be released from active duty under a pilot program conducted under this section after December 31, 2015."
+Duration of Program Authority.—
+
+&emsp;"(1) No member of the Armed Forces may be released from active duty under a pilot program conducted under this section after December 31, 2019.
+
+&emsp;"(2) A member may not be reactivated to active duty in the Armed Forces under a pilot program conducted under this section after December 31, 2022."
 
 
 ---

@@ -36,7 +36,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;(A) integrate energy efficiency resources into the plans and planning processes of the natural gas utility; and
 
-&emsp;&emsp;(B) adopt policies that establish energy efficiency as a priority resource in the plansand planning processes of the natural gas utility.
+&emsp;&emsp;(B) adopt policies that establish energy efficiency as a priority resource in the plans and planning processes of the natural gas utility.
 
 #### (6) Rate design modifications to promote energy efficiency investments
 
@@ -82,7 +82,7 @@ This chapter, referred to in subsec. (b)(6), was in the original "this subtitle"
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(2). Pub. L. 110–140, §532(c), which directed substitution of "(4), (5), and (6)" for "and (4)" in subsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–140, §532(c), which directed substitution of "(4), (5), and (6)" for "and (4)" insubsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
 
 Subsec. (b)(5), (6). Pub. L. 110–140, §532(b), added pars. (5) and (6).
 

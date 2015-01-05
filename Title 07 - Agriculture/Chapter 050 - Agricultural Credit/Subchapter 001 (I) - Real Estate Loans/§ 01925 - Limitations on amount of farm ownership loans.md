@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make or insure no loan under sections 1922, 1923, 1924, 1934, and 1935 of this title that would cause the unpaid indebtedness under such sections of any one borrower to exceed the smaller of (1) the value of the farm or other security, or (2) in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II of this chapter that are guaranteed by the Secretary).
+The Secretary shall make or insure no loan under sections 1922, 1923, 1924, 1934, and 1935 of this title that would cause the unpaid indebtedness under such sections of any one borrower to exceed the smaller of (1) the value of the farm or other security, or (2) in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II that are guaranteed by the Secretary).
 
 #### (b) Determination of value
 
@@ -16,7 +16,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 &emsp;(2) the average of such index (as so defined) for the 12-month period ending on August 31, 1996.
 
-(Pub. L. 87–128, title III, §305, Aug. 8, 1961, 75 Stat. 308; Pub. L. 91–620, §1, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §103, Aug. 30, 1972, 86Stat. 658; Pub. L. 91–524, title VIII, §807, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–334, title I, §103, Aug. 4, 1978, 92 Stat. 421; Pub. L. 102–554, §3, Oct. 28, 1992, 106 Stat. 4142; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, §5003, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, §4(a), title V, §5003, June 18, 2008, 122 Stat. 1664, 1905.)
+(Pub. L. 87–128, title III, §305, Aug. 8, 1961, 75 Stat. 308; Pub. L. 91–620, §1, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §103, Aug. 30, 1972, 86 Stat. 658; Pub. L. 91–524, title VIII, §807, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–334, title I, §103, Aug. 4, 1978, 92 Stat. 421; Pub. L. 102–554, §3, Oct. 28, 1992, 106 Stat. 4142; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, §5003, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, §4(a), title V, §5003, June 18, 2008, 122 Stat. 1664, 1905.)
 
 #### Codification
 
@@ -26,7 +26,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §5003, substituted "$300,000" for "$200,000".
 
-<b>1998</b>—Pub. L. 105–277 inserted section catchline, designated first sentence as subsec. (a), inserted heading, and substituted "$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II of this chapter that are guaranteed by the Secretary)" for "$300,000", designated second sentence as subsec. (b) and inserted heading, and added subsec. (c).
+<b>1998</b>—Pub. L. 105–277 inserted section catchline, designated first sentence as subsec. (a), inserted heading, and substituted "$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II that are guaranteed by the Secretary)" for "$300,000", designated second sentence as subsec. (b) and inserted heading, and added subsec. (c).
 
 <b>1992</b>—Pub. L. 102–554 inserted reference to section 1935 of this title.
 

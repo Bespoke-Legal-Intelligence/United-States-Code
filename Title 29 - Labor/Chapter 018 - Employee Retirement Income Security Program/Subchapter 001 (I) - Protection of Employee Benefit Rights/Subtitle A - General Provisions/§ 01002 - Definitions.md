@@ -100,7 +100,7 @@ For purposes of this subchapter:
 
 (20) The term "security" has the same meaning as such term has under section 77b(1) <sup>2</sup> of title 15.
 
-(21)(A) Except as otherwise provided in subparagraph (B), a person is a fiduciary with respect to a plan to the extent (i) he exercises any discretionary authority or discretionary control respecting management of such plan or exercises any authority or control respecting management or disposition of its assets, (ii) he renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property of such plan, or has any authority or responsibility to do so, or (iii) he has any discretionary authority or discretionary responsibility in the administration of such plan. Such term includes any person designated under section 1105(c)(1)(B) of this title.
+(21)(A) Except as otherwise provided in subparagraph (B), a person is a fiduciary with respect to a plan to the extent (i) he exercises any discretionary authority or discretionary control respecting management of such plan or exercises any authority or control respecting management or disposition of its assets, (ii) he renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property of such plan, or hasany authority or responsibility to do so, or (iii) he has any discretionary authority or discretionary responsibility in the administration of such plan. Such term includes any person designated under section 1105(c)(1)(B) of this title.
 
 (B) If any money or other property of an employee benefit plan is invested in securities issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], such investment shall not by itself cause such investment company or such investment company's investment adviser or principal underwriter to be deemed to be a fiduciary or a party in interest as those terms are defined in this subchapter, except insofar as such investment company or its investment adviser or principal underwriter acts in connection with an employee benefit plan covering employees of the investment company, the investment adviser, or its principal underwriter. Nothing contained in this subparagraph shall limit the duties imposed on such investment company, investment adviser, or principal underwriter by any other law.
 
@@ -142,9 +142,9 @@ For purposes of this subchapter:
 
 (30) The term "unfunded accrued liability" means the excess of the accrued liability, under an actuarial cost method which so provides, over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
-(31) The term "advance funding actuarial cost method" or "actuarial cost method" means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium costmethod, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
+(31) The term "advance funding actuarial cost method" or "actuarial cost method" means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium cost method, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
 
-(32) The term "governmental plan" means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
+(32) The term "governmental plan" means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term "governmentalplan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
 
 (33)(A) The term "church plan" means a plan established and maintained (to the extent required in clause (ii) of subparagraph (B)) for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of title 26.
 
@@ -182,7 +182,7 @@ For purposes of this subchapter:
 
 (iii) For purposes of this subparagraph, the term "correction period" means—
 
-&emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury ofa notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
+&emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury of a notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
 
 &emsp;(II) any period set by a court of competent jurisdiction after a final determination that the plan fails to meet such requirements, or, if the court does not specify such period, any reasonable period determined by the Secretary of the Treasury on the basis of all the facts and circumstances, but in any event not less than 270 days after the determination has become final; or
 
@@ -190,7 +190,7 @@ For purposes of this subchapter:
 
 > whichever has the latest ending date.
 
-(34) The term "individual account plan" or "defined contribution plan" means a pension plan which provides for an individual account for each participant and for benefits based solely upon the amount contributed to the participant's account, and any income, expenses, gains and losses, and any forfeitures of accounts of other participants which may be allocated to such participant's account.
+(34) The term "individual account plan" or "defined contribution plan" means a pension plan which provides for an individual account for each participant and for benefits based solelyupon the amount contributed to the participant's account, and any income, expenses, gains and losses, and any forfeitures of accounts of other participants which may be allocated to such participant's account.
 
 (35) The term "defined benefit plan" means a pension plan other than an individual account plan; except that a pension plan which is not an individual account plan and which provides a benefit derived from employer contributions which is based partly on the balance of the separate account of a participant—
 
@@ -240,7 +240,7 @@ For purposes of this subchapter:
 
 &emsp;(II) a plan that meets the criteria in clauses (i) and (ii) of subparagraph (A) of this paragraph or that is described in clause (vi) may, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, elect to be a multiemployer plan, if—
 
-&emsp;&emsp;(aa) for each of the 3 plan years immediately preceding the first plan year forwhich the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
+&emsp;&emsp;(aa) for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
 
 &emsp;&emsp;(bb) substantially all of the plan's employer contributions for each of those plan years were made or required to be made by organizations that were exempt from tax under section 501 of title 26, and
 
@@ -248,7 +248,7 @@ For purposes of this subchapter:
 
 (ii) An election under this subparagraph shall be effective for all purposes under this chapter and under title 26, starting with any plan year beginning on or after January 1, 1999, and ending before January 1, 2008, as designated by the plan in the election made under clause (i)(II).
 
-(iii) Once made, an election under this subparagraph shall be irrevocable, except that a plan described in clause (i)(II) shall cease to be a multiemployer plan as of the plan year beginning immediately after the first plan year for which the majority of its employer contributions were made or required to be made by organizations that were not exempt from tax under section 501 of title 26.
+(iii) Once made, an election under this subparagraph shall be irrevocable, except that a plan described in clause (i)(II) shall cease to be a multiemployer plan as of the plan year beginning immediately after the first plan year forwhich the majority of its employer contributions were made or required to be made by organizations that were not exempt from tax under section 501 of title 26.
 
 (iv) The fact that a plan makes an election under clause (i)(II) does not imply that the plan was not a multiemployer plan prior to the date of the election or would not be a multiemployer plan without regard to the election.
 
@@ -310,7 +310,7 @@ Single-employer plan.—The term "single-employer plan" means an employee benefi
 
 This chapter, referred to in pars. (2)(B) and (37)(E), (G)(ii), (vii), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 The Labor Management Relations Act, 1947, referred to in par. (12), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
@@ -336,7 +336,7 @@ The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of
 
 <b>2008</b>—Par. (37)(G). Pub. L. 110–458 substituted "subparagraph" for "paragraph" in cls. (ii), (iii), and (v)(I), "clause (i)(II)" for "subclause (i)(II)" in cl. (iii), "clause" for "subparagraph" in cl. (v)(II), and "section 1021(b)(1)" for "section 1021(b)(4)" in cl. (v)(III).
 
-<b>2007</b>—Par. (37)(G)(i)(II)(aa). Pub. L. 110–28, §6611(a)(1)(A), substituted "for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan," for "for each of the 3 plan years immediately before August 17, 2006,".
+<b>2007</b>—Par. (37)(G)(i)(II)(aa). Pub. L. 110–28, §6611(a)(1)(A), substituted "for each of the 3 plan years immediately preceding the first plan year for which theelection under this paragraph is effective with respect to the plan," for "for each of the 3 plan years immediately before August 17, 2006,".
 
 Par. (37)(G)(ii). Pub. L. 110–28, §6611(a)(1)(B), substituted "starting with any plan year beginning on or after January 1, 1999, and ending before January 1, 2008, as designated by the plan in the election made under clause (i)(II)" for "starting with the first plan year ending after August 17, 2006".
 
@@ -408,7 +408,7 @@ Pub. L. 99–272, which, eff. Jan. 1, 1986, directed the substitution of "means 
 
 Par. (14). Pub. L. 96–364, §305, inserted provisions respecting a trust described in section 501(c)(22) of title 26.
 
-Par. (33). Pub. L. 96–364, §407(a), substituted provisions defining "church plan" as a plan established andmaintained (to the extent required in cl. (ii) of subpar. (B)) for employees or beneficiaries by a church, etc., exempt from tax under section 501 of title 26, for provisions defining "church plan" as a plan established and maintained for employees by a church, etc., exempt from tax under section 501 of title 26, or a plan in existence on Jan. 1, 1974, established and maintained by a church, etc., for employees and employees of agencies of the church, etc.
+Par. (33). Pub. L. 96–364, §407(a), substituted provisions defining "church plan" as a plan established and maintained (to the extent required in cl. (ii) of subpar. (B)) for employees or beneficiaries by a church, etc., exempt from tax under section 501 of title 26, for provisions defining "church plan" as a plan established and maintained for employees by a church, etc., exempt from tax under section 501 of title 26, or a plan in existence on Jan. 1, 1974, established and maintained by a church, etc., for employees and employees of agencies of the church, etc.
 
 Par. (37). Pub. L. 96–364, §302(a), substantially revised definition of term "multiemployer plan" by, among other changes, restructuring subpar. (A), resulting in elimination of provisions covering amount of contributions and payment of benefits, and subpar. (B), resulting in elimination of provisions reworking amount of contributions for subsequent plan years, and added subpars. (C) to (E).
 
@@ -462,7 +462,7 @@ Pub. L. 101–239, title VII, §7894(a)(1)(B), Dec. 19, 1989, 103 Stat. 2448, pr
 
 Pub. L. 101–239, title VII, §7894(a)(2)(B), Dec. 19, 1989, 103 Stat. 2448, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 136 of Public Law 100–202."
 
-Pub. L. 101–239, title VII, §7894(i), Dec. 19, 1989, 103 Stat. 2452, provided that: "Except as otherwise provided in this section, any amendment made by this section\[amending this section and sections 1021, 1024 to 1026, 1028, 1031, 1051 to 1056, 1060, 1061, 1081, 1082, 1084, 1086, 1103, 1107, 1108, 1113, 1114, 1132, 1144, 1321 to 1322a, 1344, 1368, and 1461 of this title\] shall take effect as if originally included in the provision of the Employee Retirement Income Security Act of 1974 \[Pub. L. 93–406\] to which such amendment relates."
+Pub. L. 101–239, title VII, §7894(i), Dec. 19, 1989, 103 Stat. 2452, provided that: "Except as otherwise provided in this section, any amendment made by this section \[amending this section and sections 1021, 1024 to 1026, 1028, 1031, 1051 to 1056, 1060, 1061, 1081, 1082, 1084, 1086, 1103, 1107, 1108, 1113, 1114, 1132, 1144, 1321 to 1322a, 1344, 1368, and 1461 of this title\] shall take effect as if originally included in the provision of the Employee Retirement Income Security Act of 1974 \[Pub. L. 93–406\] to which such amendment relates."
 
 #### Effective Date of 1987 Amendment
 
@@ -472,7 +472,7 @@ Pub. L. 100–202, §136(b), Dec. 22, 1987, 101 Stat. 1329–442, provided that:
 
 Amendment by section 1879(u)(3) of Pub. L. 99–514 effective as if such provisions were included in the enactment of the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272\], see section 1879(u)(4)(A) of Pub. L. 99–514, set out as a note under section 1054 of this title.
 
-Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
+Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988,and only with respect to service performed on or after such date, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
 
 Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

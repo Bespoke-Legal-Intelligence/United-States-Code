@@ -48,7 +48,7 @@ Additional reimbursement.—
 
 &emsp;&emsp;(i)
 
-In general.—Each lunch served in school food authorities determined to be eligible under subparagraph (D) shall receivean additional 6 cents, adjusted in accordance with section 1759a(a)(3) of this title, to the national lunch average payment for each lunch served.
+In general.—Each lunch served in school food authorities determined to be eligible under subparagraph (D) shall receive an additional 6 cents, adjusted in accordance with section 1759a(a)(3) of this title, to the national lunch average payment for each lunch served.
 
 &emsp;&emsp;(ii)
 
@@ -138,7 +138,7 @@ Pub. L. 97–35, title VIII, §820(a), Aug. 13, 1981, 95 Stat. 534, provided tha
 
 "(5) The amendments made by section 813 \[amending sections 1759a, 1760, 1762a, and 1772 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 13, 1981\].
 
-"(6) The amendments made by the following provisions shall take effect January 1, 1982: subsections (b), (c), (d), and (e) of section 810 \[amending section 1766 of this title\], except that—
+"(6) The amendments made by the following provisions shall take effect January 1, 1982: subsections (b),\(c), (d), and (e) of section 810 \[amending section 1766 of this title\], except that—
 
 &emsp;"(A) the amendment made by section 810(c) pertaining to the reimbursement rate for supplements shall take effect as provided under paragraph (1) of this subsection;
 

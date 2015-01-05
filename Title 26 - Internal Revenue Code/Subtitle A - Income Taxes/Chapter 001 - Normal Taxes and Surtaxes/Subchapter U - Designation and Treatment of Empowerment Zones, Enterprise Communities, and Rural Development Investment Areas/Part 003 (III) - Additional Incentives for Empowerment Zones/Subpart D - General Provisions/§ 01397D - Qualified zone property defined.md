@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) the original use of which in an empowerment zone commences with the taxpayer, and
 
-&emsp;&emsp;(C) substantially all of the use of which is in an empowerment zone and is in the active conduct of a qualified business by the taxpayer in such zone.
+&emsp;&emsp;(C) substantially all of the use of which is in an empowerment zone and is in the activeconduct of a qualified business by the taxpayer in such zone.
 
 #### (2) Special rule for substantial renovations
 

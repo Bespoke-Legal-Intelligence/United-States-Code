@@ -22,7 +22,7 @@ Limitation on Eligibility for Special Pay.—Special pay may not be paid under t
 
 (d)
 
-Limitation on Amount of Special Pay.—The amount of retention special pay paid to an officer under this section may not exceed $15,000 for any 12-month period.
+Limitation on Amount of Special Pay.—The amount of retention special pay paid to anofficer under this section may not exceed $15,000 for any 12-month period.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title VI, §615(g), Dec. 2, 2002, 116 Stat. 2569.)
 

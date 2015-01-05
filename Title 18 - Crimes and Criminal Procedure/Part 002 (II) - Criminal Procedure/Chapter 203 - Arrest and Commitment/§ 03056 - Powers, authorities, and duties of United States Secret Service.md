@@ -14,7 +14,7 @@
 
 &emsp;(6) Other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad when the President directs that such protection be provided.
 
-&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term "major Presidential and Vice Presidential candidates" means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of theHouse of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
+&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term "major Presidential and Vice Presidential candidates" means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
 
 &emsp;(8) Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice President leaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
 
@@ -58,7 +58,7 @@
 
 (g) The United States Secret Service shall be maintained as a distinct entity within the Department of Homeland Security and shall not be merged with any other Department function. No personnel and operational elements of the United States Secret Service shall report to an individual other than the Director of the United States Secret Service, who shall report directly to the Secretary of Homeland Security without being required to report through any other official of the Department.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L.106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, §1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, §322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256; Pub. L. 110–326, title I, §102, Sept. 26, 2008, 122 Stat. 3560; Pub. L. 112–257, §2, Jan. 10, 2013, 126 Stat. 2413.)
+(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, §1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, §322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256; Pub. L. 110–326, title I, §102, Sept. 26, 2008, 122 Stat. 3560; Pub. L. 112–257, §2, Jan. 10, 2013, 126 Stat. 2413.)
 
 #### Historical and Revision Notes
 
@@ -84,7 +84,7 @@ Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(3). Pub. L. 112–257, §2(a), struck out provisions limiting protection for certain former Presidents and their spouses to ten years from the date a former President leaves office, with certain exceptions, and authorizing the provision of temporary protection if determined to be warranted by the Secretary of Homeland Security.
+<b>2013</b>—Subsec. (a)(3). Pub. L. 112–257, §2(a), struck out provisions limiting protection for certain former Presidents and their spouses to ten years from the date a former President leaves office, with certain exceptions, and authorizing the provision of temporary protectionif determined to be warranted by the Secretary of Homeland Security.
 
 Subsec. (a)(4). Pub. L. 112–257, §2(b), struck out "for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first" after "16 years of age".
 
@@ -128,7 +128,7 @@ Pub. L. 97–297, §3(2), substituted "and Federal land bank associations are co
 
 Subsec. (b). Pub. L. 97–308 increased the limitation on fines to $1,000 from $300.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–408 substituted ", and the members of their immediate families unless the members decline such protection;" for "; protect themembers of the immediate family of the Vice-President, unless such protection is declined;".
+<b>1976</b>—Subsec. (a). Pub. L. 94–408 substituted ", and the members of their immediate families unless the members decline such protection;" for "; protect the members of the immediate family of the Vice-President, unless such protection is declined;".
 
 Subsec. (b). Pub. L. 94–408 inserted reference to other Federal law enforcement agents.
 
@@ -160,7 +160,7 @@ Pub. L. 110–326, title I, §103, Sept. 26, 2008, 122 Stat. 3560, provided that
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: "The amendments made by this section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\]."
+Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: "The amendments made bythis section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\]."
 
 #### Effective Date of 1974 Amendment
 

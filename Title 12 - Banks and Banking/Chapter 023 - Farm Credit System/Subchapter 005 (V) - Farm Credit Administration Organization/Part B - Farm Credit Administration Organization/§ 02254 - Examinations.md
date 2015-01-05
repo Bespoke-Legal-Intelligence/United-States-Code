@@ -34,7 +34,7 @@ A prior section 5.19 of Pub. L. 92–181 was classified to section 2253 of this 
 
 #### References in Text
 
-The National Bank Act, referred to in subsec. (a), is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The National Bank Act, referred to in subsec. (a), is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, whichis classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
 The Federal Reserve Act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 

@@ -46,7 +46,7 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 
 &emsp;(2)
 
-Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
+Other responsible parties.—Paragraph (1) shall not apply to a removal or remedialaction if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
 
 &emsp;(3)
 
@@ -62,7 +62,7 @@ In general.—Subject to paragraph (3), the Secretary may enter into agreements 
 
 &emsp;(2)
 
-Cross-fiscal year agreements.—An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years. This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+Cross-fiscal year agreements.—An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years. This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account established by section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Savings clause.—Nothing in this subsection affects the applicability of sectio
 
 (e)
 
-Response Action Contractors.—The provisions of section 119 of CERCLA (42 U.S.C. 9619)apply to response action contractors (as defined in that section) who carry out response actions under this section.
+Response Action Contractors.—The provisions of section 119 of CERCLA (42 U.S.C. 9619) apply to response action contractors (as defined in that section) who carry out response actions under this section.
 
 (f)
 
@@ -112,7 +112,7 @@ Limitation of accrual of rights of action under bonds.—If, under applicable Fe
 
 &emsp;(3)
 
-Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
+Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall beonly for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
 &emsp;(4)
 
@@ -134,15 +134,11 @@ Program Manager.—(1) The Secretary of Defense shall designate a program manage
 
 &emsp;(B) a member of the armed forces who is serving in the grade of colonel or, in the case of the Navy, captain, or in a higher grade.
 
-(3) The program manager shall report to the Deputy Under Secretary of Defense for Installations and Environment.
+(3) The program manager shall report to the Assistant Secretary of Defense for Energy, Installations, and Environment.
 
 (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, titleXLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144.)
-
-#### Amendment of Subsection (d)(2)
-
-<i>Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), (d), Jan. 2, 2013, 126 Stat. 2144, provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (d)(2) of this section is amended by striking "Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A" and inserting "Department of Defense Base Closure Account established by section 2906". See 2013 Amendment note below.</i>
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469.)
 
 #### References in Text
 
@@ -240,13 +236,17 @@ Pub. L. 102–484, §331(b), substituted "December 31, 1995" for "December 31, 1
 
 <b>1990</b>—Subsecs. (f), (g). Pub. L. 101–510 added subsecs. (f) and (g).
 
+#### Change of Name
+
+"Assistant Secretary of Defense for Energy, Installations, and Environment" substituted for "Deputy Under Secretary of Defense for Installations and Environment" in subsec. (k)(3) on authority of section 901(n)(2) of Pub. L. 113–291, set out as a References note under section 131 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. B, title XXVII, §2711(d), Jan. 2, 2013, 126 Stat. 2144, provided that: "This section and the amendments made by this section \[amending this section and sections 2703, 2705, and 2883 of this title and enacting and amending provisions set out as notes under section 2687 of this title\] shall take effect on the later of—
 
 &emsp;"(1) October 1, 2013; and \[sic\]
 
-&emsp;"(2) the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014."
+&emsp;"(2) the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014 \[div. J of Pub. L. 113–76, approved Jan. 17, 2014\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -256,7 +256,7 @@ For effective date and applicability of amendment by section 4321(b)(22) of Pub.
 
 #### Prohibition on Disposing of Waste in Open-Air Burn Pits
 
-Pub. L. 111–84, div. A, title III, §317, Oct. 28, 2009, 123 Stat. 2249, as amended by Pub. L. 112–81, div. A, title III, §316, Dec. 31, 2011, 125 Stat. 1358; Pub. L. 113–66, div. A, title III, §314, Dec. 26, 2013, 127 Stat. 729, provided that:
+Pub. L. 111–84, div. A, title III, §317, Oct. 28, 2009, 123 Stat. 2249, as amended by Pub. L. 112–81, div. A, title III, §316, Dec. 31, 2011, 125 Stat. 1358; Pub. L. 113–66, div. A, title III, §314, Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, §1071(g)(1), Dec. 19, 2014, 128 Stat. 3511, provided that:
 
 "(a)
 
@@ -343,8 +343,6 @@ Definitions.—In this section:
 &emsp;&emsp;"(P) any item containing any of the materials referred to in a preceding paragraph; and
 
 &emsp;&emsp;"(Q) other waste as designated by the Secretary."
-
-\[Pub. L. 113–66, div. A, title III, §314, Dec. 26, 2013, 127 Stat. 729, which directed amendment of section 317(c)(2) of Pub. L. 111–84, set out above, was executed to section 317(d)(2) of Pub. L. 111–84, to reflect the probable intent of Congress.\]
 
 #### Purpose of Pub. L. 109–284
 
@@ -800,7 +798,7 @@ Employment of Graduates.—In the case of eligible civilian employees of the Dep
 
 "(c)
 
-Eligible Employees.—Eligibility for selection to participate in the training program under subsection (a) shall be limited to those civilian employees of theDepartment of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
+Eligible Employees.—Eligibility for selection to participate in the training program under subsection (a) shall be limited to those civilian employees of the Department of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
 
 "(d)
 
@@ -940,7 +938,7 @@ Repayment.—(1) Any individual participating in a scholarship or fellowship pro
 
 &emsp;"(B) the individual is involuntarily separated for cause from the Department of Defense before the end of the period for which the individual has agreed to continue in the service of the Department of Defense.
 
-"(2) If an individual fails to fulfill the agreement of the individual to pay to the United States the total amount of educational assistance provided under a program established under subsection (a), plus interest at the rate prescribed in paragraph (4), a sum equal to the amount of the educational assistance (plus such interest, if applicable) shall be recoverable by the United States from the individual or his estate by—
+"(2) If an individual fails to fulfill the agreement of the individual to pay to the United States the totalamount of educational assistance provided under a program established under subsection (a), plus interest at the rate prescribed in paragraph (4), a sum equal to the amount of the educational assistance (plus such interest, if applicable) shall be recoverable by the United States from the individual or his estate by—
 
 &emsp;"(A) in the case of an individual who is an employee of the Department of Defense or other Federal agency, set off against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the United States; and
 
@@ -1010,7 +1008,7 @@ Pub. L. 101–510, div. A, title III, §345, Nov. 5, 1990, 104 Stat. 1538, provi
 
 DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In addition to the functions of the advisory committee established pursuant to section 356(c) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189\] (10 U.S.C. 2701 note), it shall be the function of the Committee to study (A) the use of methyl chloroform, hydrochlorofluorcarbons (HCFCs), and carbon tetrachloride by the Department of Defense and by contractors in the performance of contracts for the Department of Defense, and (B) the costs and feasibility of using alternative compounds or technologies for methyl chloroform, HCFCs, and carbon tetrachloride.
 
-"(2) Within 120 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that specify the use of methyl chloroform, HCFCs, or carbon tetrachloride.
+"(2) Within 120 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary shall providethe Committee with a list of all military specifications, standards, and other requirements that specify the use of methyl chloroform, HCFCs, or carbon tetrachloride.
 
 "(3) Within 150 days after the date of the enactment of this Act, the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that do not specify use of methyl chloroform, HCFCs, or carbon tetrachloride but cannot be met without the use of one or more of such substances.
 
@@ -1042,7 +1040,7 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 #### Funding for Waste Minimization Programs for Certain Industrial-Type Activities of Department of Defense
 
-Pub. L. 101–189, div. A, title III, §354, Nov. 29, 1989, 103 Stat. 1424, as amended by Pub. L. 102–190, div. A, title III, §332, Dec. 5, 1991, 105 Stat. 1340, directed the Secretary of Defense to require the Secretary of each military department to establish a program for fiscal years 1992, 1993, and 1994 to reduce the volume of solid and hazardous wastes disposed of, and hazardous materials used by, each industrial-type activity within the department that was a depot maintenance installation and for which a working-capital fund had been established under section 2208 of this title, and to submit toCongress, not later than 90 days after Nov. 29, 1989, the name of each industrial-type or commercial-type activity of each military department which was not covered by the waste minimization program because the activity did not carry out depot maintenance installation functions.
+Pub. L. 101–189, div. A, title III, §354, Nov. 29, 1989, 103 Stat. 1424, as amended by Pub. L. 102–190, div. A, title III, §332, Dec. 5, 1991, 105 Stat. 1340, directed the Secretary of Defense to require the Secretary of each military department to establish a program for fiscal years 1992, 1993, and 1994 to reduce the volume of solid and hazardous wastes disposed of, and hazardous materials used by, each industrial-type activity within the department that was a depot maintenance installation and for which a working-capital fund had been established under section 2208 of this title, and to submit to Congress, not later than 90 days after Nov. 29, 1989, the name of each industrial-type or commercial-type activity of each military department which was not covered by the waste minimization program because the activity did not carry out depot maintenance installation functions.
 
 #### Use of Chlorofluorocarbons and Halons in Department of Defense
 

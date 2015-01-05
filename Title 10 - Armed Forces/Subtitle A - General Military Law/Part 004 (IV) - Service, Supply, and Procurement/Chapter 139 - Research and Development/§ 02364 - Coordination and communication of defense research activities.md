@@ -18,25 +18,27 @@ Functions of Defense Research Facilities.—The Secretary of Defense shall ensur
 
 &emsp;(3) that the managers of such facilities have broad latitude to choose research and development projects;
 
-&emsp;(4) that technology position papers prepared by Defense research facilities are readily available to all combatant commands and to contractors who submit bids or proposals for Department of Defense contracts; and
+&emsp;(4) that technology position and issue papers prepared by Defense research facilities are readily available to all components of the Department of Defense and to contractors who submit bids or proposals for Department of Defense contracts; and
 
-&emsp;(5) that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.
+&emsp;(5) that, in order to promote increased consideration of technological issues early in the development process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions.
 
 (c)
 
-Definitions.—In this section:
+Definitions.—In this section, the term "Defense research facility" means a Department of Defense facility which performs or contracts for the performance of—
 
-&emsp;(1) The term "Defense research facility" means a Department of Defense facility which performs or contracts for the performance of—
+&emsp;(1) basic research; or
 
-&emsp;&emsp;(A) basic research; or
+&emsp;(2) applied research known as exploratory development.
 
-&emsp;&emsp;(B) applied research known as exploratory development.
-
-&emsp;(2) The term "acquisition program decision" has the meaning prescribed by the Secretary of Defense in regulations."
-
-(Added Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, §1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 104–106, div. A, title VIII, §805, Feb. 10, 1996, 110 Stat. 390.)
+(Added Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, §1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 104–106, div. A, title VIII, §805, Feb. 10, 1996, 110 Stat. 390; Pub. L. 113–291, div. A, title II, §213, Dec. 19, 2014, 128 Stat. 3325.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(4). Pub. L. 113–291, §213(1)(A), inserted "and issue" after "technology position" and substituted "components of the Department of Defense" for "combatant commands".
+
+Subsec. (b)(5). Pub. L. 113–291, §213(1)(B), substituted "any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions." for "any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions."
+
+Subsec. (c). Pub. L. 113–291, §213(2), struck out "this section:" after "In", substituted "this section, the term" for "(1) The term", redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned margins, and struck out par. (2) which read as follows: "The term 'acquisition program decision' has the meaning prescribed by the Secretary of Defense in regulations."
 
 <b>1996</b>—Subsec. (b)(5). Pub. L. 104–106, §805(1), substituted "acquisition program" for "milestone O, milestone I, and milestone II".
 
@@ -62,7 +64,7 @@ Subsec. (c)(4). Pub. L. 100–26, §7(a)(9)(C), substituted "the decision by an 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 3(1)(A) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted onNov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+Amendment by section 3(1)(A) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Performance Review Process
 

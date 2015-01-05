@@ -50,7 +50,7 @@ In this subchapter:
 
 #### (12) Water System Land
 
-&emsp;The term "Water System Land" means the federally-owned land located within the SantaFe National Forest to be conveyed to the County under the Los Alamos Agreement.
+&emsp;The term "Water System Land" means the federally-owned land located within the Santa Fe National Forest to be conveyed to the County under the Los Alamos Agreement.
 
 #### (b) Purposes
 

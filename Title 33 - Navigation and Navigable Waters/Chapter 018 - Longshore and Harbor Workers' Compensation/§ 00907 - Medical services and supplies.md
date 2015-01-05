@@ -6,7 +6,7 @@ The employer shall furnish such medical, surgical, and other attendance or treat
 
 #### (b) Physician selection; administrative supervision; change of physicians and hospitals
 
-The employee shall have the right to choose an attending physician authorized by the Secretary to provide medical care under this chapter as hereinafter provided. If, due to the nature of the injury, the employee is unable to select his physician and the nature of the injury requires immediate medical treatment and care, the employer shall select a physician for him.The Secretary shall actively supervise the medical care rendered to injured employees, shall require periodic reports as to the medical care being rendered to injured employees, shall have authority to determine the necessity, character, and sufficiency of any medical aid furnished or to be furnished, and may, on his own initiative or at the request of the employer, order a change of physicians or hospitals when in his judgment such change is desirable or necessary in the interest of the employee or where the charges exceed those prevailing within the community for the same or similar services or exceed the provider's customary charges. Change of physicians at the request of employees shall be permitted in accordance with regulations of the Secretary.
+The employee shall have the right to choose an attending physician authorized by the Secretary to provide medical care under this chapter as hereinafter provided. If, due to the nature of the injury, the employee is unable to select his physician and the nature of the injury requires immediate medical treatment and care, the employer shall select a physician for him. The Secretary shall actively supervise the medical care rendered to injured employees, shall require periodic reports as to the medical care being rendered to injured employees, shall have authority to determine the necessity, character, and sufficiency of any medical aid furnished or to be furnished, and may, on his own initiative or at the request of the employer, order a change of physicians or hospitals when in his judgment such change is desirable or necessary in the interest of the employee or where the charges exceed those prevailing within the community for the same or similar services or exceed the provider's customary charges. Change of physicians at the request of employees shall be permitted in accordance with regulations of the Secretary.
 
 #### (c) Physicians and health care providers not authorized to render medical care or provide medical services
 
@@ -24,7 +24,7 @@ The employee shall have the right to choose an attending physician authorized by
 
 &emsp;(v) has otherwise been excluded from participation in such program.
 
-(C) Medical services provided by physicians or health care providers who are named on the list published by the Secretary pursuant to subparagraph (A) of this section shall not be reimbursable under this chapter; except that the Secretary shall direct the reimbursement of medical claims for services rendered by such physicians or health care providers in cases where the services were rendered in an emergency.
+(C) Medical services provided by physicians or health care providers who are named on the list published by the Secretary pursuant to subparagraph (A) of this section <sup>1</sup> shall not be reimbursable under this chapter; except that the Secretary shall direct the reimbursement of medical claims for services rendered by such physicians or health care providers in cases where the services were rendered in an emergency.
 
 (D) A determination under subparagraph (B) shall remain in effect for a period of not less than three years and until the Secretary finds and gives notice to the public that there is reasonable assurance that the basis for the determination will not reoccur.
 
@@ -72,9 +72,9 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 (2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
 
-(3) For the purpose of any hearing, investigation, or other proceeding authorized or directed under this section, the provisions of section <sup>1</sup> 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) shall apply to the jurisdiction, powers, and duties of the Secretary or any officer designated by him.
+(3) For the purpose of any hearing, investigation, or other proceeding authorized or directed under this section, the provisions of section <sup>2</sup> 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) shall apply to the jurisdiction, powers, and duties of the Secretary or any officer designated by him.
 
-(4) Any physician or health care provider, after any final decision of the Secretary made after a hearing to which he was a party, irrespective of the amount in controversy, may obtain a review of such decision by a civil actioncommenced within sixty days after the mailing to him of notice of such decision, but the pendency of such review shall not operate as a stay upon the effect of such decision. Such action shall be brought in the court of appeals of the United States for the judicial circuit in which the plaintiff resides or has his principal place of business, or the Court of Appeals for the District of Columbia. As part of his answer, the Secretary shall file a certified copy of the transcript of the record of the hearing, including all evidence submitted in connection therewith. The findings of fact of the Secretary, if based on substantial evidence in the record as a whole, shall be conclusive.
+(4) Any physician or health care provider, after any final decision of the Secretary made after a hearing to which he was a party, irrespective of the amount in controversy, may obtain a review of such decision by a civil action commenced within sixty days after the mailing to him of notice of such decision, but the pendency of such review shall not operate as a stay upon the effect of such decision. Such action shall be brought in the court of appeals of the United States for the judicial circuit in which the plaintiff resides or has his principal place of business, or the Court of Appeals for the District of Columbia. As part of his answer, the Secretary shall file a certified copy of the transcript of the record of the hearing, including all evidence submitted in connection therewith. The findings of fact of the Secretary, if based on substantial evidence in the record as a whole, shall be conclusive.
 
 #### (k) Refusal of treatment on religious grounds
 
@@ -86,7 +86,7 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–426, §7(a), inserted "or where the charges exceed those prevailing within the community for the same or similar services or exceed the provider's customary charges".
+<b>1984</b>—Subsec. (b). Pub. L. 98–426, §7(a), inserted "or where the charges exceed those prevailing within thecommunity for the same or similar services or exceed the provider's customary charges".
 
 Subsec. (c). Pub. L. 98–426, §7(b), substituted provisions respecting physicians and health care providers not authorized to render medical care or services under this chapter for former provision respecting physicians designated by the Secretary as authorized to render such care and whose names shall be available to employees through posting or in such other form as the Secretary may prescribe.
 
@@ -118,7 +118,7 @@ Subsec. (i). Pub. L. 92–576 added subsec. (i).
 
 Subsecs. (b), (c). Pub. L. 86–757 added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (e) and (f).
 
-Subsec. (d). Pub. L. 86–757 redesignated all but first sentence of former subsec. (a) as (d), substituting "Ifthe employer fails to provide the medical or other treatment, services, and supplies required to be furnished by subsec. (a) of this section, after request by the injured employee, or fails to maintain a panel of physicians as required by subsec. (c) of this section, or fails to permit the employee to choose an attending physician from such panel, such injured employee may procure such medical or other treatment, services, and supplies and select a physician to render treatment and services at the expense of the employer" for "If the employer fails to provide the same, after request by the injured employee, such injured employee may do so at the expense of the employer." Former subsec. (d) redesignated (g).
+Subsec. (d). Pub. L. 86–757 redesignated all but first sentence of former subsec. (a) as (d), substituting "If the employer fails to provide the medical or other treatment, services, and supplies required to be furnished by subsec. (a) of this section, after request by the injured employee, or fails to maintain a panel of physicians as required by subsec. (c) of this section, or fails to permit the employee to choose an attending physician from such panel, such injured employee may procure such medical or other treatment, services, and supplies and select a physician to render treatment and services at the expense of the employer" for "If the employer fails to provide the same, after request by the injured employee, such injured employee may do so at the expense of the employer." Former subsec. (d) redesignated (g).
 
 Subsecs. (e) to (g). Pub. L. 86–757 redesignated former subsecs. (b) to (d) as (e) to (g), striking out "unless and until notice of election to sue has been given as required by section 933(a) of this title" and "without the giving of such notice" before and after "or suit has been brought against such third party" in subsec. (g).
 
@@ -140,5 +140,7 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 Pub. L. 98–426, §28(h)(1), Sept. 28, 1984, 98 Stat. 1655, provided that: "The amendments made by section 7 of this Act \[amending this section\] shall not apply to claims filed under the Black Lung Benefits Act (30 U.S.C. 901 et seq.)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this paragraph".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "sections".</i>
 

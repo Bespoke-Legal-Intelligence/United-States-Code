@@ -10,7 +10,7 @@ Open Meetings.—For purposes of section 552b of title 5, United States Code, th
 
 (c)
 
-Independence.—In the performance of their functions, the members, employees, and other personnel of the Board shall not be responsible to or subject to the supervision or direction of any officer, employee, or agent of any other part of the Department of Transportation.
+Independence.—In the performance of their functions, the members, employees, andother personnel of the Board shall not be responsible to or subject to the supervision or direction of any officer, employee, or agent of any other part of the Department of Transportation.
 
 (d)
 

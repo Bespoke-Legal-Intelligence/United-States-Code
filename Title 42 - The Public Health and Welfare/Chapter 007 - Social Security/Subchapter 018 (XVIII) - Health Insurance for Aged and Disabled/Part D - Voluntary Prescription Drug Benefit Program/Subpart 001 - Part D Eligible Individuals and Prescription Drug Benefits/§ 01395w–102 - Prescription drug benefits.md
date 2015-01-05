@@ -328,7 +328,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;For purposes of paragraph (1), the term "medically accepted indication" has the meaning given that term—
 
-&emsp;&emsp;&emsp;(i) in the case of a covered part D drug used in an anticancer chemotherapeutic regimen, in section 1395x(t)(2)(B) of this title, except that in applying such section—
+&emsp;&emsp;&emsp;(i) in the case of a covered part D drug used in an anticancer chemotherapeuticregimen, in section 1395x(t)(2)(B) of this title, except that in applying such section—
 
 &emsp;&emsp;&emsp;&emsp;(I) "prescription drug plan or MA–PD plan" shall be substituted for "carrier" each place it appears; and
 
@@ -410,7 +410,7 @@ Subsec. (e)(4). Pub. L. 110–275, §182(a)(1)(B), which directed amendment of s
 
 <b>2006</b>—Subsec. (e)(1). Pub. L. 109–432 inserted "(and, for vaccines administered on or after January 1, 2008, its administration)" after "section 262 of this title" in concluding provisions.
 
-<b>2005</b>—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end "Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, forwhich the drug has been approved by the Food and Drug Administration."
+<b>2005</b>—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end "Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration."
 
 Pub. L. 109–91, §103(a)(1), inserted before period at end ", as such sections were in effect on December 8, 2003".
 

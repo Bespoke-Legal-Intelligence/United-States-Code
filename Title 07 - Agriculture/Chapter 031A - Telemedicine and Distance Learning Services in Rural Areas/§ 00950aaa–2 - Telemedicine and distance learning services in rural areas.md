@@ -34,9 +34,9 @@ The Secretary may provide financial assistance for the purpose of financing the 
 
 &emsp;&emsp;&emsp;(i) make the funds provided available to entities that qualify under paragraph (1) for projects satisfying the requirements of this chapter;
 
-&emsp;&emsp;&emsp;(ii) use the funds provided to acquire, install, improve, or extend a system referred to in subsection (a) of this section; or
+&emsp;&emsp;&emsp;(ii) use the funds provided to acquire, install, improve, or extend a system referred to in subsection (a); or
 
-&emsp;&emsp;&emsp;(iii) use the funds provided to install, improve, or extend a facility referred to in subsection (a) of this section.
+&emsp;&emsp;&emsp;(iii) use the funds provided to install, improve, or extend a facility referred to in subsection (a).
 
 #### (B) Limitations
 
@@ -102,7 +102,7 @@ Financial assistance provided under this chapter shall be used for—
 
 #### (g) Salaries and expenses
 
-Notwithstanding subsection (f) of this section, financial assistance provided under this chapter shall not be used for paying salaries or administrative expenses.
+Notwithstanding subsection (f), financial assistance provided under this chapter shall not be used for paying salaries or administrative expenses.
 
 #### (h) Expediting coordinated telephone loans
 
@@ -128,7 +128,7 @@ Notwithstanding subsection (f) of this section, financial assistance provided un
 
 &emsp;&emsp;(B) make the applications available for inspection.
 
-(Pub. L. 101–624, title XXIII, §2333, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat. 1109; amended Pub. L. 110–234, title VI, §6201(a), May 22, 2008, 122 Stat. 1205; Pub. L. 110–246, §4(a), title VI, §6201(a), June 18, 2008, 122 Stat. 1664, 1967.)
+(Pub. L. 101–624, title XXIII, §2333, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat.1109; amended Pub. L. 110–234, title VI, §6201(a), May 22, 2008, 122 Stat. 1205; Pub. L. 110–246, §4(a), title VI, §6201(a), June 18, 2008, 122 Stat. 1664, 1967.)
 
 #### Termination of Section
 

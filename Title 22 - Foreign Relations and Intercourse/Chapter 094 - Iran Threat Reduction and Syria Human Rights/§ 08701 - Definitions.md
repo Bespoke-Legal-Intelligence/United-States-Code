@@ -30,6 +30,34 @@ Pub. L. 112–158, §1(a), Aug. 10, 2012, 126 Stat. 1214, provided that: "This A
 
 Pub. L. 112–158, title VII, §701, Aug. 10, 2012, 126 Stat. 1265, provided that: "This title \[enacting subchapter VII of this chapter\] may be cited as the 'Syria Human Rights Accountability Act of 2012'."
 
+#### Reports on Nuclear Program of Iran
+
+Pub. L. 113–291, div. A, title XII, §1271, Dec. 19, 2014, 128 Stat. 3588, provided that:
+
+"(a)
+
+In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report on the interim agreement relating to the nuclear program of Iran. Such report shall include—
+
+&emsp;"(1) verification of whether Iran is complying with such agreement; and
+
+&emsp;"(2) an assessment of the overall state of the nuclear program of Iran.
+
+"(b)
+
+Additional Reports.—If the interim agreement described in subsection (a) is renewed or if a comprehensive and final agreement is entered into regarding the nuclear program of Iran, by not later than 90 days after such renewal or final agreement being entered into, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report on such renewed or final agreement. Such report shall include the matters described in paragraphs (1) and (2) of subsection (a).
+
+"(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+"(d)
+
+Sunset.—This section shall terminate on the date that is 10 years after the date of the enactment of this Act."
+
 #### Countering Iran in the Western Hemisphere
 
 Pub. L. 112–220, Dec. 28, 2012, 126 Stat. 1596, provided that:
@@ -48,7 +76,7 @@ Pub. L. 112–220, Dec. 28, 2012, 126 Stat. 1596, provided that:
 
 &emsp;"(3) According to the Department of State, Hezbollah, with Iran as its state sponsor, is considered the 'most technically capable terrorist group in the world' with 'thousands of supporters, several thousand members, and a few hundred terrorist operatives,' and officials from the Iranian Islamic Revolutionary Guard Corps (IRGC) Qods Force have been working in concert with Hezbollah for many years.
 
-&emsp;"(4) The IRGC's Qods Force has a long history of supporting Hezbollah's military, paramilitary, and terrorist activities, providing it with guidance, funding, weapons, intelligence, and logistical support, and in 2007, the Department of the Treasury placed sanctions on the IRGC and its Qods Force for their support of terrorism and proliferation activities.
+&emsp;"(4) The IRGC's Qods Force has a long history of supporting Hezbollah's military, paramilitary, andterrorist activities, providing it with guidance, funding, weapons, intelligence, and logistical support, and in 2007, the Department of the Treasury placed sanctions on the IRGC and its Qods Force for their support of terrorism and proliferation activities.
 
 &emsp;"(5) The IRGC's Qods Force stations operatives in foreign embassies, charities, and religious and cultural institutions to foster relationships, often building on existing socioeconomic ties with the well established Shia Diaspora, and recent years have witnessed an increased presence in Latin America.
 
@@ -104,7 +132,7 @@ Matters To Be Included.—The strategy described in subsection (a) should includ
 
 &emsp;"(6) a description of activity by Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present at the United States borders with Mexico and Canada and at other international borders within the Western Hemisphere, including operations related to drug, human, and arms trafficking, human support networks, financial support, narco-tunneling, and technological advancements that incorporates—
 
-&emsp;&emsp;"(A) with respect to the United States borders, in coordination with the Governments of Mexico and Canada and the Secretary of Homeland Security, a plan to address resources, technology, and infrastructure to create a secure United States border and strengthen the ability of the United States and its allies to prevent operatives from Iran, the IRGC, its Qods Force, Hezbollah, or any other terrorist organization from entering the United States; and
+&emsp;&emsp;"(A) with respect to the United States borders, in coordination with the Governments of Mexico andCanada and the Secretary of Homeland Security, a plan to address resources, technology, and infrastructure to create a secure United States border and strengthen the ability of the United States and its allies to prevent operatives from Iran, the IRGC, its Qods Force, Hezbollah, or any other terrorist organization from entering the United States; and
 
 &emsp;&emsp;"(B) within Latin American countries, a multiagency action plan, in coordination with United States allies and partners in the region, that includes the development of strong rule-of-law institutions to provide security in such countries and a counterterrorism and counter-radicalization plan to isolate Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere from their sources of financial support and counter their facilitation of terrorist activity; and
 

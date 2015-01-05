@@ -26,7 +26,7 @@ Treatment of Certain Financial Incentives.—Financial incentives received from 
 
 Congressional Notification.—The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this section in that fiscal year.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amendedPub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152.)
 
 #### Amendments
 

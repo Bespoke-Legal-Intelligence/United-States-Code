@@ -32,7 +32,7 @@ The Secretary of Transportation shall carry out a program to provide grants to S
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant to a State under this subsection for the implementationof a program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b) of this section.
+&emsp;The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b) of this section.
 
 #### (2) Eligible activities
 

@@ -14,7 +14,7 @@ Of the personnel employed in the United States to carry out subchapter II of thi
 
 #### (d) Employment or assignment of officers and employees to perform functions outside United States
 
-For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
+For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
 
 #### (e) Repealed. Pub. L. 96–465, title II, §2205(8), Oct. 17, 1980, 94 Stat. 2160
 
@@ -86,7 +86,7 @@ Subsec. (d)(2). Pub. L. 90–137, §302(d), authorized an increase in the assign
 
 <b>1965</b>—Subsec. (d)(2). Pub. L. 89–171 substituted "forty" for "twenty".
 
-<b>1964</b>—Subsec. (d)(2). Pub. L. 88–633, §302(a)(1), substituted "the assignment to such duty of more thantwenty persons at any one time" for "more than thirty persons in the aggregate".
+<b>1964</b>—Subsec. (d)(2). Pub. L. 88–633, §302(a)(1), substituted "the assignment to such duty of more than twenty persons at any one time" for "more than thirty persons in the aggregate".
 
 Subsec. (j). Pub. L. 88–633, §302(a)(2), added subsec. (j).
 
@@ -116,7 +116,13 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Extension of Authority
 
-Pub. L. 112–74, div. I, title VII, §7034(m)(6), Dec. 23, 2011, 125 Stat. 1216, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2012' for 'October 1, 2010' in subparagraph (B)."
+Pub. L. 113–235, div. J, title VII, §7034(l)(6), Dec. 16, 2014, 128 Stat. 2625, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2015' for 'October 1, 2010' in subparagraph (B)."
+
+Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–76, div. K, title VII, §7034(m)(6), Jan. 17, 2014, 128 Stat. 515.
+
+Pub. L. 112–74, div. I, title VII, §7034(m)(6), Dec. 23, 2011, 125 Stat. 1216.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

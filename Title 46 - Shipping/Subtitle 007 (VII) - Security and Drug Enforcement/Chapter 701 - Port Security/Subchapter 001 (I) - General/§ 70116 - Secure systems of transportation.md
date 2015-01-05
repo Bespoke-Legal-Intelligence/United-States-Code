@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary, in consultation with the Transportation Security Oversight Board, shall establish a program to evaluate and certify secure systems of international intermodal transportation.
+In General.—The Secretary, in consultation with the Transportation Security OversightBoard, shall establish a program to evaluate and certify secure systems of international intermodal transportation.
 
 (b)
 

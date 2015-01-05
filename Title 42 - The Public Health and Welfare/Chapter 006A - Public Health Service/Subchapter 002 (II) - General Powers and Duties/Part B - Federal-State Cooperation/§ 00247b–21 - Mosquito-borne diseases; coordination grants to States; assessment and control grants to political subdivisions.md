@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1) by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
+&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1) by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that isnot less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
 
 #### (B) Determination of amount contributed
 
@@ -120,7 +120,7 @@ A grant may be made under subsection (a) or (b) of this section only if an appli
 
 #### (d) Technical assistance
 
-Amounts appropriated under subsection (f) of this section may be used by the Secretary toprovide training and technical assistance with respect to the planning, development, and operation of assessments and plans under subsection (a) of this section and control programs under subsection (b) of this section. The Secretary may provide such technical assistance directly or through awards of grants or contracts to public and private entities.
+Amounts appropriated under subsection (f) of this section may be used by the Secretary to provide training and technical assistance with respect to the planning, development, and operation of assessments and plans under subsection (a) of this section and control programs under subsection (b) of this section. The Secretary may provide such technical assistance directly or through awards of grants or contracts to public and private entities.
 
 #### (e) Definition of political subdivision
 

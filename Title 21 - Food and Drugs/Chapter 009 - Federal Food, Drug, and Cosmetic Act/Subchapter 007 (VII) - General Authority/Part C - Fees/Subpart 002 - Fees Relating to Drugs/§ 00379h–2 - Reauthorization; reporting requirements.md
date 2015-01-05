@@ -28,7 +28,7 @@
 
 #### (2) Inclusion
 
-&emsp;The report under this subsection for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort.
+&emsp;The report under this subsection for a fiscal year shall include information on all previouscohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort.
 
 #### (b) Fiscal report
 
@@ -112,7 +112,7 @@ Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–144, §104(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort."
+<b>2012</b>—Subsec. (a). Pub. L. 112–144, §104(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of theFood and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort."
 
 Subsec. (b). Pub. L. 112–144, §104(2), substituted "2013" for "2008".
 

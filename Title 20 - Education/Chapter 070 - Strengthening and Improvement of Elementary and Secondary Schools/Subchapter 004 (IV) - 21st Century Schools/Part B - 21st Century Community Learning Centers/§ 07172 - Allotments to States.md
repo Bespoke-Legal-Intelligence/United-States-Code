@@ -14,7 +14,7 @@ From the funds appropriated under section 7176 of this title for any fiscal year
 
 #### (1) Determination
 
-&emsp;From the funds appropriated under section 7176 of this title for any fiscal year and remaining after the Secretary makes reservations under subsection (a) of this section, the Secretary shall allot to each State for the fiscal year an amount that bears the same relationship to the remainder as the amount the State received under subpart 2 of part A of subchapter I of this chapter for the preceding fiscal year bears to the amount all States received under that subpart for the preceding fiscal year, except that no State shall receive less than an amount equal to one-half of 1 percent of the total amount made available to all States under this subsection.
+&emsp;From the funds appropriated under section 7176 of this title for any fiscal year and remaining after the Secretary makes reservations under subsection (a) of this section, the Secretary shall allot to each State for the fiscal year an amount that bears the same relationship to the remainder as the amount the State received under subpart 2 of part A of subchapter I of this chapter for the preceding fiscal year bears to the amount all States received under that subpart for the precedingfiscal year, except that no State shall receive less than an amount equal to one-half of 1 percent of the total amount made available to all States under this subsection.
 
 #### (2) Reallotment of unused funds
 

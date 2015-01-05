@@ -120,17 +120,8 @@
 | 698u–5. | Advisory Committee. |
 | 698u–6. | Restriction on authority. |
 | 698u–7. | Authorization of appropriations. |
-| [698v.](%C2%A7%2000698v%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| 698v–1. | Definitions. |
-| 698v–2. | Acquisition of lands. |
-| 698v–3. | The Valles Caldera National Preserve. |
-| 698v–4. | The Valles Caldera Trust. |
-| 698v–5. | Board of Trustees. |
-| 698v–6. | Resource management. |
-| 698v–7. | Authorities of the Secretary. |
-| 698v–8. | Termination of the Trust. |
-| 698v–9. | Limitations on funding. |
-| 698v–10. | Government Accountability Office study. |
+| 698v to 698v–10. Repealed. |  |
+| 698v–11. | Valles Caldera National Preserve, New Mexico. |
 | [698w.](%C2%A7%2000698w%20-%20Special%20management%20requirements%20for%20Federal%20lands%20recently%20added%20to%20Craters%20of%20the%20Moon%20National%20Monument%2C%20Idaho.md) | Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -258,15 +249,6 @@
 - [&sect; 00698u&#8211;5 - Advisory Committee](%C2%A7%2000698u%E2%80%935%20-%20Advisory%20Committee.md)
 - [&sect; 00698u&#8211;6 - Restriction on authority](%C2%A7%2000698u%E2%80%936%20-%20Restriction%20on%20authority.md)
 - [&sect; 00698u&#8211;7 - Authorization of appropriations](%C2%A7%2000698u%E2%80%937%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 00698v - Findings and purposes](%C2%A7%2000698v%20-%20Findings%20and%20purposes.md)
-- [&sect; 00698v&#8211;1 - Definitions](%C2%A7%2000698v%E2%80%931%20-%20Definitions.md)
-- [&sect; 00698v&#8211;2 - Acquisition of lands](%C2%A7%2000698v%E2%80%932%20-%20Acquisition%20of%20lands.md)
-- [&sect; 00698v&#8211;3 - The Valles Caldera National Preserve](%C2%A7%2000698v%E2%80%933%20-%20The%20Valles%20Caldera%20National%20Preserve.md)
-- [&sect; 00698v&#8211;4 - The Valles Caldera Trust](%C2%A7%2000698v%E2%80%934%20-%20The%20Valles%20Caldera%20Trust.md)
-- [&sect; 00698v&#8211;5 - Board of Trustees](%C2%A7%2000698v%E2%80%935%20-%20Board%20of%20Trustees.md)
-- [&sect; 00698v&#8211;6 - Resource management](%C2%A7%2000698v%E2%80%936%20-%20Resource%20management.md)
-- [&sect; 00698v&#8211;7 - Authorities of the Secretary](%C2%A7%2000698v%E2%80%937%20-%20Authorities%20of%20the%20Secretary.md)
-- [&sect; 00698v&#8211;8 - Termination of the Trust](%C2%A7%2000698v%E2%80%938%20-%20Termination%20of%20the%20Trust.md)
-- [&sect; 00698v&#8211;9 - Limitations on funding](%C2%A7%2000698v%E2%80%939%20-%20Limitations%20on%20funding.md)
-- [&sect; 00698v&#8211;10 - Government Accountability Office study](%C2%A7%2000698v%E2%80%9310%20-%20Government%20Accountability%20Office%20study.md)
+- [&sect; 00698v to 698v&#8211;10 - Repealed. Pub. L. 113&#8211;291, div. B, title XXX, &sect;3043(d)(1), Dec. 19, 2014, 128 Stat. 3798](%C2%A7%2000698v%20to%20698v%E2%80%9310%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20B%2C%20title%20XXX%2C%20%C2%A73043%28d%29%281%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203798.md)
+- [&sect; 00698v&#8211;11 - Valles Caldera National Preserve, New Mexico](%C2%A7%2000698v%E2%80%9311%20-%20Valles%20Caldera%20National%20Preserve%2C%20New%20Mexico.md)
 - [&sect; 00698w - Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho](%C2%A7%2000698w%20-%20Special%20management%20requirements%20for%20Federal%20lands%20recently%20added%20to%20Craters%20of%20the%20Moon%20National%20Monument%2C%20Idaho.md)

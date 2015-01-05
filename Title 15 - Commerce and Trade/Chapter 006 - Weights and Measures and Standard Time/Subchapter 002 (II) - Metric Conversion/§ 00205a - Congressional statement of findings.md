@@ -12,7 +12,7 @@ The Congress finds as follows:
 
 &emsp;(5) The inherent simplicity of the metric system of measurement and standardization of weights and measures has led to major cost savings in certain industries which have converted to that system.
 
-&emsp;(6) The Federal Government has a responsibility to develop procedures and techniques to assist industry, especially small business, as it voluntarily converts to the metric system of measurement.
+&emsp;(6) The Federal Government has a responsibility to develop procedures and techniquesto assist industry, especially small business, as it voluntarily converts to the metric system of measurement.
 
 &emsp;(7) The metric system of measurement can provide substantial advantages to the Federal Government in its own operations.
 
@@ -78,7 +78,7 @@ Sec. 2. <i>Department and Agency Responsibilities</i>. All executive branch depa
 
 (b) seek out ways to increase understanding of the metric system of measurement through educational information and guidance and in Government publications. The transition to use of metric units in Government publications should be made as publications are revised on normal schedules or new publications are developed, or as metric publications are required in support of metric usage pursuant to paragraph (a) of this section.
 
-(c) seek the appropriate aid, assistance, and cooperation of other affected parties, including other Federal, State, and local agencies and the private sector, in implementing this order. Appropriate use shall be made of governmental, trade, professional, and private sector metric coordinating groups to secure the maximum benefits of this order through proper communication among affected sectors.
+(c) seek the appropriate aid, assistance, and cooperation of other affected parties, including other Federal, State, and local agencies and the private sector, in implementing this order. Appropriate use shall be made ofgovernmental, trade, professional, and private sector metric coordinating groups to secure the maximum benefits of this order through proper communication among affected sectors.
 
 (d) formulate metric transition plans for the department or agency which shall incorporate the requirements of the Metric Conversion Act and this order, and which shall be approved by the department or agency head and be in effect by November 30, 1991. Copies of approved plans shall be forwarded to the Secretary of Commerce. Such metric transition plans shall specify, among other things:
 

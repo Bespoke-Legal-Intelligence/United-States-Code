@@ -9,6 +9,7 @@ Subtitle A—Pension Benefit Guaranty Corporation
 - [&sect; 01302 - Pension Benefit Guaranty Corporation](%C2%A7%2001302%20-%20Pension%20Benefit%20Guaranty%20Corporation.md)
 - [&sect; 01303 - Operation of corporation](%C2%A7%2001303%20-%20Operation%20of%20corporation.md)
 - [&sect; 01304 - Participant and Plan Sponsor Advocate](%C2%A7%2001304%20-%20Participant%20and%20Plan%20Sponsor%20Advocate.md)
+- [&sect; 01304a - Sponsor education and assistance](%C2%A7%2001304a%20-%20Sponsor%20education%20and%20assistance.md)
 - [&sect; 01305 - Pension benefit guaranty funds](%C2%A7%2001305%20-%20Pension%20benefit%20guaranty%20funds.md)
 - [&sect; 01306 - Premium rates](%C2%A7%2001306%20-%20Premium%20rates.md)
 - [&sect; 01307 - Payment of premiums](%C2%A7%2001307%20-%20Payment%20of%20premiums.md)

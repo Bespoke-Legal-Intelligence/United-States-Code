@@ -50,7 +50,7 @@ Execution.—(1) The Secretary may carry out projects under the program through 
 
 (d)
 
-Competition and Cost Sharing.—(1) In accordance with the policy stated in section 2374 of this title, competitive procedures shall be used for awarding all grants and entering intoall contracts, cooperative agreements, and other transactions under the program.
+Competition and Cost Sharing.—(1) In accordance with the policy stated in section 2374 of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
 
 (2) Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project. For a project for which the Government receives an offer from only one offeror, the contracting officer shall negotiate the ratio of contract recipient cost to Government cost that represents the best value to the Government.
 
@@ -80,7 +80,7 @@ Joint Defense Manufacturing Technology Panel.—(1) There is in the Department o
 
 &emsp;(D) Conduct such other functions as the Under Secretary of Defense for Acquisition, Technology, and Logistics shall specify.
 
-(5) The Panel shall report to and receive direction from the Assistant Secretary of Defense for Research and Engineering on manufacturing technology issues of multi-service concern and application.
+(5) The Panel shall report to and receive direction from one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph on manufacturing technology issues of multi-service concern and application.
 
 (6) The administrative expenses of the Panel shall be borne by each military department and Defense Agency with manufacturing technology programs in such manner as the Panel shall provide.
 
@@ -94,11 +94,11 @@ Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the progr
 
 (2) The Secretary shall include in the plan mechanisms for assessing the effectiveness of the program under the plan.
 
-(3) The Secretary shall update the plan on a biennial basis.
+(3) The Secretary shall update the plan not less frequently than once every four years.
 
 (4) Each plan, and each update to the plan, shall cover a period of five fiscal years.
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949.)
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, §212, Dec. 19, 2014, 128 Stat. 3325.)
 
 #### Prior Provisions
 
@@ -110,6 +110,10 @@ Another prior section 2521 was renumbered section 2540 of this title and subsequ
 
 #### Amendments
 
+<b>2014</b>—Subsec. (e)(5). Pub. L. 113–291, §212(a), substituted "one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph" for "the Assistant Secretary of Defense for Research and Engineering".
+
+Subsec. (f)(3). Pub. L. 113–291, §212(b), substituted "not less frequently than once every four years" for "on a biennial basis".
+
 <b>2013</b>—Subsec. (e)(5). Pub. L. 112–239 substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering".
 
 <b>2009</b>—Subsecs. (e), (f). Pub. L. 111–84 added subsec. (e) and redesignated former subsec. (e) as (f).
@@ -118,7 +122,7 @@ Another prior section 2521 was renumbered section 2540 of this title and subsequ
 
 <b>2003</b>—Subsec. (e). Pub. L. 108–136 struck out heading and text of subsec. (e) which related to preparation and maintenance of a five-year plan for the Manufacturing Technology Program by the Secretary of Defense.
 
-<b>2002</b>—Subsec. (e)(1). Pub. L. 107–314, §213(a), substituted "prepare and maintain a five-year plan for theprogram." for "prepare a five-year plan for the program which establishes—
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–314, §213(a), substituted "prepare and maintain a five-year plan for the program." for "prepare a five-year plan for the program which establishes—
 
 &emsp;"(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
 

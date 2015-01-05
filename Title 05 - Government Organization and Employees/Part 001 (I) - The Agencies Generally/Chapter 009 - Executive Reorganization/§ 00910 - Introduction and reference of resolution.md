@@ -24,13 +24,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–614 substituted “75 calendar days” for “45 calendar days”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–614 substituted "75 calendar days" for "45 calendar days".
 
-<b>1977</b>—Pub. L. 95–17 substituted “Introduction and reference of resolution” for “Reference of resolution to committee” in section catchline, designated existing provisions as subsec. (b), substituted “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House” for “a committee” and inserted requirement that the Committee shall make its recommendation to the House or Senate within 45 calendar days of continuous session of Congress following the date of a resolution's introduction, and added subsec. (a).
+<b>1977</b>—Pub. L. 95–17 substituted "Introduction and reference of resolution" for "Reference of resolution to committee" in section catchline, designated existing provisions as subsec. (b), substituted "the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House" for "a committee" and inserted requirement that the Committee shall make its recommendation to the House or Senate within 45 calendar days of continuous session of Congress following the date of a resolution's introduction, and added subsec. (a).
 
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee onGovernment Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -22,5 +22,5 @@ The Board shall consider, for inclusion in the National Film Registry, nominatio
 
 #### Codification
 
-“Section 151703 of title 36” substituted in subsec. (c)(2) for “section 203”, meaning section 203 of the National Film Preservation Act of 1996, on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+"Section 151703 of title 36" substituted in subsec. (c)(2) for "section 203", meaning section 203 of the National Film Preservation Act of 1996, on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 

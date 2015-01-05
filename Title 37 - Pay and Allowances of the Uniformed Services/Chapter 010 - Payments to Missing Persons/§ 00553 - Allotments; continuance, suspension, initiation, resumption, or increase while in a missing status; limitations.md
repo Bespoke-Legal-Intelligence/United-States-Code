@@ -10,7 +10,7 @@
 
 (e) Subject to subsections (f) and (g), the Secretary concerned, or his designee, may, when he considers it in the interest of the member, his dependents, or the United States, direct the initiation, continuance, discontinuance, increase, decrease, suspension, or resumption of payments of allotments from the pay and allowances of a member entitled to pay and allowances under section 552 of this title.
 
-(f) When the Secretary concerned officially reports that a member in a missing status is alive, the payments of allotments authorized by subsections (a)–(d) may, subject to section 552 of this title, be made until the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10, the Secretary concerned determines pursuant to that chapter,that the member is dead or has returned to the controllable jurisdiction of the department concerned.
+(f) When the Secretary concerned officially reports that a member in a missing status is alive, the payments of allotments authorized by subsections (a)–(d) may, subject to section 552 of this title, be made until the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10, the Secretary concerned determines pursuant to that chapter, that the member is dead or has returned to the controllable jurisdiction of the department concerned.
 
 (g) A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled to have the payments of allotments authorized by subsections (a)–(d) continued, increased, or initiated.
 

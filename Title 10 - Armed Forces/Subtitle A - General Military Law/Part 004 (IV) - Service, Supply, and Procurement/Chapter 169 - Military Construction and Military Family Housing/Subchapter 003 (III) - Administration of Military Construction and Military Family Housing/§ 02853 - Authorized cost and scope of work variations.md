@@ -12,7 +12,7 @@
 
 &emsp;(1) in the case of a cost increase or a reduction in the scope of work—
 
-&emsp;&emsp;(A) the Secretary concerned notifies the appropriate committees of Congress in writing of the cost increase or reduction in scope, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can be <sup>1</sup> still be met with the reduced scope, and a description of the funds proposed to be used to finance any increased costs; and
+&emsp;&emsp;(A) the Secretary concerned notifies the appropriate committees of Congress in writing of the cost increase or reduction in scope, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can still be met with the reduced scope, and a description of the funds proposed to be used to finance any increased costs; and
 
 &emsp;&emsp;(B) a period of 21 days has elapsed after the date on which the notification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title; or
 
@@ -26,9 +26,11 @@
 
 (e) Notwithstanding the authority under subsections (a) through (d), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act").
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, §2806, Oct. 17, 2006, 120 Stat. 2468; Pub. L. 111–84, div. B, title XXVIII, §2803, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(2),Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, §2801, Jan. 2, 2013, 126 Stat. 2146.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, §2806, Oct. 17, 2006, 120 Stat. 2468; Pub. L. 111–84, div. B, title XXVIII, §2803, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(2), Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, §2801, Jan. 2, 2013, 126 Stat. 2146; Pub. L. 113–291, div. A, title X, §1071(f)(24), Dec. 19, 2014, 128 Stat. 3511.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1)(A). Pub. L. 113–291 substituted "can still be" for "can be still be".
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §2801(1), substituted "was authorized" for "was approved originally".
 
@@ -66,7 +68,7 @@ Subsec. (d). Pub. L. 109–163, §2804(a)(3), substituted "limitation on cost va
 
 <b>2001</b>—Subsec. (d). Pub. L. 107–107 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The limitation on cost increases in subsection (a) does not apply to the settlement of a contractor claim under a contract."
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–106 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concerned promptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress."
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concernedpromptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress."
 
 <b>1989</b>—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (f).
 
@@ -91,6 +93,4 @@ Subsec. (f). Pub. L. 100–26, §7(f)(2)(D), added subsec. (f).
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word "be" probably should not appear.</i>
 

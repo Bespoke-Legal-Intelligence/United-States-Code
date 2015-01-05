@@ -2,7 +2,7 @@
 
 #### (a) Exemption of certain operational files from search, review, publication, or disclosure
 
-(1) The Director of the National Geospatial-Intelligence Agency, with the coordination of theDirector of National Intelligence, may exempt operational files of the National Geospatial-Intelligence Agency from the provisions of section 552 of title 5 which require publication, disclosure, search, or review in connection therewith.
+(1) The Director of the National Geospatial-Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the National Geospatial-Intelligence Agency from the provisions of section 552 of title 5 which require publication, disclosure, search, or review in connection therewith.
 
 (2)(A) Subject to subparagraph (B), for the purposes of this section, the term "operational files" means files of the National Geospatial-Intelligence Agency (hereafter in this section referred to as "NGA") concerning the activities of NGA that before the establishment of NGA were performed by the National Photographic Interpretation Center of the Central Intelligence Agency (NPIC), that document the means by which foreign intelligence or counterintelligence is collected through scientific and technical systems.
 
@@ -60,7 +60,7 @@
 
 #### (b) Decennial review of exempted operational files
 
-(1) Not less than once every 10 years, the Director of the National Geospatial-Intelligence Agency and the Director of National Intelligence shall review the exemptions in forceunder subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
+(1) Not less than once every 10 years, the Director of the National Geospatial-Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 

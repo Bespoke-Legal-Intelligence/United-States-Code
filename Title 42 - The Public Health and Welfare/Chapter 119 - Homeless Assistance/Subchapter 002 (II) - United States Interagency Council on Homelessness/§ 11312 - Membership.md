@@ -52,7 +52,7 @@ The Council shall elect a Chairperson and a Vice Chairperson from among its memb
 
 #### (c) Meetings
 
-The Council shall meet at the call of its Chairperson or a majority of its members, but not lessoften than four times each year, and the rotation of the positions of Chairperson and Vice Chairperson required under subsection (b) shall occur at the first meeting of each year.
+The Council shall meet at the call of its Chairperson or a majority of its members, but not less often than four times each year, and the rotation of the positions of Chairperson and Vice Chairperson required under subsection (b) shall occur at the first meeting of each year.
 
 #### (d) Prohibition of additional pay
 

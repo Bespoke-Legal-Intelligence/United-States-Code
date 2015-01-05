@@ -1,0 +1,142 @@
+### §9037. Special marketing loan provisions for upland cotton
+
+#### (a) Special import quota
+
+#### (1) Definition of special import quota
+
+&emsp;In this subsection, the term "special import quota" means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+
+#### (2) Establishment
+
+#### (A) In general
+
+&emsp;&emsp;The President shall carry out an import quota program beginning on August 1, 2014, as provided in this subsection.
+
+#### (B) Program requirements
+
+&emsp;&emsp;Whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered to a definable and significant international market, as determined by the Secretary, exceeds the prevailing world market price, there shall immediately be in effect a special import quota.
+
+#### (3) Quantity
+
+&emsp;The quota shall be equal to the consumption during a 1-week period of cotton by domestic mills at the seasonally adjusted average rate of the most recent 3 months for which official data of the Department of Agriculture are available or, in the absence of sufficient data, as estimated by the Secretary.
+
+#### (4) Application
+
+&emsp;The quota shall apply to upland cotton purchased not later than 90 days after the date of the Secretary's announcement under paragraph (2) and entered into the United States not later than 180 days after that date.
+
+#### (5) Overlap
+
+&emsp;A special quota period may be established that overlaps any existing quota period if required by paragraph (2), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (b).
+
+#### (6) Preferential tariff treatment
+
+&emsp;The quantity under a special import quota shall be considered to be an in-quota quantity for purposes of—
+
+&emsp;&emsp;(A) section 2703(d) of title 19;
+
+&emsp;&emsp;(B) section 3203 of title 19;
+
+&emsp;&emsp;(C) section 2463(d) of title 19; and
+
+&emsp;&emsp;(D) General Note 3(a)(iv) to the Harmonized Tariff Schedule.
+
+#### (7) Limitation
+
+&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed the equivalent of 10 weeks' consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
+
+#### (b) Limited global import quota for upland cotton
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Demand
+
+&emsp;&emsp;The term "demand" means—
+
+&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption of cotton during the most recent 3 months for which official data of the Department of Agriculture are available or, in the absence of sufficient data, as estimated by the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) the larger of—
+
+&emsp;&emsp;&emsp;&emsp;(I) average exports of upland cotton during the preceding 6 marketing years; or
+
+&emsp;&emsp;&emsp;&emsp;(II) cumulative exports of upland cotton plus outstanding export sales for themarketing year in which the quota is established.
+
+#### (B) Limited global import quota
+
+&emsp;&emsp;The term "limited global import quota" means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+
+#### (C) Supply
+
+&emsp;&emsp;The term "supply" means, using the latest official data of the Department of Agriculture—
+
+&emsp;&emsp;&emsp;(i) the carry-over of upland cotton at the beginning of the marketing year (adjusted to 480-pound bales) in which the quota is established;
+
+&emsp;&emsp;&emsp;(ii) production of the current crop; and
+
+&emsp;&emsp;&emsp;(iii) imports to the latest date available during the marketing year.
+
+#### (2) Program
+
+&emsp;The President shall carry out an import quota program that provides that whenever the Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of the quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
+
+#### (A) Quantity
+
+&emsp;&emsp;The quantity of the quota shall be equal to 21 days of domestic mill consumption of upland cotton at the seasonally adjusted average rate of the most recent 3 months for which official data of the Department of Agriculture are available or, in the absence of sufficient data, as estimated by the Secretary.
+
+#### (B) Quantity if prior quota
+
+&emsp;&emsp;If a quota has been established under this subsection during the preceding 12 months, the quantity of the quota next established under this subsection shall be the smaller of 21 days of domestic mill consumption calculated under subparagraph (A) or the quantity required to increase the supply to 130 percent of the demand.
+
+#### (C) Preferential tariff treatment
+
+&emsp;&emsp;The quantity under a limited global import quota shall be considered to be an in-quota quantity for purposes of—
+
+&emsp;&emsp;&emsp;(i) section 2703(d) of title 19;
+
+&emsp;&emsp;&emsp;(ii) section 3203 of title 19;
+
+&emsp;&emsp;&emsp;(iii) section 2463(d) of title 19; and
+
+&emsp;&emsp;&emsp;(iv) General Note 3(a)(iv) to the Harmonized Tariff Schedule.
+
+#### (D) Quota entry period
+
+&emsp;&emsp;When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
+
+#### (3) No overlap
+
+&emsp;Notwithstanding paragraph (2), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (a).
+
+#### (c) Economic adjustment assistance to users of upland cotton
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), the Secretary shall, on a monthly basis, make economic adjustment assistance available to domestic users of upland cotton in the form of payments for all documented use of that upland cotton during the previous monthly period regardless of the origin of the upland cotton.
+
+#### (2) Value of assistance
+
+&emsp;Effective beginning on August 1, 2013, the value of the assistance provided under paragraph (1) shall be 3 cents per pound.
+
+#### (3) Allowable purposes
+
+&emsp;Economic adjustment assistance under this subsection shall be made available only to domestic users of upland cotton that certify that the assistance shall be used only to acquire, construct, install, modernize, develop, convert, or expand land, plant, buildings, equipment, facilities, or machinery.
+
+#### (4) Review or audit
+
+&emsp;The Secretary may conduct such review or audit of the records of a domestic user under this subsection as the Secretary determines necessary to carry out this subsection.
+
+#### (5) Improper use of assistance
+
+&emsp;If the Secretary determines, after a review or audit of the records of the domestic user, that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—
+
+&emsp;&emsp;(A) liable for the repayment of the assistance to the Secretary, plus interest, as determined by the Secretary; and
+
+&emsp;&emsp;(B) ineligible to receive assistance under this subsection for a period of 1 year following the determination of the Secretary.
+
+(Pub. L. 113–79, title I, §1207, Feb. 7, 2014, 128 Stat. 682.)
+
+#### References in Text
+
+The Harmonized Tariff Schedule, referred to in subsecs. (a)(6)(D) and (b)(2)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+

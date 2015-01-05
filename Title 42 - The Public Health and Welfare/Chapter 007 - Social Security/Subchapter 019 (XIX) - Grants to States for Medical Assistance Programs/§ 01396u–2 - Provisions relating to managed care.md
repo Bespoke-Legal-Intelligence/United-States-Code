@@ -144,7 +144,7 @@
 
 #### (C) Comparative information
 
-&emsp;&emsp;A State that requires individuals to enroll with managed care entities under paragraph\(1)(A) shall annually (and upon request) provide, directly or through the managed care entity, to such individuals a list identifying the managed care entities that are (or will be) available and information (presented in a comparative, chart-like form) relating to the following for each such entity offered:
+&emsp;&emsp;A State that requires individuals to enroll with managed care entities under paragraph (1)(A) shall annually (and upon request) provide, directly or through the managed care entity, to such individuals a list identifying the managed care entities that are (or will be) available and information (presented in a comparative, chart-like form) relating to the following for each such entity offered:
 
 #### (i) Benefits and cost-sharing
 
@@ -220,7 +220,7 @@
 
 #### (C) "Health care professional" defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "health care professional" means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the contract referred to in subparagraph (A) for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registered respiratory therapist, and certified respiratory therapy technician.
+&emsp;&emsp;For purposes of this paragraph, the term "health care professional" means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the contract referred to in subparagraph (A) for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registeredrespiratory therapist, and certified respiratory therapy technician.
 
 #### (4) Grievance procedures
 
@@ -404,7 +404,7 @@
 
 &emsp;&emsp;&emsp;(ii) imposes premiums or charges on enrollees in excess of the premiums or charges permitted under this subchapter;
 
-&emsp;&emsp;&emsp;(iii) acts to discriminate among enrollees on the basis of their health status or requirements for health care services, including expulsion or refusal to reenroll an individual, except as permitted by this subchapter, or engaging in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment with the organization by eligible individuals whose medical condition orhistory indicates a need for substantial future medical services;
+&emsp;&emsp;&emsp;(iii) acts to discriminate among enrollees on the basis of their health status or requirements for health care services, including expulsion or refusal to reenroll an individual, except as permitted by this subchapter, or engaging in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment with the organization by eligible individuals whose medical condition or history indicates a need for substantial future medical services;
 
 &emsp;&emsp;&emsp;(iv) misrepresents or falsifies information that is furnished—
 
@@ -430,7 +430,7 @@
 
 &emsp;&emsp;&emsp;(ii) With respect to a determination under clause (iii) or (iv)(I) of paragraph (1)(A), not more than $100,000 for each such determination.
 
-&emsp;&emsp;&emsp;(iii) With respect to a determination under paragraph (1)(A)(ii), double the excess amount charged in violation of such subsection (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned).
+&emsp;&emsp;&emsp;(iii) With respect to a determination under paragraph (1)(A)(ii), double the excess amount charged in violation of suchsubsection (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned).
 
 &emsp;&emsp;&emsp;(iv) Subject to clause (ii), with respect to a determination under paragraph (1)(A)(iii), $15,000 for each individual not enrolled as a result of a practice described in such subsection.
 
@@ -542,7 +542,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (3) Special rule for enrollment for Indian managed care entities
 
-&emsp;Regarding the application of a Medicaid managed care program to Indian Medicaid managed care entities, an Indian Medicaid managed care entity may restrict enrollment under such program to Indians in the same manner as Indian Health Programs may restrict the delivery of services to Indians.
+&emsp;Regarding the application of a Medicaid managed care program to Indian Medicaidmanaged care entities, an Indian Medicaid managed care entity may restrict enrollment under such program to Indians in the same manner as Indian Health Programs may restrict the delivery of services to Indians.
 
 #### (4) Definitions
 
@@ -582,7 +582,7 @@ Section 9517(c)(3) of the Omnibus Budget Reconciliation Act of 1985, referred to
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar.23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
+The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
 
 subpart ii—improving coverage" (preceding section 300gg–11 of this title), by striking out "
 

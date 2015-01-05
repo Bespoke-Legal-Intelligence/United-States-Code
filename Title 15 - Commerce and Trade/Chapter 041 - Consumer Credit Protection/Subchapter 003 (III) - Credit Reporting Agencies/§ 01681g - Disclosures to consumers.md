@@ -26,7 +26,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (C) Subparagraph (A) does not apply if—
 
-&emsp;(i) the end user is an agency or department of the United States Government that procures the report from the person for purposesof determining the eligibility of the consumer to whom the report relates to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) <sup>1</sup> of this title); and
+&emsp;(i) the end user is an agency or department of the United States Government that procures the report from the person for purposes of determining the eligibility of the consumer to whom the report relates to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) <sup>1</sup> of this title); and
 
 &emsp;(ii) the head of the agency or department makes a written finding as prescribed under section 1681b(b)(4)(A) of this title.
 
@@ -92,11 +92,11 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;The Commission,<sup>2</sup> in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
+&emsp;The Commission,<sup>2</sup> in consultation with the Federal banking agencies and the NationalCredit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
 
 #### (2) Summary of rights and contact information
 
-&emsp;Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Bureau pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at orwith a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Bureau under paragraph (1), and information on how to contact the Bureau to obtain more detailed information.
+&emsp;Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Bureau pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Bureau under paragraph (1), and information on how to contact the Bureau to obtain more detailed information.
 
 #### (e) Information available to victims
 
@@ -178,7 +178,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (A) In general
 
-&emsp;&emsp;No provision of subtitle A of title V of Public Law 106–102 \[15 U.S.C. 6801 et seq.\],prohibiting the disclosure of financial information by a business entity to third parties shall be used to deny disclosure of information to the victim under this subsection.
+&emsp;&emsp;No provision of subtitle A of title V of Public Law 106–102 \[15 U.S.C. 6801 et seq.\], prohibiting the disclosure of financial information by a business entity to third parties shall be used to deny disclosure of information to the victim under this subsection.
 
 #### (B) Limitation
 
@@ -428,7 +428,7 @@ Subsec. (c). Pub. L. 104–208, §2408(d)(1), added subsec. (c).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 

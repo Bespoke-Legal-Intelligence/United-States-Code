@@ -12,11 +12,11 @@ To effectuate the purposes of the program, the Secretary may enter into an agree
 
 #### (c) Annual adjustment payments
 
-In consideration for such agreement, the Secretary shall make annual adjustment payments to the owner or operator for the period of the agreement at such rate or rates not in excess of $30 per acre as the Secretary determines to be fair and reasonable. The Secretary may use an advertising and bid procedure in determining the lands in any area to be covered by agreements and the payment rate therefor. The Secretary and the owner or operator may agree that the annual adjustment payments for the agreement period shall be made either upon approval of the agreement or in such installments as they may agree to be desirable: <i>Provided</i>, That for each year any annual adjustment payment ismade in advance of performance, the annual adjustment payment shall be reduced by 5 per centum.
+In consideration for such agreement, the Secretary shall make annual adjustment payments to the owner or operator for the period of the agreement at such rate or rates not in excess of $30 per acre as the Secretary determines to be fair and reasonable. The Secretary may use an advertising and bid procedure in determining the lands in any area to be covered by agreements and the payment rate therefor. The Secretary and the owner or operator may agree that the annual adjustment payments for the agreement period shall be made either upon approval of the agreement or in such installments as they may agree to be desirable: <i>Provided</i>, That for each year any annual adjustment payment is made in advance of performance, the annual adjustment payment shall be reduced by 5 per centum.
 
 #### (d) Termination of agreements
 
-The Secretary may terminate any agreement under the program, by mutual agreement with the owner or operator, if the Secretary determines that such termination would be in the public interest, and may agree with the owner or operator to such modification of agreements as the Secretary may determine to be desirable to carry out the purposes of the program or facilitate its administration.
+The Secretary may terminate any agreement under the program, by mutual agreement with the owner or operator, if the Secretary determines that such termination would be in the public interest, and may agree with the owner or operator to such modification of agreements as the Secretary may determine to be desirable tocarry out the purposes of the program or facilitate its administration.
 
 #### (e) Preservation of cropland, crop acreage, and allotment history
 

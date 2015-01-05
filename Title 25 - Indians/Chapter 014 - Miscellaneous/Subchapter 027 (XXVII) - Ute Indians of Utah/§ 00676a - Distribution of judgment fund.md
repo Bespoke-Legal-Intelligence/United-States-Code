@@ -6,7 +6,7 @@ The Secretary of the Interior is hereby authorized and directed to divide the tr
 
 #### References in Text
 
-The Second Supplemental Appropriations Act, 1965, referred to in text, is Pub. L. 89–16, Apr. 30, 1965, 79 Stat. 81. The trust fund appropriated by the Second Supplemental Appropriations Act, 1965, was provided for by title IV of the Act which was not classified to the Code.
+The Second Supplemental Appropriations Act, 1965, referred to in text, is Pub. L. 89–16, Apr. 30, 1965, 79 Stat. 81. The trust fund appropriated by the Second Supplemental Appropriations Act, 1965, was providedfor by title IV of the Act which was not classified to the Code.
 
 Act of August 27, 1954, referred to in text, is act Aug. 27, 1954, ch. 1009, 68 Stat. 868, as amended, which is classified generally to subchapter XXVIII (§677 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 

@@ -8,7 +8,7 @@ Any State, unit of local government (or combination of units of local government
 
 In accordance with guidelines established by the appropriate Federal officer, each application for assistance under this subchapter shall—
 
-&emsp;(1) set forth a project or activity for carrying out one or more of the purposes for which such grant or contract is authorized to be made and expressly identify each such purposesuch project or activity is designed to carry out,
+&emsp;(1) set forth a project or activity for carrying out one or more of the purposes for which such grant or contract is authorized to be made and expressly identify each such purpose such project or activity is designed to carry out,
 
 &emsp;(2) provide that such project or activity shall be administered by or under the supervision of the applicant,
 

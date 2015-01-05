@@ -18,17 +18,17 @@ The Board shall consist of fifteen voting members as follows:
 
 #### (c) Political affiliation
 
-Not more than eight voting members of the Board (including members described in paragraphs (1) through (4) of subsection (b) of this section) may be members of the same political party.
+Not more than eight voting members of the Board (including members described in paragraphs (1) through (4) of subsection (b)) may be members of the same political party.
 
 #### (d) Qualifications
 
-(1) Each individual appointed to the Board under subsection (b)(4) of this section shall have appropriate practical or academic experience in peace and conflict resolution efforts of the United States.
+(1) Each individual appointed to the Board under subsection (b)(4) shall have appropriate practical or academic experience in peace and conflict resolution efforts of the United States.
 
-(2) Officers and employees of the United States Government may not be appointed to the Board under subsection (b)(4) of this section.
+(2) Officers and employees of the United States Government may not be appointed to the Board under subsection (b)(4).
 
 #### (e) Term of office: commencement and termination, interim and remainder service, limitation
 
-(1) Members of the Board appointed under subsection (b)(4) of this section shall be appointed to four year terms, except that—
+(1) Members of the Board appointed under subsection (b)(4) shall be appointed to four year terms, except that—
 
 &emsp;(A) the term of six of the members initially appointed shall be two years, as designated by the President at the time of their nomination;
 
@@ -36,17 +36,17 @@ Not more than eight voting members of the Board (including members described in 
 
 &emsp;(C) a member appointed to replace a member whose term has not expired shall be appointed to serve the remainder of that term.
 
-(2) The terms of the members of the Board initially appointed under subsection (b)(4) of this section shall begin on January 20, 1985, and subsequent terms shall begin upon the expiration of the preceding term, regardless of when a member is appointed to fill that term.
+(2) The terms of the members of the Board initially appointed under subsection (b)(4) shall begin on January 20, 1985, and subsequent terms shall begin upon the expiration of the preceding term, regardless of when a member is appointed to fill that term.
 
-(3) The President may not nominate an individual for appointment to the Board under subsection (b)(4) of this section prior to January 20, 1985, but shall submit the names of eleven nominees for initial Board membership under subsection (b)(4) of this section not later than ninety days after that date. If the Senate rejects such a nomination or if such a nomination is withdrawn, the President shall submit the name of a new nominee within fifteen days.
+(3) The President may not nominate an individual for appointment to the Board under subsection (b)(4) prior to January 20, 1985, but shall submit the names of eleven nominees for initial Board membership under subsection (b)(4) not later than ninety days after that date. If theSenate rejects such a nomination or if such a nomination is withdrawn, the President shall submit the name of a new nominee within fifteen days.
 
-(4) An individual appointed as a member of the Board under subsection (b)(4) of this section may not be appointed to more than two terms on the Board.
+(4) An individual appointed as a member of the Board under subsection (b)(4) may not be appointed to more than two terms on the Board.
 
 (5) The term of a member of the Board shall not commence until the member is confirmed by the Senate and sworn in as a member of the Board.
 
 #### (f) Removal from office
 
-A member of the Board appointed under subsection (b)(4) of this section may be removed by the President—
+A member of the Board appointed under subsection (b)(4) may be removed by the President—
 
 &emsp;(1) in consultation with the Board, for conviction of a felony, malfeasance in office, persistent neglect of duties, or inability to discharge duties;
 
@@ -54,7 +54,7 @@ A member of the Board appointed under subsection (b)(4) of this section may be r
 
 &emsp;(3) upon the recommendation of a majority of the members of the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives and a majority of the members of the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate.
 
-> A recommendation made in accordance with paragraph (2) may be made only pursuant to action taken at a meeting of the Board, which may be closed pursuant to the procedures of subsection (h)(3) of this section. Only members who are present may vote. A record of the vote shall be maintained. The President shall be informed immediately by the Board of the recommendation.
+> A recommendation made in accordance with paragraph (2) may be made only pursuant to action taken at a meeting of the Board, which may be closed pursuant to the procedures of subsection (h)(3). Only members who are present may vote. A record of the vote shall be maintained. The President shall be informed immediately by the Board of the recommendation.
 
 #### (g) Conflict of interests
 
@@ -64,7 +64,7 @@ No member of the Board may participate in any decision, action, or recommendatio
 
 Meetings of the Board shall be conducted as follows:
 
-&emsp;(1) The President shall stipulate by name the nominee who shall be the first Chairman of the Board. The first Chairman shall serve for a term of three years. Thereafter, the Board shall elect a Chairman every three years from among the directors appointed by the President under subsection (b)(4) of this section and may elect a Vice Chairman if so provided by the Institute's bylaws.
+&emsp;(1) The President shall stipulate by name the nominee who shall be the first Chairman of the Board. The first Chairman shall serve for a term of three years. Thereafter, the Board shall elect a Chairman every three years from among the directors appointed by the President under subsection (b)(4) and may elect a Vice Chairman if so provided by the Institute's bylaws.
 
 &emsp;(2) The Board shall meet at least semiannually, at any time pursuant to the call of the Chairman or as requested in writing to the Chairman by at least five members of the Board. A majority of the members of the Board shall constitute a quorum for any Board meeting.
 
@@ -72,7 +72,7 @@ Meetings of the Board shall be conducted as follows:
 
 #### (i) Compensation
 
-A director appointed by the President under subsection (b)(4) of this section shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5 for each day during which the director is engaged in the performance of duties as a member of the Board.
+A director appointed by the President under subsection (b)(4) shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5 for each day during which the director is engaged in the performance of duties as a member of the Board.
 
 #### (j) Travel expenses
 
@@ -102,7 +102,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
+Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
 
 #### Effective Date of 1998 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

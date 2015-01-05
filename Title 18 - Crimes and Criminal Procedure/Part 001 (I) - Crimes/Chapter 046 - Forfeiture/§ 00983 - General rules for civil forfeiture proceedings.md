@@ -36,7 +36,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(E) Each of the Federal seizing agencies conducting nonjudicial forfeitures under this section shall report periodically to the Committees on the Judiciary of the House of Representatives and the Senate the number of occasions when an extension of time is granted under subparagraph (B).
 
-&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of time is granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
+&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of timeis granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
 
 &emsp;(2)(A) Any person claiming property seized in a nonjudicial civil forfeiture proceeding under a civil forfeiture statute may file a claim with the appropriate official after the seizure.
 
@@ -306,7 +306,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(2) An order entered pursuant to paragraph (1)(B) shall be effective for not more than 90 days, unless extended by the court for good cause shown, or unless a complaint described in paragraph (1)(A) has been filed.
 
-&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, ifthe United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -314,7 +314,7 @@ Restraining Orders; Protective Orders.—
 
 #### References in Text
 
-The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsecs. (a)(3)(A), (4)(A) and (f)(7)(A)(ii), are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsecs. (a)(3)(A), (4)(A) and (f)(7)(A)(ii), were renamed the Supplemental Rulesfor Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (h)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

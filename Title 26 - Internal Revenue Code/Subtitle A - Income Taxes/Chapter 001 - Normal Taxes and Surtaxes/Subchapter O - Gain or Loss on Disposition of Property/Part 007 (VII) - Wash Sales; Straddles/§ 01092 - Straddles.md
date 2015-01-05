@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any loss with respect to 1 or more positions shall be taken into account for any taxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positions with respect to 1 or more positions from which the loss arose.
+&emsp;&emsp;Any loss with respect to 1 or more positions shall be taken into account for anytaxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positions with respect to 1 or more positions from which the loss arose.
 
 #### (B) Carryover of loss
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vi) there are such other factors (or satisfaction of subjective or objective tests) as the Secretary may by regulations prescribe as indicating that such positions are offsetting.
 
-> &emsp;&emsp;For purposes of the preceding sentence, 2 or more positions shall be treated as described in clause (i), (ii), (iii), or (vi) only if the value of 1 or more of such positions ordinarily varies inversely with the value of 1 or more other such positions.
+> &emsp;&emsp;For purposes of the preceding sentence, 2 or more positions shall be treated as describedin clause (i), (ii), (iii), or (vi) only if the value of 1 or more of such positions ordinarily varies inversely with the value of 1 or more other such positions.
 
 #### (B) Presumption may be rebutted
 
@@ -262,7 +262,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the closing price of such stock on the most recent day on which such stock was traded before the date on which such option was granted, or
 
-&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted, but only if such price is greater than 110 percent of the price determined under clause (i).
+&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted, but only if such price is greater than 110percent of the price determined under clause (i).
 
 #### (H) Regulations
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 #### (C) Certain flowthrough entities
 
-&emsp;&emsp;If part or all of the gain or loss with respect to a position held by a partnership,trust, or other entity would properly be taken into account for purposes of this chapter by a taxpayer, then, except to the extent otherwise provided in regulations, such position shall be treated as held by the taxpayer.
+&emsp;&emsp;If part or all of the gain or loss with respect to a position held by a partnership, trust, or other entity would properly be taken into account for purposes of this chapter by a taxpayer, then, except to the extent otherwise provided in regulations, such position shall be treated as held by the taxpayer.
 
 #### (5) Special rule for section 1256 contracts
 
@@ -440,7 +440,7 @@ Subsec. (d)(2). Pub. L. 98–369, §101(a)(1), redesignated former subpar. (A) a
 
 Subsec. (d)(3), (4). Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (d)(5). Pub. L. 98–369, §101(d), amended par. (4) generally, substituting provisions relating to special rules for section 1256 contracts for provisions relating to special rules for regulated futures contracts.
+Subsec. (d)(5). Pub. L. 98–369, §101(d), amended par. (4) generally, substituting provisions relating to specialrules for section 1256 contracts for provisions relating to special rules for regulated futures contracts.
 
 Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -482,7 +482,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to positions established on or after Oct. 22, 2004, see section 888(e) ofPub. L. 108–357, set out as a note under section 246 of this title.
+Amendment by Pub. L. 108–357 applicable to positions established on or after Oct. 22, 2004, see section 888(e) of Pub. L. 108–357, set out as a note under section 246 of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -28,7 +28,7 @@ An eligible entity may use a grant received under this part to carry out activit
 
 &emsp;(4) establishment of financial incentive programs for energy efficiency improvements;
 
-&emsp;(5) the provision of grants to nonprofit organizations and governmental agencies for thepurpose of performing energy efficiency retrofits;
+&emsp;(5) the provision of grants to nonprofit organizations and governmental agencies for the purpose of performing energy efficiency retrofits;
 
 &emsp;(6) development and implementation of energy efficiency and conservation programs for buildings and facilities within the jurisdiction of the eligible entity, including—
 

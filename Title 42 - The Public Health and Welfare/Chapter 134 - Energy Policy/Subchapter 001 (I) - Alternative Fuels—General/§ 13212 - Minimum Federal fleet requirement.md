@@ -48,7 +48,7 @@ The General Services Administration and any other Federal agency that procures m
 
 #### (d) Application of requirements
 
-The provisions of section 6374 of this title relating to the Federal acquisition of alternativefueled vehicles shall apply to the acquisition of vehicles pursuant to this section.
+The provisions of section 6374 of this title relating to the Federal acquisition of alternative fueled vehicles shall apply to the acquisition of vehicles pursuant to this section.
 
 #### (e) Resale
 

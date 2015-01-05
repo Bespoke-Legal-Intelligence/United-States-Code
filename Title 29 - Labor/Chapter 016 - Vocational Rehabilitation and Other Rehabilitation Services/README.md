@@ -40,7 +40,7 @@
 | [726\.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20A%20-%20General%20Provisions/%C2%A7%2000726%20-%20Evaluation%20standards%20and%20performance%20indicators.md) | Evaluation standards and performance indicators. |
 | [727\.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20A%20-%20General%20Provisions/%C2%A7%2000727%20-%20Monitoring%20and%20review.md) | Monitoring and review. |
 | [728\.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20A%20-%20General%20Provisions/%C2%A7%2000728%20-%20Expenditure%20of%20certain%20amounts.md) | Expenditure of certain amounts. |
-| [728a.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20A%20-%20General%20Provisions/%C2%A7%2000728a%20-%20Training%20of%20employers%20with%20respect%20to%20Americans%20with%20Disabilities%20Act%20of%201990.md) | Training of employers with respect to Americans with Disabilities Act of 1990. |
+| [728a.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20A%20-%20General%20Provisions/%C2%A7%2000728a%20-%20Training%20and%20services%20for%20employers.md) | Training and services for employers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,6 +51,7 @@
 | [730\.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20B%20-%20Basic%20Vocational%20Rehabilitation%20Services/%C2%A7%2000730%20-%20State%20allotments.md) | State allotments. |
 | [731\.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20B%20-%20Basic%20Vocational%20Rehabilitation%20Services/%C2%A7%2000731%20-%20Payments%20to%20States.md) | Payments to States. |
 | [732\.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20B%20-%20Basic%20Vocational%20Rehabilitation%20Services/%C2%A7%2000732%20-%20Client%20assistance%20program.md) | Client assistance program. |
+| [733\.](Subchapter%20001%20%28I%29%20-%20Vocational%20Rehabilitation%20Services/Part%20B%20-%20Basic%20Vocational%20Rehabilitation%20Services/%C2%A7%2000733%20-%20Provision%20of%20pre-employment%20transition%20services.md) | Provision of pre-employment transition services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,11 +77,12 @@
 | :--- | ---: |
 | [760\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000760%20-%20Declaration%20of%20purpose.md) | Declaration of purpose. |
 | [761\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000761%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [762\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000762%20-%20National%20Institute%20on%20Disability%20and%20Rehabilitation%20Research.md) | National Institute on Disability and Rehabilitation Research. |
+| [762\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000762%20-%20National%20Institute%20on%20Disability%2C%20Independent%20Living%2C%20and%20Rehabilitation%20Research.md) | National Institute on Disability, Independent Living, and Rehabilitation Research. |
 | [762a.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000762a%20-%20Research%20and%20demonstration%20projects.md) | Research and demonstration projects. |
 | [763\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000763%20-%20Interagency%20Committee.md) | Interagency Committee. |
 | [764\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000764%20-%20Research%20and%20other%20covered%20activities.md) | Research and other covered activities. |
-| [765\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000765%20-%20Rehabilitation%20Research%20Advisory%20Council.md) | Rehabilitation Research Advisory Council. |
+| [765\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000765%20-%20Disability%2C%20Independent%20Living%2C%20and%20Rehabilitation%20Research%20Advisory%20Council.md) | Disability, Independent Living, and Rehabilitation Research Advisory Council. |
+| [766\.](Subchapter%20002%20%28II%29%20-%20Research%20and%20Training/%C2%A7%2000766%20-%20Definition%20of%20covered%20school.md) | Definition of covered school. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -91,8 +93,7 @@
 | [771\.](Subchapter%20003%20%28III%29%20-%20Professional%20Development%20and%20Special%20Projects%20and%20Demonstrations/%C2%A7%2000771%20-%20Declaration%20of%20purpose%20and%20competitive%20basis%20of%20grants%20and%20contracts.md) | Declaration of purpose and competitive basis of grants and contracts. |
 | [772\.](Subchapter%20003%20%28III%29%20-%20Professional%20Development%20and%20Special%20Projects%20and%20Demonstrations/%C2%A7%2000772%20-%20Training.md) | Training. |
 | [773\.](Subchapter%20003%20%28III%29%20-%20Professional%20Development%20and%20Special%20Projects%20and%20Demonstrations/%C2%A7%2000773%20-%20Demonstration%20and%20training%20programs.md) | Demonstration and training programs. |
-| [774\.](Subchapter%20003%20%28III%29%20-%20Professional%20Development%20and%20Special%20Projects%20and%20Demonstrations/%C2%A7%2000774%20-%20Migrant%20and%20seasonal%20farmworkers.md) | Migrant and seasonal farmworkers. |
-| [775\.](Subchapter%20003%20%28III%29%20-%20Professional%20Development%20and%20Special%20Projects%20and%20Demonstrations/%C2%A7%2000775%20-%20Recreational%20programs.md) | Recreational programs. |
+| 774, 775. | Repealed. |
 | [776\.](Subchapter%20003%20%28III%29%20-%20Professional%20Development%20and%20Special%20Projects%20and%20Demonstrations/%C2%A7%2000776%20-%20Measuring%20of%20project%20outcomes%20and%20performance.md) | Measuring of project outcomes and performance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -126,32 +127,24 @@
 | [794d.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794d%20-%20Electronic%20and%20information%20technology.md) | Electronic and information technology. |
 | [794e.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794e%20-%20Protection%20and%20advocacy%20of%20individual%20rights.md) | Protection and advocacy of individual rights. |
 | [794f.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794f%20-%20Establishment%20of%20standards%20for%20accessible%20medical%20diagnostic%20equipment.md) | Establishment of standards for accessible medical diagnostic equipment. |
+| [794g.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794g%20-%20Limitations%20on%20use%20of%20subminimum%20wage.md) | Limitations on use of subminimum wage. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER VI—EMPLOYMENT OPPORTUNITIES FOR INDIVIDUALS WITH DISABILITIES
 
-#### Part A—Projects With Industry
-
 |  |  |
 | :--- | ---: |
-| [795\.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20A%20-%20Projects%20with%20Industry/%C2%A7%2000795%20-%20Projects%20With%20Industry.md) | Projects With Industry. |
-| [795a.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20A%20-%20Projects%20with%20Industry/%C2%A7%2000795a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part B—Supported Employment Services for Individuals With the Most Significant Disabilities
-
-|  |  |
-| :--- | ---: |
-| [795g.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20B%20-%20Supported%20Employment%20Services%20for%20Individuals%20with%20the%20Most%20Significant%20Disabilities/%C2%A7%2000795g%20-%20Purpose.md) | Purpose. |
-| [795h.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20B%20-%20Supported%20Employment%20Services%20for%20Individuals%20with%20the%20Most%20Significant%20Disabilities/%C2%A7%2000795h%20-%20Allotments.md) | Allotments. |
-| [795i.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20B%20-%20Supported%20Employment%20Services%20for%20Individuals%20with%20the%20Most%20Significant%20Disabilities/%C2%A7%2000795i%20-%20Availability%20of%20services.md) | Availability of services. |
-| [795j.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20B%20-%20Supported%20Employment%20Services%20for%20Individuals%20with%20the%20Most%20Significant%20Disabilities/%C2%A7%2000795j%20-%20Eligibility.md) | Eligibility. |
-| [795k.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20B%20-%20Supported%20Employment%20Services%20for%20Individuals%20with%20the%20Most%20Significant%20Disabilities/%C2%A7%2000795k%20-%20State%20plan.md) | State plan. |
+| 795, 795a. | Repealed. |
+| [795g.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/%C2%A7%2000795g%20-%20Purpose.md) | Purpose. |
+| [795h.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/%C2%A7%2000795h%20-%20Allotments.md) | Allotments. |
+| [795i.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/%C2%A7%2000795i%20-%20Availability%20of%20services.md) | Availability of services. |
+| [795j.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/%C2%A7%2000795j%20-%20Eligibility.md) | Eligibility. |
+| [795k.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/%C2%A7%2000795k%20-%20State%20plan.md) | State plan. |
 | 795<i>l.</i> | Restriction. |
-| [795m.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20B%20-%20Supported%20Employment%20Services%20for%20Individuals%20with%20the%20Most%20Significant%20Disabilities/%C2%A7%2000795m%20-%20Savings%20provision.md) | Savings provision. |
-| [795n.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/Part%20B%20-%20Supported%20Employment%20Services%20for%20Individuals%20with%20the%20Most%20Significant%20Disabilities/%C2%A7%2000795n%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [795m.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/%C2%A7%2000795m%20-%20Savings%20provision.md) | Savings provision. |
+| [795n.](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/%C2%A7%2000795n%20-%20Advisory%20Committee%20on%20Increasing%20Competitive%20Integrated%20Employment%20for%20Individuals%20with%20Disabilities.md) | Advisory Committee on Increasing Competitive Integrated Employment for Individuals with Disabilities. |
+| 795<i>o.</i> | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -164,11 +157,12 @@
 |  |  |
 | :--- | ---: |
 | [796\.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796%20-%20Purpose.md) | Purpose. |
+| 796–1.Administration of the independent living program. |  |
 | [796a.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796a%20-%20Definitions.md) | Definitions. |
 | [796b.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796b%20-%20Eligibility%20for%20receipt%20of%20services.md) | Eligibility for receipt of services. |
 | [796c.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796c%20-%20State%20plan.md) | State plan. |
 | [796d.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796d%20-%20Statewide%20Independent%20Living%20Council.md) | Statewide Independent Living Council. |
-| 796d–1. | Responsibilities of Commissioner. |
+| 796d–1. | Responsibilities of the Administrator. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -177,6 +171,7 @@
 |  |  |
 | :--- | ---: |
 | [796e.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20002%20-%20Independent%20Living%20Services/%C2%A7%2000796e%20-%20Allotments.md) | Allotments. |
+| 796e–0. | Training and technical assistance. |
 | 796e–1. | Payments to States from allotments. |
 | 796e–2. | Authorized uses of funds. |
 | 796e–3. | Authorization of appropriations. |
@@ -202,6 +197,7 @@
 |  |  |
 | :--- | ---: |
 | [796j.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20B%20-%20Independent%20Living%20Services%20for%20Older%20Individuals%20Who%20Are%20Blind/%C2%A7%2000796j%20-%20Older%20individual%20who%20is%20blind%20defined.md) | "Older individual who is blind" defined. |
+| 796j–1. | Training and technical assistance. |
 | [796k.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20B%20-%20Independent%20Living%20Services%20for%20Older%20Individuals%20Who%20Are%20Blind/%C2%A7%2000796k%20-%20Program%20of%20grants.md) | Program of grants. |
 | 796<i>l.</i> | Authorization of appropriations. |
 

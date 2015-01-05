@@ -34,7 +34,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Effective Date
 
-Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
+Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974,with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
 
 #### Short Title of 2013 Amendment
 
@@ -86,11 +86,11 @@ Functions of the President under the Disaster Relief Acts of 1970 and 1974, with
 
 #### References to Disaster Relief Act of 1974
 
-Pub. L. 100–707, title I, §102(b), Nov. 23, 1988, 102 Stat. 4689, provided that: "Whenever any reference is made inany law (other than this Act \[see Tables for classification\]), regulation, document, rule, record, or other paper of the United States to a section or provision of the Disaster Relief Act of 1974 \[former short title of Pub. L. 93–288\], such reference shall be deemed to be a reference to such section or provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288, see Short Title note above\]."
+Pub. L. 100–707, title I, §102(b), Nov. 23, 1988, 102 Stat. 4689, provided that: "Whenever any reference is made in any law (other than this Act \[see Tables for classification\]), regulation, document, rule, record, or other paper of the United States to a section or provision of the Disaster Relief Act of 1974 \[former short title of Pub. L. 93–288\], such reference shall be deemed to be a reference to such section or provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288, see Short Title note above\]."
 
 #### References to Disaster Relief Act of 1970
 
-Pub. L. 93–288, title VII, §702(m), formerly title VI, §602(m), May 22, 1974, 88 Stat. 164, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act."
+Pub. L. 93–288, title VII, §702(m), formerly title VI, §602(m), May 22, 1974, 88 Stat. 164, as renumbered byPub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act."
 
 #### Report on State Management of Small Disasters Initiative
 

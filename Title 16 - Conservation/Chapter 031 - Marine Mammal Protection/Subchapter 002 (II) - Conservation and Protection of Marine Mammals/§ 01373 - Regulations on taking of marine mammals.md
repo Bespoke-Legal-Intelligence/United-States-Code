@@ -2,7 +2,7 @@
 
 #### (a) Necessity and appropriateness
 
-The Secretary, on the basis of the best scientific evidence available and in consultationwith the Marine Mammal Commission, shall prescribe such regulations with respect to the taking and importing of animals from each species of marine mammal (including regulations on the taking and importing of individuals within population stocks) as he deems necessary and appropriate to insure that such taking will not be to the disadvantage of those species and population stocks and will be consistent with the purposes and policies set forth in section 1361 of this title.
+The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, shall prescribe such regulations with respect to the taking and importing of animals from each species of marine mammal (including regulations on the taking and importing of individuals within population stocks) as he deems necessary and appropriate to insure that such taking will not be to the disadvantage of those species and population stocks and will be consistent with the purposes and policies set forth in section 1361 of this title.
 
 #### (b) Factors considered in prescribing regulations
 
@@ -34,7 +34,7 @@ The regulations prescribed under subsection (a) of this section for any species 
 
 #### (d) Procedure
 
-Regulations prescribed to carry out this section with respect to any species or stock of marine mammals must be made on the record after opportunity for an agency hearing on both the Secretary's determination to waive the moratorium pursuant to section 1371(a)(3)(A) of this title and on such regulations, except that, in addition to any other requirements, imposed by law with respect to agency rulemaking, the Secretary shall publish and make available to the public either before or concurrent with the publication of notice in the Federal Register of his intention to prescribe regulations under this section—
+Regulations prescribed to carry out this section with respect to any species or stock of marine mammals must be made on the record after opportunity for an agency hearing on both the Secretary's determination to waive the moratorium pursuant to section 1371(a)(3)(A) of this title and on such regulations, except that, in addition to any other requirements, imposed by law with respect to agency rulemaking, the Secretary shall publish and make available to thepublic either before or concurrent with the publication of notice in the Federal Register of his intention to prescribe regulations under this section—
 
 &emsp;(1) a statement of the estimated existing levels of the species and population stocks of the marine mammal concerned;
 

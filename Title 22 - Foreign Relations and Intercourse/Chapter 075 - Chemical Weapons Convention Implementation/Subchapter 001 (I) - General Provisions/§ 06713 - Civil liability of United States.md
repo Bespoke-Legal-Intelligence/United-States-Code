@@ -22,7 +22,7 @@
 
 #### (4) Burden of proof
 
-&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether the plaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
+&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether theplaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
 
 &emsp;&emsp;(A) the value of proprietary information;
 
@@ -40,7 +40,7 @@ The district courts of the United States shall have exclusive jurisdiction of ci
 
 #### (c) Waiver of sovereign immunity of United States
 
-In any action under subsection (a) or (b) of this section, the United States may not raise sovereign immunity as a defense.
+In any action under subsection (a) or (b), the United States may not raise sovereign immunity as a defense.
 
 #### (d) Authority for cause of action
 
@@ -88,7 +88,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (iv) Export-Import Bank transactions
 
-&emsp;&emsp;&emsp;The United States shall not give approval to guarantee, insure, or extend credit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.
+&emsp;&emsp;&emsp;The United States shall not give approval to guarantee, insure, or extendcredit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.
 
 #### (v) Private bank transactions
 
@@ -162,7 +162,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after October 21, 1998—
 
-&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any UnitedStates confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>1</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
+&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>1</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
 
 &emsp;(2) traffics in United States confidential business information, a proven claim to which is owned by a United States national;
 

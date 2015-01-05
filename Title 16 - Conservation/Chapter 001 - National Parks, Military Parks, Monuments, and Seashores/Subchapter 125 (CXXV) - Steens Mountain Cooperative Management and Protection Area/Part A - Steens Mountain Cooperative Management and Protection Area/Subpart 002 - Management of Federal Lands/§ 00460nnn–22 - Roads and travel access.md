@@ -16,7 +16,7 @@ The management plan shall include, as an integral part, a comprehensive transpor
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) does not prohibit the use of motorized or mechanized vehicles on Federal lands included in the Cooperative Management and Protection Area if the Secretary determines that such use—
+&emsp;Paragraph (1) does not prohibit the use of motorized or mechanized vehicles on Federallands included in the Cooperative Management and Protection Area if the Secretary determines that such use—
 
 &emsp;&emsp;(A) is needed for administrative purposes or to respond to an emergency; or
 

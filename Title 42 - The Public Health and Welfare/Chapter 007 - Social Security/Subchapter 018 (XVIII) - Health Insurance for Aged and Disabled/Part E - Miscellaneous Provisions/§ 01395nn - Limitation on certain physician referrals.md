@@ -46,7 +46,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;&nbsp;unless the Secretary determines other terms and conditions under which the provision of such services does not present a risk of program or patient abuse, and
 
-&emsp;&emsp;(B) that are billed by the physician performing or supervising the services, by a group practice of which such physician is amember under a billing number assigned to the group practice, or by an entity that is wholly owned by such physician or such group practice,
+&emsp;&emsp;(B) that are billed by the physician performing or supervising the services, by a group practice of which such physician is a member under a billing number assigned to the group practice, or by an entity that is wholly owned by such physician or such group practice,
 
 > &emsp;if the ownership or investment interest in such services meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse. Such requirements shall, with respect to magnetic resonance imaging, computed tomography, positron emission tomography, and any other designated health services specified under subsection (h)(6)(D) that the Secretary determines appropriate, include a requirement that the referring physician inform the individual in writing at the time of the referral that the individual may obtain the services for which the individual is being referred from a person other than a person described in subparagraph (A)(i) and provide such individual with a written list of suppliers (as defined in section 1395x(d) of this title) who furnish such services in the area in which such individual resides.
 
@@ -196,7 +196,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a physician incentive plan (as defined in clause (ii)) between a physician and an entity, the compensation maybe determined in a manner (through a withhold, capitation, bonus, or otherwise) that takes into account directly or indirectly the volume or value of any referrals or other business generated between the parties, if the plan meets the following requirements:
+&emsp;&emsp;&emsp;In the case of a physician incentive plan (as defined in clause (ii)) between a physician and an entity, the compensation may be determined in a manner (through a withhold, capitation, bonus, or otherwise) that takes into account directly or indirectly the volume or value of any referrals or other business generated between the parties, if the plan meets the following requirements:
 
 &emsp;&emsp;&emsp;&emsp;(I) No specific payment is made directly or indirectly under the plan to a physician or a physician group as an inducement to reduce or limit medically necessary services provided with respect to a specific individual enrolled with the entity.
 
@@ -386,7 +386,7 @@ For purposes of this section:
 
 #### (C) Clarification respecting certain services integral to a consultation by certain specialists
 
-&emsp;&emsp;A request by a pathologist for clinical diagnostic laboratory tests and pathologicalexamination services, a request by a radiologist for diagnostic radiology services, and a request by a radiation oncologist for radiation therapy, if such services are furnished by (or under the supervision of) such pathologist, radiologist, or radiation oncologist pursuant to a consultation requested by another physician does not constitute a "referral" by a "referring physician".
+&emsp;&emsp;A request by a pathologist for clinical diagnostic laboratory tests and pathological examination services, a request by a radiologist for diagnostic radiology services, and a request by a radiation oncologist for radiation therapy, if such services are furnished by (or under the supervision of) such pathologist, radiologist, or radiation oncologist pursuant to a consultation requested by another physician does not constitute a "referral" by a "referring physician".
 
 #### (6) Designated health services
 
@@ -474,7 +474,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(II) the nature and extent of all ownership and investment interests in the hospital.
 
-&emsp;&emsp;(ii) The hospital has procedures in place to require that any referring physician owner or investor discloses to the patient being referred, by a time that permits the patient to make a meaningful decision regarding the receipt of care, as determined by the Secretary—
+&emsp;&emsp;(ii) The hospital has procedures in place to require that any referring physician owneror investor discloses to the patient being referred, by a time that permits the patient to make a meaningful decision regarding the receipt of care, as determined by the Secretary—
 
 &emsp;&emsp;&emsp;(I) the ownership or investment interest, as applicable, of such referring physician in the hospital; and
 
@@ -490,7 +490,7 @@ For purposes of this section:
 
 #### (D) Ensuring bona fide investment
 
-&emsp;&emsp;(i) The percentage of the total value of the ownership or investment interests held inthe hospital, or in an entity whose assets include the hospital, by physician owners or investors in the aggregate does not exceed such percentage as of March 23, 2010.
+&emsp;&emsp;(i) The percentage of the total value of the ownership or investment interests held in the hospital, or in an entity whose assets include the hospital, by physician owners or investors in the aggregate does not exceed such percentage as of March 23, 2010.
 
 &emsp;&emsp;(ii) Any ownership or investment interests that the hospital offers to a physician owner or investor are not offered on more favorable terms than the terms offered to a person who is not a physician owner or investor.
 
@@ -562,7 +562,7 @@ For purposes of this section:
 
 #### (iii) Baseline number of operating rooms, procedure rooms, and beds
 
-&emsp;&emsp;&emsp;In this paragraph, the term "baseline number of operating rooms, procedurerooms, and beds" means the number of operating rooms, procedure rooms, and beds for which the applicable hospital is licensed as of March 23, 2010 (or, in the case of a hospital that did not have a provider agreement in effect as of such date but does have such an agreement in effect on December 31, 2010, the effective date of such provider agreement).
+&emsp;&emsp;&emsp;In this paragraph, the term "baseline number of operating rooms, procedure rooms, and beds" means the number of operating rooms, procedure rooms, and beds for which the applicable hospital is licensed as of March 23, 2010 (or, in the case of a hospital that did not have a provider agreement in effect as of such date but does have such an agreement in effect on December 31, 2010, the effective date of such provider agreement).
 
 #### (D) Increase limited to facilities on the main campus of the hospital
 
@@ -616,7 +616,7 @@ For purposes of this section:
 
 &emsp;Nothing in this subsection shall be construed as preventing the Secretary from revoking a hospital's provider agreement if not in compliance with regulations implementing section 1395cc of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3),\(k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049.)
 
 #### References in Text
 
@@ -624,7 +624,7 @@ Section 222(a) of the Social Security Amendments of 1972, referred to in subsec.
 
 Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
-Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original "section 1860D–3(e)(6)", and was translated as reading "section 1860D–4(e)(6)", meaning section 1860D–4(e)(6) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
+Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original "section 1860D–3(e)(6)", and was translated as reading "section 1860D–4(e)(6)", meaning section 1860D–4(e)(6) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
 
 The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classified generally to Title 26, Internal Revenue Code.
 
@@ -678,7 +678,7 @@ Subsec. (b)(3)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §524(a)(3)\], whi
 
 Subsec. (f)(2). Pub. L. 103–432, §152(a)(2), (3), inserted ", or with a compensation arrangement (as described in subsection (a)(2)(B) of this section)," after "investment interest (as described in subsection (a)(2)(A) of this section)" and "interest or who have such a compensation relationship with the entity" before period at end.
 
-Subsec. (h)(6). Pub. L. 103–432, §152(b), in subpar. (D), substituted "services, including magnetic resonance imaging, computerized axial tomography scans, and ultrasound services" for "or other diagnostic services", and in subpars. (E), (F), and (H), inserted "and supplies" before period at end.
+Subsec. (h)(6). Pub. L. 103–432, §152(b), in subpar. (D), substituted "services, including magnetic resonance imaging, computerized axial tomography scans, and ultrasound services" for "or other diagnostic services",and in subpars. (E), (F), and (H), inserted "and supplies" before period at end.
 
 <b>1993</b>—Subsecs. (a) to (e). Pub. L. 103–66, §13562(a)(1), amended headings and text of subsecs. (a) to (e) generally, substituting present provisions for provisions which related to: prohibition of certain referrals in subsec. (a), general exceptions to both ownership and compensation arrangement prohibitions in subsec. (b), general exception related only to ownership or investment prohibition for ownership in publicly-traded securities in subsec. (c), additional exceptions related only to ownership or investment prohibition in subsec. (d), and exceptions relating to other compensation arrangements in subsec. (e).
 
@@ -690,7 +690,7 @@ Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec
 
 <b>1990</b>—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L.103–432, §160(d)(4), substituted "October 1, 1991" for "1 year after December 19, 1989" in second sentence and inserted at end "The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type."
+Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "October 1, 1991" for "1 year after December 19, 1989" in second sentence and inserted at end "The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type."
 
 Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as renumbered by Pub. L. 103–432, §160(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the names and all of the medicare provider numbers of the physicians who are interested investors or who are immediate relatives of interested investors."
 
@@ -846,7 +846,7 @@ MedPAC study.—The Medicare Payment Advisory Commission, in consultation with t
 
 &emsp;"(A) any differences in the costs of health care services furnished to patients by physician-owned specialty hospitals and the costs of such services furnished by local full-service community hospitals within specific diagnosis-related groups;
 
-&emsp;"(B) the extent to which specialty hospitals, relative to local full-service community hospitals, treat patients in certain diagnosis-related groups within a category, such as cardiology, and an analysis of the selection;
+&emsp;"(B) the extent to which specialty hospitals, relative to local full-service community hospitals, treatpatients in certain diagnosis-related groups within a category, such as cardiology, and an analysis of the selection;
 
 &emsp;"(C) the financial impact of physician-owned specialty hospitals on local full-service community hospitals;
 
@@ -868,7 +868,7 @@ study.—The Secretary \[of Health and Human Services\] shall conduct a study of
 
 "(3)
 
-Reports.—Not later than 15 months after the date of the enactment of this Act \[Dec. 8, 2003\], theCommission and the Secretary, respectively, shall each submit to Congress a report on the studies conducted under paragraphs (1) and (2), respectively, and shall include any recommendations for legislation or administrative changes."
+Reports.—Not later than 15 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission and the Secretary, respectively, shall each submit to Congress a report on the studies conducted under paragraphs (1) and (2), respectively, and shall include any recommendations for legislation or administrative changes."
 
 #### GAO Study of Ownership by Referring Physicians
 

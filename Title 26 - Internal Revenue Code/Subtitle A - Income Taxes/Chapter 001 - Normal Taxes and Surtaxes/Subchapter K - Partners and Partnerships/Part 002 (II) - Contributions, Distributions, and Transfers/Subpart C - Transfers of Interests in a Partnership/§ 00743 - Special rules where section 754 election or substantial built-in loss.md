@@ -56,7 +56,7 @@ The allocation of basis among partnership properties where subsection (b) is app
 
 &emsp;&emsp;(A) the partnership makes an election to have this subsection apply,
 
-&emsp;&emsp;(B) the partnership would be an investment company under section 3(a)(1)(A) of theInvestment Company Act of 1940 but for an exemption under paragraph (1) or (7) of section 3(c) of such Act,
+&emsp;&emsp;(B) the partnership would be an investment company under section 3(a)(1)(A) of the Investment Company Act of 1940 but for an exemption under paragraph (1) or (7) of section 3(c) of such Act,
 
 &emsp;&emsp;(C) such partnership has never been engaged in a trade or business,
 
@@ -96,7 +96,7 @@ Section 3(a)(1)(A), (c)(1), (7) of the Investment Company Act of 1940, referred 
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357, §833(b)(6)(A), substituted "Special rules where section 754 election or substantial built-in loss" for "Optional adjustment to basis of partnership property" in section catchline.
+<b>2004</b>—Pub. L. 108–357, §833(b)(6)(A), substituted "Special rules where section 754 election or substantialbuilt-in loss" for "Optional adjustment to basis of partnership property" in section catchline.
 
 Subsec. (a). Pub. L. 108–357, §833(b)(1), inserted "or unless the partnership has a substantial built-in loss immediately after such transfer" before period at end.
 

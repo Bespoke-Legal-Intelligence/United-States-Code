@@ -28,11 +28,11 @@
 
 #### (B) Representative group of producers
 
-&emsp;&emsp;An additional referendum on an order shall be conducted if requested by 10 percentor more of the producers who during a representative period have been engaged in the production of soybeans, of which group of requesting producers not in excess of one-fifth may be producers in any one State, as determined by the Secretary.
+&emsp;&emsp;An additional referendum on an order shall be conducted if requested by 10 percent or more of the producers who during a representative period have been engaged in the production of soybeans, of which group of requesting producers not in excess of one-fifth may be producers in any one State, as determined by the Secretary.
 
 #### (C) Eligible producers
 
-&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during a representative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
+&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during arepresentative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
 
 #### (2) Disapproval of order
 
@@ -70,7 +70,7 @@
 
 #### (1) Reimbursement of Secretary
 
-&emsp;The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Secretary in connection with the conduct of any activity required under this section, except for the salaries of Government employees associated with the conduct of a referendum under subsections (a) and (b) of this section.
+&emsp;The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Secretary in connection with the conduct of any activity required under this section, except for the salaries of Government employees associated with the conduct of a referendum under subsections (a) and (b).
 
 #### (2) Date
 

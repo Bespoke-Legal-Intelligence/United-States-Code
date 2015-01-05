@@ -10,7 +10,7 @@
 
 #### (b) Monitoring and review
 
-The Secretary shall continually monitor and undertake a thorough review of the implementation of this section to assess the impact of the section on the lending practices of mortgagees and the availability of mortgages insured under this chapter. The Secretary shall monitor the availability of credit, the number and type of lenders participating in the program, whether there is any change in the composition or practices of such lenders and any other factors the Secretary considers appropriate. The Secretary shall submit to the Congress findings detailing the results of such monitoring and review not later than 18 months after November 28, 1990.
+The Secretary shall continually monitor and undertake a thorough review of the implementation of this section to assess the impact of the section on the lending practices of mortgagees and the availability of mortgages insured under this chapter. The Secretary shall monitor the availability of credit, the number and type of lenders participating in the program, whetherthere is any change in the composition or practices of such lenders and any other factors the Secretary considers appropriate. The Secretary shall submit to the Congress findings detailing the results of such monitoring and review not later than 18 months after November 28, 1990.
 
 (June 27, 1934, ch. 847, title V, §539, as added Pub. L. 101–625, title III, §330(b), Nov. 28, 1990, 104 Stat. 4139.)
 

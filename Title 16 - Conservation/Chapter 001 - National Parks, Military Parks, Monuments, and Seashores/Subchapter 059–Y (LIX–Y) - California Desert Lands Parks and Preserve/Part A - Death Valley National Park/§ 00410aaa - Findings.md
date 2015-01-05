@@ -34,7 +34,7 @@ Pub. L. 106–423, Nov. 1, 2000, 114 Stat. 1875, provided that:
 
 "Congress finds the following:
 
-&emsp;"(1) Since time immemorial, the Timbisha Shoshone Tribe has lived in portions of California and Nevada. The Tribe's ancestral homeland includes the area that now comprises Death Valley National Park and other areas of California and Nevada now administered by the Bureau of Land Management.
+&emsp;"(1) Since time immemorial, the Timbisha Shoshone Tribe has lived in portions of California and Nevada. The Tribe's ancestral homeland includes the area that now comprises Death Valley National Parkand other areas of California and Nevada now administered by the Bureau of Land Management.
 
 &emsp;"(2) Since 1936, the Tribe has lived and governed the affairs of the Tribe on approximately 40 acres of land near Furnace Creek in the Park.
 
@@ -295,6 +295,10 @@ Pub. L. 103–433, §2, Oct. 31, 1994, 108 Stat. 4471, provided that:
 &emsp;&emsp;"(D) provide opportunities for compatible outdoor public recreation, protect and interpret ecological and geological features and historic, paleontological, and archeological sites, maintain wilderness resource values, and promote public understanding and appreciation of the California desert; and
 
 &emsp;&emsp;"(E) retain and enhance opportunities for scientific research in undisturbed ecosystems."
+
+#### Removal of Feral Burros and Horses From Death Valley National Monument
+
+Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1384, provided in part: "That in fiscal year 1993 and thereafter, the National Park Service may use helicopters and motorized equipment at Death Valley National Monument for removal of feral burros and horses".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "and".</i>
 

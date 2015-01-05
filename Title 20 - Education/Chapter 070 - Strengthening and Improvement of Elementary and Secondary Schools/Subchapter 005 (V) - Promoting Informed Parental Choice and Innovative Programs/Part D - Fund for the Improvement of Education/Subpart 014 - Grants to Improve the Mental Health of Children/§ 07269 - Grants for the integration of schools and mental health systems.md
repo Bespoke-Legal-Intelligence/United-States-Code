@@ -44,7 +44,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under this
 
 &emsp;&emsp;(D) parents of students participating in services under this section will be involved in the design and implementation of the services.
 
-&emsp;(5) An explanation of how the applicant will support and integrate existing school-basedservices with the program to provide appropriate mental health services for students.
+&emsp;(5) An explanation of how the applicant will support and integrate existing school-based services with the program to provide appropriate mental health services for students.
 
 &emsp;(6) An explanation of how the applicant will establish a program that will support students and the school in maintaining an environment conducive to learning.
 

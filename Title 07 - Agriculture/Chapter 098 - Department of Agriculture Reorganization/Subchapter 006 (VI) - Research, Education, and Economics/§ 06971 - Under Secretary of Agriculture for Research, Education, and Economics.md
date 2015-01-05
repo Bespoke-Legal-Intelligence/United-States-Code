@@ -176,7 +176,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(v) Each program established under section 1417(b) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3152(b)).
 
-&emsp;&emsp;&emsp;(vi) The animal health and disease research program established under subtitle E of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3191 et seq.).
+&emsp;&emsp;&emsp;(vi) The animal health and disease research program established under subtitle E of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3191 et seq.) <sup>1</sup> except for the competitive grant program under section 1433(b) \[7 U.S.C. 3195(b)\].
 
 &emsp;&emsp;&emsp;(vii) Each extension program available to 1890 Institutions established under section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3221).
 
@@ -222,11 +222,9 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(x) The specialty crop research initiative under section 7632 of this title.
 
-&emsp;&emsp;&emsp;(xi) The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under section 5925e of this title.
+&emsp;&emsp;&emsp;(xi) The research, extension, and education programs authorized by section 7627 of this title relating to the competitiveness, viability and sustainability of small- and medium-sized dairy, livestock, and poultry operations.
 
-&emsp;&emsp;&emsp;(xii) The research, extension, and education programs authorized by section 7627 of this title relating to the competitiveness, viability and sustainability of small- and medium-sized dairy, livestock, and poultry operations.
-
-&emsp;&emsp;&emsp;(xiii) Other programs that are competitive programs, as determined by the Secretary.
+&emsp;&emsp;&emsp;(xii) Other programs that are competitive programs, as determined by the Secretary.
 
 #### (E) Director
 
@@ -292,7 +290,7 @@ The Under Secretary shall—
 
 #### (D) Compensation
 
-&emsp;&emsp;The Director shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of the Senior Executive Service under subsection (b) of section 5382 of title 5, except that the certification requirement in that subsection shall not apply to the compensation of the Director.
+&emsp;&emsp;The Director shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of theSenior Executive Service under subsection (b) of section 5382 of title 5, except that the certification requirement in that subsection shall not apply to the compensation of the Director.
 
 #### (E) Authority and responsibilities of Director
 
@@ -352,7 +350,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;Funding made available under subparagraph (A) shall be allocated according to recommendations contained in the roadmap described in section 7614a of this title.
 
-(Pub. L. 103–354, title II, §251, Oct. 13, 1994, 108 Stat. 3226; Pub. L. 110–234, title VII, §7511(a), May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, §4(a), title VII, §7511(a), June 18, 2008, 122 Stat. 1664, 2021.)
+(Pub. L. 103–354, title II, §251, Oct. 13, 1994, 108 Stat. 3226; Pub. L. 110–234, title VII, §7511(a), May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, §4(a), title VII, §7511(a), June 18, 2008, 122 Stat. 1664, 2021; Pub. L. 113–79, title VII, §§7111(b)(2), 7212(b), Feb. 7, 2014, 128 Stat. 874, 886.)
 
 #### References in Text
 
@@ -376,6 +374,10 @@ Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (f)(1)(C)(vi). Pub. L. 113–79, §7111(b)(2), inserted "except for the competitive grant program under section 1433(b)" before period at end.
+
+Subsec. (f)(1)(D)(xi) to (xiii). Pub. L. 113–79, §7212(b), redesignated cls. (xii) and (xiii) as (xi) and (xii), respectively, and struck out former cl. (xi) which read as follows: "The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under section 5925e of this title."
+
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(a)(1), inserted "(referred to in this section as the 'Under Secretary')" before period at end.
 
 Subsecs. (b) to (f). Pub. L. 110–246, §7511(a)(2), (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment and functions of the Cooperative State Research, Education, and Extension Service.
@@ -383,4 +385,6 @@ Subsecs. (b) to (f). Pub. L. 110–246, §7511(a)(2), (4), added subsecs. (b) to
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

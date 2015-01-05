@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 R.S. §1773.
 
-The words “confirmed by” are substituted for “advised and consented to”.
+The words "confirmed by" are substituted for "advised and consented to".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

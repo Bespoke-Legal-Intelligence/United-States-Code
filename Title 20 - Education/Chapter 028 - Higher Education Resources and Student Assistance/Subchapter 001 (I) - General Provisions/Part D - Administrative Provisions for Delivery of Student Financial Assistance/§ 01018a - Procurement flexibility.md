@@ -106,7 +106,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (1) In general
 
-&emsp;The PBO may satisfy the requirements of the PBO for a system incrementally by carrying out successive procurements of modules of the system. In doing so, the PBO may use procedures authorized under this subsection toprocure any such module after the first module.
+&emsp;The PBO may satisfy the requirements of the PBO for a system incrementally by carrying out successive procurements of modules of the system. In doing so, the PBO may use procedures authorized under this subsection to procure any such module after the first module.
 
 #### (2) Utility requirement
 
@@ -150,7 +150,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (A) Publication
 
-&emsp;&emsp;Not less than 30 days before issuing a solicitation for offers for a contract for a module for a system under procedures authorized under subparagraph (A) or (B) of paragraph (4), the PBO shall publish in the Commerce Business Daily a notice of the intent to use such procedures to enter into the contract.
+&emsp;&emsp;Not less than 30 days before issuing a solicitation for offers for a contract for a modulefor a system under procedures authorized under subparagraph (A) or (B) of paragraph (4), the PBO shall publish in the Commerce Business Daily a notice of the intent to use such procedures to enter into the contract.
 
 #### (B) Exception
 
@@ -192,7 +192,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (1) Issuance by PBO
 
-&emsp;The Chief Operating Officer of the PBO, in consultation with the Administrator for Federal Procurement Policy, shall issue guidancefor the use by PBO personnel of the authority provided in this section.
+&emsp;The Chief Operating Officer of the PBO, in consultation with the Administrator for Federal Procurement Policy, shall issue guidance for the use by PBO personnel of the authority provided in this section.
 
 #### (2) Guidance from OFPP
 

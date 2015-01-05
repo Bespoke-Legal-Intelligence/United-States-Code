@@ -9,6 +9,7 @@
 | [8105\.](%C2%A7%2008105%20-%20Fishing%20vessel%20exemption.md) | Fishing vessel exemption. |
 | [8106\.](%C2%A7%2008106%20-%20Riding%20gangs.md) | Riding gangs. |
 | [8107\.](%C2%A7%2008107%20-%20Use%20of%20force%20against%20piracy.md) | Use of force against piracy. |
+| [8108\.](%C2%A7%2008108%20-%20Merchant%20Marine%20Personnel%20Advisory%20Committee.md) | Merchant Marine Personnel Advisory Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -17,6 +18,8 @@
 Chapter 81 provides for the composition, citizenship, working hours, and other limitations affecting the complement of licensed individuals and crew on certain vessels, a safety watch onboard passenger vessels, membership in the Naval Reserve for certain deck and engineer officers, and penalties for violating, and regulatory authority for implementing its provisions.
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–281, title III, §310(b), Dec. 18, 2014, 128 Stat. 3047, added item 8108.
 
 <b>2010</b>—Pub. L. 111–281, title IX, §§903(c)(1), 912(b), Oct. 15, 2010, 124 Stat. 3011, 3017, inserted period at end of item 8106 and added item 8107.
 
@@ -40,3 +43,4 @@ Pub. L. 109–163, div. A, title V, §515(f)(3)(C), Jan. 6, 2006, 119 Stat. 3236
 - [&sect; 08105 - Fishing vessel exemption](%C2%A7%2008105%20-%20Fishing%20vessel%20exemption.md)
 - [&sect; 08106 - Riding gangs](%C2%A7%2008106%20-%20Riding%20gangs.md)
 - [&sect; 08107 - Use of force against piracy](%C2%A7%2008107%20-%20Use%20of%20force%20against%20piracy.md)
+- [&sect; 08108 - Merchant Marine Personnel Advisory Committee](%C2%A7%2008108%20-%20Merchant%20Marine%20Personnel%20Advisory%20Committee.md)

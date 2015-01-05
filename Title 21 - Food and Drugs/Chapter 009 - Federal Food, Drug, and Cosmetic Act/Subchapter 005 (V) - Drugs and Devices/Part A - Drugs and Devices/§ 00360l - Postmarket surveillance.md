@@ -6,7 +6,7 @@
 
 #### (A) Conduct
 
-&emsp;&emsp;The Secretary may by order, at the time of approval or clearance of a device or at anytime thereafter, require a manufacturer to conduct postmarket surveillance for any device of the manufacturer that is a class II or class III device—
+&emsp;&emsp;The Secretary may by order, at the time of approval or clearance of a device or at any time thereafter, require a manufacturer to conduct postmarket surveillance for any device of the manufacturer that is a class II or class III device—
 
 &emsp;&emsp;&emsp;(i) the failure of which would be reasonably likely to have serious adverse health consequences;
 

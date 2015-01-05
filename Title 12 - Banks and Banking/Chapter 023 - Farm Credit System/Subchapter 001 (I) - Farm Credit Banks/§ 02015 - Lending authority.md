@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) any production credit association, or
 
-&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged in the making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
+&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged inthe making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
 
 > &emsp;any note, draft, or other obligation with the institution's endorsement or guarantee, the proceeds of which note, draft, or other obligation have been advanced to persons and for purposes eligible for financing by production credit associations as authorized by this chapter.
 
@@ -30,7 +30,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;No paper shall be purchased from or discounted for, and no loans shall be made orother similar financial assistance extended by a Farm Credit Bank to any entity identified in paragraph (1)(B) of this subsection if the amount of such paper added to the aggregate liabilities of such entity, whether direct or contingent (other than bona fide deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such entity or the amount of such liabilities permitted under the laws of the jurisdiction creating such institution, whichever is the lesser.
+&emsp;&emsp;No paper shall be purchased from or discounted for, and no loans shall be made or other similar financial assistance extended by a Farm Credit Bank to any entity identified in paragraph (1)(B) of this subsection if the amount of such paper added to the aggregate liabilities of such entity, whether direct or contingent (other than bona fide deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such entity or the amount of such liabilities permitted under the laws of the jurisdiction creating such institution, whichever is the lesser.
 
 #### (B) Limitation on national bank
 
@@ -88,5 +88,5 @@ Subsec. (b)(4)(A). Pub. L. 100–399, §401(f)(3), substituted "subsection" for 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233,which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

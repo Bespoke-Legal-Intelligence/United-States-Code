@@ -2,7 +2,7 @@
 
 #### (a) State reservations
 
-Each State shall reserve 2 percent of the amount the State receives under subpart 2 of part A of this subchapter for fiscal years 2002 and 2003, and 4 percent of the amount receivedunder such subpart for fiscal years 2004 through 2007, to carry out subsection (b) of this section and to carry out the State's responsibilities under sections 6316 and 6317 of this title, including carrying out the State educational agency's statewide system of technical assistance and support for local educational agencies.
+Each State shall reserve 2 percent of the amount the State receives under subpart 2 of part A of this subchapter for fiscal years 2002 and 2003, and 4 percent of the amount received under such subpart for fiscal years 2004 through 2007, to carry out subsection (b) of this section and to carry out the State's responsibilities under sections 6316 and 6317 of this title, including carrying out the State educational agency's statewide system of technical assistance and support for local educational agencies.
 
 #### (b) Uses
 

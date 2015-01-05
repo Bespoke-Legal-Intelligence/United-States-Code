@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the recreation area in accordance with this subchapter and the laws, rules, and regulations applicable to National Forest System lands in a manner that will further the purposes of the recreation area. Management of the natural resources within the recreation area shall be permitted only to theextent that such management is compatible with and does not impair the purposes for which the recreation area is established. Recreational activities within the recreation area shall include (but not be limited to) hiking, camping, hunting, fishing, skiing, backpacking, rock climbing, and swimming.
+The Secretary shall administer the recreation area in accordance with this subchapter and the laws, rules, and regulations applicable to National Forest System lands in a manner that will further the purposes of the recreation area. Management of the natural resources within the recreation area shall be permitted only to the extent that such management is compatible with and does not impair the purposes for which the recreation area is established. Recreational activities within the recreation area shall include (but not be limited to) hiking, camping, hunting, fishing, skiing, backpacking, rock climbing, and swimming.
 
 #### (b) Management plan
 
@@ -10,7 +10,7 @@ The Secretary shall, no later than 5 years after October 12, 1993, develop a man
 
 #### (c) Cultural resources
 
-In administering the recreation area, the Secretary shall give particular emphasis to the preservation, stabilization, and protection of cultural resources located within the recreation area in furtherance of the Archaeological Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\], the National Historic Preservation Act \[16 U.S.C. 470 et seq.\], and the Act of August 11, 1978 \[42 U.S.C. 1996, 1996a\] (commonly referred to as the "American Indian Religious Freedom Act").
+In administering the recreation area, the Secretary shall give particular emphasis to the preservation, stabilization, and protection of cultural resources located within the recreation area in furtherance of the Archaeological Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\], the National Historic Preservation Act,<sup>1</sup> and the Act of August 11, 1978 \[42 U.S.C. 1996, 1996a\] (commonly referred to as the "American Indian Religious Freedom Act").
 
 #### (d) Native Americans
 
@@ -80,9 +80,11 @@ The Secretary may designate zones where, and establish periods when, any activit
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (c), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (c), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470 of this title and Tables.
+The National Historic Preservation Act, referred to in subsec. (c), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The American Indian Religious Freedom Act, referred to in subsecs. (c) and (d)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

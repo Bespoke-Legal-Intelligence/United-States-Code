@@ -16,7 +16,7 @@
 | [112\.](%C2%A7%2000112%20-%20Detail%20of%20employees%20of%20executive%20departments.md) | Detail of employees of executive departments. |
 | [113\.](%C2%A7%2000113%20-%20Personnel%20report.md) | Personnel report. |
 | [114\.](%C2%A7%2000114%20-%20General%20pay%20limitation.md) | General pay limitation. |
-| [115\.](%C2%A7%2000115%20-%20Veterans%E2%80%99%20preference.md) | Veterans’ preference. |
+| [115\.](%C2%A7%2000115%20-%20Veterans%27%20preference.md) | Veterans' preference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,23 +24,23 @@
 
 <b>1998</b>—Pub. L. 105–339, §4(b)(2), Oct. 31, 1998, 112 Stat. 3185, added item 115.
 
-<b>1978</b>—Pub. L. 95–570, §§1(b), 2(b), 3(b), 5(b)(2), (c)(2), Nov. 2, 1978, 92 Stat. 2447, 2449, 2450, 2451, substituted in item 105 “Assistance and services for the President” for “Compensation of secretaries and executive, administrative, and staff assistants to President”; in item 106 “Assistance and services for the Vice President” for “Administrative assistants”; in item 107 “Domestic Policy Staff and Office of Administration; personnel” for “Detail of employees of executive departments to office of President”; in item 108 “Assistance to the President for unanticipated needs” for “Accommodations for vehicles”; and in item 109 “the Executive Residence at the White House” for “Executive Mansion”; inserted in item 110 “the Executive Residence at the” before “White House”; and added items 112, 113 and 114.
+<b>1978</b>—Pub. L. 95–570, §§1(b), 2(b), 3(b), 5(b)(2), (c)(2), Nov. 2, 1978, 92 Stat. 2447, 2449, 2450, 2451, substituted in item 105 "Assistance and services for the President" for "Compensation of secretaries and executive, administrative, and staff assistants to President"; in item 106 "Assistance and services for the Vice President" for "Administrative assistants"; in item 107 "Domestic Policy Staff and Office of Administration; personnel" for "Detail of employees of executive departments to office of President"; in item 108 "Assistance to the President for unanticipated needs" for "Accommodations for vehicles"; and in item 109 "the Executive Residence at the White House" for "Executive Mansion"; inserted in item 110 "the Executive Residence at the" before "White House"; and added items 112, 113 and 114.
 
 #### Executive Office Personnel Background Investigations; Leaves of Absence
 
 Pub. L. 103–329, title VI, §632, Sept. 30, 1994, 108 Stat. 2425, provided that:
 
-“(a)
+"(a)
 
 In General.—Hereafter, the employment of any individual within the Executive Office of the President shall be placed on leave without pay status if the individual—
 
-&emsp;“(1) has not, within 30 days of commencing such employment or by October 31, 1994 (whichever occurs later), submitted a completed questionnaire for sensitive positions (SF–86) or equivalent form; or
+&emsp;"(1) has not, within 30 days of commencing such employment or by October 31, 1994 (whichever occurs later), submitted a completed questionnaire for sensitive positions (SF–86) or equivalent form; or
 
-&emsp;“(2) has not, within 6 months of commencing such employment or by October 31, 1994 (whichever occurs later), had his or her background investigation, if completed, forwarded by the counsel to the President to the United States Secret Service for issuance of the appropriate access pass.
+&emsp;"(2) has not, within 6 months of commencing such employment or by October 31, 1994 (whichever occurs later), had his or her background investigation, if completed, forwarded by the counsel to the President to the United States Secret Service for issuance of the appropriate access pass.
 
-“(b)
+"(b)
 
-Exemption.—Subsection (a) shall not apply to any individual specifically exempted from such subsection by the President or his designee.”
+Exemption.—Subsection (a) shall not apply to any individual specifically exempted from such subsection by the President or his designee."
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -452,7 +452,7 @@ Ex. Ord. No. 12859, Aug. 16, 1993, 58 F.R. 44101, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the Domestic Policy Council (“the Council”).
+Section 1. <i>Establishment</i>. There is established the Domestic Policy Council ("the Council").
 
 Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
@@ -510,7 +510,7 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 (aa) Such other officials of Executive departments and agencies as the President may, from time to time, designate.
 
-Sec. 3. <i>Meeting of the Council</i>. The President, or upon his direction, the Assistant to the President for Domestic Policy (“the Assistant”), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
+Sec. 3. <i>Meeting of the Council</i>. The President, or upon his direction, the Assistant to the President for Domestic Policy ("the Assistant"), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
 
 Sec. 4. <i>Functions</i>. (a) The principal functions of the Council are: (1) to coordinate the domestic policy-making process; (2) to coordinate domestic policy advice to the President; (3) to ensure that domestic policy decisions and programs are consistent with the President's stated goals, and to ensure that those goals are being effectively pursued; and (4) to monitor implementation of the President's domestic policy agenda. The Assistant may take such actions, including drafting a Charter, as may be necessary or appropriate to implement such functions.
 
@@ -530,7 +530,7 @@ Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 1349
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America's communities, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Faith-based and other neighborhood organizations are vital to our Nation's ability to address the needs of low-income and other underserved persons and communities. The American people are key drivers of fundamental change in our country, and few institutions are closer to the people than our faith-based and other neighborhood organizations. It is critical that the Federal Government strengthen the ability of such organizations and other nonprofit providers in our neighborhoods to deliver services effectively in partnership with Federal, State, and local governments and with other private organizations, while preserving our fundamental constitutional commitments guaranteeing the equal protection of the laws and the free exercise of religion and forbidding the establishment of religion. The Federal Government can preserve these fundamental commitments while empowering faith-based and neighborhood organizations to deliver vital services in our communities, from providing mentors and tutors to school children to giving ex-offenders a second chance at work and a responsible life to ensuring that families are fed. The Federal Government must also ensure that any organization receiving taxpayers’ dollars must be held accountable for its performance. Through rigorous evaluation, and by offering technical assistance, the Federal Government must ensure that organizations receiving Federal funds achieve measurable results in furtherance of valid public purposes.
+Section 1. <i>Policy</i>. Faith-based and other neighborhood organizations are vital to our Nation's ability to address the needs of low-income and other underserved persons and communities. The American people are key drivers of fundamental change in our country, and few institutions are closer to the people than our faith-based and other neighborhood organizations. It is critical that the Federal Government strengthen the ability of such organizations and other nonprofit providers in our neighborhoods to deliver services effectively in partnership with Federal, State, and local governments and with other private organizations, while preserving our fundamental constitutional commitments guaranteeing the equal protection of the laws and the free exercise of religion and forbidding the establishment of religion. The Federal Government can preserve these fundamental commitments while empowering faith-based and neighborhood organizations to deliver vital services in our communities, from providing mentors and tutors to school children to giving ex-offenders a second chance at work and a responsible life to ensuring that families are fed. The Federal Government must also ensure that any organization receiving taxpayers' dollars must be held accountable for its performance. Through rigorous evaluation, and by offering technical assistance, the Federal Government must ensure that organizations receiving Federal funds achieve measurable results in furtherance of valid public purposes.
 
 Sec. 2. <i>Establishment</i>. There is established a White House Office of Faith-Based and Neighborhood Partnerships (Office) within the Executive Office of the President that will have lead responsibility in the executive branch to establish policies, priorities, and objectives for the Federal Government's comprehensive effort to enlist, equip, enable, empower, and expand the work of faith-based and other community organizations to the extent permitted by law.
 
@@ -572,7 +572,7 @@ Sec. 4. <i>Administration</i>. (a) The Office may function through established o
 
 (d) All executive departments and agencies (agencies) shall cooperate with the Office and provide such information, support, and assistance to the Office as it may request, to the extent permitted by law.
 
-(e) The agencies’ actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
+(e) The agencies' actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
 
 Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
@@ -638,7 +638,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. About 80 percent of Americans live in urban areas, and the economic health and social vitality of our urban communities are critically important to the prosperity and quality of life for Americans. Vibrant cities spawn innovation, economic growth, and cultural enrichment through the businesses, universities, and civic, cultural, religious, and nonprofit institutions they attract. Forward-looking policies that encourage wise investment and development in our urban areas will create employment and housing opportunities and make our country more competitive, prosperous, and strong. In the past, insufficient attention has been paid to the problems faced by urban areas and to coordinating the many Federal programs that affect our cities. A more comprehensive approach is needed, both to develop an effective strategy for urban America and to coordinate the actions of the many executive departments and agencies whose actions impact urban life.
 
-Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House Office of Urban Affairs (the “Office”).
+Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House Office of Urban Affairs (the "Office").
 
 Sec. 3. <i>Functions</i>. The principal functions of the Office are, to the extent permitted by law:
 
@@ -738,7 +738,7 @@ Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### White House Task Force on Middle-Class Working Families
 
@@ -831,4 +831,4 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 00112 - Detail of employees of executive departments](%C2%A7%2000112%20-%20Detail%20of%20employees%20of%20executive%20departments.md)
 - [&sect; 00113 - Personnel report](%C2%A7%2000113%20-%20Personnel%20report.md)
 - [&sect; 00114 - General pay limitation](%C2%A7%2000114%20-%20General%20pay%20limitation.md)
-- [&sect; 00115 - Veterans&#8217; preference](%C2%A7%2000115%20-%20Veterans%E2%80%99%20preference.md)
+- [&sect; 00115 - Veterans' preference](%C2%A7%2000115%20-%20Veterans%27%20preference.md)

@@ -14,7 +14,7 @@
 
 > However, an officer who was ordered to active duty (other than for training) in the grade that he holds on the retired list under former section 6150 of this title, or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired pay recomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
 
-(b) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has been retired other than for physical disability, and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of thistitle, is entitled, upon his release from active duty, to retired pay under subsection (d).
+(b) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has been retired other than for physical disability, and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
 
 (c) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who—
 
@@ -36,7 +36,7 @@
 
 <sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
-> If, while on active duty after retirement or after his name was placed on the temporary disability retired list, a member covered by this subsection was promoted to a higher grade in which he served satisfactorily, as determined by the Secretary concerned, he is entitled to retired pay based on the monthly basic pay to which he would be entitled if he were on active duty in that higher grade.
+> If, while on active duty after retirement or after his name was placed on the temporary disability retired list, a member covered by this subsection was promoted to a higher grade in which he served satisfactorily, as determined by the Secretary concerned, he is entitled to retiredpay based on the monthly basic pay to which he would be entitled if he were on active duty in that higher grade.
 
 (e) Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from active duty, to have his retired pay or retainer pay—
 
@@ -82,7 +82,7 @@ In subsection (b), the words "for which he would otherwise be eligible for retir
 
 In subsection (c), the requirement that the physical disability incurred be 30 percent or more is omitted as surplusage, since it is also required that the member be qualified for physical disability retirement under section 1201 or 1204 of this title.
 
-In subsection (d), the rules stated in 37:316 (2d and last provisos) are repeated in column 4 of the table and the footnote to the table, since they apply to all casesof increased pay for active duty performed after retirement.
+In subsection (d), the rules stated in 37:316 (2d and last provisos) are repeated in column 4 of the table and the footnote to the table, since they apply to all cases of increased pay for active duty performed after retirement.
 
 #### Codification
 
@@ -114,7 +114,7 @@ Pub. L. 98–94, §923(a)(1), (2)(C), in footnote 1 of table, substituted "Befor
 
 <b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–513 substituted "a uniformed service (as defined in section 1407(a)(2) of this title) before September 8, 1980" for "the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981" wherever appearing.
 
-Pub. L. 96–342 inserted "who first became a member of the armed forces before the date of the enactment of the Department of Defense Authorization Act, 1981, and" after "of an armed force" wherever appearing.
+Pub. L. 96–342 inserted "who first became a member of the armed forces before the date of the enactment ofthe Department of Defense Authorization Act, 1981, and" after "of an armed force" wherever appearing.
 
 <b>1967</b>—Subsec. (d). Pub. L. 90–207, §2(a)(2)(A), inserted "increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay" after "retired,".
 
@@ -178,7 +178,7 @@ Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
 Pub. L. 88–132, §5(a)–(f), Oct. 2, 1963, 77 Stat. 212, provided that:
 
-"(a) Except as provided in section 1402 of title 10, United States Code, the changes made by this Act \[see Short Title note under section 201 of Title 37\] in the rates of basic pay of members of the uniformed services do not increase the retired pay or retainer pay to which a member or former member of the uniformed services was entitled on the day before the effective date of this Act \[Oct. 1, 1963\]. However, except for a member covered by section 6331 of title 10, United States Code who became entitled to retainer pay before April 1, 1963, and subject to subsection (j) of this section \[set out as a note below\], a member or former member of a uniformed service who became entitled to retired pay or retainer pay after March 31, 1963, but before the effective date of this Act \[Oct. 1, 1963\], is entitled—
+"(a) Except as provided in section 1402 of title 10, United States Code, the changes made by this Act \[see Short Title note under section 201 of Title 37\] in the rates of basic pay of members of the uniformed services do not increase the retired pay or retainer pay to which a member or former member of the uniformed services was entitled on the day before the effective date of thisAct \[Oct. 1, 1963\]. However, except for a member covered by section 6331 of title 10, United States Code who became entitled to retainer pay before April 1, 1963, and subject to subsection (j) of this section \[set out as a note below\], a member or former member of a uniformed service who became entitled to retired pay or retainer pay after March 31, 1963, but before the effective date of this Act \[Oct. 1, 1963\], is entitled—
 
 &emsp;"(1) to have the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act \[Oct. 1, 1963\] recomputed under the rates of basic pay prescribed by section 2 of this Act \[amending section 203 of Title 37\]; or
 

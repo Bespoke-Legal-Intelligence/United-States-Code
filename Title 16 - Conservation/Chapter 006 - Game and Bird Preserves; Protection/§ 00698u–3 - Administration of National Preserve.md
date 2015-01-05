@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of thistitle, the cooperative agreements described in subsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2 through 4) <sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.).<sup>1</sup>
 
 #### (b) Application of regulations
 
@@ -26,7 +26,7 @@ For purposes of carrying out the duties of the Secretary under sections 698u to 
 
 #### (e) Unit of National Park System
 
-The Preserve shall be a unit of the National Park System for all purposes, including the purpose of exercising authority to charge entrance and admission fees under section 460l–6a of this title.
+The Preserve shall be a unit of the National Park System for all purposes, including the purpose of exercising authority to charge entrance and admission fees under section 100904 of title 54.
 
 #### (f) Agreement and donations
 
@@ -68,7 +68,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 &emsp;&emsp;(E) Provisions requiring the Secretary to comply with applicable State noxious weed, pesticide, and animal health laws.
 
-&emsp;&emsp;(F) Provisions requiring compliance with applicable State water laws and Federal andState waste disposal laws (including regulations) and any other applicable law.
+&emsp;&emsp;(F) Provisions requiring compliance with applicable State water laws and Federal and State waste disposal laws (including regulations) and any other applicable law.
 
 &emsp;&emsp;(G) Provisions requiring the Secretary to honor each valid existing oil and gas lease for lands within the boundaries of the Preserve (as described in section 698u–2(b) of this title) that is in effect on November 12, 1996.
 
@@ -86,7 +86,15 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 #### References in Text
 
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2 through 4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
 The Federal Tort Claims Act, referred to in subsec. (d)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+
+#### Codification
+
+In subsec. (e), "section 100904 of title 54" substituted for "section 4 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 
@@ -97,4 +105,6 @@ Subsec. (g)(3)(A). Pub. L. 106–176, §122(3)(B), substituted "the tallgrass pr
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

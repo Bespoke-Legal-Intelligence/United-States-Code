@@ -2,7 +2,7 @@
 
 #### (a) Transfer authority for weapons activities funds
 
-The Secretary of Energy shall provide the manager of each field office of the Departmentof Energy with the authority to transfer weapons activities funds from a program or project under the jurisdiction of that office to another such program or project.
+The Secretary of Energy shall provide the manager of each field office of the Department of Energy with the authority to transfer weapons activities funds from a program or project under the jurisdiction of that office to another such program or project.
 
 #### (b) Limitations
 

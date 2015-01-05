@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the Office shall establish, for each research discipline in which any activity under the plan required in section 300cc–40c of this title is carried out, a committee for the purpose of providing advice to the Director ofthe Office on carrying out this part with respect to such discipline. (Each such committee is referred to in this subsection as a "coordinating committee".)
+&emsp;The Director of the Office shall establish, for each research discipline in which any activity under the plan required in section 300cc–40c of this title is carried out, a committee for the purpose of providing advice to the Director of the Office on carrying out this part with respect to such discipline. (Each such committee is referred to in this subsection as a "coordinating committee".)
 
 #### (2) Composition
 

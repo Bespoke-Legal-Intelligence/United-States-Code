@@ -8,7 +8,7 @@
 
 (B) Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
 
-(C) If a person issued a subpoena under paragraph (1) refuses to obey such subpoena or is guilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicial district within which such person is found or resides or transacts business may (upon application by the Board) order such person to appear before the Board to produce evidence or to give testimony relating to the matter under investigation. Any failure to obey such order of thecourt may be punished by such court as a contempt of the court.
+(C) If a person issued a subpoena under paragraph (1) refuses to obey such subpoena or is guilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicial district within which such person is found or resides or transacts business may (upon application by the Board) order such person to appear before the Board to produce evidence or to give testimony relating to the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt of the court.
 
 (D) The subpoenas of the Board shall be served in the manner provided for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure for the United States district courts.
 
@@ -42,7 +42,7 @@ With the consent of and under appropriate support arrangements with the Nuclear 
 
 #### (g) Assistance from organizations outside Federal Government
 
-Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may enter into an agreement with the National Research Council of the National Academy of Sciences or any other appropriate group or organization of experts outside the Federal Government chosen by the Board to assist the Board in carrying out its responsibilities under this subchapter.
+Notwithstanding any other provision of law relating to the use of competitive procedures,the Board may enter into an agreement with the National Research Council of the National Academy of Sciences or any other appropriate group or organization of experts outside the Federal Government chosen by the Board to assist the Board in carrying out its responsibilities under this subchapter.
 
 #### (h) Resident inspectors
 
@@ -60,13 +60,19 @@ The Board may evaluate information received from the scientific and industrial c
 
 &emsp;(2) suggestions for specific measures to improve the content of standards described in section 2286a(b)(1) of this title, the implementation of such standards, or research relating to such standards at Department of Energy defense nuclear facilities.
 
-(Aug. 1, 1946, ch. 724, title I, §313, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2079; amended Pub. L. 101–510, div. C, title XXXII, §3202, Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXII, §3202(a), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXII, §3202(g), Jan. 2, 2013, 126 Stat. 2220.)
+(Aug. 1, 1946, ch. 724, title I, §313, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2079; amended Pub. L. 101–510, div. C, title XXXII, §3202, Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXII, §3202(a), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXII, §3202(g), Jan. 2, 2013, 126 Stat. 2220; Pub. L. 113–291, div. C, title XXXII, §3203(a), Dec. 19, 2014, 128 Stat. 3903.)
+
+#### Amendment of Subsection (b)(1)(A)
+
+<i>Pub. L. 113–291, div. C, title XXXII, §3203, Dec. 19, 2014, 128 Stat. 3903, provided that, effective Oct. 1, 2015, subsection (b)(1)(A) of this section is amended by striking "150 full-time employees" and inserting "130 full-time employees".</i>
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(A). Pub. L. 113–291 substituted "130 full-time employees" for "150 full-time employees".
 
 <b>2013</b>—Subsec. (j)(2). Pub. L. 112–239 substituted "section 2286a(b)(1) of this title, the implementation" for "section 2286a(1) of this title, the implementation".
 
@@ -75,4 +81,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set 
 Subsec. (g). Pub. L. 102–190, §3202(a)(2), substituted "Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may" for "The Board may".
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–510 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted "including such scientific and technical personnel as the Board may determine necessary," after "Board," in subpar. (A), and added par. (2).
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–291, div. C, title XXXII, §3203(b), Dec. 19, 2014, 128 Stat. 3903, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2015."
 

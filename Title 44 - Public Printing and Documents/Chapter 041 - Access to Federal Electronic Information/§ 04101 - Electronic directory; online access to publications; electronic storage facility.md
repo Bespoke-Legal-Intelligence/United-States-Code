@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Superintendent of Documents, under the direction of the Public Printer, shall—
+In General.—The Superintendent of Documents, under the direction of the Director of the Government Publishing Office, shall—
 
 &emsp;(1) maintain an electronic directory of Federal electronic information;
 
@@ -24,11 +24,15 @@ Consultation.—In carrying out this section, the Superintendent of Documents sh
 
 > The purpose of such consultation shall be to assess the quality and value of the directory and the system, in light of user needs.
 
-(Added Pub. L. 103–40, §2(a), June 8, 1993, 107 Stat. 112.)
+(Added Pub. L. 103–40, §2(a), June 8, 1993, 107 Stat. 112; amended Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer" in introductory provisions.
 
 #### Status Report
 
-Pub. L. 103–40, §3, June 8, 1993, 107 Stat. 113, provided that: "Not later than June 30, 1994, the Public Printer shall submit to the Congress a report on the status of the directory, the system of access, and the electronic storage facility referred to in section 4101 of title 44, United States Code, as added by section 2(a)."
+Pub. L. 103–40, §3, June 8, 1993, 107 Stat. 113, required the Public Printer to submit a report to Congress on the status of the directory, the system of access, and the electronic storage facility referred to in section 4101 of this title by June 30, 1994.
 
 #### Operational Deadline
 

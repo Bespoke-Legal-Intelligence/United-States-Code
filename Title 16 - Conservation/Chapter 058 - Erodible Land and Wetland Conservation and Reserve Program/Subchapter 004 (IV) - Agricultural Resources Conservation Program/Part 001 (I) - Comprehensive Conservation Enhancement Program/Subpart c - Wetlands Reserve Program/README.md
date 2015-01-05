@@ -5,10 +5,4 @@ subpart c—wetlands reserve program
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03837 - Wetlands reserve program](%C2%A7%2003837%20-%20Wetlands%20reserve%20program.md)
-- [&sect; 03837a - Easements and agreements](%C2%A7%2003837a%20-%20Easements%20and%20agreements.md)
-- [&sect; 03837b - Duties of owners](%C2%A7%2003837b%20-%20Duties%20of%20owners.md)
-- [&sect; 03837c - Duties of Secretary](%C2%A7%2003837c%20-%20Duties%20of%20Secretary.md)
-- [&sect; 03837d - Payments](%C2%A7%2003837d%20-%20Payments.md)
-- [&sect; 03837e - Changes in ownership; agreement modification; termination](%C2%A7%2003837e%20-%20Changes%20in%20ownership%3B%20agreement%20modification%3B%20termination.md)
-- [&sect; 03837f - Administration and funding](%C2%A7%2003837f%20-%20Administration%20and%20funding.md)
+- [&sect; 03837 to 3837f - Repealed. Pub. L. 113&#8211;79, title II, &sect;2703(a), Feb. 7, 2014, 128 Stat. 767](%C2%A7%2003837%20to%203837f%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72703%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20767.md)

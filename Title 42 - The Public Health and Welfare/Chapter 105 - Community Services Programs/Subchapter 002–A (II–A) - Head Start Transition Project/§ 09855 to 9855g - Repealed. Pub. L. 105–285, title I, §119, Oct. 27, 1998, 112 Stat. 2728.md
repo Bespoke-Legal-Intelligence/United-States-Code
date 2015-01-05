@@ -10,7 +10,7 @@ Section 9855c, Pub. L. 101–501, title I, §135, Nov. 3, 1990, 104 Stat. 1239; 
 
 Section 9855d, Pub. L. 101–501, title I, §136, Nov. 3, 1990, 104 Stat. 1239; Pub. L. 102–119, §26(d), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §391(v)(5)–(7), Oct. 20, 1994, 108 Stat. 4025, related to applications for Head Start transition grants.
 
-Section 9855e, Pub. L. 101–501, title I, §137, Nov. 3, 1990, 104 Stat. 1241, related to evaluation of and reporton programs assisted under Head Start transition project.
+Section 9855e, Pub. L. 101–501, title I, §137, Nov. 3, 1990, 104 Stat. 1241, related to evaluation of and report on programs assisted under Head Start transition project.
 
 Section 9855f, Pub. L. 101–501, title I, §138, Nov. 3, 1990, 104 Stat. 1242, related to payments and Federal share of payments under Head Start transition project.
 

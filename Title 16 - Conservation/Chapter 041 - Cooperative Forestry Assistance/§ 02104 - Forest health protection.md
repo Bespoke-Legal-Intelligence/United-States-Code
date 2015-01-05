@@ -30,7 +30,7 @@ Subject to subsections (c), (d), and (e) of this section and to such other condi
 
 &emsp;(5) develop applied technology and conduct pilot tests of research results prior to the full-scale application of such technology in affected forests;
 
-&emsp;(6) promote the implementation of appropriate silvicultural or management techniquesthat may improve or protect the health of the forests of the United States; and
+&emsp;(6) promote the implementation of appropriate silvicultural or management techniques that may improve or protect the health of the forests of the United States; and
 
 &emsp;(7) take any other actions the Secretary determines necessary to accomplish the objectives and purposes of this section.
 
@@ -98,117 +98,11 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 #### Stewardship End Result Contracting Projects
 
-Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: "The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with section 347 of title III of section 101(e) of division A of Public Law 105–277 \[set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6."
+Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: "The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with \[former\] section 347 of title III of section 101(e) of division A of Public Law 105–277 \[formerly set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6."
 
 Similar provisions were contained in Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, §2604, July 24, 2001, 115 Stat. 178.
 
-Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, §323, Feb. 20, 2003, 117 Stat. 275, provided that:
-
-"(a)
-
-In General.—Until September 30, 2013, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
-
-"(b)
-
-Land Management Goals.—The land management goals of a project under subsection (a) may include, among other things—
-
-&emsp;"(1) road and trail maintenance or obliteration to restore or maintain water quality;
-
-&emsp;"(2) soil productivity, habitat for wildlife and fisheries, or other resource values;
-
-&emsp;"(3) setting of prescribed fires to improve the composition, structure, condition, and health of stands or to improve wildlife habitat;
-
-&emsp;"(4) removing vegetation or other activities to promote healthy forest stands, reduce fire hazards, or achieve other land management objectives;
-
-&emsp;"(5) watershed restoration and maintenance;
-
-&emsp;"(6) restoration and maintenance of wildlife and fish habitat; and
-
-&emsp;"(7) control of noxious and exotic weeds and reestablishing native plant species.
-
-"(c)
-
-Agreements or Contracts.—
-
-&emsp;"(1)
-
-Procurement procedure.—A source for performance of an agreement or contract under subsection (a) shall be selected on a best-value basis, including consideration of source under other public and private agreements or contracts.
-
-&emsp;"(2)
-
-Term.—A multiyear contract may be entered into under subsection (a) in accordance with section 304B of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 254c) \[now 41 U.S.C. 3903\], except that the period of the contract may exceed 5 years but may not exceed 10 years.
-
-&emsp;"(3)
-
-Offsets.—
-
-&emsp;&emsp;"(A)
-
-In general.—In connection with agreement or contracts under subsection (a), the Forest Service and the Bureau of Land Management may apply the value of timber or other forest products removed as an offset against the cost of services received.
-
-&emsp;&emsp;"(B)
-
-Methods of appraisal.—The value of timber or other forest products used as offsets under subparagraph (A)—
-
-&emsp;&emsp;&emsp;"(i) shall be determined using appropriate methods of appraisal commensurate with the quantity of products to be removed;
-
-&emsp;&emsp;&emsp;"(ii) may be determined using a unit of measure appropriate to the agreement or contracts; and
-
-&emsp;&emsp;&emsp;"(iii) may include valuing products on a per-acre basis.
-
-&emsp;"(4)
-
-Relation to other laws.—The Forest Service may enter into agreement or contracts under subsection (a), notwithstanding subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 (16 U.S.C. 472a).
-
-&emsp;"(5)
-
-Contracting officer.—Notwithstanding any other provision of law, the Secretary of Agriculture or the Secretary of the Interior may determine the appropriate contracting officer to enter into and administer an agreement or contract under subsection (a).
-
-"(d)
-
-Receipts.—
-
-&emsp;"(1)
-
-In general.—The Forest Service and the Bureau of Land Management may collect monies from an agreement or contract under subsection (a) so long as such collection is a secondary objective of negotiating contracts that will best achieve the purposes of this section.
-
-&emsp;"(2)
-
-Use.—Monies from an agreement or contract under subsection (a) may be retained by the Forest Service and the Bureau of Land Management and shall be available for expenditure without further appropriation at the project site from which the monies are collected or at another project site.
-
-&emsp;"(3)
-
-Relation to other laws.—The value of services received by the Forest Service or the Bureau of Land Management under a stewardship contract project conducted under this section, and any payments made or resources provided by the contractor or the Forest Service or the Bureau of Land Management under such a project, shall not be considered to be monies received from the National Forest System or the public lands under any provision of law. The Act of June 9, 1930 (16 U.S.C. 576 et seq.; commonly known as the Knutson-Vandenberg Act), shall not apply to stewardship contracts entered into under this section.
-
-"(e)
-
-Costs of Removal.—The Forest Service may collect deposits from contractors covering the costs of removal of timber or other forest products pursuant to the Act of August 11, 1916 (39 Stat. 462, chapter 313; 16 U.S.C. 490); and the next to the last paragraph under the heading 'Forest Service.' under the heading 'Department of Agriculture' in the Act of June 30, 1914 (38 Stat. 430, chapter 131; 16 U.S.C. 498); notwithstanding the fact that the timber purchasers did not harvest the timber.
-
-"(f)
-
-Performance and Payment Guarantees.—
-
-&emsp;"(1)
-
-In general.—The Forest Service and the Bureau of Land Management may require performance and payment bonds, in accordance with sections 103–2 and 103–2 of part 28 of the Federal Acquisition Regulation (48 C.F.R. 28.103–2, 28.103–3), in an amount that the contracting officer considers sufficient to protect the Government's investment in receipts generated by the contractor from the estimated value of the forest products to be removed under contract under subsection (a).
-
-&emsp;"(2)
-
-Excess offset value.—If the offset value of the forest products exceeds the value of the resource improvement treatments, the Forest Service and the Bureau of Land Management may—
-
-&emsp;&emsp;"(A) collect any residual receipts pursuant to the Act of June 9, 1930 (46 Stat. 527, chapter 416; 16 U.S.C. 576b); and
-
-&emsp;&emsp;"(B) apply the excess to other authorized stewardship projects.
-
-"(g)
-
-Monitoring, Evaluation and Reporting.—The Forest Service and the Bureau of Land Management shall establish a multiparty monitoring and evaluation process that accesses the stewardship contracting projects conducted under this section. Besides the Forest Service and the Bureau of Land Management, participants in this process may include any cooperating governmental agencies, including tribal governments, and any interested groups or individuals. The Forest Service and the Bureau of Land Management shall report annually to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate on—
-
-&emsp;"(1) the status of development, execution, and administration of agreements or contracts under subsection (a);
-
-&emsp;"(2) the specific accomplishments that have resulted; and
-
-&emsp;"(3) the role of local communities in development of agreements or contract plans."
+Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, §323, Feb. 20, 2003, 117 Stat. 275; Pub. L. 113–76, div. G, title IV, §434, Jan. 17, 2014, 128 Stat. 346, which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by Pub. L. 113–79, title VIII, §8205(b), Feb. 7, 2014, 128 Stat. 921. See section 6591c of this title.
 
 #### Herger-Feinstein Quincy Library Group Forest Recovery
 
@@ -320,7 +214,7 @@ Flexibility.—Subject to normal reprogramming guidelines, during the term of th
 
 &emsp;"(4)
 
-Restriction.—The Secretary or the forest supervisors, as the case may be, shall not utilize authority provided under paragraphs (1)(B) and (3) if, intheir judgment, doing so will limit other nontimber related multiple use activities for which such funds were available.
+Restriction.—The Secretary or the forest supervisors, as the case may be, shall not utilize authority provided under paragraphs (1)(B) and (3) if, in their judgment, doing so will limit other nontimber related multiple use activities for which such funds were available.
 
 &emsp;"(5)
 
@@ -364,7 +258,7 @@ In general.—Not later than February 28 of each year during the term of the pil
 
 &emsp;&emsp;"(B) A complete accounting of the use of funds and accounts made available under subsection (f)(1) for the previous fiscal year, including a schedule of the amounts drawn from each account used to perform resource management activities described in subsection (d).
 
-&emsp;&emsp;"(C) A description of total acres treated for each of the resource management activities required under subsection (d), forest health improvements, fire risk reductions, water yield increases, and other natural resources-related benefits achieved by the implementation of the resource management activities described in subsection (d).
+&emsp;&emsp;"(C) A description of total acres treated for each of the resource management activities required under subsection (d), forest health improvements, fire risk reductions, water yield increases, andother natural resources-related benefits achieved by the implementation of the resource management activities described in subsection (d).
 
 &emsp;&emsp;"(D) A description of the economic benefits to local communities achieved by the implementation of the pilot project.
 

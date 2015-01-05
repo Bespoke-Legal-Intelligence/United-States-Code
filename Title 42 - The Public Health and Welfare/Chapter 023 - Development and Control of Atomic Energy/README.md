@@ -325,6 +325,7 @@
 | [2286i.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286i%20-%20Annual%20authorization%20of%20appropriations.md) | Annual authorization of appropriations. |
 | [2286j.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286j%20-%20Procurement%20of%20inspector%20general%20services.md) | Procurement of inspector general services. |
 | [2286k.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286k%20-%20Inspector%20General.md) | Inspector General. |
+| [2286l.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286l%20-%20Authority%20of%20Inspector%20General.md) | Authority of Inspector General. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -449,6 +450,7 @@
 | 2297h–9. | Ownership limitations. |
 | 2297h–10. | Uranium transfers and sales. |
 | 2297h–10a. | Incentives for additional downblending of highly enriched uranium by the Russian Federation. |
+| 2297h–10b. | Secretarial determinations; congressional notification. |
 | 2297h–11. | Low-level waste. |
 | 2297h–12. | AVLIS. |
 | 2297h–13. | Application of certain laws. |

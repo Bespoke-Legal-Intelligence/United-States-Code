@@ -1,6 +1,6 @@
 ### §46b. Repealed. Pub. L. 104–186, title II, §203(16), Aug. 20, 1996, 110 Stat. 1727
 
-Section, acts July 2, 1954, ch. 455, title I, 68 Stat. 402; July 12, 1960, Pub. L. 86–628, 74 Stat. 452; H. Res. No. 533,Eighty-eighth Congress, Oct. 2, 1963, enacted into permanent law by act Aug. 20, 1964, Pub. L. 88–454, §103, 78 Stat. 550; H. Res. No. 1029, Eighty-ninth Congress, Oct. 5, 1966; H. Res. No. 112, Ninetieth Congress, Mar. 8, 1967, enacted into permanent law by act May 29, 1967, Pub. L. 90–21, title I, 81 Stat. 38, related to stationery allowance for House Members.
+Section, acts July 2, 1954, ch. 455, title I, 68 Stat. 402; July 12, 1960, Pub. L. 86–628, 74 Stat. 452; H. Res. No. 533, Eighty-eighth Congress, Oct. 2, 1963, enacted into permanent law by act Aug. 20, 1964, Pub. L. 88–454, §103, 78 Stat. 550; H. Res. No. 1029, Eighty-ninth Congress, Oct. 5, 1966; H. Res. No. 112, Ninetieth Congress, Mar. 8, 1967, enacted into permanent law by act May 29, 1967, Pub. L. 90–21, title I, 81 Stat. 38, related to stationery allowance for House Members.
 
 Provisions similar to those in this section were contained in the following prior acts:
 

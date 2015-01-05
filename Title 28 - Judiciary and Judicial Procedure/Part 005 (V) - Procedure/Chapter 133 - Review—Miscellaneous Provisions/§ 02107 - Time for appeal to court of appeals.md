@@ -22,13 +22,13 @@
 
 (d) This section shall not apply to bankruptcy matters or other proceedings under Title 11.
 
-(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598, title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627; Pub. L. 111–16, §6(3), May 7, 2009, 123 Stat. 1608; Pub. L. 112–62, §3, Nov. 29, 2011, 125 Stat. 757.)
+(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598, title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627; Pub. L.111–16, §6(3), May 7, 2009, 123 Stat. 1608; Pub. L. 112–62, §3, Nov. 29, 2011, 125 Stat. 757.)
 
 #### Historical and Revision Notes
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, §11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, §8(c), 43Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 10, 1939, ch. 2, §1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957).
+Based on title 28, U.S.C., 1940 ed., §§227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, §11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, §8(c), 43 Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 10, 1939, ch. 2, §1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957).
 
 Section consolidates sections 227a and 230 of title 28, U.S.C., 1940 ed., with section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Other provisions of such section 227a are incorporated in section 1292 of this title.
 
@@ -102,7 +102,7 @@ Pub. L. 112–62, §2, Nov. 29, 2011, 125 Stat. 756, provided that: "Congress fi
 
 &emsp;&emsp;"(D) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States;
 
-&emsp;"(3) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure (as amended to take effect on December 1, 2011, in accordance with section 2074 of that title) should uniformly apply the 60-day period to those civil actions relating to a Federal officer or employee sued in an individual capacity for an act or omission occurring in connection with Federal duties;
+&emsp;"(3) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure (asamended to take effect on December 1, 2011, in accordance with section 2074 of that title) should uniformly apply the 60-day period to those civil actions relating to a Federal officer or employee sued in an individual capacity for an act or omission occurring in connection with Federal duties;
 
 &emsp;"(4) the civil actions to which the 60-day periods should apply include all civil actions in which a legal officer of the United States represents the relevant officer or employee when the judgment or order is entered or in which the United States files the appeal for that officer or employee; and
 

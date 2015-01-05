@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) inactive-duty training;
 
-&emsp;&emsp;(B) while traveling directly to or from that duty or training (unless such injury, illness,disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
+&emsp;&emsp;(B) while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
 
 &emsp;&emsp;(C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training.
 

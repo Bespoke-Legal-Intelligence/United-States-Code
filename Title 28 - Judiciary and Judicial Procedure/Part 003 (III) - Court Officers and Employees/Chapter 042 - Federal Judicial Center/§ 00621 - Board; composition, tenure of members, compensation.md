@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–317, §601(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "two active judges of the courts of appeals of the United States, three active judges of the district courts of the United States, one active judge of the bankruptcy courts of the United States elected by vote of the members of the Judicial Conference of theUnited States: <i>Provided, however</i>, That the judges so elected shall not be members of the Judicial Conference of the United States; and".
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–317, §601(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "two active judges of the courts of appeals of the United States, three active judges of the district courts of the United States, one active judge of the bankruptcy courts of the United States elected by vote of the members of the Judicial Conference of the United States: <i>Provided, however</i>, That the judges so elected shall not be members of the Judicial Conference of the United States; and".
 
 Subsec. (b). Pub. L. 104–317, §601(b)(2), substituted "retirement pursuant to section 371(a) or section 372(a) of this title," for "retirement,".
 

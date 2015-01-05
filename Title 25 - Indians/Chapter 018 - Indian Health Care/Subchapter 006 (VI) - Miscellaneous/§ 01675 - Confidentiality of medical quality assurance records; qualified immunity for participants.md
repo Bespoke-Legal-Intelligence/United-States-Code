@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Medical quality assurance program
 
-&emsp;The term "medical quality assurance program" means any activity carried out before, on, or after March 23, 2010, by or for any Indian health program or urban Indian organization to assess the quality of medical care, including activities conducted by or on behalf of individuals, Indian health program or urban Indian organization medical or dental treatment review committees, or other review bodies responsible for quality assurance, credentials, infection control, patient safety, patient care assessment (including treatment procedures, blood, drugs, and therapeutics), medical records, health resources management review, and identification and prevention of medical or dental incidents and risks.
+&emsp;The term "medical quality assurance program" means any activity carried out before,on, or after March 23, 2010, by or for any Indian health program or urban Indian organization to assess the quality of medical care, including activities conducted by or on behalf of individuals, Indian health program or urban Indian organization medical or dental treatment review committees, or other review bodies responsible for quality assurance, credentials, infection control, patient safety, patient care assessment (including treatment procedures, blood, drugs, and therapeutics), medical records, health resources management review, and identification and prevention of medical or dental incidents and risks.
 
 #### (3) Medical quality assurance record
 
@@ -70,7 +70,7 @@ Medical quality assurance records created by or for any Indian health program or
 
 #### (1) In general
 
-&emsp;Nothing in this section shall be construed as authorizing or requiring the withholding from any person or entity aggregate statistical information regarding the results of any Indian health program or urban Indian organization's medical quality assurance programs.
+&emsp;Nothing in this section shall be construed as authorizing or requiring the withholding fromany person or entity aggregate statistical information regarding the results of any Indian health program or urban Indian organization's medical quality assurance programs.
 
 #### (2) Withholding from Congress
 

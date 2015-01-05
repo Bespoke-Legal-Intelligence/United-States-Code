@@ -6,7 +6,7 @@ The Secretary shall establish a National List of approved and prohibited substan
 
 #### (b) Content of list
 
-The list established under subsection (a) of this section shall contain an itemization, byspecific use or application, of each synthetic substance permitted under subsection (c)(1) of this section or each natural substance prohibited under subsection (c)(2) of this section.
+The list established under subsection (a) shall contain an itemization, by specific use or application, of each synthetic substance permitted under subsection (c)(1) or each natural substance prohibited under subsection (c)(2).
 
 #### (c) Guidelines for prohibitions or exemptions
 
@@ -28,7 +28,7 @@ The list established under subsection (a) of this section shall contain an itemi
 
 &emsp;&emsp;&emsp;(ii) is used in production and contains synthetic inert ingredients that are not classified by the Administrator of the Environmental Protection Agency as inerts of toxicological concern; and
 
-&emsp;&emsp;(C) the specific exemption is developed using the procedures described in subsection (d) of this section.
+&emsp;&emsp;(C) the specific exemption is developed using the procedures described in subsection (d).
 
 #### (2) Prohibition on the use of specific natural substances
 
@@ -40,7 +40,7 @@ The list established under subsection (a) of this section shall contain an itemi
 
 &emsp;&emsp;&emsp;(ii) is inconsistent with organic farming or handling, and the purposes of this chapter; and
 
-&emsp;&emsp;(B) the specific prohibition is developed using the procedures specified in subsection (d) of this section.
+&emsp;&emsp;(B) the specific prohibition is developed using the procedures specified in subsection (d).
 
 #### (d) Procedure for establishing National List
 

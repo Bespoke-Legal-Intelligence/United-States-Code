@@ -82,7 +82,7 @@ Requirements.—A vessel subject to this subsection is not eligible for a fisher
 
 &emsp;&emsp;(C) the vessel—
 
-&emsp;&emsp;&emsp;(i) is either a rebuilt vessel or replacement vessel under section 208(g) of theAmerican Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627);
+&emsp;&emsp;&emsp;(i) is either a rebuilt vessel or replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627);
 
 &emsp;&emsp;&emsp;(ii) is eligible for a fishery endorsement under this section; and
 
@@ -130,7 +130,7 @@ Revocation of Endorsements.—The Secretary shall revoke the fishery endorsement
 
 (i)
 
-Regulations.—Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
+Regulations.—Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to theextent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
 
 (Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1495; Pub. L. 110–181, div. C, title XXXV, §3529(a)(2), Jan. 28, 2008, 122 Stat. 603; Pub. L. 111–281, title VI, §602(a), Oct. 15, 2010, 124 Stat. 2959; Pub. L. 112–213, title III, §307, Dec. 20, 2012, 126 Stat. 1565.)
 
@@ -210,7 +210,7 @@ In subsection (i), the first two sentences of section 203(b) of Public Law 105�
 
 #### References in Text
 
-The American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note), referred to in subsec. (d)(2)(B)(i), probably should be a reference to the Magnuson-Stevens Fishery Conservation and Management Act (see note below). Introductory provisions and cl. (i) of subsec. (d)(2)(B) of this section were derived from former section 12102(c)(5)(B) of this title in the general amendment of this chapter by Pub. L. 109–304, §5, Oct.6, 2006, 120 Stat. 1491. As part of that amendment, the reference to the American Fisheries Act was substituted for a reference to "such Act" which had been preceded by references to both of the above named Acts. See the Historical and Revision Notes above and section 2 of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+The American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note), referred to in subsec. (d)(2)(B)(i), probably should be a reference to the Magnuson-Stevens Fishery Conservation and Management Act (see note below). Introductory provisions and cl. (i) of subsec. (d)(2)(B) of this section were derived from former section 12102(c)(5)(B) of this title in the general amendment of this chapter by Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1491. As part of that amendment, the reference to the American Fisheries Act was substituted for a reference to "such Act" which had been preceded by references to both of the above named Acts. See the Historical and Revision Notes above and section 2 of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Section 208(e) and (g) of the American Fisheries Act, referred to in subsec. (d)(2)(B)(ii), (C)(i), (iii), is section 208(e) and (g), respectively, of title II of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–625, 2681–627, which is set out in a note under section 1851 of Title 16, Conservation.
 

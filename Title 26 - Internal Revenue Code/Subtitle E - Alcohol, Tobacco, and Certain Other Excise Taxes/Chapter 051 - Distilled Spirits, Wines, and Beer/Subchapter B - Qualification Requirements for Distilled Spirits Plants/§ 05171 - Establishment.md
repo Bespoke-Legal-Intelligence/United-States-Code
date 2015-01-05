@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 96–39 redesignated former subsec. (c) as (e) and substitu
 
 <b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §§1905(a)(13)(A), 1906(b)(13)(A), struck out "49 Stat. 978;" before "27 U.S.C. 203, 204" in parenthetical provisions after "Federal Alcohol Administration Act" and struck out "or his delegate" after "Secretary".
 
-Subsec. (b)(3). Pub. L. 94–455, §1905(a)(13)(B), struck out par. (3) under which persons who were qualified on June 30, 1959, to perform operations for which a permitwas required covering operations not required to be covered by a basic permit under the Federal Alcohol Administration Act had been allowed to continue operations pending a reasonable opportunity to make application for a permit.
+Subsec. (b)(3). Pub. L. 94–455, §1905(a)(13)(B), struck out par. (3) under which persons who were qualified on June 30, 1959, to perform operations for which a permit was required covering operations not required to be covered by a basic permit under the Federal Alcohol Administration Act had been allowed to continue operations pending a reasonable opportunity to make application for a permit.
 
 #### Effective Date of 1979 Amendment
 

@@ -16,7 +16,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(6) All moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for a controlled substance or listed chemical in violation of this subchapter, all proceeds traceable to such an exchange, and all moneys, negotiable instruments, and securities used or intended to be used to facilitate any violation of this subchapter.
 
-&emsp;(7) All real property, including any right, title, and interest (including any leasehold interest) in the whole of any lot or tract of land and any appurtenances or improvements, which is used, or intended to be used, in any manner or part, to commit, or to facilitate thecommission of, a violation of this subchapter punishable by more than one year's imprisonment.
+&emsp;(7) All real property, including any right, title, and interest (including any leasehold interest) in the whole of any lot or tract of land and any appurtenances or improvements, which is used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, a violation of this subchapter punishable by more than one year's imprisonment.
 
 &emsp;(8) All controlled substances which have been possessed in violation of this subchapter.
 
@@ -76,7 +76,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (3) The Attorney General shall assure that any property transferred to a State or local law enforcement agency under paragraph (1)(A)—
 
-&emsp;(A) has a value that bears a reasonable relationship to the degree of direct participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of allproperty forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
+&emsp;(A) has a value that bears a reasonable relationship to the degree of direct participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of all property forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
 
 &emsp;(B) will serve to encourage further cooperation between the recipient State or local agency and Federal law enforcement agencies.
 
@@ -118,7 +118,7 @@ In addition to the venue provided for in section 1395 of title 28 or any other p
 
 The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
 
-(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, §4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
+(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub.L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, §4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
 
 #### References in Text
 

@@ -44,7 +44,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC.
 
-> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchasedby, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
+> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
 
 #### (4) Qualified replacement mortgage
 
@@ -108,7 +108,7 @@ For purposes of this part—
 
 #### (10) Issue price
 
-&emsp;The issue price of any regular or residual interest in a REMIC shall be determined under section 1273(b) in the same manner as if such interest were a debt instrument; except that if the interest is issued for property, paragraph (3) of section 1273(b) shall apply whether or not the requirements of such paragraph are met.
+&emsp;The issue price of any regular or residual interest in a REMIC shall be determined under section 1273(b) in the same manner as if suchinterest were a debt instrument; except that if the interest is issued for property, paragraph (3) of section 1273(b) shall apply whether or not the requirements of such paragraph are met.
 
 #### (b) Treatment of nonresident aliens and foreign corporations
 
@@ -128,7 +128,7 @@ If the holder of a residual interest in a REMIC is a nonresident alien individua
 
 #### (2) Net income from foreclosure property
 
-&emsp;For purposes of this part, the term "net income from foreclosure property" means theamount which would be the REMIC's net income from foreclosure property under section 857(b)(4)(B) if the REMIC were a real estate investment trust.
+&emsp;For purposes of this part, the term "net income from foreclosure property" means the amount which would be the REMIC's net income from foreclosure property under section 857(b)(4)(B) if the REMIC were a real estate investment trust.
 
 #### (d) Tax on contributions after startup date
 
@@ -174,7 +174,7 @@ Subsec. (a)(3)(A)(iii)(I). Pub. L. 109–135, §403(cc)(1), substituted "a rever
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–357, §835(b)(5)(A), inserted at end of concluding provisions "An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC."
 
-Subsec. (a)(3). Pub. L. 108–357, §835(b)(7), inserted at end of concluding provisions "For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property."
+Subsec. (a)(3). Pub. L. 108–357, §835(b)(7), inserted at end of concluding provisions "For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligationtransferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property."
 
 Pub. L. 108–357, §835(b)(5)(B), inserted before period at end of concluding provisions ", and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property".
 
@@ -190,7 +190,7 @@ Subsec. (a)(7)(B). Pub. L. 108–357, §835(b)(8)(B), reenacted heading without 
 
 <b>1989</b>—Subsec. (a)(3). Pub. L. 101–239 substituted "subparagraph (A)" for "this subparagraph" in last sentence.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1006(t)(5)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: "The term 'regular interest' means an interest in a REMIC the terms of which are fixed on the startup day, and which—
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1006(t)(5)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'regular interest' means an interest in a REMIC the terms of which are fixed on the startup day, and which—
 
 &emsp;"(A) unconditionally entitles the holder to receive a specified principal amount (or other similar amount), and
 

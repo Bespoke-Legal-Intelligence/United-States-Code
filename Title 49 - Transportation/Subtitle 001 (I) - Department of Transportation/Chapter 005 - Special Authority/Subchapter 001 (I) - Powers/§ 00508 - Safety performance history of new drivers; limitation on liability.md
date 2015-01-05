@@ -38,7 +38,7 @@ Persons knowingly furnishing false information.—Subsection (a) does not apply 
 
 (c)
 
-Preemption of State and Local Law.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using safety performance records in accordance with regulations issued by the Secretary to carry out this section. Notwithstanding any provision of law, written authorization shall not be required to obtain information on the motor vehicle driving record of an individual under consideration for employment with a motor carrier.
+Preemption of State and Local Law.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using safety performance records in accordance with regulations issued by the Secretary to carry out this section. Notwithstanding any provision of law, written authorization shall not be required to obtain information on the motor vehicle driving record ofan individual under consideration for employment with a motor carrier.
 
 (Added Pub. L. 105–178, title IV, §4014(a)(1), June 9, 1998, 112 Stat. 409.)
 

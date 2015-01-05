@@ -34,7 +34,7 @@ The Chairman of the Board shall be the spokesman for the Board and shall represe
 
 #### (f) Audit by Government Accountability Office
 
-The financial transactions of the Administration shall be subject to audit by the GovernmentAccountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
+The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
 (June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, §204, Aug. 7, 1998, 112 Stat. 922; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -84,11 +84,11 @@ Study.—The Secretary \[of the Treasury\] shall conduct a study of—
 
 &emsp;"(1) the differences between credit unions and other federally insured financial institutions, including regulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
 
-&emsp;"(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
+&emsp;"(2) the potential effects of the application of Federal laws, including Federal tax laws, on creditunions in the same manner as those laws are applied to other federally insured financial institutions.
 
 "(b)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shallsubmit a report to the Congress on the results of the study required by subsection (a)."
+Report.—Not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit a report to the Congress on the results of the study required by subsection (a)."
 
 #### Study of Corporate Credit Unions
 

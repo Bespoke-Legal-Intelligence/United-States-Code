@@ -44,7 +44,7 @@ Quorum.—One-third of the members of the Council shall constitute a quorum, and
 
 (h)
 
-Associated Committees.—Subject to appointment by the Chairperson, an individual who is not a member of the Council may be designated as a member of a committee associatedwith the Council. Such an individual shall serve without cost to the Federal Government.
+Associated Committees.—Subject to appointment by the Chairperson, an individual who is not a member of the Council may be designated as a member of a committee associated with the Council. Such an individual shall serve without cost to the Federal Government.
 
 (Added Pub. L. 106–292, §1, Oct. 12, 2000, 114 Stat. 1031.)
 

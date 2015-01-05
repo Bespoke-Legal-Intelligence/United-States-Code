@@ -12,7 +12,7 @@ Public agency.—The term "public agency" means—
 
 &emsp;&emsp;(B) a political subdivision of a State (including a unit of local government or economic development district);
 
-&emsp;&emsp;(C) a department, agency, or instrumentality of a State (including instrumentalitiescreated by compact or other agreement between States or political subdivisions); or
+&emsp;&emsp;(C) a department, agency, or instrumentality of a State (including instrumentalities created by compact or other agreement between States or political subdivisions); or
 
 &emsp;&emsp;(D) an Indian tribe, band, group, pueblo, or community located on a state reservation.
 
@@ -88,7 +88,7 @@ Recipients and purposes.—The Administrator shall transfer to a state agency pr
 
 &emsp;&emsp;&emsp;(viii) a library serving free all residents of a community, district, State, or region; or
 
-&emsp;&emsp;&emsp;(ix) a historic light station as defined under section 308(e)(2) of the National Historic Preservation Act (16 U.S.C. 470w–7(e)(2)), including a historic light station conveyed under subsection (b) of that section, notwithstanding the number of hours that the historic light station is open to the public; or
+&emsp;&emsp;&emsp;(ix) a historic light station as defined under section 305101(4) of title 54, including a historic light station conveyed under section 305103 of title 54, notwithstanding the number of hours that the historic light station is open to the public; or
 
 &emsp;&emsp;(C) for purposes of providing services to veterans (as defined in section 101 of title 38), to an organization whose—
 
@@ -110,7 +110,7 @@ Determination.—The Secretary of Defense shall determine whether surplus person
 
 &emsp;(2)
 
-Property usable for special interest activities.—If the Secretary of Defense determines that the property is usable and necessary for educational activities which are of special interest to the armed services, the Secretary shall allocate the property for transfer by the Administrator to the appropriate state agency for distribution through donation to the educational activities.
+Property usable for special interest activities.—If the Secretary of Defense determines that the property is usable and necessary for educational activities which are of special interest to the armed services, the Secretary shall allocate the property for transfer by the Administrator to the appropriate stateagency for distribution through donation to the educational activities.
 
 &emsp;(3)
 
@@ -250,7 +250,7 @@ Conditions.—Retention of surplus property under this paragraph is subject to c
 
 &emsp;&emsp;&emsp;(iii) the Secretary of Health and Human Services, for property transferred under section 550(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, §5, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 111–338, §2, Dec. 22, 2010, 124 Stat. 3590; Pub. L. 113–26, §2, Aug. 9, 2013, 127 Stat. 502.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, §5, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 111–338, §2, Dec. 22, 2010, 124 Stat. 3590; Pub. L. 113–26, §2, Aug. 9, 2013, 127 Stat. 502; Pub. L. 113–287, §5(j)(1), Dec. 19, 2014, 128 Stat. 3269.)
 
 Historical and Revision Notes
 
@@ -300,6 +300,8 @@ In subsection (f)(1)(B)–(D) and (4)(B), the words "Secretary of Education" and
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(3)(B)(ix). Pub. L. 113–287 substituted "section 305101(4) of title 54" for "section 308(e)(2) of the National Historic Preservation Act (16 U.S.C. 470w–7(e)(2))" and "section 305103 of title 54" for "subsection (b) of that section".
+
 <b>2013</b>—Subsec. (c)(3)(B)(viii), (x). Pub. L. 113–26, §2(2), inserted "or" at end of cl. (viii) and struck out cl. (x) which read as follows: "an organization whose—
 
 &emsp;"(I) membership comprises substantially veterans (as defined under section 101 of title 38); and
@@ -314,7 +316,7 @@ Subsec. (c)(3)(C). Pub. L. 113–26, §2(1), (3), added subpar. (C).
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out asa note under section 5316 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 
@@ -364,7 +366,7 @@ Sec. 4. <i>Definitions</i>. For the purposes of this order: (a) "Schools" means 
 
 (b) "Community-based educational organizations" means nonprofit entities that are engaged in collaborative projects with schools or that have education as their primary focus. Such organizations shall qualify as nonprofit educational institutions or organizations for purposes of section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended \[now 40 U.S.C. 549\].
 
-(c) "Educationally useful Federal equipment" means computers and related peripheral tools (e.g., printers, modems, routers, and servers), including telecommunications and research equipment, that are appropriate for use in prekindergarten, elementary, middle, or secondary school education. It shall also include computer software, where the transfer of licenses is permitted.
+(c) "Educationally useful Federal equipment" means computers and related peripheral tools (e.g., printers, modems, routers, and servers), including telecommunications and research equipment, that are appropriatefor use in prekindergarten, elementary, middle, or secondary school education. It shall also include computer software, where the transfer of licenses is permitted.
 
 (d) "Nonprofit reuse or recycling program" means a 501(c) organization able to upgrade computer equipment at no or low cost to the school or nonprofit organization taking title to it.
 

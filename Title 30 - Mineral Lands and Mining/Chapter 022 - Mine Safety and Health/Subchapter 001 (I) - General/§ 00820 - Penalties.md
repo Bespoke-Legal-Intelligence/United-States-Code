@@ -10,7 +10,7 @@
 
 (B) The minimum penalty for any order issued under section 814(d)(2) of this title shall be $4,000.
 
-(4) Nothing in this subsection shall be construed to prevent an operator from obtaining a review, in accordance with section 816 of thistitle, of an order imposing a penalty described in this subsection. If a court, in making such review, sustains the order, the court shall apply at least the minimum penalties required under this subsection.
+(4) Nothing in this subsection shall be construed to prevent an operator from obtaining a review, in accordance with section 816 of this title, of an order imposing a penalty described in this subsection. If a court, in making such review, sustains the order, the court shall apply at least the minimum penalties required under this subsection.
 
 #### (b) Civil penalty for failure to correct violation for which citation has been issued
 
@@ -20,7 +20,7 @@
 
 #### (c) Liability of corporate directors, officers, and agents
 
-Whenever a corporate operator violates a mandatory health or safety standard or knowingly violates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) of this section or section 815(c) of this title, any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d) of this section.
+Whenever a corporate operator violates a mandatory health or safety standard or knowinglyviolates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) or section 815(c) of this title, any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d).
 
 #### (d) Criminal penalties
 
@@ -52,7 +52,7 @@ Civil penalties owed under this chapter shall be paid to the Secretary for depos
 
 #### (k) Compromise, mitigation, and settlement of penalty
 
-No proposed penalty which has been contested before the Commission under section 815(a) ofthis title shall be compromised, mitigated, or settled except with the approval of the Commission. No penalty assessment which has become a final order of the Commission shall be compromised, mitigated, or settled except with the approval of the court.
+No proposed penalty which has been contested before the Commission under section 815(a) of this title shall be compromised, mitigated, or settled except with the approval of the Commission. No penalty assessment which has become a final order of the Commission shall be compromised, mitigated, or settled except with the approval of the court.
 
 #### (l) Inapplicability to black lung benefit provisions
 

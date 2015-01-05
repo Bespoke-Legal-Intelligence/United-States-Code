@@ -24,7 +24,7 @@ If the repeals required by subsection (a) of this section are implemented, the f
 
 #### (B) Subsequent appointments
 
-&emsp;&emsp;After the initial appointments, the NAIC shall provide a list of at least six recommended candidates for the Board to the President by January 15 of each subsequent year. If the NAIC fails to provide a list by that date, or if any list that is provided doesnot include at least six recommended candidates or comply with the requirements of section 6756(c) of this title, the President, with the advice and consent of the Senate, shall make the requisite appointments without considering the views of the NAIC.
+&emsp;&emsp;After the initial appointments, the NAIC shall provide a list of at least six recommended candidates for the Board to the President by January 15 of each subsequent year. If the NAIC fails to provide a list by that date, or if any list that is provided does not include at least six recommended candidates or comply with the requirements of section 6756(c) of this title, the President, with the advice and consent of the Senate, shall make the requisite appointments without considering the views of the NAIC.
 
 #### (C) Presidential oversight
 

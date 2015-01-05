@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each Indian tribe that adopts a tribal probate code under subsection (a) of this section shall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
+&emsp;&emsp;Each Indian tribe that adopts a tribal probate code under subsection (a) of this sectionshall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
 
 #### (B) Consequence of failures to approve or disapprove a tribal probate code
 
@@ -122,7 +122,7 @@
 
 #### (ii) Recording of interest
 
-&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relating to the acquisition by the Indian tribe of an interest in a family farm involved shall be recorded as part of the deed relating to the interest involved.
+&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relating to the acquisition by the Indian tribe of an interest in a family farm involved shall berecorded as part of the deed relating to the interest involved.
 
 #### (iii) Mortgage and foreclosure
 
@@ -192,7 +192,7 @@ Subsec. (c)(1). Pub. L. 108–374, §6(a)(3)(B)(i)(I), (III), substituted "Autho
 
 Subsec. (c)(1)(A). Pub. L. 108–374, §6(a)(3)(B)(i)(II), which directed the substitution of "section 207(b)(2)(A)(ii) of this title" for "section 207(a)(6)(A) of this title" in the original, could not be executed, because "of this title" did not appear in the original.
 
-Subsec. (c)(2)(A). Pub. L. 108–374, §6(a)(3)(B)(ii)(I), substituted "Inapplicability to certain interests" for"In general" in heading, designated existing provisions as cl. (i) and inserted heading, inserted subcl. (I) designation and added subcl. (II), and added cls. (ii) to (iv).
+Subsec. (c)(2)(A). Pub. L. 108–374, §6(a)(3)(B)(ii)(I), substituted "Inapplicability to certain interests" for "In general" in heading, designated existing provisions as cl. (i) and inserted heading, inserted subcl. (I) designation and added subcl. (II), and added cls. (ii) to (iv).
 
 Subsec. (c)(2)(B). Pub. L. 108–374, §6(a)(3)(B)(ii)(II), which directed the substitution of "paragraph (1)" for "subparagraph (A) or a non-Indian devisee described in section 2206(a)(6)(B) of this title" was executed by making the substitution for language which did not contain the words "of this title" in the original, to reflect the probable intent of Congress.
 

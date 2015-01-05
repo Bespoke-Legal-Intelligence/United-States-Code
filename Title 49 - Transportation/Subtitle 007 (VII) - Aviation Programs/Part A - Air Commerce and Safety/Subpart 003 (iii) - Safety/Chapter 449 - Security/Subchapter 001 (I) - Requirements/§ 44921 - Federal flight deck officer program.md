@@ -84,7 +84,7 @@ In general.—The Under Secretary shall base the requirements for the training o
 
 Elements.—The training of a Federal flight deck officer shall include, at a minimum, the following elements:
 
-&emsp;&emsp;&emsp;(i) Training to ensure that the officer achieves the level of proficiency with a firearm required under subparagraph (C)(i).
+&emsp;&emsp;&emsp;(i) Training to ensure that the officer achieves the level of proficiency with afirearm required under subparagraph (C)(i).
 
 &emsp;&emsp;&emsp;(ii) Training to ensure that the officer maintains exclusive control over the officer's firearm at all times, including training in defensive maneuvers.
 

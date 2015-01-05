@@ -120,7 +120,7 @@ Members.—The Advisory Committee shall be composed of the following members:
 
 &emsp;&emsp;"(C) The Director of the Office of Management and Budget, or the Director's designee.
 
-&emsp;&emsp;"(D) Two members who are elected members of the governing branches of eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such memberto be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
+&emsp;&emsp;"(D) Two members who are elected members of the governing branches of eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such member to be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
 
 &emsp;&emsp;"(E) Two members who are elected members of school boards for, superintendents from, or teachers employed by, school districts in eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such member to be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
 
@@ -154,7 +154,7 @@ Executive director.—The Advisory Committee shall have an Executive Director, w
 
 &emsp;&emsp;"(B)
 
-Other staff.—In addition to authority to appoint personnel subject to the provisions of title 5, United States Code, governing appointments to the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Advisory Committee shall have authority to enter into contracts with private or public organizations which may furnish the Advisory Committee with such administrative and technical personnel as may be necessary to carry out the functions of the Advisory Committee under this section. To the extent practicable, such administrative and technical personnel, and other necessary support services, shall be provided for the Advisory Committee by the Chief of the Forest Service and the Director of the Bureau of Land Management.
+Other staff.—In addition to authority to appoint personnel subject to the provisions of title 5, United States Code, governing appointments to the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Advisory Committee shall have authority to enter into contracts with private or public organizations which may furnish the Advisory Committee with such administrative and technical personnel as may be necessary to carry out the functions of the Advisory Committee under this section. To the extent practicable, such administrative and technical personnel, and other necessary support services, shallbe provided for the Advisory Committee by the Chief of the Forest Service and the Director of the Bureau of Land Management.
 
 &emsp;&emsp;"(C)
 
@@ -210,7 +210,7 @@ Termination of Advisory Committee.—The Advisory Committee shall terminate on S
 
 "(f)
 
-Funding Source.—At the request of the Executive Director of the Advisory Committee, the Secretaryof Agriculture shall provide funds from any account available to the Secretary, not to exceed $200,000 in fiscal year 2001, for the work of the Advisory Committee necessary to meet the requirements of this section."
+Funding Source.—At the request of the Executive Director of the Advisory Committee, the Secretary of Agriculture shall provide funds from any account available to the Secretary, not to exceed $200,000 in fiscal year 2001, for the work of the Advisory Committee necessary to meet the requirements of this section."
 
 \[Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, provided that the amendment made by section 1 to section 320 of Pub. L. 106–291, set out above, is effective as of Oct. 11, 2003.\]
 

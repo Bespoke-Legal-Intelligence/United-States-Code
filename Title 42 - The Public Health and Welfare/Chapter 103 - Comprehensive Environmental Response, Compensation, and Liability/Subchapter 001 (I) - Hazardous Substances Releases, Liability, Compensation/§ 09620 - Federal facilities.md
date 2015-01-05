@@ -178,7 +178,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (iii) Warranty
 
-&emsp;&emsp;&emsp;When all response action necessary to protect human health and the environment with respect to any substance remaining on the property on the date of transfer has been taken, the United Statesshall execute and deliver to the transferee an appropriate document containing a warranty that all such response action has been taken, and the making of the warranty shall be considered to satisfy the requirement of subparagraph (A)(ii)(I).
+&emsp;&emsp;&emsp;When all response action necessary to protect human health and the environment with respect to any substance remaining on the property on the date of transfer has been taken, the United States shall execute and deliver to the transferee an appropriate document containing a warranty that all such response action has been taken, and the making of the warranty shall be considered to satisfy the requirement of subparagraph (A)(ii)(I).
 
 #### (iv) Federal responsibility
 
@@ -210,7 +210,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;(ii) In the case of real property described in subparagraph (E)(i)(II) on which operations have been closed or realigned or scheduled for closure or realignment pursuant to a base closure law described in subparagraph (E)(ii)(I) or (E)(ii)(II) by October 19, 1992, the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after October 19, 1992.
 
-&emsp;(iii) In the case of real property described in subparagraph (E)(i)(II) on which operations are closed or realigned or become scheduled for closure or realignment pursuant to the base closure law described in subparagraph (E)(ii)(II) after October 19, 1992, the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after the date by which a joint resolution disapproving the closure or realignment of the real property under section 2904(b) of such base closure law must be enacted, and such a joint resolution has not been enacted.
+&emsp;(iii) In the case of real property described in subparagraph (E)(i)(II) on which operations are closed or realigned or become scheduled for closure or realignment pursuant to the base closure law described in subparagraph (E)(ii)(II) after October 19, 1992, the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after the date bywhich a joint resolution disapproving the closure or realignment of the real property under section 2904(b) of such base closure law must be enacted, and such a joint resolution has not been enacted.
 
 &emsp;(iv) In the case of real property described in subparagraphs (E)(i)(II) on which operations are closed or realigned pursuant to a base closure law described in subparagraph (E)(ii)(III) or (E)(ii)(IV), the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after the date on which the real property is selected for closure or realignment pursuant to such a base closure law.
 
@@ -218,7 +218,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;(i) a covenant warranting that any response action or corrective action found to be necessary after the date of such sale or transfer shall be conducted by the United States; and
 
-&emsp;&emsp;(ii) a clause granting the United States access to the property in any case in which aresponse action or corrective action is found to be necessary after such date at such property, or such access is necessary to carry out a response action or corrective action on adjoining property.
+&emsp;&emsp;(ii) a clause granting the United States access to the property in any case in which a response action or corrective action is found to be necessary after such date at such property, or such access is necessary to carry out a response action or corrective action on adjoining property.
 
 &emsp;(E)(i) This paragraph applies to—
 
@@ -254,7 +254,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### (2) Classified information
 
-&emsp;Notwithstanding any other provision of law, all requirements of the Atomic Energy Act \[42 U.S.C. 2011 et seq.\] and all Executive orders concerning the handling of restricted data and national security information, including "need to know" requirements, shall be applicable to any grant of access to classified information under the provisions of this chapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\].
+&emsp;Notwithstanding any other provision of law, all requirements of the Atomic Energy Act \[42 U.S.C. 2011 et seq.\] and all Executive orders concerning the handling of restricted data and national security information, including"need to know" requirements, shall be applicable to any grant of access to classified information under the provisions of this chapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\].
 
 (Pub. L. 96–510, title I, §120, as added Pub. L. 99–499, title I, §120(a), Oct. 17, 1986, 100 Stat. 1666; amended Pub. L. 102–426, §§3–5, Oct. 19, 1992, 106 Stat. 2175–2177; Pub. L. 104–106, div. B, title XXVIII, §2834, Feb. 10, 1996, 110 Stat. 559; Pub. L. 104–201, div. A, title III, §§330, 331, 334, Sept. 23, 1996, 110 Stat. 2484, 2486.)
 
@@ -264,7 +264,7 @@ This chapter, referred to in subsecs. (a)(1) to (3), (c)(1), (d)(2)(B), and (j)(
 
 Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
 
-The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997,as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Title III of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (j), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
 
@@ -318,7 +318,7 @@ Pub. L. 102–426, §2, Oct. 19, 1992, 106 Stat. 2174, provided that: "The Congr
 
 &emsp;"(2) Each department, agency, or instrumentality of the United States, in cooperation with local communities, should expeditiously identify real property that offers the greatest opportunity for reuse and redevelopment on each facility under the jurisdiction of the department, agency, or instrumentality where operations are terminating.
 
-&emsp;"(3) Remedial actions, including remedial investigations and feasibility studies, and corrective actions at such Federal facilities should be expedited in a manner to facilitate environmental protection andthe sale or transfer of such excess real property for the purpose of mitigating adverse economic effects on the surrounding community.
+&emsp;"(3) Remedial actions, including remedial investigations and feasibility studies, and corrective actions at such Federal facilities should be expedited in a manner to facilitate environmental protection and the sale or transfer of such excess real property for the purpose of mitigating adverse economic effects on the surrounding community.
 
 &emsp;"(4) Each department, agency, or instrumentality of the United States, in accordance with applicable law, should make available without delay such excess real property.
 

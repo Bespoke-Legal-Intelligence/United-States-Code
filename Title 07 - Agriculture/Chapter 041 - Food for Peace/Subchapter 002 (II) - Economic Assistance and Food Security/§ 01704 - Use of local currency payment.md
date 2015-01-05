@@ -10,7 +10,7 @@ Foreign currencies received by the Secretary under this subchapter shall be depo
 
 #### (c) Activities
 
-The proceeds from the payments referred to in subsection (a) of this section may be used in the appropriate developing country, through agreements with recipient governments, private voluntary organizations, and cooperatives, for the following:
+The proceeds from the payments referred to in subsection (a) may be used in the appropriate developing country, through agreements with recipient governments, private voluntary organizations, and cooperatives, for the following:
 
 #### (1) Agricultural development
 
@@ -58,13 +58,13 @@ The proceeds from the payments referred to in subsection (a) of this section may
 
 #### (1) Exemption
 
-&emsp;Section 1306 of title 31 shall not apply to local currencies used by the President under paragraphs (1) through (7) of subsection (c) of this section.
+&emsp;Section 1306 of title 31 shall not apply to local currencies used by the President under paragraphs (1) through (7) of subsection (c).
 
 #### (2) Use of currencies by other agencies
 
 &emsp;Any department or agency of the Federal Government other than the Department of Agriculture using any such local currencies for a purpose for which funds have been appropriated shall reimburse the Commodity Credit Corporation in an amount equivalent to the dollar value of the currencies used.
 
-(July 10, 1954, ch. 469, title I, §104, 68 Stat. 456; Aug. 26, 1954, ch. 937, title V, §544(h), (i), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 564, 565; amended Aug. 3, 1956, ch. 933, §2, 70 Stat. 988; Pub. L. 85–128, §1(4), Aug. 13, 1957, 71 Stat. 345; Aug. 26, 1954, ch. 937, title V, §544(c), as added Pub. L. 85–141, §11(b)(2), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, §502(l), June 30, 1958, 72 Stat. 275; Pub. L. 85–931, §3, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 86–108, ch. VII, §701(d), July 24, 1959, 73 Stat. 258; Pub. L. 86–341, title I, §§4–9, Sept. 21, 1959, 73 Stat. 606, 607; Pub. L. 87–128, title II, §201(3), Aug. 8, 1961, 75 Stat. 306; Pub. L. 87–195, pt. III, §612(b), pt. IV, §704, Sept. 4, 1961, 75 Stat. 443, 463; Pub. L. 87–839, §2, Oct. 18, 1962, 76 Stat. 1074; Pub. L. 88–205, pt. III, §301(d)(2), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–638, §§1(6)–(10), 2, Oct. 8, 1964, 78 Stat. 1035–1038; Pub. L. 89–106, §5, Aug. 4, 1965, 79 Stat. 432; Pub. L. 89–808, §2(B), Nov. 11, 1966, 80 Stat. 1528; Pub. L. 90–436, §§2(a), 3, 6, July 29, 1968, 82 Stat. 450, 451; Pub. L. 91–524, title VII, §702, Nov. 30, 1970, 84 Stat. 1379; Pub. L. 94–161, title II, §204, Dec. 20, 1975, 89 Stat. 852; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title IV, §§401(5), 402, Dec. 29, 1981, 95 Stat. 1537; Pub. L. 100–418, title IV, §4401, Aug. 23, 1988, 102 Stat. 1400; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3635; Pub. L. 104–127, title II, §205, Apr. 4, 1996, 110 Stat. 953; Pub. L. 109–121, §5(b), Dec. 1, 2005, 119 Stat. 2537; Pub. L. 110–246, title III, §3006, June 18, 2008, 122 Stat. 1822.)
+(July 10, 1954, ch. 469, title I, §104, 68 Stat. 456; Aug. 26, 1954, ch. 937, title V, §544(h), (i), asadded July 18, 1956, ch. 627, §11(a), 70 Stat. 564, 565; amended Aug. 3, 1956, ch. 933, §2, 70 Stat. 988; Pub. L. 85–128, §1(4), Aug. 13, 1957, 71 Stat. 345; Aug. 26, 1954, ch. 937, title V, §544(c), as added Pub. L. 85–141, §11(b)(2), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, §502(l), June 30, 1958, 72 Stat. 275; Pub. L. 85–931, §3, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 86–108, ch. VII, §701(d), July 24, 1959, 73 Stat. 258; Pub. L. 86–341, title I, §§4–9, Sept. 21, 1959, 73 Stat. 606, 607; Pub. L. 87–128, title II, §201(3), Aug. 8, 1961, 75 Stat. 306; Pub. L. 87–195, pt. III, §612(b), pt. IV, §704, Sept. 4, 1961, 75 Stat. 443, 463; Pub. L. 87–839, §2, Oct. 18, 1962, 76 Stat. 1074; Pub. L. 88–205, pt. III, §301(d)(2), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–638, §§1(6)–(10), 2, Oct. 8, 1964, 78 Stat. 1035–1038; Pub. L. 89–106, §5, Aug. 4, 1965, 79 Stat. 432; Pub. L. 89–808, §2(B), Nov. 11, 1966, 80 Stat. 1528; Pub. L. 90–436, §§2(a), 3, 6, July 29, 1968, 82 Stat. 450, 451; Pub. L. 91–524, title VII, §702, Nov. 30, 1970, 84 Stat. 1379; Pub. L. 94–161, title II, §204, Dec. 20, 1975, 89 Stat. 852; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title IV, §§401(5), 402, Dec. 29, 1981, 95 Stat. 1537; Pub. L. 100–418, title IV, §4401, Aug. 23, 1988, 102 Stat. 1400; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3635; Pub. L. 104–127, title II, §205, Apr. 4, 1996, 110 Stat. 953; Pub. L. 109–121, §5(b), Dec. 1, 2005, 119 Stat. 2537; Pub. L. 110–246, title III, §3006, June 18, 2008, 122 Stat. 1822.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Subsec. (k). Pub. L. 90–436, §6, added subsec. (k).
 
 Subsec. (a). Pub. L. 89–808 redesignated subsec. (f) as (a), struck out "abroad" after "obligations" and inserted "(including obligations entered into pursuant to other legislation)". Former subsec. (a) redesignated (b)(1).
 
-Subsec. (b). Pub. L. 89–808 struck out subsec. (b) which provided for purchase, in such amounts as may be specified from time to time in appropriation acts, strategic or other materials for a supplemental stockpile of such materials as the president may determine from time to time.
+Subsec. (b). Pub. L. 89–808 struck out subsec. (b) which provided for purchase, in such amounts as may be specified from time to time in appropriation acts,strategic or other materials for a supplemental stockpile of such materials as the president may determine from time to time.
 
 Subsec. (b)(1). Pub. L. 89–808 redesignated former subsec. (a) as (b)(1), inserted "For carrying out programs of United States Government agencies to—" preceding par. (1) and restriction against making a release until expiration of requisite number of days following transmittal to congressional committees, struck out "after September 21, 1959," before "shall be set aside" and "<i>Provided further</i>, That no such funds shall be allocated under this subsection after June 30, 1960, except as may be specified from time to time, in appropriation acts" before convertibility of proceeds provision, substituted "as he determines cannot be effectively used for agricultural market development purposes under this section" for "as he determines not to be needed, within a reasonable period of time, for such purpose:" and "sale of agricultural commodities" for "sale of surplus agricultural commodities" and inserted provisions of utilization of nonprofit agricultural trade organizations to maximum extent possible in carrying out agricultural market development activities and inclusion as a purpose of subsec. (b) such representation of agricultural industries as may be required during course of discussions on trade programs relating either to individual commodities or groups of commodities.
 
@@ -140,7 +140,7 @@ Subsec. (g). Pub. L. 89–808 redesignated former subsec. (d) as (g), struck out
 
 Subsec. (h). Pub. L. 89–808 added subsec. (h) Former subsec. (h) redesignated (b)(2).
 
-Subsec. (i). Pub. L. 89–808 substituted provisions respecting use of foreign currencies for paying costs outside the United States of carrying out food production assistance programs for former provisions for financing\($5,000,000 fiscal year limitation) translation, publication, and distribution of books and periodicals, including Government publications, abroad.
+Subsec. (i). Pub. L. 89–808 substituted provisions respecting use of foreign currencies for paying costs outside the United States of carrying out food production assistance programs for former provisions for financing ($5,000,000 fiscal year limitation) translation, publication, and distribution of books and periodicals, including Government publications, abroad.
 
 Subsec. (j). Pub. L. 89–808 redesignated subsec. (t) as (j), authorized sale of foreign currencies to nonprofit organizations, and struck out provisions making the currencies available for sale at United States embassies or other convenient locations, describing such currencies as acquired through operations under Foreign Assistance Act of 1961, as amended, Mutual Security Act of 1954, as amended, or any Act repealed thereby, or Agricultural Trade Development and Assistance Act of 1954, as amended, prohibiting such sales for travel purposes under agreement entered into with another country or when so committed by agreement to other uses, depositing dollars from such sales into United States Treasury as miscellaneous receipts, and treating dollars deposited into the CCC account as a reimbursement under section 1705 of this title. Former subsec. (j) provided for assistance to schools, libraries, and community centers abroad founded or sponsored by United States citizens and serving as demonstration centers, and is now covered by subsec. (b)(2) of this section.
 
@@ -154,7 +154,7 @@ Subsecs. (o), (p). Pub. L. 89–808 struck out subsec. (o) which provided for as
 
 Subsec. (q). Pub. L. 89–808 redesignated subsec. (q) as (d).
 
-Subsec. (r). Pub. L. 89–808 struck out subsec. (r) which provided for financing ($2,500,000 fiscal year limitation) preparation, distribution, and exhibition of audio-visual informational and educational materials abroad without limiting or affecting use of foreign currencies for such materials in connection with trade fairs and other market development activities under subsec. (a) of this section.
+Subsec. (r). Pub. L. 89–808 struck out subsec. (r) which provided for financing ($2,500,000 fiscal year limitation) preparation, distribution, and exhibition of audio-visual informational and educational materials abroadwithout limiting or affecting use of foreign currencies for such materials in connection with trade fairs and other market development activities under subsec. (a) of this section.
 
 Subsecs. (s), (t). Pub. L. 89–808 incorporated subsecs. (s) and (t) in subsec. (j), and struck out from former subsec. (s) "under such terms and conditions as the President may prescribe".
 
@@ -252,7 +252,7 @@ Pub. L. 85–141, §11(b)(1), repealed section 544(h), (i) of act Aug. 26, 1954,
 
 #### Payment From Foreign Currencies for Family Housing Projects or Community Facilities Constructed or Acquired by Department of Defense
 
-Pub. L. 86–500, title V, §509, June 8, 1960, 74 Stat. 186, as amended by Pub. L. 110–246, title III, §3001(c), June18, 2008, 122 Stat. 1821, provided that: "Notwithstanding the provisions of any other law, at least 75 per centum of the total cost of any family housing project or community facility hereafter constructed or acquired in any foreign country by the Department of Defense or any military department shall be paid for from foreign currencies acquired by the Commodity Credit Corporation pursuant to the provisions of the Food for Peace Act \[this chapter\]; except that the following projects authorized pursuant to this Act shall not be subject to this requirement:
+Pub. L. 86–500, title V, §509, June 8, 1960, 74 Stat. 186, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Notwithstanding the provisions of any other law, at least 75 per centum of the total cost of any family housing project or community facility hereafter constructed or acquired in any foreign country by the Department of Defense or any military department shall be paid for from foreign currencies acquired by the Commodity Credit Corporation pursuant to the provisions of the Food for Peace Act \[this chapter\]; except that the following projects authorized pursuant to this Act shall not be subject to this requirement:
 
 "Air Force activities, Japan, one hundred fifty units;
 
@@ -278,7 +278,7 @@ Use of foreign currencies accruing under this subchapter to carry out purposes o
 
 #### Use of Foreign Currencies
 
-Foreign currencies accruing to United States under this subchapter may be used for purposes set forth in this section, see Ex. Ord. No. 12752, §2(b)(1), (2), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
+Foreign currencies accruing to United States under this subchapter may be used for purposes set forth inthis section, see Ex. Ord. No. 12752, §2(b)(1), (2), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

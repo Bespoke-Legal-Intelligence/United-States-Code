@@ -20,7 +20,7 @@ Explosives Detection Systems.—
 
 In general.—The Under Secretary of Transportation for Security shall take all necessary action to ensure that—
 
-&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that allUnited States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage no later than December 31, 2002, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
+&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that all United States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage no later than December 31, 2002, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
 
 &emsp;&emsp;(B) all systems deployed under subparagraph (A) are fully utilized; and
 
@@ -80,13 +80,13 @@ Aviation security preclearance agreement defined.—In this paragraph, the term 
 
 Report.—The Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
 
-&emsp;&emsp;&emsp;(i) A list of airports outside the United States from which a flight or flight segment traveled to the United States for which the Assistant Secretary determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
+&emsp;&emsp;&emsp;(i) A list of airports outside the United States from which a flight or flight segment traveled to the United States forwhich the Assistant Secretary determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
 
 &emsp;&emsp;&emsp;(ii) The amount of Federal savings generated from the exercise of such authority.
 
 (e)
 
-Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but notlater than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosives detection system. Such alternative means may include 1 or more of the following:
+Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosives detection system. Such alternative means may include 1 or more of the following:
 
 &emsp;(1) A bag-match program that ensures that no checked baggage is placed aboard an aircraft unless the passenger who checked the baggage is aboard the aircraft.
 
@@ -158,7 +158,7 @@ In general.—The Under Secretary shall order the deployment of law enforcement 
 
 &emsp;(2)
 
-Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall orderthe deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
+Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
 
 (i)
 
@@ -446,7 +446,7 @@ Act Defined.—In this section, the term 'Act' includes the amendments made by t
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security,relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Transition Provisions
 
@@ -658,11 +658,11 @@ In general.—An approval resolution shall be referred to the committees of the 
 
 &emsp;&emsp;"(B)
 
-Final passage.—A vote on final passage of the resolution shall be taken in each House on or before the close of the 15th day after the resolution is reported by the committee or committees of that House to which it was referred, or after such committee or committees have been discharged from further consideration of the resolution.
+Final passage.—A vote on final passage of the resolution shall be taken in each House on orbefore the close of the 15th day after the resolution is reported by the committee or committees of that House to which it was referred, or after such committee or committees have been discharged from further consideration of the resolution.
 
 &emsp;&emsp;"(C)
 
-Computation of days.—For purposes of this paragraph, in computing a number of days in eitherHouse, there shall be excluded any day on which that House is not in session.
+Computation of days.—For purposes of this paragraph, in computing a number of days in either House, there shall be excluded any day on which that House is not in session.
 
 &emsp;"(6)
 
@@ -772,7 +772,7 @@ Deployment.—Within 6 months after the date of enactment of this Act \[Nov. 19,
 
 "(2)
 
-Screening of small aircraft.—Within 1 year after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives on the screening requirements applicable to passengers boarding, and property being carried aboard, aircraft with 60 seats or less usedin scheduled passenger service with recommendations for any necessary changes in those requirements."
+Screening of small aircraft.—Within 1 year after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives on the screening requirements applicable to passengers boarding, and property being carried aboard, aircraft with 60 seats or less used in scheduled passenger service with recommendations for any necessary changes in those requirements."
 
 #### Installation of Advanced Security Equipment; Agreements
 

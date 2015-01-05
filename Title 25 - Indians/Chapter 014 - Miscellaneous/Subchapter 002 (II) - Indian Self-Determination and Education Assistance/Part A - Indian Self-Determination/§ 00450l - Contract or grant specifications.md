@@ -28,7 +28,7 @@ Authority.—This agreement, denoted a Self-Determination Contract (referred to 
 
 &emsp;"(2)
 
-Purpose.—Each provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and each provision of this Contract shall be liberally construed for the benefit of the Contractor to transfer the funding and the following related functions, services, activities, and programs (or portions thereof), that are otherwise contractable under section 102(a) of such Act, including all related administrative functions, from the Federal Government to the Contractor: (List functions, services, activities, and programs).
+Purpose.—Each provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and each provision of this Contract shall be liberally construed forthe benefit of the Contractor to transfer the funding and the following related functions, services, activities, and programs (or portions thereof), that are otherwise contractable under section 102(a) of such Act, including all related administrative functions, from the Federal Government to the Contractor: (List functions, services, activities, and programs).
 
 "(b)
 
@@ -96,7 +96,7 @@ Recordkeeping system.—The Contractor shall maintain a recordkeeping system and
 
 &emsp;&emsp;"(C)
 
-Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
+Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, orduly authorized representative of such head unless—
 
 &emsp;&emsp;&emsp;"(i) the Contractor agrees to one or more additional visits; or
 
@@ -184,7 +184,7 @@ Effect of decisions.—The Secretary shall be bound by decisions made pursuant t
 
 &emsp;"(13)
 
-Administrative procedures of contractor.—Pursuant to the Indian Civil Rights Act of 1968 (25 U.S.C. 1301 et seq.), the laws, policies, and procedures of the Contractor shall provide for administrative due process (or the equivalent of administrative due process) with respect to programs, services, functions, and activities that are provided by the Contractor pursuant to this Contract.
+Administrative procedures of contractor.—Pursuant to the Indian Civil RightsAct of 1968 (25 U.S.C. 1301 et seq.), the laws, policies, and procedures of the Contractor shall provide for administrative due process (or the equivalent of administrative due process) with respect to programs, services, functions, and activities that are provided by the Contractor pursuant to this Contract.
 
 &emsp;"(14)
 
@@ -280,7 +280,7 @@ Other Provisions.—
 
 &emsp;"(1)
 
-Designated officials.—Not later than the effective date of this Contract, the United States shall provide to the Contractor, and theContractor shall provide to the United States, a written designation of a senior official to serve as a representative for notices, proposed amendments to the Contract, and other purposes for this Contract.
+Designated officials.—Not later than the effective date of this Contract, the United States shall provide to the Contractor, and the Contractor shall provide to the United States, a written designation of a senior official to serve as a representative for notices, proposed amendments to the Contract, and other purposes for this Contract.
 
 &emsp;"(2)
 
@@ -288,7 +288,7 @@ Contract modifications or amendment.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), no modification to this Contract shall take effect unless such modification is made in the form of a written amendment to the Contract, and the Contractor and the Secretary provide written consent for the modification.
+In general.—Except as provided in subparagraph (B), no modification to thisContract shall take effect unless such modification is made in the form of a written amendment to the Contract, and the Contractor and the Secretary provide written consent for the modification.
 
 &emsp;&emsp;"(B)
 

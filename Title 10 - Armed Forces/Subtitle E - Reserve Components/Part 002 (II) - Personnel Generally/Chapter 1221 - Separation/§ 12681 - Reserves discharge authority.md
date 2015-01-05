@@ -78,7 +78,7 @@ Reports.—Not later than April 15 and October 15 of each calendar year while th
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'congressional defense committees' means the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives.
+&emsp;"(1) The term 'congressional defense committees' means the Committees on Armed Services and theCommittees on Appropriations of the Senate and the House of Representatives.
 
 &emsp;"(2) The term 'off-site agreement' means the agreement on the restructuring of the Army National Guard and the Army Reserve."
 
@@ -174,7 +174,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 "(a)
 
-Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
+Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the forcereduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
 
 "(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
 
@@ -198,7 +198,7 @@ Annual Payment Period.—An annual payment granted to a member under this sectio
 
 "(e)
 
-Computation of Annual Payment.—(1) The annual payment for a member shall be equal to theamount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
+Computation of Annual Payment.—(1) The annual payment for a member shall be equal to the amount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
 
 "(2)(A) Subject to subparagraph (B) the percent applicable to a member for purposes of paragraph (1) is 5 percent plus 0.5 percent for each full year of service, computed under section 12732 of title 10, United States Code, that a member has completed in excess of 20 years before transfer to the Retired Reserve.
 
@@ -266,7 +266,7 @@ Chapter 30.—\[Amended section 3012(b)(1)(B) of Title 38, Veterans' Benefits.\]
 
 #### "SEC. 4420. COMMISSARY AND EXCHANGE PRIVILEGES.
 
-"The Secretary of Defense shall prescribe regulations to authorize a person who involuntarily ceases to be a member of the Selected Reserve during the force reduction transition period to continue to use commissary and exchange stores in the same manner as a member of the Selected Reserve for a period of two years beginning on the later of—
+"The Secretary of Defense shall prescribe regulations to authorize a person who involuntarily ceases to be a member of the Selected Reserve during the force reduction transition period to continue to use commissary and exchange stores in the same manner as a memberof the Selected Reserve for a period of two years beginning on the later of—
 
 &emsp;"(1) the date on which that person ceases to be a member of the Selected Reserve; or
 

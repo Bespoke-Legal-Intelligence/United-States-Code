@@ -50,7 +50,7 @@ The NTIA shall grant the initial registry the option periods available under the
 
 #### (1) In general
 
-&emsp;Only to the extent that such entities carry out functions under this section, the following entities are deemed to be interactive computer services for purposes of section 230(c) of the Communications Act of 1934 (47 U.S.C. 230(c)):
+&emsp;Only to the extent that such entities carry out functions under this section, the followingentities are deemed to be interactive computer services for purposes of section 230(c) of the Communications Act of 1934 (47 U.S.C. 230(c)):
 
 &emsp;&emsp;(A) The registry that operates and maintains the new domain.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Accounts for Appropriations for Defense Intelligence Elements.—The Secretary of Defense may transfer appropriations of the Department of Defense which are available for the activities of Defense intelligence elements to an account or accounts established for receipt of such transfers. Each such account may also receive transfers from the Director of National Intelligence if made pursuant to Section <sup>1</sup> 102A of the National Security Act of 1947 (50 U.S.C. 403–1),<sup>2</sup> and transfers and reimbursements arising from transactions, as authorized by law, between a Defense intelligence element and another entity. Appropriation balances in each such account may be transferred back to the account or accounts from which such appropriations originated as appropriation refunds.
+Accounts for Appropriations for Defense Intelligence Elements.—The Secretary of Defense may transfer appropriations of the Department of Defense which are available for the activities of Defense intelligence elements to an account or accounts established for receipt of such transfers. Each such account may also receive transfers from the Director of National Intelligence if made pursuant to section 102A of the National Security Act of 1947 (50 U.S.C. 3024) and transfers and reimbursements arising from transactions, as authorized by law, between a Defense intelligence element and another entity. Appropriation balances in each such account may be transferred back to the account or accounts from which such appropriations originated as appropriation refunds.
 
 (b)
 
@@ -10,7 +10,7 @@ Recordation of Transfers.—Transfers made pursuant to subsection (a) shall be r
 
 (c)
 
-Availability of Funds.—Funds transferred pursuant to subsection (a) shall remain available for the same time period and for the same purpose as the appropriation from which transferred, and shall remain subject to the same limitations provided in the act making the appropriation.
+Availability of Funds.—Funds transferred pursuant to subsection (a) shall remain available for the same time period and for the same purpose as the appropriation from which transferred, and shall remain subject to the same limitations provided in the law making the appropriation.
 
 (d)
 
@@ -18,15 +18,15 @@ Obligation and Expenditure of Funds.—Unless otherwise specifically authorized 
 
 (e)
 
-Defense Intelligence Element Defined.—In this section, the term "Defense intelligence element" means any of the Department of Defense agencies, offices, and elements included within the definition of "intelligence community" under section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).<sup>2</sup>
+Defense Intelligence Element Defined.—In this section, the term "Defense intelligence element" means any of the Department of Defense agencies, offices, and elements included within the definition of "intelligence community" under section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
 
-(Added Pub. L. 112–87, title IV, §433(a), Jan. 3, 2012, 125 Stat. 1894.)
+(Added Pub. L. 112–87, title IV, §433(a), Jan. 3, 2012, 125 Stat. 1894; amended Pub. L. 113–291, div. A, title X, §1071(c)(5), (f)(6), Dec. 19, 2014, 128 Stat. 3508, 3510.)
 
-#### References in Text
+#### Amendments
 
-The National Security Act of 1947, referred to in subsecs. (a) and (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Sections 3 and 102A of the Act are now classified to sections 3003 and 3024, respectively, of Title 50. For complete classification of this Act to the Code, see Tables.
+<b>2014</b>—Subsec. (a). Pub. L. 113–291, §1071(c)(5)(A), substituted "section 102A of the National Security Act of 1947 (50 U.S.C. 3024)" for "Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1)".
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+Subsec. (c). Pub. L. 113–291, §1071(f)(6), substituted "law" for "act".
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+Subsec. (e). Pub. L. 113–291, §1071(c)(5)(B), substituted "(50 U.S.C. 3003(4))" for "(50 U.S.C. 401a(4))".
 

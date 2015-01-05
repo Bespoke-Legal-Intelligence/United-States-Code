@@ -26,7 +26,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the course of the disease and the effects of the drug are sufficiently similar in adults and pediatric patients, the Secretary may conclude that pediatric effectiveness can be extrapolated from adequate and well-controlled studies inadults, usually supplemented with other information obtained in pediatric patients, such as pharmacokinetic studies.
+&emsp;&emsp;&emsp;If the course of the disease and the effects of the drug are sufficiently similar in adults and pediatric patients, the Secretary may conclude that pediatric effectiveness can be extrapolated from adequate and well-controlled studies in adults, usually supplemented with other information obtained in pediatric patients, such as pharmacokinetic studies.
 
 #### (ii) Extrapolation between age groups
 
@@ -184,7 +184,7 @@
 
 #### (C) Pediatric formulation not possible
 
-&emsp;&emsp;If a waiver is granted on the ground that it is not possible to develop a pediatric formulation, the waiver shall cover only the pediatric groups requiring that formulation. An applicant seeking either a full or partialwaiver shall submit to the Secretary documentation detailing why a pediatric formulation cannot be developed and, if the waiver is granted, the applicant's submission shall promptly be made available to the public in an easily accessible manner, including through posting on the Web site of the Food and Drug Administration.
+&emsp;&emsp;If a waiver is granted on the ground that it is not possible to develop a pediatric formulation, the waiver shall cover only the pediatric groups requiring that formulation. An applicant seeking either a full or partial waiver shall submit to the Secretary documentation detailing why a pediatric formulation cannot be developed and, if the waiver is granted, the applicant's submission shall promptly be made available to the public in an easily accessible manner, including through posting on the Web site of the Food and Drug Administration.
 
 #### (D) Labeling requirement
 
@@ -254,7 +254,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 &emsp;&emsp;&emsp;(ii) may determine that a written response to the initial pediatric study plan is sufficient to communicate comments on the initial pediatric study plan, and that no meeting is necessary; and
 
-&emsp;&emsp;&emsp;(iii) if the Secretary determines that no meeting is necessary, shall so notify the applicant and provide written comments ofthe Secretary as soon as practicable, but not later than 90 calendar days after the receipt of the initial pediatric study plan.
+&emsp;&emsp;&emsp;(iii) if the Secretary determines that no meeting is necessary, shall so notify the applicant and provide written comments of the Secretary as soon as practicable, but not later than 90 calendar days after the receipt of the initial pediatric study plan.
 
 #### (3) Agreed initial pediatric study plan
 
@@ -384,7 +384,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (1) Reporting in first 18-month period
 
-&emsp;Beginning on September 27, 2007, during the 18-month period beginning on the date a labeling change is made pursuant to subsection (g), the Secretary shall ensure that all adverse event reports that have been received for such drug (regardless of when such report was received) are referred to the Office of Pediatric Therapeutics. In considering such reports, the Director of such Office shall provide for the review of such reports by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to such reports.
+&emsp;Beginning on September 27, 2007, during the 18-month period beginning on the date a labeling change is made pursuant to subsection (g), the Secretary shall ensure that all adverse event reports that have been received for suchdrug (regardless of when such report was received) are referred to the Office of Pediatric Therapeutics. In considering such reports, the Director of such Office shall provide for the review of such reports by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to such reports.
 
 #### (2) Reporting in subsequent periods
 
@@ -538,7 +538,7 @@ Waivers and deferrals.—
 
 &emsp;&emsp;"(A)
 
-Waiver or deferral granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act \[Dec. 3, 2003\], a waiver or deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the waiver or deferral shall be a waiver or deferral under subsection (a) of section 505B of theFederal Food, Drug, and Cosmetic Act \[21 U.S.C. 355c(a)\], except that any date specified in such a deferral shall be extended by the number of days that is equal to the number of days between October 17, 2002, and the date of enactment of this Act.
+Waiver or deferral granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act \[Dec. 3, 2003\], a waiver or deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the waiver or deferral shall be a waiver or deferral under subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355c(a)\], except that any date specified in such a deferral shall be extended by the number of days that is equal to the number of days between October 17, 2002, and the date of enactment of this Act.
 
 &emsp;&emsp;"(B)
 

@@ -22,9 +22,9 @@ Historical and Revision Notes
 
 5 U.S.C. 773(c).
 
-Oct. 14, 1949, ch. 691, §208 “Sec. 23(c)”, 63 Stat. 865.
+Oct. 14, 1949, ch. 691, §208 "Sec. 23(c)", 63 Stat. 865.
 
-The words “the district court of the United States for the District of Columbia” are omitted as included in “district court”. The words “under this subchapter” are added for clarity since this section which was formerly a subsection referred to the subsection preceding it which identified the proceedings.
+The words "the district court of the United States for the District of Columbia" are omitted as included in "district court". The words "under this subchapter" are added for clarity since this section which was formerly a subsection referred to the subsection preceding it which identified the proceedings.
 
 Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
 

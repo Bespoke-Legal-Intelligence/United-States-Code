@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to loans made by a school under this subpart after June 30, 1986, each school, in order to carry out the provisions of sections 292q and 292r of this title, shall, at any time such school makes such a loan to a student under this subpart, provide thorough and adequate loan information on loans made under this subpart to the student. The loan information required to be provided to the student by this subsection shall include—
+With respect to loans made by a school under this subpart after June 30, 1986, each school, in order to carry out the provisions of sections 292q and 292r of this title, shall, at any time suchschool makes such a loan to a student under this subpart, provide thorough and adequate loan information on loans made under this subpart to the student. The loan information required to be provided to the student by this subsection shall include—
 
 &emsp;(1) the yearly and cumulative maximum amounts that may be borrowed by the student;
 
@@ -24,7 +24,7 @@ With respect to loans made by a school under this subpart after June 30, 1986, e
 
 #### (b) Statement regarding loan
 
-Each school shall, immediately prior to the graduation from such school of a student whoreceives a loan under this subpart after June 30, 1986, provide such student with a statement specifying—
+Each school shall, immediately prior to the graduation from such school of a student who receives a loan under this subpart after June 30, 1986, provide such student with a statement specifying—
 
 &emsp;(1) each amount borrowed by the student under this subpart;
 

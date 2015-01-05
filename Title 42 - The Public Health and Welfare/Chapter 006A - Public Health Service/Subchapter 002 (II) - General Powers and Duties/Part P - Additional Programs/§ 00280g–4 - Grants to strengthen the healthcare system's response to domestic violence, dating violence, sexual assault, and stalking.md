@@ -26,7 +26,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;(i) the implementation, dissemination, and evaluation of policies and procedures to guide health professionals and public health staff in identifying and responding to domestic violence, dating violence, sexual assault, and stalking, including strategies to ensure that health information is maintained in a manner that protects the patient's privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care;
 
-&emsp;&emsp;&emsp;(ii) the development of on-site access to services to address the safety, medical,and mental health needs of patients by increasing the capacity of existing health care professionals and public health staff to address domestic violence, dating violence, sexual assault, and stalking, or by contracting with or hiring domestic or sexual assault advocates to provide such services or to model other services appropriate to the geographic and cultural needs of a site;
+&emsp;&emsp;&emsp;(ii) the development of on-site access to services to address the safety, medical, and mental health needs of patients by increasing the capacity of existing health care professionals and public health staff to address domestic violence, dating violence, sexual assault, and stalking, or by contracting with or hiring domestic or sexual assault advocates to provide such services or to model other services appropriate to the geographic and cultural needs of a site;
 
 &emsp;&emsp;&emsp;(iii) the development of measures and methods for the evaluation of the practice of identification, intervention, and documentation regarding victims of domestic violence, dating violence, sexual assault, and stalking, including the development and testing of quality improvement measurements, in accordance with the multi-stakeholder and quality measurement processes established under paragraphs (7) and (8) of section 1395aaa(b) of this title and section 1395aaa–1 of this title; and
 
@@ -92,7 +92,7 @@ The Secretary shall award grants for—
 
 #### (C) Subsection (a)(3) grantees
 
-&emsp;&emsp;An entity desiring a grant under subsection (a)(3) shall submit an application to the Secretary at such time, in such a manner, and containing such information and assurances as the Secretary may require, including—
+&emsp;&emsp;An entity desiring a grant under subsection (a)(3) shall submit an application tothe Secretary at such time, in such a manner, and containing such information and assurances as the Secretary may require, including—
 
 &emsp;&emsp;&emsp;(i) documentation that all training, education, screening, assessment, services, treatment, and any other approach to patient care will be informed by an understanding of violence and abuse victimization and trauma-specific approaches that will be integrated into prevention, intervention, and treatment activities;
 
@@ -152,7 +152,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;(A) grants awarded under this section; and
 
-&emsp;&emsp;(B) other training for health professionals and effective interventions in the healthcare setting that prevent domestic violence, dating violence, and sexual assault across the lifespan, prevent the health effects of such violence, and improve the safety and health of individuals who are currently being victimized.
+&emsp;&emsp;(B) other training for health professionals and effective interventions in the health care setting that prevent domestic violence, dating violence, and sexual assault across the lifespan, prevent the health effects of such violence, and improve the safety and health of individuals who are currently being victimized.
 
 #### (2) Research
 

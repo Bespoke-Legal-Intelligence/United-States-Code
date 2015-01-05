@@ -54,7 +54,7 @@ No loan guarantee shall be made unless the Secretary determines that—
 
 #### (C) Forbearance
 
-&emsp;&emsp;Nothing in this subsection precludes any forbearance by the holder of the obligation for the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
+&emsp;&emsp;Nothing in this subsection precludes any forbearance by the holder of the obligationfor the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
 
 #### (2) Subrogation
 
@@ -190,7 +190,7 @@ In this section:
 
 #### (4) Loan guarantee
 
-&emsp;The term "loan guarantee" has the meaning given such term in section 661a of title 2. Theterm includes a loan guarantee commitment (as defined in section 661a of title 2).
+&emsp;The term "loan guarantee" has the meaning given such term in section 661a of title 2. The term includes a loan guarantee commitment (as defined in section 661a of title 2).
 
 #### (5) Obligation
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The amount of any deduction or credit allowed by this subtitle shall be taken for the taxableyear which is the proper taxable year under the method of accounting used in computing taxable income.
+The amount of any deduction or credit allowed by this subtitle shall be taken for the taxable year which is the proper taxable year under the method of accounting used in computing taxable income.
 
 #### (b) Special rule in case of death
 
@@ -190,13 +190,13 @@ If—
 
 #### (4) Special rules for farming
 
-&emsp;In the case of the trade or business of farming (as defined in section 464(e)), in determining whether an entity is a tax shelter, the definition of farming syndicate in section 464(c) shall be substituted for subparagraphs (A) and (B) of paragraph (3).
+&emsp;In the case of the trade or business of farming (as defined in section 464(e)), in determining whether an entity is a tax shelter, the definition of farming syndicate in subsection (j) shall be substituted for subparagraphs (A) and (B) of paragraph (3).
 
 #### (5) Economic performance
 
 &emsp;For purposes of this subsection, the term "economic performance" has the meaning given such term by subsection (h).
 
-#### (j) Limitation on excess farm losses of certain taxpayers
+#### (j) <sup>1</sup> Limitation on excess farm losses of certain taxpayers
 
 #### (1) Limitation
 
@@ -264,7 +264,7 @@ If—
 
 #### (D) Certain losses disregarded
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), there shall not be taken into account any deduction for any loss arising by reason of fire,storm, or other casualty, or by reason of disease or drought, involving any farming business.
+&emsp;&emsp;For purposes of subparagraph (A)(i), there shall not be taken into account any deduction for any loss arising by reason of fire, storm, or other casualty, or by reason of disease or drought, involving any farming business.
 
 #### (5) Application of subsection in case of partnerships and S corporations
 
@@ -284,7 +284,45 @@ If—
 
 &emsp;This subsection shall be applied before the application of section 469.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285.)
+#### (j) <sup>1</sup> Farming syndicate defined
+
+#### (1) In general
+
+&emsp;For purposes of subsection (i)(4), the term "farming syndicate" means—
+
+&emsp;&emsp;(A) a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if at any time interests in such partnership or enterprise have been offered for sale in any offering required to be registered with any Federal or State agency having authority to regulate the offering of securities for sale, or
+
+&emsp;&emsp;(B) a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if more than 35 percent of the losses during any period are allocable to limited partners or limited entrepreneurs.
+
+#### (2) Holdings attributable to active management
+
+&emsp;For purposes of paragraph (1)(B), the following shall be treated as an interest which is not held by a limited partner or a limited entrepreneur:
+
+&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
+
+&emsp;&emsp;(B) in the case of any individual whose principal residence is on a farm, any partnership or other enterprise engaged in the trade or business of farming such farm,
+
+&emsp;&emsp;(C) in the case of any individual who is actively participating in the management of any trade or business of farming or who is an individual who is described in subparagraph (A) or (B), any participation in the further processing of livestock which was raised in such trade or business (or in the trade or business referred to in subparagraph (A) or (B)),
+
+&emsp;&emsp;(D) in the case of an individual whose principal business activity involves active participation in the management of a trade or business of farming, any interest in any other trade or business of farming, and,
+
+&emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
+
+> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
+
+#### (3) Farming
+
+&emsp;For purposes of this subsection, the term "farming" has the meaning given to such term by section 464(e).
+
+#### (4) Limited entrepreneur
+
+&emsp;For purposes of this subsection, the term "limited entrepreneur" means a person who—
+
+&emsp;&emsp;(A) has an interest in an enterprise other than as a limited partner, and
+
+&emsp;&emsp;(B) does not actively participate in the management of such enterprise.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047.)
 
 #### References in Text
 
@@ -292,11 +330,21 @@ The Food, Conservation, and Energy Act of 2008, referred to in subsec. (j)(3)(A)
 
 #### Codification
 
+Subsec. (c) of section 464 of this title, which was transferred to this section and redesignated subsec. (j) by Pub. L. 113–295, §221(a)(58)(B)(i), was based on Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536.
+
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (j). Pub. L. 110–246, §15351(a), added subsec. (j).
+<b>2014</b>—Subsec. (i)(4). Pub. L. 113–295, §221(a)(58)(B)(iii), substituted "subsection (j)" for "section 464(c)".
+
+Subsec. (j). Pub. L. 113–295, §221(a)(58)(B)(i), transferred subsec. (c) of section 464 of this title, relating to definition of farming syndicate, to the end of this section and redesignated it as subsec. (j).
+
+Subsec. (j)(1). Pub. L. 113–295, §221(a)(58)(B)(ii)(I), substituted "For purposes of subsection (i)(4)" for "For purposes of this section" in introductory provisions.
+
+Subsec. (j)(3), (4). Pub. L. 113–295, §221(a)(58)(B)(ii)(II), added pars. (3) and (4).
+
+<b>2008</b>—Subsec. (j). Pub. L. 110–246, §15351(a), added subsec. (j) relating to limitation on excess farm losses of certain taxpayers.
 
 <b>2005</b>—Subsec. (i)(3)(C). Pub. L. 109–135 substituted "section 6662(d)(2)(C)(ii)" for "section 6662(d)(2)(C)(iii)".
 
@@ -334,7 +382,7 @@ Subsec. (i). Pub. L. 99–514, §801(b)(1), substituted "Special rules for tax s
 
 Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted "Recurring item exception not to apply" for "In general" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under this chapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof)."
 
-Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurson or before 90th day after close of the taxable year to the extent of cash basis.
+Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurs on or before 90th day after close of the taxable year to the extent of cash basis.
 
 Pub. L. 99–514, §1807(a)(1), substituted "on or before the 90th day" for "within 90 days" in heading and substituted "before the close of the 90th day after the close of the taxable year" for "within 90 days after the close of the taxable year" in subpar. (A).
 
@@ -363,6 +411,10 @@ Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 <b>1962</b>—Subsec. (e). Pub. L. 87–876 added subsec. (e).
 
 <b>1960</b>—Subsec. (d). Pub. L. 86–781 added subsec. (d).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -508,7 +560,7 @@ Pub. L. 94–455, title II, §208(b), Oct. 4, 1976, 90 Stat. 1542, provided that
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1975, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amendingthis section\] shall apply to amounts paid after December 31, 1975, in taxable years ending after such date.
 
 &emsp;"(2)
 
@@ -585,4 +637,6 @@ Pub. L. 88–272, title II, §223(d), Feb. 26, 1964, 78 Stat. 77, provided that:
 &emsp;"(2) refund or credit of any overpayment which would result from the application of such amendments to such transfer is prevented by the operation of any law or rule of law.
 
 > In the case of any transfer to which this subsection applies, the deduction shall be allowed for the taxable year in which the contest with respect to such transfer is settled."
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (j) have been enacted.</i>
 

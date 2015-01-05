@@ -18,7 +18,7 @@ The cost of conducting examinations of affiliates of savings associations pursua
 
 &emsp;Subject to paragraph (2), if any affiliate of any savings association—
 
-&emsp;&emsp;(A) refuses to pay any assessment under subsection (b) of this section; or
+&emsp;&emsp;(A) refuses to pay any assessment under subsection (b); or
 
 &emsp;&emsp;(B) fails to pay any such assessment before the end of the 60-day period beginning on the date of the assessment,
 
@@ -60,11 +60,11 @@ The Comptroller may prescribe regulations with respect to—
 
 #### (1) Examination of fiduciary activities
 
-&emsp;In addition to any assessment imposed pursuant to subsection (a) of this section, the cost of conducting examinations of fiduciary activities of savings associations which exercise fiduciary powers (including savings associations or similar institutions in the District of Columbia) shall be assessed by the appropriate Federal banking agency against such savings associations (or similar institutions).
+&emsp;In addition to any assessment imposed pursuant to subsection (a), the cost of conducting examinations of fiduciary activities of savings associations which exercise fiduciary powers (including savings associations or similar institutions in the District of Columbia) shall be assessed by the appropriate Federal banking agency against such savings associations (or similar institutions).
 
 #### (2) Examinations in excess of 2 per calendar year
 
-&emsp;If any savings association or affiliate of a savings association is examined by the appropriate Federal banking agency for the savings association more than 2 times in any calendar year, the cost of conducting such additional examinations shall be assessed, in addition to any assessment imposed pursuant to subsection (a) of this section, by the appropriate Federal banking agency or the Corporation, as the case may be, against such savings association or affiliate.
+&emsp;If any savings association or affiliate of a savings association is examined by the appropriate Federal banking agency for the savings association more than 2 times in any calendar year, the cost of conducting such additional examinations shall be assessed, in addition to any assessment imposed pursuant to subsection (a), by the appropriate Federal banking agency or the Corporation, as the case may be, against such savings association or affiliate.
 
 #### (h) Additional information
 
@@ -74,7 +74,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (1) Deposits
 
-&emsp;Amounts received by the appropriate Federal banking agency from assessments under this section (other than an assessment under subsection (d)(2) of this section) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
+&emsp;Amounts received by the appropriate Federal banking agency from assessments under this section (other than an assessment under subsection (d)(2)) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
 
 #### (2) Assessments are not Government funds
 
@@ -132,7 +132,7 @@ Subsec. (h). Pub. L. 111–203, §369(7)(I), substituted "appropriate Federal ba
 
 Subsec. (i). Pub. L. 111–203, §369(7)(F), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (j). Pub. L. 111–203, §369(7)(I), substituted "The appropriate Federal banking agency" for "TheDirector" and "submits to the appropriate Federal banking agency" for "submits to the Director".
+Subsec. (j). Pub. L. 111–203, §369(7)(I), substituted "The appropriate Federal banking agency" for "The Director" and "submits to the appropriate Federal banking agency" for "submits to the Director".
 
 Pub. L. 111–203, §369(7)(G), substituted "sole discretion of the appropriate Federal banking agency" for "Director's sole discretion".
 

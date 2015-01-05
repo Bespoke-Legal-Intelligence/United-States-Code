@@ -30,7 +30,7 @@ Transition From Prior Register.—(1) The Secretary shall provide by regulation 
 
 (B) The report or information shall be disposed of under chapter 33 of title 44.
 
-(3) If the chief driver licensing official of a participating State finds that information provided for inclusion in the Register is erroneous or is related to a conviction of a traffic offensethat subsequently is reversed, the official immediately shall notify the Secretary. The Secretary shall provide for the immediate deletion of the information from the Register.
+(3) If the chief driver licensing official of a participating State finds that information provided for inclusion in the Register is erroneous or is related to a conviction of a traffic offense that subsequently is reversed, the official immediately shall notify the Secretary. The Secretary shall provide for the immediate deletion of the information from the Register.
 
 (d)
 

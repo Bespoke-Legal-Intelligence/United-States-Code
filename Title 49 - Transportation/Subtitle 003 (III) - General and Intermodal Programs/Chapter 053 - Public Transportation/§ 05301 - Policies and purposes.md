@@ -24,7 +24,7 @@ General Purposes.—The purposes of this chapter are to—
 
 &emsp;(8) promote the development of the public transportation workforce.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 785; Pub. L. 109–59, title III, §§3002(b)(4), 3003, Aug. 10, 2005, 119 Stat. 1545; Pub. L. 112–141, div. B, §20003, July 6, 2012, 126 Stat. 622.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 785; Pub. L. 109–59, title III, §§3002(b)(4), 3003, Aug. 10,2005, 119 Stat. 1545; Pub. L. 112–141, div. B, §20003, July 6, 2012, 126 Stat. 622.)
 
 Historical and Revision Notes
 
@@ -96,7 +96,7 @@ In subsection (c), the text of 49 App.:1601a (1st sentence words after semicolon
 
 In subsections (d) and (e), the words "hereby declared to be" are omitted as surplus.
 
-In subsection (d), the words "to ensure that mass transportation can be used by elderly individuals and individuals with disabilities" are substituted for "inthe planning and design of mass transportation facilities and services so that the availability to elderly persons and persons with disabilities of mass transportation which they can effectively utilize will be assured" to eliminate unnecessary words. The words "the field of" and "(including the programs under this chapter) . . . contain provisions" are omitted as surplus.
+In subsection (d), the words "to ensure that mass transportation can be used by elderly individuals and individuals with disabilities" are substituted for "in the planning and design of mass transportation facilities and services so that the availability to elderly persons and persons with disabilities of mass transportation which they can effectively utilize will be assured" to eliminate unnecessary words. The words "the field of" and "(including the programs under this chapter) . . . contain provisions" are omitted as surplus.
 
 In subsection (e), the words "carrying out" are substituted for "construction of", and the word "capital" is added, for consistency in the revised chapter. The reference to section 5310 of the revised title is added for clarity because a loan or grant made under section 5310 is deemed to have been made under section 5309.
 

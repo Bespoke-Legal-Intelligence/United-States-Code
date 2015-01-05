@@ -16,7 +16,7 @@ The Secretary of State may use competitive procedures or procedures other than c
 
 #### (1) Establishment
 
-&emsp;In order to provide the Department of State with a dependable, flexible, and adequate source of funding for the expenses of the Department related to preparing or prosecuting a proceeding before an international tribunal, or a claim by or against a foreign government or other foreign entity, there is established an International Litigation Fund (hereafter in this subsection referred to as the "ILF"). The ILF may be available without fiscal year limitation. Funds otherwise available to the Department for the purposes of this paragraph may be credited to the ILF.
+&emsp;In order to provide the Department of State with a dependable, flexible, and adequate source of funding for the expenses of the Department related to preparing or prosecuting a proceeding before an international tribunal, or a claim by or against a foreign government or other foreign entity, there is established an International Litigation Fund (hereafter inthis subsection referred to as the "ILF"). The ILF may be available without fiscal year limitation. Funds otherwise available to the Department for the purposes of this paragraph may be credited to the ILF.
 
 #### (2) Reprogramming procedures
 
@@ -38,7 +38,7 @@ The Secretary of State may use competitive procedures or procedures other than c
 
 #### (2) Treatment
 
-&emsp;Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d) of this section.
+&emsp;Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d).
 
 (Aug. 1, 1956, ch. 841, title I, §38, as added Pub. L. 99–93, title I, §128, Aug. 16, 1985, 99 Stat. 419; amended Pub. L. 103–236, title I, §123, Apr. 30, 1994, 108 Stat. 392; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2212(b), Oct. 21, 1998, 112 Stat. 2681–812; Pub. L. 107–228, div. A, title II, §203, Sept. 30, 2002, 116 Stat. 1362.)
 

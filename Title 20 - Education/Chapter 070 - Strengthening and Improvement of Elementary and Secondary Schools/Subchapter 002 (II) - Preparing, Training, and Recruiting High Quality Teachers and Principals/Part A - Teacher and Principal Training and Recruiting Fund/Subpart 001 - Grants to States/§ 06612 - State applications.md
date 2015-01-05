@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For a State to be eligible to receive a grant under this part, the State educational agency shall submit an application to the Secretary at such time, in such manner, and containing suchinformation as the Secretary may reasonably require.
+For a State to be eligible to receive a grant under this part, the State educational agency shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (b) Contents
 
@@ -18,7 +18,7 @@ Each application submitted under this section shall include the following:
 
 &emsp;(5)(A) A description of how the State educational agency will coordinate professional development activities authorized under this part with professional development activities provided under other Federal, State, and local programs.
 
-&emsp;(B) A description of the comprehensive strategy that the State educational agency will use, as part of such coordination effort, to ensure that teachers are trained in the use of technology so that technology and applications of technology are effectively used in the classroom to improve teaching and learning in all curricula and academic subjects, as appropriate.
+&emsp;(B) A description of the comprehensive strategy that the State educational agency will use, as part of such coordination effort, to ensure that teachers are trained in the use of technology so that technology and applications of technology are effectively used in theclassroom to improve teaching and learning in all curricula and academic subjects, as appropriate.
 
 &emsp;(6) A description of how the State educational agency will encourage the development of proven, innovative strategies to deliver intensive professional development programs that are both cost-effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
 

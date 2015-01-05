@@ -48,7 +48,7 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–208, §308(g)(10)(G), substituted “inadmissible” for “excludable” in pars. (1)(B), (C) and (2)(B).
+<b>1996</b>—Subsec. (b). Pub. L. 104–208, §308(g)(10)(G), substituted "inadmissible" for "excludable" in pars. (1)(B), (C) and (2)(B).
 
 #### Effective Date of 1996 Amendment
 

@@ -6,7 +6,7 @@ Section 403c–6, act Aug. 19, 1937, ch. 703, §6, 50 Stat. 702, related to juri
 
 Section 403c–7, act Aug. 19, 1937, ch. 703, §7, 50 Stat. 702, related to issuance of process. See sections 3041 and 3141 of Title 18, Crimes and Criminal Procedure, and rules 4, 5(c), and 9 of Federal Rules of Criminal Procedure, Title 18, Appendix.
 
-Section 403c–8, act Aug. 19, 1937, ch. 703, §8, 50 Stat. 702, related to whom process is directed. See section 3053 of Title 18, rule 4 of Federal Rules of Criminal Procedure, Title 18, Appendix, and rule 4 of Federal Rulesof Civil Procedure, Title 28, Appendix, Judiciary and Judicial Procedure.
+Section 403c–8, act Aug. 19, 1937, ch. 703, §8, 50 Stat. 702, related to whom process is directed. See section 3053 of Title 18, rule 4 of Federal Rules of Criminal Procedure, Title 18, Appendix, and rule 4 of Federal Rules of Civil Procedure, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 Section 403c–9, act Aug. 19, 1937, ch. 703, §9, 50 Stat. 702, related to commissioner's \[now magistrate judge's\] salary.
 

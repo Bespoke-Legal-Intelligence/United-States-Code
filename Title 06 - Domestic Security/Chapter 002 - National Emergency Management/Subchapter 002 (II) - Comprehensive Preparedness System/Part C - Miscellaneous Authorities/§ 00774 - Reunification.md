@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Child Locator Center
 
-&emsp;The term “Child Locator Center” means the National Emergency Child Locator Center established under subsection (b).
+&emsp;The term "Child Locator Center" means the National Emergency Child Locator Center established under subsection (b).
 
 #### (2) Declared event
 
-&emsp;The term “declared event” means a major disaster or emergency.
+&emsp;The term "declared event" means a major disaster or emergency.
 
 #### (3) Displaced adult
 
-&emsp;The term “displaced adult” means an individual 21 years of age or older who is displaced from the habitual residence of that individual as a result of a declared event.
+&emsp;The term "displaced adult" means an individual 21 years of age or older who is displaced from the habitual residence of that individual as a result of a declared event.
 
 #### (4) Displaced child
 
-&emsp;The term “displaced child” means an individual under 21 years of age who is displaced from the habitual residence of that individual as a result of a declared event.
+&emsp;The term "displaced child" means an individual under 21 years of age who is displaced from the habitual residence of that individual as a result of a declared event.
 
 #### (b) National Emergency Child Locator Center
 
@@ -30,7 +30,7 @@ In this section:
 
 &emsp;The purposes of the Child Locator Center are to—
 
-&emsp;&emsp;(A) enable individuals to provide to the Child Locator Center the name of and other identifying information about a displaced child or a displaced adult who may have information about the location of a displaced child;
+&emsp;&emsp;(A) enable individuals to provide to the Child Locator Center the name of and otheridentifying information about a displaced child or a displaced adult who may have information about the location of a displaced child;
 
 &emsp;&emsp;(B) enable individuals to receive information about other sources of information about displaced children and displaced adults; and
 

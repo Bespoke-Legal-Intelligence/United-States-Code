@@ -8,7 +8,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;&emsp;(A) the protection of natural resources, including wetlands, flood plains, estuaries, beaches, dunes, barrier islands, coral reefs, and fish and wildlife and their habitat, within the coastal zone,
 
-&emsp;&emsp;(B) the management of coastal development to minimize the loss of life and property caused by improper development in flood-prone, storm surge, geological hazard, and erosion-prone areas and in areas likely to be affected by or vulnerable to sea level rise, land subsidence, and saltwater intrusion, and by the destruction of natural protective features such as beaches, dunes, wetlands, and barrier islands.<sup>1</sup>
+&emsp;&emsp;(B) the management of coastal development to minimize the loss of life and property caused by improper development inflood-prone, storm surge, geological hazard, and erosion-prone areas and in areas likely to be affected by or vulnerable to sea level rise, land subsidence, and saltwater intrusion, and by the destruction of natural protective features such as beaches, dunes, wetlands, and barrier islands.<sup>1</sup>
 
 &emsp;&emsp;(C) the management of coastal development to improve, safeguard, and restore the quality of coastal waters, and to protect natural resources and existing uses of those waters,
 

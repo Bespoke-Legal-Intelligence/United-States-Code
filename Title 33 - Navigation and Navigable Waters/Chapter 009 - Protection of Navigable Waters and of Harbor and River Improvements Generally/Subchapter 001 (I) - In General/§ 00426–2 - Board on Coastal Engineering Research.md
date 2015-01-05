@@ -12,5 +12,5 @@ Pub. L. 91–611, title I, §105, Dec. 31, 1970, 84 Stat. 1819, provided that: "
 
 #### Abolition of Beach Erosion Board
 
-Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a note under section 426 of this title. For transfer of functions of Board to Coastal Engineering Research Center and Board of Engineers for Rivers and Harbors, see sections 426–1 and 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
+Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a note under section 426 of this title. For transfer of functions of Board to Coastal Engineering Research Center and Board of Engineers for Rivers and Harbors, see sections 426–1 and 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary ofArmy, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
 

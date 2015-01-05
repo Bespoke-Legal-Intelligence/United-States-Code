@@ -24,7 +24,7 @@ Not later than 90 days after December 21, 2000, and annually thereafter, the Aut
 
 #### (1) In general
 
-&emsp;Except as provided in this subsection, no funds shall be provided under this subchapter for a project located in a county designated as a nondistressed county under subsection (a)(2) of this section.
+&emsp;Except as provided in this subsection, no funds shall be provided under this subchapter for a project located in a county designated as a nondistressed county under subsection (a)(2).
 
 #### (2) Exceptions
 

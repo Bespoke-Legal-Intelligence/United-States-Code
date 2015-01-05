@@ -78,7 +78,7 @@ The Secretary may exempt from this part a person producing, selling, or purchasi
 
 #### (g) Consultation
 
-In carrying out this section, the Secretary shall consult with the Secretary of Agriculture, States, and appropriate private sector entities, to ensure that the access of agricultural producers to ammonium nitrate is not unduly burdened.
+In carrying out this section, the Secretary shall consult with the Secretary of Agriculture, States, and appropriate private sector entities,to ensure that the access of agricultural producers to ammonium nitrate is not unduly burdened.
 
 #### (h) Data confidentiality
 

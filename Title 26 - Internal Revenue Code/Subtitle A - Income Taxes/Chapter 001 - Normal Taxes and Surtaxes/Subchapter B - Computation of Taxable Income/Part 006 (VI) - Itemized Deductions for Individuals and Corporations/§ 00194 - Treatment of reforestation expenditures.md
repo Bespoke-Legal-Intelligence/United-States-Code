@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of any qualified timber property with respect to which the taxpayer has made (in accordance with regulations prescribed by the Secretary) an election under this subsection, the taxpayer shall be entitled to a deduction with respect to the amortization of the amortizable basis of qualified timber property based on a period of 84 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The 84-month period shall begin on thefirst day of the first month of the second half of the taxable year in which the amortizable basis is acquired.
+In the case of any qualified timber property with respect to which the taxpayer has made (in accordance with regulations prescribed by the Secretary) an election under this subsection, the taxpayer shall be entitled to a deduction with respect to the amortization of the amortizable basis of qualified timber property based on a period of 84 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The 84-month period shall begin on the first day of the first month of the second half of the taxable year in which the amortizable basis is acquired.
 
 #### (b) Treatment as expenses
 
@@ -32,7 +32,7 @@ In the case of any qualified timber property with respect to which the taxpayer 
 
 &emsp;&emsp;&emsp;(ii) the Secretary shall, under regulations prescribed by him, apportion such dollar limitation among the component members of such controlled group.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the term "controlled group" has the meaning assigned to it by section 1563(a), except that the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" each place it appears in section 1563(a)(1).
+> &emsp;&emsp;For purposes of the preceding sentence, the term "controlled group" has the meaning assigned to it by section 1563(a), except thatthe phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" each place it appears in section 1563(a)(1).
 
 #### (B) Partnerships and S corporations
 
@@ -118,7 +118,7 @@ Subsec. (c)(4), (5). Pub. L. 108–357, §322(c)(3), added pars. (4) and (5) and
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs CreationAct of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 

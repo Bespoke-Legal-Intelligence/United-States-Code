@@ -48,17 +48,7 @@ At the election of a qualified individual (made separately with respect to parag
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The exclusion amount for any calendar year is the exclusion amount determined in accordance with the following table (as adjusted by clause (ii)):
-
-&nbsp;
-
-| <b>For calendar year—</b> | <b>The exclusion amount is—</b> |
-| :--- | ---: |
-| &nbsp;&nbsp;1998 | $72,000&nbsp;&nbsp; |
-| &nbsp;&nbsp;1999 | 74,000&nbsp;&nbsp; |
-| &nbsp;&nbsp;2000 | 76,000&nbsp;&nbsp; |
-| &nbsp;&nbsp;2001 | 78,000&nbsp;&nbsp; |
-| &nbsp;&nbsp;2002 and thereafter | 80,000. |
+&emsp;&emsp;&emsp;The exclusion amount for any calendar year is $80,000.
 
 #### (ii) Inflation adjustment
 
@@ -94,7 +84,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) 30 percent (adjusted as may be provided under subparagraph (B)) of the amount (computed on a daily basis) in effect under subsection (b)(2)(D) for the calendar year in which the taxable year of the individual begins, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the number of days of such taxable year within the applicable period describedin subparagraph (A) or (B) of subsection (d)(1).
+&emsp;&emsp;&emsp;(ii) the number of days of such taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1).
 
 #### (B) Regulations
 
@@ -120,7 +110,7 @@ For purposes of this section—
 
 #### (ii) Separate household for spouse and dependents
 
-&emsp;&emsp;&emsp;If an individual maintains a separate abode outside the United States for his spouse and dependents and they do not reside with him because of living conditions which are dangerous, unhealthful, or otherwise adverse, then—
+&emsp;&emsp;&emsp;If an individual maintains a separate abode outside the United States for his spouse and dependents and they do not reside with him because of living conditionswhich are dangerous, unhealthful, or otherwise adverse, then—
 
 &emsp;&emsp;&emsp;&emsp;(I) the words "if they reside with him" in subparagraph (A) shall be disregarded, and
 
@@ -182,7 +172,7 @@ For purposes of this section—
 
 #### (B) Taxpayer engaged in trade or business
 
-&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personalservices and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
+&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personal services and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
 
 #### (3) Tax home
 
@@ -258,7 +248,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An election under subsection (a) shall apply to the taxable year for which made and to allsubsequent taxable years unless revoked under paragraph (2).
+&emsp;An election under subsection (a) shall apply to the taxable year for which made and to all subsequent taxable years unless revoked under paragraph (2).
 
 #### (2) Revocation
 
@@ -282,6 +272,8 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the amount which would be determined under such sentence for such taxable year if the taxpayer's taxable excess (as so defined) were equal to the amount excluded under subsection (a) for such taxable year.
 
+> &emsp;For purposes of this paragraph, the amount excluded under subsection (a) shall be reduced by the aggregate amount of any deductions or exclusions disallowed under subsection (d)(6) with respect to such excluded amount.
+
 #### (2) Special rules
 
 #### (A) Regular tax
@@ -300,7 +292,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting "the taxable excess (as defined in section 55(b)(1)(A)(ii))" for "taxable income", and
 
-&emsp;&emsp;&emsp;(ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B) shall be treated as a reference to such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
+&emsp;&emsp;&emsp;(ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
 
 #### (C) Definitions
 
@@ -310,7 +302,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367; Pub. L. 110–172, §4(c), Dec. 29, 2007, 121 Stat. 2476.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367; Pub. L. 110–172, §4(c), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §§202(b), 215(a), 221(a)(73), Dec. 19, 2014, 128 Stat. 4024, 4034, 4049.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -323,6 +315,12 @@ The Trading With the Enemy Act, referred to in subsec. (d)(8)(B)(i), is act Oct.
 The International Emergency Economic Powers Act, referred to in subsec. (d)(8)(B)(i), is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(2)(D)(i). Pub. L. 113–295, §221(a)(73), amended cl. (i) generally. Prior to amendment, cl. (i) listed exclusion amounts for calendar years beginning from 1998 to 2002 and thereafter.
+
+Subsec. (f)(1). Pub. L. 113–295, §215(a), inserted concluding provisions.
+
+Subsec. (f)(2)(B)(ii). Pub. L. 113–295, §202(b), substituted "described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined" for "described in section 1(h)(1)(B) shall be treated as a reference to such excess as determined".
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–172 amended heading and text generally, substituting provisions relating to determination of tax liability, special rules for determining regular tax and alternative minimum tax, and definitions for former provisions relating to determination of tax liability and tentative minimum tax.
 
@@ -348,31 +346,14 @@ Subsec. (b)(2)(D). Pub. L. 105–34, §1172(a)(2), added subpar. (D).
 
 <b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–514, §1233(a), in amending subpar. (A) generally, substituted "an annual rate of $70,000" for "the annual rate set forth in the following table for each day of the taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1):
 
-<b>"In the case of taxable years</b>
-
 &nbsp;
 
-<b>  beginning in:</b>
-
-<b>The annual rate is:</b>
-
-&emsp;&emsp;1983, 1984, 1985, 1986, or 1987
-
-$80,000&nbsp;&nbsp;
-
-&emsp;&emsp;1988
-
-85,000&nbsp;&nbsp;
-
-&emsp;&emsp;1989
-
-90,000&nbsp;&nbsp;
-
-&emsp;&emsp;1990 and thereafter
-
-95,000."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>"In the case of taxable years beginning in:</b> | <b>The annual rate is:</b> |
+| :--- | ---: |
+| &nbsp;1983, 1984, 1985, 1986, or 1987 | $80,000&nbsp;&nbsp; |
+| &nbsp;1988 | 85,000&nbsp;&nbsp; |
+| &nbsp;1989 | 90,000&nbsp;&nbsp; |
+| &nbsp;1990 and thereafter | 95,000." |
 
 Subsec. (d)(8), (9). Pub. L. 99–514, §1233(b), added par. (8) and redesignated former par. (8) as (9).
 
@@ -414,7 +395,7 @@ Pub. L. 95–600, §703(e), redesignated former par. (8) as (7). Such par. (8) w
 
 Subsec. (c)(8). Pub. L. 95–615, §202(e), struck out par. (8) which related to the nonexclusion under subsec. (a) of any amount attributable to services performed in a foreign country or countries if such amount was received outside of the foreign country or countries where such services were performed and if one of the purposes was the avoidance of any tax imposed by such foreign country or countries on such amount.
 
-Subsec. (d). Pub. L. 95–615, §202(d)(1), redesignated subsec. (e) as (d), inserted "for the taxable year" after "section apply", and struck out provision that an election was applicable to the taxable year for which made and to all subsequent taxable years. Former subsec. (d), which related to the computation of tax imposed by section 1 or section 1201 if an individual earned income which was excluded from gross income under subsec. (a) and which defined "net taxable income" and "net excluded earned income", was struck out.
+Subsec. (d). Pub. L. 95–615, §202(d)(1), redesignated subsec. (e) as (d), inserted "for the taxable year" after "section apply", and struck out provision that an election was applicable to the taxable year for which made and to all subsequent taxable years. Former subsec. (d), which related to the computation of tax imposed by section 1 or section 1201 if an individual earned income which was excluded from gross income under subsec. (a)and which defined "net taxable income" and "net excluded earned income", was struck out.
 
 Subsec. (d)(1). Pub. L. 95–600, §401(b)(4), struck out provisions respecting applicability of section 1201 of this title.
 
@@ -443,6 +424,14 @@ Subsecs. (d) to (f). Pub. L. 94–455, §1011(b)(3), added subsecs. (d) and (e) 
 Subsecs. (c) and (d). Pub. L. 87–834 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 added subsec. (c).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by section 202(b) of Pub. L. 113–295 effective as if included in the provision of the American Taxpayer Relief Act of 2012, Pub. L. 112–240, to which such amendment relates, see section 202(f) of Pub. L. 113–295, set out as a note under section 55 of this title.
+
+Amendment by section 215(a) of Pub. L. 113–295 effective as if included in the provisions of the Tax Technical Corrections Act of 2007, Pub. L. 110–172, to which such amendment relates, see section 215(c) of Pub. L. 113–295, set out as a note under section 56 of this title.
+
+Amendment by section 221(a)(73) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -482,9 +471,9 @@ Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
 
-Pub. L. 95–600, title VII, §701(u)(10)(B), Nov. 6, 1978, 92 Stat. 2917, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\]."
+Pub. L. 95–600, title VII, §701(u)(10)(B), Nov. 6, 1978, 92 Stat. 2917, as amended by Pub. L. 96–222, title I,§107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\]."
 
 Amendment by section 703(e) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 

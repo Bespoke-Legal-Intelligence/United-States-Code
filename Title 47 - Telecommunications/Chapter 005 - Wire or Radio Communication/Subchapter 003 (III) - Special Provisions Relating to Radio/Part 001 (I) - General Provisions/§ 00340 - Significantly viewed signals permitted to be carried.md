@@ -16,7 +16,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 #### (2) Service limitations
 
-&emsp;A satellite carrier may retransmit to a subscriber in high definition format the signal ofa station determined by the Commission to be significantly viewed under subsection (a) only if such carrier also retransmits in high definition format the signal of a station located in the local market of such subscriber and affiliated with the same network whenever such format is available from such station.
+&emsp;A satellite carrier may retransmit to a subscriber in high definition format the signal of a station determined by the Commission to be significantly viewed under subsection (a) only if such carrier also retransmits in high definition format the signal of a station located in the local market of such subscriber and affiliated with the same network whenever such format is available from such station.
 
 #### (3) Limitation not applicable where no network affiliates
 
@@ -84,7 +84,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 #### (2) Commission decision
 
-&emsp;The Commission shall issue a final determination resolving a complaint brought underthis subsection not later than 180 days after the submission of a complaint under this subsection. The Commission may hear witnesses if it clearly appears, based on written filings by the parties, that there is a genuine dispute about material facts. Except as provided in the preceding sentence, the Commission may issue a final ruling based on written filings by the parties.
+&emsp;The Commission shall issue a final determination resolving a complaint brought under this subsection not later than 180 days after the submission of a complaint under this subsection. The Commission may hear witnesses if it clearly appears, based on written filings by the parties, that there is a genuine dispute about material facts. Except as provided in the preceding sentence, the Commission may issue a final ruling based on written filings by the parties.
 
 #### (3) Remedies in addition
 
@@ -114,7 +114,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 #### (2) Unified negotiations
 
-&emsp;In revising its regulations as required by paragraph (1), the Commission shall provide that any such station shall conduct a unified negotiation for the entire portion of its local market for which retransmission consent is elected.
+&emsp;In revising its regulations as required by paragraph (1), the Commission shall provide that any such station shall conduct a unifiednegotiation for the entire portion of its local market for which retransmission consent is elected.
 
 #### (3) Additional provisions
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 #### Rulemaking Required
 
-Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: "Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\]."
+Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: "Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

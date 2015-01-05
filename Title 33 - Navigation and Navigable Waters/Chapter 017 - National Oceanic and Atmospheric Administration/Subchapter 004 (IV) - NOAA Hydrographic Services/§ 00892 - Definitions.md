@@ -38,7 +38,7 @@ In this subchapter:
 
 #### (5) Coast and Geodetic Survey Act
 
-&emsp;The term "Coast and Geodetic Survey Act" means the Act entitled "An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes", approved August 6, 1947 (33 U.S.C. 883a et seq.).
+&emsp;The term "Coast and Geodetic Survey Act" means the Act entitled "An Act to define thefunctions and duties of the Coast and Geodetic Survey, and for other purposes", approved August 6, 1947 (33 U.S.C. 883a et seq.).
 
 (Pub. L. 105–384, title III, §302, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §102, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §2, Oct. 10, 2008, 122 Stat. 4106.)
 

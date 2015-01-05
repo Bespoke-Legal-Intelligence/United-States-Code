@@ -10,13 +10,13 @@
 
 &emsp;The Secretary shall extend the primary term of a geothermal lease for 5 years if, for each year after the 10th year of the lease—
 
-&emsp;&emsp;(A) the Secretary determined under subsection (b) of this section that the lessee satisfied the work commitment requirements that applied to the lease for that year; or
+&emsp;&emsp;(A) the Secretary determined under subsection (b) that the lessee satisfied the work commitment requirements that applied to the lease for that year; or
 
-&emsp;&emsp;(B) the lessee paid in annual payments accordance with subsection (c) of this section.
+&emsp;&emsp;(B) the lessee paid in annual payments accordance with subsection (c).
 
 #### (3) Additional extension
 
-&emsp;The Secretary shall extend the primary term of a geothermal lease (after an initial extension under paragraph (2)) for an additional 5 years if, for each year of the initial extension under paragraph (2), the Secretary determined under subsection (b) of this section that the lessee satisfied the minimum work requirements that applied to the lease for that year.
+&emsp;The Secretary shall extend the primary term of a geothermal lease (after an initial extension under paragraph (2)) for an additional 5 years if, for each year of the initial extension under paragraph (2), the Secretary determined under subsection (b) that the lessee satisfied the minimum work requirements that applied to the lease for that year.
 
 #### (b) Requirement to satisfy annual minimum work requirement
 
@@ -34,11 +34,11 @@
 
 #### (c) Payments in lieu of minimum work requirements
 
-In lieu of the minimum work requirements set forth in subsection (b)(2) of this section, the Secretary shall by regulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a) of this section.
+In lieu of the minimum work requirements set forth in subsection (b)(2), the Secretary shall by regulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a).
 
 #### (d) Transition rules for leases issued prior to August 8, 2005
 
-The Secretary shall by regulation establish transition rules for leases issued before August8, 2005, including terms under which a lease that is near the end of its term on August 8, 2005, may be extended for up to 2 years—
+The Secretary shall by regulation establish transition rules for leases issued before August 8, 2005, including terms under which a lease thatis near the end of its term on August 8, 2005, may be extended for up to 2 years—
 
 &emsp;(1) to allow achievement of production under the lease; or
 
@@ -98,7 +98,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 "(1) The primary term of any geothermal lease in effect as of July 27, 1984, issued pursuant to the Geothermal \[Steam\] Act of 1970 (Public Law 91–581, 84 Stat. 1566, 30 U.S.C. 1001–1025) is hereby extended to December 31, 1988, if the Secretary of the Interior finds that—
 
-&emsp;"(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to or utilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
+&emsp;"(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to orutilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
 
 &emsp;"(b) substantial investment in the development of or for the benefit of the lease has been made; and
 

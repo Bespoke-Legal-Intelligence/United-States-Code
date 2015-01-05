@@ -2,11 +2,11 @@
 
 #### (a) Establishment; purposes for which Fund moneys may be expended
 
-There is established in the Treasury of the United States a Geothermal Resources Development Fund, which shall be available to the head of the designated agency for carrying out the loan guaranty and interest assistance program authorized by this subchapter, including the payment of administrative expenses incurred in connection therewith. Moneys in the fund not needed for current operations may, with the approval of the Secretary of the Treasury, be invested in bonds or other obligations of, or guaranteed by, the United States.
+There is established in the Treasury of the United States a Geothermal Resources Development Fund, which shall be available to the head of the designated agency for carrying out the loan guaranty and interest assistance program authorized by this subchapter, including the payment of administrative expenses incurred inconnection therewith. Moneys in the fund not needed for current operations may, with the approval of the Secretary of the Treasury, be invested in bonds or other obligations of, or guaranteed by, the United States.
 
 #### (b) Deposits into the Fund
 
-There shall be paid into the fund the amounts appropriated pursuant to section 1164(c) of this title and such amounts as may be returned to the United States pursuant to section 1142(b) of this title, and the amounts in the fund shall remain available until expended, except that afterthe expiration of the ten-year period established by section 1143 of this title, such amounts in the fund which are not required to secure outstanding guaranty obligations shall be paid into the general fund of the Treasury.
+There shall be paid into the fund the amounts appropriated pursuant to section 1164(c) of this title and such amounts as may be returned to the United States pursuant to section 1142(b) of this title, and the amounts in the fund shall remain available until expended, except that after the expiration of the ten-year period established by section 1143 of this title, such amounts in the fund which are not required to secure outstanding guaranty obligations shall be paid into the general fund of the Treasury.
 
 #### (c) Borrowing authority of Secretary of Energy
 

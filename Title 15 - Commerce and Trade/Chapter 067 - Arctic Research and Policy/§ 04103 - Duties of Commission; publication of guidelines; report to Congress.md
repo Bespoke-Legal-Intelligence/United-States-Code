@@ -20,7 +20,7 @@
 
 &emsp;(9) recommend to the Interagency Committee the means for developing international scientific cooperation in the Arctic; and
 
-&emsp;(10) not later than January 31, 1991, and every 2 years thereafter, publish a statement of goals and objectives with respect to Arctic research to guide the Interagency Committee established under section 4106 of this title in the performance of its duties.
+&emsp;(10) not later than January 31, 1991, and every 2 years thereafter, publish a statementof goals and objectives with respect to Arctic research to guide the Interagency Committee established under section 4106 of this title in the performance of its duties.
 
 (b) Not later than January 31 of each year, the Commission shall submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.
 

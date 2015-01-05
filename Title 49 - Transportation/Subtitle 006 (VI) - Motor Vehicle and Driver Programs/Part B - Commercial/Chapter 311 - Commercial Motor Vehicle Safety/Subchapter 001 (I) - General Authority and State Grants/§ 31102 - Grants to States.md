@@ -20,7 +20,7 @@ Program goal.—The goal of the Motor Carrier Safety Assistance Program is to en
 
 &emsp;&emsp;(D) assessing and improving statewide performance by setting program goals and meeting performance standards, measures, and benchmarks.
 
-&emsp;(2) The Secretary shall prescribe procedures for a State to submit a plan under which the State agrees to assume responsibility for improving motor carrier safety and to adopt and enforce regulations, standards, and orders of the Government on commercial motor vehiclesafety, hazardous materials transportation safety, or compatible State regulations, standards, and orders. The Secretary shall approve the plan if the Secretary decides the plan is adequate to promote the objectives of this section and the plan—
+&emsp;(2) The Secretary shall prescribe procedures for a State to submit a plan under which the State agrees to assume responsibility for improving motor carrier safety and to adopt and enforce regulations, standards, and orders of the Government on commercial motor vehicle safety, hazardous materials transportation safety, or compatible State regulations, standards, and orders. The Secretary shall approve the plan if the Secretary decides the plan is adequate to promote the objectives of this section and the plan—
 
 &emsp;&emsp;(A) implements performance-based activities, including deployment of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
 
@@ -110,7 +110,7 @@ Use of Grants To Enforce Other Laws.—A State may use amounts received under a 
 
 &emsp;(1) for the following activities if the activities are carried out in conjunction with an appropriate inspection of the commercial motor vehicle to enforce Government or State commercial motor vehicle safety regulations:
 
-&emsp;&emsp;(A) enforcement of commercial motor vehicle size and weight limitations at locations other than fixed weight facilities, at specific locations such as steep grades or mountainous terrains where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States; and
+&emsp;&emsp;(A) enforcement of commercial motor vehicle size and weight limitations at locations other than fixed weight facilities, at specific locations such as steep grades or mountainous terrains where the weight of a commercial motor vehicle can significantlyaffect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States; and
 
 &emsp;&emsp;(B) detection of the unlawful presence of a controlled substance (as defined under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)) in a commercial motor vehicle or on the person of any occupant (including the operator) of the vehicle; and
 
@@ -192,7 +192,7 @@ Subsec. (b)(2)(Y). Pub. L. 112–141, §32601(a)(4)(D)–(F), added subpar. (Y).
 
 Subsec. (b)(3). Pub. L. 112–141, §32601(a)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 112–141, §32601(a)(5), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "In estimating the average level of State expenditure under paragraph (1)(E) of this subsection, the Secretary—
+Subsec. (b)(4). Pub. L. 112–141, §32601(a)(5), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: "In estimating the average level of State expenditure under paragraph (1)(E) of this subsection, the Secretary—
 
 &emsp;"(A) may allow the State to exclude State expenditures for Government-sponsored demonstration or pilot programs; and
 
@@ -312,7 +312,7 @@ Period of availability of subsequently allocated funds.—Any funds allocated pu
 
 "(5)
 
-Effect of noncompliance.—If, on June 30 of the fiscal year in which funds are withheld from allocationunder paragraph (1), the State is not substantially complying with each requirement of section 31311 of title 49, United States Code, the funds are released to the Secretary for reallocation."
+Effect of noncompliance.—If, on June 30 of the fiscal year in which funds are withheld from allocation under paragraph (1), the State is not substantially complying with each requirement of section 31311 of title 49, United States Code, the funds are released to the Secretary for reallocation."
 
 #### Effects of MCSAP Grant Reductions
 

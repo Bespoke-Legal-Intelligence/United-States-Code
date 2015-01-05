@@ -14,7 +14,7 @@ The Secretary of Education shall establish or designate an administrative unit w
 
 The Secretary of Education may reserve an amount not to exceed 5 per centum of the sums appropriated under this subchapter to carry out the provisions of this section.
 
-(Pub. L. 94–482, title III, §343, Oct. 12, 1976, 90 Stat. 2225; Pub. L. 95–43, §1(b)(8), June 15, 1977, 91 Stat. 219; Pub. L. 96–88, title III, §301(a)(1), (b)(2), title V, §507, Oct. 17, 1979, 93 Stat. 677, 678, 692.)
+(Pub. L. 94–482, title III, §343, Oct. 12, 1976, 90 Stat. 2225; Pub. L. 95–43, §1(b)(8), June 15, 1977, 91Stat. 219; Pub. L. 96–88, title III, §301(a)(1), (b)(2), title V, §507, Oct. 17, 1979, 93 Stat. 677, 678, 692.)
 
 #### Amendments
 

@@ -44,11 +44,53 @@ Museums.—No commemorative work primarily designed as a museum may be located o
 
 Site-specific guidelines.—The National Capital Planning Commission and the Commission of Fine Arts may develop such criteria or guidelines specific to each site that are mutually agreed upon to ensure that the design of the commemorative work carries out the purposes of this chapter.
 
-&emsp;(7)
+(c)
 
-Donor contributions.—Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.
+Donor Contributions.—
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1229; Pub. L. 108–126, title II, §§203(e), 204, Nov. 17, 2003, 117 Stat. 1351, 1352.)
+&emsp;(1)
+
+Acknowledgment of donor contribution.—Except as otherwise provided in this subsection, the Secretary of the Interior or Administrator of General Services, as applicable, may permit a sponsor to acknowledge donor contributions at the commemorative work.
+
+&emsp;(2)
+
+Requirements.—An acknowledgment under paragraph (1) shall—
+
+&emsp;&emsp;(A) be displayed—
+
+&emsp;&emsp;&emsp;(i) inside an ancillary structure associated with the commemorative work; or
+
+&emsp;&emsp;&emsp;(ii) as part of a manmade landscape feature at the commemorative work; and
+
+&emsp;&emsp;(B) conform to applicable National Park Service or General Services Administration guidelines for donor recognition, as applicable.
+
+&emsp;(3)
+
+Limitations.—An acknowledgment under paragraph (1) shall—
+
+&emsp;&emsp;(A) be limited to an appropriate statement or credit recognizing the contribution;
+
+&emsp;&emsp;(B) be displayed in a form in accordance with National Park Service and General Services Administration guidelines;
+
+&emsp;&emsp;(C) be displayed for a period of up to 10 years, with the display period to be commensurate with the level of the contribution, as determined in accordance with the plan and guidelines described in subparagraph (B);
+
+&emsp;&emsp;(D) be freestanding; and
+
+&emsp;&emsp;(E) not be affixed to—
+
+&emsp;&emsp;&emsp;(i) any landscape feature at the commemorative work; or
+
+&emsp;&emsp;&emsp;(ii) any object in a museum collection.
+
+&emsp;(4)
+
+Cost.—The sponsor shall bear all expenses related to the display of donor acknowledgments under paragraph (1).
+
+&emsp;(5)
+
+Applicability.—This subsection shall apply to any commemorative work dedicated after January 1, 2010.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1229; Pub. L. 108–126, title II, §§203(e), 204, Nov. 17, 2003, 117 Stat. 1351, 1352; Pub. L. 113–291, div. B, title XXX, §3054(c), Dec. 19, 2014, 128 Stat. 3807.)
 
 Historical and Revision Notes
 
@@ -71,6 +113,10 @@ Pub. L. 99–652, §7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §2(d),
 40:1007(b).
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(7). Pub. L. 113–291, §3054(c)(1), struck out par. (7). Text read as follows: "Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site."
+
+Subsec. (c). Pub. L. 113–291, §3054(c)(2), added subsec. (c).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–126, §203(e)(1)(A), substituted "sponsor" for "person" wherever appearing.
 

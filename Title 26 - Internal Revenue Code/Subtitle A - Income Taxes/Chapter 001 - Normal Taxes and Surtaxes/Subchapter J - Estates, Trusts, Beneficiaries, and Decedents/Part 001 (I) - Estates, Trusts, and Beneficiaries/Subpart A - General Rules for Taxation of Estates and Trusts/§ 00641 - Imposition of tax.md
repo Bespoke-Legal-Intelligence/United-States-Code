@@ -60,7 +60,7 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 #### (4) Treatment of unused deductions where termination of separate trust
 
-&emsp;If a portion of an electing small business trust ceases to be treated as a separate trustunder paragraph (1), any carryover or excess deduction of the separate trust which is referred to in section 642(h) shall be taken into account by the entire trust.
+&emsp;If a portion of an electing small business trust ceases to be treated as a separate trust under paragraph (1), any carryover or excess deduction of the separate trust which is referred to in section 642(h) shall be taken into account by the entire trust.
 
 #### (5) Electing small business trust
 
@@ -120,5 +120,5 @@ Amendment by Pub. L. 94–455 applicable to transfers in trust made after May 21
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, see section 803(f) ofPub. L. 91–172, set out as a note under section 1 of this title.
 

@@ -2,17 +2,17 @@
 
 #### (a) In general
 
-Subject to subsections (b) and (c) of this section, this subchapter and the amendments made by this subchapter shall take effect on August 1, 1996.
+Subject to subsections (b) and (c), this subchapter and the amendments made by this subchapter shall take effect on August 1, 1996.
 
 #### (b) Suspension authority
 
 #### (1) Suspension authority
 
-&emsp;The President may suspend the effective date under subsection (a) of this section for a period of not more than 6 months if the President determines and reports in writing to the appropriate congressional committees at least 15 days before such effective date that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
+&emsp;The President may suspend the effective date under subsection (a) for a period of not more than 6 months if the President determines and reports in writing to the appropriate congressional committees at least 15 days before such effective date that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
 
 #### (2) Additional suspensions
 
-&emsp;The President may suspend the effective date under subsection (a) of this section for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
+&emsp;The President may suspend the effective date under subsection (a) for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
 
 #### (c) Other authorities
 
@@ -26,7 +26,7 @@ Subject to subsections (b) and (c) of this section, this subchapter and the amen
 
 #### (2) Additional suspensions
 
-&emsp;The President may suspend the right to bring an action under this subchapter for additional periods of not more than 6 months each, each of which shall begin on the day after thelast day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
+&emsp;The President may suspend the right to bring an action under this subchapter for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
 
 #### (3) Pending suits
 
@@ -34,7 +34,7 @@ Subject to subsections (b) and (c) of this section, this subchapter and the amen
 
 #### (d) Rescission of suspension
 
-The President may rescind any suspension made under subsection (b) or (c) of this section upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
+The President may rescind any suspension made under subsection (b) or (c) upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
 
 (Pub. L. 104–114, title III, §306, Mar. 12, 1996, 110 Stat. 821.)
 
@@ -48,7 +48,7 @@ Memorandum of President of the United States, Jan. 31, 2013, 78 F.R. 9573, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to you the authority to suspend the provisions of title III of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (Public Law 104–114; 22 U.S.C. 6021–6091), as authorized by section 306(c)(2) of the Act.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the UnitedStates Code, I hereby delegate to you the authority to suspend the provisions of title III of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (Public Law 104–114; 22 U.S.C. 6021–6091), as authorized by section 306(c)(2) of the Act.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

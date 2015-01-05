@@ -48,7 +48,7 @@ As used in this subchapter:
 
 #### (12) Public lands
 
-&emsp;The term "public lands" means any land or interest in land owned by the United States\(without regard to the means by which the United States acquired ownership of the land or interest in land) and administered by the Secretary through the Bureau of Land Management.
+&emsp;The term "public lands" means any land or interest in land owned by the United States (without regard to the means by which the United States acquired ownership of the land or interest in land) and administered by the Secretary through the Bureau of Land Management.
 
 #### (13) Royalties received and retained by the United States
 

@@ -68,7 +68,7 @@ From funds available under subsection (c) for national grants, the Secretary sha
 
 #### (e) Allotments for grants to States
 
-From the amount provided for grants to States under subsection (c), the Secretary shall allot for the State grantee in each State an amount that bears the same ratio to such amount as the product of the number of individuals age 55 or older in the State and the allotment percentage of such State bears to the sumof the corresponding products for all States, except as follows:
+From the amount provided for grants to States under subsection (c), the Secretary shall allot for the State grantee in each State an amount that bears the same ratio to such amount as the product of the number of individuals age 55 or older in the State and the allotment percentage of such State bears to the sum of the corresponding products for all States, except as follows:
 
 #### (1) Minimum allotment
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;The term "fiscal year 2000 level of activities" means—
 
-&emsp;&emsp;(A) with respect to public and nonprofit private agency and organization grantees that operate under this subchapter under national grants from the Secretary, their level of activities for fiscal year 2000; and
+&emsp;&emsp;(A) with respect to public and nonprofit private agency and organization granteesthat operate under this subchapter under national grants from the Secretary, their level of activities for fiscal year 2000; and
 
 &emsp;&emsp;(B) with respect to State grantees, their level of activities for fiscal year 2000.
 

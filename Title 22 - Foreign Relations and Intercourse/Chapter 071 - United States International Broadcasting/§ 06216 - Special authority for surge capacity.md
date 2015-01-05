@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the President such sums as may be necessaryfor the President to carry out this section, except that no such amount may be appropriated which, when added to amounts previously appropriated for such purpose but not yet obligated, would cause such amounts to exceed $25,000,000.
+&emsp;There are authorized to be appropriated to the President such sums as may be necessary for the President to carry out this section, except that no such amount may be appropriated which, when added to amounts previously appropriated for such purpose but not yet obligated, would cause such amounts to exceed $25,000,000.
 
 #### (2) Availability of funds
 

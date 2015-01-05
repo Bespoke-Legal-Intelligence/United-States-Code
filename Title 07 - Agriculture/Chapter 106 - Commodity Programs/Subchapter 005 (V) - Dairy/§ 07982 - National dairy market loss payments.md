@@ -36,7 +36,7 @@ The Secretary shall offer to enter into contracts with producers on a dairy farm
 
 Payments to a producer under this section shall be calculated by multiplying (as determined by the Secretary)—
 
-&emsp;(1) the payment quantity for the producer during the applicable month established under subsection (d) of this section;
+&emsp;(1) the payment quantity for the producer during the applicable month established under subsection (d);
 
 &emsp;(2) the amount equal to—
 
@@ -56,7 +56,7 @@ Payments to a producer under this section shall be calculated by multiplying (as
 
 #### (2) Limitation
 
-&emsp;The payment quantity for all producers on a single dairy operation during the months of the applicable fiscal year for which the producers receive payments under subsection (b) of this section shall not exceed 2,400,000 pounds. For purposes of determining whether producers are producers on separate dairy operations or a single dairy operation, the Secretary shall apply the same standards as wereapplied in implementing the dairy program under section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (as enacted into law by Public Law 106–387; 114 Stat. 1549A–50).
+&emsp;The payment quantity for all producers on a single dairy operation during the months of the applicable fiscal year for which the producers receive payments under subsection (b) shall not exceed 2,400,000 pounds. For purposes of determining whether producers are producers on separate dairy operations or a single dairy operation, the Secretary shall apply the same standards as were applied in implementing the dairy program under section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (as enacted into law by Public Law 106–387; 114 Stat. 1549A–50).
 
 #### (3) Reconstitution
 

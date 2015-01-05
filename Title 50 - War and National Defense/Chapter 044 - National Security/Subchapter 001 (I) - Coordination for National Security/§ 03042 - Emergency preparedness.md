@@ -38,7 +38,7 @@ For subsequent history relating to the Office of Defense Mobilization, see Trans
 
 <b>1954</b>—Act Sept. 3, 1954, §50(1), (2), struck out subsec. (a) which related to establishment of National Security Resources Board and redesignated subsecs. (b) to (d) as (a) to (c), respectively.
 
-Subsec. (a). Act Sept. 3, 1954, §50(3)–(5), substituted "Director of the Office of Defense Mobilization" for"Chairman of the Board", "Classification Act of 1949" for "Classification Act of 1923, as amended", and "Director in carrying out his" for "Board in carrying out its".
+Subsec. (a). Act Sept. 3, 1954, §50(3)–(5), substituted "Director of the Office of Defense Mobilization" for "Chairman of the Board", "Classification Act of 1949" for "Classification Act of 1923, as amended", and "Director in carrying out his" for "Board in carrying out its".
 
 Subsec. (b). Act Sept. 3, 1954, §50(6), substituted "Director of the Office of Defense Mobilization" for "Board" in introductory provisions.
 
@@ -46,7 +46,7 @@ Subsec. (c). Act Sept. 3, 1954, §50(7), substituted "his functions, the Directo
 
 #### Transfer of Functions
 
-Office of Defense Mobilization and Federal Civil Defense Administration consolidated to form Office of Emergency Preparedness, an agency within Executive Office of President, by section 2(a), (e) of Reorg. Plan No. 1 of 1958, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended by Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861; Pub. L. 87–296, §1, Sept. 22, 1961, 75 Stat. 630; Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194, set out in the Appendix to Title 5, Government Organization and Employees, and functions vested by law in Office of Defense Mobilization and Director thereof transferred to President, with power to delegate, by section 1 of Reorg. Plan No. 1 of 1958.
+Office of Defense Mobilization and Federal Civil Defense Administration consolidated to form Office of Emergency Preparedness, an agency within ExecutiveOffice of President, by section 2(a), (e) of Reorg. Plan No. 1 of 1958, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended by Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861; Pub. L. 87–296, §1, Sept. 22, 1961, 75 Stat. 630; Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194, set out in the Appendix to Title 5, Government Organization and Employees, and functions vested by law in Office of Defense Mobilization and Director thereof transferred to President, with power to delegate, by section 1 of Reorg. Plan No. 1 of 1958.
 
 Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law, after July 1, 1958, in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President of United States by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out in the Appendix to Title 5, Government Organization and Employees.
 

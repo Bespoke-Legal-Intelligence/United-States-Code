@@ -14,207 +14,60 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;Producers shall be appointed to the Board to represent States, with each State represented by the following number of members:
 
-&emsp;&emsp;Alabama
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Alaska
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Arizona
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Arkansas
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;California
-
-5&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Colorado
-
-4&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Connecticut
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Delaware
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Florida
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Georgia
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Hawaii
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Idaho
-
-2&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Illinois
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Indiana
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Iowa
-
-2&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Kansas
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Kentucky
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Louisiana
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Maine
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Maryland
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Massachusetts
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Michigan
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Minnesota
-
-2&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Mississippi
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Missouri
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Montana
-
-5&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Nebraska
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Nevada
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;New Hampshire
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;New Jersey
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;New Mexico
-
-2&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;New York
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;North Carolina
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;North Dakota
-
-2&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Ohio
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Oklahoma
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Oregon
-
-2&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Pennsylvania
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Rhode Island
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;South Carolina
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;South Dakota
-
-4&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Tennessee
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Texas
-
-10&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Utah
-
-3&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Vermont
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Virginia
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Washington
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;West Virginia
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Wisconsin
-
-1&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Wyoming
-
-5&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| Alabama | 1    |
+| Alaska | 1&nbsp;&nbsp;&nbsp; |
+| Arizona | 1&nbsp;&nbsp;&nbsp; |
+| Arkansas | 1&nbsp;&nbsp;&nbsp; |
+| California | 5&nbsp;&nbsp;&nbsp; |
+| Colorado | 4&nbsp;&nbsp;&nbsp; |
+| Connecticut | 1&nbsp;&nbsp;&nbsp; |
+| Delaware | 1&nbsp;&nbsp;&nbsp; |
+| Florida | 1&nbsp;&nbsp;&nbsp; |
+| Georgia | 1&nbsp;&nbsp;&nbsp; |
+| Hawaii | 1&nbsp;&nbsp;&nbsp; |
+| Idaho | 2&nbsp;&nbsp;&nbsp; |
+| Illinois | 1&nbsp;&nbsp;&nbsp; |
+| Indiana | 1&nbsp;&nbsp;&nbsp; |
+| Iowa | 2&nbsp;&nbsp;&nbsp; |
+| Kansas | 1&nbsp;&nbsp;&nbsp; |
+| Kentucky | 1&nbsp;&nbsp;&nbsp; |
+| Louisiana | 1&nbsp;&nbsp;&nbsp; |
+| Maine | 1&nbsp;&nbsp;&nbsp; |
+| Maryland | 1&nbsp;&nbsp;&nbsp; |
+| Massachusetts | 1&nbsp;&nbsp;&nbsp; |
+| Michigan | 1&nbsp;&nbsp;&nbsp; |
+| Minnesota | 2&nbsp;&nbsp;&nbsp; |
+| Mississippi | 1&nbsp;&nbsp;&nbsp; |
+| Missouri | 1&nbsp;&nbsp;&nbsp; |
+| Montana | 5&nbsp;&nbsp;&nbsp; |
+| Nebraska | 1&nbsp;&nbsp;&nbsp; |
+| Nevada | 1&nbsp;&nbsp;&nbsp; |
+| New Hampshire | 1&nbsp;&nbsp;&nbsp; |
+| New Jersey | 1&nbsp;&nbsp;&nbsp; |
+| New Mexico | 2&nbsp;&nbsp;&nbsp; |
+| New York | 1&nbsp;&nbsp;&nbsp; |
+| North Carolina | 1&nbsp;&nbsp;&nbsp; |
+| North Dakota | 2&nbsp;&nbsp;&nbsp; |
+| Ohio | 1&nbsp;&nbsp;&nbsp; |
+| Oklahoma | 1&nbsp;&nbsp;&nbsp; |
+| Oregon | 2&nbsp;&nbsp;&nbsp; |
+| Pennsylvania | 1&nbsp;&nbsp;&nbsp; |
+| Rhode Island | 1&nbsp;&nbsp;&nbsp; |
+| South Carolina | 1&nbsp;&nbsp;&nbsp; |
+| South Dakota | 4&nbsp;&nbsp;&nbsp; |
+| Tennessee | 1&nbsp;&nbsp;&nbsp; |
+| Texas | 10&nbsp;&nbsp;&nbsp; |
+| Utah | 3&nbsp;&nbsp;&nbsp; |
+| Vermont | 1&nbsp;&nbsp;&nbsp; |
+| Virginia | 1&nbsp;&nbsp;&nbsp; |
+| Washington | 1&nbsp;&nbsp;&nbsp; |
+| West Virginia | 1&nbsp;&nbsp;&nbsp; |
+| Wisconsin | 1&nbsp;&nbsp;&nbsp; |
+| Wyoming | 5&nbsp;&nbsp;&nbsp; |
 
 #### (B) Feeders
 
@@ -232,7 +85,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producers
 
-&emsp;&emsp;The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3) of this section. An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary at least 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
+&emsp;&emsp;The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3). An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary at least 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
 
 #### (B) Feeders
 
@@ -346,7 +199,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;(14) to employ or retain necessary staff; and
 
-&emsp;(15) to invest funds in accordance with subsection (k) of this section.
+&emsp;(15) to invest funds in accordance with subsection (k).
 
 #### (f) Budgets
 
@@ -362,7 +215,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) Establishment
 
-&emsp;The order shall establish an Executive Committee to administer the terms and provisions of the order, as provided in this subsection, under the direction of the Board and consistent with the policies determined by the Board.
+&emsp;The order shall establish an Executive Committee to administer the terms and provisions of the order, as provided in this subsection,under the direction of the Board and consistent with the policies determined by the Board.
 
 #### (2) Membership
 
@@ -408,7 +261,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (2) Contracts and agreements
 
-&emsp;A contract or agreement entered into by the Board under subsection (e)(7) of this section shall provide that—
+&emsp;A contract or agreement entered into by the Board under subsection (e)(7) shall provide that—
 
 &emsp;&emsp;(A) the contracting party shall develop and submit to the Board a plan or project, together with a budget or budgets that provides estimated costs to be incurred for the plan or project;
 
@@ -464,7 +317,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The rate of assessment under this paragraph may be raised or lowered not more than 2/10 of a cent per pound in any 1 year, as recommended by the Executive Committee and approved by the Board and the Secretary, except that the rate of assessment under this paragraph shall not exceed 4 cents per pound of greasy wool.
+&emsp;&emsp;&emsp;The rate of assessment under this paragraph may be raised or lowered not morethan 2/10 of a cent per pound in any 1 year, as recommended by the Executive Committee and approved by the Board and the Secretary, except that the rate of assessment under this paragraph shall not exceed 4 cents per pound of greasy wool.
 
 #### (3) Direct processing
 
@@ -514,7 +367,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The rate of assessment under this subparagraph may be raised or lowered not more than 2/10 cent per pound in any 1 year, as recommended by the Executive Committee and approved by the Board and theSecretary, except that the rate of assessment under this subparagraph shall not exceed 4 cents per pound of degreased wool or the equivalent of degreased wool.
+&emsp;&emsp;&emsp;The rate of assessment under this subparagraph may be raised or lowered not more than 2/10 cent per pound in any 1 year, as recommended by the Executive Committee and approved by the Board and the Secretary, except that the rate of assessment under this subparagraph shall not exceed 4 cents per pound of degreased wool or the equivalent of degreased wool.
 
 #### (6) Qualified State sheep boards
 

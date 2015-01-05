@@ -6,7 +6,7 @@ In this section, the term "agricultural commodity" means an agricultural commodi
 
 #### (b) Program
 
-Subject to subsection (l) of this section, the Secretary may establish a program, to be known as "McGovern-Dole International Food for Education and Child Nutrition Program", requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
+Subject to subsection (l), the Secretary may establish a program, to be known as "McGovern-Dole International Food for Education and Child Nutrition Program", requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
 
 &emsp;(1) preschool and school food for education programs in foreign countries to improve food security, reduce the incidence of hunger, and improve literacy and primary education, particularly with respect to girls; and
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law—
 
 &emsp;&emsp;(vi) the charges for general average contributions arising out of the ocean transport of agricultural commodities transferred pursuant thereto;
 
-&emsp;&emsp;(B) all or any part of the internal transportation, storage, and handling costs incurredin moving the eligible commodity, if the Secretary determines that—
+&emsp;&emsp;(B) all or any part of the internal transportation, storage, and handling costs incurred in moving the eligible commodity, if the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) payment of the costs is appropriate; and
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law—
 
 #### (d) General authorities
 
-The Secretary shall to <sup>1</sup> —
+The Secretary shall—
 
 &emsp;(1) implement the program established under this section;
 
@@ -72,7 +72,7 @@ Assistance may be provided under this section to private voluntary organizations
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that procedures are established that—
+&emsp;In carrying out subsection (b), the Secretary shall ensure that procedures are established that—
 
 &emsp;&emsp;(A) provide for the submission of proposals by eligible entities, each of which may include 1 or more recipient countries, for commodities and other assistance under this section;
 
@@ -102,7 +102,7 @@ Assistance may be provided under this section to private voluntary organizations
 
 #### (g) Use of Food and Nutrition Service
 
-The Food and Nutrition Service of the Department of Agriculture may provide technical advice on the establishment of programs under subsection (b)(1) of this section and on implementation of the programs in the field in recipient countries.
+The Food and Nutrition Service of the Department of Agriculture may provide technical advice on the establishment of programs under subsection (b)(1) and on implementation of the programs in the field in recipient countries.
 
 #### (h) Multilateral involvement
 
@@ -112,7 +112,7 @@ The Food and Nutrition Service of the Department of Agriculture may provide tech
 
 #### (2) Reports
 
-&emsp;The Secretary shall annually submit to the Committee on International Relations and the Committee on Agriculture of the House ofRepresentatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the commitments and activities of governments, including the United States government, in the global effort to reduce child hunger and increase school attendance.
+&emsp;The Secretary shall annually submit to the Committee on International Relations and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the commitments and activities of governments, including the United States government, in the global effort to reduce child hunger and increase school attendance.
 
 #### (i) Private sector involvement
 
@@ -142,19 +142,23 @@ The requirement of section 1733(a) of this title applies with respect to the ava
 
 #### (2) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2018.
 
 #### (3) Administrative expenses
 
 &emsp;Funds made available to carry out this section may be used to pay the administrative expenses of the Department of Agriculture or any other Federal agency assisting in the implementation of this section.
 
-(Pub. L. 107–171, title III, §3107, May 13, 2002, 116 Stat. 295; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(G), 3106, June 18, 2008, 122 Stat. 1820, 1833.)
+(Pub. L. 107–171, title III, §3107, May 13, 2002, 116 Stat. 295; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(G), 3106, June 18, 2008, 122 Stat. 1820, 1833; Pub. L. 113–79, title III, §3204, Feb. 7, 2014, 128 Stat. 780.)
 
 #### Codification
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Food for Peace Act which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–79, §3204(b), struck out "to" after "shall" in introductory provisions.
+
+Subsec. (l)(2). Pub. L. 113–79, §3204(a), substituted "2018" for "2012".
 
 <b>2008</b>—Subsecs. (b), (c)(2)(B). Pub. L. 110–246, §3106(1), substituted "Secretary" for "President" in introductory provisions.
 
@@ -197,6 +201,4 @@ In the implementation of a program for which section 3107 provides, the Secretar
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. The word "to" probably should not appear.</i>
 

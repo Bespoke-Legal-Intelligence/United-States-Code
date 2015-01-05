@@ -22,7 +22,7 @@
 
 #### (3) Servicemember family leave
 
-&emsp;Subject to section 2613 of this title, an eligible employee who is the spouse, son, daughter, parent, or next of kin of a coveredservicemember shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the servicemember. The leave described in this paragraph shall only be available during a single 12-month period.
+&emsp;Subject to section 2613 of this title, an eligible employee who is the spouse, son, daughter,parent, or next of kin of a covered servicemember shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the servicemember. The leave described in this paragraph shall only be available during a single 12-month period.
 
 #### (4) Combined leave total
 

@@ -72,7 +72,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Alternate participants
 
-&emsp;&emsp;In any State where the Program is being implemented, the Commissioner shall enter into an agreement with any alternate participant that is operating under the authority of section 422(d)(2) of this title in the State as of December 17, 1999, and chooses to serve as an employment network under the Program.
+&emsp;&emsp;In any State where the Program is being implemented, the Commissioner shall enterinto an agreement with any alternate participant that is operating under the authority of section 422(d)(2) of this title in the State as of December 17, 1999, and chooses to serve as an employment network under the Program.
 
 #### (5) Termination of agreements with employment networks
 
@@ -118,7 +118,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) One-stop delivery systems
 
-&emsp;&emsp;An employment network serving under the Program may consist of a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.).
+&emsp;&emsp;An employment network serving under the Program may consist of a one-stop deliverysystem established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.).
 
 #### (C) Compliance with selection criteria
 
@@ -150,7 +150,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;Each employment network shall—
 
-&emsp;&emsp;(A) take such measures as are necessary to ensure that employment services, vocationalrehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subparagraph (C);
+&emsp;&emsp;(A) take such measures as are necessary to ensure that employment services, vocational rehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subparagraph (C);
 
 &emsp;&emsp;(B) develop and implement each such individual work plan, in partnership with each beneficiary receiving such services, in a manner that affords such beneficiary the opportunity to exercise informed choice in selecting an employment goal and specific services needed to achieve that employment goal;
 
@@ -212,7 +212,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Early payments upon attainment of milestones in advance of outcome payment periods
 
-&emsp;&emsp;The outcome-milestone payment system shall provide for 1 or more milestones, withrespect to beneficiaries receiving services from an employment network under the Program, that are directed toward the goal of permanent employment. Such milestones shall form a part of a payment structure that provides, in addition to payments made during outcome payment periods, payments made prior to outcome payment periods in amounts based on the attainment of such milestones.
+&emsp;&emsp;The outcome-milestone payment system shall provide for 1 or more milestones, with respect to beneficiaries receiving services from an employment network under the Program, that are directed toward the goal of permanent employment. Such milestones shall form a part of a payment structure that provides, in addition to payments made during outcome payment periods, payments made prior to outcome payment periods in amounts based on the attainment of such milestones.
 
 #### (C) Limitation on total payments to employment network
 
@@ -310,7 +310,11 @@ In this section:
 
 Not later than 1 year after December 17, 1999, the Commissioner shall prescribe such regulations as are necessary to carry out the provisions of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113 Stat. 1863; amended Pub. L. 108–203, title IV, §405(a), Mar. 2, 2004, 118 Stat. 526.)
+(Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113 Stat. 1863; amended Pub. L. 108–203, title IV, §405(a), Mar. 2, 2004, 118 Stat. 526; Pub. L. 113–128, title V, §512(dd)(2), July 22, 2014, 128 Stat. 1718.)
+
+#### Amendment of Subsection (f)(1)(B)
+
+<i>Pub. L. 113–128, title V, §§506, 512(dd)(2), July 22, 2014, 128 Stat. 1703, 1718, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(1)(B) of this section is amended by striking "a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)" and inserting "a one-stop delivery system established under section 3151(e) of title 29". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -324,7 +328,13 @@ Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999
 
 #### Amendments
 
+<b>2014</b>—Subsec. (f)(1)(B). Pub. L. 113–128 substituted "a one-stop delivery system established under section 3151(e) of title 29" for "a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)".
+
 <b>2004</b>—Subsec. (g)(1). Pub. L. 108–203 inserted concluding provisions.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2004 Amendment
 
@@ -332,7 +342,7 @@ Pub. L. 108–203, title IV, §405(b), Mar. 2, 2004, 118 Stat. 527, provided tha
 
 #### Effective Date
 
-Pub. L. 106–170, title I, §101(c), 113 Stat. 1874, provided that: "Subject to subsection (d) \[set out as a notebelow\], the amendments made by subsections (a) and (b) \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] shall take effect with the first month following 1 year after the date of the enactment of this Act \[Dec. 17, 1999\]."
+Pub. L. 106–170, title I, §101(c), 113 Stat. 1874, provided that: "Subject to subsection (d) \[set out as a note below\], the amendments made by subsections (a) and (b) \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] shall take effect with the first month following 1 year after the date of the enactment of this Act \[Dec. 17, 1999\]."
 
 #### Regulations
 
@@ -528,7 +538,7 @@ In general.—In the case of any State in which the amendments made by subsectio
 
 &emsp;"(B)
 
-Existing agreements.—Nothing in subparagraph (A) or the amendments made by subsection (a) \[enacting this section\] shall be construed to limit, impede, or otherwise affect any agreement entered into pursuant to section 222(d)(2) of the Social Security Act (42 U.S.C. 422(d)(2)) before the date of the enactment of this Act \[Dec. 17, 1999\] with respect to services provided pursuant to such agreement to beneficiaries receiving services under such agreement as of such date, except with respect to services (if any) to be provided after 3 years after the effective date provided in subsection (c)."
+Existing agreements.—Nothing in subparagraph (A) or the amendments made by subsection (a) \[enacting this section\] shall be construed to limit, impede, or otherwise affect any agreement enteredinto pursuant to section 222(d)(2) of the Social Security Act (42 U.S.C. 422(d)(2)) before the date of the enactment of this Act \[Dec. 17, 1999\] with respect to services provided pursuant to such agreement to beneficiaries receiving services under such agreement as of such date, except with respect to services (if any) to be provided after 3 years after the effective date provided in subsection (c)."
 
 #### Ticket to Work and Work Incentives Advisory Panel
 
@@ -654,7 +664,7 @@ Hearings and sessions.—The Panel may, for the purpose of carrying out its duti
 
 &emsp;"(B)
 
-Powers of members and agents.—Any member or agent of the Panel may, if authorized by the Panel, take any action which the Panel is authorized to take by this section \[enacting this section, amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title, and enacting provisions set out as notes above\].
+Powers of members and agents.—Any member or agent of the Panel may, if authorized by the Panel, take any action which the Panel is authorizedto take by this section \[enacting this section, amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title, and enacting provisions set out as notes above\].
 
 &emsp;"(C)
 

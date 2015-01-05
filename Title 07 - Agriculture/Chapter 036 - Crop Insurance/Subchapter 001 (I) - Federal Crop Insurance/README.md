@@ -16,6 +16,8 @@
 - [&sect; 01507 - Personnel of Corporation](%C2%A7%2001507%20-%20Personnel%20of%20Corporation.md)
 - [&sect; 01508 - Crop insurance](%C2%A7%2001508%20-%20Crop%20insurance.md)
 - [&sect; 01508a - Double insurance and prevented planting](%C2%A7%2001508a%20-%20Double%20insurance%20and%20prevented%20planting.md)
+- [&sect; 01508b - Stacked Income Protection Plan for producers of upland cotton](%C2%A7%2001508b%20-%20Stacked%20Income%20Protection%20Plan%20for%20producers%20of%20upland%20cotton.md)
+- [&sect; 01508c - Peanut revenue crop insurance](%C2%A7%2001508c%20-%20Peanut%20revenue%20crop%20insurance.md)
 - [&sect; 01509 - Exemption of indemnities from levy](%C2%A7%2001509%20-%20Exemption%20of%20indemnities%20from%20levy.md)
 - [&sect; 01510 - Deposit and investment of funds; Federal Reserve banks as fiscal agents](%C2%A7%2001510%20-%20Deposit%20and%20investment%20of%20funds%3B%20Federal%20Reserve%20banks%20as%20fiscal%20agents.md)
 - [&sect; 01511 - Tax exemption](%C2%A7%2001511%20-%20Tax%20exemption.md)

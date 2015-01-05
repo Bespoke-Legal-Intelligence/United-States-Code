@@ -70,7 +70,7 @@ In carrying out functions.—An independent counsel may request assistance from 
 
 &emsp;(2)
 
-Payment of and reports on expenditures of independent counsel.—The Department of Justice shall pay all costs relating to the establishment and operation of any office of independent counsel. The Attorney General shall submit to the Congress, not later than 30days after the end of each fiscal year, a report on amounts paid during that fiscal year for expenses of investigations and prosecutions by independent counsel. Each such report shall include a statement of all payments made for activities of independent counsel but may not reveal the identity or prosecutorial jurisdiction of any independent counsel which has not been disclosed under section 593(b)(4).
+Payment of and reports on expenditures of independent counsel.—The Department of Justice shall pay all costs relating to the establishment and operation of any office of independent counsel. The Attorney General shall submit to the Congress, not later than 30 days after the end of each fiscal year, a report on amounts paid during that fiscal year for expenses of investigations and prosecutions by independent counsel. Each such report shall include a statement of all payments made for activities of independent counsel but may not reveal the identity or prosecutorial jurisdiction of any independent counsel which has not been disclosed under section 593(b)(4).
 
 (e)
 
@@ -90,7 +90,7 @@ National security.—An independent counsel shall comply with guidelines and pro
 
 (g)
 
-Dismissal of Matters.—The independent counsel shall have full authority to dismiss matters within the independent counsel's prosecutorial jurisdiction without conducting an investigation or at any subsequent time before prosecution, if to do so would be consistent with the written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
+Dismissal of Matters.—The independent counsel shall have full authority to dismiss matters within the independent counsel's prosecutorial jurisdiction without conducting an investigation or at any subsequent time before prosecution, if to do so would be consistent with thewritten or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
 
 (h)
 
@@ -110,7 +110,7 @@ Disclosure of information in reports.—The division of the court may release to
 
 &emsp;(3)
 
-Publication of reports.—At the request of an independent counsel, the Public Printer shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Public Printer shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
+Publication of reports.—At the request of an independent counsel, the Director of the Government Publishing Office shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Director of the Government Publishing Office shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
 
 (i)
 
@@ -134,7 +134,7 @@ Restrictions on employment while independent counsel and appointees are serving.
 
 &emsp;(2)
 
-Post employment restrictions on independent counsel and appointees.—(A) Eachindependent counsel and each person appointed by that independent counsel under subsection (c) may not, for 3 years following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter if that individual was the subject of an investigation or prosecution under this chapter that was conducted by that independent counsel.
+Post employment restrictions on independent counsel and appointees.—(A) Each independent counsel and each person appointed by that independent counsel under subsection (c) may not, for 3 years following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter if that individual was the subject of an investigation or prosecution under this chapter that was conducted by that independent counsel.
 
 &emsp;(B) Each independent counsel and each person appointed by that independent counsel under subsection (c) may not, for 1 year following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter involving any investigation or prosecution under this chapter.
 
@@ -218,13 +218,13 @@ Department of justice policies.—An independent counsel shall comply with the e
 
 &emsp;(2)
 
-Administrative support.—The Director of the Administrative Office of the UnitedStates Courts shall provide administrative support and guidance to each independent counsel. No officer or employee of the Administrative Office of the United States Courts shall disclose information related to an independent counsel's expenditures, personnel, or administrative acts or arrangements without the authorization of the independent counsel.
+Administrative support.—The Director of the Administrative Office of the United States Courts shall provide administrative support and guidance to each independent counsel. No officer or employee of the Administrative Office of the United States Courts shall disclose information related to an independent counsel's expenditures, personnel, or administrative acts or arrangements without the authorization of the independent counsel.
 
 &emsp;(3)
 
 Office space.—The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, §3(a)–(f), (m), (o), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, §3(a)–(f), (m), (o), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
@@ -273,6 +273,10 @@ Subsecs. (d), (e). Pub. L. 97–409, §2(a)(1), substituted "independent counsel
 Subsec. (f). Pub. L. 97–409, §§2(a)(1)(A), 6(b), substituted "independent counsel" for "special prosecutor", "except where not possible" for "to the extent that such special prosecutor deems appropriate", and "written or other established policies" for "written policies".
 
 Subsec. (g). Pub. L. 97–409, §6(c), added subsec. (g).
+
+#### Change of Name
+
+"Director of the Government Publishing Office" substituted for "Public Printer" in subsec. (h)(3) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 

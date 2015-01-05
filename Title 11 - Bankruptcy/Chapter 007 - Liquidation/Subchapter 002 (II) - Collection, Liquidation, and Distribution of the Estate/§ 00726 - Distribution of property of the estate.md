@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) proof of such claim is filed in time to permit payment of such claim;
 
-&emsp;(3) third, in payment of any allowed unsecured claim proof of which is tardily filed under section 501(a) of this title, other than a claim of the kind specified in paragraph (2)(C) of this subsection;
+&emsp;(3) third, in payment of any allowed unsecured claim proof of which is tardily filed under section 501(a) of this title, other than aclaim of the kind specified in paragraph (2)(C) of this subsection;
 
 &emsp;(4) fourth, in payment of any allowed claim, whether secured or unsecured, for any fine, penalty, or forfeiture, or for multiple, exemplary, or punitive damages, arising before the earlier of the order for relief or the appointment of a trustee, to the extent that such fine, penalty, forfeiture, or damages are not compensation for actual pecuniary loss suffered by the holder of such claim;
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) First, community claims against the debtor or the debtor's spouse shall be paid from property of the kind specified in section 541(a)(2) of this title, except to the extent that such property is solely liable for debts of the debtor.
 
-&emsp;&emsp;(B) Second, to the extent that community claims against the debtor are not paid undersubparagraph (A) of this paragraph, such community claims shall be paid from property of the kind specified in section 541(a)(2) of this title that is solely liable for debts of the debtor.
+&emsp;&emsp;(B) Second, to the extent that community claims against the debtor are not paid under subparagraph (A) of this paragraph, such community claims shall be paid from property of the kind specified in section 541(a)(2) of this title that is solely liable for debts of the debtor.
 
 &emsp;&emsp;(C) Third, to the extent that all claims against the debtor including community claims against the debtor are not paid under subparagraph (A) or (B) of this paragraph such claims shall be paid from property of the estate other than property of the kind specified in section 541(a)(2) of this title.
 
@@ -68,7 +68,7 @@ This section also specifies that interest accrued on all claims (including prior
 
 Any surplus is paid to the debtor under paragraph (6).
 
-Subsection (b) follows current law. It specifies that claims within a particular class are to be paid pro rata. This provision will apply, of course, only when there are inadequate funds to pay the holders of claims of a particular class in full. The exception found in the section, which also follows current law, specifies that liquidation administrative expenses are to be paid ahead of reorganization administrative expenses if the case has been converted from a reorganization case to a liquidation case, or from an individual repayment plan case to a liquidation case.
+Subsection (b) follows current law. It specifies that claims within a particular class are to be paid pro rata.This provision will apply, of course, only when there are inadequate funds to pay the holders of claims of a particular class in full. The exception found in the section, which also follows current law, specifies that liquidation administrative expenses are to be paid ahead of reorganization administrative expenses if the case has been converted from a reorganization case to a liquidation case, or from an individual repayment plan case to a liquidation case.
 
 Subsection (c) governs distributions in cases in which there is community property and other property of the estate. The section requires the two kinds of property to be segregated. The distribution is as follows: First, administrative expenses are to be paid, as the court determines on any reasonable equitable basis, from both kinds of property. The court will divide administrative expenses according to such factors as the amount of each kind of property in the estate, the cost of preservation and liquidation of each kind of property, and whether any particular administrative expenses are attributable to one kind of property or the other. Second, claims are to be paid as provided under subsection (a) (the normal liquidation case distribution rules) in the following order and manner: First, community claims against the debtor or the debtor's spouse are paid from community property, except such as is liable solely for the debts of the debtor.
 

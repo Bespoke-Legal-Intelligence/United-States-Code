@@ -20,7 +20,7 @@ Congress finds the following:
 
 &emsp;(9) In 1938, Congress again acknowledged the unique status of the Hawaiian people by including in the Act of June 20, 1938 (52 Stat. 781, chapter 530; 16 U.S.C. 391b, 391b–1, 392b, 392c, 396, 396a), a provision to lease lands within the National Parks extension to Native Hawaiians and to permit fishing in the area "only by native Hawaiian residents of said area or of adjacent villages and by visitors under their guidance.".
 
-&emsp;(10) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges and amendments to such Act affecting the rights of beneficiaries under such Act.
+&emsp;(10) Under the Act entitled "An Act to provide for the admission of the State of Hawaiiinto the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges and amendments to such Act affecting the rights of beneficiaries under such Act.
 
 &emsp;(11) In 1959, under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", the United States also ceded to the State of Hawaii title to the public lands formerly held by the United States, but mandated that such lands be held by the State "in public trust" and reaffirmed the special relationship that existed between the United States and the Hawaiian people by retaining the legal responsibility to enforce the public trust responsibility of the State of Hawaii for the betterment of the conditions of Native Hawaiians, as defined in section 201(a) of the Hawaiian Homes Commission Act, 1920.
 
@@ -50,7 +50,7 @@ Congress finds the following:
 
 &emsp;&emsp;(D) the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.);
 
-&emsp;&emsp;(E) the National Historic Preservation Act (16 U.S.C. 470 et seq.);
+&emsp;&emsp;(E) division A of subtitle III of title 54;
 
 &emsp;&emsp;(F) the Native American Languages Act (25 U.S.C. 2901 et seq.);
 
@@ -110,7 +110,11 @@ Congress finds the following:
 
 &emsp;&emsp;(C) promotes the study of the Hawaiian culture, language, and history by providing a Hawaiian education program and using community expertise as a suitable and essential means to further the program.
 
-(Pub. L. 89–10, title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932; amended Pub. L. 111–256, §2(c), Oct. 5, 2010, 124 Stat. 2643.)
+(Pub. L. 89–10, title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932; amended Pub. L. 111–256, §2(c), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title V, §512(i)(5), July 22, 2014, 128 Stat. 1709; Pub. L. 113–287, §5(e)(3), Dec. 19, 2014, 128 Stat. 3268.)
+
+#### Amendment of Paragraph (13)(H)
+
+<i>Pub. L. 113–128, title V, §§506, 512(i)(5), July 22, 2014, 128 Stat. 1703, 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (13)(H) of this section is amended by striking "the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)" and inserting "the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -124,15 +128,13 @@ Act of June 20, 1938, referred to in par. (9), is act June 20, 1938, ch. 530, 52
 
 An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, whichis classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
+The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 
 The American Indian Religious Freedom Act, referred to in par. (13)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 The National Museum of the American Indian Act, referred to in par. (13)(C), is Pub. L. 101–185, Nov. 28, 1989, 103 Stat. 1336, which is classified generally to subchapter XIII (§80q et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 80q of this title and Tables.
 
-The Native American Graves Protection and Repatriation Act, referred to in par. (13)(D), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables.
-
-The National Historic Preservation Act, referred to in par. (13)(E), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in par. (13)(D), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§3001 et seq.) of Title 25, Indians.For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables.
 
 The Native American Languages Act, referred to in par. (13)(F), is title I of Pub. L. 101–477, Oct. 30, 1990, 104 Stat. 1153, which is classified generally to chapter 31 (§2901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of Title 25 and Tables.
 
@@ -150,7 +152,15 @@ A prior section 7512, Pub. L. 89–10, title VII, §7202, as added Pub. L. 103�
 
 #### Amendments
 
+<b>2014</b>—Par. (13)(E). Pub. L. 113–287 substituted "division A of subtitle III of title 54" for "the National Historic Preservation Act (16 U.S.C. 470 et seq.)".
+
+Par. (13)(H). Pub. L. 113–128 substituted "the Workforce Innovation and Opportunity Act" for "the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
+
 <b>2010</b>—Par. (16)(E). Pub. L. 111–256 substituted "mild intellectual disabilities," for "mild mental retardation,".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Definitions
 

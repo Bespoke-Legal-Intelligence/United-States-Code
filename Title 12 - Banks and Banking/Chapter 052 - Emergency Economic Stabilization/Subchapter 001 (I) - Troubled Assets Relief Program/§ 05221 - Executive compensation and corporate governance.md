@@ -48,7 +48,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(C) A prohibition on such TARP recipient making any golden parachute payment to a senior executive officer or any of the next 5 most highly-compensated employees of the TARP recipient during the period in which any obligation arising from financial assistance provided under the TARP remains outstanding.
 
-&emsp;&emsp;(D)(i) A prohibition on such TARP recipient paying or accruing any bonus, retention award, or incentive compensation during the period in which any obligation arising from financial assistance provided under the TARP remains outstanding, except that any prohibition developed under this paragraph shall not apply to the payment of long-term restricted stock by such TARP recipient, provided that such long-term restricted stock—
+&emsp;&emsp;(D)(i) A prohibition on such TARP recipient paying or accruing any bonus, retention award, or incentive compensation during theperiod in which any obligation arising from financial assistance provided under the TARP remains outstanding, except that any prohibition developed under this paragraph shall not apply to the payment of long-term restricted stock by such TARP recipient, provided that such long-term restricted stock—
 
 &emsp;&emsp;&emsp;(I) does not fully vest during the period in which any obligation arising from financial assistance provided to that TARP recipient remains outstanding;
 
@@ -132,7 +132,7 @@ The board of directors of any TARP recipient shall have in place a company-wide 
 
 #### (g) No impediment to withdrawal by TARP recipients
 
-Subject to consultation with the appropriate Federal banking agency (as that term is defined in section 1813 of this title), if any, the Secretary shall permit a TARP recipient to repay any assistance previously provided under theTARP to such financial institution, without regard to whether the financial institution has replaced such funds from any other source or to any waiting period, and when such assistance is repaid, the Secretary, at the market price, may liquidate warrants associated with such assistance.
+Subject to consultation with the appropriate Federal banking agency (as that term is defined in section 1813 of this title), if any, the Secretary shall permit a TARP recipient to repay any assistance previously provided under the TARP to such financial institution, without regard to whether the financial institution has replaced such funds from any other source or to any waiting period, and when such assistance is repaid, the Secretary, at the market price, may liquidate warrants associated with such assistance.
 
 #### (h) Regulations
 

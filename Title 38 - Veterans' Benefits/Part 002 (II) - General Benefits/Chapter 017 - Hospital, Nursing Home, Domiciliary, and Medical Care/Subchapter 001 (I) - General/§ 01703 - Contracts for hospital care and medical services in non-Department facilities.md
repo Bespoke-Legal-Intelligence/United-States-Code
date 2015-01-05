@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) a veteran who (i) has been furnished hospital care, nursing home care, domiciliary care, or medical services, and (ii) requires medical services to complete treatment incident to such care or services; or
 
-&emsp;&emsp;(C) a veteran described in section 1710(a)(2)(E) of this title, or a veteran who is in receipt of increased pension, or additional compensation or allowances based on the need of regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance), if the Secretary has determined, based on an examination by a physician employed by the Department (or, inareas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in Department facilities.
+&emsp;&emsp;(C) a veteran described in section 1710(a)(2)(E) of this title, or a veteran who is in receipt of increased pension, or additional compensation or allowances based on the need of regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance), if the Secretary has determined, based on an examination by a physician employed by the Department (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in Department facilities.
 
 &emsp;(3) Hospital care or medical services for the treatment of medical emergencies which pose a serious threat to the life or health of a veteran receiving medical services in a Department facility or nursing home care under section 1720 of this title until such time following the furnishing of care in the non-Department facility as the veteran can be safely transferred to a Department facility.
 
@@ -164,11 +164,11 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[M
 
 "(d)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section$5,000,000 for fiscal year 2010 and each fiscal year thereafter."
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2010 and each fiscal year thereafter."
 
 #### Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas
 
-Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155, provided that:
+Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908, provided that:
 
 "(a)
 
@@ -184,19 +184,21 @@ Commencement.—The Secretary shall commence the conduct of the pilot program on
 
 &emsp;"(3)
 
-Termination.—A veteran may receive health services under the pilot program only during the three-year period beginning on the date of the commencement of the pilot program under paragraph (2).
+Termination.—A veteran may receive health services under the pilot program only during the period beginning on the date of the commencement of the pilot program under paragraph (2) and ending on the date that is two years after the date of the enactment of the Veterans Access, Choice, and Accountability Act of 2014 \[Aug. 7, 2014\].
 
 &emsp;"(4)
 
-Program locations.—The pilot program shall be carried out within areas selected by the Secretary for the purposes of the pilot program in at least five Veterans Integrated Service Networks (VISNs). Of the Veterans Integrated Service Networks so selected—
+Program locations.—The Secretary shall carry out the pilot program at locations in the following Veterans Integrated Service Networks (and such other locations as the Secretary considers appropriate):
 
-&emsp;&emsp;"(A) not less than four such networks shall include at least three highly rural counties, as determined by the Secretary upon consideration of the most recent decennial census;
+&emsp;&emsp;"(A) Veterans Integrated Service Network 1.
 
-&emsp;&emsp;"(B) not less than one such network, not including a network selected under subparagraph (A), shall include only one highly rural county, as determined by the Secretary upon consideration of the most recent decennial census;
+&emsp;&emsp;"(B) Veterans Integrated Service Network 6.
 
-&emsp;&emsp;"(C) all such networks shall include area within the borders of at least four States; and
+&emsp;&emsp;"(C) Veterans Integrated Service Network 15.
 
-&emsp;&emsp;"(D) no such networks shall be participants in the Healthcare Effectiveness through Resource Optimization pilot program of the Department of Veterans Affairs.
+&emsp;&emsp;"(D) Veterans Integrated Service Network 18.
+
+&emsp;&emsp;"(E) Veterans Integrated Service Network 19.
 
 "(b)
 
@@ -204,7 +206,7 @@ Covered Veterans.—For purposes of the pilot program under this section, a cove
 
 &emsp;"(1) is—
 
-&emsp;&emsp;"(A) enrolled in the system of patient enrollment established under section 1705(a) of title 38, United States Code, as of the date of the commencement of the pilot program under subsection (a)(2); or
+&emsp;&emsp;"(A) enrolled in the system of patient enrollment established under section 1705(a) of title 38, United States Code, as of August 1, 2014; or
 
 &emsp;&emsp;"(B) eligible for health care under section 1710(e)(3) of such title; and
 
@@ -238,6 +240,22 @@ Exchange of Medical Information.—In conducting the pilot program under this se
 
 "(h)
 
+Appointments.—In carrying out the pilot program under this section, the Secretary shall ensure that medical appointments for covered veterans—
+
+&emsp;"(1) are scheduled not later than 5 days after the date on which the appointment is requested; and
+
+&emsp;"(2) occur not later than 30 days after such date.
+
+"(i)
+
+Outreach.—The Secretary shall ensure that covered veterans are informed about the pilot program under this section.
+
+"(j)
+
+Use of Existing Contracts.—Notwithstanding any provision of law relating to the use of competitive procedures in entering into contracts, in carrying out the pilot program under this section after the date of the enactment of the Veterans Access, Choice, and Accountability Act of 2014 \[Aug. 7, 2014\], the Secretary shall make use of contracts entered into under this section before such date or may enter into new contracts.
+
+"(k)
+
 Reports.—Not later than the 30 days after the end of each year in which the pilot program under this section is conducted, the Secretary shall submit to the Committee of Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report which includes—
 
 &emsp;"(1) the assessment of the Secretary of the pilot program during the preceding year, including its cost, volume, quality, patient satisfaction, benefit to veterans, and such other findings and conclusions with respect to pilot program as the Secretary considers appropriate; and
@@ -246,7 +264,7 @@ Reports.—Not later than the 30 days after the end of each year in which the pi
 
 &emsp;&emsp;"(A) the continuation of the pilot program;
 
-&emsp;&emsp;"(B) extension of the pilot program to other or all Veterans Integrated Service Networks of the Department;
+&emsp;&emsp;"(B) extension of the pilot program to other or all Veterans Integrated Service Networks of the Department; and
 
 &emsp;&emsp;"(C) making the pilot program permanent."
 

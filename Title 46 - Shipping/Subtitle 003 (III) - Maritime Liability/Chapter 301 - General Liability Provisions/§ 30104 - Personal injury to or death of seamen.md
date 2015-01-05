@@ -34,5 +34,5 @@ In subsection (b), the words "An action under this section shall be brought" are
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. C, title XXXV, §3521(b), Jan. 28, 2008, 122 Stat. 596, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of Public Law 109–304."
+Pub. L. 110–181, div. C, title XXXV, §3521(b), Jan. 28, 2008, 122 Stat. 596, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall be effective as if included in the enactment of Public Law 109–304."
 

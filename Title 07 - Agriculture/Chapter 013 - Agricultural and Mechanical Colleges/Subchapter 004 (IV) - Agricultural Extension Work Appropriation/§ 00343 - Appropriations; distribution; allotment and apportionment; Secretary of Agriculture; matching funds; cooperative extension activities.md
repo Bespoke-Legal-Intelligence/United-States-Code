@@ -4,7 +4,7 @@
 
 (b)(1) Out of such sums, each State and the Secretary of Agriculture shall be entitled to receive annually a sum of money equal to the sums available from Federal cooperative extension funds for the fiscal year 1962, and subject to the same requirements as to furnishing of equivalent sums by the State, except that amounts heretofore made available to the Secretary for allotment on the basis of special needs shall continue available for use on the same basis.
 
-(2) There is authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter, for payment to the VirginIslands, Guam, and the Northern Mariana Islands, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to this subchapter, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of this subchapter.
+(2) There is authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter, for payment to the Virgin Islands, Guam, and the Northern Mariana Islands, $100,000 each, which sums shall be in addition to the sums appropriated for the severalStates of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to this subchapter, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of this subchapter.
 
 (3) There are authorized to be appropriated for the fiscal year ending June 30, 1996, and for each fiscal year thereafter, for payment on behalf of the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994), such sums as are necessary for the purposes set forth in section 342 of this title. The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation. Such sums shall be in addition to the sums appropriated for the several States and Puerto Rico, the Virgin Islands, and Guam under the provisions of this section. Such sums shall be distributed on the basis of a competitive application process to be developed and implemented by the Secretary and paid by the Secretary to 1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.
 
@@ -44,13 +44,13 @@ Matching Funds.—
 
 &emsp;(1)
 
-Requirement.—Except as provided in paragraph (4) and subsection (f) of this section, no allotment shall be made to a State under subsection (b) or (c) of this section, and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
+Requirement.—Except as provided in paragraph (4) and subsection (f), no allotment shall be made to a State under subsection (b) or (c), and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
 
 &emsp;(2)
 
 Failure to provide matching funds.—If a State fails to comply with the requirement to provide matching funds for a fiscal year under paragraph (1), the Secretary of Agriculture shall withhold from payment to the State for that fiscal year an amount equal to the difference between—
 
-&emsp;&emsp;(A) the amount that would be allotted and paid to the State under subsections (b) and (c) of this section (if the full amount of matching funds were provided by the State); and
+&emsp;&emsp;(A) the amount that would be allotted and paid to the State under subsections (b) and (c) (if the full amount of matching funds were provided by the State); and
 
 &emsp;&emsp;(B) the amount of matching funds actually provided by the State.
 
@@ -64,7 +64,7 @@ In general.—The Secretary of Agriculture shall reapportion amounts withheld un
 
 &emsp;&emsp;(B)
 
-Matching requirement.—Any reapportionment of funds under this paragraph shallbe subject to the matching requirement specified in paragraph (1).
+Matching requirement.—Any reapportionment of funds under this paragraph shall be subject to the matching requirement specified in paragraph (1).
 
 &emsp;(4)
 
@@ -94,7 +94,7 @@ Multistate Cooperative Extension Activities.—
 
 &emsp;(1)
 
-In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
+In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
 
 &emsp;(2)
 
@@ -102,11 +102,11 @@ Applicable percentages.—
 
 &emsp;&emsp;(A) 1997
 
-expenditures on multistate activities.—Of the Federal formula funds that were paid to each State for fiscal year 1997 under subsections (b) and (c) of this section, the Secretary of Agriculture shall determine the percentage that the State expended for multistate activities.
+expenditures on multistate activities.—Of the Federal formula funds that were paid to each State for fiscal year 1997 under subsections (b) and (c), the Secretary of Agriculture shall determine the percentage that the State expended for multistate activities.
 
 &emsp;&emsp;(B)
 
-Required expenditures on multistate activities.—Of the Federal formula funds that are paid to each State for fiscal year 2000 and each subsequent fiscal year under subsections (b) and (c) of this section, the State shall expend for the fiscal year for multistate activities a percentage that is at least equal to the lesser of—
+Required expenditures on multistate activities.—Of the Federal formula funds that are paid to each State for fiscal year 2000 and each subsequent fiscal year under subsections (b) and (c), the State shall expend for the fiscal year for multistate activities a percentage that is at least equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) 25 percent; or
 
@@ -136,7 +136,7 @@ Merit Review.—
 
 &emsp;(1)
 
-Review required.—Effective October 1, 1999, extension activity carried out under subsection (h) of this section shall be subject to merit review.
+Review required.—Effective October 1, 1999, extension activity carried out under subsection (h) shall be subject to merit review.
 
 &emsp;(2)
 
@@ -218,7 +218,7 @@ Subsecs. (f), (g). Pub. L. 103–382, §534(2), (3), added subsec. (f) and redes
 
 Subsec. (c)1. Pub. L. 87–749, §1(c), provided that the allotment shall be to the Federal Extension Service for various services and for coordinating the extension work of the Department, States, Territories and Possessions, and struck out provisions which required the Secretary to allot the funds among the States, Alaska, Hawaii, and Puerto Rico according to special needs.
 
-Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the totalrural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out ", Alaska, Hawaii, and Puerto Rico" from first proviso.
+Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out ", Alaska, Hawaii, and Puerto Rico" from first proviso.
 
 Subsec. (d). Pub. L. 87–749, §1(e), inserted "additional" after "receive such".
 

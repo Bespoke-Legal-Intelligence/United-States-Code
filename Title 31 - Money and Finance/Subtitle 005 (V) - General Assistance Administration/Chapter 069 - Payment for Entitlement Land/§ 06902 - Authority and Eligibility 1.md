@@ -52,7 +52,7 @@ In subsection (d), the words "county or" are omitted as unnecessary because a co
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–333 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located, as set forth in this chapter. A unit of general local government may use the payment for any governmental purpose."
+<b>1996</b>—Subsec. (a). Pub. L. 104–333 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of the Interior shall make a payment for each fiscal year to each unit of general localgovernment in which entitlement land is located, as set forth in this chapter. A unit of general local government may use the payment for any governmental purpose."
 
 <b>1994</b>—Pub. L. 103–397 amended section generally. Prior to amendment, section read as follows:
 

@@ -12,5 +12,5 @@ Pub. L. 85–699, title VI, §601, Aug. 21, 1958, 72 Stat. 697, provided that th
 
 #### Fund for Management Counseling
 
-Pub. L. 85–699, title VI, §602(a), (b), Aug. 21, 1958, 72 Stat. 698, required Federal Reserve banks to repay tothe United States certain amounts paid to them under 12 U.S.C. 352a, such amounts to be covered into a special fund for grants under section 636 of Title 15, Commerce and Trade. See text of note set out under that section.
+Pub. L. 85–699, title VI, §602(a), (b), Aug. 21, 1958, 72 Stat. 698, required Federal Reserve banks to repay to the United States certain amounts paid to them under 12 U.S.C. 352a, such amounts to be covered into a special fund for grants under section 636 of Title 15, Commerce and Trade. See text of note set out under that section.
 

@@ -10,7 +10,7 @@ The Commission shall have as its primary responsibility—
 
 #### (b) Policy review and recommendations in response to violations
 
-The Commission, in evaluating United States Government policies in response to violations of religious freedom, shall consider and recommend options for policies of the United States Government with respect to each foreign country the government of which has engaged in or tolerated violations of religious freedom, including particularly severe violations of religious freedom, including diplomatic inquiries, diplomatic protest, official public protest demarche of protest, condemnation within multilateral fora, delay or cancellation of cultural or scientific exchanges, delay or cancellation of working, official, or state visits, reduction of certain assistance funds, termination of certain assistance funds, imposition of targeted trade sanctions, imposition of broad trade sanctions, and withdrawal of the chief of mission.
+The Commission, in evaluating United States Government policies in response to violations ofreligious freedom, shall consider and recommend options for policies of the United States Government with respect to each foreign country the government of which has engaged in or tolerated violations of religious freedom, including particularly severe violations of religious freedom, including diplomatic inquiries, diplomatic protest, official public protest demarche of protest, condemnation within multilateral fora, delay or cancellation of cultural or scientific exchanges, delay or cancellation of working, official, or state visits, reduction of certain assistance funds, termination of certain assistance funds, imposition of targeted trade sanctions, imposition of broad trade sanctions, and withdrawal of the chief of mission.
 
 #### (c) Policy review and recommendations in response to progress
 
@@ -18,7 +18,7 @@ The Commission, in evaluating the United States Government policies with respect
 
 #### (d) Effects on religious communities and individuals
 
-Together with specific policy recommendations provided under subsections (b) and (c) of this section, the Commission shall also indicate its evaluation of the potential effects of such policies, if implemented, on the religious communities and individuals whose rights are found to be violated in the country in question.
+Together with specific policy recommendations provided under subsections (b) and (c), the Commission shall also indicate its evaluation of the potential effects of such policies, if implemented, on the religious communities and individuals whose rights are found to be violated in the country in question.
 
 #### (e) Monitoring
 

@@ -10,5 +10,5 @@ Section was formerly classified to section 72a–1f of this title prior to edito
 
 Section is from the Congressional Operations Appropriation Act, 1985, which is title I of the Legislative Branch Appropriations Act, 1985.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Assistance Allowance”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Assistance Allowance".</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2) or (3), any pesticide chemical residue in or on a food shall be deemed unsafe for the purpose of section 342(a)(2)(B) of this title unless—
+&emsp;Except as provided in paragraph (2) or (3), any pesticide chemical residue in or on a foodshall be deemed unsafe for the purpose of section 342(a)(2)(B) of this title unless—
 
 &emsp;&emsp;(A) a tolerance for such pesticide chemical residue in or on such food is in effect under this section and the quantity of the residue is within the limits of the tolerance; or
 
@@ -70,11 +70,11 @@
 
 #### (i) Definition
 
-&emsp;&emsp;&emsp;As used in this subparagraph, the term "eligible pesticide chemical residue" means a pesticide chemical residue as to which—
+&emsp;&emsp;&emsp;As used in this subparagraph, the term "eligible pesticide chemical residue"means a pesticide chemical residue as to which—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Administrator is not able to identify a level of exposure to the residue at which the residue will not cause or contribute to a known or anticipated harm to human health (referred to in this section as a "nonthreshold effect");
 
-&emsp;&emsp;&emsp;&emsp;(II) the lifetime risk of experiencing the nonthreshold effect is appropriatelyassessed by quantitative risk assessment; and
+&emsp;&emsp;&emsp;&emsp;(II) the lifetime risk of experiencing the nonthreshold effect is appropriately assessed by quantitative risk assessment; and
 
 &emsp;&emsp;&emsp;&emsp;(III) with regard to any known or anticipated harm to human health for which the Administrator is able to identify a level at which the residue will not cause such harm (referred to in this section as a "threshold effect"), the Administrator determines that the level of aggregate exposure is safe.
 
@@ -132,7 +132,7 @@
 
 #### (D) Factors
 
-&emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance or exemptionfor a pesticide chemical residue, the Administrator shall consider, among other relevant factors—
+&emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance or exemption for a pesticide chemical residue, the Administrator shall consider, among other relevant factors—
 
 &emsp;&emsp;&emsp;(i) the validity, completeness, and reliability of the available data from studies of the pesticide chemical and pesticide chemical residue;
 
@@ -186,7 +186,7 @@
 
 #### (4) International standards
 
-&emsp;In establishing a tolerance for a pesticide chemical residue in or on a food, the Administrator shall determine whether a maximum residue level for the pesticide chemical has been established by the Codex Alimentarius Commission. If a Codex maximum residue level has been established for the pesticide chemical and the Administrator does not propose to adopt the Codex level, the Administrator shall publish for public comment a notice explaining the reasons for departing from the Codex level.
+&emsp;In establishing a tolerance for a pesticide chemical residue in or on a food, the Administrator shall determine whether a maximumresidue level for the pesticide chemical has been established by the Codex Alimentarius Commission. If a Codex maximum residue level has been established for the pesticide chemical and the Administrator does not propose to adopt the Codex level, the Administrator shall publish for public comment a notice explaining the reasons for departing from the Codex level.
 
 #### (c) Authority and standard for exemptions
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;&emsp;(xiii) such other data and information as the Administrator requires by regulation to support the petition.
 
-> &emsp;&emsp;If information or data required by this subparagraph is available to the Administrator, the person submitting the petition may cite the availability of the information or data in lieu of submitting it. The Administratormay require a petition to be accompanied by samples of the pesticide chemical with respect to which the petition is filed.
+> &emsp;&emsp;If information or data required by this subparagraph is available to the Administrator, the person submitting the petition may cite the availability of the information or data in lieu of submitting it. The Administrator may require a petition to be accompanied by samples of the pesticide chemical with respect to which the petition is filed.
 
 #### (B) Modification or revocation
 
@@ -374,7 +374,7 @@
 
 #### (2) Record and jurisdiction
 
-&emsp;A copy of the petition under paragraph (1) shall be forthwith transmitted by the clerk of the court to the Administrator, or any officer designated by the Administrator for that purpose, and thereupon the Administrator shall file in the court the record of the proceedings on which the Administrator based the order or regulation, as provided in section 2112 of title28. Upon the filing of such a petition, the court shall have exclusive jurisdiction to affirm or set aside the order or regulation complained of in whole or in part. As to orders issued following a public evidentiary hearing, the findings of the Administrator with respect to questions of fact shall be sustained only if supported by substantial evidence when considered on the record as a whole.
+&emsp;A copy of the petition under paragraph (1) shall be forthwith transmitted by the clerk of the court to the Administrator, or any officer designated by the Administrator for that purpose, and thereupon the Administrator shall file in the court the record of the proceedings on which the Administrator based the order or regulation, as provided in section 2112 of title 28. Upon the filing of such a petition, the court shall have exclusive jurisdiction to affirm or set aside the order or regulation complained of in whole or in part. As to orders issued following a public evidentiary hearing, the findings of the Administrator with respect to questions of fact shall be sustained only if supported by substantial evidence when considered on the record as a whole.
 
 #### (3) Additional evidence
 
@@ -470,11 +470,11 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (4) Tolerances for unavoidable residues
 
-&emsp;In connection with action taken under paragraph (2) or (3), or with respect to pesticides whose registrations were suspended or canceled prior to August 3, 1996, under the Federal Insecticide, Fungicide, and Rodenticide Act, if the Administrator determines that a residue of the canceled or suspended pesticide chemical will unavoidably persist in the environment and thereby be present in or on a food, the Administrator may establish a tolerance for the pesticide chemical residue. In establishing such a tolerance, the Administrator shall take into account both the factors set forth in subsection (b)(2) of this section and the unavoidability of the residue. Subsection (e) of this section shall apply to the establishment of such tolerance. The Administrator shall review any such tolerance periodically and modify it as necessary so that it allows no greater level of the pesticide chemical residue than is unavoidable.
+&emsp;In connection with action taken under paragraph (2) or (3), or with respect to pesticides whose registrations were suspended or canceled prior to August 3, 1996, under the Federal Insecticide, Fungicide, and Rodenticide Act, if the Administrator determines that a residue of the canceled or suspended pesticide chemical will unavoidably persist in the environment and thereby be present in or on a food, the Administrator may establish a tolerance for the pesticide chemical residue. In establishing such a tolerance, the Administrator shall take into account both the factors set forth in subsection (b)(2) of this section and the unavoidability of the residue. Subsection (e) of this section shall apply to the establishment of such tolerance. The Administratorshall review any such tolerance periodically and modify it as necessary so that it allows no greater level of the pesticide chemical residue than is unavoidable.
 
 #### (5) Pesticide residues resulting from lawful application of pesticide
 
-&emsp;Notwithstanding any other provision of this chapter, if a tolerance or exemption for a pesticide chemical residue in or on a food has been revoked, suspended, or modified underthis section, an article of that food shall not be deemed unsafe solely because of the presence of such pesticide chemical residue in or on such food if it is shown to the satisfaction of the Secretary that—
+&emsp;Notwithstanding any other provision of this chapter, if a tolerance or exemption for a pesticide chemical residue in or on a food has been revoked, suspended, or modified under this section, an article of that food shall not be deemed unsafe solely because of the presence of such pesticide chemical residue in or on such food if it is shown to the satisfaction of the Secretary that—
 
 &emsp;&emsp;(A) the residue is present as the result of an application or use of a pesticide at a time and in a manner that was lawful under the Federal Insecticide, Fungicide, and Rodenticide Act; and
 
@@ -532,7 +532,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (3) Limitation
 
-&emsp;The Administrator may make the determination described in paragraph (2)(B)(ii) onlyby issuing a rule in accordance with the procedure set forth in subsection (d) or (e) of this section and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h) of this section.
+&emsp;The Administrator may make the determination described in paragraph (2)(B)(ii) only by issuing a rule in accordance with the procedure set forth in subsection (d) or (e) of this section and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h) of this section.
 
 #### (4) State authority
 
@@ -582,7 +582,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (o) Consumer right to know
 
-Not later than 2 years after August 3, 1996, and annually thereafter, the Administrator shall, in consultation with the Secretary of Agriculture and the Secretary of Health and Human Services, publish in a format understandable to a lay person, and distribute to large retail grocers for public display (in a manner determined by the grocer), the following information, at a minimum:
+Not later than 2 years after August 3, 1996, and annually thereafter, the Administrator shall, in consultation with the Secretary of Agriculture and the Secretary of Health and Human Services, publish in a format understandable to a lay person, and distribute to large retail grocers forpublic display (in a manner determined by the grocer), the following information, at a minimum:
 
 &emsp;(1) A discussion of the risks and benefits of pesticide chemical residues in or on food purchased by consumers.
 
@@ -640,7 +640,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (D) Noncompliance by other persons
 
-&emsp;&emsp;Any person (other than a registrant) who fails to comply with an order under subparagraph (A) shall be liable for the same penalties and sanctions as are provided under section 16 of the Toxic Substances Control Act \[15 U.S.C. 2615\] in the case of a violation referred to in that section. Such penalties and sanctions shall be assessed and imposed in the same manner as provided in such section 16.
+&emsp;&emsp;Any person (other than a registrant) who fails to comply with an order under subparagraph (A) shall be liable for the same penalties and sanctions as are provided under section 16 of the Toxic Substances Control Act \[15 U.S.C. 2615\] in the case of a violation referred to in that section. Such penalties and sanctions shall be assessed and imposedin the same manner as provided in such section 16.
 
 #### (6) Agency action
 
@@ -702,7 +702,7 @@ The Toxic Substances Control Act, referred to in subsec. (s), is Pub. L. 94–46
 
 #### Codification
 
-August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original references to the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
+August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original referencesto the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -757,6 +757,10 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if regulations are necessary for implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of Title 7, Agriculture, and regulations thereunder, relating to control of economic poisons, as in existence prior to Oct. 21, 1972, until superseded by provisions of Pub. L. 92–516 and regulations thereunder, see section 4 of Pub. L. 92–516, set out as an Effective Date note under section 136 of Title 7.
+
+#### Regulation of Sulfuryl Fluoride
+
+Pub. L. 113–79, title X, §10015, Feb. 7, 2014, 128 Stat. 952, provided that: "Notwithstanding any other provision of law, the Administrator of the EnvironmentalProtection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a) when assessing tolerances associated with residues from the pesticide."
 
 #### Tolerance Fees
 

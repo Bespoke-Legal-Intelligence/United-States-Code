@@ -16,7 +16,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;&emsp;(B) have the authority to investigate incidents of abuse and neglect of individuals with developmental disabilities if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
 
-&emsp;&emsp;(C) on an annual basis, develop, submit to the Secretary, and take action with regardto goals (each of which is related to 1 or more areas of emphasis) and priorities, developed through data driven strategic planning, for the system's activities;
+&emsp;&emsp;(C) on an annual basis, develop, submit to the Secretary, and take action with regard to goals (each of which is related to 1 or more areas of emphasis) and priorities, developed through data driven strategic planning, for the system's activities;
 
 &emsp;&emsp;(D) on an annual basis, provide to the public, including individuals with developmental disabilities attributable to either physical impairment, mental impairment, or a combination of physical and mental impairment, and their representatives, and as appropriate, non-State agency representatives of the State Councils on Developmental Disabilities, and Centers, in the State, an opportunity to comment on—
 
@@ -94,7 +94,7 @@ Upon application to the Secretary, an American Indian consortium established to 
 
 In this section, the term "record" includes—
 
-&emsp;(1) a report prepared or received by any staff at any location at which services, supports, or other assistance is provided to individuals with developmental disabilities;
+&emsp;(1) a report prepared or received by any staff at any location at which services, supports, orother assistance is provided to individuals with developmental disabilities;
 
 &emsp;(2) a report prepared by an agency or staff person charged with investigating reports of incidents of abuse or neglect, injury, or death occurring at such location, that describes such incidents and the steps taken to investigate such incidents; and
 

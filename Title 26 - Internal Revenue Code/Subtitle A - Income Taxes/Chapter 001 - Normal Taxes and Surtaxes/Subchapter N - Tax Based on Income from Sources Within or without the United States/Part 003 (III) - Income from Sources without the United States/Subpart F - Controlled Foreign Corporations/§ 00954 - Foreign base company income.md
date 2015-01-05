@@ -36,7 +36,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (B) Foreign base company income and insurance income in excess of 70 percent of gross income
 
-&emsp;&emsp;If the sum of the foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year exceeds 70 percent of gross income, the entire gross income for the taxable year shall, subject to the provisions of paragraphs (4) and (5), be treated as foreign base company income or insurance income (whichever is appropriate).
+&emsp;&emsp;If the sum of the foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year exceeds 70 percent of grossincome, the entire gross income for the taxable year shall, subject to the provisions of paragraphs (4) and (5), be treated as foreign base company income or insurance income (whichever is appropriate).
 
 #### (C) Gross insurance income
 
@@ -204,7 +204,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (C) Application
 
-&emsp;&emsp;Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2014, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+&emsp;&emsp;Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2015, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 
 #### (d) Foreign base company sales income
 
@@ -220,7 +220,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (2) Certain branch income
 
-&emsp;For purposes of determining foreign base company sales income in situations in which the carrying on of activities by a controlled foreign corporation through a branch or similar establishment outside the country of incorporation of the controlled foreign corporation has substantially the same effect as if such branch or similar establishment were a wholly owned subsidiary corporation deriving such income, under regulations prescribed by the Secretary the income attributable to the carrying on of such activities of such branch or similar establishment shall be treated asincome derived by a wholly owned subsidiary of the controlled foreign corporation and shall constitute foreign base company sales income of the controlled foreign corporation.
+&emsp;For purposes of determining foreign base company sales income in situations in which the carrying on of activities by a controlled foreign corporation through a branch or similar establishment outside the country of incorporation of the controlled foreign corporation has substantially the same effect as if such branch or similar establishment were a wholly owned subsidiary corporation deriving such income, under regulations prescribed by the Secretary the income attributable to the carrying on of such activities of such branch or similar establishment shall be treated as income derived by a wholly owned subsidiary of the controlled foreign corporation and shall constitute foreign base company sales income of the controlled foreign corporation.
 
 #### (3) Related person defined
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 #### (C) Related group
 
-&emsp;&emsp;The term "related group" means a group consisting of the foreign corporation and any other person who is a related person with respect to such corporation.
+&emsp;&emsp;The term "related group" means a group consisting of the foreign corporation andany other person who is a related person with respect to such corporation.
 
 #### (D) Average daily production of foreign crude oil and natural gas
 
@@ -452,7 +452,7 @@ For purposes of this section—
 
 #### (9) Application
 
-&emsp;This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2014, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.
+&emsp;This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2015, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.
 
 #### (i) Special rule for income derived in the active conduct of insurance business
 
@@ -464,7 +464,7 @@ For purposes of this section—
 
 &emsp;The term "qualified insurance income" means income of a qualifying insurance company which is—
 
-&emsp;&emsp;(A) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from the investments made by a qualifying insurance company or a qualifying insurance companybranch of its reserves allocable to exempt contracts or of 80 percent of its unearned premiums from exempt contracts (as both are determined in the manner prescribed under paragraph (4)), or
+&emsp;&emsp;(A) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from the investments made by a qualifying insurance company or a qualifying insurance company branch of its reserves allocable to exempt contracts or of 80 percent of its unearned premiums from exempt contracts (as both are determined in the manner prescribed under paragraph (4)), or
 
 &emsp;&emsp;(B) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from investments made by a qualifying insurance company or a qualifying insurance company branch of an amount of its assets allocable to exempt contracts equal to—
 
@@ -520,19 +520,23 @@ For purposes of this section—
 
 &emsp;&emsp;(C) tables for mortality and morbidity which reasonably reflect the current mortality and morbidity risks in the company's or branch's home country shall be substituted for the mortality and morbidity tables otherwise used for such subchapter.
 
-> &emsp;The Secretary may provide that the interest rate and mortality and morbidity tables of a qualifying insurance company may be used for 1 or more of its qualifying insurance company branches when appropriate.
+> &emsp;The Secretary may provide that the interest rate and mortality and morbidity tables of aqualifying insurance company may be used for 1 or more of its qualifying insurance company branches when appropriate.
 
 #### (6) Definitions
 
 &emsp;For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L.98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(ll), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491; Pub. L. 110–343, div. C, title III, §§303(b), 304(a), Oct. 3, 2008, 122 Stat. 3866, 3867; Pub. L. 111–312, title VII, §§750(a), 751(a), Dec. 17, 2010, 124 Stat. 3320, 3321; Pub. L. 112–240, title III, §§322(b), 323(a), Jan. 2, 2013, 126 Stat. 2332, 2333.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(ll), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491; Pub. L. 110–343, div. C, title III, §§303(b), 304(a), Oct. 3, 2008, 122 Stat. 3866, 3867; Pub. L. 111–312, title VII, §§750(a), 751(a), Dec. 17, 2010, 124 Stat. 3320, 3321; Pub. L. 112–240, title III, §§322(b), 323(a), Jan. 2, 2013, 126 Stat. 2332, 2333; Pub. L. 113–295, div. A, title I, §§134(b), 135(a), Dec. 19, 2014, 128 Stat. 4019.)
 
 #### References in Text
 
 Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (h)(2)(B)(iii), are classified to sections 78o(a) and 78o–5(a), respectively, of Title 15, Commerce and Trade.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(6)(C). Pub. L. 113–295, §135(a), substituted "January 1, 2015" for "January 1, 2014".
+
+Subsec. (h)(9). Pub. L. 113–295, §134(b), substituted "January 1, 2015" for "January 1, 2014".
 
 <b>2013</b>—Subsec. (c)(6)(C). Pub. L. 112–240, §323(a), substituted "January 1, 2014" for "January 1, 2012".
 
@@ -596,7 +600,7 @@ Subsec. (h)(3)(E). Pub. L. 108–357, §416(a), added subpar. (E).
 
 Subsec. (h)(9). Pub. L. 107–147, §614(a)(2), substituted "January 1, 2007" for "January 1, 2002".
 
-Subsec. (i)(4)(B). Pub. L. 107–147, §614(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The amountof the reserve of a qualifying insurance company or qualifying insurance company branch for any life insurance or annuity contract shall be equal to the greater of—
+Subsec. (i)(4)(B). Pub. L. 107–147, §614(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The amount of the reserve of a qualifying insurance company or qualifying insurance company branch for any life insurance or annuity contract shall be equal to the greater of—
 
 &emsp;"(i) the net surrender value of such contract (as defined in section 807(e)(1)(A)), or
 
@@ -660,7 +664,7 @@ Subsec. (e)(3). Pub. L. 100–647, §1018(u)(38), related to execution of amendm
 
 <b>1986</b>—Subsec. (a)(5). Pub. L. 99–514, §1221(c)(3)(A)(ii), substituted "determined under subsection (g)" for "determined under subsection (h)".
 
-Subsec. (b)(2). Pub. L. 99–514, §1221(c)(1), struck out par. (2), exclusion for reinvested shipping income, which read as follows: "For purposes of subsection (a), foreign base company income does not include foreign base company shipping income to the extent that the amount of such income does not exceed the increase for the taxable year in qualified investments in foreign base company shipping operations of the controlled foreign corporation (as determined under subsection (g))."
+Subsec. (b)(2). Pub. L. 99–514, §1221(c)(1), struck out par. (2), exclusion for reinvested shipping income,which read as follows: "For purposes of subsection (a), foreign base company income does not include foreign base company shipping income to the extent that the amount of such income does not exceed the increase for the taxable year in qualified investments in foreign base company shipping operations of the controlled foreign corporation (as determined under subsection (g))."
 
 Subsec. (b)(3). Pub. L. 99–514, §1223(a), amended par. (3) generally. Prior to amendment, par. (3), special rule where foreign base company income is less than 10 percent or more than 70 percent of gross income, read as follows: "For purposes of subsection (a)—
 
@@ -668,7 +672,7 @@ Subsec. (b)(3). Pub. L. 99–514, §1223(a), amended par. (3) generally. Prior t
 
 &emsp;"(B) If the foreign base company income (determined without regard to paragraphs (2) and (5)) exceeds 70 percent of gross income, the entire gross income of the taxable year shall, subject to the provisions of paragraphs (2), (4), and (5), be treated as foreign base company income."
 
-Subsec. (b)(4). Pub. L. 99–514, §1221(d), amended par. (4) generally. Prior to amendment, par. (4), exception for foreign corporations not availed of to reduce taxes, read as follows: "For purposes of subsection (a), foreignbase company income does not include any item of income received by a controlled foreign corporation if it is established to the satisfaction of the Secretary that neither—
+Subsec. (b)(4). Pub. L. 99–514, §1221(d), amended par. (4) generally. Prior to amendment, par. (4), exception for foreign corporations not availed of to reduce taxes, read as follows: "For purposes of subsection (a), foreign base company income does not include any item of income received by a controlled foreign corporation if it is established to the satisfaction of the Secretary that neither—
 
 &emsp;"(A) the creation or organization of such controlled foreign corporation under the laws of the foreign country in which it is incorporated (or, in the case of a controlled foreign corporation which is an acquired corporation, the acquisition of such corporation created or organized under the laws of the foreign country in which it is incorporated), nor
 
@@ -746,6 +750,12 @@ Subsecs. (f), (g). Pub. L. 94–12, §602(c)(2), (d)(1)(G), added subsecs. (f) a
 
 <b>1969</b>—Subsec. (b)(4). Pub. L. 91–172 inserted reference to a foreign corporation which is an acquired corporation, and made the effecting of a transaction giving rise to foreign base income through the controlled foreign corporation subject to the Secretary's power to disallow inclusion of any item of such income where such inclusion will have one of the effects prescribed by this section.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by section 134(b) of Pub. L. 113–295 applicable to taxable years of foreign corporations beginning after Dec. 31, 2013, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends, see section 134(c) of Pub. L. 113–295, set out as a note under section 953 of this title.
+
+Pub. L. 113–295, div. A, title I, §135(b), Dec. 19, 2014, 128 Stat. 4019, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 2013, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
+
 #### Effective Date of 2013 Amendment
 
 Amendment by section 322(b) of Pub. L. 112–240 applicable to taxable years of foreign corporations beginning after Dec. 31, 2011, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends, see section 322(c) of Pub. L. 112–240, set out as a note under section 953 of this title.
@@ -784,7 +794,7 @@ Amendment by section 413(b)(2) of Pub. L. 108–357 applicable to taxable years 
 
 Pub. L. 108–357, title IV, §414(d), Oct. 22, 2004, 118 Stat. 1511, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions entered into after December 31, 2004."
 
-Amendment by section 415(a), (b), (c)(2) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 415(d) of Pub. L. 108–357, set out as a note under section 952 of this title.
+Amendment by section 415(a), (b), (c)(2) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable yearsof United States shareholders with or within which such taxable years of foreign corporations end, see section 415(d) of Pub. L. 108–357, set out as a note under section 952 of this title.
 
 Pub. L. 108–357, title IV, §416(b), Oct. 22, 2004, 118 Stat. 1512, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years of such foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of such foreign corporations end."
 
@@ -890,7 +900,7 @@ Qualified controlled foreign insurer.—For purposes of this paragraph, the term
 
 &emsp;"(D)
 
-Qualified reinsurance income.—For purposes of this paragraph, the term 'qualified reinsurance income' means any insurance income attributable to risks (other than risks described in section 953(a) or 954(e) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) assumed under a reinsurance contract. For purposes of this subparagraph, insurance income shall mean the underwriting income (as defined in section 832(b)(3) of such Code) and investment income derived from an amount of assets (to be segregated and separately identified) equivalent to the ordinary and necessary insurance reserves and necessary surplus equal to 1/3 of earned premium attributable to such contracts. For purposes of this paragraph, the amount of qualified reinsurance income shall not exceed the amount of insurance income from reinsurance contracts for calendar year 1985. In the case of controlled foreign corporations described in subparagraph (C)(ii), the preceding sentence shall not apply and the qualified reinsurance income of any such corporation shall not exceed such corporation's proportionate share of $27,000,000 (determined on the basis of respective amounts of qualified reinsurance income determined without regard to this subparagraph)."
+Qualified reinsurance income.—For purposes of this paragraph, the term 'qualified reinsurance income' means any insurance income attributable to risks (other than risks described in section 953(a) or954(e) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) assumed under a reinsurance contract. For purposes of this subparagraph, insurance income shall mean the underwriting income (as defined in section 832(b)(3) of such Code) and investment income derived from an amount of assets (to be segregated and separately identified) equivalent to the ordinary and necessary insurance reserves and necessary surplus equal to 1/3 of earned premium attributable to such contracts. For purposes of this paragraph, the amount of qualified reinsurance income shall not exceed the amount of insurance income from reinsurance contracts for calendar year 1985. In the case of controlled foreign corporations described in subparagraph (C)(ii), the preceding sentence shall not apply and the qualified reinsurance income of any such corporation shall not exceed such corporation's proportionate share of $27,000,000 (determined on the basis of respective amounts of qualified reinsurance income determined without regard to this subparagraph)."
 
 Amendment by section 1223(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1223(c) of Pub. L. 99–514, set out as a note under section 864 of this title.
 

@@ -29,6 +29,7 @@
 | [3515b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003515b%20-%20Prohibition%20on%20funding%20certain%20experiments%20involving%20human%20participants.md) | Prohibition on funding certain experiments involving human participants. |
 | [3515c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003515c%20-%20Offset%20against%20Federal%20payments%20to%20States%20for%20provision%20of%20services.md) | Offset against Federal payments to States for provision of services. |
 | [3515d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003515d%20-%20Expenses%20of%20Office%20of%20Inspector%20General%3B%20protective%20services%3B%20investigating%20non-payment%20of%20child%20support.md) | Expenses of Office of Inspector General; protective services; investigating non-payment of child support. |
+| [3515e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003515e%20-%20Transfer%20of%20functions%20regarding%20independent%20living%20to%20Department%20of%20Health%20and%20Human%20Services%2C%20and%20savings%20provisions.md) | Transfer of functions regarding independent living to Department of Health and Human Services, and savings provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

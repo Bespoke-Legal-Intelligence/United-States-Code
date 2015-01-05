@@ -22,7 +22,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;(i) has one or more employees—
 
-&emsp;&emsp;&emsp;&emsp;(I) with not less than 2 years of substantive, decision-making experience in administering the liquidation and workout of problem loans secured in a manner substantially similar to loans funded with the proceeds of debentures guaranteed under section 697 of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) with not less than 2 years of substantive, decision-making experience in administering the liquidation and workout of problem loans secured in a mannersubstantially similar to loans funded with the proceeds of debentures guaranteed under section 697 of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) who have completed a training program on loan liquidation developed by the Administration in conjunction with qualified State and local development companies that meet the requirements of this paragraph; or
 
@@ -144,7 +144,7 @@ The Administration may revoke or suspend a delegation of authority under this se
 
 #### (1) In general
 
-&emsp;Based on information provided by qualified State and local development companies andthe Administration, the Administration shall annually submit to the Committees on Small Business of the House of Representatives and of the Senate a report on the results of delegation of authority under this section.
+&emsp;Based on information provided by qualified State and local development companies and the Administration, the Administration shall annually submit to the Committees on Small Business of the House of Representatives and of the Senate a report on the results of delegation of authority under this section.
 
 #### (2) Contents
 
@@ -178,7 +178,7 @@ The Administration may revoke or suspend a delegation of authority under this se
 
 #### References in Text
 
-The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is Pub. L. 104–208, div. D, Sept. 30, 1996, 110 Stat. 3009–724. Provisions relating to loan liquidation pilot program are contained in section 204 of title II of div. D of Pub. L. 104–208, which is set out as a note under section 695 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 631 of this title and Tables.
+The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is Pub. L. 104–208, div. D, Sept. 30, 1996, 110 Stat. 3009–724. Provisions relating to loan liquidation pilot program are contained in section 204 of title II of div. D of Pub. L. 104–208, which is set out as a note under section 695 of this title. For complete classification of this Act to the Code, seeShort Title of 1996 Amendment note set out under section 631 of this title and Tables.
 
 #### Change of Name
 
@@ -194,7 +194,7 @@ In general.—Not later than 150 days after the date of the enactment of this Ac
 
 "(2)
 
-Termination of pilot program.—Beginning on the date on which final regulations are issued under paragraph (1) \[final rule effective May 14, 2007; see 72 F.R. 18349\], section 204 of the Small Business Programs Improvement Act of 1996 \[Pub. L. 104–208, div. D\] (15 U.S.C. 695 note) shall cease to have effect."
+Termination of pilot program.—Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 \[Pub. L. 104–208, div. D\] (15 U.S.C. 695 note) shall cease to have effect."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

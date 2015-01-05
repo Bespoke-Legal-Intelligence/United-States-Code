@@ -24,7 +24,7 @@
 
 #### (B) Additional interest payments
 
-&emsp;&emsp;Under the model program, for any year in which the sum of the surplus cash flow of aproject and the return on equity exceeds all interest payments due under subparagraph (A), 50 percent of the excess surplus cash flow shall be paid to the participating jurisdiction's HOME Investment Trust Fund as additional interest.
+&emsp;&emsp;Under the model program, for any year in which the sum of the surplus cash flow of a project and the return on equity exceeds all interest payments due under subparagraph (A), 50 percent of the excess surplus cash flow shall be paid to the participating jurisdiction's HOME Investment Trust Fund as additional interest.
 
 #### (C) Principal and unpaid interest
 

@@ -56,7 +56,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;(7) obligations issued, guaranteed, or insured, in whole or in part, by the Export-Import Bank of the United States or the Foreign Credit Insurance Association in those cases where such obligations are acquired from such Bank or Association or from the seller or purchaser of the goods or services with respect to which such obligations arose;
 
-&emsp;(8) obligations issued by a domestic corporation organized solely for the purpose of financing sales of export property pursuant to an agreement with the Export-Import Bank of the United States under which such corporation makes export loans guaranteed by such bank; and
+&emsp;(8) obligations issued by a domestic corporation organized solely for the purpose of financing sales of export property pursuant to anagreement with the Export-Import Bank of the United States under which such corporation makes export loans guaranteed by such bank; and
 
 &emsp;(9) amounts (other than reasonable working capital) on deposit in the United States that are utilized during the period provided for in, and otherwise in accordance with, regulations prescribed by the Secretary to acquire other qualified export assets.
 
@@ -80,7 +80,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(A) property leased or rented by a DISC for use by any member of a controlled group (as defined in subsection (a)(3)) which includes the DISC,
 
-&emsp;&emsp;(B) patents, inventions, models, designs, formulas, or processes, whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademarks,trade brands, franchises, or other like property,
+&emsp;&emsp;(B) patents, inventions, models, designs, formulas, or processes, whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademarks, trade brands, franchises, or other like property,
 
 &emsp;&emsp;(C) products of a character with respect to which a deduction for depletion is allowable (including oil, gas, coal, or uranium products) under section 613 or 613A,
 
@@ -118,7 +118,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(C) the aggregate amount of the borrower's research and experimental expenditures (within the meaning of section 174) in the United States during all preceding taxable years beginning after December 31, 1971,
 
-> &emsp;by the percentage which the borrower's receipts, during the 3 taxable years immediately preceding the taxable year (but not including any taxable year commencing prior to 1972) in which the loan is made, from the sale, lease, or rental outside the United States of property which would be export property (determined without regard to subparagraph (C) or (D) of subsection (c)(2)) if held by a DISC is of the gross receipts during such 3 taxable years from the sale, lease, or rental of property held by such borrower primarily for sale, lease, or rental to customers in the ordinary course of the trade or business of such borrower.
+> &emsp;by the percentage which the borrower's receipts, during the 3 taxable years immediately preceding the taxable year (but not including any taxable year commencing prior to 1972) in which the loan is made, from the sale, lease, or rental outside the United States of property which would be export property (determinedwithout regard to subparagraph (C) or (D) of subsection (c)(2)) if held by a DISC is of the gross receipts during such 3 taxable years from the sale, lease, or rental of property held by such borrower primarily for sale, lease, or rental to customers in the ordinary course of the trade or business of such borrower.
 
 #### (3) Increased investment requirement
 
@@ -198,7 +198,7 @@ For purposes of this part, the term "gross receipts" means the total receipts fr
 
 For purposes of this part, the term "United States" includes the Commonwealth of Puerto Rico and the possessions of the United States.
 
-(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 538; amended Pub. L. 93–482, §3(a), Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–12, title VI, §603(a), Mar. 29, 1975, 89 Stat. 64; Pub. L. 94–455, title XI, §1101(b), (c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1658, 1834; Pub. L. 96–39, title II, §202(c)(2), July 26, 1979, 93 Stat. 202; Pub. L.96–72, §22(c), Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–369, div. A, title VIII, §802(c)(2), July 18, 1984, 98 Stat. 999; Pub. L. 103–66, title XIII, §13239(b), Aug. 10, 1993, 107 Stat. 509.)
+(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 538; amended Pub. L. 93–482, §3(a), Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–12, title VI, §603(a), Mar. 29, 1975, 89 Stat. 64; Pub. L. 94–455, title XI, §1101(b), (c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1658, 1834; Pub. L. 96–39, title II, §202(c)(2), July 26, 1979, 93 Stat. 202; Pub. L. 96–72, §22(c), Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–369, div. A, title VIII, §802(c)(2), July 18, 1984, 98 Stat. 999; Pub. L. 103–66, title XIII, §13239(b), Aug. 10, 1993, 107 Stat. 509.)
 
 #### References in Text
 
@@ -260,7 +260,7 @@ In general.—Except as provided in paragraph (2), the amendments made by subsec
 
 "(2)
 
-Binding contract.—The amendments made by subsection (a) \[amending this section\] shall not apply to sales, exchanges, and other dispositions made after March 18, 1975, but before March 19, 1980, if such sales, exchanges, and other dispositions are made pursuant to a fixed contract. The term 'fixed contract' means a contract which was, on March 18, 1975, and is at all times thereafter binding on the DISC or a taxpayer which was a member of the same controlled group (within the meaning of section 993(a)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as the DISC, which was entered into after the date on which the DISC qualified as a DISC and the DISC and the taxpayer became members of the same controlled group, and under which the price and quantity of the products sold, exchanged, or otherwise disposed of cannot be increased."
+Binding contract.—The amendments made by subsection (a) \[amending this section\] shall not apply to sales, exchanges, and other dispositions made after March 18, 1975, but before March 19, 1980, if such sales, exchanges, and other dispositions are made pursuant to a fixed contract. The term 'fixed contract' means a contract which was, on March 18, 1975, and is at all times thereafter binding on the DISC or a taxpayer which wasa member of the same controlled group (within the meaning of section 993(a)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as the DISC, which was entered into after the date on which the DISC qualified as a DISC and the DISC and the taxpayer became members of the same controlled group, and under which the price and quantity of the products sold, exchanged, or otherwise disposed of cannot be increased."
 
 #### Effective Date of 1974 Amendment
 

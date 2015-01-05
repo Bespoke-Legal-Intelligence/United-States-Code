@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(II) the retirement fund fails to be in substantial compliance with the applicable requirements of the Internal Revenue Code of 1986 and the debtor is not materially responsible for that failure.
 
-&emsp;(C) A direct transfer of retirement funds from 1 fund or account that is exempt fromtaxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986, under section 401(a)(31) of the Internal Revenue Code of 1986, or otherwise, shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such direct transfer.
+&emsp;(C) A direct transfer of retirement funds from 1 fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986, under section 401(a)(31) of the Internal Revenue Code of 1986, or otherwise, shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such direct transfer.
 
 &emsp;(D)(i) Any distribution that qualifies as an eligible rollover distribution within the meaning of section 402(c) of the Internal Revenue Code of 1986 or that is described in clause (ii) shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such distribution.
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(D) alimony, support, or separate maintenance, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
-&emsp;&emsp;(E) a payment under a stock bonus, pension, profitsharing, annuity, or similar plan or contract on account of illness, disability, death, age, or length of service, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor, unless—
+&emsp;&emsp;(E) a payment under a stock bonus, pension, profitsharing, annuity, or similar plan or contract on account of illness, disability, death, age, or length of service, to the extentreasonably necessary for the support of the debtor and any dependent of the debtor, unless—
 
 &emsp;&emsp;&emsp;(i) such plan or contract was established by or under the auspices of an insider that employed the debtor at the time the debtor's rights under such plan or contract arose;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) an award under a crime victim's reparation law;
 
-&emsp;&emsp;(B) a payment on account of the wrongful death of an individual of whom the debtor was a dependent, to the extent reasonablynecessary for the support of the debtor and any dependent of the debtor;
+&emsp;&emsp;(B) a payment on account of the wrongful death of an individual of whom the debtor was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
 &emsp;&emsp;(C) a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individual's death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
@@ -312,7 +312,7 @@ Subsection (b) tracks current law. It permits a debtor the exemptions to which h
 
 Under proposed section 541, all property of the debtor becomes property of the estate, but the debtor is permitted to exempt certain property from property of the estate under this section. Property may be exempted even if it is subject to a lien, but only the unencumbered portion of the property is to be counted in computing the "value" of the property for the purposes of exemption.
 
-As under current law, the debtor will be permitted to convert nonexempt property into exempt property before filing a bankruptcy petition. The practice is not fraudulent as to creditors, and permits the debtor tomake full use of the exemptions to which he is entitled under the law.
+As under current law, the debtor will be permitted to convert nonexempt property into exempt property before filing a bankruptcy petition. The practice is not fraudulent as to creditors, and permits the debtor to make full use of the exemptions to which he is entitled under the law.
 
 Subsection (c) insulates exempt property from prepetition claims other than tax claims (whether or not dischargeable), and other than alimony, maintenance, or support claims that are excepted from discharge. The bankruptcy discharge does not prevent enforcement of valid liens. The rule of <i>Long v. Bullard</i>, 117 U.S. 617 (1886), is accepted with respect to the enforcement of valid liens on nonexempt property as well as on exempt property. Cf. <i>Louisville Joint Stock Land Bank v. Radford</i>, 295 U.S. 555, 583 (1935).
 
@@ -496,7 +496,7 @@ Subsec. (i)(2). Pub. L. 99–554, §283(i)(2), substituted "this" for "his" afte
 
 Subsec. (b). Pub. L. 98–353, §306(a), inserted provision that in joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Bankruptcy Rules, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2) of this subsection, but that if the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1), where such election is permitted under the law of the jurisdiction where the case is filed.
 
-Subsec. (c). Pub. L. 98–353, §453(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: "Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, except—
+Subsec. (c). Pub. L. 98–353, §453(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, except—
 
 &emsp;"(1) a debt of a kind specified in section 523(a)(1) or section 523(a)(5) of this title; or
 
@@ -544,11 +544,11 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. 
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (d)(1), dollar amount "18,450" was adjusted to "20,200"; in subsec. (d)(2), dollar amount "2,950" was adjusted to "3,225"; in subsec. (d)(3), dollar amounts "475" and "9,850" were adjusted to "525" and "10,775", respectively; in subsec. (d)(4), dollar amount "1,225" was adjusted to "1,350"; in subsec. (d)(5), dollar amounts "975" and "9,250" were adjusted to "1,075" and "10,125", respectively; in subsec. (d)(6), dollar amount "1,850" was adjusted to "2,025"; in subsec. (d)(8), dollar amount "9,850" was adjusted to "10,775"; in subsec. (d)(11)(D), dollar amount "18,450" was adjusted to "20,200"; in subsec. (f)(3), dollar amount "5,000" was adjusted to "5,475"; in subsec. (f)(4), dollar amount "500" was adjusted to "550" each time it appeared; in subsec. (n), dollar amount "1,000,000" was adjusted to "1,095,000"; in subsec. (p), dollar amount "125,000" was adjusted to "136,875"; and, in subsec. (q), dollar amount "125,000" was adjusted to "136,875".
 
-By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (d)(1), dollar amount "17,425" was adjusted to "18,450"; in subsec. (d)(2), dollar amount "2,775" was adjusted to "2,950"; in subsec. (d)(3), dollar amounts "450" and "9,300" were adjusted to "475" and "9,850", respectively; in subsec. (d)(4), dollar amount "1,150" was adjusted to "1,225"; in subsec. (d)(5), dollar amounts "925" and "8,725" were adjusted to "975" and "9,250", respectively; in subsec. (d)(6), dollar amount "1,750" was adjusted to "1,850"; in subsec. (d)(8), dollar amount "9,300" was adjusted to "9,850"; and, in subsec. (d)(11)(D), dollar amount "17,425" was adjusted to "18,450".
+By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (d)(1), dollar amount "17,425" was adjusted to "18,450"; in subsec. (d)(2), dollar amount "2,775" was adjusted to "2,950"; in subsec. (d)(3), dollar amounts "450" and "9,300" were adjusted to "475" and "9,850", respectively; in subsec. (d)(4), dollar amount "1,150" was adjusted to "1,225"; in subsec. (d)(5), dollar amounts "925" and "8,725" were adjusted to "975" and"9,250", respectively; in subsec. (d)(6), dollar amount "1,750" was adjusted to "1,850"; in subsec. (d)(8), dollar amount "9,300" was adjusted to "9,850"; and, in subsec. (d)(11)(D), dollar amount "17,425" was adjusted to "18,450".
 
 By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (d)(1), dollar amount "16,150" was adjusted to "17,425"; in subsec. (d)(2), dollar amount "2,575" was adjusted to "2,775"; in subsec. (d)(3), dollar amounts "425" and "8,625" were adjusted to "450" and "9,300", respectively; in subsec. (d)(4), dollar amount "1,075" was adjusted to "1,150"; in subsec. (d)(5), dollar amounts "850" and "8,075" were adjusted to "925" and "8,725", respectively; in subsec. (d)(6), dollar amount "1,625" was adjusted to "1,750"; in subsec. (d)(8), dollar amount "8,625" was adjusted to "9,300"; and, in subsec. (d)(11)(D), dollar amount "16,150" was adjusted to "17,425".
 
-By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (d)(1), dollar amount "15,000" was adjusted to "16,150"; in subsec. (d)(2), dollar amount "2,400" was adjusted to "2,575"; in subsec. (d)(3), dollar amounts "400" and "8,000" were adjusted to "425" and "8,625", respectively; in subsec. (d)(4), dollar amount"1,000" was adjusted to "1,075"; in subsec. (d)(5), dollar amounts "800" and "7,500" were adjusted to "850" and "8,075", respectively; in subsec. (d)(6), dollar amount "1,500" was adjusted to "1,625"; in subsec. (d)(8), dollar amount "8,000" was adjusted to "8,625"; and, in subsec. (d)(11)(D), dollar amount "15,000" was adjusted to "16,150".
+By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (d)(1), dollar amount "15,000" was adjusted to "16,150"; in subsec. (d)(2), dollar amount "2,400" was adjusted to "2,575"; in subsec. (d)(3), dollar amounts "400" and "8,000" were adjusted to "425" and "8,625", respectively; in subsec. (d)(4), dollar amount "1,000" was adjusted to "1,075"; in subsec. (d)(5), dollar amounts "800" and "7,500" were adjusted to "850" and "8,075", respectively; in subsec. (d)(6), dollar amount "1,500" was adjusted to "1,625"; in subsec. (d)(8), dollar amount "8,000" was adjusted to "8,625"; and, in subsec. (d)(11)(D), dollar amount "15,000" was adjusted to "16,150".
 
 <i><sup>1</sup></i><i> Replaced by 22 U.S.C. 4060(c).</i>
 

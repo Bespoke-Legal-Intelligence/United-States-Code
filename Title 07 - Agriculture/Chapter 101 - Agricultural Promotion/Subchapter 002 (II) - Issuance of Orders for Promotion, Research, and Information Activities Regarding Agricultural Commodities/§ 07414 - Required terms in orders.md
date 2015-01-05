@@ -50,7 +50,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (A) In general
 
-&emsp;&emsp;The members and any alternates of a board shall each serve for a term of 3 years, except that the members and any alternates initially appointed to a board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
+&emsp;&emsp;The members and any alternates of a board shall each serve for a term of 3 years,except that the members and any alternates initially appointed to a board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
 
 #### (B) Limitation on consecutive terms
 
@@ -86,13 +86,13 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(4) to employ persons, other than the members, as the board considers necessary to assist the board in carrying out its duties, and to determine the compensation and specify the duties of the persons;
 
-&emsp;(5) subject to subsection (e) of this section, to develop and carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order;
+&emsp;(5) subject to subsection (e), to develop and carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order;
 
 &emsp;(6) to prepare and submit for the approval of the Secretary, before the beginning of each fiscal year, rates of assessment under section 7416 of this title and an annual budget of the anticipated expenses to be incurred in the administration of the order, including the probable cost of each promotion, research, and information activity proposed to be developed or carried out by the board;
 
 &emsp;(7) to borrow funds necessary for the startup expenses of the order;
 
-&emsp;(8) subject to subsection (f) of this section, to enter into contracts or agreements to develop and carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order;
+&emsp;(8) subject to subsection (f), to enter into contracts or agreements to develop and carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order;
 
 &emsp;(9) to pay the cost of the activities with assessments collected under section 7416 of this title, earnings from invested assessments, and other funds;
 
@@ -134,7 +134,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (4) Payment of expenses
 
-&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income of the board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
+&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collectedunder section 7416 of this title, earnings obtained from assessments, and other income of the board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
 
 #### (5) Limitation on spending
 
@@ -192,7 +192,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (1) In general
 
-&emsp;Each order shall require that producers, first handlers and other persons in the marketingchain as appropriate, and importers covered by the order shall—
+&emsp;Each order shall require that producers, first handlers and other persons in the marketing chain as appropriate, and importers covered by the order shall—
 
 &emsp;&emsp;(A) maintain records sufficient to ensure compliance with the order and regulations;
 

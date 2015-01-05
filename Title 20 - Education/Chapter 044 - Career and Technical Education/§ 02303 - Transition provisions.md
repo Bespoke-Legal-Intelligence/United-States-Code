@@ -14,5 +14,5 @@ The Carl D. Perkins Vocational and Technical Education Act of 1998, as in effect
 
 A prior section 2303, Pub. L. 88–210, §4, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3082, related to transition provisions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2303, Pub. L. 101–392, §4, Sept. 25, 1990, 104 Stat. 758; Pub. L. 104–66, title I, §1041(f), Dec. 21, 1995, 109 Stat. 715, which related to the Interdepartmental Task Force on Vocational Education and Related Programs, was transferred to section 2308 of this title.
+Another prior section 2303, Pub. L. 101–392, §4, Sept. 25, 1990, 104 Stat. 758; Pub. L. 104–66, title I, §1041(f),Dec. 21, 1995, 109 Stat. 715, which related to the Interdepartmental Task Force on Vocational Education and Related Programs, was transferred to section 2308 of this title.
 

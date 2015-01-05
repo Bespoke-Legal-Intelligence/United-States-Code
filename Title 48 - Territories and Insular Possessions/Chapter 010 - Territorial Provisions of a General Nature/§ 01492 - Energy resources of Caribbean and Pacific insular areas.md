@@ -102,7 +102,7 @@ The Secretary of Energy or any administrative official who may succeed him, with
 
 &emsp;(C) other factors the Secretary of Energy considers to be appropriate.
 
-(5) Not later than 1 year after August 8, 2005, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives, the updated plans for each insular area required by this subsection.
+(5) Not later than 1 year after August 8, 2005, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources ofthe Senate, the Committee on Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives, the updated plans for each insular area required by this subsection.
 
 #### (f) Authorization of appropriations
 
@@ -182,7 +182,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 #### References in Text
 
-August 8, 2005, referred to in subsecs. (e)(5) and (g)(4)(F), was in the original "the date of enactment of this subsection" and "the date of enactment of this paragraph", respectively, and was translated as meaning the date of enactment of Pub. L. 109–58 which amended subsecs. (e) and (g)(4) generally, to reflect the probable intent of Congress.
+August 8, 2005, referred to in subsecs. (e)(5) and (g)(4)(F), was in the original "the date of enactment ofthis subsection" and "the date of enactment of this paragraph", respectively, and was translated as meaning the date of enactment of Pub. L. 109–58 which amended subsecs. (e) and (g)(4) generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

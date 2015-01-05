@@ -36,7 +36,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (B) Time of submission
 
-&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period, the first such period beginning on the first January 1st that occurs after November 28, 1990, and shall be submitted not more than 30 days after the conclusion of each such 1-year period.
+&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period,the first such period beginning on the first January 1st that occurs after November 28, 1990, and shall be submitted not more than 30 days after the conclusion of each such 1-year period.
 
 #### (d) Penalties
 

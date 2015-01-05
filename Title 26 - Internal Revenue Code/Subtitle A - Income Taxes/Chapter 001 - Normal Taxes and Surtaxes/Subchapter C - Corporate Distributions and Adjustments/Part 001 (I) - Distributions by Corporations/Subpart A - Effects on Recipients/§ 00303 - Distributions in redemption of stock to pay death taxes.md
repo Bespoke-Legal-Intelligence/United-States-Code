@@ -38,7 +38,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 #### (3) Relationship of shareholder to estate tax
 
-&emsp;Subsection (a) shall apply to a distribution by a corporation only to the extent that theinterest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
+&emsp;Subsection (a) shall apply to a distribution by a corporation only to the extent that the interest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
 
 #### (4) Additional requirements for distributions made more than 4 years after decedent's death
 
@@ -62,7 +62,7 @@ If—
 
 #### (d) Special rules for generation-skipping transfers
 
-Where stock in a corporation is the subject of a generation-skipping transfer (within the meaning of section 2611(a)) occurring at the same time as and as a result of the death of an individual—
+Where stock in a corporation is the subject of a generation-skipping transfer (within themeaning of section 2611(a)) occurring at the same time as and as a result of the death of an individual—
 
 &emsp;(1) the stock shall be deemed to be included in the gross estate of such individual;
 

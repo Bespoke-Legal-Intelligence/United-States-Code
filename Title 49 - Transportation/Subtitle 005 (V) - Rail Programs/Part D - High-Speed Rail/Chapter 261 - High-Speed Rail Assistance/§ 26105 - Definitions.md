@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) the term "financial assistance" includes grants, contracts,,<sup>1</sup> cooperative agreements, and other transactions;
 
-&emsp;(2) the term "high-speed rail" means all forms of nonhighway ground transportationthat run on rails or electromagnetic guideways providing transportation service which is—
+&emsp;(2) the term "high-speed rail" means all forms of nonhighway ground transportation that run on rails or electromagnetic guideways providing transportation service which is—
 
 &emsp;&emsp;(A) reasonably expected to reach sustained speeds of more than 125 miles per hour; and
 

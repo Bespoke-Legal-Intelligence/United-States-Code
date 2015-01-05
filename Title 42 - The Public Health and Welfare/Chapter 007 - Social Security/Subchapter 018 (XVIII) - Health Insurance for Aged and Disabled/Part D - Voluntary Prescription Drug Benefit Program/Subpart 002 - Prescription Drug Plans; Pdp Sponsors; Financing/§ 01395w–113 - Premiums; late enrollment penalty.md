@@ -20,7 +20,7 @@
 
 #### (iii) Adjusted national average monthly bid amount defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "adjusted national average monthlybid amount" means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "adjusted national average monthly bid amount" means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
 
 #### (C) Increase for supplemental prescription drug benefits
 
@@ -94,7 +94,7 @@
 
 #### (ii) Supplemental coverage
 
-&emsp;&emsp;&emsp;In the case of a prescription drug plan that provides supplemental prescription drug coverage, the portion of the PDP approved bid that is attributable to basic prescription drug coverage.
+&emsp;&emsp;&emsp;In the case of a prescription drug plan that provides supplemental prescriptiondrug coverage, the portion of the PDP approved bid that is attributable to basic prescription drug coverage.
 
 #### (B) MA–PD plans
 
@@ -108,7 +108,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an individual whose modified adjusted gross income exceeds the threshold amount applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the calendar year, the monthly amount of the beneficiary premium applicable underthis section for a month after December 2010 shall be increased by the monthly adjustment amount specified in subparagraph (B).
+&emsp;&emsp;In the case of an individual whose modified adjusted gross income exceeds the threshold amount applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the calendar year, the monthly amount of the beneficiary premium applicable under this section for a month after December 2010 shall be increased by the monthly adjustment amount specified in subparagraph (B).
 
 #### (B) Monthly adjustment amount
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;&emsp;(i) an amount that the Secretary determines is actuarially sound for each uncovered month (as defined in subparagraph (B)) in the same continuous period of eligibility; or
 
-&emsp;&emsp;&emsp;(ii) 1 percent of the base beneficiary premium (computed under subsection (a)(2) of this section) for each such uncovered month in such period.
+&emsp;&emsp;&emsp;(ii) 1 percent of the base beneficiary premium (computed under subsection (a)(2) ofthis section) for each such uncovered month in such period.
 
 #### (B) Uncovered month defined
 

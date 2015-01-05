@@ -24,13 +24,13 @@ The organization receiving a grant or contract under this section may charge app
 
 In order to receive a grant or contract under this section, an organization shall submit an application to the Director of the Institute. Such application shall contain—
 
-&emsp;(1) information demonstrating that such organization has a network of contacts which will enable such organization to receive information necessary to the operation of the central computerized information system described in subsection (b)(1) of this section;
+&emsp;(1) information demonstrating that such organization has a network of contacts whichwill enable such organization to receive information necessary to the operation of the central computerized information system described in subsection (b)(1) of this section;
 
 &emsp;(2) information demonstrating that, by the end of fiscal year 1991, such organization will be financially able to, and will, carry out the activities described in subsection (b) of this section without a grant or contract from the Federal Government; and
 
 &emsp;(3) such other information as the Director may prescribe.
 
-(July 1, 1944, ch. 373, title IV, §445F, formerly Pub. L. 99–660, title IX, §952, Nov. 14, 1986, 100Stat. 3813; renumbered §445F of act July 1, 1944, and amended Pub. L. 100–607, title I, §142(a), (d)(5), Nov. 4, 1988, 102 Stat. 3057, 3058.)
+(July 1, 1944, ch. 373, title IV, §445F, formerly Pub. L. 99–660, title IX, §952, Nov. 14, 1986, 100 Stat. 3813; renumbered §445F of act July 1, 1944, and amended Pub. L. 100–607, title I, §142(a), (d)(5), Nov. 4, 1988, 102 Stat. 3057, 3058.)
 
 #### Codification
 

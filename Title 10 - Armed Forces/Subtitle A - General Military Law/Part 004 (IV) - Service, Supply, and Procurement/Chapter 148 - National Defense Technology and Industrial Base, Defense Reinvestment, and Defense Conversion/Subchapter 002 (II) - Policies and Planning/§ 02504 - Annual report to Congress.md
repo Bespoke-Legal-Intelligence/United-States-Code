@@ -46,7 +46,7 @@ Contents of Report.—The report required by subsection (a) shall include, at a 
 
 &emsp;"(3) to examine the structure of the industrial base, including the competitive landscape, relationships, risks, and opportunities within that structure;
 
-&emsp;"(4) to map the supply chain for critical items identified under paragraph (2) in a manner that providesthe Department of Defense visibility from raw material to final products;
+&emsp;"(4) to map the supply chain for critical items identified under paragraph (2) in a manner that provides the Department of Defense visibility from raw material to final products;
 
 &emsp;"(5) to perform a risk assessment of the supply chain for such critical items and conduct an evaluation of the extent to which—
 

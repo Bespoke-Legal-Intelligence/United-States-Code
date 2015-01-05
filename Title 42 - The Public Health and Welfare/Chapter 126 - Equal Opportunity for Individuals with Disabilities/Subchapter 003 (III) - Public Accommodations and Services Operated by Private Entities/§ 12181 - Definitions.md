@@ -88,7 +88,7 @@ As used in this subchapter:
 
 #### (11) Vehicle
 
-&emsp;The term "vehicle" does not include a rail passenger car, railroad locomotive, railroadfreight car, railroad caboose, or a railroad car described in section 12162 of this title or covered under this subchapter.
+&emsp;The term "vehicle" does not include a rail passenger car, railroad locomotive, railroad freight car, railroad caboose, or a railroad car described in section 12162 of this title or covered under this subchapter.
 
 (Pub. L. 101–336, title III, §301, July 26, 1990, 104 Stat. 353.)
 

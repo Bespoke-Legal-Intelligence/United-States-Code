@@ -10,7 +10,7 @@ Upon the request of any State health authority or, in the case of work relating 
 
 #### (c) Congressional committees and nonprofit educational, research, or other institutions engaged in health activities for special studies and dissemination of information
 
-The Surgeon General may detail personnel of the Service to any appropriate committee of the Congress or to nonprofit educational, research <sup>1</sup> or other institutions engaged in health activities for special studies of scientific problems and for the dissemination of information relating to public health.
+The Surgeon General may detail personnel of the Service to any appropriate committee of theCongress or to nonprofit educational, research <sup>1</sup> or other institutions engaged in health activities for special studies of scientific problems and for the dissemination of information relating to public health.
 
 #### (d) Availability of funds; reimbursement by State; detailed services deemed service for computation of pay, promotion, etc.
 
@@ -18,7 +18,7 @@ Personnel detailed under subsections (b) and (c) of this section shall be paid f
 
 #### (e) Commissioned Corps officers; urgent or emergency public health care needs
 
-Except with respect to the United States Coast Guard and the Department of Defense, and except as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deploy any Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary's direction in response toan urgent or emergency public health care need (as defined in section 204a(a)(5) of this title).
+Except with respect to the United States Coast Guard and the Department of Defense, and except as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deploy any Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary's direction in response to an urgent or emergency public health care need (as defined in section 204a(a)(5) of this title).
 
 (July 1, 1944, ch. 373, title II, §214, 58 Stat. 690; July 3, 1946, ch. 538, §6, 60 Stat. 423; Oct. 12, 1949, ch. 681, title V, §521(e), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–76, title III, §309, Sept. 29, 1979, 93 Stat. 585; Pub. L. 109–417, title II, §206(c)(1), Dec. 19, 2006, 120 Stat. 2853.)
 

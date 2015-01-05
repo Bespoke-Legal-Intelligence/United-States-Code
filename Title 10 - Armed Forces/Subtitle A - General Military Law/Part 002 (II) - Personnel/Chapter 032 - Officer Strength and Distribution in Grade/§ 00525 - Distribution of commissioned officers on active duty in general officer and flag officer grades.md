@@ -60,7 +60,7 @@
 
 &emsp;(1) An officer of that armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer.
 
-&emsp;(2) At the discretion of the Secretary of Defense, an officer of that armed force who has been relieved from a position designated under section 601(a) of this title or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
+&emsp;(2) At the discretion of the Secretary of Defense, an officer of that armed force who hasbeen relieved from a position designated under section 601(a) of this title or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
 
 (f) An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (a).
 
@@ -112,7 +112,7 @@ Pub. L. 110–181, §543(d), substituted "16.3 percent" for "15.7 percent" where
 
 Subsec. (b)(2)(B). Pub. L. 110–417, §503(d)(2)(B), substituted "19 percent" for "17.5 percent".
 
-Subsec. (e)(2). Pub. L. 110–181, §501(b), added par. (2) and struck out former par. (2) which read as follows: "An officer of that armed force who has been relieved from a position designated under section 601(a) of this title and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published."
+Subsec. (e)(2). Pub. L. 110–181, §501(b), added par. (2) and struck out former par. (2) which read as follows:"An officer of that armed force who has been relieved from a position designated under section 601(a) of this title and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published."
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
@@ -216,7 +216,7 @@ Pub. L. 107–314, div. A, title IV, §404(c), Dec. 2, 2002, 116 Stat. 2525, pro
 
 &emsp;"(A) Revision of the limitations on general and flag officer grade authorizations and distribution in grade prescribed by sections 525, 526, and 12004 of title 10, United States Code.
 
-&emsp;"(B) Statutory designation of the positions and grades of any additional general and flag officers inthe commands specified in chapter 1006 of title 10, United States Code, and the reserve component offices specified in sections 3038, 5143, 5144, and 8038 of such title.
+&emsp;"(B) Statutory designation of the positions and grades of any additional general and flag officers in the commands specified in chapter 1006 of title 10, United States Code, and the reserve component offices specified in sections 3038, 5143, 5144, and 8038 of such title.
 
 "(2) The provisions of subsection (b) through (e) of section 1213 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2694) shall apply to the report under paragraph (1) in the same manner as they applied to the report required by subsection (a) of that section."
 

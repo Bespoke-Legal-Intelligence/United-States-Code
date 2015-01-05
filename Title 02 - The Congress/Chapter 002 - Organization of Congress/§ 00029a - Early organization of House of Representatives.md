@@ -10,9 +10,9 @@
 
 #### (b) Payment and reimbursement for travel and per diem expenses for Members attending caucus or conference; exceptions; regulations governing payments and reimbursements; reimbursement vouchers
 
-(1)(A) Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) of this section, and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be paid for one round trip between his or her place of residence in the district which he or she represents and Washington, District of Columbia, for the purpose of attending such caucus or conference. Payment shall be made through the issuance of a transportation request form to each such Member-elect or incumbent Member by the Finance Office of the House before such caucus or conference.
+(1)(A) Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a), and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be paid for one round trip between his or her place of residence in the district which he or she represents and Washington, District of Columbia, for the purpose of attending such caucus or conference. Payment shall be made through the issuance of a transportation request form to each such Member-elect or incumbent Member by the Finance Office of the House before such caucus or conference.
 
-(B) Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) of this section shall in addition be reimbursed on a per diem or other basis for expenses incurred in connection with his or her attendance at such caucus or conference.
+(B) Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) shall in addition be reimbursed on a per diem or other basis for expenses incurred in connection with his or her attendance at such caucus or conference.
 
 (2) Payments and reimbursements to Members-elect under paragraph (1) shall be made as provided (with respect to Members) in the regulations prescribed by the Committee on House Oversight with respect to travel and other expenses of committees and Members. Reimbursements shall be paid on special voucher forms prescribed by the Committee on House Oversight.
 
@@ -22,7 +22,7 @@ The applicable accounts of the House of Representatives are made available to ca
 
 #### (d) Orientation programs for new Members
 
-With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) of this section shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members <sup>1</sup> in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
+With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members <sup>1</sup> in the same manner as such provisions apply to the attendance ofthe Member or Member-elect at the organizational caucus or conference.
 
 (Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, §202(4), Aug. 20, 1996, 110 Stat. 1725; Pub. L. 108–447, div. G, title I, §107(a), (b)(1), (c)(1), Dec. 8, 2004, 118 Stat. 3176.)
 
@@ -32,19 +32,19 @@ Section is based on section 202 of House Resolution No. 988, Ninety-third Congre
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–447, §107(a), substituted “conference of all” for “conference, to begin on or after the first day of December and conclude on or before the twentieth day of December in such year and to be attended by all”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–447, §107(a), substituted "conference of all" for "conference, to begin on or after the first day of December and conclude on or before the twentieth day of December in such year and to be attended by all".
 
-Subsec. (b)(1)(B). Pub. L. 108–447, §107(b)(1), substituted a period for “for a period not to exceed the shorter of the following—
+Subsec. (b)(1)(B). Pub. L. 108–447, §107(b)(1), substituted a period for "for a period not to exceed the shorter of the following—
 
-&emsp;“(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or
+&emsp;"(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or
 
-&emsp;“(ii) fourteen days.”
+&emsp;"(ii) fourteen days."
 
 Subsec. (d). Pub. L. 108–447, §107(c)(1), added subsec. (d).
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted “House Oversight” for “House Administration” in two places.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted "House Oversight" for "House Administration" in two places.
 
-Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted “applicable accounts of the House of Representatives are” for “contingent fund of the House is”.
+Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted "applicable accounts of the House of Representatives are" for "contingent fund of the House is".
 
 #### Change of Name
 
@@ -52,7 +52,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–447, div. G, title I, §107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: “The amendments made by this section \[amending this section and section 5343 of this title\] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
+Pub. L. 108–447, div. G, title I, §107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: "The amendments made by this section \[amending this section and section 5343 of this title\] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress."
 
 #### Effective Date
 

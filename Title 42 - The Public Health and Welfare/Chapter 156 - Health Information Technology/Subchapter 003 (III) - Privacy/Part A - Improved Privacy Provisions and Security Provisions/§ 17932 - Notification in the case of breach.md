@@ -40,11 +40,11 @@ For purposes of this section, a breach shall be treated as discovered by a cover
 
 #### (3) Notice to Secretary
 
-&emsp;Notice shall be provided to the Secretary by covered entities of unsecured protected healthinformation that has been acquired or disclosed in a breach. If the breach was with respect to 500 or more individuals than <sup>1</sup> such notice must be provided immediately. If the breach was with respect to less than 500 individuals, the covered entity may maintain a log of any such breach occurring and annually submit such a log to the Secretary documenting such breaches occurring during the year involved.
+&emsp;Notice shall be provided to the Secretary by covered entities of unsecured protected health information that has been acquired or disclosed in a breach. If the breach was with respect to 500 or more individuals than <sup>1</sup> such notice must be provided immediately. If the breach was with respect to less than 500 individuals, the covered entity may maintain a log of any such breach occurring and annually submit such a log to the Secretary documenting such breaches occurring during the year involved.
 
 #### (4) Posting on HHS public website
 
-&emsp;The Secretary shall make available to the public on the Internet website of the Department of Health and Human Services a list that identifies each covered entity involved in a breach described in subsection (a) in which the unsecured protected health information of more than 500 individuals is acquired or disclosed.
+&emsp;The Secretary shall make available to the public on the Internet website of the Department of Health and Human Services a list that identifies each covered entity involved in abreach described in subsection (a) in which the unsecured protected health information of more than 500 individuals is acquired or disclosed.
 
 #### (f) Content of notification
 

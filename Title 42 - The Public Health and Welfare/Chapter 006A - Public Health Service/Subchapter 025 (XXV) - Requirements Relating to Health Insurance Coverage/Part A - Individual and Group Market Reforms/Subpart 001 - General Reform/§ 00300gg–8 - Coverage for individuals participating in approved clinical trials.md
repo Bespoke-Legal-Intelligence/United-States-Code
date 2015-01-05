@@ -108,7 +108,7 @@ Notwithstanding any provision of chapter 89 of title 5, this section shall apply
 
 #### (h) Preemption
 
-Notwithstanding any other provision of this chapter, nothing in this section shall preempt State laws that require a clinical trials policy for State regulated health insurance plans that is in addition to the policy required under this section.
+Notwithstanding any other provision of this chapter, nothing in this section shall preempt State laws that require a clinical trials policy for State regulated health insurance plans that is in addition to the policy required under this section..
 
 (July 1, 1944, ch. 373, title XXVII, §2709, as added Pub. L. 111–148, title X, §10103(c), Mar. 23, 2010, 124 Stat. 892.)
 

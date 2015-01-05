@@ -16,7 +16,7 @@ Selective Early Separation Boards.—Whenever the needs of the Army, Navy, Air F
 
 &emsp;(2) for selective early retirement under section 14705 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, §514(a), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §505(b)(3), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 108–136, div. A, title V, §511(b)(1), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, §515(b)(1)(PP), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, §514(a), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §505(b)(3), Dec. 28, 2001, 115 Stat. 1087; Pub. L.108–136, div. A, title V, §511(b)(1), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, §515(b)(1)(PP), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Amendments
 

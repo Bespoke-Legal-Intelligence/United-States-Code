@@ -22,7 +22,7 @@
 
 &emsp;(C) Costs associated with enhancing medical care services to veterans by improving, renovating, replacing, updating, or establishing patient care facilities through construction projects to be carried out for an amount less than the amount specified in 8104(a)(3)(A) for a major medical facility project.
 
-&emsp;(D) Costs, including costs specified in subparagraph (A), associated with the transfer,lease, or adaptive use of a structure or other property under the jurisdiction of the Secretary that is listed on the National Register of Historic Places.
+&emsp;(D) Costs, including costs specified in subparagraph (A), associated with the transfer, lease, or adaptive use of a structure or other property under the jurisdiction of the Secretary that is listed on the National Register of Historic Places.
 
 (c) The Secretary shall include in the budget justification materials submitted to Congress for any fiscal year in support of the President's budget for that fiscal year for the Department specification of the following:
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) All transfers completed under this section during the preceding fiscal year and completed and scheduled to be completed during the fiscal year during which the budget is submitted.
 
-&emsp;(3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
+&emsp;(3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the currentfiscal year, and the fiscal year covered by the budget.
 
 (Added Pub. L. 108–422, title IV, §411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, §10(g), Oct. 5, 2011, 125 Stat. 397.)
 

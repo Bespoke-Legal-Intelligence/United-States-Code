@@ -30,7 +30,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 > In any action under subsection (a)(1)(A) of this section in a court of the United States, any person may intervene as a matter of right.
 
-(2)(A) No action may be commenced under subsection (a)(1)(B) of this section prior to ninety days after the plaintiff has given notice of the endangerment to—
+(2)(A) No action may be commenced under subsection (a)(1)(B) of this section prior to ninetydays after the plaintiff has given notice of the endangerment to—
 
 &emsp;(i) the Administrator;
 
@@ -76,7 +76,7 @@ In any action under this section the Administrator, if not a party, may interven
 
 #### (e) Costs
 
-The court, in issuing any final order in any action brought pursuant to this section or section6976 of this title, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or substantially prevailing party, whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
+The court, in issuing any final order in any action brought pursuant to this section or section 6976 of this title, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or substantially prevailing party, whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
 
 #### (f) Other rights preserved
 
@@ -84,7 +84,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 #### (g) Transporters
 
-A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
+A transporter shall not be deemed to have contributed or to be contributing to the handling,storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
 
 (Pub. L. 89–272, title II, §7002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2825; amended Pub. L. 95–609, §7(p), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 98–616, title IV, §401, Nov. 8, 1984, 98 Stat. 3268.)
 

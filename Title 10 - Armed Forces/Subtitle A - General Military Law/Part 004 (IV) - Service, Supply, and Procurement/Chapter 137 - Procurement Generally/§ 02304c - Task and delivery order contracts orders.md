@@ -32,7 +32,7 @@ Enhanced Competition for Orders in Excess of $5,000,000.—In the case of a task
 
 &emsp;(2) a reasonable period of time to provide a proposal in response to the notice;
 
-&emsp;(3) disclosure of the significant factors and subfactors, including cost or price, that the agency expects to consider in evaluating such proposals, and their relative importance;
+&emsp;(3) disclosure of the significant factors and subfactors, including cost or price, that theagency expects to consider in evaluating such proposals, and their relative importance;
 
 &emsp;(4) in the case of an award that is to be made on a best value basis, a written statement documenting the basis for the award and the relative importance of quality and price or cost factors; and
 

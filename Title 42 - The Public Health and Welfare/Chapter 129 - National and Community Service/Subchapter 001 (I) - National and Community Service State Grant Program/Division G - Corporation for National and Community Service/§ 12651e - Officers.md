@@ -50,7 +50,7 @@
 
 &emsp;One of the Managing Directors appointed under subsection (a) of this section shall, in accordance with applicable provisions of title 5, appoint 4 Assistant Directors who shall report directly to such Managing Director, of which—
 
-&emsp;&emsp;(A) 1 Assistant Director shall be responsible for programs carried out under parts A \[42 U.S.C. 4951 et seq.\] and B <sup>1</sup> of title I of the Domestic Volunteer Service Act of 1973 (the Volunteers in Service to America (VISTA) program) and other antipoverty programs under title I of that Act \[42 U.S.C. 4951 et seq.\];
+&emsp;&emsp;(A) 1 Assistant Director shall be responsible for programs carried out under parts A \[42 U.S.C. 4951 et seq.\] and B <sup>1</sup> of title I of the Domestic Volunteer Service Act of 1973 (the Volunteers in Service to America (VISTA) program) and other antipoverty programsunder title I of that Act \[42 U.S.C. 4951 et seq.\];
 
 &emsp;&emsp;(B) 1 Assistant Director shall be responsible for programs carried out under part A of title II of that Act \[42 U.S.C. 5001 et seq.\] (relating to the Retired Senior Volunteer Program);
 
@@ -60,7 +60,7 @@
 
 #### (2) Effective date for exercise of authority
 
-&emsp;Each Assistant Director appointed pursuant to paragraph (1) may exercise the authorityassigned to each such Director only after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993.
+&emsp;Each Assistant Director appointed pursuant to paragraph (1) may exercise the authority assigned to each such Director only after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993.
 
 (Pub. L. 101–610, title I, §194, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat. 882; amended Pub. L. 110–409, §4(a)(4), Oct. 14, 2008, 122 Stat. 4304; Pub. L. 111–13, title I, §1705, Apr. 21, 2009, 123 Stat. 1547; Pub. L. 112–166, §2(p), Aug. 10, 2012, 126 Stat. 1288.)
 

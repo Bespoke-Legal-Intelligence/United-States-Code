@@ -50,7 +50,7 @@ Pub. L. 100–542, §3, Oct. 28, 1988, 102 Stat. 2721.
 
 40:762a(b)(6).
 
-In subsection (a), the words "prescribe regulations to ensure" are substituted for "by regulation, take suchactions in accordance with this section as may be necessary to assure" to eliminate unnecessary words.
+In subsection (a), the words "prescribe regulations to ensure" are substituted for "by regulation, take such actions in accordance with this section as may be necessary to assure" to eliminate unnecessary words.
 
 In subsection (c), the text of 40:762a(b)(2)–(4) and (c) is omitted as executed and obsolete. The words "In carrying out subsection (a) of this section" are omitted as unnecessary.
 

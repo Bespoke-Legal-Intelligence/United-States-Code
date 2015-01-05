@@ -66,7 +66,7 @@ An individual who fails to comply with the contract entered into under subsectio
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $195,000,000 for fiscal year2010, and such sums as may be necessary for each of fiscal years 2011 through 2015.
+There is authorized to be appropriated to carry out this section $195,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015.
 
 (July 1, 1944, ch. 373, title VII, §776, as added Pub. L. 111–148, title V, §5204, Mar. 23, 2010, 124 Stat. 609.)
 

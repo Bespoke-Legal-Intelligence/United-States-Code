@@ -16,7 +16,7 @@ Each center for independent living that receives assistance under this subpart s
 
 &emsp;&emsp;(C) development of peer relationships and peer role models; and
 
-&emsp;&emsp;(D) equal access of individuals with significant disabilities to society and to all services, programs, activities, resources, and facilities, whether public or private and regardless of the funding source.
+&emsp;&emsp;(D) equal access for individuals with significant disabilities, within their communities, to all services, programs, activities, resources, and facilities, whether public or private and regardless of the funding source.
 
 #### (2) Provision of services
 
@@ -44,7 +44,7 @@ Each center for independent living that receives assistance under this subpart s
 
 #### (c) Assurances
 
-The eligible agency shall provide at such time and in such manner as the Commissioner may require, such satisfactory assurances as the Commissioner may require, including satisfactory assurances that—
+The eligible agency shall provide at such time and in such manner as the Administrator may require, such satisfactory assurances as the Administrator may require, including satisfactory assurances that—
 
 &emsp;(1) the applicant is an eligible agency;
 
@@ -66,11 +66,11 @@ The eligible agency shall provide at such time and in such manner as the Commiss
 
 &emsp;&emsp;(B) the number and types of individuals with significant disabilities receiving services through the center;
 
-&emsp;&emsp;(C) the types of services provided through the center and the number of individualswith significant disabilities receiving each type of service;
+&emsp;&emsp;(C) the types of services provided through the center and the number of individuals with significant disabilities receiving each type of service;
 
 &emsp;&emsp;(D) the sources and amounts of funding for the operation of the center;
 
-&emsp;&emsp;(E) the number of individuals with significant disabilities who are employed by, and the number who are in management and decisionmaking positions in, the center; and
+&emsp;&emsp;(E) the number of individuals with significant disabilities who are employed by, andthe number who are in management and decisionmaking positions in, the center; and
 
 &emsp;&emsp;(F) a comparison, when appropriate, of the activities of the center in prior years with the activities of the center in the most recent year;
 
@@ -82,17 +82,21 @@ The eligible agency shall provide at such time and in such manner as the Commiss
 
 &emsp;(12) the center will submit to the Statewide Independent Living Council a copy of its approved grant application and the annual report required under paragraph (8);
 
-&emsp;(13) the center will prepare and submit a report to the designated State unit or the Commissioner, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b) of this section; and
+&emsp;(13) the center will prepare and submit a report to the designated State unit or the Administrator, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b) of this section; and
 
 &emsp;(14) an independent living plan described in section 796c(e) of this title will be developed unless the individual who would receive services under the plan signs a waiver stating that such a plan is unnecessary.
 
-(Pub. L. 93–112, title VII, §725, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1234; amended Pub. L. 105–332, §5(c), Oct. 31, 1998, 112 Stat. 3127.)
+(Pub. L. 93–112, title VII, §725, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1234; amended Pub. L. 105–332, §5(c), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 113–128, title IV, §483, July 22, 2014, 128 Stat. 1693.)
 
 #### Prior Provisions
 
 A prior section 796f–4, Pub. L. 93–112, title VII, §725, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4462; amended Pub. L. 103–73, title I, §114(l), Aug. 11, 1993, 107 Stat. 731, related to standards and assurances for centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(D). Pub. L. 113–128, §483(1), substituted "access for" for "access of" and ", within their communities," for "to society and".
+
+Subsec. (c). Pub. L. 113–128, §483(2), substituted "Administrator" for "Commissioner" wherever appearing.
 
 <b>1998</b>—Subsec. (c)(7). Pub. L. 105–332 substituted "management;" for "management, including making arrangements for an annual independent fiscal audit, notwithstanding section 7502(a)(2)(A) of title 31;".
 

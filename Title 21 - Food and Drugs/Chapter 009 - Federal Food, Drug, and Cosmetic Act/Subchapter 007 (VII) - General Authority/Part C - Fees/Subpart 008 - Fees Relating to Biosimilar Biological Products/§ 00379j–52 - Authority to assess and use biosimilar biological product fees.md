@@ -96,7 +96,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (iii) Financial hold
 
-&emsp;&emsp;&emsp;Notwithstanding section 355(i)(2) of this title, except in extraordinary circumstances, the Secretary shall prohibit the sponsor of a clinical investigation from continuing the investigation if—
+&emsp;&emsp;&emsp;Notwithstanding section 355(i)(2) of this title, except in extraordinary circumstances, the Secretary shall prohibit thesponsor of a clinical investigation from continuing the investigation if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary determines that the investigation is intended to support a biosimilar biological product application; and
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) A fee for a biosimilar biological product application that is equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respectto safety or effectiveness are required for approval; minus
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required for approval; minus
 
 &emsp;&emsp;&emsp;&emsp;(II) the cumulative amount of fees paid, if any, under subparagraphs (A), (B), and (D) of paragraph (1) for the product that is the subject of the application.
 
@@ -160,7 +160,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (E), each person that is named as the applicant in a biosimilar biological product application shall be assessed an annual fee established under subsection (b)(1)(E) for each biosimilar biological product establishment that is listed in the approved biosimilar biological product application as an establishment that manufactures the biosimilar biological product named in such application.
+&emsp;&emsp;Except as provided in subparagraph (E), each person that is named as the applicantin a biosimilar biological product application shall be assessed an annual fee established under subsection (b)(1)(E) for each biosimilar biological product establishment that is listed in the approved biosimilar biological product application as an establishment that manufactures the biosimilar biological product named in such application.
 
 #### (B) Assessment in fiscal years
 
@@ -232,7 +232,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (E) Biosimilar biological product establishment fee
 
-&emsp;&emsp;The biosimilar biological product establishment fee under subsection (a)(3) for a fiscal year shall be equal to the amount established under section 379h(c)(4) of this title for a prescription drug establishment for that fiscal year.
+&emsp;&emsp;The biosimilar biological product establishment fee under subsection (a)(3) for a fiscal year shall be equal to the amount established under section 379h(c)(4) of this titlefor a prescription drug establishment for that fiscal year.
 
 #### (F) Biosimilar biological product fee
 
@@ -258,7 +258,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (3) Small business defined
 
-&emsp;In this subsection, the term "small business" means an entity that has fewer than 500 employees, including employees of affiliates, and does not have a drug product that has been approved under a human drug application (as defined in section 379g of this title) or a biosimilar biological product application (asdefined in section 379j–51(4) of this title) and introduced or delivered for introduction into interstate commerce.
+&emsp;In this subsection, the term "small business" means an entity that has fewer than 500 employees, including employees of affiliates, and does not have a drug product that has been approved under a human drug application (as defined in section 379g of this title) or a biosimilar biological product application (as defined in section 379j–51(4) of this title) and introduced or delivered for introduction into interstate commerce.
 
 #### (d) Effect of failure to pay fees
 

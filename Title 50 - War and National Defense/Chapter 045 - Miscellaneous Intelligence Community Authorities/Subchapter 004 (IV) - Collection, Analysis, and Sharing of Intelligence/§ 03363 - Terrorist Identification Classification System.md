@@ -24,9 +24,9 @@ Subject to section 3024(i) of this title, relating to the protection of intellig
 
 #### (d) Report on criteria for information sharing
 
-(1) Not later then March 1, 2003, the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) of this section are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
+(1) Not later then <sup>1</sup> March 1, 2003, the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) of this section are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
 
-(2) The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section would be inappropriate due to the concerns addressed by section 403–3(c)(7) <sup>1</sup> of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
+(2) The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section would be inappropriate due to the concerns addressed by section 403–3(c)(7) <sup>2</sup> of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
 
 #### (e) System administration requirements
 
@@ -68,7 +68,7 @@ Section was formerly classified to section 404n–2 of this title prior to edito
 
 #### Amendments
 
-Subsecs. (d) to (h). Pub. L. 111–259 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows:
+<b>2010</b>—Subsecs. (d) to (h). Pub. L. 111–259 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows:
 
 "(1) The Director shall review on an annual basis the information provided by various departments and agencies for purposes of the list under subsection (a) of this section in order to determine whether or not the information so provided is derived from the widest possible range of intelligence available to such departments and agencies.
 
@@ -86,5 +86,7 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "than".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

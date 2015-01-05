@@ -21,7 +21,7 @@
 | \[177. | Repealed.\] |
 | [178\.](%C2%A7%2000178%20-%20Amortization%20of%20cost%20of%20acquiring%20a%20lease.md) | Amortization of cost of acquiring a lease. |
 | [179\.](%C2%A7%2000179%20-%20Election%20to%20expense%20certain%20depreciable%20business%20assets.md) | Election to expense certain depreciable business assets. |
-| [179A.](%C2%A7%2000179A%20-%20Deduction%20for%20clean-fuel%20vehicles%20and%20certain%20refueling%20property.md) | Deduction for clean-fuel vehicles and certain refueling property. |
+| \[179A. | Repealed.\] |
 | [179B.](%C2%A7%2000179B%20-%20Deduction%20for%20capital%20costs%20incurred%20in%20complying%20with%20Environmental%20Protection%20Agency%20sulfur%20regulations.md) | Deduction for capital costs incurred in complying with Environmental Protection Agency sulfur regulations. |
 | [179C.](%C2%A7%2000179C%20-%20Election%20to%20expense%20certain%20refineries.md) | Election to expense certain refineries. |
 | [179D.](%C2%A7%2000179D%20-%20Energy%20efficient%20commercial%20buildings%20deduction.md) | Energy efficient commercial buildings deduction. |
@@ -48,17 +48,14 @@
 | [196\.](%C2%A7%2000196%20-%20Deduction%20for%20certain%20unused%20business%20credits.md) | Deduction for certain unused business credits. |
 | [197\.](%C2%A7%2000197%20-%20Amortization%20of%20goodwill%20and%20certain%20other%20intangibles.md) | Amortization of goodwill and certain other intangibles. |
 | [198\.](%C2%A7%2000198%20-%20Expensing%20of%20environmental%20remediation%20costs.md) | Expensing of environmental remediation costs. |
-| [198A.](%C2%A7%2000198A%20-%20Expensing%20of%20qualified%20disaster%20expenses.md) | Expensing of Qualified Disaster Expenses.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| \[198A. | Repealed.\] |
 | [199\.](%C2%A7%2000199%20-%20Income%20attributable%20to%20domestic%20production%20activities.md) | Income attributable to domestic production activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(34)(A), (35), Dec. 19, 2014, 128 Stat. 4042, which directed amendment of table of sections for part VI of subchapter A of this chapter by striking items 179A and 198A, was executed by striking items 179A "Deduction for clean-fuel vehicles and certain refueling property" and 198A "Expensing of Qualified Disaster Expenses" in table of sections for part VI of this subchapter to reflect the probable intent of Congress.
 
 <b>2008</b>—Pub. L. 110–343, div. C, title VII, §707(b), Oct. 3, 2008, 122 Stat. 3924, added item 198A.
 
@@ -120,8 +117,6 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 
 <i><sup>1</sup></i><i> Section 191 was repealed by Pub. L. 97–34 without corresponding amendment of part analysis.</i>
 
-<i><sup>2</sup></i><i> So in original. The words "Qualified Disaster Expenses" probably should not be capitalized.</i>
-
 
 ---
 
@@ -146,7 +141,7 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 - [&sect; 00177 - Repealed. Pub. L. 99&#8211;514, title II, &sect;241(a), Oct. 22, 1986, 100 Stat. 2181](%C2%A7%2000177%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20II%2C%20%C2%A7241%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202181.md)
 - [&sect; 00178 - Amortization of cost of acquiring a lease](%C2%A7%2000178%20-%20Amortization%20of%20cost%20of%20acquiring%20a%20lease.md)
 - [&sect; 00179 - Election to expense certain depreciable business assets](%C2%A7%2000179%20-%20Election%20to%20expense%20certain%20depreciable%20business%20assets.md)
-- [&sect; 00179A - Deduction for clean-fuel vehicles and certain refueling property](%C2%A7%2000179A%20-%20Deduction%20for%20clean-fuel%20vehicles%20and%20certain%20refueling%20property.md)
+- [&sect; 00179A - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(34)(A), Dec. 19, 2014, 128 Stat. 4042](%C2%A7%2000179A%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%2834%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204042.md)
 - [&sect; 00179B - Deduction for capital costs incurred in complying with Environmental Protection Agency sulfur regulations](%C2%A7%2000179B%20-%20Deduction%20for%20capital%20costs%20incurred%20in%20complying%20with%20Environmental%20Protection%20Agency%20sulfur%20regulations.md)
 - [&sect; 00179C - Election to expense certain refineries](%C2%A7%2000179C%20-%20Election%20to%20expense%20certain%20refineries.md)
 - [&sect; 00179D - Energy efficient commercial buildings deduction](%C2%A7%2000179D%20-%20Energy%20efficient%20commercial%20buildings%20deduction.md)
@@ -171,5 +166,5 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 - [&sect; 00196 - Deduction for certain unused business credits](%C2%A7%2000196%20-%20Deduction%20for%20certain%20unused%20business%20credits.md)
 - [&sect; 00197 - Amortization of goodwill and certain other intangibles](%C2%A7%2000197%20-%20Amortization%20of%20goodwill%20and%20certain%20other%20intangibles.md)
 - [&sect; 00198 - Expensing of environmental remediation costs](%C2%A7%2000198%20-%20Expensing%20of%20environmental%20remediation%20costs.md)
-- [&sect; 00198A - Expensing of qualified disaster expenses](%C2%A7%2000198A%20-%20Expensing%20of%20qualified%20disaster%20expenses.md)
+- [&sect; 00198A - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(35), Dec. 19, 2014, 128 Stat. 4042](%C2%A7%2000198A%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%2835%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204042.md)
 - [&sect; 00199 - Income attributable to domestic production activities](%C2%A7%2000199%20-%20Income%20attributable%20to%20domestic%20production%20activities.md)

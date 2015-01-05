@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-There is established a Human Smuggling and Trafficking Center (referred to in this section as the “Center”).
+There is established a Human Smuggling and Trafficking Center (referred to in this section as the "Center").
 
 #### (b) Operation
 
-The Secretary of State, the Secretary of Homeland Security, and the Attorney General shall operate the Center in accordance with the Memorandum of Understanding entitled, “Human Smuggling and Trafficking Center (HSTC), Charter”.
+The Secretary of State, the Secretary of Homeland Security, and the Attorney General shall operate the Center in accordance with the Memorandum of Understanding entitled, "Human Smuggling and Trafficking Center (HSTC), Charter".
 
 #### (c) Functions
 
@@ -22,7 +22,7 @@ In addition to such other responsibilities as the President may assign, the Cent
 
 #### (d) Director
 
-The Secretary of Homeland Security shall nominate an official of the Government of the United States to serve as the Director of the Center, in accordance with the requirements of the memorandum of understanding entitled the “Human Smuggling and Trafficking Center (HSTC) Charter”.
+The Secretary of Homeland Security shall nominate an official of the Government of the United States to serve as the Director of the Center, in accordance with the requirements of the memorandum of understanding entitled the "Human Smuggling and Trafficking Center (HSTC) Charter".
 
 #### (e) Staffing of the Center
 
@@ -110,7 +110,7 @@ The Secretary of Homeland Security shall provide to the Center the administrativ
 
 #### (1) Initial report
 
-&emsp;Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.
+&emsp;Not later than 180 days after December 17, 2004, the President shall transmit to Congressa report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.
 
 #### (2) Follow-up report
 
@@ -130,7 +130,7 @@ The Secretary of Homeland Security shall provide to the Center the administrativ
 
 &emsp;&emsp;(G) efforts to consolidate networked systems for the Center;
 
-&emsp;&emsp;(H) the mechanisms for the sharing of homeland security information from the Center to the Office of Intelligence andAnalysis, including how such sharing shall be consistent with section 485(b) of title 6;
+&emsp;&emsp;(H) the mechanisms for the sharing of homeland security information from the Center to the Office of Intelligence and Analysis, including how such sharing shall be consistent with section 485(b) of title 6;
 
 &emsp;&emsp;(I) the ability of participating personnel in the Center to freely access necessary databases and share information regarding issues related to human smuggling, trafficking in persons, and terrorist travel;
 
@@ -158,11 +158,11 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(1). Pub. L. 110–53, §721(a)(1), substituted “integrate and disseminate intelligence and information related to” for “address”.
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–53, §721(a)(1), substituted "integrate and disseminate intelligence and information related to" for "address".
 
 Subsecs. (d) to (f). Pub. L. 110–53, §721(a)(3), added subsecs. (d) to (f). Former subsecs. (d) and (e) redesignated (g) and (h), respectively.
 
-Subsec. (g). Pub. L. 110–53, §721(b), reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.”
+Subsec. (g). Pub. L. 110–53, §721(b), reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: "Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center."
 
 Pub. L. 110–53, §721(a)(2), redesignated subsec. (d) as (g).
 

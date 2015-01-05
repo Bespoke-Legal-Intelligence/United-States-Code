@@ -6,11 +6,11 @@ The President is authorized to provide technical assistance, through an American
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated $2,000,000 to carry out subsection (a) of this section.
+There are authorized to be appropriated $2,000,000 to carry out subsection (a).
 
 (Pub. L. 102–511, title III, §307, Oct. 24, 1992, 106 Stat. 3335.)
 
 #### Delegation of Functions
 
-For delegation of certain functions of President under this section, see section 3(a) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
+For delegation of certain functions of President under this section, see section 3(a) of Ex. Ord. No. 12884,Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
 

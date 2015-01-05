@@ -1,6 +1,6 @@
 ### §1911. Receiver mismanaging property
 
-Whoever, being a receiver, trustee, or manager in possession of any property in any cause pending in any court of the United States, willfully fails to manage and operate such property according to the requirements of the valid laws ofthe State in which such property shall be situated, in the same manner that the owner or possessor thereof would be bound to do if in possession thereof, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being a receiver, trustee, or manager in possession of any property in any cause pending in any court of the United States, willfully fails to manage and operate such property according to the requirements of the valid laws of the State in which such property shall be situated, in the same manner that the owner or possessor thereof would be bound to do if in possession thereof, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 

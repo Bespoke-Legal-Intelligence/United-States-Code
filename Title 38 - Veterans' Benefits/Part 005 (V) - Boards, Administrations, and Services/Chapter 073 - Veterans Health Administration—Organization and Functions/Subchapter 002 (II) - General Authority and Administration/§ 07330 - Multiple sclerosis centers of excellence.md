@@ -24,7 +24,7 @@ Criteria for Designation of Facilities.—(1) In designating Department health-c
 
 (c)
 
-Requirements for Designation.—(1) The Secretary may not designate a Department health-care facility as a location for a center under subsection (a) unless the peer review panel established under subsection (d) has determined under that subsection that the proposalsubmitted by such facility as a location for a new center under subsection (a) is among those proposals that meet the highest competitive standards of scientific and clinical merit.
+Requirements for Designation.—(1) The Secretary may not designate a Department health-care facility as a location for a center under subsection (a) unless the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals that meet the highest competitive standards of scientific and clinical merit.
 
 (2) The Secretary may not designate a Department health-care facility as a location for a center under subsection (a) unless the Secretary (upon the recommendation of the Under Secretary for Health) determines that the facility has (or may reasonably be anticipated to develop) each of the following:
 

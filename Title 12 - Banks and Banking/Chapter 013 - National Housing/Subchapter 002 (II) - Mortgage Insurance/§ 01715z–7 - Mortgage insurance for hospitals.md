@@ -26,7 +26,7 @@ The Secretary is authorized to insure any mortgage (including advances on such m
 
 In order to carry out the purpose of this section, the Secretary is authorized to insure any mortgage which covers a new or rehabilitated hospital, including equipment to be used in its operation, subject to the following conditions:
 
-&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. TheSecretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
 &emsp;(2) The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including—
 
@@ -48,7 +48,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;&emsp;(A) a written application for such insurance or modification submitted at the express direction of the hospital has been submitted to the appropriate office of the Department of Health and Human Services prior to March 29, 1979; or
 
-&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respect to the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
+&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respectto the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
 
 > &emsp;This paragraph shall not limit the authority of the Secretary to approve a mortgage increase on any mortgage eligible for insurance under this paragraph at any time prior to final endorsement of the loan for insurance; except that such mortgage increase may not be approved for the cost of constructing any improvements not included in the original plans and specifications approved by the Department of Health and Human Services unless approved by the Secretary of Housing and Urban Development and by the Secretary of Health and Human Services.
 
@@ -76,17 +76,17 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of
 
 #### (1) In general
 
-&emsp;The exemption for critical access hospitals under subsection (b)(1)(B) of this section shall have no effect after July 31, 2011.
+&emsp;The exemption for critical access hospitals under subsection (b)(1)(B) shall have no effect after July 31, 2016.
 
 #### (2) Report to Congress
 
-&emsp;Not later than 3 years after July 31, 2003, the Secretary shall submit a report to Congress detailing the effects of the exemption of critical access hospitals from the provisions of subsection (b)(1)(B) of this section on—
+&emsp;Not later than 3 years after July 31, 2003, the Secretary shall submit a report to Congress detailing the effects of the exemption of critical access hospitals from the provisions of subsection (b)(1)(B) on—
 
 &emsp;&emsp;(A) the provision of mortgage insurance to hospitals under this section; and
 
 &emsp;&emsp;(B) the General Insurance Fund established under section 1735c of this title.
 
-(June 27, 1934, ch. 847, title II, §242, as added Pub. L. 90–448, title XV, §1501, Aug. 1, 1968, 82 Stat. 599; amended Pub. L. 91–609, title I, §§109, 110(a), Dec. 31, 1970, 84 Stat. 1772; Pub. L. 93–383, title III, §304(i), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–153, title III, §315, Dec. 21, 1979, 93 Stat. 1117; Pub. L. 96–399, title III, §310(h), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 97–35, title III, §339H, Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title I \[title IV, §§404(b)(15), 436\], Nov. 30, 1983, 97 Stat. 1210, 1222; Pub. L. 98–479, title II, §§201(a)(1), 204(a)(13), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 100–242, title IV, §§411(a), 412(a)–(d), Feb. 5, 1988, 101 Stat. 1905, 1906; Pub. L. 108–91, §§2(a), 3(a), Oct. 3, 2003, 117 Stat. 1158; Pub. L. 109–240, §2, July 10, 2006, 120 Stat. 515.)
+(June 27, 1934, ch. 847, title II, §242, as added Pub. L. 90–448, title XV, §1501, Aug. 1, 1968, 82 Stat. 599; amended Pub. L. 91–609, title I, §§109, 110(a), Dec. 31, 1970, 84 Stat. 1772; Pub. L. 93–383, title III, §304(i), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–153, title III, §315, Dec. 21, 1979, 93 Stat. 1117; Pub. L. 96–399, title III, §310(h), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 97–35, title III, §339H, Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title I \[title IV, §§404(b)(15), 436\], Nov. 30, 1983, 97 Stat. 1210, 1222; Pub. L. 98–479, title II, §§201(a)(1), 204(a)(13), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 100–242, title IV, §§411(a), 412(a)–(d), Feb. 5, 1988, 101 Stat. 1905, 1906; Pub. L. 108–91, §§2(a), 3(a), Oct. 3, 2003, 117 Stat. 1158; Pub. L. 109–240, §2, July 10, 2006, 120 Stat. 515; Pub. L. 113–76, div. L, title II, §233, Jan. 17, 2014, 128 Stat. 634.)
 
 #### References in Text
 
@@ -94,9 +94,11 @@ The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, 
 
 Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to section 8229 of Title 42, The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
 
-The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i)(1). Pub. L. 113–76 substituted "July 31, 2016" for "July 31, 2011".
 
 <b>2006</b>—Subsec. (i)(1). Pub. L. 109–240 substituted "July 31, 2011" for "July 31, 2006".
 

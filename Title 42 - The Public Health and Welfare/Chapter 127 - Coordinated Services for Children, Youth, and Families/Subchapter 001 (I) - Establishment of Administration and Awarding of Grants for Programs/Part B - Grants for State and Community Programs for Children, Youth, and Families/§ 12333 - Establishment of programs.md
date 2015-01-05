@@ -18,7 +18,7 @@ The Commissioner shall make grants—
 
 &emsp;&emsp;(G) a wide range of civic, cultural, and recreational activities that recognize young individuals as resources and promote self-esteem and a sense of community; and
 
-&emsp;(2) to States on a competitive basis under section 12339 <sup>1</sup> of this title to establish family resource programs (including family support centers) in order to enhance the ability of families to remain together and to thrive through the provision of community based services that—
+&emsp;(2) to States on a competitive basis under section 12339 <sup>1</sup> of this title to establish familyresource programs (including family support centers) in order to enhance the ability of families to remain together and to thrive through the provision of community based services that—
 
 &emsp;&emsp;(A) promote and build family and parenting skills;
 

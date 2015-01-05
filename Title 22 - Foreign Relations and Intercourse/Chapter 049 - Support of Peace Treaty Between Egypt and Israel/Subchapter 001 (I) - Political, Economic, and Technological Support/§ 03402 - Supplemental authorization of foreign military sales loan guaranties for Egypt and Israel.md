@@ -14,7 +14,7 @@ Funds made available pursuant to subsection (b) of this section may be used only
 
 #### (d) Repayment schedule
 
-Loans guaranteed with funds made available pursuant to subsection (b) of this section shall be on terms calling for repayment within a period of not less than thirty years, including an initial grace period of ten years on repayment of principal.
+Loans guaranteed with funds made available pursuant to subsection (b) of this section shallbe on terms calling for repayment within a period of not less than thirty years, including an initial grace period of ten years on repayment of principal.
 
 #### (e) Modification of terms of guaranteed loans
 
@@ -26,7 +26,7 @@ Loans guaranteed with funds made available pursuant to subsection (b) of this se
 
 #### References in Text
 
-That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 

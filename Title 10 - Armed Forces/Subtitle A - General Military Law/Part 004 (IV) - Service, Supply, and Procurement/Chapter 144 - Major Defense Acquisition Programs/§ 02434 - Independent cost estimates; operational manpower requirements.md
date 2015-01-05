@@ -38,7 +38,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 <b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–106 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "be prepared by an office or other entity that is not under the supervision, direction, or control of the military department, Defense Agency, or other component of the Department of Defense that is directly responsible for carrying out the development or acquisition of the program; and".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–355, §3004(b), substituted "engineering and manufacturing development" for"full-scale engineering development" and "full life-cycle cost of the program and a manpower estimate for the program have" for "cost of the program, together with a manpower estimate, has".
+<b>1994</b>—Subsec. (a). Pub. L. 103–355, §3004(b), substituted "engineering and manufacturing development" for "full-scale engineering development" and "full life-cycle cost of the program and a manpower estimate for the program have" for "cost of the program, together with a manpower estimate, has".
 
 Subsec. (b). Pub. L. 103–355, §3004(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) defined "independent estimate", "cost of the program", and "manpower estimate".
 

@@ -10,11 +10,11 @@ Upon request, the Secretary may establish rural natural resources and economic d
 
 #### (c) Organization
 
-The Secretary shall design and organize any action team established pursuant to subsection (b) of this section to meet the unique needs of the requesting rural community. Each action team shall be directed by an employee of the Forest Service and may include personnel from other agencies within the Department of Agriculture, from other Federal and State departments and agencies, and from the private sector.
+The Secretary shall design and organize any action team established pursuant to subsection (b) to meet the unique needs of the requesting rural community. Each action team shall be directed by an employee of the Forest Service and may include personnel from other agencies within the Department of Agriculture, from other Federal and State departments and agencies, and from the private sector.
 
 #### (d) Cooperation
 
-In preparing action plans, the Secretary may cooperate with State and local governments, universities, private companies, individuals, andnonprofit organizations for procurement of services determined necessary or desirable.
+In preparing action plans, the Secretary may cooperate with State and local governments, universities, private companies, individuals, and nonprofit organizations for procurement of services determined necessary or desirable.
 
 #### (e) Eligibility
 

@@ -20,9 +20,9 @@ A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96�
 
 #### Amendments
 
-<b>2012</b>—Par. (1). Pub. L. 112–230 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the municipality or political subdivision is in Maryland or Virginia and in the immediate vicinity of the District of Columbia, or is a municipality in which the majority of voters are employed by the Government of the United States; and”.
+<b>2012</b>—Par. (1). Pub. L. 112–230 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the municipality or political subdivision is in Maryland or Virginia and in the immediate vicinity of the District of Columbia, or is a municipality in which the majority of voters are employed by the Government of the United States; and".
 
-<b>1996</b>—Pub. L. 104–93 inserted “and paragraph (2) of section 7323(b)” after “section 7323(a)”.
+<b>1996</b>—Pub. L. 104–93 inserted "and paragraph (2) of section 7323(b)" after "section 7323(a)".
 
 #### Effective Date of 2012 Amendment
 

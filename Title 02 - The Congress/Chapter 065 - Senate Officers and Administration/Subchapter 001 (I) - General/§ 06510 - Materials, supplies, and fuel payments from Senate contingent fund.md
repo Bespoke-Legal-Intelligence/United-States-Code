@@ -10,7 +10,7 @@ Section was formerly classified to section 68a of this title prior to editorial 
 
 #### Amendments
 
-<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control Contingent Expenses”.
+<b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee to Audit and Control Contingent Expenses".
 
 #### Change of Name
 

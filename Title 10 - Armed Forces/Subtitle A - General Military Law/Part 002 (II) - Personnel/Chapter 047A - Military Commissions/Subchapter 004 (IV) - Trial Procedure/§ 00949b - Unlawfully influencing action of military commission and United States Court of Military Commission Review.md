@@ -42,7 +42,7 @@ United States Court of Military Commission Review.—(1) No person may attempt t
 
 &emsp;(C) The appellate military judge is reassigned to other duties by the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armed force of which the appellate military judge is a member, based on military necessity and such reassignment is consistent with service rotation regulations (to the extent such regulations are applicable).
 
-&emsp;(D) The appellate military judge is withdrawn by the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armedforce of which the appellate military judge is a member, for good cause consistent with applicable procedures under chapter 47 of this title (the Uniform Code of Military Justice).
+&emsp;(D) The appellate military judge is withdrawn by the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armed force of which the appellate military judge is a member, for good cause consistent with applicable procedures under chapter 47 of this title (the Uniform Code of Military Justice).
 
 (c)
 

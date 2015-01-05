@@ -18,7 +18,7 @@ Each grazing advisory board shall meet at least once annually.
 
 #### (e) Federal Advisory Committee Act applicability
 
-Except as may be otherwise provided by this section, the provisions of the Federal AdvisoryCommittee Act (86 Stat. 770) shall apply to grazing advisory boards.
+Except as may be otherwise provided by this section, the provisions of the Federal Advisory Committee Act (86 Stat. 770) shall apply to grazing advisory boards.
 
 #### (f) Expiration date
 

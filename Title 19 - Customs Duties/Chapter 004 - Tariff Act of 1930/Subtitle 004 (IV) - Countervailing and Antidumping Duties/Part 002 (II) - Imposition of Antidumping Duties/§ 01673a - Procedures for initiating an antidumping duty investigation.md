@@ -102,7 +102,7 @@
 
 #### (i) Producers related to foreign producers
 
-&emsp;&emsp;&emsp;In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition, if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title, unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of an antidumping duty order.
+&emsp;&emsp;&emsp;In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition,if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title, unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of an antidumping duty order.
 
 #### (ii) Producers who are importers
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 98–573 applicable with respect to investigations initiate
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

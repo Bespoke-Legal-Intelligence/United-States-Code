@@ -18,7 +18,7 @@ In general.—(i) Unless the standard is changed as provided in subparagraph (B)
 
 Revised standards for heavy duty trucks.—(i) On the basis of information available to the Administrator concerning the effects of air pollutants emitted from heavy-duty vehicles or engines and from other sources of mobile source related pollutants on the public health and welfare, and taking costs into account, the Administrator may promulgate regulations under paragraph (1) of this subsection revising any standard promulgated under, or before the date of, the enactment of the Clean Air Act Amendments of 1990 (or previously revised under this subparagraph) and applicable to classes or categories of heavy-duty vehicles or engines.
 
-(ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of thissubsection applicable to emissions of oxides of nitrogen (NO<sub>x</sub>) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
+(ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of this subsection applicable to emissions of oxides of nitrogen (NO<sub>x</sub>) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
 
 (C)
 
@@ -94,13 +94,13 @@ After Fifth
 
 &emsp;(B) Repealed. Pub. L. 101–549, title II, §230(1), Nov. 15, 1990, 104 Stat. 2529.
 
-&emsp;(C) The term "heavy duty vehicle" means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, andhighways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
+&emsp;(C) The term "heavy duty vehicle" means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
 
 (3) <sup>2</sup> Upon the petition of any manufacturer, the Administrator, after notice and opportunity for public hearing, may waive the standard required under subparagraph (B) of paragraph (1) to not exceed 1.5 grams of oxides of nitrogen per vehicle mile for any class or category of light-duty vehicles or engines manufactured by such manufacturer during any period of up to four model years beginning after the model year 1980 if the manufacturer demonstrates that such waiver is necessary to permit the use of an innovative power train technology, or innovative emission control device or system, in such class or category of vehicles or engines and that such technology or system was not utilized by more than 1 percent of the light-duty vehicles sold in the United States in the 1975 model year. Such waiver may be granted only if the Administrator determines—
 
 &emsp;(A) that such waiver would not endanger public health,
 
-&emsp;(B) that there is a substantial likelihood that the vehicles or engines will be able to comply with the applicable standard under this section at the expiration of the waiver, and
+&emsp;(B) that there is a substantial likelihood that the vehicles or engines will be able to comply with the applicable standard underthis section at the expiration of the waiver, and
 
 &emsp;(C) that the technology or system has a potential for long-term air quality benefit and has the potential to meet or exceed the average fuel economy standard applicable under the Energy Policy and Conservation Act \[42 U.S.C. 6201 et seq.\] upon the expiration of the waiver.
 
@@ -292,7 +292,7 @@ after 1996
 
 #### (h) Light-duty trucks of more than 6,000 lbs. GVWR; standards for model years after 1995
 
-Effective with respect to the model year 1996 and thereafter, the regulations under subsection (a) of this section applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO<sub>x</sub>), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer's sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter.
+Effective with respect to the model year 1996 and thereafter, the regulations under subsection (a) of this section applicable to emissions ofnonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO<sub>x</sub>), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer's sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter.
 
 table h—emission standards for nmhc and co from gasoline and diesel fueled light-duty trucks of more than 6,000 lbs. gvwr
 
@@ -390,7 +390,7 @@ CO
 
 &emsp;(i) the availability of technology (including the costs thereof), in the case of light-duty vehicles and light-duty trucks with a loaded vehicle weight (LVW) of 3,750 lbs. or less, for meeting more stringent emission standards than those provided in subsections (g) and (h) of this section for model years commencing not earlier than after January 1, 2003, and not later than model year 2006, including the lead time and safety and energy impacts of meeting more stringent emission standards; and
 
-&emsp;(ii) the need for, and cost effectiveness of, obtaining further reductions in emissions from such light-duty vehicles and light-duty trucks, taking into consideration alternative means of attaining or maintaining the national primaryambient air quality standards pursuant to State implementation plans and other requirements of this chapter, including their feasibility and cost effectiveness.
+&emsp;(ii) the need for, and cost effectiveness of, obtaining further reductions in emissions from such light-duty vehicles and light-duty trucks, taking into consideration alternative means of attaining or maintaining the national primary ambient air quality standards pursuant to State implementation plans and other requirements of this chapter, including their feasibility and cost effectiveness.
 
 (B) The Administrator shall submit a report to Congress no later than June 1, 1997, containing the results of the study under this subsection, including the results of the examination conducted under subparagraph (A). Before submittal of such report the Administrator shall provide a reasonable opportunity for public comment and shall include a summary of such comments in the report to Congress.
 
@@ -432,7 +432,7 @@ CO
 
 #### (1) Phase I
 
-&emsp;Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations under subsection (a) of this section applicable to emissions of carbon monoxide from 1994 and later model year light-duty vehicles and light-duty trucks when operated at 20 degrees Fahrenheit. The regulations shall contain standards which provide that emissions of carbon monoxide from a manufacturer's vehicles when operated at 20 degrees Fahrenheit may not exceed, in the case of light-duty vehicles, 10.0 grams per mile, and in the case of light-duty trucks, a level comparable in stringency to the standard applicable to light-duty vehicles. The standards shall take effect after model year 1993 according to a phase-in schedule which requires a percentage of each manufacturer's sales volume of light-duty vehiclesand light-duty trucks to comply with applicable standards after model year 1993. The percentage shall be as specified in the following table:
+&emsp;Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations under subsection (a) of this section applicable to emissions of carbon monoxide from 1994 and later model year light-duty vehicles and light-duty trucks when operated at 20 degrees Fahrenheit. The regulations shall contain standards which provide that emissions of carbon monoxide from a manufacturer's vehicles when operated at 20 degrees Fahrenheit may not exceed, in the case of light-duty vehicles, 10.0 grams per mile, and in the case of light-duty trucks, a level comparable in stringency to the standard applicable to light-duty vehicles. The standards shall take effect after model year 1993 according to a phase-in schedule which requires a percentage of each manufacturer's sales volume of light-duty vehicles and light-duty trucks to comply with applicable standards after model year 1993. The percentage shall be as specified in the following table:
 
 Phase-In Schedule for Cold Start Standards
 
@@ -458,7 +458,7 @@ Percentage
 
 &emsp;(B)(i) If as of June 1, 1997, 6 or more nonattainment areas have a carbon monoxide design value of 9.5 ppm or greater, the regulations under subsection (a)(1) of this section applicable to emissions of carbon monoxide from model year 2002 and later model year light-duty vehicles and light-duty trucks shall contain standards which provide that emissions of carbon monoxide from such vehicles and trucks when operated at 20 degrees Fahrenheit may not exceed 3.4 grams per mile (gpm) in the case of light-duty vehicles and 4.4 grams per mile (gpm) in the case of light-duty trucks up to 6,000 GVWR and a level comparable in stringency in the case of light-duty trucks 6,000 GVWR and above.
 
-&emsp;(ii) In determining for purposes of this subparagraph whether 6 or more nonattainment areas have a carbon monoxide design value of 9.5 ppm or greater, the Administrator shall exclude the areas of Steubenville, Ohio, and Oshkosh, Wisconsin.
+&emsp;(ii) In determining for purposes of this subparagraph whether 6 or more nonattainment areas have a carbon monoxide design value of9.5 ppm or greater, the Administrator shall exclude the areas of Steubenville, Ohio, and Oshkosh, Wisconsin.
 
 #### (3) Useful-life for phase I and phase II standards
 
@@ -486,7 +486,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (2) Standards
 
-&emsp;Within 54 months after November 15, 1990, the Administrator shall, based on the study under paragraph (1), promulgate (and from time to time revise) regulations under subsection (a)(1) of this section or section 7545(c)(1) of this title containing reasonable requirements to control hazardous air pollutants from motor vehicles and motor vehicle fuels. The regulations shall contain standards for such fuels or vehicles, or both, which the Administrator determines reflect the greatest degree of emission reduction achievable through the application of technology which will be available, taking into consideration the standards established under subsection (a) of this section, the availability and costs of the technology, and noise, energy, and safety factors, and lead time. Such regulations shall not be inconsistent with standards under subsection (a) of this section. The regulations shall, at aminimum, apply to emissions of benzene and formaldehyde.
+&emsp;Within 54 months after November 15, 1990, the Administrator shall, based on the study under paragraph (1), promulgate (and from time to time revise) regulations under subsection (a)(1) of this section or section 7545(c)(1) of this title containing reasonable requirements to control hazardous air pollutants from motor vehicles and motor vehicle fuels. The regulations shall contain standards for such fuels or vehicles, or both, which the Administrator determines reflect the greatest degree of emission reduction achievable through the application of technology which will be available, taking into consideration the standards established under subsection (a) of this section, the availability and costs of the technology, and noise, energy, and safety factors, and lead time. Such regulations shall not be inconsistent with standards under subsection (a) of this section. The regulations shall, at a minimum, apply to emissions of benzene and formaldehyde.
 
 #### (m) Emissions control diagnostics
 
@@ -506,7 +506,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (2) Effective date
 
-&emsp;The regulations required under paragraph (1) of this subsection shall take effect in model year 1994, except that the Administrator may waive the application of such regulations for model year 1994 or 1995 (or both) with respect to any class or category of motor vehicles if the Administrator determines that it would be infeasible to apply the regulations to that class or category in such model year or years, consistent with corresponding regulations or policies adopted by the California Air Resources Board for such systems.
+&emsp;The regulations required under paragraph (1) of this subsection shall take effect in model year 1994, except that the Administrator may waive the application of such regulations for model year 1994 or 1995 (or both) with respectto any class or category of motor vehicles if the Administrator determines that it would be infeasible to apply the regulations to that class or category in such model year or years, consistent with corresponding regulations or policies adopted by the California Air Resources Board for such systems.
 
 #### (3) State inspection
 
@@ -554,7 +554,7 @@ Standard\*
 
 #### References in Text
 
-The enactment of the Clean Air Act Amendments of 1990, referred to in subsec. (a)(3)(B), probably means theenactment of Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, which was approved Nov. 15, 1990. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The enactment of the Clean Air Act Amendments of 1990, referred to in subsec. (a)(3)(B), probably means the enactment of Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, which was approved Nov. 15, 1990. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 Section 7525(f)(1) of this title, referred to in subsec. (a)(3)(E), was redesignated section 7525(f) of this title by Pub. L. 101–549, title II, §230(8), Nov. 15, 1990, 104 Stat. 2529.
 
@@ -720,7 +720,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (b) "alternative fuels" has the meaning specified for that term in section 301(2) of the Energy Policy Act of 1992 (42 U.S.C. 13211(2));
 
-(c) "authorities" include the Clean Air Act (42 U.S.C. 7401–7671q), the Energy Policy Act of 1992 (Public Law 102–486), the Energy Policy Act of 2005 (Public Law 109–58), the Energy Policy and Conservation Act (Public Law 94–163), and any other current or future laws or regulations that may authorize or require any of the agencies to take regulatory action that directly or indirectly affects emissions of greenhouse gases from motor vehicles;
+(c) "authorities" include the Clean Air Act (42 U.S.C. 7401–7671q), the Energy Policy Act of 1992 (Public Law102–486), the Energy Policy Act of 2005 (Public Law 109–58), the Energy Policy and Conservation Act (Public Law 94–163), and any other current or future laws or regulations that may authorize or require any of the agencies to take regulatory action that directly or indirectly affects emissions of greenhouse gases from motor vehicles;
 
 (d) "greenhouse gases" has the meaning specified for that term in Executive Order 13423 of January 24, 2007;
 

@@ -50,7 +50,7 @@ The Advisory Committee shall—
 
 &emsp;(3) develop, publish, and implement performance measures for programs under this part;
 
-&emsp;(4) develop and publish guidelines for longitudinal evaluations (as described in section294n(d)(2) of this title) for programs under this part; and
+&emsp;(4) develop and publish guidelines for longitudinal evaluations (as described in section 294n(d)(2) of this title) for programs under this part; and
 
 &emsp;(5) recommend appropriation levels for programs under this part.
 

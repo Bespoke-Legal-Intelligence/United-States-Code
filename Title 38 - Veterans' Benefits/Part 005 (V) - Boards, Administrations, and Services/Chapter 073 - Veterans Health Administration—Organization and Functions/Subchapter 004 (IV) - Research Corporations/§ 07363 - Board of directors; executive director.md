@@ -32,7 +32,7 @@ Subsec. (a)(2). Pub. L. 111–163, §803(b), inserted "not less than two" before
 
 Subsec. (c). Pub. L. 111–163, §803(c), substituted "or employed by" for ", employed by, or have any other financial relationship with".
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–117, §204(c)(1), substituted "as appropriate, the assistant chief of staff for research for the medical center and the assistant chief of staff for education for the medical center, or, in thecase of a facility at which such positions do not exist, those officials who are responsible for carrying out the responsibilities of the medical center director, chief of staff, and, as appropriate, the assistant chief of staff for research and the assistant chief of staff for education; and" for "the assistant chief of staff for research of the medical center; and".
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–117, §204(c)(1), substituted "as appropriate, the assistant chief of staff for research for the medical center and the assistant chief of staff for education for the medical center, or, in the case of a facility at which such positions do not exist, those officials who are responsible for carrying out the responsibilities of the medical center director, chief of staff, and, as appropriate, the assistant chief of staff for research and the assistant chief of staff for education; and" for "the assistant chief of staff for research of the medical center; and".
 
 Subsec. (a)(2). Pub. L. 106–117, §204(c)(2), inserted "or education, as appropriate" after "research".
 

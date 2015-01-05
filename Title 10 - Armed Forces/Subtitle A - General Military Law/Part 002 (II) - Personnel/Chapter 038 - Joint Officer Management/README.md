@@ -8,12 +8,14 @@
 | [664\.](%C2%A7%2000664%20-%20Length%20of%20joint%20duty%20assignments.md) | Length of joint duty assignments. |
 | [665\.](%C2%A7%2000665%20-%20Procedures%20for%20monitoring%20careers%20of%20joint%20qualified%20officers.md) | Procedures for monitoring careers of joint qualified officers. |
 | [666\.](%C2%A7%2000666%20-%20Reserve%20officers%20not%20on%20the%20active-duty%20list.md) | Reserve officers not on the active-duty list. |
-| [667\.](%C2%A7%2000667%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| \[667. | Repealed.\] |
 | [668\.](%C2%A7%2000668%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title V, §505(b), Dec. 19, 2014, 128 Stat. 3356, struck out item 667 "Annual report to Congress".
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §522(a)(3), (c)(3), Oct. 14, 2008, 122 Stat. 4445, added items 661 and 665 and struck out former items 661 "Management policies for officers who are joint qualified" and 665 "Procedures for monitoring careers of joint officers".
 
@@ -32,5 +34,5 @@
 - [&sect; 00664 - Length of joint duty assignments](%C2%A7%2000664%20-%20Length%20of%20joint%20duty%20assignments.md)
 - [&sect; 00665 - Procedures for monitoring careers of joint qualified officers](%C2%A7%2000665%20-%20Procedures%20for%20monitoring%20careers%20of%20joint%20qualified%20officers.md)
 - [&sect; 00666 - Reserve officers not on the active-duty list](%C2%A7%2000666%20-%20Reserve%20officers%20not%20on%20the%20active-duty%20list.md)
-- [&sect; 00667 - Annual report to Congress](%C2%A7%2000667%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 00667 - Repealed. Pub. L. 113&#8211;291, div. A, title V, &sect;505(a)(1), Dec. 19, 2014, 128 Stat. 3356](%C2%A7%2000667%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7505%28a%29%281%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203356.md)
 - [&sect; 00668 - Definitions](%C2%A7%2000668%20-%20Definitions.md)

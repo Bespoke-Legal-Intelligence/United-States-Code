@@ -26,7 +26,7 @@
 
 &emsp;For any fiscal year after fiscal year 1994, the Commission shall, by rule, revise the Schedule of Regulatory Fees by proportionate increases or decreases to reflect, in accordance with paragraph (1)(B), changes in the amount appropriated for the performance of the activities described in subsection (a) of this section for such fiscal year. Such proportionate increases or decreases shall—
 
-&emsp;&emsp;(A) be adjusted to reflect, within the overall amounts described in appropriations Actsunder the authority of paragraph (1)(A), unexpected increases or decreases in the number of licensees or units subject to payment of such fees; and
+&emsp;&emsp;(A) be adjusted to reflect, within the overall amounts described in appropriations Acts under the authority of paragraph (1)(A), unexpected increases or decreases in the number of licensees or units subject to payment of such fees; and
 
 &emsp;&emsp;(B) be established at amounts that will result in collection of an aggregate amount of fees pursuant to this section that can reasonably be expected to equal the aggregate amount of fees that are required to be collected by appropriations Acts pursuant to paragraph (1)(B).
 

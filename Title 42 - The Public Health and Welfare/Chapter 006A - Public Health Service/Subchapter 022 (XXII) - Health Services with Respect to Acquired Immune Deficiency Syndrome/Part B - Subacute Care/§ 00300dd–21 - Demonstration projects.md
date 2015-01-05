@@ -22,7 +22,7 @@ The Secretary shall conduct three demonstration projects to determine the effect
 
 &emsp;&emsp;(ii) emergency medical care and specialized diagnostic and therapeutic services as needed and where appropriate, either directly or through affiliation with a hospital that has experience in treating individuals with acquired immune deficiency syndrome; and
 
-&emsp;&emsp;(iii) case management services to ensure, through existing services and programswhenever possible, appropriate discharge planning for such individuals; and
+&emsp;&emsp;(iii) case management services to ensure, through existing services and programs whenever possible, appropriate discharge planning for such individuals; and
 
 &emsp;(B) technical assistance, to other facilities in the region served by such facility, that is directed toward education and training of physicians, nurses, and other health-care professionals in the subacute care and treatment of individuals infected with the etiologic agent for acquired immune deficiency syndrome.
 
@@ -106,7 +106,7 @@ Subsec. (f)(1). Pub. L. 100–690, §2618(h)(8), substituted "acquired immune de
 
 Subsec. (f)(2). Pub. L. 100–690, §2618(h)(9), substituted "such syndrome" for "the acquired immunodeficiency syndrome".
 
-Subsec. (g)(1). Pub. L. 100–690, §2618(h)(10), substituted "fiscal year 1989" for "fiscal year 1988" and "fiscalyears 1990 through 1992" for "fiscal years 1989 through 1991".
+Subsec. (g)(1). Pub. L. 100–690, §2618(h)(10), substituted "fiscal year 1989" for "fiscal year 1988" and "fiscal years 1990 through 1992" for "fiscal years 1989 through 1991".
 
 Subsec. (h). Pub. L. 100–527 substituted "Secretary of the Department of Veterans Affairs" and "Department of Veterans Affairs" for "Administrator of the Veterans' Administration" and "Veterans' Administration", respectively.
 

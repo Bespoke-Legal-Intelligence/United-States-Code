@@ -28,13 +28,13 @@ There is established a Department of Homeland Security, as an executive departme
 
 #### (2) Responsibility for investigating and prosecuting terrorism
 
-&emsp;Except as specifically provided by law with respect to entities transferred to the Department under this chapter, primary responsibility for investigating and prosecuting acts of terrorism shall be vested not in the Department, but rather in Federal, State, and locallaw enforcement agencies with jurisdiction over the acts in question.
+&emsp;Except as specifically provided by law with respect to entities transferred to the Department under this chapter, primary responsibility for investigating and prosecuting acts of terrorism shall be vested not in the Department, but rather in Federal, State, and local law enforcement agencies with jurisdiction over the acts in question.
 
 (Pub. L. 107–296, title I, §101, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VIII, §8302, Dec. 17, 2004, 118 Stat. 3867.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Amendments
 
@@ -42,7 +42,7 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 #### Transfer of Certain OPM Authority to Department of Homeland Security
 
-Pub. L. 109–295, title V, §513, Oct. 4, 2006, 120 Stat. 1378, provided that: “Notwithstanding any other provision of law, the authority of the Office of Personnel Management to conduct personnel security and suitability background investigations, update investigations, and periodic reinvestigations of applicants for, or appointees in, positions in the Office of the Secretary and Executive Management, the Office of the Under Secretary for Management, Analysis and Operations, Immigration and Customs Enforcement, the Directorate for Preparedness, and the Directorate of Science and Technology of the Department of Homeland Security is transferred to the Department of Homeland Security: <i>Provided</i>, That on request of the Department of Homeland Security, the Office of Personnel Management shall cooperate with and assist the Department in any investigation or reinvestigation under this section: <i>Provided further</i>, That this section shall cease to be effective at such time as the President has selected a single agency to conduct security clearance investigations pursuant to section 3001(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 50 U.S.C. 435b \[now 50 U.S.C. 3341\]) and the entity selected pursuant to section 3001(b) of such Act has reported to Congress that the agency selected pursuant to such section 3001(c) is capable of conducting all necessary investigations in a timely manner or has authorized the entities within the Department of Homeland Security covered by this section to conduct their own investigations pursuant to section 3001 of such Act.”
+Pub. L. 109–295, title V, §513, Oct. 4, 2006, 120 Stat. 1378, provided that: "Notwithstanding any other provision of law, the authority of the Office of Personnel Management to conduct personnel security and suitability background investigations, update investigations, and periodic reinvestigations of applicants for, or appointees in, positions in the Office of the Secretary and Executive Management, the Office of the Under Secretary for Management, Analysis and Operations, Immigration and Customs Enforcement, the Directorate for Preparedness, and the Directorate of Science and Technology of the Department of Homeland Security is transferred to the Department of Homeland Security: <i>Provided</i>, That on request of the Department of Homeland Security, the Office of Personnel Management shall cooperate with and assist the Department in any investigation or reinvestigation under this section: <i>Provided further</i>, That this section shall cease to be effective at such time as the President has selected a single agency to conduct security clearance investigations pursuant to section 3001(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 50 U.S.C. 435b \[now 50 U.S.C. 3341\]) and the entity selected pursuant to section 3001(b) of such Act has reported to Congress that the agency selected pursuant to such section 3001(c) is capable of conducting all necessary investigations in a timely manner or has authorized the entities within the Department of Homeland Security covered by this section to conduct their own investigations pursuant to section 3001 of such Act."
 
 \[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Directorate for Preparedness, as constituted on June 1, 2006, including the functions of the Under Secretary for Preparedness relating thereto, to the Federal Emergency Management Agency, with certain exceptions, see section 315(a)(2), (b) of this title.\]
 
@@ -56,7 +56,7 @@ Pub. L. 108–334, title V, §518, Oct. 18, 2004, 118 Stat. 1318.
 
 Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10619, as amended by Ex. Ord. No. 13442, §1, Aug. 13, 2007, 72 F.R. 45877, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\] and section 301 of title 3, United States Code, and in order to reflect the transfer of certain functions to, and other responsibilities vested in, the Secretary of Homeland Security, the transfer of certain agencies and agency components to the Department of Homeland Security, and the delegation of appropriate responsibilities to the Secretary of Homeland Security, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\] and section 301 of title 3, United States Code, and in order to reflect the transfer of certain functions to, and other responsibilities vested in, the Secretary of HomelandSecurity, the transfer of certain agencies and agency components to the Department of Homeland Security, and the delegation of appropriate responsibilities to the Secretary of Homeland Security, it is hereby ordered as follows:
 
 Section 1. \[Amended Ex. Ord. No. 13276, set out as a note under section 1182 of Title 8, Aliens and Nationality.\]
 
@@ -234,15 +234,15 @@ I hereby designate the Department of Homeland Security as a defense agency of th
 
 Sec. 86. <i>Exception from the Provisions of the Government Employees Training Act.</i>
 
-Those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis are, pursuant to section 4102(b)(1) of title 5, United States Code, and in the public interest, excepted from the following provisions of the Government Employees Training Act as codified in title 5: sections 4103(a)(1), 4108, 4115, 4117, and 4118, and that part of 4109(a) that provides “under the regulations prescribed under section 4118(a)(8) of this title and”.
+Those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis are, pursuant to section 4102(b)(1) of title 5, United States Code, and in the public interest, excepted from the following provisions of the Government Employees Training Act as codified in title 5: sections 4103(a)(1), 4108, 4115, 4117, and 4118, and that part of 4109(a) that provides "under the regulations prescribed under section 4118(a)(8) of this title and".
 
 Sec. 87. <i>Functions of Certain Officials in the Coast Guard.</i>
 
-The Commandant and the Assistant Commandant for Intelligence of the Coast Guard each shall be considered a “Senior Official of the Intelligence Community” for purposes of Executive Order 12333 of December 4, 1981 \[50 U.S.C. 3001 note\], and all other relevant authorities.
+The Commandant and the Assistant Commandant for Intelligence of the Coast Guard each shall be considered a "Senior Official of the Intelligence Community" for purposes of Executive Order 12333 of December 4, 1981 \[50 U.S.C. 3001 note\], and all other relevant authorities.
 
 Sec. 88. <i>Order of Succession.</i>
 
-Subject to the provisions of subsection (b) of this section, the officers named in subsection (a) of this section, in the order listed, shall act as, and perform the functions and duties of the office of, the Secretary of Homeland Security (Secretary), if they are eligible toact as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>. (Vacancies Act), during any period in which the Secretary has died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary.
+Subject to the provisions of subsection (b) of this section, the officers named in subsection (a) of this section, in the order listed, shall act as, and perform the functions and duties of the office of, the Secretary of Homeland Security (Secretary), if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>. (Vacancies Act), during any period in which the Secretary has died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary.
 
 (a) Order of Succession.
 
@@ -288,7 +288,7 @@ Subject to the provisions of subsection (b) of this section, the officers named 
 
 Sec. 89. <i>Savings Provision.</i>
 
-Except as otherwise specifically provided above or in Executive Order 13284 of January 23, 2003 (“Amendment of Executive Orders, and Other Actions, in Connection With the Establishment of the Department of Homeland Security”) \[6 U.S.C. 121 note\], references in any prior Executive Order relating to an agency or an agency component that is transferred to the Department of Homeland Security (“the Department”), or relating to a function that is transferred to the Secretary of Homeland Security, shall be deemed to refer, as appropriate, to the Department or its officers, employees, agents, organizational units, or functions.
+Except as otherwise specifically provided above or in Executive Order 13284 of January 23, 2003 ("Amendment of Executive Orders, and Other Actions, in Connection With the Establishment of the Department of Homeland Security") \[6 U.S.C. 121 note\], references in any prior Executive Order relating to an agency or an agency component that is transferred to the Department of Homeland Security ("the Department"), or relating to a function that is transferred to the Secretary of Homeland Security, shall be deemed to refer, as appropriate, to the Department or its officers, employees, agents, organizational units, or functions.
 
 Sec. 90. Nothing in this order shall be construed to impair or otherwise affect the authority of the Secretary of Defense with respect to the Department of Defense, including the chain of command for the armed forces of the United States under section 162(b) of title 10, United States Code, and the authority of the Secretary of Defense with respect to the Department of Defense under section 113(b) of that title.
 
@@ -300,7 +300,7 @@ Sec. 93. This order does not create any right or benefit, substantive or procedu
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
 #### Executive Order No. 13362
 

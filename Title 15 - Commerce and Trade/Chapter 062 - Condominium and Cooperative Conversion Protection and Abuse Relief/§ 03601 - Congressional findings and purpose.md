@@ -20,5 +20,5 @@ Pub. L. 96–399, title VI, §618, Oct. 8, 1980, 94 Stat. 1680, provided that: "
 
 #### Short Title
 
-Pub. L. 96–399, title VI, §601, Oct. 8, 1980, 94 Stat. 1672, provided that: "This title \[enacting this chapter\] maybe cited as the 'Condominium and Cooperative Abuse Relief Act of 1980'."
+Pub. L. 96–399, title VI, §601, Oct. 8, 1980, 94 Stat. 1672, provided that: "This title \[enacting this chapter\] may be cited as the 'Condominium and Cooperative Abuse Relief Act of 1980'."
 

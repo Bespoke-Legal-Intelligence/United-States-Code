@@ -28,7 +28,7 @@ No funds appropriated for, or otherwise available to, any department, agency, or
 
 #### (d) Report to Congressional committees required for expenditure of nonappropriated funds for intelligence activity
 
-(1) Except as otherwise specifically provided by law, funds available to an intelligence agency that are not appropriated funds may be obligated or expended for an intelligence or intelligence-related activity only if those funds are used for activities reported to the appropriate congressional committees pursuant to procedures which identify—
+(1) Except as otherwise specifically provided by law, funds available to an intelligence agencythat are not appropriated funds may be obligated or expended for an intelligence or intelligence-related activity only if those funds are used for activities reported to the appropriate congressional committees pursuant to procedures which identify—
 
 &emsp;(A) the types of activities for which nonappropriated funds may be expended; and
 

@@ -54,7 +54,7 @@ It is unlawful—
 
 &emsp;&emsp;(Q) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation; or
 
-&emsp;&emsp;(R) to use any fishing vessel to engage in fishing in Federal or State waters, or on the high seas or in the waters of another country, after the Secretary has made a paymentto the owner of that fishing vessel under section 1861a(b)(2) of this title.
+&emsp;&emsp;(R) to use any fishing vessel to engage in fishing in Federal or State waters, or on the high seas or in the waters of another country, after the Secretary has made a payment to the owner of that fishing vessel under section 1861a(b)(2) of this title.
 
 > &emsp;For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term "naturally attached", with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.
 
@@ -102,7 +102,7 @@ It is unlawful—
 
 This chapter, referred to in par. (1), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, as amended, which is classified principally to chapter 71 (§5101 etseq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, as amended, which is classified principally to chapter 71 (§5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Par. (1)(P). Pub. L. 111–348, §103(a)(1), amended subpar. (P) generally. Prio
 
 <b>2000</b>—Par. (1). Pub. L. 106–557 added subpar. (P) and concluding provisions.
 
-<b>1996</b>—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted "plan implemented" for "plan, implemented" and inserted before semicolon at end ", or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)".
+<b>1996</b>—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted "plan implemented" for "plan, implemented" and inserted before semicolon at end ", or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adoptedby the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)".
 
 Par. (1)(K). Pub. L. 104–297, §113(b)(2), substituted "gear;" for "gear," at end of cl. (ii) and struck out concluding provisions which read as follows: "or to attempt to do so;".
 

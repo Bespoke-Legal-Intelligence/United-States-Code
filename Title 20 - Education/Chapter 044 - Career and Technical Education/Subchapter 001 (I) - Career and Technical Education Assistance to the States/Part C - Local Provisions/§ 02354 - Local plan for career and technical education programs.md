@@ -2,7 +2,7 @@
 
 #### (a) Local plan required
 
-Any eligible recipient desiring financial assistance under this part shall, in accordancewith requirements established by the eligible agency (in consultation with such other educational training entities as the eligible agency determines to be appropriate) submit a local plan to the eligible agency. Such local plan shall cover the same period of time as the period of time applicable to the State plan submitted under section 2342 of this title.
+Any eligible recipient desiring financial assistance under this part shall, in accordance with requirements established by the eligible agency (in consultation with such other educational training entities as the eligible agency determines to be appropriate) submit a local plan to the eligible agency. Such local plan shall cover the same period of time as the period of time applicable to the State plan submitted under section 2342 of this title.
 
 #### (b) Contents
 
@@ -56,9 +56,21 @@ The eligible agency shall determine the requirements for local plans, except tha
 
 &emsp;&emsp;(B) the transition to teaching from business and industry.
 
-(Pub. L. 88–210, title I, §134, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 732.)
+(Pub. L. 88–210, title I, §134, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 732; amended Pub. L. 113–128, title V, §512(e)(5), July 22, 2014, 128 Stat. 1707.)
+
+#### Amendment of Subsection (b)(5)
+
+<i>Pub. L. 113–128, title V, §§506, 512(e)(5), July 22, 2014, 128 Stat. 1703, 1707, provided that, ef</i><i>fective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(5) of this section is amended by striking "entities participating in activities described in section 2832 of title 29 (if applicable)" and inserting "entities participating in activities described in section 3122 of title 29 (if applicable)". See 2014 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 2354, Pub. L. 88–210, title I, §134, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3114, related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b)(5). Pub. L. 113–128 substituted "entities participating in activities described in section 3122 of title 29 (if applicable)" for "entities participating in activities described in section 2832 of title 29 (if applicable)".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

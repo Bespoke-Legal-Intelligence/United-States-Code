@@ -6,7 +6,7 @@
 
 (2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
 
-(3) The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port's or terminal's facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues from ships are adequate.
+(3) The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port's or terminal's facilities for receiving ozone depleting substances, equipment containing such substances,and exhaust gas cleaning residues from ships are adequate.
 
 #### (b) Traffic considerations
 
@@ -26,7 +26,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 &emsp;(A) is valid for the 5-year period beginning on the date of issuance of the certificate, except that if—
 
-&emsp;&emsp;(i) the charge for operation of the port or terminal is transferred to a person or entityother than the person or entity that is the operator on the date of issuance of the certificate—
+&emsp;&emsp;(i) the charge for operation of the port or terminal is transferred to a person or entity other than the person or entity that is the operator on the date of issuance of the certificate—
 
 &emsp;&emsp;&emsp;(I) the certificate shall expire on the date that is 30 days after the date of the transfer; and
 
@@ -72,7 +72,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 Subsec. (b). Pub. L. 110–280, §7(2), inserted "or the Administrator" after "Secretary".
 
-Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations."
+Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary may deny the entry ofa ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations."
 
 Subsec. (f)(1). Pub. L. 110–280, §7(4), substituted "Secretary and the Administrator are" for "Secretary is".
 

@@ -52,7 +52,7 @@ Filing date.—The filing date of a provisional application shall be the date on
 
 &emsp;(5)
 
-Abandonment.—Notwithstanding the absence of a claim, upon timely request and as prescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section 119(e)(3), if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of suchapplication and shall not be subject to revival after such 12-month period.
+Abandonment.—Notwithstanding the absence of a claim, upon timely request and as prescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section 119(e)(3), if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival after such 12-month period.
 
 &emsp;(6)
 

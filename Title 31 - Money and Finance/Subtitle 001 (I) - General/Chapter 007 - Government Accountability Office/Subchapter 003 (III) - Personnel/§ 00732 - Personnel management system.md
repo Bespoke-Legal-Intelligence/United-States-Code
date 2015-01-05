@@ -22,7 +22,7 @@
 
 &emsp;(2) except as provided in clause (4) of this subsection and section 733(a)(3)(A) of this title, the highest basic pay rate under the pay schedule may not be more than the rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5;
 
-&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjustedannually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
+&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjusted annually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
 
 &emsp;&emsp;(A) the principle that equal pay should be provided for work of equal value within each local pay area;
 
@@ -136,7 +136,7 @@
 
 &emsp;(C) the term "covered officer or employee", as used with respect to a pay increase, means any individual—
 
-&emsp;&emsp;(i) who is an officer or employee of the Government Accountability Office, otherthan an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
+&emsp;&emsp;(i) who is an officer or employee of the Government Accountability Office, other than an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
 
 &emsp;&emsp;(ii) whose performance is at least at a satisfactory level, as determined by the Comptroller General under the provisions of subsection (c)(3) for purposes of the adjustment taking effect under such provisions in such year; and
 
@@ -302,7 +302,7 @@ Pub. L. 106–303, §3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: "The
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1984 Amendment
 
@@ -326,7 +326,7 @@ Pay Increase Defined.—For purposes of this section, the term 'pay increase', a
 
 "(c)
 
-Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate ofbasic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
 "(d)
 
@@ -418,7 +418,7 @@ Qualified Individual.—For purposes of this section, the term 'qualified indivi
 
 &emsp;&emsp;"(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
 
-&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staffmember with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
+&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
 "(d)
 

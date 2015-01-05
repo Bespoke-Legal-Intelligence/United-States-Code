@@ -26,7 +26,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (B) Incompatible office
 
-&emsp;&emsp;No member of the Board appointed under subsection (b) of this section may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch (other than the Office), or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,<sup>2</sup> an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
+&emsp;&emsp;No member of the Board appointed under subsection (b) may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch (other than the Office), or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,<sup>2</sup> an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
 
 #### (3) Vacancies
 
@@ -48,13 +48,13 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 &emsp;&emsp;(C) 2 shall have a term of office of 5 years, 1 of whom shall be the Chair,
 
-> &emsp;as designated at the time of appointment by the persons specified in subsection (b) of this section.
+> &emsp;as designated at the time of appointment by the persons specified in subsection (b).
 
 #### (f) Removal
 
 #### (1) Authority
 
-&emsp;Any member of the Board may be removed from office by a majority decision of the appointing authorities described in subsection (b) of this section, but only for—
+&emsp;Any member of the Board may be removed from office by a majority decision of the appointing authorities described in subsection (b), but only for—
 
 &emsp;&emsp;(A) disability that substantially prevents the member from carrying out the duties of the member,
 
@@ -64,7 +64,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 &emsp;&emsp;(D) malfeasance, including a felony or conduct involving moral turpitude, or
 
-&emsp;&emsp;(E) holding an office or employment or engaging in an activity that disqualifies the individual from service as a member of the Board under subsection (d)(2) of this section.
+&emsp;&emsp;(E) holding an office or employment or engaging in an activity that disqualifies the individual from service as a member of the Board under subsection (d)(2).
 
 #### (2) Statement of reasons for removal
 
@@ -76,7 +76,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (A) Rate of compensation for each day
 
-&emsp;&emsp;Each member of the Board shall be compensated, for each day (including travel time) during which such member is engagedin the performance of the duties of the Board, at a rate equal to the daily equivalent of the lesser of—
+&emsp;&emsp;Each member of the Board shall be compensated, for each day (including travel time) during which such member is engaged in the performance of the duties of the Board, at a rate equal to the daily equivalent of the lesser of—
 
 &emsp;&emsp;&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
 
@@ -96,7 +96,7 @@ The Office shall—
 
 &emsp;(1) carry out a program of education for Members of Congress and other employing authorities of the legislative branch of the Federal Government respecting the laws made applicable to them and a program to inform individuals of their rights under laws applicable to the legislative branch of the Federal Government;
 
-&emsp;(2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV of this chapter, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to the residences of covered employees, and conduct seminars and other activities designed to educate employing offices and covered employees; and
+&emsp;(2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to covered employees by the end of each fiscal year, and conduct seminars and other activities designed to educate employing offices and covered employees; and
 
 &emsp;(3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
 
@@ -112,23 +112,25 @@ The Office shall be open for business, including receipt of requests for counsel
 
 Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under title I of the Ethics in Government Act of 1978 with the Clerk of the House of Representatives.
 
-(Pub. L. 104–1, title III, §301, Jan. 23, 1995, 109 Stat. 24; Pub. L. 108–349, §1(a), Oct. 21, 2004, 118 Stat. 1389; Pub. L. 110–161, div. H, title I, §1101(a), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §1, Dec. 26, 2007, 121 Stat. 2459.)
+(Pub. L. 104–1, title III, §301, Jan. 23, 1995, 109 Stat. 24; Pub. L. 108–349, §1(a), Oct. 21, 2004, 118 Stat. 1389; Pub. L. 110–161, div. H, title I, §1101(a), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §1, Dec. 26, 2007, 121 Stat. 2459; Pub. L. 113–235, div. H, title I, §1001, Dec. 16, 2014, 128 Stat. 2530.)
 
 #### References in Text
 
 The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§261 et seq.) of this title prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701. See section 1601 et seq. of this title.
 
-This chapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsec. (h)(3), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (d)(2)(B). Pub. L. 110–164 substituted “legislative branch (other than the Office),” for “legislative branch,”.
+<b>2014</b>—Subsec. (h)(2). Pub. L. 113–235 substituted "covered employees by the end of each fiscal year" for "the residences of covered employees".
 
-Subsec. (g)(1). Pub. L. 110–161 added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Each member of the Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Board. The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties.”
+<b>2007</b>—Subsec. (d)(2)(B). Pub. L. 110–164 substituted "legislative branch (other than the Office)," for "legislative branch,".
 
-<b>2004</b>—Subsec. (e)(1). Pub. L. 108–349 amended second sentence generally. Prior to amendment, second sentence read as follows: “A member of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office.”
+Subsec. (g)(1). Pub. L. 110–161 added par. (1) and struck out heading and text of former par. (1). Text read as follows: "Each member of the Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Board. The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties."
+
+<b>2004</b>—Subsec. (e)(1). Pub. L. 108–349 amended second sentence generally. Prior to amendment, second sentence read as follows: "A member of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office."
 
 #### Change of Name
 
@@ -140,11 +142,11 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–349, §1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
+Pub. L. 108–349, §1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004."
 
 #### Additional Term for Members of Board of Directors of Office of Compliance
 
-Pub. L. 111–114, §1, Dec. 14, 2009, 123 Stat. 3028, provided that: “Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance as of September 30, 2009, may serve for 3 terms.”
+Pub. L. 111–114, §1, Dec. 14, 2009, 123 Stat. 3028, provided that: "Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance as of September 30, 2009, may serve for 3 terms."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

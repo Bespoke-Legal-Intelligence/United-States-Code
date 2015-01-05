@@ -28,7 +28,7 @@
 
 #### (B) Other required statewide employment and training activities
 
-&emsp;&emsp;A State shall use funds reserved as described in sections 2853(a) and 2863(a)(1) of this title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title) to carry out other statewide employment and training activities, which shall include—
+&emsp;&emsp;A State shall use funds reserved as described in sections 2853(a) and 2863(a)(1) ofthis title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title) to carry out other statewide employment and training activities, which shall include—
 
 &emsp;&emsp;&emsp;(i) disseminating the State list of eligible providers of training services, including eligible providers of nontraditional training services, information identifying eligible providers of on-the-job training and customized training, and performance information and program cost information, as described in subsections (e) and (h) of section 2842 of this title;
 
@@ -122,7 +122,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(I) in which each partner provides one or more of the programs, services, and activities to such individuals and is accessible at an affiliated site that consists of a physical location or an electronically or technologically linked access point; and
 
-&emsp;&emsp;&emsp;&emsp;(II) that assures individuals that information on the availability of the core services will be available regardless of where the individuals initially enter thestatewide workforce investment system, including information made available through an access point described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;(II) that assures individuals that information on the availability of the core services will be available regardless of where the individuals initially enter the statewide workforce investment system, including information made available through an access point described in subclause (I).
 
 #### (3) Specialized centers
 
@@ -168,7 +168,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(iii) information relating to local occupations in demand and the earnings and skill requirements for such occupations; and
 
-&emsp;&emsp;(F) provision of performance information and program cost information on eligible providers of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
+&emsp;&emsp;(F) provision of performance information and program cost information on eligible providers of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006\(20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
 
 &emsp;&emsp;(G) provision of information regarding how the local area is performing on the local performance measures and any additional performance information with respect to the one-stop delivery system in the local area;
 
@@ -246,7 +246,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii), provision of such training services shall be limited to individuals who—
 
-&emsp;&emsp;&emsp;&emsp;(I) are unable to obtain other grant assistance for such services, including Federal Pell Grants established under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]); or
+&emsp;&emsp;&emsp;&emsp;(I) are unable to obtain other grant assistance for such services, including Federal Pell Grants established under titleIV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]); or
 
 &emsp;&emsp;&emsp;&emsp;(II) require assistance beyond the assistance made available under other grant assistance programs, including Federal Pell Grants.
 
@@ -320,7 +320,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (iii) Linkage to occupations in demand
 
-&emsp;&emsp;&emsp;Training services provided under this paragraph shall be directly linked to occupations that are in demand in the local area, or in another area to which an adult or dislocated worker receiving such services is willing to relocate, except that a local board may approve training services for occupations determined by the local board to be in sectors of the economy that have a high potential for sustained demand or growth in the local area.
+&emsp;&emsp;&emsp;Training services provided under this paragraph shall be directly linked to occupations that are in demand in the local area, or in another area to which an adult or dislocated worker receiving such services is willing to relocate, except that a local board may approve training services for occupations determined by the localboard to be in sectors of the economy that have a high potential for sustained demand or growth in the local area.
 
 #### (iv) Definition
 
@@ -376,6 +376,10 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 (Pub. L. 105–220, title I, §134, Aug. 7, 1998, 112 Stat. 990; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(6), Aug. 12, 2006, 120 Stat. 748.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(2)(B)(iii) and (d)(2)(J)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
@@ -388,7 +392,7 @@ Title II, referred to in subsec. (d)(2)(F), is title II of Pub. L. 105–220, Au
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(2)(F), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d)(2)(F), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(2)(F), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, asamended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -397,4 +401,8 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub
 <b>2006</b>—Subsec. (d)(2)(F). Pub. L. 109–270 substituted "career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006" for "postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act".
 
 <b>1998</b>—Subsec. (d)(4)(F)(iii). Pub. L. 105–277 added cl. (iii).
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

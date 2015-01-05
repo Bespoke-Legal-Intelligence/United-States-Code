@@ -42,5 +42,5 @@ Section was enacted as part of the Haitian Refugee Immigration Fairness Act of 1
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “nationwide”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "nationwide".</i>
 

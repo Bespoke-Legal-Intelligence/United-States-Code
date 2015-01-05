@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The President is authorized to enter into an environmental framework agreement with each country eligible for benefits from the Facility concerning the operation and use of an Enterprise for the Americas Environmental Fund (hereafter referred to in this subchapter as the "Environmental Fund") established under section 1738g of this title for that country. The President shall consult with the Board established under section 1738i of this title when entering into such agreements.
+The President is authorized to enter into an environmental framework agreement with each country eligible for benefits from the Facility concerning the operation and use of an Enterprise for the Americas Environmental Fund (hereafter referred to in this subchapter as the"Environmental Fund") established under section 1738g of this title for that country. The President shall consult with the Board established under section 1738i of this title when entering into such agreements.
 
 #### (b) Requirements
 
@@ -12,7 +12,7 @@ An environmental framework agreement entered into under this section shall—
 
 &emsp;(2) require the eligible country to make interest payments under section 1738g(a) of this title into the Environmental Fund;
 
-&emsp;(3) require the eligible country to make prompt disbursements from the Environmental Fund to the body described in subsection (c) of this section;
+&emsp;(3) require the eligible country to make prompt disbursements from the Environmental Fund to the body described in subsection (c);
 
 &emsp;(4) where appropriate, seek to maintain the value of the local currency resources deposited into the appropriate Environmental Fund in terms of United States dollars;
 

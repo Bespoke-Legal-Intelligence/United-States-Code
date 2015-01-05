@@ -52,7 +52,7 @@ Priority.—In selecting facilities to participate in the program, the Secretary
 
 &emsp;&emsp;&emsp;(ii) Air traffic control towers that the Secretary determines have a benefit-to-cost ratio of at least .50.
 
-&emsp;&emsp;&emsp;(iii) Air traffic control towers of the Federal Aviation Administration that are closed as a result of the air traffic controllers strike in 1981.
+&emsp;&emsp;&emsp;(iii) Air traffic control towers of the Federal Aviation Administration that areclosed as a result of the air traffic controllers strike in 1981.
 
 &emsp;&emsp;&emsp;(iv) Air traffic control towers located at airports or points at which an air carrier is receiving compensation under the essential air service program under this chapter.
 
@@ -126,7 +126,7 @@ Limitation on federal share.—The Federal share of the cost of construction of 
 
 Safety Audits.—The Secretary shall establish uniform standards and requirements for regular safety assessments of air traffic control towers that receive funding under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1276; Pub. L. 106–181, title I, §131, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–7, div. I, title III, §370(b)(1), (2), Feb. 20, 2003, 117 Stat. 425, 426; Pub. L. 108–176, title I, §105, Dec. 12, 2003, 117 Stat. 2498; Pub. L. 112–55, div. C, title I, §119, Nov. 18, 2011, 125 Stat. 649; Pub. L. 112–95, title I, §147, Feb. 14, 2012, 126 Stat. 30.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1276; Pub. L. 106–181, title I, §131, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–7, div. I, title III, §370(b)(1), (2), Feb. 20, 2003, 117 Stat. 425, 426; Pub. L. 108–176, title I, §105, Dec. 12, 2003, 117 Stat. 2498; Pub. L. 112–55, div. C, title I, §119, Nov. 18, 2011, 125 Stat. 649; Pub. L. 112–95, title I, §147, Feb. 14, 2012, 126 Stat. 30; Pub. L. 113–76, div. L, title I, §118, Jan. 17, 2014, 128 Stat. 581; Pub. L. 113–235, div. K, title I, §118, Dec. 16, 2014, 128 Stat. 2704.)
 
 Historical and Revision Notes
 
@@ -163,6 +163,8 @@ In subsection (b)(1), the words "in effect" are omitted as surplus. The words "o
 In subsection (b)(2), the word "Secretary" is substituted for "Administrator" for consistency in the chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(3)(D). Pub. L. 113–76 and Pub. L. 113–235, which identically directed substitution of "benefit, with the maximum allowable local cost share capped at 20 percent." for "benefit.", could not be executed because of the prior amendment by Pub. L. 112–55. See 2011 Amendment note below.
 
 <b>2012</b>—Subsec. (b)(1). Pub. L. 112–95, §147(a)(1), designated existing provisions as subpar. (A), inserted par. and subpar. headings, and added subpars. (B) and (C).
 
@@ -222,7 +224,7 @@ In general.—The Administrator of the Federal Aviation Administration may enter
 
 Terms and conditions.—An agreement entered into under this section—
 
-&emsp;"(A) shall be negotiated under such procedures as the Administrator considers necessary to ensure the integrity of the selection process, the safety of air travel, and to protect the interests of the United States;
+&emsp;"(A) shall be negotiated under such procedures as the Administrator considers necessary to ensure theintegrity of the selection process, the safety of air travel, and to protect the interests of the United States;
 
 &emsp;"(B) may provide a lease option to the United States, to be exercised at the discretion of the Administrator, to occupy any general-purpose space in a facility covered by the agreement;
 

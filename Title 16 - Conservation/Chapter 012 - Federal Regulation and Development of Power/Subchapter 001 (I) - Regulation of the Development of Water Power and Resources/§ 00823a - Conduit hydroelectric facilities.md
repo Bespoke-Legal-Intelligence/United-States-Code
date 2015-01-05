@@ -86,7 +86,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 #### Application of Subsection (c)
 
-Pub. L. 99–495, §8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: "Nothing in this Act \[see Short Title of 1986Amendment note set out under section 791a of this title\] shall affect the application of section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\] to any exemption issued after the enactment of this Act \[Oct. 16, 1986\]."
+Pub. L. 99–495, §8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: "Nothing in this Act \[see Short Title of 1986 Amendment note set out under section 791a of this title\] shall affect the application of section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\] to any exemption issued after the enactment of this Act \[Oct. 16, 1986\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

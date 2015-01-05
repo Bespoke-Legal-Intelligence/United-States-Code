@@ -66,7 +66,7 @@ Civil Action.—(1) Any person aggrieved by any act of a person in violation of 
 
 &emsp;(D) such other preliminary and equitable relief as the court determines to be appropriate.
 
-(3) No action may be brought under this subsection unless such action is begun within 2 years from the date of the act complained of or the date of discovery.
+(3) No action may be brought under this subsection unless such action is begun within 2years from the date of the act complained of or the date of discovery.
 
 (4) No liability shall result from lawful disclosure permitted by this section.
 

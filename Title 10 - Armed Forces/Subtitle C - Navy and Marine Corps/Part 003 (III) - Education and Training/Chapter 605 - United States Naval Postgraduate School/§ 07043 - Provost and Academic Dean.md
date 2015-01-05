@@ -4,7 +4,7 @@
 
 (b) The Provost and Academic Dean is entitled to such compensation for his services as the Secretary prescribes, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 85–861, §1(148), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 89–536, Aug. 11, 1966, 80 Stat. 346; Pub. L. 96–513, title V, §513(22), Dec. 12, 1980, 94 Stat. 2932; Pub.L. 105–85, div. A, title V, §551(c), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §557(b)(3), (4), Oct. 28, 2004, 118 Stat. 1915, 1916.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 85–861, §1(148), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 89–536, Aug. 11, 1966, 80 Stat. 346; Pub. L. 96–513, title V, §513(22), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(c), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §557(b)(3), (4), Oct. 28, 2004, 118 Stat. 1915, 1916.)
 
 Historical and Revision Notes<br>1956
 

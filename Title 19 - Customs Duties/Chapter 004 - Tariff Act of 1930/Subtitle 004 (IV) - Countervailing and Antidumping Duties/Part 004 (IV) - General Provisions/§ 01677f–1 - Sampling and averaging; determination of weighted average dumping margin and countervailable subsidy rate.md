@@ -32,7 +32,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 #### (A) In general
 
-&emsp;&emsp;In an investigation under part II of this subtitle, the administering authority shalldetermine whether the subject merchandise is being sold in the United States at less than fair value—
+&emsp;&emsp;In an investigation under part II of this subtitle, the administering authority shall determine whether the subject merchandise is being sold in the United States at less than fair value—
 
 &emsp;&emsp;&emsp;(i) by comparing the weighted average of the normal values to the weighted average of the export prices (and constructed export prices) for comparable merchandise, or
 

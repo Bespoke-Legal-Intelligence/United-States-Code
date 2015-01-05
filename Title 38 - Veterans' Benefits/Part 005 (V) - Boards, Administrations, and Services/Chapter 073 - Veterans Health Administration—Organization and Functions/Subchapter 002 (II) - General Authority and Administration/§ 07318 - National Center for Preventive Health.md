@@ -24,7 +24,7 @@
 
 &emsp;(3) In order to encourage the effective provision of preventive health services by Veterans Health Administration personnel—
 
-&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information on such services that is derived from research carried out by the Administration; and
+&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information onsuch services that is derived from research carried out by the Administration; and
 
 &emsp;&emsp;(B) acquire and ensure the dissemination to such personnel of any appropriate information on research and clinical practices relating to such services that are carried out by researchers, clinicians, and educators who are not affiliated with the Administration.
 

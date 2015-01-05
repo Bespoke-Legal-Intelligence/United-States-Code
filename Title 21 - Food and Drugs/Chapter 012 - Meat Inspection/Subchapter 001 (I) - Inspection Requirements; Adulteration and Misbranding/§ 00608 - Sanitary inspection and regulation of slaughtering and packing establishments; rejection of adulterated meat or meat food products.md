@@ -12,7 +12,7 @@ Section was formerly classified to section 76 of this title.
 
 <b>2005</b>—Pub. L. 109–97 substituted "amenable species" for "cattle, sheep, swine, goats, horses, mules, and other equines".
 
-<b>1967</b>—Pub. L. 90–201, §§3, 12(a), (f), struck out "interstate or foreign" before "commerce" and "of Agriculture" after "Secretary", included horses, mules, and other equines in the list of animals, and substituted "adulterated" for "unclean, unsound, unhealthful, unwholesome, or otherwise unfit for human food", respectively.
+<b>1967</b>—Pub. L. 90–201, §§3, 12(a), (f), struck out "interstate or foreign" before "commerce" and "of Agriculture" after "Secretary", included horses, mules, and other equines in the list of animals, and substituted"adulterated" for "unclean, unsound, unhealthful, unwholesome, or otherwise unfit for human food", respectively.
 
 #### Effective Date of 2005 Amendment
 

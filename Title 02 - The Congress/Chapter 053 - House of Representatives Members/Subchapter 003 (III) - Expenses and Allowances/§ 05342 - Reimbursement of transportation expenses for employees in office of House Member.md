@@ -10,11 +10,11 @@ Section was formerly classified to section 127a of this title prior to editorial
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund” and “House Oversight” for “House Administration”.
+<b>1996</b>—Pub. L. 104–186 substituted "applicable accounts" for "contingent fund" and "House Oversight" for "House Administration".
 
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "are".</i>
 

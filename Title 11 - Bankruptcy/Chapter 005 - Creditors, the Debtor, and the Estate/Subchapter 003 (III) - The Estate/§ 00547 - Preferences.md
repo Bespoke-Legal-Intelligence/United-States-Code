@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) "inventory" means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, rawmaterials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
+&emsp;(1) "inventory" means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
 
 &emsp;(2) "new value" means money or money's worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
 
@@ -86,7 +86,7 @@
 
 (e)(1) For the purposes of this section—
 
-&emsp;(A) a transfer of real property other than fixtures, but including the interest of a seller or purchaser under a contract for the sale of realproperty, is perfected when a bona fide purchaser of such property from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of the transferee; and
+&emsp;(A) a transfer of real property other than fixtures, but including the interest of a seller or purchaser under a contract for the sale of real property, is perfected when a bona fide purchaser of such property from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of the transferee; and
 
 &emsp;(B) a transfer of a fixture or property other than real property is perfected when a creditor on a simple contract cannot acquire a judicial lien that is superior to the interest of the transferee.
 
@@ -142,7 +142,7 @@ This section is a substantial modification of present law. It modernizes the pre
 
 Subsection (a) contains three definitions. Inventory, new value, and receivable are defined in their ordinary senses, but are defined to avoid any confusion or uncertainty surrounding the terms.
 
-Subsection (b) is the operative provision of the section. It authorizes the trustee to avoid a transfer if five conditions are met. These are the five elements of a preference action. First, the transfer must be to or for the benefit of a creditor. Second, the transfer must be for or on account of an antecedent debt owed by thedebtor before the transfer was made. Third, the transfer must have been made when the debtor was insolvent. Fourth, the transfer must have been made during the 90 days immediately preceding the commencement of the case. If the transfer was to an insider, the trustee may avoid the transfer if it was made during the period that begins one year before the filing of the petition and ends 90 days before the filing, if the insider to whom the transfer was made had reasonable cause to believe the debtor was insolvent at the time the transfer was made.
+Subsection (b) is the operative provision of the section. It authorizes the trustee to avoid a transfer if five conditions are met. These are the five elements of a preference action. First, the transfer must be to or for the benefit of a creditor. Second, the transfer must be for or on account of an antecedent debt owed by the debtor before the transfer was made. Third, the transfer must have been made when the debtor was insolvent. Fourth, the transfer must have been made during the 90 days immediately preceding the commencement of the case. If the transfer was to an insider, the trustee may avoid the transfer if it was made during the period that begins one year before the filing of the petition and ends 90 days before the filing, if the insider to whom the transfer was made had reasonable cause to believe the debtor was insolvent at the time the transfer was made.
 
 Finally, the transfer must enable the creditor to whom or for whose benefit it was made to receive a greater percentage of his claim than he would receive under the distributive provisions of the bankruptcy code. Specifically, the creditor must receive more than he would if the case were a liquidation case, if the transfer had not been made, and if the creditor received payment of the debt to the extent provided by the provisions of the code.
 
@@ -166,7 +166,7 @@ Paragraph (5) codifies the improvement in position test, and thereby overrules s
 
 Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protects transfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
 
-Subsection (d), derived from section 67a of the Bankruptcy Act \[section 107(a) of former title 11\], permits the trustee to avoid a transfer to reimburse a surety that posts a bond to dissolve a judicial lien that would have been avoidable under this section. The second sentence protects the surety from double liability.
+Subsection (d), derived from section 67a of the Bankruptcy Act \[section 107(a) of former title 11\], permitsthe trustee to avoid a transfer to reimburse a surety that posts a bond to dissolve a judicial lien that would have been avoidable under this section. The second sentence protects the surety from double liability.
 
 Subsection (e) determines when a transfer is made for the purposes of the preference section. Paragraph (1) defines when a transfer is perfected. For real property, a transfer is perfected when it is valid against a bona fide purchaser. For personal property and fixtures, a transfer is perfected when it is valid against a creditor on a simple contract that obtains a judicial lien after the transfer is perfected. "Simple contract" as used here is derived from Bankruptcy Act §60a(4) \[section 96(a)(4) of former title 11\]. Paragraph (2) specifies that a transfer is made when it takes effect between the transferor and the transferee if it is perfected at or within 10 days after that time. Otherwise, it is made when the transfer is perfected. If it is not perfected before the commencement of the case, it is made immediately before the commencement of the case. Paragraph (3) specifies that a transfer is not made until the debtor has acquired rights in the property transferred. This provision, more than any other in the section, overrules <i>DuBay</i> and <i>Grain Merchants</i>, and in combination with subsection (b)(2), overrules <i>In re King-Porter Co</i>., 446 F.2d 722 (5th Cir. 1971).
 

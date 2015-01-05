@@ -50,15 +50,17 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 #### (4) State death taxes
 
-&emsp;The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term "State death taxes" means the taxes described in section 2011(a).
+&emsp;The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term "State death taxes" means the taxes described in 2058(a).<sup>1</sup>
 
 #### (b) Condition of allowance of deductions
 
-No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
+No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case ofa nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 398; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 86–779, §4(c), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §108(e), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title II, §201(d)(2), (4)(B), Dec. 30, 1969, 83 Stat. 561; Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct.4, 1976, 90 Stat. 1727, 1805, 1852; Pub. L. 97–473, title II, §202(b)(6), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 99–514, title XIV, §1422(c), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(4), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title V, §5033(c), Nov. 10, 1988, 102 Stat. 3672; Pub. L. 101–239, title VII, §7815(d)(3), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 107–16, title V, §532(c)(8), June 7, 2001, 115 Stat. 75.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 398; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 86–779, §4(c), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §108(e), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title II, §201(d)(2), (4)(B), Dec. 30, 1969, 83 Stat. 561; Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct. 4, 1976, 90 Stat. 1727, 1805, 1852; Pub. L. 97–473, title II, §202(b)(6), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 99–514, title XIV, §1422(c), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(4), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title V, §5033(c), Nov. 10, 1988, 102 Stat. 3672; Pub. L. 101–239, title VII, §7815(d)(3), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 107–16, title V, §532(c)(8), June 7, 2001, 115 Stat. 75; Pub. L. 113–295, div. A, title II, §221(a)(95)(A)(ii), Dec. 19, 2014, 128 Stat. 4051.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(4). Pub. L. 113–295 substituted "2058(a)" for "section 2011(a)".
 
 <b>2001</b>—Subsec. (a)(4). Pub. L. 107–16 added par. (4).
 
@@ -72,7 +74,7 @@ No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in 
 
 <b>1983</b>—Subsec. (a)(2)(F). Pub. L. 97–473 substituted "(i)" and "(ii)" for "(1)" and "(2)", respectively, and added cl. (iii).
 
-<b>1976</b>—Subsec. (a)(2)(A)(i). Pub. L. 94–455, §1902 (a)(12)(A), struck out "Territory" after "any State".
+<b>1976</b>—Subsec. (a)(2)(A)(i). Pub. L. 94–455, §1902(a)(12)(A), struck out "Territory" after "any State".
 
 Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1307(d)(1)(B)(iii), substituted "which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation" for "no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation" after "stockholder or individual".
 
@@ -94,9 +96,13 @@ Subsec. (a)(2)(E). Pub. L. 91–172, §201(d)(2), substituted substantive provis
 
 <b>1958</b>—Subsec. (a)(2)(E). Pub. L. 85–866 substituted "503" for "504".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -120,13 +126,13 @@ For effective date of amendment by Pub. L. 97–473, see section 204(3) of Pub. 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1902(a)(5) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2011 of this title.
+Amendment by section 1902(a)(5), (12)(A) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
 
 Amendment by section 2001(c)(1)(F) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 201(d)(2) of Pub. L. 91–172 applicable in the case of decedents dying after Dec. 31, 1969, with specified exceptions, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by section 201(d)(2) of Pub. L. 91–172 applicable in the case of decedents dying after Dec. 31, 1969, with specified exceptions, see section 201(g)(4) ofPub. L. 91–172, set out as a note under section 170 of this title.
 
 Amendment by section 201(d)(4)(B) of Pub. L. 91–172 applicable to gifts and transfers made after Dec. 31, 1969, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
@@ -140,5 +146,7 @@ Pub. L. 86–779, §4(e)(2), Sept. 14, 1960, 74 Stat. 1000, provided that: "The 
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen orresident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

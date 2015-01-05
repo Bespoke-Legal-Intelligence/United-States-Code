@@ -64,11 +64,11 @@ In subsection (b) the words "including midshipmen" are omitted as surplusage. Th
 
 <b>1996</b>—Pub. L. 104–201 substituted "trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts" for "laundry, barber shop, cobbler shop, tailor shop, and dairy: disposition of funds" in section catchline and amended text generally. Prior to amendment, text consisted of one undesignated par. providing for deposit and expenditure of funds from operation of midshipmen's store, including barber shop, cobbler shop, and tailor shop at Naval Academy, Academy dairy, and Academy laundry.
 
-<b>1994</b>—Pub. L. 103–337 struck out "(a)" before "Funds collected from the operation of the midshipmen's", substituted "the Academy dairy, and the Academy laundry" for "and the Academy dairy", and struck out subsec. (b) which read as follows: "Funds collected from the operation of the Academy laundry shall be accounted for as public funds and are available for the maintenance of necessary laundry service for Academy activities and personnel."
+<b>1994</b>—Pub. L. 103–337 struck out "(a)" before "Funds collected from the operation of the midshipmen's", substituted "the Academy dairy, and the Academy laundry" for "and the Academy dairy", and struck out subsec. (b) which read as follows: "Funds collected from the operation of the Academy laundry shall be accounted for as public funds and are available for themaintenance of necessary laundry service for Academy activities and personnel."
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "person designated by the Secretary of the Navy under section 6970(b) of this title" for "Bureau of Supplies and Accounts".
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 370(e) of Pub. L. 104–201, set out as a noteunder section 2105 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 370(e) of Pub. L. 104–201, set out as a note under section 2105 of Title 5, Government Organization and Employees.
 

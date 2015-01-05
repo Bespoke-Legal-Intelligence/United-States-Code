@@ -100,7 +100,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Pub. L. 109–437, §2, Dec. 20, 2006, 120 Stat. 3266, provided that: "Congress makes the following findings:
 
-&emsp;"(1) Fraudulent claims surrounding the receipt of the Medal of Honor, the distinguished-service cross,the Navy cross, the Air Force cross, the Purple Heart, and other decorations and medals awarded by the President or the Armed Forces of the United States damage the reputation and meaning of such decorations and medals.
+&emsp;"(1) Fraudulent claims surrounding the receipt of the Medal of Honor, the distinguished-service cross, the Navy cross, the Air Force cross, the Purple Heart, and other decorations and medals awarded by the President or the Armed Forces of the United States damage the reputation and meaning of such decorations and medals.
 
 &emsp;"(2) Federal law enforcement officers have limited ability to prosecute fraudulent claims of receipt of military decorations and medals.
 

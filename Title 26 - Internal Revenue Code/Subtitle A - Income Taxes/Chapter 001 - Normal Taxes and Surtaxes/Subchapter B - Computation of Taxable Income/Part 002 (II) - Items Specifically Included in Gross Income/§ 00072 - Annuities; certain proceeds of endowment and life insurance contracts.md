@@ -40,7 +40,7 @@
 
 #### (B) Payments to other persons
 
-&emsp;&emsp;In the case of any contract which provides for payments meeting the requirements ofsubparagraphs (B) and (C) of subsection (c)(2), the deduction under subparagraph (A) shall be allowed to the person entitled to such payments for the taxable year in which such payments are received.
+&emsp;&emsp;In the case of any contract which provides for payments meeting the requirements of subparagraphs (B) and (C) of subsection (c)(2), the deduction under subparagraph (A) shall be allowed to the person entitled to such payments for the taxable year in which such payments are received.
 
 #### (C) Net operating loss deductions provided
 
@@ -90,7 +90,7 @@
 
 #### (4) Annuity starting date
 
-&emsp;For purposes of this section, the annuity starting date in the case of any contract is the first day of the first period for which an amount is received as an annuity under the contract; except that if such date was before January 1, 1954, then the annuity starting date is January 1, 1954.
+&emsp;For purposes of this section, the annuity starting date in the case of any contract is the first day of the first period for which an amount is received as an annuity under the contract.
 
 #### (d) Special rules for qualified employer retirement plans
 
@@ -122,73 +122,29 @@
 
 &emsp;&emsp;&emsp;If the annuity is payable over the life of a single individual, the number of anticipated payments shall be determined as follows:
 
-<b>  If the age of the</b>
+&nbsp;
 
-<b>   annuitant on</b>
-
-<b>The number</b>
-
-<b>   the annuity starting</b>
-
-<b>of anticipated</b>
-
-<b>   date is:</b>
-
-<b>payments is:</b>
-
-&emsp;&emsp;Not more than 55
-
-360&nbsp;&nbsp;
-
-&emsp;&emsp;More than 55 but not more than 60
-
-310&nbsp;&nbsp;
-
-&emsp;&emsp;More than 60 but not more than 65
-
-260&nbsp;&nbsp;
-
-&emsp;&emsp;More than 65 but not more than 70
-
-210&nbsp;&nbsp;
-
-&emsp;&emsp;More than 70
-
-160\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;If the age of the annuitant on the  annuity starting date is: | <b>The number of anticipated payments is:</b> |
+| :--- | ---: |
+| Not more than 55 | 360&nbsp;&nbsp; |
+| More than 55 but not more than 60 | 310&nbsp;&nbsp; |
+| More than 60 but not more than 65 | 260&nbsp;&nbsp; |
+| More than 65 but not more than 70 | 210&nbsp;&nbsp; |
+| More than 70 | 160\. |
 
 #### (iv) Number of anticipated payments where more than one life
 
 &emsp;&emsp;&emsp;If the annuity is payable over the lives of more than 1 individual, the number of anticipated payments shall be determined as follows:
 
-<b>  If the combined ages of</b>
+&nbsp;
 
-<b>   annuitants are:</b>
-
-<b>The number is:</b>
-
-&nbsp;&nbsp;&nbsp;Not more than 110
-
-410&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;More than 110 but not more than 120
-
-360&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;More than 120 but not more than 130
-
-310&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;More than 130 but not more than 140
-
-260&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;More than 140
-
-210\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> If the combined ages of annuitants are:</b> | <b>The number is:</b> |
+| :--- | ---: |
+| Not more than 110 | 410&nbsp;&nbsp; |
+| More than 110 but not more than 120 | 360&nbsp;&nbsp; |
+| More than 120 but not more than 130 | 310&nbsp;&nbsp; |
+| More than 130 but not more than 140 | 260&nbsp;&nbsp; |
+| More than 140 | 210\. |
 
 #### (C) Adjustment for refund feature not applicable
 
@@ -276,7 +232,7 @@
 
 &emsp;&emsp;&emsp;(ii) assigns or pledges (or agrees to assign or pledge) any portion of the value of any such contract,
 
-> &emsp;&emsp;such amount or portion shall be treated as received under the contract as an amount not received as an annuity. The preceding sentence shall not apply for purposes of determining investment in the contract, except that the investment in the contract shall be increased by any amount included in gross income by reason of the amounttreated as received under the preceding sentence.
+> &emsp;&emsp;such amount or portion shall be treated as received under the contract as an amount not received as an annuity. The preceding sentence shall not apply for purposes of determining investment in the contract, except that the investment in the contract shall be increased by any amount included in gross income by reason of the amount treated as received under the preceding sentence.
 
 #### (B) Treatment of policyholder dividends
 
@@ -370,7 +326,7 @@
 
 #### (B) Allocation of amount received
 
-&emsp;&emsp;For purposes of paragraph (2)(B), the amount allocated to the investment in the contract shall be the portion of the amount described in subparagraph (A) which bears the same ratio to such amount as the investment in the contract bears to the accountbalance. The determination under the preceding sentence shall be made as of the time of the distribution or at such other time as the Secretary may prescribe.
+&emsp;&emsp;For purposes of paragraph (2)(B), the amount allocated to the investment in the contract shall be the portion of the amount described in subparagraph (A) which bears the same ratio to such amount as the investment in the contract bears to the account balance. The determination under the preceding sentence shall be made as of the time of the distribution or at such other time as the Secretary may prescribe.
 
 #### (C) Treatment of forfeitable rights
 
@@ -434,13 +390,13 @@ In computing, for purposes of subsection (c)(1)(A), the aggregate amount of prem
 
 #### (g) Rules for transferee where transfer was for value
 
-Where any contract (or any interest therein) is transferred (by assignment or otherwise) for a valuable consideration, to the extent that the contract (or interest therein) does not, in thehands of the transferee, have a basis which is determined by reference to the basis in the hands of the transferor, then—
+Where any contract (or any interest therein) is transferred (by assignment or otherwise) for a valuable consideration, to the extent that the contract (or interest therein) does not, in the hands of the transferee, have a basis which is determined by reference to the basis in the hands of the transferor, then—
 
 &emsp;(1) for purposes of this section, only the actual value of such consideration, plus the amount of the premiums and other consideration paid by the transferee after the transfer, shall be taken into account in computing the aggregate amount of the premiums or other consideration paid for the contract;
 
 &emsp;(2) for purposes of subsection (c)(1)(B), there shall be taken into account only the aggregate amount received under the contract by the transferee before the annuity starting date, to the extent that such amount was excludable from gross income under this subtitle or prior income tax laws; and
 
-&emsp;(3) the annuity starting date is January 1, 1954, or the first day of the first period for which the transferee received an amount under the contract as an annuity, whichever is the later.
+&emsp;(3) the annuity starting date is the first day of the first period for which the transferee received an amount under the contract as an annuity.
 
 > For purposes of this subsection, the term "transferee" includes a beneficiary of, or the estate of, the transferee.
 
@@ -506,7 +462,7 @@ For purposes of this section, the term "endowment contract" includes a face-amou
 
 #### (6) Owner-employee defined
 
-&emsp;For purposes of this subsection, the term "owner-employee" has the meaning assigned to it by section 401(c)(3) and includes an individual for whose benefit an individual retirement account or annuity described in section 408(a) or (b) is maintained. For purposes of the preceding sentence, the term "owner-employee" shall include an employee within the meaning of section 401(c)(1).
+&emsp;For purposes of this subsection, the term "owner-employee" has the meaning assigned to it by section 401(c)(3) and includes an individual for whose benefit an individual retirement account or annuity described in section408(a) or (b) is maintained. For purposes of the preceding sentence, the term "owner-employee" shall include an employee within the meaning of section 401(c)(1).
 
 #### (7) Meaning of disabled
 
@@ -572,7 +528,7 @@ Subsection (b) shall not apply in the case of amounts received after December 31
 
 #### (6) Ordering rules
 
-&emsp;Unless the plan specifies otherwise, any distribution from such plan shall not be treated as being made from the accumulated deductible employee contributions, until all other amounts to the credit of the employee have been distributed.
+&emsp;Unless the plan specifies otherwise, any distribution from such plan shall not be treatedas being made from the accumulated deductible employee contributions, until all other amounts to the credit of the employee have been distributed.
 
 #### (p) Loans treated as distributions
 
@@ -658,7 +614,7 @@ For purposes of this section—
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;The term "qualified employer plan" shall include any plan which was (or wasdetermined to be) a qualified employer plan or a government plan.
+&emsp;&emsp;&emsp;The term "qualified employer plan" shall include any plan which was (or was determined to be) a qualified employer plan or a government plan.
 
 #### (B) Government plan
 
@@ -908,7 +864,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified reservist distribution" means any distribution to an individual if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such distribution is from an individual retirement plan, or from amounts attributable to employer contributionsmade pursuant to elective deferrals described in subparagraph (A) or (C) of section 402(g)(3) or section 501(c)(18)(D)(iii),
+&emsp;&emsp;&emsp;&emsp;(I) such distribution is from an individual retirement plan, or from amounts attributable to employer contributions made pursuant to elective deferrals described in subparagraph (A) or (C) of section 402(g)(3) or section 501(c)(18)(D)(iii),
 
 &emsp;&emsp;&emsp;&emsp;(II) such individual was (by reason of being a member of a reserve component (as defined in section 101 of title 37, United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
 
@@ -994,7 +950,7 @@ For purposes of this section—
 
 #### (C) Qualified acquisition costs
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified acquisition costs" means thecosts of acquiring, constructing, or reconstructing a residence. Such term includes any usual or reasonable settlement, financing, or other closing costs.
+&emsp;&emsp;For purposes of this paragraph, the term "qualified acquisition costs" means the costs of acquiring, constructing, or reconstructing a residence. Such term includes any usual or reasonable settlement, financing, or other closing costs.
 
 #### (D) First-time homebuyer; other definitions
 
@@ -1004,7 +960,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The term "first-time homebuyer" means any individual if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence during the 2-year period ending on the date of acquisition of the principal residence to which this paragraph applies, and
+&emsp;&emsp;&emsp;&emsp;(I) such individual (and if married, such individual's spouse) had no presentownership interest in a principal residence during the 2-year period ending on the date of acquisition of the principal residence to which this paragraph applies, and
 
 &emsp;&emsp;&emsp;&emsp;(II) subsection (h) or (k) of section 1034 <sup>4</sup> (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 <sup>4</sup> (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
 
@@ -1146,7 +1102,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For limitation on adjustments to basis of annuity contracts sold, see section 1021.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI,§§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub.L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039.)
 
 #### References in Text
 
@@ -1161,6 +1117,12 @@ The date of the enactment of this subparagraph, referred to in subsec. (t)(2)(G)
 Section 1034 (as in effect on the day before the date of the enactment of this paragraph), referred to in subsec. (t)(8)(D)(i)(II), means section 1034 of this title as in effect on the day before Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, §312(b), Aug. 5, 1997, 111 Stat. 839.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(4). Pub. L. 113–295, §221(a)(14)(A), struck out "; except that if such date was before January 1, 1954, then the annuity starting date is January 1, 1954" before period at end.
+
+Subsec. (g)(3). Pub. L. 113–295, §221(a)(14)(B), struck out "January 1, 1954, or" before "the first day".
+
+Pub. L. 113–295, §221(a)(14)(B), which directed striking out ", whichever is later", was executed by striking out ", whichever is the later" after "as an annuity" to reflect the probable intent of Congress.
 
 <b>2012</b>—Subsec. (t)(2)(A)(viii). Pub. L. 112–141 added cl. (viii).
 
@@ -1324,7 +1286,7 @@ Subsec. (t)(2)(A)(iv). Pub. L. 100–647, §1011A(c)(7), inserted "designated" b
 
 Subsec. (t)(2)(A)(v). Pub. L. 100–647, §1011A(c)(1), struck out "on account of early retirement under the plan" after "separation from service".
 
-Subsec. (t)(2)(C). Pub. L. 100–647, §1011A(c)(2), substituted "Exceptions for distributions from employee stock ownership plans" for "Certain plans" in heading and amended text generally. Prior to amendment, text read as follows:
+Subsec. (t)(2)(C). Pub. L. 100–647, §1011A(c)(2), substituted "Exceptions for distributions from employeestock ownership plans" for "Certain plans" in heading and amended text generally. Prior to amendment, text read as follows:
 
 "(i)
 
@@ -1396,7 +1358,7 @@ Subsec. (o)(5). Pub. L. 99–514, §1101(b)(2)(C), inserted "and made for a taxa
 
 Subsec. (p)(2)(A)(i). Pub. L. 99–514, §1134(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "$50,000, or".
 
-Subsec. (p)(2)(B)(ii). Pub. L. 99–514, §1134(d), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: "Clause (i) shall not apply to any loan used to acquire, construct, reconstruct, or substantially rehabilitate any dwelling unit which within a reasonable time is to be used (determined at the time the loan is made) as a principal residence of the participant or a member of the family (within the meaning of section 267(c)(4)) of the participant."
+Subsec. (p)(2)(B)(ii). Pub. L. 99–514, §1134(d), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "Clause (i) shall not apply to any loan used to acquire, construct, reconstruct, or substantially rehabilitate any dwelling unit which within a reasonable time is to be used (determined at the time the loan is made) as a principal residence of the participant or a member of the family (within the meaning of section 267(c)(4)) of the participant."
 
 Subsec. (p)(2)(C), (D). Pub. L. 99–514, §1134(b), added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -1558,13 +1520,17 @@ Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall no
 
 Subsecs. (m) to (o). Pub. L. 87–792, §4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–240, title II, §2113(b), Sept. 27, 2010, 124 Stat. 2567, provided that: "The amendment made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 2010."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–458, title I, §112, Dec. 23, 2008, 122 Stat. 5113, provided that: "Except as otherwise provided in this subtitle \[subtitle A (§§101–112) of title I of Pub. L. 110–458, see Tables for classification\], the amendments made by this subtitle shall take effect as if included in the provisions of the 2006 Act \[Pub. L. 109–280\] to which the amendments relate."
+Pub. L. 110–458, title I, §112, Dec. 23, 2008, 122 Stat. 5113, provided that: "Except as otherwise provided in this subtitle \[subtitle A (§§101–112) of title I of Pub. L.110–458, see Tables for classification\], the amendments made by this subtitle shall take effect as if included in the provisions of the 2006 Act \[Pub. L. 109–280\] to which the amendments relate."
 
 Pub. L. 110–245, title I, §107(b), June 17, 2008, 122 Stat. 1631, provided that: "The amendment made by this section \[amending this section\] shall apply to individuals ordered or called to active duty on or after December 31, 2007."
 
@@ -1656,7 +1622,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

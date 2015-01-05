@@ -1,6 +1,6 @@
 ### §1821. Per diem and mileage generally; subsistence
 
-(a)(1) Except as otherwise provided by law, a witness in attendance at any court of the UnitedStates, or before a United States Magistrate Judge, or before any person authorized to take his deposition pursuant to any rule or order of a court of the United States, shall be paid the fees and allowances provided by this section.
+(a)(1) Except as otherwise provided by law, a witness in attendance at any court of the United States, or before a United States Magistrate Judge, or before any person authorized to take his deposition pursuant to any rule or order of a court of the United States, shall be paid the fees and allowances provided by this section.
 
 (2) As used in this section, the term "court of the United States" includes, in addition to the courts listed in section 451 of this title, any court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States.
 

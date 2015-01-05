@@ -130,5 +130,5 @@ Section 6369a, Pub. L. 89–10, title I, §1210, as added Pub. L. 105–277, div
 
 Section 6369b, Pub. L. 89–10, title I, §1211, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §205\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(m)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–333, authorized research. See section 6381j of this title.
 
-Section 6370, Pub. L. 89–10, title I, §1212, formerly §1210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994,108 Stat. 3584; renumbered §1212, Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to construction of provisions. See section 6381k of this title.
+Section 6370, Pub. L. 89–10, title I, §1212, formerly §1210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3584; renumbered §1212, Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to construction of provisions. See section 6381k of this title.
 

@@ -74,7 +74,7 @@ Missions and functions of elements of Department of Defense as specified in clas
 
 #### Streamlining of Department of Defense Management Headquarters
 
-Pub. L. 113–66, div. A, title IX, §904, Dec. 26, 2013, 127 Stat. 816, provided that:
+Pub. L. 113–66, div. A, title IX, §904, Dec. 26, 2013, 127 Stat. 816, as amended by Pub. L. 113–291, div. A, title IX, §905(e), Dec. 19, 2014, 128 Stat. 3472, provided that:
 
 "(a)
 
@@ -128,17 +128,21 @@ Initial report.—Not later than 180 days after the date of the enactment of thi
 
 &emsp;"(2)
 
-Status report.—The Secretary shall include with the Department of Defense materials submitted to Congress with the budget of the President for each of fiscal years 2016 through 2024 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
+Status report.—The Secretary shall include with the Department of Defense materials submitted to Congress with the budget of the President for each of fiscal years 2017 through 2024 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
 
 &emsp;&emsp;"(A) A summary of savings achieved for each covered organization in the fiscal year covered by such report.
 
-&emsp;&emsp;"(B) A description of the savings through changes or reductions in staffing and services provided by military personnel, civilian personnel, and contractor personnel in the fiscal year covered by such report.
+&emsp;&emsp;"(B) A description of the savings through changes, consolidations, or reductions in staffing and services provided by military personnel, civilian personnel, and contractor personnel in the fiscal year covered by such report.
 
-&emsp;&emsp;"(C) A description of the savings through changes or reductions in management, functions, and programs and offices in the fiscal year covered by such report.
+&emsp;&emsp;"(C) A description of the savings through changes, consolidations, or reductions in management, functions, and programs and offices, or other associated cost drivers, including a discussion of how the changes, consolidations, or reductions were prioritized, in the fiscal year covered by such report.
 
 &emsp;&emsp;"(D) In any case in which savings under the plan fall short of the objective of the plan for the fiscal year covered by such report, an explanation of the reasons for the shortfall.
 
-&emsp;&emsp;"(E) A description of any modifications to the plan made during the fiscal year covered by such report, and an explanation of the reasons for such modifications."
+&emsp;&emsp;"(E) A description of any modifications to the plan made during the fiscal year covered by such report, and an explanation of the reasons for such modifications, including the risks of, and capabilities gained or lost by implementing, such modifications.
+
+&emsp;&emsp;"(F) A description of how the plan supports or affects current Department of Defense strategic guidance, policy, and mission requirements, including the quadrennial defense review, the Unified Command Plan, and the strategic choices and management review.
+
+&emsp;&emsp;"(G) A description of the associated costs specifically addressed by the savings."
 
 #### Military Activities in Cyberspace
 
@@ -212,7 +216,7 @@ Construction.—Nothing in this provision shall be construed as preventing the S
 
 #### Commission on Review of Overseas Military Facility Structure of the United States
 
-Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
+Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15,2005, and provided that the Commission would terminate 45 days after such date.
 
 #### Commission To Assess United States National Security Space Management and Organization
 
@@ -228,7 +232,7 @@ Pub. L. 105–261, div. A, title XII, §1232, Oct. 17, 1998, 112 Stat. 2155, pro
 
 "(a)
 
-In General.—Notwithstanding any other provision of law, no provision of the Kyoto Protocol to theUnited Nations Framework Convention on Climate Change, or any regulation issued pursuant to such protocol, shall restrict the training or operations of the United States Armed Forces or limit the military equipment procured by the United States Armed Forces.
+In General.—Notwithstanding any other provision of law, no provision of the Kyoto Protocol to the United Nations Framework Convention on Climate Change, or any regulation issued pursuant to such protocol, shall restrict the training or operations of the United States Armed Forces or limit the military equipment procured by the United States Armed Forces.
 
 "(b)
 
@@ -282,7 +286,7 @@ Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623,
 
 #### Commission on Roles and Missions of Armed Forces
 
-Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat. 2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
+Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat.2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
 
 #### Termination of Department of Defense Reporting Requirements Determined by Secretary of Defense To Be Unnecessary or Incompatible With Efficient Management of Department of Defense
 
@@ -346,7 +350,7 @@ Pub. L. 99–433, title VI, §602, Oct. 1, 1986, 100 Stat. 1066, as amended by P
 
 #### Legislation To Make Required Conforming Changes in Law
 
-Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
+Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should bemade by reason of the amendments made by Pub. L. 99–433.
 
 #### Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees
 

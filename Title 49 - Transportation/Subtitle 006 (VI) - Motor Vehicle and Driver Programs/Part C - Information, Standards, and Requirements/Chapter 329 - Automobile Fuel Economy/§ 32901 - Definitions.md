@@ -114,13 +114,13 @@ Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretar
 
 (2)(A) The Secretary may prescribe a lower range for a specific model than that prescribed under paragraph (1) of this subsection. A manufacturer may petition for a lower range than that prescribed under paragraph (1) for a specific model.
 
-(B) The minimum driving range prescribed for dual fueled automobiles (except electric automobiles) under subparagraph (A) of this paragraph or paragraph (1) of this subsection must be at least 200 miles.
+(B) The minimum driving range prescribed for dual fueled automobiles (except electric automobiles) under subparagraph (A) of this paragraph or paragraph (1) of this subsection must be at least 200 miles, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles.
 
-(C) If the Secretary prescribes a minimum driving range of 200 miles for dual fueled automobiles (except electric automobiles) under paragraph (1) of this subsection, subparagraph (A) of this paragraph does not apply to dual fueled automobiles (except electric automobiles).
+(C) If the Secretary prescribes a minimum driving range of 200 miles for dual fueled automobiles (except electric automobiles) under paragraph (1) of this subsection, subparagraph (A) of this paragraph does not apply to dual fueled automobiles (except electric automobiles). Beginning with model year 2016, if the Secretary prescribes a minimum driving range of 150 miles for alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1), subparagraph (A) shall not apply to dual fueled automobiles (except electric automobiles).
 
 (3) In prescribing a minimum driving range under paragraph (1) of this subsection and in taking an action under paragraph (2) of this subsection, the Secretary shall consider the purpose set forth in section 3 of the Alternative Motor Fuels Act of 1988 (Public Law 100–494, 102 Stat. 2442), consumer acceptability, economic practicability, technology, environmental impact, safety, drivability, performance, and other factors the Secretary considers relevant.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1056; Pub. L. 110–140, title I, §103(a), Dec. 19, 2007, 121 Stat. 1501.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1056; Pub. L. 110–140, title I, §103(a), Dec. 19, 2007, 121 Stat. 1501; Pub. L. 113–291, div. A, title III, §318(b), Dec. 19, 2014, 128 Stat. 3341.)
 
 Historical and Revision Notes
 
@@ -250,6 +250,10 @@ Section 3 of the Alternative Motor Fuels Act of 1988, referred to in subsec. (c)
 
 #### Amendments
 
+<b>2014</b>—Subsec. (c)(2)(B). Pub. L. 113–291, §318(b)(1), inserted ", except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles" after "at least 200 miles".
+
+Subsec. (c)(2)(C). Pub. L. 113–291, §318(b)(2), inserted at end "Beginning with model year 2016, if the Secretary prescribes a minimum driving range of 150 miles for alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1), subparagraph (A) shall not apply to dual fueled automobiles (except electric automobiles)."
+
 <b>2007</b>—Subsec. (a)(3). Pub. L. 110–140, §103(a)(1), added par. (3) and struck out former par. (3) which read as follows: "except as provided in section 32908 of this title, 'automobile' means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
 
 &emsp;"(A) not more than 6,000 pounds gross vehicle weight; or
@@ -338,7 +342,7 @@ value.—The voucher may be used to offset the purchase price or lease price of 
 
 &emsp;&emsp;"(B) the new fuel efficient automobile is a category 1 truck and the combined fuel economy value of such truck is at least 5 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle; or
 
-&emsp;&emsp;"(C) the new fuel efficient automobile is a category 2 truck that has a combined fuel economy value of at least 15 miles per gallon and the combined fuel economy value of such truck is at least 2 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle and the eligible trade-in vehicle is a category 2 truck.
+&emsp;&emsp;"(C) the new fuel efficient automobile is a category 2 truck that has a combined fuel economyvalue of at least 15 miles per gallon and the combined fuel economy value of such truck is at least 2 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle and the eligible trade-in vehicle is a category 2 truck.
 
 "(c)
 
@@ -366,7 +370,7 @@ Cap on funds for category 3 trucks.—Not more than 7.5 percent of the total fun
 
 &emsp;&emsp;"(E)
 
-Combination with other incentives permitted.—The availability or use of a Federal, State, or local incentive or a State-issued voucherfor the purchase or lease of a new fuel efficient automobile shall not limit the value or issuance of a voucher under the Program to any person otherwise eligible to receive such a voucher.
+Combination with other incentives permitted.—The availability or use of a Federal, State, or local incentive or a State-issued voucher for the purchase or lease of a new fuel efficient automobile shall not limit the value or issuance of a voucher under the Program to any person otherwise eligible to receive such a voucher.
 
 &emsp;&emsp;"(F)
 
@@ -462,7 +466,7 @@ Database.—The Secretary shall maintain a database of the vehicle identificatio
 
 &emsp;"(2)
 
-Report on efficacy of the program.—Not later than 60 days after the termination date described in subsection (c)(1)(A), the Secretary shallsubmit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efficacy of the Program, including—
+Report on efficacy of the program.—Not later than 60 days after the termination date described in subsection (c)(1)(A), the Secretary shall submit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efficacy of the Program, including—
 
 &emsp;&emsp;"(A) a description of Program results, including—
 

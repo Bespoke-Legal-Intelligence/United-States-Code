@@ -10,7 +10,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 &emsp;&emsp;(ii) in the case of a prime contract entered into on or before December 5, 1990, the price of the contract to the United States is expected to exceed $100,000.
 
-&emsp;(B) The contractor for a prime contract under this chapter shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if—
+&emsp;(B) The contractor for a prime contract under this chapter shall be required to submitcost or pricing data before the pricing of a change or modification to the contract if—
 
 &emsp;&emsp;(i) in the case of a change or modification made to a prime contract referred to in subparagraph (A)(i), the price adjustment is expected to exceed $500,000;
 
@@ -78,7 +78,7 @@ Modifications of contracts and subcontracts for commercial items.—In the case 
 
 Noncommercial modifications of commercial items.—(A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
 
-&emsp;(B) In this paragraph, the term "noncommercial modification", with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i)).
+&emsp;(B) In this paragraph, the term "noncommercial modification", with respect to a commercial item, means a modification of such item that is not a modification described in section 103(3)(A) of title 41.
 
 &emsp;(C) Nothing in subparagraph (A) shall be construed—
 
@@ -136,7 +136,7 @@ Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (
 
 &emsp;&emsp;(ii) otherwise was in a superior bargaining position with respect to the property or services procured;
 
-&emsp;(B) the contracting officer should have known that the cost and pricing data in issue were defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
+&emsp;(B) the contracting officer should have known that the cost and pricing data in issuewere defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
 
 &emsp;(C) the contract was based on an agreement between the contractor and the United States about the total cost of the contract and there was no agreement about the cost of each item procured under such contract; or
 
@@ -170,7 +170,7 @@ Interest and Penalties for Certain Overpayments.—(1) If the United States make
 
 (g)
 
-Right of United States To Examine Contractor Records.—For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted bythis section, the head of an agency shall have the authority provided by section 2313(a)(2) of this title.
+Right of United States To Examine Contractor Records.—For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this section, the head of an agency shall have the authority provided by section 2313(a)(2) of this title.
 
 (h)
 
@@ -188,11 +188,9 @@ Subcontract.—The term "subcontract" includes a transfer of commercial items be
 
 Commercial item.—The term "commercial item" has the meaning provided such term in section 103 of title 41.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, §1071(a)(3), Dec. 19, 2014, 128 Stat. 3504.)
 
 #### References in Text
-
-Section 4(12)(C)(i) of the Office of Federal Procurement Policy Act, referred to in subsec. (b)(3)(B), means section 4(12)(C)(i) of Pub. L. 93–400, which was classified to section 403(12)(C)(i) of former Title 41, Public Contracts, and was repealed and restated as section 103(3)(A) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
 Section 6621 of the Internal Revenue Code of 1986, referred to in subsec. (f)(1)(A)(ii), is classified to section 6621 of Title 26, Internal Revenue Code.
 
@@ -203,6 +201,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(3)(B). Pub. L. 113–291 substituted "section 103(3)(A) of title 41" for "section 4(12)(C)(i) ofthe Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i))".
 
 <b>2011</b>—Subsec. (h)(3). Pub. L. 111–350 substituted "section 103 of title 41" for "section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))".
 
@@ -244,7 +244,7 @@ Subsec. (a)(1)(A)(ii). Pub. L. 103–355, §1201(a)(2), struck out "or after Dec
 
 Subsec. (a)(5). Pub. L. 103–355, §1202(b), substituted "subsection (b)(1)(B)" for "subsection (b)(2)".
 
-Subsec. (a)(6). Pub. L. 103–355, §1201(c), struck out subpar. (A) designation and subpar. (B) which read asfollows: "The head of an agency is not required to modify a contract under subparagraph (A) if that head of an agency determines that the submission of cost or pricing data with respect to that contract should be required under subsection (c)."
+Subsec. (a)(6). Pub. L. 103–355, §1201(c), struck out subpar. (A) designation and subpar. (B) which read as follows: "The head of an agency is not required to modify a contract under subparagraph (A) if that head of an agency determines that the submission of cost or pricing data with respect to that contract should be required under subsection (c)."
 
 Subsec. (a)(7). Pub. L. 103–355, §1201(b), added par. (7).
 
@@ -292,7 +292,7 @@ Pub. L. 103–355, §1204(1), redesignated subsec. (f) as (g). Former subsec. (g
 
 Subsec. (h). Pub. L. 103–355, §1206, added subsec. (h).
 
-Subsec. (i). Pub. L. 103–355, §1208, amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: "In this section, the term 'cost or pricing data' means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification), a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived."
+Subsec. (i). Pub. L. 103–355, §1208, amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: "In this section, the term 'cost orpricing data' means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification), a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived."
 
 Pub. L. 103–355, §1204(1), redesignated subsec. (g) as (i).
 
@@ -354,7 +354,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–510, div. A, title VIII, §803(a)(2), Nov. 5, 1990, 104 Stat. 1590, as amended by Pub. L. 102–25, title VII, §704(a)(4), Apr. 6, 1991, 105 Stat. 118, provided that the amendments to this section by Pub. L. 101–510 would apply to contracts entered into after Dec. 5, 1990, subcontracts under such contracts, and modifications or changes to such contracts and subcontracts, prior to repeal by Pub. L. 102–190, div. A, title VIII, §804(c)(2), Dec. 5, 1991, 105 Stat. 1416.
+Pub. L. 101–510, div. A, title VIII, §803(a)(2), Nov. 5, 1990, 104 Stat. 1590, as amended by Pub. L. 102–25, title VII, §704(a)(4), Apr. 6, 1991, 105 Stat. 118, provided that the amendments to this section by Pub. L. 101–510 would apply to contracts entered into after Dec. 5, 1990, subcontracts under such contracts, and modifications or changes to such contracts and subcontracts, prior torepeal by Pub. L. 102–190, div. A, title VIII, §804(c)(2), Dec. 5, 1991, 105 Stat. 1416.
 
 #### Effective Date of 1987 Amendment
 
@@ -476,7 +476,7 @@ Sunset Date.—This section shall not be in effect on and after April 1, 2015."
 
 #### Grants of Exceptions to Cost or Pricing Data Certification Requirements and Waivers of Cost Accounting Standards
 
-Pub. L. 107–314, div. A, title VIII, §817, Dec. 2, 2002, 116 Stat. 2610, as amended by Pub. L. 112–81, div. A, title VIII, §809(a), Dec. 31, 2011, 125 Stat. 1490, provided that:
+Pub. L. 107–314, div. A, title VIII, §817, Dec. 2, 2002, 116 Stat. 2610, as amended by Pub. L. 112–81, div. A, title VIII, §809(a), Dec. 31, 2011, 125 Stat. 1490; Pub. L. 113–291, div. A, title X, §1071(b)(7), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 "(a)
 
@@ -498,7 +498,7 @@ Applicability of New Guidance.—The guidance issued under subsection (a) shall 
 
 "(d)
 
-Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers.—(1) TheSecretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] promptly after the end of each fiscal year a report on commercial item exceptions, and exceptional case exceptions and waivers, described in paragraph (2) that were granted during that fiscal year.
+Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers.—(1) The Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] promptly after the end of each fiscal year a report on commercial item exceptions, and exceptional case exceptions and waivers, described in paragraph (2) that were granted during that fiscal year.
 
 "(2) The report for a fiscal year shall include—
 
@@ -516,13 +516,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(A) An exception pursuant to section 2306a(b)(1)(C) of title 10, United States Code, relating to submission of certified cost and pricing data.
 
-&emsp;&emsp;"(B) A waiver pursuant to section 26(f)(5)(B) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)(5)(B)) \[now 41 U.S.C. 1502(b)(3)(B)\], relating to the applicability of cost accounting standards to contracts and subcontracts.
+&emsp;&emsp;"(B) A waiver pursuant to section 1502(b)(3)(B) of title 41, United States Code, relating to the applicability of cost accounting standards to contracts and subcontracts.
 
 &emsp;"(2) The term 'commercial item exception' means an exception pursuant to section 2306a(b)(1)(B) of title 10, United States Code, relating to submission of certified cost and pricing data."
 
 #### Defense Commercial Pricing Management Improvement
 
-Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title VIII, §823, Dec. 2, 2002, 116 Stat. 2615; Pub. L. 109–364, div. A, title VIII, §819, Oct. 17, 2006, 120 Stat. 2330, provided that:
+Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title VIII, §823, Dec. 2, 2002, 116 Stat. 2615; Pub. L. 109–364, div. A, title VIII, §819, Oct. 17, 2006, 120 Stat. 2330; Pub. L. 113–291, div. A, title X, §1071(b)(9), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 "(a)
 
@@ -564,11 +564,9 @@ Commercial Price Trend Analysis.—(1) The Secretary of Defense shall develop an
 
 "(d)
 
-Exempt Commercial Items Defined.—For the purposes of this section, the term 'exempt commercial item' means a commercial item that is exempt under subsection (b)(1)(B) of section 2306a of title 10, United States Code, or subsection (b)(1)(B) of section 304A of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 254b) \[now 41 U.S.C. 3503(a)(2)\], from the requirements for submission of certified cost or pricing data under that section."
+Exempt Commercial Items Defined.—For the purposes of this section, the term 'exempt commercial item' means a commercial item that is exempt under subsection (b)(1)(B) of section 2306a of title 10, United States Code, or section 3503(a)(2) of title 41, United States Code, from the requirements for submission of certified cost or pricing data under that section."
 
 #### Review by Inspector General
 
 Pub. L. 101–510, div. A, title VIII, §803(b), Nov. 5, 1990, 104 Stat. 1590, provided that (1) after increase in threshold for submission of cost or pricing data under subsec. (a) of this section, as amended by section 803(a) of Pub. L. 101–510, had been in effect for three years, Inspector General of Department of Defense was to conduct review of effects of increase in threshold, (2) that such review was to address whether increasing threshold improved acquisition process in terms of reduced paperwork, financial or other savings to government, an increase in number of contractors participating in defense contracting process, and adequacy of information available to contracting officers in cases in which certified cost or pricing data were not required under this section, (3) that Inspector General was to submit to Secretary of Defense a report on review conducted under paragraph (1), with Secretary of Defense required to submit such report to Congress, along with appropriate comments, upon completion of report (and comments) but not later than date on which President submitted budget to Congress pursuant to section 1105 of Title 31, Money and Finance, for fiscal year 1996, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

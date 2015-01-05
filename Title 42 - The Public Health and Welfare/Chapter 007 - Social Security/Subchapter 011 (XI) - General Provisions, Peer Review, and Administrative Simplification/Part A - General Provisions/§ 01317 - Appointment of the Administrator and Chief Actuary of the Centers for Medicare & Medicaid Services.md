@@ -28,5 +28,5 @@ Subsec. (b)(3). Pub. L. 108–173, §900(c), added par. (3).
 
 #### Effective Date
 
-Pub. L. 98–369, div. B, title III, §2332(c), July 18, 1984, 98 Stat. 1089, provided that: "The amendments made bythis section \[enacting this section and amending section 5315 of Title 5, Government Organization and Employees\] shall apply to appointments made after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. B, title III, §2332(c), July 18, 1984, 98 Stat. 1089, provided that: "The amendments made by this section \[enacting this section and amending section 5315 of Title 5, Government Organization and Employees\] shall apply to appointments made after the date of the enactment of this Act \[July 18, 1984\]."
 

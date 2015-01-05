@@ -3,11 +3,13 @@
 | Sec. |  |
 | :--- | ---: |
 | [2281\.](%C2%A7%2002281%20-%20Global%20Positioning%20System.md) | Global Positioning System. |
-| \[2282. | Repealed.\] |
+| [2282\.](%C2%A7%2002282%20-%20Authority%20to%20build%20the%20capacity%20of%20foreign%20security%20forces.md) | Authority to build the capacity of foreign security forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title XII, §1205(a)(2), Dec. 19, 2014, 128 Stat. 3536, added item 2282.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(13)(B), Dec. 31, 2011, 125 Stat. 1583, struck out item 2282 "B–2 bomber: annual report".
 
@@ -19,4 +21,4 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02281 - Global Positioning System](%C2%A7%2002281%20-%20Global%20Positioning%20System.md)
-- [&sect; 02282 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(13)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2002282%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%2813%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
+- [&sect; 02282 - Authority to build the capacity of foreign security forces](%C2%A7%2002282%20-%20Authority%20to%20build%20the%20capacity%20of%20foreign%20security%20forces.md)

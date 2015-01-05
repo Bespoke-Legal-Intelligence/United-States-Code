@@ -68,7 +68,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;&emsp;(i) tax-exempt interest received or accrued during such taxable year,
 
-&emsp;&emsp;&emsp;(ii) the aggregate amount of deductions provided by sections 243, 244, and 245 for—
+&emsp;&emsp;&emsp;(ii) the aggregate amount of deductions provided by sections 243 and 245 for—
 
 &emsp;&emsp;&emsp;&emsp;(I) dividends (other than 100 percent dividends) received during the taxable year, and
 
@@ -98,13 +98,13 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (i) Prorated amounts
 
-&emsp;&emsp;&emsp;The term "prorated amounts" means tax-exempt interest and dividends with respect to which a deduction is allowable under section 243, 244, or 245 (other than 100 percent dividends).
+&emsp;&emsp;&emsp;The term "prorated amounts" means tax-exempt interest and dividends with respect to which a deduction is allowable under section 243 or 245 (other than 100 percent dividends).
 
 #### (ii) 100 percent dividend
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "100 percent dividend" means any dividend if the percentage used for purposes of determining the deduction allowable under section 243, 244, or 245(b) is 100 percent.
+&emsp;&emsp;&emsp;&emsp;The term "100 percent dividend" means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
 
 #### (II) Certain dividends received by foreign corporations
 
@@ -218,7 +218,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;&emsp;&emsp;(II) which is based on the statutory premium recognition pattern which applies to premiums received by the taxpayer in such calendar year.
 
-&emsp;&emsp;&nbsp;For purposes of the preceding sentence, premiums received during any calendar year shall be treated as received in the middle of such year.
+&emsp;&emsp;&nbsp;For purposes of the preceding sentence, premiums received during any calendaryear shall be treated as received in the middle of such year.
 
 #### (c) Deductions allowed
 
@@ -260,7 +260,7 @@ Nothing in this section shall permit the same item to be deducted more than once
 
 #### (e) Special deduction and income account
 
-In the case of taxable years beginning after December 31, 1966, of a company which writes mortgage guaranty insurance—
+In the case of a company which writes mortgage guaranty insurance—
 
 #### (1) Additional deduction
 
@@ -274,7 +274,7 @@ In the case of taxable years beginning after December 31, 1966, of a company whi
 
 #### (2) Purchase of bonds
 
-&emsp;The deduction under paragraph (1) shall be allowed only to the extent that tax and lossbonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which the deduction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
+&emsp;The deduction under paragraph (1) shall be allowed only to the extent that tax and loss bonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which the deduction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
 
 #### (3) Mortgage guaranty account
 
@@ -300,7 +300,7 @@ In the case of taxable years beginning after December 31, 1966, of a company whi
 
 #### (6) Lease guaranty insurance; insurance of State and local obligations
 
-&emsp;In the case of any taxable year beginning after December 31, 1970, the provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to "losses resulting from adverse economic cycles" include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
+&emsp;The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to "losses resulting from adverse economic cycles" include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
 
 #### (f) Interinsurers
 
@@ -316,7 +316,7 @@ In the case of a mutual insurance company which is an interinsurer or reciprocal
 
 In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub.L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955;Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048.)
 
 #### References in Text
 
@@ -329,6 +329,12 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this title.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(5)(B)(ii), (D)(i), (ii)(I). Pub. L. 113–295, §221(a)(41)(G), struck out ", 244,"after "sections 243" in subpar. (B)(ii) and after "section 243" in subpar. (D)(i), (ii)(I).
+
+Subsec. (e). Pub. L. 113–295, §221(a)(69)(A), struck out "of taxable years beginning after December 31, 1966," after "In the case" in introductory provisions.
+
+Subsec. (e)(6). Pub. L. 113–295, §221(a)(69)(B), substituted "The" for "In the case of any taxable year beginning after December 31, 1970, the".
 
 <b>1997</b>—Subsec. (b)(5)(B)(iii). Pub. L. 105–34, which directed amendment of subpar. (B) by adding cl. (iii) at the end, was executed by adding cl. (iii) after cl. (ii) to reflect the probable intent of Congress.
 
@@ -421,6 +427,12 @@ Subsec. (c)(11). Pub. L. 87–834, §8(e)(4), substituted "section 831(a)(3)(A)"
 <b>1956</b>—Subsec. (b)(4). Act Mar. 13, 1956, §3(b)(1), substituted "section 801(b)" for "section 806".
 
 Subsec. (c). Act Mar. 13, 1956, §3(b)(2), (3), substituted "the items described in section 822(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212" for "interest, dividends, rents, and net premiums received. In the application of section 1211" in par. (5), and authorized the deduction for depletion in par. (8).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by section (a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -584,11 +596,11 @@ Pub. L. 100–647, title I, §1010(d)(3), Nov. 10, 1988, 102 Stat. 3453, provide
 
 &emsp;"(B) at all times after the date on which such stock or obligation was acquired by the transferor company and before the date of the acquisition by the acquiring company, the transferor company and the acquiring company were members of the same affiliated group filing a consolidated return.
 
-> For purposes of the preceding sentence, the date on which the stock or obligation was acquired by the transferor company shall be determined with regard to any prior application of the preceding sentence. For purposes of this paragraph, if the acquiring corporation or transferor corporation was a party to a reorganization described in section 368(a)(1)(F) of the 1986 Code, any reference to such corporation shall include a reference to any predecessor thereof involved in such reorganization."
+> For purposes of the preceding sentence, the date on which the stock or obligation was acquired by the transferor company shall be determined with regard toany prior application of the preceding sentence. For purposes of this paragraph, if the acquiring corporation or transferor corporation was a party to a reorganization described in section 368(a)(1)(F) of the 1986 Code, any reference to such corporation shall include a reference to any predecessor thereof involved in such reorganization."
 
 #### Study of Treatment of Property and Casualty Insurance Companies
 
-Pub. L. 99–514, title X, §1025, Oct. 22, 1986, 100 Stat. 2409, directed Secretary of the Treasury or his delegateto conduct a study of the treatment of policyholder dividends by mutual property and casualty insurance companies, the treatment of property and casualty insurance companies under the minimum tax, and the operation and effect of, and revenue raised by, the amendments made by this subtitle, and not later than Jan. 1, 1989 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), such Secretary to submit to Committee on Ways and Means of House of Representatives, Committee on Finance of Senate, and Joint Committee on Taxation, the results of such study, together with such recommendations as he determined to be appropriate.
+Pub. L. 99–514, title X, §1025, Oct. 22, 1986, 100 Stat. 2409, directed Secretary of the Treasury or his delegate to conduct a study of the treatment of policyholder dividends by mutual property and casualty insurance companies, the treatment of property and casualty insurance companies under the minimum tax, and the operation and effect of, and revenue raised by, the amendments made by this subtitle, and not later than Jan. 1, 1989 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), such Secretary to submit to Committee on Ways and Means of House of Representatives, Committee on Finance of Senate, and Joint Committee on Taxation, the results of such study, together with such recommendations as he determined to be appropriate.
 
 #### Physicians' and Surgeons' Mutual Protection and Interindemnity Arrangements or Associations
 
@@ -656,7 +668,7 @@ Effective Date.—The provisions of subsection (a) shall apply to payments made 
 
 Pub. L. 90–240, §5(g), Jan. 2, 1968, 81 Stat. 779, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(1) In the case of taxable years beginning before 1967, a company shall treat additions to a reserve, required by State law or regulations for mortgage guaranty insurance losses resulting from adverse economic cycles, as unearned premiums for purposes of section 832(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], but the amount so treated as unearned premiums in a taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve, with respect to mortgage guaranty insurance for such year. The amount of unearned premiums at the close of 1966 shall be determined without regard to the preceding sentence for the purpose of applying section 832(b)(4) of such Code to 1967. Additions to such a reserve shall not be treated as unearned premiums for any taxable year beginning after 1966.
+"(1) In the case of taxable years beginning before 1967, a company shall treat additions to a reserve, required by State law or regulations for mortgage guaranty insurance losses resulting from adverse economic cycles, as unearned premiums for purposes of section 832(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], but the amount so treated as unearned premiums in a taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve, with respect tomortgage guaranty insurance for such year. The amount of unearned premiums at the close of 1966 shall be determined without regard to the preceding sentence for the purpose of applying section 832(b)(4) of such Code to 1967. Additions to such a reserve shall not be treated as unearned premiums for any taxable year beginning after 1966.
 
 "(2) If a mortgage guaranty insurance company made additions to a reserve which were so treated as unearned premiums described in paragraph (1), such company, in taxable years beginning after 1966, shall include in gross income (in addition to the items specified in section 832(b)(1) of such Code) the sum of the following amounts until there is included in gross income an amount equal to the aggregate additions to the reserve described in paragraph (1) for taxable years beginning before 1967:
 

@@ -16,7 +16,7 @@ The Congress finds as follows:
 
 &emsp;(4) It is imperative that the process for providing financial services to the Government be transparent, and provide the information necessary for the Congress to effectively exercise its appropriation and oversight responsibilities.
 
-&emsp;(5) The use of direct payment for services rendered would strengthen cash and debt management responsibilities of the Secretary of the Treasury because the Secretary would no longer need to dramatically increase or decrease the level of such balances when interest rates fluctuate sharply or when the publicdebt outstanding reaches the statutory debt limit.
+&emsp;(5) The use of direct payment for services rendered would strengthen cash and debt management responsibilities of the Secretary of the Treasury because the Secretary would no longer need to dramatically increase or decrease the level of such balances when interest rates fluctuate sharply or when the public debt outstanding reaches the statutory debt limit.
 
 &emsp;(6) An alternative to the use of compensating balances, such as direct payments to financial institutions, would ensure that payments to financial institutions for the services they provide would be made in a more predictable manner and could result in cost savings.
 

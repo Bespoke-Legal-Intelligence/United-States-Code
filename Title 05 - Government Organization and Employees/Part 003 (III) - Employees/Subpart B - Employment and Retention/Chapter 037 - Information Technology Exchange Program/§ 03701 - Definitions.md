@@ -2,9 +2,9 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “agency” means an Executive agency, but does not include the Government Accountability Office; and
+&emsp;(1) the term "agency" means an Executive agency, but does not include the Government Accountability Office; and
 
-&emsp;(2) the term “detail” means—
+&emsp;(2) the term "detail" means—
 
 &emsp;&emsp;(A) the assignment or loan of an employee of an agency to a private sector organization without a change of position from the agency that employs the individual, or
 
@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 #### Amendments
 
-<b>2004</b>—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 #### Effective Date
 

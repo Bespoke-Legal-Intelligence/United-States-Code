@@ -1,6 +1,6 @@
 ### \[§14504. Repealed. Pub. L. 109–59, title IV, §4305(a), Aug. 10, 2005, 119 Stat. 1764; Pub. L. 110–53, title XV, §1537(a), Aug. 3, 2007, 121 Stat. 467\]
 
-Section, added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 902; amended Pub. L. 110–53, title XV, §1537(a), Aug. 3, 2007, 121 Stat. 467, related to registration of motor carriers by a State.
+Section, added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 902; amended Pub. L. 110–53, title XV,§1537(a), Aug. 3, 2007, 121 Stat. 467, related to registration of motor carriers by a State.
 
 Provisions similar to those in this section were contained in section 11506 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 

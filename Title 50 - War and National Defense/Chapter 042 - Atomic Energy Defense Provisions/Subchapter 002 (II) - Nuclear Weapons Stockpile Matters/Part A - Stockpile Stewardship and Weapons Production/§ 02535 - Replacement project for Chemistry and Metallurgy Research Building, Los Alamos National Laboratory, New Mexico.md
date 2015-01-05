@@ -58,7 +58,7 @@ Use of funds for modular building strategy.—The Administrator for Nuclear Secu
 
 &emsp;"(3)
 
-Modular building strategy defined.—In this subsection, the term 'modular building strategy' means an alternative strategy to the replacement project that consists of repurposing existing facilities and constructing a series of modular structures, each of which is fully useable, to complement the function of the plutonium facility (PF–4) at Los Alamos National Laboratory, New Mexico, in accordance with all applicable safety and security standards of the Department of Energy.
+Modular building strategy defined.—In this subsection, the term 'modular building strategy' means an alternative strategy to the replacement project that consists of repurposing existing facilitiesand constructing a series of modular structures, each of which is fully useable, to complement the function of the plutonium facility (PF–4) at Los Alamos National Laboratory, New Mexico, in accordance with all applicable safety and security standards of the Department of Energy.
 
 "(d)
 
@@ -74,7 +74,7 @@ Submission.—Not later than 18 months after the date of the enactment of this A
 
 &emsp;"(3)
 
-Consideration of recommendations.—In carrying out the replacement project, the Secretary ofEnergy shall consider the recommendations made by the Deputy Administrator in the report under paragraph (2) and incorporate such recommendations into the project as the Secretary considers appropriate.
+Consideration of recommendations.—In carrying out the replacement project, the Secretary of Energy shall consider the recommendations made by the Deputy Administrator in the report under paragraph (2) and incorporate such recommendations into the project as the Secretary considers appropriate.
 
 &emsp;"(4)
 

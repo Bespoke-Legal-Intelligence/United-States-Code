@@ -116,7 +116,7 @@ Memorandum of President of the United States, Feb. 22, 1991, 56 F.R. 8099, provi
 
 Memorandum for the Chairman of the Board of Trustees of the Institute of American Indian and Alaska Native Culture and Arts Development
 
-By the authority vested in me as President of the United States by section 301 of Title 3 of the United States Code, I hereby delegate to the Chairman of the Board of Trustees of the Institute of American Indianand Alaska Native Culture and Arts Development the responsibility under section 1505(a)(2)(B) of P.L. 99–498 (20 U.S.C. 4412(a)(2)(B)) to publish in the Federal Register an announcement of the expiration of the terms of the presidentially appointed members of the Board of Trustees of the Institute of American Indian and Alaska Native Culture and Arts Development no less than 4 months prior to their expiration. The authority delegated by this memorandum may be further redelegated within the Institute.
+By the authority vested in me as President of the United States by section 301 of Title 3 of the United States Code, I hereby delegate to the Chairman of the Board of Trustees of the Institute of American Indian and Alaska Native Culture and Arts Development the responsibility under section 1505(a)(2)(B) of P.L. 99–498 (20 U.S.C. 4412(a)(2)(B)) to publish in the Federal Register an announcement of the expiration of the terms of the presidentially appointed members of the Board of Trustees of the Institute of American Indian and Alaska Native Culture and Arts Development no less than 4 months prior to their expiration. The authority delegated by this memorandum may be further redelegated within the Institute.
 
 The delegation of authority to the Secretary of the Interior by memorandum of June 22, 1988, is hereby rescinded.
 

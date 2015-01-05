@@ -38,7 +38,7 @@
 
 #### (c) Health insurance
 
-In addition to the living allowance provided under subsection (a) of this section, program agencies are encouraged to provide health insurance to each participant in a full-time youth corps program who does not otherwise have access to health insurance.
+In addition to the living allowance provided under subsection (a) of this section, program agencies are encouraged to provide health insurance to each participant in a full-time youthcorps program who does not otherwise have access to health insurance.
 
 #### (d) Facilities, services, and supplies
 
@@ -58,7 +58,7 @@ In addition to the living allowance provided under subsection (a) of this sectio
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation may provide services, facilities, supplies, and equipment, includingany surplus food and equipment available from other Federal programs, to any program agency carrying out projects under this division.
+&emsp;&emsp;The Corporation may provide services, facilities, supplies, and equipment, including any surplus food and equipment available from other Federal programs, to any program agency carrying out projects under this division.
 
 #### (B) Secretary of Defense
 

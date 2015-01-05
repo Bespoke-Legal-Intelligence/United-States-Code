@@ -44,11 +44,11 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 #### (b) Congressional request for additional information
 
-Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) of this section for additional information with respect to any information submitted pursuant to subsection (a) of this section, the President shall submit such information to such committee.
+Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) for additional information with respect to any information submitted pursuant to subsection (a), the President shall submit such information to such committee.
 
 #### (c) Submission of information in unclassified form or classified addendum with unclassified summary
 
-The President shall make every effort to submit all of the information required by subsection (a) or (b) of this section wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shall also submit simultaneously a detailed summary, in unclassified form, of such classified information.
+The President shall make every effort to submit all of the information required by subsection (a) or (b) wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shallalso submit simultaneously a detailed summary, in unclassified form, of such classified information.
 
 #### (d) <sup>2</sup> "Cash flow financing" defined
 
@@ -60,9 +60,9 @@ The information required by subsection (a)(4) of this section shall be transmitt
 
 #### (e) "Appropriate congressional committees" defined
 
-As used in this section, the term "appropriate congressional committees" means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+As used in this section, the term "appropriate congressional committees" means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §519, Nov. 26, 1997, 111 Stat. 2411; Pub. L. 107–228, div. B, title XII, §1232, Sept. 30, 2002, 116 Stat. 1433; Pub. L. 111–266, title I, §104(c), Oct. 8, 2010, 124 Stat. 2799.)
+(Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §519, Nov. 26, 1997, 111 Stat. 2411; Pub. L. 107–228, div. B, title XII, §1232, Sept. 30, 2002, 116 Stat. 1433; Pub. L. 111–266, title I, §104(c), Oct. 8, 2010, 124 Stat. 2799; Pub. L. 113–276, title II, §208(a)(3), Dec. 18, 2014, 128 Stat. 2993.)
 
 #### References in Text
 
@@ -76,6 +76,8 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 8
 
 #### Amendments
 
+<b>2014</b>—Subsec. (e). Pub. L. 113–276 substituted "Foreign Affairs" for "International Relations".
+
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–266, §104(c)(1), inserted ", as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title," after "commercial exports under this chapter".
 
 Subsec. (a)(2). Pub. L. 111–266, §104(c)(2), inserted ", as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title," after "commercial exports".
@@ -84,7 +86,7 @@ Subsec. (a)(2). Pub. L. 111–266, §104(c)(2), inserted ", as well as exports 
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–118, §519(1), substituted "appropriate congressional committees" for "Congress" in introductory provisions.
 
-Subsec. (b). Pub. L. 105–118, §519(2), substituted "any of the congressional committees described in subsection (e) of this section" for "the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives".
+Subsec. (b). Pub. L. 105–118, §519(2), substituted "any of the congressional committees described in subsection (e)" for "the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives".
 
 Subsec. (e). Pub. L. 105–118, §519(3), added subsec. (e).
 
@@ -106,7 +108,7 @@ Subsec. (a)(2). Pub. L. 97–113 added par. (2). Former par. (2), which required
 
 Subsec. (a)(3). Pub. L. 97–113 added par. (3) which incorporated provisions of former par. (1) requiring the report to contain an estimate of amounts of expected sales to each country under sections 2761 and 2762 of this title, including detailed explanations of foreign policy and United States national security considerations in expected sales to each country, and (5) requiring inclusion of an arms control impact statement for each purchasing country, covering (A) an analysis of the relationship between expected sales to each country and arms control efforts relating to that country, and (B) the impact of such expected sales on the stability of the region that included the purchasing country. Former par. (3) redesignated (7).
 
-Subsec. (a)(4). Pub. L. 97–113 added par. (4) which incorporated provisions of former subsec. (e), which hadrequired executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to all major recipient countries during the preceding three years. Former par. (4) covered in par. (8).
+Subsec. (a)(4). Pub. L. 97–113 added par. (4) which incorporated provisions of former subsec. (e), which had required executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to all major recipient countries during the preceding three years. Former par. (4) covered in par. (8).
 
 Subsec. (a)(5). Pub. L. 97–113 added par. (5) which incorporated provisions of former par. (2) requiring the report to contain an estimate of amount of credits and guaranties expected to be extended to each country under sections 2763 and 2764 of this title. Former par. (5) covered in par. (3).
 
@@ -114,7 +116,7 @@ Subsec. (a)(6). Pub. L. 97–113 added par. (6).
 
 Subsec. (a)(7). Pub. L. 97–113 redesignated former par. (3) as (7).
 
-Subsec. (a)(8). Pub. L. 97–113 added par. (8), which incorporated provisions of former par. (4), requiring the report to contain a list of all findings in effect on date of its transmission made by the President pursuant to section 2753(a)(1) of this title, together with a full and complete justification for each finding, explaining how sales to each country with respect to which findings were made would strengthen the security of the United States and promote world peace.
+Subsec. (a)(8). Pub. L. 97–113 added par. (8), which incorporated provisions of former par. (4), requiring the report to contain a list of all findings in effect on date of its transmission made by the President pursuant tosection 2753(a)(1) of this title, together with a full and complete justification for each finding, explaining how sales to each country with respect to which findings were made would strengthen the security of the United States and promote world peace.
 
 Subsecs. (a)(9) to (12). Pub. L. 97–113 added pars. (9) to (12).
 
@@ -134,13 +136,9 @@ Subsec. (d)(1). Pub. L. 96–533, §107(d), included coverage of licensed commer
 
 Subsec. (e). Pub. L. 96–92, §14, added subsec. (e).
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–384, §18(b), substituted "subsection (a) or (b) of this section" for "this section".
+<b>1978</b>—Subsec. (c). Pub. L. 95–384, §18(b), substituted "subsection (a) or (b)" for "this section".
 
 Subsec. (d). Pub. L. 95–384, §18(a), added subsec. (d).
-
-#### Change of Name
-
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1985 Amendment
 

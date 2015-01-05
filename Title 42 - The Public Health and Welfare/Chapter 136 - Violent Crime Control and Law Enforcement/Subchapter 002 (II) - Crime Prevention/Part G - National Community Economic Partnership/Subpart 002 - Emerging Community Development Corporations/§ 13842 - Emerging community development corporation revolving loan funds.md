@@ -20,7 +20,7 @@ To be eligible to receive a grant under subsection (a) of this section, an entit
 
 #### (1) In general
 
-&emsp;A revolving loan fund established or maintained with amounts received under this section may be utilized to provide financial andtechnical assistance, loans, loan guarantees or investments to private business enterprises to—
+&emsp;A revolving loan fund established or maintained with amounts received under this section may be utilized to provide financial and technical assistance, loans, loan guarantees or investments to private business enterprises to—
 
 &emsp;&emsp;(A) finance projects intended to provide business and employment opportunities for low-income individuals and to improve the quality of life in urban and rural areas; and
 

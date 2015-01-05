@@ -12,7 +12,7 @@ Consistent with the provisions of this section, the Comptroller General may subm
 
 &emsp;(2) making recommendations for changes in the analysis done in the report due the following year under section 3142 of this title;
 
-&emsp;(3) making recommendations for improving the collection by respective Federal agencies of data on foreign direct investment in the United States, including use of private sector data, and improving survey questionnaires to obtain useful and consistent information that avoids unnecessary redundancy among Federal agencies;
+&emsp;(3) making recommendations for improving the collection by respective Federal agenciesof data on foreign direct investment in the United States, including use of private sector data, and improving survey questionnaires to obtain useful and consistent information that avoids unnecessary redundancy among Federal agencies;
 
 &emsp;(4) reviewing the status and processes for reconciliation of data exchanged as required by this Act and the amendments made by this Act, and making any recommendations for improving and augmenting international financial data;
 
@@ -32,7 +32,7 @@ In preparing any report under this section, the Comptroller General shall not—
 
 &emsp;(1) disclose any confidential business information or present any information in a way in which any person, including a business enterprise or establishment, can be identified; or
 
-&emsp;(2) combine, match, or use in any other way individually identifiable data or information maintained by any of the Federal statistical agencies referred to in subsection (c) of this section with any other individually identifiable confidential data or information that is not collected by such statistical agencies.
+&emsp;(2) combine, match, or use in any other way individually identifiable data or information maintained by any of the Federal statistical agencies referred to in subsection (c) with any other individually identifiable confidential data or information that is not collected by such statistical agencies.
 
 > Before issuing any such report, the Comptroller General shall in each instance submit the report to the head or heads of the agency or agencies from which confidential or identifiable information described in the preceding sentence was obtained. The agency or agencies concerned shall promptly review the report for the purpose of assuring that the confidentiality of such information and identity is maintained, and for any other purpose, and shall provide the Comptroller General with appropriate comments or other suggestions within 10 working days after receiving the report.
 

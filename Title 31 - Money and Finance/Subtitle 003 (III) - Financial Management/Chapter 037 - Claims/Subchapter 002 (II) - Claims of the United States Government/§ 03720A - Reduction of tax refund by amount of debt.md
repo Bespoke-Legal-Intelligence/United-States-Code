@@ -20,13 +20,13 @@
 
 (e) Any Federal agency receiving notice from the Secretary of the Treasury that an erroneous payment has been made to such agency under subsection (c) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such agency under such subsection have been paid to such agency).
 
-(f)(1) Subsection (a) shall apply with respect to an OASDI overpayment made to any individual only if such individual is not currently entitled to monthly insurance benefits under title II of the Social Security Act.
+(f)(1) Subsection (a) shall apply with respect to an OASDI overpayment made to any individualonly if such individual is not currently entitled to monthly insurance benefits under title II of the Social Security Act.
 
 (2)(A) The requirements of subsection (b) shall not be treated as met in the case of the recovery of an OASDI overpayment from any individual under this section unless the notification under subsection (b)(1) describes the conditions under which the Commissioner of Social Security is required to waive recovery of an overpayment, as provided under section 204(b) of the Social Security Act.
 
 (B) In any case in which an individual files for a waiver under section 204(b) of the Social Security Act within the 60-day period referred to in subsection (b)(2), the Commissioner of Social Security shall not certify to the Secretary of the Treasury that the debt is valid under subsection (b)(4) before rendering a decision on the waiver request under such section 204(b). In lieu of payment, pursuant to subsection (c), to the Commissioner of Social Security of the amount of any reduction under this subsection based on an OASDI overpayment, the Secretary of the Treasury shall deposit such amount in the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, whichever is certified to the Secretary of the Treasury as appropriate by the Commissioner of Social Security.
 
-(g) In the case of refunds of business associations, this section shall apply only to refundspayable on or after January 1, 1995. In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994.
+(g) In the case of refunds of business associations, this section shall apply only to refunds payable on or after January 1, 1995. In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994.
 
 (h)(1) <sup>1</sup> The disbursing official of the Department of the Treasury—
 

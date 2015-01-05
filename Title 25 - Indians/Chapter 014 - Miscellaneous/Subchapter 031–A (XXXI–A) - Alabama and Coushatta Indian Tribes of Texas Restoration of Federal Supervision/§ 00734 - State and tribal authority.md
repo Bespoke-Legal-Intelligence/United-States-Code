@@ -22,7 +22,7 @@ No provision contained in this subchapter shall affect the power of the Tribal C
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 Stat. 666, known as the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act, which enacted this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapter and enacted provisions set out as notes under section 731 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 Stat. 666, known as the Ysleta del SurPueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act, which enacted this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapter and enacted provisions set out as notes under section 731 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
 
 #### Amendments
 

@@ -398,7 +398,7 @@ Nothing in the Criteria shall be construed to prejudice any rights conferred by 
 
 #### (c) Offer of contract to other entities
 
-If any existing contractor fails to accept an offered contract, the Secretary of Energy shall offer the contingent capacity and firm energy thus available first to other entities in the same State listed in Schedule A and Schedule B, second to other entities listed in Schedule A and Schedule B, third to other entities in the same State which receive contingent capacity and firm energy under subsection (a)(2) of this section, and last to other entities which receive contingent capacity and firm energy under subsection (a)(2) of this section.
+If any existing contractor fails to accept an offered contract, the Secretary of Energy shall offer the contingent capacity and firm energy thus available first to other entities in the sameState listed in Schedule A and Schedule B, second to other entities listed in Schedule A and Schedule B, third to other entities in the same State which receive contingent capacity and firm energy under subsection (a)(2) of this section, and last to other entities which receive contingent capacity and firm energy under subsection (a)(2) of this section.
 
 #### (d) Water availability
 
@@ -424,7 +424,7 @@ It is the purpose of this subchapter to ensure that the rights of contractors fo
 
 This subchapter, referred to in subsecs. (a)(2)(A), (5)(F), (f), and (g), was in the original "this Act", meaning Pub. L. 98–381, Aug. 17, 1984, 98 Stat. 1333, which enacted this subchapter and sections 7274 and 7275 of Title 42, and amended sections 617a, 617b, 618, 618a, 618e, 618k, and 1543 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 619 of this title and Tables.
 
-The Hoover Power Allocation Act of 2011, referred to in subsec. (a)(2)(A) and (4), is Pub. L. 112–72, Dec. 20,2011, 125 Stat. 777, which amended this section and enacted provisions set out as a note under section 619 of this title. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 619 of this title and Tables.
+The Hoover Power Allocation Act of 2011, referred to in subsec. (a)(2)(A) and (4), is Pub. L. 112–72, Dec. 20, 2011, 125 Stat. 777, which amended this section and enacted provisions set out as a note under section 619 of this title. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 619 of this title and Tables.
 
 The Boulder Canyon Project Act, referred to in subsecs. (b) and (f)(1), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§617 et seq.) of this chapter. For complete classification of this Act to the Code, see section 617t of this title and Tables.
 
@@ -442,7 +442,7 @@ Subsec. (a)(1)(C). Pub. L. 112–72, §2(c), substituted "October 1, 2017" for "
 
 Subsec. (a)(2). Pub. L. 112–72, §2(d)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 112–72, §2(d)(1), (e), redesignated par. (2) as (3), in first sentence, substituted "paragraphs (1)(A), (1)(B), and (2)" for "schedule A of subsection (a)(1)(A) of this section and schedule B of subsection (a)(1)(B) of this section", and, in second sentence, substituted "each year of operation" for "any year of operation" in two places, "Schedule C" for "schedule C", and "Schedules A, B, and D" for "schedules A and B". Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 112–72, §2(d)(1), (e), redesignated par. (2) as (3), in first sentence, substituted "paragraphs (1)(A), (1)(B), and (2)" for "schedule A of subsection (a)(1)(A) of this section and schedule B of subsection (a)(1)(B) of this section", and, in second sentence, substituted "each year of operation" for "anyyear of operation" in two places, "Schedule C" for "schedule C", and "Schedules A, B, and D" for "schedules A and B". Former par. (3) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 112–72, §2(d)(1), (f), redesignated par. (3) as (4) and amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Subdivision E of the 'General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects' published in the Federal Register May 9, 1983 (48 Federal Register commencing at 20881), hereinafter referred to as the 'Criteria' or as the 'Regulations' shall be deemed to have been modified to conform to this section. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of said Regulations to such modifications." Former par. (4) redesignated (5).
 

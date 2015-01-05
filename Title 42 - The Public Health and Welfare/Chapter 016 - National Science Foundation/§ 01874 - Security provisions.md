@@ -2,7 +2,7 @@
 
 #### (a) Nuclear energy research and development
 
-The Foundation shall not support any research or development activity in the field of nuclear energy, nor shall it exercise any authority pursuant to section 1870(e) of this title in respect to that field, without first having obtained the concurrence of the Secretary of Energy that such activity will not adversely affect the common defense and security. To the extent that such activity involves restricted data as defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] the provisions of that Act regarding the control of the dissemination of restricted data and the security clearance of those individuals to be given access to restricted data shall be applicable. Nothing in this chapter shall supersede or modify any provision of the Atomic Energy Act of 1954.
+The Foundation shall not support any research or development activity in the field ofnuclear energy, nor shall it exercise any authority pursuant to section 1870(e) of this title in respect to that field, without first having obtained the concurrence of the Secretary of Energy that such activity will not adversely affect the common defense and security. To the extent that such activity involves restricted data as defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] the provisions of that Act regarding the control of the dissemination of restricted data and the security clearance of those individuals to be given access to restricted data shall be applicable. Nothing in this chapter shall supersede or modify any provision of the Atomic Energy Act of 1954.
 
 #### (b) Research relating to national defense
 
@@ -22,7 +22,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, 
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–207 substituted "Secretary of Energy" for "Atomic Energy Commission".
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–570 struck out subsec. (c) which related to oath and statement prerequisite toacceptance of scholarship or fellowship, ineligibility of Communist organization members, and penalties for violation.
+<b>1988</b>—Subsec. (c). Pub. L. 100–570 struck out subsec. (c) which related to oath and statement prerequisite to acceptance of scholarship or fellowship, ineligibility of Communist organization members, and penalties for violation.
 
 <b>1985</b>—Subsec. (b)(1). Pub. L. 99–159, §§109(e)(2), 110(a)(19)(A), substituted "engineering" for "technical" and "1873(f)" for "1873(g)".
 

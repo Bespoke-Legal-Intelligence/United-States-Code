@@ -10,7 +10,7 @@ Congress finds and declares that—
 
 #### (b) Program
 
-To carry out the policy set forth in subsection (a) of this section, the President is authorized to provide assistance to increase the availability of financial services to microenterprise households lacking full access to credit, including through—
+To carry out the policy set forth in subsection (a), the President is authorized to provide assistance to increase the availability of financial services to microenterprise households lacking full access to credit, including through—
 
 &emsp;(1) loans and guarantees to microfinance institutions for the purpose of expanding the availability of savings and credit to poor and low-income households;
 
@@ -20,7 +20,7 @@ To carry out the policy set forth in subsection (a) of this section, the Preside
 
 #### (c) Eligibility criteria
 
-The Administrator of the Agency shall establish criteria for determining which microfinance institutions described in subsection (b)(1) of this section are eligible to carry out activities, with respect to microenterprise households, assisted under this section. Such criteria may include the following:
+The Administrator of the Agency shall establish criteria for determining which microfinance institutions described in subsection (b)(1) are eligible to carry out activities, with respect to microenterprise households, assisted under this section. Such criteria may include the following:
 
 &emsp;(1) The extent to which the recipients of financial services from the entity do not have access to the local formal financial sector.
 
@@ -34,7 +34,7 @@ The Administrator of the Agency shall establish criteria for determining which m
 
 #### (d) Additional requirement
 
-Assistance provided under this section may only be used to support programs for microenterprise households and may not be used to support programs not directly related to the purposes described in subsection (b) of this section.
+Assistance provided under this section may only be used to support programs for microenterprise households and may not be used to support programs not directly related to the purposes described in subsection (b).
 
 #### (e) Procurement provision
 
@@ -50,7 +50,7 @@ Assistance may be provided under this section without regard to section 2354(a) 
 
 &emsp;Amounts authorized to be available under paragraph (1) shall be made available to cover the subsidy cost, as defined in section 661a(5) of title 2, for activities under this section.
 
-(Pub. L. 87–195, pt. I, §256, formerly §108, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 99–83, title III, §308, Aug. 8, 1985, 99 Stat. 215; Pub. L. 100–418, title II, §2211, Aug. 23, 1988, 102 Stat. 1335; Pub. L. 106–309, title I, §106, Oct. 17, 2000, 114 Stat. 1085; Pub. L. 108–31, §2, June 17, 2003, 117 Stat. 775; renumbered §256 and amended Pub. L. 108–484, §4(a), (b), (c)(3), Dec. 23, 2004, 118 Stat. 3926, 3927.)
+(Pub. L. 87–195, pt. I, §256, formerly §108, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97Stat. 972; amended Pub. L. 99–83, title III, §308, Aug. 8, 1985, 99 Stat. 215; Pub. L. 100–418, title II, §2211, Aug. 23, 1988, 102 Stat. 1335; Pub. L. 106–309, title I, §106, Oct. 17, 2000, 114 Stat. 1085; Pub. L. 108–31, §2, June 17, 2003, 117 Stat. 775; renumbered §256 and amended Pub. L. 108–484, §4(a), (b), (c)(3), Dec. 23, 2004, 118 Stat. 3926, 3927.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

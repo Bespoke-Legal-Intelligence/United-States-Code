@@ -90,7 +90,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 &emsp;(D) No income from sources without the United States shall be treated as effectively connected with the conduct of a trade or business within the United States if it either—
 
-&emsp;&emsp;(i) consists of dividends, interest, or royalties paid by a foreign corporation in whichthe taxpayer owns (within the meaning of section 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or
+&emsp;&emsp;(i) consists of dividends, interest, or royalties paid by a foreign corporation in which the taxpayer owns (within the meaning of section 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or
 
 &emsp;&emsp;(ii) is subpart F income within the meaning of section 952(a).
 
@@ -240,7 +240,7 @@ For purposes of this subchapter—
 
 #### (iii) Stock owned through entities
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately byits shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
 #### (D) Coordination with subpart F, etc.
 
@@ -294,7 +294,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) for direct allocation of interest expense incurred to carry out an integrated financial transaction to any interest (or interest-type income) derived from such transaction and in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
 
-&emsp;&emsp;(C) for the apportionment of expenses allocated to foreign source income among the members of the affiliated group and various categories of income described in section 904(d)(1),
+&emsp;&emsp;(C) for the apportionment of expenses allocated to foreign source income among themembers of the affiliated group and various categories of income described in section 904(d)(1),
 
 &emsp;&emsp;(D) for direct allocation of interest expense in the case of indebtedness resulting in a disallowance under section 246A,
 
@@ -440,7 +440,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;&emsp;&emsp;(ii) that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
 
-&emsp;&emsp;(C) The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales orgross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
+&emsp;&emsp;(C) The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
 
 #### (2) Qualified research and experimental expenditures
 
@@ -490,7 +490,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (6) Applicability
 
-&emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
+&emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568.)
 
@@ -747,7 +747,7 @@ General phase-in amount.—Except as provided in clause (iii), the general phase
 | &nbsp; | <b>The applicable</b> |
 | <b>"In the case of the:</b> | <b>percentage is:</b> |
 | 1st taxable year | 75&nbsp; |
-| 2nd taxable year | 50&nbsp; |
+| 2nd taxable year | 50  |
 | 3rd taxable year | 25\. |
 
 &emsp;&emsp;"(iii)
@@ -852,53 +852,19 @@ Special rules.—
 
 &emsp;&emsp;"(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
 
-> &emsp;&nbsp;
+&nbsp;
 
-<b>The applicable</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &emsp;<b>  "In the case of the:</b>
-
-<b>percentage is:</b>
-
-&emsp;&emsp;1st taxable year
-
-90&nbsp;&nbsp;
-
-&emsp;&emsp;2nd taxable year
-
-80&nbsp;&nbsp;
-
-&emsp;&emsp;3rd taxable year
-
-70&nbsp;&nbsp;
-
-&emsp;&emsp;4th taxable year
-
-60&nbsp;&nbsp;
-
-&emsp;&emsp;5th taxable year
-
-50&nbsp;&nbsp;
-
-&emsp;&emsp;6th taxable year
-
-40&nbsp;&nbsp;
-
-&emsp;&emsp;7th taxable year
-
-30&nbsp;&nbsp;
-
-&emsp;&emsp;8th taxable year
-
-20&nbsp;&nbsp;
-
-&emsp;&emsp;9th taxable year
-
-10\.&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;"In the case of the: | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| 1st taxable year | 90&nbsp;&nbsp; |
+| 2nd taxable year | 80&nbsp;&nbsp; |
+| 3rd taxable year | 70&nbsp;&nbsp; |
+| 4th taxable year | 60&nbsp;&nbsp; |
+| 5th taxable year | 50&nbsp;&nbsp; |
+| 6th taxable year | 40&nbsp;&nbsp; |
+| 7th taxable year | 30&nbsp;&nbsp; |
+| 8th taxable year | 20&nbsp;&nbsp; |
+| 9th taxable year | 10\. |
 
 &emsp;&emsp;"(ii) The provisions of this subparagraph shall apply in lieu of the provisions of subparagraphs (A) and (B).
 
@@ -912,7 +878,7 @@ Indebtedness outstanding on may 29, 1985.—Indebtedness is described in this cl
 
 &emsp;"(E)
 
-Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, as added by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
+Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, asadded by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
 
 &emsp;"(F)
 
@@ -944,7 +910,7 @@ Qualified corporation.—For purposes of subparagraph (A), the term 'qualified c
 
 "(4)
 
-Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtednessof a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
+Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtedness of a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
 
 &emsp;"(A) $100,000,000 face amount of 11¾ percent notes due in 1990,
 
@@ -1032,7 +998,7 @@ For applicability of amendment by section 1201(d)(4) of Pub. L. 99–514 notwith
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -46,7 +46,7 @@ The Secretary, in consultation with the United States Commissioners, shall—
 
 #### (3) Attendance at meetings
 
-&emsp;The Scientific Advisory Subcommittee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and the General Advisory Subcommittee and shall be given full opportunity to examine and to be heard on all proposed programs of scientific investigation, scientific reports, and scientific recommendations of the commission. Representatives of the Scientific Advisory Subcommittee may attend meetings of the Inter-American Tropical Tuna Commission in accordance with the rules of such Commission.
+&emsp;The Scientific Advisory Subcommittee shall be invited to have representatives attend all nonexecutive meetings of the United Statessections and the General Advisory Subcommittee and shall be given full opportunity to examine and to be heard on all proposed programs of scientific investigation, scientific reports, and scientific recommendations of the commission. Representatives of the Scientific Advisory Subcommittee may attend meetings of the Inter-American Tropical Tuna Commission in accordance with the rules of such Commission.
 
 (Sept. 7, 1950, ch. 907, §4, 64 Stat. 778; Pub. L. 102–523, §3(a)(2), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, §7(b), Aug. 15, 1997, 111 Stat. 1137.)
 

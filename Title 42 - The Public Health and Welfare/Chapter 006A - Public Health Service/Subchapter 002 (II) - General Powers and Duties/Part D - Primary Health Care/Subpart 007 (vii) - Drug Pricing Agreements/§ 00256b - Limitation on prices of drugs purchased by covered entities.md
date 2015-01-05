@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall enter into an agreement with each manufacturer of covered outpatient drugs under which the amount required to be paid (taking into account any rebate or discount, as provided by the Secretary) to the manufacturer for covered outpatient drugs (other than drugs described in paragraph (3)) purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992, does not exceed an amount equal to the average manufacturer price for the drug under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in the preceding calendar quarter, reduced by the rebate percentage described in paragraph (2). Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each coveredoutpatient drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the "ceiling price"), and shall require that the manufacturer offer each covered entity covered outpatient drugs for purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price.
+&emsp;The Secretary shall enter into an agreement with each manufacturer of covered outpatient drugs under which the amount required to be paid (taking into account any rebate or discount, as provided by the Secretary) to the manufacturer for covered outpatient drugs (other than drugs described in paragraph (3)) purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992, does not exceed an amount equal to the average manufacturer price for the drug under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in the preceding calendar quarter, reduced by the rebate percentage described in paragraph (2). Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered outpatient drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the "ceiling price"), and shall require that the manufacturer offer each covered entity covered outpatient drugs for purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price.
 
 #### (2) "Rebate percentage" defined
 
@@ -126,7 +126,7 @@
 
 #### (9) Notice to manufacturers
 
-&emsp;The Secretary shall notify manufacturers of covered outpatient drugs and single Stateagencies under section 1902(a)(5) of the Social Security Act \[42 U.S.C. 1396a(a)(5)\] of the identities of covered entities under this paragraph, and of entities that no longer meet the requirements of paragraph (5) or that are no longer certified pursuant to paragraph (7).
+&emsp;The Secretary shall notify manufacturers of covered outpatient drugs and single State agencies under section 1902(a)(5) of the Social Security Act \[42 U.S.C. 1396a(a)(5)\] of the identities of covered entities under this paragraph, and of entities that no longer meet the requirements of paragraph (5) or that are no longer certified pursuant to paragraph (7).
 
 #### (10) No prohibition on larger discount
 
@@ -136,7 +136,7 @@
 
 #### (1) In general
 
-&emsp;In this section, the terms "average manufacturer price", "covered outpatient drug", and "manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
+&emsp;In this section, the terms "average manufacturer price", "covered outpatient drug", and"manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
 
 #### (2) Covered drug
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;(v) permit the official or body designated under clause (i), at the request of a manufacturer or manufacturers, to consolidate claims brought by more than one manufacturer against the same covered entity where, in the judgment of such official or body, consolidation is appropriate and consistent with the goals of fairness and economy of resources; and
 
-&emsp;&emsp;&emsp;(vi) include provisions and procedures to permit multiple covered entities to jointly assert claims of overcharges by the samemanufacturer for the same drug or drugs in one administrative proceeding, and permit such claims to be asserted on behalf of covered entities by associations or organizations representing the interests of such covered entities and of which the covered entities are members.
+&emsp;&emsp;&emsp;(vi) include provisions and procedures to permit multiple covered entities to jointly assert claims of overcharges by the same manufacturer for the same drug or drugs in one administrative proceeding, and permit such claims to be asserted on behalf of covered entities by associations or organizations representing the interests of such covered entities and of which the covered entities are members.
 
 #### (C) Finality of administrative resolution
 
@@ -248,7 +248,7 @@
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for fiscal year 2010 and each succeeding fiscal year.
+&emsp;There are authorized to be appropriated to carry out this subsection, such sums as maybe necessary for fiscal year 2010 and each succeeding fiscal year.
 
 #### (e) Exclusion of orphan drugs for certain covered entities
 
@@ -312,7 +312,7 @@ Inpatient drugs.—Clause (i) shall not apply to drugs purchased for inpatient u
 
 Exceptions.—The Secretary shall establish reasonable exceptions to clause (i)—
 
-&emsp;"(I) with respect to a covered outpatient drug that is unavailable to be purchased through the programunder this section due to a drug shortage problem, manufacturer noncompliance, or any other circumstance beyond the hospital's control;
+&emsp;"(I) with respect to a covered outpatient drug that is unavailable to be purchased through the program under this section due to a drug shortage problem, manufacturer noncompliance, or any other circumstance beyond the hospital's control;
 
 &emsp;"(II) to facilitate generic substitution when a generic covered outpatient drug is available at a lower price; or
 
@@ -320,7 +320,7 @@ Exceptions.—The Secretary shall establish reasonable exceptions to clause (i)�
 
 "(iv)
 
-Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer, and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
+Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer,and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
 
 Pub. L. 111–148, §7101(c)(2)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 

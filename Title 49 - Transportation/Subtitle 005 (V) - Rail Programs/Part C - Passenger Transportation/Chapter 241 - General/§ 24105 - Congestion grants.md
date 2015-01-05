@@ -20,7 +20,7 @@ Federal Share.—The Federal share of the cost of a project financed under this 
 
 (d)
 
-Grant Conditions.—The Secretary of Transportation shall require each recipient of a grant under this section to comply with the grant requirements of section 24405 of this title.
+Grant Conditions.—The Secretary of Transportation shall require each recipient of agrant under this section to comply with the grant requirements of section 24405 of this title.
 
 (e)
 

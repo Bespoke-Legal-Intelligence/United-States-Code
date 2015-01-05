@@ -20,7 +20,7 @@ If the parties to the Agreement do not approve the joint management committee's 
 
 &emsp;(2) base the total allowable catch on the best scientific information available;
 
-&emsp;(3) use the default harvest rate set out in paragraph 1 of Article III of the Agreement unless the Secretary determines that the scientific evidence demonstrates that a different rate is necessary to sustain the offshore whiting resource; and
+&emsp;(3) use the default harvest rate set out in paragraph 1 of Article III of the Agreement unless the Secretary determines that the scientific evidence demonstrates that a differentrate is necessary to sustain the offshore whiting resource; and
 
 &emsp;(4) establish the United State's <sup>1</sup> share of the total allowable catch based on paragraph 2 of Article III of the Agreement and make any adjustments necessary under section 5 of Article II of the Agreement.
 

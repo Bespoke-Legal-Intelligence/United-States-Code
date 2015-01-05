@@ -66,7 +66,7 @@ An individual who is a member of the Council is not ineligible for appointment a
 
 #### (3) Vacancies
 
-&emsp;Any vacancy on the Task Force shall be filled in the manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office.
+&emsp;Any vacancy on the Task Force shall be filled in the manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serveafter the expiration of his term until his successor has taken office.
 
 #### (f) Transaction of business
 
@@ -118,7 +118,7 @@ At such time as the program is expanded to include portions of the Klamath River
 
 &emsp;(2) A representative of the Klamath Tribe, who shall be appointed by the governing body of the Tribe.
 
-(Pub. L. 99–552, §4, Oct. 27, 1986, 100 Stat. 3084; Pub. L. 100–580, §12(a), Oct. 31, 1988, 102 Stat.2935; Pub. L. 100–653, title VI, §§601, 602(b), 603(1), Nov. 14, 1988, 102 Stat. 3829, 3830; Pub. L. 102–570, §2, Oct. 29, 1992, 106 Stat. 4490.)
+(Pub. L. 99–552, §4, Oct. 27, 1986, 100 Stat. 3084; Pub. L. 100–580, §12(a), Oct. 31, 1988, 102 Stat. 2935; Pub. L. 100–653, title VI, §§601, 602(b), 603(1), Nov. 14, 1988, 102 Stat. 3829, 3830; Pub. L. 102–570, §2, Oct. 29, 1992, 106 Stat. 4490.)
 
 #### Amendments
 

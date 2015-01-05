@@ -1,0 +1,92 @@
+### §3511. Certified professional employer organizations
+
+#### (a) General rules
+
+For purposes of the taxes, and other obligations, imposed by this subtitle—
+
+&emsp;(1) a certified professional employer organization shall be treated as the employer (and no other person shall be treated as the employer) of any work site employee performing services for any customer of such organization, but only with respect to remuneration remitted by such organization to such work site employee, and
+
+&emsp;(2) the exemptions, exclusions, definitions, and other rules which are based on type of employer and which would (but for paragraph (1)) apply shall apply with respect to such taxes imposed on such remuneration.
+
+#### (b) Successor employer status
+
+For purposes of sections 3121(a)(1), 3231(e)(2)(C), and 3306(b)(1)—
+
+&emsp;(1) a certified professional employer organization entering into a service contract with a customer with respect to a work site employee shall be treated as a successor employer and the customer shall be treated as a predecessor employer during the term of such service contract, and
+
+&emsp;(2) a customer whose service contract with a certified professional employer organization is terminated with respect to a work site employee shall be treated as a successor employer and the certified professional employer organization shall be treated as a predecessor employer.
+
+#### (c) Liability of certified professional employer organization
+
+Solely for purposes of its liability for the taxes and other obligations imposed by this subtitle—
+
+&emsp;(1) a certified professional employer organization shall be treated as the employer of any individual (other than a work site employee or a person described in subsection (f)) who is performing services covered by a contract meeting the requirements of section 7705(e)(2), but only with respect to remuneration remitted by such organization to such individual, and
+
+&emsp;(2) the exemptions, exclusions, definitions, and other rules which are based on type of employer and which would (but for paragraph (1)) apply shall apply with respect to such taxes imposed on such remuneration.
+
+#### (d) Treatment of credits
+
+#### (1) In general
+
+&emsp;For purposes of any credit specified in paragraph (2)—
+
+&emsp;&emsp;(A) such credit with respect to a work site employee performing services for the customer applies to the customer, not the certified professional employer organization,
+
+&emsp;&emsp;(B) the customer, and not the certified professional employer organization, shall take into account wages and employment taxes—
+
+&emsp;&emsp;&emsp;(i) paid by the certified professional employer organization with respect to the work site employee, and
+
+&emsp;&emsp;&emsp;(ii) for which the certified professional employer organization receives payment from the customer, and
+
+&emsp;&emsp;(C) the certified professional employer organization shall furnish the customer and the Secretary with any information necessary for the customer to claim such credit.
+
+#### (2) Credits specified
+
+&emsp;A credit is specified in this paragraph if such credit is allowed under—
+
+&emsp;&emsp;(A) section 41 (credit for increasing research activity),
+
+&emsp;&emsp;(B) section 45A (Indian employment credit),
+
+&emsp;&emsp;(C) section 45B (credit for portion of employer social security taxes paid with respect to employee cash tips),
+
+&emsp;&emsp;(D) section 45C (clinical testing expenses for certain drugs for rare diseases or conditions),
+
+&emsp;&emsp;(E) section 45R (employee health insurance expenses of small employers),
+
+&emsp;&emsp;(F) section 51 (work opportunity credit),
+
+&emsp;&emsp;(G) section 1396 (empowerment zone employment credit), and
+
+&emsp;&emsp;(H) any other section as provided by the Secretary.
+
+#### (e) Special rule for related party
+
+This section shall not apply in the case of a customer which bears a relationship to a certified professional employer organization described in section 267(b) or 707(b). For purposes of the preceding sentence, such sections shall be applied by substituting "10 percent" for "50 percent".
+
+#### (f) Special rule for certain individuals
+
+For purposes of the taxes imposed under this subtitle, an individual with net earnings from self-employment derived from the customer's trade or business (including a partner in a partnership that is a customer) is not a work site employee with respect to remuneration paid by a certified professional employer organization.
+
+#### (g) Reporting requirements and obligations
+
+The Secretary shall develop such reporting and recordkeeping rules, regulations, and procedures as the Secretary determines necessary or appropriate to ensure compliance with this title by certified professional employer organizations or persons that have been so certified. Such rules shall include—
+
+&emsp;(1) notification of the Secretary in such manner as the Secretary shall prescribe in the case of the commencement or termination of a service contract described in section 7705(e)(2) between such a person and a customer, and the employer identification number of such customer,
+
+&emsp;(2) such information as the Secretary determines necessary for the customer to claim thecredits identified in subsection (d) and the manner in which such information is to be provided, as prescribed by the Secretary, and
+
+&emsp;(3) such other information as the Secretary determines is essential to promote compliance with respect to the credits identified in subsection (d) and section 3302, and
+
+> shall be designed in a manner which streamlines, to the extent possible, the application of requirements of this section and section 7705, the exchange of information between a certified professional employer organization and its customers, and the reporting and recordkeeping obligations of the certified professional employer organization.
+
+#### (h) Regulations
+
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+(Added Pub. L. 113–295, div. B, title II, §206(a), Dec. 19, 2014, 128 Stat. 4065.)
+
+#### Effective Date
+
+Section applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 3302 of this title.
+

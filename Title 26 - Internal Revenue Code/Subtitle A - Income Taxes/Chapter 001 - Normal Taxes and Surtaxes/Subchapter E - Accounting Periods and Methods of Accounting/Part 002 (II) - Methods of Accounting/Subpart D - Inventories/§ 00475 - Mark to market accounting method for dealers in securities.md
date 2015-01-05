@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Hedge
 
-&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
+&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expectedto become a hedge within 60 days after the acquisition of the position.
 
 #### (4) Special rules for certain receivables
 

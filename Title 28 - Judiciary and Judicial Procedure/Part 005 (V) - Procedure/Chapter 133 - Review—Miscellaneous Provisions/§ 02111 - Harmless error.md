@@ -8,5 +8,5 @@ On the hearing of any appeal or writ of certiorari in any case, the court shall 
 
 #### 1949 Act
 
-Incorporates in title 28, U.S.C., as section 2111 thereof, the harmless error provisions of section 269 of theJudicial Code (now repealed), which applied to all courts of the United States and to all cases therein and therefore was superseded only in part by the Federal Procedural Rules, which apply only to the United States district courts.
+Incorporates in title 28, U.S.C., as section 2111 thereof, the harmless error provisions of section 269 of the Judicial Code (now repealed), which applied to all courts of the United States and to all cases therein and therefore was superseded only in part by the Federal Procedural Rules, which apply only to the United States district courts.
 

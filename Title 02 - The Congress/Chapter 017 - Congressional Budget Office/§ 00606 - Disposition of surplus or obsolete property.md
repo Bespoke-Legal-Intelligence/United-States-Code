@@ -2,7 +2,7 @@
 
 (a) The Director of the Congressional Budget Office shall have the authority, within the limits of available appropriations, to dispose of surplus or obsolete personal property by inter-agency transfer, donation, sale, trade-in, or discarding. Amounts received for the sale or trade-in of personal property shall be credited to funds available for the operations of the Congressional Budget Office and be available for the costs of acquiring the same or similar property. Such funds shall be available for such purposes during the fiscal year in which received and the following fiscal year.
 
-(b) Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
+(b) Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
 (Pub. L. 104–197, title I, §105, Sept. 16, 1996, 110 Stat. 2404; Pub. L. 107–68, title I, §126, Nov. 12, 2001, 115 Stat. 577.)
 
@@ -22,5 +22,5 @@ Pub. L. 103–69, title I, Aug. 11, 1993, 107 Stat. 701.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–68 substituted “sale, trade-in, or discarding” for “or discarding” and inserted at end “Amounts received for the sale or trade-in of personal property shall be credited to funds available for the operations of the Congressional Budget Office and be available for the costs of acquiring the same or similar property. Such funds shall be available for such purposes during the fiscal year in which received and the following fiscal year.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–68 substituted "sale, trade-in, or discarding" for "or discarding" and inserted at end "Amounts received for the sale or trade-in of personal property shall be credited to funds available for the operations of the Congressional Budget Office and be available for the costs of acquiring the same or similar property. Such funds shall be available for such purposes during the fiscal year in which received and the following fiscal year."
 

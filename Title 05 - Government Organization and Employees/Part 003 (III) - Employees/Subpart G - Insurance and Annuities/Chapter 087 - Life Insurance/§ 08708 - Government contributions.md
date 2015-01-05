@@ -20,7 +20,7 @@
 
 &emsp;(A) first becomes an annuitant by reason of retirement from employment with the United States Postal Service after December 31, 1989; or
 
-&emsp;(B) commences receiving compensation under subchapter I of chapter 81 of this title\(because of disease or injury to the individual) after December 31, 1989, if the position last held by the individual before commencing to receive such compensation was within the United States Postal Service.
+&emsp;(B) commences receiving compensation under subchapter I of chapter 81 of this title (because of disease or injury to the individual) after December 31, 1989, if the position last held by the individual before commencing to receive such compensation was within the United States Postal Service.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, §403, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–303, §2, May 29, 1990, 104 Stat. 250; Pub. L. 104–186, title II, §215(18), Aug. 20, 1996, 110 Stat. 1746.)
 
@@ -44,17 +44,17 @@ Aug. 17, 1954, ch. 752, §5(b), 68 Stat. 738.
 
 2 U.S.C. 128.
 
-Aug. 5, 1955, ch. 568, §101 (4th par. under “Administrative Provisions”), 69 Stat. 513.
+Aug. 5, 1955, ch. 568, §101 (4th par. under "Administrative Provisions"), 69 Stat. 513.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may contribute the sum required by subsection (a) of this section from the applicable accounts of the House of Representatives.” for “Clerk of the House of Representatives, the Clerk may contribute the sum required by subsection (a) of this section from the contingent fund of the House.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–186 substituted "Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may contribute the sum required by subsection (a) of this section from the applicable accounts of the House of Representatives." for "Clerk of the House of Representatives, the Clerk may contribute the sum required by subsection (a) of this section from the contingent fund of the House."
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–303 added subsec. (d).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–206 substituted provisions setting the sum to be withheld at one-half the amount withheld from the pay of the employee under section 8707 of this title for provisions setting the sum to be withheld at a rate to be determined by the Commission not to exceed one-half of the amount withheld under section 8707 of this title.
 

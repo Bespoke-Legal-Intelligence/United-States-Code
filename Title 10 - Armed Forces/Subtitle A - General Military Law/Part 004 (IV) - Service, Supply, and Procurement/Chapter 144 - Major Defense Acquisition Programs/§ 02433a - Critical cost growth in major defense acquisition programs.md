@@ -82,7 +82,7 @@ Actions if Program Not Terminated.—(1) If the Secretary elects not to terminat
 
 (d)
 
-Actions if Program Terminated.—If a major defense acquisition program is terminated pursuant to subsection (b), the Secretary shall submit to Congress a written report setting forth—
+Actions if Program Terminated.—If a major defense acquisition program is terminated pursuant to subsection (b), the Secretary shallsubmit to Congress a written report setting forth—
 
 &emsp;(1) an explanation of the reasons for terminating the program;
 

@@ -148,7 +148,7 @@ Preservation of capital.—An interest credit (or an equivalent amount) of less 
 
 &emsp;&emsp;&emsp;(III)
 
-Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any suchlaw) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
+Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
 
 &emsp;&emsp;(ii)
 
@@ -294,7 +294,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;&emsp;(iii) is discontinued once the individual becomes eligible for an immediate and unreduced pension.
 
-&emsp;(D) For purposes of this paragraph and solely in order to make the deduction authorized under this paragraph, the term "retiree health benefits" means benefits provided pursuant toa group health plan covering retirees, for which (determined as of the contingent event unrelated to age)—
+&emsp;(D) For purposes of this paragraph and solely in order to make the deduction authorized under this paragraph, the term "retiree health benefits" means benefits provided pursuant to a group health plan covering retirees, for which (determined as of the contingent event unrelated to age)—
 
 &emsp;&emsp;(i) the package of benefits provided by the employer for the retirees who are below age 65 is at least comparable to benefits provided under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.);
 
@@ -320,7 +320,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 #### (m) Voluntary retirement incentive plans
 
-Notwithstanding subsection (f)(2)(B) of this section, it shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
+Notwithstanding subsection (f)(2)(B) of this section, it shall not be a violation of subsection\(a), (b), (c), or (e) of this section solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
 
 &emsp;(1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
 
@@ -338,7 +338,7 @@ Section 1054(g)(2)(A) of this title, referred to in subsec. (i)(10)(F), was in t
 
 Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
 
-The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Actare classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -414,7 +414,7 @@ Pub. L. 110–458, title I, §123(b), Dec. 23, 2008, 122 Stat. 5114, provided th
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 701(c) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005,special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 701(c) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1998 Amendment
 
@@ -572,7 +572,7 @@ Applicability to Employees with Service after 1988.—
 
 &emsp;"(1)
 
-In general.—The amendments made by sections 9201 and 9202 \[amending this section, section 1054 of this title, and section 411 of Title 26, Internal Revenue Code\] shall apply only with respect to plan years beginning on or after January 1, 1988, and only to employees who have 1 hour of service in any plan year to which such amendments apply.
+In general.—The amendments made by sections 9201 and 9202 \[amending this section, section 1054 of this title, and section 411 of Title 26, Internal Revenue Code\] shall apply only with respect to plan years beginning on or after January 1, 1988, and onlyto employees who have 1 hour of service in any plan year to which such amendments apply.
 
 &emsp;"(2)
 

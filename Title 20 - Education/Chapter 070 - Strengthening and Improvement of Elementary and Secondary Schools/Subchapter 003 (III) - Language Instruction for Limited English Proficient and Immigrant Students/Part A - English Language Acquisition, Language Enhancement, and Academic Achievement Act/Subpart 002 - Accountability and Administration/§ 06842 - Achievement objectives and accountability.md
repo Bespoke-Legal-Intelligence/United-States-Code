@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(iii) making adequate yearly progress for limited English proficient children as described in section 6311(b)(2)(B) of this title; and
 
-&emsp;&emsp;(B) at the discretion of the agency, may include the number or percentage of children not receiving waivers for reading or language arts assessments under section6311(b)(3)(C) of this title, but this achievement objective shall not be applied to an eligible entity that, in a given school year—
+&emsp;&emsp;(B) at the discretion of the agency, may include the number or percentage of children not receiving waivers for reading or language arts assessments under section 6311(b)(3)(C) of this title, but this achievement objective shall not be applied to an eligible entity that, in a given school year—
 
 &emsp;&emsp;&emsp;(i) has experienced a large increase in limited English proficient children or immigrant children and youth;
 
@@ -42,7 +42,7 @@
 
 #### (2) Improvement plan
 
-&emsp;If a State educational agency determines, based on the annual measurable achievement objectives described in subsection (a) of this section, that an eligible entity has failed to make progress toward meeting such objectives for 2 consecutive years, the agency shall require the entity to develop an improvement plan that will ensure that the entity meets such objectives. The improvement plan shall specifically address the factors that prevented the entity from achieving such objectives.
+&emsp;If a State educational agency determines, based on the annual measurable achievement objectives described in subsection (a) of this section, that an eligible entity has failed to make progress toward meeting such objectivesfor 2 consecutive years, the agency shall require the entity to develop an improvement plan that will ensure that the entity meets such objectives. The improvement plan shall specifically address the factors that prevented the entity from achieving such objectives.
 
 #### (3) Technical assistance
 

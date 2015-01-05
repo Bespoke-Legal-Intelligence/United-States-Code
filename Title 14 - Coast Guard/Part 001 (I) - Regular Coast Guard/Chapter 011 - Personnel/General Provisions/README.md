@@ -13,3 +13,4 @@
 - [&sect; 00425 - Board for Correction of Military Records deadline](%C2%A7%2000425%20-%20Board%20for%20Correction%20of%20Military%20Records%20deadline.md)
 - [&sect; 00426 - Emergency leave retention authority](%C2%A7%2000426%20-%20Emergency%20leave%20retention%20authority.md)
 - [&sect; 00427 - Prohibition of certain involuntary administrative separations](%C2%A7%2000427%20-%20Prohibition%20of%20certain%20involuntary%20administrative%20separations.md)
+- [&sect; 00428 - Sea service letters](%C2%A7%2000428%20-%20Sea%20service%20letters.md)

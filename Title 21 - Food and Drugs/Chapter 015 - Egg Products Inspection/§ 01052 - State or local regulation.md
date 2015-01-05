@@ -28,7 +28,7 @@ The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted "(2) with respect to egg handlers specified in paragraphs (1) and (2) of section 1034(e) of this title, no State or local jurisdiction may impose temperature requirements pertaining to eggs packaged for the ultimate consumer which are in addition to, or different from, Federal requirements, and (3)" for "and (2)".
+<b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted "(2) with respect to egg handlers specified in paragraphs (1) and (2) of section 1034(e) of this title, no State or local jurisdiction may impose temperature requirements pertaining to eggs packaged for the ultimate consumer whichare in addition to, or different from, Federal requirements, and (3)" for "and (2)".
 
 #### Change of Name
 

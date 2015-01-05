@@ -10,7 +10,7 @@ No charge shall be made by any ship or station in the mobile service of the Unit
 
 #### (c) Reimbursement by Commission
 
-The transmission by any ship of the United States, made in compliance with subsection (a) of this section, to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursement out of moneys appropriated to the Commission for that purpose.
+The transmission by any ship of the United States, made in compliance with subsection (a)of this section, to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursement out of moneys appropriated to the Commission for that purpose.
 
 #### (d) Charges for transmission of distress messages
 

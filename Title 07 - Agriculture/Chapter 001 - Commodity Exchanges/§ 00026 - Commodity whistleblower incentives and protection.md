@@ -128,7 +128,7 @@ No contract with the Commission is necessary for any whistleblower to receive an
 
 #### (1) In general
 
-&emsp;Any determination made under this section, including whether, to whom, or in whatamount to make awards, shall be in the discretion of the Commission.
+&emsp;Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Commission.
 
 #### (2) Appeals
 
@@ -220,7 +220,7 @@ No contract with the Commission is necessary for any whistleblower to receive an
 
 #### (i) Cause of action
 
-&emsp;&emsp;&emsp;An individual who alleges discharge or other discrimination in violation of subparagraph (A) may bring an action under this subsection in the appropriate district court of the United States for the relief provided in subparagraph (C), unless the individual who is alleging discharge or other discrimination in violation of subparagraph (A) is an employee of the Federal Government, in which case the individual shall only bring an action under section 1221 of title 5.
+&emsp;&emsp;&emsp;An individual who alleges discharge or other discrimination in violation of subparagraph (A) may bring an action under this subsection in the appropriate district court of the United States for the reliefprovided in subparagraph (C), unless the individual who is alleging discharge or other discrimination in violation of subparagraph (A) is an employee of the Federal Government, in which case the individual shall only bring an action under section 1221 of title 5.
 
 #### (ii) Subpoenas
 

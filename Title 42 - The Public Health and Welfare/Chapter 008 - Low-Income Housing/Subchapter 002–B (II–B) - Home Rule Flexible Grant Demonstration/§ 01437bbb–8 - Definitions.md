@@ -6,7 +6,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;The term "jurisdiction" means—
 
-&emsp;&emsp;(A) a unit of general local government (as such term is defined in section 12704 of this title) that has boundaries, for purposes of carrying out this subchapter, that—
+&emsp;&emsp;(A) a unit of general local government (as such term is defined in section 12704 of thistitle) that has boundaries, for purposes of carrying out this subchapter, that—
 
 &emsp;&emsp;&emsp;(i) wholly contain the area within which a public housing agency is authorized to operate; and
 

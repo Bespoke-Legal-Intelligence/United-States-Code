@@ -14,7 +14,7 @@
 
 (c)(1) In approving an application under subsection (b) of this section, the Board shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11326(a) of title 49.
 
-(2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
+(2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment ofemployee protection which might have existed in the absence of this subsection.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, §227(b), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943; Pub. L. 109–8, title XII, §1218, Apr. 20, 2005, 119 Stat. 195.)
 
@@ -34,7 +34,7 @@ Section 1170 adds to the general provisions required or permitted in reorganizat
 
 Section 1171 imposes on the court, rather than the Interstate Commerce Commission, as in present section 77 \[section 205 of former title 11\], the responsibility for the plan of reorganization. The Commission is empowered to make final decisions subject only to review by the court under the standards of the Administrative Procedure Act \[5 U.S.C. 551 et seq. and 701 et seq.\] as to any part of the plan which deals with transportation matters, such as the grant of operating rights of or over, or transfer of, the debtor's rail lines to other carriers.
 
-Subsection (a) requires the trustee to file a plan of reorganization within 18 months after the petition is filed, and permits the court, for good cause shown, to extend such time limit. Subsection (b) permits a plan to be proposed by any interested person, and permitsthe trustee to revise his plan at any time before it is approved by the court.
+Subsection (a) requires the trustee to file a plan of reorganization within 18 months after the petition is filed, and permits the court, for good cause shown, to extend such time limit. Subsection (b) permits a plan to be proposed by any interested person, and permits the trustee to revise his plan at any time before it is approved by the court.
 
 Subsections (c), (d) and (e) require the court, when a plan is submitted by the trustee or, if the court deems it worthy of consideration, a plan submitted is proposed by any other person proposes the transfer of, or operation of or over, any of the debtor's lines by other carriers, to refer to such provisions of the plan to the Interstate Commerce Commission. The Commission, within 240 days, and after a hearing if the Commission so determines, is to report to the court the effects of such provisions of the plan in the light of national transportation policy and sections 5(3)(f)(A), (B), and (D), (F)–(I) of the Interstate Commerce Act \[49 U.S.C. 11350(b)(1), (2), (4), (6)–(9)\]. The report of the Commission is conclusive in all further hearings on the plan by the court, subject only to review pursuant to 5 U.S.C. 706(2)(A)–(D).
 

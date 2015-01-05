@@ -68,9 +68,9 @@ Pub. L. 103–359, title VI, §604, Oct. 14, 1994, 108 Stat. 3433, provided that
 
 &emsp;"(1)
 
-Intelligence committees.—The term 'intelligence committees' means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+Intelligence committees.—The term 'intelligence committees' means the Permanent SelectCommittee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 &emsp;"(2)
 
-Intelligence community.—The term 'intelligence community' has the same meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))."
+Intelligence community.—The term 'intelligence community' has the same meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4) \[now 50 U.S.C. 3003(4)\])."
 

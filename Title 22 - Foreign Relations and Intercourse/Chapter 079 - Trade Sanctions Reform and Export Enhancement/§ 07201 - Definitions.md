@@ -16,17 +16,15 @@ In this chapter:
 
 &emsp;&emsp;(C) any program administered under the Agricultural Trade Act of 1978 (7 U.S.C. 5601 et seq.);
 
-&emsp;&emsp;(D) the dairy export incentive program administered under section 713a–14 of title 15;
+&emsp;&emsp;(D) any commercial export sale of agricultural commodities; or
 
-&emsp;&emsp;(E) any commercial export sale of agricultural commodities; or
-
-&emsp;&emsp;(F) any export financing (including credits or credit guarantees) provided by the United States Government for agricultural commodities.
+&emsp;&emsp;(E) any export financing (including credits or credit guarantees) provided by the United States Government for agricultural commodities.
 
 #### (3) Joint resolution
 
 &emsp;The term "joint resolution" means—
 
-&emsp;&emsp;(A) in the case of section 7202(a)(1) of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7202(a)(1) of this title is received by Congress, the matter after the resolving clause of which is as follows: "That Congress approves the report of the President pursuant to section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.", with the blank completed with the appropriate date; and
+&emsp;&emsp;(A) in the case of section 7202(a)(1) of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7202(a)(1) of this title is received by Congress, the matter after the resolving clause of which is as follows: "ThatCongress approves the report of the President pursuant to section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.", with the blank completed with the appropriate date; and
 
 &emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: "That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.", with the blank completed with the appropriate date.
 
@@ -54,7 +52,7 @@ In this chapter:
 
 &emsp;&emsp;(B) a mandatory decision of the United Nations Security Council.
 
-(Pub. L. 106–387, §1(a) \[title IX, §902\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(X), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 106–387, §1(a) \[title IX, §902\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(X), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 113–79, title I, §1423(b), Feb. 7, 2014, 128 Stat. 695.)
 
 #### References in Text
 
@@ -67,6 +65,8 @@ Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 20
 Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(B), is section 1(a) \[title IX, §906\] of Pub. L. 106–387, which is classified to section 7205 of this title. Provisions relating to report of the President and enactment into law of a joint resolution are contained in section 905 of the Act, which is classified to section 7204 of this title.
 
 #### Amendments
+
+<b>2014</b>—Par. (2)(D)–(F). Pub. L. 113–79 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: "the dairy export incentive program administered under section 713a–14 of title 15;".
 
 <b>2008</b>—Par. (2)(A). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 

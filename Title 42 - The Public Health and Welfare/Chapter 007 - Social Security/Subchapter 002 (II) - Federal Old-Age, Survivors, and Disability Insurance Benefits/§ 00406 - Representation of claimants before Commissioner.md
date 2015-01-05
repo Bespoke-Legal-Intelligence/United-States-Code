@@ -28,7 +28,7 @@
 
 > the Commissioner of Social Security may approve such agreement only if the total fee or fees specified in such agreement does not exceed, in the aggregate, the dollar amount in effect under subparagraph (A)(ii)(II).
 
-(D) In the case of a claim with respect to which the Commissioner of Social Security has approved an agreement pursuant to subparagraph (A), the Commissioner of Social Security shall provide the claimant and the person representing the claimant a written notice of—
+(D) In the case of a claim with respect to which the Commissioner of Social Security hasapproved an agreement pursuant to subparagraph (A), the Commissioner of Social Security shall provide the claimant and the person representing the claimant a written notice of—
 
 &emsp;(i) the dollar amount of the past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title) and the dollar amount of the past-due benefits payable to the claimant,
 
@@ -88,7 +88,7 @@ The Commissioner of Social Security shall notify each claimant in writing, toget
 
 #### (3) Collection
 
-&emsp;The Commissioner may collect the assessment imposed on an attorney under paragraph (1) by offset from the amount of the fee otherwise required by subsection (a)(4) or (b)(1) ofthis section to be certified for payment to the attorney from a claimant's past-due benefits.
+&emsp;The Commissioner may collect the assessment imposed on an attorney under paragraph (1) by offset from the amount of the fee otherwise required by subsection (a)(4) or (b)(1) of this section to be certified for payment to the attorney from a claimant's past-due benefits.
 
 #### (4) Prohibition on claimant reimbursement
 
@@ -116,7 +116,7 @@ The Commissioner of Social Security shall notify each claimant in writing, toget
 
 &emsp;(D) The representative has undergone a criminal background check to ensure the representative's fitness to practice before the Commissioner.
 
-&emsp;(E) The representative demonstrates ongoing completion of qualified courses of continuing education, including education regarding ethics and professional conduct, which are designed to enhance professional knowledge in matters related to entitlement to, or eligibility for, benefits based on disability under this subchapter and subchapter XVI. Such continuing education, and the instructors providing such education, shall meet such standards as the Commissioner may prescribe.
+&emsp;(E) The representative demonstrates ongoing completion of qualified courses of continuing education, including education regarding ethics and professional conduct, which are designed to enhance professional knowledge in matters related to entitlement to, or eligibility for, benefits based on disability underthis subchapter and subchapter XVI. Such continuing education, and the instructors providing such education, shall meet such standards as the Commissioner may prescribe.
 
 (3)(A) The Commissioner may assess representatives reasonable fees to cover the cost to the Social Security Administration of administering the prerequisites described in paragraph (2).
 
@@ -134,7 +134,7 @@ Section 301 of the Social Security Protection Act of 2003, referred to in subsec
 
 <b>2010</b>—Subsec. (e). Pub. L. 111–142 added subsec. (e).
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–203, §205, inserted "Notwithstanding the preceding sentences, the Commissioner, after due notice and opportunity for hearing, (A) may refuse to recognize as a representative, and may disqualify a representative already recognized, any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice or who has been disqualified from participating in or appearing before any Federal program or agency, and (B) may refuse to recognize, and may disqualify, as a non-attorney representative any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice. A representative who has been disqualified or suspended pursuant to this section from appearing before the Social Security Administration as a result of collecting or receiving a fee in excess of the amount authorized shall be barred from appearing before the Social Security Administration as a representative until full restitution is made to the claimant and, thereafter, may be considered for reinstatement only under such rules as the Commissionermay prescribe." after "claimants before the Commissioner of Social Security.".
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–203, §205, inserted "Notwithstanding the preceding sentences, the Commissioner, after due notice and opportunity for hearing, (A) may refuse to recognize as a representative, and may disqualify a representative already recognized, any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice or who has been disqualified from participating in or appearing before any Federal program or agency, and (B) may refuse to recognize, and may disqualify, as a non-attorney representative any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice. A representative who has been disqualified or suspended pursuant to this section from appearing before the Social Security Administration as a result of collecting or receiving a fee in excess of the amount authorized shall be barred from appearing before the Social Security Administration as a representative until full restitution is made to the claimant and, thereafter, may be considered for reinstatement only under such rules as the Commissioner may prescribe." after "claimants before the Commissioner of Social Security.".
 
 Subsec. (d)(2)(A). Pub. L. 108–203, §301(a), inserted ", except that the maximum amount of the assessment may not exceed the greater of $75 or the adjusted amount as provided pursuant to the following two sentences" after "subparagraph (B)" and inserted at end "In the case of any calendar year beginning after the amendments made by section 301 of the Social Security Protection Act of 2003 take effect, the dollar amount specified in the preceding sentence (including a previously adjusted amount) shall be adjusted annually under the procedures used to adjust benefit amounts under section 415(i)(2)(A)(ii) of this title, except such adjustment shall be based on the higher of $75 or the previously adjusted amount that would have been in effect for December of the preceding year, but for the rounding of such amount pursuant to the following sentence. Any amount so adjusted that is not a multiple of $1 shall be rounded to the next lowest multiple of $1, but in no case less than $75."
 
@@ -166,7 +166,7 @@ Subsec. (b)(1)(A). Pub. L. 103–296, §107(a)(4), in subpar. (A) as designated 
 
 Subsec. (c). Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary" in two places.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2)(A), whenever" for "Whenever" in fifth sentence, substituted pars. (2) to (4) for "If as a result of such determination, such claimant is entitled to past-due benefits under this subchapter, the Secretary shall, notwithstanding section 405(i) of this title, certify for payment (out of such past-due benefits) to such attorney an amount equal to whichever of the following is the smaller: (A) 25 per centum of the total amount of such past-due benefits, (B) the amount of the attorney's fee so fixed, or (C) the amount agreed upon between the claimant and such attorney as the fee for such attorney's services.", and inserted "(5)" before "Any person who".
+<b>1990</b>—Subsec. (a). Pub. L. 101–508 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2)(A), whenever" for "Whenever" in fifth sentence, substituted pars. (2) to (4) for "If as a result of such determination, such claimant is entitled to past-due benefits under this subchapter, the Secretaryshall, notwithstanding section 405(i) of this title, certify for payment (out of such past-due benefits) to such attorney an amount equal to whichever of the following is the smaller: (A) 25 per centum of the total amount of such past-due benefits, (B) the amount of the attorney's fee so fixed, or (C) the amount agreed upon between the claimant and such attorney as the fee for such attorney's services.", and inserted "(5)" before "Any person who".
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §10307(a)(1), inserted at end "The Secretary shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Secretary, of the identity of any person representing such claimant in accordance with this subsection."
 
@@ -240,7 +240,7 @@ Standards for Inclusion in Demonstration Project.—Fee-withholding procedures m
 
 &emsp;"(4) The representative has undergone a criminal background check to ensure the representative's fitness to practice before the Commissioner.
 
-&emsp;"(5) The representative demonstrates ongoing completion of qualified courses of continuing education, including education regarding ethics and professional conduct, which are designed to enhance professional knowledge in matters related to entitlement to, or eligibility for, benefits based on disability under titles II and XVI of such Act. Such continuing education, and the instructors providing such education, shall meet such standards as the Commissioner may prescribe.
+&emsp;"(5) The representative demonstrates ongoing completion of qualified courses of continuing education, including education regarding ethics and professional conduct, which are designed to enhance professionalknowledge in matters related to entitlement to, or eligibility for, benefits based on disability under titles II and XVI of such Act. Such continuing education, and the instructors providing such education, shall meet such standards as the Commissioner may prescribe.
 
 "(c)
 

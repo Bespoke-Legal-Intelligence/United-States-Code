@@ -40,7 +40,7 @@ The Secretary, and each medicare contractor insofar as it provides services (inc
 
 #### (e) Encouragement of participation in education program activities
 
-A medicare contractor may not use a record of attendance at (or failure to attend) educationalactivities or other information gathered during an educational program conducted under this section or otherwise by the Secretary to select or track providers of services or suppliers for the purpose of conducting any type of audit or prepayment review.
+A medicare contractor may not use a record of attendance at (or failure to attend) educational activities or other information gathered during an educational program conducted under this section or otherwise by the Secretary to select or track providers of services or suppliers for the purpose of conducting any type of audit or prepayment review.
 
 #### (f) Construction
 
@@ -126,7 +126,7 @@ Description of Technical Assistance.—The technical assistance provided under t
 
 "(d) GAO
 
-Evaluation.—Not later than 2 years after the date the demonstration program is first implemented, the Comptroller General, in consultation with the Inspector General of the Department of Health and Human Services, shall conduct an evaluation of the demonstration program. The evaluation shall include a determination of whether claims error rates are reduced for small providers of services or suppliers whoparticipated in the program and the extent of improper payments made as a result of the demonstration program. The Comptroller General shall submit a report to the Secretary and the Congress on such evaluation and shall include in such report recommendations regarding the continuation or extension of the demonstration program.
+Evaluation.—Not later than 2 years after the date the demonstration program is first implemented, the Comptroller General, in consultation with the Inspector General of the Department of Health and Human Services, shall conduct an evaluation of the demonstration program. The evaluation shall include a determination of whether claims error rates are reduced for small providers of services or suppliers who participated in the program and the extent of improper payments made as a result of the demonstration program. The Comptroller General shall submit a report to the Secretary and the Congress on such evaluation and shall include in such report recommendations regarding the continuation or extension of the demonstration program.
 
 "(e)
 

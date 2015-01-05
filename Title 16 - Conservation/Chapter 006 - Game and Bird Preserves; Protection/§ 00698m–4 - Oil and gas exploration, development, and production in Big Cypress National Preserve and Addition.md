@@ -18,7 +18,7 @@ Any rule or regulation promulgated by the Secretary under subsection (a) of this
 
 &emsp;&emsp;(C) the National Park Service, within 30 days from the date of submission of such application, notifies the applicant that such application does not contain all information reasonably necessary to allow the National Park Service to consider such application and requests that such additional information be provided. After receipt of such notification to the applicant, the applicant shall supply any reasonably necessary additional information and shall advise the National Park Service that the applicant believes that the application contains all reasonably necessary information and is therefore complete, whereupon the National Park Service may—
 
-&emsp;&emsp;&emsp;(i) within 30 days of receipt of such notice from the applicant to the National Park Service determine that the application does not contain all reasonably necessary additional information and, on that basis, deny the application; or
+&emsp;&emsp;&emsp;(i) within 30 days of receipt of such notice from the applicant to the NationalPark Service determine that the application does not contain all reasonably necessary additional information and, on that basis, deny the application; or
 
 &emsp;&emsp;&emsp;(ii) review the application and take final action within 60 days from the date that the applicant provides notification to the National Park Service that its application is complete.
 

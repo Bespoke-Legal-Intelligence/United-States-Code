@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) as a result of such incentives, many small business concerns with economically sound financing needs are unable to obtain access to needed debt capital;
 
-&emsp;(6) the small business capital access programs implemented by certain States are a flexible and efficient tool to assist financial institutions in providing access to needed debt capital for many small business concerns in a manner consistent with safety and soundness regulations;
+&emsp;(6) the small business capital access programs implemented by certain States are a flexible and efficient tool to assist financial institutions in providing access to needed debt capital for many small business concerns in amanner consistent with safety and soundness regulations;
 
 &emsp;(7) a small business capital access program would complement other programs which assist small business concerns in obtaining access to capital; and
 
@@ -42,7 +42,7 @@ Pub. L. 103–325, title II, §261, Sept. 23, 1994, 108 Stat. 2214, provided tha
 
 #### Small Business Lending Fund
 
-Pub. L. 111–240, title IV, subtitle A, Sept. 27, 2010, 124 Stat. 2582, provided that:
+Pub. L. 111–240, title IV, subtitle A, Sept. 27, 2010, 124 Stat. 2582, as amended by Pub. L. 113–188, title IX, §901(e), Nov. 26, 2014, 128 Stat. 2020, provided that:
 
 #### "SEC. 4101. PURPOSE.
 
@@ -126,7 +126,7 @@ Eligible institution.—The term 'eligible institution' means—
 
 &emsp;&emsp;"(B) any bank holding company which has total consolidated assets of equal to or less than $10,000,000,000, as reported in the call report of the bank holding company as of the end of the fourth quarter of calendar year 2009;
 
-&emsp;&emsp;"(C) any savings and loan holding company which has total consolidated assets of equal to or less than $10,000,000,000, as reported in the call report of the savings and loan holding company as of the end of the fourth quarter of calendar year 2009; and
+&emsp;&emsp;"(C) any savings and loan holding company which has total consolidated assets of equal to or lessthan $10,000,000,000, as reported in the call report of the savings and loan holding company as of the end of the fourth quarter of calendar year 2009; and
 
 &emsp;&emsp;"(D) any community development financial institution loan fund which has total assets of equal to or less than $10,000,000,000, as reported in audited financial statements for the fiscal year of the community development financial institution loan fund that ends in calendar year 2009.
 
@@ -216,7 +216,7 @@ In general.—Subject to paragraph (2), the Fund shall be available to the Secre
 
 &emsp;"(2)
 
-Maximum purchase limit.—The aggregate amount of purchases (and commitments to purchase)made pursuant to paragraph (1) may not exceed $30,000,000,000.
+Maximum purchase limit.—The aggregate amount of purchases (and commitments to purchase) made pursuant to paragraph (1) may not exceed $30,000,000,000.
 
 &emsp;"(3)
 
@@ -446,7 +446,7 @@ Minimum underwriting standards.—The appropriate Federal banking agency for an 
 
 #### "SEC. 4104. ADDITIONAL AUTHORITIES OF THE SECRETARY.
 
-"The Secretary may take such actions as the Secretary deems necessary to carry out the authorities in this subtitle, including, without limitation, the following:
+"The Secretary may take such actions as the Secretary deems necessary to carry out the authorities inthis subtitle, including, without limitation, the following:
 
 &emsp;"(1) The Secretary may use the services of any agency or instrumentality of the United States or component thereof on a reimbursable basis, and any such agency or instrumentality or component thereof is authorized to provide services as requested by the Secretary using all authorities vested in or delegated to that agency, instrumentality, or component.
 
@@ -554,10 +554,6 @@ Inspector general.—The term 'Inspector General' means the Inspector General of
 
 "(c)
 
-GAO Audit.—The Comptroller General of the United States shall perform an annual audit of the Program and issue a report to the appropriate committees of Congress containing the results of such audit.
-
-"(d)
-
 Required Certifications.—
 
 &emsp;"(1)
@@ -568,7 +564,7 @@ Eligible institution certification.—Each eligible institution that participate
 
 Loan recipients.—With respect to funds received by an eligible institution under the Program, any business receiving a loan from the eligible institution using such funds after the date of the enactment of this Act \[Sept. 27, 2010\] shall certify to such eligible institution that the principals of such business have not been convicted of a sex offense against a minor (as such terms are defined in section 111 of the Sex Offender Registration and Notification Act (42 U.S.C. 16911)).
 
-"(e)
+"(d)
 
 Prohibition on Pornography.—None of the funds made available under this subtitle may be used to pay the salary of any individual engaged in activities related to the Program who has been officially disciplined for violations of subpart G of the Standards of Ethical Conduct for Employees of the Executive Branch for viewing, downloading, or exchanging pornography, including child pornography, on a Federal Government computer or while performing official Federal Government duties.
 
@@ -610,7 +606,7 @@ Change in Law.—If, after a capital investment has been made in an eligible ins
 
 "(a)
 
-Study.—The Secretary shall conduct a study of the impact of the Program on women-owned businesses,veteran-owned businesses, and minority-owned businesses.
+Study.—The Secretary shall conduct a study of the impact of the Program on women-owned businesses, veteran-owned businesses, and minority-owned businesses.
 
 "(b)
 

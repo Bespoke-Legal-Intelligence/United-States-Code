@@ -132,7 +132,7 @@ Pub. L. 111–137, §1(c), Feb. 1, 2010, 123 Stat. 3495, provided that:
 
 "(1)
 
-In general.—The amendments made by subsections (a) and (b) \[amending this section\] shall takeeffect on the date of the enactment of this Act \[Feb. 1, 2010\], and shall apply with respect to emergency treatment furnished on or after the date of the enactment of this Act.
+In general.—The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Feb. 1, 2010\], and shall apply with respect to emergency treatment furnished on or after the date of the enactment of this Act.
 
 "(2)
 

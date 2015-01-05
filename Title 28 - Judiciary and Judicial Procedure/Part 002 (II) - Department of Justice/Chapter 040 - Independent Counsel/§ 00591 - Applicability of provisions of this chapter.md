@@ -50,7 +50,7 @@ Factors to be considered.—In determining under subsection (a) or (c) (or secti
 
 &emsp;(2)
 
-Time period for making determination.—The Attorney General shall determine whether grounds to investigate exist not later than 30 days after the information is first received. If within that 30-day period the Attorney General determines that the information is not specific or is not from a credible source, then the Attorney General shall close the matter. If within that 30-day period the Attorney General determines that the information isspecific and from a credible source, the Attorney General shall, upon making that determination, commence a preliminary investigation with respect to that information. If the Attorney General is unable to determine, within that 30-day period, whether the information is specific and from a credible source, the Attorney General shall, at the end of that 30-day period, commence a preliminary investigation with respect to that information.
+Time period for making determination.—The Attorney General shall determine whether grounds to investigate exist not later than 30 days after the information is first received. If within that 30-day period the Attorney General determines that the information is not specific or is not from a credible source, then the Attorney General shall close the matter. If within that 30-day period the Attorney General determines that the information is specific and from a credible source, the Attorney General shall, upon making that determination, commence a preliminary investigation with respect to that information. If the Attorney General is unable to determine, within that 30-day period, whether the information is specific and from a credible source, the Attorney General shall, at the end of that 30-day period, commence a preliminary investigation with respect to that information.
 
 (e)
 
@@ -192,7 +192,7 @@ Pending Proceedings.—With respect to any proceeding under chapter 39 of title 
 
 &emsp;&emsp;"(H) The amendments made by section 3 of this Act \[amending sections 203 and 205 of Pub. L. 95–521, set out in Appendix to Title 5, and section 202 of Title 18\], relating to the status of independent counsel and their appointees as special government employees and to their financial disclosure requirements.
 
-&emsp;"(3) Section 594(j) of title 28, United States Code, as added by section 2 of this Act, relating to certainstandards of conduct shall, 90 days after the date of the enactment of this Act, apply to a pending proceeding described in this subsection."
+&emsp;"(3) Section 594(j) of title 28, United States Code, as added by section 2 of this Act, relating to certain standards of conduct shall, 90 days after the date of the enactment of this Act, apply to a pending proceeding described in this subsection."
 
 #### Effective Date of 1984 Amendment
 

@@ -10,7 +10,7 @@ Any funds transferred under this section shall remain available for such purpose
 
 #### (c) Secretarial discretion
 
-The action of any officer, employee, or agent of the Secretary in carrying out this Act, including determining the amount of and makingany payment authorized to be made under this chapter, shall not be subject to a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+The action of any officer, employee, or agent of the Secretary in carrying out this Act, including determining the amount of and making any payment authorized to be made under this chapter, shall not be subject to a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
 (Pub. L. 106–224, title IV, §442, June 20, 2000, 114 Stat. 455; Pub. L. 107–171, title VII, §7504(b), May 13, 2002, 116 Stat. 466; Pub. L. 110–234, title X, §10203(b), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, §4(a), title X, §10203(b), June 18, 2008, 122 Stat. 1664, 2104.)
 

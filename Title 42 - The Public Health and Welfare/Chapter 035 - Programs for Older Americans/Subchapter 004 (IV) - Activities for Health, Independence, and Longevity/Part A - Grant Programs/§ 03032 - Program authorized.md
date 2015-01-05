@@ -30,7 +30,7 @@ For the purpose of carrying out this section, the Assistant Secretary may make g
 
 &emsp;(10) the development, implementation, and assessment of technology-based service models and best practices, to support the use of health monitoring and assessment technologies, communication devices, assistive technologies, and other technologies that may remotely connect family and professional caregivers to frail older individuals residing in home and community-based settings or rural areas;
 
-&emsp;(11) conducting activities of national significance to promote quality and continuous improvement in the support provided to family and other informal caregivers of older individuals through activities that include program evaluation, training, technical assistance, and research, including—
+&emsp;(11) conducting activities of national significance to promote quality and continuous improvement in the support provided to family and other informal caregivers of older individuals through activities that include programevaluation, training, technical assistance, and research, including—
 
 &emsp;&emsp;(A) programs addressing unique issues faced by rural caregivers;
 

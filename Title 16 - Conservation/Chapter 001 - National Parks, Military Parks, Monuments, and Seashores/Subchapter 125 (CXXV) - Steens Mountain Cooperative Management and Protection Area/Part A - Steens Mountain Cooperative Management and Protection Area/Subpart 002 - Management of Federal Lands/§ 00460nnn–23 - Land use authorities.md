@@ -26,7 +26,7 @@ The Secretary shall emphasize the restoration of the historic fire regime in the
 
 #### (2) Area and time limitations
 
-&emsp;After consultation with the Oregon Department of Fish and Wildlife, the Secretary maydesignate zones where, and establish periods when, hunting, trapping or fishing is prohibited on Federal lands included in the Cooperative Management and Protection Area for reasons of public safety, administration, or public use and enjoyment.
+&emsp;After consultation with the Oregon Department of Fish and Wildlife, the Secretary may designate zones where, and establish periods when, hunting, trapping or fishing is prohibited on Federal lands included in the Cooperative Management and Protection Area for reasons of public safety, administration, or public use and enjoyment.
 
 #### (e) Grazing
 

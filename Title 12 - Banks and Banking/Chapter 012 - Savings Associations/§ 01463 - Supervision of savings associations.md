@@ -14,7 +14,7 @@
 
 #### (2) Regulations for savings associations
 
-&emsp;The Comptroller may prescribe regulations with respect to savings associations, as the Comptroller determines to be appropriate to carry out the purposes of this chapter.
+&emsp;The Comptroller may prescribe regulations with respect to savings associations, as theComptroller determines to be appropriate to carry out the purposes of this chapter.
 
 #### (3) Safe and sound housing credit to be encouraged
 
@@ -78,7 +78,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 #### (B) Lottery
 
-&emsp;&emsp;The term "lottery" includes any arrangement under which—
+&emsp;&emsp;The term "lottery" includes any arrangement, other than a savings promotion raffle, under which—
 
 &emsp;&emsp;&emsp;(i) 3 or more persons (hereafter in this subparagraph referred to as the "participants") advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the "winners") will receive by reason of those participants' advances more than the amounts those participants have advanced; and
 
@@ -94,9 +94,13 @@ The savings accounts and share accounts of savings associations insured by the C
 
 &emsp;&emsp;The term "lottery ticket" includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
 
+#### (D) Savings promotion raffle
+
+&emsp;&emsp;The term "savings promotion raffle" means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 5481 of this title).
+
 #### (4) Exception for State lotteries
 
-&emsp;Paragraphs (1) and (2) shall not apply with respect to any savings association accepting funds from, or performing any lawful services for, any State operating a lottery, or any officer or employee of such a State who is charged with administering the lottery.
+&emsp;Paragraphs (1) and (2) shall not apply with respect to any savings association acceptingfunds from, or performing any lawful services for, any State operating a lottery, or any officer or employee of such a State who is charged with administering the lottery.
 
 #### (5) Regulations
 
@@ -120,7 +124,7 @@ No savings association shall—
 
 &emsp;(2) issue any securities the form of which has not been approved by the appropriate Federal banking agency.
 
-(June 13, 1933, ch. 64, §4, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 280; amended Pub. L. 111–203, title III, §369(4), July 21, 2010, 124 Stat. 1558.)
+(June 13, 1933, ch. 64, §4, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 280; amended Pub. L. 111–203, title III, §369(4), July 21, 2010, 124 Stat. 1558; Pub. L. 113–251, §3(d), Dec. 18, 2014, 128 Stat. 2889.)
 
 #### Prior Provisions
 
@@ -131,6 +135,10 @@ A prior section 1463a, act Apr. 27, 1934, ch. 168, §1(b), 48 Stat. 644, provide
 A prior section 1463b, act Apr. 27, 1934, ch. 168, §9, 48 Stat. 646, related to purchase of obligations of, and loans to, Federal Home Loan Banks, prior to repeal by act May 28, 1935, ch. 150, §17(b), 49 Stat. 297.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(3)(B). Pub. L. 113–251, §3(d)(1), inserted ", other than a savings promotion raffle," after "arrangement" in introductory provisions.
+
+Subsec. (e)(3)(D). Pub. L. 113–251, §3(d)(2), added subpar. (D).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §369(4)(A)(i), struck out "Federal" before "savings" in heading.
 

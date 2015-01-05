@@ -20,7 +20,7 @@ As used in this Act—
 
 > &emsp;within the meaning of Article 37 of the Vienna Convention;
 
-&emsp;(3) the term "mission" includes missions within the meaning of the Vienna Convention and any missions representing foreign governments, individually or collectively, which are extended the same privileges and immunities, pursuant to law, as are enjoyed by missions under the Vienna Convention; and
+&emsp;(3) the term "mission" includes missions within the meaning of the Vienna Convention and any missions representing foreign governments, individually or collectively, which areextended the same privileges and immunities, pursuant to law, as are enjoyed by missions under the Vienna Convention; and
 
 &emsp;(4) the term "Vienna Convention" means the Vienna Convention on Diplomatic Relations of April 18, 1961 (T.I.A.S. numbered 7502; 23 U.S.T. 3227), entered into force with respect to the United States on December 13, 1972.
 

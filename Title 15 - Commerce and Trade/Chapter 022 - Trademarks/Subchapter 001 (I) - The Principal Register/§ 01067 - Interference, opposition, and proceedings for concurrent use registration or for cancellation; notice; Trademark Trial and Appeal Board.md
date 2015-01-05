@@ -44,7 +44,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1980 Amendment; Board Membership as of October 15, 1980, Unaffected
 
-Pub. L. 96–455, §2, Oct. 15, 1980, 94 Stat. 2024, provided that: "This amendment \[amending this section\] shall become effective on the date of its enactment \[Oct. 15, 1980\]. Members of the Trademark Trial and Appeal Board on the date of enactment shall continue to be members under and in accordance with the provisions of section 17 of the Act of July 5, 1946, as amended \[this section\], in effect immediately preceding the date of enactment."
+Pub. L. 96–455, §2, Oct. 15, 1980, 94 Stat. 2024, provided that: "This amendment \[amending this section\] shallbecome effective on the date of its enactment \[Oct. 15, 1980\]. Members of the Trademark Trial and Appeal Board on the date of enactment shall continue to be members under and in accordance with the provisions of section 17 of the Act of July 5, 1946, as amended \[this section\], in effect immediately preceding the date of enactment."
 
 #### Effective Date of 1975 Amendment
 
@@ -60,7 +60,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Reorganization Plan No. 5 of 1950
 

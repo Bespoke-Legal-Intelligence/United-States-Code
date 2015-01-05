@@ -34,7 +34,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 &emsp;&emsp;(A) (and whose spouse) has had no ownership in a principal residence during the 3-year period ending on the date of purchase of the property with respect to which assistance payments are made under this subchapter;
 
-&emsp;&emsp;(B) is a displaced homemaker who, except for owning a home with his or her spouse orresiding in a home owned by the spouse, meets the requirements of subparagraph (A);
+&emsp;&emsp;(B) is a displaced homemaker who, except for owning a home with his or her spouse or residing in a home owned by the spouse, meets the requirements of subparagraph (A);
 
 &emsp;&emsp;(C) is a single parent who, except for owning a home with his or her spouse or residing in a home owned by the spouse while married, meets the requirements of subparagraph (A); or
 
@@ -68,7 +68,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (6) Maximum interest rate
 
-&emsp;The interest payable on the mortgage is established at a fixed rate that does not exceed a maximum rate of interest established by the Trust taking into consideration prevailing interest rates on similar mortgages.
+&emsp;The interest payable on the mortgage is established at a fixed rate that does not exceeda maximum rate of interest established by the Trust taking into consideration prevailing interest rates on similar mortgages.
 
 #### (7) Responsible mortgagee
 
@@ -102,7 +102,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (d) Allocation formula
 
-Amounts available in any fiscal year for assistance under this subchapter shall be allocatedfor homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
+Amounts available in any fiscal year for assistance under this subchapter shall be allocated for homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
 
 #### (e) Assistance in connection with housing financed with mortgage revenue bonds
 

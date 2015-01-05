@@ -64,7 +64,7 @@ Pub. L. 108–332, §2, Oct. 16, 2004, 118 Stat. 1282, provided that: "Congress 
 
 &emsp;"(8) The United States Government has strongly supported efforts to address anti-Semitism through bilateral relationships and interaction with international organizations such as the OSCE, the European Union, and the United Nations.
 
-&emsp;"(9) Congress has consistently supported efforts to address the rise in anti-Semitic violence. During the 107th Congress, both the Senate and the House of Representatives passed resolutions expressing strong concern with the sharp escalation of anti-Semitic violence in Europe and calling on the Department of State to thoroughly document the phenomenon.
+&emsp;"(9) Congress has consistently supported efforts to address the rise in anti-Semitic violence. During the 107th Congress, both the Senate and the House of Representatives passed resolutions expressing strongconcern with the sharp escalation of anti-Semitic violence in Europe and calling on the Department of State to thoroughly document the phenomenon.
 
 &emsp;"(10) Anti-Semitism has at times taken the form of vilification of Zionism, the Jewish national movement, and incitement against Israel."
 

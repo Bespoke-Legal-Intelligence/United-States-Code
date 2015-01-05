@@ -61,3 +61,4 @@ Part E—Miscellaneous Provisions
 - [&sect; 01395jjj - Shared savings program](%C2%A7%2001395jjj%20-%20Shared%20savings%20program.md)
 - [&sect; 01395kkk - Independent Payment Advisory Board](%C2%A7%2001395kkk%20-%20Independent%20Payment%20Advisory%20Board.md)
 - [&sect; 01395kkk&#8211;1 - GAO study and report on determination and implementation of payment and coverage policies under the Medicare program](%C2%A7%2001395kkk%E2%80%931%20-%20GAO%20study%20and%20report%20on%20determination%20and%20implementation%20of%20payment%20and%20coverage%20policies%20under%20the%20Medicare%20program.md)
+- [&sect; 01395lll - Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning](%C2%A7%2001395lll%20-%20Standardized%20post-acute%20care%20%28PAC%29%20assessment%20data%20for%20quality%2C%20payment%2C%20and%20discharge%20planning.md)

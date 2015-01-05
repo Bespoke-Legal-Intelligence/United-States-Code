@@ -62,7 +62,7 @@ Any person or other entity who is convicted of a violation of any of the provisi
 
 #### (d) Effect upon certification as payee; definitions
 
-Any individual or entity convicted of a felony under this section or under section 1383a(b) <sup>1</sup> of this title may not be certified as a payee under section 405(j) of this title. For the purpose of subsection (a)(7) of this section, the terms "social security number" and "social security account number" mean such numbers as are assigned by the Commissioner of Social Security under section 405(c)(2) of this title whether ornot, in actual use, such numbers are called social security numbers.
+Any individual or entity convicted of a felony under this section or under section 1383a(b) <sup>1</sup> of this title may not be certified as a payee under section 405(j) of this title. For the purpose of subsection (a)(7) of this section, the terms "social security number" and "social security account number" mean such numbers as are assigned by the Commissioner of Social Security under section 405(c)(2) of this title whether or not, in actual use, such numbers are called social security numbers.
 
 #### (e) Application of subsection (a)(6) and (7) to certain aliens
 
@@ -94,7 +94,7 @@ Any individual or entity convicted of a felony under this section or under secti
 
 #### References in Text
 
-Subchapter E of chapter 1 and subchapters A and E of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1), were comprised of sections 480–482, 1400–1432, and 1630–1636, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
+Subchapter E of chapter 1 and subchapters A and E of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1), were comprised of sections 480–482,1400–1432, and 1630–1636, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
 
 For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
 
@@ -128,7 +128,7 @@ Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" fo
 
 Subsec. (d)(2)(A). Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary".
 
-<b>1990</b>—Pub. L. 101–508, §5121, inserted "(a)" before "Whoever—", redesignated former subsecs. (a) to (h) as pars. (1) to (8), respectively, of subsec. (a), in pars. (1)and (7) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted "(b)" before "Any person or other entity who is convicted", inserted "(c)" before "Any individual or entity convicted of a felony", and added subsec. (d).
+<b>1990</b>—Pub. L. 101–508, §5121, inserted "(a)" before "Whoever—", redesignated former subsecs. (a) to (h) as pars. (1) to (8), respectively, of subsec. (a), in pars. (1) and (7) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted "(b)" before "Any person or other entity who is convicted", inserted "(c)" before "Any individual or entity convicted of a felony", and added subsec. (d).
 
 Pub. L. 101–508, §5130(a)(1), in the last undesignated paragraph substituted "section 405(c)(2) of this title" for "section 605(c)(2) of this title".
 

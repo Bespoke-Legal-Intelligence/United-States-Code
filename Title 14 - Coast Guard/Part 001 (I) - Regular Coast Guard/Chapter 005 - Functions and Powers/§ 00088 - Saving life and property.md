@@ -18,7 +18,7 @@
 
 &emsp;(1) guilty of a class D felony;
 
-&emsp;(2) subject to a civil penalty of not more than $5,000; and
+&emsp;(2) subject to a civil penalty of not more than $10,000; and
 
 &emsp;(3) liable for all costs the Coast Guard incurs as a result of the individual's action.
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) subject to a civil penalty of not more than $1,000 per day for each violation.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 501; Pub. L. 91–278, §1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, §30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, §401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, §213(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 112–213, title II, §201, Dec. 20, 2012, 126 Stat. 1543.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 501; Pub. L. 91–278, §1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, §30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, §401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, §213(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 112–213, title II, §201, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §205(a)(4), Dec. 18, 2014, 128 Stat. 3025.)
 
 #### Historical and Revision Notes
 
@@ -39,6 +39,8 @@ Derived from title 14, U.S.C., 1946 ed., §§29, 53, 55, 60, 61, 62, 63, 104, an
 This section broadens existing law in that it authorizes the Coast Guard to engage in saving life and property in the broadest possible terms, without limitation as to place. This section reflects existing sentiment as to Coast Guard functions in relation to saving life and property. There is no intention to supersede or conflict with the present authority of the Civil Aeronautics Board to investigate certain aircraft wrecks. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–281 substituted "$10,000" for "$5,000".
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–213 added subsec. (e).
 
@@ -56,33 +58,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Modernization of National Distress and Response System
 
-Pub. L. 107–295, title III, §346, Nov. 25, 2002, 116 Stat. 2107, provided that:
-
-"(a)
-
-Report.—The Secretary of the department in which the Coast Guard is operating shall prepare a status report on the modernization of the National Distress and Response System and transmit the report, not later than 60 days after the date of enactment of this Act \[Nov. 25, 2002\] and annually thereafter until completion of the project, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
-"(b)
-
-Contents.—The report required by subsection (a) shall—
-
-&emsp;"(1) set forth the scope of the modernization, the schedule for completion of the System, and information on progress in meeting the schedule and on any anticipated delays;
-
-&emsp;"(2) specify the funding expended to-date on the System, the funding required to complete the System, and the purposes for which the funds were or will be expended;
-
-&emsp;"(3) describe and map the existing public and private communications coverage throughout the waters of the coastal and internal regions of the continental United States, Alaska, Hawaii, Guam, and the Caribbean, and identify locations that possess direction-finding, asset-tracking communications, and digital selective calling service;
-
-&emsp;"(4) identify areas of high risk to boaters and Coast Guard personnel due to communications gaps;
-
-&emsp;"(5) specify steps taken by the Secretary to fill existing gaps in coverage, including obtaining direction-finding equipment, digital recording systems, asset-tracking communications, use of commercial VHF services, and digital selective calling services that meet or exceed Global Maritime Distress and Safety System requirements adopted under the International Convention for the Safety of Life at Sea \[see 33 U.S.C. 1602 and notes thereunder\];
-
-&emsp;"(6) identify the number of VHF–FM radios equipped with digital selective calling sold to United States boaters;
-
-&emsp;"(7) list all reported marine accidents, casualties, and fatalities occurring in areas with existing communications gaps or failures, including incidents associated with gaps in VHF–FM coverage or digital selected calling capabilities and failures associated with inadequate communications equipment aboard the involved vessels during calendar years 1997 and thereafter;
-
-&emsp;"(8) identify existing systems available to close all identified marine safety gaps before January 1, 2003, including expeditious receipt and response by appropriate Coast Guard operations centers to VHF–FM digital selective calling distress signal; and
-
-&emsp;"(9) identify actions taken to-date to implement the recommendations of the National Transportation Safety Board in its Report No. MAR–99–01."
+Pub. L. 107–295, title III, §346, Nov. 25, 2002, 116 Stat. 2107, which required annual reports on the modernization of the National Distress and Response System, was repealed by Pub. L. 113–188, title X, §1001(d)(1), Nov. 26, 2014, 128 Stat. 2022.
 
 #### Helicopter Rescue Swimming Program
 

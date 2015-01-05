@@ -12,7 +12,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;(A) Federal assets to fulfill national and international observation missions and priorities;
 
-&emsp;&emsp;(B) non-Federal assets, including a network of regional information coordination entities identified under subsection (c)(4), to fulfill regional observation missions and priorities;
+&emsp;&emsp;(B) non-Federal assets, including a network of regional information coordinationentities identified under subsection (c)(4), to fulfill regional observation missions and priorities;
 
 &emsp;&emsp;(C) data management, communication, and modeling systems for the timely integration and dissemination of data and information products from the System;
 
@@ -76,7 +76,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (3) Lead Federal agency
 
-&emsp;The National Oceanic and Atmospheric Administration shall function as the lead Federal agency for the implementation and administration of the System, in consultation with the Council, the Interagency Ocean Observation Committee, other Federal agencies that maintain portions of the System, and the regional information coordination entities, and shall—
+&emsp;The National Oceanic and Atmospheric Administration shall function as the lead Federal agency for the implementation and administration of the System, in consultation withthe Council, the Interagency Ocean Observation Committee, other Federal agencies that maintain portions of the System, and the regional information coordination entities, and shall—
 
 &emsp;&emsp;(A) establish an Integrated Ocean Observing Program Office within the National Oceanic and Atmospheric Administration utilizing to the extent necessary, personnel from member agencies participating on the Interagency Ocean Observation Committee, to oversee daily operations and coordination of the System;
 
@@ -108,7 +108,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (A) In general
 
-&emsp;&emsp;To be certified or established under this chapter, a regional information coordination entity shall be certified or established by contract or agreement by the Administrator, and shall agree to meet the certification standards and compliance procedure guidelines issued by the Administrator and information needs of user groups in the regionwhile adhering to national standards and shall—
+&emsp;&emsp;To be certified or established under this chapter, a regional information coordination entity shall be certified or established by contract or agreement by the Administrator, and shall agree to meet the certification standards and compliance procedure guidelines issued by the Administrator and information needs of user groups in the region while adhering to national standards and shall—
 
 &emsp;&emsp;&emsp;(i) demonstrate an organizational structure capable of gathering required System observation data, supporting and integrating all aspects of coastal and ocean observing and information programs within a region and that reflects the needs of State and local governments, commercial interests, and other users and beneficiaries of the System and other requirements specified under this chapter and the System Plan;
 

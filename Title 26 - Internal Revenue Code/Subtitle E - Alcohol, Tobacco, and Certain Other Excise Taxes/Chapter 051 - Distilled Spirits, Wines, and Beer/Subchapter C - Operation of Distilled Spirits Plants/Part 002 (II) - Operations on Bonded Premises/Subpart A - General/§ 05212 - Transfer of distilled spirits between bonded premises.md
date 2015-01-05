@@ -12,7 +12,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–598 inserted provision that restriction on transfers to bulk distilled spirits not apply toalcohol bottled under section 5235 of this title which is to be withdrawn for industrial purposes.
+<b>1980</b>—Pub. L. 96–598 inserted provision that restriction on transfers to bulk distilled spirits not apply to alcohol bottled under section 5235 of this title which is to be withdrawn for industrial purposes.
 
 <b>1979</b>—Pub. L. 96–39 substituted "Bulk distilled spirits" for "Distilled spirits" and "bulk distilled spirits" for "distilled spirits".
 

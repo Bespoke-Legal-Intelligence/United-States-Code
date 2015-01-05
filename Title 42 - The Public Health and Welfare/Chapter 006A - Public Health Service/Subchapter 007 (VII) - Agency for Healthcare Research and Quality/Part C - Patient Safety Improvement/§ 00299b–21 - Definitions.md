@@ -46,7 +46,7 @@ In this part:
 
 #### (6) Patient safety evaluation system
 
-&emsp;The term "patient safety evaluation system" means the collection, management, or analysis of information for reporting to or by a patient safety organization.
+&emsp;The term "patient safety evaluation system" means the collection, management, oranalysis of information for reporting to or by a patient safety organization.
 
 #### (7) Patient safety work product
 

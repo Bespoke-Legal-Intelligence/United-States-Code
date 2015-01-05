@@ -36,7 +36,7 @@ If, for reasons other than physical disability, an officer of the Regular Corps 
 
 &emsp;(2) if in the chief warrant officer (W–3) or senior assistant grade he shall be separated from the Service and paid one year's basic pay and allowances;
 
-&emsp;(3) if in the full grade he shall be considered as not in line for promotion and shall, at suchtime thereafter as the Surgeon General may determine, be retired from the Service with retired pay (unless he is entitled to a greater amount by reason of another provision of law)—
+&emsp;(3) if in the full grade he shall be considered as not in line for promotion and shall, at such time thereafter as the Surgeon General may determine, be retired from the Service with retired pay (unless he is entitled to a greater amount by reason of another provision of law)—
 
 &emsp;&emsp;(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 2½ percent of the retired pay base determined under section 1406(h) of title 10 for each year, not in excess of 30, of his active commissioned service in the Service; or
 
@@ -70,7 +70,7 @@ Whenever the number of officers of the Regular Corps on active duty, plus the nu
 
 #### (m) Acceptance of promotion; oath and affidavit
 
-Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion;and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
+Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
 
 (July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701; Pub. L. 112–166, §2(ff)(2), Aug. 10, 2012, 126 Stat. 1290.)
 

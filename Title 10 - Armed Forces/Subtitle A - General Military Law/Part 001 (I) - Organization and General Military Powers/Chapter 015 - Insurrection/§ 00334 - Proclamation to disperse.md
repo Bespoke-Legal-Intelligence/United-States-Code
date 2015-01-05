@@ -44,11 +44,11 @@ Proc. No. 3542, June 11, 1963, 28 F.R. 5707, commanded the Governor of the State
 
 #### Proc. No. 3554. Obstruction of Justice in the State of Alabama
 
-Proc. No. 3554, Sept. 10, 1963, 28 F.R. 9861, commanded all persons obstructing the enforcement of orders entered by the United States District Courts in the State of Alabama relating to the enrollment and attendance of students in public schools in that State to cease and desist therefrom and to disperse and retire peaceably forthwith.
+Proc. No. 3554, Sept. 10, 1963, 28 F.R. 9861, commanded all persons obstructing the enforcement of orders entered by the United States District Courts in the State of Alabama relating to the enrollment and attendance of students in public schools in that State to cease anddesist therefrom and to disperse and retire peaceably forthwith.
 
 #### Proc. No. 3645. Obstruction of Justice in the State of Alabama
 
-Proc. No. 3645, Mar. 23, 1965, 30 F.R. 3739, commanded all persons engaged or who may engage in domestic violence obstructing the enforcement of the laws andthe judicial order approving the right to march along U.S. Highway 80 from Selma to Montgomery, Alabama commencing during the period from Mar. 19, 1965 to Mar. 22, 1965 and terminating within 5 days of the commencement to cease and desist therefrom and to disperse forthwith.
+Proc. No. 3645, Mar. 23, 1965, 30 F.R. 3739, commanded all persons engaged or who may engage in domestic violence obstructing the enforcement of the laws and the judicial order approving the right to march along U.S. Highway 80 from Selma to Montgomery, Alabama commencing during the period from Mar. 19, 1965 to Mar. 22, 1965 and terminating within 5 days of the commencement to cease and desist therefrom and to disperse forthwith.
 
 #### Proc. No. 3795. Obstruction of Justice in the State of Michigan
 

@@ -32,7 +32,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 #### (B) Failure to give advance notice
 
-&emsp;&emsp;Any student (or an appropriate officer of the Armed Forces or official of the Department of Defense) who did not give advance written or verbal notice of service to the appropriate official at the institution of higher education in accordance with paragraph (1)(A) may meet the notice requirement by submitting, at the time the student seeks readmission, an attestation to the student's institution of higher education that the student performed service in the uniformed services that necessitated the student's absence from the institution of higher education.
+&emsp;&emsp;Any student (or an appropriate officer of the Armed Forces or official of the Department of Defense) who did not give advance written or verbal notice of service to the appropriate official at the institution of higher education in accordance with paragraph (1)(A) may meet the notice requirement bysubmitting, at the time the student seeks readmission, an attestation to the student's institution of higher education that the student performed service in the uniformed services that necessitated the student's absence from the institution of higher education.
 
 #### (3) Applicability
 
@@ -84,7 +84,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 #### (6) No change in academic status
 
-&emsp;A student who is readmitted to an institution of higher education under this section shall be readmitted with the same academic status as such student had when such studentlast attended the institution of higher education.
+&emsp;A student who is readmitted to an institution of higher education under this section shall be readmitted with the same academic status as such student had when such student last attended the institution of higher education.
 
 #### (d) Exception from readmission eligibility
 
@@ -102,7 +102,7 @@ A student's eligibility for readmission to an institution of higher education un
 
 Prior sections 1091c to 1091f were repealed, effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
-Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
+Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissionerto make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
 
 Section 1091d, Pub. L. 89–329, title V, §505, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, required the Commissioner to consult with the National Science Foundation and the National Foundation on the Arts and the Humanities in development and review of programs.
 

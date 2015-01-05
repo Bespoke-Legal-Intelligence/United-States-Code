@@ -98,7 +98,7 @@ Appeals process for more stringent state procedures.—If a State establishes it
 
 &emsp;&emsp;(A) an appeals process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver's license by that State may appeal that denial; and
 
-&emsp;&emsp;(B) a waiver process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver's license by that State may apply for a waiver.
+&emsp;&emsp;(B) a waiver process similar to and to the same extent as the process provided underpart 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver's license by that State may apply for a waiver.
 
 &emsp;(3)
 
@@ -106,7 +106,7 @@ Clarification of term defined in regulations.—The term "transportation securit
 
 &emsp;(4)
 
-Background check capacity.—Not later than October 1, 2005, the Director shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives a report on the implementation of fingerprint-based security threat assessments and the adequacy of fingerprintinglocations, personnel, and resources to accomplish the timely processing of fingerprint-based security threat assessments for individuals holding commercial driver's licenses who are applying to renew hazardous materials endorsements.
+Background check capacity.—Not later than October 1, 2005, the Director shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives a report on the implementation of fingerprint-based security threat assessments and the adequacy of fingerprinting locations, personnel, and resources to accomplish the timely processing of fingerprint-based security threat assessments for individuals holding commercial driver's licenses who are applying to renew hazardous materials endorsements.
 
 &emsp;(5)
 

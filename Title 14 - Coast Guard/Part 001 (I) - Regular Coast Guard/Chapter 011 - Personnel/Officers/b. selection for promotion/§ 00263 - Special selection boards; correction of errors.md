@@ -38,7 +38,7 @@ In general.—In the case of an officer or former officer who was eligible for p
 
 Effect of failure to recommend for promotion.—If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer, whose grade is that of commander or below and whose name was referred to that board for consideration, the officer or former officer shall be considered—
 
-&emsp;&emsp;(A) to have failed of selection for promotion with respect to the board that considered the officer or former officer prior tothe consideration of the special selection board; and
+&emsp;&emsp;(A) to have failed of selection for promotion with respect to the board that considered the officer or former officer prior to the consideration of the special selection board; and
 
 &emsp;&emsp;(B) to incur no additional failure of selection for promotion as a result of the action of the special selection board.
 
@@ -48,7 +48,7 @@ Requirements for Special Selection Boards.—Each special selection board conven
 
 &emsp;(1) be composed in accordance with section 252 and the members of the board shall be required to swear the oaths described in section 254;
 
-&emsp;(2) consider the record of an applicable officer or former officer as that record, if corrected, would have appeared to the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board and that record shall be compared with a sampling of the records of—
+&emsp;(2) consider the record of an applicable officer or former officer as that record, if corrected, would have appeared to the selection board that should have considered or did consider the officer or former officer prior to theconsideration of the special selection board and that record shall be compared with a sampling of the records of—
 
 &emsp;&emsp;(A) those officers of the same grade who were recommended for promotion by such prior selection board; and
 

@@ -76,7 +76,7 @@ Sanford Dam Property.—The Authority shall have the right to occupy and use wit
 
 "(a)
 
-Payment Obligations Extinguished.—Provision of consideration by the Authority in accordance with section 3(b) shall extinguish all payment obligations under contract numbered 14–06–500–485 between the Authority and the Secretary.
+Payment Obligations Extinguished.—Provision of consideration by the Authority in accordance withsection 3(b) shall extinguish all payment obligations under contract numbered 14–06–500–485 between the Authority and the Secretary.
 
 "(b)
 

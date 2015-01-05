@@ -4,7 +4,7 @@ Section 1101, added May 9, 1956, ch. 240, §10(a), 70 Stat. 139; amended Oct. 2,
 
 Section 1102, added May 9, 1956, ch. 240, §10(a), 70 Stat. 143; amended Dec. 27, 1967, Pub. L. 90–225, §1, 81 Stat. 730; Oct. 2, 1976, Pub. L. 94–452, §2(a), 90 Stat. 1508; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834, related to basis of property acquired in distributions, periods of limitation, allocation of earnings and profits, and itemization of property.
 
-Section 1103, added May 9, 1956, ch. 240, §10(a), 70 Stat. 144; amended Oct. 2, 1976, Pub. L. 94–452, §2(a), 90 Stat. 1509; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834, related to definitions for this part.
+Section 1103, added May 9, 1956, ch. 240, §10(a), 70 Stat. 144; amended Oct. 2, 1976, Pub. L. 94–452, §2(a), 90 Stat.1509; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834, related to definitions for this part.
 
 #### Savings Provision
 

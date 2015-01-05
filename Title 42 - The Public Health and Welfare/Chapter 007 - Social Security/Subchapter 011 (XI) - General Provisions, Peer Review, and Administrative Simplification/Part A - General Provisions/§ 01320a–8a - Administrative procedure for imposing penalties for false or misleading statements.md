@@ -62,7 +62,7 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (e), is section 212
 
 &emsp;"(2) benefits or payments under subchapter XVI of this chapter,
 
-> that the person knows or should know is false or misleading or knows or should know omits a material fact or who makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security."
+> that the person knows or should know is false or misleading or knows or should know omits a material fact or who makes such a statement with knowing disregardfor the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security."
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(B), (D)\], inserted "1010a or" after "agreement under section" and ", as the case may be" before period at end.
 

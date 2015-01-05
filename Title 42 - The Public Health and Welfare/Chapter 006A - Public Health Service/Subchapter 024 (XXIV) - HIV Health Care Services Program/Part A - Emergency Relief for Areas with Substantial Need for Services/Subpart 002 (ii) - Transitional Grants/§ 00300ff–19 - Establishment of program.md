@@ -66,7 +66,7 @@ For purposes of this section, the term "transitional area" means, subject to sub
 
 #### (3) Application; technical assistance; definitions
 
-&emsp;The provisions of sections 300ff–15, 300ff–16, and 300ff–17 of this title apply with respect togrants under subsection (a) to the same extent and in the same manner as such provisions apply with respect to grants under subpart I.
+&emsp;The provisions of sections 300ff–15, 300ff–16, and 300ff–17 of this title apply with respect to grants under subsection (a) to the same extent and in the same manner as such provisions apply with respect to grants under subpart I.
 
 (July 1, 1944, ch. 373, title XXVI, §2609, as added and amended Pub. L. 109–415, title I, §107(a)(2), title VII, §703, Dec. 19, 2006, 120 Stat. 2781, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 4(a), Oct. 30, 2009, 123 Stat. 2885, 2889.)
 

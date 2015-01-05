@@ -26,5 +26,5 @@ Section is based on section 2 of Senate Resolution No. 382, Ninetieth Congress, 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–696, §901(b)(2), substituted “protect, and make known” for “and protect” and “Senate wing of the United States Capitol, any Senate Office Buildings” for “Senate wing of the Capitol”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–696, §901(b)(2), substituted "protect, and make known" for "and protect" and "Senate wing of the United States Capitol, any Senate Office Buildings" for "Senate wing of the Capitol".
 

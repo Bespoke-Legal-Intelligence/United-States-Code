@@ -142,7 +142,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;Until the date on which the Secretary promulgates a regulation under paragraph (6), a declaration relating to a plant product shall—
 
-&emsp;&emsp;(A) in the case in which the species of plant used to produce the plant product that is the subject of the importation varies, and the species used to produce the plant product is unknown, contain the name of each species of plant that may have been used to produce the plant product;
+&emsp;&emsp;(A) in the case in which the species of plant used to produce the plant product thatis the subject of the importation varies, and the species used to produce the plant product is unknown, contain the name of each species of plant that may have been used to produce the plant product;
 
 &emsp;&emsp;(B) in the case in which the species of plant used to produce the plant product that is the subject of the importation is commonly taken from more than one country, and the country from which the plant was taken and used to produce the plant product is unknown, contain the name of each country from which the plant may have been taken; and
 
@@ -150,7 +150,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (3) Exclusions
 
-&emsp;Paragraphs (1) and (2) shall not apply to plants used exclusively as packaging materialto support, protect, or carry another item, unless the packaging material itself is the item being imported.
+&emsp;Paragraphs (1) and (2) shall not apply to plants used exclusively as packaging material to support, protect, or carry another item, unless the packaging material itself is the item being imported.
 
 #### (4) Review
 

@@ -6,5 +6,5 @@ Advertisements for contracts for the public service may not be published in any 
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §321 (R.S. §79; June 20, 1874, ch. 328, 18 Stat. 90; Feb. 18, 1875, ch. 80, §1, 18 Stat.317; July 31, 1876, ch. 246, 19 Stat. 105; Aug. 2, 1946, ch. 744, §17(b), 60 Stat. 811; 1950 Reorg. Plan No. 20, §2(b), eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272).
+Based on 44 U.S. Code, 1964 ed., §321 (R.S. §79; June 20, 1874, ch. 328, 18 Stat. 90; Feb. 18, 1875, ch. 80, §1, 18 Stat. 317; July 31, 1876, ch. 246, 19 Stat. 105; Aug. 2, 1946, ch. 744, §17(b), 60 Stat. 811; 1950 Reorg. Plan No. 20, §2(b), eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272).
 

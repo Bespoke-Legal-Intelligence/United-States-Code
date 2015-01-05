@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) for which the Bank's support would be critical to its implementation; and
 
-&emsp;&emsp;(C) which may have significant environmental effects upon the global commons or any country not participating in the project, or may produce an emission, an effluent, or a principal product that is prohibited or strictly regulated pursuant to Federal environmental law.
+&emsp;&emsp;(C) which may have significant environmental effects upon the global commons or any country not participating in the project, or may produce an emission, an effluent, or a principal product that is prohibited orstrictly regulated pursuant to Federal environmental law.
 
 #### (2) Authority to withhold financing
 
@@ -28,13 +28,13 @@
 
 #### (c) Inclusion in report to Congress
 
-The Bank shall provide in its annual report to the Congress a summary of its activities under subsections (a) and (b) of this section.
+The Bank shall provide in its annual report to the Congress a summary of its activities under subsections (a) and (b).
 
 #### (d) Interpretation
 
 Nothing in this section shall be construed to create any cause of action.
 
-(July 31, 1945, ch. 341, §11, formerly §17, as added and renumbered §11, Pub. L. 102–429, title I, §§106, 121(c)(5), Oct. 21, 1992, 106 Stat. 2189, 2199;amended Pub. L. 103–428, §2(a), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 109–438, §18(b), Dec. 20, 2006, 120 Stat. 3281.)
+(July 31, 1945, ch. 341, §11, formerly §17, as added and renumbered §11, Pub. L. 102–429, title I, §§106, 121(c)(5), Oct. 21, 1992, 106 Stat. 2189, 2199; amended Pub. L. 103–428, §2(a), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 109–438, §18(b), Dec. 20, 2006, 120 Stat. 3281.)
 
 #### Codification
 

@@ -64,7 +64,7 @@ The date of enactment of this subsection, referred to in subsec. (c), is the dat
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141 added subsec. (b) and struck out former subsec. (b). Prior to amendment, textread as follows: "If the Secretary finds that an officer of a motor carrier engages or has engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations on commercial motor vehicle safety prescribed under this subchapter, while serving as an officer of any motor carrier, the Secretary may suspend, amend, or revoke any part of the motor carrier's registration under section 13905."
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "If the Secretary finds that an officer of a motor carrier engages or has engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations on commercial motor vehicle safety prescribed under this subchapter, while serving as an officer of any motor carrier, the Secretary may suspend, amend, or revoke any part of the motor carrier's registration under section 13905."
 
 <b>2005</b>—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 

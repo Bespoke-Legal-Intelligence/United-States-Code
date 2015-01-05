@@ -56,7 +56,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (B) Liability for repayment
 
-&emsp;&emsp;The mortgagor shall agree in writing that the mortgagor shall be liable to repay to the Secretary any direct financial benefit achieved from the reduction of indebtedness on the existing mortgage or mortgages on the residence refinanced under this section derived from misrepresentations made by the mortgagor in the certifications and documentation required under this paragraph, subject to the discretion of the Secretary.
+&emsp;&emsp;The mortgagor shall agree in writing that the mortgagor shall be liable to repay to the Secretary any direct financial benefit achieved from the reduction of indebtedness on the existing mortgage or mortgages on the residence refinanced under this sectionderived from misrepresentations made by the mortgagor in the certifications and documentation required under this paragraph, subject to the discretion of the Secretary.
 
 #### (C) Current borrower debt-to-income ratio
 
@@ -128,7 +128,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 &emsp;&emsp;(C) be completed by an appraiser who meets the competency requirements of the Uniform Standards of Professional Appraisal Practice;
 
-&emsp;&emsp;(D) be wholly consistent with the appraisal standards, practices, and procedures under section 1708(e) <sup>2</sup> of this title that apply to all loans insured under this chapter; and
+&emsp;&emsp;(D) be wholly consistent with the appraisal standards, practices, and procedures undersection 1708(e) <sup>2</sup> of this title that apply to all loans insured under this chapter; and
 
 &emsp;&emsp;(E) comply with the requirements of subsection (g) of this section (relating to appraisal independence).
 
@@ -260,7 +260,7 @@ The Secretary shall establish—
 
 #### (2) Appreciation in value
 
-&emsp;For each eligible mortgage insured under this section, the Secretary may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised value of the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.
+&emsp;For each eligible mortgage insured under this section, the Secretary may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised valueof the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.
 
 #### (l) Establishment of HOPE Fund
 
@@ -270,7 +270,7 @@ The Secretary shall establish—
 
 #### (2) Management of Fund
 
-&emsp;The HOPE Fund shall be administered and managed by the Secretary, who shall establishreasonable and prudent criteria for the management and operation of any amounts in the HOPE Fund.
+&emsp;The HOPE Fund shall be administered and managed by the Secretary, who shall establish reasonable and prudent criteria for the management and operation of any amounts in the HOPE Fund.
 
 #### (m) Limitation on aggregate insurance authority
 
@@ -350,7 +350,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Existing subordinate mortgage
 
-&emsp;The term "existing subordinate mortgage" means, with respect to a mortgage insured under this section, an existing mortgage that has subordinate priority to the existing senior mortgage.
+&emsp;The term "existing subordinate mortgage" means, with respect to a mortgage insuredunder this section, an existing mortgage that has subordinate priority to the existing senior mortgage.
 
 #### (6) HOPE for Homeowners Program
 
@@ -366,7 +366,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (A) Federal employees
 
-&emsp;&emsp;A member of the Board who is an officer or employee of the Federal Government shallserve without additional pay (or benefits in the nature of compensation) for service as a member of the Board.
+&emsp;&emsp;A member of the Board who is an officer or employee of the Federal Government shall serve without additional pay (or benefits in the nature of compensation) for service as a member of the Board.
 
 #### (B) Travel expenses
 
@@ -442,7 +442,7 @@ The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referr
 
 Section 1708(e) of this title, referred to in subsec. (e)(8)(D), was redesignated section 1708(f) and then 1708(g) of this title by Pub. L. 110–289, div. B, title I, §2116(1)(B), July 30, 2008, 122 Stat. 2832, and Pub. L. 111–22, div. A, title II, §203(b)(1), May 20, 2009, 123 Stat. 1643.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (w)(1)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, TheCongress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (w)(1)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 Section 4568(b) of this title, referred to in subsec. (w)(2), was in the original "section 1338(b) of the Federal Housing Enterprises Regulatory Reform Act of 1992", and was translated as meaning section 1338(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, which is classified to section 4568(b) of this title, to reflect the probable intent of Congress.
 
@@ -512,7 +512,7 @@ Subsec. (s)(3)(A)(ii). Pub. L. 111–22, §202(a)(9)(B), substituted "such" for 
 
 Pub. L. 111–22, §202(a)(2), substituted "Secretary" for "Board".
 
-Subsec. (v). Pub. L. 111–22, §202(a)(2), (10), substituted "action of the Secretary" for "action of the Board" and inserted at end "The Secretary shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under section 1709(b) of this title to the maximum extent possible consistent with the requirements of this section."
+Subsec. (v). Pub. L. 111–22, §202(a)(2), (10), substituted "action of the Secretary" for "action of the Board" andinserted at end "The Secretary shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under section 1709(b) of this title to the maximum extent possible consistent with the requirements of this section."
 
 Subsecs. (x), (y). Pub. L. 111–22, §202(a)(11), added subsecs. (x) and (y).
 
@@ -520,7 +520,7 @@ Subsecs. (x), (y). Pub. L. 111–22, §202(a)(11), added subsecs. (x) and (y).
 
 Subsec. (e)(2)(B). Pub. L. 110–343, §124(1)(B), inserted "(or such higher percentage as the Board determines, in the discretion of the Board)" before period at end.
 
-Subsec. (e)(4)(A). Pub. L. 110–343, §124(1)(C), inserted "and any payments made under this paragraph," after "insured loan" and inserted "Such actions may include making payments, which shall be accepted as paymentin full of all indebtedness under the eligible mortgage, to any holder of an existing subordinate mortgage, in lieu of any future appreciation payments authorized under subparagraph (B)." at end.
+Subsec. (e)(4)(A). Pub. L. 110–343, §124(1)(C), inserted "and any payments made under this paragraph," after "insured loan" and inserted "Such actions may include making payments, which shall be accepted as payment in full of all indebtedness under the eligible mortgage, to any holder of an existing subordinate mortgage, in lieu of any future appreciation payments authorized under subparagraph (B)." at end.
 
 Subsec. (w)(1)(C). Pub. L. 110–343, §124(2), inserted "and payments pursuant to subsection (e)(4)(A)" before period at end.
 

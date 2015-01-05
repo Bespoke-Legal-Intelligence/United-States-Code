@@ -6,7 +6,7 @@ Where a trust fund which complies with section 186(c) of title 29 established pu
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–426 struck out "(b)" before "Where a trust fund which complies", substituted "covered underthis chapter" for "entitled to compensation under this chapter", and substituted "this chapter or under a settlement, the Secretary shall authorize" for "this chapter, the Secretary may authorize".
+<b>1984</b>—Pub. L. 98–426 struck out "(b)" before "Where a trust fund which complies", substituted "covered under this chapter" for "entitled to compensation under this chapter", and substituted "this chapter or under a settlement, the Secretary shall authorize" for "this chapter, the Secretary may authorize".
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–598 repealed provision for lien of person entitled to compensation without limit of amount against assets of carrier or employer and for preference and priority in distribution of assets of such carrier or employer, or both upon insolvency, bankruptcy, or reorganization in bankruptcy proceedings of the carrier or employer, or both.
 

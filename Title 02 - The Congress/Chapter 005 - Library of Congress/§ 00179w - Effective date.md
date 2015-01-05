@@ -12,9 +12,9 @@ The National Film Preservation Act of 1992, referred to in text, is title II of 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–336 struck out the first sentence which read as follows: “The provisions of sections 179l to 179w of this title shall be effective for 13 years beginning on October 11, 1996.”
+<b>2008</b>—Pub. L. 110–336 struck out the first sentence which read as follows: "The provisions of sections 179l to 179w of this title shall be effective for 13 years beginning on October 11, 1996."
 
-<b>2005</b>—Pub. L. 109–9 substituted “13 years” for “7 years”.
+<b>2005</b>—Pub. L. 109–9 substituted "13 years" for "7 years".
 
 #### Effective Date of 2008 Amendment
 

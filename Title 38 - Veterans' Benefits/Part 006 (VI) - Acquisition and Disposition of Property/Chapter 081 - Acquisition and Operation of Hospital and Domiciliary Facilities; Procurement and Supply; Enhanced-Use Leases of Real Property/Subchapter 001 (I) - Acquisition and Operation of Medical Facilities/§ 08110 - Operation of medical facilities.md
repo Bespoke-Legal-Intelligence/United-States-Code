@@ -156,7 +156,7 @@ Amendment by section 601(b)(2) of Pub. L. 97–66 effective Oct. 17, 1981, see s
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–151, title III, §301(b), Dec. 20, 1979, 93 Stat. 1096, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect with respect to Public Law 96–103 \[Nov. 5, 1979, 93 Stat. 771\], but, with respect to such Public Law, the certification and report required by subparagraph (B) of paragraph (4) of section 5010 \[now 8110\] of title 38, United States Code (as added by such amendment), and the report required by subparagraph (C) of such paragraph (as added by such amendment) shall be submitted to theappropriate committees of the Congress not later than January 15, 1980, and February 1, 1980, respectively."
+Pub. L. 96–151, title III, §301(b), Dec. 20, 1979, 93 Stat. 1096, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect with respect to Public Law 96–103 \[Nov. 5, 1979, 93 Stat. 771\], but, with respect to such Public Law, the certification and report required by subparagraph (B) of paragraph (4) of section 5010 \[now 8110\] of title 38, United States Code (as added by such amendment), and the report required by subparagraph (C) of such paragraph (as added by such amendment) shall be submitted to the appropriate committees of the Congress not later than January 15, 1980, and February 1, 1980, respectively."
 
 #### Inventory of Medical Waste Management Activities at Department of Veterans Affairs Health Care Facilities
 
@@ -168,7 +168,7 @@ Inventory.—The Secretary of Veterans Affairs shall establish and maintain a na
 
 &emsp;"(1) A statement of the current national policy of the Department on managing and disposing of medical waste, including regulated medical waste in all its forms.
 
-&emsp;"(2) A description of the program of each geographic service area of the Department to manage and dispose of medical waste, including general medical waste and regulated medical waste, with a description of the primary methods used in those programs and the associated costs of those programs, with cost information shown separately for in-house costs (including full-time equivalent employees) and contract costs.
+&emsp;"(2) A description of the program of each geographic service area of the Department to manageand dispose of medical waste, including general medical waste and regulated medical waste, with a description of the primary methods used in those programs and the associated costs of those programs, with cost information shown separately for in-house costs (including full-time equivalent employees) and contract costs.
 
 "(b)
 

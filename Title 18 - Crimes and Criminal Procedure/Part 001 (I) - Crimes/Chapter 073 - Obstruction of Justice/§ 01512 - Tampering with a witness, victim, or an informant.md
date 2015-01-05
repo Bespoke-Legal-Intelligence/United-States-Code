@@ -184,7 +184,7 @@ Pub. L. 97–291, §2, Oct. 12, 1982, 96 Stat. 1248, provided that:
 
 &emsp;"(3) Although the majority of serious crimes falls under the jurisdiction of State and local law enforcement agencies, the Federal Government, and in particular the Attorney General, has an important leadership role to assume in ensuring that victims of crime, whether at the Federal, State, or local level, are given proper treatment by agencies administering the criminal justice system.
 
-&emsp;"(4) Under current law, law enforcement agencies must have cooperation from a victim of crime and yet neither the agencies nor the legal system canoffer adequate protection or assistance when the victim, as a result of such cooperation, is threatened or intimidated.
+&emsp;"(4) Under current law, law enforcement agencies must have cooperation from a victim of crime and yet neither the agencies nor the legal system can offer adequate protection or assistance when the victim, as a result of such cooperation, is threatened or intimidated.
 
 &emsp;"(5) While the defendant is provided with counsel who can explain both the criminal justice process and the rights of the defendant, the victim or witness has no counterpart and is usually not even notified when the defendant is released on bail, the case is dismissed, a plea to a lesser charge is accepted, or a court date is changed.
 

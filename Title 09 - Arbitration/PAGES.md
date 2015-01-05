@@ -1,6 +1,6 @@
 # Printed pages - Title 09 - Arbitration
 
-GPO's 2013 edition (laws in effect as of 2014-01-16), from its printed page marks. The exact position of
+GPO's 2014 edition (laws in effect as of 2015-01-05), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title9.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -8,7 +8,7 @@ from edition to edition; the section files hold the text only.
 | --- | --- |
 | [Title 09 - Arbitration](README.md) | 1 |
 | [Chapter 001 - General Provisions](Chapter%20001%20-%20General%20Provisions/README.md) | 1 |
-| [&sect; 00001 - &#8220;Maritime transactions&#8221; and &#8220;commerce&#8221; defined; exceptions to operation of title](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000001%20-%20%E2%80%9CMaritime%20transactions%E2%80%9D%20and%20%E2%80%9Ccommerce%E2%80%9D%20defined%3B%20exceptions%20to%20operation%20of%20title.md) | 1–2 |
+| [&sect; 00001 - Maritime transactions and commerce defined; exceptions to operation of title](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000001%20-%20Maritime%20transactions%20and%20commerce%20defined%3B%20exceptions%20to%20operation%20of%20title.md) | 1–2 |
 | [&sect; 00002 - Validity, irrevocability, and enforcement of agreements to arbitrate](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000002%20-%20Validity%2C%20irrevocability%2C%20and%20enforcement%20of%20agreements%20to%20arbitrate.md) | 2 |
 | [&sect; 00003 - Stay of proceedings where issue therein referable to arbitration](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000003%20-%20Stay%20of%20proceedings%20where%20issue%20therein%20referable%20to%20arbitration.md) | 2 |
 | [&sect; 00004 - Failure to arbitrate under agreement; petition to United States court having jurisdiction for order to compel arbitration; notice and&#8230;](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000004%20-%20Failure%20to%20arbitrate%20under%20agreement%3B%20petition%20to%20United%20States%20court%20having%20jurisdiction%20for%20order%20to%20compel%20arbitration%3B%20notice%20and%E2%80%A6.md) | 2 |

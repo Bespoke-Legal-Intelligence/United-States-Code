@@ -10,7 +10,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 &emsp;The criteria established under subsection (a) shall include—
 
-&emsp;&emsp;(A) the previous performance of the recipient regarding homelessness, including performance related to funds provided under section 11372 of this title (except that recipients applying from geographic areas where no funds have been awarded under this part, or under parts C, D, E, or F of subchapter IV of this chapter, as in effect prior to May 20, 2009, shall receive full credit for performance under this subparagraph), measured by criteria that shall be announced by the Secretary, that shall take into account barriersfaced by individual homeless people, and that shall include—
+&emsp;&emsp;(A) the previous performance of the recipient regarding homelessness, including performance related to funds provided under section 11372 of this title (except that recipients applying from geographic areas where no funds have been awarded under this part, or under parts C, D, E, or F of subchapter IV of this chapter, as in effect prior to May 20, 2009, shall receive full credit for performance under this subparagraph), measured by criteria that shall be announced by the Secretary, that shall take into account barriers faced by individual homeless people, and that shall include—
 
 &emsp;&emsp;&emsp;(i) the length of time individuals and families remain homeless;
 
@@ -66,7 +66,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 &emsp;&emsp;(E) demonstrated coordination by the recipient with the other Federal, State, local, private, and other entities serving individuals and families experiencing homelessness and at risk of homelessness in the planning and operation of projects;
 
-&emsp;&emsp;(F) for collaborative applicants exercising the authority under section 11382(j) of this title to serve homeless families with children and youth defined as homeless under other Federal statutes, program goals and outcomes, which shall include—
+&emsp;&emsp;(F) for collaborative applicants exercising the authority under section 11382(j) of this title to serve homeless families with children and youth defined as homeless underother Federal statutes, program goals and outcomes, which shall include—
 
 &emsp;&emsp;&emsp;(i) preventing homelessness among the subset of such families with children and youth who are at highest risk of becoming homeless, as such term is defined for purposes of this subchapter; or
 
@@ -80,7 +80,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 #### (A) Notice
 
-&emsp;&emsp;The Secretary shall inform each collaborative applicant, at a time concurrent withthe release of the notice of funding availability for the grants, of the pro rata estimated grant amount under this part for the geographic area represented by the collaborative applicant.
+&emsp;&emsp;The Secretary shall inform each collaborative applicant, at a time concurrent with the release of the notice of funding availability for the grants, of the pro rata estimated grant amount under this part for the geographic area represented by the collaborative applicant.
 
 #### (B) Amount
 

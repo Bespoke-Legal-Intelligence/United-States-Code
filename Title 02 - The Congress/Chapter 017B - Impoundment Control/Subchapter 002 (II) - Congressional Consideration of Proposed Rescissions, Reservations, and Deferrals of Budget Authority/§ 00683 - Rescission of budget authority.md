@@ -2,7 +2,7 @@
 
 #### (a) Transmittal of special message
 
-Whenever the President determines that all or part of any budget authority will not be required to carry out the full objectives or scope of programs for which it is provided or that such budget authority should be rescinded for fiscal policy or other reasons (including the termination of authorized projects or activities for which budget authority has been provided), or whenever all or part of budget authority provided for only one fiscal year is to be reserved from obligation for such fiscal year, the President shall transmit to both Houses of Congress a special message specifying—
+Whenever the President determines that all or part of any budget authority will not be required to carry out the full objectives or scope of programs for which it is provided or that such budget authority should be rescinded for fiscal policy or other reasons (including the termination of authorized projects or activities forwhich budget authority has been provided), or whenever all or part of budget authority provided for only one fiscal year is to be reserved from obligation for such fiscal year, the President shall transmit to both Houses of Congress a special message specifying—
 
 &emsp;(1) the amount of budget authority which he proposes to be rescinded or which is to be so reserved;
 
@@ -26,5 +26,5 @@ Section was formerly classified to section 1402 of Title 31 prior to the general
 
 #### Amendments
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–119 inserted at end “Funds made available for obligation under this procedure may not be proposed for rescission again.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–119 inserted at end "Funds made available for obligation under this procedure may not be proposed for rescission again."
 

@@ -42,13 +42,13 @@ The Internet Tax Freedom Act, referred to in subsec. (c)(2), is title XI of Pub.
 
 Pub. L. 106–252, §3, July 28, 2000, 114 Stat. 633, provided that:
 
-“(a)
+"(a)
 
 Effective Date.—Except as provided in subsection (b), this Act \[enacting this section and sections 117 to 126 of this title and provisions set out as a note under section 1 of this title\] and the amendment made by this Act shall take effect on the date of the enactment of this Act \[July 28, 2000\].
 
-“(b)
+"(b)
 
-Application of Act.—The amendment made by this Act \[enacting this section and sections 117 to 126 of this title\] shall apply only to customer bills issued after the first day of the first month beginning more than 2 years after the date of the enactment of this Act \[July 28, 2000\].”
+Application of Act.—The amendment made by this Act \[enacting this section and sections 117 to 126 of this title\] shall apply only to customer bills issued after the first day of the first month beginning more than 2 years after the date of the enactment of this Act \[July 28, 2000\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 

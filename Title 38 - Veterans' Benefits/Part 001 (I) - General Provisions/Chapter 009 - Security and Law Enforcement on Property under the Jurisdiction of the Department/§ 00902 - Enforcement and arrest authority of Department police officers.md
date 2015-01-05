@@ -20,7 +20,7 @@
 
 &emsp;(1) policies with respect to the exercise by Department police officers of the enforcement and arrest authorities provided by this section;
 
-&emsp;(2) the scope and duration of training that is required for Department police officers, withparticular emphasis on dealing with situations involving patients; and
+&emsp;(2) the scope and duration of training that is required for Department police officers, with particular emphasis on dealing with situations involving patients; and
 
 &emsp;(3) rules limiting the carrying and use of weapons by Department police officers.
 

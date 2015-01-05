@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 (d) The term "labor organization" means a labor organization engaged in an industry affecting commerce, and any agent of such an organization, and includes any organization of any kind, any agency, or employee representation committee, group, association, or plan so engaged in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours, or other terms or conditions of employment, and any conference, general committee, joint or system board, or joint council so engaged which is subordinate to a national or international labor organization.
 
-(e) A labor organization shall be deemed to be engaged in an industry affecting commerce if (1) it maintains or operates a hiring hall or hiring office which procures employees for an employer or procures for employees opportunities to work for an employer, or (2) the number of its members (or, where it is a labor organization composed of other labor organizations or their representatives, if the aggregate number of the members of such other labor organization) is fifty or more prior to July 1, 1968, or twenty-five or more on or after July 1, 1968, and such labor organization—
+(e) A labor organization shall be deemed to be engaged in an industry affecting commerce if (1)it maintains or operates a hiring hall or hiring office which procures employees for an employer or procures for employees opportunities to work for an employer, or (2) the number of its members (or, where it is a labor organization composed of other labor organizations or their representatives, if the aggregate number of the members of such other labor organization) is fifty or more prior to July 1, 1968, or twenty-five or more on or after July 1, 1968, and such labor organization—
 
 &emsp;(1) is the certified representative of employees under the provisions of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
 
@@ -26,7 +26,7 @@ For the purposes of this chapter—
 
 (g) The term "commerce" means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, or a possession of the United States; or between points in the same State but through a point outside thereof.
 
-(h) The term "industry affecting commerce" means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry "affecting commerce" within the meaning of theLabor-Management Reporting and Disclosure Act of 1959 \[29 U.S.C. 401 et seq.\].
+(h) The term "industry affecting commerce" means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry "affecting commerce" within the meaning of the Labor-Management Reporting and Disclosure Act of 1959 \[29 U.S.C. 401 et seq.\].
 
 (i) The term "State" includes a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
 
@@ -48,7 +48,7 @@ The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec
 
 For definition of Canal Zone, referred to in subsec. (i), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Amendments
 

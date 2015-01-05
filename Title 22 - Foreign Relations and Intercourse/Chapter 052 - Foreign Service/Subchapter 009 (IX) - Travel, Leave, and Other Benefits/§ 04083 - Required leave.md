@@ -2,7 +2,7 @@
 
 #### (a) Criteria; length of continuous service
 
-The Secretary may order a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States to take a leave of absence under section 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 12 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
+The Secretary may order a member of the Service (other than a member employed undersection 3951 of this title) who is a citizen of the United States to take a leave of absence under section 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 12 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
 
 #### (b) Place leave may be taken
 
@@ -16,7 +16,7 @@ While on a leave of absence ordered under this section, the services of any memb
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–321 substituted "or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United StatesVirgin Islands" for ", its territories and possessions, or the Commonwealth of Puerto Rico".
+<b>2008</b>—Subsec. (b). Pub. L. 110–321 substituted "or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands" for ", its territories and possessions, or the Commonwealth of Puerto Rico".
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–234, which directed substitution of "12 months" for "18 months" in section 903(a) of the Foreign Service Act, was executed to subsec. (a) of this section, which is section 903 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 

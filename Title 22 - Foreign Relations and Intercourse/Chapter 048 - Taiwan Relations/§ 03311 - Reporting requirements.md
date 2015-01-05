@@ -6,9 +6,9 @@ The Secretary of State shall transmit to the Congress the text of any agreement 
 
 #### (b) Agreements
 
-For purposes of subsection (a) of this section, the term "agreement" includes—
+For purposes of subsection (a), the term "agreement" includes—
 
-&emsp;(1) any agreement entered into between the Institute and the governing authorities on Taiwan or the instrumentality established by Taiwan; and
+&emsp;(1) any agreement entered into between the Institute and the governing authorities onTaiwan or the instrumentality established by Taiwan; and
 
 &emsp;(2) any agreement entered into between the Institute and an agency of the United States Government.
 

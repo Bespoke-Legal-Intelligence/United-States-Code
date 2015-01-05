@@ -16,7 +16,7 @@ To lend any of its available funds to any other regional agricultural credit cor
 
 #### (d) Sale to or purchase from other like corporations
 
-To sell to or purchase from any other regional agricultural credit corporation or any corporation formed by consolidation or merger as provided in section 1148c of this title, any part of or all the assets of any such corporation, upon suchterms and conditions as may be approved by the Farm Credit Administration, including the assumption of the liabilities of any such corporation, in whole or in part.
+To sell to or purchase from any other regional agricultural credit corporation or any corporation formed by consolidation or merger as provided in section 1148c of this title, any part of or all the assets of any such corporation, upon such terms and conditions as may be approved by the Farm Credit Administration, including the assumption of the liabilities of any such corporation, in whole or in part.
 
 (Aug. 19, 1937, ch. 704, §32, 50 Stat. 716; June 30, 1947, ch. 166, title II, §206(s), 61 Stat. 209.)
 

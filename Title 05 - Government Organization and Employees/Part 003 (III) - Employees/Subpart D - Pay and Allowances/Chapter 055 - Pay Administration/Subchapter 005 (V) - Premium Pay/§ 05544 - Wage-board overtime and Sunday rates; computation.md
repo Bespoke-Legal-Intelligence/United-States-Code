@@ -14,7 +14,7 @@
 
 (c) The provisions of this section, including the last two sentences of subsection (a) and the provisions of section 5543(b), shall apply to a prevailing rate employee described in section 5342(a)(2)(B).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(26)(A), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(d), Dec. 16, 1967, 81 Stat. 641; Pub. L. 92–392, §5, Aug. 19, 1972, 86 Stat. 573; Pub. L. 101–509, title V, §529 \[title II, §210(3)\], Nov. 5, 1990, 104 Stat. 1427, 1460; Pub. L. 102–378, §2(42), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 104–201, div. A, title XVI, §1610(b), Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2317(1), Oct. 21, 1998, 112 Stat. 2681–829;Pub. L. 110–181, div. A, title XI, §1110, Jan. 28, 2008, 122 Stat. 360.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(26)(A), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(d), Dec. 16, 1967, 81 Stat. 641; Pub. L. 92–392, §5, Aug. 19, 1972, 86 Stat. 573; Pub. L. 101–509, title V, §529 \[title II, §210(3)\], Nov. 5, 1990, 104 Stat. 1427, 1460; Pub. L. 102–378, §2(42), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 104–201, div. A, title XVI, §1610(b), Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2317(1), Oct. 21, 1998, 112 Stat. 2681–829; Pub. L. 110–181, div. A, title XI, §1110, Jan. 28, 2008, 122 Stat. 360.)
 
 Historical and Revision Notes<br>1966
 
@@ -52,7 +52,7 @@ June 30, 1945, ch. 212, §503 (as applicable to §23 of the Act of Mar. 28, 1934
 
 In subsection (a), former sections 673c (2d proviso) and 913 are combined and restated for clarity and conciseness. The last 28 words of section 205(a) of the Act of Sept. 1, 1954, 68 Stat. 1109, are omitted as executed and covered by technical section 8.
 
-Subsection (b) is restated to conform to subsection (a). In former section 933, the words “Classification Act of 1949” were substituted for “Classification Act of 1923” on authority of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
+Subsection (b) is restated to conform to subsection (a). In former section 933, the words "Classification Act of 1949" were substituted for "Classification Act of 1923" on authority of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -72,7 +72,7 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §405(f), 80 Stat. 298.
 
-The words “a part of which is on Sunday” are coextensive with and substituted for “any part of which is within the period commencing at midnight Saturday and ending at midnight Sunday.” The words “is entitled to additional pay” are coextensive with and substituted for “shall be paid extra compensation.”
+The words "a part of which is on Sunday" are coextensive with and substituted for "any part of which is within the period commencing at midnight Saturday and ending at midnight Sunday." The words "is entitled to additional pay" are coextensive with and substituted for "shall be paid extra compensation."
 
 #### References in Text
 
@@ -80,21 +80,21 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a), i
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, in third sentence of concluding provisions, substituted “administratively (including travel by the employee to such event and the return of the employee from such event to the employee's official duty station).” for “administratively.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, in third sentence of concluding provisions, substituted "administratively (including travel by the employee to such event and the return of the employee from such event to the employee's official duty station)." for "administratively."
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, which directed the amendment of subsec. (a) by inserting after the fourth sentence “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”, was executed by making the insertion after the first sentence of the concluding provisions, to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, which directed the amendment of subsec. (a) by inserting after the fourth sentence "For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.", was executed by making the insertion after the first sentence of the concluding provisions, to reflect the probable intent of Congress.
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–201 inserted “and the provisions of section 5543(b)” after “the last two sentences of subsection (a)”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–201 inserted "and the provisions of section 5543(b)" after "the last two sentences of subsection (a)".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: "This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work."
 
-Subsec. (a)(2), (3). Pub. L. 102–378, §2(42)(A), substituted “2,087” for “2,080”.
+Subsec. (a)(2), (3). Pub. L. 102–378, §2(42)(A), substituted "2,087" for "2,080".
 
 Subsec. (c). Pub. L. 102–378, §2(42)(C), added subsec. (c).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509 inserted at end “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–509 inserted at end "This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work."
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under section 5343 or 5349 of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–392 substituted "pay" for "basic pay" and provided for determination of pay under section 5343 or 5349 of this title.
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–206 provided that time spent in a travel status away from the official duty station could not qualify as hours of work unless the travel involved the performance of work while traveling, was incident to travel involving the performance of work while traveling, carried out under arduous conditions, or resulting from an event which could not be scheduled or controlled administratively.
 

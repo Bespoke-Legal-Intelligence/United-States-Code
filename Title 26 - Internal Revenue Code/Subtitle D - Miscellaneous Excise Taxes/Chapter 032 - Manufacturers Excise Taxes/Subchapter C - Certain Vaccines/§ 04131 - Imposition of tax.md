@@ -40,31 +40,14 @@ Amount of Tax.—
 
 In general.—The amount of the tax imposed by subsection (a) shall be determined in accordance with the following table:
 
-<b> </b>
+&nbsp;
 
-<b>The tax per</b>
-
-<b> "If the taxable vaccine is:</b>
-
-<b>dose is:</b>
-
-&emsp;&emsp;DPT vaccine
-
-$4.56&nbsp;
-
-&emsp;&emsp;DT vaccine
-
-0\.06&nbsp;
-
-&emsp;&emsp;MMR vaccine
-
-4\.44&nbsp;
-
-&emsp;&emsp;Polio vaccine
-
-0\.29.&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>"If the taxable vaccine is:</b> | <b>The tax per dose is:</b> |
+| :--- | ---: |
+| &nbsp;DPT vaccine | $4.56&nbsp;&nbsp; |
+| &nbsp;DT vaccine | 0\.06&nbsp;&nbsp; |
+| &nbsp;MMR vaccine | 4\.44&nbsp;&nbsp; |
+| &nbsp;Polio vaccine | 0\.29. |
 
 &emsp;"(2)
 

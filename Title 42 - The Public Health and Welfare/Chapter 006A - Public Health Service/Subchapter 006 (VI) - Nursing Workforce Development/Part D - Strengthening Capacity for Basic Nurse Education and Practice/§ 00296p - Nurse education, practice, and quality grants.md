@@ -14,7 +14,7 @@ The Secretary may award grants to or enter into contracts with eligible entities
 
 &emsp;(1) establishing or expanding nursing practice arrangements in noninstitutional settings to demonstrate methods to improve access to primary health care in medically underserved communities;
 
-&emsp;(2) providing care for underserved populations and other high-risk groups such as the elderly, individuals with HIV/AIDS, substanceabusers, the homeless, and victims of domestic violence;
+&emsp;(2) providing care for underserved populations and other high-risk groups such as the elderly, individuals with HIV/AIDS, substance abusers, the homeless, and victims of domestic violence;
 
 &emsp;(3) providing coordinated care, and other skills needed to practice in existing and emerging organized health care systems; or
 

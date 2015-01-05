@@ -2,7 +2,7 @@
 
 #### (a) Applications for demolition and disposition
 
-Except as provided in subsection (b) of this section, upon receiving an application by a public housing agency for authorization, with orwithout financial assistance under this subchapter, to demolish or dispose of a public housing project or a portion of a public housing project (including any transfer to a resident-supported nonprofit entity), the Secretary shall approve the application, if the public housing agency certifies—
+Except as provided in subsection (b) of this section, upon receiving an application by a public housing agency for authorization, with or without financial assistance under this subchapter, to demolish or dispose of a public housing project or a portion of a public housing project (including any transfer to a resident-supported nonprofit entity), the Secretary shall approve the application, if the public housing agency certifies—
 
 &emsp;(1) in the case of—
 
@@ -212,7 +212,7 @@ Pub. L. 105–276, title V, §531(c), Oct. 21, 1998, 112 Stat. 2574, provided th
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion tohomeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
+Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
 
 #### Effective Date of 1990 Amendment
 

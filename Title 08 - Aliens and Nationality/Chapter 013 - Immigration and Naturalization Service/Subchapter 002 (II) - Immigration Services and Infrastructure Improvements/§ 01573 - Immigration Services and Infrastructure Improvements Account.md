@@ -18,7 +18,7 @@ The Attorney General shall take such measures as may be necessary to—
 
 #### (2) Designation of account in treasury
 
-&emsp;Amounts appropriated pursuant to paragraph (1) may be referred to as the “Immigration Services and Infrastructure Improvements Account”.
+&emsp;Amounts appropriated pursuant to paragraph (1) may be referred to as the "Immigration Services and Infrastructure Improvements Account".
 
 #### (3) Availability of funds
 
@@ -32,7 +32,7 @@ The Attorney General shall take such measures as may be necessary to—
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 substituted “1 year after November 25, 2002;” for “not later than one year after October 17, 2000;”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 substituted "1 year after November 25, 2002;" for "not later than one year after October 17, 2000;".
 
 #### Effective Date of 2002 Amendment
 

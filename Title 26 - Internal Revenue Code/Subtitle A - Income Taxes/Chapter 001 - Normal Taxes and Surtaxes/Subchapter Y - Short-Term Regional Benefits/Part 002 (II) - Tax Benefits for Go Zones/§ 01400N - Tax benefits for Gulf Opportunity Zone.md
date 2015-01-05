@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(iv) by substituting "$150,000" for "$15,000" in subsection (k)(4) thereof.
 
-&emsp;&emsp;(C) Except as provided in section 143, repayments of principal on financing provided by the issue of which such bond is a part may not be used to provide financing.
+&emsp;&emsp;(C) Except as provided in section 143, repayments of principal on financing providedby the issue of which such bond is a part may not be used to provide financing.
 
 &emsp;&emsp;(D) Section 146 (relating to volume cap) shall not apply.
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;For purposes of section 42, in the case of property placed in service during the period beginning on January 1, 2006, and ending on December 31, 2010, the Gulf Opportunity Zone, the Rita GO Zone, and the Wilma GO Zone—
 
-&emsp;&emsp;&emsp;(i) shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(C)(iii),<sup>1</sup> and
+&emsp;&emsp;&emsp;(i) shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(B)(iii), and
 
 &emsp;&emsp;&emsp;(ii) shall not be taken into account for purposes of applying the limitation under subclause (II) of such section.
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;(A) by substituting "August 27, 2005" for "December 31, 2007" each place it appears therein,
 
-&emsp;&emsp;(B) without regard to "and before January 1, 2014" in clause (i) thereof, and
+&emsp;&emsp;(B) without regard to "and before January 1, 2015" in clause (i) thereof, and
 
 &emsp;&emsp;(C) by substituting "qualified Gulf Opportunity Zone property" for "qualified property" in clause (iv) thereof.
 
@@ -302,7 +302,7 @@
 
 #### (D) Only pre-January 1, 2012, basis of real property eligible for additional allowance
 
-&emsp;&emsp;In the case of property which is qualified Gulf Opportunity Zone property solely byreason of subparagraph (B)(ii)(I), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2012.
+&emsp;&emsp;In the case of property which is qualified Gulf Opportunity Zone property solely by reason of subparagraph (B)(ii)(I), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2012.
 
 #### (E) Exception for bonus depreciation property under section 168(k)
 
@@ -386,7 +386,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (1) Increased expensing for qualified timber property
 
-&emsp;In the case of qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf OpportunityZone, or in the Wilma GO Zone, the limitation under subparagraph (B) of section 194(b)(1) shall be increased by the lesser of—
+&emsp;In the case of qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf Opportunity Zone, or in the Wilma GO Zone, the limitation under subparagraph (B) of section 194(b)(1) shall be increased by the lesser of—
 
 &emsp;&emsp;(A) the limitation which would (but for this subsection) apply under such subparagraph, or
 
@@ -394,7 +394,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (2) 5 year NOL carryback of certain timber losses
 
-&emsp;For purposes of determining any farming loss under section 172(i), income and deductions which are allocable to the specified portion of the taxable year and which are attributable to qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf Opportunity Zone, or in the Wilma GO Zone shall be treated as attributable to farming businesses.
+&emsp;For purposes of determining any farming loss under section 172(i),<sup>1</sup> income and deductions which are allocable to the specified portion of the taxable year and which are attributable to qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf Opportunity Zone, or in the Wilma GO Zone shall be treated as attributable to farming businesses.
 
 #### (3) Rules not applicable to certain entities
 
@@ -408,7 +408,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (A) Expensing
 
-&emsp;&emsp;Paragraph (1) shall not apply to any taxpayer if such taxpayer holds more than 500 acres of qualified timber property at any time during the taxable year.
+&emsp;&emsp;Paragraph (1) shall not apply to any taxpayer if such taxpayer holds more than 500acres of qualified timber property at any time during the taxable year.
 
 #### (B) NOL carryback
 
@@ -478,7 +478,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (5) Election
 
-&emsp;Any election under paragraph (2)(C) shall be made in such manner as may be prescribed bythe Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
+&emsp;Any election under paragraph (2)(C) shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
 
 #### (k) Treatment of net operating losses attributable to Gulf Opportunity Zone losses
 
@@ -548,7 +548,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (4) Special rules
 
-&emsp;For purposes of paragraph (1), rules similar to the rules of paragraphs (2) and (3) of section 172(i) shall apply with respect to such portion.
+&emsp;For purposes of paragraph (1), rules similar to the rules of paragraphs (2) and (3) of section 172(i) <sup>1</sup> shall apply with respect to such portion.
 
 #### (l) Credit to holders of Gulf tax credit bonds
 
@@ -576,7 +576,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (D) Credit allowance date
 
-&emsp;&emsp;For purposes of this subsection, the term "credit allowance date" means March 15, June 15, September 15, and December 15. Such term also includes the last day on which the bond is outstanding.
+&emsp;&emsp;For purposes of this subsection, the term "credit allowance date" means March 15,June 15, September 15, and December 15. Such term also includes the last day on which the bond is outstanding.
 
 #### (E) Special rule for issuance and redemption
 
@@ -674,7 +674,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under paragraph (1).
+&emsp;&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust,S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under paragraph (1).
 
 #### (ii) No basis adjustment
 
@@ -736,7 +736,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 #### (3) Waiver of limitations
 
-&emsp;If refund or credit of any overpayment of tax resulting from the application of paragraph (1)is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this section by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.
+&emsp;If refund or credit of any overpayment of tax resulting from the application of paragraph (1) is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this section by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.
 
 #### (p) Tax benefits not available with respect to certain property
 
@@ -774,7 +774,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 &emsp;&emsp;&emsp;Clause (i)(II) shall not apply to any real property if the portion so dedicated is less than 100 square feet.
 
-(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360; Pub. L. 111–240, title II, §2022(b)(7), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(7), title VII, §§762(a), 763, 764(a), 765(a), Dec. 17, 2010, 124 Stat. 3306, 3323, 3324; Pub. L. 112–240, title III, §331(e)(5), Jan. 2, 2013, 126 Stat. 2337.)
+(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360; Pub. L. 111–240, title II, §2022(b)(7), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(7), title VII, §§762(a), 763, 764(a), 765(a), Dec. 17, 2010, 124 Stat. 3306, 3323, 3324; Pub. L. 112–240, title III, §331(e)(5), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §125(d)(5), title II, §220(q), Dec. 19, 2014, 128 Stat. 4017, 4036.)
 
 #### References in Text
 
@@ -782,7 +782,7 @@ The date of the enactment of this section, referred to in subsecs. (a)(2)(D), (b
 
 The date of the enactment of this paragraph, referred to in subsec. (a)(7)(C), is the date of enactment of Pub. L. 110–28, which was approved May 25, 2007.
 
-Subpar. (C) of section 42(d)(5), referred to in subsec. (c)(3)(A)(i), (4)(C), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
+Subpar. (C) of section 42(d)(5), referred to in subsec. (c)(4)(C), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
 
 Subpar. (D) of section 42(i)(2), referred to in subsec. (c)(6), was repealed by Pub. L. 110–289, div. C, title I, §3002(b)(2)(C), July 30, 2008, 122 Stat. 2880.
 
@@ -792,11 +792,17 @@ The Department of Defense Appropriations Act, 2006, referred to in subsec. (c)(6
 
 The Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, referred to in subsec. (c)(6), is Pub. L. 109–234, June 15, 2006, 120 Stat. 418. For complete classification of this Act to the Code, see Tables.
 
+Subsec. (i) of section 172, referred to in subsecs. (i)(2) and (k)(4), was redesignated (h) by Pub. L. 113–295, div. A, title II, §221(a)(30)(A)(ii), Dec. 19, 2014, 128 Stat. 4041.
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(3)(A)(i). Pub. L. 113–295, §220(q), substituted "section 42(d)(5)(B)(iii)" for "section 42(d)(5)(C)(iii)".
+
+Subsec. (d)(3)(B). Pub. L. 113–295, §125(d)(5), substituted "January 1, 2015" for "January 1, 2014".
 
 <b>2013</b>—Subsec. (d)(3)(B). Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2013".
 
@@ -854,6 +860,10 @@ Subsec. (e)(2). Pub. L. 109–432, §120(b), inserted "without regard to subsect
 
 Subsec. (l)(7)(B)(ii). Pub. L. 109–432, §107(b)(2), substituted "1397E(l)" for "1397E(i)".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by section 125(d)(5) of Pub. L. 113–295 applicable to property placed in service after Dec. 31, 2013,in taxable years ending after such date, see section 125(e) of Pub. L. 113–295, set out as a note under section 168 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 applicable to property placed in service after Dec. 31, 2012, in taxable years ending after such date, see section 331(f) of Pub. L. 112–240, set out as a note under section 168 of this title.
@@ -906,7 +916,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Carrybacks.—Subsections (i)(2), (j), and (k) of section 1400N of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses arising in such taxable years."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
 

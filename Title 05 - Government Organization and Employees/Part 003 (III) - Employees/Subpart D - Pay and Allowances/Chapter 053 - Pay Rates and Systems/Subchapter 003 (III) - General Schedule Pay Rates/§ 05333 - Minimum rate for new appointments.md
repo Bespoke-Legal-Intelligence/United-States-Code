@@ -38,7 +38,7 @@ Sept. 1, 1954, ch. 1208, §104, 68 Stat. 1106.
 
 Oct. 11, 1962, Pub. L. 87–793, §604(c), 76 Stat. 848.
 
-In subsection (b), the word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
+In subsection (b), the word "scheduled" is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -60,11 +60,11 @@ July 18, 1966, Pub. L. 89–504, §103, 80 Stat. 289.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–509 struck out “; higher rates for supervisors of prevailing rate employees” after “appointments” in section catchline, struck out “(a)” before “New appointments shall”, struck out “in GS–11 or above” after “individual to a position”, and struck out subsec. (b) which read as follows: “Under regulations prescribed by the Office of Personnel Management, an employee in a position to which this subchapter applies, who regularly has responsibility for supervision (including supervision over the technical aspects of the work concerned) over employees whose pay is fixed and adjusted from time to time by wage boards or similar administrative authority as nearly as is consistent with the public interest in accordance with prevailing rates, may be paid at one of the rates for his grade which is above the highest rate of basic pay being paid to any such prevailing-rate employee regularly supervised, or at the maximum rate for his grade, as provided by the regulations.”
+<b>1990</b>—Pub. L. 101–509 struck out "; higher rates for supervisors of prevailing rate employees" after "appointments" in section catchline, struck out "(a)" before "New appointments shall", struck out "in GS–11 or above" after "individual to a position", and struck out subsec. (b) which read as follows: "Under regulations prescribed by the Office of Personnel Management, an employee in a position to which this subchapter applies, who regularly has responsibility for supervision (including supervision over the technical aspects of the work concerned) over employees whose pay is fixed and adjusted from time to time by wage boards or similar administrative authority as nearly as is consistent with the public interest in accordance with prevailing rates, may be paid at one of the rates for his grade which is above the highest rate of basic pay being paid to any such prevailing-rate employee regularly supervised, or at the maximum rate for his grade, as provided by the regulations."
 
-<b>1979</b>—Pub. L. 96–54 substituted “prevailing rate” for “wage-board” in section catchline.
+<b>1979</b>—Pub. L. 96–54 substituted "prevailing rate" for "wage-board" in section catchline.
 
-<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
 
 #### Effective Date of 1990 Amendment
 

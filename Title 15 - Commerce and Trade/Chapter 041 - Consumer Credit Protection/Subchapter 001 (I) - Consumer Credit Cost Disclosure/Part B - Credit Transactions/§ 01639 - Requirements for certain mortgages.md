@@ -106,7 +106,7 @@ No creditor shall recommend or encourage default on an existing loan or other de
 
 #### (2) Coordination with subsequent late fees
 
-&emsp;If a payment is otherwise a full payment for the applicable period and is paid on its duedate or within an applicable grace period, and the only delinquency or insufficiency of payment is attributable to any late fee or delinquency charge assessed on any earlier payment, no late fee or delinquency charge may be imposed on such payment.
+&emsp;If a payment is otherwise a full payment for the applicable period and is paid on its due date or within an applicable grace period, and the only delinquency or insufficiency of payment is attributable to any late fee or delinquency charge assessed on any earlier payment, no late fee or delinquency charge may be imposed on such payment.
 
 #### (3) Failure to make installment payment
 
@@ -176,7 +176,7 @@ A creditor, successor in interest, assignee, or any agent of any of the above, m
 
 #### (B) Transaction fee
 
-&emsp;&emsp;When payoff information referred to in subparagraph (A) is provided by facsimile transmission or by a courier service, a creditor or servicer may charge a processing fee to cover the cost of such transmission or service in an amount not to exceed an amount that is comparable to fees imposed for similar services provided in connection with consumer credit transactions that are secured by the consumer's principal dwelling and are not high-cost mortgages.
+&emsp;&emsp;When payoff information referred to in subparagraph (A) is provided by facsimile transmission or by a courier service, a creditor or servicer may charge a processing fee to cover the cost of such transmission or service in an amount not to exceed an amount that is comparable to fees imposed for similar services provided in connection with consumer credit transactions that aresecured by the consumer's principal dwelling and are not high-cost mortgages.
 
 #### (C) Fee disclosure
 
@@ -188,7 +188,7 @@ A creditor, successor in interest, assignee, or any agent of any of the above, m
 
 #### (2) Prompt delivery
 
-&emsp;Payoff balances shall be provided within 5 business days after receiving a request by aconsumer or a person authorized by the consumer to obtain such information.
+&emsp;Payoff balances shall be provided within 5 business days after receiving a request by a consumer or a person authorized by the consumer to obtain such information.
 
 #### (u) Pre-loan counseling
 

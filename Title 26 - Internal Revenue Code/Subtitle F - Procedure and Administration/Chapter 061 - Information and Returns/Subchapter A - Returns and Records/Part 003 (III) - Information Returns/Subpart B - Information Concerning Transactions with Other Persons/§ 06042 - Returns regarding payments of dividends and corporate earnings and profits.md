@@ -40,7 +40,7 @@
 
 #### (3) Special rule
 
-&emsp;If the person making any payment described in subsection (a)(1)(A) or (B) is unable to determine the portion of such payment which isa dividend or is paid with respect to a dividend, he shall, for purposes of subsection (a)(1), treat the entire amount of such payment as a dividend or as an amount paid with respect to a dividend.
+&emsp;If the person making any payment described in subsection (a)(1)(A) or (B) is unable to determine the portion of such payment which is a dividend or is paid with respect to a dividend, he shall, for purposes of subsection (a)(1), treat the entire amount of such payment as a dividend or as an amount paid with respect to a dividend.
 
 #### (c) Statements to be furnished to persons with respect to whom information is required
 
@@ -58,7 +58,7 @@ Every corporation shall, when required by the Secretary—
 
 &emsp;(1) furnish to the Secretary a statement stating the name and address of each shareholder, and the number of shares owned by each shareholder;
 
-&emsp;(2) furnish to the Secretary a statement of such facts as will enable him to determine the portion of the earnings and profits of the corporation (including gains, profits, and income not taxed) accumulated during such periods as the Secretary may specify, which have been distributed or ordered to be distributed, respectively, to its shareholders during such taxable years as the Secretary may specify; and
+&emsp;(2) furnish to the Secretary a statement of such facts as will enable him to determine the portion of the earnings and profits of the corporation (including gains, profits, and income not taxed) accumulated during such periods as the Secretary may specify, which have been distributed or ordered to be distributed, respectively, to its shareholders during suchtaxable years as the Secretary may specify; and
 
 &emsp;(3) furnish to the Secretary a statement of its accumulated earnings and profits and the names and addresses of the individuals or shareholders who would be entitled to such accumulated earnings and profits if divided or distributed, and of the amounts that would be payable to each.
 

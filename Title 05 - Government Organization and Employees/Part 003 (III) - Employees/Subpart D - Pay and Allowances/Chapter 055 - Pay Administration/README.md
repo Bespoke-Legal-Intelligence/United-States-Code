@@ -86,7 +86,7 @@
 | [5547\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005547%20-%20Limitation%20on%20premium%20pay.md) | Limitation on premium pay. |
 | [5548\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005548%20-%20Regulations.md) | Regulations. |
 | [5549\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005549%20-%20Effect%20on%20other%20statutes.md) | Effect on other statutes. |
-| \[5550. | Repealed.\] |
+| [5550\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005550%20-%20Border%20patrol%20rate%20of%20pay.md) | Border patrol rate of pay. |
 | [5550a.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005550a%20-%20Compensatory%20time%20off%20for%20religious%20observances.md) | Compensatory time off for religious observances. |
 | [5550b.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005550b%20-%20Compensatory%20time%20off%20for%20travel.md) | Compensatory time off for travel. |
 
@@ -143,11 +143,13 @@
 
 #### Amendments
 
+<b>2014</b>—Pub. L. 113–277, §2(g)(3), Dec. 18, 2014, 128 Stat. 3005, added item 5550.
+
 <b>2009</b>—Pub. L. 111–8, div. D, title VII, §751(b), Mar. 11, 2009, 123 Stat. 695, added item 5538.
 
 <b>2004</b>—Pub. L. 108–411, title II, §203(b), Oct. 30, 2004, 118 Stat. 2313, added item 5550b.
 
-<b>1999</b>—Pub. L. 106–65, div. A, title VI, §651(a)(2), Oct. 5, 1999, 113 Stat. 664, struck out item 5532 “Employment of retired members of the uniformed services; reduction in retired or retainer pay.”
+<b>1999</b>—Pub. L. 106–65, div. A, title VI, §651(a)(2), Oct. 5, 1999, 113 Stat. 664, struck out item 5532 "Employment of retired members of the uniformed services; reduction in retired or retainer pay."
 
 <b>1998</b>—Pub. L. 105–277, div. A, §101(h) \[title VI, §628(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, added item 5545b.
 
@@ -157,47 +159,47 @@
 
 <b>1992</b>—Pub. L. 102–484, div. D, title XLIV, §4436(a)(2), Oct. 23, 1992, 106 Stat. 2724, added item 5597.
 
-Pub. L. 102–378, §2(44)(B), (45)(B), Oct. 2, 1992, 106 Stat. 1352, 1353, struck out item 5550 “Pay for Sunday and overtime work; employees of nonappropriated fund instrumentalities” and added item 5553.
+Pub. L. 102–378, §2(44)(B), (45)(B), Oct. 2, 1992, 106 Stat. 1352, 1353, struck out item 5550 "Pay for Sunday and overtime work; employees of nonappropriated fund instrumentalities" and added item 5553.
 
 <b>1990</b>—Pub. L. 101–509, title V, §529 \[title I, §107(b)\], Nov. 5, 1990, 104 Stat. 1427, 1449, added item 5524a.
 
 <b>1986</b>—Pub. L. 99–399, title VIII, §803(b), Aug. 27, 1986, 100 Stat. 883, added items 5569 and 5570.
 
-<b>1985</b>—Pub. L. 99–224, §1(b), Dec. 28, 1985, 99 Stat. 1741, substituted “and of travel, transportation and relocation expenses and allowances” for “other than travel and transportation expenses and allowances and relocation expenses” in item 5584.
+<b>1985</b>—Pub. L. 99–224, §1(b), Dec. 28, 1985, 99 Stat. 1741, substituted "and of travel, transportation and relocation expenses and allowances" for "other than travel and transportation expenses and allowances and relocation expenses" in item 5584.
 
-<b>1984</b>—Pub. L. 98–525, title XV, §1537(c)(6)(B), Oct. 19, 1984, 98 Stat. 2636, inserted “and the Department of Defense” in item 5546a.
+<b>1984</b>—Pub. L. 98–525, title XV, §1537(c)(6)(B), Oct. 19, 1984, 98 Stat. 2636, inserted "and the Department of Defense" in item 5546a.
 
 <b>1982</b>—Pub. L. 97–276, §151(c)(2), Oct. 2, 1982, 96 Stat. 1201, added item 5546a.
 
-<b>1978</b>—Pub. L. 95–454, title III, §308(f)(2), Oct. 13, 1978, 92 Stat. 1151, substituted “members of the uniformed services; reduction in retired or retainer pay” for “officers of the uniformed services; reduction in retired or retirement pay; exceptions” in item 5532.
+<b>1978</b>—Pub. L. 95–454, title III, §308(f)(2), Oct. 13, 1978, 92 Stat. 1151, substituted "members of the uniformed services; reduction in retired or retainer pay" for "officers of the uniformed services; reduction in retired or retirement pay; exceptions" in item 5532.
 
 Pub. L. 95–390, title IV, §401(b), Sept. 29, 1978, 92 Stat. 762, added item 5550a.
 
-<b>1977</b>—Pub. L. 95–30, title IV, §408(b), May 23, 1977, 91 Stat. 157, substituted “city or county” for “city” in item 5520.
+<b>1977</b>—Pub. L. 95–30, title IV, §408(b), May 23, 1977, 91 Stat. 157, substituted "city or county" for "city" in item 5520.
 
-<b>1975</b>—Pub. L. 94–183, §2(24), Dec. 31, 1975, 89 Stat. 1058, struck out “Sunday,” after “Night,” in item 5545.
+<b>1975</b>—Pub. L. 94–183, §2(24), Dec. 31, 1975, 89 Stat. 1058, struck out "Sunday," after "Night," in item 5545.
 
 <b>1974</b>—Pub. L. 93–340, §1(b), July 10, 1974, 88 Stat. 294, added item 5520.
 
-<b>1972</b>—Pub. L. 92–453, §3(2), Oct. 2, 1972, 86 Stat. 760, substituted “overpayment of pay and allowances, other than travel and transportation expenses and allowances and relocation expenses” for “overpayment of pay” in item 5584.
+<b>1972</b>—Pub. L. 92–453, §3(2), Oct. 2, 1972, 86 Stat. 760, substituted "overpayment of pay and allowances, other than travel and transportation expenses and allowances and relocation expenses" for "overpayment of pay" in item 5584.
 
 Pub. L. 92–392, §10(b), Aug. 19, 1972, 86 Stat. 574, added item 5550.
 
-<b>1970</b>—Pub. L. 91–563, §§2(b), 3(b), Dec. 19, 1970, 84 Stat. 1477, substituted “jury or witness service” for “jury service in State courts” in item 5515, and “jury and witness service” for “jury service in courts of the United States” in item 5537.
+<b>1970</b>—Pub. L. 91–563, §§2(b), 3(b), Dec. 19, 1970, 84 Stat. 1477, substituted "jury or witness service" for "jury service in State courts" in item 5515, and "jury and witness service" for "jury service in courts of the United States" in item 5537.
 
 <b>1968</b>—Pub. L. 90–616, §1(b), Oct. 21, 1968, 82 Stat. 1212, added item 5584.
 
 Pub. L. 90–588, §2(c), Oct. 17, 1968, 82 Stat. 1152, added item 5519.
 
-<b>1967</b>—Pub. L. 90–83, §1(23), (26)(B), (28), (30), (35), Sept. 11, 1967, 81 Stat. 200, 201, 203, inserted items 5534a, 5595 and 5596, included Sunday rates in item 5544, Sunday and hazardous duty differential in item 5545 and Sundays in item 5546, substituted “Severance Pay and Back Pay” for “Back Pay” in heading of subchapter IX, and struck out items 5591 to 5594.
+<b>1967</b>—Pub. L. 90–83, §1(23), (26)(B), (28), (30), (35), Sept. 11, 1967, 81 Stat. 200, 201, 203, inserted items 5534a, 5595 and 5596, included Sunday rates in item 5544, Sunday and hazardous duty differential in item 5545 and Sundays in item 5546, substituted "Severance Pay and Back Pay" for "Back Pay" in heading of subchapter IX, and struck out items 5591 to 5594.
 
 #### No Payment of Services to Individual in Acting or Temporary Capacity After Second Nomination for That Individual is Withdrawn or Returned to President
 
-Pub. L. 111–8, div. D, title VII, §749, Mar. 11, 2009, 123 Stat. 693, provided that: “Effective January 20, 2009, and for each fiscal year thereafter, no part of any appropriation contained in this or any other Act may be used for the payment of services to any individual carrying out the responsibilities of any position requiring Senate advice and consent in an acting or temporary capacity after the second submission of a nomination for that individual to that position has been withdrawn or returned to the President.”
+Pub. L. 111–8, div. D, title VII, §749, Mar. 11, 2009, 123 Stat. 693, provided that: "Effective January 20, 2009, and for each fiscal year thereafter, no part of any appropriation contained in this or any other Act may be used for the payment of services to any individual carrying out the responsibilities of any position requiring Senate advice and consent in an acting or temporary capacity after the second submission of a nomination for that individual to that position has been withdrawn or returned to the President."
 
 #### No Payment to Person Filling Position After Vote by Senate Not To Approve Person's Nomination
 
-Pub. L. 110–161, div. D, title VII, §709, Dec. 26, 2007, 121 Stat. 2021, provided that: “Hereafter, no part of any appropriation contained in this or any other Act shall be paid to any person for the filling of any position for which he or she has been nominated after the Senate has voted not to approve the nomination of said person.”
+Pub. L. 110–161, div. D, title VII, §709, Dec. 26, 2007, 121 Stat. 2021, provided that: "Hereafter, no part of any appropriation contained in this or any other Act shall be paid to any person for the filling of any position for which he or she has been nominated after the Senate has voted not to approve the nomination of said person."
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 97–365 without corresponding amendment of chapter analysis.</i>
 

@@ -10,7 +10,7 @@ The Secretary is authorized to pay for any acquisitions which he makes by purcha
 
 #### (c) Exchange of property; cash equalization payments
 
-In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property located within sucharea and convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary within such area. The properties so exchanged shall be approximately equal in fair market value: <i>Provided</i>, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the values of the properties exchanged.
+In exercising his authority to acquire property by exchange, the Secretary may accept title toany non-Federal property located within such area and convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary within such area. The properties so exchanged shall be approximately equal in fair market value: <i>Provided</i>, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the values of the properties exchanged.
 
 (Pub. L. 87–712, §2, Sept. 28, 1962, 76 Stat. 650.)
 

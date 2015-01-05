@@ -50,7 +50,7 @@
 
 #### (2) Requirements
 
-&emsp;The Secretary shall publish, and periodically update, a list of those capabilities within the existing and planned components of the Program that a Program participant must have for purposes of this subsection.
+&emsp;The Secretary shall publish, and periodically update, a list of those capabilities within theexisting and planned components of the Program that a Program participant must have for purposes of this subsection.
 
 #### (3) Filing of additional information
 
@@ -80,7 +80,7 @@
 
 #### (c) Post-entry summary information
 
-A Program participant that is eligible to file electronically entry information under subsection (a) of this section and additional information under subsection (b) of this section froma remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
+A Program participant that is eligible to file electronically entry information under subsection (a) of this section and additional information under subsection (b) of this section from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
 
 #### (d) Definitions
 

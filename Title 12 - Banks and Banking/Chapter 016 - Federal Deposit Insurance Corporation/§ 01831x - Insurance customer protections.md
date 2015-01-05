@@ -20,7 +20,7 @@
 
 #### (b) Sales practices
 
-The regulations prescribed pursuant to subsection (a) of this section shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of section 1972 of this title, is conditional upon—
+The regulations prescribed pursuant to subsection (a) shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of section 1972 of this title, is conditional upon—
 
 &emsp;(1) the purchase of an insurance product from the institution or any of its affiliates; or
 
@@ -28,7 +28,7 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 #### (c) Disclosures and advertising
 
-The regulations prescribed pursuant to subsection (a) of this section shall include the following provisions relating to disclosures and advertising in connection with the initial purchase of an insurance product:
+The regulations prescribed pursuant to subsection (a) shall include the following provisions relating to disclosures and advertising in connection with the initial purchase of an insurance product:
 
 #### (1) Disclosures
 
@@ -98,7 +98,7 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 #### (1) Regulations required
 
-&emsp;The regulations prescribed pursuant to subsection (a) of this section shall include such provisions as the Federal banking agenciesconsider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
+&emsp;The regulations prescribed pursuant to subsection (a) shall include such provisions as the Federal banking agencies consider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
 
 #### (2) Requirements
 
@@ -110,7 +110,7 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 #### (B) Referrals
 
-&emsp;&emsp;Standards that permit any person accepting deposits from the public in an area where such transactions are routinely conducted in a depository institution to refer a customer who seeks to purchase any insurance product to a qualified person who sells such product, only if the person making the referral receives no more than a one-time nominal fee of a fixed dollar amount for each referral that does not depend on whether the referral results in a transaction.
+&emsp;&emsp;Standards that permit any person accepting deposits from the public in an area where such transactions are routinely conducted in a depository institution to refer acustomer who seeks to purchase any insurance product to a qualified person who sells such product, only if the person making the referral receives no more than a one-time nominal fee of a fixed dollar amount for each referral that does not depend on whether the referral results in a transaction.
 
 #### (C) Qualification and licensing requirements
 
@@ -170,7 +170,7 @@ The Federal banking agencies shall jointly establish a consumer complaint mechan
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, with respect to any provision of the regulations prescribed under this section, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Board of Directors of theCorporation determine jointly that the protection afforded by such provision for customers is greater than the protection provided by a comparable provision of the statutes, regulations, orders, or interpretations referred to in subparagraph (A) of any State, the appropriate State regulatory authority shall be notified of such determination in writing.
+&emsp;&emsp;&emsp;If, with respect to any provision of the regulations prescribed under this section, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Board of Directors of the Corporation determine jointly that the protection afforded by such provision for customers is greater than the protection provided by a comparable provision of the statutes, regulations, orders, or interpretations referred to in subparagraph (A) of any State, the appropriate State regulatory authority shall be notified of such determination in writing.
 
 #### (ii) Considerations
 
@@ -182,7 +182,7 @@ The Federal banking agencies shall jointly establish a consumer complaint mechan
 
 #### (h) Non-discrimination against non-affiliated agents
 
-The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) of this section shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
+The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
 
 (Sept. 21, 1950, ch. 967, §2\[47\], as added Pub. L. 106–102, title III, §305, Nov. 12, 1999, 113 Stat. 1410.)
 

@@ -8,7 +8,7 @@ The Chief Administrative Officer of the United States Capitol Police, or when th
 
 #### (1) In general
 
-&emsp;Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) of this section shall—
+&emsp;Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) shall—
 
 &emsp;&emsp;(A) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting papers and for the legality of the proposed payment under the appropriation or fund involved;
 
@@ -26,7 +26,7 @@ The Chief Administrative Officer of the United States Capitol Police, or when th
 
 #### (c) Enforcement of liability
 
-The liability of the certifying officers of the United States Capitol Police shall be enforced in the same manner and to the same extent as currently provided with respect to the enforcement of the liability of disbursing and other accountable officers, and such officers shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
+The liability of the certifying officers of the United States Capitol Police shall be enforced inthe same manner and to the same extent as currently provided with respect to the enforcement of the liability of disbursing and other accountable officers, and such officers shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
 
 (Pub. L. 106–554, §1(a)(2) \[title I, §107\], Dec. 21, 2000, 114 Stat. 2763, 2763A–103; Pub. L. 111–145, §2(a)(3), Mar. 4, 2010, 124 Stat. 49.)
 
@@ -36,5 +36,5 @@ Section was classified to section 207d of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (b)(1). Pub. L. 111–145 substituted “the Chief of the Capitol Police” for “the Capitol Police Board”.
+<b>2010</b>—Subsecs. (a), (b)(1). Pub. L. 111–145 substituted "the Chief of the Capitol Police" for "the Capitol Police Board".
 

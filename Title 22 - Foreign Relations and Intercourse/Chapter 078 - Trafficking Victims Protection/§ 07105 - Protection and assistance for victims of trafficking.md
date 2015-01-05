@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) In cooperation and coordination with relevant organizations, such as the United Nations High Commissioner for Refugees, the International Organization for Migration, and private nongovernmental organizations that contract with, or receive grants from, the United States Government to assist refugees and internally displaced persons, support for—
 
-&emsp;&emsp;&emsp;(i) increased protections for refugees and internally displaced persons, includingoutreach and education efforts to prevent such refugees and internally displaced persons from being exploited by traffickers; and
+&emsp;&emsp;&emsp;(i) increased protections for refugees and internally displaced persons, including outreach and education efforts to prevent such refugees and internally displaced persons from being exploited by traffickers; and
 
 &emsp;&emsp;&emsp;(ii) performance of best interest determinations for unaccompanied and separated children who come to the attention of the United Nations High Commissioner for Refugees, its partner organizations, or any organization that contracts with the Department of State in order to identify child trafficking victims and to assist their safe integration, reintegration, and resettlement.
 
@@ -32,7 +32,7 @@
 
 #### (A) Eligibility for benefits and services
 
-&emsp;&emsp;Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\], an alien who is a victim of a severe form of trafficking in persons, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8, shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8.
+&emsp;&emsp;Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\], an alien who is a victim of a severe form of trafficking in persons, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8, shall be eligiblefor benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8.
 
 #### (B) Requirement to expand benefits and services
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is willing to assist in every reasonable way in the investigation and prosecution of severe forms of trafficking in persons or is unable to cooperate with such a request due to physical or psychological trauma; and
 
-&emsp;&emsp;&emsp;&emsp;(II)(aa) has made a bona fide application for a visa under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, that has not been denied; or
+&emsp;&emsp;&emsp;&emsp;(II)(aa) has made a bona fide application for a visa under section 1101(a)(15)(T) of title 8, as added by subsection (e), that has not been denied; or
 
 &emsp;&emsp;&emsp;&emsp;(bb) is a person whose continued presence in the United States the Secretary of Homeland Security is ensuring in order to effectuate prosecution of traffickers in persons.
 
@@ -94,7 +94,7 @@
 
 #### (iii) Duration
 
-&emsp;&emsp;&emsp;Assistance under this paragraph may be provided to individuals determined to be eligible under clause (i) for a period of up to 90 days and may be extended for an additional 30 days.
+&emsp;&emsp;&emsp;Assistance under this paragraph may be provided to individuals determined to beeligible under clause (i) for a period of up to 90 days and may be extended for an additional 30 days.
 
 #### (iv) Long-term assistance for children
 
@@ -170,7 +170,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (iii) Continuation of presence
 
-&emsp;&emsp;&emsp;The Secretary shall permit an alien described in clause (i) who has filed a civil action under section 1595 of title 18 to remain in the United States until such action is concluded. If the Secretary, in consultation with the Attorney General, determines that the alien has failed to exercise due diligence in pursuing such action, the Secretary may revoke the order permitting the alien to remain in the United States.
+&emsp;&emsp;&emsp;The Secretary shall permit an alien described in clause (i) who has filed a civilaction under section 1595 of title 18 to remain in the United States until such action is concluded. If the Secretary, in consultation with the Attorney General, determines that the alien has failed to exercise due diligence in pursuing such action, the Secretary may revoke the order permitting the alien to remain in the United States.
 
 #### (iv) Exception
 
@@ -194,7 +194,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (d) Construction
 
-Nothing in subsection (c) of this section shall be construed as creating any private cause of action against the United States or its officers or employees.
+Nothing in subsection (c) shall be construed as creating any private cause of action against the United States or its officers or employees.
 
 #### (e) Protection from removal for certain crime victims
 
@@ -202,13 +202,13 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 #### (5) Statutory construction
 
-&emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e) of this section, for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
+&emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e), for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
 
 #### (f) <sup>3</sup> Assistance for United States citizens and lawful permanent residents
 
 #### (1) In general
 
-&emsp;The Secretary of Health and Human Services and the Attorney General, in consultation with the Secretary of Labor, shall establish a program to assist United States citizens and aliens lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8) who are victims of severe forms of trafficking. In determining the assistance that wouldbe most beneficial for such victims, the Secretary and the Attorney General shall consult with nongovernmental organizations that provide services to victims of severe forms of trafficking in the United States.
+&emsp;The Secretary of Health and Human Services and the Attorney General, in consultation with the Secretary of Labor, shall establish a program to assist United States citizens and aliens lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8) who are victims of severe forms of trafficking. In determining the assistance that would be most beneficial for such victims, the Secretary and the Attorney General shall consult with nongovernmental organizations that provide services to victims of severe forms of trafficking in the United States.
 
 #### (2) Use of existing programs
 
@@ -234,7 +234,7 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 #### (g) Annual reports
 
-On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
+On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas undersection 1101(a)(15)(T) of title 8, as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
 (Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146.)
 
@@ -296,7 +296,7 @@ Subsec. (b)(1)(A). Pub. L. 108–193, §4(a)(2)(A), inserted ", or an alien cla
 
 Subsec. (b)(1)(B). Pub. L. 108–193, §4(a)(2)(B), inserted "and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8," after "United States," and inserted sentence at end relating to nonentitlement programs funded by the Secretary of Health and Human Services.
 
-Subsec. (b)(1)(D). Pub. L. 108–193, §6(a)(2), struck out subpar. (D) which related to annual reports on the number of persons receiving benefits or services under paragraph (1).
+Subsec. (b)(1)(D). Pub. L. 108–193, §6(a)(2), struck out subpar. (D) which related to annual reports on thenumber of persons receiving benefits or services under paragraph (1).
 
 Subsec. (b)(1)(E)(iv). Pub. L. 108–193, §4(a)(3), added cl. (iv).
 

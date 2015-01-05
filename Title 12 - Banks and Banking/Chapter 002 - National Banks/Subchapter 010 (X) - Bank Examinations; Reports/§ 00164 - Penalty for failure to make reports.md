@@ -34,7 +34,7 @@ Any penalty imposed under subsection (a), (b), or (c) of this section shall be a
 
 #### (e) Hearing
 
-Any association against which any penalty is assessed under this subsection <sup>1</sup> shall be afforded an agency hearing if such association submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section1818(h) of this title shall apply to any proceeding under this section.
+Any association against which any penalty is assessed under this subsection <sup>1</sup> shall be afforded an agency hearing if such association submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this section.
 
 (R.S. §5213; Pub. L. 86–230, §12, Sept. 8, 1959, 73 Stat. 458; Pub. L. 101–73, title IX, §911(b)(2), Aug. 9, 1989, 103 Stat. 478.)
 

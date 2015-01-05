@@ -2,7 +2,7 @@
 
 #### (a) Establishment of pilot program
 
-The Secretary shall award a grant to a Southeastern United States consortium of major research universities that currently advances science and education by partnering with National Laboratories, to establish a regional pilot program of its SEEK–16 program for enhancing scientific, technological, engineering, and mathematical literacy, creativity, and decision-making. The consortium shall include leading research universities, one or more universitiesthat train substantial numbers of elementary and secondary school teachers, and (where appropriate) National Laboratories.
+The Secretary shall award a grant to a Southeastern United States consortium of major research universities that currently advances science and education by partnering with National Laboratories, to establish a regional pilot program of its SEEK–16 program for enhancing scientific, technological, engineering, and mathematical literacy, creativity, and decision-making. The consortium shall include leading research universities, one or more universities that train substantial numbers of elementary and secondary school teachers, and (where appropriate) National Laboratories.
 
 #### (b) Program elements
 
@@ -24,9 +24,9 @@ The regional pilot program shall include—
 
 A grant under this section shall be considered an authorized activity under section 7381b of this title.
 
-#### (d) Report
+(Pub. L. 109–58, title IX, §983, Aug. 8, 2005, 119 Stat. 907; Pub. L. 113–188, title VI, §601(a), Nov. 26, 2014, 128 Stat. 2019.)
 
-No later than 2 years after the award of the grant, the Secretary shall transmit to Congress a report outlining lessons learned and, if determined appropriate by the Secretary, containing a plan for expanding the program throughout the United States.
+#### Amendments
 
-(Pub. L. 109–58, title IX, §983, Aug. 8, 2005, 119 Stat. 907.)
+<b>2014</b>—Subsec. (d). Pub. L. 113–188 struck out subsec. (d). Text read as follows: "No later than 2 years afterthe award of the grant, the Secretary shall transmit to Congress a report outlining lessons learned and, if determined appropriate by the Secretary, containing a plan for expanding the program throughout the United States."
 

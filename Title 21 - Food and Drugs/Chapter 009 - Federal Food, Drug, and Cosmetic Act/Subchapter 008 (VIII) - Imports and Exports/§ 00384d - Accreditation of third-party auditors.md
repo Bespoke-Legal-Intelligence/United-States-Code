@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Third-party auditor
 
-&emsp;The term "third-party auditor" means a foreign government, agency of a foreign government, foreign cooperative, or any other third party, as the Secretary determines appropriate in accordance with the model standards described in subsection (b)(2), that is eligible to be considered for accreditation to conduct food safety audits to certify that eligible entities meet the applicable requirements of this section. A third-party auditor may be a singleindividual. A third-party auditor may employ or use audit agents to help conduct consultative and regulatory audits.
+&emsp;The term "third-party auditor" means a foreign government, agency of a foreign government, foreign cooperative, or any other third party, as the Secretary determines appropriate in accordance with the model standards described in subsection (b)(2), that is eligible to be considered for accreditation to conduct food safety audits to certify that eligible entities meet the applicable requirements of this section. A third-party auditor may be a single individual. A third-party auditor may employ or use audit agents to help conduct consultative and regulatory audits.
 
 #### (4) Accredited third-party auditor
 
@@ -72,7 +72,7 @@ In this section:
 
 #### (2) Model accreditation standards
 
-&emsp;Not later than 18 months after January 4, 2011, the Secretary shall develop model standards, including requirements for regulatory audit reports, and each recognized accreditation body shall ensure that third-party auditors and audit agents of such auditors meet such standards in order to qualify such third-party auditors as accredited third-party auditors under this section. In developing the model standards, the Secretary shall look to standards in place on January 4, 2011, for guidance, to avoid unnecessary duplication of efforts and costs.
+&emsp;Not later than 18 months after January 4, 2011, the Secretary shall develop model standards, including requirements for regulatory audit reports, and each recognized accreditation body shall ensure that third-party auditors and audit agents of such auditors meetsuch standards in order to qualify such third-party auditors as accredited third-party auditors under this section. In developing the model standards, the Secretary shall look to standards in place on January 4, 2011, for guidance, to avoid unnecessary duplication of efforts and costs.
 
 #### (c) Third-party auditors
 
@@ -84,7 +84,7 @@ In this section:
 
 #### (B) Foreign cooperatives and other third parties
 
-&emsp;&emsp;Prior to accrediting a foreign cooperative that aggregates the products of growers or processors, or any other third party to be an accredited third-party auditor, the accreditation body (or, in the case of direct accreditation under subsection (b)(1)(A)(ii), the Secretary) shall perform such reviews and audits of the training and qualifications of audit agents used by that cooperative or party and conduct such reviews of internal systems and such other investigation of thecooperative or party as the Secretary deems necessary, including requirements under the model standards developed under subsection (b)(2), to determine that each eligible entity certified by the cooperative or party has systems and standards in use to ensure that such entity or food meets the requirements of this chapter.
+&emsp;&emsp;Prior to accrediting a foreign cooperative that aggregates the products of growers or processors, or any other third party to be an accredited third-party auditor, the accreditation body (or, in the case of direct accreditation under subsection (b)(1)(A)(ii), the Secretary) shall perform such reviews and audits of the training and qualifications of audit agents used by that cooperative or party and conduct such reviews of internal systems and such other investigation of the cooperative or party as the Secretary deems necessary, including requirements under the model standards developed under subsection (b)(2), to determine that each eligible entity certified by the cooperative or party has systems and standards in use to ensure that such entity or food meets the requirements of this chapter.
 
 #### (2) Requirement to issue certification of eligible entities or foods
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (B) Records
 
-&emsp;&emsp;Following any accreditation of a third-party auditor, the Secretary may, at any time, require the accredited third-party auditor to submit to the Secretary an onsite audit report and such other reports or documents required as part of the audit process, for any eligible entity certified by the third-party auditor or audit agent of such auditor. Such report may include documentation that the eligible entity is in compliance with any applicable registration requirements.
+&emsp;&emsp;Following any accreditation of a third-party auditor, the Secretary may, at any time, require the accredited third-party auditor to submit to the Secretary an onsite audit report and such other reports or documents required as part of the audit process,for any eligible entity certified by the third-party auditor or audit agent of such auditor. Such report may include documentation that the eligible entity is in compliance with any applicable registration requirements.
 
 #### (C) Limitation
 
@@ -226,7 +226,7 @@ In this section:
 
 #### (8) Neutralizing costs
 
-&emsp;The Secretary shall establish by regulation a reimbursement (user fee) program, similar to the method described in section 1622(h) of title 7,<sup>2</sup> by which the Secretary assesses fees and requires accredited third-party auditors and audit agents to reimburse the Food andDrug Administration for the work performed to establish and administer the accreditation system under this section. The Secretary shall make operating this program revenue-neutral and shall not generate surplus revenue from such a reimbursement mechanism. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to remain available until expended.
+&emsp;The Secretary shall establish by regulation a reimbursement (user fee) program, similar to the method described in section 1622(h) of title 7,<sup>2</sup> by which the Secretary assesses fees and requires accredited third-party auditors and audit agents to reimburse the Food and Drug Administration for the work performed to establish and administer the accreditation system under this section. The Secretary shall make operating this program revenue-neutral and shall not generate surplus revenue from such a reimbursement mechanism. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to remain available until expended.
 
 #### (d) Recertification of eligible entities
 

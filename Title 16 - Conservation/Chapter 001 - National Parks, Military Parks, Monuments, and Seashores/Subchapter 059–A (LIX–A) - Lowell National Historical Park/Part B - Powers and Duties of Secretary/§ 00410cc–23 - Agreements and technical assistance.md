@@ -12,7 +12,7 @@ The Secretary may enter into agreements with any owner of property with national
 
 (1) The Secretary shall provide, upon request, technical assistance to—
 
-&emsp;(A) the city of Lowell to assist the city in establishing regulations or laws consistent with the standards and criteria established pursuant to section 410cc–32(e) of this title; and
+&emsp;(A) the city of Lowell to assist the city in establishing regulations or laws consistent withthe standards and criteria established pursuant to section 410cc–32(e) of this title; and
 
 &emsp;(B) the Commission to assist the Commission in establishing the index and the standards and criteria required by section 410cc–32 of this title.
 

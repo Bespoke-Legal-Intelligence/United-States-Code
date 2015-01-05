@@ -10,7 +10,7 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 &emsp;(A) willfully or repeatedly failed to comply substantially with the terms and conditions of any license, permit, certificate, or other instrument or authorization issued by the Commission;
 
-&emsp;(B) willfully or repeatedly failed to comply with any of the provisions of this chapter or of any rule, regulation, or order issued by the Commission under this chapter or under any treaty, convention, or other agreement to which the United States is a party and which is binding upon the United States;
+&emsp;(B) willfully or repeatedly failed to comply with any of the provisions of this chapter or ofany rule, regulation, or order issued by the Commission under this chapter or under any treaty, convention, or other agreement to which the United States is a party and which is binding upon the United States;
 
 &emsp;(C) violated any provision of section 317(c) or 509(a) of this title; or
 
@@ -66,7 +66,7 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 > For purposes of this paragraph, "date of commencement of the current term of such license" means the date of commencement of the last term of license for which the licensee has been granted a license by the Commission. A separate license term shall not be deemed to have commenced as a result of continuing a license in effect under section 307(c) of this title pending decision on an application for renewal of the license.
 
-(June 19, 1934, ch. 652, title V, §503, 48 Stat. 1101; Pub. L. 86–752, §7(a), Sept. 13, 1960, 74 Stat. 894; Pub. L. 95–234, §2, Feb. 21, 1978, 92 Stat. 33; Pub. L. 96–507, §2(b), Dec. 8, 1980, 94 Stat. 2747; Pub. L.97–259, title I, §124, Sept. 13, 1982, 96 Stat. 1098; Pub. L. 98–214, §4(b), Dec. 8, 1983, 97 Stat. 1468; Pub. L. 101–239, title III, §3002(i), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 101–396, §10, Sept. 28, 1990, 104 Stat. 851; Pub. L. 102–538, title II, §§206, 210(b), Oct. 27, 1992, 106 Stat. 3543, 3544; Pub. L. 109–235, §2, June 15, 2006, 120 Stat. 491; Pub. L. 110–385, title II, §221, Oct. 10, 2008, 122 Stat. 4105; Pub. L. 111–260, title I, §104(c), Oct. 8, 2010, 124 Stat. 2761.)
+(June 19, 1934, ch. 652, title V, §503, 48 Stat. 1101; Pub. L. 86–752, §7(a), Sept. 13, 1960, 74 Stat. 894; Pub. L. 95–234, §2, Feb. 21, 1978, 92 Stat. 33; Pub. L. 96–507, §2(b), Dec. 8, 1980, 94 Stat. 2747; Pub. L. 97–259, title I, §124, Sept. 13, 1982, 96 Stat. 1098; Pub. L. 98–214, §4(b), Dec. 8, 1983, 97 Stat. 1468; Pub. L. 101–239, title III, §3002(i), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 101–396, §10, Sept. 28, 1990, 104 Stat. 851; Pub. L. 102–538, title II, §§206, 210(b), Oct. 27, 1992, 106 Stat. 3543, 3544; Pub. L. 109–235, §2, June 15, 2006, 120 Stat. 491; Pub. L. 110–385, title II, §221, Oct. 10, 2008, 122 Stat. 4105; Pub. L. 111–260, title I, §104(c), Oct. 8, 2010, 124 Stat. 2761.)
 
 #### References in Text
 

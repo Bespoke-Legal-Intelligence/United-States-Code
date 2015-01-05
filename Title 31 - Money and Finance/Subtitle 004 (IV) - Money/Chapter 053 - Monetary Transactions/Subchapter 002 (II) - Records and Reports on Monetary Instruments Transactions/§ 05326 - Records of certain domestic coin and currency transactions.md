@@ -20,7 +20,7 @@ Authority To Order Depository Institutions To Obtain Reports From Customers.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury may, by regulation or order, require anydepository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
+In general.—The Secretary of the Treasury may, by regulation or order, require any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
 
 &emsp;&emsp;(A) to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the coins or currency (or monetary instruments) which are involved in the reportable transaction with the depository institution; and
 

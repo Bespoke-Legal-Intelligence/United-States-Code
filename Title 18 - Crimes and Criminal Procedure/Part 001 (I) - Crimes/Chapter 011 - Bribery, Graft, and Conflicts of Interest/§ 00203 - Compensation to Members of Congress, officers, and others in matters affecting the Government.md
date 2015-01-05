@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) at a time when such person is a Member of Congress, Member of Congress Elect, Delegate, Delegate Elect, Resident Commissioner, or Resident Commissioner Elect; or
 
-&emsp;&emsp;(B) at a time when such person is an officer or employee or Federal judge of theUnited States in the executive, legislative, or judicial branch of the Government, or in any agency of the United States,
+&emsp;&emsp;(B) at a time when such person is an officer or employee or Federal judge of the United States in the executive, legislative, or judicial branch of the Government, or in any agency of the United States,
 
 > &emsp;in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which the United States is a party or has a direct and substantial interest, before any department, agency, court, court-martial, officer, or any civil, military, or naval commission; or
 
@@ -64,7 +64,7 @@ Subsec. (f). Pub. L. 101–280, §5(b)(5), added subsec. (f).
 
 Subsec. (a)(1). Pub. L. 101–194, §402(1), (2), (7), in introductory provisions, substituted "representational services, as agent or attorney or otherwise," for "services", in concluding provisions, inserted "court," after "department, agency," and in subpar. (B), struck out "including the District of Columbia," after "agency of the United States".
 
-Subsec. (a)(2). Pub. L. 101–194, §402(4)–(6), inserted "representational" before "services", "Member Elect,"after "Member," and "Delegate Elect," after "Delegate,".
+Subsec. (a)(2). Pub. L. 101–194, §402(4)–(6), inserted "representational" before "services", "Member Elect," after "Member," and "Delegate Elect," after "Delegate,".
 
 Subsec. (b). Pub. L. 101–194, §402(9), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -112,7 +112,7 @@ Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: "All
 
 Pub. L. 97–241, title I, §120, Aug. 24, 1982, 96 Stat. 280, provided that:
 
-"(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
+"(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on filewith the Department of State the financial disclosure report required for special Government employees.
 
 "(b) As used in this section, the term 'international telecommunications meeting or conference' means the conferences of the International Telecommunications Union, meetings of its International Consultative Committees for Radio and for Telephone and Telegraph, and such other international telecommunications meetings or conferences as the Secretary of State may designate."
 

@@ -86,7 +86,7 @@
 
 #### (1) Designated 9–1–1 charges
 
-&emsp;For the purposes of this subsection, the term "designated 9–1–1 charges" means any taxes,fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
+&emsp;For the purposes of this subsection, the term "designated 9–1–1 charges" means any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
 
 #### (2) Certification
 
@@ -110,7 +110,7 @@
 
 #### (1) In general
 
-&emsp;From the amounts made available to the Assistant Secretary and the Administrator under section 1457(b)(6) of this title, the Assistant Secretary and the Administrator are authorized to provide grants under this section through the end of fiscal year 2022. Not more than 5 percent of such amounts may be obligated or expended to cover the administrative costs of carrying out this section.
+&emsp;From the amounts made available to the Assistant Secretary and the Administrator undersection 1457(b)(6) of this title, the Assistant Secretary and the Administrator are authorized to provide grants under this section through the end of fiscal year 2022. Not more than 5 percent of such amounts may be obligated or expended to cover the administrative costs of carrying out this section.
 
 #### (2) Termination
 

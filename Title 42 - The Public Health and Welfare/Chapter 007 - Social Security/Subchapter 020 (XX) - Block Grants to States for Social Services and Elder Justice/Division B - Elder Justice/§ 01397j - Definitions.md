@@ -20,7 +20,7 @@ In this division:
 
 #### (3) Caregiver
 
-&emsp;The term "caregiver" means an individual who has the responsibility for the care of an elder, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law, and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an elder who needs supportive services in any setting.
+&emsp;The term "caregiver" means an individual who has the responsibility for the care of an elder, either voluntarily, by contract, by receipt of payment for care, or as a result of theoperation of law, and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an elder who needs supportive services in any setting.
 
 #### (4) Direct care
 

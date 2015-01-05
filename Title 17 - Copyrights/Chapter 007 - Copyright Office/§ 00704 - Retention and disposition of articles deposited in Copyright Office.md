@@ -1,6 +1,6 @@
 ### §704. Retention and disposition of articles deposited in Copyright Office
 
-(a) Upon their deposit in the Copyright Office under sections 407 and 408, all copies, phonorecords, and identifying material, includingthose deposited in connection with claims that have been refused registration, are the property of the United States Government.
+(a) Upon their deposit in the Copyright Office under sections 407 and 408, all copies, phonorecords, and identifying material, including those deposited in connection with claims that have been refused registration, are the property of the United States Government.
 
 (b) In the case of published works, all copies, phonorecords, and identifying material deposited are available to the Library of Congress for its collections, or for exchange or transfer to any other library. In the case of unpublished works, the Library is entitled, under regulations that the Register of Copyrights shall prescribe, to select any deposits for its collections or for transfer to the National Archives of the United States or to a Federal records center, as defined in section 2901 of title 44.
 

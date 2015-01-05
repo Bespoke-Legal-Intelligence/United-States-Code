@@ -106,7 +106,7 @@ The Administrator shall directly administer the grant program required by this s
 
 #### (2) Notice to recipients of assistance
 
-&emsp;In allocating grants under this section, the Administrator shall provide to each recipienta notice describing the statement made in paragraph (1) by the Congress.
+&emsp;In allocating grants under this section, the Administrator shall provide to each recipient a notice describing the statement made in paragraph (1) by the Congress.
 
 (Pub. L. 93–498, §25, as added Pub. L. 103–254, §3, May 19, 1994, 108 Stat. 679.)
 

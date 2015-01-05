@@ -52,11 +52,11 @@ Strategy Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Federal Acquisition Regulatory Council shall develop a strategy for ensuring that timely, accurate, and complete information on contractor performance is included in past performance databases used by executive agencies for making source selection decisions.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Federal Acquisition Regulatory Council shall developa strategy for ensuring that timely, accurate, and complete information on contractor performance is included in past performance databases used by executive agencies for making source selection decisions.
 
 &emsp;"(2)
 
-Consultation with usdatl.—In developing the strategy required by this subsection, the Federal Acquisition Regulatory Council shall consult with the Under Secretary of Defense for Acquisition, Technology, and Logistics to ensure that the strategy is, to the extent practicable, consistent with the strategy developed by the Under Secretary pursuant tosection 806 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1487; 10 U.S.C. 2302 note).
+Consultation with usdatl.—In developing the strategy required by this subsection, the Federal Acquisition Regulatory Council shall consult with the Under Secretary of Defense for Acquisition, Technology, and Logistics to ensure that the strategy is, to the extent practicable, consistent with the strategy developed by the Under Secretary pursuant to section 806 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1487; 10 U.S.C. 2302 note).
 
 "(b)
 

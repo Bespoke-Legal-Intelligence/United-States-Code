@@ -22,7 +22,7 @@ The Director shall establish for each year the amount to be awarded for scholars
 
 <b>1968</b>—Pub. L. 90–407 inserted social sciences to the enumerated list of sciences, and substituted "throughout the United States" for "among the States, Territories, possessions, and the District of Columbia".
 
-<b>1962</b>—Pub. L. 87–835 authorized the Foundation to refuse or revoke a scholarship or fellowship award if they believe such award is not in the best interests of the United States.
+<b>1962</b>—Pub. L. 87–835 authorized the Foundation to refuse or revoke a scholarship or fellowship award ifthey believe such award is not in the best interests of the United States.
 
 <b>1960</b>—Pub. L. 86–550 authorized the selection of nationals for scholarships and fellowships.
 

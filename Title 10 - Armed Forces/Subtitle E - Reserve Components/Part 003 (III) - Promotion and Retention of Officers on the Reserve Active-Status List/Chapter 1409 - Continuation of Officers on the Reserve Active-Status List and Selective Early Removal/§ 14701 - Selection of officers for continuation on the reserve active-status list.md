@@ -2,7 +2,15 @@
 
 (a)
 
-Consideration for Continuation.—(1) A reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title may, subject to the needs of the service and to section 14509 of this title, be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
+Consideration for Continuation.—(1)(A) A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under section 14504 of this title, or a reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title, may be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
+
+(B) A reserve officer covered by this subparagraph is a reserve officer of the Army, Air Force, or Marine Corps who holds the grade of first lieutenant, or a reserve officer of the Navy who holds the grade of lieutenant (junior grade), and who—
+
+&emsp;(i) is a health professions officer; or
+
+&emsp;(ii) is actively pursuing an undergraduate program of education leading to a baccalaureate degree.
+
+(C) The consideration of a reserve officer for continuation on the reserve active-status list pursuant to this paragraph is subject to the needs of the service and to section 14509 of this title.
 
 (2) A reserve officer who holds the grade of captain in the Army, Air Force, or Marine Corps or the grade of lieutenant in the Navy and who is subject to separation under section 14513 of this title may not be continued on the reserve active-status list under this subsection for a period which extends beyond the last day of the month in which the officer completes 20 years of commissioned service.
 
@@ -18,11 +26,23 @@ Consideration for Continuation.—(1) A reserve officer of the Army, Navy, Air F
 
 (b)
 
+Continuation of Health Professions Officers.—(1) Notwithstanding subsection (a)(6), a health professions officer obligated to a period of service incurred under section 16201 of this title who is required to be removed from the reserve active-status list under section 14504, 14505, 14506, or 14507 of this title and who has not completed a service obligation incurred under section 16201 of this title shall be retained on the reserve active-status list until the completion of such service obligation and then discharged, unless sooner retired or discharged under another provision of law.
+
+(2) The Secretary concerned may waive the applicability of paragraph (1) to any officer if the Secretary determines that completion of the service obligation of that officer is not in the best interest of the service.
+
+(3) A health professions officer who is continued on the reserve active-status list under this subsection who is subsequently promoted or whose name is on a list of officers recommended for promotion to the next higher grade is not required to be discharged or retired upon completion of the officer's service obligation. Such officer may continue on the reserve active-status list as other officers of the same grade unless separated under another provision of law.
+
+(c)
+
 Regulations.—The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §522\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 108–136, div. A, title V, §511(a), Nov. 24, 2003, 117 Stat. 1459.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §522\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 108–136, div. A, title V, §511(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 113–291, div. A, title V, §511, Dec. 19, 2014, 128 Stat. 3357.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–291, §511(a), designated existing provisions as subpar. (A), substituted "A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status listunder section 14504 of this title, or a reserve officer of" for "A reserve officer of" and "of this title, may" for "of this title may, subject to the needs of the service and to section 14509 of this title,", and added subpars. (B) and (C).
+
+Subsecs. (b), (c). Pub. L. 113–291, §511(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §511(a)(1)(A), substituted "under regulations prescribed by the Secretary of Defense" for "by a selection board convened under section 14101(b) of this title".
 

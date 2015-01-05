@@ -4,7 +4,7 @@
 
 In order to be approved under section 6947 of this title, each State plan must comply with the following minimum requirements—
 
-&emsp;(1) The plan shall identify (in accordance with section 6946(b) of this title) (A) the responsibilities of State, local, and regional authorities in the implementation of the State plan, (B) the distribution of Federal funds to the authorities responsible for development and implementation of the State plan, and (C)the means for coordinating regional planning and implementation under the State plan.
+&emsp;(1) The plan shall identify (in accordance with section 6946(b) of this title) (A) the responsibilities of State, local, and regional authorities in the implementation of the State plan, (B) the distribution of Federal funds to the authorities responsible for development and implementation of the State plan, and (C) the means for coordinating regional planning and implementation under the State plan.
 
 &emsp;(2) The plan shall, in accordance with sections 6944(b) and 6945(a) of this title, prohibit the establishment of new open dumps within the State, and contain requirements that all solid waste (including solid waste originating in other States, but not including hazardous waste) shall be (A) utilized for resource recovery or (B) disposed of in sanitary landfills (within the meaning of section 6944(a) of this title) or otherwise disposed of in an environmentally sound manner.
 
@@ -62,7 +62,7 @@ Any State plan submitted under this subchapter may include, at the option of the
 
 Notwithstanding any of the above requirements, it is the intention of this chapter and the planning process developed pursuant to this chapter that in determining the size of the waste-to-energy facility, adequate provision shall be given to the present and reasonably anticipated future needs of the recycling and resource recovery interest within the area encompassed by the planning process.
 
-(Pub. L. 89–272, title II, §4003, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2814; amended Pub. L. 96–463, §5(b), Oct. 15, 1980, 94 Stat. 2056; Pub. L. 96–482, §§18, 32(d), Oct. 21, 1980, 94 Stat.2345, 2353; Pub. L. 98–616, title III, §301(b), title V, §502(h), Nov. 8, 1984, 98 Stat. 3267, 3277.)
+(Pub. L. 89–272, title II, §4003, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2814; amended Pub. L. 96–463, §5(b), Oct. 15, 1980, 94 Stat. 2056; Pub. L. 96–482, §§18, 32(d), Oct. 21, 1980, 94 Stat. 2345, 2353; Pub. L. 98–616, title III, §301(b), title V, §502(h), Nov. 8, 1984, 98 Stat. 3267, 3277.)
 
 #### Codification
 

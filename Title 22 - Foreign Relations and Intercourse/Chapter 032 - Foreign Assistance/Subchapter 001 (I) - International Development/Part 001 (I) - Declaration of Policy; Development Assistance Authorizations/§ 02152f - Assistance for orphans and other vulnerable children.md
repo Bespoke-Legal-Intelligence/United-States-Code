@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;(5) Famines, natural disasters, chronic poverty, ongoing conflicts, and civil wars in developing countries are adversely affecting children in these countries, the vast majority of whom currently do not receive humanitarian assistance or other support from the United States.
 
-&emsp;(6) The United States Government administers various assistance programs for orphans and other vulnerable children in developing countries. In order to improve targeting and programming of resources, the United States Agency for International Development shoulddevelop methods to adequately track the overall number of orphans and other vulnerable children receiving assistance, the kinds of programs for such children by sector and location, and any other such related data and analysis.
+&emsp;(6) The United States Government administers various assistance programs for orphans and other vulnerable children in developing countries. In order to improve targeting and programming of resources, the United States Agency for International Development should develop methods to adequately track the overall number of orphans and other vulnerable children receiving assistance, the kinds of programs for such children by sector and location, and any other such related data and analysis.
 
 &emsp;(7) The United States Agency for International Development should improve its capabilities to deliver assistance to orphans and other vulnerable children in developing countries through partnerships with private volunteer organizations, including community and faith-based organizations.
 
@@ -96,7 +96,7 @@ The President is authorized to provide assistance, including providing such assi
 
 &emsp;The duties of the Special Advisor for Assistance to Orphans and Vulnerable Children shall include the following:
 
-&emsp;&emsp;(A) Coordinate assistance to orphans and other vulnerable children among the variousoffices, bureaus, and field missions within the United States Agency for International Development.
+&emsp;&emsp;(A) Coordinate assistance to orphans and other vulnerable children among the various offices, bureaus, and field missions within the United States Agency for International Development.
 
 &emsp;&emsp;(B) Advise the various offices, bureaus, and field missions within the United States Agency for International Development to ensure that programs approved for assistance under this section are consistent with best practices, meet the requirements of this chapter, and conform to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 
@@ -108,7 +108,7 @@ The President is authorized to provide assistance, including providing such assi
 
 &emsp;&emsp;(F) Disseminate a collection of best practices to field missions of the United States Agency for International Development to guide the development and implementation of programs to assist orphans and vulnerable children.
 
-&emsp;&emsp;(G) Administer the monitoring and evaluation system established in subsection (d) of this section.
+&emsp;&emsp;(G) Administer the monitoring and evaluation system established in subsection (d).
 
 &emsp;&emsp;(H) Prepare the annual report required by section 2152g of this title.
 
@@ -134,10 +134,6 @@ This chapter, referred to in subsec. (e)(2)(B), (C), was in the original "this A
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (e)(2)(D), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, as amended, which is classified principally to chapter 83 (§7601 et seq.) of this title. Section 102 of the Act enacted section 7612 of this title and amended section 2651a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
-#### Codification
-
-Another section 135 of Pub. L. 87–195 is classified to section 2152h of this title.
-
 #### Findings
 
 Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress makes the following findings:
@@ -152,7 +148,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;"(5) The trauma that results from the loss of a parent can trigger behavior problems of aggression or emotional withdrawal and negatively affect a child's performance in school and the child's social relations. Children living in families affected by HIV/AIDS or who have been orphaned by AIDS often face stigmatization and discrimination. Providing culturally appropriate psychosocial support to such children can assist them in successfully accepting and adjusting to their circumstances.
 
-&emsp;"(6) Orphans and other vulnerable children in developing countries routinely are denied their inheritance or encounter difficulties in claiming the land and other property which they have inherited. Even when the inheritance rights of women and children are spelled out in law, such rights are difficult to claim and are seldom enforced. In many countries itis difficult or impossible for a widow, even if she has young children, to claim property after the death of her husband.
+&emsp;"(6) Orphans and other vulnerable children in developing countries routinely are denied their inheritance or encounter difficulties in claiming the land and other property which they have inherited. Even when the inheritance rights of women and children are spelled out in law, such rights are difficult to claim and are seldom enforced. In many countries it is difficult or impossible for a widow, even if she has young children, to claim property after the death of her husband.
 
 &emsp;"(7) The HIV/AIDS pandemic has had a devastating affect on children and is deepening poverty in entire communities and jeopardizing the health, safety, and survival of all children in affected areas.
 
@@ -170,7 +166,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;"(14) Although section 403(b) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(b)) establishes the requirement that not less than 10 percent of amounts appropriated for HIV/AIDS assistance for each of fiscal years 2006 through 2008 shall be expended for assistance for orphans and other vulnerable children affected by HIV/AIDS, there is an urgent need to provide assistance to such children prior to 2006.
 
-&emsp;"(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the United States Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
+&emsp;"(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the UnitedStates Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
 
 &emsp;"(16) Increasing the amount of assistance that is provided by the Administrator of the United States Agency for International Development through United States and indigenous private voluntary organizations, including faith-based organizations, will provide greater protection for orphans and other vulnerable children in developing countries.
 

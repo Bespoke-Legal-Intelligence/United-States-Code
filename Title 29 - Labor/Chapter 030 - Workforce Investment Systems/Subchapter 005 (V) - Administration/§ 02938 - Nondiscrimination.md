@@ -4,7 +4,7 @@
 
 #### (1) Federal financial assistance
 
-&emsp;For the purpose of applying the prohibitions against discrimination on the basis of age under the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), on the basis of disability under section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), on the basis of sex under title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), programs and activities funded or otherwise financially assisted in whole or in part under this Act are considered to be programs and activities receiving Federal financial assistance.
+&emsp;For the purpose of applying the prohibitions against discrimination on the basis of ageunder the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), on the basis of disability under section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), on the basis of sex under title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), programs and activities funded or otherwise financially assisted in whole or in part under this Act are considered to be programs and activities receiving Federal financial assistance.
 
 #### (2) Prohibition of discrimination regarding participation, benefits, and employment
 
@@ -44,13 +44,17 @@ The Secretary shall issue regulations necessary to implement this section not la
 
 (Pub. L. 105–220, title I, §188, Aug. 7, 1998, 112 Stat. 1049.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
 The Education Amendments of 1972, referred to in subsec. (a)(1), (2), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -59,6 +63,10 @@ This chapter, referred to in subsecs. (a)(3) to (5), (b), and (c), was in the or
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1577 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

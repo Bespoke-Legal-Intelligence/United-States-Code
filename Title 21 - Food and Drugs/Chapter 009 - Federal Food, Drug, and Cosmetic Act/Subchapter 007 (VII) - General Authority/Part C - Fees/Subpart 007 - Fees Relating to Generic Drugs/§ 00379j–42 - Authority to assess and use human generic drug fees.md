@@ -12,7 +12,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (B) Method of fee amount calculation
 
-&emsp;&emsp;The amount of each one-time backlog fee shall be calculated by dividing $50,000,000 by the total number of abbreviated new drug applications pending on October 1, 2012, thathave not received a tentative approval as of that date.
+&emsp;&emsp;The amount of each one-time backlog fee shall be calculated by dividing $50,000,000 by the total number of abbreviated new drug applications pending on October 1, 2012, that have not received a tentative approval as of that date.
 
 #### (C) Notice
 
@@ -104,7 +104,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;&emsp;(II) 30 calendar days after publication of the notice referred to in subparagraph (B)(i); or
 
-&emsp;&emsp;&emsp;&emsp;(III) if an appropriations Act is not enacted providing for the collection andobligation of fees for such year under this section by the date of submission of the application or prior approval supplement for which the fees under subparagraphs (A) and (F) apply, 30 calendar days after the date that such an appropriations Act is enacted.
+&emsp;&emsp;&emsp;&emsp;(III) if an appropriations Act is not enacted providing for the collection and obligation of fees for such year under this section by the date of submission of the application or prior approval supplement for which the fees under subparagraphs (A) and (F) apply, 30 calendar days after the date that such an appropriations Act is enacted.
 
 #### (D) Refund of fee if abbreviated new drug application is not considered to have been received
 
@@ -138,7 +138,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (iii) Facilities producing both active pharmaceutical ingredients and finished dosage forms
 
-&emsp;&emsp;&emsp;Each person that owns a facility identified, or intended to be identified, in at least one generic drug submission that is pending or approved to produce both one or more finished dosage forms subject to clause (i) and one or more active pharmaceutical ingredients subject to clause (ii) shall be subject to fees under both such clauses for that facility.
+&emsp;&emsp;&emsp;Each person that owns a facility identified, or intended to be identified, in atleast one generic drug submission that is pending or approved to produce both one or more finished dosage forms subject to clause (i) and one or more active pharmaceutical ingredients subject to clause (ii) shall be subject to fees under both such clauses for that facility.
 
 #### (B) Amount
 
@@ -170,7 +170,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;&emsp;(I) the first business day on or after October 1 of each such year; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the first business day after the enactment of an appropriations Act providing for the collection and obligation offees for such year under this section for such year.
+&emsp;&emsp;&emsp;&emsp;(II) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section for such year.
 
 #### (5) Date of submission
 
@@ -206,7 +206,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(C) Fifty-six percent shall be derived from fees under subsection (a)(4)(A)(i) (relating to generic drug facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility located in the United States and its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States, including its territories and possessions, and those located outside of the United States and its territories and possessions.
 
-&emsp;&emsp;(D) Fourteen percent shall be derived from fees under subsection (a)(4)(A)(ii) (relating to active pharmaceutical ingredient facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility located in the United States, including its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States and its territories and possessions and those located outside of the United States and its territories and possessions.
+&emsp;&emsp;(D) Fourteen percent shall be derived from fees under subsection (a)(4)(A)(ii) (relating to active pharmaceutical ingredient facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility locatedin the United States, including its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States and its territories and possessions and those located outside of the United States and its territories and possessions.
 
 #### (c) Adjustments
 
@@ -224,7 +224,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (2) Final year adjustment
 
-&emsp;For fiscal year 2017, the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenues and fees established in subsection (b) if such an adjustment is necessary to provide for not more than 3 months of operating reserves of carryover user fees for human generic drug activities forthe first 3 months of fiscal year 2018. Such fees may only be used in fiscal year 2018. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2017. If the Secretary has carryover balances for such activities in excess of 3 months of such operating reserves, the adjustment under this subparagraph shall not be made.
+&emsp;For fiscal year 2017, the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenues and fees established in subsection (b) if such an adjustment is necessary to provide for not more than 3 months of operating reserves of carryover user fees for human generic drug activities for the first 3 months of fiscal year 2018. Such fees may only be used in fiscal year 2018. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2017. If the Secretary has carryover balances for such activities in excess of 3 months of such operating reserves, the adjustment under this subparagraph shall not be made.
 
 #### (d) Annual fee setting
 
@@ -264,7 +264,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 #### (2) Required submission of facility identification
 
-&emsp;Each person that owns a facility described in subsection (a)(4)(A) or a site or organization required to be identified by paragraph (4) shall submit to the Secretary the information required under this subsection each year. Such information shall—
+&emsp;Each person that owns a facility described in subsection (a)(4)(A) or a site or organizationrequired to be identified by paragraph (4) shall submit to the Secretary the information required under this subsection each year. Such information shall—
 
 &emsp;&emsp;(A) for fiscal year 2013, be submitted not later than 60 days after the publication of the notice under paragraph (1); and
 
@@ -304,7 +304,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 #### (C) Notice
 
-&emsp;&emsp;The Secretary may, by notice published in the Federal Register, specify the means and format for submission of the information under subparagraph (A) and may specify, asnecessary for purposes of this section, any additional information to be submitted.
+&emsp;&emsp;The Secretary may, by notice published in the Federal Register, specify the means and format for submission of the information under subparagraph (A) and may specify, as necessary for purposes of this section, any additional information to be submitted.
 
 #### (D) Inspection authority
 
@@ -338,7 +338,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 &emsp;&emsp;Failure to pay the fee under subsection (a)(4) within 20 calendar days of the due date as specified in subparagraph (D) of such subsection shall result in the following:
 
-&emsp;&emsp;&emsp;(i) The Secretary shall place the facility on a publicly available arrears list, such that no new abbreviated new drug application or supplement submitted on or after October 1, 2012, from the person that is responsible for paying such fee, or any affiliate of that person, will be received within the meaning of section 355(j)(5)(A) of this title.
+&emsp;&emsp;&emsp;(i) The Secretary shall place the facility on a publicly available arrears list, such that no new abbreviated new drug application or supplement submitted on or afterOctober 1, 2012, from the person that is responsible for paying such fee, or any affiliate of that person, will be received within the meaning of section 355(j)(5)(A) of this title.
 
 &emsp;&emsp;&emsp;(ii) Any new generic drug submission submitted on or after October 1, 2012, that references such a facility shall not be received, within the meaning of section 355(j)(5)(A) of this title if the outstanding facility fee is not paid within 20 calendar days of the Secretary providing the notification to the sponsor of the failure of the owner of the facility to pay the facility fee under subsection (a)(4)(C).
 
@@ -362,7 +362,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 #### (1) In general
 
-&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year2012, unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor (as defined in section 379j–41 of this title) applicable to the fiscal year involved.
+&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 2012, unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor (as defined in section 379j–41 of this title) applicable to the fiscal year involved.
 
 #### (2) Authority
 

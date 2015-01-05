@@ -54,7 +54,7 @@
 
 &emsp;(12) The institution's administrators, directors, owners, and instructors are of good reputation and character.
 
-&emsp;(13) The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course or withdraws or is discontinued therefrom at any time before completion and—
+&emsp;(13) The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course orwithdraws or is discontinued therefrom at any time before completion and—
 
 &emsp;&emsp;(A) in the case of an institution (other than (i) a Federal, State, or local Government institution or (ii) an institution described in subparagraph (B)), such policy provides that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length; or
 

@@ -16,7 +16,7 @@ Every applicable policyholder owning 1 or more employer-owned life insurance con
 
 #### (b) Recordkeeping requirement
 
-Each applicable policyholder owning 1 or more employer-owned life insurance contracts during any year shall keep such records as may be necessary for purposes of determining whether the requirements of this section and section 101(j) are met.
+Each applicable policyholder owning 1 or more employer-owned life insurance contracts duringany year shall keep such records as may be necessary for purposes of determining whether the requirements of this section and section 101(j) are met.
 
 #### (c) Definitions
 

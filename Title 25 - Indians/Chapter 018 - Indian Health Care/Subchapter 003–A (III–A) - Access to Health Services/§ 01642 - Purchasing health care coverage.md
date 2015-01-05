@@ -56,7 +56,7 @@ Pub. L. 102–573, title IV, §401(b)(2), Oct. 29, 1992, 106 Stat. 4565, provide
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–713, title IV, §401(c), Nov. 23, 1988, 102 Stat. 4818, provided that: "The amendments made bythis section \[amending this section\] shall apply to services performed on or after the date of the enactment of this Act \[Nov. 23, 1988\]."
+Pub. L. 100–713, title IV, §401(c), Nov. 23, 1988, 102 Stat. 4818, provided that: "The amendments made by this section \[amending this section\] shall apply to services performed on or after the date of the enactment of this Act \[Nov. 23, 1988\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "or".</i>
 

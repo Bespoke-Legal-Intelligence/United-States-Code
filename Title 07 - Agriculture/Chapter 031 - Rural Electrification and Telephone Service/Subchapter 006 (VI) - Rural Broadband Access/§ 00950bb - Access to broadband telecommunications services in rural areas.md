@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Incumbent service provider
 
-&emsp;The term "incumbent service provider", with respect to an application submittedunder this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
+&emsp;The term "incumbent service provider", with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
 
 #### (3) Rural area
 
@@ -38,7 +38,23 @@ In this section:
 
 #### (2) Priority
 
-&emsp;In making or guaranteeing loans under paragraph (1), the Secretary shall give the highest priority to applicants that offer to provide broadband service to the greatest proportion of households that, prior to the provision of the broadband service, had no incumbent service provider.
+&emsp;In making loans or loan guarantees under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;(A) establish not less than 2 evaluation periods for each fiscal year to compare loan and loan guarantee applications and to prioritize loans and loan guarantees to all or part of rural communities that do not have residential broadband service that meets the minimum acceptable level of broadband service established under subsection (e);
+
+&emsp;&emsp;(B) give the highest priority to applicants that offer to provide broadband service to the greatest proportion of unserved households or households that do not have residential broadband service that meets the minimum acceptable level of broadband service established under subsection (e), as—
+
+&emsp;&emsp;&emsp;(i) certified by the affected community, city, county, or designee; or
+
+&emsp;&emsp;&emsp;(ii) demonstrated on—
+
+&emsp;&emsp;&emsp;&emsp;(I) the broadband map of the affected State if the map contains address-level data; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the National Broadband Map if address-level data is unavailable; and
+
+&emsp;&emsp;(C) provide equal consideration to all qualified applicants, including applicants that have not previously received loans or loan guarantees under paragraph (1); and
+
+&emsp;&emsp;(D) give priority to applicants that offer in the applications of the applicants to provide broadband service not predominantly for business service, if at least 25 percent of the customers in the proposed service territory are commercial interests.
 
 #### (d) Eligibility
 
@@ -48,7 +64,7 @@ In this section:
 
 &emsp;&emsp;To be eligible to obtain a loan or loan guarantee under this section, an entity shall—
 
-&emsp;&emsp;&emsp;(i) demonstrate the ability to furnish, improve, or extend a broadband service to a rural area;
+&emsp;&emsp;&emsp;(i) demonstrate the ability to furnish, improve in order to meet the minimum acceptable level of broadband service established under subsection (e), or extend broadband service to all or part of an unserved rural area or an area below the minimum acceptable level of broadband service established under subsection (e);
 
 &emsp;&emsp;&emsp;(ii) submit to the Secretary a loan application at such time, in such manner, and containing such information as the Secretary may require; and
 
@@ -64,19 +80,19 @@ In this section:
 
 &emsp;&emsp;Except as provided in subparagraphs (B) and (C), the proceeds of a loan made or guaranteed under this section may be used to carry out a project in a proposed service territory only if, as of the date on which the application for the loan or loan guarantee is submitted—
 
-&emsp;&emsp;&emsp;(i) not less than 25 percent of the households in the proposed service territory is offered broadband service by not more than 1 incumbent service provider; and
+&emsp;&emsp;&emsp;(i) not less than 15 percent of the households in the proposed service territory are unserved or have service levels below the minimum acceptable level of broadband service established under subsection (e); and
 
 &emsp;&emsp;&emsp;(ii) broadband service is not provided in any part of the proposed service territory by 3 or more incumbent service providers.
 
-#### (B) Exception to 25 percent requirement
+#### (B) Exception to percent requirement
 
 &emsp;&emsp;Subparagraph (A)(i) shall not apply to the proposed service territory of a project if a loan or loan guarantee has been made under this section to the applicant to provide broadband service in the proposed service territory.
 
-#### (C) Exception to 3 or more incumbent service provider requirement
+#### (C) Exception to incumbent service provider requirement
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider in the portion of a proposed service territory in which the provider is upgrading broadband service to meet the minimum acceptable level of broadband service established under subsection (e) for the existing territory of the incumbent service provider.
 
 #### (ii) Exception
 
@@ -98,19 +114,53 @@ In this section:
 
 &emsp;&emsp;&emsp;The Secretary may not require an entity that proposes to have a subscriber projection of less than 20 percent of the broadband service market in a rural area to submit to the Secretary a market survey.
 
+#### (iii) Information
+
+&emsp;&emsp;&emsp;Information submitted under this subparagraph shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) certified by the affected community, city, county, or designee; or
+
+&emsp;&emsp;&emsp;&emsp;(II) demonstrated on—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the broadband map of the affected State if the map contains address-level data; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the National Broadband Map if address-level data is unavailable.
+
 #### (4) State and local governments and Indian tribes
 
 &emsp;Subject to paragraph (1), a State or local government (including any agency, subdivision, or instrumentality thereof (including consortia thereof)) and an Indian tribe shall be eligible for a loan or loan guarantee under this section to provide broadband services to a rural area.
 
-#### (5) Notice requirement
+#### (5) Notice requirements
 
-&emsp;The Secretary shall publish a notice of each application for a loan or loan guarantee underthis section describing the application, including—
+&emsp;The Secretary shall promptly provide a fully searchable database on the website of the Rural Utilities Service that contains, at a minimum—
 
-&emsp;&emsp;(A) the identity of the applicant;
+&emsp;&emsp;(A) notice of each application for a loan or loan guarantee under this section describing the application, including—
 
-&emsp;&emsp;(B) each area proposed to be served by the applicant; and
+&emsp;&emsp;&emsp;(i) the identity of the applicant;
 
-&emsp;&emsp;(C) the estimated number of households without terrestrial-based broadband service in those areas.
+&emsp;&emsp;&emsp;(ii) a description of each application, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) each area proposed to be served by the applicant; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount and type of support requested by each applicant;
+
+&emsp;&emsp;&emsp;(iii) the status of each application;
+
+&emsp;&emsp;&emsp;(iv) the estimated number and proportion relative to the service territory of households without terrestrial-based broadband service in those areas; and
+
+&emsp;&emsp;&emsp;(v) a list of the census block groups or proposed service territory, in a manner specified by the Secretary, that the applicant proposes to service;
+
+&emsp;&emsp;(B) notice of each entity receiving assistance under this section, including—
+
+&emsp;&emsp;&emsp;(i) the name of the entity;
+
+&emsp;&emsp;&emsp;(ii) the type of assistance being received;
+
+&emsp;&emsp;&emsp;(iii) the purpose for which the entity is receiving the assistance;
+
+&emsp;&emsp;&emsp;(iv) each semiannual report submitted under paragraph (8)(A) (redacted to protect any proprietary information in the report); and
+
+&emsp;&emsp;(C) such other information as is sufficient to allow the public to understand assistance provided under this section.
 
 #### (6) Paperwork reduction
 
@@ -120,13 +170,75 @@ In this section:
 
 &emsp;The Secretary shall establish a process under which a prospective applicant may seek a determination of area eligibility prior to preparing a loan application under this section.
 
+#### (8) Reporting
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall require any entity receiving assistance under this section to submit a semiannual report for 3 years after completion of the project, in a format specified by the Secretary, that describes—
+
+&emsp;&emsp;&emsp;(i) the use by the entity of the assistance, including new equipment and capacity enhancements that support high-speed broadband access for educational institutions, health care providers, and public safety service providers (including the estimated number of end users who are currently using or forecasted to use the new or upgraded infrastructure); and
+
+&emsp;&emsp;&emsp;(ii) the progress towards fulfilling the objectives for which the assistance was granted, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number and location of residences and businesses that will receivenew broadband service, existing network service improvements, and facility upgrades resulting from the Federal assistance;
+
+&emsp;&emsp;&emsp;&emsp;(II) the speed of broadband service;
+
+&emsp;&emsp;&emsp;&emsp;(III) the average price of broadband service in a proposed service area;
+
+&emsp;&emsp;&emsp;&emsp;(IV) any changes in broadband service adoption rates, including new subscribers generated from demand-side projects; and
+
+&emsp;&emsp;&emsp;&emsp;(V) any metrics the Secretary determines to be appropriate; <sup>1</sup>
+
+#### (B) Additional reporting
+
+&emsp;&emsp;The Secretary may require any additional reporting and information by any recipient of any assistance under this section so as to ensure compliance with this section.
+
+#### (9) Default and deobligation
+
+&emsp;In addition to other authority under applicable law, the Secretary shall establish written procedures for all broadband programs administered by the Rural Utilities Service under this or any other Act that, to the maximum extent practicable—
+
+&emsp;&emsp;(A) recover funds from loan defaults;
+
+&emsp;&emsp;(B) deobligate any awards, less allowable costs that demonstrate an insufficient level of performance (including metrics determined by the Secretary) or fraudulent spending, to the extent funds with respect to the award are available in the account relating to the program established by this section;
+
+&emsp;&emsp;(C) award those funds, on a competitive basis, to new or existing applicants consistent with this section; and
+
+&emsp;&emsp;(D) minimize overlap among the programs.
+
+#### (10) Service area assessment
+
+&emsp;The Secretary shall, with respect to an application for assistance under this section—
+
+&emsp;&emsp;(A) provide not less than 15 days for broadband service providers to voluntarily submit information concerning the broadband services that the providers offer in the census block groups or tracts described in paragraph (5)(A)(v) so that the Secretary may assess whether the applications submitted meet the eligibility requirements under this section; and
+
+&emsp;&emsp;(B) if no broadband service provider submits information under subparagraph (A), consider the number of providers in the census block group or tract to be established by using—
+
+&emsp;&emsp;&emsp;(i) the most current National Broadband Map of the National Telecommunications and Information Administration; or
+
+&emsp;&emsp;&emsp;(ii) any other data regarding the availability of broadband service that the Secretary may collect or obtain through reasonable efforts.
+
 #### (e) Broadband service
 
 #### (1) In general
 
-&emsp;The Secretary shall, from time to time as advances in technology warrant, review and recommend modifications of rate-of-data transmission criteria for purposes of the identification of broadband service technologies under subsection (b)(1).
+&emsp;Subject to paragraph (2), for purposes of this section, the minimum acceptable level of broadband service for a rural area shall be at least—
 
-#### (2) Prohibition
+&emsp;&emsp;(A) a 4-Mbps downstream transmission capacity; and
+
+&emsp;&emsp;(B) a 1-Mbps upstream transmission capacity.
+
+#### (2) Adjustments
+
+#### (A) In general
+
+&emsp;&emsp;At least once every 2 years, the Secretary shall review, and may adjust through notice published in the Federal Register, the minimum acceptable level of broadband service established under paragraph (1) to ensure that high quality, cost-effective broadband service is provided to rural areas over time.
+
+#### (B) Considerations
+
+&emsp;&emsp;In making an adjustment to the minimum acceptable level of broadband service under subparagraph (A), the Secretary may consider establishing different transmission rates for fixed broadband service and mobile broadband service.
+
+#### (3) Prohibition
 
 &emsp;The Secretary shall not establish requirements for bandwidth or speed that have the effect of precluding the use of evolving technologies appropriate for rural areas.
 
@@ -152,9 +264,13 @@ For purposes of determining whether to make a loan or loan guarantee for a proje
 
 &emsp;&emsp;(B) have a term of such length, not exceeding 35 years, as the borrower may request, if the Secretary determines that the loan is adequately secured.
 
-#### (2) Term
+#### (2) Terms
 
-&emsp;In determining the term of a loan or loan guarantee, the Secretary shall consider whether the recipient is or would be serving an area that is not receiving broadband services.
+&emsp;In determining the term and conditions of a loan or loan guarantee, the Secretary may—
+
+&emsp;&emsp;(A) consider whether the recipient is or would be serving an area that is unserved or has service levels below the minimum acceptable level of broadband service established under subsection (e); and
+
+&emsp;&emsp;(B) if the Secretary makes a determination in the affirmative under subparagraph (A), establish a limited initial deferral period or comparable terms necessary toachieve the financial feasibility and long-term sustainability of the project.
 
 #### (3) Recurring revenue
 
@@ -178,7 +294,7 @@ Notwithstanding any other provision of this chapter, the proceeds of any loan ma
 
 Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, and annually thereafter, the Administrator shall submit to Congress a report that describes the extent of participation in the loan and loan guarantee program under this section for the preceding fiscal year, including a description of—
 
-&emsp;(1) the number of loans applied for and provided under this section;
+&emsp;(1) the number of loans applied for and provided under this section, including any loan terms or conditions for which the Secretary provided additional assistance to unserved areas;
 
 &emsp;(2)(A) the communities proposed to be served in each loan application submitted for the fiscal year; and
 
@@ -188,15 +304,27 @@ Not later than 1 year after the date of enactment of the Food, Conservation, and
 
 &emsp;(4) any outreach activities carried out by the Secretary to encourage entities in rural areas without broadband service to submit applications under this section;
 
-&emsp;(5) the method by which the Secretary determines that a service enables a subscriber to originate and receive high-quality voice, data, graphics, and video for purposes of subsection (b)(1); and
+&emsp;(5) the method by which the Secretary determines that a service enables a subscriber to originate and receive high-quality voice, data, graphics, and video for purposes of subsection (b)(1);
 
-&emsp;(6) each broadband service, including the type and speed of broadband service, for whichassistance was sought, and each broadband service for which assistance was provided, under this section.
+&emsp;(6) each broadband service, including the type and speed of broadband service, for which assistance was sought, and each broadband service for which assistance was provided, under this section; and
+
+&emsp;(7) the overall progress towards fulfilling the goal of improving the quality of rural life by expanding rural broadband access, as demonstrated by metrics, including—
+
+&emsp;&emsp;(A) the number of residences and businesses receiving new broadband services;
+
+&emsp;&emsp;(B) network improvements, including facility upgrades and equipment purchases;
+
+&emsp;&emsp;(C) average broadband speeds and prices on a local and statewide basis;
+
+&emsp;&emsp;(D) any changes in broadband adoption rates; and
+
+&emsp;&emsp;(E) any specific activities that increased high speed broadband access for educational institutions, health care providers, and public safety service providers.
 
 #### (k) Funding
 
 #### (1) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
+&emsp;There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
 
 #### (2) Allocation of funds
 
@@ -222,9 +350,9 @@ Not later than 1 year after the date of enactment of the Food, Conservation, and
 
 #### (l) Termination of authority
 
-No loan or loan guarantee may be made under this section after September 30, 2012.
+No loan or loan guarantee may be made under this section after September 30, 2018.
 
-(May 20, 1936, ch. 432, title VI, §601, as added Pub. L. 107–171, title VI, §6103(a), May 13, 2002, 116 Stat. 415; amended Pub. L. 108–199, div. A, title VII, §772, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title VI, §6110(a), May 22, 2008, 122 Stat. 1199; Pub. L. 110–246, §4(a), title VI, §6110(a), June 18, 2008, 122 Stat. 1664, 1960.)
+(May 20, 1936, ch. 432, title VI, §601, as added Pub. L. 107–171, title VI, §6103(a), May 13, 2002, 116 Stat. 415; amended Pub. L. 108–199, div. A, title VII, §772, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title VI, §6110(a), May 22, 2008, 122 Stat.1199; Pub. L. 110–246, §4(a), title VI, §6110(a), June 18, 2008, 122 Stat. 1664, 1960; Pub. L. 113–79, title VI, §6104(a), Feb. 7, 2014, 128 Stat. 851.)
 
 #### References in Text
 
@@ -237,6 +365,34 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–79, §6104(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In making or guaranteeing loans under paragraph (1), the Secretary shall give the highest priority to applicants that offer to provide broadband service to the greatest proportion of households that, prior to the provision of the broadband service, had no incumbent service provider."
+
+Subsec. (d)(1)(A)(i). Pub. L. 113–79, §6104(a)(2)(A), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "demonstrate the ability to furnish, improve, or extend a broadband service to a rural area;".
+
+Subsec. (d)(2)(A)(i). Pub. L. 113–79, §6104(a)(2)(B)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "not less than 25 percent of the households in the proposed service territory is offered broadband service by not more than 1 incumbent service provider; and".
+
+Subsec. (d)(2)(B). Pub. L. 113–79, §6104(a)(2)(B)(ii), struck out "25" before "percent" in heading.
+
+Subsec. (d)(2)(C). Pub. L. 113–79, §6104(a)(2)(B)(iii)(I), struck out "3 or more" before "incumbent" in heading.
+
+Subsec. (d)(2)(C)(i). Pub. L. 113–79, §6104(a)(2)(B)(iii)(II), added cl. (i) and struck out former cl.(i). Prior to amendment, text read as follows: "Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider."
+
+Subsec. (d)(3)(B)(iii). Pub. L. 113–79, §6104(a)(2)(C), added cl. (iii).
+
+Subsec. (d)(5). Pub. L. 113–79, §6104(a)(2)(D), added par. (5) and struck out former par. (5) which related to notice requirement.
+
+Subsec. (d)(8) to (10). Pub. L. 113–79, §6104(a)(2)(E), added pars. (8) to (10).
+
+Subsec. (e). Pub. L. 113–79, §6104(a)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: "The Secretary shall, from time to time as advances in technology warrant, review and recommend modifications of rate-of-data transmission criteria for purposes of the identification of broadband service technologies under subsection (b)(1)."
+
+Subsec. (g)(2). Pub. L. 113–79, §6104(a)(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In determining the term of a loan or loan guarantee, the Secretary shall consider whether the recipient is or would be serving an area that is not receiving broadband services."
+
+Subsec. (j)(1). Pub. L. 113–79, §6104(a)(5)(A), inserted ", including any loan terms or conditions for which the Secretary provided additional assistance to unserved areas" before semicolon at end.
+
+Subsec. (j)(7). Pub. L. 113–79, §6104(a)(5)(B)–(D), added par. (7).
+
+Subsecs. (k)(1), (l). Pub. L. 113–79, §6104(a)(6), substituted "2018" for "2012".
 
 <b>2008</b>—Pub. L. 110–246, §6110(a), amended section generally, substituting provisions authorizing loans and loan guarantees for the costs of construction, improvement, and acquisition of facilities and equipment for broadband service in rural areas and terminating such authority on Sept. 30, 2012, for provisions authorizing similar loans and loan guarantees and terminating such authority on Sept. 30, 2007.
 
@@ -287,4 +443,6 @@ Procedure.—The promulgation of the regulations shall be made without regard to
 "(3)
 
 Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5, United States Code."
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

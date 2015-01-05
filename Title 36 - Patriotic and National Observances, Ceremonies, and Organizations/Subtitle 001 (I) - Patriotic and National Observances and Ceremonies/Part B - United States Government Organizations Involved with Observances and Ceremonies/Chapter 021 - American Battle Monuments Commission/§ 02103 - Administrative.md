@@ -20,7 +20,7 @@ Disposition of Land.—Under conditions and in the manner the Commission decides
 
 (c)
 
-Contracting Out.—Notwithstanding the requirements of existing laws or regulations, the Commission, under conditions the Commissiondecides are necessary and proper, may contract for work, supplies, materials, and equipment outside or for use outside the United States and engage the services of architects and other technical and professional personnel.
+Contracting Out.—Notwithstanding the requirements of existing laws or regulations, the Commission, under conditions the Commission decides are necessary and proper, may contract for work, supplies, materials, and equipment outside or for use outside the United States and engage the services of architects and other technical and professional personnel.
 
 (d)
 

@@ -14,5 +14,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Construction of Canal
 
-The consent of Congress was given to the construction of a ship canal along the Government right of wayconnecting the waters of Puget Sound with Lake Washington, said canal, when completed, to be turned over to the United States, by act June 11, 1906, ch. 3072, 34 Stat. 231.
+The consent of Congress was given to the construction of a ship canal along the Government right of way connecting the waters of Puget Sound with Lake Washington, said canal, when completed, to be turned over to the United States, by act June 11, 1906, ch. 3072, 34 Stat. 231.
 

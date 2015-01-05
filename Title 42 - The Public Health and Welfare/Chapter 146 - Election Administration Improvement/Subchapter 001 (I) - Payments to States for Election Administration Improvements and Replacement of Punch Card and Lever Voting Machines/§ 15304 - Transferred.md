@@ -1,0 +1,6 @@
+### §15304. Transferred
+
+#### Codification
+
+Section 15304 was editorially reclassified as section 20904 of Title 52, Voting and Elections.
+

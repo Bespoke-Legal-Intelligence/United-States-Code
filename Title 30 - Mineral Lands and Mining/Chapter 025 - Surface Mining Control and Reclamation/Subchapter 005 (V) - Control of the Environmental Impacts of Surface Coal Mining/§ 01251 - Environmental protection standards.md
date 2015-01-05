@@ -10,13 +10,13 @@
 
 > The date, time, and place of any hearing held on the proposed regulations shall be set out in the publication of the proposed regulations. The Secretary shall consider all comments and relevant data presented at such hearing before final promulgation and publication of the regulations.
 
-(b) Not later than one year after August 3, 1977, the Secretary shall promulgate and publish in the Federal Register regulations covering a permanent regulatory procedure for surface coal mining and reclamation operations performance standards based on and conforming to the provisions of this subchapter and establishing procedures and requirements for preparation, submission, and approval of State programs; and development and implementation of Federal programs under the subchapter. The Secretary shall promulgate these regulations, which shall be concise and written in plain, understandable language in accordance with the procedures in subsection (a) of this section.
+(b) Not later than one year after August 3, 1977, the Secretary shall promulgate and publish in the Federal Register regulations covering a permanent regulatory procedure for surface coal mining and reclamation operations performance standards based on and conforming to the provisions of this subchapter and establishing procedures and requirements for preparation, submission, and approval of State programs; and development and implementation of Federal programs under the subchapter. The Secretary shall promulgate these regulations, which shall be concise and written in plain, understandable language in accordance with the procedures in subsection (a).
 
 (Pub. L. 95–87, title V, §501, Aug. 3, 1977, 91 Stat. 467.)
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (a)(B), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a)(B), is act June 30, 1948, ch. 758, 62 Stat.1155, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

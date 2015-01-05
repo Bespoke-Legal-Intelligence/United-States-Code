@@ -20,11 +20,11 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010, complian
 
 &emsp;(3) subtitle IV of title 49, by the Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board;
 
-&emsp;(4) part A of subtitle VII of title 49, by the Secretary of Transportation with respect to any air carrier or any foreign air carrier subject to that part;
+&emsp;(4) part A of subtitle VII of title 49, by the Secretary of Transportation with respect toany air carrier or any foreign air carrier subject to that part;
 
 &emsp;(5) the Packers and Stockyards Act, 1921 \[7 U.S.C. 181 et seq.\] (except as provided in section 406 of that Act \[7 U.S.C. 226, 227\]), by the Secretary of Agriculture with respect to any activities subject to that Act; and
 
-&emsp;(6) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\],by the Bureau, with respect to any person subject to this subchapter.
+&emsp;(6) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subchapter.
 
 > The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
@@ -72,7 +72,7 @@ Subsec. (b)(1). Pub. L. 111–203, §1089(3)(B)(ii), added par. (1) and struck o
 
 &emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: "section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
+Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: "section 8 of theFederal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
 
 Subsec. (d). Pub. L. 111–203, §1089(4), substituted "Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter" for "Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter". See Codification note above.
 

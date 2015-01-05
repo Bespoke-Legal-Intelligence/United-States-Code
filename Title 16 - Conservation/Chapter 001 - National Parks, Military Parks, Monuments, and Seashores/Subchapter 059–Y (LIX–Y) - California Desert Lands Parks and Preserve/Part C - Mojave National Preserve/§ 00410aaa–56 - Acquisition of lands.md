@@ -14,7 +14,7 @@ Pub. L. 108–87, title VIII, §8121, Sept. 30, 2003, 117 Stat. 1100, provided t
 
 "(a)
 
-Exchange Required.—In exchange for the private property described in subsection (b), the Secretary of the Interior shall convey to the Veterans Home of California—Barstow, Veterans of Foreign Wars Post \#385E (in this section referred to as the 'recipient'), all right, title, and interest of the United States in and to a parcel of real property consisting of approximately one acre in the Mojave National Preserve and designated (by section 8137 of the Department of Defense Appropriations Act, 2002 (Public Law 107–117; 115 Stat. 2278) \[16 U.S.C. 431 note\]) as a national memorial commemorating United States participation in World War I and honoring the American veterans of that war. Notwithstanding the conveyance of the property under this subsection, the Secretary shall continue to carry out the responsibilities of the Secretary under such section 8137.
+Exchange Required.—In exchange for the private property described in subsection (b), the Secretary of the Interior shall convey to the Veterans Home of California—Barstow, Veterans of Foreign Wars Post \#385E (in this section referred to as the 'recipient'), all right, title, and interest of the United States in and to a parcel of real property consisting of approximately one acre in the Mojave National Preserve and designated (by section 8137 of the Department of Defense Appropriations Act, 2002 (Public Law 107–117; 115 Stat. 2278) \[54 U.S.C. 320301 note\]) as a national memorial commemorating United States participation in World War I and honoring the American veterans of that war. Notwithstanding the conveyance of the property under this subsection, the Secretary shall continue to carry out the responsibilities of the Secretary under such section 8137.
 
 "(b)
 
@@ -26,7 +26,7 @@ Equal Value Exchange; Appraisal.—The values of the properties to be exchanged 
 
 "(d)
 
-Cash Equalization.—Any difference in the value of the properties to be exchanged under this section shall be equalized through the making of a cash equalization payment. The Secretary shall deposit any cash equalization payment received by the Secretary under this subsection in the Land and Water Conservation Fund.
+Cash Equalization.—Any difference in the value of the properties to be exchanged under this sectionshall be equalized through the making of a cash equalization payment. The Secretary shall deposit any cash equalization payment received by the Secretary under this subsection in the Land and Water Conservation Fund.
 
 "(e)
 

@@ -4,97 +4,17 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001%20-%20Service%20created%3B%20director%3B%20other%20employees.md) | Service created; director; other employees. |
-| [1a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001a%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md) | Repealed. |
-| 1a–1. | National Park System: administration; declaration of findings and purpose. |
-| 1a–2. | Secretary of the Interior's authorization of activities. |
-| 1a–3. | Legislative jurisdiction; relinquishment by Secretary; submittal of proposed agreement to Congressional committees; concurrent legislative jurisdiction. |
-| 1a–4. | Uniform allowance. |
-| 1a–5. | Additional areas for National Park System. |
-| 1a–6. | Law enforcement personnel within National Park System. |
-| 1a–7. | National Park System development program. |
-| 1a–7a. | National Park System crime prevention assistance. |
-| 1a–7b. | Protecting Americans from violent crime. |
-| 1a–8. | Maintenance management system. |
-| 1a–9. | Periodic review of National Park System. |
-| 1a–10. | Consultation with affected agencies and organizations. |
-| 1a–11. | Contents of report. |
-| 1a–12. | Evaluation of proposed boundary changes. |
-| 1a–13. | Proposals for boundary changes. |
-| 1a–14. | National Park System advisory committees. |
-| [1b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001b%20-%20Secretary%20of%20the%20Interior%27s%20authorization%20of%20additional%20activities%3B%20administration%20of%20National%20Park%20System.md) | Secretary of the Interior's authorization of additional activities; administration of National Park System. |
-| [1c.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001c%20-%20General%20administration%20provisions%3B%20system%20defined%3B%20particular%20areas.md) | General administration provisions; system defined; particular areas. |
-| [1d.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001d%20-%20Appropriations.md) | Appropriations. |
-| [1e.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001e%20-%20National%20Capital%20region%20arts%20and%20cultural%20affairs%3B%20grant%20program.md) | National Capital region arts and cultural affairs; grant program. |
-| [1f.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001f%20-%20Challenge%20cost-share%20agreement%20authority.md) | Challenge cost-share agreement authority. |
-| [1g.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001g%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
-| [1h.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001h%20-%20Sums%20provided%20by%20private%20entities%20for%20utility%20services.md) | Sums provided by private entities for utility services. |
-| [1i.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001i%20-%20Reimbursable%20agreements.md) | Reimbursable agreements. |
-| [1j.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001j%20-%20Cooperative%20agreements%20for%20national%20park%20natural%20resource%20protection.md) | Cooperative agreements for national park natural resource protection. |
-| [2\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000002%20-%20National%20parks%2C%20reservations%2C%20and%20monuments%3B%20supervision.md) | National parks, reservations, and monuments; supervision. |
-| [3\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000003%20-%20Rules%20and%20regulations%20of%20national%20parks%2C%20reservations%2C%20and%20monuments%3B%20timber%3B%20leases.md) | Rules and regulations of national parks, reservations, and monuments; timber; leases. |
-| [3a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000003a%20-%20Recovery%20of%20costs%20associated%20with%20special%20use%20permits.md) | Recovery of costs associated with special use permits. |
-| [3b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000003b%20-%20Maintenance%20and%20repair%20of%20Government%20improvements%20under%20concession%20contracts.md) | Maintenance and repair of Government improvements under concession contracts. |
-| [4\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000004%20-%20Rights-of-way%20through%20public%20lands.md) | Rights-of-way through public lands. |
-| [5\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000005%20-%20Rights-of-way%20through%20parks%20or%20reservations%20for%20power%20and%20communications%20facilities.md) | Rights-of-way through parks or reservations for power and communications facilities. |
-| [6\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000006%20-%20Donations%20of%20lands%20within%20national%20parks%20and%20monuments%20and%20moneys.md) | Donations of lands within national parks and monuments and moneys. |
-| 6a, 7. | Repealed. |
-| [7a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000007a%20-%20Airports%20in%20national%20parks%2C%20monuments%20and%20recreation%20areas%3B%20construction%2C%20etc.md) | Airports in national parks, monuments and recreation areas; construction, etc. |
-| [7b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000007b%20-%20Acquisition%20of%20lands%20for%20airport%20use%3B%20contracts%20for%20operation%20and%20maintenance.md) | Acquisition of lands for airport use; contracts for operation and maintenance. |
-| [7c.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000007c%20-%20Authorization%20to%20sponsor%20airport%20projects%3B%20use%20of%20funds.md) | Authorization to sponsor airport projects; use of funds. |
-| [7d.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000007d%20-%20Jurisdiction%20over%20airports%3B%20public%20operation.md) | Jurisdiction over airports; public operation. |
-| [7e.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000007e%20-%20Definitions.md) | Definitions. |
-| [8\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008%20-%20Roads%20and%20trails%20in%20national%20parks%20and%20monuments%3B%20construction%2C%20etc.md) | Roads and trails in national parks and monuments; construction, etc. |
-| 8–1. | Repealed. |
-| [8a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008a%20-%20National-park%20approach%20roads%3B%20designation.md) | National-park approach roads; designation. |
-| [8b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008b%20-%20National-park%20approach%20roads%20and%20roads%20and%20trails%20within%20national%20parks%20and%20national%20monuments%3B%20construction%2C%20improvement%2C%20and%E2%80%A6.md) | National-park approach roads and roads and trails within national parks and national monuments; construction, improvement, and maintenance; appropriation. |
-| [8c.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008c%20-%20National-park%20approach%20roads%20across%20or%20within%20national%20forests%3B%20approval%20of%20Secretary%20of%20Agriculture.md) | National-park approach roads across or within national forests; approval of Secretary of Agriculture. |
-| [8d.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008d%20-%20National-monument%20approach%20roads.md) | National-monument approach roads. |
-| [8e.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008e%20-%20Conveyance%20to%20States%20of%20roads%20leading%20to%20certain%20historical%20areas%3B%20conditions%3B%20jurisdiction.md) | Conveyance to States of roads leading to certain historical areas; conditions; jurisdiction. |
-| [8f.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000008f%20-%20Roads%20leading%20to%20certain%20historical%20areas%3B%20State%20defined.md) | Roads leading to certain historical areas; "State" defined. |
-| [9\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000009%20-%20Repealed.%20June%2030%2C%201949%2C%20ch.%20288%2C%20title%20VI%2C%20%C2%A7602%28a%29%2812%29%2C%2063%20Stat.%20400%2C%20eff.%20July%201%2C%201949%3B%20renumbered%20Sept.%205%2C%201950%2C%20ch.%20849%2C%20%C2%A76%28a%29%2C%20%28b%29%E2%80%A6.md) | Repealed. |
-| [9a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000009a%20-%20Government%20of%20parks%2C%20etc.%3B%20violation%20of%20regulations%20as%20misdemeanor.md) | Government of parks, etc.; violation of regulations as misdemeanor. |
-| 10, 10a. | Repealed. |
-| [11\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000011%20-%20Medical%20attention%20for%20employees.md) | Medical attention for employees. |
-| [12\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000012%20-%20Aid%20to%20visitors%20in%20emergencies.md) | Aid to visitors in emergencies. |
-| [13\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000013%20-%20Medical%20attention%20to%20employees%20at%20isolated%20places%3B%20removal%20of%20bodies%20for%20burial.md) | Medical attention to employees at isolated places; removal of bodies for burial. |
-| [14\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000014%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93578%2C%20%C2%A72%28a%29%2C%20Sept.%203%2C%201964%2C%2078%20Stat.%20899.md) | Repealed. |
-| [14a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000014a%20-%20Appropriations%3B%20availability%20for%20printing%20information%20and%20signs.md) | Appropriations; availability for printing information and signs. |
-| [14b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000014b%20-%20Credits%20of%20receipts%20for%20meals%20and%20quarters%20furnished%20Government%20employees%20in%20the%20field.md) | Credits of receipts for meals and quarters furnished Government employees in the field. |
-| [14c.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000014c%20-%20Availability%20for%20expense%20of%20recording%20donated%20lands.md) | Availability for expense of recording donated lands. |
-| [14d.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000014d%20-%20Use%20of%20funds%20for%20law%20enforcement%20and%20emergencies.md) | Use of funds for law enforcement and emergencies. |
-| [14e.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000014e%20-%20Contribution%20for%20annuity%20benefits.md) | Contribution for annuity benefits. |
-| [15\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000015%20-%20Appropriations%20for%20purchase%20of%20equipment%3B%20waterproof%20footwear.md) | Appropriations for purchase of equipment; waterproof footwear. |
-| [16\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000016%20-%20Central%20warehouses%20at%20parks%20and%20monuments%3B%20maintenance%3B%20purchase%20of%20supplies%20and%20materials%3B%20distribution.md) | Central warehouses at parks and monuments; maintenance; purchase of supplies and materials; distribution. |
-| [17\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017%20-%20Personal%20equipment%20and%20supplies%20for%20employees%3B%20purchase%20by%20Secretary%20of%20the%20Interior%3B%20deductions%20from%20moneys%20due%20employees.md) | Personal equipment and supplies for employees; purchase by Secretary of the Interior; deductions from moneys due employees. |
-| [17a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20647.md) | Repealed. |
-| [17b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017b%20-%20Services%20or%20other%20accommodations%20for%20public%3B%20contracts%3B%20rates.md) | Services or other accommodations for public; contracts; rates. |
-| 17b–1. | Repealed. |
-| [17c.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017c%20-%20Procurement%20of%20supplies%2C%20materials%2C%20and%20special%20services%20to%20aid%20permittees%20and%20licensees%20in%20emergencies%3B%20authority%20of%20Secretary%20of%20the%E2%80%A6.md) | Procurement of supplies, materials, and special services to aid permittees and licensees in emergencies; authority of Secretary of the Interior. |
-| [17d.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017d%20-%20Omitted.md) | Omitted. |
-| [17e.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017e%20-%20Care%20and%20removal%20of%20indigents%3B%20disposition%20of%20dead%20persons.md) | Care and removal of indigents; disposition of dead persons. |
-| [17f.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017f%20-%20Property%20of%20employee%20lost%2C%20damaged%2C%20or%20destroyed%20while%20in%20use%20on%20official%20business%3B%20reimbursement%20of%20employee.md) | Property of employee lost, damaged, or destroyed while in use on official business; reimbursement of employee. |
-| [17g.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017g%20-%20Equipment%20required%20by%20field%20employees%3B%20by%20whom%20furnished%20and%20maintained.md) | Equipment required by field employees; by whom furnished and maintained. |
-| [17h.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017h%20-%20Hire%2C%20rental%2C%20and%20purchase%20of%20property%20of%20employees%3B%20when%20authorized.md) | Hire, rental, and purchase of property of employees; when authorized. |
-| [17i.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017i%20-%20Hire%20of%20work%20animals%2C%20vehicles%20and%20equipment%20with%20or%20without%20personal%20services%3B%20rates.md) | Hire of work animals, vehicles and equipment with or without personal services; rates. |
-| [17j.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017j%20-%20Traveling%20expenses%20of%20National%20Park%20System%20employees%20and%20dependents%20of%20deceased%20employees.md) | Traveling expenses of National Park System employees and dependents of deceased employees. |
-| 17j–1. | Omitted. |
-| 17j–2. | Authorization of appropriations for road maintenance and repair; administrative expenses; lectures, investigations, telephone service, etc. |
-| [17k.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017k%20-%20Park%2C%20parkway%20and%20recreational-area%20programs%3B%20study%20by%20National%20Park%20Service%3B%20consent%20of%20States%3B%20purpose%3B%20cooperation%20of%20government%E2%80%A6.md) | Park, parkway and recreational-area programs; study by National Park Service; consent of States; purpose; cooperation of government agencies. |
-| 17<i>l.</i> | Coordination; planning by States with aid of National Park Service. |
-| [17m.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017m%20-%20Consent%20of%20Congress%20to%20agreements%20between%20States%3B%20when%20agreements%20effective.md) | Consent of Congress to agreements between States; when agreements effective. |
-| [17n.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000017n%20-%20State%20defined.md) | "State" defined. |
-| 17<i>o.</i> | National Park Service housing improvement. |
-| [18\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018%20-%20Promotion%20of%20tourist%20travel.md) | Promotion of tourist travel. |
-| [18a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018a%20-%20Cooperation%20with%20travel%20agencies%3B%20publication%20of%20information.md) | Cooperation with travel agencies; publication of information. |
-| [18b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018b%20-%20Advisory%20committee%20for%20promotion%20of%20tourist%20travel%3B%20expenses.md) | Advisory committee for promotion of tourist travel; expenses. |
-| [18c.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018c%20-%20Rules%20and%20regulations%3B%20employees.md) | Rules and regulations; employees. |
-| [18d.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [18e.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018e%20-%20Repealed.%20Sept.%2020%2C%201941%2C%20ch.%20412%2C%20title%20V%2C%20%C2%A7541%28c%29%2C%2055%20Stat.%20710.md) | Repealed. |
-| [18f.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000018f%20-%20Management%20of%20museum%20properties.md) | Management of museum properties. |
-| 18f–1. | Disposal of unnecessary or duplicate museum objects; use of proceeds. |
-| 18f–2. | Additional functions. |
-| 18f–3. | Application and definitions. |
+| 1 to 1a–7a. | Repealed. |
+| 1a–7b. | Protection of right of individuals to bear arms. |
+| 1a–8 to 1a–14. | Repealed. |
+| [1b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001b%20-%20Repealed%20or%20Transferred.md) | Repealed or Transferred. |
+| 1c to 4. | Repealed. |
+| [5\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000005%20-%20Omitted.md) | Omitted. |
+| 6 to 17j–1. | Repealed. |
+| 17j–2. | Authorization of appropriations for road maintenance and repair, etc. |
+| 17k to 17n. | Repealed. |
+| 17<i>o.</i> | Repealed or Omitted. |
+| 18 to 18f–3. | Transferred or Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -102,10 +22,7 @@
 
 |  |  |
 | :--- | ---: |
-| [18g.](Subchapter%20002%20%28II%29%20-%20Volunteers%20in%20Parks%20Program/%C2%A7%2000018g%20-%20Creation%20of%20program.md) | Creation of program. |
-| [18h.](Subchapter%20002%20%28II%29%20-%20Volunteers%20in%20Parks%20Program/%C2%A7%2000018h%20-%20Incidental%20expenses.md) | Incidental expenses. |
-| [18i.](Subchapter%20002%20%28II%29%20-%20Volunteers%20in%20Parks%20Program/%C2%A7%2000018i%20-%20Federal%20employee%20status%20for%20volunteers.md) | Federal employee status for volunteers. |
-| [18j.](Subchapter%20002%20%28II%29%20-%20Volunteers%20in%20Parks%20Program/%C2%A7%2000018j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 18g to 18j. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -113,18 +30,7 @@
 
 |  |  |
 | :--- | ---: |
-| 19 to 19d. | Repealed. |
-| [19e.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019e%20-%20Congressional%20statement%20of%20purpose%3B%20establishment%20of%20Foundation.md) | Congressional statement of purpose; establishment of Foundation. |
-| [19f.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019f%20-%20Board%20membership%2C%20term%20of%20office%2C%20vacancies%2C%20Chairman%2C%20Secretary%2C%20non-Federal%20office%2C%20quorum%2C%20seal%2C%20meetings%2C%20compensation%2C%20traveling%20and%E2%80%A6.md) | Board: membership, term of office, vacancies, Chairman, Secretary, non-Federal office, quorum, seal, meetings, compensation, traveling and subsistence expenses; Foundation as successor to right, title, and interest of National Park Trust Fund Board in property or funds; abolition and repeal of National Park Trust Fund and Board provisions. |
-| [19g.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019g%20-%20Gifts%2C%20devises%2C%20or%20bequests%3B%20restriction%3B%20real%20property%20interests%3B%20property%20with%20encumbrances%2C%20restrictions%2C%20or%20subject%20to%20beneficial%E2%80%A6.md) | Gifts, devises, or bequests; restriction; real property interests; property with encumbrances, restrictions, or subject to beneficial interests of private persons. |
-| [19h.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019h%20-%20Property%20and%20income%20dealings%20and%20transactions%3B%20prohibition%20of%20engagement%20in%20business%3B%20trust%20company%20type%20of%20investments%3B%20utilization%20of%E2%80%A6.md) | Property and income dealings and transactions; prohibition of engagement in business; trust company type of investments; utilization of services and facilities of Federal agencies without reimbursement; transfer instrument requirements and investments. |
-| [19i.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019i%20-%20Corporate%20succession%3B%20powers%20and%20duties%20of%20trustee%3B%20suits%3B%20personal%20liability%20for%20malfeasance.md) | Corporate succession; powers and duties of trustee; suits; personal liability for malfeasance. |
-| [19j.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019j%20-%20Authority%20for%20execution%20of%20contracts%2C%20instruments%2C%20and%20necessary%20or%20appropriate%20acts.md) | Authority for execution of contracts, instruments, and necessary or appropriate acts. |
-| [19k.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019k%20-%20Bylaws%2C%20rules%2C%20and%20regulations%3B%20contracts%20for%20services.md) | Bylaws, rules, and regulations; contracts for services. |
-| 19<i>l.</i> | Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States. |
-| [19m.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019m%20-%20Liability%20of%20United%20States.md) | Liability of United States. |
-| [19n.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019n%20-%20Omitted.md) | Omitted. |
-| [19o.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019o%20-%20Promotion%20of%20local%20fundraising%20support.md) | Promotion of local fundraising support. |
+| 19 to 19o. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -140,11 +46,7 @@
 
 |  |  |
 | :--- | ---: |
-| [19jj.](Subchapter%20003%E2%80%93B%20%28III%E2%80%93B%29%20-%20Park%20System%20Resource%20Protection/%C2%A7%2000019jj%20-%20Definitions.md) | Definitions. |
-| 19jj–1. | Liability. |
-| 19jj–2. | Actions. |
-| 19jj–3. | Use of recovered amounts. |
-| 19jj–4. | Donations. |
+| 19jj to 19jj–4. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -231,7 +133,7 @@
 | [54\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000054%20-%20Sale%20of%20matured%2C%20dead%2C%20or%20down%20timber.md) | Sale of matured, dead, or down timber. |
 | [55\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000055%20-%20Leases%20of%20land%20in%20park%3B%20mortgages%20by%20lessees.md) | Leases of land in park; mortgages by lessees. |
 | [56\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000056%20-%20Repealed.%20Dec.%2016%2C%201930%2C%20ch.%2014%2C%20%C2%A71%2C%2046%20Stat.%201028.md) | Repealed. |
-| [57\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000057%20-%20Yosemite%20and%20Sequoia%20National%20Parks%3B%20exclusive%20jurisdiction%20of%20United%20States%3B%20jurisdiction%20remaining%20in%20and%20taxation%20by%20California.md) | Yosemite and Sequoia National Parks; exclusive jurisdiction of United States; jurisdiction remaining in and taxation by California. |
+| [57\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000057%20-%20Yosemite%2C%20Sequoia%2C%20and%20General%20Grant%20National%20Parks%3B%20exclusive%20jurisdiction%20of%20United%20States%3B%20jurisdiction%20remaining%20in%20and%20taxation%20by%E2%80%A6.md) | Yosemite, Sequoia, and General Grant National Parks; exclusive jurisdiction of United States; jurisdiction remaining in and taxation by California. |
 | [58\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000058%20-%20Laws%20applicable%3B%20fugitives%20from%20justice.md) | Laws applicable; fugitives from justice. |
 | [59\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000059%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md) | Repealed. |
 | [60\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000060%20-%20Hunting%20or%20fishing%20prohibited.md) | Hunting or fishing prohibited. |
@@ -241,8 +143,8 @@
 | [64\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000064%20-%20Sale%20or%20disposal%20of%20timber%3B%20destruction%20of%20detrimental%20animal%20or%20plant%20life.md) | Sale or disposal of timber; destruction of detrimental animal or plant life. |
 | [65\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000065%20-%20Seizure%20and%20forfeiture%20of%20guns%2C%20traps%2C%20teams%2C%20horses%2C%20etc.md) | Seizure and forfeiture of guns, traps, teams, horses, etc. |
 | 66 to 77. | Repealed. |
-| [78\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000078%20-%20Detail%20of%20troops%20to%20Sequoia%20and%20Yosemite%20Parks.md) | Detail of troops to Sequoia and Yosemite Parks. |
-| [79\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000079%20-%20Rights-of-way%20for%20public%20utilities.md) | Rights-of-way for public utilities. |
+| [78\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000078%20-%20Detail%20of%20troops%20to%20Sequoia%2C%20Yosemite%2C%20and%20General%20Grant%20Parks.md) | Detail of troops to Sequoia, Yosemite, and General Grant Parks. |
+| [79\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000079%20-%20Omitted.md) | Omitted. |
 | 79–1. | Yosemite National Park; expansion of reservoir capacity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1347,7 +1249,7 @@
 
 |  |  |
 | :--- | ---: |
-| [410ee.](Subchapter%20059%E2%80%93C%20%28LIX%E2%80%93C%29%20-%20San%20Antonio%20Missions%20National%20Historical%20Park/%C2%A7%2000410ee%20-%20Establishment.md) | Establishment. |
+| [410ee.](Subchapter%20059%E2%80%93C%20%28LIX%E2%80%93C%29%20-%20San%20Antonio%20Missions%20National%20Historical%20Park/%C2%A7%2000410ee%20-%20San%20Antonio%20Missions%20National%20Historical%20Park.md) | San Antonio Missions National Historical Park. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1902,19 +1804,67 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER LIX–NN—BLACKSTONE RIVER VALLEY NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410ppp.](Subchapter%20059%E2%80%93NN%20%28LIX%E2%80%93NN%29%20-%20Blackstone%20River%20Valley%20National%20Historical%20Park/%C2%A7%2000410ppp%20-%20Blackstone%20River%20Valley%20National%20Historical%20Park.md) | Blackstone River Valley National Historical Park. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–OO—COLTSVILLE NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410qqq.](Subchapter%20059%E2%80%93OO%20%28LIX%E2%80%93OO%29%20-%20Coltsville%20National%20Historical%20Park/%C2%A7%2000410qqq%20-%20Coltsville%20National%20Historical%20Park.md) | Coltsville National Historical Park. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–PP—FIRST STATE NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410rrr.](Subchapter%20059%E2%80%93PP%20%28LIX%E2%80%93PP%29%20-%20First%20State%20National%20Historical%20Park/%C2%A7%2000410rrr%20-%20First%20State%20National%20Historical%20Park.md) | First State National Historical Park. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–QQ—HARRIET TUBMAN UNDERGROUND RAILROAD NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410sss.](Subchapter%20059%E2%80%93QQ%20%28LIX%E2%80%93QQ%29%20-%20Harriet%20Tubman%20Underground%20Railroad%20National%20Historical%20Park/%C2%A7%2000410sss%20-%20Harriet%20Tubman%20Underground%20Railroad%20National%20Historical%20Park%2C%20Maryland.md) | Harriet Tubman Underground Railroad National Historical Park, Maryland. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–RR—HARRIET TUBMAN NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410ttt.](Subchapter%20059%E2%80%93RR%20%28LIX%E2%80%93RR%29%20-%20Harriet%20Tubman%20National%20Historical%20Park/%C2%A7%2000410ttt%20-%20Harriet%20Tubman%20National%20Historical%20Park%2C%20Auburn%2C%20New%20York.md) | Harriet Tubman National Historical Park, Auburn, New York. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–SS—MANHATTAN PROJECT NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410uuu.](Subchapter%20059%E2%80%93SS%20%28LIX%E2%80%93SS%29%20-%20Manhattan%20Project%20National%20Historical%20Park/%C2%A7%2000410uuu%20-%20Manhattan%20Project%20National%20Historical%20Park.md) | Manhattan Project National Historical Park. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–TT—OREGON CAVES NATIONAL MONUMENT AND PRESERVE
+
+|  |  |
+| :--- | ---: |
+| [410vvv.](Subchapter%20059%E2%80%93TT%20%28LIX%E2%80%93TT%29%20-%20Oregon%20Caves%20National%20Monument%20and%20Preserve/%C2%A7%2000410vvv%20-%20Oregon%20Caves%20National%20Monument%20and%20Preserve.md) | Oregon Caves National Monument and Preserve. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS
 
 |  |  |
 | :--- | ---: |
-| [411\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000411%20-%20Military%20maneuvers.md) | Military maneuvers. |
-| [412\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000412%20-%20Camps%20for%20military%20instruction%3B%20regulations%20for%20militia.md) | Camps for military instruction; regulations for militia. |
-| [413\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000413%20-%20Offenses%20relating%20to%20structures%20and%20vegetation.md) | Offenses relating to structures and vegetation. |
-| [414\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000414%20-%20Trespassing%20for%20hunting%2C%20or%20shooting.md) | Trespassing for hunting, or shooting. |
-| [415\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000415%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93383%2C%20%C2%A710%28a%29%281%29%2C%20as%20added%20Pub.%20L.%2094%E2%80%93458%2C%20%C2%A72%2C%20Oct.%207%2C%201976%2C%2090%20Stat.%201941.md) | Repealed. |
-| [416\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000416%20-%20Refusal%20to%20surrender%20leased%20land%3B%20recovery.md) | Refusal to surrender leased land; recovery. |
-| 417 to 419. | Omitted, Repealed, or Transferred. |
-| [420\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000420%20-%20Rights-of-way%20through%20military%20and%20other%20reservations%20for%20power%20and%20communications%20facilities.md) | Rights-of-way through military and other reservations for power and communications facilities. |
-| [421\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000421%20-%20Vacancies%20occurring%20in%20commissions%20in%20charge%20of%20parks%20not%20to%20be%20filled.md) | Vacancies occurring in commissions in charge of parks not to be filled. |
+| 411 to 421. | Omitted, Repealed, or Transferred. |
 | [422\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000422%20-%20Moores%20Creek%20National%20Battlefield%3B%20establishment.md) | Moores Creek National Battlefield; establishment. |
 | [422a.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000422a%20-%20Acceptance%20of%20lands.md) | Acceptance of lands. |
 | 422a–1. | Acquisition of property. |
@@ -2070,6 +2020,7 @@
 | 430h–11. | Acquisition of property. |
 | 430h–12. | Administration. |
 | 430h–13. | Authorization of appropriations. |
+| 430h–14. | Vicksburg National Military Park. |
 | [430i.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430i%20-%20Guilford%20Courthouse%20National%20Military%20Park.md) | Guilford Courthouse National Military Park. |
 | [430j.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430j%20-%20Monocacy%20National%20Battlefield%3B%20establishment.md) | Monocacy National Battlefield; establishment. |
 | [430k.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430k%20-%20Condemnation%20proceedings%3B%20purchase%20without%20condemnation%3B%20acceptance%20of%20donations%20of%20land.md) | Condemnation proceedings; purchase without condemnation; acceptance of donations of land. |
@@ -2124,10 +2075,7 @@
 
 |  |  |
 | :--- | ---: |
-| [431\.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000431%20-%20National%20monuments%3B%20reservation%20of%20lands%3B%20relinquishment%20of%20private%20claims.md) | National monuments; reservation of lands; relinquishment of private claims. |
-| [431a.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000431a%20-%20Limitation%20on%20further%20extension%20or%20establishment%20of%20national%20monuments%20in%20Wyoming.md) | Limitation on further extension or establishment of national monuments in Wyoming. |
-| [432\.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000432%20-%20Permits%20to%20examine%20ruins%2C%20excavations%2C%20and%20gathering%20of%20objects%3B%20regulations.md) | Permits to examine ruins, excavations, and gathering of objects; regulations. |
-| [433\.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433%20-%20American%20antiquities.md) | American antiquities. |
+| 431 to 433. | Repealed. |
 | [433a.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433a%20-%20Perry%27s%20Victory%20and%20International%20Peace%20Memorial%3B%20establishment.md) | Perry's Victory and International Peace Memorial; establishment. |
 | [433b.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433b%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
 | [433c.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433c%20-%20Acceptance%20of%20donations%20of%20lands%20and%20funds%3B%20acquisition%20of%20land.md) | Acceptance of donations of lands and funds; acquisition of land. |
@@ -2298,21 +2246,9 @@
 
 |  |  |
 | :--- | ---: |
-| [451\.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000451%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93333%2C%20div.%20I%2C%20title%20VIII%2C%20%C2%A7801%2C%20Nov.%2012%2C%201996%2C%20110%20Stat.%204186.md) | Repealed. |
-| [451a.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000451a%20-%20Limitation%20on%20further%20extension%20or%20establishment%20of%20national%20parks%20in%20Wyoming.md) | Limitation on further extension or establishment of national parks in Wyoming. |
-| [452\.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000452%20-%20Revenues%20of%20national%20parks%20covered%20into%20Treasury%3B%20estimates%20for%20care%20of%20parks.md) | Revenues of national parks covered into Treasury; estimates for care of parks. |
-| [452a.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000452a%20-%20Acquisition%20of%20non-Federal%20land%20within%20existing%20boundaries%20of%20any%20National%20Park%3B%20donations%3B%20authorization%20of%20appropriations.md) | Acquisition of non-Federal land within existing boundaries of any National Park; donations; authorization of appropriations. |
+| 451 to 452a. | Repealed. |
 | [453\.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000453%20-%20Donations%20of%20land%20for%20park%20purposes%20near%20or%20adjacent%20to%20National%20Forest%20Reserve%20in%20North%20Carolina.md) | Donations of land for park purposes near or adjacent to National Forest Reserve in North Carolina. |
-| [454\.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000454%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20642%2C%20650.md) | Repealed. |
-| [455\.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000455%20-%20Study%20of%20battlefields%20for%20commemorative%20purposes.md) | Study of battlefields for commemorative purposes. |
-| [455a.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000455a%20-%20Report%20to%20Congress.md) | Report to Congress. |
-| [455b.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000455b%20-%20Inclusion%20of%20estimate%20of%20cost%20of%20projected%20surveys%20in%20appropriation%20estimates.md) | Inclusion of estimate of cost of projected surveys in appropriation estimates. |
-| [455c.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000455c%20-%20Purchase%20of%20real%20estate%20for%20military%20park.md) | Purchase of real estate for military park. |
-| [456\.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000456%20-%20Expense%20of%20depositing%20money%20payable%20from%20appropriations.md) | Expense of depositing money payable from appropriations. |
-| [456a.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000456a%20-%20Collections%20and%20pay-roll%20deductions%20for%20meals%20and%20quarters.md) | Collections and pay-roll deductions for meals and quarters. |
-| [457\.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000457%20-%20Action%20for%20death%20or%20personal%20injury%20within%20national%20park%20or%20other%20place%20under%20jurisdiction%20of%20United%20States%3B%20application%20of%20State%20laws.md) | Action for death or personal injury within national park or other place under jurisdiction of United States; application of State laws. |
-| [458\.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000458%20-%20Travel%20expenses%20incident%20to%20study%20of%20battlefields%3B%20payment.md) | Travel expenses incident to study of battlefields; payment. |
-| [458a.](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/%C2%A7%2000458a%20-%20Mats%20for%20reproduction%20in%20magazines%20and%20newspapers%20of%20photographs%20of%20scenery.md) | Mats for reproduction in magazines and newspapers of photographs of scenery. |
+| 454 to 458a. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2502,10 +2438,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>l.</i> | Congressional findings and declaration of policy. |
-| 460l–1. | Powers and duties of Secretary of the Interior. |
-| 460l–2. | Consultations of Secretary of the Interior with administrative officers; execution of administrative responsibilities in conformity with nationwide plan. |
-| 460l–3. | Definitions. |
+| 460l to 460l–3. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2513,24 +2446,10 @@
 
 |  |  |
 | :--- | ---: |
-| 460l–4. | Land and water conservation provisions; statement of purposes. |
-| 460l–5. | Land and water conservation fund; establishment; covering certain revenues and collections into fund. |
-| 460l–5a. | Repealed. |
-| 460l–6. | Appropriations for expenditure of land and water conservation fund moneys; transfers to miscellaneous receipts of Treasury. |
-| 460l–6a. | Admission and special recreation use fees. |
-| 460l–6b. | Repealed. |
+| 460l–4 to 460l–6b. Transferred or Repealed. |  |
 | 460l–6c. | Admission, entrance, and recreation fees. |
 | 460l–6d. | Commercial filming. |
-| 460l–7. | Allocation of land and water conservation fund for State and Federal purposes. |
-| 460l–8. | Financial assistance to States. |
-| 460l–9. | Allocation of land and water conservation fund moneys for Federal purposes. |
-| 460l–10. | Availability of land and water conservation fund for publicity purposes; standardized temporary signing; standards and guidelines. |
-| 460l–10a. | Contracts for acquisition of lands and waters. |
-| 460l–10b. | Contracts for options to acquire lands and waters in national park system. |
-| 460l–10c. | Repeal of provisions prohibiting collection of recreation fees or user charges. |
-| 460l–10d. | Review and report; submittal to Congressional committees; contents. |
-| 460l–10e. | Advisory Commission on water-based recreation. |
-| 460l–11. | Transfers to and from land and water conservation fund. |
+| 460l–7 to 460l–11. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2555,7 +2474,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460l–22. | Conveyance of property and interests in property in national park system and miscellaneous areas. |
+| 460l–22. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3722,6 +3641,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER CXXXVIII—NELLIS DUNES OFF-HIGHWAY VEHICLE RECREATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460aaaa.](Subchapter%20138%20%28CXXXVIII%29%20-%20Nellis%20Dunes%20Off-Highway%20Vehicle%20Recreation%20Area/%C2%A7%2000460aaaa%20-%20Nellis%20Dunes%20Off-Highway%20Vehicle%20Recreation%20Area.md) | Nellis Dunes Off-Highway Vehicle Recreation Area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -3829,6 +3756,13 @@
 - [Subchapter 059&#8211;KK (LIX&#8211;KK) - Thomas Edison National Historical Park](Subchapter%20059%E2%80%93KK%20%28LIX%E2%80%93KK%29%20-%20Thomas%20Edison%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;LL (LIX&#8211;LL) - Palo Alto Battlefield National Historical Park](Subchapter%20059%E2%80%93LL%20%28LIX%E2%80%93LL%29%20-%20Palo%20Alto%20Battlefield%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;MM (LIX&#8211;MM) - Pinnacles National Park](Subchapter%20059%E2%80%93MM%20%28LIX%E2%80%93MM%29%20-%20Pinnacles%20National%20Park/README.md)
+- [Subchapter 059&#8211;NN (LIX&#8211;NN) - Blackstone River Valley National Historical Park](Subchapter%20059%E2%80%93NN%20%28LIX%E2%80%93NN%29%20-%20Blackstone%20River%20Valley%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;OO (LIX&#8211;OO) - Coltsville National Historical Park](Subchapter%20059%E2%80%93OO%20%28LIX%E2%80%93OO%29%20-%20Coltsville%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;PP (LIX&#8211;PP) - First State National Historical Park](Subchapter%20059%E2%80%93PP%20%28LIX%E2%80%93PP%29%20-%20First%20State%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;QQ (LIX&#8211;QQ) - Harriet Tubman Underground Railroad National Historical Park](Subchapter%20059%E2%80%93QQ%20%28LIX%E2%80%93QQ%29%20-%20Harriet%20Tubman%20Underground%20Railroad%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;RR (LIX&#8211;RR) - Harriet Tubman National Historical Park](Subchapter%20059%E2%80%93RR%20%28LIX%E2%80%93RR%29%20-%20Harriet%20Tubman%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;SS (LIX&#8211;SS) - Manhattan Project National Historical Park](Subchapter%20059%E2%80%93SS%20%28LIX%E2%80%93SS%29%20-%20Manhattan%20Project%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;TT (LIX&#8211;TT) - Oregon Caves National Monument and Preserve](Subchapter%20059%E2%80%93TT%20%28LIX%E2%80%93TT%29%20-%20Oregon%20Caves%20National%20Monument%20and%20Preserve/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)
@@ -3908,3 +3842,4 @@
 - [Subchapter 135 (CXXXV) - Beaver Dam Wash National Conservation Area](Subchapter%20135%20%28CXXXV%29%20-%20Beaver%20Dam%20Wash%20National%20Conservation%20Area/README.md)
 - [Subchapter 136 (CXXXVI) - Fort Stanton-Snowy River Cave National Conservation Area](Subchapter%20136%20%28CXXXVI%29%20-%20Fort%20Stanton-Snowy%20River%20Cave%20National%20Conservation%20Area/README.md)
 - [Subchapter 137 (CXXXVII) - Dominguez-Escalante National Conservation Area](Subchapter%20137%20%28CXXXVII%29%20-%20Dominguez-Escalante%20National%20Conservation%20Area/README.md)
+- [Subchapter 138 (CXXXVIII) - Nellis Dunes Off-Highway Vehicle Recreation Area](Subchapter%20138%20%28CXXXVIII%29%20-%20Nellis%20Dunes%20Off-Highway%20Vehicle%20Recreation%20Area/README.md)

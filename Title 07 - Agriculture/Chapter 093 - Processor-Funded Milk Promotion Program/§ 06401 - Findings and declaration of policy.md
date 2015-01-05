@@ -14,13 +14,13 @@ Congress finds that—
 
 &emsp;(5) the maintenance and expansion of markets for fluid milk products are vital to the Nation's fluid milk processors and milk producers, as well as to the general economy of the United States;
 
-&emsp;(6) the congressional purpose underlying this chapter is to maintain and expand markets for fluid milk products, not to maintain or expand any processor's share of those markets and that the chapter does not prohibit or restrictindividual advertising or promotion of fluid milk products since the programs created and funded by this chapter are not extended to replace individual advertising and promotion efforts;
+&emsp;(6) the congressional purpose underlying this chapter is to maintain and expand markets for fluid milk products, not to maintain or expand any processor's share of those markets and that the chapter does not prohibit or restrict individual advertising or promotion of fluid milk products since the programs created and funded by this chapter are not extended to replace individual advertising and promotion efforts;
 
 &emsp;(7) the cooperative development, financing, and implementation of a coordinated program of advertising and promotion of fluid milk products is necessary to maintain and expand markets for fluid milk products;
 
 &emsp;(8) it is appropriate to finance the cooperative program described in paragraph (6) <sup>1</sup> with self-help assessments paid by the fluid milk processors; and
 
-&emsp;(9) fluid milk products move in interstate and foreign commerce, and fluid milk products that do not move in such channels of commerce directly burden or affect interstate commerce in fluid milk products.
+&emsp;(9) fluid milk products move in interstate and foreign commerce, and fluid milk productsthat do not move in such channels of commerce directly burden or affect interstate commerce in fluid milk products.
 
 #### (b) Policy
 

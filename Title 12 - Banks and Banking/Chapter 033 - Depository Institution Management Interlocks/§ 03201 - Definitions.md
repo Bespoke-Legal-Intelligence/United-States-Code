@@ -28,7 +28,7 @@ As used in this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, known as the Depository Institution Management Interlocks Act, which enacted this chapter, amended sections 1464, 1730, and 1818 of this title, and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, known as the Depository InstitutionManagement Interlocks Act, which enacted this chapter, amended sections 1464, 1730, and 1818 of this title, and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 Section 1730a of this title, referred to in pars. (2) and (3)(A), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 

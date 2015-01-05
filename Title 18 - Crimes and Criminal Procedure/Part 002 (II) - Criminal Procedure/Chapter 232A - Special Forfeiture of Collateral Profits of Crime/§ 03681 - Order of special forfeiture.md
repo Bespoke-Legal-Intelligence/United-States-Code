@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(i) satisfy a money judgment rendered in any court in favor of a victim of any offense for which such defendant has been convicted, or a legal representative of such victim; and
 
-&emsp;&emsp;(ii) pay for legal representation of the defendant in matters arising from the offensefor which such defendant has been convicted, but no more than 20 percent of the total proceeds may be so used.
+&emsp;&emsp;(ii) pay for legal representation of the defendant in matters arising from the offense for which such defendant has been convicted, but no more than 20 percent of the total proceeds may be so used.
 
 (2) The court shall direct the disposition of all such proceeds in the possession of the Attorney General at the end of such five years and may require that all or any part of such proceeds be released from escrow and paid into the Crime Victims Fund in the Treasury.
 

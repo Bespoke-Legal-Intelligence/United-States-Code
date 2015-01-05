@@ -1,0 +1,52 @@
+### §101916. Reasonableness of rates and charges
+
+(a)
+
+In General.—A concession contract shall permit the concessioner to set reasonable and appropriate rates and charges for facilities, goods, and services provided to the public, subject to approval under subsection (b).
+
+(b)
+
+Approval by Secretary Required.—
+
+&emsp;(1)
+
+Factors to consider.—A concessioner's rates and charges to the public shall be subject to approval by the Secretary. The approval process utilized by the Secretary shall be as prompt and as unburdensome to the concessioner as possible and shall rely on market forces to establish reasonableness of rates and charges to the maximum extent practicable. The Secretary shall approve rates and charges that the Secretary determines to be reasonable and appropriate. Unless otherwise provided in the concession contract, the reasonableness and appropriateness of rates and charges shall be determined primarily by comparison with those rates and charges for facilities, goods, and services of comparable character under similar conditions, with due consideration to the following factors and other factors deemed relevant by the Secretary:
+
+&emsp;&emsp;(A) Length of season.
+
+&emsp;&emsp;(B) Peakloads.
+
+&emsp;&emsp;(C) Average percentage of occupancy.
+
+&emsp;&emsp;(D) Accessibility.
+
+&emsp;&emsp;(E) Availability and costs of labor and materials.
+
+&emsp;&emsp;(F) Type of patronage.
+
+&emsp;(2)
+
+Rates and charges not to exceed market rates and charges.—Rates and charges may not exceed the market rates and charges for comparable facilities, goods, and services, after taking into account the factors referred to in paragraph (1).
+
+(c)
+
+Implementation of Recommendations.—Not later than 6 months after receiving recommendations from the Advisory Board regarding concessioner rates and charges to the public, the Secretary shall implement the recommendations or report to Congress the reasons for not implementing the recommendations.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3145.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+101916
+
+16 U.S.C. 5955.
+
+Pub. L. 105–391, title IV, §406, Nov. 13, 1998, 112 Stat. 3510.
+

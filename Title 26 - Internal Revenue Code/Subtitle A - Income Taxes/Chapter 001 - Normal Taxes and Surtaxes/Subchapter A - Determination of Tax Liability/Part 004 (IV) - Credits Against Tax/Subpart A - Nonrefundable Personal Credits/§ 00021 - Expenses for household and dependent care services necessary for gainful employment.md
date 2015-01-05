@@ -252,7 +252,7 @@ Pub. L. 98–369, §423(c)(4), amended par. (5) generally, substituting subpars.
 
 &emsp;"(B) such child is in the custody of one or both of his parents for more than one-half of the calendar year."
 
-> and substituted in concluding text "(whichever is appropriate) with respect to the custodial parent (within the meaning of section 152(e)(1)), and shall not be treated as a qualifying individual with respect to the noncustodial parent" for ", as the case may be, with respect to that parent who has custody for a longer period during such calendar year than the other parent,and shall not be treated as being a qualifying individual with respect to such other parent."
+> and substituted in concluding text "(whichever is appropriate) with respect to the custodial parent (within the meaning of section 152(e)(1)), and shall not be treated as a qualifying individual with respect to the noncustodial parent" for ", as the case may be, with respect to that parent who has custody for a longer period during such calendar year than the other parent, and shall not be treated as being a qualifying individual with respect to such other parent."
 
 Subsecs. (f), (g). Pub. L. 98–369, §474(c)(1), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
@@ -336,7 +336,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 Pub. L. 97–34, title I, §124(f), Aug. 13, 1981, 95 Stat. 201, provided that:
 
-"(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section andenacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
+"(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and enacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
 
 "(2) The amendments made by subsection (e)(2) \[amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1981."
 

@@ -34,9 +34,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–435 designated existing provisions as subsec. (a), substituted “An employee other than a Postal Service employee” for “An employee”, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–435 designated existing provisions as subsec. (a), substituted "An employee other than a Postal Service employee" for "An employee", and added subsec. (b).
 
-<b>1974</b>—Pub. L. 93–416 substituted “14 days” for “21 days”.
+<b>1974</b>—Pub. L. 93–416 substituted "14 days" for "21 days".
 
 #### Effective Date of 1974 Amendment
 

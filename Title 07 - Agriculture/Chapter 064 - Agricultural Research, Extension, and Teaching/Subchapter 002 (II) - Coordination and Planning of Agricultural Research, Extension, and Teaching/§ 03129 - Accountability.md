@@ -2,11 +2,11 @@
 
 #### (a) Review of information technology systems
 
-The Secretary shall conduct a comprehensive review of state-of-the-art information technology systems that are available for use in developing the system required by subsection (b) of this section.
+The Secretary shall conduct a comprehensive review of state-of-the-art information technology systems that are available for use in developing the system required by subsection (b).
 
 #### (b) Monitoring and evaluation system
 
-The Secretary shall develop and carry out a system to monitor and evaluate agricultural research and extension activities conducted or supported by the Department of Agriculture that will enable the Secretary to measure the impact and effectiveness of research, extension, and education programs according to priorities, goals, and mandates established by law. In developing the system, the Secretary shall incorporate information transfer technologies to optimize public access to research information.
+The Secretary shall develop and carry out a system to monitor and evaluate agricultural research and extension activities conducted orsupported by the Department of Agriculture that will enable the Secretary to measure the impact and effectiveness of research, extension, and education programs according to priorities, goals, and mandates established by law. In developing the system, the Secretary shall incorporate information transfer technologies to optimize public access to research information.
 
 #### (c) Consistency with other requirements
 

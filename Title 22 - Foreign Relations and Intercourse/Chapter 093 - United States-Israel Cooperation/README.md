@@ -7,6 +7,7 @@
 | [8603\.](%C2%A7%2008603%20-%20United%20States%20actions%20to%20assist%20in%20the%20defense%20of%20Israel%20and%20protect%20United%20States%20interests.md) | United States actions to assist in the defense of Israel and protect United States interests. |
 | [8604\.](%C2%A7%2008604%20-%20Reports%20required.md) | Reports required. |
 | [8605\.](%C2%A7%2008605%20-%20Definitions.md) | Definitions. |
+| [8606\.](%C2%A7%2008606%20-%20United%20States-Israel%20cooperation%20on%20energy%2C%20water%2C%20homeland%20security%2C%20agriculture%2C%20and%20alternative%20fuel%20technologies.md) | United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,3 +21,4 @@
 - [&sect; 08603 - United States actions to assist in the defense of Israel and protect United States interests](%C2%A7%2008603%20-%20United%20States%20actions%20to%20assist%20in%20the%20defense%20of%20Israel%20and%20protect%20United%20States%20interests.md)
 - [&sect; 08604 - Reports required](%C2%A7%2008604%20-%20Reports%20required.md)
 - [&sect; 08605 - Definitions](%C2%A7%2008605%20-%20Definitions.md)
+- [&sect; 08606 - United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies](%C2%A7%2008606%20-%20United%20States-Israel%20cooperation%20on%20energy%2C%20water%2C%20homeland%20security%2C%20agriculture%2C%20and%20alternative%20fuel%20technologies.md)

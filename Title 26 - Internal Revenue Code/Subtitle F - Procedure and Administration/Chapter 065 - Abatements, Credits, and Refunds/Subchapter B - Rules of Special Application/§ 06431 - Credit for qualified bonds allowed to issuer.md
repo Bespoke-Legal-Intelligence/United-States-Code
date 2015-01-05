@@ -58,23 +58,29 @@ For purposes of this subsection, the term "qualified bond" has the meaning given
 
 &emsp;&emsp;&emsp;(ii) a qualified energy conservation bond (as defined in section 54D),
 
-&emsp;&emsp;&emsp;(iii) a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation, or
+&emsp;&emsp;&emsp;(iii) a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for years after 2010 or any carryforward of any such allocation, or
 
 &emsp;&emsp;&emsp;(iv) a qualified school construction bond (as defined in section 54F), and
 
 &emsp;&emsp;(B) the issuer of such bond makes an irrevocable election to have this subsection apply.
 
-(Added Pub. L. 111–5, div. B, title I, §1531(b), Feb. 17, 2009, 123 Stat. 359; amended Pub. L. 111–147, title III, §301(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–312, title VII, §758(b), Dec. 17, 2010, 124 Stat. 3323.)
+(Added Pub. L. 111–5, div. B, title I, §1531(b), Feb. 17, 2009, 123 Stat. 359; amended Pub. L. 111–147, title III, §301(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–312, title VII, §758(b), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 113–295, div. A, title II, §202(d), Dec. 19, 2014, 128 Stat. 4024.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(3)(A)(iii). Pub. L. 113–295 substituted "years after 2010" for "2011" and "of any such allocation" for "of such allocation".
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–147 added subsec. (f).
 
 Subsec. (f)(3)(A)(iii). Pub. L. 111–312 inserted "determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation" after "54E)".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective as if included in the provision of the American Taxpayer Relief Act of 2012, Pub. L. 112–240, to which such amendment relates, see section 202(f) of Pub. L. 113–295, set out as a note under section 55 of this title.
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to obligations issued after Dec. 31, 2010, see section 758(c) of Pub. L. 111–312, set out as a note under section 54E of this title.
+Amendment by Pub. L. 111–312 applicable to obligations issued after Dec. 31, 2010, see section 758(c) of Pub.L. 111–312, set out as a note under section 54E of this title.
 
 Pub. L. 111–147, title III, §301(c)(1), Mar. 18, 2010, 124 Stat. 78, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Mar. 18, 2010\]."
 

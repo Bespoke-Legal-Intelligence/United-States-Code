@@ -4,7 +4,7 @@
 
 If—
 
-&emsp;(1) the State of Alaska relinquishes its selection rights under the Alaska Statehood Act\(Public Law 85–508) to lands described in subsection (c)(2) of this section; and
+&emsp;(1) the State of Alaska relinquishes its selection rights under the Alaska Statehood Act (Public Law 85–508) to lands described in subsection (c)(2) of this section; and
 
 &emsp;(2) Kake Tribal Corporation and Sealaska Corporation convey all right, title, and interest to lands described in subsection (c)(1) of this section to the City of Kake, Alaska,
 

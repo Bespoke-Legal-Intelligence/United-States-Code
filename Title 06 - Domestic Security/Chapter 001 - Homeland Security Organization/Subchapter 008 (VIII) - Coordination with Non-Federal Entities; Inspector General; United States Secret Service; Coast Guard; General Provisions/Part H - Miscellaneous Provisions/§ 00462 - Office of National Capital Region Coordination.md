@@ -16,7 +16,7 @@
 
 #### (b) Responsibilities
 
-The Office established under subsection (a)(1) of this section shall—
+The Office established under subsection (a)(1) shall—
 
 &emsp;(1) coordinate the activities of the Department relating to the National Capital Region, including cooperation with the Office for State and Local Government Coordination;
 
@@ -26,7 +26,7 @@ The Office established under subsection (a)(1) of this section shall—
 
 &emsp;(4) develop a process for receiving meaningful input from State, local, and regional authorities and the private sector in the National Capital Region to assist in the development of the homeland security plans and activities of the Federal Government;
 
-&emsp;(5) coordinate with Federal agencies in the National Capital Region on terrorism preparedness, to ensure adequate planning, information sharing, training, and execution of the Federal role in domestic preparedness activities;
+&emsp;(5) coordinate with Federal agencies in the National Capital Region on terrorism preparedness, to ensure adequate planning, information sharing, training, and execution of theFederal role in domestic preparedness activities;
 
 &emsp;(6) coordinate with Federal, State, local, and regional agencies, and the private sector in the National Capital Region on terrorism preparedness to ensure adequate planning, information sharing, training, and execution of domestic preparedness activities among these agencies and entities; and
 
@@ -34,7 +34,7 @@ The Office established under subsection (a)(1) of this section shall—
 
 #### (c) Annual report
 
-The Office established under subsection (a) of this section shall submit an annual report to Congress that includes—
+The Office established under subsection (a) shall submit an annual report to Congress that includes—
 
 &emsp;(1) the identification of the resources required to fully implement homeland security efforts in the National Capital Region;
 
@@ -50,5 +50,5 @@ Nothing contained in this section shall be construed as limiting the power of St
 
 #### Incorporation of Governors of West Virginia and Pennsylvania into Mass Evacuation Planning
 
-Pub. L. 113–6, div. D, title III, Mar. 26, 2013, 127 Stat. 357, provided in part: “That for fiscal year 2013 and thereafter, for purposes of planning, coordination, execution, and decision making related to mass evacuation during a disaster, the Governors of the State of West Virginia and the Commonwealth of Pennsylvania,or their designees, shall be incorporated into efforts to integrate the activities of Federal, State, and local governments in the National Capital Region, as defined in section 882 of the Homeland Security Act of 2002 (Public Law 107–296) \[6 U.S.C. 462\]”.
+Pub. L. 113–6, div. D, title III, Mar. 26, 2013, 127 Stat. 357, provided in part: "That for fiscal year 2013 and thereafter, for purposes of planning, coordination, execution, and decision making related to mass evacuation during a disaster, the Governors of the State of West Virginia and the Commonwealth of Pennsylvania, or their designees, shall be incorporated into efforts to integrate the activities of Federal, State, and local governments in the National Capital Region, as defined in section 882 of the Homeland Security Act of 2002 (Public Law 107–296) \[6 U.S.C. 462\]".
 

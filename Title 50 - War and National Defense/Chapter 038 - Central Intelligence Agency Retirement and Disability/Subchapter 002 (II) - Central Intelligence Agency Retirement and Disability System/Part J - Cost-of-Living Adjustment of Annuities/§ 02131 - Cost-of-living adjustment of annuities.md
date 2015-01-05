@@ -52,7 +52,7 @@ The monthly annuity installment, after adjustment under this section, shall be r
 
 &emsp;For purposes of paragraph (1), the term "pay" means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
 
-(Pub. L. 88–643, title II, §291, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3240; amended Pub. L. 103–178, title II, §202(a)(14), Dec. 3, 1993, 107 Stat. 2027.)
+(Pub. L. 88–643, title II, §291, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat.3240; amended Pub. L. 103–178, title II, §202(a)(14), Dec. 3, 1993, 107 Stat. 2027.)
 
 #### References in Text
 

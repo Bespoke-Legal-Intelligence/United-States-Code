@@ -22,7 +22,7 @@ A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classi
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100Hof Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2009 Amendment
 

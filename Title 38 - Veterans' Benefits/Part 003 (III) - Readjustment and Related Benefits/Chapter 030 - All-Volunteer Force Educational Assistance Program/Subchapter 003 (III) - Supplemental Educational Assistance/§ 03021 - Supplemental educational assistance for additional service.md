@@ -2,7 +2,7 @@
 
 (a) The Secretary concerned, pursuant to regulations to be prescribed by the Secretary of Defense, may provide for the payment of supplemental educational assistance under this subchapter to any individual eligible for basic educational assistance under section 3011 or 3018 of this title who—
 
-&emsp;(1) serves five or more consecutive years of active duty in the Armed Forces after theyears of active duty counted under section 3011(a)(1) of this title without a break in such service; and
+&emsp;(1) serves five or more consecutive years of active duty in the Armed Forces after the years of active duty counted under section 3011(a)(1) of this title without a break in such service; and
 
 &emsp;(2) after completion of the service described in clause (1) of this subsection—
 
@@ -30,7 +30,7 @@
 
 (d) A period of active duty or duty in the Selected Reserve that occurs before the period of duty by which the individual concerned qualifies for basic educational assistance may not be counted for purposes of this section.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2558, §1421; amended Pub. L. 99–576, title III, §321(5), (6), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §103(b)(5), Nov. 18, 1988, 102 Stat. 4166; Pub. L. 101–237, title IV, §423(b)(4)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered §3021 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2558, §1421; amended Pub. L.99–576, title III, §321(5), (6), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §103(b)(5), Nov. 18, 1988, 102 Stat. 4166; Pub. L. 101–237, title IV, §423(b)(4)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered §3021 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

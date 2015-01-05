@@ -30,7 +30,7 @@ For the purposes of this chapter, except as may be specifically provided otherwi
 
 &emsp;(9) "parent" means any biological parent or parents of an Indian child or any Indian person who has lawfully adopted an Indian child, including adoptions under tribal law or custom. It does not include the unwed father where paternity has not been acknowledged or established;
 
-&emsp;(10) "reservation" means Indian country as defined in section 1151 of title 18 and anylands, not covered under such section, title to which is either held by the United States in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation;
+&emsp;(10) "reservation" means Indian country as defined in section 1151 of title 18 and any lands, not covered under such section, title to which is either held by the United States in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation;
 
 &emsp;(11) "Secretary" means the Secretary of the Interior; and
 

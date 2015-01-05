@@ -96,7 +96,7 @@
 
 Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479; Pub. L. 111–194, §2, June 30, 2010, 124 Stat. 1310, provided:
 
-"\[Section 1. Authorization to organize governments\] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorizes the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuant to constitutions of their own adoption as provided in this Act.
+"\[Section 1. Authorization to organize governments\] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorizes the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuantto constitutions of their own adoption as provided in this Act.
 
 "
 

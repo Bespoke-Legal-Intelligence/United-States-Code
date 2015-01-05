@@ -4,9 +4,9 @@
 
 (b) In addition to any amounts authorized to be appropriated under subsection (a) of this section, there are authorized to be appropriated for fiscal years beginning on or after October 1, 1979, for the acquisition of lands and interests in lands under this subchapter—
 
-&emsp;(1) from the Land and Water Conservation Fund (established under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l–</i>4 et seq.\]) not to exceed $5,000,000, and
+&emsp;(1) from the Land and Water Conservation Fund (established under the Land and Water Conservation Fund Act of 1965) <sup>1</sup> not to exceed $5,000,000, and
 
-&emsp;(2) from any other sources an amount not to exceed the sum of (A) $5,000,000, and (B) an amount equal to the amount deposited in the Treasury under section 460y–4(3)(B) of this title after August 20, 1978,
+&emsp;(2) from any other sources an amount not to exceed the sum of (A) $5,000,000, and (B) anamount equal to the amount deposited in the Treasury under section 460y–4(3)(B) of this title after August 20, 1978,
 
 > such sums to remain available until expended.
 
@@ -14,9 +14,11 @@
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(1), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(1), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 10, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–352 designated existing provisions as subsec. (a) and added subsec. (b).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -31,3 +31,5 @@
 - [&sect; 00284w - Multilateral debt relief](%C2%A7%2000284w%20-%20Multilateral%20debt%20relief.md)
 - [&sect; 00284x - Sixteenth replenishment](%C2%A7%2000284x%20-%20Sixteenth%20replenishment.md)
 - [&sect; 00284y - Multilateral debt relief](%C2%A7%2000284y%20-%20Multilateral%20debt%20relief.md)
+- [&sect; 00284z - Seventeenth replenishment](%C2%A7%2000284z%20-%20Seventeenth%20replenishment.md)
+- [&sect; 00284aa - Multilateral debt relief](%C2%A7%2000284aa%20-%20Multilateral%20debt%20relief.md)

@@ -1,6 +1,6 @@
 ### §2107. Congressional employee
 
-For the purpose of this title, “Congressional employee” means—
+For the purpose of this title, "Congressional employee" means—
 
 &emsp;(1) an employee of either House of Congress, of a committee of either House, or of a joint committee of the two Houses;
 
@@ -20,13 +20,13 @@ For the purpose of this title, “Congressional employee” means—
 
 &emsp;(9) an employee of the Office of Congressional Accessibility Services.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV, §422(c), Oct. 20, 2008, 122 Stat. 4997; Pub. L. 111–145, §7(a), Mar. 4, 2010, 124 Stat. 55.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV,§422(c), Oct. 20, 2008, 122 Stat. 4997; Pub. L. 111–145, §7(a), Mar. 4, 2010, 124 Stat. 55.)
 
 #### Historical and Revision Notes
 
 #### 1966 Act
 
-The section is supplied to avoid the necessity of defining “Congressional employee” each time the term is used in this title.
+The section is supplied to avoid the necessity of defining "Congressional employee" each time the term is used in this title.
 
 1967
 
@@ -50,23 +50,23 @@ July 27, 1965, Pub. L. 89–90, §101 (proviso on p. 265), 79 Stat. 265.
 
 Sept. 26, 1966, Pub. L. 89–604, §1(a), 80 Stat. 846.
 
-Paragraph (6), relating to Official Reporters of Debates of the Senate and their employees, is eliminated as unnecessary on authority of the act of July 27, 1965 (2 U.S.C. 126–1). Pursuant to that act, the Official Reporters and their employees became employees of the Senate; accordingly, they are now included within the definition of “Congressional employee” under paragraph (1).
+Paragraph (6), relating to Official Reporters of Debates of the Senate and their employees, is eliminated as unnecessary on authority of the act of July 27, 1965 (2 U.S.C. 126–1). Pursuant to that act, the Official Reporters and their employees became employees of the Senate; accordingly, they are now included within the definition of "Congressional employee" under paragraph (1).
 
-In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c)), the word “officers” is omitted as included in “employees,” and the words “United States” preceding the words “Botanic Garden” are omitted as unnecessary.
+In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c)), the word "officers" is omitted as included in "employees," and the words "United States" preceding the words "Botanic Garden" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2010</b>—Par. (4). Pub. L. 111–145, inserted “or employee” after “member”.
+<b>2010</b>—Par. (4). Pub. L. 111–145, inserted "or employee" after "member".
 
-<b>2008</b>—Par. (9). Pub. L. 110–437 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “an employee of the Capitol Guide Service.”
+<b>2008</b>—Par. (9). Pub. L. 110–437 amended par. (9) generally. Prior to amendment, par. (9) read as follows: "an employee of the Capitol Guide Service."
 
-<b>1996</b>—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Par. (5). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk".
 
 <b>1970</b>—Par. (9). Pub. L. 91—510 added par. (9).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–145, §7(d), Mar. 4, 2010, 124 Stat. 56, provided that: “The amendments made by this section \[amending this section and sections 5515, 5531, 5533, and 5537 of this title\] shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907).”
+Pub. L. 111–145, §7(d), Mar. 4, 2010, 124 Stat. 56, provided that: "The amendments made by this section \[amending this section and sections 5515, 5531, 5533, and 5537 of this title\] shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907)."
 
 #### Effective Date of 2008 Amendment
 

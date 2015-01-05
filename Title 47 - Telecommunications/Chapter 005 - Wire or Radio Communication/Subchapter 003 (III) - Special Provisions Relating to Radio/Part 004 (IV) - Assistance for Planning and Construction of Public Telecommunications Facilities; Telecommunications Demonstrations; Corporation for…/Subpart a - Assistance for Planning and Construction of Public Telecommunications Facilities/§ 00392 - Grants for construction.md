@@ -116,7 +116,7 @@ Pub. L. 95–567, title I, §103(b), Nov. 2, 1978, 92 Stat. 2407, provided that:
 
 &emsp;"(A) make such determinations as may be necessary with regard to the transfer of the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
 
-&emsp;"(B) make such additional incidental dispositions of personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made availablefor, or in connection with, the functions described in subparagraph (A);
+&emsp;"(B) make such additional incidental dispositions of personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made available for, or in connection with, the functions described in subparagraph (A);
 
 > as the Director may deem necessary to accomplish the purposes of this Act \[see Short Title of 1978 Amendment note set out under section 609 of this title\] and the amendments made by this Act."
 

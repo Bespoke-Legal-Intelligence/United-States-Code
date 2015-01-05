@@ -2,7 +2,7 @@
 
 (a) Not later than 20 days after the end of each fiscal year, the Secretary of Agriculture shall submit to Congress a report on the amounts obligated and expended by the Department during that fiscal year for the procurement of advisory and assistance services.
 
-(b) Each report submitted under subsection (a) of this section shall include a list with the following information:
+(b) Each report submitted under subsection (a) shall include a list with the following information:
 
 &emsp;(1) All contracts awarded for the procurement of advisory and assistance services during the fiscal year and the amount of each contract.
 
@@ -14,5 +14,5 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–316, in subsec. (a), struck out par. (1) designation before "Not later than", struck out subpar. (A) designation before "submit to Congress", struck out ", and (B) transmit a copy of such report to the Comptroller General of the United States" after "and assistance services", redesignated par. (2) as subsec. (b) and in introductory provisions substituted "subsection (a) of this section shall" for "paragraph (1) shall", redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former subsec. (b) which read as follows: "The Comptroller General of the United States shall review the reports submitted under subsection (a) of this section and transmit to Congress any comments and recommendations the Comptroller General considers appropriate regarding the matter contained in such reports."
+<b>1996</b>—Pub. L. 104–316, in subsec. (a), struck out par. (1) designation before "Not later than", struck out subpar.\(A) designation before "submit to Congress", struck out ", and (B) transmit a copy of such report to the Comptroller General of the United States" after "and assistance services", redesignated par. (2) as subsec. (b) and in introductory provisions substituted "subsection (a) of this section shall" for "paragraph (1) shall", redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former subsec. (b) which read as follows: "The Comptroller General of the United States shall review the reports submitted under subsection (a) of this section and transmit to Congress any comments and recommendations the Comptroller General considers appropriate regarding the matter contained in such reports."
 

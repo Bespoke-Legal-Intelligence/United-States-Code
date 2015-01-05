@@ -2,7 +2,7 @@
 
 #### (a) Analysis of goals
 
-To aid in determining the short-term and medium-term goals for employment, production, real income, and prices, analysis shall be presented in the Economic Report with respect to major aspects of the appropriate composition or structure of each goal, and as to the appropriate apportionment of total national production among its major components (private investment, consumer expenditures, and public outlays) as affected by relative income flows and other factors, in order to promote balanced growth and a balanced Federal budget, reduce cyclical disturbances, and achieve the other purposes of this chapter and the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\].
+To aid in determining the short-term and medium-term goals for employment, production,real income, and prices, analysis shall be presented in the Economic Report with respect to major aspects of the appropriate composition or structure of each goal, and as to the appropriate apportionment of total national production among its major components (private investment, consumer expenditures, and public outlays) as affected by relative income flows and other factors, in order to promote balanced growth and a balanced Federal budget, reduce cyclical disturbances, and achieve the other purposes of this chapter and the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\].
 
 #### (b) Means to achieve goals
 
@@ -12,7 +12,7 @@ In choosing means to achieve the goal for the reduction of unemployment and choo
 
 #### References in Text
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (a), is Pub. L. 95–523, Oct. 27,1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (a), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Prior Provisions
 

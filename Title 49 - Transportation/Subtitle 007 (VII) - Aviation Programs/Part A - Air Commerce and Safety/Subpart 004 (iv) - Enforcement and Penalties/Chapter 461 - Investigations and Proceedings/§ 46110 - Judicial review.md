@@ -10,7 +10,7 @@ Judicial Procedures.—When a petition is filed under subsection (a) of this sec
 
 (c)
 
-Authority of Court.—When the petition is sent to the Secretary, Under Secretary, or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary, Under Secretary, or Administrator to conduct further proceedings. After reasonable notice to the Secretary, Under Secretary, or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary, Under Secretary, or Administrator, if supported by substantial evidence, are conclusive.
+Authority of Court.—When the petition is sent to the Secretary, Under Secretary, or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary, Under Secretary, or Administrator to conduct further proceedings. After reasonable notice to the Secretary, Under Secretary, or Administrator, thecourt may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary, Under Secretary, or Administrator, if supported by substantial evidence, are conclusive.
 
 (d)
 
@@ -110,7 +110,7 @@ In subsections (a)–(d), the word "Administrator" in section 1006 of the Federa
 
 In subsection (a), the words "affirmative or negative" are omitted as surplus. The words "is issued" are substituted for "the entry of" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b), the words "if any" are omitted as surplus. The words "of any proceeding" are added forclarity. The words "complained of" are omitted as surplus.
+In subsection (b), the words "if any" are omitted as surplus. The words "of any proceeding" are added for clarity. The words "complained of" are omitted as surplus.
 
 In subsection (c), the word "amend" is added for consistency in the revised title. The word "interim" is substituted for "interlocutory" for clarity. The words "taking other appropriate action" are substituted for "by such mandatory or other relief as may be appropriate" for clarity and to eliminate unnecessary words.
 

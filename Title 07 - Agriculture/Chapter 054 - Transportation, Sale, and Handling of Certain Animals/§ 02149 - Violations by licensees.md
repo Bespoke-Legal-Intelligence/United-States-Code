@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 94–279 added subsec. (d).
 
 #### Change of Name
 
-"United States magistrate judges" substituted for "United States magistrates" in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judges" substituted for "United States magistrates" in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note undersection 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 2008 Amendment
 

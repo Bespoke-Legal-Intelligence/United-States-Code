@@ -40,7 +40,7 @@ References to concentrations of respirable dust in this subchapter mean the aver
 
 #### (f) Average concentration
 
-For the purpose of this subchapter, the term "average concentration" means a determination which accurately represents the atmospheric conditions with regard to respirable dust to which each miner in the active workings of a mine is exposed (1) as measured, during the 18month period following December 30, 1969, over a number of continuous production shifts to be determined by the Secretary and the Secretary of Health and Human Services, and (2) as measured thereafter, over a single shift only, unless the Secretary and the Secretary of Health and Human Services find, in accordance with the provisions of section 811 of this title, that such single shift measurement will not, after applying valid statistical techniques to such measurement, accurately represent such atmospheric conditions during such shift.
+For the purpose of this subchapter, the term "average concentration" means a determination which accurately represents the atmospheric conditions with regard to respirable dust to which each miner in the active workings of a mine is exposed (1) as measured, during the 18 month period following December 30, 1969, over a number of continuous production shifts to be determined by the Secretary and the Secretary of Health and Human Services, and (2) as measured thereafter, over a single shift only, unless the Secretary and the Secretary of Health and Human Services find, in accordance with the provisions of section 811 of this title, that such single shift measurement will not, after applying valid statistical techniques to such measurement, accurately represent such atmospheric conditions during such shift.
 
 #### (g) Compliance inspections
 
@@ -48,7 +48,7 @@ The Secretary shall cause to be made such frequent spot inspections as he deems 
 
 #### (h) Maintenance of respiratory equipment; substitutes for environmental controls
 
-Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be made available to all persons whenever exposed to concentrations of respirable dust in excess of the levels required to be maintained under this chapter. Use of respirators shall not be substituted for environmental control measures in the active workings. Each operator shall maintain a supply of respiratory equipment adequate to deal with occurrences of concentrations of respirable dust in the mine atmosphere in excess of the levels required to be maintained under this chapter.
+Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be made available to all personswhenever exposed to concentrations of respirable dust in excess of the levels required to be maintained under this chapter. Use of respirators shall not be substituted for environmental control measures in the active workings. Each operator shall maintain a supply of respiratory equipment adequate to deal with occurrences of concentrations of respirable dust in the mine atmosphere in excess of the levels required to be maintained under this chapter.
 
 (Pub. L. 91–173, title II, §202, Dec. 30, 1969, 83 Stat. 760; Pub. L. 95–164, title II, §202(a), Nov. 9, 1977, 91 Stat. 1317; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

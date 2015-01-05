@@ -2,7 +2,7 @@
 
 #### (a) Appointment; purposes
 
-The Commission shall appoint Chronic Hazard Advisory Panels (hereinafter referred to as the Panel or Panels) to advise the Commission in accordance with the provisions of section 2080(b)of this title respecting the chronic hazards of cancer, birth defects, and gene mutations associated with consumer products.
+The Commission shall appoint Chronic Hazard Advisory Panels (hereinafter referred to as the Panel or Panels) to advise the Commission in accordance with the provisions of section 2080(b) of this title respecting the chronic hazards of cancer, birth defects, and gene mutations associated with consumer products.
 
 #### (b) Composition; membership
 
@@ -48,7 +48,7 @@ A prior section 2077, Pub. L. 92–573, §28, Oct. 27, 1972, 86 Stat. 1230, prov
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–314, which directed amendment of this section by substituting "the appropriate Congressional committees" for "the Congress" in subsecs. (j)(10)(F) and (k)(1), (2), could not be executed because this section does not contain a subsec. (j) or (k).
+<b>2008</b>—Pub. L. 110–314, which directed amendment of this section by substituting "the appropriate Congressional committees" for "the Congress" in subsecs.\(j)(10)(F) and (k)(1), (2), could not be executed because this section does not contain a subsec. (j) or (k).
 
 <b>1990</b>—Subsec. (b)(1). Pub. L. 101–608 inserted "(other than employees of the National Institutes of Health, the National Toxicology Program, or the National Center for Toxicological Research)" after "States".
 

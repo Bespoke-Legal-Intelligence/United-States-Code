@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—(1) The Secretary concerned may order a member of a reserve componentunder the Secretary's jurisdiction to active duty pursuant to section 12301(d) of this title to perform Active Guard and Reserve duty organizing, administering, recruiting, instructing, or training the reserve components.
+Authority.—(1) The Secretary concerned may order a member of a reserve component under the Secretary's jurisdiction to active duty pursuant to section 12301(d) of this title to perform Active Guard and Reserve duty organizing, administering, recruiting, instructing, or training the reserve components.
 
 (2) A Reserve ordered to active duty under paragraph (1) shall be ordered in the Reserve's reserve grade. While so serving, the Reserve continues to be eligible for promotion as a Reserve, if otherwise qualified.
 
@@ -66,7 +66,7 @@ Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist
 
 Training.—A Reserve on active duty as described in subsection (a) may be provided training consistent with training provided to other members on active duty, as the Secretary concerned sees fit.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §678; renumbered §12310 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(7), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 104–201, div. A, title V, §541, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–261, div. A, title V, §511(b)(1), Oct. 17, 1998, 112 Stat. 2006; Pub. L. 106–65, div. A, title V, §§555(a), (b), 556, title X, §1067(1), Oct. 5, 1999, 113 Stat. 617–619, 774; Pub. L. 107–314, div. A, title V, §514(b), title IX, §933, Dec. 2, 2002, 116 Stat. 2539, 2626; Pub. L. 109–364, div. A, title V, §§525(a), 527,Oct. 17, 2006, 120 Stat. 2193, 2196; Pub. L. 111–84, div. A, title X, §1073(a)(34), Oct. 28, 2009, 123 Stat. 2474.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §678; renumbered §12310 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(7), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 104–201, div. A, title V, §541, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–261, div. A, title V, §511(b)(1), Oct. 17, 1998, 112 Stat. 2006; Pub. L. 106–65, div. A, title V, §§555(a), (b), 556, title X, §1067(1), Oct. 5, 1999, 113 Stat. 617–619, 774; Pub. L. 107–314, div. A, title V, §514(b), title IX, §933, Dec. 2, 2002, 116 Stat. 2539, 2626; Pub. L. 109–364, div. A, title V, §§525(a), 527, Oct. 17, 2006, 120 Stat. 2193, 2196; Pub. L. 111–84, div. A, title X, §1073(a)(34), Oct. 28, 2009, 123 Stat. 2474.)
 
 Historical and Revision Notes
 

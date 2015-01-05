@@ -26,13 +26,13 @@ The Commission—
 
 #### (d) Delegation of enforcement to State commissions
 
-The Commission may delegate authority to enforce the regulations issued under subsection (c) to State commissions or other State or local agencies or programs with jurisdiction over emergency communications. Nothing in this section is intended to alter the authority of State commissions or other State or local agencies with jurisdiction over emergency communications, provided that the exercise of such authority is not inconsistent with Federal law or Commission requirements.
+The Commission may delegate authority to enforce the regulations issued under subsection\(c) to State commissions or other State or local agencies or programs with jurisdiction over emergency communications. Nothing in this section is intended to alter the authority of State commissions or other State or local agencies with jurisdiction over emergency communications, provided that the exercise of such authority is not inconsistent with Federal law or Commission requirements.
 
 #### (e) Implementation
 
 #### (1) Limitation
 
-&emsp;Nothing in this section shall be construed to permit the Commission to issue regulationsthat require or impose a specific technology or technological standard.
+&emsp;Nothing in this section shall be construed to permit the Commission to issue regulations that require or impose a specific technology or technological standard.
 
 #### (2) Enforcement
 
@@ -84,7 +84,7 @@ The Communications Act of 1934, referred to in subsecs. (e)(2) and (f)(1), is ac
 
 This Act, referred to in subsec. (f)(1), is Pub. L. 106–81, Oct. 26, 1999, 113 Stat. 1286, known as the Wireless Communications and Public Safety Act of 1999, which enacted sections 615 to 615b of this title, amended sections 222 and 251 of this title, and enacted provisions set out as notes under sections 609 and 615 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendments note set out under section 609 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (f)(1), is Pub. L. 92–203, Dec. 18, 1971, 85Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (f)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Codification
 

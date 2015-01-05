@@ -22,7 +22,7 @@ The transferor and transferee of a facility that is sold or transferred as descr
 
 (B) The period referred to in subparagraph (A) is the period beginning—
 
-&emsp;(i) if notice is provided as prescribed by subsection (b) of this section, 191 days after thedate on which such sale, transfer, or cessation of use occurs, or
+&emsp;(i) if notice is provided as prescribed by subsection (b) of this section, 191 days after the date on which such sale, transfer, or cessation of use occurs, or
 
 &emsp;(ii) if notice is not provided as prescribed by subsection (b) of this section, 11 days after such sale, transfer, or cessation of use occurs,
 

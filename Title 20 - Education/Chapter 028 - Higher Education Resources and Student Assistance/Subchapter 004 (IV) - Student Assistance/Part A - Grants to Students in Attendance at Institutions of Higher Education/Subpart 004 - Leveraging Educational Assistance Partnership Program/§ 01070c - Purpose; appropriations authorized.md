@@ -24,7 +24,7 @@ It is the purpose of this subpart to make incentive grants available to States t
 
 #### (3) Availability
 
-&emsp;Sums appropriated pursuant to the authority of paragraph (1) for any fiscal year shallremain available for payments to States under this subpart until the end of the fiscal year succeeding the fiscal year for which such sums were appropriated.
+&emsp;Sums appropriated pursuant to the authority of paragraph (1) for any fiscal year shall remain available for payments to States under this subpart until the end of the fiscal year succeeding the fiscal year for which such sums were appropriated.
 
 (Pub. L. 89–329, title IV, §415A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1332; amended Pub. L. 102–325, title IV, §404(a), July 23, 1992, 106 Stat. 506; Pub. L. 105–244, title IV, §407(b), (c)(1), Oct. 7, 1998, 112 Stat. 1666, 1667; Pub. L. 106–554, §1(a)(1) \[title III, §316(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–47; Pub. L. 110–315, title IV, §407(a), Aug. 14, 2008, 122 Stat. 3215.)
 
@@ -56,7 +56,7 @@ Purpose of Subpart.—It is the purpose of this subpart to make incentive grants
 
 "(b)
 
-Authorization of Appropriations; Availability.—(1) There are authorized to be appropriated $85,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.
+Authorization of Appropriations; Availability.—(1) There are authorized to be appropriated$85,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.
 
 "(2) Sums appropriated pursuant to paragraph (1) for any fiscal year shall remain available for payments to States under this subpart until the end of the fiscal year succeeding the fiscal year for which such sums were appropriated."
 

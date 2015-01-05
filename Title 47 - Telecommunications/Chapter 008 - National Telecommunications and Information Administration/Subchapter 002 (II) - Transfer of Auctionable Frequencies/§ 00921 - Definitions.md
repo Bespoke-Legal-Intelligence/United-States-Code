@@ -56,7 +56,7 @@ In general.—If, in order to make available for other use a band of frequencies
 
 Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\]."
 
-\[Pub. L. 108–494, title II, §206, Dec. 23, 2004, 118 Stat. 3996, provided that: "Nothing in this title \[see Short Title of 2004 Amendment note set out under section 901 of this title\] is intended to modify section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) \[set out above\]."\]
+\[Pub. L. 108–494, title II, §206, Dec. 23, 2004, 118 Stat. 3996, provided that: "Nothing in this title \[see Short Title of 2004 Amendment note set out under section 901of this title\] is intended to modify section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) \[set out above\]."\]
 
 #### Reassignment to Federal Government for Use by Department of Defense of Certain Frequency Spectrum Recommended for Reallocation
 

@@ -98,7 +98,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;&emsp;(I) that adverse action has been taken based in whole or in part on a consumer report received from a consumer reporting agency;
 
-&emsp;&emsp;&emsp;(II) of the name, address and telephone number of the consumer reporting agencythat furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
+&emsp;&emsp;&emsp;(II) of the name, address and telephone number of the consumer reporting agency that furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
 
 &emsp;&emsp;&emsp;(III) that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide to the consumer the specific reasons why the adverse action was taken; and
 
@@ -158,7 +158,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (i) Classified information
 
-&emsp;&emsp;&emsp;The term "classified information" means information that is protected from unauthorized disclosure under Executive Order No. 12958 or successor orders.
+&emsp;&emsp;&emsp;The term "classified information" means information that is protected fromunauthorized disclosure under Executive Order No. 12958 or successor orders.
 
 #### (ii) National security investigation
 
@@ -306,7 +306,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (6) Coordination with other laws
 
-&emsp;No provision of this subsection shall be construed as altering, affecting, or supersedingthe applicability of any other provision of Federal law relating to medical confidentiality.
+&emsp;No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
 (Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, §302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, §1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087.)
 
@@ -372,7 +372,7 @@ Subsec. (b)(2). Pub. L. 105–347, §2(a), amended heading and text of par. (2) 
 
 &emsp;"(B) the consumer has authorized in writing the procurement of the report by that person."
 
-Subsec. (b)(3). Pub. L. 105–347, §2(b), amended heading and text of par. (3) generally. Prior to amendment, textread as follows: "In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
+Subsec. (b)(3). Pub. L. 105–347, §2(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
 
 &emsp;"(A) a copy of the report; and
 

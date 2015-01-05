@@ -8,7 +8,7 @@
 
 #### (2) Form of application, etc.
 
-&emsp;An application under this subsection shall be verified in the manner prescribed by section6065 in the case of a return of the taxpayer, and shall be filed in the manner and form required by regulations prescribed by the Secretary. The application shall set forth—
+&emsp;An application under this subsection shall be verified in the manner prescribed by section 6065 in the case of a return of the taxpayer, and shall be filed in the manner and form required by regulations prescribed by the Secretary. The application shall set forth—
 
 &emsp;&emsp;(A) the estimated income tax paid by the corporation during the taxable year,
 
@@ -44,11 +44,9 @@ For purposes of this section and section 6655(h) (relating to excessive adjustme
 
 &emsp;&emsp;(A) The <sup>1</sup> sum of—
 
-&emsp;&emsp;&emsp;(i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable,
+&emsp;&emsp;&emsp;(i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable, plus
 
-&emsp;&emsp;&emsp;(ii) the tax imposed by section 55, plus
-
-&emsp;&emsp;&emsp;(iii) the tax imposed by section 59A, over
+&emsp;&emsp;&emsp;(ii) the tax imposed by section 55, over
 
 &emsp;&emsp;(B) the credits against tax provided by part IV of subchapter A of chapter 1.
 
@@ -62,9 +60,11 @@ For purposes of this section and section 6655(h) (relating to excessive adjustme
 
 If the corporation seeking an adjustment under this section paid its estimated income tax on a consolidated basis or expects to make a consolidated return for the taxable year, this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–364, title I, §103(d)(1), June 28, 1968, 82 Stat. 262; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–499, title V, §516(b)(4)(C), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–203, title X, §10301(b)(4), Dec. 22, 1987, 101 Stat. 1330–429.)
+(Added Pub. L. 90–364, title I, §103(d)(1), June 28, 1968, 82 Stat. 262; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–499, title V, §516(b)(4)(C), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–203, title X, §10301(b)(4), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 113–295, div. A, title II, §221(a)(12)(J), Dec. 19, 2014, 128 Stat. 4039.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1)(A). Pub. L. 113–295 inserted "plus" at end of cl. (i), substituted "over" for "plus" at end of cl. (ii), and struck out cl. (iii) which read as follows: "the tax imposed by section 59A, over".
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–203 substituted "section 6655(h)" for "section 6655(g)".
 
@@ -73,6 +73,10 @@ If the corporation seeking an adjustment under this section paid its estimated i
 Pub. L. 99–499 amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out "plus" at end of cl. (i), substituting "plus" for "over" at end of cl. (ii), and adding cl. (iii).
 
 <b>1976</b>—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 

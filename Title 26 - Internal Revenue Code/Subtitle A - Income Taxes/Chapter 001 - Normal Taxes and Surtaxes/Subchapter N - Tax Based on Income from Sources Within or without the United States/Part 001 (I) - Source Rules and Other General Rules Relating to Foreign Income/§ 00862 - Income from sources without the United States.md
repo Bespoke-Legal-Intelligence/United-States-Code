@@ -10,7 +10,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;(3) compensation for labor or personal services performed without the United States;
 
-&emsp;(4) rentals or royalties from property located without the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using without the United States patents, copyrights, secret processes and formulas, goodwill, trade-marks, trade brands, franchises, and other like properties;
+&emsp;(4) rentals or royalties from property located without the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using without the United States patents, copyrights, secret processes and formulas, good will, trade-marks, trade brands, franchises, and other like properties;
 
 &emsp;(5) gains, profits, and income from the sale or exchange of real property located without the United States;
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 92–178 applicable to taxable years ending after Aug. 15, 
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1211(b)(1)(C) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had beenincluded in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1211(b)(1)(C) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Qualified Research and Experimental Expenditures; Allocation and Apportionment; Definitions; Special Rules; Effective Dates
 

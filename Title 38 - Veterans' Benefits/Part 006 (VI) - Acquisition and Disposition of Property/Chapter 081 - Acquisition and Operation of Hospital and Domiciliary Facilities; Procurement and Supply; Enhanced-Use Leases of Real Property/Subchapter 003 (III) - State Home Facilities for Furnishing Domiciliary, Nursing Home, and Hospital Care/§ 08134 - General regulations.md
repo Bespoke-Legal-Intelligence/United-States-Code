@@ -4,7 +4,7 @@
 
 (2) In those regulations, the Secretary shall prescribe for each State the number of nursing home and domiciliary beds for which assistance under this subchapter may be furnished. Such regulations shall be based on projected demand for such care 10 years after the date of the enactment of the Veterans Millennium Health Care and Benefits Act by veterans who at such time are 65 years of age or older and who reside in that State. In determining such projected demand, the Secretary shall take into account travel distances for veterans and their families.
 
-(3)(A) In those regulations, the Secretary shall establish criteria under which the Secretary shall determine, with respect to an application for assistance under this subchapter for a project described in subparagraph (B) which is from a State that has a need for additional beds as determined under subsections (a)(2) and (d)(1), whether the need for such beds is most aptly characterized as great, significant, or limited. Such criteria shall take into account the availability of beds already operated by the Secretary and other providers which appropriately serve the needs which the State proposes to meet with its application.
+(3)(A) In those regulations, the Secretary shall establish criteria under which the Secretary shall determine, with respect to an application for assistance under this subchapter for a project described in subparagraph (B) which is from a State that has a need for additional beds as determined under subsections (a)(2) and (d)(1), whether the need for such beds is most aptlycharacterized as great, significant, or limited. Such criteria shall take into account the availability of beds already operated by the Secretary and other providers which appropriately serve the needs which the State proposes to meet with its application.
 
 (B) This paragraph applies to a project for the construction or acquisition of a new State home facility, a project to increase the number of beds available at a State home facility, and a project to replace beds at a State home facility.
 
@@ -50,7 +50,7 @@ Pub. L. 102–54 amended section as in effect immediately before the enactment o
 
 <b>1980</b>—Par. (1). Pub. L. 96–330 struck out ", which number shall not exceed two and one-half beds per thousand veteran population in the case of any State" after "residing in each State".
 
-<b>1977</b>—Par. (2). Pub. L. 95–62, §3(5), substituted "repair, and equipment for facilities constructed" for "repairs,modernization, alteration, and equipment for facilities for furnishing nursing home care which are constructed".
+<b>1977</b>—Par. (2). Pub. L. 95–62, §3(5), substituted "repair, and equipment for facilities constructed" for "repairs, modernization, alteration, and equipment for facilities for furnishing nursing home care which are constructed".
 
 Par. (3). Pub. L. 95–62, §3(6), substituted "furnishing of care" for "furnishing of nursing home care".
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the delivery of such person to that country is authorized by a treaty or other international agreement to which the United States is a party.
 
-(b) The Secretary of Defense, in consultation with the Secretary of State, shall determinewhich officials of a foreign country constitute appropriate authorities for purposes of this section.
+(b) The Secretary of Defense, in consultation with the Secretary of State, shall determine which officials of a foreign country constitute appropriate authorities for purposes of this section.
 
 (Added Pub. L. 106–523, §2(a), Nov. 22, 2000, 114 Stat. 2489.)
 

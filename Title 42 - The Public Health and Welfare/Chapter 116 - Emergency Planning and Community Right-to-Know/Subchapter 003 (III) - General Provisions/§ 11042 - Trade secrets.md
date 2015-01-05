@@ -14,11 +14,11 @@
 
 &emsp;&emsp;(i) claims that such information is a trade secret, on the basis of the factors enumerated in subsection (b) of this section,
 
-&emsp;&emsp;(ii) includes in the submittal referred to in paragraph (1) an explanation of the reasonswhy such information is claimed to be a trade secret, based on the factors enumerated in subsection (b) of this section, including a specific description of why such factors apply, and
+&emsp;&emsp;(ii) includes in the submittal referred to in paragraph (1) an explanation of the reasons why such information is claimed to be a trade secret, based on the factors enumerated in subsection (b) of this section, including a specific description of why such factors apply, and
 
 &emsp;&emsp;(iii) submits to the Administrator a copy of such submittal, and the information withheld from such submittal.
 
-&emsp;(B) In submitting to the Administrator the information required by subparagraph (A)(iii), a person withholding information under this subsection may—
+&emsp;(B) In submitting to the Administrator the information required by subparagraph (A)(iii),a person withholding information under this subsection may—
 
 &emsp;&emsp;(i) designate, in writing and in such manner as the Administrator may prescribe by regulation, the information which such person believes is entitled to be withheld under paragraph (1), and
 

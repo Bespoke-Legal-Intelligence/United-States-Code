@@ -10,7 +10,7 @@ In case of a permanent vacancy in the office of Governor, arising by reason of t
 
 #### (c) Temporary disability or temporary absence of Lieutenant Governor; president of legislature as Lieutenant Governor
 
-In case of the temporary disability or temporary absence of the Lieutenant Governor, or during any period when the Lieutenant Governor is acting as Governor, the president of the legislature shall act as Lieutenant Governor.
+In case of the temporary disability or temporary absence of the Lieutenant Governor, orduring any period when the Lieutenant Governor is acting as Governor, the president of the legislature shall act as Lieutenant Governor.
 
 #### (d) Permanent vacancy in office of Lieutenant Governor; Governor to appoint new Lieutenant Governor with advice and consent of legislature; term of office
 

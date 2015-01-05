@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in subparagraph (A).
 
-&emsp;(2) The term "commerce" means (A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island and any place outside thereof; (B) commerce between points in any state, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island, but through any place outside thereof; or (C) commerce wholly within the District of Columbia, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island.
+&emsp;(2) The term "commerce" means (A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa,Wake Island, Midway Islands, Kingman Reef, or Johnston Island and any place outside thereof; (B) commerce between points in any state, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island, but through any place outside thereof; or (C) commerce wholly within the District of Columbia, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island.
 
 &emsp;(3) The term "United States", when used in a geographical sense, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, and Johnston Island. The term "State" includes any political division of any State.
 
@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(7) The term "little cigar" means any roll of tobacco wrapped in leaf tobacco or any substance containing tobacco (other than any roll of tobacco which is a cigarette within the meaning of subsection (1)) and as to which one thousand units weigh not more than three pounds.
 
-&emsp;(8) The term "brand style" means a variety of cigarettes distinguished by the tobaccoused, tar and nicotine content, flavoring used, size of the cigarette, filtration on the cigarette, or packaging.
+&emsp;(8) The term "brand style" means a variety of cigarettes distinguished by the tobacco used, tar and nicotine content, flavoring used, size of the cigarette, filtration on the cigarette, or packaging.
 
 &emsp;(9) The term "Secretary" means the Secretary of Health and Human Services.
 

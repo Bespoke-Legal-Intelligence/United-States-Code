@@ -13,7 +13,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. A, title X, §1068(a)(3), (4)(A), Jan. 28, 2008, 122 Stat. 325, substituted "INSURRECTION" for "ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER" in chapter heading, addeditem 333, and struck out former item 333 "Major public emergencies; interference with State and Federal law".
+<b>2008</b>—Pub. L. 110–181, div. A, title X, §1068(a)(3), (4)(A), Jan. 28, 2008, 122 Stat. 325, substituted "INSURRECTION" for "ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER" in chapter heading, added item 333, and struck out former item 333 "Major public emergencies; interference with State and Federal law".
 
 <b>2006</b>—Pub. L. 109–364, div. A, title X, §1076(a)(3), (4)(B), Oct. 17, 2006, 120 Stat. 2405, substituted "ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER" for "INSURRECTION" in chapter heading and "Major public emergencies; interference with State and Federal law" for "Interference with State and Federal law" in item 333.
 

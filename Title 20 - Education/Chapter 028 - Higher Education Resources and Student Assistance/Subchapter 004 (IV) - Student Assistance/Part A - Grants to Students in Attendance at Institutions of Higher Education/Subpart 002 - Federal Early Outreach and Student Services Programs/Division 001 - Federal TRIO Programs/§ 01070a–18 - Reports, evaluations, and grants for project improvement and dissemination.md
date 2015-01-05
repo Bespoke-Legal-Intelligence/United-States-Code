@@ -18,7 +18,7 @@
 
 #### (2) Information
 
-&emsp;The Secretary shall provide, with each report submitted under paragraph (1), information on the impact of the secondary review process described in section 1070a–11(c)(8)(C)(iv) of this title, including the number and type of secondary reviews, the disposition of the secondary reviews, the effect on timing of awards, and any other information the Secretary determines is necessary.
+&emsp;The Secretary shall provide, with each report submitted under paragraph (1), information on the impact of the secondary reviewprocess described in section 1070a–11(c)(8)(C)(iv) of this title, including the number and type of secondary reviews, the disposition of the secondary reviews, the effect on timing of awards, and any other information the Secretary determines is necessary.
 
 #### (b) Evaluations
 

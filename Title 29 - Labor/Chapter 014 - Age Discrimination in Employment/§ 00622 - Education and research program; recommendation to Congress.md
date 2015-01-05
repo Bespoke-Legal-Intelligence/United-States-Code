@@ -1,6 +1,6 @@
 ### §622. Education and research program; recommendation to Congress
 
-(a) The Secretary of Labor shall undertake studies and provide information to labor unions, management, and the general public concerning the needs and abilities of older workers, and their potentials for continued employment andcontribution to the economy. In order to achieve the purposes of this chapter, the Secretary of Labor shall carry on a continuing program of education and information, under which he may, among other measures—
+(a) The Secretary of Labor shall undertake studies and provide information to labor unions, management, and the general public concerning the needs and abilities of older workers, and their potentials for continued employment and contribution to the economy. In order to achieve the purposes of this chapter, the Secretary of Labor shall carry on a continuing program of education and information, under which he may, among other measures—
 
 &emsp;(1) undertake research, and promote research, with a view to reducing barriers to the employment of older persons, and the promotion of measures for utilizing their skills;
 
@@ -42,7 +42,7 @@ Study.—Not later than 4 years after the date of enactment of this Act \[Oct. 3
 
 "(b)
 
-Consultation Requirement.—The Secretary of Labor and the Equal Employment Opportunity Commission shall, during the conduct of the study required under subsection (a) and prior to the development of recommendations under paragraph (1)(C), consult with the United States Fire Administration, the Federal Emergency Management Agency, organizations representing law enforcement officers, firefighters, and their employers, and organizations representing older Americans.
+Consultation Requirement.—The Secretary of Labor and the Equal Employment Opportunity Commission shall, during the conduct of the study required under subsection (a) and prior to the development of recommendations under paragraph (1)(C), consult with the United States Fire Administration, the Federal Emergency Management Agency, organizations representing law enforcement officers, firefighters, andtheir employers, and organizations representing older Americans.
 
 "(c)
 

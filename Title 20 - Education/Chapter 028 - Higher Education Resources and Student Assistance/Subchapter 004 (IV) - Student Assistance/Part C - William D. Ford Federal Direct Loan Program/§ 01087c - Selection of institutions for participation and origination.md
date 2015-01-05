@@ -36,7 +36,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 &emsp;&emsp;(C) is not subject to an emergency action, or a limitation, suspension, or termination under section 1078(b)(1)(T), 1082(h), or 1094(c) of this title;
 
-&emsp;&emsp;(D) in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated byaudits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;
+&emsp;&emsp;(D) in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated by audits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;
 
 &emsp;&emsp;(E) provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless such debts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary's discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
 

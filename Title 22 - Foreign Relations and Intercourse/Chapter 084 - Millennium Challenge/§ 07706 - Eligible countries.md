@@ -42,7 +42,7 @@ A candidate country should be considered to be an eligible country for purposes 
 
 #### (1) In general
 
-&emsp;At the time the Board determines eligible countries under this section for a fiscal year, the Board shall select those eligible countries with respect to which the United States will initially seek to enter into a Millennium Challenge Compact pursuant to section 7708 of this title.
+&emsp;At the time the Board determines eligible countries under this section for a fiscal year,the Board shall select those eligible countries with respect to which the United States will initially seek to enter into a Millennium Challenge Compact pursuant to section 7708 of this title.
 
 #### (2) Factors
 

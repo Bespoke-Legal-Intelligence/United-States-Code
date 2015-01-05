@@ -146,7 +146,7 @@ Selection criteria.—In conducting a competition under subsection (b), the Secr
 
 &emsp;&emsp;&emsp;(ii) the location of the center within the Federal region to be served; and
 
-&emsp;&emsp;&emsp;(iii) whether the institution (or, in the case of consortium <sup>1</sup> of institutions, the lead institution) demonstrates that the institution has a well-established, nationally recognized program in transportation research and education, as evidenced by—
+&emsp;&emsp;&emsp;(iii) whether the institution (or, in the case of consortium <sup>1</sup> of institutions, the lead institution) demonstrates that the institution has a well-established, nationallyrecognized program in transportation research and education, as evidenced by—
 
 &emsp;&emsp;&emsp;&emsp;(I) recent expenditures by the institution in highway or public transportation research;
 
@@ -224,7 +224,7 @@ Annual review and evaluation.—Not less frequently than annually, and consisten
 
 &emsp;&emsp;(A) review and evaluate the programs carried out under this section by grant recipients; and
 
-&emsp;&emsp;(B) submit to the Committees on Transportation and Infrastructure and Science,Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing that review and evaluation.
+&emsp;&emsp;(B) submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing that review and evaluation.
 
 &emsp;(3)
 

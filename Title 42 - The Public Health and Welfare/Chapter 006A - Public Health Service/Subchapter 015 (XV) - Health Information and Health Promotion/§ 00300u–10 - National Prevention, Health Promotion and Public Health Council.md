@@ -124,15 +124,17 @@ Not later than July 1, 2010, and annually thereafter through January 1, 2015, th
 
 #### (i) Periodic reviews
 
-The Secretary and the Comptroller General of the United States shall jointly conduct periodic reviews, not less than every 5 years, and evaluations of every Federal disease prevention and health promotion initiative, program, and agency. Such reviews shall be evaluated based on effectiveness in meeting metrics-based goals with an analysis posted on such agencies' public Internet websites.
+The Secretary shall conduct periodic reviews, not less than every 5 years, and evaluations of every Federal disease prevention and health promotion initiative, program, and agency. Such reviews shall be evaluated based on effectiveness in meeting metrics-based goals with an analysis posted on such agencies' public Internet websites.
 
-(Pub. L. 111–148, title IV, §4001, title X, §10401(a), Mar. 23, 2010, 124 Stat. 538, 974.)
+(Pub. L. 111–148, title IV, §4001, title X, §10401(a), Mar. 23, 2010, 124 Stat. 538, 974; Pub. L. 113–188, title IX, §902(a), Nov. 26, 2014, 128 Stat. 2020.)
 
 #### Codification
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i). Pub. L. 113–188 substituted "The Secretary shall conduct periodic reviews" for "The Secretary and the Comptroller General of the United States shall jointly conduct periodic reviews".
 
 <b>2010</b>—Subsec. (h)(4), (5). Pub. L. 111–148, §10401(a), substituted "2020" for "2010".
 
@@ -186,7 +188,7 @@ Sec. 3. <i>Purposes and Duties</i>. The Council shall:
 
 (d) consider and propose evidence-based models, policies, and innovative approaches for the promotion of transformative models of prevention, integrative health, and public health on individual and community levels across the United States;
 
-(e) establish processes for continual public input, including input from State, regional, and local leadershipcommunities and other relevant stakeholders, including Indian tribes and tribal organizations;
+(e) establish processes for continual public input, including input from State, regional, and local leadership communities and other relevant stakeholders, including Indian tribes and tribal organizations;
 
 (f) submit the reports required by section 6 of this order; and
 
@@ -272,7 +274,7 @@ Ex. Ord. No. 13631, Dec. 7, 2012, 77 F.R. 74101, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 4001 of the Patient Protection and Affordable Care Act (Public Law 111–148), 42 U.S.C. 300u–10, it is hereby ordered as follows:
 
-Section 1. <i>Reestablishing the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health</i>. The Advisory Group on Prevention, Health Promotion, and Integrative and Public Health (Advisory Group), as set forth under the provisions of Executive Order 13544of June 10, 2010, and continued by section 2 of Executive Order 13591 of November 23, 2011, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Advisory Group on September 30, 2012, are hereby reappointed to the Advisory Group as reestablished by this order, as if the Advisory Group had continued without termination through the date of this Executive Order.
+Section 1. <i>Reestablishing the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health</i>. The Advisory Group on Prevention, Health Promotion,and Integrative and Public Health (Advisory Group), as set forth under the provisions of Executive Order 13544 of June 10, 2010, and continued by section 2 of Executive Order 13591 of November 23, 2011, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Advisory Group on September 30, 2012, are hereby reappointed to the Advisory Group as reestablished by this order, as if the Advisory Group had continued without termination through the date of this Executive Order.
 
 Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

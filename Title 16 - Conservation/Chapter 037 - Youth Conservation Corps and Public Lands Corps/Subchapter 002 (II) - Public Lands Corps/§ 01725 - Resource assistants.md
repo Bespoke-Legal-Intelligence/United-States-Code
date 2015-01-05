@@ -8,7 +8,7 @@ The Secretary is authorized to provide individual placements of resource assista
 
 Whenever one or more existing nonprofit organizations can provide, in the judgment of the the <sup>1</sup> Secretary, appropriate recruitment and placement services to fulfill the requirements of this section, the Secretary may implement this section through such existing organizations. Participating nonprofit organizations shall contribute to the expenses of providing and supporting the resource assistants, through private sources of funding, at a level equal to 25 percent of the total costs of each participant in the Resource Assistant program who has been recruited and placed through that organization. Any such participating nonprofit conservation service organization shall be required, by the respective land managing agency, to submit an annual report evaluating the scope, size, and quality of the program, including the value of work contributed by the Resource Assistants, to the mission of the agency.
 
-(Pub. L. 91–378, title II, §206, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 852;amended Pub. L. 109–154, §2(g)(3), Dec. 30, 2005, 119 Stat. 2893.)
+(Pub. L. 91–378, title II, §206, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 852; amended Pub. L. 109–154, §2(g)(3), Dec. 30, 2005, 119 Stat. 2893.)
 
 #### Amendments
 

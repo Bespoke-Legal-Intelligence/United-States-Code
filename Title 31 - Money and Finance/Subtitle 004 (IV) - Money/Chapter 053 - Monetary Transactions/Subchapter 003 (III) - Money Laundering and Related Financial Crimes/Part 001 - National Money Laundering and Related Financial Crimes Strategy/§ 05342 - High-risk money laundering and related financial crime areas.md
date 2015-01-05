@@ -22,7 +22,7 @@ Purpose and objective.—It is the purpose of this section to provide a mechanis
 
 (b)
 
-Element of National Strategy.—The designation of certain areas as areas in whichmoney laundering and related financial crimes are extensive or present a substantial risk shall be an element of the national strategy developed pursuant to section 5341(b).
+Element of National Strategy.—The designation of certain areas as areas in which money laundering and related financial crimes are extensive or present a substantial risk shall be an element of the national strategy developed pursuant to section 5341(b).
 
 (c)
 

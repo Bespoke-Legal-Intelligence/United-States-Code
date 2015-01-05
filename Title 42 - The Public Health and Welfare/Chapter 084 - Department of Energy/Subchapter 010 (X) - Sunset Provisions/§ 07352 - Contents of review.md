@@ -18,7 +18,7 @@ Each comprehensive review prepared for submission under section 7351 of this tit
 
 &emsp;(8) a statement of the number and types of beneficiaries or persons served by the program;
 
-&emsp;(9) an assessment of the effect of the program on the national economy, including, but not limited to, the effects on competition, economic stability, employment, unemployment, productivity, and price inflation, including costs to consumers and to businesses;
+&emsp;(9) an assessment of the effect of the program on the national economy, including, butnot limited to, the effects on competition, economic stability, employment, unemployment, productivity, and price inflation, including costs to consumers and to businesses;
 
 &emsp;(10) an assessment of the impact of the program on the Nation's health and safety;
 

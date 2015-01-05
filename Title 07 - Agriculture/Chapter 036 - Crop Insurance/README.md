@@ -15,6 +15,8 @@
 | [1507\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001507%20-%20Personnel%20of%20Corporation.md) | Personnel of Corporation. |
 | [1508\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001508%20-%20Crop%20insurance.md) | Crop insurance. |
 | [1508a.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001508a%20-%20Double%20insurance%20and%20prevented%20planting.md) | Double insurance and prevented planting. |
+| [1508b.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001508b%20-%20Stacked%20Income%20Protection%20Plan%20for%20producers%20of%20upland%20cotton.md) | Stacked Income Protection Plan for producers of upland cotton. |
+| [1508c.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001508c%20-%20Peanut%20revenue%20crop%20insurance.md) | Peanut revenue crop insurance. |
 | [1509\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001509%20-%20Exemption%20of%20indemnities%20from%20levy.md) | Exemption of indemnities from levy. |
 | [1510\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001510%20-%20Deposit%20and%20investment%20of%20funds%3B%20Federal%20Reserve%20banks%20as%20fiscal%20agents.md) | Deposit and investment of funds; Federal Reserve banks as fiscal agents. |
 | [1511\.](Subchapter%20001%20%28I%29%20-%20Federal%20Crop%20Insurance/%C2%A7%2001511%20-%20Tax%20exemption.md) | Tax exemption. |

@@ -1,6 +1,6 @@
 ### §484. Protection of uniform
 
-The provisions of law relating to the protection of the uniform of the United States Army,Navy, or Marine Corps shall apply to the protection of the uniform of the Coast Guard, in the same manner, to the same extent, and under the same conditions.
+The provisions of law relating to the protection of the uniform of the United States Army, Navy, or Marine Corps shall apply to the protection of the uniform of the Coast Guard, in the same manner, to the same extent, and under the same conditions.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 533.)
 

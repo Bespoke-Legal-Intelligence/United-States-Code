@@ -4,7 +4,7 @@
 
 &emsp;(1) refine further the assessment of risk factors associated with the generic design and operation of nuclear powerplants to determine the degree and consequences of propagation of failures of systems, subsystems, and components, including consideration of the interaction between the primary and secondary systems;
 
-&emsp;(2) develop potentially cost-beneficial changes in the generic design and operation of nuclear powerplants that can (A) significantly reduce the risks from unintentional release of radioactive material from the various engineered barriers of nuclear powerplants and (B) reduce the radiation exposure to workers during plant operation and maintenance;
+&emsp;(2) develop potentially cost-beneficial changes in the generic design and operation of nuclear powerplants that can (A) significantly reduce the risks from unintentional release ofradioactive material from the various engineered barriers of nuclear powerplants and (B) reduce the radiation exposure to workers during plant operation and maintenance;
 
 &emsp;(3) develop potentially cost-beneficial generic methods and designs that will significantly improve the performance of operators of nuclear powerplants under routine, abnormal, and accident conditions;
 

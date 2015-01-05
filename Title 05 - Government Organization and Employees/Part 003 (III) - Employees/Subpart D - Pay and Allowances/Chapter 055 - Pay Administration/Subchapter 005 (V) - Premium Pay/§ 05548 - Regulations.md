@@ -22,7 +22,7 @@ Act
 
 June 30, 1945, ch. 212, §605, 59 Stat. 304.
 
-The words “an Executive agency” are substituted for “the executive branch of the Government” to conform to the definition in section 105. Applicability of this section to employees of the General Accounting Office is based on former section 933a.
+The words "an Executive agency" are substituted for "the executive branch of the Government" to conform to the definition in section 105. Applicability of this section to employees of the General Accounting Office is based on former section 933a.
 
 The remainder of the authority is covered by sections 5504 and 6101.
 
@@ -48,15 +48,15 @@ Oct. 28, 1949, ch. 782, §1101 (as applicable to §804, added July 19, 1966, Pub
 
 5 App.: 1134(4) (6th through 9th words).
 
-July 19, 1966, Pub. L. 89–512, §1 “Sec. 804(4) (6th through 9th words)”, 80 Stat. 318.
+July 19, 1966, Pub. L. 89–512, §1 "Sec. 804(4) (6th through 9th words)", 80 Stat. 318.
 
 This section consolidates into 5 U.S.C. 5548(b) general regulatory authority granted to the Civil Service Commission by section 1101 of the Classification Act of 1949 (as applicable to sec. 804 of that act, added by Public Law 89–512) and the specific requirement in section 804(4) of that act that the Commission prescribe regulations.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “section 5545(d)” for “sections 5545(d) and 5550 of this title”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted "section 5545(d)" for "sections 5545(d) and 5550 of this title".
 
-<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission".
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–392, §12(a), struck out reference to section 5544 of this title.
 

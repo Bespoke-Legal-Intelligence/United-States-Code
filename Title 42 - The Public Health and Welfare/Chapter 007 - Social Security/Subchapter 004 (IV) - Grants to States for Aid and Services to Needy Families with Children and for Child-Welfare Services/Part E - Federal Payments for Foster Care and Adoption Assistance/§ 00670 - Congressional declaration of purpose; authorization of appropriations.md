@@ -130,7 +130,7 @@ Information required.—An application for a grant authorized under this section
 
 &emsp;&emsp;&emsp;"(iii) relevant information about the subject child, including family information and the reason for court supervision.
 
-&emsp;&emsp;"(C) In the case of an application submitted by a local court, a description of how the plan to implement the proposed system was developed in consultation with related State courts, particularly with regard to a State court improvement plan funded under section 13712 of the Omnibus Budget Reconciliation Act of 1993 (42 U.S.C. 670 note) \[now 42 U.S.C. 629h\] if there is such a plan in the State.
+&emsp;&emsp;"(C) In the case of an application submitted by a local court, a description of how the plan to implement the proposed system was developed in consultation with related State courts, particularlywith regard to a State court improvement plan funded under section 13712 of the Omnibus Budget Reconciliation Act of 1993 (42 U.S.C. 670 note) \[now 42 U.S.C. 629h\] if there is such a plan in the State.
 
 &emsp;&emsp;"(D) In the case of an application that is submitted by a State court, a description of how the proposed system will integrate with a State court improvement plan funded under section 13712 of such Act if there is such a plan in the State.
 
@@ -354,7 +354,7 @@ Limitation on Administrative Expenditures.—Not more than 5 percent of the gran
 
 "(c)
 
-Determination of Urban and Rural Areas.—For purposes of administering the grant authorized under this subsection, the Administrator of the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice shall determine whether an area is one of the 15 largest urban areas or a rural area in accordance with the practices of, and statistical information compiled by, the Bureau of the Census.
+Determination of Urban and Rural Areas.—For purposes of administering the grant authorized under this subsection, the Administrator of the Office of Juvenile Justice and Delinquency Prevention of theDepartment of Justice shall determine whether an area is one of the 15 largest urban areas or a rural area in accordance with the practices of, and statistical information compiled by, the Bureau of the Census.
 
 "(d)
 

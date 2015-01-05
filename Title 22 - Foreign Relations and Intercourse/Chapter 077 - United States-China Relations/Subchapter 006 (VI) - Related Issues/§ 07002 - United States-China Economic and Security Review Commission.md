@@ -28,7 +28,7 @@ The purposes of this section are as follows:
 
 &emsp;&emsp;(C) appointment of members by the President pro tempore of the Senate upon the recommendation of the minority leader of the Senate shall be made after consultation with the ranking minority member of the Committee on Armed Services of the Senate, in addition to consultation with the ranking minority member of the Committee on Finance of the Senate provided for under clause (ii) of that subparagraph;
 
-&emsp;&emsp;(D) appointment of members by the minority leader of the House of Representatives shall be made after consultation with the ranking minority member of the Committee on Armed Services of the House of Representatives, in addition to consultation with the ranking minority member of the Committee on Ways and Means of the House of Representatives provided for under clause (iv) of that subparagraph;
+&emsp;&emsp;(D) appointment of members by the minority leader of the House of Representatives shall be made after consultation with the ranking minority member of the Committeeon Armed Services of the House of Representatives, in addition to consultation with the ranking minority member of the Committee on Ways and Means of the House of Representatives provided for under clause (iv) of that subparagraph;
 
 &emsp;&emsp;(E) persons appointed to the Commission shall have expertise in national security matters and United States-China relations, in addition to the expertise provided for under subparagraph (B)(i)(I) of that section;
 
@@ -54,7 +54,7 @@ The purposes of this section are as follows:
 
 #### (4) Retention of support
 
-&emsp;The Commission shall retain and make use of such staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission as the Commission determines, in the judgment of the members of the Commission, are required to facilitate the ready commencement of activities of the Commission under subsection (c) of this section or to carry out such activities after the commencement of such activities.
+&emsp;The Commission shall retain and make use of such staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission as the Commission determines, in the judgment of the members of the Commission, are required to facilitate the ready commencement of activities of the Commission under subsection (c) or to carry out such activities after the commencement of such activities.
 
 #### (5) Chairman and Vice Chairman
 
@@ -84,25 +84,27 @@ The purposes of this section are as follows:
 
 &emsp;Each report under paragraph (1) shall include, at a minimum, a full discussion of the following:
 
-&emsp;&emsp;(A) The portion of trade in goods and services with the United States that the People's Republic of China dedicates to military systems or systems of a dual nature that could be used for military purposes.
+&emsp;&emsp;(A) The role of the People's Republic of China in the proliferation of weapons of mass destruction and other weapon systems (including systems and technologies of a dual use nature), including actions the United States might take to encourage the People's Republic of China to cease such practices.
 
-&emsp;&emsp;(B) The acquisition by the People's Republic of China of advanced military or dual-use technologies from the United States by trade (including procurement) and other technology transfers, especially those transfers, if any, that contribute to the proliferation of weapons of mass destruction or their delivery systems, or that undermine international agreements or United States laws with respect to nonproliferation.
+&emsp;&emsp;(B) The qualitative and quantitative nature of the transfer of United States production activities to the People's Republic of China, including the relocation of manufacturing, advanced technology and intellectual property, and research and development facilities, the impact of such transfers on the national security of the United States (including the dependence of the national security industrial base of the United States on imports from China), the economic security of the United States, and employment in the United States, and the adequacy of United States export control laws in relation to the People's Republic of China.
 
-&emsp;&emsp;(C) Any transfers, other than those identified under subparagraph (B), to the military systems of the People's Republic of China made by United States firms and United States-based multinational corporations.
+&emsp;&emsp;(C) The effects of the need for energy and natural resources in the People's Republic of China on the foreign and military policies of the People's Republic of China, the impact of the large and growing economy of the People's Republic of China on world energy and natural resource supplies, prices, and the environment, and the role the United States can play (including through joint research and development efforts and technological assistance) in influencing the energy and natural resource policies of the People's Republic of China.
 
-&emsp;&emsp;(D) An analysis of the statements and writing of the People's Republic of China officials and officially-sanctioned writings that bear on the intentions, if any, of the Government of the People's Republic of China regarding the pursuit of military competition with, and leverage over, or cooperation with, the United States and the Asian allies of the United States.
+&emsp;&emsp;(D) Foreign investment by the United States in the People's Republic of China and by the People's Republic of China in the United States, including an assessment of its economic and security implications, the challenges to market access confronting potential United States investment in the People's Republic of China, and foreign activities by financial institutions in the People's Republic of China.
 
-&emsp;&emsp;(E) The military actions taken by the Government of the People's Republic of China during the preceding year that bear on the national security of the United States and the regional stability of the Asian allies of the United States.
+&emsp;&emsp;(E) The military plans, strategy and doctrine of the People's Republic of China, the structure and organization of the People's Republic of China military, the decision-making process of the People's Republic of China military, the interaction between the civilian and military leadership in the People's Republic of China, the development and promotion process for leaders in the People's Republic of China military, deployments of the People's Republic of China military, resources available to the People's Republic of China military (including the development and execution of budgets and the allocation of funds), force modernization objectives and trends for the People's Republic of China military, and the implications of such objectives and trends for the national security of the United States.
 
-&emsp;&emsp;(F) The effects, if any, on the national security interests of the United States of the use by the People's Republic of China of financial transactions and capital flow and currency manipulations.
+&emsp;&emsp;(F) The strategic economic and security implications of the cyber capabilities and operations of the People's Republic of China.
 
-&emsp;&emsp;(G) Any action taken by the Government of the People's Republic of China in the context of the World Trade Organization that is adverse or favorable to the United States national security interests.
+&emsp;&emsp;(G) The national budget, fiscal policy, monetary policy, capital controls, and currency management practices of the People's Republic of China, their impact on internal stability in the People's Republic of China, and their implications for the United States.
 
-&emsp;&emsp;(H) Patterns of trade and investment between the People's Republic of China and its major trading partners, other than the United States, that appear to be substantively different from trade and investment patterns with the United States and whether the differences have any national security implications for the United States.
+&emsp;&emsp;(H) The drivers, nature, and implications of the growing economic, technological, political, cultural, people-to-people, and security relations of the People's Republic of China's with other countries, regions, and international and regional entities (including multilateral organizations), including the relationship among the United States, Taiwan, and the People's Republic of China.
 
-&emsp;&emsp;(I) The extent to which the trade surplus of the People's Republic of China with the United States enhances the military budget of the People's Republic of China.
+&emsp;&emsp;(I) The compliance of the People's Republic of China with its commitments to the World Trade Organization, other multilateral commitments, bilateral agreements signed with the United States, commitments made to bilateral science and technology programs, and any other commitments and agreements strategic to the United States (including agreements on intellectual property rights and prison labor imports), and United States enforcement policies with respect to such agreements.
 
-&emsp;&emsp;(J) An overall assessment of the state of the security challenges presented by the People's Republic of China to the United States and whether the security challenges are increasing or decreasing from previous years.
+&emsp;&emsp;(J) The implications of restrictions on speech and access to information in the People's Republic of China for its relations with the United States in economic and security policy, as well as any potential impact of media control by the People's Republic of China on United States economic interests.
+
+&emsp;&emsp;(K) The safety of food, drug, and other products imported from China, the measures used by the People's Republic of China Government and the United States Government to monitor and enforce product safety, and the role the United States can play (including through technical assistance) to improve product safety in the People's Republic of China.
 
 #### (3) Recommendations of report
 
@@ -142,7 +144,7 @@ The purposes of this section are as follows:
 
 #### (3) Staff
 
-&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the TradeDeficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
 #### (4) Detail of government employees
 
@@ -174,7 +176,7 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply
 
 This section shall take effect on the first day of the 107th Congress.
 
-(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285.)
+(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285; Pub. L. 113–291, div. A, title XII, §1259B(a), Dec. 19, 2014, 128 Stat. 3578.)
 
 #### References in Text
 
@@ -189,6 +191,8 @@ The first day of the 107th Congress, referred to in subsec. (h), was Jan. 3, 200
 Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the U.S.-China Relations Act of 2000 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–291 added subpars. (A) to (K) and struck out former subpars. (A) to (J) which described required contents of report.
 
 <b>2007</b>—Subsec. (c)(1). Pub. L. 110–161 substituted "December" for "June".
 
@@ -222,7 +226,11 @@ Subsec. (e)(3). Pub. L. 107–67, §645(a), inserted at end "The executive direc
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Pub. L. 108–7, div. P, §2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that: "Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall be deemed to refer to the United States-China Economic and Security Review Commission."
+Pub. L. 108–7, div. P, §2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that: "Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall bedeemed to refer to the United States-China Economic and Security Review Commission."
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–291, div. A, title XII, §1259B(b), Dec. 19, 2014, 128 Stat. 3579, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to annual reports submitted under section 1238(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[22 U.S.C. 7002(c)\] after such date of enactment."
 
 #### Effective Date of 2003 Amendment
 

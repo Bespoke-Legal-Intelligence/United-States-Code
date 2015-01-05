@@ -54,7 +54,7 @@ Jurisdiction.—There is jurisdiction over the offenses in subsection (a) if—
 
 &emsp;&emsp;(E) the offense is committed against a state or government facility of the United States, including an embassy or other diplomatic or consular premises of the United States;
 
-&emsp;&emsp;(F) the offense is committed on board a vessel flying the flag of the United States oran aircraft which is registered under the laws of the United States at the time the offense is committed; or
+&emsp;&emsp;(F) the offense is committed on board a vessel flying the flag of the United States or an aircraft which is registered under the laws of the United States at the time the offense is committed; or
 
 &emsp;&emsp;(G) the offense is committed on board an aircraft which is operated by the United States.
 

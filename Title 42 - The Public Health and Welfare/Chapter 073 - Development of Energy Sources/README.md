@@ -43,6 +43,7 @@
 | [5851\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Regulatory%20Commission%3B%20Nuclear%20Whistleblower%20Protection/%C2%A7%2005851%20-%20Employee%20protection.md) | Employee protection. |
 | [5852\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Regulatory%20Commission%3B%20Nuclear%20Whistleblower%20Protection/%C2%A7%2005852%20-%20Availability%20of%20funds.md) | Availability of funds. |
 | [5853\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Regulatory%20Commission%3B%20Nuclear%20Whistleblower%20Protection/%C2%A7%2005853%20-%20Limitation%20on%20legal%20fee%20reimbursement.md) | Limitation on legal fee reimbursement. |
+| [5854\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Regulatory%20Commission%3B%20Nuclear%20Whistleblower%20Protection/%C2%A7%2005854%20-%20Notification%20and%20reports%20by%20Chairman.md) | Notification and reports by Chairman. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

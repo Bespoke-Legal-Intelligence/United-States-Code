@@ -14,7 +14,7 @@ For purposes of this section, the term "qualified disaster relief payment" means
 
 &emsp;(3) by a person engaged in the furnishing or sale of transportation as a common carrier by reason of the death or personal physical injuries incurred as a result of a qualified disaster, or
 
-&emsp;(4) if such amount is paid by a Federal, State, or local government, or agency or instrumentality thereof, in connection with aqualified disaster in order to promote the general welfare,
+&emsp;(4) if such amount is paid by a Federal, State, or local government, or agency or instrumentality thereof, in connection with a qualified disaster in order to promote the general welfare,
 
 > but only to the extent any expense compensated by such payment is not otherwise compensated for by insurance or otherwise.
 
@@ -24,7 +24,7 @@ For purposes of this section, the term "qualified disaster" means—
 
 &emsp;(1) a disaster which results from a terroristic or military action (as defined in section 692(c)(2)),
 
-&emsp;(2) federally <sup>1</sup> declared disaster (as defined by section 165(h)(3)(C)(i)),
+&emsp;(2) federally <sup>1</sup> declared disaster (as defined by section 165(h)(3)(C)(i)),<sup>2</sup>
 
 &emsp;(3) a disaster which results from an accident involving a common carrier, or from any other event, which is determined by the Secretary to be of a catastrophic nature, or
 
@@ -64,13 +64,15 @@ Notwithstanding any other provision of this subtitle, no deduction or credit sha
 
 #### References in Text
 
+Par. (3) of section 165(h), referred to in subsec. (c)(2), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(27)(A), Dec. 19, 2014, 128 Stat. 4040. However, the term "federally declared disaster" is defined elsewhere in that section.
+
 Section 406 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (f), is section 406 of Pub. L. 107–42, which is set out as a note under section 40101 of Title 49, Transportation.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
 
-The National Flood Insurance Act, referred to in subsec. (g)(2), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act, referred to in subsec. (g)(2), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principallyto chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -96,7 +98,9 @@ Pub. L. 109–7, §1(c)(1), Apr. 15, 2005, 119 Stat. 22, provided that: "The ame
 
 #### Effective Date
 
-Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: "The amendments made by thissection \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001."
+Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: "The amendments made by this section \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001."
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "a".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

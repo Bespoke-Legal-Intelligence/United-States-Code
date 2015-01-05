@@ -90,7 +90,7 @@ Pending Actions.—The amendments made by this Act \[amending this section and s
 
 "(c)
 
-Juries.—The amendments made by this Act \[amending this section and section 90 of this title\] shallnot affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving on the effective date of such amendments."
+Juries.—The amendments made by this Act \[amending this section and section 90 of this title\] shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving on the effective date of such amendments."
 
 #### Effective Date of 1965 Amendment
 

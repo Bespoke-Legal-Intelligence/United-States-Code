@@ -28,13 +28,13 @@
 
 &emsp;&emsp;(B) "Vegetable seeds" shall include the seeds of those crops that are or may be grown in gardens or on truck farms and are or may be generally known and sold under the name of vegetable seeds.
 
-&emsp;(8) For the purpose of subchapter II of this chapter, the term "weed seeds" means the seeds or bulblets of plants recognized as weeds either by the law or rules and regulations of—
+&emsp;(8) For the purpose of subchapter II, the term "weed seeds" means the seeds or bulblets of plants recognized as weeds either by the law or rules and regulations of—
 
 &emsp;&emsp;(A) The State into which the seed is offered for transportation, or transported; or
 
 &emsp;&emsp;(B) Puerto Rico, Guam, or District of Columbia into which transported, or District of Columbia in which sold.
 
-&emsp;(9)(A) For the purpose of subchapter II of this chapter, the term "noxious-weed seeds" means the seeds or bulblets of plants recognized as noxious—
+&emsp;(9)(A) For the purpose of subchapter II, the term "noxious-weed seeds" means the seeds or bulblets of plants recognized as noxious—
 
 &emsp;&emsp;(i) by the law or rules and regulations of the State into which the seed is offered for transportation, or transported;
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) by the rules and regulations of the Secretary of Agriculture under this chapter, when after investigation he shall determine that a weed is noxious in the United States or in any specifically designated area thereof.
 
-&emsp;(B) For the purpose of subchapter III of this chapter, the term "noxious-weed seeds" means the seeds of Lepidium draba L., Lepidium repens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
+&emsp;(B) For the purpose of subchapter III, the term "noxious-weed seeds" means the seeds of Lepidium draba L., Lepidium repens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
 
 &emsp;(10) The term "origin" means the State, District of Columbia, Puerto Rico, or possession of the United States, or the foreign country, or designated portion thereof, where the seed was grown.
 
@@ -112,7 +112,7 @@ Subsec. (a)(10). Pub. L. 89–686, §1, struck out references to "Alaska," and "
 
 Subsec. (a)(11). Pub. L. 89–686, §3, substituted "soybean, flax, carrot, radish" for "wheat, oat, vetch, sweetclover".
 
-<b>1958</b>—Subsec. (a)(7)(A). Pub. L. 85–581, §1, included sugar beets in list of seeds subject to this chapter by striking out "excluding sugar beet" after "Beta vulgaris L.—Field beet".
+<b>1958</b>—Subsec. (a)(7)(A). Pub. L. 85–581, §1, included sugar beets in list of seeds subject to this chapter bystriking out "excluding sugar beet" after "Beta vulgaris L.—Field beet".
 
 Subsec. (a)(24). Pub. L. 85–581, §2, added par. (24).
 

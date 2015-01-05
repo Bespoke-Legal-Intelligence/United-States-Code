@@ -74,7 +74,7 @@ Pub. L. 108–3 substituted "December 31, 2003" for "December 31, 2002".
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–377 substituted "December 31, 2001" for "September 30, 2000".
 
-<b>1999</b>—Subsec. (a)(2). Pub. L. 106–74, which directed substitution of "2000" for "1999" in section "1309(a)(2) of the National Flood Insurance Act", was executed to subsec. (a)(2) of this section, which is section 1309 of the National Flood Insurance Act of 1968, to reflect the probable intent of Congress.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–74, which directed substitution of "2000" for "1999" in section "1309(a)(2) ofthe National Flood Insurance Act", was executed to subsec. (a)(2) of this section, which is section 1309 of the National Flood Insurance Act of 1968, to reflect the probable intent of Congress.
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–276, which directed substitution of "1999" for "1998" in section "1309(a)(2) of the National Flood Insurance Act", was executed by making the substitution in subsec. (a)(2) of this section, which is section 1309 of the National Flood Insurance Act of 1968, to reflect the probable intent of Congress.
 

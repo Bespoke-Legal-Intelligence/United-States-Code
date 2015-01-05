@@ -14,7 +14,7 @@ Fiscal year transition period of July 1, 1976, through Sept. 30, 1976, deemed fi
 
 #### Contributions by States, etc.
 
-Act Sept. 21, 1944, ch. 412, title II, §208, 58 Stat. 736, provided: "No part of any appropriation which is available for carrying out the Cooperative Farm Forestry Act (16 U.S.C. 568b) \[repealed\] and sections 4 and 5 of the Clarke-McNary Act (16 U.S.C. 567 \[repealed\], 568) shall be expended in any State or Territory unless the State or Territory, or local subdivision thereof, or individuals, or associations contribute a sum equal to that to be allotted therefrom by the Government or make contributions other than money deemed by the Secretary to be the value equivalent thereof."
+Act Sept. 21, 1944, ch. 412, title II, §208, 58 Stat. 736, provided: "No part of any appropriation which is available for carrying out the Cooperative Farm Forestry Act (16 U.S.C. 568b) \[repealed\] and sections 4 and 5 of the Clarke-McNary Act (16 U.S.C. 567 \[repealed\], 568) shall be expended in any State or Territory unless the State or Territory, or local subdivision thereof, or individuals, or associations contribute a sum equal to thatto be allotted therefrom by the Government or make contributions other than money deemed by the Secretary to be the value equivalent thereof."
 
 #### Appropriations Available for 3 Years
 

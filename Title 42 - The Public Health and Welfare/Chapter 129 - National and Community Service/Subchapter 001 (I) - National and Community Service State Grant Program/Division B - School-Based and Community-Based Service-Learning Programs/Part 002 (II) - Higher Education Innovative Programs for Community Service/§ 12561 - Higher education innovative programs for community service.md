@@ -134,7 +134,7 @@ In making grants and entering into contracts under subsection (b), the Corporati
 
 #### (g) Federal work-study
 
-To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 (42 U.S.C. 2753(b)(2)(A)) relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) (relating to Federal Work-Study <sup>1</sup> programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
+To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the HigherEducation Act of 1965 (42 U.S.C. 2753(b)(2)(A)) relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) (relating to Federal Work-Study <sup>1</sup> programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
 
 #### (h) Definition
 

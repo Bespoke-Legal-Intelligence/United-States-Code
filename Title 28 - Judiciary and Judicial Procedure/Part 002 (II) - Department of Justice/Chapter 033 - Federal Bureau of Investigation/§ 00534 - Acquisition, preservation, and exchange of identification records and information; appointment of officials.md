@@ -44,7 +44,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit tribal and 
 
 &emsp;&emsp;(i) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence or contact or communication with or physical proximity to, another person, including any temporary or final orders issued by civil or criminal courts whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
 
-&emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for theprotection of victims of domestic violence, dating violence, sexual assault, or stalking.
+&emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068.)
 
@@ -80,7 +80,7 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 Subsec. (d). Pub. L. 111–211, §233(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases."
 
-Subsec. (e). Pub. L. 111–211, §233(a)(3), which directed redesignation of "the second subsection (e)" as (f), could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
+Subsec. (e). Pub. L. 111–211, §233(a)(3), which directed redesignation of "the second subsection (e)" as (f),could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
 
 Subsec. (f)(2). Pub. L. 111–211, §233(a)(4), which directed amendment of par. (2) of subsec. (f) as redesignated by Pub. L. 111–211 by inserting ", tribal," after "Federal" in introductory provisions, was executed by making the insertion in par. (2) of subsec. (f) as redesignated by Pub. L. 109–248, to reflect the probable intent of Congress.
 
@@ -344,7 +344,7 @@ In general.—Upon receipt of the criminal history record information from the A
 
 Terms.—In the case of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorized employer as to the fact of whether an employee has been—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorizedemployer as to the fact of whether an employee has been—
 
 &emsp;&emsp;&emsp;"(aa) convicted of a felony, an offense involving dishonesty or a false statement if the conviction occurred during the previous 10 years, or an offense involving the use or attempted use of physical force against the person of another if the conviction occurred during the previous 10 years; or
 
@@ -406,7 +406,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 
 "(a)(1) A nursing facility or home health care agency may submit a request to the Attorney General to conduct a search and exchange of records described in subsection (b) regarding an applicant for employment if the employment position is involved in direct patient care.
 
-"(2) A nursing facility or home health care agency requesting a search and exchange of records under this section shall submit to the Attorney General through the appropriate State agency or agency designated by the Attorney General a copy of an employment applicant's fingerprints, a statement signed by the applicantauthorizing the nursing facility or home health care agency to request the search and exchange of records, and any other identification information not more than 7 days (excluding Saturdays, Sundays, and legal public holidays under section 6103(a) of title 5, United States Code) after acquiring the fingerprints, signed statement, and information.
+"(2) A nursing facility or home health care agency requesting a search and exchange of records under this section shall submit to the Attorney General through the appropriate State agency or agency designated by the Attorney General a copy of an employment applicant's fingerprints, a statement signed by the applicant authorizing the nursing facility or home health care agency to request the search and exchange of records, and any other identification information not more than 7 days (excluding Saturdays, Sundays, and legal public holidays under section 6103(a) of title 5, United States Code) after acquiring the fingerprints, signed statement, and information.
 
 "(b) Pursuant to any submission that complies with the requirements of subsection (a), the Attorney General shall search the records of the Criminal Justice Information Services Division of the Federal Bureau of Investigation for any criminal history records corresponding to the fingerprints or other identification information submitted. The Attorney General shall provide any corresponding information resulting from the search to the appropriate State agency or agency designated by the Attorney General to receive such information.
 

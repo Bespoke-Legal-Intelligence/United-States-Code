@@ -14,13 +14,13 @@ The Farm Credit Administration shall cause System institutions to achieve and ma
 
 #### (c) Enhancement of capital adequacy of banks
 
-Each bank shall have on hand at the time of issuance of any note, bond, debenture, or other similar obligation and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under this chapter or real or personal property acquired in connection with loans made under this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other bank assets (including marketable securities) approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.
+Each bank shall have on hand at the time of issuance of any note, bond, debenture, or othersimilar obligation and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under this chapter or real or personal property acquired in connection with loans made under this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other bank assets (including marketable securities) approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.
 
 (Pub. L. 92–181, title IV, §4.3, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, §101(3), Dec. 23, 1985, 99 Stat. 1678; Pub. L. 100–233, title III, §304, title VIII, §§804(a)(3), 805(q), Jan. 6, 1988, 101 Stat. 1621, 1715, 1716; Pub. L. 100–399, title VII, §702(b), Aug. 17, 1988, 102 Stat. 1006.)
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–233, §804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: "Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final."
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–233, §804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: "Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267 of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final."
 
 Subsec. (c). Pub. L. 100–233, §805(q), which directed the amendment of subsec. (c) by substituting "direct or fully guaranteed" for "direct of fully guaranteed" was repealed by Pub. L. 100–399, §702(b). See Construction of 1988 Amendment note below.
 

@@ -8,7 +8,7 @@ As used in this part and part C of this subchapter:
 
 &emsp;(3) Repealed. Pub. L. 106–469, title I, §103(5)(A), Nov. 9, 2000, 114 Stat. 2029.
 
-&emsp;(4) The term "interest in land" means any ownership or possessory right with respect to real property, including ownership in fee, an easement, a leasehold, and any subsurface or mineral rights.
+&emsp;(4) The term "interest in land" means any ownership or possessory right with respect toreal property, including ownership in fee, an easement, a leasehold, and any subsurface or mineral rights.
 
 &emsp;(5) The term "readily available inventories" means stocks and supplies of petroleum products which can be distributed or used without affecting the ability of the importer or refiner to operate at normal capacity; such term does not include minimum working inventories or other unavailable stocks.
 
@@ -16,7 +16,7 @@ As used in this part and part C of this subchapter:
 
 &emsp;(7) Repealed. Pub. L. 106–469, title I, §103(5)(A), Nov. 9, 2000, 114 Stat. 2029.
 
-&emsp;(8) The term "related facility" means any necessary appurtenance to a storage facility,including pipelines, roadways, reservoirs, and salt brine lines.
+&emsp;(8) The term "related facility" means any necessary appurtenance to a storage facility, including pipelines, roadways, reservoirs, and salt brine lines.
 
 &emsp;(9) The term "Reserve" means the Strategic Petroleum Reserve.
 

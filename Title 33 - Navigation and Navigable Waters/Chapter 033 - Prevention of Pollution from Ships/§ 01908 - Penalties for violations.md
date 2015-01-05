@@ -8,7 +8,7 @@ A person who knowingly violates the MARPOL Protocol, Annex IV to the Antarctic P
 
 A person who is found by the Secretary, or the Administrator as provided for in this chapter, after notice and an opportunity for a hearing, to have—
 
-&emsp;(1) violated the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or theregulations issued thereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation; or
+&emsp;(1) violated the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation; or
 
 &emsp;(2) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary, or the Administrator as provided for in this chapter, under the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder, shall be liable to the United States for a civil penalty, not to exceed $5,000 for each statement or representation.
 
@@ -30,13 +30,19 @@ If any ship subject to the MARPOL Protocol, Annex IV to the Antarctic Protocol, 
 
 Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, or the Administrator as provided for in this chapter acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship's registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
 
-(Pub. L. 96–478, §9, Oct. 21, 1980, 94 Stat. 2301; Pub. L. 100–220, title II, §2105, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 101–380, title IV, §4302(n), Aug. 18, 1990, 104 Stat. 539; Pub. L. 103–182, title VI, §688, Dec. 8, 1993, 107 Stat. 2222; Pub. L. 104–227, title II, §201(f), Oct. 2, 1996, 110 Stat. 3043; Pub. L. 110–280, §10, July 21, 2008, 122 Stat. 2615.)
+#### (g) Deposits in Abandoned Seafarers Fund
+
+Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under section 11113 of title 46.
+
+(Pub. L. 96–478, §9, Oct. 21, 1980, 94 Stat. 2301; Pub. L. 100–220, title II, §2105, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 101–380, title IV, §4302(n), Aug. 18, 1990, 104 Stat. 539; Pub. L. 103–182, title VI, §688, Dec. 8, 1993, 107 Stat. 2222; Pub. L. 104–227, title II, §201(f), Oct. 2, 1996, 110 Stat. 3043; Pub. L. 110–280, §10, July 21, 2008, 122 Stat. 2615; Pub. L. 113–281, title III, §320(c), Dec. 18, 2014, 128 Stat. 3054.)
 
 #### Codification
 
 In subsec. (e), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (g). Pub. L. 113–281 added subsec. (g).
 
 <b>2008</b>—Pub. L. 110–280, §10(1), substituted "MARPOL Protocol," for "MARPOL Protocol,," wherever appearing in subsecs. (a), (b), and (d).
 

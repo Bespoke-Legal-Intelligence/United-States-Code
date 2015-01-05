@@ -10,7 +10,7 @@
 
 &emsp;(B) provided by the Secretary of the Interior to the appropriate officers of Del Norte and Humboldt Counties, California.
 
-(3) The Secretary; <sup>1</sup> of the Interior (hereinafter referred to as the "Secretary") may from time to time, with a view to carrying out the purpose of this subchapter and with particular attention to minimizing siltation of the streams, damage to the timber, and assuring the preservation of the scenery within the boundaries of the national park as depicted on said maps, modify said boundaries, giving notice of any changes involved therein by publication of a revised drawing or boundary description in the Federal Register and by filing said revision with the officers with whom the original maps were filed, but the acreage within said park shall at no time exceed 133,000 acres, exclusive of submerged lands and publicly owned highways and roads.
+(3) The Secretary; <sup>1</sup> of the Interior (hereinafter referred to as the "Secretary") may from timeto time, with a view to carrying out the purpose of this subchapter and with particular attention to minimizing siltation of the streams, damage to the timber, and assuring the preservation of the scenery within the boundaries of the national park as depicted on said maps, modify said boundaries, giving notice of any changes involved therein by publication of a revised drawing or boundary description in the Federal Register and by filing said revision with the officers with whom the original maps were filed, but the acreage within said park shall at no time exceed 133,000 acres, exclusive of submerged lands and publicly owned highways and roads.
 
 #### (b) Highways and roads
 
@@ -24,7 +24,7 @@ Within the area outside the boundaries of Redwood National Park indicated as the
 
 #### References in Text
 
-Act of October 21, 1976 (90 Stat. 2743), referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976, which is classified principallyto chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+Act of October 21, 1976 (90 Stat. 2743), referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 #### Amendments
 

@@ -18,7 +18,7 @@
 
 #### (b) Designation
 
-The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest generally depicted on the map entitled "Proposed James Peak Protection Area", dated September 2001, are hereby designated as the James Peak Protection Area (hereafter in this Act referred to as the "Protection Area").
+The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest generallydepicted on the map entitled "Proposed James Peak Protection Area", dated September 2001, are hereby designated as the James Peak Protection Area (hereafter in this Act referred to as the "Protection Area").
 
 #### (c) Map and boundary description
 
@@ -32,7 +32,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (A) Grazing
 
-&emsp;&emsp;Nothing in this Act, including the establishment of the Protection Area, shall affectgrazing on lands within or outside of the Protection Area.
+&emsp;&emsp;Nothing in this Act, including the establishment of the Protection Area, shall affect grazing on lands within or outside of the Protection Area.
 
 #### (B) Mining withdrawal
 
@@ -100,7 +100,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 &emsp;(C) Nothing in this subsection shall be construed as establishing a precedent with regard to any future protection area designation.
 
-&emsp;(D) Nothing in this Act shall be construed as limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water amongand between the State of Colorado and other States.
+&emsp;(D) Nothing in this Act shall be construed as limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water among and between the State of Colorado and other States.
 
 #### (2) Colorado water law
 

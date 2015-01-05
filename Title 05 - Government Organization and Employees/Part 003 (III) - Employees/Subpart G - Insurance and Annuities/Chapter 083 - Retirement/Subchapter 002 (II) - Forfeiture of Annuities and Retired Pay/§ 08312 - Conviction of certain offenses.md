@@ -88,7 +88,7 @@ Historical and Revision Notes
 
 5 U.S.C. 2282.
 
-Sept. 26, 1961, Pub. L. 87–299, §1 “Sec. 1”, 75 Stat. 640.
+Sept. 26, 1961, Pub. L. 87–299, §1 "Sec. 1", 75 Stat. 640.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -106,19 +106,19 @@ The date of enactment of this subsection, referred to in subsec. (d)(1)(C), is t
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–337 substituted “, article 106 (spies), or article 106a (espionage)” for “or article 106 (spies)”.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–337 substituted ", article 106 (spies), or article 106a (espionage)" for "or article 106 (spies)".
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
 
 <b>1986</b>—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
 
-<b>1971</b>—Subsec. (c)(1)(C). Pub. L. 92–128 struck out “, 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)” after “classified information)”.
+<b>1971</b>—Subsec. (c)(1)(C). Pub. L. 92–128 struck out ", 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)" after "classified information)".
 
 #### Effective Date of 1994 Amendment
 
-Section 639(b) of Pub. L. 103–337 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\] and shall apply to persons convicted of espionage under section 906a of title 10, United States Code (article 106a of the Uniform Code of Military Justice), on or after the date of the enactment of this Act.”
+Section 639(b) of Pub. L. 103–337 provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\] and shall apply to persons convicted of espionage under section 906a of title 10, United States Code (article 106a of the Uniform Code of Military Justice), on or after the date of the enactment of this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

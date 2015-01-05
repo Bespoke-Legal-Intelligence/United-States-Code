@@ -26,7 +26,7 @@ Internal control report.—For purposes of defining the reports required by para
 
 Financial reporting.— <sup>1</sup>
 
-&emsp;(1) The reports required by subsection (a)(1)(B) shall include, with respect to thePostal Service's pension and post-retirement health obligations—
+&emsp;(1) The reports required by subsection (a)(1)(B) shall include, with respect to the Postal Service's pension and post-retirement health obligations—
 
 &emsp;&emsp;(A) the funded status of the Postal Service's pension and postretirement health obligations;
 

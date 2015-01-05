@@ -16,13 +16,13 @@ Use of revenues.—
 
 In general.—The Secretary may grant an exemption to a sponsor from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit the sponsor to recover from the sale or lease of the airport such amount as may be approved—
 
-&emsp;&emsp;&emsp;(i) in the case of a primary airport, by at least 65 percent of the scheduled air carriers serving the airport and by scheduledand nonscheduled air carriers whose aircraft landing at the airport during the preceding calendar year, had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year; or
+&emsp;&emsp;&emsp;(i) in the case of a primary airport, by at least 65 percent of the scheduled air carriers serving the airport and by scheduled and nonscheduled air carriers whose aircraft landing at the airport during the preceding calendar year, had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a nonprimary airport, by the Secretary after the airport has consulted with at least 65 percent of the owners of aircraft based at that airport, as determined by the Secretary.
 
 &emsp;&emsp;(B)
 
-Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to the sponsor within 60 days of the filing of the sponsor's application with the Secretary, or within 60 days of the service of the application upon that air carrier, whichever is later.
+Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to the sponsor within 60 days of the filing of the sponsor's application with the Secretary, orwithin 60 days of the service of the application upon that air carrier, whichever is later.
 
 &emsp;&emsp;(C)
 
@@ -102,7 +102,7 @@ Revocation of Exemptions.—The Secretary may revoke an exemption issued to a pu
 
 (j)
 
-Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions of this section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
+Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions of this section requiring the approval of air carriers in determinations concerning the use ofrevenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
 
 (k)
 

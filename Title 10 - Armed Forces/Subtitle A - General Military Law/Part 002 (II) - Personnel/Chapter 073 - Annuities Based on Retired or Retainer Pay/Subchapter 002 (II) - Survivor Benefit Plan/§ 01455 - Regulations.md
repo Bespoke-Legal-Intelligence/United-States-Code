@@ -18,15 +18,17 @@ Procedure for Depositing Certain Receipts.—Regulations prescribed under this s
 
 (d)
 
-Payments to Guardians and Fiduciaries.—
+Payments to Guardians, Fiduciaries, and Special Needs Trusts.—
 
 &emsp;(1)
 
 In general.—Regulations prescribed under this section shall provide procedures for the payment of an annuity under this subchapter in the case of—
 
-&emsp;&emsp;(A) a person for whom a guardian or other fiduciary has been appointed; and
+&emsp;&emsp;(A) a person for whom a guardian or other fiduciary has been appointed;
 
-&emsp;&emsp;(B) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed.
+&emsp;&emsp;(B) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed; and
+
+&emsp;&emsp;(C) a dependent child incapable of self-support because of mental or physical incapacity for whom a supplemental or special needs trust has been established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act (42 U.S.C. 1396p(d)(4)).
 
 &emsp;(2)
 
@@ -36,29 +38,57 @@ Authorized procedures.—The regulations under paragraph (1) may include provisi
 
 &emsp;&emsp;(B) In the case of an annuitant referred to in paragraph (1)(B), payment of the annuity to any person who, in the judgment of the Secretary concerned, is responsible for the care of the annuitant.
 
-&emsp;&emsp;(C) Subject to subparagraphs (D) and (E), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
+&emsp;&emsp;(C) In the case of an annuitant referred to in paragraph (1)(C), payment of the annuity to the supplemental or special needs trust established for the annuitant.
 
-&emsp;&emsp;(D) Authority for the Secretary concerned to permit the payee to withhold from the annuity payment such amount, not in excess of 4 percent of the annuity, as the Secretary concerned considers a reasonable fee for the fiduciary services of the payee when a court appointment order provides for payment of such a fee to the payee for such services or the Secretary concerned determines that payment of a fee to such payee is necessary in order to obtain the fiduciary services of the payee.
+&emsp;&emsp;(D) Subject to subparagraphs (E) and (F), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
 
-&emsp;&emsp;(E) Authority for the Secretary concerned to require the payee to provide a surety bond in an amount sufficient to protect the interests of the annuitant and to pay for such bond out of the annuity.
+&emsp;&emsp;(E) Authority for the Secretary concerned to permit the payee to withhold from the annuity payment such amount, not in excess of 4 percent of the annuity, as the Secretary concerned considers a reasonable fee for the fiduciary services of the payee when a court appointment order provides for payment of such a fee to the payee for such services or the Secretary concerned determines that payment of a fee to such payee is necessary in order to obtain the fiduciary services of the payee.
 
-&emsp;&emsp;(F) A requirement for the payee of an annuity to maintain and, upon request, to provide to the Secretary concerned an accounting of expenditures and investments of amounts paid to the payee.
+&emsp;&emsp;(F) Authority for the Secretary concerned to require the payee to provide a surety bond in an amount sufficient to protect the interests of the annuitant and to pay for such bond out of the annuity.
 
-&emsp;&emsp;(G) In the case of an annuitant referred to in paragraph (1)(B)—
+&emsp;&emsp;(G) A requirement for the payee of an annuity to maintain and, upon request, to provide to the Secretary concerned an accounting of expenditures and investments of amounts paid to the payee.
 
-&emsp;&emsp;&emsp;(i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions being taken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made; and
+&emsp;&emsp;(H) In the case of an annuitant referred to in paragraph (1)(B) or (1)(C)—
 
-&emsp;&emsp;&emsp;(ii) standards for determining incompetency, including standards for determining the sufficiency of medical evidence and other evidence.
+&emsp;&emsp;&emsp;(i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions being taken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made;
 
-&emsp;&emsp;(H) Provisions for any other matter that the President considers appropriate in connection with the payment of an annuity in the case of a person referred to in paragraph (1).
+&emsp;&emsp;&emsp;(ii) standards for determining incompetency, including standards for determining the sufficiency of medical evidence and other evidence; and
+
+&emsp;&emsp;&emsp;(iii) procedures for determining when annuity payments to a supplemental or special needs trust shall end based on the death or marriage of the dependent child for which the trust was established.
+
+&emsp;&emsp;(I) Provisions for any other matter that the President considers appropriate in connection with the payment of an annuity in the case of a person referred to in paragraph (1).
 
 &emsp;(3)
 
-Legal effect of payment to guardian or fiduciary.—An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
+Legal effect of payment to guardian, fiduciary, or trust.—An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 711; amended Pub. L. 99–145, title VII, §724, Nov. 8, 1985, 99 Stat. 678; Pub. L. 102–190, div. A, title VI, §654(a), Dec. 5, 1991, 105 Stat. 1389; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2577.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 711; amended Pub. L. 99–145, title VII, §724, Nov. 8, 1985, 99 Stat. 678; Pub. L. 102–190, div. A, title VI, §654(a), Dec. 5, 1991, 105 Stat. 1389; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2577; Pub. L. 113–291, div. A, title VI, §624(b), Dec. 19, 2014, 128 Stat. 3404.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–291, §624(b)(1), substituted "
+
+, Fiduciaries, and Special Needs Trusts" for "
+
+and Fiduciaries" in heading.
+
+Subsec. (d)(1)(C). Pub. L. 113–291, §624(b)(2), added subpar. (C).
+
+Subsec. (d)(2)(C). Pub. L. 113–291, §624(b)(3)(B), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (d)(2)(D). Pub. L. 113–291, §624(b)(3)(A), (C), redesignated subpar. (C) as (D) and substituted "subparagraphs (E) and (F)" for "subparagraphs (D) and (E)".
+
+Subsec. (d)(2)(E) to (G). Pub. L. 113–291, §624(b)(3)(A), redesignated subpars. (D) to (F) as (E) to (G), respectively. Former subpar. (G) redesignated (H).
+
+Subsec. (d)(2)(H). Pub. L. 113–291, §624(b)(3)(A), (D), redesignated subpar. (G) as (H), inserted "or (1)(C)" after "(1)(B)" in introductory provisions, and added cl. (iii).
+
+Subsec. (d)(2)(I). Pub. L. 113–291, §624(b)(3)(A), redesignated subpar. (H) as (I).
+
+Subsec. (d)(3). Pub. L. 113–291, §624(b)(4), substituted "
+
+, fiduciary, or trust" for "
+
+or fiduciary" in heading.
 
 <b>1996</b>—Pub. L. 104–201 amended section generally, revising and restating provisions relating to regulations to carry out this subchapter.
 
@@ -72,5 +102,5 @@ Legal effect of payment to guardian or fiduciary.—An annuity paid to a person 
 
 #### Effective Date of 1985 Amendment
 
-Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, with prohibition against accrual of benefits to any person by reason of the enactment of suchtitle VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 

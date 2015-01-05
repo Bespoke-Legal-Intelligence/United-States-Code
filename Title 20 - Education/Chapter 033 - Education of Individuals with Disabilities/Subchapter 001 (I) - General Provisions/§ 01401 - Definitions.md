@@ -64,7 +64,7 @@ Except as otherwise provided, in this chapter:
 
 #### (6) Elementary school
 
-&emsp;The term "elementary school" means a nonprofit institutional day or residential school, including a public elementary charter school, that provides elementary education, as determined under State law.
+&emsp;The term "elementary school" means a nonprofit institutional day or residential school,including a public elementary charter school, that provides elementary education, as determined under State law.
 
 #### (7) Equipment
 
@@ -130,7 +130,7 @@ Except as otherwise provided, in this chapter:
 
 #### (D) Special education teachers teaching multiple subjects
 
-&emsp;&emsp;When used with respect to a special education teacher who teaches 2 or more coreacademic subjects exclusively to children with disabilities, such term means that the teacher may either—
+&emsp;&emsp;When used with respect to a special education teacher who teaches 2 or more core academic subjects exclusively to children with disabilities, such term means that the teacher may either—
 
 &emsp;&emsp;&emsp;(i) meet the applicable requirements of section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\] for any elementary, middle, or secondary school teacher who is new or not new to the profession;
 
@@ -202,7 +202,7 @@ Except as otherwise provided, in this chapter:
 
 #### (20) Native language
 
-&emsp;The term "native language", when used with respect to an individual who is limited Englishproficient, means the language normally used by the individual or, in the case of a child, the language normally used by the parents of the child.
+&emsp;The term "native language", when used with respect to an individual who is limited English proficient, means the language normally used by the individual or, in the case of a child, the language normally used by the parents of the child.
 
 #### (21) Nonprofit
 
@@ -210,7 +210,7 @@ Except as otherwise provided, in this chapter:
 
 #### (22) Outlying area
 
-&emsp;The term "outlying area" means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "outlying area" means the United States Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (23) Parent
 
@@ -282,7 +282,7 @@ Except as otherwise provided, in this chapter:
 
 #### (33) Supplementary aids and services
 
-&emsp;The term "supplementary aids and services" means aids, services, and other supports that are provided in regular education classes or other education-related settings to enable children with disabilities to be educated withnondisabled children to the maximum extent appropriate in accordance with section 1412(a)(5) of this title.
+&emsp;The term "supplementary aids and services" means aids, services, and other supports that are provided in regular education classes or other education-related settings to enable children with disabilities to be educated with nondisabled children to the maximum extent appropriate in accordance with section 1412(a)(5) of this title.
 
 #### (34) Transition services
 

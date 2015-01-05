@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "premiums paid" means the premiums paid under the contract less amounts (other than amounts includible in gross income) to which section 72(e) applies and less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received with respect to the contract which are specified in regulations.
+&emsp;&emsp;The term "premiums paid" means the premiums paid under the contract less amounts (other than amounts includible in gross income) to which section 72(e) applies and less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and anyother amounts received with respect to the contract which are specified in regulations.
 
 #### (B) Treatment of certain premiums returned to policyholder
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 #### (D) Recapture ceiling where change occurs after 5th year and before 16th year
 
-&emsp;&emsp;If the change referred to in subparagraph (B) occurs after the 5-year period referred to under subparagraph (C), the recapture ceiling is the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction and whether or not subsection (d) applies to the contract).
+&emsp;&emsp;If the change referred to in subparagraph (B) occurs after the 5-year period referred tounder subparagraph (C), the recapture ceiling is the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction and whether or not subsection (d) applies to the contract).
 
 #### (E) Treatment of certain distributions made in anticipation of benefit reductions
 
@@ -306,7 +306,7 @@ For purposes of this section—
 
 #### (2) Definition of endowment contract
 
-&emsp;For purposes of this title (other than paragraph (1)), the term "endowment contract"means a contract which is an endowment contract under the applicable law and which meets the requirements of subsection (a).
+&emsp;For purposes of this title (other than paragraph (1)), the term "endowment contract" means a contract which is an endowment contract under the applicable law and which meets the requirements of subsection (a).
 
 #### (i) Transitional rule for certain 20-pay contracts
 
@@ -402,7 +402,7 @@ Amendment by section 1825(a)(1)–(3), (b), (c) of Pub. L. 99–514 effective, e
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title II, §221(d), July 18, 1984, 98 Stat. 772, as amended by Pub. L. 99–514, §2, title XVIII,§§1825(e), 1899A(69), Oct. 22, 1986, 100 Stat. 2095, 2848, 2962, provided that:
+Pub. L. 98–369, div. A, title II, §221(d), July 18, 1984, 98 Stat. 772, as amended by Pub. L. 99–514, §2, title XVIII, §§1825(e), 1899A(69), Oct. 22, 1986, 100 Stat. 2095, 2848, 2962, provided that:
 
 "(1)
 

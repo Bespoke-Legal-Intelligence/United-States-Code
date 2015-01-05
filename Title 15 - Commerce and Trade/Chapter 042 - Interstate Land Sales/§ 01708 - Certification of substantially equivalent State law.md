@@ -50,5 +50,5 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, butin no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
 

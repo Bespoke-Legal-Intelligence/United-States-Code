@@ -6,7 +6,7 @@ Without the prior consent of the taxpayer given directly to the Secretary or the
 
 &emsp;(1) at any unusual time or place or a time or place known or which should be known to be inconvenient to the taxpayer;
 
-&emsp;(2) if the Secretary knows the taxpayer is represented by any person authorized to practice before the Internal Revenue Service with respect to such unpaid tax and has knowledge of, or can readily ascertain, such person's name and address, unless such person fails to respond within a reasonable period of time to a communication from the Secretary or unless such person consents to direct communication with the taxpayer; or
+&emsp;(2) if the Secretary knows the taxpayer is represented by any person authorized to practice before the Internal Revenue Service with respect to such unpaid tax and has knowledge of, or can readily ascertain, such person's name and address, unless such person fails torespond within a reasonable period of time to a communication from the Secretary or unless such person consents to direct communication with the taxpayer; or
 
 &emsp;(3) at the taxpayer's place of employment if the Secretary knows or has reason to know that the taxpayer's employer prohibits the taxpayer from receiving such communication.
 
@@ -14,7 +14,7 @@ Without the prior consent of the taxpayer given directly to the Secretary or the
 
 #### (b) Prohibition of harassment and abuse
 
-The Secretary may not engage in any conduct the natural consequence of which is to harass,oppress, or abuse any person in connection with the collection of any unpaid tax. Without limiting the general application of the foregoing, the following conduct is a violation of this subsection:
+The Secretary may not engage in any conduct the natural consequence of which is to harass, oppress, or abuse any person in connection with the collection of any unpaid tax. Without limiting the general application of the foregoing, the following conduct is a violation of this subsection:
 
 &emsp;(1) The use or threat of use of violence or other criminal means to harm the physical person, reputation, or property of any person.
 

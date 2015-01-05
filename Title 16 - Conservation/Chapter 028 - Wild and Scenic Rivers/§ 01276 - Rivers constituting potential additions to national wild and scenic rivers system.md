@@ -16,7 +16,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (6) Delaware, Pennsylvania and New York: The segment from Hancock, New York, to Matamoras, Pennsylvania.
 
-(7) Flathead, Montana: The North Fork from the Canadian border downstream to its confluence with the Middle Fork; the Middle Fork from its headwaters to its confluence with theSouth Fork; and the South Fork from its origin to Hungry Horse Reservoir.
+(7) Flathead, Montana: The North Fork from the Canadian border downstream to its confluence with the Middle Fork; the Middle Fork from its headwaters to its confluence with the South Fork; and the South Fork from its origin to Hungry Horse Reservoir.
 
 (8) Gasconade, Missouri: The entire river.
 
@@ -56,7 +56,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (26) Upper Iowa, Iowa: The entire river.
 
-(27) Youghiogheny, Maryland and Pennsylvania: The segment from Oakland, Maryland, to the Youghiogheny Reservoir, and from the Youghiogheny Dam downstream to the town of Connellsville, Pennsylvania.
+(27) Youghiogheny, Maryland and Pennsylvania: The segment from Oakland, Maryland, tothe Youghiogheny Reservoir, and from the Youghiogheny Dam downstream to the town of Connellsville, Pennsylvania.
 
 (28) American, California: The North Fork from the Cedars to the Auburn Reservoir.
 
@@ -184,7 +184,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (90) Horsepasture, North Carolina: The segment from Bohaynee Road (N.C. 281) downstream to Lake Jocassee.
 
-(91) The North Umpqua, Oregon: The segment from the Soda Springs Powerhouse to the confluence of Rock Creek. The provisions of section1278(a) of this title shall apply to tributary Steamboat Creek in the same manner as such provisions apply to the rivers referred to in such section 1278(a) of this title. The Secretary of Agriculture shall, in the Umpqua National Forest plan, provide that management practices for Steamboat Creek and its immediate environment conserve, protect, and enhance the anadromous fish habitat and population.
+(91) The North Umpqua, Oregon: The segment from the Soda Springs Powerhouse to the confluence of Rock Creek. The provisions of section 1278(a) of this title shall apply to tributary Steamboat Creek in the same manner as such provisions apply to the rivers referred to in such section 1278(a) of this title. The Secretary of Agriculture shall, in the Umpqua National Forest plan, provide that management practices for Steamboat Creek and its immediate environment conserve, protect, and enhance the anadromous fish habitat and population.
 
 (92) Farmington, West Branch, Connecticut and Massachusetts: The segment from the intersection of the New Hartford-Canton, Connecticut, town line upstream to the base of the West Branch Reservoir in Hartland, Connecticut; and the segment from the confluence with Thorp Brook in Sandisfield, Massachusetts, to Hayden Pond in Otis, Massachusetts.
 
@@ -276,7 +276,7 @@ Brule, Michigan and Wisconsin.—The 33-mile segment from Brule Lake in the nort
 
 (115)
 
-Carp, Michigan.—The 7.6-mile segment from its origin at the confluence of the outlets of Frenchman Lake and Carp Lake in section 26,township 44 north, range 6 west, to the west section line of section 30, township 43 north, range 5 west.
+Carp, Michigan.—The 7.6-mile segment from its origin at the confluence of the outlets of Frenchman Lake and Carp Lake in section 26, township 44 north, range 6 west, to the west section line of section 30, township 43 north, range 5 west.
 
 (116)
 
@@ -328,7 +328,7 @@ Sturgeon, Hiawatha National Forest, Michigan.—The 18.1-mile segment from Sixte
 
 Tahquamenon, Michigan.—The 103.5-mile segment as follows—
 
-&emsp;(A) the 90-mile segment of the mainstream beginning at the source in section 21, township 47 north, range 12 west, to the mouth at Whitefish Bay; and
+&emsp;(A) the 90-mile segment of the mainstream beginning at the source in section 21, township47 north, range 12 west, to the mouth at Whitefish Bay; and
 
 &emsp;(B) the 13.5-mile segment of the east branch from the western boundary of the Hiawatha National Forest in section 19, township 46 north, range 6 west, to its confluence with the mainstream.
 
@@ -422,6 +422,64 @@ Lower Farmington River and Salmon Brook, Connecticut.—The segment of the Farmi
 
 Missisquoi and trout rivers, vermont.—The approximately 25-mile segment of the upper Missisquoi from its headwaters in Lowell to the Canadian border in North Troy, the approximately 25-mile segment from the Canadian border in East Richford to Enosburg Falls, and the approximately 20-mile segment of the Trout River from its headwaters to its confluence with the Missisquoi River.
 
+(141)
+
+Oregon caves national monument and preserve, oregon.—
+
+&emsp;(A)
+
+Cave creek, oregon.—The 2.6-mile segment of Cave Creek from the headwaters at the River Styx to the boundary of the Rogue River Siskiyou National Forest.
+
+&emsp;(B)
+
+Lake creek, oregon.—The 3.6-mile segment of Lake Creek from the headwaters atBigelow Lakes to the confluence with Cave Creek.
+
+&emsp;(C)
+
+No name creek, oregon.—The 0.6-mile segment of No Name Creek from the headwaters to the confluence with Cave Creek.
+
+&emsp;(D)
+
+Panther creek.—The 0.8-mile segment of Panther Creek from the headwaters to the confluence with Lake Creek.
+
+&emsp;(E)
+
+Upper cave creek.—The segment of Upper Cave Creek from the headwaters to the confluence with River Styx.
+
+(142)
+
+Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticut.—The following segments:
+
+&emsp;(A) The approximately 10-mile segment of the Beaver River from the headwaters in Exeter, Rhode Island, to the confluence with the Pawcatuck River.
+
+&emsp;(B) The approximately 5-mile segment of the Chipuxet River from Hundred Acre Pond to the outlet into Worden Pond.
+
+&emsp;(C) The approximately 10-mile segment of the upper Queen River from the headwaters to the Usquepaugh Dam in South Kingstown, Rhode Island, including all tributaries of the upper Queen River.
+
+&emsp;(D) The approximately 5-mile segment of the lower Queen (Usquepaugh) River from the Usquepaugh Dam to the confluence with the Pawcatuck River.
+
+&emsp;(E) The approximately 11-mile segment of the upper Wood River from the headwaters to Skunk Hill Road in Richmond and Hopkinton, Rhode Island, including all tributaries of the upper Wood River.
+
+&emsp;(F) The approximately 10-mile segment of the lower Wood River from Skunk Hill Road to the confluence with the Pawcatuck River.
+
+&emsp;(G) The approximately 28-mile segment of the Pawcatuck River from Worden Pond to Nooseneck Hill Road (Rhode Island Rte 3) in Hopkinton and Westerly, Rhode Island.
+
+&emsp;(H) The approximately 7-mile segment of the lower Pawcatuck River from Nooseneck Hill Road to Pawcatuck Rock, Stonington, Connecticut, and Westerly, Rhode Island.
+
+(143)
+
+Nashua river, massachusetts.—The following segments:
+
+&emsp;(A) The approximately 19-mile segment of the mainstem of the Nashua River from the confluence with the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts-New Hampshire State line, excluding the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to the confluence with the Nissitissit River in Pepperell, Massachusetts.
+
+&emsp;(B) The 10-mile segment of the Squannacook River from the headwaters at Ash Swamp downstream to the confluence with the Nashua River in the towns of Shirley and Ayer, Massachusetts.
+
+&emsp;(C) The 3.5-mile segment of the Nissitissit River from the Massachusetts-New Hampshire State line downstream to the confluence with the Nashua River in Pepperell, Massachusetts.
+
+(144)
+
+York river, maine.—The segment of the York River that flows 11.25 miles from the headwaters of the York River at York Pond to the mouth of the river at York Harbor, and any associated tributaries.
+
 #### (b) Studies and reports
 
 (1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Provided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>2</sup> named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
@@ -440,9 +498,9 @@ Missisquoi and trout rivers, vermont.—The approximately 25-mile segment of the
 
 (8) The study of the Merrimack River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
-(9) The study of the Pemigewasset River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
+(9) The study of the Pemigewasset River, New Hampshire, shall be completed and the reportthereon submitted not later than three years after August 10, 1990.
 
-(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgiaor their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
+(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
 (11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretary of the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
 
@@ -486,17 +544,61 @@ Missisquoi and trout rivers, vermont.—Not later than 3 years after the date on
 
 &emsp;(B) submit a report describing the results of that study to the appropriate committees of Congress.
 
+(20)
+
+Oregon caves national monument and preserve, oregon.—Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary shall—
+
+&emsp;(A) complete the study of the Oregon Caves National Monument and Preserve segments described in subsection (a)(141); and
+
+&emsp;(B) submit to Congress a report containing the results of the study.
+
+(21)
+
+Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticut; nashua river, massachusetts; york river, maine.—
+
+&emsp;(A)
+
+In general.—Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
+
+&emsp;&emsp;(i) complete each of the studies <sup>8</sup> described in paragraphs (142), (143), and (144) of subsection (a); and
+
+&emsp;&emsp;(ii) submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the results of each of the studies.
+
+&emsp;(B)
+
+Report requirements.—In assessing the potential additions to the wild and scenic river system, the report submitted under subparagraph (A)(ii) shall—
+
+&emsp;&emsp;(i) determine the effect of the designation on—
+
+&emsp;&emsp;&emsp;(I) existing commercial and recreational activities, such as hunting, fishing, trapping, recreational shooting, motor boat use, and bridge construction;
+
+&emsp;&emsp;&emsp;(II) the authorization, construction, operation, maintenance, or improvement of energy production, transmission, or other infrastructure; and
+
+&emsp;&emsp;&emsp;(III) the authority of State and local governments to manage the activities described in subclauses (I) and (II);
+
+&emsp;&emsp;(ii) identify any authorities that, in a case in which an area studied under paragraph (142), (143), or (144) of subsection (a) is designated under this chapter—
+
+&emsp;&emsp;&emsp;(I) would authorize or require the Secretary of the Interior—
+
+&emsp;&emsp;&emsp;&emsp;(aa) to influence local land use decisions, such as zoning; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) to place restrictions on non-Federal land if designated under this chapter; and
+
+&emsp;&emsp;&emsp;(II) the Secretary of the Interior may use to condemn property; and
+
+&emsp;&emsp;(iii) identify any private property located in an area studied under paragraph (142), (143), or (144) of subsection (a).
+
 #### (c) State participation
 
 The study of any of said rivers shall be pursued in as close cooperation with appropriate agencies of the affected State and its political subdivisions as possible, shall be carried on jointly with such agencies if request for such joint study is made by the State and shall include a determination of the degree to which the State or its political subdivisions might participate in the preservation and administration of the river should it be proposed for inclusion in the national wild and scenic rivers system.
 
 #### (d) Continuing consideration by Federal agencies to potential national, wild, scenic and recreational river areas
 
-(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic andrecreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
+(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
-(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L. 107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484; Pub. L. 109–370, §2(a), Nov. 27, 2006, 120 Stat. 2643; Pub. L. 111–11, title V, §5101(a), (b), Mar. 30, 2009, 123 Stat. 1153.)
+(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L.107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484; Pub. L. 109–370, §2(a), Nov. 27, 2006, 120 Stat. 2643; Pub. L. 111–11, title V, §5101(a), (b), Mar. 30, 2009, 123 Stat. 1153; Pub. L. 113–291, div. B, title XXX, §§3041(e)(2), 3074, Dec. 19, 2014, 128 Stat. 3791, 3847.)
 
 #### References in Text
 
@@ -507,6 +609,14 @@ Section 5 of the Michigan Scenic Rivers Act of 1990, referred to in subsec. (b)(
 Section 3183 of this title, referred to in subsec. (b)(6), was in the original "section 1204 of the Alaska National Interest Lands Conservation Act" and has been editorially translated as section 3183 of this title, which is section 1203 of that Act, as the probable intent of Congress, in view of that Act being enacted without a section 1204 and section 1203 of that Act relating to the Bristol Bay Cooperative Region Plan.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(141). Pub. L. 113–291, §3041(e)(2)(A), added par. (141).
+
+Subsec. (a)(142) to (144). Pub. L. 113–291, §3074(a), added pars. (142) to (144).
+
+Subsec. (b)(20). Pub. L. 113–291, §3041(e)(2)(B), added par. (20).
+
+Subsec. (b)(21). Pub. L. 113–291, §3074(b), added par. (21).
 
 <b>2009</b>—Subsec. (a)(140). Pub. L. 111–11, §5101(a), added par. (140).
 
@@ -697,4 +807,6 @@ Massachusetts."
 <i><sup>6</sup></i><i> So in original. Probably should be subsection "(a)(133)".</i>
 
 <i><sup>7</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>8</sup></i><i> So in original. Probably should refer to the river segments described in those paragraphs.</i>
 

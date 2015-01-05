@@ -28,7 +28,7 @@ Section 943(a) of the House amendment makes clear that a special taxpayer may ob
 
 #### senate report no. 95–989
 
-Section 946 \[enacted as section 943\] is adopted from current section 94 \[section 414 of former title 11\]. The test for confirmation is whether or not the plan is fair and equitable and feasible. The fair and equitable test tracts current chapter X \[chapter 10 of former title 11\] and is known as the strict priority rule. Creditors must be provided, under the plan, the going concern value oftheir claims. The going concern value contemplates a "comparison of revenues and expenditures taking into account the taxing power and the extent to which tax increases are both necessary and feasible" Municipal Insolvency, supra, at p. 64, and is intended to provide more of a return to creditors than the liquidation value if the city's assets could be liquidated like those of a private corporation.
+Section 946 \[enacted as section 943\] is adopted from current section 94 \[section 414 of former title 11\]. The test for confirmation is whether or not the plan is fair and equitable and feasible. The fair and equitable test tracts current chapter X \[chapter 10 of former title 11\] and is known as the strict priority rule. Creditors must be provided, under the plan, the going concern value of their claims. The going concern value contemplates a "comparison of revenues and expenditures taking into account the taxing power and the extent to which tax increases are both necessary and feasible" Municipal Insolvency, supra, at p. 64, and is intended to provide more of a return to creditors than the liquidation value if the city's assets could be liquidated like those of a private corporation.
 
 #### house report no. 95–595
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under this title before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
+Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under thistitle before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

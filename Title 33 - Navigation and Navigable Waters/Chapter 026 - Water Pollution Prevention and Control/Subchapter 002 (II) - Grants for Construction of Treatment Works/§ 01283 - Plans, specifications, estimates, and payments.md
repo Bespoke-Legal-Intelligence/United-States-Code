@@ -28,7 +28,7 @@ After completion of a project and approval of the final voucher by the Administr
 
 #### (d) Projects eligible
 
-Nothing in this chapter shall be construed to require, or to authorize the Administrator to require, that grants under this chapter for construction of treatment works be made only for projects which are operable units usable for sewage collection, transportation, storage, wastetreatment, or for similar purposes without additional construction.
+Nothing in this chapter shall be construed to require, or to authorize the Administrator to require, that grants under this chapter for construction of treatment works be made only for projects which are operable units usable for sewage collection, transportation, storage, waste treatment, or for similar purposes without additional construction.
 
 #### (e) Technical and legal assistance in administration and enforcement of contracts; intervention in civil actions
 

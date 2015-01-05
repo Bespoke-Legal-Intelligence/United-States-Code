@@ -1,10 +1,12 @@
 ### §9858. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this subchapter $1,000,000,000 for each of the fiscal years 1996 through 2002.
+There is authorized to be appropriated to carry out this subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and $2,748,591,018 for fiscal year 2020.
 
-(Pub. L. 97–35, title VI, §658B, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §603(a), Aug. 22, 1996, 110 Stat. 2279.)
+(Pub. L. 97–35, title VI, §658B, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §603(a), Aug. 22, 1996, 110 Stat. 2279; Pub. L. 113–186, §3, Nov. 19, 2014, 128 Stat. 1971.)
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–186 substituted "subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and$2,748,591,018 for fiscal year 2020" for "subchapter $1,000,000,000 for each of the fiscal years 1996 through 2002".
 
 <b>1996</b>—Pub. L. 104–193 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter, $750,000,000 for fiscal year 1991, $825,000,000 for fiscal year 1992, $925,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995."
 
@@ -21,10 +23,6 @@ In General.—Except as provided in subsection (b), this title \[see Short title
 "(b)
 
 Exception.—The amendment made by section 603(a) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 22, 1996\]."
-
-#### Short Title
-
-For short title of this subchapter as the Child Care and Development Block Grant Act of 1990, see section 658A(a) of Pub. L. 97–35, as amended, set out as a note under section 9801 of this title.
 
 #### Small Business Child Care Grant Program
 
@@ -102,7 +100,7 @@ Matching Requirement.—To be eligible to receive a grant under this section, a 
 
 Requirements of Providers.—To be eligible to receive assistance under a grant awarded under this section, a child care provider—
 
-&emsp;"(1) who receives assistance from a State shall comply with all applicable State and local licensingand regulatory requirements and all applicable health and safety standards in effect in the State; and
+&emsp;"(1) who receives assistance from a State shall comply with all applicable State and local licensing and regulatory requirements and all applicable health and safety standards in effect in the State; and
 
 &emsp;"(2) who receives assistance from an Indian tribe or tribal organization shall comply with all applicable regulatory standards.
 
@@ -144,7 +142,7 @@ year study.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 2 years after the date on which the Secretary first awards grants under this section, the Secretary shall conduct a study to determine—
+In general.—Not later than 2 years after the date on which the Secretary first awards grantsunder this section, the Secretary shall conduct a study to determine—
 
 &emsp;&emsp;&emsp;"(i) the capacity of covered entities to meet the child care needs of communities within States;
 
@@ -226,15 +224,5 @@ Termination of Program.—The program established under subsection (a) shall ter
 
 #### Goals of Subchapter
 
-Pub. L. 97–35, title VI, §658A(b), as added by Pub. L. 104–193, title VI, §602(3), Aug. 22, 1996, 110 Stat. 2279, provided that: "The goals of this subchapter \[subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, enacting this subchapter\] are—
-
-&emsp;"(1) to allow each State maximum flexibility in developing child care programs and policies that best suit the needs of children and parents within such State;
-
-&emsp;"(2) to promote parental choice to empower working parents to make their own decisions on the child care that best suits their family's needs;
-
-&emsp;"(3) to encourage States to provide consumer education information to help parents make informed choices about child care;
-
-&emsp;"(4) to assist States to provide child care to parents trying to achieve independence from public assistance; and
-
-&emsp;"(5) to assist States in implementing the health, safety, licensing, and registration standards established in State regulations."
+Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. C, §658A(b), as added by Pub. L. 104–193, title VI, §602(3), Aug. 22, 1996, 110 Stat. 2279, and amended by Pub. L. 113–186, §2, Nov. 19, 2014, 128 Stat. 1971, which provided the goals of this subchapter and was formerly set out as a note under this section, was amended generally by Pub. L. 113–186 and subsequently transferred to section 9857(b) of this title.
 

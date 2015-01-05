@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, in order to respond to an emergency 
 
 #### (b) Agreements
 
-Notwithstanding any other provision of law, for purposes of carrying out subsection (a) of this section, the Sergeant at Arms of the Senate may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Sergeant at Arms of the Senate considers appropriate, including—
+Notwithstanding any other provision of law, for purposes of carrying out subsection (a), the Sergeant at Arms of the Senate may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Sergeant at Arms of the Senate considers appropriate, including—
 
 &emsp;(1) agreements with the United States Capitol Police or any other entity relating to the policing of such building or facility; and
 
@@ -16,13 +16,13 @@ Notwithstanding any other provision of law, for purposes of carrying out subsect
 
 #### (1) Architect of the Capitol
 
-&emsp;Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Sergeant at Arms of the Senate pursuant to subsection (b) of this section.
+&emsp;Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Sergeant at Arms of the Senate pursuant to subsection (b).
 
 #### (2) Omitted
 
 #### (d) Transfer of certain funds
 
-Subject to the approval of the Committee on Appropriations of the Senate, the Architect of the Capitol may transfer to the Sergeant at Arms of the Senate amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the Senate office buildings during a fiscal year in order to cover any portion of the costs incurred by the Sergeant at Arms of the Senate during the year in acquiring a building or facility pursuant to subsection (a) of this section.
+Subject to the approval of the Committee on Appropriations of the Senate, the Architect of the Capitol may transfer to the Sergeant at Arms of the Senate amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the Senate office buildings during a fiscal year in order to cover any portion of the costs incurred by the Sergeant at Arms of the Senate during the year in acquiring a building or facility pursuant to subsection (a).
 
 #### (e) Effective date
 
@@ -42,9 +42,9 @@ Section is comprised of section 901 of Pub. L. 107–117. Subsec. (c)(2) of sect
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–206 substituted “buildings and facilities, subject to the availability of appropriations,” for “buildings and facilities”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–206 substituted "buildings and facilities, subject to the availability of appropriations," for "buildings and facilities".
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–206, title I, §902(c), Aug. 2, 2002, 116 Stat. 876, provided that: “The amendment made by this section \[amending this section and section 1961 of this title\] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 \[Pub. L. 107–117, div. B\].”
+Pub. L. 107–206, title I, §902(c), Aug. 2, 2002, 116 Stat. 876, provided that: "The amendment made by this section \[amending this section and section 1961 of this title\] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 \[Pub. L. 107–117, div. B\]."
 

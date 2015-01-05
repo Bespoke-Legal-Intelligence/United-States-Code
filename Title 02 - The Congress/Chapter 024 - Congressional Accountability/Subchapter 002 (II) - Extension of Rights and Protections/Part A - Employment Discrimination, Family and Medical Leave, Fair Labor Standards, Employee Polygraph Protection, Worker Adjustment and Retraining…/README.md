@@ -10,6 +10,6 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 - [&sect; 01313 - Rights and protections under Fair Labor Standards Act of 1938](%C2%A7%2001313%20-%20Rights%20and%20protections%20under%20Fair%20Labor%20Standards%20Act%20of%201938.md)
 - [&sect; 01314 - Rights and protections under Employee Polygraph Protection Act of 1988](%C2%A7%2001314%20-%20Rights%20and%20protections%20under%20Employee%20Polygraph%20Protection%20Act%20of%201988.md)
 - [&sect; 01315 - Rights and protections under Worker Adjustment and Retraining Notification Act](%C2%A7%2001315%20-%20Rights%20and%20protections%20under%20Worker%20Adjustment%20and%20Retraining%20Notification%20Act.md)
-- [&sect; 01316 - Rights and protections relating to veterans&#8217; employment and reemployment](%C2%A7%2001316%20-%20Rights%20and%20protections%20relating%20to%20veterans%E2%80%99%20employment%20and%20reemployment.md)
+- [&sect; 01316 - Rights and protections relating to veterans' employment and reemployment](%C2%A7%2001316%20-%20Rights%20and%20protections%20relating%20to%20veterans%27%20employment%20and%20reemployment.md)
 - [&sect; 01316a - Legislative branch appointments](%C2%A7%2001316a%20-%20Legislative%20branch%20appointments.md)
 - [&sect; 01317 - Prohibition of intimidation or reprisal](%C2%A7%2001317%20-%20Prohibition%20of%20intimidation%20or%20reprisal.md)

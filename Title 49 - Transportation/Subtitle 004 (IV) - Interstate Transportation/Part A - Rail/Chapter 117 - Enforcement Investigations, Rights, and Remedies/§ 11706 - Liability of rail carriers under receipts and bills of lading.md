@@ -38,7 +38,7 @@
 
 &emsp;(1) an offer of compromise shall not constitute a disallowance of any part of the claim unless the carrier, in writing, informs the claimant that such part of the claim is disallowed and provides reasons for such disallowance; and
 
-&emsp;(2) communications received from a carrier's insurer shall not constitute a disallowance ofany part of the claim unless the insurer, in writing, informs the claimant that such part of the claim is disallowed, provides reasons for such disallowance, and informs the claimant that the insurer is acting on behalf of the carrier.
+&emsp;(2) communications received from a carrier's insurer shall not constitute a disallowance of any part of the claim unless the insurer, in writing, informs the claimant that such part of the claim is disallowed, provides reasons for such disallowance, and informs the claimant that the insurer is acting on behalf of the carrier.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 847.)
 

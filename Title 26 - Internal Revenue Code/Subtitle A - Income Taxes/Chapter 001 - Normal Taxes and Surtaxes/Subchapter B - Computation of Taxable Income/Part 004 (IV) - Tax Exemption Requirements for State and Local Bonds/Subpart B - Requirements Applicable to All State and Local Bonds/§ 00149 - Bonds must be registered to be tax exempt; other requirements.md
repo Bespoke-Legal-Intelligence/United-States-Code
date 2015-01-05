@@ -22,7 +22,7 @@
 
 #### (B) Nominees
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out thepurpose of paragraph (1) where there is a nominee or chain of nominees.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purpose of paragraph (1) where there is a nominee or chain of nominees.
 
 #### (b) Federally guaranteed bond is not tax exempt
 
@@ -106,7 +106,7 @@
 
 #### (B) Federally insured deposit or account
 
-&emsp;&emsp;The term "federally insured deposit or account" means any deposit or account in a financial institution to the extent such deposit or account is insured under Federal law by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National CreditUnion Administration, or any similar federally chartered corporation.
+&emsp;&emsp;The term "federally insured deposit or account" means any deposit or account in a financial institution to the extent such deposit or account is insured under Federal law by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, or any similar federally chartered corporation.
 
 #### (c) Tax exemption must be derived from this title
 
@@ -214,7 +214,7 @@
 
 &emsp;&emsp;(A) the name and address of the issuer,
 
-&emsp;&emsp;(B) the date of issue, the amount of net proceeds of the issue, the stated interest rate, term, and face amount of each bond which is part of the issue, the amount of issuance costs of the issue, and the amount of reserves of the issue,
+&emsp;&emsp;(B) the date of issue, the amount of net proceeds of the issue, the stated interestrate, term, and face amount of each bond which is part of the issue, the amount of issuance costs of the issue, and the amount of reserves of the issue,
 
 &emsp;&emsp;(C) where required, the name of the applicable elected representative who approved the issue, or a description of the voter referendum by which the issue was approved,
 
@@ -448,7 +448,7 @@ Subsec. (b)(3)(E). Pub. L. 110–289, §3023(b), added subpar. (E).
 
 <b>2006</b>—Subsec. (f)(1). Pub. L. 109–222, §508(d)(1), substituted "paragraphs (2), (3), (4), and (5)" for "paragraphs (2) and (3)".
 
-Subsec. (f)(2)(A). Pub. L. 109–222, §508(a), amended subpar. (A) generally. Prior to amendment, text read as follows: "The requirements of this paragraph are met with respect to an issue if the issuer reasonably expects that as of the close of the 3-year period beginning on the date of issuance of the issue, at least 95 percent ofthe net proceeds of the issue (as of the close of such period) will have been used directly or indirectly to make or finance loans to ultimate borrowers."
+Subsec. (f)(2)(A). Pub. L. 109–222, §508(a), amended subpar. (A) generally. Prior to amendment, text read as follows: "The requirements of this paragraph are met with respect to an issue if the issuer reasonably expects that as of the close of the 3-year period beginning on the date of issuance of the issue, at least 95 percent of the net proceeds of the issue (as of the close of such period) will have been used directly or indirectly to make or finance loans to ultimate borrowers."
 
 Subsec. (f)(4) to (6). Pub. L. 109–222, §508(b), added pars. (4) and (5) and redesignated former par. (4) as (6). Former par. (5) redesignated (7).
 
@@ -480,7 +480,7 @@ Pub. L. 111–147, title V, §502(f), Mar. 18, 2010, 124 Stat. 108, provided tha
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. C, title I, §3023(c), July 30, 2008, 122 Stat. 2895, provided that: "The amendments made by this section \[amending this section\] shall apply to guarantees made after the date of the enactment of this Act \[July 30, 2008\]."
+Pub. L. 110–289, div. C, title I, §3023(c), July 30, 2008, 122 Stat. 2895, provided that: "The amendments madeby this section \[amending this section\] shall apply to guarantees made after the date of the enactment of this Act \[July 30, 2008\]."
 
 #### Effective Date of 2006 Amendment
 

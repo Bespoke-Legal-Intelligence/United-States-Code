@@ -50,7 +50,7 @@ In this section, the term "facility" means—
 
 &emsp;&emsp;(E) The organization must have taken reasonable steps to achieve compliance with its standards, such as by utilizing monitoring and auditing systems reasonably designed to detect criminal, civil, and administrative violations under this chapter by its employees and other agents and by having in place and publicizing a reporting system whereby employees and other agents could report violations by others within the organization without fear of retribution.
 
-&emsp;&emsp;(F) The standards must have been consistently enforced through appropriate disciplinary mechanisms, including, as appropriate,discipline of individuals responsible for the failure to detect an offense.
+&emsp;&emsp;(F) The standards must have been consistently enforced through appropriate disciplinary mechanisms, including, as appropriate, discipline of individuals responsible for the failure to detect an offense.
 
 &emsp;&emsp;(G) After an offense has been detected, the organization must have taken all reasonable steps to respond appropriately to the offense and to prevent further similar offenses, including any necessary modification to its program to prevent and detect criminal, civil, and administrative violations under this chapter.
 
@@ -116,7 +116,7 @@ Beginning not later than 2 years after March 23, 2010, and after consulting with
 
 &emsp;Any individual who is the administrator of a facility must—
 
-&emsp;&emsp;(A) submit to the Secretary, the State long-term care ombudsman, residents of the facility, and the legal representatives ofsuch residents or other responsible parties, written notification of an impending closure—
+&emsp;&emsp;(A) submit to the Secretary, the State long-term care ombudsman, residents of the facility, and the legal representatives of such residents or other responsible parties, written notification of an impending closure—
 
 &emsp;&emsp;&emsp;(i) subject to clause (ii), not later than the date that is 60 days prior to the date of such closure; and
 

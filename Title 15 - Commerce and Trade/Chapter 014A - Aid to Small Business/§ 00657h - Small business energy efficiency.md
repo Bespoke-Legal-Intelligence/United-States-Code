@@ -172,7 +172,7 @@ In this section—
 
 #### (8) Guarantee
 
-&emsp;To the extent not inconsistent with State law, the Administrator may guarantee the timely payment of a loan made to a small business concern through an on-bill financing agreement on such terms and conditions as the Administrator shall establish through a formal rulemaking, after providing notice and an opportunity for comment.
+&emsp;To the extent not inconsistent with State law, the Administrator may guarantee the timely payment of a loan made to a smallbusiness concern through an on-bill financing agreement on such terms and conditions as the Administrator shall establish through a formal rulemaking, after providing notice and an opportunity for comment.
 
 #### (9) Implementation
 

@@ -36,5 +36,5 @@ Pub. L. 98–615, title II, §205, Nov. 8, 1984, 98 Stat. 3217, provided that am
 
 #### Effective Date
 
-Pub. L. 97–89, title VIII, §806, Dec. 4, 1981, 95 Stat. 1162, provided that: "The amendments made by titlesV, VI, and VII and by this title \[enacting this chapter and sections 3513 and 3610 to 3613 of Title 50, War and National Defense, and amending sections 2108, 6304, and 8336 of Title 5, Government Organization and Employees, and sections 3073, 3505, 3506, 3607, and 3608 of Title 50\] shall take effect as of October 1, 1981."
+Pub. L. 97–89, title VIII, §806, Dec. 4, 1981, 95 Stat. 1162, provided that: "The amendments made by titles V, VI, and VII and by this title \[enacting this chapter and sections 3513 and 3610 to 3613 of Title 50, War and National Defense, and amending sections 2108, 6304, and 8336 of Title 5, Government Organization and Employees, and sections 3073, 3505, 3506, 3607, and 3608 of Title 50\] shall take effect as of October 1, 1981."
 

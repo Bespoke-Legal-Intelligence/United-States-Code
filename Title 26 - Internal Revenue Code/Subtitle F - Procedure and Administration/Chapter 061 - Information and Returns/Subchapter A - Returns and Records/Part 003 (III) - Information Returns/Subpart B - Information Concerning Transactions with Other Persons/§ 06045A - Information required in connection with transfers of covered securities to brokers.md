@@ -14,7 +14,7 @@ For purposes of subsection (a), the term "applicable person" means—
 
 #### (c) Time for furnishing statement
 
-Except as otherwise provided by the Secretary, any statement required by subsection (a) shall be furnished not later than 15 days after the date of the transfer described in such subsection.
+Except as otherwise provided by the Secretary, any statement required by subsection (a)shall be furnished not later than 15 days after the date of the transfer described in such subsection.
 
 (Added Pub. L. 110–343, div. B, title IV, §403(c)(1), Oct. 3, 2008, 122 Stat. 3858.)
 

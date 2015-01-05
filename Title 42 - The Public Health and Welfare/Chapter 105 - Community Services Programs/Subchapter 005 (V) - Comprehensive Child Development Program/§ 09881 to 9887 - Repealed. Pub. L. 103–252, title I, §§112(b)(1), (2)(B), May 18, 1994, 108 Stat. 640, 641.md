@@ -20,7 +20,7 @@ Repeal effective May 18, 1994, but not applicable to Head Start agencies and oth
 
 #### Comprehensive Child Development Program; Congressional Statement of Purpose
 
-Pub. L. 100–297, title II, part E, §2502, Apr. 28, 1988, 102 Stat. 325, provided that it is the purpose of part E oftitle II of Pub. L. 100–297 to provide financial assistance to projects that target and support infants and young children from low-income families, enhance their development, and provide support for their parents and other family members, prior to repeal by Pub. L. 103–252, title I, §112(b)(1), (2)(A), May 18, 1994, 108 Stat. 640, 641.
+Pub. L. 100–297, title II, part E, §2502, Apr. 28, 1988, 102 Stat. 325, provided that it is the purpose of part E of title II of Pub. L. 100–297 to provide financial assistance to projects that target and support infants and young children from low-income families, enhance their development, and provide support for their parents and other family members, prior to repeal by Pub. L. 103–252, title I, §112(b)(1), (2)(A), May 18, 1994, 108 Stat. 640, 641.
 
 #### Consolidation of Child Development Programs
 

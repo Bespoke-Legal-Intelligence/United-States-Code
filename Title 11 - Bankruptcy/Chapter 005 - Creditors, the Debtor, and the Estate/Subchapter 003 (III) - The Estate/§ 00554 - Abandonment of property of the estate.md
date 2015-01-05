@@ -2,7 +2,7 @@
 
 (a) After notice and a hearing, the trustee may abandon any property of the estate that is burdensome to the estate or that is of inconsequential value and benefit to the estate.
 
-(b) On request of a party in interest and after notice and a hearing, the court may order the trustee to abandon any property of the estate that is burdensome to the estate or that is of inconsequential value and benefit to the estate.
+(b) On request of a party in interest and after notice and a hearing, the court may order thetrustee to abandon any property of the estate that is burdensome to the estate or that is of inconsequential value and benefit to the estate.
 
 (c) Unless the court orders otherwise, any property scheduled under section 521(a)(1) of this title not otherwise administered at the time of the closing of a case is abandoned to the debtor and administered for purposes of section 350 of this title.
 
@@ -28,7 +28,7 @@ Under this section the court may authorize the trustee to abandon any property o
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–353, §468(a), inserted "and benefit" after "value".
 
-Subsec. (c). Pub. L. 98–353, §468(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: "Unless the court orders otherwise, any property that is scheduled under section 521(1) of this title and that is not administered before a case is closed under section 350 of this title is deemed abandoned."
+Subsec. (c). Pub. L. 98–353, §468(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Unless the court orders otherwise, any property that is scheduled under section 521(1) of this title and that is not administered before a case is closed under section 350 of this title is deemed abandoned."
 
 Subsec. (d). Pub. L. 98–353, §468(c), struck out "section (a) or (b) of" after "not abandoned under".
 

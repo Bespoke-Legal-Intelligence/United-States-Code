@@ -22,7 +22,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 #### (d) Powers
 
-To carry out its purposes, the Foundation shall have, in addition to powers otherwise authorized under this subchapter, the usual powers of a corporation in the District of Columbia, including the power to—
+To carry out its purposes, the Foundation shall have, in addition to powers otherwise authorized under this subchapter, the usual powersof a corporation in the District of Columbia, including the power to—
 
 &emsp;(1) accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, or real or personal property or any income therefrom or other interest therein;
 

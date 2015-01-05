@@ -80,5 +80,5 @@ Requirement for self-test.—The regulations prescribed by the Secretary under s
 
 &emsp;"(iii)
 
-Substantial similarity to certain equal credit opportunity act regulations.—The regulations prescribed under subparagraph (A) shall be substantially similar to the regulations prescribed by the Board to carry out section 704A of the EqualCredit Opportunity Act \[15 U.S.C. 1691c–1\], as added by this section."
+Substantial similarity to certain equal credit opportunity act regulations.—The regulations prescribed under subparagraph (A) shall be substantially similar to the regulations prescribed by the Board to carry out section 704A of the Equal Credit Opportunity Act \[15 U.S.C. 1691c–1\], as added by this section."
 

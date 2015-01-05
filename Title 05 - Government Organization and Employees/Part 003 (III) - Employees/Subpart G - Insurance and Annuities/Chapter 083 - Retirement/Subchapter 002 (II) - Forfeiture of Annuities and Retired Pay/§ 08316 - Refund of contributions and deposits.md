@@ -34,15 +34,15 @@ Historical and Revision Notes
 
 5 U.S.C. 2284(a), (b).
 
-Sept. 26, 1961, Pub. L. 87–299, §1 “Sec. 4(a), (b)”, 75 Stat. 644.
+Sept. 26, 1961, Pub. L. 87–299, §1 "Sec. 4(a), (b)", 75 Stat. 644.
 
 5 U.S.C. 2284a(b).
 
-Sept. 26, 1961, Pub. L. 87–299, §1 “Sec. 5(b)”, 75 Stat. 645.
+Sept. 26, 1961, Pub. L. 87–299, §1 "Sec. 5(b)", 75 Stat. 645.
 
 This section is reorganized for clarity and conciseness.
 
-The words “and section 3282 of Title 18” in former section 2284(a) are omitted as unnecessary.
+The words "and section 3282 of Title 18" in former section 2284(a) are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

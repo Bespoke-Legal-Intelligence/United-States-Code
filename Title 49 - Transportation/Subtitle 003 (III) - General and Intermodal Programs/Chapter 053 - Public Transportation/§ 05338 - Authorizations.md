@@ -6,49 +6,49 @@ Formula Grants.—
 
 &emsp;(1)
 
-In general.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013 and $8,595,000,000 for fiscal year 2014.
+In general.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013, $8,595,000,000 for fiscal year 2014, and $5,722,150,685 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 &emsp;(2)
 
 Allocation of funds.—Of the amounts made available under paragraph (1)—
 
-&emsp;&emsp;(A) $126,900,000 for fiscal year 2013 and $128,800,000 for fiscal year 2014 shall be available to carry out section 5305;
+&emsp;&emsp;(A) $126,900,000 for fiscal year 2013, $128,800,000 for fiscal year 2014, and $85,749,041 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5305;
 
-&emsp;&emsp;(B) $10,000,000 for each of fiscal years 2013 and 2014 shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
+&emsp;&emsp;(B) $10,000,000 for each of fiscal years 2013 and 2014 and $6,657,534 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
 
-&emsp;&emsp;(C) $4,397,950,000 for fiscal year 2013 and $4,458,650,000 for fiscal year 2014 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
+&emsp;&emsp;(C) $4,397,950,000 for fiscal year 2013, $4,458,650,000 for fiscal year 2014, and $2,968,361,507 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
 
-&emsp;&emsp;(D) $254,800,000 for fiscal year 2013 and $258,300,000 for fiscal year 2014 shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
+&emsp;&emsp;(D) $254,800,000 for fiscal year 2013, $258,300,000 for fiscal year 2014, and $171,964,110 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
 
-&emsp;&emsp;(E) $599,500,000 for fiscal year 2013 and $607,800,000 for fiscal year 2014 shall be available to provide financial assistance for rural areas under section 5311, of which not less than $30,000,000 for fiscal year 2013 and $30,000,000 for fiscal year 2014 shall be available to carry out section 5311(c)(1) and $20,000,000 for fiscal year 2013 and $20,000,000 for fiscal year 2014 shall be available to carry out section 5311(c)(2);
+&emsp;&emsp;(E) $599,500,000 for fiscal year 2013, $607,800,000 for fiscal year 2014, and $404,644,932 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to provide financial assistance for rural areas under section 5311, of which not less than $30,000,000 for fiscal year 2013, $30,000,000 for fiscal year 2014, and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5311(c)(1) and $20,000,000 for fiscal year 2013, $20,000,000 for fiscal year 2014, and $13,315,068 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5311(c)(2);
 
-&emsp;&emsp;(F) $3,000,000 for each of fiscal years 2013 and 2014 shall be available for bus testing under section 5318;
+&emsp;&emsp;(F) $3,000,000 for each of fiscal years 2013 and 2014 and $1,997,260 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for bus testing under section 5318;
 
-&emsp;&emsp;(G) $5,000,000 for each of fiscal years 2013 and 2014 shall be available for the national transit institute under section 5322(d);
+&emsp;&emsp;(G) $5,000,000 for each of fiscal years 2013 and 2014 and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for the national transit institute under section 5322(d);
 
-&emsp;&emsp;(H) $3,850,000 for each of fiscal years 2013 and 2014 shall be available to carry out section 5335;
+&emsp;&emsp;(H) $3,850,000 for each of fiscal years 2013 and 2014 and $2,563,151 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5335;
 
-&emsp;&emsp;(I) $2,136,300,000 for fiscal year 2013 and $2,165,900,000 for fiscal year 2014 shall be available to carry out section 5337;
+&emsp;&emsp;(I) $2,136,300,000 for fiscal year 2013, $2,165,900,000 for fiscal year 2014, and $1,441,955,342 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5337;
 
-&emsp;&emsp;(J) $422,000,000 for fiscal year 2013 and $427,800,000 for fiscal year 2014 shall be available for the bus and bus facilities program under section 5339; and
+&emsp;&emsp;(J) $422,000,000 for fiscal year 2013, $427,800,000 for fiscal year 2014, and $284,809,315 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for the bus and bus facilities program under section 5339; and
 
-&emsp;&emsp;(K) $518,700,000 for fiscal year 2013 and $525,900,000 for fiscal year 2014 shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
+&emsp;&emsp;(K) $518,700,000 for fiscal year 2013, $525,900,000 for fiscal year 2014, and $350,119,726 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
 
 (b)
 
-Research, Development Demonstration and Deployment Projects.—There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013 and $70,000,000 for fiscal year 2014.
+Research, Development Demonstration and Deployment Projects.—There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013, $70,000,000 for fiscal year 2014, and $46,602,740 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 (c)
 
-Transit Cooperative Research Program.—There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
+Transit Cooperative Research Program.—There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013, $7,000,000 for fiscal year 2014, and $4,660,274 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 (d)
 
-Technical Assistance and Standards Development.—There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
+Technical Assistance and Standards Development.—There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013, $7,000,000 for fiscal year 2014, and $4,660,274 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 (e)
 
-Human Resources and Training.—There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013 and $5,000,000 for fiscal year 2014.
+Human Resources and Training.—There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013, $5,000,000 for fiscal year 2014, and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 (f)
 
@@ -56,7 +56,7 @@ Emergency Relief Program.—There are authorized to be appropriated such sums as
 
 (g)
 
-Capital Investment Grants.—There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013 and $1,907,000,000 for fiscal year 2014.
+Capital Investment Grants.—There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013, $1,907,000,000 for fiscal year 2014, and $1,269,591,781 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 (h)
 
@@ -64,15 +64,15 @@ Administration.—
 
 &emsp;(1)
 
-In general.—There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013 and $104,000,000 for fiscal year 2014.
+In general.—There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013, $104,000,000 for fiscal year 2014, and $69,238,356 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 &emsp;(2)
 
-Section 5329.—Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 shall be available to carry out section 5329.
+Section 5329.—Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 for each of fiscal years 2013 and 2014 and not less than $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5329.
 
 &emsp;(3)
 
-Section 5326.—Of the amounts made available under paragraph (2), not less than $1,000,000 shall be available to carry out section 5326.
+Section 5326.—Of the amounts made available under paragraph (2), not less than $1,000,000 for each of fiscal years 2013 and 2014 and not less than $665,753 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5326.
 
 (i)
 
@@ -130,7 +130,7 @@ Grants financed from general fund.—A grant or contract that is approved by the
 
 Availability of Amounts.—Amounts made available by or appropriated under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §436, Mar. 18, 2010, 124 Stat. 90; Pub. L. 111–322, title II, §2306, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §306, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §136, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §306, Mar. 30, 2012, 126 Stat. 278; Pub. L. 112–140, title III, §306, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20028, div. G, title III, §113006, July 6, 2012, 126 Stat. 726, 985.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §436, Mar. 18, 2010, 124 Stat. 90; Pub. L. 111–322, title II, §2306, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §306, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §136, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §306, Mar. 30, 2012, 126 Stat. 278; Pub. L. 112–140, title III, §306, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20028, div. G, title III, §113006, July 6, 2012, 126 Stat. 726, 985; Pub. L. 113–159, title I, §1203, Aug. 8, 2014, 128 Stat. 1845.)
 
 Historical and Revision Notes
 
@@ -276,6 +276,46 @@ Section 601 of the Passenger Rail Investment and Improvement Act of 2008, referr
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–159, §1203(a)(1), substituted ", $8,595,000,000 for fiscal year 2014, and $5,722,150,685 for the period beginning on October 1, 2014, and ending on May 31, 2015" for "and $8,595,000,000 for fiscal year 2014".
+
+Subsec. (a)(2)(A). Pub. L. 113–159, §1203(a)(2)(A), substituted ", $128,800,000 for fiscal year 2014, and $85,749,041 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $128,800,000 for fiscal year 2014".
+
+Subsec. (a)(2)(B). Pub. L. 113–159, §1203(a)(2)(B), inserted "and $6,657,534 for the period beginning on October 1, 2014, and ending on May 31, 2015," after "2014".
+
+Subsec. (a)(2)(C). Pub. L. 113–159, §1203(a)(2)(C), substituted ", $4,458,650,000 for fiscal year 2014, and $2,968,361,507 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $4,458,650,000 for fiscal year 2014".
+
+Subsec. (a)(2)(D). Pub. L. 113–159, §1203(a)(2)(D), substituted ", $258,300,000 for fiscal year 2014, and $171,964,110 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $258,300,000 for fiscal year 2014".
+
+Subsec. (a)(2)(E). Pub. L. 113–159, §1203(a)(2)(E), substituted ", $607,800,000 for fiscal year 2014, and $404,644,932 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $607,800,000 for fiscal year 2014", ", $30,000,000 for fiscal year 2014, and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $30,000,000 for fiscal year 2014", and ", $20,000,000 for fiscal year 2014, and $13,315,068 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $20,000,000 for fiscal year 2014".
+
+Subsec. (a)(2)(F). Pub. L. 113–159, §1203(a)(2)(F), inserted "and $1,997,260 for the period beginning on October 1, 2014, and ending on May 31, 2015," after "2014".
+
+Subsec. (a)(2)(G). Pub. L. 113–159, §1203(a)(2)(G), inserted "and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015," after "2014".
+
+Subsec. (a)(2)(H). Pub. L. 113–159, §1203(a)(2)(H), inserted "and $2,563,151 for the period beginning on October 1, 2014, and ending on May 31, 2015," after "2014".
+
+Subsec. (a)(2)(I). Pub. L. 113–159, §1203(a)(2)(I), substituted ", $2,165,900,000 for fiscal year 2014, and $1,441,955,342 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $2,165,900,000 for fiscal year 2014".
+
+Subsec. (a)(2)(J). Pub. L. 113–159, §1203(a)(2)(J), substituted ", $427,800,000 for fiscal year 2014, and $284,809,315 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $427,800,000 for fiscal year 2014".
+
+Subsec. (a)(2)(K). Pub. L. 113–159, §1203(a)(2)(K), substituted ", $525,900,000 for fiscal year 2014, and $350,119,726 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $525,900,000 for fiscal year 2014".
+
+Subsec. (b). Pub. L. 113–159, §1203(b), substituted ", $70,000,000 for fiscal year 2014, and $46,602,740 for the period beginning on October 1, 2014, and ending on May 31, 2015" for "and $70,000,000 for fiscal year 2014".
+
+Subsec. (c). Pub. L. 113–159, §1203(c), substituted ", $7,000,000 for fiscal year 2014, and $4,660,274 for the period beginning on October 1, 2014, and ending on May 31, 2015" for "and $7,000,000 for fiscal year 2014".
+
+Subsec. (d). Pub. L. 113–159, §1203(d), substituted ", $7,000,000 for fiscal year 2014, and $4,660,274 for the period beginning on October 1, 2014, and ending on May 31, 2015" for "and $7,000,000 for fiscal year 2014".
+
+Subsec. (e). Pub. L. 113–159, §1203(e), substituted ", $5,000,000 for fiscal year 2014, and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015" for "and $5,000,000 for fiscal year 2014".
+
+Subsec. (g). Pub. L. 113–159, §1203(f), substituted ", $1,907,000,000 for fiscal year 2014, and $1,269,591,781 for the period beginning on October 1, 2014, and ending on May 31, 2015" for "and $1,907,000,000 for fiscal year 2014".
+
+Subsec. (h)(1). Pub. L. 113–159, §1203(g)(1), substituted ", $104,000,000 for fiscal year 2014, and $69,238,356 for the period beginning on October 1, 2014, and ending on May 31, 2015" for "and $104,000,000 for fiscal year 2014".
+
+Subsec. (h)(2). Pub. L. 113–159, §1203(g)(2), inserted "for each of fiscal years 2013 and 2014 and not less than $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be available".
+
+Subsec. (h)(3). Pub. L. 113–159, §1203(g)(3), inserted "for each of fiscal years 2013 and 2014 and not less than $665,753 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be available".
+
 <b>2012</b>—Pub. L. 112–141, §20028, amended section generally. Prior to amendment, section related to authorizations and consisted of subsecs. (a) to (g).
 
 Subsec. (b)(1)(G). Pub. L. 112–141, §113006(a)(1), added subpar. (G) and struck out former subpar. (G) which read as follows: "$6,270,423,750 for the period beginning on October 1, 2011, and ending on June 30, 2012."
@@ -338,7 +378,7 @@ Pub. L. 112–140, §§1(c), 306(a)(2)(I), temporarily substituted "$70,300,000 
 
 Pub. L. 112–102, §306(a)(2)(I), substituted "$92,500,000 for each of fiscal years 2009 through 2011, and $69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012," for "$92,500,000 for each of fiscal years 2009 and 2010, $92,500,000 for fiscal year 2011, and $46,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
-Subsec. (b)(2)(J). Pub. L. 112–141, §113006(a)(2)(J), substituted "and $26,900,000 for each of fiscal years 2009 through 2012" for "$26,900,000 for each of fiscal years 2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
+Subsec. (b)(2)(J). Pub. L. 112–141, §113006(a)(2)(J), substituted "and $26,900,000 for each of fiscal years 2009 through 2012" for "$26,900,000 for each of fiscal years2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
 Pub. L. 112–140, §§1(c), 306(a)(2)(J), temporarily substituted "$20,444,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -362,7 +402,7 @@ Pub. L. 112–140, §§1(c), 306(a)(2)(M), temporarily substituted "$353,400,000
 
 Pub. L. 112–102, §306(a)(2)(M), substituted "$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012," for "$465,000,000 for each of fiscal years 2009 and 2010, $465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
-Subsec. (b)(2)(N). Pub. L. 112–141, §113006(a)(2)(N), substituted "and $8,800,000 for each of fiscal years 2009 through 2012" for "$8,800,000 for each of fiscal years 2009through 2011, and $6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
+Subsec. (b)(2)(N). Pub. L. 112–141, §113006(a)(2)(N), substituted "and $8,800,000 for each of fiscal years 2009 through 2012" for "$8,800,000 for each of fiscal years 2009 through 2011, and $6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
 Pub. L. 112–140, §§1(c), 306(a)(2)(N), temporarily substituted "$6,688,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -1278,7 +1318,7 @@ Subsec. (d)(2)(A)(vi). Pub. L. 108–88, §8(g)(2)–(4), added cl. (vi).
 
 Subsec. (d)(2)(B)(vi). Pub. L. 108–88, §8(g)(2), (3), (5), added cl. (vi).
 
-Subsec. (d)(2)(C). Pub. L. 108–88, §8(g)(6), inserted "(other than for the period of October 1, 2003, throughFebruary 29, 2004)" after "a fiscal year" in introductory provisions.
+Subsec. (d)(2)(C). Pub. L. 108–88, §8(g)(6), inserted "(other than for the period of October 1, 2003, through February 29, 2004)" after "a fiscal year" in introductory provisions.
 
 Subsec. (e)(2). Pub. L. 108–88, §8(i)(1), inserted "
 
@@ -1376,7 +1416,7 @@ Pub. L. 109–59, title III, §3046, Aug. 10, 2005, 119 Stat. 1706, as amended b
 
 #### Adjustments for Surface Transportation Extension Act of 1997
 
-Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in former section 5337(a) of this title.
+Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in former section 5337(a) of this title.
 
 #### Training and Curriculum Development
 

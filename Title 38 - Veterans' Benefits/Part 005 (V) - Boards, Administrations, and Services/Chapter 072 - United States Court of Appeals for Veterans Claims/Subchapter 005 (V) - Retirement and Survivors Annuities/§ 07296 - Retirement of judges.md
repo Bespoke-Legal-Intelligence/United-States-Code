@@ -10,45 +10,14 @@
 
 &nbsp;
 
-<b>And the years</b>
-
-&nbsp;
-
-<b>of service</b>
-
-<b>The judge has</b>
-
-<b>as a judge</b>
-
-<b>attained age:</b>
-
-<b>are at least</b>
-
-65
-
-15&nbsp;&nbsp;&nbsp;
-
-66
-
-14&nbsp;&nbsp;&nbsp;
-
-67
-
-13&nbsp;&nbsp;&nbsp;
-
-68
-
-12&nbsp;&nbsp;&nbsp;
-
-69
-
-11&nbsp;&nbsp;&nbsp;
-
-70
-
-10&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> The judge has attained age:</b> | <b>And the years of service as a judge are at least</b> |
+| :--- | ---: |
+| 65 | 15&nbsp;&nbsp;&nbsp; |
+| 66 | 14&nbsp;&nbsp;&nbsp; |
+| 67 | 13&nbsp;&nbsp;&nbsp; |
+| 68 | 12&nbsp;&nbsp;&nbsp; |
+| 69 | 11&nbsp;&nbsp;&nbsp; |
+| 70 | 10&nbsp;&nbsp;&nbsp; |
 
 (2) A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more.
 
@@ -78,7 +47,7 @@
 
 &emsp;(B) may not be revoked after the retired pay begins to accrue.
 
-(2) In the case of a judge other than the chief judge, such an election shall be made by filing notice of the election in writing with the chief judge. In the case of the chief judge, such an election shall be made by filing notice of theelection in writing with the Director of the Office of Personnel Management.
+(2) In the case of a judge other than the chief judge, such an election shall be made by filing notice of the election in writing with the chief judge. In the case of the chief judge, such an election shall be made by filing notice of the election in writing with the Director of the Office of Personnel Management.
 
 (3) The chief judge shall transmit to the Director of the Office of Personnel Management a copy of each notice filed with the chief judge under this subsection.
 
@@ -116,13 +85,13 @@
 
 &emsp;&emsp;(ii) section 7297(e) of this title shall not apply and the amount credited to such individual's account (together with interest at 3 percent per year, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to the individual;
 
-&emsp;(C) no credit shall be allowed for any service as a judge of the Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest;
+&emsp;(C) no credit shall be allowed for any service as a judge of the Court unless with respect to such service either there has been deductedand withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest;
 
 &emsp;(D) the Court shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (d); and
 
 &emsp;(E) if subparagraphs (C) and (D) of this paragraph are complied with, service on the Court shall be treated as service with respect to which deductions and contributions had been made during the period of service.
 
-(i)(1) Beginning with the next pay period after the Director of the Office of Personnel Management receives a notice under subsection (d) of this section that a judge has elected to receive retired pay under this section, the Director shall deduct and withhold 1 percent of the salary of such judge. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Court of Appeals for Veterans Claims Judges Retirement Fund. Deductions under this subsection from the salary of a judge shall terminate upon the retirement of the judge or upon the completion of 15 years of service for which either deductionsunder this subsection or a deposit under subsection (j) of this section has been made, whichever occurs first.
+(i)(1) Beginning with the next pay period after the Director of the Office of Personnel Management receives a notice under subsection (d) of this section that a judge has elected to receive retired pay under this section, the Director shall deduct and withhold 1 percent of the salary of such judge. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Court of Appeals for Veterans Claims Judges Retirement Fund. Deductions under this subsection from the salary of a judge shall terminate upon the retirement of the judge or upon the completion of 15 years of service for which either deductions under this subsection or a deposit under subsection (j) of this section has been made, whichever occurs first.
 
 (2) Each judge who makes an election under subsection (d) of this section shall be considered to agree to the deductions from salary which are made under paragraph (1) of this subsection.
 
@@ -282,39 +251,16 @@ Eligibility for Retirement.—(1) For purposes of determining the eligibility to
 
 "(2) The age and service requirements in this paragraph are as follows:
 
-<b>"The judge has attained</b>
+&nbsp;
 
-<b>And the years of service</b>
+| <b> "The judge has attained age:</b> | <b>And the years of service as a judge are at least</b> |
+| :--- | ---: |
+| 65 | 13&nbsp;&nbsp;&nbsp; |
+| 66 | 13&nbsp;&nbsp;&nbsp; |
+| 67 | 13&nbsp;&nbsp;&nbsp; |
+| 68 | 12&nbsp;&nbsp;&nbsp; |
+| 69 | 11&nbsp;&nbsp;&nbsp; |
+| 70 | 10\."&nbsp;&nbsp; |
 
-<b> age:</b>
-
-<b>as a judge are at least</b>
-
-&nbsp;&nbsp;65
-
-13&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;66
-
-13&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;67
-
-13&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;68
-
-12&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;69
-
-11&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;70
-
-10\."&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Pub. L. 106–117, title X, §1032(b), Nov. 30, 1999, 113 Stat. 1595, provided that: "A person serving as a judge of the Court under section 1011 may not serve as chief judge of the Court."
+Pub. L. 106–117, title X, §1032(b), Nov. 30, 1999, 113 Stat. 1595, provided that: "A person serving as a judgeof the Court under section 1011 may not serve as chief judge of the Court."
 

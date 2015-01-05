@@ -38,7 +38,7 @@ It is the purpose of this section to enhance the education of children through t
 
 &emsp;(C) criteria to otherwise maximize the proportion of funds made available by the Endowment that are expended for the cost of programming production.
 
-(2) Applications for grants under this section shall be submitted to the Secretary in such form and containing such information as the Secretary shall require by regulation.
+(2) Applications for grants under this section shall be submitted to the Secretary in such formand containing such information as the Secretary shall require by regulation.
 
 #### (d) Amount of grants
 
@@ -66,7 +66,7 @@ The Secretary is authorized to make such rules and regulations as may be necessa
 
 #### (h) Authorization of appropriations; availability
 
-There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $5,000,000 for fiscal year 1993, and$6,000,000 for fiscal year 1994 to be used by the Secretary to carry out the provisions of this section. Sums appropriated under this subsection for any fiscal year shall remain available for contracts and grants for projects for which applications approved under this section have been submitted wtihin <sup>1</sup> one year after the last day of such fiscal year.
+There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994 to be used by the Secretary to carry out the provisions of this section. Sums appropriated under this subsection for any fiscal year shall remain available for contracts and grants for projects for which applications approved under this section have been submitted wtihin <sup>1</sup> one year after the last day of such fiscal year.
 
 #### (i) Definitions
 

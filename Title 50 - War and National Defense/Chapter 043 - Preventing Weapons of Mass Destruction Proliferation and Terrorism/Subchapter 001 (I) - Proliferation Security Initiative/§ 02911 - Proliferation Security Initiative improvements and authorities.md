@@ -30,11 +30,11 @@ It is the sense of Congress, consistent with the 9/11 Commission's recommendatio
 
 #### (2) Report
 
-&emsp;Not later than the first Monday in February of each even-numbered year in which the President submits a budget request described in paragraph (1), the Secretary of Defense and the Secretary of State shall submit to Congress a comprehensive joint report setting forth the following:
+&emsp;Not later than the first Monday in February of each even-numbered year in which the President submits a budget request described in paragraph (1), the Secretary of Defense andthe Secretary of State shall submit to Congress a comprehensive joint report setting forth the following:
 
 &emsp;&emsp;(A) A 3-year plan, beginning with the fiscal year for the budget request, that specifies the amount of funding and other resources to be provided by the United States for PSI-related activities over the term of the plan, including the purposes for which such funding and resources will be used.
 
-&emsp;&emsp;(B) For the report submitted in 2008, a description of the PSI-related activities carried out during the 3 fiscal years precedingthe year of the report, and for the report submitted in 2009 and each year thereafter, a description of the PSI-related activities carried out during the fiscal year preceding the year of the report. The description shall include, for each fiscal year covered by the report—
+&emsp;&emsp;(B) For the report submitted in 2008, a description of the PSI-related activities carried out during the 3 fiscal years preceding the year of the report, and for the report submitted in 2009 and each year thereafter, a description of the PSI-related activities carried out during the fiscal year preceding the year of the report. The description shall include, for each fiscal year covered by the report—
 
 &emsp;&emsp;&emsp;(i) the amounts obligated and expended for such activities and the purposes for which such amounts were obligated and expended;
 

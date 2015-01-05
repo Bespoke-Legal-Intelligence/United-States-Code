@@ -130,7 +130,7 @@
 
 #### (4) Reference to related provision for services covered under this subchapter but not under subchapter XVIII
 
-&emsp;For provisions relating to limitations on payments to providers participating under the State plan under this subchapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but not under subchapter XVIII of this chapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(67) of this title.
+&emsp;For provisions relating to limitations on payments to providers participating under theState plan under this subchapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but not under subchapter XVIII of this chapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(67) of this title.
 
 #### (c) Eligibility determinations
 
@@ -258,7 +258,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -332,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -352,7 +352,7 @@
 
 #### (B) Flexibility
 
-&emsp;&emsp;In order to provide for reasonable flexibility in adapting the PACE service delivery model to the needs of particular organizations (such as those in rural areas or those that may determine it appropriate to use nonstaff physicians according to State licensing law requirements) under this section and section 1395eee of this title, the Secretary (in close consultation with State administering agencies) may modify or waive provisions of the PACE protocol so long as any such modification or waiver is not inconsistent with and would not impair the essential elements, objectives, and requirements of this section, but may not modify or waive any of the following provisions:
+&emsp;&emsp;In order to provide for reasonable flexibility in adapting the PACE service deliverymodel to the needs of particular organizations (such as those in rural areas or those that may determine it appropriate to use nonstaff physicians according to State licensing law requirements) under this section and section 1395eee of this title, the Secretary (in close consultation with State administering agencies) may modify or waive provisions of the PACE protocol so long as any such modification or waiver is not inconsistent with and would not impair the essential elements, objectives, and requirements of this section, but may not modify or waive any of the following provisions:
 
 &emsp;&emsp;&emsp;(i) The focus on frail elderly qualifying individuals who require the level of care provided in a nursing facility.
 
@@ -392,7 +392,7 @@
 
 With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
 
-&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs orPACE program services be provided in all areas of a State.
+&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
 
 &emsp;(2) Section 1396a(a)(10) of this title, insofar as such section relates to comparability of services among different population groups.
 

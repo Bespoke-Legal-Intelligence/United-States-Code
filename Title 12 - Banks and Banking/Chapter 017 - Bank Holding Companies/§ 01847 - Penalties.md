@@ -62,7 +62,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;&emsp;(B) submits or publishes any false or misleading report or information,
 
-> &emsp;in a manner not described in paragraph (1) shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected.
+> &emsp;in a manner not described in paragraph (1) shall be subject to a penalty of not more than$20,000 for each day during which such failure continues or such false or misleading information is not corrected.
 
 #### (3) Third tier
 
@@ -70,7 +70,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (4) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board in the manner provided in subsection (b) of this section (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
+&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board in the manner provided in subsection (b) (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
 
 #### (5) Hearing
 
@@ -112,5 +112,5 @@ Amendment by section 911(e) of Pub. L. 101–73 applicable with respect to repor
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–630, relating to imposition of civil penalties, applicable to violations occurring orcontinuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630, set out as a note under section 93 of this title.
+Amendment by Pub. L. 95–630, relating to imposition of civil penalties, applicable to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630, set out as a note under section 93 of this title.
 

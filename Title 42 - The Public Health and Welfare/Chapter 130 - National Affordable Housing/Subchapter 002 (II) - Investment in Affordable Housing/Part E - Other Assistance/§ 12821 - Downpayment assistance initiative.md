@@ -64,7 +64,7 @@ The Secretary may award grants to participating jurisdictions to assist low-inco
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for each fiscal year, of the amount allocated to each State under paragraph (1), the Secretary shall further allocate from such amount to each participating jurisdiction located within such State an amount equal to the percentage of the allocation made to the State under paragraph (1) that is equal to the percentage of the State-wide total of low-income households residing in rental housing in such participating jurisdiction, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
+&emsp;&emsp;Subject to subparagraph (B), for each fiscal year, of the amount allocated to each State under paragraph (1), the Secretary shall further allocate from such amount to each participating jurisdiction located within such State an amount equal to the percentage of the allocation made to the Stateunder paragraph (1) that is equal to the percentage of the State-wide total of low-income households residing in rental housing in such participating jurisdiction, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
 
 #### (B) Limitation
 
@@ -108,7 +108,7 @@ To be eligible to receive a grant under this section in any fiscal year, a parti
 
 &emsp;(1) a description of the anticipated use of any grant received under this section;
 
-&emsp;(2) a plan for conducting targeted outreach to residents and tenants of public housing,trailer parks, and manufactured housing, and to other families assisted by public housing agencies, for the purpose of ensuring that grant amounts provided under this section to a participating jurisdiction are used for downpayment assistance for such residents, tenants, and families; and
+&emsp;(2) a plan for conducting targeted outreach to residents and tenants of public housing, trailer parks, and manufactured housing, and to other families assisted by public housing agencies, for the purpose of ensuring that grant amounts provided under this section to a participating jurisdiction are used for downpayment assistance for such residents, tenants, and families; and
 
 &emsp;(3) a description of the actions to be taken to ensure the suitability of families receiving downpayment assistance under this section to undertake and maintain homeownership.
 

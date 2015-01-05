@@ -116,7 +116,7 @@ International Air Transportation.—In formulating United States international a
 
 &emsp;(8) opportunities for carriers of foreign countries to increase their access to places in the United States if exchanged for benefits of similar magnitude for air carriers or the traveling public with permanent linkage between rights granted and rights given away.
 
-&emsp;(9) eliminating discrimination and unfair competitive practices faced by United Statesairlines in foreign air transportation, including—
+&emsp;(9) eliminating discrimination and unfair competitive practices faced by United States airlines in foreign air transportation, including—
 
 &emsp;&emsp;(A) excessive landing and user fees;
 
@@ -132,7 +132,7 @@ International Air Transportation.—In formulating United States international a
 
 (f)
 
-Strengthening Competition.—In selecting an air carrier to provide foreign air transportation from among competing applicants, the Secretary of Transportation shall consider, in addition to the matters specified in subsections (a) and (b) of this section, the strengthening of competition among air carriers operating in the United States to prevent unreasonable concentration in the air carrier industry.
+Strengthening Competition.—In selecting an air carrier to provide foreign air transportation from among competing applicants, the Secretary of Transportation shall consider, in addition to the matters specified in subsections (a) and (b) of this section, the strengthening of competition among air carriers operating in theUnited States to prevent unreasonable concentration in the air carrier industry.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1094; Pub. L. 104–264, title IV, §401(a), Oct. 9, 1996, 110 Stat. 3255; Pub. L. 106–181, title II, §201, Apr. 5, 2000, 114 Stat. 91.)
 
@@ -256,7 +256,13 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–238, §1, Dec. 18, 2014, 128 Stat. 2842, provided that: "This Act \[enacting section 44946 of this title\] may be cited as the 'Aviation Security Stakeholder Participation Act of 2014'."
+
+Pub. L. 113–221, §1, Dec. 16, 2014, 128 Stat. 2094, provided that: "This Act \[enacting section 44928 of this title\] may be cited as the 'Honor Flight Act'."
 
 #### Short Title of 2013 Amendment
 
@@ -324,7 +330,7 @@ Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: "This Act \
 
 Pub. L. 104–264, §1(a), Oct. 9, 1996, 110 Stat. 3213, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Aviation Reauthorization Act of 1996'."
 
-Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121,40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
+Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
 
 Pub. L. 104–264, title II, §278(a), Oct. 9, 1996, 110 Stat. 3249, provided that: "This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the 'Rural Air Service Survival Act'."
 
@@ -396,7 +402,7 @@ Termination.—The requirement to submit a report under subparagraph (A) shall t
 
 "(c)
 
-UAS Executive Committee Defined.—In this section, the term 'UAS Executive Committee' meansthe National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration."
+UAS Executive Committee Defined.—In this section, the term 'UAS Executive Committee' means the National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration."
 
 #### Prohibition on Participation in European Union's Emissions Trading Scheme
 
@@ -642,7 +648,7 @@ OEP airports report.—Not later than 6 months after the date of enactment of th
 
 &emsp;&emsp;"(A)
 
-RNP/RNAV operations for oep airports.—The required navigation performance and area navigation operations, including the procedures to be developed, certified, and published and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at each of the 35operational evolution partnership airports identified by the Administration and any medium or small hub airport located within the same metroplex area considered appropriate by the Administrator. The Administrator shall, to the maximum extent practicable, avoid overlays of existing flight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance and area navigation procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
+RNP/RNAV operations for oep airports.—The required navigation performance and area navigation operations, including the procedures to be developed, certified, and published and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at each of the 35 operational evolution partnership airports identified by the Administration and any medium or small hub airport located within the same metroplex area considered appropriate by the Administrator. The Administrator shall, to the maximum extent practicable, avoid overlays of existingflight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance and area navigation procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
 
 &emsp;&emsp;"(B)
 
@@ -1108,7 +1114,7 @@ Contents of plan.—The plan required under paragraph (1) shall contain, at a mi
 
 &emsp;&emsp;&emsp;"(iii) establish standards and requirements for the operator and pilot of a civil unmanned aircraft system, including standards and requirements for registration and licensing;
 
-&emsp;&emsp;"(B) the best methods to enhance the technologies and subsystems necessary to achieve thesafe and routine operation of civil unmanned aircraft systems in the national airspace system;
+&emsp;&emsp;"(B) the best methods to enhance the technologies and subsystems necessary to achieve the safe and routine operation of civil unmanned aircraft systems in the national airspace system;
 
 &emsp;&emsp;"(C) a phased-in approach to the integration of civil unmanned aircraft systems into the national airspace system;
 
@@ -1220,7 +1226,7 @@ Aircraft approval.—Not later than 1 year after the entry into force of an agre
 
 "(a)
 
-In General.—Notwithstanding any other requirement of this subtitle, and not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall determine if certain unmanned aircraft systems may operate safely in the national airspace system before completion of theplan and rulemaking required by section 332 of this Act or the guidance required by section 334 of this Act.
+In General.—Notwithstanding any other requirement of this subtitle, and not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall determine if certain unmanned aircraft systems may operate safely in the national airspace system before completion of the plan and rulemaking required by section 332 of this Act or the guidance required by section 334 of this Act.
 
 "(b)
 
@@ -1448,7 +1454,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(1) The United States has revolutionized the way people travel, developing new technologies and aircraft to move people more efficiently and more safely.
 
-&emsp;"(2) Past Federal investment in aeronautics research and development has benefited the economyand national security of the United States and the quality of life of its citizens.
+&emsp;"(2) Past Federal investment in aeronautics research and development has benefited the economy and national security of the United States and the quality of life of its citizens.
 
 &emsp;"(3) The total impact of civil aviation on the United States economy exceeds $900,000,000,000 annually and accounts for 9 percent of the gross national product and 11,000,000 jobs in the national workforce. Civil aviation products and services generate a significant surplus for United States trade accounts, and amount to significant numbers of the Nation's highly skilled, technologically qualified work force.
 
@@ -1612,7 +1618,7 @@ Integrated Plan.—The integrated plan shall be designed to ensure that the Next
 
 &emsp;&emsp;"(B) details on a year-by-year basis of specific accomplishments, activities, research requirements, rulemakings, policy decisions, and other milestones of progress for each Federal agency or entity conducting activities relating to the Next Generation Air Transportation System;
 
-&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
+&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in thatyear toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
 
 &emsp;&emsp;"(D) an estimate of all necessary expenditures on a year-by-year basis, including a statement of each Federal agency or entity's responsibility for costs and available resources, for each stage of development from the basic research stage through the demonstration and implementation phase;
 
@@ -1802,11 +1808,11 @@ Limitations.—The Secretary may impose reasonable limitations on any such waive
 
 #### Air Carriers Required To Honor Tickets for Suspended Service
 
-Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportationon that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
+Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
-Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided that: "With respect to any compensation payable under title IV of Public Law 107–42 \[set out as a note below\], the failure of a crime victim compensation program, after the effective date of final regulations issued pursuant to section 407 of Public Law 107–42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of 1984 (42 U.S.C. 10602) shall not render that program ineligible for future grants under the Victims of Crime Act of 1984 \[42 U.S.C. 10601 et seq.\]."
+Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided that: "With respect to any compensation payable under title IV of Public Law 107–42 \[set out as a note below\], the failure of a crime victim compensation program, after the effective date of finalregulations issued pursuant to section 407 of Public Law 107–42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of 1984 (42 U.S.C. 10602) shall not render that program ineligible for future grants under the Victims of Crime Act of 1984 \[42 U.S.C. 10601 et seq.\]."
 
 #### Air Transportation Safety and System Stabilization
 
@@ -1908,7 +1914,7 @@ Secretarial Oversight.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, the Secretary is authorized to require anair carrier receiving direct financial assistance under this Act to maintain scheduled air service to any point served by that carrier before September 11, 2001.
+In general.—Notwithstanding any other provision of law, the Secretary is authorized to require an air carrier receiving direct financial assistance under this Act to maintain scheduled air service to any point served by that carrier before September 11, 2001.
 
 &emsp;"(2)
 
@@ -2600,7 +2606,7 @@ Initiation.—Not later than 30 days after the date of the enactment of this Act
 
 &emsp;"(2)
 
-Assessment criteria.—The Administrator shall provide to the independent entity estimates of the financial requirements of the Administration for the period described in paragraph (1), using as a base the fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
+Assessment criteria.—The Administrator shall provide to the independent entity estimates ofthe financial requirements of the Administration for the period described in paragraph (1), using as a base the fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
 
 &emsp;"(3)
 
@@ -2842,7 +2848,7 @@ Publication.—The Secretary shall cause a copy of the report to be printed in t
 
 &emsp;"(2)
 
-Report by the administrator based on final report of aviation safety task force.—Not later than 30 days after receiving the report of the aviation safety task force, the Administrator shall transmit the report to Congress, together with the Administrator's recommendations for improving aviation safety in the United States.
+Report by the administrator based on final report of aviation safety task force.—Not laterthan 30 days after receiving the report of the aviation safety task force, the Administrator shall transmit the report to Congress, together with the Administrator's recommendations for improving aviation safety in the United States.
 
 "(d)
 
@@ -2944,7 +2950,7 @@ Scope.—The study shall include an assessment and quantitative analysis of each
 
 &emsp;"(4)
 
-Provision of Current Data.—The Administrator shall collect all data of the Federal Aviation Administration that is relevant to the study andmake the data available to the National Academy of Sciences in order to complete the study.
+Provision of Current Data.—The Administrator shall collect all data of the Federal Aviation Administration that is relevant to the study and make the data available to the National Academy of Sciences in order to complete the study.
 
 "(b)
 
@@ -2956,7 +2962,7 @@ In general.—The Administrator may consider the feasibility of using the flight
 
 &emsp;"(2)
 
-Passenger cabins.—The Administrator may also consider the feasibility of using the flight data recording system to monitor and record data related to the air quality in passengers cabins of aircraft."
+Passenger cabins.—The Administrator may also consider the feasibility of using the flight datarecording system to monitor and record data related to the air quality in passengers cabins of aircraft."
 
 Pub. L. 103–305, title III, §304, Aug. 23, 1994, 108 Stat. 1591, provided that:
 
@@ -3048,7 +3054,7 @@ Exceptions.—Subsection (a) does not apply—
 
 "(c)
 
-General Aviation Aircraft Defined.—For the purposes of this Act, the term 'general aviation aircraft' means any aircraft for which a type certificate oran airworthiness certificate has been issued by the Administrator of the Federal Aviation Administration, which, at the time such certificate was originally issued, had a maximum seating capacity of fewer than 20 passengers, and which was not, at the time of the accident, engaged in scheduled passenger-carrying operations as defined under regulations in effect under part A of subtitle VII of title 49, United States Code, at the time of the accident.
+General Aviation Aircraft Defined.—For the purposes of this Act, the term 'general aviation aircraft' means any aircraft for which a type certificate or an airworthiness certificate has been issued by the Administrator of the Federal Aviation Administration, which, at the time such certificate was originally issued, had a maximum seating capacity of fewer than 20 passengers, and which was not, at the time of the accident, engaged in scheduled passenger-carrying operations as defined under regulations in effect under part A of subtitle VII of title 49, United States Code, at the time of the accident.
 
 "(d)
 

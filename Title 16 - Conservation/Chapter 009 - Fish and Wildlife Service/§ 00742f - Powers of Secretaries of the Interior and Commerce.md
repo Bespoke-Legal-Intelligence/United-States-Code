@@ -74,7 +74,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (B) Projects and programs
 
-&emsp;&emsp;Subject to the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, and such terms and conditions as the Secretary determines to be appropriate, the Secretary may approve projects and programs for a refuge or complex of geographically related refuges that—
+&emsp;&emsp;Subject to the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, and such terms andconditions as the Secretary determines to be appropriate, the Secretary may approve projects and programs for a refuge or complex of geographically related refuges that—
 
 &emsp;&emsp;&emsp;(i) promote the stewardship of resources of the refuge through habitat maintenance, restoration, and improvement, biological monitoring, or research;
 

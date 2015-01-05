@@ -6,11 +6,11 @@ None of the funds made available for foreign operations, export financing, and r
 
 #### (b) Consistency with United Nations principles
 
-The code of conduct referred to in subsection (a) of this section shall, to the maximum extent practicable, be consistent with the six core principles of the United Nations Inter-Agency Standing Committee Task Force on Protection From Sexual Exploitation and Abuse in Humanitarian Crises.
+The code of conduct referred to in subsection (a) shall, to the maximum extent practicable, be consistent with the six core principles of the United Nations Inter-Agency Standing Committee Task Force on Protection From Sexual Exploitation and Abuse in Humanitarian Crises.
 
 #### (c) Reports
 
-Not later than 180 days after May 11, 2005, and not later than one year after May 11, 2005, thePresident shall transmit to the appropriate congressional committees a report on the implementation of this section.
+Not later than 180 days after May 11, 2005, and not later than one year after May 11, 2005, the President shall transmit to the appropriate congressional committees a report on the implementation of this section.
 
 #### (d) Effective Date
 

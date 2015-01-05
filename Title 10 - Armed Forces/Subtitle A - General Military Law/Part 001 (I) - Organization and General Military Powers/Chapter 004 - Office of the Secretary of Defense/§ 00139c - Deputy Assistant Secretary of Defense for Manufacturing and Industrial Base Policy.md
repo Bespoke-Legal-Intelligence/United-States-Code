@@ -60,7 +60,7 @@ Materials Critical to National Security Defined.—In this section, the term "ma
 
 #### References in Text
 
-The Defense Production Act of 1950, referred to in subsec. (b)(12), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified generally to section 2061 et seq. ofTitle 50, Appendix, War and National Defense. Title I of the Act is classified generally to section 2071 et seq. of Title 50, Appendix. Title III of the Act is classified generally to section 2091 et seq. of Title 50, Appendix. For complete classification of this Act to the Code, see section 2061 of Title 50, Appendix, and Tables.
+The Defense Production Act of 1950, referred to in subsec. (b)(12), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified generally to section 2061 et seq. of Title 50, Appendix, War and National Defense. Title I of the Act is classified generally to section 2071 et seq. of Title 50, Appendix. Title III of the Act is classified generally to section 2091 et seq. of Title 50, Appendix. For complete classification of this Act to the Code, see section 2061 of Title 50, Appendix, and Tables.
 
 Subsection (b)(9), referred to in subsec. (c), was redesignated subsection (b)(8) of this section, by Pub. L. 112–239, div. A, title IX, §901(a)(2), Jan. 2, 2013, 126 Stat. 1864.
 

@@ -34,7 +34,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) Use of funds
 
-&emsp;&emsp;Each tribal health program making the election described in paragraph (1) with respect to a program under a title of the Social Security Act \[42 U.S.C. 301 et seq.\] shall be reimbursed directly by that program for items and services furnished without regard to subsection (c)(1), except that all amounts so reimbursed shall be used by the tribal health program for the purpose of making any improvements in facilities of the tribal health program that may be necessary to achieve or maintain compliance with theconditions and requirements applicable generally to such items and services under the program under such title and to provide additional health care services, improvements in health care facilities and tribal health programs, any health care-related purpose (including coverage for a service or service within a contract health service delivery area or any portion of a contract health service delivery area that would otherwise be provided as a contract health service), or otherwise to achieve the objectives provided in section 1602 of this title.
+&emsp;&emsp;Each tribal health program making the election described in paragraph (1) with respect to a program under a title of the Social Security Act \[42 U.S.C. 301 et seq.\] shall be reimbursed directly by that program for items and services furnished without regard to subsection (c)(1), except that all amounts so reimbursed shall be used by the tribal health program for the purpose of making any improvements in facilities of the tribal health program that may be necessary to achieve or maintain compliance with the conditions and requirements applicable generally to such items and services under the program under such title and to provide additional health care services, improvements in health care facilities and tribal health programs, any health care-related purpose (including coverage for a service or service within a contract health service delivery area or any portion of a contract health service delivery area that would otherwise be provided as a contract health service), or otherwise to achieve the objectives provided in section 1602 of this title.
 
 #### (B) Audits
 
@@ -48,7 +48,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, acting through the Service and with the assistance of the Administrator of the Centers for Medicare \& Medicaid Services, shall examine on an ongoing basis and implement any administrative changes that may be necessary to facilitate direct billing and reimbursement under the program established under this subsection, including any agreements with States that may be necessary to provide for direct billing under a program under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\].
+&emsp;&emsp;The Secretary, acting through the Service and with the assistance of the Administratorof the Centers for Medicare \& Medicaid Services, shall examine on an ongoing basis and implement any administrative changes that may be necessary to facilitate direct billing and reimbursement under the program established under this subsection, including any agreements with States that may be necessary to provide for direct billing under a program under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\].
 
 #### (B) Coordination of information
 

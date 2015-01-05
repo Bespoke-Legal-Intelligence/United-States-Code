@@ -36,7 +36,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–424, in setting forth a new declaration of policy generally substituted four principal goals of development cooperation policy, they being (1) the alleviation of the worst manifestations of poverty, (2) self-sustained economic growth, (3) respect for civil and economic rights, and (4) the integration of the developing countries into an open and equitable economic system, for former seven pars. relating to: (1) primary responsibility for development being in the less developed countries themselves; (2) the active involvement of many countries; (3) the encouragement of regional cooperation; (5) assistance being of such nature as to help United States balance of payments; (6) furnishing of assistance in such manner as to promote efficiency, and (7) the furnishing of agricultural commodities, etc., to complement assistance under this subchapter.
 
-Subsec. (b). Pub. L. 95–424 substituted provisions relating to the responsibility of the agency primarily responsible for administering the program for coordination of all development related activities, for former seven criteria for restructuring relationships with less developed countries, those criteria being: (1) sharing of technical expertise; (2) focusing on critical problems affecting the majority of the people; (3) use of the private sector; (4) development goals as the responsibility of each sovereign nation; (5) priority to undertakings directly improving the lives of the poorest people; (6) private investment in development programs; and (7) responsibility for coordination of activities with the agency having primary responsibility for administering this part.
+Subsec. (b). Pub. L. 95–424 substituted provisions relating to the responsibility of the agency primarily responsible for administering the program for coordination of all development related activities, for formerseven criteria for restructuring relationships with less developed countries, those criteria being: (1) sharing of technical expertise; (2) focusing on critical problems affecting the majority of the people; (3) use of the private sector; (4) development goals as the responsibility of each sovereign nation; (5) priority to undertakings directly improving the lives of the poorest people; (6) private investment in development programs; and (7) responsibility for coordination of activities with the agency having primary responsibility for administering this part.
 
 Subsecs. (c) to (e). Pub. L. 95–424 struck out subsecs. (c) to (e).
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
 <b>1966</b>—Pub. L. 89–583 provided for termination of assistance to any foreign country which does not take appropriate measures to provide compensation for damage or destruction by mob action of United States property within such country and declared that furnishing assistance shall not be construed as creating a new commitment or as affecting any existing commitment to use armed forces of the United States for the defense of any foreign country.
 
-<b>1965</b>—Pub. L. 89–171 added expressions of the sense of Congress that in furnishing assistance under this subchapter excess personal property shall be utilized wherever practicable in lieu of the procurement of new items for United States-assisted projects and programs and that assistance under this chapter and other statutes should be terminated to any country permittingdamage to or destruction of U.S. property within such country by mob action or by failing to take adequate preventive measures.
+<b>1965</b>—Pub. L. 89–171 added expressions of the sense of Congress that in furnishing assistance under this subchapter excess personal property shall be utilized wherever practicable in lieu of the procurement of new items for United States-assisted projects and programs and that assistance under this chapter and other statutes should be terminated to any country permitting damage to or destruction of U.S. property within such country by mob action or by failing to take adequate preventive measures.
 
 <b>1963</b>—Pub. L. 88–205 declared that institution of full investment guaranty programs with all recipient countries would be regarded as a significant measure of self-help by such countries improving investment climate, that assistance to maintain freedom from communism "shall" rather than "should" emphasize long-range development, that in the administration of programs of assistance, every precaution be taken to assure that assistance is not diverted to any short-term emergency purpose or any purpose not essential to long-range economic development, that other industrialized free-world countries increase their contributions and assistance to more equitably share the burden, and the President should in his discretion, extend or withhold assistance from South Vietnam to further victory and the return home of Americans involved in the struggle there.
 
@@ -73,6 +73,10 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–424, title VI, §605, Oct. 6, 1978, 92 Stat. 961, provided that: "The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978."
+
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–289, §1, Dec. 19, 2014, 128 Stat. 3283, provided that: "This Act \[amending section 2152h of this title and provisions set out as a note under section 2152h of this title\] may be cited as the 'Senator Paul Simon Water for the World Act of 2014'."
 
 #### Short Title of 2010 Amendment
 
@@ -224,7 +228,7 @@ Pub. L. 96–53, §1, Aug. 14, 1979, 93 Stat. 359, provided that: "This Act \[en
 
 #### Short Title of 1978 Amendments
 
-Pub. L. 95–424, §1, Oct. 6, 1978, 92 Stat. 937, provided that: "This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201, 2292l, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k, 2351, 2357, 2358, 2361, 2370, 2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151l, 2151m, 2151o, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and section 1711 of Title 7\] may be cited as the 'International Development and Food Assistance Act of 1978'."
+Pub. L. 95–424, §1, Oct. 6, 1978, 92 Stat. 937, provided that: "This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201, 2292l, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k,2351, 2357, 2358, 2361, 2370, 2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151l, 2151m, 2151o, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and section 1711 of Title 7\] may be cited as the 'International Development and Food Assistance Act of 1978'."
 
 Pub. L. 95–384, §1, Sept. 26, 1978, 92 Stat. 730, provided that: "This Act \[enacting sections 2348 to 2348c, 2373, 2417, 2428b, and 2766 of this title, amending sections 1754, 2261, 2291, 2291a, 2304, 2312, 2321b, 2321h to 2321j, 2346 to 2346c, 2347a, 2347b, 2360, 2372, 2413, 2429, 2429a, 2751, 2761, 2762, 2765, 2771, and 2776 of this title and section 2403 of Title 50, Appendix, War and National Defense, repealing sections 2441 to 2443 of this title, and enacting provisions set out as notes under this section and sections 287c, 1754, 2291, 2311, 2346, 2346a, 2370, and 2751 of this title\] may be cited as the 'International Security Assistance Act of 1978'."
 
@@ -246,7 +250,7 @@ Pub. L. 94–161, §1, Dec. 20, 1975, 89 Stat. 849, provided: "That this Act \[r
 
 #### Short Title of 1974 Amendments
 
-Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: "That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the 'Foreign Assistance Act of 1974'."
+Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: "That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the 'Foreign Assistance Act of 1974'."
 
 Pub. L. 93–390, §1, Aug. 27, 1974, 88 Stat. 763, provided: "That this Act \[amending sections 2191, 2194, 2195, 2197, 2199, 2200 and 2200a of this title\] may be cited as the 'Overseas Private Investment Corporation Amendments Act of 1974'."
 
@@ -266,7 +270,7 @@ Pub. L. 91–652, §1, Jan. 5, 1971, 84 Stat. 1942, provided: "That this Act \[e
 
 #### Short Title of 1969 Amendment
 
-Pub. L. 91–175, §1, Dec. 30, 1969, 83 Stat. 805, provided that: "This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162, 2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396, 2397 and 2402 of this title, section 846 of former Title 31, Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the 'Foreign Assistance Act of 1969'."
+Pub. L. 91–175, §1, Dec. 30, 1969, 83 Stat. 805, provided that: "This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162, 2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396,2397 and 2402 of this title, section 846 of former Title 31, Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the 'Foreign Assistance Act of 1969'."
 
 #### Short Title of 1968 Amendment
 
@@ -328,11 +332,253 @@ Pub. L. 87–195, pt. III, §642, Sept. 4, 1961, 75 Stat. 460, as amended by Pub
 
 "(b) References in law to the Acts, or provisions of such Acts, repealed by subsection (a) of this section shall hereafter be deemed to be references to this Act \[see Short Title note for the Foreign Assistance Act of 1961 above\] or appropriate provisions of this Act.
 
-"(c) The repeal of the Acts listed in subsection (a) of this section shall not be deemed to affect amendments contained in such Acts to Acts not named in that subsection."
+"(c) The repeal of the Acts listed in subsection (a) of this section shall not be deemed to affect amendmentscontained in such Acts to Acts not named in that subsection."
 
 #### United States Agency for International Development Deemed Agency Primarily Responsible for Administering This Subchapter
 
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Military-to-Military Engagement With the Government of Burma
+
+Pub. L. 113–291, div. A, title XII, §1253, Dec. 19, 2014, 128 Stat. 3571, provided that:
+
+"(a)
+
+Authorization.—The Department of Defense is authorized to provide the Government of Burma the following:
+
+&emsp;"(1) Consultation, education, and training on human rights, the laws of armed conflict, civilian control of the military, rule of law, and other legal matters.
+
+&emsp;"(2) Consultation, education, and training on English-language, humanitarian and disaster relief, and improvements to medical and health standards.
+
+&emsp;"(3) Courses or workshops on defense institution reform.
+
+&emsp;"(4) Observer status to bilateral or multilateral humanitarian assistance and disaster relief exercises.
+
+&emsp;"(5) Aid or support in the event of a humanitarian crisis or natural disaster.
+
+"(b)
+
+Annual Reports.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], and each March 1 thereafter, the Secretary of Defense shall, in consultation with the Secretary of State, submit to the appropriate committees of Congress a report on military-to-military engagement between the United States Armed Forces and the Burmese military.
+
+&emsp;"(2)
+
+Elements.—Each report under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the military-to-military activities between the United States and Burma, and how engagement with the Burmese military supports the United States national security strategy and promotes reform in Burma.
+
+&emsp;&emsp;"(B) A description of the objectives of the United States for developing the military-to-military relationship with the Burmese military, how the United States measures progress toward such objectives, and the implications of failing to achieve such objectives.
+
+&emsp;&emsp;"(C) A description and assessment of the political, military, economic, and civil society reforms being undertaken by the Government of Burma, including those affecting—
+
+&emsp;&emsp;&emsp;"(i) individual freedoms and human rights of the Burmese people, including those of ethnic and religious minorities and internally displaced populations;
+
+&emsp;&emsp;&emsp;"(ii) the peaceful settlement of armed conflicts between the Government of Burma and ethnic minority groups in Burma;
+
+&emsp;&emsp;&emsp;"(iii) civilian control of the armed forces;
+
+&emsp;&emsp;&emsp;"(iv) constitutional and electoral reforms;
+
+&emsp;&emsp;&emsp;"(v) access for the purposes of human rights monitoring and humanitarian assistance to all areas in Burma, and cooperation with civilian authorities to investigate and resolve cases of human rights violations;
+
+&emsp;&emsp;&emsp;"(vi) governmental transparency and accountability; and
+
+&emsp;&emsp;&emsp;"(vii) respect for the laws of armed conflict and human rights, including with respect to child soldiers.
+
+&emsp;&emsp;"(D) A description and assessment of relationships of the Government of Burma with unlawful or sanctioned entities.
+
+&emsp;"(3)
+
+Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.
+
+&emsp;"(4)
+
+Sunset.—The requirement to submit additional reports under this subsection shall terminate at the end of the 5-year period beginning on the date of the enactment of this Act \[Dec. 19, 2014\].
+
+"(c)
+
+Rule of Construction.—No Department of Defense assistance to the Government of Burma is authorized by this Act \[Pub. L. 113–291, see Tables for classification\] except as provided in this section.
+
+"(d)
+
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+
+&emsp;"(1) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives."
+
+#### Assessing Progress in Haiti
+
+Pub. L. 113–162, Aug. 8, 2014, 128 Stat. 1858, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Assessing Progress in Haiti Act of 2014'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress makes the following findings:
+
+&emsp;"(1) On January 12, 2010, a massive earthquake struck near the Haitian capital city of Port-au-Prince, leaving an estimated 220,000 people dead, including 103 United States citizens, 101 United Nations personnel, and nearly 18 percent of the nation's civil service, as well as 300,000 injured, 115,000 homes destroyed, and 1,500,000 people displaced.
+
+&emsp;"(2) According to the Post Disaster Needs Assessment conducted by the Government of Haiti, with technical assistance from the United Nations, the World Bank, the Inter-American Development Bank, the Economic Commission for Latin America and the Caribbean, and the European Commission, an estimated 15 percent of the population was directly affected by the disaster and related damages and economic losses totaled $7,804,000,000.
+
+&emsp;"(3) Even before the earthquake, Haiti had some of the lowest socioeconomic indicators and the second highest rate of income disparity in the world, conditions that have further complicated post-earthquake recovery efforts and, according to the World Bank, have significantly reduced the prospects of addressing poverty reduction through economic growth.
+
+&emsp;"(4) According to the World Food Programme, more than 6,700,000 people in Haiti (out of a population of about 10,000,000) are considered food insecure.
+
+&emsp;"(5) In October 2010, an unprecedented outbreak of cholera in Haiti resulted in over 500,000 reported cases and over 8,000 deaths to date, further straining the capacity of Haiti's public health sector and increasing the urgency of resettlement and water, sanitation, and hygiene (WASH) efforts.
+
+&emsp;"(6) The international community, led by the United States and the United Nations, mounted an unprecedented humanitarian response in Haiti, with donors pledging approximately $10,400,000,000 for humanitarian relief and recovery efforts, including debt relief, supplemented by $3,100,000,000 in private charitable contributions, of which approximately $6,400,000,000 has been disbursed and an additional $3,800,000,000 has been committed as of September 30, 2013.
+
+&emsp;"(7) The emergency response of the men and women of the United States Government, led by the United States Agency for International Development (USAID) and the United States Southern Command,as well as of cities, towns, individuals, businesses, and philanthropic organizations across the United States, was particularly swift and resolute.
+
+&emsp;"(8) Since 2010, a total of $1,300,000,000 in United States assistance has been allocated for humanitarian relief and $2,300,000,000 has been allocated for recovery, reconstruction, and development assistance in Haiti, including $1,140,000,000 in emergency appropriations and $95,000,000 that has been obligated specifically to respond to the cholera epidemic.
+
+&emsp;"(9) Of the $3,600,000,000 in United States assistance allocated for Haiti, $651,000,000 was apportioned to USAID to support an ambitious recovery plan, including the construction of a power plant to provide electricity for the new Caracol Industrial Park (CIP) in northern Haiti, a new port near the CIP, and permanent housing in new settlements in the Port-au-Prince, St-Marc, and Cap-Hai�AE4tien areas.
+
+&emsp;"(10) According to a recent report of the Government Accountability Office, as of June 30, 2013, USAID had disbursed 31 percent of its reconstruction funds in Haiti, the port project was 2 years behind schedule and USAID funding will be insufficient to cover a majority of the projected costs, the housing project has been reduced by 80 percent, and the sustainability of the power plant, the port, and the housing projects were all at risk.
+
+&emsp;"(11) GAO further found that Congress has not been provided with sufficient information to ensure that it is able to conduct effective oversight at a time when most funding remains to be disbursed, and specifically recommends that a periodic reporting mechanism be instituted to fill this information gap.
+
+&emsp;"(12) Donors have encountered significant challenges in implementing recovery programs, and nearly 4 years after the earthquake, an estimated 171,974 people remain displaced in camps, unemployment remains high, corruption is rampant, land rights remain elusive, allegations of wage violations are widespread, the business climate is unfavorable, and government capacity remains weak.
+
+&emsp;"(13) For Haiti to achieve stability and long term economic growth, donor assistance will have to be carefully coordinated with a commitment by the Government of Haiti to transparency, a market economy, rule of law, and democracy.
+
+&emsp;"(14) The legal environment in Haiti remains a challenge to achieving the goals supported by the international community.
+
+#### "SEC. 3. STATEMENT OF POLICY.
+
+"It is the policy of the United States to support the sustainable rebuilding and development of Haiti in a manner that—
+
+&emsp;"(1) promotes efforts that are led by and support the people and Government of Haiti at all levels so that Haitians lead the course of reconstruction and development of Haiti;
+
+&emsp;"(2) builds the long term capacity of the Government of Haiti and civil society in Haiti;
+
+&emsp;"(3) reflects the priorities and particular needs of both women and men so they may participate equally and to their maximum capacity;
+
+&emsp;"(4) respects and helps restore Haiti's natural resources, as well as builds community-level resilience to environmental and weather-related impacts;
+
+&emsp;"(5) provides timely and comprehensive reporting on goals and progress, as well as transparent post program evaluations and contracting data;
+
+&emsp;"(6) prioritizes the local procurement of goods and services in Haiti where appropriate; and
+
+&emsp;"(7) promotes the holding of free, fair, and timely elections in accordance with democratic principles and the Haitian Constitution.
+
+#### "SEC. 4. SENSE OF CONGRESS.
+
+"It is the sense of Congress that transparency, accountability, democracy, and good governance are integral factors in any congressional decision regarding United States assistance, including assistance to Haiti.
+
+#### "SEC. 5. REPORT.
+
+"(a)
+
+In General.—Not later than December 31, 2014, and annually thereafter through December 31, 2017, the Secretary of State shall submit to Congress a report on the status of post-earthquake recovery and development efforts in Haiti.
+
+"(b)
+
+Contents.—The report required by subsection (a) shall include—
+
+&emsp;"(1) a summary of 'Post-Earthquake USG Haiti Strategy: Toward Renewal and Economic Opportunity', including any significant changes to the strategy over the reporting period and an explanation thereof;
+
+&emsp;"(2) a breakdown of the work that the United States Government agencies other than USAID and the Department of State are conducting in the Haiti recovery effort, and the cost of that assistance;
+
+&emsp;"(3) an assessment of the progress of United States efforts to advance the objectives of the 'Post-Earthquake USG Haiti Strategy: Toward Renewal and Economic Opportunity' produced by the Department of State, compared to what remains to be achieved to meet specific goals, including—
+
+&emsp;&emsp;"(A) a description of any significant changes to the Strategy over the reporting period and an explanation thereof;
+
+&emsp;&emsp;"(B) an assessment of progress, or lack thereof, over the reporting period toward meeting the goals and objectives, benchmarks, and timeframes specified in the Strategy, including—
+
+&emsp;&emsp;&emsp;"(i) a description of progress toward designing and implementing a coordinated and sustainable housing reconstruction strategy that addresses land ownership, secure land tenure, water and sanitation, and the unique concerns of vulnerable populations such as women and children, as well as neighborhood and community revitalization, housing finance, and capacity building for the Government of Haiti to implement an effective housing policy;
+
+&emsp;&emsp;&emsp;"(ii) a description of United States Government efforts to construct and sustain the proposed port, as well as an assessment of the current projected timeline and cost for completion; and
+
+&emsp;&emsp;&emsp;"(iii) a description of United States Government efforts to attract and leverage the investments of private sector partners to the CIP, including by addressing any policy impediments;
+
+&emsp;&emsp;"(C) a description of the quantitative and qualitative indicators used to evaluate the progress toward meeting the goals and objectives, benchmarks, and timeframes specified in the Strategy at the program level;
+
+&emsp;&emsp;"(D) the amounts committed, obligated, and expended on programs and activities to implement the Strategy, by sector and by implementing partner at the prime and subprime levels (in amounts of not less than $25,000); and
+
+&emsp;&emsp;"(E) a description of the risk mitigation measures put in place to limit the exposure of United States assistance provided under the Strategy to waste, fraud, and abuse;
+
+&emsp;"(4) a description of measures taken to strengthen, and United States Government efforts to improve, Haitian governmental and nongovernmental organizational capacity to undertake and sustain United States-supported recovery programs;
+
+&emsp;"(5) as appropriate, a description of United States efforts to consult and engage with Government of Haiti ministries and local authorities on the establishment of goals and timeframes, and on the design and implementation of new programs under the Post-Earthquake USG Haiti Strategy: Toward Renewal and Economic Opportunity;
+
+&emsp;"(6) a description of efforts by Haiti's legislative and executive branches to consult and engage with Haitian civil society and grassroots organizations on the establishment of goals and timeframes, and on the design and implementation of new donor-financed programs, as well as efforts to coordinate with and engage the Haitian diaspora;
+
+&emsp;"(7) consistent with the Government of Haiti's ratification of the United Nations Convention AgainstCorruption, a description of efforts of the Governments of the United States and Haiti to strengthen Government of Haiti institutions established to address corruption, as well as related efforts to promote public accountability, meet public outreach and disclosure obligations, and support civil society participation in anti-corruption efforts;
+
+&emsp;"(8) a description of efforts to leverage public-private partnerships and increase the involvement of the private sector in Haiti in recovery and development activities and coordinate programs with the private sector and other donors;
+
+&emsp;"(9) a description of efforts to address the particular needs of vulnerable populations, including internally displaced persons, women, children, orphans, and persons with disabilities, in the design and implementation of new programs and infrastructure;
+
+&emsp;"(10) a description of the impact that agriculture and infrastructure programs are having on the food security, livelihoods, and land tenure security of smallholder farmers, particularly women;
+
+&emsp;"(11) a description of mechanisms for communicating the progress of recovery and development efforts to the people of Haiti, including a description of efforts to provide documentation, reporting and procurement information in Haitian Creole;
+
+&emsp;"(12) a description of the steps the Government of Haiti is taking to strengthen its capacity to receive individuals who are removed, excluded, or deported from the United States; and
+
+&emsp;"(13) an assessment of actions necessary to be taken by the Government of Haiti to assist in fulfilling the objectives of the Strategy.
+
+#### "SEC. 6. STRATEGY.
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Aug. 8, 2014\], the Secretary of State, acting through the Assistant Secretary of State for Western Hemisphere Affairs, shall coordinate and transmit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a three-year Haiti strategy based on rigorous assessments that—
+
+&emsp;"(1) identifies and addresses constraints to sustainable, broad-based economic growth and to the consolidation of responsive, democratic government institutions;
+
+&emsp;"(2) includes an action plan that outlines policy tools, technical assistance, and anticipated resources for addressing the highest-priority constraints to economic growth and the consolidation of democracy, as well as a specific description of mechanisms for monitoring and evaluating progress; and
+
+&emsp;"(3) identifies specific steps and verifiable benchmarks appropriate to provide direct bilateral assistance to the Government of Haiti.
+
+"(b)
+
+Elements.—The strategy required under subsection (a) should address the following elements:
+
+&emsp;"(1) A plan to engage the Government of Haiti on shared priorities to build long-term capacity, including the development of a professional civil service, to assume increasing responsibility for governance and budgetary sustainment of governmental institutions.
+
+&emsp;"(2) A plan to assist the Government of Haiti in holding free, fair and timely elections in accordance with democratic principles.
+
+&emsp;"(3) Specific goals for future United States support for efforts to build the capacity of the Government of Haiti, including to–
+
+&emsp;&emsp;"(A) reduce corruption;
+
+&emsp;&emsp;"(B) consolidate the rule of law and an independent judiciary;
+
+&emsp;&emsp;"(C) strengthen the civilian police force;
+
+&emsp;&emsp;"(D) develop sustainable housing, including ensuring appropriate titling and land ownership rights;
+
+&emsp;&emsp;"(E) expand port capacity to support economic growth;
+
+&emsp;&emsp;"(F) attract and leverage the investments of private sector partners, including to the Caracol Industrial Park;
+
+&emsp;&emsp;"(G) promote large and small scale agricultural development in a manner that reduces food insecurity and contributes to economic growth;
+
+&emsp;&emsp;"(H) improve access to potable water, expand public sanitation services, reduce the spread of infectious diseases, and address public health crises;
+
+&emsp;&emsp;"(I) restore the natural resources of Haiti, including enhancing reforestation efforts throughout the country; and
+
+&emsp;&emsp;"(J) gain access to safe, secure, and affordable supplies of energy in order to strengthen economic growth and energy security.
+
+"(c)
+
+Consultation.—In devising the strategy required under subsection (a), the Secretary should—
+
+&emsp;"(1) coordinate with all United States Government departments and agencies carrying out work in Haiti;
+
+&emsp;"(2) consult with the Government of Haiti, including the National Assembly of Haiti, and representatives of private and nongovernmental sectors in Haiti; and
+
+&emsp;"(3) consult with relevant multilateral organizations, multilateral development banks, private sector institutions, nongovernmental organizations, and foreign governments present in Haiti.
+
+"(d)
+
+Briefings.—The Secretary of State, at the request of the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, shall provide a quarterly briefing that reviews progress of the implementation of the strategy required under subsection (a)."
 
 #### United States Security and Assistance Strategies in Africa
 
@@ -460,7 +706,7 @@ Frequency.—Assistance under this subsection may be provided on a quarterly bas
 
 &emsp;"(3)
 
-Certification.—Assistance may be provided under this subsection only if the Secretary of Defense certifies to the specified congressional committees that the Government of Jordan is continuing to support and maintain efforts of the armed forces of Jordan to increase security or sustain increased security along the border between Jordan and Syria.
+Certification.—Assistance may be provided under this subsection only if the Secretary of Defensecertifies to the specified congressional committees that the Government of Jordan is continuing to support and maintain efforts of the armed forces of Jordan to increase security or sustain increased security along the border between Jordan and Syria.
 
 "(b)
 
@@ -590,7 +836,7 @@ Elements.—Each report under subsection (a) shall include the following:
 
 &emsp;&emsp;"(H) Interagency coordination and transition planning.
 
-&emsp;"(3) Strategies and improvements necessary for the Department or the Agency, as applicable, to address reliance on contractors, workforce planning, and the recruitment and training of acquisition workforce personnel, including the anticipated number of personnel needed to perform acquisition management and oversight functions and plans for achieving personnel staffing goals, in connection with overseas contingency operations.
+&emsp;"(3) Strategies and improvements necessary for the Department or the Agency, as applicable, to addressreliance on contractors, workforce planning, and the recruitment and training of acquisition workforce personnel, including the anticipated number of personnel needed to perform acquisition management and oversight functions and plans for achieving personnel staffing goals, in connection with overseas contingency operations.
 
 "(c)
 
@@ -606,7 +852,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 #### Global Security Contingency Fund
 
-Pub. L. 112–81, div. A, title XII, §1207, Dec. 31, 2011, 125 Stat. 1625, as amended by Pub. L. 113–66, div. A, title XII, §1202, Dec. 26, 2013, 127 Stat. 893, provided that:
+Pub. L. 112–81, div. A, title XII, §1207, Dec. 31, 2011, 125 Stat. 1625, as amended by Pub. L. 113–66, div. A, title XII, §1202, Dec. 26, 2013, 127 Stat. 893; Pub. L. 113–291, div. A, title XII, §1201, Dec. 19, 2014, 128 Stat. 3529, provided that:
 
 "(a)
 
@@ -630,7 +876,15 @@ Types of Assistance.—
 
 &emsp;"(1)
 
-Authorized elements.—A program to provide the assistance under subsection (b)(1) may include the provision of equipment, supplies, and training.
+Authorized elements.—A program to provide the assistance under subsection (b)(1) may include the provision of the following:
+
+&emsp;&emsp;"(A) Equipment, including routine maintenance and repair of such equipment.
+
+&emsp;&emsp;"(B) Supplies.
+
+&emsp;&emsp;"(C) With respect to amounts in the Fund appropriated or transferred into the Fund after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\], small-scale construction not exceeding $750,000 on a per-project basis.
+
+&emsp;&emsp;"(D) Training.
 
 &emsp;"(2)
 
@@ -686,7 +940,15 @@ Authority To Accept Gifts.—The Secretary of State may use money, funds, proper
 
 "(i)
 
-Availability of Funds.—Amounts in the Fund shall remain available until September 30, 2015, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date.
+Availability of Funds.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), amounts in the Fund shall remain available until September 30, 2017, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure afterthat date for activities under programs commenced under subsection (b) before that date.
+
+&emsp;"(2)
+
+Exception.—Amounts appropriated and transferred to the Fund before the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\] shall remain available for obligation and expenditure after September 30, 2015, only for activities under programs commenced under subsection (b) before September 30, 2015.
 
 "(j)
 
@@ -712,7 +974,7 @@ Notices to Congress.—Not less than 30 days before initiating an activity under
 
 "(m)
 
-Guidance and Processes for Exercise of Authority.—Not later than 15 days after the date on which guidance and processes for implementation of the authority in subsection (b) have been issued, the Secretary of State and the Secretary of Defense shall jointly submit a report to the specified congressional committees on such guidance and processes. The Secretary of State and Secretary of Defense shall jointly submit additional reports not later than 15 days afterthe date on which any future modifications to the guidance and processes for implementation of the authority in subsection (b) are issued.
+Guidance and Processes for Exercise of Authority.—Not later than 15 days after the date on which guidance and processes for implementation of the authority in subsection (b) have been issued, the Secretary of State and the Secretary of Defense shall jointly submit a report to the specified congressional committees on such guidance and processes. The Secretary of State and Secretary of Defense shall jointly submit additional reports not later than 15 days after the date on which any future modifications to the guidance and processes for implementation of the authority in subsection (b) are issued.
 
 "(n)
 
@@ -732,7 +994,7 @@ Specified Congressional Committees.—In this section, the term 'specified congr
 
 "(p)
 
-Expiration.—The authority under this section may not be exercised after September 30, 2015. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2015."
+Expiration.—The authority under this section may not be exercised after September 30, 2017. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2017 and subject to the requirements contained in paragraphs (1) and (2) of subsection (i)."
 
 #### Lord's Resistance Army Disarmament and Northern Uganda Recovery
 
@@ -840,7 +1102,7 @@ Coordination With Other Donor Nations.—The United States should work with othe
 
 "(d)
 
-Termination of Assistance.—It is the sense of Congress that the Secretary of State should withhold non-humanitarian bilateral assistance to the Republic of Uganda if the Secretary determines that the Government of Uganda is not committed to reconstruction and reconciliation in the war-affected areas of northern Uganda and is not taking proactive steps to ensure this process moves forward in a transparent and accountable manner.
+Termination of Assistance.—It is the sense of Congress that the Secretary of State should withhold non-humanitarian bilateral assistance to the Republicof Uganda if the Secretary determines that the Government of Uganda is not committed to reconstruction and reconciliation in the war-affected areas of northern Uganda and is not taking proactive steps to ensure this process moves forward in a transparent and accountable manner.
 
 #### "SEC. 7. ASSISTANCE FOR RECONCILIATION AND TRANSITIONAL JUSTICE IN NORTHERN UGANDA.
 
@@ -1082,7 +1344,7 @@ Broader Middle East Region Defined.—In this section, the term 'broader Middle 
 
 Repeal.—Section 534(k) of Public Law 109–102 \[119 Stat. 2210\] is repealed."
 
-\[For definition of "appropriate congressional committees" as used in section 2021 of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out below.\]
+\[For definition of "appropriate congressional committees" as used in section 2021 of Pub. L. 110–53, setout above, see section 2002 of Pub. L. 110–53, set out below.\]
 
 #### Democratic Republic of the Congo Relief, Security, and Democracy Promotion
 
@@ -1108,7 +1370,7 @@ Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
 
 &emsp;"(5) The most recent war in the Democratic Republic of the Congo, which erupted in 1998, spawned some of the world's worst human rights atrocities and drew in six neighboring countries.
 
-&emsp;"(6) Despite the conclusion of a peace agreement and subsequent withdrawal of foreign forces in 2003, both the real and perceived presence of armed groupshostile to the Governments of Uganda, Rwanda, and Burundi continue to serve as a major source of regional instability and an apparent pretext for continued interference in the Democratic Republic of the Congo by its neighbors.
+&emsp;"(6) Despite the conclusion of a peace agreement and subsequent withdrawal of foreign forces in 2003, both the real and perceived presence of armed groups hostile to the Governments of Uganda, Rwanda, and Burundi continue to serve as a major source of regional instability and an apparent pretext for continued interference in the Democratic Republic of the Congo by its neighbors.
 
 &emsp;"(7) A mortality study completed in December 2004 by the International Rescue Committee found that 31,000 people were dying monthly and 3,800,000 people had died in the previous six years because of the conflict in the Democratic Republic of the Congo and resulting disintegration of the social service infrastructure, making this one of the deadliest conflicts since World War II.
 
@@ -1146,7 +1408,7 @@ Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
 
 &emsp;&emsp;&emsp;"(iii) to implement the Extractive Industries Transparency Initiative by enacting laws requiring disclosure and independent auditing of company payments and government receipts for natural resource extraction;
 
-&emsp;"(9) to promote a viable civil society and to enhance nongovernmental organizations and institutions, including religious organizations, the media, political parties, trade unions, and trade and business associations, that can act as a stabilizing force and effective check on the government;
+&emsp;"(9) to promote a viable civil society and to enhance nongovernmental organizations and institutions, including religious organizations, the media, political parties, trade unions, and trade and businessassociations, that can act as a stabilizing force and effective check on the government;
 
 &emsp;"(10) to help rebuild and enhance infrastructure, communications, and other mechanisms that will increase the ability of the central government to manage internal affairs, encourage economic development, and facilitate relief efforts of humanitarian organizations;
 
@@ -1226,7 +1488,7 @@ Contents.—The report required under subsection (a) shall include—
 
 #### "SEC. 107. SPECIAL ENVOY FOR THE GREAT LAKES REGION.
 
-"Not later than 60 days after the date of the enactment of this Act \[Dec. 22, 2006\], the President should appoint a Special Envoy for the Great Lakes Region to help coordinate efforts to resolve the instability and insecurity in Eastern Congo.
+"Not later than 60 days after the date of the enactment of this Act \[Dec. 22, 2006\], the President should appoint a Special Envoy for the Great Lakes Region tohelp coordinate efforts to resolve the instability and insecurity in Eastern Congo.
 
 #### "TITLE II—MULTILATERAL ACTIONS TO ADDRESS URGENT NEEDS IN THE DEMOCRATIC REPUBLIC OF THE CONGO
 
@@ -1254,7 +1516,7 @@ Contents.—The report required under subsection (a) shall include—
 
 &emsp;"(5) to ensure that the practice of recruiting and arming children in the Democratic Republic of the Congo is immediately halted pursuant to Security Council Resolutions 1460 (2003) and 1539 (2004);
 
-&emsp;"(6) to strengthen the arms embargo imposed pursuant to Security Council Resolution 1493 (2003) and ensure that violators are held accountable throughappropriate measures, including the possible imposition of sanctions;
+&emsp;"(6) to strengthen the arms embargo imposed pursuant to Security Council Resolution 1493 (2003) and ensure that violators are held accountable through appropriate measures, including the possible imposition of sanctions;
 
 &emsp;"(7) to allow for the more effective protection and monitoring of natural resources in the Democratic Republic of the Congo, especially in the eastern part of the country, and for public disclosure and independent auditing of natural resource revenues to help ensure transparent and accountable management of these revenues;
 
@@ -1366,7 +1628,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(1) On June 24, 2002, President Bush stated 'Syria must choose the right side in the war on terror by closing terrorist camps and expelling terrorist organizations'.
 
-&emsp;"(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states 'refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts', take 'the necessary steps to prevent the commission of terrorist acts', and 'deny safe haven tothose who finance, plan, support, or commit terrorist acts'.
+&emsp;"(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states 'refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts', take 'the necessary steps to prevent the commission of terrorist acts', and 'deny safe haven to those who finance, plan, support, or commit terrorist acts'.
 
 &emsp;"(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) and other relevant provisions of law.
 
@@ -1534,7 +1796,7 @@ Certification.—A certification under this subsection is a certification transm
 
 "(a)
 
-Report.—Not later than 6 months after the date of the enactment of this Act \[Dec. 12, 2003\], and every 12 months thereafter until the conditions described in paragraphs (1) through (4) of section 5(d) are satisfied, the Secretary of State shall submit to the appropriate congressional committees a report on—
+Report.—Not later than 6 months after the date of the enactment of this Act \[Dec. 12, 2003\], and every12 months thereafter until the conditions described in paragraphs (1) through (4) of section 5(d) are satisfied, the Secretary of State shall submit to the appropriate congressional committees a report on—
 
 &emsp;"(1) Syria's progress toward meeting the conditions described in paragraphs (1) through (4) of section 5(d);
 
@@ -1754,6 +2016,10 @@ Supersedes Other Laws.—The authority in this section supersedes any other prov
 
 Provisions similar to those contained in section 4(c) of Pub. L. 107–99, set out above, were contained in the following appropriation acts:
 
+Pub. L. 113–235, div. J, title VII, §7042(m)(1), Dec. 16, 2014, 128 Stat. 2644.
+
+Pub. L. 113–76, div. K, title VII, §7042(n)(1), Jan. 17, 2014, 128 Stat. 532.
+
 Pub. L. 112–74, div. I, title VII, §7043(j)(1), Dec. 23, 2011, 125 Stat. 1230.
 
 Pub. L. 111–117, div. F, title VII, §7070(i)(1), Dec. 16, 2009, 123 Stat. 3388.
@@ -1850,7 +2116,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(7) Excessive military expenditures threaten political and economic stability in Africa while diverting scarce resources from development needs. Demobilization and other measures to reduce the size of African armies, and civilian control of the military under the rule of law are in the interest of international security and economic development.
 
-&emsp;"(8) Conflict prevention, mediation, and demobilization are prerequisites to the success of developmentassistance programs. Nutrition and education programs, for example, cannot succeed in a nation at war. Billions of dollars of development assistance have been virtually wasted in war-ravaged countries such as Liberia, Somalia, and Sudan.
+&emsp;"(8) Conflict prevention, mediation, and demobilization are prerequisites to the success of development assistance programs. Nutrition and education programs, for example, cannot succeed in a nation at war. Billions of dollars of development assistance have been virtually wasted in war-ravaged countries such as Liberia, Somalia, and Sudan.
 
 &emsp;"(9) Africans have a long tradition of informal mediation. This tradition should be built upon to create effective institutions through which Africans can resolve African conflicts.
 
@@ -1910,7 +2176,7 @@ Authorization of Assistance.—In order to facilitate reductions in the size of 
 
 &emsp;"(1) provide assistance for the encampment and related activities for the purpose of demobilization of such forces; and
 
-&emsp;"(2) provide assistance for the reintegration of demobilized military personnel into civilian society through activities such as retraining for civilian occupations, creation of income-generating opportunities, their reintegration into agricultural activities, and the transportation to the home areas of such personnel.
+&emsp;"(2) provide assistance for the reintegration of demobilized military personnel into civilian societythrough activities such as retraining for civilian occupations, creation of income-generating opportunities, their reintegration into agricultural activities, and the transportation to the home areas of such personnel.
 
 "(b)
 
@@ -2046,7 +2312,7 @@ Trade and development agency.—The President shall suspend the obligation of fu
 
 &emsp;"(3)
 
-Munitions export licenses.—(A) The issuance of licenses under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\] for the export to the People's Republic of China of any defense article on the United States Munitions List, including helicoptersand helicopter parts, shall continue to be suspended, subject to subparagraph (B), unless the President makes a report under subsection (b)(1) or (2) of this section.
+Munitions export licenses.—(A) The issuance of licenses under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\] for the export to the People's Republic of China of any defense article on the United States Munitions List, including helicopters and helicopter parts, shall continue to be suspended, subject to subparagraph (B), unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;"(B) The suspension set forth in subparagraph (A) shall not apply to systems and components designed specifically for inclusion in civil products and controlled as defense articles only for purposes of export to a controlled country, unless the President determines that the intended recipient of such items is the military or security forces of the People's Republic of China.
 
@@ -2090,7 +2356,7 @@ Liberalization of export controls.—(A) The President shall negotiate with the 
 
 &emsp;&emsp;"(ii) the raising of the performance levels of goods or technology below which no authority or permission to export to the People's Republic of China would be required.
 
-&emsp;"(B) The President shall oppose any liberalization by the Coordinating Committee of controls which is described in subparagraph (A)(ii), until the end of the 6-month period beginning on the date of enactment of this Act \[Feb. 16, 1990\] or until the President makes a report under subsection (b)(1) or (2) of this section, whichever occurs first.
+&emsp;"(B) The President shall oppose any liberalization by the Coordinating Committee of controls which is described in subparagraph (A)(ii), until the end of the 6-month period beginning on the date of enactment ofthis Act \[Feb. 16, 1990\] or until the President makes a report under subsection (b)(1) or (2) of this section, whichever occurs first.
 
 "(b)
 
@@ -2192,7 +2458,7 @@ Pub. L. 93–189, §40, Dec. 18, 1973, 87 Stat. 736, provided that: "Effective J
 
 #### Religious Freedom and Persecution
 
-Pub. L. 88–633, pt. V, §501, Oct. 7, 1964, 78 Stat. 1015, provided that: "It is the sense of the Congress that the United States deeply believes in the freedom of religion for all people and is opposed to infringement of this freedom anywhere in the world. The Congress condemns the persecution of any persons because of theirreligion. It is further the sense of Congress that all persons should be permitted the free exercise of religion and the pursuit of their culture."
+Pub. L. 88–633, pt. V, §501, Oct. 7, 1964, 78 Stat. 1015, provided that: "It is the sense of the Congress that the United States deeply believes in the freedom of religion for all people and is opposed to infringement of this freedom anywhere in the world. The Congress condemns the persecution of any persons because of their religion. It is further the sense of Congress that all persons should be permitted the free exercise of religion and the pursuit of their culture."
 
 #### Communist Regime in China
 
@@ -2264,7 +2530,7 @@ Section 1. <i>Policy</i>. (a) The United States recognizes that promoting women'
 
 (c) It shall be the policy and practice of the executive branch of the United States to have a National Action Plan on Women, Peace, and Security (National Action Plan).
 
-Sec. 2. <i>National Action Plan</i>. A National Action Plan shall be created pursuant to the process outlined in Presidential Policy Directive 1 and shall identify and develop activities and initiatives in the following areas:
+Sec. 2. <i>National Action Plan</i>. A National Action Plan shall be created pursuant to the process outlined in Presidential Policy Directive 1 and shall identify anddevelop activities and initiatives in the following areas:
 
 (a) <i>National integration and institutionalization</i>. Through interagency coordination, policy development, enhanced professional training and education, and evaluation, the United States Government will institutionalize a gender-responsive approach to its diplomatic, development, and defense-related work in conflict-affected environments.
 
@@ -2374,6 +2640,8 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
+
 #### Extension of Term of President's Global Development Council
 
 Term of President's Global Development Council extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
@@ -2390,7 +2658,7 @@ Section 1. <i>Policy</i>. (a) Recognizing that gender-based violence undermines 
 
 (c) Preventing and responding to gender-based violence is a cornerstone of my Administration's commitment to advance gender equality and women's empowerment. Such violence significantly hinders the ability of individuals to fully participate in, and contribute to, their communities—economically, politically, and socially. It is a human rights violation or abuse; a public health challenge; and a barrier to civic, social, political, and economic participation. It is associated with adverse health outcomes, limited access to education, increased costs relating to medical and legal services, lost household productivity, and reduced income, and there is evidence it is exacerbated in times of crisis, such as emergencies, natural disasters, and violent conflicts.
 
-(d) The executive branch multi-year strategy for preventing and responding to gender-based violence is set forth in the United States Strategy to Prevent and Respond to Gender-based Violence Globally (Strategy). The Strategy both responds to and expands upon the request in section 7061 of House conference report 112–331 accompanying the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2012 (Division I of Public Law 112–74), for the executive branch to develop a multi-year strategy to prevent and respond to violence against women and girls in countries where it is common.
+(d) The executive branch multi-year strategy for preventing and responding to gender-based violence is set forth in the United States Strategy to Prevent and Respond to Gender-based Violence Globally (Strategy). The Strategy both responds to and expands upon the request in section 7061 of House conference report 112–331 accompanying the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2012\(Division I of Public Law 112–74), for the executive branch to develop a multi-year strategy to prevent and respond to violence against women and girls in countries where it is common.
 
 Sec. 2. <i>Creating an Interagency Working Group</i>. There is established an Interagency Working Group (Working Group) to address gender-based violence, which shall coordinate implementation of the Strategy by the executive departments and agencies that are members of the Working Group (member agencies) in accordance with the priorities set forth in section 3 of this order.
 
@@ -2464,6 +2732,124 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
+
+#### Ex. Ord. No. 13677. Climate-Resilient International Development
+
+Ex. Ord. No. 13677, Sept. 23, 2014, 79 F.R. 58231, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to safeguard security and economicgrowth, protect the sustainability and long-term durability of U.S. development work in vulnerable countries, and promote sound decisionmaking and risk management, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The world must reduce greenhouse gas emissions to prevent the most dangerous consequences of climate change. Even with increased efforts to curb these emissions, we must prepare for and adapt to the impacts of climate change. The adverse impacts of climate change, including sea-level rise, increases in temperatures, more frequent extreme precipitation and heat events, more severe droughts, and increased wildfire activity, along with other impacts of greenhouse gas emissions, such as ocean acidification, threaten to roll back decades of progress in reducing poverty and improving economic growth in vulnerable countries, compromise the effectiveness and resilience of U.S. development assistance, degrade security, and risk intranational and international conflict over resources.
+
+Executive Order 13514 of October 5, 2009 (Federal Leadership in Environmental, Energy, and Economic Performance), and Executive Order 13653 of November 1, 2013 (Preparing the United States for the Impacts of Climate Change), established a strong foundation for coordinated and consistent action to incorporate climate-resilience considerations into policies and procedures throughout the Federal Government. Executive departments and agencies (agencies) with international development programs must now build upon the recent progress made pursuant to these orders by systematically factoring climate-resilience considerations into international development strategies, planning, programming, investments, and related funding decisions, including the planning for and management of overseas facilities.
+
+This order requires the integration of climate-resilience considerations into all United States international development work to the extent permitted by law. Dedicated U.S. climate-change adaptation funds are critical to managing the risks posed by climate-change impacts in vulnerable countries. Coping with the magnitude of the consequences of accelerating climate change also requires enhanced efforts across the Federal Government's broader international development work. Consideration of current and future climate-change impacts will improve the resilience of the Federal Government's broader international development programs, projects, investments, overseas facilities, and related funding decisions. The United States will also promote a similar approach among relevant multilateral entities in which it participates.
+
+By taking these steps and more fully considering current and future climate-change impacts, the United States will foster better decision-making processes and risk-management approaches, ensure the effectiveness of U.S. investments, and assist other countries in integrating climate-resilience considerations into their own development planning and implementation. Collectively, these efforts will help to better optimize broader international development work and lead to enhanced global preparedness for and resilience to climate change.
+
+The international climate-resilience actions required by this order complement efforts by the Federal Government to reduce greenhouse gas emissions at home and globally. The more greenhouse gas emissions are reduced, the less need there will be to adapt to the impacts of a changing climate.
+
+Sec. 2. <i>Incorporating Climate Resilience into International Development</i>. (a) Agencies with direct international development programs and investments shall:
+
+(i) incorporate climate-resilience considerations into decisionmaking by:
+
+(A) assessing and evaluating climate-related risks to and vulnerabilities in agency strategies, planning, programs, projects, investments, overseas facilities, and related funding decisions, using best-available climate-change data, tools, and information, including those identified or developed pursuant to sections 3 and 4 of this order; and
+
+(B) as appropriate, adjusting strategies, planning, programs, projects, investments, and related funding decisions, including the planning for and management of overseas facilities, based on such assessments and evaluations;
+
+(ii) collaborate with other agencies to share knowledge, data, tools, information, frameworks, and lessons learned in incorporating climate-resilience considerations into agency strategy, planning, programs, projects, investments, and related funding decisions, including the planning for and management of overseas facilities;
+
+(iii) work with other countries, as appropriate, to identify climate risks and incorporate climate-resilience considerations into their international development assistance efforts;
+
+(iv) when determining how to use resources, support efforts of vulnerable countries to integrate climate-resilience considerations into national, regional, and sectoral development planning and action; and
+
+(v) monitor progress in integrating and promoting climate-resilient development considerations as required by this subsection.
+
+(b) Agencies that participate in multilateral entities and other agencies with representation in multilateral development entities, including multilateral development banks and United Nations organizations, shall, as appropriate:
+
+(i) work to encourage multilateral entities to:
+
+(A) assess and evaluate climate-related risks to and vulnerabilities in their strategies, planning, programs, projects, investments, and related funding decisions, using best-available climate-change data, tools, and information; and
+
+(B) adjust their strategies, planning, programs, projects, investments, and related funding decisions, as appropriate, based on such assessments and evaluations;
+
+(ii) collaborate with multilateral entities and share with agencies and other stakeholders knowledge, data, tools, information, frameworks, and lessons learned from the multilateral entities in incorporating climate-resilience considerations into strategies, planning, programs, projects, investments, and related funding decisions;
+
+(iii) encourage multilateral entities to support efforts of vulnerable countries to integrate climate-resilience considerations into national, regional, and sectoral development planning and action; and
+
+(iv) monitor the efforts of multilateral entities in integrating climate-resilient development considerations as encouraged by this order.
+
+Sec. 3. <i>Enhancing Data, Tools, and Information for Climate-Resilient International Development</i>. Agencies with direct international development programs and investments and those that participate in multilateral entities shall work together with science and security agencies and entities, through the Working Group on Climate-Resilient International Development established in section 4 of this order, to identify and develop, as appropriate, data, decision-support tools, and information to allow the screening for and incorporation of considerations of climate-change risks and vulnerabilities, as appropriate, in strategies, plans, programs, projects, investments, and related funding decisions, including the planning for and management of overseas facilities. In addition, such agencies shall coordinate efforts, including those undertaken pursuant to Executive Order 13653, to deliver information on climate-change impacts and make data, tools, and information available to decisionmakers in other countries, so as to build their capacity as information providers and users. United States participants in relevant multilateral entities shall share this information with the respective multilateral entity, as appropriate.
+
+Sec. 4. <i>Working Group on Climate-Resilient International Development</i>. (a) <i>Establishment</i>. There is established a Working Group on Climate-Resilient International Development (Working Group) of the Council on Climate Preparedness and Resilience (Council) established by Executive Order 13653. The Secretary of the Treasury and the Administrator of the United States Agency for International Development, or their designees, shall co-chair the Working Group. Agencies with direct international development programs and investments, agencies that participate in multilateral entities, and science and security agencies and entities shall designate a representative from their respective agencies or entities to participate in the Working Group. Representatives from other agencies or entities may participate in the Working Group as determined by the Co-Chairs.
+
+(b) <i>Mission and Function</i>.
+
+(i) The Working Group shall:
+
+(A) develop, for agencies with direct international development programs and investments, guidelines for integrating considerations of climate-change risks and climate resilience into agency strategies, plans, programs, projects, investments, and related funding decisions, including the planning for and management of overseas facilities;
+
+(B) assess and identify, for agencies with direct international development programs and investments, existing climate-change data, tools, and information, as described in section 3 of this order, to help agencies assess climate risks and make decisions that incorporate climate-resilience considerations, such as through project screening. To the extent the Working Group identifies needs for new data, tools, and information, it shall work with relevant science and security agencies and entities to advance their development, as appropriate;
+
+(C) identify approaches for adjusting strategies, planning, programs, projects, investments, and related funding decisions, including the planning for and management of overseas facilities, to respond to the findings of climate-risk assessments;
+
+(D) facilitate the exchange of knowledge, data, tools, information, frameworks, and lessons learned in assessing climate risks to and incorporating climate-resilience considerations into strategies, planning, programs, projects, investments, and related funding decisions, including the planning for and management of overseas facilities, of agencies with direct international development programs and investments, including efforts referenced in section 3 of this order;
+
+(E) work through existing channels to share best practices developed by the Working Group with other donor countries and multilateral entities to facilitate advancement of climate-resilient development policies;
+
+(F) promote interagency collaboration, including through joint training; and
+
+(G) develop, for agencies with direct international development programs and investments, methods for tracking and reporting on Federal Government progress in institutionalizing more climate-resilient development approaches, including performance metrics.
+
+(ii) The Co-Chairs of the Council may designate additional Co-Chairs of the Working Group. The Co-Chairs of the Working Group may establish sub-working groups, as appropriate.
+
+Sec. 5. <i>Implementation and Reporting of Progress</i>. (a) <i>Implementation</i>. To promote sustained focus on implementation, both at agency headquarters and in the field, the Working Group shall:
+
+(i) establish a 2-year timeline, divided into 6-month intervals, to implement section 4(b)(i) of this order, setting forth specific goals to be accomplished and milestones to be achieved; and
+
+(ii) analyze, at least annually, the Federal Government's progress in implementing this order and provide recommendations for priority areas for further implementation to the Council, Office of Management and Budget, National Security Council, Council on Environmental Quality, Office of Science and Technology Policy, and other agencies, offices, and entities, as appropriate.
+
+(b) <i>Reporting</i>.
+
+(i) Agencies with direct international development programs and investments shall report on and track progress in achieving the requirements identified in section 2(a) of this order, including accomplished and planned milestones, through the Federal Agency Planning process set forth in section 5 of Executive Order 13653. Once the Working Group has developed metrics and methodologies as required by section 4(b)(i)(G) of this order, agency reporting shall include an estimation of the proportion of each agency's direct international development programs and investments for which climate-risk assessments have been conducted, as well as an estimation of the proportion of the programs and investments for which climate risk was identified and acted upon.
+
+(ii) Agencies that participate in multilateral entities shall report on the efforts of multilateral entities in integrating climate-resilient development considerations into their operations through the Federal Agency Planning process set forth in section 5 of Executive Order 13653. Where more than one agency is involved in the U.S. Government's participation in a multilateral entity, the lead agency for such participation shall be responsible for reporting, in coordination with the other agencies involved.
+
+Sec. 6. <i>Climate-Change Mitigation</i>. As agencies incorporate climate-resilience considerations into international development work, they shall continue seeking opportunities to help international partners promote sustainable low-emissions development. The Federal Government has greatly increased the number and variety of international development initiatives focused on climate-change mitigation, including programs to promote clean energy, energy efficiency, and sustainable land-use and forestry practices, as well as partnerships with more than two dozen countries to formulate and implement sustainable low-emissions development strategies. Within 1 year of the date of this order, and building on the full range of efforts the United States has undertaken to date, the National Security Council shall convene relevant agencies and entities to explore further mitigation opportunities in broader U.S. international development work and develop recommendations for further action.
+
+Sec. 7. <i>Definitions</i>. As used in this order:
+
+(a) "Adaptation" has the meaning provided in section 8(b) of Executive Order 13653: adjustment in natural or human systems in anticipation of or response to a changing environment in a way that effectively uses beneficial opportunities or reduces negative effects;
+
+(b) "Direct international development programs and investments" refers to:
+
+(i) bilateral, regional, and multilateral international development programs and investments over which agencies have primary programmatic and financial management responsibilities; or
+
+(ii) the extension of official financing by agencies bilaterally to private sector investors to support international development;
+
+(c) "Climate-change mitigation" refers to actions that reduce or enhance removals of greenhouse gas emissions;
+
+(d) "Resilience" has the meaning provided in section 8(c) of Executive Order 13653: the ability to anticipate, prepare for, and adapt to changing conditions and withstand, respond to, and recover rapidly from disruptions;
+
+(e) "Agencies with direct international development programs and investments" means the Department of State, Department of Agriculture, Department of the Interior, United States Agency for International Development, Millennium Challenge Corporation, Overseas Private Investment Corporation, United States Trade and Development Agency, and other relevant agencies and entities, as determined by the Working Group Co-Chairs;
+
+(f) "Science and security agencies and entities" means the Department of the Interior, Department of Energy, Office of Science and Technology Policy, National Oceanic and Atmospheric Administration, National Aeronautics and Space Administration, United States Global Change Research Program, Office of the Director of National Intelligence, and other relevantagencies and entities, as determined by the Working Group Co-Chairs; and
+
+(g) "Agencies that participate in multilateral entities" means the Department of the Treasury, Department of State, and other relevant agencies and entities, as determined by the Working Group Co-Chairs.
+
+Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law or Executive Order to an executive department, agency, or head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with U.S. obligations under international agreements and applicable U.S. law, and shall be subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Coordination of Policies and Programs To Promote Gender Equality and Empower Women and Girls Globally
 
 Memorandum of President of the United States, Jan. 30, 2013, 78 F.R. 7989, provided:
@@ -2478,7 +2864,7 @@ To elevate and integrate this strategic focus on the promotion of gender equalit
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to further strengthen the capacity of the Federal Government to ensure that U.S. diplomacy and foreign assistance promote gender equality and advance the status of women and girls worldwide, I hereby direct the following:
 
-Section 1. <i>Strengthening Capacity and Coordination to Promote Gender Equality and Advance the Status of Women and Girls Internationally</i>. (a) Enhancing U.S. global leadership on gender equality requires dedicated resources, personnel with appropriate expertise in advancing the status of women and girls worldwide, and commitment from senior leadership, as exemplified by the critical and historic role played by the Office of Global Women's Issues at the Department of State. To assure maximum coordination of efforts to promote gender equality and advance the status of women and girls, the Secretary of State (Secretary) shall designate a coordinator (Coordinator), who will normally also be appointed by the President as an Ambassador at Large (Ambassador at Large) subject to the advice and consent of the Senate. The Ambassador at Large, who shallreport directly to the Secretary of State, shall lead the Office of Global Women's Issues at the Department of State and provide advice and assistance on issues related to promoting gender equality and advancing the status of women and girls internationally.
+Section 1. <i>Strengthening Capacity and Coordination to Promote Gender Equality and Advance the Status of Women and Girls Internationally</i>. (a) Enhancing U.S. global leadership on gender equality requires dedicated resources, personnel with appropriate expertise in advancing the status of women and girls worldwide, and commitment from senior leadership, as exemplified by the critical and historic role played by the Office of Global Women's Issues at the Department of State. To assure maximum coordination of efforts to promote gender equality and advance the status of women and girls, the Secretary of State (Secretary) shall designate a coordinator (Coordinator), who will normally also be appointed by the President as an Ambassador at Large (Ambassador at Large) subject to the advice and consent of the Senate. The Ambassador at Large, who shall report directly to the Secretary of State, shall lead the Office of Global Women's Issues at the Department of State and provide advice and assistance on issues related to promoting gender equality and advancing the status of women and girls internationally.
 
 (b) The Ambassador at Large shall, to the extent the Secretary may direct and consistent with applicable law, provide guidance and coordination with respect to global policies and programs for women and girls, and shall lead efforts to promote an international focus on gender equality more broadly, including through diplomatic initiatives with other countries and partnerships and enhanced coordination with international and nongovernmental organizations and the private sector. To this end, the Ambassador at Large shall also, to the extent the Secretary may direct, assist in:
 

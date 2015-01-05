@@ -2,7 +2,7 @@
 
 #### (a) Limitation on number of applications by units of local government and public care institutions; submittal to State energy agency
 
-Applications of units of local government and public care institutions for grants for technical assistance under this part shall be made notmore than once for any fiscal year. Such applications shall be submitted to the State energy agency and the State energy agency shall make a single submittal to the Secretary containing all applications which comply with the State plan.
+Applications of units of local government and public care institutions for grants for technical assistance under this part shall be made not more than once for any fiscal year. Such applications shall be submitted to the State energy agency and the State energy agency shall make a single submittal to the Secretary containing all applications which comply with the State plan.
 
 #### (b) Required information
 

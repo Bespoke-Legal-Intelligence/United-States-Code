@@ -6,7 +6,7 @@ Within the boundaries of Virgin Islands National Park as established and adjuste
 
 #### (b) Employment and training of residents to develop, etc., area
 
-The Secretary is authorized and directed to the maximum extent feasible to employ and train residents of the Virgin Islands to develop, maintain, and administer the Virgin Islands National Park.
+The Secretary is authorized and directed to the maximum extent feasible to employ andtrain residents of the Virgin Islands to develop, maintain, and administer the Virgin Islands National Park.
 
 #### (c) Payment requirements for acquisition of Hassel Island from United States
 
@@ -68,7 +68,7 @@ Acquisitions.—The Secretary may—
 
 &emsp;"(3)
 
-Authority.—Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of section 3 of Public Law 91–383 (16 U.S.C. 1a–2(k)), notwithstanding paragraph (2) of that subsection.
+Authority.—Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of section 3 of Public Law 91–383 (\[former\] 16 U.S.C. 1a–2(k)) \[see 54 U.S.C. 102102\], notwithstanding paragraph (2) of that subsection.
 
 &emsp;"(4)
 
@@ -92,7 +92,7 @@ Terms and conditions.—A lease authorized under this section shall—
 
 &emsp;"(5)
 
-Rental amounts.—In determining the fair market value rental of the lease required under section 3(k)(4) of Public Law 91–383 (16 U.S.C. 1a–2(k)(4)), the Secretary shall take into consideration—
+Rental amounts.—In determining the fair market value rental of the lease required under section 3(k)(4) of Public Law 91–383 (\[former\] 16 U.S.C. 1a–2(k)(4)) \[see 54 U.S.C. 102102\], the Secretary shall take into consideration—
 
 &emsp;&emsp;"(A) the value of any associated property conveyed to the United States; and
 
@@ -100,7 +100,7 @@ Rental amounts.—In determining the fair market value rental of the lease requi
 
 &emsp;"(6)
 
-Use of proceeds.—Rental amounts paid to the United States under a lease shall be available to the Secretary, without further appropriation, for visitor services and resource protection within the Park.
+Use of proceeds.—Rental amounts paid to the United States under a lease shall be available to theSecretary, without further appropriation, for visitor services and resource protection within the Park.
 
 &emsp;"(7)
 
@@ -112,7 +112,7 @@ Renewal.—A lease entered into under this section may not be extended or renewe
 
 &emsp;"(9)
 
-Termination.—Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5951 et seq.).
+Termination.—Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 (\[former\] 16 U.S.C. 5951 et seq.) \[enacting former sections 5951 to 5966 of this title, which were repealed and restated in sections 101911 et seq. and 101524 of Title 54, National Park Service and Related Programs, amending former sections 1a–7 and 3 of this title, repealing section 17b–1 and subchapter IV of chapter 1 of this title, and enacting provisions set out as notes under sections 100101, 101911, and 101912 of Title 54\].
 
 "(c)
 

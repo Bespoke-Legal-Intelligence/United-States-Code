@@ -32,3 +32,4 @@
 - [&sect; 01935 - Down payment loan program](%C2%A7%2001935%20-%20Down%20payment%20loan%20program.md)
 - [&sect; 01936 - Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program](%C2%A7%2001936%20-%20Beginning%20farmer%20or%20rancher%20and%20socially%20disadvantaged%20farmer%20or%20rancher%20contract%20land%20sales%20program.md)
 - [&sect; 01936a - Use of rural development loans and grants for other purposes](%C2%A7%2001936a%20-%20Use%20of%20rural%20development%20loans%20and%20grants%20for%20other%20purposes.md)
+- [&sect; 01936b - Intermediary relending program](%C2%A7%2001936b%20-%20Intermediary%20relending%20program.md)

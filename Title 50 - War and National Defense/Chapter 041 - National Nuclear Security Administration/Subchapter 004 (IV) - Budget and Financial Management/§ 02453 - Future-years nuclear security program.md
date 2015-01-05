@@ -58,7 +58,7 @@ Each future-years nuclear security program shall contain the following:
 
 Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c) of this section.
 
-(Pub. L. 106–65, div. C, title XXXII, §3253, Oct. 5, 1999, 113 Stat. 966; Pub. L. 106–398, §1 \[div. C, title XXXI, §3154\], Oct. 30, 2000, 114 Stat. 1654, 1654A–465; Pub. L. 109–364, div. C, title XXXI, §3111(b), Oct. 17, 2006, 120 Stat. 2503; Pub. L.110–181, div. C, title XXXI, §3123, Jan. 28, 2008, 122 Stat. 580; Pub. L. 112–239, div. C, title XXXI, §3132(a)(1), (d)(2), Jan. 2, 2013, 126 Stat. 2185, 2187; Pub. L. 113–66, div. C, title XXXI, §3145(f), Dec. 26, 2013, 127 Stat. 1071.)
+(Pub. L. 106–65, div. C, title XXXII, §3253, Oct. 5, 1999, 113 Stat. 966; Pub. L. 106–398, §1 \[div. C, title XXXI, §3154\], Oct. 30, 2000, 114 Stat. 1654, 1654A–465; Pub. L. 109–364, div. C, title XXXI, §3111(b), Oct. 17, 2006, 120 Stat. 2503; Pub. L. 110–181, div. C, title XXXI, §3123, Jan. 28, 2008, 122 Stat. 580; Pub. L. 112–239, div. C, title XXXI, §3132(a)(1), (d)(2), Jan. 2, 2013, 126 Stat. 2185, 2187; Pub. L. 113–66, div. C, title XXXI, §3145(f), Dec. 26, 2013, 127 Stat. 1071.)
 
 #### Amendments
 
@@ -84,7 +84,7 @@ Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(2)\], redesi
 
 #### Technical Base and Facilities Maintenance and Recapitalization Activities
 
-Pub. L. 108–136, div. C, title XXXI, §3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C, title XXXI, §3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3112, Oct. 17, 2006, 120 Stat. 2503, provided that:
+Pub. L. 108–136, div. C, title XXXI, §3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C,title XXXI, §3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3112, Oct. 17, 2006, 120 Stat. 2503, provided that:
 
 "(a)
 
@@ -130,7 +130,7 @@ Readiness in Technical Base and Facilities Program.—(1) Not later than Septemb
 
 Operations of Facilities Program.—(1) The Administrator shall continue the Operations of Facilities program of the National Nuclear Security Administration as a subprogram within the Readiness in Technical Base and Facilities program.
 
-"(2) The Deputy Administrator for Defense Programs shall designate a single manager to be responsible foroverseeing the operations of the Operations of Facilities subprogram within the Readiness in Technical Base and Facilities program.
+"(2) The Deputy Administrator for Defense Programs shall designate a single manager to be responsible for overseeing the operations of the Operations of Facilities subprogram within the Readiness in Technical Base and Facilities program.
 
 "(3) For fiscal year 2005, and for each fiscal year thereafter, the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\], together with the budget justification materials submitted to Congress in support of the National Nuclear Security Administration budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), a separate statement of the amounts requested for such fiscal year for each element of the Operations of Facilities subprogram, as follows:
 

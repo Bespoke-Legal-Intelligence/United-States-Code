@@ -80,7 +80,7 @@
 
 #### (4) Research exception
 
-&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, thata participant or beneficiary undergo a genetic test if each of the following conditions is met:
+&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
 
 &emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
@@ -114,7 +114,7 @@
 
 The provisions of subsections (a)(1)(F), (b)(3), (c), and (d) and subsection (b)(1) and section 9801 with respect to genetic information, shall apply to group health plans without regard to section 9831(a)(2).
 
-#### (f) <sup>1</sup> Special rules for church plans
+#### (f) Special rules for church plans
 
 A church plan (as defined in section 414(e)) shall not be treated as failing to meet the requirements of this section solely because such plan requires evidence of good health for coverage of—
 
@@ -124,7 +124,7 @@ A church plan (as defined in section 414(e)) shall not be treated as failing to 
 
 > This subsection shall apply to a plan for any year only if the plan included the provisions described in the preceding sentence on July 15, 1997, and at all times thereafter before the beginning of such year.
 
-#### (f) <sup>1</sup> Genetic information of a fetus or embryo
+#### (g) Genetic information of a fetus or embryo
 
 Any reference in this chapter to genetic information concerning an individual or family member of an individual shall—
 
@@ -132,7 +132,7 @@ Any reference in this chapter to genetic information concerning an individual or
 
 &emsp;(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2078; amended Pub. L. 105–34, title XV, §1532(a), Aug. 5, 1997, 111 Stat. 1085; Pub. L. 110–233, title I, §103(a)–(c), May 21, 2008, 122 Stat. 896, 897.)
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2078; amended Pub. L. 105–34, title XV, §1532(a), Aug. 5, 1997, 111 Stat. 1085; Pub. L. 110–233, title I, §103(a)–(c), May 21, 2008, 122 Stat. 896, 897; Pub. L. 113–295, div. A, title II, §220(aa), Dec. 19, 2014, 128 Stat. 4037.)
 
 #### References in Text
 
@@ -141,6 +141,8 @@ The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935,
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(A), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2014</b>—Subsecs. (f), (g). Pub. L. 113–295 redesignated subsec. (f) relating to genetic information of a fetus or embryo as (g).
 
 <b>2008</b>—Subsec. (b)(2)(A). Pub. L. 110–233, §103(a)(1), inserted "except as provided in paragraph (3)" before semicolon.
 
@@ -165,6 +167,4 @@ Pub. L. 105–34, title XV, §1532(b), Aug. 5, 1997, 111 Stat. 1085, provided th
 #### Regulations
 
 Pub. L. 110–233, title I, §103(f)(1), May 21, 2008, 122 Stat. 899, provided that: "The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[enacting section 9834 of this title and amending this section and section 9832 of this title\]."
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
 

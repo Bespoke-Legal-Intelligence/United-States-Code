@@ -30,5 +30,5 @@ The Secretary may not accept a gift under this section if the Secretary determin
 
 (Pub. L. 107–296, title V, §525, as added Pub. L. 111–245, §2(a)(1), Sept. 30, 2010, 124 Stat. 2620.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “publicly”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "publicly".</i>
 

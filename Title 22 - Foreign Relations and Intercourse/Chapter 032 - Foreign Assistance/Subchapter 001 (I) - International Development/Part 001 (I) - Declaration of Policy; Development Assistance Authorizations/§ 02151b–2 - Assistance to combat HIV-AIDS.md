@@ -66,7 +66,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (d) Activities supported
 
-Assistance provided under subsection (c) of this section shall, to the maximum extent practicable, be used to carry out the following activities:
+Assistance provided under subsection (c) shall, to the maximum extent practicable, be used to carry out the following activities:
 
 #### (1) Prevention
 
@@ -120,7 +120,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;(vii) strategies to address the stigma and discrimination that impede HIV/AIDS prevention efforts; and
 
-&emsp;&emsp;&emsp;(viii) assistance to facilitate widespread access to microbicides for HIV prevention, if safe and effective products become available, including financial and technical support for culturally appropriate introductory programs, procurement, distribution, logistics management, program delivery, acceptability studies, provider training, demand generation, and postintroduction monitoring.
+&emsp;&emsp;&emsp;(viii) assistance to facilitate widespread access to microbicides for HIV prevention,if safe and effective products become available, including financial and technical support for culturally appropriate introductory programs, procurement, distribution, logistics management, program delivery, acceptability studies, provider training, demand generation, and postintroduction monitoring.
 
 #### (2) Treatment
 
@@ -234,7 +234,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;(iii) promote appropriate HIV/AIDS counseling, testing, and treatment into gender-based violence programs; and
 
-&emsp;&emsp;&emsp;(iv) assist governments to develop partnerships with civil society organizationsto create networks for psychosocial, legal, economic, or other support services;
+&emsp;&emsp;&emsp;(iv) assist governments to develop partnerships with civil society organizations to create networks for psychosocial, legal, economic, or other support services;
 
 &emsp;&emsp;(F) coordinated or referred activities to—
 
@@ -258,7 +258,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;The establishment and operation of public-private partnership entities within countries in sub-Saharan Africa, the Caribbean, and other countries affected by the HIV/AIDS pandemic that are dedicated to supporting the national strategy of such countries regarding the prevention, treatment, and monitoring of HIV/AIDS. Each such public-private partnership should—
 
-&emsp;&emsp;(A) support the development, implementation, and management of comprehensive HIV/AIDS plans in support of the national HIV/AIDS strategy;
+&emsp;&emsp;(A) support the development, implementation, and management of comprehensiveHIV/AIDS plans in support of the national HIV/AIDS strategy;
 
 &emsp;&emsp;(B) operate at all times in a manner that emphasizes efficiency, accountability, and results-driven programs;
 
@@ -304,7 +304,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;&emsp;(cc) that have inadequate financial means within such country or region.
 
-&emsp;&emsp;(B) Compacts whose primary purpose is to provide limited technical assistance to acountry or region connected to services provided within the country or region—
+&emsp;&emsp;(B) Compacts whose primary purpose is to provide limited technical assistance to a country or region connected to services provided within the country or region—
 
 &emsp;&emsp;&emsp;(i) may be made with other countries or regional entities served by an existing United States Agency for International Development or Department of Health and Human Services presence or regional platform;
 
@@ -396,7 +396,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 #### (1) In general
 
-&emsp;Not later than February 15, 2014, and annually thereafter, the President shall submit tothe Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report in an open, machine readable format, on the implementation of this section for the prior fiscal year.
+&emsp;Not later than February 15, 2014, and annually thereafter, the President shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report in an open, machine readable format, on the implementation of this section for the prior fiscal year.
 
 #### (2) Report due in 2014
 
@@ -584,7 +584,7 @@ Subsec. (b). Pub. L. 110–293, §301(a)(2), amended subsec. (b) generally. Prio
 
 Subsec. (c)(1). Pub. L. 110–293, §301(b)(1), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates" for "and other countries and areas".
 
-Subsec. (c)(2). Pub. L. 110–293, §301(b)(2), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDS pandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates." for "and other countries and areas affected by the HIV/AIDS pandemic".
+Subsec. (c)(2). Pub. L. 110–293, §301(b)(2), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDSpandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates." for "and other countries and areas affected by the HIV/AIDS pandemic".
 
 Subsec. (c)(3). Pub. L. 110–293, §301(b)(3), substituted "partner countries, other international actors," for "foreign countries" and inserted "within the framework of the principles of the Three Ones" before the period at end.
 
@@ -620,6 +620,10 @@ Subsecs. (g), (h). Pub. L. 110–293, §301(d)(1), redesignated subsecs. (f) and
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Submission of Annual Report
+
+Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 477, provided in part: "That the annual report required by section 104(A)(f) \[probably should be "104A(f)"\] of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151b–2(f)\] shall also be submitted hereafter to the Committees on Appropriations".
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
@@ -630,5 +634,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 <i><sup>5</sup></i><i> So in original. The semicolon probably should be a period.</i>
 
-<i><sup>6</sup></i><i> So in original. The "and" probably should not appear.</i>
+<i><sup>6</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

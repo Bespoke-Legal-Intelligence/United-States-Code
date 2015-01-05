@@ -92,7 +92,7 @@ Any State law or regulation which applies with respect to the importation or exp
 
 &emsp;&emsp;(i) the Secretary applies such prohibition to such species at the request of the State, or
 
-&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisions of section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
+&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisionsof section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
 
 #### (h) Regulations
 
@@ -146,5 +146,5 @@ Subsec. (i). Pub. L. 95–212, §1(2), substituted provisions authorizing approp
 
 #### Cooperative Agreements With States Unaffected by 1981 Amendment of Marine Mammal Protection Act
 
-Nothing in the amendment of section 1379 of this title by section 4(a) of Pub. L. 97–58 to be construed as affecting in any manner any cooperative agreement entered into by a State under subsec. (c) of this sectionbefore, on, or after Oct. 9, 1981, see section 4(b) of Pub. L. 97–58, set out as a note under section 1379 of this title.
+Nothing in the amendment of section 1379 of this title by section 4(a) of Pub. L. 97–58 to be construed as affecting in any manner any cooperative agreement entered into by a State under subsec. (c) of this section before, on, or after Oct. 9, 1981, see section 4(b) of Pub. L. 97–58, set out as a note under section 1379 of this title.
 

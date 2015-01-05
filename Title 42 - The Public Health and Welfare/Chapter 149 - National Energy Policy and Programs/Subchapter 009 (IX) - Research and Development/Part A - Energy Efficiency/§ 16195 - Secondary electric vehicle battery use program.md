@@ -36,7 +36,7 @@ In this section:
 
 #### (2) Additional solicitations
 
-&emsp;The Secretary may make additional solicitations for proposals if the Secretary determinesthat the solicitations are necessary to carry out this section.
+&emsp;The Secretary may make additional solicitations for proposals if the Secretary determines that the solicitations are necessary to carry out this section.
 
 #### (d) Selection of proposals
 

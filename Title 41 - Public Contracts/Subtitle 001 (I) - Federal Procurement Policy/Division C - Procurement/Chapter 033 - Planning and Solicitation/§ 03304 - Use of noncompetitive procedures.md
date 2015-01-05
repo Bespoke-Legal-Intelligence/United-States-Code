@@ -18,7 +18,7 @@ When Noncompetitive Procedures May Be Used.—An executive agency may use proced
 
 &emsp;&emsp;(D) to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
 
-&emsp;(4) the terms of an international agreement or treaty between the Federal Governmentand a foreign government or an international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for that government, have the effect of requiring the use of procedures other than competitive procedures;
+&emsp;(4) the terms of an international agreement or treaty between the Federal Government and a foreign government or an international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for that government, have the effect of requiring the use of procedures other than competitive procedures;
 
 &emsp;(5) subject to section 3105 of this title, a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency's need is for a brand-name commercial item for authorized resale;
 
@@ -220,7 +220,7 @@ In subsection (f)(2), the words "referred to in subparagraph (A) of paragraph (1
 
 #### Senate Revision Amendment
 
-In subsec. (e)(1)(B)(ii), "for level IV of the Executive Schedule" substituted for "under section 5376 of title 5" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+In subsec. (e)(1)(B)(ii), "for level IV of the Executive Schedule" substituted for "under section 5376 of title 5" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 #### Justification and Approval of Sole-Source Contracts
 
@@ -234,7 +234,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2) the justification is approved by the appropriate official designated to approve contract awards for dollar amounts that are comparable to the amount of the sole-source contract; and
 
-&emsp;"(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and2304(l) of title 10, United States Code, or sections 303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(C) and 253(j)) \[now 41 U.S.C. 3304(e)(1)(C) and 3304(f)\], as applicable.
+&emsp;"(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and 2304(l) of title 10, United States Code, or sections303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(C) and 253(j)) \[now 41 U.S.C. 3304(e)(1)(C) and 3304(f)\], as applicable.
 
 "(b)
 

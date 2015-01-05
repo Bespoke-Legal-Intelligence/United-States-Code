@@ -10,7 +10,7 @@
 
 &emsp;(1) give appropriate credit to the country involved;
 
-&emsp;(2) pay to the air carrier the portion of the amount so credited which is owed to the air carrier for its services in transporting the mail of the other country; and
+&emsp;(2) pay to the air carrier the portion of the amount so credited which is owed to the aircarrier for its services in transporting the mail of the other country; and
 
 &emsp;(3) deposit in the Postal Service Fund that portion of the amount so credited which is due the United States on its own account.
 

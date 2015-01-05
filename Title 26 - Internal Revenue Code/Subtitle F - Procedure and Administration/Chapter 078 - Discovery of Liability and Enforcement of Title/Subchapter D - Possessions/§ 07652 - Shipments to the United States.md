@@ -18,7 +18,7 @@
 
 #### (1) Taxes imposed in the United States
 
-&emsp;Except as provided in section 5314, there shall be imposed in the United States, upon articles coming into the United States fromthe Virgin Islands, a tax equal to the internal revenue tax imposed in the United States upon like articles of domestic manufacture.
+&emsp;Except as provided in section 5314, there shall be imposed in the United States, upon articles coming into the United States from the Virgin Islands, a tax equal to the internal revenue tax imposed in the United States upon like articles of domestic manufacture.
 
 #### (2) Exemption from tax imposed in the Virgin Islands
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) Any amounts remaining shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
+> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginningof that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Articles containing distilled spirits
 
@@ -92,9 +92,9 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 #### (f) Limitation on cover over of tax on distilled spirits
 
-For purposes of this section, with respect to taxes imposed under section 5001 or this sectionon distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
+For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2014), or
+&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2015), or
 
 &emsp;(2) the tax imposed under section 5001(a)(1), on each proof gallon.
 
@@ -118,7 +118,7 @@ No amount shall be covered into the treasury of Puerto Rico or the Virgin Island
 
 &emsp;(2) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §329(a), Jan. 2, 2013, 126 Stat. 2335.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §329(a), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, §140(a), Dec. 19, 2014, 128 Stat. 4020.)
 
 #### References in Text
 
@@ -129,6 +129,8 @@ Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec.
 The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(1). Pub. L. 113–295 substituted "January 1, 2015" for "January 1, 2014".
 
 <b>2013</b>—Subsec. (f)(1). Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2012".
 
@@ -189,6 +191,10 @@ Pub. L. 94–202 substituted "calendar quarter ending September 30, 1975, and qu
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–859, §204(17), substituted "section 5314" for "section 5318".
 
 Subsec. (b)(1). Pub. L. 85–859, §204(18), substituted "section 5314" for "section 5318".
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title I, §140(b), Dec. 19, 2014, 128 Stat. 4020, provided that: "The amendment made by this section \[amending this section\] shall apply to distilled spirits brought into the United States after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 
@@ -264,7 +270,7 @@ limitation.—In the case of such articles brought into the United States after 
 
 &emsp;&emsp;"(i) $130,000,000, over
 
-&emsp;&emsp;"(ii) the aggregate amount payable to Puerto Rico under section 7652(a) of the Internal RevenueCode of 1986 \[formerly I.R.C. 1954\] with respect to such articles which were brought into the United States after June 30, 1983, and before March 1, 1984, and which would not meet the requirements of section 7652(c) of such Code.
+&emsp;&emsp;"(ii) the aggregate amount payable to Puerto Rico under section 7652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to such articles which were brought into the United States after June 30, 1983, and before March 1, 1984, and which would not meet the requirements of section 7652(c) of such Code.
 
 &emsp;"(C) $75,000,000
 

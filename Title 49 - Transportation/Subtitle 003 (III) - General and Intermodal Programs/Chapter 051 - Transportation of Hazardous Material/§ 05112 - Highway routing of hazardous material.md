@@ -16,13 +16,13 @@ Application.—(1) This section applies to a motor vehicle only if the vehicle i
 
 (b)
 
-Standards for States and Indian Tribes.—(1) The Secretary, in consultation with the States, shall prescribe by regulation standards for States and Indian tribes to use in carrying out subsection (a) of this section. The standards shall include—
+Standards for States and Indian Tribes.—(1) The Secretary, in consultation withthe States, shall prescribe by regulation standards for States and Indian tribes to use in carrying out subsection (a) of this section. The standards shall include—
 
 &emsp;(A) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall enhance public safety in the area subject to the jurisdiction of the State or tribe and in areas of the United States not subject to the jurisdiction of the State or tribe and directly affected by the designation, limitation, or requirement;
 
 &emsp;(B) minimum procedural requirements to ensure public participation when the State or Indian tribe is establishing a highway routing designation, limitation, or requirement;
 
-&emsp;(C) a requirement that, in establishing a highway routing designation, limitation, orrequirement, a State or Indian tribe consult with appropriate State, local, and tribal officials having jurisdiction over areas of the United States not subject to the jurisdiction of that State or tribe establishing the designation, limitation, or requirement and with affected industries;
+&emsp;(C) a requirement that, in establishing a highway routing designation, limitation, or requirement, a State or Indian tribe consult with appropriate State, local, and tribal officials having jurisdiction over areas of the United States not subject to the jurisdiction of that State or tribe establishing the designation, limitation, or requirement and with affected industries;
 
 &emsp;(D) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall ensure through highway routing for the transportation of hazardous material between adjacent areas;
 
@@ -120,7 +120,7 @@ Relationship to Other Laws.—This section and regulations prescribed under this
 
 Existing Radioactive Material Routing Regulations.—The Secretary is not required to amend or again prescribe regulations related to highway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 769; Pub. L. 109–59, title VII, §7126, Aug. 10, 2005, 119Stat. 1909; Pub. L. 112–141, div. C, title III, §33013(a), July 6, 2012, 126 Stat. 839.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 769; Pub. L. 109–59, title VII, §7126, Aug. 10, 2005, 119 Stat. 1909; Pub. L. 112–141, div. C, title III, §33013(a), July 6, 2012, 126 Stat. 839.)
 
 Historical and Revision Notes
 

@@ -34,7 +34,7 @@ For the purposes of determining the maximum aggregate number of positions which 
 
 #### (f) Intelligence and intelligence-related positions exempt from competitive service
 
-All positions in the Department which the Secretary determines are devoted to intelligence and intelligence-related activities of theUnited States Government are excepted from the competitive service, and the individuals who occupy such positions as of August 14, 1991, shall, while employed in such positions, be exempt from the competitive service.
+All positions in the Department which the Secretary determines are devoted to intelligence and intelligence-related activities of the United States Government are excepted from the competitive service, and the individuals who occupy such positions as of August 14, 1991, shall, while employed in such positions, be exempt from the competitive service.
 
 (Pub. L. 95–91, title VI, §621, Aug. 4, 1977, 91 Stat. 596; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 102–88, title IV, §403, Aug. 14, 1991, 105 Stat. 434.)
 
@@ -59,6 +59,72 @@ August 14, 1991, referred to in subsec. (f), was in the original "the date of en
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Appointments of Exceptionally Well Qualified Individuals to Scientific, Engineering, or Other Critical Technical Positions
+
+Pub. L. 113–76, div. D, title III, §313, Jan. 17, 2014, 128 Stat. 176, provided that:
+
+"(a)
+
+In General.—Subject to subsections (b) through (d), the Secretary may appoint, without regard to the provisions of chapter 33 of title 5, United States Code, governing appointments in the competitive service, exceptionally well qualified individuals to scientific, engineering, or other critical technical positions.
+
+"(b)
+
+Limitations.—
+
+&emsp;"(1)
+
+Number of positions.—The number of critical positions authorized by subsection (a) may not exceed 120 at any one time in the Department.
+
+&emsp;"(2)
+
+Term.—The term of an appointment under subsection (a) may not exceed 4 years.
+
+&emsp;"(3)
+
+Prior employment.—An individual appointed under subsection (a) shall not have been a Department employee during the 2-year period ending on the date of appointment.
+
+&emsp;"(4)
+
+Pay.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall have the authority to fix the basic pay of an individual appointed under subsection (a) at a rate to be determined by the Secretary up to level I of the Executive Schedule \[5 U.S.C. 5312\] without regard to the civil service laws.
+
+&emsp;&emsp;"(B)
+
+Total annual compensation.—The total annual compensation for any individual appointed under subsection (a) may not exceed the highest total annual compensation payable at the rate determined under section 104 of title 3, United States Code.
+
+&emsp;"(5)
+
+Adverse actions.—An individual appointed under subsection (a) may not be considered to be an employee for purposes of subchapter II of chapter 75 of title 5, United States Code.
+
+"(c)
+
+Requirements.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall ensure that—
+
+&emsp;&emsp;"(A) the exercise of the authority granted under subsection (a) is consistent with the merit principles of section 2301 of title 5, United States Code; and
+
+&emsp;&emsp;"(B) the Department notifies diverse professional associations and institutions of higher education, including those serving the interests of women and racial or ethnic minorities that are underrepresented in scientific, engineering, and mathematical fields, of position openings as appropriate.
+
+&emsp;"(2)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[Jan. 17, 2014\], the Secretary and the Director of the Office of Personnel Management shall submit to Congress a report on the use of the authority provided under this section that includes, at a minimum, a description or analysis of—
+
+&emsp;&emsp;"(A) the ability to attract exceptionally well qualified scientists, engineers, and technical personnel;
+
+&emsp;&emsp;"(B) the amount of total compensation paid each employee hired under the authority each calendar year; and
+
+&emsp;&emsp;"(C) whether additional safeguards or measures are necessary to carry out the authority and, if so, what action, if any, has been taken to implement the safeguards or measures.
+
+"(d)
+
+Termination of Effectiveness.—The authority provided by this section terminates effective on the date that is 4 years after the date of enactment of this Act."
 
 #### Authority for Appointment of Certain Scientific, Engineering, and Technical Personnel
 

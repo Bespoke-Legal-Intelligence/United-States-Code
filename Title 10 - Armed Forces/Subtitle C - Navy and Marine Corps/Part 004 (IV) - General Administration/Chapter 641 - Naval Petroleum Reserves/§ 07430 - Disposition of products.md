@@ -22,7 +22,7 @@
 
 (e) Any petroleum produced from the naval petroleum reserves, except such petroleum which is either exchanged in similar quantities for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) and, in addition, before any petroleum subject to this section may be exported under the limitations and licensing requirement and penalty and enforcement provisions of the Export Administration Act of 1979, the President must make and publish an express finding that such exports will not diminish the total quality or quantity of petroleum available to the United States and that such exports are in the national interest and are in accord with the Export Administration Act of 1979.
 
-(f) During the period of production or any extension thereof authorized by section 7422(c) ofthis title, the consultation and approval requirements of section 7431(a)(3) of this title are waived.
+(f) During the period of production or any extension thereof authorized by section 7422(c) of this title, the consultation and approval requirements of section 7431(a)(3) of this title are waived.
 
 (g)(1) Prior to the promulgation of any rules and regulations, plans of development and amendments thereto, and in the entering and making of contracts and operating agreements relating to the development, production, or sale of petroleum in or from the reserves, the Secretary shall consult with and give due consideration to the views of the Attorney General of the United States with respect to matters which may affect competition.
 
@@ -148,7 +148,7 @@ Subsec. (b). Pub. L. 94–258 inserted "Notwithstanding any other provision of l
 
 Subsecs. (c) to (k). Pub. L. 94–258 added subsecs. (c) to (k).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–796 included provision for administration of oil shale reserves, required the Secretary of the Navy to use, store, sell, or exchange oil shale and products therefrom produced from oil shale reserves for other petroleum or refined products, and deleted provision which required the Secretary to use, store, sell, or exchange gas products from lands in the South Barrow gas field of naval petroleum reserve numbered 4 for other petroleum or refined products.
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 included provision for administration of oil shale reserves, required the Secretary of the Navy to use, store, sell, or exchange oil shale and products therefrom produced from oil shale reserves for other petroleum or refined products, anddeleted provision which required the Secretary to use, store, sell, or exchange gas products from lands in the South Barrow gas field of naval petroleum reserve numbered 4 for other petroleum or refined products.
 
 Pub. L. 87–599 required the Secretary of the Navy to use, store, sell, or exchange gas products from lands in the South Barrow gas field of naval petroleum reserve numbered 4 for other petroleum or refined products.
 

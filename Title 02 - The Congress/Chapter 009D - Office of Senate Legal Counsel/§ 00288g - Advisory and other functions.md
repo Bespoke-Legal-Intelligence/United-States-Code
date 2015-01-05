@@ -18,7 +18,7 @@ The Counsel shall advise, consult, and cooperate with—
 
 #### (b) Legal research files
 
-The Counsel shall compile and maintain legal research files of materials from court proceedings which have involved Congress, a House of Congress, an office or agency of Congress, or anycommittee, subcommittee, Member, officer, or employee of Congress. Public court papers and other research memoranda which do not contain information of a confidential or privileged nature shall be made available to the public consistent with any applicable procedures set forth in such rules of the Senate as may apply and the interests of the Senate.
+The Counsel shall compile and maintain legal research files of materials from court proceedings which have involved Congress, a House of Congress, an office or agency of Congress, or any committee, subcommittee, Member, officer, or employee of Congress. Public court papers and other research memoranda which do not contain information of a confidential or privileged nature shall be made available to the public consistent with any applicable procedures set forth in such rules of the Senate as may apply and the interests of the Senate.
 
 #### (c) Miscellaneous duties
 
@@ -28,11 +28,11 @@ The Counsel shall perform such other duties consistent with the purposes and lim
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(3) and (c), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, section 5504 of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(3) and (c), was in the original "this title", meaning title VII of Pub. L. 95–521, which enacted this chapter, section 5504 of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of the".</i>
 

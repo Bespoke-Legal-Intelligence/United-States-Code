@@ -2,39 +2,16 @@
 
 (a) A judge of the United States Court of Federal Claims who retires from office after attaining the age and meeting the service requirements, whether continuously or otherwise, of this subsection shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service. The age and service requirements for retirement under this subsection are as follows:
 
-<b> </b>
+&nbsp;
 
-<b>Years of</b>
-
-<b> Attained Age:</b>
-
-<b>Service:</b>
-
-&nbsp;&nbsp;65
-
-15&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;66
-
-14&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;67
-
-13&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;68
-
-12&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;69
-
-11&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;70
-
-10\.&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>Attained Age:</b> | <b>Years of Service:</b> |
+| :--- | ---: |
+| 65 | 15&nbsp;&nbsp; |
+| 66 | 14&nbsp;&nbsp; |
+| 67 | 13&nbsp;&nbsp; |
+| 68 | 12&nbsp;&nbsp; |
+| 69 | 11&nbsp;&nbsp; |
+| 70 | 10\. |
 
 (b) A judge of the Court of Federal Claims who is not reappointed following the expiration of the term of office of such judge, and who retires upon the completion of such term shall, subject to subsection (f), be entitled to receive, during the remainder of such judge's lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if—
 

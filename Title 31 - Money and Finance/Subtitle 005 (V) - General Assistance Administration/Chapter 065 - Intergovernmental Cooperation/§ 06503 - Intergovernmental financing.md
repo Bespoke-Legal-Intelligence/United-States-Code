@@ -1,6 +1,6 @@
 ### §6503. Intergovernmental financing
 
-(a) Consistent with program purposes and with regulations of the Secretary, and in accordancewith an agreement under subsection (b) entered into by the Secretary and a State—
+(a) Consistent with program purposes and with regulations of the Secretary, and in accordance with an agreement under subsection (b) entered into by the Secretary and a State—
 
 &emsp;(1) the head of an executive agency (other than the Tennessee Valley Authority) carrying out a program shall schedule transfers of funds to the State under the program so as to minimize the time elapsing between transfer of funds from the United States Treasury and the issuance or redemption of checks, warrants, or payments by other means by a State; and
 
@@ -12,7 +12,7 @@
 
 &emsp;(A) specify procedures chosen by the State for carrying out transfers of funds under the agreement;
 
-&emsp;(B) describe the process by which the Federal Government shall review and approve the implementation of the procedures specified under subparagraph (A);
+&emsp;(B) describe the process by which the Federal Government shall review and approve theimplementation of the procedures specified under subparagraph (A);
 
 &emsp;(C) establish the methods to be used for calculating and documenting payments of interest pursuant to this section; and
 

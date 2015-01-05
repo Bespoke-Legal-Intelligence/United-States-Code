@@ -36,7 +36,7 @@ It is the sense of Congress that—
 
 #### (2) Exception
 
-&emsp;The President may not impose sanctions pursuant to paragraph (1) with respect to a person for directly providing specialized financial messaging services to, or enabling or facilitating direct or indirect access to such messaging services for, the Central Bank of Iran or a financial institution described in section 104(c)(2)(E)(ii) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513(c)(2)(E)(ii)) if—
+&emsp;The President may not impose sanctions pursuant to paragraph (1) with respect to aperson for directly providing specialized financial messaging services to, or enabling or facilitating direct or indirect access to such messaging services for, the Central Bank of Iran or a financial institution described in section 104(c)(2)(E)(ii) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513(c)(2)(E)(ii)) if—
 
 &emsp;&emsp;(A) the person is subject to a sanctions regime under its governing foreign law that requires it to eliminate the knowing provision of such messaging services to, and the knowing enabling and facilitation of direct or indirect access to such messaging services for—
 

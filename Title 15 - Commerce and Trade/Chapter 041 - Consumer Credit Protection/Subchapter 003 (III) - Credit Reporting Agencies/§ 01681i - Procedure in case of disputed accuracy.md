@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, after any reinvestigation under paragraph (1) of any information disputed by a consumer, an item of the information is found to be inaccurate or incomplete or cannot be verified, the consumer reporting agency shall—
+&emsp;&emsp;If, after any reinvestigation under paragraph (1) of any information disputed by a consumer, an item of the information isfound to be inaccurate or incomplete or cannot be verified, the consumer reporting agency shall—
 
 &emsp;&emsp;&emsp;(i) promptly delete that item of information from the file of the consumer, or modify that item of information, as appropriate, based on the results of the reinvestigation; and
 
@@ -62,7 +62,7 @@
 
 #### (i) Certification of accuracy of information
 
-&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A),the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
+&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
 
 #### (ii) Notice to consumer
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(A) provides prompt notice of the deletion to the consumer by telephone;
 
-&emsp;&emsp;(B) includes in that notice, or in a written notice that accompanies a confirmation and consumer report provided in accordance with subparagraph (C), a statement of the consumer's right to request under subsection (d) of this section that the agency furnish notifications under that subsection; and
+&emsp;&emsp;(B) includes in that notice, or in a written notice that accompanies a confirmation and consumer report provided in accordancewith subparagraph (C), a statement of the consumer's right to request under subsection (d) of this section that the agency furnish notifications under that subsection; and
 
 &emsp;&emsp;(C) provides written confirmation of the deletion and a copy of a consumer report on the consumer that is based on the consumer's file after the deletion, not later than 5 business days after making the deletion.
 
@@ -258,7 +258,7 @@ Report required.—Before the end of the 12-month period beginning on the date o
 
 "(3)
 
-Considerations.—In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaints compiled by the Commission under section 611(e) of the Fair Credit Reporting Act \[15 U.S.C. 1681i(e)\], as added by this section.
+Considerations.—In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaintscompiled by the Commission under section 611(e) of the Fair Credit Reporting Act \[15 U.S.C. 1681i(e)\], as added by this section.
 
 "(4)
 

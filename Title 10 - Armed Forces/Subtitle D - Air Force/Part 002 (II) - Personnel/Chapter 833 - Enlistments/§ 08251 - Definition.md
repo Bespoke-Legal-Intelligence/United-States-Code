@@ -26,5 +26,5 @@ The revised section is inserted for clarity.
 
 #### Women in Armed Forces
 
-Pub. L. 98–525, title V, §551(a), Oct. 19, 1984, 98 Stat. 2530, as amended by Pub. L. 99–661, div. A, title V, §504, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §506, Dec. 4, 1987, 101 Stat. 1086, which required the Secretary of the Air Force to provide that of all persons originally enlisting in the Regular Air Force during fiscal year 1989, not less than 22 percent be women, was repealed by Pub. L. 100–456, div. A, title V, §522(d), Sept. 29, 1988, 102 Stat. 1974. See section 8252 of this title.
+Pub. L. 98–525, title V, §551(a), Oct. 19, 1984, 98 Stat. 2530, as amended by Pub. L. 99–661, div. A, title V, §504,Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §506, Dec. 4, 1987, 101 Stat. 1086, which required the Secretary of the Air Force to provide that of all persons originally enlisting in the Regular Air Force during fiscal year 1989, not less than 22 percent be women, was repealed by Pub. L. 100–456, div. A, title V, §522(d), Sept. 29, 1988, 102 Stat. 1974. See section 8252 of this title.
 

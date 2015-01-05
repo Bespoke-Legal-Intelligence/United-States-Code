@@ -78,7 +78,7 @@ In subsection (b)(4), the words "contribute to" are omitted as surplus.
 
 In subsection (c), the words "departments, agencies, and instrumentalities of the United States Government, States, and other public and private agencies" are substituted for "other Federal departments and agencies, and State and other interested public and private agencies" for consistency. The words "planning and" are omitted as surplus.
 
-In subsection (d), the words "The Secretary" are added for clarity. The words "effective date" are substituted for "the date . . . is to take effect" to eliminate unnecessary words. The words "under this chapter" are added for clarity. The words "However, the Secretary may prescribe a different effective date" aresubstituted for "unless the Secretary" for clarity. The word "different" is substituted for "earlier or later" to eliminate unnecessary words.
+In subsection (d), the words "The Secretary" are added for clarity. The words "effective date" are substituted for "the date . . . is to take effect" to eliminate unnecessary words. The words "under this chapter" are added for clarity. The words "However, the Secretary may prescribe a different effective date" are substituted for "unless the Secretary" for clarity. The word "different" is substituted for "earlier or later" to eliminate unnecessary words.
 
 In subsection (e), the words "duties and powers" are substituted for "responsibilities", and the word "change" is substituted for "adjust", and for clarity and consistency in the revised title.
 
@@ -132,7 +132,7 @@ Limitations.—
 
 &emsp;"(1)
 
-Compliance with successor standards.—Any rule promulgated pursuant to this section may not prohibit the operation on public roads of agricultural equipment that is equipped in accordance with any adopted revision of ASABE Standard 279 that is later than the revision of such standard that was referenced during the promulgation of the rule.
+Compliance with successor standards.—Any rule promulgated pursuant to this section may not prohibit the operation on public roads of agricultural equipment that is equipped in accordance with anyadopted revision of ASABE Standard 279 that is later than the revision of such standard that was referenced during the promulgation of the rule.
 
 &emsp;"(2)
 
@@ -202,7 +202,7 @@ Pub. L. 111–373, Jan. 4, 2011, 124 Stat. 4086, provided that:
 
 Rulemaking Required.—Not later than 18 months after the date of enactment of this Act \[Jan. 4, 2011\] the Secretary shall initiate rulemaking, under section 30111 of title 49, United States Code, to promulgate a motor vehicle safety standard—
 
-&emsp;"(1) establishing performance requirements for an alert sound that allows blind and other pedestrians toreasonably detect a nearby electric or hybrid vehicle operating below the cross-over speed, if any; and
+&emsp;"(1) establishing performance requirements for an alert sound that allows blind and other pedestrians to reasonably detect a nearby electric or hybrid vehicle operating below the cross-over speed, if any; and
 
 &emsp;"(2) requiring new electric or hybrid vehicles to provide an alert sound conforming to the requirements of the motor vehicle safety standard established under this subsection.
 
@@ -236,7 +236,7 @@ Required Consultation.—When conducting the required study and rulemaking, the 
 
 "(e)
 
-Required Study and Report to Congress.—Not later than 48 months after the date of enactment of this Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United States Code, to extend the standard to conventional motor vehicles.
+Required Study and Report to Congress.—Not later than 48 months after the date of enactment ofthis Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United States Code, to extend the standard to conventional motor vehicles.
 
 #### "SEC. 4. FUNDING.
 
@@ -282,7 +282,7 @@ Phase-in period required.—The safety standards prescribed pursuant to subsecti
 
 &emsp;"(2)
 
-Phase-in priorities.—In establishing the phase-in period of the rearward visibility safetystandards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles based on data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
+Phase-in priorities.—In establishing the phase-in period of the rearward visibility safety standards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles based on data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
 
 &emsp;&emsp;"(A) which type or types of motor vehicles shall be phased-in first; and
 

@@ -34,15 +34,15 @@ Historical and Revision Notes
 
 Sept. 23, 1960, ch. 1010, §1(c), 64 Stat. 985.
 
-The word “employee” is substituted for “civilian officers and employees” in view of the definition of “employee” in sections 5721 and 2105.
+The word "employee" is substituted for "civilian officers and employees" in view of the definition of "employee" in sections 5721 and 2105.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1106(1), substituted “, personal effects, and family household pets,” for “and personal effects,” in concluding provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1106(1), substituted ", personal effects, and family household pets," for "and personal effects," in concluding provisions.
 
 Subsec. (c). Pub. L. 112–239, §1106(2), added subsec. (c).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–264 substituted “Government” for “United States” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–264 substituted "Government" for "United States" in introductory provisions.
 

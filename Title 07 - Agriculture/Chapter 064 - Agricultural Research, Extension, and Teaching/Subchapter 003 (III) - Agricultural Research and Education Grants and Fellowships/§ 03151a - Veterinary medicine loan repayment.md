@@ -38,7 +38,7 @@ In determining "veterinarian shortage situations", the Secretary may consider—
 
 #### (A) In general
 
-&emsp;&emsp;Agreements with program participants shall provide remedies for any breach of anagreement by a participant, including repayment or partial repayment of financial assistance received, with interest.
+&emsp;&emsp;Agreements with program participants shall provide remedies for any breach of an agreement by a participant, including repayment or partial repayment of financial assistance received, with interest.
 
 #### (B) Amounts recovered
 

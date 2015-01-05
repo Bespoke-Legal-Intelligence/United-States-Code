@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) relate to programs and operations with respect to which that agency Chief Human Capital Officer has responsibilities under this chapter; and
 
-&emsp;(2) may request such information or assistance as may be necessary for carrying out theduties and responsibilities provided by this chapter from any Federal, State, or local governmental entity.
+&emsp;(2) may request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this chapter from any Federal, State, or local governmental entity.
 
 (Added Pub. L. 107–296, title XIII, §1302(a), Nov. 25, 2002, 116 Stat. 2288.)
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) publish notice in the Federal Register that the petition has been received, and
 
-&emsp;&emsp;(B) provide opportunity for the presentation of views regarding the establishmentof the requested product category, including a public hearing if requested by any interested person.
+&emsp;&emsp;(B) provide opportunity for the presentation of views regarding the establishment of the requested product category, including a public hearing if requested by any interested person.
 
 #### (4) Determinations
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;The term "affirmative dumping determination" means—
 
-&emsp;&emsp;(A) any affirmative final determination made by the administering authority under section 1673d(a) of this title during the 8-year period preceding the filing of the petition under this section that results in the issuance of an antidumping duty order under section 1673e of this title which requires the deposit of estimated antidumping duties at a rate of not less than 15 percent ad valorem, or
+&emsp;&emsp;(A) any affirmative final determination made by the administering authority under section 1673d(a) of this title during the 8-year period preceding the filing of the petition under this section that results in the issuance of an antidumping duty order under section 1673e of this title which requires thedeposit of estimated antidumping duties at a rate of not less than 15 percent ad valorem, or
 
 &emsp;&emsp;(B) any affirmative preliminary determination that—
 

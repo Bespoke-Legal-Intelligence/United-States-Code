@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(4) to protect themselves and the items they transport, such crew members are armed with weapons;
 
-&emsp;(5) various States require both weapons training and a criminal record backgroundcheck before licensing a crew member to carry a weapon; and
+&emsp;(5) various States require both weapons training and a criminal record background check before licensing a crew member to carry a weapon; and
 
 &emsp;(6) there is a need for each State to reciprocally accept weapons licenses of other States for armored car crew members to assure the free and safe transport of valuable items in interstate commerce.
 

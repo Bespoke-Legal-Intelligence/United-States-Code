@@ -26,11 +26,11 @@ Use of Donated Travel Benefits.—A travel benefit accepted under this section m
 
 &emsp;&emsp;(B) is granted, during such deployment, rest and recuperative leave, emergency leave, convalescent leave, or another form of leave authorized for the member; or
 
-&emsp;(2) in the case of a member of the armed forces recuperating from an injury or illness incurred or aggravated in the line of duty during such a deployment, facilitating the travel of family members of the member in order to be reunited with the member.
+&emsp;(2) in the case of a member of the armed forces recuperating from an injury or illness incurred or aggravated in the line of duty during such a deployment, facilitating the travelof family members of the member in order to be reunited with the member.
 
 (e)
 
-Administration.—(1) The Secretary shall designate a single office in the Department ofDefense to carry out this section. That office shall develop rules and procedures to facilitate the acceptance and distribution of travel benefits under this section.
+Administration.—(1) The Secretary shall designate a single office in the Department of Defense to carry out this section. That office shall develop rules and procedures to facilitate the acceptance and distribution of travel benefits under this section.
 
 (2) For the use of travel benefits under subsection (d)(2) by family members of a member of the armed forces, the Secretary may, as the Secretary determines appropriate, limit—
 

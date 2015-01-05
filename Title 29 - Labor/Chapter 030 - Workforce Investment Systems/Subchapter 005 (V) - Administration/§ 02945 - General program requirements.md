@@ -10,7 +10,7 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 &emsp;(B) Such agreement shall be approved by each local board providing guidance to the local area and shall be described in the local plan under section 2833 of this title.
 
-&emsp;(4) On-the-job training contracts under this chapter shall not be entered into with employers who have received payments under previous contracts and have exhibited a pattern of failing to provide on-the-job training participants with continued long-term employment as regular employees with wages and employment benefits (including health benefits) and working conditions at the same leveland to the same extent as other employees working a similar length of time and doing the same type of work.
+&emsp;(4) On-the-job training contracts under this chapter shall not be entered into with employers who have received payments under previous contracts and have exhibited a pattern of failing to provide on-the-job training participants with continued long-term employment as regular employees with wages and employment benefits (including health benefits) and working conditions at the same level and to the same extent as other employees working a similar length of time and doing the same type of work.
 
 &emsp;(5) No person or organization may charge an individual a fee for the placement or referral of the individual in or to a workforce investment activity under this chapter.
 
@@ -52,9 +52,17 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 (Pub. L. 105–220, title I, §195, Aug. 7, 1998, 112 Stat. 1057.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "effect".</i>
 

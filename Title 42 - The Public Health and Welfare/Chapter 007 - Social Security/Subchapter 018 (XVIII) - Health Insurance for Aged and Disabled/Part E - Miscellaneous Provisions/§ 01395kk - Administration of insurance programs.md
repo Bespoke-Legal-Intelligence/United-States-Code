@@ -2,7 +2,7 @@
 
 #### (a) Functions of Secretary; performance directly or by contract
 
-Except as otherwise provided in this subchapter and in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], the insurance programs established by this subchapter shall be administered by the Secretary. The Secretary may perform any of his functions under this subchapter directly, or by contract providing for payment in advance or by way of reimbursement, and in such installments, as the Secretary may deem necessary.
+Except as otherwise provided in this subchapter and in the Railroad Retirement Act of1974 \[45 U.S.C. 231 et seq.\], the insurance programs established by this subchapter shall be administered by the Secretary. The Secretary may perform any of his functions under this subchapter directly, or by contract providing for payment in advance or by way of reimbursement, and in such installments, as the Secretary may deem necessary.
 
 #### (b) Contracts to secure special data, actuarial information, etc.
 
@@ -74,7 +74,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;&emsp;Any report by a qualified entity evaluating the performance of providers of services and suppliers using data made available under this subsection shall—
 
-&emsp;&emsp;&emsp;(i) include an understandable description of the measures, which shall include quality measures and the rationale for use of other measures described in subparagraph (B)(ii)(II), risk adjustment methods, physician attribution methods, other applicable methods, data specifications and limitations, and the sponsors, so that consumers, providers of services and suppliers, healthplans, researchers, and other stakeholders can assess such reports;
+&emsp;&emsp;&emsp;(i) include an understandable description of the measures, which shall include quality measures and the rationale for use of other measures described in subparagraph (B)(ii)(II), risk adjustment methods, physician attribution methods, other applicable methods, data specifications and limitations, and the sponsors, so that consumers, providers of services and suppliers, health plans, researchers, and other stakeholders can assess such reports;
 
 &emsp;&emsp;&emsp;(ii) be made available confidentially, to any provider of services or supplier to be identified in such report, prior to the public release of such report, and provide an opportunity to appeal and correct errors;
 

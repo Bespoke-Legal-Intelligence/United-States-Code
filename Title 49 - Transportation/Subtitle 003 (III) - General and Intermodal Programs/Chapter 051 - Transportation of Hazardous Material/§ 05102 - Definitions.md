@@ -22,7 +22,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) is self-employed (including an owner-operator of a motor vehicle, vessel, or aircraft) transporting hazardous material in commerce; and
 
-&emsp;&emsp;&emsp;(ii) who during the course of such full time, part time, or temporary employment, or such self employment, directly affects hazardous material transportation safety as the Secretary decides by regulation; and
+&emsp;&emsp;&emsp;(ii) who during the course of such full time, part time, or temporary employment, or such self employment, directly affects hazardous material transportationsafety as the Secretary decides by regulation; and
 
 &emsp;&emsp;(B) includes an individual, employed on a full time, part time, or temporary basis by a hazmat employer, or self employed, who during the course of employment—
 
@@ -172,7 +172,7 @@ Jan. 3, 1975, Pub. L. 93–633, §103, 88 Stat. 2156; restated Nov. 16, 1990, Pu
 
 In this chapter, the words "or shipped" are omitted as being included in "transported".
 
-In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section.The words "traffic, commerce" are omitted as surplus. In subclause (B), the words "between a place in a State and a place outside of the State" are substituted for "described in clause (A)" for clarity.
+In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section. The words "traffic, commerce" are omitted as surplus. In subclause (B), the words "between a place in a State and a place outside of the State" are substituted for "described in clause (A)" for clarity.
 
 In clauses (3)(C) and (10)(B), the words "at a minimum" are omitted as surplus.
 

@@ -34,7 +34,7 @@
 
 &emsp;(6) The assumption of all or selected functions, programs, and resources of Saint Elizabeths Hospital from the Federal Government by the District of Columbia, and the integration of those functions, resources, and programs into a comprehensive mental health care system administered solely by the District of Columbia, will improve the efficiency and effectiveness of the services currently provided through those two separate entities by shifting the primary focus of care to an integrated community-based system.
 
-&emsp;(7) Such assumption of all or selected functions, programs, and resources of Saint Elizabeths Hospital by the District of Columbia would further the principle of home rule for the District of Columbia.
+&emsp;(7) Such assumption of all or selected functions, programs, and resources of Saint Elizabeths Hospital by the District of Columbiawould further the principle of home rule for the District of Columbia.
 
 (b) It is the intent of Congress that—
 

@@ -6,13 +6,13 @@ In General.—(1) Under regulations prescribed by the Secretary of Defense, the 
 
 (2) An individual described in this paragraph is the following:
 
-&emsp;(A) A member of the uniformed services or dependent—
+&emsp;(A) A member or former member of the uniformed services or dependent—
 
 &emsp;&emsp;(i) who is receiving outpatient medical care at a military medical treatment facility; and
 
 &emsp;&emsp;(ii) whom the Secretary determines is unable to purchase food and beverages while at such facility by virtue of receiving such care.
 
-&emsp;(B) A member of the uniformed services or dependent—
+&emsp;(B) A member or former member of the uniformed services or dependent—
 
 &emsp;&emsp;(i) who is a family member of an infant receiving inpatient medical care at a military medical treatment facility;
 
@@ -20,13 +20,19 @@ In General.—(1) Under regulations prescribed by the Secretary of Defense, the 
 
 &emsp;&emsp;(iii) whom the Secretary determines is unable to purchase food and beverages while at such facility by virtue of providing such care to the infant.
 
-&emsp;(C) A member of the uniformed services or dependent whom the Secretary determines is under similar circumstances as a member or dependent described in subparagraph (A) or (B).
+&emsp;(C) A member or former member of the uniformed services or dependent whom the Secretary determines is under similar circumstances as a member, former member, or dependent described in subparagraph (A) or (B).
 
 (b)
 
 Regulations.—The Secretary shall ensure that regulations prescribed under this section are consistent with generally accepted practices in private medical treatment facilities.
 
-(Added Pub. L. 112–81, div. A, title VII, §704(a), Dec. 31, 2011, 125 Stat. 1472.)
+(Added Pub. L. 112–81, div. A, title VII, §704(a), Dec. 31, 2011, 125 Stat. 1472; amended Pub. L. 113–291, div. A, title VII, §705, Dec. 19, 2014, 128 Stat. 3413.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–291, §705(1), substituted "A member or former member" for "A member" wherever appearing.
+
+Subsec. (a)(2)(C). Pub. L. 113–291, §705(2), substituted "member, former member, or dependent" for "member or dependent".
 
 #### Effective Date
 

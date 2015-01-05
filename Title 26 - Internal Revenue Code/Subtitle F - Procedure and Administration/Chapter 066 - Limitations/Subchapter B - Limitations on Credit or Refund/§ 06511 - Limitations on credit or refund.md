@@ -88,7 +88,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (B) Exception in the case of foreign taxes paid or accrued
 
-&emsp;&emsp;In the case of a claim described in subparagraph (A), the amount of the credit or refundmay exceed the portion of the tax paid within the period provided in subsection (b) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to the allowance of a credit for the taxes described in subparagraph (A).
+&emsp;&emsp;In the case of a claim described in subparagraph (A), the amount of the credit or refund may exceed the portion of the tax paid within the period provided in subsection (b) or (c), whichever is applicable, to the extent of the amount of the overpayment attributable to the allowance of a credit for the taxes described in subparagraph (A).
 
 #### (4) Special period of limitation with respect to certain credit carrybacks
 
@@ -180,7 +180,7 @@ In the case of any tax imposed by subtitle A with respect to any person which is
 
 &emsp;&emsp;<b>(7) For a period of limitations for refund of an overpayment of penalties imposed under section 6694 or 6695, see section 6696(d)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 808; Apr. 2, 1956, ch. 160, §4(e), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(6), 70 Stat. 397; Pub. L. 85–866, title I, §82, Sept. 2, 1958, 72 Stat. 1663; Pub. L. 86–280, §1(a), Sept. 16, 1959, 73 Stat. 563; Pub. L. 87–794, title III, §317(d), Oct. 11, 1962, 76 Stat. 891; Pub. L. 87–834, §2(e)(2), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§232(d), 239, Feb. 26, 1964, 78 Stat. 111, 128; Pub. L. 88–571, §3(c), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–331, §9(c), Nov. 8, 1965, 79 Stat. 1278; Pub. L. 90–225, §2(d), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(h), title III, §311(d)(3), title V, §512(e)(2), Dec. 30, 1969, 83 Stat. 525, 588, 640; Pub. L. 92–178, title VI, §601(d)(2), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title IV, §4401(b), formerly §4081(b), Sept. 2, 1974, 88 Stat. 1034, renumbered §4401(b), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–455, title XII, §1203(h)(3), title XIX, §1906(a)(33), title XXI, §2107(g)(2)(B), Oct. 4, 1976, 90 Stat. 1694, 1829, 1904; Pub. L. 95–30, title II, §202(d)(4)(B), May 23, 1977, 91 Stat. 149; Pub. L. 95–600, title II, §212(b)(1), title VII, §703(p)(3), Nov. 6, 1978, 92 Stat. 2819, 2944; Pub. L. 95–628, §8(a), (b), Nov. 10, 1978, 92 Stat. 3630, 3631; Pub. L. 96–222, title I, §§102(a)(2)(B), 108(b)(1)(B), Apr. 1, 1980, 94 Stat. 208, 226; Pub. L. 96–223, title I, §101(g)(2), Apr. 2, 1980, 94 Stat. 254; Pub. L. 96–598, §1(c), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–34, title II, §221(b)(2)(A), title III, §331(d)(2)(A), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 97–248, title IV, §402(c)(7), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §163(b)(2), title II, §211(b)(25), title IV, §474(r)(40), title VII, §§714(p)(2)(G), 735(c)(14), div. B, title VI, §2663(j)(5)(F), July 18, 1984, 98 Stat. 698, 757, 847, 965, 984, 1171; Pub. L. 99–514, title I, §141(b)(3), title II, §231(d)(3)(I), title XVIII, §1847(b)(15), Oct. 22, 1986, 100 Stat. 2117, 2180, 2857; Pub. L. 100–418, title I, §1941(b)(2)(I), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1017(c)(11), 1018(u)(21), (51), Nov. 10, 1988, 102 Stat. 3577, 3591, 3593; Pub. L. 101–508, title XI, §11801(c)(17)(B), (22)(C), Nov. 5, 1990, 104 Stat. 1388–527, 1388–528; Pub. L. 103–296, title I, §108(h)(8), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 105–34, title X, §1056(a), title XIV, §1454(b)(1), Aug. 5, 1997, 111 Stat. 945, 1056; Pub. L. 105–206, title III, §3202(a), July 22, 1998, 112 Stat. 740; Pub. L. 107–16, title V, §532(c)(11), June 7, 2001, 115 Stat. 75; Pub. L. 110–245, title I, §106(a), June 17, 2008, 122 Stat. 1630.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 808; Apr. 2, 1956, ch. 160, §4(e), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(6), 70 Stat. 397; Pub. L. 85–866, title I, §82, Sept. 2, 1958, 72 Stat. 1663; Pub. L. 86–280, §1(a), Sept. 16, 1959, 73 Stat. 563; Pub. L. 87–794, title III, §317(d), Oct. 11, 1962, 76 Stat. 891; Pub. L. 87–834, §2(e)(2), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§232(d), 239, Feb. 26, 1964, 78 Stat. 111, 128; Pub. L. 88–571, §3(c), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–331, §9(c), Nov. 8, 1965, 79 Stat. 1278; Pub. L. 90–225, §2(d), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(h), title III, §311(d)(3), title V, §512(e)(2), Dec. 30, 1969, 83 Stat. 525, 588, 640; Pub. L. 92–178, title VI, §601(d)(2), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title IV, §4401(b), formerly §4081(b), Sept. 2, 1974, 88 Stat. 1034, renumbered §4401(b), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–455, title XII, §1203(h)(3), title XIX, §1906(a)(33), title XXI, §2107(g)(2)(B), Oct. 4, 1976, 90 Stat. 1694, 1829, 1904; Pub. L. 95–30, title II, §202(d)(4)(B), May 23, 1977, 91 Stat. 149; Pub. L. 95–600, title II, §212(b)(1), title VII, §703(p)(3), Nov. 6, 1978, 92 Stat. 2819, 2944; Pub. L. 95–628, §8(a), (b), Nov. 10, 1978, 92 Stat. 3630, 3631; Pub. L. 96–222, title I, §§102(a)(2)(B), 108(b)(1)(B), Apr. 1, 1980, 94 Stat. 208, 226; Pub. L. 96–223, title I, §101(g)(2), Apr. 2, 1980, 94 Stat. 254; Pub. L. 96–598, §1(c), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–34, title II, §221(b)(2)(A), title III, §331(d)(2)(A), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 97–248, title IV, §402(c)(7), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §163(b)(2), title II, §211(b)(25), title IV, §474(r)(40), title VII, §§714(p)(2)(G), 735(c)(14), div. B, title VI, §2663(j)(5)(F), July 18, 1984, 98 Stat. 698, 757, 847, 965, 984, 1171; Pub. L. 99–514, title I, §141(b)(3), title II, §231(d)(3)(I), title XVIII, §1847(b)(15), Oct. 22, 1986, 100 Stat. 2117, 2180, 2857; Pub. L. 100–418, title I, §1941(b)(2)(I), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1017(c)(11), 1018(u)(21), (51), Nov. 10, 1988, 102 Stat. 3577, 3591, 3593; Pub. L. 101–508, title XI, §11801(c)(17)(B), (22)(C), Nov. 5, 1990, 104 Stat. 1388–527, 1388–528; Pub. L. 103–296, title I, §108(h)(8), Aug. 15, 1994,108 Stat. 1487; Pub. L. 105–34, title X, §1056(a), title XIV, §1454(b)(1), Aug. 5, 1997, 111 Stat. 945, 1056; Pub. L. 105–206, title III, §3202(a), July 22, 1998, 112 Stat. 740; Pub. L. 107–16, title V, §532(c)(11), June 7, 2001, 115 Stat. 75; Pub. L. 110–245, title I, §106(a), June 17, 2008, 122 Stat. 1630.)
 
 #### References in Text
 
@@ -254,7 +254,7 @@ Pub. L. 96–223 redesignated former subsec. (h) as (i).
 
 Subsec. (j). Pub. L. 96–598 redesignated former subsec. (i) as (j).
 
-<b>1978</b>—Subsec. (d)(2)(A). Pub. L. 95–628, §8(a), substituted "3 years after the time prescribed by law for filing the return (including extensions thereof) for" for "with the expiration of the 15th day of the 40th month (or the 39th month, in the case of a corporation) following the end of".
+<b>1978</b>—Subsec. (d)(2)(A). Pub. L. 95–628, §8(a), substituted "3 years after the time prescribed by law for filing the return (including extensions thereof) for" for"with the expiration of the 15th day of the 40th month (or the 39th month, in the case of a corporation) following the end of".
 
 Pub. L. 95–600, §703(p)(3), struck out provisions relating to the period of limitations with respect to an overpayment attributable to a net operating loss carryback to any year on account of a certification issued to the taxpayer under section 317 of the Trade Expansion Act of 1962.
 
@@ -326,11 +326,11 @@ Pub. L. 110–245, title I, §106(b), June 17, 2008, 122 Stat. 1630, provided th
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3202(b), July 22, 1998, 112 Stat. 741, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to periods of disability before, on, or after the date of the enactment of this Act \[July 22, 1998\] but shall not apply to any claim for credit or refund which (without regard to such amendment) is barred by the operation of any law or rule of law (including res judicata) as of the date of the enactment of this Act."
+Pub. L. 105–206, title III, §3202(b), July 22, 1998, 112 Stat. 741, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to periods of disability before, on, or after the date of the enactment of this Act \[July 22, 1998\] but shall not apply to any claim for credit or refund which (without regardto such amendment) is barred by the operation of any law or rule of law (including res judicata) as of the date of the enactment of this Act."
 
 #### Effective Date of 1997 Amendment
 
@@ -424,7 +424,7 @@ Amendment by section 101(h) of Pub. L. 91–172 effective Jan. 1, 1970, see sect
 
 Amendment by section 311(d)(3) of Pub. L. 91–172 applicable with respect to computation years (within the meaning of section 1302(c)(1) of this title) beginning after Dec. 31, 1969, and to base period years (within the meaning of section 1302(c)(3) of this title) applicable to such computation years, see section 311(e) of Pub. L. 91–172, set out as a note under section 1301 of this title.
 
-Amendment by section 512(e)(2) of Pub. L. 91–172 applicable with respect to net capital losses sustained intaxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
+Amendment by section 512(e)(2) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
 #### Effective Date of 1967 Amendment
 
@@ -462,11 +462,11 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Transition Rules
 
-Pub. L. 110–245, title I, §106(c), June 17, 2008, 122 Stat. 1630, provided that: "In the case of a determination described in paragraph (8) of section 6511(d) of the Internal Revenue Code of 1986 (as added by this section) which is made by the Secretary of Veterans Affairs after December 31, 2000, and before the date of the enactment of this Act \[June 17, 2008\], such paragraph—
+Pub. L. 110–245, title I, §106(c), June 17, 2008, 122 Stat. 1630, as amended by Pub. L. 113–295, div. A, title II, §213(a), Dec. 19, 2014, 128 Stat. 4033, provided that: "In the case of a determination described in paragraph (8) of section 6511(d) of the Internal Revenue Code of 1986 (as added by this section) which is made by the Secretary of Veterans Affairs after December 31, 2000, and before the date of the enactment of this Act \[June 17, 2008\], such paragraph—
 
 &emsp;"(1) shall not apply with respect to any taxable year which began before January 1, 2001, and
 
-&emsp;"(2) shall be applied by substituting \[sic\] for 'the date of such determination' in subparagraph (A) thereof."
+&emsp;"(2) shall be applied by substituting 'June 17, 2008' for 'the date of such determination' in subparagraph (A) thereof."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

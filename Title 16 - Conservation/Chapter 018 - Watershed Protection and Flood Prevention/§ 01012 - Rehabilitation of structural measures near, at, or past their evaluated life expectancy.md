@@ -6,7 +6,7 @@ For purposes of this section:
 
 #### (1) Rehabilitation
 
-&emsp;The term "rehabilitation", with respect to a structural measure constructed as part of a covered water resource project, means the completion of all work necessary to extend the service life of the structural measure and meet applicable safety and performance standards. This may include: (A) protecting the integrity of the structural measure or prolonging the useful life of the structural measure beyond the original evaluated life expectancy; (B) correcting damage to the structural measure from a catastrophic event; (C) correcting thedeterioration of structural components that are deteriorating at an abnormal rate; (D) upgrading the structural measure to meet changed land use conditions in the watershed served by the structural measure or changed safety criteria applicable to the structural measure; or (E) decommissioning the structure, if requested by the local organization.
+&emsp;The term "rehabilitation", with respect to a structural measure constructed as part of a covered water resource project, means the completion of all work necessary to extend the service life of the structural measure and meet applicable safety and performance standards. This may include: (A) protecting the integrity of the structural measure or prolonging the useful life of the structural measure beyond the original evaluated life expectancy; (B) correcting damage to the structural measure from a catastrophic event; (C) correcting the deterioration of structural components that are deteriorating at an abnormal rate; (D) upgrading the structural measure to meet changed land use conditions in the watershed served by the structural measure or changed safety criteria applicable to the structural measure; or (E) decommissioning the structure, if requested by the local organization.
 
 #### (2) Covered water resource project
 
@@ -20,7 +20,7 @@ For purposes of this section:
 
 Flood Prevention" of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
 
-&emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451 et seq.; commonly known as the Resource Conservation and Development Program).
+&emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451et seq.; commonly known as the Resource Conservation and Development Program).
 
 #### (3) Structural measure
 
@@ -64,7 +64,7 @@ A local organization may apply to the Secretary for technical and financial assi
 
 #### (f) Ranking of requests for rehabilitation assistance
 
-The Secretary shall establish such system of approving rehabilitation requests, recognizing that such requests will be received throughoutthe fiscal year and subject to the availability of funds to carry out this section, as is necessary for proper administration by the Department of Agriculture and equitable for all local organizations. The approval process shall be in writing, and made known to all local organizations and appropriate State agencies.
+The Secretary shall establish such system of approving rehabilitation requests, recognizing that such requests will be received throughout the fiscal year and subject to the availability of funds to carry out this section, as is necessary for proper administration by the Department of Agriculture and equitable for all local organizations. The approval process shall be in writing, and made known to all local organizations and appropriate State agencies.
 
 #### (g) Prohibition on certain rehabilitation assistance
 
@@ -84,11 +84,13 @@ The Secretary may not approve a rehabilitation request if the need for rehabilit
 
 &emsp;&emsp;(D) $60,000,000 for fiscal year 2006;
 
-&emsp;&emsp;(E) $65,000,000 for fiscal year 2007; and <sup>1</sup>
+&emsp;&emsp;(E) $65,000,000 for fiscal year 2007;
 
-&emsp;&emsp;(F) $0 for fiscal year 2008.<sup>2</sup>
+&emsp;&emsp;(F) $0 for fiscal year 2008;
 
-&emsp;&emsp;(G) $100,000,000 for fiscal year 2009, to be available until expended.
+&emsp;&emsp;(G) $100,000,000 for fiscal year 2009, to be available until expended; and
+
+&emsp;&emsp;(H) $250,000,000 for fiscal year 2014, to remain available until expended.
 
 #### (2) Authorization of appropriations
 
@@ -102,7 +104,7 @@ The Secretary may not approve a rehabilitation request if the need for rehabilit
 
 &emsp;&emsp;(D) $75,000,000 for fiscal year 2006; and
 
-&emsp;&emsp;(E) $85,000,000 for each of fiscal years 2008 through 2012.
+&emsp;&emsp;(E) $85,000,000 for each of fiscal years 2008 through 2018.
 
 #### (i) Assessment of rehabilitation needs
 
@@ -118,7 +120,7 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 &emsp;Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
 
-(Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, §2505, May 13, 2002, 116 Stat. 274; Pub. L. 110–234, title II, §2803, May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2803, June 18, 2008, 122 Stat. 1664, 1814.)
+(Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, §2505, May 13, 2002, 116 Stat. 274; Pub. L. 110–234, title II, §2803, May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2803, June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, §2505, Feb. 7, 2014, 128 Stat. 752.)
 
 #### References in Text
 
@@ -135,6 +137,10 @@ The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(1)(H). Pub. L. 113–79, §2505(a), added subpar. (H).
+
+Subsec. (h)(2)(E). Pub. L. 113–79, §2505(b), substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (h)(1)(G). Pub. L. 110–246, §2803(a), added subpar. (G).
 
@@ -155,8 +161,4 @@ Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted "each of fiscal yea
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
-
-<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be "; and"</i>
 

@@ -16,7 +16,7 @@ Minor changes only were made in phraseology.
 
 Ex. Ord. No. 11517, Mar. 19, 1970, 35 F.R. 4937, provided:
 
-WHEREAS the President of the United States, under section 3192 of Title 18, United States Code, has been granted the power to take all necessary measures for the transportation, safekeeping and security against lawless violence of any person delivered by any foreign government to an agent of the United States for return to the United States for trial for any offense of which he is duly accused; and
+WHEREAS the President of the United States, under section 3192 of Title 18, United States Code, has beengranted the power to take all necessary measures for the transportation, safekeeping and security against lawless violence of any person delivered by any foreign government to an agent of the United States for return to the United States for trial for any offense of which he is duly accused; and
 
 WHEREAS fugitives from justice in the United States whose extradition from abroad has been requested by the Government of the United States and granted by a foreign government are to be returned in the custody of duly appointed agents in accordance with the provisions of section 3193 of Title 18, United States Code; and
 

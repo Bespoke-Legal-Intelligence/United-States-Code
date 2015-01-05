@@ -22,7 +22,7 @@ Covered Employees.—An employee described in this subsection is an employee (as
 
 (c)
 
-Eligible Family Members.—In this section, the term “family member” has the meaning given the term in section 481h(b) of title 37.
+Eligible Family Members.—In this section, the term "family member" has the meaning given the term in section 481h(b) of title 37.
 
 (d)
 
@@ -42,7 +42,7 @@ Travel and Transportation Authorized.—(1) The transportation authorized by sub
 
 <b>2013</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
-<b>2011</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted “481h(b)” for “411h(b)” in subsec. (c), “474(d)” for “404(d)” in subsec. (d)(2), and “481h(d)(1)” for “411h(d)(1)” in subsec. (d)(3).
+<b>2011</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted "481h(b)" for "411h(b)" in subsec. (c), "474(d)" for "404(d)" in subsec. (d)(2), and "481h(d)(1)" for "411h(d)(1)" in subsec. (d)(3).
 
 #### Effective Date of 2013 Amendment
 

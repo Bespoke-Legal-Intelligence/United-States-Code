@@ -42,7 +42,7 @@
 
 (h) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title.
 
-(i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
+(i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 grosstons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
 
 (j) The Secretary may establish by regulation a safety management system appropriate for the characteristics, methods of operation, and nature of service of towing vessels.
 
@@ -194,7 +194,7 @@ Pub. L. 111–281, title VII, §701(c), Oct. 15, 2010, 124 Stat. 2980, provided 
 
 #### Foreign Approvals
 
-Pub. L. 104–324, title VI, §604(b), Oct. 19, 1996, 110 Stat. 3931, provided that: "The Secretary of Transportation, in consultation with other interested Federal agencies, shall work with foreign governments to have those governments approve the use of the same equipment and materials on vessels documented under the laws of those countries that the Secretary requires on United States documented vessels."
+Pub. L. 104–324, title VI, §604(b), Oct. 19, 1996, 110 Stat. 3931, provided that: "The Secretary of Transportation, in consultation with other interested Federal agencies,shall work with foreign governments to have those governments approve the use of the same equipment and materials on vessels documented under the laws of those countries that the Secretary requires on United States documented vessels."
 
 #### International Convention for Safety of Life at Sea
 

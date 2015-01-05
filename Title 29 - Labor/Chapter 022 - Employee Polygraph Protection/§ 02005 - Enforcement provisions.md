@@ -16,7 +16,7 @@
 
 #### (b) Injunctive actions by Secretary
 
-The Secretary may bring an action under this section to restrain violations of this chapter.The Solicitor of Labor may appear for and represent the Secretary in any litigation brought under this chapter. In any action brought under this section, the district courts of the United States shall have jurisdiction, for cause shown, to issue temporary or permanent restraining orders and injunctions to require compliance with this chapter, including such legal or equitable relief incident thereto as may be appropriate, including, but not limited to, employment, reinstatement, promotion, and the payment of lost wages and benefits.
+The Secretary may bring an action under this section to restrain violations of this chapter. The Solicitor of Labor may appear for and represent the Secretary in any litigation brought under this chapter. In any action brought under this section, the district courts of the United States shall have jurisdiction, for cause shown, to issue temporary or permanent restraining orders and injunctions to require compliance with this chapter, including such legal or equitable relief incident thereto as may be appropriate, including, but not limited to, employment, reinstatement, promotion, and the payment of lost wages and benefits.
 
 #### (c) Private civil actions
 
@@ -26,7 +26,7 @@ The Secretary may bring an action under this section to restrain violations of t
 
 #### (2) Court
 
-&emsp;An action to recover the liability prescribed in paragraph (1) may be maintained against the employer in any Federal or State court of competent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
+&emsp;An action to recover the liability prescribed in paragraph (1) may be maintained againstthe employer in any Federal or State court of competent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
 
 #### (3) Costs
 

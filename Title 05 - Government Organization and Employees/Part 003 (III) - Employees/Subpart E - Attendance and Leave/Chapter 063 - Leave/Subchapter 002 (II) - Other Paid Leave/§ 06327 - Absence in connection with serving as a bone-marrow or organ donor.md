@@ -18,5 +18,5 @@ Another section 6327 was renumbered section 6328 of this title.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–56 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not to exceed 7 days of leave may be used under this section by an employee in a calendar year.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–56 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Not to exceed 7 days of leave may be used under this section by an employee in a calendar year."
 

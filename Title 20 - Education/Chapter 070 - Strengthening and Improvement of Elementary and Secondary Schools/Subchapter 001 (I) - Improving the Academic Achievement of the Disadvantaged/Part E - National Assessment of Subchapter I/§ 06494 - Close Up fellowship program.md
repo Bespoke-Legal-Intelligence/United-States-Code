@@ -76,7 +76,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;In this subsection, the term "recent immigrant student" means a student who is amember of a family that immigrated to the United States within 5 years of the student's participation in such a program.
+&emsp;&emsp;In this subsection, the term "recent immigrant student" means a student who is a member of a family that immigrated to the United States within 5 years of the student's participation in such a program.
 
 #### (C) Use of funds
 

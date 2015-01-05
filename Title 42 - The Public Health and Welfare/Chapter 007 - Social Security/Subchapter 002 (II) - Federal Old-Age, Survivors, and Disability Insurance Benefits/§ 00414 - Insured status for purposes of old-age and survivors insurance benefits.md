@@ -16,7 +16,7 @@ The term "fully insured individual" means any individual who had not less than�
 
 #### (b) "Currently insured individual" defined
 
-The term "currently insured individual" means any individual who had not less than sixquarters of coverage during the thirteen-quarter period ending with (1) the quarter in which he died, (2) the quarter in which he became entitled to old-age insurance benefits, (3) the quarter in which he became entitled to primary insurance benefits under this subchapter as in effect prior to August 28, 1950, or (4) in the case of any individual entitled to disability insurance benefits, the quarter in which he most recently became entitled to disability insurance benefits, not counting as part of such thirteen-quarter period any quarter any part of which was included in a period of disability unless such quarter was a quarter of coverage, and who satisfies the criterion specified in subsection (c) of this section.
+The term "currently insured individual" means any individual who had not less than six quarters of coverage during the thirteen-quarter period ending with (1) the quarter in which he died, (2) the quarter in which he became entitled to old-age insurance benefits, (3) the quarter in which he became entitled to primary insurance benefits under this subchapter as in effect prior to August 28, 1950, or (4) in the case of any individual entitled to disability insurance benefits, the quarter in which he most recently became entitled to disability insurance benefits, not counting as part of such thirteen-quarter period any quarter any part of which was included in a period of disability unless such quarter was a quarter of coverage, and who satisfies the criterion specified in subsection (c) of this section.
 
 #### (c) Criterion described
 
@@ -74,7 +74,7 @@ Pub. L. 108–203, title II, §211(c), Mar. 2, 2004, 118 Stat. 518, provided tha
 
 Pub. L. 92–603, title I, §104(j), Oct. 30, 1972, 86 Stat. 1341, provided that:
 
-"(1) The amendments made by this section \[amending this section and sections 415, 416, 423, and 427 of this title and provisions set out as a note under section 415 of this title\] (except the amendment made by subsection (i) \[amending section 3121 of Title 26, Internal Revenue Code\], and the amendment made by subsection (g) to section 209(i) of the Social Security Act \[42 U.S.C. 409(i)\]) shall apply only in the case of a man who attains (or would attain) age 62 after December 1974. The amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the SocialSecurity Act, shall apply only with respect to payments after 1974.
+"(1) The amendments made by this section \[amending this section and sections 415, 416, 423, and 427 of this title and provisions set out as a note under section 415 of this title\] (except the amendment made by subsection (i) \[amending section 3121 of Title 26, Internal Revenue Code\], and the amendment made by subsection (g) to section 209(i) of the Social Security Act \[42 U.S.C. 409(i)\]) shall apply only in the case of a man who attains (or would attain) age 62 after December 1974. The amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act, shall apply only with respect to payments after 1974.
 
 "(2) In the case of a man who attains age 62 prior to 1975, the number of his elapsed years for purposes of section 215(b)(3) of the Social Security Act \[42 U.S.C. 415(b)(3)\] shall be equal to (A) the number determined under such section as in effect on September 1, 1972, or (B) if less, the number determined as though he attained age 65 in 1975, except that monthly benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] for months prior to January 1973 payable on the basis of his wages and self-employment income shall be determined as though this section had not been enacted.
 
@@ -122,39 +122,15 @@ Pub. L. 98–21, title I, §102(e), Apr. 20, 1983, 97 Stat. 71, as amended by Pu
 
 "(2) The number of quarters of coverage which is required for purposes of subparagraph (B) of paragraph (1) shall be determined as follows:
 
-<b> "In the case of an individual</b>
+&nbsp;
 
-<b>The number of quarters</b>
-
-<b>  who on January 1, 1984,</b>
-
-<b>of coverage so required</b>
-
-<b>  is—</b>
-
-<b>shall be—</b>
-
-&emsp;&emsp;age 60 or over
-
-6&nbsp;&nbsp;
-
-&emsp;&emsp;age 59 or over but less than age 60
-
-8&nbsp;&nbsp;
-
-&emsp;&emsp;age 58 or over but less than age 59
-
-12&nbsp;&nbsp;
-
-&emsp;&emsp;age 57 or over but less than age 58
-
-16&nbsp;&nbsp;
-
-&emsp;&emsp;age 55 or over but less than age 57
-
-20\."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b> "In the case of an individual who on  January 1, 1984, is—</b> | <b>The number of quarters of coverage so required shall be—</b> |
+| :--- | ---: |
+| age 60 or over | 6&nbsp; |
+| age 59 or over but less than age 60 | 8&nbsp; |
+| age 58 or over but less than age 59 | 12&nbsp; |
+| age 57 or over but less than age 58 | 16&nbsp; |
+| age 55 or over but less than age 57 | 20\." |
 
 #### Determination of Entitlement to Monthly Benefits for Sept. 1960 and Prior Months and Individual's Closing Date Prior to 1960
 

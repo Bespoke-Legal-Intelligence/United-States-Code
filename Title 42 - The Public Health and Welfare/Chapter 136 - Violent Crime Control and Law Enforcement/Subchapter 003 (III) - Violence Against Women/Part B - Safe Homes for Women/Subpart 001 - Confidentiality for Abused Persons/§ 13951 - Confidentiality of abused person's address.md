@@ -10,7 +10,7 @@ The regulations under subsection (a) of this section shall require—
 
 &emsp;(1) in the case of an individual, the presentation to an appropriate postal official of a valid, outstanding protection order; and
 
-&emsp;(2) in the case of a domestic violence shelter, the presentation to an appropriate postal authority of proof from a State domestic violence coalition that meets the requirements of section 10410 <sup>1</sup> of this title verifying that the organization is a domestic violence shelter.
+&emsp;(2) in the case of a domestic violence shelter, the presentation to an appropriate postal authority of proof from a State domestic violence coalition that meets the requirements ofsection 10410 <sup>1</sup> of this title verifying that the organization is a domestic violence shelter.
 
 #### (c) Disclosure for certain purposes
 

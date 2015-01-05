@@ -33,7 +33,7 @@
 | :--- | ---: |
 | [715\.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715%20-%20Short%20title.md) | Short title. |
 | [715a.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715a%20-%20Migratory%20Bird%20Conservation%20Commission%3B%20creation%3B%20composition%3B%20duties%3B%20approval%20of%20areas%20of%20land%20and%20water%20recommended%20for%20purchase%20or%E2%80%A6.md) | Migratory Bird Conservation Commission; creation; composition; duties; approval of areas of land and water recommended for purchase or rental. |
-| [715b.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715b%20-%20Omitted.md) | Omitted. |
+| [715b.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715b%20-%20Annual%20report.md) | Annual report. |
 | [715c.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715c%20-%20Areas%20recommended%20for%20approval%3B%20character.md) | Areas recommended for approval; character. |
 | [715d.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715d%20-%20Purchase%20or%20rental%20of%20approved%20areas%20or%20interests%20therein%3B%20gifts%20and%20devises%3B%20United%20States%20lands.md) | Purchase or rental of approved areas or interests therein; gifts and devises; United States lands. |
 | 715–1 to 715d–3. Repealed or Omitted. |  |
@@ -80,6 +80,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV–A—PERMANENT ELECTRONIC DUCK STAMP
+
+|  |  |
+| :--- | ---: |
+| 718<i>o.</i> | Definitions. |
+| [718p.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Permanent%20Electronic%20Duck%20Stamp/%C2%A7%2000718p%20-%20Authority%20to%20issue%20electronic%20duck%20stamps.md) | Authority to issue electronic duck stamps. |
+| [718q.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Permanent%20Electronic%20Duck%20Stamp/%C2%A7%2000718q%20-%20State%20application.md) | State application. |
+| [718r.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Permanent%20Electronic%20Duck%20Stamp/%C2%A7%2000718r%20-%20State%20obligations%20and%20authorities.md) | State obligations and authorities. |
+| [718s.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Permanent%20Electronic%20Duck%20Stamp/%C2%A7%2000718s%20-%20Electronic%20stamp%20requirements%3B%20recognition%20of%20electronic%20stamp.md) | Electronic stamp requirements; recognition of electronic stamp. |
+| [718t.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Permanent%20Electronic%20Duck%20Stamp/%C2%A7%2000718t%20-%20Termination%20of%20State%20participation.md) | Termination of State participation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER V—JUNIOR DUCK STAMP CONSERVATION AND DESIGN PROGRAM
 
 |  |  |
@@ -101,4 +114,5 @@
 - [Subchapter 002 (II) - Migratory Bird Treaty](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/README.md)
 - [Subchapter 003 (III) - Migratory Bird Conservation](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/README.md)
 - [Subchapter 004 (IV) - Hunting and Conservation Stamp Tax](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/README.md)
+- [Subchapter 004&#8211;A (IV&#8211;A) - Permanent Electronic Duck Stamp](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Permanent%20Electronic%20Duck%20Stamp/README.md)
 - [Subchapter 005 (V) - Junior Duck Stamp Conservation and Design Program](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/README.md)

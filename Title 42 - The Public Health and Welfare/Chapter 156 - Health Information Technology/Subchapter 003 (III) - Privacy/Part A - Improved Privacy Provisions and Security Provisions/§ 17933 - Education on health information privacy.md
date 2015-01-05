@@ -2,7 +2,7 @@
 
 #### (a) Regional office privacy advisors
 
-Not later than 6 months after February 17, 2009, the Secretary shall designate an individualin each regional office of the Department of Health and Human Services to offer guidance and education to covered entities, business associates, and individuals on their rights and responsibilities related to Federal privacy and security requirements for protected health information.
+Not later than 6 months after February 17, 2009, the Secretary shall designate an individual in each regional office of the Department of Health and Human Services to offer guidance and education to covered entities, business associates, and individuals on their rights and responsibilities related to Federal privacy and security requirements for protected health information.
 
 #### (b) Education initiative on uses of health information
 

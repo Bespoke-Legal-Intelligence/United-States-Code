@@ -6,7 +6,7 @@
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Joint%20Committee%20on%20Printing/README.md) | <b>Joint Committee on Printing</b> | <b>101</b> |
-| [<b>3.</b>](Chapter%20003%20-%20Government%20Printing%20Office/README.md) | <b>Government Printing Office</b> | <b>301</b> |
+| [<b>3.</b>](Chapter%20003%20-%20Government%20Publishing%20Office/README.md) | <b>Government Publishing Office</b> | <b>301</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Production%20and%20Procurement%20of%20Printing%20and%20Binding/README.md) | <b>Production and Procurement of Printing and Binding</b> | <b>501</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Congressional%20Printing%20and%20Binding/README.md) | <b>Congressional Printing and Binding</b> | <b>701</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Congressional%20Record/README.md) | <b>Congressional Record</b> | <b>901</b> |
@@ -20,18 +20,20 @@
 | [<b>23.</b>](Chapter%20023%20-%20National%20Archives%20Trust%20Fund%20Board/README.md) | <b>National Archives Trust Fund Board</b> | <b>2301</b> |
 | [<b>25.</b>](Chapter%20025%20-%20National%20Historical%20Publications%20and%20Records%20Commission/README.md) | <b>National Historical Publications and Records Commission</b> | <b>2501</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Advisory%20Committee%20on%20the%20Records%20of%20Congress/README.md) | <b>Advisory Committee on the Records of Congress</b> | <b>2701</b> |
-| [<b>29.</b>](Chapter%20029%20-%20Records%20Management%20by%20the%20Archivist%20of%20the%20United%20States%20and%20by%20the%20Administrator%20of%20General%20Services/README.md) | <b>Records Management by the Archivist of the United States and by the Administrator of General Services</b> | <b>2901</b> |
+| [<b>29.</b>](Chapter%20029%20-%20Records%20Management%20by%20the%20Archivist%20of%20the%20United%20States/README.md) | <b>Records Management by the Archivist of the United States</b> | <b>2901</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Records%20Management%20by%20Federal%20Agencies/README.md) | <b>Records Management by Federal Agencies</b> | <b>3101</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Disposal%20of%20Records/README.md) | <b>Disposal of Records</b> | <b>3301</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Coordination%20of%20Federal%20Information%20Policy/README.md) | <b>Coordination of Federal Information Policy</b> | <b>3501</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/README.md) | <b>Management and Promotion of Electronic Government Services</b> | <b>3601</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/README.md) | <b>Advertisements by Government Agencies</b> | <b>3701</b> |
-| [<b>39.</b>](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/README.md) | <b>Government Printing Office: Office of Inspector General</b> | <b>3901</b> |
+| [<b>39.</b>](Chapter%20039%20-%20Government%20Publishing%20Office%20Office%20of%20Inspector%20General/README.md) | <b>Government Publishing Office: Office of Inspector General</b> | <b>3901</b> |
 | [<b>41.</b>](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/README.md) | <b>Access to Federal Electronic Information</b> | <b>4101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–187, §9(f)(2), Nov. 26, 2014, 128 Stat. 2014, struck out "and by the Administrator of General Services" after "United States" in item 29.
 
 <b>2002</b>—Pub. L. 107–347, title I, §101(b), Dec. 17, 2002, 116 Stat. 2910, added item 36.
 
@@ -50,6 +52,10 @@
 Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 "Federal Records Council".
 
 <b>1974</b>—Pub. L. 93–536, §2, Dec. 22, 1974, 88 Stat. 1735, substituted "National Historical Publications and Records Commission" for "National Historical Publications Commission" in item 25.
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in items 3 and 39 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 Table Showing Disposition of All Sections of Former Title 44
 
@@ -1453,7 +1459,7 @@ Section 3 of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, repealed the sectio
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Chapter 001 - Joint Committee on Printing](Chapter%20001%20-%20Joint%20Committee%20on%20Printing/README.md)
-- [Chapter 003 - Government Printing Office](Chapter%20003%20-%20Government%20Printing%20Office/README.md)
+- [Chapter 003 - Government Publishing Office](Chapter%20003%20-%20Government%20Publishing%20Office/README.md)
 - [Chapter 005 - Production and Procurement of Printing and Binding](Chapter%20005%20-%20Production%20and%20Procurement%20of%20Printing%20and%20Binding/README.md)
 - [Chapter 007 - Congressional Printing and Binding](Chapter%20007%20-%20Congressional%20Printing%20and%20Binding/README.md)
 - [Chapter 009 - Congressional Record](Chapter%20009%20-%20Congressional%20Record/README.md)
@@ -1467,11 +1473,11 @@ Section 3 of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, repealed the sectio
 - [Chapter 023 - National Archives Trust Fund Board](Chapter%20023%20-%20National%20Archives%20Trust%20Fund%20Board/README.md)
 - [Chapter 025 - National Historical Publications and Records Commission](Chapter%20025%20-%20National%20Historical%20Publications%20and%20Records%20Commission/README.md)
 - [Chapter 027 - Advisory Committee on the Records of Congress](Chapter%20027%20-%20Advisory%20Committee%20on%20the%20Records%20of%20Congress/README.md)
-- [Chapter 029 - Records Management by the Archivist of the United States and by the Administrator of General Services](Chapter%20029%20-%20Records%20Management%20by%20the%20Archivist%20of%20the%20United%20States%20and%20by%20the%20Administrator%20of%20General%20Services/README.md)
+- [Chapter 029 - Records Management by the Archivist of the United States](Chapter%20029%20-%20Records%20Management%20by%20the%20Archivist%20of%20the%20United%20States/README.md)
 - [Chapter 031 - Records Management by Federal Agencies](Chapter%20031%20-%20Records%20Management%20by%20Federal%20Agencies/README.md)
 - [Chapter 033 - Disposal of Records](Chapter%20033%20-%20Disposal%20of%20Records/README.md)
 - [Chapter 035 - Coordination of Federal Information Policy](Chapter%20035%20-%20Coordination%20of%20Federal%20Information%20Policy/README.md)
 - [Chapter 036 - Management and Promotion of Electronic Government Services](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/README.md)
 - [Chapter 037 - Advertisements by Government Agencies](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/README.md)
-- [Chapter 039 - Government Printing Office Office of Inspector General](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/README.md)
+- [Chapter 039 - Government Publishing Office Office of Inspector General](Chapter%20039%20-%20Government%20Publishing%20Office%20Office%20of%20Inspector%20General/README.md)
 - [Chapter 041 - Access to Federal Electronic Information](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/README.md)

@@ -86,9 +86,9 @@ For purposes of this section—
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
 
-#### (4) Special rule for for <sup>1</sup> certain years
+#### (4) Special rule for certain years
 
-&emsp;Notwithstanding paragraph (3), in the case of any taxable year beginning after 2008 and before 2018, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000.
+&emsp;In the case of any taxable year beginning after 2008 and before 2018, paragraph (1)(B)(i) shall be applied by substituting "$3,000" for "$10,000".
 
 #### (e) Identification requirement
 
@@ -98,7 +98,7 @@ No credit shall be allowed under this section to a taxpayer with respect to any 
 
 Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148,title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -110,6 +110,10 @@ A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As amended by Pub. L. 111–5, §1003(a), par. (4) read as follows: "
+
+Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000." See 2009 Amendment and Effective Date of 2014 Amendment notes below.
+
 <b>2013</b>—Subsec. (b)(3). Pub. L. 112–240, §104(c)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: "In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
 
 &emsp;"(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
@@ -120,11 +124,11 @@ Subsec. (d)(1). Pub. L. 112–240, §104(c)(2)(B)(ii)(II), substituted "section 
 
 Subsec. (d)(1)(A), (B). Pub. L. 112–240, §104(c)(2)(B)(ii)(I), substituted "section 26(a)" for "section 26(a)(2) or subsection (b)(3), as the case may be," in subpar. (A) and in introductory provisions in subpar. (B).
 
-Subsec. (d)(4). Pub. L. 112–240, §103(b), substituted "for certain years" for "2009, 2010, 2011, and 2012" in heading and "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in text.
+Subsec. (d)(4). Pub. L. 112–240, §103(b), which directed substitution of "for certain years" for "2009, 2010, 2011, and 2012" in heading and "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 <b>2010</b>—Subsec. (b)(3)(B). Pub. L. 111–148, §10909(b)(2)(A), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily struck out "23," before "25A(i),". See Effective and Termination Dates of 2010 Amendment note below.
 
-Subsec. (d)(4). Pub. L. 111–312, §103(b), substituted "2009, 2010, 2011, and 2012" for "2009 and 2010" in heading and ", 2010, 2011, or 2012" for "or 2010" in text.
+Subsec. (d)(4). Pub. L. 111–312, §103(b), which directed substitution of "2009, 2010, 2011, and 2012" for "2009 and 2010" in heading and ", 2010, 2011, or 2012" for "or 2010" in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 <b>2009</b>—Subsec. (b)(3)(B). Pub. L. 111–5, §1144(b)(1)(A), inserted "30B," after "30,".
 
@@ -132,7 +136,7 @@ Pub. L. 111–5, §1142(b)(1)(A), inserted "30," after "25D,".
 
 Pub. L. 111–5, §1004(b)(1), inserted "25A(i)," after "23,".
 
-Subsec. (d)(4). Pub. L. 111–5, §1003(a), amended par. (4) generally. Prior to amendment, text read as follows: "Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500."
+Subsec. (d)(4). Pub. L. 111–5, §1003(a), amended par. (4) generally. Prior to amendment, text read as follows: "Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500." Par. (4) was subsequently generally amended by Pub. L. 113–295, effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–351 inserted "for which the taxpayer is allowed a deduction under section 151" after "of the taxpayer".
 
@@ -254,6 +258,10 @@ Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text 
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–295, div. A, title II, §209(k), Dec. 19, 2014, 128 Stat. 4031, provided that: "The amendments madeby this section \[amending this section, sections 25A, 30, 30D, 35, 38, 45Q, 48, 48C, 164, 853A, and 1016 of this title, and provisions set out as notes under sections 6428 and 6432 of this title\] shall take effect as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5, div. B, title I\] to which they relate."
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–240, title I, §103(e), Jan. 2, 2013, 126 Stat. 2320, provided that:
@@ -290,7 +298,7 @@ Pub. L. 111–5, div. B, title I, §1142(e), Feb. 17, 2009, 123 Stat. 331, provi
 
 Pub. L. 111–5, div. B, title I, §1144(c), Feb. 17, 2009, 123 Stat. 333, provided that: "The amendments made by this section \[amending this section and sections 25, 25B, 26, 30B, 30C, 55, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2008."
 
-Pub. L. 111–5, div. B, title I, §1144(d), Feb. 17, 2009, 123 Stat. 333, provided that: "The amendment made by subsection (b)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment noteunder section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates."
+Pub. L. 111–5, div. B, title I, §1144(d), Feb. 17, 2009, 123 Stat. 333, provided that: "The amendment made by subsection (b)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates."
 
 #### Effective and Termination Dates of 2008 Amendment
 
@@ -318,7 +326,7 @@ Pub. L. 110–172, §11(c)(2), Dec. 29, 2007, 121 Stat. 2489, provided that: "Th
 
 Amendment by Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub.L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2004 Amendment
 
@@ -370,7 +378,7 @@ Subsection (b).—The amendments made by subsection (b) \[amending this section 
 
 Amendment by section 202(f)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
-Pub. L. 107–16, title VI, §618(d), June 7, 2001, 115 Stat. 108, provided that: "The amendments made by this section \[enacting section 25B of this title and amendingthis section and sections 25, 25B, 26, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2001."
+Pub. L. 107–16, title VI, §618(d), June 7, 2001, 115 Stat. 108, provided that: "The amendments made by this section \[enacting section 25B of this title and amending this section and sections 25, 25B, 26, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1999 Amendment
 
@@ -389,6 +397,4 @@ Pub. L. 105–34, title I, §101(e), Aug. 5, 1997, 111 Stat. 799, provided that:
 #### Refunds Disregarded in Administration of Federal and Federally Assisted Programs
 
 Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: "Any payment considered to have been made to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

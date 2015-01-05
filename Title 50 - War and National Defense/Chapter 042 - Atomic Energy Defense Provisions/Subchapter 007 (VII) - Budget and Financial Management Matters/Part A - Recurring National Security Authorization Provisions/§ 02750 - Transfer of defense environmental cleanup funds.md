@@ -20,7 +20,7 @@ The Secretary of Energy shall provide the manager of each field office of the De
 
 &emsp;&emsp;(A) to address a risk to health, safety, or the environment; or
 
-&emsp;&emsp;(B) to assure the most efficient use of defense environmental management funds <sup>1</sup> at the field office.
+&emsp;&emsp;(B) to assure the most efficient use of defense environmental cleanup funds at the field office.
 
 #### (4) Impermissible uses
 
@@ -42,13 +42,15 @@ In this section:
 
 &emsp;(2) The term "defense environmental cleanup funds" means funds appropriated to the Department of Energy pursuant to an authorization for carrying out defense environmental cleanup activities necessary for national security programs.
 
-(Pub. L. 107–314, div. D, title XLVII, §4710, formerly div. C, title XXXVI, §3629, Dec. 2, 2002, 116 Stat. 2760; renumbered div. D, title XLVII, §4710, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(iv), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(2), Dec. 26, 2013, 127 Stat. 1081.)
+(Pub. L. 107–314, div. D, title XLVII, §4710, formerly div. C, title XXXVI, §3629, Dec. 2, 2002, 116 Stat. 2760; renumbered div. D, title XLVII, §4710, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(iv), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(2), Dec. 26, 2013, 127 Stat. 1081; Pub. L. 113–291, div. C, title XXXI, §3142(q), Dec. 19, 2014, 128 Stat. 3901.)
 
 #### Codification
 
 Section was formerly classified to section 7386i of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(3)(B). Pub. L. 113–291 substituted "cleanup" for "management".
 
 <b>2013</b>—Pub. L. 113–66, §3146(h)(2)(A), substituted "cleanup" for "management" in section catchline.
 
@@ -59,6 +61,4 @@ Subsec. (e)(1). Pub. L. 113–66, §3146(h)(2)(C)(i), substituted "defense envir
 Subsec. (e)(2). Pub. L. 113–66, §3146(h)(2)(C)(ii), substituted " 'defense environmental cleanup funds' " for " 'defense environmental management funds' " and "defense environmental cleanup activities" for "environmental restoration and waste management activities".
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(j)(2)(D)(iv), made technical amendment to reference in original act which appears in text as reference to section 2742 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "defense environmental cleanup funds".</i>
 

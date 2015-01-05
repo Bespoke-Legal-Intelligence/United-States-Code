@@ -1,6 +1,6 @@
 ### §501. Rules and regulations
 
-(a) The Secretary has authority to prescribe all rules and regulations which are necessary orappropriate to carry out the laws administered by the Department and are consistent with those laws, including—
+(a) The Secretary has authority to prescribe all rules and regulations which are necessary or appropriate to carry out the laws administered by the Department and are consistent with those laws, including—
 
 &emsp;(1) regulations with respect to the nature and extent of proof and evidence and the method of taking and furnishing them in order to establish the right to benefits under such laws;
 

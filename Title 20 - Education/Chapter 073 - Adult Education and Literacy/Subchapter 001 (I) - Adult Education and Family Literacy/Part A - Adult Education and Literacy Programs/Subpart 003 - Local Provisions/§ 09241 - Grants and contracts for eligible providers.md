@@ -50,7 +50,7 @@ In awarding grants or contracts under this section, the eligible agency shall co
 
 &emsp;(8) whether the activities are staffed by well-trained instructors, counselors, and administrators;
 
-&emsp;(9) whether the activities coordinate with other available resources in the community, such as by establishing strong links with elementary schools and secondary schools, postsecondary educational institutions, one-stop centers, job training programs, and social service agencies;
+&emsp;(9) whether the activities coordinate with other available resources in the community, such as by establishing strong links with elementary schools and secondary schools, postsecondary educational institutions, one-stopcenters, job training programs, and social service agencies;
 
 &emsp;(10) whether the activities offer flexible schedules and support services (such as child care and transportation) that are necessary to enable individuals, including individuals with disabilities or other special needs, to attend and complete programs;
 
@@ -59,4 +59,12 @@ In awarding grants or contracts under this section, the eligible agency shall co
 &emsp;(12) whether the local communities have a demonstrated need for additional English literacy programs.
 
 (Pub. L. 105–220, title II, §231, Aug. 7, 1998, 112 Stat. 1070.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

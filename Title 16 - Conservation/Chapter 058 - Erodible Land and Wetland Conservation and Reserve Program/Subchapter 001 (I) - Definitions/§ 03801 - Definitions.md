@@ -1,6 +1,6 @@
 ### §3801. Definitions
 
-(a) For purposes of subchapters I through V of this chapter:
+(a) For purposes of subchapters I through VIII of this chapter:
 
 &emsp;(1) The term "agricultural commodity" means—
 
@@ -72,7 +72,7 @@ Field.—The term "field" means a part of a farm that is separated from the bala
 
 &emsp;(11)(A) The term "highly erodible land" means land—
 
-&emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII land under the land capability classification system in effect on December 23, 1985; or
+&emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII landunder the land capability classification system in effect on December 23, 1985; or
 
 &emsp;&emsp;(ii) that has, or that if used to produce an agricultural commodity, would have an excessive average annual rate of erosion in relation to the soil loss tolerance level, as established by the Secretary, and as determined by the Secretary through application of factors from the universal soil loss equation and the wind erosion equation, including factors for climate, soil erodibility, and field slope.
 
@@ -158,9 +158,11 @@ Technical assistance.—The term "technical assistance" means technical expertis
 
 &emsp;(2) lists of such soils and such vegetation.
 
-(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753.)
+(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753; Pub. L. 113–79, title II, §2713(a), Feb. 7, 2014, 128 Stat. 772.)
 
 #### References in Text
+
+Subchapters I through VIII of this chapter, referred to in subsec. (a), was in the original a reference to subtitles A through I, meaning subtitles A through I of title XII of Pub. L. 99–198. Subtitles A through E and G through I are classified generally to subchapters I through V and VI through VIII of this chapter. Subtitle F of title XII was repealed by Pub. L. 104–127. Section 3851 of this title, contained in subchapter V–A, is based on section 1252 of Pub. L. 99–198, which was directed to be added to the previously repealed subtitle F by Pub. L. 110–246. See Codification note set out under section 3851 of this title.
 
 This chapter, referred to in subsec. (a)(9), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
@@ -170,9 +172,11 @@ This Act, referred to in subsec. (a)(27), is Pub. L. 99–198, Dec. 23, 1985, 99
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79 substituted "VIII" for "V" in introductory provisions.
 
 <b>2008</b>—Subsec. (a)(2) to (27). Pub. L. 110–246, §2001, added pars. (2), (8), (14), (16) to (19), (23), and (25) and redesignated former pars. (2) to (18) as (3) to (7), (9) to (13), (15), (20) to (22), (24), (26), and (27), respectively.
 
@@ -213,10 +217,6 @@ Pub. L. 106–387, §1(a) \[title XI, §1101\], Oct. 28, 2000, 114 Stat. 1549, 1
 #### Short Title of 1990 Amendment
 
 Pub. L. 101–624, title XIV, §1401, Nov. 28, 1990, 104 Stat. 3568, provided that: "This title \[enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7\] may be cited as the 'Conservation Program Improvements Act'."
-
-#### Short Title
-
-Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to this chapter, is popularly known as the "Sodbuster Law".
 
 #### Regulations
 
@@ -277,6 +277,42 @@ Congressional Review of Agency Rulemaking.—In carrying out this section, the S
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Temporary Administration of Conservation Programs
+
+Pub. L. 113–79, title II, §2712, Feb. 7, 2014, 128 Stat. 771, provided that:
+
+"(a)
+
+Applicability.—This section is applicable to activities under—
+
+&emsp;"(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 \[enacting sections 3865 to 3865d of this title and amending section 3844 of this title\];
+
+&emsp;"(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C \[subtitle C (§§2201–2208) of title II of Pub. L. 113–79, amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title\];
+
+&emsp;"(3) the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program being merged into the regional conservation partnership program under the amendment made by section 2401 \[enacting sections 3871 to 3871f of this title\]; and
+
+&emsp;"(4) the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A \[subtitle A (§§2001–2008) of title II of Pub. L. 113–79, amending sections 3831, 3831b, and 3832 to 3835 of this title and repealing section 3835a of this title\] and into the agricultural conservation easement program under the amendment made by section 2301.
+
+"(b)
+
+Interim Administration.—Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 \[16 U.S.C. 3865 et seq.\], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 \[16 U.S.C. 3871 et seq.\], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary \[of Agriculture\] shall use the regulations in existence as of the day before the date of enactment of this Act \[Feb. 7, 2014\] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle \[subtitle H (§§2701–2713) of title II of Pub. L. 113–79, see Tables for classification\], to the extent that the terms and conditions of such regulations are consistent with—
+
+&emsp;"(1) the provisions of the agricultural conservation easement program and the regional conservation partnership program; and
+
+&emsp;"(2) the amendments to the environmental quality incentives program and the conservation reserve program made by this title.
+
+"(c)
+
+Funding.—The Secretary may only use funds authorized in this title \[see Tables for classification\] or in the amendments made by this title for the specific programs listed in subsection (b), including any restrictions on the use of those funds, for the purposes identified in paragraphs (1) and (2) of subsection (b).
+
+"(d)
+
+Termination of Authority.—The authority of the Secretary to carry out subsection (b) shall terminate on the date that is 270 days after the date of enactment of this Act.
+
+"(e)
+
+Permanent Administration.—Effective beginning on the termination date described in subsection (d), the Secretary shall provide technical assistance, financial assistance, and easement enrollment in accordance with any final regulations that the Secretary considers necessary to carry out this title and the amendments made by this title."
 
 #### Continuation of Programs in Fiscal Year 2008
 

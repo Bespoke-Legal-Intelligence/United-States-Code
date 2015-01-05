@@ -6,7 +6,7 @@ In those cases where a medal, or a bar, emblem, or insignia in lieu thereof, awa
 
 #### Historical and Revision Notes
 
-This section provides for the replacement of medals. It follows the established practice of the other armed forces, but makes an additional provision that the Secretary in his discretion may charge for the replacement medals in some circumstances. (See title 10, U.S.C., 1946ed., §1416 and title 34, U.S.C., 1946 ed., §359.) 81st Congress, House Report No. 557.
+This section provides for the replacement of medals. It follows the established practice of the other armed forces, but makes an additional provision that the Secretary in his discretion may charge for the replacement medals in some circumstances. (See title 10, U.S.C., 1946 ed., §1416 and title 34, U.S.C., 1946 ed., §359.) 81st Congress, House Report No. 557.
 
 #### Amendments
 

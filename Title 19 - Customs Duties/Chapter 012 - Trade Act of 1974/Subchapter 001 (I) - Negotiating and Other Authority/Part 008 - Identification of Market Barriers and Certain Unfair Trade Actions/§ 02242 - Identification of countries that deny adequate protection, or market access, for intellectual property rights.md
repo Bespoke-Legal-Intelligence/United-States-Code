@@ -14,7 +14,7 @@ By no later than the date that is 30 days after the date on which the annual rep
 
 #### (b) Special rules for identifications
 
-(1) In identifying priority foreign countries under subsection (a)(2) of this section, the TradeRepresentative shall only identify those foreign countries—
+(1) In identifying priority foreign countries under subsection (a)(2) of this section, the Trade Representative shall only identify those foreign countries—
 
 &emsp;(A) that have the most onerous or egregious acts, policies, or practices that—
 
@@ -162,5 +162,5 @@ Pub. L. 100–418, title I, §1303(a), Aug. 23, 1988, 102 Stat. 1179, provided t
 
 &emsp;"(B) the absence of adequate and effective protection of United States intellectual property rights, and the denial of fair and equitable market access, seriously impede the ability of the United States persons that rely on protection of intellectual property rights to export and operate overseas, thereby harming the economic interests of the United States.
 
-"(2) The purpose of this section \[enacting this section and this note\] is to provide for the development of an overall strategy to ensure adequate and effective protection of intellectual property rights and fair andequitable market access for United States persons that rely on protection of intellectual property rights."
+"(2) The purpose of this section \[enacting this section and this note\] is to provide for the development of an overall strategy to ensure adequate and effective protection of intellectual property rights and fair and equitable market access for United States persons that rely on protection of intellectual property rights."
 

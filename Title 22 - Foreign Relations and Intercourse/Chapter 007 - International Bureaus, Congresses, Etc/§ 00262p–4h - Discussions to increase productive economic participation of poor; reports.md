@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury shall instruct the United States Executive Director for each multilateral development bank to vigorously and continually advocate, in all replenishmentnegotiations and in discussion with other directors of such bank and with such bank, the following:
+The Secretary of the Treasury shall instruct the United States Executive Director for each multilateral development bank to vigorously and continually advocate, in all replenishment negotiations and in discussion with other directors of such bank and with such bank, the following:
 
 &emsp;(1) A major objective of such bank's operations and financing in each borrowing country, as a long term priority, should be to increase the productive role of the poor in the economy of such country.
 

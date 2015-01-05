@@ -196,7 +196,7 @@ Elements of Policy.—The comprehensive policy developed under subsection (a) sh
 
 &emsp;&emsp;"(A) provide for the provision of such information (in person and otherwise) by qualified Department of Defense personnel;
 
-&emsp;&emsp;"(B) ensure that information is provided as soon as possible after death and that, when requested, updates are provided, in accordance with the procedures established under this paragraph, in a timely manner when new information becomes available;
+&emsp;&emsp;"(B) ensure that information is provided as soon as possible after death and that, when requested,updates are provided, in accordance with the procedures established under this paragraph, in a timely manner when new information becomes available;
 
 &emsp;&emsp;"(C) ensure that—
 

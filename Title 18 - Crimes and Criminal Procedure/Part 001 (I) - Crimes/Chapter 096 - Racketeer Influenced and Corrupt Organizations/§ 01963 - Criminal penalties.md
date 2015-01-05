@@ -34,7 +34,7 @@
 
 &emsp;(B) prior to the filing of such an indictment or information, if, after notice to persons appearing to have an interest in the property and opportunity for a hearing, the court determines that—
 
-&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court,or otherwise made unavailable for forfeiture; and
+&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court, or otherwise made unavailable for forfeiture; and
 
 &emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered:
 
@@ -74,7 +74,7 @@
 
 &emsp;(6) the compromise of claims arising under this chapter.
 
-> Pending the promulgation of such regulations, all provisions of law relating to the disposition of property, or the proceeds from the sale thereof, or the remission or mitigation of forfeitures for violation of the customs laws, and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to forfeitures incurred, or alleged tohave been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof. Such duties as are imposed upon the Customs Service or any person with respect to the disposition of property under the customs law shall be performed under this chapter by the Attorney General.
+> Pending the promulgation of such regulations, all provisions of law relating to the disposition of property, or the proceeds from the sale thereof, or the remission or mitigation of forfeitures for violation of the customs laws, and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof. Such duties as are imposed upon the Customs Service or any person with respect to the disposition of property under the customs law shall be performed under this chapter by the Attorney General.
 
 (i) Except as provided in subsection (l), no party claiming an interest in property subject to forfeiture under this section may—
 
@@ -84,7 +84,7 @@
 
 (j) The district courts of the United States shall have jurisdiction to enter orders as provided in this section without regard to the location of any property which may be subject to forfeiture under this section or which has been ordered forfeited under this section.
 
-(k) In order to facilitate the identification or location of property declared forfeited and to facilitate the disposition of petitions for remission or mitigation of forfeiture, after the entry of an order declaring property forfeited to the United States the court may, upon application of the United States, order that the testimony of any witness relating to the property forfeited be taken by deposition and that any designated book, paper, document, record, recording, or other material not privileged be produced at the same time and place, in the same manner as provided for the taking of depositions under Rule 15 of the Federal Rules of Criminal Procedure.
+(k) In order to facilitate the identification or location of property declared forfeited and to facilitate the disposition of petitions for remission or mitigation of forfeiture, after the entry of an order declaring property forfeited to the United States the court may, upon application of the United States, order that the testimony of any witness relating to the property forfeited be taken by deposition and that any designated book, paper, document, record, recording, orother material not privileged be produced at the same time and place, in the same manner as provided for the taking of depositions under Rule 15 of the Federal Rules of Criminal Procedure.
 
 (l)(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 

@@ -22,7 +22,7 @@ The ex officio members of the advisory council shall consist of the following pe
 
 &emsp;(7) The Director of the Office of Science and Technology Policy.
 
-&emsp;(8) Such additional officers and employees of the United States as the Secretary determinesare necessary for the advisory council to effectively carry out its functions.
+&emsp;(8) Such additional officers and employees of the United States as the Secretary determines are necessary for the advisory council to effectively carry out its functions.
 
 #### (c) Appointment of other members
 
@@ -40,11 +40,11 @@ Members of the advisory council shall serve without compensation, if not otherwi
 
 #### (1) Term
 
-&emsp;The term of office of a member appointed under subsection (c) of this section is four years, except that any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of such member was appointed shall be appointed only for the remainder of such term.
+&emsp;The term of office of a member appointed under subsection (c) is four years, except that any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of such member was appointed shall be appointed only for the remainder of such term.
 
 #### (2) Initial appointment
 
-&emsp;The Secretary shall make appointments to the advisory council so as to ensure that the terms of the members appointed under subsection (c) of this section do not all expire in the same year. A member may serve after the expiration of the member's term until a successor takes office.
+&emsp;The Secretary shall make appointments to the advisory council so as to ensure that the terms of the members appointed under subsection (c) do not all expire in the same year. A member may serve after the expiration of the member's term until a successor takes office.
 
 #### (3) Reappointment
 
@@ -52,11 +52,11 @@ Members of the advisory council shall serve without compensation, if not otherwi
 
 #### (4) Vacancies
 
-&emsp;If a vacancy occurs in the advisory council among the members appointed under subsection (c) of this section, the Secretary shall make an appointment to fill such vacancy within 90 days after the date such vacancy occurs.
+&emsp;If a vacancy occurs in the advisory council among the members appointed under subsection (c), the Secretary shall make an appointment to fill such vacancy within 90 days after the date such vacancy occurs.
 
 #### (f) Chair
 
-The Secretary shall select as the chair of the advisory council one of the members appointed under subsection (c) of this section. The term of office of the chair shall be two years.
+The Secretary shall select as the chair of the advisory council one of the members appointed under subsection (c). The term of office of the chair shall be two years.
 
 #### (g) Meetings
 

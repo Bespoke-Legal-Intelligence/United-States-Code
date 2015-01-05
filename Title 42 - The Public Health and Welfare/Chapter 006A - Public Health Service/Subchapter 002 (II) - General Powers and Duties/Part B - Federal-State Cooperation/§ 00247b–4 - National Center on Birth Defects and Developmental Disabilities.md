@@ -118,7 +118,7 @@ Subsec. (a). Pub. L. 106–310, §611(2), added subsec. (a) and struck out headi
 
 Subsec. (b)(1). Pub. L. 106–310, §611(3), substituted "subsection (a)(2)(A) of this section" for "subsection (a)(1) of this section" in introductory provisions.
 
-<b>1998</b>—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birth defects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
+<b>1998</b>—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birth defects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter,and authorized appropriations for fiscal years 1993, 1994, and 1995.
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §306(a), which enacted this section.
 

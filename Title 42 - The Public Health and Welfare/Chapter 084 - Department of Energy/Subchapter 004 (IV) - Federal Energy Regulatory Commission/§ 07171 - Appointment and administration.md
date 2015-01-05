@@ -18,7 +18,7 @@ There is established within the Department an independent regulatory commission 
 
 #### (c) Duties and responsibilities of Chairman
 
-The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1)the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed by or assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with section 3109 of title 5. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
+The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1) the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed by or assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with section 3109 of title 5. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
 
 #### (d) Supervision and direction of members, employees, or other personnel of Commission
 
@@ -80,13 +80,17 @@ Model Regulations.—In conjunction with the study in subsection (b), the Commis
 
 "(d)
 
-Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\]."
+Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmentalbenefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\]."
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
 Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: "That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account, and may remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. D, title III, Dec. 16, 2014, 128 Stat. 2322.
+
+Pub. L. 113–76, div. D, title III, Jan. 17, 2014, 128 Stat. 172.
 
 Pub. L. 112–74, div. B, title III, Dec. 23, 2011, 125 Stat. 875.
 

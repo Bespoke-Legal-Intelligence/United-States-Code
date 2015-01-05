@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Contractor
 
-&emsp;The term “contractor” means the private business concern that enters into a food services contract with the Architect of the Capitol.
+&emsp;The term "contractor" means the private business concern that enters into a food services contract with the Architect of the Capitol.
 
 #### (2) Covered individual
 
-&emsp;The term “covered individual” means any individual who—
+&emsp;The term "covered individual" means any individual who—
 
 &emsp;&emsp;(A) is a Senate Restaurants employee who is an employee of the Architect of the Capitol on July 17, 2008, including—
 
@@ -26,11 +26,11 @@ In this section:
 
 #### (3) Food services contract
 
-&emsp;The term “food services contract” means a contract under which food services operations of the Senate Restaurants are transferred to, and performed by, a private business concern.
+&emsp;The term "food services contract" means a contract under which food services operations of the Senate Restaurants are transferred to, and performed by, a private business concern.
 
 #### (4) Transfer date
 
-&emsp;The term “transfer date” means the date on which a contractor begins the performance of food services operations under a food services contract.
+&emsp;The term "transfer date" means the date on which a contractor begins the performance of food services operations under a food services contract.
 
 #### (b) Election of coverage
 
@@ -52,7 +52,7 @@ In this section:
 
 #### (1) Pay
 
-&emsp;The rate of basic pay of a covered individual as an employee of a contractor, or successor contractor, during a period of continuous service may not be reduced to a rate less than the rate of basic pay paid to that individual as an employee of the Architect of the Capitol on the day before the transfer date, except for cause.
+&emsp;The rate of basic pay of a covered individual as an employee of a contractor, or successorcontractor, during a period of continuous service may not be reduced to a rate less than the rate of basic pay paid to that individual as an employee of the Architect of the Capitol on the day before the transfer date, except for cause.
 
 #### (2) Retirement and life insurance benefits
 
@@ -112,9 +112,9 @@ In this section:
 
 #### (B) Reimbursements and payments by Architect of the Capitol
 
-&emsp;&emsp;From appropriations made available to the Architect of the Capitol under the heading“
+&emsp;&emsp;From appropriations made available to the Architect of the Capitol under the heading "
 
-Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL”, the Architect of the Capitol shall—
+Senate Office Buildings" under the heading "ARCHITECT OF THE CAPITOL", the Architect of the Capitol shall—
 
 &emsp;&emsp;&emsp;(i) reimburse a contractor, or any successor contractor, for that portion of any payment under subparagraph (A) which the Architect of the Capitol agreed to pay under a food services contract; and
 
@@ -132,7 +132,7 @@ Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL”, the
 
 &emsp;&emsp;&emsp;Regulations under this subparagraph shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) include regulations relating to employee deductions and employee and employer contributions and deposits in the Civil Service Retirement and Disability Fund, the Employees’ Life Insurance Fund, and the Employees Health Benefits Fund; and
+&emsp;&emsp;&emsp;&emsp;(I) include regulations relating to employee deductions and employee and employer contributions and deposits in the Civil Service Retirement and Disability Fund, the Employees' Life Insurance Fund, and the Employees Health Benefits Fund; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provide for the Architect of the Capitol to perform employer administrative functions necessary to ensure administration of continued coverage of benefits under paragraphs (2) and (3), including receipt and transmission of the deductions, contributions, and deposits described under subclause (I), the collection and transmission of such information as necessary, and the performance of other administrative functions as may be required.
 
@@ -228,7 +228,7 @@ Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL”, the
 
 #### (A) Annuity
 
-&emsp;&emsp;Notwithstanding any provision of chapter 83 or 84 of title 5, an employee described under paragraph (1) is entitled to an annuity which shall be computed consistent with the provisions of law applicable to annuities under section 8336(d) or 8414(b) of title 5.
+&emsp;&emsp;Notwithstanding any provision of chapter 83 or 84 of title 5, an employee described under paragraph (1) is entitled to an annuity which shall be computed consistent with theprovisions of law applicable to annuities under section 8336(d) or 8414(b) of title 5.
 
 #### (B) Separation during 90-day period
 
@@ -268,11 +268,11 @@ Section 2048 of this title, referred to in subsec. (a)(2)(A)(iii), was repealed 
 
 The Social Security Act, referred to in subsec. (c)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Appropriations made available to the Architect of the Capitol under the heading “
+Appropriations made available to the Architect of the Capitol under the heading "
 
-Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL”, referred to in subsec. (c)(6)(B), probably means appropriations under the heading “
+Senate Office Buildings" under the heading "ARCHITECT OF THE CAPITOL", referred to in subsec. (c)(6)(B), probably means appropriations under the heading "
 
-Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL” in the annual Legislative Branch Appropriations Act.
+Senate Office Buildings" under the heading "ARCHITECT OF THE CAPITOL" in the annual Legislative Branch Appropriations Act.
 
 The Congressional Accountability Act of 1995, referred to in subsec. (g)(3), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 

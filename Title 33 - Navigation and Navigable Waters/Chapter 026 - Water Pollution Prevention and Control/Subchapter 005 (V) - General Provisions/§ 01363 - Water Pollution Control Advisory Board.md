@@ -28,7 +28,7 @@ Pub. L. 87–88, §6(c), July 20, 1961, 75 Stat. 207, provided that members of t
 
 #### Terms of Office of Members of Water Pollution Control Advisory Board
 
-Act July 9, 1956, ch. 518, §3, 70 Stat. 507, provided that the terms of office of members of the Water PollutionControl Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
+Act July 9, 1956, ch. 518, §3, 70 Stat. 507, provided that the terms of office of members of the Water Pollution Control Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
 
 #### Termination of Advisory Boards
 

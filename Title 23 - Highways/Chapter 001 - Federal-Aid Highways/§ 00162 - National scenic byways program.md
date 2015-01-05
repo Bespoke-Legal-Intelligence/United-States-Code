@@ -74,7 +74,7 @@ Priorities.—In making grants, the Secretary shall give priority to—
 
 &emsp;&emsp;(A) each eligible project that is associated with a highway that has been designated as a National Scenic Byway, All-American Road, or 1 of America's Byways and that is consistent with the corridor management plan for the byway;
 
-&emsp;&emsp;(B) each eligible project along a State or Indian tribe scenic byway that is consistent with the corridor management plan for the byway, or is intended to foster the development of such a plan, and is carried out to make the byway eligible for designation as—
+&emsp;&emsp;(B) each eligible project along a State or Indian tribe scenic byway that is consistentwith the corridor management plan for the byway, or is intended to foster the development of such a plan, and is carried out to make the byway eligible for designation as—
 
 &emsp;&emsp;&emsp;(i) a National Scenic Byway;
 
@@ -142,7 +142,7 @@ Subsec. (b)(2)(C). Pub. L. 109–59, §1802(b)(6), inserted "or Indian tribe" af
 
 Subsec. (c)(1). Pub. L. 109–59, §1802(c)(1), inserted "or Indian tribe" after "State".
 
-Subsec. (c)(3). Pub. L. 109–59, §1802(c)(2), inserted "Indian tribe scenic byway," after "improvements to aState scenic byway," and "designation as a State scenic byway,".
+Subsec. (c)(3). Pub. L. 109–59, §1802(c)(2), inserted "Indian tribe scenic byway," after "improvements to a State scenic byway," and "designation as a State scenic byway,".
 
 Subsec. (c)(4). Pub. L. 109–59, §1802(c)(3), struck out "passing lane," before "overlook,".
 

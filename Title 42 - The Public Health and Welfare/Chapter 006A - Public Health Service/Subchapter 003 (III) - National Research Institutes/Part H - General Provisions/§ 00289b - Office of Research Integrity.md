@@ -46,7 +46,7 @@ The Secretary shall by regulation establish procedures for the Director to monit
 
 #### (1) In general
 
-&emsp;In the case of any entity required to establish administrative processes under subsection (b) of this section, the Secretary shall by regulation establish standards for preventing, and for responding to the occurrence of retaliation by such entity, its officials or agents, against an employee in the terms and conditions of employment in response to the employee having in good faith—
+&emsp;In the case of any entity required to establish administrative processes under subsection\(b) of this section, the Secretary shall by regulation establish standards for preventing, and for responding to the occurrence of retaliation by such entity, its officials or agents, against an employee in the terms and conditions of employment in response to the employee having in good faith—
 
 &emsp;&emsp;(A) made an allegation that the entity, its officials or agents, has engaged in or failed to adequately respond to an allegation of research misconduct; or
 
@@ -94,7 +94,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Definition of research misconduct.—Not later than 90 days after the date on which the reportrequired in section 162(e) \[107 Stat. 142\] is submitted to the Secretary, the Secretary shall issue the final rule for the regulations required in section 493 of the Public Health Service Act with respect to the definition of the term 'research misconduct'.
+Definition of research misconduct.—Not later than 90 days after the date on which the report required in section 162(e) \[107 Stat. 142\] is submitted to the Secretary, the Secretary shall issue the final rule for the regulations required in section 493 of the Public Health Service Act with respect to the definition of the term 'research misconduct'.
 
 "(b)
 

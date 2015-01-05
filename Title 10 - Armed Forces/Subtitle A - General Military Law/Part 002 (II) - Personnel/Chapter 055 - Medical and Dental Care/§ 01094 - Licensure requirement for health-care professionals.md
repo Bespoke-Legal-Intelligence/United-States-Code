@@ -8,7 +8,7 @@
 
 (c)(1) A person (other than a person subject to chapter 47 of this title) who provides health care in violation of subsection (a) is subject to a civil money penalty of not more than $5,000.
 
-(2) The provisions of subsections (c) and (e) through (h) of section 1128A of the Social Security Act (42 U.S.C. 1320a–7a) shall apply to the imposition of a civil money penalty under paragraph (1) in the same manner as they apply to the imposition of a civil money penalty under that section, except that for purposes of this subsection—
+(2) The provisions of subsections (c) and (e) through (h) of section 1128A of the Social Security Act (42 U.S.C. 1320a–7a) shall apply to the imposition of a civil money penalty under paragraph (1) in the same manner as they apply to the imposition of a civil money penalty underthat section, except that for purposes of this subsection—
 
 &emsp;(A) a reference to the Secretary in that section is deemed a reference to the Secretary of Defense; and
 

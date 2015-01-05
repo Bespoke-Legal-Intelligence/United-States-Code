@@ -18,7 +18,7 @@ Exceptions.—
 
 &emsp;&emsp;(A)
 
-In general.—Paragraph (1) does not apply to projects within the Capitol grounds or to structures erected by the Department of Defense during wartime or national emergency within existing military, naval, or Air Force reservations, except that the appropriate defense agency shall consult with the Commission as to any developments which materially affect traffic or require coordinated planning of the surrounding area.
+In general.—Paragraph (1) does not apply to projects within the Capitol grounds or to structures erected by the Department of Defense during wartime or national emergency within existing military, naval, or AirForce reservations, except that the appropriate defense agency shall consult with the Commission as to any developments which materially affect traffic or require coordinated planning of the surrounding area.
 
 &emsp;&emsp;(B)
 

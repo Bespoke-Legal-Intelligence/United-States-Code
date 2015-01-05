@@ -18,7 +18,7 @@ Pay and Expenses.—The members of the Commission serve without compensation. Ho
 
 Expenses of Officers of Armed Forces Serving on Commission.—An officer of the Armed Forces serving as a member or as secretary of the Commission may be reimbursed for expenses when traveling on business of the Commission in the same way as civilian members of the Commission.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 106–117, title VI, §604(1), Nov. 30, 1999, 113 Stat. 1580; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 106–117, title VI, §604(1), Nov. 30, 1999, 113 Stat.1580; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 

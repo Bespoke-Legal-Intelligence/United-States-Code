@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;If the administering authority receives a request from an exporter or producer of the subject merchandise establishing that—
 
-&emsp;&emsp;&emsp;&emsp;(I) such exporter or producer did not export the merchandise that was thesubject of an antidumping duty or countervailing duty order to the United States (or, in the case of a regional industry, did not export the subject merchandise for sale in the region concerned) during the period of investigation, and
+&emsp;&emsp;&emsp;&emsp;(I) such exporter or producer did not export the merchandise that was the subject of an antidumping duty or countervailing duty order to the United States (or, in the case of a regional industry, did not export the subject merchandise for sale in the region concerned) during the period of investigation, and
 
 &emsp;&emsp;&emsp;&emsp;(II) such exporter or producer is not affiliated (within the meaning of section 1677(33) of this title) with any exporter or producer who exported the subject merchandise to the United States (or in the case of a regional industry, who exported the subject merchandise for sale in the region concerned) during that period,
 
@@ -62,7 +62,7 @@
 
 #### (A) Preliminary and final determinations
 
-&emsp;&emsp;The administering authority shall make a preliminary determination under subparagraph (A), (B), or (C) of paragraph (1) within 245 days after the last day of the month in which occurs the anniversary of the date of publication of the order, finding, or suspension agreement for which the review under paragraph (1) is requested, and a final determination under paragraph (1) within 120 days after the date on which the preliminary determination is published. If it is not practicable to complete the review within the foregoing time, the administering authority may extend that 245-day period to 365 days and may extend that 120-day period to 180 days. The administering authority may extend the time for making a final determination without extending the time for making a preliminary determination, if such final determination is made not later than 300 days after the date on which the preliminary determination is published.
+&emsp;&emsp;The administering authority shall make a preliminary determination under subparagraph (A), (B), or (C) of paragraph (1) within245 days after the last day of the month in which occurs the anniversary of the date of publication of the order, finding, or suspension agreement for which the review under paragraph (1) is requested, and a final determination under paragraph (1) within 120 days after the date on which the preliminary determination is published. If it is not practicable to complete the review within the foregoing time, the administering authority may extend that 245-day period to 365 days and may extend that 120-day period to 180 days. The administering authority may extend the time for making a final determination without extending the time for making a preliminary determination, if such final determination is made not later than 300 days after the date on which the preliminary determination is published.
 
 #### (B) Liquidation of entries
 
@@ -150,7 +150,7 @@
 
 #### (B) Inadequate response
 
-&emsp;&emsp;If interested parties provide inadequate responses to a notice of initiation, the administering authority, within 120 days after the initiation of the review, or the Commission, within 150 days after such initiation, mayissue, without further investigation, a final determination based on the facts available, in accordance with section 1677e of this title.
+&emsp;&emsp;If interested parties provide inadequate responses to a notice of initiation, the administering authority, within 120 days after the initiation of the review, or the Commission, within 150 days after such initiation, may issue, without further investigation, a final determination based on the facts available, in accordance with section 1677e of this title.
 
 #### (4) Waiver of participation by certain interested parties
 
@@ -354,7 +354,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -40,7 +40,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### References in Text
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (b)(1) and (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) ofsubchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (b)(1) and (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of this title.
 

@@ -100,7 +100,7 @@ Transporting passengers.—If a vessel transports passengers for hire in violati
 
 &emsp;(4)
 
-Remission or mitigation.—A penalty or forfeiture incurred under this subsection maybe remitted or mitigated under section 2107(b) of this title.
+Remission or mitigation.—A penalty or forfeiture incurred under this subsection may be remitted or mitigated under section 2107(b) of this title.
 
 (Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1500.)
 

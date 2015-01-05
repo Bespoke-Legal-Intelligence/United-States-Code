@@ -22,17 +22,17 @@ The President is authorized to promote bilateral and multilateral nonproliferati
 
 #### (b) Funding priorities
 
-Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a) of this section.
+Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a).
 
 #### (c) Use of defense funds
 
 #### (1) Authorization
 
-&emsp;In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a) of this section, the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
+&emsp;In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
 
 #### (2) Limitation
 
-&emsp;Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) of this section unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) <sup>1</sup> of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
+&emsp;Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) <sup>1</sup> of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
 (Pub. L. 102–511, title V, §503, Oct. 24, 1992, 106 Stat. 3338.)
 
@@ -40,7 +40,7 @@ Priority in carrying out this section shall be given to the activities described
 
 Sections 108 and 109 of Public Law 102–229, referred to in subsec. (c)(1), are sections 108 and 109 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, which are not classified to the Code.
 
-Section 506(a) of this Act, referred to in subsec. (c)(1), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, set out as a note under section 2551 of this title, but did not become effective pursuant to section 5856(c) of this title.
+Section 506(a) of this Act, referred to in subsec. (c)(1), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title, but did not become effective pursuant to section 5856(c) of this title and was repealed by Pub. L. 113–291, div. A, title XIII, §1351(1), Dec. 19, 2014, 128 Stat. 3606.
 
 Section 665 of title 2, referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
 
@@ -56,7 +56,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1138\], Nov. 29, 1
 
 "(a)
 
-Authorization.—For fiscal year 2001 and subsequent fiscal years, funds made available under 'Nonproliferation, Antiterrorism, Demining, and Related Programs' accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) or section 1412(b)(5) \[22 U.S.C. 5902(b)(5)\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484; 22 U.S.C. 5901 et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency.
+Authorization.—For fiscal year 2001 and subsequent fiscal years, funds made available under 'Nonproliferation, Antiterrorism, Demining, and Related Programs' accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) or section 1412(b)(5) \[former 22 U.S.C. 5902(b)(5)\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484; 22 U.S.C. 5901 et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency.
 
 "(b)
 
@@ -68,7 +68,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1139\], Nov. 29, 1
 
 "(a)
 
-In General.—Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) and section 1412(b) \[22 U.S.C. 5902(b)\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484, 22 U.S.C. 5901 et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications.
+In General.—Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) and section 1412(b) \[former 22 U.S.C. 5902(b)\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484, 22 U.S.C. 5901 et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications.
 
 "(b)
 

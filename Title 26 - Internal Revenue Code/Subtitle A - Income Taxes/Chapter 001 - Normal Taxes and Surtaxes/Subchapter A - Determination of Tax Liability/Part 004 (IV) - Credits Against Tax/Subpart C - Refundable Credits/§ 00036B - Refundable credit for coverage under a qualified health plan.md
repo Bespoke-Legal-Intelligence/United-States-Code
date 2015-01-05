@@ -59,7 +59,7 @@ For purposes of this section—
 
 #### (B) Applicable second lowest cost silver plan
 
-&emsp;&emsp;The applicable second lowest cost silver plan with respect to any applicable taxpayer is the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which—
+&emsp;&emsp;The applicable second lowest cost silver plan with respect to any applicable taxpayeris the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which—
 
 &emsp;&emsp;&emsp;(i) is offered through the same Exchange through which the qualified health plans taken into account under paragraph (2)(A) were offered, and
 
@@ -119,7 +119,7 @@ For purposes of this section—
 
 #### (D) Denial of credit to dependents
 
-&emsp;&emsp;No credit shall be allowed under this section to any individual with respect to whoma deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
+&emsp;&emsp;No credit shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
 
 #### (2) Coverage month
 
@@ -209,7 +209,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) any amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax, and
 
-&emsp;&emsp;&emsp;(iii) an amount equal to the portion of the taxpayer's social security benefits (asdefined in section 86(d)) which is not included in gross income under section 86 for the taxable year.
+&emsp;&emsp;&emsp;(iii) an amount equal to the portion of the taxpayer's social security benefits (as defined in section 86(d)) which is not included in gross income under section 86 for the taxable year.
 
 #### (3) Poverty line
 
@@ -287,7 +287,7 @@ For purposes of this section—
 
 #### (3) Information requirement
 
-&emsp;Each Exchange (or any person carrying out 1 or more responsibilities of an Exchange under section 1311(f)(3) or 1321(c) of the PatientProtection and Affordable Care Act) shall provide the following information to the Secretary and to the taxpayer with respect to any health plan provided through the Exchange:
+&emsp;Each Exchange (or any person carrying out 1 or more responsibilities of an Exchange under section 1311(f)(3) or 1321(c) of the Patient Protection and Affordable Care Act) shall provide the following information to the Secretary and to the taxpayer with respect to any health plan provided through the Exchange:
 
 &emsp;&emsp;(A) The level of coverage described in section 1302(d) of the Patient Protection and Affordable Care Act and the period such coverage was in effect.
 
@@ -310,6 +310,10 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 &emsp;(2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
 (Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 

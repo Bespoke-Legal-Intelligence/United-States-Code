@@ -16,7 +16,7 @@ The provisions regarding appointment of the Assistant Commandant and Engineer in
 
 <b>2010</b>—Pub. L. 111–281 substituted "Vice commandant; appointment" for "Vice Commandant; assignment" in section catchline and "section 51(d)" for "subsection 51(d)" in text.
 
-<b>1993</b>—Pub. L. 103–206 struck out "; retirement" after "assignment" in section catchline, struck out "(a)" before "The President may appoint", substituted "The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title." for "The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.", and struck out subsecs. (b) to (d) which read as follows:
+<b>1993</b>—Pub. L. 103–206 struck out "; retirement" after "assignment" in section catchline, struck out "(a)" before "The President may appoint", substituted "The appointment and grade of a Vice Commandant shall beeffective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title." for "The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.", and struck out subsecs. (b) to (d) which read as follows:
 
 "(b) A Vice Commandant, while so serving, who is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
 

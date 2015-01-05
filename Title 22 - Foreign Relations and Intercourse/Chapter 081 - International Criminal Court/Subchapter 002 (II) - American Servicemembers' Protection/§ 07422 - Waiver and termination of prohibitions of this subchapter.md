@@ -20,7 +20,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 #### (b) Authority to extend waiver of section 7424
 
-The President is authorized to waive the prohibitions and requirements of section 7424 of this title for successive periods of 1 year each upon the expiration of a previous waiver pursuant to subsection (a) of this section or this subsection. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
+The President is authorized to waive the prohibitions and requirements of section 7424 of this title for successive periods of 1 year each upon the expiration of a previous waiver pursuant to subsection (a) or this subsection. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
 
 &emsp;(1) notifies the appropriate congressional committees of the intention to exercise such authority; and
 
@@ -28,7 +28,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 &emsp;&emsp;(A) remains party to, and has continued to abide by, a binding agreement that—
 
-&emsp;&emsp;&emsp;(i) prohibits the International Criminal Court from seeking to exercise jurisdictionover the following persons with respect to actions undertaken by them in an official capacity:
+&emsp;&emsp;&emsp;(i) prohibits the International Criminal Court from seeking to exercise jurisdiction over the following persons with respect to actions undertaken by them in an official capacity:
 
 &emsp;&emsp;&emsp;&emsp;(I) covered United States persons;
 
@@ -48,13 +48,13 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 &emsp;(2) determines and reports to the appropriate congressional committees that—
 
-&emsp;&emsp;(A) a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of section 7424 of this title is in effect;
+&emsp;&emsp;(A) a waiver pursuant to subsection (a) or (b) of the prohibitions and requirements of section 7424 of this title is in effect;
 
 &emsp;&emsp;(B) there is reason to believe that the named individual committed the crime or crimes that are the subject of the International Criminal Court's investigation or prosecution;
 
 &emsp;&emsp;(C) it is in the national interest of the United States for the International Criminal Court's investigation or prosecution of the named individual to proceed; and
 
-&emsp;&emsp;(D) in investigating events related to actions by the named individual, none of the following persons will be investigated, arrested, detained, prosecuted, or imprisoned by or on behalf of the International Criminal Court with respect to actions undertaken by them in an official capacity:
+&emsp;&emsp;(D) in investigating events related to actions by the named individual, none of thefollowing persons will be investigated, arrested, detained, prosecuted, or imprisoned by or on behalf of the International Criminal Court with respect to actions undertaken by them in an official capacity:
 
 &emsp;&emsp;&emsp;(i) Covered United States persons.
 
@@ -64,7 +64,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 #### (d) Termination of waiver pursuant to subsection (c)
 
-Any waiver or waivers exercised pursuant to subsection (c) of this section of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of section 7424 of this title expires and is not extended pursuant to subsection (b) of this section.
+Any waiver or waivers exercised pursuant to subsection (c) of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of the prohibitions and requirements of section 7424 of this title expires and is not extended pursuant to subsection (b).
 
 #### (e) Termination of prohibitions of this subchapter
 

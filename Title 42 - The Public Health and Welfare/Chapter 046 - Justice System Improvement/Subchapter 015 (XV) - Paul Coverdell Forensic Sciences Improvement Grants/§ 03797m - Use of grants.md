@@ -4,7 +4,7 @@
 
 A State or unit of local government that receives a grant under this subchapter shall use the grant to do any one or more of the following:
 
-&emsp;(1) To carry out all or a substantial part of a program intended to improve the qualityand timeliness of forensic science or medical examiner services in the State, including such services provided by the laboratories operated by the State and those operated by units of local government within the State.
+&emsp;(1) To carry out all or a substantial part of a program intended to improve the quality and timeliness of forensic science or medical examiner services in the State, including such services provided by the laboratories operated by the State and those operated by units of local government within the State.
 
 &emsp;(2) To eliminate a backlog in the analysis of forensic science evidence, including firearms examination, latent prints, toxicology, controlled substances, forensic pathology, questionable documents, and trace evidence.
 

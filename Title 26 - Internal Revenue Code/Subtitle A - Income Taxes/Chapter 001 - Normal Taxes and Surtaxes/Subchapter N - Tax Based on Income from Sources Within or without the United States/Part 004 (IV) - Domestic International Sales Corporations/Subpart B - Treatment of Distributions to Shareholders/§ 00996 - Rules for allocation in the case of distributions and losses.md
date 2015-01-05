@@ -50,7 +50,7 @@ Any actual distribution made during a taxable year shall be treated as being mad
 
 &emsp;&emsp;(A) gain with respect to a share of stock of a DISC or former DISC is treated under section 995(c) as a dividend or as ordinary income, and
 
-&emsp;&emsp;(B) any person subsequently receives an actual distribution made out of accumulated DISC income, or a deemed distribution made pursuant to section 995(b)(2), with respect to such share,
+&emsp;&emsp;(B) any person subsequently receives an actual distribution made out of accumulatedDISC income, or a deemed distribution made pursuant to section 995(b)(2), with respect to such share,
 
 > &emsp;such person shall treat such distribution in the same manner as a distribution from previously taxed income to the extent that (i) the gain referred to in subparagraph (A), exceeds (ii) any other amounts with respect to such share which were treated under this paragraph as made from previously taxed income. In applying this paragraph with respect to a share of stock in a DISC or former DISC, gain on the acquisition of such share by the DISC or former DISC or gain on a transaction prior to such acquisition shall not be considered gain referred to in subparagraph (A).
 
@@ -66,7 +66,7 @@ Any actual distribution made during a taxable year shall be treated as being mad
 
 #### (2) Reductions of basis
 
-&emsp;The portion of an actual distribution made out of previously taxed income shall reduce the basis of the stock with respect to which it is made, and to the extent that it exceeds the adjusted basis of such stock, shall be treatedas gain from the sale or exchange of property. In the case of stock includible in the gross estate of a decedent for which an election is made under section 2032 (relating to alternate valuation), this paragraph shall not apply to any distribution made after the date of the decedent's death and before the alternate valuation date provided by section 2032.
+&emsp;The portion of an actual distribution made out of previously taxed income shall reduce the basis of the stock with respect to which it is made, and to the extent that it exceeds the adjusted basis of such stock, shall be treated as gain from the sale or exchange of property. In the case of stock includible in the gross estate of a decedent for which an election is made under section 2032 (relating to alternate valuation), this paragraph shall not apply to any distribution made after the date of the decedent's death and before the alternate valuation date provided by section 2032.
 
 #### (f) Definition of divisions of earnings and profits
 

@@ -54,7 +54,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 #### (B) Direct spending
 
-&emsp;&emsp;OMB shall calculate the reduction to direct spending programs by taking the total reduction for nondefense functions required for that year under paragraph (2) and subtracting the discretionary reduction calculated pursuant to subparagraph (A).
+&emsp;&emsp;OMB shall calculate the reduction to direct spending programs by taking the totalreduction for nondefense functions required for that year under paragraph (2) and subtracting the discretionary reduction calculated pursuant to subparagraph (A).
 
 #### (5) Implementing discretionary reductions
 
@@ -78,7 +78,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 &emsp;(A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in section 935 of this title, the exemptions specified in section 905 of this title, and the special rules specified in section 906 of this title, except that the percentage reduction for the Medicare programs specified in section 906(d) of this title shall not be more than 2 percent for a fiscal year.
 
-&emsp;(B) On the dates OMB issues its sequestration preview reports for fiscal year 2022 and for fiscal year 2023, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
+&emsp;(B) On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, and for fiscal year 2024, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
 
 &emsp;&emsp;(i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
@@ -89,6 +89,12 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 &emsp;&emsp;(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
 
 &emsp;&emsp;(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.
+
+&emsp;(D) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2024 shall be applied to such payments so that—
+
+&emsp;&emsp;(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
+
+&emsp;&emsp;(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
 
 #### (7) Adjustment for Medicare
 
@@ -104,11 +110,11 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 #### (10) Implementing direct spending reductions for fiscal years 2014 and 2015
 
-&emsp;(A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to section 901(c) of this title revising the discretionary spending limits for fiscal years 2014 and 2015 by the Bipartisan Budget Act of 2013.
+&emsp;(A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3)and (4) without regard to the amendment made to section 901(c) of this title revising the discretionary spending limits for fiscal years 2014 and 2015 by the Bipartisan Budget Act of 2013.
 
 &emsp;(B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200.)
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077.)
 
 #### References in Text
 
@@ -124,37 +130,41 @@ A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103�
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 113–67, §101(d)(2)(A), in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in section 901(c) of this title shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
+<b>2014</b>—Par. (6)(B). Pub. L. 113–82 substituted ", for fiscal year 2023, and for fiscal year 2024" for "and for fiscal year 2023".
 
-Par. (1). Pub. L. 113–67, §101(d)(2)(B), (C), redesignated par.(3) as (1) and struck out former par. (1) which defined “revised security category” as discretionary appropriations in budget function 050 and “revised nonsecurity category” as discretionary appropriations other than in budget function 050.
+Par. (6)(D). Pub. L. 113–93 added subpar. (D).
 
-Par. (2). Pub. L. 113–67, §101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted “paragraph (1)” for “paragraph (3)”, and struck out former par. (2) which revised discretionary spending limits under section 901(c) of this title for fiscal years 2013 through 2021.
+<b>2013</b>—Pub. L. 113–67, §101(d)(2)(A), in introductory provisions substituted "Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:" for "Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in section 901(c) of this title shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:".
 
-Par. (3). Pub. L. 113–67, §101(d)(2)(C), (E), redesignated par. (5) as (3) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (3) redesignated (1).
+Par. (1). Pub. L. 113–67, §101(d)(2)(B), (C), redesignated par.(3) as (1) and struck out former par. (1) which defined "revised security category" as discretionary appropriations in budget function 050 and "revised nonsecurity category" as discretionary appropriations other than in budget function 050.
+
+Par. (2). Pub. L. 113–67, §101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted "paragraph (1)" for "paragraph (3)", and struck out former par. (2) which revised discretionary spending limits under section 901(c) of this title for fiscal years 2013 through 2021.
+
+Par. (3). Pub. L. 113–67, §101(d)(2)(C), (E), redesignated par. (5) as (3) and substituted "paragraph (2)" for "paragraph (4)" in two places. Former par. (3) redesignated (1).
 
 Par. (3)(E). Pub. L. 112–240, §901(a), added subpar. (E).
 
-Par. (4). Pub. L. 113–67, §101(d)(2)(C), (F), redesignated par. (6) as (4) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (4) redesignated (2).
+Par. (4). Pub. L. 113–67, §101(d)(2)(C), (F), redesignated par. (6) as (4) and substituted "paragraph (2)" for "paragraph (4)" in two places. Former par. (4) redesignated (2).
 
-Pub. L. 112–240, §901(c)(1), substituted “March 1, 2013” for “January 2, 2013”.
+Pub. L. 112–240, §901(c)(1), substituted "March 1, 2013" for "January 2, 2013".
 
-Par. (5). Pub. L. 113–67, §101(d)(2)(C), (G), redesignated par. (7) as (5) and substituted “paragraph (3)” for “paragraph (5)” in two places and “paragraph (4)” for “paragraph (6)” in two places. Former par. (5) redesignated (3).
+Par. (5). Pub. L. 113–67, §101(d)(2)(C), (G), redesignated par. (7) as (5) and substituted "paragraph (3)" for "paragraph (5)" in two places and "paragraph (4)" for "paragraph (6)" in two places. Former par. (5) redesignated (3).
 
-Par. (5)(B). Pub. L. 113–67, §101(b)(2), substituted “Except as provided by paragraph (10), on” for “On” in introductory provisions.
+Par. (5)(B). Pub. L. 113–67, §101(b)(2), substituted "Except as provided by paragraph (10), on" for "On" in introductory provisions.
 
-Par. (6). Pub. L. 113–67, §101(d)(2)(C), (H), redesignated par. (8) as (6) and, in subpar. (A), substituted “paragraph (2)” for “paragraph (4)” and “paragraphs (3) and (4)” for “paragraphs (5) and (6)”. Former par. (6) redesignated (4).
+Par. (6). Pub. L. 113–67, §101(d)(2)(C), (H), redesignated par. (8) as (6) and, in subpar. (A), substituted "paragraph (2)" for "paragraph (4)" and "paragraphs (3) and (4)" for "paragraphs (5) and (6)". Former par. (6) redesignated (4).
 
 Pub. L. 113–67, §101(c), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Par. (6)(C). Pub. L. 113–67, §1205, added subpar. (C).
 
-Par. (7). Pub. L. 113–67, §101(d)(2)(C), (I), redesignated par. (9) as (7), substituted “paragraph (6)” for “paragraph (8)”, and substituted “paragraph (4)” for “paragraph (6)” in two places. Former par. (7) redesignated (5).
+Par. (7). Pub. L. 113–67, §101(d)(2)(C), (I), redesignated par. (9) as (7), substituted "paragraph (6)" for "paragraph (8)", and substituted "paragraph (4)" for "paragraph (6)" in two places. Former par. (7) redesignated (5).
 
-Par. (7)(A). Pub. L. 112–240, §901(c)(2), substituted “March 1, 2013” for “January 2, 2013” in introductory provisions.
+Par. (7)(A). Pub. L. 112–240, §901(c)(2), substituted "March 1, 2013" for "January 2, 2013" in introductory provisions.
 
 Par. (8). Pub. L. 113–67, §101(d)(2)(C), redesignated par. (10) as (8). Former par. (8) redesignated (6).
 
-Par. (9). Pub. L. 113–67, §101(d)(2)(C), (J), redesignated par. (11) as (9) and substituted “paragraph (2)” for “paragraph (4)”. Former par. (9) redesignated (7).
+Par. (9). Pub. L. 113–67, §101(d)(2)(C), (J), redesignated par. (11) as (9) and substituted "paragraph (2)" for "paragraph (4)". Former par. (9) redesignated (7).
 
 Par. (10). Pub. L. 113–67, §101(b)(1), added par. (10). Former par. (10) redesignated (8).
 
@@ -162,35 +172,29 @@ Par. (11). Pub. L. 113–67, §101(d)(2)(C), redesignated par. (11) as (9).
 
 #### 2013 Sequester
 
-Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901a\], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) \[former 2 U.S.C. 901(c)(2)\] shall be applied as if it read as follows:
+Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: "On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901a\], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) \[former 2 U.S.C. 901(c)(2)\] shall be applied as if it read as follows:
 
-&emsp;“ ‘(2) For fiscal year 2013—
+&emsp;" '(2) For fiscal year 2013—
 
-&emsp;&emsp;“ ‘(A) for the security category, $544,000,000,000 in budget authority; and
+&emsp;&emsp;" '(A) for the security category, $544,000,000,000 in budget authority; and
 
-&emsp;&emsp;“ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
+&emsp;&emsp;" '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
 
-#### Sequestration Order for Fiscal Year 2013 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+#### Sequestration Order for Fiscal Year 2015 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
 
-Order of President of the United States, dated Mar. 1, 2013, 78 F.R. 14633, provided:
+Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act \[of 1985\], as amended (the “Act”), 2 U.S.C. 901a, I hereby order that budgetary resources in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 1, 2013.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2014, direct spending budgetary resources for fiscal year 2015 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 10, 2014.
 
-Pursuant to sections 250(c)(6), 251A, and 255(e) of the Act, budgetary resources subject to sequestration shall be new budget authority, unobligated balances of defense function accounts carried over from prior fiscal years, direct spending authority, and obligation limitations.
-
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 1, 2013, prepared pursuant to section 251A(11) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 10, 2014, prepared pursuant to section 251A(9) of the Act.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Sequestration Order for Fiscal Year 2014 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
 
-Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409, provided:
+<b>2014</b>—Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409.
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act \[of 1985\] (the “Act”), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2013, direct spending budgetary resources for fiscal year 2014 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of April 10, 2013.
-
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of April 10, 2013, prepared pursuant to section 251A(11) of the Act.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>2013</b>—Order of President of the United States, dated Mar. 1, 2013, 78 F.R. 14633.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

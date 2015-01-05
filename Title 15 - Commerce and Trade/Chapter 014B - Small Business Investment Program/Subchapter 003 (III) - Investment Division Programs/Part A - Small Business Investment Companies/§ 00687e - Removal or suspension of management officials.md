@@ -90,7 +90,7 @@ In this section, the term "management official" means an officer, director, gene
 
 #### (3) Authority upon conviction
 
-&emsp;If a judgment of conviction with respect to an offense described in paragraph (1) is entered against a management official, then at such time as the judgment is not subject to further appellate review, the Administrator may issue and serve upon the management official an order removing that management official, which removal shall become effective upon service of a copy of the order upon the licensee.
+&emsp;If a judgment of conviction with respect to an offense described in paragraph (1) is entered against a management official, then at such time as the judgment is not subject to furtherappellate review, the Administrator may issue and serve upon the management official an order removing that management official, which removal shall become effective upon service of a copy of the order upon the licensee.
 
 #### (4) Authority upon dismissal or other disposition
 
@@ -158,5 +158,5 @@ For definition of "this chapter", referred to in subsec. (b)(1)(A)(i)(I), (II), 
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearingupon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
+<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
 

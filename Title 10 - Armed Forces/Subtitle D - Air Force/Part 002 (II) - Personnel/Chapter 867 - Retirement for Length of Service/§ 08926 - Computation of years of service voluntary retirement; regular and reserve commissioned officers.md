@@ -94,7 +94,7 @@ Subsec. (a)(3), (4). Pub. L. 101–189, §652(a)(7)(A)(iii), struck out pars. (3
 
 "(4) if an officer of the Regular Air Force, all active service performed as an officer of the Philippine Constabulary."
 
-Subsec. (d). Pub. L. 101–189, §652(a)(7)(B), struck out subsec. (d) which read as follows: "For the purpose of determining whether an Air Force nurse or medical specialist may be retired under section 8911 of thistitle, all service computed under section 8683 of this title, shall be treated as if it was service as a commissioned officer."
+Subsec. (d). Pub. L. 101–189, §652(a)(7)(B), struck out subsec. (d) which read as follows: "For the purpose of determining whether an Air Force nurse or medical specialist may be retired under section 8911 of this title, all service computed under section 8683 of this title, shall be treated as if it was service as a commissioned officer."
 
 <b>1959</b>—Subsec. (d). Pub. L. 86–197 added subsec. (d).
 

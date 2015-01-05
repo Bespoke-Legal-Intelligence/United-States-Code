@@ -16,7 +16,7 @@
 
 Any item of information relating to mortgage loans required to be maintained under subsection (a) of this section shall be further itemized in order to disclose for each such item—
 
-&emsp;(1) the number and dollar amount of mortgage loans which are insured under title II of the National Housing Act \[12 U.S.C. 1707 etseq.\] or under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\] or which are guaranteed under chapter 37 of title 38;
+&emsp;(1) the number and dollar amount of mortgage loans which are insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\] or which are guaranteed under chapter 37 of title 38;
 
 &emsp;(2) the number and dollar amount of mortgage loans made to mortgagors who did not, at the time of execution of the mortgage, intend to reside in the property securing the mortgage loan;
 
@@ -116,7 +116,7 @@ The requirements of subsections (a) and (b) of this section shall not apply with
 
 &emsp;&emsp;&emsp;(i) credit score data described in subsection (b)(6)(I), in a manner that is consistent with the purpose described in paragraph (1)(E); and
 
-&emsp;&emsp;&emsp;(ii) age or any other category of data described in paragraph (5) or (6) of subsection (b), as the Bureau determines to be necessary to satisfy the purpose described in paragraph (1)(E), and in a manner consistent with that purpose.
+&emsp;&emsp;&emsp;(ii) age or any other category of data described in paragraph (5) or (6) of subsection (b), as the Bureau determines to be necessary to satisfy the purpose described inparagraph (1)(E), and in a manner consistent with that purpose.
 
 #### (B) Standards
 
@@ -156,7 +156,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall
 
 #### (4) Reasonable charge for information
 
-&emsp;Any depository institution which provides information under this subsection may imposea reasonable fee for any cost incurred in reproducing such information.
+&emsp;Any depository institution which provides information under this subsection may impose a reasonable fee for any cost incurred in reproducing such information.
 
 #### (5) Time of disclosure
 
@@ -238,7 +238,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall
 
 #### (n) Timing of certain disclosures
 
-The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the endof the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
+The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
 
 (Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097.)
 

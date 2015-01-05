@@ -196,7 +196,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this subsection, the term "principal campaign committee" means the political committee designated by a candidate for Congress as his principal campaign committee for purposes of—
 
-&emsp;&emsp;&emsp;(i) section 302(e) of the Federal Election Campaign Act of 1971 (2 U.S.C. 432(e)), and
+&emsp;&emsp;&emsp;(i) section 302(e) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30102(e)), and
 
 &emsp;&emsp;&emsp;(ii) this subsection.
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (4) Effect of failure
 
-&emsp;In the case of an organization failing to meet the requirements of paragraph (1) for anyperiod, the taxable income of such organization shall be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income) or, in the case of a failure relating to a material change, by taking into account such income and deductions only during the period beginning on the date on which the material change occurs and ending on the date on which notice is given under this subsection. For purposes of the preceding sentence, the term "exempt function income" means any amount described in a subparagraph of subsection (c)(3), whether or not segregated for use for an exempt function.
+&emsp;In the case of an organization failing to meet the requirements of paragraph (1) for any period, the taxable income of such organization shall be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income) or, in the case of a failure relating to a material change, by taking into account such income and deductions only during the period beginning on the date on which the material change occurs and ending on the date on which notice is given under this subsection. For purposes of the preceding sentence, the term "exempt function income" means any amount described in a subparagraph of subsection (c)(3), whether or not segregated for use for an exempt function.
 
 #### (5) Exceptions
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 #### (6) Coordination with other requirements
 
-&emsp;This subsection shall not apply to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) as a political committee.
+&emsp;This subsection shall not apply to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.) as a political committee.
 
 #### (j) Required disclosure of expenditures and contributions
 
@@ -304,7 +304,7 @@ For purposes of this section—
 
 &emsp;This subsection shall not apply—
 
-&emsp;&emsp;(A) to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) as a political committee,
+&emsp;&emsp;(A) to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.) as a political committee,
 
 &emsp;&emsp;(B) to any State or local committee of a political party or political committee of a State or local candidate,
 
@@ -368,15 +368,19 @@ The Secretary may waive all or any portion of the—
 
 > on a showing that such failure was due to reasonable cause and not due to willful neglect.
 
-(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934.)
+(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18,1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036.)
 
 #### References in Text
 
-Section 610 of title 18, referred to in subsec. (f)(3), was repealed by Pub. L. 94–283, title II, §201(a), May 11, 1976, 90 Stat. 496. See section 441b of Title 2, The Congress.
+Section 610 of title 18, referred to in subsec. (f)(3), was repealed by Pub. L. 94–283, title II, §201(a), May 11, 1976, 90 Stat. 496.
 
-The Federal Election Campaign Act of 1971, referred to in subsecs. (i)(6) and (j)(5)(A), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, as amended, which is classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress. Section 301 of the Act is classified to section 431 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 431 of Title 2 and Tables.
+The Federal Election Campaign Act of 1971, referred to in subsecs. (i)(6) and (j)(5)(A), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§30101 et seq.) of Title 52, Voting and Elections. Section 301 of the Act is classified to section 30101 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(2)(A)(i). Pub. L. 113–295, §220(l)(1), substituted "(52 U.S.C. 30102(e))" for "(2 U.S.C. 432(e))".
+
+Subsecs. (i)(6), (j)(5)(A). Pub. L. 113–295, §220(l)(2), substituted "(52 U.S.C. 30101 et seq.)" for "(2 U.S.C. 431 et seq.)".
 
 <b>2002</b>—Subsec. (e)(5). Pub. L. 107–276, §2(b), added par. (5).
 
@@ -520,13 +524,13 @@ Pub. L. 97–34, title I, §128(b), Aug. 13, 1981, 95 Stat. 203, provided that: 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1978 Amendment; Election Campaign Contributions; Collateral
 
 Pub. L. 95–502, title III, §302(b), Oct. 21, 1978, 92 Stat. 1703, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(1) The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974, except that notwithstanding any other provision of law to the contrary, no amounts held at the date of enactment of this bill \[Oct. 21, 1978\] by an organization described in section 527(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in escrow, in separate accounts for the payment of Federal taxes, or in any other fund which are proceeds described in section 527(c)(3)(D) of such Code may be used, directly or indirectly, to make a contribution or expenditure (as defined in section 301(e) and (f) of the Federal Election Campaign Act of 1971; 2 U.S.C. 431(f)) in connection with any election held before January 1, 1979.
+"(1) The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974, except that notwithstanding any other provision of law to the contrary, no amounts held at the date of enactment of this bill \[Oct. 21, 1978\] by an organization described in section 527(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in escrow, in separate accounts for the payment of Federal taxes, or in any other fund which are proceeds described in section 527(c)(3)(D) of such Code may be used, directly or indirectly, to make a contribution or expenditure (as defined in section 301(e) and (f) of the Federal Election Campaign Act of 1971; 2 U.S.C. 431\[(e) and\] (f) \[now 52 U.S.C. 30101(8) and (9)\]) in connection with any election held before January 1, 1979.
 
 "(2) Such amounts as described in (1) above shall not be considered as security or collateral for any loan by any State or national bank or any other person or organization."
 
@@ -548,9 +552,9 @@ In General.—The Secretary of the Treasury, in consultation with the Federal El
 
 &emsp;"(1) the effect of the amendments made by this Act \[amending this section and sections 6012, 6033, 6104, and 7207 of this title\], and
 
-&emsp;"(2) the interaction of requirements to file a notification or report under section 527 of the Internal Revenue Code of 1986 and reports under the Federal Election Campaign Act of 1971 \[2 U.S.C. 431 et seq.\].
+&emsp;"(2) the interaction of requirements to file a notification or report under section 527 of the Internal Revenue Code of 1986 and reports under the Federal Election Campaign Act of 1971 \[52 U.S.C. 30101 et seq.\].
 
 "(b)
 
-Information.—Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 of the Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[2 U.S.C. 431 et seq.\]."
+Information.—Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 of the Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[52 U.S.C. 30101 et seq.\]."
 

@@ -50,7 +50,7 @@ For the purpose of subsection (c)(2) of this section, the term "qualifying adult
 
 #### (1) In general
 
-&emsp;From amounts made available under subsection (c) of this section for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, theSecretary shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this part in accordance with the provisions of this part that the Secretary determines are not inconsistent with this subsection.
+&emsp;From amounts made available under subsection (c) of this section for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, the Secretary shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this part in accordance with the provisions of this part that the Secretary determines are not inconsistent with this subsection.
 
 #### (2) Award basis
 
@@ -84,6 +84,10 @@ The portion of any eligible agency's allotment under this part for a fiscal year
 
 (Pub. L. 105–220, title II, §211, Aug. 7, 1998, 112 Stat. 1062; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 Section 313 of the Adult Education Act (as such Act was in effect on the day before August 7, 1998), referred to in subsec. (f)(1)(A), means section 313 of Pub. L. 89–750, which was classified to section 1201b of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079.
@@ -91,4 +95,8 @@ Section 313 of the Adult Education Act (as such Act was in effect on the day bef
 #### Amendments
 
 <b>1998</b>—Subsec. (d)(1). Pub. L. 105–277 struck out ", but less than 61 years of age" after "16 years of age".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 #### Construction
 
-This section not to be construed to extend application of Education Amendments of 1972, Pub. L. 92–318, to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a note under section 1687 of this title.
+This section not to be construed to extend application of Education Amendments of 1972, Pub. L. 92–318,to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a note under section 1687 of this title.
 
 #### Abortion Neutrality
 

@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 #### (8) Board
 
-&emsp;The term "Board", other than in the context of the Board of Directors of the Corporation,means the Board of Governors of the Federal Reserve System.
+&emsp;The term "Board", other than in the context of the Board of Directors of the Corporation, means the Board of Governors of the Federal Reserve System.
 
 #### (9) Comptroller
 

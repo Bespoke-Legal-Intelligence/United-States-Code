@@ -16,9 +16,9 @@ A State nonmember insured bank may not—
 
 A State nonmember insured bank may not permit—
 
-&emsp;(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a) of this section, or
+&emsp;(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a), or
 
-&emsp;(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
+&emsp;(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a).
 
 #### (c) Definitions
 
@@ -26,7 +26,7 @@ As used in this section—
 
 &emsp;(1) The term "deal in" includes making, taking, buying, selling, redeeming, or collecting.
 
-&emsp;(2) The term "lottery" includes any arrangement whereby three or more persons (the "participants") advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the "winners") will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+&emsp;(2) The term "lottery" includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the "participants") advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the "winners") will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
 &emsp;&emsp;(A) a random selection;
 
@@ -36,6 +36,8 @@ As used in this section—
 
 &emsp;(3) The term "lottery ticket" includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility), of becoming a winner in a lottery.
 
+&emsp;(4) The term "savings promotion raffle" means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 5481 of this title).
+
 #### (d) Lawful banking services connected with operation of lottery
 
 Nothing contained in this section prohibits a State nonmember insured bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
@@ -44,9 +46,13 @@ Nothing contained in this section prohibits a State nonmember insured bank from 
 
 The Board of Directors shall prescribe such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-(Sept. 21, 1950, ch. 967, §2\[20\], as added Pub. L. 90–203, §3, Dec. 15, 1967, 81 Stat. 610; amended Pub. L. 103–325, title VI, §602(a)(51), Sept. 23, 1994, 108 Stat. 2290.)
+(Sept. 21, 1950, ch. 967, §2\[20\], as added Pub. L. 90–203, §3, Dec. 15, 1967, 81 Stat. 610; amended Pub. L. 103–325, title VI, §602(a)(51), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 113–251, §3(c), Dec. 18, 2014, 128 Stat. 2889.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–251, §3(c)(1), inserted ", other than a savings promotion raffle," before "whereby" in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 113–251, §3(c)(2), added par. (4).
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–325 inserted "or" at end.
 

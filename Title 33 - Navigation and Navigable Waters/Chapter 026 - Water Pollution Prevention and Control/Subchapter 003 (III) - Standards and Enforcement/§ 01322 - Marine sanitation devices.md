@@ -30,7 +30,7 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(A) means a discharge, including—
 
-&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation ofa marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
+&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
 
 &emsp;&emsp;&emsp;(ii) a discharge in connection with the testing, maintenance, and repair of a system described in clause (i) whenever the vessel is waterborne; and
 
@@ -74,11 +74,11 @@ The provisions of this section and the standards and regulations promulgated her
 
 #### (e) Pre-promulgation consultation
 
-Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in whichthe Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary of Commerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
+Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in which the Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary of Commerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
 
 #### (f) Regulation by States or political subdivisions thereof; complete prohibition upon discharge of sewage
 
-(1)(A) Except as provided in subparagraph (B), after the effective date of the initial standards and regulations promulgated under this section, no State or political subdivision thereof shall adopt or enforce any statute or regulation of such State or political subdivision with respect to the design, manufacture, or installation or use of any marine sanitation device on any vessel subject to the provisions of this section.
+(1)(A) Except as provided in subparagraph (B), after the effective date of the initial standardsand regulations promulgated under this section, no State or political subdivision thereof shall adopt or enforce any statute or regulation of such State or political subdivision with respect to the design, manufacture, or installation or use of any marine sanitation device on any vessel subject to the provisions of this section.
 
 (B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term "houseboat" means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residence and is not used primarily as a means of transportation.
 
@@ -398,13 +398,13 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (5) Effect of other laws
 
-&emsp;This subsection shall not affect the application of section 1321 of this title to dischargesincidental to the normal operation of a recreational vessel.
+&emsp;This subsection shall not affect the application of section 1321 of this title to discharges incidental to the normal operation of a recreational vessel.
 
 #### (6) Prohibition relating to recreational vessels
 
 &emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
-(June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
+(June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311,Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
 
 #### References in Text
 
@@ -508,7 +508,7 @@ Purpose.—The purpose of this subtitle is to provide funds to States for the co
 
 Survey.—Within 3 months after the notification under section 5605(b), each coastal State shall conduct a survey to determine—
 
-&emsp;"(1) the number and location of all operational pumpout stations and waste reception facilities at public and private marinas, mooring areas, docks, and other boating access facilities within the coastal zone of the State; and
+&emsp;"(1) the number and location of all operational pumpout stations and waste reception facilities atpublic and private marinas, mooring areas, docks, and other boating access facilities within the coastal zone of the State; and
 
 &emsp;"(2) the number of recreational vessels in the coastal waters of the State with type III marine sanitation devices or portable toilets, and the areas of those coastal waters where those vessels congregate.
 
@@ -612,7 +612,7 @@ Disclaimer.—Nothing in this subtitle shall be interpreted to preclude a State 
 
 Issuance of Guidance.—Not later than 3 months after the date of the enactment of this subtitle \[Nov. 4, 1992\], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of the Coast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—
 
-&emsp;"(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, ormaintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
+&emsp;"(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
 
 &emsp;"(2) guidance defining what constitutes adequate and reasonably available pumpout stations and waste reception facilities in boating areas;
 
@@ -626,7 +626,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 "(b)
 
-Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
+Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notificationin writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 
 &emsp;"(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
 

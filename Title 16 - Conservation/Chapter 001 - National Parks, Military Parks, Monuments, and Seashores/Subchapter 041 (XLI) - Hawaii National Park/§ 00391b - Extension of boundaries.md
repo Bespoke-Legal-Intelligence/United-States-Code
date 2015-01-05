@@ -14,7 +14,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 4\. Exactly ninety-eight degrees and forty-five minutes seven thousand four hundred feet to a pipe in concrete at a place called Okiokiahu (note: azimuths of courses 5 to 11, inclusive, are referred to Uwekahuna meridian);
 
-5\. One hundred and nine degrees fifty-seven minutes and twenty-two seconds ten thousand seven hundred and seventeen and nine-tenthsfeet to a pipe in concrete at a place called Makaloa; thence
+5\. One hundred and nine degrees fifty-seven minutes and twenty-two seconds ten thousand seven hundred and seventeen and nine-tenths feet to a pipe in concrete at a place called Makaloa; thence
 
 6\. One hundred and seventy degrees four minutes and thirty-nine seconds exactly six thousand eight hundred feet along Hawaii National Park, Kilauea section, to the foot of the Puueo pali;
 
@@ -70,7 +70,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 6\. Along stone wall over the lava flows, the boundary following the wall in its turns and windings, the direct azimuth and distance being: two hundred and nineteen degrees twenty-two minutes and forty-five seconds exactly eighteen thousand one hundred and twenty-one feet to a point in said stone wall.
 
-7\. Two hundred and thirty-eight degrees and seven minutes exactly two hundred and fiftyfeet partly along stone wall to a pipe in the middle of a corral;
+7\. Two hundred and thirty-eight degrees and seven minutes exactly two hundred and fifty feet partly along stone wall to a pipe in the middle of a corral;
 
 8\. Two hundred and thirty-four degrees and two minutes exactly two hundred feet across corral and along stone wall to a point in said wall;
 

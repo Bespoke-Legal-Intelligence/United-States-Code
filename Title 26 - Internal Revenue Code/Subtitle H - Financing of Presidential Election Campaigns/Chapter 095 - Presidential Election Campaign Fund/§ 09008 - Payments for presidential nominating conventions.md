@@ -24,7 +24,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (5) Adjustment of entitlements
 
-&emsp;The entitlements established by this subsection shall be adjusted in the same manner as expenditure limitations established by section 315(b) and section 315(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 315(c) of such Act.
+&emsp;The entitlements established by this subsection shall be adjusted in the same manneras expenditure limitations established by section 315(b) and section 315(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 315(c) of such Act.
 
 #### (c) Use of funds
 
@@ -54,7 +54,7 @@ No part of any payment made under subsection (b) shall be used to defray the exp
 
 #### (e) Availability of payments
 
-The national committee of a major party or minor party may receive payments under subsection (b)(3) beginning on July 1 of the calendaryear immediately preceding the calendar year in which a presidential nominating convention of the political party involved is held.
+The national committee of a major party or minor party may receive payments under subsection (b)(3) beginning on July 1 of the calendar year immediately preceding the calendar year in which a presidential nominating convention of the political party involved is held.
 
 #### (f) Transfer to the fund
 
@@ -68,13 +68,27 @@ Any major party or minor party may file a statement with the Commission in such 
 
 The Commission shall have the same authority to require repayments from the national committee of a major party or a minor party as it has with respect to repayments from any eligible candidate under section 9007(b). The provisions of section 9007(c) and section 9007(d) shall apply with respect to any repayment required by the Commission under this subsection.
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 569; amended Pub. L. 93–443, title IV, §406(a), Oct. 15, 1974, 88 Stat. 1294; Pub. L. 94–283, title III, §§303, 307(a), May 11, 1976, 90 Stat. 498, 501; Pub. L. 96–187, title II, §202, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 98–355, §1(a), (b), July 11, 1984, 98 Stat. 394.)
+#### (i) Termination of payments for conventions; use of amounts for pediatric research initiative
+
+Effective on the date of the enactment of the Gabriella Miller Kids First Research Act—
+
+&emsp;(1) the entitlement of any major party or minor party to a payment under this section shall terminate; and
+
+&emsp;(2) all amounts in each account maintained for the national committee of a major party or minor party under this section shall be transferred to a fund in the Treasury to be known as the "10-Year Pediatric Research Initiative Fund", which shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.
+
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 569; amended Pub. L. 93–443, title IV, §406(a), Oct. 15, 1974, 88 Stat. 1294; Pub. L. 94–283, title III, §§303, 307(a), May 11, 1976, 90 Stat. 498, 501; Pub. L. 96–187, title II, §202, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 98–355, §1(a), (b), July 11, 1984, 98 Stat. 394; Pub. L. 113–94, §2(a), Apr. 3, 2014, 128 Stat. 1085.)
 
 #### References in Text
 
-Sections 303 and 315 of the Federal Election Campaign Act of 1971, referred to in subsecs. (b)(5) and (g), are classified to sections 433 and 441a, respectively, of Title 2, The Congress.
+Sections 303 and 315 of the Federal Election Campaign Act of 1971, referred to in subsecs. (b)(5) and (g), are classified to sections 30103 and 30116, respectively, of Title 52, Voting and Elections.
+
+The date of the enactment of the Gabriella Miller Kids First Research Act, referred to in subsec. (i), is the date of enactment of Pub. L. 113–94, which was approved Apr. 3, 2014.
+
+Section 402A(a)(2) of the Public Health Service Act, referred to in subsec. (i)(2), is classified to section 282a(a)(2) of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i). Pub. L. 113–94 added subsec. (i).
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–355, §1(a), substituted "$4,000,000" for "$3,000,000".
 
@@ -86,7 +100,7 @@ Subsec. (b)(5). Pub. L. 98–355, §1(b), substituted "section 315(b) and sectio
 
 Subsec. (d)(4). Pub. L. 94–283, §303, added par. (4).
 
-<b>1974</b>—Pub. L. 93–443 substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries, see section 434 of Title 2, The Congress.
+<b>1974</b>—Pub. L. 93–443 substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries.
 
 #### Effective Date of 1984 Amendment
 
@@ -94,9 +108,9 @@ Pub. L. 98–355, §1(c), July 11, 1984, 98 Stat. 394, provided that: "The amend
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of Title 2, The Congress.
+Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 30101 of Title 52, Voting and Elections.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 

@@ -152,7 +152,7 @@ Any State seeking to conduct a demonstration project under this section shall su
 
 &emsp;(6) a description of the proposed evaluation design;
 
-&emsp;(7) an accounting of any additional Federal, State, and local investments made, as well as any private investments made in coordination with the State, during the 2 fiscal years preceding the application to provide the services described in paragraph (1), and an assurance that the State will provide an accounting of that same spending for each year of an approved demonstration project; and
+&emsp;(7) an accounting of any additional Federal, State, and local investments made, as well as any private investments made in coordination with the State, during the 2 fiscal years preceding the application to provide the servicesdescribed in paragraph (1), and an assurance that the State will provide an accounting of that same spending for each year of an approved demonstration project; and
 
 &emsp;(8) such additional information as the Secretary may require.
 

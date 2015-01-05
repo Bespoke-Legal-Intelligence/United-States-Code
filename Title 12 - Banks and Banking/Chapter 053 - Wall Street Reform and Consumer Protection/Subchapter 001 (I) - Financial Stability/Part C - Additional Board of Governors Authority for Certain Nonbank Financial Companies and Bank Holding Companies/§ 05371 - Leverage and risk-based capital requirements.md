@@ -24,11 +24,35 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term "depository institution holding company" means a bank holding company or a savings and loan holding company (as those terms are defined in section 1813 of this title) that is organized in the United States, including any bank or savings and loan holding company that is owned or controlled by a foreign organization, but does not include the foreign organization.
 
+#### (4) Business of insurance
+
+&emsp;The term "business of insurance" has the same meaning as in section 5481(3) of this title.
+
+#### (5) Person regulated by a State insurance regulator
+
+&emsp;The term "person regulated by a State insurance regulator" has the same meaning as in section 5481(22) of this title.
+
+#### (6) Regulated foreign subsidiary and regulated foreign affiliate
+
+&emsp;The terms "regulated foreign subsidiary" and "regulated foreign affiliate" mean a person engaged in the business of insurance in a foreign country that is regulated by a foreign insurance regulatory authority that is a member of the International Association of Insurance Supervisors or other comparable foreign insurance regulatory authority as determined by the Board of Governors following consultation with the State insurance regulators, including the lead State insurance commissioner (or similar State official) of the insurance holding company system as determined by the procedures within the Financial Analysis Handbook adopted by the National Association of Insurance Commissioners, where the person, or its principal United States insurance affiliate, has its principal place of business or is domiciled, but only to the extent that—
+
+&emsp;&emsp;(A) such person acts in its capacity as a regulated insurance entity; and
+
+&emsp;&emsp;(B) the Board of Governors does not determine that the capital requirements in a specific foreign jurisdiction are inadequate.
+
+#### (7) Capacity as a regulated insurance entity
+
+&emsp;The term "capacity as a regulated insurance entity"—
+
+&emsp;&emsp;(A) includes any action or activity undertaken by a person regulated by a State insurance regulator or a regulated foreign subsidiary or regulated foreign affiliate of such person, as those actions relate to the provision of insurance, or other activities necessary to engage in the business of insurance; and
+
+&emsp;&emsp;(B) does not include any action or activity, including any financial activity, that is not regulated by a State insurance regulator or a foreign agency or authority and subject to State insurance capital requirements or, in the case of a regulated foreign subsidiary or regulated foreign affiliate, capital requirements imposed by a foreign insurance regulatory authority.
+
 #### (b) Minimum capital requirements
 
 #### (1) Minimum leverage capital requirements
 
-&emsp;The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve as a floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
+&emsp;The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve asa floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
 
 #### (2) Minimum risk-based capital requirements
 
@@ -68,7 +92,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) any Federal home loan bank; or
 
-&emsp;&emsp;(C) any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.
+&emsp;&emsp;(C) any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 CFR part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled "To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes".
 
 #### (6) Study and report on small institution access to capital
 
@@ -82,7 +106,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (C) Report to Congress
 
-&emsp;&emsp;Not later than 18 months after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on FinancialServices of the House of Representatives a report summarizing the results of the study conducted under subparagraph (A), together with any recommendations for legislative or regulatory action that would enhance the access to capital of smaller insured depository institutions, in a manner that is consistent with safe and sound banking operations.
+&emsp;&emsp;Not later than 18 months after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report summarizing the results of the studyconducted under subparagraph (A), together with any recommendations for legislative or regulatory action that would enhance the access to capital of smaller insured depository institutions, in a manner that is consistent with safe and sound banking operations.
 
 #### (7) Capital requirements to address activities that pose risks to the financial system
 
@@ -100,11 +124,85 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) concentrations in market share for any activity that would substantially disrupt financial markets if the institution is forced to unexpectedly cease the activity.
 
-(Pub. L. 111–203, title I, §171, July 21, 2010, 124 Stat. 1435.)
+#### (c) Clarification
+
+#### (1) In general
+
+&emsp;In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of this section (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of such person engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
+
+#### (2) Rule of construction on Board's authority
+
+&emsp;This subsection shall not be construed to prohibit, modify, limit, or otherwise supersede any other provision of Federal law that provides the Board of Governors authority to issue regulations and orders relating to capital requirements for depository institution holding companies or nonbank financial companies supervised by the Board of Governors.
+
+#### (3) Rule of construction on accounting principles
+
+#### (A) In general
+
+&emsp;&emsp;A depository institution holding company or nonbank financial company supervised by the Board of Governors of the Federal Reserve that is also a person regulated by a State insurance regulator that is engaged in the business of insurance that files financial statements with a State insurance regulator or the National Association of Insurance Commissioners utilizing only Statutory Accounting Principles in accordance with State law, shall not be required by the Board under the authority of this section or the authority of the Home Owners' Loan Act \[12 U.S.C. 1461 et seq.\] to prepare such financial statements in accordance with Generally Accepted Accounting Principles.
+
+#### (B) Preservation of authority
+
+&emsp;&emsp;Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with section 5361(a) of this title and section 10(b)(2) of the Home Owners' Loan Act (12 U.S.C. 1467a(b)(2)), as appropriate.
+
+(Pub. L. 111–203, title I, §171, July 21, 2010, 124 Stat. 1435; Pub. L. 113–250, §2(a), Dec. 18, 2014, 128 Stat. 2886; Pub. L. 113–279, §2, Dec. 18, 2014, 128 Stat. 3017.)
 
 #### References in Text
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
+
+Section 1 of an Act entitled "To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes", referred to in subsec. (b)(5)(C), is section 1 of Pub. L. 113–250, which is set out as a note below.
+
+The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (a)(4) to (7). Pub. L. 113–279, §2(1), added pars. (4) to (7).
+
+Subsec. (b)(5)(C). Pub. L. 113–250 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010."
+
+Subsec. (c). Pub. L. 113–279, §2(2), added subsec. (c).
+
+#### Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors
+
+Pub. L. 113–250, Dec. 18, 2014, 128 Stat. 2886, provided that:
+
+#### "SECTION 1. CHANGES REQUIRED TO SMALL BANK HOLDING COMPANY POLICY STATEMENT ON ASSESSMENT OF FINANCIAL AND MANAGERIAL FACTORS.
+
+"(a)
+
+In General.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Dec. 18, 2014\], the Board of Governors of the Federal Reserve System (hereafter in this Act referred to as the 'Board') shall publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors (12 CFR part 225 appendix C) that provide that the policy shall apply to bank holding companies and savings and loan holding companies which have pro forma consolidated assets of less than $1,000,000,000 and that—
+
+&emsp;"(1) are not engaged in significant nonbanking activities either directly or through a nonbank subsidiary;
+
+&emsp;"(2) do not conduct significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; and
+
+&emsp;"(3) do not have a material amount of debt or equity securities outstanding (other than trust preferred securities) that are registered with the Securities and Exchange Commission.
+
+"(b)
+
+Exclusions.—The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the policy statement under subsection (a) if the Board determines that such action is warranted for supervisory purposes.
+
+#### "SEC. 2. CONFORMING AMENDMENT.
+
+"(a)
+
+In General.—\[Amended this section.\]
+
+"(b)
+
+Transition Period.—Any small bank holding company that was excepted from the provisions of section 171 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5371\] pursuant to subparagraph (C) of section 171(b)(5) (as such subparagraph was in effect on the day before the date of enactment of this Act \[Dec. 18, 2014\]), and any small savings and loan holding company that would have been excepted from the provisions of section 171 pursuant to subparagraph (C) \[of section 171(b)(5)\] (as such subparagraph was in effect on the day before the date of enactment of this Act) if it had been a small bank holding company, shall be excepted from the provisions of section 171 until the effective date of the Small Bank Holding Company Policy Statement issued by the Board as required by section 1 of this Act.
+
+#### "SEC. 3. DEFINITIONS.
+
+"For the purposes of this Act:
+
+"(a)
+
+Bank Holding Company.—The term 'bank holding company' has the same meaning as in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+
+"(b)
+
+Savings and Loan Holding Company.—The term 'savings and loan holding company' has the same meaning as in section 10(a) of the Home Owners' Loan Act (12 U.S.C. 1467a(a))."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

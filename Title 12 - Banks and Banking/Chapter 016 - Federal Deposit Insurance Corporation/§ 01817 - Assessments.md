@@ -4,7 +4,7 @@
 
 (1) Each insured State nonmember bank and each foreign bank having an insured branch which is not a Federal branch shall make to the Corporation reports of condition which shall be in such form and shall contain such information as the Board of Directors may require. Such reports shall be made to the Corporation on the dates selected as provided in paragraph (3) of this subsection and the deposit liabilities shall be reported therein in accordance with and pursuant to paragraphs (4) and (5) of this subsection. The Board of Directors may call for additional reports of condition on dates to be fixed by it and may call for such other reports as the Board may from time to time require. Any such bank which (A) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to make or publish any report required under this paragraph, within the period of time specified by the Corporation, or submits or publishes any false or misleading report or information, or (B) inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. Such bank shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any such bank which fails to make or publish any report required under this paragraph, within the period of time specified by the Corporation, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any such bank knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Corporation may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Corporation in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any such bank against which any penalty is assessed under this subsection shall be afforded an agency hearing if such bank submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this paragraph.
 
-(2)(A) The Corporation and, with respect to any State depository institution, any appropriate State bank supervisor for such institution, shall have access to reports of examination made by, and reports of condition made to, the Comptroller of the Currency, the Federal Housing Finance Agency, any Federal home loan bank, or any Federal Reserve bank and to all revisions of reports of condition made to any of them, and they shall promptly advise the Corporation of any revisions or changes in respect to deposit liabilities made or required to be made in any report of condition. The Corporation may accept any report made by or to any commission, board, or authority having supervision of a depository institution, and may furnish to the Comptroller of the Currency, to the Federal Housing Finance Agency, to any Federal home loan bank, to any Federal Reservebank, and to any such commission, board, or authority, reports of examinations made on behalf of, and reports of condition made to, the Corporation.
+(2)(A) The Corporation and, with respect to any State depository institution, any appropriate State bank supervisor for such institution, shall have access to reports of examination made by, and reports of condition made to, the Comptroller of the Currency, the Federal Housing Finance Agency, any Federal home loan bank, or any Federal Reserve bank and to all revisions of reports of condition made to any of them, and they shall promptly advise the Corporation of any revisions or changes in respect to deposit liabilities made or required to be made in any report of condition. The Corporation may accept any report made by or to any commission, board, or authority having supervision of a depository institution, and may furnish to the Comptroller of the Currency, to the Federal Housing Finance Agency, to any Federal home loan bank, to any Federal Reserve bank, and to any such commission, board, or authority, reports of examinations made on behalf of, and reports of condition made to, the Corporation.
 
 (B)
 
@@ -246,13 +246,13 @@ Reduction or elimination of information found to be unnecessary.—After complet
 
 &emsp;&emsp;&emsp;(i) be in such form and set forth such supporting information as the Board of Directors shall prescribe; and
 
-&emsp;&emsp;&emsp;(ii) be certified by the president of the depository institution or any other officer designated by its board of directors ortrustees that to the best of his or her knowledge and belief, the statement is true, correct and complete, and in accordance with this chapter and regulations issued hereunder.
+&emsp;&emsp;&emsp;(ii) be certified by the president of the depository institution or any other officer designated by its board of directors or trustees that to the best of his or her knowledge and belief, the statement is true, correct and complete, and in accordance with this chapter and regulations issued hereunder.
 
 #### (2) Payments required
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution shall pay to the Corporation the assessment imposed under subsection (b) of this section.
+&emsp;&emsp;Each insured depository institution shall pay to the Corporation the assessment imposed under subsection (b).
 
 #### (B) Form of payment
 
@@ -394,7 +394,7 @@ Any insured depository institution which fails to make any report of condition u
 
 #### (h) Forfeiture of rights for failure to comply with law
 
-Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended \[12 U.S.C. 21 et seq.\], the Federal Reserve Act, as amended \[12 U.S.C. 221 et seq.\], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended \[12 U.S.C. 501a\]. The remedies provided in this subsection and in subsections (f) and (g) of this section shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
+Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended \[12 U.S.C. 21 et seq.\], the Federal Reserve Act, as amended \[12 U.S.C. 221 et seq.\], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended \[12 U.S.C. 501a\]. The remedies provided in this subsection and in subsections (f) and (g) shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
 
 #### (i) Insurance of trust funds
 
@@ -468,7 +468,7 @@ Public Comment.—Upon receiving notice of a proposed acquisition, the appropria
 
 &emsp;(A) The identity, personal history, business background and experience of each person by whom or on whose behalf the acquisition is to be made, including his material business activities and affiliations during the past five years, and a description of any material pending legal or administrative proceedings in which he is a party and any criminal indictment or conviction of such person by a State or Federal court.
 
-&emsp;(B) A statement of the assets and liabilities of each person by whom or on whose behalf the acquisition is to be made, as of the end of the fiscal year for each of the five fiscal years immediately preceding the date of the notice, together with related statements of income and source and application of funds for each of the fiscal years then concluded, all prepared in accordance with generally accepted accounting principles consistently applied, and an interim statement of the assets and liabilities for each such person, together with related statements of income and source and application of funds, as of a date not more than ninety days prior to the date of the filing of the notice.
+&emsp;(B) A statement of the assets and liabilities of each person by whom or on whose behalf theacquisition is to be made, as of the end of the fiscal year for each of the five fiscal years immediately preceding the date of the notice, together with related statements of income and source and application of funds for each of the fiscal years then concluded, all prepared in accordance with generally accepted accounting principles consistently applied, and an interim statement of the assets and liabilities for each such person, together with related statements of income and source and application of funds, as of a date not more than ninety days prior to the date of the filing of the notice.
 
 &emsp;(C) The terms and conditions of the proposed acquisition and the manner in which the acquisition is to be made.
 
@@ -550,7 +550,7 @@ Timing of report.—The report required under this paragraph shall be a consolid
 
 &emsp;&emsp;(ii)
 
-Content of report.—The report under this paragraph shall indicate the numberand percentage of shares securing each applicable extension of credit, the identity of the borrower, and the number of shares held as principal by the foreign bank and any affiliate thereof.
+Content of report.—The report under this paragraph shall indicate the number and percentage of shares securing each applicable extension of credit, the identity of the borrower, and the number of shares held as principal by the foreign bank and any affiliate thereof.
 
 &emsp;&emsp;(iii)
 
@@ -610,7 +610,7 @@ Jurisdiction.—
 
 &emsp;&emsp;(ii) The district courts of the United States and the United States courts of any territory shall have jurisdiction and power to issue any injunction or restraining order or grant any equitable relief described in subparagraph (B). When appropriate, any injunction, order, or other equitable relief granted under this paragraph shall be granted without requiring the posting of any bond.
 
-> The resignation, termination of employment or participation, divestiture of control, or separation of or by an institution-affiliated party (including a separation caused by the closing of a depository institution) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceedunder this subsection against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such depository institution (whether such date occurs before, on, or after August 9, 1989).
+> The resignation, termination of employment or participation, divestiture of control, or separation of or by an institution-affiliated party (including a separation caused by the closing of a depository institution) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this subsection against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such depository institution (whether such date occurs before, on, or after August 9, 1989).
 
 (16)
 
@@ -724,7 +724,7 @@ For purposes of this section:
 
 #### (A) Bank Insurance Fund
 
-&emsp;&emsp;Any depository institution the deposits of which were insured by the Federal DepositInsurance Corporation on the day before August 9, 1989, including—
+&emsp;&emsp;Any depository institution the deposits of which were insured by the Federal Deposit Insurance Corporation on the day before August 9, 1989, including—
 
 &emsp;&emsp;&emsp;(i) any Federal savings bank chartered pursuant to section 1464(o) of this title; and
 
@@ -764,7 +764,7 @@ For purposes of this section:
 
 #### (3) Offsets in calendar years beginning after 1992
 
-&emsp;Notwithstanding any other provision of law, a savings association may offset such association's pro rata share of the statutorily prescribed amount against any premium assessed against such association under subsection (b) of this section for any calendar year beginning after 1992.
+&emsp;Notwithstanding any other provision of law, a savings association may offset such association's pro rata share of the statutorily prescribed amount against any premium assessed against such association under subsection (b) for any calendar year beginning after 1992.
 
 #### (4) Transferability
 
@@ -796,7 +796,7 @@ For purposes of this section:
 
 #### (7) Savings association's pro rata amount
 
-&emsp;For purposes of this subsection, any savings association's pro rata share of the statutorily prescribed amount is the percentage which is equal to such association's share of the secondary reserve as determined under section404(e) <sup>1</sup> of the National Housing Act on the day before the date on which the Federal Savings and Loan Insurance Corporation ceased to recognize the secondary reserve (as such Act \[12 U.S.C. 1701 et seq.\] was in effect on the day before such date).
+&emsp;For purposes of this subsection, any savings association's pro rata share of the statutorily prescribed amount is the percentage which is equal to such association's share of the secondary reserve as determined under section 404(e) <sup>1</sup> of the National Housing Act on the day before the date on which the Federal Savings and Loan Insurance Corporation ceased to recognize the secondary reserve (as such Act \[12 U.S.C. 1701 et seq.\] was in effect on the day before such date).
 
 #### (8) Year of enactment rule
 
@@ -894,7 +894,7 @@ Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(14)(G)(i). S
 
 Subsec. (b)(1)(E), (F). Pub. L. 109–171, §2106, added subpars. (E) and (F).
 
-Subsec. (b)(2)(A). Pub. L. 109–171, §2104(a)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text related to semiannual assessments for insured depository institutions to achieve or maintain the reserve ratio of each deposit insurance fund at the designated reserve ratio, the factors to be considered by the Board of Directors, and limitations on the assessment amount unless the insured depository institution exhibited financial, operational, or compliance weaknesses ranging from moderately severe to unsatisfactory or was not well capitalized.
+Subsec. (b)(2)(A). Pub. L. 109–171, §2104(a)(1), added subpar. (A) and struck out heading and text of formersubpar. (A). Text related to semiannual assessments for insured depository institutions to achieve or maintain the reserve ratio of each deposit insurance fund at the designated reserve ratio, the factors to be considered by the Board of Directors, and limitations on the assessment amount unless the insured depository institution exhibited financial, operational, or compliance weaknesses ranging from moderately severe to unsatisfactory or was not well capitalized.
 
 Subsec. (b)(2)(A)(i)(I), (iii), (iv). Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(14)(G)(ii)–(iv). See 1996 Amendment note below.
 
@@ -966,7 +966,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 104–208, §2708(a), inserted "when necessary, an
 
 Subsec. (b)(2)(A)(i)(I). Pub. L. 104–208, §2704(d)(14)(G)(ii), which directed substitution of "the Deposit Insurance Fund" for "each deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
-Subsec. (b)(2)(A)(iii). Pub. L. 104–208, §2708(b), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: "The semiannual assessment for each member of a deposit insurance fund shall be not less than $1,000."
+Subsec. (b)(2)(A)(iii). Pub. L. 104–208, §2708(b), amended heading and text of cl. (iii) generally. Prior toamendment, text read as follows: "The semiannual assessment for each member of a deposit insurance fund shall be not less than $1,000."
 
 Pub. L. 104–208, §2704(d)(14)(G)(iii), which directed substitution of "the Deposit Insurance Fund" for "a deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
@@ -976,7 +976,7 @@ Subsec. (b)(2)(A)(v). Pub. L. 104–208, §2708(c), added cl. (v).
 
 Subsec. (b)(2)(B). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the striking of subpar. (B) and the redesignation of subpar. (C) as (B), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
-Subsec. (b)(2)(C). Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(v), which directed the redesignation of subpar.\(E) as (C) and substitution of "the Deposit Insurance Fund" for "any deposit insurance fund" and "the Deposit Insurance Fund" for "that fund" wherever appearing, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(2)(C). Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(v), which directed the redesignation of subpar. (E) as (C) and substitution of "the Deposit Insurance Fund" for "any deposit insurance fund" and "the Deposit Insurance Fund" for "that fund" wherever appearing, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
 Subsec. (b)(2)(D). Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(vi), which directed the redesignation of subpar. (G) as (D) and substitution of "fund achieves" for "funds achieve" in heading and "the Deposit Insurance Fund" for "a deposit insurance fund" in text, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
@@ -1022,7 +1022,7 @@ Subsecs. (l) to (n). Pub. L. 104–208, §2704(d)(6)(B)(i), (ii), which directed
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–325, §308(b), struck out after third sentence "The Board of Directors may require reports of condition to be published in such manner, not inconsistent with any applicable law, as it may direct."
 
-Subsec. (a)(2)(A). Pub. L. 103–325, §305(b), inserted "and, with respect to any State depository institution, any appropriate State bank supervisor for such institution," after "The Corporation" in first sentence.
+Subsec. (a)(2)(A). Pub. L. 103–325, §305(b), inserted "and, with respect to any State depository institution,any appropriate State bank supervisor for such institution," after "The Corporation" in first sentence.
 
 Subsec. (a)(3). Pub. L. 103–325, §602(a)(4), struck out "Chairman of the" before "Director of the Office of Thrift Supervision".
 
@@ -1200,7 +1200,7 @@ Assessment rate for savings association insurance fund members.—The annual ass
 
 &emsp;"(iv) on and after January 1, 1998, 0.15 percent;
 
-&emsp;"(v) on January 1 of a calendar year in which the reserve ratio of the Savings Association Insurance Fund is expected to be less than the designated reserve ratio by determination of the Board of Directors, such rate determined by the Board of Directors to be appropriate to restore the reserve ratio to the designated reserve ratio within a reasonable period oftime, after taking into consideration the expected expenses and income of the Savings Association Insurance Fund, and the effect on insured savings association earnings and capitalization, except that—
+&emsp;"(v) on January 1 of a calendar year in which the reserve ratio of the Savings Association Insurance Fund is expected to be less than the designated reserve ratio by determination of the Board of Directors, such rate determined by the Board of Directors to be appropriate to restore the reserve ratio to the designated reserve ratio within a reasonable period of time, after taking into consideration the expected expenses and income of the Savings Association Insurance Fund, and the effect on insured savings association earnings and capitalization, except that—
 
 &emsp;&emsp;"(I) from August 9, 1989, through December 31, 1994, the rate shall be as specified in clauses (i), (ii), and (iii) above;
 
@@ -1260,7 +1260,7 @@ Subsec. (j)(2)(D). Pub. L. 101–73, §208(10), inserted "unless such agency det
 
 Subsec. (j)(7)(F). Pub. L. 101–73, §208(11), added subpar. (F).
 
-Subsec. (j)(15). Pub. L. 101–73, §905(c), inserted at end "The resignation, termination of employment or participation, divestiture of control, or separation of or by an institution-affiliated party (including a separation caused by the closing of a depository institution) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice andproceed under this subsection against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such depository institution (whether such date occurs before, on, or after the date of the enactment of this sentence)."
+Subsec. (j)(15). Pub. L. 101–73, §905(c), inserted at end "The resignation, termination of employment or participation, divestiture of control, or separation of or by an institution-affiliated party (including a separation caused by the closing of a depository institution) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this subsection against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such depository institution (whether such date occurs before, on, or after the date of the enactment of this sentence)."
 
 Subsec. (j)(16). Pub. L. 101–73, §907(d), amended par. (16) generally. Prior to amendment, par. (16) read as follows: "Any person who willfully violates any provision of this subsection, or any regulation or order issued by the appropriate Federal banking agency pursuant thereto, shall forfeit and pay a civil penalty of not more than $10,000 per day for each day during which such violation continues. The appropriate Federal banking agency shall have authority to assess such a civil penalty, after giving notice and an opportunity to the person to submit data, views, and arguments, and after giving due consideration to the appropriateness of the penalty with respect to the size of financial resources and good faith of the person charged, the gravity of the violation, and any data, views, and arguments submitted. The agency may collect such civil penalty by agreement with the person or by bringing an action in the appropriate United States district court, except that in any such action, the person against whom the penalty has been assessed shall have a right to trial de novo."
 
@@ -1312,7 +1312,7 @@ Subsec. (a)(5). Pub. L. 95–630, §310(b), struck out "deposits accumulated for
 
 Subsec. (a)(7). Pub. L. 95–369, §6(c)(10), added par. (7).
 
-Subsec. (b)(4). Pub. L. 95–369, §6(c)(11), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B) of this paragraph, a bank's assessment base" for "A bank's assessment base", and added subpar. (B).
+Subsec. (b)(4). Pub. L. 95–369, §6(c)(11), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B) of this paragraph, abank's assessment base" for "A bank's assessment base", and added subpar. (B).
 
 Subsec. (b)(6). Pub. L. 95–630, §310(c), redesignated subpars. (C) and (D) as (B) and (C) and struck out former subpar. (B) which related to deposits included in reported deposit liabilities which are accumulated for the payment of personal loans and are assigned or pledged to assure repayment of the loans at maturity.
 
@@ -1320,7 +1320,7 @@ Subsec. (j). Pub. L. 95–630, §602, amended subsec. (j) generally, substitutin
 
 Subsec. (j)(1). Pub. L. 95–369, §6(c)(12), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B) of this paragraph, whenever" for "Whenever", and added subpar. (B).
 
-Subsec. (j)(2). Pub. L. 95–369, §6(c)(13), designated existing provisions as subpar. (A), substituted "Except asprovided in subparagraph (B) of this paragraph, whenever" for "Whenever", and added subpars. (B) and (C).
+Subsec. (j)(2). Pub. L. 95–369, §6(c)(13), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B) of this paragraph, whenever" for "Whenever", and added subpars. (B) and (C).
 
 Subsec. (k). Pub. L. 95–630, §901, added subsec. (k).
 
@@ -1380,7 +1380,7 @@ Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–569, title XII, §1231(b), Dec. 27, 2000, 114 Stat. 3037, provided that: "The amendments made by subsection (a) \[amending this section\] shall be deemed to have the same effective date as section 2707 of the Deposit Insurance Funds Act of 1996 (Public Law 104–208; 110 Stat. 3009–496)."
+Pub. L. 106–569, title XII, §1231(b), Dec. 27, 2000, 114 Stat. 3037, provided that: "The amendments made by subsection (a) \[amending this section\] shall be deemedto have the same effective date as section 2707 of the Deposit Insurance Funds Act of 1996 (Public Law 104–208; 110 Stat. 3009–496)."
 
 #### Effective Date of 1996 Amendment
 
@@ -1458,7 +1458,7 @@ For effective date of amendment by section 301(b) of Pub. L. 89–695, see secti
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: "The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1813, 1818 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted."
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: "The provisions of titles I and II of thisAct \[amending this section and sections 1464, 1730, 1813, 1818 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted."
 
 #### Effective Date of 1960 Amendment
 
@@ -1466,7 +1466,7 @@ Pub. L. 86–671, §7, July 14, 1960, 74 Stat. 552, provided that: "The amendmen
 
 #### Short Title of 1978 Amendment
 
-For short title of title VI of Pub. L. 95–630 as the "Change in Bank Control Act of 1978", see section 601of Pub. L. 95–630, set out as a note under section 1811 of this title.
+For short title of title VI of Pub. L. 95–630 as the "Change in Bank Control Act of 1978", see section 601 of Pub. L. 95–630, set out as a note under section 1811 of this title.
 
 #### Regulations
 
@@ -1544,7 +1544,7 @@ Pub. L. 109–173, §5, Feb. 15, 2006, 119 Stat. 3606, required that any determi
 
 #### Special Assessment To Capitalize SAIF
 
-Pub. L. 104–208, div. A, title II, §2702, Sept. 30, 1996, 110 Stat. 3009–479, provided that the Board of Directors ofthe Federal Deposit Insurance Corporation was to impose a special assessment on the SAIF-assessable deposits of each insured depository institution in accordance with assessment regulations of the Corporation at a rate applicable to all such institutions that the Board of Directors determined would cause the Savings Association Insurance Fund to achieve the designated reserve ratio on the first business day of the 1st month beginning after Sept. 30, 1996.
+Pub. L. 104–208, div. A, title II, §2702, Sept. 30, 1996, 110 Stat. 3009–479, provided that the Board of Directors of the Federal Deposit Insurance Corporation was to impose a special assessment on the SAIF-assessable deposits of each insured depository institution in accordance with assessment regulations of the Corporation at a rate applicable to all such institutions that the Board of Directors determined would cause the Savings Association Insurance Fund to achieve the designated reserve ratio on the first business day of the 1st month beginning after Sept. 30, 1996.
 
 #### Small Business and Small Farm Loan Information
 

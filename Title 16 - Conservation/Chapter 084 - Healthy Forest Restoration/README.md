@@ -34,8 +34,8 @@
 
 |  |  |
 | :--- | ---: |
-| [6541\.](Subchapter%20003%20%28III%29%20-%20Watershed%20Forestry%20Assistance/%C2%A7%2006541%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| [6542\.](Subchapter%20003%20%28III%29%20-%20Watershed%20Forestry%20Assistance/%C2%A7%2006542%20-%20Tribal%20watershed%20forestry%20assistance.md) | Tribal watershed forestry assistance. |
+| [6541\.](Subchapter%20003%20%28III%29%20-%20Watershed%20Forestry%20Assistance/%C2%A7%2006541%20-%20Omitted.md) | Omitted. |
+| [6542\.](Subchapter%20003%20%28III%29%20-%20Watershed%20Forestry%20Assistance/%C2%A7%2006542%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VIII%2C%20%C2%A78005%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20913.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -72,6 +72,9 @@
 |  |  |
 | :--- | ---: |
 | [6591\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591%20-%20Forest%20stands%20inventory%20and%20monitoring%20program%20to%20improve%20detection%20of%20and%20response%20to%20environmental%20threats.md) | Forest stands inventory and monitoring program to improve detection of and response to environmental threats. |
+| [6591a.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591a%20-%20Designation%20of%20treatment%20areas.md) | Designation of treatment areas. |
+| [6591b.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591b%20-%20Administrative%20review.md) | Administrative review. |
+| [6591c.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591c%20-%20Stewardship%20end%20result%20contracting%20projects.md) | Stewardship end result contracting projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

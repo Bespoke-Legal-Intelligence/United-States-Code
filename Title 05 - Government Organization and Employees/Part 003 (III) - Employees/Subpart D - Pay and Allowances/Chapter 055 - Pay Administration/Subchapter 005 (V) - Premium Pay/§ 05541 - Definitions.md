@@ -2,7 +2,7 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) “agency” means—
+&emsp;(1) "agency" means—
 
 &emsp;&emsp;(A) an Executive agency;
 
@@ -18,7 +18,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(G) the government of the District of Columbia;
 
-&emsp;(2) “employee” means—
+&emsp;(2) "employee" means—
 
 &emsp;&emsp;(A) an employee in or under an Executive agency;
 
@@ -56,7 +56,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(xii) an employee of the Transportation Corps of the Army on a vessel operated by the United States, a vessel employee of the Environmental Science Services Administration, or a vessel employee of the Department of the Interior;
 
-&emsp;&emsp;(xiii) a “teacher” or an individual holding a “teaching position” as defined by section 901 of title 20;
+&emsp;&emsp;(xiii) a "teacher" or an individual holding a "teaching position" as defined by section 901 of title 20;
 
 &emsp;&emsp;(xiv) a Foreign Service officer;
 
@@ -66,7 +66,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(xvii) a member of the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service; and
 
-&emsp;(3) “law enforcement officer” means an employee who—
+&emsp;(3) "law enforcement officer" means an employee who—
 
 &emsp;&emsp;(A) is a law enforcement officer within the meaning of section 8331(20) or 8401(17);
 
@@ -80,7 +80,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) is a special agent in the Diplomatic Security Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–201, div. C, title XXXV, §3548(a)(6), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 110–181, div. A, title XI, §1111(b), Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–282, §4(c)(2), Oct. 15, 2010, 124 Stat. 3043.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–201, div. C, title XXXV,§3548(a)(6), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 110–181, div. A, title XI, §1111(b), Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–282, §4(c)(2), Oct. 15, 2010, 124 Stat. 3043.)
 
 Historical and Revision Notes
 
@@ -120,19 +120,19 @@ July 17, 1959, Pub. L. 86–91, §10(a) (as applicable to the Federal Employees 
 
 The section is revised as a definition section. The provisions of former section 901(d) are omitted as unnecessary because the sections referred to state their application and there is no need to restate the application here.
 
-In paragraph (1), the terms “Executive agency” and “military department” are substituted for the references in former section 901(a) and (e) to the executive branch, including Government-owned or controlled corporations, and the General Accounting Office in view of the definitions in sections 105 and 102.
+In paragraph (1), the terms "Executive agency" and "military department" are substituted for the references in former section 901(a) and (e) to the executive branch, including Government-owned or controlled corporations, and the General Accounting Office in view of the definitions in sections 105 and 102.
 
-In paragraph (2)(iii), the words “chapter 15 of title 31, District of Columbia Code” are substituted for the reference in former section 902(a)(4) to “the Teachers Salary Act of June 4, 1924, as amended” on authority of the provisions contained therein. Enumeration of the individuals to which the provisions apply are added.
+In paragraph (2)(iii), the words "chapter 15 of title 31, District of Columbia Code" are substituted for the reference in former section 902(a)(4) to "the Teachers Salary Act of June 4, 1924, as amended" on authority of the provisions contained therein. Enumeration of the individuals to which the provisions apply are added.
 
 In paragraph (2)(iv), the provisions of former section 902(a)(5) and (b)(6) are combined.
 
-In paragraph (2)(v), the words “student-employee as defined by section 5351 of this title” are coextensive with and substituted for the enumeration of the employees in former section 902(a)(6).
+In paragraph (2)(v), the words "student-employee as defined by section 5351 of this title" are coextensive with and substituted for the enumeration of the employees in former section 902(a)(6).
 
 In paragraph (2)(iv), (vi), (vii), (viii), (ix), (xi), and (xii), the reference to former section 947 is omitted as that section was repealed by the Act of Sept. 12, 1950, ch. 946, §301(85), 64 Stat. 843.
 
-In paragraph (2)(xii), the reference to former section 946 is omitted as unnecessary since that section is not carried into this subchapter. The words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the Act of Sept. 2, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
+In paragraph (2)(xii), the reference to former section 946 is omitted as unnecessary since that section is not carried into this subchapter. The words "Panama Canal Company" are substituted for "Panama Railroad Company" on authority of the Act of Sept. 2, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
 
-In paragraph (2)(xiii), the words “as defined by section 901 of title 20” are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
+In paragraph (2)(xiii), the words "as defined by section 901 of title 20" are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
 
 The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
 
@@ -140,37 +140,37 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>2010</b>—Par. (2)(iv)(II). Pub. L. 111–282 struck out “a member of the United States Secret Service Uniformed Division,” before “a member of the United States Park Police”.
+<b>2010</b>—Par. (2)(iv)(II). Pub. L. 111–282 struck out "a member of the United States Secret Service Uniformed Division," before "a member of the United States Park Police".
 
-<b>2008</b>—Par. (2)(xi). Pub. L. 110–181 substituted “section 5544 or 5550b” for “section 5544”.
+<b>2008</b>—Par. (2)(xi). Pub. L. 110–181 substituted "section 5544 or 5550b" for "section 5544".
 
-<b>1996</b>—Par. (2)(xii). Pub. L. 104–201 inserted “or” after “Services Administration,” and struck out “, or a vessel employee of the Panama Canal Commission” after “Interior”.
+<b>1996</b>—Par. (2)(xii). Pub. L. 104–201 inserted "or" after "Services Administration," and struck out ", or a vessel employee of the Panama Canal Commission" after "Interior".
 
 <b>1992</b>—Par. (3). Pub. L. 102–378 added par. (3).
 
-<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;”.
+<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;".
 
 <b>1988</b>—Par. (2)(xvii). Pub. L. 100–325 added cl. (xvii).
 
-<b>1980</b>—Par. (2)(xiv). Pub. L. 96–465 struck out “within the meaning of section 401 of the Foreign Service Act of 1946” after “officer”.
+<b>1980</b>—Par. (2)(xiv). Pub. L. 96–465 struck out "within the meaning of section 401 of the Foreign Service Act of 1946" after "officer".
 
-Par. (2)(xv). Pub. L. 96–465 substituted “a member of the Senior Foreign Service” for “a ‘Foreign Service information officer’ as provided for by the first section of the Act entitled ‘An Act to promote the foreign policy of the United States by strengthening and improving the Foreign Service personnel system of the International Communication Agency through establishment of a Foreign Service Information Officer Corps’, approved August 20, 1968”.
+Par. (2)(xv). Pub. L. 96–465 substituted "a member of the Senior Foreign Service" for "a 'Foreign Service information officer' as provided for by the first section of the Act entitled 'An Act to promote the foreign policy of the United States by strengthening and improving the Foreign Service personnel system of the International Communication Agency through establishment of a Foreign Service Information Officer Corps', approved August 20, 1968".
 
-<b>1979</b>—Par. (2)(xii). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Par. (2)(xii). Pub. L. 96–70 substituted "Commission" for "Company".
 
 <b>1978</b>—Par. (2)(xvi). Pub. L. 95–454 added cl. (xvi).
 
-Par. (2)(xv). Pub. L. 95–426 substituted “International Communication Agency” for “United States Information Agency”.
+Par. (2)(xv). Pub. L. 95–426 substituted "International Communication Agency" for "United States Information Agency".
 
 <b>1977</b>—Par. (2)(xiv), (xv). Pub. L. 95–105 added cls. (xiv) and (xv).
 
-<b>1975</b>—Par. (2)(iv). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
+<b>1975</b>—Par. (2)(iv). Pub. L. 94–183 substituted "Executive Protective Service" for "White House Police".
 
-<b>1972</b>—Par. (2)(xi). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under subchapter IV of chapter 53 of this title.
+<b>1972</b>—Par. (2)(xi). Pub. L. 92–392 substituted "pay" for "basic pay" and provided for determination of pay under subchapter IV of chapter 53 of this title.
 
-<b>1970</b>—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of “employee”.
+<b>1970</b>—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of "employee".
 
-<b>1967</b>—Par. (2)(xii). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Par. (2)(xii). Pub. L. 90–83 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey". See Historical and Revision Notes under section 2101 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -178,11 +178,11 @@ Amendment by Pub. L. 111–282 effective on first day of first pay period which 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title XI, §1111(c), Jan. 28, 2008, 122 Stat. 360, provided that: “The amendments made by this section \[amending this section and section 5550b of this title\] shall take effect on the earlier of—
+Pub. L. 110–181, div. A, title XI, §1111(c), Jan. 28, 2008, 122 Stat. 360, provided that: "The amendments made by this section \[amending this section and section 5550b of this title\] shall take effect on the earlier of—
 
-&emsp;“(1) the effective date of any regulations prescribed to carry out such amendments; or
+&emsp;"(1) the effective date of any regulations prescribed to carry out such amendments; or
 
-&emsp;“(2) the 90th day after the date of the enactment of this Act \[Jan. 28, 2008\].”
+&emsp;"(2) the 90th day after the date of the enactment of this Act \[Jan. 28, 2008\]."
 
 #### Effective Date of 1992 Amendment
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 102–378 effective as of first day of first applicable pay
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–509, title V, §529 \[title IV, §411(b)\], Nov. 5, 1990, 104 Stat. 1427, 1469, provided that: “The amendment made by this section \[amending this section\] shall be effective on January 1, 1992.”
+Pub. L. 101–509, title V, §529 \[title IV, §411(b)\], Nov. 5, 1990, 104 Stat. 1427, 1469, provided that: "The amendment made by this section \[amending this section\] shall be effective on January 1, 1992."
 
 #### Effective Date of 1980 Amendment
 
@@ -198,17 +198,17 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendments
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974, provided that the amendment made by such section 204(b)(5)(B) is effective Oct. 1, 1978.
 
 #### Effective Date of 1977 Amendment
 
-Section 412(a)(2) of Pub. L. 95–105 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1978.”
+Section 412(a)(2) of Pub. L. 95–105 provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1978."
 
 #### Effective Date of 1972 Amendment
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided that: “This section \[enacting section 5545a of this title, amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor, and enacting provisions set out as notes under section 5545a of this title\] may be cited as the ‘Law Enforcement Availability Pay Act of 1994’.”
+Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided that: "This section \[enacting section 5545a of this title, amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor, and enacting provisions set out as notes under section 5545a of this title\] may be cited as the 'Law Enforcement Availability Pay Act of 1994'."
 
 #### Transfer of Functions
 
@@ -230,35 +230,35 @@ Environmental Science Services Administration in Department of Commerce, includi
 
 Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §115\], Nov. 29, 1999, 113 Stat. 1535, 1501A–21, provided that:
 
-“(a) None of the funds made available by this or any other Act may be used to pay premium pay under title 5, United States Code, sections 5542–5549, to any individual employed as an attorney, including an Assistant United States Attorney, in the Department of Justice for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\].
+"(a) None of the funds made available by this or any other Act may be used to pay premium pay under title 5, United States Code, sections 5542–5549, to any individual employed as an attorney, including an Assistant United States Attorney, in the Department of Justice for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\].
 
-“(b) Notwithstanding any other provision of law, neither the United States nor any individual or entity acting on its behalf shall be liable for premium pay under title 5, United States Code, sections 5542–5549, for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\] by any individual employed as an attorney in the Department of Justice, including an Assistant United States Attorney.”
+"(b) Notwithstanding any other provision of law, neither the United States nor any individual or entity acting on its behalf shall be liable for premium pay under title 5, United States Code, sections 5542–5549, for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\] by any individual employed as an attorney in the Department of Justice, including an Assistant United States Attorney."
 
-\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: “Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter.”\]
+\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: "Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter."\]
 
 #### Sense of Congress Relating to Law Enforcement Officer Provisions
 
-Pub. L. 102–378, §2(40)(D), Oct. 2, 1992, 106 Stat. 1351, provided that: “It is the sense of the Congress that—
+Pub. L. 102–378, §2(40)(D), Oct. 2, 1992, 106 Stat. 1351, provided that: "It is the sense of the Congress that—
 
-&emsp;“(i) the provisions of section 5541(3) of title 5, United States Code (as added by section 2(40)(C) of this Act)—
+&emsp;"(i) the provisions of section 5541(3) of title 5, United States Code (as added by section 2(40)(C) of this Act)—
 
-&emsp;&emsp;“(I) are enacted only for the purposes of pay and not for the purposes of retirement;
+&emsp;&emsp;"(I) are enacted only for the purposes of pay and not for the purposes of retirement;
 
-&emsp;&emsp;“(II) do not reflect any intent of the Congress to change retirement eligibility standards for law enforcement officers; and
+&emsp;&emsp;"(II) do not reflect any intent of the Congress to change retirement eligibility standards for law enforcement officers; and
 
-&emsp;“(ii) law enforcement officers in primary positions have different retirement eligibility standards than employees in supervisory or administrative positions because of the different requirements in their responsibilities.”
+&emsp;"(ii) law enforcement officers in primary positions have different retirement eligibility standards than employees in supervisory or administrative positions because of the different requirements in their responsibilities."
 
 #### Payment of Bonuses for Foreign Language Capabilities
 
 Pub. L. 100–690, title VI, §6401, Nov. 18, 1988, 102 Stat. 4370, as amended by Pub. L. 101–509, title V, §529 \[title IV, §408(c)\], Nov. 5, 1990, 104 Stat. 1427, 1468, provided that:
 
-“(a)
+"(a)
 
 In General.—Notwithstanding any other provision of law, the Drug Enforcement Administration and the Federal Bureau of Investigation are authorized on and after October 1, 1988, to pay bonuses up to 25 percent of base pay to employees of the Drug Enforcement Administration and the Federal Bureau of Investigation who possess and make substantial use of one or more languages, other than English, in the performance of their official duties. The Administrator of the Drug Enforcement Administration and the Director of the Federal Bureau of Investigation shall develop such policies as necessary to implement the payment of these bonuses.
 
-“(b)
+"(b)
 
-Limitation.—The provisions of this section shall apply only to an employee who has received a bonus under this section before January 1, 1992. The provisions of subchapter III of chapter 45 of title 5, United States Code, shall apply to any employee who would otherwise be eligible to receive a bonus under this section, on and after such date.”
+Limitation.—The provisions of this section shall apply only to an employee who has received a bonus under this section before January 1, 1992. The provisions of subchapter III of chapter 45 of title 5, United States Code, shall apply to any employee who would otherwise be eligible to receive a bonus under this section, on and after such date."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

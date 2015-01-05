@@ -14,7 +14,7 @@
 
 #### (b) Offer for lease; deposits other than oil shale; questioned validity because of location; preference rights
 
-If an offer for a lease under the provisions of this section for deposits other than oil shale isbased upon a mineral location, the validity of which might be questioned because the claim was based on a placer location rather than on a lode location, or vice versa, the offeror shall have a preference right to a lease if the offer is filed not more than one year after September 2, 1960.
+If an offer for a lease under the provisions of this section for deposits other than oil shale is based upon a mineral location, the validity of which might be questioned because the claim was based on a placer location rather than on a lode location, or vice versa, the offeror shall have a preference right to a lease if the offer is filed not more than one year after September 2, 1960.
 
 #### (c) <sup>1</sup> Multiple use principal leases; gilsonite including all vein-type solid hydrocarbons
 
@@ -44,17 +44,17 @@ With respect to gilsonite (including all vein-type solid hydrocarbons) a lease u
 
 In recognition of the unique character of oil shale development:
 
-(1) In determining whether to offer or issue an offsite lease under subsection (c) of this section, the Secretary shall consult with the Governor and appropriate State, local, and tribal officials of the State where the lands to be leased are located, and of any additional State likely to be affected significantly by the social, economic, or environmental effects of development under such lease, in order to coordinate Federal and State planning processes, minimize duplication of permits, avoid delays, and anticipate and mitigate likely impacts of development.
+(1) In determining whether to offer or issue an offsite lease under subsection (c), the Secretary shall consult with the Governor and appropriate State, local, and tribal officials of the State where the lands to be leased are located, and of any additional State likely to be affected significantly by the social, economic, or environmental effects of development under such lease, in order to coordinate Federal and State planning processes, minimize duplication of permits, avoid delays, and anticipate and mitigate likely impacts of development.
 
 (2) The Secretary may issue an offsite lease under subsection (d) <sup>2</sup> after consideration of (A) the need for leasing, (B) impacts on the environment and other resource values, (C) socioeconomic factors, and (D) information from consultations with the Governors of the affected States.
 
-(3) Before determining whether to offer an offsite lease under subsection (c) of this section, the Secretary shall seek the recommendation of the Governor of the State in which the lands to be leased are located as to whether or not to lease such lands, what alternative actions are available, and what special conditions could be added to the proposed lease to mitigate impacts. The Secretary shall accept the recommendations of the Governor if he determines that they provide for a reasonable balance between the national interest and the State's interests. The Secretary shall communicate to the Governor, in writing, and publish in the Federal Register the reasons for his determination to accept or reject such Governor's recommendations.
+(3) Before determining whether to offer an offsite lease under subsection (c), the Secretary shall seek the recommendation of the Governor of the State in which the lands to be leased are located as to whether or not to lease such lands, what alternative actions are available, and what special conditions could be added to the proposed lease to mitigate impacts. The Secretary shall accept the recommendations of the Governor if he determines that they provide for a reasonable balance between the national interest and the State's interests. The Secretary shall communicate to the Governor, in writing, and publish in the Federal Register the reasons for his determination to accept or reject such Governor's recommendations.
 
 (Feb. 25, 1920, ch. 85, §21, 41 Stat. 445; Pub. L. 86–705, §7, Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, §1(1), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 97–394, title III, §318, Dec. 30, 1982, 96 Stat. 1999; Pub. L. 109–58, title III, §369(j)(2), Aug. 8, 2005, 119 Stat. 731.)
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58 designated first to third sentences as pars. (1) to (3), respectively, substituted "5,760" for "five thousand one hundred and twenty" in par. (2), designated fourth to eighth sentences as par. (4) and substituted "rate of $2.00 per acre" for "rate of 50 cents per acre", "No one person" for "Not more than one lease shall be granted under this section to any one person", and "shall acquire or hold more than 50,000 acres of oil shale leases in any one State. For" for "except that with respect to leases for", and added par. (5).
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 designated first to third sentences as pars. (1) to (3), respectively, substituted "5,760" for "five thousand one hundred and twenty" in par. (2), designated fourth to eighth sentences as par. (4) and substituted "rate of $2.00 per acre" for "rate of 50 cents per acre", "No one person" for "Not more than one lease shall be granted under this section to any one person", and "shall acquire or hold more than 50,000 acres of oil shale leases in anyone State. For" for "except that with respect to leases for", and added par. (5).
 
 <b>1982</b>—Subsecs. (c), (d). Pub. L. 97–394 added subsecs. (c) and (d).
 

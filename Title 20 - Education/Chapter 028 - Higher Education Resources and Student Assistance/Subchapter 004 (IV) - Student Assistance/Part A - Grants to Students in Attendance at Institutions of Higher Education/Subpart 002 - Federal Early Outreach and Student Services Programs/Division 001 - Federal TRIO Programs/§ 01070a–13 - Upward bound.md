@@ -74,7 +74,7 @@ Youths participating in a project proposed to be carried out under any applicati
 
 #### (1) Authorization and appropriation
 
-&emsp;There are authorized to be appropriated, and there are appropriated to the Secretary, fromfunds not otherwise appropriated, $57,000,000 for each of the fiscal years 2008 through 2011 to carry out paragraph (2), except that any amounts that remain unexpended for such purpose for each of such fiscal years may be available for technical assistance and administration costs for the Upward Bound program. The authority to award grants under this subsection shall expire at the end of fiscal year 2011.
+&emsp;There are authorized to be appropriated, and there are appropriated to the Secretary, from funds not otherwise appropriated, $57,000,000 for each of the fiscal years 2008 through 2011 to carry out paragraph (2), except that any amounts that remain unexpended for such purpose for each of such fiscal years may be available for technical assistance and administration costs for the Upward Bound program. The authority to award grants under this subsection shall expire at the end of fiscal year 2011.
 
 #### (2) Use of funds
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) "Great Lakes" means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, and Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border);
 
-&emsp;&emsp;(C) "Great Lakes System" means all the streams, rivers, lakes, and other bodies ofwater within the drainage basin of the Great Lakes;
+&emsp;&emsp;(C) "Great Lakes System" means all the streams, rivers, lakes, and other bodies of water within the drainage basin of the Great Lakes;
 
 &emsp;&emsp;(D) "Program Office" means the Great Lakes National Program Office established by this section;
 
@@ -74,7 +74,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 #### (3) Remedial Action Plans
 
-&emsp;(A) For each area of concern for which the United States has agreed to draft a RemedialAction Plan, the Program Office shall ensure that the Great Lakes State in which such area of concern is located—
+&emsp;(A) For each area of concern for which the United States has agreed to draft a Remedial Action Plan, the Program Office shall ensure that the Great Lakes State in which such area of concern is located—
 
 &emsp;&emsp;(i) submits a Remedial Action Plan to the Program Office by June 30, 1991;
 
@@ -144,25 +144,9 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (9) Budget item
 
-&emsp;The Administrator shall, in the Agency's annual budget submission to Congress, include a funding request for the Program Office as a separate budget line item.
+&emsp;The Administrator shall, in the Agency's annual budget submission to Congress, include afunding request for the Program Office as a separate budget line item.
 
-#### (10) Comprehensive report
-
-&emsp;Within 90 days after the end of each fiscal year, the Administrator shall submit to Congress a comprehensive report which—
-
-&emsp;&emsp;(A) describes the achievements in the preceding fiscal year in implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, and shows by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amounts expended on Great Lakes water quality initiatives in such preceding fiscal year;
-
-&emsp;&emsp;(B) describes the progress made in such preceding fiscal year in implementing the system of surveillance of the water quality in the Great Lakes System, including the monitoring of groundwater and sediment, with particular reference to toxic pollutants;
-
-&emsp;&emsp;(C) describes the long-term prospects for improving the condition of the Great Lakes; and
-
-&emsp;&emsp;(D) provides a comprehensive assessment of the planned efforts to be pursued in the succeeding fiscal year for implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,,<sup>1</sup> which assessment shall—
-
-&emsp;&emsp;&emsp;(i) show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
-
-&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
-
-#### (11) Confined disposal facilities
+#### (10) Confined disposal facilities
 
 &emsp;(A) The Administrator, in consultation with the Assistant Secretary of the Army for Civil Works, shall develop and implement, within one year of November 16, 1990, management plans for every Great Lakes confined disposal facility.
 
@@ -180,7 +164,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;(D) The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
 
-#### (12) Remediation of sediment contamination in areas of concern
+#### (11) Remediation of sediment contamination in areas of concern
 
 #### (A) In general
 
@@ -240,7 +224,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (III) Work performed before project agreement
 
-&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsor shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
+&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsor shall carry out such work, and only work carried out following the execution ofthe agreement shall be eligible for credit.
 
 #### (IV) Limitation
 
@@ -298,7 +282,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;Not more than 20 percent of the funds appropriated pursuant to clause (i) for a fiscal year may be used to carry out subparagraph (F).
 
-#### (13) Public information program
+#### (12) Public information program
 
 #### (A) In general
 
@@ -362,7 +346,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (f) Interagency cooperation
 
-The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmentalquality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>3</sup>
+The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>3</sup>
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
@@ -382,13 +366,15 @@ There are authorized to be appropriated to the Administrator to carry out this s
 
 &emsp;(3) $25,000,000 for each of fiscal years 2004 through 2008.
 
-(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021.)
+(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, §701, Nov. 26, 2014, 128 Stat. 2019.)
 
 #### Codification
 
 November 16, 1990, referred to in subsec. (c)(3)(C), (7)(C), was in the original "the enactment of this Act", and "the date of the enactment of this title" which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), (7)(C), to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(10) to (13). Pub. L. 113–188 redesignated pars. (11) to (13) as (10) to (12), respectively, and struck out former par. (10) which required submission of annual comprehensive reports.
 
 <b>2008</b>—Subsec. (a)(3)(K), (L). Pub. L. 110–365, §2, added subpars. (K) and (L).
 
@@ -440,11 +426,11 @@ Subsec. (h). Pub. L. 101–596, §105, substituted "and 1990, and $25,000,000 fo
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Funds Contributed by a Non-Federal Sponsor
 
-Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in part that: "The Administrator \[of the Environmental Protection Agency\] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out a project under paragraph (c)(12) of section 118 of the Federal Water Pollution Control Act \[33 U.S.C. 1268(c)(12)\], as amended."
+Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in part that: "The Administrator \[of the Environmental Protection Agency\] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out a project under paragraph (c)(12) \[now (c)(11)\] of section 118 of the Federal Water Pollution Control Act \[33 U.S.C. 1268(c)(11)\], as amended."
 
 #### Great Lakes Remedial Action Plans and Sediment Remediation
 

@@ -72,7 +72,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the taxpayer's distributive share of the income of partnerships.<sup>1</sup>
 
-> &emsp;to the extent such dividends, interest, amounts, or distributive share is attributable to foreign oil and gas extraction income, or to foreign oil related income, as the case may be; except that interest described in subparagraph (A) shall not be taken into account in computing foreign oil and gas extraction income but shall be taken into account in computing foreign oil-related income.
+> &emsp;to the extent such dividends, interest, amounts, or distributive share is attributable to foreign oil and gas extraction income, or to foreign oil related income, as the case may be; except that interest described in subparagraph\(A) shall not be taken into account in computing foreign oil and gas extraction income but shall be taken into account in computing foreign oil-related income.
 
 #### (4) Recapture of foreign oil and gas losses by recharacterizing later combined foreign oil and gas income
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of clause (i), there shall not be taken into account—
 
-&emsp;&emsp;&emsp;&emsp;(I) any foreign expropriation loss (as defined in section 172(h) (as in effect onthe day before the date of the enactment of the Revenue Reconciliation Act of 1990)) for the taxable year, or
+&emsp;&emsp;&emsp;&emsp;(I) any foreign expropriation loss (as defined in section 172(h) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)) for the taxable year, or
 
 &emsp;&emsp;&emsp;&emsp;(II) any loss for the taxable year which arises from fire, storm, shipwreck, or other casualty, or from theft,
 
@@ -152,7 +152,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (1) In general
 
-&emsp;If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the "unused credit year"), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable year,<sup>2</sup> in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
+&emsp;If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in thissubsection referred to as the "unused credit year"), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable year,<sup>2</sup> in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
 
 #### (2) Limitation
 
@@ -182,21 +182,17 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (A) Pre-2009 credits
 
-&emsp;&emsp;In the case of any unused credit year beginning before January 1, 2009, this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
-
-&emsp;&emsp;&emsp;(i) by substituting "oil and gas extraction taxes" for "foreign oil and gas taxes" each place it appears in paragraphs (1), (2), and (3), and
-
-&emsp;&emsp;&emsp;(ii) by computing, for purposes of paragraph (2)(A), the limitation under subparagraph (A) for the year to which such taxes are carried by substituting "foreign oil and gas extraction income" for "foreign oil and gas income" in subsection (a).
+&emsp;&emsp;In the case of any unused credit year beginning before January 1, 2009, this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008.
 
 #### (B) 2009 credits
 
-&emsp;&emsp;In the case of any unused credit year beginning in 2009, the amendments made tothis subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009, solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.
+&emsp;&emsp;In the case of any unused credit year beginning in 2009, the amendments made to this subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009, solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.
 
-(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title IV, §417(b), Oct. 22, 2004, 118 Stat. 1512; Pub. L. 110–343, div. B, title IV, §402(a)–(c), Oct. 3, 2008, 122 Stat. 3852, 3854.)
+(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title IV, §417(b), Oct. 22, 2004, 118 Stat. 1512; Pub. L. 110–343, div. B, title IV, §402(a)–(c), Oct. 3, 2008, 122 Stat. 3852, 3854; Pub. L. 113–295, div. A, title II, §210(e), Dec. 19, 2014, 128 Stat. 4031.)
 
 #### References in Text
 
-The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsec. (c)(4)(B)(ii)(II), (D)(iv), is the date of enactment of div. B of Pub. L. 110–343, which was approved Oct. 3, 2008.
+The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsecs. (c)(4)(B)(ii)(II), (D)(iv) and (f)(4)(A), is the date of enactment of div. B of Pub. L. 110–343, which was approved Oct. 3, 2008.
 
 Section 172(h), referred to in subsec. (c)(4)(D)(iii)(I), was repealed by Pub. L. 101–508, title XI, §11811(b)(1), Nov. 5, 1990, 104 Stat. 1388–532.
 
@@ -205,6 +201,12 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 The Energy Improvement and Extension Act of 2008, referred to in subsec. (f)(4)(B), is div. B of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3807. For the amendments made to subsec. (f) of this section by the Act, see 2008 Amendment notes below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f)(4)(A). Pub. L. 113–295 substituted "this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008." for "this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
+
+&emsp;"(i) by substituting 'oil and gas extraction taxes' for 'foreign oil and gas taxes' each place it appears in paragraphs (1), (2), and (3), and
+
+&emsp;"(ii) by computing, for purposes of paragraph (2)(A), the limitation under subparagraph (A) for the year to which such taxes are carried by substituting 'foreign oil and gas extraction income' for 'foreign oil and gas income' in subsection (a)."
 
 <b>2008</b>—Subsecs. (a), (b). Pub. L. 110–343, §402(a), amended subsecs. (a) and (b) generally. Prior to amendment, subsec. (a) related to reduction in amount of oil and gas extraction taxes paid or accrued for purposes of section 901 and subsec. (b) excepted certain amounts of foreign oil related income taxes paid or accrued to any foreign country from the definition of "income, war profits, and excess profits taxes".
 
@@ -260,7 +262,7 @@ Subsec. (f)(3)(B). Pub. L. 97–248, §211(d)(2)(B)(iii), struck out "oil-relate
 
 Subsec. (b). Pub. L. 95–600, §701(u)(8)(B), substituted provisions relating to applicability of section 904 separately to foreign oil related income and other taxable income for provisions relating to applicability of section 904 to corporations and other taxpayers.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1035(a), substituted "oil and gas extraction taxes" for "income, war profits, and excess profits taxes" after "the amount of any" and, in par. (2), substituted "the percentage which is the sum of the normal tax rate and the surtax rate for the taxable year specified in section 11" for provisions giving the percentage multiplier for years ending 1975, 1976, and after 1976.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1035(a), substituted "oil and gas extraction taxes" for "income, war profits,and excess profits taxes" after "the amount of any" and, in par. (2), substituted "the percentage which is the sum of the normal tax rate and the surtax rate for the taxable year specified in section 11" for provisions giving the percentage multiplier for years ending 1975, 1976, and after 1976.
 
 Subsec. (b). Pub. L. 94–455, §§1032(b)(1), 1035(b), inserted provisions making a distinction between corporations and other taxpayers and rules applicable to each and, as amended, struck out provision requiring the overall limitation, rather than the per-country limitation, be applied in the case of a corporation to foreign oil-related income and, a taxpayer other than a corporation, to foreign oil and gas extraction income.
 
@@ -273,6 +275,10 @@ Subsec. (e)(2). Pub. L. 94–455, §1031(b)(6), substituted "(d) and (e) of sect
 Subsec. (f). Pub. L. 94–455, §§1032(b)(2), 1035(d)(1), added subsec. (f). Former subsec. (f), relating to recapture of foreign oil related loss, was struck out.
 
 Subsec. (g). Pub. L. 94–455, §§1032(b)(2), 1035(d)(1), 1052(c)(4), struck out subsec. (g) relating to Western Hemisphere trade corporations which are members of an affiliated group.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, Pub. L. 110–343, div. B, to which such amendment relates, see section 210(h) of Pub. L. 113–295, set out as a note under section 45 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -326,7 +332,7 @@ Pub. L. 95–600, title VII, §701(u)(8)(D), Nov. 6, 1978, 92 Stat. 2916, as ame
 
 "(i) The amendments made by this paragraph \[amending this section and section 904 of this title\] shall apply, in the case of individuals, to taxable years ending after December 31, 1974, and, in the case of corporations, to taxable years ending after December 31, 1976.
 
-"(ii) In the case of any taxable year ending after December 31, 1975, with respect to foreign oil related income (within the meaning of section 907(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), theoverall limitation provided by section 904(a)(2) of such Code shall apply and the per-country limitation provided by section 904(a)(1) of such Code shall not apply."
+"(ii) In the case of any taxable year ending after December 31, 1975, with respect to foreign oil related income (within the meaning of section 907(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), the overall limitation provided by section 904(a)(2) of such Code shall apply and the per-country limitation provided by section 904(a)(1) of such Code shall not apply."
 
 #### Effective Date of 1976 Amendment
 
@@ -342,7 +348,7 @@ Pub. L. 94–455, title X, §1035(e), Oct. 4, 1976, 90 Stat. 1633, as amended by
 
 "(3) The amendment made by subsection (c) \[enacting provisions set out below\] shall apply to taxable years beginning after June 29, 1976.
 
-"(4) The amendments made by subsection (d) \[amending this section\] shall apply to taxes paid or accrued during taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\]."
+"(4) The amendments made by subsection (d) \[amending this section\] shall apply to taxes paid or accruedduring taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\]."
 
 Amendment by section 1052(c)(4) of Pub. L. 94–455 effective with respect to taxable years beginning after December 31, 1979, see section 1052(d) of Pub. L. 94–455, set out as a note under section 170 of this title.
 

@@ -90,49 +90,16 @@ For purposes of this section—
 
 &nbsp;
 
-<b>The applicable</b>
-
-<b>If the recapture event</b>
-
-<b>recapture</b>
-
-<b>occurs in:</b>
-
-<b>percentage is:</b>
-
-&nbsp;&nbsp;Years 1–3
-
-100&nbsp;&nbsp;
-
-&nbsp;&nbsp;Year 4
-
-85&nbsp;&nbsp;
-
-&nbsp;&nbsp;Year 5
-
-70&nbsp;&nbsp;
-
-&nbsp;&nbsp;Year 6
-
-55&nbsp;&nbsp;
-
-&nbsp;&nbsp;Year 7
-
-40&nbsp;&nbsp;
-
-&nbsp;&nbsp;Year 8
-
-25&nbsp;&nbsp;
-
-&nbsp;&nbsp;Years 9 and 10
-
-10&nbsp;&nbsp;
-
-&nbsp;&nbsp;Years 11 and thereafter
-
-0\.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;If the recapture event occurs in: | <b>The applicable recapture percentage is:</b> |
+| :--- | ---: |
+| Years 1–3 | 100&nbsp;&nbsp; |
+| Year 4 | 85&nbsp;&nbsp; |
+| Year 5 | 70&nbsp;&nbsp; |
+| Year 6 | 55&nbsp;&nbsp; |
+| Year 7 | 40&nbsp;&nbsp; |
+| Year 8 | 25&nbsp;&nbsp; |
+| Years 9 and 10 | 10&nbsp;&nbsp; |
+| Years 11 and thereafter | 0\. |
 
 #### (B) Years
 
@@ -202,7 +169,7 @@ For purposes of this section—
 
 #### (2) Other deductions and credits
 
-&emsp;No deduction or credit shall be allowed under any other provision of this chapter with respect to the amount of the credit determined under this section.
+&emsp;No deduction or credit shall be allowed under any other provision of this chapter withrespect to the amount of the credit determined under this section.
 
 (Added Pub. L. 107–16, title II, §205(a), June 7, 2001, 115 Stat. 50; amended Pub. L. 107–147, title IV, §411(d)(1), Mar. 9, 2002, 116 Stat. 46.)
 

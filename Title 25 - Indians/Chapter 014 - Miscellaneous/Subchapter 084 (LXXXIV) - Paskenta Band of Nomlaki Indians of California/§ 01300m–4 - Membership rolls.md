@@ -10,7 +10,7 @@ Within one year after November 2, 1994, the Secretary shall, after consultation 
 
 &emsp;(A) such individual's name was listed on the Paskenta Indian Rancheria distribution roll compiled on February 26, 1959, by the Bureau of Indian Affairs and approved by the Secretary of the Interior on July 7, 1959, pursuant to Public Law 85–671;
 
-&emsp;(B) such individual was not listed on the Paskenta Indian Rancheria distribution list, but met the requirements that had to be met to be listed on the Paskenta Indian Rancheria list;
+&emsp;(B) such individual was not listed on the Paskenta Indian Rancheria distribution list,but met the requirements that had to be met to be listed on the Paskenta Indian Rancheria list;
 
 &emsp;(C) such individual is identified as an Indian from Paskenta in any of the official or unofficial rolls of Indians prepared by the Bureau of Indian Affairs; or
 

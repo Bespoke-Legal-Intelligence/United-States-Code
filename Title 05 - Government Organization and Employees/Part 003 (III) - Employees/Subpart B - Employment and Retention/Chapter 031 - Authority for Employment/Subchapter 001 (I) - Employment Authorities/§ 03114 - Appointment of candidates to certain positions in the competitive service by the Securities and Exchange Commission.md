@@ -38,13 +38,13 @@ Reports.—No later than 90 days after the end of fiscal year 2003 (for fiscal y
 
 (d)
 
-Commission Defined.—For purposes of this section, the term “Commission” means the Securities and Exchange Commission.
+Commission Defined.—For purposes of this section, the term "Commission" means the Securities and Exchange Commission.
 
 (Added Pub. L. 108–44, §2(a), July 3, 2003, 117 Stat. 842; amended Pub. L. 111–203, title IX, §929G(a), July 21, 2010, 124 Stat. 1855.)
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission” for “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission” in section catchline, added subsec. (a), and struck out former subsec. (a). Prior to amendment, text read as follows: “This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service.”
+<b>2010</b>—Pub. L. 111–203 substituted "Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission" for "Appointment of accountants, economists, and examiners by the Securities and Exchange Commission" in section catchline, added subsec. (a), and struck out former subsec. (a). Prior to amendment, text read as follows: "This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service."
 
 #### Change of Name
 

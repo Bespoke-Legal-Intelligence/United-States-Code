@@ -44,7 +44,7 @@ Changes were made in phraseology.
 
 "Fees and mileage need not be tendered to the witness upon service of a subpena issued in behalf of the United States or an officer or agency thereof, or upon service of a subpena issued on behalf of a party, authorized to proceed in forma pauperis, where the payment thereof is to be made by the United States marshal as authorized in this section."
 
-<b>1965</b>—Pub. L. 89–162 inserted provisions that, in all proceedings in forma pauperis, for a writ of habeas corpus, or in proceedings under section 2255 of this title, the United States marshal for the district shall pay allfees of witnesses for the party authorized to proceed in forma pauperis on the certificate of the district judge and that fees and mileage need not be tendered to the witness upon service of a subpena issued on behalf of a party authorized to proceed in forma pauperis where the payment thereof is to be made by the United States marshal as authorized in this section.
+<b>1965</b>—Pub. L. 89–162 inserted provisions that, in all proceedings in forma pauperis, for a writ of habeas corpus, or in proceedings under section 2255 of this title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis on the certificate of the district judge and that fees and mileage need not be tendered to the witness upon service of a subpena issued on behalf of a party authorized to proceed in forma pauperis where the payment thereof is to be made by the United States marshal as authorized in this section.
 
 #### Change of Name
 

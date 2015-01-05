@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) that provide HIV-related health services; and
 
-&emsp;&emsp;&emsp;(ii) for which the number of cases reported for purposes of section 300ff–11(a) of this title constitutes not less than 10 percent of the number of such cases reported for the eligible area.
+&emsp;&emsp;&emsp;(ii) for which the number of cases reported for purposes of section 300ff–11(a) ofthis title constitutes not less than 10 percent of the number of such cases reported for the eligible area.
 
 #### (b) HIV health services planning council
 

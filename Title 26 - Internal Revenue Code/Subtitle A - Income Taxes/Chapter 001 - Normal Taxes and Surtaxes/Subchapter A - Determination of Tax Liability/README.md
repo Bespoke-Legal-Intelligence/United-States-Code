@@ -11,14 +11,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-|  |  |
-| :--- | ---: |
-| [VII.](Part%20007%20%28VII%29%20-%20Environmental%20Tax/README.md) | Environmental tax. |
-| \[VIII. | Repealed.\] |
+|  |
+| :--- |
+| \[VII, VIII. Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(12)(A), Dec. 19, 2014, 128 Stat. 4038, struck out part VII "Environmental tax".
 
 <b>1989</b>—Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980, repealed Pub. L. 100–360, §111, and provided that the provisions of law amended by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
@@ -45,5 +46,5 @@
 - [Part 004 (IV) - Credits Against Tax](Part%20004%20%28IV%29%20-%20Credits%20Against%20Tax/README.md)
 - [Part 005 (V) - Repealed](Part%20005%20%28V%29%20-%20Repealed/README.md)
 - [Part 006 (VI) - Alternative Minimum Tax](Part%20006%20%28VI%29%20-%20Alternative%20Minimum%20Tax/README.md)
-- [Part 007 (VII) - Environmental Tax](Part%20007%20%28VII%29%20-%20Environmental%20Tax/README.md)
+- [Part 007 (VII) - Repealed](Part%20007%20%28VII%29%20-%20Repealed/README.md)
 - [Part 008 (VIII) - Repealed](Part%20008%20%28VIII%29%20-%20Repealed/README.md)

@@ -1,6 +1,6 @@
 ### §1562. Special provisions relating to pension
 
-(a) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary undersubsection (d) of section 1134a of title 10, a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date on which the person's name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+(a) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10, a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date on which the person's name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
 
 (b) The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
@@ -138,7 +138,7 @@ Prior section 1687, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §16
 
 Prior sections 1695 to 1698 were repealed, effective Oct. 1, 1980, by Pub. L. 96–466, title VI, §601(a)(1), title VIII, §802(f), Oct. 17, 1980, 94 Stat. 2208, 2218.
 
-Section 1695, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80, set forth purpose of formersubchapter VI relating to a predischarge education program and defined "eligible person" for purposes of subchapter VI of chapter 34.
+Section 1695, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80, set forth purpose of former subchapter VI relating to a predischarge education program and defined "eligible person" for purposes of subchapter VI of chapter 34.
 
 Section 1696, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80; amended Pub. L. 92–540, title I, §102(5), title III, §307, Oct. 24, 1972, 86 Stat. 1075, 1081; Pub. L. 93–508, title I, §102(5), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §203(c), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§201(4), 210(5), 211(13), Oct. 15, 1976, 90 Stat. 2385, 2388, 2389; Pub. L. 95–202, title I, §102(6), Nov. 23, 1977, 91 Stat. 1434, related to payment of an educational assistance allowance.
 

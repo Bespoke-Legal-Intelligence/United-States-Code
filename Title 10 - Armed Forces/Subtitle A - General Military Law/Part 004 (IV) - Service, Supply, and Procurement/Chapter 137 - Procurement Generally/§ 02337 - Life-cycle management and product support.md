@@ -30,7 +30,7 @@ Responsibilities.—A product support manager for a major weapon system shall—
 
 &emsp;&emsp;(E) adjust performance requirements and resource allocations across product support integrators and product support providers as necessary to optimize implementation of the product support strategy;
 
-&emsp;&emsp;(F) periodically review product support arrangements between the product support integrators and product support providers to ensure the arrangements are consistent with the overall product support strategy;
+&emsp;&emsp;(F) periodically review product support arrangements between the product support integrators and product support providers toensure the arrangements are consistent with the overall product support strategy;
 
 &emsp;&emsp;(G) prior to each change in the product support strategy or every five years, whichever occurs first, revalidate any business-case analysis performed in support of the product support strategy;
 
@@ -66,7 +66,7 @@ Product support integrator.—The term "product support integrator" means an ent
 
 &emsp;(4)
 
-Product support provider.—The term "product support provider" means an entitythat provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
+Product support provider.—The term "product support provider" means an entity that provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
 
 &emsp;(5)
 

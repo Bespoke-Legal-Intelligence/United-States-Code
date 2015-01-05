@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(i) the lesser of the amount of the substitute check that was charged against the consumer account, or $2,500, together with interest if the account is an interest-bearing account, no later than the end of such 10th business day; and
 
-&emsp;&emsp;&emsp;(ii) the remaining amount of the substitute check that was charged against theconsumer account, if any, together with interest if the account is an interest-bearing account, not later than the 45th calendar day following the business day on which the consumer submits the claim.
+&emsp;&emsp;&emsp;(ii) the remaining amount of the substitute check that was charged against the consumer account, if any, together with interest if the account is an interest-bearing account, not later than the 45th calendar day following the business day on which the consumer submits the claim.
 
 #### (d) Availability of recredit
 
@@ -114,7 +114,7 @@
 
 #### (C) Prevention of fraud losses
 
-&emsp;&emsp;The bank has reasonable cause to believe that the claim is fraudulent, based on facts (other than the fact that the check in question or the consumer is of a particular class) that would cause a well-grounded belief in the mind of a reasonable person that the claim is fraudulent.
+&emsp;&emsp;The bank has reasonable cause to believe that the claim is fraudulent, based on facts\(other than the fact that the check in question or the consumer is of a particular class) that would cause a well-grounded belief in the mind of a reasonable person that the claim is fraudulent.
 
 #### (3) Overdraft fees
 

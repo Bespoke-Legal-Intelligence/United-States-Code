@@ -96,7 +96,7 @@ Bases of Reports.—(1) The reports under subsections (a) and (b) of this sectio
 
 &emsp;(C) experience obtained in carrying out this chapter;
 
-&emsp;(D) experience of the Government under the laws set forth in titles II and III of the MotorVehicle Theft Law Enforcement Act of 1984; and
+&emsp;(D) experience of the Government under the laws set forth in titles II and III of the Motor Vehicle Theft Law Enforcement Act of 1984; and
 
 &emsp;(E) other relevant and reliable information available to the Secretary.
 

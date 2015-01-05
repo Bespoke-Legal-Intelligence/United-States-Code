@@ -18,9 +18,11 @@ The Administrator, in coordination with the Technical Mapping Advisory Council e
 
 &emsp;&emsp;&emsp;(iii) areas of residual risk, including areas that are protected by levees, dams, and other flood control structures;
 
-&emsp;&emsp;&emsp;(iv) areas that could be inundated as a result of the failure of a levee, dam, or other flood control structure; and
+&emsp;&emsp;&emsp;(iv) areas that could be inundated as a result of the failure of a levee, dam, or other flood control structure;
 
-&emsp;&emsp;&emsp;(v) the level of protection provided by flood control structures;
+&emsp;&emsp;&emsp;(v) areas that are protected by non-structural flood mitigation features; and
+
+&emsp;&emsp;&emsp;(vi) the level of protection provided by flood control structures and by non-structural flood mitigation features;
 
 &emsp;&emsp;(B) establish or update flood-risk zone data in all such areas, and make estimates with respect to the rates of probable flood caused loss for the various flood risk zones for each such area; and
 
@@ -84,15 +86,35 @@ In updating and maintaining maps under this section, the Administrator shall—
 
 &emsp;The Administrator shall—
 
-&emsp;&emsp;(A) work to enhance communication and outreach to States, local communities, and property owners about the effects—
+&emsp;&emsp;(A) before commencement of any mapping or map updating process, notify each community affected of the model or models that the Administrator plans to use in such process and provide an explanation of why such model or models are appropriate;
+
+&emsp;&emsp;(B) provide each community affected a 30-day period beginning upon notification under subparagraph (A) to consult with the Administrator regarding the appropriateness, with respect to such community, of the mapping model or models to be used; provided that consultation by a community pursuant to this subparagraph shall not waive or otherwise affect any right of the community to appeal any flood hazard determinations;
+
+&emsp;&emsp;(C) upon completion of the first Independent Data Submission, transmit a copy of such Submission to the affected community, provide the affected community a 30-day period during which the community may provide data to Administrator <sup>1</sup> that can be used to supplement or modify the existing data, and incorporate any data that is consistent with prevailing engineering principles;
+
+&emsp;&emsp;(D) work with States, local communities, and property owners to identify areas and features described in subsection (b)(1)(A)(v);
+
+&emsp;&emsp;(E) work to enhance communication and outreach to States, local communities, and property owners about the effects—
 
 &emsp;&emsp;&emsp;(i) of any potential changes to National Flood Insurance Program rate maps that may result from the mapping program required under this section; and
 
 &emsp;&emsp;&emsp;(ii) that any such changes may have on flood insurance purchase requirements;
 
-&emsp;&emsp;(B) engage with local communities to enhance communication and outreach to the residents of such communities, including tenants (with regard to contents insurance), on the matters described under subparagraph (A); and
+&emsp;&emsp;(F) engage with local communities to enhance communication and outreach to the residents of such communities, including tenants (with regard to contents insurance), on the matters described under subparagraph (E);
 
-&emsp;&emsp;(C) upon the issuance of any proposed map and any notice of an opportunity to make an appeal relating to the proposed map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the proposed map of any action taken by the Administrator with respect to the proposed map or an appeal relating to the proposed map.
+&emsp;&emsp;(G) not less than 30 days before issuance of any preliminary map, notify the Senatorsfor each State affected and each Member of the House of Representatives for each congressional district affected by the preliminary map in writing of—
+
+&emsp;&emsp;&emsp;(i) the estimated schedule for—
+
+&emsp;&emsp;&emsp;&emsp;(I) community meetings regarding the preliminary map;
+
+&emsp;&emsp;&emsp;&emsp;(II) publication of notices regarding the preliminary map in local newspapers; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the commencement of the appeals process regarding the map; and
+
+&emsp;&emsp;&emsp;(ii) the estimated number of homes and businesses that will be affected by changes contained in the preliminary map, including how many structures will be <sup>2</sup> that were not previously located in an area having special flood hazards will be located within such an area under the preliminary map; and
+
+&emsp;&emsp;(H) upon the issuance of any proposed map and any notice of an opportunity to make an appeal relating to the proposed map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the proposed map of any action taken by the Administrator with respect to the proposed map or an appeal relating to the proposed map.
 
 #### (2) Required activities
 
@@ -116,7 +138,7 @@ Upon the adoption by the Administrator of any recommendation by the Technical Ma
 
 There is authorized to be appropriated to the Administrator to carry out this section $400,000,000 for each of fiscal years 2013 through 2017.
 
-(Pub. L. 112–141, div. F, title II, §100216, July 6, 2012, 126 Stat. 927.)
+(Pub. L. 112–141, div. F, title II, §100216, July 6, 2012, 126 Stat. 927; Pub. L. 113–89, §§27, 30, Mar. 21, 2014, 128 Stat. 1033, 1034.)
 
 #### References in Text
 
@@ -124,9 +146,41 @@ The National Flood Insurance Act of 1968, referred to in subsecs. (b)(1)(C) and 
 
 #### Codification
 
-Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part ofthe Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(A)(v), (vi). Pub. L. 113–89, §27(1), added cl. (v), redesignated former cl. (v) as (vi), and, in cl. (vi), inserted "and by non-structural flood mitigation features" before semicolon at end.
+
+Subsec. (d)(1)(A). Pub. L. 113–89, §30(3), added subpar. (A). Former subpar. (A) redesignated (D).
+
+Pub. L. 113–89, §27(2)(C), added subpar. (A). Former subpar. (A) redesignated (B).
+
+Subsec. (d)(1)(B). Pub. L. 113–89, §30(3), added subpar. (B). Former subpar. (B) redesignated (E).
+
+Pub. L. 113–89, §27(2)(A), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+
+Subsec. (d)(1)(C). Pub. L. 113–89, §30(3), added subpar. (C). Former subpar. (C) redesignated (F).
+
+Pub. L. 113–89, §30(1), substituted "subparagraph (E)" for "subparagraph (B)" and struck out "and" at end.
+
+Pub. L. 113–89, §27(2)(A), (B), redesignated subpar. (B) as (C) and substituted "subparagraph (B)" for "subparagraph (A)". Former subpar. (C) redesignated (D).
+
+Subsec. (d)(1)(D). Pub. L. 113–89, §30(2), redesignated subpar. (A) as (D). Former subpar. (D) redesignated (H).
+
+Pub. L. 113–89, §27(2)(A), redesignated subpar. (C) as (D).
+
+Subsec. (d)(1)(E), (F). Pub. L. 113–89, §30(2), redesignated subpars. (B) and (C) as (E) and (F), respectively.
+
+Subsec. (d)(1)(G). Pub. L. 113–89, §30(4), added subpar. (G).
+
+Subsec. (d)(1)(H). Pub. L. 113–89, §30(2), redesignated subpar. (D) as (H).
 
 #### Definitions
 
 For definitions of terms used in this section, see section 4004 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
+
+<i><sup>2</sup></i><i> So in original. The words "will be" probably should not appear.</i>
 

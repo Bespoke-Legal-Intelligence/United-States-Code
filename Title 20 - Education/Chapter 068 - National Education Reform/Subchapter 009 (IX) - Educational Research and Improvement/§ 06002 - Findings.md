@@ -22,7 +22,7 @@ The Congress finds as follows with respect to improving education in the United 
 
 &emsp;(6) The Office should develop a national dissemination policy that will advance the goal of placing a national treasure chest of research results, models, and materials at the disposal of the education decisionmakers of the United States.
 
-&emsp;(7) A National Educational Research Policy and Priorities Board should be established towork collaboratively with the Assistant Secretary to forge a national consensus with respect to a long-term agenda for educational research, development, dissemination, and the activities of the Office.
+&emsp;(7) A National Educational Research Policy and Priorities Board should be established to work collaboratively with the Assistant Secretary to forge a national consensus with respect to a long-term agenda for educational research, development, dissemination, and the activities of the Office.
 
 &emsp;(8) Existing research and development entities should adopt expanded, proactive roles and new institutions should be created to promote knowledge development necessary to accelerate the application of research findings to high priority areas.
 

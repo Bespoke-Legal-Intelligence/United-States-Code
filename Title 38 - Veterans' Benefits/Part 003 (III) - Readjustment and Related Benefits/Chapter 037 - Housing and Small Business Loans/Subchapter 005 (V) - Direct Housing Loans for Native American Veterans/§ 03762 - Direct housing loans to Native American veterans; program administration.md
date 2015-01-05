@@ -18,7 +18,7 @@
 
 &emsp;(B) That each such Native American veteran will convey to the Secretary by an appropriate instrument the interest referred to in subparagraph (A) as security for a direct housing loan under this subchapter.
 
-&emsp;(C) That the tribal organization and each such Native American veteran will permit theSecretary to enter upon the trust land of that organization or veteran for the purposes of carrying out such actions as the Secretary determines are necessary—
+&emsp;(C) That the tribal organization and each such Native American veteran will permit the Secretary to enter upon the trust land of that organization or veteran for the purposes of carrying out such actions as the Secretary determines are necessary—
 
 &emsp;&emsp;(i) to evaluate the advisability of the loan; and
 
@@ -38,7 +38,7 @@
 
 (B)(i) Subject to clause (ii), the Secretary may make loans exceeding the amount specified in subparagraph (A) in a geographic area if the Secretary determines that housing costs in the area are significantly higher than average housing costs nationwide. The amount of such increase shall be the amount that the Secretary determines is necessary in order to make direct housing loans under this subchapter to Native American veterans who are located in a variety of geographic areas and in geographic areas experiencing a variety of economic conditions.
 
-(ii) The amount of a loan made by the Secretary under this subchapter may not exceed the maximum loan amount authorized for loans guaranteed under section 3703(a)(1)(C) of this title.
+(ii) The amount of a loan made by the Secretary under this subchapter may not exceed themaximum loan amount authorized for loans guaranteed under section 3703(a)(1)(C) of this title.
 
 (2) Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or section 3712(f) of this title, and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
 
@@ -68,7 +68,7 @@
 
 (B) The Secretary may not make a loan under this subsection unless the loan will bear an interest rate at least one percentage point less than the interest rate borne by the loan being refinanced.
 
-(C) Paragraphs (2) and (3) of such section 3710(e) shall apply to any loan made under this subsection, except that for the purposes of this subsection the reference to subsection (a)(8) of section 3710 of this title in such paragraphs (2)and (3) shall be deemed to be a reference to this subsection.
+(C) Paragraphs (2) and (3) of such section 3710(e) shall apply to any loan made under this subsection, except that for the purposes of this subsection the reference to subsection (a)(8) of section 3710 of this title in such paragraphs (2) and (3) shall be deemed to be a reference to this subsection.
 
 (i)(1) The Secretary shall, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council), carry out an outreach program to inform and educate Native American veterans of the availability of direct housing loans for Native American veterans who live on trust lands.
 
@@ -88,7 +88,7 @@
 
 (j) The Secretary shall include as part of the annual benefits report of the Veterans Benefits Administration information concerning the cost and number of loans provided under this subchapter for the fiscal year covered by the report.
 
-(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title II, §201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283; Pub. L. 107–103, title IV, §402(b), (c), Dec. 27, 2001, 115 Stat. 993; Pub. L. 109–233, title I, §103(b), (c)(1), (d), (e), (f)(3), June 15, 2006, 120 Stat. 400, 401.)
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L.105–114, title II, §201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283; Pub. L. 107–103, title IV, §402(b), (c), Dec. 27, 2001, 115 Stat. 993; Pub. L. 109–233, title I, §103(b), (c)(1), (d), (e), (f)(3), June 15, 2006, 120 Stat. 400, 401.)
 
 #### Amendments
 

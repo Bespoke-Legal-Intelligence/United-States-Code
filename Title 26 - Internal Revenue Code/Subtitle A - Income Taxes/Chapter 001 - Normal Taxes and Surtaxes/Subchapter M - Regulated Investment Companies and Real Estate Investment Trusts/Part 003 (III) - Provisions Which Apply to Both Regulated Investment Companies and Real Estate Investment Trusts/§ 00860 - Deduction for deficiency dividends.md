@@ -120,7 +120,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) unless (u
 
 #### (i) Deduction denied in case of fraud
 
-No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willfull <sup>2</sup> failure to file anincome tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
+No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willfull <sup>2</sup> failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
 
 (Added Pub. L. 95–600, title III, §362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, §103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, §667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, §243(f)(5), Oct. 22, 2004, 118 Stat. 1445; Pub. L. 111–325, title III, §301(a)(2), title V, §501(b), Dec. 22, 2010, 124 Stat. 3542, 3554.)
 

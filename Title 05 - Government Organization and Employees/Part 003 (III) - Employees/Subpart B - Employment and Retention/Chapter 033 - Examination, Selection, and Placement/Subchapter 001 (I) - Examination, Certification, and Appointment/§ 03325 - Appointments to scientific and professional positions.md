@@ -6,7 +6,7 @@
 
 (c) The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the purpose of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 423; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(12), Oct. 2, 1992, 106 Stat.1347; Pub. L. 110–372, §2(c)(3), Oct. 8, 2008, 122 Stat. 4044.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 423; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(12), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 110–372, §2(c)(3), Oct. 8, 2008, 122 Stat. 4044.)
 
 Historical and Revision Notes
 
@@ -22,15 +22,15 @@ Historical and Revision Notes
 
 5 U.S.C. 1162(a).
 
-Oct. 4, 1961, Pub. L. 87–367, §202 “Sec. 2(a)”, 75 Stat. 790.
+Oct. 4, 1961, Pub. L. 87–367, §202 "Sec. 2(a)", 75 Stat. 790.
 
 (b)
 
 5 U.S.C. 1161 (g) (2d sentence).
 
-Oct. 11, 1962, Pub. L. 87–793, §1001(a)(2) “(g) (2d sentence)”, 76 Stat. 863.
+Oct. 11, 1962, Pub. L. 87–793, §1001(a)(2) "(g) (2d sentence)", 76 Stat. 863.
 
-In subsection (a), the words “or its designee” are substituted for “or such officers or agents as the Commission may designate”.
+In subsection (a), the words "or its designee" are substituted for "or such officers or agents as the Commission may designate".
 
 For repeal of the Act of Aug. 1, 1947, ch. 433, 61 Stat. 715, as amended, see revision note for section 3104.
 
@@ -38,13 +38,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted “on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management” for “or its designee for this purpose”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted "on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management" for "or its designee for this purpose".
 
 Subsec. (c). Pub. L. 110–372, §2(c)(3)(B), added subsec. (c).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “section 3104(c)” for “section 3104(a)(7) of this title”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted "section 3104(c)" for "section 3104(a)(7) of this title".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 #### Effective Date of 2008 Amendment
 

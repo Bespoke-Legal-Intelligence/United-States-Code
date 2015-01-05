@@ -218,7 +218,7 @@ For purposes of this title—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided by the Secretary, if, on or before the due date for any taxable year, a taxpayer transfers in a trustee-to-trustee transfer any contribution to an individualretirement plan made during such taxable year from such plan to any other individual retirement plan, then, for purposes of this chapter, such contribution shall be treated as having been made to the transferee plan (and not the transferor plan).
+&emsp;&emsp;Except as provided by the Secretary, if, on or before the due date for any taxable year, a taxpayer transfers in a trustee-to-trustee transfer any contribution to an individual retirement plan made during such taxable year from such plan to any other individual retirement plan, then, for purposes of this chapter, such contribution shall be treated as having been made to the transferee plan (and not the transferor plan).
 
 #### (B) Special rules
 
@@ -412,7 +412,7 @@ Subsec. (d)(2)(C). Pub. L. 105–206, §6005(b)(3)(B), added subpar. (C).
 
 Subsec. (d)(3)(A). Pub. L. 105–206, §6005(b)(4)(A), added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: "in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made."
 
-Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: "If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount."
+Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: "If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a RothIRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount."
 
 Subsec. (d)(3)(E). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
@@ -468,7 +468,7 @@ Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, towhich such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
 
 Amendment by section 6005(b)(1)–(7), (9) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

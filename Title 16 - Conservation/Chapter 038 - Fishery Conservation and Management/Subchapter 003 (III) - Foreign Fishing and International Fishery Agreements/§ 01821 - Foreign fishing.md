@@ -66,7 +66,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 #### (e) Allocation of allowable level
 
-(1)(A) The Secretary of State, in cooperation with the Secretary, may make allocations to foreign nations from the total allowable level of foreign fishing which is permitted with respect to each fishery subject to the exclusive fishery management authority of the United States.
+(1)(A) The Secretary of State, in cooperation with the Secretary, may make allocations to foreign nations from the total allowable level of foreign fishing which is permitted with respectto each fishery subject to the exclusive fishery management authority of the United States.
 
 (B) From the determinations made under subparagraph (A), the Secretary of State shall compute the aggregate of all of the fishery allocations made to each foreign nation.
 
@@ -174,7 +174,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 &emsp;(D) for reasons beyond the control of the Secretary, an observer is not available.
 
-(3) Observers, while stationed aboard foreign fishing vessels, shall carry out such scientific, compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter; and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate.
+(3) Observers, while stationed aboard foreign fishing vessels, shall carry out such scientific,compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter; and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate.
 
 (4) In addition to any fee imposed under section 1824(b)(10) of this title and section 1980(e) of title 22 with respect to foreign fishing for any year after 1980, the Secretary shall impose, with respect to each foreign fishing vessel for which a permit is issued under such section 1824 of this title, a surcharge in an amount sufficient to cover all the costs of providing a United States observer aboard that vessel. The failure to pay any surcharge imposed under this paragraph shall be treated by the Secretary as a failure to pay the permit fee for such vessel under section 1824(b)(10) of this title. All surcharges collected by the Secretary under this paragraph shall be deposited in the Foreign Fishing Observer Fund established by paragraph (5).
 
@@ -258,7 +258,7 @@ Subsec. (i)(2)(B). Pub. L. 99–659, §103(a)(3), amended subpar. (B) generally.
 
 &emsp;"(i) the time during which the vessel engages in such fishing will be of such short duration that the placing of a United States observer aboard the vessel would be impractical, or
 
-&emsp;"(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out ofobserver functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or"
+&emsp;"(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out of observer functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or"
 
 Subsec. (j). Pub. L. 99–659, §101(c)(2), substituted "exclusive economic zone" for "fishery conservation zone".
 
@@ -316,7 +316,7 @@ Pub. L. 96–561, title II, §§237, 238(b), Dec. 22, 1980, 94 Stat. 3300, as am
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Implementation of Pacific Albacore Tuna Treaty
 
@@ -360,7 +360,7 @@ Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by 
 
 &emsp;&emsp;"(A) the appropriate regional fishery management council recommends under section 204(b)(5) of that Act that the Secretary approve such fishing, and
 
-&emsp;&emsp;"(B) the Secretary of Commerce includes in the permit any conditions or restrictions recommended by the appropriate regional fishery management council with respect to such fishing."
+&emsp;&emsp;"(B) the Secretary of Commerce includes in the permit any conditions or restrictions recommendedby the appropriate regional fishery management council with respect to such fishing."
 
 #### Use of Vessel Identification Equipment
 

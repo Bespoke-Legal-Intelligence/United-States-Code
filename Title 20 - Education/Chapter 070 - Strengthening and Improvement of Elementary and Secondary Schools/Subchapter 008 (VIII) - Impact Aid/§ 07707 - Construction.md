@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
-&emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
+&emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grantsfrom local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
 #### (3) Eligibility requirements
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) does not meet the requirements of subclauses (I) and (II) but is eligible to receive funds under section 7703(b)(2) of this title for the fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by theSecretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
+&emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
 
 #### (B) Modernization grants
 
@@ -136,7 +136,7 @@
 
 &emsp;In awarding emergency grants and modernization grants under this subsection, the Secretary shall consider the following factors:
 
-&emsp;&emsp;(A) The ability of the local educational agency to respond to the emergency, or topay for the modernization project, as the case may be, as measured by—
+&emsp;&emsp;(A) The ability of the local educational agency to respond to the emergency, or to pay for the modernization project, as the case may be, as measured by—
 
 &emsp;&emsp;&emsp;(i) the agency's level of bonded indebtedness;
 
@@ -196,7 +196,7 @@
 
 #### (iv) Maintenance costs
 
-&emsp;&emsp;&emsp;Nothing in this subsection shall be construed to authorize the payment of maintenance costs in connection with any school facility modernized in whole or in part with Federal funds provided under this subsection.
+&emsp;&emsp;&emsp;Nothing in this subsection shall be construed to authorize the payment of maintenance costs in connection with anyschool facility modernized in whole or in part with Federal funds provided under this subsection.
 
 #### (v) Environmental safeguards
 
@@ -238,23 +238,11 @@
 
 &emsp;&emsp;(F) Such other information and assurances as the Secretary may reasonably require.
 
-#### (7) Report
-
-#### (A) In general
-
-&emsp;&emsp;Not later than January 1 of each year, the Secretary shall prepare and submit to the appropriate congressional committees a report that contains a justification for each grant awarded under this subsection for the prior fiscal year.
-
-#### (B) Definition
-
-&emsp;&emsp;In this paragraph, the term "appropriate congressional committees" means—
-
-&emsp;&emsp;&emsp;(i) the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives; and
-
-&emsp;&emsp;&emsp;(ii) the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate.
-
-(Pub. L. 89–10, title VIII, §8007, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3763; amended Pub. L. 104–134, title I, §101(d) \[title III, §306(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–383; Pub. L. 107–110, title VIII, §803, Jan. 8, 2002, 115 Stat. 1950.)
+(Pub. L. 89–10, title VIII, §8007, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3763; amended Pub. L. 104–134, title I, §101(d) \[title III, §306(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–383; Pub. L. 107–110, title VIII, §803, Jan. 8, 2002, 115 Stat. 1950; Pub. L. 113–188, title V, §501, Nov. 26, 2014, 128 Stat. 2019.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(7). Pub. L. 113–188 struck out par. (7) which required annual reports containing justifications for each grant awarded under subsec. (b) for the prior fiscal year.
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–110 amended heading and text generally, reorganizing and revising provisions relating to emergency and modernization grants.
 

@@ -64,7 +64,7 @@ Psychologist.—To be eligible to be appointed to a psychologist position, a per
 
 &emsp;(B) have completed study for such degree in a specialty area of psychology and an internship which are satisfactory to the Secretary, and
 
-&emsp;(C) be licensed or certified as a psychologist in a State, except that the Secretary maywaive the requirement of licensure or certification for an individual psychologist for a period not to exceed two years on the condition that that psychologist provide patient care only under the direct supervision of a psychologist who is so licensed or certified.
+&emsp;(C) be licensed or certified as a psychologist in a State, except that the Secretary may waive the requirement of licensure or certification for an individual psychologist for a period not to exceed two years on the condition that that psychologist provide patient care only under the direct supervision of a psychologist who is so licensed or certified.
 
 (9)
 

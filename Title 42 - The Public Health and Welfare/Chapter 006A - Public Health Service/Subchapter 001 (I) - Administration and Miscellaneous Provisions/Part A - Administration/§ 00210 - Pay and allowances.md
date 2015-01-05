@@ -20,7 +20,7 @@ Field employees of the Service, except those employed on a per diem or fee basis
 
 #### (e) Additional pay for service at Gillis W. Long Hansen's Disease Center
 
-Any civilian employee of the Service who is employed at the Gillis W. Long Hansen's Disease Center on April 7, 1986, shall be entitled to receive, in addition to any compensation to which the employee may otherwise be entitled and for so long as the employee remains employed at the Center, an amount equal to one-fourth of such compensation.
+Any civilian employee of the Service who is employed at the Gillis W. Long Hansen's DiseaseCenter on April 7, 1986, shall be entitled to receive, in addition to any compensation to which the employee may otherwise be entitled and for so long as the employee remains employed at the Center, an amount equal to one-fourth of such compensation.
 
 #### (f) Allowances included in fellowships
 
@@ -80,7 +80,7 @@ Subsec. (g). Pub. L. 87–793 substituted provisions requiring the rates of comp
 
 Subsec. (g). Pub. L. 86–703 substituted "one hundred and fifty" for "eighty-five" and "one hundred and fifteen" for "seventy-three".
 
-<b>1958</b>—Subsec. (g). Pub. L. 85–929 substituted "in the professional, scientific, and executive service" for "inthe professional and scientific service", and substituted "of specially qualified scientific, professional, and administrative personnel" for "of specially qualified scientific or professional personnel".
+<b>1958</b>—Subsec. (g). Pub. L. 85–929 substituted "in the professional, scientific, and executive service" for "in the professional and scientific service", and substituted "of specially qualified scientific, professional, and administrative personnel" for "of specially qualified scientific or professional personnel".
 
 Pub. L. 85–462, substituted "eighty-five positions, of which not less than seventy-three shall be for the National Institutes of Health" for "sixty positions".
 
@@ -170,7 +170,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 #### Delegation of Functions
 
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff.Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff. Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
 #### Termination of Advisory Committees
 

@@ -46,7 +46,7 @@ Inclusions.—The term "alternative fueled vehicle" includes—
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that operates solely on alternative fuel;
 
-&emsp;(7) the term "domestic" means derived from resources within the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other Commonwealth, territory, or possession of the United States, including the outer Continental Shelf, as such term is defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], or from resources within a Nation with which there is in effect a free trade agreement requiring national treatment for trade;
+&emsp;(7) the term "domestic" means derived from resources within the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealthof the Northern Mariana Islands, or any other Commonwealth, territory, or possession of the United States, including the outer Continental Shelf, as such term is defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], or from resources within a Nation with which there is in effect a free trade agreement requiring national treatment for trade;
 
 &emsp;(8) the term "dual fueled vehicle" means—
 
@@ -98,7 +98,7 @@ Subchapter II of this chapter, referred to in introductory provisions, was in th
 
 Paragraphs (7) and (8) of section 32901(a) of title 49, referred to in pars. (6)(A) and (8)(A), were redesignated as pars. (8) and (9), respectively, and a new par. (7) was enacted by Pub. L. 110–140, title I, §103(a)(2), (3), Dec. 19, 2007, 121 Stat. 1501.
 
-The Outer Continental Shelf Lands Act, referred to in par. (7), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in par. (7), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Codification
 

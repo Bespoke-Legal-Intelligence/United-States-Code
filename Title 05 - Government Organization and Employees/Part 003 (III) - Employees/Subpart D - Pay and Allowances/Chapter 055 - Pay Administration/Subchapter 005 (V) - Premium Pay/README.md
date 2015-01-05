@@ -17,6 +17,6 @@
 - [&sect; 05547 - Limitation on premium pay](%C2%A7%2005547%20-%20Limitation%20on%20premium%20pay.md)
 - [&sect; 05548 - Regulations](%C2%A7%2005548%20-%20Regulations.md)
 - [&sect; 05549 - Effect on other statutes](%C2%A7%2005549%20-%20Effect%20on%20other%20statutes.md)
-- [&sect; 05550 - Repealed. Pub. L. 102&#8211;378, &sect;2(44)(A), Oct. 2, 1992, 106 Stat. 1352](%C2%A7%2005550%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93378%2C%20%C2%A72%2844%29%28A%29%2C%20Oct.%202%2C%201992%2C%20106%20Stat.%201352.md)
+- [&sect; 05550 - Border patrol rate of pay](%C2%A7%2005550%20-%20Border%20patrol%20rate%20of%20pay.md)
 - [&sect; 05550a - Compensatory time off for religious observances](%C2%A7%2005550a%20-%20Compensatory%20time%20off%20for%20religious%20observances.md)
 - [&sect; 05550b - Compensatory time off for travel](%C2%A7%2005550b%20-%20Compensatory%20time%20off%20for%20travel.md)

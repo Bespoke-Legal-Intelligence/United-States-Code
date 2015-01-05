@@ -24,7 +24,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) second, the Bank should support United States exporters when the exporters face foreign competition that is consistent with the Arrangement and the Subsidies Code of the World Trade Organization, but which places United States exporters at a competitive disadvantage; and
 
-&emsp;(6) there should be established in the Bank a tied aid program to target the export markets of those countries, including those that are not a party to the Arrangement, which make extensive use of tied aid or partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial advantage for the purposes of—
+&emsp;(6) there should be established in the Bank a tied aid program to target the export marketsof those countries, including those that are not a party to the Arrangement, which make extensive use of tied aid or partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial advantage for the purposes of—
 
 &emsp;&emsp;(A) enforcing compliance with the existing Arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes; and
 
@@ -38,7 +38,7 @@ The Congress finds that—
 
 #### (1) In general
 
-&emsp;The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—
+&emsp;The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c)—
 
 &emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for a sale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
 
@@ -58,9 +58,9 @@ The Congress finds that—
 
 &emsp;The tied aid credit program shall be administered by the Bank—
 
-&emsp;&emsp;(A) in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5) of this section;
+&emsp;&emsp;(A) in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5);
 
-&emsp;&emsp;(B) in cooperation with United States exporters and private financial institutions orentities, and in consultation with other Federal agencies, as appropriate; and
+&emsp;&emsp;(B) in cooperation with United States exporters and private financial institutions or entities, and in consultation with other Federal agencies, as appropriate; and
 
 &emsp;&emsp;(C) in consultation with the National Advisory Council on International Monetary and Financial Policies.
 
@@ -84,7 +84,7 @@ The Congress finds that—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6) of this section.
+&emsp;&emsp;The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6).
 
 #### (B) Content of principles, process, and standards
 
@@ -92,7 +92,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), the Secretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
 
-&emsp;&emsp;&emsp;&emsp;(I) The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, to police existing rules, and to seek compliance by those countries that are not a party to the Arrangement.
+&emsp;&emsp;&emsp;&emsp;(I) The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, to police existing rules, and to seek compliance by thosecountries that are not a party to the Arrangement.
 
 &emsp;&emsp;&emsp;&emsp;(II) The Tied Aid Credit Fund will be used to counter a foreign tied aid credit confronted by a United States exporter when bidding for a capital project.
 
@@ -146,11 +146,11 @@ The Congress finds that—
 
 #### (1) In general
 
-&emsp;There is hereby established within the Bank a fund to be known as the "Tied Aid Credit Fund" (hereinafter in this section referred to as the "Fund"), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e) of this section.
+&emsp;There is hereby established within the Bank a fund to be known as the "Tied Aid Credit Fund" (hereinafter in this section referred to as the "Fund"), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e).
 
 #### (2) Expenditures from Fund
 
-&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
+&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
 
 #### (d) Consistency with Arrangement
 
@@ -258,7 +258,7 @@ Subsec. (b)(5)(B)(ii). Pub. L. 109–438, §10(a), amended cl. (ii) heading and 
 
 Subsec. (a)(5). Pub. L. 107–189, §10(c)(3), added par. (5). Former par. (5) redesignated (6).
 
-Pub. L. 107–189, §10(c)(2), inserted ", or untied aid used to promote exports as if it were tied aid," before"for commercial" in introductory provisions and in subpar. (B).
+Pub. L. 107–189, §10(c)(2), inserted ", or untied aid used to promote exports as if it were tied aid," before "for commercial" in introductory provisions and in subpar. (B).
 
 Subsec. (a)(6). Pub. L. 107–189, §10(c)(3), redesignated par. (5) as (6).
 
@@ -334,7 +334,7 @@ Subsec. (b)(2)(A). Pub. L. 101–240, §101(b)(3), substituted "carry out the pu
 
 Subsec. (c)(2). Pub. L. 101–240, §101(b)(4), substituted "amount equal to the concessionality level" for "cost" and "through fiscal year 1991" for "during fiscal years 1986, 1987, 1988, and 1989".
 
-Subsec. (e)(1). Pub. L. 101–240, §101(b)(7), which directed the insertion of ", and for fiscal years 1990, 1991, and 1992, $200,000,000" after "$300,000,000" was not executed in view of earlier amendment by section 101(b)(5) of Pub. L. 101–240, which inserted ", and for fiscal years 1990 and 1991, $300,000,000" after "$300,000,000", and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing insection 101(b)(7). See Cong. Rec., Vol. 135, pt. 22, pp. 31199, 31203.
+Subsec. (e)(1). Pub. L. 101–240, §101(b)(7), which directed the insertion of ", and for fiscal years 1990, 1991, and 1992, $200,000,000" after "$300,000,000" was not executed in view of earlier amendment by section 101(b)(5) of Pub. L. 101–240, which inserted ", and for fiscal years 1990 and 1991, $300,000,000" after "$300,000,000", and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing in section 101(b)(7). See Cong. Rec., Vol. 135, pt. 22, pp. 31199, 31203.
 
 Pub. L. 101–240, §101(b)(5), inserted ", and for fiscal years 1990 and 1991, $300,000,000" after "$300,000,000".
 

@@ -50,11 +50,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the United States Court of Appeals for the District of Columbia Circuit shall have jurisdiction of an appeal of a final decision of the Court filed by the Secretary or a covered financial company, through its board of directors, notwithstanding section 5390(a)(1)(A)(i) ofthis title, not later than 30 days after the date on which the decision of the Court is rendered or deemed rendered under this subsection.
+&emsp;&emsp;&emsp;Subject to clause (ii), the United States Court of Appeals for the District of Columbia Circuit shall have jurisdiction of an appeal of a final decision of the Court filed by the Secretary or a covered financial company, through its board of directors, notwithstanding section 5390(a)(1)(A)(i) of this title, not later than 30 days after the date on which the decision of the Court is rendered or deemed rendered under this subsection.
 
 #### (ii) Condition of jurisdiction
 
-&emsp;&emsp;&emsp;The Court of Appeals shall have jurisdiction of an appeal by a covered financial company only if the covered financial company did not acquiesce or consent to the appointment of a receiver by the Secretary under paragraph (1)(A).
+&emsp;&emsp;&emsp;The Court of Appeals shall have jurisdiction of an appeal by a covered financialcompany only if the covered financial company did not acquiesce or consent to the appointment of a receiver by the Secretary under paragraph (1)(A).
 
 #### (iii) Expedition
 
@@ -132,11 +132,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The time limit under this subsection, as extended under paragraph (2), may be extended for up to 1 additional year, if theChairperson of the Corporation, with the concurrence of the Secretary, submits the certifications described in paragraph (2).
+&emsp;&emsp;The time limit under this subsection, as extended under paragraph (2), may be extended for up to 1 additional year, if the Chairperson of the Corporation, with the concurrence of the Secretary, submits the certifications described in paragraph (2).
 
 #### (B) Additional report required
 
-&emsp;&emsp;Not later than 30 days after the date of commencement of the extension under subparagraph (A), the Corporation shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the need for the extension and the specific plan of the Corporation to conclude the receivership before the end of the second extension.
+&emsp;&emsp;Not later than 30 days after the date of commencement of the extension under subparagraph (A), the Corporation shall submita report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the need for the extension and the specific plan of the Corporation to conclude the receivership before the end of the second extension.
 
 #### (4) Ongoing litigation
 

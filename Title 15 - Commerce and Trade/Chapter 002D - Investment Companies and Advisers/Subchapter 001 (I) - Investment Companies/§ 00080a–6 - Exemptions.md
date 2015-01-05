@@ -16,7 +16,7 @@ The following investment companies are exempt from the provisions of this subcha
 
 &emsp;&emsp;(i) the organizational documents of the company state that the activities of the company are limited to the promotion of economic, business, or industrial development in the State through the provision of financial or managerial assistance to enterprises doing business, or proposing to do business, in that State, and such other activities that are incidental or necessary to carry out that purpose;
 
-&emsp;&emsp;(ii) immediately following each sale of the securities of the company by the company orany underwriter for the company, not less than 80 percent of the securities of the company being offered in such sale, on a class-by-class basis, are held by persons who reside or who have a substantial business presence in that State;
+&emsp;&emsp;(ii) immediately following each sale of the securities of the company by the company or any underwriter for the company, not less than 80 percent of the securities of the company being offered in such sale, on a class-by-class basis, are held by persons who reside or who have a substantial business presence in that State;
 
 &emsp;&emsp;(iii) the securities of the company are sold, or proposed to be sold, by the company or by any underwriter for the company, solely to accredited investors, as that term is defined in section 77b(a)(15) of this title, or to such other persons that the Commission, as necessary or appropriate in the public interest and consistent with the protection of investors, may permit by rule, regulation, or order; and
 
@@ -54,7 +54,7 @@ The Commission, by rules and regulations or order, shall exempt a closed-end inv
 
 #### (e) Application of certain specified provisions of subchapter to otherwise exempt companies
 
-If, in connection with any rule, regulation, or order under this section exempting any investment company from any provision of section 80a–7 of this title, the Commission deems it necessary or appropriate in the public interest or for the protection of investors that certain specified provisions of this subchapter pertaining to registered investment companies shall be applicable in respect of such company, the provisions so specified shall apply to such company, and to other persons in their transactions and relationswith such company, as though such company were a registered investment company.
+If, in connection with any rule, regulation, or order under this section exempting any investment company from any provision of section 80a–7 of this title, the Commission deems it necessary or appropriate in the public interest or for the protection of investors that certain specified provisions of this subchapter pertaining to registered investment companies shall be applicable in respect of such company, the provisions so specified shall apply to such company, and to other persons in their transactions and relations with such company, as though such company were a registered investment company.
 
 #### (f) Exemption of closed-end company treated as business development company
 

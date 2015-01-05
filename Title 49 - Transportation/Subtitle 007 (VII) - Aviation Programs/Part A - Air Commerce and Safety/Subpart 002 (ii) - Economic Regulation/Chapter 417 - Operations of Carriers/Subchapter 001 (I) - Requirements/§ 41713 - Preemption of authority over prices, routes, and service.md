@@ -6,7 +6,7 @@ Definition.—In this section, "State" means a State, the District of Columbia, 
 
 (b)
 
-Preemption.—(1) Except as provided in this subsection, a State, political subdivision of a State, or political authority of at least 2 States may not enact or enforce a law, regulation, or other provision having the force and effect of law related to a price, route, or service of an air carrier that may provide air transportation under this subpart.
+Preemption.—(1) Except as provided in this subsection, a State, political subdivision of a State, or political authority of at least 2 States may not enact or enforce a law, regulation, orother provision having the force and effect of law related to a price, route, or service of an air carrier that may provide air transportation under this subpart.
 
 (2) Paragraphs (1) and (4) of this subsection do not apply to air transportation provided entirely in Alaska unless the transportation is air transportation (except charter air transportation) provided under a certificate issued under section 41102 of this title.
 

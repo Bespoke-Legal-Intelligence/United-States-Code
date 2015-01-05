@@ -12,7 +12,7 @@ The Secretary of the Interior is authorized to cooperate with the Secretary of A
 
 <b>1980</b>—Pub. L. 96–597 inserted references to the Governor and the Commonwealth of the Northern Mariana Islands.
 
-<b>1970</b>—Pub. L. 91–503 substituted "Secretary of Agriculture of Puerto Rico" for "Commissioner of Agriculture and Commerce of Puerto Rico", added American Samoa to the list of recipients, and substituted maximum limits of apportionment of one percent for Puerto Rico, one-third of one percent for Guam, one-third of one percent for American Samoa and one-thirdof one percent for Virgin Islands for maximum limit of $10,000 for Puerto Rico, Guam and Virgin Islands together.
+<b>1970</b>—Pub. L. 91–503 substituted "Secretary of Agriculture of Puerto Rico" for "Commissioner of Agriculture and Commerce of Puerto Rico", added American Samoa to the list of recipients, and substituted maximum limits of apportionment of one percent for Puerto Rico, one-third of one percent for Guam, one-third of one percent for American Samoa and one-third of one percent for Virgin Islands for maximum limit of $10,000 for Puerto Rico, Guam and Virgin Islands together.
 
 <b>1959</b>—Pub. L. 86–70 struck out provisions which authorized cooperation with the Alaska Game Commission and permitted apportionment of not more than $75,000 in any one year to the Territory of Alaska.
 

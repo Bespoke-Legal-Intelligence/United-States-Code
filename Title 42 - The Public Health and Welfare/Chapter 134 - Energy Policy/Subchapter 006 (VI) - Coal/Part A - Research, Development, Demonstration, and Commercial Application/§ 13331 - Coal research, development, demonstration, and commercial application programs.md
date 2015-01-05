@@ -26,7 +26,7 @@ The Secretary shall, in accordance with section <sup>1</sup> 13541 and 13542 of
 
 #### (b) Demonstration and commercial application programs
 
-(1) In selecting either a demonstration project or a commercial application project for financial assistance under this part, the Secretary shall seek to ensure that, relative to otherwise comparable commercially available technologies or products, the selected project will meet one or more of the following criteria:
+(1) In selecting either a demonstration project or a commercial application project for financial assistance under this part, the Secretary shall seek to ensure that, relative to otherwisecomparable commercially available technologies or products, the selected project will meet one or more of the following criteria:
 
 &emsp;(A) It will reduce environmental emissions to an extent greater than required by applicable provisions of law.
 

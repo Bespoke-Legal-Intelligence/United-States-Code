@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term "information security" has the meaning given that term in section 3532(b)(1) of title 44.
+Definition.—In this section, the term "information security" has the meaning given that term in section 3532(b)(1) <sup>1</sup> of title 44.
 
 (b)
 
@@ -20,7 +20,7 @@ Requirement.—Except as provided under paragraph (2), the Director of the Offic
 
 Required standards.—Standards promulgated under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) standards that provide minimum information security requirements as determined under section 20(b) of the NationalInstitute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
+&emsp;&emsp;&emsp;(i) standards that provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
 
 &emsp;&emsp;&emsp;(ii) such standards that are otherwise necessary to improve the efficiency of operation or security of Federal information systems.
 
@@ -30,7 +30,7 @@ Required standards binding.—Information security standards described under sub
 
 &emsp;(2)
 
-Standards and guidelines for national security systems.—Standards and guidelines for national security systems, as defined under section 3532(3) of title 44, shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
+Standards and guidelines for national security systems.—Standards and guidelines for national security systems, as defined under section 3532(3) <sup>1</sup> of title 44, shall be developed,promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
 (c)
 
@@ -38,7 +38,7 @@ Application of More Stringent Standards.—The head of an agency may employ stan
 
 &emsp;(1) contain, at a minimum, the provisions of those applicable standards made compulsory and binding by the Director; and
 
-&emsp;(2) are otherwise consistent with policies and guidelines issued under section 3533 of title 44.
+&emsp;(2) are otherwise consistent with policies and guidelines issued under section 3533 <sup>1</sup> of title 44.
 
 (d)
 
@@ -69,6 +69,10 @@ Historical and Revision Notes
 40:1441.
 
 Pub. L. 104–106, div. E, title LI, §5131(a)–(d), Feb. 10, 1996, 110 Stat. 687.
+
+#### References in Text
+
+Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2), were repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to sections 3532 and 3533 of title 44 are now contained in sections 3552 and 3553, respectively, of title 44, as enacted by Pub. L. 113–283.
 
 #### Amendments
 
@@ -144,7 +148,7 @@ Pub. L. 107–347 substituted "Responsibilities for Federal information systems 
 
 "(a)
 
-Definitions.—In this section, the terms 'federal computer system' and 'operator of a federal computer system' have the meanings given those terms in section 20(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(d)).
+Definitions.—In this section, the terms 'federal computer system' and 'operator of a federal computersystem' have the meanings given those terms in section 20(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(d)).
 
 "(b)
 
@@ -192,7 +196,9 @@ Notice.—Notice of each waiver and delegation shall be transmitted promptly to 
 
 #### Effective Date of 2002 Amendments
 
-Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date note under section 3541 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a note under section 3504 of Title 44, Public Printing and Documents.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

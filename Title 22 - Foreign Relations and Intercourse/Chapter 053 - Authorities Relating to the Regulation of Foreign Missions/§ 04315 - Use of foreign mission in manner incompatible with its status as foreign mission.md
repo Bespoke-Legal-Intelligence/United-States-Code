@@ -10,7 +10,7 @@ For the purposes of this section, the term "residence" does not include such tem
 
 #### (c) Waiver
 
-The Secretary may waive subsection (a) of this section with respect to all foreign missions of a country (and may revoke such a waiver) 30 days after providing written notification of such a waiver, together with the reasons for such waiver (or revocation of such a waiver), to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+The Secretary may waive subsection (a) with respect to all foreign missions of a country (and may revoke such a waiver) 30 days after providing written notification of such a waiver, together with the reasons for such waiver (or revocation of such a waiver), to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 #### (d) Report
 
@@ -40,7 +40,7 @@ Pub. L. 100–204, title I, §128(b), Dec. 22, 1987, 101 Stat. 1343, provided th
 
 "(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[enacting this section\] shall apply to any foreign mission beginning on the date of enactment of this Act \[Dec. 22, 1987\].
 
-"(2)(A) The amendment made by subsection (a) shall apply beginning 6 months after the date of enactmentof this Act with respect to any nonimmigrant alien who is using a foreign mission as a residence or a place of business on the date of enactment of this Act.
+"(2)(A) The amendment made by subsection (a) shall apply beginning 6 months after the date of enactment of this Act with respect to any nonimmigrant alien who is using a foreign mission as a residence or a place of business on the date of enactment of this Act.
 
 "(B) The Secretary of State may delay the effective date provided for in subparagraph (A) for not more than 6 months with respect to any nonimmigrant alien if the Secretary finds that a hardship to that alien would result from the implementation of subsection (a)."
 

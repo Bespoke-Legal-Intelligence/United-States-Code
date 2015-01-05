@@ -94,7 +94,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 (1) The Secretary is authorized, under such regulations as he may prescribe, to—
 
-&emsp;(A) permit the use of any area within the System for any purpose, including but not limited to hunting, fishing, public recreation and accommodations, and access whenever he determines that such uses are compatible with the major purposes for which such areas were established: <i>Provided</i>, That not to exceed 40 per centum at any one time of any area thathas been, or hereafter may be acquired, reserved, or set apart as an inviolate sanctuary for migratory birds, under any law, proclamation, Executive order, or public land order may be administered by the Secretary as an area within which the taking of migratory game birds may be permitted under such regulations as he may prescribe unless the Secretary finds that the taking of any species of migratory game birds in more than 40 percent of such area would be beneficial to the species; and
+&emsp;(A) permit the use of any area within the System for any purpose, including but not limited to hunting, fishing, public recreation and accommodations, and access whenever he determines that such uses are compatible with the major purposes for which such areas were established: <i>Provided</i>, That not to exceed 40per centum at any one time of any area that has been, or hereafter may be acquired, reserved, or set apart as an inviolate sanctuary for migratory birds, under any law, proclamation, Executive order, or public land order may be administered by the Secretary as an area within which the taking of migratory game birds may be permitted under such regulations as he may prescribe unless the Secretary finds that the taking of any species of migratory game birds in more than 40 percent of such area would be beneficial to the species; and
 
 &emsp;(B) permit the use of, or grant easements in, over, across, upon, through, or under any areas within the System for purposes such as but not necessarily limited to, powerlines, telephone lines, canals, ditches, pipelines, and roads, including the construction, operation, and maintenance thereof, whenever he determines that such uses are compatible with the purposes for which these areas are established.
 
@@ -126,7 +126,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(viii) require, after an opportunity for public comment, reevaluation of each compatible wildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of a conservation plan under subsection (e) of this section or at least every 15 years, whichever is earlier; and
 
-&emsp;(ix) provide an opportunity for public review and comment on each evaluation of a use, unless an opportunity for public review and comment on the evaluation of the use has alreadybeen provided during the development or revision of a conservation plan for the refuge under subsection (e) of this section or has otherwise been provided during routine, periodic determinations of compatibility for wildlife-dependent recreational uses.
+&emsp;(ix) provide an opportunity for public review and comment on each evaluation of a use, unless an opportunity for public review and comment on the evaluation of the use has already been provided during the development or revision of a conservation plan for the refuge under subsection (e) of this section or has otherwise been provided during routine, periodic determinations of compatibility for wildlife-dependent recreational uses.
 
 (4) The provisions of this Act relating to determinations of the compatibility of a use shall not apply to—
 
@@ -198,7 +198,7 @@ Regulations applicable to areas of the System that are in effect on October 15, 
 
 #### (i) National conservation recreational area provisions; amendment, repeal, or modification
 
-Nothing in this section shall be construed to amend, repeal, or otherwise modify the provision of the Act of September 28, 1962 (76 Stat. 653; 16 U.S.C. 460k—460k–4) which authorizes the Secretary to administer the areas within the System for public recreation. The provisions of this section relating to recreation shall be administered in accordance with the provisions of said sections.
+Nothing in this section shall be construed to amend, repeal, or otherwise modify the provision of the Act of September 28, 1962 (76 Stat. 653; 16 U.S.C. 460k—460k–4) which authorizes the Secretary to administer the areas within the System for public recreation. The provisions of this section relating to recreation shall be administered in accordance with the provisions of said Act.
 
 #### (j) Exemption from State water laws
 
@@ -724,7 +724,7 @@ Bitter Lake National Wildlife Refuge, New Mexico.—Pub. L. 108–7, div. F, tit
 
 Blackwater National Wildlife Refuge, Maryland.—Pub. L. 108–131, Nov. 22, 2003, 117 Stat. 1372.
 
-Bogue Chitto National Wildlife Refuge, Louisiana-Mississippi.—Pub. L. 96–288, June 28, 1980, 94 Stat. 603; Pub. L. 99–191, §3, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 101–233, §17, Dec. 13, 1989, 103 Stat. 1978.
+Bogue Chitto National Wildlife Refuge, Louisiana and Mississippi.—Pub. L. 96–288, June 28, 1980, 94 Stat. 603; Pub. L. 99–191, §3, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 101–233, §17, Dec. 13, 1989, 103 Stat. 1978.
 
 Bon Secour National Wildlife Refuge, Alabama.—Pub. L. 96–267, June 9, 1980, 94 Stat. 483; Pub. L. 99–191, §1, Dec. 19, 1985, 99 Stat. 1327.
 
@@ -808,6 +808,8 @@ Neal Smith National Wildlife Refuge, Iowa.—Pub. L. 105–83, title III, §341,
 
 Ninigret National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(g), (i), June 9, 1998, 112 Stat. 206, 207; Pub. L. 105–206, title IX, §9006(d), July 22, 1998, 112 Stat. 849.
 
+Nisqually National Wildlife Refuge, Washington.—Pub. L. 113–76, div. G, title I, §126, Jan. 17, 2014, 128 Stat. 315.
+
 North Platte National Wildlife Refuge, Nebraska.—Pub. L. 104–212, title I, §101, Oct. 1, 1996, 110 Stat. 3014.
 
 Nowitna National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(6), Dec. 2, 1980, 94 Stat. 2387.
@@ -850,6 +852,8 @@ Seal Beach National Wildlife Refuge, California.—Pub. L. 92–408, Aug. 29, 19
 
 Selawik National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(7), Dec. 2, 1980, 94 Stat. 2387.
 
+Senator Dale Bumpers White River National Wildlife Refuge (former White River National Wildlife Refuge), Arkansas.—Pub. L. 102–584, §§1–5, Nov. 2, 1992, 106 Stat. 4937–4941; Pub. L. 113–76, div. G, title I, §120, Jan. 17, 2014, 128 Stat. 314.
+
 Silvio Conte National Fish and Wildlife Refuge, Connecticut, Massachusetts, New Hampshire, and Vermont.—Pub. L. 102–212, title I, Dec. 11, 1991, 105 Stat. 1655.
 
 Sonny Bono Salton Sea National Wildlife Refuge, California.—Pub. L. 105–372, title I, §103, Nov. 12, 1998, 112 Stat. 3380.
@@ -874,7 +878,7 @@ Wallkill River National Wildlife Refuge, New Jersey.—Pub. L. 101–593, title 
 
 Wertheim National Wildlife Refuge, New York.—Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299.
 
-White River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§1–5, Nov. 2, 1992, 106 Stat. 4937–4941.
+White River National Wildlife Refuge, Arkansas (see Senator Dale Bumpers White River National Wildlife Refuge).
 
 Wyandotte National Wildlife Refuge, Michigan (see Detroit River International Wildlife Refuge).
 

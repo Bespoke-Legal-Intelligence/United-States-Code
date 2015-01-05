@@ -28,7 +28,7 @@ Three members of the Panel shall constitute a quorum for doing business. All dec
 
 #### (e) Appointment of administrative law judges; provisions applicable
 
-The Panel is authorized to appoint as many administrative law judges as are necessary forproceedings required to be conducted in accordance with the provisions of this chapter. The provisions applicable to administrative law judges appointed under section 3105 of title 5 shall be applicable to administrative law judges appointed pursuant to this subsection.
+The Panel is authorized to appoint as many administrative law judges as are necessary for proceedings required to be conducted in accordance with the provisions of this chapter. The provisions applicable to administrative law judges appointed under section 3105 of title 5 shall be applicable to administrative law judges appointed pursuant to this subsection.
 
 #### (f) Functions; hearings; notice and review; termination; annual report
 

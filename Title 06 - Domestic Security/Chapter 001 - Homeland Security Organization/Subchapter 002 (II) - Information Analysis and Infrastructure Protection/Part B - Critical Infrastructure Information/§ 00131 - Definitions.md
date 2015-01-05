@@ -4,15 +4,15 @@ In this part:
 
 #### (1) Agency
 
-&emsp;The term “agency” has the meaning given it in section 551 of title 5.
+&emsp;The term "agency" has the meaning given it in section 551 of title 5.
 
 #### (2) Covered Federal agency
 
-&emsp;The term “covered Federal agency” means the Department of Homeland Security.
+&emsp;The term "covered Federal agency" means the Department of Homeland Security.
 
 #### (3) Critical infrastructure information
 
-&emsp;The term “critical infrastructure information” means information not customarily in the public domain and related to the security of critical infrastructure or protected systems—
+&emsp;The term "critical infrastructure information" means information not customarily in the public domain and related to the security of critical infrastructure or protected systems—
 
 &emsp;&emsp;(A) actual, potential, or threatened interference with, attack on, compromise of, or incapacitation of critical infrastructure or protected systems by either physical or computer-based attack or other similar conduct (including the misuse of or unauthorized access to all types of communications and data transmission systems) that violates Federal, State, or local law, harms interstate commerce of the United States, or threatens public health or safety;
 
@@ -22,11 +22,11 @@ In this part:
 
 #### (4) Critical infrastructure protection program
 
-&emsp;The term “critical infrastructure protection program” means any component or bureau of a covered Federal agency that has been designated by the President or any agency head to receive critical infrastructure information.
+&emsp;The term "critical infrastructure protection program" means any component or bureau of a covered Federal agency that has been designated by the President or any agency head to receive critical infrastructure information.
 
 #### (5) Information Sharing and Analysis Organization
 
-&emsp;The term “Information Sharing and Analysis Organization” means any formal or informal entity or collaboration created or employed by public or private sector organizations, for purposes of—
+&emsp;The term "Information Sharing and Analysis Organization" means any formal or informal entity or collaboration created or employed by public or private sector organizations, for purposes of—
 
 &emsp;&emsp;(A) gathering and analyzing critical infrastructure information in order to better understand security problems and interdependencies related to critical infrastructure and protected systems, so as to ensure the availability, integrity, and reliability thereof;
 
@@ -36,7 +36,7 @@ In this part:
 
 #### (6) Protected system
 
-&emsp;The term “protected system”—
+&emsp;The term "protected system"—
 
 &emsp;&emsp;(A) means any service, physical or computer-based system, process, or procedure that directly or indirectly affects the viability of a facility of critical infrastructure; and
 
@@ -46,11 +46,11 @@ In this part:
 
 #### (A) In general
 
-&emsp;&emsp;The term “voluntary”, in the case of any submittal of critical infrastructure information to a covered Federal agency, means the submittal thereof in the absence of such agency's exercise of legal authority to compel access to or submission of such information and may be accomplished by a single entity or an Information Sharing and Analysis Organization on behalf of itself or its members.
+&emsp;&emsp;The term "voluntary", in the case of any submittal of critical infrastructure information to a covered Federal agency, means the submittal thereof in the absence of such agency's exercise of legal authority to compel access to or submission of such information and may be accomplished by a single entity or an Information Sharing and Analysis Organization on behalf of itself or its members.
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “voluntary”—
+&emsp;&emsp;The term "voluntary"—
 
 &emsp;&emsp;&emsp;(i) in the case of any action brought under the securities laws as is defined in section 78c(a)(47) of title 15—
 
@@ -64,9 +64,9 @@ In this part:
 
 #### Short Title
 
-For short title of this part as the “Critical Infrastructure Information Act of 2002”, see section 211 of Pub. L. 107–296, set out as a note under section 101 of this title.
+For short title of this part as the "Critical Infrastructure Information Act of 2002", see section 211 of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 
-<i><sup>2</sup></i><i> So in original. The word “a” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "a" probably should not appear.</i>
 

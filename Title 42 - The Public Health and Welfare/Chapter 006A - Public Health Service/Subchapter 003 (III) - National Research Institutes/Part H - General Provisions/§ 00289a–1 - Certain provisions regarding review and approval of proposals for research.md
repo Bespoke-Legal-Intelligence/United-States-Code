@@ -4,7 +4,7 @@
 
 #### (1) Protection of human research subjects
 
-&emsp;(A) In the case of any application submitted to the Secretary for financial assistance toconduct research, the Secretary may not approve or fund any application that is subject to review under section 289(a) of this title by an Institutional Review Board unless the application has undergone review in accordance with such section and has been recommended for approval by a majority of the members of the Board conducting such review.
+&emsp;(A) In the case of any application submitted to the Secretary for financial assistance to conduct research, the Secretary may not approve or fund any application that is subject to review under section 289(a) of this title by an Institutional Review Board unless the application has undergone review in accordance with such section and has been recommended for approval by a majority of the members of the Board conducting such review.
 
 &emsp;(B) In the case of research that is subject to review under procedures established by the Secretary for the protection of human subjects in clinical research conducted by the National Institutes of Health, the Secretary may not authorize the conduct of the research unless the research has, pursuant to such procedures, been recommended for approval.
 
@@ -84,7 +84,7 @@
 
 &emsp;For purposes of this subsection, the term "ethical considerations" means considerations as to whether the nature of the research involved is such that it is unethical to conduct or support the research.
 
-(July 1, 1944, ch. 373, title IV, §492A, as added Pub. L. 103–43, title I, §101, June 10, 1993, 107 Stat. 126; amended Pub. L. 109–482, title I, §102(e), Jan. 15, 2007, 120 Stat. 3684.)
+(July 1, 1944, ch. 373, title IV, §492A, as added Pub. L. 103–43, title I, §101, June 10, 1993, 107Stat. 126; amended Pub. L. 109–482, title I, §102(e), Jan. 15, 2007, 120 Stat. 3684.)
 
 #### Amendments
 

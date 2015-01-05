@@ -36,7 +36,7 @@ The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–4
 
 #### Amendments
 
-<b>1998</b>—Subsecs. (d) to (f). Pub. L. 105–226 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: "Not less than once every 3 years, the Comptroller General shall review and audit the accounts of the John F. Kennedy Center for the Performing Arts for the purpose of examining expenditures of funds appropriated under the authority provided by this subchapter."
+<b>1998</b>—Subsecs. (d) to (f). Pub. L. 105–226 redesignated subsecs. (e) and (f) as (d) and (e), respectively, andstruck out heading and text of former subsec. (d). Text read as follows: "Not less than once every 3 years, the Comptroller General shall review and audit the accounts of the John F. Kennedy Center for the Performing Arts for the purpose of examining expenditures of funds appropriated under the authority provided by this subchapter."
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–279, §5(1), substituted "the operations of the Board" for "its operations".
 

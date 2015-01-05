@@ -74,7 +74,7 @@ Any—
 
 #### (3) Exports under the Canadian agreement
 
-&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
+&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin orcopies thereof) which pertain to the exportations.
 
 #### (c) Period of time
 
@@ -164,7 +164,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (3) Retention period
 
-&emsp;Records and supporting documents shall be kept by the person who issued a CAFTA–DR certification of origin for at least 5 years after the date on which the certification was issued.
+&emsp;Records and supporting documents shall be kept by the person who issued a CAFTA–DRcertification of origin for at least 5 years after the date on which the certification was issued.
 
 #### (h) Certifications of origin for goods exported under the United States-Peru Trade Promotion Agreement
 
@@ -286,7 +286,7 @@ Any person who fails to retain records and supporting documents required by subs
 
 &emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat.889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520.)
+(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520.)
 
 #### Amendment of Section
 

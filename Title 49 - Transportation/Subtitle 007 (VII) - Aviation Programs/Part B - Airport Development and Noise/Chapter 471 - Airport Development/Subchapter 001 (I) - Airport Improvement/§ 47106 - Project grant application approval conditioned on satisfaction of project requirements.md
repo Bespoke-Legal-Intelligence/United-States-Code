@@ -286,7 +286,7 @@ Contents.—In conducting the study, the Secretary, at a minimum, shall assess�
 
 "(c)
 
-Consultation.—The Secretary shall conduct the study in consultation with the Administrator \[of the Federal Aviation Administration\], the heads of other appropriate Federal departments and agencies, airport sponsors, the heads of State aviation agencies, representatives of the design and construction industry, representatives of employee organizations, and representatives of public interest groups.
+Consultation.—The Secretary shall conduct the study in consultation with the Administrator \[of the Federal Aviation Administration\], the heads of otherappropriate Federal departments and agencies, airport sponsors, the heads of State aviation agencies, representatives of the design and construction industry, representatives of employee organizations, and representatives of public interest groups.
 
 "(d)
 

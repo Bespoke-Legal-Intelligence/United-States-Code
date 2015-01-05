@@ -1,6 +1,6 @@
 ### §371b–1. Repealed. Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168
 
-Section, act Dec. 23, 1913, ch. 6, §19(k), as added Dec. 28, 1979, Pub. L. 96–161, title II, §208, 93 Stat. 1238, provided that no member bank or affiliate thereof, or any successor or assignee of such member bank or affiliate or any endorser, guarantor, or surety of such member bank or affiliate could plead, raise, or claim directly or by counterclaim, setoff, or otherwise, with respect to any deposit or obligation of such member bank or affiliate, any defense, right, or benefit under any provision of a statute or constitution of a State or of a territory of the United States, or of any law of the District ofColumbia, regulating or limiting the rate of interest which could be charged, taken, received, or reserved, that any such provision was preempted, and that no civil or criminal penalty which would otherwise have been applicable under such provision would apply to such member bank or affiliate or to any other person.
+Section, act Dec. 23, 1913, ch. 6, §19(k), as added Dec. 28, 1979, Pub. L. 96–161, title II, §208, 93 Stat. 1238, provided that no member bank or affiliate thereof, or any successor or assignee of such member bank or affiliate or any endorser, guarantor, or surety of such member bank or affiliate could plead, raise, or claim directly or by counterclaim, setoff, or otherwise, with respect to any deposit or obligation of such member bank or affiliate, any defense, right, or benefit under any provision of a statute or constitution of a State or of a territory of the United States, or of any law of the District of Columbia, regulating or limiting the rate of interest which could be charged, taken, received, or reserved, that any such provision was preempted, and that no civil or criminal penalty which would otherwise have been applicable under such provision would apply to such member bank or affiliate or to any other person.
 
 #### Effective Date of Repeal
 
@@ -30,7 +30,7 @@ Prior to its repeal by Pub. L. 96–161, title II, §212, Dec. 28, 1979, 93 Stat
 
 &emsp;"(1) July 1, 1981;
 
-&emsp;"(2) the date, after the date of the enactment of this Act \[Nov. 5, 1979\], on which such State adopts a law stating in substance that such State does not want the amendments made by this title to apply with respect to such deposits and obligations; or
+&emsp;"(2) the date, after the date of the enactment of this Act \[Nov. 5, 1979\], on which such State adopts a law stating in substance that such State does notwant the amendments made by this title to apply with respect to such deposits and obligations; or
 
 &emsp;"(3) the date on which such State certifies that the voters of such State, after the date of the enactment of this Act \[Nov. 5, 1979\], have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which limits the amount of interest which may be charged in connection with such deposits and obligations."
 

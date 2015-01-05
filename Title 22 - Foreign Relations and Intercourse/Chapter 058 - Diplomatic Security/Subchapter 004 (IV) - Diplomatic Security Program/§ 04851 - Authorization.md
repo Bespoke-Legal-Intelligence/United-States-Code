@@ -22,7 +22,7 @@
 
 #### (b) Notification to authorizing Committees of requests for appropriations
 
-In any fiscal year, whenever the Secretary of State submits to the Congress a request for appropriations to carry out the program described in subsection (a) of this section, the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such request, together with a justification of each item listed in such request.
+In any fiscal year, whenever the Secretary of State submits to the Congress a request for appropriations to carry out the program described in subsection (a), the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such request, together with a justification of each item listed in such request.
 
 #### (c) Repealed. Pub. L. 103–236, title I, §122(b), Apr. 30, 1994, 108 Stat. 392
 
@@ -40,13 +40,13 @@ In the event that sufficient funds are not available in any fiscal year for all 
 
 #### (g) Allocation of funds for certain security programs
 
-Of the amount of funds authorized to be appropriated by subsection (a)(1)(A) of this section, $34,537,000 shall be available to the Secretary of State only for the protection of classified office equipment, the expansion of information systems security, and the hiring of American systems managers and operators for computers at high threat locations.
+Of the amount of funds authorized to be appropriated by subsection (a)(1)(A), $34,537,000 shall be available to the Secretary of State only for the protection of classified office equipment, the expansion of information systems security, and the hiring of American systems managers and operators for computers at high threat locations.
 
 #### (h) Furniture, furnishings, and equipment
 
 #### (1) Use of existing furniture, furnishings, and equipment
 
-&emsp;If physically possible, facilities constructed or acquired pursuant to subsection (a) of this section shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
+&emsp;If physically possible, facilities constructed or acquired pursuant to subsection (a) shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
 
 #### (2) Omitted
 
@@ -66,9 +66,9 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows: "There is authorized to be appropriated for the Department of State for 'Acquisition and Maintenance of Buildings Abroad' for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made."
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows:"There is authorized to be appropriated for the Department of State for 'Acquisition and Maintenance of Buildings Abroad' for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made."
 
-Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: "Amounts made available for capital projects pursuantto subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
+Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: "Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 
 Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: "Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 

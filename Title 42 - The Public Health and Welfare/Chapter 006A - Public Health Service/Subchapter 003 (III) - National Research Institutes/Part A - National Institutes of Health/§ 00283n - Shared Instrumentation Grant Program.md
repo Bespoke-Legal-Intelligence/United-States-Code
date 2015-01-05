@@ -6,7 +6,7 @@ In determining whether to award a grant to an applicant under the Shared Instrum
 
 &emsp;(1) the extent to which an award for the specific instrument involved would meet the scientific needs and enhance the planned research endeavors of the major users by providing an instrument that is unavailable or to which availability is highly limited;
 
-&emsp;(2) with respect to the instrument involved, the availability and commitment of the appropriate technical expertise within the major user group or the applicant institution for use of the instrumentation;
+&emsp;(2) with respect to the instrument involved, the availability and commitment of the appropriate technical expertise within the majoruser group or the applicant institution for use of the instrumentation;
 
 &emsp;(3) the adequacy of the organizational plan for the use of the instrument involved and the internal advisory committee for oversight of the applicant, including sharing arrangements if any;
 

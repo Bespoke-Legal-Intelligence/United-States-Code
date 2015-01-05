@@ -18,7 +18,7 @@ The objectives of the Joint Strategic Plan against counterfeiting and infringeme
 
 &emsp;(7) Protecting intellectual property rights overseas by—
 
-&emsp;&emsp;(A) working with other countries and exchanging information with appropriate lawenforcement agencies in other countries relating to individuals and entities involved in the financing, production, trafficking, or sale of counterfeit and infringing goods;
+&emsp;&emsp;(A) working with other countries and exchanging information with appropriate law enforcement agencies in other countries relating to individuals and entities involved in the financing, production, trafficking, or sale of counterfeit and infringing goods;
 
 &emsp;&emsp;(B) ensuring that the information referred to in subparagraph (A) is provided to appropriate United States law enforcement agencies in order to assist, as warranted, enforcement activities in cooperation with appropriate law enforcement agencies in other countries; and
 

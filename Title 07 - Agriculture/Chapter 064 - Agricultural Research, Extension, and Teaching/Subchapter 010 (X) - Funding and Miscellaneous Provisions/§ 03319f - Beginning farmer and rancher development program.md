@@ -20,41 +20,33 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 &emsp;In carrying out this section, the Secretary shall make competitive grants to support new and established local and regional training, education, outreach, and technical assistance initiatives for beginning farmers or ranchers, including programs and services (as appropriate) relating to—
 
-&emsp;&emsp;(A) mentoring, apprenticeships, and internships;
+&emsp;&emsp;(A) basic livestock, forest management, and crop farming practices;
 
-&emsp;&emsp;(B) resources and referral;
+&emsp;&emsp;(B) innovative farm, ranch, and private, nonindustrial forest land transfer strategies;
 
-&emsp;&emsp;(C) assisting beginning farmers or ranchers in acquiring land from retiring farmers and ranchers;
+&emsp;&emsp;(C) entrepreneurship and business training;
 
-&emsp;&emsp;(D) innovative farm and ranch transfer strategies;
+&emsp;&emsp;(D) financial and risk management training (including the acquisition and management of agricultural credit);
 
-&emsp;&emsp;(E) entrepreneurship and business training;
+&emsp;&emsp;(E) natural resource management and planning;
 
-&emsp;&emsp;(F) model land leasing contracts;
+&emsp;&emsp;(F) diversification and marketing strategies;
 
-&emsp;&emsp;(G) financial management training;
+&emsp;&emsp;(G) curriculum development;
 
-&emsp;&emsp;(H) whole farm planning;
+&emsp;&emsp;(H) mentoring, apprenticeships, and internships;
 
-&emsp;&emsp;(I) conservation assistance;
+&emsp;&emsp;(I) resources and referral;
 
-&emsp;&emsp;(J) risk management education;
+&emsp;&emsp;(J) farm financial benchmarking;
 
-&emsp;&emsp;(K) diversification and marketing strategies;
+&emsp;&emsp;(K) assisting beginning farmers or ranchers in acquiring land from retiring farmers and ranchers;
 
-&emsp;&emsp;(L) curriculum development;
+&emsp;&emsp;(L) agricultural rehabilitation and vocational training for veterans;
 
-&emsp;&emsp;(M) understanding the impact of concentration and globalization;
+&emsp;&emsp;(M) farm safety and awareness; and
 
-&emsp;&emsp;(N) basic livestock and crop farming practices;
-
-&emsp;&emsp;(O) the acquisition and management of agricultural credit;
-
-&emsp;&emsp;(P) environmental compliance;
-
-&emsp;&emsp;(Q) information processing; and
-
-&emsp;&emsp;(R) other similar subject areas of use to beginning farmers or ranchers.
+&emsp;&emsp;(N) other similar subject areas of use to beginning farmers or ranchers.
 
 #### (2) Eligibility
 
@@ -64,7 +56,7 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 &emsp;&emsp;(B) a Federal, State, or tribal agency;
 
-&emsp;&emsp;(C) a community-based and nongovernmental organization;
+&emsp;&emsp;(C) a community-based or nongovernmental organization;
 
 &emsp;&emsp;(D) a college or university (including an institution awarding an associate's degree) or foundation maintained by a college or university; or
 
@@ -110,17 +102,23 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 #### (7) Priority
 
-&emsp;In making grants under this subsection, the Secretary shall give priority to partnerships and collaborations that are led by or include nongovernmental and community-based organizations with expertise in new agricultural producer training and outreach.
+&emsp;In making grants under this subsection, the Secretary shall give priority to partnershipsand collaborations that are led by or include nongovernmental, community-based organizations, and school-based agricultural educational organizations with expertise in new agricultural producer training and outreach.
 
-#### (8) Set-aside
+#### (8) Set-asides
 
-&emsp;Not less than 25 percent of funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
+#### (A) In general
 
-&emsp;&emsp;(A) limited resource beginning farmers or ranchers (as defined by the Secretary);
+&emsp;&emsp;Not less than 5 percent of the funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
 
-&emsp;&emsp;(B) socially disadvantaged beginning farmers or ranchers (as defined in section 2003(e) of this title); and
+&emsp;&emsp;&emsp;(i) limited resource beginning farmers or ranchers (as defined by the Secretary);
 
-&emsp;&emsp;(C) farmworkers desiring to become farmers or ranchers.
+&emsp;&emsp;&emsp;(ii) socially disadvantaged farmers or ranchers (as defined in section 2003(e) of this title) who are beginning farmers or ranchers; and
+
+&emsp;&emsp;&emsp;(iii) farmworkers desiring to become farmers or ranchers.
+
+#### (B) Veteran farmers and ranchers
+
+&emsp;&emsp;Not less than 5 percent of the funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of veteran farmers and ranchers (as defined in section 2279(e) of this title).
 
 #### (9) Prohibition
 
@@ -129,6 +127,14 @@ The Secretary shall establish a beginning farmer and rancher development program
 #### (10) Administrative costs
 
 &emsp;The Secretary shall use not more than 4 percent of the funds made available to carry out this subsection for administrative costs incurred by the Secretary in carrying out this section.
+
+#### (11) Limitation on indirect costs
+
+&emsp;A recipient of a grant under this subsection may not use more than 10 percent of the funds provided by the grant for the indirect costs of carrying out the initiatives described in paragraph (1).
+
+#### (12) Coordination permitted
+
+&emsp;A recipient of a grant under this subsection using the grant as described in paragraph (8)(B) may coordinate with a recipient of a grant under section 5933 of this title in addressing the needs of veteran farmers and ranchers with disabilities.
 
 #### (d) Education teams
 
@@ -188,23 +194,25 @@ Nothing in this section prohibits the Secretary from allowing farmers and ranche
 
 #### (h) Funding
 
-#### (1) Mandatory funding for fiscal years 2009 through 2012
+#### (1) Mandatory funding for fiscal years 2009 through 2018
 
 &emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
 
-&emsp;&emsp;(A) $18,000,000 for fiscal year 2009; and
+&emsp;&emsp;(A) $18,000,000 for fiscal year 2009;
 
-&emsp;&emsp;(B) $19,000,000 for each of fiscal years 2010 through 2012.
+&emsp;&emsp;(B) $19,000,000 for each of fiscal years 2010 through 2012; and
 
-#### (2) Authorization of appropriations for fiscal years 2008 through 2012
+&emsp;&emsp;(C) $20,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
 
-&emsp;In addition to funds provided under paragraph (1), there is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2012.
+#### (2) Authorization of appropriations for fiscal years 2014 through 2018
+
+&emsp;In addition to funds provided under paragraph (1), there is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2014 through 2018.
 
 #### (3) Fiscal year 2013
 
 &emsp;There is authorized to be appropriated to carry out this section $30,000,000 for fiscal year 2013.
 
-(Pub. L. 107–171, title VII, §7405, May 13, 2002, 116 Stat. 458; Pub. L. 110–234, title VII, §7410, May 22, 2008, 122 Stat. 1254; Pub. L. 110–246, §4(a), title VII, §7410, June 18, 2008, 122 Stat. 1664, 2016; Pub. L. 112–240, title VII, §701(e)(3), Jan. 2, 2013, 126 Stat. 2364.)
+(Pub. L. 107–171, title VII, §7405, May 13, 2002, 116 Stat. 458; Pub. L. 110–234, title VII, §7410, May 22, 2008, 122 Stat. 1254; Pub. L. 110–246, §4(a), title VII, §7410, June 18, 2008, 122 Stat. 1664, 2016; Pub. L. 112–240, title VII, §701(e)(3), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, §7409, Feb. 7, 2014, 128 Stat. 898.)
 
 #### Codification
 
@@ -213,6 +221,64 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §7409(1)(A), added subpars. (A) to (N) and struck out former subpars. (A) to (R) which read as follows:
+
+"(A) mentoring, apprenticeships, and internships;
+
+"(B) resources and referral;
+
+"(C) assisting beginning farmers or ranchers in acquiring land from retiring farmers and ranchers;
+
+"(D) innovative farm and ranch transfer strategies;
+
+"(E) entrepreneurship and business training;
+
+"(F) model land leasing contracts;
+
+"(G) financial management training;
+
+"(H) whole farm planning;
+
+"(I) conservation assistance;
+
+"(J) risk management education;
+
+"(K) diversification and marketing strategies;
+
+"(L) curriculum development;
+
+"(M) understanding the impact of concentration and globalization;
+
+"(N) basic livestock and crop farming practices;
+
+"(O) the acquisition and management of agricultural credit;
+
+"(P) environmental compliance;
+
+"(Q) information processing; and
+
+"(R) other similar subject areas of use to beginning farmers or ranchers."
+
+Subsec. (c)(2)(C). Pub. L. 113–79, §7409(1)(B), substituted "or nongovernmental organization" for "and nongovernmental organization".
+
+Subsec. (c)(7). Pub. L. 113–79, §7409(1)(C), substituted ", community-based organizations, and school-based agricultural educational organizations" for "and community-based organizations".
+
+Subsec. (c)(8). Pub. L. 113–79, §7409(1)(D), added par. (8) and struck out former par. (8). Prior to amendment, text read as follows: "Not less than 25 percent of funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
+
+&emsp;"(A) limited resource beginning farmers or ranchers (as defined by the Secretary);
+
+&emsp;"(B) socially disadvantaged beginning farmers or ranchers (as defined in section 2003(e) of this title); and
+
+&emsp;"(C) farmworkers desiring to become farmers or ranchers."
+
+Subsec. (c)(11), (12). Pub. L. 113–79, §7409(1)(E), added pars. (11) and (12).
+
+Subsec. (h)(1). Pub. L. 113–79, §7409(2)(A), substituted "2018" for "2012" in heading.
+
+Subsec. (h)(1)(C). Pub. L. 113–79, §7409(2)(B)–(D), added subpar. (C).
+
+Subsec. (h)(2). Pub. L. 113–79, §7409(3), substituted "2014 through 2018" for "2008 through 2012" in heading and text.
 
 <b>2013</b>—Subsec. (h)(1). Pub. L. 112–240, §701(e)(3)(A), substituted "Mandatory funding for fiscal years 2009 through 2012" for "In general" in heading.
 
@@ -236,7 +302,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Definitions
 
-Pub. L. 107–171, title VII, §7401, May 13, 2002, 116 Stat. 455, provided that: "In this subtitle \[subtitle D (§7401–7412) of title VII of Pub. L. 107–171, enacting this section and sections 3310a, 3319b, 5925c, 5925d, and 7630 of this title and provisions set out as notes under sections 3101, 3319b, 5925a, and 5925b of this title\]:
+Pub. L. 107–171, title VII, §7401, May 13, 2002, 116 Stat. 455, provided that: "In this subtitle \[subtitle D (§7401–7412) of title VII of Pub. L. 107–171, enacting this section and sections \[former\] 3310a, 3319b, 5925c, 5925d, and 7630 of this title and provisions set out as notes under sections 3101, 3319b, \[former\] 5925a, and 5925b of this title\]:
 
 &emsp;"(1)
 

@@ -61,7 +61,8 @@
 | [1083\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20003%20-%20Funding/%C2%A7%2001083%20-%20Minimum%20funding%20standards%20for%20single-employer%20defined%20benefit%20pension%20plans.md) | Minimum funding standards for single-employer defined benefit pension plans. |
 | [1084\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20003%20-%20Funding/%C2%A7%2001084%20-%20Minimum%20funding%20standards%20for%20multiemployer%20plans.md) | Minimum funding standards for multiemployer plans. |
 | [1085\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20003%20-%20Funding/%C2%A7%2001085%20-%20Additional%20funding%20rules%20for%20multiemployer%20plans%20in%20endangered%20status%20or%20critical%20status.md) | Additional funding rules for multiemployer plans in endangered status or critical status. |
-| 1085a, 1085b, 1086. Repealed. |  |
+| [1085a.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20003%20-%20Funding/%C2%A7%2001085a%20-%20Minimum%20funding%20standards.md) | Minimum funding standards. |
+| 1085b, 1086. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -220,6 +221,7 @@
 | [1302\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20A%20-%20Pension%20Benefit%20Guaranty%20Corporation/%C2%A7%2001302%20-%20Pension%20Benefit%20Guaranty%20Corporation.md) | Pension Benefit Guaranty Corporation. |
 | [1303\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20A%20-%20Pension%20Benefit%20Guaranty%20Corporation/%C2%A7%2001303%20-%20Operation%20of%20corporation.md) | Operation of corporation. |
 | [1304\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20A%20-%20Pension%20Benefit%20Guaranty%20Corporation/%C2%A7%2001304%20-%20Participant%20and%20Plan%20Sponsor%20Advocate.md) | Participant and Plan Sponsor Advocate. |
+| [1304a.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20A%20-%20Pension%20Benefit%20Guaranty%20Corporation/%C2%A7%2001304a%20-%20Sponsor%20education%20and%20assistance.md) | Sponsor education and assistance. |
 | [1305\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20A%20-%20Pension%20Benefit%20Guaranty%20Corporation/%C2%A7%2001305%20-%20Pension%20benefit%20guaranty%20funds.md) | Pension benefit guaranty funds. |
 | [1306\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20A%20-%20Pension%20Benefit%20Guaranty%20Corporation/%C2%A7%2001306%20-%20Premium%20rates.md) | Premium rates. |
 | [1307\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20A%20-%20Pension%20Benefit%20Guaranty%20Corporation/%C2%A7%2001307%20-%20Payment%20of%20premiums.md) | Payment of premiums. |
@@ -318,22 +320,18 @@
 | :--- | ---: |
 | [1411\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20002%20-%20Merger%20or%20Transfer%20of%20Plan%20Assets%20or%20Liabilities/%C2%A7%2001411%20-%20Mergers%20and%20transfers%20between%20multiemployer%20plans.md) | Mergers and transfers between multiemployer plans. |
 | [1412\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20002%20-%20Merger%20or%20Transfer%20of%20Plan%20Assets%20or%20Liabilities/%C2%A7%2001412%20-%20Transfers%20between%20a%20multiemployer%20plan%20and%20a%20single-employer%20plan.md) | Transfers between a multiemployer plan and a single-employer plan. |
-| [1413\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20002%20-%20Merger%20or%20Transfer%20of%20Plan%20Assets%20or%20Liabilities/%C2%A7%2001413%20-%20Partition.md) | Partition. |
+| [1413\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20002%20-%20Merger%20or%20Transfer%20of%20Plan%20Assets%20or%20Liabilities/%C2%A7%2001413%20-%20Partitions%20of%20eligible%20multiemployer%20plans.md) | Partitions of eligible multiemployer plans. |
 | [1414\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20002%20-%20Merger%20or%20Transfer%20of%20Plan%20Assets%20or%20Liabilities/%C2%A7%2001414%20-%20Asset%20transfer%20rules.md) | Asset transfer rules. |
 | [1415\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20002%20-%20Merger%20or%20Transfer%20of%20Plan%20Assets%20or%20Liabilities/%C2%A7%2001415%20-%20Transfers%20pursuant%20to%20change%20in%20bargaining%20representative.md) | Transfers pursuant to change in bargaining representative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### part 3—reorganization; minimum contribution requirement for multiemployer plans
+#### part 3—reorganization; insolvent plans
 
 |  |  |
 | :--- | ---: |
-| [1421\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20003%20-%20Reorganization%3B%20Minimum%20Contribution%20Requirement%20for%20Multiemployer%20Plans/%C2%A7%2001421%20-%20Reorganization%20status.md) | Reorganization status. |
-| [1422\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20003%20-%20Reorganization%3B%20Minimum%20Contribution%20Requirement%20for%20Multiemployer%20Plans/%C2%A7%2001422%20-%20Notice%20of%20reorganization%20and%20funding%20requirements.md) | Notice of reorganization and funding requirements. |
-| [1423\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20003%20-%20Reorganization%3B%20Minimum%20Contribution%20Requirement%20for%20Multiemployer%20Plans/%C2%A7%2001423%20-%20Minimum%20contribution%20requirement.md) | Minimum contribution requirement. |
-| [1424\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20003%20-%20Reorganization%3B%20Minimum%20Contribution%20Requirement%20for%20Multiemployer%20Plans/%C2%A7%2001424%20-%20Overburden%20credit%20against%20minimum%20contribution%20requirement.md) | Overburden credit against minimum contribution requirement. |
-| [1425\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20003%20-%20Reorganization%3B%20Minimum%20Contribution%20Requirement%20for%20Multiemployer%20Plans/%C2%A7%2001425%20-%20Adjustments%20in%20accrued%20benefits.md) | Adjustments in accrued benefits. |
-| [1426\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20003%20-%20Reorganization%3B%20Minimum%20Contribution%20Requirement%20for%20Multiemployer%20Plans/%C2%A7%2001426%20-%20Insolvent%20plans.md) | Insolvent plans. |
+| 1421 to 1425. Repealed. |  |
+| [1426\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20003%20-%20Insolvent%20Plans/%C2%A7%2001426%20-%20Insolvent%20plans.md) | Insolvent plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

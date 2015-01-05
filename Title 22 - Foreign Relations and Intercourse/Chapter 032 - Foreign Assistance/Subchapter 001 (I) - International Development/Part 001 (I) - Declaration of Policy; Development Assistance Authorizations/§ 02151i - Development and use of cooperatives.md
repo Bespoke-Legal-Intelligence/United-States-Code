@@ -64,7 +64,7 @@ Pub. L. 106–309, title IV, §401(b), Oct. 17, 2000, 114 Stat. 1096, provided t
 
 #### Declarations of Policy
 
-Pub. L. 106–309, title IV, §401(c)(1), Oct. 17, 2000, 114 Stat. 1096, provided that: "The Congress supports the development and expansion of economic assistance programs that fully utilize cooperatives and credit unions, particularly those programs committed to—
+Pub. L. 106–309, title IV, §401(c)(1), Oct. 17, 2000, 114 Stat. 1096, provided that: "The Congress supports thedevelopment and expansion of economic assistance programs that fully utilize cooperatives and credit unions, particularly those programs committed to—
 
 &emsp;"(A) international cooperative principles, democratic governance and involvement of women and ethnic minorities for economic and social development;
 

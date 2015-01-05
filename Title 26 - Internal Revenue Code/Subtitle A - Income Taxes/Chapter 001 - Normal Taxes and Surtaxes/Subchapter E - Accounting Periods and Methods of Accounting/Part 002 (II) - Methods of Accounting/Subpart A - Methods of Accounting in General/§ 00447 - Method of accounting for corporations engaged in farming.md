@@ -50,7 +50,7 @@ For purposes of subsection (a), a corporation shall be treated as not being a co
 
 #### (ii) Pass-thru entities
 
-&emsp;&emsp;&emsp;For purposes of paragraph (1), if a family corporation holds directly or indirectlyany interest in a partnership, estate, trust or other pass-thru entity, such corporation shall take into account its proportionate share of the gross receipts of such entity.
+&emsp;&emsp;&emsp;For purposes of paragraph (1), if a family corporation holds directly or indirectly any interest in a partnership, estate, trust or other pass-thru entity, such corporation shall take into account its proportionate share of the gross receipts of such entity.
 
 #### (iii) Applicable percentage
 
@@ -78,7 +78,7 @@ For purposes of subsection (d)—
 
 &emsp;(2) stock owned, directly or indirectly, by or for a partnership or trust shall be treated as owned proportionately by its partners or beneficiaries, and
 
-&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as "first corporation") is owned, directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
+&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as "first corporation") is owned,directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
 
 > For purposes of paragraph (1), individuals related by the half blood or by legal adoption shall be treated as if they were related by the whole blood.
 
@@ -126,7 +126,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (A) Qualified partnership
 
-&emsp;&emsp;The term "qualified partnership" means a partnership which is engaged in a qualified farming trade or business and each of thepartners of which is a corporation other than—
+&emsp;&emsp;The term "qualified partnership" means a partnership which is engaged in a qualified farming trade or business and each of the partners of which is a corporation other than—
 
 &emsp;&emsp;&emsp;(i) an S corporation, or
 
@@ -208,7 +208,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (B) Special rule for certain transfers
 
-&emsp;&emsp;For purposes of subparagraph (A), any transfer in a corporation after December 15,1987, shall be treated as a transfer to a person whose ownership could not qualify such corporation as a family corporation unless it is a transfer—
+&emsp;&emsp;For purposes of subparagraph (A), any transfer in a corporation after December 15, 1987, shall be treated as a transfer to a person whose ownership could not qualify such corporation as a family corporation unless it is a transfer—
 
 &emsp;&emsp;&emsp;(i) to a member of the family of the transferor, or
 
@@ -400,7 +400,7 @@ Taxpayer May Not Be Required To Inventory Growing Crops.—A taxpayer to whom th
 
 "(c)
 
-Taxpayer May Elect To Change To Cash Method.—A taxpayer to whom this section applies may, for any taxable year beginning after December 31, 1977 and before January 1, 1981, change to the cash receipts and disbursements method of accounting with respect to any trade or business in which the principal activity is growing crops.
+Taxpayer May Elect To Change To Cash Method.—A taxpayer to whom this section applies may, for any taxable year beginning after December 31, 1977 and before January 1, 1981, change to the cash receipts anddisbursements method of accounting with respect to any trade or business in which the principal activity is growing crops.
 
 "(d)
 
@@ -420,7 +420,7 @@ Growing Crops.—For purposes of this section, the term 'Growing crops' does not
 
 Pub. L. 95–600, title VII, §703(l)(2), Nov. 6, 1978, 92 Stat. 2906, provided that: "If—
 
-&emsp;"(A) a farming syndicate (within the meaning of section 464(c) of the Internal Revenue Code of 1954) was in existence on December 31, 1975, and
+&emsp;"(A) a farming syndicate (within the meaning of \[former\] section 464(c) of the Internal Revenue Code of 1954 \[now 26 U.S.C. 461(j)\]) was in existence on December 31, 1975, and
 
 &emsp;"(B) such syndicate elects an accrual method of accounting (including the capitalization of preproductive period expenses described in section 447(b) of such Code) for a taxable year beginning before January 1, 1979,
 

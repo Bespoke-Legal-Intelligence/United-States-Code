@@ -4,11 +4,11 @@
 
 #### (1) Acquisitions
 
-&emsp;The importing country or private entity that enters into an agreement under subchapter II of this chapter shall acquire the agricultural commodities to be financed under subchapter II of this chapter.
+&emsp;The importing country or private entity that enters into an agreement under subchapter II shall acquire the agricultural commodities to be financed under subchapter II.
 
 #### (2) Invitation for bid
 
-&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II of this chapter unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II of this chapter shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
+&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
 
 #### (b) Agents
 
@@ -16,7 +16,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraph (B), if it is determined appropriate, the Secretary or the Commodity Credit Corporation may serve as the purchasing or shipping agent, or both, for the importer or importing country in arranging the purchase or shipping of commodities financed under subchapter II of this chapter.
+&emsp;&emsp;Except as provided in subparagraph (B), if it is determined appropriate, the Secretary or the Commodity Credit Corporation may serve as the purchasing or shipping agent, or both, for the importer or importing country in arranging the purchase or shipping of commodities financed under subchapter II.
 
 #### (B) Exception
 
@@ -24,7 +24,7 @@
 
 #### (C) Avoidance of conflict of interest of contractors
 
-&emsp;&emsp;Freight agents employed by the Secretary or the Commodity Credit Corporation under subchapter II of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
+&emsp;&emsp;Freight agents employed by the Secretary or the Commodity Credit Corporation under subchapter II shall not represent any foreign government during the period of their contract with the United States Government.
 
 #### (2) Reasonable fees and commissions
 
@@ -54,35 +54,29 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator shall transfer, arrange for the transportation, and take other steps necessary to make available agricultural commodities to be provided under subchapter III and subchapter III–A of this chapter.
+&emsp;&emsp;The Administrator shall transfer, arrange for the transportation, and take other steps necessary to make available agricultural commodities to be provided under subchapter III and subchapter III–A.
 
 #### (B) Certain commodities made available for nonemergency assistance
 
-&emsp;&emsp;In the case of agricultural commodities made available for nonemergency assistance under subchapter III of this chapter for least developed countries that meet the poverty and other eligibility criteria established by the International Bank for Reconstruction and Development for financing under the International Development Association, the Administrator may pay the transportation costs incurred in moving the agricultural commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs.
+&emsp;&emsp;In the case of agricultural commodities made available for nonemergency assistance under subchapter III for least developed countries that meet the poverty and other eligibility criteria established by the International Bank for Reconstruction and Development for financing under the International Development Association, the Administrator may pay the transportation costs incurred in moving the agricultural commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs.
 
 #### (2) Freight procurement
 
-&emsp;Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e),3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or other similar provisions of law relating to the making or performance of Federal Government contracts, ocean transportation under subchapters III and III–A of this chapter may be procured on the basis of full and open competitive procedures. Resulting contracts may contain such terms and conditions as the Administrator determines are necessary and appropriate.
+&emsp;Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or other similar provisions of law relating to the making or performance of Federal Government contracts, ocean transportation under subchapters III and III–A may be procured on the basis of full and open competitive procedures. Resulting contracts may contain such terms and conditions as the Administrator determines are necessary and appropriate.
 
 #### (3) Avoidance of conflict of interest
 
-&emsp;Freight agents employed by the Agency for International Development under subchapters III and III–A of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
+&emsp;Freight agents employed by the Agency for International Development under subchapters III and III–A shall not represent any foreign government during the period of their contract with the United States Government.
 
 #### (4) Prepositioning
 
 #### (A) In general
 
-&emsp;&emsp;Funds made available for fiscal years 2001 through 2012 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $10,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+&emsp;&emsp;Funds made available for fiscal years 2001 through 2018 to carry out subchapters III and III-A may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
 #### (B) Additional prepositioning sites
 
-#### (i) Feasibility assessments
-
-&emsp;&emsp;&emsp;The Administrator may carry out assessments for the establishment of not less than 2 sites to determine the feasibility of, and costs associated with, using the sites to store and handle agricultural commodities for prepositioning in foreign countries.
-
-#### (ii) Establishment of sites
-
-&emsp;&emsp;&emsp;Based on the results of each assessment carried out under clause (i), the Administrator may establish additional sites for prepositioning in foreign countries.
+&emsp;&emsp;The Administrator may establish additional sites for prepositioning in foreign countries or change the location of current sites for prepositioning in foreign countries after conducting, and based on the results of, assessments of need, the availability of appropriate technology for long-term storage, feasibility, and cost.
 
 #### (5) Nonemergency or multiyear agreements
 
@@ -96,9 +90,9 @@ In determining the timing of the shipment of agricultural commodities to be prov
 
 &emsp;(2) such other concerns determined to be appropriate.
 
-#### (e) Deadline for agreements under subchapters II and III–A of this chapter
+#### (e) Deadline for agreements under subchapters II and III–A
 
-An agreement under subchapters II and III–A of this chapter shall, to the extent practicable, be entered into not later than—
+An agreement under subchapters II and III–A shall, to the extent practicable, be entered into not later than—
 
 &emsp;(1) November 30 of the first fiscal year in which agricultural commodities are to be shipped under the agreement; or
 
@@ -108,7 +102,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 #### (f) Annual reports
 
-#### (1) Annual report regarding agricultural trade programs and activities
+#### (1) Annual report regarding food aid programs and activities
 
 #### (A) Annual report
 
@@ -120,13 +114,15 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;&emsp;&emsp;(i) a list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization);
 
-&emsp;&emsp;&emsp;(ii) a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies);
+&emsp;&emsp;&emsp;(ii) a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies) and the total number of beneficiaries of the project and the activities carried out through such project;
 
-&emsp;&emsp;&emsp;(iii) a statement describing the quantity of agricultural commodities made available to each country pursuant to—
+&emsp;&emsp;&emsp;(iii) a statement describing the quantity of agricultural commodities made available to, and the total number of beneficiaries in, each country pursuant to—
 
-&emsp;&emsp;&emsp;&emsp;(I) section 1431(b) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) section 1431(b) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) the Food for Progress Act of 1985 (7 U.S.C. 1736o);
+&emsp;&emsp;&emsp;&emsp;(II) the Food for Progress Act of 1985 (7 U.S.C. 1736o); and
+
+&emsp;&emsp;&emsp;&emsp;(III) the McGovern-Dole International Food for Education and Child Nutrition Program established by section 1736o–1 of this title;
 
 &emsp;&emsp;&emsp;(iv) an assessment of the progress made through programs under this chapter towards reducing food insecurity in the populations receiving food assistance from the United States;
 
@@ -144,7 +140,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 #### (A) Annual report
 
-&emsp;&emsp;Not later than February 1 of each fiscal year, the Administrator shall prepare andsubmit to the appropriate committees of Congress a report regarding the administration of food assistance programs under subchapter III to benefit foreign countries during the prior fiscal year.
+&emsp;&emsp;Not later than February 1 of each fiscal year, the Administrator shall prepare and submit to the appropriate committees of Congress a report regarding the administration of food assistance programs under subchapter III to benefit foreign countries during the prior fiscal year.
 
 #### (B) Contents
 
@@ -154,7 +150,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;&emsp;&emsp;(ii) a statement that contains a description of the total amount of funds approved for transportation and administrative costs under section 1726a of this title.
 
-(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827.)
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827; Pub. L. 113–79, title III, §§3009, 3010, Feb. 7, 2014, 128 Stat. 776, 777.)
 
 #### References in Text
 
@@ -165,6 +161,26 @@ The Food for Progress Act of 1985, referred to in subsec. (f)(1)(B)(iii)(II), is
 In subsec. (c)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(4)(A). Pub. L. 113–79, §3009(1), substituted "2018" for "2012" and "for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds" for "for each such fiscal year not more than $10,000,000 of such funds".
+
+Subsec. (c)(4)(B). Pub. L. 113–79, §3009(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows:
+
+"(i)
+
+Feasibility assessments.—The Administrator may carry out assessments for the establishment of not less than 2 sites to determine the feasibility of, and costs associated with, using the sites to store and handle agricultural commodities for prepositioning in foreign countries.
+
+"(ii)
+
+Establishment of sites.—Based on the results of each assessment carried out under clause (i), the Administrator may establish additional sites for prepositioning in foreign countries."
+
+Subsec. (f)(1). Pub. L. 113–79, §3010(1), substituted "food aid" for "agricultural trade" in heading.
+
+Subsec. (f)(1)(B)(ii). Pub. L. 113–79, §3010(2), inserted "and the total number of beneficiaries of the project and the activities carried out through such project" before semicolon at end.
+
+Subsec. (f)(1)(B)(iii). Pub. L. 113–79, §3010(3)(A), inserted ", and the total number of beneficiaries in," after "commodities made available to" in introductory provisions.
+
+Subsec. (f)(1)(B)(iii)(III). Pub. L. 113–79, §3010(3)(B)–(D), added subcl. (III).
 
 <b>2008</b>—Subsec. (c)(4). Pub. L. 110–246, §3017(1), designated existing provisions as subpar. (A), inserted heading, substituted "2012" for "2007" and "$10,000,000" for "$2,000,000", and added subpar. (B).
 
@@ -188,7 +204,7 @@ Subsec. (b)(1)(A), (2)(A). Pub. L. 104–127, §216(2), inserted "importer or" b
 
 Subsec. (c)(2). Pub. L. 104–127, §216(3)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "No purchase of agricultural commodities from private stocks or purchase of ocean transportation services by the United States Government shall be financed under subchapters III and III–A of this chapter unless such purchases are made on the basis of full and open competition utilizing such procedures as are determined necessary and appropriate by the Administrator."
 
-Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: "Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate."
+Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: "Notwithstanding any provision of the Federal Property andAdministrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate."
 
 Subsec. (f)(2)(D). Pub. L. 104–127, §216(4), added subpar. (D).
 

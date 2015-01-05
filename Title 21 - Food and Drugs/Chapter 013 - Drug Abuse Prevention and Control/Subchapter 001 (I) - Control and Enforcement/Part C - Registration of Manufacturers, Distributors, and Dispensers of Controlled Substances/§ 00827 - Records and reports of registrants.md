@@ -58,7 +58,7 @@ In the case of a drug product containing gamma hydroxybutyric acid for which an 
 
 &emsp;(1) That every person who is registered as a manufacturer of bulk or dosage form, as a packager, repackager, labeler, relabeler, or distributor shall report acquisition and distribution transactions quarterly, not later than the 15th day of the month succeeding the quarter for which the report is submitted, and annually report end-of-year inventories.
 
-&emsp;(2) That all annual inventory reports shall be filed no later than January 15 of the year following that for which the report is submitted and include data on the stocks of the drug product, drug substance, bulk drug, and dosageforms on hand as of the close of business December 31, indicating whether materials reported are in storage or in process of manufacturing.
+&emsp;(2) That all annual inventory reports shall be filed no later than January 15 of the year following that for which the report is submitted and include data on the stocks of the drug product, drug substance, bulk drug, and dosage forms on hand as of the close of business December 31, indicating whether materials reported are in storage or in process of manufacturing.
 
 &emsp;(3) That every person who is registered as a manufacturer of bulk or dosage form shall report all manufacturing transactions both inventory increases, including purchases, transfers, and returns, and reductions from inventory, including sales, transfers, theft, destruction, and seizure, and shall provide data on material manufactured, manufactured from other material, use in manufacturing other material, and use in manufacturing dosage forms.
 
@@ -66,7 +66,7 @@ In the case of a drug product containing gamma hydroxybutyric acid for which an 
 
 &emsp;(5) That each dispensing practitioner shall maintain for each prescription the name of the prescribing practitioner, the prescribing practitioner's Federal and State registration numbers, with the expiration dates of these registrations, verification that the prescribing practitioner possesses the appropriate registration to prescribe this controlled substance, the patient's name and address, the name of the patient's insurance provider and documentation by a medical practitioner licensed and registered to prescribe the drug of the patient's medical need for the drug. Such information shall be available for inspection and copying by the Attorney General.
 
-&emsp;(6) That section 830(b)(3) of this title (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to the same extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
+&emsp;(6) That section 830(b)(3) of this title (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to thesame extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
 
 (Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, §3(c), Oct. 15, 2008, 122 Stat. 4824.)
 

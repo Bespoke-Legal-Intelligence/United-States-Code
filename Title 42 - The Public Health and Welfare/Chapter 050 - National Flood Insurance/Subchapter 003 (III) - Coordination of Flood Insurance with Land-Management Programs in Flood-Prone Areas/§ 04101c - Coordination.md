@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Homeland Security, the Administrator, the Director of the Office of Management and Budget, and the heads of each Federal department or agency carrying out activities under sections 4101a and 4101b of this title shall work together to ensure that flood risk determination data and geospatial data are shared among Federal agencies in order to coordinate the efforts of the Nation to reduce its vulnerability to flooding hazards.
+&emsp;The Secretary of Homeland Security, the Administrator, the Director of the Office of Management and Budget, and the heads ofeach Federal department or agency carrying out activities under sections 4101a and 4101b of this title shall work together to ensure that flood risk determination data and geospatial data are shared among Federal agencies in order to coordinate the efforts of the Nation to reduce its vulnerability to flooding hazards.
 
 #### (2) Report
 

@@ -8,9 +8,9 @@
 
 #### (2) Form of joint resolution
 
-&emsp;(A) The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: “That the Congress declares that the conditions specified in section 254(j) <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985.”
+&emsp;(A) The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: "That the Congress declares that the conditions specified in section 254(j) <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985."
 
-&emsp;(B) The title of the joint resolution shall be “Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985.”; and the joint resolution shall not contain any preamble.
+&emsp;(B) The title of the joint resolution shall be "Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985."; and the joint resolution shall not contain any preamble.
 
 #### (3) Committee action
 
@@ -38,7 +38,7 @@
 
 #### (b) Suspension of sequestration procedures
 
-Upon the enactment of a declaration of war or a joint resolution described in subsection (a) of this section—
+Upon the enactment of a declaration of war or a joint resolution described in subsection (a)—
 
 &emsp;(1) the subsequent issuance of any sequestration report or any sequestration order is precluded;
 
@@ -48,9 +48,9 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 #### (c) Restoration of sequestration procedures
 
-(1) In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) of this section triggered by that declaration of war are no longer effective.
+(1) In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) triggered by that declaration of war are no longer effective.
 
-(2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a) of this section, then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) of this section triggered by that resolution are no longer effective.
+(2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a), then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) triggered by that resolution are no longer effective.
 
 (Pub. L. 99–177, title II, §258, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–593; amended Pub. L. 113–67, div. A, title I, §121(10), Dec. 26, 2013, 127 Stat. 1175.)
 
@@ -72,7 +72,7 @@ A prior section 258 of Pub. L. 99–177 was classified to section 908 of this ti
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 113–67, which directed substitution of “section 254(i)” for “section 254(j)”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–67, which directed substitution of "section 254(i)" for "section 254(j)", was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

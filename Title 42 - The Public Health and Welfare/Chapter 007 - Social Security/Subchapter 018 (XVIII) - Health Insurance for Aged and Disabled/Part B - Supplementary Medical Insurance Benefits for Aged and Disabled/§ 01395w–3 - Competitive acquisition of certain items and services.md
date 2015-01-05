@@ -54,13 +54,13 @@
 
 #### (iii) Exclusion of certain areas in subsequent rounds of competitive acquisition programs
 
-&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programsunder this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
+&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programs under this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Rural areas.
 
 &emsp;&emsp;&emsp;&emsp;(II) Metropolitan statistical areas not selected under round 1 or round 2 with a population of less than 250,000.
 
-&emsp;&emsp;&emsp;&emsp;(III) Areas with a low population density within a metropolitan statistical area that is otherwise selected, as determined for purposes of paragraph (3)(A).
+&emsp;&emsp;&emsp;&emsp;(III) Areas with a low population density within a metropolitan statisticalarea that is otherwise selected, as determined for purposes of paragraph (3)(A).
 
 #### (E) Verification by OIG
 
@@ -208,7 +208,7 @@
 
 #### (ii) Subsequent disclosure
 
-&emsp;&emsp;&emsp;Not later than 10 days after such a supplier subsequently enters into a subcontracting relationship described in clause (i)(II), such supplier shall disclose to the Secretary, in such form and manner, the information described in subclauses (I) and (II) of clause (i).
+&emsp;&emsp;&emsp;Not later than 10 days after such a supplier subsequently enters into a subcontracting relationship described in clause (i)(II), such supplier shall discloseto the Secretary, in such form and manner, the information described in subclauses (I) and (II) of clause (i).
 
 #### (4) Limit on number of contractors
 
@@ -282,11 +282,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the competitive acquisition program for diabetic testing strips conducted after the first round of the competitive acquisition programs, if an entity does not demonstrate to the Secretary that its bid covers types of diabetic testing strip products that, in the aggregate and taking into account volume for the different products, cover 50 percent (or such higher percentage as the Secretary may specify) of all such types of products, the Secretary shall reject such bid. The volume for such types of products may be determined in accordancewith such data (which may be market based data) as the Secretary recognizes.
+&emsp;&emsp;With respect to the competitive acquisition program for diabetic testing strips conducted after the first round of the competitive acquisition programs, if an entity does not demonstrate to the Secretary that its bid covers types of diabetic testing strip products that, in the aggregate and taking into account volume for the different products, cover 50 percent (or such higher percentage as the Secretary may specify) of all such types of products, the Secretary shall reject such bid. The volume for such types of products may be determined in accordance with such data (which may be market based data) as the Secretary recognizes.
 
 #### (B) Study of types of testing strip products
 
-&emsp;&emsp;Before 2011, the Inspector General of the Department of Health and Human Services shall conduct a study to determine the types of diabetic testing strip products by volume that could be used to make determinations pursuant to subparagraph (A) for the first competition under the competitive acquisition program described in such subparagraph and submit to the Secretary a report on the results of the study. The Inspector General shall also conduct such a study and submit such a report before the Secretary conducts a subsequent competitive acquistion <sup>2</sup> program described in subparagraph (A).
+&emsp;&emsp;Before 2011, the Inspector General of the Department of Health and Human Services shall conduct a study to determine the types of diabetic testing strip products by volume that could be used to make determinations pursuant to subparagraph (A) for the first competition under the competitive acquisition program described in such subparagraphand submit to the Secretary a report on the results of the study. The Inspector General shall also conduct such a study and submit such a report before the Secretary conducts a subsequent competitive acquistion <sup>2</sup> program described in subparagraph (A).
 
 #### (11) No administrative or judicial review
 
@@ -364,7 +364,7 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92
 
 #### Prior Provisions
 
-A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L.100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
+A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
 
 #### Amendments
 
@@ -458,7 +458,7 @@ Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, as amended
 
 #### Study by GAO
 
-Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the UnitedStates shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
+Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 

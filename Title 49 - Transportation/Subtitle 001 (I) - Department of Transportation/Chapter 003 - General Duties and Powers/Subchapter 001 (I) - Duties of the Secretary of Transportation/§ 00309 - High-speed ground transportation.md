@@ -72,9 +72,9 @@
 
 &emsp;(E) a comparison of the projected costs of the various competing high-speed ground transportation technologies;
 
-&emsp;(F) recommendations for funding mechanisms, tax incentives, liability provisions, and changes in statutes and regulations necessary to facilitate the development of individual high-speed ground transportation systems and the completion of a nationwide high-speed ground transportation network;
+&emsp;(F) recommendations for funding mechanisms, tax incentives, liability provisions, and changes in statutes and regulations necessary to facilitate the development of individualhigh-speed ground transportation systems and the completion of a nationwide high-speed ground transportation network;
 
-&emsp;(G) an examination of the effect of the construction and operation of high-speed groundtransportation systems on regional employment and economic growth;
+&emsp;(G) an examination of the effect of the construction and operation of high-speed ground transportation systems on regional employment and economic growth;
 
 &emsp;(H) recommendations for the roles appropriate for local, regional, and State governments to facilitate construction of high-speed ground transportation systems, including the roles of regional economic development authorities;
 
@@ -136,7 +136,7 @@ Pub. L. 102–240, title I, §1036(b), Dec. 18, 1991, 105 Stat. 1978, provided t
 
 "(1)
 
-Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the 'Assistant Secretary'). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the 'Maglev Project Office'), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
+Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the 'Assistant Secretary'). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the 'Maglev Project Office'), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriateFederal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
 
 "(2)
 
@@ -220,7 +220,7 @@ Proprietary rights.—No trade secrets or commercial or financial information th
 
 &emsp;"(B)
 
-Commercial information.—The research, development, and use of any technology developed pursuant to an agreement reached pursuant to this subsection, including the terms under which any technology may be licensed and the resulting royaltiesmay be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701–3714). In addition, the Secretary and the Assistant Secretary may require any grant or contract recipient to assure that research and development be performed substantially in the United States and that the products embodying the inventions made under any agreement pursuant to this subsection or produced through the use of such inventions be manufactured substantially in the United States.
+Commercial information.—The research, development, and use of any technology developed pursuant to an agreement reached pursuant to this subsection, including the terms under which any technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701–3714). In addition, the Secretary and the Assistant Secretary may require any grant or contract recipient to assure that research and development be performed substantially in the United States and that the products embodying the inventions made under any agreement pursuant to this subsection or produced through the use of such inventions be manufactured substantially in the United States.
 
 "(6)
 

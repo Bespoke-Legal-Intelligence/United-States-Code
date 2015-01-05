@@ -30,7 +30,7 @@ Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, refer
 
 #### Codification
 
-"Magnuson-Stevens Fishery Conservation and Management Act" substituted for "Fishery Conservation and Management Act of 1976" in subsecs. (a) and (b)(2), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+"Magnuson-Stevens Fishery Conservation and Management Act" substituted for "Fishery Conservation and Management Act of 1976" in subsecs. (a) and (b)(2), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
 
 <i><sup>1</sup></i><i> So in original. Probably was meant to be "971–971h".</i>
 

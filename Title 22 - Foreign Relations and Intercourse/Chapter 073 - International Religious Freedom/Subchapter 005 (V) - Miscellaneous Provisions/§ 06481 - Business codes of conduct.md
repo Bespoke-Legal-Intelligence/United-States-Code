@@ -2,7 +2,7 @@
 
 #### (a) Congressional finding
 
-Congress recognizes the increasing importance of transnational corporations as global actors, and their potential for providing positive leadership in their host countries in the area of human rights.
+Congress recognizes the increasing importance of transnational corporations as global actors,and their potential for providing positive leadership in their host countries in the area of human rights.
 
 #### (b) Sense of Congress
 

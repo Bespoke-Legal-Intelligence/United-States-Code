@@ -1,0 +1,34 @@
+### §200301. Definitions
+
+In this chapter:
+
+&emsp;(1)
+
+Fund.—The term "Fund" means the Land and Water Conservation Fund established under section 200302 of this title.
+
+&emsp;(2)
+
+State.—The term "State" means a State, the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3171.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+200301(1)
+
+no source.
+
+200301(2)
+
+16 U.S.C. 460<i>l</i>–8(b)(5) (last sentence).
+
+Pub. L. 88–578, title I, §6(b)(5) (last sentence), formerly §5, Sept. 3, 1964, 78 Stat. 900; renumbered §6, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459; Pub. L. 94–422, title I, §101(3), Sept. 28, 1976, 90 Stat. 1315.
+

@@ -18,75 +18,28 @@ For purposes of this part—
 
 &emsp;The term "base gasoline" means gasoline which meets the following specifications:
 
-&nbsp;&nbsp;Specifications of Base Gasoline Used
+&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;as Basis for Reactivity Readjustment:
-
-&emsp;&emsp;&nbsp;API gravity
-
-57\.8&nbsp;
-
-&emsp;&emsp;&nbsp;Sulfur, ppm
-
-317&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;Color
-
-Purple
-
-&emsp;&emsp;&nbsp;Benzene, vol. %
-
-1\.35
-
-&emsp;&emsp;&nbsp;Reid vapor pressure
-
-8\.7&nbsp;
-
-&emsp;&emsp;&nbsp;Drivability
-
-1195&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;Antiknock index
-
-87\.3&nbsp;
-
-&nbsp;&nbsp;Distillation, D–86 °F
-
-&emsp;&emsp;&nbsp;IBP
-
-92&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;10%
-
-126&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;50%
-
-219&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;90%
-
-327&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;EP
-
-414&nbsp;&nbsp;
-
-&nbsp;&nbsp;Hydrocarbon Type, Vol. % FIA:
-
-&emsp;&emsp;&nbsp;Aromatics
-
-30\.9&nbsp;
-
-&emsp;&emsp;&nbsp;Olefins
-
-8\.2&nbsp;
-
-&emsp;&emsp;&nbsp;Saturates
-
-60\.9&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| Specifications of Base Gasoline Used as Basis for Reactivity Readjustment: |  |
+| API gravity | 57\.8&nbsp; |
+| Sulfur, ppm | 317&nbsp;&nbsp;&nbsp; |
+| Color | Purple |
+| Benzene, vol. % | 1\.35 |
+| Reid vapor pressure | 8\.7&nbsp; |
+| Drivability | 1195&nbsp;&nbsp;&nbsp; |
+| Antiknock index | 87\.3&nbsp; |
+| Distillation, D–86 °F |  |
+| IBP | 92&nbsp;&nbsp;&nbsp; |
+| 10% | 126&nbsp;&nbsp;&nbsp; |
+| 50% | 219    |
+| 90% | 327&nbsp;&nbsp;&nbsp; |
+| EP | 414&nbsp;&nbsp;&nbsp; |
+| Hydrocarbon Type, Vol. % FIA: |  |
+| Aromatics | 30\.9&nbsp; |
+| Olefins | 8\.2&nbsp; |
+| Saturates | 60\.9&nbsp; |
 
 > &emsp;The Administrator shall modify the definitions of NMOG, base gasoline, and the methods for making reactivity adjustments, to conform to the definitions and method used in California under the Low-Emission Vehicle and Clean Fuel Regulations of the California Air Resources Board, so long as the California definitions are, in the aggregate, at least as protective of public health and welfare as the definitions in this section.
 

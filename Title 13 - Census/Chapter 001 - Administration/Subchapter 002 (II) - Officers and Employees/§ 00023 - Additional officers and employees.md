@@ -1,10 +1,10 @@
 ### §23. Additional officers and employees
 
-(a) The Secretary may establish, at rates of compensation to be fixed by him without regard to the Classification Act of 1949, as many temporary positions as may be necessary to meet the requirements of the work provided for by law. Bureau employees who are transferred to any such temporary positions shall not lose their permanent civil service status by reason of the transfer. The Secretary may make appointments to such temporary positions in conformity with the civil service laws and rules.
+(a) The Secretary may establish, at rates of compensation to be fixed by him without regard to the Classification Act of 1949, as many temporary positions as may be necessary to meet the requirements of the work provided for by law. Bureau employees who are transferred toany such temporary positions shall not lose their permanent civil service status by reason of the transfer. The Secretary may make appointments to such temporary positions in conformity with the civil service laws and rules.
 
 (b) In addition to employees of the Department of Commerce, employees of other departments and independent offices of the Government may, with the consent of the head of the respective department or office, be employed and compensated for field work in connection with the work provided for by law without regard to section 301 of the Dual Compensation Act.
 
-(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees ofprivate organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
+(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees of private organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1014; Pub. L. 86–769, §2, Sept. 13, 1960, 74 Stat. 911; Pub. L. 88–448, title IV, §401(p), Aug. 19, 1964, 78 Stat. 492; Pub. L. 94–521, §12(b), Oct. 17, 1976, 90 Stat. 2465.)
 

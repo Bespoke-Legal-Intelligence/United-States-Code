@@ -10,7 +10,7 @@ The Secretary shall as soon as practicable after the seizure of the property giv
 
 #### (c) Sale of indivisible property
 
-If any property liable to levy is not divisible, so as to enable the Secretary by sale of a part thereof to raise the whole amount of the tax and expenses, the whole of such property shall be sold.
+If any property liable to levy is not divisible, so as to enable the Secretary by sale of a partthereof to raise the whole amount of the tax and expenses, the whole of such property shall be sold.
 
 #### (d) Time and place of sale
 
@@ -76,7 +76,7 @@ The owner of any property seized by levy may request that the Secretary sell suc
 
 &emsp;&emsp;<b>For restrictions on sale of seized property pending Tax Court decision, see section 6863(b)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 785; Pub. L. 89–719, title I, §104(d), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1570(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title VI, §6236(g), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 105–206, title III, §3441(a), (b), July 22, 1998, 112 Stat. 761.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 785; Pub. L. 89–719, title I, §104(d), Nov. 2, 1966, 80 Stat. 1137;Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1570(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title VI, §6236(g), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 105–206, title III, §3441(a), (b), July 22, 1998, 112 Stat. 761.)
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Subsec. (e)(4). Pub. L. 105–206, §3441(b), added par. (4).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3441(c), July 22, 1998, 112 Stat. 761, provided that: "The amendments made bythis section \[amending this section\] shall apply to sales made after the date of the enactment of this Act \[July 22, 1998\]."
+Pub. L. 105–206, title III, §3441(c), July 22, 1998, 112 Stat. 761, provided that: "The amendments made by this section \[amending this section\] shall apply to sales made after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1988 Amendment
 

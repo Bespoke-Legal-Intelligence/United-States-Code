@@ -26,7 +26,7 @@ Provisional Standards.—
 
 &emsp;(1)
 
-In general.—If the Secretary finds that the development or balloting of an intelligent transportation system standard jeopardizes the timely achievement of the objectives described in subsection (a), the Secretary may establish a provisional standard, after consultation with affected parties, using, to themaximum extent practicable, the work product of appropriate standards development organizations.
+In general.—If the Secretary finds that the development or balloting of an intelligent transportation system standard jeopardizes the timely achievement of the objectives described in subsection (a), the Secretary may establish a provisional standard, after consultation with affected parties, using, to the maximum extent practicable, the work product of appropriate standards development organizations.
 
 &emsp;(2)
 

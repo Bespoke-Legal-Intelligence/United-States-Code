@@ -26,7 +26,7 @@ Within thirty days after October 31, 1988, the Secretary shall give such notice 
 
 #### (c) Application deadline
 
-The deadline for application pursuant to this section shall be established at one hundred andtwenty days after the publication of the notice by the Secretary in the Federal Register as required by subsection (b) of this section.
+The deadline for application pursuant to this section shall be established at one hundred and twenty days after the publication of the notice by the Secretary in the Federal Register as required by subsection (b) of this section.
 
 #### (d) Eligibility determination; final roll
 

@@ -48,9 +48,9 @@ Exception for Purchases of Electronic Components.—Subsection (a) does not appl
 
 (h)
 
-Applicability to Acquisitions of Commercial Items.—(1) Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial items, notwithstanding sections 34 and 35 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 430 and 431).
+Applicability to Acquisitions of Commercial Items.—(1) Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial items, notwithstanding sections 1906 and 1907 of title 41.
 
-(2) This section does not apply to contracts or subcontracts for the acquisition of commercially available off-the-shelf items, as defined in section 35(c) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c)), other than—
+(2) This section does not apply to contracts or subcontracts for the acquisition of commercially available off-the-shelf items, as defined in section 104 of title 41, other than—
 
 &emsp;(A) contracts or subcontracts for the acquisition of specialty metals, including mill products, such as bar, billet, slab, wire, plate and sheet, that have not been incorporated into end items, subsystems, assemblies, or components;
 
@@ -130,9 +130,9 @@ Additional Definitions.—In this section:
 
 &emsp;(1) The term "United States" includes possessions of the United States.
 
-&emsp;(2) The term "component" has the meaning provided in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+&emsp;(2) The term "component" has the meaning provided in section 105 of title 41.
 
-&emsp;(3) The term "acquisition" has the meaning provided in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+&emsp;(3) The term "acquisition" has the meaning provided in section 131 of title 41.
 
 &emsp;(4) The term "required form" shall not apply to end items or to their components at any tier. The term "required form" means in the form of mill product, such as bar, billet, wire, slab, plate or sheet, and in the grade appropriate for the production of—
 
@@ -140,7 +140,7 @@ Additional Definitions.—In this section:
 
 &emsp;&emsp;(B) a finished component assembled into an end item delivered to the Department of Defense.
 
-&emsp;(5) The term "commercially available off-the-shelf", has the meaning provided in section 35(c) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c)).
+&emsp;(5) The term "commercially available off-the-shelf", has the meaning provided in section 104 of title 41.
 
 &emsp;(6) The term "assemblies" means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
 
@@ -152,17 +152,19 @@ Additional Definitions.—In this section:
 
 &emsp;(10) The term "subcontract" includes a subcontract at any tier.
 
-(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376.)
-
-#### References in Text
-
-Section 34 of the Office of Federal Procurement Policy Act, referred to in subsec. (h)(1), means section 34 of Pub. L. 93–400, which was classified to section 430 of former Title 41, Public Contracts, and was repealed and restated in section 1906 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
-
-Section 35 of the Office of Federal Procurement Policy Act, referred to in subsec. (h)(1), (2) and (m)(5), means section 35 of Pub. L. 93–400, which was classified to section 431 of former Title 41, Public Contracts. Subsecs. (a) and (b) of such section 35 were repealed and restated as section 1907 of Title 41, Public Contracts, and subsec. (c) of such section 35 was repealed and restated as section 104 of Title 41, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
-
-Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (m)(2), (3), means section 4 of Pub. L. 93–400, which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(1). Pub. L. 113–291, §1071(a)(10)(A)(i), substituted "sections 1906 and 1907 of title 41" for "sections 34 and 35 of the Office of Federal Procurement Policy Act (41 U.S.C. 430 and 431)".
+
+Subsec. (h)(2). Pub. L. 113–291, §1071(a)(10)(A)(ii), substituted "section 104 of title 41" for "section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))" in introductory provisions.
+
+Subsec. (m)(2). Pub. L. 113–291, §1071(a)(10)(B)(i), substituted "section 105 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
+
+Subsec. (m)(3). Pub. L. 113–291, §1071(a)(10)(B)(ii), substituted "section 131 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
+
+Subsec. (m)(5). Pub. L. 113–291, §1071(a)(10)(B)(iii), substituted "section 104 of title 41" for "section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))".
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 111–383, §1075(f)(2)(A), made technical amendment to directory language of Pub. L. 110–181, §804(a)(3). See 2008 Amendment note below.
 
@@ -184,7 +186,7 @@ Subsec. (d). Pub. L. 110–181, §804(f)(2), substituted "acquisition" for "proc
 
 Subsec. (f). Pub. L. 110–181, §804(f)(3), substituted "acquisitions" for "procurements".
 
-Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted "acquisitions" for "procurements" and "electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security." for "commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal."
+Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted "acquisitions" for "procurements" and "electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security." for "commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electroniccomponent produced that contains such specialty metal."
 
 Subsec. (h). Pub. L. 110–181, §804(b), amended heading and text generally. Prior to amendment, text read as follows: "This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)."
 
@@ -256,7 +258,7 @@ Authority.—The Secretary of Defense or the Secretary of a military department 
 
 &emsp;"(A) the contracting officer for the contract determines in writing that—
 
-&emsp;&emsp;"(i) it would not be practical or economical to remove or replace the specialty metals incorporatedin such items or to substitute items containing compliant materials;
+&emsp;&emsp;"(i) it would not be practical or economical to remove or replace the specialty metals incorporated in such items or to substitute items containing compliant materials;
 
 &emsp;&emsp;"(ii) the prime contractor and subcontractor responsible for providing items containing non-compliant materials have in place an effective plan to ensure compliance with section 2533b of title 10, United States Code (as so added), with regard to items containing specialty metals if such metals were incorporated into items produced, manufactured, or assembled in the United States after the date of the enactment of this Act \[Oct. 17, 2006\]; and
 
@@ -275,6 +277,4 @@ Definition.—In this subsection, the term 'FedBizOpps.gov' means the website ma
 "(4)
 
 Termination of authority.—A contracting officer may exercise the authority under this subsection only with respect to the delivery of items the final acceptance of which takes place after the date of the enactment of this Act \[Oct. 17, 2006\] and before September 30, 2010."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

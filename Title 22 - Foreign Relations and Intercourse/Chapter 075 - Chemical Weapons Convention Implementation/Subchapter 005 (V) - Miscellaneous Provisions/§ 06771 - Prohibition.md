@@ -10,7 +10,7 @@ Neither the Secretary of Defense nor any other officer or employee of the United
 
 #### (b) Construction
 
-Nothing in subsection (a) of this section may be construed to prohibit actions carried out for purposes not prohibited by this chapter (as defined in section 6701(8) of this title).
+Nothing in subsection (a) may be construed to prohibit actions carried out for purposes not prohibited by this chapter (as defined in section 6701(8) of this title).
 
 #### (c) "Biological agent" defined
 
@@ -26,5 +26,5 @@ In this section, the term "biological agent" means any micro-organism (including
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical WeaponsConvention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 

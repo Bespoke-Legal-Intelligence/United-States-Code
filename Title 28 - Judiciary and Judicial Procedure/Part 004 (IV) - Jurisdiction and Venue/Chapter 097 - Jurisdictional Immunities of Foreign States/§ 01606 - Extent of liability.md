@@ -6,7 +6,7 @@ As to any claim for relief with respect to which a foreign state is not entitled
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–386, §2002(g)(2), formerly §2002(f)(2), as renumbered by Pub. L. 107–297, which directed repealof section 101(h) \[title I, §117(b)\] of div. A of Pub. L. 105–277, was executed by striking out ", except any action under section 1605(a)(7) or 1610(f)" after "punitive damages", to reflect the probable intent of Congress. See 1998 Amendment note below.
+<b>2000</b>—Pub. L. 106–386, §2002(g)(2), formerly §2002(f)(2), as renumbered by Pub. L. 107–297, which directed repeal of section 101(h) \[title I, §117(b)\] of div. A of Pub. L. 105–277, was executed by striking out ", except any action under section 1605(a)(7) or 1610(f)" after "punitive damages", to reflect the probable intent of Congress. See 1998 Amendment note below.
 
 <b>1998</b>—Pub. L. 105–277 inserted ", except any action under section 1605(a)(7) or 1610(f)" after "punitive damages".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Submission of Air Carrier and Airport Plans.—Not later than 90 days after the date ofenactment of this section, each of the following air carriers and airport operators shall submit to the Secretary of Transportation for review and approval an emergency contingency plan in accordance with the requirements of this section:
+Submission of Air Carrier and Airport Plans.—Not later than 90 days after the date of enactment of this section, each of the following air carriers and airport operators shall submit to the Secretary of Transportation for review and approval an emergency contingency plan in accordance with the requirements of this section:
 
 &emsp;(1) An air carrier providing covered air transportation at a commercial airport.
 
@@ -42,7 +42,7 @@ Deplaning following an excessive tarmac delay.—For purposes of paragraph (2)(C
 
 &emsp;&emsp;(C) Notwithstanding the requirements described in subparagraphs (A) and (B), a passenger shall not have an option to deplane an aircraft and return to the airport terminal in the case of an excessive tarmac delay if—
 
-&emsp;&emsp;&emsp;(i) an air traffic controller with authority over the aircraft advises the pilot in command that permitting a passenger to deplane would significantly disrupt airport operations; or
+&emsp;&emsp;&emsp;(i) an air traffic controller with authority over the aircraft advises the pilot incommand that permitting a passenger to deplane would significantly disrupt airport operations; or
 
 &emsp;&emsp;&emsp;(ii) the pilot in command determines that permitting a passenger to deplane would jeopardize passenger safety or security.
 

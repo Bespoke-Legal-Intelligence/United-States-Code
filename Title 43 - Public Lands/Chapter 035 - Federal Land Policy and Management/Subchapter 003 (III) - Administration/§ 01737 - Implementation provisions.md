@@ -20,7 +20,7 @@ The Secretary may recruit, without regard to the civil service classification la
 
 In accepting such services of individuals as volunteers, the Secretary—
 
-&emsp;(1) shall not permit the use of volunteers in hazardous duty or law enforcement work, or in policymaking processes or to displace any employee; and
+&emsp;(1) shall not permit the use of volunteers in hazardous duty or law enforcement work, or inpolicymaking processes or to displace any employee; and
 
 &emsp;(2) may provide for services or costs incidental to the utilization of volunteers, including transportation, supplies, lodging, subsistence, recruiting, training, and supervision.
 

@@ -84,7 +84,7 @@ Under the general supervision of the Secretary, the Graduate School shall develo
 
 #### (3) Appointment of Director and other officers
 
-&emsp;The Board shall select a Director and such other officers as the Board considers necessaryto administer the Graduate School. The Director and other officers shall serve on such terms and perform such duties as the Board may prescribe.
+&emsp;The Board shall select a Director and such other officers as the Board considers necessary to administer the Graduate School. The Director and other officers shall serve on such terms and perform such duties as the Board may prescribe.
 
 #### (4) Duties of Director
 
@@ -134,11 +134,11 @@ The Graduate School may enter into contracts without regard to chapters 1 to 11 
 
 #### (j) Use of Department facilities and resources
 
-The Graduate School may use the facilities and resources of the Department of Agriculture, on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
+The Graduate School may use the facilities and resources of the Department of Agriculture,on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
 
 #### (k) Audits of records
 
-The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c) of this section) shall be made available to the Comptroller General for purposes of conducting an audit.
+The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c)) shall be made available to the Comptroller General for purposes of conducting an audit.
 
 (Pub. L. 104–127, title IX, §921, Apr. 4, 1996, 110 Stat. 1191; Pub. L. 107–171, title X, §10705(a), May 13, 2002, 116 Stat. 518; Pub. L. 110–234, title XIV, §14213(a), May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, §4(a), title XIV, §14213(a), June 18, 2008, 122 Stat. 1664, 2227.)
 
@@ -170,7 +170,7 @@ Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided th
 
 #### Procurement Procedures
 
-Pub. L. 110–234, title XIV, §14213(b), May 22, 2008, 122 Stat. 1466, and Pub. L. 110–246, §4(a), title XIV, §14213(b), June 18, 2008, 122 Stat. 1664, 2228, provided that: "Notwithstanding the amendments made by subsection (a) \[amending this section\], effective on the date of the enactment of this Act \[June 18, 2008\], theGraduate School of the Department of Agriculture shall be subject to Federal procurement laws and regulations in the same manner and subject to the same requirements as a private entity providing services to the Federal Government."
+Pub. L. 110–234, title XIV, §14213(b), May 22, 2008, 122 Stat. 1466, and Pub. L. 110–246, §4(a), title XIV, §14213(b), June 18, 2008, 122 Stat. 1664, 2228, provided that: "Notwithstanding the amendments made by subsection (a) \[amending this section\], effective on the date of the enactment of this Act \[June 18, 2008\], the Graduate School of the Department of Agriculture shall be subject to Federal procurement laws and regulations in the same manner and subject to the same requirements as a private entity providing services to the Federal Government."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

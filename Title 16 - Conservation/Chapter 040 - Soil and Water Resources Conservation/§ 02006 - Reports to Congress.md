@@ -12,7 +12,7 @@ Not later than the date on which Congress convenes in 2012 and 2017, the Preside
 
 &emsp;(2) a detailed statement of policy regarding soil and water conservation activities of the Department of Agriculture; and
 
-&emsp;(3) a special evaluation of the status, conditions, and trends of soil quality on cropland inthe United States that addresses the challenges and opportunities for reducing soil erosion to tolerance levels.
+&emsp;(3) a special evaluation of the status, conditions, and trends of soil quality on cropland in the United States that addresses the challenges and opportunities for reducing soil erosion to tolerance levels.
 
 #### (c) Improvements to appraisal and program
 

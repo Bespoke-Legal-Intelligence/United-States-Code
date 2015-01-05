@@ -48,7 +48,7 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 &emsp;&emsp;&emsp;(ii) any distributor who controls a minimum number of channels (as specified by Commission regulation) using a Ku-band fixed service satellite system for the provision of video programming directly to the home and licensed under part 25 of title 47 of the Code of Federal Regulations.
 
-&emsp;&emsp;(B) The term "national educational programming supplier" includes any qualifiednoncommercial educational television station, other public telecommunications entities, and public or private educational institutions.
+&emsp;&emsp;(B) The term "national educational programming supplier" includes any qualified noncommercial educational television station, other public telecommunications entities, and public or private educational institutions.
 
 &emsp;&emsp;(C) The term "qualified satellite provider" means any provider of direct broadcast satellite service that—
 

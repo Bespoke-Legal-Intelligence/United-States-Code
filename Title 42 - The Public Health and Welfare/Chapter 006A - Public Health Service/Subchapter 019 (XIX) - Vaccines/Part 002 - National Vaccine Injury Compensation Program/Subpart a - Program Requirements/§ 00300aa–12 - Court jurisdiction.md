@@ -96,7 +96,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (e) Action by United States Court of Federal Claims
 
-(1) Upon issuance of the special master's decision, the parties shall have 30 days to file withthe clerk of the United States Court of Federal Claims a motion to have the court review the decision. If such a motion is filed, the other party shall file a response with the clerk of the United States Court of Federal Claims no later than 30 days after the filing of such motion.
+(1) Upon issuance of the special master's decision, the parties shall have 30 days to file with the clerk of the United States Court of Federal Claims a motion to have the court review the decision. If such a motion is filed, the other party shall file a response with the clerk of the United States Court of Federal Claims no later than 30 days after the filing of such motion.
 
 (2) Upon the filing of a motion under paragraph (1) with respect to a petition, the United States Court of Federal Claims shall have jurisdiction to undertake a review of the record of the proceedings and may thereafter—
 
@@ -156,7 +156,7 @@ Subsec. (g). Pub. L. 101–502, §5(b)(2), added subsec. (g).
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §6601(d), substituted "and the United States Claims Court special masters shall, in accordance with this section, have jurisdiction" for "shall have jurisdiction (1)", ". The United States Claims Court may issue" for ", and (2) to issue", and "deems" for "deem".
 
-Subsec. (b)(1). Pub. L. 101–239, §6601(f), substituted "In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall berepresented in accordance with section 518(a) of title 28." for "The Secretary shall be named as the respondent in all proceedings brought by the filing of a petition under section 300aa–11(b) of this title. Except as provided in paragraph (2), no other person may intervene in any such proceeding."
+Subsec. (b)(1). Pub. L. 101–239, §6601(f), substituted "In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28." for "The Secretary shall be named as the respondent in all proceedings brought by the filing of a petition under section 300aa–11(b) of this title. Except as provided in paragraph (2), no other person may intervene in any such proceeding."
 
 Subsec. (c). Pub. L. 101–239, §6601(e)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 

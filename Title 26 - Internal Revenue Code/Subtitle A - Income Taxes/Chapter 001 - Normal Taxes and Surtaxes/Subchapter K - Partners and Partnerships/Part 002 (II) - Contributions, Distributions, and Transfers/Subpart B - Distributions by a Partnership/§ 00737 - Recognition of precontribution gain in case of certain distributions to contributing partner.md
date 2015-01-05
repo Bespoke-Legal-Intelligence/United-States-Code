@@ -34,7 +34,7 @@ For purposes of this section, the term "net precontribution gain" means the net 
 
 #### (1) Distributions of previously contributed property
 
-&emsp;If any portion of the property distributed consists of property which had been contributed by the distributee partner to the partnership, such property shall not be taken into account under subsection (a)(1) and shall not be taken into account in determining the amount of the net precontribution gain. If the property distributed consists of an interest in an entity, the preceding sentence shall not apply to the extent that the value of such interest is attributable to property contributed to such entity after such interest had been contributed to the partnership.
+&emsp;If any portion of the property distributed consists of property which had been contributed by the distributee partner to the partnership, such property shall not be taken into account under subsection (a)(1) and shall not be taken into account in determining the amount of the net precontribution gain. If the property distributed consists of an interest in an entity, the preceding sentence shall not applyto the extent that the value of such interest is attributable to property contributed to such entity after such interest had been contributed to the partnership.
 
 #### (2) Coordination with section 751
 

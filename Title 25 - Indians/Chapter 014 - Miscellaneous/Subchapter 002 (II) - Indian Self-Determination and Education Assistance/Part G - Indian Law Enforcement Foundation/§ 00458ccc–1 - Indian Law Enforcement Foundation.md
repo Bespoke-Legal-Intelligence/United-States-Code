@@ -80,7 +80,7 @@ The Foundation shall—
 
 &emsp;&emsp;&emsp;The initial voting members of the Board—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be appointed by the Committee not later than 180 days after the dateon which the Foundation is established; and
+&emsp;&emsp;&emsp;&emsp;(I) shall be appointed by the Committee not later than 180 days after the date on which the Foundation is established; and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall serve for staggered terms.
 

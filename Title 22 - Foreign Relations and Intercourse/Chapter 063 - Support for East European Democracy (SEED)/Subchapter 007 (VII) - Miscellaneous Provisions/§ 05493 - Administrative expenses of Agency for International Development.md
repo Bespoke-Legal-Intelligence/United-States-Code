@@ -6,7 +6,7 @@ For the purpose of paying administrative expenses incurred in connection with ca
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code,see Short Title note set out under section 5401 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
 #### Administrative Expenses of Agency for International Development for Fiscal Year 1991; Supersedure of Section
 

@@ -50,7 +50,7 @@ The holder of a loan guarantee under this chapter may assign the loan guaranteed
 
 #### (d) Expiration of loan guarantee upon stripping
 
-Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
+Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chaptershall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
 
 #### (e) Adjustment
 
@@ -178,7 +178,7 @@ No attachment or execution may be issued against the Administrator or any proper
 
 #### (p) Effect of bankruptcy
 
-(1) Notwithstanding any other provision of law, whenever any person or entity is indebtedto the United States as a result of any loan guarantee issued under this chapter and such person or entity is insolvent or is a debtor in a case under title 11, the debts due to the United States shall be satisfied first.
+(1) Notwithstanding any other provision of law, whenever any person or entity is indebted to the United States as a result of any loan guarantee issued under this chapter and such person or entity is insolvent or is a debtor in a case under title 11, the debts due to the United States shall be satisfied first.
 
 (2) A discharge in bankruptcy under title 11 shall not release a person or entity from an obligation to the United States in connection with a loan guarantee under this chapter.
 

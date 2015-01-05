@@ -70,7 +70,7 @@
 
 <b>1996</b>—Pub. L. 104–201, div. A, title XVI, §1633(c)(3), Sept. 23, 1996, 110 Stat. 2751, substituted "Civilian Defense Intelligence Employees" for "Defense Intelligence Agency and Central Imagery Office Civilian Personnel" in item for chapter 83.
 
-Pub. L. 104–106, div. A, title V, §§568(a)(2), 569(b)(2), title X, §1061(a)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442,added items for chapters 76 and 88 and struck out item for chapter 89 "Volunteers Investing in Peace and Security".
+Pub. L. 104–106, div. A, title V, §§568(a)(2), 569(b)(2), title X, §1061(a)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out item for chapter 89 "Volunteers Investing in Peace and Security".
 
 <b>1994</b>—Pub. L. 103–359, title V, §501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted "Defense Intelligence Agency and Central Imagery Office Civilian Personnel" for "Defense Intelligence Agency Civilian Personnel" in item for chapter 83.
 
@@ -112,7 +112,7 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 #### Enhanced Protections for Prospective Members and New Members of the Armed Forces During Entry-Level Processing and Training
 
-Pub. L. 113–66, div. A, title XVII, §1741, Dec. 26, 2013, 127 Stat. 977, provided that:
+Pub. L. 113–66, div. A, title XVII, §1741, Dec. 26, 2013, 127 Stat. 977, as amended by Pub. L. 113–291, div. A, title V, §531(e), Dec. 19, 2014, 128 Stat. 3364, provided that:
 
 "(a)
 
@@ -156,7 +156,7 @@ In general.—(A) The Secretary of Defense and the Secretary of the Department i
 
 &emsp;"(2)
 
-Required elements.—(A) In imposing the requirement under paragraph (1), the Secretaries shall ensure that any separation decision regarding a member of the Armed Forces is based on the full facts of the case and that due process procedures are provided under existing law or regulations or additionally prescribed, as considered necessary by the Secretaries, pursuant to subsection (f).
+Required elements.—(A) In imposing the requirement under paragraph (1), the Secretaries shall ensure that any separation decision regarding a member of the Armed Forces is based on the full facts of the case and that due process procedures are providedunder existing law or regulations or additionally prescribed, as considered necessary by the Secretaries, pursuant to subsection (f).
 
 &emsp;"(B) The requirement imposed by paragraph (1) shall not be interpreted to limit or alter the authority of the Secretary of a military department and the Secretary of the Department in which the Coast Guard is operating to process members of the Armed Forces for administrative separation—
 
@@ -182,7 +182,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'entry-level processing or training', with respect to a member of the Armed Forces, means the period beginning on the date on which the member became a member of the Armed Forces and ending on the date on which the member physically arrives at that member's first duty assignment following completion of initial entry training (or its equivalent), as defined by the Secretary of the military department concerned or the Secretary of the Department in which the Coast Guard is operating.
 
-&emsp;"(2) The term 'prospective member of the Armed Forces' means a person who has had a face-to-face meeting with a member of the Armed Forces assigned or attached to duty described in subsection (a)(3)(A) regarding becoming a member of the Armed Forces, regardless of whether the person eventually becomes a member of the Armed Forces.
+&emsp;"(2) The term 'prospective member of the Armed Forces' means a person who is pursuing or has recently pursued becoming a member of the Armed Forces and who has had a face-to-face meeting with a member of the Armed Forces assigned or attached to duty described in subsection (a)(3)(A) regarding becoming a member of the Armed Forces, regardless of whether the person eventually becomes a member of the Armed Forces.
 
 "(f)
 

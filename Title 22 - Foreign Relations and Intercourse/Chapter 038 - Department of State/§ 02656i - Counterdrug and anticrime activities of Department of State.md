@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) all budgetary requests and transfers of equipment (including the financing of foreign military sales and the transfer of excess defense articles) relating to international counterdrug efforts conforms with the objectives; and
 
-&emsp;&emsp;&emsp;(ii) the recommendations of the Department regarding certification determinations made by the President on March 1 as to the counterdrug cooperation, or adequate steps on its own, of each major illicit drug producing and drug trafficking country to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances also conform to meet such objectives.
+&emsp;&emsp;&emsp;(ii) the recommendations of the Department regarding certification determinations made by the President on March 1 asto the counterdrug cooperation, or adequate steps on its own, of each major illicit drug producing and drug trafficking country to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances also conform to meet such objectives.
 
 #### (3) Reports
 
@@ -58,7 +58,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Consistent with existing memoranda of understanding between the Department of State and other departments and agencies ofthe United States, including the Department of Justice, the chief of mission of every diplomatic mission of the United States shall designate an officer or officers within the mission to carry out the responsibility of the mission under paragraph (1), including the coordination of counterdrug, law enforcement, rule of law, and administration of justice programs, policy, and assistance. Such officer or officers shall report to the chief of mission, or the designee of the chief of mission, on a regular basis regarding activities undertaken in carrying out such responsibility.
+&emsp;&emsp;Consistent with existing memoranda of understanding between the Department of State and other departments and agencies of the United States, including the Department of Justice, the chief of mission of every diplomatic mission of the United States shall designate an officer or officers within the mission to carry out the responsibility of the mission under paragraph (1), including the coordination of counterdrug, law enforcement, rule of law, and administration of justice programs, policy, and assistance. Such officer or officers shall report to the chief of mission, or the designee of the chief of mission, on a regular basis regarding activities undertaken in carrying out such responsibility.
 
 #### (B) Reports
 

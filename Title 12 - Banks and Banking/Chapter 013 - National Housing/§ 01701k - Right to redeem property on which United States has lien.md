@@ -1,6 +1,6 @@
 ### §1701k. Right to redeem property on which United States has lien
 
-The right to redeem provided for by section 2410(c) of title 28, shall not arise in any case inwhich the subordinate lien or interest of the United States derives from the issuance of insurance under the National Housing Act, as amended \[12 U.S.C. 1701 et seq.\].
+The right to redeem provided for by section 2410(c) of title 28, shall not arise in any case in which the subordinate lien or interest of the United States derives from the issuance of insurance under the National Housing Act, as amended \[12 U.S.C. 1701 et seq.\].
 
 (Apr. 20, 1950, ch. 94, title V, §505, 64 Stat. 81; Pub. L. 85–857, §13(q), Sept. 2, 1958, 72 Stat. 1266.)
 

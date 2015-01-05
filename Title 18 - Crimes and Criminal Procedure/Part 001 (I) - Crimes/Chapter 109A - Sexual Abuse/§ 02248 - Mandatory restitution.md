@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding section 3663 or 3663A, and in addition to any other civil orcriminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
+In General.—Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
 
 (b)
 
@@ -40,7 +40,7 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 &emsp;&emsp;(i) the economic circumstances of the defendant; or
 
-&emsp;&emsp;(ii) the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
+&emsp;&emsp;(ii) the fact that a victim has, or is entitled to, receive compensation for his or herinjuries from the proceeds of insurance or any other source.
 
 (c)
 

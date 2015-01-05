@@ -4,5 +4,5 @@ Section, Pub. L. 92–181, title IV, §4.9A, as added Pub. L. 99–205, title I,
 
 #### Effective Date of Repeal
 
-Repeal effective immediately after enactment of Pub. L. 100–233, approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Repeal effective immediately after enactment of Pub. L. 100–233, approved Jan. 6, 1988, see section 1001(a) ofPub. L. 100–399, set out as a note under section 2002 of this title.
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(iii) remaining overnight at or in the vicinity of that place immediately before so serving, if the place is outside reasonable commuting distance from the member's residence.
 
-(2) In the case of a member who receives earned income from nonmilitary employment or self-employment performed in any month in which the member is otherwise entitled to payand allowances under paragraph (1), the total pay and allowances shall be reduced by the amount of such income. In calculating earned income for the purpose of the preceding sentence, income from an income protection plan, vacation pay, or sick leave which the member elects to receive shall be considered.
+(2) In the case of a member who receives earned income from nonmilitary employment or self-employment performed in any month in which the member is otherwise entitled to pay and allowances under paragraph (1), the total pay and allowances shall be reduced by the amount of such income. In calculating earned income for the purpose of the preceding sentence, income from an income protection plan, vacation pay, or sick leave which the member elects to receive shall be considered.
 
 (h)(1) A member of a reserve component of a uniformed service who is physically able to perform his military duties, is entitled, upon request, to a portion of the monthly pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service for each month for which the member demonstrates a loss of earned income from nonmilitary employment or self-employment as a result of an injury, illness, or disease incurred or aggravated—
 
@@ -152,7 +152,7 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, §2, 64 Stat. 195.
 
 \[The citations to section 232(d) of existing title 37, above, are to the language of subsection (d) set forth in the codification note under section 232, rather than that erroneously set forth in the text of the section.\]
 
-In subsection (a), the last 27 words are substituted for the words "or performance of the duties provided for by sections 5, 81, 94, 97 and 99 of the National Defense Act, as amended," to reflect the current citations. So much of the introductory clause as follows the exception is substituted for the 36 words preceding 1st proviso of 1stsentence of section 232(d) of existing title 37. The words "on the active list" are omitted as covered by the words "active duty" as defined in section 101(18) of this revised title. The words "(provided for or authorized in the National Defense Act, as amended, or in the Naval Reserve Act of 1938, as amended)" are omitted as covered by the words "provided by law".
+In subsection (a), the last 27 words are substituted for the words "or performance of the duties provided for by sections 5, 81, 94, 97 and 99 of the National Defense Act, as amended," to reflect the current citations. So much of the introductory clause as follows the exception is substituted for the 36 words preceding 1st proviso of 1st sentence of section 232(d) of existing title 37. The words "on the active list" are omitted as covered by the words "active duty" as defined in section 101(18) of this revised title. The words "(provided for or authorized in the National Defense Act, as amended, or in the Naval Reserve Act of 1938, as amended)" are omitted as covered by the words "provided by law".
 
 In subsection (b), the words "For the purposes of subsection (a)" are inserted for clarity. The words "active duty for a period of more than 30 days" are substituted for the words "extended active duty in excess of thirty days". The words "call or" are inserted to conform to the words "called or".
 
@@ -228,7 +228,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(c)(1)\], Oct. 30, 2000, 114
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
 #### Effective Date of 1988 Amendment
 

@@ -240,7 +240,7 @@ Financial plan.—A financial plan—
 
 &emsp;&emsp;(B) shall provide for the annual submission of updates to the Secretary that are based on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project;
 
-&emsp;&emsp;(C) may include a phasing plan that identifies fundable incremental improvements or phases that will address the purpose and the need of the project in the short term in the event there are insufficient financial resources to complete the entire project. If aphasing plan is adopted for a project pursuant to this section, the project shall be deemed to satisfy the fiscal constraint requirements in the statewide and metropolitan planning requirements in sections 134 and 135; and
+&emsp;&emsp;(C) may include a phasing plan that identifies fundable incremental improvements or phases that will address the purpose and the need of the project in the short term in the event there are insufficient financial resources to complete the entire project. If a phasing plan is adopted for a project pursuant to this section, the project shall be deemed to satisfy the fiscal constraint requirements in the statewide and metropolitan planning requirements in sections 134 and 135; and
 
 &emsp;&emsp;(D) shall assess the appropriateness of a public-private partnership to deliver the project.
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) shall descend according to an applicable tribal probate code approved in accordance with section 2205 of this title; or
 
-&emsp;&emsp;(B) in the case of a trust or restricted interest in land or interest in trust personalty to which a tribal probate code does not apply, shall descend in accordance with—
+&emsp;&emsp;(B) in the case of a trust or restricted interest in land or interest in trust personaltyto which a tribal probate code does not apply, shall descend in accordance with—
 
 &emsp;&emsp;&emsp;(i) paragraphs (2) through (5); and
 
@@ -52,7 +52,7 @@
 
 #### (ii) Contiguous parcel
 
-&emsp;&emsp;&emsp;If the interests passing to the United States under this subparagraph are in a parcel of land that is contiguous to another parcel of trust or restricted land, the Secretary shall give the owner or owners of the trust or restricted interest in the contiguous parcel the first opportunity to purchase the interest at not less than fair market value determined in accordance with this chapter. If more than 1 such owner in the contiguous parcel request to purchase the parcel, the Secretary shall sell the parcel by public auction or sealed bid (as determined by the Secretary) at not less than fair market value to theowner of a trust or restricted interest in the contiguous parcel submitting the highest bid.
+&emsp;&emsp;&emsp;If the interests passing to the United States under this subparagraph are in a parcel of land that is contiguous to another parcel of trust or restricted land, the Secretary shall give the owner or owners of the trust or restricted interest in the contiguous parcel the first opportunity to purchase the interest at not less than fair market value determined in accordance with this chapter. If more than 1 such owner in the contiguous parcel request to purchase the parcel, the Secretary shall sell the parcel by public auction or sealed bid (as determined by the Secretary) at not less than fair market value to the owner of a trust or restricted interest in the contiguous parcel submitting the highest bid.
 
 #### (D) Intestate descent of small fractional interests in land
 
@@ -112,7 +112,7 @@
 
 #### (3) Right of representation
 
-&emsp;If, under this subsection, all or any part of the estate of a decedent is to pass to childrenof a deceased child by right of representation, that part is to be divided into as many equal shares as there are living children of the decedent and pre-deceased children who left issue who survive the decedent. Each living child of the decedent, if any, shall receive 1 share, and the share of each pre-deceased child shall be divided equally among the pre-deceased child's children.
+&emsp;If, under this subsection, all or any part of the estate of a decedent is to pass to children of a deceased child by right of representation, that part is to be divided into as many equal shares as there are living children of the decedent and pre-deceased children who left issue who survive the decedent. Each living child of the decedent, if any, shall receive 1 share, and the share of each pre-deceased child shall be divided equally among the pre-deceased child's children.
 
 #### (4) Special rule relating to survival
 
@@ -200,7 +200,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i), in any case in which a resolution, law, or other dulyadopted enactment of the Indian tribe with jurisdiction over the land of which an interest described in clause (i) is a part requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe, the interest may be devised in fee in accordance with subparagraph (A)(ii).
+&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i), in any case in which a resolution, law, or other duly adopted enactment of the Indian tribe with jurisdiction over the land of which an interest described in clause (i) is a part requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe, the interest may be devised in fee in accordance with subparagraph (A)(ii).
 
 #### (II) Effect
 
@@ -380,7 +380,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (B) Meaning of "heirs" and "next of kin", etc.; time of ascertaining class
 
-&emsp;&emsp;A devise of trust or restricted interest in land or an interest in trust personalty to the testator's or another designated person's "heirs", "next of kin", "relatives", or "family" shall mean those persons, including the spouse, who would be entitled to take under the provisions of this chapter for nontestamentary disposition. The class is to be ascertained as of the date of the testator's death.
+&emsp;&emsp;A devise of trust or restricted interest in land or an interest in trust personalty to the testator's or another designated person's "heirs", "next of kin", "relatives", or "family" shall mean those persons, including thespouse, who would be entitled to take under the provisions of this chapter for nontestamentary disposition. The class is to be ascertained as of the date of the testator's death.
 
 #### (C) Time for ascertaining class
 
@@ -450,7 +450,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (A) In general
 
-&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by the United States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
+&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by theUnited States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
 
 #### (B) Dismissal or withdrawal
 
@@ -514,7 +514,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a testator executed the will of the testator before the birth or adoption of 1 ormore children of the testator, and the omission of the children from the will is a product of inadvertence rather than an intentional omission, the children shall share in the trust or restricted interests in land and trust personalty as if the decedent had died intestate.
+&emsp;&emsp;&emsp;If a testator executed the will of the testator before the birth or adoption of 1 or more children of the testator, and the omission of the children from the will is a product of inadvertence rather than an intentional omission, the children shall share in the trust or restricted interests in land and trust personalty as if the decedent had died intestate.
 
 #### (ii) Adopted heirs
 
@@ -584,7 +584,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (B) Combined notices
 
-&emsp;&emsp;The notice under subparagraph (A) may, at the discretion of the Secretary, be providedwith the notice required under subsection (a) of section 8 of the American Indian Probate Reform Act of 2004.
+&emsp;&emsp;The notice under subparagraph (A) may, at the discretion of the Secretary, be provided with the notice required under subsection (a) of section 8 of the American Indian Probate Reform Act of 2004.
 
 #### (8) Renunciation or disclaimer of interests
 
@@ -670,7 +670,7 @@ After receiving a written request by any owner of a trust or restricted interest
 
 #### (B) Limitation
 
-&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties or responsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
+&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties orresponsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
 
 #### (C) Secretarial approval of transactions
 
@@ -802,7 +802,7 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2)(C)(ii), (D)(iii), (g)(2), (3), introductory provisions of (h) and (h)(2)(B), (j)(2)(B)(iii)(I), (7)(A), (l)(2)(A), (o)(2), (4)(A), was in the original "this Act", which was translated as reading "this title", meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress. This chapter, referred to in the original in subsec. (h)(3), (4), probablyshould have been "this title", meaning title II of Pub. L. 97–459 which enacted this chapter.
+This chapter, referred to in subsecs. (a)(2)(C)(ii), (D)(iii), (g)(2), (3), introductory provisions of (h) and (h)(2)(B), (j)(2)(B)(iii)(I), (7)(A), (l)(2)(A), (o)(2), (4)(A), was in the original "this Act", which was translated as reading "this title", meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress. This chapter, referred to in the original in subsec. (h)(3), (4), probably should have been "this title", meaning title II of Pub. L. 97–459 which enacted this chapter.
 
 Section 8 of the American Indian Probate Reform Act of 2004, referred to in subsecs. (a)(2)(D)(iv)(II)(dd), (c)(2), and (j)(2)(A)(ii)(I), (7)(B), is section 8 of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
@@ -820,7 +820,7 @@ Act of July 8, 1940, referred to in subsec. (j)(2)(B)(ii), is act July 8, 1940, 
 
 #### Prior Provisions
 
-A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984, 98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
+A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984,98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
 
 #### Amendments
 

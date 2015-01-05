@@ -10,7 +10,7 @@ The Attorney General may make grants to eligible grantees for the following purp
 
 &emsp;(1) To implement proarrest programs and policies in police departments, including policies for protection order violations and enforcement of protection orders across State and tribal lines.
 
-&emsp;(2) To develop policies, educational programs, protection order registries, data collection systems, and training in police departments to improve tracking of cases and classification of complaints involving domestic violence, dating violence, sexual assault, and stalking. Policies, educational programs, protection order registries, and training describedin this paragraph shall incorporate confidentiality, and privacy protections for victims of domestic violence, dating violence, sexual assault, and stalking.
+&emsp;(2) To develop policies, educational programs, protection order registries, data collection systems, and training in police departments to improve tracking of cases and classification of complaints involving domestic violence, dating violence, sexual assault, and stalking. Policies, educational programs, protection order registries, and training described in this paragraph shall incorporate confidentiality, and privacy protections for victims of domestic violence, dating violence, sexual assault, and stalking.
 
 &emsp;(3) To centralize and coordinate police enforcement, prosecution, or judicial responsibility for domestic violence, dating violence, sexual assault, and stalking cases in teams or units of police officers, prosecutors, parole and probation officers, or judges.
 
@@ -74,7 +74,7 @@ Eligible grantees are—
 
 &emsp;&emsp;(C) certify that their laws, policies, or practices prohibit issuance of mutual restraining orders of protection except in cases where both parties file a claim and the court makes detailed findings of fact indicating that both parties acted primarily as aggressors and that neither party acted primarily in self-defense;
 
-&emsp;&emsp;(D) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction;
+&emsp;&emsp;(D) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, stalking,or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction;
 
 &emsp;&emsp;(E) certify that,<sup>2</sup> their laws, policies, or practices will ensure that—
 
@@ -120,7 +120,7 @@ Of the amounts appropriated for purposes of this subchapter for each fiscal year
 
 Of the amounts appropriated for purposes of this subchapter for each fiscal year, not less than 25 percent shall be available for projects that address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
 
-(Pub. L. 90–351, title I, §2101, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§1101(a)(2), (b)(2), 1102(b), 1109(c), title II, §1209(b), title V, §1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, §102(b), title IX, §906(c), Jan. 5, 2006, 119 Stat. 2975, 3081; Pub. L. 109–271, §7(a)(5), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title I, §102(a)(1), Mar. 7, 2013, 127 Stat. 70.)
+(Pub. L. 90–351, title I, §2101, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108 Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§1101(a)(2), (b)(2), 1102(b), 1109(c), title II, §1209(b), title V, §1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, §102(b), title IX, §906(c), Jan. 5, 2006, 119 Stat. 2975, 3081; Pub. L. 109–271, §7(a)(5), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title I, §102(a)(1), Mar. 7, 2013, 127 Stat. 70.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Subsec. (b)(4). Pub. L. 113–4, §102(a)(1)(A)(iv), inserted "and provide the a
 
 Subsec. (b)(5). Pub. L. 113–4, §102(a)(1)(A)(v), inserted "and other victim services" after "legal advocacy service programs".
 
-Subsec. (b)(6). Pub. L. 113–4, §102(a)(1)(A)(vi), substituted "Federal, State, tribal, territorial, and local judges, courts, and court-based and court-related personnel" for "judges".
+Subsec. (b)(6). Pub. L. 113–4, §102(a)(1)(A)(vi), substituted "Federal, State, tribal, territorial, and localjudges, courts, and court-based and court-related personnel" for "judges".
 
 Subsec. (b)(8). Pub. L. 113–4, §102(a)(1)(A)(vii), substituted "dating violence, sexual assault, and stalking" for "and sexual assault".
 

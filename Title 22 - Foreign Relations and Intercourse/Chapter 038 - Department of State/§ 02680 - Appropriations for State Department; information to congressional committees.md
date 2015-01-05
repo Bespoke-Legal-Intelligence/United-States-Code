@@ -20,7 +20,7 @@
 
 #### Codification
 
-Section was formerly classified to section 170t of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 170t of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
@@ -29,6 +29,18 @@ Section was formerly classified to section 170t of Title 5 prior to the general 
 <b>1972</b>—Subsec. (a). Pub. L. 92–352 inserted provisions that this subsection shall not apply to, or affect in any manner, permanent appropriations, trust funds, and other similar accounts administered by the Department as authorized by law.
 
 Pub. L. 92–226 substituted provisions constituting subsecs. (a) and (b) and prohibiting any State Department appropriation on and after July 1, 1972, without a prior congressional legislative authorization, and requiring the State Department and Federal agencies to furnish information to congressional committees for former provisions constituting the entire section and authorizing and making appropriations available for the State Department.
+
+#### Funding
+
+Pub. L. 113–76, div. K, title VII, §7082(d)(1), (2), Jan. 17, 2014, 128 Stat. 567, provided that:
+
+"(1)
+
+Diplomatic and consular programs funds.—Amounts made available to the Department of State pursuant to the sixth proviso under the heading 'Diplomatic and Consular Programs' in title I of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2008 (division J of Public Law 110–161) are authorized to be used by the Department of State to pay benefits or payments made available pursuant to this Act \[div. K of Pub. L. 113–76\].
+
+"(2)
+
+Availability.—To pay benefits or payments made available pursuant to this Act, the Secretary of State may merge with the amounts described in paragraph (1) unobligated balances of funds appropriated under the 'Diplomatic and Consular Programs' heading for fiscal year 2014 and subsequent fiscal years, up until the end of the fifth fiscal year after the fiscal year for which such funds were appropriated or otherwise made available."
 
 #### Future Assistance Projections
 

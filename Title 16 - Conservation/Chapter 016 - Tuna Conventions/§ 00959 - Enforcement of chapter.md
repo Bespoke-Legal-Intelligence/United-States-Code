@@ -22,7 +22,7 @@ Such person so authorized shall have the power—
 
 #### (e) Seizures and disposition of fish
 
-Such person so authorized may seize, whenever and wherever lawfully found, all fish taken or retained in violation of the provisions of this chapter or the regulations issued pursuant thereto. Any fish so seized may be disposed of pursuant to the order of a court of competent jurisdiction, pursuant to the provisions of subsection (f) of this section or, if perishable, in a manner prescribed by regulations of the Secretary of Commerce.
+Such person so authorized may seize, whenever and wherever lawfully found, all fish taken or retained in violation of the provisions of this chapter or the regulations issued pursuant thereto. Any fish so seized may be disposed ofpursuant to the order of a court of competent jurisdiction, pursuant to the provisions of subsection (f) of this section or, if perishable, in a manner prescribed by regulations of the Secretary of Commerce.
 
 #### (f) Security
 

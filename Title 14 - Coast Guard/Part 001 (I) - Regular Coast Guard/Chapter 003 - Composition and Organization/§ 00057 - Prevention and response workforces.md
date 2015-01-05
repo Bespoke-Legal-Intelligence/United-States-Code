@@ -10,7 +10,7 @@ Qualifications for Certain Assignments.—An officer, member, or civilian employ
 
 &emsp;(1) marine inspector shall have the training, experience, and qualifications equivalent to that required for a similar position at a classification society recognized by the Secretary under section 3316 of title 46 for the type of vessel, system, or equipment that is inspected;
 
-&emsp;(2) marine casualty investigator shall have the training, experience, and qualifications in investigation, marine casualty reconstruction, evidence collection and preservation, human factors, and documentation using best investigation practices by Federal and non-Federal entities; or
+&emsp;(2) marine casualty investigator shall have the training, experience, and qualifications in investigation, marine casualty reconstruction, evidence collection and preservation, human factors, and documentation using best investigation practices by Federal and non-Federal entities;
 
 &emsp;(3) marine safety engineer shall have knowledge, skill, and practical experience in—
 
@@ -18,11 +18,15 @@ Qualifications for Certain Assignments.—An officer, member, or civilian employ
 
 &emsp;&emsp;(B) judging the character, strength, stability, and safety qualities of such vessels and their equipment; or
 
-&emsp;&emsp;(C) the qualifications and training of vessel personnel.
+&emsp;&emsp;(C) the qualifications and training of vessel personnel;
+
+&emsp;(4) waterways operations manager shall have knowledge, skill, and practical experience with respect to marine transportation system management; or
+
+&emsp;(5) port and facility safety and security specialist shall have knowledge, skill, and practical experience with respect to the safety, security, and environmental protection responsibilities associated with maritime ports and facilities.
 
 (c)
 
-Apprenticeship Requirement To Qualify for Certain Careers.—The Commandant may require an officer, member, or employee of the Coast Guard in training for a specialized prevention or response career path to serve an apprenticeship under the guidance of a qualified individual. However, an individual in training to become a marine inspector, marine casualty investigator, or marine safety engineer shall serve a minimum of one-year as an apprentice unless the Commandant authorizes a shorter period for certain qualifications.
+Apprenticeship Requirement To Qualify for Certain Careers.—The Commandant may require an officer, member, or employee of the Coast Guard in training for a specialized prevention or response career path to serve an apprenticeship under the guidance of a qualified individual. However, an individual in training to become a marine inspector, marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist shall serve a minimum of one-year as an apprentice unless the Commandant authorizes a shorter period for certain qualifications.
 
 (d)
 
@@ -34,31 +38,33 @@ Management Information System.—The Secretary, acting through the Commandant, s
 
 (e)
 
-Assessment of Adequacy of Marine Safety Workforce.—
-
-&emsp;(1)
-
-Report.—The Secretary, acting through the Commandant, shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate by December 1 of each year on the adequacy of the current marine safety workforce to meet that anticipated workload.
-
-&emsp;(2)
-
-Contents.—The report shall specify the number of civilian and military Coast Guard personnel currently assigned to marine safety positions and shall identify positions that are understaffed to meet the anticipated marine safety workload.
-
-(f)
-
 Sector Chief of Prevention.—There shall be in each Coast Guard sector a Chief of Prevention who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule, and who shall be a—
 
 &emsp;(1) marine inspector, qualified to inspect vessels, vessel systems, and equipment commonly found in the sector; and
 
-&emsp;(2) qualified marine casualty investigator or marine safety engineer.
+&emsp;(2) qualified marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist.
 
-(g)
+(f)
 
 Signatories of Letter of Qualification for Certain Prevention Personnel.—Each individual signing a letter of qualification for marine safety personnel must hold a letter of qualification for the type being certified.
 
-(h)
+(g)
 
 Sector Chief of Response.—There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
 
-(Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2953.)
+(Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2953; amended Pub. L. 113–281, title II, §§203, 221(b)(1)(B), Dec. 18, 2014, 128 Stat. 3024, 3038.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b)(4), (5). Pub. L. 113–281, §203(1), added pars. (4) and (5).
+
+Subsec. (c). Pub. L. 113–281, §203(2), substituted "marine safety engineer, waterways operations manager, or port and facility safety and security specialist" for "or marine safety engineer".
+
+Subsec. (e). Pub. L. 113–281, §221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
+
+Subsec. (f). Pub. L. 113–281, §221(b)(1)(B)(ii), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (f)(2). Pub. L. 113–281, §203(3), substituted "investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist" for "investigator or marine safety engineer".
+
+Subsecs. (g), (h). Pub. L. 113–281, §221(b)(1)(B)(ii), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 

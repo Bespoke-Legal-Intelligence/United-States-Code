@@ -10,13 +10,13 @@ Notwithstanding any provision of subchapter I, and subject to the provisions of 
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–103 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “To test voluntary leave bank programs under the provisions of this subchapter, the Office of Personnel Management shall establish a demonstration project in at least 3 Executive agencies, of which—
+<b>1993</b>—Pub. L. 103–103 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: "To test voluntary leave bank programs under the provisions of this subchapter, the Office of Personnel Management shall establish a demonstration project in at least 3 Executive agencies, of which—
 
-&emsp;“(1) one such agency shall include approximately, but not less than, the equivalent of 100,000 full-time positions;
+&emsp;"(1) one such agency shall include approximately, but not less than, the equivalent of 100,000 full-time positions;
 
-&emsp;“(2) one such agency shall include approximately, but not less than, the equivalent of 25,000 full-time positions; and
+&emsp;"(2) one such agency shall include approximately, but not less than, the equivalent of 25,000 full-time positions; and
 
-&emsp;“(3) one such agency shall include approximately, but not less than, the equivalent of 1,000 full-time positions.”
+&emsp;"(3) one such agency shall include approximately, but not less than, the equivalent of 1,000 full-time positions."
 
 #### Effective Date of 1993 Amendment
 

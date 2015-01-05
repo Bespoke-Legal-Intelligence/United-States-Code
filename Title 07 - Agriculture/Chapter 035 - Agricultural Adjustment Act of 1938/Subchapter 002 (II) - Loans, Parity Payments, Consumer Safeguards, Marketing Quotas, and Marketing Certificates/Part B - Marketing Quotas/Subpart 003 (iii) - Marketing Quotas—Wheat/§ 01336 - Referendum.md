@@ -2,7 +2,7 @@
 
 If a national marketing quota for wheat for one, two, or three marketing years is proclaimed, the Secretary shall, not later than August 1 of the calendar year in which such national marketing quota is proclaimed, conduct a referendum, by secret ballot, of farmers to determine whether they favor or oppose marketing quotas for the marketing year or years for which proclaimed. Any producer who has a farm acreage allotment shall be eligible to vote in any referendum held pursuant to this section, except that a producer who has a farm acreage allotment of less than fifteen acres shall not be eligible to vote unless the farm operator elected pursuant to section 1335 of this title to be subject to the farm marketing quota. The Secretary shall proclaim the results of any referendum held hereunder within thirty days after the date of such referendum, and if the Secretary determines that more than one-third of the farmers voting in the referendum voted against marketing quotas, the Secretary shall proclaim that marketing quotas will not be in effect with respect to the crop of wheat produced for harvest in the calendar year following the calendar year in which the referendum is held. If the Secretary determines that two-thirds or more of the farmers voting in a referendum approve marketing quotas for a period of two or three marketing years, no referendum shall be held for the subsequent year or years of such period. Notwithstanding any other provision hereof, the referendum with respect to the national marketing quota for wheat for the marketing year beginning June 1, 1986, may be conducted not later than thirty-one days after December 20, 1985.
 
-(Feb. 16, 1938, ch. 30, title III, §336, 52 Stat. 55; July 3, 1948, ch. 827, title II, §204(b), 62 Stat. 1256; Pub. L. 87–104, July 25, 1961, 75 Stat. 220; Pub. L. 87–128, title I, §122(f), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–540, July 19, 1962, 76 Stat. 170; Pub. L.87–703, title III, §316, Sept. 27, 1962, 76 Stat. 621; Pub. L. 88–297, title II, §202(6), Apr. 11, 1964, 78 Stat. 179; Pub. L. 89–82, July 24, 1965, 79 Stat. 258; Pub. L. 91–348, July 23, 1970, 84 Stat. 448; Pub. L. 91–455, Oct. 15, 1970, 84 Stat. 969; Pub. L. 93–68, July 10, 1973, 87 Stat. 161; Pub. L. 95–48, June 17, 1977, 91 Stat. 229; Pub. L. 97–24, §1, July 23, 1981, 95 Stat. 143; Pub. L. 97–62, Oct. 14, 1981, 95 Stat. 1010; Pub. L. 97–67, §2, Oct. 20, 1981, 95 Stat. 1039; Pub. L. 97–77, §2(b), Nov. 13, 1981, 95 Stat. 1069; Pub. L. 99–63, July 11, 1985, 99 Stat. 119; Pub. L. 99–198, title III, §306, Dec. 23, 1985, 99 Stat. 1382.)
+(Feb. 16, 1938, ch. 30, title III, §336, 52 Stat. 55; July 3, 1948, ch. 827, title II, §204(b), 62 Stat. 1256; Pub. L. 87–104, July 25, 1961, 75 Stat. 220; Pub. L. 87–128, title I, §122(f), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–540, July 19, 1962, 76 Stat. 170; Pub. L. 87–703, title III, §316, Sept. 27, 1962, 76 Stat. 621; Pub. L. 88–297, title II, §202(6), Apr. 11, 1964, 78 Stat. 179; Pub. L. 89–82, July 24, 1965, 79 Stat. 258; Pub. L. 91–348, July 23, 1970, 84 Stat. 448; Pub. L. 91–455, Oct. 15, 1970, 84 Stat. 969; Pub. L. 93–68, July 10, 1973, 87 Stat. 161; Pub. L. 95–48, June 17, 1977, 91 Stat. 229; Pub. L. 97–24, §1, July 23, 1981, 95 Stat. 143; Pub. L. 97–62, Oct. 14, 1981, 95 Stat. 1010; Pub. L. 97–67, §2, Oct. 20, 1981, 95 Stat. 1039; Pub. L. 97–77, §2(b), Nov. 13, 1981, 95 Stat. 1069; Pub. L. 99–63, July 11, 1985, 99 Stat. 119; Pub. L. 99–198, title III, §306, Dec. 23, 1985, 99 Stat. 1382.)
 
 #### Codification
 
@@ -44,7 +44,7 @@ Pub. L. 87–104 inserted provisions for conducting wheat marketing quota refere
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Pub. L. 99–198, title III, §306, Dec. 23, 1985, 99 Stat. 1382, provided that the amendment made by Pub. L.99–198 is effective only for the 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, §306, Dec. 23, 1985, 99 Stat. 1382, provided that the amendment made by Pub. L. 99–198 is effective only for the 1987 through 1990 crops of wheat.
 
 #### Effective Date of 1962 Amendment
 
@@ -55,6 +55,10 @@ Amendment by Pub. L. 87–703 effective only with respect to programs applicable
 Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under section 1301 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
 

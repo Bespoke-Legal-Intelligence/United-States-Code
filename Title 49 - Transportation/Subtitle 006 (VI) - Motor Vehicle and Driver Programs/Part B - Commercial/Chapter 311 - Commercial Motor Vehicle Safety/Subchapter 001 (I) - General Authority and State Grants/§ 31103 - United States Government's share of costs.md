@@ -8,7 +8,7 @@ Commercial Motor Vehicle Safety Programs and Enforcement.—The Secretary of Tra
 
 Other Activities.—The Secretary may reimburse State agencies, local governments, or other persons up to 100 percent for public education activities.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–178, title IV, §4003(d), June 9, 1998, 112 Stat. 397; Pub. L. 109–59, title IV, §4307(a), Aug. 10, 2005, 119 Stat. 1774; Pub. L. 112–141, div. C, title II, §32933(c), (d), July 6, 2012, 126 Stat. 830.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–178, title IV, §4003(d), June 9, 1998, 112Stat. 397; Pub. L. 109–59, title IV, §4307(a), Aug. 10, 2005, 119 Stat. 1774; Pub. L. 112–141, div. C, title II, §32933(c), (d), July 6, 2012, 126 Stat. 830.)
 
 Historical and Revision Notes
 

@@ -38,7 +38,7 @@ Standards of Conduct.—While receiving instruction at the school, students enro
 
 Use of Funds.—Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112; amended Pub. L. 108–136, div. A, title X, §1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §525, Jan. 6, 2006, 119 Stat. 3245; Pub. L. 110–417,\[div. A\], title V, §542, Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title V, §589(a), Jan. 2, 2013, 126 Stat. 1769.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112; amended Pub. L. 108–136, div. A, title X, §1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §525, Jan. 6, 2006, 119 Stat. 3245; Pub. L. 110–417, \[div. A\], title V, §542, Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title V, §589(a), Jan. 2, 2013, 126 Stat. 1769.)
 
 #### Amendments
 

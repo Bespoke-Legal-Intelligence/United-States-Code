@@ -10,11 +10,11 @@ The purposes of this subchapter are to—
 
 &emsp;(4) improve the quality and use of Federal information to strengthen decisionmaking, accountability, and openness in Government and society;
 
-&emsp;(5) minimize the cost to the Federal Government of the creation, collection, maintenance, use, dissemination, and disposition of information;
+&emsp;(5) minimize the cost to the Federal Government of the creation, collection, maintenance,use, dissemination, and disposition of information;
 
 &emsp;(6) strengthen the partnership between the Federal Government and State, local, and tribal governments by minimizing the burden and maximizing the utility of information created, collected, maintained, used, disseminated, and retained by or for the Federal Government;
 
-&emsp;(7) provide for the dissemination of public information on a timely basis, on equitable terms, and in a manner that promotes theutility of the information to the public and makes effective use of information technology;
+&emsp;(7) provide for the dissemination of public information on a timely basis, on equitable terms, and in a manner that promotes the utility of the information to the public and makes effective use of information technology;
 
 &emsp;(8) ensure that the creation, collection, maintenance, use, dissemination, and disposition of information by or for the Federal Government is consistent with applicable laws, including laws relating to—
 
@@ -50,7 +50,7 @@ Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, rela
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of this title.
 
 #### Effective Date
 
@@ -232,7 +232,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 "(a)
 
-Individual Court Websites.—The Chief Justice of the United States, the chief judge of each circuit and district and of the Court of Federal Claims, and the chief bankruptcy judge of each district shall cause to be established and maintained, for the court of which the judge is chief justice or judge, a website that contains the following information or links to websites with the following information:
+Individual Court Websites.—The Chief Justice of the United States, the chief judge of each circuit anddistrict and of the Court of Federal Claims, and the chief bankruptcy judge of each district shall cause to be established and maintained, for the court of which the judge is chief justice or judge, a website that contains the following information or links to websites with the following information:
 
 &emsp;"(1) Location and contact information for the courthouse, including the telephone numbers and contact names for the clerk's office and justices' or judges' chambers.
 
@@ -342,7 +342,7 @@ Exception.—To the extent that the Supreme Court, a court of appeals, district,
 
 &emsp;"(2)
 
-Report.—Not later than 1 year after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform \[now Oversight and Government Reform\] and the Judiciary of the House of Representatives that—
+Report.—Not later than 1 year after the effective date of this title \[see Effective Date note set outunder section 3601 of this title\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform \[now Oversight and Government Reform\] and the Judiciary of the House of Representatives that—
 
 &emsp;&emsp;"(A) contains all notifications submitted to the Administrative Office of the United States Courts under this subsection; and
 
@@ -356,7 +356,7 @@ Purposes.—The purposes of this section are to—
 
 &emsp;"(1) improve performance in the development and issuance of agency regulations by using information technology to increase access, accountability, and transparency; and
 
-&emsp;"(2) enhance public participation in Government by electronic means, consistent with requirements undersubchapter II of chapter 5 of title 5, United States Code, (commonly referred to as the 'Administrative Procedures Act').
+&emsp;"(2) enhance public participation in Government by electronic means, consistent with requirements under subchapter II of chapter 5 of title 5, United States Code, (commonly referred to as the 'Administrative Procedures Act').
 
 "(b)
 
@@ -784,7 +784,7 @@ Contents.—The guidance shall require that a privacy notice address, consistent
 
 &emsp;"(2)
 
-Privacy policies in machine-readable formats.—The Director shall issue guidance requiring agencies to translate privacy policies into a standardized machine-readable format.
+Privacy policies in machine-readable formats.—The Director shall issue guidance requiringagencies to translate privacy policies into a standardized machine-readable format.
 
 "(d)
 
@@ -1062,7 +1062,7 @@ Purposes.—The purposes of this section are to—
 
 &emsp;"(1) enhance the interoperability of Federal information systems;
 
-&emsp;"(2) assist the public, including the regulated community, in electronically submitting information toagencies under Federal requirements, by reducing the burden of duplicate collection and ensuring the accuracy of submitted information; and
+&emsp;"(2) assist the public, including the regulated community, in electronically submitting information to agencies under Federal requirements, by reducing the burden of duplicate collection and ensuring the accuracy of submitted information; and
 
 &emsp;"(3) enable any person to integrate and obtain similar information held by 1 or more agencies under 1 or more Federal requirements without violating the privacy rights of an individual.
 
@@ -1326,7 +1326,7 @@ Contents.—The report under subsection (a) shall include a study of—
 
 &emsp;&emsp;"(D) changes in the nature of personal and public Internet access that may alleviate or aggravate effective access to online Government services;
 
-&emsp;"(2) how the increase in online Government services is influencing the disparities in Internet access andhow technology development or diffusion trends may offset such adverse influences; and
+&emsp;"(2) how the increase in online Government services is influencing the disparities in Internet access and how technology development or diffusion trends may offset such adverse influences; and
 
 &emsp;"(3) related societal effects arising from the interplay of disparities in Internet access and the increase in online Government services.
 
@@ -1392,7 +1392,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 #### Information Security Responsibilities of Certain Agencies
 
-Pub. L. 107–347, title III, §301(c)(1)(A), Dec. 17, 2002, 116 Stat. 2955, provided that: "Nothing in this Act \[see Tables for classification\] (including any amendment made by this Act) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by section 3542(b)(2) of title 44, United States Code."
+Pub. L. 107–347, title III, §301(c)(1)(A), Dec. 17, 2002, 116 Stat. 2955, provided that: "Nothing in this Act \[see Tables for classification\] (including any amendment made by this Act) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by \[former\] section 3542(b)(2) of title 44, United States Code \[see now 44 U.S.C. 3552(b)(6)\]."
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
@@ -1418,7 +1418,7 @@ Pub. L. 107–347, title V, Dec. 17, 2002, 116 Stat. 2962, provided that:
 
 &emsp;&emsp;"(A)(i) who is an employee of a private organization or a researcher affiliated with an institution of higher learning (including a person granted special sworn status by the Bureau of the Census under section 23(c) of title 13, United States Code), and with whom a contract or other agreement is executed, on a temporary basis, by an executive agency to perform exclusively statistical activities under the control and supervision of an officer or employee of that agency;
 
-&emsp;&emsp;"(ii) who is working under the authority of a government entity with which a contract or other agreement is executed by an executive agency to perform exclusively statistical activities under the control of an officer or employee of that agency;
+&emsp;&emsp;"(ii) who is working under the authority of a government entity with which a contract or otheragreement is executed by an executive agency to perform exclusively statistical activities under the control of an officer or employee of that agency;
 
 &emsp;&emsp;"(iii) who is a self-employed researcher, a consultant, a contractor, or an employee of a contractor, and with whom a contract or other agreement is executed by an executive agency to perform a statistical activity under the control of an officer or employee of that agency; or
 
@@ -1520,7 +1520,7 @@ Preemption of State Law.—Nothing in this title shall preempt applicable State 
 
 "(g)
 
-Statutes Regarding False Statements.—Notwithstanding section 512, information collected by an agency for exclusively statistical purposes under a pledge of confidentiality may be provided by the collecting agency to a law enforcement agency for the prosecution of submissions to the collecting agency of false statistical information under statutes that authorize criminal penalties (such as section 221 of title 13, United States Code) or civil penalties for the provision of false statistical information, unless such disclosure or use would otherwise be prohibited under Federal law.
+Statutes Regarding False Statements.—Notwithstanding section 512, information collected by anagency for exclusively statistical purposes under a pledge of confidentiality may be provided by the collecting agency to a law enforcement agency for the prosecution of submissions to the collecting agency of false statistical information under statutes that authorize criminal penalties (such as section 221 of title 13, United States Code) or civil penalties for the provision of false statistical information, unless such disclosure or use would otherwise be prohibited under Federal law.
 
 "(h)
 
@@ -1602,7 +1602,7 @@ Findings.—The Congress finds the following:
 
 &emsp;"(4) Enhanced sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics for exclusively statistical purposes will improve their ability to track more accurately the large and rapidly changing nature of United States business. In particular, the statistical agencies will be able to better ensure that businesses are consistently classified in appropriate industries, resolve data anomalies, produce statistical samples that are consistently adjusted for the entry and exit of new businesses in a timely manner, and correct faulty reporting errors quickly and efficiently.
 
-&emsp;"(5) The Congress enacted the International Investment and Trade in Services Act of 1990 \[probably means the International Investment and Trade in Services Survey Act, Pub. L. 94–472, as amended by Pub. L. 101–533, which is classified to 22 U.S.C. 3101 et seq.\] that allowed the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to share data on foreign-owned companies. The Act not only expanded detailed industry coverage from 135 industries to over 800 industries with no increase in the data collected from respondents but also demonstrated how data sharing can result in the creation of valuable data products.
+&emsp;"(5) The Congress enacted the International Investment and Trade in Services Act of 1990 \[probably means the International Investment and Trade in Services Survey Act, Pub. L. 94–472, as amended by Pub. L. 101–533, which is classified to 22 U.S.C. 3101 et seq.\] that allowed the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of LaborStatistics to share data on foreign-owned companies. The Act not only expanded detailed industry coverage from 135 industries to over 800 industries with no increase in the data collected from respondents but also demonstrated how data sharing can result in the creation of valuable data products.
 
 &emsp;"(6) With subtitle A of this title, the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics continues to ensure the highest level of confidentiality for respondents to statistical surveys.
 
@@ -1614,7 +1614,7 @@ Purposes.—The purposes of this subtitle are the following:
 
 &emsp;"(2) To reduce the paperwork burdens imposed on businesses that provide requested information to the Federal Government.
 
-&emsp;"(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, andthe Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
+&emsp;"(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
 
 &emsp;"(4) To increase understanding of the United States economy, especially for key industry and regional statistics, to develop more accurate measures of the impact of technology on productivity growth, and to enhance the reliability of the Nation's most important economic indicators, such as the National Income and Product Accounts.
 
@@ -1710,7 +1710,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. This order establishes an open and uniform program for managing information that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and Government-wide policies, excluding information that is classified under Executive Order 13526 of December 29, 2009, or the Atomic Energy Act, as amended.
 
-At present, executive departments and agencies (agencies) employ ad hoc, agency-specific policies, procedures, and markings to safeguard and control this information, such as information that involves privacy, security, proprietary business interests, and law enforcement investigations. This inefficient, confusing patchwork has resulted in inconsistent marking and safeguarding of documents, led to unclear or unnecessarily restrictive dissemination policies, and created impediments to authorized information sharing. Thefact that these agency-specific policies are often hidden from public view has only aggravated these issues.
+At present, executive departments and agencies (agencies) employ ad hoc, agency-specific policies, procedures, and markings to safeguard and control this information, such as information that involves privacy, security, proprietary business interests, and law enforcement investigations. This inefficient, confusing patchwork has resulted in inconsistent marking and safeguarding of documents, led to unclear or unnecessarily restrictive dissemination policies, and created impediments to authorized information sharing. The fact that these agency-specific policies are often hidden from public view has only aggravated these issues.
 
 To address these problems, this order establishes a program for managing this information, hereinafter described as Controlled Unclassified Information, that emphasizes the openness and uniformity of Government-wide practice.
 
@@ -1784,7 +1784,7 @@ Memorandum of President of the United States, Oct. 28, 2011, 76 F.R. 68049, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-As I outlined in my State of the Union address to the Congress on January 25, 2011, winning the future in theglobal economy will require a Government that wisely allocates its scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. If we are to thrive in the global economy, and make America the best place on Earth to do business, we need to equip our Government with the tools necessary to support innovation and job growth in the 21st century.
+As I outlined in my State of the Union address to the Congress on January 25, 2011, winning the future in the global economy will require a Government that wisely allocates its scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. If we are to thrive in the global economy, and make America the best place on Earth to do business, we need to equip our Government with the tools necessary to support innovation and job growth in the 21st century.
 
 Accordingly, we must make it easier for businesses to access the full range of Government programs and services without having to waste effort navigating their way through the Federal bureaucracy. At the same time, we must further streamline and coordinate Federal programs to reduce costs and provide customer-oriented service.
 

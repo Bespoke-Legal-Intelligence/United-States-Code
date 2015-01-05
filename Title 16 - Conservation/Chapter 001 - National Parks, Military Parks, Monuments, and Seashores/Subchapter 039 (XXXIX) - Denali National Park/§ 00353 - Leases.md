@@ -6,5 +6,5 @@ The Secretary of the Interior may, in his discretion, execute leases to parcels 
 
 #### Amendments
 
-<b>1928</b>—Act May 21, 1928, repealed provision that no appropriation for the maintenance of the park in excess of $10,000 annually should be made unless expressly authorized by law.
+<b>1928</b>—Act May 21, 1928, repealed provision that no appropriation for the maintenance of the park in excessof $10,000 annually should be made unless expressly authorized by law.
 

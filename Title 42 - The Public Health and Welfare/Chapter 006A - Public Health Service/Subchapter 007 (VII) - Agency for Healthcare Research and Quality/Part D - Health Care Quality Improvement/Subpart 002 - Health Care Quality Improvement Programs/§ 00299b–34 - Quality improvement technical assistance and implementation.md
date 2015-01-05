@@ -30,7 +30,7 @@ The Director, through the Center for Quality Improvement and Patient Safety of t
 
 #### (1) Technical assistance award
 
-&emsp;To receive a technical assistance grant or contract under subsection (a)(1), an eligibleentity shall submit an application to the Secretary at such time, in such manner, and containing—
+&emsp;To receive a technical assistance grant or contract under subsection (a)(1), an eligible entity shall submit an application to the Secretary at such time, in such manner, and containing—
 
 &emsp;&emsp;(A) a plan for a sustainable business model that may include a system of—
 

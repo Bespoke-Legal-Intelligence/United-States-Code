@@ -46,13 +46,13 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;&emsp;(i) assurances that each placement of the child in foster care takes into account the appropriateness of the current educational setting and the proximity to the school in which the child is enrolled at the time of placement; and
 
-&emsp;&emsp;&emsp;(ii)(I) an assurance that the State agency has coordinated with appropriate local educational agencies (as defined under section 7801 of title 20) to ensure that the child remains in the school in which the child is enrolled at the time of each placement; or
+&emsp;&emsp;&emsp;(ii)(I) an assurance that the State agency has coordinated with appropriate local educational agencies (as defined under section 7801 of title 20) to ensure that the child remains in the school in which thechild is enrolled at the time of each placement; or
 
 &emsp;&emsp;&emsp;(II) if remaining in such school is not in the best interests of the child, assurances by the State agency and the local educational agencies to provide immediate and appropriate enrollment in a new school, with all of the educational records of the child provided to the school.
 
 &emsp;(2) The term "parents" means biological or adoptive parents or legal guardians, as determined by applicable State law.
 
-&emsp;(3) The term "adoption assistance agreement" means a written agreement, binding on the parties to the agreement, between the State agency, other relevant agencies, and the prospective adoptive parents of a minor child which at a minimum (A) specifies the nature and amount of any payments, services, and assistance to be provided under such agreement, and (B) stipulates that the agreement shall remain in effect regardless of the State of whichthe adoptive parents are residents at any given time. The agreement shall contain provisions for the protection (under an interstate compact approved by the Secretary or otherwise) of the interests of the child in cases where the adoptive parents and child move to another State while the agreement is effective.
+&emsp;(3) The term "adoption assistance agreement" means a written agreement, binding on the parties to the agreement, between the State agency, other relevant agencies, and the prospective adoptive parents of a minor child which at a minimum (A) specifies the nature and amount of any payments, services, and assistance to be provided under such agreement, and (B) stipulates that the agreement shall remain in effect regardless of the State of which the adoptive parents are residents at any given time. The agreement shall contain provisions for the protection (under an interstate compact approved by the Secretary or otherwise) of the interests of the child in cases where the adoptive parents and child move to another State while the agreement is effective.
 
 &emsp;(4)(A) The term "foster care maintenance payments" means payments to cover the cost of (and the cost of providing) food, clothing, shelter, daily supervision, school supplies, a child's personal incidentals, liability insurance with respect to a child, reasonable travel to the child's home for visitation, and reasonable travel for the child to remain in the school in which the child is enrolled at the time of placement. In the case of institutional care, such term shall include the reasonable costs of administration and operation of such institution as are necessarily required to provide the items described in the preceding sentence.
 
@@ -100,7 +100,7 @@ As used in this part or part B of this subchapter:
 
 &emsp;(6) The term "administrative review" means a review open to the participation of the parents of the child, conducted by a panel of appropriate persons at least one of whom is not responsible for the case management of, or the delivery of services to, either the child or the parents who are the subject of the review.
 
-&emsp;(7) The term "legal guardianship" means a judicially created relationship between child and caretaker which is intended to be permanent and self-sustaining as evidenced by the transfer to the caretaker of the following parental rights with respect to the child: protection, education, care and control of the person, custody of the person, and decisionmaking. The term "legal guardian" means the caretaker in such a relationship.
+&emsp;(7) The term "legal guardianship" means a judicially created relationship between child and caretaker which is intended to be permanent and self-sustaining as evidenced by thetransfer to the caretaker of the following parental rights with respect to the child: protection, education, care and control of the person, custody of the person, and decisionmaking. The term "legal guardian" means the caretaker in such a relationship.
 
 &emsp;(8)(A) Subject to subparagraph (B), the term "child" means an individual who has not attained 18 years of age.
 
@@ -128,13 +128,121 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;&emsp;(V) incapable of doing any of the activities described in subclauses (I) through (IV) due to a medical condition, which incapability is supported by regularly updated information in the case plan of the child.
 
-(Aug. 14, 1935, ch. 531, title IV, §475, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(4), June 17, 1980, 94 Stat. 510, 514; Pub. L. 99–272, title XII, §§12305(b)(2), 12307(b), Apr. 7, 1986, 100 Stat. 293, 296; Pub. L. 99–514, title XVII, §1711(c)(6), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–203, title IX, §9133(a), Dec. 22, 1987, 101 Stat. 1330–314; Pub. L. 100–647, title VIII, §8104(e), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 101–239, title VIII, §8007(a), (b), Dec. 19, 1989, 103 Stat. 2462; Pub. L. 103–432, title II, §§206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, 108 Stat. 4457, 4459, 4469; Pub. L. 105–89, title I, §§101(b), 102(2), 103(a), (b), 104, 107, title III, §302, Nov. 19, 1997, 111 Stat. 2117, 2118, 2120, 2121, 2128; Pub. L. 109–239, §§6–8(a), 11, 12, July 3, 2006, 120 Stat. 512–514; Pub. L. 109–288, §10, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 110–351, title I, §101(c)(4), title II, §§201(a), 202, 204(a), Oct. 7, 2008, 122 Stat. 3952, 3957, 3959, 3960; Pub. L. 111–148, title II, §2955(a), Mar. 23, 2010, 124 Stat. 352; Pub. L. 112–34, title I, §106(a), (b), Sept. 30, 2011, 125 Stat. 377.)
+&emsp;(9) The term "sex trafficking victim" means a victim of—
+
+&emsp;&emsp;(A) sex trafficking (as defined in section 7102(10) of title 22); or
+
+&emsp;&emsp;(B) a severe form of trafficking in persons described in section 7102(9)(A) of title 22.
+
+&emsp;(12) <sup>3</sup> The term "sibling" means an individual who satisfies at least one of the following conditions with respect to a child:
+
+&emsp;&emsp;(A) The individual is considered by State law to be a sibling of the child.
+
+&emsp;&emsp;(B) The individual would have been considered a sibling of the child under State law but for a termination or other disruption of parental rights, such as the death of a parent.
+
+(Aug. 14, 1935, ch. 531, title IV, §475, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(4), June 17, 1980, 94 Stat. 510, 514; Pub. L. 99–272, title XII, §§12305(b)(2), 12307(b), Apr. 7, 1986, 100 Stat. 293, 296; Pub. L. 99–514, title XVII, §1711(c)(6), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–203, title IX, §9133(a), Dec. 22, 1987, 101 Stat. 1330–314; Pub. L. 100–647, title VIII, §8104(e), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 101–239, title VIII, §8007(a), (b), Dec. 19, 1989, 103 Stat. 2462; Pub. L. 103–432, title II, §§206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, 108 Stat. 4457, 4459, 4469; Pub. L. 105–89, title I, §§101(b), 102(2), 103(a), (b), 104, 107, title III, §302, Nov. 19, 1997, 111 Stat. 2117, 2118, 2120, 2121, 2128; Pub. L. 109–239, §§6–8(a), 11, 12, July 3, 2006, 120 Stat. 512–514; Pub. L. 109–288, §10, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 110–351, title I, §101(c)(4), title II, §§201(a), 202, 204(a), Oct. 7, 2008, 122 Stat. 3952, 3957, 3959, 3960; Pub. L. 111–148, title II, §2955(a), Mar. 23, 2010, 124 Stat. 352; Pub. L. 112–34, title I, §106(a), (b), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title I, §§101(b), 111(a)(1), 112(a)(1), (b)(2)(B), 113(a)–(c), 114(a), title II, §209(a)(2), Sept. 29, 2014, 128 Stat. 1921, 1923, 1926—1930, 1941.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–183, title I, §§111(a)(1), (d), 112(b)(2)(B), (c), 113(a)–(c), (f), 114, Sept. 29, 2014, 128 Stat. 1923, 1925, 1927—1930, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, this section is amended as follows:</i>
+
+<i>(1) in paragraph (1)—</i>
+
+<i>(A) in the matter preceding subparagraph (A), by inserting "meets the requirements of section 675a of this title and" after "written document which";</i>
+
+<i>(B) in subparagraph (B), by adding at the end the following: "With respect to a child who has attained 14 years of age, the plan developed for the child in accordance with this paragraph, and any revision or addition to the plan, shall be developed in consultation with the child and, at the option of the child, with up to 2 members of the case planning team who are chosen by the child and who are not a foster parent of, or caseworker for, the child. A State may reject an individual selected by a child to be a member of the case planning team at any time if the State has good cause to believe that the individual would not act in the best interests of the child. One individual selected by a child to be a member of the child's case planning team may be designated to be the child's advisor and, as necessary, advocate, with respect to the application of the reasonable and prudent parent standard to the child."; and</i>
+
+<i>(C) in subparagraph (D)—</i>
+
+<i>(i) by striking "Where appropriate, for a child age 16" and inserting "For a child who has attained 14 years of age"; and</i>
+
+<i>(ii) by striking "independent living" and inserting "a successful adulthood";</i>
+
+<i>(2) in paragraph (5)—</i>
+
+<i>(A) in subparagraph (B), by adding at the end the following "and, for a child for whom another planned permanent living arrangement has been determined as the permanency plan, the steps the State agency is taking to ensure the child's foster family home or child care institution is following the reasonable and prudent parent standard and to ascertain whether the child has regular, ongoing opportunities to engage in age or developmentally appropriate activities (including by consulting with the child in an age-appropriate manner about the</i><i>opportunities of the child to participate in the activities);";</i>
+
+<i>(B) in subparagraph (C)—</i>
+
+<i>(i) in clause (i)—</i>
+
+<i>(I) by inserting ", as of the date of the hearing," after "compelling reason for determining";</i>
+
+<i>(II) by inserting "subject to section 675a(a) of this title," after "another planned permanent living arrangement,";</i>
+
+<i>(III) by striking "16" and inserting "14"; and</i>
+
+<i>(IV) by striking "independent living" and inserting "a successful adulthood";</i>
+
+<i>(ii) in clause (ii), by striking "and" at the end;</i>
+
+<i>(iii) in clause (iii), by striking "independent living" and inserting "a successful adulthood"; and</i>
+
+<i>(iv) by adding at the end "and (iv) if a child has attained 14 years of age, the permanency plan developed for the child, and any revision or addition to the plan, shall be developed in consultation with the child and, at the option of the child, with not more than 2 members of the permanency planning team who are selected by the child and who are not a foster parent of, or caseworker for, the child, except that the State may reject an individual so selected by the child if the State has good cause to believe that the individual would not act in the best interests of the child, and 1 individual so selected by the child may be designated to be the child's advisor and, as necessary, advocate, with respect to the application of the reasonable and prudent standard to the child;"; and</i>
+
+<i>(C) in subparagraph (I)—</i>
+
+<i>(i) by striking "and receives assistance" and inserting "receives assistance";</i>
+
+<i>(ii) by inserting ", and, if the child is leaving foster care by reason of having attained 18 years of age or such greater age as the State has elected under paragraph (8), unless the child has been in foster care for less than 6 months, is not discharged from care without being provided with (if the child is eligible to receive such document) an official or certified copy of the United States birth certificate of the child, a social security card issued by the Commissioner of Social Security, health insurance information, a copy of the child's medical records, and a driver's license or identification card issued by a State in accordance with the requirements of section 202 of the REAL ID Act of 2005" before the period; and</i>
+
+<i>(iii) by striking "16" and inserting "14"; and</i>
+
+<i>(3) by adding at the end the following:</i>
+
+&emsp;<i>(10)(A) The term "reasonable and prudent parent standard" means the standard characterized by careful and sensible parental decisions that maintain the health, safety, and best interests of a child while at the same time encouraging the emotional and developmental growth of the child, that a caregiver shall use when determining whether to allow a child in foster care under the responsibility of the State to participate in extracurricular, enrichment, cultural, and social activities.</i>
+
+&emsp;<i>(B) For purposes of subparagraph (A), the term "caregiver" means a foster parent with whom a child in foster care has been placed or a designated official for a child care institution in which a child in foster care has been placed.</i>
+
+&emsp;<i>(11)(A) The term "age or developmentally-appropriate" means—</i>
+
+&emsp;&emsp;<i>(i) activities or items that are generally accepted as suitable for children of the same chronological age or level of maturity or that are determined to be developmentally-appropriate for a child, based on the development of cognitive, emotional, physical, and behavioral capacities that are typical for an age or age group; and</i>
+
+&emsp;&emsp;<i>(ii) in the case of a specific child, activities or items that are suitable for the child based on the developmental stages attained by the child with respect to the cognitive, emotional, physical, and behavioral capacities of the child.</i>
+
+&emsp;<i>(B) In the event that any age-related activities have implications relative to the academic curriculum of a child, nothing in this part or part B shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State or local educational agency, or the specific instructional content, academic achievement standards and assessments, curriculum, or program of instruction of a school.</i>
+
+<i>See 2014 Amendment notes below.</i>
+
+<i>Pub. L. 113–183, title I, §112(a)(1), (3), (c), Sept. 29, 2014, 128 Stat. 1926, 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, paragraph (5)(C)(i) of this section is amended by inserting "only in the case of a child who has attained 16 years of age" before "(in cases where". See 2014 Amendment note below.</i>
 
 #### References in Text
 
 Section 672(a) of this title, referred to in par. (1)(A), was amended generally by Pub. L. 109–171, title VII, §7404(a), Feb. 8, 2006, 120 Stat. 151, and, as so amended, provisions relating to a voluntary placement agreement or judicial determination made with respect to a child, which formerly appeared in subsec. (a)(1), are contained in subsec. (a)(2)(A).
 
 #### Amendments
+
+<b>2014</b>—Par. (1). Pub. L. 113–183, §112(b)(2)(B)(i), in introductory provisions, inserted "meets the requirements of section 675a of this title and" after "written document which".
+
+Par. (1)(B). Pub. L. 113–183, §113(a), inserted at end "With respect to a child who has attained 14 years of age, the plan developed for the child in accordance with this paragraph, and any revision or addition to the plan, shall be developed in consultation with the child and, at the option of the child, with up to 2 members of the case planning team who are chosen by the child and who are not a foster parent of, or caseworker for, the child. A State may reject an individual selected by a child to be a member of the case planning team at any time if the State has good cause to believe that the individual would not act in the best interests of the child. One individual selected by a child to be a member of the child's case planning team may be designated to be the child's advisor and, as necessary, advocate, with respect to the application of the reasonable and prudent parent standard to the child."
+
+Par. (1)(D). Pub. L. 113–183, §113(c), substituted "a successful adulthood" for "independent living".
+
+Pub. L. 113–183, §113(b)(1), substituted "For a child who has attained 14 years of age" for "Where appropriate, for a child age 16".
+
+Par. (5)(B). Pub. L. 113–183, §112(b)(2)(B)(ii)(I), inserted at end "and, for a child for whom another planned permanent living arrangement has been determined as the permanency plan, the steps the State agency is taking to ensure the child's foster family home or child care institution is following the reasonable and prudent parent standard and to ascertain whether the child has regular, ongoing opportunities to engage in age or developmentally appropriate activities (including by consulting with the child in an age-appropriate manner about the opportunities of the child to participate in the activities);".
+
+Par. (5)(C)(i). Pub. L. 113–183, §113(c), substituted "a successful adulthood" for "independent living".
+
+Pub. L. 113–183, §113(b)(2)(A)(i), substituted "14" for "16".
+
+Pub. L. 113–183, §112(b)(2)(B)(ii)(II), inserted ", as of the date of the hearing," after "compelling reason for determining" and "subject to section 675a(a) of this title," after "another planned permanent living arrangement,".
+
+Pub. L. 113–183, §112(a)(1), inserted "only in the case of a child who has attained 16 years of age" before "(in cases where".
+
+Par. (5)(C)(iii). Pub. L. 113–183, §113(c), substituted "a successful adulthood" for "independent living".
+
+Par. (5)(C)(iv). Pub. L. 113–183, §113(b)(2)(A)(ii), (iii), added cl. (iv).
+
+Par. (5)(I). Pub. L. 113–183, §114(a), substituted "receives assistance" for "and receives assistance" and inserted before period at end ", and, if the child is leaving foster care by reason of having attained 18 years of age or such greater age as the State has elected under paragraph (8), unless the child has been in foster care for less than 6 months, is not discharged from care without being provided with (if the child is eligible to receive such document) an official or certified copy of the United States birth certificate of the child, a social security card issued by the Commissioner of Social Security, health insurance information, a copy of the child's medical records, and a driver's license or identification card issued by a State in accordance with the requirements of section 202 of the REAL ID Act of 2005".
+
+Pub. L. 113–183, §113(b)(2)(B), substituted "14" for "16".
+
+Par. (9). Pub. L. 113–183, §101(b), added par. (9).
+
+Pars. (10), (11). Pub. L. 113–183, §111(a)(1), added pars. (10) and (11).
+
+Par. (12). Pub. L. 113–183, §209(a)(2), added par. (12).
 
 <b>2011</b>—Par. (1)(G)(i). Pub. L. 112–34, §106(a)(1), substituted "each placement" for "the placement".
 
@@ -184,7 +292,7 @@ Par. (5)(A). Pub. L. 105–89, §102(2)(B)(i), inserted "a safe setting that is"
 
 Par. (5)(B). Pub. L. 105–89, §102(2)(B)(ii), inserted "the safety of the child," after "determine" and "and safely maintained in" before "the home or placed for adoption".
 
-Par. (5)(C). Pub. L. 105–89, §302, substituted "permanency hearing" for "dispositional hearing" and "no later than 12 months after the date the child is considered to have entered foster care (as determined under subparagraph (F))" for "no later than eighteen months after the original placement", and which directed the substitution of "permanency plan for the child that includes whether, and if applicable when, the child willbe returned to the parent, placed for adoption and the State will file a petition for termination of parental rights, or referred for legal guardianship, or (in cases where the State agency has documented to the State court a compelling reason for determining that it would not be in the best interests of the child to return home, be referred for termination of parental rights, or be placed for adoption, with a fit and willing relative, or with a legal guardian) placed in another planned permanent living arrangement" for "future status of the child (including, but not limited to, whether the child should be returned to the parent, should be continued in foster care for a specified period, should be placed for adoption, or should (because of the child's special needs or circumstances) be continued in foster care on a permanent or long term basis)", was executed by making the substitution for text which contained the words "long-term" rather than "long term" to reflect the probable intent of Congress.
+Par. (5)(C). Pub. L. 105–89, §302, substituted "permanency hearing" for "dispositional hearing" and "no later than 12 months after the date the child is considered to have entered foster care (as determined under subparagraph (F))" for "no later than eighteen months after the original placement", and which directed the substitution of "permanency plan for the child that includes whether, and if applicable when, the child will be returned to the parent, placed for adoption and the State will file a petition for termination of parental rights, or referred for legal guardianship, or (in cases where the State agency has documented to the State court a compelling reason for determining that it would not be in the best interests of the child to return home, be referred for termination of parental rights, or be placed for adoption, with a fit and willing relative, or with a legal guardian) placed in another planned permanent living arrangement" for "future status of the child (including, but not limited to, whether the childshould be returned to the parent, should be continued in foster care for a specified period, should be placed for adoption, or should (because of the child's special needs or circumstances) be continued in foster care on a permanent or long term basis)", was executed by making the substitution for text which contained the words "long-term" rather than "long term" to reflect the probable intent of Congress.
 
 Par. (5)(E). Pub. L. 105–89, §103(a), added subpar. (E).
 
@@ -220,6 +328,36 @@ Pub. L. 99–272, §12305(b)(2), substituted in cl. (A) "any adoption assistance
 
 <b>1980</b>—Par. (1). Pub. L. 96–272, §102(a)(4), inserted reference to voluntary placement agreements.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by section 111(a)(1) of Pub. L. 113–183 effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see section 111(d) of Pub. L. 113–183, set out as a note under section 671 of this title.
+
+Amendment by section 112(a)(1) of Pub. L. 113–183 effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, see section 112(a)(3), (c) of Pub. L. 113–183, set out as notes under section 622 of this title.
+
+Amendment by section 112(b)(2)(B) of Pub. L. 113–183 effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see section 112(c) of Pub. L. 113–183, set out as a note under section 622 of this title.
+
+Pub. L. 113–183, title I, §113(f), Sept. 29, 2014, 128 Stat. 1929, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[amending this section and section 675a of this title\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Sept. 29, 2014\].
+
+"(2)
+
+Delay permitted if state legislation required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+
+Pub. L. 113–183, title I, §114(b), Sept. 29, 2014, 128 Stat. 1930, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Sept. 29, 2014\].
+
+"(2)
+
+Delay permitted if state legislation required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+
+Amendment by section 209(a)(2) of Pub. L. 113–183 effective Sept. 29, 2014, with delay permitted if State legislation is required, see section 210(e) of Pub. L. 113–183, set out as a note under section 671 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
@@ -236,7 +374,7 @@ Amendment by Pub. L. 110–351 effective Oct. 7, 2008, except as otherwise provi
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meetadditional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 Amendment by Pub. L. 109–239 effective Oct. 1, 2006, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 14 of Pub. L. 109–239, set out as a note under section 622 of this title.
 
@@ -278,6 +416,8 @@ Amendment by section 102(a)(4) of Pub. L. 96–272 effective only with respect t
 
 #### Construction
 
+For construction of amendment by section 209(a)(2) of Pub. L. 113–183, see section 209(b) of Pub. L. 113–183, set out as a note under section 671 of this title.
+
 Pub. L. 105–89, title I, §103(d), Nov. 19, 1997, 111 Stat. 2119, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note below\] or in part E of title IV of the Social Security Act (42 U.S.C. 670 et seq.), as amended by this Act, shall be construed as precluding State courts or State agencies from initiating the termination of parental rights for reasons other than, or for timelines earlier than, those specified in part E of title IV of such Act, when such actions are determined to be in the best interests of the child, including cases where the child has experienced multiple foster care placements of varying durations."
 
 #### Transition Rules; New and Current Foster Children
@@ -313,4 +453,6 @@ Requirements treated as state plan requirements.—For purposes of part E of tit
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
+<i><sup>3</sup></i><i> For text of pars. (10) and (11), see paragraph (3) of Amendment of Section note below.</i>
 

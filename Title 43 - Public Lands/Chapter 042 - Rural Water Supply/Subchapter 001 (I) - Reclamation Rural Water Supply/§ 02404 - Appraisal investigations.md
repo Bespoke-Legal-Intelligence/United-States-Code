@@ -66,7 +66,7 @@ In accordance with subsection (f), after an appraisal investigation is submitted
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 22, 2006, the Secretary shall promulgate criteria (including appraisal factors listed under subsection (c)) against which the appraisal investigations shall be assessed for completeness and appropriateness for a feasibility study.
+&emsp;Not later than 1 year after December 22, 2006, the Secretary shall promulgate criteria\(including appraisal factors listed under subsection (c)) against which the appraisal investigations shall be assessed for completeness and appropriateness for a feasibility study.
 
 #### (2) Inclusions
 

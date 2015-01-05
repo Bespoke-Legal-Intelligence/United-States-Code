@@ -42,7 +42,7 @@ Subsec. (a)(2)(E). Pub. L. 103–322, §40156(c)(4)(A)(iv), which directed the i
 
 Subsec. (a)(3). Pub. L. 103–322, §40156(c)(4)(A)(v), inserted "the Director determines that" before "the application" and substituted a period for "; and" at end.
 
-Subsec. (a)(4). Pub. L. 103–322, §40156(c)(4)(A)(vi), struck out par. (4) which read as follows: "before theapproval of such application and any amendment thereto the Bureau has made an affirmative finding in writing that such equipment and personnel training has been reviewed in accordance with section 3796aa–2 of this title."
+Subsec. (a)(4). Pub. L. 103–322, §40156(c)(4)(A)(vi), struck out par. (4) which read as follows: "before the approval of such application and any amendment thereto the Bureau has made an affirmative finding in writing that such equipment and personnel training has been reviewed in accordance with section 3796aa–2 of this title."
 
 Subsec. (b). Pub. L. 103–322, §40156(c)(4)(A)(vii), (viii), designated concluding provisions of subsec. (a) as subsec. (b) and substituted "the Director" for "the Bureau" wherever appearing. Former subsec. (b) redesignated (c).
 

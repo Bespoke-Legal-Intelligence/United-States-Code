@@ -2,7 +2,7 @@
 
 No later than 18 months after March 30, 2009, and biennially thereafter, the co-chairmen of the Committee shall transmit to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report detailing progress made in implementing this chapter, including—
 
-&emsp;(1) an inventory of ocean and coastal mapping data within the territorial sea and the exclusive economic zone and throughout theContinental Shelf of the United States, noting the age and source of the survey and the spatial resolution (metadata) of the data;
+&emsp;(1) an inventory of ocean and coastal mapping data within the territorial sea and the exclusive economic zone and throughout the Continental Shelf of the United States, noting the age and source of the survey and the spatial resolution (metadata) of the data;
 
 &emsp;(2) identification of priority areas in need of survey coverage using present technologies;
 
@@ -24,7 +24,7 @@ No later than 18 months after March 30, 2009, and biennially thereafter, the co-
 
 &emsp;&emsp;(A) cover the area from the authorized coastal counties through the territorial sea;
 
-&emsp;&emsp;(B) identify how such a pilot project will leverage public and private mapping data and resources, such as the United States Geological Survey National Map, to result in an operational coastal change assessment program for the subregion;
+&emsp;&emsp;(B) identify how such a pilot project will leverage public and private mapping dataand resources, such as the United States Geological Survey National Map, to result in an operational coastal change assessment program for the subregion;
 
 &emsp;(11) the status of efforts to coordinate Federal programs with coastal state and local government programs and leverage those programs;
 

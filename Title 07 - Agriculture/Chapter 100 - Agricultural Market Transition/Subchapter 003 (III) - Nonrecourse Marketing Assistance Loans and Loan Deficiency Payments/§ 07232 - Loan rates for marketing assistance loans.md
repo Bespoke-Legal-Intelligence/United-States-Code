@@ -48,7 +48,7 @@
 
 #### (1) Loan rate
 
-&emsp;Subject to paragraph (2), the loan rate for a marketing assistance loan under section 7231of this title for upland cotton shall be established by the Secretary at such loan rate, per pound, as will reflect for the base quality of upland cotton, as determined by the Secretary, at average locations in the United States a rate that is not less than the smaller of—
+&emsp;Subject to paragraph (2), the loan rate for a marketing assistance loan under section 7231 of this title for upland cotton shall be established by the Secretary at such loan rate, per pound, as will reflect for the base quality of upland cotton, as determined by the Secretary, at average locations in the United States a rate that is not less than the smaller of—
 
 &emsp;&emsp;(A) 85 percent of the average price (weighted by market and month) of the base quality of cotton as quoted in the designated United States spot markets during 3 years of the 5-year period ending July 31 of the year preceding the year in which the crop is planted, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; or
 
@@ -90,7 +90,7 @@ The loan rate for a marketing assistance loan under section 7231 of this title f
 
 #### (3) Other oilseeds
 
-&emsp;The loan rates for a marketing assistance loan under section 7231 of this title for other oilseeds shall be established at such level as the Secretary determines is fair and reasonable in relation to the loan rate available for soybeans, except in no event shall the rate for the oilseeds (other than cottonseed) be less than the rate established for soybeans on a per-pound basis for the same crop.
+&emsp;The loan rates for a marketing assistance loan under section 7231 of this title for otheroilseeds shall be established at such level as the Secretary determines is fair and reasonable in relation to the loan rate available for soybeans, except in no event shall the rate for the oilseeds (other than cottonseed) be less than the rate established for soybeans on a per-pound basis for the same crop.
 
 (Pub. L. 104–127, title I, §132, Apr. 4, 1996, 110 Stat. 905.)
 

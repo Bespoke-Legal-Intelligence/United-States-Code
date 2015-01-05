@@ -52,7 +52,7 @@ The Secretary is authorized—
 
 #### (4) Definition of eligible school
 
-&emsp;In this subsection, the term "eligible school" means a public middle school or secondary school, including a charter school, that has implemented comprehensive reforms that have been effective in lowering school dropout rates for all students—
+&emsp;In this subsection, the term "eligible school" means a public middle school or secondary school, including a charter school, that has implemented comprehensive reforms thathave been effective in lowering school dropout rates for all students—
 
 &emsp;&emsp;(A) in that secondary school or charter school; or
 

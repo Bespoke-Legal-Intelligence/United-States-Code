@@ -2,13 +2,13 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) “employee” means a career appointee in the Senior Executive Service who—
+&emsp;(1) "employee" means a career appointee in the Senior Executive Service who—
 
 &emsp;&emsp;(A) has completed the probationary period prescribed under section 3393(d) of this title; or
 
 &emsp;&emsp;(B) was covered by the provisions of subchapter II of this chapter immediately before appointment to the Senior Executive Service; and
 
-&emsp;(2) “suspension” has the meaning set forth in section 7501(2) of this title.
+&emsp;(2) "suspension" has the meaning set forth in section 7501(2) of this title.
 
 (Added Pub. L. 95–454, title IV, §411(2), Oct. 13, 1978, 92 Stat. 1174.)
 

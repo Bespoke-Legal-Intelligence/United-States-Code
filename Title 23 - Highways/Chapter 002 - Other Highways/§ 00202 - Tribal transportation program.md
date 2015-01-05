@@ -54,7 +54,7 @@ Funds for construction and improvement.—All funds made available for the const
 
 &emsp;(6)
 
-Administrative expenses.—Of the funds authorized to be appropriated for the tribaltransportation program, not more than 6 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
+Administrative expenses.—Of the funds authorized to be appropriated for the tribal transportation program, not more than 6 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
 
 &emsp;(7)
 
@@ -164,7 +164,7 @@ Transportation facilities included in the inventory.—For purposes of identifyi
 
 &emsp;&emsp;&emsp;(vi) are public roads within or providing access to an Indian reservation or Indian trust land or restricted Indian land that is not subject to fee title alienation without the approval of the Federal Government, or Indian or Alaska Native villages, groups, or communities in which Indians and Alaska Natives reside, whom the Secretary of the Interior has determined are eligible for services generally available to Indians under Federal laws specifically applicable to Indians; or
 
-&emsp;&emsp;&emsp;(vii) are primary access routes proposed by tribal governments, including roads between villages, roads to landfills, roads todrinking water sources, roads to natural resources identified for economic development, and roads that provide access to intermodal terminals, such as airports, harbors, or boat landings.
+&emsp;&emsp;&emsp;(vii) are primary access routes proposed by tribal governments, including roads between villages, roads to landfills, roads to drinking water sources, roads to natural resources identified for economic development, and roads that provide access to intermodal terminals, such as airports, harbors, or boat landings.
 
 &emsp;&emsp;(C)
 
@@ -192,7 +192,7 @@ Basis.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—After making the set asides authorized under subparagraph (C) and subsections (c), (d), and (e) on October 1 of each fiscal year, the Secretary shall distribute the remainder authorized to be appropriated for the tribal transportation program under this section among Indian tribes as follows:
+In general.—After making the set asides authorized under subparagraph (C) and subsections (c), (d), and (e) on October 1 of each fiscal year, the Secretary shalldistribute the remainder authorized to be appropriated for the tribal transportation program under this section among Indian tribes as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) For fiscal year 2013—
 
@@ -308,7 +308,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements forsuch planning, research, engineering, and construction in accordance with <sup>2</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with <sup>2</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 &emsp;&emsp;(B)
 
@@ -324,7 +324,7 @@ In general.—Notwithstanding any other provision of law or any interagency agre
 
 &emsp;&emsp;(B)
 
-Exclusion of agency participation.—In accordance with subparagraph (A), all funds, including contract support costs, for a program or project to which subparagraph (A) applies shall be paid to the Indian tribal government without regard to the organizational level at which the Department of the Interior has previously carried out, or the Department of Transportation has previously carried out under the tribal transportation program, the programs, functions, services, or activities involved.
+Exclusion of agency participation.—In accordance with subparagraph (A), allfunds, including contract support costs, for a program or project to which subparagraph (A) applies shall be paid to the Indian tribal government without regard to the organizational level at which the Department of the Interior has previously carried out, or the Department of Transportation has previously carried out under the tribal transportation program, the programs, functions, services, or activities involved.
 
 &emsp;&emsp;(C)
 
@@ -364,7 +364,7 @@ Dispute resolution.—In the event of a disagreement between the Secretary or th
 
 &emsp;&emsp;(J)
 
-Termination of contract or agreement.—On the date of the termination of a contract or agreement under this section by an Indian tribal government, the Secretary shall transfer all funds that would have beenallocated to the Indian tribal government under the contract or agreement to the Secretary of the Interior to provide continued transportation services in accordance with applicable law.
+Termination of contract or agreement.—On the date of the termination of a contract or agreement under this section by an Indian tribal government, the Secretary shall transfer all funds that would have been allocated to the Indian tribal government under the contract or agreement to the Secretary of the Interior to provide continued transportation services in accordance with applicable law.
 
 (c)
 
@@ -396,7 +396,7 @@ Nationwide priority program.—The Secretary shall maintain a nationwide priorit
 
 &emsp;(2)
 
-Funding.—Before making any distribution under subsection (b), the Secretary shall set aside not more than 2 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
+Funding.—Before making any distribution under subsection (b), the Secretary shallset aside not more than 2 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
 
 &emsp;&emsp;(A) to carry out any planning, design, engineering, preconstruction, construction, and inspection of a project to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
 
@@ -452,7 +452,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 #### Tribal High Priority Projects Program
 
-Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, provided that:
+Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, §1001(b)(2), Aug. 8, 2014, 128 Stat. 1840, provided that:
 
 "(a)
 
@@ -652,7 +652,7 @@ Limitation on Use of Funds.—Program funds shall not be used for—
 
 "(f)
 
-Limitation on Project Amounts.—Project funding shall be limited to a maximum of $1,000,000 per application, except that funding for disaster or emergency projects shall also be limited to the estimated cost of repairing damage to the tribal transportation facility.
+Limitation on Project Amounts.—Project funding shall be limited to a maximum of $1,000,000 per application, except that funding for disaster or emergency projects shall also be limited to the estimatedcost of repairing damage to the tribal transportation facility.
 
 "(g)
 
@@ -664,7 +664,7 @@ Authorization of Appropriations.—
 
 &emsp;"(1)
 
-In general.—There is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2013 and 2014.
+In general.—There is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2013 and 2014 and $19,972,603 out of the general fund of the Treasury to carry out the program for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
 &emsp;"(2)
 

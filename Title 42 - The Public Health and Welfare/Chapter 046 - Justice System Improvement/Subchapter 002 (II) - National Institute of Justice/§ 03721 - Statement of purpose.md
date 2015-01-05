@@ -56,7 +56,7 @@ Pub. L. 104–132, title VIII, §809, Apr. 24, 1996, 110 Stat. 1311, provided th
 
 &emsp;&emsp;"(A) those officers who were feloniously killed or seriously injured and those that died or were seriously injured as a result of accidents or other non-felonious causes;
 
-&emsp;&emsp;"(B) those officers feloniously killed or seriously injured with firearms, those killed or seriously injured with, separately, handguns firing handgun caliber ammunition, handguns firing rifle caliber ammunition, rifles firing rifle caliber ammunition,rifles firing handgun caliber ammunition and shotguns;
+&emsp;&emsp;"(B) those officers feloniously killed or seriously injured with firearms, those killed or seriously injured with, separately, handguns firing handgun caliber ammunition, handguns firing rifle caliber ammunition, rifles firing rifle caliber ammunition, rifles firing handgun caliber ammunition and shotguns;
 
 &emsp;&emsp;"(C) those officers feloniously killed or seriously injured with firearms, and killings or serious injuries committed with firearms taken by officers' assailants from officers, and those committed with other officers' firearms; and
 
@@ -200,7 +200,7 @@ Mails.—The Commission may use the United States mails in the same manner and u
 
 #### "SEC. 3407. REPORT.
 
-"Not later than the expiration of the 18-month period beginning on the date of the enactment of this title\[Nov. 29, 1990\], the Commission shall submit to the Congress a report containing the findings of the Commission and specific proposals for legislation and administrative actions that the Commission has determined to be appropriate.
+"Not later than the expiration of the 18-month period beginning on the date of the enactment of this title \[Nov. 29, 1990\], the Commission shall submit to the Congress a report containing the findings of the Commission and specific proposals for legislation and administrative actions that the Commission has determined to be appropriate.
 
 #### "SEC. 3408. TERMINATION.
 

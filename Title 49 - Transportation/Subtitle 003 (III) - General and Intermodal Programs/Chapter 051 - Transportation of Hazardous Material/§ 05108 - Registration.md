@@ -54,7 +54,7 @@ Availability of Statements.—The Secretary shall make a registration statement 
 
 (g)
 
-Fees.—(1) The Secretary shall establish, impose, and collect from a person required to file a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
+Fees.—(1) The Secretary shall establish, impose, and collect from a person required to file a registration statement under subsection\(a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
 
 (2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretary shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $3,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
 
@@ -188,7 +188,7 @@ Subsec. (a)(1)(B). Pub. L. 109–59, §7109(a)(1), substituted "Division 1.1, 1.
 
 Subsec. (a)(2). Pub. L. 109–59, §7126, substituted "Secretary may" for "Secretary of Transportation may" in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 109–59, §7109(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates."
+Subsec. (a)(2)(B). Pub. L. 109–59, §7109(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates."
 
 Subsec. (a)(3). Pub. L. 109–59, §7109(a)(3), substituted "design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or" for "manufacture, fabricate, mark, maintain, recondition, repair, or test a package or".
 

@@ -44,7 +44,7 @@ The Commission shall have the priority of the Government of the United States in
 
 #### (h) Limitations on authority
 
-The authority of the Commission under this section and section 3612b of this title is subject to the Panama Canal Treaty of 1977 and related agreements, and to chapter 91 of title 31.
+The authority of the Commission under this section and section 3612b of this title is subjectto the Panama Canal Treaty of 1977 and related agreements, and to chapter 91 of title 31.
 
 (Pub. L. 96–70, title I, §1102a, as added Pub. L. 104–106, div. C, title XXXV, §3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, title XXXV, §§3546, 3550(d)(3), Nov. 18, 1997, 111 Stat. 2073, 2074.)
 

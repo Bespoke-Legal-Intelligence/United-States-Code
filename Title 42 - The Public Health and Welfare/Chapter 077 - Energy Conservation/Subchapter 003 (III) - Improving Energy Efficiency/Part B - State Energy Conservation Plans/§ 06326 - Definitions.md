@@ -18,7 +18,7 @@ As used in this part—
 
 > &emsp;Rules referred to in subparagraph (A) may include minimum qualifications for, and provisions with respect to conflicts of interest of, persons carrying out such energy audits.
 
-&emsp;(4) The term "energy conservation measure" means a measure which modifies any building, building system, energy consuming device associated with the building, or industrial plant, the construction of which has been completed prior to May 1, 1989, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to be likely to maintain or improve the efficiency of energy use and to reduce energy costs (as calculated on the basisof energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
+&emsp;(4) The term "energy conservation measure" means a measure which modifies any building, building system, energy consuming device associated with the building, or industrial plant, the construction of which has been completed prior to May 1, 1989, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to be likely to maintain or improve the efficiency of energy use and to reduce energy costs (as calculated on the basis of energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
 
 &emsp;&emsp;(A) the useful life of the modification involved, as determined by the Secretary, or
 
@@ -54,7 +54,7 @@ Section 6327 of this title, referred to in par. (3)(B)(i), was repealed by Pub. 
 
 #### Amendments
 
-<b>1990</b>—Par. (4). Pub. L. 101–440 substituted "building, building system, energy consuming device associated with the building, or industrial" for "building or industrial", "May 1, 1989" for "August 14, 1976", and "maintain or improve the efficiency" for "improve the efficiency".
+<b>1990</b>—Par. (4). Pub. L. 101–440 substituted "building, building system, energy consuming device associatedwith the building, or industrial" for "building or industrial", "May 1, 1989" for "August 14, 1976", and "maintain or improve the efficiency" for "improve the efficiency".
 
 <b>1978</b>—Pars. (1), (3)(A), (B)(ii), (4), (A), (6), (B), (B)(i). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 

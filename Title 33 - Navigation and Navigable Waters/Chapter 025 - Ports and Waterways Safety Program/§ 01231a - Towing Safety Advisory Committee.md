@@ -34,7 +34,7 @@ The Committee shall advise, consult with, and make recommendations to the Secret
 
 #### (d) Compensation and travel expenses; administrative services; personnel; authorization of appropriations
 
-Members of the Committee who are not officers or employees of the United States shall serve without pay and members of the Committee who are officers or employees of the United States shall receive no additional pay on account of their service on the Committee. While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. The Secretary shall furnish to the Committeean executive secretary and such secretarial, clerical, and other services as are considered necessary for the conduct of its business. There are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
+Members of the Committee who are not officers or employees of the United States shall serve without pay and members of the Committee who are officers or employees of the United States shall receive no additional pay on account of their service on the Committee. While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. The Secretary shall furnish to the Committee an executive secretary and such secretarial, clerical, and other services as are considered necessary for the conduct of its business. There are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
 
 #### (e) Termination
 

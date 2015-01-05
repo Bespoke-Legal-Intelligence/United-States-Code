@@ -72,7 +72,7 @@ The Secretary may make expenditures from the Waste Fund, subject to subsection (
 
 (1) The Secretary of the Treasury shall hold the Waste Fund and, after consultation with the Secretary, annually report to the Congress on the financial condition and operations of the Waste Fund during the preceding fiscal year.
 
-(2) The Secretary shall submit the budget of the Waste Fund to the Office of Management and Budget triennially along with the budget of the Department of Energy submitted at such time in accordance with chapter 11 of title 31. The budget of the Waste Fund shall consist of the estimates made by the Secretary of expenditures from the Waste Fund and other relevant financial matters for the succeeding 3 fiscal years, and shall be included in the Budget of the United States Government. The Secretary may make expenditures from the Waste Fund, subject to appropriations which shall remain available until expended. Appropriations shall be subject to triennial authorization.
+(2) The Secretary shall submit the budget of the Waste Fund to the Office of Management and Budget triennially along with the budget of the Department of Energy submitted at such time in accordance with chapter 11 of title 31. The budget of the Waste Fund shall consist of the estimates made by the Secretary of expenditures from the Waste Fund and other relevant financial matters for the succeeding 3 fiscalyears, and shall be included in the Budget of the United States Government. The Secretary may make expenditures from the Waste Fund, subject to appropriations which shall remain available until expended. Appropriations shall be subject to triennial authorization.
 
 (3) If the Secretary determines that the Waste Fund contains at any time amounts in excess of current needs, the Secretary may request the Secretary of the Treasury to invest such amounts, or any portion of such amounts as the Secretary determines to be appropriate, in obligations of the United States—
 
@@ -92,7 +92,7 @@ The Secretary may make expenditures from the Waste Fund, subject to subsection (
 
 Subsection (c) of this section, referred to in subsec. (a)(3), was in the original "subsection (c) 126(b)" and was translated as subsection (c) of this section as the probable intent of Congress in view of the establishment of the Nuclear Waste Fund by subsec. (c) of this section and the absence of a section 126 in Pub. L. 97–425.
 
-This subchapter, referred to in subsecs. (a)(5)(B), (d), and (e)(5), was in the original "this subtitle", and wastranslated as this subchapter to reflect the probable intent of Congress because title III of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
+This subchapter, referred to in subsecs. (a)(5)(B), (d), and (e)(5), was in the original "this subtitle", and was translated as this subchapter to reflect the probable intent of Congress because title III of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 
 Such Act, referred to in subsec. (e)(5), probably means chapter 31 of Title 31, Money and Finance.
 

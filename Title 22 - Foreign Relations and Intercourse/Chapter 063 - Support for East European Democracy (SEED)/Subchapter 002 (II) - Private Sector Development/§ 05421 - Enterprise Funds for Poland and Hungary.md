@@ -4,7 +4,7 @@
 
 The purposes of this section are to promote—
 
-&emsp;(1) development of the Polish and Hungarian private sectors, including small businesses,the agricultural sector, and joint ventures with United States and host country participants, and
+&emsp;(1) development of the Polish and Hungarian private sectors, including small businesses, the agricultural sector, and joint ventures with United States and host country participants, and
 
 &emsp;(2) policies and practices conducive to private sector development in Poland and Hungary,
 
@@ -12,7 +12,7 @@ The purposes of this section are to promote—
 
 #### (b) Authorization of appropriations
 
-To carry out the purposes specified in subsection (a) of this section, there are authorized to be appropriated to the President—
+To carry out the purposes specified in subsection (a), there are authorized to be appropriated to the President—
 
 &emsp;(1) $240,000,000 to support the Polish-American Enterprise Fund; and
 
@@ -22,13 +22,13 @@ To carry out the purposes specified in subsection (a) of this section, there are
 
 #### (c) Nonapplicability of other laws
 
-The funds appropriated under subsection (b) of this section may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
+The funds appropriated under subsection (b) may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
 
 #### (d) Designation of Enterprise Funds
 
 #### (1) Designation
 
-&emsp;The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a) of this section. For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the "Enterprise Funds").
+&emsp;The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a). For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the "Enterprise Funds").
 
 #### (2) Consultation with Congress
 
@@ -52,13 +52,13 @@ The funds appropriated under subsection (b) of this section may be made availabl
 
 #### (e) Grants to Enterprise Funds
 
-Funds appropriated to the President pursuant to subsection (b) of this section shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) of this section and for the administrative expenses of each Enterprise Fund.
+Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund.
 
 #### (f) Eligible programs and projects
 
 #### (1) In general
 
-&emsp;The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a) of this section.
+&emsp;The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a).
 
 #### (2) Employee stock ownership plans
 
@@ -86,7 +86,7 @@ In carrying out this section, each Enterprise Fund shall take into account such 
 
 #### (h) Retention of interest
 
-An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
+An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a), and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
 
 #### (i) Use of United States private venture capital
 
@@ -118,7 +118,7 @@ The accounts of each Enterprise Fund shall be audited annually in accordance wit
 
 #### (n) GAO audits
 
-The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
+The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the Government AccountabilityOffice in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
 
 #### (o) Recordkeeping requirements
 

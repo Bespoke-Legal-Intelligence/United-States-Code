@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2016 of thistitle, a system for the direct funding and support of all Bureau-funded schools. Such system shall allot funds in accordance with section 2007 of this title. All amounts appropriated for distribution in accordance with this section shall be made available in accordance with paragraph (2).
+&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2016 of this title, a system for the direct funding and support of all Bureau-funded schools. Such system shall allot funds in accordance with section 2007 of this title. All amounts appropriated for distribution in accordance with this section shall be made available in accordance with paragraph (2).
 
 #### (2) Timing for use of funds
 

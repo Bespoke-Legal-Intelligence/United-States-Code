@@ -10,7 +10,7 @@ In General.—Any person at any time may cite to the Office in writing—
 
 (b)
 
-Official File.—If the person citing prior art or written statements pursuant to subsection (a) explains in writing the pertinenceand manner of applying the prior art or written statements to at least 1 claim of the patent, the citation of the prior art or written statements and the explanation thereof shall become a part of the official file of the patent.
+Official File.—If the person citing prior art or written statements pursuant to subsection (a) explains in writing the pertinence and manner of applying the prior art or written statements to at least 1 claim of the patent, the citation of the prior art or written statements and the explanation thereof shall become a part of the official file of the patent.
 
 (c)
 

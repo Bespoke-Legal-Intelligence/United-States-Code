@@ -36,7 +36,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;(A) A shareholder of a corporation which revoked its election to be treated as a DISC or failed to satisfy the conditions of section 992(a)(1) for a taxable year shall be deemed to have received (at the time specified in subparagraph (B)) a distribution taxable as a dividend equal to his pro rata share of the DISC income of such corporation accumulated during the immediately preceding consecutive taxable years for which the corporation was a DISC.
 
-&emsp;(B) Distributions described in subparagraph (A) shall be deemed to be received in equal installments on the last day of each of the 10 taxable years of the corporation following the year of the termination or disqualification described in subparagraph (A) (but in no caseover more than twice the number immediately preceding consecutive taxable years during which the corporation was a DISC).
+&emsp;(B) Distributions described in subparagraph (A) shall be deemed to be received in equal installments on the last day of each of the 10 taxable years of the corporation following the year of the termination or disqualification described in subparagraph (A) (but in no case over more than twice the number immediately preceding consecutive taxable years during which the corporation was a DISC).
 
 #### (3) Taxable income attributable to military property
 
@@ -102,7 +102,7 @@ For the purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) the outstanding amount of stock or debt obligations of such group issued after December 31, 1971, to persons other than the United States persons or any member of such group;
 
-&emsp;&emsp;&emsp;(iii) one-half the earnings and profits of foreign members of such group and foreign branches of domestic members of such group;
+&emsp;&emsp;&emsp;(iii) one-half the earnings and profits of foreign members of such group and foreignbranches of domestic members of such group;
 
 &emsp;&emsp;&emsp;(iv) one-half the royalties and fees paid by foreign members of such group to domestic members of such group; and
 
@@ -122,7 +122,7 @@ For the purposes of this part—
 
 &emsp;&emsp;(D) one-half the earnings and profits of foreign members of such group and foreign branches of domestic members of such group for taxable years beginning after December 31, 1971.
 
-> &emsp;As used in this subsection, the term "domestic member" means a domestic corporation whichis a member of a controlled group (as defined in section 993(a)(3)), and the term "foreign member" means a foreign corporation which is a member of such a controlled group.
+> &emsp;As used in this subsection, the term "domestic member" means a domestic corporation which is a member of a controlled group (as defined in section 993(a)(3)), and the term "foreign member" means a foreign corporation which is a member of such a controlled group.
 
 #### (4) Uncommitted transitional funds
 
@@ -172,7 +172,7 @@ If—
 
 &emsp;&emsp;The term "shareholder's DISC-related deferred tax liability" means, with respect to any taxable year of a shareholder of a DISC, the excess of—
 
-&emsp;&emsp;&emsp;(i) the amount which would be the tax liability of the shareholder for the taxable year if the deferred DISC income of such shareholder for such taxable year were included in gross income as ordinary income, over
+&emsp;&emsp;&emsp;(i) the amount which would be the tax liability of the shareholder for the taxable year if the deferred DISC income of suchshareholder for such taxable year were included in gross income as ordinary income, over
 
 &emsp;&emsp;&emsp;(ii) the actual amount of the tax liability of such shareholder for such taxable year.
 
@@ -274,7 +274,7 @@ Subsec. (f)(4) to (6). Pub. L. 99–514, §1876(p)(1), redesignated as pars. (4)
 
 Subsec. (f)(7). Pub. L. 99–514, §1876(g), added par. (7).
 
-<b>1984</b>—Subsec. (b)(1)(E). Pub. L. 98–369, §802(b)(1), substituted "of the DISC attributable to qualified exportreceipts of the DISC for the taxable year which exceed $10,000,000" for "for the taxable year attributable to base period export gross receipts (as defined in subsection (e))".
+<b>1984</b>—Subsec. (b)(1)(E). Pub. L. 98–369, §802(b)(1), substituted "of the DISC attributable to qualified export receipts of the DISC for the taxable year which exceed $10,000,000" for "for the taxable year attributable to base period export gross receipts (as defined in subsection (e))".
 
 Subsec. (b)(1)(F)(i). Pub. L. 98–369, §68(d), substituted "one-seventeenth" for "one/half".
 

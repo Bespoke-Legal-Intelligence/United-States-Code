@@ -34,7 +34,7 @@ In carrying out the provisions of the preceding subsection the Administrator is 
 
 &emsp;(8) construct facilities, provide equipment, and employ staff as necessary to carry out this chapter.
 
-> In carrying out the provisions of subsection (a) of this section, the Administrator shall provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications andmake grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsection (a)(5) of this section. Reasonable fees may be charged for such training provided to persons other than personnel of air pollution control agencies but such training shall be provided to such personnel of air pollution control agencies without charge.
+> In carrying out the provisions of subsection (a) of this section, the Administrator shall provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsection (a)(5) of this section. Reasonable fees may be charged for such training provided to persons other than personnel of air pollution control agencies but such training shall be provided to such personnel of air pollution control agencies without charge.
 
 #### (c) Air pollutant monitoring, analysis, modeling, and inventory research
 
@@ -48,7 +48,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;&emsp;(A) improve the ability to inventory emissions of volatile organic compounds and nitrogen oxides that contribute to urban air pollution, including anthropogenic and natural sources;
 
-&emsp;&emsp;(B) improve the understanding of the mechanism through which anthropogenic and biogenic volatile organic compounds react to form ozone and other oxidants; and
+&emsp;&emsp;(B) improve the understanding of the mechanism through which anthropogenicand biogenic volatile organic compounds react to form ozone and other oxidants; and
 
 &emsp;&emsp;(C) improve the ability to identify and evaluate region-specific prevention and control options for ozone pollution.
 
@@ -76,7 +76,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;&emsp;(ii) a determination of gaps in available information related to human health effects and exposure levels; and
 
-&emsp;&emsp;(iii) where appropriate, an identification of additional activities, including toxicologicaland inhalation testing, needed to identify the types or levels of exposure which may present significant risk of adverse health effects in humans.
+&emsp;&emsp;(iii) where appropriate, an identification of additional activities, including toxicological and inhalation testing, needed to identify the types or levels of exposure which may present significant risk of adverse health effects in humans.
 
 #### (e) Ecosystem research
 
@@ -264,7 +264,7 @@ Subsecs. (d), (e). Pub. L. 89–272, §103(4), added subsecs. (d) and (e).
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Termination of Reporting Requirements
 
@@ -302,7 +302,7 @@ Pub. L. 101–549, title IX, §901(g), Nov. 15, 1990, 104 Stat. 2707, provided t
 
 &emsp;"(C) the occurrence and effects of episodic acidification, particularly with respect to high elevation watersheds.
 
-"(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west ofthe Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1)."
+"(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1)."
 
 #### Consultation With and Transmission of Reports and Studies to Congressional Committee
 

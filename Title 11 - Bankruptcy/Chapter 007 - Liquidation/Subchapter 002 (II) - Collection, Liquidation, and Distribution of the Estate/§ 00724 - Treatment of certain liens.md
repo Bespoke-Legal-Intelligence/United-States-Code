@@ -10,7 +10,7 @@
 
 &emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
 
-&emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is junior to such tax lien;
+&emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is notavoidable under this title and that is junior to such tax lien;
 
 &emsp;(5) fifth, to the holder of such tax lien, to the extent that such holder's allowed claim secured by such tax lien is not paid under paragraph (3) of this subsection; and
 

@@ -116,7 +116,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 103–337, div. A, title VI, §602(b), Oct. 5, 1994, 108 Stat. 2781, provided that:
 
-"(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
+"(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-dayperiod beginning on the date the Secretary of Defense submits the report required under paragraph (2).
 
 "(2) Before implementing section 403b of title 37, United States Code, the Secretary of Defense, in consultation with the other administering Secretaries (as defined in subsection (h)(6) \[probably should be (i)(5)\] of such section), shall submit to Congress a report describing—
 

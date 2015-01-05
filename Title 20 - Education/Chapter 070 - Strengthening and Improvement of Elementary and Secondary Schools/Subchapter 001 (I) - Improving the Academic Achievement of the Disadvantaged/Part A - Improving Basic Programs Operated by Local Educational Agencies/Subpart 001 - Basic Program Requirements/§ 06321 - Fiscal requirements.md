@@ -28,7 +28,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (C) Basis
 
-&emsp;&emsp;A local educational agency may meet the requirements of subparagraphs (A) and (B) on a grade-span by grade-span basis or a school-by-school basis.
+&emsp;&emsp;A local educational agency may meet the requirements of subparagraphs (A) and (B)on a grade-span by grade-span basis or a school-by-school basis.
 
 #### (2) Written assurance
 

@@ -20,7 +20,7 @@
 
 &emsp;(B) developing models demonstrating the long-term domestic and international patterns of the transmission of such etiologic agent.
 
-(2) The Secretary may carry out paragraph (1) directly or through grants to, or cooperativeagreeements <sup>1</sup> or contracts with, public and nonprofit private entities, including Federal agencies.
+(2) The Secretary may carry out paragraph (1) directly or through grants to, or cooperative agreeements <sup>1</sup> or contracts with, public and nonprofit private entities, including Federal agencies.
 
 #### (c) Long-term research
 

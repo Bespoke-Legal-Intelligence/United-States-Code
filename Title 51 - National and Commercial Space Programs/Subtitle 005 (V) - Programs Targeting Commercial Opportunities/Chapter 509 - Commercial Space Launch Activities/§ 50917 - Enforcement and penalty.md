@@ -92,7 +92,7 @@ In subsection (c)(1), the words "in accordance with section 554 of title 5" are 
 
 In subsection (c)(2), the words "relevant papers, books, documents, and other" are omitted as surplus. The words "(3) administer oaths and affirmatives" are omitted as surplus because of subsection (b)(1)(B) of this section.
 
-In subsection (c)(3), the word "impose" is substituted for "assessed" for consistency in the revised title andwith other titles of the Code. The words "amount of such" and "modify . . . with or without conditions" are omitted as surplus.
+In subsection (c)(3), the word "impose" is substituted for "assessed" for consistency in the revised title and with other titles of the Code. The words "amount of such" and "modify . . . with or without conditions" are omitted as surplus.
 
 Subsection (c)(4) is substituted for 49 App.:2618(b) to eliminate unnecessary words.
 

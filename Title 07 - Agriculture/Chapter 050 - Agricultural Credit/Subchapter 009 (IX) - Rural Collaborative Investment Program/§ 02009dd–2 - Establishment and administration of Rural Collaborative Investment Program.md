@@ -40,15 +40,9 @@ In carrying out this subchapter, the Secretary shall—
 
 &emsp;&emsp;(A) programs to assist Regional Boards in determining the challenges and opportunities that must be addressed to receive the greatest regional competitive advantage;
 
-&emsp;&emsp;(B) support for best practices development by the regional investment boards;
+&emsp;&emsp;(B) support for best practices development by the regional investment boards; and
 
-&emsp;&emsp;(C) programs to support the development of appropriate governance and leadership skills in the region; and
-
-&emsp;&emsp;(D) a review and evaluation of the performance of the Regional Boards (including progress in achieving benchmarks established in a regional investment strategy) in an annual report submitted to—
-
-&emsp;&emsp;&emsp;(i) the Committee on Agriculture of the House of Representatives; and
-
-&emsp;&emsp;&emsp;(ii) the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+&emsp;&emsp;(C) programs to support the development of appropriate governance and leadership skills in the region.
 
 #### (c) National Rural Investment Board
 
@@ -152,9 +146,9 @@ The National Board shall—
 
 #### (f) Administrative support
 
-The Secretary, on a reimbursable basis from funds made available under section 2009dd–7 ofthis title, may provide such administrative support to the National Board as the Secretary determines is necessary.
+The Secretary, on a reimbursable basis from funds made available under section 2009dd–7 of this title, may provide such administrative support to the National Board as the Secretary determines is necessary.
 
-(Pub. L. 87–128, title III, §385C, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 403; amended Pub. L. 110–234, title VI, §6028, May 22, 2008, 122 Stat. 1184; Pub. L. 110–246, §4(a), title VI, §6028, June 18, 2008, 122 Stat. 1664, 1945.)
+(Pub. L. 87–128, title III, §385C, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 403;amended Pub. L. 110–234, title VI, §6028, May 22, 2008, 122 Stat. 1184; Pub. L. 110–246, §4(a), title VI, §6028, June 18, 2008, 122 Stat. 1664, 1945; Pub. L. 113–188, title I, §101(e)(1), Nov. 26, 2014, 128 Stat. 2017.)
 
 #### References in Text
 
@@ -165,6 +159,8 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(7)(B) to (D). Pub. L. 113–188 inserted "and" at end of subpar. (B), substituted period for "; and" at end of subpar. (C), and struck out subpar. (D) which related to annual reports evaluating the performance of the Regional Boards.
 
 <b>2008</b>—Pub. L. 110–246, §6028, amended section generally. Prior to amendment, section provided for certification of Regional Investment Boards.
 

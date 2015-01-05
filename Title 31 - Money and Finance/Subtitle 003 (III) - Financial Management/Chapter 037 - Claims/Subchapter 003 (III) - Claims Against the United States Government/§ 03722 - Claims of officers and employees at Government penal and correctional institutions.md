@@ -12,7 +12,7 @@
 
 &emsp;(3) it is presented in writing within one year after it accrues.
 
-(d) A claim may be paid under this section only if the claimant accepts the amount of thesettlement in complete satisfaction of the claim.
+(d) A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim.
 
 (e) Necessary amounts are authorized to be appropriated to carry out this section.
 

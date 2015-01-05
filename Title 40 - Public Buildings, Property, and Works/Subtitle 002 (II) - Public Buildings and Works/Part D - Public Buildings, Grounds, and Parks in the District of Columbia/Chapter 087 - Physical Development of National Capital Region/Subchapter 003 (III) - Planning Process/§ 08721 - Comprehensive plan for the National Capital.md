@@ -134,7 +134,7 @@ June 6, 1924, ch. 270, §2(a)(3), (4), as added July 19, 1952, ch. 949, §1, 66 
 
 June 6, 1924, ch. 270, §2(d), as added July 19, 1952, ch. 949, §1, 66 Stat. 783.
 
-In subsection (a), the text of 40:71c(a) (2d, 3d sentences) and reference to the National Capital RegionalPlanning Council are omitted as obsolete because the Council was abolished by section 1 of Reorganization Plan No. 5 of 1966 (eff. Sept. 8, 1966, 40:71b note). The words "from time to time" are omitted as unnecessary.
+In subsection (a), the text of 40:71c(a) (2d, 3d sentences) and reference to the National Capital Regional Planning Council are omitted as obsolete because the Council was abolished by section 1 of Reorganization Plan No. 5 of 1966 (eff. Sept. 8, 1966, 40:71b note). The words "from time to time" are omitted as unnecessary.
 
 In subsection (e)(2), before clause (A), the words "in addition and at its discretion" are omitted as unnecessary.
 

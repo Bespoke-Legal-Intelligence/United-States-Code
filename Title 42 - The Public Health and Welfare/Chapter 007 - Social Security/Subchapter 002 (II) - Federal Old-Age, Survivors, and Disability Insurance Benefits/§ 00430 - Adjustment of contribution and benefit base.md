@@ -48,7 +48,7 @@ The enactment of the Social Security Amendments of 1977, referred to in subsec. 
 
 Subsec. (b)(1), (2). Pub. L. 103–296, §321(g)(1)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-"(1) the contribution and benefit base which is in effect with respect to remuneration paid in (and taxableyears beginning in) the calendar year in which the determination under subsection (a) of this section is made, and
+"(1) the contribution and benefit base which is in effect with respect to remuneration paid in (and taxable years beginning in) the calendar year in which the determination under subsection (a) of this section is made, and
 
 "(2) the ratio of (A) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the deemed average total wages (as so defined) for the calendar year before the most recent calendar year in which an increase in the contribution and benefit base was enacted or a determination resulting in such an increase was made under subsection (a) of this section,".
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 101–239, §10208(b)(5), substituted "change (except that,
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21 substituted "December" for "June".
 
-Subsec. (c). Pub. L. 98–76, §225(a)(4), struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code which resulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under section 231b(j) of title 45, except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
+Subsec. (c). Pub. L. 98–76, §225(a)(4), struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code whichresulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under section 231b(j) of title 45, except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
 
 Pub. L. 98–76, §211(d), temporarily substituted "12.75 percent" for "11.75 percent". See Effective and Termination Dates of 1983 Amendments note below.
 
@@ -136,7 +136,7 @@ Transitional rule.—For purposes of determining the contribution and benefit ba
 
 "(3)
 
-Determination of contribution and benefit base for 1993.—For purposes of determining the contribution and benefit base for 1993 under section 230(b) of the Social Security Act (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977), the average of total wages for 1990 shall be determined without regard to subparagraph (C) of paragraph (2).
+Determination of contribution and benefit base for 1993.—For purposes of determining the contribution and benefit base for 1993 under section 230(b) of the Social Security Act (and section 230(b) of suchAct as in effect immediately prior to enactment of the Social Security Amendments of 1977), the average of total wages for 1990 shall be determined without regard to subparagraph (C) of paragraph (2).
 
 "(4)
 
@@ -178,13 +178,15 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Social Security Contribution and Benefit Base
 
+<b>2015</b>—By notice of the Commissioner of Social Security, Oct. 29, 2014, 79 F.R. 64455, as corrected Nov. 4, 2014, 79 F.R. 65472, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2015 is $118,500.
+
 <b>2014</b>—By notice of the Commissioner of Social Security, Oct. 31, 2013, 78 F.R. 66413, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2014 is $117,000.
 
 <b>2013</b>—By notice of the Commissioner of Social Security, Oct. 23, 2012, 77 F.R. 65754, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2013 is $113,700.
 
 <b>2012</b>—By notice of the Commissioner of Social Security, Oct. 24, 2011, 76 F.R. 66111, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2012 is $110,100.
 
-<b>2011</b>—By notice of the Commissioner of Social Security, Oct. 26, 2010, 75 F.R. 65696, as corrected Nov. 30, 2010, 75 F.R. 74123, it was determined and announcedthat the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2011 will remain $106,800.
+<b>2011</b>—By notice of the Commissioner of Social Security, Oct. 26, 2010, 75 F.R. 65696, as corrected Nov. 30, 2010, 75 F.R. 74123, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2011 will remain $106,800.
 
 <b>2010</b>—By notice of the Commissioner of Social Security, Oct. 20, 2009, 74 F.R. 55614, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2010 will remain $106,800.
 
@@ -204,7 +206,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 <b>2002</b>—By notice of the Commissioner of Social Security, Oct. 19, 2001, 66 F.R. 54047, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2002 is $84,900.
 
-<b>2001</b>—By notice of the Commissioner of Social Security, Oct. 18, 2000, 65 F.R. 63663, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2001 is $80,400.
+<b>2001</b>—By notice of the Commissioner of Social Security, Oct. 18, 2000, 65 F.R. 63663, it was determined andannounced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2001 is $80,400.
 
 <b>2000</b>—By notice of the Commissioner of Social Security, Oct. 20, 1999, 64 F.R. 57506, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2000 is $76,200.
 
@@ -234,7 +236,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 <b>1987</b>—By notice of the Secretary of Health and Human Services, Oct. 31, 1986, 51 F.R. 40256, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1987 is $43,800.
 
-<b>1986</b>—By notice of the Secretary of Health and Human Services, Oct. 29, 1985, 50 F.R. 45559, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employmentincome earned in taxable years beginning in, 1986 is $42,000.
+<b>1986</b>—By notice of the Secretary of Health and Human Services, Oct. 29, 1985, 50 F.R. 45559, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1986 is $42,000.
 
 <b>1985</b>—By notice of the Secretary of Health and Human Services, Oct. 29, 1984, 49 F.R. 43775, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1985 is $39,600.
 

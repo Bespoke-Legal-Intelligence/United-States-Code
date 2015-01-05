@@ -18,5 +18,5 @@ Concurrent with privatization, the Corporation shall transfer to the private cor
 
 #### Codification
 
-Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus ConsolidatedRescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 

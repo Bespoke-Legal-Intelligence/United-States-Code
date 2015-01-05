@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "liquidation, put, call, or conversion right" does not include any rightwhich must be exercised at a specific time and at a specific amount.
+&emsp;&emsp;&emsp;The term "liquidation, put, call, or conversion right" does not include any right which must be exercised at a specific time and at a specific amount.
 
 #### (ii) Treatment of certain rights
 
@@ -408,7 +408,7 @@ Exception.—For purposes of subparagraph (A)(i), with respect to property trans
 
 #### Time for Election Under Subsection (c)(3)(C)(i)
 
-Pub. L. 104–188, title I, §1702(f)(5)(C), Aug. 20, 1996, 110 Stat. 1871, provided that: "The time for making an election under the second sentence of section 2701(c)(3)(C)(i) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) shall not expire before the due date (including extensions) for filing the transferor's return of the tax imposed by section 2501 of such Code for the first calendar year ending after the date of enactment \[probably means the date of enactment of Pub. L. 104–188, Oct. 20, 1996\]."
+Pub. L. 104–188, title I, §1702(f)(5)(C), Aug. 20, 1996, 110 Stat. 1871, provided that: "The time for making an election under the second sentence of section 2701(c)(3)(C)(i) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) shall not expire before the due date (including extensions) for filing the transferor's return of the tax imposed by section 2501 of such Code for thefirst calendar year ending after the date of enactment \[probably means the date of enactment of Pub. L. 104–188, Oct. 20, 1996\]."
 
 #### Study of Methods Used To Distort Valuation of Property for Purposes of Estate and Gift Tax
 

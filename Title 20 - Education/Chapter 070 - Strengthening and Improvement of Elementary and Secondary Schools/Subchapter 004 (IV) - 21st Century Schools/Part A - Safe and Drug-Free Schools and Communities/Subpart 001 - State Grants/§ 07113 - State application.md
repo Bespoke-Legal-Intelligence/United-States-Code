@@ -8,7 +8,7 @@ In order to receive an allotment under section 7111(b) of this title for any fis
 
 &emsp;(2) describes how activities funded under this subpart will foster a safe and drug-free learning environment that supports academic achievement;
 
-&emsp;(3) provides an assurance that the application was developed in consultation and coordination with appropriate State officials and others, including the chief executive officer, the chief State school officer, the head of theState alcohol and drug abuse agency, the heads of the State health and mental health agencies, the head of the State criminal justice planning agency, the head of the State child welfare agency, the head of the State board of education, or their designees, and representatives of parents, students, and community-based organizations;
+&emsp;(3) provides an assurance that the application was developed in consultation and coordination with appropriate State officials and others, including the chief executive officer, the chief State school officer, the head of the State alcohol and drug abuse agency, the heads of the State health and mental health agencies, the head of the State criminal justice planning agency, the head of the State child welfare agency, the head of the State board of education, or their designees, and representatives of parents, students, and community-based organizations;
 
 &emsp;(4) describes how the State educational agency will coordinate such agency's activities under this subpart with the chief executive officer's drug and violence prevention programs under this subpart and with the prevention efforts of other State agencies and other programs, as appropriate, in accordance with the provisions in section 7846 of this title;
 

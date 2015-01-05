@@ -34,7 +34,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (g) The term "common defense and security" means the common defense and security of the United States.
 
-(h) The term "defense information" means any information in any category determined byany Government agency authorized to classify information, as being information respecting, relating to, or affecting the national defense.
+(h) The term "defense information" means any information in any category determined by any Government agency authorized to classify information, as being information respecting, relating to, or affecting the national defense.
 
 (i) The term "design" means (1) specifications, plans, drawings, blueprints, and other items of like nature; (2) the information contained therein; or (3) the research and development data pertinent to the information contained therein.
 
@@ -58,7 +58,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (s) The term "person" means (1) any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, Government agency other than the Commission, any State or any political subdivision of, or any political entity within a State, any foreign government or nation or any political subdivision of any such government or nation, or other entity; and (2) any legal successor, representative, agent, or agency of the foregoing.
 
-(t) The term "person indemnified" means (1) with respect to a nuclear incident occurring within the United States or outside the United States as the term is used in section 2210(c) of this title, and with respect to any nuclear incident in connection with the design, development, construction, operation, repair, maintenance, or use of the nuclear ship Savannah, the person with whom an indemnity agreement is executed or who is required to maintain financial protection, and any other person who may be liable for public liability or (2) with respect to any other nuclear incident occurring outside the United States, the person with whom an indemnity agreement is executed and any other person who may be liable for public liability by reason of his activities under any contract with the Secretary of Energy or any project to which indemnification under the provisions of section 2210(d) of this title has been extended or under any subcontract, purchase order, or other agreement, of any tier, under any such contract or project.
+(t) The term "person indemnified" means (1) with respect to a nuclear incident occurringwithin the United States or outside the United States as the term is used in section 2210(c) of this title, and with respect to any nuclear incident in connection with the design, development, construction, operation, repair, maintenance, or use of the nuclear ship Savannah, the person with whom an indemnity agreement is executed or who is required to maintain financial protection, and any other person who may be liable for public liability or (2) with respect to any other nuclear incident occurring outside the United States, the person with whom an indemnity agreement is executed and any other person who may be liable for public liability by reason of his activities under any contract with the Secretary of Energy or any project to which indemnification under the provisions of section 2210(d) of this title has been extended or under any subcontract, purchase order, or other agreement, of any tier, under any such contract or project.
 
 (u) The term "produce", when used in relation to special nuclear material, means (1) to manufacture, make, produce, or refine special nuclear material; (2) to separate special nuclear material from other substances in which such material may be contained; or (3) to make or to produce new special nuclear material.
 
@@ -86,7 +86,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (gg) The term "precautionary evacuation" means an evacuation of the public within a specified area near a nuclear facility, or the transportation route in the case of an accident involving transportation of source material, special nuclear material, byproduct material, high-level radioactive waste, spent nuclear fuel, or transuranic waste to or from a production or utilization facility, if the evacuation is—
 
-&emsp;(1) the result of any event that is not classified as a nuclear incident but that poses imminent danger of bodily injury or property damage from the radiological properties of source material, special nuclear material, byproductmaterial, high-level radioactive waste, spent nuclear fuel, or transuranic waste, and causes an evacuation; and
+&emsp;(1) the result of any event that is not classified as a nuclear incident but that poses imminent danger of bodily injury or property damage from the radiological properties of source material, special nuclear material, byproduct material, high-level radioactive waste, spent nuclear fuel, or transuranic waste, and causes an evacuation; and
 
 &emsp;(2) initiated by an official of a State or a political subdivision of a State, who is authorized by State law to initiate such an evacuation and who reasonably determined that such an evacuation was necessary to protect the public health and safety.
 

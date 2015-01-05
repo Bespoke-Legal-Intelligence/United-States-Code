@@ -8,7 +8,7 @@
 
 &emsp;(B) the tonnage, hold capacity, speed, processing equipment, and type and quantity of gear, including an inventory of special equipment required under section 1413 of this title, with respect to each vessel.
 
-(2) The Secretary is authorized to charge a fee for granting an authorization and issuing a permit under this section. The level of fees charged under this paragraph may not exceed the administrative cost incurred in granting an authorization and issuing a permit. Fees collected under this paragraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in granting authorizations and issuing permits under this section.
+(2) The Secretary is authorized to charge a fee for granting an authorization and issuing a permit under this section. The level of fees chargedunder this paragraph may not exceed the administrative cost incurred in granting an authorization and issuing a permit. Fees collected under this paragraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in granting authorizations and issuing permits under this section.
 
 (3) After the effective date of the International Dolphin Conservation Program Act, no vessel of the United States shall operate in the yellowfin tuna fishery in the eastern tropical Pacific Ocean without a valid permit issued under this section.
 

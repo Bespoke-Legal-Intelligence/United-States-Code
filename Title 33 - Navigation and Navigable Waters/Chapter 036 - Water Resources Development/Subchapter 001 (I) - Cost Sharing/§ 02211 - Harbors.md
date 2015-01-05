@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;The Federal share of the cost of operation and maintenance of each navigation project for a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986, shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 45 feet.
+&emsp;The Federal share of the cost of operation and maintenance of each navigation projectfor a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986, shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 50 feet.
 
 #### (2) Dredged material disposal facilities
 
@@ -68,13 +68,15 @@ The Secretary shall ensure, to the extent practicable, that—
 
 &emsp;(3) use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.
 
-(Pub. L. 99–662, title I, §101, Nov. 17, 1986, 100 Stat. 4082; Pub. L. 100–676, §13(a), Nov. 17, 1988, 102 Stat. 4025; Pub. L. 102–580, title III, §333(b)(1), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 104–303, title II, §201(a)–(d), Oct. 12, 1996, 110 Stat. 3671, 3672.)
+(Pub. L. 99–662, title I, §101, Nov. 17, 1986, 100 Stat. 4082; Pub. L. 100–676, §13(a), Nov. 17, 1988, 102 Stat. 4025; Pub. L. 102–580, title III, §333(b)(1), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 104–303, title II, §201(a)–(d), Oct. 12, 1996, 110 Stat. 3671, 3672; Pub. L. 113–121, title II, §2102(b), June 10, 2014, 128 Stat. 1278.)
 
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–121 substituted "50 feet" for "45 feet".
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–303, §201(a)(1), inserted last sentence and struck out former last sentence which read as follows: "The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph."
 
@@ -90,7 +92,7 @@ Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 
 <b>1992</b>—Subsec. (a)(3). Pub. L. 102–580 substituted "Except as provided under section 906(c), the non-Federal" for "The non-Federal".
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–676 added par. (2) and struck out former par. (2) which read as follows: "The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to section 2216 of this title. The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) shall be credited toward the payment required under this paragraph."
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–676 added par. (2) and struck out former par. (2) which read as follows: "The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the costof the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to section 2216 of this title. The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) shall be credited toward the payment required under this paragraph."
 
 #### Effective Date of 1988 Amendment
 

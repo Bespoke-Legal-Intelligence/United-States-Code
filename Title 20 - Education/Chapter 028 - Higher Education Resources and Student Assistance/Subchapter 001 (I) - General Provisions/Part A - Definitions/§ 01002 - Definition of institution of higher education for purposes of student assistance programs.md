@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C), the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1001 of this title (except that a graduate medical school, nursing school, or a veterinary school, located outside the United States shall not be required to meet the requirements of section 1001(a)(4) of this title). Such criteria shall include a requirementthat a student attending such school outside the United States is ineligible for loans made under part C of subchapter IV of this chapter unless—
+&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C), the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1001 of this title (except that a graduate medical school, nursing school, or a veterinary school, located outside the United States shall not be required to meet the requirements of section 1001(a)(4) of this title). Such criteria shall include a requirement that a student attending such school outside the United States is ineligible for loans made under part C of subchapter IV of this chapter unless—
 
 &emsp;&emsp;&emsp;(i) except as provided in subparagraph (B)(iii)(IV), in the case of a graduate medical school located outside the United States—
 

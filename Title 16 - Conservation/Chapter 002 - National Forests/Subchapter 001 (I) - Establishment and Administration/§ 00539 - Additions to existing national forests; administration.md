@@ -16,7 +16,7 @@ This Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat
 
 #### Chugach National Forest Boundary Change
 
-Pub. L. 102–415, §6, Oct. 14, 1992, 106 Stat. 2113, provided that:
+Pub. L. 102–415, §6, Oct. 14, 1992, 106 Stat. 2113, as amended by Pub. L. 113–287, §5(d)(12), Dec. 19, 2014, 128 Stat. 3265, provided that:
 
 "(a)
 
@@ -34,5 +34,5 @@ Terms and Conditions.—(1) Nothing in this Act \[see Short Title of 1992 Amendm
 
 "(d)
 
-Land and Water Conservation Fund Act.—For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9), the boundary of the Chugach National Forest, as modified by this section, shall be treated as if it were the boundary of the Chugach National Forest as of January 1, 1965."
+Land and Water Conservation Fund Act.—For purposes of section 100506 of title 54, United States Code, the boundary of the Chugach National Forest, as modified by this section, shall be treated as if it were the boundary of the Chugach National Forest as of January 1, 1965."
 

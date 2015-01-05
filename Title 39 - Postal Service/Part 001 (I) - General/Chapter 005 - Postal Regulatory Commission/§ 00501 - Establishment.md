@@ -52,7 +52,7 @@ Contents.—The report under this subsection shall include—
 
 Recommended Changes to Universal Service and the Monopoly.—The Postal Regulatory Commission shall include in the report under subsection (a), and in all reports submitted under section 701 of this Act \[set out as a note above\]—
 
-&emsp;"(1) any recommended changes to universal service and the postal monopoly as the Commission considers appropriate, including changes that the Commission may implement under current law and changes that would require changes to current law, with estimated effects of the recommendations on the service, financial condition, rates, and security of mail provided by the Postal Service;
+&emsp;"(1) any recommended changes to universal service and the postal monopoly as the Commission considers appropriate, including changes that the Commission may implement under current law and changes thatwould require changes to current law, with estimated effects of the recommendations on the service, financial condition, rates, and security of mail provided by the Postal Service;
 
 &emsp;"(2) with respect to each recommended change described under paragraph (1)—
 
@@ -66,7 +66,7 @@ Recommended Changes to Universal Service and the Monopoly.—The Postal Regulato
 
 Consultation.—In preparing the report required by this section, the Postal Regulatory Commission—
 
-&emsp;"(1) shall solicit written comments from the Postal Service and consult with the Postal Service and otherFederal agencies, users of the mails, enterprises in the private sector engaged in the delivery of the mail, and the general public; and
+&emsp;"(1) shall solicit written comments from the Postal Service and consult with the Postal Service and other Federal agencies, users of the mails, enterprises in the private sector engaged in the delivery of the mail, and the general public; and
 
 &emsp;"(2) shall address in the report any written comments received under this section.
 

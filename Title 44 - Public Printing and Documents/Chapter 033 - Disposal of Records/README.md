@@ -19,20 +19,13 @@
 | [3312\.](%C2%A7%2003312%20-%20Photographs%20or%20microphotographs%20of%20records%20considered%20as%20originals%3B%20certified%20reproductions%20admissible%20in%20evidence.md) | Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence. |
 | [3313\.](%C2%A7%2003313%20-%20Moneys%20from%20sale%20of%20records%20payable%20into%20the%20Treasury.md) | Moneys from sale of records payable into the Treasury. |
 | [3314\.](%C2%A7%2003314%20-%20Procedures%20for%20disposal%20of%20records%20exclusive.md) | Procedures for disposal of records exclusive. |
-| [3315\.](%C2%A7%2003315%20-%20Definitions.md) | Definitions. |
-| [3316\.](%C2%A7%2003316%20-%20Establishment%20of%20Commission.md) | Establishment of Commission. |
-| [3317\.](%C2%A7%2003317%20-%20Duties%20of%20Commission.md) | Duties of Commission. |
-| [3318\.](%C2%A7%2003318%20-%20Membership.md) | Membership. |
-| [3319\.](%C2%A7%2003319%20-%20Director%20and%20staff%3B%20experts%20and%20consultants.md) | Director and staff; experts and consultants. |
-| [3320\.](%C2%A7%2003320%20-%20Powers%20of%20Commission.md) | Powers of Commission. |
-| [3321\.](%C2%A7%2003321%20-%20Support%20services.md) | Support services. |
-| [3322\.](%C2%A7%2003322%20-%20Report.md) | Report. |
-| [3323\.](%C2%A7%2003323%20-%20Termination.md) | Termination. |
-| [3324\.](%C2%A7%2003324%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| \[3315 to 3324. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–187, §7(b), Nov. 26, 2014, 128 Stat. 2011, struck out items 3315 "Definitions", 3316 "Establishment of Commission", 3317 "Duties of Commission", 3318 "Membership", 3319 "Director and staff; experts and consultants", 3320 "Powers of Commission", 3321 "Support services", 3322 "Report", 3323 "Termination", and 3324 "Authorization of appropriations".
 
 <b>2004</b>—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted "Government Accountability Office" for "General Accounting Office" in item 3309.
 
@@ -63,13 +56,4 @@
 - [&sect; 03312 - Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence](%C2%A7%2003312%20-%20Photographs%20or%20microphotographs%20of%20records%20considered%20as%20originals%3B%20certified%20reproductions%20admissible%20in%20evidence.md)
 - [&sect; 03313 - Moneys from sale of records payable into the Treasury](%C2%A7%2003313%20-%20Moneys%20from%20sale%20of%20records%20payable%20into%20the%20Treasury.md)
 - [&sect; 03314 - Procedures for disposal of records exclusive](%C2%A7%2003314%20-%20Procedures%20for%20disposal%20of%20records%20exclusive.md)
-- [&sect; 03315 - Definitions](%C2%A7%2003315%20-%20Definitions.md)
-- [&sect; 03316 - Establishment of Commission](%C2%A7%2003316%20-%20Establishment%20of%20Commission.md)
-- [&sect; 03317 - Duties of Commission](%C2%A7%2003317%20-%20Duties%20of%20Commission.md)
-- [&sect; 03318 - Membership](%C2%A7%2003318%20-%20Membership.md)
-- [&sect; 03319 - Director and staff; experts and consultants](%C2%A7%2003319%20-%20Director%20and%20staff%3B%20experts%20and%20consultants.md)
-- [&sect; 03320 - Powers of Commission](%C2%A7%2003320%20-%20Powers%20of%20Commission.md)
-- [&sect; 03321 - Support services](%C2%A7%2003321%20-%20Support%20services.md)
-- [&sect; 03322 - Report](%C2%A7%2003322%20-%20Report.md)
-- [&sect; 03323 - Termination](%C2%A7%2003323%20-%20Termination.md)
-- [&sect; 03324 - Authorization of appropriations](%C2%A7%2003324%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03315 to 3324 - Repealed. Pub. L. 113&#8211;187, &sect;7(a), Nov. 26, 2014, 128 Stat. 2011](%C2%A7%2003315%20to%203324%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93187%2C%20%C2%A77%28a%29%2C%20Nov.%2026%2C%202014%2C%20128%20Stat.%202011.md)

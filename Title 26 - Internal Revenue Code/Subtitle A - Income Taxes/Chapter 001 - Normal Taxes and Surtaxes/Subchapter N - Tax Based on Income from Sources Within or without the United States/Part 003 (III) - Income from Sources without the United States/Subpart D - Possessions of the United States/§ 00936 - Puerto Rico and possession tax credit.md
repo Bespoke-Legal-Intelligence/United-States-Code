@@ -30,13 +30,11 @@
 
 &emsp;The credit provided by paragraph (1) shall not be allowed against the tax imposed by—
 
-&emsp;&emsp;(A) section 59A (relating to environmental tax),
+&emsp;&emsp;(A) section 531 (relating to the tax on accumulated earnings),
 
-&emsp;&emsp;(B) section 531 (relating to the tax on accumulated earnings),
+&emsp;&emsp;(B) section 541 (relating to personal holding company tax), or
 
-&emsp;&emsp;(C) section 541 (relating to personal holding company tax), or
-
-&emsp;&emsp;(D) section 1351 (relating to recoveries of foreign expropriation losses).
+&emsp;&emsp;(C) section 1351 (relating to recoveries of foreign expropriation losses).
 
 #### (4) Limitations on credit for active business income
 
@@ -70,41 +68,21 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the credit determined under paragraph (1) for such taxable year with respect to income referred to in subparagraph (A) thereof shall be the applicable percentage of the credit which would otherwise have been determined under such paragraph with respect to such income.
 
-&emsp;&emsp;&nbsp;Notwithstanding subclause (I), a possession corporation to which an electionunder this subparagraph applies shall be entitled to the benefits of subsection (i)(3)(B) for taxes allocable (on a pro rata basis) to taxable income the tax on which is not offset by reason of this subparagraph.
+&emsp;&emsp;&nbsp;Notwithstanding subclause (I), a possession corporation to which an election under this subparagraph applies shall be entitled to the benefits of subsection (i)(3)(B) for taxes allocable (on a pro rata basis) to taxable income the tax on which is not offset by reason of this subparagraph.
 
 #### (ii) Applicable percentage
 
 &emsp;&emsp;&emsp;The term "applicable percentage" means the percentage determined in accordance with the following table:
 
-<b> In the case of taxable</b>
+&nbsp;
 
-<b>The   </b>
-
-<b>  years beginning in:</b>
-
-<b>percentage is:</b>
-
-&emsp;&emsp;&nbsp;1994
-
-60&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;1995
-
-55&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;1996
-
-50&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;1997
-
-45&nbsp;&nbsp;
-
-&emsp;&emsp;&nbsp;1998 and thereafter
-
-40\.&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>  In the case of taxable years    beginning in:</b> | <b>The percentage is:</b> |
+| :--- | ---: |
+| 1994 | 60   |
+| 1995 | 55&nbsp;&nbsp; |
+| 1996 | 50&nbsp;&nbsp; |
+| 1997 | 45&nbsp;&nbsp; |
+| 1998 and thereafter | 40\. |
 
 #### (iii) Election
 
@@ -380,7 +358,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 &emsp;&emsp;&emsp;&emsp;(I) an appropriate transitional (but not in excess of three taxable years) significant business presence test for commencement in a possession of operations with respect to products or types of service after the date of the enactment of this clause and not described in subparagraph (B)(iii)(I),
 
-&emsp;&emsp;&emsp;&emsp;(II) a significant business presence test for other appropriate cases, consistent with the tests specified in subparagraph (B)(ii),
+&emsp;&emsp;&emsp;&emsp;(II) a significant business presence test for other appropriate cases, consistentwith the tests specified in subparagraph (B)(ii),
 
 &emsp;&emsp;&emsp;&emsp;(III) rules for the definition of a product or type of service, and
 
@@ -414,7 +392,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (e) Product area
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term "product area" shall be defined by reference to the three-digit classification of the Standard Industrial Classification code. The Secretary mayprovide for the aggregation of two or more three-digit classifications where appropriate, and for a classification system other than the Standard Industrial Classification code in appropriate cases.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term "product area" shall be defined by reference to the three-digit classification of the Standard Industrial Classification code. The Secretary may provide for the aggregation of two or more three-digit classifications where appropriate, and for a classification system other than the Standard Industrial Classification code in appropriate cases.
 
 #### (II) Effect of election
 
@@ -478,7 +456,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (iv) Aggregation
 
-&emsp;&emsp;&emsp;(I) Where more than one electing corporation in the affiliated group produces any product or renders any services in the same product area, all such electing corporations must elect to compute their taxable income under the same method under subparagraph (C).
+&emsp;&emsp;&emsp;(I) Where more than one electing corporation in the affiliated group producesany product or renders any services in the same product area, all such electing corporations must elect to compute their taxable income under the same method under subparagraph (C).
 
 &emsp;&emsp;&emsp;(II) All electing corporations in the same affiliated group that produce any products or render any services in the same product area may elect, subject to such terms and conditions as the Secretary may prescribe by regulations, to compute their taxable income from export sales under a different method from that used for all other sales and services. For this purpose, export sales means all sales by the electing corporation of products to foreign persons for use or consumption outside the United States and its possessions, provided such products are manufactured or produced in the possession within the meaning of subsection (d)(1)(A) of section 954, and further provided (except to the extent otherwise provided by regulations) the income derived by such foreign person on resale of such products (in the same state or in an altered state) is not included in foreign base company income for purposes of section 954(a).
 
@@ -540,7 +518,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "wages" has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section). For purposes of the preceding sentence, such subsection (b) shall be applied as if theterm "United States" included all possessions of the United States.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "wages" has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section). For purposes of the preceding sentence, such subsection (b) shall be applied as if the term "United States" included all possessions of the United States.
 
 #### (ii) Special rule for agricultural labor and railway labor
 
@@ -838,7 +816,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 > &emsp;this subsection (and so much of this section as relates to this subsection) shall be applied separately with respect to each possession.
 
-(Added Pub. L. 94–455, title X, §1051(b), Oct. 4, 1976, 90 Stat. 1643; amended Pub. L. 94–455, title XIX, §1901(b)(37)(B), Oct. 4, 1976, 90 Stat. 1803; Pub. L. 95–600, title VII, §701(u)(11)(A), (B), Nov. 6, 1978, 92 Stat. 2917; Pub. L. 97–248, title II, §201(d)(8)(B), formerly §201(c)(8)(B), §213(a), Sept. 3, 1982, 96 Stat. 420, 452, renumbered §201(d)(8)(B), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(22), title VII, §712(g), title VIII, §801(d)(11), July 18, 1984, 98 Stat. 843, 947, 997; Pub. L. 99–499, title V, §516(b)(1)(B), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §231(d)(3)(G), title VII, §701(e)(4)(I), title XII, §§1231(a)–(d), (f), 1275(a)(1), title XVIII, §1812(c)(4)(C), Oct. 22, 1986, 100 Stat. 2179, 2343, 2561–2563, 2598, 2835; Pub. L. 100–647, title I, §§1002(h)(3), 1012(h)(2)(B), (j), (n)(4), (5), title VI, §6132(a), Nov. 10, 1988, 102 Stat. 3370, 3502, 3512, 3515, 3721; Pub. L. 101–382, title II, §227(a), Aug. 20, 1990, 104 Stat. 661; Pub. L. 101–508, title XI, §11704(a)(11), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 103–66, title XIII, §13227(a), (b), Aug. 10, 1993, 107 Stat. 489, 490; Pub. L. 104–188, title I, §§1601(a), 1704(t)(37), (80), Aug. 20, 1996, 110 Stat. 1827, 1889, 1891; Pub. L. 108–357, title IV, §402(b)(2), Oct. 22, 2004, 118 Stat. 1492; Pub. L. 110–172, §11(g)(12), Dec. 29, 2007, 121 Stat. 2490.)
+(Added Pub. L. 94–455, title X, §1051(b), Oct. 4, 1976, 90 Stat. 1643; amended Pub. L. 94–455, title XIX, §1901(b)(37)(B), Oct. 4, 1976, 90 Stat. 1803; Pub. L. 95–600, title VII, §701(u)(11)(A), (B), Nov. 6, 1978, 92 Stat. 2917; Pub. L. 97–248, title II, §201(d)(8)(B), formerly §201(c)(8)(B), §213(a), Sept. 3, 1982, 96 Stat. 420, 452, renumbered §201(d)(8)(B), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(22), title VII, §712(g), title VIII, §801(d)(11), July 18, 1984, 98 Stat. 843, 947, 997; Pub. L. 99–499, title V, §516(b)(1)(B), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §231(d)(3)(G), title VII, §701(e)(4)(I), title XII, §§1231(a)–(d), (f), 1275(a)(1), title XVIII, §1812(c)(4)(C), Oct. 22, 1986, 100 Stat. 2179, 2343, 2561–2563, 2598, 2835; Pub. L. 100–647, title I, §§1002(h)(3), 1012(h)(2)(B), (j), (n)(4), (5), title VI, §6132(a), Nov. 10, 1988, 102 Stat. 3370, 3502, 3512, 3515, 3721; Pub. L. 101–382, title II, §227(a), Aug. 20, 1990, 104 Stat. 661; Pub. L. 101–508, title XI, §11704(a)(11), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 103–66, title XIII, §13227(a), (b), Aug. 10, 1993, 107 Stat. 489, 490; Pub. L. 104–188, title I, §§1601(a), 1704(t)(37), (80), Aug. 20, 1996, 110 Stat. 1827, 1889, 1891; Pub. L. 108–357, title IV, §402(b)(2), Oct. 22, 2004, 118 Stat. 1492; Pub. L. 110–172, §11(g)(12), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 113–295, div. A, title II, §221(a)(12)(G), Dec. 19, 2014, 128 Stat. 4038.)
 
 #### References in Text
 
@@ -853,6 +831,8 @@ The date of the enactment of this clause, referred to in subsec. (h)(5)(B)(iii)(
 Section 230 of the Social Security Act, referred to in subsec. (i)(1)(B)(i), is classified to section 430 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(3). Pub. L. 113–295 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: "section 59A (relating to environmental tax),".
 
 <b>2007</b>—Subsec. (f)(2)(B). Pub. L. 110–172 struck out "FSC or" before "former FSC".
 
@@ -892,23 +872,12 @@ Subsec. (h)(7), (8). Pub. L. 100–647, §1012(h)(2)(B), added par. (7) and rede
 
 Subsec. (a)(2)(C). Pub. L. 99–514, §1231(d)(2), struck out subpar. (C), transitional rule, which read as follows: "In applying subparagraph (B) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, the following percentage shall be substituted for '65 percent':
 
-<b>"For taxable years beginning</b>
-
 &nbsp;
 
-<b> in calendar year:</b>
-
-<b>The percentage is:</b>
-
-&emsp;&emsp;1983
-
-55&nbsp;&nbsp;
-
-&emsp;&emsp;1984
-
-60\."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>"For taxable years beginning in calendar year:</b> | <b>The percentage is:</b> |
+| :--- | ---: |
+| &nbsp;1983 | 55&nbsp;&nbsp; |
+| &nbsp;1984 | 60\." |
 
 Subsec. (a)(3). Pub. L. 99–499 in par. (3), as amended by Pub. L. 99–514, added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
@@ -956,6 +925,10 @@ Subsec. (d). Pub. L. 95–600, §701(u)(11)(B), substituted in heading "Definiti
 
 <b>1976</b>—Subsec. (a)(2)(D). Pub. L. 94–455, §1901(b)(37)(B), struck out subpar. (D) relating to war loss recoveries.
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to losses for taxable years beginning after Dec. 31, 2006, see section 402(c) of Pub. L. 108–357, set out as a note under section 535 of this title.
@@ -1000,7 +973,7 @@ In general.—The amendments made by subsection (e) \[amending sections 367 and 
 
 &emsp;"(B)
 
-Special rule for section 936.—For purposes of section 936(h)(5)(C) of the Internal Revenue Code of 1986 the amendments made by subsection (e) shall apply to taxable years beginning after December 31, 1986, without regard to when the transfer (or license), if any, was made.
+Special rule for section 936.—For purposes of section 936(h)(5)(C) of the Internal Revenue Code of1986 the amendments made by subsection (e) shall apply to taxable years beginning after December 31, 1986, without regard to when the transfer (or license), if any, was made.
 
 "(3)
 
@@ -1096,7 +1069,7 @@ For applicability of amendment by section 701(e)(4)(I) of Pub. L. 99–514 notwi
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Report on Possessions Corporations
 

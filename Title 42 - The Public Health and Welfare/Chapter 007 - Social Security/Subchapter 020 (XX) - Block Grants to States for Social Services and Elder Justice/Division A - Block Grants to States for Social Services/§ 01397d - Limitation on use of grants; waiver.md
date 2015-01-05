@@ -44,7 +44,7 @@ A prior section 1397d, act Aug. 14, 1935, ch. 531, title XX, §2005, as added Ja
 
 <b>1997</b>—Subsec. (a)(10). Pub. L. 105–12 added par. (10).
 
-<b>1988</b>—Subsec. (a)(9)(A), (B). Pub. L. 100–360, §411(k)(10)(D), as amended by Pub. L. 100–485, §608(d)(26)(K)(ii), added Pub. L. 100–203, §4118(e)(13), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (a)(9)(A), (B). Pub. L. 100–360, §411(k)(10)(D), as amended by Pub. L. 100–485,§608(d)(26)(K)(ii), added Pub. L. 100–203, §4118(e)(13), see 1987 Amendment note below.
 
 <b>1987</b>—Subsec. (a)(9). Pub. L. 100–93 added par. (9).
 

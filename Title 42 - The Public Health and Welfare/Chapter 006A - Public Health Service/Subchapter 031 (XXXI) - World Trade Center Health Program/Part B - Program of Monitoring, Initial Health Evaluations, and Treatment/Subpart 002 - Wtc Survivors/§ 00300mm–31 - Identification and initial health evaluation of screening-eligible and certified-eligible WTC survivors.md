@@ -14,7 +14,7 @@
 
 #### (ii) Survivor who meets current eligibility criteria
 
-&emsp;&emsp;&emsp;An individual who is not a WTC responder, for purposes of the initial health evaluation under subsection (b), claims symptoms of a WTC-related health condition and meets any of the current eligibility criteria described in subparagraph (B).
+&emsp;&emsp;&emsp;An individual who is not a WTC responder, for purposes of the initial healthevaluation under subsection (b), claims symptoms of a WTC-related health condition and meets any of the current eligibility criteria described in subparagraph (B).
 
 #### (iii) Survivor who meets modified eligibility criteria
 
@@ -76,7 +76,7 @@
 
 #### (bb) Other members
 
-&emsp;&emsp;&emsp;&emsp;&emsp;In the case of another individual who is determined under clause (i) and consistent with paragraph (3) to be a screening-eligible WTC survivor, the WTC Program Administrator shall provide the written documentation under subclause (I) at the time of such determination.
+&emsp;&emsp;&emsp;&emsp;&emsp;In the case of another individual who is determined under clause (i) and consistent with paragraph (3) to be ascreening-eligible WTC survivor, the WTC Program Administrator shall provide the written documentation under subclause (I) at the time of such determination.
 
 #### (2) Certified-eligible WTC survivors
 

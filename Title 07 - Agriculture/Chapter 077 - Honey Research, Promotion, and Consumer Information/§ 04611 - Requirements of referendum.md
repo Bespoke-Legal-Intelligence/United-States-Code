@@ -26,7 +26,7 @@ For the purpose of ascertaining whether issuance of an order is approved by prod
 
 #### (2) Attribution of quantity of honey
 
-&emsp;For the purpose of subsection (b)(1)(B) of this section—
+&emsp;For the purpose of subsection (b)(1)(B)—
 
 &emsp;&emsp;(A) the quantity of honey or honey products on which the qualifying producer-packer or importer owes assessments as a handler shall be attributed to the person's vote as a handler under paragraph (1); and
 

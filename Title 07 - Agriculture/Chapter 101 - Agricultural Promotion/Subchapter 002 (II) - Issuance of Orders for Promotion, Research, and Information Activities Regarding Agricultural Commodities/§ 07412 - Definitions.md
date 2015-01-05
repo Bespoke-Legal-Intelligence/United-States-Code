@@ -14,9 +14,15 @@ In this subchapter (unless the context otherwise requires):
 
 &emsp;&emsp;(D) the products of forestry;
 
-&emsp;&emsp;(E) other commodities raised or produced on farms, as determined appropriate by the Secretary; and
+&emsp;&emsp;(E) products, as a class, that are—
 
-&emsp;&emsp;(F) products processed or manufactured from products specified in the preceding subparagraphs, as determined appropriate by the Secretary.
+&emsp;&emsp;&emsp;(i) produced on a certified organic farm (as defined in section 6502 of this title); and
+
+&emsp;&emsp;&emsp;(ii) certified to be sold or labeled as "organic" or "100 percent organic" (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation));
+
+&emsp;&emsp;(F) other commodities raised or produced on farms, as determined appropriate by the Secretary; and
+
+&emsp;&emsp;(G) products processed or manufactured from products specified in the preceding subparagraphs, as determined appropriate by the Secretary.
 
 #### (2) Board
 
@@ -98,5 +104,9 @@ In this subchapter (unless the context otherwise requires):
 
 &emsp;The term "United States" means collectively the 50 States, the District of Columbia, the Commonwealth of Puerto Rico and the territories and possessions of the United States.
 
-(Pub. L. 104–127, title V, §513, Apr. 4, 1996, 110 Stat. 1033.)
+(Pub. L. 104–127, title V, §513, Apr. 4, 1996, 110 Stat. 1033; Pub. L. 113–79, title X, §10004(f), Feb. 7, 2014, 128 Stat. 944.)
+
+#### Amendments
+
+<b>2014</b>—Par. (1)(E) to (G). Pub. L. 113–79 added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 

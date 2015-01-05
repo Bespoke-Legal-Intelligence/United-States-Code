@@ -94,5 +94,5 @@ In subsection (c), in paragraphs (1) and (4), references to the useful life spec
 
 #### References in Text
 
-The Merchant Marine Act, 1936, referred to in subsecs. (a), (b)(1), (c), is act June 29, 1936, ch. 858, 49 Stat.1985. Titles V and VI of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
+The Merchant Marine Act, 1936, referred to in subsecs. (a), (b)(1), (c), is act June 29, 1936, ch. 858, 49 Stat. 1985. Titles V and VI of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
 

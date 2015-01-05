@@ -80,7 +80,7 @@ Subsec. (c)(1). Pub. L. 110–181, §1116(1), inserted "(after due consideration
 
 Pub. L. 110–181, §954(b)(1), substituted "President" for "Dean".
 
-Subsec. (c)(4). Pub. L. 110–181, §1116(2), substituted "sections 5307 and 5373" for "section 5373" and insertedat end "In no event may the total amount of compensation paid to an employee under paragraph (1) in any year (including salary, allowances, differentials, bonuses, awards, and other similar cash payments) exceed the total amount of annual compensation (excluding expenses) specified in section 102 of title 3."
+Subsec. (c)(4). Pub. L. 110–181, §1116(2), substituted "sections 5307 and 5373" for "section 5373" and inserted at end "In no event may the total amount of compensation paid to an employee under paragraph (1) in any year (including salary, allowances, differentials, bonuses, awards, and other similar cash payments) exceed the total amount of annual compensation (excluding expenses) specified in section 102 of title 3."
 
 Subsecs. (d) to (j). Pub. L. 110–181, §954(a)(3)(A)(ii), (iii), redesignated subsecs. (d), (f), (g), (h), (i), and (j) as (b), (c), (d), (e), (f), and (g), respectively, and struck out former subsec. (e) which read as follows: "Members of the Board (other than ex officio members) while attending conferences or meetings or while otherwise performing their duties as members shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not exceeding $100 per diem and shall also be entitled to receive an allowance for necessary travel expenses while so serving away from their place of residence."
 

@@ -32,7 +32,7 @@ The purposes of this subpart are the following:
 
 &emsp;(1) To authorize and develop innovative culturally-based educational programs and cultural exchanges to assist Alaska Natives, Native Hawaiians, and children and families of Massachusetts linked by history and tradition to Alaska and Hawaii to learn about shared culture and traditions.
 
-&emsp;(2) To authorize and develop internship and apprentice programs to assist Alaska Natives, Native Hawaiians, and children and families of Massachusetts linked by history and tradition with Alaska and Hawaii to prepare for careers with cultural institutions.
+&emsp;(2) To authorize and develop internship and apprentice programs to assist Alaska Natives,Native Hawaiians, and children and families of Massachusetts linked by history and tradition with Alaska and Hawaii to prepare for careers with cultural institutions.
 
 &emsp;(3) To supplement programs and authorities in the area of education to further the objectives of this subpart.
 

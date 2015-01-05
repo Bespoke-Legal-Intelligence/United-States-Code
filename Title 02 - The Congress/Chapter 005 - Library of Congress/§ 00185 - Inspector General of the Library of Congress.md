@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Library of Congress Inspector General Act of 2005”.
+This section may be cited as the "Library of Congress Inspector General Act of 2005".
 
 #### (b) Office of Inspector General
 
@@ -42,9 +42,9 @@ There is an Office of Inspector General within the Library of Congress which is 
 
 &emsp;Sections 4, 5 (other than subsections <sup>1</sup> (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Library of Congress and the Office of such Inspector General and such sections shall be applied to the Library of Congress and the Librarian of Congress by substituting—
 
-&emsp;&emsp;(A) “Library of Congress” for “establishment”; and
+&emsp;&emsp;(A) "Library of Congress" for "establishment"; and
 
-&emsp;&emsp;(B) “Librarian of Congress” for “head of the establishment”.
+&emsp;&emsp;(B) "Librarian of Congress" for "head of the establishment".
 
 #### (2) Employees
 
@@ -80,17 +80,17 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(3). See 2007 Amendment note below.
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–178 inserted “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–178 inserted ", except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police" before semicolon at end.
 
 <b>2007</b>—Subsec. (b)(1). Pub. L. 110–161, §1004(d)(3), which made amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 #### Effective Date of 2010 Amendment
 
-Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L.110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under former section 167 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

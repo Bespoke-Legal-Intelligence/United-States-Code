@@ -94,7 +94,7 @@
 
 &emsp;(34) with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
 
-&emsp;(35)(A)(i) a detailed, separate analysis, by budget function, by agency, and by initiativearea (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
+&emsp;(35)(A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year,the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
 
 &emsp;&emsp;(I) summaries of the total amount of such appropriations or new obligational authority and outlays requested for homeland security;
 
@@ -124,23 +124,29 @@
 
 &emsp;&emsp;(E) the portion of the deficit which can be attributed to any action taken by the Secretary using authority provided by the Emergency Economic Stabilization Act of 2008 and the extent to which the change in the deficit since the most recent estimate is due to a reestimate using the methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008.
 
-&emsp;(37) <sup>1</sup> information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
+&emsp;(37) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for the following accounts of the Department of Veterans Affairs:
 
-&emsp;&emsp;(A) Medical Services.
+&emsp;&emsp;(A) Veterans Benefits Administration, Compensation and Pensions.
 
-&emsp;&emsp;(B) Medical Support and Compliance.
+&emsp;&emsp;(B) Veterans Benefits Administration, Readjustment Benefits.
 
-&emsp;&emsp;(C) Medical Facilities.
+&emsp;&emsp;(C) Veterans Benefits Administration, Veterans Insurance and Indemnities.
+
+&emsp;&emsp;(D) Veterans Health Administration, Medical Services.
+
+&emsp;&emsp;(E) Veterans Health Administration, Medical Support and Compliance.
+
+&emsp;&emsp;(F) Veterans Health Administration, Medical Facilities.
 
 &emsp;(38) a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
 
-&emsp;(37) <sup>2</sup> the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
+&emsp;(39) the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
 (c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 
-(d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that weremade before the budget or information was submitted.
+(d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
 (e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
@@ -224,7 +230,7 @@
 
 (2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569.)
 
 #### Amendment of Subsection (a)
 
@@ -394,11 +400,15 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36)
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (a)(36), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to in subsec. (a)(38), is section 411 of Pub. L. 111–291, title IV, Dec. 8, 2010, 124 Stat. 3113, subsec. (h) of which amended this section. Subsecs. (a) to (g) of section 411, which relate to establishment of the Crow Settlement Fund, are not classified to the Code.
+Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to in subsec. (a)(38), is section 411 of Pub. L. 111–291, title IV, Dec. 8, 2010, 124 Stat.3113, subsec. (h) of which amended this section. Subsecs. (a) to (g) of section 411, which relate to establishment of the Crow Settlement Fund, are not classified to the Code.
 
-Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which isset out as a note under section 1395i of Title 42, The Public Health and Welfare.
+Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which is set out as a note under section 1395i of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(37). Pub. L. 113–235, §244(d)(1), added par. (37) and struck out former par. (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration.
+
+Subsec. (a)(39). Pub. L. 113–235, §244(d)(2), redesignated par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation as par. (39).
 
 <b>2011</b>—Subsec. (a)(33), (35). Pub. L. 111–352, §11(a)(1), made amendment identical to that made by Pub. L. 111–291, §411(h)(2). See 2010 Amendment note below.
 
@@ -546,6 +556,10 @@ Pub. L. 111–291, title IV, §415, Dec. 8, 2010, 124 Stat. 3121, provided that:
 
 Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1101 of this title.
 
+#### Annual Agency Reports Required
+
+Pub. L. 113–235, div. D, title IV, §404, Dec. 16, 2014, 128 Stat. 2331, provided that: "For this fiscal year, and each fiscal year hereafter, each independent agency receiving funding under this title \[see Tables for classification\] shall submit to the Committees on Appropriations of the House of Representatives and the Senate a Congressional Budget Justification and a detailed annual report."
+
 #### Administrative Expenses of Executive Branch Entities; Separate Categories
 
 Pub. L. 111–85, title V, §504, Oct. 28, 2009, 123 Stat. 2879, provided that:
@@ -562,7 +576,7 @@ Administrative expenses.—The term 'administrative expenses' has the meaning as
 
 Agency.—The term 'agency'—
 
-&emsp;&emsp;"(A) means an agency as defined under section 1101 of title 31, United States Code, that is established in the executive branch and receives funding under this Act \[Pub. L. 111–85, see Tables for classification\]; and
+&emsp;&emsp;"(A) means an agency as defined under section 1101 of title 31, United States Code, that is established in the executive branch and receives fundingunder this Act \[Pub. L. 111–85, see Tables for classification\]; and
 
 &emsp;&emsp;"(B) shall not include the District of Columbia government.
 
@@ -588,7 +602,7 @@ Budget Submission.—Each budget of the United States Government submitted under
 
 #### Consultation
 
-Pub. L. 110–343, div. A, title II, §203(b), Oct. 3, 2008, 122 Stat. 3801, provided that: "In implementing this section\[amending this section and enacting provisions set out as a note under this section\], the Director of \[the\] Office of Management and Budget shall consult periodically, but at least annually, with the Committee on the Budget of the House of Representatives, the Committee on the Budget of the Senate, and the Director of the Congressional Budget Office."
+Pub. L. 110–343, div. A, title II, §203(b), Oct. 3, 2008, 122 Stat. 3801, provided that: "In implementing this section \[amending this section and enacting provisions set out as a note under this section\], the Director of \[the\] Office of Management and Budget shall consult periodically, but at least annually, with the Committee on the Budget of the House of Representatives, the Committee on the Budget of the Senate, and the Director of the Congressional Budget Office."
 
 #### Procedures in the House of Representatives
 
@@ -648,7 +662,7 @@ Floor Consideration in the House of Discharged Legislation.—
 
 &emsp;"(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c), the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
 
-&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
+&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment,and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
 
 &emsp;"(3) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any such legislation shall be decided without debate.
 
@@ -891,8 +905,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. Another par. (37) is set out after par. (38).</i>
-
-<i><sup>2</sup></i><i> So in original. Another par. (37) is set out preceding par. (38).</i>
 

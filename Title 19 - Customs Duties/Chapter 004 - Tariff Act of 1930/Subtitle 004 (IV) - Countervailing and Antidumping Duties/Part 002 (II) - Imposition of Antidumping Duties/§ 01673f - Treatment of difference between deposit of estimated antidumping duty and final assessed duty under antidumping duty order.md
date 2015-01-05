@@ -22,7 +22,7 @@ If the amount of an estimated antidumping duty deposited under section 1673e(a)(
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–295, §40(1), substituted "deposit, or the amount of any bond or other security,required" for "deposit collected" in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–295, §40(1), substituted "deposit, or the amount of any bond or other security, required" for "deposit collected" in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 104–295, §40(2), substituted "that the cash deposit, bond, or other security" for "the cash deposit collected".
 

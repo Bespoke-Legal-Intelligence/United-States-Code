@@ -64,7 +64,7 @@ In general.—
 
 &emsp;&emsp;(B)
 
-Applicability of other fee provisions.—The provisions of paragraphs (3) and (4) of section 111(a) relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in subparagraph (A) with respect to an application filed under section 111(a). The provisions of section 371(d) relating to the payment of the national fee shall apply to the payment of the fee specified in subparagraph (A) with respect to an international application.
+Applicability of other fee provisions.—The provisions of paragraphs (3) and\(4) of section 111(a) relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in subparagraph (A) with respect to an application filed under section 111(a). The provisions of section 371(d) relating to the payment of the national fee shall apply to the payment of the fee specified in subparagraph (A) with respect to an international application.
 
 &emsp;(4)
 
@@ -92,7 +92,7 @@ Appeal fees.—
 
 &emsp;(7)
 
-Revival fees.—On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, forthe delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director <sup>1</sup>
+Revival fees.—On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director <sup>1</sup>
 
 &emsp;(8)
 
@@ -178,7 +178,7 @@ Other fees.—
 
 &emsp;&emsp;(A)
 
-In general.—The Director shall establish fees for all other processing, services, or materials relating to patents not specified inthis section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
+In general.—The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
 
 &emsp;&emsp;&emsp;(i) For recording a document affecting title, $40 per property.
 
@@ -236,7 +236,7 @@ Access fees.—The Director may establish reasonable fees for access by the publ
 
 Annual report to congress.—The Director shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Director shall also publish such report in the Federal Register. The Director shall provide an opportunity for the submission of comments by interested persons on each such report.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e),Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535.)
 
 #### Historical and Revision Notes
 
@@ -412,7 +412,7 @@ Subsec. (b). Pub. L. 97–247, §3(b), substituted provisions setting a fee sche
 
 Pub. L. 97–256, §101(2), substituted "October 1, 1982" for "the first day of the first fiscal year beginning on or after one calendar year after enactment of this Act" and "the first day of the first fiscal year beginning on or after one calendar year after enactment".
 
-Subsec. (c). Pub. L. 97–247, §3(c), substituted maintenance provisions for provisions which had directed that fees for maintaining patents in force were to recover 25 per centum of the estimated cost to the Office, for the year in which such maintenance fees were received, of the actual processing all applications for patents, other than for design patents, from filing through disposition by issuance or abandonment, that fees for maintaining a patent in force would be due three years and sixmonths, seven years and six months, and eleven years and six months after the grant of the patent, that unless payment of the applicable maintenance fee was received in the Patent and Trademark Office on or before the date the fee was due or within a grace period of six months thereafter, the patent would expire as of the end of such grace period, and that the Commissioner could require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee.
+Subsec. (c). Pub. L. 97–247, §3(c), substituted maintenance provisions for provisions which had directed that fees for maintaining patents in force were to recover 25 per centum of the estimated cost to the Office, for the year in which such maintenance fees were received, of the actual processing all applications for patents, other than for design patents, from filing through disposition by issuance or abandonment, that fees for maintaining a patent in force would be due three years and six months, seven years and six months, and eleven years and six months after the grant of the patent, that unless payment of the applicable maintenance fee was received in the Patent and Trademark Office on or before the date the fee was due or within a grace period of six months thereafter, the patent would expire as of the end of such grace period, and that the Commissioner could require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee.
 
 Pub. L. 97–256, §101(3), substituted "October 1, 1996" for "the fifteenth fiscal year following the date of enactment of this Act".
 
@@ -620,7 +620,7 @@ Publication of final rule.—The final rule setting or adjusting a fee under thi
 
 Congressional comment period.—A fee set or adjusted under subsection (a) may not become effective—
 
-&emsp;&emsp;"(A) before the end of the 45-day period beginning on the day after the date on which the Director publishes the final rule adjusting or setting the fee under paragraph (3); or
+&emsp;&emsp;"(A) before the end of the 45-day period beginning on the day after the date on which the Directorpublishes the final rule adjusting or setting the fee under paragraph (3); or
 
 &emsp;&emsp;"(B) if a law is enacted disapproving such fee.
 
@@ -662,7 +662,7 @@ Effective date.—Except as provided in subsection (h), this section \[enacting 
 
 &emsp;"(2)
 
-Sunset.—The authority of the Director to set or adjust any fee under subsection (a) shall terminateupon the expiration of the 7-year period beginning on the date of the enactment of this Act.
+Sunset.—The authority of the Director to set or adjust any fee under subsection (a) shall terminate upon the expiration of the 7-year period beginning on the date of the enactment of this Act.
 
 &emsp;"(3)
 
@@ -888,7 +888,7 @@ Extension fees.—For petitions for 1-month extensions of time to take actions r
 
 "(b)
 
-Patent Maintenance Fees.—During fiscal years 2005, 2006, and 2007, subsection (b) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
+Patent Maintenance Fees.—During fiscal years 2005, 2006, and 2007, subsection (b) of section 41 of title35, United States Code, shall be administered as though that subsection reads as follows:
 
 " '(b)
 
@@ -914,7 +914,7 @@ Patent Search and Other Fees.—
 
 Patent search fees.—
 
-&emsp;&emsp;" '(A) The Director shall charge a fee for the search of each application for a patent, except for provisional applications. The Director shall establish the fees charged under this paragraph to recover an amount not to exceed the estimated average cost to the Office of searching applications for patent either by acquiring a search report from a qualified search authority, or by causing a search by Office personnel to be made, of each application for patent. For the 3-year period beginning on the date of enactment of this Act, the fee for a search by a qualified search authority of a patent application described in clause (i), (iv), or (v) of subparagraph (B) may not exceed $500, of a patent application described in clause (ii) of subparagraph (B)may not exceed $100, and of a patent application described in clause (iii) of subparagraph (B) may not exceed $300. The Director may not increase any such fee by more than 20 percent in each of the next three 1-year periods, and the Director may not increase any such fee thereafter.
+&emsp;&emsp;" '(A) The Director shall charge a fee for the search of each application for a patent, except for provisional applications. The Director shall establish the fees charged under this paragraph to recover an amount not to exceed the estimated average cost to the Office of searching applications for patent either by acquiring a search report from a qualified search authority, or by causing a search by Office personnel to be made, of each application for patent. For the 3-year period beginning on the date of enactment of this Act, the fee for a search by a qualified search authority of a patent application described in clause (i), (iv), or (v) of subparagraph (B) may not exceed $500, of a patent application described in clause (ii) of subparagraph (B) may not exceed $100, and of a patent application described in clause (iii) of subparagraph (B) may not exceed $300. The Director may not increase any such fee by more than 20 percent in each of the next three 1-year periods, and the Director may not increase any such fee thereafter.
 
 &emsp;&emsp;" '(B) For purposes of determining the fees to be established under this paragraph, the cost to the Office of causing a search of an application to be made by Office personnel shall be deemed to be—
 
@@ -1076,7 +1076,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4204\], Nov. 29, 1999, 113
 
 #### Cost Recovery for Publication
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4506\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, provided that: "The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall recover the cost of early publication required by the amendment made by section 4502 \[amending section 122 of this title\] by charging a separate publication fee after notice of allowance is given under section 151 of title 35, United States Code."
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4506\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, provided that: "The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent andTrademark Office shall recover the cost of early publication required by the amendment made by section 4502 \[amending section 122 of this title\] by charging a separate publication fee after notice of allowance is given under section 151 of title 35, United States Code."
 
 #### Continuation of Maintenance
 
@@ -1092,7 +1092,7 @@ In General.—The United States Patent and Trademark Office shall develop and im
 
 "(b)
 
-Definition.—In this section, the term 'rural States' means the States that qualified on January 1,1997, as rural States under section 1501(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 379bb(b) \[3796bb(b)\])."
+Definition.—In this section, the term 'rural States' means the States that qualified on January 1, 1997, as rural States under section 1501(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 379bb(b) \[3796bb(b)\])."
 
 #### Waiver of Certain Restrictions
 

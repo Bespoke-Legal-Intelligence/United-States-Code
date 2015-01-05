@@ -6,7 +6,7 @@ After March 31, 1994, no person shall permit smoking within any indoor facility 
 
 #### (b) Additional prohibition
 
-After March 31, 1994, no person shall permit smoking within any indoor facility (or portion thereof) owned or leased or contracted for by such person for the provision by such person of regular or routine health care or day care or early childhood development (Head Start) services to children or for the use of the employees of such person who provides such services, except that this subsection shall not apply to—
+After March 31, 1994, no person shall permit smoking within any indoor facility (or portion thereof) owned or leased or contracted for bysuch person for the provision by such person of regular or routine health care or day care or early childhood development (Head Start) services to children or for the use of the employees of such person who provides such services, except that this subsection shall not apply to—
 
 &emsp;(1) any portion of such facility that is used for inpatient hospital treatment of individuals dependent on, or addicted to, drugs or alcohol; and
 
@@ -60,7 +60,7 @@ The prohibitions in subsections (a) through (c) of this section shall be incorpo
 
 #### (2) Administrative proceeding
 
-&emsp;A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued, by the Secretary only after an opportunity for a hearing in accordance with section 554 of title 5. Before making such assessment or issuing such order, or both, the Secretary shall give written notice thereof to such person by certified mail with return receipt and provide therein an opportunity to request in writing not later than 30 days after the date of receipt of such notice such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simple form to request such hearing if such person desires to use such form. If a hearing is requested, the Secretaryshall establish by such certified notice the time and place for such hearing which should be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary's designee) and such person may consult to arrange a suitable date and location where appropriate.
+&emsp;A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued, by the Secretary only after an opportunity for a hearing in accordance with section 554 of title 5. Before making such assessment or issuing such order, or both, the Secretary shall give written notice thereof to such person by certified mail with return receipt and provide therein an opportunity to request in writing not later than 30 days after the date of receipt of such notice such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simple form to request such hearing if such person desires to use such form. If a hearing is requested, the Secretary shall establish by such certified notice the time and place for such hearing which should be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary's designee) and such person may consult to arrange a suitable date and location where appropriate.
 
 #### (3) Circumstances affecting penalty or order
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, title, claim, or interest in all the land and minerals within parcel number 1, except for the rights, titles, and interests recognized as beneficially owned by the Crow Tribe and as part of the Crow Indian Reservation in subparagraphs (B) through (D) of paragraph (1).
 
-&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, from any liability arising from, orrelated to, the 1891 survey and the subsequent occupancy and use of parcel number 1.
+&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 1.
 
 #### (b) Property within parcel number 2
 
@@ -44,7 +44,7 @@
 
 &emsp;The following waivers and releases shall be included in the Settlement Agreement:
 
-&emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals within parcel number 2, including all rights appurtenant to such land and minerals.
+&emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals within parcel number 2, includingall rights appurtenant to such land and minerals.
 
 &emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, the Northern Cheyenne Tribe, the Northern Cheyenne allottees and their successors in interest, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 2.
 
@@ -92,7 +92,7 @@ With respect to the land exchanges with the State of Montana and private landown
 
 &emsp;&emsp;(ii) transfer title to the public lands disposed of pursuant to the exchanges with the State of Montana by such means of conveyance as the Secretary considers appropriate.
 
-&emsp;(G) Title to the State trust lands acquired pursuant to the exchanges made with the State of Montana pursuant to this paragraph shall be vested in the United States in trustfor the sole use and benefit of the Crow Tribe and shall be recognized as part of the Crow Indian Reservation.
+&emsp;(G) Title to the State trust lands acquired pursuant to the exchanges made with the State of Montana pursuant to this paragraph shall be vested in the United States in trust for the sole use and benefit of the Crow Tribe and shall be recognized as part of the Crow Indian Reservation.
 
 #### (2) Requirement for exchanges
 

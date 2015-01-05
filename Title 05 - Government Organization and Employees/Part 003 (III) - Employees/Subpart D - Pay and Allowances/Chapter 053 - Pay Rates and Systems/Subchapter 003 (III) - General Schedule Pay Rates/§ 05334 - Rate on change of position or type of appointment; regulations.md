@@ -54,7 +54,7 @@
 
 &emsp;(B) if the employee's highest previous rate of basic pay (as described in subparagraph (A)) is between two rates of the appropriate grade, the higher of those two rates; or
 
-&emsp;(C) if the employee's highest previous rate of basic pay (as described in subparagraph (A))exceeds the maximum rate of the appropriate grade, the maximum rate of the appropriate grade.
+&emsp;(C) if the employee's highest previous rate of basic pay (as described in subparagraph (A)) exceeds the maximum rate of the appropriate grade, the maximum rate of the appropriate grade.
 
 (2) In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
 
@@ -70,7 +70,7 @@
 
 &emsp;(B) then, by applying the provisions of this section that would otherwise apply (if any), treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub. L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, §301(a)(3), Oct. 30, 2004, 118 Stat. 2315; Pub. L. 110–181, div. A, title XI, §1114, Jan. 28, 2008, 122 Stat. 360.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub. L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat.3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, §301(a)(3), Oct. 30, 2004, 118 Stat. 2315; Pub. L. 110–181, div. A, title XI, §1114, Jan. 28, 2008, 122 Stat. 360.)
 
 Historical and Revision Notes
 
@@ -110,45 +110,45 @@ Oct. 11, 1962, Pub. L. 87–793, §604(a), (b), 76 Stat. 847.
 
 July 17, 1959, Pub. L. 86–91. §9, 73 Stat. 216.
 
-In subsection (b), the words “under any provision of law” are omitted from the second sentence as unnecessary.
+In subsection (b), the words "under any provision of law" are omitted from the second sentence as unnecessary.
 
-In subsection (e), the words “as defined by section 901 of title 20” are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
+In subsection (e), the words "as defined by section 901 of title 20" are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–181 designated first sentence as par. (1), substituted “does not exceed—” for “does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c).”, added subpars. (A) to (C), and designated second sentence as par. (2).
+<b>2008</b>—Subsec. (f). Pub. L. 110–181 designated first sentence as par. (1), substituted "does not exceed—" for "does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c).", added subpars. (A) to (C), and designated second sentence as par. (2).
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–411, §301(a)(3)(A), inserted concluding provisions.
 
 Subsec. (g). Pub. L. 108–411, §301(a)(3)(B), added subsec. (g).
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–178 substituted “section 14306(a)(2) of title 40” for “section 106(2) of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–178 substituted "section 14306(a)(2) of title 40" for "section 106(2) of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)".
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out former subsec. (e) which read as follows: “An employee of a county committee established pursuant to section 590h(b) of title 16 may, upon appointment to a position subject to this subchapter, have his initial rate of basic pay fixed at the minimum rate of the appropriate grade, or at any step of such grade that does not exceed the highest previous rate of basic pay received by him during service with such county committee.”
+<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out former subsec. (e) which read as follows: "An employee of a county committee established pursuant to section 590h(b) of title 16 may, upon appointment to a position subject to this subchapter, have his initial rate of basic pay fixed at the minimum rate of the appropriate grade, or at any step of such grade that does not exceed the highest previous rate of basic pay received by him during service with such county committee."
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–393 substituted “the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)” for “title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–393 substituted "the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)" for "title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title".
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted “an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.” for “20 percent to determine the yearly rate of pay of the position.”
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted "an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay." for "20 percent to determine the yearly rate of pay of the position."
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk".
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted "step" for "step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,".
 
-Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(G)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “In the case of an employee covered by the performance management and recognition system established under chapter 54 of this title, all references in this section to ‘two steps’ or ‘two step-increases’ shall be deemed to mean 6 percent.”
+Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(G)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "In the case of an employee covered by the performance management and recognition system established under chapter 54 of this title, all references in this section to 'two steps' or 'two step-increases' shall be deemed to mean 6 percent."
 
 <b>1990</b>—Subsec. (g). Pub. L. 101–508 added subsec. (g).
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–251 substituted “may, upon appointment to a position” for “may upon appointment to a position under the Department of Agriculture,”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–251 substituted "may, upon appointment to a position" for "may upon appointment to a position under the Department of Agriculture,".
 
-<b>1984</b>—Subsecs. (c)(2), (f). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Subsecs. (c)(2), (f). Pub. L. 98–615 substituted "the performance management and recognition system established under chapter 54" for "the merit pay system established under section 5402".
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted “106(2)” for “106(a)” and “3186(a)(2)” for “3186(2)”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted "106(2)" for "106(a)" and "3186(a)(2)" for "3186(2)".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
-Subsec. (b). Pub. L. 95–454, §801(a)(3)(F), substituted “subchapter VI of this chapter” for “section 5337 of this title” wherever appearing.
+Subsec. (b). Pub. L. 95–454, §801(a)(3)(F), substituted "subchapter VI of this chapter" for "section 5337 of this title" wherever appearing.
 
 Subsec. (c). Pub. L. 95–454, §503(f)(1), in par. (2) inserted reference to an employee appointed to a position covered by the merit pay system established under section 5402 of this title.
 
@@ -156,9 +156,9 @@ Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs
 
 Pub. L. 95–454, §503(f)(2), added a new subsec. (f).
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–623, §1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–623, §1(6), substituted "title 40, appendix" for "the Appalachian Regional Development Act of 1965", "section 3182 of title 42, under section 3186(2) of that title" for "section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act", and "6" for "six".
 
-Subsec. (f). Pub. L. 90–623, §1(24), substituted “section 590h(b) of title 16” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))”.
+Subsec. (f). Pub. L. 90–623, §1(24), substituted "section 590h(b) of title 16" for "section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))".
 
 Pub. L. 90–367 added subsec. (f).
 
@@ -170,15 +170,15 @@ Amendment by Pub. L. 108–411 effective on the first day of the first applicabl
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–178, §5, Dec. 15, 2003, 117 Stat. 2642, provided that: “This Act \[see Tables for classification\] and amendments and repeals made by this Act are effective August 21, 2002.”
+Pub. L. 108–178, §5, Dec. 15, 2003, 117 Stat. 2642, provided that: "This Act \[see Tables for classification\] and amendments and repeals made by this Act are effective August 21, 2002."
 
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–85, div. A, title XI, §1104(b), Nov. 18, 1997, 111 Stat. 1923, provided that:
 
-“(1) The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
+"(1) The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
 
-“(2) In the case of a person who is employed in a teaching position referred to in section 5334(d) of title 5, United States Code, on the day before the effective date under paragraph (1), the rate of pay of that person determined under that section (as in effect on that day) may not be reduced by reason of the amendment made by subsection (a) for so long as the person continues to serve in that position or another such position without a break in service of more than three days on or after that day.”
+"(2) In the case of a person who is employed in a teaching position referred to in section 5334(d) of title 5, United States Code, on the day before the effective date under paragraph (1), the rate of pay of that person determined under that section (as in effect on that day) may not be reduced by reason of the amendment made by subsection (a) for so long as the person continues to serve in that position or another such position without a break in service of more than three days on or after that day."
 
 #### Effective Date of 1993 Amendment
 
@@ -208,15 +208,15 @@ Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 
 Pub. L. 90–623, §6, Oct. 22, 1968, 82 Stat. 1315, provided that:
 
-“(a) Sections 1–5 of this Act \[amending this section, sections 559, 2108, 3102, 3502, 5314, 5315, 5316, 5352, 5353, 5516, 5521, 5527, 5537, 5546, 5724, 6104, 6305, 6312, 6323, 6324, 8143, 8191, 8331, and 8347 of this title, sections 101, 510 \[now 12102\], 815, 1124, 3534, 4342, 5149, 6483, 6954, and 9342 of Title 10, Armed Forces, sections 101, 212, 205, 305, 306, 307, 308, 311, 406, 417, 554, 703, 904, 1001, and 1006 of Title 37, Pay and Allowances of the Uniformed Services, and sections 2727 and 2994b of Title 42, The Public Health and Welfare, and repealing section 8339 note of this title\] restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after June 30, 1968, that are inconsistent with this Act \[Oct. 22, 1968\] supersede it to the extent of the inconsistency.
+"(a) Sections 1–5 of this Act \[amending this section, sections 559, 2108, 3102, 3502, 5314, 5315, 5316, 5352, 5353, 5516, 5521, 5527, 5537, 5546, 5724, 6104, 6305, 6312, 6323, 6324, 8143, 8191, 8331, and 8347 of this title, sections 101, 510 \[now 12102\], 815, 1124, 3534, 4342, 5149, 6483, 6954, and 9342 of Title 10, Armed Forces, sections 101, 212, 205, 305, 306, 307, 308, 311, 406, 417, 554, 703, 904, 1001, and 1006 of Title 37, Pay and Allowances of the Uniformed Services, and sections 2727 and 2994b of Title 42, The Public Health and Welfare, and repealing section 8339 note of this title\] restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after June 30, 1968, that are inconsistent with this Act \[Oct. 22, 1968\] supersede it to the extent of the inconsistency.
 
-“(b) References made by other laws, regulations, and orders to the laws restated by this Act are deemed to refer to the corresponding provisions of this Act.
+"(b) References made by other laws, regulations, and orders to the laws restated by this Act are deemed to refer to the corresponding provisions of this Act.
 
-“(c) Actions taken under the laws restated by this Act are deemed to have been taken under the corresponding provisions of this Act.
+"(c) Actions taken under the laws restated by this Act are deemed to have been taken under the corresponding provisions of this Act.
 
-“(d) Sections 1(2) and 1(14) of this Act \[amending sections 2108 and 5724 of this title\] are effective as of September 11, 1967, for all purposes.
+"(d) Sections 1(2) and 1(14) of this Act \[amending sections 2108 and 5724 of this title\] are effective as of September 11, 1967, for all purposes.
 
-“(e) Sections 1(13)(B) and 1(17) of this Act \[amending sections 5546 and 6323 of this title\] are effective as of September 6, 1966, for all purposes.”
+"(e) Sections 1(13)(B) and 1(17) of this Act \[amending sections 5546 and 6323 of this title\] are effective as of September 6, 1966, for all purposes."
 
 #### Transfer of Functions
 

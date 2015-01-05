@@ -20,7 +20,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 &emsp;&emsp;(A) carry out testing and other investigative activities in accordance with subsection (b)(1) of this section, including building the capacity for housing investigative activities in unserved or underserved areas;
 
-&emsp;&emsp;(B) discover and remedy discrimination in the public and private real estate marketsand real estate-related transactions, including, but not limited to, the making or purchasing of loans or the provision of other financial assistance sales and rentals of housing and housing advertising;
+&emsp;&emsp;(B) discover and remedy discrimination in the public and private real estate markets and real estate-related transactions, including, but not limited to, the making or purchasing of loans or the provision of other financial assistance sales and rentals of housing and housing advertising;
 
 &emsp;&emsp;(C) carry out special projects, including the development of prototypes to respond to new or sophisticated forms of discrimination against persons protected under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\];
 
@@ -32,7 +32,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (1) In general
 
-&emsp;The Secretary shall use funds made available under this section to enter into contracts or cooperative agreements with qualified fair housing enforcement organizations, other private nonprofit fair housing enforcement organizations, and nonprofit groups organizing to build their capacity to provide fair housing enforcement, for the purpose of supporting the continued development or implementation of initiatives which enforce the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], as amended. Contracts or cooperative agreements may not provide more than 50 percent of the operating budget of the recipient organization for any one year.
+&emsp;The Secretary shall use funds made available under this section to enter into contracts or cooperative agreements with qualified fair housing enforcement organizations, other private nonprofit fair housing enforcement organizations, and nonprofit groups organizing to build their capacity to provide fair housing enforcement, for the purpose of supporting the continued development or implementation ofinitiatives which enforce the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], as amended. Contracts or cooperative agreements may not provide more than 50 percent of the operating budget of the recipient organization for any one year.
 
 #### (2) Capacity enhancement
 
@@ -134,7 +134,7 @@ None of the funds authorized under this section may be used by the Secretary for
 
 #### (j) Reporting requirements
 
-Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall prepareand submit to the Congress a comprehensive report which shall contain—
+Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall prepare and submit to the Congress a comprehensive report which shall contain—
 
 &emsp;(1) a description of the progress made in accomplishing the objectives of this section;
 
@@ -150,7 +150,7 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 #### References in Text
 
-The Civil Rights Act of 1968, referred to in subsecs. (a)(1), (b)(1), (2)(C), (c)(1), and (d), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of this chapter. For complete classification of these Acts to the Code, see Short Title notes set out under section 3601 of this title and Tables.
+The Civil Rights Act of 1968, referred to in subsecs. (a)(1), (b)(1), (2)(C), (c)(1), and (d), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act,known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of this chapter. For complete classification of these Acts to the Code, see Short Title notes set out under section 3601 of this title and Tables.
 
 The Fair Housing Act Amendments of 1988, referred to in subsec. (d)(1), probably means the Fair Housing Amendments Act of 1988, Pub. L. 100–430, Sept. 13, 1988, 102 Stat. 1619, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 3601 of this title and Tables.
 

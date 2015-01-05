@@ -8,6 +8,10 @@ For purposes of this Act, the term "Secretary" means the Secretary of the Army.
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–121, §1(a), June 10, 2014, 128 Stat. 1193, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Resources Reform and Development Act of 2014'."
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–114, §1(a), Nov. 8, 2007, 121 Stat. 1041, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Resources Development Act of 2007'."
@@ -42,45 +46,439 @@ Pub. L. 99–662, §1(a), Nov. 17, 1986, 100 Stat. 4082, provided that: "This Ac
 
 Pub. L. 99–662, title II, §215, Nov. 17, 1986, 100 Stat. 4109, provided that: "This title \[enacting subchapter II of this chapter\] may be cited as the 'Harbor Development and Navigation Improvement Act of 1986'."
 
-#### Funding to Process Permits
+#### Reports to Congress
 
-Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, §1, Dec. 18, 2010, 124 Stat. 3450, provided that:
+Pub. L. 113–121, title I, §1042, June 10, 2014, 128 Stat. 1243, provided that:
 
 "(a)
 
-In General.—The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity to expedite the evaluation of a permit of that entity related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
+In General.—Subject to the availability of appropriations, the Secretary \[of the Army\] shall complete and submit to Congress by the applicable date required the reports that address public safety and enhanced local participation in project delivery described in subsection (b).
 
 "(b)
 
-Effect on Permitting.—
+Reports.—The reports referred to in subsection (a) are the reports required under—
 
-&emsp;"(1)
+&emsp;"(1) subparagraphs (A) and (B) of section 1043(a)(5) \[33 U.S.C. 2201 note\];
 
-In general.—In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.
+&emsp;"(2) section 1046(a)(2)(B) \[33 U.S.C. 2319 note\];
 
-&emsp;"(2)
+&emsp;"(3) section 210(e)(3) of the Water Resources Development Act of 1986 (33 U.S.C. 2238(e)(3)) (as amended by section 2102(a)); and
 
-Impartial decisionmaking.—In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—
-
-&emsp;&emsp;"(A) be reviewed by—
-
-&emsp;&emsp;&emsp;"(i) the District Commander, or the Commander's designee, of the Corps District in which the project or activity is located; or
-
-&emsp;&emsp;&emsp;"(ii) the Commander of the Corps Division in which the District is located if the evaluation of the permit is initially conducted by the District Commander; and
-
-&emsp;&emsp;"(B) utilize the same procedures for decisions that would otherwise be required for the evaluation of permits for similar projects or activities not carried out using funds authorized under this section.
+&emsp;"(4) section 7001 \[33 U.S.C. 2282d\].
 
 "(c)
 
-Limitation on Use of Funds.—None of the funds accepted under this section shall be used to carry out a review of the evaluation of permits required under subsection (b)(2)(A).
+Failure To Provide a Completed Report.—
+
+&emsp;"(1)
+
+In general.—Subject to subsection (d), if the Secretary fails to provide a report listed under subsection (b) by the date that is 180 days after the applicable date required for that report, $5,000 shall be reprogrammed from the General Expenses account of the civil works program of the Army Corps of Engineers into the account of the division of the Army Corps of Engineers with responsibility for completing that report.
+
+&emsp;"(2)
+
+Subsequent reprogramming.—Subject to subsection (d), for each additional week after the datedescribed in paragraph (1) in which a report described in that paragraph remains uncompleted and unsubmitted to Congress, $5,000 shall be reprogrammed from the General Expenses account of the civil works program of the Army Corps of Engineers into the account of the division of the Secretary of the Army with responsibility for completing that report.
 
 "(d)
 
-Public Availability.—The Secretary shall ensure that all final permit decisions carried out using funds authorized under this section are made available to the public, including on the Internet.
+Limitations.—
+
+&emsp;"(1)
+
+In general.—For each report, the total amounts reprogrammed under subsection (c) shall not exceed, in any fiscal year, $50,000.
+
+&emsp;"(2)
+
+Aggregate limitation.—The total amount reprogrammed under subsection (c) in a fiscal year shall not exceed $200,000.
 
 "(e)
 
-Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2016."
+No Fault of the Secretary.—Amounts shall not be reprogrammed under subsection (c) if the Secretary certifies in a letter to the applicable committees of Congress that—
+
+&emsp;"(1) a major modification has been made to the content of the report that requires additional analysis for the Secretary to make a final decision on the report;
+
+&emsp;"(2) amounts have not been appropriated to the agency under this Act or any other Act to carry out the report; or
+
+&emsp;"(3) additional information is required from an entity other than the Corps of Engineers and is not available in a timely manner to complete the report by the deadline.
+
+"(f)
+
+Limitation.—The Secretary shall not reprogram funds to the General Expenses account of the civil works program of the Corps of Engineers for the loss of the funds."
+
+#### Non-Federal Implementation Pilot Program
+
+Pub. L. 113–121, title I, §1043, June 10, 2014, 128 Stat. 1244, provided that:
+
+"(a)
+
+Non-Federal Implementation of Feasibility Studies.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[June 10, 2014\], the Secretary \[of the Army\] shall establish and implement a pilot program to evaluate the cost-effectiveness and project delivery efficiency of allowing non-Federal interests to carry out feasibility studies for flood risk management, hurricane and storm damage reduction, aquatic ecosystem restoration, and coastal harbor and channel and inland navigation.
+
+&emsp;"(2)
+
+Purposes.—The purposes of the pilot program are—
+
+&emsp;&emsp;"(A) to identify project delivery and cost-saving alternatives to the existing feasibility study process;
+
+&emsp;&emsp;"(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out a feasibility study of 1 or more projects; and
+
+&emsp;&emsp;"(C) to evaluate alternatives for the decentralization of the project planning, management, and operational decisionmaking process of the Corps of Engineers.
+
+&emsp;"(3)
+
+Administration.—
+
+&emsp;&emsp;"(A)
+
+In general.—On the request of a non-Federal interest, the Secretary may enter into an agreement with the non-Federal interest for the non-Federal interest to provide full project management control of a feasibility study for a project for—
+
+&emsp;&emsp;&emsp;"(i) flood risk management;
+
+&emsp;&emsp;&emsp;"(ii) hurricane and storm damage reduction, including levees, floodwalls, flood control channels, and water control structures;
+
+&emsp;&emsp;&emsp;"(iii) coastal harbor and channel and inland navigation; and
+
+&emsp;&emsp;&emsp;"(iv) aquatic ecosystem restoration.
+
+&emsp;&emsp;"(B)
+
+Use of non-federal funds.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—A non-Federal interest that has entered into an agreement with the Secretary pursuant to subparagraph (A) may use non-Federal funds to carry out the feasibility study.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Credit.—The Secretary shall credit towards the non-Federal share of the cost of construction of a project for which a feasibility study is carried out under this subsection an amount equal to the portion of the cost of developing the study that would have been the responsibility of the Secretary, if the study were carried out by the Secretary, subject to the conditions that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) non-Federal funds were used to carry out the activities that would have been the responsibility of the Secretary;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the Secretary determines that the feasibility study complies with all applicable Federal laws and regulations; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the project is authorized by any provision of Federal law enacted after the date on which an agreement is entered into under subparagraph (A).
+
+&emsp;&emsp;"(C)
+
+Transfer of funds.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—After the date on which an agreement is executed pursuant to subparagraph (A), the Secretary may transfer to the non-Federal interest to carry out the feasibility study—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) if applicable, the balance of any unobligated amounts appropriated for the study, except that the Secretary shall retain sufficient amounts for the Corps of Engineers to carry out any responsibilities of the Corps of Engineers relating to the project and pilot program; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) additional amounts, as determined by the Secretary, from amounts made available under paragraph (8), except that the total amount transferred to the non-Federal interest shall not exceed the updated estimate of the Federal share of the cost of the feasibility study.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Administration.—The Secretary shall include such provisions as the Secretary determines to be necessary in an agreement under subparagraph (A) to ensure that a non-Federal interest receiving Federal funds under this paragraph—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has the necessary qualifications to administer those funds; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) will comply with all applicable Federal laws (including regulations) relating to the use of those funds.
+
+&emsp;&emsp;"(D)
+
+Notification.—The Secretary shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the initiation of each feasibility study under the pilot program.
+
+&emsp;&emsp;"(E)
+
+Auditing.—The Secretary shall regularly monitor and audit each feasibility study carried out by a non-Federal interest under this section to ensure that the use of any funds transferred under subparagraph (C) are used in compliance with the agreement signed under subparagraph (A).
+
+&emsp;&emsp;"(F)
+
+Technical assistance.—On the request of a non-Federal interest, the Secretary may provide technical assistance to the non-Federal interest relating to any aspect of the feasibility study, if the non-Federal interest contracts with the Secretary for the technical assistance and compensates the Secretary for the technical assistance.
+
+&emsp;&emsp;"(G)
+
+Detailed project schedule.—Not later than 180 days after entering into an agreement under subparagraph (A), each non-Federal interest, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule, based on full funding capability, that lists all deadlines for milestones relating to the feasibility study.
+
+&emsp;"(4)
+
+Cost share.—Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act to a feasibility study carried out under this subsection.
+
+&emsp;"(5)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this section, including—
+
+&emsp;&emsp;&emsp;"(i) a description of the progress of the non-Federal interests in meeting milestones in detailed project schedules developed pursuant to paragraph (3)(G); and
+
+&emsp;&emsp;&emsp;"(ii) any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis.
+
+&emsp;&emsp;"(B)
+
+Update.—Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an update of the report described in subparagraph (A).
+
+&emsp;&emsp;"(C)
+
+Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
+
+&emsp;"(6)
+
+Administration.—All laws and regulations that would apply to the Secretary if the Secretary were carrying out the feasibility study shall apply to a non-Federal interest carrying out a feasibility study under this subsection.
+
+&emsp;"(7)
+
+Termination of authority.—The authority to commence a feasibility study under this subsection terminates on the date that is 5 years after the date of enactment of this Act.
+
+&emsp;"(8)
+
+Authorization of appropriations.—In addition to any amounts appropriated for a specific project, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2015 through 2019.
+
+"(b)
+
+Non-Federal Project Implementation Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish and implement a pilot program to evaluate the cost-effectiveness and project delivery efficiency of allowing non-Federal interests to carry out flood risk management, hurricane and storm damage reduction, coastal harbor and channel inland navigation, and aquatic ecosystem restoration projects.
+
+&emsp;"(2)
+
+Purposes.—The purposes of the pilot program are—
+
+&emsp;&emsp;"(A) to identify project delivery and cost-saving alternatives that reduce the backlog of authorized Corps of Engineers projects;
+
+&emsp;&emsp;"(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out the design, execution, management, and construction of 1 or more projects; and
+
+&emsp;&emsp;"(C) to evaluate alternatives for the decentralization of the project management, design, and construction for authorized Corps of Engineers water resources projects.
+
+&emsp;"(3)
+
+Administration.—
+
+&emsp;&emsp;"(A)
+
+In general.—In carrying out the pilot program, the Secretary shall—
+
+&emsp;&emsp;&emsp;"(i) identify a total of not more than 15 projects for flood risk management, hurricane and storm damage reduction (including levees, floodwalls, flood control channels, and water control structures), coastal harbor and channels, inland navigation, and aquatic ecosystem restoration that have been authorized for construction prior to the date of enactment of this Act, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) not more than 12 projects that—
+
+&emsp;&emsp;&emsp;"(aa)(AA) have received Federal funds prior to the date of enactment of this Act; or
+
+&emsp;&emsp;&emsp;"(BB) for more than 2 consecutive fiscal years, have an unobligated funding balance for that project in the Corps of Engineers construction account; and
+
+&emsp;&emsp;&emsp;"(bb) to the maximum extent practicable, are located in each of the divisions of the Corps of Engineers; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) not more than 3 projects that have not received Federal funds in the period beginning on the date on which the project was authorized and ending on the date of enactment of this Act;
+
+&emsp;&emsp;&emsp;"(ii) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the identification of each project under the pilot program;
+
+&emsp;&emsp;&emsp;"(iii) in collaboration with the non-Federal interest, develop a detailed project management plan for each identified project that outlines the scope, budget, design, and construction resource requirements necessary for the non-Federal interest to execute the project, or a separable element of the project;
+
+&emsp;&emsp;&emsp;"(iv) on the request of the non-Federal interest, enter into a project partnership agreement with the non-Federal interest for the non-Federal interest to provide full project management control for construction of the project, or a separable element of the project, in accordance with plans approved by the Secretary;
+
+&emsp;&emsp;&emsp;"(v) following execution of the project partnership agreement, transfer to the non-Federal interest to carry out construction of the project, or a separable element of the project—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) if applicable, the balance of the unobligated amounts appropriated for the project, except that the Secretary shall retain sufficient amounts for the Corps of Engineers to carry out any responsibilities of the Corps of Engineers relating to the project and pilot program; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) additional amounts, as determined by the Secretary, from amounts made available under paragraph (8), except that the total amount transferred to the non-Federal interest shall not exceed the updated estimate of the Federal share of the cost of construction, including any required design; and
+
+&emsp;&emsp;&emsp;"(vi) regularly monitor and audit each project being constructed by a non-Federal interest under this section to ensure that the construction activities are carried out in compliance with the plans approved by the Secretary and that the construction costs are reasonable.
+
+&emsp;&emsp;"(B)
+
+Detailed project schedule.—Not later than 180 days after entering into an agreement under subparagraph (A)(iv), each non-Federal interest, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule, based on estimated funding levels, that lists all deadlines for each milestone in the construction of the project.
+
+&emsp;&emsp;"(C)
+
+Technical assistance.—On the request of a non-Federal interest, the Secretary may provide technical assistance to the non-Federal interest, if the non-Federal interest contracts with and compensates the Secretary for the technical assistance relating to—
+
+&emsp;&emsp;&emsp;"(i) any study, engineering activity, and design activity for construction carried out by the non-Federal interest under this subsection; and
+
+&emsp;&emsp;&emsp;"(ii) expeditiously obtaining any permits necessary for the project.
+
+&emsp;"(4)
+
+Cost share.—Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act to a project carried out under this subsection.
+
+&emsp;"(5)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 3 years after the date of enactment of this Act, the Secretary shallsubmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this subsection, including—
+
+&emsp;&emsp;&emsp;"(i) a description of the progress of non-Federal interests in meeting milestones in detailed project schedules developed pursuant to paragraph (2)(B); and
+
+&emsp;&emsp;&emsp;"(ii) any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis.
+
+&emsp;&emsp;"(B)
+
+Update.—Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an update of the report described in subparagraph (A).
+
+&emsp;&emsp;"(C)
+
+Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
+
+&emsp;"(6)
+
+Administration.—All laws and regulations that would apply to the Secretary if the Secretary were carrying out the project shall apply to a non-Federal interest carrying out a project under this subsection.
+
+&emsp;"(7)
+
+Termination of authority.—The authority to commence a project under this subsection terminates on the date that is 5 years after the date of enactment of this Act.
+
+&emsp;"(8)
+
+Authorization of appropriations.—In addition to any amounts appropriated for a specific project, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2015 through 2019."
+
+#### Water Infrastructure Public-Private Partnership Pilot Program
+
+Pub. L. 113–121, title V, §5014, June 10, 2014, 128 Stat. 1329, provided that:
+
+"(a)
+
+In General.—The Secretary \[of the Army\] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized water resources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, aquatic ecosystem restoration, and hurricane and storm damage reduction.
+
+"(b)
+
+Purposes.—The purposes of the pilot program established under subsection (a) are—
+
+&emsp;"(1) to identify cost-saving project delivery alternatives that reduce the backlog of authorized Corps of Engineers projects; and
+
+&emsp;"(2) to evaluate the technical, financial, and organizational benefits of allowing a non-Federal pilot applicant to carry out and manage the design or construction (or both) of 1 or more of such projects.
+
+"(c)
+
+Subsequent Appropriations.—Any activity undertaken under this section is authorized only to the extent specifically provided for in subsequent appropriations Acts.
+
+"(d)
+
+Administration.—In carrying out the pilot program established under subsection (a), the Secretary shall—
+
+&emsp;"(1) identify for inclusion in the program at least 15 projects that are authorized for construction for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, or hurricane and storm damage reduction;
+
+&emsp;"(2) notify in writing the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of each project identified under paragraph (1);
+
+&emsp;"(3) in consultation with the non-Federal pilot applicant associated with each project identified under paragraph (1), develop a detailed project management plan for the project that outlines the scope, financing, budget, design, and construction resource requirements necessary for the non-Federal pilot applicant to execute the project, or a separable element of the project;
+
+&emsp;"(4) at the request of the non-Federal pilot applicant associated with each project identified under paragraph (1), enter into a project partnership agreement with the non-Federal pilot applicant under which the non-Federal pilot applicant is provided full project management control for the financing, design, or construction (or any combination thereof) of the project, or a separable element of the project, in accordance with plans approved by the Secretary;
+
+&emsp;"(5) following execution of a project partnership agreement under paragraph (4) and completion of all work under the agreement, issue payment, in accordance with subsection (g), to the relevant non-Federal pilot applicant for that work; and
+
+&emsp;"(6) regularly monitor and audit each project carried out under the program to ensure that all activities related to the project are carried out in compliance with plans approved by the Secretary and that construction costs are reasonable.
+
+"(e)
+
+Selection Criteria.—In identifying projects under subsection (d)(1), the Secretary shall consider the extent to which the project—
+
+&emsp;"(1) is significant to the economy of the United States;
+
+&emsp;"(2) leverages Federal investment by encouraging non-Federal contributions to the project;
+
+&emsp;"(3) employs innovative project delivery and cost-saving methods;
+
+&emsp;"(4) received Federal funds in the past and experienced delays or missed scheduled deadlines;
+
+&emsp;"(5) has unobligated Corps of Engineers funding balances; and
+
+&emsp;"(6) has not received Federal funding for recapitalization and modernization since the project was authorized.
+
+"(f)
+
+Detailed Project Schedule.—Not later than 180 days after entering into a project partnership agreement under subsection (d)(4), a non-Federal pilot applicant, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule for the relevant project, based on estimated funding levels, that specifies deadlines for each milestone with respect to the project.
+
+"(g)
+
+Payment.—Payment to the non-Federal pilot applicant for work completed pursuant to a project partnership agreement under subsection (d)(4) may be made from—
+
+&emsp;"(1) if applicable, the balance of the unobligated amounts appropriated for the project; and
+
+&emsp;"(2) other amounts appropriated to the Corps of Engineers, subject to the condition that the total amount transferred to the non-Federal pilot applicant may not exceed the estimate of the Federal share of the cost of construction, including any required design.
+
+"(h)
+
+Technical Assistance.—At the request of a non-Federal pilot applicant participating in the pilot program established under subsection (a), the Secretary may provide to the non-Federal pilot applicant, if the non-Federal pilot applicant contracts with and compensates the Secretary, technical assistance with respect to—
+
+&emsp;"(1) a study, engineering activity, or design activity related to a project carried out by the non-Federal pilot applicant under the program; and
+
+&emsp;"(2) obtaining permits necessary for such a project.
+
+"(i)
+
+Identification of Impediments.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall—
+
+&emsp;&emsp;"(A) except as provided in paragraph (2), identify any procedural requirements under the authority of the Secretary that impede greater use of public-private partnerships and private investment in water resources development projects;
+
+&emsp;&emsp;"(B) develop and implement, on a project-by-project basis, procedures and approaches that—
+
+&emsp;&emsp;&emsp;"(i) address such impediments; and
+
+&emsp;&emsp;&emsp;"(ii) protect the public interest and any public investment in water resources development projects that involve public-private partnerships or private investment in water resources development projects; and
+
+&emsp;&emsp;"(C) not later than 1 year after the date of enactment of this section \[June 10, 2014\], issue rules to carry out the procedures and approaches developed under subparagraph (B).
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in this section allows the Secretary to waive any requirement under—
+
+&emsp;&emsp;"(A) sections 3141 through 3148 and sections 3701 through 3708 of title 40, United States Code;
+
+&emsp;&emsp;"(B) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); or
+
+&emsp;&emsp;"(C) any other provision of Federal law.
+
+"(j)
+
+Public Benefit Studies.—
+
+&emsp;"(1)
+
+In general.—Before entering into a project partnership agreement under subsection (d)(4), the Secretary shall conduct an assessment of whether, and provide justification in writing to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that, the proposed agreement provides better public and financial benefits than a similar transaction using public funding or financing.
+
+&emsp;"(2)
+
+Requirements.—An assessment under paragraph (1) shall—
+
+&emsp;&emsp;"(A) be completed in a period of not more than 90 days;
+
+&emsp;&emsp;"(B) take into consideration any supporting materials and data submitted by the relevant non-Federal pilot applicant and other stakeholders; and
+
+&emsp;&emsp;"(C) determine whether the proposed project partnership agreement is in the public interest by determining whether the agreement will provide public and financial benefits, including expedited project delivery and savings for taxpayers.
+
+"(k)
+
+Non-Federal Funding.—The non-Federal pilot applicant may finance the non-Federal share of a project carried out under the pilot program established under subsection (a).
+
+"(l)
+
+Applicability of Federal Law.—Any provision of Federal law that would apply to the Secretary if the Secretary were carrying out a project shall apply to a non-Federal pilot applicant carrying out a project under this section.
+
+"(m)
+
+Cost Share.—Nothing in this section affects a cost-sharing requirement under Federal law that is applicable to a project carried out under the pilot program established under subsection (a).
+
+"(n)
+
+Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the results of the pilot program established under subsection (a), including any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis.
+
+"(o)
+
+Non-Federal Pilot Applicant Defined.—In this section, the term 'non-Federal pilot applicant' means—
+
+&emsp;"(1) the non-Federal sponsor of the water resources development project;
+
+&emsp;"(2) a non-Federal interest, as defined in section 221 of the Flood Control Act of 1970 (42 U.S.C. 1982d–5b \[1962d–5b\]); or
+
+&emsp;"(3) a private entity with the consent of the local government in which the project is located or that is otherwise affected by the project."
+
+#### Funding to Process Permits
+
+Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, §1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, §1006, June 10, 2014, 128 Stat. 1212, which related to funding to process permits and was formerly set out as a note under this section, was transferred to section 2352 of this title.
 
 #### Monitoring
 
@@ -160,9 +558,11 @@ Notice to Recipients of Assistance.—In providing financial assistance under th
 
 #### Budget Act Requirements
 
-Pub. L. 99–662, title IX, §948, Nov. 17, 1986, 100 Stat. 4201, provided that: "Any spending authority under this Act \[see Short Title note above\] shall be effective onlyto such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term 'spending authority' has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act."
+Pub. L. 99–662, title IX, §948, Nov. 17, 1986, 100 Stat. 4201, provided that: "Any spending authority under this Act \[see Short Title note above\] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term 'spending authority' has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act."
 
 #### "Secretary" Defined
+
+Pub. L. 113–121, §2, June 10, 2014, 128 Stat. 1195, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
 Pub. L. 110–114, §2, Nov. 8, 2007, 121 Stat. 1049, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 

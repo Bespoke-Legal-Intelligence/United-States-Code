@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 105 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
+Section, Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -152,7 +152,7 @@ Pub. L. 107–372, title I, §101(a), Dec. 19, 2002, 116 Stat. 3079, provided th
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–384, title III, §301, Nov. 13, 1998, 112 Stat. 3454, provided that: "This title \[enacting subchapter IVof this chapter and amending sections 853a and 853u of this title\] may be cited as the 'Hydrographic Services Improvement Act of 1998'."
+Pub. L. 105–384, title III, §301, Nov. 13, 1998, 112 Stat. 3454, provided that: "This title \[enacting subchapter IV of this chapter and amending sections 853a and 853u of this title\] may be cited as the 'Hydrographic Services Improvement Act of 1998'."
 
 #### Short Title of 1992 Amendment
 
@@ -190,7 +190,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 (a) There shall be at the head of the Administration the Administrator of the Environmental Science Services Administration, hereinafter referred to as the Administrator. The Administrator shall be appointed by the President by and with the advice and consent of the Senate. He shall perform such functions as the Secretary may from time to time direct.
 
-(b)(1) There shall be in the Administration a Deputy Administrator of the Environmental Science Services Administration, hereinafter referred to as the Deputy Administrator, who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Secretary may from time to time direct, and, unless he is compensated in pursuance of the provisions of paragraph (2), below, shall receive compensation in accordance with the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
+(b)(1) There shall be in the Administration a Deputy Administrator of the Environmental Science Services Administration, hereinafter referred to as the DeputyAdministrator, who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Secretary may from time to time direct, and, unless he is compensated in pursuance of the provisions of paragraph (2), below, shall receive compensation in accordance with the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
 
 (2) The office of Deputy Administrator may be filled at the discretion of the President by appointment (by and with the advice and consent of the Senate) from the active list of commissioned officers of the Administration in which case the appointment shall create a vacancy on the active list and while holding the office of Deputy Administrator the officer shall have rank, pay and allowances not exceeding those of a Vice Admiral.
 

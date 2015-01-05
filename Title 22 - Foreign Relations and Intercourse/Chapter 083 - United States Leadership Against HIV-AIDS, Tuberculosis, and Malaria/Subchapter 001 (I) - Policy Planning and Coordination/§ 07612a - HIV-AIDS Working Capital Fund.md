@@ -14,7 +14,7 @@
 
 &emsp;(E) pharmaceuticals and health commodities needed for the provision of palliative care; and
 
-&emsp;(F) laboratory and clinical equipment, as well as equipment needed for the transportation and care of HIV/AIDS supplies, andother equipment needed to provide prevention, care and treatment of HIV/AIDS described above.
+&emsp;(F) laboratory and clinical equipment, as well as equipment needed for the transportation and care of HIV/AIDS supplies, and other equipment needed to provide prevention, care and treatment of HIV/AIDS described above.
 
 (3) There may be deposited during any fiscal year in the HIV/AIDS Fund payments for HIV/AIDS pharmaceuticals and products provided from the HIV/AIDS Fund received from applicable appropriations and funds of the United States Agency for International Development, the Department of Health and Human Services, the Department of Defense, or other Federal agencies and other sources at actual cost of the HIV/AIDS pharmaceuticals and other products, actual cost plus the additional costs of providing such HIV/AIDS pharmaceuticals and other products, or at any other price agreed to by the Coordinator or his designee.
 

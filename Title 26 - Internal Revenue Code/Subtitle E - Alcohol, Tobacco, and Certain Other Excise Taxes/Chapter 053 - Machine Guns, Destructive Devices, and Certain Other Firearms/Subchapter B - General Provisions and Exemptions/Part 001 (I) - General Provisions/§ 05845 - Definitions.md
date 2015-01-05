@@ -20,7 +20,7 @@ The term "shotgun" means a weapon designed or redesigned, made or remade, and in
 
 #### (e) Any other weapon
 
-The term "any other weapon" means any weapon or device capable of being concealed on the person from which a shot can be discharged through the energy of an explosive, a pistol or revolver having a barrel with a smooth bore designed or redesigned to fire a fixed shotgun shell, weapons with combination shotgun and rifle barrels 12 inches or more, less than 18 inches in length, from which only a single discharge can be made from either barrel without manual reloading, and shall include any such weapon which may be readily restored to fire.Such term shall not include a pistol or a revolver having a rifled bore, or rifled bores, or weapons designed, made, or intended to be fired from the shoulder and not capable of firing fixed ammunition.
+The term "any other weapon" means any weapon or device capable of being concealed on the person from which a shot can be discharged through the energy of an explosive, a pistol or revolver having a barrel with a smooth bore designed or redesigned to fire a fixed shotgun shell, weapons with combination shotgun and rifle barrels 12 inches or more, less than 18 inches in length, from which only a single discharge can be made from either barrel without manual reloading, and shall include any such weapon which may be readily restored to fire. Such term shall not include a pistol or a revolver having a rifled bore, or rifled bores, or weapons designed, made, or intended to be fired from the shoulder and not capable of firing fixed ammunition.
 
 #### (f) Destructive device
 
@@ -32,7 +32,7 @@ The term "antique firearm" means any firearm not designed or redesigned for usin
 
 #### (h) Unserviceable firearm
 
-The term "unserviceable firearm" means a firearm which is incapable of discharging a shot by means of an explosive and incapable of being readily restored to a firing condition.
+The term "unserviceable firearm" means a firearm which is incapable of discharging a shotby means of an explosive and incapable of being readily restored to a firing condition.
 
 #### (i) Make
 

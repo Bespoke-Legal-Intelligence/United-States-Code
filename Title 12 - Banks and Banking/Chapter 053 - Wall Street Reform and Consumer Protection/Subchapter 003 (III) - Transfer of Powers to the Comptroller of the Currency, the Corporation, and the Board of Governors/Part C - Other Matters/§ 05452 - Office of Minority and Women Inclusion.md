@@ -64,7 +64,7 @@
 
 #### (i) Recommendation to agency administrator
 
-&emsp;&emsp;&emsp;Upon a determination described in subparagraph (A), the Director shall make arecommendation to the agency administrator that the contract be terminated.
+&emsp;&emsp;&emsp;Upon a determination described in subparagraph (A), the Director shall make a recommendation to the agency administrator that the contract be terminated.
 
 #### (ii) Action by agency administrator
 

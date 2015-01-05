@@ -2,7 +2,7 @@
 
 #### (a) Agency consultation and coordination
 
-In carrying out this chapter, the Secretary shall, as necessary, consult with, cooperatewith, and coordinate its activities with the activities of other Federal departments and agencies.
+In carrying out this chapter, the Secretary shall, as necessary, consult with, cooperate with, and coordinate its activities with the activities of other Federal departments and agencies.
 
 #### (b) Cooperative agreements; memoranda of understanding
 

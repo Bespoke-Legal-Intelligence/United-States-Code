@@ -48,7 +48,7 @@ For any State educational agency that receives a competitive grant under this se
 
 #### (3) Application
 
-&emsp;To be eligible to receive a subgrant under this subsection, an eligible local educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require.
+&emsp;To be eligible to receive a subgrant under this subsection, an eligible local educationalagency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require.
 
 #### (4) Distribution
 

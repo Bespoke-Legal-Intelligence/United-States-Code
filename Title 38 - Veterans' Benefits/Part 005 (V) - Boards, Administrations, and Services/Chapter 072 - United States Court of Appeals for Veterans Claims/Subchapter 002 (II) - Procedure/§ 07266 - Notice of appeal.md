@@ -10,7 +10,7 @@
 
 &emsp;(2) On the date of the United States Postal Service postmark stamped on the cover in which the notice is posted, if the notice is properly addressed to the Court and is mailed.
 
-(d) For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
+(d) For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in whichthe notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
 
 (Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, §507, Dec. 27, 2001, 115 Stat. 997.)
 
@@ -20,7 +20,7 @@
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–368 substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "In order to obtain review by the Court of Veterans Appeals of a final decision of the Board of Veterans' Appeals, a person adversely affected by that action must file a notice of appeal with the Court. Any such notice must be filed within 120 days after the date onwhich notice of the decision is mailed pursuant to section 7104(e) of this title."
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "In order to obtain review by the Court of Veterans Appeals of a final decision of the Board of Veterans' Appeals, a person adversely affected by that action must file a notice of appeal with the Court. Any such notice must be filed within 120 days after the date on which notice of the decision is mailed pursuant to section 7104(e) of this title."
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4066 of this title as this section.
 

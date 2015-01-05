@@ -12,7 +12,7 @@ Except where otherwise expressly provided, the Commission is authorized to defin
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–60 struck out subsec. (c) which authorized Commission to delegate to any Stateagency (with consent of such agency) any of its functions with respect to sections 3315, 3316(b), and 3319(a)(1) and (3) of this title.
+<b>1989</b>—Subsec. (c). Pub. L. 101–60 struck out subsec. (c) which authorized Commission to delegate to any State agency (with consent of such agency) any of its functions with respect to sections 3315, 3316(b), and 3319(a)(1) and (3) of this title.
 
 #### Effective Date of 1989 Amendment
 

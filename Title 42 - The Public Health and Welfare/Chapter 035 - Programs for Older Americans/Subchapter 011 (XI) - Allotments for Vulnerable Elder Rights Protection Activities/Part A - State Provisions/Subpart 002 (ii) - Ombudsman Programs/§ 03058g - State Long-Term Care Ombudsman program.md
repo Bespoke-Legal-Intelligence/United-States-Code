@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents; and
 
-&emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect thehealth, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
+&emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
 
 &emsp;&emsp;&emsp;&emsp;(I) providers, or representatives of providers, of long-term care services;
 
@@ -170,7 +170,7 @@ The State agency shall establish a statewide uniform reporting system to—
 
 #### (1) In general
 
-&emsp;The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files maintained by the program, including records described in subsection (b)(1) or (c) of this section.
+&emsp;The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files maintained by theprogram, including records described in subsection (b)(1) or (c) of this section.
 
 #### (2) Identity of complainant or resident
 

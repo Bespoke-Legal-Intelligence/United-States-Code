@@ -2,13 +2,13 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) “employee” means—
+&emsp;(1) "employee" means—
 
 &emsp;&emsp;(A) any individual in the Civil Service; and
 
 &emsp;&emsp;(B) any individual rendering personal service to the United States similar to the service of an individual in the Civil Service (other than as a member of the uniformed services); and
 
-&emsp;(2) “family member”, as used with respect to an employee, means—
+&emsp;(2) "family member", as used with respect to an employee, means—
 
 &emsp;&emsp;(A) any dependent of such employee; and
 
@@ -36,49 +36,49 @@ Functions of the President under this section delegated to the Secretary of Stat
 
 Pub. L. 112–73, Dec. 20, 2011, 125 Stat. 784, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Civilian Service Recognition Act of 2011’.
+"This Act may be cited as the 'Civilian Service Recognition Act of 2011'.
 
-#### “SEC. 2. PRESENTATION OF UNITED STATES FLAG ON BEHALF OF FEDERAL CIVILIAN EMPLOYEES WHO DIE OF INJURIES INCURRED IN CONNECTION WITH THEIR EMPLOYMENT.
+#### "SEC. 2. PRESENTATION OF UNITED STATES FLAG ON BEHALF OF FEDERAL CIVILIAN EMPLOYEES WHO DIE OF INJURIES INCURRED IN CONNECTION WITH THEIR EMPLOYMENT.
 
-“(a)
+"(a)
 
-Presentation Authorized.—Upon receipt of a request under subsection (b), the head of an executiveagency may give a flag of the United States for an individual who—
+Presentation Authorized.—Upon receipt of a request under subsection (b), the head of an executive agency may give a flag of the United States for an individual who—
 
-&emsp;“(1) was an employee of the agency; and
+&emsp;"(1) was an employee of the agency; and
 
-&emsp;“(2) dies of injuries incurred in connection with such individual's employment with the Federal Government, suffered as a result of a criminal act, an act of terrorism, a natural disaster, or other circumstance as determined by the President.
+&emsp;"(2) dies of injuries incurred in connection with such individual's employment with the Federal Government, suffered as a result of a criminal act, an act of terrorism, a natural disaster, or other circumstance as determined by the President.
 
-“(b)
+"(b)
 
 Request for Flag.—The head of an executive agency may furnish a flag for a deceased employee described in subsection (a) upon the request of—
 
-&emsp;“(1) the employee's widow or widower, child, sibling, or parent; or
+&emsp;"(1) the employee's widow or widower, child, sibling, or parent; or
 
-&emsp;“(2) if no request is received from an individual described in paragraph (1), an individual other than the next of kin as determined by the Director of the Office of Personnel Management.
+&emsp;"(2) if no request is received from an individual described in paragraph (1), an individual other than the next of kin as determined by the Director of the Office of Personnel Management.
 
-“(c)
+"(c)
 
 Classified Information.—The head of an executive agency may disclose information necessary to show that a deceased individual is an employee described in subsection (a) to the extent that such information is not classified and to the extent that such disclosure does not endanger the national security of the United States.
 
-“(d)
+"(d)
 
 Employee Notification of Flag Benefit.—The head of an executive agency shall provide appropriate notice to employees of the agency of the flag benefit provided for under this section.
 
-“(e)
+"(e)
 
 Regulations.—The Director of the Office of Personnel Management, in coordination with the Secretary of Defense and the Secretary of Homeland Security, may prescribe regulations to implement this section. Any such regulations shall provide for the head of an executive agency to consider the conditions and circumstances surrounding the death of an employee and nature of the service of the employee.
 
-“(f)
+"(f)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Employee.—The term ‘employee’ has the meaning given that term in section 2105 of title 5, United States Code, and includes an officer or employee of the United States Postal Service or of the Postal Regulatory Commission.
+Employee.—The term 'employee' has the meaning given that term in section 2105 of title 5, United States Code, and includes an officer or employee of the United States Postal Service or of the Postal Regulatory Commission.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Executive agency.—The term ‘executive agency’ has the meaning given that term in section 105 of title 5, United States Code, and includes the United States Postal Service and the Postal Regulatory Commission.”
+Executive agency.—The term 'executive agency' has the meaning given that term in section 105 of title 5, United States Code, and includes the United States Postal Service and the Postal Regulatory Commission."
 

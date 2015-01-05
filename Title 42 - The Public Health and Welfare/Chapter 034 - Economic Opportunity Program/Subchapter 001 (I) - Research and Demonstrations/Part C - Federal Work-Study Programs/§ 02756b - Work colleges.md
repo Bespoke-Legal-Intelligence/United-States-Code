@@ -74,7 +74,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-Parts E and F of this title, referred to in subsec. (b)(1), (2)(A), mean parts E and F, respectively, of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, asamended, known as the Higher Education Act of 1965. Parts E and F of title IV of such Act are classified generally to parts D (§1087aa et seq.) and E (§1087kk et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+Parts E and F of this title, referred to in subsec. (b)(1), (2)(A), mean parts E and F, respectively, of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Parts E and F of title IV of such Act are classified generally to parts D (§1087aa et seq.) and E (§1087kk et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@ The National Council may prescribe such bylaws and rules as may be necessary to 
 
 #### (b) Hearings
 
-The National Council may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as it deems advisable.
+The National Council may hold such hearings, sit and act at such times and places, take suchtestimony, and receive such evidence as it deems advisable.
 
 #### (c) Advisory committees
 

@@ -21,6 +21,7 @@
 | [2216a.](%C2%A7%2002216a%20-%20Rapidly%20meeting%20urgent%20needs%20Joint%20Urgent%20Operational%20Needs%20Fund.md) | Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund. |
 | [2217\.](%C2%A7%2002217%20-%20Comparable%20budgeting%20for%20common%20procurement%20weapon%20systems.md) | Comparable budgeting for common procurement weapon systems. |
 | [2218\.](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md) | National Defense Sealift Fund. |
+| [2218a.](%C2%A7%2002218a%20-%20National%20Sea-Based%20Deterrence%20Fund.md) | National Sea-Based Deterrence Fund. |
 | \[2219. | Renumbered.\] |
 | [2220\.](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md) | Performance based management: acquisition programs. |
 | \[2221. | Repealed.\] |
@@ -39,6 +40,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title X, §1022(a)(2), Dec. 19, 2014, 128 Stat. 3487, added item 2218a.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title VIII, §846(a)(2), Dec. 31, 2011, 125 Stat. 1517, added item 2216a.
 
@@ -114,7 +117,7 @@ Matters covered.—Such plan shall include, at a minimum, detailed descriptions 
 
 &emsp;&emsp;"(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
 
-&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
+&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibilityof such plans and budgets with the strategic management plan of the Department of Defense; and
 
 &emsp;&emsp;"(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 
@@ -150,6 +153,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 - [&sect; 02216a - Rapidly meeting urgent needs Joint Urgent Operational Needs Fund](%C2%A7%2002216a%20-%20Rapidly%20meeting%20urgent%20needs%20Joint%20Urgent%20Operational%20Needs%20Fund.md)
 - [&sect; 02217 - Comparable budgeting for common procurement weapon systems](%C2%A7%2002217%20-%20Comparable%20budgeting%20for%20common%20procurement%20weapon%20systems.md)
 - [&sect; 02218 - National Defense Sealift Fund](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md)
+- [&sect; 02218a - National Sea-Based Deterrence Fund](%C2%A7%2002218a%20-%20National%20Sea-Based%20Deterrence%20Fund.md)
 - [&sect; 02219 - Renumbered &sect;2491c](%C2%A7%2002219%20-%20Renumbered%20%C2%A72491c.md)
 - [&sect; 02220 - Performance based management acquisition programs](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md)
 - [&sect; 02221 - Repealed. Pub. L. 105&#8211;261, div. A, title IX, &sect;906(f)(1), Oct. 17, 1998, 112 Stat. 2096](%C2%A7%2002221%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7906%28f%29%281%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202096.md)

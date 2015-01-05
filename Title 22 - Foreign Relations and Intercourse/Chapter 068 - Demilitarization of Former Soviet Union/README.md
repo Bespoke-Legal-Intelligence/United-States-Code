@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [5901\.](Subchapter%20001%20%28I%29%20-%20Findings%20and%20Program%20Authority/%C2%A7%2005901%20-%20Demilitarization%20of%20independent%20states%20of%20former%20Soviet%20Union.md) | Demilitarization of independent states of former Soviet Union. |
-| [5902\.](Subchapter%20001%20%28I%29%20-%20Findings%20and%20Program%20Authority/%C2%A7%2005902%20-%20Authority%20for%20programs%20to%20facilitate%20demilitarization.md) | Authority for programs to facilitate demilitarization. |
+| [5902\.](Subchapter%20001%20%28I%29%20-%20Findings%20and%20Program%20Authority/%C2%A7%2005902%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71351%282%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203606.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,7 +21,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5921\.](Subchapter%20003%20%28III%29%20-%20Reporting%20Requirements/%C2%A7%2005921%20-%20Prior%20notice%20to%20Congress%20of%20obligation%20of%20funds.md) | Prior notice to Congress of obligation of funds. |
+| [5921\.](Subchapter%20003%20%28III%29%20-%20Reporting%20Requirements/%C2%A7%2005921%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71351%282%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203606.md) | Repealed. |
 | [5922\.](Subchapter%20003%20%28III%29%20-%20Reporting%20Requirements/%C2%A7%2005922%20-%20Quarterly%20reports%20on%20programs.md) | Quarterly reports on programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

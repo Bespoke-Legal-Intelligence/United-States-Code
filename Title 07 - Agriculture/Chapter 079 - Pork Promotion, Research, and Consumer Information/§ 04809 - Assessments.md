@@ -2,7 +2,7 @@
 
 #### (a) Collection and remission to Board; persons required to pay
 
-(1) The order shall provide that, not later than 30 days after the effective date of the order under section 4805(c) of this title an assessment shall be paid, in the manner prescribed in the order. Upon the appointment of the Board, the assessments held in escrow shall be distributed to the Board. Except as provided in paragraph (3), assessments shall be payable by—
+(1) The order shall provide that, not later than 30 days after the effective date of the order under section 4805(c) of this title an assessment shall be paid, in the manner prescribed in theorder. Upon the appointment of the Board, the assessments held in escrow shall be distributed to the Board. Except as provided in paragraph (3), assessments shall be payable by—
 
 &emsp;(A) each producer for each porcine animal described in subparagraph (A) or (C) of section 4802(8) of this title produced in the United States that is sold or slaughtered for sale;
 
@@ -10,7 +10,7 @@
 
 &emsp;(C) each importer for each porcine animal, pork, or pork product that is imported into the United States.
 
-(2) Such assessment shall be collected and remitted to the Board once it is appointed pursuant to section 4808 of this title, but, until that time, to the Secretary, who shall promptly proceed to distribute the funds received by him in accordance with the provisions of subsection (c) of this section, except that the Secretary shall retain the funds to be received by the Board until such time as the Board is appointed pursuant to section 4808 of this title, by—
+(2) Such assessment shall be collected and remitted to the Board once it is appointed pursuant to section 4808 of this title, but, until that time, to the Secretary, who shall promptly proceed to distribute the funds received by him in accordance with the provisions of subsection (c), except that the Secretary shall retain the funds to be received by the Board until such time as the Board is appointed pursuant to section 4808 of this title, by—
 
 &emsp;(A) in the case of subparagraph (A) of paragraph (1), the purchaser of the porcine animal referred to in such subparagraph;
 
@@ -46,7 +46,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;(1)(A) Each State association, shall receive an amount of funds equal to the product obtained by multiplying—
 
-&emsp;&emsp;(i) the aggregate amount of assessments attributable to porcine animals produced in such State by persons described in subsection (a)(1)(A) and (B) of this section minus that State's share of refunds determined pursuant to paragraph (4) by such persons pursuant to section 4813 of this title; and
+&emsp;&emsp;(i) the aggregate amount of assessments attributable to porcine animals produced in such State by persons described in subsection (a)(1)(A) and (B) minus that State's share of refunds determined pursuant to paragraph (4) by such persons pursuant to section 4813 of this title; and
 
 &emsp;&emsp;(ii) a percentage applicable to such State association determined by the Delegate Body, but in no event less than sixteen and one-half percent, or
 
@@ -60,7 +60,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;(2)(A) The National Pork Producers Council, a nonprofit corporation of the type described in section 501(c)(3) of title 26 and incorporated in the State of Iowa, shall receive an amount of funds equal to—
 
-&emsp;&emsp;(i) 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month inwhich the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
+&emsp;&emsp;(i) 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
 
 &emsp;&emsp;(ii) 35 percent thereafter until the referendum is conducted pursuant to section 4811 of this title,
 
@@ -76,7 +76,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;(3)(A) The Board shall receive the amount of funds that remain after the distribution required under paragraphs (1) and (2).
 
-&emsp;(B) The Board shall use such funds and any proceeds from the investment of such funds pursuant to subsection (g) of this section for—
+&emsp;(B) The Board shall use such funds and any proceeds from the investment of such funds pursuant to subsection (g) for—
 
 &emsp;&emsp;(i) financing promotion, research, and consumer information plans and projects in accordance with this chapter; <sup>4</sup>
 

@@ -80,7 +80,7 @@ The Director of NIH shall submit to the Congress on a biennial basis a report in
 
 &emsp;&emsp;(C) Recommendations for improving the effectiveness, efficiency, and outcomes of the centers of excellence.
 
-&emsp;&emsp;(D) If no additional centers of excellence have been funded under this subchaptersince the previous report under this section, an explanation of the reasons for not funding any additional centers.
+&emsp;&emsp;(D) If no additional centers of excellence have been funded under this subchapter since the previous report under this section, an explanation of the reasons for not funding any additional centers.
 
 #### (b) Requirement regarding disease-specific research activities
 

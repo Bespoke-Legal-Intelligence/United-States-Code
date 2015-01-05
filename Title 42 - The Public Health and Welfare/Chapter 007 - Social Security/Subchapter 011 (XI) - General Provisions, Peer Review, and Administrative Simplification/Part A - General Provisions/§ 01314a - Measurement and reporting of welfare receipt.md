@@ -76,7 +76,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (8) Termination of Board
 
-&emsp;The Board shall be terminated at such time as the Secretary determines the duties described in paragraph (4) have been completed,but in any case prior to the submission of the first report required under subsection (d) of this section.
+&emsp;The Board shall be terminated at such time as the Secretary determines the duties described in paragraph (4) have been completed, but in any case prior to the submission of the first report required under subsection (d) of this section.
 
 #### (d) Annual welfare indicators report
 

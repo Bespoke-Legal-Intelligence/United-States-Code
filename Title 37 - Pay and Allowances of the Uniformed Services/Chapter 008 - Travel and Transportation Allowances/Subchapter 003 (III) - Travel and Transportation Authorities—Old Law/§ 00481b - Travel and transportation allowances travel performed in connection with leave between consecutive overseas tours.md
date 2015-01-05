@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 112–81, §631(e)(16), added subsec. (d).
 
 Subsecs. (b), (c). Pub. L. 107–314, §621(a), (b)(2), added subsec. (b), redesignated former subsec. (b) as (c), and inserted heading.
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 struck out ", or his designee, or to a place no farther distant than his home of record" after "place approved by the Secretary concerned".
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 struck out ", or his designee, or to a place no farther distant than hishome of record" after "place approved by the Secretary concerned".
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–201 inserted at end "If the member is unable to undertake the travel before the end of such one-year period as a result of duty in connection with a contingency operation, the member may defer the travel for one additional year beginning on the date the duty of the member in connection with the contingency operation ends."
 
@@ -60,7 +60,7 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §621(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L.112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "Subsection (b) of section 481b of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services in a deferred leave travel status under such section as of the date of the enactment of this Act \[Dec. 2, 2002\] or becomes entitled \[sic\] to travel and transportation allowances under such section on or after that date."
+Pub. L. 107–314, div. A, title VI, §621(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "Subsection (b) of section 481b of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services in a deferred leave travel status under such section as of the date of the enactment of this Act \[Dec. 2, 2002\] or becomes entitled \[sic\] to travel and transportation allowances under such section on or after that date."
 
 #### Effective Date of 1996 Amendment
 

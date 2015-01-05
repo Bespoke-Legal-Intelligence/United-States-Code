@@ -6,7 +6,7 @@ The National Labor Relations Board (hereinafter called the "Board") created by t
 
 #### (b) Delegation of powers to members and regional directors; review and stay of actions of regional directors; quorum; seal
 
-The Board is authorized to delegate to any group of three or more members any or all of the powers which it may itself exercise. The Board is also authorized to delegate to its regional directors its powers under section 159 of this title to determine the unit appropriate for the purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under subsection (c) or (e) of section 159 of this title and certify the results thereof, except that upon the filing of a request therefor with the Board by any interested person, the Board may review any action of a regional director delegated to him under this paragraph, but such a review shall not, unless specifically ordered by the Board, operate as a stay of any action taken by the regional director. A vacancy in the Board shall not impair the right of the remaining members to exercise all of the powers of the Board, and three members of the Board shall, at all times, constitute a quorum of the Board, except that two members shall constitute a quorum of any group designated pursuant to the first sentence hereof. The Board shall have an official seal which shall be judicially noticed.
+The Board is authorized to delegate to any group of three or more members any or all of the powers which it may itself exercise. The Board is also authorized to delegate to its regional directors its powers under section 159 of this title to determine the unit appropriate forthe purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under subsection (c) or (e) of section 159 of this title and certify the results thereof, except that upon the filing of a request therefor with the Board by any interested person, the Board may review any action of a regional director delegated to him under this paragraph, but such a review shall not, unless specifically ordered by the Board, operate as a stay of any action taken by the regional director. A vacancy in the Board shall not impair the right of the remaining members to exercise all of the powers of the Board, and three members of the Board shall, at all times, constitute a quorum of the Board, except that two members shall constitute a quorum of any group designated pursuant to the first sentence hereof. The Board shall have an official seal which shall be judicially noticed.
 
 #### (c) Annual reports to Congress and the President
 
@@ -20,7 +20,7 @@ There shall be a General Counsel of the Board who shall be appointed by the Pres
 
 #### References in Text
 
-The Labor Management Relations Act, 1947, referred to in subsec. (a), is act June 23, 1947, ch. 120, 61 Stat.136, as amended, which is classified principally to this chapter. For complete classification of this act to the Code, see section 141 of this title and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (a), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to this chapter. For complete classification of this act to the Code, see section 141 of this title and Tables.
 
 #### Codification
 

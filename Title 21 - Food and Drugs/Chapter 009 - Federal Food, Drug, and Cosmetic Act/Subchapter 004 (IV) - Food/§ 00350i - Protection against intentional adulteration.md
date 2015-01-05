@@ -14,7 +14,7 @@
 
 #### (2) Limited distribution
 
-&emsp;In the interest of national security, the Secretary, in consultation with the Secretary ofHomeland Security, may determine the time, manner, and form in which determinations made under paragraph (1) are made publicly available.
+&emsp;In the interest of national security, the Secretary, in consultation with the Secretary of Homeland Security, may determine the time, manner, and form in which determinations made under paragraph (1) are made publicly available.
 
 #### (b) Regulations
 

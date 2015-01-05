@@ -18,7 +18,7 @@ In General.—The annual rates of basic pay of members of the United States Secr
 | Chief |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | (12)The rate of basic pay <sup>1</sup> the Chief position will be equal to the rate of pay for level V of the Executive Schedule. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-<sup>1</sup> So in original. Probably should be followed by “for”.
+<sup>1</sup> So in original. Probably should be followed by "for".
 
 (b)
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) Cropland is released from coverage under a conservation reserve contract by the Secretary, or was released during the period beginning on October 1, 2007, and ending on the date of enactment of this Act.
 
-&emsp;&emsp;(C) The producer has eligible pulse crop acreage, which shall be determined in thesame manner as eligible oilseed acreage under section 7911(a)(2) of this title.
+&emsp;&emsp;(C) The producer has eligible pulse crop acreage, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
 &emsp;&emsp;(D) The producer has eligible oilseed acreage as the result of the Secretary designating additional oilseeds, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 

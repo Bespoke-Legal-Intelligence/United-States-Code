@@ -56,7 +56,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(6) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding serviceon active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -84,7 +84,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 6 months, is discharged or released from active duty as described in subsection (c).
 
-&emsp;(9) An individual who is the child of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
+&emsp;(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
 (c)
 
@@ -134,11 +134,27 @@ In general.—Educational assistance payable by reason of paragraph (9) of subse
 
 &emsp;(2)
 
+Limitation.—The entitlement of an individual to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
+
+&emsp;&emsp;(A) the date that is 15 years after the date on which the person died; or
+
+&emsp;&emsp;(B) the date on which the individual remarries.
+
+&emsp;(3)
+
+Election on receipt of certain benefits.—A surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+
+&emsp;(4)
+
 Definition of child.—For purposes of that paragraph, the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32,title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(9). Pub. L. 113–146, §701(a), inserted "or spouse" after "child".
+
+Subsec. (f)(2) to (4). Pub. L. 113–146, §701(b), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
 <b>2011</b>—Subsec. (c)(4). Pub. L. 111–377, §101(b), substituted "A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service" for "A discharge or release from active duty in the Armed Forces" in introductory provisions.
 
@@ -147,6 +163,10 @@ Subsec. (d)(2). Pub. L. 111–377, §101(c), inserted "or section 182 of title 1
 <b>2009</b>—Subsec. (b)(9). Pub. L. 111–32, §1002(a)(1), added par. (9).
 
 Subsec. (f). Pub. L. 111–32, §1002(a)(2), added subsec. (f).
+
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–146, title VII, §701(d), Aug. 7, 2014, 128 Stat. 1796, provided that: "The amendments made by this section \[amending this section and section 3321 of this title\] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015."
 
 #### Effective Date of 2011 Amendment
 

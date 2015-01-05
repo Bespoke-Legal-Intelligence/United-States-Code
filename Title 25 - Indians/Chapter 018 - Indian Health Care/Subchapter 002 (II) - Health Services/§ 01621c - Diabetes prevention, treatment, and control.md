@@ -48,7 +48,7 @@ The Secretary is authorized to provide, through the Service, Indian tribes, and 
 
 Public Law 108–87, referred to in subsec. (c), is Pub. L. 108–87, Sept. 30, 2003, 117 Stat. 1054, known as the Department of Defense Appropriations Act, 2004. Title IV of the Act (117 Stat. 1067) is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2)(B), is Pub. L.93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Codification
 

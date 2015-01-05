@@ -28,7 +28,7 @@ Qualifying Program or Event.—For purposes of this section, a qualifying progra
 
 Monthly Assistance Allowance.—(1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center.
 
-(2) The amount of the monthly assistance payable to a veteran under paragraph (1) shall be equal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
+(2) The amount of the monthly assistance payable to a veteran under paragraph (1) shall beequal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
 
 (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 

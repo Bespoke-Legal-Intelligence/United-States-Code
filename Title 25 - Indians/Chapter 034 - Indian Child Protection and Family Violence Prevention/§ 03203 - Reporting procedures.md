@@ -30,13 +30,13 @@
 
 &emsp;(G) any other information the agency or the person who made the report to the agency believes to be important to the investigation and disposition of the alleged abuse.
 
-(2)(A) Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) <sup>1</sup> of this title shall immediately initiate an investigation of such allegation and shall take immediate, appropriate steps to secure the safety and well-being of the child or children involved.
+(2)(A) Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) <sup>1</sup> of this title shall immediately initiate an investigation of such allegation and shall take immediate, appropriate steps to secure thesafety and well-being of the child or children involved.
 
 (B) Upon completion of the investigation of any report of alleged abuse that is made to a local law enforcement agency or local child protective services agency, such agency shall prepare a final written report on such allegation.
 
 #### (d) Confidentiality of informant
 
-The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent ofthe individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee's duties.
+The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee's duties.
 
 (Pub. L. 101–630, title IV, §404, Nov. 28, 1990, 104 Stat. 4547.)
 

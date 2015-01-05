@@ -1,6 +1,6 @@
 ### §2344. Methods of payment for acquisitions and transfers by the United States
 
-(a) Logistics support, supplies, and services may be acquired or transferred by the United States under the authority of this subchapter on a reimbursement basis or by replacement-in-kind or exchange of supplies or services of an equal value.
+(a) Logistics support, supplies, and services may be acquired or transferred by the United States under the authority of this subchapter ona reimbursement basis or by replacement-in-kind or exchange of supplies or services of an equal value.
 
 (b)(1) In entering into agreements with the Government of another North Atlantic Treaty Organization country or other foreign country for the acquisition or transfer of logistic support, supplies, and services on a reimbursement basis, the Secretary of Defense shall negotiate for adoption of the following pricing principles for reciprocal application:
 

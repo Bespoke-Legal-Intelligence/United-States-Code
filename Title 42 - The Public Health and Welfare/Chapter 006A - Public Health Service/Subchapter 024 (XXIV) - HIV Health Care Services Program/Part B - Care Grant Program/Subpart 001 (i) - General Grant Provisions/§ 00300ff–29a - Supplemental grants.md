@@ -58,7 +58,7 @@ The provisions of section 300ff–22(b) of this title apply with respect to a gr
 
 The authority to make grants under this section applies beginning with the first fiscal year for which amounts are made available for such grants under section 300ff–31b(b)(1) of this title.
 
-(July 1, 1944, ch. 373, title XXVI, §2620, as added and amended Pub. L. 109–415, title II, §205(2), title VII, §703, Dec. 19, 2006, 120 Stat. 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 5(c)(2), 8(a)(2), (b)(2)(D), Oct. 30, 2009, 123 Stat. 2885, 2891, 2893, 2894.)
+(July 1, 1944, ch. 373, title XXVI, §2620, as added and amended Pub. L. 109–415, title II, §205(2), title VII, §703, Dec. 19, 2006, 120 Stat. 2797, 2820;Pub. L. 111–87, §§2(a)(1), (3)(A), 5(c)(2), 8(a)(2), (b)(2)(D), Oct. 30, 2009, 123 Stat. 2885, 2891, 2893, 2894.)
 
 #### Prior Provisions
 

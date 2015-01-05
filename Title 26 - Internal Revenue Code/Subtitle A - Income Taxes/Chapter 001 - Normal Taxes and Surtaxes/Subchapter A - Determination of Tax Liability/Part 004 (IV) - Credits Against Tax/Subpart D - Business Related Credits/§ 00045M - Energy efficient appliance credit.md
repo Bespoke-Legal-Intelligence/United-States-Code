@@ -62,7 +62,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(C) $100 in the case of a refrigerator which is manufactured in calendar year 2008, 2009, or 2010, and consumes at least 25 percent but not more than 29.9 percent less kilowatt hours per year than the 2001 energy conservation standards,
 
-&emsp;&emsp;(D) $200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010and which consumes at least 30 percent less energy than the 2001 energy conservation standards,
+&emsp;&emsp;(D) $200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010 and which consumes at least 30 percent less energy than the 2001 energy conservation standards,
 
 &emsp;&emsp;(E) $150 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013 which consumes at least 30 percent less energy than the 2001 energy conservation standards, and
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (B) Inclusion of foreign corporations
 
-&emsp;&emsp;For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 tothis section, section 1563 shall be applied without regard to subsection (b)(2)(C) thereof.
+&emsp;&emsp;For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 to this section, section 1563 shall be applied without regard to subsection (b)(2)(C) thereof.
 
 #### (3) Verification
 

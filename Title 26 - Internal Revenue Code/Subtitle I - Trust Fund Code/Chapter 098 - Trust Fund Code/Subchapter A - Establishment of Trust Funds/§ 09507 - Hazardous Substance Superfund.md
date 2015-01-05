@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the"Hazardous Substance Superfund" (hereinafter in this section referred to as the "Superfund"), consisting of such amounts as may be—
+There is established in the Treasury of the United States a trust fund to be known as the "Hazardous Substance Superfund" (hereinafter in this section referred to as the "Superfund"), consisting of such amounts as may be—
 
 &emsp;(1) appropriated to the Superfund as provided in this section,
 
@@ -14,7 +14,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 There are hereby appropriated to the Superfund amounts equivalent to—
 
-&emsp;(1) the taxes received in the Treasury under section 59A, 4611, 4661, or 4671 (relating to environmental taxes),
+&emsp;(1) the taxes received in the Treasury under section 4611, 4661, or 4671 (relating to environmental taxes),
 
 &emsp;(2) amounts recovered on behalf of the Superfund under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this section referred to as "CERCLA"),
 
@@ -70,7 +70,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (B) Final repayment
 
-&emsp;&emsp;No advance shall be made to the Superfund after December 31, 1995, and all advances to such Fund shall be repaid on or before such date.
+&emsp;&emsp;No advance shall be made to the Superfund after December 31, 1995, and all advances tosuch Fund shall be repaid on or before such date.
 
 #### (C) Rate of interest
 
@@ -90,7 +90,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 &emsp;If at any time the Superfund has insufficient funds to pay all of the claims payable out of the Superfund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
 
-(Added Pub. L. 99–499, title V, §517(a), Oct. 17, 1986, 100 Stat. 1772; amended Pub. L. 99–509, title VIII, §8032(c)(4), Oct. 21, 1986, 100 Stat. 1959; Pub. L. 101–508, title XI, §11231(c), Nov. 5, 1990, 104 Stat. 1388–445.)
+(Added Pub. L. 99–499, title V, §517(a), Oct. 17, 1986, 100 Stat. 1772; amended Pub. L. 99–509, title VIII, §8032(c)(4), Oct. 21, 1986, 100 Stat. 1959; Pub. L. 101–508, title XI, §11231(c), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 113–295, div. A, title II, §221(a)(12)(L), Dec. 19, 2014, 128 Stat. 4039.)
 
 #### References in Text
 
@@ -108,9 +108,15 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–295 struck out "59A," before "4611,".
+
 <b>1990</b>—Subsec. (d)(3)(B). Pub. L. 101–508 substituted "December 31, 1995" for "December 31, 1991".
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–509 inserted at end "In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c)."
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -150,7 +156,7 @@ Pub. L. 99–499, title V, §517(b), Oct. 17, 1986, 100 Stat. 1773, as amended b
 
 &emsp;"(9) 1995, $250,000,000,
 
-> plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved."
+> plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal)as has not been appropriated before the beginning of the fiscal year involved."
 
 \[Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, directed that section 517(b) of Pub. L. 99–499, set out above, be "amended by striking 'and' at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ', and', and by adding at the end thereof" new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 "shall be applied as if 'comma' appeared instead of 'period' \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma".\]
 

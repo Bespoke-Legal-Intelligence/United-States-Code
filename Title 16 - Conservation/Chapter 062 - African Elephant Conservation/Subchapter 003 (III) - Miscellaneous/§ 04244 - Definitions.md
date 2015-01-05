@@ -8,7 +8,7 @@ In this chapter—
 
 &emsp;(3) the term "CITES Ivory Control System" means the ivory quota and marking system established by CITES to curtail illegal trade in African elephant ivory;
 
-&emsp;(4) the term "Fund" means the account established by division A, section 101(e), title I of Public Law 105–277 under the heading "
+&emsp;(4) the term "Fund" means the account established by division A, section 101(e), title I of Public Law 105–277 under the heading"
 
 multinational species conservation fund" \[16 U.S.C. 4246\];
 

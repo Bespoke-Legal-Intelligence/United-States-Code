@@ -88,7 +88,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (5) Chairman, Vice Chairman
 
-&emsp;The Comptroller General shall designate a member of the Commission, at the time of appointment of the member, as Chairman and a member as Vice Chairman for that term of appointment, except that in the case of vacancy of the chairmanship or vice chairmanship, the Comptroller General may designate anothermember for the remainder of that member's term.
+&emsp;The Comptroller General shall designate a member of the Commission, at the time of appointment of the member, as Chairman and a member as Vice Chairman for that term of appointment, except that in the case of vacancy of the chairmanship or vice chairmanship, the Comptroller General may designate another member for the remainder of that member's term.
 
 #### (6) Meetings
 
@@ -198,7 +198,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (2) Obtaining official data
 
-&emsp;The Commission, consistent with established privacy rules, may secure directly from any department or agency of the Executive Branch information necessary to enable the Commission to carry out this section.
+&emsp;The Commission, consistent with established privacy rules, may secure directly from any department or agency of the ExecutiveBranch information necessary to enable the Commission to carry out this section.
 
 #### (3) Detail of Federal Government employees
 
@@ -270,13 +270,17 @@ In this section:
 
 &emsp;&emsp;(B) national representatives of health professionals;
 
-&emsp;&emsp;(C) representatives of schools of medicine, osteopathy, nursing, dentistry, optometry, pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists,<sup>4</sup> oral health care industry dentistry and dental hygiene, and physician assistants;
+&emsp;&emsp;(C) representatives of schools of medicine, osteopathy, nursing, dentistry, optometry,pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists,<sup>4</sup> oral health care industry dentistry and dental hygiene, and physician assistants;
 
 &emsp;&emsp;(D) representatives of public and private teaching hospitals, and ambulatory health facilities, including Federal medical facilities; and
 
 &emsp;&emsp;(E) any other health professional the Comptroller General of the United States determines appropriate.
 
-(Pub. L. 111–148, title V, §5101, title X, §10501(a), Mar. 23, 2010, 124 Stat. 592, 993.)
+(Pub. L. 111–148, title V, §5101, title X, §10501(a), Mar. 23, 2010, 124 Stat. 592, 993; Pub. L. 113–128, title V, §512(y), July 22, 2014, 128 Stat. 1716.)
+
+#### Amendment of Subsection (d)(3)(D)
+
+<i>Pub. L. 113–128, title V, §§506, 512(y), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d)(3)(D) of this section is amended by striking "other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)," and inserting "other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act,". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -316,11 +320,17 @@ Section 294q–3, act July 1, 1944, ch. 373, title VII, §747, formerly §745, a
 
 #### Amendments
 
+<b>2014</b>—Subsec. (d)(3)(D). Pub. L. 113–128 substituted "other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act," for "other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),".
+
 <b>2010</b>—Subsec. (c)(2)(B)(i)(II). Pub. L. 111–148, §10501(a)(1), inserted ", including representatives of small business and self-employed individuals" after "employers".
 
 Subsec. (d)(4)(A)(iv), (v). Pub. L. 111–148, §10501(a)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
 
 Subsec. (i)(2)(A), (C). Pub. L. 111–148, §10501(a)(3), which directed insertion of "optometrists, ophthalmologists," after "occupational therapists," in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words "occupational therapists," do not appear in subpar. (B).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Purpose
 
@@ -392,7 +402,7 @@ Postsecondary education.—The term 'postsecondary education' means—
 
 &emsp;"(6)
 
-Registered apprenticeship program.—The term 'registered apprenticeship program' means an industry skills training program at the postsecondary level that combines technical and theoretical training through structure on the job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhance job proficiency, resulting in theacquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship or a State agency recognized by the Department of Labor."
+Registered apprenticeship program.—The term 'registered apprenticeship program' means an industry skills training program at the postsecondary level that combines technical and theoretical training through structure on the job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhance job proficiency, resulting in the acquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship or a State agency recognized by the Department of Labor."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "title".</i>
 

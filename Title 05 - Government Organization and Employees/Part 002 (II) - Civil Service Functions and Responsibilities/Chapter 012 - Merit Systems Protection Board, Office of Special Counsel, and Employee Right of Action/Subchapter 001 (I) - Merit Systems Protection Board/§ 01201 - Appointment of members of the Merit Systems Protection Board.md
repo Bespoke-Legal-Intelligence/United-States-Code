@@ -1,16 +1,16 @@
 ### §1201. Appointment of members of the Merit Systems Protection Board
 
-The Merit Systems Protection Board is composed of 3 members appointed by the President, by and with the advice and consent of the Senate, not more than 2 of whom may be adherents of the same political party. The members of the Board shall be individuals who, by demonstrated ability, background, training, or experience are especially qualified to carry out the functions ofthe Board. No member of the Board may hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President. The Board shall have an official seal which shall be judicially noticed. The Board shall have its principal office in the District of Columbia and may have field offices in other appropriate locations.
+The Merit Systems Protection Board is composed of 3 members appointed by the President, by and with the advice and consent of the Senate, not more than 2 of whom may be adherents of the same political party. The members of the Board shall be individuals who, by demonstrated ability, background, training, or experience are especially qualified to carry out the functions of the Board. No member of the Board may hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President. The Board shall have an official seal which shall be judicially noticed. The Board shall have its principal office in the District of Columbia and may have field offices in other appropriate locations.
 
 (Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1121; amended Pub. L. 101–12, §3(a)(1), Apr. 10, 1989, 103 Stat. 16.)
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–12 substituted “The members” for “The Chairman and members” in second sentence.
+<b>1989</b>—Pub. L. 101–12 substituted "The members" for "The Chairman and members" in second sentence.
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–12, §11, Apr. 10, 1989, 103 Stat. 35, provided that: “This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect 90 days following the date of enactment of this Act \[Apr. 10, 1989\].”
+Pub. L. 101–12, §11, Apr. 10, 1989, 103 Stat. 35, provided that: "This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect 90 days following the date of enactment of this Act \[Apr. 10, 1989\]."
 
 #### Effective Date
 
@@ -18,53 +18,53 @@ Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95�
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–12, §1, Apr. 10, 1989, 103 Stat. 16, provided that: “This Act \[enacting subchapters II and III of this chapter and section 3352 of this title, amending this section and sections 1202 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of this title and section 4139 of Title 22, Foreign Relations and Intercourse, repealing sections 1207 and 1208 of this title, and enacting provisions set out as notes under this section and sections 1211 and 5509 of this title\] may be cited as the ‘Whistleblower Protection Act of 1989’.”
+Pub. L. 101–12, §1, Apr. 10, 1989, 103 Stat. 16, provided that: "This Act \[enacting subchapters II and III of this chapter and section 3352 of this title, amending this section and sections 1202 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of this title and section 4139 of Title 22, Foreign Relations and Intercourse, repealing sections 1207 and 1208 of this title, and enacting provisions set out as notes under this section and sections 1211 and 5509 of this title\] may be cited as the 'Whistleblower Protection Act of 1989'."
 
 #### Savings Provision
 
 Pub. L. 101–12, §7, Apr. 10, 1989, 103 Stat. 34, provided that:
 
-“(a)
+"(a)
 
 Orders, Rules, and Regulations.—All orders, rules, and regulations issued by the Merit Systems Protection Board or the Special Counsel before the effective date of this Act \[see Effective Date of 1989 Amendment note above\] shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed.
 
-“(b)
+"(b)
 
 Administrative Proceedings.—No provision of this Act \[see Short Title of 1989 Amendment note above\] shall affect any administrative proceeding pending at the time such provisions take effect. Orders shall be issued in such proceedings, and appeals shall be taken therefrom, as if this Act had not been enacted.
 
-“(c)
+"(c)
 
-Suits and Other Proceedings.—No suit, action, or other proceeding lawfully commenced by or against the members of the Merit Systems Protection Board, the Special Counsel, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1989 Amendment note above\], shall abate by reason of the enactment of this Act. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted.”
+Suits and Other Proceedings.—No suit, action, or other proceeding lawfully commenced by or against the members of the Merit Systems Protection Board, the Special Counsel, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1989 Amendment note above\], shall abate by reason of the enactment of this Act. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted."
 
 #### Whistleblower Protection; Congressional Statement of Findings and Purpose
 
 Pub. L. 101–12, §2, Apr. 10, 1989, 103 Stat. 16, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) Federal employees who make disclosures described in section 2302(b)(8) of title 5, United States Code, serve the public interest by assisting in the elimination of fraud, waste, abuse, and unnecessary Government expenditures;
+&emsp;"(1) Federal employees who make disclosures described in section 2302(b)(8) of title 5, United States Code, serve the public interest by assisting in the elimination of fraud, waste, abuse, and unnecessary Government expenditures;
 
-&emsp;“(2) protecting employees who disclose Government illegality, waste, and corruption is a major step toward a more effective civil service; and
+&emsp;"(2) protecting employees who disclose Government illegality, waste, and corruption is a major step toward a more effective civil service; and
 
-&emsp;“(3) in passing the Civil Service Reform Act of 1978 \[Pub. L. 95–454, see Tables for classification\], Congress established the Office of Special Counsel to protect whistleblowers (those individuals who make disclosures described in such section 2302(b)(8)) from reprisal.
+&emsp;"(3) in passing the Civil Service Reform Act of 1978 \[Pub. L. 95–454, see Tables for classification\], Congress established the Office of Special Counsel to protect whistleblowers (those individuals who make disclosures described in such section 2302(b)(8)) from reprisal.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of this Act \[see Short Title of 1989 Amendment note above\] is to strengthen and improve protection for the rights of Federal employees, to prevent reprisals, and to help eliminate wrongdoing within the Government by—
 
-&emsp;“(1) mandating that employees should not suffer adverse consequences as a result of prohibited personnel practices; and
+&emsp;"(1) mandating that employees should not suffer adverse consequences as a result of prohibited personnel practices; and
 
-&emsp;“(2) establishing—
+&emsp;"(2) establishing—
 
-&emsp;&emsp;“(A) that the primary role of the Office of Special Counsel is to protect employees, especially whistleblowers, from prohibited personnel practices;
+&emsp;&emsp;"(A) that the primary role of the Office of Special Counsel is to protect employees, especially whistleblowers, from prohibited personnel practices;
 
-&emsp;&emsp;“(B) that the Office of Special Counsel shall act in the interests of employees who seek assistance from the Office of Special Counsel; and
+&emsp;&emsp;"(B) that the Office of Special Counsel shall act in the interests of employees who seek assistance from the Office of Special Counsel; and
 
-&emsp;&emsp;“(C) that while disciplining those who commit prohibited personnel practices may be used as a means by which to help accomplish that goal, the protection of individuals who are the subject of prohibited personnel practices remains the paramount consideration.”
+&emsp;&emsp;"(C) that while disciplining those who commit prohibited personnel practices may be used as a means by which to help accomplish that goal, the protection of individuals who are the subject of prohibited personnel practices remains the paramount consideration."
 
 #### Terms of Office of Members
 
-Pub. L. 95–454, title II, §202(b), Oct. 13, 1978, 92 Stat. 1131, provided that: “Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 1101 of this title\] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section).”
+Pub. L. 95–454, title II, §202(b), Oct. 13, 1978, 92 Stat. 1131, provided that: "Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 1101 of this title\] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section)."
 

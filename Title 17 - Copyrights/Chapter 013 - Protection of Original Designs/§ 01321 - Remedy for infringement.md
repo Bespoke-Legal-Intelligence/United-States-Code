@@ -6,7 +6,7 @@ In General.—The owner of a design is entitled, after issuance of a certificate
 
 (b)
 
-Review of Refusal To Register.—(1) Subject to paragraph (2), the owner of a design may seek judicial review of a final refusal of the Administrator to register the design under this chapter by bringing a civil action, and may inthe same action, if the court adjudges the design subject to protection under this chapter, enforce the rights in that design under this chapter.
+Review of Refusal To Register.—(1) Subject to paragraph (2), the owner of a design may seek judicial review of a final refusal of the Administrator to register the design under this chapter by bringing a civil action, and may in the same action, if the court adjudges the design subject to protection under this chapter, enforce the rights in that design under this chapter.
 
 (2) The owner of a design may seek judicial review under this section if—
 

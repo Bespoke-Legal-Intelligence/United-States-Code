@@ -96,7 +96,7 @@ A conservation plan approved under this section shall be implemented as provided
 
 #### (1) Initial report to Congress
 
-&emsp;Within one hundred and eighty days after entering into the agreement required under subsection (a) of this section, the Secretary, the Director, and the Administrator shall report to the Congress as to the status of a conservation plan approved under this section and the progress of the State in carrying out such a plan, including and <sup>1</sup> accounting, as required under subsection (c) of this section, of the gains and losses of coastal wetlands as a result of development activities.
+&emsp;Within one hundred and eighty days after entering into the agreement required under subsection (a) of this section, the Secretary, the Director, and the Administrator shall report to the Congress as to the status of a conservation plan approved under this section and the progress of the State in carrying out such a plan, including and <sup>1</sup> accounting, as requiredunder subsection (c) of this section, of the gains and losses of coastal wetlands as a result of development activities.
 
 #### (2) Report to Congress
 

@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "contract services" includes all services acquired from private sector entities by or for the Department of Defense, including services in support of contingency operations. The term does not include services relating to research and development or military construction.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amendedPub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, §845(d), Jan. 2, 2013, 126 Stat. 1848.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, §845(d), Jan. 2, 2013, 126 Stat. 1848.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Another prior section 2330 was renumbered section 2349 of this title.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(2). Pub. L. 112–239 substituted "including services in support of contingency operations. The term does not include services relating to research and development or military construction." for "other than services relating to research and development or military construction."
+<b>2013</b>—Subsec. (c)(2). Pub. L. 112–239 substituted "including services in support of contingency operations.The term does not include services relating to research and development or military construction." for "other than services relating to research and development or military construction."
 
 <b>2006</b>—Pub. L. 109–163 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirement for management structure, contracting responsibilities of designated officials, and definitions.
 
@@ -190,7 +190,7 @@ Review of Supporting Requirements To Identify Savings.—The secretaries of the 
 
 #### Procurement of Commercial Services
 
-Pub. L. 110–181, div. A, title VIII, §805, Jan. 28, 2008, 122 Stat. 212, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(4), Oct. 14, 2008, 122 Stat. 4613, provided that:
+Pub. L. 110–181, div. A, title VIII, §805, Jan. 28, 2008, 122 Stat. 212, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(4), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 113–291, div. A, title X, §1071(b)(2)(A), Dec. 19, 2014, 128 Stat. 3506, provided that:
 
 "(a)
 
@@ -220,13 +220,13 @@ Time-and-Materials Contracts.—
 
 Commercial item acquisitions.—The regulations modified pursuant to subsection (a) shall ensure that procedures applicable to time-and-materials contracts and labor-hour contracts for commercial item acquisitions may be used only for the following:
 
-&emsp;&emsp;"(A) Services procured for support of a commercial item, as described in section 4(12)(E) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)(E)) \[now 41 U.S.C. 103(5)\].
+&emsp;&emsp;"(A) Services procured for support of a commercial item, as described in section 103(5) of title 41, United States Code.
 
 &emsp;&emsp;"(B) Emergency repair services.
 
 &emsp;&emsp;"(C) Any other commercial services only to the extent that the head of the agency concerned approves a determination in writing by the contracting officer that—
 
-&emsp;&emsp;&emsp;"(i) the services to be acquired are commercial services as defined in section 4(12)(F) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)(F)) \[now 41 U.S.C. 103(6)\];
+&emsp;&emsp;&emsp;"(i) the services to be acquired are commercial services as defined in section 103(6) of title 41, United States Code;
 
 &emsp;&emsp;&emsp;"(ii) if the services to be acquired are subject to subsection (b), the offeror of the services has submitted sufficient information in accordance with that subsection;
 
@@ -332,7 +332,7 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 #### Procurement Program Review Structure; Comptroller General Review
 
-Pub. L. 107–107, div. A, title VIII, §801(d)–(f), Dec. 28, 2001, 115 Stat. 1177, provided that:
+Pub. L. 107–107, div. A, title VIII, §801(d)–(f), Dec. 28, 2001, 115 Stat. 1177, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(8), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 "(d)
 
@@ -354,7 +354,7 @@ Comptroller General Review.—Not later than 90 days after the date on which the
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'senior procurement executive' means the official designated as the senior procurement executive under section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3)) \[see 41 U.S.C. 1702(c)\].
+&emsp;"(1) The term 'senior procurement executive' means the official designated as the senior procurement executive under section 1702(c) of title 41, United States Code.
 
 &emsp;"(2) The term 'performance-based', with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes."
 

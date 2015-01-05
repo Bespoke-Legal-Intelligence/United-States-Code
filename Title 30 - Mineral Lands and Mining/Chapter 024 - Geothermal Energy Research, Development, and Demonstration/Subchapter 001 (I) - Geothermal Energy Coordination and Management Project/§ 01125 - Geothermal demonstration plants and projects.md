@@ -24,7 +24,7 @@ In carrying out his responsibilities under this section, the Chairman, acting th
 
 #### (c) Agreements for the cooperative development of facilities for demonstration
 
-The Chairman, acting through the appropriate Federal agencies, is authorized to investigate and enter into agreements for the cooperative development of facilities to demonstrate the production of energy from geothermal resources. The responsible Federal agency may consider—
+The Chairman, acting through the appropriate Federal agencies, is authorized to investigate and enter into agreements for the cooperativedevelopment of facilities to demonstrate the production of energy from geothermal resources. The responsible Federal agency may consider—
 
 &emsp;(1) cooperative agreements with utilities and non-Federal governmental entities for construction of facilities to produce energy for commercial disposition; and
 
@@ -36,11 +36,11 @@ The responsible Federal agency is authorized to investigate the feasibility of, 
 
 &emsp;(1) the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production, or any other significant factor of the proposal offers opportunities to make important contributions to the general knowledge of geothermal resources, the techniques of its development, or public confidence in the technology; and
 
-&emsp;(2) there is no opportunity for cooperative agreements with any utility or non-Federal governmental entity willing and able to cooperate in the demonstration project under subsection (c)(1) of this section, and there is no opportunity for cooperative agreements with other Federal agencies under subsection (c)(2) of this section.
+&emsp;(2) there is no opportunity for cooperative agreements with any utility or non-Federal governmental entity willing and able to cooperate in the demonstration project under subsection (c)(1), and there is no opportunity for cooperative agreements with other Federal agencies under subsection (c)(2).
 
 #### (e) Factors considered for entry into agreements
 
-Before favorably considering proposals under subsection (c) of this section, the responsible Federal agency must find that—
+Before favorably considering proposals under subsection (c), the responsible Federal agency must find that—
 
 &emsp;(1) the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production, or any other significant factor of the proposal offers opportunities to make important contributions to the general knowledge of geothermal resources, the techniques of its development, or public confidence in the technology;
 

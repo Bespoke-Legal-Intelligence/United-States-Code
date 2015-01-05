@@ -22,7 +22,7 @@ Clarification Regarding State Law Causes of Action.—(1) Nothing in this sectio
 
 &emsp;(C) has failed to comply with a State law, regulation, or order that is not incompatible with subsection (a)(2).
 
-(2) This subsection shall apply to all pending State law causes of action arising from eventsor activities occurring on or after January 18, 2002.
+(2) This subsection shall apply to all pending State law causes of action arising from events or activities occurring on or after January 18, 2002.
 
 (c)
 

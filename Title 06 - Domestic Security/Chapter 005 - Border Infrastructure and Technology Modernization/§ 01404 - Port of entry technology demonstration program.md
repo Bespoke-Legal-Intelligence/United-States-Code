@@ -48,5 +48,5 @@ The Secretary, acting through the Commissioner, shall permit personnel from appr
 
 (Pub. L. 110–161, div. E, title VI, §605, Dec. 26, 2007, 121 Stat. 2096.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)—”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)—".</i>
 

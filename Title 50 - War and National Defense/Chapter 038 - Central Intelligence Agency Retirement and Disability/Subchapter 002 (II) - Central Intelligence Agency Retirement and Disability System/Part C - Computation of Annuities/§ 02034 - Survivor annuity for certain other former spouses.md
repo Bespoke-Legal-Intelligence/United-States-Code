@@ -64,7 +64,7 @@ Notwithstanding subsection (d)(1) of this section, the deadline by which an appl
 
 #### Prior Provisions
 
-A prior section 224 of Pub. L. 88–643, as added Pub. L. 99–569, title III, §302(a), Oct. 27, 1986, 100 Stat. 3192;amended Pub. L. 100–453, title III, §302(b)(1), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 101–193, title III, §304(a), Nov. 30, 1989, 103 Stat. 1703; Pub. L. 102–88, title III, §307(a), Aug. 14, 1991, 105 Stat. 432; Pub. L. 102–183, title III, §304, Dec. 4, 1991, 105 Stat. 1264, related to survivor annuities for certain other former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 224 of Pub. L. 88–643, as added Pub. L. 99–569, title III, §302(a), Oct. 27, 1986, 100 Stat. 3192; amended Pub. L. 100–453, title III, §302(b)(1), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 101–193, title III, §304(a), Nov. 30, 1989, 103 Stat. 1703; Pub. L. 102–88, title III, §307(a), Aug. 14, 1991, 105 Stat. 432; Pub. L. 102–183, title III, §304, Dec. 4, 1991, 105 Stat. 1264, related to survivor annuities for certain other former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

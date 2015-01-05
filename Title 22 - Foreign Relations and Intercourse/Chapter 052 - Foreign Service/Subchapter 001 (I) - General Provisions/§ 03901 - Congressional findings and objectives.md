@@ -46,7 +46,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Effective Date
 
-Section 2403 of Pub. L. 96–465, as amended by Pub. L. 99–93, title I, §119(b), Aug. 16, 1985, 99 Stat. 412, provided that:
+Pub. L. 96–465, title II, §2403, Oct. 17, 1980, 94 Stat. 2169, as amended by Pub. L. 99–93, title I, §119(b), Aug. 16, 1985, 99 Stat. 412, provided that:
 
 "(a) Except as otherwise provided, this Act \[see Short Title note set out below\] shall take effect on February 15, 1981.
 
@@ -206,7 +206,7 @@ Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 
 
 Sec. 3. The Secretary of State shall make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under Section 827 of the Act (22 U.S.C. 4067) to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System.
 
-Sec. 4. Pursuant to section 402 of the Foreign Service Act \[of 1980\] (22 U.S.C. 3962), and subject to any restrictions therein, there are established the following salary classes with titles for the Senior Foreign Service, at the following ranges of basic rates of pay:
+Sec. 4. Pursuant to section 402 of the Foreign Service Act \[of 1980\] (22 U.S.C. 3962), and subject to any restrictions therein, there are established the following salaryclasses with titles for the Senior Foreign Service, at the following ranges of basic rates of pay:
 
 (a) Career Minister
 

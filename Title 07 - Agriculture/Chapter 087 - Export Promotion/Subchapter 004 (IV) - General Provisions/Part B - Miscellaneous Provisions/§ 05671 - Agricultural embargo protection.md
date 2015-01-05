@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, if—
 
 #### (b) Amount of payments
 
-If the Secretary makes payments available to producers under subsection (a) of this section, the amount of such payment shall be determined—
+If the Secretary makes payments available to producers under subsection (a), the amount of such payment shall be determined—
 
 &emsp;(1) in the case of an agricultural commodity for which payments are authorized to be made to producers under Title I of the Agricultural Act of 1949 (7 U.S.C. 1441 et seq.), by multiplying—
 
@@ -24,11 +24,11 @@ If the Secretary makes payments available to producers under subsection (a) of t
 
 &emsp;&emsp;(C) the amount by which the average market price per unit of such commodity received by producers during the 60-day period immediately following the date of the imposition of the suspension or restriction is less than 100 percent of the parity price for such commodity, as determined by the Secretary on the date of the imposition of the suspension or restriction; or
 
-&emsp;(2) in the case of other agricultural commodities for which price support is authorized for producers under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), by multiplying the amount by which the average market price per unit of such commodity received by the producers during the 60-day period immediately following the date of the imposition of the suspension or restriction is less than 100 percent of the parity price for such commodity, as determined by the Secretary on the date of the imposition of the suspension or restriction, by the quantity of such commodity sold by the producer during the period that the suspension or restriction is in effect.
+&emsp;(2) in the case of other agricultural commodities for which price support is authorized for producers under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), by multiplying the amount by which the average market price per unit of such commodity received by the producers during the 60-day period immediately following the date of the imposition of the suspension or restriction is less than 100 percent of the parity price for such commodity, as determined by the Secretary on the date of the imposition of the suspension or restriction, by the quantity of such commodity sold by theproducer during the period that the suspension or restriction is in effect.
 
 #### (c) Time for payments
 
-Payments under paragraph (1) of subsection (b) of this section shall be made for each marketing year or part thereof during which the suspension or restriction is in effect and shall be made in equal amounts at 90-day intervals, beginning 90 days after the date of the imposition of the suspension or restriction.
+Payments under paragraph (1) of subsection (b) shall be made for each marketing year or part thereof during which the suspension or restriction is in effect and shall be made in equal amounts at 90-day intervals, beginning 90 days after the date of the imposition of the suspension or restriction.
 
 #### (d) Commodity Credit Corporation
 

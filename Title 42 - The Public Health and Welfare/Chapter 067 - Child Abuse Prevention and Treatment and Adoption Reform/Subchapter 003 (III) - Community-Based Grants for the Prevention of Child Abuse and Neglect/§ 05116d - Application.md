@@ -22,7 +22,7 @@ A grant may not be made to a State under this subchapter unless an application t
 
 &emsp;(10) a description of how the applicant entity's activities and those of the network and its members (where appropriate) will be evaluated;
 
-&emsp;(11) a description of the actions that the applicant entity will take to advocate systemicchanges in State policies, practices, procedures, and regulations to improve the delivery of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect services to children and families; and
+&emsp;(11) a description of the actions that the applicant entity will take to advocate systemic changes in State policies, practices, procedures, and regulations to improve the delivery of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect services to children and families; and
 
 &emsp;(12) an assurance that the applicant entity will provide the Secretary with reports at such time and containing such information as the Secretary may require.
 

@@ -12,7 +12,7 @@
 
 (c) For the purpose of this section—
 
-&emsp;(1) “city” means any unit of general local government which—
+&emsp;(1) "city" means any unit of general local government which—
 
 &emsp;&emsp;(A) is classified as a municipality by the Bureau of the Census, or
 
@@ -26,11 +26,11 @@
 
 > &emsp;within the political boundaries of which 500 or more persons are regularly employed by all agencies of the Federal Government;
 
-&emsp;(2) “county” means any unit of local general government which is classified as a county by the Bureau of the Census and within the political boundaries of which 500 or more persons are regularly employed by all agencies of the Federal Government;
+&emsp;(2) "county" means any unit of local general government which is classified as a county by the Bureau of the Census and within the political boundaries of which 500 or more persons are regularly employed by all agencies of the Federal Government;
 
-&emsp;(3) “ordinance” means an ordinance, order, resolution, or similar instrument which is duly adopted and approved by a city or county in accordance with the constitution and statutes of the State in which it is located and which has the force of law within such city or county; and
+&emsp;(3) "ordinance" means an ordinance, order, resolution, or similar instrument which is duly adopted and approved by a city or county in accordance with the constitution and statutes of the State in which it is located and which has the force of law within such city or county; and
 
-&emsp;(4) “agency” means—
+&emsp;(4) "agency" means—
 
 &emsp;&emsp;(A) an Executive agency;
 
@@ -42,15 +42,15 @@
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–180 inserted “(other than service described in section 5517(d) of this title)” after “Armed Forces” in penultimate sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–180 inserted "(other than service described in section 5517(d) of this title)" after "Armed Forces" in penultimate sentence.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–365 designated existing provisions as cl. (i), inserted “, or whose regular place of Federal employment is not within,” after “not a resident of”, and added cl. (ii).
+<b>1978</b>—Subsec. (a). Pub. L. 95–365 designated existing provisions as cl. (i), inserted ", or whose regular place of Federal employment is not within," after "not a resident of", and added cl. (ii).
 
-<b>1977</b>—Pub. L. 95–30, §408(a)(1), inserted “or county” after “city” in section catchline.
+<b>1977</b>—Pub. L. 95–30, §408(a)(1), inserted "or county" after "city" in section catchline.
 
-Subsec. (a). Pub. L. 95–30, §408(a)(2), (3), substituted “city or county” for “city” in introductory provisions preceding par. (1), in par. (2), and in provisions following par. (2), and, in par. (1), substituted “a designated city or county officer, department, or instrumentality” for “the city”.
+Subsec. (a). Pub. L. 95–30, §408(a)(2), (3), substituted "city or county" for "city" in introductory provisions preceding par. (1), in par. (2), and in provisions following par. (2), and, in par. (1), substituted "a designated city or county officer, department, or instrumentality" for "the city".
 
-Subsec. (b). Pub. L. 95–30, §408(a)(2), substituted “city or county” for “city”.
+Subsec. (b). Pub. L. 95–30, §408(a)(2), substituted "city or county" for "city".
 
 Subsec. (c). Pub. L. 95–30, §408(a)(4), (5), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
@@ -58,19 +58,19 @@ Subsec. (c). Pub. L. 95–30, §408(a)(4), (5), added pars. (2) and (3) and rede
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–365, §2, Sept. 15, 1978, 92 Stat. 599, provided that: “The amendments made by the first section of this Act \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 15, 1978\].”
+Pub. L. 95–365, §2, Sept. 15, 1978, 92 Stat. 599, provided that: "The amendments made by the first section of this Act \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 15, 1978\]."
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–30, title IV, §408(c), May 23, 1977, 91 Stat. 157, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 23, 1977\].”
+Pub. L. 95–30, title IV, §408(c), May 23, 1977, 91 Stat. 157, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 23, 1977\]."
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–358, §2, July 12, 1976, 90 Stat. 910, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[July 12, 1976\].”
+Pub. L. 94–358, §2, July 12, 1976, 90 Stat. 910, provided that: "The amendment made by the first section of this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[July 12, 1976\]."
 
 #### Effective Date
 
-Pub. L. 93–340, §3, July 10, 1974, 88 Stat. 295, provided that: “This section shall become effective on the date of enactment of this Act \[July 10, 1974\]. The provisions of the first section and section 2 of this Act \[enacting this section and amending section 410 of Title 39, Postal Service\] shall become effective on the ninetieth day following the date of enactment.”
+Pub. L. 93–340, §3, July 10, 1974, 88 Stat. 295, provided that: "This section shall become effective on the date of enactment of this Act \[July 10, 1974\]. The provisions of the first section and section 2 of this Act \[enacting this section and amending section 410 of Title 39, Postal Service\] shall become effective on the ninetieth day following the date of enactment."
 
 #### Executive Order No. 11833
 
@@ -98,7 +98,7 @@ Sec. 3. The head of each agency shall designate, or provide for the designation 
 
 Sec. 4. The Secretary of the Treasury is authorized to prescribe additional regulations to implement Sections 5516, 5517 and 5520 of Title 5 of the United States Code, and this Order.
 
-Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretofore taken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of this Order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
+Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretoforetaken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of this Order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,0 +1,26 @@
+### §3871e. Administration
+
+#### (a) Disclosure
+
+In addition to the criteria used in evaluating applications as described in section 3871b(d)(2) of this title, the Secretary shall make publicly available information on projects selected through the competitive process described in section 3871b(d)(1) of this title.
+
+#### (b) Reporting
+
+Not later than December 31, 2014, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the status of projects funded under the program, including—
+
+&emsp;(1) the number and types of eligible partners and producers participating in the partnership agreements selected;
+
+&emsp;(2) the number of producers receiving assistance;
+
+&emsp;(3) total funding committed to projects, including from Federal and non-Federal resources; and
+
+&emsp;(4) a description of how the funds under section 3871c(b)(2) of this title are being administered, including—
+
+&emsp;&emsp;(A) any oversight mechanisms that the Secretary has implemented;
+
+&emsp;&emsp;(B) the process through which the Secretary is resolving appeals by program participants; and
+
+&emsp;&emsp;(C) the means by which the Secretary is tracking adherence to any applicable provisions for payment eligibility.
+
+(Pub. L. 99–198, title XII, §1271E, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 749.)
+

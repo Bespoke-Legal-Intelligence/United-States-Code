@@ -22,7 +22,7 @@
 
 <b>1998</b>—Pub. L. 105–261, div. A, title III, §365(b), title IX, §906(a)(2), Oct. 17, 1998, 112 Stat. 1987, 2095, added items 2492 and 2493.
 
-<b>1997</b>—Pub. L. 105–85, div. A, title III, §371(a)(1), (c)(1), Nov. 18, 1997, 111 Stat. 1705, substituted "COMMISSARIES AND EXCHANGES AND OTHER MORALE, WELFARE, AND RECREATION ACTIVITIES" for "UTILITIES AND SERVICES" as chapter heading and struck out items 2481 "Utilities and services: sale;expansion and extension of systems and facilities", 2483 "Sale of electricity from alternate energy and cogeneration production facilities", and 2490 "Utility services: furnishing for certain buildings".
+<b>1997</b>—Pub. L. 105–85, div. A, title III, §371(a)(1), (c)(1), Nov. 18, 1997, 111 Stat. 1705, substituted "COMMISSARIES AND EXCHANGES AND OTHER MORALE, WELFARE, AND RECREATION ACTIVITIES" for "UTILITIES AND SERVICES" as chapter heading and struck out items 2481 "Utilities and services: sale; expansion and extension of systems and facilities", 2483 "Sale of electricity from alternate energy and cogeneration production facilities", and 2490 "Utility services: furnishing for certain buildings".
 
 <b>1996</b>—Pub. L. 104–201, div. A, title III, §§341(a)(2), 343(a)(2), Sept. 23, 1996, 110 Stat. 2489, 2490, added items 2482a and 2489a.
 

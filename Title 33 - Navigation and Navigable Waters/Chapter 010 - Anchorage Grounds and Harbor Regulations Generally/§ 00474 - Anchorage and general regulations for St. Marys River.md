@@ -4,7 +4,7 @@ The Commandant of the Coast Guard is authorized and directed to adopt and prescr
 
 All officers of the Coast Guard who are directed to enforce the regulations prescribed by the above rules are empowered and directed, in case of necessity, or when a proper notice has been disregarded, to use the force at their command to remove from channels or stop any vessel found violating the prescribed rules.
 
-In the event of the violation of any such regulations or rules of the Commandant of the Coast Guard by the owners, master, or person in charge of such vessel, such owners, master, or person in charge shall be liable to a penalty notexceeding $200: <i>Provided</i>, That the Commandant of the Coast Guard may remit said fine on such terms as he may prescribe: <i>Provided also</i>, That nothing in this section shall be construed to amend or repeal chapter 4 <sup>1</sup> of this title.
+In the event of the violation of any such regulations or rules of the Commandant of the Coast Guard by the owners, master, or person in charge of such vessel, such owners, master, or person in charge shall be liable to a penalty not exceeding $200: <i>Provided</i>, That the Commandant of the Coast Guard may remit said fine on such terms as he may prescribe: <i>Provided also</i>, That nothing in this section shall be construed to amend or repeal chapter 4 <sup>1</sup> of this title.
 
 (Mar. 6, 1896, ch. 49, §§1–3, 29 Stat. 54, 55; Apr. 26, 1906, ch. 1874, §§1, 2, 34 Stat. 136; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Oct. 14, 1949, ch. 393, §§1, 20, 63 Stat. 496, 561; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
@@ -24,7 +24,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

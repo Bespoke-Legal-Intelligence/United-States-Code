@@ -16,7 +16,7 @@
 
 #### (2) Counsel's liability for excessive costs
 
-&emsp;Whenever it appears to the Tax Court that any attorney or other person admitted to practice before the Tax Court has multipliedthe proceedings in any case unreasonably and vexatiously, the Tax Court may require—
+&emsp;Whenever it appears to the Tax Court that any attorney or other person admitted to practice before the Tax Court has multiplied the proceedings in any case unreasonably and vexatiously, the Tax Court may require—
 
 &emsp;&emsp;(A) that such attorney or other person pay personally the excess costs, expenses, and attorneys' fees reasonably incurred because of such conduct, or
 

@@ -16,9 +16,9 @@ Historical and Revision Notes
 
 5 U.S.C. 2061(c)(1) (last sentence).
 
-July 2, 1953, ch. 178, §1 “(c)(1) (last sentence)”, 67 Stat. 136.
+July 2, 1953, ch. 178, §1 "(c)(1) (last sentence)", 67 Stat. 136.
 
-The words “including an officer of a corporation wholly owned or controlled by the United States” are omitted as unnecessary in view of the definition of “officer” in section 2104.
+The words "including an officer of a corporation wholly owned or controlled by the United States" are omitted as unnecessary in view of the definition of "officer" in section 2104.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -50,7 +50,7 @@ The Secretary of Labor may make grants to nonprofit organizations for the purpos
 
 #### (B) Administrative cost limit
 
-&emsp;&emsp;Not more than 15 percent of the amounts awarded to a grantee under this section may be used for the costs of administration, as determined by the Secretary of Labor.
+&emsp;&emsp;Not more than 15 percent of the amounts awarded to a grantee under this section maybe used for the costs of administration, as determined by the Secretary of Labor.
 
 #### (d) Application
 
@@ -68,7 +68,7 @@ The Secretary of Labor may make grants to nonprofit organizations for the purpos
 
 &emsp;&emsp;&emsp;(ii) a description of the mentoring, job training and job placement, and other services to be provided;
 
-&emsp;&emsp;&emsp;(iii) a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under section 3797w of this title, as amended by this Act, where applicable), the local workforce investment boards established under section 2832 of title 29),<sup>1</sup> and housingauthorities that will be used to assist in carrying out grant activities under this section; and
+&emsp;&emsp;&emsp;(iii) a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under section 3797w of this title, as amended by this Act, where applicable), the local workforce investment boards established under section 2832 of title 29),<sup>1</sup> and housing authorities that will be used to assist in carrying out grant activities under this section; and
 
 &emsp;&emsp;&emsp;(iv) a description of how other Federal, State, local, or private funding will be leveraged to provide support services that are not directly funded under this section, such as mental health and substance abuse treatment and housing.
 
@@ -112,11 +112,31 @@ The Secretary of Labor may reserve not more than 4 percent of the amounts approp
 
 There are authorized to be appropriated to the Secretary of Labor to carry out this section $20,000,000 for each of fiscal years 2009 and 2010.
 
-(Pub. L. 110–199, title II, §212, Apr. 9, 2008, 122 Stat. 680.)
+(Pub. L. 110–199, title II, §212, Apr. 9, 2008, 122 Stat. 680; Pub. L. 113–128, title V, §512(bb)(1), July 22, 2014, 128 Stat. 1717.)
+
+#### Amendment of Section
+
+<i>Pub. L. 113–128, title V, §§506, 512(bb)(1), July 22, 2014, 128 Stat. 1703, 1717, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:</i>
+
+<i>(1) in subsection (c)(1)(B), by striking "in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29," and inserting "in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 3102 of title 29) that provide services at any center operated under a one-stop delivery system established under section 3151(e) of title 29,"; and</i>
+
+<i>(2) in subsection (d)(1)(B)(iii), by striking "the local workforce investment boards established under section 2832 of title 29)," and inserting "the local workforce development boards established under section 3122 of title 29,".</i>
+
+<i>See 2014 Amendment notes below.</i>
 
 #### References in Text
 
 Section 3797w of this title, as amended by this Act, referred to in subsec. (d)(1)(B)(iii), is section 3797w of this title, as amended by Pub. L. 110–199.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(1)(B). Pub. L. 113–128, §512(bb)(1)(A), substituted "in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 3102 of title 29) that provide services at any center operated under a one-stop delivery system established under section 3151(e) of title 29," for "in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29,".
+
+Subsec. (d)(1)(B)(iii). Pub. L. 113–128, §512(bb)(1)(B), substituted "the local workforce development boards established under section 3122 of title 29," for "the local workforce investment boards established under section 2832 of title 29),".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

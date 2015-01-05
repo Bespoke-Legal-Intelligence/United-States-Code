@@ -54,7 +54,7 @@
 
 &emsp;The Committee shall—
 
-&emsp;&emsp;(A) develop a summary of advances in pain care research supported or conducted by theFederal agencies relevant to the diagnosis, prevention, and treatment of pain and diseases and disorders associated with pain;
+&emsp;&emsp;(A) develop a summary of advances in pain care research supported or conducted by the Federal agencies relevant to the diagnosis, prevention, and treatment of pain and diseases and disorders associated with pain;
 
 &emsp;&emsp;(B) identify critical gaps in basic and clinical research on the symptoms and causes of pain;
 

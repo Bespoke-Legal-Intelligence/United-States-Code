@@ -18,7 +18,7 @@ No effect on small business act.—Nothing in this subsection shall be construed
 
 (b)
 
-Limitation on Financial Interest in Subcontractors.—Neither an entity performing lead systems integrator functions for a Coast Guard acquisition nor a Tier 1 subcontractor forany acquisition may have a financial interest in a subcontractor below the Tier 1 subcontractor level unless—
+Limitation on Financial Interest in Subcontractors.—Neither an entity performing lead systems integrator functions for a Coast Guard acquisition nor a Tier 1 subcontractor for any acquisition may have a financial interest in a subcontractor below the Tier 1 subcontractor level unless—
 
 &emsp;(1) the subcontractor was selected by the prime contractor through full and open competition for such procurement;
 

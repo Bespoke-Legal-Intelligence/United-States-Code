@@ -18,7 +18,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(7) Conduct loan and collateral security review.
 
-&emsp;(8) Regulate the preparation by System institutions and the dissemination to stockholders and investors of information on the financial condition and operations of such institutions, except that the requirements of the Farm Credit Administration governing the dissemination to stockholders of quarterly reports of System institutions may not be more burdensome or costly than the requirements applicable to national banks, and the Farm Credit Administration may not require any System institution to disclose in any report to stockholders information concerning the condition or classification of a loan—
+&emsp;(8) Regulate the preparation by System institutions and the dissemination to stockholders and investors of information on the financial condition and operations of such institutions, except that the requirements of the Farm Credit Administration governing the dissemination to stockholders of quarterly reports of System institutions may not be more burdensome or costly than the requirements applicable to national banks, and the Farm Credit Administration may not require any System institution to disclose in any report tostockholders information concerning the condition or classification of a loan—
 
 &emsp;&emsp;(A) to a director of the institution—
 
@@ -78,7 +78,7 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 #### (c) Proposed and final regulations; procedures applicable
 
-(1) At least thirty days prior to publishing any proposed regulation in the Federal Register, the Farm Credit Administration shall transmit a copy of the regulation to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. The Farm Credit Administration shall also transmit to such committees a copy of any final regulation prior to its publication in the Federal Register. Except as provided in paragraph (2) of this subsection, no final regulation of the Farm Credit Administration shall become effective prior to the expiration of thirty calendar days after it is published in the Federal Register during which either or both Houses of the Congress are in session.
+(1) At least thirty days prior to publishing any proposed regulation in the Federal Register, the Farm Credit Administration shall transmit a copy of the regulation to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. The Farm Credit Administration shall also transmit to such committees a copy of any final regulation prior to its publication in the Federal Register. Except as provided in paragraph (2) of this subsection, nofinal regulation of the Farm Credit Administration shall become effective prior to the expiration of thirty calendar days after it is published in the Federal Register during which either or both Houses of the Congress are in session.
 
 (2) In the case of an emergency, a final regulation of the Farm Credit Administration may become effective without regard to the last sentence of paragraph (1) of this subsection if the Farm Credit Administration notifies in writing the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the reasons why it is necessary to make the regulation effective prior to the expiration of the thirty-day period.
 
@@ -122,7 +122,7 @@ Subsec. (a)(13), (14). Pub. L. 102–552, §511, added pars. (13) and (14).
 
 <b>1991</b>—Subsec. (a)(8)(B)(ii). Pub. L. 102–237 struck out second period at end.
 
-<b>1990</b>—Subsec. (a)(13). Pub. L. 101–624 struck out par. (13) which read as follows: "Except for associations, approve the salary scale for employees of the institutions of the System, and approve the compensation of the chief executive officer of such institutions: <i>Provided</i>, That no salary scale or rate of compensation shall be approved under this provision unless determined by the Board to be fair and reasonable. The Board may not delegate its responsibilities under this paragraph."
+<b>1990</b>—Subsec. (a)(13). Pub. L. 101–624 struck out par. (13) which read as follows: "Except for associations, approve the salary scale for employees of the institutionsof the System, and approve the compensation of the chief executive officer of such institutions: <i>Provided</i>, That no salary scale or rate of compensation shall be approved under this provision unless determined by the Board to be fair and reasonable. The Board may not delegate its responsibilities under this paragraph."
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §901(m)(1), substituted "district banks" for "district boards".
 
@@ -132,7 +132,7 @@ Pub. L. 100–399, §409(e), substituted "approve the consolidation or division 
 
 Pub. L. 100–233, §802(v)(1)(A), substituted "approve amendments to" for "amend or modify".
 
-Pub. L. 100–233, §415(d), substituted "section 2279a of this title" for "section 2181 of this title" and "approve mergers and any related activities as provided for insubchapter VII of this chapter; and" for "; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and".
+Pub. L. 100–233, §415(d), substituted "section 2279a of this title" for "section 2181 of this title" and "approve mergers and any related activities as provided for in subchapter VII of this chapter; and" for "; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and".
 
 Pub. L. 100–233, §414, substituted ". The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district" for "; and the Farm Credit Administration shall ensure that the board of directors of district banks does not discriminate against the disapproving associations in exercising its supervisory authorities. Such associations shall not be (i) charged any assessment under this chapter at a rate higher than that charged other like associations in the district or (ii) discriminated against in the provision of any financial service and assistance".
 
@@ -186,7 +186,7 @@ Pub. L. 110–234, title V, §5407(d), May 22, 2008, 122 Stat. 1161, and Pub. L.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendments
 
@@ -205,6 +205,30 @@ Pub. L. 100–233, title IV, §424(b), Jan. 6, 1988, 101 Stat. 1656, provided th
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (a)(3) of this section relating to requirement to make annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 166 of House Document No. 103–7.
+
+#### Compensation Disclosure by Farm Credit System Institutions
+
+Pub. L. 113–79, title V, §5404, Feb. 7, 2014, 128 Stat. 840, provided that:
+
+"(a)
+
+Findings.—Congress finds that—
+
+&emsp;"(1) the reasonable disclosure to stockholders by Farm Credit System institutions regarding the compensation of Farm Credit System institution senior officers is beneficial to stockholders' understanding of the operation of their institutions;
+
+&emsp;"(2) transparency regarding compensation practices reinforces the cooperative nature of Farm Credit System institutions;
+
+&emsp;"(3) the unique cooperative structure of the Farm Credit System should be considered when promulgating rules;
+
+&emsp;"(4) the participation of stockholders in the election of the boards of directors of Farm Credit System institutions provides stockholders the opportunity to participate in the management of their institutions;
+
+&emsp;"(5) as representatives of stockholders, the boards of directors of Farm Credit System institutions importantly establish and oversee the compensation practices of Farm Credit System institutions to ensure the safe and sound operation of those institutions; and
+
+&emsp;"(6) any regulation should strengthen and not hinder the ability of Farm Credit System boards of directors to oversee compensation practices.
+
+"(b)
+
+Implementation.—Not later than 60 days after the date of enactment of this Act \[Feb. 7, 2014\], the Farm Credit Administration shall review its rules to reflect Congressional intent that a primary responsibility of the boards of directors of Farm Credit System institutions, as elected representatives of their stockholders, is to oversee compensation practices."
 
 #### Regulatory Review
 

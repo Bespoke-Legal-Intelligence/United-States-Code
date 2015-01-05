@@ -4,7 +4,7 @@
 
 For purposes of this section—
 
-&emsp;(1) the term “employee” means an employee (as defined by section 2105 of title 5) who—
+&emsp;(1) the term "employee" means an employee (as defined by section 2105 of title 5) who—
 
 &emsp;&emsp;(A) has completed at least 3 years of current continuous service with 1 or more covered entities; and
 
@@ -12,7 +12,7 @@ For purposes of this section—
 
 > &emsp;but does not include any person under subparagraphs (A)–(G) of section 663(a)(2) of Public Law 104–208 (5 U.S.C. 5597 note);
 
-&emsp;(2) the term “covered entity” means—
+&emsp;(2) the term "covered entity" means—
 
 &emsp;&emsp;(A) the Immigration and Naturalization Service;
 
@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the Bureau of Citizenship and Immigration Services of the Department of Homeland Security; and
 
-&emsp;(3) the term “transfer date” means the date on which the transfer of functions specified under section 251 of this title takes effect.
+&emsp;(3) the term "transfer date" means the date on which the transfer of functions specified under section 251 of this title takes effect.
 
 #### (b) Strategic restructuring plan
 
@@ -32,11 +32,11 @@ Before the Attorney General or the Secretary obligates any resources for volunta
 
 &emsp;(3) the information specified in section 663(b)(2) of Public Law 104–208 (5 U.S.C. 5597 note).
 
-> As used in the preceding sentence, the “appropriate committees of Congress” are the Committees on Appropriations, Government Reform, and the Judiciary of the House of Representatives, and the Committees on Appropriations, Governmental Affairs, and the Judiciary of the Senate.
+> As used in the preceding sentence, the "appropriate committees of Congress" are the Committees on Appropriations, Government Reform, and the Judiciary of the House of Representatives, and the Committees on Appropriations, Governmental Affairs, and the Judiciary of the Senate.
 
 #### (c) Authority
 
-The Attorney General and the Secretary may, to the extent necessary to help carry out their respective strategic restructuring plan described in subsection (b) of this section, make voluntary separation incentive payments to employees. Any such payment—
+The Attorney General and the Secretary may, to the extent necessary to help carry out their respective strategic restructuring plan described in subsection (b), make voluntary separation incentive payments to employees. Any such payment—
 
 &emsp;(1) shall be paid to the employee, in a lump sum, after the employee has separated from service;
 
@@ -84,11 +84,11 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (4) Final basic pay defined
 
-&emsp;In this subsection, the term “final basic pay” means, with respect to an employee, the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee's final rate of basic pay, and, if last serving on other than a full-time basis, with appropriate adjustment therefor.
+&emsp;In this subsection, the term "final basic pay" means, with respect to an employee, the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee's final rate of basic pay, and, if last serving on other than a full-time basis, with appropriate adjustment therefor.
 
 #### (e) Effect of subsequent employment with the Government
 
-An individual who receives a voluntary separation incentive payment under this section and who, within 5 years after the date of the separation on which the payment is based, accepts any compensated employment with the Government or works for any agency of the Government through a personal services contract, shall be required to pay, prior to the individual's first day of employment, the entire amount of the incentive payment. Such payment shall be made to the covered entity from which the individual separated or, if made on or after the transfer date, to the Deputy Secretary or the Under Secretary for Border and Transportation Security (for transfer to the appropriate component of the Department of Homeland Security, if necessary).
+An individual who receives a voluntary separation incentive payment under this section and who, within 5 years after the date of the separation on which the payment is based, accepts any compensated employment with the Government or works for any agency of the Government through a personal services contract, shall be required to pay, prior to the individual's first day of employment, the entire amount of the incentive payment. Such payment shall be madeto the covered entity from which the individual separated or, if made on or after the transfer date, to the Deputy Secretary or the Under Secretary for Border and Transportation Security (for transfer to the appropriate component of the Department of Homeland Security, if necessary).
 
 #### (f) Effect on employment levels
 
@@ -106,7 +106,7 @@ An individual who receives a voluntary separation incentive payment under this s
 
 Section 663 of Public Law 104–208, referred to in subsecs. (a)(1) and (b)(3), probably means Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §663\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, which is classified as a note under section 5597 of Title 5, Government Organization and Employees.
 
-This chapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Change of Name
 

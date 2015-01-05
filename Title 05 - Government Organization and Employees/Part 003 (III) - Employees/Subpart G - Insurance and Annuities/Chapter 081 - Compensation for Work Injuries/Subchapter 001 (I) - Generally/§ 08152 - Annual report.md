@@ -1,8 +1,8 @@
 ### §8152. Annual report
 
-The Secretary of Labor shall, at the end of each fiscal year, prepare a report with respect to the administration of this chapter. Such report shall be submitted to Congress in accordance with the requirement with respect to submission under section 42 of the Longshore <sup>1</sup> Harbor Workers’ Compensation Act (33 U.S.C. 942).
+The Secretary of Labor shall, at the end of each fiscal year, prepare a report with respect to the administration of this chapter. Such report shall be submitted to Congress in accordance with the requirement with respect to submission under section 42 of the Longshore <sup>1</sup> Harbor Workers' Compensation Act (33 U.S.C. 942).
 
 (Added Pub. L. 104–66, title I, §1102(b)(3)(A), Dec. 21, 1995, 109 Stat. 723.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Longshore and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Longshore and".</i>
 

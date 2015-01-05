@@ -1,0 +1,38 @@
+### §3714. Use of funds for unspecified purposes or for increased amounts
+
+#### (a) Notice to Congress of intent to use funds for unspecified purposes
+
+#### (1) Report
+
+&emsp;For any fiscal year for which Cooperative Threat Reduction funds are specifically authorized in an Act other than an appropriations Act for specific purposes within the Program, the Secretary of Defense may obligate or expend such funds, or other funds otherwise made available for the Program for that fiscal year, for purposes other than such specified purposes if—
+
+&emsp;&emsp;(A) the Secretary determines that such obligation or expenditure is necessary in the national interests of the United States;
+
+&emsp;&emsp;(B) the Secretary submits to the congressional defense committees—
+
+&emsp;&emsp;&emsp;(i) notification of the intent of the Secretary to make such an obligation or expenditure of funds; and
+
+&emsp;&emsp;&emsp;(ii) a complete discussion of the purpose and justification for such obligation or expenditure, including the amount of funds to be obligated or expended; and
+
+&emsp;&emsp;(C) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under subparagraph (B).
+
+#### (2) Construction with other laws
+
+&emsp;Paragraph (1) may not be construed to authorize the obligation or expenditure of Cooperative Threat Reduction Program funds for a purpose for which the obligation or expenditure of such funds is specifically prohibited under section 3731 of this title or any other provision of law.
+
+#### (b) Limited authority to vary individual amounts provided for any fiscal year for specified purposes
+
+For any fiscal year for which Cooperative Threat Reduction funds are specifically authorized in an Act other than an appropriations Act for specific purposes within the Program, the Secretary may obligate or expend such funds, or other funds otherwise made available for the Program for that fiscal year, in excess of the specific amount so authorized for that purpose if—
+
+&emsp;(1) the Secretary determines that such obligation or expenditure is necessary in the national interests of the United States;
+
+&emsp;(2) the Secretary submits to the congressional defense committees—
+
+&emsp;&emsp;(A) notification of the intent of the Secretary to make such an obligation or expenditure of funds in excess of such authorized amount; and
+
+&emsp;&emsp;(B) a complete discussion of the justification for exceeding such specified amounts, including the amount by which the Secretary will exceed such specified amounts; and
+
+&emsp;(3) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
+
+(Pub. L. 113–291, div. A, title XIII, §1324, Dec. 19, 2014, 128 Stat. 3599.)
+

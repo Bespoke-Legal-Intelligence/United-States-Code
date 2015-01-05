@@ -44,7 +44,7 @@ Hour Mental Health Care.—In carrying out the comprehensive program, the Secret
 
 (h)
 
-Hotline.—In carrying out the comprehensive program, the Secretary may provide for atoll-free hotline for veterans to be staffed by appropriately trained mental health personnel and available at all times.
+Hotline.—In carrying out the comprehensive program, the Secretary may provide for a toll-free hotline for veterans to be staffed by appropriately trained mental health personnel and available at all times.
 
 (i)
 

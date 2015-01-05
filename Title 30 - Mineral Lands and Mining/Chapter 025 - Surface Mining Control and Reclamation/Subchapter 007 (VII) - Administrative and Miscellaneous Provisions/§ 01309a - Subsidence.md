@@ -12,7 +12,7 @@ Underground coal mining operations conducted after October 24, 1992, shall compl
 
 #### (b) Regulations
 
-Within one year after October 24, 1992, the Secretary shall, after providing notice and opportunity for public comment, promulgate final regulations to implement subsection (a) of this section.
+Within one year after October 24, 1992, the Secretary shall, after providing notice and opportunity for public comment, promulgate final regulations to implement subsection (a).
 
 (Pub. L. 95–87, title VII, §720, as added Pub. L. 102–486, title XXV, §2504(a)(1), Oct. 24, 1992, 106 Stat. 3104.)
 

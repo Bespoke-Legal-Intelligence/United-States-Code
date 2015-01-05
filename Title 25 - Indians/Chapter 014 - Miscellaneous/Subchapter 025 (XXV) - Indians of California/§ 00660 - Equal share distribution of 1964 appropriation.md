@@ -6,7 +6,7 @@ The Secretary shall distribute to each person whose name appears on the roll pre
 
 #### (b) Persons excepted
 
-Persons whose ancestry is derived solely from one or more of the following groups and persons of mixed ancestry who elected to share, otherthan as heirs or legatees of enrollees, in any award granted to any of the following groups shall not share in the funds distributed pursuant to subsection (a) of this section: Northern Paiute, Southern Paiute, Mohave, Quechan (Yuma), Chemehuevi, Shoshone, Washoe, Klamath, Modoc, and Yahooskin Band of Snakes.
+Persons whose ancestry is derived solely from one or more of the following groups and persons of mixed ancestry who elected to share, other than as heirs or legatees of enrollees, in any award granted to any of the following groups shall not share in the funds distributed pursuant to subsection (a) of this section: Northern Paiute, Southern Paiute, Mohave, Quechan (Yuma), Chemehuevi, Shoshone, Washoe, Klamath, Modoc, and Yahooskin Band of Snakes.
 
 (Pub. L. 90–507, §2, Sept. 21, 1968, 82 Stat. 860.)
 

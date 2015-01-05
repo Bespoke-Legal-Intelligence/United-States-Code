@@ -72,6 +72,8 @@
 | [578\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000578%20-%20Disposal%20of%20surplus%20property%20for%20development%20of%20public%20port%20or%20industrial%20facilities.md) | Disposal of surplus property for development of public port or industrial facilities. |
 | [579\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20I%2C%20%C2%A7119%28b%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204630.md) | Repealed. |
 | [579a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579a%20-%20Project%20deauthorizations.md) | Project deauthorizations. |
+| [579b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579b%20-%20Deauthorization%20of%20inactive%20projects.md) | Deauthorization of inactive projects. |
+| [579c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579c%20-%20Backlog%20prevention.md) | Backlog prevention. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -113,6 +115,7 @@
 | [603a.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000603a%20-%20Removal%20of%20snags%20and%20debris%2C%20and%20straightening%2C%20clearing%2C%20and%20protecting%20channels%20in%20navigable%20waters.md) | Removal of snags and debris, and straightening, clearing, and protecting channels in navigable waters. |
 | [604\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000604%20-%20Removal%20of%20snags%2C%20etc.%2C%20from%20Mississippi%20River.md) | Removal of snags, etc., from Mississippi River. |
 | [605\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000605%20-%20Operation%20of%20snag%20boats%20on%20Upper%20Mississippi%20River.md) | Operation of snag boats on Upper Mississippi River. |
+| [605a.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000605a%20-%20Mississippi%20River%20forecasting%20improvements.md) | Mississippi River forecasting improvements. |
 | [606\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000606%20-%20Removal%20of%20snags%2C%20and%20so%20forth%2C%20from%20Ohio%20River.md) | Removal of snags, and so forth, from Ohio River. |
 | [607\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000607%20-%20Removal%20of%20drift%20from%20New%20York%20Harbor.md) | Removal of drift from New York Harbor. |
 | [607a.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000607a%20-%20Appropriations%3B%20separate%20project.md) | Appropriations; separate project. |

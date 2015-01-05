@@ -30,7 +30,7 @@ Additional Powers.—(1) The Board may—
 
 &emsp;(H) make contracts with nonprofit entities to carry out studies related to duties and powers of the Board; and
 
-&emsp;(I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and requirethat such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board.
+&emsp;(I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board.
 
 (2) The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited as offsetting collections to the appropriation of the Board. The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.
 
@@ -218,7 +218,7 @@ In General.—The National Transportation Safety Board may enter into agreements
 
 "(b)
 
-Report on Usage.—On July 1 of each year, as part of the annual report required by section 1117 of title 49, United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform \[now Committee onOversight and Government Reform\], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—
+Report on Usage.—On July 1 of each year, as part of the annual report required by section 1117 of title 49, United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform \[now Committee on Oversight and Government Reform\], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—
 
 &emsp;"(1) describes each contract executed by the Board to which the authority provided by subsection (a) was applied; and
 

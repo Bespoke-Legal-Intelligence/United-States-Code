@@ -36,7 +36,7 @@ The Board shall perform the following functions:
 
 #### (5) Recommendations
 
-&emsp;The Board shall make such recommendations to the Secretary of Energy with respect to Department of Energy defense nuclear facilities, including operations of such facilities, standards, and research needs, as the Board determines are necessary to ensure adequate protection of public health and safety. In making its recommendations the Board shall consider, and specifically assess risk (whenever sufficient data exists), the technical and economic feasibility of implementing the recommended measures.
+&emsp;The Board shall make such recommendations to the Secretary of Energy with respect to Department of Energy defense nuclear facilities, including operations of such facilities, standards, and research needs, as the Board determines are necessary to ensure adequate protection of public health and safety. In making its recommendations the Board shall consider, and specifically assess risk (wheneversufficient data exists), the technical and economic feasibility of implementing the recommended measures.
 
 #### (c) Excluded functions
 

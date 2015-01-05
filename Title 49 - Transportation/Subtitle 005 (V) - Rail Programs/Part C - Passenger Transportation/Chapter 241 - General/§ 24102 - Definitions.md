@@ -124,7 +124,7 @@ Feb. 5, 1976, Pub. L. 94–210, §701(c), 90 Stat. 120.
 
 45:502(16).
 
-In clause (1), before subclause (A), the text of 45:502(1), (2), and (10) is omitted as surplus. The text of45:502(6), (7), (12), (14), and (18) is omitted because the complete names of the Performance Evaluation Center, Interstate Commerce Commission, Railroad Safety System Program, Technical Assistance Panel, and Secretary of Transportation are used the first time the terms appear in a section. The words "characterized by transportation" are omitted as surplus.
+In clause (1), before subclause (A), the text of 45:502(1), (2), and (10) is omitted as surplus. The text of 45:502(6), (7), (12), (14), and (18) is omitted because the complete names of the Performance Evaluation Center, Interstate Commerce Commission, Railroad Safety System Program, Technical Assistance Panel, and Secretary of Transportation are used the first time the terms appear in a section. The words "characterized by transportation" are omitted as surplus.
 
 In clause (3), the text of 45:502(5)(A) and the words "on and after October 1, 1979" are omitted as obsolete. Reference to 45:564(e) is omitted as obsolete because 45:564(e) was repealed by section 1183(d) of the Omnibus Budget Reconciliation Act of 1981 (Public Law 97–35, 95 Stat. 697).
 

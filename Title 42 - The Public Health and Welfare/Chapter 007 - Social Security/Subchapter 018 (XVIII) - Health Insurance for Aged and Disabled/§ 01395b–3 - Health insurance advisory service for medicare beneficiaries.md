@@ -76,7 +76,7 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 #### Medicare Enrollment Assistance
 
-Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I, §1110, Dec. 26, 2013, 127 Stat. 1198, provided that:
+Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I, §1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043, provided that:
 
 "(a)
 
@@ -98,9 +98,11 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(ii) for the period of fiscal years 2010 through 2012, of $15,000,000;
 
-&emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $7,500,000; and
+&emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(iv) for the portion of fiscal year 2014 before April 1, 2014, of $3,750,000.
+&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $7,500,000; and
+
+&emsp;&emsp;&emsp;"(v) for the portion of fiscal year 2015 before April 1, 2015, of $3,750,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -144,9 +146,11 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(ii) for the period of fiscal years 2010 through 2012, of $15,000,000;
 
-&emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $7,500,000; and
+&emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(iv) for the portion of fiscal year 2014 before April 1, 2014, of $3,750,000.
+&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $7,500,000; and
+
+&emsp;&emsp;&emsp;"(v) for the portion of fiscal year 2015 before April 1, 2015, of $3,750,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -186,9 +190,11 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(ii) for the period of fiscal years 2010 through 2012, of $10,000,000;
 
-&emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $5,000,000; and
+&emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $5,000,000;
 
-&emsp;&emsp;&emsp;"(iv) for the portion of fiscal year 2014 before April 1, 2014, of $2,500,000.
+&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $5,000,000; and
+
+&emsp;&emsp;&emsp;"(v) for the portion of fiscal year 2015 before April 1, 2015, of $2,500,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -220,9 +226,11 @@ Funding.—For purposes of making a grant or entering into a contract under para
 
 &emsp;&emsp;"(ii) for the period of fiscal years 2010 through 2012, of $5,000,000;
 
-&emsp;&emsp;"(iii) for fiscal year 2013, of $5,000,000; and
+&emsp;&emsp;"(iii) for fiscal year 2013, of $5,000,000;
 
-&emsp;&emsp;"(iv) for the portion of fiscal year 2014 before April 1, 2014, of $2,500,000.
+&emsp;&emsp;"(iv) for fiscal year 2014, of $5,000,000; and
+
+&emsp;&emsp;"(v) for the portion of fiscal year 2015 before April 1, 2015, of $2,500,000.
 
 > &emsp;Amounts appropriated under this subparagraph shall remain available until expended.
 

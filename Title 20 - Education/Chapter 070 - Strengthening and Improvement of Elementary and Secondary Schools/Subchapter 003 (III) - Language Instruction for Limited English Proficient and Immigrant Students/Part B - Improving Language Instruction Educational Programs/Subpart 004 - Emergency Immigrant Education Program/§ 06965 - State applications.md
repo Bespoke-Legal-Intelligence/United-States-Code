@@ -10,7 +10,7 @@ No State educational agency shall receive any payment under this subpart for any
 
 &emsp;(3) provide an assurance that local educational agencies receiving funds under this subpart will coordinate the use of such funds with entities carrying out programs and activities assisted under part A of subchapter I of this chapter;
 
-&emsp;(4) provide assurances that such payments, with the exception of payments reserved under section 6964(e) of this title, will be distributed among local educational agencies within that State on the basis of the number of immigrant children and youth counted with respect to each such local educational agency under section 6964(b)(1) of this title;
+&emsp;(4) provide assurances that such payments, with the exception of payments reserved under section 6964(e) of this title, will be distributed among local educational agencies within that State on the basis of the number of immigrant children and youth counted with respect toeach such local educational agency under section 6964(b)(1) of this title;
 
 &emsp;(5) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this subpart without first affording the local educational agency submitting an application for such funds reasonable notice and opportunity for a hearing;
 

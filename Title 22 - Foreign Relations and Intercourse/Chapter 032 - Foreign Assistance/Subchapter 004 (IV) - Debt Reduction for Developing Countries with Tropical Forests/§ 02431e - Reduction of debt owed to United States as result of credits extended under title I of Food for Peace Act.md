@@ -26,13 +26,13 @@
 
 #### (1) In general
 
-&emsp;Any debt reduction pursuant to subsection (a) of this section shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) of this section outstanding as of the date specified in subsection (a)(1) of this section.
+&emsp;Any debt reduction pursuant to subsection (a) shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) outstanding as of the date specified in subsection (a)(1).
 
 #### (2) Exchange of obligations
 
 #### (A) In general
 
-&emsp;&emsp;The Facility shall notify the Commodity Credit Corporation of an agreement entered into under paragraph (1) with an eligiblecountry to exchange a new obligation for outstanding obligations.
+&emsp;&emsp;The Facility shall notify the Commodity Credit Corporation of an agreement entered into under paragraph (1) with an eligible country to exchange a new obligation for outstanding obligations.
 
 #### (B) Additional requirement
 
@@ -40,13 +40,13 @@
 
 #### (c) Additional terms and conditions
 
-(1) The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under section 604(a)(1) of the Food for Peace Act \[7 U.S.C. 1738c(a)(1)\]:
+(1) The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) in the same manner as such terms and conditions apply to the reduction of debt under section 604(a)(1) of the Food for Peace Act \[7 U.S.C. 1738c(a)(1)\]:
 
 &emsp;(A) The provisions relating to repayment of principal under section 605 of such Act \[7 U.S.C. 1738d\].
 
 &emsp;(B) The provisions relating to interest on new obligations under section 606 of such Act \[7 U.S.C. 1738e\].
 
-(2) In addition to the application of the provisions relating to repayment of principal under section 605 of the Food for Peace Act \[7 U.S.C. 1738d\] to the reduction of debt under subsection (a)(1) of this section (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) of this section may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 606 of such Act \[7 U.S.C. 1738e\].
+(2) In addition to the application of the provisions relating to repayment of principal under section 605 of the Food for Peace Act \[7 U.S.C. 1738d\] to the reduction of debt under subsection (a)(1) (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 606 of such Act \[7 U.S.C. 1738e\].
 
 (Pub. L. 87–195, pt. V, §807, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 888; amended Pub. L. 108–323, §3(b), Oct. 6, 2004, 118 Stat. 1219; Pub. L. 110–246, title III, §3001(b)(1), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 

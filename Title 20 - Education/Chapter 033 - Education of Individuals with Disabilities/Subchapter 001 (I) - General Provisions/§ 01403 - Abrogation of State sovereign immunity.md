@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State shall not be immune under the 11th amendment to the Constitution of the United States from suit in Federal court for a violation of this chapter.
+A State shall not be immune under the 11th amendment to the Constitution of the UnitedStates from suit in Federal court for a violation of this chapter.
 
 #### (b) Remedies
 

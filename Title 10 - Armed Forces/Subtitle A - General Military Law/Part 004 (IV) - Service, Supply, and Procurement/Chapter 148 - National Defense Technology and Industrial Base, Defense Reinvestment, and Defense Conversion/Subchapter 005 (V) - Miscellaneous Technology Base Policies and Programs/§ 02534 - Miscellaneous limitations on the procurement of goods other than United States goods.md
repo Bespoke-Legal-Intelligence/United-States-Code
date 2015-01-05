@@ -94,7 +94,7 @@ Vessel propellers.—Subsection (a)(3)(A)(iii) and this paragraph shall cease to
 
 (d)
 
-Waiver Authority.—The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
+Waiver Authority.—The Secretary of Defense may waive the limitation in subsection (a)with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
 
 &emsp;(1) Application of the limitation would cause unreasonable costs or delays to be incurred.
 
@@ -170,7 +170,7 @@ Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearing
 
 &emsp;(A) the amount of the purchase does not exceed $2,500;
 
-&emsp;(B) the precision level of the ball or roller bearings to be procured under the contract orsubcontract is rated lower than the rating known as Annual Bearing Engineering Committee (ABEC) 5 or Roller Bearing Engineering Committee (RBEC) 5, or an equivalent of such rating;
+&emsp;(B) the precision level of the ball or roller bearings to be procured under the contract or subcontract is rated lower than the rating known as Annual Bearing Engineering Committee (ABEC) 5 or Roller Bearing Engineering Committee (RBEC) 5, or an equivalent of such rating;
 
 &emsp;(C) at least two manufacturers in the national technology and industrial base that are capable of producing the ball or roller bearings have not responded to a request for quotation issued by the contracting activity for that contract or subcontract; and
 
@@ -264,7 +264,7 @@ Subsec. (f). Pub. L. 102–484, §833(a), added subsec. (f). Former subsec. (f) 
 
 <b>1991</b>—Subsec. (d)(1). Pub. L. 102–190, §834(a), substituted "Effective through fiscal year 1996" for "During fiscal years 1989, 1990, and 1991".
 
-Subsec. (d)(3) to (5). Pub. L. 102–190, §834(b), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out former par. (4) which read as follows: "The provisions of this section may be renewed with respect to any item by the Secretary of Defense at the end of fiscal year 1991 for an additional two fiscal years if the Secretary determines that a continued restriction on that item is in the national security interest."
+Subsec. (d)(3) to (5). Pub. L. 102–190, §834(b), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out former par. (4) which read as follows: "Theprovisions of this section may be renewed with respect to any item by the Secretary of Defense at the end of fiscal year 1991 for an additional two fiscal years if the Secretary determines that a continued restriction on that item is in the national security interest."
 
 Subsec. (e)(1). Pub. L. 102–190, §835(1), substituted "Until January 1, 1993, the Secretary" for "The Secretary".
 
@@ -316,11 +316,33 @@ Pub. L. 101–510, div. A, title VIII, §835(b), Nov. 5, 1990, 104 Stat. 1615, p
 
 #### Procurement of Photovoltaic Devices
 
-Pub. L. 111–383, div. A, title VIII, §846, Jan. 7, 2011, 124 Stat. 4285, provided that:
+Pub. L. 113–291, div. A, title VIII, §858, Dec. 19, 2014, 128 Stat. 3460, provided that:
 
 "(a)
 
-Contract Requirement.—The Secretary of Defense shall ensure that each contract described in subsection (b) awarded by the Department of Defense includes a provision requiring the photovoltaic devices provided under the contract to comply with the Buy American Act (\[former\] 41 U.S.C. 10a et seq.) \[see 41 U.S.C. 8301 et seq.\], subject to the exceptions to that Act provided in the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.) or otherwise provided by law.
+Contract Requirement.—The Secretary of Defense shall ensure that each covered contract includes a provision requiring that any photovoltaic device installed under the contract be manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States, unless the head of the department or independent establishment concerned determines, on a case-by-case basis, that the inclusion of such requirement is inconsistent with the public interest or involves unreasonable costs, subject to exceptions provided in the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.) or otherwise provided by law.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered contract.—The term 'covered contract' means a contract awarded by the Department of Defense that provides for a photovoltaic device to be—
+
+&emsp;&emsp;"(A) installed inside the United States on Department of Defense property or in a facility owned by the Department of Defense; or
+
+&emsp;&emsp;"(B) reserved for the exclusive use of the Department of Defense in the United States for the full economic life of the device.
+
+&emsp;"(2)
+
+Photovoltaic device.—The term 'photovoltaic device' means a device that converts light directly into electricity through a solid-state, semiconductor process."
+
+Pub. L. 111–383, div. A, title VIII, §846, Jan. 7, 2011, 124 Stat. 4285, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(1)(A), Dec. 19, 2014, 128 Stat. 3505, provided that:
+
+"(a)
+
+Contract Requirement.—The Secretary of Defense shall ensure that each contract described in subsection (b) awarded by the Department of Defense includes a provision requiring the photovoltaic devices provided under the contract to comply with chapter 83 of title 41, United States Code, subject to the exceptions to that chapter provided in the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.) or otherwise provided by law.
 
 "(b)
 
@@ -340,7 +362,7 @@ Pub. L. 108–136, div. A, title VIII, §821, Nov. 24, 2003, 117 Stat. 1546, pro
 
 "(a)
 
-Identification of Certain Countries.—The Secretary of Defense, in coordination with the Secretary of State, shall identify and list foreign countries that restrict the provision or sale of military goods or services to the United States because of United States counterterrorism or military operations after the date of the enactment of this Act \[Nov. 24, 2003\]. The Secretary shall review and update the list as appropriate. The Secretary may remove a country from the list, if the Secretary determines that doing so would be in the interest of national defense.
+Identification of Certain Countries.—The Secretary of Defense, in coordination with the Secretary of State, shall identify and list foreign countries that restrict the provision or sale of military goods or services to the United States because of United States counterterrorism or military operations after the date of theenactment of this Act \[Nov. 24, 2003\]. The Secretary shall review and update the list as appropriate. The Secretary may remove a country from the list, if the Secretary determines that doing so would be in the interest of national defense.
 
 "(b)
 
@@ -348,7 +370,7 @@ Prohibition on Procurement of Items From Identified Countries.—The Secretary o
 
 "(c)
 
-Waiver Authority.—The Secretary of Defense may waive the limitation in subsection (b) if the Secretary determines in writing and notifies Congress that the Department of Defense's need for the item is ofsuch an unusual and compelling urgency that the Department would be unable to meet national security objectives.
+Waiver Authority.—The Secretary of Defense may waive the limitation in subsection (b) if the Secretary determines in writing and notifies Congress that the Department of Defense's need for the item is of such an unusual and compelling urgency that the Department would be unable to meet national security objectives.
 
 "(d)
 

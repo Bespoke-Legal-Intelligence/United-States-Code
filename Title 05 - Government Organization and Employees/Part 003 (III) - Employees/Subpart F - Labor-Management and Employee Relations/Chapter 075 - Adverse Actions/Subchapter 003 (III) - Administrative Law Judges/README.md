@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1137, substituted “ADMINISTRATIVE LAW JUDGES” for “HEARING EXAMINERS” in subchapter heading.
+<b>1978</b>—Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1137, substituted "ADMINISTRATIVE LAW JUDGES" for "HEARING EXAMINERS" in subchapter heading.
 
 
 ---

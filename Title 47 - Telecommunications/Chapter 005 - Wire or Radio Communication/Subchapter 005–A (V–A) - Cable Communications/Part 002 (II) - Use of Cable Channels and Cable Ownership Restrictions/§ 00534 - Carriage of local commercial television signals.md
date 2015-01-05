@@ -54,7 +54,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (9) Notification
 
-&emsp;A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station. No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings services measure the size of audiences of local television stations. The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
+&emsp;A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station. The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
 
 #### (10) Compensation for carriage
 
@@ -138,15 +138,17 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 &emsp;&emsp;(i) For purposes of this section, a broadcasting station's market shall be determined by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns, except that, following a written request, the Commission may, with respect to a particular television broadcast station, include additional communities within its television market or exclude communities from such station's television market to better effectuate the purposes of this section. In considering such requests, the Commission may determine that particular communities are part of more than one television market.
 
-&emsp;&emsp;(ii) In considering requests filed pursuant to clause (i), the Commission shall afford particular attention to the value of localism by taking into account such factors as—
+&emsp;&emsp;(ii) In considering requests filed pursuant to clause (i), the Commission shall affordparticular attention to the value of localism by taking into account such factors as—
 
-&emsp;&emsp;&emsp;(I) whether the station, or other stations located in the same area, have been historically carried on the cable system or systems within such community;
+&emsp;&emsp;&emsp;(I) whether the station, or other stations located in the same area, have been historically carried on the cable system or systems within such community or on the satellite carrier or carriers serving such community;
 
 &emsp;&emsp;&emsp;(II) whether the television station provides coverage or other local service to such community;
 
-&emsp;&emsp;&emsp;(III) whether any other television station that is eligible to be carried by a cable system in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+&emsp;&emsp;&emsp;(III) whether modifying the market of the television station would promote consumers' access to television broadcast station signals that originate in their State of residence;
 
-&emsp;&emsp;&emsp;(IV) evidence of viewing patterns in cable and noncable households within the areas served by the cable system or systems in such community.
+&emsp;&emsp;&emsp;(IV) whether any other television station that is eligible to be carried by a cable system in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+
+&emsp;&emsp;&emsp;(V) evidence of viewing patterns in households that subscribe and do not subscribe to the services offered by multichannel video programming distributors within the areas served by such multichannel video programming distributors in such community.
 
 &emsp;&emsp;(iii) A cable operator shall not delete from carriage the signal of a commercial television station during the pendency of any proceeding pursuant to this subparagraph.
 
@@ -164,13 +166,13 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 &emsp;&emsp;(D) such station is located no more than 35 miles from the cable system's headend, and delivers to the principal headend of the cable system an over-the-air signal of good quality, as determined by the Commission;
 
-&emsp;&emsp;(E) the community of license of such station and the franchise area of the cable system are both located outside of the largest 160 Metropolitan Statistical Areas, ranked by population, as determined by the Office ofManagement and Budget on June 30, 1990, and the population of such community of license on such date did not exceed 35,000; and
+&emsp;&emsp;(E) the community of license of such station and the franchise area of the cable system are both located outside of the largest 160 Metropolitan Statistical Areas, ranked by population, as determined by the Office of Management and Budget on June 30, 1990, and the population of such community of license on such date did not exceed 35,000; and
 
 &emsp;&emsp;(F) there is no full power television broadcast station licensed to any community within the county or other political subdivision (of a State) served by the cable system.
 
 > &emsp;Nothing in this paragraph shall be construed to change the secondary status of any low power station as provided in part 74 of title 47, Code of Federal Regulations, as in effect on October 5, 1992.
 
-(June 19, 1934, ch. 652, title VI, §614, as added Pub. L. 102–385, §4, Oct. 5, 1992, 106 Stat. 1471; amended Pub. L. 104–104, title III, §301(d)(1), Feb. 8, 1996, 110 Stat. 116.)
+(June 19, 1934, ch. 652, title VI, §614, as added Pub. L. 102–385, §4, Oct. 5, 1992, 106 Stat. 1471; amended Pub. L. 104–104, title III, §301(d)(1), Feb. 8, 1996, 110 Stat. 116; Pub. L. 113–200, title I, §§102(b), 105(a), Dec. 4, 2014, 128 Stat. 2061, 2063.)
 
 #### References in Text
 
@@ -178,13 +180,31 @@ This chapter, referred to in subsec. (g)(1), was in the original "this Act", mea
 
 #### Amendments
 
+<b>2014</b>—Subsec. (b)(9). Pub. L. 113–200, §105(a), struck out "No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings services measure the size of audiences of local television stations." after "that station."
+
+Subsec. (h)(1)(C)(ii)(I). Pub. L. 113–200, §102(b)(1)(A), substituted "community or on the satellite carrier or carriers serving such community" for "community".
+
+Subsec. (h)(1)(C)(ii)(III). Pub. L. 113–200, §102(b)(1)(C), added subcl. (III). Former subcl. (III) redesignated (IV).
+
+Subsec. (h)(1)(C)(ii)(IV). Pub. L. 113–200, §102(b)(1)(B), redesignated subcl. (III) as (IV). Former subcl. (IV) redesignated (V).
+
+Subsec. (h)(1)(C)(ii)(V). Pub. L. 113–200, §102(b)(1)(D), amended subcl. (V) generally. Prior to amendment, subcl. (V) read as follows: "evidence of viewing patterns in cable and noncable households within the areas served by the cable system or systems in such community."
+
+Pub. L. 113–200, §102(b)(1)(B), redesignated subcl. (IV) as (V).
+
+Subsec. (h)(1)(C)(iv). Pub. L. 113–200, §102(b)(2), realigned margins.
+
 <b>1996</b>—Subsec. (h)(1)(C)(i). Pub. L. 104–104, §301(d)(1)(A), substituted "by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns," for "in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,".
 
-Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: "In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph."
+Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which readas follows: "In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph."
 
 #### Effective Date
 
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
+
+#### Revision of Rules
+
+Pub. L. 113–200, title I, §105(b), Dec. 4, 2014, 128 Stat. 2063, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall revise section 76.1601 of its rules (47 CFR 76.1601) and any note to such section by removing the prohibition against deletion or repositioning of a local commercial television station during a period in which major television ratings services measure the size of audiences of local television stations."
 
 #### Application to Pending Requests
 

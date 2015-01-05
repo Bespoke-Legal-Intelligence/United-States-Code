@@ -8,7 +8,7 @@ Unless the executor elects not to have this section apply, in applying sections 
 
 For purposes of this section, the term "qualified decedent" means—
 
-&emsp;(1) any citizen or resident of the United States dying while in active service of theArmed Forces of the United States, if such decedent—
+&emsp;(1) any citizen or resident of the United States dying while in active service of the Armed Forces of the United States, if such decedent—
 
 &emsp;&emsp;(A) was killed in action while serving in a combat zone, as determined under section 112(c), or
 
@@ -71,11 +71,11 @@ Pub. L. 108–121, title I, §110(c)(3), Nov. 11, 2003, 117 Stat. 1343, provided
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section103(d) of Pub. L. 107–134, set out as a note under section 2053 of this title.
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1976 Amendment
 

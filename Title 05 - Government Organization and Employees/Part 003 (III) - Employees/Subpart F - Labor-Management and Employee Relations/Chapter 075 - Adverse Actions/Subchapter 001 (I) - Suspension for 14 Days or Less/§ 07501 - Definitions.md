@@ -2,9 +2,9 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) “employee” means an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed 1 year of current continuous employment in the same or similar positions under other than a temporary appointment limited to 1 year or less; and
+&emsp;(1) "employee" means an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed 1 year of current continuous employment in the same or similar positions under other than a temporary appointment limited to 1 year or less; and
 
-&emsp;(2) “suspension” means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay.
+&emsp;(2) "suspension" means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay.
 
 (Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1134.)
 
@@ -18,5 +18,5 @@ Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95�
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–376, §1, Aug. 17, 1990, 104 Stat. 461, provided that: “This Act \[amending sections 4303, 7511, and 7701 of this title and enacting provisions set out as notes under section 4303 of this title\] may be cited as the ‘Civil Service Due Process Amendments’.”
+Pub. L. 101–376, §1, Aug. 17, 1990, 104 Stat. 461, provided that: "This Act \[amending sections 4303, 7511, and 7701 of this title and enacting provisions set out as notes under section 4303 of this title\] may be cited as the 'Civil Service Due Process Amendments'."
 

@@ -16,11 +16,19 @@ The Secretary may provide enrollees assigned to Job Corps centers with such pers
 
 (Pub. L. 105–220, title I, §150, Aug. 7, 1998, 112 Stat. 1013.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known asthe Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (b)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 1699 and 1702 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

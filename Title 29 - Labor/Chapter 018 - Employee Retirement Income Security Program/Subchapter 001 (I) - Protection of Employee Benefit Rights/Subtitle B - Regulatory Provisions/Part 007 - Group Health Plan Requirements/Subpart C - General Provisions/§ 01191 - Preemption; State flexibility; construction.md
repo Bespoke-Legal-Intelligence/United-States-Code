@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) substitutes for the reference to "12 months" and "18 months" in section 1181(a)(2) of this title a reference to any shorter period of time;
 
-&emsp;&emsp;(C) substitutes for the references to "63 days" in sections 1181(c)(2)(A) and (d)(4)(A)of this title a reference to any greater number of days;
+&emsp;&emsp;(C) substitutes for the references to "63 days" in sections 1181(c)(2)(A) and (d)(4)(A) of this title a reference to any greater number of days;
 
 &emsp;&emsp;(D) substitutes for the reference to "30-day period" in sections 1181(b)(2) and (d)(1) of this title a reference to any greater period;
 

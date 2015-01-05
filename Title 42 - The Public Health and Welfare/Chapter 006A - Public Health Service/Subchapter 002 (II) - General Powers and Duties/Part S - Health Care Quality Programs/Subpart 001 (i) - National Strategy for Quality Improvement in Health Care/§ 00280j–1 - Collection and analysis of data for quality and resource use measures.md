@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may award grants or contracts to eligible entities to support new, orimprove existing, efforts to collect and aggregate quality and resource use measures described under subsection (c).
+&emsp;The Secretary may award grants or contracts to eligible entities to support new, or improve existing, efforts to collect and aggregate quality and resource use measures described under subsection (c).
 
 #### (2) Eligible entities
 
@@ -54,5 +54,5 @@ To carry out this section, there are authorized to be appropriated such sums as 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10305, amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall collect and aggregate consistent data on quality and resource use measures from information systems used to support health care delivery to implement the public reporting of performance information, as described in section 280j–2 of this title, and may award grants or contracts for this purpose. The Secretary shall ensure that such collection, aggregation, and analysis systems span an increasingly broad range of patient populations, providers, and geographic areas over time."
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10305, amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall collect and aggregate consistent data on quality and resource use measures from information systems used to support health care delivery to implement the public reporting of performance information, as described in section 280j–2 of this title, and may award grants or contracts for this purpose. The Secretary shall ensure that such collection,aggregation, and analysis systems span an increasingly broad range of patient populations, providers, and geographic areas over time."
 

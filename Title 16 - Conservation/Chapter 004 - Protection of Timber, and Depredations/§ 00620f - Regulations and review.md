@@ -48,7 +48,7 @@ In general.—Except as otherwise provided in sections 620 to 620j of this title
 
 &emsp;&emsp;&emsp;&emsp;(I) for a geographic area, if the Secretary determines that the risk of the unprocessed timber being exported from the area or used in substitution is low;
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to unprocessed timber originating from private lands located within an approved sourcing area for a person who certifies that the timber willbe processed at a specific domestic processing facility to the extent that the processing does occur; or
+&emsp;&emsp;&emsp;&emsp;(II) with respect to unprocessed timber originating from private lands located within an approved sourcing area for a person who certifies that the timber will be processed at a specific domestic processing facility to the extent that the processing does occur; or
 
 &emsp;&emsp;&emsp;&emsp;(III) as part of a log yard agreement that is consistent with the purposes of the export and substitution restrictions imposed under sections 620 to 620j of this title.
 

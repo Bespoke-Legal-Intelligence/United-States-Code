@@ -26,9 +26,9 @@ The Congress so declares because it finds—
 
 #### (b) Congressional declaration for collation of components to increase world food production
 
-Accordingly, the Congress declares that, in order to prevent famine and establish freedomfrom hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
+Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
 
-&emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration on crops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
+&emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration oncrops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
 
 &emsp;(2) contract research and the implementation of collaborative research support programs and other research collaboration led by United States universities, and involving research systems in other countries focused on crops, livestock, forests, fisheries, farming resources, and food systems, with benefits to the United States and partner countries;
 
@@ -44,7 +44,7 @@ Accordingly, the Congress declares that, in order to prevent famine and establis
 
 The United States should—
 
-&emsp;(1) effectively involve the United States land-grant and other eligible universities more extensively in each of the program components described in paragraphs (1) through (6) of subsection (b) of this section;
+&emsp;(1) effectively involve the United States land-grant and other eligible universities more extensively in each of the program components described in paragraphs (1) through (6) of subsection (b);
 
 &emsp;(2) provide mechanisms for the universities and public and private partners of universities to participate and advise in the planning, development, implementation, and administration of each component;
 
@@ -120,7 +120,7 @@ Subsec. (a)(H), (I). Pub. L. 106–373, §2(a)(2)(F), (J), added subpars. (H) an
 
 Subsec. (b). Pub. L. 106–373, §2(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) contained declaration of Congress that various components had to be brought together in order to increase world food production.
 
-Subsec. (c)(1). Pub. L. 106–373, §2(c)(1), substituted "each of the program components described in paragraphs (1) through (6) of subsection (b) of this section" for "each component".
+Subsec. (c)(1). Pub. L. 106–373, §2(c)(1), substituted "each of the program components described in paragraphs (1) through (6) of subsection (b)" for "each component".
 
 Subsec. (c)(2). Pub. L. 106–373, §2(c)(2)(A), inserted "and public and private partners of universities" after "for the universities".
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Global Crop Diversity Trust
 
-Pub. L. 110–246, title III, §3202, June 18, 2008, 122 Stat. 1836, provided that:
+Pub. L. 110–246, title III, §3202, June 18, 2008, 122 Stat. 1836, as amended by Pub. L. 113–79, title III, §3206, Feb. 7, 2014, 128 Stat. 780, provided that:
 
 "(a)
 
@@ -168,7 +168,7 @@ United States Contribution Limit.—The aggregate contributions of funds of the 
 
 "(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $60,000,000 for the period of fiscal years 2008 through 2012."
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $60,000,000 for the period of fiscal years 2014 through 2018."
 
 #### International Food Reserve
 
@@ -224,5 +224,5 @@ Pub. L. 93–189, §39, Dec. 17, 1973, 87 Stat. 735, as amended by Pub. L. 110�
 
 &emsp;"(1) in making assessments which would affect or relate to the level of domestic production, the Executive Branch should include in the estimates of overall utilization the expected demands for humanitarian food assistance through such programs as are carried out under the Food for Peace Act (Public Law 480) \[7 U.S.C. 1691 et seq.\]; and
 
-&emsp;"(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentenceof section 401 of the Food for Peace Act (Public Law 480) \[7 U.S.C. 1731\], may be amended by striking the period and inserting in lieu thereof a comma and the following: 'unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]'."
+&emsp;"(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentence of section 401 of the Food for Peace Act (Public Law 480) \[7 U.S.C. 1731\], may be amended by striking the period and inserting in lieu thereof a comma and the following: 'unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]'."
 

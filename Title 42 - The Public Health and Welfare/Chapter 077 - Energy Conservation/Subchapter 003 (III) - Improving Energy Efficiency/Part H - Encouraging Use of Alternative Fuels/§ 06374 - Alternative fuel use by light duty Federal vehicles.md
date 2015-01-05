@@ -2,7 +2,7 @@
 
 #### (a) Department of Energy program
 
-(1) Beginning in the fiscal year ending September 30, 1990, the Secretary shall ensure, with the cooperation of other appropriate agencies and consistent with other Federal law, that the maximum number practicable of the vehicles acquired annually for use by the Federal Government shall be alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.
+(1) Beginning in the fiscal year ending September 30, 1990, the Secretary shall ensure, with thecooperation of other appropriate agencies and consistent with other Federal law, that the maximum number practicable of the vehicles acquired annually for use by the Federal Government shall be alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.
 
 (2) In any determination of whether the acquisition of a vehicle is practicable under paragraph (1), the initial cost of such vehicle to the United States shall not be considered as a factor unless the initial cost of such vehicle exceeds the initial cost of a comparable gasoline or diesel fueled vehicle by at least 5 percent.
 

@@ -2,7 +2,7 @@
 
 #### (a) Agency subgrants
 
-Based on the allocation amount computed under section 6432 of this title, the Secretary shall allocate to each State educational agency an amount necessary to make subgrants to State agencies under subpart 1 of this part.
+Based on the allocation amount computed under section 6432 of this title, the Secretaryshall allocate to each State educational agency an amount necessary to make subgrants to State agencies under subpart 1 of this part.
 
 #### (b) Local subgrants
 

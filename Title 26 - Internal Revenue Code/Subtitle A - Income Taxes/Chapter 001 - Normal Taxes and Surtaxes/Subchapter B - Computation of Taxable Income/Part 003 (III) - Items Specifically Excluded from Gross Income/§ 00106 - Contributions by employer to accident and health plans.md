@@ -8,7 +8,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (1) In general
 
-&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of suchemployee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
 
 #### (2) No constructive receipt
 
@@ -38,7 +38,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (1) In general
 
-&emsp;Effective on and after January 1, 1997, gross income of an employee shall include employer-provided coverage for qualified long-term care services (as defined in section 7702B(c)) to the extent that such coverage is provided through a flexible spending or similar arrangement.
+&emsp;Gross income of an employee shall include employer-provided coverage for qualified long-term care services (as defined in section 7702B(c)) to the extent that such coverage is provided through a flexible spending or similar arrangement.
 
 #### (2) Flexible spending arrangement
 
@@ -92,7 +92,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (B) Exception for disability or death
 
-&emsp;&emsp;Clauses (i) and (ii) of subparagraph (A) shall not apply if the employee ceases to be an eligible individual by reason of the death of the employee or the employee becomingdisabled (within the meaning of section 72(m)(7)).
+&emsp;&emsp;Clauses (i) and (ii) of subparagraph (A) shall not apply if the employee ceases to be an eligible individual by reason of the death of the employee or the employee becoming disabled (within the meaning of section 72(m)(7)).
 
 #### (4) Definitions and special rules
 
@@ -132,13 +132,15 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 For purposes of this section and section 105, reimbursement for expenses incurred for a medicine or a drug shall be treated as a reimbursement for medical expenses only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(d)(1), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 109–432, div. A, title III, §302(a), Dec. 20, 2006, 120 Stat. 2948; Pub. L. 111–148, title IX, §9003(c), Mar. 23, 2010, 124 Stat. 854.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(d)(1), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 109–432, div. A, title III, §302(a), Dec. 20, 2006, 120 Stat. 2948; Pub. L. 111–148, title IX, §9003(c), Mar. 23, 2010, 124 Stat. 854; Pub. L. 113–295, div. A, title II, §221(a)(17), Dec. 19, 2014, 128 Stat. 4039.)
 
 #### References in Text
 
 COBRA, referred to in the heading for subsec. (b)(5), probably means the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 82, as amended. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–295 substituted "Gross income" for "Effective on and after January 1, 1997, gross income".
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–148 added subsec. (f).
 
@@ -176,13 +178,17 @@ Subsec. (a). Pub. L. 99–514, §1151(j)(2), amended subsec. (a) generally. Prio
 
 Subsec. (b)(1). Pub. L. 99–514, §1114(b)(1), substituted "highly compensated employee (within the meaning of section 414(q))" for "highly compensated individual (within the meaning of section 105(h)(5))".
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–148, title IX, §9003(d)(2), Mar. 23, 2010, 124 Stat. 854, provided that: "The amendment made by subsection (c) \[amending this section\] shall apply to expenses incurred with respect to taxable years beginning after December 31, 2010."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title III, §302(c)(1), Dec. 20, 2006, 120 Stat. 2949, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall apply to distributions on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
+Pub. L. 109–432, div. A, title III, §302(c)(1), Dec. 20, 2006, 120 Stat. 2949, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
 #### Effective Date of 2003 Amendment
 

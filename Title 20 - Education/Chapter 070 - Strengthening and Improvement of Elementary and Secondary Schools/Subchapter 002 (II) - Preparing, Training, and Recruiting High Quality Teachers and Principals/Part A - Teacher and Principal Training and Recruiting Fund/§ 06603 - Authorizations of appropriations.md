@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this part (other than subpa
 
 #### (b) National programs
 
-There are authorized to be appropriated to carry out subpart 5 of this part such sums asmay be necessary for fiscal year 2002 and each of the 5 succeeding fiscal years.
+There are authorized to be appropriated to carry out subpart 5 of this part such sums as may be necessary for fiscal year 2002 and each of the 5 succeeding fiscal years.
 
 (Pub. L. 89–10, title II, §2103, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1621.)
 

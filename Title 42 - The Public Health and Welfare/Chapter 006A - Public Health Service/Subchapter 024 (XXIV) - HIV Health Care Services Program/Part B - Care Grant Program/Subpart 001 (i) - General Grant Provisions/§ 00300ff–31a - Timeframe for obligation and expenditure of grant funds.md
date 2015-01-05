@@ -32,7 +32,7 @@ Effective for fiscal year 2007 and subsequent fiscal years, if a grant award mad
 
 #### (3) Use of cancelled balances
 
-&emsp;In the case of any balance of a grant award that is cancelled under paragraph (1) or (2)(B), the grant funds involved shall be made available by the Secretary as additional amounts for grants under section 300ff–29a of this title for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that the balance is required under such paragraph to be canceled, except that the availability of the funds for such grants is subject to section 300ff–28(a)(2)(H) of this title as applied for such year.
+&emsp;In the case of any balance of a grant award that is cancelled under paragraph (1) or (2)(B), the grant funds involved shall be made available by the Secretary as additional amounts for grants under section 300ff–29a of this titlefor the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that the balance is required under such paragraph to be canceled, except that the availability of the funds for such grants is subject to section 300ff–28(a)(2)(H) of this title as applied for such year.
 
 #### (4) Corresponding reduction in future grant
 

@@ -4,7 +4,7 @@
 
 #### (1) Quadrennial reviews required
 
-&emsp;In fiscal year 2009, and every 4 years thereafter, the Secretary shall conduct a review of the homeland security of the Nation (in this section referred to as a “quadrennial homeland security review”).
+&emsp;In fiscal year 2009, and every 4 years thereafter, the Secretary shall conduct a review of the homeland security of the Nation (in this section referred to as a "quadrennial homeland security review").
 
 #### (2) Scope of reviews
 
@@ -38,7 +38,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;(5) include an assessment of the organizational alignment of the Department with the national homeland security strategy referred to in paragraph (1) and the homeland security mission areas outlined under paragraph (2); and
 
-&emsp;(6) review and assess the effectiveness of the mechanisms of the Department for executing the process of turning the requirements developed in the quadrennial homeland security review into an acquisition strategy and expenditure plan within the Department.
+&emsp;(6) review and assess the effectiveness of the mechanisms of the Department for executingthe process of turning the requirements developed in the quadrennial homeland security review into an acquisition strategy and expenditure plan within the Department.
 
 #### (c) Reporting
 
@@ -62,7 +62,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;&emsp;(F) a discussion of the status of cooperation among Federal agencies in the effort to promote national homeland security;
 
-&emsp;&emsp;(G) a discussion of the status of cooperation between the Federal Government andState, local, and tribal governments in preventing terrorist attacks and preparing for emergency response to threats to national homeland security;
+&emsp;&emsp;(G) a discussion of the status of cooperation between the Federal Government and State, local, and tribal governments in preventing terrorist attacks and preparing for emergency response to threats to national homeland security;
 
 &emsp;&emsp;(H) an explanation of any underlying assumptions used in conducting the review; and
 
@@ -82,21 +82,21 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Pub. L. 110–53, title XXIV, §2401(b), Aug. 3, 2007, 121 Stat. 546, provided that:
 
-“(1)
+"(1)
 
 In general.—During fiscal years 2007 and 2008, the Secretary of Homeland Security shall make preparations to conduct the first quadrennial homeland security review under section 707 of the Homeland Security Act of 2002 \[6 U.S.C. 347\], as added by subsection (a), in fiscal year 2009, including—
 
-&emsp;“(A) determining the tasks to be performed;
+&emsp;"(A) determining the tasks to be performed;
 
-&emsp;“(B) estimating the human, financial, and other resources required to perform each task;
+&emsp;"(B) estimating the human, financial, and other resources required to perform each task;
 
-&emsp;“(C) establishing the schedule for the execution of all project tasks;
+&emsp;"(C) establishing the schedule for the execution of all project tasks;
 
-&emsp;“(D) ensuring that these resources will be available as needed; and
+&emsp;"(D) ensuring that these resources will be available as needed; and
 
-&emsp;“(E) all other preparations considered necessary by the Secretary.
+&emsp;"(E) all other preparations considered necessary by the Secretary.
 
-“(2)
+"(2)
 
-Report.—Not later than 60 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary shall submit to Congress and make publicly available on the Internet website of the Department of Homeland Security a detailed resource plan specifying the estimated budget and number of staff members that will be required for preparation of the first quadrennial homeland security review.”
+Report.—Not later than 60 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary shall submit to Congress and make publicly available on the Internet website of the Department of Homeland Security a detailed resource plan specifying the estimated budget and number of staff members that will be required for preparation of the first quadrennial homeland security review."
 

@@ -70,7 +70,7 @@ Definitions.—In this section:
 
 (k)
 
-Penalty.—Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurance record, shall be fined not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+Penalty.—Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurance record, shall be fined not more than $3,000 in thecase of a first offense and not more than $20,000 in the case of a subsequent offense.
 
 (Added Pub. L. 99–661, div. A, title VII, §705(a)\[(1)\], Nov. 14, 1986, 100 Stat. 3902; amended Pub. L. 100–180, div. A, title XII, §1231(5), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title VI, §653(f), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 108–375, div. A, title X, §1084(c)(2), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–81, div. A, title VII, §714(a), Dec. 31, 2011, 125 Stat. 1476.)
 

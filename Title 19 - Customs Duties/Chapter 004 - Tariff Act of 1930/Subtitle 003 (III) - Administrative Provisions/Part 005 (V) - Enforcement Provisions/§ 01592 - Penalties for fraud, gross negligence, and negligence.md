@@ -106,7 +106,7 @@
 
 #### (6) Prior disclosure regarding claims under the United States-Chile Free Trade Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes a corrected declaration and pays any duties owing.
+&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes acorrected declaration and pays any duties owing.
 
 #### (7) Prior disclosure regarding claims under the United States-Singapore Free Trade Agreement
 
@@ -126,7 +126,7 @@
 
 #### (9) Prior disclosure regarding claims under the Dominican Republic-Central America-United States Free Trade Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as anoriginating good under section 4033 of this title if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
+&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 4033 of this title if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
 
 #### (10) Prior disclosure regarding claims under the United States-Peru Trade Promotion Agreement
 
@@ -176,7 +176,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(A) subsection (d) of this section does not apply, and
 
-&emsp;&emsp;(B) subsection (c)(5) of this section applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin,written notice of the falsity of the Certificate.
+&emsp;&emsp;(B) subsection (c)(5) of this section applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
 
 #### (3) Exception
 
@@ -244,7 +244,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, grossnegligence, or negligence, in a KFTA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 202 of the United States–Korea Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a KFTA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 202 of the United States–Korea Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -280,7 +280,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Panama TPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–Panama Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Panama TPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–PanamaTrade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -442,7 +442,7 @@ Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Centr
 
 #### Effective and Termination Dates of 2004 Amendment
 
-Amendment by Pub. L. 108–286 effective on the date on which the United States-Australia Free Trade Agreement enters into force (Jan. 1, 2005) and to ceaseto be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 108–286, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 108–286 effective on the date on which the United States-Australia Free Trade Agreement enters into force (Jan. 1, 2005) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 108–286, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2003 Amendments
 

@@ -44,7 +44,7 @@
 
 #### (3) Hearing; termination
 
-&emsp;If, on the basis of the evidence presented at a hearing before the Board of Directors (or any person designated by the Board for such purpose), in which all issues shall be determined on the record pursuant to section 554 of title 5 and the written findings of the Board of Directors (or such person) with respect to such evidence (which shall be conclusive), the Board of Directors finds that any unsafe or unsound practice or condition or any violation specified in the notice to an insured depository institution under paragraph (2)(B) or subsection (w) of this section has been established, the Board of Directors may issue an order terminating the insured status of such depository institution effective as of a date subsequent to such finding.
+&emsp;If, on the basis of the evidence presented at a hearing before the Board of Directors (or any person designated by the Board for such purpose), in which all issues shall be determined on the record pursuant to section 554 of title 5 and the written findings of the Board of Directors (or such person) with respect to such evidence (which shall be conclusive), the Board of Directors finds that any unsafe or unsound practice or condition or any violation specified in the notice to an insured depository institution under paragraph (2)(B) or subsection (w) has been established, the Board of Directors may issue an order terminating the insured status of such depository institution effective as of a date subsequent to such finding.
 
 #### (4) Appearance; consent to termination
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(A) issue a temporary order terminating deposit insurance; or
 
-&emsp;&emsp;(B) issue a final order terminating deposit insurance (other than under subsection (p) or (q) of this section);
+&emsp;&emsp;(B) issue a final order terminating deposit insurance (other than under subsection (p) or (q));
 
 > &emsp;shall be made by the Board of Directors and may not be delegated.
 
@@ -134,7 +134,7 @@
 
 (1) If, in the opinion of the appropriate Federal banking agency, any insured depository institution, depository institution which has insured deposits, or any institution-affiliated party is engaging or has engaged, or the agency has reasonable cause to believe that the depository institution or any institution-affiliated party is about to engage, in an unsafe or unsound practice in conducting the business of such depository institution, or is violating or has violated, or the agency has reasonable cause to believe that the depository institution or any institution-affiliated party is about to violate, a law, rule, or regulation, or any condition imposed in writing by a Federal banking agency in connection with any action on any application, notice, or other request by the depository institution or institution-affiliated party, or any written agreement entered into with the agency, the appropriate Federal banking agency for the depository institution may issue and serve upon the depository institution or such party a notice of charges in respect thereof. The notice shall contain a statement of the facts constituting the alleged violation or violations or the unsafe or unsound practice or practices, and shall fix a time and place at which a hearing will be held to determine whether an order to cease and desist therefrom should issue against the depository institution or the institution-affiliated party. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or a later date is set by the agency at the request of any party so served. Unless the party or parties so served shall appear at the hearing personally or by a duly authorized representative, they shall be deemed to have consented to the issuance of the cease-and-desist order. In the event of such consent, or if upon the record made at any such hearing, the agency shall find that any violation or unsafe or unsound practice specified in the notice of charges has been established, the agency may issue and serve upon the depository institution or the institution-affiliated party an order to cease and desist from any such violation or practice. Such order may, by provisions which may be mandatory or otherwise, require the depository institution or its institution-affiliated parties to cease and desist from the same, and, further, to take affirmative action to correct the conditions resulting from any such violation or practice.
 
-(2) A cease-and-desist order shall become effective at the expiration of thirty days after theservice of such order upon the depository institution or other person concerned (except in the case of a cease-and-desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein, except to such extent as it is stayed, modified, terminated, or set aside by action of the agency or a reviewing court.
+(2) A cease-and-desist order shall become effective at the expiration of thirty days after the service of such order upon the depository institution or other person concerned (except in the case of a cease-and-desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein, except to such extent as it is stayed, modified, terminated, or set aside by action of the agency or a reviewing court.
 
 (3) This subsection, subsections (c) through (s) and subsection (u) of this section, and section 1831aa of this title shall apply to any bank holding company, and to any subsidiary (other than a bank) of a bank holding company, as those terms are defined in the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], any savings and loan holding company and any subsidiary (other than a depository institution) of a savings and loan holding company (as such terms are defined in section 1467a of this title)),<sup>2</sup> any noninsured State member bank and to any organization organized and operated under section 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] or operating under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\], in the same manner as they apply to a State member insured bank. Nothing in this subsection or in subsection (c) of this section shall authorize any Federal banking agency, other than the Board of Governors of the Federal Reserve System, to issue a notice of charges or cease-and-desist order against a bank holding company or any subsidiary thereof (other than a bank or subsidiary of that bank) or against a savings and loan holding company or any subsidiary thereof (other than a depository institution or a subsidiary of such depository institution).
 
@@ -144,7 +144,7 @@
 
 (6)
 
-Affirmative action to correct conditions resulting from violations or practices.—The authority to issue an order under this subsection and subsection (c) of this section which requires an insured depository institution or any institution-affiliated party to take affirmative action to correct or remedy any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such depository institution or such party to—
+Affirmative action to correct conditions resulting from violations or practices.—The authority to issue an order under this subsection and subsection (c) which requires an insured depository institution or any institution-affiliated party to take affirmative action to correct or remedy any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such depository institution or such party to—
 
 &emsp;(A) make restitution or provide reimbursement, indemnification, or guarantee against loss if—
 
@@ -164,7 +164,7 @@ Affirmative action to correct conditions resulting from violations or practices.
 
 (7)
 
-Authority to limit activities.—The authority to issue an order under this subsection or subsection (c) of this section includes the authority to place limitations on the activities or functions of an insured depository institution or any institution-affiliated party.
+Authority to limit activities.—The authority to issue an order under this subsection or subsection (c) includes the authority to place limitations on the activities or functions of an insured depository institution or any institution-affiliated party.
 
 (8)
 
@@ -174,11 +174,11 @@ Unsatisfactory asset quality, management, earnings, or liquidity as unsafe or un
 
 (10)
 
-Standard for certain orders.—No authority under this subsection or subsection (c) of this section to prohibit any institution-affiliated party from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property may be exercised unless the appropriate Federal banking agency meets the standards of Rule 65 of the Federal Rules of Civil Procedure, without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
+Standard for certain orders.—No authority under this subsection or subsection (c) to prohibit any institution-affiliated party from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property may be exercised unless the appropriate Federal banking agency meets the standards of Rule 65 of the Federal Rules of Civil Procedure, without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
 
 #### (c) Temporary cease-and-desist orders
 
-(1) Whenever the appropriate Federal banking agency shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the depository institution or any institution-affiliated party pursuant to paragraph (1) of subsection (b) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the depository institution, or is likely to weaken the condition of the depository institution or otherwise prejudice the interests of its depositors prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (b) of this section, the agency may issue a temporary order requiring the depository institution or such party to cease and desist from any such violation or practice and to take affirmative action to prevent or remedy such insolvency, dissipation, condition, or prejudicepending completion of such proceedings. Such order may include any requirement authorized under subsection (b)(6) of this section. Such order shall become effective upon service upon the depository institution or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the agency shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the depository institution or such party, until the effective date of such order.
+(1) Whenever the appropriate Federal banking agency shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the depository institution or any institution-affiliated party pursuant to paragraph (1) of subsection (b) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the depository institution, or is likely to weaken the condition of the depository institution or otherwise prejudice the interests of its depositors prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (b) of this section, the agency may issue a temporary order requiring the depository institution or such party to cease and desist from any such violation or practice and to take affirmative action to prevent or remedy such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order may include any requirement authorized under subsection (b)(6). Such order shall become effective upon service upon the depository institution or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the agency shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the depository institution or such party, until the effective date of such order.
 
 (2) Within ten days after the depository institution concerned or any institution-affiliated party has been served with a temporary cease-and-desist order, the depository institution or such party may apply to the United States district court for the judicial district in which the home office of the depository institution is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the depository institution or such party under paragraph (1) of subsection (b) of this section, and such court shall have jurisdiction to issue such injunction.
 
@@ -188,11 +188,11 @@ Incomplete or inaccurate records.—
 
 &emsp;(A)
 
-Temporary order.—If a notice of charges served under subsection (b)(1) of this section specifies, on the basis of particular facts and circumstances, that an insured depository institution's books and records are so incomplete or inaccurate that the appropriate Federal banking agency is unable, through the normal supervisory process, to determine the financial condition of that depository institution or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that depository institution, the agency may issue a temporary order requiring—
+Temporary order.—If a notice of charges served under subsection (b)(1) specifies, on the basis of particular facts and circumstances, that an insured depository institution's books and records are so incomplete or inaccurate that the appropriate Federal banking agency is unable, through the normal supervisory process, to determine the financial condition of that depository institution or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that depository institution, the agency may issue a temporary order requiring—
 
 &emsp;&emsp;(i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
 
-&emsp;&emsp;(ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (b)(1) of this section.
+&emsp;&emsp;(ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (b)(1).
 
 &emsp;(B)
 
@@ -202,7 +202,7 @@ Effective period.—Any temporary order issued under subparagraph (A)—
 
 &emsp;&emsp;(ii) unless set aside, limited, or suspended by a court in proceedings under paragraph (2), shall remain in effect and enforceable until the earlier of—
 
-&emsp;&emsp;&emsp;(I) the completion of the proceeding initiated under subsection (b)(1) of this section in connection with the notice of charges; or
+&emsp;&emsp;&emsp;(I) the completion of the proceeding initiated under subsection (b)(1) in connection with the notice of charges; or
 
 &emsp;&emsp;&emsp;(II) the date the appropriate Federal banking agency determines, by examination or otherwise, that the insured depository institution's books and records are accurate and reflect the financial condition of the depository institution.
 
@@ -290,7 +290,7 @@ In general.—Whenever the appropriate Federal banking agency determines that—
 
 &emsp;&emsp;(i) an institution-affiliated party has committed a violation of any provision of subchapter II of chapter 53 of title 31 and such violation was not inadvertent or unintentional;
 
-&emsp;&emsp;(ii) an officer or director of an insured depository institution has knowledge that an institution-affiliated party of the insured depository institution has violated any such provision or any provision of law referred to in subsection (g)(1)(A)(ii) of this section;
+&emsp;&emsp;(ii) an officer or director of an insured depository institution has knowledge that an institution-affiliated party of the insured depository institution has violated any such provision or any provision of law referred to in subsection (g)(1)(A)(ii);
 
 &emsp;&emsp;(iii) an officer or director of an insured depository institution has committed any violation of the Depository Institution Management Interlocks Act \[12 U.S.C. 3201 et seq.\]; or
 
@@ -320,7 +320,7 @@ Effective period.—Any suspension order issued under subparagraph (A)—
 
 &emsp;&emsp;(i) shall become effective upon service; and
 
-&emsp;&emsp;(ii) unless a court issues a stay of such order under subsection (f) of this section, shall remain in effect and enforceable until—
+&emsp;&emsp;(ii) unless a court issues a stay of such order under subsection (f), shall remain in effect and enforceable until—
 
 &emsp;&emsp;&emsp;(I) the date the appropriate Federal banking agency dismisses the charges contained in the notice served under paragraph (1) or (2) with respect to such party; or
 
@@ -328,9 +328,9 @@ Effective period.—Any suspension order issued under subparagraph (A)—
 
 &emsp;(C)
 
-Copy of order.—If an appropriate Federal banking agency issues a suspension order under subparagraph (A) to any institution-affiliated party, the agency shall serve a copy of such order on any insured depository institution with which such party is associated at the time such order is issued.
+Copy of order.—If an appropriate Federal banking agency issues a suspension orderunder subparagraph (A) to any institution-affiliated party, the agency shall serve a copy of such order on any insured depository institution with which such party is associated at the time such order is issued.
 
-(4) A notice of intention to remove an institution-affiliated party from office or to prohibit such party from participating in the conduct of the affairs of an insured depository institution, shall contain a statement of the facts constituting grounds therefor, and shall fix a time and place at which a hearing will be held thereon. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after the date of service of such notice, unless an earlier or a later date is set by the agency at the request of (A) such party, and for good cause shown, or (B) the Attorney General of theUnited States. Unless such party shall appear at the hearing in person or by a duly authorized representative, such party shall be deemed to have consented to the issuance of an order of such removal or prohibition. In the event of such consent, or if upon the record made at any such hearing the agency shall find that any of the grounds specified in such notice have been established, the agency may issue such orders of suspension or removal from office, or prohibition from participation in the conduct of the affairs of the depository institution, as it may deem appropriate. Any such order shall become effective at the expiration of thirty days after service upon such depository institution and such party concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein). Such order shall remain effective and enforceable except to such extent as it is stayed, modified, terminated, or set aside by action of the agency or a reviewing court.
+(4) A notice of intention to remove an institution-affiliated party from office or to prohibit such party from participating in the conduct of the affairs of an insured depository institution, shall contain a statement of the facts constituting grounds therefor, and shall fix a time and place at which a hearing will be held thereon. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after the date of service of such notice, unless an earlier or a later date is set by the agency at the request of (A) such party, and for good cause shown, or (B) the Attorney General of the United States. Unless such party shall appear at the hearing in person or by a duly authorized representative, such party shall be deemed to have consented to the issuance of an order of such removal or prohibition. In the event of such consent, or if upon the record made at any such hearing the agency shall find that any of the grounds specified in such notice have been established, the agency may issue such orders of suspension or removal from office, or prohibition from participation in the conduct of the affairs of the depository institution, as it may deem appropriate. Any such order shall become effective at the expiration of thirty days after service upon such depository institution and such party concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein). Such order shall remain effective and enforceable except to such extent as it is stayed, modified, terminated, or set aside by action of the agency or a reviewing court.
 
 (5) For the purpose of enforcing any law, rule, regulation, or cease-and-desist order in connection with an interlocking relationship, the term "officer" within the term "institution-affiliated party" as used in this subsection means an employee or officer with management functions, and the term "director" within the term "institution-affiliated party" as used in this subsection includes an advisory or honorary director, a trustee of a depository institution under the control of trustees, or any person who has a representative or nominee serving in any such capacity.
 
@@ -352,11 +352,11 @@ Industrywide Prohibition.—
 
 &emsp;(A)
 
-In general.—Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (g) of this section, has been removed or suspended from office in an insured depository institution or prohibited from participating in the conduct of the affairs of an insured depository institution may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
+In general.—Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (g), has been removed or suspended from office in an insured depository institution or prohibited from participating in the conduct of the affairs of an insured depository institution may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
 
 &emsp;&emsp;(i) any insured depository institution;
 
-&emsp;&emsp;(ii) any institution treated as an insured bank under subsection (b)(3) or (b)(4) of this section, or as a savings association under subsection (b)(9) <sup>1</sup> of this section;
+&emsp;&emsp;(ii) any institution treated as an insured bank under subsection (b)(3) or (b)(4), or as a savings association under subsection (b)(9); <sup>1</sup>
 
 &emsp;&emsp;(iii) any insured credit union under the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\];
 
@@ -382,7 +382,7 @@ Violation of paragraph treated as violation of order.—Any violation of subpara
 
 &emsp;(D)
 
-"Appropriate federal financial institutions regulatory agency" defined.—For purposes of this paragraph and subsection (j) of this section, the term "appropriate Federal financial institutions regulatory agency" means—
+"Appropriate federal financial institutions regulatory agency" defined.—For purposes of this paragraph and subsection (j), the term "appropriate Federal financial institutions regulatory agency" means—
 
 &emsp;&emsp;(i) the appropriate Federal banking agency, in the case of an insured depository institution;
 
@@ -402,7 +402,7 @@ Applicability.—This paragraph shall only apply to a person who is an individua
 
 #### (f) Stay of suspension and/or prohibition of institution-affiliated party
 
-Within ten days after any institution-affiliated party has been suspended from office and/or prohibited from participation in the conduct ofthe affairs of an insured depository institution under subsection (e)(3) of this section, such party may apply to the United States district court for the judicial district in which the home office of the depository institution is located, or the United States District Court for the District of Columbia, for a stay of such suspension and/or prohibition pending the completion of the administrative proceedings pursuant to the notice served upon such party under subsection (e)(1) or (e)(2) of this section, and such court shall have jurisdiction to stay such suspension and/or prohibition.
+Within ten days after any institution-affiliated party has been suspended from office and/or prohibited from participation in the conduct of the affairs of an insured depository institution under subsection (e)(3) of this section, such party may apply to the United States district court for the judicial district in which the home office of the depository institution is located, or the United States District Court for the District of Columbia, for a stay of such suspension and/or prohibition pending the completion of the administrative proceedings pursuant to the notice served upon such party under subsection (e)(1) or (e)(2) of this section, and such court shall have jurisdiction to stay such suspension and/or prohibition.
 
 #### (g) Suspension, removal, and prohibition from participation orders in the case of certain criminal offenses
 
@@ -494,7 +494,7 @@ First tier.—Any insured depository institution which, and any institution-affi
 
 &emsp;&emsp;(i) violates any law or regulation;
 
-&emsp;&emsp;(ii) violates any final order or temporary order issued pursuant to subsection (b), (c), (e), (g), or (s) of this section or any final order under section 1831o or 1831p–1 of this title;
+&emsp;&emsp;(ii) violates any final order or temporary order issued pursuant to subsection (b), (c), (e), (g), or (s) or any final order under section 1831o or 1831p–1 of this title;
 
 &emsp;&emsp;(iii) violates any condition imposed in writing by a Federal banking agency in connection with any action on any application, notice, or other request by the depository institution or institution-affiliated party; or
 
@@ -604,7 +604,7 @@ Regulations.—Each appropriate Federal banking agency shall prescribe regulatio
 
 (3)
 
-Notice under this section after separation from service.—The resignation, termination of employment or participation, or separation of a institution-affiliated party (including a separation caused by the closing of an insured depository institution) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice or order and proceed under this section against any such party, if such notice or order is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such depository institution (whether such date occurs before, on, or after August 9, 1989).
+Notice under this section after separation from service.—The resignation, termination of employment or participation, or separation of a institution-affiliated party (including a separation caused by the closing of an insured depository institution) shall not affect the jurisdiction and authority of the appropriateFederal banking agency to issue any notice or order and proceed under this section against any such party, if such notice or order is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such depository institution (whether such date occurs before, on, or after August 9, 1989).
 
 (4)
 
@@ -632,11 +632,11 @@ State proceeding.—If, in the case of any proceeding in a State court, the cour
 
 #### (j) Criminal penalty
 
-Whoever, being subject to an order in effect under subsection (e) or (g) of this section, without the prior written approval of the appropriate Federal financial institutions regulatory agency, knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order or in subsection (e)(6) of this section) in the conduct of the affairs of—
+Whoever, being subject to an order in effect under subsection (e) or (g), without the prior written approval of the appropriate Federal financial institutions regulatory agency, knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order or in subsection (e)(6)) in the conduct of the affairs of—
 
 &emsp;(1) any insured depository institution;
 
-&emsp;(2) any institution treated as an insured bank under subsection (b)(3) or (b)(4) of this section;
+&emsp;(2) any institution treated as an insured bank under subsection (b)(3) or (b)(4);
 
 &emsp;(3) any insured credit union (as defined in section 101(7) of the Federal Credit Union Act \[12 U.S.C. 1752(7)\]); or
 
@@ -656,7 +656,7 @@ In connection with any proceeding under subsection (b), (c)(1), or (e) of this s
 
 #### (n) Ancillary provisions; subpena power, etc.
 
-In the course of or in connection with any proceeding under this section, or in connection with any claim for insured deposits or any examination or investigation under section 1820(c) of this title, the agency conducting the proceeding, examination, or investigation or considering the claim for insured deposits, or any member or designated representative thereof, including any person designated to conduct any hearing under this section, shall have the power to administer oaths and affirmations, to take or cause to be taken depositions, and to issue, revoke, quash, or modify subpenas and subpenas duces tecum; and such agency is empowered to make rules and regulations with respect to any such proceedings, claims, examinations, or investigations. The attendance of witnesses and the production of documents provided for in this subsection may be required from any place in any State or in any territory or other place subject to the jurisdiction of the United States at any designated place where such proceeding is being conducted. Any such agency or any party to proceedings under this section may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena or subpena duces tecum issued pursuant to this subsection, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this subsection shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an insured depository institution or a director or officer thereof, may allow to any such party such reasonable expenses and attorneys' fees as it deems just and proper; and such expenses and fees shall be paid by the depository institution or from its assets. Any person who willfully shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in such person's power so to do, in obedience to the subpoena of the appropriate Federal banking agency, shall be guilty of a misdemeanor and, upon conviction, shall be subject to a fine of not morethan $1,000 or to imprisonment for a term of not more than one year or both.
+In the course of or in connection with any proceeding under this section, or in connection with any claim for insured deposits or any examination or investigation under section 1820(c) of this title, the agency conducting the proceeding, examination, or investigation or considering the claim for insured deposits, or any member or designated representative thereof, including any person designated to conduct any hearing under this section, shall have the power to administer oaths and affirmations, to take or cause to be taken depositions, and to issue, revoke, quash, or modify subpenas and subpenas duces tecum; and such agency is empowered to make rules and regulations with respect to any such proceedings, claims, examinations, or investigations. The attendance of witnesses and the production of documents provided for in this subsection may be required from any place in any State or in any territory or other place subject to the jurisdiction of the United States at any designated place where such proceeding is being conducted. Any such agency or any party to proceedings under this section may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena or subpena duces tecum issued pursuant to this subsection, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this subsection shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an insured depository institutionor a director or officer thereof, may allow to any such party such reasonable expenses and attorneys' fees as it deems just and proper; and such expenses and fees shall be paid by the depository institution or from its assets. Any person who willfully shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in such person's power so to do, in obedience to the subpoena of the appropriate Federal banking agency, shall be guilty of a misdemeanor and, upon conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year or both.
 
 #### (o) Termination of membership of State bank in Federal Reserve System
 
@@ -682,7 +682,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 (3) In any case in which any action or proceeding is brought pursuant to an allegation under paragraph (2) of this subsection for the suspension or removal of any officer, director, or other person associated with a foreign bank, and such person fails to appear promptly as a party to such action or proceeding and to comply with any effective order or judgment therein, any failure by the foreign bank to secure his removal from any office he holds in such bank and from any further participation in its affairs shall, in and of itself, constitute grounds for termination of the insurance of the deposits in any branch of the bank.
 
-(4) Where the venue of any judicial or administrative proceeding under this section is to be determined by reference to the location of the home office of a bank, the venue of such a proceeding with respect to a foreign bank having one or more branches or agencies in not more than one judicial district or other relevant jurisdiction shall be within such jurisdiction. Where such a bank has branches or agencies in more than one such jurisdiction, the venue shall be in the jurisdiction within which the branch or branches or agency or agencies involved in the proceeding are located, and if there is more than one such jurisdiction, the venue shall be proper in any such jurisdiction in which the proceeding is brought or to which it may appropriately be transferred.
+(4) Where the venue of any judicial or administrative proceeding under this section is to be determined by reference to the location of the home office of a bank, the venue of such a proceeding with respect to a foreign bank having one or more branches or agencies in not more than one judicial district or other relevant jurisdiction shall be within such jurisdiction. Where such a bank has branches or agencies in more than one such jurisdiction, the venue shall be in the jurisdiction within which the branch orbranches or agency or agencies involved in the proceeding are located, and if there is more than one such jurisdiction, the venue shall be proper in any such jurisdiction in which the proceeding is brought or to which it may appropriately be transferred.
 
 (5) Any service required or authorized to be made on a foreign bank may be made on any branch or agency located within any State, but if such service is in connection with an action or proceeding involving one or more branches or one or more agencies located in any State, service shall be made on at least one branch or agency so involved.
 
@@ -710,7 +710,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 &emsp;&emsp;(B) has failed to correct any problem with the procedures maintained by such depository institution which was previously reported to the depository institution by such agency,
 
-> &emsp;the agency shall issue an order in the manner prescribed in subsection (b) or (c) of this section requiring such depository institution to cease and desist from its violation of this subsection or regulations prescribed under this subsection.
+> &emsp;the agency shall issue an order in the manner prescribed in subsection (b) or (c) requiring such depository institution to cease and desist from its violation of this subsection or regulations prescribed under this subsection.
 
 #### (t) Authority of FDIC to take enforcement action against insured depository institutions and institution-affiliated parties
 
@@ -746,7 +746,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 &emsp;&emsp;(A) the Corporation shall have the same powers with respect to any insured depository institution and its affiliates as the appropriate Federal banking agency has with respect to the institution and its affiliates; and
 
-&emsp;&emsp;(B) the institution and its affiliates shall have the same duties and obligations with respect to the Corporation as the institution and its affiliates have with respect to the appropriate Federal banking agency.
+&emsp;&emsp;(B) the institution and its affiliates shall have the same duties and obligations withrespect to the Corporation as the institution and its affiliates have with respect to the appropriate Federal banking agency.
 
 #### (5) Requests for formal actions and investigations
 
@@ -788,7 +788,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 #### (3) Transcript of hearing
 
-&emsp;A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (i) of this section. A transcript of public hearings shall be made available to the public pursuant to section 552 of title 5.
+&emsp;A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (i). A transcript of public hearings shall be made available to the public pursuant to section 552 of title 5.
 
 #### (4) Delay of publication under exceptional circumstances
 
@@ -820,7 +820,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 #### (A) In general
 
-&emsp;&emsp;Any appropriate Federal banking agency may, at the request of any foreign banking authority, assist such authority if such authority states that the requesting authority is conducting an investigation to determinewhether any person has violated, is violating, or is about to violate any law or regulation relating to banking matters or currency transactions administered or enforced by the requesting authority.
+&emsp;&emsp;Any appropriate Federal banking agency may, at the request of any foreign banking authority, assist such authority if such authority states that the requesting authority is conducting an investigation to determine whether any person has violated, is violating, or is about to violate any law or regulation relating to banking matters or currency transactions administered or enforced by the requesting authority.
 
 #### (B) Investigation by Federal banking agency
 
@@ -854,7 +854,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 #### (ii) Notice of termination; pretermination hearing
 
-&emsp;&emsp;&emsp;After receipt of written notification from the Attorney General by the Corporation of such a conviction, the Board of Directors shall issue to the insured depository institution a notice of its intention to terminate the insured status of the insured depository institution and schedule a hearing on the matter, which shall be conducted in all respects as a termination hearing pursuant to paragraphs (3) through (5) of subsection (a) of this section.
+&emsp;&emsp;&emsp;After receipt of written notification from the Attorney General by the Corporation of such a conviction, the Board of Directors shall issue to the insured depository institution a notice of its intention to terminate the insured status of the insured depository institution and schedule a hearing on the matter, which shall be conducted in all respects as a termination hearing pursuant to paragraphs (3) through (5) of subsection (a).
 
 #### (B) Conviction of title 31 offenses
 
@@ -888,7 +888,7 @@ Whenever the liabilities of an insured depository institution for deposits shall
 
 #### (4) Temporary insurance of previously insured deposits
 
-&emsp;Upon termination of the insured status of any State depository institution pursuant to paragraph (1), the deposits of such depository institution shall be treated in accordance with subsection (a)(7) of this section.
+&emsp;Upon termination of the insured status of any State depository institution pursuant to paragraph (1), the deposits of such depository institution shall be treated in accordance with subsection (a)(7).
 
 #### (5) Successor liability
 
@@ -932,7 +932,7 @@ Section is derived from subsec. (i) of former section 264 of this title. See Cod
 
 Subsec. (b)(3). Pub. L. 111–203, §363(3)(B), inserted "any savings and loan holding company and any subsidiary (other than a depository institution) of a savings and loan holding company (as such terms are defined in section 1467a of this title)), any noninsured State member bank" before "and to any organization" and "or against a savings and loan holding company or any subsidiary thereof (other than a depository institution or a subsidiary of such depository institution)" before the period at the end.
 
-Subsec. (b)(9). Pub. L. 111–203, §363(3)(C), substituted "\[Repealed\]" for heading and text. Text read as follows: "Subsections (a) through (s) of this section and subsection (u) of this section shall apply to any savings and loan holding company and to any subsidiary (other than a bank or subsidiary of that bank) of a savings and loan holding company,, \[sic\] whether wholly or partly owned, in the same manner as such subsections apply to a savings association."
+Subsec. (b)(9). Pub. L. 111–203, §363(3)(C), substituted "\[Repealed\]" for heading and text. Text read as follows: "Subsections (a) through (s) of this section and subsection (u) of this section shall apply to any savings and loan holding company and to any subsidiary (other than a bank or subsidiary of that bank) of a savingsand loan holding company,, \[sic\] whether wholly or partly owned, in the same manner as such subsections apply to a savings association."
 
 Subsec. (e)(7)(A)(v) to (vii). Pub. L. 111–203, §363(3)(D)(i), inserted "and" after the semicolon in cl. (v), substituted "Agency" for "Board" and a period at the end for "; and" in cl. (vi), and struck out cl. (vii) which read as follows: "the Resolution Trust Corporation."
 
@@ -1028,7 +1028,7 @@ Subsec. (w)(1)(B). Pub. L. 103–325, §411(c)(2)(A), substituted "section 5322 
 
 Subsec. (i)(4)(B). Pub. L. 103–204, §25(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "A permanent or temporary injunction or restraining order shall be granted without bond upon a prima facie showing that money damages, restitution, or civil money penalties, as sought by such agency, is appropriate."
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–550, §1503(a)(2), inserted "of this subsection or subsection (w) of this section" after "subparagraph (B)".
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–550, §1503(a)(2), inserted "of this subsection or subsection (w)" after "subparagraph (B)".
 
 Subsec. (e)(2). Pub. L. 102–550, §1504(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Whenever, in the opinion of the appropriate Federal banking agency, any director or officer of an insured depository institution has committed any violation of the Depository Institution Management Interlocks Act, the agency may serve upon such director or officer a written notice of its intention to remove him from office."
 
@@ -1038,7 +1038,7 @@ Subsec. (i)(1). Pub. L. 102–550, §1603(d)(3), inserted reference to section 1
 
 Pub. L. 102–550, §1603(d)(2), amended directory language of Pub. L. 102–242, §131(c)(2)(A). See 1991 Amendment note below.
 
-Subsec. (i)(2)(A)(ii). Pub. L. 102–550, §1603(d)(4), substituted "subsection (b), (c), (e), (g), or (s) of this section or any final order under section 1831o or 1831p–1 of this title" for "subsection (b), (c), (e), (g), or (s) of this section, or final order under section 1831o of this title".
+Subsec. (i)(2)(A)(ii). Pub. L. 102–550, §1603(d)(4), substituted "subsection (b), (c), (e), (g), or (s) or any final order under section 1831o or 1831p–1 of this title" for "subsection (b), (c), (e), (g), or (s) of this section, or final order under section 1831o of this title".
 
 Subsec. (q). Pub. L. 102–558, §303(b)(6)(A), amended directory language of Pub. L. 102–242, §302(e). See 1991 amendment note below. Pub. L. 102–550, §1605(a)(5)(A), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out in a Repeal of Duplicative Provisions note under section 1815 of this title.
 
@@ -1090,7 +1090,7 @@ Subsec. (v). Pub. L. 101–647, §2532(a), added subsec. (v).
 
 Subsec. (a). Pub. L. 101–73, §926(1), inserted heading.
 
-Subsec. (a)(1) to (3). Pub. L. 101–73, §926(1), added pars. (1) to (3) and struck out first four sentences which read as follows: "Any insured bank (except a national member bank, a foreign bank having an insured branch which is a Federal branch, a foreign bank having an insured branch which is required to be insured under section 3104(a) or (b) of this title, or State member bank) may, upon not less than ninety days' written notice to the Corporation, terminate its status as an insured bank. Whenever the Board of Directors shall find that an insured bank or its directors or trustees have engaged or are engaging in unsafe or unsound practices in conducting the business of such bank, or is in an unsafe or unsound condition to continue operations as an insured bank, or violated an applicable law, rule, regulation or order, or any condition imposed in writing by the Corporation in connection with the granting of any application or other request by the bank, or any written agreement entered into with the Corporation the Board of Directors shall first give to the Comptroller ofthe Currency in the case of a national bank or a district bank, to the Federal Home Loan Bank Board in the case of an insured Federal savings bank, to the authority having supervision of the bank in the case of a State bank, and to the Board of Governors of the Federal Reserve System in the case of a State member bank, a statement with respect to such practices or violations for the purpose of securing the correction thereof and shall give a copy thereof to the bank. Unless such correction shall be made within one hundred and twenty days, or such shorter period not less than twenty days fixed by the Corporation in any case where the Board of Directors in its discretion has determined that the insurance risk of the Corporation is unduly jeopardized, or fixed by the Comptroller of the Currency in the case of a national bank, or the Federal Home Loan Bank Board in the case of an insured Federal savings bank, or the State authority in the case of a State bank, or Board of Governors of the Federal Reserve System in the case of a State member bank as the case may be, the Board of Directors, if it shall determine to proceed further, shall give to the bank not less than thirty days' written notice of intention to terminate the status of the bank as an insured bank, and shall fix a time and place for a hearing before the Board of Directors or before a person designated by it to conduct such hearing, at which evidence may be produced, and upon such evidence the Board of Directors shall make written findings which shall be conclusive. If the Board of Directors shall find that any unsafe or unsound practice or condition or violation specified in such statement has been established and has not been corrected within the time above prescribed in which to make such corrections, the Board of Directors may order that the insured status of the bank be terminated on a date subsequent to such finding and to the expiration of the time specified in such notice of intention."
+Subsec. (a)(1) to (3). Pub. L. 101–73, §926(1), added pars. (1) to (3) and struck out first four sentences which read as follows: "Any insured bank (except a national member bank, a foreign bank having an insured branch which is a Federal branch, a foreign bank having an insured branch which is required to be insured under section 3104(a) or (b) of this title, or State member bank) may, upon not less than ninety days' written notice to the Corporation, terminate its status as an insured bank. Whenever the Board of Directors shall find that an insured bank or its directors or trustees have engaged or are engaging in unsafe or unsound practices in conducting the business of such bank, or is in an unsafe or unsound condition to continue operations as an insured bank, or violated an applicable law, rule, regulation or order, or any condition imposed in writing by the Corporation in connection with the granting of any application or other request by the bank, or any written agreement entered into with the Corporation the Board of Directors shall first give to the Comptroller of the Currency in the case of a national bank or a district bank, to the Federal Home Loan Bank Board in the case of an insured Federal savings bank, to the authority having supervision of the bank in the case of a State bank, and to the Board of Governors of the Federal Reserve System in the case of a State member bank, a statement with respect to such practices or violations for the purpose of securing the correction thereof and shall give a copy thereof to the bank. Unless such correction shall be made within one hundred and twenty days, or such shorter period not less than twenty days fixed by the Corporation in any case where the Board of Directors in its discretion has determined that the insurance risk of the Corporation is unduly jeopardized, or fixed by the Comptroller of the Currency in the case of a national bank, or the Federal Home Loan Bank Board in the case of an insured Federal savings bank, or the State authority in the case of a State bank, or Board of Governors of the Federal Reserve System in the case of a State member bank as the case may be, the Board of Directors, if it shall determine to proceed further, shall give to the bank not less than thirty days' written notice of intention to terminate the status of the bank as an insured bank, and shall fix a time and place for a hearing before the Board of Directors or before a person designated by it to conduct such hearing, at which evidence may be produced, and upon such evidence the Board of Directors shall make written findings which shall be conclusive. If the Board of Directors shall find that any unsafe or unsound practice or condition or violation specified in such statement has been established and has not been corrected within the time above prescribed in which to make such corrections, the Board of Directors may order that the insured status of the bank be terminated on a date subsequent to such finding and to the expiration of the time specified in such notice of intention."
 
 Subsec. (a)(4). Pub. L. 101–73, §926(2), designated fifth sentence as par. (4) and inserted heading.
 
@@ -1122,7 +1122,7 @@ Subsec. (b)(4). Pub. L. 101–73, §902(a)(1)(B), which directed the substitutio
 
 Subsec. (b)(6) to (8). Pub. L. 101–73, §902(a)(1)(C), added pars. (6) to (8).
 
-Subsec. (c)(1). Pub. L. 101–73, §902(a)(2)(A), substituted "insolvency or significant dissipation" for "insolvency or substantial dissipation", struck out "seriously" before "weaken the condition of" and before "prejudice the interests of", and inserted after first sentence "Such order may include any requirement authorized under subsection (b)(6)(B) of this section".
+Subsec. (c)(1). Pub. L. 101–73, §902(a)(2)(A), substituted "insolvency or significant dissipation" for "insolvency or substantial dissipation", struck out "seriously" before "weaken the condition of" and before "prejudice the interests of", and inserted after first sentence "Such order may include any requirement authorized under subsection (b)(6)(B)".
 
 Pub. L. 101–73, §901(d), substituted "depository institution" for "bank" wherever appearing.
 
@@ -1142,7 +1142,7 @@ Subsec. (e)(2). Pub. L. 101–73, §903(a)(2), redesignated par. (3) as (2) and 
 
 Subsec. (e)(3). Pub. L. 101–73, §903(a)(2), added par. (3). Former par. (3) redesignated (2).
 
-Subsec. (e)(4). Pub. L. 101–73, §903(a)(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "In respect to any director or officer of an insured bank or any other person referred to in paragraph (1), (2), or (3) of this subsection, the appropriate Federal banking agency may, if it deems it necessary for the protection of the bank or the interests of its depositors, by written notice to such effect served upon such director, officer, or other person, suspend him from office or prohibit him from further participation in any manner in the conduct of the affairs of the bank. Such suspension or prohibition shall become effective upon service of such notice and, unless stayed by a court in proceedings authorized by subsection (f) of thissection, shall remain in effect pending the completion of the administrative proceedings pursuant to the notice served under paragraph (1), (2), or (3) of this subsection and until such time as the agency shall dismiss the charges specified in such notice, or, if an order of removal or prohibition is issued against the director or officer or other person, until the effective date of any such order. Copies of any such notice shall also be served upon the bank of which he is a director or officer or in the conduct of whose affairs he has participated."
+Subsec. (e)(4). Pub. L. 101–73, §903(a)(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "In respect to any director or officer of an insured bank or any other person referred to in paragraph (1), (2), or (3) of this subsection, the appropriate Federal banking agency may, if it deems it necessary for the protection of the bank or the interests of its depositors, by written notice to such effect served upon such director, officer, or other person, suspend him from office or prohibit him from further participation in any manner in the conduct of the affairs of the bank. Such suspension or prohibition shall become effective upon service of such notice and, unless stayed by a court in proceedings authorized by subsection (f) of this section, shall remain in effect pending the completion of the administrative proceedings pursuant to the notice served under paragraph (1), (2), or (3) of this subsection and until such time as the agency shall dismiss the charges specified in such notice, or, if an order of removal or prohibition is issued against the director or officer or other person, until the effective date of any such order. Copies of any such notice shall also be served upon the bank of which he is a director or officer or in the conduct of whose affairs he has participated."
 
 Pub. L. 101–73, §901(b)(1)(C), substituted references to institution-affiliated parties for references to directors, officers, or other persons.
 
@@ -1346,11 +1346,11 @@ Pub. L. 101–73, title IX, §916, Aug. 9, 1989, 103 Stat. 486, provided that be
 
 #### Task Force Study of Delegation of Enforcement Actions
 
-Pub. L. 101–73, title IX, §917, Aug. 9, 1989, 103 Stat. 487, directed appropriate Federal banking agencies (as defined in section 1813(q) of this title and National Credit Union Administration Board to create a joint task force to study desirability and feasibility of delegating investigation and enforcement authority to their regional or district offices or banks, provided for composition of task force, and required that not later than Sept. 30, 1990, task force report to Congress its findings and recommendations, together with responses of Comptroller of the Currency, Director of Office of Thrift Supervision, Chairperson of Federal Deposit Insurance Corporation, Chairman of Board of Governors of Federal Reserve System, and Chairman of National Credit Union Administration.
+Pub. L. 101–73, title IX, §917, Aug. 9, 1989, 103 Stat. 487, directed appropriate Federal banking agencies (as defined in section 1813(q) of this title and National CreditUnion Administration Board to create a joint task force to study desirability and feasibility of delegating investigation and enforcement authority to their regional or district offices or banks, provided for composition of task force, and required that not later than Sept. 30, 1990, task force report to Congress its findings and recommendations, together with responses of Comptroller of the Currency, Director of Office of Thrift Supervision, Chairperson of Federal Deposit Insurance Corporation, Chairman of Board of Governors of Federal Reserve System, and Chairman of National Credit Union Administration.
 
 #### Credit Standards Advisory Committee
 
-Pub. L. 101–73, title XII, §1205, Aug. 9, 1989, 103 Stat. 521, as amended by Pub. L. 102–242, title IV, §422, Dec.19, 1991, 105 Stat. 2377; Pub. L. 111–203, title III, §367(7), July 21, 2010, 124 Stat. 1557, provided that:
+Pub. L. 101–73, title XII, §1205, Aug. 9, 1989, 103 Stat. 521, as amended by Pub. L. 102–242, title IV, §422, Dec. 19, 1991, 105 Stat. 2377; Pub. L. 111–203, title III, §367(7), July 21, 2010, 124 Stat. 1557, provided that:
 
 "(a)
 

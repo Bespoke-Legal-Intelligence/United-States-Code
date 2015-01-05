@@ -4,13 +4,13 @@ As used in this subchapter—
 
 (1) "Areawide development" means all projects or programs for the acquisition, use, and development of open-space land; and the planning and construction of hospitals, libraries, airports, water supply and distribution facilities, sewerage facilities and waste treatment works, transportation facilities, highways, water development and land conservation, and other public works facilities.
 
-(2) "Areawide development project" means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460l–8(e)\]; or under section 101(a)(1) <sup>1</sup> of the Public Works and Economic Development Act of 1965 (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
+(2) "Areawide development project" means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 200305(e) of title 54; or under section 101(a)(1) <sup>1</sup> of the Public Works and Economic Development Act of 1965 (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
 
 (3) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or an agency or instrumentality of any of the foregoing.
 
 (4) "Metropolitan area" means a standard metropolitan statistical area as established by the Office of Management and Budget, subject however to such modifications and extensions as the Secretary may determine to be appropriate for the purposes of this subchapter.
 
-(5) "Comprehensive planning" includes the following, to the extent directly related to area needs or needs of a unit of general local government: (A) preparation, as a guide for long-range development, of general physical plans with respect to the pattern and intensity of land use and the provision of public facilities, including transportation facilities; (B) programing of capital improvements based on a determination of relative urgency; (C) long-range fiscal plans for implementing such plans and programs; and (D) proposed regulatory and administrative measures which aid in achieving coordination of all related plans of the departments or subdivisions of the governments concerned and intergovernmental coordination of related planned activities among the State and local governmental agencies concerned.
+(5) "Comprehensive planning" includes the following, to the extent directly related to area needs or needs of a unit of general local government: (A) preparation, as a guide for long-rangedevelopment, of general physical plans with respect to the pattern and intensity of land use and the provision of public facilities, including transportation facilities; (B) programing of capital improvements based on a determination of relative urgency; (C) long-range fiscal plans for implementing such plans and programs; and (D) proposed regulatory and administrative measures which aid in achieving coordination of all related plans of the departments or subdivisions of the governments concerned and intergovernmental coordination of related planned activities among the State and local governmental agencies concerned.
 
 (6) "Hospital" means any public health center or general, tuberculosis, mental, chronic disease, or other type of hospital and related facilities, such as laboratories, outpatient departments, nurses' home and training facilities, and central service facilities normally operated in connection with hospitals, but does not include any hospital furnishing primarily domiciliary care.
 
@@ -22,7 +22,7 @@ As used in this subchapter—
 
 (10) "Secretary" means the Secretary of Housing and Urban Development.
 
-(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub.L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
+(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 113–287, §5(k)(2), Dec. 19, 2014, 128 Stat. 3269.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ Section 701 of the Housing Act of 1954, referred to in par. (7), is section 701 
 In par. (2), "section 5309 of title 49" substituted for "section 3 of the Federal Transit Act \[49 App. U.S.C. 1602\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+<b>2014</b>—Par. (2). Pub. L. 113–287, which directed substitution of "section 200305(e) of title 54" for "section 5(e) of the Land And Water Conservation Fund Act of 1965", was executed by making the substitution for "section 5(e) of the Land and Water Conservation Fund Act of 1965" to reflect the probable intent of Congress.
 
 <b>1996</b>—Par. (2). Pub. L. 104–208 struck out "title II of the Library Services and Construction Act;" before "section 606 of the Public Health Service Act".
 

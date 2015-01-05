@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established in the Treasury of the United States a trust fund to be known as the"Black Lung Disability Trust Fund", consisting of such amounts as may be appropriated or credited to the Black Lung Disability Trust Fund.
+&emsp;There is established in the Treasury of the United States a trust fund to be known as the "Black Lung Disability Trust Fund", consisting of such amounts as may be appropriated or credited to the Black Lung Disability Trust Fund.
 
 #### (2) Trustees
 
@@ -102,7 +102,7 @@ Pub. L. 97–119, title I, §103(d)(2), Dec. 29, 1981, 95 Stat. 1639, provided t
 
 #### Restructuring of Trust Fund Debt
 
-Pub. L. 110–343, div. B, title I, §113(b), Oct. 3, 2008, 122 Stat. 3825, provided that:
+Pub. L. 110–343, div. B, title I, §113(b), Oct. 3, 2008, 122 Stat. 3825, as amended by Pub. L. 113–295, div. A, title II, §210(b), Dec. 19, 2014, 128 Stat. 4031, provided that:
 
 "(1)
 
@@ -127,6 +127,10 @@ Treasury rate.—The term 'Treasury rate' means a rate determined by the Secreta
 &emsp;"(E)
 
 Treasury 1-year rate.—The term 'Treasury 1-year rate' means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States with remaining periods to maturity of approximately 1 year, to have been in effect as of the close of business 1 business day prior to the date on which the Trust Fund issues obligations to the Secretary of the Treasury under paragraph (2)(B).
+
+&emsp;"(F)
+
+Trust fund.—The term 'Trust Fund' means the Black Lung Disability Trust Fund established under section 9501 of the Internal Revenue Code of 1986.
 
 "(2)
 
@@ -162,9 +166,13 @@ Prepayment of trust fund obligations.—The Trust Fund is authorized to repay an
 
 #### Funds to Remain Available
 
-Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: "In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund ('Fund'), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act."
+Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: "In fiscal year 2009 andthereafter, such sums as may be necessary from the Black Lung Disability Trust Fund ('Fund'), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. G, title I, Dec. 16, 2014, 128 Stat. 2458.
+
+Pub. L. 113–76, div. H, title I, Jan. 17, 2014, 128 Stat. 355.
 
 Pub. L. 112–74, div. F, title I, Dec. 23, 2011, 125 Stat. 1058.
 

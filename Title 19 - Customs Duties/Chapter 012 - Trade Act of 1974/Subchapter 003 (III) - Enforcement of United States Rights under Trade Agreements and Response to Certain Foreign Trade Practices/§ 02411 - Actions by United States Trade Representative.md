@@ -8,7 +8,7 @@
 
 &emsp;(B) an act, policy, or practice of a foreign country—
 
-&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits tothe United States under, any trade agreement, or
+&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or
 
 &emsp;&emsp;(ii) is unjustifiable and burdens or restricts United States commerce;
 
@@ -208,7 +208,7 @@ Subsec. (d)(3)(F). Pub. L. 103–465, §314(c)(2), added subpar. (F).
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to actions by United States Trade Representative for provisions relating to determinations and action by President.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights ofthe United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
 
 Subsec. (b)(1). Pub. L. 98–573, §304(b)(1), struck out "and" at end.
 
@@ -274,7 +274,7 @@ Sec. 2. <i>Rationale</i>: (a) This order finds that:
 
 (6) an effective United States response to the crisis must also focus on the development of HIV/AIDS vaccines to prevent the spread of the disease;
 
-(7) the innovative capacity of the United States in the commercial and public pharmaceutical research sectors is unmatched in the world, and the participation of both these sectors will be a critical element in any successful program to respond to the HIV/AIDS crisis in sub-Saharan Africa;
+(7) the innovative capacity of the United States in the commercial and public pharmaceutical researchsectors is unmatched in the world, and the participation of both these sectors will be a critical element in any successful program to respond to the HIV/AIDS crisis in sub-Saharan Africa;
 
 (8) the TRIPS Agreement recognizes the importance of promoting effective and adequate protection of intellectual property rights and the right of countries to adopt measures necessary to protect public health;
 

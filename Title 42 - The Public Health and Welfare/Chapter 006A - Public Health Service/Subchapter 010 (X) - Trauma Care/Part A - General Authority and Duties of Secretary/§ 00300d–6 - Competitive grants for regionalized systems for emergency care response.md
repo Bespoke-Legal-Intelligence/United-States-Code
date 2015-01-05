@@ -62,7 +62,7 @@ The Secretary shall award a contract or grant under subsection (a) to an eligibl
 
 &emsp;&emsp;&emsp;(iv) includes a categorization or designation system for special medical facilities throughout the region that is integrated with transport and destination protocols;
 
-&emsp;&emsp;&emsp;(v) includes a regional medical direction, patient tracking, and resource allocation system that supports day-to-day emergency care and surge capacity and is integrated with other components of the national and State emergency preparedness system; and
+&emsp;&emsp;&emsp;(v) includes a regional medical direction, patient tracking, and resource allocationsystem that supports day-to-day emergency care and surge capacity and is integrated with other components of the national and State emergency preparedness system; and
 
 &emsp;&emsp;&emsp;(vi) addresses pediatric concerns related to integration, planning, preparedness, and coordination of emergency medical services for infants, children and adolescents; and
 

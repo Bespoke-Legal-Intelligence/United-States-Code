@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) a person may sell or label an agricultural product as organically produced only if such product is produced and handled in accordance with this chapter; and
 
-&emsp;&emsp;(B) no person may affix a label to, or provide other market information concerning, an agricultural product if such label or information implies, directly or indirectly, that such product is produced and handled using organic methods, except in accordance with this chapter.
+&emsp;&emsp;(B) no person may affix a label to, or provide other market information concerning, an agricultural product if such label or information implies, directly or indirectly, that such product is produced and handledusing organic methods, except in accordance with this chapter.
 
 #### (2) USDA standards and seal
 
@@ -20,7 +20,7 @@ Imported agricultural products may be sold or labeled as organically produced if
 
 #### (c) Exemptions for processed food
 
-Subsection (a) of this section shall not apply to agricultural products that—
+Subsection (a) shall not apply to agricultural products that—
 
 &emsp;(1) contain at least 50 percent organically produced ingredients by weight, excluding water and salt, to the extent that the Secretary, in consultation with the National Organic Standards Board and the Secretary of Health and Human Services, has determined to permit the word "organic" to be used on the principal display panel of such products only for the purpose of describing the organically produced ingredients; or
 
@@ -28,7 +28,7 @@ Subsection (a) of this section shall not apply to agricultural products that—
 
 #### (d) Small farmer exemption
 
-Subsection (a)(1) of this section shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.
+Subsection (a)(1) shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.
 
 (Pub. L. 101–624, title XXI, §2106, Nov. 28, 1990, 104 Stat. 3937.)
 

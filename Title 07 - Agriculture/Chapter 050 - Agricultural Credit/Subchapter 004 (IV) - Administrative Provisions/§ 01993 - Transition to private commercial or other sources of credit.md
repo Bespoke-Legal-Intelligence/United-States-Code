@@ -26,7 +26,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 1993, Pub. L. 87–128, title III, §345, as added Pub. L. 94–68, §9, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 103–437, §4(a)(7), Nov. 2, 1994, 108 Stat. 4582, related to testimony by Secretary of Agriculture beforecongressional committees, prior to repeal by Pub. L. 104–127, title VII, §750, Apr. 4, 1996, 110 Stat. 1129.
+A prior section 1993, Pub. L. 87–128, title III, §345, as added Pub. L. 94–68, §9, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 103–437, §4(a)(7), Nov. 2, 1994, 108 Stat. 4582, related to testimony by Secretary of Agriculture before congressional committees, prior to repeal by Pub. L. 104–127, title VII, §750, Apr. 4, 1996, 110 Stat. 1129.
 
 #### Effective Date
 

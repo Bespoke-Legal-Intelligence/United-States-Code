@@ -148,7 +148,7 @@ Pub. L. 106–501, §1, Nov. 13, 2000, 114 Stat. 2226, provided that: "This Act 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: "This Act \[see Tables for classification\] may be cited as the 'Older Americans Act Technical Amendments of 1993'."
+Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: "This Act \[see Tables for classification\] may becited as the 'Older Americans Act Technical Amendments of 1993'."
 
 #### Short Title of 1992 Amendment
 
@@ -156,7 +156,7 @@ Pub. L. 102–375, §1(a), Sept. 30, 1992, 106 Stat. 1195, provided that: "This 
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–175, §1, Nov. 29, 1987, 101 Stat. 926, provided that: "This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a,3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the 'Older Americans Act Amendments of 1987'."
+Pub. L. 100–175, §1, Nov. 29, 1987, 101 Stat. 926, provided that: "This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the 'Older Americans Act Amendments of 1987'."
 
 #### Short Title of 1986 Amendment
 
@@ -580,7 +580,7 @@ Duties.—The Secretary shall, in carrying out the Secretary's responsibilities 
 
 &emsp;"(1) the agenda prepared under subsection (a)(3) for the Conference is published in the Federal Register not later than 30 days after such agenda is approved by the Policy Committee, and the Secretary may republish such agenda together with the recommendations of the Secretary regarding such agenda, and
 
-&emsp;"(2) the personnel engaged under subsection (a)(5) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities, \[and\]
+&emsp;"(2) the personnel engaged under subsection (a)(5) shall be fairly balanced in terms of points of views represented and shall be appointed without regard topolitical affiliation or previous partisan activities, \[and\]
 
 &emsp;"(3) the recommendations of the Conference are not inappropriately influenced by any appointing authority or by any special interest, but will instead be the result of the independent judgment of the Conference, and
 
@@ -694,7 +694,7 @@ Final Report.—Not later than 6 months after the date on which the Conference a
 
 &emsp;"(4) the term 'Conference' means the White House Conference on Aging, and
 
-&emsp;"(5) the term 'State' means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
+&emsp;"(5) the term 'State' means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the VirginIslands of the United States, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
 
 #### "SEC. 206. AUTHORIZATION OF APPROPRIATIONS.
 

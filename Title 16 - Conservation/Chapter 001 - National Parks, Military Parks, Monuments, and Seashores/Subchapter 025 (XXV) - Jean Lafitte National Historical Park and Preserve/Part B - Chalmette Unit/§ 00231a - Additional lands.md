@@ -2,7 +2,7 @@
 
 Upon the vesting of title in the United States to such additional lands as may be designated by the Secretary of the Interior as necessary and desirable for the purposes of the Chalmette Unit of the Jean Lafitte National Historical Park and Preserve, such lands shall become a part of the said Unit and shall be subject to all laws, rules, and regulations applicable thereto: <i>Provided, however</i>, That the total area included within the said Unit and any enlargement thereof shall not exceed five hundred acres.
 
-(Aug. 10, 1939, ch. 640, §2, 53 Stat. 1342; Pub. L. 95–625, title IX, §909, Nov. 10, 1978, 92 Stat. 3538; Pub. L. 111–11, title VII, §7105(f)(1)(B), Mar. 30, 2009, 123 Stat. 1193.)
+(Aug. 10, 1939, ch. 640, §2, 53 Stat. 1342; Pub. L. 95–625, title IX, §909, Nov. 10, 1978, 92 Stat. 3538;Pub. L. 111–11, title VII, §7105(f)(1)(B), Mar. 30, 2009, 123 Stat. 1193.)
 
 #### Change of Name
 

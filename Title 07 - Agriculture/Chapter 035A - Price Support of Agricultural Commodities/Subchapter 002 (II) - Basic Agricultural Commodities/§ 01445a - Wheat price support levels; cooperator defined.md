@@ -6,7 +6,7 @@ Notwithstanding the provisions of section 1441 of this title, beginning with the
 
 &emsp;(2) Price support for wheat accompanied by export certificates shall be at such level not more than 90 per centum of the parity price therefor as the Secretary determines appropriate, taking into consideration the factors specified in section 1421(b) of this title.
 
-&emsp;(3) Price support for wheat not accompanied by marketing certificates shall be at such level, not in excess of 90 per centum of the parity price therefor, as the Secretary determines appropriate, taking into consideration competitive world prices of wheat, the feeding value of wheat in relation to feed grains, and the level at which price support is made available for feed grains.
+&emsp;(3) Price support for wheat not accompanied by marketing certificates shall be at such level, not in excess of 90 per centum of the parity price therefor, as the Secretary determinesappropriate, taking into consideration competitive world prices of wheat, the feeding value of wheat in relation to feed grains, and the level at which price support is made available for feed grains.
 
 &emsp;(4) Price support shall be made available only to cooperators: and, if a commercial wheat-producing area is established for such crop, price support shall be made available only in the commercial wheat-producing area.
 
@@ -59,6 +59,10 @@ Pub. L. 91–524, title IV, §401, Nov. 30, 1970, 84 Stat. 1362, as amended by P
 Pub. L. 89–321, title V, §506, Nov. 3, 1965, 79 Stat. 1203, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 506 is effective only with respect to the 1966 through 1970 crops.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(4) of this title.
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(4) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(4) of this title.
 

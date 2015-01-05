@@ -66,7 +66,7 @@
 
 #### (D) Limitation on loss of tax exemption
 
-&emsp;&emsp;In applying subparagraph (A)(ii) with respect to capital expenditures made after the date of any issue, no bond issued as a part of such issue shall cease to be treated as a qualified small issue bond by reason of any such expenditure for any period before the date on which such expenditure is paid or incurred.
+&emsp;&emsp;In applying subparagraph (A)(ii) with respect to capital expenditures made after the date of any issue, no bond issued as a part of such issue shall cease to be treated as a qualified small issue bond by reason of any such expenditure for any period before thedate on which such expenditure is paid or incurred.
 
 #### (E) Certain refinancing issues
 
@@ -110,7 +110,7 @@
 
 &emsp;This subsection shall not apply to an issue if—
 
-&emsp;&emsp;(A) more than 25 percent of the net proceeds of the issue are to be used to provide a facility the primary purpose of which isone of the following: retail food and beverage services, automobile sales or service, or the provision of recreation or entertainment; or
+&emsp;&emsp;(A) more than 25 percent of the net proceeds of the issue are to be used to provide a facility the primary purpose of which is one of the following: retail food and beverage services, automobile sales or service, or the provision of recreation or entertainment; or
 
 &emsp;&emsp;(B) any portion of the proceeds of the issue is to be used to provide the following: any private or commercial golf course, country club, massage parlor, tennis club, skating facility (including roller skating, skateboard, and ice skating), racquet sports facility (including any handball or racquetball court), hot tub facility, suntan facility, or racetrack.
 

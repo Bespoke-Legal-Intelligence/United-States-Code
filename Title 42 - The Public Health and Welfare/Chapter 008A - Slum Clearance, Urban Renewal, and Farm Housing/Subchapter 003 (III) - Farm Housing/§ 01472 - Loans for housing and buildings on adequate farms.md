@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(II) transfers ownership of any structural improvements located on such leased parcels to the lessees; and
 
-&emsp;&emsp;(III) retains a preemptive option to purchase any such structural improvement at aprice determined by formula that is designed to ensure that the improvement remains affordable to low- and moderate-income families in perpetuity; and
+&emsp;&emsp;(III) retains a preemptive option to purchase any such structural improvement at a price determined by formula that is designed to ensure that the improvement remains affordable to low- and moderate-income families in perpetuity; and
 
 &emsp;(iv) that has its corporate membership open to any adult resident of a particular geographic area specified in the bylaws of the organization.
 
@@ -128,7 +128,7 @@ Financing of sale.—To facilitate the sale described in subparagraph (A), the S
 
 (D)
 
-Rent limitation and assistance.—The Secretary shall, to the extent provided in appropriation Acts, provide to each nonprofit organization or public agency purchasing housing andrelated facilities under this paragraph financial assistance (in the form of monthly payments or forgiveness of debt) in an amount necessary to ensure that the monthly rent payment made by each low income family or person residing in the housing does not exceed the maximum rent permitted under section 1490a(a)(2)(A) of this title or, in the case of housing assisted under section 1490a(a)(5) of this title, does not exceed the rents established for the project under such section.
+Rent limitation and assistance.—The Secretary shall, to the extent provided in appropriation Acts, provide to each nonprofit organization or public agency purchasing housing and related facilities under this paragraph financial assistance (in the form of monthly payments or forgiveness of debt) in an amount necessary to ensure that the monthly rent payment made by each low income family or person residing in the housing does not exceed the maximum rent permitted under section 1490a(a)(2)(A) of this title or, in the case of housing assisted under section 1490a(a)(5) of this title, does not exceed the rents established for the project under such section.
 
 (E)
 
@@ -226,7 +226,7 @@ On and after November 30, 1983—
 
 #### (1) Loan supplements
 
-&emsp;The Secretary may supplement any loan under this section to finance housing located in a remote rural area or on tribal allotted or Indian trust land with a grant in an amount not greater than the amount by which the reasonable land acquisition and construction costs of the security property exceeds the appraised value of such property.
+&emsp;The Secretary may supplement any loan under this section to finance housing located in a remote rural area or on tribal allotted orIndian trust land with a grant in an amount not greater than the amount by which the reasonable land acquisition and construction costs of the security property exceeds the appraised value of such property.
 
 #### (2) Prohibition
 
@@ -262,7 +262,7 @@ On and after November 30, 1983—
 
 #### (4) Eligible housing
 
-&emsp;Loans may be guaranteed pursuant to this subsection only if the loan is used to acquireor construct a single-family residence that is—
+&emsp;Loans may be guaranteed pursuant to this subsection only if the loan is used to acquire or construct a single-family residence that is—
 
 &emsp;&emsp;(A) to be used as the principal residence of the borrower;
 
@@ -362,7 +362,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;&emsp;(II) the mortgagee has modified the mortgage or qualified the mortgage for modification sufficient to cure the default and provide for mortgage payments the mortgagor is reasonably able to pay, at interest rates not exceeding current market interest rates; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that the Secretary has determined to be in the best interests of the appropriate guaranty fund.
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that theSecretary has determined to be in the best interests of the appropriate guaranty fund.
 
 #### (C) Payment of guaranty
 
@@ -494,7 +494,7 @@ Subsec. (c)(4)(B)(iii). Pub. L. 105–276, §599C(e)(2)(A)(iii), was executed by
 
 Subsec. (c)(4)(B)(v). Pub. L. 105–276, §599C(e)(2)(A)(iv), inserted before period at end ", or current tenants of projects not assisted under section 1490a(a)(5) of this title".
 
-Subsec. (c)(5)(C)(iii). Pub. L. 105–276, §599C(e)(2)(A)(v), struck out comma after "1490a(a)(2)(A) of this title" and inserted "or any assistance payments received under section 1490a(a)(5) of this title," before "with respect".
+Subsec. (c)(5)(C)(iii). Pub. L. 105–276, §599C(e)(2)(A)(v), struck out comma after "1490a(a)(2)(A) of this title" and inserted "or any assistance payments receivedunder section 1490a(a)(5) of this title," before "with respect".
 
 Subsec. (c)(5)(D). Pub. L. 105–276, §599C(e)(2)(A)(vi), inserted before period at end "or, in the case of housing assisted under section 1490a(a)(5) of this title, does not exceed the rents established for the project under such section".
 
@@ -540,7 +540,7 @@ Subsec. (c)(5). Pub. L. 100–242, §241, added par. (5).
 
 Subsec. (c)(5)(B)(iii). Pub. L. 100–628, §1028(b), added cl. (iii).
 
-Subsec. (c)(5)(I). Pub. L. 100–628, §1028(c), substituted "Definitions" for "Definition" in heading and amendedtext generally. Prior to amendment, text read as follows: "For purposes of this paragraph, the term 'nonprofit organization' means any private organization—
+Subsec. (c)(5)(I). Pub. L. 100–628, §1028(c), substituted "Definitions" for "Definition" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of this paragraph, the term 'nonprofit organization' means any private organization—
 
 &emsp;"(i) no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual; and
 
@@ -688,7 +688,7 @@ Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, as amended by Pub. L. 100–122, §2(d), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987,101 Stat. 1327, provided that: "The limitations on loan prepayments contained in section 634 of the Agriculture, Rural Development, and Related Agencies Appropriations Act, 1987 \[section 101(a) \[title VI, §634\] of Pub. L. 99–500 and 99–591, set out below\] shall remain in effect through March 15, 1988."
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, as amended by Pub. L. 100–122, §2(d), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that: "The limitations on loan prepayments contained in section 634 of the Agriculture, Rural Development, and Related Agencies Appropriations Act, 1987 \[section 101(a) \[title VI, §634\] of Pub. L. 99–500 and 99–591, set out below\] shall remain in effect through March 15, 1988."
 
 Pub. L. 99–500, §101(a) \[title VI, §634\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §634\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: "Notwithstanding any other provision of law, including section 502(c)(2) of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) \[subsec. (c)(2) of this section\], none of the funds appropriated under this or any other Act shall be used prior to June 30, 1987 to accept prepayment of any loan made under section 515 of the Housing Act of 1949 \[section 1485 of this title\], unless such loan was made at least twenty years prior to the date of prepayment or, for loans made before December 21, 1979, the Secretary makes a determination that a supply of adequate, comparable housing is available in the community, or that prepayment of such loans will not result in a substantial increase in rents to tenants in residence upon date of prepayment or displacement of such tenants."
 

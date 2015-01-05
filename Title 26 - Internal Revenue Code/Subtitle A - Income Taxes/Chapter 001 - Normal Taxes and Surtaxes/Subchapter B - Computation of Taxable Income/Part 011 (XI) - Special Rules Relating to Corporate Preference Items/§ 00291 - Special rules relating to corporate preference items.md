@@ -54,7 +54,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 #### (4) Integrated oil company defined
 
-&emsp;For purposes of this subsection, the term "integrated oil company" means, with respectto any taxable year, any producer of crude oil to whom subsection (c) of section 613A does not apply by reason of paragraph (2) or (4) of section 613A(d).
+&emsp;For purposes of this subsection, the term "integrated oil company" means, with respect to any taxable year, any producer of crude oil to whom subsection (c) of section 613A does not apply by reason of paragraph (2) or (4) of section 613A(d).
 
 #### (5) Coordination with cost depletion
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a financial institution which is a bank (as defined in section 585(a)(2)), the amount of interest on indebtedness incurred or continued to purchase or carry obligations acquired after December 31, 1982, and before August 8, 1986, the interest on which is exempt from taxes for the taxable year, to the extent that a deduction would (but for this paragraph or section 265(b)) be allowable with respect to such interest for such taxable year.
+&emsp;&emsp;&emsp;In the case of a financial institution which is a bank (as defined in section585(a)(2)), the amount of interest on indebtedness incurred or continued to purchase or carry obligations acquired after December 31, 1982, and before August 8, 1986, the interest on which is exempt from taxes for the taxable year, to the extent that a deduction would (but for this paragraph or section 265(b)) be allowable with respect to such interest for such taxable year.
 
 #### (ii) Determination of interest allocable to indebtedness on tax-exempt obligations
 
@@ -162,7 +162,7 @@ Pub. L. 99–514, §1804(k)(1), substituted "If a C corporation" for "If a corpo
 
 Subsec. (b)(1). Pub. L. 99–514, §411(a)(1), (b)(2)(C)(ii), substituted "30 percent" for "20 percent" in closing provisions and "617(a)" for "617" in subpar. (B).
 
-Subsec. (b)(2) to (6). Pub. L. 99–514, §411(a)(2), added pars. (2) to (5) and struck out former pars. (2) to (6) as follows: former par. (2), special rule for amounts not allowable as deductions under paragraph (1), related in subpar. (A) to intangible drilling costs and in subpar. (B) to mineral exploration and development costs; former par. (3) defined applicable percentage in accordance with table for taxable years 1 to 5; former par. (4) dispositions, related in subpar. (A) to oil, gas, and geothermal property, in subpar. (B) to application of section 617(d) of this title, and in subpar. (C) to recapture of investment credit; former par. (5) defined integrated oil company; and former par. (6) related to coordination with cost depletion.
+Subsec. (b)(2) to (6). Pub. L. 99–514, §411(a)(2), added pars. (2) to (5) and struck out former pars. (2) to (6) asfollows: former par. (2), special rule for amounts not allowable as deductions under paragraph (1), related in subpar. (A) to intangible drilling costs and in subpar. (B) to mineral exploration and development costs; former par. (3) defined applicable percentage in accordance with table for taxable years 1 to 5; former par. (4) dispositions, related in subpar. (A) to oil, gas, and geothermal property, in subpar. (B) to application of section 617(d) of this title, and in subpar. (C) to recapture of investment credit; former par. (5) defined integrated oil company; and former par. (6) related to coordination with cost depletion.
 
 Subsec. (c)(1). Pub. L. 99–514, §201(d)(5)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For purposes of subclause (1) of section 168(d)(1)(A)(ii), a taxpayer shall not be treated as electing the amortization deduction under section 169 with respect to that portion of the basis not taken into account under section 169 by reason of subsection (a)(5)."
 
@@ -248,7 +248,7 @@ Amendment by section 902(c) of Pub. L. 99–514 applicable to taxable years endi
 
 Pub. L. 99–514, title XVIII, §1804(k)(1), Oct. 22, 1986, 100 Stat. 2809, provided that amendment made by section 1804(k)(1) of Pub. L. 99–514 is effective with respect to taxable years beginning after Dec. 31, 1982.
 
-Amendment by sections 1804(k)(3)(A), 1854(c)(1), and 1876(b)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1804(k)(3)(A), 1854(c)(1), and 1876(b)(1) of Pub. L. 99–514 effective, except as otherwiseprovided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -58,7 +58,7 @@ Annual Reports to Accompany Budget Materials.—The Secretary of Defense shall i
 
 (c)
 
-Annual Report on Privatization Projects.—The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing on <sup>1</sup> evaluation of the status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
+Annual Report on Privatization Projects.—The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation of the status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
 
 &emsp;(1) An assessment of the backlog of maintenance and repair at each military housing privatization project where a significant backlog exists, including an estimation of the cost of eliminating the maintenance and repair backlog.
 
@@ -72,9 +72,11 @@ Annual Report on Privatization Projects.—The Secretary of Defense shall submit
 
 &emsp;(6) An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, §1071(f)(26), Dec. 19, 2014, 128 Stat. 3511.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–291 substituted "an evaluation" for "on evaluation" in introductory provisions.
 
 <b>2013</b>—Subsecs. (b), (c). Pub. L. 112–239 added subsecs. (b) and (c) and struck out former subsec. (b) which required the Secretary of Defense to provide annual reports to Congress.
 
@@ -106,11 +108,9 @@ Subsec. (b)(3) to (5). Pub. L. 108–136, §2807(b)(2), added pars. (3) to (5) a
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
 #### Final Report
 
 Pub. L. 104–106, div. B, title XXVIII, §2801(b), Feb. 10, 1996, 110 Stat. 551, provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

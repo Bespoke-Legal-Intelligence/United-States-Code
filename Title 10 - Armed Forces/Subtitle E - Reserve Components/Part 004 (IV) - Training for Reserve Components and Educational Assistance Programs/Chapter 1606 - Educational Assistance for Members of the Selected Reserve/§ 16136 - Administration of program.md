@@ -48,7 +48,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title II, §204(c), Nov. 11, 1998, 112 Stat. 3327, provided that: "The amendments made by thissection \[amending this section and sections 3034 and 3241 of Title 38, Veterans' Benefits\] shall apply with respect to courses of flight training beginning on or after October 1, 1998."
+Pub. L. 105–368, title II, §204(c), Nov. 11, 1998, 112 Stat. 3327, provided that: "The amendments made by this section \[amending this section and sections 3034 and 3241 of Title 38, Veterans' Benefits\] shall apply with respect to courses of flight training beginning on or after October 1, 1998."
 
 #### Effective Date of 1994 Amendment
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 103–446 effective Oct. 1, 1994, see section 601(d) of Pub
 
 #### Effective Date of 1989 Amendments
 
-Pub. L. 101–237, title IV, §405(e), Dec. 18, 1989, 103 Stat. 2082, provided that: "The amendments made by this section \[amending this section and section 1685 \[now 3485\] of Title 38, Veterans' Benefits\] shall take effect on May 1, 1990, and shall apply to services performed on or after that date."
+Pub. L. 101–237, title IV, §405(e), Dec. 18, 1989, 103 Stat. 2082, provided that: "The amendments made by this section \[amending this section and section 1685 \[now 3485\] of Title 38, Veterans' Benefits\] shall take effect onMay 1, 1990, and shall apply to services performed on or after that date."
 
 Amendment by section 422(b)(1) of Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of Pub. L. 101–237, set out as a note under section 16131 of this title.
 

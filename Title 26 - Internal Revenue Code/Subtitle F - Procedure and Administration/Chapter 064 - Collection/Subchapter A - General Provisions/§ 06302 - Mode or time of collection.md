@@ -26,13 +26,7 @@ The taxes imposed by subchapter D of chapter 32 of this title (relating to taxes
 
 #### (A) Amounts considered collected
 
-&emsp;&emsp;In the case of a person required to make deposits of the tax imposed by—
-
-&emsp;&emsp;&emsp;(i) section 4251, or
-
-&emsp;&emsp;&emsp;(ii) effective on January 1, 1997, section 4261 or 4271,
-
-> &emsp;&emsp;with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
+&emsp;&emsp;In the case of a person required to make deposits of the tax imposed by sections <sup>1</sup> 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
 
 #### (B) Special rule where September 29 is on Saturday or Sunday
 
@@ -50,7 +44,7 @@ The taxes imposed by subchapter D of chapter 32 of this title (relating to taxes
 
 #### (1) General rule
 
-&emsp;Except as otherwise provided in this subsection and subsection (e), if any person is required under regulations to make deposits of taxes under subtitle D with respect to semimonthly periods, such person shall make deposits of such taxes for the period beginning on September 16 and ending on September 26 not later than September 29. In the case of taxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997.
+&emsp;Except as otherwise provided in this subsection and subsection (e), if any person is required under regulations to make deposits of taxes under subtitle D with respect to semimonthly periods, such person shall make deposits of such taxes for the period beginning on September 16 and ending on September 26 not later than September 29.
 
 #### (2) Taxes on ozone depleting chemicals
 
@@ -90,51 +84,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 &emsp;&emsp;The regulations prescribed under subparagraph (A) may contain such exemptions as the Secretary may deem appropriate.
 
-#### (2) Phase-in requirements
-
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraph (B), the regulations referred to in paragraph (1)—
-
-&emsp;&emsp;&emsp;(i) shall contain appropriate procedures to assure that an orderly conversion from the Federal tax deposit system to the electronic fund transfer system is accomplished, and
-
-&emsp;&emsp;&emsp;(ii) may provide for a phase-in of such electronic fund transfer system by classes of taxpayers based on the aggregate undeposited taxes of such taxpayers at the close of specified periods and any other factors the Secretary may deem appropriate.
-
-#### (B) Phase-in requirements
-
-&emsp;&emsp;The phase-in of the electronic fund transfer system shall be designed in such manner as may be necessary to ensure that—
-
-&emsp;&emsp;&emsp;(i) during each fiscal year beginning after September 30, 1993, at least the applicable required percentage of the total depository taxes imposed by chapters 21, 22, and 24 shall be collected by means of electronic fund transfer, and
-
-&emsp;&emsp;&emsp;(ii) during each fiscal year beginning after September 30, 1993, at least the applicable required percentage of the total other depository taxes shall be collected by means of electronic fund transfer.
-
-#### (C) Applicable required percentage
-
-&emsp;&emsp;(i) In the case of the depository taxes imposed by chapters 21, 22, and 24, the applicable required percentage is—
-
-&emsp;&emsp;&emsp;(I) 3 percent for fiscal year 1994,
-
-&emsp;&emsp;&emsp;(II) 16.9 percent for fiscal year 1995,
-
-&emsp;&emsp;&emsp;(III) 20.1 percent for fiscal year 1996,
-
-&emsp;&emsp;&emsp;(IV) 58.3 percent for fiscal years 1997 and 1998, and
-
-&emsp;&emsp;&emsp;(V) 94 percent for fiscal year 1999 and all fiscal years thereafter.
-
-&emsp;&emsp;(ii) In the case of other depository taxes, the applicable required percentage is—
-
-&emsp;&emsp;&emsp;(I) 3 percent for fiscal year 1994,
-
-&emsp;&emsp;&emsp;(II) 20 percent for fiscal year 1995,
-
-&emsp;&emsp;&emsp;(III) 30 percent for fiscal year 1996,
-
-&emsp;&emsp;&emsp;(IV) 60 percent for fiscal years 1997 and 1998, and
-
-&emsp;&emsp;&emsp;(V) 94 percent for fiscal year 1999 and all fiscal years thereafter.
-
-#### (3) Definitions
+#### (2) Definitions
 
 &emsp;For purposes of this subsection—
 
@@ -146,19 +96,35 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 &emsp;&emsp;The term "electronic fund transfer" means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution or other financial intermediary to debit or credit an account.
 
-#### (4) Coordination with other electronic fund transfer requirements
+#### (3) Coordination with other electronic fund transfer requirements
 
-#### (A) Coordination with certain excise taxes
+&emsp;Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
 
-&emsp;&emsp;In determining whether the requirements of subparagraph (B) of paragraph (2) are met, taxes required to be paid by electronic fund transfer under sections 5061(e) and 5703(b) shall be disregarded.
-
-#### (B) Additional requirement
-
-&emsp;&emsp;Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890; Pub. L. 111–226, title II, §219(b)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §2(a), Aug. 16, 2010, 124 Stat. 2497.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890; Pub. L. 111–226, title II, §219(b)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §2(a), Aug. 16, 2010, 124 Stat. 2497; Pub. L. 113–295, div. A, title II, §221(a)(110), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (e)(2). Pub. L. 113–295, §221(a)(110)(A), substituted "imposed by sections 4251, 4261, or 4271 with respect to" for "imposed by—
+
+&emsp;"(i) section 4251, or
+
+&emsp;"(ii) effective on January 1, 1997, section 4261 or 4271,
+
+> with respect to".
+
+Subsec. (f)(1). Pub. L. 113–295, §221(a)(110)(B), struck out last sentence which read as follows: "In the case of taxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997."
+
+Subsec. (h)(2). Pub. L. 113–295, §221(a)(110)(C)(i), redesignated par. (3) as (2) and struck out former par. (2) which related to phase-in of the electronic fund transfer system.
+
+Subsec. (h)(3), (4). Pub. L. 113–295, §221(a)(110)(C), redesignated par. (4) as (3) and amended it generally. Prior to amendment, text read as follows:
+
+"(A)
+
+Coordination with certain excise taxes.—In determining whether the requirements of subparagraph (B) of paragraph (2) are met, taxes required to be paid by electronic fund transfer under sections 5061(e) and 5703(b) shall be disregarded.
+
+"(B)
+
+Additional requirement.—Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied."
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–237 amended subsec. (d) generally. Prior to amendment, text read as follows: "The taxes imposed by subsections (a) and (b) of section 4161 (relating to taxes on sporting goods) shall be due and payable on the date for filing the return for such taxes."
 
@@ -188,7 +154,7 @@ Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former s
 
 Subsec. (e). Pub. L. 101–508, §11217(b)(1), inserted "communications services and" before "airline" in heading and "section 4251 or" after "imposed by" in text.
 
-Subsec. (g). Pub. L. 101–508, §11334(a), amended subsec. (g) generally, striking out par. (1) designation andstriking heading, striking out ", for the years specified in paragraph (2)," after "such person shall", substituting "on the 1st banking day" for "on the applicable banking day", and striking out par. (2), which provided that for purposes of par. (1) the applicable banking day for 1990 is the 1st, for 1991 the 2nd, for 1992 the 3rd, for 1993 the 1st, and for 1994 the 1st.
+Subsec. (g). Pub. L. 101–508, §11334(a), amended subsec. (g) generally, striking out par. (1) designation and striking heading, striking out ", for the years specified in paragraph (2)," after "such person shall", substituting "on the 1st banking day" for "on the applicable banking day", and striking out par. (2), which provided that for purposes of par. (1) the applicable banking day for 1990 is the 1st, for 1991 the 2nd, for 1992 the 3rd, for 1993 the 1st, and for 1994 the 1st.
 
 <b>1989</b>—Subsec. (e). Pub. L. 101–239, §7502(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -221,6 +187,10 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(17), (b)(13)(A), substituted "section 4
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1956</b>—Subsec. (b). Act June 29, 1956, inserted reference to section 4481 of chapter 36.
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -323,4 +293,6 @@ Pub. L. 104–188, title I, §1809, Aug. 20, 1996, 110 Stat. 1904, provided that
 Pub. L. 98–76, title II, §226, Aug. 12, 1983, 97 Stat. 426, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Effective on and after January 1, 1984, the times for making payments prescribed under section 6302 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to the taxes imposed by chapter 22 of such Code shall be the same as the times prescribed under such section which apply to the taxes imposed by chapters 21 and 24 of such Code."
 
 Pub. L. 98–76, title II, §227(c), Aug. 12, 1983, 97 Stat. 426, provided that: "Section 226 \[set out above\] shall take effect on January 1, 1984."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

@@ -20,7 +20,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 #### (e) Sales procedures
 
-(1) The Secretary shall sell petroleum products withdrawn from the Strategic Petroleum Reserve at public sale to the highest qualified bidder in the amounts, for the period, and after a notice of sale considered appropriate by the Secretary, and without regard to Federal, State,or local regulations controlling sales of petroleum products.
+(1) The Secretary shall sell petroleum products withdrawn from the Strategic Petroleum Reserve at public sale to the highest qualified bidder in the amounts, for the period, and after a notice of sale considered appropriate by the Secretary, and without regard to Federal, State, or local regulations controlling sales of petroleum products.
 
 (2) The Secretary may cancel in whole or in part any offer to sell petroleum products as part of any drawdown and sale under this section.
 
@@ -184,7 +184,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### (8) Supplies of petroleum products
 
-&emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequatesupplies of petroleum products from traditional and nontraditional suppliers.
+&emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
 (Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031.)
 
@@ -238,7 +238,7 @@ Subsec. (h)(3). Pub. L. 106–469, §103(15)(G)(iv), substituted "sale" for "dis
 
 Subsec. (h)(1)(A). Pub. L. 102–486, §1401(2), inserted "or international" after "domestic".
 
-<b>1990</b>—Subsec. (g)(1). Pub. L. 101–383, §8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrels of crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program."
+<b>1990</b>—Subsec. (g)(1). Pub. L. 101–383, §8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrelsof crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program."
 
 Subsec. (h). Pub. L. 101–383, §3(b), added subsec. (h).
 

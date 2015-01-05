@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term “United States” means each of the several States of the United States, the District of Columbia, and the territories and possessions of the United States.
+In this section, the term "United States" means each of the several States of the United States, the District of Columbia, and the territories and possessions of the United States.
 
 #### (b) In general
 
@@ -16,19 +16,19 @@ A member of the Capitol Police may travel outside of the United States if—
 
 #### (c) Law enforcement functions
 
-Subsection (b) of this section shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
+Subsection (b) shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
 
 #### (d) Reimbursement
 
-The Capitol Police shall be reimbursed for the overtime pay, travel, and related expenses of any member of the Capitol Police who travels under the authority of this section. Any reimbursement under this subsection shall be paid from the account under the heading “
+The Capitol Police shall be reimbursed for the overtime pay, travel, and related expenses of any member of the Capitol Police who travels under the authority of this section. Any reimbursement under this subsection shall be paid from the account under the heading "
 
-sergeant at arms and doorkeeper of the senate” under the heading “
+sergeant at arms and doorkeeper of the senate" under the heading "
 
-Contingent Expenses of the Senate”.
+Contingent Expenses of the Senate".
 
 #### (e) Amounts received
 
-Any amounts received by the Capitol Police for reimbursements under subsection (d) of this section shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
+Any amounts received by the Capitol Police for reimbursements under subsection (d) shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
 
 #### (f) Effective date
 

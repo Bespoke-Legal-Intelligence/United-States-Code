@@ -12,7 +12,7 @@ This part applies to any bill, joint resolution, amendment, motion, or conferenc
 
 #### (1) In general
 
-&emsp;For purposes of this part, the direct cost of the Federal mandates in a bill, joint resolution, amendment, motion, or conference report that reauthorizes appropriations, or thatamends existing authorizations of appropriations, to carry out a statute, or that otherwise amends any statute, means the net increase, resulting from enactment of the bill, joint resolution, amendment, motion, or conference report, in the amount described under paragraph (2)(A) over the amount described under paragraph (2)(B).
+&emsp;For purposes of this part, the direct cost of the Federal mandates in a bill, joint resolution, amendment, motion, or conference report that reauthorizes appropriations, or that amends existing authorizations of appropriations, to carry out a statute, or that otherwise amends any statute, means the net increase, resulting from enactment of the bill, joint resolution, amendment, motion, or conference report, in the amount described under paragraph (2)(A) over the amount described under paragraph (2)(B).
 
 #### (2) Amounts
 

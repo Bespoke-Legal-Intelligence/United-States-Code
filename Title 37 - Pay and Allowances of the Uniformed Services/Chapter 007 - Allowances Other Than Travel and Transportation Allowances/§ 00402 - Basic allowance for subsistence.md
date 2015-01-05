@@ -50,7 +50,7 @@ Policies on Use of Dining and Messing Facilities.—The Secretary of Defense, in
 
 (h)
 
-No Payment for Meals Received at Military Treatment Facilities.—(1) A member ofthe armed forces who is undergoing medical recuperation or therapy, or is otherwise in the status of continuous care, including outpatient care, at a military treatment facility for an injury, illness, or disease described in paragraph (2) shall not be required to pay any charge for meals provided to the member by the military treatment facility.
+No Payment for Meals Received at Military Treatment Facilities.—(1) A member of the armed forces who is undergoing medical recuperation or therapy, or is otherwise in the status of continuous care, including outpatient care, at a military treatment facility for an injury, illness, or disease described in paragraph (2) shall not be required to pay any charge for meals provided to the member by the military treatment facility.
 
 (2) Paragraph (1) applies with respect to an injury, illness, or disease incurred or aggravated by a member while the member was serving on active duty—
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VI, §602(g), Nov. 18, 1997, 111 Stat. 1775, provided that: "This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998."
+Pub. L. 105–85, div. A, title VI, §602(g), Nov. 18, 1997, 111 Stat. 1775, provided that: "This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set outas a note below\] and the amendments made by this section shall take effect on January 1, 1998."
 
 #### Effective Date of 1984 Amendment
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 93–419 effective Sept. 19, 1974, see section 9 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Rate for Enlisted Members When Messing Facilities Not Available
 

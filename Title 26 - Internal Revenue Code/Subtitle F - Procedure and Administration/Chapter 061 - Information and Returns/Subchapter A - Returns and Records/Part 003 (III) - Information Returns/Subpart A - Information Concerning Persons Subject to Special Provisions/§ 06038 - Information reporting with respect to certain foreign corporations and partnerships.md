@@ -32,7 +32,7 @@
 
 #### (2) Period for which information is to be furnished, etc.
 
-&emsp;The information required under paragraph (1) shall be furnished for the annual accounting period of the foreign business entity ending with or within the United States person'staxable year. The information so required shall be furnished at such time and in such manner as the Secretary shall prescribe.
+&emsp;The information required under paragraph (1) shall be furnished for the annual accounting period of the foreign business entity ending with or within the United States person's taxable year. The information so required shall be furnished at such time and in such manner as the Secretary shall prescribe.
 
 #### (3) Limitation
 
@@ -54,7 +54,7 @@
 
 #### (2) Increase in penalty where failure continues after notification
 
-&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in any penalty under this paragraph shall not exceed $50,000.
+&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day onwhich the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in any penalty under this paragraph shall not exceed $50,000.
 
 #### (c) Penalty of reducing foreign tax credit
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes 
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–834, §20(e)(1), Oct. 16, 1962, 76 Stat. 1063, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to annual accounting periods of foreign corporations beginning after December 31, 1962."
+Pub. L. 87–834, §20(e)(1), Oct. 16, 1962, 76 Stat. 1063, provided that: "The amendments made by subsection\(a) \[amending this section\] shall apply with respect to annual accounting periods of foreign corporations beginning after December 31, 1962."
 
 #### Effective Date
 

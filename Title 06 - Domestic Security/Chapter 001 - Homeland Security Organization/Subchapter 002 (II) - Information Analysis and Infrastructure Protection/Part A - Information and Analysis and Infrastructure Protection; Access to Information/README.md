@@ -2,7 +2,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53, title V, §531(b)(3), Aug. 3, 2007, 121 Stat. 334, substituted “Information and” for “Directorate for Information” in part heading.
+<b>2007</b>—Pub. L. 110–53, title V, §531(b)(3), Aug. 3, 2007, 121 Stat. 334, substituted "Information and" for "Directorate for Information" in part heading.
 
 
 ---
@@ -27,3 +27,4 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 - [&sect; 00124k - Interagency Threat Assessment and Coordination Group](%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md)
 - [&sect; 00124l - National asset database](%C2%A7%2000124l%20-%20National%20asset%20database.md)
 - [&sect; 00124m - Classified Information Advisory Officer](%C2%A7%2000124m%20-%20Classified%20Information%20Advisory%20Officer.md)
+- [&sect; 00125 - Annual report on intelligence activities of the Department of Homeland Security](%C2%A7%2000125%20-%20Annual%20report%20on%20intelligence%20activities%20of%20the%20Department%20of%20Homeland%20Security.md)

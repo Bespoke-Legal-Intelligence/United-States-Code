@@ -14,7 +14,7 @@
 
 &emsp;(2) such other method as is provided by law for the recovery of amounts owing to the Government.
 
-> The head of the agency concerned, under regulations of the President, may waive in whole or inpart a right of recovery under this subsection, if it is shown that the recovery would be against equity and good conscience or against the public interest.
+> The head of the agency concerned, under regulations of the President, may waive in whole or in part a right of recovery under this subsection, if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
 (c) The allowances and differentials authorized by this subchapter shall be paid under regulations prescribed by the President governing—
 
@@ -68,9 +68,9 @@ Sept. 6, 1960, Pub. L. 86–707, §202, 74 Stat. 793.
 
 Sept. 6, 1960, Pub. L. 86–707, §203, 74 Stat. 793.
 
-In subsection (a), the word “only” is omitted as surplusage.
+In subsection (a), the word "only" is omitted as surplusage.
 
-In subsection (b), the words “disbursing official” are substituted for “disbursing officer” because of the definition of “officer” in section 2104 which excludes a member of a uniformed service.
+In subsection (b), the words "disbursing official" are substituted for "disbursing officer" because of the definition of "officer" in section 2104 which excludes a member of a uniformed service.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -82,5 +82,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Delegation of Functions
 
-Secretary of State empowered to prescribe regulations, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of this title.
+Secretary of State empowered to prescribe regulations, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961,26 F.R. 217, set out as a note under section 5921 of this title.
 

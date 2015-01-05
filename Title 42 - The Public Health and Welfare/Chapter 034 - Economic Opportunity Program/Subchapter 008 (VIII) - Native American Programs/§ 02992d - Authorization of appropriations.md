@@ -46,7 +46,7 @@ Subsec. (f). Pub. L. 103–171, §5(6)(D), redesignated subsec. (f) as (e).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–524, §3(1), inserted reference to section 2991b–3 of this title.
 
-Pub. L. 102–375, §822(15), substituted ", 2991b–1 of this title, subsection (e) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations" for "and 2991b–1 of this title" and "1992, 1993, 1994, and 1995" for "1988, 1989, 1990, and 1991".
+Pub. L. 102–375, §822(15), substituted ", 2991b–1 of this title, subsection (e) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations" for "and 2991b–1 ofthis title" and "1992, 1993, 1994, and 1995" for "1988, 1989, 1990, and 1991".
 
 Subsec. (b). Pub. L. 102–524, §3(1), inserted reference to section 2991b–3 of this title.
 
@@ -54,7 +54,7 @@ Pub. L. 102–375, §822(16), substituted ", 2991b–1, 2991c of this title, su
 
 Subsec. (c). Pub. L. 102–497 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "There are authorized to be appropriated $500,000 for each of the fiscal years 1992, 1993, 1994, and 1995 for the purpose of providing financial assistance to other Native American Pacific Islanders (including American Samoan Natives) under section 2991b(a) of this title."
 
-Pub. L. 102–375, §822(17), (18), redesignated par. (1) as subsec. (c), substituted "There are" for "Except as provided in paragraph (2), there are", substituted "1992, 1993, 1994, and 1995" for "1988, 1989, 1990, and 1991", and struck out par. (2) which read as follows: "No funds may be appropriated under paragraph (1) for a fiscal year unless the amount appropriated under subsection\(a) of this section for such fiscal year exceeds 105 percent of the amount appropriated under subsection (a) of this section for fiscal year 1987."
+Pub. L. 102–375, §822(17), (18), redesignated par. (1) as subsec. (c), substituted "There are" for "Except as provided in paragraph (2), there are", substituted "1992, 1993, 1994, and 1995" for "1988, 1989, 1990, and 1991", and struck out par. (2) which read as follows: "No funds may be appropriated under paragraph (1) for a fiscal year unless the amount appropriated under subsection (a) of this section for such fiscal year exceeds 105 percent of the amount appropriated under subsection (a) of this section for fiscal year 1987."
 
 Subsec. (d). Pub. L. 102–497, §9(c)(2), redesignated subsec. (d) as (c).
 

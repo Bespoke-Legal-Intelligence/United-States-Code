@@ -8,7 +8,7 @@ Any State desiring to receive a grant under this part for any fiscal year shall 
 
 Each such application shall include—
 
-&emsp;(1) a description of how, in planning, implementing, and evaluating programs and projects assisted under this part, the State and its local operating agencies will ensure that the special educational needs of migratory children, including preschool migratory children, are identified and addressed through—
+&emsp;(1) a description of how, in planning, implementing, and evaluating programs and projects assisted under this part, the State and its local operating agencies will ensure that the special educational needs of migratory children, including preschool migratorychildren, are identified and addressed through—
 
 &emsp;&emsp;(A) the full range of services that are available for migratory children from appropriate local, State, and Federal educational programs;
 
@@ -28,7 +28,7 @@ Each such application shall include—
 
 &emsp;(6) such budgetary and other information as the Secretary may require; and
 
-&emsp;(7) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantialnumber of migratory children who have parents who do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
+&emsp;(7) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantial number of migratory children who have parents who do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
 
 #### (c) Assurances
 

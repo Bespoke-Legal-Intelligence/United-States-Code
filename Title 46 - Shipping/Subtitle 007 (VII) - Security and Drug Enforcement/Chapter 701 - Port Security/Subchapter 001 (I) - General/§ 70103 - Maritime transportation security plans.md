@@ -58,7 +58,7 @@ Area Maritime Transportation Security Plans.—(1) The Federal Maritime Security
 
 &emsp;(D) include consultation and coordination with the Department of Defense on matters relating to Department of Defense facilities and vessels;
 
-&emsp;(E) establish area response and recovery protocols to prepare for, respond to, mitigate against, and recover from a transportation security incident consistent with section 202 of the SAFE Port Act of 2006 (6 U.S.C. 942) and subsection (a) of this section;
+&emsp;(E) establish area response and recovery protocols to prepare for, respond to, mitigateagainst, and recover from a transportation security incident consistent with section 202 of the SAFE Port Act of 2006 (6 U.S.C. 942) and subsection (a) of this section;
 
 &emsp;(F) include any other information the Secretary requires;
 
@@ -140,11 +140,11 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 (6) Notwithstanding paragraph (5), the Secretary may authorize a vessel or facility to operate without a security plan approved under this subsection, until not later than 1 year after the date of the submission to the Secretary of a plan for the vessel or facility, if the owner or operator of the vessel or facility certifies that the owner or operator has ensured by contract or other means approved by the Secretary to deter to the maximum extent practicable a transportation security incident or a substantial threat of such a security incident.
 
-(7) The Secretary shall require each owner or operator of a vessel or facility located within or adjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
+(7) The Secretary shall require each owner or operator of a vessel or facility located within oradjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
 
 (8)(A) The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
 
-(B) The Secretary may waive the requirement of subparagraph (A) with respect to an individual if the Secretary determines that it is appropriate to do so based on a complete backgroundcheck of the individual and a review of all terrorist watch lists to ensure that the individual is not identified on any such terrorist watch list.
+(B) The Secretary may waive the requirement of subparagraph (A) with respect to an individual if the Secretary determines that it is appropriate to do so based on a complete background check of the individual and a review of all terrorist watch lists to ensure that the individual is not identified on any such terrorist watch list.
 
 (d)
 

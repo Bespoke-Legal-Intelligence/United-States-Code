@@ -46,7 +46,7 @@ Pub. L. 91–375, §8, Aug. 12, 1970, 84 Stat. 783, as amended by Pub. L. 109–
 
 "(b) For purposes of chapter 81 of title 5, United States Code, the Postal Service shall, with respect to any individual receiving benefits under such chapter as an officer or employee of the former Post Office Department, have the same authorities and responsibilities as it has with respect to an officer or employee of the Postal Service receiving such benefits."
 
-\[Pub. L. 109–435, title X, §1007(b), Dec. 20, 2006, 120 Stat. 3258, provided that: "This section \[amending section 8 of Pub. L. 91–375, set out above\] and the amendments made by this section shall be effective as of the first day of the fiscal year in which this Act is enacted."\]
+\[Pub. L. 109–435, title X, §1007(b), Dec. 20, 2006, 120 Stat. 3258, provided that: "This section \[amending section 8 of Pub. L. 91–375, set out above\] and the amendments made by this section shall be effective as of thefirst day of the fiscal year in which this Act is enacted."\]
 
 \[Provisions of section 8 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.\]
 
@@ -56,7 +56,7 @@ Pub. L. 91–375, §13, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 "(a) \[<i>Methods of Appointment; Order of precedence; Status of Postmasters in Office</i>\] Between the date of enactment of this Act \[Aug. 12, 1970\] and the date on which the Board of Governors of the United States Postal Service determines that section 1001 of title 39, United States Code (as enacted by section 2 of this Act), is effective, the Postmaster General shall appoint postmasters at offices of all classes in the competitive civil service by one of the three following methods which shall be applied in the following order of precedence:
 
-&emsp;"(1) by selection of a qualified employee serving at the post office where the vacancy occurs, including an acting postmaster who was serving on January 1,1969, who shall acquire a competitive status upon being appointed postmaster;
+&emsp;"(1) by selection of a qualified employee serving at the post office where the vacancy occurs, including an acting postmaster who was serving on January 1, 1969, who shall acquire a competitive status upon being appointed postmaster;
 
 &emsp;"(2) if no qualified employee serving at the post office where the vacancy occurs is available for, and willing to accept, appointment by the method described in subparagraph (1), by selection of a qualified employee serving in the postal field service; or
 

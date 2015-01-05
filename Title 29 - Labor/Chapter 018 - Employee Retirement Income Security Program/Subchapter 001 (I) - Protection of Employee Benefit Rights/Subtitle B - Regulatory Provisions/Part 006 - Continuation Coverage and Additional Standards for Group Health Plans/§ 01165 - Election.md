@@ -64,7 +64,7 @@ For purposes of this part—
 
 #### (C) TAA-related election period
 
-&emsp;&emsp;The term "TAA-related election period" means, with respect to a TAA-related loss of coverage, the 60-day election period under this part which is a direct consequence of such loss.
+&emsp;&emsp;The term "TAA-related election period" means, with respect to a TAA-related loss of coverage, the 60-day election period underthis part which is a direct consequence of such loss.
 
 #### (D) TAA-related loss of coverage
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Construction of 2002 Amendment
 
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverageand reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

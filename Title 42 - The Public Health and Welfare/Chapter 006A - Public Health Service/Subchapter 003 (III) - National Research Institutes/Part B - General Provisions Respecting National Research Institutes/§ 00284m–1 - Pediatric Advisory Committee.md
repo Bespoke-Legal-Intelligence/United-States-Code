@@ -16,7 +16,7 @@ The Secretary of Health and Human Services shall, under section 217a of this tit
 
 &emsp;&emsp;(A) pediatric research conducted under sections 262, 284m, and 290b of this title and sections 351, 352, 355, 355a, 355c, 360(k), 360e, and 360j(m) of title 21;
 
-&emsp;&emsp;(B) identification of research priorities related to therapeutics (including drugs and biological products) and medical devices for pediatric populations and the need for additional diagnostics and treatments for specific pediatric diseases or conditions;
+&emsp;&emsp;(B) identification of research priorities related to therapeutics (including drugs andbiological products) and medical devices for pediatric populations and the need for additional diagnostics and treatments for specific pediatric diseases or conditions;
 
 &emsp;&emsp;(C) the ethics, design, and analysis of clinical trials related to pediatric therapeutics (including drugs and biological products) and medical devices; and
 
@@ -24,7 +24,7 @@ The Secretary of Health and Human Services shall, under section 217a of this tit
 
 #### (c) Composition
 
-The advisory committee shall include representatives of pediatric health organizations,pediatric researchers, relevant patient and patient-family organizations, and other experts selected by the Secretary.
+The advisory committee shall include representatives of pediatric health organizations, pediatric researchers, relevant patient and patient-family organizations, and other experts selected by the Secretary.
 
 #### (d) Continuation of Operation of Committee
 

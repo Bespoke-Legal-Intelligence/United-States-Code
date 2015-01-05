@@ -36,6 +36,10 @@
 
 (Pub. L. 105–220, title I, §168, Aug. 7, 1998, 112 Stat. 1027; Pub. L. 109–233, title IV, §402(e)(4), June 15, 2006, 120 Stat. 411.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(2), (3)(C), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
@@ -47,6 +51,10 @@ Provisions similar to this section were contained in section 1721 of this title 
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–233 substituted "chapter 63" for "subchapter II of chapter 77".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Veterans Energy-Related Employment Program
 
@@ -210,7 +218,7 @@ Definition.—In this section, the term 'veteran' has the meaning given such ter
 
 #### Veterans' Job Training Act
 
-Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub.L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 #### "short title
 
@@ -336,7 +344,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;"(11) That the employer will furnish each participating veteran, before the veteran's entry into training, with a copy of the employer's certification under this subsection and will obtain and retain the veteran's signed acknowledgment of having received such certification.
 
-&emsp;"(12) That, as applicable, the employer will provide each participating veteran with the full opportunityto participate in a personal interview pursuant to section 14(b)(1)(A) during the veteran's normal workday.
+&emsp;"(12) That, as applicable, the employer will provide each participating veteran with the full opportunity to participate in a personal interview pursuant to section 14(b)(1)(A) during the veteran's normal workday.
 
 &emsp;"(13) That the program meets such other criteria as the Administrator may determine are essential for the effective implementation of the program established by this Act.
 
@@ -414,7 +422,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act.
 
-"(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site where any part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept.
+"(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site whereany part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept.
 
 "(d) The Administrator may administer functions under subsections (b) and (c) in accordance with an agreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
 
@@ -454,7 +462,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(3) The Secretary and the Administrator shall jointly provide, to the extent feasible—
 
-&emsp;"(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3\[see chapter 63\] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
+&emsp;"(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3 \[see chapter 63\] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
 
 &emsp;"(B) a program of information services under which—
 
@@ -506,7 +514,7 @@ Sec. 17. Assistance may not be paid to an employer under this Act—
 
 #### "expansion of targeted delimiting date extension
 
-"Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, forthe purposes of section 3462(a)(3) of title 38, United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program.
+"Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, for the purposes of section 3462(a)(3) of title 38, United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program.
 
 "(b) Funds for the purpose of carrying out subsection (a) shall be derived only from amounts appropriated pursuant to the authorizations of appropriations in section 16. Not more than a total of $25,000,000 of amounts so appropriated for fiscal years 1984 and 1985 shall be available for that purpose.
 

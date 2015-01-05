@@ -4,7 +4,7 @@ Under regulations prescribed by the Secretary of Defense, a person who is a form
 
 &emsp;(1) may be placed on the reserve active-status list of that armed force in the grade equivalent to the permanent regular or reserve grade, and in the same competitive category, in which the person previously served satisfactorily on active duty or in an active status; and
 
-&emsp;(2) may be credited for the purpose of determining date of rank under section 741(d) of this title with service in grade equal to that held by that person when discharged or separated.
+&emsp;(2) may be credited for the purpose of determining date of rank under section 741(d) of this title with service in grade equal to thatheld by that person when discharged or separated.
 
 (Added §596a and renumbered §12206, Pub. L. 103–337, div. A, title XVI, §§1633, 1662(c)(2), Oct. 5, 1994, 108 Stat. 2965, 2990.)
 

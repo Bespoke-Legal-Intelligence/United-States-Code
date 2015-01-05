@@ -42,7 +42,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (1) Board of directors
 
-&emsp;The Foundation shall have a board of directors (in this part referred to as the "Board"), which shall be established and conducted in accordance with subsection (f) of this section. The Board shall establish the general policies of the Foundation for carrying out subsection\(b) of this section, including the establishment of the bylaws of the Foundation.
+&emsp;The Foundation shall have a board of directors (in this part referred to as the "Board"), which shall be established and conducted in accordance with subsection (f) of this section. The Board shall establish the general policies of the Foundation for carrying out subsection (b) of this section, including the establishment of the bylaws of the Foundation.
 
 #### (2) Executive director
 
@@ -128,7 +128,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (2) Authority for acceptance of voluntary services
 
-&emsp;(A) The Director of the Centers for Disease Control and Prevention may accept, on behalf of the Federal Government, any voluntary services provided to such Centers by the Foundation for the purpose of aiding or facilitating the work of such Centers. In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.
+&emsp;(A) The Director of the Centers for Disease Control and Prevention may accept, on behalfof the Federal Government, any voluntary services provided to such Centers by the Foundation for the purpose of aiding or facilitating the work of such Centers. In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.
 
 &emsp;(B) The limitation established in subparagraph (A) regarding the period of time in which services may be accepted applies to each individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation.
 

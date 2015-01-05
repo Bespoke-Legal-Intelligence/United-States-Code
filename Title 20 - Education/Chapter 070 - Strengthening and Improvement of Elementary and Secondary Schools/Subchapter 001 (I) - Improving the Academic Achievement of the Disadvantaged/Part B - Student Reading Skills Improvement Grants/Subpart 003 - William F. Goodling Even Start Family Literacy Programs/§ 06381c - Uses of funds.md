@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In carrying out an Even Start program under this subpart, a recipient of funds under this subpart shall use those funds to pay the Federal share of the cost of providing intensive family literacy services that involve parents and children, from birth through age 7, in a cooperative effort to help parents become full partners in the education of their children and to assist children in reaching their full potential as learners.
+In carrying out an Even Start program under this subpart, a recipient of funds under this subpart shall use those funds to pay the Federal share of the cost of providing intensive familyliteracy services that involve parents and children, from birth through age 7, in a cooperative effort to help parents become full partners in the education of their children and to assist children in reaching their full potential as learners.
 
 #### (b) Federal share limitation
 

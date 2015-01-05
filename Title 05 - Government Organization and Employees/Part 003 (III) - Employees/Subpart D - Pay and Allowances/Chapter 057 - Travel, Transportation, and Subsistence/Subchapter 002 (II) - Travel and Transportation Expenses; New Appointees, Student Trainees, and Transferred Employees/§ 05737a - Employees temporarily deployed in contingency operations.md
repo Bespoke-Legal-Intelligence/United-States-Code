@@ -4,19 +4,19 @@
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “covered employee” means an individual who—
+&emsp;(1) the term "covered employee" means an individual who—
 
 &emsp;&emsp;(A) is an employee of an Executive agency or a military department, excluding a Government controlled corporation; and
 
 &emsp;&emsp;(B) is assigned on a temporary change of station in support of a contingency operation;
 
-&emsp;(2) the term “temporary change of station”, as used with respect to an employee, means an assignment—
+&emsp;(2) the term "temporary change of station", as used with respect to an employee, means an assignment—
 
 &emsp;&emsp;(A) from the employee's official duty station to a temporary duty station; and
 
 &emsp;&emsp;(B) for which such employee is eligible for expenses under section 5737; and
 
-&emsp;(3) the term “contingency operation” has the meaning given such term by section 1482a(c) of title 10.
+&emsp;(3) the term "contingency operation" has the meaning given such term by section 1482a(c) of title 10.
 
 (b)
 

@@ -194,7 +194,7 @@ In general.—
 
 &emsp;"(A)
 
-Guidance.—Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section 506(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(a)), as amended by this section. TheSecretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
+Guidance.—Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section 506(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(a)), as amended by this section. The Secretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
 
 &emsp;"(B)
 

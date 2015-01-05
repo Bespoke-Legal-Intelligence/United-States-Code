@@ -146,7 +146,7 @@ Procedure for Filing and Payment of Claims.—The Secretary shall, after consult
 
 "(a)
 
-In General.—Subject to the provisions of section 4, the Secretary is authorized and directed to expend, at the request of the Band, the principal of, and income accruing on, the Land Acquisition Fund for the purposes of acquiring land or natural resources for the Band and for no other purposes. Land or natural resources acquired within the State of Maine with funds expended under the authority of this subsection shall be held in trust by the United States for the benefit of the Band.
+In General.—Subject to the provisions of section 4, the Secretary is authorized and directed to expend, at the request of the Band, the principal of, and income accruing on, the Land Acquisition Fund for the purposes of acquiring land or natural resources for the Band and for no other purposes. Land or natural resources acquired within the State of Maine with funds expended under the authority of this subsection shallbe held in trust by the United States for the benefit of the Band.
 
 "(b)
 
@@ -218,7 +218,7 @@ Eligibility for Special Services.—Notwithstanding any other provision of law a
 
 "(d)
 
-Agreements With State Regarding Jurisdiction.—The State of Maine and the Band are authorized to execute agreements regarding the jurisdiction of the State of Maine over lands owned by, or held in trust for the benefit of, the Band or any member of the Band. The consent of the United States is hereby given to the State of Maine to amend the Micmac Settlement Act for this purpose: <i>Provided</i>, That such amendment is made with the agreement of the Aroostook Band of Micmacs.
+Agreements With State Regarding Jurisdiction.—The State of Maine and the Band are authorized to execute agreements regarding the jurisdiction of the State of Maine over lands owned by, or held in trust for the benefit of, the Band or any member of the Band. The consent of the United States is hereby given to theState of Maine to amend the Micmac Settlement Act for this purpose: <i>Provided</i>, That such amendment is made with the agreement of the Aroostook Band of Micmacs.
 
 #### "SEC. 7. TRIBAL ORGANIZATION.
 

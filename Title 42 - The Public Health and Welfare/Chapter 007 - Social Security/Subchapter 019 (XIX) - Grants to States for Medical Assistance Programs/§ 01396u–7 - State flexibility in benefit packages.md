@@ -8,7 +8,7 @@
 
 &emsp;&emsp;Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection <sup>1</sup> (E), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
 
-&emsp;&emsp;&emsp;(i) provides benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); and
+&emsp;&emsp;&emsp;(i) provides benchmark coverage described in subsection (b)(1) or benchmarkequivalent coverage described in subsection (b)(2); and
 
 &emsp;&emsp;&emsp;(ii) for any individual described in section 1396d(a)(4)(B) of this title who is eligible under the State plan in accordance with paragraphs (10) and (17) of section 1396a(a) of this title, consists of the items and services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title) and provided in accordance with the requirements of section 1396a(a)(43) of this title.
 
@@ -152,7 +152,7 @@
 
 #### (B) Aggregate actuarial value equivalent to benchmark package
 
-&emsp;&emsp;The coverage has an aggregate actuarial value that is at least actuarially equivalentto one of the benchmark benefit packages described in paragraph (1).
+&emsp;&emsp;The coverage has an aggregate actuarial value that is at least actuarially equivalent to one of the benchmark benefit packages described in paragraph (1).
 
 #### (C) Substantial actuarial value for additional services included in benchmark package
 
@@ -240,7 +240,7 @@ Subsec. (b)(5), (6). Pub. L. 111–148, §2001(c)(3), added pars. (5) and (6).
 
 Subsec. (b)(7). Pub. L. 111–148, §2303(c), added par. (7).
 
-<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–3, §611(a)(1)(A), in introductory provisions, substituted "Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection (E)" for "Notwithstanding any other provision of this subchapter" and "coverage that" for "enrollment in coverage that provides".
+<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–3, §611(a)(1)(A), in introductory provisions, substituted "Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection (E)" for "Notwithstanding any other provision of thissubchapter" and "coverage that" for "enrollment in coverage that provides".
 
 Subsec. (a)(1)(A)(i). Pub. L. 111–3, §611(a)(1)(B), inserted "provides" before "benchmark coverage".
 

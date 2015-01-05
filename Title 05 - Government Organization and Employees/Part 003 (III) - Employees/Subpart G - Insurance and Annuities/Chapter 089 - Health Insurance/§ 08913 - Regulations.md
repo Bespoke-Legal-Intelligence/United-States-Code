@@ -40,7 +40,7 @@ Sept. 28, 1959, Pub. L. 86–382, §10(a), 73 Stat. 715.
 
 Sept. 28, 1959, Pub. L. 86–382, §3(a) (words between 1st and 4th commas of 1st sentence, and 2d sentence), 73 Stat. 710.
 
-July 1, 1960, Pub. L. 86–568, §115(d) “(f) (words between 1st and 2d commas of 1st sentence)”, 74 Stat. 303.
+July 1, 1960, Pub. L. 86–568, §115(d) "(f) (words between 1st and 2d commas of 1st sentence)", 74 Stat. 303.
 
 &nbsp;
 
@@ -56,9 +56,9 @@ Sept. 28, 1959, Pub. L. 86–382, §10(b), 73 Stat. 715.
 
 5 U.S.C. 3002(f) (2d sentence).
 
-July 1, 1960, Pub. L. 86–568, §115(d) “(f) (2d sentence)”, 74 Stat. 303.
+July 1, 1960, Pub. L. 86–568, §115(d) "(f) (2d sentence)", 74 Stat. 303.
 
-In subsection (b)(2), the words “section 1501 of title 31, District of Columbia Code” are substituted for “section 1 of the District of Columbia Teachers’ Salary Act of 1955 (69 Stat. 521), as amended (sec. 31–1501, D.C. Code, 1961 edition)”.
+In subsection (b)(2), the words "section 1501 of title 31, District of Columbia Code" are substituted for "section 1 of the District of Columbia Teachers' Salary Act of 1955 (69 Stat. 521), as amended (sec. 31–1501, D.C. Code, 1961 edition)".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -68,15 +68,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–615, §3(7), substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–615, §3(7), substituted "employees, annuitants, members of their families, and former spouses" for "employees and annuitants and members of their families", and "in which an annuitant or former spouse" for "in which an annuitant".
 
-<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454, §906(a)(2), (3), substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
 
-Subsec. (b)(3). Pub. L. 95–454, §906(c)(2)(F), (H), substituted “3401” for “3391”.
+Subsec. (b)(3). Pub. L. 95–454, §906(c)(2)(F), (H), substituted "3401" for "3391".
 
 Pub. L. 95–437 added par. (3).
 
-Subsec. (c). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission”.
+Subsec. (c). Pub. L. 95–454, §906(a)(3), substituted "Office" for "Commission".
 
 #### Effective Date of 1988 Amendment
 

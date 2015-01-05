@@ -8,7 +8,7 @@ The Secretary of Defense shall, in accordance with the provisions of this sectio
 
 (1) The destruction of such stockpile shall be completed by the stockpile elimination deadline.
 
-(2) If the Secretary of Defense determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
+(2) If the Secretary of Defense determines at any time that there will be a delay in meetingthe requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
 
 (3) For purposes of this section, the term "stockpile elimination deadline" means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2017.
 
@@ -126,7 +126,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 &emsp;(E) A description of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolystates.
 
-(3) The Secretary shall transmit the final report under paragraph (1) not later than 120 daysfollowing the completion of activities under this section.
+(3) The Secretary shall transmit the final report under paragraph (1) not later than 120 days following the completion of activities under this section.
 
 #### (j) Semiannual reports
 

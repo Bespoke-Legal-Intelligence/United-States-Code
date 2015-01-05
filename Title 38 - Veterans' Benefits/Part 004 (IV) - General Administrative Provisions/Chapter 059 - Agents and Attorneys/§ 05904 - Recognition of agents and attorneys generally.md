@@ -44,7 +44,7 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 &emsp;(6) has presented to the Secretary a frivolous claim, issue, or argument, involving conduct inconsistent with ethical standards for the practice of law;
 
-&emsp;(7) has been suspended or disbarred by any court or bar to which such agent or attorneywas previously admitted to practice, or has been disqualified from participating in or appearing before any Federal agency, and has not been subsequently reinstated;
+&emsp;(7) has been suspended or disbarred by any court or bar to which such agent or attorney was previously admitted to practice, or has been disqualified from participating in or appearing before any Federal agency, and has not been subsequently reinstated;
 
 &emsp;(8) has charged excessive or unreasonable fees, as determined by the Secretary in accordance with subsection (c)(3)(A); or
 
@@ -82,7 +82,7 @@ Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or 
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–461, §101(a)(1)(A), inserted heading.
 
-Subsec. (a)(1). Pub. L. 109–461, §101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted "Except as provided in paragraph (4), the Secretary may recognize" for "The Secretary may recognize", and struck out last sentence which read as follows: "The Secretary may require that individuals, before being recognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims."
+Subsec. (a)(1). Pub. L. 109–461, §101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted "Except as provided in paragraph (4), the Secretary may recognize" for "The Secretary may recognize", and struck out last sentence which read as follows: "The Secretary may require that individuals, before beingrecognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims."
 
 Subsec. (a)(2) to (6). Pub. L. 109–461, §101(a)(1)(D), added pars. (2) to (6).
 
@@ -94,7 +94,7 @@ Subsec. (c)(1). Pub. L. 109–461, §101(e)(1), substituted "paragraph (4)" for 
 
 Pub. L. 109–461, §101(c)(1), substituted "a notice of disagreement is filed with respect to" for "the Board of Veterans' Appeals first makes a final decision in", struck out "Such a fee may be charged, allowed, or paid in the case of services provided after such date only if an agent or attorney is retained with respect to such case before the end of the one-year period beginning on that date." before "The limitation", and inserted "fees charged, allowed, or paid for" after "does not apply to".
 
-Subsec. (c)(2). Pub. L. 109–461, §101(d), substituted "after a notice of disagreement is filed with respect to the case" for "after the Board first makes a final decision in the case" and "with the Secretary pursuant to regulations prescribed by the Secretary" for "with theBoard at such time as may be specified by the Board" and struck out at end: "The Board, upon its own motion or the request of either party, may review such a fee agreement and may order a reduction in the fee called for in the agreement if the Board finds that the fee is excessive or unreasonable. A finding or order of the Board under the preceding sentence may be reviewed by the United States Court of Appeals for Veterans Claims under section 7263(d) of this title."
+Subsec. (c)(2). Pub. L. 109–461, §101(d), substituted "after a notice of disagreement is filed with respect to the case" for "after the Board first makes a final decision in the case" and "with the Secretary pursuant to regulations prescribed by the Secretary" for "with the Board at such time as may be specified by the Board" and struck out at end: "The Board, upon its own motion or the request of either party, may review such a fee agreement and may order a reduction in the fee called for in the agreement if the Board finds that the fee is excessive or unreasonable. A finding or order of the Board under the preceding sentence may be reviewed by the United States Court of Appeals for Veterans Claims under section 7263(d) of this title."
 
 Subsec. (c)(3), (4). Pub. L. 109–461, §101(e)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 

@@ -12,7 +12,7 @@ Another prior section 5102, act Aug. 16, 1954, ch. 736, 68A Stat. 617, defined m
 
 A prior section 5103, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1339, related to exemptions from the taxes imposed by section 5101 of this title, prior to the general revision of this subpart by Pub. L. 98–369.
 
-Another prior section 5103, act Aug. 16, 1954, ch. 736, 68A Stat. 617, related to exemptions from taxes imposedby section 5101 of this title, prior to the general revision of this chapter by Pub. L. 85–859.
+Another prior section 5103, act Aug. 16, 1954, ch. 736, 68A Stat. 617, related to exemptions from taxes imposed by section 5101 of this title, prior to the general revision of this chapter by Pub. L. 85–859.
 
 A prior section 5104, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1339, provided that the tax imposed on stills or condensers by section 5101 be paid by stamp, denoting the tax, under regulations prescribed by Secretary or his delegate, prior to repeal by Pub. L. 94–455, title XIX, §1905(b)(3)(A)(i), Oct. 4, 1976, 90 Stat. 1822, effective on first day of first month which began more than 90 days after Oct. 4, 1976.
 

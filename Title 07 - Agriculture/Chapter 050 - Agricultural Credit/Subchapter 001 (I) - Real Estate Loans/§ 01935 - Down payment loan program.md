@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers for down payments on farm ownership loans.
+&emsp;Notwithstanding any other section of this subchapter, the Secretary shall establish,within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers for down payments on farm ownership loans.
 
 #### (2) Administration
 
@@ -20,19 +20,15 @@
 
 &emsp;&emsp;(B) the appraised value of the farm or ranch to be acquired; or
 
-&emsp;&emsp;(C) $500,000.
+&emsp;&emsp;(C) $667,000.
 
-#### (2) <sup>1</sup> Interest rate
+#### (2) Interest rate
 
 &emsp;The interest rate on any loan made by the Secretary under this section shall be a rate equal to the greater of—
 
 &emsp;&emsp;(A) the difference obtained by subtracting 4 percent from the interest rate for farm ownership loans under this subchapter; or
 
 &emsp;&emsp;(B) 1.5 percent.
-
-#### (2) <sup>1</sup> Interest rate
-
-&emsp;The interest rate on any loan made by the Secretary under this section shall be 4 percent.
 
 #### (3) Duration
 
@@ -90,13 +86,17 @@ In carrying out this section, the Secretary shall, to the maximum extent practic
 
 In this section, the term "socially disadvantaged farmer or rancher" has the meaning given that term in section 2003(e)(2) of this title.
 
-(Pub. L. 87–128, title III, §310E, as added Pub. L. 102–554, §7(a), Oct. 28, 1992, 106 Stat. 4144; amended Pub. L. 107–171, title V, §5005, May 13, 2002, 116 Stat. 342; Pub. L. 110–234, title V, §5004, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, §4(a), title V, §5004, June 18, 2008, 122 Stat. 1664, 1905.)
+(Pub. L. 87–128, title III, §310E, as added Pub. L. 102–554, §7(a), Oct. 28, 1992, 106 Stat. 4144; amended Pub. L. 107–171, title V, §5005, May 13, 2002, 116 Stat. 342; Pub. L. 110–234, title V, §5004, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, §4(a), title V, §5004, June 18, 2008, 122 Stat. 1664, 1905; Pub. L. 113–79, title V, §5005, Feb. 7, 2014, 128 Stat. 834.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b)(1)(C). Pub. L. 113–79, §5005(a), substituted "$667,000" for "$500,000".
+
+Subsec. (b)(2). Pub. L. 113–79, §5005(b), struck out second par. (2) which read as follows: "The interest rate on any loan made by the Secretary under this section shall be 4 percent."
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5004(1), substituted "or ranchers and socially disadvantaged farmers or ranchers" for "and ranchers".
 
@@ -127,6 +127,4 @@ Subsec. (c)(3)(B). Pub. L. 107–171, §5005(2), substituted "15-year" for "10-y
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
-
-<i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
 

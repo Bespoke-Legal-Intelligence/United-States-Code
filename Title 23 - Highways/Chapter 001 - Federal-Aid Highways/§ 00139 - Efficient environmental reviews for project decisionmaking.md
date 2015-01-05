@@ -54,7 +54,7 @@ In general.—The project development procedures in this section are applicable 
 
 &emsp;(2)
 
-Flexibility.—Any authorities granted in this section may be exercised, and any requirements established under this section maybe satisfied, for a project, class of projects, or program of projects.
+Flexibility.—Any authorities granted in this section may be exercised, and any requirements established under this section may be satisfied, for a project, class of projects, or program of projects.
 
 &emsp;(3)
 
@@ -154,7 +154,7 @@ In general.—The lead agency shall be responsible for inviting and designating 
 
 &emsp;(2)
 
-Invitation.—The lead agency shall identify, as early as practicable in the environmental review process for a project, any other Federal and non-Federal agencies that may have an interest in the project, and shall invite such agencies to become participating agencies in the environmental review processfor the project. The invitation shall set a deadline for responses to be submitted. The deadline may be extended by the lead agency for good cause.
+Invitation.—The lead agency shall identify, as early as practicable in the environmental review process for a project, any other Federal and non-Federal agencies that may have an interest in the project, and shall invite such agencies to become participating agencies in the environmental review process for the project. The invitation shall set a deadline for responses to be submitted. The deadline may be extended by the lead agency for good cause.
 
 &emsp;(3)
 
@@ -262,7 +262,7 @@ Coordination plan.—
 
 &emsp;&emsp;(A)
 
-In general.—The lead agency shall establish a plan for coordinating public and agency participation in and comment on the environmental review process for a project or category of projects. The coordinationplan may be incorporated into a memorandum of understanding.
+In general.—The lead agency shall establish a plan for coordinating public and agency participation in and comment on the environmental review process for a project or category of projects. The coordination plan may be incorporated into a memorandum of understanding.
 
 &emsp;&emsp;(B)
 
@@ -302,7 +302,7 @@ Modification.—The lead agency may—
 
 Dissemination.—A copy of a schedule under subparagraph (B), and of any modifications to the schedule, shall be—
 
-&emsp;&emsp;&emsp;(i) provided to all participating agencies and to the State transportation department of the State in which the project is located (and, if the State is not the project sponsor, to the project sponsor); and
+&emsp;&emsp;&emsp;(i) provided to all participating agencies and to the State transportation department of the State in which the project islocated (and, if the State is not the project sponsor, to the project sponsor); and
 
 &emsp;&emsp;&emsp;(ii) made available to the public.
 
@@ -484,7 +484,7 @@ No fault of agency.—A rescission of funds under this paragraph shall not be ma
 
 &emsp;&emsp;(E)
 
-Limitation.—The Federal agency with jurisdiction for the decision from which funds are rescinded pursuant to this paragraph shall not reprogram funds to the office of the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
+Limitation.—The Federal agency with jurisdiction for the decision from which funds are rescinded pursuant to this paragraph shall not reprogram funds to the officeof the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
 
 &emsp;&emsp;(F)
 
@@ -532,7 +532,7 @@ Use of federal lands highway funds.—The Secretary may also use funds made avai
 
 &emsp;(4)
 
-Amounts.—Requests under paragraph (1) may be approved only for the additionalamounts that the Secretary determines are necessary for the Federal agencies, State agencies, or Indian tribes participating in the environmental review process to meet the time limits for environmental review.
+Amounts.—Requests under paragraph (1) may be approved only for the additional amounts that the Secretary determines are necessary for the Federal agencies, State agencies, or Indian tribes participating in the environmental review process to meet the time limits for environmental review.
 
 &emsp;(5)
 
@@ -722,7 +722,7 @@ Early Coordination Activities.—Early coordination activities shall include, to
 
 &emsp;"(2) The potential appropriateness of using planning products and decisions in later environmental reviews.
 
-&emsp;"(3) The identification and elimination from detailed study in the environmental review process ofthe issues that are not significant or that have been covered by prior environmental reviews.
+&emsp;"(3) The identification and elimination from detailed study in the environmental review process of the issues that are not significant or that have been covered by prior environmental reviews.
 
 &emsp;"(4) The identification of other environmental review and consultation requirements so that the lead and cooperating agencies may prepare, as appropriate, other required analyses and studies concurrently with planning activities.
 

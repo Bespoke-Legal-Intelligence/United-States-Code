@@ -22,7 +22,7 @@ No labor organization shall limit the right of any member thereof to institute a
 
 #### (5) Safeguards against improper disciplinary action
 
-No member of any labor organization may be fined, suspended, expelled, or otherwise disciplined except for nonpayment of dues by such organization or by any officer thereof unless such member has been (A) served with writtenspecific charges; (B) given a reasonable time to prepare his defense; (C) afforded a full and fair hearing.
+No member of any labor organization may be fined, suspended, expelled, or otherwise disciplined except for nonpayment of dues by such organization or by any officer thereof unless such member has been (A) served with written specific charges; (B) given a reasonable time to prepare his defense; (C) afforded a full and fair hearing.
 
 #### (b) Invalidity of constitution and bylaws
 

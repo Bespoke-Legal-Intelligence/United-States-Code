@@ -6,9 +6,9 @@ The Secretary of State, in consultation with the Secretary of Defense and the he
 
 #### (b) Referral of license applications
 
-(1) A determination of the Secretary of State to approve a license for the export of an item on the list established under subsection (a) of this section may be made only after the license application is referred to the Secretary of Defense.
+(1) A determination of the Secretary of State to approve a license for the export of an item on the list established under subsection (a) may be made only after the license application is referred to the Secretary of Defense.
 
-(2) Within 10 days after a license is issued for the export of an item on the list established under subsection (a) of this section, the Secretary of State shall provide to the Secretary of Defense and the Secretary of Commerce the license application and accompanying documents issued to the applicant, to the extent that the relevant Secretary indicates the need to receive such application and documents.
+(2) Within 10 days after a license is issued for the export of an item on the list established under subsection (a), the Secretary of State shall provide to the Secretary of Defense and the Secretary of Commerce the license application and accompanying documents issued to the applicant, to the extent that the relevant Secretary indicates the need to receive such application and documents.
 
 #### (c) Information sharing
 
@@ -124,7 +124,7 @@ Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</
 
 (b) <i>Export Administration Act</i>. The authority and duties vested in me by section 11B of the EAA (50 U.S.C. App. 2410b) are delegated to the Secretary of Commerce, except that:
 
-(1) The authority and duties vested in me by sections 11B(a)(1)(A) (insofar as such section authorizes determinations with respect to violations by United States persons of the AECA \[22 U.S.C. 2751 et seq.\]), 11B(b)(1) (insofar as such section authorizes determinations regarding activities by foreign persons), and 11B(b)(5) are delegated to the Secretary of State.
+(1) The authority and duties vested in me by sections 11B(a)(1)(A) (insofar as such section authorizes determinations with respect to violations by United Statespersons of the AECA \[22 U.S.C. 2751 et seq.\]), 11B(b)(1) (insofar as such section authorizes determinations regarding activities by foreign persons), and 11B(b)(5) are delegated to the Secretary of State.
 
 (2) The authority and duties vested in me to make the findings provided in sections 11B(a)(3), 11B(b)(6), and 11B(b)(7)(A) are delegated to the Secretary of Defense. The Secretary of Commerce shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, waivers based upon findings made pursuant to section 11B(a)(3). The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, waivers based upon findings made pursuant to section 11B(b)(6).
 
@@ -134,7 +134,7 @@ Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</
 
 (d) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, the Director of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate, utilizing the appropriate interagency groups prior to any determination to exercise prohibition authority delegated hereby.
 
-Sec. 3. <i>Arms Control in the Middle East</i>. The certification and reporting functions vested in me by sections 403 and 404 of the Foreign Relations Authorization Act,Fiscal Years 1992 and 1993 \[22 U.S.C. 2778 note\], are delegated to the Secretary of State. The Secretary of State shall exercise these functions in consultation with the Secretary of Defense and other agencies as appropriate.
+Sec. 3. <i>Arms Control in the Middle East</i>. The certification and reporting functions vested in me by sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 \[22 U.S.C. 2778 note\], are delegated to the Secretary of State. The Secretary of State shall exercise these functions in consultation with the Secretary of Defense and other agencies as appropriate.
 
 Sec. 4. <i>China and Weapons Proliferation</i>. The reporting functions regarding China and weapons proliferation vested in me by sections 303(a)(2) and 324 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 \[Pub. L. 102–138, 105 Stat. 709, 711\], are delegated to the Secretary of State. The Secretary of State shall exercise these functions in consultation with the Secretary of Defense and other agencies as appropriate.
 

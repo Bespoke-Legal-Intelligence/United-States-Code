@@ -64,13 +64,13 @@ Acceptance of Contributions; Imposition of Fees.—(1) The Secretary of a milita
 
 &emsp;(B) may impose fees relating to the use of such Fisher Houses and Fisher Suites.
 
-(2) All monetary donations, and the proceeds of the disposal of any other donated property,accepted by the Secretary of a military department under this subsection shall be credited to the fund established under subsection (d) for the Fisher Houses and Fisher Suites associated with facilities of that military department and shall be available to that Secretary to support all such Fisher Houses and Fisher Suites.
+(2) All monetary donations, and the proceeds of the disposal of any other donated property, accepted by the Secretary of a military department under this subsection shall be credited to the fund established under subsection (d) for the Fisher Houses and Fisher Suites associated with facilities of that military department and shall be available to that Secretary to support all such Fisher Houses and Fisher Suites.
 
 (f)
 
 Base Operating Support.—The Secretary of a military department may provide base operating support for Fisher Houses associated with facilities of that military department.
 
-(Added Pub. L. 105–261, div. A, title IX, §906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, §321, Dec. 2, 2002, 116 Stat. 2510; Pub. L. 112–81, div. A, title X, §1061(17), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 112–239, div. A, title VI, §652(a), (b), Jan. 2, 2013, 126 Stat. 1784.)
+(Added Pub. L. 105–261, div. A, title IX, §906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(a)\], Oct. 30,2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, §321, Dec. 2, 2002, 116 Stat. 2510; Pub. L. 112–81, div. A, title X, §1061(17), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 112–239, div. A, title VI, §652(a), (b), Jan. 2, 2013, 126 Stat. 1784.)
 
 #### Amendments
 

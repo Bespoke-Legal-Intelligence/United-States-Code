@@ -6,7 +6,7 @@ Any commercial fisherman suffering damages compensable under this subchapter may
 
 #### (b) Transmittal of copy of claim to Secretary of the Interior; reference to Secretary
 
-Upon receipt of any claim under this section, the Secretary shall transmit a copy of the claim to the Secretary of the Interior and shall take such further action regarding the claim that is required under subsection (d) of this section.
+Upon receipt of any claim under this section, the Secretary shall transmit a copy of the claimto the Secretary of the Interior and shall take such further action regarding the claim that is required under subsection (d) of this section.
 
 #### (c) Notification to persons engaged in activities associated with Outer Continental Shelf energy activities; response of persons notified; submittal of evidence
 
@@ -52,7 +52,7 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 (2) Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
-(3) Any person who denies responsibility for damages with respect to which a claim is madeand who is subquently <sup>2</sup> found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
+(3) Any person who denies responsibility for damages with respect to which a claim is made and who is subquently <sup>2</sup> found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for suchdamages, shall pay the costs of the proceedings under this section with respect to such claim.
 
 #### (i) Judicial review
 

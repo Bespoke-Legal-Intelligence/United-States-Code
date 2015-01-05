@@ -56,7 +56,7 @@
 
 &emsp;(B) at least once each year a list of reports issued during the prior 12 months.
 
-(2) A copy of each list shall be sent to each committee of Congress and each member of Congress. On request, the Comptroller General promptly shall provide a copy of a report to a committee or member.
+(2) The Comptroller General shall make each list available through the public website of the Government Accountability Office. On request, the Comptroller General promptly shall provide a copy of a report to a committee or member of Congress.
 
 (h) On request of a committee of Congress, the Comptroller General shall explain to and discuss with the committee or committee staff a report the Comptroller General makes that would help the committee—
 
@@ -64,7 +64,7 @@
 
 &emsp;(2) in its consideration of proposed legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 894; Pub. L. 104–316, title I, §115(b), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 105–85, div. A, title X, §1044, Nov. 18, 1997, 111 Stat. 1887; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 894; Pub. L. 104–316, title I, §115(b), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 105–85, div. A, title X, §1044, Nov. 18, 1997, 111 Stat. 1887; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–188, title IX, §902(b), Nov. 26, 2014, 128 Stat. 2021.)
 
 Historical and Revision Notes
 
@@ -156,7 +156,7 @@ Aug. 2, 1946, ch. 753, §206(last sentence), 60 Stat. 837.
 
 In subsection (a), before clause (1), the words "of Congress" are added for clarity. The words "in writing" are omitted as surplus. The words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
-In subsection (b)(1), before clause (A), the words "under subsection (a) of this section" are substituted for "annual" in 31:1154(e), 1155(b), and 1175(b) for clarity. In clause (A), the words "of methods for review and evaluation of Government programs and activities" areomitted as unnecessary. In clause (C), the word "officer" is added for consistency. The words "of the General Accounting Office" are added for clarity. The words "committee of Congress" are substituted for "committee of the Senate or House of Representatives or any joint committee of Congress" for consistency and to eliminate unnecessary words. The words "name of each", "joint committee", and "of such employee" are omitted as surplus. The word "compensation" is substituted for "pay of such employee, his travel, subsistence, and other expenses, the agency contributions for his retirement and life and health insurance benefits, and other necessary monetary expenses for personnel benefits on account of such employee" for consistency in the revised title and with other titles of the United States Code. The words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "of such employee, or, if such assignment or detail is currently in effect, during that part of the period of such assignment or detail" are omitted as surplus.
+In subsection (b)(1), before clause (A), the words "under subsection (a) of this section" are substituted for "annual" in 31:1154(e), 1155(b), and 1175(b) for clarity. In clause (A), the words "of methods for review and evaluation of Government programs and activities" are omitted as unnecessary. In clause (C), the word "officer" is added for consistency. The words "of the General Accounting Office" are added for clarity. The words "committee of Congress" are substituted for "committee of the Senate or House of Representatives or any joint committee of Congress" for consistency and to eliminate unnecessary words. The words "name of each", "joint committee", and "of such employee" are omitted as surplus. The word "compensation" is substituted for "pay of such employee, his travel, subsistence, and other expenses, the agency contributions for his retirement and life and health insurance benefits, and other necessary monetary expenses for personnel benefits on account of such employee" for consistency in the revised title and with other titles of the United States Code. The words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "of such employee, or, if such assignment or detail is currently in effect, during that part of the period of such assignment or detail" are omitted as surplus.
 
 In subsection (b)(2), the words "at any time" are omitted as surplus.
 
@@ -184,13 +184,15 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 #### Amendments
 
+<b>2014</b>—Subsec. (g)(2). Pub. L. 113–188 substituted "The Comptroller General shall make each list available through the public website of the Government Accountability Office." for "A copy of each list shall be sent to each committee of Congress and each member of Congress." and inserted "of Congress" after "committee or member".
+
 <b>2004</b>—Subsec. (b)(1)(C), (3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1997</b>—Subsec. (b)(3). Pub. L. 105–85 added par. (3).
 
 <b>1996</b>—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: "The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
 
-&emsp;"(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality of returns and return information made available to the Comptroller General under section 713(b)(1) of this title;
+&emsp;"(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality ofreturns and return information made available to the Comptroller General under section 713(b)(1) of this title;
 
 &emsp;"(2) the scope and subject matter of audits under section 713 of this title; and
 
@@ -204,7 +206,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a) and (g)(2) (1st sentence)of this section are listed on pages 9 and 7, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a) and (g)(2) (1st sentence) of this section are listed on pages 9 and 7, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Reporting Requirements
 

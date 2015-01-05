@@ -18,7 +18,7 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (i) Previously filed application
 
-&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn\(without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
 
 #### (ii) Certain abbreviated applications involving combination animal drugs
 
@@ -130,7 +130,7 @@ The Secretary shall grant a waiver from or a reduction of 1 or more fees assesse
 
 #### (e) Effect of failure to pay fees
 
-An abbreviated application for a generic new animal drug submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational submission for a generic new animal drug that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any abbreviated application for a generic new animal drug, supplemental abbreviated application for a generic new animal drug, or investigational submission for a generic new animal drug from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
+An abbreviated application for a generic new animal drug submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing bythe Secretary until all fees owed by such person have been paid. An investigational submission for a generic new animal drug that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any abbreviated application for a generic new animal drug, supplemental abbreviated application for a generic new animal drug, or investigational submission for a generic new animal drug from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
 
 #### (f) Assessment of fees
 
@@ -146,7 +146,7 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to suchappropriation account for salary and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of abbreviated applications for generic new animal drugs.
+&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salary and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of abbreviated applications for generic new animal drugs.
 
 #### (2) Collections and appropriation Acts
 
@@ -222,7 +222,7 @@ In this section and section 379j–22 of this title:
 
 #### (3) Costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs
 
-&emsp;The term "costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs" meansthe expenses in connection with the process for the review of abbreviated applications for generic new animal drugs for—
+&emsp;The term "costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs" means the expenses in connection with the process for the review of abbreviated applications for generic new animal drugs for—
 
 &emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
 
@@ -322,5 +322,5 @@ Pub. L. 110–316, title II, §201(b), Aug. 14, 2008, 122 Stat. 3515, provided t
 
 &emsp;"(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of abbreviated applications for the approval of generic new animal drugs.
 
-&emsp;"(3) The fees authorized by this title \[see Short Title of 2008 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+&emsp;"(3) The fees authorized by this title \[see Short Title of 2008 Amendment note set out under section 301 of this title\] will be dedicated toward expeditingthe generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 

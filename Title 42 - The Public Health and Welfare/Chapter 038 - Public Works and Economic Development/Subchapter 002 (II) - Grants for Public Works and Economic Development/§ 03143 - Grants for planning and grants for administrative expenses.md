@@ -24,7 +24,7 @@ Planning assistance under this subchapter shall be used in conjunction with any 
 
 #### (1) Development
 
-&emsp;Any State plan developed with assistance under this section shall be developed, to the maximum extent practicable, cooperatively by the State, political subdivisions of the State, and the economic development districts located wholly or partially in the State.
+&emsp;Any State plan developed with assistance under this section shall be developed, to themaximum extent practicable, cooperatively by the State, political subdivisions of the State, and the economic development districts located wholly or partially in the State.
 
 #### (2) Comprehensive economic development strategy
 

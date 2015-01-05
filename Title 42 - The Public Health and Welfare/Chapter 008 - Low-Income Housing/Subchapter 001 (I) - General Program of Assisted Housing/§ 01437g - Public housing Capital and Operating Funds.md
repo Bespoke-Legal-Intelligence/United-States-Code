@@ -12,7 +12,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (1) In general
 
-&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2) of this section—
+&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocateamounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2) of this section—
 
 &emsp;&emsp;(A) for assistance from the Capital Fund, the amount determined for the agency under the formula under subsection (d)(2) of this section; and
 
@@ -84,7 +84,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (B) Modernization
 
-&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts provided under this subsection or under section 1437l of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
+&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts providedunder this subsection or under section 1437l of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
 
 #### (C) Applicability of latest expiration date
 
@@ -124,7 +124,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;The Secretary shall establish a formula for determining the amount of assistance provided to public housing agencies from the Operating Fund for a fiscal year. The formula may take into account—
 
-&emsp;&emsp;&emsp;(i) standards for the costs of operating and reasonable projections of income, taking into account the characteristics andlocations of the public housing projects and characteristics of the families served and to be served (including the incomes of the families), or the costs of providing comparable services as determined in accordance with criteria or a formula representing the operations of a prototype well-managed public housing project;
+&emsp;&emsp;&emsp;(i) standards for the costs of operating and reasonable projections of income, taking into account the characteristics and locations of the public housing projects and characteristics of the families served and to be served (including the incomes of the families), or the costs of providing comparable services as determined in accordance with criteria or a formula representing the operations of a prototype well-managed public housing project;
 
 &emsp;&emsp;&emsp;(ii) the number of public housing dwelling units owned, assisted, or operated by the public housing agency;
 
@@ -146,7 +146,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energy conservation improvements in one or more of its public housing projects.
+&emsp;&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energyconservation improvements in one or more of its public housing projects.
 
 #### (ii) Third party contracts
 
@@ -182,7 +182,7 @@ The formulas under subsections (d)(2) and (e)(2) of this section shall be develo
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a public housing agency may not useany of the amounts allocated for the agency from the Capital Fund or Operating Fund for the purpose of constructing any public housing unit, if such construction would result in a net increase from the number of public housing units owned, assisted, or operated by the public housing agency on October 1, 1999, including any public housing units demolished as part of any revitalization effort.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a public housing agency may not use any of the amounts allocated for the agency from the Capital Fund or Operating Fund for the purpose of constructing any public housing unit, if such construction would result in a net increase from the number of public housing units owned, assisted, or operated by the public housing agency on October 1, 1999, including any public housing units demolished as part of any revitalization effort.
 
 #### (B) Exception regarding use of assistance
 
@@ -328,7 +328,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (3) Services for elderly residents
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authoritymay, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
 
 #### (4) Effective date
 
@@ -338,7 +338,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### References in Text
 
-The Quality Housing and Work Responsibility Act of 1998, referred to in subsecs. (a) and (b), is title V of Pub. L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. Section 519(e) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1437 of this title and Tables.
+The Quality Housing and Work Responsibility Act of 1998, referred to in subsecs. (a) and (b), is title V of Pub.L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. Section 519(e) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1437 of this title and Tables.
 
 Section 1437l of this title, referred to in subsecs. (a) and (d)(3)(A), (B), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
@@ -456,7 +456,7 @@ In general.—Subject to paragraph (2), before the implementation of formulas pu
 
 &emsp;"(2)
 
-Qualifications.—Before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C.1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section)—
+Qualifications.—Before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section)—
 
 &emsp;&emsp;"(A) if a public housing agency establishes a rental amount that is based on a ceiling rent established pursuant to subsection (d)(1) of this section \[42 U.S.C. 1437a note\], the Secretary shall take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\];
 
@@ -478,7 +478,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -504,9 +504,13 @@ Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in par
 
 #### Capital Funds for Central Office Costs
 
-Pub. L. 112–55, div. C, title II, §224, Nov. 18, 2011, 125 Stat. 700, provided that: "With respect to the use of amounts provided in this Act \[div. C of Pub. L. 112–55, see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d) and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2)."
+Pub. L. 113–235, div. K, title II, §219, Dec. 16, 2014, 128 Stat. 2753, provided that: "With respect to the use of amounts provided in this Act \[div. K of Pub. L. 113–235, see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d) and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2)."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–76, div. L, title II, §223, Jan. 17, 2014, 128 Stat. 631.
+
+Pub. L. 112–55, div. C, title II, §224, Nov. 18, 2011, 125 Stat. 700.
 
 Pub. L. 111–117, div. A, title II, §224, Dec. 16, 2009, 123 Stat. 3102.
 
@@ -550,7 +554,7 @@ Pub. L. 101–625, title V, §508, Nov. 28, 1990, 104 Stat. 4187, provided that:
 
 #### Energy Efficiency Demonstration
 
-Pub. L. 101–625, title V, §523, Nov. 28, 1990, 104 Stat. 4215, which directed Secretary of Housing and Urban Development to carry out demonstration program to encourage use of private energy service companies and demonstrate opportunities for energy cost reduction through energy services contracts, and to report findings and recommendations to Congress as soon as practicable after expiration of 1-year period beginning on Nov. 28, 1990, was repealed by Pub. L. 105–276, title V, §582(a)(11), Oct. 21, 1998, 112 Stat. 2644.
+Pub. L. 101–625, title V, §523, Nov. 28, 1990, 104 Stat. 4215, which directed Secretary of Housing and Urban Development to carry out demonstration program toencourage use of private energy service companies and demonstrate opportunities for energy cost reduction through energy services contracts, and to report findings and recommendations to Congress as soon as practicable after expiration of 1-year period beginning on Nov. 28, 1990, was repealed by Pub. L. 105–276, title V, §582(a)(11), Oct. 21, 1998, 112 Stat. 2644.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Fund".</i>
 

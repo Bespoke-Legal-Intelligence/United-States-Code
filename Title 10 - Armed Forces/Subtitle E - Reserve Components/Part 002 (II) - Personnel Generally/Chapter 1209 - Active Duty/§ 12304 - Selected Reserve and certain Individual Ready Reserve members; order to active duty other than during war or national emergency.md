@@ -14,7 +14,7 @@ Support for Responses to Certain Emergencies.—The authority under subsection (
 
 (c)
 
-Limitations.—(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 15 or section 12406 of this title or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
+Limitations.—(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of thefunctions authorized by chapter 15 or section 12406 of this title or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
 
 (2) Not more than 200,000 members of the Selected Reserve and the Individual Ready Reserve may be on active duty under this section at any one time, of whom not more than 30,000 may be members of the Individual Ready Reserve.
 
@@ -30,7 +30,7 @@ Policies and Procedures.—The Secretary of Defense and the Secretary of Homelan
 
 (f)
 
-Notification of Congress.—Whenever the President authorizes the Secretary of Defense orthe Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
+Notification of Congress.—Whenever the President authorizes the Secretary of Defense or the Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
 
 (g)
 
@@ -188,7 +188,7 @@ This order shall be published in the Federal Register and transmitted promptly t
 
 Ex. Ord. No. 12927, Sept. 15, 1994, 59 F.R. 47781, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions to restore the civilian government inHaiti. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions to restore the civilian government in Haiti. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
 
 This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
@@ -226,9 +226,19 @@ This order is intended only to improve the internal management of the executive 
 
 Ex. Ord. No. 13529, Jan. 16, 2010, 75 F.R. 3331, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of operational missions, including those involving humanitarian assistance, related to relief efforts in Haiti necessitated by the earthquake on January 12, 2010. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of operational missions, including those involving humanitarian assistance, related to relief efforts in Haiti necessitated by the earthquake on January 12, 2010. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized toserve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
 
 This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13680. Ordering the Selected Reserve and Certain Individual Ready Reserve Members of the Armed Forces to Active Duty
+
+Ex. Ord. No. 13680, Oct. 16, 2014, 79 F.R. 63287, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of Operation United Assistance, which is providing support to civilian-led humanitarian assistance and consequence management support related to the Ebola virus disease outbreak in West Africa. In furtherance of this operation, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
+
+This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

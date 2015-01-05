@@ -2,7 +2,7 @@
 
 #### (a) Annual assistance payments; extensions; determination of amount and recipient
 
-From the date of transfer of any municipal installations to a governmental or other entity at or for the community, the Administrator is authorized, for a period of ten years, to make annual assistance payments of just and reasonable sums to the State, county, or local entity having jurisdiction to collect property taxes or to the entity receiving the installation transferred hereunder: <i>Provided, however</i>, That with respect to the cities of Oak Ridge, Tennessee, and Richland, Washington, the Richland School District,the Los Alamos School Board, and the county of Los Alamos, New Mexico, the Administrator is authorized to continue to make assistance payments of just and reasonable sums after expiration of such ten-year period: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee. In determining the amount and recipient of such payments the Administrator shall consider—
+From the date of transfer of any municipal installations to a governmental or other entity at or for the community, the Administrator is authorized, for a period of ten years, to make annual assistance payments of just and reasonable sums to the State, county, or local entity having jurisdiction to collect property taxes or to the entity receiving the installation transferred hereunder: <i>Provided, however</i>, That with respect to the cities of Oak Ridge, Tennessee, and Richland, Washington, the Richland School District, the Los Alamos School Board, and the county of Los Alamos, New Mexico, the Administrator is authorized to continue to make assistance payments of just and reasonable sums after expiration of such ten-year period: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee. In determining the amount and recipient of such payments the Administrator shall consider—
 
 &emsp;(1) the approximate real property taxes and assessments for local improvements which would be paid to the governmental entity upon property within the community if such property were not exempt from taxation by reason of Federal ownership;
 
@@ -122,7 +122,7 @@ Environmental Restoration.—(1) Not later than 21 months after the date of enac
 
 &emsp;"(C) submit to Congress a report setting forth the results of the activities under subparagraphs (A) and (B).
 
-"(2) If the Secretary determines under paragraph (1) that a parcel described in paragraph (1)(A) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, completethe environmental restoration or remediation of the parcel not later than November 26, 2012.
+"(2) If the Secretary determines under paragraph (1) that a parcel described in paragraph (1)(A) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, complete the environmental restoration or remediation of the parcel not later than November 26, 2012.
 
 "(e)
 

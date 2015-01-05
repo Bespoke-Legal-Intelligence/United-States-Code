@@ -2,7 +2,7 @@
 
 (a)
 
-Maximum Term of Imprisonment.—The maximum term of imprisonment for a violationof this chapter after a prior domestic violence or stalking offense shall be twice the term otherwise provided under this chapter.
+Maximum Term of Imprisonment.—The maximum term of imprisonment for a violation of this chapter after a prior domestic violence or stalking offense shall be twice the term otherwise provided under this chapter.
 
 (b)
 

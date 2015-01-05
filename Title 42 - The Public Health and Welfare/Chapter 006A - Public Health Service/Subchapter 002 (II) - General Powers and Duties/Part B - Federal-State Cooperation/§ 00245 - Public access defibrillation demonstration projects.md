@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants to political subdivisions of States, Indian tribes, and tribalorganizations to develop and implement innovative, comprehensive, community-based public access defibrillation demonstration projects that—
+The Secretary shall award grants to political subdivisions of States, Indian tribes, and tribal organizations to develop and implement innovative, comprehensive, community-based public access defibrillation demonstration projects that—
 
 &emsp;(1) provide cardiopulmonary resuscitation and automated external defibrillation to cardiac arrest victims in unique settings;
 

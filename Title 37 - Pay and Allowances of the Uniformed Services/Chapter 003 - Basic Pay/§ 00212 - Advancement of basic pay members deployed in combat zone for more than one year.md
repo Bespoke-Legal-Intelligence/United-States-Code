@@ -14,7 +14,7 @@ Recoupment of Advanced Pay.—The Secretary concerned shall recoup an advance ma
 
 (d)
 
-Commencement of Recoupment.—The recoupment period for an advancement of basicpay to a member under this section shall commence on the first day of the first month beginning on or after the date on which the member receives the advanced pay.
+Commencement of Recoupment.—The recoupment period for an advancement of basic pay to a member under this section shall commence on the first day of the first month beginning on or after the date on which the member receives the advanced pay.
 
 (Added Pub. L. 108–375, div. A, title VI, §606(a), Oct. 28, 2004, 118 Stat. 1945.)
 

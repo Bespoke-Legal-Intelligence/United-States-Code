@@ -34,7 +34,7 @@ The Congress finds that—
 
 &emsp;(C) site-specific designs, specifications, and cost estimates sufficient to (i) solicit bids for the construction of the first such facility; (ii) support congressional authorization of the construction of such facility; and (iii) enable completion and operation of such facility as soon as practicable following congressional authorization of such facility; and
 
-&emsp;(D) a plan for integrating facilities constructed pursuant to this section with otherstorage and disposal facilities authorized in this chapter.
+&emsp;(D) a plan for integrating facilities constructed pursuant to this section with other storage and disposal facilities authorized in this chapter.
 
 (3) In formulating such proposal, the Secretary shall consult with the Commission and the Administrator, and shall submit their comments on such proposal to the Congress at the time such proposal is submitted.
 

@@ -54,7 +54,7 @@ During a fiscal year, the Secretary under this chapter may make a grant to, or h
 
 &emsp;(A) in an amount exceeding 83.3 percent of the costs of providing health services under the grant or contract; and
 
-&emsp;(B) unless the Native Hawaiian health care system agrees that the Native Hawaiian health care system or the State of Hawaii willmake available, directly or through donations to the Native Hawaiian health care system, non-Federal contributions toward such costs in an amount equal to not less than $1 (in cash or in kind under paragraph (2)) for each $5 of Federal funds provided in such grant or contract.
+&emsp;(B) unless the Native Hawaiian health care system agrees that the Native Hawaiian health care system or the State of Hawaii will make available, directly or through donations to the Native Hawaiian health care system, non-Federal contributions toward such costs in an amount equal to not less than $1 (in cash or in kind under paragraph (2)) for each $5 of Federal funds provided in such grant or contract.
 
 (2) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government may not be included in determining the amount of such non-Federal contributions.
 
@@ -102,7 +102,7 @@ Amendments by Pub. L. 111–148 are based on section 202(a), (b)(1), of title II
 
 The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
-Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of this section is based on section 1 of Pub. L. 100–579, as subsequently amended.
+Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of this section is based on section 6 of Pub. L. 100–579, as subsequently amended.
 
 #### Amendments
 

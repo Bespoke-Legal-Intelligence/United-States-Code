@@ -106,7 +106,7 @@ In this section:
 
 &emsp;&emsp;(A) reduce the amount of the grant determined under paragraph (1) to the extent that payments for administrative costs are actually received by an Indian tribe or tribal organization under any Federal education program included in the direct cost base of the tribe or tribal organization; and
 
-&emsp;&emsp;(B) take such actions as may be necessary to be reimbursed by any other department or agency of the Federal Government for theportion of grants made under this section for the costs of administering any program for Indians that is funded by appropriations made to such other department or agency.
+&emsp;&emsp;(B) take such actions as may be necessary to be reimbursed by any other department or agency of the Federal Government for the portion of grants made under this section for the costs of administering any program for Indians that is funded by appropriations made to such other department or agency.
 
 #### (d) Administrative cost percentage rate
 

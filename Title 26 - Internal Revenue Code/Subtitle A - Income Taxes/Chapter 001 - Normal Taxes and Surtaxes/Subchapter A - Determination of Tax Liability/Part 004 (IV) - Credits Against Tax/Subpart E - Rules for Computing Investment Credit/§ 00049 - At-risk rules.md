@@ -6,7 +6,7 @@
 
 #### (A) Limitation
 
-&emsp;&emsp;The credit base of any property to which this paragraph applies shall be reduced by the nonqualified nonrecourse financing with respect to such credit base (as of the close of the taxable year in which placed in service).
+&emsp;&emsp;The credit base of any property to which this paragraph applies shall be reduced bythe nonqualified nonrecourse financing with respect to such credit base (as of the close of the taxable year in which placed in service).
 
 #### (B) Property to which paragraph applies
 
@@ -154,7 +154,7 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 #### Prior Provisions
 
-A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Stat. 660; Pub. L. 92–178, title I, §101(b)(1)–(4), Dec. 10, 1971, 85 Stat. 498, 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
+A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Stat. 660; Pub. L. 92–178, title I,§101(b)(1)–(4), Dec. 10, 1971, 85 Stat. 498, 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
 
@@ -264,7 +264,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Normalization Rules
 
-Pub. L. 99–514, title II, §211(b), Oct. 22, 1986, 100 Stat. 2168, provided that: "If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Codeof 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
+Pub. L. 99–514, title II, §211(b), Oct. 22, 1986, 100 Stat. 2168, provided that: "If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Code of 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
 
 &emsp;"(1) all credits for open taxable years as of the time of the final determination referred to in section 46(f)(4)(A) of such Code shall be recaptured, and
 

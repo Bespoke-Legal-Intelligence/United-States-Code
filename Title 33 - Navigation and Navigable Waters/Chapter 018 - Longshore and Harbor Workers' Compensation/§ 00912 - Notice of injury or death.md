@@ -32,7 +32,7 @@ Pub. L. 98–426, §11(c)(4), inserted "(i) notice, while not given to a respons
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 11(a) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, and amendment by section 11(b), (c) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, and applicable both with respect to claims filed after such 90th day and to claims pending on such 90th day, see section 28(a), (b) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 11(a) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, and amendment by section 11(b), (c) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, and applicable both with respect to claims filed after such 90th day and to claims pending on such 90th day, see section28(a), (b) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

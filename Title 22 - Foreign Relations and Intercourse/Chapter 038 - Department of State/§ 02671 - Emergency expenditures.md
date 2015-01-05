@@ -4,19 +4,19 @@
 
 The Secretary of State is authorized to—
 
-&emsp;(1) subject to subsection (b) of this section, make expenditures, from such amounts as may be specifically appropriated therefor, for unforeseen emergencies arising in the diplomatic and consular service and, to the extent authorized in appropriation Acts, funds expended for such purposes may be accounted for in accordance with section 3526(e) of title 31; and
+&emsp;(1) subject to subsection (b), make expenditures, from such amounts as may be specifically appropriated therefor, for unforeseen emergencies arising in the diplomatic and consular service and, to the extent authorized in appropriation Acts, funds expended for such purposes may be accounted for in accordance with section 3526(e) of title 31; and
 
 &emsp;(2) delegate to subordinate officials the authority vested in him by section 3526(e) of title 31 pertaining to certification of expenditures.
 
 #### (b) Activities subject to expenditures
 
-(1) Expenditures described under subsection (a) of this section shall be made only for such activities as—
+(1) Expenditures described under subsection (a) shall be made only for such activities as—
 
 &emsp;(A) serve to further the realization of foreign policy objectives;
 
 &emsp;(B) are a matter of urgency to implement;
 
-&emsp;(C) with respect to activities the expenditures for which are required to be certified under subsection (a) of this section, require confidentiality in the best interests of the conduct of foreign policy by the United States; and
+&emsp;(C) with respect to activities the expenditures for which are required to be certified under subsection (a), require confidentiality in the best interests of the conduct of foreign policy by the United States; and
 
 &emsp;(D) are not otherwise prohibited by law.
 
@@ -96,7 +96,7 @@ Section was formerly classified to section 170i of Title 5 prior to the general 
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–236 struck out "and the Foreign Service" after "Department of State" and substituted "a periodic" for "an annual confidential".
 
-<b>1983</b>—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) aspars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) as pars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
 
 #### Termination of Reporting Requirements
 

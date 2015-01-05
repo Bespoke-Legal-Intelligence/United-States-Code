@@ -46,7 +46,7 @@ Reasonable initial costs.—
 
 &emsp;&emsp;(A)
 
-In general.—The Employees’ Life Insurance Fund is available, without fiscal year limitation, for reasonable expenses incurred by the Office of Personnel Management in administering this chapter before the start of the 7-year period described in section 9003(d)(2)(B), including reasonable implementation costs.
+In general.—The Employees' Life Insurance Fund is available, without fiscal year limitation, for reasonable expenses incurred by the Office of Personnel Management in administering this chapter before the start of the 7-year period described in section 9003(d)(2)(B), including reasonable implementation costs.
 
 &emsp;&emsp;(B)
 
@@ -58,7 +58,7 @@ Subsequent costs.—
 
 &emsp;&emsp;(A)
 
-In general.—There is hereby established in the Employees’ Life Insurance Fund a Long-Term Care Administrative Account, which shall be available to the Office, without fiscal year limitation, to defray reasonable expenses incurred by the Office in administering this chapter after the start ofthe 7-year period described in section 9003(d)(2)(B).
+In general.—There is hereby established in the Employees' Life Insurance Fund a Long-Term Care Administrative Account, which shall be available to the Office, without fiscal year limitation, to defray reasonable expenses incurred by the Office in administering this chapter after the start ofthe 7-year period described in section 9003(d)(2)(B).
 
 &emsp;&emsp;(B)
 

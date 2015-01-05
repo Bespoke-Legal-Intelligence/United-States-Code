@@ -1,6 +1,6 @@
 ### §351. Control; rules and regulations
 
-Denali National Park shall be under the executive control of the Secretary of the Interior, and it shall be the duty of the said executive authority, as soon as practicable, to make and publish such rules and regulations not inconsistent with the laws of the United States as the said authority may deem necessary or proper for the care, protection, management, and improvement of the same, the said regulations being primarily aimed at the freest use of the said park for recreation purposes by the public and for thepreservation of animals, birds, and fish and for the preservation of the natural curiosities and scenic beauties thereof.
+Denali National Park shall be under the executive control of the Secretary of the Interior, and it shall be the duty of the said executive authority, as soon as practicable, to make and publish such rules and regulations not inconsistent with the laws of the United States as the said authority may deem necessary or proper for the care, protection, management, and improvement of the same, the said regulations being primarily aimed at the freest use of the said park for recreation purposes by the public and for the preservation of animals, birds, and fish and for the preservation of the natural curiosities and scenic beauties thereof.
 
 (Feb. 26, 1917, ch. 121, §5, 39 Stat. 938; Pub. L. 96–487, title II, §202(3)(a), Dec. 2, 1980, 94 Stat. 2382.)
 

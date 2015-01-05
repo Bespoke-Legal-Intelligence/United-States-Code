@@ -26,7 +26,7 @@ The Council may use the United States mails in the same manner and under the sam
 
 #### (f) Administrative and support services
 
-The Administrator of General Services shall provide to the Council, on a reimbursable basis, such administrative and support services as the Council may request.
+The Administrator of General Services shall provide to the Council, on a reimbursable basis,such administrative and support services as the Council may request.
 
 #### (g) Subcouncils
 

@@ -72,7 +72,7 @@ The Director shall conduct a national youth anti-drug media campaign (referred t
 
 &emsp;Subject to the availability of appropriations, for each fiscal year, not less than 77 percent of the amounts appropriated under this section shall be used for the purchase of advertising time and space for the national media campaign, subject to the following exceptions:
 
-&emsp;&emsp;(A) In any fiscal year for which less than $125,000,000 is appropriated for the national media campaign, not less than 72 percent of the amounts appropriated under this sectionshall be used for the purchase of advertising time and space for the national media campaign.
+&emsp;&emsp;(A) In any fiscal year for which less than $125,000,000 is appropriated for the national media campaign, not less than 72 percent of the amounts appropriated under this section shall be used for the purchase of advertising time and space for the national media campaign.
 
 &emsp;&emsp;(B) In any fiscal year for which more than $195,000,000 is appropriated under this section, not less than 82 percent shall be used for advertising production costs and the purchase of advertising time and space for the national media campaign.
 
@@ -228,7 +228,7 @@ There is authorized to be appropriated to the Office to carry out this section, 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this subtitle" and was translated as reading"this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. Title VII does not contain subtitles. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this subtitle" and was translated as reading "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. Title VII does not contain subtitles. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Codification
 

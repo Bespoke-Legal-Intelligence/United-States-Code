@@ -92,7 +92,7 @@
 
 > The chairman of the special panel may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office.
 
-(B) The chairman is entitled to pay at a rate equal to the maximum annual rate of basic pay payable under the General Schedule for each day he is engaged in the performance of official business on the work of the special panel.
+(B) The chairman is entitled to pay at a rate equal to the maximum annual rate of basic paypayable under the General Schedule for each day he is engaged in the performance of official business on the work of the special panel.
 
 (C) The Board and the Commission shall provide such administrative assistance to the special panel as may be necessary and, to the extent practicable, shall equally divide the costs of providing the administrative assistance.
 
@@ -120,11 +120,11 @@ The General Schedule, referred to in subsec. (d)(6)(B), is set out under section
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–54, §2(a)(46)(A), substituted “affected” for “effected”.
+<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–54, §2(a)(46)(A), substituted "affected" for "effected".
 
-Subsec. (a)(1)(B)(i). Pub. L. 96–54, §2(a)(46)(B), substituted “2000e–16” for “2000e–16c”.
+Subsec. (a)(1)(B)(i). Pub. L. 96–54, §2(a)(46)(B), substituted "2000e–16" for "2000e–16c".
 
-Subsec. (e)(1). Pub. L. 96–54, §2(a)(46)(C), (D), substituted “of this section” for “of this title” in subpar. (C), and “216(b)” for “216(d)” in provision following subpar. (C).
+Subsec. (e)(1). Pub. L. 96–54, §2(a)(46)(C), (D), substituted "of this section" for "of this title" in subpar. (C), and "216(b)" for "216(d)" in provision following subpar. (C).
 
 #### Effective Date of 1979 Amendment
 

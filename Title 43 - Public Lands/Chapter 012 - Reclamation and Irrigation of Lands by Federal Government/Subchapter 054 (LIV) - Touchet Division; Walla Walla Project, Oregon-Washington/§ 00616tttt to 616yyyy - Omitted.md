@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 616tttt, Pub. L. 91–307, §1, July 7, 1970, 84 Stat. 409, authorized construction, operation, and maintenance of Touchet Division, Walla Walla project, Oregon-Washington.
+Section 616tttt, Pub. L. 91–307, §1, July 7, 1970, 84 Stat. 409, authorized construction, operation, andmaintenance of Touchet Division, Walla Walla project, Oregon-Washington.
 
 Section 616uuuu, Pub. L. 91–307, §2, July 7, 1970, 84 Stat. 409, related to irrigation payment contracts and repayment of construction costs.
 

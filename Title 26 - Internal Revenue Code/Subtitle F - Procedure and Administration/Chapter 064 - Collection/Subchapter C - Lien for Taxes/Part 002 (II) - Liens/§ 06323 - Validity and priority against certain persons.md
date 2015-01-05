@@ -142,7 +142,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (A) Definition
 
-&emsp;&emsp;The term "obligatory disbursement agreement" means an agreement (entered into by a person in the course of his trade or business) to make disbursements, but such an agreement shall be treated as coming within the term only to the extent of disbursements which are required to be made by reason of the intervention of the rights of a person other than the taxpayer.
+&emsp;&emsp;The term "obligatory disbursement agreement" means an agreement (entered into by a person in the course of his trade or business) to make disbursements, but such anagreement shall be treated as coming within the term only to the extent of disbursements which are required to be made by reason of the intervention of the rights of a person other than the taxpayer.
 
 #### (B) Limitation on qualified property
 
@@ -296,7 +296,7 @@ For purposes of this section and section 6324—
 
 #### (6) Purchaser
 
-&emsp;The term "purchaser" means a person who, for adequate and full consideration in money or money's worth, acquires an interest (other than a lien or security interest) in property which is valid under local law against subsequent purchasers without actual notice. In applying the preceding sentence for purposes of subsection (a) of this section, and for purposes of section 6324—
+&emsp;The term "purchaser" means a person who, for adequate and full consideration in moneyor money's worth, acquires an interest (other than a lien or security interest) in property which is valid under local law against subsequent purchasers without actual notice. In applying the preceding sentence for purposes of subsection (a) of this section, and for purposes of section 6324—
 
 &emsp;&emsp;(A) a lease of property,
 
@@ -364,7 +364,7 @@ For purposes of this section and section 6324—
 
 Subsec. (b)(7). Pub. L. 105–206, §3435(a)(1)(B), substituted "$5,000" for "$1,000".
 
-Subsec. (b)(10). Pub. L. 105–206, §3435(b), in heading substituted "Deposit-secured loans" for "Passbook loans", and in text struck out ", evidenced by a passbook," after "other account" and substituted period at end for "and if such institution has been continuously in possession of such passbook from the time the loan is made."
+Subsec. (b)(10). Pub. L. 105–206, §3435(b), in heading substituted "Deposit-secured loans" for "Passbookloans", and in text struck out ", evidenced by a passbook," after "other account" and substituted period at end for "and if such institution has been continuously in possession of such passbook from the time the loan is made."
 
 Subsec. (i)(4). Pub. L. 105–206, §3435(a)(2), added par. (4).
 

@@ -24,7 +24,7 @@ In carrying out the duties of the Secretary under this chapter, the Secretary ma
 
 &emsp;(8) acquire, in any lawful manner, any property (real, personal, or mixed, tangible or intangible), to the extent appropriate in connection with assistance provided under this chapter;
 
-&emsp;(9) in addition to any powers, functions, privileges, and immunities otherwise vested in the Secretary, take any action, including the procurement of the services of attorneys by contract, determined by the Secretary to be necessary or desirable in making, purchasing, servicing, compromising, modifying, liquidating, or otherwise administratively dealing with assets held in connection with financial assistance provided under this chapter;
+&emsp;(9) in addition to any powers, functions, privileges, and immunities otherwise vested in the Secretary, take any action, including the procurement of the services of attorneys by contract, determined by the Secretary to be necessary or desirable in making, purchasing,servicing, compromising, modifying, liquidating, or otherwise administratively dealing with assets held in connection with financial assistance provided under this chapter;
 
 &emsp;(10)(A) employ experts and consultants or organizations as authorized by section 3109 of title 5 except that contracts for such employment may be renewed annually;
 
@@ -52,7 +52,7 @@ The authority under subsection (a)(7) of this section to pursue claims shall inc
 
 #### (c) Inapplicability of certain other requirements
 
-Section 6101 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result ofassistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
+Section 6101 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result of assistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
 
 #### (d) Property interests
 

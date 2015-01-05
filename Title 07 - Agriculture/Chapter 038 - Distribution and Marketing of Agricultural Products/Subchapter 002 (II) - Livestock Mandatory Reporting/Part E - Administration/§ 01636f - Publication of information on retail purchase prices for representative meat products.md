@@ -6,21 +6,21 @@ Beginning not later than 90 days after October 22, 1999, the Secretary shall com
 
 #### (b) Information
 
-The report published by the Secretary under subsection (a) of this section shall include—
+The report published by the Secretary under subsection (a) shall include—
 
-&emsp;(1) information on retail prices for each representative food product described in subsection (a) of this section; and
+&emsp;(1) information on retail prices for each representative food product described in subsection (a); and
 
 &emsp;(2) information on total sales quantity (in pounds and dollars) for each representative food product.
 
 #### (c) Meat Price Spreads Report
 
-During the period ending 2 years after the initial publication of the report required under subsection (a) of this section, the Secretary shall continue to publish the Meat Price Spreads Report in the same manner as the Report was published before October 22, 1999.
+During the period ending 2 years after the initial publication of the report required under subsection (a), the Secretary shall continue to publish the Meat Price Spreads Report in the same manner as the Report was published before October 22, 1999.
 
 #### (d) Information collection
 
 #### (1) In general
 
-&emsp;To ensure the accuracy of the reports required under subsection (a) of this section, theSecretary shall obtain the information for the reports from one or more sources including—
+&emsp;To ensure the accuracy of the reports required under subsection (a), the Secretary shall obtain the information for the reports from one or more sources including—
 
 &emsp;&emsp;(A) a consistently representative set of retail transactions; and
 

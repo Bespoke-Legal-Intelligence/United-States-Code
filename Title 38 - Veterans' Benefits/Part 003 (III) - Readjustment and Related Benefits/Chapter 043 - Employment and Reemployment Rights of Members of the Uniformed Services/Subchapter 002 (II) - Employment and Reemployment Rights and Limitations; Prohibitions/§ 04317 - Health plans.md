@@ -46,7 +46,7 @@ Subsec. (b)(3). Pub. L. 109–233, §303(b)(2), added par. (3).
 
 <b>2004</b>—Subsec. (a)(1)(A). Pub. L. 108–454 substituted "24-month period" for "18-month period".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "(a)(1) In" for "(a)(1)(A) Subject to paragraphs (2) and (3), in",redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "(a)(1) In" for "(a)(1)(A) Subject to paragraphs (2) and (3), in", redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
 
 #### Effective Date of 2004 Amendment
 

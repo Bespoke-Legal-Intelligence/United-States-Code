@@ -4,11 +4,11 @@ For the purposes of this subchapter—
 
 #### (a) Net earnings from self-employment
 
-The term "net earnings from self-employment" means the gross income, as computed under subtitle A of the Internal Revenue Code of 1986, derived by an individual from any trade or business carried on by such individual, less the deductions allowed under such subtitle which are attributable to such trade or business, plus his distributive share (whether or not distributed) of the ordinary net income or loss, as computed under section 702(a)(8) of such Code, from any trade or business carried on by a partnership of which he is a member; except that in computing such gross income and deductions and such distributive share of partnership ordinary net income or loss—
+The term "net earnings from self-employment" means the gross income, as computed under subtitle A of the Internal Revenue Code of 1986, derived by an individual from any trade or business carried on by such individual, less the deductions allowed under such subtitle which are attributable to such trade or business, plus his distributive share (whether or not distributed) of the ordinary net income or loss, as computed under section 702(a)(8) of such Code, from any trade or business carried on by a partnership of which he is a member; except that incomputing such gross income and deductions and such distributive share of partnership ordinary net income or loss—
 
-&emsp;(1) There shall be excluded rentals from real estate and from personal property leased with the real estate (including such rentals paid in crop shares, and including payments under section 3833(2) of title 16 to individuals receiving benefits under section 402 or 423 of this title), together with the deductions attributable thereto, unless such rentals are received in the course of a trade or business as a real estate dealer; except that the preceding provisions of this paragraph shall not apply to any income derived by the owner or tenant of land if (A) such income is derived under an arrangement, between the owner or tenant and another individual, which provides that such other individual shall produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land, and that there shall be material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) in the production or the management of the production of such agricultural or horticultural commodities, and (B) there is material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) with respect to any such agricultural or horticultural commodity;
+&emsp;(1) There shall be excluded rentals from real estate and from personal property leased with the real estate (including such rentals paid in crop shares, and including payments under section 3833(2) of title 16 <sup>1</sup> to individuals receiving benefits under section 402 or 423 of this title), together with the deductions attributable thereto, unless such rentals are received in the course of a trade or business as a real estate dealer; except that the preceding provisions of this paragraph shall not apply to any income derived by the owner or tenant of land if (A) such income is derived under an arrangement, between the owner or tenant and another individual, which provides that such other individual shall produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land, and that there shall be material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) in the production or the management of the production of such agricultural or horticultural commodities, and (B) there is material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) with respect to any such agricultural or horticultural commodity;
 
-&emsp;(2) There shall be excluded dividends on any share of stock, and interest on any bond, debenture, note, or certificate, or other evidence of indebtedness, issued with interest benefits <sup>1</sup> or in registered form by any corporation (including one issued by a government or political subdivision thereof), unless such dividends and interest are received in the course of a trade or business as a dealer in stocks or securities;
+&emsp;(2) There shall be excluded dividends on any share of stock, and interest on any bond, debenture, note, or certificate, or other evidence of indebtedness, issued with interest benefits <sup>2</sup> or in registered form by any corporation (including one issued by a government or political subdivision thereof), unless such dividends and interest are received in the course of a trade or business as a dealer in stocks or securities;
 
 &emsp;(3) There shall be excluded any gain or loss (A) which is considered under subtitle A of the Internal Revenue Code of 1986 as gain or loss from the sale or exchange of a capital asset, (B) from the cutting of timber, or the disposal of timber, coal, or iron ore, if section 631 of the Internal Revenue Code of 1986 applies to such gain or loss, or (C) from the sale, exchange, involuntary conversion, or other disposition of property if such property is neither (i) stock in trade or other property of a kind which would properly be includible in inventory if on hand at the close of the taxable year, nor (ii) property held primarily for sale to customers in the ordinary course of the trade or business;
 
@@ -68,7 +68,7 @@ The term "net earnings from self-employment" means the gross income, as computed
 
 > and, for purposes of such sentence, if an individual (including a member of a partnership) derives gross income from more than one such trade or business, such gross income (including his distributive share of the gross income of any partnership derived from any such trade or business) shall be deemed to have been derived from one trade or business.
 
-The preceding sentence and clauses (i) through (iv) of the second preceding sentence shall also apply in the case of any trade or business (other than a trade or business specified in such second preceding sentence) which is carried on by an individual who is self-employed on a regular basis as defined in subsection (g) of this section, or by a partnership of which an individual is a member on a regular basis as defined in subsection (g) of this section, but only if such individual's net earnings from self-employment in the taxable year as determined without regard to this sentence are less than the lower limit and less than 662/3 percent of the sum (in such taxable year) of such individual's gross income derived from all trades or businesses carried on by him and his distributive share of the income or loss from all trades or businesses carried on by all the partnerships of which he is a member; except that this sentence shall not apply to more than 5 taxable years in the case of any individual, and in no case in which an individual elects to determine the amount of his net earnings from self-employment for a taxable year under the provisions of the two preceding sentences with respect to a trade or business to which the second preceding sentence applies and with respect to a trade or business to which this sentence applies shall such net earnings for such year exceed the lower limit.
+The preceding sentence and clauses (i) through (iv) of the second preceding sentence shall also apply in the case of any trade or business (other than a trade or business specified in such second preceding sentence) which is carried on by an individual who is self-employed on a regular basisas defined in subsection (g) of this section, or by a partnership of which an individual is a member on a regular basis as defined in subsection (g) of this section, but only if such individual's net earnings from self-employment in the taxable year as determined without regard to this sentence are less than the lower limit and less than 662/3 percent of the sum (in such taxable year) of such individual's gross income derived from all trades or businesses carried on by him and his distributive share of the income or loss from all trades or businesses carried on by all the partnerships of which he is a member; except that this sentence shall not apply to more than 5 taxable years in the case of any individual, and in no case in which an individual elects to determine the amount of his net earnings from self-employment for a taxable year under the provisions of the two preceding sentences with respect to a trade or business to which the second preceding sentence applies and with respect to a trade or business to which this sentence applies shall such net earnings for such year exceed the lower limit.
 
 #### (b) Self-employment income
 
@@ -216,6 +216,8 @@ For purposes of subsection (a)—
 
 The Internal Revenue Code of 1986, referred to in text, is classified to Title 26, Internal Revenue Code.
 
+Section 3833(2) of title 16, referred to in subsec. (a)(1), was in the original a reference to "section 1233(2) of the Food Security Act of 1985 (16 U.S.C. 3833(2))", which is section 1233(2) of Pub. L. 99–198, and which was classified to section 3833(2) of Title 16, Conservation, prior to the general amendment of section 1233 by Pub. L. 113–79, title II, §2004, Feb. 7, 2014, 128 Stat. 715. As so amended, the substance of former section 1233(2) now appears in section 1233(a)(2), which is classified to section 3833(a)(2) of Title 16.
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -242,7 +244,7 @@ Subsec. (a)(15). Pub. L. 108–203, §424(a), substituted "section 162(l)" for "
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–296, §321(c)(6)(E), substituted "1986" for "1954" after "Code of" wherever appearing in introductory provisions, in pars. (3), (4), (6), (10), (11), and (12), and in cls. (iii) and (iv) of closing provisions.
 
-Subsec. (a)(13) to (15). Pub. L. 103–296, §321(a)(14), (c)(5), struck out "and" at end of par. (13), substituted "; and" for period at end of par. (14), and inserted "of the Internal Revenue Code of 1986" after "section 162(m)" in par. (15).
+Subsec. (a)(13) to (15). Pub. L. 103–296, §321(a)(14), (c)(5), struck out "and" at end of par. (13), substituted"; and" for period at end of par. (14), and inserted "of the Internal Revenue Code of 1986" after "section 162(m)" in par. (15).
 
 Subsec. (c). Pub. L. 103–296, §321(c)(6)(F), substituted "1986" for "1954" after "Code of" in introductory and closing provisions.
 
@@ -294,7 +296,7 @@ Pub. L. 98–369, §2663(a)(8)(D), in provisions following numbered pars., subst
 
 Subsec. (a)(3). Pub. L. 98–369, §2663(a)(8)(B), substituted "subtitle A of the Internal Revenue Code of 1954" for "chapter 1 of the Internal Revenue Code of 1939" and inserted "or" before "(C)".
 
-Subsec. (a)(4). Pub. L. 98–369, §2663(a)(8)(C), substituted "section 172 of the Internal Revenue Code of1954" for "section 23(s) of the Internal Revenue Code of 1939".
+Subsec. (a)(4). Pub. L. 98–369, §2663(a)(8)(C), substituted "section 172 of the Internal Revenue Code of 1954" for "section 23(s) of the Internal Revenue Code of 1939".
 
 Subsec. (a)(13). Pub. L. 98–369, §2603(d)(1), added par. (13).
 
@@ -320,7 +322,7 @@ Subsec. (a)(11), (12). Pub. L. 98–21, §124(c)(3), added par. (11) and redesig
 
 Subsec. (b). Pub. L. 98–21, §322(b)(1), as amended by Pub. L. 101–508, §5130(a)(2), inserted ", except as provided by an agreement under section 433 of this title" after "non-resident alien individual" in provisions preceding par. (1).
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that "(other than interest described in section 35 of the Internal Revenue Code of 1954)" be struck out from subsec. (a)(2) of this section, was executed by striking out "(other than interest described in section 25(a) of the Internal Revenue Code of 1939)" as the probable intent of Congress.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that "(other than interest described in section 35 of the Internal Revenue Code of 1954)" be struck out from subsec. (a)(2) of this section, was executed by striking out "(other than interest described insection 25(a) of the Internal Revenue Code of 1939)" as the probable intent of Congress.
 
 Subsec. (c)(6). Pub. L. 95–600, §703(j)(14)(E), substituted "section 1402(g)" for "section 1402(h)".
 
@@ -454,7 +456,7 @@ Amendment by section 1011B(b)(4) of Pub. L. 100–647 effective, except as other
 
 Amendment by section 3043(b) of Pub. L. 100–647 applicable to all periods beginning before, on, or after Nov. 10, 1988, with no inference created as to existence or non-existence or scope of any exemption from tax for income derived from fishing rights secured as of Mar. 17, 1988, by any treaty, law, or Executive Order, see section 3044 of Pub. L. 100–647, set out as an Effective Date note under section 7873 of Title 26.
 
-Amendment by section 8016(a)(2) of Pub. L. 100–647 effective Nov. 10, 1988, except that any amendment to a provision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or to Title 26, as added or amended by a provision of a particular Public Law which is so referred to, effective as though included or reflected in the relevant provisions of that Public Lawat the time of its enactment, see section 8016(b) of Pub. L. 100–647, set out as a note under section 3111 of Title 26.
+Amendment by section 8016(a)(2) of Pub. L. 100–647 effective Nov. 10, 1988, except that any amendment to a provision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or to Title 26, as added or amended by a provision of a particular Public Law which is so referred to, effective as though included or reflected in the relevant provisions of that Public Law at the time of its enactment, see section 8016(b) of Pub. L. 100–647, set out as a note under section 3111 of Title 26.
 
 #### Effective Date of 1987 Amendment
 
@@ -588,5 +590,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Act Sept. 23, 1950, ch. 994, title II, §214, 64 Stat. 937, provided that: "No amendment made by this Act \[see Tables for classification\] shall apply in any case where its application would be contrary to any treaty obligation of the United States."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "coupons". See 2008 Amendment note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "coupons". See 2008 Amendment note below.</i>
 

@@ -38,11 +38,11 @@ In this section:
 
 &emsp;&emsp;(A) A thorough description of the data mining activity, its goals, and, where appropriate, the target dates for the deployment of the data mining activity.
 
-&emsp;&emsp;(B) A thorough description of the data mining technology that is being used or will be used, including the basis for determining whether a particular pattern or anomaly is indicative of terrorist or criminal activity.
+&emsp;&emsp;(B) A thorough description of the data mining technology that is being used or willbe used, including the basis for determining whether a particular pattern or anomaly is indicative of terrorist or criminal activity.
 
 &emsp;&emsp;(C) A thorough description of the data sources that are being or will be used.
 
-&emsp;&emsp;(D) An assessment of the efficacy or likely efficacy of the data mining activity in providing accurate information consistent withand valuable to the stated goals and plans for the use or development of the data mining activity.
+&emsp;&emsp;(D) An assessment of the efficacy or likely efficacy of the data mining activity in providing accurate information consistent with and valuable to the stated goals and plans for the use or development of the data mining activity.
 
 &emsp;&emsp;(E) An assessment of the impact or likely impact of the implementation of the data mining activity on the privacy and civil liberties of individuals, including a thorough description of the actions that are being taken or will be taken with regard to the property, privacy, or other rights or privileges of any individual or individuals as a result of the implementation of the data mining activity.
 
@@ -70,7 +70,7 @@ In this section:
 
 #### (B) Availability
 
-&emsp;&emsp;Any annex described in clause (i)—
+&emsp;&emsp;Any annex described in clause (i)— <sup>3</sup>
 
 &emsp;&emsp;&emsp;(i) shall be available, as appropriate, and consistent with the National Security Act of 1947 \[50 U.S.C. 3001 et seq.\], to the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Financial Services of the House of Representatives; and
 
@@ -93,4 +93,6 @@ The National Security Act of 1947, referred to in subsec. (c)(3)(B)(i), is act J
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph (3)".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "subparagraph (A)—".</i>
 

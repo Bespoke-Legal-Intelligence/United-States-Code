@@ -36,7 +36,7 @@ The purpose of the Office of the Inspector General of the Intelligence Community
 
 &emsp;(A) without regard to political affiliation;
 
-&emsp;(B) on the basis of integrity, compliance with security standards of the intelligence community, and prior experience in the field of intelligence or national security; and
+&emsp;(B) on the basis of integrity, compliance with security standards of the intelligencecommunity, and prior experience in the field of intelligence or national security; and
 
 &emsp;(C) on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or investigations.
 
@@ -92,7 +92,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (3) The Inspector General is authorized to receive and investigate, pursuant to subsection (h), complaints or information from any person concerning the existence of an activity within the authorities and responsibilities of the Director of National Intelligence constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the intelligence community—
 
-&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
+&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of section 552 of title 5 (commonly known as the "Freedom of Information Act"); and
 
 &emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or disclosing such information to the Inspector General may be taken by any employee in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
@@ -128,7 +128,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(A) appoint a Counsel to the Inspector General who shall report to the Inspector General; or
 
-&emsp;(B) obtain the services of a counsel appointed by and directly reporting to another inspector general or the Council of the Inspectors General on Integrity and Efficiency on a reimbursable basis.
+&emsp;(B) obtain the services of a counsel appointed by and directly reporting to anotherinspector general or the Council of the Inspectors General on Integrity and Efficiency on a reimbursable basis.
 
 (2) The counsel appointed or obtained under paragraph (1) shall perform such functions as the Inspector General may prescribe.
 
@@ -218,7 +218,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(II) obtains and follows from the Director, through the Inspector General, direction on how to contact the congressional intelligence committees in accordance with appropriate security practices.
 
-(iii) A member or employee of one of the congressional intelligence committees who receives a complaint or information under this subparagraph does so in that member or employee's official capacity as a member or employee of such committee.
+(iii) A member or employee of one of the congressional intelligence committees who receivesa complaint or information under this subparagraph does so in that member or employee's official capacity as a member or employee of such committee.
 
 (E) The Inspector General shall notify an employee who reports a complaint or information to the Inspector General under this paragraph of each action taken under this paragraph with respect to the complaint or information. Such notice shall be provided not later than 3 days after any such action is taken.
 
@@ -233,6 +233,8 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 &emsp;(iii) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (g)(3)(B) of this section in response to an employee's reporting an urgent concern in accordance with this paragraph.
 
 (H) Nothing in this section shall be construed to limit the protections afforded to an employee under section 3517(d) of this title or section 8H of the Inspector General Act of 1978 (5 U.S.C. App.).
+
+(I) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of either of the congressional intelligence committees, or a staff member of either of such committees, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
 
 (6) In accordance with section 535 of title 28, the Inspector General shall expeditiously report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involves <sup>1</sup> a program or operation of an element of the intelligence community, or in the relationships between the elements of the intelligence community, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of each such report shall be furnished to the Director.
 
@@ -282,7 +284,7 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
 
-(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277, title III, §309(a), Jan. 14, 2013, 126 Stat. 2474.)
+(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277, title III, §309(a), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §304, title VI, §603(c), July 7, 2014, 128 Stat. 1395, 1421.)
 
 #### References in Text
 
@@ -294,13 +296,17 @@ Section was formerly classified to section 403–3h of this title prior to edito
 
 #### Amendments
 
+<b>2014</b>—Subsec. (g)(3)(A). Pub. L. 113–126, §304, substituted "undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of section 552 of title 5 (commonly known as the 'Freedom of Information Act');" for "undertaken;".
+
+Subsec. (k)(5)(I). Pub. L. 113–126, §603(c), added subpar. (I).
+
 <b>2013</b>—Subsec. (k)(1)(A). Pub. L. 112–277 substituted "October 31 and April 30" for "January 31 and July 31" and "September 30 and March 31," for "December 31 (of the preceding year) and June 30,".
 
 <b>2012</b>—Subsec. (o). Pub. L. 112–87 added subsec. (o).
 
 #### Construction
 
-Pub. L. 111–259, title IV, §405(c), Oct. 7, 2010, 124 Stat. 2719, provided that: "Nothing in the amendment madeby subsection (a)(1) \[enacting this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Office of the Director of National Intelligence."
+Pub. L. 111–259, title IV, §405(c), Oct. 7, 2010, 124 Stat. 2719, provided that: "Nothing in the amendment made by subsection (a)(1) \[enacting this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Office of the Director of National Intelligence."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "involve".</i>
 

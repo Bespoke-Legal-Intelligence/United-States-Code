@@ -4,7 +4,7 @@ The holder of an international registration with a request for an extension of p
 
 &emsp;(1) the request for extension of protection contains a claim of priority; and
 
-&emsp;(2) the date of international registration or the date of the recordal of the request for extension of protection to the United States is not later than 6 months after the date of the first regular national filing (within the meaning of Article 4(A)(3) of the Paris Convention for the Protection of Industrial Property) or a subsequent application (within the meaning ofArticle 4(C)(4) of the Paris Convention for the Protection of Industrial Property).
+&emsp;(2) the date of international registration or the date of the recordal of the request for extension of protection to the United States is not later than 6 months after the date of the first regular national filing (within the meaning of Article 4(A)(3) of the Paris Convention for the Protection of Industrial Property) or a subsequent application (within the meaning of Article 4(C)(4) of the Paris Convention for the Protection of Industrial Property).
 
 (July 5, 1946, ch. 540, title XII, §67, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1917.)
 

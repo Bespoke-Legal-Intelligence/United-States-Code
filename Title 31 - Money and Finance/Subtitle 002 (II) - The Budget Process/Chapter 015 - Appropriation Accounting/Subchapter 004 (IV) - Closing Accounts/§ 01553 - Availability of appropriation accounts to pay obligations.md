@@ -1,6 +1,6 @@
 ### §1553. Availability of appropriation accounts to pay obligations
 
-(a) After the end of the period of availability for obligation of a fixed appropriation account and before the closing of that account under section 1552(a) of this title, the account shall retain its fiscal-year identity and remain available for recording, adjusting, and liquidating obligations properly chargeable to that account.
+(a) After the end of the period of availability for obligation of a fixed appropriation account and before the closing of that account under section 1552(a) of this title, the account shall retain its fiscal-year identity and remain available forrecording, adjusting, and liquidating obligations properly chargeable to that account.
 
 (b)(1) Subject to the provisions of paragraph (2), after the closing of an account under section 1552(a) or 1555 of this title, obligations and adjustments to obligations that would have been properly chargeable to that account, both as to purpose and in amount, before closing and that are not otherwise chargeable to any current appropriation account of the agency may be charged to any current appropriation account of the agency available for the same purpose.
 
@@ -14,7 +14,7 @@
 
 &emsp;(B) a period of 30 days has elapsed after the notice is submitted.
 
-(3) In this subsection, the term "contract change" means a change to a contract underwhich the contractor is required to perform additional work. Such term does not include adjustments to pay claims or increases under an escalation clause.
+(3) In this subsection, the term "contract change" means a change to a contract under which the contractor is required to perform additional work. Such term does not include adjustments to pay claims or increases under an escalation clause.
 
 (d)(1) Obligations under this section may be paid without prior action of the Comptroller General.
 

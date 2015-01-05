@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(G) The estimated resources needed to effectively implement the programs and practices identified in the report developed in this section over a 5-year period.
 
-&emsp;&emsp;(H) The impact of requirements under this Act (including amendments made by this Act) on certified organic farms and facilities (as defined in section 350d of this title.<sup>1</sup>
+&emsp;&emsp;(H) The impact of requirements under this Act (including amendments made by thisAct) on certified organic farms and facilities (as defined in section 350d of this title.<sup>1</sup>
 
 &emsp;&emsp;(I) Specific efforts taken pursuant to the agreements authorized under section 350j(c) of this title (as added by section 201),<sup>2</sup> together with, as necessary, a description of any additional authorities necessary to improve seafood safety.
 

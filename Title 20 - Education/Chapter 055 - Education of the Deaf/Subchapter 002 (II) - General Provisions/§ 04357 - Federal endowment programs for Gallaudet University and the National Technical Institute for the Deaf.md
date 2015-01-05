@@ -30,9 +30,9 @@
 
 (C) The University and NTID shall maintain records of the income generated from its respective Federal endowment fund for the prior fiscal year.
 
-(3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, onan annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the current fiscal year.
+(3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, on an annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the current fiscal year.
 
-(B) The Secretary may permit the University or NTID to withdraw or expend a portion of its Federal endowment fund corpus or more than 50 percent of the income generated from its Federal endowment fund from the prior fiscal year if the institution involved demonstrates, to the Secretary's satisfaction, that such withdrawal or expenditure is necessary because of—
+(B) The Secretary may permit the University or NTID to withdraw or expend a portion of itsFederal endowment fund corpus or more than 50 percent of the income generated from its Federal endowment fund from the prior fiscal year if the institution involved demonstrates, to the Secretary's satisfaction, that such withdrawal or expenditure is necessary because of—
 
 &emsp;(i) a financial emergency, such as a pending insolvency or temporary liquidity problem;
 

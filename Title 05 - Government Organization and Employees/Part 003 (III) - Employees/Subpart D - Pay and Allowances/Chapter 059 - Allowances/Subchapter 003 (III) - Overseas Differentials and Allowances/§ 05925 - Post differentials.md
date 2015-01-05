@@ -26,17 +26,17 @@ Historical and Revision Notes
 
 Sept. 6, 1960, Pub. L. 86–707, §231, 74 Stat. 795.
 
-In the last sentence, the words “Additional compensation paid as” are omitted as surplusage.
+In the last sentence, the words "Additional compensation paid as" are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–140 struck out “25 percent of the rate of basic pay or, in the case of an employee of the United States Agency for International Development,” after “may not exceed” in last sentence.
+<b>2005</b>—Subsec. (a). Pub. L. 109–140 struck out "25 percent of the rate of basic pay or, in the case of an employee of the United States Agency for International Development," after "may not exceed" in last sentence.
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–199 inserted “or, in the case of an employee of the United States Agency for International Development, 35 percent of the rate of basic pay” after “25 percent of the rate of basic pay”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–199 inserted "or, in the case of an employee of the United States Agency for International Development, 35 percent of the rate of basic pay" after "25 percent of the rate of basic pay".
 
-<b>1980</b>—Pub. L. 96–465 designated existing provisions as subsec. (a), inserted “under this subsection” before “may not exceed”, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–465 designated existing provisions as subsec. (a), inserted "under this subsection" before "may not exceed", and added subsec. (b).
 
 #### Effective Date of 2004 Amendment
 
@@ -48,43 +48,43 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Criteria
 
-Pub. L. 109–140, §4(d), Dec. 22, 2005, 119 Stat. 2651, provided that: “The Secretary of State shall inform the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate of the criteria to be used in determinations of appropriate adjustments in post differentials under section 5925(a) of title 5, United States Code, as amended by subsection (b), and danger pay allowances under section 5928 of title 5, United States Code, as amended by subsection (c).”
+Pub. L. 109–140, §4(d), Dec. 22, 2005, 119 Stat. 2651, provided that: "The Secretary of State shall inform the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate of the criteria to be used in determinations of appropriate adjustments in post differentials under section 5925(a) of title 5, United States Code, as amended by subsection (b), and danger pay allowances under section 5928 of title 5, United States Code, as amended by subsection (c)."
 
 #### Extension of Foreign Post Differentials to Certain Federal Employees Who Served in Connection With Operation Desert Storm
 
 Pub. L. 102–190, div. A, title X, §1093, Dec. 5, 1991, 105 Stat. 1487, provided that:
 
-“(a)
+"(a)
 
-Waiver of Requirement That Employee Be Detailed to A Post for an ‘Extended’ Period.—An individual who performed service of a type described in subsection (b) shall, upon appropriate written application, be granted the total amount to which such individual would have been entitled for such service under section 5925(a) of title 5, United States Code, disregarding any eligibility requirement relating to the minimum period of time for which an individual must serve at, or be detailed to, a post.
+Waiver of Requirement That Employee Be Detailed to A Post for an 'Extended' Period.—An individual who performed service of a type described in subsection (b) shall, upon appropriate written application, be granted the total amount to which such individual would have been entitled for such service under section 5925(a) of title 5, United States Code, disregarding any eligibility requirement relating to the minimum period of time for which an individual must serve at, or be detailed to, a post.
 
-“(b)
+"(b)
 
 Description of Service Involved.—This section applies with respect to any period of service if, or to the extent that—
 
-&emsp;“(1) it was performed as an employee—
+&emsp;"(1) it was performed as an employee—
 
-&emsp;&emsp;“(A) in connection with Operation Desert Storm;
+&emsp;&emsp;"(A) in connection with Operation Desert Storm;
 
-&emsp;&emsp;“(B) during the Persian Gulf conflict;
+&emsp;&emsp;"(B) during the Persian Gulf conflict;
 
-&emsp;&emsp;“(C) at a post within the area designated by the President, in Executive Order 12744 \[26 U.S.C. 112 note\], as a ‘combat zone’ for purposes of section 112 of the Internal Revenue Code of 1986 \[26 U.S.C. 112\]; and
+&emsp;&emsp;"(C) at a post within the area designated by the President, in Executive Order 12744 \[26 U.S.C. 112 note\], as a 'combat zone' for purposes of section 112 of the Internal Revenue Code of 1986 \[26 U.S.C. 112\]; and
 
-&emsp;&emsp;“(D) while a differential under section 5925(a) of title 5, United States Code, was authorized with respect to such post; and
+&emsp;&emsp;"(D) while a differential under section 5925(a) of title 5, United States Code, was authorized with respect to such post; and
 
-&emsp;“(2) no differential under such section 5925(a) was granted to such employee for such service.
+&emsp;"(2) no differential under such section 5925(a) was granted to such employee for such service.
 
-“(c)
+"(c)
 
 Regulations.—The President may prescribe any regulations necessary to carry out this section.
 
-“(d)
+"(d)
 
 Definitions.—For the purpose of this section—
 
-&emsp;“(1) the term ‘employee’ has the meaning given such term by section 5921(3) of title 5, United States Code;
+&emsp;"(1) the term 'employee' has the meaning given such term by section 5921(3) of title 5, United States Code;
 
-&emsp;“(2) the term ‘Operation Desert Storm’ has the meaning given such term by section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 \[Pub. L. 102–25\] (10 U.S.C. 101 note); and
+&emsp;"(2) the term 'Operation Desert Storm' has the meaning given such term by section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 \[Pub. L. 102–25\] (10 U.S.C. 101 note); and
 
-&emsp;“(3) the term ‘Persian Gulf conflict’ means the period beginning on August 2, 1990, and ending on June 2, 1991.”
+&emsp;"(3) the term 'Persian Gulf conflict' means the period beginning on August 2, 1990, and ending on June 2, 1991."
 

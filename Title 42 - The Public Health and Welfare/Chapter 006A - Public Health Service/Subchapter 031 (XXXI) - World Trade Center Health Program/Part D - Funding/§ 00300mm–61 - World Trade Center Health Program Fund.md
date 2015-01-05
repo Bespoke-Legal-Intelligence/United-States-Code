@@ -124,7 +124,7 @@ Of the amounts made available under subsection (b)(1), not more than each of the
 
 A prior section 300aaa, act July 1, 1944, ch. 373, title XXVII, §2701, formerly title V, §501, 58 Stat. 709, as amended, which related to gifts for benefit of Service, was renumbered section 231 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238 of this title.
 
-A prior section 300aaa–1, act July 1, 1944, ch. 373, title XXVII, §2702, formerly title V, §502, 58 Stat. 710, asamended, which related to use of immigration station hospitals, was renumbered section 232 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238a of this title.
+A prior section 300aaa–1, act July 1, 1944, ch. 373, title XXVII, §2702, formerly title V, §502, 58 Stat. 710, as amended, which related to use of immigration station hospitals, was renumbered section 232 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238a of this title.
 
 A prior section 300aaa–2, act July 1, 1944, ch. 373, title XXVII, §2703, formerly title V, §503, 58 Stat. 710, as amended, which related to disposition of money collected for care of patients, was renumbered section 233 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238b of this title.
 

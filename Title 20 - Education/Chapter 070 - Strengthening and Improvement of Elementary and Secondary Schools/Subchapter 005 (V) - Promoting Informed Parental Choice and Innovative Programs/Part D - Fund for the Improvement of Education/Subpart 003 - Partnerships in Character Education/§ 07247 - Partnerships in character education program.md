@@ -44,7 +44,7 @@
 
 #### (1) Evaluation
 
-&emsp;Each eligible entity awarded a grant under this section may contract with outsidesources, including institutions of higher education and private and nonprofit organizations, for the purposes of—
+&emsp;Each eligible entity awarded a grant under this section may contract with outside sources, including institutions of higher education and private and nonprofit organizations, for the purposes of—
 
 &emsp;&emsp;(A) evaluating the program for which the assistance is made available;
 

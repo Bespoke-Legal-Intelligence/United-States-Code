@@ -4,7 +4,7 @@
 
 (1) There is established within the Federal Government the Architectural and Transportation Barriers Compliance Board (hereinafter referred to as the "Access Board") which shall be composed as follows:
 
-&emsp;(A) Thirteen members shall be appointed by the President from among members of the general public of whom at least a majority shall be individuals with disabilities.
+&emsp;(A) Thirteen members shall be appointed by the President from among members of thegeneral public of whom at least a majority shall be individuals with disabilities.
 
 &emsp;(B) The remaining members shall be the heads of each of the following departments or agencies (or their designees whose positions are executive level IV or higher):
 
@@ -64,7 +64,7 @@
 
 It shall be the function of the Access Board to—
 
-&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled "An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (including the application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring thatall waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
+&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled "An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped", approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (including the application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
 
 &emsp;(2) develop advisory information for, and provide appropriate technical assistance to, individuals or entities with rights or duties under regulations prescribed pursuant to this subchapter or titles II and III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq. and 12181 et seq.) with respect to overcoming architectural, transportation, and communication barriers;
 
@@ -148,9 +148,9 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
+There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section $7,448,000 for fiscal year 2015, $8,023,000 for fiscal year 2016, $8,190,000 for fiscal year 2017, $8,371,000 for fiscal year 2018, $8,568,000 for fiscal year 2019, and $8,750,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, §3(b)(3), Oct. 25, 2004, 118 Stat. 1737.)
+(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI,§601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, §3(b)(3), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 113–128, title IV, §456(b), July 22, 2014, 128 Stat. 1675.)
 
 #### References in Text
 
@@ -165,6 +165,8 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(
 Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (j). Pub. L. 113–128 substituted "$7,448,000 for fiscal year 2015, $8,023,000 for fiscal year 2016, $8,190,000 for fiscal year 2017, $8,371,000 for fiscal year 2018, $8,568,000 for fiscal year 2019, and $8,750,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–364 substituted "targeted individuals and entities" for "targeted individuals".
 
@@ -222,7 +224,7 @@ Subsec. (c). Pub. L. 102–569, §102(p)(30), substituted "individuals with disa
 
 Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted "The Access Board shall conduct" for "In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct" and "to ensure compliance" for "to insure compliance".
 
-Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: "The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section."
+Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: "The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph.The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section."
 
 Subsec. (f). Pub. L. 102–569, §504(e), added par. (1), designated existing provisions as par. (2) and substituted "paragraph" for "subsection", "Chairperson" for "Secretary", and "the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382" for "the daily pay rate for a person employed as a GS–18 under section 5332".
 
@@ -270,7 +272,7 @@ Subsecs. (b)(2), (c). Pub. L. 99–506, §103(d)(2)(C), substituted "individuals
 
 Subsec. (d)(2)(A). Pub. L. 99–506, §1002(e)(2)(B), substituted "any final order" for "any, final order".
 
-Subsec. (d)(3). Pub. L. 99–506, §1002(e)(2)(C), substituted "Department of Education" for "Departmentof Health, Education, and Welfare" and "with respect to overcoming" for "with respect overcoming to".
+Subsec. (d)(3). Pub. L. 99–506, §1002(e)(2)(C), substituted "Department of Education" for "Department of Health, Education, and Welfare" and "with respect to overcoming" for "with respect overcoming to".
 
 Subsec. (e)(2). Pub. L. 99–506, §1002(e)(2)(D), substituted "alleged noncompliance and in" for "alleged noncompliance in".
 
@@ -338,11 +340,11 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Extension of Vocational Rehabilitation Programs Through Fiscal Year Ending September 30, 1978; Effective Date of 1976 Amendment
 
-Pub. L. 94–230, §11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extended certain program authorizations in theabsence of congressional action, provided that the amendments made by section 11(b) of Pub. L. 94–230 would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
+Pub. L. 94–230, §11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extended certain program authorizations in the absence of congressional action, provided that the amendments made by section 11(b) of Pub. L. 94–230 would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
 
 #### Termination of Advisory Panels
 
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expirationof such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Accessibility of Information on Prescription Drug Container Labels by Visually Impaired and Blind Consumers
 

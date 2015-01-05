@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–576, §701(94)(A), in first sentence substituted "such person's last" for "his last" in two places, inserted "has personal property situated on such facility and" before "shall have designated", substituted "to receive such property when such veteran, dependent or survivor dies," for "to whom he desires his personal property situated upon such facility to be delivered, upon the death of such veteran", and substituted "the Administrator" for "him" after "authorized by".
 
-Pub. L. 99–576, §701(94)(B)(i)–(iv), in second sentence substituted "by such veteran, dependent, or survivor" for "by the veteran", struck out "if he has" before"failed to request", and substituted "the Administrator's" for "his" and "in writing delivered to the Veterans' Administration" for "as provided in this subchapter,".
+Pub. L. 99–576, §701(94)(B)(i)–(iv), in second sentence substituted "by such veteran, dependent, or survivor" for "by the veteran", struck out "if he has" before "failed to request", and substituted "the Administrator's" for "his" and "in writing delivered to the Veterans' Administration" for "as provided in this subchapter,".
 
 Pub. L. 99–576, §701(94)(B)(v), which directed that second sentence of subsec. (b) be amended by substituting "children, grandchildren, parents, grandparents, siblings" for "child, grandchild, mother, father, grandmother, grandfather, brother or sister", was executed by substituting the new provisions for "child, grandchild, mother, father, grandmother, grandfather, brother, or sister", to reflect the probable intent of Congress and the fact that a comma appears after "brother" in the former provisions.
 

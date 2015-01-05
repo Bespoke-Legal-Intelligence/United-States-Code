@@ -10,7 +10,7 @@ For purposes of this chapter, the State of Alaska shall be divided by the Secret
 
 &emsp;(3) Northwest Alaska Native Association (Kotzebue);
 
-&emsp;(4) Association of Village Council Presidents (southwest coast, all villages in the Bethel area, including all villages on the LowerYukon River and the Lower Kuskokwim River);
+&emsp;(4) Association of Village Council Presidents (southwest coast, all villages in the Bethel area, including all villages on the Lower Yukon River and the Lower Kuskokwim River);
 
 &emsp;(5) Tanana Chiefs' Conference (Koyukuk, Middle and Upper Yukon Rivers, Upper Kuskokwim, Tanana River);
 
@@ -48,7 +48,7 @@ The original articles of incorporation and bylaws shall be approved by the Secre
 
 #### (f) Board of directors; management; stockholders; provisions in articles or bylaws for number, term, and method of election
 
-The management of the Regional Corporation shall be vested in a board of directors, all of whom, with the exception of the initial board, shall be stockholders over the age of eighteen. The number, terms, and method of election of members of the board of directors shall be fixed in the articles of incorporation or bylaws of the Regional Corporation.
+The management of the Regional Corporation shall be vested in a board of directors, all of whom, with the exception of the initial board, shall be stockholders over the age of eighteen. The number, terms, and method of election of members of the board of directors shall be fixedin the articles of incorporation or bylaws of the Regional Corporation.
 
 #### (g) Issuance of stock
 
@@ -74,7 +74,7 @@ Conditions on certain stock.—
 
 &emsp;&emsp;(I)
 
-In general.—An amendment under clause (i) may provide that Settlement Common Stock issued to a Native pursuant to the amendment (or stock issued in exchangefor that Settlement Common Stock pursuant to subsection (h)(3) or section 1626(c)(3)(D) of this title) shall be subject to 1 or more of the conditions described in subclause (II).
+In general.—An amendment under clause (i) may provide that Settlement Common Stock issued to a Native pursuant to the amendment (or stock issued in exchange for that Settlement Common Stock pursuant to subsection (h)(3) or section 1626(c)(3)(D) of this title) shall be subject to 1 or more of the conditions described in subclause (II).
 
 &emsp;&emsp;(II)
 
@@ -150,7 +150,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;&emsp;(ii) the maximum number of votes that may be held by such shares.
 
-&emsp;(B)(i) If the board of directors of a Regional Corporation intends to propose an amendment pursuant to paragraph (2) which would authorize the issuance of classes or series of stockthat, singly or in combination, could cause the outstanding shares of Settlement Common Stock to represent less than a majority of the total voting power of the corporation for the purposes of electing directors, the shareholders of such corporation shall be expressly so informed.
+&emsp;(B)(i) If the board of directors of a Regional Corporation intends to propose an amendment pursuant to paragraph (2) which would authorize the issuance of classes or series of stock that, singly or in combination, could cause the outstanding shares of Settlement Common Stock to represent less than a majority of the total voting power of the corporation for the purposes of electing directors, the shareholders of such corporation shall be expressly so informed.
 
 &emsp;(ii) Such information shall be transmitted to the shareholders in a separate disclosure statement or in another informational document in writing or in recorded sound form both in English and any Native language used by a shareholder of such corporation. Such statement or informational document shall be transmitted to the shareholders at least sixty days prior to the date on which such proposal is to be submitted for a vote.
 
@@ -266,7 +266,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;(E) To recognize the different rights that accrue to any class or series of shares of Settlement Common Stock owned by stockholders who are not residents of a Native village (referred to in this paragraph as "non-village shares"), an amendment made pursuant to subparagraph (B) shall authorize the board of directors (at the option of the board) to offer to purchase—
 
-&emsp;&emsp;(i) the non-village shares, including the right to share in distributions made toshareholders pursuant to subsections (j) and (m) of this section (referred to in this paragraph as "nonresident distribution rights"), at a price that includes a premium, in addition to the amount that is offered for the purchase of other village shares of Settlement Common Stock of the Cook Inlet Regional Corporation, that reflects the value of the nonresident distribution rights; or
+&emsp;&emsp;(i) the non-village shares, including the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of this section (referred to in this paragraph as "nonresident distribution rights"), at a price that includes a premium, in addition to the amount that is offered for the purchase of other village shares of Settlement Common Stock of the Cook Inlet Regional Corporation, that reflects the value of the nonresident distribution rights; or
 
 &emsp;&emsp;(ii) non-village shares without the nonresident distribution rights associated with the shares.
 
@@ -312,7 +312,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;(J)(i) The board of directors of Cook Inlet Regional Corporation, in determining the terms of an offer to purchase made under this paragraph, including the amount of any premium paid with respect to a non-village share, may rely upon the good faith opinion of a recognized firm of investment bankers or valuation experts.
 
-&emsp;(ii) Neither Cook Inlet Regional Corporation nor a member of the board of directors or officers of Cook Inlet Regional Corporation shall be liable for damages resulting from terms made in an offer made in connection with any purchase of Settlement Common Stock if the offer was made—
+&emsp;(ii) Neither Cook Inlet Regional Corporation nor a member of the board of directors or officers of Cook Inlet Regional Corporation shallbe liable for damages resulting from terms made in an offer made in connection with any purchase of Settlement Common Stock if the offer was made—
 
 &emsp;&emsp;(I) in good faith;
 
@@ -326,7 +326,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 #### (i) Certain natural resource revenues; distribution among twelve Regional Corporations; computation of amount; subsection inapplicable to thirteenth Regional Corporation; exclusion from revenues
 
-(1)(A) Except as provided by subparagraph (B), 70 percent of all revenues received by each Regional Corporation from the timber resources and subsurface estate patented to it pursuant to this chapter shall be divided annually by the Regional Corporation among all twelve Regional Corporations organized pursuant to this section according to the number of Natives enrolled ineach region pursuant to section 1604 of this title. The provisions of this subsection shall not apply to the thirteenth Regional Corporation if organized pursuant to subsection (c) hereof.
+(1)(A) Except as provided by subparagraph (B), 70 percent of all revenues received by each Regional Corporation from the timber resources and subsurface estate patented to it pursuant to this chapter shall be divided annually by the Regional Corporation among all twelve Regional Corporations organized pursuant to this section according to the number of Natives enrolled in each region pursuant to section 1604 of this title. The provisions of this subsection shall not apply to the thirteenth Regional Corporation if organized pursuant to subsection (c) hereof.
 
 (B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a Regional Corporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed to alter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
 
@@ -400,7 +400,7 @@ Subsec. (o). Pub. L. 100–241, §12(a), struck out ", to the Secretary of the 
 
 <b>1980</b>—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted "or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter" after "divorce or child support". Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec. (h)(1) of this section to reflect the probable intent of Congress.
 
-Subsec. (h)(3). Pub. L. 96–487, §1401(a), substituted provisions that provided on Dec. 18, 1991, all stock previously issued be deemed canceled, and shares of stock of the appropriate class be issued to each shareholder share for share subject only to such restrictions as provided by the articles of incorporation, or agreement between the corporation and individual, specified restrictions which may be included by amendment in the articles of incorporation, and provided voting requirements for amendment of the articles of incorporation for approval of restrictions and the grant of voting rights to stockholders who were previously denied such rights for provision that provided on Jan. 1 of the twenty-first year after the year in which this chapter was enacted, all stock previously issued be deemed canceled and the shares of stock of the appropriate class issued without restrictions required by this chapter to each stockholder share for share.
+Subsec. (h)(3). Pub. L. 96–487, §1401(a), substituted provisions that provided on Dec. 18, 1991, all stock previously issued be deemed canceled, and shares of stock of the appropriate class be issued to each shareholder share for share subject only to such restrictions as provided by the articles of incorporation, or agreement between the corporation and individual, specified restrictions which may be included by amendment in the articles of incorporation, and provided voting requirements for amendment of the articles of incorporation for approval of restrictions and the grant of voting rights to stockholders who were previously denied such rights for provision that provided on Jan. 1 of the twenty-first year after the year in which this chapter was enacted, all stock previously issued be deemed canceled and theshares of stock of the appropriate class issued without restrictions required by this chapter to each stockholder share for share.
 
 #### Effective Date of 1995 Amendment
 

@@ -74,7 +74,7 @@ Funding from a small business concern.—The small business concern (or its owne
 
 &emsp;(D)
 
-Seller financing.—Seller-provided financing may be used to meet the requirementsof subparagraph (B), if the seller subordinates the interest of the seller in the property to the debenture guaranteed by the Administration.
+Seller financing.—Seller-provided financing may be used to meet the requirements of subparagraph (B), if the seller subordinates the interest of the seller in the property to the debenture guaranteed by the Administration.
 
 &emsp;(E)
 

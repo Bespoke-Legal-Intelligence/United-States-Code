@@ -2,7 +2,7 @@
 
 Effective April 1, 1975, and each fiscal year thereafter, the annual allowance for stationery for the President of the Senate shall be $8,000.
 
-(July 1, 1941, ch. 268, 55 Stat. 450; June 13, 1945, ch. 189, 59 Stat. 244; June 14, 1948, ch. 467, 62 Stat. 425; Oct. 11, 1951, ch. 485, 65 Stat. 391; Aug. 1, 1953, ch. 304, title I, 67 Stat. 320; Aug. 5, 1955, ch. 568, 69 Stat. 504; Pub. L. 88–258, title IV, Jan. 6, 1964, 77 Stat. 864; Pub. L. 90–21, title I, May 29, 1967, 81 Stat. 38; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 342; Pub. L. 92–51, July 9, 1971, 85 Stat. 128; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 635; Pub. L. 92–607, ch. V, §506(k)(3), formerly §506(h)(3), Oct. 31, 1972, 86 Stat. 1508, renumbered §506(i)(3), Pub. L. 95–391, title I, §108(a), Sept. 30, 1978, 92Stat. 773, renumbered §506(j)(3), Pub. L. 96–304, title I, §101(e), July 8, 1980, 94 Stat. 889, renumbered §506(k)(3), Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189; Pub. L. 94–32, title I, June 12, 1975, 89 Stat. 182; Pub. L. 108–7, div. H, title I, §2(a), Feb. 20, 2003, 117 Stat. 349.)
+(July 1, 1941, ch. 268, 55 Stat. 450; June 13, 1945, ch. 189, 59 Stat. 244; June 14, 1948, ch. 467, 62 Stat. 425; Oct. 11, 1951, ch. 485, 65 Stat. 391; Aug. 1, 1953, ch. 304, title I, 67 Stat. 320; Aug. 5, 1955, ch. 568, 69 Stat. 504; Pub. L. 88–258, title IV, Jan. 6, 1964,77 Stat. 864; Pub. L. 90–21, title I, May 29, 1967, 81 Stat. 38; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 342; Pub. L. 92–51, July 9, 1971, 85 Stat. 128; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 635; Pub. L. 92–607, ch. V, §506(k)(3), formerly §506(h)(3), Oct. 31, 1972, 86 Stat. 1508, renumbered §506(i)(3), Pub. L. 95–391, title I, §108(a), Sept. 30, 1978, 92 Stat. 773, renumbered §506(j)(3), Pub. L. 96–304, title I, §101(e), July 8, 1980, 94 Stat. 889, renumbered §506(k)(3), Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189; Pub. L. 94–32, title I, June 12, 1975, 89 Stat. 182; Pub. L. 108–7, div. H, title I, §2(a), Feb. 20, 2003, 117 Stat. 349.)
 
 #### Codification
 
@@ -12,11 +12,11 @@ Section is from Legislative Branch Appropriation Act, 1942, and subsequent Legis
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–7 substituted “$8,000” for “$4,500”.
+<b>2003</b>—Pub. L. 108–7 substituted "$8,000" for "$4,500".
 
-<b>1975</b>—Pub. L. 94–32 substituted “Effective April 1, 1975, and each fiscal year thereafter” for “Effective with the fiscal year 1972 and thereafter” and “$4,500” for “$3,600”.
+<b>1975</b>—Pub. L. 94–32 substituted "Effective April 1, 1975, and each fiscal year thereafter" for "Effective with the fiscal year 1972 and thereafter" and "$4,500" for "$3,600".
 
-<b>1972</b>—Pub. L. 92–607 repealed this section insofar as it related to Senators. For purposes of codification this entailed substituting a period for a comma following “President of the Senate shall be $3,600” and striking out provisions which allowed Senators from $3,600 to $5,000 annually depending on the population of the Senator's home State. See section 6314 of this title.
+<b>1972</b>—Pub. L. 92–607 repealed this section insofar as it related to Senators. For purposes of codification this entailed substituting a period for a comma following "President of the Senate shall be $3,600" and striking out provisions which allowed Senators from $3,600 to $5,000 annually depending on the population of the Senator's home State. See section 6314 of this title.
 
 <b>1971</b>—Pub. L. 92–184 inserted provision for an increased allowance for Senators from more populous States ranging from $3,800 for Senators from States of from 3,000,000 to 4,999,999 population to $5,000 for Senators from States of 17,000,000 population and over.
 
@@ -40,7 +40,7 @@ Pub. L. 92–51 provided allowance for Senators from States having population of
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–7, div. H, title I, §2(b), Feb. 20, 2003, 117 Stat. 349, provided that: “The amendment made by this section \[amending this section\] shall apply to fiscal year 2003 and each fiscal year thereafter.”
+Pub. L. 108–7, div. H, title I, §2(b), Feb. 20, 2003, 117 Stat. 349, provided that: "The amendment made by this section \[amending this section\] shall apply to fiscal year 2003 and each fiscal year thereafter."
 
 #### Effective Date of 1972 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may withhold from public disclosure operational files described in subsection (b) to the same extent that operational files may be withheld under section 701 of the National Security Act of 1947 (50 U.S.C. 431).<sup>1</sup>
+Authority.—The Secretary of Defense may withhold from public disclosure operational filesdescribed in subsection (b) to the same extent that operational files may be withheld under section 701 of the National Security Act of 1947 (50 U.S.C. 3141).
 
 (b)
 
@@ -14,17 +14,15 @@ Covered Operational Files.—The authority under subsection (a) applies to opera
 
 (c)
 
-Operational Files Defined.—In this section, the term "operational files" has the meaning given that term in section 701(b) of the National Security Act of 1947 (50 U.S.C. 431(b)).<sup>1</sup>
+Operational Files Defined.—In this section, the term "operational files" has the meaning given that term in section 701(b) of the National Security Act of 1947 (50 U.S.C. 3141(b)).
 
-(Added Pub. L. 106–65, div. A, title X, §1045(a), Oct. 5, 1999, 113 Stat. 762; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
-
-#### References in Text
-
-The National Security Act of 1947, referred to in subsecs. (a) and (c), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 701 of the Act is now classified to section 3141 of Title 50. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 106–65, div. A, title X, §1045(a), Oct. 5, 1999, 113 Stat. 762; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 113–291, div. A, title X, §1071(c)(8), Dec. 19, 2014, 128 Stat. 3509.)
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in introductory provisions.
+<b>2014</b>—Subsec. (a). Pub. L. 113–291, §1071(c)(8)(A), substituted "(50 U.S.C. 3141)" for "(50 U.S.C. 431)".
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Subsec. (c). Pub. L. 113–291, §1071(c)(8)(B), substituted "(50 U.S.C. 3141(b))" for "(50 U.S.C. 431(b))".
+
+<b>2003</b>—Subsec. (b). Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in introductory provisions.
 

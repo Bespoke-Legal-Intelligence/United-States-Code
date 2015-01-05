@@ -1,6 +1,6 @@
 ### §§3801 to 3808. Repealed. Pub. L. 100–297, title I, §1003(a), Apr. 28, 1988, 102 Stat. 293
 
-Section 3801, Pub. L. 97–35, title V, §552, Aug. 13, 1981, 95 Stat. 464, set out declaration of policy for program of financial assistance to meet the special educational needs of disadvantaged children.
+Section 3801, Pub. L. 97–35, title V, §552, Aug. 13, 1981, 95 Stat. 464, set out declaration of policy for programof financial assistance to meet the special educational needs of disadvantaged children.
 
 Section 3802, Pub. L. 97–35, title V, §553, Aug. 13, 1981, 95 Stat. 464, related to duration of assistance.
 

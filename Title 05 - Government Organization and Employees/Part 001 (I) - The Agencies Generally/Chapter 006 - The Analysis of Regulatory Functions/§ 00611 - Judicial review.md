@@ -12,7 +12,7 @@
 
 &emsp;(ii) where a provision of law requires that an action challenging a final agency regulation be commenced before the expiration of the 1-year period, the number of days specified in such provision of law that is after the date the analysis is made available to the public.
 
-(4) In granting any relief in an action under this section, the court shall order the agency to take corrective action consistent with this chapter and chapter 7, including, but not limited to—
+(4) In granting any relief in an action under this section, the court shall order the agency totake corrective action consistent with this chapter and chapter 7, including, but not limited to—
 
 &emsp;(A) remanding the rule to the agency, and
 
@@ -32,11 +32,11 @@
 
 <b>1996</b>—Pub. L. 104–121 amended section generally. Prior to amendment, section read as follows:
 
-“(a) Except as otherwise provided in subsection (b), any determination by an agency concerning the applicability of any of the provisions of this chapter to any action of the agency shall not be subject to judicial review.
+"(a) Except as otherwise provided in subsection (b), any determination by an agency concerning the applicability of any of the provisions of this chapter to any action of the agency shall not be subject to judicial review.
 
-“(b) Any regulatory flexibility analysis prepared under sections 603 and 604 of this title and the compliance or noncompliance of the agency with the provisions of this chapter shall not be subject to judicial review. When an action for judicial review of a rule is instituted, any regulatory flexibility analysis for such rule shall constitute part of the whole record of agency action in connection with the review.
+"(b) Any regulatory flexibility analysis prepared under sections 603 and 604 of this title and the compliance or noncompliance of the agency with the provisions of this chapter shall not be subject to judicial review. When an action for judicial review of a rule is instituted, any regulatory flexibility analysis for such rule shall constitute part of the whole record of agency action in connection with the review.
 
-“(c) Nothing in this section bars judicial review of any other impact statement or similar analysis required by any other law if judicial review of such statement or analysis is otherwise provided by law.”
+"(c) Nothing in this section bars judicial review of any other impact statement or similar analysis required by any other law if judicial review of such statement or analysis is otherwise provided by law."
 
 #### Effective Date of 1996 Amendment
 

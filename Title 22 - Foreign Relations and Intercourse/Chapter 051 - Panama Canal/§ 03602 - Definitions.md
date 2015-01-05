@@ -30,7 +30,7 @@ Any reference set forth in subsection (b) of this section shall apply except as 
 
 For purposes of this chapter:
 
-&emsp;(1) The term "Canal Transfer Date" means December 31, 1999, such date being the date specified in the Panama Canal Treaty of 1977 for the transfer of the Panama Canal from the United States of America to the Republic of Panama.
+&emsp;(1) The term "Canal Transfer Date" means December 31, 1999, such date being the date specified in the Panama Canal Treaty of 1977for the transfer of the Panama Canal from the United States of America to the Republic of Panama.
 
 &emsp;(2) The term "Panama Canal Authority" means the entity created by the Republic of Panama to succeed the Panama Canal Commission as of the Canal Transfer Date.
 
@@ -42,7 +42,7 @@ This chapter, referred to in subsecs. (a), (c), and (d), was in the original "th
 
 #### References to Canal Zone Code Deemed References to Panama Canal Code
 
-Pub. L. 96–70, title III, §3303(b), Sept. 27, 1979, 93 Stat. 499, provided that: "Those provisions of the Canal ZoneCode not repealed by this Act are redesignated as the 'Panama Canal Code'. Any reference to the Canal Zone Code in those laws and regulations referred to in section 3(b) of this Act \[subsec. (b) of this section\] shall, subject to the provisions of such section, be deemed to refer to the \[former\] Panama Canal Code."
+Pub. L. 96–70, title III, §3303(b), Sept. 27, 1979, 93 Stat. 499, provided that: "Those provisions of the Canal Zone Code not repealed by this Act are redesignated as the 'Panama Canal Code'. Any reference to the Canal Zone Code in those laws and regulations referred to in section 3(b) of this Act \[subsec. (b) of this section\] shall, subject to the provisions of such section, be deemed to refer to the \[former\] Panama Canal Code."
 
 #### Amendments
 

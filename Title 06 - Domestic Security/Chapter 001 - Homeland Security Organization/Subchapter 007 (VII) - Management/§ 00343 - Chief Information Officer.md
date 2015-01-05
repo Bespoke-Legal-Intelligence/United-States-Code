@@ -12,11 +12,11 @@ The Chief Information Officer shall report to the Secretary, or to another offic
 
 #### (A) Geospatial information
 
-&emsp;&emsp;The term “geospatial information” means graphical or digital data depicting natural or manmade physical features, phenomena, or boundaries of the earth and any information related thereto, including surveys, maps, charts, remote sensing data, and images.
+&emsp;&emsp;The term "geospatial information" means graphical or digital data depicting natural or manmade physical features, phenomena, or boundaries of the earth and any information related thereto, including surveys, maps, charts, remote sensing data, and images.
 
 #### (B) Geospatial technology
 
-&emsp;&emsp;The term “geospatial technology” means any technology utilized by analysts, specialists, surveyors, photogrammetrists, hydrographers, geodesists, cartographers, architects, or engineers for the collection, storage, retrieval, or dissemination of geospatial information, including—
+&emsp;&emsp;The term "geospatial technology" means any technology utilized by analysts, specialists, surveyors, photogrammetrists, hydrographers, geodesists, cartographers, architects, or engineers for the collection, storage, retrieval, or dissemination of geospatial information, including—
 
 &emsp;&emsp;&emsp;(i) global satellite surveillance systems;
 
@@ -50,7 +50,7 @@ The Chief Information Officer shall report to the Secretary, or to another offic
 
 &emsp;&emsp;The Chief Information Officer shall establish and carry out a program to provide for the efficient use of geospatial information, which shall include—
 
-&emsp;&emsp;&emsp;(i) providing such geospatial information as may be necessary to implement the critical infrastructure protection programs;
+&emsp;&emsp;&emsp;(i) providing such geospatial information as may be necessary to implement thecritical infrastructure protection programs;
 
 &emsp;&emsp;&emsp;(ii) providing leadership and coordination in meeting the geospatial information requirements of those responsible for planning, prevention, mitigation, assessment and response to emergencies, critical infrastructure protection, and other functions of the Department; and
 
@@ -96,17 +96,17 @@ Executive Order 12906, referred to in subsec. (b)(2)(D)(iii), is set out as a no
 
 #### Findings
 
-Pub. L. 108–458, title VIII, §8201(a), Dec. 17, 2004, 118 Stat. 3865, provided that: “Congress makes the following findings:
+Pub. L. 108–458, title VIII, §8201(a), Dec. 17, 2004, 118 Stat. 3865, provided that: "Congress makes the following findings:
 
-&emsp;“(1) Geospatial technologies and geospatial data improve government capabilities to detect, plan for, prepare for, and respond to disasters in order to save lives and protect property.
+&emsp;"(1) Geospatial technologies and geospatial data improve government capabilities to detect, plan for, prepare for, and respond to disasters in order to save lives and protect property.
 
-&emsp;“(2) Geospatial data improves the ability of information technology applications and systems to enhance public security in a cost-effective manner.
+&emsp;"(2) Geospatial data improves the ability of information technology applications and systems to enhance public security in a cost-effective manner.
 
-&emsp;“(3) Geospatial information preparedness in the United States, and specifically in the Department of Homeland Security, is insufficient because of—
+&emsp;"(3) Geospatial information preparedness in the United States, and specifically in the Department of Homeland Security, is insufficient because of—
 
-&emsp;&emsp;“(A) inadequate geospatial data compatibility;
+&emsp;&emsp;"(A) inadequate geospatial data compatibility;
 
-&emsp;&emsp;“(B) insufficient geospatial data sharing; and
+&emsp;&emsp;"(B) insufficient geospatial data sharing; and
 
-&emsp;&emsp;“(C) technology interoperability barriers.”
+&emsp;&emsp;"(C) technology interoperability barriers."
 

@@ -16,7 +16,7 @@ No registered investment company shall—
 
 #### (c) Officers, directors, or employees of one bank or bank holding company as majority of board of directors of company; exceptions
 
-No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting ofpersons who are directors, officers, or employees of such bank.
+No registered investment company shall have a majority of its board of directors consisting ofpersons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
 
 #### (d) Exception to limitation of number of interested persons who may serve on board of directors
 
@@ -66,7 +66,7 @@ In the case of a registered management company which is an unincorporated compan
 
 &emsp;(3) the provisions of subsection (f) of this section shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
 
-(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Pub. L. 91–547, §5, Dec. 14, 1970, 84 Stat. 1416; Pub. L. 94–29, §28(5), June 4, 1975, 89 Stat. 165; Pub. L. 106–102, title II, §213(c), Nov. 12, 1999, 113 Stat. 1398; Pub. L. 109–351, title IV, §401(c), Oct. 13, 2006, 120 Stat. 1973.)
+(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Pub. L. 91–547, §5, Dec. 14, 1970, 84 Stat. 1416; Pub. L. 94–29, §28(5), June 4, 1975, 89 Stat. 165; Pub. L. 106–102, title II, §213(c), Nov. 12, 1999, 113Stat. 1398; Pub. L. 109–351, title IV, §401(c), Oct. 13, 2006, 120 Stat. 1973.)
 
 #### Amendments
 
@@ -76,7 +76,7 @@ In the case of a registered management company which is an unincorporated compan
 
 <b>1975</b>—Subsec. (e). Pub. L. 94–29 inserted reference to provisions of section 80a–15(f)(1) of this title.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–547, §5(a), struck out introductory text "After one year from the effective date of this subchapter" and substituted "interested personsof such registered company" for "investment advisers of, affiliated persons of an investment adviser of, or officers or employees of, such registered company".
+<b>1970</b>—Subsec. (a). Pub. L. 91–547, §5(a), struck out introductory text "After one year from the effective date of this subchapter" and substituted "interested persons of such registered company" for "investment advisers of, affiliated persons of an investment adviser of, or officers or employees of, such registered company".
 
 Subsec. (b). Pub. L. 91–547, §5(b)(1), struck out introductory text "After one year from the effective date of this subchapter," and substituted "No" for "no".
 

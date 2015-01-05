@@ -4,7 +4,7 @@
 
 #### (1) No assistance for families without a minor child
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family, unless the family includes a minor child who resides with the family (consistent with paragraph (10)) or a pregnant individual.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family,unless the family includes a minor child who resides with the family (consistent with paragraph (10)) or a pregnant individual.
 
 #### (2) Reduction or elimination of assistance for noncooperation in establishing paternity or obtaining child support
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) substantial evidence exists of an act or failure to act that presents an imminent or serious harm if the individual and the minor child lived in the same residence with the individual's own parent or legal guardian; or
 
-&emsp;&emsp;&emsp;&emsp;(IV) the State agency otherwise determines that it is in the best interest of the minor child to waive the requirement of subparagraph (A) with respect to the individual or the minor child.
+&emsp;&emsp;&emsp;&emsp;(IV) the State agency otherwise determines that it is in the best interest ofthe minor child to waive the requirement of subparagraph (A) with respect to the individual or the minor child.
 
 #### (iii) Second-chance home
 
@@ -144,7 +144,7 @@
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food and Nutrition Actof 2008 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
 
 #### (9) Denial of assistance for fugitive felons and probation and parole violators
 
@@ -192,7 +192,7 @@
 
 #### (B) Child support
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection ofchild or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
 
 #### (12) State requirement to prevent unauthorized spending of benefits
 
@@ -212,7 +212,7 @@
 
 #### (i) Liquor store
 
-&emsp;&emsp;&emsp;The term "liquor store" means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(r))).
+&emsp;&emsp;&emsp;The term "liquor store" means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(r))).<sup>1</sup>
 
 #### (ii) Casino, gambling casino, or gaming establishment
 
@@ -332,7 +332,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 &emsp;&emsp;&emsp;(i) such information and documentation with respect to the alien's sponsor as may be necessary in order for the State agency to make any determination required under this subsection, and to obtain any cooperation from the sponsor necessary for any such determination; and
 
-&emsp;&emsp;&emsp;(ii) such information and documentation as the State agency may request and which the alien or the alien's sponsor provided in support of the alien's immigration application.
+&emsp;&emsp;&emsp;(ii) such information and documentation as the State agency may request andwhich the alien or the alien's sponsor provided in support of the alien's immigration application.
 
 #### (B) Duties of Federal agencies
 
@@ -367,6 +367,8 @@ Each State to which a grant is made under section 603 of this title shall, at le
 Part D of this subchapter, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
+Section 3(r) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(r)), referred to in subsec. (a)(12)(B)(i), was redesignated as section 3(q) of the Food and Nutrition Act of 2008, by Pub. L. 113–79, title IV, §4030(a)(4), Feb. 7, 2014, 128 Stat. 813, and is classified to section 2012(q) of Title 7, Agriculture.
 
 For effective date of this part, referred to in subsec. (b)(2)(B)(i), see Effective Date note set out below.
 
@@ -481,4 +483,6 @@ Section effective July 1, 1997, with transition rules relating to State options 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

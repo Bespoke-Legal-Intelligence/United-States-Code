@@ -241,7 +241,7 @@
 | [1779c.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779c%20-%20Settlement%20and%20claims%3B%20appropriations%3B%20allocation%20of%20funds.md) | Settlement and claims; appropriations; allocation of funds. |
 | [1779d.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779d%20-%20Tribal%20trust%20funds.md) | Tribal trust funds. |
 | [1779e.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779e%20-%20Attorney%20fees.md) | Attorney fees. |
-| 1779f. | Release of other tribal claims and filing of claims. |
+| [1779f.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779f%20-%20Release%20of%20other%20tribal%20claims%20and%20filing%20of%20claims.md) | Release of other tribal claims and filing of claims. |
 | [1779g.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779g%20-%20Effect%20on%20claims.md) | Effect on claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

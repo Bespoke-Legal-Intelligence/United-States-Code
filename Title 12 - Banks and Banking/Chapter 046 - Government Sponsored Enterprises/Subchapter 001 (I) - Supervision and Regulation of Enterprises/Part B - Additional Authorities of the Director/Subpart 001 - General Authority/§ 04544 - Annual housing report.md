@@ -66,7 +66,7 @@ The report required under subsection (a) shall—
 
 &emsp;&emsp;&emsp;(v) whether the mortgage, in the case of a conforming mortgage, was purchased by an enterprise;
 
-&emsp;&emsp;(B) the characteristics of individual subprime and nontraditional mortgages that are eligible for purchase by the enterprises and the characteristics of borrowers under such mortgages, including the creditworthiness of such borrowers and determination whether such borrowers would qualify for prime lending; and
+&emsp;&emsp;(B) the characteristics of individual subprime and nontraditional mortgages thatare eligible for purchase by the enterprises and the characteristics of borrowers under such mortgages, including the creditworthiness of such borrowers and determination whether such borrowers would qualify for prime lending; and
 
 &emsp;&emsp;(C) such other matters as the Director determines to be appropriate.
 

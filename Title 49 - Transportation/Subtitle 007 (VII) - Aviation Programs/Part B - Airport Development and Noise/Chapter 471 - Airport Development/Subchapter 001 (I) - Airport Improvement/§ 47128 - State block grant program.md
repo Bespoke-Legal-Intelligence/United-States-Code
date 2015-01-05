@@ -92,7 +92,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–95, §502(a), substituted "issue guidance" for "prescribe regulations" in first sentence and "guidance" for "regulations" in second sentence.
 
-Subsec. (b)(4). Pub. L. 112–95, §502(b), inserted before semicolon ", including the National EnvironmentalPolicy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements".
+Subsec. (b)(4). Pub. L. 112–95, §502(b), inserted before semicolon ", including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements".
 
 Subsec. (d). Pub. L. 112–95, §502(c), added subsec. (d).
 

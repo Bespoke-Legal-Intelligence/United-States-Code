@@ -28,7 +28,7 @@ Any underpayment of tax by a partner by reason of failing to comply with the req
 
 #### (ii) Adjustment not precluded
 
-&emsp;&emsp;&emsp;Notwithstanding any other law or rule of law, nothing in subchapter B (or in any proceeding under subchapter B) shall preclude the assessment or collection of any underpayment of tax (or the allowance of any credit or refund of any overpayment of tax) attributable to an adjustment referred to in subparagraph (A) and such assessment or collection or allowance (or any notice thereof) shall not preclude any notice, proceeding, or determination under subchapter B.
+&emsp;&emsp;&emsp;Notwithstanding any other law or rule of law, nothing in subchapter B (or in any proceeding under subchapter B) shall preclude the assessment or collection of anyunderpayment of tax (or the allowance of any credit or refund of any overpayment of tax) attributable to an adjustment referred to in subparagraph (A) and such assessment or collection or allowance (or any notice thereof) shall not preclude any notice, proceeding, or determination under subchapter B.
 
 #### (C) Period of limitations
 

@@ -96,7 +96,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### (2) Services
 
-&emsp;Any jurisdiction that receives a grant under this section may use any amounts received under the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
+&emsp;Any jurisdiction that receives a grant under this section may use any amounts receivedunder the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
 
 (Pub. L. 101–625, title VIII, §861, Nov. 28, 1990, 104 Stat. 4382; Pub. L. 102–550, title VI, §606(i), (j)(8)–(10), (11)(E), Oct. 28, 1992, 106 Stat. 3810, 3811; Pub. L. 105–276, title V, §550(b), Oct. 21, 1998, 112 Stat. 2609.)
 

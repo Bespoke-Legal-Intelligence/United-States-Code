@@ -34,7 +34,7 @@ Act June 20, 1949, ch. 227, §10, formerly §12, 63 Stat. 213; renumbered §10, 
 
 #### Separability
 
-Act June 20, 1949, ch. 227, §9, formerly §11, 63 Stat. 213; renumbered §9, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337, provided that: "If any provision of this Act \[see Tables for classification\], or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby."
+Act June 20, 1949, ch. 227, §9, formerly §11, 63 Stat. 213; renumbered §9, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337, provided that: "If any provision of this Act\[see Tables for classification\], or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby."
 
 #### Designation of Headquarters Compound of Central Intelligence Agency as the George Bush Center for Intelligence
 

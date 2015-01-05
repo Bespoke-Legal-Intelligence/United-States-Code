@@ -288,13 +288,13 @@ For the purposes of this chapter—
 
 &emsp;(44) The term "representative payee" means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
-&emsp;(45) The term "Secretary" means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
+&emsp;(45) The term "Secretary" means the Secretary of Health and Human Services, except that for purposes of subchapter IX of thischapter such term means the Secretary of Labor.
 
 &emsp;(46) The term "self-directed care" means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
 
 &emsp;&emsp;(A) such services (including the amount, duration, scope, provider, and location of such services) are planned, budgeted, and purchased under the direction and control of such individual;
 
-&emsp;&emsp;(B) such individual is provided with such information and assistance as are necessaryand appropriate to enable such individual to make informed decisions about the individual's care options;
+&emsp;&emsp;(B) such individual is provided with such information and assistance as are necessary and appropriate to enable such individual to make informed decisions about the individual's care options;
 
 &emsp;&emsp;(C) the needs, capabilities, and preferences of such individual with respect to such services, and such individual's ability to direct and control the individual's receipt of such services, are assessed by the area agency on aging (or other agency designated by the area agency on aging) involved;
 
@@ -352,7 +352,7 @@ Section 3796gg–2 of this title, referred to in par. (49), was subsequently ame
 
 <b>2006</b>—Pub. L. 109–365, §101(b), redesignated pars. (1) to (54) as (45), (7), (50), (39), (26), (27), (54), (13), (48), (8), (29), (14), (1), (2), (3), (5), (6), (10), (30), (37), (11), (15), (16), (18), (21), (22), (23), (24), (28), (31), (33), (35), (36), (38), (40), (41), (42), (43), (44), (51), (53), (19), (49), (4), (9), (12), (17), (20), (25), (34), (46), (47), (52), and (32), respectively.
 
-Par. (10). Pub. L. 109–365, §101(a)(1), added par. (10) and struck out former par. (10) which read as follows: "Theterm 'assistive technology' means technology, engineering methodologies, or scientific principles appropriate to meet the needs of, and address the barriers confronted by, older individuals with functional limitations."
+Par. (10). Pub. L. 109–365, §101(a)(1), added par. (10) and struck out former par. (10) which read as follows: "The term 'assistive technology' means technology, engineering methodologies, or scientific principles appropriate to meet the needs of, and address the barriers confronted by, older individuals with functional limitations."
 
 Par. (12)(D). Pub. L. 109–365, §101(a)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: "health promotion programs, including but not limited to programs relating to prevention and reduction of effects of chronic disabling conditions (including osteoporosis and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, and stress management;".
 
@@ -430,7 +430,7 @@ Par. (12). Pub. L. 100–628, §705(1)(B), redesignated par. (8) defining "Trust
 
 <b>1987</b>—Par. (1). Pub. L. 100–175, §182(a), substituted "except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor" for "other than for purposes of subchapter IX of this chapter".
 
-Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted "means any of the several States," for "includes" and "the Commonwealth of Puerto Rico" for "Puerto Rico".
+Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted "means any of the several States," for "includes" and"the Commonwealth of Puerto Rico" for "Puerto Rico".
 
 Par. (8). Pub. L. 100–175, §182(b)(1)(B), added par. (8) defining "Trust Territory of the Pacific Islands".
 

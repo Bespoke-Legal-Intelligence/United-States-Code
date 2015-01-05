@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) are representative of urban and rural regions of the State; and
 
-&emsp;&emsp;(H) show the greatest promise for providing models that may be adopted by otherfamily literacy projects and other local educational agencies.
+&emsp;&emsp;(H) show the greatest promise for providing models that may be adopted by other family literacy projects and other local educational agencies.
 
 #### (2) Priority for subgrants
 

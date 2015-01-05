@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 5 U.S.C. 118k(b) (1st and 2d sentences, and 4th through 17th words of 3d sentence).
 
-July 19, 1940, ch. 640 §4 “Sec. 12(b) (1st and 2d sentences, and 4th through 17th words of 3d sentence)”, 54 Stat. 768.
+July 19, 1940, ch. 640 §4 "Sec. 12(b) (1st and 2d sentences, and 4th through 17th words of 3d sentence)", 54 Stat. 768.
 
 June 11, 1960, Pub. L. 86–507, §1(1), 74 Stat. 200.
 

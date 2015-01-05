@@ -46,7 +46,7 @@ No action taken by the Secretary under the authority under subsection (a) shall 
 
 #### (e) Review by Comptroller General of the United States
 
-Not later than one year after the effective date specified in subsection (g)(1), and annuallyfor four years thereafter, the Comptroller General of the United States shall—
+Not later than one year after the effective date specified in subsection (g)(1), and annually for four years thereafter, the Comptroller General of the United States shall—
 
 &emsp;(1) review the authority provided under subsection (a), including—
 
@@ -108,7 +108,7 @@ In this section:
 
 &emsp;The term "covered system" means the following:
 
-&emsp;&emsp;(A) National security systems (as defined in section 3542(b) of title 44) and components of such systems.
+&emsp;&emsp;(A) National security systems (as defined in section 3542(b) <sup>1</sup> of title 44) and components of such systems.
 
 &emsp;&emsp;(B) Nuclear weapons and components of nuclear weapons.
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;This section shall take effect on the date that is 180 days after December 26, 2013.
+&emsp;This section shall take effect on June 24, 2014.
 
 #### (2) Applicability
 
@@ -140,5 +140,15 @@ In this section:
 
 &emsp;The authority under this section shall terminate on the date that is four years after the effective date specified in paragraph (1).
 
-(Pub. L. 107–314, div. D, title XLVIII, §4806, as added Pub. L. 113–66, div. C, title XXXI, §3113(a), Dec. 26, 2013, 127 Stat. 1053.)
+(Pub. L. 107–314, div. D, title XLVIII, §4806, as added Pub. L. 113–66, div. C, title XXXI, §3113(a), Dec. 26, 2013, 127 Stat. 1053; amended Pub. L. 113–291, div. C, title XXXI, §3142(s), Dec. 19, 2014, 128 Stat. 3901.)
+
+#### References in Text
+
+Section 3542(b) of title 44, referred to in subsec. (f)(5)(A), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions defining "national security system" are now contained in section 3552 of title 44, as enacted by Pub. L. 113–283.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (g)(1). Pub. L. 113–291 substituted "June 24, 2014" for "the date that is 180 days after December 26, 2013".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after August 10, 2005, the Administrator, in consultation with theSecretary of Transportation and heads of other Federal agencies, shall establish criteria (including an evaluation of whether to establish a numerical standard for concentration of lead and other hazardous substances) for the safe and environmentally protective use of granular mine tailings from the Tar Creek, Oklahoma Mining District, known as "chat", for—
+&emsp;Not later than 180 days after August 10, 2005, the Administrator, in consultation with the Secretary of Transportation and heads of other Federal agencies, shall establish criteria (including an evaluation of whether to establish a numerical standard for concentration of lead and other hazardous substances) for the safe and environmentally protective use of granular mine tailings from the Tar Creek, Oklahoma Mining District, known as "chat", for—
 
 &emsp;&emsp;(A) cement or concrete projects; and
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) the current and previous uses of granular mine tailings as an aggregate for asphalt; and
 
-&emsp;&emsp;(B) any environmental and public health risks and benefits derived from the removal, transportation, and use in transportation projects of granular mine tailings.
+&emsp;&emsp;(B) any environmental and public health risks and benefits derived from the removal,transportation, and use in transportation projects of granular mine tailings.
 
 #### (3) Public participation
 

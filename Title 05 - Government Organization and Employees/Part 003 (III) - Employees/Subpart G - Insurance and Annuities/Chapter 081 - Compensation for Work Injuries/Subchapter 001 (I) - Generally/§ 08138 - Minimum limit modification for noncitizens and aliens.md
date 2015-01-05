@@ -1,6 +1,6 @@
 ### §8138. Minimum limit modification for noncitizens and aliens
 
-(a) Except as provided by subsection (b) of this section, the minimum limit on monthly compensation for disability under section 8112 of this title and the minimum limit on monthly pay on which death compensation is computed under section 8133 of this title do not apply in the case of a noncitizen employee, or a class or classes of noncitizen employees, who sustain injury outside the continental United States. The Secretary of Labor may establish a minimum monthly pay on which death compensation is computed in the case of a class or classes of such noncitizen employees.
+(a) Except as provided by subsection (b) of this section, the minimum limit on monthly compensation for disability under section 8112 of this title and the minimum limit on monthly pay on which death compensation is computed under section 8133 of this title do not apply in the case of a noncitizen employee, or a class or classes of noncitizen employees, who sustain injury outside the continental United States. The Secretary of Labor may establish a minimum monthly pay on which death compensation iscomputed in the case of a class or classes of such noncitizen employees.
 
 (b) The President may remove or modify the minimum limit on monthly compensation for disability under section 8112 of this title and the minimum limit on monthly pay on which death compensation is computed under section 8133 of this title in the case of an alien employee, or a class or classes of alien employees, of the Canal Zone Government or the Panama Canal Company.
 
@@ -32,11 +32,11 @@ Sept. 7, 1916, ch. 458, §42 (2d sentence of 2d par.), 39 Stat. 750.
 
 &nbsp;
 
-Apr. 6, 1938, ch. 79 “Sec. 42 (2d sentence of 2d par.)”, 52 Stat. 201.
+Apr. 6, 1938, ch. 79 "Sec. 42 (2d sentence of 2d par.)", 52 Stat. 201.
 
-In subsection (a), the words “in his discretion” are omitted as unnecessary in view of the permissive nature of the authority. The word “continental” is added on authority of the last sentence of the fifth paragraph of former section 793, which is carried into section 8137.
+In subsection (a), the words "in his discretion" are omitted as unnecessary in view of the permissive nature of the authority. The word "continental" is added on authority of the last sentence of the fifth paragraph of former section 793, which is carried into section 8137.
 
-In subsection (b), the words “Canal Zone Government” and “Panama Canal Company” are substituted for “Panama Canal” and “Panama Railroad Company”, respectively, on authority of the Act of Sept. 26, 1950, ch. 1049, §2(a), 64 Stat. 1038.
+In subsection (b), the words "Canal Zone Government" and "Panama Canal Company" are substituted for "Panama Canal" and "Panama Railroad Company", respectively, on authority of the Act of Sept. 26, 1950, ch. 1049, §2(a), 64 Stat. 1038.
 
 Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
 

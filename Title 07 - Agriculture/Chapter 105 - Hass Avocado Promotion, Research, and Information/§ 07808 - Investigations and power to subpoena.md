@@ -8,7 +8,7 @@ The Secretary may conduct such investigations as the Secretary considers necessa
 
 #### (1) Investigations
 
-&emsp;For the purpose of conducting an investigation under subsection (a) of this section, the Secretary may administer oaths and affirmations, subpoena witnesses, compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry. The production of the records may be required from any place in the United States.
+&emsp;For the purpose of conducting an investigation under subsection (a), the Secretary may administer oaths and affirmations, subpoena witnesses, compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry. The production of the records may be required from any place in the United States.
 
 #### (2) Administrative hearings
 
@@ -18,7 +18,7 @@ The Secretary may conduct such investigations as the Secretary considers necessa
 
 #### (1) In general
 
-&emsp;In the case of contumacy by, or refusal to obey a subpoena issued under subsection (b) of this section to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is conducted, or where the person resides or conducts business, in order to enforce a subpoena issued under subsection (b) of this section.
+&emsp;In the case of contumacy by, or refusal to obey a subpoena issued under subsection (b) to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is conducted, or where the person resides or conducts business, in order to enforce a subpoena issued under subsection (b).
 
 #### (2) Order
 

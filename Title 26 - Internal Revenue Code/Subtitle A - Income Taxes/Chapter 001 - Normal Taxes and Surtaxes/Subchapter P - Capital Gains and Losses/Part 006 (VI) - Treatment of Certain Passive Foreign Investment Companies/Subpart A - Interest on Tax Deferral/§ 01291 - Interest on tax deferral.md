@@ -292,7 +292,7 @@ Subsec. (e). Pub. L. 100–647, §1012(p)(6)(B), substituted "Except to the exte
 
 Subsec. (e)(2). Pub. L. 100–647, §1012(p)(9), struck out "not" before "a nonresident".
 
-Subsec. (f). Pub. L. 100–647, §1012(p)(6)(A), amended subsec. (f) generally. Prior to amendment, subsec. (f), "Nonrecognition provisions", read as follows: "To the extent provided in regulations, gain shall be recognizedon any disposition of stock in a passive foreign investment company."
+Subsec. (f). Pub. L. 100–647, §1012(p)(6)(A), amended subsec. (f) generally. Prior to amendment, subsec. (f), "Nonrecognition provisions", read as follows: "To the extent provided in regulations, gain shall be recognized on any disposition of stock in a passive foreign investment company."
 
 Subsec. (g). Pub. L. 100–647, §1012(p)(7)(B), added subsec. (g).
 

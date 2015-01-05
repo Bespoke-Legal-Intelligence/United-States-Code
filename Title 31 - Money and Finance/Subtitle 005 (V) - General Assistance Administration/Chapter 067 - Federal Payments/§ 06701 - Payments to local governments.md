@@ -110,7 +110,7 @@ Sections 3 and 8(d) of the Small Business Act, referred to in subsec. (f)(3), ar
 
 #### Prior Provisions
 
-A prior section 6701, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010; Pub. L. 98–185, §§2, 9(a), Nov. 30, 1983, 97 Stat. 1309, 1311, related to definitions and application of chapter, prior to repeal by Pub. L. 99–272, title XIV,§14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+A prior section 6701, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010; Pub. L. 98–185, §§2, 9(a), Nov. 30, 1983, 97 Stat. 1309, 1311, related to definitions and application of chapter, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
 #### Amendments
 

@@ -40,7 +40,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (3) Eligibility for additional assistance
 
-&emsp;The period of a student's attendance at an institution at which the student was unable to complete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student's period of eligibility for additional assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The period of a student's attendance at an institution at which the student was unable tocomplete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student's period of eligibility for additional assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (4) Special rule
 
@@ -104,7 +104,7 @@ Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end "The amount disch
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–39, title IV, §402(e)(2), July 1, 2009, 123 Stat. 1943, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective as if enacted as part of the amendments in section 437(a) of the Higher Education Opportunity Act (Public Law 110–315) \[amending this section\], and shall take effect on July 1, 2010."
+Pub. L. 111–39, title IV, §402(e)(2), July 1, 2009, 123 Stat. 1943, provided that: "The amendments made byparagraph (1) \[amending this section\] shall be effective as if enacted as part of the amendments in section 437(a) of the Higher Education Opportunity Act (Public Law 110–315) \[amending this section\], and shall take effect on July 1, 2010."
 
 #### Effective Date of 2008 Amendment
 

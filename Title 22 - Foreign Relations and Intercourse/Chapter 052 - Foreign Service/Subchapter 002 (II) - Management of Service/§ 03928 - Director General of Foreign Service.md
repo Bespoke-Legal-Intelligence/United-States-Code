@@ -6,5 +6,5 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: "There shall be a Director General of the Foreign Service, who shall be appointed by the President, by and with the advice and consent of the Senate, from among the career members of the Senior Foreign Service. The Director General shall assist the Secretary of State in the management of the Service and shall perform such functions as the Secretary of State may prescribe."
+<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: "There shall bea Director General of the Foreign Service, who shall be appointed by the President, by and with the advice and consent of the Senate, from among the career members of the Senior Foreign Service. The Director General shall assist the Secretary of State in the management of the Service and shall perform such functions as the Secretary of State may prescribe."
 

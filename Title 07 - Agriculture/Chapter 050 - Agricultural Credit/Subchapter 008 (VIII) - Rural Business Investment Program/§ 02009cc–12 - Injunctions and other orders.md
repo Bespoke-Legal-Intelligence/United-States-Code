@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In any proceeding under subsection (a) of this section, the court as a court of equity may, to such extent as the court considers necessary, take exclusive jurisdiction over the rural business investment company and the assets of the rural business investment company, wherever located.
+&emsp;In any proceeding under subsection (a), the court as a court of equity may, to such extent as the court considers necessary, take exclusive jurisdiction over the rural business investment company and the assets of the rural business investment company, wherever located.
 
 #### (2) Trustee or receiver
 

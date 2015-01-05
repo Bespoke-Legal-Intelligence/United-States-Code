@@ -12,7 +12,7 @@
 
 &emsp;(5) The term "contract of insurance" includes a contract of guarantee.
 
-&emsp;(6) The terms "United States" and "State" shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, AmericanSamoa, the Commonwealth of the Northern Mariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
+&emsp;(6) The terms "United States" and "State" shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
 
 &emsp;(7) The term "joint operation" means a joint farming operation in which two or more farmers work together sharing equally or unequally land, labor, equipment, expenses, and income.
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 10 years;
 
-&emsp;&emsp;(C) in the case of a cooperative, corporation, partnership, or joint operation, who has members, stockholders, partners, or joint operators who are all related to one another by blood or marriage;
+&emsp;&emsp;(C) in the case of a cooperative, corporation, partnership, joint operation, or suchother legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operators, or owners, who are all related to one another by blood or marriage;
 
 &emsp;&emsp;(D)(i) in the case of an owner and operator of a farm or ranch, who—
 
@@ -38,9 +38,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) provides substantial day-to-day labor and management of the farm or ranch, consistent with the practices in the State or county in which the farm or ranch is located; or
 
-&emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, or joint operation, has members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
+&emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, has members, stockholders, partners, joint operators, or owners, materially and substantially participate in the operation of the farm or ranch; and
 
-&emsp;&emsp;&emsp;(bb) in the case of a loan made to a corporation, has stockholders, all of whom are qualified beginning farmers or ranchers; and
+&emsp;&emsp;&emsp;(bb) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators, all of whom are qualified beginning farmers or ranchers; and
 
 &emsp;&emsp;(ii) in the case of an applicant seeking to own and operate a farm or ranch, who—
 
@@ -50,13 +50,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) provide substantial day-to-day labor and management of the farm or ranch, consistent with the practices in the State or county in which the farm or ranch is located; or
 
-&emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, or joint operation, will have members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
+&emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, will have members, stockholders, partners, joint operators, or owners, materially and substantially participate in the operation of the farm or ranch; and
 
-&emsp;&emsp;&emsp;(bb) in the case of a loan made to a corporation, has stockholders, all of whom are qualified beginning farmers or ranchers;
+&emsp;&emsp;&emsp;(bb) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators, all of whom are qualified beginning farmers or ranchers;
 
 &emsp;&emsp;(E) who agrees to participate in such loan assessment, borrower training, and financial management programs as the Secretary may require;
 
-&emsp;&emsp;(F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the median acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
+&emsp;&emsp;(F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the average acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II; and
 
 &emsp;&emsp;(G) who demonstrates that the available resources of the applicant and spouse (if any) of the applicant are not sufficient to enable the applicant to continue farming or ranching on a viable scale.
 
@@ -180,7 +180,7 @@ Appeals.—A program applicant may appeal an estimate made under clause (i)(I) b
 
 Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
 
-(b) As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
+(b) As used in sections 1927(e),<sup>1</sup> 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
 &emsp;(1) The term "borrower" means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
@@ -200,7 +200,7 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 Preservation loan service program.—The term "preservation loan service program" means homestead retention as authorized under section 2000 of this title.
 
-(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931.)
+(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30,1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931; Pub. L. 113–79, title V, §5303, Feb. 7, 2014, 128 Stat. 839.)
 
 #### References in Text
 
@@ -212,13 +212,29 @@ The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably m
 
 Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is section 1254 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1517, which amended Pub. L. 98–258, §608, set out as a note under section 1981 of this title.
 
+Section 1927(e) of this title, referred to in subsec. (b), was redesignated section 1927(d) of this title by Pub. L. 113–79, title V, §5004(2), Feb. 7, 2014, 128 Stat. 834.
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining "rural" and "rural area", provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining "rural" and "rural area" and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
+<b>2014</b>—Subsec. (a)(11)(C). Pub. L. 113–79, §5303(a)(2), which directed substitution of "joint operators, or owners," for "or joint operators," was executed by making the substitution for "or joint operators", to reflect the probable intent of Congress.
+
+Pub. L. 113–79, §5303(a)(1), substituted "joint operation, or such other legal entity as the Secretary considers appropriate," for "or joint operation,".
+
+Subsec. (a)(11)(D)(i)(II)(aa). Pub. L. 113–79, §5303(a)(1), (2), substituted "joint operation, or such other legal entity as the Secretary considers appropriate," for "or joint operation," and "joint operators, or owners," for "or joint operators,".
+
+Subsec. (a)(11)(D)(i)(II)(bb). Pub. L. 113–79, §5303(a)(3), substituted "cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators," for "corporation, has stockholders,".
+
+Subsec. (a)(11)(D)(ii)(II)(aa). Pub. L. 113–79, §5303(a)(1), (2), substituted "joint operation, or such other legal entity as the Secretary considers appropriate," for "or joint operation,"and "joint operators, or owners," for "or joint operators,".
+
+Subsec. (a)(11)(D)(ii)(II)(bb). Pub. L. 113–79, §5303(a)(3), substituted "cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators," for "corporation, has stockholders,".
+
+Subsec. (a)(11)(F). Pub. L. 113–79, §5303(b), substituted "average acreage" for "median acreage".
+
+<b>2008</b>—Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining "rural" and "rural area", provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining "rural" and "rural area" and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
 <b>2002</b>—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted "30 percent" for "25 percent".
 
@@ -232,7 +248,7 @@ Subsec. (a)(13). Pub. L. 107–171, §6020(a), added par. (13).
 
 Subsec. (a)(11). Pub. L. 104–127, §640(1)(A), in introductory provisions, substituted "applicant, regardless of whether the applicant is participating in a program under section 1935 of this title" for "applicant".
 
-Subsec. (a)(11)(F). Pub. L. 104–127, §640(1)(B), substituted "25 percent" for "15 percent" and inserted before semicolon at end ", except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter".
+Subsec. (a)(11)(F). Pub. L. 104–127, §640(1)(B), substituted "25 percent" for "15 percent" and inserted before semicolon at end ", except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II".
 
 Subsec. (a)(12). Pub. L. 104–127, §640(2), added par. (12).
 
@@ -250,7 +266,7 @@ Subsec. (b)(4). Pub. L. 104–127, §661(h)(2)(B), added par. (4) and struck out
 
 Subsec. (a)(5). Pub. L. 102–237, §702(h)(1)(C), repealed Pub. L. 101–624, §2388(h)(3). See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–624, §2388(h)(1), (2), as amended by Pub. L. 102–237, §702(h)(1)(A), (B), struck out "and" after "fish farming," in par. (1), and "and" after "such loan," in par. (3).
+<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–624, §2388(h)(1), (2), as amended by Pub. L. 102–237, §702(h)(1)(A), (B),struck out "and" after "fish farming," in par. (1), and "and" after "such loan," in par. (3).
 
 Subsec. (a)(5). Pub. L. 101–624, §2388(h)(3), which directed substitution of " 'contract of insurance' " for "contract of insurance", was repealed by Pub. L. 102–237, §702(h)(1)(C). See Construction of 1990 Amendment note below.
 
@@ -295,4 +311,6 @@ Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as ame
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

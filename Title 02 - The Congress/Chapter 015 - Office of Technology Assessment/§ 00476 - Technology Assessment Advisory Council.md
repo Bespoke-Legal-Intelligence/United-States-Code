@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition
 
-The Office shall establish a Technology Assessment Advisory Council (hereinafter referred to as the “Council”). The Council shall be composed of the following twelve members:
+The Office shall establish a Technology Assessment Advisory Council (hereinafter referred to as the "Council"). The Council shall be composed of the following twelve members:
 
 &emsp;(1) ten members from the public, to be appointed by the Board, who shall be persons eminent in one or more fields of the physical, biological, or social sciences or engineering or experienced in the administration of technological activities, or who may be judged qualified on the basis of contributions made to educational or public activities;
 
@@ -26,19 +26,19 @@ The Council by majority vote, shall elect from its members appointed under subse
 
 #### (d) Terms of office of members appointed from public; reappointment
 
-The term of office of each member of the Council appointed under subsection (a)(1) of this section shall be four years except that any such member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. No person shall be appointed a member of the Council under subsection (a)(1) of this section more than twice. Terms of the members appointed under subsection (a)(1) of this section shall be staggered so as to establish a rotating membership according to such method as the Board may devise.
+The term of office of each member of the Council appointed under subsection (a)(1) shall be four years except that any such member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. No person shall be appointed a member of the Council under subsection (a)(1) more than twice. Terms of the members appointed under subsection (a)(1) shall be staggered so as to establish a rotating membership according to such method as the Board may devise.
 
 #### (e) Payment to Comptroller General and Director of Congressional Research Service of travel and other necessary expenses; payment to members appointed from public of compensation and reimbursement for travel, subsistence, and other necessary expenses
 
-(1) The members of the Council other than those appointed under subsection (a)(1) of this section shall receive no pay for their services as members of the Council, but shall be allowed necessary travel expenses (or, in the alternative, mileage for use of privately owned vehicles and payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in <sup>1</sup> 5704 oftitle 5), and other necessary expenses incurred by them in the performance of duties vested in the Council, without regard to the provisions of subchapter 1 of chapter 57 and section 5731 of title 5, and regulations promulgated thereunder.
+(1) The members of the Council other than those appointed under subsection (a)(1) shall receive no pay for their services as members of the Council, but shall be allowed necessary travel expenses (or, in the alternative, mileage for use of privately owned vehicles and payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in <sup>1</sup> 5704 of title 5), and other necessary expenses incurred by them in the performance of duties vested in the Council, without regard to the provisions of subchapter 1 of chapter 57 and section 5731 of title 5, and regulations promulgated thereunder.
 
-(2) The members of the Council appointed under subsection (a)(1) of this section shall receive compensation for each day engaged in the actual performance of duties vested in the Council at rates of pay not in excess of the daily equivalent of the highest rate of basic pay set forth in the General Schedule of section 5332(a) of title 5, and in addition shall be reimbursed for travel, subsistence, and other necessary expenses in the manner provided for other members of the Council under paragraph (1) of this subsection.
+(2) The members of the Council appointed under subsection (a)(1) shall receive compensation for each day engaged in the actual performance of duties vested in the Council at rates of pay not in excess of the daily equivalent of the highest rate of basic pay set forth in the General Schedule of section 5332(a) of title 5, and in addition shall be reimbursed for travel, subsistence, and other necessary expenses in the manner provided for other members of the Council under paragraph (1) of this subsection.
 
 (Pub. L. 92–484, §7, Oct. 13, 1972, 86 Stat. 800; Pub. L. 99–234, title I, §107(a), Jan. 2, 1986, 99 Stat. 1759.)
 
 #### Amendments
 
-<b>1986</b>—Subsec. (e)(1). Pub. L. 99–234 substituted “payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in” for “a per diem in lieu of subsistence at not to exceed the rate prescribed in sections 5702 and”.
+<b>1986</b>—Subsec. (e)(1). Pub. L. 99–234 substituted "payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in" for "a per diem in lieu of subsistence at not to exceed the rate prescribed in sections 5702 and".
 
 #### Effective Date of 1986 Amendment
 
@@ -52,5 +52,5 @@ Advisory councils in existence on Jan. 5, 1973, to terminate not later than the 
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 

@@ -18,7 +18,7 @@
 
 #### (3) 50 percent maximum
 
-&emsp;The non-Federal share under paragraph (1) shall not exceed 50 percent of the cost of the project assigned to flood control. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
+&emsp;The non-Federal share under paragraph (1) shall not exceed 50 percent of the cost of theproject assigned to flood control. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
 
 #### (4) Deferred payment of amount exceeding 30 percent
 
@@ -148,11 +148,11 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (1) In general
 
-&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
+&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a projectfor navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
 
 #### (2) Criteria and procedures
 
-&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later thanDecember 31, 2007, to reflect the requirements of such paragraph (3).
+&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later than December 31, 2007, to reflect the requirements of such paragraph (3).
 
 #### (3) Revision of criteria and procedures
 
@@ -226,7 +226,7 @@ Subsec. (c)(7). Pub. L. 104–303, §210(a), added par. (7).
 
 Subsec. (e)(1). Pub. L. 104–303, §202(a)(2), inserted at end "For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract."
 
-Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary."
+Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary."
 
 <b>1992</b>—Subsec. (i). Pub. L. 102–580, §333(b)(2), substituted "Except as provided under section 2283(c) of this title, the non-Federal" for "The non-Federal".
 

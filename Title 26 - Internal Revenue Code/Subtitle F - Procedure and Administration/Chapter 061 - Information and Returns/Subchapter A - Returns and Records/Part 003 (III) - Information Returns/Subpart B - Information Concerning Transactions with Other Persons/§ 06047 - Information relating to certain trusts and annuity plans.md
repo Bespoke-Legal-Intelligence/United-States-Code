@@ -2,7 +2,7 @@
 
 #### (a) Trustees and insurance companies
 
-The trustee of a trust described in section 401(a) which is exempt from tax under section 501(a) to which contributions have been paid under a plan on behalf of any owner-employee (as defined in section 401(c)(3)), and each insurance company or other person which is the issuer of a contract purchased by such a trust, or purchased under a plan described in section 403(a), contributions for which have been paid on behalf of any owner-employee, shall file such returns (in such form and at such times), keep such records, make such identification of contracts and funds (and accounts within such funds), and supply such information, as the Secretary shall by forms or regulations prescribe.
+The trustee of a trust described in section 401(a) which is exempt from tax under section 501(a) to which contributions have been paid under a plan on behalf of any owner-employee (as defined in section 401(c)(3)), and each insurance company or other person which is the issuer of a contract purchased by such a trust, or purchased under a plan described in section 403(a), contributions for which have been paid on behalf of any owner-employee, shall file such returns (in such form and at such times), keepsuch records, make such identification of contracts and funds (and accounts within such funds), and supply such information, as the Secretary shall by forms or regulations prescribe.
 
 #### (b) Owner-employees
 
@@ -162,7 +162,7 @@ Section applicable to taxable years beginning after Dec. 31, 1962, see section 8
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

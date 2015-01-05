@@ -2,7 +2,7 @@
 
 (a)(1) Whoever kills or attempts to kill another person with intent to retaliate against any person for—
 
-&emsp;(A) the attendance of a witness or party at an official proceeding, or any testimony givenor any record, document, or other object produced by a witness in an official proceeding; or
+&emsp;(A) the attendance of a witness or party at an official proceeding, or any testimony given or any record, document, or other object produced by a witness in an official proceeding; or
 
 &emsp;(B) providing to a law enforcement officer any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings,
 

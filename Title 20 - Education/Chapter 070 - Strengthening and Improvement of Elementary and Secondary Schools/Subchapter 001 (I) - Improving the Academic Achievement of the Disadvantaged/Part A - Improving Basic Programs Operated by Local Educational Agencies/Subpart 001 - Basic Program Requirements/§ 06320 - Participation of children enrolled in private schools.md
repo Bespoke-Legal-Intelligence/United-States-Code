@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To the extent consistent with the number of eligible children identified under section 6315(b) of this title in the school district served by a local educational agency who are enrolled in private elementary schools and secondary schools, a local educational agency shall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment) that address their needs, and shall ensure that teachers and families of the children participate, on an equitable basis, in services and activities developed pursuant to sections 6318 and 6319 of this title.
+&emsp;To the extent consistent with the number of eligible children identified under section 6315(b) of this title in the school district served by a local educational agency who are enrolled in private elementary schools and secondary schools, a local educational agencyshall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment) that address their needs, and shall ensure that teachers and families of the children participate, on an equitable basis, in services and activities developed pursuant to sections 6318 and 6319 of this title.
 
 #### (2) Secular, neutral, nonideological
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(B) using the results of a survey that, to the extent possible, protects the identity of families of private school students, and allowing such survey results to be extrapolated if complete actual data are unavailable;
 
-&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendance area, determined pursuant to this section, tothe number of private school children who reside in that school attendance area; or
+&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendance area, determined pursuant to this section, to the number of private school children who reside in that school attendance area; or
 
 &emsp;&emsp;(D) using an equated measure of low income correlated with the measure of low income used to count public school children.
 

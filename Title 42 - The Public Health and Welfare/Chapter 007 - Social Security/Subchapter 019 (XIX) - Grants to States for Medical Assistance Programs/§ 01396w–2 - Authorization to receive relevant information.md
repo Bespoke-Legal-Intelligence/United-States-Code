@@ -26,7 +26,7 @@ Data or information may be conveyed pursuant to subsection (a) only if the follo
 
 #### (1) Civil money penalty
 
-&emsp;A private entity described in the <sup>1</sup> subsection (a) that publishes, discloses, or makes known in any manner, or to any extent not authorized by Federal law, any information obtained under this section is subject to a civil money penalty in an amount equal to $10,000 for each such unauthorized publication or disclosure. The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to acivil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;A private entity described in the <sup>1</sup> subsection (a) that publishes, discloses, or makes known in any manner, or to any extent not authorized by Federal law, any information obtained under this section is subject to a civil money penalty in an amount equal to $10,000 for each such unauthorized publication or disclosure. The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (2) Criminal penalty
 
@@ -34,7 +34,7 @@ Data or information may be conveyed pursuant to subsection (a) only if the follo
 
 #### (d) Rule of construction
 
-The limitations and requirements that apply to disclosure pursuant to this section shall not be construed to prohibit the conveyance or disclosure of data or information otherwise permitted under Federal law (without regard to this section).
+The limitations and requirements that apply to disclosure pursuant to this section shall notbe construed to prohibit the conveyance or disclosure of data or information otherwise permitted under Federal law (without regard to this section).
 
 (Aug. 14, 1935, ch. 531, title XIX, §1942, as added Pub. L. 111–3, title II, §203(d)(1), Feb. 4, 2009, 123 Stat. 47.)
 

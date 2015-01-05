@@ -10,7 +10,7 @@ Thirty-Five Years Service or Five Years in Grade for Major Generals and Rear Adm
 
 (c)
 
-Thirty-Eight Years of Service for Lieutenant Generals and Vice Admirals.—Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps inthe grade of lieutenant general and each reserve officer of the Navy in the grade of vice admiral shall be separated in accordance with section 14514 of this title on the later of the following:
+Thirty-Eight Years of Service for Lieutenant Generals and Vice Admirals.—Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps in the grade of lieutenant general and each reserve officer of the Navy in the grade of vice admiral shall be separated in accordance with section 14514 of this title on the later of the following:
 
 &emsp;(1) 30 days after completion of 38 years of commissioned service.
 

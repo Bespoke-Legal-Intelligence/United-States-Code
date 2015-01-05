@@ -118,7 +118,7 @@ Waiver report.—For each waiver under paragraph (2), the Secretary of Defense a
 
 "(4)
 
-Notice.—Not later than 30 days before the exercise of the authority to waive under paragraph (2) thecertification requirement under paragraph (1) for a ground monitoring station, the Secretary of Defense and the Director of National Intelligence shall jointly provide to the appropriate congressional committees notice of the exercise of such authority and the report required under paragraph (3) with respect to such ground monitoring station.
+Notice.—Not later than 30 days before the exercise of the authority to waive under paragraph (2) the certification requirement under paragraph (1) for a ground monitoring station, the Secretary of Defense and the Director of National Intelligence shall jointly provide to the appropriate congressional committees notice of the exercise of such authority and the report required under paragraph (3) with respect to such ground monitoring station.
 
 "(5)
 

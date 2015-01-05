@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(H) The costs as compared to the benefits of the activities assisted under this subchapter.
 
-&emsp;&emsp;(I) The extent to which actions authorized under section 6316 of this title are implemented by State educational agencies and local educational agencies to improve theacademic achievement of students in low-performing schools, and the effectiveness of the implementation of such actions, including the following:
+&emsp;&emsp;(I) The extent to which actions authorized under section 6316 of this title are implemented by State educational agencies and local educational agencies to improve the academic achievement of students in low-performing schools, and the effectiveness of the implementation of such actions, including the following:
 
 &emsp;&emsp;&emsp;(i) The number of schools identified for school improvement and how many years the schools remain in this status.
 
@@ -122,7 +122,7 @@
 
 #### (2) Issues to be examined
 
-&emsp;In carrying out this subsection, the Secretary shall ensure that the study referred toin paragraph (1) provides Congress and educators with each of the following:
+&emsp;In carrying out this subsection, the Secretary shall ensure that the study referred to in paragraph (1) provides Congress and educators with each of the following:
 
 &emsp;&emsp;(A) An accurate description and analysis of the short- and long-term effect of the assistance made available under this subchapter on academic achievement.
 

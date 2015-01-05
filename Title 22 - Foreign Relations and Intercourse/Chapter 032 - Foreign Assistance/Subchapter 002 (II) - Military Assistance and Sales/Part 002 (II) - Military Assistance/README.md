@@ -26,3 +26,4 @@ Part II—Military Assistance
 - [&sect; 02321k - Designation of major non-NATO allies](%C2%A7%2002321k%20-%20Designation%20of%20major%20non-NATO%20allies.md)
 - [&sect; 02321l to 2321n - Repealed. Pub. L. 104&#8211;164, title I, &sect;104(b)(2)(B), July 21, 1996, 110 Stat. 1427](%C2%A7%2002321l%20to%202321n%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93164%2C%20title%20I%2C%20%C2%A7104%28b%29%282%29%28B%29%2C%20July%2021%2C%201996%2C%20110%20Stat.%201427.md)
 - [&sect; 02322 - Transferred](%C2%A7%2002322%20-%20Transferred.md)
+- [&sect; 02323 - Transfer of defense articles or services](%C2%A7%2002323%20-%20Transfer%20of%20defense%20articles%20or%20services.md)

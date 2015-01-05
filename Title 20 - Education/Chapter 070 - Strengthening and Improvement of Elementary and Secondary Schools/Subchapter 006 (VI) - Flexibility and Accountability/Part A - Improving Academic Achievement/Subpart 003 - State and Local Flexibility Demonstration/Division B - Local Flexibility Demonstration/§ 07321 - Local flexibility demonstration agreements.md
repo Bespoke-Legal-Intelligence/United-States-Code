@@ -32,7 +32,7 @@ Except as otherwise provided in this division, the Secretary shall, on a competi
 
 #### (B) Urban and rural areas
 
-&emsp;&emsp;If more than three local educational agencies in a State submit approvable local flexibility demonstration agreements under this division, the Secretary shall select local educational agencies with which to enter into such agreements in a manner that ensures an equitable distribution among such agencies serving urban and rural areas.
+&emsp;&emsp;If more than three local educational agencies in a State submit approvable local flexibility demonstration agreements under thisdivision, the Secretary shall select local educational agencies with which to enter into such agreements in a manner that ensures an equitable distribution among such agencies serving urban and rural areas.
 
 #### (C) Priority of States to enter into State flexibility demonstration agreements
 
@@ -96,7 +96,7 @@ The Secretary shall—
 
 &emsp;(1) establish a peer review process to assist in the review of proposed local flexibility demonstration agreements under this division; and
 
-&emsp;(2) appoint individuals to the peer review process who are representative of parents, teachers, State educational agencies, and local educational agencies, and who are familiar with educational standards, assessments, accountability, curriculum, instruction and staff development, and other diverse educational needs of students.
+&emsp;(2) appoint individuals to the peer review process who are representative of parents,teachers, State educational agencies, and local educational agencies, and who are familiar with educational standards, assessments, accountability, curriculum, instruction and staff development, and other diverse educational needs of students.
 
 #### (e) Amendment to performance agreement
 
@@ -148,7 +148,7 @@ The Secretary shall—
 
 #### (3) Treatment of program funds withdrawn from agreement
 
-&emsp;Beginning on the effective date of an amendment executed under paragraph (1)(A), eachprogram requirement of each program removed from the scope of a local flexibility demonstration agreement shall apply to the use of funds made available under the program by the local educational agency.
+&emsp;Beginning on the effective date of an amendment executed under paragraph (1)(A), each program requirement of each program removed from the scope of a local flexibility demonstration agreement shall apply to the use of funds made available under the program by the local educational agency.
 
 (Pub. L. 89–10, title VI, §6151, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1884.)
 

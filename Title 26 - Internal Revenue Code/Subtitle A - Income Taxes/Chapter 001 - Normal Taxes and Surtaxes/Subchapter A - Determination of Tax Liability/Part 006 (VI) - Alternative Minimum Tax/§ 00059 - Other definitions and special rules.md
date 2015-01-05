@@ -80,7 +80,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (2) Qualified expenditure
 
-&emsp;For purposes of this subsection, the term "qualified expenditure" means any amount which, but for an election under this subsection, would have been allowable as a deduction (determined without regard to section291) for the taxable year in which paid or incurred under—
+&emsp;For purposes of this subsection, the term "qualified expenditure" means any amount which, but for an election under this subsection, would have been allowable as a deduction (determined without regard to section 291) for the taxable year in which paid or incurred under—
 
 &emsp;&emsp;(A) section 173 (relating to circulation expenditures),
 
@@ -122,7 +122,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (6) Amounts to which election apply not treated as tax preference
 
-&emsp;Any portion of any qualified expenditure to which an election under paragraph (1) applies shall not be treated as an item of tax preference under section 57(a) and section 56 shall not apply to such expenditure.
+&emsp;Any portion of any qualified expenditure to which an election under paragraph (1) appliesshall not be treated as an item of tax preference under section 57(a) and section 56 shall not apply to such expenditure.
 
 #### (f) Coordination with section 291
 
@@ -202,7 +202,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 104–188, §1703(e)(3), substituted "which would
 
 Subsec. (a)(3). Pub. L. 104–188, §1703(e)(4), added par. (3).
 
-Subsec. (b). Pub. L. 104–188, §1601(b)(2)(D), substituted "section 30A or 936, alternative minimum taxable income shall not include any income with respect to which a credit is determined under section 30A or 936." for "section 936, alternative minimum taxable income shall not include any amount with respect to which the requirements of subparagraph (A) or (B) of section 936(a)(1) are met."
+Subsec. (b). Pub. L. 104–188, §1601(b)(2)(D), substituted "section 30A or 936, alternative minimum taxable income shall not include any income with respect to which a credit is determined under section 30A or 936." for "section 936, alternative minimum taxable income shall not include any amount with respect to which therequirements of subparagraph (A) or (B) of section 936(a)(1) are met."
 
 Subsec. (j)(1)(B). Pub. L. 104–188, §1704(m)(3), substituted "twice the amount in effect for the taxable year under section 63(c)(5)(A)" for "$1,000".
 

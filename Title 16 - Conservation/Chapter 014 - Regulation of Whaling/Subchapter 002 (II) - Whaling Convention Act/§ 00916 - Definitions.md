@@ -34,7 +34,7 @@ Act Aug. 9, 1950, ch. 653, §1, 64 Stat. 421, provided: "That this Act \[enactin
 
 #### Separability
 
-Act Aug. 9, 1950, ch. 653, §15, 64 Stat. 425, provided that: "If any provision of this Act \[this subchapter\] orthe application of such provisions to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby."
+Act Aug. 9, 1950, ch. 653, §15, 64 Stat. 425, provided that: "If any provision of this Act \[this subchapter\] or the application of such provisions to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby."
 
 #### Transfer of Functions
 

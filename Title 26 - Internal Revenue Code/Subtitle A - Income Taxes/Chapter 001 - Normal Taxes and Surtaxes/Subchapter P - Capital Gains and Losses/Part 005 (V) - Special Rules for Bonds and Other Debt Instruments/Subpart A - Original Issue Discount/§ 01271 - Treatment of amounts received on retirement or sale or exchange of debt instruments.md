@@ -76,7 +76,7 @@ For purposes of this title—
 
 #### (C) Ratable share
 
-&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is an amount which bears the same ratio to such discount as—
+&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is anamount which bears the same ratio to such discount as—
 
 &emsp;&emsp;&emsp;(i) the number of days which the taxpayer held the obligation, bears to
 
@@ -106,39 +106,33 @@ For purposes of this title—
 
 &emsp;Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) after June 8, 1997.
 
-#### (c) Transition rules
+#### (c) Special rule for certain obligations with respect to which original issue discount not currently includible
 
-#### (1) Special rule for certain obligations issued before January 1, 1955
+#### (1) In general
 
-&emsp;Paragraph (1) of subsection (a) shall apply to a debt instrument issued before January 1, 1955, only if such instrument was issued with interest coupons or in registered form, or was in such form on March 1, 1954.
+&emsp;On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954, and before July 2, 1982, or by a corporation after December 31, 1954, and on or before May 27, 1969, any gain realized which does not exceed—
 
-#### (2) Special rule for certain obligations with respect to which original issue discount not currently includible
+&emsp;&emsp;(A) an amount equal to the original issue discount, or
 
-#### (A) In general
+&emsp;&emsp;(B) if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity, shall be considered as ordinary income.
 
-&emsp;&emsp;On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954, and before July 2, 1982, or by a corporation after December 31, 1954, and on or before May 27, 1969, any gain realized which does not exceed—
+#### (2) Subsection (a)(2)(A) not to apply
 
-&emsp;&emsp;&emsp;(i) an amount equal to the original issue discount, or
+&emsp;Subsection (a)(2)(A) shall not apply to any debt instrument referred to in paragraph (1) of this subsection.
 
-&emsp;&emsp;&emsp;(ii) if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity,
+#### (3) Cross reference
 
-> &emsp;&emsp;shall be considered as ordinary income.
-
-#### (B) Subsection (a)(2)(A) not to apply
-
-&emsp;&emsp;Subsection (a)(2)(A) shall not apply to any debt instrument referred to in subparagraph (A) of this paragraph.
-
-#### (C) Cross reference
-
-&emsp;&emsp;<b>For current inclusion of original issue discount, see section 1272.</b>
+&emsp;For current inclusion of original issue discount, see section 1272.
 
 #### (d) Double inclusion in income not required
 
 This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–295 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to transition rules, including special rules for certain obligations issued before Jan. 1, 1955, and for certain obligations with respect to which original issue discount was not currently includible.
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–34 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "This section shall not apply to—
 
@@ -170,6 +164,10 @@ Subsec. (a)(3)(E). Pub. L. 99–514, §1803(a)(2)(A), added subpar. (E).
 
 Subsec. (a)(4). Pub. L. 99–514, §1803(a)(1)(A), added par. (4).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title X, §1003(c)(2), Aug. 5, 1997, 111 Stat. 911, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to sales, exchanges, and retirements after the date of enactment of this Act \[Aug. 5, 1997\]."
@@ -184,11 +182,11 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §44, July 18, 1984, 98 Stat. 559, as amended by Pub. L. 98–612, §2, Oct. 31, 1984, 98 Stat. 3182; Pub. L. 99–514, §2, title XVIII, §1803(b), Oct. 22, 1986, 100 Stat. 2095, 2797, provided that:
+Pub. L. 98–369, div. A, title I, §44, July 18, 1984, 98 Stat. 559, as amended by Pub. L. 98–612, §2, Oct. 31, 1984,98 Stat. 3182; Pub. L. 99–514, §2, title XVIII, §1803(b), Oct. 22, 1986, 100 Stat. 2095, 2797, provided that:
 
 "(a)
 
-General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle C (§§41–44) of title I of div. A of Pub. L. 98–369, enacting this section and sections 1272 to 1288 and 6706, amending sections 103A, 163, 165, 249, 341, 405, 409, 453B,483, 751, 811, 871, 881, 1016, 1037, 1351, 1441, 6049, 7701, and 7805, and repealing sections 1232, 1232A, and 1232B of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[July 18, 1984\].
+General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle C (§§41–44) of title I of div. A of Pub. L. 98–369, enacting this section and sections 1272 to 1288 and 6706, amending sections 103A, 163, 165, 249, 341, 405, 409, 453B, 483, 751, 811, 871, 881, 1016, 1037, 1351, 1441, 6049, 7701, and 7805, and repealing sections 1232, 1232A, and 1232B of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[July 18, 1984\].
 
 "(b)
 
@@ -326,7 +324,7 @@ Exception for assumptions of loans made on or before october 15, 1984.—
 
 In general.—If any person—
 
-&emsp;&emsp;&emsp;"(i) assumes, in connection with the sale or exchange of property, any debt obligation describedin subparagraph (B) and issued on or before October 15, 1984, or
+&emsp;&emsp;&emsp;"(i) assumes, in connection with the sale or exchange of property, any debt obligation described in subparagraph (B) and issued on or before October 15, 1984, or
 
 &emsp;&emsp;&emsp;"(ii) acquires any property subject to any such debt obligation issued on or before October 15, 1984,
 
@@ -466,7 +464,7 @@ Interest deferral rules.—Section 1277 of such Code (as added by section 41) sh
 
 "(d)
 
-Rules Relating to Discount on Short-Term Obligations.—Subpart C of part V of subchapter P of chapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
+Rules Relating to Discount on Short-Term Obligations.—Subpart C of part V of subchapter P ofchapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
 
 "(e) 5-
 

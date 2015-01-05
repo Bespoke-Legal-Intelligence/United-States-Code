@@ -2,7 +2,7 @@
 
 (a) For the purpose of this subchapter—
 
-&emsp;(1) “employee” means—
+&emsp;(1) "employee" means—
 
 &emsp;&emsp;(A) an individual in the competitive service—
 
@@ -22,13 +22,13 @@
 
 &emsp;&emsp;&emsp;(ii) who has completed 2 years of current continuous service in the same or similar positions in an Executive agency under other than a temporary appointment limited to 2 years or less;
 
-&emsp;(2) “suspension” has the same meaning as set forth in section 7501(2) of this title;
+&emsp;(2) "suspension" has the same meaning as set forth in section 7501(2) of this title;
 
-&emsp;(3) “grade” means a level of classification under a position classification system;
+&emsp;(3) "grade" means a level of classification under a position classification system;
 
-&emsp;(4) “pay” means the rate of basic pay fixed by law or administrative action for the position held by an employee; and
+&emsp;(4) "pay" means the rate of basic pay fixed by law or administrative action for the position held by an employee; and
 
-&emsp;(5) “furlough” means the placing of an employee in a temporary status without duties and pay because of lack of work or funds or other nondisciplinary reasons.
+&emsp;(5) "furlough" means the placing of an employee in a temporary status without duties and pay because of lack of work or funds or other nondisciplinary reasons.
 
 (b) This subchapter does not apply to an employee—
 
@@ -56,11 +56,11 @@
 
 &emsp;(9) who is described in section 5102(c)(11) of this title; or
 
-&emsp;(10) who holds a position within the Veterans Health Administration which has been excluded from the competitive service by orunder a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
+&emsp;(10) who holds a position within the Veterans Health Administration which has been excluded from the competitive service by or under a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
 
 (c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
-(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(l), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242.)
+(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(l), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996,110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242.)
 
 #### References in Text
 
@@ -68,53 +68,53 @@ Section 103 of the Foreign Service Act of 1980, referred to in subsec. (b)(6), i
 
 #### Prior Provisions
 
-A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94–183, §2(30), Dec. 31, 1975, 89 Stat. 1058, defined “preference eligible employee” and “adverse action” for purposes of this subchapter, prior to repeal by Pub. L. 95–454, §204(a).
+A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94–183, §2(30), Dec. 31, 1975, 89 Stat. 1058, defined "preference eligible employee" and "adverse action" for purposes of this subchapter, prior to repeal by Pub. L. 95–454, §204(a).
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1)(B)(ii). Pub. L. 109–435, §604(b), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (a)(1)(B)(ii). Pub. L. 109–435, §604(b), substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-Subsec. (b)(8). Pub. L. 109–435, §604(f), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+Subsec. (b)(8). Pub. L. 109–435, §604(f), substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-<b>2004</b>—Subsec. (b)(7). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(7). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Subsec. (b)(8). Pub. L. 104–201 substituted “an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10” for “the National Security Agency, the Defense Intelligence Agency, the Central Imagery Office, or an intelligence activity of a military department covered under section 1590 of title 10”.
+<b>1996</b>—Subsec. (b)(8). Pub. L. 104–201 substituted "an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10" for "the National Security Agency, the Defense Intelligence Agency, the Central Imagery Office, or an intelligence activity of a military department covered under section 1590 of title 10".
 
-<b>1994</b>—Subsec. (b)(8). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (b)(8). Pub. L. 103–359 inserted "the Central Imagery Office," after "Defense Intelligence Agency,".
 
-<b>1992</b>—Subsec. (b)(7). Pub. L. 102–378, §6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
+<b>1992</b>—Subsec. (b)(7). Pub. L. 102–378, §6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;".
 
 Subsec. (b)(10). Pub. L. 102–378, §6(a)(2)–(4), added par. (10).
 
 <b>1990</b>—Pub. L. 101–376 amended section generally. Prior to amendment, section read as follows:
 
-“(a) For the purpose of this subchapter—
+"(a) For the purpose of this subchapter—
 
-&emsp;“(1) ‘employee’ means—
+&emsp;"(1) 'employee' means—
 
-&emsp;&emsp;“(A) an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less; and
+&emsp;&emsp;"(A) an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less; and
 
-&emsp;&emsp;“(B) a preference eligible in an Executive agency in the excepted service, and a preference eligible in the United States Postal Service or the Postal Rate Commission, who has completed 1 year of current continuous service in the same or similar positions;
+&emsp;&emsp;"(B) a preference eligible in an Executive agency in the excepted service, and a preference eligible in the United States Postal Service or the Postal Rate Commission, who has completed 1 year of current continuous service in the same or similar positions;
 
-&emsp;“(2) ‘suspension’ has the meaning as set forth in section 7501(2) of this title;
+&emsp;"(2) 'suspension' has the meaning as set forth in section 7501(2) of this title;
 
-&emsp;“(3) ‘grade’ means a level of classification under a position classification system;
+&emsp;"(3) 'grade' means a level of classification under a position classification system;
 
-&emsp;“(4) ‘pay’ means the rate of basic pay fixed by law or administrative action for the position held by an employee; and
+&emsp;"(4) 'pay' means the rate of basic pay fixed by law or administrative action for the position held by an employee; and
 
-&emsp;“(5) ‘furlough’ means the placing of an employee in a temporary status without duties and pay because of lack of work or funds or other nondisciplinary reasons.
+&emsp;"(5) 'furlough' means the placing of an employee in a temporary status without duties and pay because of lack of work or funds or other nondisciplinary reasons.
 
-“(b) This subchapter does not apply to an employee—
+"(b) This subchapter does not apply to an employee—
 
-&emsp;“(1) whose appointment is made by and with the advice and consent of the Senate;
+&emsp;"(1) whose appointment is made by and with the advice and consent of the Senate;
 
-&emsp;“(2) whose position has been determined to be of a confidential, policy-determining, policy-making or policy-advocating character by—
+&emsp;"(2) whose position has been determined to be of a confidential, policy-determining, policy-making or policy-advocating character by—
 
-&emsp;&emsp;“(A) the Office of Personnel Management for a position that it has excepted from the competitive service; or
+&emsp;&emsp;"(A) the Office of Personnel Management for a position that it has excepted from the competitive service; or
 
-&emsp;&emsp;“(B) the President or the head of an agency for a position which is excepted from the competitive service by statute.
+&emsp;&emsp;"(B) the President or the head of an agency for a position which is excepted from the competitive service by statute.
 
-“(c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office.”
+"(c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office."
 
 #### Effective Date of 1996 Amendment
 
@@ -124,23 +124,23 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 Pub. L. 102–378, §6(b), Oct. 2, 1992, 106 Stat. 1359, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the date of enactment of this Act \[Oct. 2, 1992\].
+"(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the date of enactment of this Act \[Oct. 2, 1992\].
 
-“(2) In the case of an employee or former employee of the Veterans Health Administration (or predecessor agency in name)—
+"(2) In the case of an employee or former employee of the Veterans Health Administration (or predecessor agency in name)—
 
-&emsp;“(A) against whom an adverse personnel action was taken before the date of enactment of this Act,
+&emsp;"(A) against whom an adverse personnel action was taken before the date of enactment of this Act,
 
-&emsp;“(B) who, as a result of the enactment of the Civil Service Due Process Amendments (5 U.S.C. 7501 note) \[Pub. L. 101–376\], became ineligible to appeal such action to the Merit Systems Protection Board,
+&emsp;"(B) who, as a result of the enactment of the Civil Service Due Process Amendments (5 U.S.C. 7501 note) \[Pub. L. 101–376\], became ineligible to appeal such action to the Merit Systems Protection Board,
 
-&emsp;“(C) as to whom that appeal right is restored as a result of the enactment of subsection (a), or would have been restored but for the passage of time, and
+&emsp;"(C) as to whom that appeal right is restored as a result of the enactment of subsection (a), or would have been restored but for the passage of time, and
 
-&emsp;“(D) who is not precluded, by section 7121(e)(1) of title 5, United States Code, from appealing to the Merit Systems Protection Board,
+&emsp;"(D) who is not precluded, by section 7121(e)(1) of title 5, United States Code, from appealing to the Merit Systems Protection Board,
 
 > the deadline for bringing an appeal under section 7513(d) or section 4303(e) of such title with respect to such action shall be the latter of—
 
-&emsp;“(i) the 60th day after the date of enactment of this Act; or
+&emsp;"(i) the 60th day after the date of enactment of this Act; or
 
-&emsp;“(ii) the deadline which would otherwise apply if this paragraph had not been enacted.”
+&emsp;"(ii) the deadline which would otherwise apply if this paragraph had not been enacted."
 
 #### Effective Date of 1990 Amendment
 

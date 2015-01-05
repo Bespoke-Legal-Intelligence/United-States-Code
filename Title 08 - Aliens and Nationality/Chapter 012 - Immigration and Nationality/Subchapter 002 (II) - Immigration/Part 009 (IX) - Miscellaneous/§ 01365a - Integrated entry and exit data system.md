@@ -6,7 +6,7 @@ The Attorney General shall implement an integrated entry and exit data system.
 
 #### (b) Integrated entry and exit data system defined
 
-For purposes of this section, the term “integrated entry and exit data system” means an electronic system that—
+For purposes of this section, the term "integrated entry and exit data system" means an electronic system that—
 
 &emsp;(1) provides access to, and integrates, alien arrival and departure data that are—
 
@@ -104,41 +104,41 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 <b>2000</b>—Pub. L. 106–215 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
 System.—Not later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney General shall develop an automated entry and exit control system that will—
 
-&emsp;“(1) collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States;
+&emsp;"(1) collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States;
 
-&emsp;“(2) enable the Attorney General to identify, through on-line searching procedures, lawfully admitted nonimmigrants who remain in the United States beyond the period authorized by the Attorney General; and
+&emsp;"(2) enable the Attorney General to identify, through on-line searching procedures, lawfully admitted nonimmigrants who remain in the United States beyond the period authorized by the Attorney General; and
 
-&emsp;“(3) not significantly disrupt trade, tourism, or other legitimate cross-border traffic at land border ports of entry.
+&emsp;"(3) not significantly disrupt trade, tourism, or other legitimate cross-border traffic at land border ports of entry.
 
-“(b)
+"(b)
 
 Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Deadline.—Not later than December 31 of each year following the development of the system under subsection (a) of this section, the Attorney General shall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate on such system.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information.—The report shall include the following information:
 
-&emsp;&emsp;“(A) The number of departure records collected, with an accounting by country of nationality of the departing alien.
+&emsp;&emsp;"(A) The number of departure records collected, with an accounting by country of nationality of the departing alien.
 
-&emsp;&emsp;“(B) The number of departure records that were successfully matched to records of the alien's prior arrival in the United States, with an accounting by the alien's country of nationality and by the alien's classification as an immigrant or nonimmigrant.
+&emsp;&emsp;"(B) The number of departure records that were successfully matched to records of the alien's prior arrival in the United States, with an accounting by the alien's country of nationality and by the alien's classification as an immigrant or nonimmigrant.
 
-&emsp;&emsp;“(C) The number of aliens who arrived as nonimmigrants, or as a visitor under the visa waiver program under section 1187 of this title, for whom no matching departure record has been obtained through the system or through other means as of the end of the alien's authorized period of stay, with an accounting by the alien's country of nationality and date of arrival in the United States.
+&emsp;&emsp;"(C) The number of aliens who arrived as nonimmigrants, or as a visitor under the visa waiver program under section 1187 of this title, for whom no matching departure record has been obtained through the system or through other means as of the end of the alien's authorized period of stay, with an accounting by the alien's country of nationality and date of arrival in the United States.
 
-“(c)
+"(c)
 
-Use of Information on Overstays.—Information regarding aliens who have remained in the United Staty beyond their authorized period of stay identified through the system shall be integrated into appropriate data bases of the Immigration and Naturalization Service and the Department of State, including those used at ports of entry and at consular offices.”
+Use of Information on Overstays.—Information regarding aliens who have remained in the United Staty beyond their authorized period of stay identified through the system shall be integrated into appropriate data bases of the Immigration and Naturalization Service and the Department of State, including those used at ports of entry and at consular offices."
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §116(1), in introductory provisions, substituted “later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney” for “later than October 15, 1998, the Attorney”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §116(1), in introductory provisions, substituted "later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney" for "later than October 15, 1998, the Attorney".
 
-Pub. L. 105–259 in introductory provisions, substituted “October 15, 1998” for “2 years after September 30, 1996”.
+Pub. L. 105–259 in introductory provisions, substituted "October 15, 1998" for "2 years after September 30, 1996".
 
 Subsec. (a)(3). Pub. L. 105–277, §116(2)–(4), added par. (3).
 
@@ -150,171 +150,171 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Pub. L. 107–56, title IV, §414, Oct. 26, 2001, 115 Stat. 353, as amended by Pub. L. 107–173, title II, §201(b)(2), May 14, 2002, 116 Stat. 547, provided that:
 
-“(a)
+"(a)
 
 Sense of Congress Regarding the Need To Expedite Implementation of Integrated Entry and Exit Data System.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Sense of congress.—In light of the terrorist attacks perpetrated against the United States on September 11, 2001, it is the sense of the Congress that—
 
-&emsp;&emsp;“(A) the Attorney General, in consultation with the Secretary of State, should fully implement the integrated entry and exit data system for airports, seaports, and land border ports of entry, as specified in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1365a), with all deliberate speed and as expeditiously as practicable; and
+&emsp;&emsp;"(A) the Attorney General, in consultation with the Secretary of State, should fully implement the integrated entry and exit data system for airports, seaports, and land border ports of entry, as specified in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1365a), with all deliberate speed and as expeditiously as practicable; and
 
-&emsp;&emsp;“(B) the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of the Treasury, and the Office of Homeland Security, should immediately begin establishing the Integrated Entry and Exit Data System Task Force, as described in section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215) \[set out as a note below\].
+&emsp;&emsp;"(B) the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of the Treasury, and the Office of Homeland Security, should immediately begin establishing the Integrated Entry and Exit Data System Task Force, as described in section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215) \[set out as a note below\].
 
-&emsp;“(2)
+&emsp;"(2)
 
 Authorization of appropriations.—There is authorized to be appropriated such sums as may benecessary to fully implement the system described in paragraph (1)(A).
 
-“(b)
+"(b)
 
 Development of the System.—In the development of the integrated entry and exit data system under section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1365a), the Attorney General and the Secretary of State shall particularly focus on—
 
-&emsp;“(1) the utilization of biometric technology; and
+&emsp;"(1) the utilization of biometric technology; and
 
-&emsp;“(2) the development of tamper-resistant documents readable at ports of entry.
+&emsp;"(2) the development of tamper-resistant documents readable at ports of entry.
 
-“(c)
+"(c)
 
-Interface With Law Enforcement Databases.—The entry and exit data system described in this section shall be able to interface with law enforcement databases for use by Federal law enforcement to identify and detain individuals who pose a threat to the national security of the United States.”
+Interface With Law Enforcement Databases.—The entry and exit data system described in this section shall be able to interface with law enforcement databases for use by Federal law enforcement to identify and detain individuals who pose a threat to the national security of the United States."
 
 #### Task Force
 
 Pub. L. 106–215, §3, June 15, 2000, 114 Stat. 339, as amended by Pub. L. 107–56, title IV, §415, Oct. 26, 2001, 115 Stat. 354, provided that:
 
-“(a)
+"(a)
 
-Establishment.—Not later than 6 months after the date of the enactment of this Act \[June 15, 2000\], the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of the Treasury, and the Office of Homeland Security\[,\] shall establish a task force to carry out the duties described in subsection (c) (in this section referred to as the ‘Task Force’).
+Establishment.—Not later than 6 months after the date of the enactment of this Act \[June 15, 2000\], the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of the Treasury, and the Office of Homeland Security\[,\] shall establish a task force to carry out the duties described in subsection (c) (in this section referred to as the 'Task Force').
 
-“(b)
+"(b)
 
 Membership.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Chairperson; appointment of members.—The Task Force shall be composed of the Attorney General and 16 other members appointed in accordance with paragraph (2). The Attorney General shall be the chairperson and shall appoint the other members.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Appointment requirements.—In appointing the other members of the Task Force, the Attorney General shall include—
 
-&emsp;&emsp;“(A) representatives of Federal, State, and local agencies with an interest in the duties of the Task Force, including representatives of agencies with an interest in—
+&emsp;&emsp;"(A) representatives of Federal, State, and local agencies with an interest in the duties of the Task Force, including representatives of agencies with an interest in—
 
-&emsp;&emsp;&emsp;“(i) immigration and naturalization;
+&emsp;&emsp;&emsp;"(i) immigration and naturalization;
 
-&emsp;&emsp;&emsp;“(ii) travel and tourism;
+&emsp;&emsp;&emsp;"(ii) travel and tourism;
 
-&emsp;&emsp;&emsp;“(iii) transportation;
+&emsp;&emsp;&emsp;"(iii) transportation;
 
-&emsp;&emsp;&emsp;“(iv) trade;
+&emsp;&emsp;&emsp;"(iv) trade;
 
-&emsp;&emsp;&emsp;“(v) law enforcement;
+&emsp;&emsp;&emsp;"(v) law enforcement;
 
-&emsp;&emsp;&emsp;“(vi) national security; or
+&emsp;&emsp;&emsp;"(vi) national security; or
 
-&emsp;&emsp;&emsp;“(vii) the environment; and
+&emsp;&emsp;&emsp;"(vii) the environment; and
 
-&emsp;&emsp;“(B) private sector representatives of affected industries and groups.
+&emsp;&emsp;"(B) private sector representatives of affected industries and groups.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Terms.—Each member shall be appointed for the life of the Task Force. Any vacancy shall be filled by the Attorney General.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Compensation.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Each member of the Task Force shall serve without compensation, and members who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Travel expenses.—The members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of service for the Task Force.
 
-“(c)
+"(c)
 
 Duties.—The Task Force shall evaluate the following:
 
-&emsp;“(1) How the Attorney General can efficiently and effectively carry out section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act.
+&emsp;"(1) How the Attorney General can efficiently and effectively carry out section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act.
 
-&emsp;“(2) How the United States can improve the flow of traffic at airports, seaports, and land border ports of entry through—
+&emsp;"(2) How the United States can improve the flow of traffic at airports, seaports, and land border ports of entry through—
 
-&emsp;&emsp;“(A) enhancing systems for data collection and data sharing, including the integrated entry and exit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
+&emsp;&emsp;"(A) enhancing systems for data collection and data sharing, including the integrated entry and exit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
 
-&emsp;&emsp;“(B) increasing cooperation between the public and private sectors;
+&emsp;&emsp;"(B) increasing cooperation between the public and private sectors;
 
-&emsp;&emsp;“(C) increasing cooperation among Federal agencies and among Federal and State agencies; and
+&emsp;&emsp;"(C) increasing cooperation among Federal agencies and among Federal and State agencies; and
 
-&emsp;&emsp;“(D) modifying information technology systems while taking into account the different data systems, infrastructure, and processing procedures of airports, seaports, and land border ports of entry.
+&emsp;&emsp;"(D) modifying information technology systems while taking into account the different data systems, infrastructure, and processing procedures of airports, seaports, and land border ports of entry.
 
-&emsp;“(3) The cost of implementing each of its recommendations.
+&emsp;"(3) The cost of implementing each of its recommendations.
 
-“(d)
+"(d)
 
 Staff and Support Services.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Attorney General may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Task Force to perform its duties. The employment and termination of an executive director shall be subject to confirmation by a majority of the members of the Task Force.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Compensation.—The executive director shall be compensated at a rate not to exceed the rate payable for level V of the Executive Schedule under section 5316 of title 5, United States Code. The Attorney General may fix the compensation of other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for such personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Detail of government employees.—Any Federal Government employee, with the approval of the head of the appropriate Federal agency, may be detailed to the Task Force without reimbursement, and such detail shall be without interruption or loss of civil service status, benefits, or privilege.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Procurement of temporary and intermittent services.—The Attorney General may procure temporary and intermittent services for the Task Force under section 3109(b) of title 5, United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Administrative support services.—Upon the request of the Attorney General, the Administrator of General Services shall provide to the Task Force, on a reimbursable basis, the administrative support services necessary for the Task Force to carry out its responsibilities under this section.
 
-“(e)
+"(e)
 
 Hearings and Sessions.—The Task Force may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Task Force considers appropriate.
 
-“(f)
+"(f)
 
 Obtaining Official Data.—The Task Force may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Attorney General, the head of that department or agency shall furnish that information to the Task Force.
 
-“(g)
+"(g)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Deadline.—Not later than December 31, 2002, and not later than December 31 of each year thereafter in which the Task Force is in existence, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate containing the findings, conclusions, and recommendations of the Task Force. Each report shall also measure and evaluate how much progress the Task Force has made, how much work remains, how long the remaining work will take to complete, and the cost of completing the remaining work.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Delegation.—The Attorney General may delegate to the Commissioner, Immigration and Naturalization Service, the responsibility for preparing and transmitting any such report.
 
-“(h)
+"(h)
 
 Legislative Recommendations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Attorney General shall make such legislative recommendations as the Attorney General deems appropriate—
 
-&emsp;&emsp;“(A) to implement the recommendations of the Task Force; and
+&emsp;&emsp;"(A) to implement the recommendations of the Task Force; and
 
-&emsp;&emsp;“(B) to obtain authorization for the appropriation of funds, the expenditure of receipts, or the reprogramming of existing funds to implement such recommendations.
+&emsp;&emsp;"(B) to obtain authorization for the appropriation of funds, the expenditure of receipts, or the reprogramming of existing funds to implement such recommendations.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Delegation.—The Attorney General may delegate to the Commissioner, Immigration and Naturalization Service, the responsibility for preparing and transmitting any such legislative recommendations.
 
-“(i)
+"(i)
 
 Termination.—The Task Force shall terminate on a date designated by the Attorney General as the date on which the work of the Task Force has been completed.
 
-“(j)
+"(j)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2001 through 2003.”
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2001 through 2003."
 

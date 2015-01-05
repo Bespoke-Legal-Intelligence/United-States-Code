@@ -16,7 +16,7 @@ The United States claims, and will exercise in the manner provided for in this c
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(c), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting "and special areas" before the period at the end and subsection (b) is amended by inserting after paragraph (2) the following new paragraph:</i>
+<i>Pub. L. 102–251, title III, §§301(c), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on</i><i>which the Agreement enters into force for the United States, subsection (a) is amended by inserting "and special areas" before the period at the end and subsection (b) is amended by inserting after paragraph (2) the following new paragraph:</i>
 
 (3) All fishery resources in the special areas.
 

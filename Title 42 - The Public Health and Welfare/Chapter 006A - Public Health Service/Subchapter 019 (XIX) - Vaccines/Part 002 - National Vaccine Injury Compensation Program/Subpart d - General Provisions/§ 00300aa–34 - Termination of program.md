@@ -10,7 +10,7 @@ The Secretary shall review the number of awards of compensation made under the p
 
 #### (b) Report
 
-(1) If in conducting a review under subsection (a) of this section the Secretary determines that at the end of the period reviewed the total number of awards made by the end of that period and accepted under section 300aa–21(a) of this title exceeds the number of awards listed next to the period reviewed in the table in paragraph (2)—
+(1) If in conducting a review under subsection (a) of this section the Secretary determines thatat the end of the period reviewed the total number of awards made by the end of that period and accepted under section 300aa–21(a) of this title exceeds the number of awards listed next to the period reviewed in the table in paragraph (2)—
 
 &emsp;(A) the Secretary shall notify the Congress of such determination, and
 
@@ -22,69 +22,21 @@ The Secretary shall review the number of awards of compensation made under the p
 
 &nbsp;
 
-<b>Total number of awards</b>
-
-&nbsp;
-
-<b>by the end of the period</b>
-
-<b>Period reviewed:</b>
-
-<b>reviewed</b>
-
-12 months after December 22, 1987
-
-150&nbsp;&nbsp;
-
-13th through the 15th month after December 22, 1987
-
-188&nbsp;&nbsp;
-
-16th through the 18th month after December 22, 1987
-
-225&nbsp;&nbsp;
-
-19th through the 21st month after December 22, 1987
-
-263&nbsp;&nbsp;
-
-22nd through the 24th month after December 22, 1987
-
-300&nbsp;&nbsp;
-
-25th through the 27th month after December 22, 1987
-
-338&nbsp;&nbsp;
-
-28th through the 30th month after December 22, 1987
-
-375&nbsp;&nbsp;
-
-31st through the 33rd month after December 22, 1987
-
-413&nbsp;&nbsp;
-
-34th through the 36th month after December 22, 1987
-
-450&nbsp;&nbsp;
-
-37th through the 39th month after December 22, 1987
-
-488&nbsp;&nbsp;
-
-40th through the 42nd month after December 22, 1987
-
-525&nbsp;&nbsp;
-
-43rd through the 45th month after December 22, 1987
-
-563&nbsp;&nbsp;
-
-46th through the 48th month after December 22, 1987
-
-600\.&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;Period reviewed:&nbsp; | <b>Total number of awards by the end of the period reviewed</b> |
+| :--- | ---: |
+| 12 months after December 22, 1987 | 150&nbsp;&nbsp; |
+| 13th through the 15th month after December 22, 1987 | 188&nbsp;&nbsp; |
+| 16th through the 18th month after December 22, 1987 | 225&nbsp;&nbsp; |
+| 19th through the 21st month after December 22, 1987 | 263&nbsp;&nbsp; |
+| 22nd through the 24th month after December 22, 1987 | 300&nbsp;&nbsp; |
+| 25th through the 27th month after December 22, 1987 | 338&nbsp;&nbsp; |
+| 28th through the 30th month after December 22, 1987 | 375&nbsp;&nbsp; |
+| 31st through the 33rd month after December 22, 1987 | 413&nbsp;&nbsp; |
+| 34th through the 36th month after December 22, 1987 | 450&nbsp;&nbsp; |
+| 37th through the 39th month after December 22, 1987 | 488&nbsp;&nbsp; |
+| 40th through the 42nd month after December 22, 1987 | 525&nbsp;&nbsp; |
+| 43rd through the 45th month after December 22, 1987 | 563&nbsp;&nbsp; |
+| 46th through the 48th month after December 22, 1987 | 600\. |
 
 (July 1, 1944, ch. 373, title XXI, §2134, as added Pub. L. 100–203, title IV, §4303(f), Dec. 22, 1987, 101 Stat. 1330–222.)
 

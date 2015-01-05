@@ -28,7 +28,7 @@
 
 &emsp;(3) Nothing in this subsection shall be construed to require the making or retention, for purposes of deposit, of any copy or phonorecord of an unpublished transmission program, the transmission of which occurs before the receipt of a specific written demand as provided by clause (2).
 
-&emsp;(4) No activity undertaken in compliance with regulations prescribed under clauses (1)or (2) of this subsection shall result in liability if intended solely to assist in the acquisition of copies or phonorecords under this subsection.
+&emsp;(4) No activity undertaken in compliance with regulations prescribed under clauses (1) or (2) of this subsection shall result in liability if intended solely to assist in the acquisition of copies or phonorecords under this subsection.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2579; Pub. L. 100–568, §8, Oct. 31, 1988, 102 Stat. 2859; Pub. L. 105–80, §12(a)(11), Nov. 13, 1997, 111 Stat. 1535.)
 

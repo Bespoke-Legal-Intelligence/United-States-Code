@@ -12,7 +12,7 @@
 
 &emsp;(i) his years of active service (determined without regard to subsection (d) of this section) as a member of a uniformed service; plus
 
-&emsp;(ii) in the case of a medical or dental officer, four years and, in the case of a medical officer, who has completed one year of medical internship or the equivalent thereof, one additional year, the four years and the one year to be reduced by the period of active service performed during such officer's attendance at medical school or dental school or during his medical internship; plus
+&emsp;(ii) in the case of a medical or dental officer, four years and, in the case of a medical officer, who has completed one year of medical internship or the equivalent thereof, one additional year, the four years and the one year to be reduced by the period of active service performed during such officer's attendance atmedical school or dental school or during his medical internship; plus
 
 &emsp;(iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
 
@@ -26,7 +26,7 @@
 
 &emsp;(B) the retired pay multiplier determined under section 1409 of such title for the number of years of service credited to the officer under paragraph (4).
 
-(7) Retired pay computed under section 211(g)(3) of this title or under paragraph (4) or (5)of this subsection, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
+(7) Retired pay computed under section 211(g)(3) of this title or under paragraph (4) or (5) of this subsection, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
 #### (b) Basic pay of highest temporary grade
 
@@ -86,7 +86,7 @@ Subsec. (a)(6). Pub. L. 96–342, §813(h)(2)(C), added par. (6).
 
 <b>1970</b>—Subsec. (a)(4). Pub. L. 91–253 inserted "plus" after the semicolon at end of cl. (ii) and added cl. (iii).
 
-<b>1960</b>—Pub. L. 86–415 amended section generally, and among other changes, authorized retirement of commissioned officers who have had less than 30 years of active service any time after the completion of 20 years of active service, permitted persons who have served asDeputy Surgeons General or Assistant Surgeons General for four or more years and who have had at least 25 years of active service to retire voluntarily at any time, provided for the recall to active duty of officers of the Reserve Corps entitled to retired pay under subsection (a) of this section during such times as the Corps constitutes a branch of the land or naval forces of the United States, authorized credit, for retirement purposes, of active service in the uniformed services and limited to five years the crediting of active service with the Public Health Service other than as a commissioned officer, and established the methods for computation of retired pay for active duty officers retiring for age or length of service.
+<b>1960</b>—Pub. L. 86–415 amended section generally, and among other changes, authorized retirement of commissioned officers who have had less than 30 years of active service any time after the completion of 20 years of active service, permitted persons who have served as Deputy Surgeons General or Assistant Surgeons General for four or more years and who have had at least 25 years of active service to retire voluntarily at any time, provided for the recall to active duty of officers of the Reserve Corps entitled to retired pay under subsection (a) of this section during such times as the Corps constitutes a branch of the land or naval forces of the United States, authorized credit, for retirement purposes, of active service in the uniformed services and limited to five years the crediting of active service with the Public Health Service other than as a commissioned officer, and established the methods for computation of retired pay for active duty officers retiring for age or length of service.
 
 <b>1956</b>—Subsec. (a). Act Apr. 27, 1956, §5(a), authorized crediting of noncommissioned service for purposes of retirement.
 
@@ -160,5 +160,5 @@ Functions of President delegated to Secretary of Health and Human Services, see 
 
 #### Coverage Under Civil Service Retirement Act
 
-Creditable service for purposes of the Civil Service Retirement Act for certain commissioned officers of the Regular or Reserve Corps of the Public HealthService, see section 6(a), (b) of Pub. L. 86–415, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Creditable service for purposes of the Civil Service Retirement Act for certain commissioned officers of the Regular or Reserve Corps of the Public Health Service, see section 6(a), (b) of Pub. L. 86–415, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 

@@ -14,7 +14,7 @@
 
 #### Adjustment of Dollar Amounts
 
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in</i><i>text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Amendments
 

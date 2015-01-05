@@ -1,6 +1,6 @@
 ### §5116i. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter $80,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2015.
+There are authorized to be appropriated to carry out this subchapter $80,000,000 for fiscalyear 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2015.
 
 (Pub. L. 93–247, title II, §209, formerly §210, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996, 110 Stat. 3088; amended Pub. L. 108–36, title I, §130, June 25, 2003, 117 Stat. 818; renumbered §209 and amended Pub. L. 111–320, title I, §§140, 141, Dec. 20, 2010, 124 Stat. 3482.)
 

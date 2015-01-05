@@ -18,7 +18,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 #### (2) Special consultations on import sensitive products
 
-&emsp;(A) Before initiating negotiations with regard to agriculture, and, with respect to the Free Trade Area for the Americas and negotiations with regard to agriculture under the auspices of the World Trade Organization, as soon as practicable after August 6, 2002, the United States Trade Representative shall—
+&emsp;(A) Before initiating negotiations with regard to agriculture, and, with respect to theFree Trade Area for the Americas and negotiations with regard to agriculture under the auspices of the World Trade Organization, as soon as practicable after August 6, 2002, the United States Trade Representative shall—
 
 &emsp;&emsp;(i) identify those agricultural products subject to tariff-rate quotas on August 6, 2002, and agricultural products subject to tariff reductions by the United States as a result of the Uruguay Round Agreements, for which the rate of duty was reduced on January 1, 1995, to a rate which was not less than 97.5 percent of the rate of duty that applied to such article on December 31, 1994;
 
@@ -70,7 +70,7 @@ Before initiating or continuing negotiations the subject matter of which is dire
 
 &emsp;&emsp;(B) how and to what extent the agreement will achieve the applicable purposes, policies, priorities, and objectives of this chapter; and
 
-&emsp;&emsp;(C) the implementation of the agreement under section 3805 of this title, including thegeneral effect of the agreement on existing laws.
+&emsp;&emsp;(C) the implementation of the agreement under section 3805 of this title, including the general effect of the agreement on existing laws.
 
 #### (3) Report regarding United States trade remedy laws
 

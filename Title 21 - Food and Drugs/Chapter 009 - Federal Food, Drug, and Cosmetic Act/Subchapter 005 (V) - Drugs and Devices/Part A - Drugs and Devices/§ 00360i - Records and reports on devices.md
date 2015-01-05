@@ -188,7 +188,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 #### (3) Stakeholder input
 
-&emsp;To help ensure effective implementation of the system as described in paragraph (1) with respect to devices, the Secretary shall engage outside stakeholders in development of the system, and gather information from outside stakeholders regarding the content of an effective sentinel program, through a public hearing, advisory committee meeting, maintenance of a public docket, or other similar public measures.
+&emsp;To help ensure effective implementation of the system as described in paragraph (1) with respect to devices, the Secretary shall engage outside stakeholders in development of thesystem, and gather information from outside stakeholders regarding the content of an effective sentinel program, through a public hearing, advisory committee meeting, maintenance of a public docket, or other similar public measures.
 
 #### (4) Voluntary surveys
 
@@ -338,7 +338,7 @@ Pub. L. 101–629, §2(e), Nov. 28, 1990, 104 Stat. 4513, directed Comptroller G
 
 #### Report to Congress on Reporting Requirements for Device User Facilities
 
-Pub. L. 101–629, §2(f), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of Health and Human Services, notlater than 36 months after Nov. 28, 1990, to prepare and submit to appropriate committees of Congress a report containing an evaluation of the requirements of 21 U.S.C. 360i(b), consisting of an evaluation of the safety benefits of the requirements, the burdens placed on the Food and Drug Administration and on device user facilities by the requirements, and the cost-effectiveness of the requirements and recommendations for legislative reform.
+Pub. L. 101–629, §2(f), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of Health and Human Services, not later than 36 months after Nov. 28, 1990, to prepare and submit to appropriate committees of Congress a report containing an evaluation of the requirements of 21 U.S.C. 360i(b), consisting of an evaluation of the safety benefits of the requirements, the burdens placed on the Food and Drug Administration and on device user facilities by the requirements, and the cost-effectiveness of the requirements and recommendations for legislative reform.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

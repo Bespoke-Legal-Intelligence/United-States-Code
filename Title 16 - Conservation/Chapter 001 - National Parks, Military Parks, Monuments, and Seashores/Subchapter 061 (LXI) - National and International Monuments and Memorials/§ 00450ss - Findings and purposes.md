@@ -20,7 +20,7 @@ Congress finds that—
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–199, div. F, title V, §544(a), Jan. 23, 2004, 118 Stat. 347, provided that: "This section \[amendingsections 450ss–1 to 450ss–3 and 450ss–5 of this title, repealing sections 450ss–4, 450ss–6, and 450ss–7 of this title, and enacting provisions set out as notes under sections 450ss–3 and 450ss–4 of this title\] may be cited as the 'Oklahoma City National Memorial Act Amendments of 2003'."
+Pub. L. 108–199, div. F, title V, §544(a), Jan. 23, 2004, 118 Stat. 347, provided that: "This section \[amending sections 450ss–1 to 450ss–3 and 450ss–5 of this title, repealing sections 450ss–4, 450ss–6, and 450ss–7 of this title, and enacting provisions set out as notes under sections 450ss–3 and 450ss–4 of this title\] may be cited as the 'Oklahoma City National Memorial Act Amendments of 2003'."
 
 #### Short Title
 

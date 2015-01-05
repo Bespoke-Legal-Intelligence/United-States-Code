@@ -28,6 +28,10 @@ Pub. L. 110–405, §2(c), Oct. 13, 2008, 122 Stat. 4290, provided that: "The am
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding this section.
 
+#### Short Title of 2014 Amendment
+
+Pub. L. 113–165, §1, Sept. 19, 2014, 128 Stat. 1878, provided that: "This Act \[amending provisions set out as a note under section 416 of this title\] may be cited as the 'Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013'."
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–155, §1, Apr. 7, 2010, 124 Stat. 1112, provided that: "This Act \[amending section 3001 of this title\] may be cited as the 'Prevent Deceptive Census Look Alike Mailings Act'."
@@ -58,11 +62,11 @@ Pub. L. 107–67, title VI, §650(a), Nov. 12, 2001, 115 Stat. 556, provided tha
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–253, §1, July 28, 2000, 114 Stat. 634, provided that: "This Act \[enacting section 416 of this title, amending section 414 of this title, and enacting provisions set out as notes under sections 414 and 416 of this title\] may be cited as the 'Semipostal Authorization Act'."
+Pub. L. 106–253, §1, July 28, 2000, 114 Stat. 634, provided that: "This Act \[enacting section 416 of this title,amending section 414 of this title, and enacting provisions set out as notes under sections 414 and 416 of this title\] may be cited as the 'Semipostal Authorization Act'."
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–241, §1, Sept. 28, 1998, 112 Stat. 1572, provided that: "This Act \[enacting section 415 of this titleand amending sections 404 and 3622 of this title, section 7902 of Title 5, Government Organization and Employees, and sections 652 and 668 of Title 29, Labor\] may be cited as the 'Postal Employees Safety Enhancement Act'."
+Pub. L. 105–241, §1, Sept. 28, 1998, 112 Stat. 1572, provided that: "This Act \[enacting section 415 of this title and amending sections 404 and 3622 of this title, section 7902 of Title 5, Government Organization and Employees, and sections 652 and 668 of Title 29, Labor\] may be cited as the 'Postal Employees Safety Enhancement Act'."
 
 #### Short Title of 1997 Amendment
 

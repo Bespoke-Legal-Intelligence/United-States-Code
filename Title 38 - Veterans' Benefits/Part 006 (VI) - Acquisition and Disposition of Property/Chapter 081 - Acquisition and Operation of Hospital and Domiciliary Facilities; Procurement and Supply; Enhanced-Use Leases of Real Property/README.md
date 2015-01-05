@@ -142,7 +142,7 @@ Pub. L. 100–322, title IV, §403(a)(2), May 20, 1988, 102 Stat. 545, added ite
 
 <b>1977</b>—Pub. L. 95–62, §4(c), July 5, 1977, 91 Stat. 263, substituted "DOMICILIARY, NURSING HOME, AND HOSPITAL CARE" for "NURSING HOME CARE" in heading for subchapter III.
 
-<b>1976</b>—Pub. L. 94–581, title I, §115(b), Oct. 21, 1976, 90 Stat. 2853, substituted "health services development activities carried out under the National Health Planningand Resources Development Act of 1974" for "programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965" in item 5056.
+<b>1976</b>—Pub. L. 94–581, title I, §115(b), Oct. 21, 1976, 90 Stat. 2853, substituted "health services development activities carried out under the National Health Planning and Resources Development Act of 1974" for "programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965" in item 5056.
 
 <b>1973</b>—Pub. L. 93–82, title III, §302(3), Aug. 2, 1973, 87 Stat. 195, added item 5007.
 

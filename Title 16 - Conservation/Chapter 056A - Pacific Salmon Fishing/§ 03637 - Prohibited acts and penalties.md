@@ -6,7 +6,7 @@ It is unlawful for any person or vessel subject to the jurisdiction of the Unite
 
 &emsp;(1) to violate any provision of this chapter, or of any regulation adopted hereunder, or of any Fraser River Panel regulation approved by the United States under the Treaty;
 
-&emsp;(2) to refuse to permit any officer authorized to enforce the provisions of this chapter to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter;
+&emsp;(2) to refuse to permit any officer authorized to enforce the provisions of this chapter toboard a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter;
 
 &emsp;(3) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer in the conduct of any search or inspection described in subparagraph (2);
 
@@ -26,7 +26,7 @@ Any person who commits an act that is unlawful under paragraph (2), (3), (4), or
 
 #### (d) Forfeiture
 
-(1) Any vessel (including its gear, furniture, appurtenances, stores, and cargo) used in the commission of an act which is prohibited undersubsection (a) of this section, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act which is prohibited by subsection (a) of this section, shall be subject to forfeiture as provided by section 310 of the Magnuson Act (16 U.S.C. 1860).
+(1) Any vessel (including its gear, furniture, appurtenances, stores, and cargo) used in the commission of an act which is prohibited under subsection (a) of this section, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act which is prohibited by subsection (a) of this section, shall be subject to forfeiture as provided by section 310 of the Magnuson Act (16 U.S.C. 1860).
 
 (2) Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction or, if perishable, in a manner prescribed by regulation of the Secretary.
 

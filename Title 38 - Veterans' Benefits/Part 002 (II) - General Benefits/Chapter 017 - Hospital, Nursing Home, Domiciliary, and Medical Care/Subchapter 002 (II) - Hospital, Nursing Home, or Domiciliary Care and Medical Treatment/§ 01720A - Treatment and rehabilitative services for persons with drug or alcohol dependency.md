@@ -16,7 +16,7 @@
 
 (2) Each plan under paragraph (1) shall make available clinically proven substance abuse treatment methods, including opioid substitution therapy, to veterans with respect to whom a qualified medical professional has determined such treatment methods to be appropriate.
 
-(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128,title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920.)
+(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920.)
 
 #### Amendments
 
@@ -186,7 +186,7 @@ Pub. L. 110–387, title I, §§102–105, Oct. 10, 2008, 122 Stat. 4112–4114,
 
 "(a)
 
-In General.—The Secretary of Veterans Affairs shall ensure the provision of such services and treatment to each veteran enrolled in the health care system of the Department of Veterans Affairs who is inneed of services and treatments for a substance use disorder as follows:
+In General.—The Secretary of Veterans Affairs shall ensure the provision of such services and treatment to each veteran enrolled in the health care system of the Department of Veterans Affairs who is in need of services and treatments for a substance use disorder as follows:
 
 &emsp;"(1) Screening for substance use disorder in all settings, including primary care settings.
 
@@ -376,7 +376,7 @@ Report.—After the end of the 15-month period beginning on the date the first l
 
 #### Evaluation of Veterans' Administration Inpatient and Outpatient Drug and Alcohol Treatment Programs
 
-Pub. L. 100–690, title II, §2501, Nov. 18, 1988, 102 Stat. 4232, directed Administrator of Veterans' Affairs to conduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans' Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
+Pub. L. 100–690, title II, §2501, Nov. 18, 1988, 102 Stat. 4232, directed Administrator of Veterans' Affairs toconduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans' Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
 
 #### Ratification for Lapsed Period
 

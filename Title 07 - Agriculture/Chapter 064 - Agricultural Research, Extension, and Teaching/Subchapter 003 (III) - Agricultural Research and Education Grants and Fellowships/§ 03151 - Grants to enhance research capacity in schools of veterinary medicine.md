@@ -2,7 +2,7 @@
 
 #### (a) Competitive grant program
 
-The Secretary shall conduct a program of competitive grants to States for the purpose of meeting the costs of renovation, improving compliance with Federal regulations, employing faculty, acquiring equipment, and taking other action related to the improvement of schools of veterinary medicine to ensure agricultural competitiveness on a worldwide basis. This grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum State funding.
+The Secretary shall conduct a program of competitive grants to States for the purpose of meeting the costs of renovation, improving compliance with Federal regulations, employing faculty, acquiring equipment, and taking other action related to the improvement of schools of veterinary medicine to ensure agricultural competitiveness on a worldwide basis.
 
 #### (b) Preference
 
@@ -12,7 +12,7 @@ Except with respect to the States of Alaska and Hawaii, the Secretary shall give
 
 &emsp;(2) the clinical training of the school to be improved shall emphasize care and preventive medical programs for food animals and companion animals (including horses) which support industries of major economic importance; and
 
-&emsp;(3) the Secretary may set aside a portion of funds appropriated for the award of grants under this section and make such amounts available only for grants to eligible colleges and universities that the Secretary determines have unique capabilities for achievingthe objective of full participation of minority groups in research in the Nation's schools of veterinary medicine.
+&emsp;(3) the Secretary may set aside a portion of funds appropriated for the award of grants under this section and make such amounts available only for grants to eligible colleges and universities that the Secretary determines have unique capabilities for achieving the objective of full participation of minority groups in research in the Nation's schools of veterinary medicine.
 
 > Notwithstanding clause (1) of this subsection, no State which the Secretary determines has made a reasonable effort to establish appropriate cooperative agreements shall be denied a grant or otherwise prejudiced because of its failure to establish such cooperative agreements.
 
@@ -24,9 +24,11 @@ Funds appropriated to carry out this section for any fiscal year shall be apport
 
 &emsp;(2) The remainder shall be apportioned and distributed by the Secretary to those States which have applied for funds under this section on such basis as the Secretary may deem appropriate.
 
-(Pub. L. 95–113, title XIV, §1415, Sept. 29, 1977, 91 Stat. 993; Pub. L. 97–98, title XIV, §1417, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1410, Dec. 23, 1985, 99 Stat. 1547; Pub. L. 101–624, title XVI, §1607(a), (b), Nov. 28, 1990, 104 Stat. 3716.)
+(Pub. L. 95–113, title XIV, §1415, Sept. 29, 1977, 91 Stat. 993; Pub. L. 97–98, title XIV, §1417, Dec. 22,1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1410, Dec. 23, 1985, 99 Stat. 1547; Pub. L. 101–624, title XVI, §1607(a), (b), Nov. 28, 1990, 104 Stat. 3716; Pub. L. 113–79, title VII, §7128(b)(1)(A), Feb. 7, 2014, 128 Stat. 878.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79 struck out "This grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum State funding." at end.
 
 <b>1990</b>—Pub. L. 101–624, §1607(b)(1), amended section catchline generally.
 

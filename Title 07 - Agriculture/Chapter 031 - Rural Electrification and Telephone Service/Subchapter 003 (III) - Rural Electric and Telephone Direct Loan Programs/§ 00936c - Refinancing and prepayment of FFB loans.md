@@ -58,11 +58,11 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (1) In general
 
-&emsp;On the payment of a penalty as provided by subsection (b) of this section, the loan or loan advance, or any portion of the loan or advance, shall be refinanced at the interest rate described in paragraph (2) for a term selected by the borrower pursuant to paragraph (3), except that this paragraph shall not apply if the loan advance, or any portion of the advance, is prepaid by the borrower.
+&emsp;On the payment of a penalty as provided by subsection (b), the loan or loan advance, or any portion of the loan or advance, shall be refinanced at the interest rate described in paragraph (2) for a term selected by the borrower pursuant to paragraph (3), except that this paragraph shall not apply if the loan advance, or any portion of the advance, is prepaid by the borrower.
 
 #### (2) Interest rate
 
-&emsp;The interest rate on a loan refinanced under this section shall be determined to be equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to a term selected by the borrower pursuant to paragraph (3), except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section.
+&emsp;The interest rate on a loan refinanced under this section shall be determined to be equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to a term selected by the borrower pursuant to paragraph (3), except that such rate shall not be greater than 7 percent per year, subject to subsection (d).
 
 #### (3) Loan term
 
@@ -78,7 +78,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (5) Existing loans
 
-&emsp;In the case of the refinancing of a loan of a borrower pursuant to this section and the inclusion of a penalty in the outstanding principal balance of the refinanced loan pursuant to subsection (b)(3) of this section—
+&emsp;In the case of the refinancing of a loan of a borrower pursuant to this section and the inclusion of a penalty in the outstanding principal balance of the refinanced loan pursuant to subsection (b)(3)—
 
 &emsp;&emsp;(A) the refinancing and inclusion of the penalty shall not be subject to appropriations or limited by the amount provided during a fiscal year for new loans, loan guarantees, or other credit activity;
 
@@ -98,7 +98,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (3) Fee
 
-&emsp;A borrower that exercises the maximum rate option under paragraph (1) shall, at the time of exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b) of this section.
+&emsp;A borrower that exercises the maximum rate option under paragraph (1) shall, at the time of exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b).
 
 #### (4) Sunset
 

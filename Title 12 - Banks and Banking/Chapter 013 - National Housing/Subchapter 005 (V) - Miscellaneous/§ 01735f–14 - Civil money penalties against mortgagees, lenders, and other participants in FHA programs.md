@@ -4,19 +4,19 @@
 
 #### (1) Authority
 
-&emsp;If a mortgagee approved under the <sup>1</sup> chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter Iloan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
+&emsp;If a mortgagee approved under the <sup>1</sup> chapter, a lender holding a contract of insurance under subchapter I, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 
-&emsp;The amount of the penalty, as determined by the Secretary, may not exceed $5,000 for each violation, except that the maximum penalty for all violations by any particular mortgagee or lender or such other person or entity during any 1-year period shall not exceed $1,000,000. Each violation of a <sup>2</sup> the provisions of subsection (b)(1) of this section shall constitute a separate violation with respect to each mortgage or loan application. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
+&emsp;The amount of the penalty, as determined by the Secretary, may not exceed $5,000 for each violation, except that the maximum penalty for all violations by any particular mortgagee or lender or such other person or entity during any 1-year period shall not exceed $1,000,000. Each violation of a <sup>2</sup> the provisions of subsection (b)(1) shall constitute a separate violation with respect to each mortgage or loan application. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
 
-&emsp;In the case of the mortgagee's failure to engage in loss mitigation activities, as provided in subsection (b)(1)(I) of this section, the penalty shall be in the amount of three times the amount of any insurance benefits claimed by the mortgagee with respect to any mortgage for which the mortgagee failed to engage in such loss mitigation actions.
+&emsp;In the case of the mortgagee's failure to engage in loss mitigation activities, as provided in subsection (b)(1)(I), the penalty shall be in the amount of three times the amount of any insurance benefits claimed by the mortgagee with respect to any mortgage for which the mortgagee failed to engage in such loss mitigation actions.
 
 #### (b) Violations for which a penalty may be imposed
 
 #### (1) Violations
 
-&emsp;The Secretary may impose a civil money penalty under subsection (a) of this section for any knowing and material violation by a mortgagee or lender or any of its owners, officers, or directors, as follows:
+&emsp;The Secretary may impose a civil money penalty under subsection (a) for any knowing and material violation by a mortgagee or lender or any of its owners, officers, or directors, as follows:
 
 &emsp;&emsp;(A) Except where expressly permitted by statute, regulation, or contract approved by the Secretary, transfer of a mortgage insured under this chapter to a mortgagee not approved by the Secretary, or transfer of a loan to a transferee that is not holding a contract of insurance under subchapter I of this chapter.
 
@@ -56,13 +56,13 @@
 
 #### (2) Additional violations
 
-&emsp;The Secretary may impose a civil money penalty under subsection (a) of this section for any knowing and material violation by a principal, officer, or employee of a mortgagee or lender, or other participants in either an insured mortgage or subchapter I loan transaction under this chapter or provision of assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers for—
+&emsp;The Secretary may impose a civil money penalty under subsection (a) for any knowing and material violation by a principal, officer, or employee of a mortgagee or lender, or other participants in either an insured mortgage or subchapter I loan transaction under this chapter or provision of assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers for—
 
 &emsp;&emsp;(A) submission to the Secretary of information that was false, in connection withany mortgage insured under this chapter, or any loan that is covered by a contract of insurance under subchapter I of this chapter;
 
 &emsp;&emsp;(B) falsely certifying to the Secretary or submitting to the Secretary a false certification by another person or entity;
 
-&emsp;&emsp;(C) failure by a loan correspondent or dealer to submit to the Secretary information which is required by regulations or directives in connection with any loan that is covered by a contract of insurance under subchapter I of this chapter; or
+&emsp;&emsp;(C) failure by a loan correspondent or dealer to submit to the Secretary information which is required by regulations or directives in connection with any loan that is covered by a contract of insurance under subchapter I; or
 
 &emsp;&emsp;(D) causing or participating in any of the violations set forth in paragraph (1) of this subsection.
 
@@ -74,7 +74,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (a) of this section. These standards and procedures—
+&emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (a). These standards and procedures—
 
 &emsp;&emsp;(A) shall provide for the Secretary to make the determination to impose the penalty or to use an administrative entity (such as the Mortgagee Review Board, established pursuant to section 1708(c) of this title) to make the determination;
 
@@ -88,21 +88,21 @@
 
 #### (3) Factors in determining amount of penalty
 
-&emsp;In determining the amount of a penalty under subsection (a) of this section, consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including those before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
+&emsp;In determining the amount of a penalty under subsection (a), consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including those before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
 
 #### (4) Reviewability of imposition of penalty
 
-&emsp;The Secretary's determination or order imposing a penalty under subsection (a) of this section shall not be subject to review, except as provided in subsection (d) of this section.
+&emsp;The Secretary's determination or order imposing a penalty under subsection (a) shall not be subject to review, except as provided in subsection (d).
 
 #### (d) Judicial review of agency determination
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1) of this section, a mortgagee or lender or such other person or entity against whom the Secretary has imposed a civil money penalty under subsection (a) of this section may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. parts 24 and 25) as may be addressed in the notice of determination to impose a penalty under subsection (c)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's determination or order be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1), a mortgagee or lender or such other person or entity against whom the Secretary has imposed a civil money penalty under subsection (a) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. parts 24 and 25) as may be addressed in the notice of determination to impose a penalty under subsection (c)(1)(A) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's determination or order be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (c)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of the additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (c)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of the additional evidence.
 
 #### (3) Scope of review
 
@@ -114,7 +114,7 @@
 
 #### (e) Action to collect penalty
 
-If any mortgagee or lender or such other person or entity fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagee orlender or such other person or entity and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any mortgagee or lender or such other person or entity fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a), after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagee or lender or such other person or entity and such other relief as may be available. The monetary judgment may, in the court's discretion, includethe attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (f) Settlement by Secretary
 
@@ -160,7 +160,7 @@ Subsec. (b)(1)(I). Pub. L. 105–276, §601(h), which directed the addition of s
 
 <b>1997</b>—Pub. L. 105–65, §553(a), amended section catchline generally, substituting "mortgagees, lenders, and other participants in FHA programs" for "mortgagees and lenders".
 
-Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted "If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions." for "Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section."
+Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted "If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions." for "Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section."
 
 Subsec. (a)(2). Pub. L. 105–65, §553(b)(2), inserted "or such other person or entity" after "lender" in first sentence and substituted "the provisions of subsection (b)(1)" for "provision of subsection (b)(1)" in second sentence.
 
@@ -180,7 +180,7 @@ Subsec. (e). Pub. L. 105–65, §553(d)(3), inserted "or such other person or en
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
-Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006,see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
 
 #### Effective Date of 1996 Amendment
 

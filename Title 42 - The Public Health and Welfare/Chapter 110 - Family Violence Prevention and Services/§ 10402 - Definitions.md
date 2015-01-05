@@ -62,7 +62,7 @@ In this chapter:
 
 &emsp;&emsp;(C) has as its purpose to provide education, support, and technical assistance to such service providers to enable the providers to establish and maintain shelter and supportive services for victims of domestic violence and their dependents; and
 
-&emsp;&emsp;(D) serves as an information clearinghouse, primary point of contact, and resource center on domestic violence for theState and supports the development of polices, protocols, and procedures to enhance domestic violence intervention and prevention in the State.
+&emsp;&emsp;(D) serves as an information clearinghouse, primary point of contact, and resource center on domestic violence for the State and supports the development of polices, protocols, and procedures to enhance domestic violence intervention and prevention in the State.
 
 #### (12) Supportive services
 

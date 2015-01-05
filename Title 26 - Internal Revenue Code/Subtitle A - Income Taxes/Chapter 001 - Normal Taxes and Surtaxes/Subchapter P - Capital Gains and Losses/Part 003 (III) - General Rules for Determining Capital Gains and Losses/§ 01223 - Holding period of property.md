@@ -2,7 +2,7 @@
 
 For purposes of this subtitle—
 
-&emsp;(1) In determining the period for which the taxpayer has held property received in an exchange, there shall be included the period for which he held the property exchanged if, under this chapter, the property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as the property exchanged, and, in the case of such exchanges after March 1, 1954, the property exchanged at the time of such exchange was a capital asset as defined in section 1221 or property described in section 1231. For purposes of this paragraph—
+&emsp;(1) In determining the period for which the taxpayer has held property received in an exchange, there shall be included the period for which he held the property exchanged if, under this chapter, the property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as the property exchanged, and, in the case of such exchanges the property exchanged at the time of such exchange was a capital asset as defined in section 1221 or property described in section 1231. For purposes of this paragraph—
 
 &emsp;&emsp;(A) an involuntary conversion described in section 1033 shall be considered an exchange of the property converted for the property acquired, and
 
@@ -12,15 +12,15 @@ For purposes of this subtitle—
 
 &emsp;(3) In determining the period for which the taxpayer has held stock or securities the acquisition of which (or the contract or option to acquire which) resulted in the nondeductibility (under section 1091 relating to wash sales) of the loss from the sale or other disposition of substantially identical stock or securities, there shall be included the period for which he held the stock or securities the loss from the sale or other disposition of which was not deductible.
 
-&emsp;(4) In determining the period for which the taxpayer has held stock or rights to acquire stock received on a distribution, if the basis of such stock or rights is determined under section 307 (or under so much of section 1052(c) as refers to section 113(a)(23) of the Internal Revenue Code of 1939), there shall (under regulations prescribed by the Secretary) be included the period for which he held the stock in the distributing corporation before the receipt of such stock or rights upon such distribution.
+&emsp;(4) In determining the period for which the taxpayer has held stock or rights to acquire stock received on a distribution, if the basis of such stock or rights is determined under section 307, there shall (under regulations prescribed by the Secretary) be included the period for which he held the stock in the distributing corporation before the receipt of such stock or rights upon such distribution.
 
 &emsp;(5) In determining the period for which the taxpayer has held stock or securities acquired from a corporation by the exercise of rights to acquire such stock or securities, there shall be included only the period beginning with the date on which the right to acquire was exercised.
 
-&emsp;(6) In determining the period for which the taxpayer has held a residence, the acquisition of which resulted under section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, there shall be included the period for which such other residence had been held as of the date of such sale or exchange. For purposes of this paragraph, the term "sale or exchange" includes an involuntary conversion occurring after December 31, 1950, and before January 1, 1954.
+&emsp;\[(6) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(80)(C), Dec. 19, 2014, 128 Stat. 4049.\]
 
 &emsp;(7) In determining the period for which the taxpayer has held a commodity acquired in satisfaction of a commodity futures contract (other than a commodity futures contract to which section 1256 applies) there shall be included the period for which he held the commodity futures contract if such commodity futures contract was a capital asset in his hands.
 
-&emsp;(8) Any reference in this section to a provision of this title shall, where applicable, be deemed a reference to the corresponding provision of the Internal Revenue Code of 1939, or prior internal revenue laws.
+&emsp;\[(8) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(80)(C), Dec. 19, 2014, 128 Stat. 4049.\]
 
 &emsp;(9) In the case of a person acquiring property from a decedent or to whom property passed from a decedent (within the meaning of section 1014(b)), if—
 
@@ -54,19 +54,19 @@ Cross reference.—
 
 &emsp;&emsp;<b>For special holding period provision relating to certain partnership distributions, see section 735(b).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 323; Pub. L. 87–834, §14(b)(3), Oct. 16, 1962, 76 Stat. 1041; Pub. L. 91–614, title I, §101(g), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title XIV, §1402(b)(1)(Q), (2), title XIX, §1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1732, 1834; Pub. L. 95–600, title VII, §702(c)(5), Nov. 6, 1978, 92 Stat. 2927; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–448, title I, §§104(b)(3)(C), 105(c)(4), Jan. 12, 1983, 96 Stat. 2382, 2385; Pub. L. 98–369, div. A, title I, §54(c), title V, §541(b)(1), title X, §1001(b)(14), (e), July 18, 1984, 98 Stat. 569, 890, 1011, 1012; Pub. L. 100–647, title I, §1006(e)(17), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–194, title V, §502(b)(1), Nov. 30, 1989, 103 Stat. 1754; Pub. L. 105–34, title III, §§312(d)(9), 313(b)(2), Aug. 5, 1997, 111 Stat. 840, 842; Pub. L. 105–206, title V, §5001(a)(5), title VI, §6005(d)(4), July 22, 1998, 112 Stat. 788, 805; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2), title IV, §401(h)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603, 2763A–650; Pub. L. 108–357, title IV, §413(c)(21), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 109–135, title IV, §402(a)(2), Dec. 21, 2005, 119 Stat. 2610.)
-
-#### References in Text
-
-Section 113(a)(23) of the Internal Revenue Code of 1939, referred to in par. (4), was classified to section 113(a)(23) of former Title 26, Internal Revenue Code. Section 113 was repealed by section 7851(a)(1) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
-
-The date of the enactment of the Taxpayer Relief Act of 1997, referred to in par. (6), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
-
-The Internal Revenue Code of 1939, referred to in par. (8), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+(Aug. 16, 1954, ch. 736, 68A Stat. 323; Pub. L. 87–834, §14(b)(3), Oct. 16, 1962, 76 Stat. 1041; Pub. L. 91–614, title I, §101(g), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title XIV, §1402(b)(1)(Q), (2), title XIX, §1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1732, 1834; Pub. L. 95–600, title VII, §702(c)(5), Nov. 6, 1978, 92 Stat. 2927; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–448, title I, §§104(b)(3)(C), 105(c)(4), Jan. 12, 1983, 96 Stat. 2382, 2385; Pub. L. 98–369, div. A, title I, §54(c), title V, §541(b)(1), title X, §1001(b)(14), (e), July 18, 1984, 98 Stat. 569, 890, 1011, 1012; Pub. L. 100–647, title I, §1006(e)(17), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–194, title V, §502(b)(1), Nov. 30, 1989, 103 Stat. 1754; Pub. L. 105–34, title III, §§312(d)(9), 313(b)(2), Aug. 5, 1997, 111 Stat. 840, 842; Pub. L. 105–206, title V, §5001(a)(5), title VI, §6005(d)(4), July 22, 1998, 112 Stat. 788, 805; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2), title IV, §401(h)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603, 2763A–650; Pub. L. 108–357, title IV, §413(c)(21), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 109–135, title IV, §402(a)(2), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 113–295, div. A, title II, §221(a)(80), Dec. 19, 2014, 128 Stat. 4049.)
 
 #### Amendments
 
-<b>2005</b>—Pars. (3) to (16). Pub. L. 109–135 redesignated pars. (4) to (16) as (3) to (15), respectively, and struck out former par. (3) which read as follows: "In determining the period for which the taxpayer has held stock or securities received upon a distribution where no gain was recognized to the distributee under section 1081(c)\(or under section 112(g) of the Revenue Act of 1928, 45 Stat. 818, or the Revenue Act of 1932, 48 Stat. 705), there shall be included the period for which he held the stock or securities in the distributing corporation before the receipt of the stock or securities on such distribution."
+<b>2014</b>—Par. (1). Pub. L. 113–295, §221(a)(80)(A), struck out "after March 1, 1954," after "such exchanges" in introductory provisions.
+
+Par. (4). Pub. L. 113–295, §221(a)(80)(B), struck out "(or under so much of section 1052(c) as refers to section 113(a)(23) of the Internal Revenue Code of 1939)" after "section 307". Amendment was executed to reflect the probable intent of Congress notwithstanding a second set of quotation marks around the text directed to be stricken.
+
+Par. (6). Pub. L. 113–295, §221(a)(80)(C), struck out par. (6) which read as follows: "In determining the period for which the taxpayer has held a residence, the acquisition of which resulted under section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, there shall be included the period for which such other residence had been held as of the date of such sale or exchange. For purposes of this paragraph, the term 'sale or exchange' includes an involuntary conversion occurring after December 31, 1950, and before January 1, 1954."
+
+Par. (8). Pub. L. 113–295, §221(a)(80)(C), struck out par. (8) which read as follows: "Any reference in this section to a provision of this title shall, where applicable, be deemed a reference to the corresponding provision of the Internal Revenue Code of 1939, or prior internal revenue laws."
+
+<b>2005</b>—Pars. (3) to (16). Pub. L. 109–135 redesignated pars. (4) to (16) as (3) to (15), respectively, and struck out former par. (3) which read as follows: "In determining the period for which the taxpayer has held stock or securities received upon a distribution where no gain was recognized to the distributee under section 1081(c) (or under section 112(g) of the Revenue Act of 1928, 45 Stat. 818, or the Revenue Act of 1932, 48 Stat. 705), there shall be included the period for which he held the stock or securities in the distributing corporation before the receipt of the stock or securities on such distribution."
 
 <b>2004</b>—Pars. (10) to (17). Pub. L. 108–357 redesignated pars. (11) to (17) as (10) to (16), respectively, and struck out former par. (10) which read as follows: "In determining the period for which the taxpayer has held trust certificates of a trust to which subsection (d) of section 1246 applies, or the period for which the taxpayer has held stock in a corporation to which subsection (d) of section 1246 applies, there shall be included the period for which the trust or corporation (as the case may be) held the stock of foreign investment companies."
 
@@ -111,6 +111,10 @@ Pub. L. 94–455, §1402(b)(1)(Q), provided that "6 months" would be changed to 
 <b>1970</b>—Pars. (11), (12). Pub. L. 91–614 added par. (11) and redesignated former par. (11) as (12).
 
 <b>1962</b>—Pars. (10), (11). Pub. L. 87–834 added par. (10) and redesignated former par. (10) as (11).
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2005 Amendment
 

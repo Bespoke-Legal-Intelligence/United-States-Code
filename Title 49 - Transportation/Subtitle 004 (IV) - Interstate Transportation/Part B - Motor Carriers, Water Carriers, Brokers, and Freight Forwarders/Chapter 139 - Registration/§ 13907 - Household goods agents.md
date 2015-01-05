@@ -30,7 +30,7 @@ Hearing.—Upon filing of a petition with the Secretary by an agent who is the s
 
 &emsp;(5)
 
-Court review.—Any agent adversely affected or aggrieved by an order of the Secretary issued under this subsection may seek relief in the appropriate United States court of appeals as provided by and in the mannerprescribed in chapter 158 of title 28, United States Code.
+Court review.—Any agent adversely affected or aggrieved by an order of the Secretary issued under this subsection may seek relief in the appropriate United States court of appeals as provided by and in the manner prescribed in chapter 158 of title 28, United States Code.
 
 (d)
 

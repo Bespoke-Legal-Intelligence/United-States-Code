@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(A) threat to cause damage to a protected computer;
 
-&emsp;&emsp;(B) threat to obtain information from a protected computer without authorizationor in excess of authorization or to impair the confidentiality of information obtained from a protected computer without authorization or by exceeding authorized access; or
+&emsp;&emsp;(B) threat to obtain information from a protected computer without authorization or in excess of authorization or to impair the confidentiality of information obtained from a protected computer without authorization or by exceeding authorized access; or
 
 &emsp;&emsp;(C) demand or request for money or other thing of value in relation to damage to a protected computer, where such damage was caused to facilitate the extortion;
 
@@ -166,7 +166,7 @@
 
 (g) Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses <sup>5</sup> (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i). Damages for a violation involving only conduct described in subsection (c)(4)(A)(i)(I) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage. No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.
 
-(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
+(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the dateof the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
 
 (i)(1) The court, in imposing sentence on any person convicted of a violation of this section, or convicted of conspiracy to violate this section, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person forfeit to the United States—
 
@@ -220,7 +220,7 @@ Subsec. (a)(5). Pub. L. 110–326, §204(a)(1), redesignated cls. (i) to (iii) o
 
 &emsp;"(v) damage affecting a computer system used by or for a government entity in furtherance of the administration of justice, national defense, or national security;".
 
-Subsec. (a)(7). Pub. L. 110–326, §205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: "with intent to extort from any person any money or other thing of value, transmits in interstate or foreigncommerce any communication containing any threat to cause damage to a protected computer;".
+Subsec. (a)(7). Pub. L. 110–326, §205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: "with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;".
 
 Subsec. (b). Pub. L. 110–326, §206, inserted "conspires to commit or" after "Whoever".
 
@@ -302,7 +302,7 @@ Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted "protected computer"
 
 Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
-Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, §604(b)(36)(A), which directed insertion of "or" at end ofsubsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, §201(1)(E). See above.
+Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, §604(b)(36)(A), which directed insertion of "or" at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, §201(1)(E). See above.
 
 Subsec. (a)(7). Pub. L. 104–294, §201(1)(F), added par. (7).
 
@@ -318,7 +318,7 @@ Subsec. (c)(2)(C). Pub. L. 104–294, §201(2)(B)(iv), substituted "under this s
 
 Pub. L. 104–294, §201(2)(B)(ii), redesignated subpar. (B) as (C).
 
-Subsec. (c)(3)(A). Pub. L. 104–294, §201(2)(C)(i), substituted "(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)" for "(a)(4) or (a)(5)(A)" and "under this section" for "under such subsection".
+Subsec. (c)(3)(A). Pub. L. 104–294, §201(2)(C)(i), substituted "(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)" for "(a)(4)or (a)(5)(A)" and "under this section" for "under such subsection".
 
 Subsec. (c)(3)(B). Pub. L. 104–294, §201(2)(C)(ii), substituted "(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)" for "(a)(4) or (a)(5)" and "under this section" for "under such subsection".
 
@@ -388,7 +388,7 @@ Subsec. (c)(1)(A). Pub. L. 99–474, §2(f)(1), substituted "under this title" f
 
 Subsec. (c)(1)(B). Pub. L. 99–474, §2(f)(2), substituted "under this title" for "of not more than the greater of $100,000 or twice the value obtained by the offense".
 
-Subsec. (c)(2)(A). Pub. L. 99–474, §2(f)(3), (4), substituted "under this title" for "of not more than thegreater of $5,000 or twice the value obtained or loss created by the offense" and inserted reference to subsec. (a)(6).
+Subsec. (c)(2)(A). Pub. L. 99–474, §2(f)(3), (4), substituted "under this title" for "of not more than the greater of $5,000 or twice the value obtained or loss created by the offense" and inserted reference to subsec. (a)(6).
 
 Subsec. (c)(2)(B). Pub. L. 99–474, §2(f)(3), (5)–(7), substituted "under this title" for "of not more than the greater of $10,000 or twice the value obtained or loss created by the offense", "not more than" for "not than", inserted reference to subsec. (a)(6), and substituted "; and" for the period at end of subpar. (B).
 

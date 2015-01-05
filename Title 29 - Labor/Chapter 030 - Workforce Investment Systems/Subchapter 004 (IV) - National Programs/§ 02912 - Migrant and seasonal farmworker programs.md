@@ -18,7 +18,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 &emsp;Such plan shall—
 
-&emsp;&emsp;(A) identify the education and employment needs of the population to be served and the manner in which the services to beprovided will strengthen the ability of the eligible migrant and seasonal farmworkers and dependents to obtain or retain unsubsidized employment or stabilize their unsubsidized employment;
+&emsp;&emsp;(A) identify the education and employment needs of the population to be served and the manner in which the services to be provided will strengthen the ability of the eligible migrant and seasonal farmworkers and dependents to obtain or retain unsubsidized employment or stabilize their unsubsidized employment;
 
 &emsp;&emsp;(B) describe the related assistance and supportive services to be provided and the manner in which such assistance and services are to be integrated and coordinated with other appropriate services; and
 
@@ -48,7 +48,7 @@ In making grants and entering into contracts under this section, the Secretary s
 
 #### (f) Regulations
 
-The Secretary shall consult with eligible migrant and seasonal farmworkers groups and States in establishing regulations to carry out this section, including performance measures for eligible entities that take into account the economic circumstances and demographics of eligible migrant and seasonal farmworkers.
+The Secretary shall consult with eligible migrant and seasonal farmworkers groups andStates in establishing regulations to carry out this section, including performance measures for eligible entities that take into account the economic circumstances and demographics of eligible migrant and seasonal farmworkers.
 
 #### (g) Compliance with single audit requirements; related requirement
 
@@ -88,9 +88,13 @@ In this section:
 
 (Pub. L. 105–220, title I, §167, Aug. 7, 1998, 112 Stat. 1025; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(8)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.</i>
+
 #### References in Text
 
-The Single Audit Act of 1984, referred to in subsec. (g), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, whichenacted chapter 75 (§7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (g), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
 Section 334, referred to in subsec. (h)(1)(A), is section 334 of Pub. L. 105–220, which is set out as a note under section 2701 of this title. However, section 334 does not contain a subsec. (a)(2)(B) and does not define the term "poverty line". "Poverty line" is defined for purposes of this chapter in section 2801 of this title.
 
@@ -101,6 +105,10 @@ Provisions similar to this section were contained in sections 1672 and 1673 of t
 #### Amendments
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–277 inserted "and section 2852(b)(1)(A)(iii) of this title" after "this section".
+
+#### Effective Date of Repeal
+
+Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

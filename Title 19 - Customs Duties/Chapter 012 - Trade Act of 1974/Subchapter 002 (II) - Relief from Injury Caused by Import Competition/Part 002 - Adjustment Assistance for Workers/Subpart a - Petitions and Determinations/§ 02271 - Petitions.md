@@ -22,11 +22,21 @@
 
 If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
-(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
+(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–128, title V, §512(hh)(1), July 22, 2014, 128 Stat. 1720.)
 
 #### Reversion to Provisions in Effect on February 13, 2011
 
 <i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 113–128, title V, §§506, 512(hh)(1), July 22, 2014, 128 Stat. 1703, 1720, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1)(C), by striking ", one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801)) including State employment security agencies," and inserting ", one-stop operators or one-stop partners (as defined in section 3102 of title 29) including State employment security agencies," and by striking "or the State dislocated worker unit established under title I of such Act," and inserting "or a State dislocated worker unit,"; and</i>
+
+<i>(2) in subsection (a)(2)(A), by striking "rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 (29 U.S.C. 2864)) authorized under other Federal laws" and inserting "rapid response activities and appropriate career services (as described in section 3174 of title 29) authorized under other Federal laws".</i>
+
+<i>See note above and 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -34,9 +44,15 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(1)(C), is Pub. 
 
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, asamended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(1)(C). Pub. L. 113–128, §512(hh)(1)(A)(ii), substituted "or a State dislocated worker unit," for "or the State dislocated worker unit established under title I of such Act,".
+
+Pub. L. 113–128, §512(hh)(1)(A)(i), which directed substitution of ", one-stop operators or one-stop partners (as defined in section 3102 of title 29) including State employment security agencies," for ", one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801)) including State employment security agencies,", was executed by making the substitution for ", one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801)), including State employment security agencies," to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(A). Pub. L. 113–128, §512(hh)(1)(B), substituted "rapid response activities and appropriate career services (as described in section 3174 of title 29) authorized under other Federal laws" for "rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 (29 U.S.C. 2864)) authorized under other Federal laws".
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -55,6 +71,10 @@ Subsec. (a)(3). Pub. L. 111–5, §§1801(e)(1)(C), 1893, temporarily inserted "
 <b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted "assistance under this subpart" for "assistance under this part".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272 inserted "(including workers in any agricultural firm or subdivision of an agricultural firm)" after "group of workers".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective and Termination Dates of 2011 Revival
 
@@ -86,7 +106,7 @@ Certifications Made Before Effective Date.—Notwithstanding subsection (a)—
 
 &emsp;&emsp;"(B) would otherwise be eligible to receive trade adjustment assistance benefits under such chapter as in effect on the day before such effective date;
 
-&emsp;"(2) a worker shall continue to receive (or be eligible to receive) benefits under section 246(a)(2) of the Trade Act of 1974 \[19 U.S.C. 2318(a)(2)\], as in effect on the day before the effective date described in subsection (a)(1), for such period for which the worker meets the eligibility requirements of section 246 of that Act as in effect on the day before such effective date, if the worker—
+&emsp;"(2) a worker shall continue to receive (or be eligible to receive) benefits under section 246(a)(2) of the Trade Act of 1974 \[19 U.S.C. 2318(a)(2)\], as in effect on the day before the effective date described in subsection (a)(1), for such period for which the worker meets the eligibility requirements of section 246 ofthat Act as in effect on the day before such effective date, if the worker—
 
 &emsp;&emsp;"(A) is certified as eligible for benefits under such section 246 pursuant to a petition filed under section 221 of the Trade Act of 1974 on or before such effective date; and
 
@@ -136,7 +156,7 @@ Reachback.—Notwithstanding paragraph (1), any worker—
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding this section.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding this section.
 
 #### Applicability of Trade Adjustment Assistance Provisions
 
@@ -220,7 +240,7 @@ Certification of firms not certified before date of enactment.—
 
 &emsp;&emsp;"(A)
 
-Criteria if a determination has not been made.—If, as of the date of the enactment of thisAct \[Oct. 21, 2011\], the Secretary of Commerce has not made a determination with respect to whether to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\] pursuant to a petition described in subparagraph (C), the Secretary shall make that determination based on the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment.
+Criteria if a determination has not been made.—If, as of the date of the enactment of this Act \[Oct. 21, 2011\], the Secretary of Commerce has not made a determination with respect to whether to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\] pursuant to a petition described in subparagraph (C), the Secretary shall make that determination based on the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment.
 
 &emsp;&emsp;"(B)
 

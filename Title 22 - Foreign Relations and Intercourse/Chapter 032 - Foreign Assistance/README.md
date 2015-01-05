@@ -52,7 +52,8 @@
 | [2152e.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152e%20-%20Program%20to%20improve%20building%20construction%20and%20practices%20in%20Latin%20American%20countries.md) | Program to improve building construction and practices in Latin American countries. |
 | [2152f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152f%20-%20Assistance%20for%20orphans%20and%20other%20vulnerable%20children.md) | Assistance for orphans and other vulnerable children. |
 | [2152g.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152g%20-%20Annual%20report.md) | Annual report. |
-| [2152h.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152h%20-%20Assistance%20to%20provide%20safe%20water%20and%20sanitation.md) | Assistance to provide safe water and sanitation. |
+| [2152h.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152h%20-%20Assistance%20to%20provide%20safe%20water%2C%20sanitation%2C%20and%20hygiene.md) | Assistance to provide safe water, sanitation, and hygiene. |
+| [2152i.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152i%20-%20Small%20Grants%20Program.md) | Small Grants Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -378,6 +379,7 @@
 | [2321j.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20002%20%28II%29%20-%20Military%20Assistance/%C2%A7%2002321j%20-%20Authority%20to%20transfer%20excess%20defense%20articles.md) | Authority to transfer excess defense articles. |
 | [2321k.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20002%20%28II%29%20-%20Military%20Assistance/%C2%A7%2002321k%20-%20Designation%20of%20major%20non-NATO%20allies.md) | Designation of major non-NATO allies. |
 | 2321l to 2322. | Repealed or Transferred. |
+| [2323\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20002%20%28II%29%20-%20Military%20Assistance/%C2%A7%2002323%20-%20Transfer%20of%20defense%20articles%20or%20services.md) | Transfer of defense articles or services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

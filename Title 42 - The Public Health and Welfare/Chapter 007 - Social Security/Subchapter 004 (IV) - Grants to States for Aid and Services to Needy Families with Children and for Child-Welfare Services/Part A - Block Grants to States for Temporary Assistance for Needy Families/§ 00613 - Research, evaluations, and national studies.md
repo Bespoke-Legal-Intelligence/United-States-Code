@@ -22,7 +22,7 @@ The Secretary shall develop innovative methods of disseminating information on a
 
 #### (1) Annual ranking of States
 
-&emsp;The Secretary shall rank annually the States to which grants are paid under section 603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number ofminor children living at home in families in the State that have incomes below the poverty line and the amount of funding provided each State for such families.
+&emsp;The Secretary shall rank annually the States to which grants are paid under section603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number of minor children living at home in families in the State that have incomes below the poverty line and the amount of funding provided each State for such families.
 
 #### (2) Annual review of most and least successful work programs
 
@@ -96,11 +96,11 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for fiscal year 2012 for the purpose of paying—
+&emsp;Funds made available to carry out this section for a fiscal year shall be used for the purpose of paying—
 
 &emsp;&emsp;(A) the cost of conducting the research described in subsection (a) of this section;
 
-&emsp;&emsp;(B) the cost of developing and evaluating innovative approaches for reducing welfare dependency and increasing the well-being of minor children under subsection (b) of this section;
+&emsp;&emsp;(B) the cost of developing and evaluating innovative approaches for reducing welfaredependency and increasing the well-being of minor children under subsection (b) of this section;
 
 &emsp;&emsp;(C) the Federal share of any State-initiated study approved under subsection (f) of this section; and
 
@@ -180,7 +180,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;&emsp;Not later than January 1, 2001,<sup>2</sup> (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
 
-(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4002(e), Feb. 22, 2012, 126 Stat. 195.)
+(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16,1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4002(e), Feb. 22, 2012, 126 Stat. 195; Pub. L. 113–235, div. G, title II, §228(e), Dec. 16, 2014, 128 Stat. 2492.)
 
 #### References in Text
 
@@ -195,6 +195,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 613, act Aug. 14, 1935, ch. 531, title IV, §413, as added June 9, 1980, Pub. L. 96–265, title IV, §406(c), 94 Stat. 467, related to technical assistance for developing management information systems, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h)(1). Pub. L. 113–235 substituted "Funds made available to carry out this section for a fiscal year shall be used" for "Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for fiscal year 2012" in introductory provisions.
 
 <b>2012</b>—Subsec. (h)(1). Pub. L. 112–96 substituted "fiscal year 2012" for "each of fiscal years 1997 through 2002" in introductory provisions.
 
@@ -254,9 +256,13 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 Section effective Aug. 22, 1996, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
+#### Funding of Research, Evaluations, and National Studies
+
+Pub. L. 113–235, div. G, title II, §228(c), Dec. 16, 2014, 128 Stat. 2491, provided that: "In the case of research, evaluations, and national studies funded under section 413(h)(1) of the Social Security Act \[42 U.S.C. 613(h)(1)\], no funds shall be appropriated under that section for fiscal year 2015 or any fiscal year thereafter."
+
 #### Coordination of Substance Abuse and Child Protection Services
 
-Pub. L. 105–89, title IV, §405, Nov. 19, 1997, 111 Stat. 2135, required the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health and Human Services, to submit to the appropriate committees of Congress a report which described the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population, along with appropriate recommendations for legislative changes.
+Pub. L. 105–89, title IV, §405, Nov. 19, 1997, 111 Stat. 2135, required the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health and Human Services, to submit to the appropriate committees of Congress a report which described the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services tosuch population, along with appropriate recommendations for legislative changes.
 
 #### GAO Study of Effect of Family Violence on Need for Public Assistance
 

@@ -20,7 +20,7 @@ References to the Bankhead-Jones Farm Tenant Act and the Farmers' Home Administr
 
 The Reconstruction Finance Corporation Act, referred to in text, is act Jan. 22, 1932, ch. 8, 47 Stat. 5, as amended, which was classified to chapter 14 (§601 et seq.) of Title 15, Commerce and Trade, and has been eliminated from the Code. For complete classification of this Act prior to its elimination from the Code, see Tables.
 
-The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
+The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, asamended, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
 
 The Federal Farm Loan Act, referred to in text, is act July 17, 1916, ch. 245, 39 Stat. 360, as amended, which was classified principally to sections 641 et seq. of Title 12, Banks and Banking. The Federal Farm Loan Act, as amended, was repealed by section 5.26(a) of the Farm Credit Act of 1971, Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 624. Section 5.26(a) of the Farm Credit Act of 1971 also provided that all references in other legislation to the Acts repealed thereby "shall be deemed to refer to comparable provisions of this Act". For further details, see notes under section 2001 of Title 12. For complete classification of the Federal Farm Loan Act to the Code prior to such repeal, see Tables.
 

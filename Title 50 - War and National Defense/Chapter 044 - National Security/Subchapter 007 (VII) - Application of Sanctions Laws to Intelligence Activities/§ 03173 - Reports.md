@@ -1,6 +1,6 @@
 ### §3173. Reports
 
-Reports to Congress pursuant to sections 3171 and 3172 of this title shall be submitted promptly upon determinations under this subchapter. Such reports shall be submitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate. With respect to determinations relating to intelligence sources and methods, reports shall also be submitted to the congressional intelligence committees. With respect to determinations relating to ongoing criminal investigations, reports shall also be submitted to the Committees on the Judiciary of the House of Representatives and the Senate.
+Reports to Congress pursuant to sections 3171 and 3172 of this title shall be submitted promptly upon determinations under this subchapter. Such reports shall be submitted to the Committee on International Relations of the House ofRepresentatives and the Committee on Foreign Relations of the Senate. With respect to determinations relating to intelligence sources and methods, reports shall also be submitted to the congressional intelligence committees. With respect to determinations relating to ongoing criminal investigations, reports shall also be submitted to the Committees on the Judiciary of the House of Representatives and the Senate.
 
 (July 26, 1947, ch. 343, title IX, §903, as added Pub. L. 104–93, title III, §303(a), Jan. 6, 1996, 109 Stat. 964; amended Pub. L. 107–306, title III, §353(b)(2)(C), Nov. 27, 2002, 116 Stat. 2402.)
 

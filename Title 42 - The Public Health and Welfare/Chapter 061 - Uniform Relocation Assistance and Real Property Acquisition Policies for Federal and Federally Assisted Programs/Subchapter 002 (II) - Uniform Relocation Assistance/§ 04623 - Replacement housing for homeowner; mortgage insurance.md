@@ -1,6 +1,6 @@
 ### §4623. Replacement housing for homeowner; mortgage insurance
 
-(a)(1) In addition to payments otherwise authorized by this subchapter, the head of the displacing agency shall make an additional payment not in excess of $22,500 to any displaced person who is displaced from a dwelling actually owned and occupied by such displaced person for not less than one hundred and eighty days prior to the initiation of negotiations for the acquisition of the property. Such additional payment shall include the following elements:
+(a)(1) In addition to payments otherwise authorized by this subchapter, the head of the displacing agency shall make an additional payment not in excess of $31,000, as adjusted by regulation, in accordance with 4633(d) <sup>1</sup> of this title, to any displaced person who is displaced from a dwelling actually owned and occupied by such displaced person for not less than 90 days before the initiation of negotiations for the acquisition of the property. Such additional payment shall include the following elements:
 
 (A) The amount, if any, which when added to the acquisition cost of the dwelling acquired by the displacing agency, equals the reasonable cost of a comparable replacement dwelling.
 
@@ -14,17 +14,13 @@
 
 (Pub. L. 91–646, title II, §203, Jan. 2, 1971, 84 Stat. 1896; Pub. L. 100–17, title IV, §406, Apr. 2, 1987, 101 Stat. 251; Pub. L. 112–141, div. A, title I, §1521(b), July 6, 2012, 126 Stat. 578.)
 
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 112–141, div. A, title I, §1521(b), (g), July 6, 2012, 126 Stat. 578, 579, provided that, effective 2 years after July 6, 2012, the first sentence of subsection (a)(1) of this section is amended by striking "$22,500" and inserting "$31,000, as adjusted by regulation, in accordance with 4633(d) of this title," and by striking "one hundred and eighty days prior to" and inserting "90 days before". See 2012 Amendment note below.</i>
-
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, in first sentence, substituted "$31,000, as adjusted by regulation, in accordance with 4633(d) of this title," for "$22,500" and "90 days before" for "one hundred and eighty days prior to".
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–17, §406(1)–(3), substituted "displacing agency" for "Federal agency" and "$22,500" for "$15,000" in introductory provisions, and in subpar. (A) "acquired by the displacing agency, equals the reasonable cost of a comparable replacement dwelling" for "acquired by the Federal agency, equals the reasonable cost of a comparable replacement dwelling which is a decent, safe, and sanitary dwelling adequate to accommodate such displaced person, reasonably accessible to public services and places of employment and available on the private market. All determinations required to carry out this subparagraph shall be made in accordance with standards established by the head of the Federal agency making the additional payment".
 
-Subsec. (a)(1)(B). Pub. L. 100–17, §406(4), added subpar. (B) and struck out former subpar. (B) which read as follows: "The amount, if any, which will compensate such displaced person for any increased interest costs which such person is required to pay for financing the acquisition of any such comparable replacement dwelling. Such amount shall be paid only if the dwelling acquired by the Federal agency was encumbered by a bona fide mortgage which was a valid lien on such dwelling for not less than one hundred and eighty days prior to theinitiation of negotiations for the acquisition of such dwelling. Such amount shall be equal to the excess in the aggregate interest and other debt service costs of that amount of the principal of the mortgage on the replacement dwelling which is equal to the unpaid balance of the mortgage on the acquired dwelling, over the remainder term of the mortgage on the acquired dwelling, reduced to discounted present value. The discount rate shall be the prevailing interest rate paid on savings deposits by commercial banks in the general area in which the replacement dwelling is located."
+Subsec. (a)(1)(B). Pub. L. 100–17, §406(4), added subpar. (B) and struck out former subpar. (B) which read as follows: "The amount, if any, which will compensate such displaced person for any increased interest costs which such person is required to pay for financing the acquisition of any such comparable replacement dwelling. Such amount shall be paid only if the dwelling acquired by the Federal agency was encumbered by a bona fide mortgage which was a valid lien on such dwelling for not less than one hundred and eighty days prior to the initiation of negotiations for the acquisition of such dwelling. Such amount shall be equal to the excess in the aggregate interest and other debt service costs of that amount of the principal of the mortgage on the replacement dwelling which is equal to the unpaid balance of the mortgage on the acquired dwelling, over the remainder term of the mortgage on the acquired dwelling, reduced to discounted present value. The discount rate shall be the prevailing interest rate paid on savings deposits by commercial banks in the general area in which the replacement dwelling is located."
 
 Subsec. (a)(2). Pub. L. 100–17, §406(5), added par. (2) and struck out former par. (2) which read as follows: "The additional payment authorized by this subsection shall be made only to such a displaced person who purchases and occupies a replacement dwelling which is decent, safe, and sanitary not later than the end of the one year period beginning on the date on which he receives from the Federal agency final payment of all costs of the acquired dwelling, or on the date on which he moves from the acquired dwelling, whichever is the later date."
 
@@ -35,4 +31,6 @@ Amendment by Pub. L. 112–141 effective 2 years after the date of enactment of 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

@@ -430,7 +430,7 @@ Pub. L. 96–481, title I, §113(b), Oct. 21, 1980, 94 Stat. 2324, provided that
 
 #### Short Title
 
-For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, seeShort Title of 1980 Amendment note set out under section 631 of this title.
+For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, see Short Title of 1980 Amendment note set out under section 631 of this title.
 
 #### Implementation
 

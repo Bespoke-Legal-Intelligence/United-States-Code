@@ -46,7 +46,7 @@
 
 #### (B) Security countermeasure
 
-&emsp;&emsp;For purposes of this subsection, the term "security countermeasure" means a drug (as that term is defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))) that—
+&emsp;&emsp;For purposes of this subsection, the term "security countermeasure" means a drug (as that term is defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined bysection 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))) that—
 
 &emsp;&emsp;&emsp;(i)(I) the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to diagnose, mitigate, prevent, or treat harm from any biological, chemical, radiological, or nuclear agent identified as a material threat under paragraph (2)(A)(ii), or to diagnose, mitigate, prevent, or treat harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, biological product, or device against such an agent;
 
@@ -102,7 +102,7 @@
 
 #### (A) Proposal to the President
 
-&emsp;&emsp;If, pursuant to an assessment under paragraph (3), the Homeland Security Secretaryand the Secretary make a determination that a countermeasure would be appropriate but is either currently not developed or unavailable for procurement as a security countermeasure or is approved, licensed, or cleared only for alternative uses, such Secretaries may jointly submit to the President a proposal to—
+&emsp;&emsp;If, pursuant to an assessment under paragraph (3), the Homeland Security Secretary and the Secretary make a determination that a countermeasure would be appropriate but is either currently not developed or unavailable for procurement as a security countermeasure or is approved, licensed, or cleared only for alternative uses, such Secretaries may jointly submit to the President a proposal to—
 
 &emsp;&emsp;&emsp;(i) issue a call for the development of such countermeasure; and
 
@@ -214,7 +214,7 @@
 
 #### (VI) Non-stockpile transfers of security countermeasures
 
-&emsp;&emsp;&emsp;&emsp;The contract shall provide that the vendor will comply with all applicableexport-related controls with respect to such countermeasure.
+&emsp;&emsp;&emsp;&emsp;The contract shall provide that the vendor will comply with all applicable export-related controls with respect to such countermeasure.
 
 #### (VII) Sales exclusivity
 
@@ -282,7 +282,7 @@
 
 #### (II) Relation to other authorities
 
-&emsp;&emsp;&emsp;&emsp;The authority under subclause (I) is in addition to any other authority to useprocedures other than competitive procedures.
+&emsp;&emsp;&emsp;&emsp;The authority under subclause (I) is in addition to any other authority to use procedures other than competitive procedures.
 
 #### (III) Applicable government-wide regulations
 
@@ -344,7 +344,7 @@ For purposes of subsection (a) of this section, the term "stockpile" includes—
 
 #### (2) Smallpox vaccine development
 
-&emsp;For the purpose of carrying out subsection (b) of this section, there are authorized to beappropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+&emsp;For the purpose of carrying out subsection (b) of this section, there are authorized to be appropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
 #### (g) Special reserve fund
 
@@ -404,7 +404,7 @@ In subsec. (c)(7)(C)(iv)(I), "section 3304(a)(1) of title 41" substituted for "s
 
 In subsec. (c)(7)(C)(iv)(III), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(vii), "section 3306(a)(1)(B) of title 41" substituted for "section 303A(a)(1)(B) of the FederalProperty and Administrative Services Act of 1949 (41 U.S.C. 253a(a)(1)(B))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(vii), "section 3306(a)(1)(B) of title 41" substituted for "section 303A(a)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253a(a)(1)(B))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 300hh–12 of this title prior to renumbering by Pub. L. 108–276.
 
@@ -428,7 +428,7 @@ Subsec. (c)(7)(C)(i)(I). Pub. L. 113–5, §401(a)(5)(A), inserted "including ad
 
 Subsec. (c)(7)(C)(ii)(III). Pub. L. 113–5, §401(a)(5)(B)(i), substituted "10 years" for "eight years".
 
-Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX). Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
+Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX).Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
 
 &emsp;"(aa) the dosing and administration requirements for countermeasures to be developed and procured;
 

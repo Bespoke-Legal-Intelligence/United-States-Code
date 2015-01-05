@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, to further assist developing countri
 
 &emsp;(3) transfer the knowledge and expertise of United States agricultural producers and businesses, on an individual basis, to those countries while enhancing the democratic process by supporting private and public agriculturally related organizations that request and support technical assistance activities through cash and in-kind services;
 
-&emsp;(4) to the maximum extent practicable, make grants to or enter into contracts or other cooperative agreements with private voluntary organizations, cooperatives, land grant universities, private agribusiness, or nonprofit farm organizations to carry out this section (except that any such contract or other agreement may obligate the United States to make outlays only to the extent that the budget authority for such outlays is available under subsection (d) of this section or has otherwise been provided in advance in appropriation Acts);
+&emsp;(4) to the maximum extent practicable, make grants to or enter into contracts or other cooperative agreements with private voluntary organizations, cooperatives, land grant universities, private agribusiness, or nonprofit farm organizations to carry out this section (except that any such contract or other agreement may obligate the United States to make outlays only to the extent that the budget authority for such outlays is available under subsection (d) or has otherwise been provided in advance in appropriation Acts);
 
 &emsp;(5) coordinate programs established under this section with other foreign assistance programs and activities carried out by the United States; and
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of law, to further assist developing countri
 
 #### (d) Minimum funding
 
-Notwithstanding any other provision of law, in addition to any funds that may be specifically appropriated to carry out this section, not less than the greater of $10,000,000 or 0.5 percent of the amounts made available for each of fiscal years 2008 through 2012 to carry out this chapter shall be used to carry out programs under this section, with—
+Notwithstanding any other provision of law, in addition to any funds that may be specifically appropriated to carry out this section, not less than the greater of $10,000,000 or 0.5 percent of the amounts made available for each of fiscal years 2008 through 2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018, to carry out this chapter shall be used to carry out programs under this section, with—
 
 &emsp;(1) not less than 0.2 percent to be used for programs in developing countries; and
 
@@ -140,7 +140,7 @@ Notwithstanding any other provision of law, in addition to any funds that may be
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated for each of fiscal years 2008 through 2012 to carry out the programs under this section—
+&emsp;There are authorized to be appropriated for each of fiscal years 2008 through 2018 to carry out the programs under this section—
 
 &emsp;&emsp;(A) $10,000,000 for sub-Saharan African and Caribbean Basin countries; and
 
@@ -150,9 +150,13 @@ Notwithstanding any other provision of law, in addition to any funds that may be
 
 &emsp;Not more than 5 percent of the funds made available for a fiscal year under paragraph (1) may be used to pay administrative costs incurred in carrying out programs in sub-Saharan African and Caribbean Basin countries.
 
-(July 10, 1954, ch. 469, title V, §501, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3656; amended Pub. L. 102–237, title III, §301, Dec. 13, 1991, 105 Stat. 1855; Pub. L. 104–127, title II, §§224, 277(c)(1), Apr. 4, 1996, 110 Stat. 959, 979; Pub. L. 107–76, title VII, §777, Nov. 28, 2001, 115 Stat. 747; Pub. L. 107–171, title III, §3014, May 13, 2002, 116 Stat. 285; Pub. L. 108–447, div. A, title VII, §769, Dec. 8, 2004, 118 Stat. 2848; Pub. L. 110–246, title III, §3024, June 18, 2008, 122 Stat. 1830.)
+(July 10, 1954, ch. 469, title V, §501, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3656; amended Pub. L. 102–237, title III, §301, Dec. 13, 1991, 105 Stat. 1855; Pub. L. 104–127, title II, §§224, 277(c)(1), Apr. 4, 1996, 110 Stat. 959, 979; Pub. L. 107–76, title VII, §777, Nov. 28, 2001, 115 Stat. 747; Pub. L. 107–171, title III, §3014, May 13, 2002, 116 Stat. 285; Pub. L. 108–447, div. A, title VII, §769, Dec. 8, 2004, 118 Stat. 2848; Pub. L. 110–246, title III, §3024, June 18, 2008, 122 Stat. 1830; Pub. L. 113–79, title III, §3014(a), Feb. 7, 2014, 128 Stat. 778.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–79, §3014(a)(1), substituted "2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018," for "2012" in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 113–79, §3014(a)(2), substituted "2018" for "2012" in introductory provisions.
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–246, §3024(a), in introductory provisions, substituted "not less than the greater of $10,000,000 or" for "not less than" and "2008 through 2012" for "2002 through 2007".
 

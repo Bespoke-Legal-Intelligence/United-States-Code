@@ -28,13 +28,13 @@ Notwithstanding subsection (a) of this section, a person may, in the ordinary co
 
 #### (d) Joint or joint and several participation with company in transactions
 
-It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3) (A) and (B) of this title), or any affiliated person of such a person or principal underwriter, acting as principal to effect any transaction in which such registered company, or a company controlled by such registered company, is a joint or a joint and several participant with such person, principal underwriter, or affiliated person, in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such registered or controlled company on a basis different from or less advantageous than that of such other participant. Nothing contained in this subsection shall be deemed to preclude any affiliated person from acting as manager of any underwriting syndicate or other group in which such registered or controlled company is a participant and receiving compensation therefor.
+It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3) (A) and (B) of this title), or any affiliated person of such a person or principal underwriter, acting asprincipal to effect any transaction in which such registered company, or a company controlled by such registered company, is a joint or a joint and several participant with such person, principal underwriter, or affiliated person, in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such registered or controlled company on a basis different from or less advantageous than that of such other participant. Nothing contained in this subsection shall be deemed to preclude any affiliated person from acting as manager of any underwriting syndicate or other group in which such registered or controlled company is a participant and receiving compensation therefor.
 
 #### (e) Acceptance of compensation, commissions, fees, etc.
 
 It shall be unlawful for any affiliated person of a registered investment company, or any affiliated person of such person—
 
-&emsp;(1) acting as agent, to accept from any source any compensation (other than a regularsalary or wages from such registered company) for the purchase or sale of any property to or for such registered company or any controlled company thereof, except in the course of such person's business as an underwriter or broker; or
+&emsp;(1) acting as agent, to accept from any source any compensation (other than a regular salary or wages from such registered company) for the purchase or sale of any property to or for such registered company or any controlled company thereof, except in the course of such person's business as an underwriter or broker; or
 
 &emsp;(2) acting as broker, in connection with the sale of securities to or by such registered company or any controlled company thereof, to receive from any source a commission, fee, or other remuneration for effecting such transaction which exceeds (A) the usual and customary broker's commission if the sale is effected on a securities exchange, or (B) 2 per centum of the sales price if the sale is effected in connection with a secondary distribution of such securities, or (C) 1 per centum of the purchase or sale price of such securities if the sale is otherwise effected unless the Commission shall, by rules and regulations or order in the public interest and consistent with the protection of investors, permit a larger commission.
 
@@ -54,7 +54,7 @@ It shall be unlawful for any affiliated person of a registered investment compan
 
 #### (g) Bonding of officers and employees having access to securities or funds
 
-The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officer or employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
+The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officeror employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
 
 #### (h) Provisions in charter, by-laws, etc., protecting against liability for willful misfeasance, etc.
 
@@ -98,7 +98,7 @@ Subsec. (j). Pub. L. 91–547, §9(c), added subsec. (j).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1999 Amendment
 

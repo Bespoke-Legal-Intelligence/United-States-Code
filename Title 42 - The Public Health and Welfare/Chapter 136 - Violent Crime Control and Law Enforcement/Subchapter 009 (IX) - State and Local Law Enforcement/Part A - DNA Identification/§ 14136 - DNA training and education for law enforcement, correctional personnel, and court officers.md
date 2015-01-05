@@ -14,15 +14,17 @@ The Attorney General shall make grants to provide training, technical assistance
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated $12,500,000 for each of fiscal years 2009 through 2014 to carry out this section.
+There are authorized to be appropriated $12,500,000 for each of fiscal years 2015 through 2019 to carry out this section.
 
-(Pub. L. 108–405, title III, §303, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, §3, Oct. 8, 2008, 122 Stat. 4008.)
+(Pub. L. 108–405, title III, §303, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, §3, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 113–182, §3, Sept. 29, 2014, 128 Stat. 1918.)
 
 #### Codification
 
 Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (b). Pub. L. 113–182 substituted "2015 through 2019" for "2009 through 2014".
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–360 substituted "2009 through 2014" for "2005 through 2009".
 
@@ -38,7 +40,7 @@ Pub. L. 108–405, title IV, §413, Oct. 30, 2004, 118 Stat. 2285, provided that
 
 &emsp;&emsp;&emsp;"(i) under a State statute enacted before the date of enactment of this Act \[Oct. 30, 2004\] (or extended or renewed after such date), to persons convicted after trial and under a sentence of imprisonment or death for a State felony offense, in a manner that ensures a reasonable process for resolving claims of actual innocence; or
 
-&emsp;&emsp;&emsp;"(ii) under a State statute enacted after the date of enactment of this Act, or under a Staterule, regulation, or practice, to persons under a sentence of imprisonment or death for a State felony offense, in a manner comparable to section 3600(a) of title 18, United States Code (provided that the State statute, rule, regulation, or practice may make post-conviction DNA testing available in cases in which such testing is not required by such section), and if the results of such testing exclude the applicant, permits the applicant to apply for post-conviction relief, notwithstanding any provision of law that would otherwise bar such application as untimely; and
+&emsp;&emsp;&emsp;"(ii) under a State statute enacted after the date of enactment of this Act, or under a State rule, regulation, or practice, to persons under a sentence of imprisonment or death for a State felony offense, in a manner comparable to section 3600(a) of title 18, United States Code (provided that the State statute, rule, regulation, or practice may make post-conviction DNA testing available in cases in which such testing is not required by such section), and if the results of such testing exclude the applicant, permits the applicant to apply for post-conviction relief, notwithstanding any provision of law that would otherwise bar such application as untimely; and
 
 &emsp;&emsp;"(B) preserves biological evidence secured in relation to the investigation or prosecution of a State offense—
 

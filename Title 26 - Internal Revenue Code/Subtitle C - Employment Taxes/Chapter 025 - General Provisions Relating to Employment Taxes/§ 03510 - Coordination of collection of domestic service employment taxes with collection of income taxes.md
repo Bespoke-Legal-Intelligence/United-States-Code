@@ -28,10 +28,6 @@ Except as otherwise provided in this section—
 
 &emsp;Under regulations prescribed by the Secretary, appropriate adjustments shall be made in the application of section 6654(d)(2) in respect of the amount treated as tax under paragraph (1).
 
-#### (4) Transitional rule
-
-&emsp;In the case of any taxable year beginning before January 1, 1998, no addition to tax shall be made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section.
-
 #### (c) Domestic service employment taxes
 
 For purposes of this section, the term "domestic service employment taxes" means—
@@ -68,11 +64,19 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;For purposes of this subsection, the term "State" has the meaning given such term by section 3306(j)(1).
 
-(Added Pub. L. 103–387, §2(b)(1), Oct. 22, 1994, 108 Stat. 4073.)
+(Added Pub. L. 103–387, §2(b)(1), Oct. 22, 1994, 108 Stat. 4073; amended Pub. L. 113–295, div. A, title II, §221(a)(102), Dec. 19, 2014, 128 Stat. 4052.)
 
 #### Prior Provisions
 
 A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983, 97 Stat. 88, provided a credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(42), Nov. 5, 1990, 104 Stat. 1388–521.
+
+#### Amendments
+
+<b>2014</b>—Subsec. (b)(4). Pub. L. 113–295 struck out par. (4). Text read as follows: "In the case of any taxable year beginning before January 1, 1998, no addition to tax shall be made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section."
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date
 
@@ -80,5 +84,5 @@ Pub. L. 103–387, §2(b)(3), Oct. 22, 1994, 108 Stat. 4074, provided that: "The
 
 #### Expanded Information to Employers
 
-Pub. L. 103–387, §2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: "The Secretary of the Treasury or the Secretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domesticservice in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation."
+Pub. L. 103–387, §2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: "The Secretary of the Treasury or theSecretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation."
 

@@ -22,7 +22,7 @@ The Congress finds the following:
 
 &emsp;(10) Currently, eighty-two species of invertebrates in the United States are listed as threatened or endangered under the Endangered Species Act \[16 U.S.C. 1531 et seq.\], and another nine hundred and fifty-one United States invertebrate species are candidates for listing under that Act.
 
-&emsp;(11) Proper management of fish and wildlife, before species become threatened or endangered with extinction, is the key to reversing the increasingly desperate status of fish and wildlife.
+&emsp;(11) Proper management of fish and wildlife, before species become threatened or endangered with extinction, is the key to reversingthe increasingly desperate status of fish and wildlife.
 
 &emsp;(12) Proper fish and wildlife conservation includes not only management of fish and wildlife species taken for recreation and protection of endangered and threatened species, but also management of the vast majority of species which fall into neither category.
 

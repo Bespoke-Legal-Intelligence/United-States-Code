@@ -64,7 +64,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §11; added Feb. 5, 1976, Pub. L.
 
 49:1657a(d).
 
-In subsection (b), before clause (1), the word "has" is substituted for "The Secretary shall, within 180 days after February 5, 1976, establish" because the time forestablishing the Center has expired and the Center has been established. The words "The Department of Transportation" are added because of the restatement of the section. The words "(hereafter in this section referred to as the 'Center')" after "Minority Resource Center" are omitted because of the style of the revised title.
+In subsection (b), before clause (1), the word "has" is substituted for "The Secretary shall, within 180 days after February 5, 1976, establish" because the time for establishing the Center has expired and the Center has been established. The words "The Department of Transportation" are added because of the restatement of the section. The words "(hereafter in this section referred to as the 'Center')" after "Minority Resource Center" are omitted because of the style of the revised title.
 
 In subsection (b)(1), the word "include" is substituted for "establish and maintain", and the words "to disseminate information" are substituted for "and disseminate information from", for clarity. The words "to them . . . related to" are substituted for "to such entrepreneurs and businesses . . . with respect to" to omit unnecessary words. The words "for purposes of furnishing . . . information" before "with respect to" are omitted as surplus.
 

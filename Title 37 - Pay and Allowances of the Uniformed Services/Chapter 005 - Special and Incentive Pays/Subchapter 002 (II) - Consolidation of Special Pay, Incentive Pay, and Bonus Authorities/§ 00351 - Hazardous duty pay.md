@@ -38,7 +38,7 @@ Proration.—If a member does not satisfy the eligibility requirements specified
 
 &emsp;&emsp;&emsp;(ii) in the case of a member who is exposed to hostile fire or an explosion of a hostile explosive device in or for a day or portion of a day, may, at the election of the Secretary, pay the member hazardous duty pay in an amount not to exceed the entire amount of hazardous duty pay that would be payable to the member under such paragraph (1) for the month in which the duty concerned occurs (with the total amount of hazardous duty pay paid the member under this clause in any given month not to exceed such entire amount); and
 
-&emsp;&emsp;(B) in the case of hazardous duty pay payable under paragraph (2) or (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
+&emsp;&emsp;(B) in the case of hazardous duty pay payable under paragraph (2) or (3) of subsection\(a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
 
 (d)
 
@@ -46,7 +46,7 @@ Administration and Retroactive Payments.—The effective date for the designatio
 
 (e)
 
-Determination of Fact.—Any determination of fact that is made in connection with determining whether a triggering event has occurred for the provision of hazardous duty payunder subsection (a)(1) is conclusive. The determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the Secretary concerned may change the determination on the basis of new evidence or for other good cause.
+Determination of Fact.—Any determination of fact that is made in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1) is conclusive. The determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the Secretary concerned may change the determination on the basis of new evidence or for other good cause.
 
 (f)
 
@@ -66,11 +66,13 @@ Prohibition on Variable Rates.—The regulations prescribed to administer this s
 
 (h)
 
-Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2014.
+Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2015.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(6), Dec. 26, 2013, 127 Stat. 781.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(6), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(7), Dec. 19, 2014, 128 Stat. 3401.)
 
 #### Amendments
+
+<b>2014</b>—Subsec. (h). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 
 <b>2013</b>—Subsec. (h). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 

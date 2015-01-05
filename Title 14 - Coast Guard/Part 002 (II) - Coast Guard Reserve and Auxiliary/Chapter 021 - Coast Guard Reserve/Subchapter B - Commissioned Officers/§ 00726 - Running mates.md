@@ -12,7 +12,7 @@
 
 &emsp;(4) In a situation not expressly covered by this subsection, the Secretary may assign a new running mate as necessary to effect the intent of this section that inequitable changes of precedence do not occur.
 
-(c) A Reserve officer on the active duty promotion list shall, to the extent practicable and consistent with the limitations imposed by thissection, be assigned as the running mate of all Reserve officers junior to the officer, who are in an active status not on the active duty promotion list, and who had a running mate in common with the officer just prior to the time the officer was placed on the active duty promotion list.
+(c) A Reserve officer on the active duty promotion list shall, to the extent practicable and consistent with the limitations imposed by this section, be assigned as the running mate of all Reserve officers junior to the officer, who are in an active status not on the active duty promotion list, and who had a running mate in common with the officer just prior to the time the officer was placed on the active duty promotion list.
 
 (d) The Secretary may adjust, as necessary, the date of rank of a Reserve officer not on active duty so that the date will correspond with that of the running mate assigned to the officer in accordance with this section. If an overpayment of pay or allowances results from adjusting the date of rank, the overpayment is not subject to recoupment.
 

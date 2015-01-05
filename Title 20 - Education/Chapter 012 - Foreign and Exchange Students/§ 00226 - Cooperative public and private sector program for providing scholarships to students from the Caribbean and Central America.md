@@ -46,7 +46,7 @@ To the maximum extent practicable, each participating State shall enlist the ass
 
 #### (i) Funding
 
-Any funds used in carrying out this section shall be derived from funds allocated for LatinAmerican and Caribbean regional programs under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund).
+Any funds used in carrying out this section shall be derived from funds allocated for Latin American and Caribbean regional programs under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund).
 
 #### (j) Definitions
 

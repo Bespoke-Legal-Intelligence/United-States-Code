@@ -16,7 +16,7 @@ From the amounts appropriated under subsection (c), the Secretary shall award a 
 
 &emsp;&emsp;(D) secondary school student attendance and other factors demonstrated to be associated with enrollment into postsecondary education;
 
-&emsp;&emsp;(E) the use of data systems by the local educational agency and the State to measure postsecondary education enrollment rates and the incentives in place to motivate the efforts of faculty and students to improve student and schoolwide outcomes; and
+&emsp;&emsp;(E) the use of data systems by the local educational agency and the State to measure postsecondary education enrollmentrates and the incentives in place to motivate the efforts of faculty and students to improve student and schoolwide outcomes; and
 
 &emsp;&emsp;(F) strategies to mobilize student leaders to build a college-bound culture; and
 

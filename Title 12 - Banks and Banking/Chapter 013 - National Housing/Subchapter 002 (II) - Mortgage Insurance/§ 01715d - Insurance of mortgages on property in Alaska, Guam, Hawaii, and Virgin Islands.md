@@ -40,7 +40,7 @@ Act June 30, 1953, §25(c), substituted in fourth sentence "Upon application by 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured pursuant to conditional commitment issued on or after Feb. 5, 1988, or in accordance with direct endorsement program (24 CFR 200.163), if approved underwriter of mortgagee signs appraisal report for property on or after Feb. 5, 1988, see section 406(d) of Pub. L. 100–242, set out as a note under section 1709 of this title.
+Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured pursuant to conditionalcommitment issued on or after Feb. 5, 1988, or in accordance with direct endorsement program (24 CFR 200.163), if approved underwriter of mortgagee signs appraisal report for property on or after Feb. 5, 1988, see section 406(d) of Pub. L. 100–242, set out as a note under section 1709 of this title.
 
 #### Study and Report Respecting Utilization of Factory-Built and Other Appropriate Types of Housing for Indian, Etc., Housing Programs
 

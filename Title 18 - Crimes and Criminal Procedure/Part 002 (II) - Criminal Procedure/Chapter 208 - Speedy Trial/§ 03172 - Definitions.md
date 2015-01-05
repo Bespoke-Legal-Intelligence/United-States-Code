@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) the terms "judge" or "judicial officer" mean, unless otherwise indicated, any United States magistrate judge, Federal district judge, and
 
-&emsp;(2) the term "offense" means any Federal criminal offense which is in violation of any Act of Congress and is triable by any court established by Act of Congress (other than a Class B or C misdemeanor or an infraction, or an offense triable by court-martial, militarycommission, provost court, or other military tribunal).
+&emsp;(2) the term "offense" means any Federal criminal offense which is in violation of any Act of Congress and is triable by any court established by Act of Congress (other than a Class B or C misdemeanor or an infraction, or an offense triable by court-martial, military commission, provost court, or other military tribunal).
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2085; amended Pub. L. 98–473, title II, §223(i), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

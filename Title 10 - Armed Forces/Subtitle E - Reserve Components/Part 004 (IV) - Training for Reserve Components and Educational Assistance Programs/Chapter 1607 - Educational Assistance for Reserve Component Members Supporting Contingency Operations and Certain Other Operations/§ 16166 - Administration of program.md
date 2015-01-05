@@ -20,7 +20,7 @@ Flight Training.—The Secretary of Veterans Affairs may approve the pursuit of 
 
 (d)
 
-Trust Fund.—Amounts for payments for benefits under this chapter shall be derived fromthe Department of Defense Education Benefits Fund under section 2006 of this title.
+Trust Fund.—Amounts for payments for benefits under this chapter shall be derived from the Department of Defense Education Benefits Fund under section 2006 of this title.
 
 (Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1893.)
 

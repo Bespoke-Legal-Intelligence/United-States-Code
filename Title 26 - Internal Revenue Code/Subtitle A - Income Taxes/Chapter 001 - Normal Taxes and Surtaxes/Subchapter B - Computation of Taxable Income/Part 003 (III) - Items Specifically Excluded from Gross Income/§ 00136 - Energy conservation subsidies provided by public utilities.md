@@ -6,7 +6,7 @@ Gross income shall not include the value of any subsidy provided (directly or in
 
 #### (b) Denial of double benefit
 
-Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowedfor, or by reason of, any expenditure to the extent of the amount excluded under subsection (a) for any subsidy which was provided with respect to such expenditure. The adjusted basis of any property shall be reduced by the amount excluded under subsection (a) which was provided with respect to such property.
+Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed for, or by reason of, any expenditure to the extent of the amount excluded under subsection (a) for any subsidy which was provided with respect to such expenditure. The adjusted basis of any property shall be reduced by the amount excluded under subsection (a) which was provided with respect to such property.
 
 #### (c) Energy conservation measure
 

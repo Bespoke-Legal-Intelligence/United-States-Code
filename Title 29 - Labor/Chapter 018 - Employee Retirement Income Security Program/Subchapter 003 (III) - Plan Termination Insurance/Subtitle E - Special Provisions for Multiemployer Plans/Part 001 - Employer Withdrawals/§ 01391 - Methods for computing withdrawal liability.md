@@ -106,7 +106,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the total amount required to be contributed under the plan by the employer for the last 5 plan years ending before the date on which the employer withdraws, and
 
-&emsp;&emsp;(II) the denominator of which is the total amount contributed under the plan by allemployers for the last 5 plan years ending before the date on which the employer withdraws, increased by the amount of any employer contributions owed with respect to earlier periods which were collected in those plan years, and decreased by any amount contributed by an employer who withdrew from the plan under this part during those plan years.
+&emsp;&emsp;(II) the denominator of which is the total amount contributed under the plan by all employers for the last 5 plan years ending before the date on which the employer withdraws, increased by the amount of any employer contributions owed with respect to earlier periods which were collected in those plan years, and decreased by any amount contributed by an employer who withdrew from the plan under this part during those plan years.
 
 (D) The corporation may by regulation permit adjustments in any denominator under this section, consistent with the purposes of this subchapter, where such adjustment would be appropriate to ease administrative burdens of plan sponsors in calculating such denominators.
 
@@ -150,7 +150,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;(ii) by multiplying the value of plan assets determined under subparagraph (C) by a fraction—
 
-&emsp;&emsp;(I) the numerator of which is the sum of all contributions (accumulated with interest) which have been made to the plan by the employer for the plan year preceding the plan year in which the employer withdraws and all preceding plan years; and
+&emsp;&emsp;(I) the numerator of which is the sum of all contributions (accumulated with interest) which have been made to the plan by theemployer for the plan year preceding the plan year in which the employer withdraws and all preceding plan years; and
 
 &emsp;&emsp;(II) the denominator of which is the sum of all contributions (accumulated with interest) which have been made to the plan (for the plan year preceding the plan year in which the employer withdraws and all preceding plan years) by all employers who have an obligation to contribute to the plan for the plan year preceding the plan year in which the employer withdraws; or
 
@@ -158,7 +158,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the amount determined under clause (ii)(I) of this subparagraph, less the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(I) which are attributable to service with the employer; and
 
-&emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in suchclause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
+&emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
 
 (E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which such employer withdraws, is equal to—
 
@@ -196,7 +196,7 @@ Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to pr
 
 (1) The method of calculating an employer's allocable share of unfunded vested benefits set forth in subsection (c)(3) of this section shall be the method for calculating an employer's allocable share of unfunded vested benefits under a plan to which section 404(c) of title 26, or a continuation of such a plan, applies, unless the plan is amended to adopt another method authorized under subsection (b) or (c) of this section.
 
-(2) Sections 1384, 1389, 1399(c)(1)(B), and 1405 of this title shall not apply with respect to the withdrawal of an employer from a plan described in paragraph (1) unless the plan is amended to provide that any of such sections apply.
+(2) Sections 1384, 1389, 1399(c)(1)(B), and 1405 of this title shall not apply with respect to thewithdrawal of an employer from a plan described in paragraph (1) unless the plan is amended to provide that any of such sections apply.
 
 #### (e) Reduction of liability of withdrawn employer in case of transfer of liabilities to another plan incident to withdrawal or partial withdrawal of employer
 

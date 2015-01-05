@@ -2,7 +2,7 @@
 
 #### (a) Payments required under Panama Canal Treaty; annual audit
 
-The Commission shall pay to the Republic of Panama those payments required under paragraph 5 of Article III and paragraph 4 of Article XIII of the Panama Canal Treaty of 1977. Payments made under paragraph 5 of Article III of such Treaty shall be audited annually by theComptroller General and any overpayment, as determined in accordance with Understanding (1) incorporated in the Resolution of Ratification of the Panama Canal Treaty (adopted by the United States Senate on April 18, 1978), for the services described in that paragraph which are provided shall be refunded by the Republic of Panama or set off against amounts payable by the United States to the Republic of Panama under paragraph 5 of Article III of the Panama Canal Treaty of 1977.
+The Commission shall pay to the Republic of Panama those payments required under paragraph 5 of Article III and paragraph 4 of Article XIII of the Panama Canal Treaty of 1977. Payments made under paragraph 5 of Article III of such Treaty shall be audited annually by the Comptroller General and any overpayment, as determined in accordance with Understanding (1) incorporated in the Resolution of Ratification of the Panama Canal Treaty (adopted by the United States Senate on April 18, 1978), for the services described in that paragraph which are provided shall be refunded by the Republic of Panama or set off against amounts payable by the United States to the Republic of Panama under paragraph 5 of Article III of the Panama Canal Treaty of 1977.
 
 #### (b) Excess operating revenues
 
@@ -48,7 +48,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271, provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and asif included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, Pub. L. 104–201, as enacted.
+Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271, provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and as if included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, Pub. L. 104–201, as enacted.
 
 #### Effective Date of 1987 Amendment
 

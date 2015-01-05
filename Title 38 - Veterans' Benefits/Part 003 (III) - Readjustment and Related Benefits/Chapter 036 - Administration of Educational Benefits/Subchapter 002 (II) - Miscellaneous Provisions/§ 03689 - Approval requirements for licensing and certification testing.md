@@ -4,7 +4,7 @@
 
 In General.—(1) No payment may be made for a licensing or certification test described in section 3452(b) or 3501(a)(5) of this title unless the test is deemed approved by section 3672(b)(2)(B) of this title or the Secretary determines that the requirements of this section have been met with respect to such test and the organization or entity offering the test. The requirements of approval for tests and organizations or entities offering tests shall be in accordance with the provisions of this chapter and chapters 30, 32, 33, 34, and 35 of this title and with regulations prescribed by the Secretary to carry out this section.
 
-(2) To the extent that the Secretary determines practicable, State approving agencies may, in lieu of the Secretary, approve licensing and certification tests, and organizations and entities offering such tests, under this section.
+(2) To the extent that the Secretary determines practicable, State approving agenciesmay, in lieu of the Secretary, approve licensing and certification tests, and organizations and entities offering such tests, under this section.
 
 (b)
 
@@ -30,7 +30,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;&emsp;(i) the outcome of the test; or
 
-&emsp;&emsp;(ii) organizations that provide the education or training of candidates for licensesor certificates required for vocations or professions.
+&emsp;&emsp;(ii) organizations that provide the education or training of candidates for licenses or certificates required for vocations or professions.
 
 &emsp;(E) The organization or entity maintains appropriate records with respect to all candidates who take the test for a period prescribed by the Secretary, but in no case for a period of less than three years.
 
@@ -62,7 +62,7 @@ Administration.—Except as otherwise specifically provided in this section or c
 
 (e)
 
-Professional Certification and Licensure Advisory Committee.—(1) There is established within the Department a committee to be known as the Professional Certification and Licensure Advisory Committee (hereinafter in this section referred to as the "Committee").
+Professional Certification and Licensure Advisory Committee.—(1) There is established within the Department a committee to beknown as the Professional Certification and Licensure Advisory Committee (hereinafter in this section referred to as the "Committee").
 
 (2) The Committee shall advise the Secretary with respect to the requirements of organizations or entities offering licensing and certification tests to individuals for which payment for such tests may be made under chapter 30, 32, 33, 34, or 35 of this title, and such other related issues as the Committee determines to be appropriate.
 

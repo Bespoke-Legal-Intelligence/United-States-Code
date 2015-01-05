@@ -14,7 +14,7 @@ Subsection (a) of this section shall apply with respect to an alien until such t
 
 &emsp;(1) achieves United States citizenship through naturalization pursuant to chapter 2 of title III of the Immigration and Nationality Act \[8 U.S.C. 1421 et seq.\]; or
 
-&emsp;(2)(A) has worked 40 qualifying quarters of coverage as defined under title II of the SocialSecurity Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (B) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+&emsp;(2)(A) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (B) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
 
 #### (c) Review of income and resources of alien upon reapplication
 
@@ -58,7 +58,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 Section 213A of the Immigration and Nationality Act (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is section 1183a of this title as added by section 423 of Pub. L. 104–193 and amended by section 551(a) of div. C of Pub. L. 104–208.
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 2 of title III of the Act is classified generally to part II (§1421 et seq.) of subchapter III ofchapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 2 of title III of the Act is classified generally to part II (§1421 et seq.) of subchapter III of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -68,9 +68,9 @@ The Food Stamp Act of 1977, referred to in subsec. (d)(3), subsequently renamed 
 
 <b>2002</b>—Subsec. (d)(3). Pub. L. 107–171 added par. (3).
 
-<b>1997</b>—Subsec. (f)(1)(A). Pub. L. 105–33 struck out “or” before “(ii) the alien's child” and substituted “or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent's spouse, or by a member of the spouse's family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii)” for “and the battery or cruelty described in clause (i) or (ii)”.
+<b>1997</b>—Subsec. (f)(1)(A). Pub. L. 105–33 struck out "or" before "(ii) the alien's child" and substituted "or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent's spouse, or by a member of the spouse's family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii)" for "and the battery or cruelty described in clause (i) or (ii)".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §551(b)(1), inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §551(b)(1), inserted "and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996" after "section 423".
 
 Subsecs. (e), (f). Pub. L. 104–208, §552, added subsecs. (e) and (f).
 

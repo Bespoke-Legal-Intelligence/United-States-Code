@@ -46,31 +46,31 @@ A prior section 3345, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 425; Pub. L. 100
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
 
 #### Effective Date
 
 Pub. L. 105–277, div. C, title I, §151(d), Oct. 21, 1998, 112 Stat. 2681–616, provided that:
 
-“(1)
+"(1)
 
 Effective date.—Subject to paragraph (2), this section \[enacting this section and sections 3346 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under section 3301 of this title\] and the amendments made by this section shall take effect 30 days after the date of enactment of this section \[Oct. 21, 1998\].
 
-“(2)
+"(2)
 
 Application.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—This section shall apply to any office that becomes vacant after the effective date of this section.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Immediate application of time limitation.—Notwithstanding subparagraph (A), for any office vacant on the effective date of this section, the time limitations under section 3346 of title 5, United States Code (as amended by this section) shall apply to such office. Such time limitations shall apply as though such office first became vacant on the effective date of this section.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Certain nominations.—If the President submits to the Senate the nomination of any person after the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section).”
+Certain nominations.—If the President submits to the Senate the nomination of any person after the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section)."
 
 #### Ex. Ord. No. 13472. Executive Branch Responsibilities With Respect To Orders of Succession
 
@@ -82,13 +82,13 @@ Section 1. <i>Policy</i>. It is the policy of the Federal Government to ensure t
 
 Sec. 2. <i>Definitions</i>. As used in this order:
 
-(a) “agency” means:
+(a) "agency" means:
 
 &emsp;(i) an executive agency as defined in section 105 of title 5, United States Code, other than the Government Accountability Office; and
 
 &emsp;(ii) the United States Postal Service and the Postal Regulatory Commission; and
 
-(b) “order of succession” means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in the event that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. “Order of succession” does not include any order, rule, memorandum, or other document delegating or partially delegating the authority of an office.
+(b) "order of succession" means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in the event that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. "Order of succession" does not include any order, rule, memorandum, or other document delegating or partially delegating the authority of an office.
 
 Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
 
@@ -140,7 +140,7 @@ Ex. Ord. No. 11957, Jan. 13, 1977, 42 F.R. 3295, revoked by Ex. Ord. No. 13241, 
 
 Ex. Ord. No. 13613, May 21, 2012, 77 F.R. 31155.
 
-Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, as amended by Ex. Ord. No. 13261, §4(b), Mar. 19, 2002, 67 F.R. 13243, revoked by Ex. Ord. No. 13613, §3, May 21, 2012, 77 F.R. 31155.
+Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, as amended by Ex. Ord. No. 13261, §4(b), Mar. 19, 2002, 67F.R. 13243, revoked by Ex. Ord. No. 13613, §3, May 21, 2012, 77 F.R. 31155.
 
 Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12998, Apr. 5, 1996, 61 F.R. 15873, revoked by Ex. Ord. No. 13242, §4, Dec. 18, 2001, 66 F.R. 66261.
 
@@ -234,7 +234,11 @@ Memorandum of President of the United States, Feb. 9, 2007, 72 F.R. 7343.
 
 #### Federal Emergency Management Agency
 
-Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of theFederal Emergency Management Agency to the Department of Homeland Security.
+Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
+
+#### Federal Mediation and Conciliation Service
+
+Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63803.
 
 #### General Services Administration
 
@@ -298,7 +302,9 @@ Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533, super
 
 #### Social Security Administration
 
-Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845.
+Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805.
+
+Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845, revoked by Memorandum of President of the United States, §3, Oct. 17, 2014, 79 F.R. 63805.
 
 Memorandum of President of the United States, Apr. 17, 2006, 71 F.R. 20333, superseded by Memorandum of President of the United States, §3, Oct. 17, 2008, 73 F.R. 62845.
 

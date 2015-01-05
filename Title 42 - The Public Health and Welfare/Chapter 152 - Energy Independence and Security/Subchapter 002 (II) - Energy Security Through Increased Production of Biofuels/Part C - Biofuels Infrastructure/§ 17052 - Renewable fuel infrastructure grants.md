@@ -40,7 +40,7 @@ For purposes of this section, the term "renewable fuel blend" means a gasoline b
 
 #### (4) Operation of renewable fuel blend stations
 
-&emsp;The Secretary shall establish rules that set forth requirements for grant recipients underthis section that include providing to the public the renewable fuel blends, establishing a marketing plan that informs consumers of the price and availability of the renewable fuel blends, clearly labeling the dispensers and related equipment, and providing periodic reports on the status of the renewable fuel blend sales, the type and amount of the renewable fuel blends dispensed at each location, and the average price of such fuel.
+&emsp;The Secretary shall establish rules that set forth requirements for grant recipients under this section that include providing to the public the renewable fuel blends, establishing a marketing plan that informs consumers of the price and availability of the renewable fuel blends, clearly labeling the dispensers and related equipment, and providing periodic reports on the status of the renewable fuel blend sales, the type and amount of the renewable fuel blends dispensed at each location, and the average price of such fuel.
 
 #### (5) Notification requirements
 

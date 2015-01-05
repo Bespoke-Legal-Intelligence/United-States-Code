@@ -44,7 +44,7 @@ No payments may be made under this part with respect to the expenses of an indiv
 
 Notwithstanding subsection (a) of this section, in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(i)(3) or 1395p(i)(4)(B) of this title—
 
-&emsp;(1) in any month of the special enrollment period in which the individual is at any time enrolled in a plan (specified in subparagraph (A) or (B), as applicable, of section 1395p(i)(3) of this title or specified in section 1395p(i)(4)(A)(i) of this title) or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or,at the option of the individual, on the first day of any of the following three months), or
+&emsp;(1) in any month of the special enrollment period in which the individual is at any time enrolled in a plan (specified in subparagraph (A) or (B), as applicable, of section 1395p(i)(3) of this title or specified in section 1395p(i)(4)(A)(i) of this title) or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or, at the option of the individual, on the first day of any of the following three months), or
 
 &emsp;(2) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
@@ -52,7 +52,7 @@ Notwithstanding subsection (a) of this section, in the case of an individual who
 
 Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(k) of this title, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356; Pub. L. 109–171, title V, §5115(a)(2)(B), Feb. 8, 2006, 120 Stat. 46.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643;Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356; Pub. L. 109–171, title V, §5115(a)(2)(B), Feb. 8, 2006, 120 Stat. 46.)
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Amendment by section 947(b) of Pub. L. 96–499 applicable to notices filed afte
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–603, title II, §257(b), Oct. 30, 1972, 86 Stat. 1447, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to nonpayment of premiums which become due and payable on or after the date of the enactment of this Act \[Oct. 30, 1972\] or which became payable within the 90-day period immediately preceding such date; and for purposes of such amendments any premium which became due and payable within such 90-day period shall be considered a premium becoming due and payable on the date of the enactment of this Act."
+Pub. L. 92–603, title II, §257(b), Oct. 30, 1972, 86 Stat. 1447, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to nonpayment of premiums which become due and payable on or after the date of the enactment ofthis Act \[Oct. 30, 1972\] or which became payable within the 90-day period immediately preceding such date; and for purposes of such amendments any premium which became due and payable within such 90-day period shall be considered a premium becoming due and payable on the date of the enactment of this Act."
 
 #### Effective Date of 1968 Amendment
 

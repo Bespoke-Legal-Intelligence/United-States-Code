@@ -14,7 +14,7 @@
 
 #### (c) Cooperation with Congress
 
-The Secretary is authorized and directed to cooperate with the Congress and its appropriatecommittees, subcommittees, and staff in supplying data and any other information, and personnel and services, required by the Congress in any study, examination, or report by the Congress relating to pension benefit plans established or maintained by States or their political subdivisions.
+The Secretary is authorized and directed to cooperate with the Congress and its appropriate committees, subcommittees, and staff in supplying data and any other information, and personnel and services, required by the Congress in any study, examination, or report by the Congress relating to pension benefit plans established or maintained by States or their political subdivisions.
 
 (Pub. L. 93–406, title I, §513, Sept. 2, 1974, 88 Stat. 896.)
 

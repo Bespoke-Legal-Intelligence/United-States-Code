@@ -2,7 +2,7 @@
 
 #### (a) Definitions
 
-For purposes of this section, the term “explosives detection canine team” means a canine and a canine handler that are trained to detect explosives, radiological materials, chemical, nuclear or biological weapons, or other threats as defined by the Secretary.
+For purposes of this section, the term "explosives detection canine team" means a canine and a canine handler that are trained to detect explosives, radiological materials, chemical, nuclear or biological weapons, or other threats as defined by the Secretary.
 
 #### (b) In general
 
@@ -30,7 +30,7 @@ For purposes of this section, the term “explosives detection canine team” me
 
 #### (1) In general
 
-&emsp;Based on the feasibility in meeting the ongoing demand for quality explosives detectioncanine teams, the Secretary shall establish criteria, including canine training curricula, performance standards, and other requirements approved by the Transportation Security Administration necessary to ensure that explosives detection canine teams trained by nonprofit organizations, universities, and private sector entities are adequately trained and maintained.
+&emsp;Based on the feasibility in meeting the ongoing demand for quality explosives detection canine teams, the Secretary shall establish criteria, including canine training curricula, performance standards, and other requirements approved by the Transportation Security Administration necessary to ensure that explosives detection canine teams trained by nonprofit organizations, universities, and private sector entities are adequately trained and maintained.
 
 #### (2) Expansion
 
@@ -52,7 +52,7 @@ The Secretary shall—
 
 &emsp;(3) encourage, but not require, any transportation facility or system to deploy TSA-certified explosives detection canine teams developed under this section; and
 
-&emsp;(4) consider specific needs and training requirements for explosives detection canine teams to be deployed across the Nation's transportation network, including in venues of multiple modes of transportation, as appropriate.
+&emsp;(4) consider specific needs and training requirements for explosives detection canineteams to be deployed across the Nation's transportation network, including in venues of multiple modes of transportation, as appropriate.
 
 #### (e) Canine procurement
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation may appoint and fix the pay of officers and employees of the Department of Transportation and may prescribe their duties and powers.
 
-(b) The Secretary may procure services under section 3109 of title 5. However, an individualmay be paid not more than $100 a day for services.
+(b) The Secretary may procure services under section 3109 of title 5. However, an individual may be paid not more than $100 a day for services.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2423.)
 

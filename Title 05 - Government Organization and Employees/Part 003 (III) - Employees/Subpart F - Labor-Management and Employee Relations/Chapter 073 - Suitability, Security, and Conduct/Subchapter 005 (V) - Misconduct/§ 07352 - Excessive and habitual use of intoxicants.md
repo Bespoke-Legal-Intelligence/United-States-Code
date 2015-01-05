@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Jan. 16, 1883, ch. 27, §8, 22 Stat. 406.
 
-The word “employed” is substituted for “appointed to, or retained in” because it includes both.
+The word "employed" is substituted for "appointed to, or retained in" because it includes both.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

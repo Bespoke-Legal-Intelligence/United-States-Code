@@ -32,7 +32,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;&emsp;(B) agricultural or horticultural commodities (other than manufactured products thereof);
 
-&emsp;&emsp;(C) commodities listed as exempt in the Commodity List incorporated in ruling numbered 107, March 19, 1958, Bureau of Motor Carriers, Interstate Commerce Commission,other than frozen fruits, frozen berries, frozen vegetables, cocoa beans, coffee beans, tea, bananas, or hemp, or wool imported from a foreign country, wool tops and noils, or wool waste (carded, spun, woven, or knitted);
+&emsp;&emsp;(C) commodities listed as exempt in the Commodity List incorporated in ruling numbered 107, March 19, 1958, Bureau of Motor Carriers, Interstate Commerce Commission, other than frozen fruits, frozen berries, frozen vegetables, cocoa beans, coffee beans, tea, bananas, or hemp, or wool imported from a foreign country, wool tops and noils, or wool waste (carded, spun, woven, or knitted);
 
 &emsp;&emsp;(D) cooked or uncooked fish, whether breaded or not, or frozen or fresh shellfish, or byproducts thereof not intended for human consumption, other than fish or shellfish that have been treated for preserving, such as canned, smoked, pickled, spiced, corned, or kippered products; and
 

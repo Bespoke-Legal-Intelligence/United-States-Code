@@ -12,7 +12,7 @@
 
 (3) An owner may waive a right provided under this subsection, other than a right that is elected by the owner under paragraph (2)(A).
 
-(4) The Secretary may at the discretion of the Secretary permit such election or waiver to bemade after certificating and amend the certificate accordingly, without retroactive effect.
+(4) The Secretary may at the discretion of the Secretary permit such election or waiver to be made after certificating and amend the certificate accordingly, without retroactive effect.
 
 #### (b) Term
 
@@ -46,7 +46,7 @@ Subsec. (a)(1). Pub. L. 103–349, §13(m)(1)(A), which directed the substitutio
 
 Subsec. (a)(2), (3). Pub. L. 103–349, §7(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-"(2) If the owner so elects, the certificate shall also specify that in the United States, seed of the variety shall be sold by variety name only as a class of certified seed and, if specified, shall also conform to the number of generations designated by the owner.
+"(2) If the owner so elects, the certificate shall also specify that in the United States, seed of the varietyshall be sold by variety name only as a class of certified seed and, if specified, shall also conform to the number of generations designated by the owner.
 
 "(3) Any rights, or all rights except those elected under the preceding sentence, may be waived; and the certificate shall conform to such waiver."
 

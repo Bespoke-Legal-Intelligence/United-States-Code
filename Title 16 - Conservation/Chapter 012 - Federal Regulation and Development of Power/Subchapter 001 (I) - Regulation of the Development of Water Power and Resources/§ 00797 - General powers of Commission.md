@@ -12,7 +12,7 @@ To determine the actual legitimate original cost of and the net investment in a 
 
 #### (c) Cooperation with executive departments; information and aid furnished Commission
 
-To cooperate with the executive departments and other agencies of State or National Governments in such investigations; and for such purpose the several departments and agencies of the National Government are authorized and directed upon the request of the Commission, to furnish such records, papers, and information in their possession as may be requested by the Commission, and temporarily to detail to the Commission such officers or experts as may be necessary in such investigations.
+To cooperate with the executive departments and other agencies of State or National Governments in such investigations; and for such purpose the several departments and agencies of the National Government are authorized and directed upon the request of the Commission, tofurnish such records, papers, and information in their possession as may be requested by the Commission, and temporarily to detail to the Commission such officers or experts as may be necessary in such investigations.
 
 #### (d) Publication of information, etc.; reports to Congress
 
@@ -28,7 +28,7 @@ To issue preliminary permits for the purpose of enabling applicants for a licens
 
 #### (g) Investigation of occupancy for developing power; orders
 
-Upon its own motion to order an investigation of any occupancy of, or evidenced intention to occupy, for the purpose of developing electric power, public lands, reservations, or streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States by any person, corporation, State, or municipality and to issue such order as it may find appropriate, expedient, and in the public interest to conserve and utilize the navigation and water-power resources of the region.
+Upon its own motion to order an investigation of any occupancy of, or evidenced intention to occupy, for the purpose of developing electric power, public lands, reservations, or streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States by any person, corporation, State, or municipality and to issue such order as it mayfind appropriate, expedient, and in the public interest to conserve and utilize the navigation and water-power resources of the region.
 
 (June 10, 1920, ch. 285, pt. I, §4, 41 Stat. 1065; June 23, 1930, ch. 572, §2, 46 Stat. 798; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§202, 212, 49 Stat. 839, 847; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 97–375, title II, §212, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–495, §3(a), Oct. 16, 1986, 100 Stat. 1243; Pub. L. 109–58, title II, §241(a), Aug. 8, 2005, 119 Stat. 674.)
 
@@ -50,7 +50,7 @@ Subsec. (e). Act Aug. 26, 1935, §202, redesignated subsec. (d) as (e) and subst
 
 Subsec. (f). Act Aug. 26, 1935, §202, redesignated subsec. (e) as (f) and substituted "once each week for four weeks" for "for eight weeks". Former section (f), which related to the power of the Commission to prescribe regulations for the establishment of a system of accounts and the maintenance thereof, was struck out by act Aug. 26, 1935.
 
-Subsec. (g). Act Aug. 26, 1935, §202, added subsec. (g). Former subsec. (g), which related to the power of theCommission to hold hearings and take testimony by deposition, was struck out.
+Subsec. (g). Act Aug. 26, 1935, §202, added subsec. (g). Former subsec. (g), which related to the power of the Commission to hold hearings and take testimony by deposition, was struck out.
 
 Subsec. (h). Act Aug. 26, 1935, §202, struck out subsec. (h) which related to the power of the Commission to perform any and all acts necessary and proper for the purpose of carrying out the provisions of this chapter.
 
@@ -138,7 +138,7 @@ Pilot projects implemented.—If the Commission develops and implements pilot pr
 
 #### Improvement at Existing Federal Facilities
 
-Pub. L. 102–486, title XXIV, §2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, §6(d)(37), Nov.2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, §1052(h), Dec. 21, 1995, 109 Stat. 718, directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation's principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years after Oct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
+Pub. L. 102–486, title XXIV, §2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, §6(d)(37), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, §1052(h), Dec. 21, 1995, 109 Stat. 718, directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation's principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years after Oct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
 
 #### Water Conservation and Energy Production
 
@@ -170,7 +170,7 @@ Authorization.—There is hereby authorized to be appropriated to the Secretary 
 
 #### Projects on Fresh Waters in State of Hawaii
 
-Pub. L. 102–486, title XXIV, §2408, Oct. 24, 1992, 106 Stat. 3100, directed Federal Energy Regulatory Commission, in consultation with State of Hawaii, to carry out study of hydroelectric licensing in State of Hawaii for purposes of considering whether such licensing should be transferred to State, and directed Commission to complete study and submit report containing results of study to Congress within 18 months after Oct. 24, 1992.
+Pub. L. 102–486, title XXIV, §2408, Oct. 24, 1992, 106 Stat. 3100, directed Federal Energy Regulatory Commission, in consultation with State of Hawaii, to carryout study of hydroelectric licensing in State of Hawaii for purposes of considering whether such licensing should be transferred to State, and directed Commission to complete study and submit report containing results of study to Congress within 18 months after Oct. 24, 1992.
 
 <i><sup>1</sup></i><i> So in original. The colon probably should be a period.</i>
 

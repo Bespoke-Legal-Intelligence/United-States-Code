@@ -38,7 +38,7 @@ A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958,
 
 &emsp;"(3) Dealers.—$200 a year or fraction thereof.
 
-> Except an importer, manufacturer, or dealer who imports, manufactures, or deals in only weapons classifiedas 'any other weapon' under section 5845(e), shall pay a special (occupational) tax for each place of business at the following rates: Importers, $25 a year or fraction thereof; manufacturers, $25 a year or fraction thereof; dealers, $10 a year or fraction thereof."
+> Except an importer, manufacturer, or dealer who imports, manufactures, or deals in only weapons classified as 'any other weapon' under section 5845(e), shall pay a special (occupational) tax for each place of business at the following rates: Importers, $25 a year or fraction thereof; manufacturers, $25 a year or fraction thereof; dealers, $10 a year or fraction thereof."
 
 #### Effective Date of 1987 Amendment
 

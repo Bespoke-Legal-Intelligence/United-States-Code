@@ -18,7 +18,7 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 #### (c) Honey Board; membership; terms; alternates; compensation; powers; duties
 
-(1) The order described in subsection (a) of this section shall provide for the establishment and appointment by the Secretary of a Honey Board in accordance with this subsection.
+(1) The order described in subsection (a) shall provide for the establishment and appointment by the Secretary of a Honey Board in accordance with this subsection.
 
 (2) The membership of the Honey Board shall consist of—
 
@@ -258,7 +258,7 @@ The Honey Board shall prepare and submit to the Secretary, for the Secretary's a
 
 (1)
 
-In general.—The Honey Board shall administer collection of the assessment provided for in this subsection, and may accept voluntary contributions from other sources, to finance the expenses described in subsections (d) and (f) of this section.
+In general.—The Honey Board shall administer collection of the assessment provided for in this subsection, and may accept voluntary contributions from other sources, to finance the expenses described in subsections (d) and (f).
 
 (2)
 
@@ -296,7 +296,7 @@ Small quantities.—
 
 &emsp;(i)
 
-In general.—A producer, producer-packer, handler, or importer that produces, imports, or handles during a year less than 6,000 pounds of honey or honey products shall be exempt in that year from payment of an assessment on honey or honey products that the person distributes directly through local retail outlets, as determined by the Secretary, during that year.
+In general.—A producer, producer-packer, handler, or importer that produces, imports, or handles during a year less than 6,000pounds of honey or honey products shall be exempt in that year from payment of an assessment on honey or honey products that the person distributes directly through local retail outlets, as determined by the Secretary, during that year.
 
 &emsp;(ii)
 
@@ -312,7 +312,7 @@ Inapplicability.—If a person no longer meets the requirements of clause (i) fo
 
 #### (1) Use
 
-&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
+&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d), such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
 
 #### (2) Research projects
 
@@ -362,7 +362,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (c)(12). Pub. L. 110–246, §10401, added par. (12).
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted "except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary" for "except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms".
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted "except that the term of appointments to theCommittee may be staggered periodically, as determined by the Secretary" for "except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms".
 
 Subsec. (b)(5). Pub. L. 105–185, §605(f)(1)(B), struck out "after the first annual meeting" after "except that" in second sentence and substituted "percent" for "per centum" in third sentence.
 

@@ -14,7 +14,7 @@
 
 #### Prior Provisions
 
-A prior chapter 148, comprised of section 2501 et seq., relating to defense industrial base, was repealed, except for sections 2504 to 2507, by Pub. L. 102–484, div. D, title XLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659. Sections 2504 to 2507 of that chapter were renumbered sections 2531 to 2534, respectively, of this chapter by Pub. L. 102–484, §4202(a).
+A prior chapter 148, comprised of section 2501 et seq., relating to defense industrial base, was repealed, except for sections 2504 to 2507, by Pub. L. 102–484, div. D, titleXLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659. Sections 2504 to 2507 of that chapter were renumbered sections 2531 to 2534, respectively, of this chapter by Pub. L. 102–484, §4202(a).
 
 #### Amendments
 

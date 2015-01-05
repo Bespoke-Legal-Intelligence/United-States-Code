@@ -38,7 +38,7 @@ In this section:
 
 #### (1) Allocation
 
-&emsp;The Secretary shall allocate a credit to a fleet or covered person that is required to acquire an alternative fueled vehicle under this subchapter, if that fleet or person acquires an alternative fueled vehicle in excess of the number that fleet or person is required to acquire under this subchapter or acquires an alternative fueled vehicle before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter.
+&emsp;The Secretary shall allocate a credit to a fleet or covered person that is required to acquire an alternative fueled vehicle under this subchapter, if that fleet or person acquires an alternative fueled vehicle in excess of the number that fleet or person is required to acquire under this subchapter or acquires an alternative fueled vehicle before the date thatfleet or person is required to acquire an alternative fueled vehicle under such subchapter.
 
 #### (2) Electric vehicles
 
@@ -78,7 +78,7 @@ At the request of a fleet or covered person allocated a credit under this sectio
 
 #### (e) Transferability
 
-A fleet or covered person allocated a credit under this section or to whom a credit is transferred under this section, may transfer freely the credit to another fleet or person who is required to comply with this subchapter. At the request of the fleet or person to whom a credit is transferred, the Secretary shall treat the transferred credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by the fleet or person to whom the credit is transferred when determining whether that fleet or person has complied with this subchapter in the year designated. A transferred credit may becounted toward compliance for only one year. In the case of the alternative fuel provider program under section 13251 of this title, a transferred credit may be counted toward compliance only if the requirement of section 13251(a)(4) of this title is met.
+A fleet or covered person allocated a credit under this section or to whom a credit is transferred under this section, may transfer freely the credit to another fleet or person who is required to comply with this subchapter. At the request of the fleet or person to whom a credit is transferred, the Secretary shall treat the transferred credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by the fleet or person to whom the credit is transferred when determining whether that fleet or person has complied with this subchapter in the year designated. A transferred credit may be counted toward compliance for only one year. In the case of the alternative fuel provider program under section 13251 of this title, a transferred credit may be counted toward compliance only if the requirement of section 13251(a)(4) of this title is met.
 
 #### (f) Authorization of appropriations
 

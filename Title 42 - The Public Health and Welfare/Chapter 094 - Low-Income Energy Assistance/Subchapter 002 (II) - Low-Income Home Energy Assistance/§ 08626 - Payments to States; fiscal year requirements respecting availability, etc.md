@@ -18,7 +18,7 @@
 
 &emsp;(C) the State does not request, under paragraph (2), that such amount be held available for such State for the following fiscal year;
 
-> then such amount shall be treated by the Secretary for purposes of this subchapter as an amount appropriated for the following fiscal year to be allotted under section 8623 of this title for such following fiscal year.
+> then such amount shall be treated by the Secretary for purposes of this subchapter as an amount appropriated for the following fiscalyear to be allotted under section 8623 of this title for such following fiscal year.
 
 (2)(A) Any State may request that an amount allotted to such State for a fiscal year be held available for such State for the following fiscal year. Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year. Any amount so held available for the following fiscal year shall not be taken into account in computing the allotment of or the amount payable to such State for such fiscal year under this subchapter.
 

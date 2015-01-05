@@ -26,7 +26,7 @@ Operation of Vessels.—
 
 &emsp;(1)
 
-In general.—If the court is unwilling to allow the trustee or receiver to operate the vessel in foreign commerce without financial aid from the Government pending termination of the proceeding, and the Secretary certifies to the court that the continued operation of the vessel is essential to the foreign commerce of the United States and is reasonably calculated to carry out the purposes of this subtitle, the court may allow the Secretary to operate the vessel, either directly or through a managing agent or operator employed by the Secretary. The Secretary must agree to comply with terms imposed by the court sufficient to protect the parties in interest. The Secretary also must agree to pay all operating losses resulting from the operation. The operation shall be for the account of the trustee or receiver.
+In general.—If the court is unwilling to allow the trustee or receiver to operate the vessel in foreign commerce without financialaid from the Government pending termination of the proceeding, and the Secretary certifies to the court that the continued operation of the vessel is essential to the foreign commerce of the United States and is reasonably calculated to carry out the purposes of this subtitle, the court may allow the Secretary to operate the vessel, either directly or through a managing agent or operator employed by the Secretary. The Secretary must agree to comply with terms imposed by the court sufficient to protect the parties in interest. The Secretary also must agree to pay all operating losses resulting from the operation. The operation shall be for the account of the trustee or receiver.
 
 &emsp;(2)
 

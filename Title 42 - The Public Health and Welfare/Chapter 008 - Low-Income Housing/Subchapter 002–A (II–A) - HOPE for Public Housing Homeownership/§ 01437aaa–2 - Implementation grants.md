@@ -82,7 +82,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(D) a description of the proposed homeownership program, consistent with section 1437aaa–3 of this title and the other requirements of this subchapter, which shall specify the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating that the program will comply with the affordability requirements under section 1437aaa–3(b) of this title;
 
-&emsp;&emsp;(E) identification and description of the public housing project or projects involved,and a description of the composition of the tenants, including family size and income;
+&emsp;&emsp;(E) identification and description of the public housing project or projects involved, and a description of the composition of the tenants, including family size and income;
 
 &emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
 
@@ -112,7 +112,7 @@ The Secretary shall establish selection criteria for a national competition for 
 
 &emsp;(4) the quality and viability of the proposed homeownership program, including the viability of the economic self-sufficiency plan;
 
-&emsp;(5) the extent to which funds for activities that do not qualify as eligible activities will be provided in support of the homeownership program;
+&emsp;(5) the extent to which funds for activities that do not qualify as eligible activities willbe provided in support of the homeownership program;
 
 &emsp;(6) whether the approved comprehensive housing affordability strategy for the jurisdiction within which the public housing project is located includes the proposed homeownership program as one of the general priorities identified pursuant to section 105(b)(7) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12705(b)(7)\];
 

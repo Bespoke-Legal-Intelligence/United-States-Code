@@ -28,7 +28,7 @@ General permitted uses.—Funds available to the Attorney General (i.e., all fun
 
 &emsp;&emsp;(C) Services of experts and consultants, including private counsel, as authorized by section 3109 of title 5, and at rates of pay for individuals not to exceed the maximum daily rate payable from time to time under section 5332 of title 5.
 
-&emsp;&emsp;(D) Official reception and representation expenses (i.e., official expenses of a social nature intended in whole or in predominant part to promote goodwill toward the Department or its missions, but excluding expensesof public tours of facilities of the Department of Justice), in accordance with distributions and procedures established, and rules issued, by the Attorney General, and expenses of public tours of facilities of the Department of Justice.
+&emsp;&emsp;(D) Official reception and representation expenses (i.e., official expenses of a social nature intended in whole or in predominant part to promote goodwill toward the Department or its missions, but excluding expenses of public tours of facilities of the Department of Justice), in accordance with distributions and procedures established, and rules issued, by the Attorney General, and expenses of public tours of facilities of the Department of Justice.
 
 &emsp;&emsp;(E) Unforeseen emergencies of a confidential character, to be expended under the direction of the Attorney General and accounted for solely on the certificate of the Attorney General.
 
@@ -96,7 +96,7 @@ Purchase of ammunition and firearms; firearms competitions.—Funds available to
 
 &emsp;&emsp;(C)
 
-Construction.—Funds available to the Attorney General for construction may beused for expenses of planning, designing, acquiring, building, constructing, activating, renovating, converting, expanding, extending, remodeling, equipping, repairing, or maintaining buildings or facilities, including the expenses of acquisition of sites therefor, and all necessary expenses incident or related thereto; but the foregoing shall not be construed to mean that funds generally available for salaries and expenses are not also available for certain incidental or minor construction, activation, remodeling, maintenance, and other related construction costs.
+Construction.—Funds available to the Attorney General for construction may be used for expenses of planning, designing, acquiring, building, constructing, activating, renovating, converting, expanding, extending, remodeling, equipping, repairing, or maintaining buildings or facilities, including the expenses of acquisition of sites therefor, and all necessary expenses incident or related thereto; but the foregoing shall not be construed to mean that funds generally available for salaries and expenses are not also available for certain incidental or minor construction, activation, remodeling, maintenance, and other related construction costs.
 
 &emsp;(3)
 
@@ -164,7 +164,7 @@ Railroad Police Training Fees.—The Attorney General is authorized to establish
 
 (f)
 
-Warranty Work.—In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenanceor repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
+Warranty Work.—In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenance or repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
 
 (Added Pub. L. 107–273, div. A, title II, §201(a), Nov. 2, 2002, 116 Stat. 1767; amended Pub. L. 108–199, div. B, title I, Jan. 23, 2004, 118 Stat. 53; Pub. L. 112–265, §2(a), Jan. 14, 2013, 126 Stat. 2435.)
 
@@ -198,7 +198,7 @@ Federal Training Facilities.—Unless authorized in writing by the Attorney Gene
 
 "(b)
 
-Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization."
+Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include anexplanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(ii)".</i>
 

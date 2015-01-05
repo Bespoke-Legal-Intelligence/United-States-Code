@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### Amendment of Subsection (b)(2)
 
-<i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United</i><i>States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting "and special areas," after "exclusive economic zone".</i>
+<i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting "and special areas," after "exclusive economic zone".</i>
 
 #### References in Text
 
@@ -178,7 +178,7 @@ Pub. L. 104–297, §115(a)(1), which directed substitution of "Guam or any" for
 
 Subsec. (e)(1). Pub. L. 104–297, §115(b)(1), substituted "marine resource law" for "fishery resource law" in introductory provisions and in subpars. (A) and (B).
 
-Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted "of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount," after "reward".
+Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted "of not less than 20 percent of the penalty collected or$20,000, whichever is the lesser amount," after "reward".
 
 Subsec. (e)(1)(E). Pub. L. 104–297, §115(b)(3), added subpar. (E) and struck out former subpar. (E) which read as follows: "claims of parties in interest to property disposed of under section 1612(b) of title 19 or under other provisions of the customs laws, as made applicable by section 1860(c) of this title to seizures made by the Secretary under this chapter, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and".
 

@@ -64,7 +64,7 @@ To the extent that a water right has been established or acquired by the United 
 
 &emsp;(B)
 
-Use.—Except as provided in the memorandum of water service agreement and thewater service agreement between the Cabeza de Vaca Land and Cattle Company, LLC, and Baca Grande Water and Sanitation District, dated August 28, 1997, water rights and water resources described in subparagraph (A) shall be restricted for use in—
+Use.—Except as provided in the memorandum of water service agreement and the water service agreement between the Cabeza de Vaca Land and Cattle Company, LLC, and Baca Grande Water and Sanitation District, dated August 28, 1997, water rights and water resources described in subparagraph (A) shall be restricted for use in—
 
 &emsp;&emsp;(i) the protection of resources and values for the national monument, the national park, the preserve, or the wildlife refuge;
 

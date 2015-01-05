@@ -24,7 +24,7 @@ The Director for Emergency Communications shall ensure that a grant awarded to a
 
 #### (d) Use of funds
 
-A State that receives a grant under this section shall use the grant to implement that State's Statewide Interoperability Plan required under section 194(f) of this title and approved under subsection (e), and to assist with activities determined by the Secretary to be integral to interoperable emergency communications.
+A State that receives a grant under this section shall use the grant to implement thatState's Statewide Interoperability Plan required under section 194(f) of this title and approved under subsection (e), and to assist with activities determined by the Secretary to be integral to interoperable emergency communications.
 
 #### (e) Approval of plans
 
@@ -124,7 +124,7 @@ Each State that receives a grant under this section shall certify that the grant
 
 #### (1) Availability of funds to local and tribal governments
 
-&emsp;Not later than 45 days after receiving grant funds, any State that receives a grant under this section shall obligate or otherwise make available to local and tribal governments—
+&emsp;Not later than 45 days after receiving grant funds, any State that receives a grant underthis section shall obligate or otherwise make available to local and tribal governments—
 
 &emsp;&emsp;(A) not less than 80 percent of the grant funds;
 

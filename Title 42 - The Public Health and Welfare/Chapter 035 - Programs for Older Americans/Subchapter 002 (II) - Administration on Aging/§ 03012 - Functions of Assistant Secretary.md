@@ -4,7 +4,7 @@
 
 It shall be the duty and function of the Administration to—
 
-&emsp;(1) serve as the effective and visible advocate for older individuals within the Department ofHealth and Human Services and with other departments, agencies, and instrumentalities of the Federal Government by maintaining active review and commenting responsibilities over all Federal policies affecting older individuals;
+&emsp;(1) serve as the effective and visible advocate for older individuals within the Department of Health and Human Services and with other departments, agencies, and instrumentalities of the Federal Government by maintaining active review and commenting responsibilities over all Federal policies affecting older individuals;
 
 &emsp;(2) collect and disseminate information related to problems of the aged and aging;
 
@@ -254,7 +254,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;&emsp;(III) data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
 
-&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
+&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected onthe functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
 
 &emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 
@@ -384,7 +384,7 @@ Subsec. (a)(24). Pub. L. 106–501, §201(1)(G), added par. (24) and struck out 
 
 "(24)(A) conduct a study to determine ways in which Federal funds might be more effectively targeted to low-income minority older individuals, and older individuals residing in rural areas, to better meet the needs of States with a disproportionate number of older individuals with greatest economic need and older individuals with greatest social need;
 
-"(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter, using the most recent estimates of the population of older individuals; and
+"(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter,using the most recent estimates of the population of older individuals; and
 
 "(C) not later than January 1, 1995, submit a report containing the findings resulting from the studies described in subparagraphs (A) and (B) to the Speaker of the House of Representatives and the President pro tempore of the Senate;".
 
@@ -500,7 +500,7 @@ Subsec. (a)(2). Pub. L. 97–115, §2(b)(3), substituted "collect and disseminat
 
 Subsec. (a)(5). Pub. L. 97–115, §§2(b)(4), 3(d), substituted "supportive services" for "social services" and "hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing" for "hospitalization, preretirement training, continuing education, low-cost transportation and housing".
 
-Subsec. (a)(8). Pub. L. 97–115, §2(b)(5), inserted provisions authorizing and directing Administration to takewhatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to collection, preparation, and dissemination of information relevant to older individuals.
+Subsec. (a)(8). Pub. L. 97–115, §2(b)(5), inserted provisions authorizing and directing Administration to take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to collection, preparation, and dissemination of information relevant to older individuals.
 
 Subsec. (a)(12), (16). Pub. L. 97–115, §2(b)(6), (7), substituted "private organizations" for "nonprofit private organizations".
 

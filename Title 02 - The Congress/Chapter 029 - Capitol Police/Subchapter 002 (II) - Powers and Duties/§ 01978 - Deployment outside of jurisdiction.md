@@ -10,7 +10,7 @@ The Chief of the Capitol Police may not deploy any officer outside of the areas 
 
 #### (b) Exception for certain services
 
-Subsection (a) of this section does not apply with respect to the deployment of any officer for any of the following purposes:
+Subsection (a) does not apply with respect to the deployment of any officer for any of the following purposes:
 
 &emsp;(1) Responding to an imminent threat or emergency.
 
@@ -30,5 +30,5 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–145 substituted “prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and” for “prior notification to”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–145 substituted "prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and" for "prior notification to".
 

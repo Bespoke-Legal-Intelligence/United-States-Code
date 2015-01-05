@@ -22,7 +22,7 @@ Pub. L. 108–458, title VIII, §8402, Dec. 17, 2004, 118 Stat. 3869, provided t
 
 "(a)
 
-Enterprise Architecture Defined.—In this section, the term 'enterprise architecture' means a detailed outline or blueprint of the information technology of the Federal Bureau of Investigation that will satisfy the ongoing mission and goals of the FederalBureau of Investigation and that sets forth specific and identifiable benchmarks.
+Enterprise Architecture Defined.—In this section, the term 'enterprise architecture' means a detailed outline or blueprint of the information technology of the Federal Bureau of Investigation that will satisfy the ongoing mission and goals of the Federal Bureau of Investigation and that sets forth specific and identifiable benchmarks.
 
 "(b)
 
@@ -92,7 +92,7 @@ Appointment of Personnel to the CASMIRC.—
 
 &emsp;"(1)
 
-Selection of members of the casmirc and participating state and local law enforcement personnel.—The Director of the Federal Bureau of Investigation shall appoint the members of the CASMIRC. The CASMIRC shall be staffed with Federal Bureau of Investigation personnel and other necessary personnel selected for their expertise that would enable them to assist in the research, data collection, and analysis, and provision of investigativesupport in child abduction, mysterious disappearances of children, child homicide and serial murder investigations. The Director may, with concurrence of the appropriate State or local agency, also appoint State and local law enforcement personnel to work with the CASMIRC.
+Selection of members of the casmirc and participating state and local law enforcement personnel.—The Director of the Federal Bureau of Investigation shall appoint the members of the CASMIRC. The CASMIRC shall be staffed with Federal Bureau of Investigation personnel and other necessary personnel selected for their expertise that would enable them to assist in the research, data collection, and analysis, and provision of investigative support in child abduction, mysterious disappearances of children, child homicide and serial murder investigations. The Director may, with concurrence of the appropriate State or local agency, also appoint State and local law enforcement personnel to work with the CASMIRC.
 
 &emsp;"(2)
 

@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 100–647, §6236(e)(1), added subsec. (c). Former subsec. 
 
 Subsec. (d). Pub. L. 100–647, §6236(e)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 100–647, §1015(t)(1), inserted "and any other person" after "delinquent taxpayer" and struck out sentence at end providing that in the case of a levywhich is satisfied pursuant to subsection (b), such organization shall also be discharged from any obligation or liability to any beneficiary arising from such surrender or payment.
+Pub. L. 100–647, §1015(t)(1), inserted "and any other person" after "delinquent taxpayer" and struck out sentence at end providing that in the case of a levy which is satisfied pursuant to subsection (b), such organization shall also be discharged from any obligation or liability to any beneficiary arising from such surrender or payment.
 
 Subsec. (e). Pub. L. 100–647, §6236(e)(1), (2)(B), redesignated subsec. (d) as (e) and substituted "subsection (d)(1)" for "subsection (c)(1)". Former subsec. (e) redesignated (f).
 

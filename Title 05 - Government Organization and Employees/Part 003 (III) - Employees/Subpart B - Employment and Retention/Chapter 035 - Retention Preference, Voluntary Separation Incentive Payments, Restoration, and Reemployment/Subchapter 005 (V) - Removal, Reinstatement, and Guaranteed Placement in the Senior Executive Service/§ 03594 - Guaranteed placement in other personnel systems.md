@@ -34,15 +34,15 @@ GS–15 of the General Schedule, referred to in subsec. (c)(1)(A), is set out un
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–296, §1321(a)(2)(C)(i), inserted “or” at end.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–296, §1321(a)(2)(C)(i), inserted "or" at end.
 
-Subsec. (b)(2). Pub. L. 107–296, §1321(a)(2)(C)(ii), struck out “or” at end.
+Subsec. (b)(2). Pub. L. 107–296, §1321(a)(2)(C)(ii), struck out "or" at end.
 
-Subsec. (b)(3). Pub. L. 107–296, §1321(a)(2)(C)(iii), struck out par. (3) which read as follows: “is removed from the Senior Executive Service for failure to be recertified under section 3393a;”.
+Subsec. (b)(3). Pub. L. 107–296, §1321(a)(2)(C)(iii), struck out par. (3) which read as follows: "is removed from the Senior Executive Service for failure to be recertified under section 3393a;".
 
-<b>1992</b>—Subsec. (c)(1)(A). Pub. L. 102–378 substituted “section 5108,” for “section 5108,,”.
+<b>1992</b>—Subsec. (c)(1)(A). Pub. L. 102–378 substituted "section 5108," for "section 5108,,".
 
-<b>1990</b>—Subsec. (c)(1)(A). Pub. L. 101–509 substituted “at GS–15 of the General Schedule or classified above GS–15 pursuant to section 5108,” for “at GS–15 or above of the General Schedule”.
+<b>1990</b>—Subsec. (c)(1)(A). Pub. L. 101–509 substituted "at GS–15 of the General Schedule or classified above GS–15 pursuant to section 5108," for "at GS–15 or above of the General Schedule".
 
 <b>1989</b>—Subsec. (b)(3). Pub. L. 101–194 added par. (3).
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, seesection 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 

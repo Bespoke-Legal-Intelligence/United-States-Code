@@ -16,7 +16,7 @@ In carrying out the teacher training programs described in section 7267b(b)(2)(A
 
 In carrying out the activities assisted under this subpart, the grantee and recipients are strongly encouraged to—
 
-&emsp;(1) include interactions with the local business community to the fullest extent possible to reinforce the connection between economicand financial literacy and economic development; and
+&emsp;(1) include interactions with the local business community to the fullest extent possible to reinforce the connection between economic and financial literacy and economic development; and
 
 &emsp;(2) work with private businesses to obtain matching contributions for Federal funds and assist recipients in working toward self-sufficiency.
 

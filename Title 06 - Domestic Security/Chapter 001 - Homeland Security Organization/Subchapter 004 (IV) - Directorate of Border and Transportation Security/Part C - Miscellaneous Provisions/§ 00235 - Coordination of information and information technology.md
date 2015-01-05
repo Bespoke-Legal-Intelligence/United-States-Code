@@ -2,7 +2,7 @@
 
 #### (a) Definition of affected agency
 
-In this section, the term “affected agency” means—
+In this section, the term "affected agency" means—
 
 &emsp;(1) the Department;
 

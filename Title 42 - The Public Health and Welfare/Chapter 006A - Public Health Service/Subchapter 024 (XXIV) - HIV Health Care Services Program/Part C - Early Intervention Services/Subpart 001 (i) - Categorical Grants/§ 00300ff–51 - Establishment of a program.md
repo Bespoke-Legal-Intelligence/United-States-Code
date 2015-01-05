@@ -100,7 +100,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 &emsp;&emsp;(A) to entities receiving amounts under part A or B for the provision of such services;
 
-&emsp;&emsp;(B) to biomedical research facilities of institutions of higher education that offer experimental treatment for such disease, or to community-based organizations or other entities that provide such treatment; or
+&emsp;&emsp;(B) to biomedical research facilities of institutions of higher education that offerexperimental treatment for such disease, or to community-based organizations or other entities that provide such treatment; or
 
 &emsp;&emsp;(C) to grantees under section 300ff–71 of this title, in the case of a pregnant woman.
 

@@ -26,7 +26,7 @@ A grant made under this section shall be used—
 
 &emsp;(2) to provide for the certification of biobased products to—
 
-&emsp;&emsp;(A) qualify for the label described in section 8102(h)(1) of title 7; or
+&emsp;&emsp;(A) qualify for the label described in section 8102(b) of title 7; or
 
 &emsp;&emsp;(B) meet other biobased standards determined appropriate by the Secretary.
 
@@ -56,5 +56,9 @@ There are authorized to be appropriated to make grants under this section—
 
 &emsp;(2) such sums as are necessary for each of fiscal years 2007 through 2015.
 
-(Pub. L. 109–58, title IX, §944, Aug. 8, 2005, 119 Stat. 881.)
+(Pub. L. 109–58, title IX, §944, Aug. 8, 2005, 119 Stat. 881; Pub. L. 113–79, title IX, §9002(b), Feb. 7, 2014, 128 Stat. 928.)
+
+#### Amendments
+
+<b>2014</b>—Subsec. (c)(2)(A). Pub. L. 113–79 substituted "section 8102(b)" for "section 8102(h)(1)".
 

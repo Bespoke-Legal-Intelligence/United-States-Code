@@ -46,7 +46,7 @@ The Director—
 
 &emsp;(3) shall coordinate and oversee the implementation by the National Drug Control Program agencies of the policies, goals, objectives, and priorities established under paragraph (1) and the fulfillment of the responsibilities of such agencies under the National Drug Control Strategy and make recommendations to National Drug Control Program agency heads with respect to implementation of Federal counter-drug programs;
 
-&emsp;(4) shall make such recommendations to the President as the Director determines are appropriate regarding changes in the organization, management, and budgets of National Drug Control Program agencies, and changes in the allocation of personnel to and within those departments and agencies, to implement the policies, goals, priorities, and objectives established under paragraph (1) and the National Drug Control Strategy;
+&emsp;(4) shall make such recommendations to the President as the Director determines are appropriate regarding changes in the organization, management, and budgets of National Drug Control Program agencies, and changes in the allocation of personnel to and withinthose departments and agencies, to implement the policies, goals, priorities, and objectives established under paragraph (1) and the National Drug Control Strategy;
 
 &emsp;(5) shall consult with and assist State and local governments with respect to the formulation and implementation of National Drug Control Policy and their relations with the National Drug Control Program agencies;
 
@@ -56,7 +56,7 @@ The Director—
 
 &emsp;(8) shall provide, by July 1 of each year, budget recommendations, including requests for specific initiatives that are consistent with the priorities of the President under the National Drug Control Strategy, to the heads of departments and agencies with responsibilities under the National Drug Control Program, which recommendations shall—
 
-&emsp;&emsp;(A) apply to the next budget year scheduled for formulation under chapter 11 of title31, and each of the 4 subsequent fiscal years; and
+&emsp;&emsp;(A) apply to the next budget year scheduled for formulation under chapter 11 of title 31, and each of the 4 subsequent fiscal years; and
 
 &emsp;&emsp;(B) address funding priorities developed in the National Drug Control Strategy;
 
@@ -110,7 +110,7 @@ The Director—
 
 &emsp;(19) shall submit an annual report to Congress detailing how the Office of National Drug Control Policy has consulted with and assisted State, local, and tribal governments with respect to the formulation and implementation of the National Drug Control Strategy and other relevant issues; and
 
-&emsp;(20) shall, within 1 year after December 29, 2006, report to Congress on the impact of each Federal drug reduction strategy upon the availability, addiction rate, use rate, and other harms of illegal drugs.
+&emsp;(20) shall, within 1 year after December 29, 2006, report to Congress on the impact of eachFederal drug reduction strategy upon the availability, addiction rate, use rate, and other harms of illegal drugs.
 
 #### (c) National Drug Control Program budget
 
@@ -238,7 +238,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 &emsp;(3) use for administrative purposes, on a reimbursable basis, the available services, equipment, personnel, and facilities of Federal, State, and local agencies;
 
-&emsp;(4) procure the services of experts and consultants in accordance with section 3109 of title 5, relating to appointments in the Federal Service, at rates of compensation for individuals not to exceed the daily equivalent of the rate of pay payable under level IV of the Executive Schedule under section 5311 of title 5;
+&emsp;(4) procure the services of experts and consultants in accordance with section 3109 oftitle 5, relating to appointments in the Federal Service, at rates of compensation for individuals not to exceed the daily equivalent of the rate of pay payable under level IV of the Executive Schedule under section 5311 of title 5;
 
 &emsp;(5) accept and use gifts and donations of property from Federal, State, and local government agencies, and from the private sector, as authorized in section 1702(d) of this title;
 
@@ -470,7 +470,7 @@ General Provisions. (a) Because the United States considers the operations of in
 
 Sec. 2.
 
-Goals, Direction, Duties and Responsibilities with Respect to the National Drug ControlProgram. (a) <i>Budget Matters</i>. (1) In addition to the budgetary authorities and responsibilities provided to the Director by statute, \[former\] 21 U.S.C. 1502, for those agency budget requests that are not certified as adequate to implement the objectives of the National Drug Control Strategy, the Director shall include in such certifications initiatives or funding levels that would make such requests adequate.
+Goals, Direction, Duties and Responsibilities with Respect to the National Drug Control Program. (a) <i>Budget Matters</i>. (1) In addition to the budgetary authorities and responsibilities provided to the Director by statute, \[former\] 21 U.S.C. 1502, for those agency budget requests that are not certified as adequate to implement the objectives of the National Drug Control Strategy, the Director shall include in such certifications initiatives or funding levels that would make such requests adequate.
 
 (2) The Director shall provide, by July 1 of each year, budget recommendations to the heads of departments and agencies with responsibilities under the National Drug Control Program. The recommendations shall apply to the second following fiscal year and address funding priorities developed in the annual National Drug Control Strategy.
 

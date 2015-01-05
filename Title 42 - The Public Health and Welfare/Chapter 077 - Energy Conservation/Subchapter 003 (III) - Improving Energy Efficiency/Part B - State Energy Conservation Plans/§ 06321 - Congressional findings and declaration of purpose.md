@@ -18,5 +18,5 @@
 
 #### Report on Coordination of Energy Conservation Programs
 
-Pub. L. 95–619, title VI, §623, Nov. 9, 1978, 92 Stat. 3283, provided that not later than 6 months after Nov. 9, 1978, the Secretary of Energy submit a report on the coordination of Federal energy conservation programs involving State and local government.
+Pub. L. 95–619, title VI, §623, Nov. 9, 1978, 92 Stat. 3283, provided that not later than 6 months after Nov. 9, 1978,the Secretary of Energy submit a report on the coordination of Federal energy conservation programs involving State and local government.
 

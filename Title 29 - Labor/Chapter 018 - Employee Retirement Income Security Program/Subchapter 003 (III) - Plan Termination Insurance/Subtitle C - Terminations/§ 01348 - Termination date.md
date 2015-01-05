@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–272 in provisions preceding par. (1) substituted "termination date" for "date of termination", redesignated pars. (1) to (3) as (2) to (4), respectively, added par. (1), in par. (2), as so redesignated, inserted "in a distress termination" after "terminated" and substituted "section 1341(c)" for "section 1341", and in par. (4), as so redesignated, substituted "under section 1341(c) or 1342 of this title" for "in accordance with the provisions of either section".
+<b>1986</b>—Subsec. (a). Pub. L. 99–272 in provisions preceding par. (1) substituted "termination date" for "date oftermination", redesignated pars. (1) to (3) as (2) to (4), respectively, added par. (1), in par. (2), as so redesignated, inserted "in a distress termination" after "terminated" and substituted "section 1341(c)" for "section 1341", and in par. (4), as so redesignated, substituted "under section 1341(c) or 1342 of this title" for "in accordance with the provisions of either section".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364, §402(a)(8)(A), (B), designated existing provisions as subsec. (a), and inserted applicability to a single-employer plan.
 

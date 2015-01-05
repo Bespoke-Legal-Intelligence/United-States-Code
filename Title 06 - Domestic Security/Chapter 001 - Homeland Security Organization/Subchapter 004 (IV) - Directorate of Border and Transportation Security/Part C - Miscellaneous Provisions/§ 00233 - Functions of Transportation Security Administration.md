@@ -12,7 +12,7 @@ Not later than 60 days after November 25, 2002, the Secretary of Transportation 
 
 #### (1) Grant of authority
 
-&emsp;Nothing in this chapter may be construed to vest in the Secretary or any other official in the Department any authority over transportation security that is not vested in the Under Secretary of Transportation for Security, or in the Secretary of Transportation under chapter 449 of title 49 on the day before November 25, 2002.
+&emsp;Nothing in this chapter may be construed to vest in the Secretary or any other official inthe Department any authority over transportation security that is not vested in the Under Secretary of Transportation for Security, or in the Secretary of Transportation under chapter 449 of title 49 on the day before November 25, 2002.
 
 #### (2) Obligation of AIP funds
 
@@ -22,5 +22,5 @@ Not later than 60 days after November 25, 2002, the Secretary of Transportation 
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland SecurityAct of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 

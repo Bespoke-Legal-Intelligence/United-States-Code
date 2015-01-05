@@ -28,7 +28,7 @@ Effect of Nonselection.—An officer who is considered for promotion under this 
 
 Special Rule for Officers Failed of Selection.—A reserve officer of the Army or the Air Force who is considered as failed of selection for promotion under section 14501 of this title to a grade may be considered for promotion under this section or, if selected, promoted to that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill the vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, §1501(b)(25), Feb. 10,1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, §514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title V, §501\], Oct. 30, 2000, 114 Stat. 1654, 1654A–98; Pub. L. 108–136, div. A, title V, §512(b), Nov. 24, 2003, 117 Stat. 1460.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, §1501(b)(25), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, §514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title V, §501\], Oct. 30, 2000, 114 Stat. 1654, 1654A–98; Pub. L. 108–136, div. A, title V, §512(b), Nov. 24, 2003, 117 Stat. 1460.)
 
 #### Prior Provisions
 

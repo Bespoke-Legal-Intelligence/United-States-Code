@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section, the park shall include the
 
 > All of the aforementioned boundary changes if accomplished shall be accomplished such that the boundary of the park shall conform to that generally depicted on the drawing entitled "Boundary, Voyageurs National Park, United States Department of the Interior, National Park Service", numbered 172–80, 008–MWR, and dated November 1981, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
-(2) The Secretary may not delete or convey the lands referred to in paragraph (1)(E) unless, prior to or simultaneously with such deletion or conveyance and in consideration of such conveyance, the State of Minnesota—
+(2) The Secretary may not delete or convey the lands referred to in paragraph (1)(E) unless,prior to or simultaneously with such deletion or conveyance and in consideration of such conveyance, the State of Minnesota—
 
 &emsp;(A) tenders a conveyance of the lands described in paragraph (1)(C) and (D) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: <i>Provided</i>, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: <i>Provided further</i>, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land described in paragraph 1(E) <sup>1</sup> shall revert to the United States for administration by the Secretary as part of the park; and
 

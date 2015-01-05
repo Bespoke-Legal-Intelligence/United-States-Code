@@ -4,7 +4,7 @@
 
 (1) Completed administrative actions of an agency shall not be affected by the enactment of this chapter or the transfer of such agency to the Department, but shall continue in effect according to their terms until amended, modified, superseded, terminated, set aside, or revoked in accordance with law by an officer of the United States or a court of competent jurisdiction, or by operation of law.
 
-(2) For purposes of paragraph (1), the term “completed administrative action” includes orders, determinations, rules, regulations, personnel actions, permits, agreements, grants, contracts, certificates, licenses, registrations, and privileges.
+(2) For purposes of paragraph (1), the term "completed administrative action" includes orders, determinations, rules, regulations, personnel actions, permits, agreements, grants, contracts, certificates, licenses, registrations, and privileges.
 
 #### (b) Pending proceedings
 
@@ -20,11 +20,11 @@ Subject to the authority of the Secretary under this chapter, pending civil acti
 
 #### (d) References
 
-References relating to an agency that is transferred to the Department in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede such transfer or the effective date of this chapter shall be deemed to refer, as appropriate, to the Department, to its officers, employees, or agents, or to its corresponding organizational units or functions. Statutory reporting requirements that applied in relation to such an agency immediately before the effective date of this chapter shall continue to apply following such transfer if they refer to the agency by name.
+References relating to an agency that is transferred to the Department in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede such transfer or the effective date of this chapter shall bedeemed to refer, as appropriate, to the Department, to its officers, employees, or agents, or to its corresponding organizational units or functions. Statutory reporting requirements that applied in relation to such an agency immediately before the effective date of this chapter shall continue to apply following such transfer if they refer to the agency by name.
 
 #### (e) Employment provisions
 
-(1) Notwithstanding the generality of the foregoing (including subsections (a) and (d) of this section), in and for the Department the Secretary may, in regulations prescribed jointly with the Director of the Office of Personnel Management, adopt the rules, procedures, terms, and conditions, established by statute, rule, or regulation before the effective date of this chapter, relating to employment in any agency transferred to the Department pursuant to this chapter; and
+(1) Notwithstanding the generality of the foregoing (including subsections (a) and (d)), in and for the Department the Secretary may, in regulations prescribed jointly with the Director of the Office of Personnel Management, adopt the rules, procedures, terms, and conditions, established by statute, rule, or regulation before the effective date of this chapter, relating to employment in any agency transferred to the Department pursuant to this chapter; and
 
 (2) except as otherwise provided in this chapter, or under authority granted by this chapter, the transfer pursuant to this chapter of personnel shall not alter the terms and conditions of employment, including compensation, of any employee so transferred.
 
@@ -36,7 +36,7 @@ Any statutory reporting requirement that applied to an agency, transferred to th
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 The effective date of this chapter, referred to in subsecs. (d), (e)(1), and (f), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 

@@ -60,7 +60,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(a), (e)–(g), (i)\],
 
 "(i) The deadline for the Report to Congress required by section 609(c) of the Interstate 90 Land Exchange Act of 1998 \[section 101(e) \[title VI, §609(c)\] of Pub. L. 105–277, set out below\] is hereby extended. Such Report is due to the Congress 18 months from the date of the enactment of this Interstate 90 Land Exchange Amendment \[Nov. 29, 1999\]."
 
-Pub. L. 105–277, div. A, §101(e) \[title VI\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–326, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(b)–(e), (h), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204 to 1501A–206, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title VI\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–326, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(b)–(e), (h), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204 to 1501A–206; Pub. L. 113–287, §5(d)(14), Dec. 19, 2014, 128 Stat. 3265, provided that:
 
 #### "SEC. 601. SHORT TITLE.
 
@@ -114,7 +114,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;"(ii) have lower public recreation and other public values than the Plum Creek offered land;
 
-&emsp;"(6) time is of the essence in consummating a land exchange because delays may force Plum Creek toroad or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
+&emsp;"(6) time is of the essence in consummating a land exchange because delays may force Plum Creek to road or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
 
 &emsp;"(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
 
@@ -168,7 +168,7 @@ Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to
 
 "(d)
 
-Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interestsin lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
+Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
 
 #### "SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.
 
@@ -296,7 +296,7 @@ Land acquired by the secretary.—
 
 &emsp;&emsp;"(A)
 
-In general.—Land acquired by the Secretary under this Act shall become part of the Mt.Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
+In general.—Land acquired by the Secretary under this Act shall become part of the Mt. Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
 
 &emsp;&emsp;"(B)
 
@@ -306,7 +306,7 @@ Modification of boundaries.—
 
 &emsp;&emsp;&emsp;"(2) Nothing in this section shall limit the authority of the Secretary to adjust the boundaries of such National Forests pursuant to section 11 of the Act of March 1, 1911 (commonly known as the 'Weeks Act') \[16 U.S.C. 521\].
 
-&emsp;&emsp;&emsp;"(3) For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9 \[460l–9\]) the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965.
+&emsp;&emsp;&emsp;"(3) For purposes of section 100506 of title 54, United States Code, the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965.
 
 &emsp;&emsp;"(C)
 
@@ -326,7 +326,7 @@ Finding.—Congress finds that Plum Creek and the Secretary should have adequate
 
 &emsp;"(2)
 
-Intention.—It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act \[of 1969\] \[42 U.S.C. 4321 et seq.\], the Endangered Species Act \[of 1973\] \[16 U.S.C. 1531 et seq.\], the National Historic Preservation Act \[16 U.S.C. 470 et seq.\], and other applicable laws, rules, and regulations.
+Intention.—It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act \[of 1969\] \[42 U.S.C. 4321 et seq.\], the Endangered Species Act \[of 1973\] \[16 U.S.C. 1531 et seq.\], division A of subtitle III of title 54, United States Code, and other applicable laws, rules, and regulations.
 
 &emsp;"(3)
 
@@ -358,7 +358,7 @@ Parcels Subject to Historic or Cultural Resource Restrictions.—
 
 &emsp;"(1)
 
-Report to plum creek.—No later than 180 days after enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete determinations and consultation under the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
+Report to plum creek.—No later than 180 days after enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete determinations and consultation under division A of subtitle III of title 54, United States Code, and submit a report to Plum Creek and other consulting parties under division A of subtitle III of title 54, United States Code, listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
 
 &emsp;"(2)
 
@@ -380,7 +380,7 @@ Access Limitation.—The Secretary shall not grant any road easements that would
 
 "(a)
 
-Finding.—The Congress finds that certain lands owned by Plum Creek in the vicinity of the offered lands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquired by the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations.
+Finding.—The Congress finds that certain lands owned by Plum Creek in the vicinity of the offeredlands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquired by the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations.
 
 "(b)
 
@@ -388,7 +388,7 @@ Purchase Consultation.—In furtherance of subsection (a), the Secretary is auth
 
 "(c)
 
-Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire landsfrom Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
+Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
 #### "SEC. 608. TIETON RIVER STUDY.
 
@@ -419,4 +419,8 @@ Report to Congress.—Not later than 18 months after the date of enactment of th
 #### "SEC. 612. EFFECT ON COUNTY REVENUES.
 
 "The Secretary shall consult with the appropriate Committees of Congress, and local elected officials in the counties in the State of Washington in which the offered lands are located, regarding options to minimize the adverse effect on county revenues of the transfer of the offered lands from private to Federal ownership."
+
+\[Pub. L. 113–287, §5(d)(14)(A), Dec. 19, 2014, 128 Stat. 3265, which directed substitution of "section 100506 of title 54, United States Code," for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)" in subsec. (a)(3) of section 606 of the Interstate 90 Land Exchange Act of 1998 (Pub. L. 105–277, div. A, §101(e), title VI), was executed by making the substitution for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9)" in subsec. (a)(1)(B)(3) of that section, set out above, to reflect the probable intent of Congress.\]
+
+\[Pub. L. 113–287, §5(d)(14)(C), Dec. 19, 2014, 128 Stat. 3265, which directed substitution of "division A of subtitle III of title 54, United States Code," for "the National Historic Preservation Act" in subsec. (g)(1) of section 606 of the Interstate 90 Land Exchange Act of 1998 (Pub. L. 105–277, div. A, §101(e), title VI), set out above, was executed by making the substitution in two places in subsec. (g)(1), to reflect the probable intent of Congress.\]
 

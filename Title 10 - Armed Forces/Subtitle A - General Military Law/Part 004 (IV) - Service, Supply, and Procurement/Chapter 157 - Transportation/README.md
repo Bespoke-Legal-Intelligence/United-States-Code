@@ -17,12 +17,7 @@
 | [2641\.](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md) | Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft. |
 | [2641a.](%C2%A7%2002641a%20-%20Transportation%20of%20American%20Samoa%20veterans%20on%20Department%20of%20Defense%20aircraft%20for%20certain%20medical%20care%20in%20Hawaii.md) | Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii. |
 | [2641b.](%C2%A7%2002641b%20-%20Space-available%20travel%20on%20Department%20of%20Defense%20aircraft%20program%20authorized%20and%20eligible%20recipients.md) | Space-available travel on Department of Defense aircraft: program authorized and eligible recipients. |
-| [2642\.](%C2%A7%2002642%20-%20Transportation%20services%20provided%20to%20certain%20other%20agencies%20use%20of%20Department%20of%20Defense%20reimbursement%20rate.md) | Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2642\.](%C2%A7%2002642%20-%20Transportation%20services%20provided%20to%20certain%20non-Department%20of%20Defense%20agencies%20and%20entities%20use%20of%20Department%20of%20Defense%20reimbursement%20rate.md) | Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate. |
 | [2643\.](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md) | Commissary and exchange services: transportation overseas. |
 | [2644\.](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md) | Control of transportation systems in time of war. |
 | [2645\.](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md) | Indemnification of Department of Transportation for losses covered by vessel war risk insurance. |
@@ -36,6 +31,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2014</b>—Pub. L. 113–291, div. A, title X, §1071(f)(21), Dec. 19, 2014, 128 Stat. 3511, which directed substitution of "rate" for "rates" in item 2642, could not be executed because the word "rates" did not appear after the amendment by Pub. L. 113–291, §1044(c)(2). See below.
+
+Pub. L. 113–291, div. A, title X, §1044(c)(2), Dec. 19, 2014, 128 Stat. 3494, amended item 2642 generally, substituting "Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate" for "Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates".
 
 <b>2013</b>—Pub. L. 113–66, div. A, title VI, §621(g)(2), title X, §1073(c), Dec. 26, 2013, 127 Stat. 784, 870, struck out item 2634 "Motor vehicles: transportation or storage for members on change of permanent station or extended deployment", added item 2642, and struck out former item 2642 "Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate".
 
@@ -87,8 +86,6 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 <b>1957</b>—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -109,7 +106,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02641 - Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md)
 - [&sect; 02641a - Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii](%C2%A7%2002641a%20-%20Transportation%20of%20American%20Samoa%20veterans%20on%20Department%20of%20Defense%20aircraft%20for%20certain%20medical%20care%20in%20Hawaii.md)
 - [&sect; 02641b - Space-available travel on Department of Defense aircraft program authorized and eligible recipients](%C2%A7%2002641b%20-%20Space-available%20travel%20on%20Department%20of%20Defense%20aircraft%20program%20authorized%20and%20eligible%20recipients.md)
-- [&sect; 02642 - Transportation services provided to certain other agencies use of Department of Defense reimbursement rate](%C2%A7%2002642%20-%20Transportation%20services%20provided%20to%20certain%20other%20agencies%20use%20of%20Department%20of%20Defense%20reimbursement%20rate.md)
+- [&sect; 02642 - Transportation services provided to certain non-Department of Defense agencies and entities use of Department of Defense reimbursement rate](%C2%A7%2002642%20-%20Transportation%20services%20provided%20to%20certain%20non-Department%20of%20Defense%20agencies%20and%20entities%20use%20of%20Department%20of%20Defense%20reimbursement%20rate.md)
 - [&sect; 02643 - Commissary and exchange services transportation overseas](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md)
 - [&sect; 02644 - Control of transportation systems in time of war](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md)
 - [&sect; 02645 - Indemnification of Department of Transportation for losses covered by vessel war risk insurance](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md)

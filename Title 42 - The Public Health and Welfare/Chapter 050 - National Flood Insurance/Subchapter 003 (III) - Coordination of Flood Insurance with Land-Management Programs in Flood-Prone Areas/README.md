@@ -9,6 +9,8 @@
 - [&sect; 04101a - Technical Mapping Advisory Council](%C2%A7%2004101a%20-%20Technical%20Mapping%20Advisory%20Council.md)
 - [&sect; 04101b - National Flood Mapping Program](%C2%A7%2004101b%20-%20National%20Flood%20Mapping%20Program.md)
 - [&sect; 04101c - Coordination](%C2%A7%2004101c%20-%20Coordination.md)
+- [&sect; 04101d - Flood insurance rate map certification](%C2%A7%2004101d%20-%20Flood%20insurance%20rate%20map%20certification.md)
+- [&sect; 04101e - Exemption from fees for certain map change requests](%C2%A7%2004101e%20-%20Exemption%20from%20fees%20for%20certain%20map%20change%20requests.md)
 - [&sect; 04102 - Criteria for land management and use](%C2%A7%2004102%20-%20Criteria%20for%20land%20management%20and%20use.md)
 - [&sect; 04102a - Repealed. Pub. L. 112&#8211;141, div. F, title II, &sect;100225(c), July 6, 2012, 126 Stat. 941](%C2%A7%2004102a%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20F%2C%20title%20II%2C%20%C2%A7100225%28c%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20941.md)
 - [&sect; 04103 - Repealed. Pub. L. 103&#8211;325, title V, &sect;551(a), Sept. 23, 1994, 108 Stat. 2269](%C2%A7%2004103%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93325%2C%20title%20V%2C%20%C2%A7551%28a%29%2C%20Sept.%2023%2C%201994%2C%20108%20Stat.%202269.md)

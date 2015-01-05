@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-A participant who, during the period of any war or of any national emergency as proclaimed by the President or declared by the Congress, leaves the participant's position in the Agency to enter military service shall not be considered, for purposes of this subchapter, as separated from the participant's position in the Agency by reason of such military service, unless the participant applies for and receives a refund of contributions under this subchapter. Such a participant may not be considered as retaining such position in the Agency after December 31, 1956, or upon the expiration of five years of such military service, whichever is later.
+A participant who, during the period of any war or of any national emergency as proclaimedby the President or declared by the Congress, leaves the participant's position in the Agency to enter military service shall not be considered, for purposes of this subchapter, as separated from the participant's position in the Agency by reason of such military service, unless the participant applies for and receives a refund of contributions under this subchapter. Such a participant may not be considered as retaining such position in the Agency after December 31, 1956, or upon the expiration of five years of such military service, whichever is later.
 
 #### (b) Waiver of contributions
 
@@ -12,5 +12,5 @@ Except to the extent provided under section 2082(e) or 2082(h) of this title, co
 
 #### Prior Provisions
 
-A prior section 253 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 99–335, title V, §501(2), June6, 1986, 100 Stat. 622, related to credit for service while on military leave and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 253 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to credit for service while on military leave and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 

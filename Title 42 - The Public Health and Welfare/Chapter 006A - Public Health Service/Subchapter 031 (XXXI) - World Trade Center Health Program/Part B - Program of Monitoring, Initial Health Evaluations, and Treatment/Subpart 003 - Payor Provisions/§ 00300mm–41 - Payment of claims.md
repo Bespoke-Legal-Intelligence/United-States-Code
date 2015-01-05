@@ -42,7 +42,7 @@ Except as provided in subsections (b) and (c), the cost of monitoring and treatm
 
 #### (A) In general
 
-&emsp;&emsp;No funds may be disbursed from the World Trade Center Health Program Fund under section 300mm–61 of this title unless New York City has entered into a contract with the WTC Program Administrator under which New York City agrees, in a form andmanner specified by the Administrator, to pay the full contribution described in subparagraph (B) in accordance with this subsection on a timely basis, plus any interest owed pursuant to subparagraph (E)(i). Such contract shall specify the terms under which New York City shall be considered to have made the full payment required for a quarter for purposes of subsection (b)(2).
+&emsp;&emsp;No funds may be disbursed from the World Trade Center Health Program Fund under section 300mm–61 of this title unless New York City has entered into a contract with the WTC Program Administrator under which New York City agrees, in a form and manner specified by the Administrator, to pay the full contribution described in subparagraph (B) in accordance with this subsection on a timely basis, plus any interest owed pursuant to subparagraph (E)(i). Such contract shall specify the terms under which New York City shall be considered to have made the full payment required for a quarter for purposes of subsection (b)(2).
 
 #### (B) Full contribution amount
 
@@ -70,7 +70,7 @@ Except as provided in subsections (b) and (c), the cost of monitoring and treatm
 
 #### (ii) Recovery of amounts owed
 
-&emsp;&emsp;&emsp;The amounts owed to the WTC Program Administrator under such contract shall be recoverable by the United States in an action in the same manner as payments made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] may be recoverable in an action brought under section 1862(b)(2)(B)(iii) of such Act \[42 U.S.C. 1395y(b)(2)(B)(iii)\].
+&emsp;&emsp;&emsp;The amounts owed to the WTC Program Administrator under such contract shall be recoverable by the United States in anaction in the same manner as payments made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] may be recoverable in an action brought under section 1862(b)(2)(B)(iii) of such Act \[42 U.S.C. 1395y(b)(2)(B)(iii)\].
 
 #### (F) Deposit in fund
 

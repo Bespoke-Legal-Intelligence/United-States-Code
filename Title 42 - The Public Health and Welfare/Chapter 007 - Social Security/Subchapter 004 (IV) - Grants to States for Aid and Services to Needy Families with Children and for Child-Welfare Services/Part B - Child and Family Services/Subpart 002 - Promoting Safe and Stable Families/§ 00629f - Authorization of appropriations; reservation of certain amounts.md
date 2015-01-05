@@ -110,5 +110,5 @@ Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except a
 
 #### Effective Date
 
-Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L.107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
+Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
 

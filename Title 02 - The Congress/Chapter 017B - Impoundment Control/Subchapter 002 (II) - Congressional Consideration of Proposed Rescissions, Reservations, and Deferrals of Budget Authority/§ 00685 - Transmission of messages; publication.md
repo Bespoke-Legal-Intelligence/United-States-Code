@@ -2,7 +2,7 @@
 
 #### (a) Delivery to House and Senate
 
-Each special message transmitted under section 683 or 684 of this title shall be transmitted to the House of Representatives and the Senate on the same day, and shall be delivered to the Clerk of the House of Representatives if the House is not in session, and to the Secretary of the Senate if the Senate is not in session. Each special message so transmitted shall be referred to the appropriate committee of the House of Representatives and the Senate. Each such message shall be printed as a document of each House.
+Each special message transmitted under section 683 or 684 of this title shall be transmittedto the House of Representatives and the Senate on the same day, and shall be delivered to the Clerk of the House of Representatives if the House is not in session, and to the Secretary of the Senate if the Senate is not in session. Each special message so transmitted shall be referred to the appropriate committee of the House of Representatives and the Senate. Each such message shall be printed as a document of each House.
 
 #### (b) Delivery to Comptroller General
 
@@ -14,11 +14,11 @@ A copy of each special message transmitted under section 683 or 684 of this titl
 
 #### (c) Transmission of supplementary messages
 
-If any information contained in a special message transmitted under section 683 or 684 of this title is subsequently revised, the President shall transmit to both Houses of Congress and the Comptroller General a supplementary message stating and explaining such revision. Any such supplementary message shall be delivered, referred, and printed as provided in subsection (a) of this section. The Comptroller General shall promptly notify the House of Representatives and the Senate of any changes in the information submitted by him under subsection (b) of this section which may be necessitated by such revision.
+If any information contained in a special message transmitted under section 683 or 684 of this title is subsequently revised, the President shall transmit to both Houses of Congress and the Comptroller General a supplementary message stating and explaining such revision. Any such supplementary message shall be delivered, referred, and printed as provided in subsection (a). The Comptroller General shall promptly notify the House of Representatives and the Senate of any changes in the information submitted by him under subsection (b) which may be necessitated by such revision.
 
 #### (d) Printing in Federal Register
 
-Any special message transmitted under section 683 or 684 of this title, and any supplementary message transmitted under subsection (c) of this section, shall be printed in the first issue of the Federal Register published after such transmittal.
+Any special message transmitted under section 683 or 684 of this title, and any supplementary message transmitted under subsection (c), shall be printed in the first issue of the Federal Register published after such transmittal.
 
 #### (e) Cumulative reports of proposed rescissions, reservations, and deferrals of budget authority
 

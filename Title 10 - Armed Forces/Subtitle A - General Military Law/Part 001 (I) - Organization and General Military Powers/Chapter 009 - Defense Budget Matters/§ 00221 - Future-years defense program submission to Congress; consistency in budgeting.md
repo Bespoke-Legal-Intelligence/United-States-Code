@@ -28,6 +28,16 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted "a multiyear" for
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted "multiyear" for "five-year".
 
+#### Reporting of Balances Carried Forward by the Department of Defense at the End of Each Fiscal Year
+
+Pub. L. 113–291, div. A, title X, §1003, Dec. 19, 2014, 128 Stat. 3482, provided that: "Not later March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], and make publicly available on the Internet website of the Department of Defense, the following information:
+
+&emsp;"(1) The total dollar amount, by account, of all balances carried forward by the Department of Defense at the end of the fiscal year preceding the fiscal year during which such information is submitted.
+
+&emsp;"(2) The total dollar amount, by account, of all unobligated balances carried forward by the Department of Defense at the end of the fiscal year preceding the fiscal year during which such information is submitted.
+
+&emsp;"(3) The total dollar amount, by account, of any balances (both obligated and unobligated) that have been carried forward by the Department of Defense for five years or more as of the end of the fiscal year preceding the fiscal year during which such information is submitted."
+
 #### Budget Documentation Requirement
 
 Pub. L. 113–66, div. A, title II, §213(c), Dec. 26, 2013, 127 Stat. 704, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2015, and each subsequent fiscal year, the Secretary shall include individual project lines for each program segment of the unmanned carrier-launched surveillance and strike system, within program element 0604404N, that articulate all costs, contractual actions, and other information associated with technology development for each such program segment."
@@ -102,7 +112,7 @@ In General.—In the budget materials submitted to the President by the Secretar
 
 "(b)
 
-Form.—The Secretary shall ensure that any classified components of covered modules not included in a procurement line item under subsection (a) shall be included in a classified annex.
+Form.—The Secretary shall ensure that any classified components of covered modules not included in aprocurement line item under subsection (a) shall be included in a classified annex.
 
 "(c)
 
@@ -178,7 +188,7 @@ Applicability.—The guidance issued under subsection (a) shall apply with respe
 
 "(c)
 
-Major Range and Test Facility Base Defined.—In this section, the term 'Major Range and Test Facility Base' has the meaning given that term in section 196(h) of title 10, United States Code."
+Major Range and Test Facility Base Defined.—In this section, the term 'Major Range and Test Facility Base' has the meaning given that term in section 196(h) \[now 196(i)\] of title 10, United States Code."
 
 #### Military Munitions Response Program and Installation Restoration Program
 
@@ -186,7 +196,7 @@ Pub. L. 111–84, div. A, title III, §318(b), Oct. 28, 2009, 123 Stat. 2250, pr
 
 #### Separate Procurement Line Items for Future Combat Systems Program
 
-Pub. L. 110–417, \[div. A\], title I, §111, Oct. 14, 2008, 122 Stat. 4373, provided that: "Effective for the budget of the President submitted to Congress under section 1105(a) of title 31, United States Code, for fiscal year 2011 and for each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated procurement line item is designated for each of the following elements of the Future Combat Systems program (in this section referred to as 'FCS'), to the extent the budget includes funding for such elements:
+Pub. L. 110–417, \[div. A\], title I, §111, Oct. 14, 2008, 122 Stat. 4373, provided that: "Effective for the budget ofthe President submitted to Congress under section 1105(a) of title 31, United States Code, for fiscal year 2011 and for each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated procurement line item is designated for each of the following elements of the Future Combat Systems program (in this section referred to as 'FCS'), to the extent the budget includes funding for such elements:
 
 &emsp;"(1) FCS Manned Ground Vehicles.
 
@@ -204,27 +214,9 @@ Pub. L. 110–417, \[div. A\], title II, §214, Oct. 14, 2008, 122 Stat. 4386, p
 
 #### Display of Annual Budget Requirements for Air Sovereignty Alert Mission
 
-Pub. L. 110–417, \[div. A\], title III, §354, Oct. 14, 2008, 122 Stat. 4426, provided that:
+Pub. L. 110–417, \[div. A\], title III, §354, Oct. 14, 2008, 122 Stat. 4426, which required the Secretary of Defense to submit to the President a display of annual budget requirements for the Air Sovereignty Alert Mission of the Air Force, was repealed by Pub. L. 113–188, title IV, §401(a), Nov. 26, 2014, 128 Stat. 2019.
 
-"(a)
-
-Submission With Annual Budget Justification Documents.—For fiscal year 2010 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for consideration by the President for inclusion with the budget materials submitted to Congress under section 1105(a) of title 31, United States Code, a consolidated budget justification display that covers all programs and activities of the Air Sovereignty Alert mission of the Air Force.
-
-"(b)
-
-Requirements for Budget Display.—The budget display under subsection (a) for a fiscal year shall include for such fiscal year the following:
-
-&emsp;"(1) The funding requirements for the Air Sovereignty Alert mission, and the associated Command and Control mission, including such requirements for—
-
-&emsp;&emsp;"(A) military personnel costs;
-
-&emsp;&emsp;"(B) flying hours; and
-
-&emsp;&emsp;"(C) any other associated mission costs.
-
-&emsp;"(2) The amount in the budget for the Air Force for each of the items referred to in paragraph (1).
-
-&emsp;"(3) The amount in the budget for the Air National Guard for each such item."
+\[Pub. L. 113–291, div. A, title X, §1060(b), Dec. 19, 2014, 128 Stat. 3502, which directed repeal of section 354 of Pub. L. 110–417, formerly set out above, could not be executed because of the prior repeal by Pub. L. 113–188, title IV, §401(a), Nov. 26, 2014, 128 Stat. 2019.\]
 
 #### Requirement for Separate Display of Budgets for Afghanistan and Iraq
 
@@ -272,7 +264,7 @@ Pub. L. 110–181, div. A, title IX, §901(b), (c), Jan. 28, 2008, 122 Stat. 272
 
 #### Major Force Program Category for Space
 
-Pub. L. 112–10, div. A, title VIII, §8092, Apr. 15, 2011, 125 Stat. 77, provided that: "The Secretary of Defenseshall create a major force program category for space for each future-years defense program of the Department of Defense submitted to Congress under section 221 of title 10, United States Code, during fiscal year 2011. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category."
+Pub. L. 112–10, div. A, title VIII, §8092, Apr. 15, 2011, 125 Stat. 77, provided that: "The Secretary of Defense shall create a major force program category for space for each future-years defense program of the Department of Defense submitted to Congress under section 221 of title 10, United States Code, during fiscal year 2011. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -416,6 +408,10 @@ Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided t
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 113–235, div. C, title VIII, §8078, Dec. 16, 2014, 128 Stat. 2272.
+
+Pub. L. 113–76, div. C, title VIII, §8075, Jan. 17, 2014, 128 Stat. 123.
+
 Pub. L. 113–6, div. C, title VIII, §8075, Mar. 26, 2013, 127 Stat. 315.
 
 Pub. L. 112–74, div. A, title VIII, §8077, Dec. 23, 2011, 125 Stat. 824.
@@ -460,7 +456,7 @@ Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provi
 
 #### Identification in President's Budget of NATO Costs
 
-Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: "The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as 'subactivities') in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs."
+Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: "The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budgetactivity groups (known as 'subactivities') in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs."
 
 Similar provisions were contained in the following prior appropriation acts:
 

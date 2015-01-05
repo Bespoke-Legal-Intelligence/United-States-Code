@@ -4,17 +4,17 @@ Notwithstanding any other provision of law:
 
 #### (a) In general
 
-Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) shall be ineligible to receive any type of loans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.),<sup>1</sup> or under any contract entered into under title XII \[16 U.S.C. 3801 et seq.\], with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
+Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) shall be ineligible to receive any type of loans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], title I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\], the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.),<sup>1</sup> or under any contract entered into under title XII \[16 U.S.C. 3801 et seq.\],with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
 
 #### (b) Corporations or other entities
 
-For purposes of subsection (a) of this section, a corporation or other entity shall be considered a person that is ineligible for production adjustment payments, price support program loans, payments, or benefits if more than 10 percent of the beneficial ownership of the entity is held by persons who are not citizens of the United States or aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], unless such persons provide a substantial amount of personal labor in the production of crops on such farm. Notwithstanding the foregoing provisions of this subsection, with respect to an entity that is determined to be ineligible to receive such payments, loans, or other benefits, the Secretary may make payments, loans, and other benefits in an amount determined by the Secretary to be representative of the percentage interests of the entity that is owned by citizens of the United States and aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act.
+For purposes of subsection (a), a corporation or other entity shall be considered a person that is ineligible for production adjustment payments, price support program loans, payments, or benefits if more than 10 percent of the beneficial ownership of the entity is held by persons who are not citizens of the United States or aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], unless such persons provide a substantial amount of personal labor in the production of crops on such farm. Notwithstanding the foregoing provisions of this subsection, with respect to an entity that is determined to be ineligible to receive such payments, loans, or other benefits, the Secretary may make payments, loans, and other benefits in an amount determined by the Secretary to be representative of the percentage interests of the entity that is owned by citizens of the United States and aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act.
 
 #### (c) Prospective application
 
 No person shall become ineligible under this section for production adjustment payments, price support program loans, payments or benefits as the result of the production of a crop of an agricultural commodity planted, or commodity program or conservation reserve contract entered into, before December 22, 1987.
 
-(Pub. L. 99–198, title X, §1001C, as added Pub. L. 100–203, title I, §1306, Dec. 22, 1987, 101 Stat. 1330–19; amended Pub. L. 101–624, title XI, §1111(b), Nov. 28, 1990, 104 Stat. 3498; Pub. L. 103–66, title I, §1101(b)(3)(B), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(c)(2), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, §1603(c)(3), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, §1603(a), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), June 18, 2008, 122 Stat. 1664, 1730.)
+(Pub. L. 99–198, title X, §1001C, as added Pub. L. 100–203, title I, §1306, Dec. 22, 1987, 101 Stat. 1330–19; amended Pub. L. 101–624, title XI, §1111(b), Nov. 28, 1990, 104 Stat. 3498; Pub. L. 103–66, title I, §1101(b)(3)(B), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(c)(2), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, §1603(c)(3), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, §1603(a), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §1603(b)(3), Feb. 7, 2014, 128 Stat. 706.)
 
 #### References in Text
 
@@ -22,11 +22,13 @@ The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
+The Agricultural Act of 2014, referred to in subsec. (a), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. For complete classification of this Act to the Code, see short title note set out under section 9001 of this title and Tables.
+
 The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 
@@ -35,6 +37,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a). Pub. L. 113–79 inserted "title I of the Agricultural Act of 2014," before "the Agricultural Market Transition Act".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §1603(a), substituted "Food, Conservation, and Energy Act of 2008" for "Farm Security and Rural Investment Act of 2002".
 
@@ -45,6 +49,10 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 <b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted "1997" for "1995" in two places.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "1991 through 1995 crops" for "1989 and 1990 crops" and inserted ", or under any contract entered into under title XII during the 1989 through 1995 crop years," after "(16 U.S.C. 3831 et seq.)".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–79 applicable beginning with the 2014 crop year, see section 1603(c) of Pub. L. 113–79, set out as a note under section 1308 of this title.
 
 #### Effective Date of 2008 Amendment
 

@@ -22,7 +22,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 #### (1) In general
 
-&emsp;An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection (a) of this section if such advertisement clearly and conspicuously—
+&emsp;An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection\(a) of this section if such advertisement clearly and conspicuously—
 
 &emsp;&emsp;(A) states the information required by paragraphs (1) and (2) of subsection (a) of this section;
 

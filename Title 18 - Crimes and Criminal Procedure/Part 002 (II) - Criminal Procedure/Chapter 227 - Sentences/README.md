@@ -34,7 +34,7 @@ Section 3567, act June 25, 1948, ch. 645, 62 Stat. 838, related to death sentenc
 
 Section 3568, acts June 25, 1948, ch. 645, 62 Stat. 838; Sept. 2, 1960, Pub. L. 86–691, §1(a), 74 Stat. 738; June 22, 1966, Pub. L. 89–465, §4, 80 Stat. 217, related to effective date of sentence and credit for time in custody prior to the imposition of sentence.
 
-Section 3569, acts June 25, 1948, ch. 645, 62 Stat. 838; Oct. 17, 1968, Pub. L. 90–578, title III, §301(a)(1), (3), 82 Stat. 1115; Oct. 12, 1984, Pub. L. 98–473, title II,§§235(a)(1), 238(h), (i), 98 Stat. 2031, 2039; Oct. 30, 1984, Pub. L. 98–596, §§3, 12(a)(8), (9), (b), 98 Stat. 3136, 3139, 3140, related to discharge of indigent prisoner.
+Section 3569, acts June 25, 1948, ch. 645, 62 Stat. 838; Oct. 17, 1968, Pub. L. 90–578, title III, §301(a)(1), (3), 82 Stat. 1115; Oct. 12, 1984, Pub. L. 98–473, title II, §§235(a)(1), 238(h), (i), 98 Stat. 2031, 2039; Oct. 30, 1984, Pub. L. 98–596, §§3, 12(a)(8), (9), (b), 98 Stat. 3136, 3139, 3140, related to discharge of indigent prisoner.
 
 Section 3570, act June 25, 1948, ch. 645, 62 Stat. 839, related to presidential remission as affecting unremitted part.
 

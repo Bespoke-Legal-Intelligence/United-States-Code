@@ -124,7 +124,7 @@ Maritime labor agreement.—The term "maritime labor agreement"—
 
 &emsp;&emsp;&emsp;(i) a collective bargaining agreement between an employer subject to this part, or a group of such employers, and a labor organization representing employees in the maritime or stevedoring industry;
 
-&emsp;&emsp;&emsp;(ii) an agreement preparatory to such a collective bargaining agreement amongmembers of a multi-employer bargaining group; or
+&emsp;&emsp;&emsp;(ii) an agreement preparatory to such a collective bargaining agreement among members of a multi-employer bargaining group; or
 
 &emsp;&emsp;&emsp;(iii) an agreement specifically implementing provisions of such a collective bargaining agreement or providing for the formation, financing, or administration of a multi-employer bargaining group; but
 

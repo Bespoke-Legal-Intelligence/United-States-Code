@@ -42,7 +42,7 @@
 
 #### (b) Effect on State law
 
-Nothing in this subchapter shall be construed to supersede or modify any provision of a State constitution or State law that prohibits the expenditure of public funds in or by sectarian institutions, except that no provision of a State constitution or State law shall be construed to prohibit the expenditure in or by sectarian institutions of any Federal funds provided under this subchapter.
+Nothing in this subchapter shall be construed to supersede or modify any provision of a Stateconstitution or State law that prohibits the expenditure of public funds in or by sectarian institutions, except that no provision of a State constitution or State law shall be construed to prohibit the expenditure in or by sectarian institutions of any Federal funds provided under this subchapter.
 
 (Pub. L. 97–35, title VI, §658N, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–245; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036.)
 

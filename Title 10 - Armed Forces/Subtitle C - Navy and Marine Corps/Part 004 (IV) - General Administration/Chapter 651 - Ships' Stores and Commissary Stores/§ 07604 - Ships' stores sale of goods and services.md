@@ -48,7 +48,7 @@ A prior section 7604, acts Aug. 10, 1956, ch. 1041, 70A Stat. 471; Nov. 2, 1966,
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title III, §371(b), formerly §371(d), Nov. 30, 1993, 107 Stat. 1635, renumbered §371(b)by Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265; as amended by Pub. L. 103–337, div. A, title III, §374(b), Oct. 5, 1994, 108 Stat. 2736, provided that: "Subsections (b) and (c) of section 7604 of title 10, United States Code, as added by subsection (c) \[now (a)\], shall take effect on October 1, 1994."
+Pub. L. 103–160, div. A, title III, §371(b), formerly §371(d), Nov. 30, 1993, 107 Stat. 1635, renumbered §371(b) by Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265; as amended by Pub. L. 103–337, div. A, title III, §374(b), Oct. 5, 1994, 108 Stat. 2736, provided that: "Subsections (b) and (c) of section 7604 of title 10, United States Code, as added by subsection (c) \[now (a)\], shall take effect on October 1, 1994."
 
 #### Regulations
 
@@ -56,5 +56,5 @@ Pub. L. 101–510, div. A, title III, §329(a)(3), Nov. 5, 1990, 104 Stat. 1534,
 
 #### Conversion of Ships' Stores to Operation as Nonappropriated Fund Instrumentalities; Transfer of Funds
 
-Pub. L. 103–160, div. A, title III, §371(a), (b), Nov. 30, 1993, 107 Stat. 1634, 1635, as amended by Pub. L. 103–337, div. A, title III, §374(a), Oct. 5, 1994, 108 Stat. 2736, provided that not later than Dec. 31, 1995, Secretary of the Navy was to convert operation of all ships' stores from operation as activity funded by direct appropriations to operation by Navy Exchange Service Command as activity funded from sources other than appropriated funds, prior to repeal by Pub. L. 104–106, div. A, title III, §340(a)(1), Feb. 10, 1996, 110 Stat. 265.
+Pub. L. 103–160, div. A, title III, §371(a), (b), Nov. 30, 1993, 107 Stat. 1634, 1635, as amended by Pub. L. 103–337, div. A, title III, §374(a), Oct. 5, 1994, 108 Stat. 2736, provided that not later than Dec. 31, 1995, Secretary of the Navy was to convert operation of all ships' stores from operation as activity funded by direct appropriations tooperation by Navy Exchange Service Command as activity funded from sources other than appropriated funds, prior to repeal by Pub. L. 104–106, div. A, title III, §340(a)(1), Feb. 10, 1996, 110 Stat. 265.
 

@@ -18,7 +18,7 @@ The Secretary is authorized to award grants to eligible local educational agenci
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3), the Secretary shall award a grant under subsection (a) of this section to a local educational agency eligible under section 7345(b) of this title for a fiscal year in an amount equal to the initial amount determined under paragraph (2)for the fiscal year minus the total amount received by the agency under the provisions of law described in section 7345(c) of this title for the preceding fiscal year.
+&emsp;Except as provided in paragraph (3), the Secretary shall award a grant under subsection (a) of this section to a local educational agency eligible under section 7345(b) of this title for a fiscal year in an amount equal to the initial amount determined under paragraph (2) for the fiscal year minus the total amount received by the agency under the provisions of law described in section 7345(c) of this title for the preceding fiscal year.
 
 #### (2) Determination of initial amount
 
@@ -40,7 +40,7 @@ The Secretary shall disburse the funds awarded to a local educational agency und
 
 #### (d) Special eligibility rule
 
-A local educational agency that is eligible to receive a grant under this subpart for a fiscal year is not eligible to receive funds for such fiscal year under subpart 2 of this part.
+A local educational agency that is eligible to receive a grant under this subpart for a fiscalyear is not eligible to receive funds for such fiscal year under subpart 2 of this part.
 
 (Pub. L. 89–10, title VI, §6212, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1892.)
 

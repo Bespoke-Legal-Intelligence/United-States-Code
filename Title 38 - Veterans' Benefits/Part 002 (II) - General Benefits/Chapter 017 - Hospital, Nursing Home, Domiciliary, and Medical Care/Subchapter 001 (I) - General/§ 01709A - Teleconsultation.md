@@ -2,7 +2,7 @@
 
 (a)
 
-Teleconsultation.—(1) The Secretary shall carry out an initiative of teleconsultation for the provision of remote mental health and traumatic brain injury assessments in facilities of the Department that are not otherwise ableto provide such assessments without contracting with third-party providers or reimbursing providers through a fee basis system.
+Teleconsultation.—(1) The Secretary shall carry out an initiative of teleconsultation for the provision of remote mental health and traumatic brain injury assessments in facilities of the Department that are not otherwise able to provide such assessments without contracting with third-party providers or reimbursing providers through a fee basis system.
 
 (2) The Secretary shall, in consultation with appropriate professional societies, promulgate technical and clinical care standards for the use of teleconsultation services within facilities of the Department.
 
@@ -18,7 +18,7 @@ Teleconsultation.—(1) The Secretary shall carry out an initiative of teleconsu
 
 (b)
 
-Teleconsultation Defined.—In this section, the term "teleconsultation" means the use by a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
+Teleconsultation Defined.—In this section, the term "teleconsultation" means the useby a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
 
 (Added Pub. L. 112–154, title I, §108(a)(1), Aug. 6, 2012, 126 Stat. 1174.)
 

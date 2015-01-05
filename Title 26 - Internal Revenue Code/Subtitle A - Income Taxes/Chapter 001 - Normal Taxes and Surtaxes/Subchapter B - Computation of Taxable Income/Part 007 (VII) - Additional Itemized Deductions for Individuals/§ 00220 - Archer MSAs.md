@@ -22,7 +22,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 &emsp;In the case of individuals who are married to each other, if either spouse has family coverage—
 
-&emsp;&emsp;(A) both spouses shall be treated as having only such family coverage (and if suchspouses each have family coverage under different plans, as having the family coverage with the lowest annual deductible), and
+&emsp;&emsp;(A) both spouses shall be treated as having only such family coverage (and if such spouses each have family coverage under different plans, as having the family coverage with the lowest annual deductible), and
 
 &emsp;&emsp;(B) the limitation under paragraph (1) (after the application of subparagraph (A) of this paragraph) shall be divided equally between them unless they agree on a different division.
 

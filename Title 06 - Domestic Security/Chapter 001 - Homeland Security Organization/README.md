@@ -44,6 +44,7 @@
 | [124k.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md) | Interagency Threat Assessment and Coordination Group. |
 | 124<i>l.</i> | National asset database. |
 | [124m.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124m%20-%20Classified%20Information%20Advisory%20Officer.md) | Classified Information Advisory Officer. |
+| [125\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000125%20-%20Annual%20report%20on%20intelligence%20activities%20of%20the%20Department%20of%20Homeland%20Security.md) | Annual report on intelligence activities of the Department of Homeland Security. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,9 +65,14 @@
 | :--- | ---: |
 | [141\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000141%20-%20Procedures%20for%20sharing%20information.md) | Procedures for sharing information. |
 | [142\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000142%20-%20Privacy%20officer.md) | Privacy officer. |
-| [143\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000143%20-%20Enhancement%20of%20non-Federal%20cybersecurity.md) | Enhancement of non-Federal cybersecurity. |
+| [143\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000143%20-%20Enhancement%20of%20Federal%20and%20non-Federal%20cybersecurity.md) | Enhancement of Federal and non-Federal cybersecurity. |
 | [144\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000144%20-%20NET%20Guard.md) | NET Guard. |
 | [145\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000145%20-%20Cyber%20Security%20Enhancement%20Act%20of%202002.md) | Cyber Security Enhancement Act of 2002. |
+| [146\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000146%20-%20Cybersecurity%20workforce%20assessment%20and%20strategy.md) | Cybersecurity workforce assessment and strategy. |
+| [147\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000147%20-%20Cybersecurity%20recruitment%20and%20retention.md) | Cybersecurity recruitment and retention. |
+| [148\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000148%20-%20National%20cybersecurity%20and%20communications%20integration%20center.md) | National cybersecurity and communications integration center. |
+| [149\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000149%20-%20Cyber%20incident%20response%20plan.md) | Cyber incident response plan. |
+| [150\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000150%20-%20Clearances.md) | Clearances. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -151,6 +157,7 @@
 | [238\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000238%20-%20Office%20for%20Domestic%20Preparedness.md) | Office for Domestic Preparedness. |
 | [239\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000239%20-%20Office%20of%20Cargo%20Security%20Policy.md) | Office of Cargo Security Policy. |
 | [240\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000240%20-%20Border%20Enforcement%20Security%20Task%20Force.md) | Border Enforcement Security Task Force. |
+| [241\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000241%20-%20Prevention%20of%20international%20child%20abduction.md) | Prevention of international child abduction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -277,6 +284,7 @@
 |  |  |
 | :--- | ---: |
 | [381\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20C%20-%20United%20States%20Secret%20Service/%C2%A7%2000381%20-%20Functions%20transferred.md) | Functions transferred. |
+| [382\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20C%20-%20United%20States%20Secret%20Service/%C2%A7%2000382%20-%20Use%20of%20proceeds%20derived%20from%20criminal%20investigations.md) | Use of proceeds derived from criminal investigations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -365,6 +373,7 @@
 | [469\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000469%20-%20Fees%20for%20credentialing%20and%20background%20investigations%20in%20transportation.md) | Fees for credentialing and background investigations in transportation. |
 | [469a.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000469a%20-%20Collection%20of%20fees%20from%20non-Federal%20participants%20in%20meetings.md) | Collection of fees from non-Federal participants in meetings. |
 | [470\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000470%20-%20Disclosures%20regarding%20homeland%20security%20grants.md) | Disclosures regarding homeland security grants. |
+| [471\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000471%20-%20Annual%20ammunition%20report.md) | Annual ammunition report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -469,6 +478,29 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XII–A—TRANSPORTATION SECURITY
+
+#### Part A—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [561\.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20A%20-%20General%20Provisions/%C2%A7%2000561%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Transportation Security Administration Acquisition Improvements
+
+|  |  |
+| :--- | ---: |
+| [563\.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563%20-%205-year%20technology%20investment%20plan.md) | 5-year technology investment plan. |
+| [563a.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563a%20-%20Acquisition%20justification%20and%20reports.md) | Acquisition justification and reports. |
+| [563b.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563b%20-%20Acquisition%20baseline%20establishment%20and%20reports.md) | Acquisition baseline establishment and reports. |
+| [563c.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563c%20-%20Inventory%20utilization.md) | Inventory utilization. |
+| [563d.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563d%20-%20Small%20business%20contracting%20goals.md) | Small business contracting goals. |
+| [563e.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563e%20-%20Consistency%20with%20the%20Federal%20Acquisition%20Regulation%20and%20departmental%20policies%20and%20directives.md) | Consistency with the Federal Acquisition Regulation and departmental policies and directives. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS
 
 |  |  |
@@ -533,6 +565,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XVI—CHEMICAL FACILITY ANTI-TERRORISM STANDARDS
+
+|  |  |
+| :--- | ---: |
+| [621\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000621%20-%20Definitions.md) | Definitions. |
+| [622\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000622%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards%20Program.md) | Chemical Facility Anti-Terrorism Standards Program. |
+| [623\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000623%20-%20Protection%20and%20sharing%20of%20information.md) | Protection and sharing of information. |
+| [624\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000624%20-%20Civil%20enforcement.md) | Civil enforcement. |
+| [625\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000625%20-%20Whistleblower%20protections.md) | Whistleblower protections. |
+| [626\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000626%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
+| [627\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000627%20-%20CFATS%20regulations.md) | CFATS regulations. |
+| [628\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000628%20-%20Small%20covered%20chemical%20facilities.md) | Small covered chemical facilities. |
+| [629\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000629%20-%20Outreach%20to%20chemical%20facilities%20of%20interest.md) | Outreach to chemical facilities of interest. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -553,6 +601,8 @@
 - [Subchapter 010 (X) - Construction](Subchapter%20010%20%28X%29%20-%20Construction/README.md)
 - [Subchapter 011 (XI) - Department of Justice Divisions](Subchapter%20011%20%28XI%29%20-%20Department%20of%20Justice%20Divisions/README.md)
 - [Subchapter 012 (XII) - Transition](Subchapter%20012%20%28XII%29%20-%20Transition/README.md)
+- [Subchapter 012&#8211;A (XII&#8211;A) - Transportation Security](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/README.md)
 - [Subchapter 013 (XIII) - Emergency Communications](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/README.md)
 - [Subchapter 014 (XIV) - Domestic Nuclear Detection Office](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/README.md)
 - [Subchapter 015 (XV) - Homeland Security Grants](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/README.md)
+- [Subchapter 016 (XVI) - Chemical Facility Anti-Terrorism Standards](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/README.md)

@@ -42,7 +42,7 @@ Free and reduced price policy statement.—After the initial submission, a local
 
 #### (c) Disbursement of apportioned funds by State; preference for schools in poor economic areas, for students traveling long distances daily, and for schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families
 
-Funds apportioned and paid to any State for the purpose of this section shall be disbursed by the State educational agency to schools selected by the State educational agency to assist such schools in operating a breakfast program and for the purpose of subsection (d) of this section. Disbursement to schools shall be made at suchrates per meal or on such other basis as the Secretary shall prescribe. In selecting schools for participation, the State educational agency shall, to the extent practicable, give first consideration to those schools drawing attendance from areas in which poor economic conditions exist, to those schools in which a substantial proportion of the children enrolled must travel long distances daily, and to those schools in which there is a special need for improving the nutrition and dietary practices of children of working mothers and children from low-income families. Breakfast assistance disbursements to schools under this section may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
+Funds apportioned and paid to any State for the purpose of this section shall be disbursed by the State educational agency to schools selected by the State educational agency to assist such schools in operating a breakfast program and for the purpose of subsection (d) of this section. Disbursement to schools shall be made at such rates per meal or on such other basis as the Secretary shall prescribe. In selecting schools for participation, the State educational agency shall, to the extent practicable, give first consideration to those schools drawing attendance from areas in which poor economic conditions exist, to those schools in which a substantial proportion of the children enrolled must travel long distances daily, and to those schools in which there is a special need for improving the nutrition and dietary practices of children of working mothers and children from low-income families. Breakfast assistance disbursements to schools under this section may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
 
 #### (d) Severe need assistance
 
@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 108–265, §201, added subsec. (d) and struck out former s
 
 Subsec. (b)(1)(B). Pub. L. 105–336, §103(b)(2)(A), struck out "adjusted to the nearest one-fourth cent," after "payment for each free breakfast," in second sentence.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 105–336, §103(b)(2)(B), substituted "(as adjusted pursuant to section 1759a(a)(3)(B) of this title)." for ", which shall be adjusted on an annual basis each July 1 to the nearest one-fourth cent in accordance with changes in the series for food away from home of the Consumer Price Index published bythe Bureau of Labor Statistics of the Department of Labor for the most recent twelve-month period for which such data are available, except that the initial such adjustment shall be made on January 1, 1978, and shall reflect the change in the series of food away from home during the period November 1, 1976, to October 31, 1977."
+Subsec. (b)(2)(B)(ii). Pub. L. 105–336, §103(b)(2)(B), substituted "(as adjusted pursuant to section 1759a(a)(3)(B) of this title)." for ", which shall be adjusted on an annual basis each July 1 to the nearest one-fourth cent in accordance with changes in the series for food away from home of the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor for the most recent twelve-month period for which such data are available, except that the initial such adjustment shall be made on January 1, 1978, and shall reflect the change in the series of food away from home during the period November 1, 1976, to October 31, 1977."
 
 <b>1996</b>—Subsec. (b)(1)(E). Pub. L. 104–193, §722, added subpar. (E).
 
@@ -150,7 +150,7 @@ Subsec. (f). Pub. L. 94–105, §17(a), substituted "directly to the schools (as
 
 Subsec. (g). Pub. L. 94–105, §3, added subsec. (g).
 
-<b>1973</b>—Subsec. (b). Pub. L. 93–150, §4(c), prescribed a minimum payment of 8 cents as the national average payment for all breakfasts served to eligible children, inserted provision for minimum payment of 15 cents for each reduced-price breakfast and for minimum payment of 20 cents for each free breakfast, and authorized, in cases of severe need, a payment of up to 45 cents for each breakfast served to children qualifying for a free breakfast.
+<b>1973</b>—Subsec. (b). Pub. L. 93–150, §4(c), prescribed a minimum payment of 8 cents as the national average payment for all breakfasts served to eligible children,inserted provision for minimum payment of 15 cents for each reduced-price breakfast and for minimum payment of 20 cents for each free breakfast, and authorized, in cases of severe need, a payment of up to 45 cents for each breakfast served to children qualifying for a free breakfast.
 
 Subsec. (c). Pub. L. 93–150, §4(a), (b), substituted in first sentence "State educational agency to assist such schools in financing the costs of operating a breakfast program" for "State educational agency, to assist such schools in financing the cost of obtaining agricultural and other foods for consumption by needy children in a breakfast program" and struck out second sentence which provided that "Such food costs may include, in addition to the purchase price, the cost of processing, distributing, transporting, storing, and handling.", respectively.
 
@@ -220,11 +220,11 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, and no provision therein t
 
 #### Review of Best Practices in the Breakfast Program
 
-Pub. L. 108–265, title II, §206, June 30, 2004, 118 Stat. 787, directed the Secretary of Agriculture to enter into an agreement with a research organization to collect and disseminate a review of best practices to assist school food authorities in addressing existing impediments at the State and local level that hinder the growth of the school breakfast program and, not later than 1 year after June 30, 2004, to make the review available to school food authorities via the Internet and to transmit it to congressional committees.
+Pub. L. 108–265, title II, §206, June 30, 2004, 118 Stat. 787, directed the Secretary of Agriculture to enter intoan agreement with a research organization to collect and disseminate a review of best practices to assist school food authorities in addressing existing impediments at the State and local level that hinder the growth of the school breakfast program and, not later than 1 year after June 30, 2004, to make the review available to school food authorities via the Internet and to transmit it to congressional committees.
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 
-For provisions directing Secretary of Agriculture to consolidate school breakfast program under this section and school lunch program under chapter 13 (§1751et seq.) of this title into comprehensive meal program, see section 301 of Pub. L. 103–448, set out as a note under section 1751 of this title.
+For provisions directing Secretary of Agriculture to consolidate school breakfast program under this section and school lunch program under chapter 13 (§1751 et seq.) of this title into comprehensive meal program, see section 301 of Pub. L. 103–448, set out as a note under section 1751 of this title.
 
 #### Adjustments in Maximum Breakfast Payments for Fiscal Year Ending September 30, 1981
 

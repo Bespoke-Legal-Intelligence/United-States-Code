@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
+With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of thistitle, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
 
 #### (b) Federal contribution; maximum amount; exceptions
 
@@ -10,7 +10,7 @@ The Federal contribution in the case of any project referred to in subsection (a
 
 #### (c) Periodic beach nourishment; "construction" defined
 
-When in the opinion of the Chief of Engineers the most suitable and economical remedial measures would be provided by periodic beach nourishment, the term "construction" may beconstrued for the purposes of sections 426e to 426h–1 of this title to include the deposit of sand fill at suitable intervals of time to furnish sand supply to project shores for a length of time specified by the Chief of Engineers.
+When in the opinion of the Chief of Engineers the most suitable and economical remedial measures would be provided by periodic beach nourishment, the term "construction" may be construed for the purposes of sections 426e to 426h–1 of this title to include the deposit of sand fill at suitable intervals of time to furnish sand supply to project shores for a length of time specified by the Chief of Engineers.
 
 #### (d) Shores other than public
 
@@ -62,7 +62,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;After authorization by Congress, and before commencement of construction, of a shore protection project or separable element, the Secretary shall enter into a written agreement with a non-Federal interest with respect to the project or separable element.
+&emsp;&emsp;&emsp;After authorization by Congress, and before commencement of construction, of ashore protection project or separable element, the Secretary shall enter into a written agreement with a non-Federal interest with respect to the project or separable element.
 
 #### (ii) Terms
 
@@ -88,7 +88,7 @@ Coastal Engineering Research Center, referred to in subsec. (e), has been substi
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–303, §227(a), inserted "and beaches" after "damage to the shores" and substituted "sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federalactivities." for "the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions."
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, §227(a), inserted "and beaches" after "damage to the shores" and substituted "sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities." for "the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions."
 
 Subsec. (b)(3). Pub. L. 104–303, §227(e)(2), substituted "Secretary" for "Secretary of the Army, acting through the Chief of Engineers," and struck out second period at end.
 

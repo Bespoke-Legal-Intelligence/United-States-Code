@@ -66,7 +66,7 @@ Digital transmissions.—
 
 &emsp;&emsp;&emsp;(ii) the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title.
 
-&emsp;&emsp;(B) Until a digital transmission standard has been set pursuant to subparagraph (A) with respect to the placement of copyright management information for a category of works, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to such copyright management information, if the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title, and if—
+&emsp;&emsp;(B) Until a digital transmission standard has been set pursuant to subparagraph (A) with respect to the placement of copyright management information for a category of works, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to such copyrightmanagement information, if the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title, and if—
 
 &emsp;&emsp;&emsp;(i) the transmission of such information by such person would result in a perceptible visual or aural degradation of the digital signal; or
 

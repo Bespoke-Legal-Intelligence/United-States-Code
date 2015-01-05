@@ -12,7 +12,7 @@ When authorized by and in accordance with applicable regulations:
 
 Subsection (a) is based on title 14, U.S.C., 1946 ed., §167b–2 (June 21, 1930, ch. 563, §2, 46 Stat. 793).
 
-Inasmuch as the act cited above applies equally to the Navy and Marine Corps as well as the Coast Guard, it is not scheduled for repeal but is being amended by section 12 of this act to eliminate reference to the Coast Guard.
+Inasmuch as the act cited above applies equally to the Navy and Marine Corps as well as the Coast Guard,it is not scheduled for repeal but is being amended by section 12 of this act to eliminate reference to the Coast Guard.
 
 Subsection (b) is new to the Coast Guard, although it has been the practice for retired officers to wear the uniform when they so desire. Such authority is granted to retired officers of the Navy (see title 34, U.S.C., 1946 ed., §389).
 

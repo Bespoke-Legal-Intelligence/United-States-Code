@@ -4,7 +4,7 @@ Section 1731, Pub. L. 97–300, title IV, §451, Oct. 13, 1982, 96 Stat. 1381; P
 
 Section 1732, Pub. L. 97–300, title IV, §452, Oct. 13, 1982, 96 Stat. 1381; Pub. L. 102–367, title IV, §403(a)(2), Sept. 7, 1992, 106 Stat. 1078, related to research, demonstration, and evaluation.
 
-Section 1733, Pub. L. 97–300, title IV, §453, Oct. 13, 1982, 96 Stat. 1382; Pub. L. 99–496, §13, Oct. 16, 1986, 100 Stat. 1265; Pub. L. 102–367, title IV, §403(a)(3), Sept. 7, 1992, 106 Stat. 1080, related to capacity building, information, dissemination, and replication activities.
+Section 1733, Pub. L. 97–300, title IV, §453, Oct. 13, 1982, 96 Stat. 1382; Pub. L. 99–496, §13, Oct. 16, 1986, 100 Stat. 1265; Pub. L. 102–367, title IV, §403(a)(3), Sept. 7,1992, 106 Stat. 1080, related to capacity building, information, dissemination, and replication activities.
 
 Section 1734, Pub. L. 97–300, title IV, §454, as added Pub. L. 102–367, title IV, §403(b), Sept. 7, 1992, 106 Stat. 1084; amended Pub. L. 104–193, title I, §110(n)(12), Aug. 22, 1996, 110 Stat. 2174, related to guidance on eligibility verification.
 

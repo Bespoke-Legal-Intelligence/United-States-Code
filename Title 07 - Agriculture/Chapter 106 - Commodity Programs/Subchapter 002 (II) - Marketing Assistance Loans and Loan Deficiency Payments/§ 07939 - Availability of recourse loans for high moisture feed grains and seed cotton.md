@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) certified scale tickets from an inspected, certified commercial scale, including a licensed warehouse, feedlot, feed mill, distillery, or other similar entity approved by the Secretary, pursuant to regulations issued by the Secretary; or
 
-&emsp;&emsp;&emsp;(ii) field or other physical measurements of the standing or stored crop in regions of the United States, as determined by the Secretary, that do not have certified commercial scales from which certified scale tickets may be obtained within reasonable proximity of harvest operation;
+&emsp;&emsp;&emsp;(ii) field or other physical measurements of the standing or stored crop in regions ofthe United States, as determined by the Secretary, that do not have certified commercial scales from which certified scale tickets may be obtained within reasonable proximity of harvest operation;
 
 &emsp;&emsp;(C) certify that they were the owners of the feed grain at the time of delivery to, and that the quantity to be placed under loan under this subsection was in fact harvested on the farm and delivered to, a feedlot, feed mill, or commercial or on-farm high-moisture storage facility, or to a facility maintained by the users of corn and grain sorghum in a high moisture state; and
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) the acreage of the corn or grain sorghum in a high moisture state harvested on the producer's farm; by
 
-&emsp;&emsp;(B) the lower of the farm program payment yield used to make counter-cyclical payments under subchapter I of this chapter or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
+&emsp;&emsp;(B) the lower of the farm program payment yield used to make counter-cyclical payments under subchapter I or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
 
 #### (3) High moisture state defined
 

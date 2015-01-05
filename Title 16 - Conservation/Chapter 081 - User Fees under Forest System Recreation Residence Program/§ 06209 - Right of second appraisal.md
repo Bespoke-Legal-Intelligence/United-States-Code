@@ -42,3 +42,7 @@ On receipt of a request from the cabin owner under subsection (c) of this sectio
 
 (Pub. L. 106–291, title VI, §610, Oct. 11, 2000, 114 Stat. 1020.)
 
+#### Repeal of Section
+
+<i>Pub. L. 113–291, div. B, title XXX, §3024(k), Dec. 19, 2014, 128 Stat. 3766, provided that, effective on the date of the assessment of annual permit fees in accordance with section 6214(f) of this title (as certified to Congress by the Secretary of Agriculture), this section is repealed.</i>
+

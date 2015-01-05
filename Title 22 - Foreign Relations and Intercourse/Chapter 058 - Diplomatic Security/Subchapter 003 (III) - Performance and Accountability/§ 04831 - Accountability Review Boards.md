@@ -28,13 +28,13 @@
 
 &emsp;&emsp;&emsp;(ii) conduct an inquiry of the incident; and
 
-&emsp;&emsp;&emsp;(iii) upon completion of the inquiry required by clause (ii), submit to each such Committee a report on the findings andrecommendations related to such inquiry and the actions taken with respect to such recommendations.
+&emsp;&emsp;&emsp;(iii) upon completion of the inquiry required by clause (ii), submit to each such Committee a report on the findings and recommendations related to such inquiry and the actions taken with respect to such recommendations.
 
 #### (b) Deadlines for convening Boards
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1) of this section, except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
+&emsp;Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1), except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
 
 #### (2) Delay in cases involving intelligence activities
 
@@ -72,7 +72,13 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
 
-Pub. L. 112–74, div. I, title VII, §7034(m)(2), Dec. 23, 2011, 125 Stat. 1216, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2012."
+Pub. L. 113–235, div. J, title VII, §7034(l)(2), Dec. 16, 2014, 128 Stat. 2625, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect for facilities in Afghanistan through September 30, 2015, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations."
 
-Pub. L. 111–117, div. F, title VII, §7034(r), Dec. 16, 2009, 123 Stat. 3363, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2010."
+Prior continuations were contained in the following prior acts:
+
+Pub. L. 113–76, div. K, title VII, §7034(m)(2), Jan. 17, 2014, 128 Stat. 515.
+
+Pub. L. 112–74, div. I, title VII, §7034(m)(2), Dec. 23, 2011, 125 Stat. 1216.
+
+Pub. L. 111–117, div. F, title VII, §7034(r), Dec. 16, 2009, 123 Stat. 3363.
 

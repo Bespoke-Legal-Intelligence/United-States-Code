@@ -16,5 +16,5 @@ Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1421, amended sect
 
 #### Prior Provisions
 
-A prior section 2701, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1295, established Federal Records Council and set forth composition, compensation, etc., of such Council, prior to repeal by Pub. L. 95–378, §2(a), Sept. 22, 1978, 92 Stat. 723. Section 1 of Pub. L. 95–378 abolished the Federal Records Council.
+A prior section 2701, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1295, established Federal Records Council and set forth composition, compensation, etc., of such Council,prior to repeal by Pub. L. 95–378, §2(a), Sept. 22, 1978, 92 Stat. 723. Section 1 of Pub. L. 95–378 abolished the Federal Records Council.
 

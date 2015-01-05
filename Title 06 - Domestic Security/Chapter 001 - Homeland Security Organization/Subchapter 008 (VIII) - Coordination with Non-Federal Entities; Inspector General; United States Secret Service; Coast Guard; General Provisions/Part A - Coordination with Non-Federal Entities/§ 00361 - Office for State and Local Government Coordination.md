@@ -6,7 +6,7 @@ There is established within the Office of the Secretary the Office for State and
 
 #### (b) Responsibilities
 
-The Office established under subsection (a) of this section shall—
+The Office established under subsection (a) shall—
 
 &emsp;(1) coordinate the activities of the Department relating to State and local government;
 
@@ -26,7 +26,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The purpose of this order is to maximize the Federal Government's ability to develop local partnerships in the United States to support homeland security priorities. Partnerships are collaborative working relationships in which the goals, structure, and roles and responsibilities of the relationships are mutually determined. Collaboration enables the Federal Government and its partners to use resources more efficiently, build on one another's expertise, drive innovation, engage in collective action, broaden investments to achieve shared goals, and improve performance. Partnerships enhance our ability to address homeland security priorities, from responding to natural disasters to preventing terrorism, by utilizing diverse perspectives, skills, tools, and resources.
 
-The National Security Strategy emphasizes the importance of partnerships, underscoring that to keep our Nation safe “we must tap the ingenuity outside government through strategic partnerships with the private sector, nongovernmental organizations, foundations, and community-based organizations. Such partnerships are critical to U.S. success at home and abroad, and we will support them through enhanced opportunities for engagement, coordination, transparency, and information sharing.” This approach recognizes that, given the complexities and range of challenges, we must institutionalize an all-of-Nation effort to address the evolving threats to the United States.
+The National Security Strategy emphasizes the importance of partnerships, underscoring that to keep our Nation safe "we must tap the ingenuity outside government through strategic partnerships with the private sector, nongovernmental organizations, foundations, and community-based organizations. Such partnerships are critical to U.S. success at home and abroad, and we will support them through enhanced opportunities for engagement, coordination, transparency, and information sharing." This approach recognizes that, given the complexities and range of challenges, we must institutionalize an all-of-Nation effort to address the evolving threats to the United States.
 
 Sec. 2. <i>White House Homeland Security Partnership Council and Steering Committee</i>.
 
@@ -121,4 +121,6 @@ Sec. 4. <i>General Provisions</i>. (a) The heads of agencies participating in th
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
 

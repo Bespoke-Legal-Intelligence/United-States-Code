@@ -6,7 +6,7 @@
 
 (c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty as provided in subsection (a), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being so ordered to active duty.
 
-(d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
+(d) At any time, an authority designated by the Secretary concerned may order a member ofa reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
 
 (e) The period of time allowed between the date when a Reserve ordered to active duty as provided in subsection (a) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
 
@@ -14,7 +14,7 @@
 
 (g)(1) A member of a reserve component may be ordered to active duty without his consent if the Secretary concerned determines that the member is in a captive status. A member ordered to active duty under this section may not be retained on active duty, without his consent, for more than 30 days after his captive status is terminated.
 
-(2) The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall apply uniformly among the armedforces under the jurisdiction of the Secretary. A determination for the purposes of this subsection that a member is in a captive status shall be made pursuant to such regulations.
+(2) The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall apply uniformly among the armed forces under the jurisdiction of the Secretary. A determination for the purposes of this subsection that a member is in a captive status shall be made pursuant to such regulations.
 
 (3) In this section, the term "captive status" means the status of a member of the armed forces who is in a missing status (as defined in section 551(2) of title 37) which occurs as the result of a hostile action and is related to the member's military status.
 
@@ -96,7 +96,7 @@ Aug. 9, 1955, ch. 665, §2(e), 69 Stat. 599.
 
 The word "hereafter" is omitted as surplusage. The words "there are not enough . . . who are" are substituted for the words "adequate numbers of . . . are not". The words "without the consent of the persons affected" and "under the jurisdiction of that Secretary" are inserted for clarity.
 
-The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term "active duty" to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
+The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)),which defines the term "active duty" to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
 
 #### Codification
 

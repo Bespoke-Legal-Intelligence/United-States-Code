@@ -1,6 +1,6 @@
 ### §3504. Litigation concerning sources of evidence
 
-(a) In any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, or other authority of the United States—
+(a) In any trial, hearing, or other proceeding in or before any court, grand jury, department,officer, agency, regulatory body, or other authority of the United States—
 
 &emsp;(1) upon a claim by a party aggrieved that evidence is inadmissible because it is the primary product of an unlawful act or because it was obtained by the exploitation of an unlawful act, the opponent of the claim shall affirm or deny the occurrence of the alleged unlawful act;
 

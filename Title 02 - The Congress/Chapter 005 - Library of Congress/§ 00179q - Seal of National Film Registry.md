@@ -22,7 +22,7 @@ The use of the seal described in section 179m(a)(3) of this title shall be effec
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–9, §302(d)(1), inserted “in any format” after “or any copy” in introductory provisions.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–9, §302(d)(1), inserted "in any format" after "or any copy" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–9, §302(d)(2), substituted “in any format” for “or film copy”.
+Subsec. (a)(2). Pub. L. 109–9, §302(d)(2), substituted "in any format" for "or film copy".
 

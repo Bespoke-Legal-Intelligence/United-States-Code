@@ -14,7 +14,7 @@ Section 1721 of this title, referred to in subsec. (b), was in the original "sec
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–76 inserted after first sentence "The preceding sentence shall also apply toany payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16."
+<b>2001</b>—Subsec. (b). Pub. L. 107–76 inserted after first sentence "The preceding sentence shall also apply to any payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16."
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted "Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all receipts" for "All receipts" in first sentence.
 

@@ -8,13 +8,13 @@ Joint Prices.—An air carrier may establish reasonable joint prices and through
 
 Prices, Classifications, Rules, and Practices and Divisions of Joint Prices.—For through service by an air carrier and a carrier subject to subtitle IV of this title, the participating carriers shall establish—
 
-&emsp;(1) reasonable prices and reasonable classifications, rules, and practices affecting thoseprices or the value of the transportation provided under those prices; and
+&emsp;(1) reasonable prices and reasonable classifications, rules, and practices affecting those prices or the value of the transportation provided under those prices; and
 
 &emsp;(2) for joint prices established for the through service, reasonable divisions of those joint prices among the participating carriers.
 
 (c)
 
-Statements Included in Tariffs.—An air carrier and a carrier subject to subtitle IV of this title that are participating in through service and joint prices shall include in their tariffs, filed with the Secretary of Transportation, a statement showing the through service and joint prices.
+Statements Included in Tariffs.—An air carrier and a carrier subject to subtitle IV of this title that are participating in through service and joint prices shall include in their tariffs,filed with the Secretary of Transportation, a statement showing the through service and joint prices.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1132; Pub. L. 104–88, title III, §308(l), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–102, §2(22), Nov. 20, 1997, 111 Stat. 2205.)
 

@@ -30,10 +30,11 @@
 | [7626\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007626%20-%20Integrated%20research%2C%20education%2C%20and%20extension%20competitive%20grants%20program.md) | Integrated research, education, and extension competitive grants program. |
 | [7627\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007627%20-%20Coordinated%20program%20of%20research%2C%20extension%2C%20and%20education%20to%20improve%20viability%20of%20small%20and%20medium%20size%20dairy%2C%20livestock%2C%20and%20poultry%E2%80%A6.md) | Coordinated program of research, extension, and education to improve viability of small and medium size dairy, livestock, and poultry operations. |
 | [7628\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007628%20-%20Support%20for%20research%20regarding%20diseases%20of%20wheat%2C%20triticale%2C%20and%20barley%20caused%20by%20Fusarium%20graminearum%20or%20by%20Tilletia%20indica.md) | Support for research regarding diseases of wheat, triticale, and barley caused by Fusarium graminearum or by Tilletia indica. |
-| [7629\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007629%20-%20Bovine%20Johne%27s%20disease%20control%20program.md) | Bovine Johne's disease control program. |
+| [7629\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007629%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77304%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20888.md) | Repealed. |
 | [7630\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007630%20-%20Grants%20for%20youth%20organizations.md) | Grants for youth organizations. |
 | [7631\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007631%20-%20Agricultural%20biotechnology%20research%20and%20development%20for%20developing%20countries.md) | Agricultural biotechnology research and development for developing countries. |
 | [7632\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007632%20-%20Specialty%20crop%20research%20initiative.md) | Specialty crop research initiative. |
+| [7633\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007633%20-%20Food%20and%20agriculture%20service%20learning%20program.md) | Food and agriculture service learning program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,6 +59,7 @@
 | [7654\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007654%20-%20Food%20Safety%20Research%20Information%20Office.md) | Food Safety Research Information Office. |
 | [7655\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655%20-%20Safe%20food%20handling%20education.md) | Safe food handling education. |
 | [7655a.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655a%20-%20Food%20safety%20education%20initiatives.md) | Food safety education initiatives. |
+| [7655b.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655b%20-%20Forestry%20products%20advanced%20utilization%20research.md) | Forestry products advanced utilization research. |
 | [7656\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007656%20-%20Designation%20of%20Crisis%20Management%20Team%20within%20Department.md) | Designation of Crisis Management Team within Department. |
 | [7657\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007657%20-%20Senior%20Scientific%20Research%20Service.md) | Senior Scientific Research Service. |
 
@@ -65,10 +67,9 @@
 
 #### Part C—Studies
 
-|  |  |
-| :--- | ---: |
-| [7671\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20C%20-%20Studies/%C2%A7%2007671%20-%20Evaluation%20and%20assessment%20of%20agricultural%20research%2C%20extension%2C%20and%20education%20programs.md) | Evaluation and assessment of agricultural research, extension, and education programs. |
-| [7672\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20C%20-%20Studies/%C2%A7%2007672%20-%20Study%20of%20federally%20funded%20agricultural%20research%2C%20extension%2C%20and%20education.md) | Study of federally funded agricultural research, extension, and education. |
+|  |
+| :--- |
+| 7671, 7672. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -26,7 +26,7 @@ Within 5 days after the date the Secretary takes any adverse action under this p
 
 #### (2) Procedural rules
 
-&emsp;The district court in which an action is filed under paragraph (1) shall review the final decision of the Board on the record established inthe administrative proceeding, in accordance with the standards of review prescribed by subparagraphs (A) through (E) of section 706(2) of title 5. The review shall be on the basis of the documents and supporting data submitted to the Board.
+&emsp;The district court in which an action is filed under paragraph (1) shall review the final decision of the Board on the record established in the administrative proceeding, in accordance with the standards of review prescribed by subparagraphs (A) through (E) of section 706(2) of title 5. The review shall be on the basis of the documents and supporting data submitted to the Board.
 
 (Aug. 14, 1935, ch. 531, title IV, §410, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 

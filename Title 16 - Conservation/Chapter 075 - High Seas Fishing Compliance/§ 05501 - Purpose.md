@@ -2,7 +2,7 @@
 
 It is the purpose of this chapter—
 
-&emsp;(1) to implement the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, adopted by the Conference of the Food and Agriculture Organization of the United Nations on November 24, 1993; and
+&emsp;(1) to implement the Agreement to Promote Compliance with International Conservationand Management Measures by Fishing Vessels on the High Seas, adopted by the Conference of the Food and Agriculture Organization of the United Nations on November 24, 1993; and
 
 &emsp;(2) to establish a system of permitting, reporting, and regulation for vessels of the United States fishing on the high seas.
 
@@ -10,7 +10,7 @@ It is the purpose of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", and was translated as reading "this title",meaning title I of Pub. L. 104–43, to reflect the probable intent of Congress.
+This chapter, referred to in text, was in the original "this Act", and was translated as reading "this title", meaning title I of Pub. L. 104–43, to reflect the probable intent of Congress.
 
 #### Effective Date
 

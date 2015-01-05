@@ -26,7 +26,7 @@ Each State technical committee shall provide public notice of, and permit public
 
 #### (2) Local working groups
 
-&emsp;For purposes of the Federal Advisory Committee Act (5 U.S.C. App.), any local workinggroup established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
+&emsp;For purposes of the Federal Advisory Committee Act (5 U.S.C. App.), any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
 
 (Pub. L. 99–198, title XII, §1262, as added Pub. L. 101–624, title XIV, §1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 103–354, title II, §246(f)(3), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 104–127, title III, §342(b), Apr. 4, 1996, 110 Stat. 1009; Pub. L. 110–234, title II, §2711, May 22, 2008, 122 Stat. 1084; Pub. L. 110–246, §4(a), title II, §2711, June 18, 2008, 122 Stat. 1664, 1812.)
 

@@ -96,7 +96,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 #### (5) Application
 
-&emsp;Each eligible State partnership desiring an implementation grant shall submit an application to the Administration at such time, in such manner, and accompanied by such information as the Administration may reasonably require. Each application submitted shall include—
+&emsp;Each eligible State partnership desiring an implementation grant shall submit an application to the Administration at such time, in such manner, and accompanied by such information as the Administration may reasonablyrequire. Each application submitted shall include—
 
 &emsp;&emsp;(A) a description of the members of the State partnership;
 
@@ -164,7 +164,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 #### (2) Implementation grants
 
-&emsp;There are authorized to be appropriated to award implementation grants under subsection (d), $150,000,000 for fiscal year 2010, and such sums as may be necessary for each subsequent fiscal year.
+&emsp;There are authorized to be appropriated to award implementation grants under subsection (d), $150,000,000 for fiscal year 2010, andsuch sums as may be necessary for each subsequent fiscal year.
 
 (Pub. L. 111–148, title V, §5102, Mar. 23, 2010, 124 Stat. 599.)
 
@@ -192,7 +192,7 @@ A prior section 294x, act July 1, 1944, ch. 373, title VII, §755, as added Oct.
 
 A prior section 294y, act July 1, 1944, ch. 373, title VII, §756, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2288, which related to authorization of appropriations, was renumbered section 338F of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254q of this title, and subsequently renumbered section 338G of act July 1, 1944, prior to repeal by Pub. L. 100–177, title II, §§201(2), 203, Dec. 1, 1987, 101 Stat. 992, 999.
 
-A prior section 294y–1, act July 1, 1944, ch. 373, title VII, §757, as added Aug. 1, 1977, Pub. L. 95–83, title III,§307(n)(1), 91 Stat. 392; amended Dec. 17, 1980, Pub. L. 96–537, §3(d), 94 Stat. 3174, which related to Indian Health Scholarships, was renumbered section 338G of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254r of this title, and subsequently renumbered section 338I of act July 1, 1944, by Pub. L. 100–177, prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
+A prior section 294y–1, act July 1, 1944, ch. 373, title VII, §757, as added Aug. 1, 1977, Pub. L. 95–83, title III, §307(n)(1), 91 Stat. 392; amended Dec. 17, 1980, Pub. L. 96–537, §3(d), 94 Stat. 3174, which related to Indian Health Scholarships, was renumbered section 338G of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254r of this title, and subsequently renumbered section 338I of act July 1, 1944, by Pub. L. 100–177, prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
 
 Prior sections 294z to 294cc were omitted in the general amendment of this subchapter by Pub. L. 102–408.
 

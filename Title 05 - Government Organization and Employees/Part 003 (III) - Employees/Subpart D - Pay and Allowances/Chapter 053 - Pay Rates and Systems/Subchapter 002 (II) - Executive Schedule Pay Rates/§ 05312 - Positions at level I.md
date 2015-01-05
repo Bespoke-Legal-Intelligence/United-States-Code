@@ -88,9 +88,9 @@ Pub. L. 100–527 inserted item relating to Secretary of Veterans Affairs.
 
 <b>1985</b>—Pub. L. 99–198 inserted item relating to Special Assistant for Agricultural Trade and Food Aid.
 
-<b>1983</b>—Pub. L. 97–456, §3(d)(5), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+<b>1983</b>—Pub. L. 97–456, §3(d)(5), substituted "United States Trade Representative" for "Special Representative for Trade Negotiations".
 
-<b>1979</b>—Pub. L. 96–88, §508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
+<b>1979</b>—Pub. L. 96–88, §508(g), substituted "Health and Human Services" for "Health, Education, and Welfare" in item relating to the Secretary of Health and Human Services.
 
 Pars. (1) to (14). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
 
@@ -118,21 +118,21 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–569, title X, §1002(b), Dec. 27, 2000, 114 Stat. 3028, provided that: “This section \[amending this section and sections 5313 and 5314 of this title\] and the amendments made by this section shall take effect on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after the date of the enactment of this Act \[Dec. 27, 2000\].”
+Pub. L. 106–569, title X, §1002(b), Dec. 27, 2000, 114 Stat. 3028, provided that: "This section \[amending this section and sections 5313 and 5314 of this title\] and the amendments made by this section shall take effect on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after the date of the enactment of this Act \[Dec. 27, 2000\]."
 
 #### Effective and Termination Dates of 1988 Amendments
 
 Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed on Sept. 30, 1997, see sections 1012 and 1009, respectively, of Pub. L. 100–690.
 
-Pub. L. 100–679, §11(e), Nov. 17, 1988, 102 Stat. 4070, provided that: “The amendments made by this section \[amending sections 5312 to 5315 of this title\] shall be effective on January 20, 1989.”
+Pub. L. 100–679, §11(e), Nov. 17, 1988, 102 Stat. 4070, provided that: "The amendments made by this section \[amending sections 5312 to 5315 of this title\] shall be effective on January 20, 1989."
 
-Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1979 Amendments
 
 Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
 
-Pub. L. 96–54, §2(a)(25)(B), Aug. 14, 1979, 93 Stat. 382, provided that: The amendments made by subparagraph (A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980”.
+Pub. L. 96–54, §2(a)(25)(B), Aug. 14, 1979, 93 Stat. 382, provided that: The amendments made by subparagraph\(A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980".
 
 #### Effective Date of 1970 Amendment
 
@@ -144,79 +144,79 @@ Amendment by Pub. L. 89–670 effective 90 days after Secretary of Transportatio
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–82, title II, §201, Aug. 9, 1975, 89 Stat. 419, provided that: “This title \[see Tables for classification\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
+Pub. L. 94–82, title II, §201, Aug. 9, 1975, 89 Stat. 419, provided that: "This title \[see Tables for classification\] may be cited as the 'Executive Salary Cost-of-Living Adjustment Act'."
 
 #### Compensation and Emoluments of Secretary of the Interior; Fixing at Level in Effect on January 1, 2005
 
 Pub. L. 111–1, §1, Jan. 16, 2009, 123 Stat. 3, provided that:
 
-“(a)
+"(a)
 
 In General.—The compensation and other emoluments attached to the office of Secretary of the Interior shall be those in effect January 1, 2005, notwithstanding any increase in such compensation or emoluments after that date under any provision of law, or provision which has the force and effect of law, that is enacted or becomes effective during the period beginning at noon of January 3, 2005, and ending at noon of January 3, 2011.
 
-“(b)
+"(b)
 
 Civil Action and Appeal.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Jurisdiction.—Any person aggrieved by an action of the Secretary of the Interior may bring a civil action in the United States District Court for the District of Columbia to contest the constitutionality of the appointment and continuance in office of the Secretary of the Interior on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States District Court for the District of Columbia shall have exclusive jurisdiction over such a civil action, without regard to the sum or value of the matter in controversy.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of the Interior on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty of the district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Appeal.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-Direct appeal to supreme court.—An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of the Interior under article I, section 6, clause 2, of the Constitution, entered in any actionbrought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
+Direct appeal to supreme court.—An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of the Interior under article I, section 6, clause 2, of the Constitution, entered in any action brought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Jurisdiction.—The Supreme Court shall, if it has not previously ruled on the question presented by an appeal taken under subparagraph (A), accept jurisdiction over the appeal, advance the appeal on the docket, and expedite the appeal.
 
-“(c)
+"(c)
 
-Effective Date.—This joint resolution shall take effect at 12:00 p.m. on January 20, 2009.”
+Effective Date.—This joint resolution shall take effect at 12:00 p.m. on January 20, 2009."
 
 #### Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on January 1, 2007
 
 Pub. L. 110–455, Dec. 19, 2008, 122 Stat. 5036, provided that:
 
-“(a)
+"(a)
 
 In General.—The compensation and other emoluments attached to the office of Secretary of State shall be those in effect January 1, 2007, notwithstanding any increase in such compensation or emoluments after that date under any provision of law, or provision which has the force and effect of law, that is enacted or becomes effective during the period beginning at noon of January 3, 2007, and ending at noon of January 3, 2013.
 
-“(b)
+"(b)
 
 Civil Action and Appeal.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Jurisdiction.—Any person aggrieved by an action of the Secretary of State may bring a civil action in the United States District Court for the District of Columbia to contest the constitutionality of the appointment and continuance in office of the Secretary of State on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States District Court for the District of Columbia shall have exclusive jurisdiction over such a civil action, without regard to the sum or value of the matter in controversy.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of State on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty of the district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Appeal.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Direct appeal to supreme court.—An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary of State under article I, section 6, clause 2, of the Constitution, entered in any action brought under this subsection. Any such appeal shall be taken by a notice of appeal filed within 20 days after such judgment, decree, or order is entered.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Jurisdiction.—The Supreme Court shall, if it has not previously ruled on the question presented by an appeal taken under subparagraph (A), accept jurisdiction over the appeal, advance the appeal on the docket, and expedite the appeal.
 
-“(c)
+"(c)
 
-Effective Date.—This joint resolution shall take effect at 12:00 p.m. on January 20, 2009.”
+Effective Date.—This joint resolution shall take effect at 12:00 p.m. on January 20, 2009."
 
 #### Compensation and Emoluments of Secretary of the Treasury at Level in Effect on January 1, 1989
 
@@ -224,7 +224,7 @@ For provisions limiting compensation and emoluments of Secretary of the Treasury
 
 #### Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on January 1, 1977
 
-Pub. L. 96–241, §1, May 3, 1980, 94 Stat. 343, limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointed to that office after May 3, 1980, ceases to hold that office.
+Pub. L. 96–241, §1, May 3, 1980, 94 Stat. 343, limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointedto that office after May 3, 1980, ceases to hold that office.
 
 #### Compensation and Emoluments of Attorney General; Fixing at Level in Effect on January 1, 1969
 

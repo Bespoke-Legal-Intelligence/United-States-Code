@@ -4,7 +4,7 @@
 
 The benefits provided to an individual by the insurance program under this part shall consist of entitlement to have payment made on his behalf or, in the case of payments referred to in section 1395f(d)(2) of this title to him (subject to the provisions of this part) for—
 
-&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (ifsuch individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
 
 &emsp;(2)(A) post-hospital extended care services for up to 100 days during any spell of illness, and (B) to the extent provided in subsection (f) of this section, extended care services that are not post-hospital extended care services;
 
@@ -62,7 +62,7 @@ If an individual is an inpatient of a psychiatric hospital on the first day of t
 
 (C) An individual may, once in each such period, change the hospice program with respect to which the election is made and such change shall not be considered a revocation of an election under subparagraph (B).
 
-(D) For purposes of this subchapter, an individual's election with respect to a hospice program shall no longer be considered to be in effect with respect to that hospice program after the date the individual's revocation or change ofelection with respect to that election takes effect.
+(D) For purposes of this subchapter, an individual's election with respect to a hospice program shall no longer be considered to be in effect with respect to that hospice program after the date the individual's revocation or change of election with respect to that election takes effect.
 
 #### (e) Services taken into account
 
@@ -292,7 +292,7 @@ Budget Neutrality.—With respect to the 3-year period of the demonstration prog
 
 #### Protecting Home Health Benefits
 
-Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: "Nothing in the provisions of, or amendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
+Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: "Nothing in the provisions of, oramendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
 #### Rural Hospice Demonstration Project
 

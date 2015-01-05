@@ -8,7 +8,7 @@
 
 #### (2) Notice of approval
 
-&emsp;On notification that the Farm Credit Administration Board has approved such plan forsubmission to the stockholders, or after 60 days of no action on the plan by the Board, the submitting institutions may submit the plan, together with the disclosure information, to the voters for the prescribed vote.
+&emsp;On notification that the Farm Credit Administration Board has approved such plan for submission to the stockholders, or after 60 days of no action on the plan by the Board, the submitting institutions may submit the plan, together with the disclosure information, to the voters for the prescribed vote.
 
 #### (b) Notice of reasons for disapproval
 

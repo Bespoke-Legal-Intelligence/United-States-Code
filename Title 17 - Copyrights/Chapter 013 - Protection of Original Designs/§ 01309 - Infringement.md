@@ -10,7 +10,7 @@ Acts of Infringement.—Except as provided in subsection (b), it shall be infrin
 
 (b)
 
-Acts of Sellers and Distributors.—A seller or distributor of an infringing article who did not make or import the article shall be deemed to have infringed on a design protected under this chapter only if that person—
+Acts of Sellers and Distributors.—A seller or distributor of an infringing article who did not make or import the article shall bedeemed to have infringed on a design protected under this chapter only if that person—
 
 &emsp;(1) induced or acted in collusion with a manufacturer to make, or an importer to import such article, except that merely purchasing or giving an order to purchase such article in the ordinary course of business shall not of itself constitute such inducement or collusion; or
 

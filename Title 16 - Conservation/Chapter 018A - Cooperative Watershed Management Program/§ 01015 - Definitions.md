@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Grant recipient
 
-&emsp;The term "grant recipient" means a watershed group that the Secretary has selected toreceive a grant under section 1015a(c)(2) of this title.
+&emsp;The term "grant recipient" means a watershed group that the Secretary has selected to receive a grant under section 1015a(c)(2) of this title.
 
 #### (3) Program
 

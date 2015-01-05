@@ -62,7 +62,7 @@ Emergency Orders.—
 
 &emsp;(1)
 
-In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed under this chapter, or an unsafe condition or practice, constitutes or is causing an imminenthazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed under this chapter, or an unsafe condition or practice, constitutes or is causing an imminent hazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
 
 &emsp;(2)
 
@@ -148,7 +148,7 @@ Report.—The Secretary shall, once every 2 years, prepare and transmit to the C
 
 &emsp;(3) a summary of the basis for each special permit;
 
-&emsp;(4) an evaluation of the effectiveness of enforcement activities relating to a functionregulated by the Secretary under section 5103(b)(1) and the degree of voluntary compliance with regulations;
+&emsp;(4) an evaluation of the effectiveness of enforcement activities relating to a function regulated by the Secretary under section 5103(b)(1) and the degree of voluntary compliance with regulations;
 
 &emsp;(5) a summary of outstanding problems in carrying out this chapter in order of priority; and
 
@@ -264,7 +264,7 @@ Pub. L. 112–141, div. C, title III, §33005, July 6, 2012, 126 Stat. 833, prov
 
 "(a)
 
-In General.—The Secretary \[of Transportation\] may conduct pilot projects to evaluate the feasibilityand effectiveness of using paperless hazard communications systems. At least 1 of the pilot projects under this section shall take place in a rural area.
+In General.—The Secretary \[of Transportation\] may conduct pilot projects to evaluate the feasibility and effectiveness of using paperless hazard communications systems. At least 1 of the pilot projects under this section shall take place in a rural area.
 
 "(b)
 

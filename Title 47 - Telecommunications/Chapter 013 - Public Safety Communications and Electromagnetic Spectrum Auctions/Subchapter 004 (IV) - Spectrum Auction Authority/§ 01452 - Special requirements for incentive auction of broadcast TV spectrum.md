@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) voluntarily relinquishes spectrum usage rights under subsection (a) to share a television channel with another licensee; or
 
-&emsp;&emsp;&emsp;(iii) a channel 37 incumbent user, in order to relocate to other suitable spectrum, provided that all such users can be relocated and that the total relocation costs of such users do not exceed $300,000,000. For the purpose of this section, the spectrum made available through relocation of channel 37 incumbent users shall be deemed as spectrum reclaimed through a reverse auction under subsection (a).
+&emsp;&emsp;&emsp;(iii) a channel 37 incumbent user, in order to relocate to other suitable spectrum, provided that all such users can be relocated and that the total relocation costs of such users do not exceed$300,000,000. For the purpose of this section, the spectrum made available through relocation of channel 37 incumbent users shall be deemed as spectrum reclaimed through a reverse auction under subsection (a).
 
 #### (B) Regulatory relief
 
